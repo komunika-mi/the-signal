@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Semua Berita Ekonomi · The Signal</title>
+<meta name="description" content="Indeks lengkap berita ekonomi Indonesia, dirangkum dari tvOneNews. Kolaborasi editorial The Signal x tvOne, didukung adsmediamix.id.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Signal">
+<meta property="og:title" content="Semua Berita Ekonomi — The Signal">
+<meta property="og:description" content="Indeks lengkap berita ekonomi Indonesia, dirangkum dari tvOneNews.">
+<meta property="og:image" content="https://the-signal-sandy.vercel.app/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Semua Berita Ekonomi — The Signal">
+<meta name="twitter:image" content="https://the-signal-sandy.vercel.app/assets/img/og-card.jpg">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="page">
+  <div class="util-bar">
+    <div class="rail">
+      <div class="util-date">Sabtu, 1 Agustus 2026 &middot; 06.50 WIB</div>
+      <div class="util-index num">
+        <span>IHSG <b>7.286,14</b> <span class="up">&#9650;0,64%</span></span>
+        <span>USD/IDR <b>15.812</b> <span class="down">&#9660;0,21%</span></span>
+        <span>Emas Antam <b>Rp1.366rb/gr</b> <span class="down">&#9660;Rp20rb</span></span>
+      </div>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="rail">
+      <nav class="masthead-nav">
+        <a class="nav-link active" href="berita.html">Semua Berita</a>
+        <a class="nav-link" href="berita.html#kat=makroekonomi">Makro</a>
+        <a class="nav-link" href="berita.html#kat=pasar-modal">Pasar Modal</a>
+        <a class="nav-link" href="berita.html#kat=perbankan">Perbankan</a>
+        <a class="nav-link" href="berita.html#kat=energi">Energi</a>
+        <a class="nav-link" href="video.html">Video</a>
+      </nav>
+      <div class="brand">
+        <a class="logo" href="index.html">The Signal</a>
+        <span class="logo-tag">Berita &amp; Analisis Ekonomi</span>
+      </div>
+      <div class="masthead-actions">
+        <button class="btn-subscribe" type="button" data-open-subscribe>Berlangganan
+          <svg width="11" height="11" viewBox="0 0 12 12" fill="none"><path d="M3 9 9 3M4 3h5v5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="rail breadcrumb"><a href="index.html">Beranda</a> &rsaquo; Semua Berita</div>
+
+  <section class="rail" style="padding-block:.5rem 1.6rem;">
+    <span class="eyebrow">Indeks Berita</span>
+    <h1 class="article-title" style="max-width:24ch;">Semua Berita Ekonomi</h1>
+    <p class="article-deck" style="max-width:58ch;">Arsip lengkap rangkuman berita ekonomi The Signal, disaring dari liputan tvOneNews. Pilih rubrik untuk mempersempit, atau cari kata kunci.</p>
+  </section>
+
+  <section class="rail" style="padding-bottom:1.2rem;">
+    <div class="search-bar open" style="border:none;">
+      <div class="rail" style="padding-inline:0;">
+        <input type="search" id="index-search" placeholder="Cari di dalam arsip&hellip;" aria-label="Cari berita">
+        <span class="search-hint" id="index-count">&nbsp;</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-latest rail" style="border-top:none;padding-top:0;">
+    <div class="chip-row" id="chip-row"></div>
+    <div class="story-grid" id="index-grid"></div>
+    <p class="source-note" id="index-empty" hidden>Tidak ada artikel yang cocok. Coba kata kunci lain, atau <a href="https://www.tvonenews.com/ekonomi" target="_blank" rel="noopener">telusuri langsung di tvOneNews</a>.</p>
+    <button class="btn-load" type="button" id="load-more">Muat lebih banyak</button>
+  </section>
+
+  <footer class="footer">
+    <div class="rail footer-collab">
+      <img src="assets/img/tvone-logo.svg" alt="tvOne">
+      <span class="divider"></span>
+      <span>Kolaborasi editorial <strong>The Signal &times; tvOne</strong>, didukung oleh <strong>adsmediamix.id</strong></span>
+    </div>
+    <div class="rail footer-grid">
+      <div class="footer-brand">
+        <div class="logo">The Signal</div>
+        <p>Liputan dan analisis ekonomi Indonesia, dari kebijakan moneter sampai dompet rumah tangga. Berita dirangkum dari tvOneNews.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Rubrik</h4>
+        <ul id="footer-cats"></ul>
+      </div>
+      <div class="footer-col">
+        <h4>The Signal</h4>
+        <ul>
+          <li><a href="index.html">Beranda</a></li>
+          <li><a href="video.html">Video</a></li>
+          <li><a href="https://www.tvonenews.com/ekonomi" target="_blank" rel="noopener">tvOneNews.com</a></li>
+          <li><a href="https://adsmediamix.id" target="_blank" rel="noopener">adsmediamix.id</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Ikuti tvOneNews</h4>
+        <ul>
+          <li><a href="https://www.instagram.com/tvonenews" target="_blank" rel="noopener">Instagram</a></li>
+          <li><a href="https://x.com/tvOneNews" target="_blank" rel="noopener">X</a></li>
+          <li><a href="https://www.youtube.com/@tvOneNews" target="_blank" rel="noopener">YouTube</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="rail footer-bottom">
+      <span>&copy; 2026 The Signal. Berita dirangkum dari tvOneNews.com dengan tautan sumber.</span>
+      <span>Data pasar ilustratif</span>
+    </div>
+  </footer>
+
+</div>
+
+<div class="modal-backdrop" id="modal-backdrop">
+  <div class="modal" id="modal">
+    <button class="modal-close" type="button" id="modal-close" aria-label="Tutup">
+      <svg width="13" height="13" viewBox="0 0 16 16"><path d="M2 2l12 12M14 2 2 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+    </button>
+    <h3>Berlangganan Signal+</h3>
+    <p>Ringkasan ekonomi pagi, langsung ke email kamu, tiap hari kerja. Gratis selama masa pratinjau.</p>
+    <form id="subscribe-form">
+      <input type="email" required placeholder="Alamat email kamu" aria-label="Alamat email">
+      <button class="btn-modal-submit" type="submit">Berlangganan</button>
+    </form>
+    <p class="modal-success" id="modal-success">Terima kasih! Cek email kamu untuk konfirmasi berlangganan.</p>
+  </div>
+</div>
+
+<script src="assets/js/articles.js"></script>
+<script src="assets/js/market.js"></script>
+<script src="assets/js/shared.js"></script>
+<script>
+(function () {
+  var PAGE = 12;
+  var shown = PAGE;
+  var activeCat = 'semua';
+  var query = '';
+
+  var grid = document.getElementById('index-grid');
+  var empty = document.getElementById('index-empty');
+  var loadBtn = document.getElementById('load-more');
+  var countEl = document.getElementById('index-count');
+  var search = document.getElementById('index-search');
+
+  var counts = {};
+  ARTICLES.forEach(function (a) { counts[a.category] = (counts[a.category] || 0) + 1; });
+  var cats = Object.keys(counts).sort(function (x, y) { return counts[y] - counts[x]; });
+
+  document.getElementById('chip-row').innerHTML =
+    '<button class="chip active" data-cat="semua" type="button">Semua<span class="chip-count">' + ARTICLES.length + '</span></button>' +
+    cats.map(function (c) {
+      return '<button class="chip" data-cat="' + TS.catSlug(c) + '" type="button">' + TS.esc(c) +
+        '<span class="chip-count">' + counts[c] + '</span></button>';
+    }).join('');
+
+  document.getElementById('footer-cats').innerHTML = cats.slice(0, 5).map(function (c) {
+    return '<li><a href="berita.html#kat=' + TS.catSlug(c) + '">' + TS.esc(c) + '</a></li>';
+  }).join('');
+
+  function filtered() {
+    return ARTICLES.filter(function (a) {
+      var okCat = activeCat === 'semua' || TS.catSlug(a.category) === activeCat;
+      if (!okCat) return false;
+      if (!query) return true;
+      return (TS.plain(a.title) + ' ' + a.deck + ' ' + a.category + ' ' + a.tags.join(' '))
+        .toLowerCase().indexOf(query) !== -1;
+    });
+  }
+
+  function render() {
+    var list = filtered();
+    grid.innerHTML = list.slice(0, shown).map(TS.storyCard).join('');
+    empty.hidden = list.length !== 0;
+    loadBtn.hidden = shown >= list.length;
+    countEl.textContent = list.length + ' artikel';
+  }
+
+  document.getElementById('chip-row').addEventListener('click', function (e) {
+    var chip = e.target.closest('.chip');
+    if (!chip) return;
+    activeCat = chip.dataset.cat;
+    shown = PAGE;
+    Array.prototype.forEach.call(this.querySelectorAll('.chip'), function (c) {
+      c.classList.toggle('active', c === chip);
+    });
+    history.replaceState(null, '', activeCat === 'semua' ? 'berita.html' : '#kat=' + activeCat);
+    render();
+    window.scrollTo({ top: grid.offsetTop - 120, behavior: 'smooth' });
+  });
+
+  loadBtn.addEventListener('click', function () { shown += PAGE; render(); });
+
+  search.addEventListener('input', function () {
+    query = search.value.trim().toLowerCase();
+    shown = PAGE;
+    render();
+  });
+
+  // deep link: #kat=xxx
+  var m = (location.hash || '').match(/kat=([a-z0-9-]+)/);
+  if (m) {
+    var target = document.querySelector('.chip[data-cat="' + m[1] + '"]');
+    if (target) { target.click(); return; }
+  }
+  render();
+  TS.isiPasar();
+  TS.initModal();
+})();
+</script>
+</body>
+</html>

@@ -25,7 +25,10 @@ function Catat($pesan) {
 # Menjalankan perintah luar dengan aman: keluaran ditangkap, kode keluar dicek
 # sendiri, stderr tidak bikin skrip mati.
 function Jalankan($berkas, [string[]]$argumen) {
-  $keluaran = & $berkas @argumen 2>&1 | Out-String
+  # Sengaja TIDAK memakai 2>&1: di PowerShell 5.1 itu membungkus tiap baris
+  # stderr jadi ErrorRecord (NativeCommandError), sehingga pesan biasa git
+  # muncul sebagai tumpukan error palsu di log.
+  $keluaran = & $berkas @argumen | Out-String
   $kode = $LASTEXITCODE
   foreach ($baris in ($keluaran -split "`r?`n")) {
     if ($baris.Trim()) { Catat ("  " + $baris.Trim()) }

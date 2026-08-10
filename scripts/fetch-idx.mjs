@@ -37,6 +37,8 @@ const MATERIAL = new RegExp([
   'buyback', 'pembelian kembali saham', 'stock split', 'reverse stock',
   'obligasi', 'sukuk', 'penawaran umum', 'ipo', 'waran',
   'perubahan pengendali', 'perubahan pemegang saham', 'kepemilikan saham',
+  'daftar pemegang saham', 'realisasi penggunaan dana', 'corporate secretary',
+  'perubahan alamat',
   'suspensi', 'delisting', 'relisting', 'pailit', 'pkpu', 'restrukturisasi',
   'kontrak', 'kerja sama', 'ekspansi', 'pabrik baru', 'investasi',
   'informasi material', 'keterbukaan informasi', 'kejadian penting',

@@ -448,3 +448,8 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
 .brief-box { border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.2rem .4rem; }
 .brief-box .compact-row { padding-block: .7rem; }
 .brief-box .compact-title { font-size: .95rem; }
+
+/* ---------- kartu pasar di sidebar artikel ---------- */
+.sidebar-pasar { margin-bottom: 1.8rem; }
+.sidebar-pasar .ticker-value { font-size: 1.05rem; }
+.sidebar-pasar .ticker-cell { padding: .7rem .75rem; }

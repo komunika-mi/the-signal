@@ -67,6 +67,29 @@ const PASAR = MARKET
       .filter(Boolean).join("\n        ")
   : "";
 
+
+// Kartu pasar untuk sidebar halaman artikel dan tayangan.
+function sparkMini(naik) {
+  const pts = naik ? "1,15 8,12 15,13 22,8 29,10 36,4 43,6"
+                   : "1,4 8,6 15,5 22,9 29,7 36,11 43,10";
+  const warna = naik ? "var(--green)" : "var(--red)";
+  return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="' + pts +
+    '" fill="none" stroke="' + warna + '" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+}
+function selPasar(d, nama) {
+  if (!d) return "";
+  return '<div class="ticker-cell"><div class="ticker-top">' + sparkMini(d.naik) +
+    '<span class="pill ' + (d.naik ? "up" : "down") + '">' + d.delta + '</span></div>' +
+    '<div class="ticker-value num">' + d.nilai + '</div>' +
+    '<div class="ticker-name">' + nama + '</div></div>';
+}
+const KARTU_PASAR = MARKET
+  ? '<h4>Pasar Hari Ini</h4><div class="ticker-grid sidebar-pasar">' +
+    selPasar(MARKET.ihsg, "IHSG") + selPasar(MARKET.usdidr, "USD/IDR") +
+    selPasar(MARKET.emas, "Emas (spot) / gr") + selPasar(MARKET.btc, "Bitcoin / IDR") +
+    '</div>'
+  : "";
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -242,7 +265,9 @@ ARTICLES.forEach(function (a) {
     `<h1 class="article-title">${hl(a.title)}</h1>` +
     `<p class="article-deck">${esc(a.deck)}</p>` +
     `<div class="hero-meta" style="border-top:none;padding-top:0;margin-top:1rem;">` +
-    `<span class="num">${esc(a.date)}</span><span>Dirangkum dari <strong>tvOneNews</strong></span></div>` +
+    `<span class="num">${esc(a.date)}</span><span>${a.sourceLabel === 'IDX'
+      ? 'Sumber: <strong>Keterbukaan Informasi IDX</strong>'
+      : 'Dirangkum dari <strong>tvOneNews</strong>'}</span></div>` +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-cover" style="background-image:url('/${a.image}')"></div>` +
@@ -254,7 +279,7 @@ ARTICLES.forEach(function (a) {
       ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
       : 'Artikel ini rangkuman editorial The Signal dari liputan tvOneNews, bukan salinan langsung. Untuk versi lengkap dan mutakhir, baca artikel aslinya.'}</p>` +
     `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">${a.sourceLabel === 'IDX' ? 'Lihat dokumen resmi di IDX &rarr;' : 'Baca artikel asli di tvOneNews &rarr;'}</a></div>` +
-    `</div><aside class="article-side"><h4>Berita Terkait</h4>${relatedHtml}` +
+    `</div><aside class="article-side">${KARTU_PASAR}<h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
     `<a class="compact-row" href="/berita.html"><span class="compact-body"><span class="compact-title">Semua Berita</span><span class="compact-meta">${ARTICLES.length} artikel</span></span></a>` +
     `<a class="compact-row" href="/video.html"><span class="compact-body"><span class="compact-title">Video Ekonomi</span><span class="compact-meta">Kanal tvOneNews</span></span></a>` +
@@ -313,7 +338,7 @@ VIDEOS.forEach(function (v) {
     `<span class="article-tag">${esc(v.program)}</span><span class="article-tag">Video</span></div>` +
     `<div class="article-source-box"><p>Tayangan ini di-embed langsung dari kanal YouTube resmi tvOneNews. Ringkasan dan catatan redaksi ditulis tim The Signal, bukan transkrip resmi.</p>` +
     `<a href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">Tonton di YouTube tvOneNews &rarr;</a></div>` +
-    `</div><aside class="article-side"><h4>Tayangan Lain</h4>${relatedHtml}${relArticlesHtml}</aside></div>` + FOOT;
+    `</div><aside class="article-side">${KARTU_PASAR}<h4>Tayangan Lain</h4>${relatedHtml}${relArticlesHtml}</aside></div>` + FOOT;
 
   fs.writeFileSync(ROOT + '/tayangan/' + v.id + '.html', html, 'utf8');
 });

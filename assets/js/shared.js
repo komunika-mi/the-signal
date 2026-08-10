@@ -27,7 +27,8 @@
       '<h3 class="story-title"><a class="story-title-link" href="' + TS.articleUrl(a) + '">' + TS.hl(a.title) + '</a></h3>' +
       '<p class="story-excerpt">' + TS.esc(a.deck) + '</p>' +
       '<div class="story-meta"><span class="num">' + TS.esc(a.date) + '</span>' +
-      '<a href="' + TS.esc(a.sourceUrl) + '" target="_blank" rel="noopener">Sumber: tvOne</a></div>' +
+      '<a href="' + TS.esc(a.sourceUrl) + '" target="_blank" rel="noopener">' +
+      (a.sourceLabel === 'IDX' ? 'Sumber: IDX' : 'Sumber: tvOne') + '</a></div>' +
       '</article>';
   };
 

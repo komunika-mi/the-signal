@@ -386,6 +386,21 @@ img { max-width: 100%; display: block; }
   border-radius: var(--radius-sm); padding: .7rem .9rem; margin-top: .8rem;
 }
 .video-takeaway b { font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); display: block; margin-bottom: .25rem; }
+/* Penilaian sentimen pada catatan redaksi IDX. Warnanya mengikuti aturan
+   ticker yang sudah dipakai: hijau untuk positif, merah untuk negatif. */
+.catatan-idx b { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; }
+.sentimen {
+  font-size: 10px; letter-spacing: .06em; font-weight: 700; text-transform: uppercase;
+  padding: .18rem .5rem; border-radius: 999px; white-space: nowrap;
+}
+.sentimen-positif { background: var(--green-tint); color: var(--green); }
+.sentimen-negatif { background: var(--red-tint); color: var(--red-deep); }
+.sentimen-netral  { background: var(--line); color: var(--ink-soft); }
+.catatan-disclaimer {
+  display: block; margin-top: .55rem; padding-top: .5rem; border-top: 1px solid var(--line);
+  font-size: 11px; line-height: 1.45; color: var(--ink-soft); font-style: italic;
+}
+
 .video-program { font-size: 11px; color: var(--ink-soft); margin-top: .6rem; padding-top: .6rem; border-top: 1px solid var(--line); display: flex; justify-content: space-between; gap: .5rem; flex-wrap: wrap; }
 .video-program a { text-decoration: underline; text-underline-offset: 2px; }
 .video-program a:hover { color: var(--red-deep); }

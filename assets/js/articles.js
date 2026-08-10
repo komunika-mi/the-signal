@@ -1,7 +1,28 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
+// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
+// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
+ {
+  "slug": "kepercayaan-publik-jadi-kunci-persaingan-fintech-investasi",
+  "category": "Teknologi",
+  "title": "Kepercayaan Publik Jadi Kunci Persaingan [Fintech Investasi]",
+  "deck": "Survei nasional Digital Excellence Awards 2026 menunjukkan tingkat kepercayaan pengguna kini jadi penentu utama daya saing platform fintech investasi di Indonesia.",
+  "image": "assets/img/server-data.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T23:40:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458985-kepercayaan-publik-jadi-penentu-persaingan-fintech-investasi-ini-hasil-survei-nasional",
+  "tags": [
+   "fintech investasi",
+   "TRIV Group",
+   "kepercayaan konsumen",
+   "survei nasional"
+  ],
+  "body": [
+   "Persaingan antarplatform fintech investasi di Indonesia kian ketat seiring makin banyaknya masyarakat yang tertarik pada aset digital dan layanan keuangan berbasis teknologi. Dalam situasi ini, faktor kepercayaan pengguna disebut menjadi pembeda utama yang menentukan posisi sebuah platform di mata publik, bukan sekadar fitur atau harga.",
+   "Fenomena itu tergambar dari ajang Digital Excellence Awards 2026 bertema Akselerasi Ekonomi Digital Indonesia, yang digelar di Hotel Bidakara Jakarta. Penghargaan ini diberikan berdasarkan survei nasional terhadap sekitar 19.000 responden usia produktif, yaitu 15 hingga 64 tahun, yang tersebar di 20 provinsi. Indikator penilaiannya mencakup tingkat kesadaran merek, tingkat kepercayaan publik, hingga persepsi masyarakat terhadap masing-masing pemain di industri tersebut.",
+   "Dalam ajang tersebut, TRIV Group dinobatkan sebagai Top Digital Application untuk kategori fintech investasi. CEO dan Founder TRIV Group, Gabriel Rey, menyebut pencapaian ini sebagai pemicu bagi timnya untuk terus menghadirkan inovasi produk dan meningkatkan kualitas layanan bagi basis pengguna yang kini mencapai lebih dari 6 juta nasabah.",
+   "Di luar capaian satu perusahaan, tren ini mencerminkan arah industri fintech secara umum, yaitu pertumbuhan yang tidak lagi hanya ditopang teknologi, tetapi juga literasi keuangan digital masyarakat yang terus membaik. Platform yang menawarkan layanan mudah diakses, aman, dan sesuai kebutuhan pengguna cenderung lebih berhasil menjaga loyalitas nasabahnya."
+  ]
+ },
  {
   "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
   "category": "Aksi Korporasi",
@@ -200,6 +221,28 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "perpres-ojol-kelar-agustus-driver-jadi-umkm",
+  "category": "UMKM",
+  "title": "Perpres Ojol Kelar Agustus, Driver Jadi [UMKM]",
+  "deck": "Pemerintah menargetkan Perpres ekosistem ojek online rampung sebelum 17 Agustus, sekaligus menetapkan status UMKM bagi pengemudi ojol tanpa kewajiban pajak baru.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T20:24:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458961-perpres-ojol-hampir-rampung-driver-ojek-online-bakal-jadi-umkm",
+  "tags": [
+   "ojol",
+   "ojek online",
+   "UMKM",
+   "Perpres"
+  ],
+  "body": [
+   "Pemerintah menargetkan penyelesaian Peraturan Presiden yang mengatur ekosistem transportasi online, termasuk status pengemudi ojek online, sebelum peringatan HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026. Beleid ini penting karena akan mengubah status hukum pengemudi ojol, yang selama ini berada di ranah tidak jelas, menjadi bagian dari pelaku usaha mikro, kecil, dan menengah.",
+   "Menteri Sekretaris Negara Prasetyo Hadi menyampaikan bahwa penyusunan draf Perpres tersebut sudah rampung dan kini tinggal menunggu proses administrasi sebelum resmi diterbitkan. Ia menyampaikan hal itu usai rapat pembahasan aturan tersebut di kompleks parlemen, Jakarta, Senin (10/8/2026). Sementara itu, Menteri UMKM Maman Abdurrahman menyebut masih ada sekitar dua pasal yang tengah dibahas sebelum Perpres bisa ditetapkan.",
+   "Menurut Maman, status UMKM akan memberi pengemudi ojol keleluasaan lebih besar dalam mengatur waktu kerja, sekaligus membuka akses terhadap berbagai program dan insentif yang selama ini disediakan pemerintah bagi pelaku UMKM. Ia juga menegaskan tidak ada kebijakan baru yang akan mengenakan pajak kepada pengemudi ojol akibat perubahan status ini, dan menyebut kabar sebaliknya yang beredar sebagai informasi keliru.",
+   "Maman menjelaskan penghasilan pengemudi ojol umumnya berkisar antara Rp10 juta hingga Rp15 juta per bulan, sehingga menurutnya tidak ada dasar bagi pemerintah untuk membebankan pajak khusus melalui skema status UMKM tersebut."
+  ]
+ },
+ {
   "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris Henry Liem [Jual] 500 Lembar Saham",
@@ -349,6 +392,28 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ai-cinefest-2026-telkomsel-perkuat-ekosistem-kreator-ai",
+  "category": "Teknologi",
+  "title": "AI Cinefest 2026: Telkomsel Perkuat Ekosistem Kreator [AI]",
+  "deck": "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang menjaring lebih dari seribu karya film pendek berbasis kecerdasan buatan dari kreator Indonesia.",
+  "image": "assets/img/kantor-startup.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T18:22:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458941-melalui-ai-cinefest-2026-telkomsel-dorong-pertumbuhan-ekosistem-kreator-ai-indonesia",
+  "tags": [
+   "telkomsel",
+   "ai cinefest",
+   "kreator ai",
+   "indonesia"
+  ],
+  "body": [
+   "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang ditujukan untuk mendorong pertumbuhan komunitas kreator berbasis kecerdasan buatan di Indonesia. Program ini berhasil menjaring 1.111 karya film pendek yang memanfaatkan teknologi AI dari berbagai wilayah tanah air, melampaui target awal panitia sebanyak 1.000 karya. Capaian ini menjadi penanda bahwa minat masyarakat terhadap AI sebagai medium berkarya terus meningkat.",
+   "Dari ribuan karya yang masuk, proses kurasi berlangsung ketat dan hanya menyisakan 100 peserta dengan karya terbaik yang berhak melanjutkan ke tahap Curated Workshop. Seleksi ini dilakukan oleh Arief Ash Shiddiq selaku Story Editor dan Immanuel Manurung sebagai AI Storyteller. Tingginya rasio seleksi tersebut menggambarkan semakin kompetitifnya kualitas talenta kreatif yang mengadopsi AI dalam proses produksi karya mereka.",
+   "Vice President Brand Communications Telkomsel, Emir G. Surya, menyampaikan bahwa AI Cinefest merupakan wujud komitmen perusahaan untuk membuka akses bagi kreator Indonesia memanfaatkan AI sebagai medium baru dalam berkarya. Ia menambahkan, kolaborasi dengan mitra ekosistem ditujukan untuk memperluas akses terhadap teknologi, pembelajaran, dan peluang kolaborasi guna menumbuhkan talenta serta ekosistem kreator AI yang kreatif, inklusif, dan berdaya saing.",
+   "Fenomena membeludaknya peserta AI Cinefest 2026 turut mencerminkan tren adopsi kecerdasan buatan yang meluas ke berbagai sektor, termasuk industri kreatif. Seiring tren tersebut, kebutuhan akan talenta yang mampu memanfaatkan AI secara kreatif sekaligus bertanggung jawab diperkirakan akan terus bertambah ke depan."
+  ]
+ },
+ {
   "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
   "category": "Aksi Korporasi",
   "title": "POLL Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
@@ -374,25 +439,25 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
-  "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
-  "category": "Energi",
-  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
-  "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "slug": "onlinepajak-berganti-nama-jadi-achilles-rangkul-urusan-pajak",
+  "category": "Teknologi",
+  "title": "OnlinePajak Berganti Nama Jadi Achilles, Rangkul Urusan [Pajak]",
+  "deck": "OnlinePajak bertransformasi menjadi ekosistem Achilles yang menggabungkan layanan pajak, transaksi, dokumen digital, hingga pendanaan usaha.",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T10:41:30+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458834-terima-laporan-b50-prabowo-langsung-perintahkan-pangkas-layer-bumn",
+  "isoDate": "2026-08-10T18:03:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458937-transformasi-layanan-digital-kelola-pajak-dokumen-hingga-pendanaan-dalam-satu-wadah",
   "tags": [
-   "B50",
-   "BUMN",
-   "Pertamina",
-   "Bioetanol"
+   "OnlinePajak",
+   "Achilles",
+   "pajak digital",
+   "SPT"
   ],
   "body": [
-   "Presiden Prabowo Subianto menerima laporan perkembangan program biodiesel B50 sekaligus memerintahkan pemangkasan struktur organisasi di tubuh badan usaha milik negara. Arahan ini disampaikan dalam pertemuan tertutup dengan Direktur Utama Pertamina Simon A. Mantiri, dan menjadi sinyal bahwa pemerintah tengah mendorong dua agenda besar sekaligus, yaitu ketahanan energi domestik dan efisiensi korporasi negara.",
-   "Pertemuan berlangsung di kediaman Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
-   "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
-   "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
+   "Setelah satu dekade dikenal sebagai penyedia layanan administrasi pajak digital, OnlinePajak kini bertransformasi menjadi Achilles, sebuah ekosistem bisnis yang cakupannya lebih luas. Perubahan ini penting bagi pelaku usaha karena berbagai kebutuhan operasional, mulai dari kepatuhan pajak, transaksi, dokumen digital, hingga akses pendanaan, kini bisa dikelola dalam satu platform yang sama.",
+   "Dalam peluncuran identitas barunya, Achilles menawarkan akses gratis hingga 50.000 transaksi per bulan bagi pelaku usaha. Layanan yang tercakup di antaranya pelaporan SPT, pembuatan invoice, penerbitan e-Faktur, serta akses pengajuan pembiayaan. Saat ini platform tersebut telah digunakan oleh lebih dari 150.000 entitas bisnis di Indonesia.",
+   "Chief Executive Officer Achilles, Charles Guinot, menjelaskan bahwa transformasi ini merupakan respons atas kebutuhan dunia usaha yang kian kompleks dan tidak lagi berhenti pada urusan kepatuhan pajak semata. Menurutnya, bisnis membutuhkan ekosistem yang menghubungkan kepatuhan, transaksi, pendanaan, dan intelijen bisnis dalam satu pengalaman yang terintegrasi, sehingga pelaku usaha dari berbagai skala dapat lebih fokus mengembangkan usahanya.",
+   "Untuk menjaga keamanan data penggunanya, Achilles menerapkan standar ISO 27001 dan beroperasi di bawah pengawasan Bank Indonesia serta Direktorat Jenderal Pajak. Perusahaan menyatakan akan terus mengembangkan ekosistem ini agar dapat memangkas kerumitan operasional bisnis di Indonesia."
   ]
  },
  {
@@ -420,11 +485,143 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupiah-menguat-usai-destry-diajukan-calon-gubernur-bi",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] usai Destry Diajukan Calon Gubernur BI",
+  "deck": "Rupiah ditutup menguat ke Rp17.755 setelah Presiden Prabowo mengajukan Destry Damayanti sebagai calon tunggal Gubernur BI ke DPR.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T16:07:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458913-destry-jadi-calon-tunggal-gubernur-bi-rupiah-langsung-ditutup-menguat-ke-rp17755",
+  "tags": [
+   "rupiah",
+   "Destry Damayanti",
+   "Gubernur BI",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Nilai tukar rupiah menguat cukup signifikan pada penutupan perdagangan awal pekan ini, seiring munculnya kepastian baru soal kepemimpinan Bank Indonesia. Presiden Prabowo Subianto resmi mengajukan Destry Damayanti sebagai calon tunggal Gubernur BI definitif kepada DPR RI, langkah yang direspons positif oleh pasar karena mengurangi ketidakpastian di kursi bank sentral.",
+   "Rupiah ditutup menguat 142 poin ke level Rp17.755 per dolar AS, setelah sempat menyentuh penguatan hingga 145 poin dari posisi penutupan sebelumnya di Rp17.897. Analis pasar uang Ibrahim menyebut tren penguatan ini berpotensi berlanjut pada perdagangan berikutnya, meski pergerakan diperkirakan tetap fluktuatif di rentang Rp17.700 hingga Rp17.750.",
+   "Pengajuan nama Destry dilakukan melalui Surat Presiden yang telah diserahkan kepada pimpinan DPR untuk mengisi posisi Gubernur BI yang kosong setelah Perry Warjiyo mengundurkan diri. Destry sendiri saat ini menjabat sebagai Pejabat Sementara Gubernur BI, sehingga status calon tunggal ini memberi kejelasan arah proses pergantian pucuk pimpinan bank sentral.",
+   "Di balik penguatan rupiah, terdapat sinyal yang patut dicermati dari sisi konsumsi domestik. Indeks Keyakinan Konsumen Juli 2026 tercatat turun menjadi 116,8 dari 117,8 pada Juni 2026, penurunan ketiga berturut-turut yang mengindikasikan konsumen mulai lebih berhati-hati dalam menilai kondisi ekonomi dan mengambil keputusan belanja."
+  ]
+ },
+ {
+  "slug": "rupiah-menguat-usai-destry-diusulkan-jadi-gubernur-bi",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Usai Destry Diusulkan Jadi Gubernur BI",
+  "deck": "Pasar merespons positif pencalonan tunggal Destry Damayanti sebagai Gubernur BI, rupiah menguat ditopang data ekonomi domestik yang masih solid.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:35:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458908-pasar-sambut-positif-supres-pencalonan-tunggal-destry-damayanti-sebagai-gubernur-bi",
+  "tags": [
+   "Gubernur BI",
+   "Destry Damayanti",
+   "Bank Indonesia",
+   "Rupiah"
+  ],
+  "body": [
+   "Rupiah kembali menguat pada awal pekan setelah pemerintah resmi mengirimkan surat presiden yang mengusulkan Destry Damayanti sebagai calon tunggal Gubernur Bank Indonesia kepada DPR RI. Kepastian nama calon pemimpin bank sentral ini penting bagi pelaku pasar karena berkaitan langsung dengan arah kebijakan moneter dan tingkat kepercayaan terhadap mata uang domestik.",
+   "Pengamat mata uang dan komoditas, Ibrahim Assuaibi, menilai pencalonan Destry sudah sesuai dengan ekspektasi pasar sejak awal. Saat ini Destry menjabat Deputi Gubernur Senior sekaligus Pejabat Sementara Gubernur BI, sehingga pengangkatannya sebagai calon pengganti Perry Warjiyo dibaca pasar sebagai sinyal kesinambungan kebijakan, bukan perubahan arah yang mendadak.",
+   "Selain faktor pencalonan Gubernur BI, penguatan rupiah juga ditopang indikator ekonomi domestik yang masih tergolong solid. Ibrahim menyebut pertumbuhan ekonomi nasional yang bertahan di atas 5 persen serta posisi cadangan devisa yang masih memadai sebagai penopang utama kepercayaan pasar terhadap mata uang Garuda.",
+   "Di sisi lain, sejumlah indikator sebenarnya menunjukkan tekanan, seperti neraca perdagangan yang defisit dan indeks keyakinan konsumen yang menyusut. Meski demikian, indeks keyakinan konsumen tersebut masih berada di atas level 100, yang menurut Ibrahim tetap mencerminkan kondisi ekonomi dalam negeri yang cukup terjaga."
+  ]
+ },
+ {
+  "slug": "bri-pimpin-himbara-di-danantara-housing-expo-2026",
+  "category": "Perbankan",
+  "title": "BRI Pimpin Himbara di [Danantara] Housing Expo 2026",
+  "deck": "Danantara menggelar Housing Expo 2026 di PIK akhir Agustus, dengan BRI sebagai koordinator Himbara untuk memperluas akses KPR bagi masyarakat.",
+  "image": "assets/img/teller-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:01:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458899-danantara-housing-expo-2026-bri-pimpin-kolaborasi-himbara-perkuat-pembiayaan-perumahan",
+  "tags": [
+   "Danantara",
+   "BRI",
+   "Himbara",
+   "KPR"
+  ],
+  "body": [
+   "Danantara akan menyelenggarakan Danantara Housing Expo 2026 pada 27 hingga 30 Agustus di Nusantara International Convention Exhibition, Pantai Indah Kapuk, sebagai bagian dari dukungan terhadap Program 3 Juta Rumah. Dalam ajang ini, PT Bank Rakyat Indonesia Tbk dipercaya menjadi koordinator acara sekaligus koordinator Himpunan Bank Milik Negara. Langkah ini penting karena mempertemukan bank, pengembang, dan calon pembeli rumah dalam satu tempat sehingga proses mencari hunian dan pembiayaan bisa lebih ringkas.",
+   "Pameran ini menggandeng Danantara, Himbara, sejumlah pengembang properti, serta pelaku industri pendukung untuk memperluas akses masyarakat terhadap kepemilikan rumah. Lebih dari 200.000 unit hunian dari pengembang BUMN maupun swasta mitra Himbara akan ditawarkan, mencakup segmen masyarakat berpenghasilan rendah dan non-MBR. Pengunjung dapat membandingkan pilihan hunian, berkonsultasi soal skema kredit, hingga langsung mengajukan KPR di lokasi acara.",
+   "Sebagai daya tarik pembiayaan, BRI menawarkan KPR dengan uang muka mulai 1 persen, bunga tetap mulai 2,75 persen, tenor sampai 30 tahun, dan cicilan mulai sekitar Rp1 jutaan, tanpa biaya provisi maupun administrasi sesuai ketentuan yang berlaku. Direktur Utama BRI Hery Gunardi menyebut kolaborasi ini diharapkan mendorong lebih banyak keluarga Indonesia memiliki rumah layak, sekaligus menghasilkan efek berganda bagi ekonomi lokal dan membuka peluang usaha bagi pelaku UMKM di sekitar kawasan hunian.",
+   "Selain pameran hunian dan pembiayaan, Danantara Housing Expo turut menghadirkan area home living serta kegiatan edukasi seputar kepemilikan dan pengelolaan rumah. Informasi lebih lanjut mengenai proyek yang dipamerkan, spesifikasi unit, dan kisaran harga dapat diakses melalui situs resmi BRI."
+  ]
+ },
+ {
+  "slug": "airlangga-optimistis-etf-emas-ri-salip-india-singapura",
+  "category": "Pasar Modal",
+  "title": "Airlangga Optimistis ETF Emas RI [Salip] India-Singapura",
+  "deck": "Menko Airlangga menilai kepemilikan emas 153 ton senilai US$20 miliar di Pegadaian bisa mempercepat ETF emas RI menyalip India dan Singapura.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T13:04:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458859-airlangga-optimistis-etf-emas-ri-bisa-salip-india-dan-singapura-ada-153-ton-emas-senilai-us20-miliar",
+  "tags": [
+   "ETF emas",
+   "Airlangga Hartarto",
+   "Pegadaian",
+   "pasar modal"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyatakan optimismenya bahwa Indonesia dapat mengejar, bahkan melampaui, sejumlah negara lain dalam pengembangan Exchange Traded Fund (ETF) berbasis emas. Pernyataan itu disampaikan saat peluncuran produk ETF emas yang bertepatan dengan peringatan HUT ke-49 Pasar Modal Indonesia di Jakarta Selatan, Senin, 10 Agustus 2026. Bagi investor ritel, kehadiran instrumen ini membuka jalur baru untuk berinvestasi emas tanpa harus menyimpan fisiknya.",
+   "Airlangga membandingkan skala industri ETF di berbagai negara untuk menggambarkan besarnya ruang pertumbuhan bagi Indonesia. Ia menyebut nilai ETF global saat ini sekitar US$4.047 miliar, dengan Amerika Serikat mencapai US$200 miliar, China US$45 miliar, dan India US$17,5 miliar. Menurutnya, modal utama Indonesia terletak pada cadangan emas yang tersimpan di Pegadaian, yang mencapai 153 ton atau setara sekitar US$20 miliar jika dikonversi ke dalam nilai uang.",
+   "Dengan basis emas sebesar itu, Airlangga meyakini Indonesia berpeluang menyalip India dalam waktu relatif singkat dan segera melampaui Singapura di industri ETF emas. Ia menilai emas semestinya tidak lagi diperlakukan sekadar sebagai simpanan, melainkan diintegrasikan lebih jauh ke dalam sistem keuangan nasional agar sektor keuangan Indonesia semakin dalam.",
+   "Salah satu perubahan yang disorotnya adalah terbukanya akses bagi industri asuransi untuk berinvestasi pada emas melalui instrumen ETF, sesuatu yang sebelumnya tidak dimungkinkan karena asuransi tak bisa berinvestasi langsung pada bullion. Airlangga menyebut kebijakan ini akan terus didorong sebagai bagian dari upaya memperluas pilihan investasi masyarakat, seiring momentum 81 tahun kemerdekaan Indonesia."
+  ]
+ },
+ {
+  "slug": "ekonomi-ri-tumbuh-5-29-persen-di-kuartal-ii-2026",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh [5,29] Persen di Kuartal II 2026",
+  "deck": "Menko Airlangga menyebut pertumbuhan ekonomi kuartal II 2026 yang di atas rata-rata global menjadi modal penting menjaga kepercayaan investor pasar modal.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T12:02:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458848-ekonomi-ri-tumbuh-529-persen-airlangga-investor-pasar-modal-tetap-penuh-senyum",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "pasar modal",
+   "Airlangga Hartarto",
+   "investasi"
+  ],
+  "body": [
+   "Perekonomian Indonesia tercatat tumbuh 5,29 persen secara tahunan pada kuartal II 2026. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut capaian ini menjadi salah satu modal penting untuk menjaga kepercayaan investor terhadap pasar keuangan nasional. Pernyataan itu disampaikan Airlangga dalam acara peringatan HUT ke-49 Pasar Modal Indonesia sekaligus peluncuran produk ETF emas di Jakarta Selatan, Senin (10/8/2026).",
+   "Secara kumulatif, pertumbuhan ekonomi semester I 2026 mencapai 5,45 persen. Airlangga menekankan bahwa angka ini berada jauh di atas rata-rata pertumbuhan ekonomi global yang menurutnya hanya berkisar 3 persen. Ia menilai pasar modal selalu menjadi indikator yang diperhatikan investor untuk membaca kondisi ekonomi suatu negara, sehingga kepercayaan pasar perlu terus dijaga di tengah tekanan ekonomi global.",
+   "Selain pertumbuhan ekonomi, kinerja investasi juga tercatat positif dengan nilai yang telah menembus lebih dari Rp1.000 triliun, tumbuh 7,2 persen secara tahunan. Menurut Airlangga, kombinasi capaian tersebut membuat para investor di pasar modal tetap optimistis terhadap prospek perekonomian Indonesia. Meski begitu, pemerintah menyatakan tidak ingin berpuas diri dengan hasil yang sudah dicapai.",
+   "Airlangga mengingatkan bahwa kebutuhan pembiayaan ekonomi nasional akan terus meningkat, dari sekitar Rp7.400 triliun pada 2026 menjadi proyeksi Rp9.200 triliun pada 2029. Kondisi ini, menurutnya, membuat upaya menjaga kepercayaan pasar dan investor menjadi semakin penting ke depan."
+  ]
+ },
+ {
+  "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
+  "category": "Energi",
+  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
+  "image": "assets/img/spbu-bbm.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T10:41:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458834-terima-laporan-b50-prabowo-langsung-perintahkan-pangkas-layer-bumn",
+  "tags": [
+   "B50",
+   "BUMN",
+   "Pertamina",
+   "Bioetanol"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menerima laporan perkembangan program biodiesel B50 sekaligus memerintahkan pemangkasan struktur organisasi di tubuh badan usaha milik negara. Arahan ini disampaikan dalam pertemuan tertutup dengan Direktur Utama Pertamina Simon A. Mantiri, dan menjadi sinyal bahwa pemerintah tengah mendorong dua agenda besar sekaligus, yaitu ketahanan energi domestik dan efisiensi korporasi negara.",
+   "Pertemuan berlangsung di kediaman Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
+   "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
+   "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
+  ]
+ },
+ {
   "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
   "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:01:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
@@ -445,7 +642,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Harga Beras dan Cabai [Naik] Serentak Awal Pekan",
   "deck": "Data PIHPS Bank Indonesia mencatat seluruh jenis beras dan komoditas cabai naik pada Senin, sementara harga bawang justru melandai.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T09:55:25+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458830-harga-pangan-hari-ini-10-agustus-2026-beras-kompak-naik-cabai-rawit-merah-melejit",
@@ -460,6 +657,28 @@ var ARTICLES = [
    "Berdasarkan data Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia per pukul 08.50 WIB, seluruh kelompok beras naik tipis secara rata-rata nasional. Beras kualitas bawah naik sekitar 0,34 persen menjadi Rp14.800 per kilogram untuk jenis I dan Rp14.600 per kilogram untuk jenis II. Beras medium ikut naik sekitar 0,3 persen menjadi Rp16.450 dan Rp16.250 per kilogram, sementara beras super naik sekitar 0,28 persen menjadi Rp17.750 dan Rp17.200 per kilogram.",
    "Kenaikan yang lebih tajam justru terjadi pada komoditas cabai. Cabai rawit merah mencatat lonjakan terbesar, naik Rp1.550 atau 2,67 persen sehingga harganya kini rata-rata Rp59.650 per kilogram secara nasional. Cabai merah besar naik 1,73 persen menjadi Rp49.900 per kilogram, cabai merah keriting naik 1 persen menjadi Rp50.400 per kilogram, dan cabai rawit hijau naik lebih terbatas sebesar 0,57 persen menjadi Rp52.600 per kilogram.",
    "Di tengah tren kenaikan tersebut, harga bawang justru bergerak ke arah sebaliknya. Bawang merah ukuran sedang turun 1,49 persen menjadi Rp39.550 per kilogram, sedangkan bawang putih ukuran sedang turun 1,32 persen menjadi Rp41.050 per kilogram. Pergerakan harga yang beragam ini menegaskan bahwa pasokan komoditas hortikultura masih menjadi faktor penentu utama fluktuasi harga pangan dalam negeri."
+  ]
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-810-cadangan-devisa-terjaga",
+  "category": "Moneter",
+  "title": "[Rupiah] Menguat ke Rp17.810, Cadangan Devisa Terjaga",
+  "deck": "Rupiah menguat tipis ke Rp17.810 per dolar AS pada awal pekan, didukung cadangan devisa Juli yang tetap terjaga di US$145,3 miliar di tengah ketidakpastian global.",
+  "image": "assets/img/moneter-bi.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T09:27:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458827-rupiah-menguat-ke-rp17810-per-dolar-as-dipengaruhi-cadangan-devisa-juli-dan-ketegangan-iran-as-di-timur-tengah",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "cadangan devisa",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Nilai tukar rupiah menguat ke Rp17.810 per dolar Amerika Serikat pada perdagangan Senin pagi, 10 Agustus 2026, naik 87 poin atau 0,49 persen dari posisi sebelumnya di Rp17.897. Penguatan ini menjadi sinyal bahwa pasar masih memberi kepercayaan terhadap kondisi fundamental ekonomi domestik, meski sentimen global sempat tertekan oleh ketegangan geopolitik antara Iran dan Amerika Serikat di Timur Tengah.",
+   "Tren penguatan sebenarnya sudah terlihat sejak akhir pekan sebelumnya. Berdasarkan data Jisdor Bank Indonesia, kurs rupiah tercatat Rp17.913 per dolar AS pada Jumat, 7 Agustus 2026, naik 6 poin dibandingkan posisi Kamis, 6 Agustus 2026, yang berada di Rp17.919.",
+   "Di sisi lain, cadangan devisa Indonesia per akhir Juli 2026 tercatat US$145,3 miliar, relatif stabil dibandingkan posisi akhir Juni 2026 sebesar US$145,6 miliar. Menurut pengamat ekonomi dan pasar uang Ibrahim Assuaibi, capaian ini terutama ditopang oleh penerimaan pajak dan jasa serta penerbitan obligasi global pemerintah, di tengah kewajiban pembayaran utang luar negeri dan langkah stabilisasi nilai tukar yang terus dijalankan Bank Indonesia. Posisi tersebut setara dengan pembiayaan 5,5 bulan impor, atau 5,3 bulan bila digabung dengan pembayaran utang luar negeri pemerintah, jauh di atas standar kecukupan internasional yang hanya sekitar tiga bulan impor.",
+   "Bank Indonesia menilai ketahanan sektor eksternal ke depan akan tetap terjaga, ditopang oleh cadangan devisa yang memadai serta aliran masuk modal asing seiring persepsi positif investor terhadap prospek ekonomi nasional dan imbal hasil investasi yang masih menarik. Otoritas moneter juga menegaskan akan terus memperkuat sinergi dengan pemerintah demi menjaga stabilitas makroekonomi dan mendukung keberlanjutan pertumbuhan."
   ]
  },
  {
@@ -491,7 +710,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI Catatkan [Konversi] Waran, Saham Beredar Jadi 18,06 Miliar",
   "deck": "Bursa mencatat konversi 297.862 waran HUMI-W menjadi saham baru per 10 Agustus 2026, sehingga total saham beredar HUMI naik menjadi 18.063.691.451 lembar.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
@@ -515,7 +734,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "KAEF Resmi [Ganti Nama] jadi PT Kimia Farma (Persero) Tbk",
   "deck": "BEI mengumumkan perubahan nama tercatat emiten KAEF dari Kimia Farma Tbk. menjadi PT Kimia Farma (Persero) Tbk, efektif 10 Agustus 2026.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af0ff5b4da_ab7494f874.pdf",
@@ -539,7 +758,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PJHB Catat [Konversi] Waran, Saham Beredar Jadi 1,92 Miliar",
   "deck": "BEI mencatat konversi 3.105 waran PJHB-W menjadi saham baru pada 10 Agustus 2026. Sisa 239,28 juta waran berpotensi menambah saham beredar di kemudian hari.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:14",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/537545357d_64a360d59d.pdf",
@@ -563,7 +782,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PACK Catatkan 441,48 Juta Saham Baru dari [Konversi] Obligasi",
   "deck": "BEI mencatatkan 441.482.500 saham baru PACK dari konversi Obligasi Wajib Konversi, menambah total saham beredar menjadi 34.099.757.975 lembar.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:34:32",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/397f7d6139_8843df58bb.pdf",
@@ -584,11 +803,36 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan 2025",
+  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi laporan keuangan tahunan 2025 ke BEI, kas dan setara kas naik jadi Rp71,90 miliar dari Rp17,03 miliar.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "9 Agustus 2026",
+  "isoDate": "2026-08-09T17:01:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez Worldwide Indonesia",
+   "laporan keuangan tahunan",
+   "koreksi laporan"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 324/SK/CSC-CWI/VIII/2026 dengan perihal yang secara eksplisit tertulis sebagai Penyampaian Laporan Keuangan Tahunan (Koreksi). Laporan diaudit oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penanggung jawab Heri Setianto, auditor yang sama dengan tahun sebelumnya, dan menghasilkan opini wajar tanpa modifikasian tertanggal 29 Juni 2026. Surat pernyataan tanggung jawab direksi atas laporan keuangan tersebut ditandatangani pada 16 Februari 2026.",
+   "Dari sisi posisi keuangan, kas dan setara kas Cashlez tercatat Rp71,90 miliar per 31 Desember 2025, naik dari Rp17,03 miliar pada akhir 2024, meningkat lebih dari empat kali lipat dalam setahun. Pos aset keuangan lancar lainnya juga naik menjadi Rp576,80 juta dari Rp437,30 juta pada periode yang sama tahun sebelumnya. Dokumen tidak merinci pos mana persisnya yang diperbaiki dibandingkan laporan tahunan yang sebelumnya sudah disampaikan ke BEI.",
+   "Laporan ini juga mencantumkan informasi anak usaha, yaitu PT Softorb Technology Indonesia yang bergerak di bidang perdagangan besar serta teknologi informasi, berlokasi di Jakarta dan telah beroperasi komersial sejak 2004. Cashlez tercatat menguasai 51,0 persen saham Softorb, dengan total aset anak usaha tersebut mencapai Rp111,84 miliar per akhir 2025."
+  ],
+  "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
   "category": "Pasar Modal",
   "title": "Investor Saham RI [Tembus] 10,05 Juta SID di 2026",
   "deck": "BEI mencatat jumlah investor saham naik 16,83 persen sepanjang tahun berjalan, seiring upaya bursa memperluas basis pemodal domestik.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T19:19:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458750-investor-saham-tembus-1005-juta-sid-bei-catat-pertumbuhan-1683-pada-2026",
@@ -610,7 +854,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BI: Harga Properti Residensial [Naik] Tipis di Triwulan II 2026",
   "deck": "Bank Indonesia mencatat kenaikan harga properti residensial 0,69 persen secara tahunan pada triwulan II 2026, dengan Pekanbaru mencatat lonjakan tertinggi.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:10:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458739-bi-ungkap-harga-properti-di-indonesia-naik-di-triwulan-ii-2026-pekanbaru-jadi-wilayah-paling-mencolok",
@@ -632,7 +876,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Ekonomi [Karbon] Bergeser, Peluang Besar Bagi Indonesia",
   "deck": "Pergeseran ekonomi berbasis karbon membuka peluang bagi Indonesia mengubah kekayaan alamnya menjadi kekuatan ekonomi baru.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:01:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458734-ekonomi-karbon-ubah-arah-bisnis-global-indonesia-dinilai-punya-peluang-yang-menjanjikan",
@@ -647,31 +891,6 @@ var ARTICLES = [
    "Pandangan itu disampaikan Founder sekaligus CEO PT Visi Carbon Indonesia (VCarboN), Heppy Trenggono, dalam forum Ngobrol Santai Bareng Rektor bertema Carbon Trade dan Masa Depan Indonesia Hijau yang digelar Dewan Profesor Universitas Brawijaya pada 7 Agustus 2026. Ia menekankan bahwa dunia kini membayar bukan hanya untuk apa yang diambil dari alam, melainkan juga untuk apa yang berhasil dijaga, sehingga kekayaan alam Indonesia berpeluang menjadi sumber pertumbuhan ekonomi baru asalkan didukung riset, teknologi, kewirausahaan, dan tata kelola yang berintegritas.",
    "Sejalan dengan gagasan tersebut, Universitas Brawijaya dan VCarboN membuka peluang kerja sama di bidang ekonomi karbon, modal alam, teknologi iklim, riset, serta penguatan sumber daya manusia untuk memperkuat posisi Indonesia dalam ekonomi hijau global. Forum yang dihadiri Rektor Universitas Brawijaya Prof. Widodo bersama sejumlah guru besar dan akademisi ini juga membahas bagaimana penetapan harga karbon, perdagangan berbasis intensitas karbon, arus modal, dan regulasi kini ikut membentuk ulang struktur ekonomi dunia."
   ]
- },
- {
-  "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
-  "category": "Aksi Korporasi",
-  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan 2025",
-  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi laporan keuangan tahunan 2025 ke BEI, kas dan setara kas naik jadi Rp71,90 miliar dari Rp17,03 miliar.",
-  "image": "assets/img/gedung-bi.jpg",
-  "date": "9 Agustus 2026",
-  "isoDate": "2026-08-09T17:01:29",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "CASH",
-  "tags": [
-   "CASH",
-   "Cashlez Worldwide Indonesia",
-   "laporan keuangan tahunan",
-   "koreksi laporan"
-  ],
-  "body": [
-   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 324/SK/CSC-CWI/VIII/2026 dengan perihal yang secara eksplisit tertulis sebagai Penyampaian Laporan Keuangan Tahunan (Koreksi). Laporan diaudit oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penanggung jawab Heri Setianto, auditor yang sama dengan tahun sebelumnya, dan menghasilkan opini wajar tanpa modifikasian tertanggal 29 Juni 2026. Surat pernyataan tanggung jawab direksi atas laporan keuangan tersebut ditandatangani pada 16 Februari 2026.",
-   "Dari sisi posisi keuangan, kas dan setara kas Cashlez tercatat Rp71,90 miliar per 31 Desember 2025, naik dari Rp17,03 miliar pada akhir 2024, meningkat lebih dari empat kali lipat dalam setahun. Pos aset keuangan lancar lainnya juga naik menjadi Rp576,80 juta dari Rp437,30 juta pada periode yang sama tahun sebelumnya. Dokumen tidak merinci pos mana persisnya yang diperbaiki dibandingkan laporan tahunan yang sebelumnya sudah disampaikan ke BEI.",
-   "Laporan ini juga mencantumkan informasi anak usaha, yaitu PT Softorb Technology Indonesia yang bergerak di bidang perdagangan besar serta teknologi informasi, berlokasi di Jakarta dan telah beroperasi komersial sejak 2004. Cashlez tercatat menguasai 51,0 persen saham Softorb, dengan total aset anak usaha tersebut mencapai Rp111,84 miliar per akhir 2025."
-  ],
-  "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
-  "sentimen": "netral"
  },
  {
   "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",
@@ -766,7 +985,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Mantri BRI Tembus Ombak Jaga [Ekonomi] Warga Wakatobi",
   "deck": "Mantri BRI di Wangi-Wangi, Wakatobi, menembus laut demi melayani sembilan desa di Pulau Kaledupa dan menjaga akses keuangan warga.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/atm-kota.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T14:35:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458705-dedikasi-mantri-bri-untuk-masyarakat-wakatobi-menjaga-roda-ekonomi-tetap-berputar-di-surga-bahari",
@@ -810,7 +1029,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Cadangan Devisa RI [Tembus] US$145,3 Miliar per Juli",
   "deck": "Cadangan devisa Indonesia akhir Juli 2026 tercatat US$145,3 miliar, turun tipis dari US$145,6 miliar pada Juni, namun tetap setara 5,5 bulan pembiayaan impor.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T13:39:41+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458696-cadangan-devisa-ri-tembus-us1453-miliar-bi-setara-pembiayaan-55-bulan-impor",
@@ -832,7 +1051,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Konsumsi Rumah Tangga Masih [Menopang] 92 Persen Ekonomi Indonesia",
   "deck": "Ketua Umum Kadin Anindya Bakrie menegaskan konsumsi rumah tangga dan aktivitas dunia usaha menyumbang 92 persen produk domestik bruto Indonesia.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457008-92-pdb-ri-ditopang-konsumsi-dan-dunia-usaha-anindya-bakrie-tegaskan-kadin-siap-ikut-pacu-pertumbuhan-ekonomi",
   "tags": [
@@ -875,7 +1094,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Dibuka Turun [Rp20 Ribu] per Gram di Awal Agustus",
   "deck": "Harga emas batangan Antam terkoreksi di hari pertama Agustus 2026, memutus tren penguatan pekan sebelumnya.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
   "tags": [
@@ -896,7 +1115,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Saham Telekomunikasi Jadi Incaran, Analis Soroti Kebutuhan [Infrastruktur]",
   "deck": "Minat investor terhadap emiten telekomunikasi meningkat, namun analis mengingatkan pembangunan infrastruktur jaringan masih perlu digenjot.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457076-saham-sektor-telekomunikasi-tarik-minat-investor-infrastruktur-perlu-ditingkatkan",
   "tags": [
@@ -938,7 +1157,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BGN Siap Jalankan Putusan MK, Skema Anggaran MBG Dibahas [Kemenkeu]",
   "deck": "Kepala BGN menyebut skema anggaran program Makan Bergizi Gratis pascaputusan MK akan dibahas bersama Kementerian Keuangan.",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457072-bgn-tegaskan-siap-laksanakan-putusan-mk-soal-skema-anggaran-bakal-dibahas-kemenkeu",
   "tags": [
@@ -980,7 +1199,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pajak UMKM Online Bakal Turun dari 20 ke [8] Persen",
   "deck": "Pemerintah tengah memproses penurunan beban pajak bagi pelaku UMKM yang berjualan lewat platform digital.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456849-istri-menteri-umkm-sebut-pajak-umkm-online-sedang-diproses-turun-dari-20-ke-8-persen-kapan-realisasinya",
   "tags": [
@@ -1022,7 +1241,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Bumi Resources Buka Kinerja [Semester I], Batu Bara Masih Jadi Andalan",
   "deck": "Eksportir batu bara termal terbesar dunia asal Indonesia ini merilis laporan keuangan belum diaudit untuk paruh pertama 2026.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457054-bumi-resources-umumkan-kinerja-keuangan-semester-i-2026",
   "tags": [
@@ -1085,7 +1304,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Bulog Perketat Pantauan Harga dan [Mutu] Beras",
   "deck": "Direktur Utama Bulog menekankan pentingnya edukasi mutu beras agar konsumen mendapat produk yang sesuai label dan harga.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457020-pantau-harga-dan-edukasi-soal-mutu-beras-bulog-pastikan-masyarakat-mendapatkan-informasi-tepat",
   "tags": [
@@ -1106,7 +1325,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Menyeberang Selat demi Layani Nasabah: Cerita Mantri BRI di [Pulau Seram]",
   "deck": "Petugas lapangan BRI menempuh ombak Selat Haya dengan perahu fiber untuk menjangkau nasabah nelayan.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/mobile-banking.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456965-terjang-ombak-dedikasi-mantri-bri-membuka-jalan-akses-finansial-hingga-perbaiki-nasib-nelayan-di-pulau-seram",
   "tags": [
@@ -1127,7 +1346,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pendukung dan Pengkritik Duduk Bareng Bahas [Kopdes] Merah Putih",
   "deck": "AMKI menggelar diskusi yang mempertemukan pendukung dan pengkritik program Koperasi Desa Merah Putih.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456951-bahas-kopdes-merah-putih-amki-pertemukan-agrinas-hingga-celios-untuk-kupas-penyempurnaan-program",
   "tags": [
@@ -1148,7 +1367,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Lima Puluh UMKM Dibekali [Sertifikasi Halal] untuk Tembus Pasar Baru",
   "deck": "Pertamina memfasilitasi sertifikasi halal bagi 50 UMKM binaan dari berbagai sektor usaha.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456948-50-umkm-binaan-dibekali-sertifikasi-halal-pertamina-bantu-perluas-peluang-pasar",
   "tags": [
@@ -1169,7 +1388,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Akad Massal [62 Ribu] Debitur KPR Subsidi Dipimpin Presiden",
   "deck": "BRI menegaskan komitmennya dalam program 3 juta rumah lewat penyediaan akses pembiayaan bagi masyarakat dan pelaku usaha properti.",
-  "image": "assets/img/mobile-banking.jpg",
+  "image": "assets/img/perahu-nelayan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456897-presiden-prabowo-pimpin-akad-massal-62-ribu-debitur-kpr-flpp-bri-tegaskan-komitmen-sebagai-penggerak-ekonomi-kerakyatan",
   "tags": [
@@ -1190,7 +1409,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Melayani Ratusan Debitur yang Tersebar di Belasan Desa [Talaud]",
   "deck": "Petugas BRI di Kepulauan Talaud melayani ratusan debitur yang tersebar di belasan desa terpencil.",
-  "image": "assets/img/perahu-nelayan.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456868-mantri-bri-hadir-menggerakkan-denyut-nadi-perekonomian-di-tengah-bentang-kepulauan-talaud",
   "tags": [
@@ -1232,7 +1451,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Aplikasi Mobile Antar Bank Jakarta Raih [Penghargaan] Digital",
   "deck": "Bank Jakarta meraih penghargaan Digital Excellence Awards 2026 lewat layanan JakOne Mobile.",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/teller-bank.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457035-jakone-mobile-antar-bank-jakarta-raih-digital-excellence-awards-2026",
   "tags": [
@@ -1274,7 +1493,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Dari Kebun di Batang ke Pasar Dunia: Cerita [Kopi] Naik Kelas",
   "deck": "Berawal dari kepedulian terhadap petani kopi di Batang, sebuah usaha rintisan berkembang hingga menjangkau pasar ekspor.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456985-bersama-bri-petani-kopi-asal-batang-sajikan-racikan-produk-hingga-jangkau-pasar-dunia",
   "tags": [
@@ -1316,7 +1535,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Sinyal dari Istana soal Calon Gubernur [BI] Berikutnya",
   "deck": "Presiden Prabowo melontarkan komentar santai soal posisi Pejabat Sementara Gubernur Bank Indonesia, Destry Damayanti.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456774-prabowo-guyon-soal-pjs-gubernur-bi-destry-oke-ya-tapi-nanti-terserah-dpr",
   "tags": [
@@ -1358,7 +1577,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Ekosistem Digital Haji dan Umrah Diperkuat lewat [Kemitraan] Baru",
   "deck": "BPKH Limited bermitra dengan SAHL Group dan Bank Muamalat untuk memperkuat layanan digital perjalanan haji dan umrah.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/atm-kota.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456835-bpkh-gandeng-sahl-dan-muamalat-perkuat-ekosistem-perjalanan-haji-dan-umrah-melalui-digital",
   "tags": [
@@ -1421,7 +1640,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Sebelas UMKM Binaan Tampil di Panggung [Indonesia Fashion Week]",
   "deck": "UMKM binaan Pertamina Patra Niaga memperluas akses pasar lewat ajang Indonesia Fashion Week 2026.",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456773-dongkrak-umkm-naik-kelas-11-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026",
   "tags": [
@@ -1505,7 +1724,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Pekerja Migran di Taiwan Dibekali [Literasi Keuangan] untuk Pulang Berwirausaha",
   "deck": "BRI memberikan pelatihan kewirausahaan dan literasi keuangan bagi pekerja migran Indonesia di Taiwan.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/mobile-banking.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456703-bri-bekali-pmi-di-taiwan-dengan-kewirausahaan-dan-literasi-keuangan-untuk-bangun-usaha-produktif",
   "tags": [
@@ -1526,7 +1745,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bank bjb Perluas Bisnis lewat [Kemitraan] Strategis Baru",
   "deck": "Bank bjb menjalin kemitraan strategis untuk memperkuat basis bisnisnya.",
-  "image": "assets/img/mobile-banking.jpg",
+  "image": "assets/img/perahu-nelayan.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456658-bank-bjb-perluas-potensi-bisnis-melalui-kemitraan-strategis-bersama-yayasan-adi-upaya",
   "tags": [
@@ -1547,7 +1766,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Naik [Rp15 Ribu], Harga Buyback Ikut Terangkat",
   "deck": "Harga emas batangan Antam menguat pada perdagangan 30 Juli 2026, diikuti kenaikan harga buyback.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik",
   "tags": [
@@ -1568,7 +1787,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Transformasi BRI Dipercepat untuk Perkuat Kontribusi ke [Ekonomi Nasional]",
   "deck": "BRI mengakselerasi program transformasi sebagai fondasi memperkuat daya saing.",
-  "image": "assets/img/perahu-nelayan.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456651-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional",
   "tags": [
@@ -1589,7 +1808,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Koperasi Disiapkan Jadi [Benteng] Kedaulatan Ekonomi Rakyat",
   "deck": "Kementerian Koperasi dan Great Institute sepakat mendorong reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456604-reaktualisasi-pasal-33-uud-1945-koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat",
   "tags": [
@@ -1610,7 +1829,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Penyandang Disabilitas Dibekali [Keterampilan] Bernilai Ekonomi",
   "deck": "PNM lewat program tanggung jawab sosial memberi pelatihan keterampilan produktif bagi penyandang disabilitas.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/batik-umkm.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456590-bantu-kemandirian-penyandang-disabilitas-pnm-bekali-keterampilan-bernilai-ekonomi",
   "tags": [
@@ -1652,7 +1871,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Tunggakan Program MBG [Rp1,6 Triliun] Masih dalam Proses Audit",
   "deck": "Kepala BGN menyebut tunggakan pembayaran ke pihak ketiga masih dalam proses audit.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456565-kepala-bgn-sebut-tunggakan-mbg-rp16-triliun-ke-pihak-ketiga-masih-diaudit-percayalah-pada-sistem",
   "tags": [
@@ -1673,7 +1892,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Sepuluh Bank Tutup hingga Juli, OJK Cabut Izin [BPR] di Berbagai Daerah",
   "deck": "OJK mencabut izin usaha sejumlah bank perkreditan rakyat di berbagai daerah sepanjang 2026.",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456564-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah",
   "tags": [
@@ -1694,7 +1913,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Dua Dekade Membesarkan Usaha [Gula Merah] di Sumenep",
   "deck": "Kisah pelaku UMKM gula merah dari Sumenep yang mengembangkan usaha selama dua dekade dengan dukungan KUR.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456551-kisah-sukses-umkm-gula-merah-dari-sumenep-rosidah-dua-dekade-membesarkan-usaha-berkat-kur-bri",
   "tags": [
@@ -1736,7 +1955,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Laba Bank bjb Melonjak [58,8 Persen], Aset Tembus Rp228 Triliun",
   "deck": "Bank bjb membukukan pertumbuhan laba signifikan dengan total aset menembus Rp228,2 triliun.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/teller-bank.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456529-bukukan-kinerja-positif-laba-bank-bjb-tumbuh-588-dan-aset-tembus-rp2282-triliun",
   "tags": [
@@ -1757,7 +1976,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pemerintah Kucurkan [Rp32,8 Triliun] untuk 15 Bendungan Baru",
   "deck": "Anggaran besar dialokasikan untuk proyek bendungan yang akan mengairi 200 ribu hektare lahan.",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456527-kebut-proyek-15-bendungan-baru-pemerintah-kucurkan-rp328-triliun-untuk-irigasi-200-ribu-hektare-lahan",
   "tags": [
@@ -1778,7 +1997,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pembiayaan [Ultra Mikro] Diperkuat untuk Keluarga Prasejahtera",
   "deck": "PNM bersama Danantara memperkuat pembiayaan ultra mikro dan dampaknya bagi ketahanan keuangan keluarga.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456526-pnm-perkuat-pembiayaan-ultra-mikro-bersama-danantara-ini-hasilnya-terhadap-ketahanan-keuangan-keluarga-prasejahtera",
   "tags": [
@@ -1820,7 +2039,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
   "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
   "tags": [
@@ -1841,7 +2060,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Tembus [Rp18.106] per Dolar di Tengah Transisi Pimpinan BI",
   "deck": "Nilai tukar rupiah melemah meski pasar mulai merespons positif penunjukan pejabat sementara Gubernur BI.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456447-rupiah-melemah-ke-rp18106-per-dolar-meski-pasar-mulai-optimis-penunjukan-destry-damayanti-sebagai-pejabat-sementara-gubernur-bi",
   "tags": [
@@ -1883,7 +2102,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Menkeu Perjelas Posisi Danantara di [KSSK]: Tanpa Hak Suara",
   "deck": "Menkeu menegaskan Danantara hadir dalam rapat KSSK tanpa hak suara dalam pengambilan keputusan.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456426-purbaya-tegaskan-batas-dan-peran-danantara-di-kssk-sebut-tak-punya-hak-suara-dalam-keputusan",
   "tags": [
@@ -1904,7 +2123,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Anjlok, Pasar Cermati [The Fed] dan Transisi BI",
   "deck": "Nilai tukar rupiah tertekan seiring kehati-hatian pasar menanti kebijakan bank sentral AS.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456418-rupiah-anjlok-ke-rp18083-per-dolar-as-pasar-cermati-kebijakan-the-fed-dan-transisi-bi",
   "tags": [
@@ -1925,7 +2144,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
   "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
   "tags": [
@@ -1967,7 +2186,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Nama Menkeu Masuk Bursa Calon [Gubernur BI]",
   "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden",
   "tags": [
@@ -2009,7 +2228,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
   "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi",
   "tags": [
@@ -2072,7 +2291,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
   "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
   "tags": [
@@ -2135,7 +2354,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
   "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/atm-kota.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah",
   "tags": [
@@ -2177,7 +2396,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
   "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/mobile-banking.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin",
   "tags": [
@@ -2198,7 +2417,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
   "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
   "tags": [
@@ -2219,7 +2438,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Turun [Rp9.000] per Gram",
   "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
   "tags": [
@@ -2240,7 +2459,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Tertekan Usai [Gubernur BI] Mengundurkan Diri",
   "deck": "Pasar merespons negatif pengunduran diri Gubernur Bank Indonesia, rupiah melemah ke Rp18.063.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456219-rupiah-melemah-ke-rp18063-per-dolar-as-pasar-respons-negatif-pengunduran-diri-gubernur-bi-perry-warjiyo",
   "tags": [
@@ -2261,7 +2480,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
   "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
   "tags": [
@@ -2282,7 +2501,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
   "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi",
   "tags": [

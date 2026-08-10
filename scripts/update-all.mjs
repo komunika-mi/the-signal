@@ -42,25 +42,48 @@ async function main() {
   log('kandidat berita baru: ' + kandidat.length);
 
   const artikelBaru = [];
+  let gagalError = 0;         // gagal karena error teknis (token, jaringan, dll)
+  let ditolakEditor = 0;      // sengaja ditolak Claude atau isinya tipis
+  let errorTerakhir = '';
+
   for (const k of kandidat) {
     if (artikelBaru.length >= TARGET_BARU) break;
     try {
       const bahan = await ambilIsiArtikel(k);
-      if (bahan.jumlahParagraf < 3) { log('  lewati (isi tipis): ' + k.judulAsli.slice(0, 50)); continue; }
+      if (bahan.jumlahParagraf < 3) {
+        ditolakEditor++; log('  lewati (isi tipis): ' + k.judulAsli.slice(0, 50)); continue;
+      }
       const hasil = await rangkumArtikel(bahan);
-      if (!hasil) { log('  ditolak Claude: ' + k.judulAsli.slice(0, 50)); continue; }
+      if (!hasil) { ditolakEditor++; log('  ditolak Claude: ' + k.judulAsli.slice(0, 50)); continue; }
       if (artikelLama.some(a => a.slug === hasil.slug) || artikelBaru.some(a => a.slug === hasil.slug)) {
-        log('  lewati (slug kembar): ' + hasil.slug); continue;
+        ditolakEditor++; log('  lewati (slug kembar): ' + hasil.slug); continue;
       }
       artikelBaru.push(hasil);
       log('  + ' + hasil.category + ' | ' + hasil.title.replace(/[\[\]]/g, '').slice(0, 55));
     } catch (e) {
+      gagalError++;
+      errorTerakhir = e.message.slice(0, 200);
       log('  GAGAL: ' + k.judulAsli.slice(0, 45) + ' -> ' + e.message.slice(0, 80));
     }
   }
 
-  if (!artikelBaru.length) log('PERINGATAN: tidak ada artikel baru hari ini');
-  if (artikelBaru.length < TARGET_BARU) {
+  // Kegagalan diam-diam itu bahaya untuk job yang jalan tanpa diawasi.
+  // Kalau ADA kandidat tapi semuanya gagal karena error teknis (bukan ditolak
+  // editor), hentikan dengan status gagal supaya kelihatan di GitHub Actions.
+  if (kandidat.length && !artikelBaru.length && gagalError) {
+    log('');
+    log('FATAL: ' + gagalError + ' dari ' + kandidat.length + ' kandidat gagal karena error teknis,');
+    log('       dan tidak ada satu pun artikel yang berhasil dibuat.');
+    log('       Error terakhir: ' + errorTerakhir);
+    if (/not logged in|unauthor|401|invalid.*token|api key/i.test(errorTerakhir)) {
+      log('       DUGAAN: CLAUDE_CODE_OAUTH_TOKEN belum diset atau sudah kedaluwarsa.');
+      log('       Perbaiki: jalankan `claude setup-token`, lalu simpan sebagai secret repo.');
+    }
+    process.exit(1);
+  }
+
+  if (!artikelBaru.length) log('PERINGATAN: tidak ada artikel baru hari ini (semua kandidat ditolak editor)');
+  if (artikelBaru.length && artikelBaru.length < TARGET_BARU) {
     log('CATATAN: hanya dapat ' + artikelBaru.length + ' dari target ' + TARGET_BARU + ' artikel');
   }
 

@@ -3,6 +3,145 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Rilis Koreksi Keterbukaan Informasi [Dividen] Tunai",
+  "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan koreksi atas keterbukaan informasi terkait rencana pembagian dividen tunai.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T16:05:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f6fa0efed0_ad447128ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "dividen tunai",
+   "keterbukaan informasi",
+   "koreksi"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan keterbukaan informasi berupa koreksi atas pengumuman dividen tunai kepada Bursa Efek Indonesia pada 10 Agustus 2026. Perusahaan tidak merinci bagian mana dari pengumuman sebelumnya yang diperbaiki dalam dokumen yang tersedia.",
+   "Sejauh ini publik baru bisa mengetahui bahwa perseroan berencana membagikan dividen tunai kepada pemegang saham, sementara nilai per saham, jadwal pembayaran, dan rincian lain dari koreksi tersebut belum dapat dipastikan karena dokumen lengkapnya belum diperoleh. Kejelasan angka dan jadwal biasanya baru terlihat setelah pengumuman resmi jadwal cum date dan tanggal pembayaran diterbitkan.",
+   "The Signal akan memperbarui pemberitaan ini begitu rincian nilai dividen dan alasan koreksi tersedia dari dokumen resmi HUMI."
+  ],
+  "takeaway": "Dividen tunai adalah pembagian sebagian laba perusahaan kepada pemegang saham dalam bentuk uang, bukan saham baru. Karena ini versi koreksi, ada kemungkinan angka atau jadwal pada pengumuman sebelumnya direvisi, namun rincian tersebut belum tersedia di data yang kami terima. Secara fundamental, pembayaran dividen tunai mengurangi kas perusahaan dan saldo laba ditahan dalam ekuitas, sehingga pelaku pasar biasanya mencermati apakah arus kas operasional perusahaan cukup kuat untuk menopang pembagian tersebut tanpa mengganggu kebutuhan operasional atau investasi ke depan."
+ },
+ {
+  "slug": "padi-laporkan-ringkasan-hasil-rupslb-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "PADI Laporkan Ringkasan Hasil [RUPSLB] ke BEI",
+  "deck": "Minna Padi Investama Sekuritas (PADI) menyampaikan ringkasan risalah RUPS luar biasa ke Bursa Efek Indonesia, namun rincian keputusan belum tersedia.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:56:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8247b10b99_f3ae5590fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "Minna Padi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Minna Padi Investama Sekuritas Tbk (PADI) menyampaikan ringkasan risalah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini merupakan keterbukaan informasi wajib yang harus disampaikan emiten setelah menggelar rapat pemegang saham di luar jadwal RUPS tahunan.",
+   "Dokumen yang tersedia saat ini baru berupa judul dan perihal laporan, belum memuat rincian agenda maupun keputusan yang diambil dalam rapat tersebut. Dengan demikian, substansi hasil RUPSLB, misalnya menyangkut perubahan susunan pengurus, aksi korporasi, atau agenda lain, belum dapat dipastikan tanpa membaca dokumen risalah lengkap.",
+   "The Signal akan menelusuri isi lengkap risalah RUPSLB ini untuk memberikan gambaran yang lebih jelas kepada pembaca begitu dokumen resminya dapat diakses."
+  ],
+  "takeaway": "RUPSLB adalah forum resmi tempat pemegang saham mengambil keputusan atas agenda di luar RUPS tahunan biasa, misalnya perubahan pengurus, aksi korporasi, atau perubahan anggaran dasar, dan hasilnya wajib dilaporkan ke bursa. Karena data yang tersedia baru sebatas judul laporan tanpa rincian agenda atau keputusan, pos kinerja yang tersentuh (apakah menyangkut struktur permodalan, susunan direksi, atau hal lain) belum bisa dipastikan dan baru dapat dinilai setelah dokumen risalah lengkap dibaca."
+ },
+ {
+  "slug": "heli-avia-nusantara-khatulistiwa-laporkan-perubahan-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "HELI: Avia Nusantara Khatulistiwa Laporkan [Perubahan] Kepemilikan",
+  "deck": "PT Jaya Trishindo Tbk (HELI) menyampaikan laporan keterbukaan informasi soal kepemilikan atau perubahan kepemilikan saham oleh pihak bernama Avia Nusantara Khatulistiwa ke Bursa Efek Indonesia.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:52:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6322-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "kepemilikan saham",
+   "keterbukaan informasi",
+   "Jaya Trishindo"
+  ],
+  "body": [
+   "PT Jaya Trishindo Tbk (HELI) menyampaikan laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini menyebut nama Avia Nusantara Khatulistiwa sebagai pihak yang terkait dengan perubahan tersebut.",
+   "Laporan jenis ini merupakan kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali terjadi perubahan pada kepemilikan saham emiten, baik oleh pemegang saham utama, pengendali, maupun pihak terafiliasi lain. Dokumen yang diterbitkan IDX hanya memuat judul dan perihal laporan, sehingga rincian seperti jumlah saham, persentase kepemilikan sebelum dan sesudah perubahan, maupun sifat perubahan itu sendiri belum dapat dipastikan dari informasi yang tersedia saat ini.",
+   "The Signal akan menelusuri dokumen lengkap laporan ini untuk memastikan detail perubahan kepemilikan yang dimaksud."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban rutin keterbukaan informasi setiap kali ada perubahan pada susunan pemegang saham emiten, bukan aksi korporasi baru seperti akuisisi atau penerbitan saham. Secara fundamental, informasi kepemilikan saham penting bagi investor karena menunjukkan siapa saja pihak yang punya kendali atau kepentingan signifikan di perusahaan, yang bisa berkaitan dengan arah kebijakan emiten ke depan. Namun karena data yang tersedia baru sebatas judul dan perihal laporan, besaran perubahan serta dampaknya terhadap struktur kepemilikan HELI baru bisa dinilai setelah dokumen lengkap dibaca."
+ },
+ {
+  "slug": "budi-perubahan-kepemilikan-saham-oleh-budi-delta-swakarya",
+  "category": "Aksi Korporasi",
+  "title": "BUDI: [Perubahan] Kepemilikan Saham oleh Budi Delta Swakarya",
+  "deck": "PT Budi Starch & Sweetener Tbk (BUDI) melaporkan kepemilikan atau perubahan kepemilikan saham oleh PT Budi Delta Swakarya ke Bursa Efek Indonesia.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:50:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-9747-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUDI",
+  "tags": [
+   "BUDI",
+   "kepemilikan saham",
+   "keterbukaan informasi",
+   "Budi Delta Swakarya"
+  ],
+  "body": [
+   "PT Budi Starch & Sweetener Tbk (BUDI) menyampaikan laporan keterbukaan informasi mengenai kepemilikan atau perubahan kepemilikan saham perusahaan yang melibatkan PT Budi Delta Swakarya. Laporan ini disampaikan kepada Bursa Efek Indonesia pada 10 Agustus 2026 sebagai bagian dari kewajiban keterbukaan informasi emiten.",
+   "Ringkasan laporan yang tersedia belum mencantumkan rincian jumlah saham, persentase kepemilikan, maupun arah perubahannya, apakah berupa penambahan atau pengurangan posisi. Detail tersebut baru dapat diketahui setelah dokumen lengkap laporan dibaca.",
+   "Kewajiban pelaporan semacam ini berlaku bagi pihak yang memiliki saham dalam jumlah signifikan atau memiliki hubungan afiliasi dengan perusahaan terbuka, sesuai ketentuan Otoritas Jasa Keuangan mengenai keterbukaan kepemilikan saham."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban rutin bagi pemegang saham yang memiliki posisi signifikan atau hubungan afiliasi di perusahaan terbuka, untuk melaporkan setiap kali kepemilikannya berubah, sebagaimana diatur OJK. Pos yang tersentuh adalah komposisi pemegang saham BUDI, bukan laba, ekuitas, atau arus kas perusahaan secara langsung, sehingga pelaku pasar biasanya memperhatikannya untuk melihat perubahan struktur pengendalian atau porsi saham yang beredar di publik, bukan untuk menilai kinerja operasional emiten."
+ },
+ {
+  "slug": "okas-bumi-arsana-mulia-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "[OKAS] Bumi Arsana Mulia Lapor Perubahan Kepemilikan Saham",
+  "deck": "PT Bumi Arsana Mulia melaporkan perubahan kepemilikan sahamnya di Ancora Indonesia Resources Tbk (OKAS) ke Bursa Efek Indonesia, namun rincian jumlah saham belum tersedia.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:39:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7997-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OKAS",
+  "tags": [
+   "OKAS"
+  ],
+  "body": [
+   "PT Ancora Indonesia Resources Tbk (OKAS) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia mengenai perubahan kepemilikan saham perseroan oleh PT Bumi Arsana Mulia. Laporan ini masuk dalam kategori kewajiban keterbukaan yang harus disampaikan setiap kali ada perubahan kepemilikan saham oleh pemegang saham tertentu di perusahaan terbuka.",
+   "Dokumen yang dipublikasikan baru mencantumkan judul dan perihal laporan, sementara rincian seperti jumlah saham yang berpindah, persentase kepemilikan sebelum dan sesudah perubahan, serta mekanisme transaksinya belum diungkapkan. Publik baru bisa menilai signifikansi perubahan ini setelah dokumen lengkap laporan dapat diakses."
+  ],
+  "takeaway": "Laporan semacam ini wajib disampaikan setiap kali ada pemegang saham yang mengubah jumlah kepemilikannya di perusahaan terbuka, tujuannya agar publik tahu siapa saja yang memegang saham signifikan dan bagaimana peta kepemilikan berubah dari waktu ke waktu. Secara fundamental, laporan ini menyentuh struktur kepemilikan atau komposisi pemegang saham, bukan ekuitas, arus kas, atau laba per saham perusahaan, kecuali perubahan ini disertai penerbitan saham baru yang datanya belum tercantum di sini. Pelaku pasar biasanya mencermati laporan ini karena pergeseran kepemilikan oleh pemegang saham besar dapat mengindikasikan perubahan arah kendali atau kepentingan strategis di perusahaan, meski laporan ini sendiri belum merinci besaran perubahannya."
+ },
+ {
+  "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Sampaikan Penjelasan [Volatilitas] Transaksi ke Bursa",
+  "deck": "PT Xolare RCR Energy Tbk melaporkan penjelasan resmi soal pergerakan tidak biasa pada transaksi sahamnya kepada Bursa Efek Indonesia.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T14:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a7228e48dc_4daf43defe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOLA",
+  "tags": [
+   "SOLA",
+   "volatilitas saham",
+   "UMA",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan laporan keterbukaan informasi berjudul Penjelasan atas Volatilitas Transaksi kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan semacam ini umumnya disampaikan emiten setelah Bursa meminta klarifikasi terkait pergerakan harga atau volume perdagangan saham yang dinilai di luar kebiasaan.",
+   "Berdasarkan data yang tersedia, baru judul dan perihal laporan yang dapat diakses, sementara isi lengkap penjelasan dari manajemen SOLA belum tercakup. Dengan demikian, alasan spesifik di balik volatilitas transaksi saham SOLA belum bisa dirinci lebih lanjut sampai dokumen lengkapnya dibaca."
+  ],
+  "takeaway": "Laporan semacam ini biasanya muncul karena Bursa mendeteksi pergerakan harga atau volume saham yang tidak wajar (dikenal sebagai Unusual Market Activity atau UMA), lalu meminta emiten mengonfirmasi apakah ada informasi material yang belum diungkap ke publik. Secara fundamental, laporan ini bersifat klarifikasi dan tidak langsung mengubah pos kinerja keuangan seperti ekuitas, laba, atau arus kas perusahaan, tetapi penting bagi pemegang saham sebagai bentuk transparansi emiten dan alat untuk memastikan tidak ada informasi tersembunyi di balik pergerakan harga sahamnya."
+ },
+ {
   "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
   "category": "Aksi Korporasi",
   "title": "AKPI: Perubahan [Kepemilikan] Saham oleh Henry Liem",
@@ -50,11 +189,34 @@ var ARTICLES = [
   "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali ada perubahan jumlah saham yang dipegang oleh pemegang saham utama, direksi, atau komisaris suatu emiten, baik itu penambahan maupun pengurangan. Dari judul dan perihal yang tersedia, belum bisa dipastikan apakah kepemilikan Putrasakti Mandiri bertambah atau berkurang, dan berapa jumlahnya. Secara fundamental, informasi semacam ini menyentuh komposisi pemegang saham, bukan langsung ke laba atau arus kas perusahaan, namun pelaku pasar biasanya memperhatikannya karena pola pembelian atau pelepasan saham oleh pihak terkait perusahaan sering dibaca sebagai sinyal keyakinan terhadap prospek emiten."
  },
  {
+  "slug": "heal-laporan-kepemilikan-saham-yustinus-immanuel-herawan",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Laporan [kepemilikan] saham Yustinus Immanuel Herawan",
+  "deck": "Yustinus Immanuel Herawan melaporkan perubahan kepemilikan sahamnya di HEAL kepada BEI, sesuai kewajiban keterbukaan informasi emiten.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:50:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-8296-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "kepemilikan saham",
+   "Medikaloka Hermina",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan laporan keterbukaan informasi mengenai kepemilikan atau perubahan kepemilikan saham perusahaan oleh Yustinus Immanuel Herawan kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan semacam ini merupakan kewajiban yang harus dipenuhi setiap kali terjadi perubahan pada kepemilikan saham oleh pihak tertentu di perusahaan terbuka.",
+   "Informasi yang tersedia untuk publik saat ini baru berupa judul dan perihal laporan. Rincian seperti jumlah saham yang dimiliki atau berubah, persentase kepemilikan, jenis transaksi, maupun harga belum tercantum, sehingga besaran dan arah perubahan kepemilikan baru bisa dinilai setelah dokumen lengkap laporan dibaca."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi bagi pihak yang memiliki saham di perusahaan terbuka setiap kali kepemilikannya berubah, misalnya karena membeli atau menjual saham. Karena detail jumlah dan jenis transaksi belum tersedia di data ini, belum bisa dipastikan apakah kepemilikan bertambah atau berkurang. Secara fundamental, perubahan kepemilikan oleh perorangan seperti ini biasanya tidak mengubah kinerja operasional atau laba perusahaan, tetapi tetap diperhatikan pelaku pasar karena mencerminkan pergerakan komposisi pemegang saham HEAL."
+ },
+ {
   "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
   "category": "Aksi Korporasi",
   "title": "NICK: Nicholas Santoso Lapor [Perubahan] Kepemilikan Saham",
   "deck": "PT Charnic Capital Tbk (NICK) menyampaikan laporan keterbukaan soal kepemilikan saham oleh Nicholas Santoso ke BEI, namun rincian jumlah saham belum tercantum.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:50:00",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-0213-00.pdf-0.pdf",
@@ -74,11 +236,34 @@ var ARTICLES = [
   "takeaway": "Laporan semacam ini adalah kewajiban rutin yang harus disampaikan pemegang saham atau pihak terafiliasi emiten kepada BEI setiap kali kepemilikan mereka atas saham perusahaan berubah, sesuai ketentuan OJK soal keterbukaan kepemilikan. Yang tersentuh secara fundamental adalah komposisi pemegang saham dan jumlah saham beredar yang digenggam pihak terafiliasi, sebuah pos yang biasa diperhatikan pasar karena bisa mencerminkan pandangan orang dalam terhadap perusahaan, meskipun laporan ini sendiri belum merinci apakah kepemilikan bertambah atau berkurang."
  },
  {
+  "slug": "moli-sampaikan-koreksi-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Sampaikan [Koreksi] Laporan Keuangan Interim",
+  "deck": "Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya sudah dipublikasikan ke Bursa Efek Indonesia.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:44:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810115312-64165-0/FinancialStatement-2026-II-MOLI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOLI",
+  "tags": [
+   "MOLI",
+   "laporan keuangan",
+   "koreksi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim kepada Bursa Efek Indonesia pada 10 Agustus 2026. Keterbukaan informasi ini menandakan adanya revisi atas laporan keuangan interim yang sebelumnya sudah disampaikan perusahaan kepada otoritas bursa.",
+   "Dalam publikasi tersebut, MOLI belum merinci pos mana yang dikoreksi maupun sebab dan besaran revisinya. Rincian perubahan baru dapat diketahui setelah dokumen lengkap laporan tersebut dibaca dan dibandingkan dengan versi yang disampaikan sebelumnya."
+  ],
+  "takeaway": "Koreksi laporan keuangan interim berarti perusahaan merevisi angka atau informasi yang sudah pernah dilaporkan, bukan menerbitkan laporan periode baru, biasanya karena ditemukan kekeliruan pencatatan atau penyajian setelah laporan pertama beredar. Karena rincian pos yang dikoreksi belum tersedia dari data ini, dampaknya terhadap angka fundamental seperti laba, ekuitas, atau arus kas belum bisa dipastikan, tapi pelaku pasar biasanya tetap mencermati koreksi semacam ini karena bisa mengubah angka yang sebelumnya sudah dipakai sebagai acuan analisis kinerja perusahaan."
+ },
+ {
   "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
   "category": "Aksi Korporasi",
   "title": "DR Sampaikan Term Sheet Penawaran [Structured Warrant]",
   "deck": "Emiten berkode DR menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia. Rincian lengkap belum tersedia.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:34:40",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dc6396edf_2094d9aefc.pdf",
@@ -102,7 +287,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "POLL Sampaikan [Koreksi] Laporan Keuangan Interim",
   "deck": "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya telah disampaikan ke Bursa Efek Indonesia.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:18:48",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810112624-64175-0/FinancialStatement-2026-II-POLL.pdf",
@@ -148,7 +333,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HD Sampaikan Term Sheet [Structured Warrant] ke BEI",
   "deck": "Kode emiten HD tercatat menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia, dokumen awal sebelum produk derivatif ini resmi ditawarkan ke publik.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:22:50",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e4e810e76_44441afe89.pdf",
@@ -172,7 +357,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
   "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:01:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
@@ -215,7 +400,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "WISL Sampaikan Laporan [Jatuh Tempo] Obligasi ke BEI",
   "deck": "Emiten berkode WISL menyampaikan keterbukaan informasi terkait jatuh tempo obligasi atau sukuk korporasi ke Bursa Efek Indonesia.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:38:18",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f25535d28f_7bbac8f397.pdf",
@@ -239,7 +424,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI Catatkan Tambahan [Saham] Baru di BEI",
   "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan pencatatan saham baru ke Bursa Efek Indonesia. Rincian jumlah dan asal saham belum diungkap dalam laporan awal ini.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
@@ -263,7 +448,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "KAEF Laporkan [Perubahan] Nama Emiten ke Bursa",
   "deck": "PT Kimia Farma (Persero) Tbk menyampaikan keterbukaan informasi soal perubahan nama emiten kepada Bursa Efek Indonesia.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af0ff5b4da_ab7494f874.pdf",
@@ -287,7 +472,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PJHB Catatkan [Saham] Baru di Bursa Efek Indonesia",
   "deck": "Bursa Efek Indonesia menerima laporan keterbukaan informasi soal pencatatan saham PT Pelayaran Jaya Hidup Baru Tbk (PJHB), namun rincian jumlah dan tujuannya belum tersedia.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:14",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/537545357d_64a360d59d.pdf",
@@ -311,7 +496,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PACK catatkan [saham] baru di Bursa Efek Indonesia",
   "deck": "BEI mencatatkan penambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) pada 10 Agustus 2026, namun rincian jumlah dan asal saham belum diungkap.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:34:32",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/397f7d6139_8843df58bb.pdf",
@@ -399,7 +584,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
   "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T17:01:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",

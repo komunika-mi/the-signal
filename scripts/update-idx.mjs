@@ -5,7 +5,7 @@
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData } from './lib.mjs';
-import { ambilKeterbukaan } from './fetch-idx.mjs';
+import { ambilKeterbukaan, ambilIsiLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 
@@ -37,6 +37,15 @@ async function main() {
   for (const k of kandidat) {
     if (baru.length >= TARGET) break;
     try {
+      // Baca dulu isi PDF-nya. Kalau gagal, berita tetap ditulis dari judul
+      // saja, cuma jadi lebih tipis. Satu lampiran rusak tidak boleh
+      // menjatuhkan seluruh putaran.
+      k.isiDokumen = ambilIsiLampiran(k.lampiran);
+      k.angka = k.isiDokumen ? bacaAngkaKepemilikan(k.isiDokumen) : null;
+      if (k.isiDokumen) log('  dokumen terbaca: ' + k.isiDokumen.length + ' karakter' +
+        (k.angka ? ' | ' + k.angka.arah + ' ' + Math.abs(k.angka.selisih).toLocaleString('id-ID') +
+          ' lembar (' + k.angka.persenDariKepemilikan.toFixed(3) + '% kepemilikan)' : ''));
+
       const hasil = await rangkumKeterbukaan(k);
       if (!hasil) { ditolak++; log('  ditolak: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48)); continue; }
 

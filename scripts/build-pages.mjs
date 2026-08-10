@@ -272,7 +272,12 @@ ARTICLES.forEach(function (a) {
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')"><span class="ai-tag">Ilustrasi AI</span></div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
-    (a.takeaway ? `<div class="video-takeaway catatan-idx" style="max-width:68ch;"><b>Catatan redaksi</b>${esc(a.takeaway)}</div>` : '') +
+    (a.takeaway ? `<div class="video-takeaway catatan-idx" style="max-width:68ch;">` +
+      `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
+        { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
+      }</span>` : ''}</b>${esc(a.takeaway)}` +
+      (a.sentimen ? `<span class="catatan-disclaimer">Penilaian ini menyangkut fundamental emiten, bukan anjuran membeli atau menjual saham.</span>` : '') +
+      `</div>` : '') +
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
     `<p class="foto-kredit">Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.</p>` +

@@ -5,8 +5,10 @@
 // Pemegang Efek". Karena itu ada dua lapis penyaringan: daftar tolak di sini
 // untuk yang jelas rutin, lalu Claude yang menilai sisanya.
 import fs from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
-import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT } from './lib.mjs';
+import { execFileSync } from 'node:child_process';
+import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA } from './lib.mjs';
 
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
@@ -95,6 +97,112 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
     hasil.length + ' lolos saringan awal (' + hasil.filter(x => x.dugaanMaterial).length + ' terindikasi material)');
 
   return hasil.slice(0, maks);
+}
+
+// ---------- isi dokumen lampiran ----------
+// Tanpa ini berita cuma bisa mengulang judul. Isi PDF-nya justru bagian yang
+// bernilai: siapa pelakunya, jabatannya, berapa lembar sebelum dan sesudah,
+// harga, dan tujuan transaksi.
+//
+// WAJIB pakai `pdftotext -raw`, JANGAN `-layout`. Dengan -layout kolom label
+// dan kolom nilai di formulir KSEI tergeser satu baris, sehingga terbaca
+// "Nama (sesuai SID) : Dewan Komisaris" padahal itu jabatan, dan nama orang
+// yang sebenarnya hilang. Salah baca di sini berarti salah menyebut nama atau
+// jabatan orang sungguhan di berita. Mode -raw mempertahankan urutan tulis
+// aslinya sehingga tiap label tetap menempel pada nilainya sendiri.
+
+// Baris yang tidak boleh ikut terkirim ke model, apa pun isinya.
+// Formulir menyembunyikan data ini ("Tidak ditampilkan"), tapi kalau suatu
+// saat ada pelapor yang tidak menyembunyikannya, jangan sampai bocor lewat kita.
+const BARIS_PRIBADI = /^\s*(alamat identitas|nomor telepon|alamat e-?mail|address|telephone number|e-?mail)\s*:/i;
+
+// Boilerplate hukum KSEI dan versi bahasa Inggris. Tidak menambah informasi,
+// hanya membengkakkan token dan mengaburkan bagian yang penting.
+const BOILERPLATE = [
+  /saya bertanggung jawab penuh atas kebenaran/i,
+  /ksei tidak bertanggung jawab atas kesalahan/i,
+  /i shall be fully responsible for the truthfulness/i,
+  /ksei shall not be responsible or liable/i,
+  /^report of ownership or any changes/i,
+  /^according to article/i,
+  /^i, the undersigned/i,
+];
+
+export function ambilIsiLampiran(url, { maksKarakter = 6000 } = {}) {
+  if (!url || !/\.pdf/i.test(url)) return '';
+
+  const tmp = path.join(os.tmpdir(), 'idx-' + Buffer.from(url).toString('base64url').slice(-24) + '.pdf');
+  try {
+    execFileSync('curl', [
+      '-s', '-L', '--compressed', '--max-time', '45',
+      '-A', UA,
+      '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+      '-o', tmp, url,
+    ], { encoding: 'utf8' });
+
+    if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) return '';
+    // Pastikan benar-benar PDF, bukan halaman tantangan Cloudflare yang disimpan.
+    if (fs.readFileSync(tmp, { encoding: 'latin1', start: 0, end: 4 }).slice(0, 4) !== '%PDF') return '';
+
+    const mentah = execFileSync('pdftotext', ['-raw', '-enc', 'UTF-8', tmp, '-'],
+      { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
+
+    return bersihkanTeksPdf(mentah, maksKarakter);
+  } catch (e) {
+    log('  lampiran gagal dibaca: ' + String(e.message).slice(0, 70));
+    return '';
+  } finally {
+    fs.rmSync(tmp, { force: true });
+  }
+}
+
+export function bersihkanTeksPdf(mentah, maksKarakter = 6000) {
+  const keluar = [];
+  for (let baris of String(mentah).split('\n')) {
+    baris = baris.replace(/\s+/g, ' ').trim();
+    if (!baris) continue;
+    if (BARIS_PRIBADI.test(baris)) continue;
+    if (BOILERPLATE.some(r => r.test(baris))) break;   // sisanya boilerplate
+    keluar.push(baris);
+  }
+  let teks = keluar.join('\n');
+  if (teks.length > maksKarakter) teks = teks.slice(0, maksKarakter) + '\n[dipotong]';
+  return teks;
+}
+
+// Angka kunci diambil sendiri lewat regex, tidak diserahkan ke model.
+// Model boleh salah baca; hasil parsing ini dikirim sebagai pembanding yang
+// otoritatif supaya angka di berita tidak meleset.
+export function bacaAngkaKepemilikan(teks) {
+  const ambil = (label) => {
+    const m = teks.match(new RegExp(label + '\\s*:\\s*([^\\n]+)', 'i'));
+    return m ? m[1].trim() : '';
+  };
+  const angka = (s) => {
+    const m = String(s).replace(/\./g, '').replace(',', '.').match(/-?\d+(\.\d+)?/);
+    return m ? parseFloat(m[0]) : null;
+  };
+
+  const sebelum = angka(ambil('Jumlah Saham Sebelum Transaksi'));
+  const sesudah = angka(ambil('Jumlah Saham Setelah Transaksi'));
+  if (sebelum === null || sesudah === null) return null;
+
+  const selisih = sesudah - sebelum;
+  const hakSebelum = ambil('Hak Suara Sebelum Transaksi');
+  const hakSesudah = ambil('Hak Suara Setelah Transaksi');
+
+  return {
+    nama: ambil('Nama \\(sesuai SID\\)'),
+    jabatan: ambil('Jabatan'),
+    anggotaOrgan: ambil('Anggota Direksi/Dewan Komisaris'),
+    sebelum, sesudah, selisih,
+    arah: selisih < 0 ? 'penjualan' : (selisih > 0 ? 'pembelian' : 'tidak berubah'),
+    // Inilah angka yang menentukan apakah transaksi ini berarti atau cuma remah.
+    persenDariKepemilikan: sebelum > 0 ? Math.abs(selisih) / sebelum * 100 : null,
+    hakSuaraSebelum: hakSebelum,
+    hakSuaraSesudah: hakSesudah,
+    hakSuaraBerubah: hakSebelum !== hakSesudah,
+  };
 }
 
 // ---------- peta kode emiten -> nama resmi ----------

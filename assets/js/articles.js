@@ -1,4 +1,126 @@
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
+ {
+  "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Perubahan [Kepemilikan] Saham oleh Henry Liem",
+  "deck": "Henry Liem melaporkan perubahan kepemilikan saham AKPI ke Bursa Efek Indonesia, namun rincian jumlah dan jenis transaksi belum tercantum dalam ringkasan laporan.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T13:06:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7937-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "keterbukaan informasi",
+   "insider"
+  ],
+  "body": [
+   "PT Argha Karya Prima Industry Tbk (AKPI) menyampaikan laporan keterbukaan informasi ke Bursa Efek Indonesia terkait perubahan kepemilikan saham perusahaan oleh Henry Liem. Laporan ini merupakan bagian dari kewajiban keterbukaan informasi yang diatur regulator pasar modal bagi pihak yang memiliki posisi kepemilikan signifikan atau jabatan tertentu di emiten.",
+   "Berdasarkan ringkasan yang tersedia, laporan baru mencantumkan judul dan perihal berupa perubahan kepemilikan saham, tanpa rincian jumlah lembar saham, persentase kepemilikan, atau jenis transaksi yang dilakukan. Dengan demikian, besaran dan arah perubahan kepemilikan tersebut baru bisa dinilai setelah dokumen lengkap laporan dibaca."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban rutin bagi insider, yakni direksi, komisaris, atau pemegang saham dengan kepemilikan signifikan, untuk melaporkan setiap kali terjadi perubahan pada jumlah saham AKPI yang mereka miliki. Secara fundamental, transaksi semacam ini umumnya tidak mengubah jumlah saham beredar maupun struktur modal perusahaan karena hanya memindahkan kepemilikan yang sudah ada, sehingga pos yang tersentuh adalah komposisi pemegang saham, bukan laporan keuangan AKPI. Pelaku pasar biasanya mencermati laporan kepemilikan insider semacam ini karena dianggap dapat mencerminkan pandangan pihak dalam terhadap perusahaan, meski laporan ini sendiri belum mengungkap apakah perubahannya berupa penambahan atau pengurangan kepemilikan."
+ },
+ {
+  "slug": "kdtn-laporan-perubahan-kepemilikan-saham-putrasakti-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Laporan Perubahan [Kepemilikan] Saham Putrasakti Mandiri",
+  "deck": "PT Puri Sentul Permai Tbk (KDTN) menyampaikan laporan perubahan kepemilikan saham oleh pihak bernama Putrasakti Mandiri ke Bursa Efek Indonesia.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:58:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6660-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "keterbukaan informasi",
+   "IDX"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) menyampaikan laporan keterbukaan informasi mengenai perubahan kepemilikan saham perusahaan kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini terkait dengan pihak bernama Putrasakti Mandiri, namun rincian seperti jumlah saham, persentase kepemilikan, dan apakah perubahan tersebut berupa penambahan atau pengurangan belum tercantum dalam judul dan perihal laporan.",
+   "Laporan kepemilikan saham semacam ini merupakan kewajiban rutin yang diatur regulator pasar modal bagi pemegang saham utama, direksi, atau komisaris setiap kali terjadi perubahan jumlah saham yang mereka pegang di emiten terbuka. Kewajiban ini ada agar publik dapat memantau pergerakan kepemilikan pihak-pihak yang dianggap memiliki akses informasi atau pengaruh terhadap perusahaan.",
+   "Sejauh ini detail transaksi yang mendasari laporan tersebut, termasuk nilai dan volume saham yang berpindah, belum dapat dipastikan. Kejelasan mengenai arah dan besaran perubahan kepemilikan baru bisa diperoleh setelah dokumen lengkap laporan tersebut dibaca."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali ada perubahan jumlah saham yang dipegang oleh pemegang saham utama, direksi, atau komisaris suatu emiten, baik itu penambahan maupun pengurangan. Dari judul dan perihal yang tersedia, belum bisa dipastikan apakah kepemilikan Putrasakti Mandiri bertambah atau berkurang, dan berapa jumlahnya. Secara fundamental, informasi semacam ini menyentuh komposisi pemegang saham, bukan langsung ke laba atau arus kas perusahaan, namun pelaku pasar biasanya memperhatikannya karena pola pembelian atau pelepasan saham oleh pihak terkait perusahaan sering dibaca sebagai sinyal keyakinan terhadap prospek emiten."
+ },
+ {
+  "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Nicholas Santoso Lapor [Perubahan] Kepemilikan Saham",
+  "deck": "PT Charnic Capital Tbk (NICK) menyampaikan laporan keterbukaan soal kepemilikan saham oleh Nicholas Santoso ke BEI, namun rincian jumlah saham belum tercantum.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:50:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-0213-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia perihal kepemilikan atau perubahan kepemilikan saham perseroan. Laporan tertanggal 10 Agustus 2026 itu disampaikan atas nama Nicholas Santoso.",
+   "Ringkasan laporan yang tersedia belum mencantumkan jumlah lembar saham, persentase kepemilikan, maupun apakah perubahan tersebut berupa penambahan atau pengurangan. Dengan demikian, besaran transaksi dan dampaknya terhadap komposisi pemegang saham NICK belum dapat dipastikan dari data yang ada saat ini.",
+   "Detail lengkap mengenai laporan ini, termasuk arah perubahan kepemilikan, baru bisa diketahui setelah dokumen resmi yang disampaikan ke BEI dibaca secara utuh."
+  ],
+  "takeaway": "Laporan semacam ini adalah kewajiban rutin yang harus disampaikan pemegang saham atau pihak terafiliasi emiten kepada BEI setiap kali kepemilikan mereka atas saham perusahaan berubah, sesuai ketentuan OJK soal keterbukaan kepemilikan. Yang tersentuh secara fundamental adalah komposisi pemegang saham dan jumlah saham beredar yang digenggam pihak terafiliasi, sebuah pos yang biasa diperhatikan pasar karena bisa mencerminkan pandangan orang dalam terhadap perusahaan, meskipun laporan ini sendiri belum merinci apakah kepemilikan bertambah atau berkurang."
+ },
+ {
+  "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
+  "category": "Aksi Korporasi",
+  "title": "DR Sampaikan Term Sheet Penawaran [Structured Warrant]",
+  "deck": "Emiten berkode DR menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia. Rincian lengkap belum tersedia.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:34:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dc6396edf_2094d9aefc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "structured warrant",
+   "penawaran umum",
+   "IDX"
+  ],
+  "body": [
+   "Emiten dengan kode saham DR menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia berupa term sheet penawaran umum structured warrant, dokumen ringkasan syarat dan ketentuan sebelum penerbitan resmi. Laporan tersebut disampaikan pada 10 Agustus 2026.",
+   "Bursa belum merilis rincian lebih lanjut mengenai isi term sheet tersebut, termasuk jumlah dan harga structured warrant yang ditawarkan, jangka waktu penawaran, maupun saham acuan yang menjadi dasar produk ini. Publik perlu menunggu dokumen lengkap untuk mengetahui detail penawaran secara utuh.",
+   "The Signal akan terus memantau perkembangan aksi ini dan memperbarui pemberitaan begitu dokumen resmi dari otoritas bursa tersedia."
+  ],
+  "takeaway": "Structured warrant adalah produk investasi terstruktur yang memberi pemegangnya hak untuk membeli atau menjual saham acuan pada harga dan waktu tertentu, dan diperdagangkan di bursa layaknya saham biasa. Term sheet sendiri hanyalah dokumen ringkasan awal berisi syarat dan ketentuan sebelum penawaran resmi digelar, bukan penerbitan final. Karena structured warrant umumnya diterbitkan oleh pihak penerbit terpisah dengan saham acuan sebagai dasar produk, dampaknya terhadap ekuitas atau jumlah saham beredar emiten acuan tidak selalu langsung, sehingga penilaian dampak fundamental baru bisa dilakukan setelah dokumen lengkap tersedia dan jelas pihak mana yang berperan sebagai penerbit maupun saham acuannya."
+ },
+ {
+  "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "POLL Sampaikan [Koreksi] Laporan Keuangan Interim",
+  "deck": "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya telah disampaikan ke Bursa Efek Indonesia.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:18:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810112624-64175-0/FinancialStatement-2026-II-POLL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLL",
+  "tags": [
+   "POLL",
+   "laporan keuangan",
+   "koreksi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim kepada Bursa Efek Indonesia pada 10 Agustus 2026. Koreksi ini merupakan revisi atas laporan keuangan periode berjalan yang sebelumnya sudah disampaikan perusahaan kepada otoritas bursa.",
+   "Keterbukaan informasi yang tersedia saat ini baru berupa judul dan perihal laporan, sementara isi lengkap dokumen koreksi belum dipublikasikan. Bagian mana dari laporan keuangan yang direvisi, apakah menyangkut pos neraca, laba rugi, arus kas, atau catatan atas laporan keuangan, belum dapat dipastikan tanpa membaca dokumen lengkapnya.",
+   "Publikasi dokumen lengkap nantinya akan memberikan gambaran lebih jelas mengenai pos yang direvisi serta dampaknya terhadap laporan keuangan POLL secara keseluruhan."
+  ],
+  "takeaway": "Koreksi laporan keuangan interim berarti perusahaan memperbaiki atau merevisi angka yang sebelumnya sudah dilaporkan ke bursa, misalnya karena kesalahan pencatatan, penyesuaian penerapan standar akuntansi, atau temuan hasil audit. Karena rincian dokumen belum tersedia, pos yang berpotensi tersentuh bisa mencakup laba bersih, aset, liabilitas, atau ekuitas, tergantung bagian mana yang dikoreksi. Pelaku pasar biasanya mencermati revisi semacam ini karena angka yang sebelumnya dipakai untuk menilai kinerja perusahaan dapat berubah begitu koreksi dipublikasikan secara lengkap."
+ },
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
@@ -26,7 +148,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HD Sampaikan Term Sheet [Structured Warrant] ke BEI",
   "deck": "Kode emiten HD tercatat menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia, dokumen awal sebelum produk derivatif ini resmi ditawarkan ke publik.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:22:50",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e4e810e76_44441afe89.pdf",
@@ -50,7 +172,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
   "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:01:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
@@ -189,7 +311,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PACK catatkan [saham] baru di Bursa Efek Indonesia",
   "deck": "BEI mencatatkan penambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) pada 10 Agustus 2026, namun rincian jumlah dan asal saham belum diungkap.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:34:32",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/397f7d6139_8843df58bb.pdf",
@@ -277,7 +399,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
   "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T17:01:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",

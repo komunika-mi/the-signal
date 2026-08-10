@@ -15,9 +15,9 @@ import { ambilPasar } from './fetch-market.mjs';
 import { rangkumArtikel, saringVideo, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 
-const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 5);   // minimal berita baru per hari
-const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 14);
-const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 120);   // batasi ukuran situs
+const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 10);   // berita baru per hari
+const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
+const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 400);    // batasi ukuran situs (~40 hari)
 const MAKS_VIDEO = 12;
 
 function tanggalWIB() {

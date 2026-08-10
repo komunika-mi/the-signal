@@ -85,6 +85,29 @@
     if (html) box.innerHTML = html;
   };
 
+  // kartu pasar di rail beranda
+  TS.isiKartuPasar = function () {
+    var box = document.getElementById("ticker-grid");
+    if (!box || typeof MARKET === "undefined" || !MARKET) return;
+    function spark(naik) {
+      var pts = naik ? "1,15 8,12 15,13 22,8 29,10 36,4 43,6"
+                     : "1,4 8,6 15,5 22,9 29,7 36,11 43,10";
+      var warna = naik ? "var(--red)" : "var(--green)";
+      return '<svg class="spark-mini" viewBox="0 0 44 18"><polyline points="' + pts +
+        '" fill="none" stroke="' + warna + '" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    }
+    function sel(d, nama) {
+      if (!d) return "";
+      return '<div class="ticker-cell"><div class="ticker-top">' + spark(d.naik) +
+        '<span class="pill ' + (d.naik ? "up" : "down") + '">' + TS.esc(d.delta) + '</span></div>' +
+        '<div class="ticker-value num">' + TS.esc(d.nilai) + '</div>' +
+        '<div class="ticker-name">' + nama + '</div></div>';
+    }
+    var html = sel(MARKET.ihsg, "IHSG") + sel(MARKET.usdidr, "USD/IDR") +
+               sel(MARKET.emas, "Emas (spot) / gr") + sel(MARKET.btc, "Bitcoin / IDR");
+    if (html) box.innerHTML = html;
+  };
+
   // shared subscribe modal wiring
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');

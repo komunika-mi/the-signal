@@ -301,6 +301,26 @@ VIDEOS.forEach(function (v) {
   fs.writeFileSync(ROOT + '/tayangan/' + v.id + '.html', html, 'utf8');
 });
 
+// ---------- bersihkan halaman yatim ----------
+// Artikel lama yang sudah terdorong keluar dari arsip menyisakan file HTML.
+// Tanpa ini, file-file itu menumpuk selamanya dan masih bisa diakses publik
+// padahal sudah tidak ada di daftar mana pun.
+function bersihkanYatim(folder, sahSet) {
+  const dir = path.join(ROOT, folder);
+  if (!fs.existsSync(dir)) return 0;
+  let hapus = 0;
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".html")) continue;
+    if (!sahSet.has(f)) { fs.unlinkSync(path.join(dir, f)); hapus++; }
+  }
+  return hapus;
+}
+const yatimBerita = bersihkanYatim("berita", new Set(ARTICLES.map(a => a.slug + ".html")));
+const yatimVideo = bersihkanYatim("tayangan", new Set(VIDEOS.map(v => v.id + ".html")));
+if (yatimBerita || yatimVideo) {
+  console.log("halaman lama dihapus: " + yatimBerita + " berita, " + yatimVideo + " video");
+}
+
 // ---------- sitemap ----------
 const urls = ['/', '/berita.html', '/video.html']
   .concat(ARTICLES.map(articleUrl))

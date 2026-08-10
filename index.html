@@ -97,40 +97,7 @@
 
         <div>
           <span class="eyebrow">Pasar Hari Ini</span>
-          <div class="ticker-grid">
-            <div class="ticker-cell">
-              <div class="ticker-top">
-                <svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,15 8,12 15,13 22,8 29,10 36,4 43,6" fill="none" stroke="var(--red)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                <span class="pill up">&#9650; 0,64%</span>
-              </div>
-              <div class="ticker-value num">7.286,14</div>
-              <div class="ticker-name">IHSG</div>
-            </div>
-            <div class="ticker-cell">
-              <div class="ticker-top">
-                <svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,4 8,6 15,5 22,9 29,7 36,11 43,10" fill="none" stroke="var(--green)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                <span class="pill down">&#9660; 0,21%</span>
-              </div>
-              <div class="ticker-value num">15.812</div>
-              <div class="ticker-name">USD/IDR</div>
-            </div>
-            <div class="ticker-cell">
-              <div class="ticker-top">
-                <svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,5 8,7 15,6 22,10 29,9 36,13 43,15" fill="none" stroke="var(--green)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                <span class="pill down">&#9660; Rp20rb</span>
-              </div>
-              <div class="ticker-value num">Rp1.366.000</div>
-              <div class="ticker-name">Emas Antam / gr</div>
-            </div>
-            <div class="ticker-cell">
-              <div class="ticker-top">
-                <svg class="spark-mini" viewBox="0 0 44 18"><polyline points="1,5 8,4 15,7 22,6 29,9 36,8 43,13" fill="none" stroke="var(--green)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                <span class="pill down">&#9660; 1,12%</span>
-              </div>
-              <div class="ticker-value num">Rp1,42 M</div>
-              <div class="ticker-name">Bitcoin / IDR</div>
-            </div>
-          </div>
+          <div class="ticker-grid" id="ticker-grid"></div>
         </div>
 
         <div class="social-row">
@@ -438,6 +405,7 @@
   });
 
   TS.isiPasar();
+  TS.isiKartuPasar();
   TS.initModal();
 })();
 </script>

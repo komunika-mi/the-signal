@@ -11,7 +11,7 @@ on:
     inputs:
       target:
         description: "Berapa berita baru yang dikejar run ini"
-        default: "5"
+        default: "10"
       model:
         description: "Model Claude yang dipakai"
         default: "claude-sonnet-5"
@@ -45,7 +45,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           # Alternatif kalau nanti mau pindah ke API berbayar:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SIGNAL_TARGET: ${{ inputs.target || '5' }}
+          SIGNAL_TARGET: ${{ inputs.target || '10' }}
           SIGNAL_MODEL: ${{ inputs.model || 'claude-sonnet-5' }}
         run: npm run update
 

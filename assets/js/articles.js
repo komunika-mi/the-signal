@@ -2,11 +2,76 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
+  "category": "Energi",
+  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
+  "image": "assets/img/spbu-bbm.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T10:41:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458834-terima-laporan-b50-prabowo-langsung-perintahkan-pangkas-layer-bumn",
+  "tags": [
+   "B50",
+   "BUMN",
+   "Pertamina",
+   "Bioetanol"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menerima laporan perkembangan program biodiesel B50 sekaligus memerintahkan pemangkasan struktur organisasi di tubuh badan usaha milik negara. Arahan ini disampaikan dalam pertemuan tertutup dengan Direktur Utama Pertamina Simon A. Mantiri, dan menjadi sinyal bahwa pemerintah tengah mendorong dua agenda besar sekaligus, yaitu ketahanan energi domestik dan efisiensi korporasi negara.",
+   "Pertemuan berlangsung di kediaman Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
+   "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
+   "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
+  ]
+ },
+ {
+  "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
+  "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T10:01:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "Antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan produksi Antam pada 10 Agustus 2026 tidak mengalami pergerakan dan bertahan di level Rp2.690.000 per gram. Kondisi stabil ini penting diperhatikan masyarakat yang menjadikan emas sebagai instrumen investasi maupun perlindungan nilai aset, karena menunjukkan belum ada tekanan baru pada pasar logam mulia dalam negeri hari ini.",
+   "Berdasarkan pemantauan pada laman resmi Logam Mulia pukul 09.01 WIB, harga jual emas Antam memang tidak berubah dibandingkan hari sebelumnya. Harga beli kembali atau buyback juga tercatat tetap di angka Rp2.511.000 per gram, sehingga selisih antara harga jual dan buyback masih berada di kisaran yang sama seperti sebelumnya.",
+   "Pihak Antam mengingatkan bahwa harga emas batangan bersifat dinamis dan dapat berubah sewaktu waktu mengikuti pergerakan pasar. Karena itu, calon pembeli maupun pemilik emas disarankan untuk selalu mengecek harga terbaru sebelum melakukan transaksi jual maupun beli."
+  ]
+ },
+ {
+  "slug": "harga-beras-dan-cabai-naik-serentak-awal-pekan",
+  "category": "Makroekonomi",
+  "title": "Harga Beras dan Cabai [Naik] Serentak Awal Pekan",
+  "deck": "Data PIHPS Bank Indonesia mencatat seluruh jenis beras dan komoditas cabai naik pada Senin, sementara harga bawang justru melandai.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T09:55:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458830-harga-pangan-hari-ini-10-agustus-2026-beras-kompak-naik-cabai-rawit-merah-melejit",
+  "tags": [
+   "harga pangan",
+   "beras",
+   "cabai",
+   "PIHPS"
+  ],
+  "body": [
+   "Harga pangan strategis kembali merangkak naik pada awal pekan ini, Senin (10/8/2026). Kenaikan yang merata pada seluruh jenis beras dan hampir semua komoditas cabai ini penting dicermati karena kedua kelompok bahan pangan tersebut menjadi penyumbang utama inflasi rumah tangga dan biasanya cepat memengaruhi daya beli masyarakat.",
+   "Berdasarkan data Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia per pukul 08.50 WIB, seluruh kelompok beras naik tipis secara rata-rata nasional. Beras kualitas bawah naik sekitar 0,34 persen menjadi Rp14.800 per kilogram untuk jenis I dan Rp14.600 per kilogram untuk jenis II. Beras medium ikut naik sekitar 0,3 persen menjadi Rp16.450 dan Rp16.250 per kilogram, sementara beras super naik sekitar 0,28 persen menjadi Rp17.750 dan Rp17.200 per kilogram.",
+   "Kenaikan yang lebih tajam justru terjadi pada komoditas cabai. Cabai rawit merah mencatat lonjakan terbesar, naik Rp1.550 atau 2,67 persen sehingga harganya kini rata-rata Rp59.650 per kilogram secara nasional. Cabai merah besar naik 1,73 persen menjadi Rp49.900 per kilogram, cabai merah keriting naik 1 persen menjadi Rp50.400 per kilogram, dan cabai rawit hijau naik lebih terbatas sebesar 0,57 persen menjadi Rp52.600 per kilogram.",
+   "Di tengah tren kenaikan tersebut, harga bawang justru bergerak ke arah sebaliknya. Bawang merah ukuran sedang turun 1,49 persen menjadi Rp39.550 per kilogram, sedangkan bawang putih ukuran sedang turun 1,32 persen menjadi Rp41.050 per kilogram. Pergerakan harga yang beragam ini menegaskan bahwa pasokan komoditas hortikultura masih menjadi faktor penentu utama fluktuasi harga pangan dalam negeri."
+  ]
+ },
+ {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
   "category": "Pasar Modal",
   "title": "Investor Saham RI [Tembus] 10,05 Juta SID di 2026",
   "deck": "BEI mencatat jumlah investor saham naik 16,83 persen sepanjang tahun berjalan, seiring upaya bursa memperluas basis pemodal domestik.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T19:19:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458750-investor-saham-tembus-1005-juta-sid-bei-catat-pertumbuhan-1683-pada-2026",
@@ -28,7 +93,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BI: Harga Properti Residensial [Naik] Tipis di Triwulan II 2026",
   "deck": "Bank Indonesia mencatat kenaikan harga properti residensial 0,69 persen secara tahunan pada triwulan II 2026, dengan Pekanbaru mencatat lonjakan tertinggi.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:10:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458739-bi-ungkap-harga-properti-di-indonesia-naik-di-triwulan-ii-2026-pekanbaru-jadi-wilayah-paling-mencolok",
@@ -50,7 +115,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Ekonomi [Karbon] Bergeser, Peluang Besar Bagi Indonesia",
   "deck": "Pergeseran ekonomi berbasis karbon membuka peluang bagi Indonesia mengubah kekayaan alamnya menjadi kekuatan ekonomi baru.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:01:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458734-ekonomi-karbon-ubah-arah-bisnis-global-indonesia-dinilai-punya-peluang-yang-menjanjikan",
@@ -137,7 +202,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Harga Minyak Berpeluang Tembus [US$83] di Tengah Ketegangan Hormuz",
   "deck": "Pengamat memperkirakan harga minyak mentah bergerak di kisaran US$65,70 hingga US$83,30 per barel pekan ini, seiring negosiasi Iran dan Oman soal Selat Hormuz yang belum tuntas.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/kilang-minyak.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T14:43:45+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458707-iran-oman-rebutan-selat-hormuz-harga-minyak-diprediksi-tembus-us83-per-barel",
@@ -225,7 +290,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Konsumsi Rumah Tangga Masih [Menopang] 92 Persen Ekonomi Indonesia",
   "deck": "Ketua Umum Kadin Anindya Bakrie menegaskan konsumsi rumah tangga dan aktivitas dunia usaha menyumbang 92 persen produk domestik bruto Indonesia.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457008-92-pdb-ri-ditopang-konsumsi-dan-dunia-usaha-anindya-bakrie-tegaskan-kadin-siap-ikut-pacu-pertumbuhan-ekonomi",
   "tags": [
@@ -247,7 +312,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamax Cs Turun Lagi Awal Agustus, Ini [Rinciannya]",
   "deck": "Pertamina Patra Niaga kembali menyesuaikan harga sejumlah BBM non-subsidi per 1 Agustus 2026.",
-  "image": "assets/img/kilang-minyak.jpg",
+  "image": "assets/img/tabung-lpg.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457073-harga-bbm-per-1-agustus-2026-pertamina-patra-niaga-turunkan-harga-pertamax",
   "tags": [
@@ -268,7 +333,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Dibuka Turun [Rp20 Ribu] per Gram di Awal Agustus",
   "deck": "Harga emas batangan Antam terkoreksi di hari pertama Agustus 2026, memutus tren penguatan pekan sebelumnya.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
   "tags": [
@@ -289,7 +354,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Saham Telekomunikasi Jadi Incaran, Analis Soroti Kebutuhan [Infrastruktur]",
   "deck": "Minat investor terhadap emiten telekomunikasi meningkat, namun analis mengingatkan pembangunan infrastruktur jaringan masih perlu digenjot.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457076-saham-sektor-telekomunikasi-tarik-minat-investor-infrastruktur-perlu-ditingkatkan",
   "tags": [
@@ -310,7 +375,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Berbeda dari Pertamina, Solar di SPBU Shell Justru [Naik]",
   "deck": "Shell menaikkan harga solar per 1 Agustus 2026, berbanding terbalik dengan penyesuaian turun yang dilakukan Pertamina.",
-  "image": "assets/img/tabung-lpg.jpg",
+  "image": "assets/img/sawit-biodiesel.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457113-harga-bbm-jenis-solar-di-spbu-shell-resmi-naik-per-1-agustus-2026",
   "tags": [
@@ -331,7 +396,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BGN Siap Jalankan Putusan MK, Skema Anggaran MBG Dibahas [Kemenkeu]",
   "deck": "Kepala BGN menyebut skema anggaran program Makan Bergizi Gratis pascaputusan MK akan dibahas bersama Kementerian Keuangan.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457072-bgn-tegaskan-siap-laksanakan-putusan-mk-soal-skema-anggaran-bakal-dibahas-kemenkeu",
   "tags": [
@@ -394,7 +459,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Menuju B50, Tata Kelola Biodiesel Dinilai Jadi [Pekerjaan Rumah]",
   "deck": "Penerapan campuran biodiesel 50 persen dinilai butuh penguatan regulasi agar memberi kepastian bagi pelaku industri.",
-  "image": "assets/img/sawit-biodiesel.jpg",
+  "image": "assets/img/global-pelabuhan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457067-implementasi-b50-dinilai-perlu-didukung-tata-kelola-biodiesel-yang-kuat",
   "tags": [
@@ -415,7 +480,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Bumi Resources Buka Kinerja [Semester I], Batu Bara Masih Jadi Andalan",
   "deck": "Eksportir batu bara termal terbesar dunia asal Indonesia ini merilis laporan keuangan belum diaudit untuk paruh pertama 2026.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457054-bumi-resources-umumkan-kinerja-keuangan-semester-i-2026",
   "tags": [
@@ -457,7 +522,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Satu Terminal Ini Menjaga [40 Persen] Pasokan LPG Nasional",
   "deck": "Terminal LPG Tanjung Sekong disebut memegang peran krusial sebagai infrastruktur strategis penjaga stabilitas energi nasional.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/spbu-bbm.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457028-terminal-lpg-tanjung-sekong-pegang-peranan-jaga-pasokan-40-persen-kebutuhan-lpg-nasional",
   "tags": [
@@ -478,7 +543,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Bulog Perketat Pantauan Harga dan [Mutu] Beras",
   "deck": "Direktur Utama Bulog menekankan pentingnya edukasi mutu beras agar konsumen mendapat produk yang sesuai label dan harga.",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457020-pantau-harga-dan-edukasi-soal-mutu-beras-bulog-pastikan-masyarakat-mendapatkan-informasi-tepat",
   "tags": [
@@ -520,7 +585,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pendukung dan Pengkritik Duduk Bareng Bahas [Kopdes] Merah Putih",
   "deck": "AMKI menggelar diskusi yang mempertemukan pendukung dan pengkritik program Koperasi Desa Merah Putih.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456951-bahas-kopdes-merah-putih-amki-pertemukan-agrinas-hingga-celios-untuk-kupas-penyempurnaan-program",
   "tags": [
@@ -604,7 +669,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamina Paparkan Strategi Jaga [Ketahanan Energi] Nasional",
   "deck": "Wakil Direktur Utama Pertamina memaparkan capaian dan langkah perusahaan mendukung ketahanan energi nasional.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/kilang-minyak.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457022-wadirut-oki-muraza-paparkan-upaya-strategis-pertamina-mendukung-ketahanan-energi-nasional",
   "tags": [
@@ -772,7 +837,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamina Dorong Agenda [ESG] Masuk ke Lini Bisnis",
   "deck": "Pertamina mengintegrasikan prinsip lingkungan, sosial, dan tata kelola ke dalam transformasi bisnisnya.",
-  "image": "assets/img/kilang-minyak.jpg",
+  "image": "assets/img/tabung-lpg.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456789-pertamina-terus-perkuat-kapabilitas-dan-budaya-keberlanjutan-guna-dukung-transformasi-bisnis-berkelanjutan",
   "tags": [
@@ -793,7 +858,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Inisiatif Bioenergi Pertamina Dapat [Pengakuan] Internasional",
   "deck": "Pertamina meraih penghargaan Outstanding SDG Innovator 2026 lewat inisiatif bioenergi berkelanjutan.",
-  "image": "assets/img/tabung-lpg.jpg",
+  "image": "assets/img/sawit-biodiesel.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456788-pertamina-raih-outstanding-sdg-innovator-2026-inisiatif-bioenergy-lestari-diakui-dunia",
   "tags": [
@@ -940,7 +1005,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Naik [Rp15 Ribu], Harga Buyback Ikut Terangkat",
   "deck": "Harga emas batangan Antam menguat pada perdagangan 30 Juli 2026, diikuti kenaikan harga buyback.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik",
   "tags": [
@@ -982,7 +1047,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Koperasi Disiapkan Jadi [Benteng] Kedaulatan Ekonomi Rakyat",
   "deck": "Kementerian Koperasi dan Great Institute sepakat mendorong reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456604-reaktualisasi-pasal-33-uud-1945-koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat",
   "tags": [
@@ -1045,7 +1110,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Tunggakan Program MBG [Rp1,6 Triliun] Masih dalam Proses Audit",
   "deck": "Kepala BGN menyebut tunggakan pembayaran ke pihak ketiga masih dalam proses audit.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456565-kepala-bgn-sebut-tunggakan-mbg-rp16-triliun-ke-pihak-ketiga-masih-diaudit-percayalah-pada-sistem",
   "tags": [
@@ -1150,7 +1215,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pemerintah Kucurkan [Rp32,8 Triliun] untuk 15 Bendungan Baru",
   "deck": "Anggaran besar dialokasikan untuk proyek bendungan yang akan mengairi 200 ribu hektare lahan.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456527-kebut-proyek-15-bendungan-baru-pemerintah-kucurkan-rp328-triliun-untuk-irigasi-200-ribu-hektare-lahan",
   "tags": [
@@ -1213,7 +1278,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
   "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
   "tags": [
@@ -1318,7 +1383,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
   "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
   "tags": [
@@ -1381,7 +1446,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Harga BBM dan LPG Subsidi Dipastikan [Tidak Naik]",
   "deck": "Menteri ESDM memastikan harga energi bersubsidi tetap meski harga minyak dunia bergejolak.",
-  "image": "assets/img/sawit-biodiesel.jpg",
+  "image": "assets/img/global-pelabuhan.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456391-bahlil-pastikan-harga-bbm-dan-lpg-subsidi-tidak-naik-meski-harga-minyak-bergejolak-karena-perang",
   "tags": [
@@ -1402,7 +1467,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
   "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi",
   "tags": [
@@ -1444,7 +1509,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Timur Tengah Memanas, Pasokan Energi Nasional Dipastikan [Aman]",
   "deck": "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga di tengah eskalasi konflik global.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/spbu-bbm.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456339-konflik-timur-tengah-balik-panas-bahlil-pastikan-pasokan-energi-indonesia-tetap-terjaga",
   "tags": [
@@ -1465,7 +1530,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
   "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
   "tags": [
@@ -1591,7 +1656,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
   "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
   "tags": [
@@ -1612,7 +1677,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Turun [Rp9.000] per Gram",
   "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
   "tags": [

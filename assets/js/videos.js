@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "-ivXEzjEsVM",
+  "title": "Gerobak Nyai, Modal Usaha untuk Warga Tanpa Pekerjaan",
+  "category": "UMKM",
+  "program": "Metropolitan",
+  "summary": "Program Gerobak Nyai memberi kesempatan bagi warga tanpa pekerjaan untuk mulai berdagang sebagai jalan membangun ekonomi kerakyatan dari skala kecil.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan pemberdayaan UMKM dan program bantuan modal usaha di tingkat akar rumput."
+ },
+ {
   "id": "Olhcihpm220",
   "title": "Menkeu Purbaya Optimis Pertumbuhan Ekonomi Bisa Capai 6 Persen",
   "program": "Kabar Merah Putih",

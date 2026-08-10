@@ -19,7 +19,9 @@ async function tanya(systemPrompt, userPrompt) {
       systemPrompt,
       allowedTools: [],          // murni penulisan teks, tidak perlu tool apa pun
       permissionMode: 'bypassPermissions',
-      maxTurns: 1,
+      // maxTurns 1 terlalu ketat: sebagian jawaban butuh giliran tambahan dan
+      // langsung gagal dengan "Reached maximum number of turns".
+      maxTurns: 4,
     },
   });
   for await (const pesan of it) {
@@ -183,6 +185,82 @@ export async function saringVideo(kandidat) {
       summary: v.ringkasan,
       takeaway: v.catatan,
     }));
+}
+
+// ---------- 3. Berita dari keterbukaan informasi IDX ----------
+export async function rangkumKeterbukaan(bahan) {
+  const system = [
+    'Kamu redaktur pasar modal untuk The Signal, portal berita ekonomi Indonesia.',
+    '',
+    PENGAMAN,
+    '',
+    'KONTEKS: kamu menerima satu laporan keterbukaan informasi resmi dari Bursa',
+    'Efek Indonesia (IDX). Yang tersedia hanya JUDUL dan PERIHAL laporan, bukan',
+    'isi dokumen lengkapnya.',
+    '',
+    'TUGAS:',
+    '1. Nilai apakah laporan ini layak diberitakan.',
+    '   Set "layak": false kalau ini sekadar administratif dan tidak berdampak',
+    '   ke pemegang saham (mis. perubahan alamat kantor, laporan berkala wajib).',
+    '2. Kalau layak, tulis berita pendek 2 sampai 3 paragraf.',
+    '3. Tulis "catatan" redaksi yang menjelaskan DUA hal:',
+    '   (a) aksi korporasi ini sebenarnya apa, dijelaskan untuk orang awam;',
+    '   (b) secara fundamental, pos mana di kinerja perusahaan yang tersentuh',
+    '       (mis. ekuitas, arus kas, beban bunga, jumlah saham beredar, laba per',
+    '       saham) dan mengapa pelaku pasar biasanya memperhatikannya.',
+    '',
+    'BATASAN KERAS (wajib dipatuhi):',
+    '- DILARANG memberi rekomendasi beli, jual, tahan, atau menyebut target harga.',
+    '- DILARANG memprediksi arah harga saham. Jelaskan MEKANISMENYA saja,',
+    '  misalnya "penambahan saham baru menambah jumlah saham beredar sehingga',
+    '  laba per saham bisa terdilusi", bukan "sahamnya akan turun".',
+    '- DILARANG mengarang angka, nilai transaksi, nama orang, atau nama perusahaan',
+    '  yang tidak tertulis di DATA. Kalau hanya ada kode emiten, sebut kode itu saja.',
+    '- Kalau informasinya terlalu sedikit untuk menjelaskan dampak, katakan apa',
+    '  adanya bahwa rinciannya baru bisa dinilai setelah dokumen lengkap dibaca.',
+    '',
+    GAYA,
+    '',
+    'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
+    '{',
+    '  "layak": boolean,',
+    '  "judul": string,      // maks 70 karakter, sebut kode emiten, tandai SATU kata kunci dengan kurung siku',
+    '  "deck": string,       // ringkasan 1-2 kalimat, maks 200 karakter',
+    '  "paragraf": string[], // 2-3 paragraf teks biasa',
+    '  "catatan": string,    // catatan redaksi, 2-4 kalimat, sesuai poin (a) dan (b)',
+    '  "tag": string[]       // 2-4 tag, sertakan kode emiten',
+    '}',
+  ].join('\n');
+
+  const user = [
+    '<<<DATA>>>',
+    'Kode emiten: ' + (bahan.emiten || '(tidak tercantum)'),
+    bahan.namaEmiten ? 'Nama resmi emiten: ' + bahan.namaEmiten : 'Nama perusahaan: TIDAK DIKETAHUI - sebut kode emiten saja, jangan menebak nama',
+    'Judul laporan: ' + bahan.judulAsli,
+    bahan.perihal ? 'Perihal: ' + bahan.perihal : '',
+    'Tanggal: ' + bahan.terbit,
+    '<<<AKHIR_DATA>>>',
+  ].filter(Boolean).join('\n');
+
+  const hasil = ambilJSON(await tanya(system, user));
+  if (!hasil.layak) return null;
+
+  const emiten = (bahan.emiten || '').toUpperCase();
+  return {
+    slug: slugify(String(hasil.judul).replace(/[\[\]]/g, '')),
+    category: 'Aksi Korporasi',
+    title: hasil.judul,
+    deck: hasil.deck,
+    image: '',
+    date: fmtTanggal(bahan.terbit),
+    isoDate: bahan.terbit,
+    sourceUrl: bahan.lampiran || 'https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+    sourceLabel: 'IDX',
+    emiten,
+    tags: Array.from(new Set([...(hasil.tag || []), emiten].filter(Boolean))).slice(0, 4),
+    body: (hasil.paragraf || []).slice(0, 3),
+    takeaway: hasil.catatan || '',
+  };
 }
 
 export { MODEL };

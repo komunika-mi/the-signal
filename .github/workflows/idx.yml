@@ -1,23 +1,27 @@
-name: Pembaruan harian The Signal
+name: Keterbukaan informasi IDX
 
-# GitHub cron memakai UTC. "0 23 * * *" = 06.00 WIB (UTC+7) setiap hari,
-# jadi berita pagi sudah siap sebelum jam kerja.
-# Jadwal cron GitHub sering telat beberapa menit sampai belasan menit. Itu wajar.
-# Menit :00 dihindari untuk jam sibuk, tapi 23:00 UTC relatif lengang.
+# Tiap 2 jam pada jam aktif bursa, 06.00 sampai 20.00 WIB.
+# GitHub cron memakai UTC, WIB = UTC+7, jadi:
+#   06 WIB = 23 UTC (hari sebelumnya)   14 WIB = 07 UTC
+#   08 WIB = 01 UTC                     16 WIB = 09 UTC
+#   10 WIB = 03 UTC                     18 WIB = 11 UTC
+#   12 WIB = 05 UTC                     20 WIB = 13 UTC
+# Jadwal cron GitHub sering telat beberapa menit. Itu wajar dan tidak masalah
+# karena tiap putaran melewati laporan yang sudah pernah diberitakan.
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 23,1,3,5,7,9,11,13 * * *"
   workflow_dispatch:
     inputs:
       target:
-        description: "Berapa berita baru yang dikejar run ini"
-        default: "10"
-      model:
-        description: "Model Claude yang dipakai"
-        default: "claude-sonnet-5"
+        description: "Berapa aksi korporasi diberitakan putaran ini"
+        default: "8"
+      kandidat:
+        description: "Berapa laporan diperiksa"
+        default: "25"
 
 concurrency:
-  group: the-signal-tulis
+  group: the-signal-tulis      # tidak boleh bentrok dengan pembaruan harian
   cancel-in-progress: false
 
 permissions:
@@ -26,7 +30,7 @@ permissions:
 jobs:
   perbarui:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v4
@@ -39,15 +43,14 @@ jobs:
       - name: Pasang dependensi
         run: npm ci
 
-      - name: Ambil berita, video, dan data pasar
+      - name: Ambil keterbukaan informasi IDX
         env:
-          # Mesin AI: pakai token langganan Claude (tanpa biaya API tambahan).
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          # Alternatif kalau nanti mau pindah ke API berbayar:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SIGNAL_TARGET: ${{ inputs.target || '10' }}
-          SIGNAL_MODEL: ${{ inputs.model || 'claude-sonnet-5' }}
-        run: npm run update
+          IDX_TARGET: ${{ inputs.target || '8' }}
+          IDX_KANDIDAT: ${{ inputs.kandidat || '25' }}
+          SIGNAL_MODEL: claude-sonnet-5
+        run: npm run update:idx
 
       - name: Periksa hasil sebelum commit
         id: periksa
@@ -55,13 +58,8 @@ jobs:
           JML=$(node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/articles.js','utf8');const a=JSON.parse(s.slice(s.indexOf('['),s.lastIndexOf(']')+1));console.log(a.length)")
           echo "artikel=$JML" >> $GITHUB_OUTPUT
           echo "Total artikel: $JML"
-          # Jaring pengaman: jangan pernah commit kalau arsip mendadak kosong
           if [ "$JML" -lt 10 ]; then
             echo "::error::Arsip cuma $JML artikel. Dibatalkan supaya situs tidak jadi kosong."
-            exit 1
-          fi
-          if [ ! -f berita/index.html ] && [ -z "$(ls -A berita 2>/dev/null)" ]; then
-            echo "::error::Folder berita/ kosong, build gagal."
             exit 1
           fi
 
@@ -71,9 +69,10 @@ jobs:
           git config user.email "actions@github.com"
           git add -A
           if git diff --staged --quiet; then
-            echo "Tidak ada perubahan hari ini."
+            echo "Tidak ada aksi korporasi baru putaran ini."
           else
+            # Remote bisa saja sudah maju karena workflow harian. Rebase dulu.
             git pull --rebase --autostash origin master || true
-            git commit -m "Pembaruan otomatis: ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +%Y-%m-%d))"
+            git commit -m "Aksi korporasi IDX: total ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +'%Y-%m-%d %H:%M') UTC)" || true
             git push
           fi

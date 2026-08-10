@@ -9,7 +9,8 @@
     "build": "node scripts/build-pages.mjs",
     "fetch:news": "node scripts/fetch-news.mjs",
     "fetch:videos": "node scripts/fetch-videos.mjs",
-    "fetch:market": "node scripts/fetch-market.mjs"
+    "fetch:market": "node scripts/fetch-market.mjs",
+    "update:idx": "node scripts/update-idx.mjs"
   },
   "dependencies": {
     "@anthropic-ai/claude-agent-sdk": "^0.3.220"

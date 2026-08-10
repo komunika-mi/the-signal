@@ -49,7 +49,7 @@ export async function ambilVideo(maks = 15) {
   return entri.slice(0, maks);
 }
 
-if (import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
   const v = await ambilVideo();
   v.forEach(x => log('-', x.id, '|', x.judulAsli.slice(0, 70)));
   if (!v.length) log('CATATAN: tidak ada video ekonomi di 15 video terbaru hari ini.');

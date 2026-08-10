@@ -1,5 +1,6 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
@@ -67,6 +68,30 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "humi-catatkan-tambahan-saham-baru-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Catatkan Tambahan [Saham] Baru di BEI",
+  "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan pencatatan saham baru ke Bursa Efek Indonesia. Rincian jumlah dan asal saham belum diungkap dalam laporan awal ini.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T01:37:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "pencatatan saham",
+   "BEI",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) perihal pencatatan saham, sebagaimana laporan resmi yang diterbitkan pada 10 Agustus 2026. Laporan yang tersedia saat ini baru mencantumkan judul dan perihal, tanpa rincian jumlah saham, skema penerbitan, atau alasan di balik pencatatan tersebut.",
+   "Pencatatan saham di BEI umumnya terjadi ketika sebuah emiten menambahkan saham baru ke dalam daftar saham yang diperdagangkan di bursa, misalnya hasil dari aksi korporasi seperti penerbitan saham baru, konversi waran, atau program lain yang menambah jumlah saham beredar. Belum ada detail dari HUMI mengenai skema mana yang melatarbelakangi pencatatan ini.",
+   "The Signal akan memperbarui laporan ini begitu dokumen lengkap dari HUMI dan BEI tersedia, termasuk jumlah saham yang dicatatkan dan konteks aksi korporasi yang mendasarinya."
+  ],
+  "takeaway": "Pencatatan saham adalah proses administratif di BEI ketika saham baru yang diterbitkan emiten resmi masuk ke dalam daftar saham yang bisa diperdagangkan, sehingga jumlah saham HUMI yang beredar di pasar bertambah. Pelaku pasar biasanya mencermati aksi semacam ini karena penambahan jumlah saham beredar dapat memengaruhi laba per saham dan proporsi kepemilikan pemegang saham lama, meski besar kecilnya efek itu baru bisa dinilai setelah rincian jumlah saham dan tujuan penerbitannya diketahui dari dokumen lengkap."
+ },
+ {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
   "category": "Pasar Modal",
   "title": "Investor Saham RI [Tembus] 10,05 Juta SID di 2026",
@@ -130,6 +155,30 @@ var ARTICLES = [
    "Pandangan itu disampaikan Founder sekaligus CEO PT Visi Carbon Indonesia (VCarboN), Heppy Trenggono, dalam forum Ngobrol Santai Bareng Rektor bertema Carbon Trade dan Masa Depan Indonesia Hijau yang digelar Dewan Profesor Universitas Brawijaya pada 7 Agustus 2026. Ia menekankan bahwa dunia kini membayar bukan hanya untuk apa yang diambil dari alam, melainkan juga untuk apa yang berhasil dijaga, sehingga kekayaan alam Indonesia berpeluang menjadi sumber pertumbuhan ekonomi baru asalkan didukung riset, teknologi, kewirausahaan, dan tata kelola yang berintegritas.",
    "Sejalan dengan gagasan tersebut, Universitas Brawijaya dan VCarboN membuka peluang kerja sama di bidang ekonomi karbon, modal alam, teknologi iklim, riset, serta penguatan sumber daya manusia untuk memperkuat posisi Indonesia dalam ekonomi hijau global. Forum yang dihadiri Rektor Universitas Brawijaya Prof. Widodo bersama sejumlah guru besar dan akademisi ini juga membahas bagaimana penetapan harga karbon, perdagangan berbasis intensitas karbon, arus modal, dan regulasi kini ikut membentuk ulang struktur ekonomi dunia."
   ]
+ },
+ {
+  "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
+  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "9 Agustus 2026",
+  "isoDate": "2026-08-09T17:01:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez Worldwide Indonesia",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan kepada Bursa Efek Indonesia pada 9 Agustus 2026. Dalam keterbukaan informasi resmi, judul dokumen yang diunggah adalah Penyampaian Laporan Keuangan Tahunan (Koreksi), tanpa rincian pos mana yang diubah dari laporan sebelumnya.",
+   "Koreksi atas laporan keuangan yang sudah pernah disampaikan berarti perusahaan memperbaiki sebagian isi dokumen yang sebelumnya sudah dipublikasikan ke otoritas bursa. Penyebabnya bisa bermacam-macam, mulai dari kesalahan pencatatan angka, penyesuaian metode penyajian, sampai perbaikan administratif semata. Karena isi dokumen lengkap belum tersedia untuk publik, belum dapat dipastikan pos mana dalam laporan keuangan yang mengalami perubahan.",
+   "Pelaku pasar biasanya menunggu detail lebih lanjut sebelum menilai signifikansi sebuah koreksi laporan keuangan, mengingat dampaknya baru bisa diukur setelah diketahui pos spesifik yang direvisi."
+  ],
+  "takeaway": "Yang disampaikan CASH ini bukan laporan keuangan baru, melainkan perbaikan atas laporan keuangan tahunan yang sudah pernah diserahkan ke BEI sebelumnya. Secara fundamental, koreksi laporan keuangan berpotensi menyentuh pos-pos seperti laba bersih, ekuitas, aset, atau liabilitas, tergantung bagian mana yang direvisi, dan pelaku pasar memperhatikan hal ini karena perubahan pada angka-angka tersebut bisa mengubah dasar penilaian kinerja historis perusahaan. Sejauh ini rincian pos yang dikoreksi belum diketahui dan baru bisa dipastikan setelah dokumen lengkapnya dibaca."
  },
  {
   "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",

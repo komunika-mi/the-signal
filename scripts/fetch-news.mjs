@@ -60,7 +60,7 @@ export async function ambilIsiArtikel(item) {
 }
 
 // dijalankan langsung: tampilkan hasil untuk pengecekan manual
-if (import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
   const daftar = await ambilDaftarBerita(6);
   for (const it of daftar) {
     const full = await ambilIsiArtikel(it);

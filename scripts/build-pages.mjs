@@ -247,10 +247,13 @@ ARTICLES.forEach(function (a) {
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-cover" style="background-image:url('/${a.image}')"></div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
+    (a.takeaway ? `<div class="video-takeaway catatan-idx" style="max-width:68ch;"><b>Catatan redaksi</b>${esc(a.takeaway)}</div>` : '') +
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
-    `<div class="article-source-box"><p>Artikel ini rangkuman editorial The Signal dari liputan tvOneNews, bukan salinan langsung. Untuk versi lengkap dan mutakhir, baca artikel aslinya.</p>` +
-    `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">Baca artikel asli di tvOneNews &rarr;</a></div>` +
+    `<div class="article-source-box"><p>${a.sourceLabel === 'IDX'
+      ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
+      : 'Artikel ini rangkuman editorial The Signal dari liputan tvOneNews, bukan salinan langsung. Untuk versi lengkap dan mutakhir, baca artikel aslinya.'}</p>` +
+    `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">${a.sourceLabel === 'IDX' ? 'Lihat dokumen resmi di IDX &rarr;' : 'Baca artikel asli di tvOneNews &rarr;'}</a></div>` +
     `</div><aside class="article-side"><h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
     `<a class="compact-row" href="/berita.html"><span class="compact-body"><span class="compact-title">Semua Berita</span><span class="compact-meta">${ARTICLES.length} artikel</span></span></a>` +

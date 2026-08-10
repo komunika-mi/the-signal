@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { execFileSync } from 'node:child_process';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const BASE = 'https://the-signal-sandy.vercel.app';
@@ -20,6 +21,24 @@ export async function get(url, { timeout = 25000, headers = {} } = {}) {
 }
 
 export async function getJSON(url, opts) { return JSON.parse(await get(url, opts)); }
+
+// IDX menolak permintaan dari Node (fetch) dengan HTTP 403, padahal curl lolos
+// memakai header yang sama persis. Kemungkinan mereka menyaring lewat sidik
+// jari TLS, bukan header. Jadi khusus IDX kita pinjam curl.
+export function getViaCurl(url, { timeout = 30 } = {}) {
+  const out = execFileSync('curl', [
+    '-s', '--compressed', '--max-time', String(timeout),
+    '-A', UA,
+    '-H', 'Accept: application/json, text/plain, */*',
+    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+    '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+    url,
+  ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
+  if (!out || !out.trim()) throw new Error('curl mengembalikan kosong: ' + url);
+  return out;
+}
+
+export function getJSONViaCurl(url, opts) { return JSON.parse(getViaCurl(url, opts)); }
 
 // coba beberapa kali, jangan langsung menyerah pada gangguan jaringan sesaat
 export async function retry(fn, tries = 3, waitMs = 2000) {

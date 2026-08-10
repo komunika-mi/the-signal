@@ -74,7 +74,7 @@ export async function ambilPasar(sebelumnya) {
   return hasil;
 }
 
-if (import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
   const p = await ambilPasar();
   console.log(JSON.stringify(p, null, 2));
 }

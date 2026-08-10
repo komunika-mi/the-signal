@@ -1,6 +1,3 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
@@ -96,7 +93,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "WISL Sampaikan Laporan [Jatuh Tempo] Obligasi ke BEI",
   "deck": "Emiten berkode WISL menyampaikan keterbukaan informasi terkait jatuh tempo obligasi atau sukuk korporasi ke Bursa Efek Indonesia.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:38:18",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f25535d28f_7bbac8f397.pdf",
@@ -120,7 +117,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI Catatkan Tambahan [Saham] Baru di BEI",
   "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan pencatatan saham baru ke Bursa Efek Indonesia. Rincian jumlah dan asal saham belum diungkap dalam laporan awal ini.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
@@ -144,7 +141,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "KAEF Laporkan [Perubahan] Nama Emiten ke Bursa",
   "deck": "PT Kimia Farma (Persero) Tbk menyampaikan keterbukaan informasi soal perubahan nama emiten kepada Bursa Efek Indonesia.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af0ff5b4da_ab7494f874.pdf",
@@ -168,7 +165,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PJHB Catatkan [Saham] Baru di Bursa Efek Indonesia",
   "deck": "Bursa Efek Indonesia menerima laporan keterbukaan informasi soal pencatatan saham PT Pelayaran Jaya Hidup Baru Tbk (PJHB), namun rincian jumlah dan tujuannya belum tersedia.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:14",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/537545357d_64a360d59d.pdf",
@@ -280,7 +277,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
   "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T17:01:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",

@@ -23,6 +23,20 @@ function muatPasar() {
 }
 const MARKET = muatPasar();
 
+import crypto from 'node:crypto';
+function hashAset() {
+  const berkas = ['assets/css/style.css', 'assets/js/shared.js',
+    'assets/js/articles.js', 'assets/js/videos.js', 'assets/js/market.js'];
+  const h = crypto.createHash('md5');
+  for (const f of berkas) {
+    const fp = path.join(ROOT, f);
+    if (fs.existsSync(fp)) h.update(fs.readFileSync(fp));
+  }
+  return h.digest('hex').slice(0, 8);
+}
+const VER = hashAset();
+
+
 function esc(s) {
   return String(s == null ? '' : s).replace(/[&<>"]/g, c =>
     ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -81,7 +95,7 @@ function head(o) {
 <meta name="twitter:title" content="${esc(o.title)}">
 <meta name="twitter:description" content="${esc(o.desc)}">
 <meta name="twitter:image" content="${o.image}">
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css?v=${VER}">
 ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + '</script>' : ''}
 </head>
 <body>
@@ -181,7 +195,7 @@ const FOOT = `
   </div>
 </div>
 
-<script src="/assets/js/shared.js"></script>
+<script src="/assets/js/shared.js?v=${VER}"></script>
 <script>TS.initModal();</script>
 </body>
 </html>

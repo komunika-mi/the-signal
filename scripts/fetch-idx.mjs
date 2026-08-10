@@ -6,7 +6,7 @@
 // untuk yang jelas rutin, lalu Claude yang menilai sisanya.
 import fs from 'node:fs';
 import path from 'node:path';
-import { getJSONViaCurl, retry, stripTags, log, ROOT } from './lib.mjs';
+import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT } from './lib.mjs';
 
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
@@ -51,7 +51,7 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
   const url = API + '?indexFrom=1&pageSize=200' +
     '&dateFrom=' + tglIDX(dari) + '&dateTo=' + tglIDX(sampai) + '&lang=id&keyword=';
 
-  const j = await retry(() => getJSONViaCurl(url, { timeout: 30 }));
+  const j = await ambilIDX(url);
   const semua = j.Replies || [];
 
   const hasil = [];
@@ -91,12 +91,6 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
   return hasil.slice(0, maks);
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
-  const d = await ambilKeterbukaan();
-  d.slice(0, 12).forEach(x => log(
-    (x.dugaanMaterial ? '[M]' : '[ ]'), (x.emiten || '----').padEnd(5), x.judulAsli.slice(0, 68)));
-}
-
 // ---------- peta kode emiten -> nama resmi ----------
 // Tanpa ini Claude cenderung menebak nama perusahaan dari ingatannya, yang
 // berisiko keliru. Daftar resmi IDX dipakai sebagai sumber kebenaran.
@@ -128,7 +122,7 @@ export async function ambilPetaEmiten() {
   const url = 'https://www.idx.co.id/primary/ListedCompany/GetCompanyProfiles' +
     '?start=0&length=1200&code=&sortcolumn=code&sortdirection=asc';
   try {
-    const j = await retry(() => getJSONViaCurl(url, { timeout: 40 }), 4, 3000);
+    const j = await ambilIDX(url);
     const peta = {};
     for (const r of (j.data || [])) {
       const kode = String(r.KodeEmiten || r.Code || '').trim().toUpperCase();
@@ -154,4 +148,10 @@ export async function ambilPetaEmiten() {
     _petaEmiten = {};
     return _petaEmiten;
   }
+}
+
+if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+  const d = await ambilKeterbukaan();
+  d.slice(0, 12).forEach(x => log(
+    (x.dugaanMaterial ? '[M]' : '[ ]'), (x.emiten || '----').padEnd(5), x.judulAsli.slice(0, 68)));
 }

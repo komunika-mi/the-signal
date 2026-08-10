@@ -40,6 +40,52 @@ export function getViaCurl(url, { timeout = 30 } = {}) {
 
 export function getJSONViaCurl(url, opts) { return JSON.parse(getViaCurl(url, opts)); }
 
+// IDX memblokir IP pusat data (GitHub Actions) lebih ketat daripada koneksi
+// rumahan: dari lokal 10/10 berhasil, dari runner langsung dibalas halaman
+// HTML. Strategi bertingkat di bawah ini mencoba beberapa cara sebelum
+// menyerah, karena kalau gagal semua maka kanal IDX berhenti total.
+const COOKIE_JAR = '/tmp/idx-cookies.txt';
+
+function curlMentah(url, extra = []) {
+  return execFileSync('curl', [
+    '-s', '-L', '--compressed', '--max-time', '40',
+    '-A', UA,
+    '-H', 'Accept: application/json, text/plain, */*',
+    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+    '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+    '-c', COOKIE_JAR, '-b', COOKIE_JAR,
+    ...extra, url,
+  ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
+}
+
+// Kunjungi dulu halaman biasa supaya dapat cookie sesi, seperti browser.
+function panaskanSesi() {
+  try {
+    curlMentah('https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+      ['-H', 'Accept: text/html,application/xhtml+xml']);
+    return true;
+  } catch { return false; }
+}
+
+const tidur = (ms) => { const s = Date.now(); while (Date.now() - s < ms) { /* jeda sinkron */ } };
+
+export async function ambilIDX(url, { percobaan = 5 } = {}) {
+  let terakhir = '';
+  for (let i = 0; i < percobaan; i++) {
+    // mulai percobaan kedua, panaskan sesi dulu
+    if (i > 0) { panaskanSesi(); await new Promise(r => setTimeout(r, 2000 * i)); }
+    try {
+      const teks = curlMentah(url);
+      if (teks && teks.trimStart().startsWith('{')) return JSON.parse(teks);
+      terakhir = 'dibalas HTML, bukan JSON';
+    } catch (e) {
+      terakhir = e.message.slice(0, 80);
+    }
+  }
+  throw new Error('IDX menolak setelah ' + percobaan + ' percobaan (' + terakhir + '). ' +
+    'Kemungkinan IP runner GitHub diblokir.');
+}
+
 // coba beberapa kali, jangan langsung menyerah pada gangguan jaringan sesaat
 export async function retry(fn, tries = 3, waitMs = 2000) {
   let last;

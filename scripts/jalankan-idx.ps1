@@ -82,7 +82,47 @@ try {
   $kodePush = Jalankan 'git' @('push', 'origin', 'master')
   if ($kodePush -ne 0) { Catat 'GAGAL: push ditolak'; exit 1 }
 
-  Catat "Selesai. Total artikel: $jumlah. Vercel akan deploy otomatis."
+  # JANGAN berasumsi push otomatis jadi deploy. Terbukti 2026-08-10: satu push
+  # tidak memicu webhook Vercel sama sekali selama 7 menit, situs tetap 404
+  # padahal git bilang sukses. Kalau tidak dicek, kegagalan macam ini lolos
+  # jadi "sukses" persis seperti bug token yang dulu (lihat update-all.mjs).
+  #
+  # Jadi: tunggu sebentar, buktikan artikel terbaru benar-benar bisa diakses,
+  # baru kalau tidak muncul kita deploy sendiri.
+  $slugBaru = (& node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/articles.js','utf8');const a=JSON.parse(s.slice(s.indexOf('['),s.lastIndexOf(']')+1));console.log(a[0].slug)" | Out-String).Trim()
+  $alamat = "https://the-signal-sandy.vercel.app/berita/$slugBaru.html"
+
+  Catat "menunggu deploy: $slugBaru"
+  $terbit = $false
+  foreach ($percobaan in 1..12) {       # maksimal 2 menit
+    Start-Sleep -Seconds 10
+    try {
+      $r = Invoke-WebRequest -Uri $alamat -Method Head -UseBasicParsing -TimeoutSec 15
+      if ($r.StatusCode -eq 200) { $terbit = $true; break }
+    } catch { }
+  }
+
+  if (-not $terbit) {
+    Catat 'Webhook Vercel tidak menyala dalam 2 menit, deploy manual.'
+    $kodeDeploy = Jalankan 'npx' @('vercel', 'deploy', '--prod', '--yes')
+    if ($kodeDeploy -ne 0) { Catat 'GAGAL: deploy manual juga gagal'; exit 1 }
+
+    foreach ($percobaan in 1..12) {
+      Start-Sleep -Seconds 10
+      try {
+        $r = Invoke-WebRequest -Uri $alamat -Method Head -UseBasicParsing -TimeoutSec 15
+        if ($r.StatusCode -eq 200) { $terbit = $true; break }
+      } catch { }
+    }
+  }
+
+  if (-not $terbit) {
+    Catat "GAGAL: artikel tetap tidak bisa diakses di $alamat"
+    Catat '       Perubahan sudah ter-commit dan ter-push, tapi situs belum terbarui.'
+    exit 1
+  }
+
+  Catat "Selesai. Total artikel: $jumlah. Terbukti live: $alamat"
   Catat '=== selesai ==='
 }
 catch {

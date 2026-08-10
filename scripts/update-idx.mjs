@@ -42,9 +42,15 @@ async function main() {
       // menjatuhkan seluruh putaran.
       k.isiDokumen = ambilIsiLampiran(k.lampiran);
       k.angka = k.isiDokumen ? bacaAngkaKepemilikan(k.isiDokumen) : null;
-      if (k.isiDokumen) log('  dokumen terbaca: ' + k.isiDokumen.length + ' karakter' +
-        (k.angka ? ' | ' + k.angka.arah + ' ' + Math.abs(k.angka.selisih).toLocaleString('id-ID') +
-          ' lembar (' + k.angka.persenDariKepemilikan.toFixed(3) + '% kepemilikan)' : ''));
+      if (k.isiDokumen) {
+        // persenDariKepemilikan bisa null kalau kepemilikan awal 0, misalnya
+        // pembelian perdana. Jangan panggil toFixed() tanpa memeriksa dulu.
+        const p = k.angka && k.angka.persenDariKepemilikan !== null
+          ? ' (' + k.angka.persenDariKepemilikan.toFixed(3) + '% kepemilikan)' : '';
+        log('  dokumen terbaca: ' + k.isiDokumen.length + ' karakter' +
+          (k.angka ? ' | ' + k.angka.arah + ' ' +
+            Math.abs(k.angka.selisih).toLocaleString('id-ID') + ' lembar' + p : ''));
+      }
 
       const hasil = await rangkumKeterbukaan(k);
       if (!hasil) { ditolak++; log('  ditolak: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48)); continue; }

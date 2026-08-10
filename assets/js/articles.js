@@ -5,8 +5,8 @@ var ARTICLES = [
  {
   "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
   "category": "Aksi Korporasi",
-  "title": "HUMI Rilis Koreksi Keterbukaan Informasi [Dividen] Tunai",
-  "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan koreksi atas keterbukaan informasi terkait rencana pembagian dividen tunai.",
+  "title": "HUMI Koreksi Dividen Tunai, [Rp0,166] per Saham FY2025",
+  "deck": "HUMI mengoreksi pengumuman dividen 31 Juli lalu, menegaskan total dividen tunai Rp3 miliar atau Rp0,166 per saham untuk tahun buku 2025, dibayar 28 Agustus 2026.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:05:45",
@@ -16,21 +16,22 @@ var ARTICLES = [
   "tags": [
    "HUMI",
    "dividen tunai",
-   "keterbukaan informasi",
-   "koreksi"
+   "koreksi keterbukaan informasi",
+   "RUPST"
   ],
   "body": [
-   "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan keterbukaan informasi berupa koreksi atas pengumuman dividen tunai kepada Bursa Efek Indonesia pada 10 Agustus 2026. Perusahaan tidak merinci bagian mana dari pengumuman sebelumnya yang diperbaiki dalam dokumen yang tersedia.",
-   "Sejauh ini publik baru bisa mengetahui bahwa perseroan berencana membagikan dividen tunai kepada pemegang saham, sementara nilai per saham, jadwal pembayaran, dan rincian lain dari koreksi tersebut belum dapat dipastikan karena dokumen lengkapnya belum diperoleh. Kejelasan angka dan jadwal biasanya baru terlihat setelah pengumuman resmi jadwal cum date dan tanggal pembayaran diterbitkan.",
-   "The Signal akan memperbarui pemberitaan ini begitu rincian nilai dividen dan alasan koreksi tersedia dari dokumen resmi HUMI."
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menerbitkan surat koreksi atas keterbukaan informasi dividen tunai yang sebelumnya disampaikan pada 31 Juli 2026. Melalui surat bernomor 549b/DU-HUMI/VII/2026 yang ditandatangani Corporate Secretary Arya M. Pradana, perseroan menegaskan rencana pembagian dividen tunai untuk tahun buku 2025 sesuai hasil Rapat Umum Pemegang Saham Tahunan (RUPST) tanggal 29 Juli 2026. Total nilai dividen yang dibagikan ditetapkan Rp3 miliar, atau setara Rp0,166 per saham. Dokumen tidak merinci bagian mana dari pengumuman awal yang diperbaiki.",
+   "Jadwal pembagian dividen ditetapkan sebagai berikut: cum dividen di Pasar Reguler dan Negosiasi jatuh pada 6 Agustus 2026, dengan ex dividen sehari setelahnya pada 7 Agustus 2026. Tanggal pencatatan pemegang saham yang berhak (DPS) ditetapkan 10 Agustus 2026 pukul 16.00, bersamaan dengan cum dividen di Pasar Tunai, sementara ex dividen Pasar Tunai jatuh 11 Agustus 2026. Pembayaran dividen kepada pemegang saham yang berhak dijadwalkan paling lambat pada 28 Agustus 2026.",
+   "Perseroan turut melampirkan data keuangan per 31 Desember 2025 yang menjadi dasar pembagian dividen ini. Laba bersih yang diatribusikan kepada entitas induk tercatat USD3.066.484, dengan saldo laba ditahan yang tidak dibatasi penggunaannya sebesar USD75.474.461 dan total ekuitas USD172.874.357. Dokumen ini dilampiri Pengumuman Dividen Tunai hasil RUPST tanggal 29 Juli 2026."
   ],
-  "takeaway": "Dividen tunai adalah pembagian sebagian laba perusahaan kepada pemegang saham dalam bentuk uang, bukan saham baru. Karena ini versi koreksi, ada kemungkinan angka atau jadwal pada pengumuman sebelumnya direvisi, namun rincian tersebut belum tersedia di data yang kami terima. Secara fundamental, pembayaran dividen tunai mengurangi kas perusahaan dan saldo laba ditahan dalam ekuitas, sehingga pelaku pasar biasanya mencermati apakah arus kas operasional perusahaan cukup kuat untuk menopang pembagian tersebut tanpa mengganggu kebutuhan operasional atau investasi ke depan."
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran dividen tunai rutin untuk laba tahun buku 2025 yang sudah disetujui RUPST, dan surat kali ini hanya mengoreksi detail administratif dari pengumuman sebelumnya tanpa perubahan substansi jumlah dividen. Pos yang tersentuh adalah kas dan saldo laba ditahan perseroan, yang akan berkurang sekitar Rp3 miliar begitu dividen dibayarkan, sementara pelaku pasar biasanya memperhatikan rasio pembagian ini terhadap laba bersih dan ekuitas untuk menilai kesehatan arus kas emiten. Dividen per saham yang hanya Rp0,166 mengindikasikan jumlah saham beredar HUMI sangat besar, namun besaran itu sendiri bukan hal negatif selama didukung oleh laba dan saldo laba ditahan yang positif seperti tercermin dalam data keuangan yang dilampirkan. Secara fundamental, laporan ini condong positif karena menunjukkan perseroan membukukan laba bersih positif dan memiliki saldo laba ditahan signifikan sehingga mampu mengembalikan sebagian keuntungan kepada pemegang saham, meski dokumen tidak menjelaskan apa spesifiknya yang dikoreksi dari pengumuman 31 Juli.",
+  "sentimen": "positif"
  },
  {
   "slug": "padi-laporkan-ringkasan-hasil-rupslb-ke-bei",
   "category": "Aksi Korporasi",
-  "title": "PADI Laporkan Ringkasan Hasil [RUPSLB] ke BEI",
-  "deck": "Minna Padi Investama Sekuritas (PADI) menyampaikan ringkasan risalah RUPS luar biasa ke Bursa Efek Indonesia, namun rincian keputusan belum tersedia.",
+  "title": "RUPSLB PADI Tak Capai [Kuorum], Agenda Pengendali Tertunda",
+  "deck": "RUPSLB PADI pada 7 Agustus 2026 hanya dihadiri 25,45% pemegang saham sehingga gagal mengesahkan status pengendali Djoko Joelijanto dan perubahan susunan direksi.",
   "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T15:56:34",
@@ -40,21 +41,22 @@ var ARTICLES = [
   "tags": [
    "PADI",
    "RUPSLB",
-   "Minna Padi",
-   "keterbukaan informasi"
+   "kuorum",
+   "pengendali"
   ],
   "body": [
-   "PT Minna Padi Investama Sekuritas Tbk (PADI) menyampaikan ringkasan risalah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini merupakan keterbukaan informasi wajib yang harus disampaikan emiten setelah menggelar rapat pemegang saham di luar jadwal RUPS tahunan.",
-   "Dokumen yang tersedia saat ini baru berupa judul dan perihal laporan, belum memuat rincian agenda maupun keputusan yang diambil dalam rapat tersebut. Dengan demikian, substansi hasil RUPSLB, misalnya menyangkut perubahan susunan pengurus, aksi korporasi, atau agenda lain, belum dapat dipastikan tanpa membaca dokumen risalah lengkap.",
-   "The Signal akan menelusuri isi lengkap risalah RUPSLB ini untuk memberikan gambaran yang lebih jelas kepada pembaca begitu dokumen resminya dapat diakses."
+   "Minna Padi Investama Sekuritas Tbk (PADI) melaporkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar pada 7 Agustus 2026, merujuk pada pemberitahuan sebelumnya bernomor 056/CS-PADI/VII/2026 tanggal 16 Juli 2026. Menurut risalah yang disampaikan ke Bursa Efek Indonesia, rapat itu hanya dihadiri pemegang saham yang mewakili 2.949.667.463 saham, atau 25,45 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan Perseroan. Kehadiran itu tidak memenuhi syarat kuorum yang diatur dalam anggaran dasar dan peraturan perundangan yang berlaku, sehingga kedua agenda rapat tidak menghasilkan keputusan.",
+   "Agenda pertama adalah persetujuan penetapan pengendali Perseroan, yaitu Djoko Joelijanto, sebagai penerima manfaat akhir atau ultimate beneficiary owner. Agenda kedua adalah persetujuan pengangkatan kembali atau perubahan susunan direksi. Untuk kedua agenda tersebut, dokumen mencatat tingkat kehadiran yang sama sebesar 25,45 persen, tanpa data suara setuju, tidak setuju, atau abstain karena rapat dinyatakan tidak mencapai kuorum sejak awal.",
+   "Laporan ditandatangani oleh Direktur Utama Perseroan dan disampaikan ke BEI pada 10 Agustus 2026 pukul 15.56 WIB, dilampiri tiga dokumen yaitu surat pengantar, catatan RUPSLB, dan risalah lengkap RUPSLB terkait pemegang saham pengendali. Dokumen tidak menyebutkan jadwal penyelenggaraan RUPSLB kedua untuk mengulang kedua agenda yang gagal diputuskan tersebut."
   ],
-  "takeaway": "RUPSLB adalah forum resmi tempat pemegang saham mengambil keputusan atas agenda di luar RUPS tahunan biasa, misalnya perubahan pengurus, aksi korporasi, atau perubahan anggaran dasar, dan hasilnya wajib dilaporkan ke bursa. Karena data yang tersedia baru sebatas judul laporan tanpa rincian agenda atau keputusan, pos kinerja yang tersentuh (apakah menyangkut struktur permodalan, susunan direksi, atau hal lain) belum bisa dipastikan dan baru dapat dinilai setelah dokumen risalah lengkap dibaca."
+  "takeaway": "RUPSLB ini pada dasarnya adalah upaya Perseroan meminta persetujuan pemegang saham atas dua hal, yaitu penetapan resmi Djoko Joelijanto sebagai pengendali atau pemilik manfaat akhir, dan pembaruan susunan direksi, namun rapat batal mengambil keputusan karena kehadiran pemegang saham cuma 25,45 persen dari syarat kuorum yang ditentukan anggaran dasar. Yang tersentuh di sini bukan pos keuangan seperti laba atau ekuitas, melainkan kejelasan tata kelola, yaitu siapa yang secara resmi diakui sebagai pengendali Perseroan dan siapa yang duduk di jajaran direksi, dua hal yang biasa diperhatikan pelaku pasar karena memengaruhi kepastian arah kebijakan dan akuntabilitas manajemen. Dokumen tidak menyebutkan penyebab rendahnya kehadiran maupun rencana RUPSLB susulan, sehingga belum ada cukup bukti untuk menyimpulkan dampak fundamentalnya. Penilaian redaksi netral, karena kegagalan kuorum ini menunda kepastian struktur pengendalian dan direksi tanpa disertai indikasi kerugian finansial langsung, dan gambaran lengkapnya baru bisa dinilai setelah Perseroan menjadwalkan ulang RUPSLB untuk kedua agenda tersebut.",
+  "sentimen": "netral"
  },
  {
   "slug": "heli-avia-nusantara-khatulistiwa-laporkan-perubahan-kepemilikan",
   "category": "Aksi Korporasi",
-  "title": "HELI: Avia Nusantara Khatulistiwa Laporkan [Perubahan] Kepemilikan",
-  "deck": "PT Jaya Trishindo Tbk (HELI) menyampaikan laporan keterbukaan informasi soal kepemilikan atau perubahan kepemilikan saham oleh pihak bernama Avia Nusantara Khatulistiwa ke Bursa Efek Indonesia.",
+  "title": "HELI: Pemegang Saham [Tambah] Porsi Jadi 8,43%",
+  "deck": "Avia Nusantara Khatulistiwa menambah kepemilikan di HELI dari 7,74 persen menjadi 8,43 persen lewat rangkaian pembelian sejak akhir Juni hingga awal Agustus 2026.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T15:52:30",
@@ -64,21 +66,22 @@ var ARTICLES = [
   "tags": [
    "HELI",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "Jaya Trishindo"
+   "pemegang saham substansial",
+   "hak suara"
   ],
   "body": [
-   "PT Jaya Trishindo Tbk (HELI) menyampaikan laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini menyebut nama Avia Nusantara Khatulistiwa sebagai pihak yang terkait dengan perubahan tersebut.",
-   "Laporan jenis ini merupakan kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali terjadi perubahan pada kepemilikan saham emiten, baik oleh pemegang saham utama, pengendali, maupun pihak terafiliasi lain. Dokumen yang diterbitkan IDX hanya memuat judul dan perihal laporan, sehingga rincian seperti jumlah saham, persentase kepemilikan sebelum dan sesudah perubahan, maupun sifat perubahan itu sendiri belum dapat dipastikan dari informasi yang tersedia saat ini.",
-   "The Signal akan menelusuri dokumen lengkap laporan ini untuk memastikan detail perubahan kepemilikan yang dimaksud."
+   "Bursa Efek Indonesia menerima laporan keterbukaan informasi kepemilikan saham PT Jaya Trishindo Tbk (HELI) dari Avia Nusantara Khatulistiwa, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan. Berdasarkan laporan bertanggal 10 Agustus 2026 tersebut, jumlah saham HELI yang dimiliki Avia Nusantara Khatulistiwa naik dari 64.449.800 lembar menjadi 70.182.300 lembar, atau bertambah 5.732.500 lembar. Penambahan itu setara 8,89 persen dari kepemilikannya sebelum transaksi, dan mengubah porsi hak suaranya di HELI dari 7,74 persen menjadi 8,43 persen.",
+   "Rincian transaksi dalam laporan menunjukkan penambahan saham itu berasal dari serangkaian pembelian tidak langsung yang berlangsung hampir setiap hari bursa sejak 29 Juni hingga 6 Agustus 2026, dengan harga bervariasi antara Rp176 dan Rp206 per saham dan seluruhnya bertujuan investasi. Di tengah periode tersebut tercatat pula tiga kali penjualan tidak langsung dalam jumlah kecil, yakni 5.300 saham pada 27 Juli, 2.300 saham pada 31 Juli, dan 5.000 saham pada 3 Agustus 2026, yang dalam dokumen ditandai bertujuan divestasi. Volume penjualan ini jauh lebih kecil dibanding total pembelian sepanjang periode yang sama.",
+   "Dengan tambahan tersebut, Avia Nusantara Khatulistiwa memperkuat posisinya sebagai pemegang saham HELI dengan hak suara di atas 8 persen. Laporan ini disampaikan ke Otoritas Jasa Keuangan sesuai kewajiban Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka."
   ],
-  "takeaway": "Laporan ini adalah kewajiban rutin keterbukaan informasi setiap kali ada perubahan pada susunan pemegang saham emiten, bukan aksi korporasi baru seperti akuisisi atau penerbitan saham. Secara fundamental, informasi kepemilikan saham penting bagi investor karena menunjukkan siapa saja pihak yang punya kendali atau kepentingan signifikan di perusahaan, yang bisa berkaitan dengan arah kebijakan emiten ke depan. Namun karena data yang tersedia baru sebatas judul dan perihal laporan, besaran perubahan serta dampaknya terhadap struktur kepemilikan HELI baru bisa dinilai setelah dokumen lengkap dibaca."
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi setiap kali kepemilikan saham seorang pemegang saham di perusahaan terbuka berubah, dalam hal ini karena Avia Nusantara Khatulistiwa memperbesar posisinya di HELI lewat pembelian bertahap di pasar. Karena transaksi terjadi di pasar sekunder, jumlah total saham beredar HELI dan laba per saham tidak berubah, yang bergeser hanya konsentrasi kepemilikan dan hak suara salah satu pemegang saham menjadi 8,43 persen. Penambahan sebesar 8,89 persen dari kepemilikan sebelumnya tergolong signifikan, bukan sekadar transaksi kecil, sehingga layak dibaca sebagai penguatan posisi pemegang saham tersebut di HELI. Secara fundamental, catatan ini cenderung positif karena mencerminkan akumulasi kepemilikan oleh pemegang saham substansial, meski dokumen tidak memberi informasi lebih jauh soal afiliasi atau motif di balik akumulasi tersebut.",
+  "sentimen": "positif"
  },
  {
   "slug": "budi-perubahan-kepemilikan-saham-oleh-budi-delta-swakarya",
   "category": "Aksi Korporasi",
-  "title": "BUDI: [Perubahan] Kepemilikan Saham oleh Budi Delta Swakarya",
-  "deck": "PT Budi Starch & Sweetener Tbk (BUDI) melaporkan kepemilikan atau perubahan kepemilikan saham oleh PT Budi Delta Swakarya ke Bursa Efek Indonesia.",
+  "title": "BUDI: [Pemegang Saham] Kuasai 37,65% dari 33,11%",
+  "deck": "PT Budi Delta Swakarya membeli 203,7 juta saham BUDI seharga Rp210 per lembar pada 5 Agustus 2026, mengerek hak suaranya dari 33,11% menjadi 37,65%.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T15:50:40",
@@ -88,21 +91,21 @@ var ARTICLES = [
   "tags": [
    "BUDI",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "Budi Delta Swakarya"
+   "pemegang saham",
+   "OJK"
   ],
   "body": [
-   "PT Budi Starch & Sweetener Tbk (BUDI) menyampaikan laporan keterbukaan informasi mengenai kepemilikan atau perubahan kepemilikan saham perusahaan yang melibatkan PT Budi Delta Swakarya. Laporan ini disampaikan kepada Bursa Efek Indonesia pada 10 Agustus 2026 sebagai bagian dari kewajiban keterbukaan informasi emiten.",
-   "Ringkasan laporan yang tersedia belum mencantumkan rincian jumlah saham, persentase kepemilikan, maupun arah perubahannya, apakah berupa penambahan atau pengurangan posisi. Detail tersebut baru dapat diketahui setelah dokumen lengkap laporan dibaca.",
-   "Kewajiban pelaporan semacam ini berlaku bagi pihak yang memiliki saham dalam jumlah signifikan atau memiliki hubungan afiliasi dengan perusahaan terbuka, sesuai ketentuan Otoritas Jasa Keuangan mengenai keterbukaan kepemilikan saham."
+   "PT Budi Delta Swakarya melaporkan perubahan kepemilikan sahamnya di PT Budi Starch & Sweetener Tbk (BUDI) kepada Otoritas Jasa Keuangan pada 10 Agustus 2026, sesuai ketentuan POJK Nomor 4/2024. Sebelum transaksi, pihak ini memegang 1.487.271.833 saham BUDI dengan hak suara 33,11 persen. Setelah transaksi, kepemilikannya naik menjadi 1.690.967.732 saham dengan hak suara 37,65 persen.",
+   "Penambahan tersebut berasal dari pembelian 203.695.899 saham biasa BUDI pada 5 Agustus 2026, dengan harga Rp210 per saham dan status kepemilikan tidak langsung. Dalam laporan, tujuan transaksi disebutkan sebagai investasi jangka panjang. Jumlah saham yang ditambahkan setara dengan sekitar 13,70 persen dari kepemilikan pelapor sebelumnya, dan mendorong hak suaranya naik 4,54 poin persentase."
   ],
-  "takeaway": "Laporan ini adalah kewajiban rutin bagi pemegang saham yang memiliki posisi signifikan atau hubungan afiliasi di perusahaan terbuka, untuk melaporkan setiap kali kepemilikannya berubah, sebagaimana diatur OJK. Pos yang tersentuh adalah komposisi pemegang saham BUDI, bukan laba, ekuitas, atau arus kas perusahaan secara langsung, sehingga pelaku pasar biasanya memperhatikannya untuk melihat perubahan struktur pengendalian atau porsi saham yang beredar di publik, bukan untuk menilai kinerja operasional emiten."
+  "takeaway": "Laporan ini adalah pemberitahuan wajib perubahan kepemilikan saham kepada OJK, bukan aksi korporasi yang mengubah struktur modal BUDI, sehingga tidak menambah jumlah saham beredar maupun mengubah laba per saham perusahaan. Yang tersentuh adalah peta pemegang saham dan konsentrasi hak suara, sesuatu yang biasa diperhatikan pelaku pasar karena berkaitan dengan siapa yang mengendalikan arah perusahaan ke depan. Dari sisi ukuran, penambahan 203,7 juta saham setara 13,7 persen dari kepemilikan sebelumnya dan mengerek hak suara lebih dari empat poin persentase ke level 37,65 persen, jumlah yang cukup besar untuk dibaca sebagai sinyal, bukan sekadar transaksi administratif. Dokumen tidak menyebutkan apakah PT Budi Delta Swakarya berstatus pengendali atau afiliasi pengendali BUDI, sehingga makna penuh dari penguatan kendali ini belum bisa dipastikan tanpa informasi tersebut. Secara fundamental, penambahan kepemilikan dalam jumlah signifikan oleh pemegang saham besar umumnya dibaca sebagai sinyal positif berupa keyakinan terhadap prospek perusahaan, sehingga laporan ini condong positif.",
+  "sentimen": "positif"
  },
  {
   "slug": "okas-bumi-arsana-mulia-lapor-perubahan-kepemilikan-saham",
   "category": "Aksi Korporasi",
-  "title": "[OKAS] Bumi Arsana Mulia Lapor Perubahan Kepemilikan Saham",
-  "deck": "PT Bumi Arsana Mulia melaporkan perubahan kepemilikan sahamnya di Ancora Indonesia Resources Tbk (OKAS) ke Bursa Efek Indonesia, namun rincian jumlah saham belum tersedia.",
+  "title": "OKAS: Bumi Arsana Mulia Kuasai [25,60%] Hak Suara Baru",
+  "deck": "PT Bumi Arsana Mulia melaporkan kepemilikan baru 607,52 juta saham OKAS setara 25,60% hak suara, dari sebelumnya nihil, senilai Rp73,51 miliar pada 4 Agustus 2026.",
   "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T15:39:41",
@@ -110,13 +113,17 @@ var ARTICLES = [
   "sourceLabel": "IDX",
   "emiten": "OKAS",
   "tags": [
-   "OKAS"
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "kepemilikan saham",
+   "hak suara"
   ],
   "body": [
-   "PT Ancora Indonesia Resources Tbk (OKAS) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia mengenai perubahan kepemilikan saham perseroan oleh PT Bumi Arsana Mulia. Laporan ini masuk dalam kategori kewajiban keterbukaan yang harus disampaikan setiap kali ada perubahan kepemilikan saham oleh pemegang saham tertentu di perusahaan terbuka.",
-   "Dokumen yang dipublikasikan baru mencantumkan judul dan perihal laporan, sementara rincian seperti jumlah saham yang berpindah, persentase kepemilikan sebelum dan sesudah perubahan, serta mekanisme transaksinya belum diungkapkan. Publik baru bisa menilai signifikansi perubahan ini setelah dokumen lengkap laporan dapat diakses."
+   "PT Bumi Arsana Mulia melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya kini tercatat memiliki 607.521.388 saham PT Ancora Indonesia Resources Tbk (OKAS), setara 25,60 persen hak suara perusahaan. Sebelum transaksi, pelapor sama sekali tidak memiliki saham OKAS, sehingga hak suaranya 0 persen. Laporan bernomor LK/10082026/0005/1 ini disampaikan pada 10 Agustus 2026, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024.",
+   "Dalam dokumen disebutkan, transaksi tercatat berjenis repurchase agreement dengan status kepemilikan tidak langsung, terjadi pada 4 Agustus 2026 dengan tujuan investasi. Nilai yang tercantum dalam laporan untuk transaksi atas 607.521.388 saham biasa tersebut adalah Rp73,51 miliar. Dokumen tidak mencantumkan nama pemilik langsung maupun rincian pihak lain yang terlibat dalam pengaturan repurchase agreement ini."
   ],
-  "takeaway": "Laporan semacam ini wajib disampaikan setiap kali ada pemegang saham yang mengubah jumlah kepemilikannya di perusahaan terbuka, tujuannya agar publik tahu siapa saja yang memegang saham signifikan dan bagaimana peta kepemilikan berubah dari waktu ke waktu. Secara fundamental, laporan ini menyentuh struktur kepemilikan atau komposisi pemegang saham, bukan ekuitas, arus kas, atau laba per saham perusahaan, kecuali perubahan ini disertai penerbitan saham baru yang datanya belum tercantum di sini. Pelaku pasar biasanya mencermati laporan ini karena pergeseran kepemilikan oleh pemegang saham besar dapat mengindikasikan perubahan arah kendali atau kepentingan strategis di perusahaan, meski laporan ini sendiri belum merinci besaran perubahannya."
+  "takeaway": "Aksi korporasi ini adalah laporan wajib perubahan kepemilikan saham, mengumumkan munculnya PT Bumi Arsana Mulia sebagai pemegang baru 25,60 persen hak suara OKAS lewat skema repurchase agreement secara tidak langsung. Yang tersentuh di sini adalah struktur kepemilikan dan komposisi hak suara pemegang saham OKAS, bukan pos keuangan perusahaan seperti ekuitas, arus kas, atau laba, karena transaksi ini terjadi antar pemegang saham dan tidak membawa dana segar masuk ke kas perusahaan. Penilaian kami netral, sebab meski porsi 25,60 persen tergolong besar dan berpotensi mengubah peta pengendalian OKAS ke depan, dokumen tidak menjelaskan identitas pengendali akhir PT Bumi Arsana Mulia, latar belakang skema repurchase agreement tersebut, atau kaitannya dengan pemegang saham lama, sehingga dampak fundamentalnya bagi kinerja OKAS belum bisa dipastikan dan layak dipantau lebih lanjut.",
+  "sentimen": "netral"
  },
  {
   "slug": "excl-kupon-sukuk-ijarah-naik-usai-pemangkasan-rating-fitch",
@@ -145,8 +152,8 @@ var ARTICLES = [
  {
   "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",
   "category": "Aksi Korporasi",
-  "title": "SOLA Sampaikan Penjelasan [Volatilitas] Transaksi ke Bursa",
-  "deck": "PT Xolare RCR Energy Tbk melaporkan penjelasan resmi soal pergerakan tidak biasa pada transaksi sahamnya kepada Bursa Efek Indonesia.",
+  "title": "SOLA Tegaskan Tak Ada [Fakta Material] di Balik Volatilitas Saham",
+  "deck": "SOLA merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru maupun rencana aksi korporasi dalam waktu dekat.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T14:39:21",
@@ -156,14 +163,16 @@ var ARTICLES = [
   "tags": [
    "SOLA",
    "volatilitas saham",
-   "UMA",
-   "keterbukaan informasi"
+   "keterbukaan informasi",
+   "BEI"
   ],
   "body": [
-   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan laporan keterbukaan informasi berjudul Penjelasan atas Volatilitas Transaksi kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan semacam ini umumnya disampaikan emiten setelah Bursa meminta klarifikasi terkait pergerakan harga atau volume perdagangan saham yang dinilai di luar kebiasaan.",
-   "Berdasarkan data yang tersedia, baru judul dan perihal laporan yang dapat diakses, sementara isi lengkap penjelasan dari manajemen SOLA belum tercakup. Dengan demikian, alasan spesifik di balik volatilitas transaksi saham SOLA belum bisa dirinci lebih lanjut sampai dokumen lengkapnya dibaca."
+   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI bernomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi efek perseroan. Dalam surat bernomor 033/SOLA-INA/VIII/2026 yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Terkait kepemilikan saham, manajemen menyatakan telah melaporkan secara berkala aktivitas dan perubahan kepemilikan saham oleh direksi, dewan komisaris, serta pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham Perusahaan Terbuka.",
+   "Setelah dikonfirmasi oleh Corporate Secretary, pemegang saham utama SOLA menyatakan belum memiliki rencana terkait kepemilikan sahamnya di perseroan. Manajemen menutup surat dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
   ],
-  "takeaway": "Laporan semacam ini biasanya muncul karena Bursa mendeteksi pergerakan harga atau volume saham yang tidak wajar (dikenal sebagai Unusual Market Activity atau UMA), lalu meminta emiten mengonfirmasi apakah ada informasi material yang belum diungkap ke publik. Secara fundamental, laporan ini bersifat klarifikasi dan tidak langsung mengubah pos kinerja keuangan seperti ekuitas, laba, atau arus kas perusahaan, tetapi penting bagi pemegang saham sebagai bentuk transparansi emiten dan alat untuk memastikan tidak ada informasi tersembunyi di balik pergerakan harga sahamnya."
+  "takeaway": "Surat ini adalah klarifikasi wajib yang diminta BEI ketika transaksi suatu saham menunjukkan pergerakan harga atau volume yang tidak biasa, semacam permintaan konfirmasi apakah ada informasi tersembunyi di balik pergerakan tersebut. Karena isinya hanya berupa penegasan bahwa tidak ada fakta material baru, tidak ada rencana aksi korporasi, dan kepemilikan pemegang saham utama tidak berubah, tidak ada pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung; yang relevan di sini adalah transparansi dan tata kelola informasi emiten. Secara fundamental laporan ini netral bagi SOLA, karena hanya mengonfirmasi ketiadaan informasi baru dan tidak membawa perubahan apa pun pada rencana korporasi maupun struktur kepemilikan yang bisa dijadikan dasar penilaian positif atau negatif.",
+  "sentimen": "netral"
  },
  {
   "slug": "sola-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
@@ -193,8 +202,8 @@ var ARTICLES = [
  {
   "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
   "category": "Aksi Korporasi",
-  "title": "AKPI: Perubahan [Kepemilikan] Saham oleh Henry Liem",
-  "deck": "Henry Liem melaporkan perubahan kepemilikan saham AKPI ke Bursa Efek Indonesia, namun rincian jumlah dan jenis transaksi belum tercantum dalam ringkasan laporan.",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 500 Lembar Saham",
+  "deck": "Dewan Komisaris AKPI, Henry Liem, melepas 500 lembar saham pada 7 Agustus 2026. Hak suaranya tetap di 1,8678 persen karena porsi yang dijual sangat kecil.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T13:06:20",
@@ -204,20 +213,21 @@ var ARTICLES = [
   "tags": [
    "AKPI",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "insider"
+   "komisaris",
+   "keterbukaan informasi"
   ],
   "body": [
-   "PT Argha Karya Prima Industry Tbk (AKPI) menyampaikan laporan keterbukaan informasi ke Bursa Efek Indonesia terkait perubahan kepemilikan saham perusahaan oleh Henry Liem. Laporan ini merupakan bagian dari kewajiban keterbukaan informasi yang diatur regulator pasar modal bagi pihak yang memiliki posisi kepemilikan signifikan atau jabatan tertentu di emiten.",
-   "Berdasarkan ringkasan yang tersedia, laporan baru mencantumkan judul dan perihal berupa perubahan kepemilikan saham, tanpa rincian jumlah lembar saham, persentase kepemilikan, atau jenis transaksi yang dilakukan. Dengan demikian, besaran dan arah perubahan kepemilikan tersebut baru bisa dinilai setelah dokumen lengkap laporan dibaca."
+   "Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan 500 lembar saham perusahaan kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 7 Agustus 2026 dengan harga Rp515 per saham, tercatat sebagai kepemilikan tidak langsung. Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Dengan transaksi ini, jumlah saham AKPI yang dipegang Henry Liem berkurang dari 11.435.859 lembar menjadi 11.435.359 lembar. Meski begitu, hak suaranya di perusahaan tidak berubah, tetap di angka 1,8678 persen baik sebelum maupun sesudah transaksi, karena jumlah saham yang dilepas hanya sekitar 0,0044 persen dari total kepemilikannya."
   ],
-  "takeaway": "Laporan ini adalah kewajiban rutin bagi insider, yakni direksi, komisaris, atau pemegang saham dengan kepemilikan signifikan, untuk melaporkan setiap kali terjadi perubahan pada jumlah saham AKPI yang mereka miliki. Secara fundamental, transaksi semacam ini umumnya tidak mengubah jumlah saham beredar maupun struktur modal perusahaan karena hanya memindahkan kepemilikan yang sudah ada, sehingga pos yang tersentuh adalah komposisi pemegang saham, bukan laporan keuangan AKPI. Pelaku pasar biasanya mencermati laporan kepemilikan insider semacam ini karena dianggap dapat mencerminkan pandangan pihak dalam terhadap perusahaan, meski laporan ini sendiri belum mengungkap apakah perubahannya berupa penambahan atau pengurangan kepemilikan."
+  "takeaway": "Laporan ini merupakan kewajiban keterbukaan atas transaksi saham pribadi milik insider, dalam hal ini Dewan Komisaris AKPI, bukan aksi korporasi yang dilakukan perusahaan itu sendiri. Transaksi semacam ini tidak mengubah jumlah saham beredar maupun struktur permodalan AKPI, sehingga tidak menyentuh pos ekuitas atau laba per saham perusahaan secara langsung, pelaku pasar biasanya memantau laporan seperti ini untuk membaca sinyal keyakinan insider terhadap prospek perusahaan. Secara fundamental, laporan ini netral bagi AKPI karena saham yang dijual hanya setara 0,0044 persen dari kepemilikan Henry Liem dan hak suaranya pun tidak berubah, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "kdtn-laporan-perubahan-kepemilikan-saham-putrasakti-mandiri",
   "category": "Aksi Korporasi",
-  "title": "KDTN: Laporan Perubahan [Kepemilikan] Saham Putrasakti Mandiri",
-  "deck": "PT Puri Sentul Permai Tbk (KDTN) menyampaikan laporan perubahan kepemilikan saham oleh pihak bernama Putrasakti Mandiri ke Bursa Efek Indonesia.",
+  "title": "KDTN: Putrasakti Mandiri [Restrukturisasi] Kepemilikan Saham",
+  "deck": "Putrasakti Mandiri melepas 3 juta saham KDTN senilai Rp1,32 miliar pada 7 Agustus 2026, hak suara turun tipis dari 35,59% menjadi 35,36% untuk restrukturisasi internal grup usaha.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:58:09",
@@ -227,21 +237,22 @@ var ARTICLES = [
   "tags": [
    "KDTN",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "IDX"
+   "OJK",
+   "restrukturisasi"
   ],
   "body": [
-   "PT Puri Sentul Permai Tbk (KDTN) menyampaikan laporan keterbukaan informasi mengenai perubahan kepemilikan saham perusahaan kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan ini terkait dengan pihak bernama Putrasakti Mandiri, namun rincian seperti jumlah saham, persentase kepemilikan, dan apakah perubahan tersebut berupa penambahan atau pengurangan belum tercantum dalam judul dan perihal laporan.",
-   "Laporan kepemilikan saham semacam ini merupakan kewajiban rutin yang diatur regulator pasar modal bagi pemegang saham utama, direksi, atau komisaris setiap kali terjadi perubahan jumlah saham yang mereka pegang di emiten terbuka. Kewajiban ini ada agar publik dapat memantau pergerakan kepemilikan pihak-pihak yang dianggap memiliki akses informasi atau pengaruh terhadap perusahaan.",
-   "Sejauh ini detail transaksi yang mendasari laporan tersebut, termasuk nilai dan volume saham yang berpindah, belum dapat dipastikan. Kejelasan mengenai arah dan besaran perubahan kepemilikan baru bisa diperoleh setelah dokumen lengkap laporan tersebut dibaca."
+   "PT Puri Sentul Permai Tbk (KDTN) melaporkan kepada Otoritas Jasa Keuangan bahwa Putrasakti Mandiri, pemegang saham perusahaan yang bukan berasal dari jajaran direksi maupun dewan komisaris, telah menjual 3.000.000 lembar saham KDTN pada 7 Agustus 2026. Transaksi dilakukan dengan skema repurchase agreement pada harga Rp439 per saham, sehingga nilai keseluruhan transaksi mencapai sekitar Rp1,32 miliar. Dalam laporan yang diterima OJK pada 10 Agustus 2026 itu, tujuan transaksi disebutkan sebagai restrukturisasi kepemilikan saham dalam kelompok usaha.",
+   "Sebelum transaksi, Putrasakti Mandiri tercatat memegang 445.000.000 lembar saham KDTN, setara 35,59% hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 442.000.000 lembar dengan hak suara 35,36%. Saham yang dilepas berstatus kepemilikan langsung dan hanya setara 0,67% dari total saham yang dipegang Putrasakti Mandiri sebelum transaksi, sehingga porsi mayoritas kepemilikannya di KDTN tetap dipertahankan.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 2 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham signifikan melaporkan perubahan kepemilikan sahamnya kepada regulator."
   ],
-  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali ada perubahan jumlah saham yang dipegang oleh pemegang saham utama, direksi, atau komisaris suatu emiten, baik itu penambahan maupun pengurangan. Dari judul dan perihal yang tersedia, belum bisa dipastikan apakah kepemilikan Putrasakti Mandiri bertambah atau berkurang, dan berapa jumlahnya. Secara fundamental, informasi semacam ini menyentuh komposisi pemegang saham, bukan langsung ke laba atau arus kas perusahaan, namun pelaku pasar biasanya memperhatikannya karena pola pembelian atau pelepasan saham oleh pihak terkait perusahaan sering dibaca sebagai sinyal keyakinan terhadap prospek emiten."
+  "takeaway": "Ini adalah laporan wajib seorang pemegang saham signifikan, bukan direksi atau komisaris, yang menjual sebagian kecil sahamnya di KDTN lewat mekanisme repurchase agreement, sesuai kewajiban keterbukaan kepemilikan saham ke OJK. Yang tersentuh dari transaksi ini bukan kas atau ekuitas emiten, melainkan komposisi pemegang saham dan hak suara utama, yang relevan bagi investor minoritas karena berkaitan dengan kekuatan pengendalian atas perusahaan. Secara fundamental laporan ini netral, sebab saham yang dilepas hanya 0,67% dari kepemilikan pelapor dan hak suaranya nyaris tidak bergeser, dari 35,59% menjadi 35,36%, sehingga terlalu kecil untuk dibaca sebagai sinyal keluar dari saham. Tujuan yang dicantumkan, yaitu restrukturisasi kepemilikan dalam kelompok usaha, juga mengarah pada perpindahan internal antarafiliasi ketimbang pelepasan ke pasar terbuka.",
+  "sentimen": "netral"
  },
  {
   "slug": "heal-laporan-kepemilikan-saham-yustinus-immanuel-herawan",
   "category": "Aksi Korporasi",
-  "title": "HEAL: Laporan [kepemilikan] saham Yustinus Immanuel Herawan",
-  "deck": "Yustinus Immanuel Herawan melaporkan perubahan kepemilikan sahamnya di HEAL kepada BEI, sesuai kewajiban keterbukaan informasi emiten.",
+  "title": "HEAL: Direksi [Beli] Tambahan 50.000 Saham Perseroan",
+  "deck": "Direksi HEAL, Yustinus Immanuel Herawan, menambah kepemilikan saham dari 80.000 menjadi 130.000 lembar lewat pembelian Rp785 per saham pada 6 Agustus 2026.",
   "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:50:00",
@@ -251,20 +262,22 @@ var ARTICLES = [
   "tags": [
    "HEAL",
    "kepemilikan saham",
-   "Medikaloka Hermina",
-   "keterbukaan informasi"
+   "direksi",
+   "Medikaloka Hermina"
   ],
   "body": [
-   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan laporan keterbukaan informasi mengenai kepemilikan atau perubahan kepemilikan saham perusahaan oleh Yustinus Immanuel Herawan kepada Bursa Efek Indonesia pada 10 Agustus 2026. Laporan semacam ini merupakan kewajiban yang harus dipenuhi setiap kali terjadi perubahan pada kepemilikan saham oleh pihak tertentu di perusahaan terbuka.",
-   "Informasi yang tersedia untuk publik saat ini baru berupa judul dan perihal laporan. Rincian seperti jumlah saham yang dimiliki atau berubah, persentase kepemilikan, jenis transaksi, maupun harga belum tercantum, sehingga besaran dan arah perubahan kepemilikan baru bisa dinilai setelah dokumen lengkap laporan dibaca."
+   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan laporan kepemilikan saham dari salah satu anggota direksinya, Yustinus Immanuel Herawan, kepada Otoritas Jasa Keuangan pada 10 Agustus 2026. Dalam laporan itu, jumlah saham HEAL yang dimilikinya bertambah dari 80.000 lembar menjadi 130.000 lembar, atau naik 50.000 lembar.",
+   "Penambahan tersebut berasal dari transaksi pembelian pada 6 Agustus 2026 dengan harga Rp785 per saham untuk klasifikasi saham biasa, dengan tujuan transaksi tercatat sebagai investasi. Berdasarkan harga tersebut, nilai pembelian 50.000 lembar saham itu diperkirakan sekitar Rp39,25 juta.",
+   "Meski jumlah lembar sahamnya bertambah 62,5 persen dari kepemilikan sebelumnya, porsi hak suara Yustinus di HEAL hanya bergeser tipis dari 0,0005 persen menjadi 0,0008 persen. Angka ini menunjukkan kepemilikannya masih sangat kecil dibandingkan total saham beredar Medikaloka Hermina Tbk secara keseluruhan."
   ],
-  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi bagi pihak yang memiliki saham di perusahaan terbuka setiap kali kepemilikannya berubah, misalnya karena membeli atau menjual saham. Karena detail jumlah dan jenis transaksi belum tersedia di data ini, belum bisa dipastikan apakah kepemilikan bertambah atau berkurang. Secara fundamental, perubahan kepemilikan oleh perorangan seperti ini biasanya tidak mengubah kinerja operasional atau laba perusahaan, tetapi tetap diperhatikan pelaku pasar karena mencerminkan pergerakan komposisi pemegang saham HEAL."
+  "takeaway": "Ini adalah laporan wajib keterbukaan informasi ketika seorang direksi emiten membeli tambahan saham perusahaannya sendiri di pasar. Transaksi semacam ini pada dasarnya menyangkut komposisi kepemilikan orang dalam dan tidak mengubah jumlah saham beredar HEAL secara keseluruhan maupun laba per saham perusahaan. Secara fundamental, penilaian ini netral. Pembelian oleh direksi lazim dibaca sebagai sinyal kepercayaan diri terhadap perusahaan, tetapi nilainya di sini hanya sekitar Rp39,25 juta dan cuma menggeser hak suara dari 0,0005 persen menjadi 0,0008 persen, sehingga besarannya terlalu kecil untuk dibaca sebagai sinyal kuat terhadap kinerja atau arah bisnis HEAL ke depan.",
+  "sentimen": "netral"
  },
  {
   "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
   "category": "Aksi Korporasi",
-  "title": "NICK: Nicholas Santoso Lapor [Perubahan] Kepemilikan Saham",
-  "deck": "PT Charnic Capital Tbk (NICK) menyampaikan laporan keterbukaan soal kepemilikan saham oleh Nicholas Santoso ke BEI, namun rincian jumlah saham belum tercantum.",
+  "title": "NICK: Direksi Nicholas Santoso [Beli] 81.600 Saham Charnic Capital",
+  "deck": "Direksi Charnic Capital Tbk (NICK), Nicholas Santoso, melaporkan pembelian 81.600 saham perusahaan pada 7 Agustus 2026, menaikkan hak suaranya dari 0 persen menjadi 0,01 persen.",
   "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:50:00",
@@ -274,21 +287,22 @@ var ARTICLES = [
   "tags": [
    "NICK",
    "Charnic Capital",
-   "kepemilikan saham",
-   "keterbukaan informasi"
+   "kepemilikan direksi",
+   "laporan OJK"
   ],
   "body": [
-   "PT Charnic Capital Tbk (NICK) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia perihal kepemilikan atau perubahan kepemilikan saham perseroan. Laporan tertanggal 10 Agustus 2026 itu disampaikan atas nama Nicholas Santoso.",
-   "Ringkasan laporan yang tersedia belum mencantumkan jumlah lembar saham, persentase kepemilikan, maupun apakah perubahan tersebut berupa penambahan atau pengurangan. Dengan demikian, besaran transaksi dan dampaknya terhadap komposisi pemegang saham NICK belum dapat dipastikan dari data yang ada saat ini.",
-   "Detail lengkap mengenai laporan ini, termasuk arah perubahan kepemilikan, baru bisa diketahui setelah dokumen resmi yang disampaikan ke BEI dibaca secara utuh."
+   "Nicholas Santoso, anggota Direksi PT Charnic Capital Tbk (NICK), melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah membeli saham perusahaan tempatnya menjabat. Sebelum transaksi, Nicholas tidak memegang satu pun saham NICK. Setelah rangkaian transaksi pembelian pada 7 Agustus 2026, kepemilikannya menjadi 81.600 lembar saham biasa, dengan hak suaranya di perusahaan naik dari 0 persen menjadi 0,01 persen.",
+   "Pembelian dilakukan lewat 16 transaksi terpisah pada tanggal yang sama, sebagian besar berstatus kepemilikan tidak langsung dan satu transaksi berstatus langsung sebanyak 500 lembar. Harga beli berkisar antara Rp1.445 hingga Rp1.545 per saham, dengan jumlah tiap transaksi bervariasi dari 100 lembar hingga 24.300 lembar. Seluruh transaksi dicatat dengan tujuan investasi.",
+   "Laporan ini disampaikan sesuai kewajiban keterbukaan dalam POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mengharuskan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan yang mereka pimpin."
   ],
-  "takeaway": "Laporan semacam ini adalah kewajiban rutin yang harus disampaikan pemegang saham atau pihak terafiliasi emiten kepada BEI setiap kali kepemilikan mereka atas saham perusahaan berubah, sesuai ketentuan OJK soal keterbukaan kepemilikan. Yang tersentuh secara fundamental adalah komposisi pemegang saham dan jumlah saham beredar yang digenggam pihak terafiliasi, sebuah pos yang biasa diperhatikan pasar karena bisa mencerminkan pandangan orang dalam terhadap perusahaan, meskipun laporan ini sendiri belum merinci apakah kepemilikan bertambah atau berkurang."
+  "takeaway": "Ini adalah laporan wajib kepemilikan saham oleh insider, dalam hal ini seorang anggota direksi yang mencatatkan pembelian saham perusahaan sendiri di pasar. Transaksi semacam ini tidak menambah jumlah saham beredar karena hanya berpindah kepemilikan di pasar sekunder, sehingga tidak berdampak pada laba per saham maupun ekuitas perusahaan, yang berubah hanya struktur kepemilikan dan hak suara pelapor. Penilaian kami netral. Meski arah transaksinya adalah pembelian, yang biasanya dibaca pasar sebagai bentuk keyakinan insider terhadap perusahaan, jumlahnya sangat kecil karena hak suara Nicholas hanya naik ke 0,01 persen, sehingga terlalu remah untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "moli-sampaikan-koreksi-laporan-keuangan-interim",
   "category": "Aksi Korporasi",
-  "title": "MOLI Sampaikan [Koreksi] Laporan Keuangan Interim",
-  "deck": "Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya sudah dipublikasikan ke Bursa Efek Indonesia.",
+  "title": "MOLI Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
+  "deck": "MOLI menyampaikan koreksi laporan keuangan interim per 30 Juni 2026, dengan kas dan setara kas naik dari Rp68,80 miliar menjadi Rp149,13 miliar.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:44:10",
@@ -299,19 +313,21 @@ var ARTICLES = [
    "MOLI",
    "laporan keuangan",
    "koreksi",
-   "keterbukaan informasi"
+   "BEI"
   ],
   "body": [
-   "PT Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim kepada Bursa Efek Indonesia pada 10 Agustus 2026. Keterbukaan informasi ini menandakan adanya revisi atas laporan keuangan interim yang sebelumnya sudah disampaikan perusahaan kepada otoritas bursa.",
-   "Dalam publikasi tersebut, MOLI belum merinci pos mana yang dikoreksi maupun sebab dan besaran revisinya. Rincian perubahan baru dapat diketahui setelah dokumen lengkap laporan tersebut dibaca dan dibandingkan dengan versi yang disampaikan sebelumnya."
+   "PT Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, melalui surat bernomor 034/MMI/EXT/JGT/VII/2026. Laporan berstatus tidak diaudit dengan surat pernyataan direksi tertanggal 30 Juli 2026, mencakup perbandingan terhadap posisi akhir 2025 dan periode yang sama tahun sebelumnya.",
+   "Dalam dokumen tersebut turut disampaikan data dua entitas anak. PT Sumber Kita Indah, yang bergerak di bidang perdagangan dan berlokasi di Kawasan Industri MM2100, Cikarang Barat, Kabupaten Bekasi, telah beroperasi komersial sejak 1984 dengan total aset Rp330,15 miliar dan dimiliki MOLI sebesar 95,2 persen. Entitas anak lainnya, PT Molindo Raya Industrial, bergerak di industri etanol, spiritus, protein sel tunggal, asam asetat, etil asetat, gas karbon dioksida, dan pupuk tanaman di Lawang, Malang, Jawa Timur, beroperasi komersial sejak 1973 dengan total aset Rp1,46 triliun dan kepemilikan MOLI sebesar 81,41 persen.",
+   "Dari sisi posisi keuangan, kas dan setara kas konsolidasian MOLI per 30 Juni 2026 tercatat Rp149,13 miliar, naik dari Rp68,80 miliar per 31 Desember 2025. Dokumen juga mencantumkan pos dana yang dibatasi penggunaannya untuk kelompok lancar sebesar Rp29,10 miliar pada periode berjalan. Rincian pos laporan laba rugi, total liabilitas, dan ekuitas belum tercakup dalam bagian dokumen yang berhasil diekstrak."
   ],
-  "takeaway": "Koreksi laporan keuangan interim berarti perusahaan merevisi angka atau informasi yang sudah pernah dilaporkan, bukan menerbitkan laporan periode baru, biasanya karena ditemukan kekeliruan pencatatan atau penyajian setelah laporan pertama beredar. Karena rincian pos yang dikoreksi belum tersedia dari data ini, dampaknya terhadap angka fundamental seperti laba, ekuitas, atau arus kas belum bisa dipastikan, tapi pelaku pasar biasanya tetap mencermati koreksi semacam ini karena bisa mengubah angka yang sebelumnya sudah dipakai sebagai acuan analisis kinerja perusahaan."
+  "takeaway": "Ini adalah koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke bursa, jadi bukan laporan baru melainkan perbaikan data yang telanjur dipublikasikan. Pos yang tersentuh dari data yang tersedia adalah kas dan setara kas konsolidasian, yang naik cukup signifikan dari Rp68,80 miliar menjadi Rp149,13 miliar, sementara laba rugi, total liabilitas, dan ekuitas belum tercakup dalam dokumen yang bisa dibaca sehingga belum bisa dinilai. Pelaku pasar biasanya memperhatikan pos kas karena mencerminkan likuiditas jangka pendek perusahaan untuk membiayai operasional dan kewajiban. Secara fundamental, penilaian atas laporan ini netral, karena kenaikan kas saja belum cukup menggambarkan kesehatan keuangan MOLI secara utuh tanpa data laba rugi dan liabilitas yang lengkap, ditambah sifat laporan yang murni administratif berupa koreksi data.",
+  "sentimen": "netral"
  },
  {
   "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
   "category": "Aksi Korporasi",
-  "title": "DR Sampaikan Term Sheet Penawaran [Structured Warrant]",
-  "deck": "Emiten berkode DR menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia. Rincian lengkap belum tersedia.",
+  "title": "DR Sampaikan Term Sheet [Waran Terstruktur] 18 Seri Baru",
+  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan term sheet penawaran umum 18 seri call warrant atas saham-saham acuan, jatuh tempo November 2026 dan Maret 2027.",
   "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:34:40",
@@ -320,22 +336,23 @@ var ARTICLES = [
   "emiten": "DR",
   "tags": [
    "DR",
-   "structured warrant",
-   "penawaran umum",
-   "IDX"
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "call warrant"
   ],
   "body": [
-   "Emiten dengan kode saham DR menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia berupa term sheet penawaran umum structured warrant, dokumen ringkasan syarat dan ketentuan sebelum penerbitan resmi. Laporan tersebut disampaikan pada 10 Agustus 2026.",
-   "Bursa belum merilis rincian lebih lanjut mengenai isi term sheet tersebut, termasuk jumlah dan harga structured warrant yang ditawarkan, jangka waktu penawaran, maupun saham acuan yang menjadi dasar produk ini. Publik perlu menunggu dokumen lengkap untuk mengetahui detail penawaran secara utuh.",
-   "The Signal akan terus memantau perkembangan aksi ini dan memperbarui pemberitaan begitu dokumen resmi dari otoritas bursa tersedia."
+   "RHB Sekuritas Indonesia dengan kode broker DR menyampaikan keterbukaan informasi mengenai penyampaian term sheet penawaran umum waran terstruktur (structured warrant) kepada Bursa Efek Indonesia. Dokumen bernomor 011/EQD/RHB/08/2026 ini ditandatangani secara elektronik oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 11.34 WIB, dengan lampiran bertajuk Term Sheet WT T41.pdf.",
+   "Total ada 18 seri call warrant yang term sheet-nya disampaikan dalam laporan ini. Lima seri dengan masa berlaku hingga 26 November 2026 memiliki saham acuan AMMN, BBCA, BBRI, HRUM, dan RAJA. Sisanya, 13 seri, berlaku hingga 29 Maret 2027 dengan saham acuan AADI, BBTN, BUMI, CUAN, ERAA, INCO, INDY, ITMG, JSMR, MBMA, PNLF, RATU, dan TPIA. Dokumen yang diekstraksi tidak memuat rincian harga strike, rasio konversi, maupun jumlah unit yang ditawarkan untuk masing-masing seri.",
+   "Waran terstruktur ini diterbitkan oleh RHB Sekuritas Indonesia sebagai penerbit, bukan oleh perusahaan-perusahaan yang sahamnya dijadikan acuan. Artinya, instrumen ini merupakan produk derivatif turunan yang diperdagangkan terpisah dari saham asli emiten-emiten tersebut."
   ],
-  "takeaway": "Structured warrant adalah produk investasi terstruktur yang memberi pemegangnya hak untuk membeli atau menjual saham acuan pada harga dan waktu tertentu, dan diperdagangkan di bursa layaknya saham biasa. Term sheet sendiri hanyalah dokumen ringkasan awal berisi syarat dan ketentuan sebelum penawaran resmi digelar, bukan penerbitan final. Karena structured warrant umumnya diterbitkan oleh pihak penerbit terpisah dengan saham acuan sebagai dasar produk, dampaknya terhadap ekuitas atau jumlah saham beredar emiten acuan tidak selalu langsung, sehingga penilaian dampak fundamental baru bisa dilakukan setelah dokumen lengkap tersedia dan jelas pihak mana yang berperan sebagai penerbit maupun saham acuannya."
+  "takeaway": "Waran terstruktur atau structured warrant adalah efek derivatif yang diterbitkan pihak ketiga, dalam hal ini RHB Sekuritas Indonesia (DR), memberi hak beli atas saham acuan tertentu hingga tanggal jatuh tempo, dan diperdagangkan di bursa layaknya saham biasa. Karena penerbitnya adalah perusahaan sekuritas dan bukan emiten-emiten acuan seperti BBCA, BBRI, AMMN, atau saham lain dalam daftar, laporan ini tidak menyentuh pos kinerja keuangan emiten manapun, baik ekuitas, arus kas, maupun laba per saham. Yang terpengaruh hanyalah ketersediaan instrumen trading turunan di pasar bagi investor yang ingin berspekulasi pada pergerakan saham acuan tersebut. Penilaian kami netral, karena ini merupakan pengumuman administratif rutin dari perusahaan sekuritas terkait peluncuran produk derivatif, bukan aksi korporasi yang mengubah fundamental emiten manapun yang disebut sebagai acuan, dan dokumen yang tersedia juga tidak memuat rincian harga atau volume yang bisa dinilai dampaknya.",
+  "sentimen": "netral"
  },
  {
   "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
   "category": "Aksi Korporasi",
-  "title": "POLL Sampaikan [Koreksi] Laporan Keuangan Interim",
-  "deck": "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya telah disampaikan ke Bursa Efek Indonesia.",
+  "title": "POLL Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
+  "deck": "PT Pollux Properties Indonesia Tbk mengoreksi laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:18:48",
@@ -344,16 +361,17 @@ var ARTICLES = [
   "emiten": "POLL",
   "tags": [
    "POLL",
+   "Pollux Properties",
    "laporan keuangan",
-   "koreksi",
-   "keterbukaan informasi"
+   "koreksi"
   ],
   "body": [
-   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim kepada Bursa Efek Indonesia pada 10 Agustus 2026. Koreksi ini merupakan revisi atas laporan keuangan periode berjalan yang sebelumnya sudah disampaikan perusahaan kepada otoritas bursa.",
-   "Keterbukaan informasi yang tersedia saat ini baru berupa judul dan perihal laporan, sementara isi lengkap dokumen koreksi belum dipublikasikan. Bagian mana dari laporan keuangan yang direvisi, apakah menyangkut pos neraca, laba rugi, arus kas, atau catatan atas laporan keuangan, belum dapat dipastikan tanpa membaca dokumen lengkapnya.",
-   "Publikasi dokumen lengkap nantinya akan memberikan gambaran lebih jelas mengenai pos yang direvisi serta dampaknya terhadap laporan keuangan POLL secara keseluruhan."
+   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir pada 30 Juni 2026, melalui surat bernomor 014/PPI-CST/OJK-IDX/VIII/2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan ini berstatus tidak diaudit dan merupakan revisi dari dokumen serupa yang sebelumnya sudah pernah disampaikan untuk periode kuartal II 2026.",
+   "Dari ikhtisar posisi keuangan yang tercantum, kas dan setara kas perseroan per 30 Juni 2026 tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik cukup tajam, dari Rp820,37 juta pada akhir 2025 menjadi Rp2,23 miliar pada pertengahan 2026. Bagian dokumen yang memuat liabilitas, ekuitas, serta laporan laba rugi dan arus kas secara lengkap tidak turut terbaca dalam data yang diterima, sehingga gambaran dampak koreksi secara menyeluruh belum bisa dipastikan.",
+   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus (watchlist) Bursa Efek Indonesia, sebagaimana tertulis dalam bagian informasi umum laporan."
   ],
-  "takeaway": "Koreksi laporan keuangan interim berarti perusahaan memperbaiki atau merevisi angka yang sebelumnya sudah dilaporkan ke bursa, misalnya karena kesalahan pencatatan, penyesuaian penerapan standar akuntansi, atau temuan hasil audit. Karena rincian dokumen belum tersedia, pos yang berpotensi tersentuh bisa mencakup laba bersih, aset, liabilitas, atau ekuitas, tergantung bagian mana yang dikoreksi. Pelaku pasar biasanya mencermati revisi semacam ini karena angka yang sebelumnya dipakai untuk menilai kinerja perusahaan dapat berubah begitu koreksi dipublikasikan secara lengkap."
+  "takeaway": "Ini bukan aksi korporasi baru, melainkan pembetulan atas laporan keuangan interim triwulan II 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, sehingga ada perubahan angka dari versi awal. Pos yang berpotensi tersentuh oleh koreksi semacam ini biasanya berada di laporan posisi keuangan, seperti kas, piutang, dan pos neraca lain yang jadi acuan investor untuk menilai likuiditas dan kesehatan keuangan perusahaan. Karena dokumen yang tersedia tidak merinci apa saja yang berubah dibanding versi sebelum koreksi, dan tidak menyertakan laporan laba rugi maupun arus kas secara utuh, penilaian dibuat netral. Data kas dan piutang yang ada memang menunjukkan kenaikan, tapi itu saja belum cukup untuk menyimpulkan apakah koreksi ini bersifat material atau kosmetik. Status POLL yang sudah berada di papan pemantauan khusus juga menjadi konteks bahwa bursa sedang memberi perhatian pengawasan tersendiri pada saham ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
@@ -380,8 +398,8 @@ var ARTICLES = [
  {
   "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
   "category": "Aksi Korporasi",
-  "title": "HD Sampaikan Term Sheet [Structured Warrant] ke BEI",
-  "deck": "Kode emiten HD tercatat menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia, dokumen awal sebelum produk derivatif ini resmi ditawarkan ke publik.",
+  "title": "HD (KGI Sekuritas) Ajukan Term Sheet [Waran] BBCA",
+  "deck": "KGI Sekuritas Indonesia (HD) menyampaikan term sheet penawaran umum call warrant atas saham BBCA berkode BBCAHDCJ7A yang jatuh tempo 23 April 2027.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:22:50",
@@ -390,16 +408,16 @@ var ARTICLES = [
   "emiten": "HD",
   "tags": [
    "HD",
-   "structured warrant",
-   "BEI",
-   "keterbukaan informasi"
+   "waran terstruktur",
+   "BBCA",
+   "KGI Sekuritas"
   ],
   "body": [
-   "Kode emiten HD menyampaikan keterbukaan informasi berupa term sheet penawaran umum structured warrant kepada Bursa Efek Indonesia pada 10 Agustus 2026. Term sheet adalah dokumen ringkasan syarat dan ketentuan suatu produk sebelum ditawarkan secara resmi ke publik, sehingga penyampaian ini merupakan tahap awal dalam proses pencatatan produk structured warrant tersebut di bursa.",
-   "Structured warrant sendiri adalah produk derivatif yang diterbitkan oleh pihak penerbit, biasanya perusahaan sekuritas, dengan saham tertentu sebagai acuan. Pemegang structured warrant memperoleh hak untuk menerima selisih harga saham acuan dengan harga pelaksanaan pada periode tertentu, dan penyelesaiannya dilakukan secara tunai tanpa penyerahan saham fisik.",
-   "Dokumen yang tersedia saat ini baru sebatas judul dan perihal laporan, belum mencakup rincian seperti pihak penerbit, saham yang dijadikan acuan, jumlah unit, harga pelaksanaan, maupun jangka waktu warrant. Kejelasan mengenai posisi HD dalam transaksi ini, apakah sebagai penerbit atau sebagai saham acuan, baru bisa dipastikan setelah dokumen lengkap tersedia."
+   "KGI Sekuritas Indonesia dengan kode emiten HD menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia berupa penyampaian term sheet penawaran umum waran terstruktur. Waran yang dimaksud adalah Call Warrant BBCA HD dengan kode perdagangan BBCAHDCJ7A, yaitu produk terstruktur yang diterbitkan oleh KGI Sekuritas dengan saham BBCA sebagai acuan, dan akan berakhir masa berlakunya pada 23 April 2027.",
+   "Laporan ditandatangani secara elektronik oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, dan disampaikan pada 10 Agustus 2026 pukul 10.22 WIB. Dokumen lengkap term sheet dilampirkan dalam berkas bernama Termsheet_BBCAHDCJ7A.pdf. Laporan yang diterima BEI ini tidak mencantumkan rincian angka seperti harga strike, rasio penukaran, jumlah unit yang ditawarkan, maupun perkiraan dana yang akan dihimpun dari penawaran ini."
   ],
-  "takeaway": "Term sheet adalah dokumen syarat dan ketentuan awal sebuah produk yang disampaikan ke bursa sebelum penawaran resmi, bukan laporan keuangan atau aksi korporasi yang langsung mengubah struktur modal emiten. Karena structured warrant lazimnya diterbitkan oleh pihak ketiga dan diselesaikan secara tunai, produk ini pada umumnya tidak menambah jumlah saham beredar maupun mengubah ekuitas emiten yang sahamnya dijadikan acuan, tetapi bisa memengaruhi likuiditas dan volatilitas jangka pendek saham acuan akibat aktivitas lindung nilai dari pihak penerbit. Redaksi belum bisa memastikan apakah HD berperan sebagai penerbit warrant atau sebagai saham acuan karena data yang tersedia hanya judul dan perihal laporan."
+  "takeaway": "Waran terstruktur atau structured warrant adalah produk turunan yang diterbitkan oleh perusahaan sekuritas, bukan oleh emiten saham acuannya, sehingga penerbitan ini adalah aksi bisnis KGI Sekuritas sebagai penerbit produk, bukan aksi korporasi BBCA. Bagi HD sendiri, penerbitan waran semacam ini biasanya menyentuh pos pendapatan fee dan premi dari bisnis produk derivatif, bukan mengubah jumlah saham beredar atau ekuitas BBCA. Karena dokumen yang tersedia baru sebatas notifikasi penyampaian term sheet tanpa rincian harga strike, rasio, ukuran penawaran, atau target dana yang dihimpun, penilaian fundamental atas dampaknya belum bisa ditentukan secara memadai. Dengan demikian catatan ini menilai laporan sebagai netral, menunggu detail lengkap dari term sheet yang dilampirkan sebelum dampaknya terhadap kinerja HD dapat dinilai lebih jauh.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
@@ -447,8 +465,8 @@ var ARTICLES = [
  {
   "slug": "wisl-sampaikan-laporan-jatuh-tempo-obligasi-ke-bei",
   "category": "Aksi Korporasi",
-  "title": "WISL Sampaikan Laporan [Jatuh Tempo] Obligasi ke BEI",
-  "deck": "Emiten berkode WISL menyampaikan keterbukaan informasi terkait jatuh tempo obligasi atau sukuk korporasi ke Bursa Efek Indonesia.",
+  "title": "Obligasi WISL Rp845,5 Miliar [Jatuh Tempo], Berhenti Diperdagangkan",
+  "deck": "BEI mengumumkan Obligasi II WISL Tahun 2023 Seri B senilai Rp845,5 miliar resmi jatuh tempo pada 8 Agustus 2026 dan tidak lagi tercatat di bursa mulai 10 Agustus 2026.",
   "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:38:18",
@@ -458,21 +476,21 @@ var ARTICLES = [
   "tags": [
    "WISL",
    "obligasi",
-   "sukuk",
-   "jatuh tempo"
+   "jatuh tempo",
+   "BEI"
   ],
   "body": [
-   "Emiten dengan kode saham WISL menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) perihal jatuh tempo obligasi atau sukuk korporasi. Laporan tersebut disampaikan pada 10 Agustus 2026, namun rincian seperti nilai pokok obligasi, seri, dan skema pelunasan belum tercantum dalam ringkasan yang tersedia.",
-   "Jatuh tempo obligasi atau sukuk berarti perusahaan penerbit memasuki periode wajib melunasi pokok utang kepada pemegang efek utang tersebut, sesuai jadwal yang ditetapkan sejak penerbitan. Kewajiban ini berbeda dari pembagian dividen karena menyangkut utang, bukan bagi hasil kepada pemegang saham.",
-   "Karena dokumen lengkap belum dapat diakses, dampak pasti terhadap posisi keuangan WISL, termasuk besaran dana yang harus disiapkan untuk pelunasan, baru bisa dinilai setelah laporan detail dari perusahaan maupun BEI tersedia."
+   "Bursa Efek Indonesia (BEI) mengumumkan jatuh temponya Obligasi II Wahana Inti Selaras Tahun 2023 Seri B dengan kode WISL02B, melalui surat No. Peng-JTO-00080/BEI.PP1/08-2026. Obligasi yang diterbitkan pada 8 Agustus 2023 dengan nilai seri Rp845,5 miliar ini jatuh tempo pada 8 Agustus 2026, dan mulai 10 Agustus 2026 efek tersebut tidak lagi tercatat serta tidak dapat diperdagangkan di BEI.",
+   "Pengumuman ini ditandatangani oleh Kadiv Pengaturan dan Operasional Perdagangan BEI, Pande Made Kusuma Ari A, serta Kadiv Penilaian Perusahaan 1, Vera Florida. Dokumen yang tersedia berupa pemberitahuan penghapusan pencatatan karena masa tenor obligasi tiga tahun telah berakhir, tanpa menyebutkan secara eksplisit status pelunasan pokok maupun bunga kepada pemegang obligasi."
   ],
-  "takeaway": "Jatuh tempo obligasi atau sukuk adalah momen ketika perusahaan wajib mengembalikan pokok pinjaman kepada investor pemegang surat utang tersebut, sesuai tenor yang disepakati saat penerbitan. Pos yang biasanya tersentuh adalah kas dan arus kas pendanaan karena perusahaan harus menyiapkan dana pelunasan, serta neraca pada sisi liabilitas karena utang jangka panjang tersebut akan berkurang atau berpindah menjadi liabilitas jangka pendek menjelang pelunasan. Pelaku pasar biasanya mencermati hal ini untuk menilai kecukupan likuiditas perusahaan dalam memenuhi kewajiban tersebut. Karena data yang tersedia hanya judul dan perihal laporan tanpa nilai nominal, penilaian lebih rinci baru bisa dilakukan setelah dokumen lengkap dipublikasikan."
+  "takeaway": "Obligasi adalah surat utang, sehingga saat jatuh tempo emiten berkewajiban melunasi pokok utang kepada pemegang obligasi, dan penghapusan pencatatan di BEI ini adalah konsekuensi administratif otomatis begitu tanggal jatuh tempo tercapai. Pos yang tersentuh adalah arus kas dan liabilitas jangka panjang WISL, karena pelunasan pokok senilai Rp845,5 miliar akan mengurangi utang berbunga jika dibayar tunai dari kas internal, atau berpotensi digantikan pembiayaan baru jika direfinancing. Penilaian kami netral, sebab dokumen ini hanya mencatat delisting akibat jatuh tempo dan tidak menyebutkan apakah pelunasan sudah dilakukan, sehingga dampaknya terhadap kesehatan keuangan WISL baru bisa dinilai setelah ada konfirmasi status pembayaran dari perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "humi-catatkan-tambahan-saham-baru-di-bei",
   "category": "Aksi Korporasi",
-  "title": "HUMI Catatkan Tambahan [Saham] Baru di BEI",
-  "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan pencatatan saham baru ke Bursa Efek Indonesia. Rincian jumlah dan asal saham belum diungkap dalam laporan awal ini.",
+  "title": "HUMI Catatkan [Konversi] Waran, Saham Beredar Jadi 18,06 Miliar",
+  "deck": "Bursa mencatat konversi 297.862 waran HUMI-W menjadi saham baru per 10 Agustus 2026, sehingga total saham beredar HUMI naik menjadi 18.063.691.451 lembar.",
   "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
@@ -481,22 +499,22 @@ var ARTICLES = [
   "emiten": "HUMI",
   "tags": [
    "HUMI",
-   "pencatatan saham",
-   "BEI",
-   "aksi korporasi"
+   "waran",
+   "dilusi saham",
+   "BEI"
   ],
   "body": [
-   "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) perihal pencatatan saham, sebagaimana laporan resmi yang diterbitkan pada 10 Agustus 2026. Laporan yang tersedia saat ini baru mencantumkan judul dan perihal, tanpa rincian jumlah saham, skema penerbitan, atau alasan di balik pencatatan tersebut.",
-   "Pencatatan saham di BEI umumnya terjadi ketika sebuah emiten menambahkan saham baru ke dalam daftar saham yang diperdagangkan di bursa, misalnya hasil dari aksi korporasi seperti penerbitan saham baru, konversi waran, atau program lain yang menambah jumlah saham beredar. Belum ada detail dari HUMI mengenai skema mana yang melatarbelakangi pencatatan ini.",
-   "The Signal akan memperbarui laporan ini begitu dokumen lengkap dari HUMI dan BEI tersedia, termasuk jumlah saham yang dicatatkan dan konteks aksi korporasi yang mendasarinya."
+   "Bursa Efek Indonesia (BEI) mengumumkan pencatatan tambahan saham baru PT Humpuss Maritim Internasional Tbk (HUMI) hasil konversi waran, melalui surat No. Peng-P-00980/BEI.PP1/08-2026. Sebanyak 297.862 waran seri HUMI-W dikonversi menjadi saham baru, yang mulai dicatatkan dan diperdagangkan di papan pengembangan sejak 10 Agustus 2026. Dengan tambahan ini, total saham HUMI yang beredar menjadi 18.063.691.451 lembar.",
+   "Setelah konversi tersebut, sisa waran HUMI-W yang belum dieksekusi oleh pemegangnya tercatat 1.336.258.549 lembar. Jumlah ini masih berpotensi dikonversi menjadi saham baru di kemudian hari sebelum masa berlaku waran berakhir, sehingga jumlah saham beredar HUMI berpeluang bertambah lagi ke depan."
   ],
-  "takeaway": "Pencatatan saham adalah proses administratif di BEI ketika saham baru yang diterbitkan emiten resmi masuk ke dalam daftar saham yang bisa diperdagangkan, sehingga jumlah saham HUMI yang beredar di pasar bertambah. Pelaku pasar biasanya mencermati aksi semacam ini karena penambahan jumlah saham beredar dapat memengaruhi laba per saham dan proporsi kepemilikan pemegang saham lama, meski besar kecilnya efek itu baru bisa dinilai setelah rincian jumlah saham dan tujuan penerbitannya diketahui dari dokumen lengkap."
+  "takeaway": "Waran adalah hak bagi pemegangnya untuk membeli saham baru perusahaan pada harga tertentu sebelum batas waktu yang ditetapkan, dan begitu dieksekusi, waran itu berubah menjadi saham biasa yang menambah jumlah saham beredar. Pos yang tersentuh langsung adalah jumlah saham beredar, yang berimplikasi pada potensi pengenceran (dilusi) kepemilikan dan laba per saham bagi pemegang saham lama, meski dokumen ini tidak menyebut harga pelaksanaan sehingga dampaknya terhadap kas perusahaan belum bisa dihitung. Konversi 297.862 saham dari basis 18,06 miliar lembar besarnya kurang dari 0,01 persen, sehingga transaksi kali ini terlalu kecil untuk dibaca sebagai sinyal berarti bagi fundamental HUMI. Yang lebih relevan diperhatikan pelaku pasar adalah sisa waran sebesar 1,34 miliar lembar, setara sekitar 7,4 persen dari total saham beredar saat ini, yang menjadi potensi dilusi lanjutan jika dikonversi seluruhnya. Untuk laporan konversi kali ini sendiri, penilaiannya netral karena dampaknya pada struktur saham nyaris tidak signifikan.",
+  "sentimen": "netral"
  },
  {
   "slug": "kaef-laporkan-perubahan-nama-emiten-ke-bursa",
   "category": "Aksi Korporasi",
-  "title": "KAEF Laporkan [Perubahan] Nama Emiten ke Bursa",
-  "deck": "PT Kimia Farma (Persero) Tbk menyampaikan keterbukaan informasi soal perubahan nama emiten kepada Bursa Efek Indonesia.",
+  "title": "KAEF Resmi [Ganti Nama] jadi PT Kimia Farma (Persero) Tbk",
+  "deck": "BEI mengumumkan perubahan nama tercatat emiten KAEF dari Kimia Farma Tbk. menjadi PT Kimia Farma (Persero) Tbk, efektif 10 Agustus 2026.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:35",
@@ -506,21 +524,21 @@ var ARTICLES = [
   "tags": [
    "KAEF",
    "Kimia Farma",
-   "keterbukaan informasi",
-   "BUMN"
+   "perubahan nama emiten",
+   "BEI"
   ],
   "body": [
-   "PT Kimia Farma (Persero) Tbk, emiten farmasi dengan kode saham KAEF, menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia pada 10 Agustus 2026 dengan perihal perubahan nama emiten.",
-   "Berdasarkan judul dan perihal laporan yang tercatat di sistem keterbukaan informasi bursa, belum ada rincian mengenai nama baru yang akan digunakan maupun latar belakang perubahan tersebut. Dokumen lengkap laporan diperlukan untuk mengetahui detail lebih jauh, termasuk apakah perubahan ini terkait restrukturisasi kepemilikan, penyesuaian identitas korporasi, atau proses administratif lain.",
-   "Sebagai perusahaan pelat merah yang sahamnya tercatat di bursa, setiap perubahan identitas resmi Kimia Farma tetap perlu disampaikan kepada otoritas bursa dan pemegang saham publik sesuai ketentuan keterbukaan informasi yang berlaku."
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman resmi bernomor Peng-PNE-00010/BEI.PP1/08-2026 yang menyatakan perubahan nama tercatat untuk emiten berkode KAEF di Papan Pencatatan Pengembangan. Nama lama yang tercatat, Kimia Farma Tbk., diubah menjadi PT Kimia Farma (Persero) Tbk. Perubahan ini berlaku efektif mulai 10 Agustus 2026.",
+   "Pengumuman tersebut ditandatangani secara elektronik oleh Pande Made Kusuma Ari A selaku Kepala Divisi Pengaturan dan Operasional Perdagangan BEI, bersama Vera Florida selaku Kepala Divisi Penilaian Perusahaan 1. Dokumen yang diterbitkan hanya memuat perubahan nama beserta tanggal efektifnya, tanpa rincian lebih lanjut mengenai alasan perubahan, perubahan struktur permodalan, atau dampak operasional lain bagi perusahaan."
   ],
-  "takeaway": "Perubahan nama emiten adalah aksi korporasi di mana perusahaan mengganti nama resminya yang tercatat di bursa, sesuatu yang lazim terjadi karena rebranding, penyesuaian identitas hukum, atau perubahan struktur kepemilikan, meski dalam laporan ini alasan spesifiknya belum diketahui. Secara fundamental, perubahan nama semata umumnya tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham, karena sifatnya administratif dan bukan transaksi keuangan. Pelaku pasar tetap memperhatikan pengumuman semacam ini karena kadang menjadi penanda awal dari proses korporasi yang lebih besar, seperti perubahan status kepemilikan atau restrukturisasi grup usaha, yang baru bisa dipastikan setelah dokumen lengkap tersedia."
+  "takeaway": "Yang terjadi di sini murni perubahan nama resmi emiten di sistem pencatatan bursa, dari Kimia Farma Tbk. menjadi PT Kimia Farma (Persero) Tbk, dengan penambahan eksplisit kata Persero yang menegaskan status badan usaha milik negara. Perubahan semacam ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya administratif dan berkaitan dengan identitas hukum perusahaan, bukan transaksi bisnis. Pelaku pasar biasanya tetap mencatat perubahan ini karena nama resmi yang mencantumkan status Persero relevan untuk pemetaan tata kelola dan profil kepemilikan emiten. Dari sisi fundamental, laporan ini dinilai netral karena dokumen tidak menyediakan bukti dampak finansial atau operasional apa pun, hanya penegasan identitas korporasi.",
+  "sentimen": "netral"
  },
  {
   "slug": "pjhb-catatkan-saham-baru-di-bursa-efek-indonesia",
   "category": "Aksi Korporasi",
-  "title": "PJHB Catatkan [Saham] Baru di Bursa Efek Indonesia",
-  "deck": "Bursa Efek Indonesia menerima laporan keterbukaan informasi soal pencatatan saham PT Pelayaran Jaya Hidup Baru Tbk (PJHB), namun rincian jumlah dan tujuannya belum tersedia.",
+  "title": "PJHB Catat [Konversi] Waran, Saham Beredar Jadi 1,92 Miliar",
+  "deck": "BEI mencatat konversi 3.105 waran PJHB-W menjadi saham baru pada 10 Agustus 2026. Sisa 239,28 juta waran berpotensi menambah saham beredar di kemudian hari.",
   "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:14",
@@ -529,22 +547,22 @@ var ARTICLES = [
   "emiten": "PJHB",
   "tags": [
    "PJHB",
-   "pencatatan saham",
-   "BEI",
-   "aksi korporasi"
+   "waran",
+   "konversi waran",
+   "BEI"
   ],
   "body": [
-   "PT Pelayaran Jaya Hidup Baru Tbk (PJHB) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) pada 10 Agustus 2026 dengan perihal Pencatatan Saham. Laporan yang dipublikasikan baru memuat judul dan perihal, sehingga jumlah saham yang dicatatkan, sumber dananya, serta latar belakang aksi ini belum dapat dipastikan.",
-   "Pencatatan saham di BEI umumnya terjadi ketika emiten menambah jumlah saham yang resmi diperdagangkan di bursa, misalnya sebagai tindak lanjut dari private placement, pelaksanaan waran, program kepemilikan saham karyawan, atau bentuk penambahan modal lain. Tanpa dokumen lengkap, publik belum bisa mengetahui skema mana yang berlaku pada PJHB kali ini.",
-   "The Signal akan menelusuri dokumen lengkap laporan ini untuk memastikan rincian jumlah saham dan latar belakangnya sebelum memberikan gambaran dampak yang lebih pasti kepada pembaca."
+   "Bursa Efek Indonesia mengumumkan pencatatan saham baru hasil konversi waran emiten berkode PJHB melalui surat No. Peng-P-00979/BEI.PP1/08-2026. Sebanyak 3.105 unit waran seri PJHB-W dikonversi menjadi 3.105 saham baru, yang mulai tercatat dan diperdagangkan pada 10 Agustus 2026 di Papan Pencatatan Pengembangan. Dengan tambahan tersebut, total saham PJHB yang beredar menjadi 1.920.720.864 lembar.",
+   "Dibandingkan dengan total saham beredar setelah konversi, jumlah waran yang dikonversi kali ini tergolong sangat kecil, sekitar 0,00016 persen dari total saham. Yang lebih perlu dicermati adalah sisa waran PJHB-W yang belum dikonversi, yakni 239.279.136 lembar. Jumlah ini setara sekitar 12,5 persen dari saham PJHB yang saat ini beredar, sehingga masih terbuka potensi penambahan saham baru di masa depan apabila pemegang waran lain menukarkan haknya."
   ],
-  "takeaway": "Pencatatan saham adalah proses administratif di BEI yang membuat sejumlah saham baru resmi bisa diperdagangkan di pasar, biasanya menyusul aksi korporasi seperti private placement, pelaksanaan waran, atau program saham karyawan. Secara fundamental, penambahan saham beredar berpotensi memengaruhi laba per saham karena laba perusahaan yang sama harus dibagi dengan jumlah saham yang lebih banyak, dan juga bisa menambah modal disetor atau ekuitas perusahaan tergantung sumber dana di balik pencatatan tersebut. Karena dokumen lengkap belum tersedia, rincian jumlah saham dan tujuan aksi ini baru bisa dipastikan setelah laporan detailnya dibaca."
+  "takeaway": "Aksi ini adalah konversi waran, yaitu proses pemegang waran menukarkan haknya menjadi saham baru sehingga jumlah saham PJHB yang beredar bertambah. Pos yang tersentuh adalah jumlah saham beredar, yang pada gilirannya bisa memengaruhi laba per saham dan hak suara pemegang saham lama karena penerbitan saham baru berpotensi mengencerkan kepemilikan eksisting. Secara fundamental, konversi kali ini netral karena volumenya sangat kecil, hanya 3.105 lembar dari total 1,92 miliar saham, sehingga dampaknya ke struktur kepemilikan nyaris tidak terasa. Yang layak terus dipantau adalah sisa waran sebesar 239,28 juta lembar, setara sekitar 12,5 persen dari saham beredar saat ini, karena dilusi baru akan terasa berarti bila mayoritas waran tersebut dikonversi di kemudian hari.",
+  "sentimen": "netral"
  },
  {
   "slug": "pack-catatkan-saham-baru-di-bursa-efek-indonesia",
   "category": "Aksi Korporasi",
-  "title": "PACK catatkan [saham] baru di Bursa Efek Indonesia",
-  "deck": "BEI mencatatkan penambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) pada 10 Agustus 2026, namun rincian jumlah dan asal saham belum diungkap.",
+  "title": "PACK Catatkan 441,48 Juta Saham Baru dari [Konversi] Obligasi",
+  "deck": "BEI mencatatkan 441.482.500 saham baru PACK dari konversi Obligasi Wajib Konversi, menambah total saham beredar menjadi 34.099.757.975 lembar.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:34:32",
@@ -553,15 +571,17 @@ var ARTICLES = [
   "emiten": "PACK",
   "tags": [
    "PACK",
-   "pencatatan saham",
-   "BEI",
-   "aksi korporasi"
+   "konversi obligasi",
+   "pencatatan saham baru",
+   "dilusi saham"
   ],
   "body": [
-   "Bursa Efek Indonesia mencatatkan aksi pencatatan saham baru untuk PT Abadi Nusantara Hijau Investama Tbk dengan kode saham PACK, berdasarkan laporan keterbukaan informasi resmi bertanggal 10 Agustus 2026. Laporan tersebut hanya memuat judul dan perihal \"Pencatatan Saham\" tanpa rincian lebih lanjut mengenai jumlah saham yang dicatatkan maupun aksi korporasi yang mendasarinya.",
-   "Pencatatan saham baru di bursa umumnya merupakan tahap akhir dari sebuah aksi korporasi yang sudah lebih dulu disetujui, misalnya pelaksanaan waran, konversi obligasi menjadi saham, penerbitan saham bonus, rights issue, atau program kepemilikan saham karyawan. Dokumen yang tersedia saat ini belum menyebutkan jenis aksi korporasi yang menjadi dasar pencatatan ini, sehingga detail dampaknya baru bisa dijelaskan setelah dokumen lengkap dari PACK maupun BEI dapat diakses."
+   "Bursa Efek Indonesia (BEI) mencatatkan tambahan saham baru emiten berkode PACK di Papan Pencatatan Akselerasi melalui pengumuman bernomor Peng-P-00981/BEI.PP1/08-2026. Penambahan sebanyak 441.482.500 saham ini berasal dari pelaksanaan konversi Obligasi Wajib Konversi milik perseroan, dengan tanggal pencatatan pada 10 Agustus 2026.",
+   "Setelah pencatatan saham hasil konversi tersebut, jumlah saham PACK yang beredar di bursa menjadi 34.099.757.975 lembar. Dokumen yang sama juga mencatat sisa Obligasi Wajib Konversi yang belum dikonversi menjadi saham sebesar 84.580.369, yang berarti masih terbuka kemungkinan penambahan saham lanjutan di kemudian hari apabila sisa obligasi tersebut dikonversi.",
+   "Pengumuman resmi BEI itu ditandatangani oleh Kadiv Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A serta Kadiv Penilaian Perusahaan 1 Vera Florida. Dokumen tidak merinci harga konversi per saham maupun nilai nominal obligasi yang dikonversi."
   ],
-  "takeaway": "Pencatatan saham adalah proses BEI memasukkan saham baru ke sistem perdagangan bursa, biasanya sebagai tindak lanjut dari aksi korporasi yang sudah disetujui sebelumnya, bukan aksi korporasi baru yang berdiri sendiri. Yang tersentuh secara fundamental adalah jumlah saham beredar perseroan, karena penambahan saham baru memperbesar basis saham yang dipakai untuk menghitung laba per saham, sehingga bila laba bersih tidak bertambah sebanding, laba per saham berpotensi terdilusi. Pelaku pasar biasanya mencermati pos ini karena memengaruhi proporsi kepemilikan pemegang saham lama dan rasio valuasi yang dihitung per lembar saham."
+  "takeaway": "Aksi korporasi ini adalah pencatatan saham baru yang lahir dari konversi Obligasi Wajib Konversi, instrumen utang yang menurut ketentuannya wajib berubah menjadi saham pada waktu tertentu, sehingga kewajiban perseroan kepada pemegang obligasi berpindah menjadi kepemilikan saham. Yang tersentuh langsung adalah jumlah saham beredar, yang bertambah 441.482.500 lembar menjadi 34.099.757.975 lembar, sehingga secara matematis laba per saham berpotensi terdilusi karena penyebutnya membesar, sementara di sisi lain beban kewajiban obligasi tersebut berkurang karena sudah dilunasi dalam bentuk saham. Penilaian kami netral, sebab penambahan saham ini hanya sekitar 1,3 persen dari total saham beredar sehingga dampak dilusinya tergolong tipis, sementara dokumen tidak merinci nilai nominal obligasi maupun ketentuan bunga yang dihemat sehingga belum cukup bukti untuk menilai dampak keseluruhannya secara meyakinkan.",
+  "sentimen": "netral"
  },
  {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
@@ -631,8 +651,8 @@ var ARTICLES = [
  {
   "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
   "category": "Aksi Korporasi",
-  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
-  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
+  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan 2025",
+  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi laporan keuangan tahunan 2025 ke BEI, kas dan setara kas naik jadi Rp71,90 miliar dari Rp17,03 miliar.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T17:01:29",
@@ -642,15 +662,16 @@ var ARTICLES = [
   "tags": [
    "CASH",
    "Cashlez Worldwide Indonesia",
-   "laporan keuangan",
-   "BEI"
+   "laporan keuangan tahunan",
+   "koreksi laporan"
   ],
   "body": [
-   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan kepada Bursa Efek Indonesia pada 9 Agustus 2026. Dalam keterbukaan informasi resmi, judul dokumen yang diunggah adalah Penyampaian Laporan Keuangan Tahunan (Koreksi), tanpa rincian pos mana yang diubah dari laporan sebelumnya.",
-   "Koreksi atas laporan keuangan yang sudah pernah disampaikan berarti perusahaan memperbaiki sebagian isi dokumen yang sebelumnya sudah dipublikasikan ke otoritas bursa. Penyebabnya bisa bermacam-macam, mulai dari kesalahan pencatatan angka, penyesuaian metode penyajian, sampai perbaikan administratif semata. Karena isi dokumen lengkap belum tersedia untuk publik, belum dapat dipastikan pos mana dalam laporan keuangan yang mengalami perubahan.",
-   "Pelaku pasar biasanya menunggu detail lebih lanjut sebelum menilai signifikansi sebuah koreksi laporan keuangan, mengingat dampaknya baru bisa diukur setelah diketahui pos spesifik yang direvisi."
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 324/SK/CSC-CWI/VIII/2026 dengan perihal yang secara eksplisit tertulis sebagai Penyampaian Laporan Keuangan Tahunan (Koreksi). Laporan diaudit oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penanggung jawab Heri Setianto, auditor yang sama dengan tahun sebelumnya, dan menghasilkan opini wajar tanpa modifikasian tertanggal 29 Juni 2026. Surat pernyataan tanggung jawab direksi atas laporan keuangan tersebut ditandatangani pada 16 Februari 2026.",
+   "Dari sisi posisi keuangan, kas dan setara kas Cashlez tercatat Rp71,90 miliar per 31 Desember 2025, naik dari Rp17,03 miliar pada akhir 2024, meningkat lebih dari empat kali lipat dalam setahun. Pos aset keuangan lancar lainnya juga naik menjadi Rp576,80 juta dari Rp437,30 juta pada periode yang sama tahun sebelumnya. Dokumen tidak merinci pos mana persisnya yang diperbaiki dibandingkan laporan tahunan yang sebelumnya sudah disampaikan ke BEI.",
+   "Laporan ini juga mencantumkan informasi anak usaha, yaitu PT Softorb Technology Indonesia yang bergerak di bidang perdagangan besar serta teknologi informasi, berlokasi di Jakarta dan telah beroperasi komersial sejak 2004. Cashlez tercatat menguasai 51,0 persen saham Softorb, dengan total aset anak usaha tersebut mencapai Rp111,84 miliar per akhir 2025."
   ],
-  "takeaway": "Yang disampaikan CASH ini bukan laporan keuangan baru, melainkan perbaikan atas laporan keuangan tahunan yang sudah pernah diserahkan ke BEI sebelumnya. Secara fundamental, koreksi laporan keuangan berpotensi menyentuh pos-pos seperti laba bersih, ekuitas, aset, atau liabilitas, tergantung bagian mana yang direvisi, dan pelaku pasar memperhatikan hal ini karena perubahan pada angka-angka tersebut bisa mengubah dasar penilaian kinerja historis perusahaan. Sejauh ini rincian pos yang dikoreksi belum diketahui dan baru bisa dipastikan setelah dokumen lengkapnya dibaca."
+  "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
+  "sentimen": "netral"
  },
  {
   "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",

@@ -66,14 +66,44 @@ jobs:
           fi
 
       - name: Commit dan push
+        id: kirim
         run: |
           git config user.name "the-signal-bot"
           git config user.email "actions@github.com"
           git add -A
           if git diff --staged --quiet; then
             echo "Tidak ada perubahan hari ini."
+            echo "berubah=tidak" >> "$GITHUB_OUTPUT"
           else
             git pull --rebase --autostash origin master || true
             git commit -m "Pembaruan otomatis: ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +%Y-%m-%d))"
             git push
+            echo "berubah=ya" >> "$GITHUB_OUTPUT"
+            node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/articles.js','utf8');const a=JSON.parse(s.slice(s.indexOf('['),s.lastIndexOf(']')+1));console.log('slug='+a[0].slug)" >> "$GITHUB_OUTPUT"
           fi
+
+      # Push sukses TIDAK sama dengan situs terbarui. Terbukti 2026-08-10:
+      # satu push tidak memicu webhook Vercel sama sekali, git hijau tapi
+      # halamannya 404. Tanpa langkah ini kegagalan seperti itu lolos jadi
+      # "sukses" dan situs diam-diam berhenti terbarui.
+      #
+      # Runner tidak punya kredensial Vercel, jadi di sini kita hanya
+      # MEMBUKTIKAN dan menggagalkan workflow kalau tidak terbit. Deploy
+      # ulangnya dilakukan manual atau lewat jalankan-idx.ps1 yang memang
+      # sudah terautentikasi di mesin lokal.
+      - name: Pastikan benar-benar terbit
+        if: steps.kirim.outputs.berubah == 'ya'
+        run: |
+          URL="https://the-signal-sandy.vercel.app/berita/${{ steps.kirim.outputs.slug }}.html"
+          echo "menunggu: $URL"
+          for i in $(seq 1 20); do
+            KODE=$(curl -s -o /dev/null -w '%{http_code}' "$URL" || echo 000)
+            if [ "$KODE" = "200" ]; then
+              echo "terbit setelah ~$((i*15)) detik"
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::Push sukses tapi $URL masih belum bisa diakses setelah 5 menit."
+          echo "::error::Vercel kemungkinan tidak menerima webhook. Jalankan: npx vercel deploy --prod"
+          exit 1

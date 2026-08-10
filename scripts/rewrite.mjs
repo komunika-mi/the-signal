@@ -188,12 +188,24 @@ export async function saringVideo(kandidat) {
 }
 
 // ---------- 3. Berita dari keterbukaan informasi IDX ----------
-export async function rangkumKeterbukaan(bahan) {
+// sudahTerbit: artikelnya SUDAH tayang dan sedang ditulis ulang karena dulu
+// dibuat tanpa isi dokumen. Untuk kasus itu "layak" tidak relevan lagi;
+// keputusan menerbitkan sudah diambil. Menolaknya tidak menarik artikel dari
+// situs, cuma meninggalkan versi tipisnya yang justru ingin kita ganti.
+export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
   const system = [
     'Kamu redaktur pasar modal untuk The Signal, portal berita ekonomi Indonesia.',
     '',
     PENGAMAN,
     '',
+    ...(sudahTerbit ? [
+      'PENTING: artikel ini SUDAH TERBIT di situs, dibuat dulu saat isi dokumen',
+      'belum bisa dibaca sehingga isinya tipis. Tugasmu MENULIS ULANG dengan isi',
+      'dokumen yang sekarang tersedia. Keputusan menerbitkan sudah diambil, jadi',
+      'SELALU set "layak": true. Kalau isinya memang rutin, tulis singkat dan',
+      'jujur bahwa ini laporan administratif, jangan menolak.',
+      '',
+    ] : []),
     'KONTEKS: kamu menerima satu laporan keterbukaan informasi resmi dari Bursa',
     'Efek Indonesia (IDX), lengkap dengan ISI DOKUMEN hasil ekstraksi PDF resminya.',
     'Isi dokumen itulah bahan utamanya, bukan judulnya.',

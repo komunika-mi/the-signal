@@ -11,6 +11,14 @@ import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT } from './lib.mjs
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
 // Laporan wajib berkala yang tidak menggerakkan harga saham.
+//
+// Empat kategori sengaja TIDAK ada di daftar tolak ini, atas permintaan user,
+// karena tetap punya nilai informasi bagi pemegang saham:
+//   - daftar pemegang saham            (perubahan komposisi kepemilikan)
+//   - perubahan alamat kantor
+//   - perubahan corporate secretary    (perubahan personel kunci)
+//   - laporan realisasi penggunaan dana (bukti dana hasil IPO atau rights
+//     issue dipakai sesuai janji di prospektus, ini justru material)
 const RUTIN = new RegExp([
   'registrasi pemegang efek',
   'peredaran unit penyertaan',
@@ -18,11 +26,7 @@ const RUTIN = new RegExp([
   'laporan mingguan',
   'laporan harian',
   'nilai aktiva bersih',
-  'daftar pemegang',
-  'perubahan alamat',
-  'perubahan (nama )?corporate secretary',
   'penyampaian bukti iklan',
-  'laporan realisasi penggunaan dana',
 ].join('|'), 'i');
 
 // Kategori yang secara fundamental bisa menggerakkan harga saham.

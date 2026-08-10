@@ -19,7 +19,7 @@ const POOL = {
   'Ketenagakerjaan': ['bursa-kerja', 'gudang-logistik', 'buruh-pabrik', 'kantor-startup'],
   'Teknologi': ['server-data', 'kantor-startup', 'teknologi-logistik'],
   'Bisnis': ['wisatawan-kopi', 'warung-makan', 'bisnis-resto', 'rumah-subsidi'],
-  'Aksi Korporasi': ['bursa-layar', 'grafik-laptop', 'gedung-bi', 'konpers-bank', 'emas-batangan', 'sidang-dpr'],
+  'Aksi Korporasi': ['bursa-layar', 'rups-emiten', 'grafik-laptop', 'gedung-bi', 'konpers-bank', 'emas-batangan'],
   'Global': ['global-pelabuhan', 'kapal-batubara', 'tambang-mineral'],
 };
 const UMUM = ['pasar-modal', 'moneter-bi', 'industri-tekstil', 'bisnis-resto',

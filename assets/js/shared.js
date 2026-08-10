@@ -21,8 +21,9 @@
 
   TS.storyCard = function (a) {
     return '<article class="story-card">' +
-      '<a href="' + TS.articleUrl(a) + '" class="story-art-link">' +
-      '<div class="story-art" style="background-image:url(\'' + a.image + '\')"></div></a>' +
+      '<a href="' + TS.articleUrl(a) + '" class="story-art-link ai-wrap">' +
+      '<div class="story-art" style="background-image:url(\'' + a.image + '\')"></div>' +
+      '<span class="ai-tag">Ilustrasi AI</span></a>' +
       '<div class="story-cat">' + TS.esc(a.category) + '</div>' +
       '<h3 class="story-title"><a class="story-title-link" href="' + TS.articleUrl(a) + '">' + TS.hl(a.title) + '</a></h3>' +
       '<p class="story-excerpt">' + TS.esc(a.deck) + '</p>' +

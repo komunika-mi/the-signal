@@ -235,7 +235,7 @@ ARTICLES.forEach(function (a) {
 
   const relatedHtml = related.map(x =>
     `<a class="related-card" href="${articleUrl(x)}">` +
-    `<div class="related-thumb" style="background-image:url('/${x.image}')"></div>` +
+    `<div class="related-thumb ai-wrap" style="background-image:url('/${x.image}')"><span class="ai-tag" style="right:3px;bottom:3px;font-size:7.5px;padding:1px 4px;">AI</span></div>` +
     `<div><div class="related-title">${hl(x.title)}</div>` +
     `<div class="related-meta">${esc(x.category)}</div></div></a>`).join('');
 
@@ -270,11 +270,12 @@ ARTICLES.forEach(function (a) {
       : 'Dirangkum dari <strong>tvOneNews</strong>'}</span></div>` +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
-    `<div class="article-cover" style="background-image:url('/${a.image}')"></div>` +
+    `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')"><span class="ai-tag">Ilustrasi AI</span></div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
     (a.takeaway ? `<div class="video-takeaway catatan-idx" style="max-width:68ch;"><b>Catatan redaksi</b>${esc(a.takeaway)}</div>` : '') +
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
+    `<p class="foto-kredit">Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.</p>` +
     `<div class="article-source-box"><p>${a.sourceLabel === 'IDX'
       ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
       : 'Artikel ini rangkuman editorial The Signal dari liputan tvOneNews, bukan salinan langsung. Untuk versi lengkap dan mutakhir, baca artikel aslinya.'}</p>` +

@@ -338,6 +338,22 @@ if (yatimBerita || yatimVideo) {
   console.log("halaman lama dihapus: " + yatimBerita + " berita, " + yatimVideo + " video");
 }
 
+// ---------- pasang versi aset di halaman root ----------
+// index/berita/video ditulis tangan, jadi tag <script>/<link>-nya tidak ikut
+// diberi ?v= otomatis. Tanpa ini beranda bisa memuat shared.js lama dari
+// cache sehingga bagian yang dirender JS (kartu pasar) tampak kosong.
+function versiHalamanRoot() {
+  for (const f of ['index.html', 'berita.html', 'video.html']) {
+    const p = path.join(ROOT, f);
+    if (!fs.existsSync(p)) continue;
+    let h = fs.readFileSync(p, 'utf8');
+    const sebelum = h;
+    h = h.replace(/(assets\/(?:css|js)\/[a-z-]+\.(?:css|js))(\?v=[a-f0-9]+)?/g, '$1?v=' + VER);
+    if (h !== sebelum) fs.writeFileSync(p, h, 'utf8');
+  }
+}
+versiHalamanRoot();
+
 // ---------- sitemap ----------
 const urls = ['/', '/berita.html', '/video.html']
   .concat(ARTICLES.map(articleUrl))

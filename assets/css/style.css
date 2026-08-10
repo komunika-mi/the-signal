@@ -59,8 +59,8 @@ img { max-width: 100%; display: block; }
 }
 .util-index { display: flex; gap: 1.1rem; flex-wrap: wrap; }
 .util-index b { color: var(--ink); font-weight: 600; }
-.util-index .up { color: var(--red-deep); }
-.util-index .down { color: var(--green); }
+.util-index .up { color: var(--green); }
+.util-index .down { color: var(--red-deep); }
 
 /* ---------- masthead ---------- */
 .masthead .rail {
@@ -170,8 +170,8 @@ img { max-width: 100%; display: block; }
 .ticker-top { display: flex; align-items: center; justify-content: space-between; gap: .4rem; }
 .ticker-cell svg.spark-mini { flex: none; width: 44px; height: 18px; }
 .pill { flex: none; font-size: 10.5px; font-weight: 700; padding: 3px 7px; border-radius: 999px; white-space: nowrap; }
-.pill.up { background: var(--red-tint); color: var(--red-deep); }
-.pill.down { background: var(--green-tint); color: var(--green); }
+.pill.up { background: var(--green-tint); color: var(--green); }
+.pill.down { background: var(--red-tint); color: var(--red-deep); }
 .ticker-value { font-size: 1.22rem; font-weight: 600; margin-top: .5rem; }
 .ticker-name { font-size: 10.5px; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-soft); margin-top: .15rem; }
 

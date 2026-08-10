@@ -25,11 +25,35 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "HD Sampaikan Term Sheet [Structured Warrant] ke BEI",
+  "deck": "Kode emiten HD tercatat menyampaikan term sheet penawaran umum structured warrant ke Bursa Efek Indonesia, dokumen awal sebelum produk derivatif ini resmi ditawarkan ke publik.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T10:22:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e4e810e76_44441afe89.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "structured warrant",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Kode emiten HD menyampaikan keterbukaan informasi berupa term sheet penawaran umum structured warrant kepada Bursa Efek Indonesia pada 10 Agustus 2026. Term sheet adalah dokumen ringkasan syarat dan ketentuan suatu produk sebelum ditawarkan secara resmi ke publik, sehingga penyampaian ini merupakan tahap awal dalam proses pencatatan produk structured warrant tersebut di bursa.",
+   "Structured warrant sendiri adalah produk derivatif yang diterbitkan oleh pihak penerbit, biasanya perusahaan sekuritas, dengan saham tertentu sebagai acuan. Pemegang structured warrant memperoleh hak untuk menerima selisih harga saham acuan dengan harga pelaksanaan pada periode tertentu, dan penyelesaiannya dilakukan secara tunai tanpa penyerahan saham fisik.",
+   "Dokumen yang tersedia saat ini baru sebatas judul dan perihal laporan, belum mencakup rincian seperti pihak penerbit, saham yang dijadikan acuan, jumlah unit, harga pelaksanaan, maupun jangka waktu warrant. Kejelasan mengenai posisi HD dalam transaksi ini, apakah sebagai penerbit atau sebagai saham acuan, baru bisa dipastikan setelah dokumen lengkap tersedia."
+  ],
+  "takeaway": "Term sheet adalah dokumen syarat dan ketentuan awal sebuah produk yang disampaikan ke bursa sebelum penawaran resmi, bukan laporan keuangan atau aksi korporasi yang langsung mengubah struktur modal emiten. Karena structured warrant lazimnya diterbitkan oleh pihak ketiga dan diselesaikan secara tunai, produk ini pada umumnya tidak menambah jumlah saham beredar maupun mengubah ekuitas emiten yang sahamnya dijadikan acuan, tetapi bisa memengaruhi likuiditas dan volatilitas jangka pendek saham acuan akibat aktivitas lindung nilai dari pihak penerbit. Redaksi belum bisa memastikan apakah HD berperan sebagai penerbit warrant atau sebagai saham acuan karena data yang tersedia hanya judul dan perihal laporan."
+ },
+ {
   "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
   "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:01:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
@@ -68,11 +92,35 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "wisl-sampaikan-laporan-jatuh-tempo-obligasi-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "WISL Sampaikan Laporan [Jatuh Tempo] Obligasi ke BEI",
+  "deck": "Emiten berkode WISL menyampaikan keterbukaan informasi terkait jatuh tempo obligasi atau sukuk korporasi ke Bursa Efek Indonesia.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T01:38:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f25535d28f_7bbac8f397.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WISL",
+  "tags": [
+   "WISL",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Emiten dengan kode saham WISL menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) perihal jatuh tempo obligasi atau sukuk korporasi. Laporan tersebut disampaikan pada 10 Agustus 2026, namun rincian seperti nilai pokok obligasi, seri, dan skema pelunasan belum tercantum dalam ringkasan yang tersedia.",
+   "Jatuh tempo obligasi atau sukuk berarti perusahaan penerbit memasuki periode wajib melunasi pokok utang kepada pemegang efek utang tersebut, sesuai jadwal yang ditetapkan sejak penerbitan. Kewajiban ini berbeda dari pembagian dividen karena menyangkut utang, bukan bagi hasil kepada pemegang saham.",
+   "Karena dokumen lengkap belum dapat diakses, dampak pasti terhadap posisi keuangan WISL, termasuk besaran dana yang harus disiapkan untuk pelunasan, baru bisa dinilai setelah laporan detail dari perusahaan maupun BEI tersedia."
+  ],
+  "takeaway": "Jatuh tempo obligasi atau sukuk adalah momen ketika perusahaan wajib mengembalikan pokok pinjaman kepada investor pemegang surat utang tersebut, sesuai tenor yang disepakati saat penerbitan. Pos yang biasanya tersentuh adalah kas dan arus kas pendanaan karena perusahaan harus menyiapkan dana pelunasan, serta neraca pada sisi liabilitas karena utang jangka panjang tersebut akan berkurang atau berpindah menjadi liabilitas jangka pendek menjelang pelunasan. Pelaku pasar biasanya mencermati hal ini untuk menilai kecukupan likuiditas perusahaan dalam memenuhi kewajiban tersebut. Karena data yang tersedia hanya judul dan perihal laporan tanpa nilai nominal, penilaian lebih rinci baru bisa dilakukan setelah dokumen lengkap dipublikasikan."
+ },
+ {
   "slug": "humi-catatkan-tambahan-saham-baru-di-bei",
   "category": "Aksi Korporasi",
   "title": "HUMI Catatkan Tambahan [Saham] Baru di BEI",
   "deck": "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan pencatatan saham baru ke Bursa Efek Indonesia. Rincian jumlah dan asal saham belum diungkap dalam laporan awal ini.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
@@ -92,11 +140,82 @@ var ARTICLES = [
   "takeaway": "Pencatatan saham adalah proses administratif di BEI ketika saham baru yang diterbitkan emiten resmi masuk ke dalam daftar saham yang bisa diperdagangkan, sehingga jumlah saham HUMI yang beredar di pasar bertambah. Pelaku pasar biasanya mencermati aksi semacam ini karena penambahan jumlah saham beredar dapat memengaruhi laba per saham dan proporsi kepemilikan pemegang saham lama, meski besar kecilnya efek itu baru bisa dinilai setelah rincian jumlah saham dan tujuan penerbitannya diketahui dari dokumen lengkap."
  },
  {
+  "slug": "kaef-laporkan-perubahan-nama-emiten-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Laporkan [Perubahan] Nama Emiten ke Bursa",
+  "deck": "PT Kimia Farma (Persero) Tbk menyampaikan keterbukaan informasi soal perubahan nama emiten kepada Bursa Efek Indonesia.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T01:37:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af0ff5b4da_ab7494f874.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAEF",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "keterbukaan informasi",
+   "BUMN"
+  ],
+  "body": [
+   "PT Kimia Farma (Persero) Tbk, emiten farmasi dengan kode saham KAEF, menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia pada 10 Agustus 2026 dengan perihal perubahan nama emiten.",
+   "Berdasarkan judul dan perihal laporan yang tercatat di sistem keterbukaan informasi bursa, belum ada rincian mengenai nama baru yang akan digunakan maupun latar belakang perubahan tersebut. Dokumen lengkap laporan diperlukan untuk mengetahui detail lebih jauh, termasuk apakah perubahan ini terkait restrukturisasi kepemilikan, penyesuaian identitas korporasi, atau proses administratif lain.",
+   "Sebagai perusahaan pelat merah yang sahamnya tercatat di bursa, setiap perubahan identitas resmi Kimia Farma tetap perlu disampaikan kepada otoritas bursa dan pemegang saham publik sesuai ketentuan keterbukaan informasi yang berlaku."
+  ],
+  "takeaway": "Perubahan nama emiten adalah aksi korporasi di mana perusahaan mengganti nama resminya yang tercatat di bursa, sesuatu yang lazim terjadi karena rebranding, penyesuaian identitas hukum, atau perubahan struktur kepemilikan, meski dalam laporan ini alasan spesifiknya belum diketahui. Secara fundamental, perubahan nama semata umumnya tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham, karena sifatnya administratif dan bukan transaksi keuangan. Pelaku pasar tetap memperhatikan pengumuman semacam ini karena kadang menjadi penanda awal dari proses korporasi yang lebih besar, seperti perubahan status kepemilikan atau restrukturisasi grup usaha, yang baru bisa dipastikan setelah dokumen lengkap tersedia."
+ },
+ {
+  "slug": "pjhb-catatkan-saham-baru-di-bursa-efek-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "PJHB Catatkan [Saham] Baru di Bursa Efek Indonesia",
+  "deck": "Bursa Efek Indonesia menerima laporan keterbukaan informasi soal pencatatan saham PT Pelayaran Jaya Hidup Baru Tbk (PJHB), namun rincian jumlah dan tujuannya belum tersedia.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T01:37:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/537545357d_64a360d59d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PJHB",
+  "tags": [
+   "PJHB",
+   "pencatatan saham",
+   "BEI",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Pelayaran Jaya Hidup Baru Tbk (PJHB) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia (BEI) pada 10 Agustus 2026 dengan perihal Pencatatan Saham. Laporan yang dipublikasikan baru memuat judul dan perihal, sehingga jumlah saham yang dicatatkan, sumber dananya, serta latar belakang aksi ini belum dapat dipastikan.",
+   "Pencatatan saham di BEI umumnya terjadi ketika emiten menambah jumlah saham yang resmi diperdagangkan di bursa, misalnya sebagai tindak lanjut dari private placement, pelaksanaan waran, program kepemilikan saham karyawan, atau bentuk penambahan modal lain. Tanpa dokumen lengkap, publik belum bisa mengetahui skema mana yang berlaku pada PJHB kali ini.",
+   "The Signal akan menelusuri dokumen lengkap laporan ini untuk memastikan rincian jumlah saham dan latar belakangnya sebelum memberikan gambaran dampak yang lebih pasti kepada pembaca."
+  ],
+  "takeaway": "Pencatatan saham adalah proses administratif di BEI yang membuat sejumlah saham baru resmi bisa diperdagangkan di pasar, biasanya menyusul aksi korporasi seperti private placement, pelaksanaan waran, atau program saham karyawan. Secara fundamental, penambahan saham beredar berpotensi memengaruhi laba per saham karena laba perusahaan yang sama harus dibagi dengan jumlah saham yang lebih banyak, dan juga bisa menambah modal disetor atau ekuitas perusahaan tergantung sumber dana di balik pencatatan tersebut. Karena dokumen lengkap belum tersedia, rincian jumlah saham dan tujuan aksi ini baru bisa dipastikan setelah laporan detailnya dibaca."
+ },
+ {
+  "slug": "pack-catatkan-saham-baru-di-bursa-efek-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "PACK catatkan [saham] baru di Bursa Efek Indonesia",
+  "deck": "BEI mencatatkan penambahan saham PT Abadi Nusantara Hijau Investama Tbk (PACK) pada 10 Agustus 2026, namun rincian jumlah dan asal saham belum diungkap.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T01:34:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/397f7d6139_8843df58bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "pencatatan saham",
+   "BEI",
+   "aksi korporasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencatatkan aksi pencatatan saham baru untuk PT Abadi Nusantara Hijau Investama Tbk dengan kode saham PACK, berdasarkan laporan keterbukaan informasi resmi bertanggal 10 Agustus 2026. Laporan tersebut hanya memuat judul dan perihal \"Pencatatan Saham\" tanpa rincian lebih lanjut mengenai jumlah saham yang dicatatkan maupun aksi korporasi yang mendasarinya.",
+   "Pencatatan saham baru di bursa umumnya merupakan tahap akhir dari sebuah aksi korporasi yang sudah lebih dulu disetujui, misalnya pelaksanaan waran, konversi obligasi menjadi saham, penerbitan saham bonus, rights issue, atau program kepemilikan saham karyawan. Dokumen yang tersedia saat ini belum menyebutkan jenis aksi korporasi yang menjadi dasar pencatatan ini, sehingga detail dampaknya baru bisa dijelaskan setelah dokumen lengkap dari PACK maupun BEI dapat diakses."
+  ],
+  "takeaway": "Pencatatan saham adalah proses BEI memasukkan saham baru ke sistem perdagangan bursa, biasanya sebagai tindak lanjut dari aksi korporasi yang sudah disetujui sebelumnya, bukan aksi korporasi baru yang berdiri sendiri. Yang tersentuh secara fundamental adalah jumlah saham beredar perseroan, karena penambahan saham baru memperbesar basis saham yang dipakai untuk menghitung laba per saham, sehingga bila laba bersih tidak bertambah sebanding, laba per saham berpotensi terdilusi. Pelaku pasar biasanya mencermati pos ini karena memengaruhi proporsi kepemilikan pemegang saham lama dan rasio valuasi yang dihitung per lembar saham."
+ },
+ {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
   "category": "Pasar Modal",
   "title": "Investor Saham RI [Tembus] 10,05 Juta SID di 2026",
   "deck": "BEI mencatat jumlah investor saham naik 16,83 persen sepanjang tahun berjalan, seiring upaya bursa memperluas basis pemodal domestik.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T19:19:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458750-investor-saham-tembus-1005-juta-sid-bei-catat-pertumbuhan-1683-pada-2026",
@@ -161,7 +280,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan",
   "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengoreksi laporan keuangan tahunan yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T17:01:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
@@ -382,7 +501,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Dibuka Turun [Rp20 Ribu] per Gram di Awal Agustus",
   "deck": "Harga emas batangan Antam terkoreksi di hari pertama Agustus 2026, memutus tren penguatan pekan sebelumnya.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
   "tags": [
@@ -403,7 +522,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Saham Telekomunikasi Jadi Incaran, Analis Soroti Kebutuhan [Infrastruktur]",
   "deck": "Minat investor terhadap emiten telekomunikasi meningkat, namun analis mengingatkan pembangunan infrastruktur jaringan masih perlu digenjot.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457076-saham-sektor-telekomunikasi-tarik-minat-investor-infrastruktur-perlu-ditingkatkan",
   "tags": [
@@ -529,7 +648,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Bumi Resources Buka Kinerja [Semester I], Batu Bara Masih Jadi Andalan",
   "deck": "Eksportir batu bara termal terbesar dunia asal Indonesia ini merilis laporan keuangan belum diaudit untuk paruh pertama 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457054-bumi-resources-umumkan-kinerja-keuangan-semester-i-2026",
   "tags": [
@@ -1054,7 +1173,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Naik [Rp15 Ribu], Harga Buyback Ikut Terangkat",
   "deck": "Harga emas batangan Antam menguat pada perdagangan 30 Juli 2026, diikuti kenaikan harga buyback.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik",
   "tags": [
@@ -1327,7 +1446,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
   "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
   "tags": [
@@ -1432,7 +1551,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
   "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
   "tags": [
@@ -1579,7 +1698,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
   "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
   "tags": [
@@ -1705,7 +1824,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
   "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
   "tags": [
@@ -1726,7 +1845,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Turun [Rp9.000] per Gram",
   "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
   "tags": [

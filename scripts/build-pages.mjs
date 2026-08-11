@@ -371,17 +371,58 @@ if (yatimBerita || yatimVideo) {
 // index/berita/video ditulis tangan, jadi tag <script>/<link>-nya tidak ikut
 // diberi ?v= otomatis. Tanpa ini beranda bisa memuat shared.js lama dari
 // cache sehingga bagian yang dirender JS (kartu pasar) tampak kosong.
-function versiHalamanRoot() {
+// index.html, berita.html, dan video.html ditulis tangan, bukan hasil generate,
+// jadi perubahan global tidak otomatis sampai ke sana. Ini sudah dua kali
+// menggigit: pertama versi aset (?v=) yang basi sehingga pengunjung dapat JS
+// lama, kedua alamat domain yang tertinggal di og:image dan og:url setelah
+// pindah ke the-signal.id. Karena itu fungsi ini menyelaraskan keduanya dan
+// diakhiri pemeriksaan yang berisik kalau masih ada yang lolos.
+function selaraskanHalamanRoot() {
+  const HOST_LAMA = /https:\/\/the-signal-sandy\.vercel\.app/g;
   for (const f of ['index.html', 'berita.html', 'video.html']) {
     const p = path.join(ROOT, f);
     if (!fs.existsSync(p)) continue;
     let h = fs.readFileSync(p, 'utf8');
     const sebelum = h;
     h = h.replace(/(assets\/(?:css|js)\/[a-z-]+\.(?:css|js))(\?v=[a-f0-9]+)?/g, '$1?v=' + VER);
+    h = h.replace(HOST_LAMA, BASE);
     if (h !== sebelum) fs.writeFileSync(p, h, 'utf8');
   }
 }
-versiHalamanRoot();
+selaraskanHalamanRoot();
+
+// Penjaga: alamat absolut apa pun di halaman root yang bukan BASE berarti ada
+// yang tertinggal. Lebih baik build-nya gagal daripada situs terbit dengan
+// og:image menunjuk domain lama, karena kesalahan itu tidak kelihatan sampai
+// ada yang membagikan tautannya.
+function periksaHalamanRoot() {
+  const salah = [];
+  for (const f of ['index.html', 'berita.html', 'video.html']) {
+    const p = path.join(ROOT, f);
+    if (!fs.existsSync(p)) continue;
+    const h = fs.readFileSync(p, 'utf8');
+    // Hanya metadata yang MERUJUK DIRI SENDIRI yang diperiksa. Tautan keluar
+    // di badan halaman (adsmediamix.id, Instagram, X, sumber berita) memang
+    // seharusnya ke domain lain, jadi jangan ikut dinilai.
+    const pola = [
+      /<meta\s+property="og:(?:url|image)"\s+content="(https?:\/\/[^"\/]+)/g,
+      /<meta\s+property="og:image:secure_url"\s+content="(https?:\/\/[^"\/]+)/g,
+      /<meta\s+name="twitter:image"\s+content="(https?:\/\/[^"\/]+)/g,
+      /<link\s+rel="canonical"\s+href="(https?:\/\/[^"\/]+)/g,
+    ];
+    for (const re of pola) {
+      for (const m of h.matchAll(re)) {
+        if (m[1] !== BASE) salah.push(f + ' -> ' + m[1]);
+      }
+    }
+  }
+  if (salah.length) {
+    console.error('GAGAL: alamat absolut di halaman root tidak cocok dengan ' + BASE);
+    salah.forEach(s => console.error('  ' + s));
+    process.exit(1);
+  }
+}
+periksaHalamanRoot();
 
 // ---------- sitemap ----------
 const urls = ['/', '/berita.html', '/video.html']

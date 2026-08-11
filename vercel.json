@@ -5,6 +5,14 @@
   "outputDirectory": ".",
   "framework": null,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.the-signal.id" }],
+      "destination": "https://the-signal.id/$1",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/assets/img/(.*)",

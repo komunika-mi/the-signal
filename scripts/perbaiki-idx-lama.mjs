@@ -31,7 +31,7 @@ async function main() {
   //    karena IDX membalas halaman tantangan Cloudflare. Artikelnya jadi
   //    mengaku sendiri bahwa rinciannya belum terbaca. Golongan ini punya
   //    "sentimen" sehingga lolos dari saringan lama.
-  const MENGAKU_KOSONG = /belum terbaca|belum terungkap|tidak terbaca|belum dapat dipastikan|belum diperoleh|baru berupa judul|dokumen lengkap/i;
+  const MENGAKU_KOSONG = /belum terbaca|belum terungkap|tidak terbaca|belum dapat dipastikan|belum diperoleh|baru berupa judul|dokumen lengkap|belum bisa dibaca|belum berhasil diekstraksi|tidak berhasil dibaca|rinciannya belum diketahui/i;
   const perlu = semua.filter(a =>
     a.sourceLabel === 'IDX' && /\.pdf/i.test(a.sourceUrl || '') &&
     (!a.sentimen || MENGAKU_KOSONG.test(a.title + JSON.stringify(a.body) + a.takeaway)));

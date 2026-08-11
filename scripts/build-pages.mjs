@@ -90,6 +90,39 @@ const KARTU_PASAR = MARKET
     '</div>'
   : "";
 
+// WhatsApp memotong og:description di sekitar 108 karakter, dan potongannya
+// jatuh di tengah kata. Deck artikel median 122 karakter, jadi 61% preview
+// terputus seperti "...kini jadi penentu ut". Karena tautan artikel yang paling
+// sering dibagikan, itu terlihat sembrono.
+//
+// Dipotong sendiri di batas kata supaya berhenti rapi. Yang dipotong HANYA
+// og:description dan twitter:description; meta description untuk Google tetap
+// utuh karena batasnya jauh lebih longgar (~155) dan teks lebih panjang justru
+// membantu di hasil pencarian.
+// Kredit wajib ikut terbaca saat dibagikan. Halaman beranda, indeks berita,
+// dan video sudah memuatnya sendiri; halaman artikel dan tayangan memakai deck
+// yang tidak menyebut kredit sama sekali, padahal tautan artikel yang paling
+// sering dibagikan. Jadi kredit ditempelkan di sini.
+const KREDIT = ' · didukung adsmediamix.id';
+
+function ringkasBagikan(t, maks = 104) {
+  const s = String(t || '').replace(/\s+/g, ' ').trim();
+  if (s.length <= maks) return s;
+  const potong = s.slice(0, maks);
+  const spasi = potong.lastIndexOf(' ');
+  // kalau spasi terakhir terlalu awal, potong keras daripada menyisakan sepatah kata
+  const inti = spasi > maks * 0.6 ? potong.slice(0, spasi) : potong;
+  return inti.replace(/[,;:.\s]+$/, '') + '…';
+}
+
+// Ringkasan + kredit, dijaga tetap di bawah batas potong WhatsApp (~108).
+// Ringkasannya dijatah 76 karakter supaya kredit yang 26 karakter selalu utuh;
+// konsekuensinya ringkasan artikel jadi lebih pendek, dan itu memang pilihan
+// sadar: kredit yang hilang lebih merugikan daripada ringkasan yang terpangkas.
+function bagikanDenganKredit(t) {
+  return ringkasBagikan(t, 76) + KREDIT;
+}
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -106,7 +139,7 @@ function head(o) {
 <meta property="og:site_name" content="The Signal">
 <meta property="og:locale" content="id_ID">
 <meta property="og:title" content="${esc(o.title)}">
-<meta property="og:description" content="${esc(o.desc)}">
+<meta property="og:description" content="${esc(bagikanDenganKredit(o.desc))}">
 <meta property="og:image" content="${o.image}">
 <meta property="og:image:secure_url" content="${o.image}">
 <meta property="og:image:type" content="image/jpeg">
@@ -116,7 +149,7 @@ function head(o) {
 <meta property="og:url" content="${BASE}${o.url}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(o.title)}">
-<meta name="twitter:description" content="${esc(o.desc)}">
+<meta name="twitter:description" content="${esc(bagikanDenganKredit(o.desc))}">
 <meta name="twitter:image" content="${o.image}">
 <link rel="stylesheet" href="/assets/css/style.css?v=${VER}">
 ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + '</script>' : ''}

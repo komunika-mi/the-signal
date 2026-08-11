@@ -134,7 +134,7 @@ const BOILERPLATE = [
 // selamanya, dan itu benar-benar terjadi pada 6 artikel di putaran
 // 2026-08-11: kelimanya berhasil dibaca saat dicoba lagi beberapa menit
 // kemudian. Jadi menyerah pada percobaan pertama adalah kesalahan.
-export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 3 } = {}) {
+export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5 } = {}) {
   if (!url || !/\.pdf/i.test(url)) return '';
 
   const tmp = path.join(os.tmpdir(), 'idx-' + Buffer.from(url).toString('base64url').slice(-24) + '.pdf');
@@ -142,7 +142,7 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 3 } = {
 
   try {
     for (let i = 0; i < percobaan; i++) {
-      if (i > 0) tidurSebentar(1500 * i);
+      if (i > 0) tidurSebentar(2500 * i);   // 2,5s, 5s, 7,5s, 10s
       try {
         execFileSync('curl', [
           '-s', '-L', '--compressed', '--max-time', '45',

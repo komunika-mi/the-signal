@@ -32,15 +32,29 @@ async function main() {
   log('kandidat setelah buang yang sudah ada: ' + kandidat.length);
 
   const baru = [];
-  let gagalError = 0, ditolak = 0, errorTerakhir = '';
+  let gagalError = 0, ditolak = 0, dilewatiDokumen = 0, errorTerakhir = '';
 
   for (const k of kandidat) {
     if (baru.length >= TARGET) break;
     try {
-      // Baca dulu isi PDF-nya. Kalau gagal, berita tetap ditulis dari judul
-      // saja, cuma jadi lebih tipis. Satu lampiran rusak tidak boleh
-      // menjatuhkan seluruh putaran.
+      // Baca isi PDF-nya. Kalau GAGAL, laporan ini DILEWATI, bukan ditulis
+      // tipis dari judul saja.
+      //
+      // Dulu kegagalan baca tetap diterbitkan dan hasilnya memalukan: muncul
+      // judul "AVIA Rilis Siaran Pers, Isi Dokumen Belum Bisa Dibaca" dengan
+      // badan berita yang mengaku "rinciannya belum diketahui". Itu bukan
+      // berita, dan pembaca tidak dapat apa-apa. Padahal dokumennya sendiri
+      // baik-baik saja, cuma satu unduhan yang kena tantangan Cloudflare.
+      //
+      // Aturannya sekarang tegas: tidak ada isi dokumen, tidak ada berita.
+      // Laporan yang dilewati tetap ada di IDX dan akan jadi kandidat lagi
+      // di putaran berikutnya, jadi tidak ada yang benar-benar hilang.
       k.isiDokumen = ambilIsiLampiran(k.lampiran);
+      if (!k.isiDokumen) {
+        dilewatiDokumen++;
+        log('  LEWATI ' + (k.emiten || '----') + ': lampiran tidak terbaca, tidak diterbitkan');
+        continue;
+      }
       k.angka = k.isiDokumen ? bacaAngkaKepemilikan(k.isiDokumen) : null;
       if (k.isiDokumen) {
         // persenDariKepemilikan bisa null kalau kepemilikan awal 0, misalnya
@@ -96,6 +110,7 @@ async function main() {
     '// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.\n' +
     '// Dibuat otomatis - jangan diedit manual.');
 
+  if (dilewatiDokumen) log('CATATAN: ' + dilewatiDokumen + ' laporan dilewati karena lampirannya tidak terbaca; akan dicoba lagi putaran berikutnya');
   log('arsip baru: ' + semua.length + ' artikel (+' + baru.length + ' aksi korporasi)');
   execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
   log('=== selesai ===');

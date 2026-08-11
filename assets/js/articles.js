@@ -93,8 +93,8 @@ var ARTICLES = [
  {
   "slug": "labs-rencanakan-buyback-saham-saat-pasar-bergejolak",
   "category": "Aksi Korporasi",
-  "title": "LABS rencanakan [buyback] saham saat pasar bergejolak",
-  "deck": "PT UBC Medical Indonesia Tbk (LABS) menyampaikan keterbukaan informasi soal rencana pembelian kembali saham di tengah kondisi pasar yang berfluktuasi signifikan.",
+  "title": "LABS siapkan rencana [buyback] saham saat pasar bergejolak",
+  "deck": "PT UBC Medical Indonesia Tbk (LABS) menyampaikan keterbukaan informasi soal rencana pembelian kembali saham di tengah fluktuasi pasar, memakai skema khusus tanpa persetujuan RUPS.",
   "image": "assets/img/gong-pencatatan.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T17:13:34",
@@ -103,22 +103,23 @@ var ARTICLES = [
   "emiten": "LABS",
   "tags": [
    "LABS",
-   "buyback",
-   "pasar modal",
-   "IDX"
+   "buyback saham",
+   "UBC Medical Indonesia",
+   "keterbukaan informasi"
   ],
   "body": [
-   "PT UBC Medical Indonesia Tbk dengan kode saham LABS menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia terkait rencana pembelian kembali (buyback) saham perseroan, sehubungan dengan kondisi pasar yang dinilai berfluktuasi signifikan. Laporan ini disampaikan pada 10 Agustus 2026.",
-   "Rincian teknis dari rencana ini, seperti jumlah maksimal saham yang akan dibeli kembali, alokasi dana yang dianggarkan, periode pelaksanaan, serta dasar hukum yang dipakai, belum dapat diuraikan di sini karena isi dokumen PDF resmi tidak berhasil diekstraksi secara otomatis. Yang tersedia sejauh ini hanya judul dan perihal laporan."
+   "PT UBC Medical Indonesia Tbk (LABS), emiten distributor alat kesehatan, menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia terkait rencana pembelian kembali atau buyback saham perseroan dalam kondisi pasar yang berfluktuasi signifikan. Surat bernomor 040/CS-MM/LABS/VIII/26 itu diteken Direktur Utama Franciscus Xaverius Yoshua Raintjung pada 10 Agustus 2026 pukul 17.13 WIB.",
+   "Dalam surat tersebut, manajemen menegaskan bahwa rencana buyback ini tidak berdampak material negatif terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Jenis keterbukaan informasi ini merujuk pada ketentuan khusus Otoritas Jasa Keuangan yang mengizinkan emiten membeli kembali sahamnya sendiri di pasar tanpa lebih dulu meminta persetujuan Rapat Umum Pemegang Saham, sepanjang kondisi pasar sedang mengalami gejolak signifikan.",
+   "Perseroan belum mencantumkan besaran dana, jumlah saham yang ditargetkan untuk dibeli kembali, kisaran harga, maupun jangka waktu pelaksanaan dalam surat keterbukaan ini. Detail teknis tersebut, menurut dokumen, disampaikan lewat lampiran terpisah bernomor 040_LABS_KI_Buyback.pdf yang menyertai laporan resmi kepada bursa."
   ],
-  "takeaway": "Pembelian kembali saham (buyback) adalah aksi korporasi ketika perusahaan membeli sahamnya sendiri dari pasar, yang lazim dilakukan emiten saat harga saham dianggap terlalu bergejolak atau tertekan agar pasokan di pasar berkurang. Aksi ini biasanya menyentuh pos jumlah saham beredar, yang bisa turun, serta kas perusahaan yang berkurang untuk membiayai pembelian, dua hal yang lazim diperhatikan pelaku pasar karena berpotensi memengaruhi laba per saham ke depan. Penilaian redaksi untuk laporan ini netral, karena detail penting seperti jumlah dana yang dianggarkan dan jumlah saham yang ditargetkan belum tersedia, rincian tersebut baru bisa dinilai setelah dokumen lengkap berhasil dibaca.",
+  "takeaway": "Aksi korporasi ini adalah pemberitahuan awal rencana pembelian kembali saham oleh perseroan, memakai skema khusus yang membolehkan emiten membeli balik sahamnya di pasar saat kondisi bergejolak tanpa menunggu persetujuan RUPS lebih dulu. Pos yang berpotensi tersentuh adalah kas dan setara kas perusahaan yang dipakai untuk membeli saham, serta jumlah saham beredar yang bisa berkurang dan berpengaruh pada laba per saham jika rencana ini benar-benar direalisasikan. Penilaian kami netral, karena surat ini baru sebatas pemberitahuan rencana dan belum memuat angka anggaran, jumlah saham, atau periode pelaksanaan, sehingga besaran dampaknya terhadap kinerja keuangan LABS belum bisa diukur sampai rincian pada lampiran resmi diumumkan lebih lanjut.",
   "sentimen": "netral"
  },
  {
   "slug": "csis-perubahan-kepemilikan-saham-oleh-tjoea-aubintoro",
   "category": "Aksi Korporasi",
-  "title": "CSIS: [Perubahan] Kepemilikan Saham oleh Tjoea Aubintoro",
-  "deck": "Tjoea Aubintoro melaporkan perubahan kepemilikan saham PT Cahayasakti Investindo Sukses Tbk (CSIS) ke BEI, namun rincian dokumen belum bisa diekstraksi.",
+  "title": "CSIS: Direksi Tjoea Aubintoro [Tambah] Kepemilikan Saham",
+  "deck": "Direksi CSIS, Tjoea Aubintoro, membeli 586.200 saham pada 10 Agustus 2026 sehingga hak suaranya naik dari 0,40 persen menjadi 0,44 persen.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T17:06:02",
@@ -128,22 +129,21 @@ var ARTICLES = [
   "tags": [
    "CSIS",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "Tjoea Aubintoro"
+   "direksi",
+   "keterbukaan informasi"
   ],
   "body": [
-   "PT Cahayasakti Investindo Sukses Tbk (CSIS) menyampaikan laporan keterbukaan informasi ke Bursa Efek Indonesia pada 10 Agustus 2026 terkait kepemilikan atau perubahan kepemilikan saham perseroan atas nama Tjoea Aubintoro. Laporan semacam ini wajib disampaikan setiap kali terjadi perubahan pada jumlah saham yang dimiliki pihak terafiliasi dengan emiten, sesuai ketentuan keterbukaan informasi di pasar modal.",
-   "Sayangnya, isi lengkap dokumen PDF yang menyertai laporan ini tidak berhasil diekstraksi, sehingga rincian penting seperti jumlah saham sebelum dan sesudah transaksi, selisih kepemilikan, harga, tanggal transaksi, maupun tujuan dari perubahan kepemilikan tersebut belum dapat disampaikan. Hanya judul dan pihak pelapor, yaitu Tjoea Aubintoro, yang tercatat dalam data yang tersedia.",
-   "The Signal akan memperbarui pemberitaan ini begitu detail dokumen resmi berhasil diperoleh dan dibaca secara lengkap."
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS) melaporkan perubahan kepemilikan saham oleh Tjoea Aubintoro, yang menjabat sebagai anggota Direksi perusahaan. Berdasarkan laporan kepada Otoritas Jasa Keuangan tertanggal 10 Agustus 2026, jumlah saham yang dimiliki Tjoea Aubintoro bertambah dari 7.394.100 lembar menjadi 7.980.300 lembar, atau naik 586.200 lembar. Dengan penambahan ini, hak suaranya di CSIS naik dari 0,40 persen menjadi 0,44 persen.",
+   "Penambahan saham tersebut dilakukan melalui tiga transaksi pembelian tidak langsung pada tanggal yang sama, 10 Agustus 2026, dengan tujuan investasi. Rinciannya, 338.400 lembar saham biasa dibeli seharga Rp198 per saham, 149.700 lembar seharga Rp200 per saham, dan 98.100 lembar seharga Rp195 per saham. Ketiga transaksi ini dilaporkan sebagai bagian dari kewajiban keterbukaan informasi sesuai POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka."
   ],
-  "takeaway": "Laporan ini merupakan kewajiban keterbukaan informasi setiap kali ada perubahan kepemilikan saham oleh pihak terafiliasi emiten, termasuk komisaris, direksi, atau pemegang saham utama. Pos yang biasanya tersentuh oleh jenis aksi ini adalah komposisi pemegang saham dan hak suara di CSIS, yang menjadi perhatian pelaku pasar karena bisa mengindikasikan perubahan struktur pengendalian perusahaan. Karena isi dokumen belum berhasil dibaca, besaran perubahan kepemilikan belum diketahui, sehingga penilaian untuk saat ini netral, menunggu rincian jumlah saham dan persentase kepemilikan dari dokumen lengkap sebelum bisa dinilai signifikan atau tidaknya bagi struktur pemegang saham CSIS.",
+  "takeaway": "Laporan ini adalah kewajiban rutin bagi direksi dan komisaris perusahaan terbuka untuk melaporkan setiap perubahan kepemilikan sahamnya ke OJK. Karena transaksi terjadi di pasar sekunder antar investor, pos yang tersentuh hanya komposisi pemegang saham dan hak suara direksi, bukan ekuitas, kas, atau laba per saham perusahaan, sebab tidak ada saham baru yang diterbitkan maupun dana yang masuk ke kas CSIS. Secara fundamental penilaian ini netral, karena kenaikan hak suara dari 0,40 persen menjadi 0,44 persen masih sangat kecil terhadap total saham beredar perusahaan, sehingga terlalu tipis untuk dibaca sebagai sinyal kuat soal keyakinan insider terhadap prospek CSIS.",
   "sentimen": "netral"
  },
  {
   "slug": "ptro-beri-penjelasan-atas-permintaan-bursa",
   "category": "Aksi Korporasi",
-  "title": "PTRO Beri [Penjelasan] atas Permintaan Bursa",
-  "deck": "Petrosea (PTRO) menyampaikan penjelasan resmi atas permintaan klarifikasi Bursa Efek Indonesia, namun isi dokumennya belum berhasil dibaca sehingga rinciannya belum diketahui.",
+  "title": "PTRO Beri [Tanggapan] ke BEI soal Investasi Singaraja Putra",
+  "deck": "Petrosea Tbk menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait transaksi material dan afiliasi serta investasi di Singaraja Putra.",
   "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:58:38",
@@ -153,21 +153,22 @@ var ARTICLES = [
   "tags": [
    "PTRO",
    "Petrosea",
-   "keterbukaan informasi",
-   "penjelasan bursa"
+   "Bursa Efek Indonesia",
+   "Transaksi Afiliasi"
   ],
   "body": [
-   "Petrosea Tbk (PTRO) menyampaikan keterbukaan informasi berjudul 'Penjelasan atas Permintaan Penjelasan Bursa' kepada Bursa Efek Indonesia pada 10 Agustus 2026 pukul 16.58 WIB. Laporan ini merupakan tanggapan resmi perusahaan atas permintaan klarifikasi yang diajukan otoritas bursa, sebagaimana lazim terjadi ketika BEI meminta emiten menjelaskan hal tertentu yang dianggap perlu diklarifikasi kepada publik.",
-   "Isi lengkap dokumen PDF resmi laporan ini belum berhasil diekstraksi, sehingga rincian substansi penjelasan yang disampaikan manajemen Petrosea, baik itu menyangkut kondisi operasional, rencana transaksi, pergerakan harga saham, maupun klarifikasi atas informasi lain yang beredar di pasar, belum dapat disampaikan. Data yang tersedia untuk saat ini baru sebatas judul dan metadata laporan."
+   "PT Petrosea Tbk (PTRO) menyampaikan surat tanggapan kepada Bursa Efek Indonesia pada 10 Agustus 2026 pukul 16.58 WIB, menjawab permintaan penjelasan yang dikirim otoritas bursa. Permintaan itu merujuk pada dua surat sebelumnya dari Petrosea, yakni surat tanggal 2 Juli 2026 perihal keterbukaan informasi sehubungan dengan transaksi material dan transaksi afiliasi, serta surat tanggal 24 Juli 2026 berupa siaran pers mengenai penguatan posisi strategis Petrosea di sektor pertambangan melalui investasi di Singaraja Putra.",
+   "Dalam suratnya, manajemen Petrosea menyatakan bursa memandang perlu meminta penjelasan lebih lanjut atas kedua hal tersebut, dan Petrosea merespons melalui dokumen bertajuk PTRO_Tanggapan BEI.pdf yang dilampirkan sebagai satu berkas terpisah. Surat resmi ini ditandatangani secara elektronik oleh Anto Broto selaku pejabat yang berwenang (approver) mewakili perseroan, tanpa memerlukan tanda tangan basah karena diterbitkan melalui sistem pelaporan elektronik bursa.",
+   "Isi rinci jawaban Petrosea atas pertanyaan bursa, termasuk detail transaksi material dan afiliasi maupun struktur investasi di Singaraja Putra, tercantum dalam lampiran PDF yang terpisah dan tidak tercakup dalam kutipan dokumen yang tersedia untuk laporan ini. Dokumen yang beredar baru berupa surat pengantar yang mengonfirmasi bahwa tanggapan telah disampaikan kepada bursa."
   ],
-  "takeaway": "Permintaan penjelasan dari bursa adalah mekanisme rutin BEI untuk meminta emiten mengonfirmasi atau mengklarifikasi suatu hal, mulai dari pergerakan harga saham yang tidak wajar hingga informasi material yang beredar di publik, dan laporan ini adalah balasan resmi Petrosea atas permintaan tersebut. Pos kinerja yang tersentuh baru bisa dipetakan setelah diketahui apa yang sebenarnya ditanyakan bursa, karena bisa menyangkut hal seringan konfirmasi rumor hingga seserius rencana aksi korporasi yang berdampak pada ekuitas atau arus kas. Karena isi dokumen belum berhasil dibaca dan rinciannya belum tersedia, penilaian untuk laporan ini adalah netral, menunggu dokumen lengkap agar substansi penjelasan Petrosea dapat dinilai secara fundamental.",
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah proses pengawasan rutin bursa. Setelah Petrosea mengumumkan investasi di Singaraja Putra yang tergolong transaksi material dan afiliasi, BEI meminta penjelasan tambahan dan Petrosea meresponsnya secara resmi. Pos yang berpotensi tersentuh adalah struktur permodalan dan arus kas investasi Petrosea, serta tata kelola terkait transaksi dengan pihak berelasi, yang menjadi perhatian pelaku pasar karena berpotensi menimbulkan benturan kepentingan jika tidak dikelola secara wajar. Karena isi substantif tanggapan Petrosea, seperti nilai transaksi, struktur kepemilikan di Singaraja Putra, atau syarat investasi, belum tercakup dalam dokumen yang tersedia, penilaian fundamentalnya netral. Publik masih perlu menunggu detail lengkap dari lampiran PTRO_Tanggapan BEI.pdf untuk menilai apakah transaksi ini menguntungkan atau membebani perseroan.",
   "sentimen": "netral"
  },
  {
   "slug": "irra-laporkan-perubahan-alamat-dan-nomor-telepon-kantor",
   "category": "Aksi Korporasi",
-  "title": "IRRA Laporkan [Perubahan] Alamat dan Nomor Telepon Kantor",
-  "deck": "PT Itama Ranoraya Tbk (IRRA) menyampaikan keterbukaan informasi soal perubahan alamat dan nomor telepon perusahaan kepada BEI.",
+  "title": "IRRA Ubah Alamat Kantor Pusat, Pindah ke [ITS Tower] Jaksel",
+  "deck": "PT Itama Ranoraya Tbk (IRRA) melaporkan perubahan alamat kantor pusat dari Jakarta Timur ke ITS Tower, Pejaten Timur, Jakarta Selatan, efektif sejak 5 Juni 2026.",
   "image": "assets/img/tanda-tangan-akta.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:57:36",
@@ -176,22 +177,22 @@ var ARTICLES = [
   "emiten": "IRRA",
   "tags": [
    "IRRA",
-   "perubahan alamat",
+   "Itama Ranoraya",
    "keterbukaan informasi",
-   "administratif"
+   "perubahan alamat"
   ],
   "body": [
-   "PT Itama Ranoraya Tbk (IRRA) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia perihal perubahan alamat dan nomor telepon perusahaan, tertanggal 10 Agustus 2026. Laporan semacam ini merupakan kewajiban emiten setiap kali data korespondensi resmi mereka berubah, agar publik dan otoritas bursa memiliki alamat kontak yang mutakhir.",
-   "Rincian lengkap mengenai alamat baru, nomor telepon baru, serta alasan perpindahan belum dapat disampaikan karena dokumen sumber dari perusahaan belum berhasil dibaca sepenuhnya. Detail tersebut baru bisa diuraikan setelah salinan lengkap dokumen tersedia."
+   "PT Itama Ranoraya Tbk (IRRA) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia perihal perubahan alamat kantor pusat perusahaan, yang berlaku efektif sejak 5 Juni 2026. Laporan bernomor 039/IRR/CS/Jkt/VIII/2026 itu ditandatangani secara elektronik oleh Viertin Maretson Lumban Tobing selaku Corporate Secretary perseroan, dengan tanggal pelaporan 10 Agustus 2026.",
+   "Alamat kantor pusat IRRA sebelumnya berada di Gedung MT. Haryono Square Lantai 1 Unit I, Jalan Otto Iskandardinata Raya No. 390, Bidara Cina, Jatinegara, Jakarta Timur. Kini perseroan pindah ke ITS Tower Lantai 21, Niffaro Park, Jalan KH Guru Amin No. 18, Pejaten Timur, Pasar Minggu, Jakarta Selatan. Sementara itu, nomor telepon (021) 29067207, nomor faksimile (021) 29067208, alamat surel corsec@itama.co.id, situs web resmi, serta NPWP perseroan tidak mengalami perubahan."
   ],
-  "takeaway": "Aksi ini adalah pembaruan data administratif, yaitu perubahan alamat kantor dan nomor telepon PT Itama Ranoraya Tbk yang dilaporkan ke BEI sebagaimana diwajibkan bagi setiap emiten. Perubahan semacam ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, namun tetap relevan bagi pemegang saham sebagai pembaruan saluran komunikasi resmi perusahaan. Penilaian kami netral, karena laporan ini murni administratif dan tidak mengandung indikasi dampak fundamental, sementara rincian lebih jauh belum bisa dinilai karena isi dokumen belum terbaca secara utuh.",
+  "takeaway": "Laporan ini merupakan pemberitahuan administratif soal perpindahan alamat kantor pusat IRRA dari Jakarta Timur ke Jakarta Selatan, tanpa disertai perubahan struktur usaha maupun kegiatan operasional. Dari sisi kinerja, tidak ada pos yang tersentuh langsung seperti ekuitas, arus kas, jumlah saham beredar, atau laba per saham, karena ini semata soal domisili kantor, bukan transaksi keuangan atau korporasi. Penilaian kami netral, sebab laporan ini hanya memenuhi kewajiban keterbukaan informasi rutin dan tidak memberi indikasi apa pun terhadap prospek fundamental perseroan.",
   "sentimen": "netral"
  },
  {
   "slug": "avia-rilis-siaran-pers-isi-dokumen-belum-bisa-dibaca",
   "category": "Aksi Korporasi",
-  "title": "AVIA Rilis [Siaran Pers], Isi Dokumen Belum Bisa Dibaca",
-  "deck": "PT Avia Avian Tbk menyampaikan siaran pers ke BEI pada 10 Agustus 2026, namun isi dokumen belum berhasil diekstraksi sehingga rinciannya belum diketahui.",
+  "title": "AVIA Publikasikan Siaran Pers Program [Kepatuhan] Persaingan Usaha",
+  "deck": "PT Avia Avian Tbk (AVIA) menyampaikan siaran pers soal program kepatuhan persaingan usaha bersama KPPU, tanpa mencantumkan dampak finansial atau operasional.",
   "image": "assets/img/ruang-direksi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:45:20",
@@ -200,15 +201,16 @@ var ARTICLES = [
   "emiten": "AVIA",
   "tags": [
    "AVIA",
-   "Avia Avian",
-   "siaran pers",
-   "keterbukaan informasi"
+   "keterbukaan informasi",
+   "KPPU",
+   "tata kelola perusahaan"
   ],
   "body": [
-   "PT Avia Avian Tbk (AVIA) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia berupa siaran pers pada 10 Agustus 2026 pukul 16.45 WIB. Berdasarkan data yang diterima, dokumen tersebut hanya tercatat dengan perihal umum sebagai siaran pers, tanpa keterangan lebih lanjut mengenai isi atau maksud penyampaiannya.",
-   "Sistem ekstraksi belum berhasil membaca isi lengkap dokumen PDF yang dilampirkan perusahaan, sehingga detail seperti pihak yang terlibat, angka, tanggal pelaksanaan, atau tujuan dari siaran pers ini belum dapat disampaikan. Pembaca yang membutuhkan kepastian isi laporan disarankan menunggu pembaruan setelah dokumen lengkap berhasil diakses."
+   "PT Avia Avian Tbk (AVIA) menyampaikan laporan keterbukaan informasi kepada bursa pada 10 Agustus 2026 pukul 16.45 WIB, ditandatangani secara elektronik oleh Direktur Kurnia Hadi Sinanto. Laporan bernomor surat 080/AA/CORSEC/VIII/2026 ini berisi satu lampiran berupa siaran pers resmi perusahaan berjudul Avian Brands Perkuat Budaya Kepatuhan dan Tata Kelola Perusahaan melalui Program Kepatuhan Persaingan Usaha KPPU.",
+   "Dalam uraian informasi yang disampaikan ke bursa, perusahaan menyatakan bahwa siaran pers tersebut menjelaskan langkah penguatan budaya kepatuhan dan tata kelola perusahaan melalui program kepatuhan persaingan usaha yang dijalankan bersama Komisi Pengawas Persaingan Usaha (KPPU). Dokumen keterbukaan informasi ini sendiri tidak merinci lebih lanjut bentuk konkret program tersebut, seperti pelatihan internal, audit kepatuhan, atau tindak lanjut dari kasus tertentu, karena rinciannya berada di dalam lampiran siaran pers yang terpisah.",
+   "Pada kolom dampak kejadian terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha, perusahaan mengisinya dengan tanda strip, yang berarti tidak ada dampak material yang dilaporkan sehubungan dengan penerbitan siaran pers ini."
   ],
-  "takeaway": "Dokumen ini berupa siaran pers resmi yang disampaikan AVIA ke BEI, namun isi lengkapnya belum berhasil diekstraksi sehingga jenis aksi korporasi yang sebenarnya belum bisa dipastikan. Karena itu, pos kinerja perusahaan yang tersentuh, baik ekuitas, arus kas, maupun metrik operasional lainnya, juga belum dapat diidentifikasi. Penilaian untuk laporan ini adalah netral, bukan karena isinya terbukti tidak signifikan, melainkan karena data yang tersedia belum cukup untuk menilai dampaknya terhadap fundamental perusahaan. Penilaian akan lebih akurat setelah dokumen lengkap berhasil dibaca.",
+  "takeaway": "Aksi ini pada dasarnya adalah pengumuman komunikasi publik perusahaan, bukan transaksi korporasi, yakni AVIA memberi tahu bursa bahwa mereka merilis siaran pers soal penguatan program kepatuhan terhadap aturan persaingan usaha bersama KPPU. Pos kinerja yang berpotensi tersentuh oleh isu semacam ini adalah eksposur risiko hukum dan regulasi, karena pelaku pasar biasanya mencermati program kepatuhan persaingan usaha sebagai indikator mitigasi risiko sanksi atau denda KPPU di masa depan, meski keterbukaan ini sendiri tidak menyebut sanksi, denda, atau kasus tertentu. Secara fundamental, laporan ini dinilai netral karena tidak memuat angka, nilai transaksi, atau dampak keuangan apa pun, dan perusahaan sendiri secara eksplisit menyatakan tidak ada dampak terhadap operasional, hukum, keuangan, maupun kelangsungan usaha.",
   "sentimen": "netral"
  },
  {
@@ -264,7 +266,7 @@ var ARTICLES = [
   "slug": "mppa-ubah-anggaran-dasar-rincian-perubahan-belum-terungkap",
   "category": "Aksi Korporasi",
   "title": "MPPA Ubah [Anggaran Dasar] Usai Rights Issue Kedelapan",
-  "deck": "Matahari Putra Prima melaporkan perubahan anggaran dasar terkait hasil HMETD kedelapan, namun rincian isi perubahan belum diungkap dalam laporan ke bursa.",
+  "deck": "MPPA melaporkan perubahan anggaran dasar ke BEI pada 10 Agustus 2026 sebagai tindak lanjut rights issue kedelapan (HMETD VIII), tanpa rincian angka modal baru.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:31:20",
@@ -275,14 +277,14 @@ var ARTICLES = [
    "MPPA",
    "anggaran dasar",
    "rights issue",
-   "HMETD"
+   "HMETD VIII"
   ],
   "body": [
-   "PT Matahari Putra Prima Tbk (MPPA), pengelola jaringan ritel Hypermart, menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia perihal perubahan anggaran dasar perusahaan pada 10 Agustus 2026. Laporan bernomor 078/VIII/2026-CSExt itu ditandatangani oleh Detryanti Putri selaku Corporate Secretary, dengan lampiran dokumen berjudul Penyampaian Perubahan Anggaran Dasar Hasil HMETD VIII, yang mengindikasikan perubahan ini terkait dengan pelaksanaan hak memesan efek terlebih dahulu atau rights issue kedelapan perseroan.",
-   "Dalam formulir yang disampaikan ke sistem pelaporan elektronik IDX, kolom uraian informasi hanya mengulang judul laporan yakni perubahan anggaran dasar, tanpa merinci pasal mana yang diubah, apakah menyangkut modal dasar, modal ditempatkan dan disetor, atau susunan pengurus. Kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha juga dikosongkan atau ditandai tanda hubung, sehingga perseroan tidak memberikan penjelasan tambahan mengenai konsekuensi perubahan tersebut bagi pemegang saham.",
-   "Rincian teknis perubahan anggaran dasar, termasuk kemungkinan penyesuaian angka modal akibat penyerapan rights issue kedelapan, hanya tercantum dalam dokumen lampiran PDF yang tidak sepenuhnya terbaca dalam laporan ini. Investor yang ingin mengetahui detail lengkap disarankan menunggu keterbukaan informasi lanjutan atau membuka dokumen resmi yang diunggah ke laman IDX."
+   "Matahari Putra Prima Tbk (MPPA) menyampaikan laporan perubahan anggaran dasar kepada Bursa Efek Indonesia pada 10 Agustus 2026. Perubahan ini merupakan tindak lanjut dari penyelesaian penawaran umum terbatas kedelapan atau rights issue kedelapan (HMETD VIII), sebagaimana tercantum dalam nama lampiran dokumen resmi perusahaan. Laporan ditandatangani secara elektronik oleh Detryanti Putri selaku Corporate Secretary MPPA.",
+   "Dalam formulir keterbukaan informasi yang disampaikan ke BEI, perusahaan hanya menyatakan bahwa jenis peristiwa adalah perubahan anggaran dasar, tanpa merinci pasal mana yang diubah atau angka modal dasar dan modal disetor yang baru. Kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha juga diisi tanda strip, yang berarti perusahaan tidak memberi penjelasan tambahan dalam badan suratnya. Rincian lengkap kemungkinan hanya tercantum dalam akta yang menjadi lampiran laporan ini.",
+   "Perubahan anggaran dasar semacam ini lazim dilakukan emiten setelah rights issue rampung, karena pasal tentang modal dasar, modal ditempatkan, dan modal disetor dalam anggaran dasar harus disesuaikan dengan jumlah saham baru yang diterbitkan. Karena dokumen yang dipublikasikan tidak mencantumkan angka tersebut, publik belum bisa mengetahui besaran penambahan modal atau jumlah saham beredar MPPA pascarights issue kedelapan ini."
   ],
-  "takeaway": "Perubahan anggaran dasar adalah revisi atas dokumen hukum dasar perseroan yang memuat ketentuan seperti besaran modal, jumlah saham, dan struktur kepengurusan, dan lazimnya dilakukan setelah aksi korporasi seperti pelaksanaan HMETD karena jumlah saham beredar dan modal disetor perusahaan berubah. Pos yang berpotensi tersentuh adalah struktur permodalan, jumlah saham beredar, dan pada gilirannya laba per saham, karena penambahan saham baru hasil rights issue bisa mengubah basis perhitungan tersebut. Penilaian kami netral, sebab laporan ini hanya mengonfirmasi bahwa perubahan anggaran dasar terjadi menyusul rights issue kedelapan tanpa mencantumkan angka modal baru, jumlah saham hasil penyerapan, atau dampak dilusi secara spesifik, sehingga dampak fundamentalnya baru bisa dinilai setelah dokumen lengkap atau laporan hasil HMETD yang lebih rinci tersedia.",
+  "takeaway": "Perubahan anggaran dasar setelah rights issue adalah langkah administratif wajib, di mana perusahaan menyesuaikan pasal modal dasar dan modal disetor dalam akta pendiriannya agar sesuai dengan jumlah saham baru yang sudah diterbitkan lewat HMETD. Pos yang tersentuh adalah ekuitas, tepatnya modal disetor dan jumlah saham beredar, dua angka yang menjadi basis perhitungan laba per saham dan rasio kepemilikan pemegang saham. Pelaku pasar biasanya memperhatikan langkah ini karena menandai bahwa proses rights issue sudah final secara hukum, bukan lagi sekadar rencana. Karena dokumen yang dipublikasikan tidak mencantumkan angka modal atau jumlah saham yang baru, penilaian fundamentalnya netral, laporan ini sekadar konfirmasi administratif atas penyelesaian HMETD VIII tanpa data tambahan yang bisa diukur dampaknya terhadap kinerja perusahaan.",
   "sentimen": "netral"
  },
  {
@@ -693,8 +695,8 @@ var ARTICLES = [
  {
   "slug": "poll-sampaikan-ralat-laporan-keuangan-interim",
   "category": "Aksi Korporasi",
-  "title": "POLL Sampaikan [Ralat] Laporan Keuangan Interim",
-  "deck": "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim yang sebelumnya disampaikan ke Bursa Efek Indonesia. Rincian koreksi belum dapat dipastikan.",
+  "title": "POLL Sampaikan [Ralat] Laporan Keuangan Interim Semester I 2026",
+  "deck": "Pollux Properties Indonesia (POLL) merevisi laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, tanpa merinci pos yang diralat.",
   "image": "assets/img/konpers-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:57:52",
@@ -703,16 +705,16 @@ var ARTICLES = [
   "emiten": "POLL",
   "tags": [
    "POLL",
-   "Pollux Properties",
-   "laporan keuangan interim",
-   "koreksi"
+   "Laporan Keuangan",
+   "Ralat Laporan",
+   "Pemantauan Khusus"
   ],
   "body": [
-   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan keterbukaan informasi berupa koreksi atas laporan keuangan interim kepada Bursa Efek Indonesia pada 10 Agustus 2026. Judul laporan menyebutkan bahwa ini merupakan versi ralat dari laporan keuangan interim yang sebelumnya sudah disampaikan perusahaan.",
-   "Isi lengkap dokumen belum berhasil diekstraksi dari berkas yang diunggah ke sistem keterbukaan informasi IDX, sehingga bagian mana dari laporan keuangan yang dikoreksi, apakah menyangkut pos pendapatan, laba, aset, liabilitas, atau ekuitas, belum dapat dipastikan dari sumber yang tersedia saat ini. Begitu pula besaran selisih antara angka semula dan angka hasil koreksi belum diketahui.",
-   "Dengan keterbatasan ini, publikasi hanya dapat memastikan bahwa tindakan korporasi berupa koreksi laporan keuangan interim telah resmi disampaikan ke bursa. Rincian lebih lanjut baru bisa disampaikan setelah dokumen lengkap berhasil dibaca."
+   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan ralat atau koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026. Penyampaian ini tercatat dalam surat nomor 014/PPI-CST/OJK-IDX/VIII/2026 tertanggal 10 Agustus 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, sebagai revisi atas laporan kuartal II 2026 yang sudah diserahkan sebelumnya. Laporan disusun berdasarkan PSAK dengan status tidak diaudit atau unaudited, dan disajikan dalam mata uang rupiah dengan satuan penuh.",
+   "Dalam posisi keuangan per 30 Juni 2026 yang tercantum di dokumen, kas dan setara kas perseroan tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik menjadi Rp2,23 miliar, dari sebelumnya Rp820,37 juta per akhir 2025. Dokumen resmi yang diterima tidak menjelaskan secara spesifik pos mana yang diperbaiki dari laporan versi awal maupun alasan di balik koreksi tersebut.",
+   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus atau watchlist Bursa Efek Indonesia, dan laporan disusun sebagai entitas grup yang mencakup anak perusahaan Perseroan."
   ],
-  "takeaway": "Koreksi laporan keuangan interim berarti perusahaan mengganti sebagian isi laporan keuangan periode berjalan yang sebelumnya sudah dipublikasikan, biasanya karena ada kekeliruan angka atau penyajian yang perlu diperbaiki. Pos kinerja yang tersentuh bisa bermacam-macam, mulai dari laba bersih, aset, liabilitas, hingga ekuitas, dan pelaku pasar biasanya mencermati koreksi semacam ini karena bisa mengubah gambaran kesehatan keuangan perusahaan yang sebelumnya dipakai sebagai acuan. Karena isi dokumen belum berhasil dibaca, penilaian saat ini adalah netral, sebab belum ada angka atau pos spesifik yang bisa dikonfirmasi sebagai bukti perbaikan menjadi lebih baik atau justru mengungkap kondisi yang lebih lemah dari yang dilaporkan sebelumnya. Penilaian yang lebih pasti baru bisa diberikan setelah rincian koreksi dalam dokumen lengkap dapat diakses.",
+  "takeaway": "Aksi ini adalah penyampaian ulang atau koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah dilaporkan ke OJK dan BEI, sehingga menggantikan angka versi awal dengan versi yang diklaim sudah diperbaiki. Pos yang tersentuh dari data yang tersedia adalah aset lancar, khususnya kas dan setara kas serta piutang usaha, dua indikator likuiditas dan efektivitas penagihan yang biasa diawasi pelaku pasar. Penilaian kami netral, karena dokumen yang diterima tidak merinci pos spesifik yang diralat dari laporan sebelumnya, tidak menyertakan laporan laba rugi atau liabilitas secara lengkap, dan tidak menjelaskan penyebab koreksi, sehingga belum cukup bukti untuk menyimpulkan dampaknya terhadap fundamental perseroan. Yang masih kurang untuk penilaian lebih jauh adalah rincian perbandingan angka sebelum dan sesudah ralat serta alasan resmi dari manajemen. Status POLL di papan pemantauan khusus turut menjadi konteks yang perlu diperhatikan pemegang saham, meski tidak berkaitan langsung dengan koreksi laporan ini.",
   "sentimen": "netral"
  },
  {

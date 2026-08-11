@@ -94,7 +94,9 @@ jobs:
       - name: Pastikan benar-benar terbit
         if: steps.kirim.outputs.berubah == 'ya'
         run: |
-          URL="https://the-signal-sandy.vercel.app/berita/${{ steps.kirim.outputs.slug }}.html"
+          # Alamat diambil dari situs.mjs, satu-satunya tempat yang menuliskannya.
+          SITUS=$(node -e "import('./scripts/situs.mjs').then(m=>console.log(m.SITUS))")
+          URL="$SITUS/berita/${{ steps.kirim.outputs.slug }}.html"
           echo "menunggu: $URL"
           for i in $(seq 1 20); do
             KODE=$(curl -s -o /dev/null -w '%{http_code}' "$URL" || echo 000)

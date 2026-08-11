@@ -90,7 +90,10 @@ try {
   # Jadi: tunggu sebentar, buktikan artikel terbaru benar-benar bisa diakses,
   # baru kalau tidak muncul kita deploy sendiri.
   $slugBaru = (& node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/articles.js','utf8');const a=JSON.parse(s.slice(s.indexOf('['),s.lastIndexOf(']')+1));console.log(a[0].slug)" | Out-String).Trim()
-  $alamat = "https://the-signal-sandy.vercel.app/berita/$slugBaru.html"
+  # Alamat situs diambil dari situs.mjs, jangan ditulis ulang di sini.
+  # Dulu dipaku di empat berkas dan pindah domain jadi rawan ada yang tertinggal.
+  $situs = (& node -e "import('./scripts/situs.mjs').then(m=>console.log(m.SITUS))" | Out-String).Trim()
+  $alamat = "$situs/berita/$slugBaru.html"
 
   Catat "menunggu deploy: $slugBaru"
   $terbit = $false

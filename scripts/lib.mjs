@@ -5,7 +5,8 @@ import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const BASE = 'https://the-signal-sandy.vercel.app';
+// Alamat situs hidup di satu tempat saja, lihat situs.mjs.
+export { SITUS as BASE } from './situs.mjs';
 export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
 
 export function log(...a) { console.log('[' + new Date().toISOString().slice(11, 19) + ']', ...a); }

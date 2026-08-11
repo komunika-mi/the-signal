@@ -5,7 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const BASE = 'https://the-signal-sandy.vercel.app';
+import { SITUS as BASE } from './situs.mjs';
 
 function muat(file) {
   const src = fs.readFileSync(path.join(ROOT, 'assets/js', file), 'utf8');

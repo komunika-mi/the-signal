@@ -2,7 +2,7 @@
 
 Portal berita ekonomi Indonesia. Kolaborasi editorial dengan **tvOneNews**, didukung **adsmediamix.id**.
 
-Live: https://the-signal-sandy.vercel.app
+Live: https://the-signal.id
 
 ## Cara kerjanya
 
@@ -49,6 +49,20 @@ dan prediksi arah harga saham.
 Artikel lama yang dibuat sebelum fitur ini ada bisa ditulis ulang dengan
 `node scripts/perbaiki-idx-lama.mjs`. Slug-nya dipertahankan supaya tautan
 yang sudah dibagikan tidak mati.
+
+## Domain
+
+Alamat kanonik ditulis di SATU tempat: `scripts/situs.mjs`. Semua yang lain
+(lib.mjs, build-pages.mjs, daily.yml, jalankan-idx.ps1) mengambil dari sana.
+Ganti domain = ubah satu baris itu, `npm run build`, deploy.
+
+`the-signal.id` dibeli di Rumahweb, DNS tetap di Rumahweb (bukan nameserver
+Vercel), disambungkan lewat A record apex ke `76.76.21.21`.
+
+**Urutan penting saat pindah domain:** pasang DNS dulu, tunggu domainnya
+benar-benar melayani halaman, BARU ganti `SITUS` dan build ulang. Kalau
+dibalik, canonical dan og:url menunjuk host yang belum hidup, tautan yang
+dibagikan rusak dan Google melihat canonical ke alamat mati.
 
 ## Struktur
 

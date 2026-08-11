@@ -13,7 +13,7 @@
 //
 // Boleh ditimpa lewat environment supaya bisa diuji tanpa mengubah berkas:
 //   SITUS_URL=https://contoh.id node scripts/build-pages.mjs
-export const SITUS = (process.env.SITUS_URL || 'https://the-signal-sandy.vercel.app')
+export const SITUS = (process.env.SITUS_URL || 'https://the-signal.id')
   .replace(/\/+$/, '');
 
 // Versi tanpa protokol, untuk teks yang menampilkan alamat ke pembaca.

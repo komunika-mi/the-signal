@@ -147,7 +147,7 @@ ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + 
         <span class="logo-tag">Berita &amp; Analisis Ekonomi</span>
       </div>
       <div class="masthead-actions">
-        <button class="btn-subscribe" type="button" data-open-subscribe>Berlangganan
+        <button class="btn-subscribe" type="button" data-open-subscribe>Signal+
           <svg width="11" height="11" viewBox="0 0 12 12" fill="none"><path d="M3 9 9 3M4 3h5v5" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </button>
       </div>
@@ -208,13 +208,11 @@ const FOOT = `
     <button class="modal-close" type="button" id="modal-close" aria-label="Tutup">
       <svg width="13" height="13" viewBox="0 0 16 16"><path d="M2 2l12 12M14 2 2 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
     </button>
-    <h3>Berlangganan Signal+</h3>
-    <p>Ringkasan ekonomi pagi, langsung ke email kamu, tiap hari kerja. Gratis selama masa pratinjau.</p>
-    <form id="subscribe-form">
-      <input type="email" required placeholder="Alamat email kamu" aria-label="Alamat email">
-      <button class="btn-modal-submit" type="submit">Berlangganan</button>
-    </form>
-    <p class="modal-success" id="modal-success">Terima kasih! Cek email kamu untuk konfirmasi berlangganan.</p>
+    <h3>Signal+ belum dibuka</h3>
+    <p>Ringkasan ekonomi pagi lewat email masih kami siapkan. Pendaftarannya belum
+      dibuka, jadi belum ada alamat email yang bisa kami terima. Kami umumkan di
+      halaman depan begitu siap.</p>
+    <a class="btn-modal-submit" href="/berita.html">Baca berita hari ini</a>
   </div>
 </div>
 

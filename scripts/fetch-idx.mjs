@@ -128,33 +128,56 @@ const BOILERPLATE = [
   /^i, the undersigned/i,
 ];
 
-export function ambilIsiLampiran(url, { maksKarakter = 6000 } = {}) {
+// IDX sesekali membalas halaman tantangan Cloudflare (badan HTML diawali
+// "<!DOCTYPE") alih-alih PDF, tidak menentu dan tanpa pola jelas. Tanpa
+// percobaan ulang, satu balasan seperti itu bikin artikel terbit tipis
+// selamanya, dan itu benar-benar terjadi pada 6 artikel di putaran
+// 2026-08-11: kelimanya berhasil dibaca saat dicoba lagi beberapa menit
+// kemudian. Jadi menyerah pada percobaan pertama adalah kesalahan.
+export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 3 } = {}) {
   if (!url || !/\.pdf/i.test(url)) return '';
 
   const tmp = path.join(os.tmpdir(), 'idx-' + Buffer.from(url).toString('base64url').slice(-24) + '.pdf');
+  let alasan = '';
+
   try {
-    execFileSync('curl', [
-      '-s', '-L', '--compressed', '--max-time', '45',
-      '-A', UA,
-      '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
-      '-o', tmp, url,
-    ], { encoding: 'utf8' });
+    for (let i = 0; i < percobaan; i++) {
+      if (i > 0) tidurSebentar(1500 * i);
+      try {
+        execFileSync('curl', [
+          '-s', '-L', '--compressed', '--max-time', '45',
+          '-A', UA,
+          '-H', 'Accept: application/pdf,*/*',
+          '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+          '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+          '-o', tmp, url,
+        ], { encoding: 'utf8' });
 
-    if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) return '';
-    // Pastikan benar-benar PDF, bukan halaman tantangan Cloudflare yang disimpan.
-    if (fs.readFileSync(tmp, { encoding: 'latin1', start: 0, end: 4 }).slice(0, 4) !== '%PDF') return '';
+        if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) { alasan = 'berkas kosong'; continue; }
 
-    const mentah = execFileSync('pdftotext', ['-raw', '-enc', 'UTF-8', tmp, '-'],
-      { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
+        // Pastikan benar-benar PDF, bukan halaman tantangan yang tersimpan.
+        const kepala = fs.readFileSync(tmp).subarray(0, 4).toString('latin1');
+        if (kepala !== '%PDF') { alasan = 'bukan PDF (' + kepala + ')'; continue; }
 
-    return bersihkanTeksPdf(mentah, maksKarakter);
-  } catch (e) {
-    log('  lampiran gagal dibaca: ' + String(e.message).slice(0, 70));
+        const mentah = execFileSync('pdftotext', ['-raw', '-enc', 'UTF-8', tmp, '-'],
+          { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
+
+        const teks = bersihkanTeksPdf(mentah, maksKarakter);
+        if (!teks) { alasan = 'teks kosong setelah dibersihkan'; continue; }
+        return teks;
+      } catch (e) {
+        alasan = String(e.message).slice(0, 60);
+      }
+    }
+    log('  lampiran gagal dibaca setelah ' + percobaan + ' percobaan: ' + alasan);
     return '';
   } finally {
     fs.rmSync(tmp, { force: true });
   }
 }
+
+// Jeda sinkron, mengikuti pola yang sudah dipakai di lib.mjs untuk IDX.
+function tidurSebentar(ms) { const s = Date.now(); while (Date.now() - s < ms) { /* jeda */ } }
 
 export function bersihkanTeksPdf(mentah, maksKarakter = 6000) {
   const keluar = [];

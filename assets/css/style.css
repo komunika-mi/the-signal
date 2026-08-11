@@ -290,14 +290,11 @@ img { max-width: 100%; display: block; }
 .modal-close:hover { border-color: var(--ink); }
 .modal h3 { font-family: var(--serif); font-size: 1.4rem; font-weight: 600; margin-bottom: .5rem; }
 .modal p { font-size: 13.5px; color: var(--ink-soft); line-height: 1.55; margin-bottom: 1.2rem; }
-.modal form { display: flex; flex-direction: column; gap: .7rem; }
-.modal input { border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 11px 14px; font-size: 14px; font-family: var(--sans); }
-.modal input:focus { border-color: var(--ink); outline: none; }
-.modal .btn-modal-submit { background: var(--ink); color: var(--page); border: none; border-radius: 999px; padding: 11px 14px; font-size: 13.5px; font-weight: 700; cursor: pointer; }
+/* Modal Signal+ tidak lagi punya formulir. Aturan .modal input, .modal form,
+   dan .modal-success sengaja dihapus, bukan disisakan mati, supaya tidak ada
+   yang mengira formulirnya cuma disembunyikan sementara. */
+.modal .btn-modal-submit { display: block; text-align: center; text-decoration: none; background: var(--ink); color: var(--page); border: none; border-radius: 999px; padding: 11px 14px; font-size: 13.5px; font-weight: 700; cursor: pointer; }
 .modal .btn-modal-submit:hover { background: var(--red-deep); }
-.modal .modal-success { display: none; font-size: 13.5px; color: var(--green); font-weight: 600; }
-.modal.success form { display: none; }
-.modal.success .modal-success { display: block; }
 
 /* ---------- reveal ---------- */
 .reveal { animation: fadeUp .6s ease both; }

@@ -24,9 +24,19 @@ const batas = parseInt(process.argv[2] || '0', 10) || Infinity;
 
 async function main() {
   const semua = readData('articles.js', 'ARTICLES');
-  const perlu = semua.filter(a => a.sourceLabel === 'IDX' && !a.sentimen && /\.pdf/i.test(a.sourceUrl || ''));
 
-  log('artikel IDX tanpa isi dokumen: ' + perlu.length);
+  // Dua golongan yang perlu ditulis ulang:
+  // 1. dibuat sebelum pipeline bisa membaca PDF sama sekali (tanpa "sentimen")
+  // 2. sudah lewat jalur baru TAPI lampirannya gagal diunduh saat itu, biasanya
+  //    karena IDX membalas halaman tantangan Cloudflare. Artikelnya jadi
+  //    mengaku sendiri bahwa rinciannya belum terbaca. Golongan ini punya
+  //    "sentimen" sehingga lolos dari saringan lama.
+  const MENGAKU_KOSONG = /belum terbaca|belum terungkap|tidak terbaca|belum dapat dipastikan|belum diperoleh|baru berupa judul|dokumen lengkap/i;
+  const perlu = semua.filter(a =>
+    a.sourceLabel === 'IDX' && /\.pdf/i.test(a.sourceUrl || '') &&
+    (!a.sentimen || MENGAKU_KOSONG.test(a.title + JSON.stringify(a.body) + a.takeaway)));
+
+  log('artikel IDX yang isinya belum lengkap: ' + perlu.length);
   if (!perlu.length) { log('tidak ada yang perlu diperbaiki'); return; }
 
   let sukses = 0, gagal = 0, dilewati = 0;

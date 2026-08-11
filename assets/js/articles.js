@@ -93,8 +93,8 @@ var ARTICLES = [
  {
   "slug": "arko-laporkan-perubahan-pengurus-rincian-belum-terungkap",
   "category": "Aksi Korporasi",
-  "title": "ARKO Laporkan [Perubahan] Pengurus, Rincian Belum Terungkap",
-  "deck": "PT Arkora Hydro Tbk melaporkan keterbukaan informasi soal perubahan pengurus ke Bursa Efek Indonesia, namun isi dokumen resminya belum berhasil diekstraksi.",
+  "title": "ARKO Angkat [Direktur] dan Komisaris Baru, Efektif April 2026",
+  "deck": "PT Arkora Hydro Tbk. (ARKO) melaporkan pengangkatan direktur dan komisaris baru menggantikan pejabat sebelumnya, berlaku efektif sejak 8 April 2026.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:39:02",
@@ -102,13 +102,17 @@ var ARTICLES = [
   "sourceLabel": "IDX",
   "emiten": "ARKO",
   "tags": [
-   "ARKO"
+   "ARKO",
+   "Arkora Hydro",
+   "pergantian direksi",
+   "komisaris"
   ],
   "body": [
-   "PT Arkora Hydro Tbk (ARKO) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia dengan perihal Perubahan Pengurus, tercatat pada 10 Agustus 2026 pukul 16.39 WIB. Laporan semacam ini lazimnya memuat susunan direksi atau dewan komisaris yang baru, termasuk nama dan jabatan yang mengalami pergantian, penunjukan, atau pemberhentian.",
-   "Sayangnya, isi lengkap dokumen PDF resmi laporan ini belum berhasil dibaca sehingga rincian konkret seperti siapa yang masuk atau keluar dari jajaran pengurus, efektif sejak kapan, serta latar belakang perubahan tersebut belum dapat disajikan. Pembaca yang membutuhkan detail pasti disarankan menunggu konfirmasi lanjutan atau merujuk langsung pada dokumen resmi di situs keterbukaan informasi Bursa Efek Indonesia begitu tersedia."
+   "PT Arkora Hydro Tbk. (ARKO) menyampaikan keterbukaan informasi mengenai perubahan susunan pengurus perusahaan. Terry Tando diangkat sebagai Direktur menggantikan Boy Gemino Kalauserang, sementara Chinthya Theresa Am diangkat sebagai Komisaris menggantikan Iwan Hadiantoro. Kedua pengangkatan tersebut tercatat berlaku efektif sejak 8 April 2026.",
+   "Posisi lain di jajaran direksi dan komisaris tidak mengalami perubahan. Aldo Henry Artoko tetap menjabat Direktur Utama, Ricky Hartono dan Ir. Ismu Nugroho tetap menjabat Direktur, sedangkan Arya Pradana Setiadharma tetap menjabat Komisaris Utama dan Drs. Indarto S.H. tetap menjabat Komisaris Independen. Seluruh pengurus yang tidak berganti itu telah menduduki posisinya sejak 4 Maret 2022.",
+   "Perusahaan menjelaskan bahwa perubahan pengurus ini sebelumnya telah diumumkan kepada publik pada 10 April 2026 melalui Ringkasan Risalah Rapat Umum Pemegang Saham yang disampaikan lewat Sistem Pelaporan Elektronik. Surat bernomor 284/06/CS-AH/VIII/2026 yang diterbitkan pada 10 Agustus 2026 ini merupakan penyampaian lanjutan atas informasi tersebut, ditandatangani oleh Aldo Artoko selaku Direktur Utama."
   ],
-  "takeaway": "Perubahan pengurus adalah pergantian susunan direksi dan/atau dewan komisaris perusahaan, sesuatu yang wajib diumumkan karena menyangkut siapa yang mengambil keputusan strategis dan operasional emiten. Pos yang tersentuh umumnya bukan angka keuangan langsung, melainkan tata kelola dan arah kebijakan perusahaan, yang pada gilirannya bisa memengaruhi strategi bisnis, hubungan dengan mitra, dan kepercayaan investor. Karena isi dokumen resmi belum berhasil dibaca dan rincian nama, jabatan, serta alasan pergantian belum diketahui, penilaian ini bersifat netral sampai dokumen lengkap tersedia untuk dianalisis lebih lanjut.",
+  "takeaway": "Aksi korporasi ini adalah pergantian pengurus, yaitu penggantian satu direktur dan satu komisaris hasil keputusan RUPS, bukan transaksi keuangan. Yang tersentuh bukan pos laporan keuangan seperti ekuitas atau arus kas, melainkan aspek tata kelola perusahaan, karena direksi dan komisaris adalah pihak yang menentukan keputusan operasional dan pengawasan. Secara fundamental laporan ini bersifat netral, sebab dokumen tidak menyebutkan alasan pergantian maupun rekam jejak pengurus baru, sehingga belum ada dasar yang cukup untuk menilainya positif atau negatif bagi kinerja perusahaan.",
   "sentimen": "netral"
  },
  {
@@ -138,8 +142,8 @@ var ARTICLES = [
  {
   "slug": "mppa-ubah-anggaran-dasar-rincian-perubahan-belum-terungkap",
   "category": "Aksi Korporasi",
-  "title": "MPPA Ubah [Anggaran Dasar], Rincian Perubahan Belum Terungkap",
-  "deck": "Matahari Putra Prima melaporkan perubahan anggaran dasar ke Bursa Efek Indonesia, namun isi dokumen resmi belum berhasil diekstraksi sehingga rinciannya belum diketahui.",
+  "title": "MPPA Ubah [Anggaran Dasar] Usai Rights Issue Kedelapan",
+  "deck": "Matahari Putra Prima melaporkan perubahan anggaran dasar terkait hasil HMETD kedelapan, namun rincian isi perubahan belum diungkap dalam laporan ke bursa.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:31:20",
@@ -148,23 +152,23 @@ var ARTICLES = [
   "emiten": "MPPA",
   "tags": [
    "MPPA",
-   "Anggaran Dasar",
-   "Aksi Korporasi",
-   "Matahari Putra Prima"
+   "anggaran dasar",
+   "rights issue",
+   "HMETD"
   ],
   "body": [
-   "PT Matahari Putra Prima Tbk (MPPA) menyampaikan laporan keterbukaan informasi bertajuk Perubahan Anggaran Dasar kepada Bursa Efek Indonesia pada 10 Agustus 2026. Namun, isi lengkap dokumen yang menjadi lampiran laporan tersebut belum berhasil dibaca dari berkas PDF resminya, sehingga pasal mana dari anggaran dasar yang diubah, alasan perubahan, serta tanggal efektifnya belum dapat dipastikan.",
-   "Perubahan anggaran dasar oleh emiten publik lazimnya membutuhkan persetujuan Rapat Umum Pemegang Saham dan bisa menyangkut berbagai hal, mulai dari perubahan modal dasar dan ditempatkan, penyesuaian maksud dan tujuan usaha, hingga perubahan susunan pengurus atau ketentuan tata kelola perusahaan. Tanpa akses ke rincian dokumen, redaksi belum bisa memastikan aspek mana yang sebenarnya diubah dalam kasus MPPA ini.",
-   "The Signal akan menelusuri dokumen lengkap laporan ini untuk memastikan poin perubahan yang dimaksud dan dampaknya terhadap struktur perusahaan, sebelum dapat disampaikan secara lebih rinci kepada pembaca."
+   "PT Matahari Putra Prima Tbk (MPPA), pengelola jaringan ritel Hypermart, menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia perihal perubahan anggaran dasar perusahaan pada 10 Agustus 2026. Laporan bernomor 078/VIII/2026-CSExt itu ditandatangani oleh Detryanti Putri selaku Corporate Secretary, dengan lampiran dokumen berjudul Penyampaian Perubahan Anggaran Dasar Hasil HMETD VIII, yang mengindikasikan perubahan ini terkait dengan pelaksanaan hak memesan efek terlebih dahulu atau rights issue kedelapan perseroan.",
+   "Dalam formulir yang disampaikan ke sistem pelaporan elektronik IDX, kolom uraian informasi hanya mengulang judul laporan yakni perubahan anggaran dasar, tanpa merinci pasal mana yang diubah, apakah menyangkut modal dasar, modal ditempatkan dan disetor, atau susunan pengurus. Kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha juga dikosongkan atau ditandai tanda hubung, sehingga perseroan tidak memberikan penjelasan tambahan mengenai konsekuensi perubahan tersebut bagi pemegang saham.",
+   "Rincian teknis perubahan anggaran dasar, termasuk kemungkinan penyesuaian angka modal akibat penyerapan rights issue kedelapan, hanya tercantum dalam dokumen lampiran PDF yang tidak sepenuhnya terbaca dalam laporan ini. Investor yang ingin mengetahui detail lengkap disarankan menunggu keterbukaan informasi lanjutan atau membuka dokumen resmi yang diunggah ke laman IDX."
   ],
-  "takeaway": "Perubahan anggaran dasar adalah proses formal mengubah dokumen konstitusi perusahaan, yang bisa menyangkut hal sekecil perubahan nama pengurus atau sebesar perubahan struktur modal dan jumlah saham beredar. Pos kinerja yang berpotensi tersentuh oleh perubahan semacam ini antara lain modal disetor, jumlah saham beredar, dan laba per saham, tergantung pasal mana yang sebenarnya diubah. Karena isi dokumen PDF tidak berhasil diekstraksi dan hanya judul yang tersedia, redaksi belum memiliki dasar untuk menilai apakah perubahan ini menguntungkan atau merugikan pemegang saham. Penilaian sementara adalah netral, dan akan diperbarui setelah dokumen lengkap berhasil dibaca dan rincian pasal yang diubah diketahui.",
+  "takeaway": "Perubahan anggaran dasar adalah revisi atas dokumen hukum dasar perseroan yang memuat ketentuan seperti besaran modal, jumlah saham, dan struktur kepengurusan, dan lazimnya dilakukan setelah aksi korporasi seperti pelaksanaan HMETD karena jumlah saham beredar dan modal disetor perusahaan berubah. Pos yang berpotensi tersentuh adalah struktur permodalan, jumlah saham beredar, dan pada gilirannya laba per saham, karena penambahan saham baru hasil rights issue bisa mengubah basis perhitungan tersebut. Penilaian kami netral, sebab laporan ini hanya mengonfirmasi bahwa perubahan anggaran dasar terjadi menyusul rights issue kedelapan tanpa mencantumkan angka modal baru, jumlah saham hasil penyerapan, atau dampak dilusi secara spesifik, sehingga dampak fundamentalnya baru bisa dinilai setelah dokumen lengkap atau laporan hasil HMETD yang lebih rinci tersedia.",
   "sentimen": "netral"
  },
  {
   "slug": "trja-laporkan-perubahan-kepemilikan-saham-r-hesthi-sambodo",
   "category": "Aksi Korporasi",
-  "title": "TRJA Laporkan Perubahan [Kepemilikan] Saham R Hesthi Sambodo",
-  "deck": "PT Transkon Jaya Tbk (TRJA) menyampaikan laporan perubahan kepemilikan saham atas nama R Hesthi Sambodo ke BEI, namun rincian transaksinya belum bisa dibaca dari dokumen yang tersedia.",
+  "title": "TRJA: Direksi Hesthi Sambodo [Beli] Saham Jadi 0,06%",
+  "deck": "R Hesthi Sambodo, anggota Direksi TRJA, melaporkan kepemilikan sahamnya naik dari nol menjadi 905.600 lembar lewat serangkaian transaksi tidak langsung sepanjang Juni-Juli 2026.",
   "image": "assets/img/gedung-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:28:59",
@@ -174,14 +178,15 @@ var ARTICLES = [
   "tags": [
    "TRJA",
    "kepemilikan saham",
-   "keterbukaan informasi",
-   "R Hesthi Sambodo"
+   "direksi",
+   "keterbukaan informasi"
   ],
   "body": [
-   "PT Transkon Jaya Tbk (TRJA) menyampaikan Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka kepada Bursa Efek Indonesia pada 10 Agustus 2026 pukul 16.28 WIB. Laporan ini diajukan atas nama R Hesthi Sambodo, tanpa keterangan grup atau afiliasi yang dicantumkan dalam judul dokumen.",
-   "Sayangnya, isi lengkap dokumen belum berhasil diekstraksi sehingga rincian penting seperti jumlah saham sebelum dan sesudah perubahan, selisih kepemilikan, harga transaksi, tanggal pelaksanaan, maupun tujuan transaksi belum dapat disampaikan. Laporan jenis ini merupakan kewajiban keterbukaan informasi yang lazim disampaikan pihak terkait emiten, seperti direksi, komisaris, atau pemegang saham dengan kepemilikan signifikan, setiap kali terjadi perubahan pada posisi saham mereka di perusahaan."
+   "PT Transkon Jaya Tbk (TRJA) melaporkan perubahan kepemilikan saham oleh R Hesthi Sambodo, anggota Direksi perseroan, kepada Otoritas Jasa Keuangan sesuai POJK Nomor 4/2024. Berdasarkan laporan bertanggal 10 Agustus 2026, kepemilikan saham Hesthi Sambodo di TRJA naik dari sebelumnya nol menjadi 905.600 lembar, sehingga hak suaranya di perseroan bergerak dari 0 persen menjadi 0,06 persen. Dalam laporan tersebut, Hesthi Sambodo dinyatakan bukan pengendali perseroan.",
+   "Perubahan itu merupakan akumulasi dari enam transaksi saham yang seluruhnya berstatus kepemilikan tidak langsung. Rinciannya, pembelian 50.100 lembar pada 26 Juni 2026 seharga Rp104 per saham, disusul dua kali pembelian masing-masing 100.000 lembar seharga Rp101 per saham pada 30 Juni 2026. Pada 7 Juli 2026 tercatat satu transaksi penjualan 44.500 lembar seharga Rp112 per saham, sebelum kembali diikuti pembelian 200.000 lembar seharga Rp113 per saham pada 17 Juli 2026 dan pembelian 500.000 lembar seharga Rp111 per saham pada 23 Juli 2026. Seluruh transaksi bertujuan beli saham atau jual saham biasa, tanpa keterangan tambahan mengenai pihak lain yang terlibat.",
+   "Jika dihitung dari harga dan volume yang tercantum di setiap baris transaksi, total nilai pembelian mencapai sekitar Rp103,5 juta dan nilai penjualan sekitar Rp4,98 juta, sehingga nilai bersih investasi Hesthi Sambodo selama periode itu sekitar Rp98,5 juta. Laporan juga menegaskan bahwa Hesthi Sambodo bertindak sebagai pemberi sekaligus penerima kuasa pelaporan atas namanya sendiri, dan tidak ada keterangan mengenai kelompok pelapor terorganisasi."
   ],
-  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi standar yang harus disampaikan setiap kali ada perubahan kepemilikan saham oleh pihak terkait emiten, seperti direksi, komisaris, atau pemegang saham utama. Pos yang tersentuh biasanya adalah komposisi pemegang saham dan hak suara, yang diperhatikan pelaku pasar karena bisa mengindikasikan sikap orang dalam terhadap prospek perusahaan. Namun karena dokumen belum terbaca sehingga jumlah saham, selisih, dan nilai transaksi belum diketahui, penilaian ini untuk sementara netral. Rincian tersebut baru bisa dinilai secara fundamental, apakah perubahannya besar atau kecil dibanding total kepemilikan, setelah dokumen lengkap berhasil dibaca.",
+  "takeaway": "Ini adalah laporan wajib kepemilikan saham insider yang harus disampaikan setiap anggota direksi atau komisaris saat kepemilikan sahamnya berubah, sesuai POJK 4/2024, bukan aksi korporasi yang mengubah struktur permodalan perseroan. Yang tersentuh hanyalah peta kepemilikan saham individu direksi, bukan ekuitas, arus kas, atau jumlah saham beredar perseroan, karena seluruh transaksi terjadi di pasar sekunder antar pemegang saham. Pelaku pasar biasanya memperhatikan transaksi semacam ini sebagai indikator keyakinan manajemen terhadap prospek perusahaan, apalagi karena posisinya net beli, bukan net jual. Namun secara fundamental penilaian ini netral, karena kepemilikan yang terbentuk hanya 0,06 persen dari hak suara perseroan, porsi yang terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat dari manajemen.",
   "sentimen": "netral"
  },
  {
@@ -378,8 +383,8 @@ var ARTICLES = [
  {
   "slug": "excl-sampaikan-informasi-kupon-rincian-belum-terbaca",
   "category": "Aksi Korporasi",
-  "title": "EXCL Sampaikan Informasi [Kupon], Rincian Belum Terbaca",
-  "deck": "PT XLSmart Telecom Sejahtera Tbk melaporkan keterbukaan informasi bertajuk Informasi Kupon ke Bursa Efek Indonesia, namun isi dokumen belum berhasil diekstraksi.",
+  "title": "EXCL Bayar Kupon Obligasi, Bunga Naik usai Peringkat [Turun]",
+  "deck": "XLSMART Telecom (EXCL) membayar kupon ke-30 Obligasi Berkelanjutan I Tahap II Seri D senilai Rp2,4 miliar pada 10 Agustus 2026, dengan bunga naik jadi 10,34 persen akibat penurunan peringkat Fitch.",
   "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T15:12:04",
@@ -388,15 +393,15 @@ var ARTICLES = [
   "emiten": "EXCL",
   "tags": [
    "EXCL",
-   "obligasi",
-   "kupon",
-   "keterbukaan informasi"
+   "Obligasi",
+   "Kupon",
+   "Fitch Ratings"
   ],
   "body": [
-   "PT XLSmart Telecom Sejahtera Tbk (EXCL) menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia dengan perihal Informasi Kupon pada 10 Agustus 2026. Laporan semacam ini lazimnya terkait dengan pembayaran kupon atas surat utang, seperti obligasi atau sukuk, yang diterbitkan perusahaan kepada pemegang instrumen tersebut.",
-   "Sayangnya, isi dokumen PDF resmi yang menyertai laporan ini belum berhasil diekstraksi, sehingga rincian penting seperti besaran tingkat kupon, periode pembayaran, tanggal jatuh tempo pembayaran, maupun nilai nominal obligasi atau sukuk yang dimaksud belum dapat disampaikan. Pembaca yang membutuhkan detail lengkap disarankan menunggu publikasi dokumen resmi dari EXCL atau mengecek langsung situs keterbukaan informasi IDX."
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) menyampaikan keterbukaan informasi soal pembayaran kupon obligasi kepada pemegang efek. Kupon yang dibayarkan adalah kupon ke-30 dari Obligasi Berkelanjutan I XL Axiata Tahap II Tahun 2019 Seri D, dengan tingkat bunga 10,34 persen per tahun dalam mata uang rupiah. Nilai nominal pembayaran tercatat Rp2.404.050.000 dan jatuh tempo pembayaran pada 10 Agustus 2026. Surat bernomor 0605/EXT/CSEC/CEOD/2026 ini ditandatangani secara elektronik oleh Susan Masniari selaku Corporate Secretary pada 10 Agustus 2026 pukul 15.12.",
+   "Dalam bagian informasi lain, perusahaan menjelaskan bahwa tingkat bunga kupon Seri D ini sudah mencakup tambahan cicilan bunga sebesar 0,34 persen per tahun yang dihitung secara pro rata. Tambahan ini dipicu oleh penurunan hasil pemeringkatan dari Fitch Ratings Indonesia, dan besarannya mengikuti keputusan Rapat Umum Pemegang Obligasi (RUPO) yang digelar pada 14 April 2025. Dengan kata lain, obligasi ini memiliki mekanisme step-up coupon yang otomatis menaikkan bunga ketika peringkat kredit emiten diturunkan. Perusahaan merujuk pembaca pada lampiran bernama EXCL_Perhitungan Kupon Seri D Ijarah Seri E 2019.pdf untuk rincian perhitungan lengkapnya."
   ],
-  "takeaway": "Informasi kupon adalah pengumuman rutin terkait pembayaran bunga atau imbal hasil periodik atas surat utang seperti obligasi atau sukuk yang diterbitkan emiten kepada investor pemegang instrumen tersebut. Pos yang biasanya tersentuh oleh aksi semacam ini adalah beban bunga dan arus kas pendanaan perusahaan, dua hal yang diperhatikan pelaku pasar karena memengaruhi profil likuiditas dan kemampuan bayar emiten. Karena isi dokumen belum berhasil dibaca, tidak ada angka besaran kupon, tanggal pembayaran, atau nilai obligasi yang bisa diverifikasi dari laporan ini. Penilaian untuk laporan ini adalah netral, sebab detail material baru bisa dinilai setelah dokumen lengkap berhasil diakses dan dibaca.",
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran rutin bunga (kupon) obligasi kepada pemegang surat utang, bukan aksi korporasi baru bagi pemegang saham. Pos yang tersentuh adalah beban bunga perusahaan, karena mekanisme step-up coupon membuat biaya utang naik 0,34 poin persentase dibanding tingkat dasar begitu peringkat kredit turun, yang pada akhirnya memengaruhi arus kas pendanaan dan laba bersih emiten. Penurunan peringkat oleh Fitch dan keputusan RUPO yang memicu kenaikan bunga ini sendiri sudah terjadi sejak April 2025, sehingga laporan hari ini hanyalah eksekusi rutin dari ketentuan yang sudah berlaku, bukan sinyal baru. Karena tidak ada informasi baru soal kondisi kredit atau keuangan EXCL saat ini selain pelaksanaan pembayaran sesuai jadwal, penilaian kami netral, dengan catatan bahwa mekanisme step-up ini tetap relevan diketahui investor karena mencerminkan biaya utang yang lebih tinggi akibat persepsi risiko kredit yang pernah memburuk.",
   "sentimen": "netral"
  },
  {
@@ -449,8 +454,8 @@ var ARTICLES = [
  {
   "slug": "sola-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
   "category": "Aksi Korporasi",
-  "title": "SOLA Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "Menjawab surat BEI, Xolare RCR Energy (SOLA) menyatakan tak ada informasi material yang belum diungkap dan tak ada rencana aksi korporasi dalam 3 bulan ke depan.",
+  "title": "SOLA Jawab BEI, Tegaskan Tak Ada Informasi [Material]",
+  "deck": "PT Xolare RCR Energy Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
   "image": "assets/img/bursa-layar.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T14:39:18",
@@ -460,15 +465,15 @@ var ARTICLES = [
   "tags": [
    "SOLA",
    "keterbukaan informasi",
-   "volatilitas saham",
-   "BEI"
+   "BEI",
+   "volatilitas saham"
   ],
   "body": [
-   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan penjelasan resmi menanggapi surat Bursa Efek Indonesia nomor S-10422/BEI.PP2/08-2026 yang meminta klarifikasi atas volatilitas transaksi efek perusahaan. Dalam surat bernomor 033/SOLA-INA/VIII/2026 tertanggal 10 Agustus 2026 yang ditandatangani Direktur Utama Mochamad Bhadaiwi, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E BEI.",
-   "Terkait aktivitas pemegang saham, perseroan menyatakan telah dan akan terus melaporkan secara berkala setiap perubahan kepemilikan saham oleh jajaran direksi, dewan komisaris, serta pemegang saham tertentu, sesuai POJK Nomor 4 Tahun 2024. Perseroan juga menyebut belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa, dan menyatakan tidak ada informasi atau kejadian penting lain yang material bagi kelangsungan usaha yang belum diungkap kepada publik.",
-   "Perseroan turut mengonfirmasi kepada pemegang saham utama mengenai rencana atas kepemilikan sahamnya di SOLA. Berdasarkan konfirmasi tersebut, pemegang saham utama menyatakan hingga saat ini belum memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan."
+   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan bernomor 033/SOLA-INA/VIII/2026 kepada Bursa Efek Indonesia (BEI) sebagai jawaban atas permintaan penjelasan BEI nomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi saham perseroan. Surat yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026 itu menegaskan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI.",
+   "Dalam surat itu, manajemen juga menyatakan tetap melaporkan secara berkala aktivitas kepemilikan saham beserta perubahannya yang dimiliki jajaran direksi, dewan komisaris, dan pemegang saham tertentu, sesuai POJK Nomor 4 Tahun 2024. Perseroan menyebut tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material serta belum diungkap kepada publik.",
+   "Perseroan turut mengonfirmasi kepada pemegang saham utama terkait rencana atas kepemilikan sahamnya. Hasil konfirmasi itu menyebutkan bahwa hingga saat ini pemegang saham utama belum memiliki rencana apa pun terkait kepemilikan sahamnya di SOLA."
   ],
-  "takeaway": "Laporan ini adalah jawaban wajib emiten atas surat permintaan penjelasan dari BEI setelah harga atau volume transaksi saham SOLA bergerak di luar kebiasaan, bukan pengumuman aksi korporasi baru. Dokumen semacam ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena isinya murni pernyataan transparansi dan konfirmasi bahwa tidak ada informasi tersembunyi yang memengaruhi investor. Pelaku pasar biasanya mencermati laporan seperti ini untuk memastikan pergerakan harga saham tidak dipicu oleh rencana korporasi atau langkah pemegang saham besar yang belum terungkap. Karena baik perseroan maupun pemegang saham utamanya sama-sama menyatakan tidak ada rencana atau informasi material yang disembunyikan, catatan redaksi menilai laporan ini netral bagi fundamental SOLA, sebatas konfirmasi rutin tanpa perubahan substansi bisnis.",
+  "takeaway": "Surat ini adalah jawaban wajib emiten ketika BEI meminta penjelasan setelah mengamati pergerakan transaksi saham yang dianggap tidak wajar, semacam konfirmasi rutin bahwa tidak ada kabar tersembunyi di balik pergerakan itu. Isinya tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya murni pernyataan keterbukaan informasi, bukan transaksi atau aksi korporasi. Dokumen ini juga tidak memuat data apa pun soal volume atau pergerakan harga yang memicu permintaan BEI, sehingga pembaca belum bisa menilai seberapa besar volatilitas yang dimaksud. Secara fundamental, kami menilai laporan ini netral karena tidak ada informasi baru yang mengubah gambaran bisnis maupun rencana korporasi SOLA, sekaligus tidak ada rencana pengendali untuk mengubah kepemilikan sahamnya dalam waktu dekat.",
   "sentimen": "netral"
  },
  {
@@ -667,8 +672,8 @@ var ARTICLES = [
  {
   "slug": "dr-rilis-keterbukaan-informasi-penerbitan-waran-ke-41",
   "category": "Aksi Korporasi",
-  "title": "DR Rilis Keterbukaan Informasi Penerbitan [Waran] ke-41",
-  "deck": "Emiten berkode DR menyampaikan keterbukaan informasi terkait penawaran umum penerbitan waran ke-41, namun isi dokumen belum berhasil diakses secara lengkap.",
+  "title": "DR Tawarkan [Waran Terstruktur] Seri ke-41 pada 12-13 Agustus",
+  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan keterbukaan informasi penerbitan waran terstruktur seri ke-41, dengan masa penawaran 12-13 Agustus 2026.",
   "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T11:33:52",
@@ -677,16 +682,16 @@ var ARTICLES = [
   "emiten": "DR",
   "tags": [
    "DR",
-   "Waran",
-   "Penawaran Umum",
-   "Keterbukaan Informasi"
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "keterbukaan informasi"
   ],
   "body": [
-   "Emiten dengan kode saham DR menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia terkait pengumuman penawaran umum penerbitan waran seri ke-41, sebagaimana tercatat dalam laporan bertanggal 10 Agustus 2026. Waran adalah instrumen yang memberi pemegangnya hak untuk membeli saham baru perusahaan pada harga dan periode tertentu, sehingga penerbitannya berkaitan langsung dengan potensi penambahan jumlah saham beredar di kemudian hari.",
-   "Sayangnya, isi lengkap dokumen keterbukaan informasi ini tidak berhasil diekstraksi dari sumbernya, sehingga rincian penting seperti jumlah waran yang diterbitkan, harga pelaksanaan, periode pelaksanaan, maupun tujuan penggunaan dana hasil pelaksanaan waran belum dapat disampaikan. Nama resmi perusahaan penerbit kode DR juga belum dapat dipastikan dari data yang tersedia.",
-   "The Signal akan memperbarui pemberitaan ini begitu dokumen lengkap dapat diakses dan diverifikasi, termasuk rincian angka dan syarat pelaksanaan waran yang relevan bagi pemegang saham."
+   "PT RHB Sekuritas Indonesia dengan kode emiten DR menyampaikan keterbukaan informasi ke Bursa Efek Indonesia terkait penawaran umum waran terstruktur atau structured warrant untuk penerbitan yang ke-41. Surat bernomor 010/EQD/RHB/08/2026 itu ditandatangani oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, pada 10 Agustus 2026 pukul 11.33 WIB.",
+   "Menurut dokumen tersebut, masa penawaran umum waran terstruktur ini akan berlangsung selama dua hari, yaitu pada tanggal 12 hingga 13 Agustus 2026. Rincian lengkap mengenai jenis waran, saham acuan, rasio konversi, harga pelaksanaan, maupun jumlah unit yang diterbitkan disebutkan berada dalam lampiran resmi berupa dokumen PDF pengumuman, namun rincian angka tersebut tidak tercantum dalam teks keterbukaan informasi yang tersedia untuk laporan ini.",
+   "Dokumen juga menyertakan versi bahasa Inggris dengan isi yang sama, serta pernyataan bahwa surat ini adalah dokumen elektronik resmi yang tidak memerlukan tanda tangan basah dan bahwa RHB Sekuritas Indonesia bertanggung jawab penuh atas informasi di dalamnya."
   ],
-  "takeaway": "Aksi korporasi ini adalah pengumuman terkait penerbitan waran, yakni surat berharga yang memberi hak beli saham baru pada harga dan periode tertentu di masa depan. Pos kinerja yang berpotensi tersentuh adalah jumlah saham beredar dan laba per saham, karena bila waran dieksekusi oleh pemegangnya, perusahaan akan menerbitkan saham baru yang dapat mendilusi kepemilikan serta laba per saham pemegang saham lama. Penilaian kami netral, karena dokumen sumber belum terbaca sehingga jumlah waran, harga pelaksanaan, dan tujuan dana belum diketahui, rincian ini perlu dikonfirmasi dari dokumen lengkap sebelum dampaknya bisa dinilai lebih jauh.",
+  "takeaway": "Waran terstruktur adalah produk derivatif yang diterbitkan oleh perusahaan sekuritas, memberi pemegangnya hak, bukan kewajiban, untuk memperoleh keuntungan dari pergerakan harga saham acuan tertentu dalam periode terbatas, dan lazim dipakai investor untuk bertransaksi dengan leverage. Bagi RHB Sekuritas selaku penerbit, aktivitas ini biasanya menyentuh pos pendapatan berbasis fee dari penjualan produk, bukan ekuitas atau laba per saham perusaan itu sendiri, karena bukan merupakan penerbitan saham baru. Penilaian redaksi netral, sebab ini adalah seri ke-41 dari aktivitas bisnis yang memang rutin dilakukan RHB Sekuritas, dan data yang tersedia tidak memuat nilai penawaran, ukuran, atau saham acuan yang bisa dipakai untuk menakar dampak fundamentalnya. Detail lebih lanjut baru bisa dinilai setelah lampiran PDF pengumuman dibaca secara utuh.",
   "sentimen": "netral"
  },
  {
@@ -739,8 +744,8 @@ var ARTICLES = [
  {
   "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
   "category": "Aksi Korporasi",
-  "title": "HD (KGI Sekuritas) Ajukan Term Sheet [Waran] BBCA",
-  "deck": "KGI Sekuritas Indonesia (HD) menyampaikan term sheet penawaran umum call warrant atas saham BBCA berkode BBCAHDCJ7A yang jatuh tempo 23 April 2027.",
+  "title": "HD Ajukan [Term Sheet] Waran Terstruktur Saham BBCA",
+  "deck": "KGI Sekuritas Indonesia (HD) menyampaikan term sheet penawaran umum call warrant BBCAHDCJ7A dengan saham BBCA sebagai aset dasar, jatuh tempo 23 April 2027.",
   "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:22:50",
@@ -749,15 +754,15 @@ var ARTICLES = [
   "emiten": "HD",
   "tags": [
    "HD",
+   "KGI Sekuritas",
    "waran terstruktur",
-   "BBCA",
-   "KGI Sekuritas"
+   "BBCA"
   ],
   "body": [
-   "KGI Sekuritas Indonesia dengan kode emiten HD menyampaikan laporan keterbukaan informasi kepada Bursa Efek Indonesia berupa penyampaian term sheet penawaran umum waran terstruktur. Waran yang dimaksud adalah Call Warrant BBCA HD dengan kode perdagangan BBCAHDCJ7A, yaitu produk terstruktur yang diterbitkan oleh KGI Sekuritas dengan saham BBCA sebagai acuan, dan akan berakhir masa berlakunya pada 23 April 2027.",
-   "Laporan ditandatangani secara elektronik oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, dan disampaikan pada 10 Agustus 2026 pukul 10.22 WIB. Dokumen lengkap term sheet dilampirkan dalam berkas bernama Termsheet_BBCAHDCJ7A.pdf. Laporan yang diterima BEI ini tidak mencantumkan rincian angka seperti harga strike, rasio penukaran, jumlah unit yang ditawarkan, maupun perkiraan dana yang akan dihimpun dari penawaran ini."
+   "KGI Sekuritas Indonesia, emiten dengan kode HD, menyampaikan kepada Bursa Efek Indonesia term sheet penawaran umum waran terstruktur bertajuk Call Warrant BBCA HD EXP 23 April 2027 dengan kode perdagangan BBCAHDCJ7A. Waran ini menggunakan saham PT Bank Central Asia Tbk sebagai aset dasar dan akan jatuh tempo pada 23 April 2027. Surat pemberitahuan bernomor 00001/E086/KGI/08/2026 ditandatangani oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 10.22 WIB.",
+   "Sebagai bagian dari proses pengajuan itu, KGI melampirkan dokumen bertajuk Termsheet_BBCAHDCJ7A.pdf ke sistem pelaporan elektronik bursa. Namun, bagian dokumen yang tersedia untuk publik hanya memuat surat pengantar formal. Rincian teknis seperti jumlah waran yang akan diterbitkan, harga pelaksanaan, rasio konversi, premi, maupun target dana yang dihimpun dari penerbitan waran ini tidak tercantum dalam bagian yang bisa dibaca."
   ],
-  "takeaway": "Waran terstruktur atau structured warrant adalah produk turunan yang diterbitkan oleh perusahaan sekuritas, bukan oleh emiten saham acuannya, sehingga penerbitan ini adalah aksi bisnis KGI Sekuritas sebagai penerbit produk, bukan aksi korporasi BBCA. Bagi HD sendiri, penerbitan waran semacam ini biasanya menyentuh pos pendapatan fee dan premi dari bisnis produk derivatif, bukan mengubah jumlah saham beredar atau ekuitas BBCA. Karena dokumen yang tersedia baru sebatas notifikasi penyampaian term sheet tanpa rincian harga strike, rasio, ukuran penawaran, atau target dana yang dihimpun, penilaian fundamental atas dampaknya belum bisa ditentukan secara memadai. Dengan demikian catatan ini menilai laporan sebagai netral, menunggu detail lengkap dari term sheet yang dilampirkan sebelum dampaknya terhadap kinerja HD dapat dinilai lebih jauh.",
+  "takeaway": "Waran terstruktur (structured warrant) adalah produk turunan yang diterbitkan sekuritas, dalam hal ini KGI, yang memberi pemegangnya hak untuk mendapatkan selisih harga saham acuan, di sini BBCA, pada harga dan tanggal tertentu, biasanya diselesaikan secara tunai tanpa memindahkan kepemilikan saham BBCA itu sendiri. Bagi KGI Sekuritas selaku penerbit, aktivitas ini menyentuh pos pendapatan dari komisi dan premi penjualan produk derivatif, bukan struktur permodalan atau utang perusahaan secara langsung. Penilaian fundamental atas laporan ini netral, karena dokumen yang tersedia baru berupa surat pengantar pengajuan term sheet tanpa rincian jumlah waran, harga pelaksanaan, atau proyeksi dana yang dihimpun, sehingga besar kecilnya dampak terhadap kinerja KGI belum bisa diukur dari informasi yang ada.",
   "sentimen": "netral"
  },
  {

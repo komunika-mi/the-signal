@@ -110,11 +110,21 @@
     if (html) box.innerHTML = html;
   };
 
-  // shared subscribe modal wiring
+  // Modal Signal+ hanya buka-tutup, tidak menerima masukan apa pun.
+  //
+  // Sebelumnya di sini ada penangan submit yang memanggil preventDefault()
+  // lalu langsung memasang status "success" tanpa mengirim ke mana pun.
+  // Situs ini statis dan tidak punya penerima, jadi email yang diketik
+  // pengunjung lenyap sementara mereka diberi tahu berhasil berlangganan.
+  // Formulirnya DICABUT, bukan diperbaiki, karena tujuan pengirimannya
+  // memang belum ada.
+  //
+  // Kalau newsletter benar-benar dijalankan nanti: pasang fetch ke penyedia
+  // (Buttondown, Mailchimp, Formspree) DAN tautan kebijakan privasi, karena
+  // saat itu email pembaca mulai tersimpan di server pihak ketiga.
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');
     if (!backdrop) return;
-    var modal = document.getElementById('modal');
     var close = document.getElementById('modal-close');
     document.addEventListener('click', function (e) {
       if (e.target.closest('[data-open-subscribe]')) { backdrop.classList.add('open'); }
@@ -122,8 +132,6 @@
     if (close) close.addEventListener('click', function () { backdrop.classList.remove('open'); });
     backdrop.addEventListener('click', function (e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') backdrop.classList.remove('open'); });
-    var form = document.getElementById('subscribe-form');
-    if (form) form.addEventListener('submit', function (e) { e.preventDefault(); modal.classList.add('success'); });
   };
 
 })();

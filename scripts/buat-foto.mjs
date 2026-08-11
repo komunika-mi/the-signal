@@ -22,8 +22,22 @@ const MODEL = process.env.FOTO_MODEL || 'z_image';
 const IMG_DIR = path.join(ROOT, 'assets/img');
 
 // Gaya dasar supaya seluruh pustaka terlihat satu keluarga.
+//
+// PENTING soal teks: z_image mengacak tulisan persis seperti model lain.
+// Terbukti 2026-08-11, prompt "papan kurs money changer" menghasilkan papan
+// terbaca jelas berisi nama mata uang palsu (ENGNAL, DAIONAS, CARISAHA), dan
+// prompt "meja registrasi RUPS" memunculkan spanduk berbunyi "Kandina Kacing
+// Natanla". Keduanya tidak terpakai. Catatan lama yang bilang z_image "bersih
+// tanpa teks nyasar" itu keliru: uji pertamanya kebetulan adegan tanpa teks.
+//
+// Larangan di prompt saja TIDAK cukup kalau adegannya memang menuntut tulisan.
+// Aturan sebenarnya ada di PEMILIHAN ADEGAN: jangan minta papan pengumuman,
+// spanduk, layar presentasi, atau dokumen yang menghadap kamera. Kalau
+// permukaan bertulisan tidak terhindarkan, minta sudut miring, jarak jauh,
+// atau di luar fokus supaya terbaca sebagai tekstur, bukan kata.
 const GAYA = 'Editorial documentary photograph, Indonesia, natural light, ' +
-  'photojournalistic, shallow depth of field, no text overlays, no watermarks, no logos';
+  'photojournalistic, shallow depth of field, no text overlays, no watermarks, ' +
+  'no logos, no readable signage, no lettering facing the camera';
 
 function jalankan(args) {
   return execFileSync('higgsfield', args, { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
@@ -44,9 +58,14 @@ export function buatFoto(nama, isiPrompt) {
   if (!cocok) throw new Error('tidak ada result_url: ' + keluaran.slice(0, 160));
 
   execFileSync('curl', ['-sL', cocok[1], '-o', tmp + '.png'], { encoding: 'utf8' });
-  // Turunkan ke 760px lebar + JPEG q6: cukup tajam untuk web, hemat ukuran repo.
+  // 680px + q7 + metadata dibuang. Diukur pada foto yang sudah ada: 25% lebih
+  // ringan dari setelan lama (760px q6) tanpa artefak yang kelihatan.
+  // Rasio tetap 4:3 karena kartu beranda dan thumbnail terkait memakai 4:3;
+  // hanya hero artikel yang 16:9 dan itu memotong tengah, aman untuk foto
+  // dokumenter. Kartu terbesar ~340px, jadi 680px cukup untuk layar 2x.
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', tmp + '.png',
-    '-vf', 'scale=760:-1', '-update', '1', '-q:v', '6', tujuan], { encoding: 'utf8' });
+    '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
+    '-map_metadata', '-1', tujuan], { encoding: 'utf8' });
   fs.rmSync(tmp + '.png', { force: true });
 
   const kb = Math.round(fs.statSync(tujuan).size / 1024);

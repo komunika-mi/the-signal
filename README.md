@@ -87,6 +87,15 @@ npm run foto -- nama-berkas "deskripsi adegan"
 npm run foto -- --daftar        # lihat pustaka yang ada
 ```
 
+**Jangan minta adegan berisi tulisan.** z_image mengacak teks sama seperti
+model lain. Prompt "papan kurs money changer" menghasilkan papan terbaca
+jelas berisi mata uang palsu (ENGNAL, DAIONAS, CARISAHA); "meja registrasi
+RUPS" memunculkan spanduk berbunyi "Kandina Kacing Natanla"; close-up uang
+kertas selalu memberi denominasi karangan. Larangan di prompt tidak cukup
+kalau adegannya menuntut tulisan, jadi ganti ADEGANNYA: minta sudut miring,
+jarak jauh, atau di luar fokus. Selalu periksa hasilnya sebelum dipakai,
+paling cepat lewat lembar kontak (ffmpeg tile).
+
 Model default `z_image` (0,15 kredit per gambar). Hasil uji banding:
 `gpt_image_2` 7 kredit tanpa beda kualitas berarti, dan `soul_2` menempelkan
 watermark teks sehingga tidak terpakai. Setelah menambah foto, daftarkan

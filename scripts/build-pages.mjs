@@ -103,7 +103,7 @@ const KARTU_PASAR = MARKET
 // dan video sudah memuatnya sendiri; halaman artikel dan tayangan memakai deck
 // yang tidak menyebut kredit sama sekali, padahal tautan artikel yang paling
 // sering dibagikan. Jadi kredit ditempelkan di sini.
-const KREDIT = ' · didukung adsmediamix.id';
+const KREDIT = ' · adsmediamix.id dan tvOne';
 
 function ringkasBagikan(t, maks = 104) {
   const s = String(t || '').replace(/\s+/g, ' ').trim();

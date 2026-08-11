@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VAPaXWE1pLM",
+  "title": "VKTR Serahkan Dua Bus Listrik ke Universitas Negeri Yogyakarta",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "PT VKTR Teknologi Mobilitas Tbk menyerahkan dua unit bus listrik sepanjang 8 meter kepada Universitas Negeri Yogyakarta untuk mendukung operasional kampus yang lebih rendah emisi.",
+  "takeaway": "Langkah ini mencerminkan geliat industri kendaraan listrik dalam negeri sebagai bagian dari upaya transisi energi bersih di sektor transportasi."
+ },
+ {
   "id": "-ivXEzjEsVM",
   "title": "Gerobak Nyai, Modal Usaha untuk Warga Tanpa Pekerjaan",
   "category": "UMKM",
@@ -97,15 +105,6 @@ var VIDEOS = [
   "category": "Makroekonomi",
   "summary": "Kriminolog membahas keterkaitan antara tekanan ekonomi rumah tangga dan meningkatnya angka kejahatan. Bahasan menyoroti kelompok yang paling rentan ketika lapangan kerja menyusut.",
   "takeaway": "Data pengangguran dan PHK kerap dipakai sebagai indikator awal untuk memperkirakan tekanan sosial di kota besar.",
-  "featured": false
- },
- {
-  "id": "qZQ_z_p4QOM",
-  "title": "Gubernur Kepri Paparkan Penguatan Sistem Ekonomi Daerah",
-  "program": "tvOneNews",
-  "category": "Makroekonomi",
-  "summary": "Pemerintah Provinsi Kepulauan Riau memaparkan inisiatif penguatan sistem ekonomi daerah, memanfaatkan posisi geografis wilayah yang berbatasan langsung dengan Singapura dan Malaysia.",
-  "takeaway": "Daerah perbatasan punya keunggulan lokasi untuk perdagangan lintas negara, tetapi butuh infrastruktur logistik yang memadai untuk memanfaatkannya.",
   "featured": false
  }
 ];

@@ -1,93 +1,222 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
+// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
+// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
-  "slug": "kepercayaan-publik-jadi-kunci-persaingan-fintech-investasi",
-  "category": "Teknologi",
-  "title": "Kepercayaan Publik Jadi Kunci Persaingan [Fintech Investasi]",
-  "deck": "Survei nasional Digital Excellence Awards 2026 menunjukkan tingkat kepercayaan pengguna kini jadi penentu utama daya saing platform fintech investasi di Indonesia.",
-  "image": "assets/img/server-data.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T23:40:11+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458985-kepercayaan-publik-jadi-penentu-persaingan-fintech-investasi-ini-hasil-survei-nasional",
+  "slug": "nusron-konflik-agraria-bumn-tni-polri-paling-rumit",
+  "category": "BUMN",
+  "title": "Nusron: Konflik Agraria BUMN-TNI/Polri Paling [Rumit]",
+  "deck": "Menteri ATR/BPN Nusron Wahid memetakan tiga jenis konflik agraria, dan sengketa yang bersinggungan dengan aset BUMN serta TNI-Polri dinilai paling sulit diselesaikan.",
+  "image": "assets/img/pesawat-bandara.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-12T03:15:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459282-buka-bukaan-soal-konflik-agraria-nusron-akui-benturan-dengan-aset-bumn-hingga-tni-polri-yang-paling-repot",
   "tags": [
-   "fintech investasi",
-   "TRIV Group",
-   "kepercayaan konsumen",
-   "survei nasional"
+   "konflik agraria",
+   "reforma agraria",
+   "Nusron Wahid",
+   "ATR/BPN"
   ],
   "body": [
-   "Persaingan antarplatform fintech investasi di Indonesia kian ketat seiring makin banyaknya masyarakat yang tertarik pada aset digital dan layanan keuangan berbasis teknologi. Dalam situasi ini, faktor kepercayaan pengguna disebut menjadi pembeda utama yang menentukan posisi sebuah platform di mata publik, bukan sekadar fitur atau harga.",
-   "Fenomena itu tergambar dari ajang Digital Excellence Awards 2026 bertema Akselerasi Ekonomi Digital Indonesia, yang digelar di Hotel Bidakara Jakarta. Penghargaan ini diberikan berdasarkan survei nasional terhadap sekitar 19.000 responden usia produktif, yaitu 15 hingga 64 tahun, yang tersebar di 20 provinsi. Indikator penilaiannya mencakup tingkat kesadaran merek, tingkat kepercayaan publik, hingga persepsi masyarakat terhadap masing-masing pemain di industri tersebut.",
-   "Dalam ajang tersebut, TRIV Group dinobatkan sebagai Top Digital Application untuk kategori fintech investasi. CEO dan Founder TRIV Group, Gabriel Rey, menyebut pencapaian ini sebagai pemicu bagi timnya untuk terus menghadirkan inovasi produk dan meningkatkan kualitas layanan bagi basis pengguna yang kini mencapai lebih dari 6 juta nasabah.",
-   "Di luar capaian satu perusahaan, tren ini mencerminkan arah industri fintech secara umum, yaitu pertumbuhan yang tidak lagi hanya ditopang teknologi, tetapi juga literasi keuangan digital masyarakat yang terus membaik. Platform yang menawarkan layanan mudah diakses, aman, dan sesuai kebutuhan pengguna cenderung lebih berhasil menjaga loyalitas nasabahnya."
+   "Menteri Agraria dan Tata Ruang/Kepala BPN Nusron Wahid memaparkan tiga kelompok konflik agraria yang selama ini ditangani pemerintah. Pemetaan ini disampaikan usai rapat koordinasi bersama pimpinan DPR RI di Jakarta, Selasa (11/8/2026), yang membahas percepatan penyelesaian konflik agraria sekaligus pelaksanaan reforma agraria. Bagi pembaca, penjelasan ini penting karena menyangkut kepastian hukum atas lahan yang selama ini bersengketa di berbagai daerah.",
+   "Menurut Nusron, tiga kategori tersebut adalah konflik di kawasan hutan, konflik yang bersinggungan dengan aset BUMN atau Barang Milik Negara, dan konflik yang melibatkan lahan milik swasta. Ia menjelaskan bahwa status kepemilikan lahan menentukan cara penyelesaian yang bisa ditempuh. Sengketa dengan pihak swasta diakui relatif lebih mudah diselesaikan karena pemerintah bisa langsung memanggil pihak terkait dan mencabut izin jika ditemukan pelanggaran.",
+   "Kondisi berbeda berlaku untuk konflik yang menyangkut aset BUMN, BMN, maupun lahan yang diklaim TNI dan Polri. Nusron menyebut kategori ini paling kompleks karena bersinggungan dengan aturan hukum keuangan negara, sehingga keputusan pelepasan aset tidak bisa diambil sembarangan. Ia menegaskan bahwa kekeliruan dalam melepas aset semacam ini berisiko menimbulkan persoalan hukum baru, termasuk potensi tudingan korupsi.",
+   "Sementara itu, konflik agraria yang berada di kawasan hutan mengikuti mekanisme tersendiri, yakni harus melalui proses pelepasan kawasan hutan terlebih dahulu sebelum lahan tersebut dapat dimanfaatkan untuk kepentingan lain. Pembagian tiga kategori ini, menurut Nusron, menjadi dasar bagi ATR/BPN dalam menyusun langkah penyelesaian konflik agraria ke depan."
   ]
  },
  {
-  "slug": "perpres-ojol-kelar-agustus-driver-jadi-umkm",
+  "slug": "purbaya-kaji-pembatasan-beli-pertalite-desil-9-10",
+  "category": "Energi",
+  "title": "Purbaya Kaji [Pembatasan] Beli Pertalite Desil 9-10",
+  "deck": "Menkeu Purbaya membuka opsi larangan pembelian Pertalite bagi kelompok desil 9 dan 10, seiring penyiapan sistem penerapannya secara bertahap.",
+  "image": "assets/img/spbu-bbm.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:45:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459237-purbaya-ungkap-rencana-baru-soal-subsidi-bbm-pertalite-masyarakat-desil-9-10-bakal-dilarang-beli",
+  "tags": [
+   "Pertalite",
+   "Subsidi BBM",
+   "APBN",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "body": [
+   "Pemerintah tengah mematangkan opsi baru untuk membatasi konsumsi Pertalite bersubsidi agar tepat sasaran. Menteri Keuangan Purbaya Yudhi Sadewa mengungkapkan, rencana ini menyasar masyarakat dari kelompok ekonomi atas yang dinilai sudah tidak memerlukan bantuan bahan bakar bersubsidi. Bagi masyarakat luas, kebijakan ini penting karena berkaitan langsung dengan keberlanjutan anggaran subsidi energi negara.",
+   "Skema yang sedang dibahas adalah melarang kelompok desil 9 dan 10, yakni lapisan masyarakat dengan tingkat kesejahteraan tertinggi, untuk membeli Pertalite dan mengalihkan mereka ke BBM nonsubsidi. Purbaya menegaskan penerapannya tidak akan langsung menyeluruh, melainkan bertahap dalam beberapa bulan ke depan setelah sistem pendukungnya rampung disiapkan. Hingga saat ini, kebijakan tersebut masih berstatus pembahasan dan belum memiliki jadwal pasti pemberlakuan.",
+   "Menurut Purbaya, langkah pengendalian subsidi ini perlu dilakukan secara terukur mengingat harga minyak dunia masih bergerak fluktuatif. Pemerintah ingin memastikan penyesuaian kebijakan subsidi tidak sampai mengganggu kesehatan Anggaran Pendapatan dan Belanja Negara hingga akhir tahun.",
+   "Wacana ini mengemuka usai Purbaya menerima kunjungan Menteri ESDM Bahlil Lahadalia di Jakarta, Selasa (11/8/2026), yang juga membahas kondisi APBN secara umum. Purbaya menyebut Kementerian ESDM sebagai salah satu penyumbang besar penerimaan negara bukan pajak, sehingga koordinasi kedua pihak difokuskan pada upaya menjaga keamanan APBN sampai penghujung tahun."
+  ]
+ },
+ {
+  "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",
+  "category": "Moneter",
+  "title": "Airlangga: Calon Gubernur [PFII] dari Internal Pemerintah",
+  "deck": "Menko Airlangga Hartarto menyebut pemerintah sudah mengantongi calon Gubernur PFII, namun nama dan lokasi kantor lembaga itu belum diumumkan.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:18:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459250-bocoran-airlangga-soal-calon-gubernur-pfii-sosoknya-dari-internal-pemerintah",
+  "tags": [
+   "Airlangga Hartarto",
+   "PFII",
+   "Pusat Finansial Internasional Indonesia",
+   "Kelembagaan Ekonomi"
+  ],
+  "body": [
+   "Menteri Koordinator Perekonomian Airlangga Hartarto mengungkapkan bahwa pemerintah sudah menyiapkan kandidat untuk memimpin Pusat Finansial Internasional Indonesia atau PFII. Sosok tersebut, menurutnya, berasal dari kalangan internal pemerintah sendiri. Kabar ini penting karena PFII kelak menjadi lembaga yang mengelola pusat kegiatan finansial berskala internasional di Indonesia, sehingga figur pemimpinnya akan turut menentukan arah dan kredibilitas lembaga tersebut di mata investor.",
+   "Pernyataan itu disampaikan Airlangga usai menghadiri Musyawarah Anggota Asosiasi Emiten Indonesia 2026 di Jakarta pada Selasa, 11 Agustus 2026. Ia menjelaskan bahwa proses pembentukan kelembagaan PFII masih menjadi prioritas utama sebelum struktur kepengurusannya benar benar ditetapkan. Karena itu, nama calon gubernur maupun susunan organisasi lembaga belum akan diumumkan dalam waktu dekat, meski kandidat yang dimaksud sudah ada.",
+   "Selain menyiapkan calon pemimpin, pemerintah juga masih mematangkan pilihan lokasi kantor pusat operasional PFII. Kawasan milik InJourney di sekitar Bandara Internasional I Gusti Ngurah Rai, Bali, menjadi salah satu opsi yang dipertimbangkan, berdampingan dengan Jakarta yang turut masuk dalam daftar kandidat, termasuk kawasan Danareksa. Airlangga menegaskan belum ada keputusan final soal lokasi tersebut, dan pengumuman baru akan dilakukan setelah seluruh proses pembentukan lembaga rampung sesuai mekanisme yang berlaku."
+  ]
+ },
+ {
+  "slug": "telkom-kenalkan-connectivity-di-dti-cx-2026",
+  "category": "Teknologi",
+  "title": "Telkom Kenalkan [Connectivity+] di DTI-CX 2026",
+  "deck": "Telkom Solution menghadirkan Connectivity+, layanan konektivitas cepat dan luas untuk mendukung transformasi digital sektor bisnis di berbagai daerah.",
+  "image": "assets/img/server-data.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T20:18:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459241-perkenalkan-connectivity-telkom-tawarkan-layanan-berkecepatan-tinggi-dengan-jangkauan-luas",
+  "tags": [
+   "telkom",
+   "connectivity+",
+   "dti-cx 2026",
+   "konektivitas digital"
+  ],
+  "body": [
+   "Telkom Solution, unit bisnis PT Telkom Indonesia yang menyasar segmen business-to-business, memperkenalkan layanan bernama Connectivity+ dalam ajang Digital Transformation Indonesia Conference & Expo 2026 di Jakarta pada 5 hingga 6 Agustus. Layanan ini menawarkan konektivitas berkecepatan tinggi dengan jangkauan yang luas, sebuah kebutuhan yang makin mendesak seiring pelaku usaha di berbagai sektor bergantung pada jaringan digital untuk menjalankan operasional mereka.",
+   "Menurut Telkom Solution, konektivitas kini tidak sekadar memperluas akses internet, tetapi juga menjadi tulang punggung digitalisasi industri, pertumbuhan startup, peningkatan produktivitas usaha, hingga pembukaan peluang ekonomi baru di daerah. Lewat Connectivity+, perusahaan ingin memastikan pelanggan di berbagai sektor mendapat layanan yang andal sekaligus akses yang lebih merata terhadap ekosistem digital.",
+   "Vice President Enterprise Marketing & Growth Telkom, Reni Yustiani, menyampaikan bahwa pemerataan akses jaringan hingga wilayah pelosok masih menjadi pekerjaan rumah bersama bagi seluruh penyedia layanan telekomunikasi di Indonesia. Ia menjelaskan bahwa jaringan TelkomGroup terbentang di darat, laut, dan udara, mulai dari fiber optic, BTS, kabel laut, hingga satelit, sebagai fondasi untuk mempercepat transformasi digital nasional.",
+   "Connectivity+ diposisikan sebagai bagian dari kapabilitas Telkom Solution dalam menyediakan layanan terintegrasi yang dapat disesuaikan dengan kebutuhan dan karakteristik masing-masing pelanggan. Dengan pengalaman puluhan tahun di industri telekomunikasi, Telkom Solution turut menawarkan layanan pendukung lain secara end-to-end, mencakup infrastruktur digital, komputasi awan, big data, hingga keamanan siber."
+  ]
+ },
+ {
+  "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",
+  "category": "Pasar Modal",
+  "title": "Wakaf Istiqlal Masuk Bursa, Jangan [Kejar Return Tinggi]",
+  "deck": "Guru besar UI Budi Frensidy menilai dana wakaf Istiqlal boleh dikembangkan di pasar modal syariah, asalkan nilai pokoknya tetap terjaga.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T18:27:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459214-wacana-dana-wakaf-istiqlal-masuk-bursa-efek-guru-besar-ui-tidak-boleh-kejar-return-tinggi",
+  "tags": [
+   "wakaf",
+   "masjid istiqlal",
+   "pasar modal syariah",
+   "bursa efek"
+  ],
+  "body": [
+   "Wacana penempatan dana wakaf Masjid Istiqlal ke pasar modal syariah mendapat tanggapan dari Guru Besar Universitas Indonesia sekaligus pengamat pasar modal, Budi Frensidy. Ia menilai langkah ini bisa menjadi terobosan yang baik, namun pengelolaannya tidak boleh mengorbankan keamanan dana demi mengejar imbal hasil yang tinggi. Isu ini penting karena menyangkut cara aset wakaf umat dikelola secara produktif tanpa menghilangkan fungsi sosialnya.",
+   "Menurut Budi, secara prinsip tidak ada masalah jika dana wakaf ditempatkan di pasar modal selama menggunakan instrumen syariah, dikelola secara profesional dan transparan, serta disesuaikan dengan profil risiko yang tepat. Konsep wakaf produktif memang membuka peluang bagi dana wakaf untuk menghasilkan return, sehingga manfaat ekonominya dapat terus disalurkan kepada masyarakat dalam jangka panjang.",
+   "Meski begitu, Budi mengingatkan bahwa menjaga kelestarian nilai pokok wakaf adalah prinsip yang tidak boleh diabaikan. Ia menegaskan orientasi investasi tidak boleh mengejar return tinggi dengan mengambil risiko berlebihan, dan dana wakaf juga tidak boleh dipandang sebagai sumber likuiditas baru untuk menopang pasar saham. Bagi Budi, pasar modal harus diposisikan sebagai sarana pengelolaan wakaf, bukan tujuan akhir.",
+   "Untuk menjaga keamanan dana, Budi mendorong penerapan diversifikasi investasi, penetapan batas risiko yang jelas, serta pemilihan instrumen syariah yang prudent. Pengawasan dan pelaporan pengelolaan dana wakaf juga perlu dilakukan secara transparan agar masyarakat dapat memantau bagaimana dana tersebut dikelola."
+  ]
+ },
+ {
+  "slug": "esdm-kemenkeu-rombak-skema-subsidi-bbm",
+  "category": "Energi",
+  "title": "ESDM-Kemenkeu Rombak Skema [Subsidi] BBM",
+  "deck": "Menteri ESDM Bahlil Lahadalia dan Menkeu Purbaya Yudhi Sadewa membahas perbaikan penyaluran subsidi BBM agar tak lagi dinikmati kelompok mampu.",
+  "image": "assets/img/panel-surya-atap.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T16:46:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459176-bahlil-temui-purbaya-bahas-sistem-subsidi-bbm-masa-orang-kaya-kita-subsidi",
+  "tags": [
+   "bbm",
+   "subsidi",
+   "esdm",
+   "kemenkeu"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia menemui Menteri Keuangan Purbaya Yudhi Sadewa di Jakarta, Selasa (11/8/2026), untuk membahas perbaikan mekanisme penyaluran subsidi bahan bakar minyak. Pertemuan ini penting karena selama ini sebagian subsidi BBM dinilai belum tepat sasaran dan justru masih dinikmati kelompok masyarakat yang sebenarnya mampu.",
+   "Bahlil mengakui bahwa masyarakat dari kelompok pengeluaran desil 9 dan 10, yang tergolong mampu, masih bisa menikmati BBM bersubsidi. Padahal pemerintah mengalokasikan anggaran hingga ratusan triliun rupiah setiap tahun untuk subsidi minyak dan gas, sehingga ketepatan sasaran menjadi krusial agar manfaatnya benar-benar sampai kepada masyarakat yang berhak.",
+   "Koordinasi antara Kementerian ESDM dan Kementerian Keuangan ini juga merupakan tindak lanjut dari arahan Presiden agar seluruh subsidi sektor migas disalurkan tepat sasaran. Bahlil menyebut kedua kementerian tengah merumuskan sistem distribusi baru, meski ia belum membeberkan angka pasti potensi penghematan anggaran karena perhitungannya masih berjalan."
+  ]
+ },
+ {
+  "slug": "pembiayaan-umkm-diusulkan-naik-jadi-rp2-000-triliun",
   "category": "UMKM",
-  "title": "Perpres Ojol Kelar Agustus, Driver Jadi [UMKM]",
-  "deck": "Pemerintah menargetkan Perpres ekosistem ojek online rampung sebelum 17 Agustus, sekaligus menetapkan status UMKM bagi pengemudi ojol tanpa kewajiban pajak baru.",
+  "title": "Pembiayaan UMKM Diusulkan [Naik] jadi Rp2.000 Triliun",
+  "deck": "Airlangga Hartarto mengusulkan kenaikan target pembiayaan UMKM dari Rp1.500 triliun menjadi Rp2.000 triliun, plus dorongan pemanfaatan teknologi digital dan AI.",
   "image": "assets/img/batik-umkm.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T20:24:52+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458961-perpres-ojol-hampir-rampung-driver-ojek-online-bakal-jadi-umkm",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T16:21:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459163-airlangga-ungkap-2-cara-bikin-umkm-naik-kelas-pembiayaan-rp2000-triliun-hingga-ai",
+  "tags": [
+   "UMKM",
+   "Airlangga Hartarto",
+   "pembiayaan UMKM",
+   "OJK"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan dua langkah utama untuk mendongkrak kelas usaha mikro, kecil, dan menengah di Indonesia. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut perluasan akses pembiayaan dan pemanfaatan teknologi digital, termasuk kecerdasan buatan, sebagai dua kunci yang akan didorong. Isu ini penting karena menyangkut jutaan pelaku usaha kecil yang selama ini kesulitan naik kelas akibat keterbatasan modal.",
+   "Dalam UMKM Finance Summit 2026 yang digelar Otoritas Jasa Keuangan pada Selasa, Airlangga mengusulkan target pembiayaan UMKM dinaikkan dari Rp1.500 triliun menjadi Rp2.000 triliun. Artinya ada tambahan alokasi sekitar Rp500 triliun yang diarahkan untuk memperluas jangkauan pembiayaan bagi pelaku usaha kecil.",
+   "Menurut Airlangga, masih ada kelompok UMKM yang berada di posisi menengah, punya potensi berkembang namun belum memperoleh akses pembiayaan yang sepadan dengan kebutuhan usahanya. Kenaikan target tersebut ditujukan untuk menutup kesenjangan itu, sehingga pelaku usaha di kelompok ini punya peluang lebih besar untuk memperbesar skala bisnisnya.",
+   "Perluasan pembiayaan juga diarahkan tidak hanya kepada UMKM yang sudah terhubung dengan lembaga keuangan, tetapi juga pelaku usaha yang selama ini belum tersentuh akses pembiayaan formal. Dengan tambahan dana tersebut, pemerintah berharap semakin banyak UMKM potensial yang bisa naik kelas dan berkembang lebih jauh."
+  ]
+ },
+ {
+  "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
+  "category": "UMKM",
+  "title": "Ciri-ciri UMKM [Naik Kelas] yang Perlu Dipahami",
+  "deck": "UMKM naik kelas bukan sekadar soal omzet, melainkan transformasi usaha lewat digitalisasi, kualitas produk, dan akses pembiayaan yang lebih luas.",
+  "image": "assets/img/warung-makan.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T16:19:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459161-seperti-apa-sih-ciri-ciri-umkm-naik-kelas-inilah-contoh-contohnya-lewat-pengembangan-layanan-yang-memuaskan",
+  "tags": [
+   "umkm",
+   "umkm naik kelas",
+   "digitalisasi umkm",
+   "pembiayaan umkm"
+  ],
+  "body": [
+   "Pemerintah terus mendorong pelaku usaha mikro, kecil, dan menengah untuk naik kelas, bukan sekadar bertahan di pasar tetapi juga mampu tumbuh dan bersaing lebih luas. Konsep ini penting bagi pelaku UMKM karena menunjukkan bahwa keberhasilan usaha tidak hanya diukur dari besarnya pendapatan, melainkan dari kemampuan bisnis berkembang secara berkelanjutan.",
+   "Ada beberapa penanda yang biasa dipakai untuk melihat apakah sebuah UMKM sudah naik kelas. Di antaranya peningkatan skala usaha dari mikro menjadi kecil, pemanfaatan teknologi digital seperti marketplace, media sosial, pembayaran digital, hingga kecerdasan buatan, serta perbaikan kualitas produk dan kemasan agar bisa menembus pasar yang lebih besar. Perluasan akses pembiayaan dan rantai pasok, termasuk menjadi pemasok bagi industri yang lebih besar, juga menjadi indikator penting.",
+   "Ketika UMKM berhasil naik kelas, dampaknya tidak hanya dirasakan pemiliknya. Kapasitas produksi yang meningkat biasanya diikuti perluasan pasar dan penambahan tenaga kerja, sehingga turut membuka lapangan pekerjaan baru. Usaha yang sudah memiliki legalitas, pencatatan keuangan rapi, dan standar produk yang jelas juga lebih mudah mendapat pembiayaan serta masuk ke jaringan bisnis yang lebih luas, termasuk pasar ekspor.",
+   "Karena itu, naik kelas sebaiknya dipahami sebagai proses menyeluruh, mencakup penguatan produk, pelayanan, teknologi, sumber daya manusia, modal, hingga pengalaman pelanggan. Dengan pembenahan di berbagai aspek tersebut, UMKM diharapkan lebih siap menghadapi persaingan sekaligus punya peluang membuka segmen pasar baru."
+  ]
+ },
+ {
+  "slug": "blt-rp900-ribu-agustus-2026-belum-cair-ini-kata-pemerintah",
+  "category": "Makroekonomi",
+  "title": "BLT Rp900 Ribu Agustus 2026 [Belum] Cair, Ini Kata Pemerintah",
+  "deck": "Isu BLT Kesra Rp900 ribu kembali beredar di media sosial, tapi hingga pertengahan Agustus 2026 pemerintah belum mengumumkan pencairannya.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T14:52:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459139-blt-rp900-ribu-agustus-2026-cair-ini-penjelasan-terbaru-pemerintah",
+  "tags": [
+   "BLT",
+   "PKH",
+   "BPNT",
+   "bantuan sosial"
+  ],
+  "body": [
+   "Kabar soal pencairan Bantuan Langsung Tunai senilai Rp900 ribu kembali ramai di media sosial menjelang pertengahan Agustus 2026. Namun hingga Selasa (11/8/2026), pemerintah belum memberikan pengumuman resmi terkait penyaluran BLT Kesejahteraan Rakyat tersebut. Masyarakat perlu berhati-hati karena isu semacam ini kerap dimanfaatkan untuk menyebarkan tautan pendaftaran atau pengecekan bantuan yang tidak jelas sumbernya.",
+   "Bantuan sosial yang saat ini benar-benar berjalan adalah Program Keluarga Harapan dan Bantuan Pangan Non-Tunai untuk periode Juli sampai September 2026, yang disalurkan berdasarkan Data Tunggal Sosial dan Ekonomi Nasional. Hingga awal Agustus 2026, PKH sudah diterima lebih dari 7 juta keluarga dari total sasaran sekitar 10 juta Keluarga Penerima Manfaat. Adapun BPNT sudah menjangkau lebih dari 12 juta keluarga dari total sasaran di atas 18 juta KPM, dan proses penyaluran ke penerima lainnya masih terus berlangsung.",
+   "Menteri Sosial Saifullah Yusuf memastikan penyaluran kedua program tersebut untuk triwulan III 2026 masih berjalan hingga awal Agustus. Ia menyebutkan capaian penyaluran PKH dan BPNT sudah mencakup jutaan keluarga penerima manfaat per Rabu (5/8/2026), meski belum menyinggung rencana pencairan bantuan lain seperti BLT Rp900 ribu.",
+   "Dengan belum adanya konfirmasi resmi soal BLT Kesra tersebut, warga diimbau tidak mudah percaya pada informasi yang beredar di media sosial. Kewaspadaan ini penting agar masyarakat tidak menjadi korban penipuan berkedok bantuan sosial, terutama yang meminta data pribadi lewat tautan tidak resmi."
+  ]
+ },
+ {
+  "slug": "ojol-masuk-umkm-aplikator-tetap-wajib-bayar-bhr",
+  "category": "Ketenagakerjaan",
+  "title": "Ojol Masuk UMKM, Aplikator Tetap [Wajib] Bayar BHR",
+  "deck": "Mensesneg Prasetyo Hadi menegaskan kewajiban aplikator membayar BHR ke pengemudi ojol tidak hilang meski status mereka nanti digolongkan sebagai UMKM dalam Perpres Ojol.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T14:43:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459136-ojol-bakal-masuk-umkm-mensesneg-tegaskan-aplikator-tetap-wajib-bayar-bhr",
   "tags": [
    "ojol",
-   "ojek online",
+   "BHR",
    "UMKM",
-   "Perpres"
+   "aplikator"
   ],
   "body": [
-   "Pemerintah menargetkan penyelesaian Peraturan Presiden yang mengatur ekosistem transportasi online, termasuk status pengemudi ojek online, sebelum peringatan HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026. Beleid ini penting karena akan mengubah status hukum pengemudi ojol, yang selama ini berada di ranah tidak jelas, menjadi bagian dari pelaku usaha mikro, kecil, dan menengah.",
-   "Menteri Sekretaris Negara Prasetyo Hadi menyampaikan bahwa penyusunan draf Perpres tersebut sudah rampung dan kini tinggal menunggu proses administrasi sebelum resmi diterbitkan. Ia menyampaikan hal itu usai rapat pembahasan aturan tersebut di kompleks parlemen, Jakarta, Senin (10/8/2026). Sementara itu, Menteri UMKM Maman Abdurrahman menyebut masih ada sekitar dua pasal yang tengah dibahas sebelum Perpres bisa ditetapkan.",
-   "Menurut Maman, status UMKM akan memberi pengemudi ojol keleluasaan lebih besar dalam mengatur waktu kerja, sekaligus membuka akses terhadap berbagai program dan insentif yang selama ini disediakan pemerintah bagi pelaku UMKM. Ia juga menegaskan tidak ada kebijakan baru yang akan mengenakan pajak kepada pengemudi ojol akibat perubahan status ini, dan menyebut kabar sebaliknya yang beredar sebagai informasi keliru.",
-   "Maman menjelaskan penghasilan pengemudi ojol umumnya berkisar antara Rp10 juta hingga Rp15 juta per bulan, sehingga menurutnya tidak ada dasar bagi pemerintah untuk membebankan pajak khusus melalui skema status UMKM tersebut."
-  ]
- },
- {
-  "slug": "ai-cinefest-2026-telkomsel-perkuat-ekosistem-kreator-ai",
-  "category": "Teknologi",
-  "title": "AI Cinefest 2026: Telkomsel Perkuat Ekosistem Kreator [AI]",
-  "deck": "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang menjaring lebih dari seribu karya film pendek berbasis kecerdasan buatan dari kreator Indonesia.",
-  "image": "assets/img/kantor-startup.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T18:22:41+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458941-melalui-ai-cinefest-2026-telkomsel-dorong-pertumbuhan-ekosistem-kreator-ai-indonesia",
-  "tags": [
-   "telkomsel",
-   "ai cinefest",
-   "kreator ai",
-   "indonesia"
-  ],
-  "body": [
-   "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang ditujukan untuk mendorong pertumbuhan komunitas kreator berbasis kecerdasan buatan di Indonesia. Program ini berhasil menjaring 1.111 karya film pendek yang memanfaatkan teknologi AI dari berbagai wilayah tanah air, melampaui target awal panitia sebanyak 1.000 karya. Capaian ini menjadi penanda bahwa minat masyarakat terhadap AI sebagai medium berkarya terus meningkat.",
-   "Dari ribuan karya yang masuk, proses kurasi berlangsung ketat dan hanya menyisakan 100 peserta dengan karya terbaik yang berhak melanjutkan ke tahap Curated Workshop. Seleksi ini dilakukan oleh Arief Ash Shiddiq selaku Story Editor dan Immanuel Manurung sebagai AI Storyteller. Tingginya rasio seleksi tersebut menggambarkan semakin kompetitifnya kualitas talenta kreatif yang mengadopsi AI dalam proses produksi karya mereka.",
-   "Vice President Brand Communications Telkomsel, Emir G. Surya, menyampaikan bahwa AI Cinefest merupakan wujud komitmen perusahaan untuk membuka akses bagi kreator Indonesia memanfaatkan AI sebagai medium baru dalam berkarya. Ia menambahkan, kolaborasi dengan mitra ekosistem ditujukan untuk memperluas akses terhadap teknologi, pembelajaran, dan peluang kolaborasi guna menumbuhkan talenta serta ekosistem kreator AI yang kreatif, inklusif, dan berdaya saing.",
-   "Fenomena membeludaknya peserta AI Cinefest 2026 turut mencerminkan tren adopsi kecerdasan buatan yang meluas ke berbagai sektor, termasuk industri kreatif. Seiring tren tersebut, kebutuhan akan talenta yang mampu memanfaatkan AI secara kreatif sekaligus bertanggung jawab diperkirakan akan terus bertambah ke depan."
-  ]
- },
- {
-  "slug": "onlinepajak-berganti-nama-jadi-achilles-rangkul-urusan-pajak",
-  "category": "Teknologi",
-  "title": "OnlinePajak Berganti Nama Jadi Achilles, Rangkul Urusan [Pajak]",
-  "deck": "OnlinePajak bertransformasi menjadi ekosistem Achilles yang menggabungkan layanan pajak, transaksi, dokumen digital, hingga pendanaan usaha.",
-  "image": "assets/img/teknologi-logistik.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T18:03:33+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458937-transformasi-layanan-digital-kelola-pajak-dokumen-hingga-pendanaan-dalam-satu-wadah",
-  "tags": [
-   "OnlinePajak",
-   "Achilles",
-   "pajak digital",
-   "SPT"
-  ],
-  "body": [
-   "Setelah satu dekade dikenal sebagai penyedia layanan administrasi pajak digital, OnlinePajak kini bertransformasi menjadi Achilles, sebuah ekosistem bisnis yang cakupannya lebih luas. Perubahan ini penting bagi pelaku usaha karena berbagai kebutuhan operasional, mulai dari kepatuhan pajak, transaksi, dokumen digital, hingga akses pendanaan, kini bisa dikelola dalam satu platform yang sama.",
-   "Dalam peluncuran identitas barunya, Achilles menawarkan akses gratis hingga 50.000 transaksi per bulan bagi pelaku usaha. Layanan yang tercakup di antaranya pelaporan SPT, pembuatan invoice, penerbitan e-Faktur, serta akses pengajuan pembiayaan. Saat ini platform tersebut telah digunakan oleh lebih dari 150.000 entitas bisnis di Indonesia.",
-   "Chief Executive Officer Achilles, Charles Guinot, menjelaskan bahwa transformasi ini merupakan respons atas kebutuhan dunia usaha yang kian kompleks dan tidak lagi berhenti pada urusan kepatuhan pajak semata. Menurutnya, bisnis membutuhkan ekosistem yang menghubungkan kepatuhan, transaksi, pendanaan, dan intelijen bisnis dalam satu pengalaman yang terintegrasi, sehingga pelaku usaha dari berbagai skala dapat lebih fokus mengembangkan usahanya.",
-   "Untuk menjaga keamanan data penggunanya, Achilles menerapkan standar ISO 27001 dan beroperasi di bawah pengawasan Bank Indonesia serta Direktorat Jenderal Pajak. Perusahaan menyatakan akan terus mengembangkan ekosistem ini agar dapat memangkas kerumitan operasional bisnis di Indonesia."
+   "Pemerintah memastikan kewajiban perusahaan aplikator untuk membayar Bonus Hari Raya kepada pengemudi ojek online tidak akan hilang, sekalipun status mereka nanti digolongkan sebagai pelaku UMKM dalam Peraturan Presiden tentang Ojol yang sedang disiapkan. Ketegasan ini penting bagi para pengemudi ojol yang selama ini mengandalkan BHR sebagai bentuk perlindungan penghasilan di luar skema ketenagakerjaan formal.",
+   "Menteri Sekretaris Negara Prasetyo Hadi menyampaikan hal tersebut di Istana Merdeka, Jakarta Pusat, Selasa (11/8/2026). Ia menegaskan bahwa perubahan status pengemudi ojol menjadi bagian dari UMKM tidak lantas menghapus tanggung jawab aplikator untuk tetap memberikan BHR.",
+   "Menurut Prasetyo, ketentuan BHR tidak harus tercantum secara khusus dalam Perpres Ojol karena pemerintah sudah memiliki instrumen kebijakan lain, yakni mekanisme veto rate, untuk memastikan pelaksanaannya. Ia mencontohkan, pengaturan BHR tahun sebelumnya juga tidak dimuat secara eksplisit dalam Perpres, namun besarannya tetap bisa dinaikkan hingga dua kali lipat dibanding tahun sebelumnya berkat mekanisme tersebut.",
+   "Dengan skema itu, pemerintah menyebut perlindungan hak pengemudi ojol tidak semata bergantung pada isi Perpres yang tengah dirumuskan. Mekanisme veto rate akan tetap dipakai sebagai instrumen untuk mengatur hubungan bisnis antara aplikator dan mitra pengemudi, termasuk soal BHR."
   ]
  },
  {
@@ -120,7 +249,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CSIS: Direksi Tjoea Aubintoro [Tambah] Kepemilikan Saham",
   "deck": "Direksi CSIS, Tjoea Aubintoro, membeli 586.200 saham pada 10 Agustus 2026 sehingga hak suaranya naik dari 0,40 persen menjadi 0,44 persen.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/rups-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T17:06:02",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-9458-00.pdf-0.pdf",
@@ -144,7 +273,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PTRO Beri [Tanggapan] ke BEI soal Investasi Singaraja Putra",
   "deck": "Petrosea Tbk menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait transaksi material dan afiliasi serta investasi di Singaraja Putra.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:58:38",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5ccc58838a_9df9b4b581.pdf",
@@ -169,7 +298,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "IRRA Ubah Alamat Kantor Pusat, Pindah ke [ITS Tower] Jaksel",
   "deck": "PT Itama Ranoraya Tbk (IRRA) melaporkan perubahan alamat kantor pusat dari Jakarta Timur ke ITS Tower, Pejaten Timur, Jakarta Selatan, efektif sejak 5 Juni 2026.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/ruang-direksi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:57:36",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d53e209e48_bdc4670e6b.pdf",
@@ -193,7 +322,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "AVIA Publikasikan Siaran Pers Program [Kepatuhan] Persaingan Usaha",
   "deck": "PT Avia Avian Tbk (AVIA) menyampaikan siaran pers soal program kepatuhan persaingan usaha bersama KPPU, tanpa mencantumkan dampak finansial atau operasional.",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:45:20",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c5db2a9273_55626f70c0.pdf",
@@ -214,11 +343,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "kepercayaan-publik-jadi-kunci-persaingan-fintech-investasi",
+  "category": "Teknologi",
+  "title": "Kepercayaan Publik Jadi Kunci Persaingan [Fintech Investasi]",
+  "deck": "Survei nasional Digital Excellence Awards 2026 menunjukkan tingkat kepercayaan pengguna kini jadi penentu utama daya saing platform fintech investasi di Indonesia.",
+  "image": "assets/img/kantor-startup.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T23:40:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458985-kepercayaan-publik-jadi-penentu-persaingan-fintech-investasi-ini-hasil-survei-nasional",
+  "tags": [
+   "fintech investasi",
+   "TRIV Group",
+   "kepercayaan konsumen",
+   "survei nasional"
+  ],
+  "body": [
+   "Persaingan antarplatform fintech investasi di Indonesia kian ketat seiring makin banyaknya masyarakat yang tertarik pada aset digital dan layanan keuangan berbasis teknologi. Dalam situasi ini, faktor kepercayaan pengguna disebut menjadi pembeda utama yang menentukan posisi sebuah platform di mata publik, bukan sekadar fitur atau harga.",
+   "Fenomena itu tergambar dari ajang Digital Excellence Awards 2026 bertema Akselerasi Ekonomi Digital Indonesia, yang digelar di Hotel Bidakara Jakarta. Penghargaan ini diberikan berdasarkan survei nasional terhadap sekitar 19.000 responden usia produktif, yaitu 15 hingga 64 tahun, yang tersebar di 20 provinsi. Indikator penilaiannya mencakup tingkat kesadaran merek, tingkat kepercayaan publik, hingga persepsi masyarakat terhadap masing-masing pemain di industri tersebut.",
+   "Dalam ajang tersebut, TRIV Group dinobatkan sebagai Top Digital Application untuk kategori fintech investasi. CEO dan Founder TRIV Group, Gabriel Rey, menyebut pencapaian ini sebagai pemicu bagi timnya untuk terus menghadirkan inovasi produk dan meningkatkan kualitas layanan bagi basis pengguna yang kini mencapai lebih dari 6 juta nasabah.",
+   "Di luar capaian satu perusahaan, tren ini mencerminkan arah industri fintech secara umum, yaitu pertumbuhan yang tidak lagi hanya ditopang teknologi, tetapi juga literasi keuangan digital masyarakat yang terus membaik. Platform yang menawarkan layanan mudah diakses, aman, dan sesuai kebutuhan pengguna cenderung lebih berhasil menjaga loyalitas nasabahnya."
+  ]
+ },
+ {
   "slug": "arko-laporkan-perubahan-pengurus-rincian-belum-terungkap",
   "category": "Aksi Korporasi",
   "title": "ARKO Angkat [Direktur] dan Komisaris Baru, Efektif April 2026",
   "deck": "PT Arkora Hydro Tbk. (ARKO) melaporkan pengangkatan direktur dan komisaris baru menggantikan pejabat sebelumnya, berlaku efektif sejak 8 April 2026.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/konpers-emiten.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:39:02",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/01e9c37672_76d212b568.pdf",
@@ -243,7 +394,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "MDIY Buka Periode Pelaksanaan [MESOP] Tahap I-II 2026",
   "deck": "MDIY memulai periode pelaksanaan tahap I MESOP periode II 2026. Rincian jumlah opsi dan harga pelaksanaan belum dapat dipastikan karena dokumen belum terbaca penuh.",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:34:41",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a1c945fef_edb21c8bd0.pdf",
@@ -267,7 +418,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "MPPA Ubah [Anggaran Dasar] Usai Rights Issue Kedelapan",
   "deck": "MPPA melaporkan perubahan anggaran dasar ke BEI pada 10 Agustus 2026 sebagai tindak lanjut rights issue kedelapan (HMETD VIII), tanpa rincian angka modal baru.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:31:20",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6439b61a66_518d76d5f3.pdf",
@@ -292,7 +443,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "TRJA: Direksi Hesthi Sambodo [Beli] Saham Jadi 0,06%",
   "deck": "R Hesthi Sambodo, anggota Direksi TRJA, melaporkan kepemilikan sahamnya naik dari nol menjadi 905.600 lembar lewat serangkaian transaksi tidak langsung sepanjang Juni-Juli 2026.",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/analis-rapat.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T16:28:59",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7086-00.pdf-0.pdf",
@@ -310,6 +461,541 @@ var ARTICLES = [
    "Jika dihitung dari harga dan volume yang tercantum di setiap baris transaksi, total nilai pembelian mencapai sekitar Rp103,5 juta dan nilai penjualan sekitar Rp4,98 juta, sehingga nilai bersih investasi Hesthi Sambodo selama periode itu sekitar Rp98,5 juta. Laporan juga menegaskan bahwa Hesthi Sambodo bertindak sebagai pemberi sekaligus penerima kuasa pelaporan atas namanya sendiri, dan tidak ada keterangan mengenai kelompok pelapor terorganisasi."
   ],
   "takeaway": "Ini adalah laporan wajib kepemilikan saham insider yang harus disampaikan setiap anggota direksi atau komisaris saat kepemilikan sahamnya berubah, sesuai POJK 4/2024, bukan aksi korporasi yang mengubah struktur permodalan perseroan. Yang tersentuh hanyalah peta kepemilikan saham individu direksi, bukan ekuitas, arus kas, atau jumlah saham beredar perseroan, karena seluruh transaksi terjadi di pasar sekunder antar pemegang saham. Pelaku pasar biasanya memperhatikan transaksi semacam ini sebagai indikator keyakinan manajemen terhadap prospek perusahaan, apalagi karena posisinya net beli, bukan net jual. Namun secara fundamental penilaian ini netral, karena kepemilikan yang terbentuk hanya 0,06 persen dari hak suara perseroan, porsi yang terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat dari manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Koreksi Dividen Tunai, [Rp0,166] per Saham FY2025",
+  "deck": "HUMI mengoreksi pengumuman dividen 31 Juli lalu, menegaskan total dividen tunai Rp3 miliar atau Rp0,166 per saham untuk tahun buku 2025, dibayar 28 Agustus 2026.",
+  "image": "assets/img/meja-registrasi-rups.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T16:05:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f6fa0efed0_ad447128ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "dividen tunai",
+   "koreksi keterbukaan informasi",
+   "RUPST"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menerbitkan surat koreksi atas keterbukaan informasi dividen tunai yang sebelumnya disampaikan pada 31 Juli 2026. Melalui surat bernomor 549b/DU-HUMI/VII/2026 yang ditandatangani Corporate Secretary Arya M. Pradana, perseroan menegaskan rencana pembagian dividen tunai untuk tahun buku 2025 sesuai hasil Rapat Umum Pemegang Saham Tahunan (RUPST) tanggal 29 Juli 2026. Total nilai dividen yang dibagikan ditetapkan Rp3 miliar, atau setara Rp0,166 per saham. Dokumen tidak merinci bagian mana dari pengumuman awal yang diperbaiki.",
+   "Jadwal pembagian dividen ditetapkan sebagai berikut: cum dividen di Pasar Reguler dan Negosiasi jatuh pada 6 Agustus 2026, dengan ex dividen sehari setelahnya pada 7 Agustus 2026. Tanggal pencatatan pemegang saham yang berhak (DPS) ditetapkan 10 Agustus 2026 pukul 16.00, bersamaan dengan cum dividen di Pasar Tunai, sementara ex dividen Pasar Tunai jatuh 11 Agustus 2026. Pembayaran dividen kepada pemegang saham yang berhak dijadwalkan paling lambat pada 28 Agustus 2026.",
+   "Perseroan turut melampirkan data keuangan per 31 Desember 2025 yang menjadi dasar pembagian dividen ini. Laba bersih yang diatribusikan kepada entitas induk tercatat USD3.066.484, dengan saldo laba ditahan yang tidak dibatasi penggunaannya sebesar USD75.474.461 dan total ekuitas USD172.874.357. Dokumen ini dilampiri Pengumuman Dividen Tunai hasil RUPST tanggal 29 Juli 2026."
+  ],
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran dividen tunai rutin untuk laba tahun buku 2025 yang sudah disetujui RUPST, dan surat kali ini hanya mengoreksi detail administratif dari pengumuman sebelumnya tanpa perubahan substansi jumlah dividen. Pos yang tersentuh adalah kas dan saldo laba ditahan perseroan, yang akan berkurang sekitar Rp3 miliar begitu dividen dibayarkan, sementara pelaku pasar biasanya memperhatikan rasio pembagian ini terhadap laba bersih dan ekuitas untuk menilai kesehatan arus kas emiten. Dividen per saham yang hanya Rp0,166 mengindikasikan jumlah saham beredar HUMI sangat besar, namun besaran itu sendiri bukan hal negatif selama didukung oleh laba dan saldo laba ditahan yang positif seperti tercermin dalam data keuangan yang dilampirkan. Secara fundamental, laporan ini condong positif karena menunjukkan perseroan membukukan laba bersih positif dan memiliki saldo laba ditahan signifikan sehingga mampu mengembalikan sebagian keuntungan kepada pemegang saham, meski dokumen tidak menjelaskan apa spesifiknya yang dikoreksi dari pengumuman 31 Juli.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "padi-laporkan-ringkasan-hasil-rupslb-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PADI Tak Capai [Kuorum], Agenda Pengendali Tertunda",
+  "deck": "RUPSLB PADI pada 7 Agustus 2026 hanya dihadiri 25,45% pemegang saham sehingga gagal mengesahkan status pengendali Djoko Joelijanto dan perubahan susunan direksi.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:56:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8247b10b99_f3ae5590fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "kuorum",
+   "pengendali"
+  ],
+  "body": [
+   "Minna Padi Investama Sekuritas Tbk (PADI) melaporkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar pada 7 Agustus 2026, merujuk pada pemberitahuan sebelumnya bernomor 056/CS-PADI/VII/2026 tanggal 16 Juli 2026. Menurut risalah yang disampaikan ke Bursa Efek Indonesia, rapat itu hanya dihadiri pemegang saham yang mewakili 2.949.667.463 saham, atau 25,45 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan Perseroan. Kehadiran itu tidak memenuhi syarat kuorum yang diatur dalam anggaran dasar dan peraturan perundangan yang berlaku, sehingga kedua agenda rapat tidak menghasilkan keputusan.",
+   "Agenda pertama adalah persetujuan penetapan pengendali Perseroan, yaitu Djoko Joelijanto, sebagai penerima manfaat akhir atau ultimate beneficiary owner. Agenda kedua adalah persetujuan pengangkatan kembali atau perubahan susunan direksi. Untuk kedua agenda tersebut, dokumen mencatat tingkat kehadiran yang sama sebesar 25,45 persen, tanpa data suara setuju, tidak setuju, atau abstain karena rapat dinyatakan tidak mencapai kuorum sejak awal.",
+   "Laporan ditandatangani oleh Direktur Utama Perseroan dan disampaikan ke BEI pada 10 Agustus 2026 pukul 15.56 WIB, dilampiri tiga dokumen yaitu surat pengantar, catatan RUPSLB, dan risalah lengkap RUPSLB terkait pemegang saham pengendali. Dokumen tidak menyebutkan jadwal penyelenggaraan RUPSLB kedua untuk mengulang kedua agenda yang gagal diputuskan tersebut."
+  ],
+  "takeaway": "RUPSLB ini pada dasarnya adalah upaya Perseroan meminta persetujuan pemegang saham atas dua hal, yaitu penetapan resmi Djoko Joelijanto sebagai pengendali atau pemilik manfaat akhir, dan pembaruan susunan direksi, namun rapat batal mengambil keputusan karena kehadiran pemegang saham cuma 25,45 persen dari syarat kuorum yang ditentukan anggaran dasar. Yang tersentuh di sini bukan pos keuangan seperti laba atau ekuitas, melainkan kejelasan tata kelola, yaitu siapa yang secara resmi diakui sebagai pengendali Perseroan dan siapa yang duduk di jajaran direksi, dua hal yang biasa diperhatikan pelaku pasar karena memengaruhi kepastian arah kebijakan dan akuntabilitas manajemen. Dokumen tidak menyebutkan penyebab rendahnya kehadiran maupun rencana RUPSLB susulan, sehingga belum ada cukup bukti untuk menyimpulkan dampak fundamentalnya. Penilaian redaksi netral, karena kegagalan kuorum ini menunda kepastian struktur pengendalian dan direksi tanpa disertai indikasi kerugian finansial langsung, dan gambaran lengkapnya baru bisa dinilai setelah Perseroan menjadwalkan ulang RUPSLB untuk kedua agenda tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "heli-avia-nusantara-khatulistiwa-laporkan-perubahan-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "HELI: Pemegang Saham [Tambah] Porsi Jadi 8,43%",
+  "deck": "Avia Nusantara Khatulistiwa menambah kepemilikan di HELI dari 7,74 persen menjadi 8,43 persen lewat rangkaian pembelian sejak akhir Juni hingga awal Agustus 2026.",
+  "image": "assets/img/dokumen-prospektus.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:52:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6322-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HELI",
+  "tags": [
+   "HELI",
+   "kepemilikan saham",
+   "pemegang saham substansial",
+   "hak suara"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerima laporan keterbukaan informasi kepemilikan saham PT Jaya Trishindo Tbk (HELI) dari Avia Nusantara Khatulistiwa, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan. Berdasarkan laporan bertanggal 10 Agustus 2026 tersebut, jumlah saham HELI yang dimiliki Avia Nusantara Khatulistiwa naik dari 64.449.800 lembar menjadi 70.182.300 lembar, atau bertambah 5.732.500 lembar. Penambahan itu setara 8,89 persen dari kepemilikannya sebelum transaksi, dan mengubah porsi hak suaranya di HELI dari 7,74 persen menjadi 8,43 persen.",
+   "Rincian transaksi dalam laporan menunjukkan penambahan saham itu berasal dari serangkaian pembelian tidak langsung yang berlangsung hampir setiap hari bursa sejak 29 Juni hingga 6 Agustus 2026, dengan harga bervariasi antara Rp176 dan Rp206 per saham dan seluruhnya bertujuan investasi. Di tengah periode tersebut tercatat pula tiga kali penjualan tidak langsung dalam jumlah kecil, yakni 5.300 saham pada 27 Juli, 2.300 saham pada 31 Juli, dan 5.000 saham pada 3 Agustus 2026, yang dalam dokumen ditandai bertujuan divestasi. Volume penjualan ini jauh lebih kecil dibanding total pembelian sepanjang periode yang sama.",
+   "Dengan tambahan tersebut, Avia Nusantara Khatulistiwa memperkuat posisinya sebagai pemegang saham HELI dengan hak suara di atas 8 persen. Laporan ini disampaikan ke Otoritas Jasa Keuangan sesuai kewajiban Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi setiap kali kepemilikan saham seorang pemegang saham di perusahaan terbuka berubah, dalam hal ini karena Avia Nusantara Khatulistiwa memperbesar posisinya di HELI lewat pembelian bertahap di pasar. Karena transaksi terjadi di pasar sekunder, jumlah total saham beredar HELI dan laba per saham tidak berubah, yang bergeser hanya konsentrasi kepemilikan dan hak suara salah satu pemegang saham menjadi 8,43 persen. Penambahan sebesar 8,89 persen dari kepemilikan sebelumnya tergolong signifikan, bukan sekadar transaksi kecil, sehingga layak dibaca sebagai penguatan posisi pemegang saham tersebut di HELI. Secara fundamental, catatan ini cenderung positif karena mencerminkan akumulasi kepemilikan oleh pemegang saham substansial, meski dokumen tidak memberi informasi lebih jauh soal afiliasi atau motif di balik akumulasi tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "budi-perubahan-kepemilikan-saham-oleh-budi-delta-swakarya",
+  "category": "Aksi Korporasi",
+  "title": "BUDI: [Pemegang Saham] Kuasai 37,65% dari 33,11%",
+  "deck": "PT Budi Delta Swakarya membeli 203,7 juta saham BUDI seharga Rp210 per lembar pada 5 Agustus 2026, mengerek hak suaranya dari 33,11% menjadi 37,65%.",
+  "image": "assets/img/paparan-publik.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:50:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-9747-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUDI",
+  "tags": [
+   "BUDI",
+   "kepemilikan saham",
+   "pemegang saham",
+   "OJK"
+  ],
+  "body": [
+   "PT Budi Delta Swakarya melaporkan perubahan kepemilikan sahamnya di PT Budi Starch & Sweetener Tbk (BUDI) kepada Otoritas Jasa Keuangan pada 10 Agustus 2026, sesuai ketentuan POJK Nomor 4/2024. Sebelum transaksi, pihak ini memegang 1.487.271.833 saham BUDI dengan hak suara 33,11 persen. Setelah transaksi, kepemilikannya naik menjadi 1.690.967.732 saham dengan hak suara 37,65 persen.",
+   "Penambahan tersebut berasal dari pembelian 203.695.899 saham biasa BUDI pada 5 Agustus 2026, dengan harga Rp210 per saham dan status kepemilikan tidak langsung. Dalam laporan, tujuan transaksi disebutkan sebagai investasi jangka panjang. Jumlah saham yang ditambahkan setara dengan sekitar 13,70 persen dari kepemilikan pelapor sebelumnya, dan mendorong hak suaranya naik 4,54 poin persentase."
+  ],
+  "takeaway": "Laporan ini adalah pemberitahuan wajib perubahan kepemilikan saham kepada OJK, bukan aksi korporasi yang mengubah struktur modal BUDI, sehingga tidak menambah jumlah saham beredar maupun mengubah laba per saham perusahaan. Yang tersentuh adalah peta pemegang saham dan konsentrasi hak suara, sesuatu yang biasa diperhatikan pelaku pasar karena berkaitan dengan siapa yang mengendalikan arah perusahaan ke depan. Dari sisi ukuran, penambahan 203,7 juta saham setara 13,7 persen dari kepemilikan sebelumnya dan mengerek hak suara lebih dari empat poin persentase ke level 37,65 persen, jumlah yang cukup besar untuk dibaca sebagai sinyal, bukan sekadar transaksi administratif. Dokumen tidak menyebutkan apakah PT Budi Delta Swakarya berstatus pengendali atau afiliasi pengendali BUDI, sehingga makna penuh dari penguatan kendali ini belum bisa dipastikan tanpa informasi tersebut. Secara fundamental, penambahan kepemilikan dalam jumlah signifikan oleh pemegang saham besar umumnya dibaca sebagai sinyal positif berupa keyakinan terhadap prospek perusahaan, sehingga laporan ini condong positif.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "okas-bumi-arsana-mulia-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "OKAS: Bumi Arsana Mulia Kuasai [25,60%] Hak Suara Baru",
+  "deck": "PT Bumi Arsana Mulia melaporkan kepemilikan baru 607,52 juta saham OKAS setara 25,60% hak suara, dari sebelumnya nihil, senilai Rp73,51 miliar pada 4 Agustus 2026.",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:39:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7997-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OKAS",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "kepemilikan saham",
+   "hak suara"
+  ],
+  "body": [
+   "PT Bumi Arsana Mulia melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya kini tercatat memiliki 607.521.388 saham PT Ancora Indonesia Resources Tbk (OKAS), setara 25,60 persen hak suara perusahaan. Sebelum transaksi, pelapor sama sekali tidak memiliki saham OKAS, sehingga hak suaranya 0 persen. Laporan bernomor LK/10082026/0005/1 ini disampaikan pada 10 Agustus 2026, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024.",
+   "Dalam dokumen disebutkan, transaksi tercatat berjenis repurchase agreement dengan status kepemilikan tidak langsung, terjadi pada 4 Agustus 2026 dengan tujuan investasi. Nilai yang tercantum dalam laporan untuk transaksi atas 607.521.388 saham biasa tersebut adalah Rp73,51 miliar. Dokumen tidak mencantumkan nama pemilik langsung maupun rincian pihak lain yang terlibat dalam pengaturan repurchase agreement ini."
+  ],
+  "takeaway": "Aksi korporasi ini adalah laporan wajib perubahan kepemilikan saham, mengumumkan munculnya PT Bumi Arsana Mulia sebagai pemegang baru 25,60 persen hak suara OKAS lewat skema repurchase agreement secara tidak langsung. Yang tersentuh di sini adalah struktur kepemilikan dan komposisi hak suara pemegang saham OKAS, bukan pos keuangan perusahaan seperti ekuitas, arus kas, atau laba, karena transaksi ini terjadi antar pemegang saham dan tidak membawa dana segar masuk ke kas perusahaan. Penilaian kami netral, sebab meski porsi 25,60 persen tergolong besar dan berpotensi mengubah peta pengendalian OKAS ke depan, dokumen tidak menjelaskan identitas pengendali akhir PT Bumi Arsana Mulia, latar belakang skema repurchase agreement tersebut, atau kaitannya dengan pemegang saham lama, sehingga dampak fundamentalnya bagi kinerja OKAS belum bisa dipastikan dan layak dipantau lebih lanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "excl-kupon-sukuk-ijarah-naik-usai-pemangkasan-rating-fitch",
+  "category": "Aksi Korporasi",
+  "title": "EXCL: Kupon Sukuk Ijarah Naik usai [Pemangkasan] Rating Fitch",
+  "deck": "XLSMART (EXCL) membayar Ijarah Fee Sukuk Seri E senilai Rp672,1 juta pada 10 Agustus 2026, naik 0,34 persen menyusul penurunan peringkat dari Fitch.",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:12:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/936aa46c3f_b6c001f7ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "Sukuk Ijarah",
+   "Fitch Rating",
+   "obligasi korporasi"
+  ],
+  "body": [
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) mengumumkan pembayaran Ijarah Fee ke-30 untuk Sukuk Ijarah Berkelanjutan II XL Axiata Tahap II Tahun 2019 Seri E, melalui keterbukaan informasi yang ditandatangani Corporate Secretary Susan Masniari pada 10 Agustus 2026 pukul 15.12 WIB. Tingkat imbalan yang dibayarkan sebesar 10,34 persen per tahun dengan nilai nominal Rp672.100.000, dan jatuh tempo pembayaran pada 10 Agustus 2026.",
+   "Dalam keterangan tambahan, perseroan menjelaskan bahwa terdapat penambahan cicilan pembayaran bunga sebesar 0,34 persen per tahun yang dihitung secara pro rata. Penambahan ini merupakan konsekuensi dari penurunan hasil pemeringkatan oleh Fitch Rating Indonesia, sesuai dengan keputusan Rapat Umum Pemegang Obligasi (RUPO) pada 14 April 2025. Rincian perhitungan kenaikan kupon tersebut dicantumkan dalam lampiran bertajuk Perhitungan Kupon Seri D Ijarah Seri E 2019."
+  ],
+  "takeaway": "Ijarah Fee adalah imbalan yang dibayarkan emiten kepada pemegang sukuk, fungsinya setara dengan kupon bunga pada obligasi konvensional namun berbasis akad syariah. Kenaikan kupon secara pro rata ini menambah beban bunga yang harus ditanggung XLSMART atas sukuk seri ini, sehingga menyentuh pos beban bunga dan arus kas pendanaan perusahaan, sementara bagi pemegang sukuk berarti imbal hasil yang diterima menjadi lebih tinggi dari kupon awal. Secara fundamental, laporan ini condong negatif karena kenaikan kupon dipicu oleh penurunan peringkat kredit dari Fitch Rating Indonesia, yang mengindikasikan lembaga pemeringkat menilai risiko kredit XLSMART meningkat sehingga biaya utang perusahaan menjadi lebih mahal, meski besaran kenaikannya sendiri relatif kecil yaitu 0,34 poin persentase per tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "excl-sampaikan-informasi-kupon-rincian-belum-terbaca",
+  "category": "Aksi Korporasi",
+  "title": "EXCL Bayar Kupon Obligasi, Bunga Naik usai Peringkat [Turun]",
+  "deck": "XLSMART Telecom (EXCL) membayar kupon ke-30 Obligasi Berkelanjutan I Tahap II Seri D senilai Rp2,4 miliar pada 10 Agustus 2026, dengan bunga naik jadi 10,34 persen akibat penurunan peringkat Fitch.",
+  "image": "assets/img/rapat-komite.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T15:12:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5a6ec691a9_1e6cc8f433.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "Obligasi",
+   "Kupon",
+   "Fitch Ratings"
+  ],
+  "body": [
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) menyampaikan keterbukaan informasi soal pembayaran kupon obligasi kepada pemegang efek. Kupon yang dibayarkan adalah kupon ke-30 dari Obligasi Berkelanjutan I XL Axiata Tahap II Tahun 2019 Seri D, dengan tingkat bunga 10,34 persen per tahun dalam mata uang rupiah. Nilai nominal pembayaran tercatat Rp2.404.050.000 dan jatuh tempo pembayaran pada 10 Agustus 2026. Surat bernomor 0605/EXT/CSEC/CEOD/2026 ini ditandatangani secara elektronik oleh Susan Masniari selaku Corporate Secretary pada 10 Agustus 2026 pukul 15.12.",
+   "Dalam bagian informasi lain, perusahaan menjelaskan bahwa tingkat bunga kupon Seri D ini sudah mencakup tambahan cicilan bunga sebesar 0,34 persen per tahun yang dihitung secara pro rata. Tambahan ini dipicu oleh penurunan hasil pemeringkatan dari Fitch Ratings Indonesia, dan besarannya mengikuti keputusan Rapat Umum Pemegang Obligasi (RUPO) yang digelar pada 14 April 2025. Dengan kata lain, obligasi ini memiliki mekanisme step-up coupon yang otomatis menaikkan bunga ketika peringkat kredit emiten diturunkan. Perusahaan merujuk pembaca pada lampiran bernama EXCL_Perhitungan Kupon Seri D Ijarah Seri E 2019.pdf untuk rincian perhitungan lengkapnya."
+  ],
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran rutin bunga (kupon) obligasi kepada pemegang surat utang, bukan aksi korporasi baru bagi pemegang saham. Pos yang tersentuh adalah beban bunga perusahaan, karena mekanisme step-up coupon membuat biaya utang naik 0,34 poin persentase dibanding tingkat dasar begitu peringkat kredit turun, yang pada akhirnya memengaruhi arus kas pendanaan dan laba bersih emiten. Penurunan peringkat oleh Fitch dan keputusan RUPO yang memicu kenaikan bunga ini sendiri sudah terjadi sejak April 2025, sehingga laporan hari ini hanyalah eksekusi rutin dari ketentuan yang sudah berlaku, bukan sinyal baru. Karena tidak ada informasi baru soal kondisi kredit atau keuangan EXCL saat ini selain pelaksanaan pembayaran sesuai jadwal, penilaian kami netral, dengan catatan bahwa mekanisme step-up ini tetap relevan diketahui investor karena mencerminkan biaya utang yang lebih tinggi akibat persepsi risiko kredit yang pernah memburuk.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Tegaskan Tak Ada [Fakta Material] di Balik Volatilitas Saham",
+  "deck": "SOLA merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/lobi-lift-kantor.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T14:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a7228e48dc_4daf43defe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOLA",
+  "tags": [
+   "SOLA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI bernomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi efek perseroan. Dalam surat bernomor 033/SOLA-INA/VIII/2026 yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Terkait kepemilikan saham, manajemen menyatakan telah melaporkan secara berkala aktivitas dan perubahan kepemilikan saham oleh direksi, dewan komisaris, serta pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham Perusahaan Terbuka.",
+   "Setelah dikonfirmasi oleh Corporate Secretary, pemegang saham utama SOLA menyatakan belum memiliki rencana terkait kepemilikan sahamnya di perseroan. Manajemen menutup surat dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
+  ],
+  "takeaway": "Surat ini adalah klarifikasi wajib yang diminta BEI ketika transaksi suatu saham menunjukkan pergerakan harga atau volume yang tidak biasa, semacam permintaan konfirmasi apakah ada informasi tersembunyi di balik pergerakan tersebut. Karena isinya hanya berupa penegasan bahwa tidak ada fakta material baru, tidak ada rencana aksi korporasi, dan kepemilikan pemegang saham utama tidak berubah, tidak ada pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung; yang relevan di sini adalah transparansi dan tata kelola informasi emiten. Secara fundamental laporan ini netral bagi SOLA, karena hanya mengonfirmasi ketiadaan informasi baru dan tidak membawa perubahan apa pun pada rencana korporasi maupun struktur kepemilikan yang bisa dijadikan dasar penilaian positif atau negatif.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sola-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Jawab BEI, Tegaskan Tak Ada Informasi [Material]",
+  "deck": "PT Xolare RCR Energy Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
+  "image": "assets/img/arsip-berkas.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T14:39:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdecc46763_99b1952523.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOLA",
+  "tags": [
+   "SOLA",
+   "keterbukaan informasi",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan bernomor 033/SOLA-INA/VIII/2026 kepada Bursa Efek Indonesia (BEI) sebagai jawaban atas permintaan penjelasan BEI nomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi saham perseroan. Surat yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026 itu menegaskan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI.",
+   "Dalam surat itu, manajemen juga menyatakan tetap melaporkan secara berkala aktivitas kepemilikan saham beserta perubahannya yang dimiliki jajaran direksi, dewan komisaris, dan pemegang saham tertentu, sesuai POJK Nomor 4 Tahun 2024. Perseroan menyebut tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material serta belum diungkap kepada publik.",
+   "Perseroan turut mengonfirmasi kepada pemegang saham utama terkait rencana atas kepemilikan sahamnya. Hasil konfirmasi itu menyebutkan bahwa hingga saat ini pemegang saham utama belum memiliki rencana apa pun terkait kepemilikan sahamnya di SOLA."
+  ],
+  "takeaway": "Surat ini adalah jawaban wajib emiten ketika BEI meminta penjelasan setelah mengamati pergerakan transaksi saham yang dianggap tidak wajar, semacam konfirmasi rutin bahwa tidak ada kabar tersembunyi di balik pergerakan itu. Isinya tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya murni pernyataan keterbukaan informasi, bukan transaksi atau aksi korporasi. Dokumen ini juga tidak memuat data apa pun soal volume atau pergerakan harga yang memicu permintaan BEI, sehingga pembaca belum bisa menilai seberapa besar volatilitas yang dimaksud. Secara fundamental, kami menilai laporan ini netral karena tidak ada informasi baru yang mengubah gambaran bisnis maupun rencana korporasi SOLA, sekaligus tidak ada rencana pengendali untuk mengubah kepemilikan sahamnya dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "perpres-ojol-kelar-agustus-driver-jadi-umkm",
+  "category": "UMKM",
+  "title": "Perpres Ojol Kelar Agustus, Driver Jadi [UMKM]",
+  "deck": "Pemerintah menargetkan Perpres ekosistem ojek online rampung sebelum 17 Agustus, sekaligus menetapkan status UMKM bagi pengemudi ojol tanpa kewajiban pajak baru.",
+  "image": "assets/img/kopi-roasting.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T20:24:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458961-perpres-ojol-hampir-rampung-driver-ojek-online-bakal-jadi-umkm",
+  "tags": [
+   "ojol",
+   "ojek online",
+   "UMKM",
+   "Perpres"
+  ],
+  "body": [
+   "Pemerintah menargetkan penyelesaian Peraturan Presiden yang mengatur ekosistem transportasi online, termasuk status pengemudi ojek online, sebelum peringatan HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026. Beleid ini penting karena akan mengubah status hukum pengemudi ojol, yang selama ini berada di ranah tidak jelas, menjadi bagian dari pelaku usaha mikro, kecil, dan menengah.",
+   "Menteri Sekretaris Negara Prasetyo Hadi menyampaikan bahwa penyusunan draf Perpres tersebut sudah rampung dan kini tinggal menunggu proses administrasi sebelum resmi diterbitkan. Ia menyampaikan hal itu usai rapat pembahasan aturan tersebut di kompleks parlemen, Jakarta, Senin (10/8/2026). Sementara itu, Menteri UMKM Maman Abdurrahman menyebut masih ada sekitar dua pasal yang tengah dibahas sebelum Perpres bisa ditetapkan.",
+   "Menurut Maman, status UMKM akan memberi pengemudi ojol keleluasaan lebih besar dalam mengatur waktu kerja, sekaligus membuka akses terhadap berbagai program dan insentif yang selama ini disediakan pemerintah bagi pelaku UMKM. Ia juga menegaskan tidak ada kebijakan baru yang akan mengenakan pajak kepada pengemudi ojol akibat perubahan status ini, dan menyebut kabar sebaliknya yang beredar sebagai informasi keliru.",
+   "Maman menjelaskan penghasilan pengemudi ojol umumnya berkisar antara Rp10 juta hingga Rp15 juta per bulan, sehingga menurutnya tidak ada dasar bagi pemerintah untuk membebankan pajak khusus melalui skema status UMKM tersebut."
+  ]
+ },
+ {
+  "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 500 Lembar Saham",
+  "deck": "Dewan Komisaris AKPI, Henry Liem, melepas 500 lembar saham pada 7 Agustus 2026. Hak suaranya tetap di 1,8678 persen karena porsi yang dijual sangat kecil.",
+  "image": "assets/img/meja-notaris.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T13:06:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7937-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "kepemilikan saham",
+   "komisaris",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan 500 lembar saham perusahaan kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 7 Agustus 2026 dengan harga Rp515 per saham, tercatat sebagai kepemilikan tidak langsung. Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Dengan transaksi ini, jumlah saham AKPI yang dipegang Henry Liem berkurang dari 11.435.859 lembar menjadi 11.435.359 lembar. Meski begitu, hak suaranya di perusahaan tidak berubah, tetap di angka 1,8678 persen baik sebelum maupun sesudah transaksi, karena jumlah saham yang dilepas hanya sekitar 0,0044 persen dari total kepemilikannya."
+  ],
+  "takeaway": "Laporan ini merupakan kewajiban keterbukaan atas transaksi saham pribadi milik insider, dalam hal ini Dewan Komisaris AKPI, bukan aksi korporasi yang dilakukan perusahaan itu sendiri. Transaksi semacam ini tidak mengubah jumlah saham beredar maupun struktur permodalan AKPI, sehingga tidak menyentuh pos ekuitas atau laba per saham perusahaan secara langsung, pelaku pasar biasanya memantau laporan seperti ini untuk membaca sinyal keyakinan insider terhadap prospek perusahaan. Secara fundamental, laporan ini netral bagi AKPI karena saham yang dijual hanya setara 0,0044 persen dari kepemilikan Henry Liem dan hak suaranya pun tidak berubah, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kdtn-laporan-perubahan-kepemilikan-saham-putrasakti-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri [Restrukturisasi] Kepemilikan Saham",
+  "deck": "Putrasakti Mandiri melepas 3 juta saham KDTN senilai Rp1,32 miliar pada 7 Agustus 2026, hak suara turun tipis dari 35,59% menjadi 35,36% untuk restrukturisasi internal grup usaha.",
+  "image": "assets/img/resepsionis-korporat.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:58:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6660-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "kepemilikan saham",
+   "OJK",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) melaporkan kepada Otoritas Jasa Keuangan bahwa Putrasakti Mandiri, pemegang saham perusahaan yang bukan berasal dari jajaran direksi maupun dewan komisaris, telah menjual 3.000.000 lembar saham KDTN pada 7 Agustus 2026. Transaksi dilakukan dengan skema repurchase agreement pada harga Rp439 per saham, sehingga nilai keseluruhan transaksi mencapai sekitar Rp1,32 miliar. Dalam laporan yang diterima OJK pada 10 Agustus 2026 itu, tujuan transaksi disebutkan sebagai restrukturisasi kepemilikan saham dalam kelompok usaha.",
+   "Sebelum transaksi, Putrasakti Mandiri tercatat memegang 445.000.000 lembar saham KDTN, setara 35,59% hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 442.000.000 lembar dengan hak suara 35,36%. Saham yang dilepas berstatus kepemilikan langsung dan hanya setara 0,67% dari total saham yang dipegang Putrasakti Mandiri sebelum transaksi, sehingga porsi mayoritas kepemilikannya di KDTN tetap dipertahankan.",
+   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 2 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham signifikan melaporkan perubahan kepemilikan sahamnya kepada regulator."
+  ],
+  "takeaway": "Ini adalah laporan wajib seorang pemegang saham signifikan, bukan direksi atau komisaris, yang menjual sebagian kecil sahamnya di KDTN lewat mekanisme repurchase agreement, sesuai kewajiban keterbukaan kepemilikan saham ke OJK. Yang tersentuh dari transaksi ini bukan kas atau ekuitas emiten, melainkan komposisi pemegang saham dan hak suara utama, yang relevan bagi investor minoritas karena berkaitan dengan kekuatan pengendalian atas perusahaan. Secara fundamental laporan ini netral, sebab saham yang dilepas hanya 0,67% dari kepemilikan pelapor dan hak suaranya nyaris tidak bergeser, dari 35,59% menjadi 35,36%, sehingga terlalu kecil untuk dibaca sebagai sinyal keluar dari saham. Tujuan yang dicantumkan, yaitu restrukturisasi kepemilikan dalam kelompok usaha, juga mengarah pada perpindahan internal antarafiliasi ketimbang pelepasan ke pasar terbuka.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "poll-sampaikan-ralat-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "POLL Sampaikan [Ralat] Laporan Keuangan Interim Semester I 2026",
+  "deck": "Pollux Properties Indonesia (POLL) merevisi laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, tanpa merinci pos yang diralat.",
+  "image": "assets/img/lobi-bursa.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:57:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810120428-64177-0/FinancialStatement-2026-II-POLL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLL",
+  "tags": [
+   "POLL",
+   "Laporan Keuangan",
+   "Ralat Laporan",
+   "Pemantauan Khusus"
+  ],
+  "body": [
+   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan ralat atau koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026. Penyampaian ini tercatat dalam surat nomor 014/PPI-CST/OJK-IDX/VIII/2026 tertanggal 10 Agustus 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, sebagai revisi atas laporan kuartal II 2026 yang sudah diserahkan sebelumnya. Laporan disusun berdasarkan PSAK dengan status tidak diaudit atau unaudited, dan disajikan dalam mata uang rupiah dengan satuan penuh.",
+   "Dalam posisi keuangan per 30 Juni 2026 yang tercantum di dokumen, kas dan setara kas perseroan tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik menjadi Rp2,23 miliar, dari sebelumnya Rp820,37 juta per akhir 2025. Dokumen resmi yang diterima tidak menjelaskan secara spesifik pos mana yang diperbaiki dari laporan versi awal maupun alasan di balik koreksi tersebut.",
+   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus atau watchlist Bursa Efek Indonesia, dan laporan disusun sebagai entitas grup yang mencakup anak perusahaan Perseroan."
+  ],
+  "takeaway": "Aksi ini adalah penyampaian ulang atau koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah dilaporkan ke OJK dan BEI, sehingga menggantikan angka versi awal dengan versi yang diklaim sudah diperbaiki. Pos yang tersentuh dari data yang tersedia adalah aset lancar, khususnya kas dan setara kas serta piutang usaha, dua indikator likuiditas dan efektivitas penagihan yang biasa diawasi pelaku pasar. Penilaian kami netral, karena dokumen yang diterima tidak merinci pos spesifik yang diralat dari laporan sebelumnya, tidak menyertakan laporan laba rugi atau liabilitas secara lengkap, dan tidak menjelaskan penyebab koreksi, sehingga belum cukup bukti untuk menyimpulkan dampaknya terhadap fundamental perseroan. Yang masih kurang untuk penilaian lebih jauh adalah rincian perbandingan angka sebelum dan sesudah ralat serta alasan resmi dari manajemen. Status POLL di papan pemantauan khusus turut menjadi konteks yang perlu diperhatikan pemegang saham, meski tidak berkaitan langsung dengan koreksi laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "heal-laporan-kepemilikan-saham-yustinus-immanuel-herawan",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Direksi [Beli] Tambahan 50.000 Saham Perseroan",
+  "deck": "Direksi HEAL, Yustinus Immanuel Herawan, menambah kepemilikan saham dari 80.000 menjadi 130.000 lembar lewat pembelian Rp785 per saham pada 6 Agustus 2026.",
+  "image": "assets/img/presentasi-jauh.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:50:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-8296-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "kepemilikan saham",
+   "direksi",
+   "Medikaloka Hermina"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan laporan kepemilikan saham dari salah satu anggota direksinya, Yustinus Immanuel Herawan, kepada Otoritas Jasa Keuangan pada 10 Agustus 2026. Dalam laporan itu, jumlah saham HEAL yang dimilikinya bertambah dari 80.000 lembar menjadi 130.000 lembar, atau naik 50.000 lembar.",
+   "Penambahan tersebut berasal dari transaksi pembelian pada 6 Agustus 2026 dengan harga Rp785 per saham untuk klasifikasi saham biasa, dengan tujuan transaksi tercatat sebagai investasi. Berdasarkan harga tersebut, nilai pembelian 50.000 lembar saham itu diperkirakan sekitar Rp39,25 juta.",
+   "Meski jumlah lembar sahamnya bertambah 62,5 persen dari kepemilikan sebelumnya, porsi hak suara Yustinus di HEAL hanya bergeser tipis dari 0,0005 persen menjadi 0,0008 persen. Angka ini menunjukkan kepemilikannya masih sangat kecil dibandingkan total saham beredar Medikaloka Hermina Tbk secara keseluruhan."
+  ],
+  "takeaway": "Ini adalah laporan wajib keterbukaan informasi ketika seorang direksi emiten membeli tambahan saham perusahaannya sendiri di pasar. Transaksi semacam ini pada dasarnya menyangkut komposisi kepemilikan orang dalam dan tidak mengubah jumlah saham beredar HEAL secara keseluruhan maupun laba per saham perusahaan. Secara fundamental, penilaian ini netral. Pembelian oleh direksi lazim dibaca sebagai sinyal kepercayaan diri terhadap perusahaan, tetapi nilainya di sini hanya sekitar Rp39,25 juta dan cuma menggeser hak suara dari 0,0005 persen menjadi 0,0008 persen, sehingga besarannya terlalu kecil untuk dibaca sebagai sinyal kuat terhadap kinerja atau arah bisnis HEAL ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi Nicholas Santoso [Beli] 81.600 Saham Charnic Capital",
+  "deck": "Direksi Charnic Capital Tbk (NICK), Nicholas Santoso, melaporkan pembelian 81.600 saham perusahaan pada 7 Agustus 2026, menaikkan hak suaranya dari 0 persen menjadi 0,01 persen.",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:50:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-0213-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan direksi",
+   "laporan OJK"
+  ],
+  "body": [
+   "Nicholas Santoso, anggota Direksi PT Charnic Capital Tbk (NICK), melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah membeli saham perusahaan tempatnya menjabat. Sebelum transaksi, Nicholas tidak memegang satu pun saham NICK. Setelah rangkaian transaksi pembelian pada 7 Agustus 2026, kepemilikannya menjadi 81.600 lembar saham biasa, dengan hak suaranya di perusahaan naik dari 0 persen menjadi 0,01 persen.",
+   "Pembelian dilakukan lewat 16 transaksi terpisah pada tanggal yang sama, sebagian besar berstatus kepemilikan tidak langsung dan satu transaksi berstatus langsung sebanyak 500 lembar. Harga beli berkisar antara Rp1.445 hingga Rp1.545 per saham, dengan jumlah tiap transaksi bervariasi dari 100 lembar hingga 24.300 lembar. Seluruh transaksi dicatat dengan tujuan investasi.",
+   "Laporan ini disampaikan sesuai kewajiban keterbukaan dalam POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mengharuskan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan yang mereka pimpin."
+  ],
+  "takeaway": "Ini adalah laporan wajib kepemilikan saham oleh insider, dalam hal ini seorang anggota direksi yang mencatatkan pembelian saham perusahaan sendiri di pasar. Transaksi semacam ini tidak menambah jumlah saham beredar karena hanya berpindah kepemilikan di pasar sekunder, sehingga tidak berdampak pada laba per saham maupun ekuitas perusahaan, yang berubah hanya struktur kepemilikan dan hak suara pelapor. Penilaian kami netral. Meski arah transaksinya adalah pembelian, yang biasanya dibaca pasar sebagai bentuk keyakinan insider terhadap perusahaan, jumlahnya sangat kecil karena hak suara Nicholas hanya naik ke 0,01 persen, sehingga terlalu remah untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "moli-sampaikan-koreksi-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
+  "deck": "MOLI menyampaikan koreksi laporan keuangan interim per 30 Juni 2026, dengan kas dan setara kas naik dari Rp68,80 miliar menjadi Rp149,13 miliar.",
+  "image": "assets/img/ruang-tunggu-eksekutif.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:44:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810115312-64165-0/FinancialStatement-2026-II-MOLI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOLI",
+  "tags": [
+   "MOLI",
+   "laporan keuangan",
+   "koreksi",
+   "BEI"
+  ],
+  "body": [
+   "PT Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, melalui surat bernomor 034/MMI/EXT/JGT/VII/2026. Laporan berstatus tidak diaudit dengan surat pernyataan direksi tertanggal 30 Juli 2026, mencakup perbandingan terhadap posisi akhir 2025 dan periode yang sama tahun sebelumnya.",
+   "Dalam dokumen tersebut turut disampaikan data dua entitas anak. PT Sumber Kita Indah, yang bergerak di bidang perdagangan dan berlokasi di Kawasan Industri MM2100, Cikarang Barat, Kabupaten Bekasi, telah beroperasi komersial sejak 1984 dengan total aset Rp330,15 miliar dan dimiliki MOLI sebesar 95,2 persen. Entitas anak lainnya, PT Molindo Raya Industrial, bergerak di industri etanol, spiritus, protein sel tunggal, asam asetat, etil asetat, gas karbon dioksida, dan pupuk tanaman di Lawang, Malang, Jawa Timur, beroperasi komersial sejak 1973 dengan total aset Rp1,46 triliun dan kepemilikan MOLI sebesar 81,41 persen.",
+   "Dari sisi posisi keuangan, kas dan setara kas konsolidasian MOLI per 30 Juni 2026 tercatat Rp149,13 miliar, naik dari Rp68,80 miliar per 31 Desember 2025. Dokumen juga mencantumkan pos dana yang dibatasi penggunaannya untuk kelompok lancar sebesar Rp29,10 miliar pada periode berjalan. Rincian pos laporan laba rugi, total liabilitas, dan ekuitas belum tercakup dalam bagian dokumen yang berhasil diekstrak."
+  ],
+  "takeaway": "Ini adalah koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke bursa, jadi bukan laporan baru melainkan perbaikan data yang telanjur dipublikasikan. Pos yang tersentuh dari data yang tersedia adalah kas dan setara kas konsolidasian, yang naik cukup signifikan dari Rp68,80 miliar menjadi Rp149,13 miliar, sementara laba rugi, total liabilitas, dan ekuitas belum tercakup dalam dokumen yang bisa dibaca sehingga belum bisa dinilai. Pelaku pasar biasanya memperhatikan pos kas karena mencerminkan likuiditas jangka pendek perusahaan untuk membiayai operasional dan kewajiban. Secara fundamental, penilaian atas laporan ini netral, karena kenaikan kas saja belum cukup menggambarkan kesehatan keuangan MOLI secara utuh tanpa data laba rugi dan liabilitas yang lengkap, ditambah sifat laporan yang murni administratif berupa koreksi data.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
+  "category": "Aksi Korporasi",
+  "title": "DR Sampaikan Term Sheet [Waran Terstruktur] 18 Seri Baru",
+  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan term sheet penawaran umum 18 seri call warrant atas saham-saham acuan, jatuh tempo November 2026 dan Maret 2027.",
+  "image": "assets/img/serah-terima-map.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:34:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dc6396edf_2094d9aefc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "call warrant"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia dengan kode broker DR menyampaikan keterbukaan informasi mengenai penyampaian term sheet penawaran umum waran terstruktur (structured warrant) kepada Bursa Efek Indonesia. Dokumen bernomor 011/EQD/RHB/08/2026 ini ditandatangani secara elektronik oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 11.34 WIB, dengan lampiran bertajuk Term Sheet WT T41.pdf.",
+   "Total ada 18 seri call warrant yang term sheet-nya disampaikan dalam laporan ini. Lima seri dengan masa berlaku hingga 26 November 2026 memiliki saham acuan AMMN, BBCA, BBRI, HRUM, dan RAJA. Sisanya, 13 seri, berlaku hingga 29 Maret 2027 dengan saham acuan AADI, BBTN, BUMI, CUAN, ERAA, INCO, INDY, ITMG, JSMR, MBMA, PNLF, RATU, dan TPIA. Dokumen yang diekstraksi tidak memuat rincian harga strike, rasio konversi, maupun jumlah unit yang ditawarkan untuk masing-masing seri.",
+   "Waran terstruktur ini diterbitkan oleh RHB Sekuritas Indonesia sebagai penerbit, bukan oleh perusahaan-perusahaan yang sahamnya dijadikan acuan. Artinya, instrumen ini merupakan produk derivatif turunan yang diperdagangkan terpisah dari saham asli emiten-emiten tersebut."
+  ],
+  "takeaway": "Waran terstruktur atau structured warrant adalah efek derivatif yang diterbitkan pihak ketiga, dalam hal ini RHB Sekuritas Indonesia (DR), memberi hak beli atas saham acuan tertentu hingga tanggal jatuh tempo, dan diperdagangkan di bursa layaknya saham biasa. Karena penerbitnya adalah perusahaan sekuritas dan bukan emiten-emiten acuan seperti BBCA, BBRI, AMMN, atau saham lain dalam daftar, laporan ini tidak menyentuh pos kinerja keuangan emiten manapun, baik ekuitas, arus kas, maupun laba per saham. Yang terpengaruh hanyalah ketersediaan instrumen trading turunan di pasar bagi investor yang ingin berspekulasi pada pergerakan saham acuan tersebut. Penilaian kami netral, karena ini merupakan pengumuman administratif rutin dari perusahaan sekuritas terkait peluncuran produk derivatif, bukan aksi korporasi yang mengubah fundamental emiten manapun yang disebut sebagai acuan, dan dokumen yang tersedia juga tidak memuat rincian harga atau volume yang bisa dinilai dampaknya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-rilis-keterbukaan-informasi-penerbitan-waran-ke-41",
+  "category": "Aksi Korporasi",
+  "title": "DR Tawarkan [Waran Terstruktur] Seri ke-41 pada 12-13 Agustus",
+  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan keterbukaan informasi penerbitan waran terstruktur seri ke-41, dengan masa penawaran 12-13 Agustus 2026.",
+  "image": "assets/img/rapat-daring.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:33:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f77744073f_df234a669e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia dengan kode emiten DR menyampaikan keterbukaan informasi ke Bursa Efek Indonesia terkait penawaran umum waran terstruktur atau structured warrant untuk penerbitan yang ke-41. Surat bernomor 010/EQD/RHB/08/2026 itu ditandatangani oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, pada 10 Agustus 2026 pukul 11.33 WIB.",
+   "Menurut dokumen tersebut, masa penawaran umum waran terstruktur ini akan berlangsung selama dua hari, yaitu pada tanggal 12 hingga 13 Agustus 2026. Rincian lengkap mengenai jenis waran, saham acuan, rasio konversi, harga pelaksanaan, maupun jumlah unit yang diterbitkan disebutkan berada dalam lampiran resmi berupa dokumen PDF pengumuman, namun rincian angka tersebut tidak tercantum dalam teks keterbukaan informasi yang tersedia untuk laporan ini.",
+   "Dokumen juga menyertakan versi bahasa Inggris dengan isi yang sama, serta pernyataan bahwa surat ini adalah dokumen elektronik resmi yang tidak memerlukan tanda tangan basah dan bahwa RHB Sekuritas Indonesia bertanggung jawab penuh atas informasi di dalamnya."
+  ],
+  "takeaway": "Waran terstruktur adalah produk derivatif yang diterbitkan oleh perusahaan sekuritas, memberi pemegangnya hak, bukan kewajiban, untuk memperoleh keuntungan dari pergerakan harga saham acuan tertentu dalam periode terbatas, dan lazim dipakai investor untuk bertransaksi dengan leverage. Bagi RHB Sekuritas selaku penerbit, aktivitas ini biasanya menyentuh pos pendapatan berbasis fee dari penjualan produk, bukan ekuitas atau laba per saham perusaan itu sendiri, karena bukan merupakan penerbitan saham baru. Penilaian redaksi netral, sebab ini adalah seri ke-41 dari aktivitas bisnis yang memang rutin dilakukan RHB Sekuritas, dan data yang tersedia tidak memuat nilai penawaran, ukuran, atau saham acuan yang bisa dipakai untuk menakar dampak fundamentalnya. Detail lebih lanjut baru bisa dinilai setelah lampiran PDF pengumuman dibaca secara utuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ai-cinefest-2026-telkomsel-perkuat-ekosistem-kreator-ai",
+  "category": "Teknologi",
+  "title": "AI Cinefest 2026: Telkomsel Perkuat Ekosistem Kreator [AI]",
+  "deck": "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang menjaring lebih dari seribu karya film pendek berbasis kecerdasan buatan dari kreator Indonesia.",
+  "image": "assets/img/teknologi-logistik.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T18:22:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458941-melalui-ai-cinefest-2026-telkomsel-dorong-pertumbuhan-ekosistem-kreator-ai-indonesia",
+  "tags": [
+   "telkomsel",
+   "ai cinefest",
+   "kreator ai",
+   "indonesia"
+  ],
+  "body": [
+   "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang ditujukan untuk mendorong pertumbuhan komunitas kreator berbasis kecerdasan buatan di Indonesia. Program ini berhasil menjaring 1.111 karya film pendek yang memanfaatkan teknologi AI dari berbagai wilayah tanah air, melampaui target awal panitia sebanyak 1.000 karya. Capaian ini menjadi penanda bahwa minat masyarakat terhadap AI sebagai medium berkarya terus meningkat.",
+   "Dari ribuan karya yang masuk, proses kurasi berlangsung ketat dan hanya menyisakan 100 peserta dengan karya terbaik yang berhak melanjutkan ke tahap Curated Workshop. Seleksi ini dilakukan oleh Arief Ash Shiddiq selaku Story Editor dan Immanuel Manurung sebagai AI Storyteller. Tingginya rasio seleksi tersebut menggambarkan semakin kompetitifnya kualitas talenta kreatif yang mengadopsi AI dalam proses produksi karya mereka.",
+   "Vice President Brand Communications Telkomsel, Emir G. Surya, menyampaikan bahwa AI Cinefest merupakan wujud komitmen perusahaan untuk membuka akses bagi kreator Indonesia memanfaatkan AI sebagai medium baru dalam berkarya. Ia menambahkan, kolaborasi dengan mitra ekosistem ditujukan untuk memperluas akses terhadap teknologi, pembelajaran, dan peluang kolaborasi guna menumbuhkan talenta serta ekosistem kreator AI yang kreatif, inklusif, dan berdaya saing.",
+   "Fenomena membeludaknya peserta AI Cinefest 2026 turut mencerminkan tren adopsi kecerdasan buatan yang meluas ke berbagai sektor, termasuk industri kreatif. Seiring tren tersebut, kebutuhan akan talenta yang mampu memanfaatkan AI secara kreatif sekaligus bertanggung jawab diperkirakan akan terus bertambah ke depan."
+  ]
+ },
+ {
+  "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
+  "category": "Aksi Korporasi",
+  "title": "POLL Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
+  "deck": "PT Pollux Properties Indonesia Tbk mengoreksi laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026.",
+  "image": "assets/img/papap-strategi.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T11:18:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810112624-64175-0/FinancialStatement-2026-II-POLL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLL",
+  "tags": [
+   "POLL",
+   "Pollux Properties",
+   "laporan keuangan",
+   "koreksi"
+  ],
+  "body": [
+   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir pada 30 Juni 2026, melalui surat bernomor 014/PPI-CST/OJK-IDX/VIII/2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan ini berstatus tidak diaudit dan merupakan revisi dari dokumen serupa yang sebelumnya sudah pernah disampaikan untuk periode kuartal II 2026.",
+   "Dari ikhtisar posisi keuangan yang tercantum, kas dan setara kas perseroan per 30 Juni 2026 tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik cukup tajam, dari Rp820,37 juta pada akhir 2025 menjadi Rp2,23 miliar pada pertengahan 2026. Bagian dokumen yang memuat liabilitas, ekuitas, serta laporan laba rugi dan arus kas secara lengkap tidak turut terbaca dalam data yang diterima, sehingga gambaran dampak koreksi secara menyeluruh belum bisa dipastikan.",
+   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus (watchlist) Bursa Efek Indonesia, sebagaimana tertulis dalam bagian informasi umum laporan."
+  ],
+  "takeaway": "Ini bukan aksi korporasi baru, melainkan pembetulan atas laporan keuangan interim triwulan II 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, sehingga ada perubahan angka dari versi awal. Pos yang berpotensi tersentuh oleh koreksi semacam ini biasanya berada di laporan posisi keuangan, seperti kas, piutang, dan pos neraca lain yang jadi acuan investor untuk menilai likuiditas dan kesehatan keuangan perusahaan. Karena dokumen yang tersedia tidak merinci apa saja yang berubah dibanding versi sebelum koreksi, dan tidak menyertakan laporan laba rugi maupun arus kas secara utuh, penilaian dibuat netral. Data kas dan piutang yang ada memang menunjukkan kenaikan, tapi itu saja belum cukup untuk menyimpulkan apakah koreksi ini bersifat material atau kosmetik. Status POLL yang sudah berada di papan pemantauan khusus juga menjadi konteks bahwa bursa sedang memberi perhatian pengawasan tersendiri pada saham ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "onlinepajak-berganti-nama-jadi-achilles-rangkul-urusan-pajak",
+  "category": "Teknologi",
+  "title": "OnlinePajak Berganti Nama Jadi Achilles, Rangkul Urusan [Pajak]",
+  "deck": "OnlinePajak bertransformasi menjadi ekosistem Achilles yang menggabungkan layanan pajak, transaksi, dokumen digital, hingga pendanaan usaha.",
+  "image": "assets/img/pasar-modal.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T18:03:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/458937-transformasi-layanan-digital-kelola-pajak-dokumen-hingga-pendanaan-dalam-satu-wadah",
+  "tags": [
+   "OnlinePajak",
+   "Achilles",
+   "pajak digital",
+   "SPT"
+  ],
+  "body": [
+   "Setelah satu dekade dikenal sebagai penyedia layanan administrasi pajak digital, OnlinePajak kini bertransformasi menjadi Achilles, sebuah ekosistem bisnis yang cakupannya lebih luas. Perubahan ini penting bagi pelaku usaha karena berbagai kebutuhan operasional, mulai dari kepatuhan pajak, transaksi, dokumen digital, hingga akses pendanaan, kini bisa dikelola dalam satu platform yang sama.",
+   "Dalam peluncuran identitas barunya, Achilles menawarkan akses gratis hingga 50.000 transaksi per bulan bagi pelaku usaha. Layanan yang tercakup di antaranya pelaporan SPT, pembuatan invoice, penerbitan e-Faktur, serta akses pengajuan pembiayaan. Saat ini platform tersebut telah digunakan oleh lebih dari 150.000 entitas bisnis di Indonesia.",
+   "Chief Executive Officer Achilles, Charles Guinot, menjelaskan bahwa transformasi ini merupakan respons atas kebutuhan dunia usaha yang kian kompleks dan tidak lagi berhenti pada urusan kepatuhan pajak semata. Menurutnya, bisnis membutuhkan ekosistem yang menghubungkan kepatuhan, transaksi, pendanaan, dan intelijen bisnis dalam satu pengalaman yang terintegrasi, sehingga pelaku usaha dari berbagai skala dapat lebih fokus mengembangkan usahanya.",
+   "Untuk menjaga keamanan data penggunanya, Achilles menerapkan standar ISO 27001 dan beroperasi di bawah pengawasan Bank Indonesia serta Direktorat Jenderal Pajak. Perusahaan menyatakan akan terus mengembangkan ekosistem ini agar dapat memangkas kerumitan operasional bisnis di Indonesia."
+  ]
+ },
+ {
+  "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "HD Ajukan [Term Sheet] Waran Terstruktur Saham BBCA",
+  "deck": "KGI Sekuritas Indonesia (HD) menyampaikan term sheet penawaran umum call warrant BBCAHDCJ7A dengan saham BBCA sebagai aset dasar, jatuh tempo 23 April 2027.",
+  "image": "assets/img/tiba-di-kantor.jpg",
+  "date": "10 Agustus 2026",
+  "isoDate": "2026-08-10T10:22:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e4e810e76_44441afe89.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "KGI Sekuritas",
+   "waran terstruktur",
+   "BBCA"
+  ],
+  "body": [
+   "KGI Sekuritas Indonesia, emiten dengan kode HD, menyampaikan kepada Bursa Efek Indonesia term sheet penawaran umum waran terstruktur bertajuk Call Warrant BBCA HD EXP 23 April 2027 dengan kode perdagangan BBCAHDCJ7A. Waran ini menggunakan saham PT Bank Central Asia Tbk sebagai aset dasar dan akan jatuh tempo pada 23 April 2027. Surat pemberitahuan bernomor 00001/E086/KGI/08/2026 ditandatangani oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 10.22 WIB.",
+   "Sebagai bagian dari proses pengajuan itu, KGI melampirkan dokumen bertajuk Termsheet_BBCAHDCJ7A.pdf ke sistem pelaporan elektronik bursa. Namun, bagian dokumen yang tersedia untuk publik hanya memuat surat pengantar formal. Rincian teknis seperti jumlah waran yang akan diterbitkan, harga pelaksanaan, rasio konversi, premi, maupun target dana yang dihimpun dari penerbitan waran ini tidak tercantum dalam bagian yang bisa dibaca."
+  ],
+  "takeaway": "Waran terstruktur (structured warrant) adalah produk turunan yang diterbitkan sekuritas, dalam hal ini KGI, yang memberi pemegangnya hak untuk mendapatkan selisih harga saham acuan, di sini BBCA, pada harga dan tanggal tertentu, biasanya diselesaikan secara tunai tanpa memindahkan kepemilikan saham BBCA itu sendiri. Bagi KGI Sekuritas selaku penerbit, aktivitas ini menyentuh pos pendapatan dari komisi dan premi penjualan produk derivatif, bukan struktur permodalan atau utang perusahaan secara langsung. Penilaian fundamental atas laporan ini netral, karena dokumen yang tersedia baru berupa surat pengantar pengajuan term sheet tanpa rincian jumlah waran, harga pelaksanaan, atau proyeksi dana yang dihimpun, sehingga besar kecilnya dampak terhadap kinerja KGI belum bisa diukur dari informasi yang ada.",
   "sentimen": "netral"
  },
  {
@@ -335,129 +1021,6 @@ var ARTICLES = [
   ]
  },
  {
-  "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "HUMI Koreksi Dividen Tunai, [Rp0,166] per Saham FY2025",
-  "deck": "HUMI mengoreksi pengumuman dividen 31 Juli lalu, menegaskan total dividen tunai Rp3 miliar atau Rp0,166 per saham untuk tahun buku 2025, dibayar 28 Agustus 2026.",
-  "image": "assets/img/konpers-bank.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T16:05:45",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f6fa0efed0_ad447128ff.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "HUMI",
-  "tags": [
-   "HUMI",
-   "dividen tunai",
-   "koreksi keterbukaan informasi",
-   "RUPST"
-  ],
-  "body": [
-   "PT Humpuss Maritim Internasional Tbk (HUMI) menerbitkan surat koreksi atas keterbukaan informasi dividen tunai yang sebelumnya disampaikan pada 31 Juli 2026. Melalui surat bernomor 549b/DU-HUMI/VII/2026 yang ditandatangani Corporate Secretary Arya M. Pradana, perseroan menegaskan rencana pembagian dividen tunai untuk tahun buku 2025 sesuai hasil Rapat Umum Pemegang Saham Tahunan (RUPST) tanggal 29 Juli 2026. Total nilai dividen yang dibagikan ditetapkan Rp3 miliar, atau setara Rp0,166 per saham. Dokumen tidak merinci bagian mana dari pengumuman awal yang diperbaiki.",
-   "Jadwal pembagian dividen ditetapkan sebagai berikut: cum dividen di Pasar Reguler dan Negosiasi jatuh pada 6 Agustus 2026, dengan ex dividen sehari setelahnya pada 7 Agustus 2026. Tanggal pencatatan pemegang saham yang berhak (DPS) ditetapkan 10 Agustus 2026 pukul 16.00, bersamaan dengan cum dividen di Pasar Tunai, sementara ex dividen Pasar Tunai jatuh 11 Agustus 2026. Pembayaran dividen kepada pemegang saham yang berhak dijadwalkan paling lambat pada 28 Agustus 2026.",
-   "Perseroan turut melampirkan data keuangan per 31 Desember 2025 yang menjadi dasar pembagian dividen ini. Laba bersih yang diatribusikan kepada entitas induk tercatat USD3.066.484, dengan saldo laba ditahan yang tidak dibatasi penggunaannya sebesar USD75.474.461 dan total ekuitas USD172.874.357. Dokumen ini dilampiri Pengumuman Dividen Tunai hasil RUPST tanggal 29 Juli 2026."
-  ],
-  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran dividen tunai rutin untuk laba tahun buku 2025 yang sudah disetujui RUPST, dan surat kali ini hanya mengoreksi detail administratif dari pengumuman sebelumnya tanpa perubahan substansi jumlah dividen. Pos yang tersentuh adalah kas dan saldo laba ditahan perseroan, yang akan berkurang sekitar Rp3 miliar begitu dividen dibayarkan, sementara pelaku pasar biasanya memperhatikan rasio pembagian ini terhadap laba bersih dan ekuitas untuk menilai kesehatan arus kas emiten. Dividen per saham yang hanya Rp0,166 mengindikasikan jumlah saham beredar HUMI sangat besar, namun besaran itu sendiri bukan hal negatif selama didukung oleh laba dan saldo laba ditahan yang positif seperti tercermin dalam data keuangan yang dilampirkan. Secara fundamental, laporan ini condong positif karena menunjukkan perseroan membukukan laba bersih positif dan memiliki saldo laba ditahan signifikan sehingga mampu mengembalikan sebagian keuntungan kepada pemegang saham, meski dokumen tidak menjelaskan apa spesifiknya yang dikoreksi dari pengumuman 31 Juli.",
-  "sentimen": "positif"
- },
- {
-  "slug": "padi-laporkan-ringkasan-hasil-rupslb-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB PADI Tak Capai [Kuorum], Agenda Pengendali Tertunda",
-  "deck": "RUPSLB PADI pada 7 Agustus 2026 hanya dihadiri 25,45% pemegang saham sehingga gagal mengesahkan status pengendali Djoko Joelijanto dan perubahan susunan direksi.",
-  "image": "assets/img/analis-rapat.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:56:34",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8247b10b99_f3ae5590fd.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "PADI",
-  "tags": [
-   "PADI",
-   "RUPSLB",
-   "kuorum",
-   "pengendali"
-  ],
-  "body": [
-   "Minna Padi Investama Sekuritas Tbk (PADI) melaporkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar pada 7 Agustus 2026, merujuk pada pemberitahuan sebelumnya bernomor 056/CS-PADI/VII/2026 tanggal 16 Juli 2026. Menurut risalah yang disampaikan ke Bursa Efek Indonesia, rapat itu hanya dihadiri pemegang saham yang mewakili 2.949.667.463 saham, atau 25,45 persen dari seluruh saham dengan hak suara sah yang telah diterbitkan Perseroan. Kehadiran itu tidak memenuhi syarat kuorum yang diatur dalam anggaran dasar dan peraturan perundangan yang berlaku, sehingga kedua agenda rapat tidak menghasilkan keputusan.",
-   "Agenda pertama adalah persetujuan penetapan pengendali Perseroan, yaitu Djoko Joelijanto, sebagai penerima manfaat akhir atau ultimate beneficiary owner. Agenda kedua adalah persetujuan pengangkatan kembali atau perubahan susunan direksi. Untuk kedua agenda tersebut, dokumen mencatat tingkat kehadiran yang sama sebesar 25,45 persen, tanpa data suara setuju, tidak setuju, atau abstain karena rapat dinyatakan tidak mencapai kuorum sejak awal.",
-   "Laporan ditandatangani oleh Direktur Utama Perseroan dan disampaikan ke BEI pada 10 Agustus 2026 pukul 15.56 WIB, dilampiri tiga dokumen yaitu surat pengantar, catatan RUPSLB, dan risalah lengkap RUPSLB terkait pemegang saham pengendali. Dokumen tidak menyebutkan jadwal penyelenggaraan RUPSLB kedua untuk mengulang kedua agenda yang gagal diputuskan tersebut."
-  ],
-  "takeaway": "RUPSLB ini pada dasarnya adalah upaya Perseroan meminta persetujuan pemegang saham atas dua hal, yaitu penetapan resmi Djoko Joelijanto sebagai pengendali atau pemilik manfaat akhir, dan pembaruan susunan direksi, namun rapat batal mengambil keputusan karena kehadiran pemegang saham cuma 25,45 persen dari syarat kuorum yang ditentukan anggaran dasar. Yang tersentuh di sini bukan pos keuangan seperti laba atau ekuitas, melainkan kejelasan tata kelola, yaitu siapa yang secara resmi diakui sebagai pengendali Perseroan dan siapa yang duduk di jajaran direksi, dua hal yang biasa diperhatikan pelaku pasar karena memengaruhi kepastian arah kebijakan dan akuntabilitas manajemen. Dokumen tidak menyebutkan penyebab rendahnya kehadiran maupun rencana RUPSLB susulan, sehingga belum ada cukup bukti untuk menyimpulkan dampak fundamentalnya. Penilaian redaksi netral, karena kegagalan kuorum ini menunda kepastian struktur pengendalian dan direksi tanpa disertai indikasi kerugian finansial langsung, dan gambaran lengkapnya baru bisa dinilai setelah Perseroan menjadwalkan ulang RUPSLB untuk kedua agenda tersebut.",
-  "sentimen": "netral"
- },
- {
-  "slug": "heli-avia-nusantara-khatulistiwa-laporkan-perubahan-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "HELI: Pemegang Saham [Tambah] Porsi Jadi 8,43%",
-  "deck": "Avia Nusantara Khatulistiwa menambah kepemilikan di HELI dari 7,74 persen menjadi 8,43 persen lewat rangkaian pembelian sejak akhir Juni hingga awal Agustus 2026.",
-  "image": "assets/img/meja-registrasi-rups.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:52:30",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6322-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "HELI",
-  "tags": [
-   "HELI",
-   "kepemilikan saham",
-   "pemegang saham substansial",
-   "hak suara"
-  ],
-  "body": [
-   "Bursa Efek Indonesia menerima laporan keterbukaan informasi kepemilikan saham PT Jaya Trishindo Tbk (HELI) dari Avia Nusantara Khatulistiwa, warga negara Indonesia yang bukan anggota direksi maupun dewan komisaris perusahaan. Berdasarkan laporan bertanggal 10 Agustus 2026 tersebut, jumlah saham HELI yang dimiliki Avia Nusantara Khatulistiwa naik dari 64.449.800 lembar menjadi 70.182.300 lembar, atau bertambah 5.732.500 lembar. Penambahan itu setara 8,89 persen dari kepemilikannya sebelum transaksi, dan mengubah porsi hak suaranya di HELI dari 7,74 persen menjadi 8,43 persen.",
-   "Rincian transaksi dalam laporan menunjukkan penambahan saham itu berasal dari serangkaian pembelian tidak langsung yang berlangsung hampir setiap hari bursa sejak 29 Juni hingga 6 Agustus 2026, dengan harga bervariasi antara Rp176 dan Rp206 per saham dan seluruhnya bertujuan investasi. Di tengah periode tersebut tercatat pula tiga kali penjualan tidak langsung dalam jumlah kecil, yakni 5.300 saham pada 27 Juli, 2.300 saham pada 31 Juli, dan 5.000 saham pada 3 Agustus 2026, yang dalam dokumen ditandai bertujuan divestasi. Volume penjualan ini jauh lebih kecil dibanding total pembelian sepanjang periode yang sama.",
-   "Dengan tambahan tersebut, Avia Nusantara Khatulistiwa memperkuat posisinya sebagai pemegang saham HELI dengan hak suara di atas 8 persen. Laporan ini disampaikan ke Otoritas Jasa Keuangan sesuai kewajiban Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka."
-  ],
-  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi setiap kali kepemilikan saham seorang pemegang saham di perusahaan terbuka berubah, dalam hal ini karena Avia Nusantara Khatulistiwa memperbesar posisinya di HELI lewat pembelian bertahap di pasar. Karena transaksi terjadi di pasar sekunder, jumlah total saham beredar HELI dan laba per saham tidak berubah, yang bergeser hanya konsentrasi kepemilikan dan hak suara salah satu pemegang saham menjadi 8,43 persen. Penambahan sebesar 8,89 persen dari kepemilikan sebelumnya tergolong signifikan, bukan sekadar transaksi kecil, sehingga layak dibaca sebagai penguatan posisi pemegang saham tersebut di HELI. Secara fundamental, catatan ini cenderung positif karena mencerminkan akumulasi kepemilikan oleh pemegang saham substansial, meski dokumen tidak memberi informasi lebih jauh soal afiliasi atau motif di balik akumulasi tersebut.",
-  "sentimen": "positif"
- },
- {
-  "slug": "budi-perubahan-kepemilikan-saham-oleh-budi-delta-swakarya",
-  "category": "Aksi Korporasi",
-  "title": "BUDI: [Pemegang Saham] Kuasai 37,65% dari 33,11%",
-  "deck": "PT Budi Delta Swakarya membeli 203,7 juta saham BUDI seharga Rp210 per lembar pada 5 Agustus 2026, mengerek hak suaranya dari 33,11% menjadi 37,65%.",
-  "image": "assets/img/emas-batangan.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:50:40",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-9747-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "BUDI",
-  "tags": [
-   "BUDI",
-   "kepemilikan saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "body": [
-   "PT Budi Delta Swakarya melaporkan perubahan kepemilikan sahamnya di PT Budi Starch & Sweetener Tbk (BUDI) kepada Otoritas Jasa Keuangan pada 10 Agustus 2026, sesuai ketentuan POJK Nomor 4/2024. Sebelum transaksi, pihak ini memegang 1.487.271.833 saham BUDI dengan hak suara 33,11 persen. Setelah transaksi, kepemilikannya naik menjadi 1.690.967.732 saham dengan hak suara 37,65 persen.",
-   "Penambahan tersebut berasal dari pembelian 203.695.899 saham biasa BUDI pada 5 Agustus 2026, dengan harga Rp210 per saham dan status kepemilikan tidak langsung. Dalam laporan, tujuan transaksi disebutkan sebagai investasi jangka panjang. Jumlah saham yang ditambahkan setara dengan sekitar 13,70 persen dari kepemilikan pelapor sebelumnya, dan mendorong hak suaranya naik 4,54 poin persentase."
-  ],
-  "takeaway": "Laporan ini adalah pemberitahuan wajib perubahan kepemilikan saham kepada OJK, bukan aksi korporasi yang mengubah struktur modal BUDI, sehingga tidak menambah jumlah saham beredar maupun mengubah laba per saham perusahaan. Yang tersentuh adalah peta pemegang saham dan konsentrasi hak suara, sesuatu yang biasa diperhatikan pelaku pasar karena berkaitan dengan siapa yang mengendalikan arah perusahaan ke depan. Dari sisi ukuran, penambahan 203,7 juta saham setara 13,7 persen dari kepemilikan sebelumnya dan mengerek hak suara lebih dari empat poin persentase ke level 37,65 persen, jumlah yang cukup besar untuk dibaca sebagai sinyal, bukan sekadar transaksi administratif. Dokumen tidak menyebutkan apakah PT Budi Delta Swakarya berstatus pengendali atau afiliasi pengendali BUDI, sehingga makna penuh dari penguatan kendali ini belum bisa dipastikan tanpa informasi tersebut. Secara fundamental, penambahan kepemilikan dalam jumlah signifikan oleh pemegang saham besar umumnya dibaca sebagai sinyal positif berupa keyakinan terhadap prospek perusahaan, sehingga laporan ini condong positif.",
-  "sentimen": "positif"
- },
- {
-  "slug": "okas-bumi-arsana-mulia-lapor-perubahan-kepemilikan-saham",
-  "category": "Aksi Korporasi",
-  "title": "OKAS: Bumi Arsana Mulia Kuasai [25,60%] Hak Suara Baru",
-  "deck": "PT Bumi Arsana Mulia melaporkan kepemilikan baru 607,52 juta saham OKAS setara 25,60% hak suara, dari sebelumnya nihil, senilai Rp73,51 miliar pada 4 Agustus 2026.",
-  "image": "assets/img/dokumen-prospektus.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:39:41",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7997-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "OKAS",
-  "tags": [
-   "OKAS",
-   "Ancora Indonesia Resources",
-   "kepemilikan saham",
-   "hak suara"
-  ],
-  "body": [
-   "PT Bumi Arsana Mulia melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya kini tercatat memiliki 607.521.388 saham PT Ancora Indonesia Resources Tbk (OKAS), setara 25,60 persen hak suara perusahaan. Sebelum transaksi, pelapor sama sekali tidak memiliki saham OKAS, sehingga hak suaranya 0 persen. Laporan bernomor LK/10082026/0005/1 ini disampaikan pada 10 Agustus 2026, sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024.",
-   "Dalam dokumen disebutkan, transaksi tercatat berjenis repurchase agreement dengan status kepemilikan tidak langsung, terjadi pada 4 Agustus 2026 dengan tujuan investasi. Nilai yang tercantum dalam laporan untuk transaksi atas 607.521.388 saham biasa tersebut adalah Rp73,51 miliar. Dokumen tidak mencantumkan nama pemilik langsung maupun rincian pihak lain yang terlibat dalam pengaturan repurchase agreement ini."
-  ],
-  "takeaway": "Aksi korporasi ini adalah laporan wajib perubahan kepemilikan saham, mengumumkan munculnya PT Bumi Arsana Mulia sebagai pemegang baru 25,60 persen hak suara OKAS lewat skema repurchase agreement secara tidak langsung. Yang tersentuh di sini adalah struktur kepemilikan dan komposisi hak suara pemegang saham OKAS, bukan pos keuangan perusahaan seperti ekuitas, arus kas, atau laba, karena transaksi ini terjadi antar pemegang saham dan tidak membawa dana segar masuk ke kas perusahaan. Penilaian kami netral, sebab meski porsi 25,60 persen tergolong besar dan berpotensi mengubah peta pengendalian OKAS ke depan, dokumen tidak menjelaskan identitas pengendali akhir PT Bumi Arsana Mulia, latar belakang skema repurchase agreement tersebut, atau kaitannya dengan pemegang saham lama, sehingga dampak fundamentalnya bagi kinerja OKAS belum bisa dipastikan dan layak dipantau lebih lanjut.",
-  "sentimen": "netral"
- },
- {
   "slug": "rupiah-menguat-usai-destry-diusulkan-jadi-gubernur-bi",
   "category": "Moneter",
   "title": "Rupiah [Menguat] Usai Destry Diusulkan Jadi Gubernur BI",
@@ -480,54 +1043,6 @@ var ARTICLES = [
   ]
  },
  {
-  "slug": "excl-kupon-sukuk-ijarah-naik-usai-pemangkasan-rating-fitch",
-  "category": "Aksi Korporasi",
-  "title": "EXCL: Kupon Sukuk Ijarah Naik usai [Pemangkasan] Rating Fitch",
-  "deck": "XLSMART (EXCL) membayar Ijarah Fee Sukuk Seri E senilai Rp672,1 juta pada 10 Agustus 2026, naik 0,34 persen menyusul penurunan peringkat dari Fitch.",
-  "image": "assets/img/gong-pencatatan.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:12:17",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/936aa46c3f_b6c001f7ef.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "EXCL",
-  "tags": [
-   "EXCL",
-   "Sukuk Ijarah",
-   "Fitch Rating",
-   "obligasi korporasi"
-  ],
-  "body": [
-   "PT XLSMART Telecom Sejahtera Tbk (EXCL) mengumumkan pembayaran Ijarah Fee ke-30 untuk Sukuk Ijarah Berkelanjutan II XL Axiata Tahap II Tahun 2019 Seri E, melalui keterbukaan informasi yang ditandatangani Corporate Secretary Susan Masniari pada 10 Agustus 2026 pukul 15.12 WIB. Tingkat imbalan yang dibayarkan sebesar 10,34 persen per tahun dengan nilai nominal Rp672.100.000, dan jatuh tempo pembayaran pada 10 Agustus 2026.",
-   "Dalam keterangan tambahan, perseroan menjelaskan bahwa terdapat penambahan cicilan pembayaran bunga sebesar 0,34 persen per tahun yang dihitung secara pro rata. Penambahan ini merupakan konsekuensi dari penurunan hasil pemeringkatan oleh Fitch Rating Indonesia, sesuai dengan keputusan Rapat Umum Pemegang Obligasi (RUPO) pada 14 April 2025. Rincian perhitungan kenaikan kupon tersebut dicantumkan dalam lampiran bertajuk Perhitungan Kupon Seri D Ijarah Seri E 2019."
-  ],
-  "takeaway": "Ijarah Fee adalah imbalan yang dibayarkan emiten kepada pemegang sukuk, fungsinya setara dengan kupon bunga pada obligasi konvensional namun berbasis akad syariah. Kenaikan kupon secara pro rata ini menambah beban bunga yang harus ditanggung XLSMART atas sukuk seri ini, sehingga menyentuh pos beban bunga dan arus kas pendanaan perusahaan, sementara bagi pemegang sukuk berarti imbal hasil yang diterima menjadi lebih tinggi dari kupon awal. Secara fundamental, laporan ini condong negatif karena kenaikan kupon dipicu oleh penurunan peringkat kredit dari Fitch Rating Indonesia, yang mengindikasikan lembaga pemeringkat menilai risiko kredit XLSMART meningkat sehingga biaya utang perusahaan menjadi lebih mahal, meski besaran kenaikannya sendiri relatif kecil yaitu 0,34 poin persentase per tahun.",
-  "sentimen": "negatif"
- },
- {
-  "slug": "excl-sampaikan-informasi-kupon-rincian-belum-terbaca",
-  "category": "Aksi Korporasi",
-  "title": "EXCL Bayar Kupon Obligasi, Bunga Naik usai Peringkat [Turun]",
-  "deck": "XLSMART Telecom (EXCL) membayar kupon ke-30 Obligasi Berkelanjutan I Tahap II Seri D senilai Rp2,4 miliar pada 10 Agustus 2026, dengan bunga naik jadi 10,34 persen akibat penurunan peringkat Fitch.",
-  "image": "assets/img/bursa-layar.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T15:12:04",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5a6ec691a9_1e6cc8f433.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "EXCL",
-  "tags": [
-   "EXCL",
-   "Obligasi",
-   "Kupon",
-   "Fitch Ratings"
-  ],
-  "body": [
-   "PT XLSMART Telecom Sejahtera Tbk (EXCL) menyampaikan keterbukaan informasi soal pembayaran kupon obligasi kepada pemegang efek. Kupon yang dibayarkan adalah kupon ke-30 dari Obligasi Berkelanjutan I XL Axiata Tahap II Tahun 2019 Seri D, dengan tingkat bunga 10,34 persen per tahun dalam mata uang rupiah. Nilai nominal pembayaran tercatat Rp2.404.050.000 dan jatuh tempo pembayaran pada 10 Agustus 2026. Surat bernomor 0605/EXT/CSEC/CEOD/2026 ini ditandatangani secara elektronik oleh Susan Masniari selaku Corporate Secretary pada 10 Agustus 2026 pukul 15.12.",
-   "Dalam bagian informasi lain, perusahaan menjelaskan bahwa tingkat bunga kupon Seri D ini sudah mencakup tambahan cicilan bunga sebesar 0,34 persen per tahun yang dihitung secara pro rata. Tambahan ini dipicu oleh penurunan hasil pemeringkatan dari Fitch Ratings Indonesia, dan besarannya mengikuti keputusan Rapat Umum Pemegang Obligasi (RUPO) yang digelar pada 14 April 2025. Dengan kata lain, obligasi ini memiliki mekanisme step-up coupon yang otomatis menaikkan bunga ketika peringkat kredit emiten diturunkan. Perusahaan merujuk pembaca pada lampiran bernama EXCL_Perhitungan Kupon Seri D Ijarah Seri E 2019.pdf untuk rincian perhitungan lengkapnya."
-  ],
-  "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran rutin bunga (kupon) obligasi kepada pemegang surat utang, bukan aksi korporasi baru bagi pemegang saham. Pos yang tersentuh adalah beban bunga perusahaan, karena mekanisme step-up coupon membuat biaya utang naik 0,34 poin persentase dibanding tingkat dasar begitu peringkat kredit turun, yang pada akhirnya memengaruhi arus kas pendanaan dan laba bersih emiten. Penurunan peringkat oleh Fitch dan keputusan RUPO yang memicu kenaikan bunga ini sendiri sudah terjadi sejak April 2025, sehingga laporan hari ini hanyalah eksekusi rutin dari ketentuan yang sudah berlaku, bukan sinyal baru. Karena tidak ada informasi baru soal kondisi kredit atau keuangan EXCL saat ini selain pelaksanaan pembayaran sesuai jadwal, penilaian kami netral, dengan catatan bahwa mekanisme step-up ini tetap relevan diketahui investor karena mencerminkan biaya utang yang lebih tinggi akibat persepsi risiko kredit yang pernah memburuk.",
-  "sentimen": "netral"
- },
- {
   "slug": "bri-pimpin-himbara-di-danantara-housing-expo-2026",
   "category": "Perbankan",
   "title": "BRI Pimpin Himbara di [Danantara] Housing Expo 2026",
@@ -548,80 +1063,6 @@ var ARTICLES = [
    "Sebagai daya tarik pembiayaan, BRI menawarkan KPR dengan uang muka mulai 1 persen, bunga tetap mulai 2,75 persen, tenor sampai 30 tahun, dan cicilan mulai sekitar Rp1 jutaan, tanpa biaya provisi maupun administrasi sesuai ketentuan yang berlaku. Direktur Utama BRI Hery Gunardi menyebut kolaborasi ini diharapkan mendorong lebih banyak keluarga Indonesia memiliki rumah layak, sekaligus menghasilkan efek berganda bagi ekonomi lokal dan membuka peluang usaha bagi pelaku UMKM di sekitar kawasan hunian.",
    "Selain pameran hunian dan pembiayaan, Danantara Housing Expo turut menghadirkan area home living serta kegiatan edukasi seputar kepemilikan dan pengelolaan rumah. Informasi lebih lanjut mengenai proyek yang dipamerkan, spesifikasi unit, dan kisaran harga dapat diakses melalui situs resmi BRI."
   ]
- },
- {
-  "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "SOLA Tegaskan Tak Ada [Fakta Material] di Balik Volatilitas Saham",
-  "deck": "SOLA merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru maupun rencana aksi korporasi dalam waktu dekat.",
-  "image": "assets/img/rups-emiten.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T14:39:21",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a7228e48dc_4daf43defe.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "SOLA",
-  "tags": [
-   "SOLA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "body": [
-   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI bernomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi efek perseroan. Dalam surat bernomor 033/SOLA-INA/VIII/2026 yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan Nomor I-E BEI.",
-   "Perseroan juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Terkait kepemilikan saham, manajemen menyatakan telah melaporkan secara berkala aktivitas dan perubahan kepemilikan saham oleh direksi, dewan komisaris, serta pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham Perusahaan Terbuka.",
-   "Setelah dikonfirmasi oleh Corporate Secretary, pemegang saham utama SOLA menyatakan belum memiliki rencana terkait kepemilikan sahamnya di perseroan. Manajemen menutup surat dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
-  ],
-  "takeaway": "Surat ini adalah klarifikasi wajib yang diminta BEI ketika transaksi suatu saham menunjukkan pergerakan harga atau volume yang tidak biasa, semacam permintaan konfirmasi apakah ada informasi tersembunyi di balik pergerakan tersebut. Karena isinya hanya berupa penegasan bahwa tidak ada fakta material baru, tidak ada rencana aksi korporasi, dan kepemilikan pemegang saham utama tidak berubah, tidak ada pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung; yang relevan di sini adalah transparansi dan tata kelola informasi emiten. Secara fundamental laporan ini netral bagi SOLA, karena hanya mengonfirmasi ketiadaan informasi baru dan tidak membawa perubahan apa pun pada rencana korporasi maupun struktur kepemilikan yang bisa dijadikan dasar penilaian positif atau negatif.",
-  "sentimen": "netral"
- },
- {
-  "slug": "sola-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "SOLA Jawab BEI, Tegaskan Tak Ada Informasi [Material]",
-  "deck": "PT Xolare RCR Energy Tbk menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T14:39:18",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdecc46763_99b1952523.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "SOLA",
-  "tags": [
-   "SOLA",
-   "keterbukaan informasi",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "body": [
-   "PT Xolare RCR Energy Tbk (SOLA) menyampaikan surat penjelasan bernomor 033/SOLA-INA/VIII/2026 kepada Bursa Efek Indonesia (BEI) sebagai jawaban atas permintaan penjelasan BEI nomor S-10422/BEI.PP2/08-2026 terkait volatilitas transaksi saham perseroan. Surat yang ditandatangani Direktur Utama Mochamad Bhadaiwi pada 10 Agustus 2026 itu menegaskan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI.",
-   "Dalam surat itu, manajemen juga menyatakan tetap melaporkan secara berkala aktivitas kepemilikan saham beserta perubahannya yang dimiliki jajaran direksi, dewan komisaris, dan pemegang saham tertentu, sesuai POJK Nomor 4 Tahun 2024. Perseroan menyebut tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material serta belum diungkap kepada publik.",
-   "Perseroan turut mengonfirmasi kepada pemegang saham utama terkait rencana atas kepemilikan sahamnya. Hasil konfirmasi itu menyebutkan bahwa hingga saat ini pemegang saham utama belum memiliki rencana apa pun terkait kepemilikan sahamnya di SOLA."
-  ],
-  "takeaway": "Surat ini adalah jawaban wajib emiten ketika BEI meminta penjelasan setelah mengamati pergerakan transaksi saham yang dianggap tidak wajar, semacam konfirmasi rutin bahwa tidak ada kabar tersembunyi di balik pergerakan itu. Isinya tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya murni pernyataan keterbukaan informasi, bukan transaksi atau aksi korporasi. Dokumen ini juga tidak memuat data apa pun soal volume atau pergerakan harga yang memicu permintaan BEI, sehingga pembaca belum bisa menilai seberapa besar volatilitas yang dimaksud. Secara fundamental, kami menilai laporan ini netral karena tidak ada informasi baru yang mengubah gambaran bisnis maupun rencana korporasi SOLA, sekaligus tidak ada rencana pengendali untuk mengubah kepemilikan sahamnya dalam waktu dekat.",
-  "sentimen": "netral"
- },
- {
-  "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 500 Lembar Saham",
-  "deck": "Dewan Komisaris AKPI, Henry Liem, melepas 500 lembar saham pada 7 Agustus 2026. Hak suaranya tetap di 1,8678 persen karena porsi yang dijual sangat kecil.",
-  "image": "assets/img/ruang-direksi.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T13:06:20",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-7937-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "AKPI",
-  "tags": [
-   "AKPI",
-   "kepemilikan saham",
-   "komisaris",
-   "keterbukaan informasi"
-  ],
-  "body": [
-   "Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan 500 lembar saham perusahaan kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 7 Agustus 2026 dengan harga Rp515 per saham, tercatat sebagai kepemilikan tidak langsung. Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
-   "Dengan transaksi ini, jumlah saham AKPI yang dipegang Henry Liem berkurang dari 11.435.859 lembar menjadi 11.435.359 lembar. Meski begitu, hak suaranya di perusahaan tidak berubah, tetap di angka 1,8678 persen baik sebelum maupun sesudah transaksi, karena jumlah saham yang dilepas hanya sekitar 0,0044 persen dari total kepemilikannya."
-  ],
-  "takeaway": "Laporan ini merupakan kewajiban keterbukaan atas transaksi saham pribadi milik insider, dalam hal ini Dewan Komisaris AKPI, bukan aksi korporasi yang dilakukan perusahaan itu sendiri. Transaksi semacam ini tidak mengubah jumlah saham beredar maupun struktur permodalan AKPI, sehingga tidak menyentuh pos ekuitas atau laba per saham perusahaan secara langsung, pelaku pasar biasanya memantau laporan seperti ini untuk membaca sinyal keyakinan insider terhadap prospek perusahaan. Secara fundamental, laporan ini netral bagi AKPI karena saham yang dijual hanya setara 0,0044 persen dari kepemilikan Henry Liem dan hak suaranya pun tidak berubah, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap perusahaan.",
-  "sentimen": "netral"
  },
  {
   "slug": "airlangga-optimistis-etf-emas-ri-salip-india-singapura",
@@ -650,7 +1091,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh [5,29] Persen di Kuartal II 2026",
   "deck": "Menko Airlangga menyebut pertumbuhan ekonomi kuartal II 2026 yang di atas rata-rata global menjadi modal penting menjaga kepercayaan investor pasar modal.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T12:02:15+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458848-ekonomi-ri-tumbuh-529-persen-airlangga-investor-pasar-modal-tetap-penuh-senyum",
@@ -668,211 +1109,11 @@ var ARTICLES = [
   ]
  },
  {
-  "slug": "kdtn-laporan-perubahan-kepemilikan-saham-putrasakti-mandiri",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri [Restrukturisasi] Kepemilikan Saham",
-  "deck": "Putrasakti Mandiri melepas 3 juta saham KDTN senilai Rp1,32 miliar pada 7 Agustus 2026, hak suara turun tipis dari 35,59% menjadi 35,36% untuk restrukturisasi internal grup usaha.",
-  "image": "assets/img/grafik-laptop.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:58:09",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-6660-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "KDTN",
-  "tags": [
-   "KDTN",
-   "kepemilikan saham",
-   "OJK",
-   "restrukturisasi"
-  ],
-  "body": [
-   "PT Puri Sentul Permai Tbk (KDTN) melaporkan kepada Otoritas Jasa Keuangan bahwa Putrasakti Mandiri, pemegang saham perusahaan yang bukan berasal dari jajaran direksi maupun dewan komisaris, telah menjual 3.000.000 lembar saham KDTN pada 7 Agustus 2026. Transaksi dilakukan dengan skema repurchase agreement pada harga Rp439 per saham, sehingga nilai keseluruhan transaksi mencapai sekitar Rp1,32 miliar. Dalam laporan yang diterima OJK pada 10 Agustus 2026 itu, tujuan transaksi disebutkan sebagai restrukturisasi kepemilikan saham dalam kelompok usaha.",
-   "Sebelum transaksi, Putrasakti Mandiri tercatat memegang 445.000.000 lembar saham KDTN, setara 35,59% hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 442.000.000 lembar dengan hak suara 35,36%. Saham yang dilepas berstatus kepemilikan langsung dan hanya setara 0,67% dari total saham yang dipegang Putrasakti Mandiri sebelum transaksi, sehingga porsi mayoritas kepemilikannya di KDTN tetap dipertahankan.",
-   "Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 2 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham signifikan melaporkan perubahan kepemilikan sahamnya kepada regulator."
-  ],
-  "takeaway": "Ini adalah laporan wajib seorang pemegang saham signifikan, bukan direksi atau komisaris, yang menjual sebagian kecil sahamnya di KDTN lewat mekanisme repurchase agreement, sesuai kewajiban keterbukaan kepemilikan saham ke OJK. Yang tersentuh dari transaksi ini bukan kas atau ekuitas emiten, melainkan komposisi pemegang saham dan hak suara utama, yang relevan bagi investor minoritas karena berkaitan dengan kekuatan pengendalian atas perusahaan. Secara fundamental laporan ini netral, sebab saham yang dilepas hanya 0,67% dari kepemilikan pelapor dan hak suaranya nyaris tidak bergeser, dari 35,59% menjadi 35,36%, sehingga terlalu kecil untuk dibaca sebagai sinyal keluar dari saham. Tujuan yang dicantumkan, yaitu restrukturisasi kepemilikan dalam kelompok usaha, juga mengarah pada perpindahan internal antarafiliasi ketimbang pelepasan ke pasar terbuka.",
-  "sentimen": "netral"
- },
- {
-  "slug": "poll-sampaikan-ralat-laporan-keuangan-interim",
-  "category": "Aksi Korporasi",
-  "title": "POLL Sampaikan [Ralat] Laporan Keuangan Interim Semester I 2026",
-  "deck": "Pollux Properties Indonesia (POLL) merevisi laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, tanpa merinci pos yang diralat.",
-  "image": "assets/img/konpers-emiten.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:57:52",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810120428-64177-0/FinancialStatement-2026-II-POLL.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "POLL",
-  "tags": [
-   "POLL",
-   "Laporan Keuangan",
-   "Ralat Laporan",
-   "Pemantauan Khusus"
-  ],
-  "body": [
-   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan ralat atau koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026. Penyampaian ini tercatat dalam surat nomor 014/PPI-CST/OJK-IDX/VIII/2026 tertanggal 10 Agustus 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, sebagai revisi atas laporan kuartal II 2026 yang sudah diserahkan sebelumnya. Laporan disusun berdasarkan PSAK dengan status tidak diaudit atau unaudited, dan disajikan dalam mata uang rupiah dengan satuan penuh.",
-   "Dalam posisi keuangan per 30 Juni 2026 yang tercantum di dokumen, kas dan setara kas perseroan tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik menjadi Rp2,23 miliar, dari sebelumnya Rp820,37 juta per akhir 2025. Dokumen resmi yang diterima tidak menjelaskan secara spesifik pos mana yang diperbaiki dari laporan versi awal maupun alasan di balik koreksi tersebut.",
-   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus atau watchlist Bursa Efek Indonesia, dan laporan disusun sebagai entitas grup yang mencakup anak perusahaan Perseroan."
-  ],
-  "takeaway": "Aksi ini adalah penyampaian ulang atau koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah dilaporkan ke OJK dan BEI, sehingga menggantikan angka versi awal dengan versi yang diklaim sudah diperbaiki. Pos yang tersentuh dari data yang tersedia adalah aset lancar, khususnya kas dan setara kas serta piutang usaha, dua indikator likuiditas dan efektivitas penagihan yang biasa diawasi pelaku pasar. Penilaian kami netral, karena dokumen yang diterima tidak merinci pos spesifik yang diralat dari laporan sebelumnya, tidak menyertakan laporan laba rugi atau liabilitas secara lengkap, dan tidak menjelaskan penyebab koreksi, sehingga belum cukup bukti untuk menyimpulkan dampaknya terhadap fundamental perseroan. Yang masih kurang untuk penilaian lebih jauh adalah rincian perbandingan angka sebelum dan sesudah ralat serta alasan resmi dari manajemen. Status POLL di papan pemantauan khusus turut menjadi konteks yang perlu diperhatikan pemegang saham, meski tidak berkaitan langsung dengan koreksi laporan ini.",
-  "sentimen": "netral"
- },
- {
-  "slug": "heal-laporan-kepemilikan-saham-yustinus-immanuel-herawan",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Direksi [Beli] Tambahan 50.000 Saham Perseroan",
-  "deck": "Direksi HEAL, Yustinus Immanuel Herawan, menambah kepemilikan saham dari 80.000 menjadi 130.000 lembar lewat pembelian Rp785 per saham pada 6 Agustus 2026.",
-  "image": "assets/img/gedung-bi.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:50:00",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-8296-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "HEAL",
-  "tags": [
-   "HEAL",
-   "kepemilikan saham",
-   "direksi",
-   "Medikaloka Hermina"
-  ],
-  "body": [
-   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan laporan kepemilikan saham dari salah satu anggota direksinya, Yustinus Immanuel Herawan, kepada Otoritas Jasa Keuangan pada 10 Agustus 2026. Dalam laporan itu, jumlah saham HEAL yang dimilikinya bertambah dari 80.000 lembar menjadi 130.000 lembar, atau naik 50.000 lembar.",
-   "Penambahan tersebut berasal dari transaksi pembelian pada 6 Agustus 2026 dengan harga Rp785 per saham untuk klasifikasi saham biasa, dengan tujuan transaksi tercatat sebagai investasi. Berdasarkan harga tersebut, nilai pembelian 50.000 lembar saham itu diperkirakan sekitar Rp39,25 juta.",
-   "Meski jumlah lembar sahamnya bertambah 62,5 persen dari kepemilikan sebelumnya, porsi hak suara Yustinus di HEAL hanya bergeser tipis dari 0,0005 persen menjadi 0,0008 persen. Angka ini menunjukkan kepemilikannya masih sangat kecil dibandingkan total saham beredar Medikaloka Hermina Tbk secara keseluruhan."
-  ],
-  "takeaway": "Ini adalah laporan wajib keterbukaan informasi ketika seorang direksi emiten membeli tambahan saham perusahaannya sendiri di pasar. Transaksi semacam ini pada dasarnya menyangkut komposisi kepemilikan orang dalam dan tidak mengubah jumlah saham beredar HEAL secara keseluruhan maupun laba per saham perusahaan. Secara fundamental, penilaian ini netral. Pembelian oleh direksi lazim dibaca sebagai sinyal kepercayaan diri terhadap perusahaan, tetapi nilainya di sini hanya sekitar Rp39,25 juta dan cuma menggeser hak suara dari 0,0005 persen menjadi 0,0008 persen, sehingga besarannya terlalu kecil untuk dibaca sebagai sinyal kuat terhadap kinerja atau arah bisnis HEAL ke depan.",
-  "sentimen": "netral"
- },
- {
-  "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
-  "category": "Aksi Korporasi",
-  "title": "NICK: Direksi Nicholas Santoso [Beli] 81.600 Saham Charnic Capital",
-  "deck": "Direksi Charnic Capital Tbk (NICK), Nicholas Santoso, melaporkan pembelian 81.600 saham perusahaan pada 7 Agustus 2026, menaikkan hak suaranya dari 0 persen menjadi 0,01 persen.",
-  "image": "assets/img/rups-tangan-voting.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:50:00",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10082026-0213-00.pdf-0.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "NICK",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "kepemilikan direksi",
-   "laporan OJK"
-  ],
-  "body": [
-   "Nicholas Santoso, anggota Direksi PT Charnic Capital Tbk (NICK), melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah membeli saham perusahaan tempatnya menjabat. Sebelum transaksi, Nicholas tidak memegang satu pun saham NICK. Setelah rangkaian transaksi pembelian pada 7 Agustus 2026, kepemilikannya menjadi 81.600 lembar saham biasa, dengan hak suaranya di perusahaan naik dari 0 persen menjadi 0,01 persen.",
-   "Pembelian dilakukan lewat 16 transaksi terpisah pada tanggal yang sama, sebagian besar berstatus kepemilikan tidak langsung dan satu transaksi berstatus langsung sebanyak 500 lembar. Harga beli berkisar antara Rp1.445 hingga Rp1.545 per saham, dengan jumlah tiap transaksi bervariasi dari 100 lembar hingga 24.300 lembar. Seluruh transaksi dicatat dengan tujuan investasi.",
-   "Laporan ini disampaikan sesuai kewajiban keterbukaan dalam POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mengharuskan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan yang mereka pimpin."
-  ],
-  "takeaway": "Ini adalah laporan wajib kepemilikan saham oleh insider, dalam hal ini seorang anggota direksi yang mencatatkan pembelian saham perusahaan sendiri di pasar. Transaksi semacam ini tidak menambah jumlah saham beredar karena hanya berpindah kepemilikan di pasar sekunder, sehingga tidak berdampak pada laba per saham maupun ekuitas perusahaan, yang berubah hanya struktur kepemilikan dan hak suara pelapor. Penilaian kami netral. Meski arah transaksinya adalah pembelian, yang biasanya dibaca pasar sebagai bentuk keyakinan insider terhadap perusahaan, jumlahnya sangat kecil karena hak suara Nicholas hanya naik ke 0,01 persen, sehingga terlalu remah untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan.",
-  "sentimen": "netral"
- },
- {
-  "slug": "moli-sampaikan-koreksi-laporan-keuangan-interim",
-  "category": "Aksi Korporasi",
-  "title": "MOLI Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
-  "deck": "MOLI menyampaikan koreksi laporan keuangan interim per 30 Juni 2026, dengan kas dan setara kas naik dari Rp68,80 miliar menjadi Rp149,13 miliar.",
-  "image": "assets/img/konpers-bank.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:44:10",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810115312-64165-0/FinancialStatement-2026-II-MOLI.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "MOLI",
-  "tags": [
-   "MOLI",
-   "laporan keuangan",
-   "koreksi",
-   "BEI"
-  ],
-  "body": [
-   "PT Madusari Murni Indah Tbk (MOLI) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, melalui surat bernomor 034/MMI/EXT/JGT/VII/2026. Laporan berstatus tidak diaudit dengan surat pernyataan direksi tertanggal 30 Juli 2026, mencakup perbandingan terhadap posisi akhir 2025 dan periode yang sama tahun sebelumnya.",
-   "Dalam dokumen tersebut turut disampaikan data dua entitas anak. PT Sumber Kita Indah, yang bergerak di bidang perdagangan dan berlokasi di Kawasan Industri MM2100, Cikarang Barat, Kabupaten Bekasi, telah beroperasi komersial sejak 1984 dengan total aset Rp330,15 miliar dan dimiliki MOLI sebesar 95,2 persen. Entitas anak lainnya, PT Molindo Raya Industrial, bergerak di industri etanol, spiritus, protein sel tunggal, asam asetat, etil asetat, gas karbon dioksida, dan pupuk tanaman di Lawang, Malang, Jawa Timur, beroperasi komersial sejak 1973 dengan total aset Rp1,46 triliun dan kepemilikan MOLI sebesar 81,41 persen.",
-   "Dari sisi posisi keuangan, kas dan setara kas konsolidasian MOLI per 30 Juni 2026 tercatat Rp149,13 miliar, naik dari Rp68,80 miliar per 31 Desember 2025. Dokumen juga mencantumkan pos dana yang dibatasi penggunaannya untuk kelompok lancar sebesar Rp29,10 miliar pada periode berjalan. Rincian pos laporan laba rugi, total liabilitas, dan ekuitas belum tercakup dalam bagian dokumen yang berhasil diekstrak."
-  ],
-  "takeaway": "Ini adalah koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke bursa, jadi bukan laporan baru melainkan perbaikan data yang telanjur dipublikasikan. Pos yang tersentuh dari data yang tersedia adalah kas dan setara kas konsolidasian, yang naik cukup signifikan dari Rp68,80 miliar menjadi Rp149,13 miliar, sementara laba rugi, total liabilitas, dan ekuitas belum tercakup dalam dokumen yang bisa dibaca sehingga belum bisa dinilai. Pelaku pasar biasanya memperhatikan pos kas karena mencerminkan likuiditas jangka pendek perusahaan untuk membiayai operasional dan kewajiban. Secara fundamental, penilaian atas laporan ini netral, karena kenaikan kas saja belum cukup menggambarkan kesehatan keuangan MOLI secara utuh tanpa data laba rugi dan liabilitas yang lengkap, ditambah sifat laporan yang murni administratif berupa koreksi data.",
-  "sentimen": "netral"
- },
- {
-  "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
-  "category": "Aksi Korporasi",
-  "title": "DR Sampaikan Term Sheet [Waran Terstruktur] 18 Seri Baru",
-  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan term sheet penawaran umum 18 seri call warrant atas saham-saham acuan, jatuh tempo November 2026 dan Maret 2027.",
-  "image": "assets/img/analis-rapat.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:34:40",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dc6396edf_2094d9aefc.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "DR",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "call warrant"
-  ],
-  "body": [
-   "RHB Sekuritas Indonesia dengan kode broker DR menyampaikan keterbukaan informasi mengenai penyampaian term sheet penawaran umum waran terstruktur (structured warrant) kepada Bursa Efek Indonesia. Dokumen bernomor 011/EQD/RHB/08/2026 ini ditandatangani secara elektronik oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 11.34 WIB, dengan lampiran bertajuk Term Sheet WT T41.pdf.",
-   "Total ada 18 seri call warrant yang term sheet-nya disampaikan dalam laporan ini. Lima seri dengan masa berlaku hingga 26 November 2026 memiliki saham acuan AMMN, BBCA, BBRI, HRUM, dan RAJA. Sisanya, 13 seri, berlaku hingga 29 Maret 2027 dengan saham acuan AADI, BBTN, BUMI, CUAN, ERAA, INCO, INDY, ITMG, JSMR, MBMA, PNLF, RATU, dan TPIA. Dokumen yang diekstraksi tidak memuat rincian harga strike, rasio konversi, maupun jumlah unit yang ditawarkan untuk masing-masing seri.",
-   "Waran terstruktur ini diterbitkan oleh RHB Sekuritas Indonesia sebagai penerbit, bukan oleh perusahaan-perusahaan yang sahamnya dijadikan acuan. Artinya, instrumen ini merupakan produk derivatif turunan yang diperdagangkan terpisah dari saham asli emiten-emiten tersebut."
-  ],
-  "takeaway": "Waran terstruktur atau structured warrant adalah efek derivatif yang diterbitkan pihak ketiga, dalam hal ini RHB Sekuritas Indonesia (DR), memberi hak beli atas saham acuan tertentu hingga tanggal jatuh tempo, dan diperdagangkan di bursa layaknya saham biasa. Karena penerbitnya adalah perusahaan sekuritas dan bukan emiten-emiten acuan seperti BBCA, BBRI, AMMN, atau saham lain dalam daftar, laporan ini tidak menyentuh pos kinerja keuangan emiten manapun, baik ekuitas, arus kas, maupun laba per saham. Yang terpengaruh hanyalah ketersediaan instrumen trading turunan di pasar bagi investor yang ingin berspekulasi pada pergerakan saham acuan tersebut. Penilaian kami netral, karena ini merupakan pengumuman administratif rutin dari perusahaan sekuritas terkait peluncuran produk derivatif, bukan aksi korporasi yang mengubah fundamental emiten manapun yang disebut sebagai acuan, dan dokumen yang tersedia juga tidak memuat rincian harga atau volume yang bisa dinilai dampaknya.",
-  "sentimen": "netral"
- },
- {
-  "slug": "dr-rilis-keterbukaan-informasi-penerbitan-waran-ke-41",
-  "category": "Aksi Korporasi",
-  "title": "DR Tawarkan [Waran Terstruktur] Seri ke-41 pada 12-13 Agustus",
-  "deck": "RHB Sekuritas Indonesia (DR) menyampaikan keterbukaan informasi penerbitan waran terstruktur seri ke-41, dengan masa penawaran 12-13 Agustus 2026.",
-  "image": "assets/img/meja-registrasi-rups.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:33:52",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f77744073f_df234a669e.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "DR",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "keterbukaan informasi"
-  ],
-  "body": [
-   "PT RHB Sekuritas Indonesia dengan kode emiten DR menyampaikan keterbukaan informasi ke Bursa Efek Indonesia terkait penawaran umum waran terstruktur atau structured warrant untuk penerbitan yang ke-41. Surat bernomor 010/EQD/RHB/08/2026 itu ditandatangani oleh Tan Cheong Hong selaku Head of Trading RHB Sekuritas Indonesia, pada 10 Agustus 2026 pukul 11.33 WIB.",
-   "Menurut dokumen tersebut, masa penawaran umum waran terstruktur ini akan berlangsung selama dua hari, yaitu pada tanggal 12 hingga 13 Agustus 2026. Rincian lengkap mengenai jenis waran, saham acuan, rasio konversi, harga pelaksanaan, maupun jumlah unit yang diterbitkan disebutkan berada dalam lampiran resmi berupa dokumen PDF pengumuman, namun rincian angka tersebut tidak tercantum dalam teks keterbukaan informasi yang tersedia untuk laporan ini.",
-   "Dokumen juga menyertakan versi bahasa Inggris dengan isi yang sama, serta pernyataan bahwa surat ini adalah dokumen elektronik resmi yang tidak memerlukan tanda tangan basah dan bahwa RHB Sekuritas Indonesia bertanggung jawab penuh atas informasi di dalamnya."
-  ],
-  "takeaway": "Waran terstruktur adalah produk derivatif yang diterbitkan oleh perusahaan sekuritas, memberi pemegangnya hak, bukan kewajiban, untuk memperoleh keuntungan dari pergerakan harga saham acuan tertentu dalam periode terbatas, dan lazim dipakai investor untuk bertransaksi dengan leverage. Bagi RHB Sekuritas selaku penerbit, aktivitas ini biasanya menyentuh pos pendapatan berbasis fee dari penjualan produk, bukan ekuitas atau laba per saham perusaan itu sendiri, karena bukan merupakan penerbitan saham baru. Penilaian redaksi netral, sebab ini adalah seri ke-41 dari aktivitas bisnis yang memang rutin dilakukan RHB Sekuritas, dan data yang tersedia tidak memuat nilai penawaran, ukuran, atau saham acuan yang bisa dipakai untuk menakar dampak fundamentalnya. Detail lebih lanjut baru bisa dinilai setelah lampiran PDF pengumuman dibaca secara utuh.",
-  "sentimen": "netral"
- },
- {
-  "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
-  "category": "Aksi Korporasi",
-  "title": "POLL Rilis [Koreksi] Laporan Keuangan Interim Semester I 2026",
-  "deck": "PT Pollux Properties Indonesia Tbk mengoreksi laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026.",
-  "image": "assets/img/emas-batangan.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T11:18:48",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260810112624-64175-0/FinancialStatement-2026-II-POLL.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "POLL",
-  "tags": [
-   "POLL",
-   "Pollux Properties",
-   "laporan keuangan",
-   "koreksi"
-  ],
-  "body": [
-   "PT Pollux Properties Indonesia Tbk (POLL) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir pada 30 Juni 2026, melalui surat bernomor 014/PPI-CST/OJK-IDX/VIII/2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan ini berstatus tidak diaudit dan merupakan revisi dari dokumen serupa yang sebelumnya sudah pernah disampaikan untuk periode kuartal II 2026.",
-   "Dari ikhtisar posisi keuangan yang tercantum, kas dan setara kas perseroan per 30 Juni 2026 tercatat Rp13,75 miliar, naik dari Rp11,93 miliar pada akhir Desember 2025. Piutang usaha kepada pihak ketiga juga naik cukup tajam, dari Rp820,37 juta pada akhir 2025 menjadi Rp2,23 miliar pada pertengahan 2026. Bagian dokumen yang memuat liabilitas, ekuitas, serta laporan laba rugi dan arus kas secara lengkap tidak turut terbaca dalam data yang diterima, sehingga gambaran dampak koreksi secara menyeluruh belum bisa dipastikan.",
-   "Dokumen juga mencantumkan bahwa saham POLL saat ini berada di papan pemantauan khusus (watchlist) Bursa Efek Indonesia, sebagaimana tertulis dalam bagian informasi umum laporan."
-  ],
-  "takeaway": "Ini bukan aksi korporasi baru, melainkan pembetulan atas laporan keuangan interim triwulan II 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, sehingga ada perubahan angka dari versi awal. Pos yang berpotensi tersentuh oleh koreksi semacam ini biasanya berada di laporan posisi keuangan, seperti kas, piutang, dan pos neraca lain yang jadi acuan investor untuk menilai likuiditas dan kesehatan keuangan perusahaan. Karena dokumen yang tersedia tidak merinci apa saja yang berubah dibanding versi sebelum koreksi, dan tidak menyertakan laporan laba rugi maupun arus kas secara utuh, penilaian dibuat netral. Data kas dan piutang yang ada memang menunjukkan kenaikan, tapi itu saja belum cukup untuk menyimpulkan apakah koreksi ini bersifat material atau kosmetik. Status POLL yang sudah berada di papan pemantauan khusus juga menjadi konteks bahwa bursa sedang memberi perhatian pengawasan tersendiri pada saham ini.",
-  "sentimen": "netral"
- },
- {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
   "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
   "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/kilang-minyak.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:41:30+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458834-terima-laporan-b50-prabowo-langsung-perintahkan-pangkas-layer-bumn",
@@ -888,30 +1129,6 @@ var ARTICLES = [
    "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
    "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
   ]
- },
- {
-  "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "HD Ajukan [Term Sheet] Waran Terstruktur Saham BBCA",
-  "deck": "KGI Sekuritas Indonesia (HD) menyampaikan term sheet penawaran umum call warrant BBCAHDCJ7A dengan saham BBCA sebagai aset dasar, jatuh tempo 23 April 2027.",
-  "image": "assets/img/dokumen-prospektus.jpg",
-  "date": "10 Agustus 2026",
-  "isoDate": "2026-08-10T10:22:50",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e4e810e76_44441afe89.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "HD",
-  "tags": [
-   "HD",
-   "KGI Sekuritas",
-   "waran terstruktur",
-   "BBCA"
-  ],
-  "body": [
-   "KGI Sekuritas Indonesia, emiten dengan kode HD, menyampaikan kepada Bursa Efek Indonesia term sheet penawaran umum waran terstruktur bertajuk Call Warrant BBCA HD EXP 23 April 2027 dengan kode perdagangan BBCAHDCJ7A. Waran ini menggunakan saham PT Bank Central Asia Tbk sebagai aset dasar dan akan jatuh tempo pada 23 April 2027. Surat pemberitahuan bernomor 00001/E086/KGI/08/2026 ditandatangani oleh Jabintang Borneo Senja selaku Head of Compliance KGI Sekuritas Indonesia, disampaikan pada 10 Agustus 2026 pukul 10.22 WIB.",
-   "Sebagai bagian dari proses pengajuan itu, KGI melampirkan dokumen bertajuk Termsheet_BBCAHDCJ7A.pdf ke sistem pelaporan elektronik bursa. Namun, bagian dokumen yang tersedia untuk publik hanya memuat surat pengantar formal. Rincian teknis seperti jumlah waran yang akan diterbitkan, harga pelaksanaan, rasio konversi, premi, maupun target dana yang dihimpun dari penerbitan waran ini tidak tercantum dalam bagian yang bisa dibaca."
-  ],
-  "takeaway": "Waran terstruktur (structured warrant) adalah produk turunan yang diterbitkan sekuritas, dalam hal ini KGI, yang memberi pemegangnya hak untuk mendapatkan selisih harga saham acuan, di sini BBCA, pada harga dan tanggal tertentu, biasanya diselesaikan secara tunai tanpa memindahkan kepemilikan saham BBCA itu sendiri. Bagi KGI Sekuritas selaku penerbit, aktivitas ini menyentuh pos pendapatan dari komisi dan premi penjualan produk derivatif, bukan struktur permodalan atau utang perusahaan secara langsung. Penilaian fundamental atas laporan ini netral, karena dokumen yang tersedia baru berupa surat pengantar pengajuan term sheet tanpa rincian jumlah waran, harga pelaksanaan, atau proyeksi dana yang dihimpun, sehingga besar kecilnya dampak terhadap kinerja KGI belum bisa diukur dari informasi yang ada.",
-  "sentimen": "netral"
  },
  {
   "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
@@ -939,7 +1156,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Harga Beras dan Cabai [Naik] Serentak Awal Pekan",
   "deck": "Data PIHPS Bank Indonesia mencatat seluruh jenis beras dan komoditas cabai naik pada Senin, sementara harga bawang justru melandai.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T09:55:25+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458830-harga-pangan-hari-ini-10-agustus-2026-beras-kompak-naik-cabai-rawit-merah-melejit",
@@ -961,7 +1178,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "[Rupiah] Menguat ke Rp17.810, Cadangan Devisa Terjaga",
   "deck": "Rupiah menguat tipis ke Rp17.810 per dolar AS pada awal pekan, didukung cadangan devisa Juli yang tetap terjaga di US$145,3 miliar di tengah ketidakpastian global.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T09:27:29+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458827-rupiah-menguat-ke-rp17810-per-dolar-as-dipengaruhi-cadangan-devisa-juli-dan-ketegangan-iran-as-di-timur-tengah",
@@ -983,7 +1200,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "Obligasi WISL Rp845,5 Miliar [Jatuh Tempo], Berhenti Diperdagangkan",
   "deck": "BEI mengumumkan Obligasi II WISL Tahun 2023 Seri B senilai Rp845,5 miliar resmi jatuh tempo pada 8 Agustus 2026 dan tidak lagi tercatat di bursa mulai 10 Agustus 2026.",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/kopi-rapat.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:38:18",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f25535d28f_7bbac8f397.pdf",
@@ -1007,7 +1224,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI Catatkan [Konversi] Waran, Saham Beredar Jadi 18,06 Miliar",
   "deck": "Bursa mencatat konversi 297.862 waran HUMI-W menjadi saham baru per 10 Agustus 2026, sehingga total saham beredar HUMI naik menjadi 18.063.691.451 lembar.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/jendela-kota-malam.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:56",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e33a853d79_ffed42e537.pdf",
@@ -1031,7 +1248,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "KAEF Resmi [Ganti Nama] jadi PT Kimia Farma (Persero) Tbk",
   "deck": "BEI mengumumkan perubahan nama tercatat emiten KAEF dari Kimia Farma Tbk. menjadi PT Kimia Farma (Persero) Tbk, efektif 10 Agustus 2026.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/berkas-disortir.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af0ff5b4da_ab7494f874.pdf",
@@ -1055,7 +1272,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PJHB Catat [Konversi] Waran, Saham Beredar Jadi 1,92 Miliar",
   "deck": "BEI mencatat konversi 3.105 waran PJHB-W menjadi saham baru pada 10 Agustus 2026. Sisa 239,28 juta waran berpotensi menambah saham beredar di kemudian hari.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/foto-bersama-korporat.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:37:14",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/537545357d_64a360d59d.pdf",
@@ -1079,7 +1296,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PACK Catatkan 441,48 Juta Saham Baru dari [Konversi] Obligasi",
   "deck": "BEI mencatatkan 441.482.500 saham baru PACK dari konversi Obligasi Wajib Konversi, menambah total saham beredar menjadi 34.099.757.975 lembar.",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T01:34:32",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/397f7d6139_8843df58bb.pdf",
@@ -1100,11 +1317,36 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
+  "category": "Aksi Korporasi",
+  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan 2025",
+  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi laporan keuangan tahunan 2025 ke BEI, kas dan setara kas naik jadi Rp71,90 miliar dari Rp17,03 miliar.",
+  "image": "assets/img/bisnis-resto.jpg",
+  "date": "9 Agustus 2026",
+  "isoDate": "2026-08-09T17:01:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez Worldwide Indonesia",
+   "laporan keuangan tahunan",
+   "koreksi laporan"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 324/SK/CSC-CWI/VIII/2026 dengan perihal yang secara eksplisit tertulis sebagai Penyampaian Laporan Keuangan Tahunan (Koreksi). Laporan diaudit oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penanggung jawab Heri Setianto, auditor yang sama dengan tahun sebelumnya, dan menghasilkan opini wajar tanpa modifikasian tertanggal 29 Juni 2026. Surat pernyataan tanggung jawab direksi atas laporan keuangan tersebut ditandatangani pada 16 Februari 2026.",
+   "Dari sisi posisi keuangan, kas dan setara kas Cashlez tercatat Rp71,90 miliar per 31 Desember 2025, naik dari Rp17,03 miliar pada akhir 2024, meningkat lebih dari empat kali lipat dalam setahun. Pos aset keuangan lancar lainnya juga naik menjadi Rp576,80 juta dari Rp437,30 juta pada periode yang sama tahun sebelumnya. Dokumen tidak merinci pos mana persisnya yang diperbaiki dibandingkan laporan tahunan yang sebelumnya sudah disampaikan ke BEI.",
+   "Laporan ini juga mencantumkan informasi anak usaha, yaitu PT Softorb Technology Indonesia yang bergerak di bidang perdagangan besar serta teknologi informasi, berlokasi di Jakarta dan telah beroperasi komersial sejak 2004. Cashlez tercatat menguasai 51,0 persen saham Softorb, dengan total aset anak usaha tersebut mencapai Rp111,84 miliar per akhir 2025."
+  ],
+  "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
   "category": "Pasar Modal",
   "title": "Investor Saham RI [Tembus] 10,05 Juta SID di 2026",
   "deck": "BEI mencatat jumlah investor saham naik 16,83 persen sepanjang tahun berjalan, seiring upaya bursa memperluas basis pemodal domestik.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/seminar-investasi.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T19:19:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458750-investor-saham-tembus-1005-juta-sid-bei-catat-pertumbuhan-1683-pada-2026",
@@ -1126,7 +1368,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BI: Harga Properti Residensial [Naik] Tipis di Triwulan II 2026",
   "deck": "Bank Indonesia mencatat kenaikan harga properti residensial 0,69 persen secara tahunan pada triwulan II 2026, dengan Pekanbaru mencatat lonjakan tertinggi.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:10:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458739-bi-ungkap-harga-properti-di-indonesia-naik-di-triwulan-ii-2026-pekanbaru-jadi-wilayah-paling-mencolok",
@@ -1148,7 +1390,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Ekonomi [Karbon] Bergeser, Peluang Besar Bagi Indonesia",
   "deck": "Pergeseran ekonomi berbasis karbon membuka peluang bagi Indonesia mengubah kekayaan alamnya menjadi kekuatan ekonomi baru.",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T18:01:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458734-ekonomi-karbon-ubah-arah-bisnis-global-indonesia-dinilai-punya-peluang-yang-menjanjikan",
@@ -1163,31 +1405,6 @@ var ARTICLES = [
    "Pandangan itu disampaikan Founder sekaligus CEO PT Visi Carbon Indonesia (VCarboN), Heppy Trenggono, dalam forum Ngobrol Santai Bareng Rektor bertema Carbon Trade dan Masa Depan Indonesia Hijau yang digelar Dewan Profesor Universitas Brawijaya pada 7 Agustus 2026. Ia menekankan bahwa dunia kini membayar bukan hanya untuk apa yang diambil dari alam, melainkan juga untuk apa yang berhasil dijaga, sehingga kekayaan alam Indonesia berpeluang menjadi sumber pertumbuhan ekonomi baru asalkan didukung riset, teknologi, kewirausahaan, dan tata kelola yang berintegritas.",
    "Sejalan dengan gagasan tersebut, Universitas Brawijaya dan VCarboN membuka peluang kerja sama di bidang ekonomi karbon, modal alam, teknologi iklim, riset, serta penguatan sumber daya manusia untuk memperkuat posisi Indonesia dalam ekonomi hijau global. Forum yang dihadiri Rektor Universitas Brawijaya Prof. Widodo bersama sejumlah guru besar dan akademisi ini juga membahas bagaimana penetapan harga karbon, perdagangan berbasis intensitas karbon, arus modal, dan regulasi kini ikut membentuk ulang struktur ekonomi dunia."
   ]
- },
- {
-  "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
-  "category": "Aksi Korporasi",
-  "title": "CASH Sampaikan [Koreksi] Laporan Keuangan Tahunan 2025",
-  "deck": "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi laporan keuangan tahunan 2025 ke BEI, kas dan setara kas naik jadi Rp71,90 miliar dari Rp17,03 miliar.",
-  "image": "assets/img/konpers-emiten.jpg",
-  "date": "9 Agustus 2026",
-  "isoDate": "2026-08-09T17:01:29",
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX",
-  "emiten": "CASH",
-  "tags": [
-   "CASH",
-   "Cashlez Worldwide Indonesia",
-   "laporan keuangan tahunan",
-   "koreksi laporan"
-  ],
-  "body": [
-   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan koreksi atas laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia, melalui surat bernomor 324/SK/CSC-CWI/VIII/2026 dengan perihal yang secara eksplisit tertulis sebagai Penyampaian Laporan Keuangan Tahunan (Koreksi). Laporan diaudit oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan Rekan dengan partner penanggung jawab Heri Setianto, auditor yang sama dengan tahun sebelumnya, dan menghasilkan opini wajar tanpa modifikasian tertanggal 29 Juni 2026. Surat pernyataan tanggung jawab direksi atas laporan keuangan tersebut ditandatangani pada 16 Februari 2026.",
-   "Dari sisi posisi keuangan, kas dan setara kas Cashlez tercatat Rp71,90 miliar per 31 Desember 2025, naik dari Rp17,03 miliar pada akhir 2024, meningkat lebih dari empat kali lipat dalam setahun. Pos aset keuangan lancar lainnya juga naik menjadi Rp576,80 juta dari Rp437,30 juta pada periode yang sama tahun sebelumnya. Dokumen tidak merinci pos mana persisnya yang diperbaiki dibandingkan laporan tahunan yang sebelumnya sudah disampaikan ke BEI.",
-   "Laporan ini juga mencantumkan informasi anak usaha, yaitu PT Softorb Technology Indonesia yang bergerak di bidang perdagangan besar serta teknologi informasi, berlokasi di Jakarta dan telah beroperasi komersial sejak 2004. Cashlez tercatat menguasai 51,0 persen saham Softorb, dengan total aset anak usaha tersebut mencapai Rp111,84 miliar per akhir 2025."
-  ],
-  "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
-  "sentimen": "netral"
  },
  {
   "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",
@@ -1216,7 +1433,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Pertamina Dampingi Nelayan Batam, Pendapatan [Naik] 40%",
   "deck": "Pertamina Patra Niaga memperluas pendampingan usaha hasil laut di Batam, mendorong pendapatan kelompok nelayan dan UMKM perempuan naik signifikan.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T16:41:17+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458720-pacu-ekonomi-pesisir-pertamina-patra-niaga-dampingi-pengembangan-usaha-hasil-laut-di-batam",
@@ -1260,7 +1477,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Harga Minyak Berpeluang Tembus [US$83] di Tengah Ketegangan Hormuz",
   "deck": "Pengamat memperkirakan harga minyak mentah bergerak di kisaran US$65,70 hingga US$83,30 per barel pekan ini, seiring negosiasi Iran dan Oman soal Selat Hormuz yang belum tuntas.",
-  "image": "assets/img/panel-surya-atap.jpg",
+  "image": "assets/img/truk-tangki-bbm.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T14:43:45+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458707-iran-oman-rebutan-selat-hormuz-harga-minyak-diprediksi-tembus-us83-per-barel",
@@ -1326,7 +1543,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Cadangan Devisa RI [Tembus] US$145,3 Miliar per Juli",
   "deck": "Cadangan devisa Indonesia akhir Juli 2026 tercatat US$145,3 miliar, turun tipis dari US$145,6 miliar pada Juni, namun tetap setara 5,5 bulan pembiayaan impor.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/konpers-podium.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T13:39:41+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458696-cadangan-devisa-ri-tembus-us1453-miliar-bi-setara-pembiayaan-55-bulan-impor",
@@ -1348,7 +1565,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Konsumsi Rumah Tangga Masih [Menopang] 92 Persen Ekonomi Indonesia",
   "deck": "Ketua Umum Kadin Anindya Bakrie menegaskan konsumsi rumah tangga dan aktivitas dunia usaha menyumbang 92 persen produk domestik bruto Indonesia.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457008-92-pdb-ri-ditopang-konsumsi-dan-dunia-usaha-anindya-bakrie-tegaskan-kadin-siap-ikut-pacu-pertumbuhan-ekonomi",
   "tags": [
@@ -1370,7 +1587,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamax Cs Turun Lagi Awal Agustus, Ini [Rinciannya]",
   "deck": "Pertamina Patra Niaga kembali menyesuaikan harga sejumlah BBM non-subsidi per 1 Agustus 2026.",
-  "image": "assets/img/kilang-minyak.jpg",
+  "image": "assets/img/tabung-lpg.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457073-harga-bbm-per-1-agustus-2026-pertamina-patra-niaga-turunkan-harga-pertamax",
   "tags": [
@@ -1391,7 +1608,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Dibuka Turun [Rp20 Ribu] per Gram di Awal Agustus",
   "deck": "Harga emas batangan Antam terkoreksi di hari pertama Agustus 2026, memutus tren penguatan pekan sebelumnya.",
-  "image": "assets/img/seminar-investasi.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
   "tags": [
@@ -1412,7 +1629,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Saham Telekomunikasi Jadi Incaran, Analis Soroti Kebutuhan [Infrastruktur]",
   "deck": "Minat investor terhadap emiten telekomunikasi meningkat, namun analis mengingatkan pembangunan infrastruktur jaringan masih perlu digenjot.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/trader-dua-layar.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457076-saham-sektor-telekomunikasi-tarik-minat-investor-infrastruktur-perlu-ditingkatkan",
   "tags": [
@@ -1433,7 +1650,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Berbeda dari Pertamina, Solar di SPBU Shell Justru [Naik]",
   "deck": "Shell menaikkan harga solar per 1 Agustus 2026, berbanding terbalik dengan penyesuaian turun yang dilakukan Pertamina.",
-  "image": "assets/img/truk-tangki-bbm.jpg",
+  "image": "assets/img/sawit-biodiesel.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457113-harga-bbm-jenis-solar-di-spbu-shell-resmi-naik-per-1-agustus-2026",
   "tags": [
@@ -1454,7 +1671,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BGN Siap Jalankan Putusan MK, Skema Anggaran MBG Dibahas [Kemenkeu]",
   "deck": "Kepala BGN menyebut skema anggaran program Makan Bergizi Gratis pascaputusan MK akan dibahas bersama Kementerian Keuangan.",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "1 Agustus 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457072-bgn-tegaskan-siap-laksanakan-putusan-mk-soal-skema-anggaran-bakal-dibahas-kemenkeu",
   "tags": [
@@ -1475,7 +1692,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Transformasi Garuda Group Dipercepat, Citilink Tambah [Armada]",
   "deck": "Danantara mendorong percepatan transformasi bisnis Garuda Indonesia Group. Citilink catat 43 armada hingga akhir semester I 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/galangan-kapal.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456895-danantara-percepat-transformasi-garuda-indonesia-group-citilink-operasikan-43-armada-hingga-akhir-semester-i-2026",
   "tags": [
@@ -1496,7 +1713,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pajak UMKM Online Bakal Turun dari 20 ke [8] Persen",
   "deck": "Pemerintah tengah memproses penurunan beban pajak bagi pelaku UMKM yang berjualan lewat platform digital.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456849-istri-menteri-umkm-sebut-pajak-umkm-online-sedang-diproses-turun-dari-20-ke-8-persen-kapan-realisasinya",
   "tags": [
@@ -1517,7 +1734,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Menuju B50, Tata Kelola Biodiesel Dinilai Jadi [Pekerjaan Rumah]",
   "deck": "Penerapan campuran biodiesel 50 persen dinilai butuh penguatan regulasi agar memberi kepastian bagi pelaku industri.",
-  "image": "assets/img/tabung-lpg.jpg",
+  "image": "assets/img/jaringan-listrik.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457067-implementasi-b50-dinilai-perlu-didukung-tata-kelola-biodiesel-yang-kuat",
   "tags": [
@@ -1538,7 +1755,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Bumi Resources Buka Kinerja [Semester I], Batu Bara Masih Jadi Andalan",
   "deck": "Eksportir batu bara termal terbesar dunia asal Indonesia ini merilis laporan keuangan belum diaudit untuk paruh pertama 2026.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/kelas-investor.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457054-bumi-resources-umumkan-kinerja-keuangan-semester-i-2026",
   "tags": [
@@ -1559,7 +1776,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Telkom Catat Pertumbuhan [Solid] di Paruh Pertama 2026",
   "deck": "Pendapatan, EBITDA, dan laba bersih normalisasi Telkom tumbuh kuat seiring akselerasi transformasi di bawah Danantara.",
-  "image": "assets/img/galangan-kapal.jpg",
+  "image": "assets/img/atm-kota.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457041-akselerasi-transformasi-danantara-tlkm-30-pendapatan-ebitda-dan-laba-bersih-normalisasi-telkom-tumbuh-kuat-di-paruh-pertama-2026",
   "tags": [
@@ -1580,7 +1797,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Satu Terminal Ini Menjaga [40 Persen] Pasokan LPG Nasional",
   "deck": "Terminal LPG Tanjung Sekong disebut memegang peran krusial sebagai infrastruktur strategis penjaga stabilitas energi nasional.",
-  "image": "assets/img/sawit-biodiesel.jpg",
+  "image": "assets/img/bank-mikro-desa.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457028-terminal-lpg-tanjung-sekong-pegang-peranan-jaga-pasokan-40-persen-kebutuhan-lpg-nasional",
   "tags": [
@@ -1601,7 +1818,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Bulog Perketat Pantauan Harga dan [Mutu] Beras",
   "deck": "Direktur Utama Bulog menekankan pentingnya edukasi mutu beras agar konsumen mendapat produk yang sesuai label dan harga.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457020-pantau-harga-dan-edukasi-soal-mutu-beras-bulog-pastikan-masyarakat-mendapatkan-informasi-tepat",
   "tags": [
@@ -1622,7 +1839,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Menyeberang Selat demi Layani Nasabah: Cerita Mantri BRI di [Pulau Seram]",
   "deck": "Petugas lapangan BRI menempuh ombak Selat Haya dengan perahu fiber untuk menjangkau nasabah nelayan.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456965-terjang-ombak-dedikasi-mantri-bri-membuka-jalan-akses-finansial-hingga-perbaiki-nasib-nelayan-di-pulau-seram",
   "tags": [
@@ -1643,7 +1860,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Pendukung dan Pengkritik Duduk Bareng Bahas [Kopdes] Merah Putih",
   "deck": "AMKI menggelar diskusi yang mempertemukan pendukung dan pengkritik program Koperasi Desa Merah Putih.",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/jalan-raya-padat.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456951-bahas-kopdes-merah-putih-amki-pertemukan-agrinas-hingga-celios-untuk-kupas-penyempurnaan-program",
   "tags": [
@@ -1664,7 +1881,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Lima Puluh UMKM Dibekali [Sertifikasi Halal] untuk Tembus Pasar Baru",
   "deck": "Pertamina memfasilitasi sertifikasi halal bagi 50 UMKM binaan dari berbagai sektor usaha.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/gudang-beras.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456948-50-umkm-binaan-dibekali-sertifikasi-halal-pertamina-bantu-perluas-peluang-pasar",
   "tags": [
@@ -1685,7 +1902,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Akad Massal [62 Ribu] Debitur KPR Subsidi Dipimpin Presiden",
   "deck": "BRI menegaskan komitmennya dalam program 3 juta rumah lewat penyediaan akses pembiayaan bagi masyarakat dan pelaku usaha properti.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/mobile-banking.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456897-presiden-prabowo-pimpin-akad-massal-62-ribu-debitur-kpr-flpp-bri-tegaskan-komitmen-sebagai-penggerak-ekonomi-kerakyatan",
   "tags": [
@@ -1706,7 +1923,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Melayani Ratusan Debitur yang Tersebar di Belasan Desa [Talaud]",
   "deck": "Petugas BRI di Kepulauan Talaud melayani ratusan debitur yang tersebar di belasan desa terpencil.",
-  "image": "assets/img/mobile-banking.jpg",
+  "image": "assets/img/kartu-debit.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456868-mantri-bri-hadir-menggerakkan-denyut-nadi-perekonomian-di-tengah-bentang-kepulauan-talaud",
   "tags": [
@@ -1727,7 +1944,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamina Paparkan Strategi Jaga [Ketahanan Energi] Nasional",
   "deck": "Wakil Direktur Utama Pertamina memaparkan capaian dan langkah perusahaan mendukung ketahanan energi nasional.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457022-wadirut-oki-muraza-paparkan-upaya-strategis-pertamina-mendukung-ketahanan-energi-nasional",
   "tags": [
@@ -1748,7 +1965,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Aplikasi Mobile Antar Bank Jakarta Raih [Penghargaan] Digital",
   "deck": "Bank Jakarta meraih penghargaan Digital Excellence Awards 2026 lewat layanan JakOne Mobile.",
-  "image": "assets/img/kartu-debit.jpg",
+  "image": "assets/img/perahu-nelayan.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457035-jakone-mobile-antar-bank-jakarta-raih-digital-excellence-awards-2026",
   "tags": [
@@ -1790,7 +2007,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Dari Kebun di Batang ke Pasar Dunia: Cerita [Kopi] Naik Kelas",
   "deck": "Berawal dari kepedulian terhadap petani kopi di Batang, sebuah usaha rintisan berkembang hingga menjangkau pasar ekspor.",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/koin-logam.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456985-bersama-bri-petani-kopi-asal-batang-sajikan-racikan-produk-hingga-jangkau-pasar-dunia",
   "tags": [
@@ -1811,7 +2028,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Antisipasi Gejolak Global, Tim Diplomasi Ekonomi Dikirim ke China dan [Mesir]",
   "deck": "Presiden Prabowo menyiapkan langkah antisipasi krisis ekonomi dunia lewat penjajakan kerja sama dengan sejumlah negara.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456785-prabowo-kirim-tim-ke-china-hingga-mesir-cari-formula-terbaik-antisipasi-krisis-dunia-panjang",
   "tags": [
@@ -1832,7 +2049,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Sinyal dari Istana soal Calon Gubernur [BI] Berikutnya",
   "deck": "Presiden Prabowo melontarkan komentar santai soal posisi Pejabat Sementara Gubernur Bank Indonesia, Destry Damayanti.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pencakar-langit-jakarta.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456774-prabowo-guyon-soal-pjs-gubernur-bi-destry-oke-ya-tapi-nanti-terserah-dpr",
   "tags": [
@@ -1853,7 +2070,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Efek Danantara Mulai Terasa, BUMN Diarahkan ke Pasar [Global]",
   "deck": "BKI mempercepat transformasi bisnis seiring penguatan ekosistem BUMN melalui Danantara.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/konstruksi-perumahan.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456842-efek-danantara-mulai-terasa-arah-transformasi-bumn-kini-lebih-fokus-ke-pasar-global",
   "tags": [
@@ -1874,7 +2091,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Ekosistem Digital Haji dan Umrah Diperkuat lewat [Kemitraan] Baru",
   "deck": "BPKH Limited bermitra dengan SAHL Group dan Bank Muamalat untuk memperkuat layanan digital perjalanan haji dan umrah.",
-  "image": "assets/img/perahu-nelayan.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456835-bpkh-gandeng-sahl-dan-muamalat-perkuat-ekosistem-perjalanan-haji-dan-umrah-melalui-digital",
   "tags": [
@@ -1895,7 +2112,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pertamina Dorong Agenda [ESG] Masuk ke Lini Bisnis",
   "deck": "Pertamina mengintegrasikan prinsip lingkungan, sosial, dan tata kelola ke dalam transformasi bisnisnya.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/konter-bank-pagi.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456789-pertamina-terus-perkuat-kapabilitas-dan-budaya-keberlanjutan-guna-dukung-transformasi-bisnis-berkelanjutan",
   "tags": [
@@ -1916,7 +2133,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Inisiatif Bioenergi Pertamina Dapat [Pengakuan] Internasional",
   "deck": "Pertamina meraih penghargaan Outstanding SDG Innovator 2026 lewat inisiatif bioenergi berkelanjutan.",
-  "image": "assets/img/panel-surya-atap.jpg",
+  "image": "assets/img/kotak-deposit.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456788-pertamina-raih-outstanding-sdg-innovator-2026-inisiatif-bioenergy-lestari-diakui-dunia",
   "tags": [
@@ -1937,7 +2154,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Sebelas UMKM Binaan Tampil di Panggung [Indonesia Fashion Week]",
   "deck": "UMKM binaan Pertamina Patra Niaga memperluas akses pasar lewat ajang Indonesia Fashion Week 2026.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/layar-pasar-jauh.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456773-dongkrak-umkm-naik-kelas-11-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026",
   "tags": [
@@ -1958,7 +2175,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Pegadaian Kantongi SK Perjanjian Kerja Bersama [2026-2028]",
   "deck": "Perjanjian kerja bersama periode 2026-2028 disahkan Kemenaker, memperkuat fondasi hubungan industrial.",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/mencatat-grafik.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456748-pegadaian-resmi-terima-sk-perjanjian-kerja-bersama-periode-20262028-dari-kemenaker-perkuat-fondasi-hubungan-industrial-harmonis",
   "tags": [
@@ -1979,7 +2196,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Perusahaan Perangkat Lunak Global Perluas Kantor di [BSD City]",
   "deck": "Odoo Indonesia membuka kantor baru di kawasan digital hub BSD City.",
-  "image": "assets/img/server-data.jpg",
+  "image": "assets/img/mesin-antrean.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456739-odoo-indonesia-ekspansi-kantor-baru-di-gedung-biomedical-campus-perkuat-ekosistem-digital-hub-di-bsd-city",
   "tags": [
@@ -2000,7 +2217,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Secangkir Kopi Wisatawan Asing dan [Rantai Ekonomi] di Baliknya",
   "deck": "Presiden menganalogikan efek berganda pariwisata lewat contoh sederhana konsumsi wisatawan asing.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/panen-sawah.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456717-prabowo-satu-wisatawan-asing-minum-secangkir-kopi-bisa-hidupi-10-hingga-15-rakyat-indonesia",
   "tags": [
@@ -2021,7 +2238,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Pekerja Migran di Taiwan Dibekali [Literasi Keuangan] untuk Pulang Berwirausaha",
   "deck": "BRI memberikan pelatihan kewirausahaan dan literasi keuangan bagi pekerja migran Indonesia di Taiwan.",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/petugas-layani-nasabah.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456703-bri-bekali-pmi-di-taiwan-dengan-kewirausahaan-dan-literasi-keuangan-untuk-bangun-usaha-produktif",
   "tags": [
@@ -2042,7 +2259,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bank bjb Perluas Bisnis lewat [Kemitraan] Strategis Baru",
   "deck": "Bank bjb menjalin kemitraan strategis untuk memperkuat basis bisnisnya.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/papan-berjalan-kabur.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456658-bank-bjb-perluas-potensi-bisnis-melalui-kemitraan-strategis-bersama-yayasan-adi-upaya",
   "tags": [
@@ -2063,7 +2280,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Naik [Rp15 Ribu], Harga Buyback Ikut Terangkat",
   "deck": "Harga emas batangan Antam menguat pada perdagangan 30 Juli 2026, diikuti kenaikan harga buyback.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/rapat-dewan-gubernur.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik",
   "tags": [
@@ -2084,7 +2301,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Transformasi BRI Dipercepat untuk Perkuat Kontribusi ke [Ekonomi Nasional]",
   "deck": "BRI mengakselerasi program transformasi sebagai fondasi memperkuat daya saing.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/wartawan-menunggu.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456651-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional",
   "tags": [
@@ -2147,7 +2364,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Seratus Ribu Pekerja Rentan Bakal Dapat [Jaminan Sosial]",
   "deck": "BAZNAS dan BPJS Ketenagakerjaan memperkuat kolaborasi memperluas perlindungan bagi pekerja rentan.",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/bursa-kerja.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456568-perlindungan-jaminan-sosial-bagi-100-ribu-pekerja-rentan-baznas-ri-dan-bpjs-ketenagakerjaan-perkuat-kolaborasi",
   "tags": [
@@ -2189,7 +2406,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Sepuluh Bank Tutup hingga Juli, OJK Cabut Izin [BPR] di Berbagai Daerah",
   "deck": "OJK mencabut izin usaha sejumlah bank perkreditan rakyat di berbagai daerah sepanjang 2026.",
-  "image": "assets/img/antrean-teller.jpg",
+  "image": "assets/img/teller-bank.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456564-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah",
   "tags": [
@@ -2231,7 +2448,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Kadin Bawa Agenda [Industri Listrik] ke Meja Sekretariat Kabinet",
   "deck": "Ketum Kadin membahas pengembangan industri listrik dalam pertemuan dengan Sekretaris Kabinet.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456548-temui-seskab-teddy-ketum-kadin-anindya-bakrie-bahas-pengembangan-industri-listrik-dan-kenalkan-buku-we-buy-from-indonesia",
   "tags": [
@@ -2252,7 +2469,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Laba Bank bjb Melonjak [58,8 Persen], Aset Tembus Rp228 Triliun",
   "deck": "Bank bjb membukukan pertumbuhan laba signifikan dengan total aset menembus Rp228,2 triliun.",
-  "image": "assets/img/atm-kota.jpg",
+  "image": "assets/img/antrean-teller.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456529-bukukan-kinerja-positif-laba-bank-bjb-tumbuh-588-dan-aset-tembus-rp2282-triliun",
   "tags": [
@@ -2315,7 +2532,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Presiden Minta Pabrik Gula Wajib Punya [Kebun Tebu] Sendiri",
   "deck": "Kebijakan ini diarahkan untuk memperkuat pasokan bahan baku industri gula dalam negeri.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456500-presiden-prabowo-minta-pabrik-gula-wajib-punya-kebun-tebu",
   "tags": [
@@ -2336,7 +2553,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
   "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
   "tags": [
@@ -2378,7 +2595,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Angka PHK Tembus [126 Ribu] Pekerja hingga Mei",
   "deck": "Apindo memaparkan tekanan yang dihadapi dunia usaha di balik gelombang pemutusan hubungan kerja.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456427-126-ribu-pekerja-terkena-phk-hingga-mei-2026-apindo-beberkan-tekanan-di-dunia-usaha",
   "tags": [
@@ -2441,7 +2658,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
   "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
   "tags": [
@@ -2504,7 +2721,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Harga BBM dan LPG Subsidi Dipastikan [Tidak Naik]",
   "deck": "Menteri ESDM memastikan harga energi bersubsidi tetap meski harga minyak dunia bergejolak.",
-  "image": "assets/img/kilang-minyak.jpg",
+  "image": "assets/img/spbu-bbm.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456391-bahlil-pastikan-harga-bbm-dan-lpg-subsidi-tidak-naik-meski-harga-minyak-bergejolak-karena-perang",
   "tags": [
@@ -2567,7 +2784,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Timur Tengah Memanas, Pasokan Energi Nasional Dipastikan [Aman]",
   "deck": "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga di tengah eskalasi konflik global.",
-  "image": "assets/img/truk-tangki-bbm.jpg",
+  "image": "assets/img/panel-surya-atap.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456339-konflik-timur-tengah-balik-panas-bahlil-pastikan-pasokan-energi-indonesia-tetap-terjaga",
   "tags": [
@@ -2588,7 +2805,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
   "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
   "tags": [
@@ -2609,7 +2826,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Pendaftar Program Magang Tembus [300 Ribu] untuk 50 Ribu Posisi",
   "deck": "Antusiasme program magang nasional melonjak dengan rasio pendaftar enam kali lipat dari kuota.",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456304-membludak-pendaftar-maganghub-2026-capai-300-ribu-untuk-50-ribu-posisi",
   "tags": [
@@ -2630,7 +2847,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Ketika Jaminan Kesehatan Menahan Beban [Biaya Berobat] Keluarga",
   "deck": "Cerita peserta JKN yang memanfaatkan program jaminan kesehatan untuk pemulihan penyakit tulang belakang.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456301-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal",
   "tags": [
@@ -2651,7 +2868,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
   "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/atm-kota.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah",
   "tags": [
@@ -2672,7 +2889,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Menyiapkan Keamanan Data Menghadapi Era [Komputer Kuantum]",
   "deck": "Telkom menginisiasi forum kolaborasi nasional untuk kesiapan kriptografi pascakuantum.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/server-data.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography",
   "tags": [
@@ -2693,7 +2910,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
   "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
-  "image": "assets/img/mobile-banking.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin",
   "tags": [
@@ -2714,7 +2931,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
   "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
   "tags": [
@@ -2735,7 +2952,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Turun [Rp9.000] per Gram",
   "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/seminar-investasi.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
   "tags": [
@@ -2798,7 +3015,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
   "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/konpers-podium.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi",
   "tags": [
@@ -2819,7 +3036,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Ekspor [Mineral Kritis] Terhambat, Kantor Staf Presiden Turun Tangan",
   "deck": "Pengusaha melaporkan hambatan ekspor mineral kritis, direspons langsung oleh Kantor Staf Presiden.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456176-pengusaha-lapor-ekspor-mineral-kritis-terhambat-ksp-dudung-turun-tangan-aparat-tidak-boleh-mengada-ada",
   "tags": [

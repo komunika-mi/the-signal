@@ -1,27 +1,27 @@
 // Data pasar harian. Dibuat otomatis - jangan diedit manual.
 var MARKET = {
- "diperbarui": "2026-08-10T23:45:09.844Z",
+ "diperbarui": "2026-08-11T23:53:57.400Z",
  "ihsg": {
-  "nilai": "6.365,37",
-  "delta": "▲0,72%",
-  "naik": true
- },
- "usdidr": {
-  "nilai": "17.862",
-  "delta": "▲0,00%",
-  "naik": true
- },
- "usdidrRaw": 17862.192486,
- "emas": {
-  "nilai": "Rp2.527rb",
-  "delta": "▲1,01%",
-  "naik": true
- },
- "emasRaw": 2526672.2517587403,
- "btc": {
-  "nilai": "Rp1,14 M",
-  "delta": "▼1,50%",
+  "nilai": "6.267,88",
+  "delta": "▼1,31%",
   "naik": false
  },
- "tanggalWIB": "Selasa, 11 Agustus 2026 &middot; 06.45 WIB"
+ "usdidr": {
+  "nilai": "17.757",
+  "delta": "▼0,59%",
+  "naik": false
+ },
+ "usdidrRaw": 17756.977757,
+ "emas": {
+  "nilai": "Rp2.495rb",
+  "delta": "▼1,26%",
+  "naik": false
+ },
+ "emasRaw": 2494833.4006856107,
+ "btc": {
+  "nilai": "Rp1,13 M",
+  "delta": "▼0,32%",
+  "naik": false
+ },
+ "tanggalWIB": "Rabu, 12 Agustus 2026 &middot; 06.53 WIB"
 };

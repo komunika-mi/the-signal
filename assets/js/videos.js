@@ -2,6 +2,38 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "nBoIvPni-mw",
+  "title": "KPPU Beri Rekomendasi Agar Persaingan Usaha Sehat",
+  "category": "Bisnis",
+  "program": "IBF tvOne",
+  "summary": "KPPU menyampaikan sejumlah rekomendasi agar persaingan usaha antara toko kelontong, minimarket, dan platform belanja online di Indonesia berjalan lebih sehat.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kebijakan persaingan usaha yang berdampak pada pelaku ritel kecil dan menengah."
+ },
+ {
+  "id": "xzZbJD-0U0g",
+  "title": "Roy: UMKM Bukan Sekadar Mitra Bisnis",
+  "category": "UMKM",
+  "program": "IBF tvOne",
+  "summary": "Dalam diskusi soal persaingan usaha ritel, Roy menekankan bahwa pelaku UMKM semestinya diperlakukan lebih dari sekadar mitra oleh peritel besar dan platform online.",
+  "takeaway": "Menyoroti posisi tawar UMKM di tengah ekspansi minimarket dan e-commerce."
+ },
+ {
+  "id": "X5DpqJrUYzg",
+  "title": "KPPU: Ada Ketidakseimbangan Persaingan di Ritel",
+  "category": "Bisnis",
+  "program": "IBF tvOne",
+  "summary": "KPPU menyoroti ketidakseimbangan persaingan antara toko kelontong, minimarket, dan toko online yang dinilai dapat merugikan pelaku usaha kecil.",
+  "takeaway": "Menunjukkan sikap regulator terhadap dinamika persaingan usaha ritel yang makin dipengaruhi platform digital."
+ },
+ {
+  "id": "I6cz5lF8atY",
+  "title": "Peneliti: 14 Juta UMKM Eceran, Pertumbuhan Lambat",
+  "category": "UMKM",
+  "program": "IBF tvOne",
+  "summary": "Seorang peneliti mengungkapkan bahwa dari 14 juta UMKM eceran di Indonesia, pertumbuhan sektor ini masih berjalan sangat lambat di tengah persaingan dengan ritel modern dan online.",
+  "takeaway": "Data ini penting untuk memahami tantangan usaha kecil menghadapi disrupsi ritel modern."
+ },
+ {
   "id": "3vzu4YBimyE",
   "title": "Persaingan Warung, Minimarket, dan Toko Online",
   "category": "Bisnis",
@@ -67,42 +99,6 @@ var VIDEOS = [
   "category": "Global",
   "summary": "Pengamat membedah dampak kebijakan tarif Amerika Serikat terhadap perdagangan global dan posisi negara berkembang. Bahasan menyentuh risiko perang dagang jilid baru serta efeknya pada rantai pasok yang melibatkan pabrik di Asia Tenggara.",
   "takeaway": "Bagi Indonesia, eskalasi tarif berdampak dua arah: menekan permintaan ekspor, tetapi juga membuka celah relokasi pabrik dari negara yang terkena tarif tinggi.",
-  "featured": false
- },
- {
-  "id": "I5oR7b-C4OE",
-  "title": "Menteri Purbaya Blak-Blakan Ungkap Kondisi Ekonomi",
-  "program": "tvOneNews",
-  "category": "Makroekonomi",
-  "summary": "Menteri Keuangan berbicara terbuka soal kondisi perekonomian yang disebutnya tidak sepenuhnya baik-baik saja. Ia menyinggung tekanan daya beli, penerimaan negara, serta tantangan yang dihadapi sektor usaha.",
-  "takeaway": "Pengakuan terbuka pejabat fiskal soal tekanan ekonomi biasanya menjadi sinyal awal penyesuaian asumsi anggaran.",
-  "featured": false
- },
- {
-  "id": "PqfmvSC1rNw",
-  "title": "Dampak Positif Program MBG bagi Ekonomi Sektor Pangan",
-  "program": "tvOneNews",
-  "category": "Bisnis",
-  "summary": "Tayangan ini menyoroti bagaimana program Makan Bergizi Gratis menggerakkan rantai pasok pangan di daerah, mulai dari petani, pemasok bahan baku, hingga penyedia jasa katering lokal.",
-  "takeaway": "Program berskala nasional seperti MBG menciptakan permintaan tetap bagi produsen pangan lokal, meski keberlanjutannya bergantung pada kelancaran pembayaran.",
-  "featured": false
- },
- {
-  "id": "rt6rcaFjEP4",
-  "title": "Kepala BGN Ungkap Peran MBG dalam Serap Jutaan Pekerja",
-  "program": "tvOneNews",
-  "category": "Ketenagakerjaan",
-  "summary": "Kepala Badan Gizi Nasional menjelaskan skala penyerapan tenaga kerja dari program Makan Bergizi Gratis, mencakup juru masak, pengantar, hingga pengelola dapur di berbagai daerah.",
-  "takeaway": "Penyerapan tenaga kerja jadi salah satu argumen utama mempertahankan program, di samping tujuan awalnya soal perbaikan gizi.",
-  "featured": false
- },
- {
-  "id": "OLM-fMgDcOw",
-  "title": "SBY Serukan Kolaborasi untuk Wujudkan Ekonomi Baru",
-  "program": "Kabar Pagi",
-  "category": "Makroekonomi",
-  "summary": "Presiden ke-6 RI Susilo Bambang Yudhoyono menyerukan kolaborasi lintas pihak untuk membangun struktur ekonomi baru. Pesannya menyentuh pentingnya kesinambungan kebijakan antarperiode pemerintahan.",
-  "takeaway": "Kesinambungan kebijakan ekonomi lintas pemerintahan kerap disebut investor sebagai faktor yang menentukan iklim investasi jangka panjang.",
   "featured": false
  }
 ];

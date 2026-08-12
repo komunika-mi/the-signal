@@ -2,11 +2,36 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "purbaya-temukan-banyak-masalah-keuangan-mbg-di-daerah",
+  "category": "Makroekonomi",
+  "title": "Purbaya Temukan [Banyak] Masalah Keuangan MBG di Daerah",
+  "deck": "Menkeu Purbaya menemukan banyak kekurangan pertanggungjawaban keuangan program MBG di daerah dan akan melaporkannya ke BGN untuk ditindaklanjuti.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T21:40:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459490-purbaya-temukan-banyak-masalah-dalam-keuangan-mbg-di-daerah-bgn-diminta-segera-benahi",
+  "tags": [
+   "MBG",
+   "BGN",
+   "Purbaya Yudhi Sadewa",
+   "Kementerian Keuangan"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengungkapkan bahwa pengawasan lapangan yang dilakukan jajarannya menemukan banyak kekurangan dalam pertanggungjawaban keuangan program Makan Bergizi Gratis (MBG) di berbagai daerah. Temuan ini penting karena MBG adalah program prioritas pemerintah yang menyalurkan dana dalam jumlah besar melalui ribuan dapur di seluruh Indonesia, sehingga kelemahan dalam pencatatan dan pertanggungjawaban keuangannya berisiko membuka celah penyimpangan atau pemborosan anggaran negara.",
+   "Purbaya menjelaskan kekurangan yang ditemukan bukan hanya satu jenis, melainkan beragam bentuk masalah administrasi keuangan yang berbeda di tiap lokasi. Data itu dikumpulkan lewat Kantor Wilayah Direktorat Jenderal Perbendaharaan Kementerian Keuangan yang turun langsung mensurvei Satuan Pelayanan Pemenuhan Gizi (SPPG), unit pelaksana MBG di lapangan, guna memotret kondisi riil pengelolaan dana di masing-masing dapur.",
+   "Hasil temuan itu rencananya diserahkan kepada Badan Gizi Nasional (BGN) sebagai bahan evaluasi agar aturan dan mekanisme pertanggungjawaban keuangan MBG bisa diperbaiki ke depan. Purbaya juga ditanya soal kemungkinan efisiensi anggaran program MBG, namun hingga Rabu (12/8/2026) dia menegaskan belum ada keputusan apa pun terkait rencana tersebut."
+  ],
+  "fotoAdegan": "Kitchen workers ladling rice and vegetables into metal trays inside a busy communal kitchen in Indonesia, early morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/18/6a33e4069213e-ilustrasi-pekerja-menyiapkan-paket-makanan-untuk-program-makan-bergizi-gratis-mbg-di-dapur-satuan-pelayanan-pemenuhan-gizi-sppg-jebres_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Temuan ini berasal dari survei langsung staf Kementerian Keuangan ke satuan pelayanan gizi yang menjalankan MBG di lapangan, bukan sekadar laporan administratif, dan hasilnya akan diserahkan ke BGN agar aturan pertanggungjawaban dananya diperbaiki. Yang terdampak langsung adalah BGN yang harus menindaklanjuti temuan itu, serta pengelola dapur MBG di daerah yang selama ini menyusun laporan keuangannya sendiri. Arah yang terlihat sejauh ini adalah pengawasan yang diperketat lebih dulu sebelum ada langkah lanjutan, sebab Purbaya sendiri menegaskan belum ada keputusan soal efisiensi anggaran MBG. Yang akan memastikan ke mana ini bergerak adalah apakah BGN benar merilis revisi aturan pertanggungjawaban keuangan, dan apakah keputusan soal efisiensi anggaran itu akhirnya diambil."
+ },
+ {
   "slug": "pajak-e-commerce-berpeluang-tertunda-lagi-hingga-oktober",
   "category": "Makroekonomi",
   "title": "Pajak E-Commerce Berpeluang [Tertunda] Lagi hingga Oktober",
   "deck": "Purbaya sebut penerapan pajak marketplace yang sedianya mulai 1 Agustus 2026 masih bisa mundur lagi hingga Oktober, menunggu kondisi daya beli masyarakat membaik.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T20:40:31+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459488-pajak-e-commerce-belum-pasti-jalan-november-purbaya-soroti-kondisi-ekonomi-dan-daya-beli",
@@ -159,7 +184,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Purbaya: Pajak Kontrakan [Bukan] Aturan Baru",
   "deck": "Purbaya menegaskan tidak ada pajak khusus untuk kontrakan pada 2027, aturan pajak yang berlaku tetap sama seperti biasa.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T18:18:16+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459457-purbaya-luruskan-isu-rumah-kontrakan-akan-kena-pajak-tahun-depan-kalau-ada-income-itu-kan-biasa",
@@ -184,7 +209,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Purbaya: Untung [Danantara] Bakal Masuk APBN Tahun Ini",
   "deck": "Menkeu Purbaya menyebut sebagian keuntungan Danantara akan disetor ke APBN tahun ini atas arahan Presiden Prabowo, meski mekanismenya belum final.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T17:34:39+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459447-purbaya-beberkan-soal-rencana-keuntungan-danantara-masuk-ke-apbn-bantah-kondisi-fiskal-tertekan",

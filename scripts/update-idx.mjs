@@ -8,6 +8,7 @@ import { ROOT, log, readData, writeData } from './lib.mjs';
 import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
+import { pastikanFotoArtikel } from './foto-artikel.mjs';
 
 const TARGET = Number(process.env.IDX_TARGET || 8);      // aksi korporasi per putaran
 const MAKS_KANDIDAT = Number(process.env.IDX_KANDIDAT || 25);
@@ -103,6 +104,11 @@ async function main() {
   const semua = [...baru, ...artikelLama]
     .sort((a, b) => new Date(b.isoDate || 0) - new Date(a.isoDate || 0))
     .slice(0, MAKS_ARSIP);
+
+  // Lihat catatan di update-all.mjs: foto dibuat per artikel supaya tidak
+  // mungkin berulang. Batasnya lebih kecil di sini karena putaran IDX jalan
+  // tiap 2 jam dan artikel barunya sedikit.
+  await pastikanFotoArtikel(semua, { maksBaru: Number(process.env.SIGNAL_FOTO_MAKS || 15) });
 
   pasangFoto(semua);
   writeData('articles.js', 'ARTICLES', semua,

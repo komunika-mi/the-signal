@@ -67,6 +67,33 @@ const GAYA = [
   '- Tulis angka besar dengan format Indonesia: Rp1,5 triliun, 7,2 persen.',
 ].join('\n');
 
+// Tiap artikel membawa adegan fotonya sendiri, dipakai membuat gambar khusus
+// untuk artikel itu. Inilah yang membuat foto tidak mungkin berulang: nama
+// berkasnya ikut slug artikel, dan slug artikel unik. Pustaka kategori lama
+// hanya jadi cadangan untuk artikel warisan.
+//
+// Aturan "tanpa tulisan" bukan kehati-hatian berlebihan. z_image mengarang
+// teks: prompt "papan kurs money changer" menghasilkan papan berisi mata uang
+// palsu (ENGNAL, DAIONAS, CARISAHA), prompt "meja registrasi RUPS" memunculkan
+// spanduk berbunyi "Kandina Kacing Natanla". Larangan di prompt saja tidak
+// cukup kalau adegannya memang menuntut tulisan, jadi ADEGANNYA yang harus
+// dipilih bebas tulisan sejak awal.
+const ATURAN_FOTO = [
+  'ATURAN FIELD "foto":',
+  '- Tulis dalam bahasa Inggris, satu kalimat, 12-25 kata.',
+  '- Adegan dokumenter nyata di Indonesia yang masuk akal untuk berita ini.',
+  '  Contoh baik: "Dock workers guiding a container onto a truck at a busy port, morning light".',
+  '- JANGAN pernah meminta permukaan bertulisan: papan pengumuman, spanduk,',
+  '  layar presentasi, grafik, dokumen menghadap kamera, uang kertas, plang nama.',
+  '  Model gambar mengarang huruf dan hasilnya terbaca sebagai omong kosong.',
+  '  Kalau layar atau papan tidak terhindarkan, minta jauh, miring, atau buram.',
+  '- JANGAN menyebut nama orang, nama perusahaan, merek, atau logo.',
+  '- JANGAN menggambarkan peristiwa spesifik yang diberitakan seolah foto asli.',
+  '  Ini foto ILUSTRASI, jadi pilih situasi umum yang mewakili topiknya.',
+  '- Hindari adegan klise yang itu-itu saja seperti orang menatap ponsel di',
+  '  depan layar saham. Pilih sudut, ruang, dan subjek yang berbeda-beda.',
+].join('\n');
+
 // ---------- Signal Harian ----------
 // Merangkai SELURUH berita satu hari jadi satu benang arah kebijakan. Ini yang
 // tidak bisa dilihat dari satu berita saja, dan jadi alasan orang berlangganan.
@@ -216,8 +243,11 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     '  "kategori": string,      // salah satu dari daftar kategori',
     '  "paragraf": string[],    // 3-4 paragraf teks biasa, tanpa HTML',
     '  "catatan": string,       // catatan redaksi 3-4 kalimat, ATAU "" kalau tak ada yang konkret',
-    '  "tag": string[]          // 2-4 tag pendek',
+    '  "tag": string[],         // 2-4 tag pendek',
+    '  "foto": string           // adegan foto, lihat aturan di bawah',
     '}',
+    '',
+    ATURAN_FOTO,
   ].join('\n');
 
   const user = [
@@ -247,6 +277,7 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     sourceLabel: bahan.lembaga || undefined,   // kosong = tvOne (bawaan)
     tags: (hasil.tag || []).slice(0, 4),
     body: (hasil.paragraf || []).slice(0, 4),
+    fotoAdegan: (hasil.foto || '').trim(),
     // Boleh kosong. Model diminta mengosongkannya kalau tidak ada angka atau
     // fakta konkret untuk dipegang, karena catatan hampa lebih merugikan
     // daripada tidak ada catatan sama sekali.
@@ -407,8 +438,11 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '  "paragraf": string[], // 2-3 paragraf teks biasa, uraikan isi dokumen',
     '  "catatan": string,    // catatan redaksi, 3-5 kalimat, sesuai poin (a), (b), (c)',
     '  "sentimen": string,   // persis salah satu: "positif" | "negatif" | "netral"',
-    '  "tag": string[]       // 2-4 tag, sertakan kode emiten',
+    '  "tag": string[],      // 2-4 tag, sertakan kode emiten',
+    '  "foto": string        // adegan foto, lihat aturan di bawah',
     '}',
+    '',
+    ATURAN_FOTO,
   ].join('\n');
 
   // Angka hasil parsing regex ditaruh SETELAH teks dokumen dan ditandai
@@ -457,6 +491,7 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     emiten,
     tags: Array.from(new Set([...(hasil.tag || []), emiten].filter(Boolean))).slice(0, 4),
     body: (hasil.paragraf || []).slice(0, 3),
+    fotoAdegan: (hasil.foto || '').trim(),
     takeaway: hasil.catatan || '',
     sentimen: ['positif', 'negatif', 'netral'].includes(String(hasil.sentimen).toLowerCase())
       ? String(hasil.sentimen).toLowerCase() : 'netral',

@@ -14,6 +14,7 @@ import { ambilBeritaPemerintah } from './fetch-gov.mjs';
 import { ambilVideo } from './fetch-videos.mjs';
 import { rangkumArtikel, saringVideo, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
+import { pastikanFotoArtikel } from './foto-artikel.mjs';
 
 const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 10);   // berita baru per hari
 const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
@@ -146,6 +147,12 @@ async function main() {
   const semua = [...artikelBaru, ...artikelLama]
     .sort((a, b) => new Date(b.isoDate || 0) - new Date(a.isoDate || 0))
     .slice(0, MAKS_ARSIP);
+
+  // Buat foto khusus untuk artikel yang belum punya, SEBELUM penempatan.
+  // Inilah yang membuat foto tidak berulang: tiap artikel dapat berkas
+  // bernama slug-nya sendiri. Dibatasi per putaran supaya satu pembaruan
+  // tidak berjam-jam, sisanya diambil putaran berikutnya.
+  await pastikanFotoArtikel(semua, { maksBaru: Number(process.env.SIGNAL_FOTO_MAKS || 25) });
 
   pasangFoto(semua);
 

@@ -124,8 +124,24 @@ export function pasangFoto(artikel) {
 
   let cocokIsi = 0;
 
+  let punyaSendiri = 0;
+
   for (const a of artikel) {
     const kat = a.category;
+
+    // PRIORITAS PERTAMA: foto milik artikel ini sendiri, bernama sama dengan
+    // slug-nya, dibuat oleh foto-artikel.mjs dari adegan yang ditulis model.
+    //
+    // Inilah jaminan tidak berulang. Slug artikel unik, jadi berkasnya unik,
+    // jadi dua artikel tidak mungkin memakai gambar yang sama. Pustaka
+    // kategori di bawah tinggal jadi cadangan untuk artikel warisan dan untuk
+    // artikel yang fotonya belum sempat jadi.
+    if (ada(a.slug)) {
+      a.image = 'assets/img/' + a.slug + '.jpg';
+      terpakai.add(a.slug);
+      punyaSendiri++;
+      continue;
+    }
 
     // Cocokkan dulu dengan ISI beritanya. Judul diberi bobot lebih karena di
     // situlah inti peristiwanya, deck dan tag menyusul.
@@ -171,6 +187,7 @@ export function pasangFoto(artikel) {
   }
 
   log('foto: ' + unik + ' gambar berbeda untuk ' + artikel.length + ' artikel, ' +
+    punyaSendiri + ' pakai foto sendiri, ' +
     cocokIsi + ' dicocokkan dengan isi berita, ' +
     berdempet + ' berdempetan' + (terpaksaUlang ? ', ' + terpaksaUlang + ' TERPAKSA DIULANG' : ''));
   if (terpaksaUlang) {
@@ -182,9 +199,11 @@ export function pasangFoto(artikel) {
     // bukan eksekusinya, melainkan definisi adegannya. Urutan yang benar
     // disebutkan lengkap supaya tidak ada yang mengira sudah menjalankan
     // perbaikan padahal belum.
-    log('  pustaka kurang ' + terpaksaUlang + ' foto.');
-    log('  Tambah dulu adegan baru di scripts/adegan-foto.mjs pada kategori yang kurang,');
-    log('  BARU jalankan: node scripts/lengkapi-foto.mjs');
+    // Sejak foto dibuat per artikel, pengulangan hanya tersisa untuk artikel
+    // yang belum sempat dapat fotonya sendiri. Jadi obatnya bukan menambah
+    // pustaka kategori lagi, melainkan menuntaskan antrean foto per artikel.
+    log('  ' + terpaksaUlang + ' artikel masih berbagi foto karena belum punya foto sendiri.');
+    log('  Tuntaskan dengan: node scripts/foto-artikel.mjs ' + Math.max(terpaksaUlang, 40));
   }
   return artikel;
 }

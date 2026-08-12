@@ -1,12 +1,13 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "telkom-perkenalkan-aicosystem-di-dti-cx-2026",
   "category": "Teknologi",
   "title": "Telkom Perkenalkan [AIcosystem] di DTI-CX 2026",
   "deck": "Telkom menampilkan ekosistem AI AIcosystem, termasuk platform OCA untuk mengelola interaksi pelanggan lintas kanal, dalam pameran DTI-CX 2026 di Jakarta.",
-  "image": "assets/img/server-data.jpg",
+  "image": "assets/img/telkom-perkenalkan-aicosystem-di-dti-cx-2026.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T16:09:38+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459419-telkom-hadirkan-inovasi-oca-berbasis-ai-di-dti-cx-2026",
@@ -21,14 +22,15 @@ var ARTICLES = [
    "Dalam pameran tersebut, Telkom membagi paparannya ke tiga zona, yaitu Digital Transformation Zone, AI Zone, dan Cyber Security Zone. Di AI Zone, AIcosystem ditampilkan sebagai kerangka besar yang menaungi sejumlah solusi AI TelkomGroup, salah satunya lapisan AI Solutions & Applications yang digarap Telkom AI Center of Excellence melalui pilar AI Hub. Selain OCA, pilar ini juga menghadirkan PrivateGPT, Decision Intelligence Platform (DIP), dan AI CCTV Analytics.",
    "OCA dilengkapi kapabilitas OCA Interaction yang menyatukan berbagai kanal komunikasi pelanggan dalam satu dasbor terpadu dengan sistem tiket, didukung fitur berbasis AI seperti AI Reply, AI Translate, AI Enhance, dan AI Summary. Direktur IT Digital Telkom, Faizal Rochmad Djoemadi, menyebut ajang ini sebagai momentum memperlihatkan kesiapan teknologi perusahaan, sekaligus menegaskan bahwa adopsi AI kini menjadi fondasi penting bagi efisiensi operasional dan pengalaman pelanggan di berbagai industri."
   ],
-  "takeaway": "Yang konkret dari paparan ini adalah pengelompokan empat solusi, OCA, PrivateGPT, DIP, dan AI CCTV Analytics, di bawah satu payung AI Hub dalam AIcosystem, dengan OCA diposisikan sebagai pengelola interaksi pelanggan lintas kanal lewat fitur AI Reply, AI Translate, AI Enhance, dan AI Summary. Pihak yang berkepentingan di sini terutama korporasi atau institusi yang menjadi klien enterprise Telkom untuk layanan manajemen pelanggan dan pusat kontak. Materi yang tersedia masih berupa showcase produk di ajang pameran, belum memuat angka adopsi klien, nilai kontrak, atau target pendapatan dari lini bisnis AI ini, sehingga arah komersialnya belum bisa disimpulkan. Yang akan memperjelas arah tersebut adalah ada tidaknya pengumuman kerja sama atau kontrak konkret dengan klien korporasi setelah ajang ini berlangsung."
+  "takeaway": "Yang konkret dari paparan ini adalah pengelompokan empat solusi, OCA, PrivateGPT, DIP, dan AI CCTV Analytics, di bawah satu payung AI Hub dalam AIcosystem, dengan OCA diposisikan sebagai pengelola interaksi pelanggan lintas kanal lewat fitur AI Reply, AI Translate, AI Enhance, dan AI Summary. Pihak yang berkepentingan di sini terutama korporasi atau institusi yang menjadi klien enterprise Telkom untuk layanan manajemen pelanggan dan pusat kontak. Materi yang tersedia masih berupa showcase produk di ajang pameran, belum memuat angka adopsi klien, nilai kontrak, atau target pendapatan dari lini bisnis AI ini, sehingga arah komersialnya belum bisa disimpulkan. Yang akan memperjelas arah tersebut adalah ada tidaknya pengumuman kerja sama atau kontrak konkret dengan klien korporasi setelah ajang ini berlangsung.",
+  "fotoAdegan": "Engineers in a convention hall test interactive kiosks and sensor displays before an exhibition hall fills with visitors."
  },
  {
   "slug": "lrt-kelapa-gading-manggarai-beroperasi-26-agustus",
   "category": "Bisnis",
   "title": "LRT Kelapa Gading-Manggarai [Beroperasi] 26 Agustus",
   "deck": "Jakpro dan DJKA intensifkan uji sistem menjelang pengoperasian awal LRT Jakarta rute Kelapa Gading-Manggarai pada 26 Agustus 2026.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/lrt-kelapa-gading-manggarai-beroperasi-26-agustus.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T15:45:12+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459411-lrt-kelapa-gading-manggarai-dijadwalkan-beroperasi-26-agustus-jakpro-dan-djka-berkomunikasi-intensif",
@@ -44,14 +46,15 @@ var ARTICLES = [
    "Jalur LRT Jakarta ini membentang sepanjang 12,2 kilometer menghubungkan 11 stasiun, mulai dari Kelapa Gading, Boulevard Utara, Boulevard Selatan, Pulomas, Equestrian, Velodrome, Rawamangun, Pramuka, Matraman, Proklamasi, hingga Manggarai. Dengan jalur ini beroperasi, perjalanan dari Kelapa Gading ke Manggarai ditargetkan hanya memakan waktu sekitar 28 menit.",
    "Empat stasiun, yaitu Rawamangun, Pramuka, Matraman, dan Proklamasi, terintegrasi dengan layanan Transjakarta. Stasiun Manggarai sendiri menjadi simpul integrasi utama karena terhubung dengan KRL Commuter Line, KA Bandara, dan Transjakarta, sehingga memperkuat konektivitas LRT Jakarta dengan jaringan transportasi publik lain di ibu kota."
   ],
-  "takeaway": "Yang berubah konkret di sini adalah kepastian tanggal operasi awal, 26 Agustus 2026, untuk jalur sepanjang 12,2 kilometer dengan 11 stasiun dan estimasi waktu tempuh 28 menit dari Kelapa Gading ke Manggarai. Pihak yang paling terdampak adalah warga di koridor Jakarta Utara hingga Jakarta Selatan yang selama ini bergantung pada Transjakarta atau kendaraan pribadi untuk mencapai kawasan Manggarai, terutama mereka yang perlu berpindah ke KRL Commuter Line atau KA Bandara. Dengan Manggarai diposisikan sebagai simpul integrasi utama bersama empat stasiun yang terhubung Transjakarta, jalur ini mengarah pada konsolidasi titik transit antarmoda di Jakarta ketimbang sekadar menambah satu rute baru yang berdiri sendiri. Penanda yang akan memastikan arah ini terealisasi sesuai jadwal adalah hasil rangkaian pengujian sistem persinyalan dan kelistrikan yang menurut Jakpro masih berlangsung menjelang 26 Agustus."
+  "takeaway": "Yang berubah konkret di sini adalah kepastian tanggal operasi awal, 26 Agustus 2026, untuk jalur sepanjang 12,2 kilometer dengan 11 stasiun dan estimasi waktu tempuh 28 menit dari Kelapa Gading ke Manggarai. Pihak yang paling terdampak adalah warga di koridor Jakarta Utara hingga Jakarta Selatan yang selama ini bergantung pada Transjakarta atau kendaraan pribadi untuk mencapai kawasan Manggarai, terutama mereka yang perlu berpindah ke KRL Commuter Line atau KA Bandara. Dengan Manggarai diposisikan sebagai simpul integrasi utama bersama empat stasiun yang terhubung Transjakarta, jalur ini mengarah pada konsolidasi titik transit antarmoda di Jakarta ketimbang sekadar menambah satu rute baru yang berdiri sendiri. Penanda yang akan memastikan arah ini terealisasi sesuai jadwal adalah hasil rangkaian pengujian sistem persinyalan dan kelistrikan yang menurut Jakpro masih berlangsung menjelang 26 Agustus.",
+  "fotoAdegan": "Technicians in reflective vests inspect elevated rail tracks and signal equipment at a light rail station before dawn testing."
  },
  {
   "slug": "bos-bei-demutualisasi-tak-ganggu-independensi-bursa",
   "category": "Pasar Modal",
   "title": "Bos BEI: [Demutualisasi] Tak Ganggu Independensi Bursa",
   "deck": "Dirut BEI Jeffrey Hendrik memastikan proses demutualisasi tak mengganggu independensi pasar modal, sementara Danantara masih membahas porsi kepemilikan sahamnya bersama OJK.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/bos-bei-demutualisasi-tak-ganggu-independensi-bursa.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T15:30:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459403-bos-bei-tegaskan-demutualisasi-tak-akan-pengaruhi-independensi-pasar-modal-ri",
@@ -67,14 +70,15 @@ var ARTICLES = [
    "Jeffrey menyebut sejumlah investor potensial sudah menyatakan minat memiliki saham BEI pascademutualisasi, dan pihaknya kini berkoordinasi dengan Otoritas Jasa Keuangan (OJK) serta pemegang saham lama untuk menindaklanjuti minat tersebut. Chief Investment Officer Danantara Indonesia, Pandu Sjahrir, menambahkan bahwa pembahasan bersama OJK dan direksi bursa masih berjalan dan ditargetkan rampung dalam beberapa bulan ke depan.",
    "Pandu belum mengungkap besaran porsi kepemilikan yang akan diambil Danantara, namun memastikan detailnya akan disampaikan ke publik dalam waktu dekat. Ia menjelaskan bahwa kepemilikan Danantara di BEI nantinya akan dijalankan melalui anak usahanya, PT Danantara Investment Management, sebagai bagian dari portofolio investasi lembaga tersebut."
   ],
-  "takeaway": "Yang berubah secara konkret adalah struktur kepemilikan BEI, dari selama ini dipegang perusahaan efek anggota bursa menjadi terbuka bagi investor luar, dengan tiga kandidat pemegang saham yang diberi ruang oleh UU P2SK yaitu Kemenkeu, BI, dan Danantara lewat Danantara Investment Management. Pihak yang paling terdampak langsung adalah perusahaan efek yang selama ini menjadi pemilik BEI, karena komposisi kepemilikan mereka akan terdilusi oleh pemegang saham baru, serta OJK yang harus menyetujui skema akhirnya. Arahnya mengarah ke konsolidasi kepemilikan BEI ke tangan lembaga negara dan investor strategis dalam hitungan bulan, sesuai target yang disebut Pandu Sjahrir. Yang akan memastikan arah ini adalah pengumuman resmi porsi kepemilikan Danantara yang dijanjikan segera, serta hasil final pembahasan dengan OJK."
+  "takeaway": "Yang berubah secara konkret adalah struktur kepemilikan BEI, dari selama ini dipegang perusahaan efek anggota bursa menjadi terbuka bagi investor luar, dengan tiga kandidat pemegang saham yang diberi ruang oleh UU P2SK yaitu Kemenkeu, BI, dan Danantara lewat Danantara Investment Management. Pihak yang paling terdampak langsung adalah perusahaan efek yang selama ini menjadi pemilik BEI, karena komposisi kepemilikan mereka akan terdilusi oleh pemegang saham baru, serta OJK yang harus menyetujui skema akhirnya. Arahnya mengarah ke konsolidasi kepemilikan BEI ke tangan lembaga negara dan investor strategis dalam hitungan bulan, sesuai target yang disebut Pandu Sjahrir. Yang akan memastikan arah ini adalah pengumuman resmi porsi kepemilikan Danantara yang dijanjikan segera, serta hasil final pembahasan dengan OJK.",
+  "fotoAdegan": "A trading floor employee walks briskly past rows of workstations in a glass-walled office tower during morning trading hours."
  },
  {
   "slug": "shopeepay-gelar-promo-rp17-sambut-hut-ri-ke-81",
   "category": "Bisnis",
   "title": "ShopeePay Gelar Promo [Rp17] Sambut HUT RI ke-81",
   "deck": "ShopeePay menghadirkan Promo Merdeka seharga Rp17 untuk berbagai kebutuhan sehari-hari, berlaku 1-17 Agustus 2026 menjelang HUT ke-81 RI.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T15:14:48+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459398-sambut-hut-ke-81-ri-aplikasi-shopeepay-hadirkan-promo-merdeka-rp17-untuk-berbagai-kebutuhan-sehari-hari",
@@ -97,7 +101,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "DPR Ingatkan Menag soal Wakaf Istiqlal ke [Pasar Modal]",
   "deck": "DPR minta Kementerian Agama berhati-hati soal rencana dana wakaf Masjid Istiqlal masuk instrumen pasar modal syariah lewat kolaborasi dengan manajer investasi.",
-  "image": "assets/img/rapat-manajer-investasi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T14:59:06+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459394-dpr-ingatkan-menag-hati-hati-soal-dana-wakaf-masjid-istiqlal-masuk-pasar-modal",
@@ -482,7 +486,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Telkom Kenalkan [Connectivity+] di DTI-CX 2026",
   "deck": "Telkom Solution menghadirkan Connectivity+, layanan konektivitas cepat dan luas untuk mendukung transformasi digital sektor bisnis di berbagai daerah.",
-  "image": "assets/img/kantor-startup.jpg",
+  "image": "assets/img/server-data.jpg",
   "date": "11 Agustus 2026",
   "isoDate": "2026-08-11T20:18:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459241-perkenalkan-connectivity-telkom-tawarkan-layanan-berkecepatan-tinggi-dengan-jangkauan-luas",
@@ -717,7 +721,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Ciri-ciri UMKM [Naik Kelas] yang Perlu Dipahami",
   "deck": "UMKM naik kelas bukan sekadar soal omzet, melainkan transformasi usaha lewat digitalisasi, kualitas produk, dan akses pembiayaan yang lebih luas.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "11 Agustus 2026",
   "isoDate": "2026-08-11T16:19:27+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459161-seperti-apa-sih-ciri-ciri-umkm-naik-kelas-inilah-contoh-contohnya-lewat-pengembangan-layanan-yang-memuaskan",
@@ -1067,7 +1071,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Kepercayaan Publik Jadi Kunci Persaingan [Fintech Investasi]",
   "deck": "Survei nasional Digital Excellence Awards 2026 menunjukkan tingkat kepercayaan pengguna kini jadi penentu utama daya saing platform fintech investasi di Indonesia.",
-  "image": "assets/img/menara-bts.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T23:40:11+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458985-kepercayaan-publik-jadi-penentu-persaingan-fintech-investasi-ini-hasil-survei-nasional",
@@ -1409,7 +1413,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Perpres Ojol Kelar Agustus, Driver Jadi [UMKM]",
   "deck": "Pemerintah menargetkan Perpres ekosistem ojek online rampung sebelum 17 Agustus, sekaligus menetapkan status UMKM bagi pengemudi ojol tanpa kewajiban pajak baru.",
-  "image": "assets/img/gula-merah.jpg",
+  "image": "assets/img/kopi-roasting.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T20:24:52+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458961-perpres-ojol-hampir-rampung-driver-ojek-online-bakal-jadi-umkm",
@@ -1630,7 +1634,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "AI Cinefest 2026: Telkomsel Perkuat Ekosistem Kreator [AI]",
   "deck": "Telkomsel bersama Huawei dan MiniMax menggelar AI Cinefest 2026, ajang yang menjaring lebih dari seribu karya film pendek berbasis kecerdasan buatan dari kreator Indonesia.",
-  "image": "assets/img/rapat-tim-teknologi.jpg",
+  "image": "assets/img/menara-bts.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T18:22:41+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458941-melalui-ai-cinefest-2026-telkomsel-dorong-pertumbuhan-ekosistem-kreator-ai-indonesia",
@@ -1677,7 +1681,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "OnlinePajak Berganti Nama Jadi Achilles, Rangkul Urusan [Pajak]",
   "deck": "OnlinePajak bertransformasi menjadi ekosistem Achilles yang menggabungkan layanan pajak, transaksi, dokumen digital, hingga pendanaan usaha.",
-  "image": "assets/img/kabel-jaringan.jpg",
+  "image": "assets/img/rapat-tim-teknologi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T18:03:33+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458937-transformasi-layanan-digital-kelola-pajak-dokumen-hingga-pendanaan-dalam-satu-wadah",
@@ -1855,7 +1859,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga [Emas] Antam Bertahan di Rp2.690.000 per Gram",
   "deck": "Harga emas Antam pada 10 Agustus 2026 tidak berubah dari hari sebelumnya, bertahan di Rp2.690.000 per gram, sementara harga buyback tetap di Rp2.511.000 per gram.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/rapat-manajer-investasi.jpg",
   "date": "10 Agustus 2026",
   "isoDate": "2026-08-10T10:01:36+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458831-harga-emas-antam-hari-ini-10-agustus-2026-terpantau-stabil-tetap-di-angka-rp2690000-per-gram",
@@ -2175,7 +2179,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI-UEA Perkuat [Kerja Sama] Dagang Lewat IUAE-CEPA",
   "deck": "Indonesia dan UEA membahas optimalisasi IUAE-CEPA di tahun ketiga implementasinya, termasuk skema tarif, transshipment, dan kasus antidumping.",
-  "image": "assets/img/bongkar-muat-truk.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "9 Agustus 2026",
   "isoDate": "2026-08-09T15:02:16+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458708-ri-uea-bidik-lompatan-dagang-transaksi-tembus-us314-miliar-di-semester-i-2026",
@@ -2503,7 +2507,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pajak UMKM Online Bakal Turun dari 20 ke [8] Persen",
   "deck": "Pemerintah tengah memproses penurunan beban pajak bagi pelaku UMKM yang berjualan lewat platform digital.",
-  "image": "assets/img/pengrajin-rotan.jpg",
+  "image": "assets/img/gula-merah.jpg",
   "date": "31 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456849-istri-menteri-umkm-sebut-pajak-umkm-online-sedang-diproses-turun-dari-20-ke-8-persen-kapan-realisasinya",
   "tags": [
@@ -2818,7 +2822,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Antisipasi Gejolak Global, Tim Diplomasi Ekonomi Dikirim ke China dan [Mesir]",
   "deck": "Presiden Prabowo menyiapkan langkah antisipasi krisis ekonomi dunia lewat penjajakan kerja sama dengan sejumlah negara.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/bongkar-muat-truk.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456785-prabowo-kirim-tim-ke-china-hingga-mesir-cari-formula-terbaik-antisipasi-krisis-dunia-panjang",
   "tags": [
@@ -2881,7 +2885,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Ekosistem Digital Haji dan Umrah Diperkuat lewat [Kemitraan] Baru",
   "deck": "BPKH Limited bermitra dengan SAHL Group dan Bank Muamalat untuk memperkuat layanan digital perjalanan haji dan umrah.",
-  "image": "assets/img/konter-bank-pagi.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456835-bpkh-gandeng-sahl-dan-muamalat-perkuat-ekosistem-perjalanan-haji-dan-umrah-melalui-digital",
   "tags": [
@@ -2944,7 +2948,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Sebelas UMKM Binaan Tampil di Panggung [Indonesia Fashion Week]",
   "deck": "UMKM binaan Pertamina Patra Niaga memperluas akses pasar lewat ajang Indonesia Fashion Week 2026.",
-  "image": "assets/img/pedagang-sayur-keliling.jpg",
+  "image": "assets/img/pengrajin-rotan.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456773-dongkrak-umkm-naik-kelas-11-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026",
   "tags": [
@@ -2986,7 +2990,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Perusahaan Perangkat Lunak Global Perluas Kantor di [BSD City]",
   "deck": "Odoo Indonesia membuka kantor baru di kawasan digital hub BSD City.",
-  "image": "assets/img/lorong-server.jpg",
+  "image": "assets/img/kabel-jaringan.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456739-odoo-indonesia-ekspansi-kantor-baru-di-gedung-biomedical-campus-perkuat-ekosistem-digital-hub-di-bsd-city",
   "tags": [
@@ -3049,7 +3053,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bank bjb Perluas Bisnis lewat [Kemitraan] Strategis Baru",
   "deck": "Bank bjb menjalin kemitraan strategis untuk memperkuat basis bisnisnya.",
-  "image": "assets/img/mesin-antrean.jpg",
+  "image": "assets/img/konter-bank-pagi.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456658-bank-bjb-perluas-potensi-bisnis-melalui-kemitraan-strategis-bersama-yayasan-adi-upaya",
   "tags": [
@@ -3091,7 +3095,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Transformasi BRI Dipercepat untuk Perkuat Kontribusi ke [Ekonomi Nasional]",
   "deck": "BRI mengakselerasi program transformasi sebagai fondasi memperkuat daya saing.",
-  "image": "assets/img/kotak-deposit.jpg",
+  "image": "assets/img/mesin-antrean.jpg",
   "date": "30 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456651-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional",
   "tags": [
@@ -3133,7 +3137,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Penyandang Disabilitas Dibekali [Keterampilan] Bernilai Ekonomi",
   "deck": "PNM lewat program tanggung jawab sosial memberi pelatihan keterampilan produktif bagi penyandang disabilitas.",
-  "image": "assets/img/konveksi-penjahit.jpg",
+  "image": "assets/img/pedagang-sayur-keliling.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456590-bantu-kemandirian-penyandang-disabilitas-pnm-bekali-keterampilan-bernilai-ekonomi",
   "tags": [
@@ -3196,7 +3200,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Sepuluh Bank Tutup hingga Juli, OJK Cabut Izin [BPR] di Berbagai Daerah",
   "deck": "OJK mencabut izin usaha sejumlah bank perkreditan rakyat di berbagai daerah sepanjang 2026.",
-  "image": "assets/img/jaringan-listrik.jpg",
+  "image": "assets/img/kotak-deposit.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456564-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah",
   "tags": [
@@ -3217,7 +3221,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Dua Dekade Membesarkan Usaha [Gula Merah] di Sumenep",
   "deck": "Kisah pelaku UMKM gula merah dari Sumenep yang mengembangkan usaha selama dua dekade dengan dukungan KUR.",
-  "image": "assets/img/warung-kelontong.jpg",
+  "image": "assets/img/konveksi-penjahit.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456551-kisah-sukses-umkm-gula-merah-dari-sumenep-rosidah-dua-dekade-membesarkan-usaha-berkat-kur-bri",
   "tags": [
@@ -3259,7 +3263,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Laba Bank bjb Melonjak [58,8 Persen], Aset Tembus Rp228 Triliun",
   "deck": "Bank bjb membukukan pertumbuhan laba signifikan dengan total aset menembus Rp228,2 triliun.",
-  "image": "assets/img/kereta-stasiun.jpg",
+  "image": "assets/img/jaringan-listrik.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456529-bukukan-kinerja-positif-laba-bank-bjb-tumbuh-588-dan-aset-tembus-rp2282-triliun",
   "tags": [
@@ -3301,7 +3305,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Pembiayaan [Ultra Mikro] Diperkuat untuk Keluarga Prasejahtera",
   "deck": "PNM bersama Danantara memperkuat pembiayaan ultra mikro dan dampaknya bagi ketahanan keuangan keluarga.",
-  "image": "assets/img/koin-logam.jpg",
+  "image": "assets/img/warung-kelontong.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456526-pnm-perkuat-pembiayaan-ultra-mikro-bersama-danantara-ini-hasilnya-terhadap-ketahanan-keuangan-keluarga-prasejahtera",
   "tags": [
@@ -3322,7 +3326,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Presiden Minta Pabrik Gula Wajib Punya [Kebun Tebu] Sendiri",
   "deck": "Kebijakan ini diarahkan untuk memperkuat pasokan bahan baku industri gula dalam negeri.",
-  "image": "assets/img/konpers-podium.jpg",
+  "image": "assets/img/kereta-stasiun.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456500-presiden-prabowo-minta-pabrik-gula-wajib-punya-kebun-tebu",
   "tags": [
@@ -3364,7 +3368,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Tembus [Rp18.106] per Dolar di Tengah Transisi Pimpinan BI",
   "deck": "Nilai tukar rupiah melemah meski pasar mulai merespons positif penunjukan pejabat sementara Gubernur BI.",
-  "image": "assets/img/pencakar-langit-jakarta.jpg",
+  "image": "assets/img/konpers-podium.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456447-rupiah-melemah-ke-rp18106-per-dolar-meski-pasar-mulai-optimis-penunjukan-destry-damayanti-sebagai-pejabat-sementara-gubernur-bi",
   "tags": [
@@ -3385,7 +3389,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Angka PHK Tembus [126 Ribu] Pekerja hingga Mei",
   "deck": "Apindo memaparkan tekanan yang dihadapi dunia usaha di balik gelombang pemutusan hubungan kerja.",
-  "image": "assets/img/lonceng-pembukaan.jpg",
+  "image": "assets/img/koin-logam.jpg",
   "date": "29 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456427-126-ribu-pekerja-terkena-phk-hingga-mei-2026-apindo-beberkan-tekanan-di-dunia-usaha",
   "tags": [
@@ -3427,7 +3431,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Anjlok, Pasar Cermati [The Fed] dan Transisi BI",
   "deck": "Nilai tukar rupiah tertekan seiring kehati-hatian pasar menanti kebijakan bank sentral AS.",
-  "image": "assets/img/wartawan-menunggu.jpg",
+  "image": "assets/img/pencakar-langit-jakarta.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456418-rupiah-anjlok-ke-rp18083-per-dolar-as-pasar-cermati-kebijakan-the-fed-dan-transisi-bi",
   "tags": [
@@ -3490,7 +3494,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Nama Menkeu Masuk Bursa Calon [Gubernur BI]",
   "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
-  "image": "assets/img/mobil-dinas-tiba.jpg",
+  "image": "assets/img/wartawan-menunggu.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden",
   "tags": [
@@ -3532,7 +3536,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
   "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/mencatat-grafik.jpg",
+  "image": "assets/img/lonceng-pembukaan.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi",
   "tags": [
@@ -3595,7 +3599,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
   "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/sekuritas-lobi-pagi.jpg",
+  "image": "assets/img/mencatat-grafik.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
   "tags": [
@@ -3616,7 +3620,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Pendaftar Program Magang Tembus [300 Ribu] untuk 50 Ribu Posisi",
   "deck": "Antusiasme program magang nasional melonjak dengan rasio pendaftar enam kali lipat dari kuota.",
-  "image": "assets/img/panel-surya-ladang.jpg",
+  "image": "assets/img/lorong-server.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456304-membludak-pendaftar-maganghub-2026-capai-300-ribu-untuk-50-ribu-posisi",
   "tags": [
@@ -3637,7 +3641,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Ketika Jaminan Kesehatan Menahan Beban [Biaya Berobat] Keluarga",
   "deck": "Cerita peserta JKN yang memanfaatkan program jaminan kesehatan untuk pemulihan penyakit tulang belakang.",
-  "image": "assets/img/pemasangan-fiber.jpg",
+  "image": "assets/img/mobil-dinas-tiba.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456301-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal",
   "tags": [
@@ -3658,7 +3662,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
   "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
-  "image": "assets/img/pengembang-koding.jpg",
+  "image": "assets/img/panel-surya-ladang.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah",
   "tags": [
@@ -3679,7 +3683,7 @@ var ARTICLES = [
   "category": "Teknologi",
   "title": "Menyiapkan Keamanan Data Menghadapi Era [Komputer Kuantum]",
   "deck": "Telkom menginisiasi forum kolaborasi nasional untuk kesiapan kriptografi pascakuantum.",
-  "image": "assets/img/petugas-lapangan-rompi.jpg",
+  "image": "assets/img/pengembang-koding.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography",
   "tags": [
@@ -3700,7 +3704,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
   "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
-  "image": "assets/img/rig-lepas-pantai.jpg",
+  "image": "assets/img/pemasangan-fiber.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin",
   "tags": [
@@ -3721,7 +3725,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
   "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/teknisi-turbin.jpg",
+  "image": "assets/img/sekuritas-lobi-pagi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
   "tags": [
@@ -3742,7 +3746,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Emas Antam Turun [Rp9.000] per Gram",
   "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/petugas-lapangan-rompi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
   "tags": [
@@ -3763,7 +3767,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Tertekan Usai [Gubernur BI] Mengundurkan Diri",
   "deck": "Pasar merespons negatif pengunduran diri Gubernur Bank Indonesia, rupiah melemah ke Rp18.063.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rig-lepas-pantai.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456219-rupiah-melemah-ke-rp18063-per-dolar-as-pasar-respons-negatif-pengunduran-diri-gubernur-bi-perry-warjiyo",
   "tags": [
@@ -3784,7 +3788,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
   "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "image": "assets/img/ruang-dealing.jpg",
+  "image": "assets/img/teknisi-turbin.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
   "tags": [
@@ -3805,7 +3809,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
   "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi",
   "tags": [

@@ -534,6 +534,62 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
   urls.map(u => '  <url><loc>' + BASE + u + '</loc></url>').join('\n') + '\n</urlset>\n', 'utf8');
 fs.writeFileSync(ROOT + '/robots.txt', 'User-agent: *\nAllow: /\n\nSitemap: ' + BASE + '/sitemap.xml\n', 'utf8');
 
+// ---------- feed.xml ----------
+// Feed ini BUKAN sekadar pelengkap SEO. Inilah yang mengirim Signal Harian ke
+// pelanggan: Buttondown memantaunya dan mengirim email tiap kali muncul item
+// dengan <guid> baru. Jadi isinya harus utuh, karena badan email diambil dari
+// sini, dan <guid> harus tepat satu per edisi supaya tidak ada pembaca yang
+// menerima email ganda untuk hari yang sama.
+//
+// Hanya Signal Harian yang masuk feed, bukan seluruh artikel. Pelanggan
+// mendaftar untuk satu tulisan sehari, bukan untuk 170 berita.
+function muatArsipHarian() {
+  const p = path.join(ROOT, 'assets/js/harian-arsip.js');
+  if (fs.existsSync(p)) {
+    const m = fs.readFileSync(p, 'utf8').match(/\[[\s\S]*\]/);
+    if (m) { try { return JSON.parse(m[0]); } catch { /* jatuh ke bawah */ } }
+  }
+  // Arsip belum ada (edisi pertama setelah fitur ini dipasang): pakai edisi
+  // berjalan supaya feed tidak kosong dan pengiriman tetap bisa dimulai.
+  return HARIAN ? [HARIAN] : [];
+}
+
+const ARSIP_HARIAN = muatArsipHarian();
+
+function isiFeed(h) {
+  const bagian = [];
+  if (h.ringkas) bagian.push('<p><strong>' + esc(h.ringkas) + '</strong></p>');
+  (h.benang || []).forEach(b => {
+    if (b.judul) bagian.push('<h2>' + esc(b.judul) + '</h2>');
+    if (b.isi) bagian.push('<p>' + esc(b.isi) + '</p>');
+  });
+  if (h.penutup) bagian.push('<p>' + esc(h.penutup) + '</p>');
+  bagian.push('<hr>');
+  bagian.push('<p><a href="' + BASE + '/signal-harian.html">Baca di situs</a> &middot; ' +
+    'Signal Harian dirangkai redaksi The Signal dari berita ekonomi hari itu, ' +
+    'bersumber dari tvOneNews, keterbukaan informasi IDX, dan siaran pers lembaga resmi.</p>');
+  return bagian.join('\n');
+}
+
+fs.writeFileSync(ROOT + '/feed.xml',
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n' +
+  '  <title>Signal Harian &#183; The Signal</title>\n' +
+  '  <link>' + BASE + '/signal-harian.html</link>\n' +
+  '  <description>Satu tulisan tiap hari kerja yang merangkai berita ekonomi hari itu jadi satu benang arah kebijakan.</description>\n' +
+  '  <language>id-ID</language>\n' +
+  '  <atom:link href="' + BASE + '/feed.xml" rel="self" type="application/rss+xml"/>\n' +
+  ARSIP_HARIAN.map(h =>
+    '  <item>\n' +
+    '    <title>' + esc(h.judul) + '</title>\n' +
+    '    <link>' + BASE + '/signal-harian.html?edisi=' + esc(h.tanggal) + '</link>\n' +
+    '    <guid isPermaLink="false">the-signal-harian-' + esc(h.tanggal) + '</guid>\n' +
+    '    <pubDate>' + new Date((h.dibuat || h.tanggal + 'T12:00:00+07:00')).toUTCString() + '</pubDate>\n' +
+    '    <description><![CDATA[' + isiFeed(h) + ']]></description>\n' +
+    '  </item>').join('\n') +
+  '\n</channel>\n</rss>\n', 'utf8');
+
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
 console.log('sitemap urls:', urls.length);
+console.log('feed edisi:', ARSIP_HARIAN.length);

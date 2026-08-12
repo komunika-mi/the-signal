@@ -68,6 +68,32 @@ async function main() {
     '// Signal Harian. Dibuat otomatis oleh scripts/signal-harian.mjs.\n' +
     'var HARIAN = ' + JSON.stringify(data, null, 1) + ';\n', 'utf8');
 
+  // Arsip edisi, dipakai membuat feed.xml. Berkas terpisah dari harian.js
+  // supaya bentuk HARIAN yang dibaca halaman tidak berubah.
+  //
+  // Feed inilah yang memicu pengiriman ke pelanggan: Buttondown memantaunya
+  // dan mengirim tiap kali ada item dengan tautan baru. Karena itu satu
+  // tanggal harus muncul TEPAT SEKALI. Kalau hari yang sama ditulis ulang,
+  // entri lama diganti, bukan ditambah, supaya pembaca tidak menerima dua
+  // email untuk edisi yang sama.
+  const berkasArsip = ROOT + '/assets/js/harian-arsip.js';
+  let arsip = [];
+  if (fs.existsSync(berkasArsip)) {
+    try {
+      const m = fs.readFileSync(berkasArsip, 'utf8').match(/\[[\s\S]*\]/);
+      if (m) arsip = JSON.parse(m[0]);
+    } catch { arsip = []; }
+  }
+  arsip = [data, ...arsip.filter(x => x.tanggal !== data.tanggal)]
+    .sort((a, b) => (b.tanggal || '').localeCompare(a.tanggal || ''))
+    .slice(0, 30);
+
+  fs.writeFileSync(berkasArsip,
+    '// Arsip Signal Harian, 30 edisi terakhir. Sumber feed.xml.\n' +
+    '// Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.\n' +
+    'var HARIAN_ARSIP = ' + JSON.stringify(arsip, null, 1) + ';\n', 'utf8');
+  log('  arsip  : ' + arsip.length + ' edisi');
+
   log('  judul  : ' + hasil.judul);
   log('  benang : ' + hasil.benang.length);
   execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });

@@ -210,7 +210,7 @@ const FOOT = `
     <div class="rail footer-grid">
       <div class="footer-brand">
         <div class="logo">The Signal</div>
-        <p>Liputan dan analisis ekonomi Indonesia, dari kebijakan moneter sampai dompet rumah tangga. Berita dirangkum dari tvOneNews.</p>
+        <p>Liputan dan analisis ekonomi Indonesia, dari kebijakan moneter sampai dompet rumah tangga. Dirangkum dari tvOneNews, keterbukaan informasi IDX, dan siaran pers lembaga resmi.</p>
       </div>
       <div class="footer-col">
         <h4>Rubrik</h4>
@@ -240,8 +240,8 @@ const FOOT = `
       </div>
     </div>
     <div class="rail footer-bottom">
-      <span>&copy; 2026 The Signal. Berita dirangkum dari tvOneNews.com dengan tautan sumber.</span>
-      <span>Data pasar ilustratif</span>
+      <span>&copy; 2026 The Signal. Dirangkum dari tvOneNews, IDX, dan lembaga resmi, dengan tautan sumber di tiap artikel.</span>
+      <span>Data pasar dari sumber publik, bukan feed resmi bursa</span>
     </div>
   </footer>
 

@@ -78,6 +78,46 @@ const GAYA = [
 // spanduk berbunyi "Kandina Kacing Natanla". Larangan di prompt saja tidak
 // cukup kalau adegannya memang menuntut tulisan, jadi ADEGANNYA yang harus
 // dipilih bebas tulisan sejak awal.
+// Catatan redaksi sempat berubah jadi tumpukan istilah teknis. Contoh nyata,
+// 12 Agustus 2026, dan pemiliknya sendiri yang mengeluh tidak paham:
+//
+//   "pertumbuhan uang primer adjusted naik dari 13,8% yoy pada Juni menjadi
+//    17,1% yoy pada Juli, dengan giro bank umum di BI tumbuh 17,1% dan uang
+//    kartal beredar 15,1%, membawa total M0 Adjusted ke Rp2.254,5 triliun"
+//
+// Semua angkanya benar, dan justru itu masalahnya: benar tapi tidak bisa
+// dipakai siapa pun di luar ekonom. Catatan redaksi adalah bagian yang paling
+// dibaca dan paling menentukan apakah orang mau berlangganan. Kalau bagian itu
+// membuat pembaca merasa bodoh, dia pergi.
+const BAHASA_AWAM = [
+  'BAHASA CATATAN, SAMA PENTINGNYA DENGAN ISINYA:',
+  '- Tulis untuk pembaca yang BUKAN ekonom. Bayangkan pemilik toko atau',
+  '  lulusan baru yang mengikuti berita ekonomi tapi tidak kuliah ekonomi.',
+  '  Kalau dia tidak paham, catatan itu gagal betapapun benar angkanya.',
+  '- Setiap istilah teknis WAJIB langsung dijelaskan dengan kata sehari-hari,',
+  '  atau diganti sekalian. Jangan pernah melempar istilah begitu saja.',
+  '  Ini berlaku untuk: uang primer, M0, giro bank umum, likuiditas, yoy,',
+  '  structured warrant, MESOP, rights issue, corporate guarantee, dan',
+  '  sejenisnya.',
+  '- Satu kalimat satu gagasan. Jangan menumpuk tiga angka dalam satu kalimat.',
+  '- Setelah menyebut angka, jelaskan ARTINYA dalam praktik. Angka tanpa arti',
+  '  hanya memindahkan pekerjaan berpikir ke pembaca.',
+  '',
+  'CONTOH BURUK, jangan ditiru:',
+  '  "Pertumbuhan uang primer adjusted naik dari 13,8% yoy pada Juni menjadi',
+  '   17,1% yoy pada Juli, dengan giro bank umum di BI tumbuh 17,1% dan uang',
+  '   kartal beredar 15,1%, membawa total M0 Adjusted ke Rp2.254,5 triliun."',
+  '',
+  'CONTOH BAIK untuk data yang sama:',
+  '  "Uang yang beredar di masyarakat ditambah simpanan bank di Bank Indonesia',
+  '   tumbuh 17,1 persen pada Juli, lebih cepat dari 13,8 persen bulan',
+  '   sebelumnya. Ini bahan dasar peredaran uang, jadi kenaikannya berarti bank',
+  '   punya lebih banyak dana menganggur yang bisa disalurkan jadi kredit.',
+  '   Kalau bank benar menyalurkannya, bunga pinjaman cenderung lebih mudah',
+  '   turun. Yang perlu dicermati adalah data bulan berikutnya, karena dua',
+  '   bulan percepatan belum tentu jadi tren."',
+].join('\n');
+
 const ATURAN_FOTO = [
   'ATURAN FIELD "foto":',
   '- Tulis dalam bahasa Inggris, satu kalimat, 12-25 kata.',
@@ -215,6 +255,8 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     'jangan menebak-nebak.',
     '',
     'Tiga sampai lima kalimat, mengalir sebagai paragraf, bukan daftar bernomor.',
+    '',
+    BAHASA_AWAM,
     '',
     'ATURAN KERAS untuk catatan:',
     '- WAJIB bersandar pada angka atau fakta spesifik yang ADA di DATA. Kalau',
@@ -427,6 +469,8 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '  Kalau ISI DOKUMEN tidak tersedia, set "layak": false dan berhenti.',
     '  Berita yang bilang "rinciannya belum diketahui" tidak berguna bagi',
     '  pembaca dan merusak kredibilitas. Lebih baik tidak terbit sama sekali.',
+    '',
+    BAHASA_AWAM,
     '',
     GAYA,
     '',

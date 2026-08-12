@@ -1,0 +1,90 @@
+name: Signal Harian
+
+# Produk berlangganan The Signal: satu tulisan sehari yang merangkai berita
+# hari itu jadi benang arah kebijakan.
+#
+# JAM SORE, DAN ITU DISENGAJA. Bahannya berita hari berjalan, jadi kalau
+# dijalankan pagi yang terangkai cuma berita kemarin. daily.yml masih menambah
+# artikel sampai 22.00 WIB, tapi menunggu selengkap itu berarti emailnya tiba
+# tengah malam. Pukul 18.00 WIB sudah mencakup hampir seluruh hari kerja.
+#
+# HARI KERJA SAJA, karena janji di formulir pendaftaran berbunyi "tiap hari
+# kerja". Sabtu dan Minggu bursa tutup dan lembaga tidak menerbitkan apa pun,
+# jadi bahannya memang tidak ada.
+#
+# Pengiriman ke pelanggan TIDAK dilakukan di sini. Workflow ini hanya menulis
+# dan menerbitkan feed.xml. Buttondown yang memantau feed itu lalu mengirim
+# sendiri ke pelanggan. Pemisahan ini disengaja: kalau pengiriman ikut di sini,
+# satu kegagalan build bisa berarti email ganda atau email setengah jadi.
+# JAM GANJIL, DAN ITU PENTING. daily.yml jalan tiap jam GENAP 06.00-22.00 WIB,
+# dan Task Scheduler IDX di komputer rumah juga tiap jam GENAP 06.00-20.00.
+# Ketiganya menulis repo yang sama. Grup concurrency GitHub hanya mengatur
+# sesama workflow Actions, tidak menyentuh penjadwal lokal, jadi kalau harian
+# ikut jam genap salah satu push pasti ditolak dan edisinya batal terbit.
+# 17.00 WIB tidak ditempati siapa pun.
+on:
+  schedule:
+    - cron: "0 10 * * 1-5"      # 17.00 WIB, Senin-Jumat
+  workflow_dispatch:
+
+concurrency:
+  group: the-signal-tulis       # sama dengan daily.yml dan idx.yml, jangan bentrok menulis
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tulis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Pasang dependensi
+        run: npm ci
+
+      - name: Tulis Signal Harian
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SIGNAL_MODEL: claude-sonnet-5
+        run: node scripts/signal-harian.mjs
+
+      - name: Commit dan push
+        run: |
+          git config user.name "the-signal-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan. Bahan hari ini kemungkinan terlalu sedikit,"
+            echo "atau editor menilai tidak ada benang yang cukup jelas. Itu wajar,"
+            echo "lebih baik tidak terbit daripada memaksakan tulisan hampa."
+            exit 0
+          fi
+          EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/harian.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
+          git commit -m "Signal Harian $EDISI"
+          git push
+
+      - name: Pastikan feed benar-benar terbit
+        run: |
+          # Tanpa pemeriksaan ini, kegagalan deploy berarti pelanggan tidak
+          # menerima apa-apa dan tidak ada yang tahu. Feed adalah satu-satunya
+          # jalan email sampai ke mereka, jadi kalau tidak hidup, gagalkan
+          # workflow supaya muncul di notifikasi GitHub.
+          for i in $(seq 1 20); do
+            sleep 15
+            if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "<item>"; then
+              echo "feed.xml hidup dan berisi edisi."
+              exit 0
+            fi
+          done
+          echo "GAGAL: feed.xml tidak berisi item setelah 5 menit."
+          echo "Pelanggan tidak akan menerima Signal Harian hari ini."
+          exit 1

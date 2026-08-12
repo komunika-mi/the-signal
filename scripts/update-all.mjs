@@ -11,7 +11,6 @@ import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData } from './lib.mjs';
 import { ambilDaftarBerita, ambilIsiArtikel } from './fetch-news.mjs';
 import { ambilVideo } from './fetch-videos.mjs';
-import { ambilPasar } from './fetch-market.mjs';
 import { rangkumArtikel, saringVideo, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 
@@ -105,13 +104,10 @@ async function main() {
   }
 
   // ---------- 4. pasar ----------
-  let pasar = null;
-  try {
-    pasar = await ambilPasar(bacaPasar());
-    pasar.tanggalWIB = tanggalWIB();
-  } catch (e) {
-    log('PERINGATAN: gagal memperbarui data pasar -> ' + e.message.slice(0, 80));
-  }
+  // Data pasar TIDAK diperbarui di sini lagi. Pemiliknya sekarang
+  // .github/workflows/pasar.yml yang jalan tiap 30 menit saat bursa buka.
+  // Kalau dua job sama-sama menulis market.js, keduanya push dan bentrok.
+  const pasar = bacaPasar();
 
   // ---------- 5. simpan + bangun ----------
   const semua = [...artikelBaru, ...artikelLama]

@@ -110,18 +110,23 @@
     if (html) box.innerHTML = html;
   };
 
-  // Modal Signal+ hanya buka-tutup, tidak menerima masukan apa pun.
+  // ---------- pendaftaran Signal Harian ----------
   //
-  // Sebelumnya di sini ada penangan submit yang memanggil preventDefault()
-  // lalu langsung memasang status "success" tanpa mengirim ke mana pun.
-  // Situs ini statis dan tidak punya penerima, jadi email yang diketik
-  // pengunjung lenyap sementara mereka diberi tahu berhasil berlangganan.
-  // Formulirnya DICABUT, bukan diperbaiki, karena tujuan pengirimannya
-  // memang belum ada.
+  // SATU-SATUNYA tempat mengaktifkan pendaftaran. Isi dengan username
+  // Buttondown, lalu formnya muncul sendiri di semua halaman.
   //
-  // Kalau newsletter benar-benar dijalankan nanti: pasang fetch ke penyedia
-  // (Buttondown, Mailchimp, Formspree) DAN tautan kebijakan privasi, karena
-  // saat itu email pembaca mulai tersimpan di server pihak ketiga.
+  //   TS.BUTTONDOWN = 'the-signal';
+  //
+  // Selama masih kosong, modal menampilkan keterangan jujur bahwa pendaftaran
+  // belum dibuka, dan TIDAK ada kolom email sama sekali.
+  //
+  // Ini disengaja, bukan kehati-hatian berlebihan. Versi lama situs ini punya
+  // form yang memanggil preventDefault() lalu langsung menampilkan "berhasil
+  // berlangganan" padahal emailnya tidak dikirim ke mana pun dan lenyap saat
+  // halaman ditutup. Pengunjung menunggu email yang tidak akan pernah datang.
+  // Jangan pernah menyalakan form sebelum penerimanya benar-benar ada.
+  TS.BUTTONDOWN = '';
+
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');
     if (!backdrop) return;
@@ -132,6 +137,26 @@
     if (close) close.addEventListener('click', function () { backdrop.classList.remove('open'); });
     backdrop.addEventListener('click', function (e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') backdrop.classList.remove('open'); });
+
+    if (!TS.BUTTONDOWN) return;         // penerima belum ada, biarkan apa adanya
+
+    var isi = document.getElementById('modal-isi');
+    if (!isi) return;
+    var aksi = 'https://buttondown.com/api/emails/embed-subscribe/' + TS.BUTTONDOWN;
+    // Form Buttondown mengirim langsung ke server mereka, jadi situs statis ini
+    // tidak perlu backend. Konsekuensinya email pembaca tersimpan di Buttondown,
+    // dan itu wajib disebutkan.
+    isi.innerHTML =
+      '<h3>Langganan Signal Harian</h3>' +
+      '<p>Satu tulisan tiap hari kerja yang merangkai berita ekonomi hari itu ' +
+      'jadi satu benang arah kebijakan. Gratis.</p>' +
+      '<form action="' + aksi + '" method="post" target="popupwindow" class="form-langganan">' +
+      '<input type="email" name="email" placeholder="Alamat email kamu" required aria-label="Alamat email">' +
+      '<input type="hidden" name="embed" value="1">' +
+      '<button class="btn-modal-submit" type="submit">Daftar gratis</button>' +
+      '</form>' +
+      '<p class="modal-privasi">Email kamu dikelola lewat Buttondown dan hanya dipakai ' +
+      'untuk mengirim Signal Harian. Bisa berhenti kapan saja lewat tautan di tiap email.</p>';
   };
 
 })();

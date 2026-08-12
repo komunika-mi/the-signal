@@ -87,6 +87,66 @@
     if (html) box.innerHTML = html;
   };
 
+  // ---------- kotak "dari mana berita ini datang" ----------
+  //
+  // DIHITUNG dari data, bukan ditulis tangan. Alasannya pahit: kalimat versi
+  // tulis tangan pernah berbunyi "seluruh berita di sini dirangkum ulang dari
+  // tvOneNews" dan bertahan begitu sampai seperempat arsip berasal dari IDX
+  // dan puluhan artikel dari BI, BPS, Kemendag, serta Kemenperin. Klaim di
+  // halaman depan berubah jadi tidak benar tanpa ada yang menyadarinya.
+  //
+  // Selama daftarnya ditulis manual, ia pasti tertinggal lagi setiap kali
+  // sumber baru masuk. Jadi sumbernya dibaca langsung dari sourceLabel tiap
+  // artikel. Sumber baru muncul sendiri di kalimat ini tanpa siapa pun perlu
+  // ingat memperbaruinya.
+  var SINGKAT = {
+    'Badan Pusat Statistik': 'BPS',
+    'Kementerian Perdagangan': 'Kemendag',
+    'Kementerian Perindustrian': 'Kemenperin',
+    'Kementerian Keuangan': 'Kemenkeu',
+    'Kementerian Energi dan Sumber Daya Mineral': 'ESDM',
+  };
+
+  // Kata sambung penutup bisa dipilih supaya daftar bersarang tidak memakai
+  // kata yang sama dua kali dalam satu kalimat. Daftar luar pakai "dan",
+  // daftar lembaga di dalamnya pakai "serta". Tanpa pemisahan ini kalimatnya
+  // berbunyi "..., serta siaran pers resmi Kemendag, Bank Indonesia, serta
+  // BPS", dan itu janggal dibaca.
+  function gabungDaftar(arr, penutup) {
+    penutup = penutup || 'dan';
+    if (arr.length === 1) return arr[0];
+    if (arr.length === 2) return arr[0] + ' ' + penutup + ' ' + arr[1];
+    return arr.slice(0, -1).join(', ') + ', ' + penutup + ' ' + arr[arr.length - 1];
+  }
+
+  TS.isiSumber = function () {
+    var el = document.getElementById('sumber-ringkas');
+    if (!el || typeof ARTICLES === 'undefined' || !ARTICLES.length) return;
+
+    var adaTvOne = false, adaIdx = false, lembaga = {};
+    ARTICLES.forEach(function (a) {
+      var s = a.sourceLabel;
+      if (!s) { adaTvOne = true; return; }
+      if (s === 'IDX') { adaIdx = true; return; }
+      lembaga[s] = (lembaga[s] || 0) + 1;
+    });
+
+    // Lembaga diurut dari yang paling sering, supaya yang paling mewakili isi
+    // situs disebut lebih dulu.
+    var namaLembaga = Object.keys(lembaga)
+      .sort(function (x, y) { return lembaga[y] - lembaga[x]; })
+      .map(function (n) { return SINGKAT[n] || n; });
+
+    var bagian = [];
+    if (adaTvOne) bagian.push('liputan ekonomi tvOneNews');
+    if (adaIdx) bagian.push('keterbukaan informasi emiten di Bursa Efek Indonesia');
+    if (namaLembaga.length) bagian.push('siaran pers resmi ' + gabungDaftar(namaLembaga, 'serta'));
+    if (!bagian.length) return;                 // biarkan teks cadangan
+
+    el.textContent = 'Redaksi The Signal merangkum dari ' + gabungDaftar(bagian, 'dan') +
+      '. Tiap artikel menyertakan tautan ke berita atau dokumen aslinya.';
+  };
+
   // kartu pasar di rail beranda
   TS.isiKartuPasar = function () {
     var box = document.getElementById("ticker-grid");

@@ -20,7 +20,7 @@
 <meta name="twitter:title" content="The Signal — Berita &amp; Analisis Ekonomi">
 <meta name="twitter:description" content="Berita ekonomi Indonesia tiap hari. Kolaborasi adsmediamix.id dan tvOne">
 <meta name="twitter:image" content="https://the-signal.id/assets/img/og-card.jpg">
-<link rel="stylesheet" href="assets/css/style.css?v=ccf181a5">
+<link rel="stylesheet" href="assets/css/style.css?v=fa870122">
 </head>
 <body>
 <div class="page">
@@ -98,7 +98,13 @@
         <div class="card-opinion">
           <span class="eyebrow" style="margin-bottom:0">Sumber Berita</span>
           <h3>Dari mana berita ini datang</h3>
-          <p>Redaksi The Signal merangkum dari tiga jenis sumber: liputan ekonomi tvOneNews, keterbukaan informasi emiten di Bursa Efek Indonesia, dan siaran pers resmi Bank Indonesia, BPS, Kemendag, serta Kemenperin. Tiap artikel menyertakan tautan ke berita atau dokumen aslinya.</p>
+          <!-- Kalimat ini DIHITUNG shared.js dari sourceLabel tiap artikel,
+               jangan ditulis tangan. Daftar sumber terus bertambah, dan versi
+               tulis tangan sudah sekali basi: pernah berbunyi "seluruh berita
+               dirangkum dari tvOneNews" padahal seperempat arsip sudah dari
+               IDX. Isi di bawah ini cuma cadangan kalau JavaScript mati,
+               karena itu sengaja tidak menyebut nama lembaga satu per satu. -->
+          <p id="sumber-ringkas">Redaksi The Signal merangkum dari liputan ekonomi tvOneNews, keterbukaan informasi emiten di Bursa Efek Indonesia, dan siaran pers lembaga resmi. Tiap artikel menyertakan tautan ke berita atau dokumen aslinya.</p>
           <a class="card-link" href="https://www.tvonenews.com/ekonomi" target="_blank" rel="noopener">Kunjungi tvOneNews.com/ekonomi &rarr;</a>
         </div>
 
@@ -277,10 +283,10 @@
   </div>
 </div>
 
-<script src="assets/js/articles.js?v=ccf181a5"></script>
-<script src="assets/js/videos.js?v=ccf181a5"></script>
-<script src="assets/js/market.js?v=ccf181a5"></script>
-<script src="assets/js/shared.js?v=ccf181a5"></script>
+<script src="assets/js/articles.js?v=fa870122"></script>
+<script src="assets/js/videos.js?v=fa870122"></script>
+<script src="assets/js/market.js?v=fa870122"></script>
+<script src="assets/js/shared.js?v=fa870122"></script>
 <script>
 (function () {
   var hero = ARTICLES[0];
@@ -412,6 +418,7 @@
     hint.textContent = hits.length + ' artikel';
   });
 
+  TS.isiSumber();
   TS.isiPasar();
   TS.isiKartuPasar();
   TS.initModal();

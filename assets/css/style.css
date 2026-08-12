@@ -254,6 +254,23 @@ img { max-width: 100%; display: block; }
 .article-title { font-family: var(--serif); font-size: clamp(1.9rem, 4vw, 2.9rem); line-height: 1.12; font-weight: 400; letter-spacing: -0.01em; max-width: 30ch; }
 .article-deck { font-family: var(--serif); font-size: 1.1rem; line-height: 1.6; color: var(--ink-soft); max-width: 62ch; margin-top: 1.1rem; }
 .article-layout { display: grid; grid-template-columns: 1fr 300px; gap: clamp(2rem, 4vw, 3.5rem); padding-block: clamp(1.6rem, 3vw, 2.4rem) clamp(2.5rem, 5vw, 4rem); align-items: start; }
+
+/* Blok judul memakai kisi yang SAMA dengan .article-layout supaya kartu Fakta
+   Cepat lurus dengan kolom kanan di bawahnya. Sebelumnya blok ini satu kolom
+   penuh sementara judulnya dibatasi 30 karakter, jadi ada sekitar 600px
+   menganggur di kanan judul pada layar 1280px. */
+.article-hero { display: grid; grid-template-columns: 1fr 300px; gap: clamp(2rem, 4vw, 3.5rem); align-items: start; }
+.article-hero .hero-teks { min-width: 0; }
+.hero-fakta { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 1.1rem 1.2rem; }
+.hero-fakta h4 { font-family: var(--serif); font-size: .95rem; font-weight: 600; margin-bottom: .8rem; padding-bottom: .6rem; border-bottom: 2px solid var(--ink); }
+.hero-fakta dl { display: grid; grid-template-columns: auto 1fr; gap: .45rem .9rem; align-items: baseline; margin: 0; }
+.hero-fakta dt { font-size: 10.5px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-soft); white-space: nowrap; }
+.hero-fakta dd { margin: 0; font-size: 13.5px; line-height: 1.4; color: var(--ink); }
+.hero-fakta dd a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
+.fakta-emiten { font-family: var(--sans); letter-spacing: .04em; }
+.fakta-tautan { display: inline-block; margin-top: .9rem; font-size: 12.5px; font-weight: 700; color: var(--red-deep); text-decoration: none; }
+.fakta-tautan:hover { text-decoration: underline; }
+.fakta-catatan { font-size: 11px; line-height: 1.45; color: var(--ink-soft); font-style: italic; margin: .75rem 0 0; padding-top: .6rem; border-top: 1px solid var(--line); }
 .article-cover { width: 100%; aspect-ratio: 16/9; border-radius: var(--radius); background-size: cover; background-position: center; border: 1px solid var(--line); box-shadow: var(--shadow); margin-bottom: 1.6rem; }
 .article-body { font-family: var(--serif); font-size: 1.08rem; line-height: 1.75; color: #2a2820; max-width: var(--kolom-baca); }
 .article-body p { margin-bottom: 1.2rem; }
@@ -333,6 +350,10 @@ img { max-width: 100%; display: block; }
   .video-layout { grid-template-columns: 1fr; }
   .video-page-grid { grid-template-columns: repeat(2, 1fr); }
   .article-layout { grid-template-columns: 1fr; }
+  /* Di layar sempit kartu Fakta Cepat turun ke bawah judul. Ditaruh sebelum
+     badan artikel, bukan di ujung halaman, karena isinya konteks yang
+     membantu sebelum membaca, bukan pelengkap sesudahnya. */
+  .article-hero { grid-template-columns: 1fr; gap: 1.4rem; }
   .article-side { border-top: 1px solid var(--line); padding-top: 1.6rem; }
 }
 @media (max-width: 720px) {

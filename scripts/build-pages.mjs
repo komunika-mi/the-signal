@@ -133,6 +133,54 @@ function jenisSumber(a) {
   return 'tvone';
 }
 
+// Kartu ringkas di samping judul.
+//
+// Ruang di kanan judul selama ini kosong: judul dibatasi 30 karakter dan deck
+// 62 karakter, sementara blok itu selebar rail penuh, jadi di layar 1280px ada
+// sekitar 600px menganggur sebelum kisi dua kolom dimulai.
+//
+// Isinya sengaja HANYA fakta yang sudah tersimpan di artikel, tidak ada yang
+// dikarang dan tidak ada panggilan model tambahan. Isi kartunya menyesuaikan
+// jenis sumber, karena yang menarik dari laporan bursa berbeda dari yang
+// menarik pada siaran pers kementerian.
+function kartuFakta(a) {
+  const baris = [];
+  const t = jenisSumber(a);
+
+  if (t === 'idx') {
+    if (a.emiten) baris.push(['Emiten', '<strong class="fakta-emiten">' + esc(a.emiten) + '</strong>']);
+    baris.push(['Jenis', 'Keterbukaan informasi']);
+  } else if (t === 'gov') {
+    baris.push(['Lembaga', esc(a.sourceLabel)]);
+    baris.push(['Jenis', 'Siaran pers resmi']);
+  } else {
+    baris.push(['Sumber', 'tvOneNews']);
+    baris.push(['Jenis', 'Rangkuman redaksi']);
+  }
+
+  baris.push(['Rubrik', '<a href="/berita.html#kat=' + catSlug(a.category) + '">' + esc(a.category) + '</a>']);
+  baris.push(['Tanggal', esc(a.date)]);
+
+  // Sentimen hanya ada pada aksi korporasi, dan penyebutannya harus tetap
+  // ditemani pengingat bahwa ini bukan anjuran transaksi.
+  if (a.sentimen) {
+    const label = { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen];
+    baris.push(['Penilaian', '<span class="sentimen sentimen-' + esc(a.sentimen) + '">' + esc(label) + '</span>']);
+  }
+
+  const tautan = t === 'idx' ? 'Dokumen resmi di IDX'
+    : t === 'gov' ? 'Siaran pers asli'
+    : 'Artikel asli di tvOneNews';
+
+  return '<aside class="hero-fakta">' +
+    '<h4>Fakta Cepat</h4>' +
+    '<dl>' + baris.map(([k, v]) => '<dt>' + k + '</dt><dd>' + v + '</dd>').join('') + '</dl>' +
+    '<a class="fakta-tautan" href="' + esc(a.sourceUrl) + '" target="_blank" rel="noopener">' +
+    tautan + ' &rarr;</a>' +
+    (a.sentimen ? '<p class="fakta-catatan">Penilaian menyangkut fundamental emiten, bukan anjuran membeli atau menjual saham.</p>' : '') +
+    '</aside>';
+}
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -305,6 +353,7 @@ ARTICLES.forEach(function (a) {
   }) +
     `<div class="rail breadcrumb"><a href="/index.html">Beranda</a> &rsaquo; <a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
     `<section class="rail article-hero">` +
+    `<div class="hero-teks">` +
     `<span class="eyebrow"><a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a></span>` +
     `<h1 class="article-title">${hl(a.title)}</h1>` +
     `<p class="article-deck">${esc(a.deck)}</p>` +
@@ -313,6 +362,8 @@ ARTICLES.forEach(function (a) {
       jenisSumber(a) === 'idx' ? 'Sumber: <strong>Keterbukaan Informasi IDX</strong>'
       : jenisSumber(a) === 'gov' ? 'Sumber: <strong>Siaran pers ' + esc(a.sourceLabel) + '</strong>'
       : 'Dirangkum dari <strong>tvOneNews</strong>'}</span></div>` +
+    `</div>` +
+    kartuFakta(a) +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')"><span class="ai-tag">Ilustrasi AI</span></div>` +

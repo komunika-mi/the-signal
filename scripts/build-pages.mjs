@@ -317,7 +317,7 @@ ARTICLES.forEach(function (a) {
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')"><span class="ai-tag">Ilustrasi AI</span></div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
-    (a.takeaway ? `<div class="video-takeaway catatan-idx" style="max-width:68ch;">` +
+    (a.takeaway ? `<div class="video-takeaway catatan-idx">` +
       `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
         { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
       }</span>` : ''}</b>${esc(a.takeaway)}` +
@@ -388,7 +388,7 @@ VIDEOS.forEach(function (v) {
     `<iframe src="https://www.youtube-nocookie.com/embed/${v.id}" title="${esc(v.title)}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` +
     `<div class="article-video-caption">Sumber tayangan: kanal YouTube resmi tvOneNews</div></div>` +
     `<div class="article-body" style="margin-top:1.8rem;"><p>${esc(v.summary)}</p></div>` +
-    `<div class="video-takeaway" style="max-width:68ch;"><b>Catatan redaksi</b>${esc(v.takeaway)}</div>` +
+    `<div class="video-takeaway catatan-video"><b>Catatan redaksi</b>${esc(v.takeaway)}</div>` +
     `<div class="article-tags"><span class="article-tag">${esc(v.category)}</span>` +
     `<span class="article-tag">${esc(v.program)}</span><span class="article-tag">Video</span></div>` +
     `<div class="article-source-box"><p>Tayangan ini di-embed langsung dari kanal YouTube resmi tvOneNews. Ringkasan dan catatan redaksi ditulis tim The Signal, bukan transkrip resmi.</p>` +

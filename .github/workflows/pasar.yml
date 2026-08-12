@@ -1,0 +1,77 @@
+name: Perbarui data pasar
+
+# Data pasar dulu cuma ikut job harian pukul 06.00 WIB, jadi angkanya membeku
+# sepanjang hari dan stempel waktunya tertulis pagi padahal sudah sore.
+#
+# Job ini SENGAJA DI CLOUD, bukan di laptop. Yang diblokir Cloudflare hanya
+# IDX; keempat sumber pasar (Yahoo Finance, open.er-api, gold-api, CoinGecko)
+# semuanya bisa diakses dari mana saja asal permintaannya mengirim
+# User-Agent browser, dan lib.mjs sudah mengirimnya. Terverifikasi 2026-08-12:
+# tanpa User-Agent Yahoo membalas 429, dengan User-Agent 200.
+#
+# Jadi angka pasar tetap segar walau laptop mati.
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"      # tiap 2 jam
+  workflow_dispatch:
+
+# Jangan bentrok dengan job harian maupun push dari penjadwal IDX di laptop.
+concurrency:
+  group: the-signal-tulis
+  cancel-in-progress: false
+
+jobs:
+  pasar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Sengaja tanpa npm install. Jalur pasar hanya memakai modul bawaan
+      # Node, satu-satunya dependensi (@anthropic-ai/claude-agent-sdk) cuma
+      # dipakai untuk merangkum berita dan tidak disentuh di sini. Ini bikin
+      # tiap putaran selesai di bawah satu menit.
+      - name: Perbarui pasar dan bangun ulang
+        run: node scripts/update-pasar.mjs
+
+      - name: Commit dan push
+        id: kirim
+        run: |
+          git config user.name "the-signal-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Angka pasar tidak berubah, tidak ada yang dikirim."
+            echo "berubah=tidak" >> "$GITHUB_OUTPUT"
+          else
+            git pull --rebase --autostash origin master || true
+            git commit -m "Data pasar $(date -u -d '+7 hours' +'%Y-%m-%d %H:%M') WIB"
+            git push
+            echo "berubah=ya" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Push sukses tidak sama dengan situs terbarui, sudah pernah terbukti
+      # webhook Vercel diam. Kalau data pasar tidak sampai ke situs, justru
+      # inilah keluhan yang mau kita perbaiki, jadi kegagalannya harus berisik.
+      - name: Pastikan sampai ke situs
+        if: steps.kirim.outputs.berubah == 'ya'
+        run: |
+          SITUS=$(node -e "import('./scripts/situs.mjs').then(m=>console.log(m.SITUS))")
+          NILAI=$(node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/market.js','utf8');console.log(JSON.parse(s.slice(s.indexOf('{'),s.lastIndexOf('}')+1)).ihsg.nilai)")
+          echo "menunggu IHSG $NILAI muncul di $SITUS"
+          for i in $(seq 1 20); do
+            if curl -s --max-time 20 "$SITUS/assets/js/market.js" | grep -qF "$NILAI"; then
+              echo "terbit setelah ~$((i*15)) detik"
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::Data pasar sudah di-push tapi belum tampil di situs setelah 5 menit."
+          echo "::error::Vercel kemungkinan tidak menerima webhook. Jalankan: npx vercel deploy --prod"
+          exit 1

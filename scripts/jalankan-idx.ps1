@@ -56,6 +56,14 @@ try {
   Catat 'menyelaraskan dengan remote'
   Jalankan 'git' @('pull', '--rebase', '--autostash', 'origin', 'master') | Out-Null
 
+  # CATATAN: data pasar TIDAK diperbarui di sini, melainkan oleh workflow
+  # .github/workflows/pasar.yml yang jalan tiap 2 jam DI CLOUD. Sempat ditaruh
+  # di sini, lalu dipindahkan karena keliru: mengikatnya ke laptop membuat
+  # angka pasar ikut mati saat laptop mati, padahal sumbernya (Yahoo Finance,
+  # er-api, gold-api, CoinGecko) sama sekali tidak diblokir Cloudflare dan
+  # bisa diakses dari runner GitHub. Yang benar-benar butuh koneksi rumahan
+  # cuma IDX. Kalau ditaruh di dua tempat, keduanya menulis market.js dan
+  # rawan bentrok saat push.
   Catat 'menjalankan pembaruan IDX'
   $kode = Jalankan 'npm' @('run', 'update:idx')
   if ($kode -ne 0) { Catat "GAGAL: skrip keluar dengan kode $kode"; exit $kode }

@@ -44,6 +44,58 @@ for (const [kategori, daftar] of Object.entries(ADEGAN)) {
 
 const ada = n => fs.existsSync(path.join(IMG_DIR, n + '.jpg'));
 
+// ---------- pencocokan foto dengan ISI berita ----------
+// Sebelumnya foto dipilih hanya berdasarkan kategori, urut daftar, tanpa
+// melihat isi beritanya sama sekali. Hasilnya sering meleset: gong pencatatan
+// IPO dipasang untuk berita buyback, ruang direksi untuk berita pindah alamat.
+//
+// Sekarang tiap foto punya kata kunci, lalu dicocokkan dengan judul, tag, dan
+// deck artikel. Yang skornya tertinggi dipakai. Kalau tidak ada yang cocok
+// sama sekali, jatuh kembali ke urutan daftar seperti dulu.
+//
+// Kata kunci dasar diambil dari potongan nama berkasnya sendiri (nama foto
+// memang sudah bahasa Indonesia), ditambah sinonim di bawah untuk kasus yang
+// namanya tidak mewakili isi.
+const SINONIM = {
+  'gong-pencatatan': ['ipo', 'pencatatan', 'listing', 'penawaran umum perdana', 'melantai'],
+  'rups-emiten': ['rups', 'rupslb', 'rapat umum', 'pemegang saham'],
+  'rups-tangan-voting': ['rups', 'rupslb', 'kuorum', 'suara', 'voting', 'persetujuan'],
+  'meja-registrasi-rups': ['registrasi', 'daftar hadir', 'daftar pemegang saham'],
+  'tanda-tangan-akta': ['akta', 'notaris', 'perjanjian', 'kesepakatan', 'penandatanganan'],
+  'jabat-tangan-direksi': ['kerja sama', 'kesepakatan', 'kontrak', 'akuisisi', 'kemitraan'],
+  'dokumen-prospektus': ['prospektus', 'dokumen', 'penawaran umum', 'penerbitan'],
+  'ruang-direksi': ['direksi', 'komisaris', 'pengurus', 'jajaran', 'pengangkatan'],
+  'konpers-emiten': ['siaran pers', 'keterangan', 'penjelasan', 'tanggapan', 'klarifikasi', 'jawab'],
+  'konpers-podium': ['konferensi pers', 'pengumuman', 'kebijakan'],
+  'analis-rapat': ['analis', 'kinerja', 'laporan keuangan', 'evaluasi', 'interim'],
+  'berkas-disortir': ['koreksi', 'ralat', 'perbaikan', 'laporan'],
+  'serah-terima-map': ['penyampaian', 'menyampaikan', 'pelaporan'],
+  'resepsionis-korporat': ['alamat', 'kantor', 'domisili', 'pindah'],
+  'lorong-kantor-pusat': ['alamat', 'kantor pusat', 'domisili', 'pindah', 'relokasi'],
+  'rapat-komite': ['komite', 'audit', 'nominasi', 'remunerasi'],
+  'rapat-daring': ['paparan', 'publik', 'daring'],
+  'paparan-publik': ['paparan publik', 'public expose', 'paparan'],
+  'lobi-bursa': ['bursa', 'bei', 'suspensi', 'perdagangan'],
+  'papap-strategi': ['strategi', 'rencana', 'ekspansi'],
+  'trader-dua-layar': ['volatilitas', 'transaksi', 'perdagangan saham'],
+  'papan-berjalan-kabur': ['volatilitas', 'fluktuasi', 'pergerakan harga'],
+  'koin-logam': ['dividen', 'tunai', 'imbal hasil'],
+  'brankas-bank': ['obligasi', 'sukuk', 'kupon', 'jatuh tempo'],
+  'kotak-deposit': ['obligasi', 'sukuk', 'waran', 'efek'],
+  'mencatat-grafik': ['saham beredar', 'konversi', 'waran'],
+  'lantai-bursa-sepi': ['suspensi', 'delisting', 'penghentian'],
+};
+
+function kataKunci(nama) {
+  return [...nama.split('-').filter(t => t.length > 2), ...(SINONIM[nama] || [])];
+}
+
+function skorFoto(nama, teks) {
+  let skor = 0;
+  for (const k of kataKunci(nama)) if (teks.includes(k)) skor += k.includes(' ') ? 3 : 2;
+  return skor;
+}
+
 // Aturan: SATU FOTO SATU ARTIKEL, tidak boleh dipakai dua kali.
 //
 // Versi lama cuma memakai jendela geser 6, jadi foto tidak berdempetan tapi
@@ -70,11 +122,31 @@ export function pasangFoto(artikel) {
   let terpaksaUlang = 0;
   const kursorUlang = {};
 
+  let cocokIsi = 0;
+
   for (const a of artikel) {
     const kat = a.category;
-    let pilih = ambilBelumTerpakai(tersedia[kat] || [])
-             || ambilBelumTerpakai(umum)
-             || ambilBelumTerpakai(semuaBerkas);
+
+    // Cocokkan dulu dengan ISI beritanya. Judul diberi bobot lebih karena di
+    // situlah inti peristiwanya, deck dan tag menyusul.
+    const teks = ((a.title || '').repeat(2) + ' ' + (a.tags || []).join(' ') + ' ' + (a.deck || ''))
+      .toLowerCase().replace(/[\[\]]/g, '');
+
+    let pilih = null;
+    const kandidat = (tersedia[kat] || []).filter(n => !terpakai.has(n));
+    if (kandidat.length) {
+      let terbaik = 0;
+      for (const n of kandidat) {
+        const s = skorFoto(n, teks);
+        if (s > terbaik) { terbaik = s; pilih = n; }
+      }
+      if (pilih) cocokIsi++;
+    }
+
+    pilih = pilih
+         || ambilBelumTerpakai(tersedia[kat] || [])
+         || ambilBelumTerpakai(umum)
+         || ambilBelumTerpakai(semuaBerkas);
 
     if (!pilih) {
       // Pustaka habis. Ulangi dari kategori sendiri secara berputar supaya
@@ -99,6 +171,7 @@ export function pasangFoto(artikel) {
   }
 
   log('foto: ' + unik + ' gambar berbeda untuk ' + artikel.length + ' artikel, ' +
+    cocokIsi + ' dicocokkan dengan isi berita, ' +
     berdempet + ' berdempetan' + (terpaksaUlang ? ', ' + terpaksaUlang + ' TERPAKSA DIULANG' : ''));
   if (terpaksaUlang) {
     log('  pustaka kurang ' + terpaksaUlang + ' foto. Jalankan: node scripts/lengkapi-foto.mjs');

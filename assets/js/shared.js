@@ -126,13 +126,16 @@
   // halaman ditutup. Pengunjung menunggu email yang tidak akan pernah datang.
   // Jangan pernah menyalakan form sebelum penerimanya benar-benar ada.
   //
-  // Aktif sejak 12 Agustus 2026. Penerimanya akun Buttondown "komunika media",
-  // halaman publiknya https://buttondown.com/komunika. Pendaftar wajib menekan
+  // Aktif sejak 12 Agustus 2026. Penerimanya akun Buttondown "The Signal",
+  // halaman publiknya https://buttondown.com/the-signal. Pendaftar wajib menekan
   // tautan konfirmasi di email sebelum benar-benar terdaftar. Situs ini sendiri
   // tidak menampilkan pesan sukses apa pun: formulirnya dikirim ke jendela
   // terpisah dan halaman Buttondown yang mengabarkan hasilnya, sehingga tidak
   // mungkin lagi mengaku berhasil padahal server belum menjawab.
-  TS.BUTTONDOWN = 'komunika';
+  // NILAI INI HARUS SAMA PERSIS dengan Username di Buttondown Settings > General.
+  // Kalau username di sana diubah, form di situs ini langsung mengirim ke alamat
+  // yang tidak ada lagi dan pendaftaran gagal diam-diam. Ubah keduanya bersamaan.
+  TS.BUTTONDOWN = 'the-signal';
 
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');

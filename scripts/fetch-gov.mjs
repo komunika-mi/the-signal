@@ -22,7 +22,7 @@
 //   OJK     - membalas 699 byte, diblokir
 //   Setkab  - 7,6 KB tanpa isi
 //   Kemenkeu- punya sitemap tapi isinya halaman profil, bukan berita
-import { get, getJSON, retry, stripTags, log } from './lib.mjs';
+import { get, getJSON, retry, stripTags, log, cariFotoUtama } from './lib.mjs';
 
 const SUMBER = [
   {
@@ -191,6 +191,12 @@ export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
           url,
           lembaga: s.lembaga,
           terbit: new Date().toISOString(),
+          // Siaran pers lembaga sering menyertakan foto dokumentasi acaranya.
+          // Kalau ada, itu dipakai menggantikan ilustrasi AI. Survei 12 Agustus
+          // 2026: Kemendag 2 dari 4 berfoto, Bank Indonesia dan Kemenperin
+          // belum ketemu satu pun, jadi keduanya tetap jatuh ke ilustrasi.
+          fotoSumber: cariFotoUtama(html),
+          kreditFoto: s.lembaga,
         });
       } catch (e) {
         log('    lewati ' + url.slice(-42) + ': ' + String(e.message).slice(0, 40));

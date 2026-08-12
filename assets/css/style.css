@@ -540,6 +540,17 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
   pointer-events: none;
 }
 .article-cover .ai-tag, .hero-cover .ai-tag { right: 12px; bottom: 12px; font-size: 10.5px; padding: 4px 9px; }
+
+/* Kredit foto asli. Bentuknya sama dengan penanda Ilustrasi AI supaya tata
+   letaknya tidak berubah saat sebuah artikel berpindah dari ilustrasi ke foto
+   sumber, tapi warnanya dibedakan supaya keduanya tidak tertukar sekilas.
+   Salah satu dari keduanya SELALU tampil, tidak pernah dua-duanya. */
+.foto-tag {
+  position: absolute; right: 12px; bottom: 12px;
+  background: rgba(24,24,22,.62); color: #fff;
+  font-family: var(--sans); font-size: 10.5px; letter-spacing: .04em;
+  padding: 4px 9px; border-radius: 999px;
+}
 .hero-cover .cover-tag { bottom: 12px; }
 .foto-kredit {
   font-size: 11.5px; color: var(--ink-soft); margin-top: .5rem; font-style: italic;

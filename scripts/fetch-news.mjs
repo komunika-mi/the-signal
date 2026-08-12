@@ -1,7 +1,7 @@
 // Ambil berita ekonomi terbaru dari news sitemap tvOneNews,
 // lalu tarik isi tiap artikel sebagai bahan mentah untuk dirangkum.
 // Script ini TIDAK menulis artikel — hanya mengumpulkan bahan.
-import { get, retry, stripTags, log } from './lib.mjs';
+import { get, retry, stripTags, log, cariFotoUtama } from './lib.mjs';
 
 const SITEMAP = 'https://www.tvonenews.com/sitemap/news/news-sitemap.xml';
 

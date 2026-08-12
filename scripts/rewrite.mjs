@@ -320,6 +320,10 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     tags: (hasil.tag || []).slice(0, 4),
     body: (hasil.paragraf || []).slice(0, 4),
     fotoAdegan: (hasil.foto || '').trim(),
+    // Foto asli dari sumber, kalau ada. Dipakai lebih dulu daripada ilustrasi
+    // AI: foto rapat sungguhan adalah dokumentasi, ilustrasi cuma dekorasi.
+    fotoSumber: bahan.fotoSumber || '',
+    kreditFoto: bahan.fotoSumber ? (bahan.kreditFoto || bahan.lembaga || '') : '',
     // Boleh kosong. Model diminta mengosongkannya kalau tidak ada angka atau
     // fakta konkret untuk dipegang, karena catatan hampa lebih merugikan
     // daripada tidak ada catatan sama sekali.

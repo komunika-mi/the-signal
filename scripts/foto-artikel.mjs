@@ -19,7 +19,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log } from './lib.mjs';
-import { buatFoto } from './buat-foto.mjs';
+import { buatFoto, unduhFoto } from './buat-foto.mjs';
 import { tanya, ambilJSON } from './rewrite.mjs';
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -84,11 +84,16 @@ function alatGambarTersedia() {
 }
 
 export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
-  if (!alatGambarTersedia()) {
-    log('foto artikel: pembuat gambar tidak tersedia di mesin ini, dilewati.');
-    log('  Adegan tetap tersimpan di articles.js dan gambarnya dibuat pada');
-    log('  putaran lokal berikutnya.');
-    return { dibuat: 0, gagal: 0, dilewati: 0 };
+  // Mengunduh foto asli TIDAK butuh alat gambar, cuma curl dan ffmpeg. Jadi
+  // ketiadaan alat gambar hanya mematikan jalur ilustrasi, bukan seluruh
+  // fungsi ini. Penting untuk GitHub Actions: di sana ilustrasi memang tidak
+  // bisa dibuat, tapi sekitar 70 persen artikel berasal dari tvOneNews yang
+  // selalu berfoto, dan foto-foto itu tetap bisa diambil di sana.
+  const bisaIlustrasi = alatGambarTersedia();
+  if (!bisaIlustrasi) {
+    log('foto artikel: pembuat ilustrasi tidak ada di mesin ini.');
+    log('  Foto asli dari sumber tetap diunduh; artikel tanpa foto sumber');
+    log('  menunggu putaran lokal berikutnya.');
   }
 
   const perlu = artikel.filter(a => a.slug && !punyaFotoSendiri(a.slug));
@@ -101,7 +106,11 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   }
 
   // Artikel warisan belum membawa adegan. Isi sekaligus dalam satu panggilan.
-  const tanpaAdegan = antre.filter(a => !a.fotoAdegan);
+  //
+  // Yang sudah punya foto sumber TIDAK perlu adegan sama sekali, dan kalau
+  // alat gambar tidak ada, adegan pun tidak bisa dipakai. Menyaring keduanya
+  // di sini mencegah panggilan model yang hasilnya pasti terbuang.
+  const tanpaAdegan = bisaIlustrasi ? antre.filter(a => !a.fotoAdegan && !a.fotoSumber) : [];
   if (tanpaAdegan.length) {
     try {
       log('foto artikel: meminta ' + tanpaAdegan.length + ' adegan ke model');
@@ -112,9 +121,23 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     }
   }
 
-  let dibuat = 0, gagal = 0, dilewati = 0;
+  let dibuat = 0, diunduh = 0, gagal = 0, dilewati = 0;
   for (const a of antre) {
-    if (!a.fotoAdegan) { dilewati++; continue; }
+    // FOTO ASLI DIDAHULUKAN. Kalau sumbernya menyertakan foto, itu dokumentasi
+    // peristiwanya dan selalu lebih baik daripada ilustrasi. Ilustrasi AI baru
+    // dipakai kalau sumbernya memang tidak berfoto, seperti IDX yang
+    // lampirannya PDF, atau Bank Indonesia dan BPS.
+    if (a.fotoSumber) {
+      try {
+        if (unduhFoto(a.slug, a.fotoSumber)) { diunduh++; continue; }
+      } catch (e) {
+        log('  unduh foto gagal, jatuh ke ilustrasi: ' + String(e.message).slice(0, 50));
+        // Kreditnya harus ikut dicabut, kalau tidak artikel mengaku memakai
+        // foto sumber padahal yang tampil ilustrasi buatan.
+        a.kreditFoto = '';
+      }
+    }
+    if (!bisaIlustrasi || !a.fotoAdegan) { dilewati++; continue; }
     try {
       if (buatFoto(a.slug, a.fotoAdegan)) dibuat++;
     } catch (e) {
@@ -123,8 +146,9 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     }
   }
 
-  log('foto artikel: ' + dibuat + ' dibuat, ' + gagal + ' gagal, ' + dilewati + ' tanpa adegan');
-  return { dibuat, gagal, dilewati };
+  log('foto artikel: ' + diunduh + ' foto asli diunduh, ' + dibuat + ' ilustrasi dibuat, ' +
+    gagal + ' gagal, ' + dilewati + ' tanpa adegan');
+  return { dibuat, diunduh, gagal, dilewati };
 }
 
 // CLI: isi foto untuk seluruh arsip yang belum punya, lalu tempel ulang dan build.

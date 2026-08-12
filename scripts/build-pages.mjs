@@ -384,7 +384,9 @@ ARTICLES.forEach(function (a) {
     kartuFakta(a) +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
-    `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')"><span class="ai-tag">Ilustrasi AI</span></div>` +
+    `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')">${
+      a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
+      : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
     (a.takeaway ? `<div class="video-takeaway catatan-idx">` +
       `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
@@ -394,7 +396,9 @@ ARTICLES.forEach(function (a) {
       `</div>` : '') +
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
-    `<p class="foto-kredit">Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.</p>` +
+    `<p class="foto-kredit">${a.kreditFoto
+      ? 'Foto dari ' + esc(a.kreditFoto) + ', dipakai sebagai dokumentasi peristiwa yang diberitakan.'
+      : 'Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.'}</p>` +
     `<div class="article-source-box"><p>${
       jenisSumber(a) === 'idx' ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
       : jenisSumber(a) === 'gov' ? 'Berita ini disusun redaksi The Signal dari siaran pers resmi ' + esc(a.sourceLabel) + '. Angka dan ketentuan mengikuti dokumen aslinya; klaim yang belum terverifikasi ditulis sebagai pernyataan lembaga, bukan fakta.'

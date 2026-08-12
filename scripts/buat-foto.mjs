@@ -16,7 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log } from './lib.mjs';
+import { ROOT, log, UA } from './lib.mjs';
 
 const MODEL = process.env.FOTO_MODEL || 'z_image';
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -71,6 +71,37 @@ export function buatFoto(nama, isiPrompt) {
   const kb = Math.round(fs.statSync(tujuan).size / 1024);
   log('OK ' + nama + '.jpg (' + kb + ' KB)');
   return true;
+}
+
+// Ambil foto ASLI dari halaman sumber, bukan membuat ilustrasi.
+//
+// Ini jalur yang didahulukan sejak 12 Agustus 2026. Foto rapat Mendag dengan
+// Toyota adalah dokumentasi peristiwanya; ilustrasi AI cuma mewakili topiknya.
+// Selain lebih jujur, ini juga menghemat kredit: sekitar 70 persen arsip
+// berasal dari tvOneNews yang selalu menyertakan foto.
+//
+// Melewati model gambar sepenuhnya, tapi tetap lewat ffmpeg yang sama supaya
+// ukuran, kualitas, dan pembuangan metadata seragam dengan foto lainnya.
+export function unduhFoto(nama, url) {
+  const tujuan = path.join(IMG_DIR, nama + '.jpg');
+  if (fs.existsSync(tujuan)) { log('LEWATI (sudah ada): ' + nama); return false; }
+
+  const tmp = path.join(process.env.TEMP || '/tmp', 'unduh-' + nama);
+  try {
+    execFileSync('curl', ['-sL', '--max-time', '40', '-A', UA, '-o', tmp, url], { encoding: 'utf8' });
+    if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 3000) {
+      throw new Error('berkas terlalu kecil, kemungkinan bukan foto');
+    }
+    execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', tmp,
+      '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
+      '-map_metadata', '-1', tujuan], { encoding: 'utf8' });
+
+    const kb = Math.round(fs.statSync(tujuan).size / 1024);
+    log('FOTO ASLI ' + nama + '.jpg (' + kb + ' KB)');
+    return true;
+  } finally {
+    fs.rmSync(tmp, { force: true });
+  }
 }
 
 if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {

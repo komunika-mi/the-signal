@@ -142,11 +142,33 @@ const BOILERPLATE = [
 // selamanya, dan itu benar-benar terjadi pada 6 artikel di putaran
 // 2026-08-11: kelimanya berhasil dibaca saat dicoba lagi beberapa menit
 // kemudian. Jadi menyerah pada percobaan pertama adalah kesalahan.
-export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5 } = {}) {
+// Kegagalan membaca lampiran ada dua jenis, dan membedakannya penting karena
+// penanganannya berlawanan.
+//
+//   SEMENTARA  - unduhan gagal, berkas kosong, atau yang turun ternyata halaman
+//                tantangan Cloudflare (tidak diawali %PDF). Mengulang masuk akal,
+//                percobaan berikutnya sering berhasil.
+//   PERMANEN   - PDF-nya sah dan utuh, tapi isinya foto halaman tanpa lapisan
+//                teks. Diuji pada lampiran BAJA 12 Agustus 2026: 3,7 MB untuk
+//                4 halaman, nol karakter bisa diekstrak. pdftotext tidak akan
+//                pernah bisa membacanya, hanya OCR yang bisa.
+//
+// Dulu keduanya masuk ke jalur ulang yang sama. Untuk dokumen pindaian itu
+// berarti mengunduh ulang berkas 3,7 MB sampai lima kali dan menunggu 25 detik
+// jeda, demi hasil yang sudah pasti nihil. Selain buang waktu, unduhan
+// beruntun sia-sia itu menaikkan risiko Cloudflare menolak lampiran LAIN yang
+// sebenarnya bisa dibaca. Sekarang pindaian langsung menyerah di percobaan
+// pertama, dan sebabnya dicatat apa adanya.
+//
+// `jejak` boleh diisi objek kosong untuk menerima sebab kegagalan. Pemanggil
+// yang tidak peduli cukup mengabaikannya, nilai kembaliannya tetap string.
+export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5, jejak = null } = {}) {
   if (!url || !/\.pdf/i.test(url)) return '';
 
   const tmp = path.join(os.tmpdir(), 'idx-' + Buffer.from(url).toString('base64url').slice(-24) + '.pdf');
-  let alasan = '';
+  let alasan = '', sebab = 'tidak diketahui';
+
+  const catat = (s, a) => { sebab = s; alasan = a; if (jejak) { jejak.sebab = s; jejak.alasan = a; } };
 
   try {
     for (let i = 0; i < percobaan; i++) {
@@ -161,23 +183,35 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5 } = {
           '-o', tmp, url,
         ], { encoding: 'utf8' });
 
-        if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) { alasan = 'berkas kosong'; continue; }
+        if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) {
+          catat('unduhan gagal', 'berkas kosong atau terlalu kecil'); continue;
+        }
 
         // Pastikan benar-benar PDF, bukan halaman tantangan yang tersimpan.
         const kepala = fs.readFileSync(tmp).subarray(0, 4).toString('latin1');
-        if (kepala !== '%PDF') { alasan = 'bukan PDF (' + kepala + ')'; continue; }
+        if (kepala !== '%PDF') {
+          catat('diblokir', 'yang turun bukan PDF melainkan halaman web (' + kepala.replace(/[^\x20-\x7e]/g, '.') + ')');
+          continue;
+        }
 
+        const ukuran = fs.statSync(tmp).size;
         const mentah = execFileSync('pdftotext', ['-raw', '-enc', 'UTF-8', tmp, '-'],
           { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
 
         const teks = bersihkanTeksPdf(mentah, maksKarakter);
-        if (!teks) { alasan = 'teks kosong setelah dibersihkan'; continue; }
+        if (!teks) {
+          // PDF sah tapi tanpa teks. Deterministik, mengulang tidak akan mengubah apa pun.
+          catat('pindaian', 'PDF sah ' + Math.round(ukuran / 1024) + ' KB tanpa lapisan teks, perlu OCR');
+          log('  lampiran berupa pindaian, tidak diulang: ' + alasan);
+          return '';
+        }
+        if (jejak) jejak.sebab = 'terbaca';
         return teks;
       } catch (e) {
-        alasan = String(e.message).slice(0, 60);
+        catat('galat', String(e.message).slice(0, 60));
       }
     }
-    log('  lampiran gagal dibaca setelah ' + percobaan + ' percobaan: ' + alasan);
+    log('  lampiran gagal dibaca setelah ' + percobaan + ' percobaan [' + sebab + ']: ' + alasan);
     return '';
   } finally {
     fs.rmSync(tmp, { force: true });
@@ -206,16 +240,35 @@ export function ambilIsiSemuaLampiran(daftar, { maksTotal = 9000, maksPerBerkas 
 
   const bagian = [];
   let total = 0;
+  const pindaian = [], diblokir = [];
 
   for (let i = 0; i < pdf.length; i++) {
     if (total >= maksTotal) { bagian.push('[' + (pdf.length - i) + ' lampiran lagi tidak dibaca karena batas panjang]'); break; }
-    const teks = ambilIsiLampiran(pdf[i], { maksKarakter: Math.min(maksPerBerkas, maksTotal - total) });
-    if (!teks) continue;
+    const jejak = {};
+    const teks = ambilIsiLampiran(pdf[i], { maksKarakter: Math.min(maksPerBerkas, maksTotal - total), jejak });
+    if (!teks) {
+      // Lampiran yang gagal tetap dilaporkan ke model. Kalau tidak, model
+      // mengira surat pengantar itulah seluruh dokumennya, lalu menulis dengan
+      // percaya diri padahal angka pentingnya justru di lampiran yang hilang.
+      if (jejak.sebab === 'pindaian') pindaian.push(i + 1);
+      else diblokir.push(i + 1);
+      continue;
+    }
     bagian.push((pdf.length > 1 ? '--- LAMPIRAN ' + (i + 1) + ' dari ' + pdf.length + ' ---\n' : '') + teks);
     total += teks.length;
   }
 
   if (!bagian.length) return '';
+
+  if (pindaian.length) {
+    bagian.push('[Lampiran ' + pindaian.join(', ') + ' dari ' + pdf.length +
+      ' berupa hasil pindaian tanpa teks digital, jadi isinya TIDAK tercakup di sini. ' +
+      'Jangan menyimpulkan angka atau rincian yang mungkin ada di sana.]');
+  }
+  if (diblokir.length) {
+    bagian.push('[Lampiran ' + diblokir.join(', ') + ' dari ' + pdf.length +
+      ' gagal diunduh, jadi isinya TIDAK tercakup di sini.]');
+  }
   if (lain.length) {
     bagian.push('[Ada ' + lain.length + ' lampiran berformat ' +
       [...new Set(lain.map(u => (u.match(/\.([a-z]+)$/i) || [, '?'])[1].toLowerCase()))].join('/') +

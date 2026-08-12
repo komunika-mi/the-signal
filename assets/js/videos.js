@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "wZTIOV7wn2I",
+  "title": "Bahlil Jelaskan Rencana Pembatasan Pembelian Pertalite",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri ESDM Bahlil Lahadalia memaparkan rencana pembatasan pembelian BBM jenis Pertalite, termasuk kriteria kendaraan yang akan terkena aturan tersebut.",
+  "takeaway": "Kebijakan pembatasan BBM bersubsidi berpengaruh langsung pada biaya transportasi dan anggaran subsidi energi, sehingga relevan dipantau pembaca ekonomi."
+ },
+ {
   "id": "VAPaXWE1pLM",
   "title": "VKTR Serahkan Dua Bus Listrik ke Universitas Negeri Yogyakarta",
   "category": "Industri",
@@ -96,15 +104,6 @@ var VIDEOS = [
   "category": "Moneter",
   "summary": "Wawancara mendalam bersama Menteri Keuangan soal strategi memulihkan perekonomian. Pembahasan mencakup prioritas belanja, pengelolaan utang, dan koordinasi dengan otoritas moneter.",
   "takeaway": "Koordinasi fiskal dan moneter menjadi penentu utama efektivitas pemulihan, terutama saat ruang penurunan suku bunga terbatas.",
-  "featured": false
- },
- {
-  "id": "uO1l-PZpQaE",
-  "title": "Kriminolog Sebut Tekanan Ekonomi Jadi Pemicu Aksi Kriminal",
-  "program": "tvOneNews",
-  "category": "Makroekonomi",
-  "summary": "Kriminolog membahas keterkaitan antara tekanan ekonomi rumah tangga dan meningkatnya angka kejahatan. Bahasan menyoroti kelompok yang paling rentan ketika lapangan kerja menyusut.",
-  "takeaway": "Data pengangguran dan PHK kerap dipakai sebagai indikator awal untuk memperkirakan tekanan sosial di kota besar.",
   "featured": false
  }
 ];

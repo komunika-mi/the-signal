@@ -17,6 +17,7 @@
 // di bawah.
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { ROOT, log } from './lib.mjs';
 import { buatFoto } from './buat-foto.mjs';
 import { tanya, ambilJSON } from './rewrite.mjs';
@@ -60,7 +61,36 @@ async function adeganUntuk(artikel) {
 // seluruh pembaruan harian. Artikel yang fotonya gagal dibuat dibiarkan tanpa
 // foto sendiri, lalu assign-images.mjs memberinya foto pustaka sebagai cadangan
 // dan mencoba lagi pada putaran berikutnya.
+// Pembuat gambar hanya ada di komputer rumah, tidak di runner GitHub.
+// Terbukti 12 Agustus 2026: daily.yml jalan, menambah artikel, dan nol foto
+// terbuat. Tanpa penjaga ini tiap putaran CI memanggil model untuk menulis
+// adegan lalu mencoba membuat gambar puluhan kali dan gagal semua, membuang
+// waktu dan kredit untuk pekerjaan yang mustahil berhasil di sana.
+//
+// Jadi pembagian tugasnya begini, dan ini disengaja:
+//   GitHub Actions - menulis artikel, dan menyimpan ADEGAN fotonya di
+//                    articles.js lewat field fotoAdegan
+//   komputer rumah - membuat gambarnya, saat putaran IDX tiap 2 jam
+// Artikel yang lahir di cloud memakai foto pustaka dulu, lalu dapat foto
+// sendiri pada putaran lokal berikutnya, paling lama dua jam kemudian.
+let adaAlat = null;
+function alatGambarTersedia() {
+  if (adaAlat !== null) return adaAlat;
+  try {
+    execFileSync('higgsfield', ['--version'], { stdio: 'ignore' });
+    adaAlat = true;
+  } catch { adaAlat = false; }
+  return adaAlat;
+}
+
 export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
+  if (!alatGambarTersedia()) {
+    log('foto artikel: pembuat gambar tidak tersedia di mesin ini, dilewati.');
+    log('  Adegan tetap tersimpan di articles.js dan gambarnya dibuat pada');
+    log('  putaran lokal berikutnya.');
+    return { dibuat: 0, gagal: 0, dilewati: 0 };
+  }
+
   const perlu = artikel.filter(a => a.slug && !punyaFotoSendiri(a.slug));
   if (!perlu.length) { log('foto artikel: semua sudah punya foto sendiri'); return { dibuat: 0, gagal: 0, dilewati: 0 }; }
 

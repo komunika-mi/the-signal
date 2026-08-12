@@ -17,7 +17,7 @@
 //   node scripts/perbaiki-idx-lama.mjs 5         (batasi 5, untuk mencoba dulu)
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData } from './lib.mjs';
-import { ambilIsiLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
+import { ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan } from './rewrite.mjs';
 
 const batas = parseInt(process.argv[2] || '0', 10) || Infinity;
@@ -44,7 +44,7 @@ async function main() {
   for (const lama of perlu.slice(0, batas)) {
     const tanda = (lama.emiten || '----').padEnd(5);
     try {
-      const isiDokumen = ambilIsiLampiran(lama.sourceUrl);
+      const isiDokumen = ambilIsiSemuaLampiran(lama.sourceUrl);
       if (!isiDokumen) { dilewati++; log('  lewati ' + tanda + ' lampiran tidak terbaca'); continue; }
 
       const baru = await rangkumKeterbukaan({

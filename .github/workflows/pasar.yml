@@ -11,9 +11,21 @@ name: Perbarui data pasar
 #
 # Jadi angka pasar tetap segar walau laptop mati.
 
+# Jadwalnya bertingkat, bukan rata, karena dua alasan yang sama-sama nyata:
+#
+# 1. IHSG TIDAK BERGERAK di luar jam bursa. Memperbarui tiap 30 menit pukul
+#    3 pagi cuma menyalin angka yang sama persis.
+# 2. Repo ini privat, jadi menit GitHub Actions terhitung. Tiap 30 menit
+#    nonstop = 1.440 run/bulan sekitar 2.880 menit, sementara kuota gratis
+#    2.000 menit. Akan berhenti sendiri di tengah bulan.
+#
+# Susunan di bawah: 30 menit sekali saat bursa buka (yang memang diminta),
+# 2 jam sekali di luar itu untuk USD/IDR dan Bitcoin yang tetap bergerak.
+# Totalnya sekitar 590 run atau 1.200 menit per bulan, aman di dalam kuota.
 on:
   schedule:
-    - cron: "0 */2 * * *"      # tiap 2 jam
+    - cron: "*/30 2-9 * * 1-5"                    # tiap 30 mnt, 09.00-16.30 WIB, Senin-Jumat
+    - cron: "0 10,12,14,16,18,20,22,0 * * *"      # tiap 2 jam di luar jam bursa
   workflow_dispatch:
 
 # Jangan bentrok dengan job harian maupun push dari penjadwal IDX di laptop.

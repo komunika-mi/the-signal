@@ -5,7 +5,7 @@
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData } from './lib.mjs';
-import { ambilKeterbukaan, ambilIsiLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
+import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 
@@ -49,7 +49,7 @@ async function main() {
       // Aturannya sekarang tegas: tidak ada isi dokumen, tidak ada berita.
       // Laporan yang dilewati tetap ada di IDX dan akan jadi kandidat lagi
       // di putaran berikutnya, jadi tidak ada yang benar-benar hilang.
-      k.isiDokumen = ambilIsiLampiran(k.lampiran);
+      k.isiDokumen = ambilIsiSemuaLampiran(k.lampiranSemua || k.lampiran);
       if (!k.isiDokumen) {
         dilewatiDokumen++;
         log('  LEWATI ' + (k.emiten || '----') + ': lampiran tidak terbaca, tidak diterbitkan');

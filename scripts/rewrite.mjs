@@ -83,6 +83,31 @@ export async function rangkumArtikel(bahan) {
     '- Jangan mengarang angka, nama, atau kutipan yang tidak ada di DATA.',
     '- Kalau DATA terlalu tipis untuk 3 paragraf, tulis seadanya dan set "layak": false.',
     '',
+    'CATATAN REDAKSI (field "catatan"), inilah yang membedakan The Signal dari',
+    'sekadar meringkas berita orang lain. Tiga langkah pendek, berurutan:',
+    '  1. APA YANG BERUBAH  - perubahan konkretnya apa, sebut angka atau',
+    '     ketentuannya. Bukan mengulang judul.',
+    '  2. SIAPA YANG TERDAMPAK - kelompok mana yang merasakan: pelaku usaha',
+    '     tertentu, pekerja, konsumen, daerah tertentu, pemegang saham.',
+    '  3. APA YANG PERLU DIPANTAU - tanggal, aturan turunan, angka rilis',
+    '     berikutnya, atau syarat yang belum terpenuhi.',
+    'Tiga sampai empat kalimat, mengalir sebagai paragraf, bukan daftar bernomor.',
+    '',
+    'ATURAN KERAS untuk catatan:',
+    '- WAJIB bersandar pada angka atau fakta spesifik yang ADA di DATA. Kalau',
+    '  tidak ada yang konkret untuk dipegang, KOSONGKAN saja ("catatan": "").',
+    '  Catatan kosong jauh lebih baik daripada kalimat hampa seperti "ini',
+    '  menunjukkan pemerintah berkomitmen memperkuat ekonomi", yang terdengar',
+    '  berisi tapi tidak mengatakan apa pun dan justru menurunkan wibawa media.',
+    '- Menjelaskan arah kebijakan itu tugas jurnalistik: terangkan mekanismenya',
+    '  dan siapa yang kena. Tapi DILARANG menilai baik-buruknya tokoh atau',
+    '  partai politik, dan dilarang memihak.',
+    '- DILARANG mengomentari, mengoreksi, atau meragukan liputan tvOneNews.',
+    '  The Signal berkolaborasi dengan mereka; catatan ini menambah konteks,',
+    '  bukan menilai sumbernya.',
+    '- DILARANG memberi saran investasi, rekomendasi beli/jual saham, atau',
+    '  menebak arah harga.',
+    '',
     GAYA,
     '',
     'KATEGORI yang boleh dipakai (pilih tepat satu): ' + KATEGORI.join(', ') + '.',
@@ -94,6 +119,7 @@ export async function rangkumArtikel(bahan) {
     '  "deck": string,          // ringkasan 1-2 kalimat, maksimal 200 karakter',
     '  "kategori": string,      // salah satu dari daftar kategori',
     '  "paragraf": string[],    // 3-4 paragraf teks biasa, tanpa HTML',
+    '  "catatan": string,       // catatan redaksi 3-4 kalimat, ATAU "" kalau tak ada yang konkret',
     '  "tag": string[]          // 2-4 tag pendek',
     '}',
   ].join('\n');
@@ -124,6 +150,10 @@ export async function rangkumArtikel(bahan) {
     sourceUrl: bahan.url,
     tags: (hasil.tag || []).slice(0, 4),
     body: (hasil.paragraf || []).slice(0, 4),
+    // Boleh kosong. Model diminta mengosongkannya kalau tidak ada angka atau
+    // fakta konkret untuk dipegang, karena catatan hampa lebih merugikan
+    // daripada tidak ada catatan sama sekali.
+    takeaway: (hasil.catatan || '').trim(),
   };
 }
 

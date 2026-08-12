@@ -75,7 +75,14 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
 
     if (RUTIN.test(teks)) { ditolakRutin++; continue; }
 
-    const lampiran = (r.attachments || [])[0];
+    // SEMUA lampiran dikumpulkan, bukan cuma yang pertama. Survei 200 laporan
+    // (8-12 Agustus 2026): 80% punya lebih dari satu lampiran, ada yang sampai
+    // tujuh. Mengambil satu saja berarti melewatkan isi dokumen di 4 dari 5
+    // laporan, dan justru lampiran kedua sering berisi rincian angkanya.
+    // Berkas .xlsx ikut didata tapi tidak bisa dibaca pdftotext.
+    const semuaLampiran = (r.attachments || [])
+      .map(a => a.FullSavePath || '').filter(Boolean);
+    const lampiran = semuaLampiran.find(u => /\.pdf/i.test(u)) || semuaLampiran[0];
     hasil.push({
       id: String(p.Id || p.FinalId || p.NoPengumuman || ''),
       emiten: String(p.Kode_Emiten || '').trim().split(/\s+/)[0] || '',
@@ -83,7 +90,8 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
       perihal,
       terbit: p.TglPengumuman || new Date().toISOString(),
       jenis: p.JenisPengumuman || '',
-      lampiran: lampiran ? (lampiran.FullSavePath || '') : '',
+      lampiran,                 // yang utama, dipakai sebagai sourceUrl dan penanda kembar
+      lampiranSemua: semuaLampiran,
       namaEmiten: peta[String(p.Kode_Emiten || '').trim().split(/s+/)[0]?.toUpperCase()] || '',
       dugaanMaterial: MATERIAL.test(teks),
     });
@@ -178,6 +186,43 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5 } = {
 
 // Jeda sinkron, mengikuti pola yang sudah dipakai di lib.mjs untuk IDX.
 function tidurSebentar(ms) { const s = Date.now(); while (Date.now() - s < ms) { /* jeda */ } }
+
+// Baca SEMUA lampiran, bukan cuma yang pertama.
+//
+// Survei 200 laporan IDX (8-12 Agustus 2026): 80% berlampiran lebih dari satu,
+// ada yang sampai tujuh. Lampiran pertama sering cuma surat pengantar,
+// sedangkan rincian angkanya justru ada di lampiran kedua atau ketiga. Membaca
+// satu saja berarti berita ditulis dari bagian yang paling miskin isinya.
+//
+// Berkas .xlsx (36 dari 432 lampiran) tidak bisa dibaca pdftotext. Keberadaannya
+// tetap disebutkan supaya model tahu masih ada data yang belum terbaca dan
+// tidak menyimpulkan berlebihan dari yang ada.
+export function ambilIsiSemuaLampiran(daftar, { maksTotal = 9000, maksPerBerkas = 4000 } = {}) {
+  const urls = (Array.isArray(daftar) ? daftar : [daftar]).filter(Boolean);
+  if (!urls.length) return '';
+
+  const pdf = urls.filter(u => /\.pdf/i.test(u));
+  const lain = urls.filter(u => !/\.pdf/i.test(u));
+
+  const bagian = [];
+  let total = 0;
+
+  for (let i = 0; i < pdf.length; i++) {
+    if (total >= maksTotal) { bagian.push('[' + (pdf.length - i) + ' lampiran lagi tidak dibaca karena batas panjang]'); break; }
+    const teks = ambilIsiLampiran(pdf[i], { maksKarakter: Math.min(maksPerBerkas, maksTotal - total) });
+    if (!teks) continue;
+    bagian.push((pdf.length > 1 ? '--- LAMPIRAN ' + (i + 1) + ' dari ' + pdf.length + ' ---\n' : '') + teks);
+    total += teks.length;
+  }
+
+  if (!bagian.length) return '';
+  if (lain.length) {
+    bagian.push('[Ada ' + lain.length + ' lampiran berformat ' +
+      [...new Set(lain.map(u => (u.match(/\.([a-z]+)$/i) || [, '?'])[1].toLowerCase()))].join('/') +
+      ' yang tidak bisa dibaca otomatis, jadi isinya tidak tercakup di sini]');
+  }
+  return bagian.join('\n\n');
+}
 
 export function bersihkanTeksPdf(mentah, maksKarakter = 6000) {
   const keluar = [];

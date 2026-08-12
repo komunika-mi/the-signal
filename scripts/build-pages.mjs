@@ -123,6 +123,16 @@ function bagikanDenganKredit(t) {
   return ringkasBagikan(t, 76) + KREDIT;
 }
 
+// Tiga jenis sumber, bukan dua. Sebelumnya hanya IDX lawan tvOne, sehingga
+// siaran pers Bank Indonesia dan kementerian jatuh ke cabang "else" dan
+// SALAH dikreditkan ke tvOneNews. Itu keliru secara faktual, bukan sekadar
+// kosmetik, karena artikelnya sama sekali bukan liputan mereka.
+function jenisSumber(a) {
+  if (a.sourceLabel === 'IDX') return 'idx';
+  if (a.sourceLabel) return 'gov';
+  return 'tvone';
+}
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -296,8 +306,9 @@ ARTICLES.forEach(function (a) {
     `<h1 class="article-title">${hl(a.title)}</h1>` +
     `<p class="article-deck">${esc(a.deck)}</p>` +
     `<div class="hero-meta" style="border-top:none;padding-top:0;margin-top:1rem;">` +
-    `<span class="num">${esc(a.date)}</span><span>${a.sourceLabel === 'IDX'
-      ? 'Sumber: <strong>Keterbukaan Informasi IDX</strong>'
+    `<span class="num">${esc(a.date)}</span><span>${
+      jenisSumber(a) === 'idx' ? 'Sumber: <strong>Keterbukaan Informasi IDX</strong>'
+      : jenisSumber(a) === 'gov' ? 'Sumber: <strong>Siaran pers ' + esc(a.sourceLabel) + '</strong>'
       : 'Dirangkum dari <strong>tvOneNews</strong>'}</span></div>` +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
@@ -312,10 +323,14 @@ ARTICLES.forEach(function (a) {
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
     `<p class="foto-kredit">Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.</p>` +
-    `<div class="article-source-box"><p>${a.sourceLabel === 'IDX'
-      ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
+    `<div class="article-source-box"><p>${
+      jenisSumber(a) === 'idx' ? 'Berita ini disusun redaksi The Signal dari keterbukaan informasi resmi yang disampaikan emiten ke Bursa Efek Indonesia. Catatan redaksi bersifat penjelasan, bukan rekomendasi investasi.'
+      : jenisSumber(a) === 'gov' ? 'Berita ini disusun redaksi The Signal dari siaran pers resmi ' + esc(a.sourceLabel) + '. Angka dan ketentuan mengikuti dokumen aslinya; klaim yang belum terverifikasi ditulis sebagai pernyataan lembaga, bukan fakta.'
       : 'Artikel ini rangkuman editorial The Signal dari liputan tvOneNews, bukan salinan langsung. Untuk versi lengkap dan mutakhir, baca artikel aslinya.'}</p>` +
-    `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">${a.sourceLabel === 'IDX' ? 'Lihat dokumen resmi di IDX &rarr;' : 'Baca artikel asli di tvOneNews &rarr;'}</a></div>` +
+    `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">${
+      jenisSumber(a) === 'idx' ? 'Lihat dokumen resmi di IDX &rarr;'
+      : jenisSumber(a) === 'gov' ? 'Baca siaran pers asli di ' + esc(a.sourceLabel) + ' &rarr;'
+      : 'Baca artikel asli di tvOneNews &rarr;'}</a></div>` +
     `</div><aside class="article-side">${KARTU_PASAR}<h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
     `<a class="compact-row" href="/berita.html"><span class="compact-body"><span class="compact-title">Semua Berita</span><span class="compact-meta">${ARTICLES.length} artikel</span></span></a>` +

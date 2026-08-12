@@ -29,7 +29,7 @@
       '<p class="story-excerpt">' + TS.esc(a.deck) + '</p>' +
       '<div class="story-meta"><span class="num">' + TS.esc(a.date) + '</span>' +
       '<a href="' + TS.esc(a.sourceUrl) + '" target="_blank" rel="noopener">' +
-      (a.sourceLabel === 'IDX' ? 'Sumber: IDX' : 'Sumber: tvOne') + '</a></div>' +
+      (a.sourceLabel === 'IDX' ? 'Sumber: IDX' : a.sourceLabel ? 'Sumber: ' + TS.esc(a.sourceLabel) : 'Sumber: tvOne') + '</a></div>' +
       '</article>';
   };
 

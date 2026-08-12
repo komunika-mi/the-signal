@@ -10,6 +10,7 @@ import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, writeData } from './lib.mjs';
 import { ambilDaftarBerita, ambilIsiArtikel } from './fetch-news.mjs';
+import { ambilBeritaPemerintah } from './fetch-gov.mjs';
 import { ambilVideo } from './fetch-videos.mjs';
 import { rangkumArtikel, saringVideo, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
@@ -18,6 +19,10 @@ const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 10);   // berita baru pe
 const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
 const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 400);    // batasi ukuran situs (~40 hari)
 const MAKS_VIDEO = 12;
+// Kanal pemerintah. Dijaga kecil supaya siaran pers tidak menenggelamkan
+// berita biasa, dan supaya tiap putaran 2 jam tetap cepat.
+const TARGET_GOV = Number(process.env.SIGNAL_GOV || 4);
+const MAKS_GOV_PER_SUMBER = 4;
 
 function tanggalWIB() {
   const H = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
@@ -64,6 +69,34 @@ async function main() {
       errorTerakhir = e.message.slice(0, 200);
       log('  GAGAL: ' + k.judulAsli.slice(0, 45) + ' -> ' + e.message.slice(0, 80));
     }
+  }
+
+  // ---------- kanal pemerintah ----------
+  // Siaran pers kementerian dan BI adalah SUMBER PRIMER, sama seperti
+  // keterbukaan IDX, jadi di sinilah The Signal bisa membaca arah kebijakan
+  // lebih awal ketimbang menunggu media lain merangkumnya.
+  //
+  // Sengaja TIDAK menggagalkan putaran kalau kanal ini bermasalah: situs
+  // pemerintah sering berubah struktur, dan itu tidak boleh ikut menjatuhkan
+  // berita tvOne yang sudah jalan.
+  try {
+    const gov = (await ambilBeritaPemerintah({ perSumber: MAKS_GOV_PER_SUMBER }))
+      .filter(g => !sudahAda.has(g.url));
+
+    for (const g of gov) {
+      if (artikelBaru.length >= TARGET_BARU + TARGET_GOV) break;
+      try {
+        const hasil = await rangkumArtikel(g, { pemerintah: true });
+        if (!hasil) { log('  ditolak (seremonial): ' + g.judulAsli.slice(0, 46)); continue; }
+        if (artikelLama.some(a => a.slug === hasil.slug) || artikelBaru.some(a => a.slug === hasil.slug)) continue;
+        artikelBaru.push(hasil);
+        log('  + [' + g.lembaga + '] ' + hasil.title.replace(/[\[\]]/g, '').slice(0, 46));
+      } catch (e) {
+        log('  GAGAL ' + g.lembaga + ': ' + String(e.message).slice(0, 60));
+      }
+    }
+  } catch (e) {
+    log('PERINGATAN: kanal pemerintah dilewati -> ' + String(e.message).slice(0, 70));
   }
 
   // Kegagalan diam-diam itu bahaya untuk job yang jalan tanpa diawasi.

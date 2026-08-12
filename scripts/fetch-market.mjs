@@ -8,8 +8,32 @@ const GRAM_PER_OZ = 31.1034768;
 async function ihsg() {
   const j = await retry(() => getJSON(
     'https://query1.finance.yahoo.com/v8/finance/chart/%5EJKSE?interval=1d&range=5d'));
-  const m = j.chart.result[0].meta;
-  const now = m.regularMarketPrice, prev = m.chartPreviousClose;
+  const r = j.chart.result[0];
+  const m = r.meta;
+  const now = m.regularMarketPrice;
+
+  // JANGAN pakai m.chartPreviousClose. Pada range=5d isinya penutupan sebelum
+  // bar PERTAMA rentang, jadi pembandingnya harga sepekan lalu, bukan kemarin.
+  // Akibatnya persentase harian salah besar: 12 Agustus 2026 situs menulis
+  // IHSG +0,05% (dibanding 6 Agustus di 6.343,71) padahal terhadap penutupan
+  // 11 Agustus di 6.267,88 kenaikannya +1,10%. Google menunjukkan yang kedua,
+  // dan yang kedua itu yang benar.
+  //
+  // Ambil penutupan hari bursa terakhir SEBELUM hari ini. Bar hari ini ikut
+  // ada di deret saat bursa masih berjalan, jadi harus dilewati, tapi kalau
+  // bursa sedang tutup bar terakhir justru sudah final dan itulah pembandingnya.
+  const stempel = r.timestamp || [];
+  const tutup = (r.indicators.quote[0].close || []);
+  const seri = stempel
+    .map((t, i) => ({ hari: new Date(t * 1000).toISOString().slice(0, 10), nilai: tutup[i] }))
+    .filter(x => typeof x.nilai === 'number');
+
+  const hariIni = new Date((m.regularMarketTime || Date.now() / 1000) * 1000).toISOString().slice(0, 10);
+  const sebelumHariIni = seri.filter(x => x.hari < hariIni);
+  const prev = sebelumHariIni.length
+    ? sebelumHariIni[sebelumHariIni.length - 1].nilai
+    : m.chartPreviousClose;
+
   const pct = ((now - prev) / prev) * 100;
   return { nilai: idNum(now, 2), pct, naik: pct >= 0, label: 'IHSG' };
 }

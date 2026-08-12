@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "EiLfnsqmr1o",
+  "title": "Warung, Minimarket, dan Toko Online Bersaing",
+  "category": "UMKM",
+  "program": "IBF",
+  "summary": "Persaingan usaha antara warung, minimarket, dan toko online kian ramai diperbincangkan, terutama soal siapa yang paling diuntungkan dari pergeseran pola belanja masyarakat.",
+  "takeaway": "Menyoroti dampak pergeseran belanja daring terhadap pelaku usaha kecil seperti warung dan toko kelontong."
+ },
+ {
+  "id": "4jr__0ELzCc",
+  "title": "Kejagung Ungkap Kasus Korupsi Transfer Pricing CPO",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Kejaksaan Agung mengusut dugaan korupsi perpajakan dan manipulasi harga ekspor minyak sawit mentah yang diduga melibatkan sekitar 10 perusahaan sawit.",
+  "takeaway": "Kasus ini menyoroti praktik transfer pricing di industri sawit yang berpotensi merugikan penerimaan negara dari sektor ekspor."
+ },
+ {
+  "id": "wC5PTtzRTaA",
+  "title": "Bahlil dan Purbaya Bahas Pembatasan BBM Subsidi Pertalite",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri ESDM Bahlil Lahadalia dan Menteri Keuangan Purbaya Yudhi Sadewa membahas rencana pembatasan pembelian BBM bersubsidi jenis Pertalite.",
+  "takeaway": "Kebijakan pembatasan subsidi BBM ini berpotensi berdampak langsung pada anggaran negara dan daya beli masyarakat."
+ },
+ {
   "id": "nBoIvPni-mw",
   "title": "KPPU Beri Rekomendasi Agar Persaingan Usaha Sehat",
   "category": "Bisnis",
@@ -73,32 +97,5 @@ var VIDEOS = [
   "summary": "Menteri Keuangan Purbaya memaparkan dasar optimismenya bahwa pertumbuhan ekonomi Indonesia bisa menembus 6 persen. Ia menyoroti ruang belanja pemerintah, penguatan konsumsi domestik, dan efek program prioritas terhadap sektor riil.",
   "takeaway": "Target 6 persen berada di atas rata-rata pertumbuhan lima tahun terakhir, sehingga pencapaiannya bergantung pada realisasi belanja dan pemulihan daya beli.",
   "featured": true
- },
- {
-  "id": "lG5dhNFKi3g",
-  "title": "Pengamat Ekonomi: Harga Emas Bakal Terus Meroket?",
-  "program": "Indonesia Business Forum",
-  "category": "Pasar Modal",
-  "summary": "Diskusi panel membahas arah harga emas yang terus menguat sepanjang tahun. Narasumber mengulas faktor pendorongnya, mulai dari ketidakpastian geopolitik, arah suku bunga bank sentral, hingga perilaku bank sentral dunia yang menambah cadangan emas.",
-  "takeaway": "Untuk investor ritel, emas diposisikan sebagai lindung nilai jangka panjang, bukan instrumen mengejar keuntungan jangka pendek.",
-  "featured": false
- },
- {
-  "id": "m1q86JjJ4Kg",
-  "title": "Purbaya Ungkap APBN di Tengah Labilnya Ekonomi Global",
-  "program": "tvOneNews",
-  "category": "Moneter",
-  "summary": "Menteri Keuangan memaparkan kondisi Anggaran Pendapatan dan Belanja Negara di tengah ketidakpastian ekonomi global. Pembahasan mencakup penerimaan pajak, realisasi belanja, dan ruang fiskal yang tersisa.",
-  "takeaway": "Ruang fiskal yang sempit membatasi kemampuan pemerintah merespons guncangan eksternal lewat stimulus tambahan.",
-  "featured": false
- },
- {
-  "id": "_ZV-tannxT8",
-  "title": "Pengamat Bahas Dampak Kebijakan Tarif AS terhadap Ekonomi Dunia",
-  "program": "tvOneNews",
-  "category": "Global",
-  "summary": "Pengamat membedah dampak kebijakan tarif Amerika Serikat terhadap perdagangan global dan posisi negara berkembang. Bahasan menyentuh risiko perang dagang jilid baru serta efeknya pada rantai pasok yang melibatkan pabrik di Asia Tenggara.",
-  "takeaway": "Bagi Indonesia, eskalasi tarif berdampak dua arah: menekan permintaan ekspor, tetapi juga membuka celah relokasi pabrik dari negara yang terkena tarif tinggi.",
-  "featured": false
  }
 ];

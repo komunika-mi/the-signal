@@ -2,6 +2,83 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "msci-keluarkan-cpin-dan-goto-dari-indeks-utama",
+  "category": "Pasar Modal",
+  "title": "MSCI [Keluarkan] CPIN dan GOTO dari Indeks Utama",
+  "deck": "MSCI mengeluarkan CPIN dan GOTO dari indeks saham utama Indonesia tanpa saham pengganti, efektif mulai 1 September 2026.",
+  "image": "assets/img/layar-indeks-jauh.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-13T06:04:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459537-rincian-lengkap-saham-yang-masuk-dan-keluar-rebalancing-msci",
+  "tags": [
+   "MSCI",
+   "CPIN",
+   "GOTO",
+   "Rebalancing Indeks"
+  ],
+  "body": [
+   "MSCI, penyedia indeks saham global yang jadi acuan banyak dana investasi dunia, mengumumkan hasil peninjauan berkala atas saham-saham Indonesia pada Rabu waktu Eropa. Dari peninjauan ini, dua saham, yakni Charoen Pokphand Indonesia (CPIN) dan GoTo Gojek Tokopedia (GOTO), resmi dikeluarkan dari MSCI Global Standard Index, indeks utama yang banyak diikuti dana-dana besar dunia. Tidak ada saham Indonesia yang masuk sebagai pengganti. Perubahan ini penting karena banyak reksa dana dan ETF global secara otomatis mengikuti komposisi indeks tersebut, sehingga saham yang keluar berpotensi kena aksi jual otomatis dari dana-dana itu.",
+   "Setelah CPIN dan GOTO keluar, tersisa sembilan saham Indonesia di MSCI Global Standard Index, didominasi bank besar seperti BBCA, BBRI, BBNI, dan BMRI, ditambah ASII, TLKM, UNTR, BRPT, dan BRMS. Di luar indeks utama, MSCI juga merombak kategori Global Small Cap Index untuk saham berkapitalisasi lebih kecil: satu saham masuk, sembilan saham keluar, termasuk Bank Jago (ARTO), Bukalapak (BUKA), dan Semen Indonesia (SMGR). Setelah perombakan itu, sekitar 33 saham Indonesia masih bertahan di indeks small cap tersebut.",
+   "Seluruh perubahan ini baru berlaku efektif pada penutupan perdagangan 31 Agustus 2026 dan mulai berjalan 1 September 2026, memberi waktu bagi manajer investasi menyesuaikan portofolionya. MSCI dijadwalkan mengumumkan hasil peninjauan berikutnya pada 11 November 2026, dengan tanggal efektif berlaku mulai 1 Desember 2026."
+  ],
+  "fotoAdegan": "Stock brokers in a busy Jakarta trading floor watching distant blurred digital screens, wide angle, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7cfa0e53404-pengunjung-mengamati-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah konkret di sini adalah komposisi indeks, dua saham besar, CPIN dan GOTO, keluar dari indeks utama MSCI untuk Indonesia tanpa ada saham pengganti, sehingga jumlah wakil Indonesia di indeks itu menyusut dari sebelas menjadi sembilan saham. Yang terdampak langsung adalah pemegang saham CPIN dan GOTO, terutama karena dana-dana indeks pasif di berbagai negara yang melacak MSCI akan otomatis menjual saham tersebut begitu perubahan berlaku akhir Agustus. Efek serupa dalam skala lebih kecil dirasakan sembilan saham yang tersingkir dari kategori small cap seperti ARTO, BUKA, dan SMGR. Pola tidak ada saham baru yang masuk ke indeks utama sementara yang keluar cukup banyak ini mengarah ke penyusutan sementara bobot Indonesia di radar investor pasif global. Untuk memastikan apakah ini tren berkelanjutan atau sekadar penyesuaian satu periode, peninjauan berikutnya pada 11 November 2026 akan jadi penanda paling jelas."
+ },
+ {
+  "slug": "purbaya-ajak-kemenhub-benahi-tarif-timpang-peti-kemas",
+  "category": "Bisnis",
+  "title": "Purbaya Ajak Kemenhub Benahi Tarif [Timpang] Peti Kemas",
+  "deck": "Purbaya akan menggandeng Kemenhub membahas selisih tarif jasa LoLo di depo peti kemas kosong, yang di luar pelabuhan lebih mahal Rp300.000-Rp400.000 per kontainer.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-13T02:00:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459519-purbaya-soroti-tarif-lolo-jomplang-kemenhub-bakal-diajak-bereskan-biaya-depo-peti-kemas",
+  "tags": [
+   "tarif LoLo",
+   "depo peti kemas",
+   "biaya logistik",
+   "Kemenhub"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa akan mengajak Kementerian Perhubungan duduk bersama membahas selisih tarif jasa Lift On/Lift Off atau LoLo, yaitu biaya angkat-turun kontainer, di depo peti kemas kosong. Persoalan ini penting karena menyangkut ongkos yang harus ditanggung pelaku usaha setiap kali menitipkan atau mengambil kontainer kosong, yang pada akhirnya menambah beban biaya logistik barang.",
+   "Rencana koordinasi itu muncul setelah Purbaya menerima aduan dari Dewan Pimpinan Nasional Dewan Pengguna Jasa Angkutan Indonesia atau DPN Depalindo, yang mewakili PT Jakarta Mitra Graha, dalam Sidang Ke-13 Kanal Debottlenecking di Kementerian Keuangan, Jakarta, Rabu, 12 Agustus 2026. Menurut aduan tersebut, tarif jasa LoLo di depo peti kemas kosong yang berada di luar kawasan pelabuhan lebih mahal Rp300.000 hingga Rp400.000 per kontainer dibandingkan tarif sejenis di dalam pelabuhan. DPN Depalindo menyebut penyebabnya adalah belum ada aturan khusus yang mengatur struktur, komponen, dan golongan tarif LoLo, sehingga penetapan harga antar-depo bisa berbeda-beda.",
+   "Selain soal selisih tarif, pengguna jasa juga melaporkan adanya sejumlah biaya tambahan dalam layanan depo peti kemas kosong yang dinilai kurang transparan. Standar pemeriksaan kontainer serta rincian dalam invoice atau tagihan disebut perlu diperjelas agar pelaku usaha tahu persis komponen biaya yang mereka bayar.",
+   "Menanggapi aduan itu, Purbaya menyatakan pemerintah akan berkoordinasi dengan Kementerian Perhubungan untuk mencari solusi bersama. Ia menilai perlu ada penyeragaman tata kelola dan mekanisme layanan depo peti kemas kosong, baik yang berada di dalam maupun di luar kawasan pelabuhan."
+  ],
+  "fotoAdegan": "Wide shot of stacked shipping containers at an inland container depot yard, forklift moving between rows, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/23/6a61c7e43baf1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah sejauh ini baru rencana koordinasi, bukan aturan baru: Kementerian Keuangan akan mengajak Kementerian Perhubungan menyelesaikan selisih biaya jasa angkat-turun kontainer di depo peti kemas kosong, yang di luar pelabuhan tercatat Rp300.000 sampai Rp400.000 lebih mahal per kontainer ketimbang di dalam pelabuhan. Pihak yang paling merasakan selisih ini adalah pengguna jasa logistik, seperti importir dan eksportir yang menitipkan kontainer kosong di depo luar pelabuhan, karena biaya tambahan itu langsung menambah ongkos kirim barang mereka. Penyebabnya, menurut aduan yang diterima Kemenkeu, adalah belum adanya aturan yang secara khusus menetapkan struktur dan golongan tarif LoLo, sehingga tiap depo bisa menetapkan tarifnya sendiri. Arahnya tampak menuju penyeragaman aturan tarif antara depo di dalam dan luar pelabuhan, tapi ini baru tahap koordinasi antar kementerian dan belum ada draf regulasi. Yang akan memastikan arah ini benar terealisasi adalah apakah Kemenhub kemudian menerbitkan aturan konkret soal struktur dan golongan tarif LoLo, atau rencana ini berhenti di tahap koordinasi."
+ },
+ {
+  "slug": "umkm-binaan-pertamina-raih-omzet-rp8-57-miliar",
+  "category": "UMKM",
+  "title": "UMKM Binaan Pertamina Raih Omzet [Rp8,57 Miliar]",
+  "deck": "UMKM binaan Pertamina mencatatkan omzet Rp8,57 miliar sepanjang semester I 2026 lewat ratusan pameran, sertifikasi, dan pelatihan usaha.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T23:17:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459517-umkm-binaan-pertamina-raih-omzet-rp857-miliar-sepanjang-semester-i-2026-berkat-perluasan-akses-pasar",
+  "tags": [
+   "umkm",
+   "pertamina",
+   "pameran",
+   "sertifikasi"
+  ],
+  "body": [
+   "Pelaku UMKM binaan Pertamina membukukan omzet Rp8,57 miliar sepanjang semester I 2026 melalui keikutsertaan dalam berbagai pameran regional, nasional, hingga internasional. Angka ini penting karena akses pasar sering menjadi hambatan terbesar bagi usaha kecil untuk tumbuh, jauh lebih sulit dibanding sekadar mendapat modal usaha.",
+   "Selama periode itu, Pertamina memfasilitasi UMKM binaannya mengikuti 414 pameran, termasuk ajang besar seperti Food & Hospitality Indonesia, Indonesia International Furniture Expo, Indonesia International Motor Show, dan INACRAFT 2026. Di sisi lain, 2.822 sertifikasi produk juga sudah difasilitasi hingga akhir Juni 2026, yang berfungsi memenuhi syarat legalitas sekaligus meyakinkan konsumen soal kualitas. Pertamina turut menggelar 579 pelatihan lewat Rumah BUMN, mencakup pemasaran digital, legalitas, hingga pengelolaan usaha.",
+   "Salah satu contohnya adalah Sambal Ning Niniek, usaha rintisan Sri Wahyuni yang mendapat bantuan modal Rp35 juta pada 2023 dan sempat masuk 30 finalis Pertamina Aggregator 2025. Menurut Sri, pelatihan lewat UMK Academy dan kesempatan mengikuti pameran membantu usahanya memperluas jaringan pemasaran, bukan hanya menambah omzet sesaat.",
+   "Pertamina menekankan bahwa akses pasar hanya bisa dimanfaatkan optimal jika UMKM sudah siap dari sisi legalitas, kualitas produk, dan kemampuan mengelola bisnis. Kombinasi sertifikasi, pelatihan, dan pameran ini menjadi rangkaian yang saling menopang, bukan program yang berdiri sendiri-sendiri."
+  ],
+  "fotoAdegan": "Small business vendors arranging handcrafted food products on a stall inside a busy trade exhibition hall in Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c9a779202f-umkm-binaan-pertamina_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan sekadar angka omzet, melainkan skala dukungannya: 414 pameran, 2.822 sertifikasi produk, dan 579 pelatihan usaha dalam satu semester, kombinasi yang jauh lebih besar dibanding sekadar bantuan modal seperti yang dulu diterima Sambal Ning Niniek. Yang terdampak langsung adalah UMKM binaan Pertamina yang sudah punya produk siap jual namun terkendala jaringan pemasaran dan legalitas, seperti tecermin dari kisah Sri Wahyuni yang mengaku pelatihan dan pameran lebih membantu memperluas jaringan ketimbang sekadar menambah omzet sesaat. Pola ini menunjukkan arah dukungan Pertamina bergeser dari sekadar penyaluran modal usaha ke penguatan kesiapan pasar, yakni sertifikasi dan akses pameran berskala lebih besar termasuk pasar internasional. Yang akan memperkuat atau mematahkan pembacaan ini adalah apakah UMKM binaan yang sudah difasilitasi sertifikasi dan pameran internasional benar-benar berhasil menembus ekspor pada laporan semester berikutnya."
+ },
+ {
   "slug": "purbaya-temukan-banyak-masalah-keuangan-mbg-di-daerah",
   "category": "Makroekonomi",
   "title": "Purbaya Temukan [Banyak] Masalah Keuangan MBG di Daerah",

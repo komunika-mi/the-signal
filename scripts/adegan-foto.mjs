@@ -32,6 +32,8 @@ export const ADEGAN = {
     ['foto-bersama-korporat', 'Group of executives standing together for a photo moment after a ceremony, applause, indoor stage'],
   ],
   'Perbankan': [
+    ['agen-laku-pandai', 'Village banking agent serving a customer at a small shopfront counter with a card reader'],
+    ['nasabah-desa-antre', 'Rural customers waiting outside a small bank service point, motorbikes parked nearby'],
     ['konter-bank-pagi', 'Bank branch counter early in the morning, staff preparing, empty customer chairs'],
     ['petugas-layani-nasabah', 'Bank officer explaining something to a seated customer across a desk, both in profile'],
     ['mesin-antrean', 'Customer taking a paper queue ticket from a dispenser in a bank lobby'],
@@ -39,6 +41,9 @@ export const ADEGAN = {
     ['kotak-deposit', 'Rows of safe deposit boxes in a bank vault room, one drawer partly open'],
   ],
   'Moneter': [
+    ['sidang-komisi-dpr', 'Parliamentary commission hearing room with legislators seated in tiers facing a witness table'],
+    ['pelantikan-pejabat', 'Official swearing in ceremony, hands raised, formal hall with flags out of focus'],
+    ['podium-kosong-briefing', 'Empty podium with microphones set up before a press briefing, chairs arranged in rows'],
     ['brankas-uang-sentral', 'Secure cash handling room with sealed containers on trolleys, staff in uniform'],
     ['meja-kebijakan', 'Empty formal meeting room set for a policy session, water glasses and microphones on the table'],
     ['konpers-podium', 'Official speaking at a podium during a press conference, photographers crouched in front'],
@@ -49,6 +54,8 @@ export const ADEGAN = {
     ['layar-pasar-jauh', 'Large market data screens seen from far across a dim room, figures illegible, silhouettes of staff'],
   ],
   'Pasar Modal': [
+    ['layar-indeks-jauh', 'Large market index display seen from a distance across a bright office atrium, figures unreadable'],
+    ['rapat-manajer-investasi', 'Fund managers in discussion around a table with printed portfolio sheets'],
     ['grafik-dinding-kantor', 'Printed performance charts pinned along an office wall, a person walking past out of focus'],
     ['investor-muda-diskusi', 'Two young Indonesians discussing over a tablet at a co-working table'],
     ['trader-dua-layar', 'Trader working at a desk with two monitors, seen over the shoulder, screens out of focus'],
@@ -57,6 +64,9 @@ export const ADEGAN = {
     ['mencatat-grafik', 'Hand drawing a rising line chart on paper with a pen, calculator beside it'],
   ],
   'Makroekonomi': [
+    ['pedagang-bawang', 'Market trader arranging red onions and garlic in baskets at a wholesale stall'],
+    ['timbangan-pasar', 'Hands weighing vegetables on a traditional scale at a market stall'],
+    ['bongkar-muat-truk', 'Workers unloading sacks from a truck at a distribution warehouse in the morning'],
     ['terminal-bus', 'Intercity bus terminal with passengers boarding and luggage being loaded'],
     ['pasar-ikan', 'Fish market in the early morning, vendors sorting the catch on ice'],
     ['jembatan-desa', 'New concrete bridge over a river connecting two villages, a motorbike crossing'],
@@ -66,6 +76,8 @@ export const ADEGAN = {
     ['konstruksi-perumahan', 'Housing construction site with brick walls going up and workers on scaffolding'],
   ],
   'Energi': [
+    ['pipa-distribusi-gas', 'Industrial gas pipeline running through a facility with valves and gauges'],
+    ['pekerja-tambang-helm', 'Mine workers in helmets and hi-vis vests walking toward a site at sunrise'],
     ['pltu-cerobong', 'Coal fired power plant with tall chimneys seen across a field at dusk'],
     ['tambang-batubara-truk', 'Heavy haul trucks carrying coal along a mine road, dust rising'],
     ['spbu-antre', 'Line of motorbikes queueing at a fuel station in an Indonesian town'],
@@ -89,6 +101,7 @@ export const ADEGAN = {
     ['terminal-bandara', 'Airport terminal interior with travellers walking, large windows and daylight'],
   ],
   'Teknologi': [
+    ['menara-bts', 'Telecommunication tower against a clear sky with a technician climbing the ladder'],
     ['rapat-tim-teknologi', 'Young tech team in a stand up meeting beside a wall of sticky notes'],
     ['kabel-jaringan', 'Neatly bundled network cables in a rack, hands connecting one patch cord'],
     ['lorong-server', 'Narrow aisle between server racks in a data centre, blue indicator lights'],

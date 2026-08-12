@@ -174,7 +174,17 @@ export function pasangFoto(artikel) {
     cocokIsi + ' dicocokkan dengan isi berita, ' +
     berdempet + ' berdempetan' + (terpaksaUlang ? ', ' + terpaksaUlang + ' TERPAKSA DIULANG' : ''));
   if (terpaksaUlang) {
-    log('  pustaka kurang ' + terpaksaUlang + ' foto. Jalankan: node scripts/lengkapi-foto.mjs');
+    // Saran lama di sini cuma "Jalankan: node scripts/lengkapi-foto.mjs", dan
+    // itu menyesatkan. Skrip tersebut hanya membuat foto untuk adegan yang
+    // SUDAH terdaftar di adegan-foto.mjs dan melewati yang berkasnya ada.
+    // Kalau semua adegan sudah punya berkas, perintah itu selesai tanpa
+    // menghasilkan apa pun, dan pengulangan foto tetap terjadi. Yang kurang
+    // bukan eksekusinya, melainkan definisi adegannya. Urutan yang benar
+    // disebutkan lengkap supaya tidak ada yang mengira sudah menjalankan
+    // perbaikan padahal belum.
+    log('  pustaka kurang ' + terpaksaUlang + ' foto.');
+    log('  Tambah dulu adegan baru di scripts/adegan-foto.mjs pada kategori yang kurang,');
+    log('  BARU jalankan: node scripts/lengkapi-foto.mjs');
   }
   return artikel;
 }

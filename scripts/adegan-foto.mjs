@@ -39,6 +39,7 @@ export const ADEGAN = {
     ['mesin-antrean', 'Customer taking a paper queue ticket from a dispenser in a bank lobby'],
     ['bank-mikro-desa', 'Microfinance officer meeting village clients on a wooden porch, motorbike parked nearby'],
     ['kotak-deposit', 'Rows of safe deposit boxes in a bank vault room, one drawer partly open'],
+    ['atm-malam', 'Person using a cash machine inside a lit vestibule at night, photographed from outside through the glass, reflections on the pane'],
   ],
   'Moneter': [
     ['sidang-komisi-dpr', 'Parliamentary commission hearing room with legislators seated in tiers facing a witness table'],
@@ -52,6 +53,11 @@ export const ADEGAN = {
     ['wartawan-menunggu', 'Journalists with cameras and recorders waiting in a hallway before a briefing'],
     ['koin-logam', 'Close up of stacked Indonesian metal coins on a wooden surface, shallow focus'],
     ['layar-pasar-jauh', 'Large market data screens seen from far across a dim room, figures illegible, silhouettes of staff'],
+    ['antre-penukaran-valas', 'Customers waiting at a currency exchange counter photographed from behind at waist height, teller hands counting banknotes, rate board outside the frame'],
+    ['koridor-bank-sentral', 'Empty marble corridor inside a central bank building, tall columns, morning light falling in stripes across the polished floor'],
+    ['mesin-hitung-uang', 'Close up of a banknote counting machine in operation, cashier hands feeding a stack, blurred office behind'],
+    ['mobil-dinas-tiba', 'Black official sedan arriving under a government building portico, security officer opening the rear door, slight motion blur'],
+    ['bandara-delegasi', 'Officials in batik walking through an airport arrival corridor with aides carrying document cases, daylight from tall windows'],
   ],
   'Pasar Modal': [
     ['layar-indeks-jauh', 'Large market index display seen from a distance across a bright office atrium, figures unreadable'],
@@ -62,6 +68,10 @@ export const ADEGAN = {
     ['kelas-investor', 'Small investor education class, participants at tables facing an instructor'],
     ['papan-berjalan-kabur', 'Running ticker board photographed with motion blur so the figures are unreadable, people passing beneath'],
     ['mencatat-grafik', 'Hand drawing a rising line chart on paper with a pen, calculator beside it'],
+    ['lonceng-pembukaan', 'Ceremonial opening bell on a podium at a stock exchange, photographed from the side, small crowd applauding behind, brass bell in sharp focus'],
+    ['analis-telepon-malam', 'Financial analyst on a phone call late at night in a dim office, desk lamp lighting stacks of printed reports'],
+    ['ruang-rapat-kaca-bursa', 'Empty glass walled meeting room inside an exchange building, chairs pushed in, city skyline through the window'],
+    ['sekuritas-lobi-pagi', 'Morning arrivals at a securities firm lobby, employees passing a turnstile, warm backlight from the entrance'],
   ],
   'Makroekonomi': [
     ['pedagang-bawang', 'Market trader arranging red onions and garlic in baskets at a wholesale stall'],
@@ -74,6 +84,7 @@ export const ADEGAN = {
     ['panen-sawah', 'Farmers harvesting rice in a paddy field, mountains in the far background, morning haze'],
     ['gudang-beras', 'Workers stacking sacks of rice in a large warehouse, forklift in the background'],
     ['konstruksi-perumahan', 'Housing construction site with brick walls going up and workers on scaffolding'],
+    ['keranjang-belanja-ibu', 'Woman carrying a woven basket of groceries through a crowded wet market aisle, morning light filtering through plastic roofing'],
   ],
   'Energi': [
     ['pipa-distribusi-gas', 'Industrial gas pipeline running through a facility with valves and gauges'],
@@ -85,6 +96,8 @@ export const ADEGAN = {
     ['rig-lepas-pantai', 'Offshore oil platform on a calm sea photographed from a supply boat'],
     ['depot-bbm-malam', 'Fuel storage depot at night with floodlights and pipework'],
     ['teknisi-turbin', 'Technician in a hard hat inspecting a large industrial turbine indoors'],
+    ['panel-surya-ladang', 'Rows of solar panels across an open field under bright sky, a technician walking between them'],
+    ['tabung-lpg-tumpuk', 'Stacked cooking gas cylinders at a distribution depot, a worker rolling one across the concrete yard'],
   ],
   'UMKM': [
     ['pengrajin-rotan', 'Craftsman weaving rattan furniture in a small open workshop'],
@@ -99,6 +112,9 @@ export const ADEGAN = {
     ['gardu-listrik', 'Electrical substation with transformers and insulators, technician walking past'],
     ['kereta-stasiun', 'Commuter train arriving at an Indonesian station platform, passengers waiting behind the line'],
     ['terminal-bandara', 'Airport terminal interior with travellers walking, large windows and daylight'],
+    ['galangan-kapal', 'Shipyard dry dock with a vessel hull under maintenance, workers on scaffolding, welding sparks'],
+    ['truk-logistik-gudang', 'Row of logistics trucks backed into a distribution warehouse loading bay at dawn'],
+    ['petugas-lapangan-rompi', 'State utility field crew in safety vests inspecting roadside equipment, service van parked behind'],
   ],
   'Teknologi': [
     ['menara-bts', 'Telecommunication tower against a clear sky with a technician climbing the ladder'],
@@ -106,13 +122,22 @@ export const ADEGAN = {
     ['kabel-jaringan', 'Neatly bundled network cables in a rack, hands connecting one patch cord'],
     ['lorong-server', 'Narrow aisle between server racks in a data centre, blue indicator lights'],
     ['pengembang-koding', 'Software developer working at a desk with a mechanical keyboard, screen turned away from camera'],
+    ['pemasangan-fiber', 'Crew pulling fibre optic cable into a street duct, orange cones around the open pit, utility van behind'],
   ],
   'Industri': [
     ['gudang-bahan-baku', 'Warehouse of raw material sacks stacked high, worker with a pallet jack'],
     ['jalur-perakitan', 'Factory assembly line with workers in uniform and safety gear at their stations'],
+    ['mesin-tekstil', 'Textile mill machinery spinning yarn onto bobbins, an operator adjusting a spool, warm indoor light'],
   ],
   'Ketenagakerjaan': [
     ['pelatihan-vokasi', 'Vocational training class with students at workbenches and an instructor guiding'],
     ['wawancara-kerja', 'Job interview across a small table, applicant holding a folder'],
+    ['bursa-kerja-antre', 'Job seekers queueing at a recruitment fair booth holding document folders, indoor hall, banners far out of focus'],
+  ],
+  // Kategori Bisnis sebelumnya tidak punya adegan sendiri sama sekali, jadi
+  // artikelnya meminjam foto kategori lain dan ikut memperparah pengulangan.
+  'Bisnis': [
+    ['kemasan-produk-gudang', 'Workers packing finished consumer goods into cartons in a small warehouse, tape dispenser in hand'],
+    ['negosiasi-dagang-meja', 'Two business people in discussion across a cafe table with product samples between them, city street visible outside'],
   ],
 };

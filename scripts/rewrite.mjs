@@ -67,6 +67,69 @@ const GAYA = [
   '- Tulis angka besar dengan format Indonesia: Rp1,5 triliun, 7,2 persen.',
 ].join('\n');
 
+// ---------- Signal Harian ----------
+// Merangkai SELURUH berita satu hari jadi satu benang arah kebijakan. Ini yang
+// tidak bisa dilihat dari satu berita saja, dan jadi alasan orang berlangganan.
+export async function tulisHarian(artikel, tanggalLabel) {
+  const system = [
+    'Kamu redaktur pelaksana The Signal, portal berita ekonomi Indonesia.',
+    '',
+    PENGAMAN,
+    '',
+    'TUGAS: tulis "Signal Harian" untuk ' + tanggalLabel + '.',
+    'Ini BUKAN ringkasan berita satu per satu. Pembaca sudah bisa membaca',
+    'beritanya sendiri. Nilai tulisan ini ada pada BENANG yang menghubungkan',
+    'peristiwa-peristiwa itu, yang tidak kelihatan kalau dibaca terpisah.',
+    '',
+    'Cara kerjanya:',
+    '1. Cari 2 sampai 3 BENANG yang menyambungkan beberapa berita sekaligus.',
+    '   Benang bisa berupa satu arah kebijakan, satu tekanan yang muncul di',
+    '   beberapa sektor, atau satu pola yang berulang. Tiap benang WAJIB',
+    '   bersandar pada minimal dua berita dan menyebut angkanya.',
+    '2. Untuk tiap benang, simpulkan KE MANA arahnya bergerak, lalu sebut satu',
+    '   hal konkret yang akan menguatkan atau mematahkan pembacaan itu.',
+    '3. Peristiwa yang berdiri sendiri dan tidak menyambung ke apa pun,',
+    '   TINGGALKAN. Lebih baik dua benang kuat daripada empat yang dipaksakan.',
+    '',
+    'BATAS TEGAS, sama seperti catatan redaksi:',
+    '- Kamu MEMBACA ARAH, bukan MENILAI BENAR-SALAH. Dilarang menyatakan',
+    '  kebijakan tepat, keliru, atau gagal. Dilarang menilai tokoh dan partai.',
+    '- Dilarang mengarang angka atau peristiwa yang tidak ada di DATA.',
+    '- Dilarang memberi saran investasi atau menebak arah harga saham.',
+    '- Kalau berita hari itu benar-benar tidak menyambung satu sama lain,',
+    '  set "layak": false. Memaksakan benang yang tidak ada lebih merusak',
+    '  daripada tidak terbit.',
+    '',
+    GAYA,
+    '',
+    'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
+    '{',
+    '  "layak": boolean,',
+    '  "judul": string,        // maks 70 karakter, sebut benang utamanya',
+    '  "ringkas": string,      // 1-2 kalimat pembuka, inti hari itu',
+    '  "benang": [             // 2-3 benang',
+    '    { "judul": string,    // maks 60 karakter',
+    '      "isi": string }     // 3-5 kalimat: apa yang menyambung, angkanya,',
+    '                          // ke mana arahnya, apa yang memastikannya',
+    '  ],',
+    '  "penutup": string       // 1-2 kalimat, apa yang paling menentukan besok',
+    '}',
+  ].join('\n');
+
+  const daftar = artikel.map((a, i) =>
+    (i + 1) + '. [' + (a.sourceLabel || 'tvOne') + '] ' + String(a.title).replace(/[\[\]]/g, '') +
+    '\n   ' + (a.deck || '') +
+    (a.takeaway ? '\n   catatan: ' + a.takeaway.slice(0, 320) : '')
+  ).join('\n\n');
+
+  const hasil = ambilJSON(await tanya(system, '<<<DATA>>>\n' + daftar + '\n<<<AKHIR_DATA>>>'));
+  if (!hasil.layak || !Array.isArray(hasil.benang) || !hasil.benang.length) return null;
+  hasil.benang = hasil.benang.slice(0, 3);
+  return hasil;
+}
+
+export { PENGAMAN, GAYA, tanya, ambilJSON };
+
 // ---------- 1. Rangkum satu artikel ----------
 export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
   const system = [

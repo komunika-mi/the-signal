@@ -178,6 +178,7 @@ ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + 
   <header class="masthead">
     <div class="rail">
       <nav class="masthead-nav">
+        <a class="nav-link" href="/signal-harian.html">Signal Harian</a>
         <a class="nav-link" href="/berita.html">Semua Berita</a>
         <a class="nav-link" href="/berita.html#kat=makroekonomi">Makro</a>
         <a class="nav-link" href="/berita.html#kat=pasar-modal">Pasar Modal</a>
@@ -395,6 +396,56 @@ VIDEOS.forEach(function (v) {
   fs.writeFileSync(ROOT + '/tayangan/' + v.id + '.html', html, 'utf8');
 });
 
+// ---------- Signal Harian ----------
+// Produk inti The Signal: satu tulisan yang merangkai berita sehari jadi
+// benang arah kebijakan. Untuk sekarang terbuka, tidak dipagari.
+function muatHarian() {
+  const p = path.join(ROOT, 'assets/js/harian.js');
+  if (!fs.existsSync(p)) return null;
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
+}
+const HARIAN = muatHarian();
+
+if (HARIAN) {
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Signal Harian</span>` +
+    `<h1 class="harian-judul">${esc(HARIAN.judul)}</h1>` +
+    `<p class="harian-tanggal num">${esc(HARIAN.tanggalLabel)} &middot; dirangkai dari ${HARIAN.jumlahBahan} berita</p>` +
+    `<p class="harian-ringkas">${esc(HARIAN.ringkas)}</p>` +
+    `</div>` +
+    `<div class="harian-benang">` +
+    HARIAN.benang.map((b, i) =>
+      `<article class="benang"><span class="benang-num num">${String(i + 1).padStart(2, '0')}</span>` +
+      `<div><h2>${esc(b.judul)}</h2><p>${esc(b.isi)}</p></div></article>`).join('') +
+    `</div>` +
+    (HARIAN.penutup ? `<p class="harian-penutup">${esc(HARIAN.penutup)}</p>` : '') +
+    `<div class="article-source-box" style="max-width:70ch;"><p>Signal Harian disusun redaksi The Signal ` +
+    `dari seluruh berita yang terbit hari itu. Isinya pembacaan arah, bukan penilaian benar atau salah ` +
+    `atas kebijakan, dan bukan rekomendasi investasi.</p>` +
+    `<a href="/berita.html">Baca berita hari ini &rarr;</a></div>` +
+    `</section>`;
+
+  fs.writeFileSync(path.join(ROOT, 'signal-harian.html'),
+    head({
+      title: 'Signal Harian: ' + plain(HARIAN.judul),
+      desc: HARIAN.ringkas,
+      url: '/signal-harian.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+      ogType: 'article',
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
+        headline: plain(HARIAN.judul), datePublished: HARIAN.dibuat,
+        publisher: { '@type': 'Organization', name: 'The Signal' },
+      },
+    }) + isi + FOOT, 'utf8');
+  console.log('signal harian: ' + HARIAN.tanggal);
+}
+
 // ---------- bersihkan halaman yatim ----------
 // Artikel lama yang sudah terdorong keluar dari arsip menyisakan file HTML.
 // Tanpa ini, file-file itu menumpuk selamanya dan masih bisa diakses publik
@@ -473,7 +524,7 @@ function periksaHalamanRoot() {
 periksaHalamanRoot();
 
 // ---------- sitemap ----------
-const urls = ['/', '/berita.html', '/video.html']
+const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html']
   .concat(ARTICLES.map(articleUrl))
   .concat(VIDEOS.map(videoUrl));
 fs.writeFileSync(ROOT + '/sitemap.xml',

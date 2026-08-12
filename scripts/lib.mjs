@@ -77,8 +77,23 @@ export async function ambilIDX(url, { percobaan = 5 } = {}) {
     if (i > 0) { panaskanSesi(); await new Promise(r => setTimeout(r, 2000 * i)); }
     try {
       const teks = curlMentah(url);
-      if (teks && teks.trimStart().startsWith('{')) return JSON.parse(teks);
-      terakhir = 'dibalas HTML, bukan JSON';
+      if (teks && teks.trimStart().startsWith('{')) {
+        const j = JSON.parse(teks);
+        // Balasan JSON yang sah belum tentu payload IDX. Cloudflare dan gateway
+        // di depannya kadang menjawab dengan JSON kesalahan yang tetap lolos
+        // pemeriksaan "diawali kurung kurawal". Dulu balasan seperti itu
+        // diteruskan apa adanya, lalu `j.Replies || []` mengubahnya jadi nol
+        // laporan, dan pipeline melaporkan "tidak ada aksi korporasi baru yang
+        // layak diberitakan" dengan status hijau. Terjadi tiga putaran beruntun
+        // pada 12 Agustus 2026: situs diam tiga kali tanpa satu pun tanda bahaya,
+        // padahal API-nya sendiri sehat dan punya 215 laporan menunggu.
+        // Tidak adanya Replies harus dihitung gagal supaya percobaan berikutnya
+        // jalan dan, kalau tetap gagal, errornya terlihat.
+        if (Array.isArray(j.Replies)) return j;
+        terakhir = 'JSON tanpa daftar Replies';
+      } else {
+        terakhir = 'dibalas HTML, bukan JSON';
+      }
     } catch (e) {
       terakhir = e.message.slice(0, 80);
     }

@@ -125,7 +125,14 @@
   // berlangganan" padahal emailnya tidak dikirim ke mana pun dan lenyap saat
   // halaman ditutup. Pengunjung menunggu email yang tidak akan pernah datang.
   // Jangan pernah menyalakan form sebelum penerimanya benar-benar ada.
-  TS.BUTTONDOWN = '';
+  //
+  // Aktif sejak 12 Agustus 2026. Penerimanya akun Buttondown "komunika media",
+  // halaman publiknya https://buttondown.com/komunika. Pendaftar wajib menekan
+  // tautan konfirmasi di email sebelum benar-benar terdaftar. Situs ini sendiri
+  // tidak menampilkan pesan sukses apa pun: formulirnya dikirim ke jendela
+  // terpisah dan halaman Buttondown yang mengabarkan hasilnya, sehingga tidak
+  // mungkin lagi mengaku berhasil padahal server belum menjawab.
+  TS.BUTTONDOWN = 'komunika';
 
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');
@@ -155,8 +162,10 @@
       '<input type="hidden" name="embed" value="1">' +
       '<button class="btn-modal-submit" type="submit">Daftar gratis</button>' +
       '</form>' +
-      '<p class="modal-privasi">Email kamu dikelola lewat Buttondown dan hanya dipakai ' +
-      'untuk mengirim Signal Harian. Bisa berhenti kapan saja lewat tautan di tiap email.</p>';
+      '<p class="modal-privasi">Setelah mendaftar, kami kirim satu email berisi tautan ' +
+      'konfirmasi. Langganan baru aktif kalau tautan itu kamu klik. Email kamu dikelola ' +
+      'lewat Buttondown dan hanya dipakai untuk mengirim Signal Harian. Bisa berhenti ' +
+      'kapan saja lewat tautan di tiap email.</p>';
   };
 
 })();

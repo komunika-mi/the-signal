@@ -290,9 +290,14 @@ img { max-width: 100%; display: block; }
 .modal-close:hover { border-color: var(--ink); }
 .modal h3 { font-family: var(--serif); font-size: 1.4rem; font-weight: 600; margin-bottom: .5rem; }
 .modal p { font-size: 13.5px; color: var(--ink-soft); line-height: 1.55; margin-bottom: 1.2rem; }
-/* Modal Signal+ tidak lagi punya formulir. Aturan .modal input, .modal form,
-   dan .modal-success sengaja dihapus, bukan disisakan mati, supaya tidak ada
-   yang mengira formulirnya cuma disembunyikan sementara. */
+/* Formulir langganan disuntik shared.js, hanya kalau TS.BUTTONDOWN terisi.
+   Markupnya tidak pernah ada di HTML, jadi aturan di bawah ini mati sendiri
+   ketika pendaftaran dimatikan lagi. */
+.modal .form-langganan { display: grid; gap: .55rem; margin-bottom: .9rem; }
+.modal .form-langganan input[type="email"] { width: 100%; font: inherit; font-size: 13.5px; color: var(--ink); background: var(--page); border: 1px solid var(--line); border-radius: 999px; padding: 11px 15px; }
+.modal .form-langganan input[type="email"]::placeholder { color: var(--ink-soft); }
+.modal .form-langganan input[type="email"]:focus { outline: none; border-color: var(--ink); }
+.modal .modal-privasi { font-size: 11.5px; line-height: 1.5; margin-bottom: 0; }
 .modal .btn-modal-submit { display: block; text-align: center; text-decoration: none; background: var(--ink); color: var(--page); border: none; border-radius: 999px; padding: 11px 14px; font-size: 13.5px; font-weight: 700; cursor: pointer; }
 .modal .btn-modal-submit:hover { background: var(--red-deep); }
 

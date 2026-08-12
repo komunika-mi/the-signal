@@ -252,11 +252,13 @@ const FOOT = `
     <button class="modal-close" type="button" id="modal-close" aria-label="Tutup">
       <svg width="13" height="13" viewBox="0 0 16 16"><path d="M2 2l12 12M14 2 2 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
     </button>
-    <h3>Signal+ belum dibuka</h3>
-    <p>Ringkasan ekonomi pagi lewat email masih kami siapkan. Pendaftarannya belum
-      dibuka, jadi belum ada alamat email yang bisa kami terima. Kami umumkan di
-      halaman depan begitu siap.</p>
-    <a class="btn-modal-submit" href="/berita.html">Baca berita hari ini</a>
+    <div id="modal-isi">
+      <h3>Signal+ belum dibuka</h3>
+      <p>Ringkasan ekonomi pagi lewat email masih kami siapkan. Pendaftarannya belum
+        dibuka, jadi belum ada alamat email yang bisa kami terima. Kami umumkan di
+        halaman depan begitu siap.</p>
+      <a class="btn-modal-submit" href="/berita.html">Baca berita hari ini</a>
+    </div>
   </div>
 </div>
 

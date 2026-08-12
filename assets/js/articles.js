@@ -1,7 +1,234 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
+// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
+// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
+ {
+  "slug": "pajak-e-commerce-berpeluang-tertunda-lagi-hingga-oktober",
+  "category": "Makroekonomi",
+  "title": "Pajak E-Commerce Berpeluang [Tertunda] Lagi hingga Oktober",
+  "deck": "Purbaya sebut penerapan pajak marketplace yang sedianya mulai 1 Agustus 2026 masih bisa mundur lagi hingga Oktober, menunggu kondisi daya beli masyarakat membaik.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T20:40:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459488-pajak-e-commerce-belum-pasti-jalan-november-purbaya-soroti-kondisi-ekonomi-dan-daya-beli",
+  "tags": [
+   "pajak e-commerce",
+   "PPh 22",
+   "Purbaya Yudhi Sadewa",
+   "daya beli"
+  ],
+  "body": [
+   "Pemerintah kembali membuka kemungkinan menunda pemberlakuan pajak untuk transaksi jual beli di platform marketplace. Menteri Keuangan Purbaya Yudhi Sadewa mengatakan keputusan final soal kapan pungutan ini benar-benar mulai berjalan akan bergantung pada kondisi ekonomi dan kemampuan masyarakat untuk berbelanja ke depan. Bagi para pedagang online, ini berarti belum ada kepastian kapan mereka harus mulai dipotong pajak tambahan dari setiap transaksi yang terjadi di lapak mereka.",
+   "Aturan ini sebetulnya sudah dijadwalkan berlaku sejak 1 Agustus 2026, dalam bentuk pemungutan Pajak Penghasilan Pasal 22, yaitu pajak yang langsung dipotong oleh platform marketplace setiap kali ada transaksi jual beli. Namun pemerintah lebih dulu menunda penerapannya pada 5 Agustus 2026, dan menurut Purbaya, penundaan itu kini diperpanjang sampai sekitar Oktober, dengan kemungkinan mundur lagi kalau keadaan ekonomi dinilai belum mendukung.",
+   "Purbaya beralasan penundaan ini memberi waktu bagi masyarakat untuk menaikkan pendapatan lebih dulu, supaya saat pajak benar-benar diterapkan, kemampuan belanja masyarakat sudah cukup kuat untuk menanggungnya. Sebagai gambaran kondisi terkini, ekonomi Indonesia tumbuh 5,29 persen secara tahunan pada kuartal II 2026, sementara pemerintah menargetkan pertumbuhan bisa terkerek sampai 6 persen pada akhir tahun."
+  ],
+  "fotoAdegan": "Courier riders sorting stacked parcel boxes at a busy urban delivery hub early in the morning, motorbikes lined up.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62d442a93f1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Pajak transaksi marketplace yang semula mulai berlaku 1 Agustus 2026 sudah diundur sekali pada 5 Agustus, dan kini disebut mundur lagi setidaknya sampai Oktober, tanpa jadwal pasti kapan benar-benar jalan. Yang langsung kena dampak adalah pedagang online, termasuk banyak pelaku UMKM yang mengandalkan marketplace, karena merekalah yang akan dipotong pajak setiap kali transaksi terjadi. Pola penundaan berulang ini menunjukkan pemerintah memilih menautkan jadwal pajak ke kondisi daya beli masyarakat, bukan menetapkan tanggal yang tetap, sehingga kebijakan ini bergerak ke arah tertunda selama ekonomi dianggap belum cukup kuat, ketimbang menuju kepastian jadwal baru. Yang akan menentukan apakah Oktober benar-benar jadi batas akhir atau kembali mundur adalah angka pertumbuhan ekonomi kuartal III 2026 dan seberapa dekat angka itu dengan target 6 persen yang dipatok pemerintah."
+ },
+ {
+  "slug": "bright-gas-diskon-hingga-rp8-100-sambut-kemerdekaan",
+  "category": "Energi",
+  "title": "Bright Gas [Diskon] hingga Rp8.100 Sambut Kemerdekaan",
+  "deck": "Pertamina Patra Niaga potong harga isi ulang Bright Gas 5,5 kg dan 12 kg hingga Rp8.100 per tabung, berlaku 15-23 Agustus 2026.",
+  "image": "assets/img/tabung-lpg.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T20:27:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459500-sambut-hari-kemerdekaan-bright-gas-diskon-hingga-rp8100-per-tabung-hingga-akhir-agustus",
+  "tags": [
+   "Bright Gas",
+   "Pertamina Patra Niaga",
+   "LPG",
+   "promo"
+  ],
+  "body": [
+   "Pertamina Patra Niaga memberikan potongan harga untuk isi ulang Bright Gas menjelang peringatan Hari Kemerdekaan RI. Lewat program bertajuk Semarak Merdeka MyPertamina, diskon ini berlaku selama sembilan hari, mulai 15 hingga 23 Agustus 2026, dan menyasar pelanggan gas elpiji non-subsidi kemasan 5,5 kilogram dan 12 kilogram.",
+   "Besaran potongannya berbeda menurut ukuran tabung. Refill Bright Gas 5,5 kilogram mendapat potongan Rp4.050 per tabung, sementara ukuran 12 kilogram dipotong Rp8.100 per tabung. Promo ini bisa dinikmati lewat pembelian langsung di gerai Bright Store maupun pemesanan daring melalui aplikasi dan situs Klik Indomaret, dengan semua metode pembayaran tunai maupun nontunai, dan tanpa syarat jumlah pembelian minimum.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyebut promo ini sebagai bentuk apresiasi kepada pelanggan sekaligus ajang memperkenalkan Bright Gas sebagai produk elpiji yang mengutamakan keamanan dan kenyamanan bagi kebutuhan rumah tangga. Perusahaan menegaskan diskon ini tidak dapat digabungkan dengan program potongan harga lain yang sedang berjalan."
+  ],
+  "fotoAdegan": "A delivery worker rolling a small gas cylinder on a hand cart outside a neighborhood store, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/16/68a07926342e0-promo-bright-gas-dari-pertamina-patra-niaga_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Diskonnya konkret: Rp4.050 per tabung untuk Bright Gas 5,5 kilogram dan Rp8.100 untuk yang 12 kilogram, berlaku sembilan hari mulai 15 Agustus, khusus untuk isi ulang alias refill, bukan pembelian tabung baru, dan tanpa syarat belanja minimum. Karena syaratnya refill, promo ini menyasar pelanggan Bright Gas yang sudah punya tabung, bukan orang yang baru mau beralih dari elpiji 3 kilogram bersubsidi ke gas non-subsidi ini. Pola diskon berbatas waktu yang dikaitkan dengan hari besar nasional seperti ini lazim dipakai untuk mendongkrak penjualan sesaat, bukan mengubah harga secara permanen. Yang akan menunjukkan apakah ini sekadar promo musiman atau bagian dari strategi harga yang lebih panjang adalah apa yang terjadi pada harga Bright Gas begitu periode promo berakhir pada 23 Agustus."
+ },
+ {
+  "slug": "inflasi-as-melandai-peluang-kenaikan-bunga-fed-menipis",
+  "category": "Global",
+  "title": "Inflasi AS [Melandai], Peluang Kenaikan Bunga Fed Menipis",
+  "deck": "CPI AS Juli naik tipis 0,1 persen sesuai perkiraan, membuat pasar memangkas peluang kenaikan suku bunga The Fed pada September.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T20:10:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459484-cpi-as-juli-melandai-peluang-kenaikan-suku-bunga-the-fed-september-makin-tertekan",
+  "tags": [
+   "CPI AS",
+   "The Fed",
+   "inflasi",
+   "suku bunga"
+  ],
+  "body": [
+   "Data inflasi Amerika Serikat untuk Juli 2026 menunjukkan tekanan harga mulai mereda. Indeks Harga Konsumen atau CPI naik tipis 0,1 persen dibanding bulan sebelumnya, sesuai dengan perkiraan pasar. Perlambatan ini penting karena mengurangi tekanan bagi The Fed untuk menaikkan suku bunga acuan dalam waktu dekat, sesuatu yang selama ini menjadi kekhawatiran pelaku pasar.",
+   "Di luar komponen makanan dan energi yang harganya cenderung naik turun tajam, inflasi inti atau core CPI naik 0,2 persen pada Juli. Secara tahunan, CPI berada di level 3,4 persen dan core CPI di 2,5 persen, keduanya sesuai konsensus para ekonom yang disurvei Dow Jones. Meski melandai, angka ini masih di atas target inflasi The Fed sebesar 2 persen, sehingga bank sentral AS belum bisa sepenuhnya tenang.",
+   "Pasar merespons cepat begitu data ini dirilis. Kontrak berjangka saham AS bergerak menguat, sementara imbal hasil surat utang pemerintah AS melemah, tanda investor menilai risiko kenaikan suku bunga semakin kecil. Berdasarkan indikator FedWatch milik CME Group, peluang The Fed menaikkan suku bunga pada pertemuan September turun menjadi 42 persen.",
+   "Salah satu penahan laju inflasi adalah harga energi, yang turun 1,5 persen pada Juli setelah anjlok 5,7 persen pada Juni. Namun secara tahunan, harga energi masih naik 14,7 persen akibat lonjakan pada bulan-bulan sebelumnya, dan pergerakannya tetap rentan terhadap perkembangan situasi di Timur Tengah."
+  ],
+  "fotoAdegan": "Container ships and cranes at a busy Indonesian port at sunrise, workers coordinating cargo loading operations",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/10/08/6704ec741d63d-the-fed-diprediksi-turunkan-suku-bunga-lagi-berikut-dampaknya-di-pasar-kripto-dan-yang-harus-dilakukan-investor_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Setelah data inflasi Juli dirilis, peluang The Fed menaikkan suku bunga pada pertemuan September turun menjadi 42 persen, menurut penghitungan pasar futures suku bunga yang dipantau CME Group. Reaksi ini langsung terlihat di pasar keuangan AS, kontrak berjangka saham naik dan imbal hasil surat utang pemerintah AS turun, tanda investor bersedia menerima bunga lebih rendah karena merasa inflasi mulai terkendali. Kenaikan CPI yang hanya 0,1 persen ini melanjutkan pola Juni yang juga moderat, jadi datanya mengarah ke pelambatan inflasi yang bertahap, bukan lonjakan atau penurunan tiba-tiba. Yang masih jadi ganjalan adalah harga energi, yang meski turun 1,5 persen dalam sebulan, secara tahunan masih naik 14,7 persen dan disebut sensitif terhadap situasi di Timur Tengah, sehingga arah pelambatan ini baru akan lebih terkonfirmasi lewat data inflasi Agustus dan keputusan The Fed pada pertemuan September."
+ },
+ {
+  "slug": "kenapa-desil-9-10-jadi-penentu-beli-pertalite",
+  "category": "Energi",
+  "title": "Kenapa [Desil] 9-10 Jadi Penentu Beli Pertalite?",
+  "deck": "Pemerintah mengkaji pembatasan pembelian Pertalite bagi rumah tangga desil 9-10, kelompok kesejahteraan tertinggi dalam data pemerintah.",
+  "image": "assets/img/spbu-bbm.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T19:56:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459483-desil-1-10-jadi-penentu-beli-pertalite-ini-arti-perbedaan-dan-cara-ceknya",
+  "tags": [
+   "desil",
+   "Pertalite",
+   "subsidi BBM",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah tengah mematangkan rencana membatasi pembelian Pertalite bagi rumah tangga yang masuk kelompok desil 9 dan 10. Rencana ini membuat istilah desil, yang selama ini lebih dikenal dalam urusan bantuan sosial, kini ikut menentukan siapa yang masih boleh membeli BBM bersubsidi itu.",
+   "Desil adalah cara pemerintah mengurutkan seluruh rumah tangga menjadi sepuluh kelompok berdasarkan tingkat kesejahteraan, dari yang paling rendah di desil 1 sampai paling tinggi di desil 10. Urutan ini dipakai sebagai alat bantu untuk menentukan siapa yang berhak menerima berbagai program pemerintah, termasuk kini soal subsidi energi.",
+   "Penting dicatat, masuk desil tertentu bukan berarti otomatis mendapat atau kehilangan bantuan, karena desil hanya salah satu alat pemetaan, bukan keputusan final. Dua keluarga yang sama-sama berada di satu desil pun belum tentu punya kondisi hidup yang identik, dan posisi desil seseorang bisa berubah setiap kali data sosial-ekonomi pemerintah diperbarui.",
+   "Kementerian Keuangan dan Kementerian ESDM masih mengkaji mekanisme teknis pembatasan ini. Menteri Keuangan Purbaya Yudhi Sadewa menyebut pembatasan subsidi Pertalite kemungkinan dilakukan bertahap, menyasar kelompok dengan tingkat pengeluaran tinggi terlebih dahulu."
+  ],
+  "fotoAdegan": "A gas station attendant filling a motorcycle fuel tank at a busy Indonesian filling station in late afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ccdf89706f-ilustrasi-petugas-melayani-pengisian-bahan-bakar-minyak-bbm_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan harga Pertalite, melainkan siapa yang boleh membelinya dengan harga subsidi, yaitu rumah tangga di desil 9 dan 10, dua kelompok dengan tingkat pengeluaran tertinggi menurut data kesejahteraan pemerintah. Kalau mekanismenya jadi berjalan, yang paling merasakan dampak adalah rumah tangga di kelompok itu, yang selama ini terbiasa mengisi Pertalite tapi kini bisa diarahkan ke BBM nonsubsidi. Pernyataan Menkeu Purbaya bahwa pembatasan dilakukan bertahap, bukan langsung menyeluruh, menunjukkan arah kebijakan ini condong ke penyaringan penerima subsidi secara berjenjang berdasarkan data, bukan pencabutan subsidi Pertalite sekaligus. Yang akan memastikan arah ini adalah mekanisme teknis final dari Kemenkeu dan ESDM, yang menurut berita ini masih dalam tahap kajian dan belum diumumkan."
+ },
+ {
+  "slug": "pertalite-bakal-dibatasi-untuk-desil-9-10",
+  "category": "Energi",
+  "title": "Pertalite Bakal [Dibatasi] untuk Desil 9-10",
+  "deck": "Pemerintah menyiapkan aturan agar rumah tangga dengan pengeluaran tertinggi tak lagi bisa membeli Pertalite dan diarahkan ke Pertamax mulai akhir 2026.",
+  "image": "assets/img/truk-tangki-bbm.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T19:43:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459480-desil-9-10-bakal-tak-bisa-beli-pertalite-ini-batas-pengeluaran-dan-aturan-barunya",
+  "tags": [
+   "pertalite",
+   "subsidi bbm",
+   "desil",
+   "pertamax"
+  ],
+  "body": [
+   "Pemerintah sedang menyusun aturan yang akan menutup akses rumah tangga paling mampu terhadap Pertalite, BBM bersubsidi yang selama ini bisa dibeli siapa saja. Kelompok yang disasar adalah desil 9 dan 10, yaitu rumah tangga dengan pengeluaran per kapita paling tinggi dalam pengelompokan ekonomi pemerintah. Kalau aturan ini jadi berlaku, mereka harus pindah ke BBM nonsubsidi seperti Pertamax.",
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengatakan pembahasan ini dilakukan bersama Kementerian ESDM dan sifatnya bertahap, bukan langsung diberlakukan dalam waktu dekat. Ia menyebut penerapannya baru akan berjalan beberapa bulan ke depan, dengan target sebelum tahun 2027 atau paling lambat akhir 2026. Purbaya menegaskan skema ini masih dikaji dan belum final.",
+   "Salah satu mekanisme yang sedang dipertimbangkan adalah sistem otomatis di SPBU yang bisa mengenali dan menolak transaksi Pertalite dari konsumen yang teridentifikasi masuk desil 9 atau 10. Dengan begitu, pembatasan tidak lagi bergantung pada kejujuran pembeli, melainkan pada data pengeluaran rumah tangga yang sudah dipegang pemerintah.",
+   "Sebagai gambaran, pengelompokan desil ini membagi rumah tangga menjadi 10 tingkat berdasarkan pengeluaran per kapita per bulan, dari yang terendah hingga tertinggi. Desil 1 mencakup rumah tangga dengan pengeluaran di bawah Rp500 ribu per kapita per bulan, sementara desil 2 berada di kisaran Rp500 ribu hingga Rp700 ribu. Semakin tinggi angka desilnya, semakin besar pengeluaran rumah tangga tersebut, dan desil 9-10 berada di puncak kelompok ini."
+  ],
+  "fotoAdegan": "A gas station attendant filling a car fuel tank at a busy roadside station, daytime, signage blurred in background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Perubahan konkretnya ada di sisi teknis: sistem SPBU akan dibuat menolak otomatis transaksi Pertalite begitu data menunjukkan pembelinya masuk desil 9 atau 10, dua kelompok rumah tangga dengan pengeluaran per kapita tertinggi. Yang langsung terdampak adalah rumah tangga di kelompok itu, yang harus beralih ke Pertamax dengan harga nonsubsidi, sementara delapan desil di bawahnya untuk saat ini tidak disentuh aturan ini. Kata kunci dari Purbaya adalah 'bertahap', bukan langsung menyeluruh, jadi pola yang terlihat mengarah ke penyempitan sasaran subsidi Pertalite selangkah demi selangkah, bukan pencabutan sekaligus untuk semua desil menengah. Yang akan menentukan apakah pembacaan ini benar adalah aturan teknis final dari Kementerian Keuangan dan ESDM serta kepastian tanggal berlakunya, yang menurut rencana jatuh sebelum 2027."
+ },
+ {
+  "slug": "ptro-kantongi-kontrak-tambang-batu-bara-rp9-3-triliun",
+  "category": "Energi",
+  "title": "PTRO Kantongi [Kontrak] Tambang Batu Bara Rp9,3 Triliun",
+  "deck": "Petrosea meraih dua kontrak jasa tambang batu bara senilai Rp9,3 triliun dari anak usaha SINI di Kalimantan Tengah, berlaku sepanjang usia tambang.",
+  "image": "assets/img/pekerja-tambang-helm.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T19:39:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459478-ptro-kantongi-kontrak-tambang-rp93-triliun-garap-proyek-batu-bara-milik-anak-usaha-sini",
+  "tags": [
+   "PTRO",
+   "Petrosea",
+   "SINI",
+   "batu bara"
+  ],
+  "body": [
+   "PT Petrosea Tbk (PTRO) mengantongi dua kontrak jasa pertambangan batu bara baru dengan total estimasi nilai sekitar Rp9,3 triliun. Kontrak ini menambah portofolio kerja PTRO di sektor jasa tambang batu bara, salah satu lini bisnis utama perusahaan, sekaligus menandakan proyek tambang milik grup Singaraja Putra (SINI) mulai bergerak ke tahap operasional.",
+   "Kedua kontrak diteken pada 23 Juli 2026 dengan PT Pesona Bara Cakrawala (PBC) dan PT Cakrawala Bara Persada (CBP), dua anak usaha tidak langsung PT Singaraja Putra Tbk (SINI) yang memegang izin tambang di Kabupaten Kapuas, Kalimantan Tengah. PTRO akan berperan sebagai kontraktor yang mengerjakan pengupasan lapisan tanah penutup, pemecahan batuan, hingga penambangan batu baranya sendiri. Masa kerja kontrak mengikuti umur tambang, sehingga durasinya tidak dipatok dalam hitungan tahun tetap, melainkan berjalan selama cadangan batu bara di lokasi tersebut masih bisa ditambang.",
+   "Porsi terbesar datang dari proyek milik PBC, dengan nilai kontrak sekitar Rp7,7 triliun untuk mengerjakan pengupasan 189 juta BCM, satuan volume tanah dan batuan yang harus dipindahkan, serta produksi 42 juta ton batu bara. Nilai total Rp9,3 triliun tersebut dihitung berdasarkan harga acuan Indonesian Coal Index per 23 Juli 2026, sehingga besarannya bisa berubah mengikuti pergerakan harga batu bara ke depan. SINI sendiri memperkirakan proyek tambang PBC bisa menghasilkan pendapatan hingga US$2,6 miliar, atau sekitar Rp45,6 triliun, sepanjang masa kontraknya."
+  ],
+  "fotoAdegan": "Heavy excavator loading coal onto a haul truck in an open-pit mine under overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/23/69730e85cb806-saham-ptro-auto-reject-bawah-analis-tetap-optimistis-prospek-petrosea-ke-depan_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah PTRO menambah kontrak jasa tambang senilai Rp9,3 triliun, dengan porsi terbesar Rp7,7 triliun datang dari proyek milik PBC yang akan memproduksi 42 juta ton batu bara. Kontrak ini berdurasi seumur tambang, artinya PTRO akan terus mengerjakan proyek selama cadangan batu bara di lokasi itu masih ada, bukan untuk jangka waktu tetap seperti setahun atau dua tahun. Pihak yang terdampak langsung adalah PTRO sebagai penyedia jasa tambang, serta grup SINI selaku pemilik izin tambang di Kapuas, Kalimantan Tengah. Angka Rp9,3 triliun itu dihitung dari harga acuan batu bara pada 23 Juli 2026, sehingga pendapatan riil yang diterima PTRO nanti akan naik turun mengikuti harga batu bara selama proyek berjalan, bukan angka tetap yang langsung cair. Yang perlu dicermati berikutnya adalah laporan produksi dan pendapatan PTRO dari proyek ini, karena proyeksi pendapatan SINI sebesar Rp45,6 triliun sepanjang masa kontrak masih berupa perkiraan, bukan kepastian."
+ },
+ {
+  "slug": "purbaya-pajak-kontrakan-bukan-aturan-baru",
+  "category": "Makroekonomi",
+  "title": "Purbaya: Pajak Kontrakan [Bukan] Aturan Baru",
+  "deck": "Purbaya menegaskan tidak ada pajak khusus untuk kontrakan pada 2027, aturan pajak yang berlaku tetap sama seperti biasa.",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T18:18:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459457-purbaya-luruskan-isu-rumah-kontrakan-akan-kena-pajak-tahun-depan-kalau-ada-income-itu-kan-biasa",
+  "tags": [
+   "pajak",
+   "purbaya yudhi sadewa",
+   "rumah kontrakan",
+   "DJP"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa membantah kabar bahwa usaha sewa rumah kontrakan akan menjadi sasaran pajak baru mulai 2027. Ia menegaskan aturan yang berlaku tetap sama seperti sekarang, siapa pun yang punya penghasilan dari usaha, termasuk sewa kontrakan, memang wajib bayar pajak seperti biasa. Klarifikasi ini penting karena banyak pemilik kontrakan sempat khawatir akan kena pungutan baru yang selama ini tidak pernah mereka bayar.",
+   "Purbaya mengaku tidak pernah memerintahkan atau menerima perintah untuk menyasar khusus usaha kontrakan. Direktorat Jenderal Pajak lewat Direktur Penyuluhan, Pelayanan, dan Hubungan Masyarakat Inge Diana Rismawati juga sudah membantah lebih dulu pada 10 Agustus 2026, dengan menyebut isu itu berasal dari salah tafsir rencana program kerja DJP 2027 yang sebenarnya baru membahas parameter pelaksanaan, analisis risiko, dan kesiapan sistem.",
+   "Klarifikasi ini muncul di tengah rencana Kementerian Keuangan memperluas basis pajak pada 2027, sebagai bagian dari target menaikkan rasio penerimaan pajak terhadap Produk Domestik Bruto menjadi 10,16 sampai 10,5 persen tahun depan. Direktur Penyusunan APBN Rofyanto Kurniawan menyebut kebijakan fiskal ke depan akan menyasar sektor dan kelompok wajib pajak yang kontribusinya dinilai belum sesuai dengan potensi penerimaan yang sebenarnya."
+  ],
+  "fotoAdegan": "Rows of modest rental houses along a narrow residential alley in an Indonesian city, afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62cbf2338d5-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Purbaya dan DJP kompak membantah ada pajak baru untuk kontrakan, tapi keduanya tidak membantah bahwa pemerintah tetap mengejar target menaikkan rasio pajak terhadap ekonomi nasional, dari sekitar 10 persen menjadi 10,16 sampai 10,5 persen tahun depan. Rasio ini sederhananya membandingkan berapa banyak pajak yang masuk ke kas negara dengan total nilai ekonomi Indonesia, jadi kalau targetnya naik, pemerintah butuh sumber penerimaan tambahan dari suatu tempat. Kemenkeu sendiri sudah bilang sasarannya adalah sektor dan kelompok wajib pajak yang selama ini bayar lebih kecil dari yang seharusnya bisa mereka bayar, tapi belum menyebut sektor mana persis. Pemilik kontrakan untuk saat ini memang tidak disebut sebagai target khusus, namun arah kebijakannya tetap ke perluasan basis pajak, bukan pengurangan. Yang akan menunjukkan sektor mana yang benar-benar disasar adalah dokumen program kerja resmi DJP 2027 begitu diterbitkan."
+ },
+ {
+  "slug": "purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini",
+  "category": "Makroekonomi",
+  "title": "Purbaya: Untung [Danantara] Bakal Masuk APBN Tahun Ini",
+  "deck": "Menkeu Purbaya menyebut sebagian keuntungan Danantara akan disetor ke APBN tahun ini atas arahan Presiden Prabowo, meski mekanismenya belum final.",
+  "image": "assets/img/pasar-beras.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T17:34:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459447-purbaya-beberkan-soal-rencana-keuntungan-danantara-masuk-ke-apbn-bantah-kondisi-fiskal-tertekan",
+  "tags": [
+   "danantara",
+   "apbn",
+   "purbaya yudhi sadewa",
+   "fiskal"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengonfirmasi bahwa pemerintah berencana memasukkan sebagian keuntungan Danantara, lembaga pengelola investasi milik negara, ke dalam Anggaran Pendapatan dan Belanja Negara. Purbaya menyebut langkah ini merupakan arahan langsung Presiden Prabowo Subianto dan ditargetkan mulai berjalan tahun ini, meski bentuk serta mekanisme pelaksanaannya masih dibahas bersama Danantara. Bagi masyarakat, ini menyangkut dari mana pemerintah akan mendapat tambahan dana untuk membiayai anggaran negara ke depan.",
+   "Purbaya membantah anggapan bahwa penarikan keuntungan Danantara ini dilakukan karena kondisi keuangan pemerintah sedang tertekan. Ia mengklaim kas pemerintah di perbankan masih sekitar Rp400 triliun, jumlah yang menurutnya menunjukkan pemerintah masih punya ruang gerak keuangan yang longgar. Danantara sendiri mengelola sebagian aset dan investasi milik negara, sehingga keuntungannya berpotensi menjadi sumber pendapatan baru di luar pajak dan penerimaan negara bukan pajak yang selama ini jadi andalan.",
+   "Purbaya menyebut pemanfaatan keuntungan Danantara sebagai satu dari berbagai langkah pemerintah untuk meningkatkan efisiensi pendapatan negara, sambil menjaga agar anggaran tetap berkesinambungan dalam jangka panjang. Ia menegaskan pemerintah akan terus mencari berbagai sumber pendapatan tambahan, termasuk dari Danantara, di tengah tarik ulur antara kebutuhan belanja dan penerimaan negara yang menurutnya selalu jadi sorotan publik."
+  ],
+  "fotoAdegan": "Bank teller counter with staff processing transactions in a busy branch office, natural daylight, Jakarta.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/05/6a4a0addd9c9b-wisma-danantara_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah status keuntungan Danantara, dari sepenuhnya dikelola lembaga itu sendiri menjadi sebagian dialihkan ke APBN mulai tahun ini, meski besaran dan skema penyalurannya belum diumumkan. Pihak yang langsung terdampak adalah Danantara sebagai pengelola investasi negara dan APBN sebagai penerima dana tambahan, sementara publik luas terdampak secara tidak langsung lewat program yang dibiayai anggaran negara. Langkah ini menambah daftar upaya pemerintah mencari sumber pendapatan di luar pajak, sejalan dengan pernyataan Purbaya bahwa berbagai cara akan dimanfaatkan agar anggaran tetap berkesinambungan. Arahnya mengindikasikan pemerintah mulai mengandalkan aset dan investasi negara sebagai bantalan tambahan penerimaan, bukan hanya pajak. Yang akan memastikan seberapa besar peran ini adalah kesepakatan mekanisme antara Kementerian Keuangan dan Danantara yang menurut Purbaya masih dibahas."
+ },
+ {
+  "slug": "ihsg-melejit-1-69-persen-jelang-keputusan-msci",
+  "category": "Pasar Modal",
+  "title": "IHSG [Melejit] 1,69 Persen Jelang Keputusan MSCI",
+  "deck": "IHSG ditutup naik 1,69 persen ke 6.373,849 jelang pengumuman hasil peninjauan indeks MSCI Agustus 2026, dengan saham infrastruktur dan energi memimpin penguatan.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T17:14:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459443-ihsg-melejit-169-persen-jelang-pengumuman-msci-saham-infrastruktur-paling-cuan",
+  "tags": [
+   "IHSG",
+   "MSCI",
+   "Bursa Efek Indonesia",
+   "Saham Infrastruktur"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan ditutup melesat 1,69 persen pada perdagangan Rabu, tepat menjelang pengumuman hasil peninjauan berkala indeks MSCI untuk Agustus 2026. Kenaikan ini penting dicermati karena keputusan MSCI biasa memicu pergerakan dana asing dalam jumlah besar, sehingga pasar cenderung bergerak lebih dulu sebelum hasil resminya keluar.",
+   "IHSG ditutup di level 6.373,849, naik 105,969 poin dari penutupan sebelumnya, setelah sepanjang hari bergerak di kisaran 6.272,303 hingga 6.373,849 dari posisi pembukaan 6.277,763. Transaksi hari itu tergolong ramai dengan volume 34,41 miliar lembar saham senilai Rp17,378 triliun, dan mayoritas saham ikut menguat, yakni 452 saham naik berbanding 175 saham yang turun serta 168 saham stagnan.",
+   "Penguatan tidak merata di semua sektor. Infrastruktur mencatat kenaikan tertinggi sebesar 4,74 persen, disusul energi 3,35 persen dan industri dasar 2,34 persen, sementara dari 11 sektor hanya transportasi yang melemah, turun tipis 0,16 persen. Di jajaran saham penggerak indeks, DART, TMPO, CUAN, CSMI, dan DOOH tercatat sebagai top gainers hari ini."
+  ],
+  "fotoAdegan": "Busy stock exchange lobby in Jakarta with professionals walking past tall glass windows during midday, blurred motion, no readable signage.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f7cce47a526-pekerja-berjalan-di-samping-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Penguatan 1,69 persen ini terjadi tepat sebelum MSCI mengumumkan hasil peninjauan berkala indeksnya untuk Agustus 2026, dan kenaikannya tidak merata: sektor infrastruktur melonjak 4,74 persen dan energi 3,35 persen, jauh di atas kenaikan pasar secara umum. Pola seperti ini lazim terjadi menjelang pengumuman MSCI, sebab banyak dana investasi global mengikuti komposisi indeks itu secara otomatis, sehingga begitu ada dugaan saham tertentu akan dimasukkan, uang asing cenderung masuk lebih dulu sebelum keputusan resmi keluar. Pihak yang paling terdampak adalah investor dan emiten di sektor infrastruktur serta energi, karena merekalah yang paling diuntungkan bila spekulasi itu benar dan paling rawan terkoreksi bila meleset. Pergerakan hari ini lebih tepat dibaca sebagai posisi ancang-ancang pasar, bukan kepastian bahwa sektor tersebut akan masuk revisi, dan yang akan menegaskan arahnya adalah pengumuman resmi MSCI berikut reaksi pasar begitu hasilnya diumumkan."
+ },
  {
   "slug": "telkom-perkenalkan-aicosystem-di-dti-cx-2026",
   "category": "Teknologi",

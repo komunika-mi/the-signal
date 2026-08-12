@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3vzu4YBimyE",
+  "title": "Persaingan Warung, Minimarket, dan Toko Online",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi mengupas persaingan usaha antara warung kelontong, minimarket, dan toko online yang kian ketat seiring maraknya promosi dan diskon belanja daring.",
+  "takeaway": "Menarik bagi pembaca yang mengikuti pergeseran pola belanja masyarakat dan dampaknya terhadap pelaku usaha ritel kecil di Indonesia."
+ },
+ {
   "id": "wZTIOV7wn2I",
   "title": "Bahlil Jelaskan Rencana Pembatasan Pembelian Pertalite",
   "category": "Energi",
@@ -95,15 +103,6 @@ var VIDEOS = [
   "category": "Makroekonomi",
   "summary": "Presiden ke-6 RI Susilo Bambang Yudhoyono menyerukan kolaborasi lintas pihak untuk membangun struktur ekonomi baru. Pesannya menyentuh pentingnya kesinambungan kebijakan antarperiode pemerintahan.",
   "takeaway": "Kesinambungan kebijakan ekonomi lintas pemerintahan kerap disebut investor sebagai faktor yang menentukan iklim investasi jangka panjang.",
-  "featured": false
- },
- {
-  "id": "MPBASi93Yhk",
-  "title": "Cara Menkeu Purbaya Kembalikan Ekonomi dari Keterpurukan",
-  "program": "AKIP",
-  "category": "Moneter",
-  "summary": "Wawancara mendalam bersama Menteri Keuangan soal strategi memulihkan perekonomian. Pembahasan mencakup prioritas belanja, pengelolaan utang, dan koordinasi dengan otoritas moneter.",
-  "takeaway": "Koordinasi fiskal dan moneter menjadi penentu utama efektivitas pemulihan, terutama saat ruang penurunan suku bunga terbatas.",
   "featured": false
  }
 ];

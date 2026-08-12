@@ -34,6 +34,43 @@ export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 export function log(...a) { console.log('[' + new Date().toISOString().slice(11, 19) + ']', ...a); }
 
+// Cari foto utama sebuah halaman berita atau siaran pers.
+//
+// Foto asli JAUH lebih baik daripada ilustrasi AI: foto rapat Mendag dengan
+// Toyota adalah dokumentasi peristiwanya, sedangkan ilustrasi cuma mewakili
+// topiknya. Jadi kalau sumbernya menyediakan foto, itu yang dipakai, dan
+// ilustrasi AI turun jadi cadangan untuk sumber yang memang tidak berfoto
+// (IDX yang lampirannya PDF, Bank Indonesia, BPS).
+//
+// Survei 12 Agustus 2026: tvOneNews 5 dari 5 artikel berfoto, Kemendag 2 dari
+// 4, Bank Indonesia 0 dari 4, BPS 0 dari 3.
+const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|assets\/imgs\/(part|theme)|\/assets\/(img|images)\/(ui|bg)/i;
+
+export function cariFotoUtama(html, opsi = {}) {
+  const kandidat = [];
+
+  // og:image didahulukan HANYA kalau lolos saringan. Kemendag mengisinya
+  // dengan gambar profil situs (assets/imgs/part/about.png) yang sama untuk
+  // semua artikel, jadi memakainya buta berarti semua berita berfoto sama.
+  const og = html.match(/property=["']og:image["'][^>]*content=["']([^"']+)["']/i)
+    || html.match(/content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
+  if (og) kandidat.push(og[1]);
+
+  for (const m of html.matchAll(/(?:src|data-src|data-original)=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|webp))(?:\?[^"']*)?["']/gi)) {
+    kandidat.push(m[1]);
+  }
+
+  for (let u of kandidat) {
+    if (!u || BUKAN_FOTO.test(u)) continue;
+    // thumbs.tvonenews.com menyajikan beberapa ukuran lewat akhiran nama
+    // berkas. Yang tertanam di halaman cuma 412x232, terlalu kecil untuk
+    // kartu 680px, padahal versi 1200x675 tersedia di alamat yang sama.
+    u = u.replace(/_\d{2,4}_\d{2,4}(\.(?:jpg|jpeg|webp))$/i, '_1200_675$1');
+    return u;
+  }
+  return '';
+}
+
 export async function get(url, { timeout = 25000, headers = {} } = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeout);

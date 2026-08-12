@@ -56,6 +56,11 @@ export async function ambilIsiArtikel(item) {
     ringkasanResmi: ogd ? stripTags(ogd[1]) : '',
     isi: paragraf.join('\n\n').slice(0, 6000),
     jumlahParagraf: paragraf.length,
+    // Foto asli dari artikel sumber. Kalau ada, ini yang dipakai dan ilustrasi
+    // AI tidak perlu dibuat. Kreditnya wajib ikut, dan label "Ilustrasi AI"
+    // harus hilang di artikel yang memakainya.
+    fotoSumber: cariFotoUtama(html),
+    kreditFoto: 'tvOneNews',
   };
 }
 

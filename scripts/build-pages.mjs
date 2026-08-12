@@ -181,6 +181,24 @@ function kartuFakta(a) {
     '</aside>';
 }
 
+// Versi untuk halaman tayangan. Bentuknya sama supaya kedua jenis halaman
+// terasa satu keluarga, isinya menyesuaikan karena video tidak punya emiten,
+// sentimen, atau tanggal terbit yang tersimpan.
+function kartuFaktaVideo(v) {
+  const baris = [
+    ['Kanal', 'tvOneNews'],
+    ['Jenis', 'Tayangan video'],
+    ['Program', esc(v.program)],
+    ['Rubrik', '<a href="/berita.html#kat=' + catSlug(v.category) + '">' + esc(v.category) + '</a>'],
+  ];
+  return '<aside class="hero-fakta">' +
+    '<h4>Fakta Cepat</h4>' +
+    '<dl>' + baris.map(([k, x]) => '<dt>' + k + '</dt><dd>' + x + '</dd>').join('') + '</dl>' +
+    '<a class="fakta-tautan" href="https://www.youtube.com/watch?v=' + esc(v.id) + '" target="_blank" rel="noopener">' +
+    'Tonton di YouTube tvOneNews &rarr;</a>' +
+    '</aside>';
+}
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -431,9 +449,12 @@ VIDEOS.forEach(function (v) {
   }) +
     `<div class="rail breadcrumb"><a href="/index.html">Beranda</a> &rsaquo; <a href="/video.html">Video</a> &rsaquo; Tayangan</div>` +
     `<section class="rail article-hero">` +
+    `<div class="hero-teks">` +
     `<span class="eyebrow">${videoMeta(v)}</span>` +
     `<h1 class="article-title">${esc(v.title)}</h1>` +
-    `<p class="article-deck">${esc(v.summary)}</p></section>` +
+    `<p class="article-deck">${esc(v.summary)}</p></div>` +
+    kartuFaktaVideo(v) +
+    `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
     `<div class="article-video" style="margin-top:0;"><div class="video-frame">` +
     `<iframe src="https://www.youtube-nocookie.com/embed/${v.id}" title="${esc(v.title)}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` +

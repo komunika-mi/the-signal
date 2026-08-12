@@ -9,6 +9,29 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export { SITUS as BASE } from './situs.mjs';
 export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
 
+// Muat .env kalau ada. Tanpa paket luar, cukup untuk PASANGAN=nilai per baris.
+//
+// Rahasia TIDAK ditaruh di environment pengguna karena skrip ini juga jalan
+// lewat Task Scheduler dan GitHub Actions, yang masing-masing punya cara
+// sendiri menyuntikkan rahasia. Berkas .env sudah masuk .gitignore.
+// Nilai yang sudah ada di process.env menang, supaya rahasia dari Actions
+// tidak tertimpa berkas lokal yang mungkin tertinggal.
+(function muatEnv() {
+  try {
+    const berkas = path.join(ROOT, '.env');
+    if (!fs.existsSync(berkas)) return;
+    for (const baris of fs.readFileSync(berkas, 'utf8').split(/\r?\n/)) {
+      const b = baris.trim();
+      if (!b || b.startsWith('#')) continue;
+      const p = b.indexOf('=');
+      if (p < 1) continue;
+      const nama = b.slice(0, p).trim();
+      if (process.env[nama]) continue;
+      process.env[nama] = b.slice(p + 1).trim().replace(/^["']|["']$/g, '');
+    }
+  } catch { /* .env rusak tidak boleh menjatuhkan pipeline */ }
+})();
+
 export function log(...a) { console.log('[' + new Date().toISOString().slice(11, 19) + ']', ...a); }
 
 export async function get(url, { timeout = 25000, headers = {} } = {}) {

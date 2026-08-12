@@ -12,13 +12,17 @@
 // PENTING: Kemenperin punya RSS di /rss TAPI JANGAN DIPAKAI. Feed itu mati,
 // 20 itemnya semua bertanggal 2021 dan 2023. Halaman HTML-nya yang hidup.
 //
+// SUMBER KEEMPAT sejak 12 Agustus 2026: BPS lewat WebAPI resmi.
+// Situs bps.go.id sendiri tetap tidak bisa dikeruk, dirender JavaScript di
+// balik Cloudflare dan nol judul terbaca. Tapi WebAPI-nya membuka Berita Resmi
+// Statistik lengkap dengan ringkasan, dan itu sumber paling primer yang ada:
+// inflasi, pertumbuhan ekonomi, neraca dagang, pengangguran, gini ratio.
+//
 // Yang TIDAK bisa dipakai (sudah diuji, jangan buang waktu mengulang):
-//   BPS     - dirender JavaScript di balik Cloudflare, nol judul terbaca
 //   OJK     - membalas 699 byte, diblokir
 //   Setkab  - 7,6 KB tanpa isi
 //   Kemenkeu- punya sitemap tapi isinya halaman profil, bukan berita
-// Untuk BPS, jalan yang tersisa adalah WebAPI resmi yang butuh API key gratis.
-import { get, retry, stripTags, log } from './lib.mjs';
+import { get, getJSON, retry, stripTags, log } from './lib.mjs';
 
 const SUMBER = [
   {
@@ -107,8 +111,60 @@ function ambilIsi(html) {
   return [...new Set(p)].join('\n\n').slice(0, 7000);
 }
 
+// Berita Resmi Statistik BPS lewat WebAPI. Butuh BPS_API_KEY (gratis, terbit
+// sebagai App ID setelah mendaftarkan aplikasi di webapi.bps.go.id).
+//
+// Tanpa key, fungsi ini diam saja dan sumber lain tetap jalan. Sengaja begitu:
+// hilangnya satu kanal tidak boleh menjatuhkan seluruh pembaruan harian.
+//
+// domain 0000 = nasional. Ada 549 domain lain (34 provinsi, 514 kabupaten),
+// tapi The Signal menulis ekonomi nasional, jadi yang daerah cuma jadi bising.
+async function ambilBPS({ maks = 6, hariKeBelakang = 21 } = {}) {
+  const key = (process.env.BPS_API_KEY || '').trim();
+  if (!key) { log('  BPS: BPS_API_KEY belum diset, kanal dilewati'); return []; }
+
+  const url = 'https://webapi.bps.go.id/v1/api/list/model/pressrelease/domain/0000/key/' + key + '/';
+  const j = await retry(() => getJSON(url, { timeout: 30000 }));
+  if (j.status !== 'OK' || !Array.isArray(j.data) || !Array.isArray(j.data[1])) {
+    throw new Error('balasan BPS tidak berbentuk daftar BRS');
+  }
+
+  const batas = new Date(Date.now() - hariKeBelakang * 86400000).toISOString().slice(0, 10);
+  const hasil = [];
+
+  for (const b of j.data[1]) {
+    if (!b.rl_date || b.rl_date < batas) continue;
+
+    // abstract berupa <ul><li>...</li></ul>. Tiap butir dijadikan paragraf
+    // sendiri supaya terbaca sebagai poin, bukan satu blok panjang tanpa jeda.
+    const butir = [...String(b.abstract || '').matchAll(/<li[^>]*>([\s\S]*?)<\/li>/gi)]
+      .map(m => bersihkanEntitas(stripTags(m[1])))
+      .filter(t => t.length > 30);
+    const isi = butir.length ? butir.join('\n\n') : bersihkanEntitas(stripTags(b.abstract || ''));
+    if (isi.length < 300) continue;
+
+    hasil.push({
+      judulAsli: bersihkanEntitas(String(b.title || '')),
+      isi,
+      url: 'https://www.bps.go.id/id/pressrelease/' + b.brs_id,
+      lembaga: 'Badan Pusat Statistik',
+      terbit: new Date(b.rl_date + 'T00:00:00+07:00').toISOString(),
+    });
+    if (hasil.length >= maks) break;
+  }
+
+  log('  BPS: ' + hasil.length + ' Berita Resmi Statistik (dari ' + j.data[1].length + ' terbaru)');
+  return hasil;
+}
+
 export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
   const hasil = [];
+
+  try {
+    hasil.push(...await ambilBPS({ maks: perSumber }));
+  } catch (e) {
+    log('  BPS GAGAL: ' + String(e.message).slice(0, 70));
+  }
 
   for (const s of SUMBER) {
     let tautan = [];

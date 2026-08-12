@@ -337,6 +337,12 @@ img { max-width: 100%; display: block; }
   .video-card { flex-direction: column; }
   .video-thumb { width: 100%; aspect-ratio: 16/9; }
   .video-page-grid { grid-template-columns: 1fr; }
+  /* Safari iOS memperbesar halaman sendiri begitu kolom isian ber-font di
+     bawah 16px disentuh, dan pembaca harus mencubit balik untuk keluar. Di
+     desktop 13,5px tetap dipakai supaya modalnya tidak terlihat bongsor.
+     Tinggi 46px sekalian, 41px sebelumnya di bawah ambang nyaman untuk jari. */
+  .modal .form-langganan input[type="email"] { font-size: 16px; min-height: 46px; }
+  .modal .btn-modal-submit { min-height: 46px; }
 }
 @media (max-width: 420px) {
   .ticker-grid { grid-template-columns: 1fr; }

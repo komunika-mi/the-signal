@@ -72,19 +72,33 @@ jobs:
           git commit -m "Signal Harian $EDISI"
           git push
 
-      - name: Pastikan feed benar-benar terbit
+      - name: Tunggu situs benar-benar tayang
         run: |
-          # Tanpa pemeriksaan ini, kegagalan deploy berarti pelanggan tidak
-          # menerima apa-apa dan tidak ada yang tahu. Feed adalah satu-satunya
-          # jalan email sampai ke mereka, jadi kalau tidak hidup, gagalkan
-          # workflow supaya muncul di notifikasi GitHub.
+          # HARUS sebelum pengiriman, bukan sesudah. Email memuat tautan "baca
+          # di situs", dan email tidak bisa ditarik kembali. Kalau dikirim
+          # sementara deploy belum selesai, pelanggan mengklik tautan menuju
+          # halaman yang belum ada, dan kesan pertama itu tidak bisa diperbaiki.
+          #
+          # Kalau situs tidak kunjung tayang, workflow sengaja digagalkan
+          # sebelum satu pun email keluar.
           for i in $(seq 1 20); do
             sleep 15
             if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "<item>"; then
-              echo "feed.xml hidup dan berisi edisi."
+              echo "Situs dan feed sudah tayang."
               exit 0
             fi
           done
-          echo "GAGAL: feed.xml tidak berisi item setelah 5 menit."
-          echo "Pelanggan tidak akan menerima Signal Harian hari ini."
+          echo "GAGAL: situs tidak tayang setelah 5 menit."
+          echo "Pengiriman dibatalkan supaya tidak ada email berisi tautan mati."
           exit 1
+
+      - name: Kirim ke pelanggan
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          # Langkah terakhir, dan satu-satunya yang tidak bisa dibatalkan.
+          #
+          # Skrip menolak mengirim kalau edisi tanggal itu sudah pernah dibuat,
+          # jadi menjalankan ulang workflow tidak berarti pelanggan menerima
+          # dua email. Penjaga itu diuji: percobaan kedua berhenti sendiri.
+          node scripts/kirim-harian.mjs

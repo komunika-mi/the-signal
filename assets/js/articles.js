@@ -2,6 +2,32 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",
+  "category": "Bisnis",
+  "title": "Sinar Mas Land Gandeng Sojitz Garap Klaster Baru di [Deltamas]",
+  "deck": "Sinar Mas Land dan Sojitz Corporation meluncurkan klaster hunian Meliora di Kota Deltamas, Cikarang, dengan 68 unit tahap pertama mulai Rp800 jutaan.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T12:15:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459601-sinar-mas-land-dan-sojitz-hadirkan-meliora-klaster-hunian-modern-terbaru-di-kota-deltamas",
+  "tags": [
+   "deltamas",
+   "sinar mas land",
+   "sojitz",
+   "properti"
+  ],
+  "body": [
+   "Sinar Mas Land bersama Sojitz Corporation asal Jepang meluncurkan klaster hunian baru bernama Meliora di Kota Deltamas, Cikarang. Peluncuran ini merespons naiknya kebutuhan tempat tinggal di koridor timur Jakarta, seiring makin banyaknya kawasan industri, pusat data, dan pabrik ramah lingkungan yang beroperasi di sana dan membuka lapangan kerja baru.",
+   "Kota Deltamas sendiri merupakan kawasan terpadu seluas 3.200 hektare yang menggabungkan hunian, area komersial, pendidikan, kesehatan, dan pusat ekonomi dalam satu kawasan. Pertumbuhan penduduk di kawasan ini didorong oleh masuknya industri baru, sehingga permintaan hunian turut naik.",
+   "Meliora dibangun di atas lahan 1,8 hektare dengan tagline 'A Better Way to Live', menyasar profesional dan keluarga muda yang mencari hunian dengan akses mudah ke fasilitas sekitar. Pada tahap pertama, tersedia 68 unit dengan harga mulai dari Rp800 jutaan, terdiri dari dua tipe rumah dua lantai, yaitu tipe 45/50 dengan dua kamar tidur dan tipe 56/60 dengan tiga kamar tidur.",
+   "Presiden Direktur PT Puradelta Lestari Tbk, Hongky J. Nantung, menyebut proyek ini sebagai hasil kolaborasi dua pengembang berpengalaman untuk menjawab kebutuhan hunian yang terintegrasi dan bernilai investasi jangka panjang. Menurutnya, kehadiran Meliora turut memperkuat posisi Deltamas sebagai destinasi hunian dan investasi di kawasan timur Jakarta."
+  ],
+  "fotoAdegan": "Wide view of a quiet new housing cluster with paved streets and young trees in a suburban Indonesian estate, late afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d5227cd856-sinar-mas-land-bersama-sojitz-corporation-jepang-menghadirkan-meliora-klaster-residensial-terbaru-di-kota-deltamas-cikarang_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah pasokan hunian baru di Deltamas: tahap pertama Meliora membuka 68 unit dengan harga mulai Rp800 jutaan di lahan 1,8 hektare, bagian kecil dari kawasan Deltamas yang totalnya mencapai 3.200 hektare. Yang paling terdampak adalah calon pembeli rumah kelas menengah di koridor timur Jakarta, terutama pekerja di kawasan industri Cikarang yang jumlahnya terus bertambah seiring masuknya pabrik dan pusat data baru. Masuknya Sojitz sebagai mitra asal Jepang juga menunjukkan minat investor luar negeri tetap ada di sektor properti kawasan industri ini. Proyek residensial baru ini mengarah pada penguatan Deltamas dari sekadar kawasan industri menjadi kota mandiri dengan hunian terintegrasi, sejalan dengan pertumbuhan lapangan kerja yang disebut dalam rilis ini. Untuk melihat apakah minat pasar benar mengikuti ekspansi ini, indikator berikutnya adalah kecepatan terjualnya 68 unit tahap pertama sebelum pengembang melanjutkan ke fase berikutnya."
+ },
+ {
   "slug": "kemendag-buka-pojok-umkm-di-kantor-gandeng-indomaret",
   "category": "UMKM",
   "title": "Kemendag [Buka] Pojok UMKM di Kantor, Gandeng Indomaret",
@@ -56,11 +82,36 @@ var ARTICLES = [
   "takeaway": "Yang konkret dari acara ini adalah pertemuan bisnis antara 20 bank syariah dengan 51 perusahaan untuk menjajaki pembiayaan, didukung data bahwa pembiayaan bank syariah pada Juni 2026 mencapai Rp720 triliun, tumbuh 11,43 persen dibanding setahun sebelumnya, sementara simpanan nasabah di bank syariah naik 13,13 persen menjadi Rp816 triliun. Yang berpotensi terdampak adalah korporasi, terutama yang terhubung rantai pasok produk halal, yang mencari pembiayaan jangka panjang dengan skema sesuai kebutuhan usaha, serta bank syariah yang ingin memperluas basis nasabah korporasi. Ke depan, forum semacam ini mengarah pada upaya membangun jalur pembiayaan yang lebih teratur agar bank syariah lebih percaya diri membiayai korporasi besar, tapi acara ini sendiri baru mempertemukan pihak-pihak, belum menghasilkan komitmen pembiayaan yang terukur. Yang akan menentukan apakah upaya ini berbuah nyata adalah apakah business matching kali ini benar-benar berlanjut jadi transaksi pembiayaan, sesuatu yang baru bisa dicek dari data realisasi pada laporan berikutnya."
  },
  {
+  "slug": "harga-emas-antam-naik-jadi-rp2-700-000-per-gram",
+  "category": "Makroekonomi",
+  "title": "Harga Emas Antam [Naik] Jadi Rp2.700.000 per Gram",
+  "deck": "Harga emas Antam per 13 Agustus 2026 naik Rp20.000 menjadi Rp2.700.000 per gram, harga buyback ikut naik ke Rp2.546.000.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T10:10:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459576-harga-emas-antam-hari-ini-13-agustus-2026-rp2700000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 13 Agustus 2026 tercatat Rp2.700.000 per gram, naik Rp20.000 dibandingkan hari sebelumnya yang berada di Rp2.680.000, menurut data yang dipantau dari laman Logam Mulia. Kenaikan ini relevan bagi masyarakat yang menyimpan emas sebagai investasi maupun yang berencana membeli, karena menentukan berapa rupiah yang harus dikeluarkan atau bisa didapat hari ini.",
+   "Harga buyback, yaitu harga yang dibayar Antam ketika masyarakat menjual kembali emasnya, ikut naik menjadi Rp2.546.000 per gram. Selisih antara harga jual dan harga buyback saat ini sekitar Rp154.000 per gram, sehingga pembeli emas hari ini baru akan untung apabila kelak menjualnya kembali dengan harga di atas selisih tersebut.",
+   "Logam Mulia menegaskan bahwa harga emas Antam dapat berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka di atas hanya berlaku untuk transaksi hari ini."
+  ],
+  "fotoAdegan": "Close-up of small gold bars and coins arranged on a velvet tray inside a jewelry display counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan Rp20.000 ke Rp2.700.000 per gram ini hanya perbandingan dengan sehari sebelumnya, jadi belum bisa disimpulkan apakah ini awal tren naik atau sekadar koreksi harian. Yang terdampak langsung adalah pemilik emas Antam yang ingin menjual kembali, karena harga buyback naik ke Rp2.546.000, tapi selisihnya dengan harga jual masih sekitar Rp154.000 per gram, artinya baru untung kalau harga naik melebihi selisih itu. Untuk memastikan ke mana arah harga bergerak, perlu dilihat data harga emas Antam dan harga emas dunia dalam beberapa hari ke depan, karena data itu belum tersedia di sini."
+ },
+ {
   "slug": "pbb-p2-2026-diskon-5-jika-bayar-sebelum-30-september",
   "category": "Makroekonomi",
   "title": "PBB-P2 2026 [Diskon] 5% Jika Bayar Sebelum 30 September",
   "deck": "Pemprov DKI Jakarta memberi potongan otomatis 5 persen untuk PBB-P2 tahun 2026 yang dibayar sebelum jatuh tempo 30 September.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T10:00:06+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459518-bayar-sebelum-30-september-pbb-p2-tahun-2026-otomatis-dipotong-5",

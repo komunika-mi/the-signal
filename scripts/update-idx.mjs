@@ -4,7 +4,7 @@
 // jadwal sendiri, dan kalau salah satu bermasalah yang lain tetap jalan.
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, readData, writeData } from './lib.mjs';
+import { ROOT, log, readData, writeData , keWaktu } from './lib.mjs';
 import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
@@ -102,7 +102,10 @@ async function main() {
   }
 
   const semua = [...baru, ...artikelLama]
-    .sort((a, b) => new Date(b.isoDate || 0) - new Date(a.isoDate || 0))
+    // keWaktu(), bukan new Date() langsung: stempel tanpa penanda zona
+    // ditafsirkan sebagai waktu lokal mesin, sehingga urutan artikel bisa
+    // berbeda antara komputer rumah (WIB) dan runner GitHub (UTC).
+    .sort((a, b) => (keWaktu(b.isoDate) || 0) - (keWaktu(a.isoDate) || 0))
     .slice(0, MAKS_ARSIP);
 
   // Lihat catatan di update-all.mjs: foto dibuat per artikel supaya tidak

@@ -238,10 +238,29 @@ export function writeData(file, varName, data, comment) {
 // bertanggal "12 Agustus 2026", sehingga situs tampak tidak pernah punya
 // berita baru padahal arsipnya bertambah. Bug tanggal yang menyamar jadi bug
 // isi, dan itu jenis yang paling lama tidak ketahuan.
+// Sebagian stempel waktu tersimpan TANPA penanda zona, misalnya
+// "2026-08-10T17:13:34" dari keterbukaan IDX. JavaScript menafsirkan string
+// seperti itu sebagai waktu LOKAL MESIN, jadi string yang sama menghasilkan
+// instan berbeda di komputer rumah (WIB) dan di runner GitHub (UTC). Itu
+// sumber ketidakcocokan yang sebenarnya, bukan sekadar selisih tujuh jam.
+//
+// Semua sumber kita menerbitkan dalam waktu Indonesia, jadi stempel polos
+// diperlakukan sebagai WIB secara eksplisit. Yang sudah membawa Z atau offset
+// dibiarkan apa adanya karena sudah tidak ambigu.
+export function keWaktu(iso) {
+  const s = String(iso || '').trim();
+  if (!s) return null;
+  const adaZona = /(Z|[+-]\d{2}:?\d{2})$/.test(s);
+  const d = new Date(adaZona ? s : s + '+07:00');
+  return isNaN(d) ? null : d;
+}
+
 export function fmtTanggal(iso) {
   const B = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni',
     'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
-  const wib = new Date(new Date(iso).getTime() + 7 * 3600 * 1000);
+  const d = keWaktu(iso);
+  if (!d) return '';
+  const wib = new Date(d.getTime() + 7 * 3600 * 1000);
   return wib.getUTCDate() + ' ' + B[wib.getUTCMonth()] + ' ' + wib.getUTCFullYear();
 }
 

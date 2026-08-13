@@ -667,7 +667,7 @@ for (const hs of HALAMAN_STATIS) {
 console.log('halaman identitas:', HALAMAN_STATIS.length);
 
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, VER });
+bakeRoot({ ARTICLES, VIDEOS, VER, BPS });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------

@@ -11,7 +11,11 @@
 //   var 2   Indeks Harga Konsumen (Umum)  -> list-not-available di semua tahun
 //   var 9   Laju Pertumbuhan PDB          -> list-not-available, dipakai 104
 //   var 520 Tingkat Pengangguran Terbuka  -> list-not-available, dipakai 543
-//   var 74  Kunjungan Wisman per bulan    -> list-not-available, dipakai 1017
+//   var 74  Kunjungan Wisman per bulan    -> list-not-available, dipakai 1150
+//   var 13  Nilai Tukar Petani            -> list-not-available
+//   var 24  Indeks Harga Perdagangan Besar-> list-not-available
+//   var 66  Penumpang pesawat             -> deretnya berhenti di 2024
+//   var 369 Indeks Harga Produsen         -> list-not-available
 //
 // Bentuk balasan WebAPI perlu diketahui sebelum membaca kode di bawah. Nilai
 // disimpan dalam satu objek datar bernama datacontent, dan KUNCINYA adalah
@@ -73,10 +77,31 @@ export const INDIKATOR = [
     satuan: '', desimal: 3, periode: 'semesteran', arah: 'turun-baik',
     penjelas: 'Ukuran ketimpangan pendapatan, 0 merata sempurna, 1 timpang sempurna.',
   },
+  // Wisman memakai var 1150 yang BULANAN, bukan 1017 yang tahunan.
+  //
+  // Awalnya dipakai 1017 karena var 74 (yang namanya paling jelas menyebut
+  // "per bulan") menjawab list-not-available. Ternyata 1150 membawa deret
+  // bulanan yang sama dan masih hidup. Bedanya besar untuk situs berita:
+  // tahunan berarti satu angka baru setahun sekali, bulanan berarti dua belas.
   {
-    kode: 'wisman', nama: 'Kunjungan wisatawan asing', varId: 1017, vervar: 1, turvar: 0,
-    satuan: 'orang', desimal: 0, periode: 'tahunan', arah: 'naik-baik',
-    penjelas: 'Jumlah kedatangan wisatawan mancanegara ke Indonesia.',
+    kode: 'wisman', nama: 'Kunjungan wisatawan asing', varId: 1150, vervar: 36, turvar: 0,
+    satuan: 'orang', desimal: 0, periode: 'bulanan', arah: 'naik-baik',
+    penjelas: 'Jumlah kedatangan wisatawan mancanegara ke Indonesia bulan itu.',
+  },
+  // Tiga di bawah ini dipilih karena BULANAN dan menyentuh ekonomi yang
+  // dirasakan orang, bukan cuma agregat makro. Hunian hotel membaca denyut
+  // pariwisata dan perjalanan bisnis; penumpang kereta membaca mobilitas
+  // orang. Keduanya juga naik-turun tajam saat libur panjang dan Lebaran,
+  // jadi grafiknya bercerita tanpa perlu dijelaskan panjang.
+  {
+    kode: 'hotel', nama: 'Tingkat hunian hotel bintang', varId: 122, vervar: 9999, turvar: 0,
+    satuan: '%', desimal: 2, periode: 'bulanan', arah: 'naik-baik',
+    penjelas: 'Rata-rata kamar hotel bintang yang terisi secara nasional.',
+  },
+  {
+    kode: 'kereta', nama: 'Penumpang kereta api', varId: 72, vervar: 9, turvar: 0,
+    satuan: 'ribu orang', desimal: 0, periode: 'bulanan', arah: 'naik-baik',
+    penjelas: 'Jumlah orang yang naik kereta api dalam sebulan.',
   },
 ];
 

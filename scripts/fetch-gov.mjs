@@ -48,7 +48,33 @@ const SUMBER = [
     asal: 'https://kemenperin.go.id',
     pola: /href="(\/artikel\/\d+\/[^"]+)"/g,
   },
+  // ESDM ditambahkan 13 Agustus 2026. Isinya justru paling padat angka di
+  // antara semua kanal pemerintah: harga minyak mentah Indonesia (ICP), harga
+  // batu bara acuan (HBA), dan penerimaan negara bukan pajak, semuanya terbit
+  // rutin dan langsung berupa angka.
+  {
+    nama: 'ESDM',
+    lembaga: 'Kementerian Energi dan Sumber Daya Mineral',
+    daftar: 'https://www.esdm.go.id/id/media-center/arsip-berita',
+    asal: 'https://www.esdm.go.id',
+    pola: /href="((?:https:\/\/www\.esdm\.go\.id)?\/id\/media-center\/arsip-berita\/[a-z0-9-]+)"/g,
+  },
 ];
+
+// Sumber yang SUDAH DICOBA dan tidak bisa diambil, supaya tidak dicoba lagi
+// tanpa alasan baru. Diuji 13 Agustus 2026:
+//
+//   Kemenkeu   halamannya kerangka JavaScript. Lima URL berbeda
+//              (siaran-pers, berita, /api/) semuanya membalas 27.009 byte yang
+//              sama persis tanpa satu pun tautan artikel di HTML-nya.
+//   OJK        membalas 245 byte, halaman pengalih. Dua jalur dicoba,
+//              keduanya sama.
+//   Kemenko    ekon.go.id dan www.ekon.go.id sama-sama gagal tersambung dari
+//   Perekonomian   sini.
+//
+// Ketiganya baru bisa masuk kalau ada API resmi, RSS, atau perayapan yang
+// menjalankan JavaScript. Menambah perayap berbasis browser ke pipeline ini
+// terlalu berat untuk tiga sumber, jadi ditunda sampai ada kebutuhan jelas.
 
 // Pengumuman lelang, seleksi vendor, dan lowongan bukan berita ekonomi.
 // Kemenperin banyak memuat ini di halaman siaran persnya.

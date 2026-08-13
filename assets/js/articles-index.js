@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
+  "category": "Bisnis",
+  "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
+  "deck": "Kunjungan wisatawan mancanegara Juni 2026 naik tipis dibanding Mei, tapi masih lebih rendah dibanding Juni tahun lalu.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta.jpg",
+  "imageV": "msrda4kz",
+  "tags": [
+   "bps",
+   "wisatawan asing",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
   "category": "Ketenagakerjaan",
   "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",

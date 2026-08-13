@@ -22,7 +22,11 @@ const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 400);    // batasi ukuran 
 const MAKS_VIDEO = 12;
 // Kanal pemerintah. Dijaga kecil supaya siaran pers tidak menenggelamkan
 // berita biasa, dan supaya tiap putaran 2 jam tetap cepat.
-const TARGET_GOV = Number(process.env.SIGNAL_GOV || 4);
+// Kuota kanal pemerintah. Dinaikkan 13 Agustus 2026 seiring bertambahnya
+// sumber jadi lima (BI, Kemendag, Kemenperin, BPS, ESDM): dengan jatah lama 4
+// artikel per putaran, satu sumber yang sedang ramai bisa menghabiskan seluruh
+// jatah dan sumber lain tidak pernah kebagian.
+const TARGET_GOV = Number(process.env.SIGNAL_GOV || 8);
 const MAKS_GOV_PER_SUMBER = 4;
 
 function tanggalWIB() {

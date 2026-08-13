@@ -23,6 +23,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { nilaiRingkas } from './bps-grafik.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -219,7 +220,47 @@ function stempelVersi(html, VER) {
     '$1?v=' + VER);
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, VER }) {
+// Strip angka ekonomi di rail beranda.
+//
+// Halaman /data-ekonomi.html sudah memuat sepuluh indikator lengkap dengan
+// grafiknya, tapi halaman terpisah hanya dibuka orang yang sudah tahu halaman
+// itu ada. Strip ini menaruh empat angka terpenting di tempat yang dilihat
+// semua pengunjung, lalu menautkan ke halaman lengkapnya.
+//
+// Empat, bukan sepuluh: rail beranda sempit, dan daftar panjang berubah jadi
+// dinding angka yang justru tidak terbaca. Yang dipilih indikator yang paling
+// sering dicari orang dan paling sering jadi bahan berita.
+const STRIP = ['inflasi', 'pdb', 'neraca', 'pengangguran'];
+
+function stripBps(BPS) {
+  if (!BPS || !BPS.indikator) return '';
+  const sel = [];
+  for (const kode of STRIP) {
+    const ind = BPS.indikator[kode];
+    if (!ind || !ind.titik || !ind.titik.length) continue;
+    const t = ind.titik[ind.titik.length - 1];
+    const lalu = ind.titik[ind.titik.length - 2];
+
+    // Panah mengikuti NAIK atau TURUN angkanya, bukan baik atau buruk, dan
+    // warnanya sengaja netral. Inflasi naik tidak otomatis buruk, pengangguran
+    // turun tidak otomatis kabar bagus tanpa konteks. Memberi warna merah atau
+    // hijau di sini berarti situs menilai, padahal ini baru angka.
+    let delta = '';
+    if (lalu) {
+      const d = t.nilai - lalu.nilai;
+      const tanda = d > 0 ? '↑' : d < 0 ? '↓' : '→';
+      delta = '<span class="bps-strip-delta">' + tanda + '</span>';
+    }
+    sel.push(
+      '<a class="bps-strip-sel" href="/data-ekonomi.html">' +
+      '<span class="bps-strip-nama">' + esc(ind.nama) + '</span>' +
+      '<span class="bps-strip-nilai num">' + esc(nilaiRingkas(t.nilai, ind)) + delta + '</span>' +
+      '<span class="bps-strip-periode">' + esc(t.periode + ' ' + t.tahun) + '</span></a>');
+  }
+  return sel.join('');
+}
+
+export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -258,6 +299,9 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER }) {
     '<div class="video-list">' + sisa.map(kartuVideoKecil).join('') +
       '<a class="video-more" href="video.html">Lihat semua video &rarr;</a>' +
     '</div>', 'index.html');
+
+  const strip = stripBps(BPS);
+  if (strip) idx = ganti(idx, 'bpsstrip', strip, 'index.html');
 
   const sumber = sumberRingkas(ARTICLES);
   if (sumber) idx = ganti(idx, 'sumber', esc(sumber), 'index.html');

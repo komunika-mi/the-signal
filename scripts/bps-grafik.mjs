@@ -48,6 +48,12 @@ export function nilaiRingkas(nilai, ind) {
     if (Math.abs(nilai) >= 1e6) return angkaID(nilai / 1e6, 2) + ' juta orang';
     return angkaID(nilai, 0) + ' orang';
   }
+  // BPS menyajikan penumpang kereta dalam ribuan, jadi 49.541 berarti 49,5
+  // juta orang. Menampilkan angka mentahnya akan salah dibaca 49 ribu.
+  if (ind.satuan === 'ribu orang') {
+    if (Math.abs(nilai) >= 1000) return angkaID(nilai / 1000, 2) + ' juta orang';
+    return angkaID(nilai, 0) + ' ribu orang';
+  }
   if (ind.satuan === '%') return angkaID(nilai, ind.desimal) + '%';
   return angkaID(nilai, ind.desimal);
 }
@@ -318,6 +324,8 @@ const KUNCI = [
   ['pengangguran', /pengangguran|\btpt\b|angkatan kerja|serapan tenaga kerja/i],
   ['gini', /rasio gini|gini ratio|ketimpangan (pendapatan|ekonomi)/i],
   ['wisman', /wisatawan (mancanegara|asing)|kunjungan wisman|pariwisata nasional/i],
+  ['hotel', /hunian hotel|okupansi hotel|tingkat penghunian kamar/i],
+  ['kereta', /penumpang kereta|pengguna kereta api|\bKAI\b.*penumpang/i],
 ];
 
 // Angka BPS mengukur Indonesia. Kalau beritanya tentang negara lain, grafiknya
@@ -330,6 +338,12 @@ const LUAR_NEGERI = /\bAS\b|Amerika|Tiongkok|\bChina\b|Jepang|Korea|India|Uni Er
 
 export function indikatorUntuk(artikel, data) {
   if (!data || !data.indikator) return '';
+
+  // Artikel yang LAHIR dari rilis BPS membawa penandanya sendiri, jadi tidak
+  // perlu ditebak dari judul. Ini artikel yang seluruh isinya memang angka
+  // indikator itu; menyerahkannya ke pencocokan kata kunci berarti sesekali
+  // meleset pada artikel yang justru paling pasti relevan.
+  if (artikel.bpsIndikator && data.indikator[artikel.bpsIndikator]) return artikel.bpsIndikator;
 
   // HANYA judul dan deck, sengaja tidak termasuk badan artikel.
   //

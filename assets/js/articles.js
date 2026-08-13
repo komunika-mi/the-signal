@@ -2,6 +2,35 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
+  "category": "Bisnis",
+  "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
+  "deck": "Kunjungan wisatawan mancanegara Juni 2026 naik tipis dibanding Mei, tapi masih lebih rendah dibanding Juni tahun lalu.",
+  "image": "assets/img/turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T10:19:32.954Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "bps",
+   "wisatawan asing",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat kunjungan wisatawan mancanegara ke Indonesia pada Juni 2026 mencapai 1,39 juta orang. Angka ini merupakan jumlah orang asing yang tercatat masuk ke Indonesia sepanjang bulan tersebut, baik untuk berlibur maupun keperluan lain.",
+   "Dibanding Mei 2026 yang tercatat 1,38 juta orang, kunjungan wisatawan asing pada Juni 2026 naik 4.488 orang atau 0,32%. Namun jika dibandingkan Juni 2025 yang mencapai 1,42 juta orang, jumlah kunjungan bulan ini masih turun 30.521 orang atau 2,15%.",
+   "Data enam bulan terakhir menunjukkan pola naik turun. Kunjungan sempat turun dari 1,19 juta orang pada Januari 2026 menjadi 1,09 juta orang pada Maret 2026, sebelum naik tiga bulan berturut-turut pada April, Mei, dan Juni hingga mencapai 1,39 juta orang.",
+   "Dengan begitu, kunjungan wisatawan asing pada Juni 2026 memang melanjutkan tren kenaikan sejak Maret, tetapi belum mengembalikan posisinya ke level yang tercatat pada Juni 2025."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Naik turunnya angka ini biasa dipakai sebagai salah satu indikator ramai atau lesunya kunjungan turis asing ke Indonesia dari bulan ke bulan.",
+  "bpsIndikator": "wisman",
+  "fotoAdegan": "A tourism ministry field officer counts arriving passengers at an international airport arrival gate in the evening.",
+  "imageV": "msrda4kz"
+ },
+ {
   "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
   "category": "Ketenagakerjaan",
   "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",

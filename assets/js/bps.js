@@ -1,7 +1,7 @@
 // Angka indikator ekonomi dari WebAPI BPS (webapi.bps.go.id).
-// Ditarik otomatis oleh scripts/bps-data.mjs - jangan diedit manual.
+// Ditarik otomatis oleh scripts/bps-artikel.mjs - jangan diedit manual.
 var BPS = {
- "diperbarui": "2026-08-13T07:45:54.058Z",
+ "diperbarui": "2026-08-13T10:19:00.834Z",
  "indikator": {
   "inflasi": {
    "nama": "Inflasi bulanan",
@@ -944,24 +944,578 @@ var BPS = {
    "nama": "Kunjungan wisatawan asing",
    "satuan": "orang",
    "desimal": 0,
-   "periode": "tahunan",
+   "periode": "bulanan",
    "arah": "naik-baik",
-   "penjelas": "Jumlah kedatangan wisatawan mancanegara ke Indonesia.",
-   "labelBps": "Jumlah Kedatangan Wisatawan Mancanegara ke Indonesia Menurut Pintu Masuk",
-   "satuanBps": "Orang",
-   "varId": 1017,
+   "penjelas": "Jumlah kedatangan wisatawan mancanegara ke Indonesia bulan itu.",
+   "labelBps": "Jumlah Kunjungan Wisatawan Mancanegara per bulan ke Indonesia Menurut Pintu Masuk, 2008 - sekarang",
+   "satuanBps": "Kunjungan",
+   "varId": 1150,
    "titik": [
     {
      "tahun": 2024,
-     "periode": "Tahun",
-     "urut": 0,
-     "nilai": 13902420
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 927746
+    },
+    {
+     "tahun": 2024,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 1062149
+    },
+    {
+     "tahun": 2024,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 1041861
+    },
+    {
+     "tahun": 2024,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 1066958
+    },
+    {
+     "tahun": 2024,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 1145499
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 1197941
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 1310756
+    },
+    {
+     "tahun": 2024,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 1339946
+    },
+    {
+     "tahun": 2024,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 1279258
+    },
+    {
+     "tahun": 2024,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 1193867
+    },
+    {
+     "tahun": 2024,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 1092067
+    },
+    {
+     "tahun": 2024,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 1228630
     },
     {
      "tahun": 2025,
-     "periode": "Tahun",
-     "urut": 0,
-     "nilai": 15386646
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 1156012
+    },
+    {
+     "tahun": 2025,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 1022894
+    },
+    {
+     "tahun": 2025,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 984769
+    },
+    {
+     "tahun": 2025,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 1164539
+    },
+    {
+     "tahun": 2025,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 1306000
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 1417096
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 1481346
+    },
+    {
+     "tahun": 2025,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 1505220
+    },
+    {
+     "tahun": 2025,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 1394910
+    },
+    {
+     "tahun": 2025,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 1348993
+    },
+    {
+     "tahun": 2025,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 1199007
+    },
+    {
+     "tahun": 2025,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 1405860
+    },
+    {
+     "tahun": 2026,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 1188420
+    },
+    {
+     "tahun": 2026,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 1159690
+    },
+    {
+     "tahun": 2026,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 1088166
+    },
+    {
+     "tahun": 2026,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 1248651
+    },
+    {
+     "tahun": 2026,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 1382087
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 1386575
+    }
+   ]
+  },
+  "hotel": {
+   "nama": "Tingkat hunian hotel bintang",
+   "satuan": "%",
+   "desimal": 2,
+   "periode": "bulanan",
+   "arah": "naik-baik",
+   "penjelas": "Rata-rata kamar hotel bintang yang terisi secara nasional.",
+   "labelBps": "Tingkat Penghunian Kamar pada Hotel Bintang",
+   "satuanBps": "",
+   "varId": 122,
+   "titik": [
+    {
+     "tahun": 2024,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 46.72
+    },
+    {
+     "tahun": 2024,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 49.45
+    },
+    {
+     "tahun": 2024,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 43.41
+    },
+    {
+     "tahun": 2024,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 47.14
+    },
+    {
+     "tahun": 2024,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 54.03
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 54.69
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 56.36
+    },
+    {
+     "tahun": 2024,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 54.85
+    },
+    {
+     "tahun": 2024,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 54.68
+    },
+    {
+     "tahun": 2024,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 55.67
+    },
+    {
+     "tahun": 2024,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 54.96
+    },
+    {
+     "tahun": 2024,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 58.06
+    },
+    {
+     "tahun": 2025,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 48.38
+    },
+    {
+     "tahun": 2025,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 47.21
+    },
+    {
+     "tahun": 2025,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 33.56
+    },
+    {
+     "tahun": 2025,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 46.98
+    },
+    {
+     "tahun": 2025,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 48.28
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 49.98
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 52.79
+    },
+    {
+     "tahun": 2025,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 50.51
+    },
+    {
+     "tahun": 2025,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 50.16
+    },
+    {
+     "tahun": 2025,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 52.84
+    },
+    {
+     "tahun": 2025,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 53.89
+    },
+    {
+     "tahun": 2025,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 56.12
+    },
+    {
+     "tahun": 2026,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 47.53
+    },
+    {
+     "tahun": 2026,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 44.89
+    },
+    {
+     "tahun": 2026,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 42.78
+    },
+    {
+     "tahun": 2026,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 48.83
+    },
+    {
+     "tahun": 2026,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 50.76
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 54.28
+    }
+   ]
+  },
+  "kereta": {
+   "nama": "Penumpang kereta api",
+   "satuan": "ribu orang",
+   "desimal": 0,
+   "periode": "bulanan",
+   "arah": "naik-baik",
+   "penjelas": "Jumlah orang yang naik kereta api dalam sebulan.",
+   "labelBps": "Jumlah Penumpang Kereta Api",
+   "satuanBps": "Ribu Orang",
+   "varId": 72,
+   "titik": [
+    {
+     "tahun": 2024,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 39860
+    },
+    {
+     "tahun": 2024,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 37166
+    },
+    {
+     "tahun": 2024,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 38335
+    },
+    {
+     "tahun": 2024,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 40459
+    },
+    {
+     "tahun": 2024,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 41704
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 41888
+    },
+    {
+     "tahun": 2024,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 45605
+    },
+    {
+     "tahun": 2024,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 43230
+    },
+    {
+     "tahun": 2024,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 42481
+    },
+    {
+     "tahun": 2024,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 45499
+    },
+    {
+     "tahun": 2024,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 42590
+    },
+    {
+     "tahun": 2024,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 45829
+    },
+    {
+     "tahun": 2025,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 43357
+    },
+    {
+     "tahun": 2025,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 42034
+    },
+    {
+     "tahun": 2025,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 40879
+    },
+    {
+     "tahun": 2025,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 44848
+    },
+    {
+     "tahun": 2025,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 45084
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 45614
+    },
+    {
+     "tahun": 2025,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 50105
+    },
+    {
+     "tahun": 2025,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 45583
+    },
+    {
+     "tahun": 2025,
+     "periode": "September",
+     "urut": 9,
+     "nilai": 45023
+    },
+    {
+     "tahun": 2025,
+     "periode": "Oktober",
+     "urut": 10,
+     "nilai": 49328
+    },
+    {
+     "tahun": 2025,
+     "periode": "November",
+     "urut": 11,
+     "nilai": 47358
+    },
+    {
+     "tahun": 2025,
+     "periode": "Desember",
+     "urut": 12,
+     "nilai": 50686
+    },
+    {
+     "tahun": 2026,
+     "periode": "Januari",
+     "urut": 1,
+     "nilai": 48101
+    },
+    {
+     "tahun": 2026,
+     "periode": "Februari",
+     "urut": 2,
+     "nilai": 43268
+    },
+    {
+     "tahun": 2026,
+     "periode": "Maret",
+     "urut": 3,
+     "nilai": 48137
+    },
+    {
+     "tahun": 2026,
+     "periode": "April",
+     "urut": 4,
+     "nilai": 48280
+    },
+    {
+     "tahun": 2026,
+     "periode": "Mei",
+     "urut": 5,
+     "nilai": 46964
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juni",
+     "urut": 6,
+     "nilai": 49541
     }
    ]
   }

@@ -62,33 +62,72 @@ export function urlTerpakai(artikel, kecuali = null) {
 //
 // Mengembalikan URL yang akhirnya dipakai, atau '' kalau semua kandidat kembar
 // atau gagal diunduh.
+// GAMBAR LAMA TIDAK BOLEH HILANG KALAU PENGGANTINYA GAGAL.
+//
+// Versi pertama fungsi ini menghapus berkas tujuan lebih dulu, karena unduhFoto
+// sengaja menolak menimpa. Baru sesudah itu ketahuan apakah unduhannya berhasil
+// dan apakah gambarnya kembar. Tiga jalur kegagalan di bawah keluar tanpa
+// mengembalikan apa pun, jadi artikel yang tadinya berilustrasi ditinggal
+// TANPA GAMBAR SAMA SEKALI.
+//
+// Terjadi sungguhan pada 13 Agustus 2026 dan menghentikan seluruh pembaruan
+// berita selama beberapa jam. Rantainya: 12 artikel kehilangan kreditFoto saat
+// pembersihan foto kembar, sehingga jadi sasaran ganti-foto-asli.mjs pada
+// putaran berikutnya. Foto sumber salah satunya ternyata kembar dengan artikel
+// lain, jadi ditolak, dan ilustrasinya sudah telanjur dihapus. Penjaga build
+// menangkapnya dan menghentikan build, yang secara teknis benar tetapi berarti
+// tidak ada satu pun berita baru terbit sampai orang memeriksanya.
+//
+// Sekarang berkas lama dipindahkan ke berkas cadangan dulu, dan dikembalikan
+// pada SETIAP jalur keluar yang tidak menghasilkan gambar baru.
 export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
   const tujuan = path.join(IMG_DIR, slug + '.jpg');
+  const cadangan = tujuan + '.lama';
+  const adaLama = fs.existsSync(tujuan);
 
-  for (const url of kandidat) {
-    if (terpakai.has(url)) {
-      log && log('  lewati (alamat foto sudah dipakai artikel lain)');
-      continue;
-    }
+  const kembalikan = () => {
     fs.rmSync(tujuan, { force: true });
-    let ok = false;
-    try { ok = unduh(slug, url); } catch (e) {
-      log && log('  unduh gagal: ' + String(e.message).slice(0, 50));
-      continue;
-    }
-    if (!ok || !fs.existsSync(tujuan)) continue;
+    if (adaLama && fs.existsSync(cadangan)) fs.renameSync(cadangan, tujuan);
+  };
+  const buangCadangan = () => fs.rmSync(cadangan, { force: true });
 
-    const s = sidik(tujuan);
-    const pemilik = peta.get(s);
-    if (pemilik) {
-      log && log('  lewati (gambar identik dengan ' + pemilik.slice(0, 38) + ')');
-      fs.rmSync(tujuan, { force: true });
-      continue;
-    }
-
-    peta.set(s, slug);
-    terpakai.add(url);
-    return url;
+  if (adaLama) {
+    fs.rmSync(cadangan, { force: true });   // sisa putaran yang terputus
+    fs.renameSync(tujuan, cadangan);
   }
+
+  try {
+    for (const url of kandidat) {
+      if (terpakai.has(url)) {
+        log && log('  lewati (alamat foto sudah dipakai artikel lain)');
+        continue;
+      }
+      fs.rmSync(tujuan, { force: true });
+      let ok = false;
+      try { ok = unduh(slug, url); } catch (e) {
+        log && log('  unduh gagal: ' + String(e.message).slice(0, 50));
+        continue;
+      }
+      if (!ok || !fs.existsSync(tujuan)) continue;
+
+      const s = sidik(tujuan);
+      const pemilik = peta.get(s);
+      if (pemilik) {
+        log && log('  lewati (gambar identik dengan ' + pemilik.slice(0, 38) + ')');
+        fs.rmSync(tujuan, { force: true });
+        continue;
+      }
+
+      peta.set(s, slug);
+      terpakai.add(url);
+      buangCadangan();
+      return url;
+    }
+  } catch (e) {
+    kembalikan();
+    throw e;
+  }
+
+  kembalikan();
   return '';
 }

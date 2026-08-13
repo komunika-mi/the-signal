@@ -77,6 +77,20 @@ jobs:
           # yang isinya sudah benar, jadi errornya ditelan.
           node scripts/ganti-foto-asli.mjs 30 || echo "pengambilan foto gagal, artikel tetap terbit dengan ilustrasi"
 
+          # Jaring pengaman: kembalikan gambar terlacak yang terhapus.
+          #
+          # Penyebab utamanya sudah diperbaiki di foto-unik.mjs (gambar lama
+          # kini dicadangkan sebelum diganti), tapi lapis ini murah dan menutup
+          # seluruh kelas masalahnya: apa pun yang menghapus berkas gambar yang
+          # sudah pernah di-commit, isinya masih ada di git dan bisa dipulihkan
+          # persis. Tanpa ini, satu berkas hilang menggagalkan build dan
+          # MENAHAN SELURUH BERITA BARU, yang terjadi 13 Agustus 2026.
+          HILANG=$(git ls-files --deleted -- assets/img | wc -l)
+          if [ "$HILANG" -gt 0 ]; then
+            echo "::warning::$HILANG gambar terlacak terhapus, dipulihkan dari git"
+            git ls-files --deleted -z -- assets/img | xargs -0 -r git checkout --
+          fi
+
       - name: Perbarui angka indikator BPS
         env:
           BPS_API_KEY: ${{ secrets.BPS_API_KEY }}

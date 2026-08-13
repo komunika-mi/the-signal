@@ -31,8 +31,12 @@ const artikel = readData('articles.js', 'ARTICLES');
 // sumber bawaan, jadi diisi di sini.
 const kreditUntuk = (a) => a.sourceLabel || 'tvOneNews';
 
+// fotoDitolak menandai artikel yang foto sumbernya SUDAH pernah dicoba dan
+// ternyata kembar dengan foto artikel lain. Tanpa penanda ini, tiap putaran
+// mengunduh ulang foto yang sama, menghitung sidiknya, lalu membuangnya lagi:
+// pekerjaan yang hasilnya sudah pasti dan cuma memboroskan permintaan.
 const layak = artikel.filter(a =>
-  a.sourceUrl && a.sourceLabel !== 'IDX' && !a.kreditFoto);
+  a.sourceUrl && a.sourceLabel !== 'IDX' && !a.kreditFoto && !a.fotoDitolak);
 
 log('arsip ' + artikel.length + ' artikel, ' + layak.length + ' layak dicoba (IDX dilewati)');
 
@@ -53,7 +57,11 @@ for (const a of layak) {
 
     const foto = pasangFotoUnik(a.slug, [utama],
       { peta, terpakai, unduh: unduhFoto, log });
-    if (!foto) { kembar++; continue; }
+    if (!foto) {
+      kembar++;
+      a.fotoDitolak = true;   // jangan dicoba lagi putaran berikutnya
+      continue;
+    }
 
     a.fotoSumber = foto;
     a.kreditFoto = kreditUntuk(a);
@@ -84,10 +92,10 @@ for (const a of layak) {
 log('selesai: ' + dapat + ' foto asli dipasang, ' + nihil + ' sumber tanpa foto, ' +
   kembar + ' ditolak karena kembar, ' + gagal + ' gagal');
 
-if (dapat) {
+if (dapat || kembar) {
   writeData('articles.js', 'ARTICLES', artikel,
     '// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,\n' +
     '// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.\n' +
     '// Dibuat otomatis - jangan diedit manual.');
-  execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
+  if (dapat) execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
 }

@@ -90,6 +90,13 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   // fungsi ini. Penting untuk GitHub Actions: di sana ilustrasi memang tidak
   // bisa dibuat, tapi sekitar 70 persen artikel berasal dari tvOneNews yang
   // selalu berfoto, dan foto-foto itu tetap bisa diambil di sana.
+  //
+  // CATATAN 13 Agustus 2026: kalimat di atas benar secara prinsip tapi sempat
+  // salah dalam praktik, karena ffmpeg TIDAK terpasang di runner ubuntu-latest.
+  // Selama berminggu-minggu tiap putaran cloud mencatat "spawnSync ffmpeg
+  // ENOENT" dan diam-diam jatuh ke ilustrasi. Sekarang daily.yml memasang
+  // ffmpeg lebih dulu. Kalau kelak pipeline dipindah ke runner lain, pastikan
+  // ffmpeg ikut, atau jalur foto asli mati lagi tanpa suara.
   const bisaIlustrasi = alatGambarTersedia();
   if (!bisaIlustrasi) {
     log('foto artikel: pembuat ilustrasi tidak ada di mesin ini.');

@@ -47,6 +47,24 @@ jobs:
       - name: Pasang dependensi
         run: npm ci
 
+      - name: Pasang ffmpeg
+        run: |
+          # WAJIB untuk mengunduh foto asli dari sumber. unduhFoto memakai
+          # ffmpeg mengecilkan gambar ke 680px, dan ffmpeg TIDAK tersedia di
+          # runner ubuntu-latest.
+          #
+          # Selama ini gagal diam-diam: tiap putaran cloud mencatat "unduh
+          # gagal: spawnSync ffmpeg ENOENT" lalu artikel jatuh ke ilustrasi AI,
+          # sehingga foto asli hanya pernah terpasang ketika pipeline
+          # dijalankan dari komputer rumah. Komentar di foto-artikel.mjs
+          # bahkan menyatakan sebaliknya, bahwa unduhan "cuma butuh curl dan
+          # ffmpeg, jadi bisa jalan di runner GitHub". Bagian curl-nya benar,
+          # bagian ffmpeg-nya tidak pernah diperiksa. Ketahuan 13 Agustus 2026
+          # saat membaca log putaran yang gagal karena sebab lain.
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          ffmpeg -version | head -1
+
       - name: Ambil berita, video, dan data pasar
         env:
           # Mesin AI: pakai token langganan Claude (tanpa biaya API tambahan).

@@ -46,7 +46,8 @@ import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
     'assets/js/articles.js', 'assets/js/articles-index.js', 'assets/js/videos.js',
-    'assets/js/market.js', 'assets/js/bps.js'];
+    'assets/js/market.js', 'assets/js/bps.js', 'assets/js/harian.js',
+    'assets/js/harian-arsip.js'];
   const h = crypto.createHash('md5');
   for (const f of berkas) {
     const fp = path.join(ROOT, f);
@@ -481,6 +482,9 @@ ARTICLES.forEach(function (a) {
       : jenisSumber(a) === 'gov' ? 'Baca siaran pers asli di ' + esc(a.sourceLabel) + ' &rarr;'
       : 'Baca artikel asli di tvOneNews &rarr;'}</a>` +
     `<a class="koreksi-link" href="/kontak.html#koreksi">Menemukan kekeliruan? Beri tahu redaksi &rarr;</a></div>` +
+    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Suka ringkasan seperti ini?</b>` +
+    `<span>Signal Harian merangkai seluruh berita ekonomi hari itu jadi satu tulisan, dikirim ke email tiap sore hari kerja. Gratis.</span></div>` +
+    `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal Harian</button></div>` +
     `</div><aside class="article-side">${KARTU_PASAR}<h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
     `<a class="compact-row" href="/berita.html"><span class="compact-body"><span class="compact-title">Semua Berita</span><span class="compact-meta">${ARTICLES.length} artikel</span></span></a>` +
@@ -681,6 +685,7 @@ const HARIAN = muatHarian();
 if (HARIAN) {
   const isi =
     `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div id="harian-isi" data-edisi="${esc(HARIAN.tanggal)}">` +
     `<div class="harian-head">` +
     `<span class="harian-kicker">Signal Harian</span>` +
     `<h1 class="harian-judul">${esc(HARIAN.judul)}</h1>` +
@@ -693,11 +698,58 @@ if (HARIAN) {
       `<div><h2>${esc(b.judul)}</h2><p>${esc(b.isi)}</p></div></article>`).join('') +
     `</div>` +
     (HARIAN.penutup ? `<p class="harian-penutup">${esc(HARIAN.penutup)}</p>` : '') +
+    `</div>` +
     `<div class="article-source-box" style="max-width:70ch;"><p>Signal Harian disusun redaksi The Signal ` +
     `dari seluruh berita yang terbit hari itu. Isinya pembacaan arah, bukan penilaian benar atau salah ` +
     `atas kebijakan, dan bukan rekomendasi investasi.</p>` +
     `<a href="/berita.html">Baca berita hari ini &rarr;</a></div>` +
-    `</section>`;
+    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Edisi seperti ini, tiap sore hari kerja</b>` +
+    `<span>Dikirim ke email kamu pukul 17.00 WIB setelah edisinya terbit di sini. Gratis, berhenti kapan saja.</span></div>` +
+    `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal Harian</button></div>` +
+    `</section>` +
+    // Tautan edisi dari email dan feed berbentuk ?edisi=YYYY-MM-DD. Dulu tidak
+    // ditangani sama sekali: pembuka tautan edisi lama disuguhi edisi terbaru
+    // tanpa penjelasan, seolah tautannya rusak. Arsipnya sudah ada di
+    // harian-arsip.js (30 edisi), tinggal dirender. Markup hasil rendernya
+    // KEMBAR dengan cetakan di atas; kalau mengubah salah satu, ubah keduanya.
+    `<script src="/assets/js/harian-arsip.js?v=${VER}" defer></script>` +
+    `<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var m = location.search.match(/[?&]edisi=(\\d{4}-\\d{2}-\\d{2})/);
+  if (!m) return;
+  var wadah = document.getElementById('harian-isi');
+  if (!wadah || m[1] === wadah.getAttribute('data-edisi')) return;
+  var arsip = (typeof HARIAN_ARSIP === 'undefined') ? [] : HARIAN_ARSIP;
+  var e = null;
+  for (var i = 0; i < arsip.length; i++) if (arsip[i].tanggal === m[1]) e = arsip[i];
+  var esc = TS.esc;
+  if (!e) {
+    // Edisi tidak ada di arsip: katakan itu terang-terangan. Menampilkan
+    // edisi lain tanpa penjelasan sama saja membiarkan pembaca mengira
+    // tautannya rusak.
+    var p = document.createElement('p');
+    p.className = 'harian-arsip-note';
+    p.innerHTML = 'Edisi ' + esc(m[1]) + ' sudah tidak ada di arsip 30 edisi terakhir situs ini. ' +
+      'Yang tampil di bawah adalah edisi terbaru; edisi lama tersimpan di ' +
+      '<a href="https://buttondown.com/the-signal/archive" target="_blank" rel="noopener">arsip Buttondown</a>.';
+    wadah.insertBefore(p, wadah.firstChild);
+    return;
+  }
+  wadah.innerHTML =
+    '<p class="harian-arsip-note">Kamu membaca edisi arsip. <a href="/signal-harian.html">Buka edisi terbaru &rarr;</a></p>' +
+    '<div class="harian-head">' +
+    '<span class="harian-kicker">Signal Harian</span>' +
+    '<h1 class="harian-judul">' + esc(e.judul) + '</h1>' +
+    '<p class="harian-tanggal num">' + esc(e.tanggalLabel) + ' &middot; dirangkai dari ' + e.jumlahBahan + ' berita</p>' +
+    '<p class="harian-ringkas">' + esc(e.ringkas) + '</p></div>' +
+    '<div class="harian-benang">' + e.benang.map(function (b, i) {
+      return '<article class="benang"><span class="benang-num num">' + String(i + 1).padStart(2, '0') + '</span>' +
+        '<div><h2>' + esc(b.judul) + '</h2><p>' + esc(b.isi) + '</p></div></article>';
+    }).join('') + '</div>' +
+    (e.penutup ? '<p class="harian-penutup">' + esc(e.penutup) + '</p>' : '');
+  document.title = 'Signal Harian ' + e.tanggalLabel + ' \u00b7 The Signal';
+});
+</script>`;
 
   fs.writeFileSync(path.join(ROOT, 'signal-harian.html'),
     head({

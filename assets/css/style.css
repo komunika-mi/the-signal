@@ -669,3 +669,27 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
 .article-source-box .koreksi-link {
   display: inline-block; margin-left: 1.1rem; opacity: .75;
 }
+
+/* ---------- Funnel Signal+ ---------- */
+/* Ajakan langganan di ujung artikel dan halaman Signal Harian. Ditaruh
+   SETELAH kotak sumber: pembaca selesai dulu, baru diajak. */
+.artikel-cta {
+  max-width: var(--kolom-baca); margin: 1.6rem 0 0; padding: 1.1rem 1.2rem;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--dark);
+  display: flex; align-items: center; justify-content: space-between; gap: 1.2rem; flex-wrap: wrap;
+}
+.artikel-cta-copy { display: flex; flex-direction: column; gap: .25rem; flex: 1 1 260px; }
+.artikel-cta-copy b { color: var(--page); font-family: var(--sans); font-size: .95rem; }
+.artikel-cta-copy span { color: rgba(250,249,245,.75); font-family: var(--sans); font-size: .78rem; line-height: 1.5; }
+.artikel-cta .btn-modal-submit { flex: none; width: auto; padding-inline: 1.2rem; }
+
+/* Keterangan saat membuka edisi arsip lewat tautan ?edisi= dari email. */
+.harian-arsip-note {
+  max-width: 70ch; margin: 0 0 1.3rem; padding: .7rem .95rem;
+  border-left: 3px solid var(--red); background: var(--red-tint);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-family: var(--sans); font-size: .8rem; line-height: 1.55; color: var(--ink);
+}
+
+/* Tautan contoh edisi di modal langganan. */
+.modal-contoh { font-family: var(--sans); font-size: .8rem; margin-top: .8rem; color: var(--ink-soft); }

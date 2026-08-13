@@ -253,10 +253,45 @@
       '<input type="hidden" name="embed" value="1">' +
       '<button class="btn-modal-submit" type="submit">Daftar gratis</button>' +
       '</form>' +
+      // Calon pelanggan berhak melihat barangnya sebelum menyerahkan email.
+      // Temuan audit: modal lama tidak menautkan apa pun, jadi satu-satunya
+      // cara menilai isinya adalah mendaftar dulu. Itu urutan yang terbalik.
+      '<p class="modal-contoh">Mau lihat dulu isinya? ' +
+      '<a href="/signal-harian.html">Baca edisi terbaru</a> atau ' +
+      '<a href="https://buttondown.com/the-signal/archive" target="_blank" rel="noopener">arsip semua edisi</a>.</p>' +
       '<p class="modal-privasi">Setelah mendaftar, kami kirim satu email berisi tautan ' +
       'konfirmasi. Langganan baru aktif kalau tautan itu kamu klik. Email kamu dikelola ' +
       'lewat Buttondown dan hanya dipakai untuk mengirim Signal Harian. Bisa berhenti ' +
       'kapan saja lewat tautan di tiap email.</p>';
+
+    // Umpan balik pasca-submit. Form mengirim ke Buttondown di tab lain, jadi
+    // tab ini dulu diam saja: modal tetap terbuka, email masih terisi, tombol
+    // bisa diklik lagi. Pendaftar tidak tahu harus berbuat apa, padahal
+    // langkah penentunya (klik tautan konfirmasi di email) justru belum
+    // dikerjakan. Sekarang isi modal berganti jadi pengarah ke langkah itu.
+    var form = isi.querySelector('.form-langganan');
+    if (form) form.addEventListener('submit', function () {
+      var email = (form.querySelector('input[type="email"]') || {}).value || '';
+      setTimeout(function () {
+        isi.innerHTML =
+          '<h3>Satu langkah lagi</h3>' +
+          '<p>Kami baru saja mengirim email konfirmasi' +
+          (email ? ' ke <strong>' + TS.esc(email) + '</strong>' : '') +
+          '. Buka emailnya dan klik tautan konfirmasinya. Langganan aktif setelah itu.</p>' +
+          '<p class="modal-privasi">Belum masuk dalam beberapa menit? Periksa folder spam. ' +
+          'Salah tulis alamat? Tutup jendela ini dan daftar ulang.</p>' +
+          '<button class="btn-modal-submit" type="button" id="modal-selesai">Selesai</button>';
+        var selesai = document.getElementById('modal-selesai');
+        if (selesai) selesai.addEventListener('click', function () {
+          backdrop.classList.remove('open');
+          TS.initModal && isiUlang();
+        });
+      }, 150);
+    });
+
+    // Mengembalikan form setelah alur selesai, supaya pendaftar kedua di
+    // perangkat yang sama tidak mewarisi layar "satu langkah lagi".
+    function isiUlang() { TS.initModal(); }
   };
 
 })();

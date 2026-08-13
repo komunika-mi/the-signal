@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Yi68Bx3obXQ",
+  "title": "DPR dan Buruh Bahas RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Pimpinan DPR RI menerima perwakilan serikat buruh untuk membahas penyusunan RUU Ketenagakerjaan, termasuk sejumlah usulan yang diajukan buruh untuk masuk ke draf regulasi.",
+  "takeaway": "Pembahasan RUU ini layak disimak karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja maupun dunia usaha."
+ },
+ {
   "id": "QpHHORrp9E8",
   "title": "Dunia Hadapi Ancaman Suplai Minyak",
   "category": "Energi",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "DPR akan mulai memproses calon Gubernur Bank Indonesia pekan depan sebagai tahapan menuju penetapan pimpinan bank sentral yang baru.",
   "takeaway": "Sosok Gubernur BI berikutnya akan turut menentukan arah kebijakan moneter, sehingga proses seleksinya penting dicermati pelaku pasar."
- },
- {
-  "id": "2YRniOy2Rpc",
-  "title": "Presiden Prabowo Luncurkan Motor Listrik Nasional",
-  "category": "Industri",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto secara resmi meluncurkan program motor listrik nasional sebagai bagian dari pengembangan industri kendaraan listrik dalam negeri.",
-  "takeaway": "Peluncuran ini menjadi sinyal dukungan pemerintah terhadap pengembangan industri kendaraan listrik nasional."
  }
 ];

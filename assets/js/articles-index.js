@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
+  "category": "UMKM",
+  "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
+  "deck": "Shopee meluncurkan program insentif bagi penjual produk lokal, menyusul aturan Kementerian Perdagangan soal visibilitas produk dalam negeri di platform digital.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce.jpg",
+  "imageV": "msrm3kur",
+  "tags": [
+   "UMKM",
+   "e-commerce",
+   "Kementerian Perdagangan",
+   "produk lokal"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-apresiasi-platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertamina-terima-539-peserta-magang-2026",
+  "category": "Ketenagakerjaan",
+  "title": "Pertamina [Terima] 539 Peserta Magang 2026",
+  "deck": "Dari 94.176 pendaftar, Pertamina meluluskan 539 peserta magang 2026 untuk program setahun, jumlah pendaftar melonjak tiga kali lipat dari tahun lalu.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/pertamina-terima-539-peserta-magang-2026.jpg",
+  "imageV": "msrm3lh4",
+  "tags": [
+   "Pertamina",
+   "magang",
+   "ketenagakerjaan",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459735-pertamina-terima-539-peserta-internship-2026-berikan-pengalaman-kerja-bagi-talenta-muda"
+ },
+ {
   "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
   "category": "Energi",
   "title": "PNBP ESDM [Lampaui] Target 2025, Raih Opini WTP",

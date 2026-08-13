@@ -2,6 +2,22 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "lH4tYlMayQk",
+  "title": "Peresmian Ekosistem Motor Listrik Nasional Molinas",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto meresmikan Ekosistem Motor Listrik Nasional (Molinas) sekaligus menandatangani plakat produksi 20.000 unit pertama dari ALVA di Cikarang, Jawa Barat.",
+  "takeaway": "Peresmian ini menandai langkah pengembangan industri kendaraan listrik dalam negeri yang berpotensi mendorong investasi manufaktur nasional."
+ },
+ {
+  "id": "HfLm-4ZFk_w",
+  "title": "Peneliti Ungkap Pertumbuhan Toko Kelontong Melambat",
+  "category": "UMKM",
+  "program": "IBF",
+  "summary": "Peneliti menyoroti pertumbuhan toko kelontong yang relatif lambat di tengah ketatnya persaingan dengan minimarket dan toko online yang gencar menawarkan promosi serta diskon.",
+  "takeaway": "Isu ini penting bagi pembaca karena menggambarkan tekanan persaingan yang dihadapi pelaku usaha ritel tradisional di tengah ekspansi belanja online."
+ },
+ {
   "id": "ZSYqTTdPyoI",
   "title": "DPR Bahas RUU Ketenagakerjaan Bersama Buruh",
   "category": "Ketenagakerjaan",
@@ -80,21 +96,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Kejaksaan Agung mengusut dugaan korupsi perpajakan dan manipulasi harga ekspor minyak sawit mentah yang diduga melibatkan sekitar 10 perusahaan sawit.",
   "takeaway": "Kasus ini menyoroti praktik transfer pricing di industri sawit yang berpotensi merugikan penerimaan negara dari sektor ekspor."
- },
- {
-  "id": "wC5PTtzRTaA",
-  "title": "Bahlil dan Purbaya Bahas Pembatasan BBM Subsidi Pertalite",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri ESDM Bahlil Lahadalia dan Menteri Keuangan Purbaya Yudhi Sadewa membahas rencana pembatasan pembelian BBM bersubsidi jenis Pertalite.",
-  "takeaway": "Kebijakan pembatasan subsidi BBM ini berpotensi berdampak langsung pada anggaran negara dan daya beli masyarakat."
- },
- {
-  "id": "nBoIvPni-mw",
-  "title": "KPPU Beri Rekomendasi Agar Persaingan Usaha Sehat",
-  "category": "Bisnis",
-  "program": "IBF tvOne",
-  "summary": "KPPU menyampaikan sejumlah rekomendasi agar persaingan usaha antara toko kelontong, minimarket, dan platform belanja online di Indonesia berjalan lebih sehat.",
-  "takeaway": "Relevan bagi pembaca karena menyangkut kebijakan persaingan usaha yang berdampak pada pelaku ritel kecil dan menengah."
  }
 ];

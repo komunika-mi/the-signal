@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
+  "category": "UMKM",
+  "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
+  "deck": "Shopee meluncurkan program insentif bagi penjual produk lokal, menyusul aturan Kementerian Perdagangan soal visibilitas produk dalam negeri di platform digital.",
+  "image": "assets/img/kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T14:22:48.180Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-apresiasi-platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "e-commerce",
+   "Kementerian Perdagangan",
+   "produk lokal"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso menghadiri peluncuran program insentif bagi penjual produk lokal di platform Shopee, sebagai tindak lanjut dari Peraturan Menteri Perdagangan Nomor 19 Tahun 2026 tentang perdagangan melalui sistem elektronik. Aturan itu mewajibkan platform niaga elektronik mengutamakan visibilitas produk dalam negeri, artinya produk lokal harus lebih mudah ditemukan pembeli dibanding sebelumnya. Bagi pelaku UMKM, ini berarti peluang lebih besar untuk terlihat konsumen tanpa harus membayar promosi mahal.",
+   "Program yang diberi nama Akselerasi Produk Lokal ini memberi sejumlah insentif konkret. Penjual yang seluruh produknya lokal mendapat voucher khusus setiap tanggal 17, ditambah pembebasan biaya layanan platform selama tiga bulan. Shopee juga menyediakan pelatihan usaha lewat Kampus UMKM Shopee serta fitur Brand IP Protection untuk melindungi merek dagang pelaku usaha dari peniruan. Di sisi pemerintah, Kementerian Perdagangan sendiri menjalankan program kurasi bernama Product Placement Pilihan Busan, yang kini sudah memasuki periode kedua hingga Agustus 2026.",
+   "Salah satu pelaku usaha yang hadir, pendiri jenama fesyen muslim Hijab Berlin, Ayu Mai Fakih, menyebut produknya sudah diekspor ke sembilan negara, di antaranya Malaysia, Thailand, Hong Kong, Brunei Darussalam, Taiwan, dan Arab Saudi. Ia mengaitkan perluasan pasar ekspor itu dengan dukungan ekosistem perdagangan digital dan fasilitasi pemerintah."
+  ],
+  "fotoAdegan": "A small home-based textile workshop owner folding finished garments into shipping boxes beside a laptop, warm morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/wHNc4Fmcrb3iwXi5DPR3TLuuT3HQM5kpDFHBRgbW.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan aturannya, karena Permendag Nomor 19 Tahun 2026 sudah ada, melainkan langkah konkret platform menjalankannya: voucher bagi penjual 100 persen produk lokal setiap tanggal 17 dan bebas biaya layanan tiga bulan. Yang terdampak langsung adalah pelaku UMKM yang berjualan di Shopee, terutama yang memenuhi syarat produk lokal penuh, sementara konsumen akan melihat produk dalam negeri lebih menonjol di halaman platform. Ini terlihat sebagai bagian dari pola bertahap Kemendag mendorong e-commerce mengutamakan produk lokal, sejalan dengan program kurasi Product Placement Pilihan Busan yang sudah berjalan dua periode. Yang akan menunjukkan apakah dorongan ini punya efek nyata adalah apakah platform besar lain menyusul dengan insentif serupa, dan apakah ada data penjualan produk lokal pada periode berikutnya yang bisa dibandingkan.",
+  "imageV": "msrm3kur"
+ },
+ {
+  "slug": "pertamina-terima-539-peserta-magang-2026",
+  "category": "Ketenagakerjaan",
+  "title": "Pertamina [Terima] 539 Peserta Magang 2026",
+  "deck": "Dari 94.176 pendaftar, Pertamina meluluskan 539 peserta magang 2026 untuk program setahun, jumlah pendaftar melonjak tiga kali lipat dari tahun lalu.",
+  "image": "assets/img/pertamina-terima-539-peserta-magang-2026.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T21:11:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459735-pertamina-terima-539-peserta-internship-2026-berikan-pengalaman-kerja-bagi-talenta-muda",
+  "tags": [
+   "Pertamina",
+   "magang",
+   "ketenagakerjaan",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pertamina (Persero) resmi menerima 539 peserta program Internship Pertamina 2026, hasil seleksi dari total 94.176 pendaftar tahun ini. Program ini penting karena mencerminkan besarnya minat generasi muda mendapatkan pengalaman kerja di salah satu perusahaan energi terbesar nasional, sekaligus menunjukkan makin ketatnya persaingan memperebutkan kesempatan tersebut.",
+   "Jumlah pendaftar tahun ini meningkat tiga kali lipat dibandingkan tahun sebelumnya, sementara kursi yang tersedia tetap terbatas di angka 539 orang. Proses seleksi berlangsung sekitar satu bulan, mulai dari tahap administrasi hingga wawancara, dan dibuka lewat platform Pertamina Talent Candidate. Peserta terpilih akan menjalani program selama satu tahun di berbagai unit Pertamina Grup, yang secara resmi dimulai lewat penandatanganan kontrak kerja internship pada acara onboarding di Gedung Pertamina WanitaPatra, Simprug, Jakarta, Senin (10/8).",
+   "VP Talent Development & Recruitment Pertamina, Muhammad Aryomekka Firdaus, menyebut program ini sebagai upaya membuka akses lebih luas bagi masyarakat untuk bergabung dengan Pertamina, baik lewat jalur rekrutmen reguler maupun internship. Salah satu peserta, Putri Astrian, alumnus Universitas Padjajaran, mengaku proses seleksi berjalan cepat dan menyebut Pertamina masih menjadi perusahaan impian bagi banyak pencari kerja."
+  ],
+  "fotoAdegan": "Group of young Indonesian professionals in business attire walking through a modern corporate office lobby, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7dd001a24c9-pt-pertamina-persero-kembali-menyelenggarakan-program-internship-pertamina-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka yang paling mencolok dari program ini adalah rasio keketatannya, dari 94.176 orang yang mendaftar tahun ini, hanya 539 yang diterima, atau sekitar 6 orang dari setiap 1.000 pendaftar. Jumlah pendaftar itu sendiri melonjak tiga kali lipat dibanding tahun sebelumnya, sementara kuota yang diterima tidak disebut berubah signifikan, sehingga pintu masuknya justru makin sempit. Yang terdampak langsung adalah lulusan baru dan mahasiswa tingkat akhir yang bersaing memperebutkan pengalaman kerja di BUMN besar seperti Pertamina, incaran yang menurut angka ini kian diminati dari tahun ke tahun. Berita ini belum menjelaskan apakah lonjakan pendaftar itu didorong oleh makin banyak lulusan baru yang mencari pengalaman kerja atau oleh sempitnya lapangan kerja di sektor swasta, jadi arah pastinya baru akan terlihat kalau dibandingkan dengan data resmi jumlah lulusan perguruan tinggi atau tingkat pengangguran muda dari BPS.",
+  "imageV": "msrm3lh4"
+ },
+ {
   "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
   "category": "Energi",
   "title": "PNBP ESDM [Lampaui] Target 2025, Raih Opini WTP",

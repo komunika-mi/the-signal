@@ -18,6 +18,7 @@ const VIDEOS = muat('videos.js');
 // Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
 import { tulisIndeksArtikel, bakeRoot } from './bake-root.mjs';
+import { HALAMAN_STATIS } from './halaman-statis.mjs';
 tulisIndeksArtikel(ARTICLES);
 function muatPasar() {
   const p = path.join(ROOT, 'assets/js', 'market.js');
@@ -337,6 +338,8 @@ const FOOT = `
           <li><a href="/index.html">Beranda</a></li>
           <li><a href="/berita.html">Semua Berita</a></li>
           <li><a href="/video.html">Video</a></li>
+          <li><a href="/tentang.html">Tentang The Signal</a></li>
+          <li><a href="/kontak.html">Kontak &amp; Koreksi</a></li>
           <li><a href="https://adsmediamix.id" target="_blank" rel="noopener">adsmediamix.id</a></li>
         </ul>
       </div>
@@ -352,6 +355,7 @@ const FOOT = `
     <div class="rail footer-bottom">
       <span>&copy; 2026 The Signal. Dirangkum dari tvOneNews, IDX, dan lembaga resmi, dengan tautan sumber di tiap artikel.</span>
       <span>Data pasar dari sumber publik, bukan feed resmi bursa</span>
+      <span><a href="/privasi.html">Kebijakan Privasi</a> &middot; <a href="/pedoman-media-siber.html">Pedoman Media Siber</a></span>
     </div>
   </footer>
 
@@ -454,6 +458,9 @@ ARTICLES.forEach(function (a) {
       a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
       : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
     `<div class="article-body">${badanDenganBps(a)}</div>` +
+    (a.category === 'Pasar Modal' || a.category === 'Moneter'
+      ? `<p class="disclaimer-investasi">Artikel ini informasi, bukan ajakan atau rekomendasi membeli maupun menjual instrumen investasi apa pun. Keputusan investasi beserta risikonya sepenuhnya tanggung jawab pembaca.</p>`
+      : '') +
     (a.takeaway ? `<div class="video-takeaway catatan-idx">` +
       `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
         { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
@@ -472,7 +479,8 @@ ARTICLES.forEach(function (a) {
     `<a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">${
       jenisSumber(a) === 'idx' ? 'Lihat dokumen resmi di IDX &rarr;'
       : jenisSumber(a) === 'gov' ? 'Baca siaran pers asli di ' + esc(a.sourceLabel) + ' &rarr;'
-      : 'Baca artikel asli di tvOneNews &rarr;'}</a></div>` +
+      : 'Baca artikel asli di tvOneNews &rarr;'}</a>` +
+    `<a class="koreksi-link" href="/kontak.html#koreksi">Menemukan kekeliruan? Beri tahu redaksi &rarr;</a></div>` +
     `</div><aside class="article-side">${KARTU_PASAR}<h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
     `<a class="compact-row" href="/berita.html"><span class="compact-body"><span class="compact-title">Semua Berita</span><span class="compact-meta">${ARTICLES.length} artikel</span></span></a>` +
@@ -633,6 +641,27 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
   console.log('halaman 404: ok');
 }
 
+// ---------- halaman identitas media ----------
+// Empat halaman wajib dari halaman-statis.mjs. Dirender lewat head() dan FOOT
+// yang sama dengan halaman lain supaya navigasi dan footer tidak pernah
+// selisih, dan ikut terbangun ulang tiap build.
+for (const hs of HALAMAN_STATIS) {
+  fs.writeFileSync(path.join(ROOT, hs.slug + '.html'),
+    head({
+      title: hs.judul,
+      desc: hs.desc,
+      url: '/' + hs.slug + '.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail halaman-statis" style="padding-block:2.6rem;">` +
+    `<span class="eyebrow">The Signal</span>` +
+    `<h1>${esc(hs.judul)}</h1>` +
+    `<div class="article-body">${hs.isi}</div>` +
+    `</section>` + FOOT, 'utf8');
+}
+console.log('halaman identitas:', HALAMAN_STATIS.length);
+
 // ---------- panggang beranda + arsip ----------
 bakeRoot({ ARTICLES, VIDEOS, VER });
 console.log('bake beranda + arsip: ok');
@@ -770,7 +799,8 @@ periksaHalamanRoot();
 // jadi lastmod-nya tanggal build. Artikel memakai tanggal terbitnya sendiri.
 // Video tidak membawa tanggal di datanya, jadi tanpa lastmod; itu sah.
 const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
-const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html']
+const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
+  '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
   .concat(ARTICLES.map(a => ({ loc: articleUrl(a), lastmod: (a.isoDate || '').slice(0, 10) })))
   .concat(VIDEOS.map(v => ({ loc: videoUrl(v) })));

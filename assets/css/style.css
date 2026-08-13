@@ -646,3 +646,26 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
 .story-art img, .article-cover img, .related-thumb img, .hero-cover img {
   width: 100%; height: 100%; object-fit: cover; display: block;
 }
+
+/* ---------- Halaman identitas media (tentang/kontak/privasi/pedoman) ---------- */
+.halaman-statis { max-width: var(--kolom-baca); }
+.halaman-statis h1 { margin: .5rem 0 1.2rem; }
+.halaman-statis .article-body h2 {
+  font-size: 1.15rem; margin: 1.8rem 0 .5rem; font-family: var(--sans);
+  letter-spacing: -.01em;
+}
+.halaman-statis .article-body p { margin-bottom: .9rem; }
+
+/* Disclaimer rubrik pasar. Teks kecil tapi bukan samar: temuan audit, 21 dari
+   21 artikel Pasar Modal tayang tanpa disclaimer investasi sama sekali. */
+.disclaimer-investasi {
+  max-width: var(--kolom-baca); margin: 1.4rem 0; padding: .75rem .95rem;
+  border-left: 3px solid var(--red); background: var(--card);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-family: var(--sans); font-size: .78rem; line-height: 1.55; color: var(--ink-soft);
+}
+
+/* Tautan lapor kekeliruan di kotak sumber, tampil di semua halaman artikel. */
+.article-source-box .koreksi-link {
+  display: inline-block; margin-left: 1.1rem; opacity: .75;
+}

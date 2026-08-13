@@ -1,5 +1,6 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",
@@ -24,7 +25,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide view of a quiet new housing cluster with paved streets and young trees in a suburban Indonesian estate, late afternoon light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d5227cd856-sinar-mas-land-bersama-sojitz-corporation-jepang-menghadirkan-meliora-klaster-residensial-terbaru-di-kota-deltamas-cikarang_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah pasokan hunian baru di Deltamas: tahap pertama Meliora membuka 68 unit dengan harga mulai Rp800 jutaan di lahan 1,8 hektare, bagian kecil dari kawasan Deltamas yang totalnya mencapai 3.200 hektare. Yang paling terdampak adalah calon pembeli rumah kelas menengah di koridor timur Jakarta, terutama pekerja di kawasan industri Cikarang yang jumlahnya terus bertambah seiring masuknya pabrik dan pusat data baru. Masuknya Sojitz sebagai mitra asal Jepang juga menunjukkan minat investor luar negeri tetap ada di sektor properti kawasan industri ini. Proyek residensial baru ini mengarah pada penguatan Deltamas dari sekadar kawasan industri menjadi kota mandiri dengan hunian terintegrasi, sejalan dengan pertumbuhan lapangan kerja yang disebut dalam rilis ini. Untuk melihat apakah minat pasar benar mengikuti ekspansi ini, indikator berikutnya adalah kecepatan terjualnya 68 unit tahap pertama sebelum pengembang melanjutkan ke fase berikutnya."
  },
  {
@@ -51,7 +52,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of packaged local Indonesian snacks neatly arranged on a modern minimarket shelf, softly lit, labels out of sharp focus",
   "fotoSumber": "https://www.kemendag.go.id/albums/7wPlsX90jEkiESEUqFOb2cCHaJxmcWAyyS7RyG3c.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah bukan program kurasinya, PPPB sudah berjalan sebelumnya, melainkan cara distribusinya: dari sekadar dipajang di lingkungan kantor kementerian, produk UMKM terpilih kini disalurkan lewat rantai ritel modern seperti Indomaret dan gerai Point Coffee. Yang paling terdampak adalah UMKM pangan skala kecil yang lolos kurasi, seperti KhumKhum Jamur Crispy dari Kulon Progo yang produknya kini ada di lebih dari 2.000 titik Indomaret di Bogor dan Parung. Namun peresmian ini sendiri masih berskala kecil, satu pojok di kantor Kemendag dengan 15 produk, sehingga belum terlihat apakah pola distribusi semacam ini akan direplikasi untuk UMKM lain di luar yang sudah terkurasi. Sinyal berikutnya yang perlu dicermati adalah performa produk-produk PPPB di pameran Trade Expo Indonesia pada 14-18 Oktober 2026, yang akan menunjukkan apakah program ini benar-benar membuka jalan ke pasar ekspor atau berhenti sebatas ritel dalam negeri."
  },
  {
@@ -103,7 +104,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Close-up of small gold bars and coins arranged on a velvet tray inside a jewelry display counter, soft indoor lighting",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Kenaikan Rp20.000 ke Rp2.700.000 per gram ini hanya perbandingan dengan sehari sebelumnya, jadi belum bisa disimpulkan apakah ini awal tren naik atau sekadar koreksi harian. Yang terdampak langsung adalah pemilik emas Antam yang ingin menjual kembali, karena harga buyback naik ke Rp2.546.000, tapi selisihnya dengan harga jual masih sekitar Rp154.000 per gram, artinya baru untung kalau harga naik melebihi selisih itu. Untuk memastikan ke mana arah harga bergerak, perlu dilihat data harga emas Antam dan harga emas dunia dalam beberapa hari ke depan, karena data itu belum tersedia di sini."
  },
  {
@@ -129,7 +130,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A resident paying bills via smartphone at a busy Jakarta street ATM booth, morning light, screen blurred and out of focus",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7ca8bcd0c5a-ilustrasi-perumahan-objek-pajak-bumi-dan-bangunan_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah PBB-P2 tahun pajak 2026 otomatis mendapat potongan 5 persen kalau dibayar antara 1 Agustus dan 30 September 2026, sesuai Keputusan Gubernur Nomor 339 Tahun 2026, tanpa wajib pajak perlu mengajukan permohonan apa pun. Yang terdampak adalah seluruh pemilik tanah dan bangunan di DKI Jakarta yang berstatus wajib pajak PBB-P2, karena potongan ini berlaku umum lewat sistem pembayaran, bukan lewat pengajuan khusus untuk kelompok tertentu. Pola ini menunjukkan Pemprov DKI memakai diskon sebagai cara mendorong warga membayar lebih cepat sebelum jatuh tempo, bukan memperpanjang keringanan setelah tenggat lewat. Yang akan menunjukkan seberapa berhasil cara ini adalah data realisasi penerimaan PBB-P2 setelah 30 September 2026 dibandingkan periode yang sama tahun lalu, yang belum tersedia dalam berita ini."
  },
  {
@@ -155,7 +156,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Shoppers browsing clothing stalls in a quiet Jakarta traditional market during late afternoon, few customers visible.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret hari ini, rupiah melemah tipis 8 poin ke Rp17.885, melanjutkan pelemahan 52 poin sehari sebelumnya, padahal data penjualan ritel Juni justru membaik, penurunannya melandai dari 3,9 persen menjadi 3,0 persen dibanding tahun lalu. Pola ini mengarah pada dugaan bahwa tekanan ke rupiah saat ini lebih banyak berasal dari sentimen pasar global seperti laporan MSCI, bukan semata perlambatan ekonomi dalam negeri. Yang terdampak adalah pelaku usaha ritel yang masih menghadapi daya beli lemah, kalangan yang mengandalkan barang impor karena rupiah lebih mahal, serta pemerintah yang rasio utangnya terhadap ukuran ekonomi nasional naik dari 40,75 persen menjadi 41,26 persen hanya dalam tiga bulan. Untuk melihat apakah pelemahan rupiah ini menetap atau berbalik, data kurs Jisdor pekan-pekan mendatang serta angka penjualan ritel Juli akan jadi penanda penting."
  },
  {
@@ -181,7 +182,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Motorcycles and cars lining up at a fuel station pump nozzle on a busy Indonesian roadside, midday light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a64744deb470-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan intinya bukan pada harga, melainkan pada siapa yang boleh membeli Pertalite dengan harga subsidi. Yang disasar adalah desil 9 dan 10, yakni dua kelompok masyarakat dengan pengeluaran tertinggi, yang nantinya diarahkan membeli BBM non-subsidi, sementara harga Pertalite untuk kelompok lain tetap sama. Uji coba akan dilakukan bertahap, misalnya menyetop dulu pembelian dari desil 10 sebelum melihat dampaknya ke ekonomi, sebelum diperluas ke desil 9. Munculnya rencana ini sehari setelah pertemuan dengan Menteri ESDM soal kebocoran subsidi energi ratusan triliun rupiah menunjukkan arah kebijakan menuju penyaluran subsidi berbasis data penerima, bukan pencabutan subsidi sekaligus. Yang akan memastikan arah ini adalah hasil evaluasi tahap pertama dan aturan turunan sistem penyaluran yang disebut masih disiapkan bersama Kementerian ESDM."
  },
  {

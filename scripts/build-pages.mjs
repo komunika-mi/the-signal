@@ -345,7 +345,13 @@ ARTICLES.forEach(function (a) {
 
   const relatedHtml = related.map(x =>
     `<a class="related-card" href="${articleUrl(x)}">` +
-    `<div class="related-thumb ai-wrap" style="background-image:url('/${x.image}')"><span class="ai-tag" style="right:3px;bottom:3px;font-size:7.5px;padding:1px 4px;">AI</span></div>` +
+    // Penanda AI HANYA untuk gambar yang memang buatan. Dulu dipasang tanpa
+    // syarat, sehingga foto asli dari tvOneNews dan Kemendag ikut dilabeli AI.
+    // Itu keliru dua arah: merendahkan foto dokumentasi yang sungguhan, dan
+    // membuat labelnya kehilangan arti karena semua gambar dilabeli sama.
+    `<div class="related-thumb ai-wrap" style="background-image:url('/${x.image}')">${
+      x.kreditFoto ? '' : '<span class="ai-tag" style="right:3px;bottom:3px;font-size:7.5px;padding:1px 4px;">AI</span>'
+    }</div>` +
     `<div><div class="related-title">${hl(x.title)}</div>` +
     `<div class="related-meta">${esc(x.category)}</div></div></a>`).join('');
 

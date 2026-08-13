@@ -20,7 +20,7 @@
 <meta name="twitter:title" content="The Signal — Berita &amp; Analisis Ekonomi">
 <meta name="twitter:description" content="Berita ekonomi Indonesia tiap hari. Kolaborasi adsmediamix.id dan tvOne">
 <meta name="twitter:image" content="https://the-signal.id/assets/img/og-card.jpg">
-<link rel="stylesheet" href="assets/css/style.css?v=1d7efce5">
+<link rel="stylesheet" href="assets/css/style.css?v=36104876">
 </head>
 <body>
 <div class="page">
@@ -283,10 +283,10 @@
   </div>
 </div>
 
-<script src="assets/js/articles.js?v=1d7efce5"></script>
-<script src="assets/js/videos.js?v=1d7efce5"></script>
-<script src="assets/js/market.js?v=1d7efce5"></script>
-<script src="assets/js/shared.js?v=1d7efce5"></script>
+<script src="assets/js/articles.js?v=36104876"></script>
+<script src="assets/js/videos.js?v=36104876"></script>
+<script src="assets/js/market.js?v=36104876"></script>
+<script src="assets/js/shared.js?v=36104876"></script>
 <script>
 (function () {
   var hero = ARTICLES[0];
@@ -308,7 +308,11 @@
     '</div>' +
     '<a href="' + TS.articleUrl(hero) + '"><div class="hero-cover ai-wrap" style="background-image:url(\'' + hero.image + '\')">' +
       '<span class="cover-tag">' + TS.esc(hero.category) + ' &middot; ' + TS.esc(hero.date) + '</span>' +
-      '<span class="ai-tag">Ilustrasi AI</span>' +
+      // Sebut AI hanya kalau gambarnya memang buatan. Foto asli dapat kredit
+      // sumbernya, bukan label yang merendahkannya jadi ilustrasi.
+      (hero.kreditFoto
+        ? '<span class="foto-tag">Foto: ' + TS.esc(hero.kreditFoto) + '</span>'
+        : '<span class="ai-tag">Ilustrasi AI</span>') +
     '</div></a>' +
     '<div class="key-points"><h4>Yang perlu kamu tahu</h4><ul>' +
       HERO_POINTS.map(function (p, i) {

@@ -19,11 +19,22 @@
     return '/berita/' + a.slug + '.html';
   };
 
+  // Penanda gambar HANYA menyebut AI kalau gambarnya memang buatan.
+  //
+  // Dulu tiap kartu dilabeli "Ilustrasi AI" tanpa syarat, jadi setelah 135 dari
+  // 185 artikel memakai foto asli dari tvOneNews dan Kemendag, seluruh situs
+  // tetap terlihat serba buatan. Keliru dua arah: merendahkan foto dokumentasi
+  // yang sungguhan, sekaligus membuat labelnya kehilangan arti karena semua
+  // gambar dilabeli sama. Label yang selalu menyala sama saja dengan tidak ada.
   TS.storyCard = function (a) {
     return '<article class="story-card">' +
+      // ai-wrap dipertahankan apa pun jenis gambarnya: kelasnya cuma
+      // position:relative, dan penanda foto asli butuh itu untuk menempel.
       '<a href="' + TS.articleUrl(a) + '" class="story-art-link ai-wrap">' +
       '<div class="story-art" style="background-image:url(\'' + a.image + '\')"></div>' +
-      '<span class="ai-tag">Ilustrasi AI</span></a>' +
+      (a.kreditFoto
+        ? '<span class="foto-tag" style="font-size:9px;padding:2px 7px;">Foto: ' + TS.esc(a.kreditFoto) + '</span>'
+        : '<span class="ai-tag">Ilustrasi AI</span>') + '</a>' +
       '<div class="story-cat">' + TS.esc(a.category) + '</div>' +
       '<h3 class="story-title"><a class="story-title-link" href="' + TS.articleUrl(a) + '">' + TS.hl(a.title) + '</a></h3>' +
       '<p class="story-excerpt">' + TS.esc(a.deck) + '</p>' +

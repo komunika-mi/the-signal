@@ -2,6 +2,46 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "aXLA5H-ddHs",
+  "title": "Perwakilan Buruh Temui Pimpinan DPR Bahas RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Perwakilan serikat pekerja dan buruh bertemu pimpinan DPR RI untuk membahas penyusunan Rancangan Undang-Undang Ketenagakerjaan.",
+  "takeaway": "Pembahasan RUU ini penting diikuti karena berpotensi mengubah aturan hubungan kerja yang berdampak bagi pekerja dan dunia usaha."
+ },
+ {
+  "id": "IyhEusFfZ7E",
+  "title": "Menkeu Purbaya Buka Suara soal Utang Pemerintah Tembus Rp10.000 T",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Purbaya menanggapi sorotan publik atas utang pemerintah yang tembus Rp10.000 triliun hingga akhir semester I 2026, mengacu pada data Direktorat Jenderal Pengelolaan Pembiayaan.",
+  "takeaway": "Angka utang pemerintah menjadi indikator penting bagi pembaca untuk menilai kesehatan fiskal dan kapasitas anggaran negara ke depan."
+ },
+ {
+  "id": "KGPOrCttArc",
+  "title": "Prabowo Luncurkan Ekosistem Motor Listrik Nasional ALVA",
+  "category": "Industri",
+  "program": "AKIS tvOne",
+  "summary": "Presiden Prabowo meresmikan ekosistem motor listrik nasional produksi PT Ilectra Motor Group di Cikarang, dengan realisasi produksi sekitar 20 ribu unit.",
+  "takeaway": "Peluncuran ini menandai perkembangan industri kendaraan listrik dalam negeri yang relevan bagi peta persaingan otomotif nasional."
+ },
+ {
+  "id": "GqON7qC3_Dw",
+  "title": "Calon Gubernur BI Mulai Diproses DPR Pekan Depan",
+  "category": "Moneter",
+  "program": "Kabar Merah Putih",
+  "summary": "DPR akan mulai memproses calon Gubernur Bank Indonesia pekan depan sebagai tahapan menuju penetapan pimpinan bank sentral yang baru.",
+  "takeaway": "Sosok Gubernur BI berikutnya akan turut menentukan arah kebijakan moneter, sehingga proses seleksinya penting dicermati pelaku pasar."
+ },
+ {
+  "id": "2YRniOy2Rpc",
+  "title": "Presiden Prabowo Luncurkan Motor Listrik Nasional",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto secara resmi meluncurkan program motor listrik nasional sebagai bagian dari pengembangan industri kendaraan listrik dalam negeri.",
+  "takeaway": "Peluncuran ini menjadi sinyal dukungan pemerintah terhadap pengembangan industri kendaraan listrik nasional."
+ },
+ {
   "id": "EiLfnsqmr1o",
   "title": "Warung, Minimarket, dan Toko Online Bersaing",
   "category": "UMKM",
@@ -56,46 +96,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "Seorang peneliti mengungkapkan bahwa dari 14 juta UMKM eceran di Indonesia, pertumbuhan sektor ini masih berjalan sangat lambat di tengah persaingan dengan ritel modern dan online.",
   "takeaway": "Data ini penting untuk memahami tantangan usaha kecil menghadapi disrupsi ritel modern."
- },
- {
-  "id": "3vzu4YBimyE",
-  "title": "Persaingan Warung, Minimarket, dan Toko Online",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi mengupas persaingan usaha antara warung kelontong, minimarket, dan toko online yang kian ketat seiring maraknya promosi dan diskon belanja daring.",
-  "takeaway": "Menarik bagi pembaca yang mengikuti pergeseran pola belanja masyarakat dan dampaknya terhadap pelaku usaha ritel kecil di Indonesia."
- },
- {
-  "id": "wZTIOV7wn2I",
-  "title": "Bahlil Jelaskan Rencana Pembatasan Pembelian Pertalite",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri ESDM Bahlil Lahadalia memaparkan rencana pembatasan pembelian BBM jenis Pertalite, termasuk kriteria kendaraan yang akan terkena aturan tersebut.",
-  "takeaway": "Kebijakan pembatasan BBM bersubsidi berpengaruh langsung pada biaya transportasi dan anggaran subsidi energi, sehingga relevan dipantau pembaca ekonomi."
- },
- {
-  "id": "VAPaXWE1pLM",
-  "title": "VKTR Serahkan Dua Bus Listrik ke Universitas Negeri Yogyakarta",
-  "category": "Industri",
-  "program": "Kabar Hari Ini",
-  "summary": "PT VKTR Teknologi Mobilitas Tbk menyerahkan dua unit bus listrik sepanjang 8 meter kepada Universitas Negeri Yogyakarta untuk mendukung operasional kampus yang lebih rendah emisi.",
-  "takeaway": "Langkah ini mencerminkan geliat industri kendaraan listrik dalam negeri sebagai bagian dari upaya transisi energi bersih di sektor transportasi."
- },
- {
-  "id": "-ivXEzjEsVM",
-  "title": "Gerobak Nyai, Modal Usaha untuk Warga Tanpa Pekerjaan",
-  "category": "UMKM",
-  "program": "Metropolitan",
-  "summary": "Program Gerobak Nyai memberi kesempatan bagi warga tanpa pekerjaan untuk mulai berdagang sebagai jalan membangun ekonomi kerakyatan dari skala kecil.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan pemberdayaan UMKM dan program bantuan modal usaha di tingkat akar rumput."
- },
- {
-  "id": "Olhcihpm220",
-  "title": "Menkeu Purbaya Optimis Pertumbuhan Ekonomi Bisa Capai 6 Persen",
-  "program": "Kabar Merah Putih",
-  "category": "Makroekonomi",
-  "summary": "Menteri Keuangan Purbaya memaparkan dasar optimismenya bahwa pertumbuhan ekonomi Indonesia bisa menembus 6 persen. Ia menyoroti ruang belanja pemerintah, penguatan konsumsi domestik, dan efek program prioritas terhadap sektor riil.",
-  "takeaway": "Target 6 persen berada di atas rata-rata pertumbuhan lima tahun terakhir, sehingga pencapaiannya bergantung pada realisasi belanja dan pemulihan daya beli.",
-  "featured": true
  }
 ];

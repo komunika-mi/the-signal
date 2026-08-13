@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",
+  "deck": "Koalisi serikat buruh akan membeberkan partai yang serius maupun mangkir membahas RUU Ketenagakerjaan, menjelang tenggat MK pada 31 Oktober 2026.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T16:18:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459666-buruh-bakal-umumkan-parpol-yang-serius-dan-tidak-serius-bahas-ruu-ketenagakerjaan",
+  "tags": [
+   "RUU Ketenagakerjaan",
+   "KSPSI",
+   "DPR",
+   "Apindo"
+  ],
+  "body": [
+   "Koalisi besar serikat buruh, dipimpin Presiden KSPSI Andi Gani Nena Wea, menyatakan akan mengumumkan kepada publik partai politik mana yang serius dan mana yang tidak serius dalam membahas Rancangan Undang-Undang Ketenagakerjaan. Pernyataan itu disampaikan dalam rapat dengan DPR RI di kompleks parlemen, Jakarta, Kamis. Langkah ini penting karena aturan baru ini akan menggantikan ketentuan ketenagakerjaan yang sebelumnya dilebur ke UU Cipta Kerja, dan hasilnya menentukan perlindungan kerja bagi jutaan pekerja di Indonesia.",
+   "Andi Gani mengungkapkan sejumlah partai sudah menyiapkan bahan pembahasan secara lengkap, sementara sebagian lain bahkan belum memiliki draf apa pun hingga rapat digelar. Ia meminta pimpinan DPR ikut mengawasi kinerja fraksi-fraksi partai dalam pembahasan RUU ini. Ia juga berharap buruh, pemerintah, DPR, serta Asosiasi Pengusaha Indonesia atau Apindo bisa memiliki komitmen yang sama agar pembahasan rampung sebelum tenggat waktu yang ditentukan.",
+   "Pembahasan RUU Ketenagakerjaan ini merupakan tindak lanjut putusan Mahkamah Konstitusi yang memerintahkan agar aturan ketenagakerjaan dikeluarkan dari UU Cipta Kerja dan disusun sebagai undang-undang tersendiri. MK memberi tenggat waktu hingga 31 Oktober 2026 agar UU baru itu selesai. Dalam rapat yang sama, Wakil Ketua DPR RI Cucun Ahmad Syamsurijal menyatakan seluruh partai di DPR berkomitmen memperjuangkan kesejahteraan pekerja.",
+   "Selain menerima keterangan Andi Gani, pimpinan DPR RI juga menggelar rapat dengan berbagai elemen serikat buruh untuk membahas bentuk keterlibatan mereka dalam pembahasan RUU ke depan. Wakil Ketua DPR RI Sufmi Dasco Ahmad menegaskan bahwa RUU ini disusun khusus sebagai undang-undang ketenagakerjaan baru, terpisah dari UU Cipta Kerja, sesuai perintah MK."
+  ],
+  "fotoAdegan": "Factory workers walking out through a large industrial gate at shift change, backlit by late afternoon sun",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah taktik tekanan: KSPSI akan mempublikasikan daftar partai yang dianggap serius dan yang dianggap mangkir dalam membahas draf RUU Ketenagakerjaan, sementara tenggat dari Mahkamah Konstitusi jatuh pada 31 Oktober 2026. Pihak yang langsung terdampak adalah fraksi-fraksi di DPR, yang reputasinya di mata pekerja dipertaruhkan, sekaligus para pekerja sendiri yang menunggu kejelasan aturan pengganti UU Cipta Kerja di bidang ketenagakerjaan. Pola yang terlihat, dari rapat DPR dengan serikat buruh hingga permintaan pengawasan terhadap fraksi, menunjukkan pembahasan RUU ini memasuki fase yang makin dikawal publik menjelang tenggat MK, bukan lagi sekadar wacana di tingkat komisi. Yang akan memastikan arah ini adalah apakah daftar partai serius atau tidak itu benar diumumkan KSPSI, dan apakah draf resmi RUU mulai beredar dalam beberapa pekan mendatang.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "kur-bri-tembus-rp103-81-triliun-hingga-juni-2026",
+  "category": "UMKM",
+  "title": "KUR BRI Tembus [Rp103,81 Triliun] hingga Juni 2026",
+  "deck": "Penyaluran KUR BRI capai Rp103,81 triliun ke 2 juta debitur hingga akhir Juni 2026, didominasi sektor pertanian dan perdagangan.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T14:51:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459639-dukung-agenda-pemberdayaan-ekonomi-danantara-penyaluran-kur-bri-hingga-akhir-juni-2026-capai-rp10381-triliun",
+  "tags": [
+   "KUR",
+   "BRI",
+   "UMKM",
+   "Danantara"
+  ],
+  "body": [
+   "BRI mencatat penyaluran Kredit Usaha Rakyat (KUR), program kredit bersubsidi untuk pelaku usaha kecil, mencapai Rp103,81 triliun kepada 2 juta debitur hingga akhir Juni 2026. Angka ini menegaskan peran KUR sebagai jalur utama BRI menyalurkan modal ke UMKM di berbagai daerah, sekaligus menjadi bagian dari agenda pemberdayaan ekonomi yang diusung Danantara, badan pengelola investasi milik negara yang menaungi BRI.",
+   "Sebagian besar dana ini mengalir ke sektor produktif yang berkaitan langsung dengan kebutuhan pokok masyarakat. Sektor pertanian menyerap porsi terbesar, yakni 42,68 persen dari total penyaluran, disusul sektor perdagangan dengan 32,34 persen. Konsentrasi pada dua sektor ini menunjukkan arah kredit KUR condong ke usaha yang menopang rantai pangan dan distribusi barang, bukan tersebar merata ke semua jenis usaha.",
+   "Direktur Micro BRI, Akhmad Purwakajaya, menyebut KUR sebagai instrumen strategis untuk memperkuat daya saing UMKM sekaligus bagian dari peran BRI dalam ekosistem Danantara. Menurutnya, penyaluran yang diarahkan ke sektor produktif seperti pertanian diharapkan mendorong ketahanan pangan, memperluas pemerataan ekonomi antar daerah, dan membantu pelaku usaha kecil naik kelas menjadi bisnis yang lebih sehat secara finansial. Ia menambahkan bahwa akses pembiayaan yang inklusif ini juga diharapkan membuka lapangan kerja baru dan memberi kontribusi berkelanjutan bagi perekonomian nasional.",
+   "Salah satu indikator keberhasilan yang disebut BRI adalah capaian graduasi debitur KUR, yaitu peralihan status pelaku usaha dari penerima kredit bersubsidi menjadi nasabah yang mampu mengakses pembiayaan komersial biasa. BRI menyatakan capaian ini mencerminkan keberhasilan mendorong UMKM naik kelas, meski jumlah debitur yang sudah mengalami graduasi belum diungkap dalam laporan ini."
+  ],
+  "fotoAdegan": "A farmer inspecting rice seedlings in a paddy field with a motorbike parked on the embankment, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Dari total Rp103,81 triliun yang tersalur ke 2 juta debitur, lebih dari tiga perempatnya terkumpul di dua sektor saja, yaitu pertanian dengan 42,68 persen dan perdagangan dengan 32,34 persen. Konsentrasi ini langsung menyasar petani dan pedagang skala kecil-menengah, kelompok yang selama ini paling bergantung pada kredit bersubsidi karena sulit mengakses pinjaman komersial biasa dengan bunga pasar. BRI mengaitkan penyaluran ini dengan ekosistem Danantara dan agenda ketahanan pangan, sehingga dominasi sektor pertanian tampak sejalan dengan arah tersebut ketimbang sekadar penyebaran acak ke semua jenis usaha. Berita ini juga menyinggung capaian graduasi debitur, yakni pelaku usaha yang naik kelas hingga bisa memakai pembiayaan komersial biasa, tapi tanpa menyebut angkanya. Angka graduasi itulah yang akan menunjukkan apakah program ini benar membuat penerimanya lepas dari kredit bersubsidi, atau sekadar mempertahankan jumlah penyaluran yang besar dari tahun ke tahun.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",
   "category": "Bisnis",
   "title": "Sinar Mas Land Gandeng Sojitz Garap Klaster Baru di [Deltamas]",
@@ -1056,7 +1110,8 @@ var ARTICLES = [
   "fotoAdegan": "An attendant fuels a motorcycle at a gas station pump in a busy urban neighborhood at midday.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7ac1i"
+  "imageV": "msr7ac1i",
+  "fotoDitolak": true
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",
@@ -1184,7 +1239,8 @@ var ARTICLES = [
   "fotoAdegan": "A seamstress operates a sewing machine inside a small home-based garment workshop surrounded by fabric rolls.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7axv9"
+  "imageV": "msr7axv9",
+  "fotoDitolak": true
  },
  {
   "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
@@ -1501,7 +1557,8 @@ var ARTICLES = [
   "fotoAdegan": "A goldsmith weighs a small gold bar on a digital scale inside a jewelry shop display counter.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7bc3a"
+  "imageV": "msr7bc3a",
+  "fotoDitolak": true
  },
  {
   "slug": "enak-panggil-rupslb-bahas-perombakan-direksi-komisaris",
@@ -4097,7 +4154,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7bwg0",
-  "isoDate": "2026-07-30"
+  "isoDate": "2026-07-30",
+  "fotoDitolak": true
  },
  {
   "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
@@ -4435,7 +4493,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7cflz",
-  "isoDate": "2026-07-29"
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true
  },
  {
   "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
@@ -4461,7 +4520,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7csdp",
-  "isoDate": "2026-07-29"
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true
  },
  {
   "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
@@ -4539,7 +4599,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7dmfs",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
@@ -4565,7 +4626,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7e85a",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
@@ -4617,7 +4679,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7en4o",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
@@ -4929,7 +4992,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7f5kk",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
@@ -4955,7 +5019,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7fkb5",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
@@ -4981,7 +5046,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "tjnruw",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",

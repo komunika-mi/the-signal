@@ -2,6 +2,22 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "QpHHORrp9E8",
+  "title": "Dunia Hadapi Ancaman Suplai Minyak",
+  "category": "Energi",
+  "program": "Kabar Hari Ini",
+  "summary": "Wakil Menteri Luar Negeri RI memaparkan strategi Indonesia menghadapi dinamika geopolitik global yang berpotensi mengganggu pasokan minyak dunia.",
+  "takeaway": "Gangguan suplai minyak global berpotensi mendorong kenaikan harga energi dan biaya produksi di dalam negeri."
+ },
+ {
+  "id": "bydSlkGAIWo",
+  "title": "BPS Rilis Statistik Perumahan 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Badan Pusat Statistik bersama Kementerian PKP merilis Statistik Perumahan 2026 sebagai basis data untuk memantau kondisi perumahan nasional.",
+  "takeaway": "Data ini menjadi rujukan pelaku bisnis properti dan pembuat kebijakan dalam memetakan kebutuhan perumahan masyarakat."
+ },
+ {
   "id": "lH4tYlMayQk",
   "title": "Peresmian Ekosistem Motor Listrik Nasional Molinas",
   "category": "Industri",
@@ -80,21 +96,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Presiden Prabowo Subianto secara resmi meluncurkan program motor listrik nasional sebagai bagian dari pengembangan industri kendaraan listrik dalam negeri.",
   "takeaway": "Peluncuran ini menjadi sinyal dukungan pemerintah terhadap pengembangan industri kendaraan listrik nasional."
- },
- {
-  "id": "EiLfnsqmr1o",
-  "title": "Warung, Minimarket, dan Toko Online Bersaing",
-  "category": "UMKM",
-  "program": "IBF",
-  "summary": "Persaingan usaha antara warung, minimarket, dan toko online kian ramai diperbincangkan, terutama soal siapa yang paling diuntungkan dari pergeseran pola belanja masyarakat.",
-  "takeaway": "Menyoroti dampak pergeseran belanja daring terhadap pelaku usaha kecil seperti warung dan toko kelontong."
- },
- {
-  "id": "4jr__0ELzCc",
-  "title": "Kejagung Ungkap Kasus Korupsi Transfer Pricing CPO",
-  "category": "Industri",
-  "program": "Kabar Hari Ini",
-  "summary": "Kejaksaan Agung mengusut dugaan korupsi perpajakan dan manipulasi harga ekspor minyak sawit mentah yang diduga melibatkan sekitar 10 perusahaan sawit.",
-  "takeaway": "Kasus ini menyoroti praktik transfer pricing di industri sawit yang berpotensi merugikan penerimaan negara dari sektor ekspor."
  }
 ];

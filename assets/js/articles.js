@@ -1,6 +1,5 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
+// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
+// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",

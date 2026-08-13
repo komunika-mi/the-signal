@@ -60,6 +60,23 @@ jobs:
           SIGNAL_MODEL: ${{ inputs.model || 'claude-sonnet-5' }}
         run: npm run update
 
+      - name: Ambil foto asli dari sumber
+        run: |
+          # Menutup celah yang terbukti nyata. Log putaran 13 Agustus 2026 pukul
+          # 06.18 berbunyi "0 foto asli diunduh, 0 ilustrasi dibuat, 7 tanpa
+          # adegan": artikel baru terbit memakai ilustrasi, lalu baru dapat foto
+          # aslinya ketika seseorang menjalankan pengambil foto secara manual.
+          # Artinya pembaca yang datang lebih dulu melihat versi yang salah.
+          #
+          # Langkah ini menelusuri halaman sumber tiap artikel yang belum punya
+          # foto asli dan memasangnya. TIDAK butuh pembuat ilustrasi, cuma curl
+          # dan ffmpeg, jadi bisa jalan di runner GitHub. Gratis, tanpa model.
+          #
+          # Dibatasi 30 supaya satu putaran tidak kepanjangan; sisanya menyusul
+          # di putaran berikutnya. Kegagalan tidak boleh menjatuhkan pembaruan
+          # yang isinya sudah benar, jadi errornya ditelan.
+          node scripts/ganti-foto-asli.mjs 30 || echo "pengambilan foto gagal, artikel tetap terbit dengan ilustrasi"
+
       - name: Periksa hasil sebelum commit
         id: periksa
         run: |

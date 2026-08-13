@@ -46,6 +46,25 @@ export function log(...a) { console.log('[' + new Date().toISOString().slice(11,
 // 4, Bank Indonesia 0 dari 4, BPS 0 dari 3.
 const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|assets\/imgs\/(part|theme)|\/assets\/(img|images)\/(ui|bg)/i;
 
+// SATU halaman sumber = SATU foto yang boleh dipakai, yaitu foto utamanya.
+//
+// Sempat dicoba mengembalikan daftar kandidat, supaya artikel yang fotonya
+// kembar dengan artikel lain bisa turun ke foto berikutnya di halaman yang
+// sama. Dicoba 13 Agustus 2026 dan HASILNYA SALAH, jadi dibatalkan:
+//   - berita "Emas Antam Turun Rp9.000" dapat thumbnail YouTube
+//   - berita "IHSG Ditutup Anjlok ke 6.130" dapat foto Masjid Istiqlal
+// Sebabnya, gambar lain di halaman itu milik widget video dan daftar berita
+// terkait, bukan dokumentasi peristiwa yang sedang diberitakan. Memakainya
+// berarti memasang foto milik berita lain dan melabelinya "Foto: tvOneNews",
+// persis jenis kesalahan atribusi yang sedang kita tutup.
+//
+// Diperiksa pada dua artikel tvOne: jumlah gambar di dalam wadah
+// .content-article adalah NOL. Badan berita memang tidak berfoto sama sekali,
+// seluruh fotonya cuma yang di og:image. Jadi kandidat alternatif memang tidak
+// pernah ada, yang ada hanya gambar milik bagian lain halaman.
+//
+// Akibatnya, artikel yang foto utamanya sudah dipakai artikel lain TIDAK punya
+// jalan lain selain ilustrasi. Itu memang lebih mahal, tapi benar.
 export function cariFotoUtama(html, opsi = {}) {
   const kandidat = [];
 

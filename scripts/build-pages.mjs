@@ -714,6 +714,40 @@ if (fotoHilang.length) {
   process.exit(1);
 }
 
+// Penjaga ketiga: tidak boleh ada dua artikel dengan GAMBAR YANG SAMA.
+//
+// Dua penjaga di atas menutup salah tunjuk dan berkas hilang, tapi keduanya
+// bekerja pada nama berkas. Nama berkas kita selalu unik karena mengikuti slug,
+// jadi keduanya buta terhadap kasus dua berkas berbeda nama yang isinya persis
+// sama. Audit 13 Agustus 2026 menemukan 9 pasang seperti itu, semuanya karena
+// sumber memakai ulang foto stok untuk berita bertema sama. Bagi pembaca itu
+// tetap foto berulang, dan pemilik situs menyatakan berkali-kali tidak mau ada
+// foto berulang.
+//
+// Sengaja peringatan, bukan penghentian. Bedanya dengan salah atribusi: foto
+// kembar itu cacat tampilan yang bisa diperbaiki putaran berikutnya, sedangkan
+// salah atribusi menyesatkan pembaca dan harus dihentikan saat itu juga.
+// Menjatuhkan build karena foto kembar berarti pembaruan berita tertahan
+// hanya demi urusan gambar, dan itu terlalu mahal.
+{
+  const crypto = await import('node:crypto');
+  const sidik = new Map();
+  for (const a of ARTICLES) {
+    if (!a.image) continue;
+    const p = path.join(ROOT, a.image);
+    if (!fs.existsSync(p)) continue;
+    const h = crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex');
+    if (!sidik.has(h)) sidik.set(h, []);
+    sidik.get(h).push(a.slug);
+  }
+  const kembar = [...sidik.values()].filter(v => v.length > 1);
+  if (kembar.length) {
+    console.warn('PERINGATAN: ' + kembar.length + ' kelompok artikel berfoto identik.');
+    kembar.slice(0, 5).forEach(g => console.warn('  ' + g.join('  =  ')));
+    console.warn('  Perbaiki: node scripts/foto-kembar.mjs');
+  }
+}
+
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
 console.log('sitemap urls:', urls.length);

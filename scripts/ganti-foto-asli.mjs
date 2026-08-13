@@ -19,6 +19,7 @@ import path from 'node:path';
 import { ROOT, log, readData, writeData, get, retry, cariFotoUtama } from './lib.mjs';
 import { unduhFoto } from './buat-foto.mjs';
 import { fotoSendiri } from './foto-artikel.mjs';
+import { petaSidik, urlTerpakai, pasangFotoUnik } from './foto-unik.mjs';
 import { execFileSync } from 'node:child_process';
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -35,21 +36,25 @@ const layak = artikel.filter(a =>
 
 log('arsip ' + artikel.length + ' artikel, ' + layak.length + ' layak dicoba (IDX dilewati)');
 
-let dapat = 0, nihil = 0, gagal = 0, n = 0;
+let dapat = 0, nihil = 0, kembar = 0, gagal = 0, n = 0;
+
+// Sidik jari seluruh gambar yang sudah terpasang. Dipakai untuk menolak foto
+// yang isinya sama dengan milik artikel lain, lihat foto-unik.mjs.
+const peta = petaSidik(artikel);
+const terpakai = urlTerpakai(artikel);
 
 for (const a of layak) {
   if (n >= maks) break;
   n++;
   try {
     const html = await retry(() => get(a.sourceUrl, { timeout: 30000 }), 2);
-    const foto = cariFotoUtama(html);
-    if (!foto) { nihil++; continue; }
+    const utama = cariFotoUtama(html);
+    if (!utama) { nihil++; continue; }
 
-    // Berkas lama harus dihapus dulu, unduhFoto sengaja menolak menimpa.
-    const tujuan = path.join(IMG_DIR, a.slug + '.jpg');
-    fs.rmSync(tujuan, { force: true });
+    const foto = pasangFotoUnik(a.slug, [utama],
+      { peta, terpakai, unduh: unduhFoto, log });
+    if (!foto) { kembar++; continue; }
 
-    unduhFoto(a.slug, foto);
     a.fotoSumber = foto;
     a.kreditFoto = kreditUntuk(a);
 
@@ -76,7 +81,8 @@ for (const a of layak) {
   }
 }
 
-log('selesai: ' + dapat + ' foto asli dipasang, ' + nihil + ' sumber tanpa foto, ' + gagal + ' gagal');
+log('selesai: ' + dapat + ' foto asli dipasang, ' + nihil + ' sumber tanpa foto, ' +
+  kembar + ' ditolak karena kembar, ' + gagal + ' gagal');
 
 if (dapat) {
   writeData('articles.js', 'ARTICLES', artikel,

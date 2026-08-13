@@ -62,7 +62,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "20 Bank Syariah Temui 51 Korporasi Bahas [Pembiayaan] Ekspansi",
   "deck": "Bank Indonesia mempertemukan 20 bank syariah dengan 51 korporasi untuk menjajaki pembiayaan ekspansi usaha, seiring pembiayaan syariah tumbuh 11,43 persen pada Juni 2026.",
-  "image": "assets/img/brankas-bank.jpg",
+  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T03:29:00.294Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815626.aspx",
@@ -83,7 +83,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari acara ini adalah pertemuan bisnis antara 20 bank syariah dengan 51 perusahaan untuk menjajaki pembiayaan, didukung data bahwa pembiayaan bank syariah pada Juni 2026 mencapai Rp720 triliun, tumbuh 11,43 persen dibanding setahun sebelumnya, sementara simpanan nasabah di bank syariah naik 13,13 persen menjadi Rp816 triliun. Yang berpotensi terdampak adalah korporasi, terutama yang terhubung rantai pasok produk halal, yang mencari pembiayaan jangka panjang dengan skema sesuai kebutuhan usaha, serta bank syariah yang ingin memperluas basis nasabah korporasi. Ke depan, forum semacam ini mengarah pada upaya membangun jalur pembiayaan yang lebih teratur agar bank syariah lebih percaya diri membiayai korporasi besar, tapi acara ini sendiri baru mempertemukan pihak-pihak, belum menghasilkan komitmen pembiayaan yang terukur. Yang akan menentukan apakah upaya ini berbuah nyata adalah apakah business matching kali ini benar-benar berlanjut jadi transaksi pembiayaan, sesuatu yang baru bisa dicek dari data realisasi pada laporan berikutnya.",
-  "imageV": "tjlbsq"
+  "imageV": "msr79sar"
  },
  {
   "slug": "harga-emas-antam-naik-jadi-rp2-700-000-per-gram",
@@ -1054,9 +1054,9 @@ var ARTICLES = [
    "Wacana ini mengemuka usai Purbaya menerima kunjungan Menteri ESDM Bahlil Lahadalia di Jakarta, Selasa (11/8/2026), yang juga membahas kondisi APBN secara umum. Purbaya menyebut Kementerian ESDM sebagai salah satu penyumbang besar penerimaan negara bukan pajak, sehingga koordinasi kedua pihak difokuskan pada upaya menjaga keamanan APBN sampai penghujung tahun."
   ],
   "fotoAdegan": "An attendant fuels a motorcycle at a gas station pump in a busy urban neighborhood at midday.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a64744deb470-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsl"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7ac1i"
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",
@@ -1182,9 +1182,9 @@ var ARTICLES = [
    "Perluasan pembiayaan juga diarahkan tidak hanya kepada UMKM yang sudah terhubung dengan lembaga keuangan, tetapi juga pelaku usaha yang selama ini belum tersentuh akses pembiayaan formal. Dengan tambahan dana tersebut, pemerintah berharap semakin banyak UMKM potensial yang bisa naik kelas dan berkembang lebih jauh."
   ],
   "fotoAdegan": "A seamstress operates a sewing machine inside a small home-based garment workshop surrounded by fabric rolls.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79632e2fee6-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsp"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7axv9"
  },
  {
   "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
@@ -1499,9 +1499,9 @@ var ARTICLES = [
   ],
   "takeaway": "",
   "fotoAdegan": "A goldsmith weighs a small gold bar on a digital scale inside a jewelry shop display counter.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsx"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7bc3a"
  },
  {
   "slug": "enak-panggil-rupslb-bahas-perombakan-direksi-komisaris",
@@ -4060,9 +4060,9 @@ var ARTICLES = [
    "Permintaan emas cenderung menguat ketika ketidakpastian global meningkat, sebab logam mulia diposisikan sebagai aset lindung nilai terhadap gejolak pasar dan pelemahan mata uang."
   ],
   "fotoAdegan": "A jeweler places gold coins into a velvet display tray inside a busy gold trading shop.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrub"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7bwg0"
  },
  {
   "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
@@ -4385,9 +4385,9 @@ var ARTICLES = [
    "Ketika ekspektasi penurunan suku bunga melemah, daya tarik aset tanpa imbal hasil seperti emas cenderung ikut menurun."
   ],
   "fotoAdegan": "A customer weighs a small gold necklace on a countertop scale inside a traditional gold shop.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruk"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7cflz"
  },
  {
   "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
@@ -4410,9 +4410,9 @@ var ARTICLES = [
    "Pelemahan rupiah berdampak langsung pada biaya impor bahan baku industri dan beban pembayaran utang luar negeri, dua faktor yang pada akhirnya bisa merembet ke harga barang di dalam negeri."
   ],
   "fotoAdegan": "A cashier at a money exchange counter stacks coin trays while a customer waits nearby.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruk"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7csdp"
  },
  {
   "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
@@ -4485,9 +4485,9 @@ var ARTICLES = [
    "Bagi Indonesia, pelemahan kurs menambah tekanan pada biaya impor sekaligus mempersempit ruang bagi bank sentral untuk menurunkan suku bunga acuan."
   ],
   "fotoAdegan": "A money changer sorts coins into small dishes behind a glass partition at an exchange counter.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrum"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7dmfs"
  },
  {
   "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
@@ -4510,9 +4510,9 @@ var ARTICLES = [
    "Volume transaksi yang menipis pada periode seperti ini membuat pergerakan indeks lebih rentan terhadap aksi jual dalam jumlah besar."
   ],
   "fotoAdegan": "Brokers lean over their desks discussing trades quietly inside a stock brokerage trading room.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrun"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7e85a"
  },
  {
   "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
@@ -4560,9 +4560,9 @@ var ARTICLES = [
    "Isu independensi bank sentral kerap mengemuka ketika kandidat berasal dari lingkungan pemerintah, karena pasar menilai penting adanya jarak antara kebijakan fiskal dan moneter."
   ],
   "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruo"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7en4o"
  },
  {
   "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
@@ -4860,9 +4860,9 @@ var ARTICLES = [
    "Bagi pembeli emas fisik, biaya cetak dan selisih harga jual-beli umumnya lebih menentukan hasil investasi ketimbang fluktuasi harian."
   ],
   "fotoAdegan": "A shop owner arranges small gold bars inside a locked glass cabinet at a gold trading counter.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruw"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7f5kk"
  },
  {
   "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
@@ -4885,16 +4885,16 @@ var ARTICLES = [
    "Kredibilitas dan prediktabilitas kebijakan bank sentral merupakan salah satu faktor yang diperhitungkan investor asing sebelum menempatkan dana di aset dalam negeri."
   ],
   "fotoAdegan": "A money changer counts coins by hand at a small currency exchange kiosk in a shopping mall.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruw"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7fkb5"
  },
  {
   "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
   "category": "Moneter",
   "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
   "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
   "tags": [
@@ -4910,8 +4910,8 @@ var ARTICLES = [
    "Konsistensi kebijakan menjadi kunci menjaga kepercayaan investor, terutama menyangkut komitmen pengendalian inflasi dan stabilitas nilai tukar."
   ],
   "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
+  "fotoSumber": "",
+  "kreditFoto": "",
   "imageV": "tjnruw"
  },
  {

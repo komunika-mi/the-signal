@@ -20,6 +20,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log } from './lib.mjs';
 import { buatFoto, unduhFoto } from './buat-foto.mjs';
+import { petaSidik, urlTerpakai, pasangFotoUnik } from './foto-unik.mjs';
 import { tanya, ambilJSON } from './rewrite.mjs';
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -121,25 +122,43 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     }
   }
 
-  let dibuat = 0, diunduh = 0, gagal = 0, dilewati = 0;
+  // Sidik jari gambar yang sudah terpasang, supaya foto yang isinya sama
+  // dengan milik artikel lain ditolak. Nama berkas unik saja tidak cukup:
+  // sumber memakai ulang foto stok, jadi dua berkas berbeda nama bisa identik.
+  const peta = petaSidik(artikel);
+  const terpakai = urlTerpakai(artikel);
+
+  let dibuat = 0, diunduh = 0, kembar = 0, gagal = 0, dilewati = 0;
   for (const a of antre) {
     // FOTO ASLI DIDAHULUKAN. Kalau sumbernya menyertakan foto, itu dokumentasi
     // peristiwanya dan selalu lebih baik daripada ilustrasi. Ilustrasi AI baru
     // dipakai kalau sumbernya memang tidak berfoto, seperti IDX yang
     // lampirannya PDF, atau Bank Indonesia dan BPS.
     if (a.fotoSumber) {
-      try {
-        if (unduhFoto(a.slug, a.fotoSumber)) { a.imageV = Date.now().toString(36); diunduh++; continue; }
-      } catch (e) {
-        log('  unduh foto gagal, jatuh ke ilustrasi: ' + String(e.message).slice(0, 50));
-        // Kreditnya harus ikut dicabut, kalau tidak artikel mengaku memakai
-        // foto sumber padahal yang tampil ilustrasi buatan.
-        a.kreditFoto = '';
+      const dipakai = pasangFotoUnik(a.slug, [a.fotoSumber],
+        { peta, terpakai, unduh: unduhFoto, log });
+      if (dipakai) {
+        a.image = fotoSendiri(a.slug);
+        a.fotoSumber = dipakai;
+        a.imageV = Date.now().toString(36);
+        diunduh++;
+        continue;
       }
+      // Fotonya kembar dengan artikel lain, atau gagal diunduh. Kreditnya
+      // WAJIB dicabut,
+      // kalau tidak artikel mengaku memakai foto sumber padahal yang tampil
+      // ilustrasi buatan, dan itu salah atribusi.
+      kembar++;
+      a.kreditFoto = '';
+      a.fotoSumber = '';
     }
     if (!bisaIlustrasi || !a.fotoAdegan) { dilewati++; continue; }
     try {
-      if (buatFoto(a.slug, a.fotoAdegan)) { a.imageV = Date.now().toString(36); dibuat++; }
+      if (buatFoto(a.slug, a.fotoAdegan)) {
+        a.image = fotoSendiri(a.slug);
+        a.imageV = Date.now().toString(36);
+        dibuat++;
+      }
     } catch (e) {
       gagal++;
       log('  foto GAGAL ' + a.slug.slice(0, 40) + ': ' + String(e.message).slice(0, 60));
@@ -147,8 +166,9 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   }
 
   log('foto artikel: ' + diunduh + ' foto asli diunduh, ' + dibuat + ' ilustrasi dibuat, ' +
-    gagal + ' gagal, ' + dilewati + ' tanpa adegan');
-  return { dibuat, diunduh, gagal, dilewati };
+    kembar + ' foto sumber ditolak karena kembar, ' + gagal + ' gagal, ' +
+    dilewati + ' tanpa adegan');
+  return { dibuat, diunduh, kembar, gagal, dilewati };
 }
 
 // CLI: isi foto untuk seluruh arsip yang belum punya, lalu tempel ulang dan build.

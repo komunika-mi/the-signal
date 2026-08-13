@@ -77,6 +77,25 @@ jobs:
           # yang isinya sudah benar, jadi errornya ditelan.
           node scripts/ganti-foto-asli.mjs 30 || echo "pengambilan foto gagal, artikel tetap terbit dengan ilustrasi"
 
+      - name: Perbarui angka indikator BPS
+        env:
+          BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
+        run: |
+          # Menarik deret waktu 8 indikator ekonomi dari WebAPI BPS, dipakai
+          # untuk grafik di dalam artikel dan halaman /data-ekonomi.html.
+          #
+          # Dijalankan tiap putaran meski BPS tidak merilis setiap hari. Satu
+          # putaran cuma 8 permintaan HTTP dan tidak memanggil model sama
+          # sekali, jadi jauh lebih murah daripada memasang jadwal terpisah
+          # per indikator, yang harus mengikuti empat irama rilis berbeda
+          # (bulanan, triwulanan, semesteran, tahunan).
+          #
+          # Kegagalan ditelan, dan skripnya sendiri sengaja tidak menulis
+          # berkas kosong. Kalau WebAPI sedang bermasalah, angka kemarin jauh
+          # lebih berguna daripada halaman tanpa angka sama sekali.
+          node scripts/bps-data.mjs || echo "BPS gagal ditarik, angka lama dipertahankan"
+          node scripts/build-pages.mjs
+
       - name: Periksa hasil sebelum commit
         id: periksa
         run: |

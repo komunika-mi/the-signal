@@ -585,3 +585,55 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
   .benang { gap: .8rem; }
   .harian-benang { gap: 1.6rem; }
 }
+
+/* ---------- Blok angka BPS di dalam artikel ----------
+   Lebarnya mengikuti --kolom-baca supaya tepinya sejajar dengan badan artikel
+   dan blok catatan redaksi. Jangan diberi lebar sendiri: tiga elemen yang
+   sejajar di kolom yang sama harus bersumber dari satu variabel, kalau tidak
+   salah satunya akan menggeser sendiri saat ukuran font berubah. */
+.bps-blok {
+  margin: 1.9rem 0;
+  max-width: var(--kolom-baca);
+  padding: 1.05rem 1.15rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--card);
+  font-family: var(--sans);
+}
+.bps-kepala { display: flex; align-items: center; gap: .55rem; flex-wrap: wrap; margin-bottom: .55rem; }
+.bps-tag {
+  font-size: .62rem; font-weight: 700; letter-spacing: .09em; text-transform: uppercase;
+  color: var(--page); background: var(--ink); padding: .2rem .45rem; border-radius: 4px;
+}
+.bps-judul { font-size: .82rem; font-weight: 700; color: var(--ink); }
+.bps-sorot { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+.bps-nilai { font-size: 1.7rem; font-weight: 700; line-height: 1.1; color: var(--ink); }
+.bps-periode { font-size: .74rem; color: var(--ink-soft); }
+.bps-penjelas {
+  margin: .4rem 0 .7rem; font-size: .8rem; line-height: 1.5; color: var(--ink-soft);
+  font-family: var(--sans);
+}
+/* SVG diberi lebar penuh dan tinggi otomatis. viewBox yang mengatur rasionya,
+   jadi grafik ikut mengecil di layar sempit tanpa memotong label. */
+.bps-svg { display: block; width: 100%; height: auto; }
+/* Dua versi grafik, lihat komentar svgGrafik() di scripts/bps-grafik.mjs.
+   Yang lebar untuk desktop, yang sempit untuk ponsel supaya label sumbunya
+   tidak menyusut sampai tidak terbaca. */
+.bps-svg-sempit { display: none; }
+@media (max-width: 640px) {
+  .bps-svg-lebar { display: none; }
+  .bps-svg-sempit { display: block; }
+}
+.bps-sumber {
+  margin: .55rem 0 0; padding-top: .5rem; border-top: 1px solid var(--line);
+  font-size: .68rem; line-height: 1.45; color: var(--ink-soft); font-family: var(--sans);
+}
+@media (max-width: 640px) {
+  .bps-blok { padding: .9rem .8rem .75rem; }
+  .bps-nilai { font-size: 1.4rem; }
+}
+
+/* Daftar indikator di halaman Angka Ekonomi. Blok yang sama dipakai di dalam
+   artikel, jadi hanya jaraknya yang diatur ulang di sini. */
+.bps-daftar { max-width: var(--kolom-baca); margin-top: 1.6rem; }
+.bps-daftar .bps-blok:first-child { margin-top: 0; }

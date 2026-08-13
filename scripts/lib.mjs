@@ -238,6 +238,32 @@ export function readData(file, varName) {
   }
 }
 
+// Pasangan readData untuk berkas yang isinya OBJEK, bukan array.
+//
+// readData sengaja tidak diubah supaya menerima keduanya. Kontraknya "harus
+// array" itu yang menjaga arsip: kalau berkas rusak sebagian dan menghasilkan
+// objek, readData berhenti, sedangkan pembaca serbaguna akan meloloskannya dan
+// menulis balik arsip yang cacat. Jadi bentuk data yang berbeda dapat pembaca
+// sendiri, bukan pelonggaran pada yang lama.
+//
+// Mengembalikan null kalau berkasnya belum ada, supaya pemanggil bisa
+// membedakan "belum pernah ditarik" dari "ditarik tapi kosong".
+export function readObjek(file) {
+  const p = path.join(ROOT, 'assets/js', file);
+  if (!fs.existsSync(p)) return null;
+
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  if (i === -1 || j === -1) {
+    throw new Error(file + ': tidak ditemukan objek data. Perbaiki manual sebelum lanjut.');
+  }
+  try {
+    return JSON.parse(src.slice(i, j + 1));
+  } catch (e) {
+    throw new Error(file + ': isi tidak bisa dibaca (' + e.message.slice(0, 60) + ')');
+  }
+}
+
 export function writeData(file, varName, data, comment) {
   const p = path.join(ROOT, 'assets/js', file);
   const out = (comment ? comment + '\n' : '') +

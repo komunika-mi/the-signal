@@ -23,10 +23,24 @@ function muatPasar() {
 }
 const MARKET = muatPasar();
 
+// Angka indikator BPS. Boleh tidak ada: kalau bps.js belum pernah ditarik atau
+// WebAPI sedang bermasalah, halaman tetap dibangun tanpa grafik. Data ekonomi
+// itu pelengkap berita, bukan syarat terbitnya.
+import { blokBps, indikatorUntuk } from './bps-grafik.mjs';
+function muatBps() {
+  const p = path.join(ROOT, 'assets/js', 'bps.js');
+  if (!fs.existsSync(p)) return null;
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
+}
+const BPS = muatBps();
+
 import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
-    'assets/js/articles.js', 'assets/js/videos.js', 'assets/js/market.js'];
+    'assets/js/articles.js', 'assets/js/videos.js', 'assets/js/market.js',
+    'assets/js/bps.js'];
   const h = crypto.createHash('md5');
   for (const f of berkas) {
     const fp = path.join(ROOT, f);
@@ -49,6 +63,24 @@ function catSlug(c) { return c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace
 // Tanpa penanda ini pembaca yang sudah pernah membuka halaman tetap melihat
 // gambar lama selama sepekan, dan itu persis keluhan "fotonya beda".
 function imgUrl(a) { return '/' + a.image + (a.imageV ? '?v=' + a.imageV : ''); }
+
+// Angka BPS ditempel SETELAH paragraf kedua, bukan di atas atau di bawah.
+//
+// Di atas berarti pembaca melihat grafik sebelum tahu beritanya soal apa. Di
+// bawah berarti grafiknya jadi lampiran yang jarang terbaca. Setelah paragraf
+// kedua, konteksnya sudah terbentuk dan grafiknya masih di dalam alur baca.
+//
+// Artikel pendek (dua paragraf atau kurang) mendapatkannya di akhir, karena
+// tidak ada tempat lain.
+function badanDenganBps(a) {
+  const paragraf = a.body.map(p => '<p>' + esc(p) + '</p>');
+  const kode = indikatorUntuk(a, BPS);
+  if (!kode) return paragraf.join('');
+  const blok = blokBps(kode, BPS);
+  if (!blok) return paragraf.join('');
+  const sisip = Math.min(2, paragraf.length);
+  return paragraf.slice(0, sisip).join('') + blok + paragraf.slice(sisip).join('');
+}
 function articleUrl(a) { return '/berita/' + a.slug + '.html'; }
 function videoUrl(v) { return '/tayangan/' + v.id + '.html'; }
 function videoMeta(v) { return v.program === 'tvOneNews' ? 'tvOneNews' : 'tvOneNews &middot; ' + esc(v.program); }
@@ -255,6 +287,7 @@ ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + 
         <a class="nav-link" href="/berita.html#kat=pasar-modal">Pasar Modal</a>
         <a class="nav-link" href="/berita.html#kat=perbankan">Perbankan</a>
         <a class="nav-link" href="/berita.html#kat=energi">Energi</a>
+        <a class="nav-link" href="/data-ekonomi.html">Angka Ekonomi</a>
         <a class="nav-link${o.navVideo ? ' active' : ''}" href="/video.html">Video</a>
       </nav>
       <div class="brand">
@@ -398,7 +431,7 @@ ARTICLES.forEach(function (a) {
     `<div class="article-cover ai-wrap" style="background-image:url('${imgUrl(a)}')">${
       a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
       : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
-    `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
+    `<div class="article-body">${badanDenganBps(a)}</div>` +
     (a.takeaway ? `<div class="video-takeaway catatan-idx">` +
       `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
         { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
@@ -484,6 +517,65 @@ VIDEOS.forEach(function (v) {
 
   fs.writeFileSync(ROOT + '/tayangan/' + v.id + '.html', html, 'utf8');
 });
+
+// ---------- Angka Ekonomi: rubrik berkala dari data BPS ----------
+//
+// Kenapa perlu halaman sendiri, padahal grafiknya sudah menempel di artikel:
+// penempelan itu bergantung pada ADA BERITANYA. Inflasi dan pertumbuhan
+// ekonomi adalah dua deret terpenting di sini, tapi keduanya nol kali muncul
+// di 192 artikel arsip, karena berita yang menyebutnya kebetulan soal Amerika
+// dan tersaring keluar. Jadi tanpa halaman ini, data yang sudah ditarik itu
+// praktis tidak terpakai.
+//
+// Berkala mengikuti sumbernya, bukan jadwal kita. BPS merilis inflasi dan
+// perdagangan bulanan, PDB triwulanan, pengangguran dan gini semesteran.
+// Halaman ini ditarik ulang tiap putaran harian, jadi angkanya berganti
+// sendiri begitu BPS memperbaruinya.
+if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
+  const urutTampil = ['inflasi', 'pdb', 'neraca', 'ekspor', 'impor',
+    'pengangguran', 'gini', 'wisman'];
+  const kode = urutTampil.filter(k => BPS.indikator[k])
+    .concat(Object.keys(BPS.indikator).filter(k => !urutTampil.includes(k)));
+
+  const ditarik = BPS.diperbarui
+    ? new Date(BPS.diperbarui).toLocaleDateString('id-ID',
+        { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Asia/Jakarta' })
+    : '';
+
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Angka Ekonomi</span>` +
+    `<h1 class="harian-judul">Indikator ekonomi Indonesia terbaru</h1>` +
+    `<p class="harian-tanggal num">${kode.length} indikator resmi` +
+      (ditarik ? ` &middot; ditarik ${esc(ditarik)}` : '') + `</p>` +
+    `<p class="harian-ringkas">Angka resmi Badan Pusat Statistik, disajikan apa adanya ` +
+    `beserta pergerakannya beberapa periode terakhir. Tiap indikator diberi satu kalimat ` +
+    `penjelas supaya bisa dibaca tanpa latar belakang ekonomi. Ini halaman data, ` +
+    `bukan analisis dan bukan rekomendasi investasi.</p>` +
+    `</div>` +
+    `<div class="bps-daftar">` +
+    kode.map(k => blokBps(k, BPS)).filter(Boolean).join('') +
+    `</div>` +
+    `<div class="article-source-box" style="max-width:var(--kolom-baca);">` +
+    `<p>Seluruh angka di halaman ini berasal dari WebAPI resmi Badan Pusat Statistik. ` +
+    `The Signal hanya menyusun ulang dan menerjemahkan istilahnya, tidak mengubah nilainya. ` +
+    `Periode terbaru mengikuti jadwal rilis BPS, jadi indikator bulanan dan semesteran ` +
+    `tidak selalu sama mutakhirnya.</p>` +
+    `<a href="https://webapi.bps.go.id" target="_blank" rel="noopener">Lihat sumber di BPS &rarr;</a></div>` +
+    `</section>`;
+
+  fs.writeFileSync(path.join(ROOT, 'data-ekonomi.html'),
+    head({
+      title: 'Angka Ekonomi Indonesia',
+      desc: 'Inflasi, pertumbuhan ekonomi, neraca perdagangan, dan pengangguran ' +
+        'terbaru dari Badan Pusat Statistik, lengkap dengan grafik pergerakannya.',
+      url: '/data-ekonomi.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) + isi + FOOT, 'utf8');
+  console.log('angka ekonomi:', kode.length, 'indikator');
+}
 
 // ---------- Signal Harian ----------
 // Produk inti The Signal: satu tulisan yang merangkai berita sehari jadi
@@ -613,7 +705,7 @@ function periksaHalamanRoot() {
 periksaHalamanRoot();
 
 // ---------- sitemap ----------
-const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html']
+const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html']
   .concat(ARTICLES.map(articleUrl))
   .concat(VIDEOS.map(videoUrl));
 fs.writeFileSync(ROOT + '/sitemap.xml',

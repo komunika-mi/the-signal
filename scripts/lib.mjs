@@ -226,20 +226,31 @@ export function writeData(file, varName, data, comment) {
   fs.writeFileSync(p, out, 'utf8');
 }
 
+// SELALU WIB, apa pun zona waktu mesin yang menjalankan.
+//
+// Versi lama memakai getDate() dan getMonth() yang mengikuti zona waktu mesin.
+// Di komputer rumah itu kebetulan benar karena mesinnya memang WIB, tapi
+// pembaruan harian berjalan di GitHub Actions yang memakai UTC. Akibatnya
+// setiap artikel yang terbit antara tengah malam dan pukul 07.00 WIB tertulis
+// mundur satu hari.
+//
+// Terlihat 13 Agustus 2026: berita MSCI terbit 06.04 WIB muncul di beranda
+// bertanggal "12 Agustus 2026", sehingga situs tampak tidak pernah punya
+// berita baru padahal arsipnya bertambah. Bug tanggal yang menyamar jadi bug
+// isi, dan itu jenis yang paling lama tidak ketahuan.
 export function fmtTanggal(iso) {
   const B = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni',
     'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
-  const d = new Date(iso);
-  return d.getDate() + ' ' + B[d.getMonth()] + ' ' + d.getFullYear();
+  const wib = new Date(new Date(iso).getTime() + 7 * 3600 * 1000);
+  return wib.getUTCDate() + ' ' + B[wib.getUTCMonth()] + ' ' + wib.getUTCFullYear();
 }
 
-export function fmtTanggalPanjang(d = new Date()) {
-  const H = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
-  const wib = new Date(d.getTime() + (7 * 60 - (-d.getTimezoneOffset())) * 60000);
-  const jam = String(wib.getUTCHours ? wib.getHours() : 0).padStart(2, '0');
-  const men = String(wib.getMinutes()).padStart(2, '0');
-  return H[wib.getDay()] + ', ' + fmtTanggal(wib) + ' &middot; ' + jam + '.' + men + ' WIB';
-}
+// fmtTanggalPanjang() dihapus 13 Agustus 2026. Tidak dipakai di mana pun, dan
+// ia menggeser tanggal sendiri sebelum menyerahkannya ke fmtTanggal. Setelah
+// fmtTanggal dibuat selalu WIB, pemanggilan itu akan tergeser dua kali dan
+// menghasilkan tanggal yang salah. Dihapus, bukan diperbaiki, karena kode mati
+// yang salah diam-diam lebih berbahaya daripada tidak ada sama sekali.
+// Pembuat stempel waktu WIB yang dipakai ada di build-pages.mjs (tanggalWIB).
 
 export function idNum(n, dec = 2) {
   return Number(n).toLocaleString('id-ID', { minimumFractionDigits: dec, maximumFractionDigits: dec });

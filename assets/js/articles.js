@@ -1,5 +1,6 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "msci-keluarkan-cpin-dan-goto-dari-indeks-utama",
@@ -7,7 +8,7 @@ var ARTICLES = [
   "title": "MSCI [Keluarkan] CPIN dan GOTO dari Indeks Utama",
   "deck": "MSCI mengeluarkan CPIN dan GOTO dari indeks saham utama Indonesia tanpa saham pengganti, efektif mulai 1 September 2026.",
   "image": "assets/img/layar-indeks-jauh.jpg",
-  "date": "12 Agustus 2026",
+  "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T06:04:13+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459537-rincian-lengkap-saham-yang-masuk-dan-keluar-rebalancing-msci",
   "tags": [
@@ -32,7 +33,7 @@ var ARTICLES = [
   "title": "Purbaya Ajak Kemenhub Benahi Tarif [Timpang] Peti Kemas",
   "deck": "Purbaya akan menggandeng Kemenhub membahas selisih tarif jasa LoLo di depo peti kemas kosong, yang di luar pelabuhan lebih mahal Rp300.000-Rp400.000 per kontainer.",
   "image": "assets/img/wisatawan-kopi.jpg",
-  "date": "12 Agustus 2026",
+  "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T02:00:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459519-purbaya-soroti-tarif-lolo-jomplang-kemenhub-bakal-diajak-bereskan-biaya-depo-peti-kemas",
   "tags": [
@@ -790,7 +791,7 @@ var ARTICLES = [
   "title": "Nusron: Konflik Agraria BUMN-TNI/Polri Paling [Rumit]",
   "deck": "Menteri ATR/BPN Nusron Wahid memetakan tiga jenis konflik agraria, dan sengketa yang bersinggungan dengan aset BUMN serta TNI-Polri dinilai paling sulit diselesaikan.",
   "image": "assets/img/nusron-konflik-agraria-bumn-tni-polri-paling-rumit.jpg",
-  "date": "11 Agustus 2026",
+  "date": "12 Agustus 2026",
   "isoDate": "2026-08-12T03:15:34+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459282-buka-bukaan-soal-konflik-agraria-nusron-akui-benturan-dengan-aset-bumn-hingga-tni-polri-yang-paling-repot",
   "tags": [
@@ -2816,7 +2817,7 @@ var ARTICLES = [
   "title": "Manufaktur RI Masuk Fase [Ekspansi] di Triwulan II-2026",
   "deck": "BPS mencatat Indeks Kondisi dan Prospek Bisnis Manufaktur naik ke 52,31 pada triwulan II-2026, didorong pesanan dan produksi, meski tenaga kerja dan waktu kirim masih melemah.",
   "image": "assets/img/manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026.jpg",
-  "date": "4 Agustus 2026",
+  "date": "5 Agustus 2026",
   "isoDate": "2026-08-04T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2646",
   "sourceLabel": "Badan Pusat Statistik",
@@ -2840,7 +2841,7 @@ var ARTICLES = [
   "title": "TPT [Turun] ke 4,65 Persen, Upah Buruh Rata-rata Rp3,39 Juta",
   "deck": "BPS mencatat Tingkat Pengangguran Terbuka turun ke 4,65 persen pada Mei 2026, sementara rata-rata upah buruh tercatat Rp3,39 juta per bulan.",
   "image": "assets/img/tpt-turun-ke-4-65-persen-upah-buruh-rata-rata-rp3-39-juta.jpg",
-  "date": "4 Agustus 2026",
+  "date": "5 Agustus 2026",
   "isoDate": "2026-08-04T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2606",
   "sourceLabel": "Badan Pusat Statistik",
@@ -2864,7 +2865,7 @@ var ARTICLES = [
   "title": "Ekonomi RI [Tumbuh] 5,29 Persen pada Triwulan II 2026",
   "deck": "BPS mencatat ekonomi Indonesia tumbuh 5,29 persen (y-on-y) pada triwulan II 2026, ditopang lonjakan konsumsi pemerintah hampir 16 persen.",
   "image": "assets/img/ekonomi-ri-tumbuh-5-29-persen-pada-triwulan-ii-2026.jpg",
-  "date": "4 Agustus 2026",
+  "date": "5 Agustus 2026",
   "isoDate": "2026-08-04T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2605",
   "sourceLabel": "Badan Pusat Statistik",

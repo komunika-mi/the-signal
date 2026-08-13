@@ -42,9 +42,13 @@
       // ai-wrap dipertahankan apa pun jenis gambarnya: kelasnya cuma
       // position:relative, dan penanda foto asli butuh itu untuk menempel.
       '<a href="' + TS.articleUrl(a) + '" class="story-art-link ai-wrap">' +
-      // Penanda versi ikut supaya foto yang menimpa berkas lama tidak tertahan
-      // cache tujuh hari di browser pembaca.
-      '<div class="story-art" style="background-image:url(\'' + TS.gambar(a) + '\')"></div>' +
+      // <img> sungguhan, bukan background-image: bisa lazy-load, punya teks
+      // alternatif, dan sekaligus memberi nama pada tautannya (dulu pembaca
+      // layar cuma mendengar "Ilustrasi AI" sebagai nama tautan gambar).
+      // Penanda versi TS.gambar ikut supaya foto yang menimpa berkas lama
+      // tidak tertahan cache tujuh hari di browser pembaca.
+      // KEMBAR dengan kartuCerita di scripts/bake-root.mjs - ubah bersama.
+      '<div class="story-art"><img src="' + TS.gambar(a) + '" alt="' + TS.esc(TS.plain(a.title)) + '" loading="lazy"></div>' +
       (a.kreditFoto
         ? '<span class="foto-tag" style="font-size:9px;padding:2px 7px;">Foto: ' + TS.esc(a.kreditFoto) + '</span>'
         : '<span class="ai-tag">Ilustrasi AI</span>') + '</a>' +

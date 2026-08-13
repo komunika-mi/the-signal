@@ -637,3 +637,12 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
    artikel, jadi hanya jaraknya yang diatur ulang di sini. */
 .bps-daftar { max-width: var(--kolom-baca); margin-top: 1.6rem; }
 .bps-daftar .bps-blok:first-child { margin-top: 0; }
+
+/* ---------- Gambar kartu sebagai <img> sungguhan ----------
+   Dulu background-image div: tidak bisa lazy-load, tak punya teks alternatif,
+   dan gambar di bawah lipatan tetap terunduh semua (terukur 461 KB di
+   beranda). Wadahnya tetap memegang rasio; img tinggal mengisi. */
+.story-art, .article-cover, .related-thumb { overflow: hidden; position: relative; }
+.story-art img, .article-cover img, .related-thumb img, .hero-cover img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+}

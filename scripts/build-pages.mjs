@@ -14,6 +14,11 @@ function muat(file) {
 }
 const ARTICLES = muat('articles.js');
 const VIDEOS = muat('videos.js');
+
+// Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
+// supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
+import { tulisIndeksArtikel, bakeRoot } from './bake-root.mjs';
+tulisIndeksArtikel(ARTICLES);
 function muatPasar() {
   const p = path.join(ROOT, 'assets/js', 'market.js');
   if (!fs.existsSync(p)) return null;
@@ -39,8 +44,8 @@ const BPS = muatBps();
 import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
-    'assets/js/articles.js', 'assets/js/videos.js', 'assets/js/market.js',
-    'assets/js/bps.js'];
+    'assets/js/articles.js', 'assets/js/articles-index.js', 'assets/js/videos.js',
+    'assets/js/market.js', 'assets/js/bps.js'];
   const h = crypto.createHash('md5');
   for (const f of berkas) {
     const fp = path.join(ROOT, f);
@@ -389,7 +394,7 @@ ARTICLES.forEach(function (a) {
     // syarat, sehingga foto asli dari tvOneNews dan Kemendag ikut dilabeli AI.
     // Itu keliru dua arah: merendahkan foto dokumentasi yang sungguhan, dan
     // membuat labelnya kehilangan arti karena semua gambar dilabeli sama.
-    `<div class="related-thumb ai-wrap" style="background-image:url('${imgUrl(x)}')">${
+    `<div class="related-thumb ai-wrap"><img src="${imgUrl(x)}" alt="" loading="lazy">${
       x.kreditFoto ? '' : '<span class="ai-tag" style="right:3px;bottom:3px;font-size:7.5px;padding:1px 4px;">AI</span>'
     }</div>` +
     `<div><div class="related-title">${hl(x.title)}</div>` +
@@ -445,7 +450,7 @@ ARTICLES.forEach(function (a) {
     kartuFakta(a) +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
-    `<div class="article-cover ai-wrap" style="background-image:url('${imgUrl(a)}')">${
+    `<div class="article-cover ai-wrap"><img src="${imgUrl(a)}" alt="${esc((a.kreditFoto ? 'Foto: ' : 'Ilustrasi: ') + plain(a.title))}" fetchpriority="high">${
       a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
       : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
     `<div class="article-body">${badanDenganBps(a)}</div>` +
@@ -627,6 +632,10 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
     `</section>` + FOOT, 'utf8');
   console.log('halaman 404: ok');
 }
+
+// ---------- panggang beranda + arsip ----------
+bakeRoot({ ARTICLES, VIDEOS, VER });
+console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------
 // Produk inti The Signal: satu tulisan yang merangkai berita sehari jadi

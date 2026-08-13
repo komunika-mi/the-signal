@@ -27,13 +27,15 @@ var ARTICLES = [
   "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",
   "deck": "Koalisi serikat buruh akan membeberkan partai yang serius maupun mangkir membahas RUU Ketenagakerjaan, menjelang tenggat MK pada 31 Oktober 2026.",
   "date": "13 Agustus 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan.jpg",
+  "imageV": "msrdp3hy",
   "tags": [
    "RUU Ketenagakerjaan",
    "KSPSI",
    "DPR",
    "Apindo"
   ],
+  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459666-buruh-bakal-umumkan-parpol-yang-serius-dan-tidak-serius-bahas-ruu-ketenagakerjaan"
  },
  {
@@ -42,13 +44,15 @@ var ARTICLES = [
   "title": "KUR BRI Tembus [Rp103,81 Triliun] hingga Juni 2026",
   "deck": "Penyaluran KUR BRI capai Rp103,81 triliun ke 2 juta debitur hingga akhir Juni 2026, didominasi sektor pertanian dan perdagangan.",
   "date": "13 Agustus 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kur-bri-tembus-rp103-81-triliun-hingga-juni-2026.jpg",
+  "imageV": "msrdp4xm",
   "tags": [
    "KUR",
    "BRI",
    "UMKM",
    "Danantara"
   ],
+  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459639-dukung-agenda-pemberdayaan-ekonomi-danantara-penyaluran-kur-bri-hingga-akhir-juni-2026-capai-rp10381-triliun"
  },
  {

@@ -142,6 +142,28 @@ jobs:
             node scripts/build-pages.mjs
           }
 
+      - name: Periksa foto terhadap sumbernya
+        run: |
+          # Pemeriksaan yang selama ini DIKERJAKAN MANUSIA.
+          #
+          # Penjaga foto lain memeriksa konsistensi internal: nama berkas cocok
+          # dengan slug, berkasnya ada, tidak ada dua artikel bergambar identik.
+          # Semuanya bisa lolos sempurna sementara fotonya tetap salah, karena
+          # tidak satu pun benar-benar melihat ke halaman sumbernya.
+          #
+          # Selama ini yang menemukan foto keliru adalah pemilik situs, dengan
+          # membuka artikel dan sumbernya berdampingan lalu membandingkan
+          # dengan mata. Tiga kali dalam satu hari pada 13 Agustus 2026.
+          # Langkah ini mengerjakan pembandingan itu, memakai sidik jari
+          # perseptual karena berkas kita sudah diperkecil sehingga byte-nya
+          # tidak mungkin sama persis dengan berkas di server sumber.
+          #
+          # PERINGATAN, bukan penghenti. Menahan seluruh berita demi satu foto
+          # terlalu mahal, dan itu pelajaran mahal dari hari yang sama ketika
+          # penjaga keras menahan situs seharian. Yang tidak cocok dilaporkan
+          # di ringkasan run supaya bisa diperbaiki, bukan disembunyikan.
+          node scripts/periksa-foto.mjs 25 || echo "::warning::Ada foto yang tidak cocok dengan sumbernya, lihat log langkah ini"
+
       - name: Periksa hasil sebelum commit
         id: periksa
         run: |

@@ -142,7 +142,7 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     // dipakai kalau sumbernya memang tidak berfoto, seperti IDX yang
     // lampirannya PDF, atau Bank Indonesia dan BPS.
     if (a.fotoSumber) {
-      const dipakai = pasangFotoUnik(a.slug, [a.fotoSumber],
+      const { url: dipakai } = pasangFotoUnik(a.slug, [a.fotoSumber],
         { peta, terpakai, unduh: unduhFoto, log });
       if (dipakai) {
         a.image = fotoSendiri(a.slug);

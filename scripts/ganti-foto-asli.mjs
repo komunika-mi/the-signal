@@ -23,7 +23,13 @@ import { petaSidik, urlTerpakai, pasangFotoUnik } from './foto-unik.mjs';
 import { execFileSync } from 'node:child_process';
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
-const maks = Number(process.argv[2] || 0) || Infinity;
+
+// Argumen boleh angka (batas jumlah) atau daftar slug (perbaikan tertarget).
+// Daftar slug dipakai saat ada artikel tertentu yang fotonya perlu diambil
+// ulang, tanpa menyapu seluruh arsip.
+const argv = process.argv.slice(2);
+const slugTarget = argv.filter(x => /[a-z]/.test(x));
+const maks = Number(argv.find(x => /^\d+$/.test(x)) || 0) || Infinity;
 
 const artikel = readData('articles.js', 'ARTICLES');
 
@@ -35,8 +41,10 @@ const kreditUntuk = (a) => a.sourceLabel || 'tvOneNews';
 // ternyata kembar dengan foto artikel lain. Tanpa penanda ini, tiap putaran
 // mengunduh ulang foto yang sama, menghitung sidiknya, lalu membuangnya lagi:
 // pekerjaan yang hasilnya sudah pasti dan cuma memboroskan permintaan.
-const layak = artikel.filter(a =>
-  a.sourceUrl && a.sourceLabel !== 'IDX' && !a.kreditFoto && !a.fotoDitolak);
+const layak = slugTarget.length
+  ? artikel.filter(a => slugTarget.includes(a.slug))
+  : artikel.filter(a =>
+      a.sourceUrl && a.sourceLabel !== 'IDX' && !a.kreditFoto && !a.fotoDitolak);
 
 log('arsip ' + artikel.length + ' artikel, ' + layak.length + ' layak dicoba (IDX dilewati)');
 
@@ -55,13 +63,20 @@ for (const a of layak) {
     const utama = cariFotoUtama(html);
     if (!utama) { nihil++; continue; }
 
-    const foto = pasangFotoUnik(a.slug, [utama],
+    const { url: foto, alasan } = pasangFotoUnik(a.slug, [utama],
       { peta, terpakai, unduh: unduhFoto, log });
     if (!foto) {
-      kembar++;
-      a.fotoDitolak = true;   // jangan dicoba lagi putaran berikutnya
+      // HANYA "kembar" yang permanen. Kegagalan unduh itu sementara, dan
+      // menandainya permanen berarti satu gangguan jaringan atau satu paket
+      // yang belum terpasang membuang artikel itu dari jalur foto asli
+      // selamanya. Terjadi 13 Agustus 2026, 14 artikel ter-blacklist gara-gara
+      // ffmpeg belum ada di runner.
+      if (alasan === 'kembar') { kembar++; a.fotoDitolak = true; }
+      else { gagal++; }
       continue;
     }
+    // Berhasil: cabut penanda kalau sebelumnya sempat salah dipasang.
+    delete a.fotoDitolak;
 
     a.fotoSumber = foto;
     a.kreditFoto = kreditUntuk(a);

@@ -96,32 +96,50 @@ export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
     fs.renameSync(tujuan, cadangan);
   }
 
+  // ALASAN kegagalan ikut dilaporkan, tidak cuma "gagal".
+  //
+  // Pemanggil perlu membedakan dua hal yang sangat berbeda umurnya. "Kembar"
+  // itu sifat permanen: foto sumbernya memang sama dengan milik artikel lain,
+  // dan mencobanya lagi besok hasilnya pasti sama. "Gagal" itu keadaan
+  // sementara: jaringan putus, situs sumber sedang 403, atau alat tidak
+  // terpasang.
+  //
+  // Membedakannya bukan kerapian, ini pernah merusak data. Pada 13 Agustus
+  // 2026 ffmpeg tidak terpasang di runner, jadi SEMUA unduhan gagal. Pemanggil
+  // membaca kegagalan itu sebagai "kembar" lalu menandai artikelnya supaya
+  // tidak dicoba lagi selamanya. 14 artikel ter-blacklist permanen gara-gara
+  // satu paket yang belum dipasang, dan dua di antaranya bahkan sebenarnya
+  // berhasil pada percobaan berikutnya.
+  let alasan = 'nihil';
   try {
     for (const url of kandidat) {
       if (terpakai.has(url)) {
         log && log('  lewati (alamat foto sudah dipakai artikel lain)');
+        alasan = 'kembar';
         continue;
       }
       fs.rmSync(tujuan, { force: true });
       let ok = false;
       try { ok = unduh(slug, url); } catch (e) {
         log && log('  unduh gagal: ' + String(e.message).slice(0, 50));
+        alasan = 'gagal';
         continue;
       }
-      if (!ok || !fs.existsSync(tujuan)) continue;
+      if (!ok || !fs.existsSync(tujuan)) { alasan = 'gagal'; continue; }
 
       const s = sidik(tujuan);
       const pemilik = peta.get(s);
       if (pemilik) {
         log && log('  lewati (gambar identik dengan ' + pemilik.slice(0, 38) + ')');
         fs.rmSync(tujuan, { force: true });
+        alasan = 'kembar';
         continue;
       }
 
       peta.set(s, slug);
       terpakai.add(url);
       buangCadangan();
-      return url;
+      return { url, alasan: '' };
     }
   } catch (e) {
     kembalikan();
@@ -129,5 +147,5 @@ export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
   }
 
   kembalikan();
-  return '';
+  return { url: '', alasan };
 }

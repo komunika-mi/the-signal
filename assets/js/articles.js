@@ -5045,7 +5045,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
   "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
   "date": "28 Juli 2026",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
   "tags": [
@@ -5063,7 +5063,7 @@ var ARTICLES = [
   "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "tjnruw",
+  "imageV": "msre4qf1",
   "isoDate": "2026-07-28"
  },
  {
@@ -5087,10 +5087,11 @@ var ARTICLES = [
    "Semakin lama kekosongan posisi definitif berlangsung, semakin besar potensi ketidakpastian di pasar keuangan yang menanti kejelasan arah kebijakan."
   ],
   "fotoAdegan": "An empty hearing room with rows of chairs sits ready inside a parliamentary building in Jakarta.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c1121dab71-mensesneg-prasetyo-hadi_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrux",
-  "isoDate": "2026-07-28"
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msre5efa",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",

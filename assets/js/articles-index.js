@@ -3198,8 +3198,8 @@ var ARTICLES = [
   "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
   "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
   "date": "28 Juli 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
-  "imageV": "tjnruw",
+  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
+  "imageV": "msre4qf1",
   "tags": [
    "Bank Indonesia",
    "Moneter",
@@ -3214,13 +3214,12 @@ var ARTICLES = [
   "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
   "date": "28 Juli 2026",
   "image": "assets/img/uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan.jpg",
-  "imageV": "tjnrux",
+  "imageV": "msre5efa",
   "tags": [
    "Bank Indonesia",
    "DPR",
    "Moneter"
   ],
-  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi"
  },
  {

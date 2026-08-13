@@ -48,7 +48,7 @@ const layak = slugTarget.length
 
 log('arsip ' + artikel.length + ' artikel, ' + layak.length + ' layak dicoba (IDX dilewati)');
 
-let dapat = 0, nihil = 0, kembar = 0, gagal = 0, n = 0;
+let dapat = 0, nihil = 0, kembar = 0, gagal = 0, dicabut = 0, n = 0;
 
 // Sidik jari seluruh gambar yang sudah terpasang. Dipakai untuk menolak foto
 // yang isinya sama dengan milik artikel lain, lihat foto-unik.mjs.
@@ -71,8 +71,26 @@ for (const a of layak) {
       // yang belum terpasang membuang artikel itu dari jalur foto asli
       // selamanya. Terjadi 13 Agustus 2026, 14 artikel ter-blacklist gara-gara
       // ffmpeg belum ada di runner.
-      if (alasan === 'kembar') { kembar++; a.fotoDitolak = true; }
-      else { gagal++; }
+      if (alasan === 'kembar') {
+        kembar++;
+        a.fotoDitolak = true;
+        // Kalau artikel ini SUDAH mengaku memakai foto sumber tapi kita gagal
+        // memasangnya, kreditnya WAJIB dicabut. Gambar yang tampil bukan foto
+        // sumbernya, dan membiarkan labelnya berarti membohongi pembaca.
+        //
+        // Ditemukan lewat periksa-foto.mjs pada artikel uji kelayakan calon
+        // Gubernur BI: gambarnya berjarak 142 dari 256 dari foto sumbernya,
+        // tetapi tetap berlabel "Foto: tvOneNews". Foto sumber aslinya memang
+        // kembar dengan artikel lain, jadi memang tidak bisa dipakai, dan satu
+        // satunya jalan jujur adalah turun ke ilustrasi.
+        if (a.kreditFoto) {
+          log('  cabut kredit ' + a.slug.slice(0, 40) + ': gambar tidak sesuai sumber');
+          a.kreditFoto = '';
+          a.fotoSumber = '';
+          fs.rmSync(path.join(IMG_DIR, a.slug + '.jpg'), { force: true });
+          dicabut++;
+        }
+      } else { gagal++; }
       continue;
     }
     // Berhasil: cabut penanda kalau sebelumnya sempat salah dipasang.
@@ -105,12 +123,18 @@ for (const a of layak) {
 }
 
 log('selesai: ' + dapat + ' foto asli dipasang, ' + nihil + ' sumber tanpa foto, ' +
-  kembar + ' ditolak karena kembar, ' + gagal + ' gagal');
+  kembar + ' ditolak karena kembar, ' + dicabut + ' kredit dicabut, ' + gagal + ' gagal');
 
-if (dapat || kembar) {
+if (dapat || kembar || dicabut) {
   writeData('articles.js', 'ARTICLES', artikel,
     '// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,\n' +
     '// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.\n' +
     '// Dibuat otomatis - jangan diedit manual.');
-  if (dapat) execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
+  // Artikel yang kreditnya dicabut kehilangan berkas gambarnya, jadi jalur
+  // pengisi foto harus jalan dulu; build akan menolak artikel tanpa berkas.
+  if (dicabut) {
+    execFileSync(process.execPath, [ROOT + '/scripts/foto-artikel.mjs', String(dicabut)], { stdio: 'inherit' });
+  } else if (dapat) {
+    execFileSync(process.execPath, [ROOT + '/scripts/build-pages.mjs'], { stdio: 'inherit' });
+  }
 }

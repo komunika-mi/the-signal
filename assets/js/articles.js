@@ -3,6 +3,144 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
+  "category": "Energi",
+  "title": "PNBP ESDM [Lampaui] Target 2025, Raih Opini WTP",
+  "deck": "PNBP Kementerian ESDM sepanjang 2025 mencapai Rp138,40 triliun, 108,56 persen dari target, sekaligus kembali meraih opini WTP dari BPK.",
+  "image": "assets/img/pnbp-esdm-lampaui-target-2025-raih-opini-wtp.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T11:46:57.260Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pnbp-lampaui-target-kementerian-esdm-kembali-peroleh-opini-wtp",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "PNBP",
+   "Kementerian ESDM",
+   "Opini WTP",
+   "BPK"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral mencatatkan penerimaan negara bukan pajak (PNBP) sebesar Rp138,40 triliun sepanjang 2025, atau 108,56 persen dari target APBN sebesar Rp127,48 triliun. Angka ini penting karena sektor energi dan mineral, lewat royalti serta iuran dari pelaku usaha tambang dan migas, merupakan salah satu sumber pendapatan negara terbesar di luar pajak.",
+   "Selain soal penerimaan, kementerian ini juga kembali meraih opini Wajar Tanpa Pengecualian (WTP) dari Badan Pemeriksa Keuangan atas laporan keuangan tahun anggaran 2025. Hasil pemeriksaan itu diserahkan BPK pada 5 Agustus 2026. Opini WTP diberikan jika laporan keuangan dinilai wajar untuk semua hal yang material, dengan penilaian mencakup kesesuaian dengan standar akuntansi pemerintahan, kelengkapan pengungkapan informasi, kepatuhan pada aturan, dan efektivitas sistem pengendalian internal.",
+   "Tren penerimaan berlanjut pada 2026. Hingga Juli, PNBP Kementerian ESDM sudah mencapai Rp96,26 triliun, setara 70,69 persen dari target tahun ini sebesar Rp136,18 triliun.",
+   "Kementerian ESDM menyatakan peningkatan penerimaan tersebut perlu tetap berjalan bersama akuntabilitas dan transparansi pengelolaan, memperhatikan keberlanjutan sumber daya alam, serta kepatuhan pelaku usaha di sektor energi dan mineral."
+  ],
+  "fotoAdegan": "Wide shot of an offshore oil platform silhouette at dusk with a supply vessel passing nearby, calm sea",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pnbp-lampaui-target-kementerian-esdm-kembali-peroleh-opini-wtp-6r64xko.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang konkret berubah: PNBP dari sektor energi dan tambang tercatat Rp138,40 triliun sepanjang 2025, atau 108,56 persen dari target Rp127,48 triliun, dan Kementerian ESDM kembali mendapat opini wajar tanpa pengecualian atas laporan keuangannya. Yang paling terdampak adalah pelaku usaha di sektor energi dan pertambangan, karena penerimaan ini sebagian besar berasal dari royalti dan iuran yang mereka setor, sementara pemerintah mendapat tambahan dana di luar pajak. Data tahun berjalan menunjukkan pola serupa, hingga Juli 2026 realisasi sudah Rp96,26 triliun dari target Rp136,18 triliun, atau sekitar 71 persen, padahal waktu yang berlalu baru sekitar 58 persen dari setahun, artinya realisasi tahun ini berjalan lebih cepat dari proporsi waktunya. Ini mengarah ke kemungkinan target 2026 kembali terlampaui seperti tahun sebelumnya, tapi kepastiannya baru terlihat dari angka realisasi di sisa tahun, karena harga komoditas energi dan tingkat produksi tambang masih bisa berubah pada semester kedua.",
+  "imageV": "msrgl9i4"
+ },
+ {
+  "slug": "lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar",
+  "category": "Energi",
+  "title": "Lelang Batu Bara Sitaan ESDM Hasilkan [Rp21] Miliar",
+  "deck": "Lelang batu bara hasil penegakan hukum di Kalimantan Timur menambah penerimaan negara Rp20,98 miliar, dengan pemenang lelang wajib mengangkut seluruh batu bara sebelum 10 September 2026.",
+  "image": "assets/img/lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T11:46:56.303Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-penegakan-hukum-esdm-tambah-pnbp-lebih-dari-rp20-miliar-dari-lelang-batubara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "batu bara",
+   "PNBP",
+   "Kalimantan Timur"
+  ],
+  "body": [
+   "Direktorat Jenderal Penegakan Hukum Kementerian ESDM melelang batu bara yang berstatus Barang Dikuasai Negara, hasil sitaan dari kasus pelanggaran pertambangan di Kalimantan Timur. Lelang yang digelar Kantor Pelayanan Kekayaan Negara dan Lelang Samarinda lewat laman lelang.go.id itu menambah penerimaan negara bukan pajak sebesar Rp20.976.670.000. PT Wisesa Janitra Sejahtera ditetapkan sebagai pemenang pada 8 Juli 2026.",
+   "Batu bara yang dilelang berjumlah sekitar 76.742 metrik ton, tersebar di 11 titik stockpile di Kota Samarinda dan Kabupaten Kutai Kartanegara. Pelaksanaan lelang ini merujuk pada Keputusan Menteri ESDM Nomor 162.K/HK.02/MEM.H/2026.",
+   "Pemenang lelang diberi waktu paling lama 60 hari kalender, atau hingga 10 September 2026, untuk membongkar, memuat, dan mengangkut seluruh batu bara dari lokasi penyimpanan. Ditjen Gakkum ESDM menyatakan akan mengawasi proses pengangkutan tersebut bersama Kantor Kesyahbandaran dan Otoritas Pelabuhan serta aparat penegak hukum setempat hingga batu bara benar-benar keluar dari seluruh lokasi."
+  ],
+  "fotoAdegan": "Wide shot of coal stockpiles at an open river port in Kalimantan, workers and heavy loaders under overcast morning light.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hasil-penegakan-hukum-esdm-tambah-pnbp-lebih-dari-rp20-miliar-dari-lelang-batubara-ikbxx3u.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah secara konkret, negara menambah penerimaan Rp20,98 miliar bukan dari pajak atau royalti biasa, melainkan dari hasil lelang sekitar 76.742 ton batu bara sitaan yang sebelumnya tersimpan di 11 titik di Samarinda dan Kutai Kartanegara. Pihak yang langsung terdampak adalah pemenang lelang, PT Wisesa Janitra Sejahtera, yang kini punya tenggat hingga 10 September 2026 untuk mengangkut seluruh batu bara itu, serta pihak yang sebelumnya menguasai batu bara tersebut secara melanggar aturan. Siaran ini hanya melaporkan satu kasus lelang, tanpa data pembanding berapa kali lelang serupa terjadi sebelumnya atau berapa total PNBP dari penegakan hukum ESDM sepanjang tahun ini, sehingga belum bisa disimpulkan apakah ini bagian dari tren penindakan yang menguat atau sekadar kasus tunggal. Yang akan memperjelas arahnya adalah apakah pengangkutan batu bara benar rampung sebelum tenggat 10 September, dan apakah ESDM merilis data serupa dari kasus penegakan hukum lain setelah ini.",
+  "imageV": "msrglcen"
+ },
+ {
+  "slug": "esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton",
+  "category": "Energi",
+  "title": "ESDM: HBA Agustus [Turun] 5,62% jadi USD124,44/Ton",
+  "deck": "HBA periode pertama Agustus 2026 turun 5,62 persen dari periode sebelumnya menjadi USD124,44 per ton, tapi masih 21 persen lebih tinggi dari tahun lalu.",
+  "image": "assets/img/esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T11:46:55.367Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-tetapkan-hba-periode-pertama-agustus-2026-usd-12444-per-ton-turun-562-persen",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "batubara",
+   "HBA",
+   "ESDM",
+   "royalti"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral menetapkan Harga Batubara Acuan periode pertama Agustus 2026 sebesar USD124,44 per ton, turun 5,62 persen dibandingkan periode sebelumnya. Angka ini penting karena menjadi dasar penghitungan Harga Patokan Batubara, yang dipakai untuk menghitung royalti yang wajib disetor perusahaan tambang batubara kepada negara.",
+   "Dibandingkan periode kedua Juli 2026 yang tercatat USD131,85 per ton, HBA periode ini turun USD7,41 per ton. Namun jika dibandingkan periode yang sama tahun lalu, yakni periode pertama Agustus 2025 sebesar USD102,22 per ton, harga sekarang justru masih lebih tinggi USD22,22 per ton atau naik sekitar 21 persen.",
+   "Direktur Jenderal Mineral dan Batubara Tri Winarno menyebut penurunan ini dipicu oleh melemahnya harga transaksi jual beli batubara aktual untuk periode pengapalan 8 Juni hingga 7 Juli 2026, yang menjadi dasar data perhitungan royalti melalui sistem elektronik penerimaan negara bukan pajak sektor mineral dan batubara. HBA ini berlaku untuk batubara dengan nilai kalori di atas 6.000 kilokalori per kilogram, dan besaran harga patokan selanjutnya masih disesuaikan lagi dengan kualitas batubara seperti kandungan air, sulfur, dan abu.",
+   "HBA periode pertama Agustus 2026 berlaku selama dua pekan, dari 1 hingga 14 Agustus, dan dihitung pada titik serah di atas kapal pengangkut di pelabuhan muat."
+  ],
+  "fotoAdegan": "Wide shot of a bulk cargo ship being loaded with coal at a busy industrial port under overcast daylight.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-esdm-tetapkan-hba-periode-pertama-agustus-2026-usd-12444-per-ton-turun-562-persen-sq2360b.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah acuan harga jual batubara turun 5,62 persen dalam dua pekan, dari USD131,85 menjadi USD124,44 per ton, sementara dibanding tahun lalu harganya masih 21 persen lebih mahal. Acuan ini langsung memengaruhi perusahaan tambang batubara karena dari angka inilah dihitung royalti yang mereka setor ke negara, jadi kalau harga turun maka setoran royalti per ton yang mereka bayar pun ikut turun. Satu kali penurunan dalam dua pekan belum cukup untuk menyimpulkan tren jangka panjang, apalagi harga tahun ini masih jauh di atas tahun lalu. Yang akan memperjelas arahnya adalah penetapan HBA periode kedua Agustus 2026 pertengahan bulan ini, apakah penurunan berlanjut atau harga kembali naik.",
+  "imageV": "msrglei8"
+ },
+ {
+  "slug": "icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih",
+  "category": "Energi",
+  "title": "ICP Juli [Turun] ke US$81,68 per Barel, Pasokan Global Pulih",
+  "deck": "Pemerintah menetapkan ICP Juli 2026 di US$81,68 per barel, turun US$1,77 dari bulan sebelumnya, seiring redanya tensi Timur Tengah dan pulihnya pasokan minyak dunia.",
+  "image": "assets/img/icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T11:46:54.094Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-global-pulih-icp-juli-2026-turun-jadi-us-8168-per-barel",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ICP",
+   "harga minyak",
+   "ESDM",
+   "Selat Hormuz"
+  ],
+  "body": [
+   "Kementerian ESDM menetapkan rata-rata Harga Minyak Mentah Indonesia atau ICP untuk Juli 2026 sebesar US$81,68 per barel, turun US$1,77 dibanding Juni 2026 yang tercatat US$83,45 per barel. Penetapan ini tertuang dalam Keputusan Menteri ESDM Nomor 319.K/MG.03/MEM.M/2026. Angka ICP ini penting karena menjadi acuan penerimaan negara dari sektor migas dan dasar perhitungan bagi kontraktor yang menggarap ladang minyak dan gas di Indonesia.",
+   "Direktur Jenderal Minyak dan Gas Bumi Laode Sulaeman menyebut penurunan ini sejalan dengan meredanya ketegangan Amerika Serikat dan Iran, yang diikuti gencatan senjata dan mulai terbukanya jalur diplomasi. Lalu lintas pelayaran di Selat Hormuz, jalur sempit yang dilewati sebagian besar kapal tanker minyak dunia, juga disebut mulai membaik dan menambah kepercayaan pasar.",
+   "Berdasarkan data Badan Energi Internasional (IEA), pemulihan sementara arus kapal di Selat Hormuz mendorong pasokan minyak dunia naik 4,1 juta barel per hari pada Juni 2026, sehingga total pasokan global mencapai 98,8 juta barel per hari. Pasokan yang lebih longgar inilah yang ikut menekan harga minyak, termasuk ICP.",
+   "Pemerintah menyebut penurunan ICP juga terjadi pada sejumlah harga minyak mentah acuan dunia lainnya, meski rincian angkanya tidak disertakan dalam keterangan resmi. Kementerian ESDM menambahkan bahwa arah harga ke depan masih bisa berubah karena ada risiko eskalasi militer skala terbatas serta perubahan stok minyak mentah Amerika Serikat."
+  ],
+  "fotoAdegan": "Workers on an offshore oil platform in Indonesian waters checking pipes and valves under a hazy morning sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-pasokan-global-pulih-icp-juli-2026-turun-jadi-us-8168-per-barel-3k1y3nb.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Penurunan ICP ke US$81,68 per barel, turun US$1,77 dari bulan sebelumnya, terjadi karena pasokan minyak dunia melonggar setelah lalu lintas kapal tanker di Selat Hormuz membaik dan menambah pasokan global 4,1 juta barel per hari pada Juni 2026. Pihak yang paling terdampak adalah kontraktor hulu migas dan penerimaan negara, karena ICP dipakai untuk menghitung bagi hasil dan pendapatan dari sektor minyak dan gas, bukan harga BBM di pom bensin yang punya mekanisme sendiri. Baru ada satu bulan data penurunan, jadi belum cukup untuk menyimpulkan apakah harga minyak akan terus melandai atau berbalik naik, apalagi Kementerian ESDM sendiri menyebut risiko eskalasi konflik dan perubahan stok minyak Amerika Serikat masih bisa mengubah arah. Yang perlu dicermati adalah angka ICP Agustus 2026 dan data pasokan IEA berikutnya, untuk melihat apakah tren pelonggaran pasokan ini berlanjut atau hanya sementara.",
+  "imageV": "msrglgj4"
+ },
+ {
+  "slug": "pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro",
+  "category": "UMKM",
+  "title": "PNM Mekaar Tawarkan Bunga [8 Persen] bagi Usaha Ultra Mikro",
+  "deck": "PNM menetapkan bunga pembiayaan 8 persen untuk program Mekaar, memperluas akses kredit terjangkau bagi pelaku usaha ultra mikro, terutama perempuan pengusaha akar rumput.",
+  "image": "assets/img/pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T18:10:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459691-mendorong-ekonomi-akar-rumput-bunga-pnm-mekaar-delapan-persen",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Danantara"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) resmi menetapkan bunga pembiayaan sebesar 8 persen untuk nasabah program Mekaar, skema kredit yang menyasar pelaku usaha ultra mikro. Langkah ini merupakan tindak lanjut dari arahan Presiden Prabowo Subianto yang didukung Danantara Indonesia, dan menjadi bagian dari upaya memperluas akses pembiayaan formal bagi masyarakat kecil yang selama ini sulit menjangkau kredit perbankan konvensional.",
+   "Direktur Utama PNM, Kindaris, menyampaikan bahwa kebijakan bunga ringan ini adalah cara perusahaan menerjemahkan agenda penguatan ekonomi rakyat menjadi manfaat langsung bagi masyarakat. Ia menyebut pembiayaan ini ditujukan terutama bagi ibu-ibu pengusaha ultra mikro, agar mereka bisa tumbuh, lebih mandiri, dan meningkatkan kesejahteraan keluarga.",
+   "Skema Mekaar tidak berhenti pada penyaluran dana. Nasabah wajib mengikuti mekanisme kelompok yang memadukan pembiayaan dengan pendampingan usaha, peningkatan kapasitas, literasi keuangan, pengembangan jejaring, hingga solidaritas sosial antaranggota. Pendekatan ini menjadikan bunga 8 persen sebagai satu elemen dari ekosistem pemberdayaan yang lebih luas, bukan sekadar potongan biaya pinjaman.",
+   "Sebagai bagian dari BRI Group, PNM menyatakan langkah ini akan terus didorong agar semakin banyak pengusaha ultra mikro masuk dan bertahan dalam ekosistem keuangan formal, sekaligus mengambil peran lebih besar dalam menggerakkan ekonomi kerakyatan."
+  ],
+  "fotoAdegan": "Woman micro-entrepreneur arranging small goods at a modest neighborhood stall, warm afternoon light, Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7da599d99b1-pt-permodalan-nasional-madani-pnm-resmi-memperluas-akses-pembiayaan-yang-lebih-terjangkau-bagi-masyarakat-kecil_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah PNM menetapkan bunga pembiayaan program Mekaar di level 8 persen bagi pelaku usaha ultra mikro, dengan syarat nasabah ikut mekanisme kelompok yang memadukan pinjaman dengan pendampingan usaha dan literasi keuangan. Yang langsung terdampak adalah nasabah Mekaar, terutama perempuan pengusaha skala sangat kecil yang selama ini jadi target utama program ini. Kebijakan ini sejalan dengan dorongan Danantara Indonesia dan arahan Presiden Prabowo Subianto untuk memperkuat ekonomi akar rumput, sehingga arahnya adalah mengaitkan pembiayaan ultra mikro dengan agenda investasi negara yang lebih besar, bukan program berdiri sendiri. Yang masih perlu dipastikan adalah sejak kapan bunga 8 persen ini berlaku efektif dan seberapa besar porsi portofolio Mekaar yang memakainya, karena data itu baru akan terlihat dari laporan kinerja PNM berikutnya.",
+  "imageV": "msrglhev"
+ },
+ {
   "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
   "category": "Bisnis",
   "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
@@ -1139,7 +1277,8 @@ var ARTICLES = [
   "fotoAdegan": "An attendant fuels a motorcycle at a gas station pump in a busy urban neighborhood at midday.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7ac1i"
+  "imageV": "msr7ac1i",
+  "fotoDitolak": true
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",
@@ -1267,7 +1406,8 @@ var ARTICLES = [
   "fotoAdegan": "A seamstress operates a sewing machine inside a small home-based garment workshop surrounded by fabric rolls.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7axv9"
+  "imageV": "msr7axv9",
+  "fotoDitolak": true
  },
  {
   "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
@@ -1584,7 +1724,8 @@ var ARTICLES = [
   "fotoAdegan": "A goldsmith weighs a small gold bar on a digital scale inside a jewelry shop display counter.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7bc3a"
+  "imageV": "msr7bc3a",
+  "fotoDitolak": true
  },
  {
   "slug": "enak-panggil-rupslb-bahas-perombakan-direksi-komisaris",
@@ -4180,7 +4321,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7bwg0",
-  "isoDate": "2026-07-30"
+  "isoDate": "2026-07-30",
+  "fotoDitolak": true
  },
  {
   "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
@@ -4518,7 +4660,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7cflz",
-  "isoDate": "2026-07-29"
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true
  },
  {
   "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
@@ -4544,7 +4687,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7csdp",
-  "isoDate": "2026-07-29"
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true
  },
  {
   "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
@@ -4622,7 +4766,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7dmfs",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
@@ -4648,7 +4793,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7e85a",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
@@ -4697,9 +4843,9 @@ var ARTICLES = [
    "Isu independensi bank sentral kerap mengemuka ketika kandidat berasal dari lingkungan pemerintah, karena pasar menilai penting adanya jarak antara kebijakan fiskal dan moneter."
   ],
   "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7en4o",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d5c3668b97-bank-sentral-didorong-perkuat-cadangan-emas-ri-punya-3600-ton_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "msrgmh3r",
   "isoDate": "2026-07-28"
  },
  {
@@ -5012,7 +5158,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7f5kk",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
@@ -5038,7 +5185,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7fkb5",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
@@ -5064,7 +5212,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msre4qf1",
-  "isoDate": "2026-07-28"
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true
  },
  {
   "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",

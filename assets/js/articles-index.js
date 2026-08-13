@@ -5,6 +5,95 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
+  "category": "Energi",
+  "title": "PNBP ESDM [Lampaui] Target 2025, Raih Opini WTP",
+  "deck": "PNBP Kementerian ESDM sepanjang 2025 mencapai Rp138,40 triliun, 108,56 persen dari target, sekaligus kembali meraih opini WTP dari BPK.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/pnbp-esdm-lampaui-target-2025-raih-opini-wtp.jpg",
+  "imageV": "msrgl9i4",
+  "tags": [
+   "PNBP",
+   "Kementerian ESDM",
+   "Opini WTP",
+   "BPK"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pnbp-lampaui-target-kementerian-esdm-kembali-peroleh-opini-wtp",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar",
+  "category": "Energi",
+  "title": "Lelang Batu Bara Sitaan ESDM Hasilkan [Rp21] Miliar",
+  "deck": "Lelang batu bara hasil penegakan hukum di Kalimantan Timur menambah penerimaan negara Rp20,98 miliar, dengan pemenang lelang wajib mengangkut seluruh batu bara sebelum 10 September 2026.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar.jpg",
+  "imageV": "msrglcen",
+  "tags": [
+   "ESDM",
+   "batu bara",
+   "PNBP",
+   "Kalimantan Timur"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-penegakan-hukum-esdm-tambah-pnbp-lebih-dari-rp20-miliar-dari-lelang-batubara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton",
+  "category": "Energi",
+  "title": "ESDM: HBA Agustus [Turun] 5,62% jadi USD124,44/Ton",
+  "deck": "HBA periode pertama Agustus 2026 turun 5,62 persen dari periode sebelumnya menjadi USD124,44 per ton, tapi masih 21 persen lebih tinggi dari tahun lalu.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton.jpg",
+  "imageV": "msrglei8",
+  "tags": [
+   "batubara",
+   "HBA",
+   "ESDM",
+   "royalti"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-tetapkan-hba-periode-pertama-agustus-2026-usd-12444-per-ton-turun-562-persen",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih",
+  "category": "Energi",
+  "title": "ICP Juli [Turun] ke US$81,68 per Barel, Pasokan Global Pulih",
+  "deck": "Pemerintah menetapkan ICP Juli 2026 di US$81,68 per barel, turun US$1,77 dari bulan sebelumnya, seiring redanya tensi Timur Tengah dan pulihnya pasokan minyak dunia.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih.jpg",
+  "imageV": "msrglgj4",
+  "tags": [
+   "ICP",
+   "harga minyak",
+   "ESDM",
+   "Selat Hormuz"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-global-pulih-icp-juli-2026-turun-jadi-us-8168-per-barel",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro",
+  "category": "UMKM",
+  "title": "PNM Mekaar Tawarkan Bunga [8 Persen] bagi Usaha Ultra Mikro",
+  "deck": "PNM menetapkan bunga pembiayaan 8 persen untuk program Mekaar, memperluas akses kredit terjangkau bagi pelaku usaha ultra mikro, terutama perempuan pengusaha akar rumput.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro.jpg",
+  "imageV": "msrglhev",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459691-mendorong-ekonomi-akar-rumput-bunga-pnm-mekaar-delapan-persen"
+ },
+ {
   "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
   "category": "Bisnis",
   "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
@@ -2978,12 +3067,13 @@ var ARTICLES = [
   "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
   "date": "28 Juli 2026",
   "image": "assets/img/nama-menkeu-masuk-bursa-calon-gubernur-bi.jpg",
-  "imageV": "msr7en4o",
+  "imageV": "msrgmh3r",
   "tags": [
    "Bank Indonesia",
    "Moneter",
    "Purbaya"
   ],
+  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden"
  },
  {

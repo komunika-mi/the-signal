@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ZSYqTTdPyoI",
+  "title": "DPR Bahas RUU Ketenagakerjaan Bersama Buruh",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Pimpinan DPR RI menerima perwakilan serikat buruh untuk membahas penyusunan RUU Ketenagakerjaan, termasuk sejumlah usulan buruh yang berpotensi masuk materi undang-undang baru.",
+  "takeaway": "Pembahasan RUU ini patut disimak pelaku usaha dan pekerja karena berpotensi mengubah aturan hubungan industrial ke depan."
+ },
+ {
+  "id": "e1BGUBEWjO0",
+  "title": "Rupiah Melemah Saat Harga Minyak Dunia Bergerak",
+  "category": "Moneter",
+  "program": "Kabar Petang",
+  "summary": "Nilai tukar rupiah terhadap dolar AS melemah 8 poin atau 0,04 persen pada pembukaan perdagangan Rabu, menjadi Rp17.869 per dolar AS.",
+  "takeaway": "Pergerakan kurs rupiah dan harga minyak dunia menjadi acuan penting bagi pelaku pasar dalam menyusun strategi bisnis harian."
+ },
+ {
+  "id": "xcQOeYp9ndA",
+  "title": "Prabowo Resmikan Ekosistem Motor Listrik Nasional",
+  "category": "Industri",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto meresmikan ekosistem motor listrik nasional produksi PT Ilectra Motor Group (ALVA) di Cikarang, dengan 20 ribu unit motor listrik telah diproduksi.",
+  "takeaway": "Peresmian ini menandai perkembangan industri kendaraan listrik dalam negeri yang berdampak pada rantai pasok dan investasi domestik."
+ },
+ {
   "id": "aXLA5H-ddHs",
   "title": "Perwakilan Buruh Temui Pimpinan DPR Bahas RUU Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "IBF tvOne",
   "summary": "KPPU menyampaikan sejumlah rekomendasi agar persaingan usaha antara toko kelontong, minimarket, dan platform belanja online di Indonesia berjalan lebih sehat.",
   "takeaway": "Relevan bagi pembaca karena menyangkut kebijakan persaingan usaha yang berdampak pada pelaku ritel kecil dan menengah."
- },
- {
-  "id": "xzZbJD-0U0g",
-  "title": "Roy: UMKM Bukan Sekadar Mitra Bisnis",
-  "category": "UMKM",
-  "program": "IBF tvOne",
-  "summary": "Dalam diskusi soal persaingan usaha ritel, Roy menekankan bahwa pelaku UMKM semestinya diperlakukan lebih dari sekadar mitra oleh peritel besar dan platform online.",
-  "takeaway": "Menyoroti posisi tawar UMKM di tengah ekspansi minimarket dan e-commerce."
- },
- {
-  "id": "X5DpqJrUYzg",
-  "title": "KPPU: Ada Ketidakseimbangan Persaingan di Ritel",
-  "category": "Bisnis",
-  "program": "IBF tvOne",
-  "summary": "KPPU menyoroti ketidakseimbangan persaingan antara toko kelontong, minimarket, dan toko online yang dinilai dapat merugikan pelaku usaha kecil.",
-  "takeaway": "Menunjukkan sikap regulator terhadap dinamika persaingan usaha ritel yang makin dipengaruhi platform digital."
- },
- {
-  "id": "I6cz5lF8atY",
-  "title": "Peneliti: 14 Juta UMKM Eceran, Pertumbuhan Lambat",
-  "category": "UMKM",
-  "program": "IBF tvOne",
-  "summary": "Seorang peneliti mengungkapkan bahwa dari 14 juta UMKM eceran di Indonesia, pertumbuhan sektor ini masih berjalan sangat lambat di tengah persaingan dengan ritel modern dan online.",
-  "takeaway": "Data ini penting untuk memahami tantangan usaha kecil menghadapi disrupsi ritel modern."
  }
 ];

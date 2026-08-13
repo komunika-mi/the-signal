@@ -3212,7 +3212,8 @@ var ARTICLES = [
   "fotoAdegan": "A family shops for groceries together, pushing a cart through the aisles of a neighborhood supermarket.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c930949ad1-ketum-kadin-anindya-bakrie-saat-memberikan-sambutan-dalam-pertemuan-kadin-pusat-dan-daerah-seluruh-indonesia-dengan-presiden-prabowo-di-istana-negara-jumat-3172026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtn"
+  "imageV": "tjnrtn",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "pertamax-cs-turun-lagi-awal-agustus-ini-rinciannya",
@@ -3237,7 +3238,8 @@ var ARTICLES = [
   "fotoAdegan": "An attendant holds a fuel nozzle while refueling a sedan at a gas station forecourt in the evening.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a57448861139-ilustrasi-aktivitas-di-spbu-pertamina_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtn"
+  "imageV": "tjnrtn",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "emas-antam-dibuka-turun-rp20-ribu-per-gram-di-awal-agustus",
@@ -3262,7 +3264,8 @@ var ARTICLES = [
   "fotoAdegan": "A shop assistant polishes a glass display case filled with small gold bars inside a jewelry store.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/02/6980118c97aa7-ilustrasi-emas-antam_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrto"
+  "imageV": "tjnrto",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "saham-telekomunikasi-jadi-incaran-analis-soroti-kebutuhan-infrastruktu",
@@ -3287,7 +3290,8 @@ var ARTICLES = [
   "fotoAdegan": "A technician installs fiber optic cable along utility poles in a residential neighborhood street.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6d0ba0d7e69-ilustrasi-saham_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtp"
+  "imageV": "tjnrtp",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "berbeda-dari-pertamina-solar-di-spbu-shell-justru-naik",
@@ -3312,7 +3316,8 @@ var ARTICLES = [
   "fotoAdegan": "A driver fills a truck's diesel tank at a private fuel station along a highway rest stop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/11/698bd3d958f65-ilustrasi-spbu-shell_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtp"
+  "imageV": "tjnrtp",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "bgn-siap-jalankan-putusan-mk-skema-anggaran-mbg-dibahas-kemenkeu",
@@ -3337,7 +3342,8 @@ var ARTICLES = [
   "fotoAdegan": "Cafeteria staff ladle rice and vegetables onto trays for schoolchildren during a free meal program.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c682729d3e-kepala-badan-gizi-nasional-bgn-sudaryono-tengah_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtq"
+  "imageV": "tjnrtq",
+  "isoDate": "2026-08-01"
  },
  {
   "slug": "transformasi-garuda-group-dipercepat-citilink-tambah-armada",
@@ -3362,7 +3368,8 @@ var ARTICLES = [
   "fotoAdegan": "Ground crew members push a baggage cart across the tarmac beside a parked passenger jet at an airport.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c19eb4a289-citilink-operasikan-43-armada-hingga-akhir-semester-i-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtr"
+  "imageV": "tjnrtr",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "pajak-umkm-online-bakal-turun-dari-20-ke-8-persen",
@@ -3387,7 +3394,8 @@ var ARTICLES = [
   "fotoAdegan": "An online seller wraps small parcels with tape at a cluttered home packing station surrounded by boxes.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6b997725970-ketua-bidang-kementerian-dewan-kerajinan-nasional-dekranas-sekaligus-penasihat-dharma-wanita-persatuan-dwp-kementerian-umkm-tina-astari_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrts"
+  "imageV": "tjnrts",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "menuju-b50-tata-kelola-biodiesel-dinilai-jadi-pekerjaan-rumah",
@@ -3412,7 +3420,8 @@ var ARTICLES = [
   "fotoAdegan": "A worker collects palm fruit bunches onto a truck bed inside a palm oil plantation.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6cd2cb7f36b-diskusi-strategis-bertajuk-b50-dan-tata-kelola-biodiesel-indonesia_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrts"
+  "imageV": "tjnrts",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "bumi-resources-buka-kinerja-semester-i-batu-bara-masih-jadi-andalan",
@@ -3437,7 +3446,8 @@ var ARTICLES = [
   "fotoAdegan": "A dredger works beside a barge loaded with coal at a river mining port terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/07/12/62cd49e0ccdb5-bumi-resources_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtt"
+  "imageV": "tjnrtt",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "telkom-catat-pertumbuhan-solid-di-paruh-pertama-2026",
@@ -3462,7 +3472,8 @@ var ARTICLES = [
   "fotoAdegan": "Technicians monitor server racks blinking with status lights inside a large data center facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6cab470798c-direktur-utama-telkom-dian-siswarini_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtu"
+  "imageV": "tjnrtu",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "satu-terminal-ini-menjaga-40-persen-pasokan-lpg-nasional",
@@ -3487,7 +3498,8 @@ var ARTICLES = [
   "fotoAdegan": "Workers connect hoses to a tanker truck at a coastal LPG storage and distribution terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ca57763058-terminal-lpg-tanjung-sekong-memegang-peranan-krusial-sebagai-infrastruktur-strategis-pertamina-dalam-menjaga-stabilitas-energi-nasional_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtu"
+  "imageV": "tjnrtu",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "bulog-perketat-pantauan-harga-dan-mutu-beras",
@@ -3512,7 +3524,8 @@ var ARTICLES = [
   "fotoAdegan": "A warehouse worker stacks sacks of rice onto a pallet inside a government rice storage facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9e48e40ee-direktur-utama-perum-bulog-ahmad-rizal-ramdhani-memantau-langsung-standar-mutu-beras-di-pasaran_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtv"
+  "imageV": "tjnrtv",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "menyeberang-selat-demi-layani-nasabah-cerita-mantri-bri-di-pulau-seram",
@@ -3537,7 +3550,8 @@ var ARTICLES = [
   "fotoAdegan": "A bank officer grips the side of a small wooden boat crossing choppy water between two islands.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c69b8849db-50-umkm-binaan-pertamina-dari-berbagai-sektor-usaha-mendapatkan-fasilitas-sertifikasi-halal_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtw"
+  "imageV": "tjnrtw",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "pendukung-dan-pengkritik-duduk-bareng-bahas-kopdes-merah-putih",
@@ -3562,7 +3576,8 @@ var ARTICLES = [
   "fotoAdegan": "Farmers and officials sit in a circle of plastic chairs discussing plans inside an open village pavilion.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c5bf04beb0-pt-bank-rakyat-indonesia-persero-tbk-bri-menegaskan-komitmennya-dalam-menyukseskan-program-3-juta-rumah-melalui-penyediaan-akses-pembiayaan-bagi-masyarakat-serta-pelaku-usaha-properti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtx"
+  "imageV": "tjnrtx",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "lima-puluh-umkm-dibekali-sertifikasi-halal-untuk-tembus-pasar-baru",
@@ -3587,7 +3602,8 @@ var ARTICLES = [
   "fotoAdegan": "A home cook packages trays of baked snacks inside a small kitchen preparing for halal certification.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c59544a9eb-salah-satu-ibadah-yang-paling-utama-adalah-memberikan-kasih-sayang-penghormatan-dan-perhatian-kepada-anak-yatim_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrty"
+  "imageV": "tjnrty",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "akad-massal-62-ribu-debitur-kpr-subsidi-dipimpin-presiden",
@@ -3612,7 +3628,8 @@ var ARTICLES = [
   "fotoAdegan": "Rows of new homeowners sit together during a mass housing loan signing ceremony inside a large hall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c1b334be5e-bersama-bri-petani-kopi-asal-batang-sajikan-racikan-produk-hingga-jangkau-pasar-dunia_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrty"
+  "imageV": "tjnrty",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "melayani-ratusan-debitur-yang-tersebar-di-belasan-desa-talaud",
@@ -3637,7 +3654,8 @@ var ARTICLES = [
   "fotoAdegan": "A bank officer rides a motorbike along a dirt path between coconut trees toward a remote village.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6bf4b48f8e4-mantri-bri-hadir-hingga-talaud_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrtz"
+  "imageV": "tjnrtz",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "pertamina-paparkan-strategi-jaga-ketahanan-energi-nasional",
@@ -3662,7 +3680,8 @@ var ARTICLES = [
   "fotoAdegan": "An engineer walks past towering distillation columns inside a petroleum refinery complex at dusk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9fb7ec2c8-wadirut-pertamina-oki-muraza-dalam-diskusi-panel-tentang-ketahanan-energi-nasioanal-bersama-bpk_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru0"
+  "imageV": "tjnru0",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "aplikasi-mobile-antar-bank-jakarta-raih-penghargaan-digital",
@@ -3687,7 +3706,8 @@ var ARTICLES = [
   "fotoAdegan": "A young customer opens a savings account assisted by a bank employee at a modern branch counter in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ca89c6988f-bank-jakarta-sukses-mengukir-prestasi-dalam-ajang-jawaposcom-digital-excellence-awards-2026-yang-digelar-di-jakarta-kamis-3007_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru1"
+  "imageV": "tjnru1",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "filantropi-dan-ekonomi-berbagi-menakar-peran-zakat-di-sektor-riil",
@@ -3712,7 +3732,8 @@ var ARTICLES = [
   "fotoAdegan": "Volunteers sort donated rice sacks into neat rows inside a community charity distribution warehouse.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9040a13df-mantri-bri-dari-unit-piru-kantor-cabang-masohi-asti-mengemban-misi-mulia-menghadirkan-akses-keuangan-bagi-warga-di-pelosok-kabupaten-seram-bagian-barat_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru1"
+  "imageV": "tjnru1",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "dari-kebun-di-batang-ke-pasar-dunia-cerita-kopi-naik-kelas",
@@ -3737,7 +3758,8 @@ var ARTICLES = [
   "fotoAdegan": "A farmer picks ripe red coffee cherries by hand on a hillside plantation in Central Java.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c720500697-amki-gelar-diskusi-kebangsaan-bahas-kopdes-merah-putih_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru2"
+  "imageV": "tjnru2",
+  "isoDate": "2026-07-31"
  },
  {
   "slug": "antisipasi-gejolak-global-tim-diplomasi-ekonomi-dikirim-ke-china-dan-m",
@@ -3762,7 +3784,8 @@ var ARTICLES = [
   "fotoAdegan": "A delegation of officials boards a plane on the tarmac ahead of an overseas diplomatic trip.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b4418ddeea-presiden-prabowo-saat-menghadiri-penyerahan-akad-massal-62000-rumah-subsidi-bagi-masyarakat-berpenghasilan-rendah-mbr-di-batang-jawa-tengah_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru3"
+  "imageV": "tjnru3",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "sinyal-dari-istana-soal-calon-gubernur-bi-berikutnya",
@@ -3787,7 +3810,8 @@ var ARTICLES = [
   "fotoAdegan": "Journalists wait with cameras outside the gate of a presidential palace complex in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b3c81cef12-pejabat-sementara-pjs-gubernur-bank-indonesia-bi-destry-damayanti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru3"
+  "imageV": "tjnru3",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "efek-danantara-mulai-terasa-bumn-diarahkan-ke-pasar-global",
@@ -3812,7 +3836,8 @@ var ARTICLES = [
   "fotoAdegan": "An inspector in a hard hat examines welding work on the hull of a ship inside a dry dock.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b7fcf42c98-pt-biro-klasifikasi-indonesia-persero-atau-bki_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru4"
+  "imageV": "tjnru4",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "ekosistem-digital-haji-dan-umrah-diperkuat-lewat-kemitraan-baru",
@@ -3837,7 +3862,8 @@ var ARTICLES = [
   "fotoAdegan": "Pilgrims wearing white ihram clothing wait in line at an airport departure gate for an umrah flight.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b7812b1046-bpkh-limited-secara-resmi-bermitra-dengan-sahl-group-dan-bank-muamalat-untuk-menyelenggarakan-rangkaian-kegiatan-gosahl-roadshow-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru5"
+  "imageV": "tjnru5",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "pertamina-dorong-agenda-esg-masuk-ke-lini-bisnis",
@@ -3862,7 +3888,8 @@ var ARTICLES = [
   "fotoAdegan": "Workers plant mangrove saplings along a muddy coastal restoration site as part of a company program.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b4791ea989-svp-business-sustainability-pt-pertamina-persero-wenny-ipmawan-menerima-penghargaan-dalam-acara-awarding-idx-channel-anugerah-esg-2026-di-main-hall-bursa-efek-indonesia-jakarta-rabu-297_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru6"
+  "imageV": "tjnru6",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "inisiatif-bioenergi-pertamina-dapat-pengakuan-internasional",
@@ -3887,7 +3914,8 @@ var ARTICLES = [
   "fotoAdegan": "A technician samples liquid from a bioethanol production tank inside an energy company's pilot facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b46016c6e0-pertamina-raih-outstanding-sdg-innovator-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru7"
+  "imageV": "tjnru7",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "sebelas-umkm-binaan-tampil-di-panggung-indonesia-fashion-week",
@@ -3912,7 +3940,8 @@ var ARTICLES = [
   "fotoAdegan": "A tailor makes final adjustments to a model's batik outfit backstage before a fashion show runway.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ae0e516f81-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru8"
+  "imageV": "tjnru8",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "pegadaian-kantongi-sk-perjanjian-kerja-bersama-2026-2028",
@@ -3937,7 +3966,8 @@ var ARTICLES = [
   "fotoAdegan": "Employees gather in a break room inside a pawnshop branch office during a shift change.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b1ed2bc923-pegadaian-resmi-terima-sk-perjanjian-kerja-bersama-periode-20262028-dari-kemenaker-ri_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru8"
+  "imageV": "tjnru8",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "perusahaan-perangkat-lunak-global-perluas-kantor-di-bsd-city",
@@ -3962,7 +3992,8 @@ var ARTICLES = [
   "fotoAdegan": "Software developers work at standing desks inside a bright open-plan office in a digital hub complex.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b184a25253-interior-kantor-odoo-indonesia-di-biomedical-campus-bsd-city_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnru9"
+  "imageV": "tjnru9",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "secangkir-kopi-wisatawan-asing-dan-rantai-ekonomi-di-baliknya",
@@ -3987,7 +4018,8 @@ var ARTICLES = [
   "fotoAdegan": "A barista pours steamed milk into a cup of coffee for a foreign tourist at a café counter.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b0705117f2-presiden-prabowo-saat-meresmikan-revitalisasi-stasiun-semarang-tawang-jawa-tengah-kamis-3072026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrua"
+  "imageV": "tjnrua",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "pekerja-migran-di-taiwan-dibekali-literasi-keuangan-untuk-pulang-berwi",
@@ -4012,7 +4044,8 @@ var ARTICLES = [
   "fotoAdegan": "Migrant workers listen attentively during a financial literacy workshop held inside a community hall abroad.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6afaedd4a16-bri-peduli-menghadirkan-program-pemberdayaan-bagi-pekerja-migran-indonesia-pmi-di-taiwan_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrua"
+  "imageV": "tjnrua",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "bank-bjb-perluas-bisnis-lewat-kemitraan-strategis-baru",
@@ -4037,7 +4070,8 @@ var ARTICLES = [
   "fotoAdegan": "Two bank employees shake hands beside a teller counter inside a modern regional bank branch.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ac44cec681-bank-bjb-perkuat-akses-layanan-melalui-kerjasama-dengan-yayasan-adi-upaya-yasau-pada-rabu-29-juli-2026-di-menara-bank-bjb-bandung_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrub"
+  "imageV": "tjnrub",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "emas-antam-naik-rp15-ribu-harga-buyback-ikut-terangkat",
@@ -4062,7 +4096,8 @@ var ARTICLES = [
   "fotoAdegan": "A jeweler places gold coins into a velvet display tray inside a busy gold trading shop.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7bwg0"
+  "imageV": "msr7bwg0",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
@@ -4087,7 +4122,8 @@ var ARTICLES = [
   "fotoAdegan": "Employees attend a briefing session seated in rows inside a corporate training room at a bank office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ab316e922a-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruc"
+  "imageV": "tjnruc",
+  "isoDate": "2026-07-30"
  },
  {
   "slug": "koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat",
@@ -4112,7 +4148,8 @@ var ARTICLES = [
   "fotoAdegan": "Members gather around a table discussing accounts inside a small village cooperative office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a6a142863ab6-ketua-dewan-direktur-great-institute-syahganda-nainggolan_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrud"
+  "imageV": "tjnrud",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "penyandang-disabilitas-dibekali-keterampilan-bernilai-ekonomi",
@@ -4137,7 +4174,8 @@ var ARTICLES = [
   "fotoAdegan": "A trainer guides a person in a wheelchair through a handicraft weaving exercise inside a training center.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a6a070f14242-penyandang-disabilitas-mendapat-pembekalan-keterampilan-bernilai-ekonomi-dari-pnm_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrud"
+  "imageV": "tjnrud",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "seratus-ribu-pekerja-rentan-bakal-dapat-jaminan-sosial",
@@ -4162,7 +4200,8 @@ var ARTICLES = [
   "fotoAdegan": "A street vendor pushes a wooden cart loaded with snacks along a sidewalk in the afternoon heat.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e9a14ab65-pimpinan-baznas-ri-bidang-pendistribusian-pendayagunaan-dan-pemberdayaan-idy-muzayyad_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrue"
+  "imageV": "tjnrue",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "tunggakan-program-mbg-rp16-triliun-masih-dalam-proses-audit",
@@ -4187,7 +4226,8 @@ var ARTICLES = [
   "fotoAdegan": "An auditor walks through a school kitchen storeroom stacked with cooking supplies during a routine inspection.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69cdef7ad29-kepala-badan-gizi-nasional-bgn-sudaryono-di-kantor-bgn-jakarta-pusat-rabu-2972026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruf"
+  "imageV": "tjnruf",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "sepuluh-bank-tutup-hingga-juli-ojk-cabut-izin-bpr-di-berbagai-daerah",
@@ -4212,7 +4252,8 @@ var ARTICLES = [
   "fotoAdegan": "A security guard locks the metal shutter of a closed bank branch storefront in a small town.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69ef510a261-ilustrasi-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrug"
+  "imageV": "tjnrug",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "dua-dekade-membesarkan-usaha-gula-merah-di-sumenep",
@@ -4237,7 +4278,8 @@ var ARTICLES = [
   "fotoAdegan": "A craftsman stirs boiling palm sap over a wood fire to make traditional brown sugar in a rural workshop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e688a3f66-kisah-sukses-umkm-gula-merah-dari-sumenep_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrug"
+  "imageV": "tjnrug",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "kadin-bawa-agenda-industri-listrik-ke-meja-sekretariat-kabinet",
@@ -4262,7 +4304,8 @@ var ARTICLES = [
   "fotoAdegan": "An engineer checks transformer equipment inside a substation yard of an electricity distribution facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e10374b68-ketum-kadin-anindya-bakrie-memperkenalkan-buku-we-buy-from-indonesia-kepada-seskab-teddy-di-kantor-sekretariat-kabinet_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruh"
+  "imageV": "tjnruh",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "laba-bank-bjb-melonjak-588-persen-aset-tembus-rp228-triliun",
@@ -4287,7 +4330,8 @@ var ARTICLES = [
   "fotoAdegan": "A loan officer reviews paperwork with a small business owner across a desk inside a bank branch.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d1d732245-bank-bjb-bukukan-kinerja-positif-pada-semester-i-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrui"
+  "imageV": "tjnrui",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "pemerintah-kucurkan-rp328-triliun-untuk-15-bendungan-baru",
@@ -4312,7 +4356,8 @@ var ARTICLES = [
   "fotoAdegan": "Heavy machinery grades earth along the embankment of a large dam under construction in a valley.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d0e9bf7ae-ilustrasi-bendungan-karangnongko_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrui"
+  "imageV": "tjnrui",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "pembiayaan-ultra-mikro-diperkuat-untuk-keluarga-prasejahtera",
@@ -4337,7 +4382,8 @@ var ARTICLES = [
   "fotoAdegan": "A loan officer counts coins with a market vendor at her small stall during a weekly loan visit.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d15d0a5b5-ilustrasi-pnm-perkuat-ketahanan-keuangan-keluarga-prasejahtera_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruj"
+  "imageV": "tjnruj",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri",
@@ -4362,7 +4408,8 @@ var ARTICLES = [
   "fotoAdegan": "A harvester cuts through rows of tall sugarcane stalks inside a sprawling plantation field.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69af3b22019-petani-tebu-banyuwangi-melakukan-penanaman-bibit-tebu-menggunakan-alat-tanam-mekanis-sebagai-bagian-dari-program-bongkar-ratoon-untuk-meningkatkan-produktivitas-dan-mendukung-swasembada-gula-nasional_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruk"
+  "imageV": "tjnruk",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "emas-antam-merosot-ke-rp26-juta-per-gram",
@@ -4387,7 +4434,8 @@ var ARTICLES = [
   "fotoAdegan": "A customer weighs a small gold necklace on a countertop scale inside a traditional gold shop.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7cflz"
+  "imageV": "msr7cflz",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
@@ -4412,7 +4460,8 @@ var ARTICLES = [
   "fotoAdegan": "A cashier at a money exchange counter stacks coin trays while a customer waits nearby.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7csdp"
+  "imageV": "msr7csdp",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
@@ -4437,7 +4486,8 @@ var ARTICLES = [
   "fotoAdegan": "Former factory workers carry cardboard boxes of belongings out through a factory's main gate.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/19/68030896f2366-ilustrasi-phk_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrul"
+  "imageV": "tjnrul",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara",
@@ -4462,7 +4512,8 @@ var ARTICLES = [
   "fotoAdegan": "Officials sit around an oval table during a closed-door coordination meeting inside a government building.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a68fd125cb61-menkeu-purbaya-dalam-rapat-berkala-komite-stabilitas-sistem-keuangan-kssk_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrum"
+  "imageV": "tjnrum",
+  "isoDate": "2026-07-29"
  },
  {
   "slug": "rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi",
@@ -4487,7 +4538,8 @@ var ARTICLES = [
   "fotoAdegan": "A money changer sorts coins into small dishes behind a glass partition at an exchange counter.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7dmfs"
+  "imageV": "msr7dmfs",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
@@ -4512,7 +4564,8 @@ var ARTICLES = [
   "fotoAdegan": "Brokers lean over their desks discussing trades quietly inside a stock brokerage trading room.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7e85a"
+  "imageV": "msr7e85a",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
@@ -4537,7 +4590,8 @@ var ARTICLES = [
   "fotoAdegan": "An inspector climbs a ladder to examine the hull plating of a ship in a shipyard dry dock.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68d75bc948b-pt-biro-klasifikasi-indonesia-persero_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrun"
+  "imageV": "tjnrun",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "nama-menkeu-masuk-bursa-calon-gubernur-bi",
@@ -4562,7 +4616,8 @@ var ARTICLES = [
   "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7en4o"
+  "imageV": "msr7en4o",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
@@ -4587,7 +4642,8 @@ var ARTICLES = [
   "fotoAdegan": "A worker exchanges an empty gas cylinder for a full one at a neighborhood LPG distribution kiosk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6890d372832-pemerintah-impor-minyak-rusia-skema-g2g-bahlil-jaga-cadangan-energi-nasional_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruo"
+  "imageV": "tjnruo",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi",
@@ -4612,7 +4668,8 @@ var ARTICLES = [
   "fotoAdegan": "Villagers line up to deposit savings at a small wooden cooperative counter in a rural community.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68b1ff27976-menkop-ferry-juliantono-dan-ketua-dewan-direktur-great-institute-syahganda-nainggolan-dalam-reaktualisasi-pasal-33-uud-1945_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrup"
+  "imageV": "tjnrup",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan",
@@ -4637,7 +4694,8 @@ var ARTICLES = [
   "fotoAdegan": "Young employees collaborate around a laptop during a team workshop inside a corporate innovation lab.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a689678dde55-telkom-raih-lestari-award-2026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruq"
+  "imageV": "tjnruq",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman",
@@ -4662,7 +4720,8 @@ var ARTICLES = [
   "fotoAdegan": "Workers monitor pipeline valves inside the control room of a fuel storage depot at night.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a688386ccb3d-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrur"
+  "imageV": "tjnrur",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi",
@@ -4687,7 +4746,8 @@ var ARTICLES = [
   "fotoAdegan": "Employees walk through the glass atrium lobby of a stock exchange building in the financial district.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrus"
+  "imageV": "tjnrus",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi",
@@ -4712,7 +4772,8 @@ var ARTICLES = [
   "fotoAdegan": "Young jobseekers fill out forms at long tables during a crowded internship recruitment fair.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a686a2cc6417-menteri-ketenagakerjaan-yassierli-memberi-keterangan-kepada-awak-media_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrut"
+  "imageV": "tjnrut",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga",
@@ -4737,7 +4798,8 @@ var ARTICLES = [
   "fotoAdegan": "A patient receives physical therapy assistance from a therapist inside a hospital rehabilitation room.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6869cf2461d-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrut"
+  "imageV": "tjnrut",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "kur-perumahan-jadi-motor-program-3-juta-rumah",
@@ -4762,7 +4824,8 @@ var ARTICLES = [
   "fotoAdegan": "A construction worker lays bricks for a wall inside a subsidized housing project under a tin roof.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6865d96eaad-direktur-utama-bri-hery-gunardi-dan-menteri-pkp-maruarar-sirait_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruu"
+  "imageV": "tjnruu",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum",
@@ -4787,7 +4850,8 @@ var ARTICLES = [
   "fotoAdegan": "An IT specialist examines cabling behind a row of server racks inside a secure data facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685b413aad4-telkom-mempertemukan-pemerintah-industri-akademisi-dan-lembaga-riset-melalui-workshop-post-quantum-cryptography-pqc-untuk-memperkuat-kesiapan-ekosistem-keamanan-digital-indonesia_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruu"
+  "imageV": "tjnruu",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin",
@@ -4812,7 +4876,8 @@ var ARTICLES = [
   "fotoAdegan": "A customer signs paperwork at a bank desk while an officer explains deposit terms nearby.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685696c185c-ketua-lps-anggito-abimanyu_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruv"
+  "imageV": "tjnruv",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "ihsg-dibuka-menguat-siap-uji-level-resistance",
@@ -4837,7 +4902,8 @@ var ARTICLES = [
   "fotoAdegan": "Traders arrive at their desks early inside a brokerage office as the morning session begins.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnruv"
+  "imageV": "tjnruv",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "emas-antam-turun-rp9000-per-gram",
@@ -4862,7 +4928,8 @@ var ARTICLES = [
   "fotoAdegan": "A shop owner arranges small gold bars inside a locked glass cabinet at a gold trading counter.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7f5kk"
+  "imageV": "msr7f5kk",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
@@ -4887,7 +4954,8 @@ var ARTICLES = [
   "fotoAdegan": "A money changer counts coins by hand at a small currency exchange kiosk in a shopping mall.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "msr7fkb5"
+  "imageV": "msr7fkb5",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
@@ -4912,7 +4980,8 @@ var ARTICLES = [
   "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "imageV": "tjnruw"
+  "imageV": "tjnruw",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",
@@ -4937,7 +5006,8 @@ var ARTICLES = [
   "fotoAdegan": "An empty hearing room with rows of chairs sits ready inside a parliamentary building in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c1121dab71-mensesneg-prasetyo-hadi_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrux"
+  "imageV": "tjnrux",
+  "isoDate": "2026-07-28"
  },
  {
   "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",
@@ -4962,6 +5032,7 @@ var ARTICLES = [
   "fotoAdegan": "Workers load bags of processed mineral ore onto a cargo truck at a mining export depot.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/27/6a6789a5bf980-ksp-dudung-abdurachman-menggelar-rakor-lintas-kementerian-dan-lembaga-untuk-membahas-hambatan-ekspor-mineral-kritis_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrux"
+  "imageV": "tjnrux",
+  "isoDate": "2026-07-28"
  }
 ];

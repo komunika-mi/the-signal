@@ -19,7 +19,9 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Semua Berita Ekonomi — The Signal">
 <meta name="twitter:image" content="https://the-signal.id/assets/img/og-card.jpg">
-<link rel="stylesheet" href="assets/css/style.css?v=43ca3676">
+<link rel="canonical" href="https://the-signal.id/berita.html">
+<link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="https://the-signal.id/feed.xml">
+<link rel="stylesheet" href="assets/css/style.css?v=1c276ff9">
 </head>
 <body>
 <div class="page">
@@ -49,6 +51,7 @@
         <a class="nav-link" href="berita.html#kat=pasar-modal">Pasar Modal</a>
         <a class="nav-link" href="berita.html#kat=perbankan">Perbankan</a>
         <a class="nav-link" href="berita.html#kat=energi">Energi</a>
+        <a class="nav-link" href="data-ekonomi.html">Angka Ekonomi</a>
         <a class="nav-link" href="video.html">Video</a>
       </nav>
       <div class="brand">
@@ -134,18 +137,19 @@
       <svg width="13" height="13" viewBox="0 0 16 16"><path d="M2 2l12 12M14 2 2 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
     </button>
     <div id="modal-isi">
-      <h3>Signal+ belum dibuka</h3>
-      <p>Ringkasan ekonomi pagi lewat email masih kami siapkan. Pendaftarannya belum
-        dibuka, jadi belum ada alamat email yang bisa kami terima. Kami umumkan di
-        halaman depan begitu siap.</p>
-      <a class="btn-modal-submit" href="/berita.html">Baca berita hari ini</a>
+      <h3>Signal+</h3>
+      <p>Ringkasan ekonomi lewat email tiap sore hari kerja, dikirim setelah Signal
+        Harian terbit pukul 17.00 WIB. Formulir pendaftarannya membutuhkan
+        JavaScript; kalau tidak muncul, daftar langsung lewat halaman Buttondown
+        kami.</p>
+      <a class="btn-modal-submit" href="https://buttondown.com/the-signal" target="_blank" rel="noopener">Daftar lewat Buttondown</a>
     </div>
   </div>
 </div>
 
-<script src="assets/js/articles.js?v=43ca3676"></script>
-<script src="assets/js/market.js?v=43ca3676"></script>
-<script src="assets/js/shared.js?v=43ca3676"></script>
+<script src="assets/js/articles.js?v=1c276ff9"></script>
+<script src="assets/js/market.js?v=1c276ff9"></script>
+<script src="assets/js/shared.js?v=1c276ff9"></script>
 <script>
 (function () {
   var PAGE = 12;
@@ -213,15 +217,25 @@
     render();
   });
 
-  // deep link: #kat=xxx
-  var m = (location.hash || '').match(/kat=([a-z0-9-]+)/);
-  if (m) {
-    var target = document.querySelector('.chip[data-cat="' + m[1] + '"]');
-    if (target) { target.click(); return; }
-  }
-  render();
+  // SENGAJA dipasang sebelum urusan filter kategori. Dulu keduanya diletakkan
+  // paling akhir dan jalur deep-link memakai return setelah target.click(),
+  // jadi siapa pun yang mendarat lewat tautan kategori (#kat=...) mendapat
+  // bar pasar kosong dan tombol Signal+ yang mati. Temuan audit 13 Agustus 2026.
   TS.isiPasar();
   TS.initModal();
+  render();
+
+  // Deep link #kat=xxx, berlaku saat halaman dibuka DAN saat hash berubah.
+  // Tanpa listener hashchange, klik "Makro" di menu atas ketika sudah berada
+  // di halaman ini tidak melakukan apa-apa: browser cuma mengganti hash.
+  // replaceState di handler chip tidak memicu hashchange, jadi tidak berputar.
+  function terapkanHash() {
+    var m = (location.hash || '').match(/kat=([a-z0-9-]+)/);
+    var target = document.querySelector('.chip[data-cat="' + (m ? m[1] : 'semua') + '"]');
+    if (target && !target.classList.contains('active')) target.click();
+  }
+  window.addEventListener('hashchange', terapkanHash);
+  terapkanHash();
 })();
 </script>
 </body>

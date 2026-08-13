@@ -245,6 +245,7 @@ function head(o) {
 <title>${esc(o.title)} · The Signal</title>
 <meta name="description" content="${esc(o.desc)}">
 <link rel="canonical" href="${BASE}${o.url}">
+<link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="${BASE}/feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
@@ -357,11 +358,12 @@ const FOOT = `
       <svg width="13" height="13" viewBox="0 0 16 16"><path d="M2 2l12 12M14 2 2 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
     </button>
     <div id="modal-isi">
-      <h3>Signal+ belum dibuka</h3>
-      <p>Ringkasan ekonomi pagi lewat email masih kami siapkan. Pendaftarannya belum
-        dibuka, jadi belum ada alamat email yang bisa kami terima. Kami umumkan di
-        halaman depan begitu siap.</p>
-      <a class="btn-modal-submit" href="/berita.html">Baca berita hari ini</a>
+      <h3>Signal+</h3>
+      <p>Ringkasan ekonomi lewat email tiap sore hari kerja, dikirim setelah Signal
+        Harian terbit pukul 17.00 WIB. Formulir pendaftarannya membutuhkan
+        JavaScript; kalau tidak muncul, daftar langsung lewat halaman Buttondown
+        kami.</p>
+      <a class="btn-modal-submit" href="https://buttondown.com/the-signal" target="_blank" rel="noopener">Daftar lewat Buttondown</a>
     </div>
   </div>
 </div>
@@ -408,8 +410,23 @@ ARTICLES.forEach(function (a) {
       '@context': 'https://schema.org', '@type': 'NewsArticle',
       headline: plain(a.title), description: a.deck,
       image: [BASE + '/' + a.image],
+      // Tanggal WAJIB ada. Audit 13 Agustus 2026: tiga pemeriksa terpisah
+      // (SEO, kepercayaan, konten) menemukan hal yang sama, 192 halaman berita
+      // tanpa satu pun tanggal terbaca mesin, padahal datanya sudah tersimpan
+      // di articles.js. Situs berita yang tidak memberi tahu Google kapan
+      // artikelnya terbit membuang sinyal kebaruannya sendiri.
+      // dateModified disamakan dengan datePublished karena artikel di sini
+      // tidak pernah disunting setelah terbit; kalau kelak ada alur revisi,
+      // baru dipisah.
+      datePublished: a.isoDate,
+      dateModified: a.isoDate,
+      author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
+      mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
-      publisher: { '@type': 'Organization', name: 'The Signal' },
+      publisher: {
+        '@type': 'Organization', name: 'The Signal', url: BASE,
+        logo: { '@type': 'ImageObject', url: BASE + '/assets/img/apple-touch-icon.png' },
+      },
       isBasedOn: a.sourceUrl,
     },
   }) +
@@ -577,6 +594,40 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
   console.log('angka ekonomi:', kode.length, 'indikator');
 }
 
+// ---------- Halaman 404 ----------
+//
+// Vercel menyajikan 404.html di root secara otomatis untuk alamat yang tidak
+// ada. Tanpa berkas ini pengunjung mendapat teks polos berbahasa Inggris tanpa
+// satu pun jalan kembali, padahal salah ketik dan tautan terpangkas itu lumrah,
+// apalagi tautan artikel di sini masih berakhiran .html yang gampang hilang
+// saat disalin. Digenerate tiap build supaya daftar berita terbarunya ikut
+// segar, bukan beku di hari halaman ini pertama dibuat.
+{
+  const terbaru = ARTICLES.slice(0, 5).map(a =>
+    `<a class="compact-row" href="${articleUrl(a)}"><span class="compact-body">` +
+    `<span class="compact-title">${esc(plain(a.title))}</span>` +
+    `<span class="compact-meta">${esc(a.category)} &middot; ${esc(a.date)}</span></span></a>`).join('');
+
+  fs.writeFileSync(path.join(ROOT, '404.html'),
+    head({
+      title: 'Halaman tidak ditemukan',
+      desc: 'Alamat yang kamu tuju tidak ada di The Signal. Coba mulai dari berita terbaru.',
+      url: '/404.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail" style="padding-block:3rem;max-width:44rem;">` +
+    `<span class="eyebrow">Kesalahan 404</span>` +
+    `<h1 style="margin:.4rem 0 .8rem;">Halaman ini tidak ada</h1>` +
+    `<p style="color:var(--ink-soft);line-height:1.6;">Alamatnya mungkin salah ketik, atau tautannya ` +
+    `terpotong saat disalin. Yang jelas tidak ada halaman di alamat ini.</p>` +
+    `<p style="margin:1rem 0 2rem;"><a class="btn-modal-submit" href="/">Ke halaman depan</a></p>` +
+    `<h4>Atau baca yang terbaru</h4>` +
+    `<div class="compact-list">${terbaru}</div>` +
+    `</section>` + FOOT, 'utf8');
+  console.log('halaman 404: ok');
+}
+
 // ---------- Signal Harian ----------
 // Produk inti The Signal: satu tulisan yang merangkai berita sehari jadi
 // benang arah kebijakan. Untuk sekarang terbuka, tidak dipagari.
@@ -705,12 +756,20 @@ function periksaHalamanRoot() {
 periksaHalamanRoot();
 
 // ---------- sitemap ----------
+// lastmod memberi tahu mesin pencari halaman mana yang layak dirayapi ulang.
+// Halaman root berganti isi tiap build (daftar berita, angka pasar dan BPS),
+// jadi lastmod-nya tanggal build. Artikel memakai tanggal terbitnya sendiri.
+// Video tidak membawa tanggal di datanya, jadi tanpa lastmod; itu sah.
+const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html']
-  .concat(ARTICLES.map(articleUrl))
-  .concat(VIDEOS.map(videoUrl));
+  .map(u => ({ loc: u, lastmod: hariIniWIB }))
+  .concat(ARTICLES.map(a => ({ loc: articleUrl(a), lastmod: (a.isoDate || '').slice(0, 10) })))
+  .concat(VIDEOS.map(v => ({ loc: videoUrl(v) })));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-  urls.map(u => '  <url><loc>' + BASE + u + '</loc></url>').join('\n') + '\n</urlset>\n', 'utf8');
+  urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
+    (u.lastmod ? '<lastmod>' + u.lastmod + '</lastmod>' : '') + '</url>').join('\n') +
+  '\n</urlset>\n', 'utf8');
 fs.writeFileSync(ROOT + '/robots.txt', 'User-agent: *\nAllow: /\n\nSitemap: ' + BASE + '/sitemap.xml\n', 'utf8');
 
 // ---------- feed.xml ----------

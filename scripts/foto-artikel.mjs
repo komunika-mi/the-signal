@@ -129,7 +129,7 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     // lampirannya PDF, atau Bank Indonesia dan BPS.
     if (a.fotoSumber) {
       try {
-        if (unduhFoto(a.slug, a.fotoSumber)) { diunduh++; continue; }
+        if (unduhFoto(a.slug, a.fotoSumber)) { a.imageV = Date.now().toString(36); diunduh++; continue; }
       } catch (e) {
         log('  unduh foto gagal, jatuh ke ilustrasi: ' + String(e.message).slice(0, 50));
         // Kreditnya harus ikut dicabut, kalau tidak artikel mengaku memakai
@@ -139,7 +139,7 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     }
     if (!bisaIlustrasi || !a.fotoAdegan) { dilewati++; continue; }
     try {
-      if (buatFoto(a.slug, a.fotoAdegan)) dibuat++;
+      if (buatFoto(a.slug, a.fotoAdegan)) { a.imageV = Date.now().toString(36); dibuat++; }
     } catch (e) {
       gagal++;
       log('  foto GAGAL ' + a.slug.slice(0, 40) + ': ' + String(e.message).slice(0, 60));

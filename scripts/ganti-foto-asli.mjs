@@ -18,6 +18,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, log, readData, writeData, get, retry, cariFotoUtama } from './lib.mjs';
 import { unduhFoto } from './buat-foto.mjs';
+import { fotoSendiri } from './foto-artikel.mjs';
 import { execFileSync } from 'node:child_process';
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -51,6 +52,23 @@ for (const a of layak) {
     unduhFoto(a.slug, foto);
     a.fotoSumber = foto;
     a.kreditFoto = kreditUntuk(a);
+
+    // WAJIB. Tanpa baris ini fotonya terunduh ke <slug>.jpg tapi artikel tetap
+    // menunjuk gambar pustaka lamanya, jadi yang tampil di situs masih
+    // ilustrasi. Lebih buruk lagi, kreditFoto sudah terisi sehingga ilustrasi
+    // itu dilabeli "Foto: tvOneNews".
+    //
+    // Terjadi pada 13 Agustus 2026 dan dilaporkan pemiliknya: artikel Sinar Mas
+    // soal klaster hunian menampilkan foto pasangan minum kopi di sawah, dan
+    // artikel harga emas menampilkan foto sidang DPR berlabel foto tvOneNews.
+    // Bug ini sempat tidak terlihat karena kebetulan tertutup: pasangFoto()
+    // pada putaran pipeline berikutnya memperbaikinya sendiri, jadi hanya
+    // artikel terbaru yang salah, dan hanya sampai putaran berikutnya lewat.
+    a.image = fotoSendiri(a.slug);
+    // Penanda versi gambar. Berkasnya ditimpa dengan NAMA YANG SAMA, dan
+    // aset gambar di-cache tujuh hari, jadi tanpa ini pembaca yang sudah
+    // pernah membuka halaman itu tetap melihat ilustrasi lama selama sepekan.
+    a.imageV = Date.now().toString(36);
     dapat++;
   } catch (e) {
     gagal++;

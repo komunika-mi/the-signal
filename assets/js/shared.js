@@ -19,6 +19,17 @@
     return '/berita/' + a.slug + '.html';
   };
 
+  // URL gambar berikut penanda versinya.
+  //
+  // Berkas foto ditimpa dengan NAMA YANG SAMA ketika ilustrasi diganti foto
+  // asli, sedangkan aset gambar disetel cache tujuh hari di vercel.json. Tanpa
+  // penanda ini, pembaca yang sudah pernah membuka halaman tetap melihat
+  // gambar lama sampai sepekan, dan dari sisi mereka situsnya terlihat tidak
+  // pernah diperbaiki.
+  TS.gambar = function (a) {
+    return a.image + (a.imageV ? '?v=' + a.imageV : '');
+  };
+
   // Penanda gambar HANYA menyebut AI kalau gambarnya memang buatan.
   //
   // Dulu tiap kartu dilabeli "Ilustrasi AI" tanpa syarat, jadi setelah 135 dari
@@ -31,7 +42,9 @@
       // ai-wrap dipertahankan apa pun jenis gambarnya: kelasnya cuma
       // position:relative, dan penanda foto asli butuh itu untuk menempel.
       '<a href="' + TS.articleUrl(a) + '" class="story-art-link ai-wrap">' +
-      '<div class="story-art" style="background-image:url(\'' + a.image + '\')"></div>' +
+      // Penanda versi ikut supaya foto yang menimpa berkas lama tidak tertahan
+      // cache tujuh hari di browser pembaca.
+      '<div class="story-art" style="background-image:url(\'' + TS.gambar(a) + '\')"></div>' +
       (a.kreditFoto
         ? '<span class="foto-tag" style="font-size:9px;padding:2px 7px;">Foto: ' + TS.esc(a.kreditFoto) + '</span>'
         : '<span class="ai-tag">Ilustrasi AI</span>') + '</a>' +

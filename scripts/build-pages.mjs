@@ -44,6 +44,11 @@ function esc(s) {
 function hl(t) { return esc(t).replace(/\[([^\]]+)\]/, '<span class="hl">$1</span>'); }
 function plain(t) { return String(t).replace(/[\[\]]/g, ''); }
 function catSlug(c) { return c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+// URL gambar dengan penanda versi. Berkas foto ditimpa dengan nama yang sama
+// saat ilustrasi diganti foto asli, sedangkan aset gambar di-cache tujuh hari.
+// Tanpa penanda ini pembaca yang sudah pernah membuka halaman tetap melihat
+// gambar lama selama sepekan, dan itu persis keluhan "fotonya beda".
+function imgUrl(a) { return '/' + a.image + (a.imageV ? '?v=' + a.imageV : ''); }
 function articleUrl(a) { return '/berita/' + a.slug + '.html'; }
 function videoUrl(v) { return '/tayangan/' + v.id + '.html'; }
 function videoMeta(v) { return v.program === 'tvOneNews' ? 'tvOneNews' : 'tvOneNews &middot; ' + esc(v.program); }
@@ -349,7 +354,7 @@ ARTICLES.forEach(function (a) {
     // syarat, sehingga foto asli dari tvOneNews dan Kemendag ikut dilabeli AI.
     // Itu keliru dua arah: merendahkan foto dokumentasi yang sungguhan, dan
     // membuat labelnya kehilangan arti karena semua gambar dilabeli sama.
-    `<div class="related-thumb ai-wrap" style="background-image:url('/${x.image}')">${
+    `<div class="related-thumb ai-wrap" style="background-image:url('${imgUrl(x)}')">${
       x.kreditFoto ? '' : '<span class="ai-tag" style="right:3px;bottom:3px;font-size:7.5px;padding:1px 4px;">AI</span>'
     }</div>` +
     `<div><div class="related-title">${hl(x.title)}</div>` +
@@ -390,7 +395,7 @@ ARTICLES.forEach(function (a) {
     kartuFakta(a) +
     `</section>` +
     `<div class="rail article-layout"><div class="article-main">` +
-    `<div class="article-cover ai-wrap" style="background-image:url('/${a.image}')">${
+    `<div class="article-cover ai-wrap" style="background-image:url('${imgUrl(a)}')">${
       a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
       : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
     `<div class="article-body">${a.body.map(p => '<p>' + esc(p) + '</p>').join('')}</div>` +
@@ -670,6 +675,44 @@ fs.writeFileSync(ROOT + '/feed.xml',
     '    <description><![CDATA[' + isiFeed(h) + ']]></description>\n' +
     '  </item>').join('\n') +
   '\n</channel>\n</rss>\n', 'utf8');
+
+// ---------- penjaga keutuhan foto ----------
+//
+// Dipasang setelah bug 13 Agustus 2026 yang dilaporkan pemiliknya: artikel
+// Sinar Mas soal klaster hunian menampilkan foto pasangan minum kopi di sawah,
+// dan artikel harga emas menampilkan foto sidang DPR BERLABEL "Foto:
+// tvOneNews". Fotonya sudah terunduh dengan benar ke <slug>.jpg, tapi field
+// image masih menunjuk gambar pustaka lama karena ganti-foto-asli.mjs lupa
+// memperbaruinya.
+//
+// Yang membuatnya lolos berhari-hari: pasangFoto() pada putaran berikutnya
+// memperbaikinya sendiri, jadi hanya artikel TERBARU yang salah, dan hanya
+// sampai putaran berikutnya lewat. Persis jam-jam paling ramai dibaca.
+//
+// Karena itu penjaganya harus keras, bukan sekadar peringatan. Artikel yang
+// mengaku memakai foto sumber tapi menampilkan gambar lain adalah kesalahan
+// atribusi, bukan cacat kosmetik.
+const cacatFoto = ARTICLES.filter(a =>
+  a.kreditFoto && a.image !== 'assets/img/' + a.slug + '.jpg');
+
+if (cacatFoto.length) {
+  console.error('');
+  console.error('GAGAL: ' + cacatFoto.length + ' artikel mengaku memakai foto sumber');
+  console.error('       tetapi gambarnya menunjuk berkas lain. Itu salah atribusi.');
+  cacatFoto.slice(0, 5).forEach(a =>
+    console.error('  ' + a.slug + '\n    image: ' + a.image + '\n    kredit: ' + a.kreditFoto));
+  console.error('');
+  console.error('Perbaiki dengan menjalankan ulang penempatan foto, lalu build lagi:');
+  console.error('  node scripts/ulang-foto.mjs');
+  process.exit(1);
+}
+
+const fotoHilang = ARTICLES.filter(a => a.image && !fs.existsSync(path.join(ROOT, a.image)));
+if (fotoHilang.length) {
+  console.error('GAGAL: ' + fotoHilang.length + ' artikel menunjuk berkas gambar yang tidak ada.');
+  fotoHilang.slice(0, 5).forEach(a => console.error('  ' + a.slug + ' -> ' + a.image));
+  process.exit(1);
+}
 
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);

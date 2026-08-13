@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Sinar Mas Land Gandeng Sojitz Garap Klaster Baru di [Deltamas]",
   "deck": "Sinar Mas Land dan Sojitz Corporation meluncurkan klaster hunian Meliora di Kota Deltamas, Cikarang, dengan 68 unit tahap pertama mulai Rp800 jutaan.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T12:15:47+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459601-sinar-mas-land-dan-sojitz-hadirkan-meliora-klaster-hunian-modern-terbaru-di-kota-deltamas",
@@ -26,14 +26,15 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of a quiet new housing cluster with paved streets and young trees in a suburban Indonesian estate, late afternoon light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d5227cd856-sinar-mas-land-bersama-sojitz-corporation-jepang-menghadirkan-meliora-klaster-residensial-terbaru-di-kota-deltamas-cikarang_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah adalah pasokan hunian baru di Deltamas: tahap pertama Meliora membuka 68 unit dengan harga mulai Rp800 jutaan di lahan 1,8 hektare, bagian kecil dari kawasan Deltamas yang totalnya mencapai 3.200 hektare. Yang paling terdampak adalah calon pembeli rumah kelas menengah di koridor timur Jakarta, terutama pekerja di kawasan industri Cikarang yang jumlahnya terus bertambah seiring masuknya pabrik dan pusat data baru. Masuknya Sojitz sebagai mitra asal Jepang juga menunjukkan minat investor luar negeri tetap ada di sektor properti kawasan industri ini. Proyek residensial baru ini mengarah pada penguatan Deltamas dari sekadar kawasan industri menjadi kota mandiri dengan hunian terintegrasi, sejalan dengan pertumbuhan lapangan kerja yang disebut dalam rilis ini. Untuk melihat apakah minat pasar benar mengikuti ekspansi ini, indikator berikutnya adalah kecepatan terjualnya 68 unit tahap pertama sebelum pengembang melanjutkan ke fase berikutnya."
+  "takeaway": "Yang berubah adalah pasokan hunian baru di Deltamas: tahap pertama Meliora membuka 68 unit dengan harga mulai Rp800 jutaan di lahan 1,8 hektare, bagian kecil dari kawasan Deltamas yang totalnya mencapai 3.200 hektare. Yang paling terdampak adalah calon pembeli rumah kelas menengah di koridor timur Jakarta, terutama pekerja di kawasan industri Cikarang yang jumlahnya terus bertambah seiring masuknya pabrik dan pusat data baru. Masuknya Sojitz sebagai mitra asal Jepang juga menunjukkan minat investor luar negeri tetap ada di sektor properti kawasan industri ini. Proyek residensial baru ini mengarah pada penguatan Deltamas dari sekadar kawasan industri menjadi kota mandiri dengan hunian terintegrasi, sejalan dengan pertumbuhan lapangan kerja yang disebut dalam rilis ini. Untuk melihat apakah minat pasar benar mengikuti ekspansi ini, indikator berikutnya adalah kecepatan terjualnya 68 unit tahap pertama sebelum pengembang melanjutkan ke fase berikutnya.",
+  "imageV": "tjp3pv"
  },
  {
   "slug": "kemendag-buka-pojok-umkm-di-kantor-gandeng-indomaret",
   "category": "UMKM",
   "title": "Kemendag [Buka] Pojok UMKM di Kantor, Gandeng Indomaret",
   "deck": "Kemendag meresmikan pojok promosi produk UMKM pangan lokal di kantornya sendiri, bekerja sama dengan Indomaret dan Point Coffee untuk memperluas jalur distribusi ke ritel modern.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kemendag-buka-pojok-umkm-di-kantor-gandeng-indomaret.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T03:29:20.497Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/gandeng-ritel-modern-untuk-perluas-akses-pasar-umkm-mendag-busan-resmikan-pojok-product-placement-pilihan-busan",
@@ -53,7 +54,8 @@ var ARTICLES = [
   "fotoAdegan": "Rows of packaged local Indonesian snacks neatly arranged on a modern minimarket shelf, softly lit, labels out of sharp focus",
   "fotoSumber": "https://www.kemendag.go.id/albums/7wPlsX90jEkiESEUqFOb2cCHaJxmcWAyyS7RyG3c.jpg",
   "kreditFoto": "Kementerian Perdagangan",
-  "takeaway": "Yang berubah bukan program kurasinya, PPPB sudah berjalan sebelumnya, melainkan cara distribusinya: dari sekadar dipajang di lingkungan kantor kementerian, produk UMKM terpilih kini disalurkan lewat rantai ritel modern seperti Indomaret dan gerai Point Coffee. Yang paling terdampak adalah UMKM pangan skala kecil yang lolos kurasi, seperti KhumKhum Jamur Crispy dari Kulon Progo yang produknya kini ada di lebih dari 2.000 titik Indomaret di Bogor dan Parung. Namun peresmian ini sendiri masih berskala kecil, satu pojok di kantor Kemendag dengan 15 produk, sehingga belum terlihat apakah pola distribusi semacam ini akan direplikasi untuk UMKM lain di luar yang sudah terkurasi. Sinyal berikutnya yang perlu dicermati adalah performa produk-produk PPPB di pameran Trade Expo Indonesia pada 14-18 Oktober 2026, yang akan menunjukkan apakah program ini benar-benar membuka jalan ke pasar ekspor atau berhenti sebatas ritel dalam negeri."
+  "takeaway": "Yang berubah bukan program kurasinya, PPPB sudah berjalan sebelumnya, melainkan cara distribusinya: dari sekadar dipajang di lingkungan kantor kementerian, produk UMKM terpilih kini disalurkan lewat rantai ritel modern seperti Indomaret dan gerai Point Coffee. Yang paling terdampak adalah UMKM pangan skala kecil yang lolos kurasi, seperti KhumKhum Jamur Crispy dari Kulon Progo yang produknya kini ada di lebih dari 2.000 titik Indomaret di Bogor dan Parung. Namun peresmian ini sendiri masih berskala kecil, satu pojok di kantor Kemendag dengan 15 produk, sehingga belum terlihat apakah pola distribusi semacam ini akan direplikasi untuk UMKM lain di luar yang sudah terkurasi. Sinyal berikutnya yang perlu dicermati adalah performa produk-produk PPPB di pameran Trade Expo Indonesia pada 14-18 Oktober 2026, yang akan menunjukkan apakah program ini benar-benar membuka jalan ke pasar ekspor atau berhenti sebatas ritel dalam negeri.",
+  "imageV": "tjp3qd"
  },
  {
   "slug": "20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi",
@@ -80,14 +82,15 @@ var ARTICLES = [
   "fotoAdegan": "Professionals in business attire shaking hands during a corporate meeting in a modern Jakarta conference room, midday light.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "Yang konkret dari acara ini adalah pertemuan bisnis antara 20 bank syariah dengan 51 perusahaan untuk menjajaki pembiayaan, didukung data bahwa pembiayaan bank syariah pada Juni 2026 mencapai Rp720 triliun, tumbuh 11,43 persen dibanding setahun sebelumnya, sementara simpanan nasabah di bank syariah naik 13,13 persen menjadi Rp816 triliun. Yang berpotensi terdampak adalah korporasi, terutama yang terhubung rantai pasok produk halal, yang mencari pembiayaan jangka panjang dengan skema sesuai kebutuhan usaha, serta bank syariah yang ingin memperluas basis nasabah korporasi. Ke depan, forum semacam ini mengarah pada upaya membangun jalur pembiayaan yang lebih teratur agar bank syariah lebih percaya diri membiayai korporasi besar, tapi acara ini sendiri baru mempertemukan pihak-pihak, belum menghasilkan komitmen pembiayaan yang terukur. Yang akan menentukan apakah upaya ini berbuah nyata adalah apakah business matching kali ini benar-benar berlanjut jadi transaksi pembiayaan, sesuatu yang baru bisa dicek dari data realisasi pada laporan berikutnya."
+  "takeaway": "Yang konkret dari acara ini adalah pertemuan bisnis antara 20 bank syariah dengan 51 perusahaan untuk menjajaki pembiayaan, didukung data bahwa pembiayaan bank syariah pada Juni 2026 mencapai Rp720 triliun, tumbuh 11,43 persen dibanding setahun sebelumnya, sementara simpanan nasabah di bank syariah naik 13,13 persen menjadi Rp816 triliun. Yang berpotensi terdampak adalah korporasi, terutama yang terhubung rantai pasok produk halal, yang mencari pembiayaan jangka panjang dengan skema sesuai kebutuhan usaha, serta bank syariah yang ingin memperluas basis nasabah korporasi. Ke depan, forum semacam ini mengarah pada upaya membangun jalur pembiayaan yang lebih teratur agar bank syariah lebih percaya diri membiayai korporasi besar, tapi acara ini sendiri baru mempertemukan pihak-pihak, belum menghasilkan komitmen pembiayaan yang terukur. Yang akan menentukan apakah upaya ini berbuah nyata adalah apakah business matching kali ini benar-benar berlanjut jadi transaksi pembiayaan, sesuatu yang baru bisa dicek dari data realisasi pada laporan berikutnya.",
+  "imageV": "tjlbsq"
  },
  {
   "slug": "harga-emas-antam-naik-jadi-rp2-700-000-per-gram",
   "category": "Makroekonomi",
   "title": "Harga Emas Antam [Naik] Jadi Rp2.700.000 per Gram",
   "deck": "Harga emas Antam per 13 Agustus 2026 naik Rp20.000 menjadi Rp2.700.000 per gram, harga buyback ikut naik ke Rp2.546.000.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-700-000-per-gram.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T10:10:45+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459576-harga-emas-antam-hari-ini-13-agustus-2026-rp2700000-per-gram",
@@ -105,14 +108,15 @@ var ARTICLES = [
   "fotoAdegan": "Close-up of small gold bars and coins arranged on a velvet tray inside a jewelry display counter, soft indoor lighting",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Kenaikan Rp20.000 ke Rp2.700.000 per gram ini hanya perbandingan dengan sehari sebelumnya, jadi belum bisa disimpulkan apakah ini awal tren naik atau sekadar koreksi harian. Yang terdampak langsung adalah pemilik emas Antam yang ingin menjual kembali, karena harga buyback naik ke Rp2.546.000, tapi selisihnya dengan harga jual masih sekitar Rp154.000 per gram, artinya baru untung kalau harga naik melebihi selisih itu. Untuk memastikan ke mana arah harga bergerak, perlu dilihat data harga emas Antam dan harga emas dunia dalam beberapa hari ke depan, karena data itu belum tersedia di sini."
+  "takeaway": "Kenaikan Rp20.000 ke Rp2.700.000 per gram ini hanya perbandingan dengan sehari sebelumnya, jadi belum bisa disimpulkan apakah ini awal tren naik atau sekadar koreksi harian. Yang terdampak langsung adalah pemilik emas Antam yang ingin menjual kembali, karena harga buyback naik ke Rp2.546.000, tapi selisihnya dengan harga jual masih sekitar Rp154.000 per gram, artinya baru untung kalau harga naik melebihi selisih itu. Untuk memastikan ke mana arah harga bergerak, perlu dilihat data harga emas Antam dan harga emas dunia dalam beberapa hari ke depan, karena data itu belum tersedia di sini.",
+  "imageV": "tjp3qe"
  },
  {
   "slug": "pbb-p2-2026-diskon-5-jika-bayar-sebelum-30-september",
   "category": "Makroekonomi",
   "title": "PBB-P2 2026 [Diskon] 5% Jika Bayar Sebelum 30 September",
   "deck": "Pemprov DKI Jakarta memberi potongan otomatis 5 persen untuk PBB-P2 tahun 2026 yang dibayar sebelum jatuh tempo 30 September.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pbb-p2-2026-diskon-5-jika-bayar-sebelum-30-september.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T10:00:06+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459518-bayar-sebelum-30-september-pbb-p2-tahun-2026-otomatis-dipotong-5",
@@ -131,14 +135,15 @@ var ARTICLES = [
   "fotoAdegan": "A resident paying bills via smartphone at a busy Jakarta street ATM booth, morning light, screen blurred and out of focus",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7ca8bcd0c5a-ilustrasi-perumahan-objek-pajak-bumi-dan-bangunan_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah adalah PBB-P2 tahun pajak 2026 otomatis mendapat potongan 5 persen kalau dibayar antara 1 Agustus dan 30 September 2026, sesuai Keputusan Gubernur Nomor 339 Tahun 2026, tanpa wajib pajak perlu mengajukan permohonan apa pun. Yang terdampak adalah seluruh pemilik tanah dan bangunan di DKI Jakarta yang berstatus wajib pajak PBB-P2, karena potongan ini berlaku umum lewat sistem pembayaran, bukan lewat pengajuan khusus untuk kelompok tertentu. Pola ini menunjukkan Pemprov DKI memakai diskon sebagai cara mendorong warga membayar lebih cepat sebelum jatuh tempo, bukan memperpanjang keringanan setelah tenggat lewat. Yang akan menunjukkan seberapa berhasil cara ini adalah data realisasi penerimaan PBB-P2 setelah 30 September 2026 dibandingkan periode yang sama tahun lalu, yang belum tersedia dalam berita ini."
+  "takeaway": "Yang berubah adalah PBB-P2 tahun pajak 2026 otomatis mendapat potongan 5 persen kalau dibayar antara 1 Agustus dan 30 September 2026, sesuai Keputusan Gubernur Nomor 339 Tahun 2026, tanpa wajib pajak perlu mengajukan permohonan apa pun. Yang terdampak adalah seluruh pemilik tanah dan bangunan di DKI Jakarta yang berstatus wajib pajak PBB-P2, karena potongan ini berlaku umum lewat sistem pembayaran, bukan lewat pengajuan khusus untuk kelompok tertentu. Pola ini menunjukkan Pemprov DKI memakai diskon sebagai cara mendorong warga membayar lebih cepat sebelum jatuh tempo, bukan memperpanjang keringanan setelah tenggat lewat. Yang akan menunjukkan seberapa berhasil cara ini adalah data realisasi penerimaan PBB-P2 setelah 30 September 2026 dibandingkan periode yang sama tahun lalu, yang belum tersedia dalam berita ini.",
+  "imageV": "tjp3qf"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-885-ritel-juni-masih-tertekan",
   "category": "Moneter",
   "title": "Rupiah [Melemah] ke Rp17.885, Ritel Juni Masih Tertekan",
   "deck": "Rupiah melemah ke Rp17.885 per dolar AS usai sentimen laporan MSCI, sementara penjualan ritel Juni masih turun meski mulai melandai.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-melemah-ke-rp17-885-ritel-juni-masih-tertekan.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T09:33:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459567-rupiah-melemah-ke-rp17885-per-dolar-as-usai-laporan-msci-dan-penjualan-ritel-yang-melambat-pada-juni-2026",
@@ -157,14 +162,15 @@ var ARTICLES = [
   "fotoAdegan": "Shoppers browsing clothing stalls in a quiet Jakarta traditional market during late afternoon, few customers visible.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret hari ini, rupiah melemah tipis 8 poin ke Rp17.885, melanjutkan pelemahan 52 poin sehari sebelumnya, padahal data penjualan ritel Juni justru membaik, penurunannya melandai dari 3,9 persen menjadi 3,0 persen dibanding tahun lalu. Pola ini mengarah pada dugaan bahwa tekanan ke rupiah saat ini lebih banyak berasal dari sentimen pasar global seperti laporan MSCI, bukan semata perlambatan ekonomi dalam negeri. Yang terdampak adalah pelaku usaha ritel yang masih menghadapi daya beli lemah, kalangan yang mengandalkan barang impor karena rupiah lebih mahal, serta pemerintah yang rasio utangnya terhadap ukuran ekonomi nasional naik dari 40,75 persen menjadi 41,26 persen hanya dalam tiga bulan. Untuk melihat apakah pelemahan rupiah ini menetap atau berbalik, data kurs Jisdor pekan-pekan mendatang serta angka penjualan ritel Juli akan jadi penanda penting."
+  "takeaway": "Yang berubah konkret hari ini, rupiah melemah tipis 8 poin ke Rp17.885, melanjutkan pelemahan 52 poin sehari sebelumnya, padahal data penjualan ritel Juni justru membaik, penurunannya melandai dari 3,9 persen menjadi 3,0 persen dibanding tahun lalu. Pola ini mengarah pada dugaan bahwa tekanan ke rupiah saat ini lebih banyak berasal dari sentimen pasar global seperti laporan MSCI, bukan semata perlambatan ekonomi dalam negeri. Yang terdampak adalah pelaku usaha ritel yang masih menghadapi daya beli lemah, kalangan yang mengandalkan barang impor karena rupiah lebih mahal, serta pemerintah yang rasio utangnya terhadap ukuran ekonomi nasional naik dari 40,75 persen menjadi 41,26 persen hanya dalam tiga bulan. Untuk melihat apakah pelemahan rupiah ini menetap atau berbalik, data kurs Jisdor pekan-pekan mendatang serta angka penjualan ritel Juli akan jadi penanda penting.",
+  "imageV": "tjp3qg"
  },
  {
   "slug": "purbaya-pembelian-pertalite-dibatasi-bertahap-harga-tetap",
   "category": "Energi",
   "title": "Purbaya: Pembelian [Pertalite] Dibatasi Bertahap, Harga Tetap",
   "deck": "Menkeu Purbaya pastikan harga Pertalite tak naik, tapi kelompok desil 9-10 akan diarahkan beli BBM non-subsidi secara bertahap.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/purbaya-pembelian-pertalite-dibatasi-bertahap-harga-tetap.jpg",
   "date": "13 Agustus 2026",
   "isoDate": "2026-08-13T08:48:27+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459559-purbaya-buka-suara-soal-rencana-pembatasan-pembelian-pertalite",
@@ -183,7 +189,8 @@ var ARTICLES = [
   "fotoAdegan": "Motorcycles and cars lining up at a fuel station pump nozzle on a busy Indonesian roadside, midday light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a64744deb470-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Perubahan intinya bukan pada harga, melainkan pada siapa yang boleh membeli Pertalite dengan harga subsidi. Yang disasar adalah desil 9 dan 10, yakni dua kelompok masyarakat dengan pengeluaran tertinggi, yang nantinya diarahkan membeli BBM non-subsidi, sementara harga Pertalite untuk kelompok lain tetap sama. Uji coba akan dilakukan bertahap, misalnya menyetop dulu pembelian dari desil 10 sebelum melihat dampaknya ke ekonomi, sebelum diperluas ke desil 9. Munculnya rencana ini sehari setelah pertemuan dengan Menteri ESDM soal kebocoran subsidi energi ratusan triliun rupiah menunjukkan arah kebijakan menuju penyaluran subsidi berbasis data penerima, bukan pencabutan subsidi sekaligus. Yang akan memastikan arah ini adalah hasil evaluasi tahap pertama dan aturan turunan sistem penyaluran yang disebut masih disiapkan bersama Kementerian ESDM."
+  "takeaway": "Perubahan intinya bukan pada harga, melainkan pada siapa yang boleh membeli Pertalite dengan harga subsidi. Yang disasar adalah desil 9 dan 10, yakni dua kelompok masyarakat dengan pengeluaran tertinggi, yang nantinya diarahkan membeli BBM non-subsidi, sementara harga Pertalite untuk kelompok lain tetap sama. Uji coba akan dilakukan bertahap, misalnya menyetop dulu pembelian dari desil 10 sebelum melihat dampaknya ke ekonomi, sebelum diperluas ke desil 9. Munculnya rencana ini sehari setelah pertemuan dengan Menteri ESDM soal kebocoran subsidi energi ratusan triliun rupiah menunjukkan arah kebijakan menuju penyaluran subsidi berbasis data penerima, bukan pencabutan subsidi sekaligus. Yang akan memastikan arah ini adalah hasil evaluasi tahap pertama dan aturan turunan sistem penyaluran yang disebut masih disiapkan bersama Kementerian ESDM.",
+  "imageV": "tjp3qh"
  },
  {
   "slug": "msci-keluarkan-cpin-dan-goto-dari-indeks-utama",
@@ -208,7 +215,8 @@ var ARTICLES = [
   "fotoAdegan": "Stock brokers in a busy Jakarta trading floor watching distant blurred digital screens, wide angle, morning light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7cfa0e53404-pengunjung-mengamati-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret di sini adalah komposisi indeks, dua saham besar, CPIN dan GOTO, keluar dari indeks utama MSCI untuk Indonesia tanpa ada saham pengganti, sehingga jumlah wakil Indonesia di indeks itu menyusut dari sebelas menjadi sembilan saham. Yang terdampak langsung adalah pemegang saham CPIN dan GOTO, terutama karena dana-dana indeks pasif di berbagai negara yang melacak MSCI akan otomatis menjual saham tersebut begitu perubahan berlaku akhir Agustus. Efek serupa dalam skala lebih kecil dirasakan sembilan saham yang tersingkir dari kategori small cap seperti ARTO, BUKA, dan SMGR. Pola tidak ada saham baru yang masuk ke indeks utama sementara yang keluar cukup banyak ini mengarah ke penyusutan sementara bobot Indonesia di radar investor pasif global. Untuk memastikan apakah ini tren berkelanjutan atau sekadar penyesuaian satu periode, peninjauan berikutnya pada 11 November 2026 akan jadi penanda paling jelas."
+  "takeaway": "Yang berubah konkret di sini adalah komposisi indeks, dua saham besar, CPIN dan GOTO, keluar dari indeks utama MSCI untuk Indonesia tanpa ada saham pengganti, sehingga jumlah wakil Indonesia di indeks itu menyusut dari sebelas menjadi sembilan saham. Yang terdampak langsung adalah pemegang saham CPIN dan GOTO, terutama karena dana-dana indeks pasif di berbagai negara yang melacak MSCI akan otomatis menjual saham tersebut begitu perubahan berlaku akhir Agustus. Efek serupa dalam skala lebih kecil dirasakan sembilan saham yang tersingkir dari kategori small cap seperti ARTO, BUKA, dan SMGR. Pola tidak ada saham baru yang masuk ke indeks utama sementara yang keluar cukup banyak ini mengarah ke penyusutan sementara bobot Indonesia di radar investor pasif global. Untuk memastikan apakah ini tren berkelanjutan atau sekadar penyesuaian satu periode, peninjauan berikutnya pada 11 November 2026 akan jadi penanda paling jelas.",
+  "imageV": "tjop7x"
  },
  {
   "slug": "purbaya-ajak-kemenhub-benahi-tarif-timpang-peti-kemas",
@@ -234,7 +242,8 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of stacked shipping containers at an inland container depot yard, forklift moving between rows, midday light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/23/6a61c7e43baf1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah sejauh ini baru rencana koordinasi, bukan aturan baru: Kementerian Keuangan akan mengajak Kementerian Perhubungan menyelesaikan selisih biaya jasa angkat-turun kontainer di depo peti kemas kosong, yang di luar pelabuhan tercatat Rp300.000 sampai Rp400.000 lebih mahal per kontainer ketimbang di dalam pelabuhan. Pihak yang paling merasakan selisih ini adalah pengguna jasa logistik, seperti importir dan eksportir yang menitipkan kontainer kosong di depo luar pelabuhan, karena biaya tambahan itu langsung menambah ongkos kirim barang mereka. Penyebabnya, menurut aduan yang diterima Kemenkeu, adalah belum adanya aturan yang secara khusus menetapkan struktur dan golongan tarif LoLo, sehingga tiap depo bisa menetapkan tarifnya sendiri. Arahnya tampak menuju penyeragaman aturan tarif antara depo di dalam dan luar pelabuhan, tapi ini baru tahap koordinasi antar kementerian dan belum ada draf regulasi. Yang akan memastikan arah ini benar terealisasi adalah apakah Kemenhub kemudian menerbitkan aturan konkret soal struktur dan golongan tarif LoLo, atau rencana ini berhenti di tahap koordinasi."
+  "takeaway": "Yang berubah sejauh ini baru rencana koordinasi, bukan aturan baru: Kementerian Keuangan akan mengajak Kementerian Perhubungan menyelesaikan selisih biaya jasa angkat-turun kontainer di depo peti kemas kosong, yang di luar pelabuhan tercatat Rp300.000 sampai Rp400.000 lebih mahal per kontainer ketimbang di dalam pelabuhan. Pihak yang paling merasakan selisih ini adalah pengguna jasa logistik, seperti importir dan eksportir yang menitipkan kontainer kosong di depo luar pelabuhan, karena biaya tambahan itu langsung menambah ongkos kirim barang mereka. Penyebabnya, menurut aduan yang diterima Kemenkeu, adalah belum adanya aturan yang secara khusus menetapkan struktur dan golongan tarif LoLo, sehingga tiap depo bisa menetapkan tarifnya sendiri. Arahnya tampak menuju penyeragaman aturan tarif antara depo di dalam dan luar pelabuhan, tapi ini baru tahap koordinasi antar kementerian dan belum ada draf regulasi. Yang akan memastikan arah ini benar terealisasi adalah apakah Kemenhub kemudian menerbitkan aturan konkret soal struktur dan golongan tarif LoLo, atau rencana ini berhenti di tahap koordinasi.",
+  "imageV": "tjop7y"
  },
  {
   "slug": "umkm-binaan-pertamina-raih-omzet-rp8-57-miliar",
@@ -260,7 +269,8 @@ var ARTICLES = [
   "fotoAdegan": "Small business vendors arranging handcrafted food products on a stall inside a busy trade exhibition hall in Indonesia.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c9a779202f-umkm-binaan-pertamina_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah di sini bukan sekadar angka omzet, melainkan skala dukungannya: 414 pameran, 2.822 sertifikasi produk, dan 579 pelatihan usaha dalam satu semester, kombinasi yang jauh lebih besar dibanding sekadar bantuan modal seperti yang dulu diterima Sambal Ning Niniek. Yang terdampak langsung adalah UMKM binaan Pertamina yang sudah punya produk siap jual namun terkendala jaringan pemasaran dan legalitas, seperti tecermin dari kisah Sri Wahyuni yang mengaku pelatihan dan pameran lebih membantu memperluas jaringan ketimbang sekadar menambah omzet sesaat. Pola ini menunjukkan arah dukungan Pertamina bergeser dari sekadar penyaluran modal usaha ke penguatan kesiapan pasar, yakni sertifikasi dan akses pameran berskala lebih besar termasuk pasar internasional. Yang akan memperkuat atau mematahkan pembacaan ini adalah apakah UMKM binaan yang sudah difasilitasi sertifikasi dan pameran internasional benar-benar berhasil menembus ekspor pada laporan semester berikutnya."
+  "takeaway": "Yang berubah di sini bukan sekadar angka omzet, melainkan skala dukungannya: 414 pameran, 2.822 sertifikasi produk, dan 579 pelatihan usaha dalam satu semester, kombinasi yang jauh lebih besar dibanding sekadar bantuan modal seperti yang dulu diterima Sambal Ning Niniek. Yang terdampak langsung adalah UMKM binaan Pertamina yang sudah punya produk siap jual namun terkendala jaringan pemasaran dan legalitas, seperti tecermin dari kisah Sri Wahyuni yang mengaku pelatihan dan pameran lebih membantu memperluas jaringan ketimbang sekadar menambah omzet sesaat. Pola ini menunjukkan arah dukungan Pertamina bergeser dari sekadar penyaluran modal usaha ke penguatan kesiapan pasar, yakni sertifikasi dan akses pameran berskala lebih besar termasuk pasar internasional. Yang akan memperkuat atau mematahkan pembacaan ini adalah apakah UMKM binaan yang sudah difasilitasi sertifikasi dan pameran internasional benar-benar berhasil menembus ekspor pada laporan semester berikutnya.",
+  "imageV": "tjop7z"
  },
  {
   "slug": "purbaya-temukan-banyak-masalah-keuangan-mbg-di-daerah",
@@ -285,7 +295,8 @@ var ARTICLES = [
   "fotoAdegan": "Kitchen workers ladling rice and vegetables into metal trays inside a busy communal kitchen in Indonesia, early morning",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/18/6a33e4069213e-ilustrasi-pekerja-menyiapkan-paket-makanan-untuk-program-makan-bergizi-gratis-mbg-di-dapur-satuan-pelayanan-pemenuhan-gizi-sppg-jebres_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Temuan ini berasal dari survei langsung staf Kementerian Keuangan ke satuan pelayanan gizi yang menjalankan MBG di lapangan, bukan sekadar laporan administratif, dan hasilnya akan diserahkan ke BGN agar aturan pertanggungjawaban dananya diperbaiki. Yang terdampak langsung adalah BGN yang harus menindaklanjuti temuan itu, serta pengelola dapur MBG di daerah yang selama ini menyusun laporan keuangannya sendiri. Arah yang terlihat sejauh ini adalah pengawasan yang diperketat lebih dulu sebelum ada langkah lanjutan, sebab Purbaya sendiri menegaskan belum ada keputusan soal efisiensi anggaran MBG. Yang akan memastikan ke mana ini bergerak adalah apakah BGN benar merilis revisi aturan pertanggungjawaban keuangan, dan apakah keputusan soal efisiensi anggaran itu akhirnya diambil."
+  "takeaway": "Temuan ini berasal dari survei langsung staf Kementerian Keuangan ke satuan pelayanan gizi yang menjalankan MBG di lapangan, bukan sekadar laporan administratif, dan hasilnya akan diserahkan ke BGN agar aturan pertanggungjawaban dananya diperbaiki. Yang terdampak langsung adalah BGN yang harus menindaklanjuti temuan itu, serta pengelola dapur MBG di daerah yang selama ini menyusun laporan keuangannya sendiri. Arah yang terlihat sejauh ini adalah pengawasan yang diperketat lebih dulu sebelum ada langkah lanjutan, sebab Purbaya sendiri menegaskan belum ada keputusan soal efisiensi anggaran MBG. Yang akan memastikan ke mana ini bergerak adalah apakah BGN benar merilis revisi aturan pertanggungjawaban keuangan, dan apakah keputusan soal efisiensi anggaran itu akhirnya diambil.",
+  "imageV": "tjop80"
  },
  {
   "slug": "pajak-e-commerce-berpeluang-tertunda-lagi-hingga-oktober",
@@ -310,7 +321,8 @@ var ARTICLES = [
   "fotoAdegan": "Courier riders sorting stacked parcel boxes at a busy urban delivery hub early in the morning, motorbikes lined up.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62d442a93f1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Pajak transaksi marketplace yang semula mulai berlaku 1 Agustus 2026 sudah diundur sekali pada 5 Agustus, dan kini disebut mundur lagi setidaknya sampai Oktober, tanpa jadwal pasti kapan benar-benar jalan. Yang langsung kena dampak adalah pedagang online, termasuk banyak pelaku UMKM yang mengandalkan marketplace, karena merekalah yang akan dipotong pajak setiap kali transaksi terjadi. Pola penundaan berulang ini menunjukkan pemerintah memilih menautkan jadwal pajak ke kondisi daya beli masyarakat, bukan menetapkan tanggal yang tetap, sehingga kebijakan ini bergerak ke arah tertunda selama ekonomi dianggap belum cukup kuat, ketimbang menuju kepastian jadwal baru. Yang akan menentukan apakah Oktober benar-benar jadi batas akhir atau kembali mundur adalah angka pertumbuhan ekonomi kuartal III 2026 dan seberapa dekat angka itu dengan target 6 persen yang dipatok pemerintah."
+  "takeaway": "Pajak transaksi marketplace yang semula mulai berlaku 1 Agustus 2026 sudah diundur sekali pada 5 Agustus, dan kini disebut mundur lagi setidaknya sampai Oktober, tanpa jadwal pasti kapan benar-benar jalan. Yang langsung kena dampak adalah pedagang online, termasuk banyak pelaku UMKM yang mengandalkan marketplace, karena merekalah yang akan dipotong pajak setiap kali transaksi terjadi. Pola penundaan berulang ini menunjukkan pemerintah memilih menautkan jadwal pajak ke kondisi daya beli masyarakat, bukan menetapkan tanggal yang tetap, sehingga kebijakan ini bergerak ke arah tertunda selama ekonomi dianggap belum cukup kuat, ketimbang menuju kepastian jadwal baru. Yang akan menentukan apakah Oktober benar-benar jadi batas akhir atau kembali mundur adalah angka pertumbuhan ekonomi kuartal III 2026 dan seberapa dekat angka itu dengan target 6 persen yang dipatok pemerintah.",
+  "imageV": "tjop80"
  },
  {
   "slug": "bright-gas-diskon-hingga-rp8-100-sambut-kemerdekaan",
@@ -335,7 +347,8 @@ var ARTICLES = [
   "fotoAdegan": "A delivery worker rolling a small gas cylinder on a hand cart outside a neighborhood store, morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/16/68a07926342e0-promo-bright-gas-dari-pertamina-patra-niaga_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Diskonnya konkret: Rp4.050 per tabung untuk Bright Gas 5,5 kilogram dan Rp8.100 untuk yang 12 kilogram, berlaku sembilan hari mulai 15 Agustus, khusus untuk isi ulang alias refill, bukan pembelian tabung baru, dan tanpa syarat belanja minimum. Karena syaratnya refill, promo ini menyasar pelanggan Bright Gas yang sudah punya tabung, bukan orang yang baru mau beralih dari elpiji 3 kilogram bersubsidi ke gas non-subsidi ini. Pola diskon berbatas waktu yang dikaitkan dengan hari besar nasional seperti ini lazim dipakai untuk mendongkrak penjualan sesaat, bukan mengubah harga secara permanen. Yang akan menunjukkan apakah ini sekadar promo musiman atau bagian dari strategi harga yang lebih panjang adalah apa yang terjadi pada harga Bright Gas begitu periode promo berakhir pada 23 Agustus."
+  "takeaway": "Diskonnya konkret: Rp4.050 per tabung untuk Bright Gas 5,5 kilogram dan Rp8.100 untuk yang 12 kilogram, berlaku sembilan hari mulai 15 Agustus, khusus untuk isi ulang alias refill, bukan pembelian tabung baru, dan tanpa syarat belanja minimum. Karena syaratnya refill, promo ini menyasar pelanggan Bright Gas yang sudah punya tabung, bukan orang yang baru mau beralih dari elpiji 3 kilogram bersubsidi ke gas non-subsidi ini. Pola diskon berbatas waktu yang dikaitkan dengan hari besar nasional seperti ini lazim dipakai untuk mendongkrak penjualan sesaat, bukan mengubah harga secara permanen. Yang akan menunjukkan apakah ini sekadar promo musiman atau bagian dari strategi harga yang lebih panjang adalah apa yang terjadi pada harga Bright Gas begitu periode promo berakhir pada 23 Agustus.",
+  "imageV": "tjop81"
  },
  {
   "slug": "inflasi-as-melandai-peluang-kenaikan-bunga-fed-menipis",
@@ -361,7 +374,8 @@ var ARTICLES = [
   "fotoAdegan": "Container ships and cranes at a busy Indonesian port at sunrise, workers coordinating cargo loading operations",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/10/08/6704ec741d63d-the-fed-diprediksi-turunkan-suku-bunga-lagi-berikut-dampaknya-di-pasar-kripto-dan-yang-harus-dilakukan-investor_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Setelah data inflasi Juli dirilis, peluang The Fed menaikkan suku bunga pada pertemuan September turun menjadi 42 persen, menurut penghitungan pasar futures suku bunga yang dipantau CME Group. Reaksi ini langsung terlihat di pasar keuangan AS, kontrak berjangka saham naik dan imbal hasil surat utang pemerintah AS turun, tanda investor bersedia menerima bunga lebih rendah karena merasa inflasi mulai terkendali. Kenaikan CPI yang hanya 0,1 persen ini melanjutkan pola Juni yang juga moderat, jadi datanya mengarah ke pelambatan inflasi yang bertahap, bukan lonjakan atau penurunan tiba-tiba. Yang masih jadi ganjalan adalah harga energi, yang meski turun 1,5 persen dalam sebulan, secara tahunan masih naik 14,7 persen dan disebut sensitif terhadap situasi di Timur Tengah, sehingga arah pelambatan ini baru akan lebih terkonfirmasi lewat data inflasi Agustus dan keputusan The Fed pada pertemuan September."
+  "takeaway": "Setelah data inflasi Juli dirilis, peluang The Fed menaikkan suku bunga pada pertemuan September turun menjadi 42 persen, menurut penghitungan pasar futures suku bunga yang dipantau CME Group. Reaksi ini langsung terlihat di pasar keuangan AS, kontrak berjangka saham naik dan imbal hasil surat utang pemerintah AS turun, tanda investor bersedia menerima bunga lebih rendah karena merasa inflasi mulai terkendali. Kenaikan CPI yang hanya 0,1 persen ini melanjutkan pola Juni yang juga moderat, jadi datanya mengarah ke pelambatan inflasi yang bertahap, bukan lonjakan atau penurunan tiba-tiba. Yang masih jadi ganjalan adalah harga energi, yang meski turun 1,5 persen dalam sebulan, secara tahunan masih naik 14,7 persen dan disebut sensitif terhadap situasi di Timur Tengah, sehingga arah pelambatan ini baru akan lebih terkonfirmasi lewat data inflasi Agustus dan keputusan The Fed pada pertemuan September.",
+  "imageV": "tjop82"
  },
  {
   "slug": "kenapa-desil-9-10-jadi-penentu-beli-pertalite",
@@ -387,7 +401,8 @@ var ARTICLES = [
   "fotoAdegan": "A gas station attendant filling a motorcycle fuel tank at a busy Indonesian filling station in late afternoon light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ccdf89706f-ilustrasi-petugas-melayani-pengisian-bahan-bakar-minyak-bbm_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah bukan harga Pertalite, melainkan siapa yang boleh membelinya dengan harga subsidi, yaitu rumah tangga di desil 9 dan 10, dua kelompok dengan tingkat pengeluaran tertinggi menurut data kesejahteraan pemerintah. Kalau mekanismenya jadi berjalan, yang paling merasakan dampak adalah rumah tangga di kelompok itu, yang selama ini terbiasa mengisi Pertalite tapi kini bisa diarahkan ke BBM nonsubsidi. Pernyataan Menkeu Purbaya bahwa pembatasan dilakukan bertahap, bukan langsung menyeluruh, menunjukkan arah kebijakan ini condong ke penyaringan penerima subsidi secara berjenjang berdasarkan data, bukan pencabutan subsidi Pertalite sekaligus. Yang akan memastikan arah ini adalah mekanisme teknis final dari Kemenkeu dan ESDM, yang menurut berita ini masih dalam tahap kajian dan belum diumumkan."
+  "takeaway": "Yang berubah bukan harga Pertalite, melainkan siapa yang boleh membelinya dengan harga subsidi, yaitu rumah tangga di desil 9 dan 10, dua kelompok dengan tingkat pengeluaran tertinggi menurut data kesejahteraan pemerintah. Kalau mekanismenya jadi berjalan, yang paling merasakan dampak adalah rumah tangga di kelompok itu, yang selama ini terbiasa mengisi Pertalite tapi kini bisa diarahkan ke BBM nonsubsidi. Pernyataan Menkeu Purbaya bahwa pembatasan dilakukan bertahap, bukan langsung menyeluruh, menunjukkan arah kebijakan ini condong ke penyaringan penerima subsidi secara berjenjang berdasarkan data, bukan pencabutan subsidi Pertalite sekaligus. Yang akan memastikan arah ini adalah mekanisme teknis final dari Kemenkeu dan ESDM, yang menurut berita ini masih dalam tahap kajian dan belum diumumkan.",
+  "imageV": "tjop82"
  },
  {
   "slug": "pertalite-bakal-dibatasi-untuk-desil-9-10",
@@ -413,7 +428,8 @@ var ARTICLES = [
   "fotoAdegan": "A gas station attendant filling a car fuel tank at a busy roadside station, daytime, signage blurred in background",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Perubahan konkretnya ada di sisi teknis: sistem SPBU akan dibuat menolak otomatis transaksi Pertalite begitu data menunjukkan pembelinya masuk desil 9 atau 10, dua kelompok rumah tangga dengan pengeluaran per kapita tertinggi. Yang langsung terdampak adalah rumah tangga di kelompok itu, yang harus beralih ke Pertamax dengan harga nonsubsidi, sementara delapan desil di bawahnya untuk saat ini tidak disentuh aturan ini. Kata kunci dari Purbaya adalah 'bertahap', bukan langsung menyeluruh, jadi pola yang terlihat mengarah ke penyempitan sasaran subsidi Pertalite selangkah demi selangkah, bukan pencabutan sekaligus untuk semua desil menengah. Yang akan menentukan apakah pembacaan ini benar adalah aturan teknis final dari Kementerian Keuangan dan ESDM serta kepastian tanggal berlakunya, yang menurut rencana jatuh sebelum 2027."
+  "takeaway": "Perubahan konkretnya ada di sisi teknis: sistem SPBU akan dibuat menolak otomatis transaksi Pertalite begitu data menunjukkan pembelinya masuk desil 9 atau 10, dua kelompok rumah tangga dengan pengeluaran per kapita tertinggi. Yang langsung terdampak adalah rumah tangga di kelompok itu, yang harus beralih ke Pertamax dengan harga nonsubsidi, sementara delapan desil di bawahnya untuk saat ini tidak disentuh aturan ini. Kata kunci dari Purbaya adalah 'bertahap', bukan langsung menyeluruh, jadi pola yang terlihat mengarah ke penyempitan sasaran subsidi Pertalite selangkah demi selangkah, bukan pencabutan sekaligus untuk semua desil menengah. Yang akan menentukan apakah pembacaan ini benar adalah aturan teknis final dari Kementerian Keuangan dan ESDM serta kepastian tanggal berlakunya, yang menurut rencana jatuh sebelum 2027.",
+  "imageV": "tjop83"
  },
  {
   "slug": "ptro-kantongi-kontrak-tambang-batu-bara-rp9-3-triliun",
@@ -438,7 +454,8 @@ var ARTICLES = [
   "fotoAdegan": "Heavy excavator loading coal onto a haul truck in an open-pit mine under overcast sky",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/23/69730e85cb806-saham-ptro-auto-reject-bawah-analis-tetap-optimistis-prospek-petrosea-ke-depan_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah adalah PTRO menambah kontrak jasa tambang senilai Rp9,3 triliun, dengan porsi terbesar Rp7,7 triliun datang dari proyek milik PBC yang akan memproduksi 42 juta ton batu bara. Kontrak ini berdurasi seumur tambang, artinya PTRO akan terus mengerjakan proyek selama cadangan batu bara di lokasi itu masih ada, bukan untuk jangka waktu tetap seperti setahun atau dua tahun. Pihak yang terdampak langsung adalah PTRO sebagai penyedia jasa tambang, serta grup SINI selaku pemilik izin tambang di Kapuas, Kalimantan Tengah. Angka Rp9,3 triliun itu dihitung dari harga acuan batu bara pada 23 Juli 2026, sehingga pendapatan riil yang diterima PTRO nanti akan naik turun mengikuti harga batu bara selama proyek berjalan, bukan angka tetap yang langsung cair. Yang perlu dicermati berikutnya adalah laporan produksi dan pendapatan PTRO dari proyek ini, karena proyeksi pendapatan SINI sebesar Rp45,6 triliun sepanjang masa kontrak masih berupa perkiraan, bukan kepastian."
+  "takeaway": "Yang berubah adalah PTRO menambah kontrak jasa tambang senilai Rp9,3 triliun, dengan porsi terbesar Rp7,7 triliun datang dari proyek milik PBC yang akan memproduksi 42 juta ton batu bara. Kontrak ini berdurasi seumur tambang, artinya PTRO akan terus mengerjakan proyek selama cadangan batu bara di lokasi itu masih ada, bukan untuk jangka waktu tetap seperti setahun atau dua tahun. Pihak yang terdampak langsung adalah PTRO sebagai penyedia jasa tambang, serta grup SINI selaku pemilik izin tambang di Kapuas, Kalimantan Tengah. Angka Rp9,3 triliun itu dihitung dari harga acuan batu bara pada 23 Juli 2026, sehingga pendapatan riil yang diterima PTRO nanti akan naik turun mengikuti harga batu bara selama proyek berjalan, bukan angka tetap yang langsung cair. Yang perlu dicermati berikutnya adalah laporan produksi dan pendapatan PTRO dari proyek ini, karena proyeksi pendapatan SINI sebesar Rp45,6 triliun sepanjang masa kontrak masih berupa perkiraan, bukan kepastian.",
+  "imageV": "tjop84"
  },
  {
   "slug": "purbaya-pajak-kontrakan-bukan-aturan-baru",
@@ -463,7 +480,8 @@ var ARTICLES = [
   "fotoAdegan": "Rows of modest rental houses along a narrow residential alley in an Indonesian city, afternoon light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62cbf2338d5-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Purbaya dan DJP kompak membantah ada pajak baru untuk kontrakan, tapi keduanya tidak membantah bahwa pemerintah tetap mengejar target menaikkan rasio pajak terhadap ekonomi nasional, dari sekitar 10 persen menjadi 10,16 sampai 10,5 persen tahun depan. Rasio ini sederhananya membandingkan berapa banyak pajak yang masuk ke kas negara dengan total nilai ekonomi Indonesia, jadi kalau targetnya naik, pemerintah butuh sumber penerimaan tambahan dari suatu tempat. Kemenkeu sendiri sudah bilang sasarannya adalah sektor dan kelompok wajib pajak yang selama ini bayar lebih kecil dari yang seharusnya bisa mereka bayar, tapi belum menyebut sektor mana persis. Pemilik kontrakan untuk saat ini memang tidak disebut sebagai target khusus, namun arah kebijakannya tetap ke perluasan basis pajak, bukan pengurangan. Yang akan menunjukkan sektor mana yang benar-benar disasar adalah dokumen program kerja resmi DJP 2027 begitu diterbitkan."
+  "takeaway": "Purbaya dan DJP kompak membantah ada pajak baru untuk kontrakan, tapi keduanya tidak membantah bahwa pemerintah tetap mengejar target menaikkan rasio pajak terhadap ekonomi nasional, dari sekitar 10 persen menjadi 10,16 sampai 10,5 persen tahun depan. Rasio ini sederhananya membandingkan berapa banyak pajak yang masuk ke kas negara dengan total nilai ekonomi Indonesia, jadi kalau targetnya naik, pemerintah butuh sumber penerimaan tambahan dari suatu tempat. Kemenkeu sendiri sudah bilang sasarannya adalah sektor dan kelompok wajib pajak yang selama ini bayar lebih kecil dari yang seharusnya bisa mereka bayar, tapi belum menyebut sektor mana persis. Pemilik kontrakan untuk saat ini memang tidak disebut sebagai target khusus, namun arah kebijakannya tetap ke perluasan basis pajak, bukan pengurangan. Yang akan menunjukkan sektor mana yang benar-benar disasar adalah dokumen program kerja resmi DJP 2027 begitu diterbitkan.",
+  "imageV": "tjop85"
  },
  {
   "slug": "purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini",
@@ -488,7 +506,8 @@ var ARTICLES = [
   "fotoAdegan": "Bank teller counter with staff processing transactions in a busy branch office, natural daylight, Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/05/6a4a0addd9c9b-wisma-danantara_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah adalah status keuntungan Danantara, dari sepenuhnya dikelola lembaga itu sendiri menjadi sebagian dialihkan ke APBN mulai tahun ini, meski besaran dan skema penyalurannya belum diumumkan. Pihak yang langsung terdampak adalah Danantara sebagai pengelola investasi negara dan APBN sebagai penerima dana tambahan, sementara publik luas terdampak secara tidak langsung lewat program yang dibiayai anggaran negara. Langkah ini menambah daftar upaya pemerintah mencari sumber pendapatan di luar pajak, sejalan dengan pernyataan Purbaya bahwa berbagai cara akan dimanfaatkan agar anggaran tetap berkesinambungan. Arahnya mengindikasikan pemerintah mulai mengandalkan aset dan investasi negara sebagai bantalan tambahan penerimaan, bukan hanya pajak. Yang akan memastikan seberapa besar peran ini adalah kesepakatan mekanisme antara Kementerian Keuangan dan Danantara yang menurut Purbaya masih dibahas."
+  "takeaway": "Yang berubah adalah status keuntungan Danantara, dari sepenuhnya dikelola lembaga itu sendiri menjadi sebagian dialihkan ke APBN mulai tahun ini, meski besaran dan skema penyalurannya belum diumumkan. Pihak yang langsung terdampak adalah Danantara sebagai pengelola investasi negara dan APBN sebagai penerima dana tambahan, sementara publik luas terdampak secara tidak langsung lewat program yang dibiayai anggaran negara. Langkah ini menambah daftar upaya pemerintah mencari sumber pendapatan di luar pajak, sejalan dengan pernyataan Purbaya bahwa berbagai cara akan dimanfaatkan agar anggaran tetap berkesinambungan. Arahnya mengindikasikan pemerintah mulai mengandalkan aset dan investasi negara sebagai bantalan tambahan penerimaan, bukan hanya pajak. Yang akan memastikan seberapa besar peran ini adalah kesepakatan mekanisme antara Kementerian Keuangan dan Danantara yang menurut Purbaya masih dibahas.",
+  "imageV": "tjop86"
  },
  {
   "slug": "ihsg-melejit-1-69-persen-jelang-keputusan-msci",
@@ -513,7 +532,8 @@ var ARTICLES = [
   "fotoAdegan": "Busy stock exchange lobby in Jakarta with professionals walking past tall glass windows during midday, blurred motion, no readable signage.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f7cce47a526-pekerja-berjalan-di-samping-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Penguatan 1,69 persen ini terjadi tepat sebelum MSCI mengumumkan hasil peninjauan berkala indeksnya untuk Agustus 2026, dan kenaikannya tidak merata: sektor infrastruktur melonjak 4,74 persen dan energi 3,35 persen, jauh di atas kenaikan pasar secara umum. Pola seperti ini lazim terjadi menjelang pengumuman MSCI, sebab banyak dana investasi global mengikuti komposisi indeks itu secara otomatis, sehingga begitu ada dugaan saham tertentu akan dimasukkan, uang asing cenderung masuk lebih dulu sebelum keputusan resmi keluar. Pihak yang paling terdampak adalah investor dan emiten di sektor infrastruktur serta energi, karena merekalah yang paling diuntungkan bila spekulasi itu benar dan paling rawan terkoreksi bila meleset. Pergerakan hari ini lebih tepat dibaca sebagai posisi ancang-ancang pasar, bukan kepastian bahwa sektor tersebut akan masuk revisi, dan yang akan menegaskan arahnya adalah pengumuman resmi MSCI berikut reaksi pasar begitu hasilnya diumumkan."
+  "takeaway": "Penguatan 1,69 persen ini terjadi tepat sebelum MSCI mengumumkan hasil peninjauan berkala indeksnya untuk Agustus 2026, dan kenaikannya tidak merata: sektor infrastruktur melonjak 4,74 persen dan energi 3,35 persen, jauh di atas kenaikan pasar secara umum. Pola seperti ini lazim terjadi menjelang pengumuman MSCI, sebab banyak dana investasi global mengikuti komposisi indeks itu secara otomatis, sehingga begitu ada dugaan saham tertentu akan dimasukkan, uang asing cenderung masuk lebih dulu sebelum keputusan resmi keluar. Pihak yang paling terdampak adalah investor dan emiten di sektor infrastruktur serta energi, karena merekalah yang paling diuntungkan bila spekulasi itu benar dan paling rawan terkoreksi bila meleset. Pergerakan hari ini lebih tepat dibaca sebagai posisi ancang-ancang pasar, bukan kepastian bahwa sektor tersebut akan masuk revisi, dan yang akan menegaskan arahnya adalah pengumuman resmi MSCI berikut reaksi pasar begitu hasilnya diumumkan.",
+  "imageV": "tjop87"
  },
  {
   "slug": "telkom-perkenalkan-aicosystem-di-dti-cx-2026",
@@ -538,7 +558,8 @@ var ARTICLES = [
   "takeaway": "Yang konkret dari paparan ini adalah pengelompokan empat solusi, OCA, PrivateGPT, DIP, dan AI CCTV Analytics, di bawah satu payung AI Hub dalam AIcosystem, dengan OCA diposisikan sebagai pengelola interaksi pelanggan lintas kanal lewat fitur AI Reply, AI Translate, AI Enhance, dan AI Summary. Pihak yang berkepentingan di sini terutama korporasi atau institusi yang menjadi klien enterprise Telkom untuk layanan manajemen pelanggan dan pusat kontak. Materi yang tersedia masih berupa showcase produk di ajang pameran, belum memuat angka adopsi klien, nilai kontrak, atau target pendapatan dari lini bisnis AI ini, sehingga arah komersialnya belum bisa disimpulkan. Yang akan memperjelas arah tersebut adalah ada tidaknya pengumuman kerja sama atau kontrak konkret dengan klien korporasi setelah ajang ini berlangsung.",
   "fotoAdegan": "Engineers in a convention hall test interactive kiosks and sensor displays before an exhibition hall fills with visitors.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c3728ddd14-direktur-it-digital-telkom-faizal-rochmad-djoemadi-mengunjungi-ai-zone-telkom-pada-dti-cx-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrqm"
  },
  {
   "slug": "lrt-kelapa-gading-manggarai-beroperasi-26-agustus",
@@ -564,7 +585,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah konkret di sini adalah kepastian tanggal operasi awal, 26 Agustus 2026, untuk jalur sepanjang 12,2 kilometer dengan 11 stasiun dan estimasi waktu tempuh 28 menit dari Kelapa Gading ke Manggarai. Pihak yang paling terdampak adalah warga di koridor Jakarta Utara hingga Jakarta Selatan yang selama ini bergantung pada Transjakarta atau kendaraan pribadi untuk mencapai kawasan Manggarai, terutama mereka yang perlu berpindah ke KRL Commuter Line atau KA Bandara. Dengan Manggarai diposisikan sebagai simpul integrasi utama bersama empat stasiun yang terhubung Transjakarta, jalur ini mengarah pada konsolidasi titik transit antarmoda di Jakarta ketimbang sekadar menambah satu rute baru yang berdiri sendiri. Penanda yang akan memastikan arah ini terealisasi sesuai jadwal adalah hasil rangkaian pengujian sistem persinyalan dan kelistrikan yang menurut Jakpro masih berlangsung menjelang 26 Agustus.",
   "fotoAdegan": "Technicians in reflective vests inspect elevated rail tracks and signal equipment at a light rail station before dawn testing.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c30bc61ce2-lrt-jakarta-yang-akan-menghubungkan-stasiun-kelapa-gading-dengan-stasiun-manggarai_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrqm"
  },
  {
   "slug": "bos-bei-demutualisasi-tak-ganggu-independensi-bursa",
@@ -590,7 +612,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah secara konkret adalah struktur kepemilikan BEI, dari selama ini dipegang perusahaan efek anggota bursa menjadi terbuka bagi investor luar, dengan tiga kandidat pemegang saham yang diberi ruang oleh UU P2SK yaitu Kemenkeu, BI, dan Danantara lewat Danantara Investment Management. Pihak yang paling terdampak langsung adalah perusahaan efek yang selama ini menjadi pemilik BEI, karena komposisi kepemilikan mereka akan terdilusi oleh pemegang saham baru, serta OJK yang harus menyetujui skema akhirnya. Arahnya mengarah ke konsolidasi kepemilikan BEI ke tangan lembaga negara dan investor strategis dalam hitungan bulan, sesuai target yang disebut Pandu Sjahrir. Yang akan memastikan arah ini adalah pengumuman resmi porsi kepemilikan Danantara yang dijanjikan segera, serta hasil final pembahasan dengan OJK.",
   "fotoAdegan": "A trading floor employee walks briskly past rows of workstations in a glass-walled office tower during morning trading hours.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/03/6981933fe8d79-jeffrey-hendrik_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrqn"
  },
  {
   "slug": "shopeepay-gelar-promo-rp17-sambut-hut-ri-ke-81",
@@ -616,7 +639,8 @@ var ARTICLES = [
   "takeaway": "Promo Merdeka Rp17 ini menggabungkan diskon musiman, seperti voucher Alfamart Rp10.000 dan voucher Mie Gacoan/Solaria Rp5.000, dengan program yang sudah berjalan lebih lama seperti Pulsa & PLN Pasti Murah dan Pasti Gratis. Yang terdampak langsung adalah pengguna aplikasi ShopeePay sebagai konsumen, serta merchant mitra seperti Alfamart, Mie Gacoan, dan Solaria yang ikut program ini. Pola ini menunjukkan bahwa subsidi transaksi kecil bukan sekadar seremoni tahunan menjelang HUT RI, melainkan bagian dari strategi retensi pengguna yang berjalan sepanjang tahun lewat berbagai skema promo. Yang akan menegaskan arah ini adalah apakah ShopeePay kembali menjalankan skema serupa pada momen belanja besar berikutnya, seperti akhir tahun, atau merilis data pertumbuhan transaksi setelah periode promo ini berakhir.",
   "fotoAdegan": "A street food vendor scans a customer's phone for a QR code payment at a bustling roadside stall in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c29c84f8c6-aplikasi-shopeepay-menghadirkan-promo-rp17-menyambut-hut-ke-81-ri_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrqo"
  },
  {
   "slug": "dpr-ingatkan-menag-soal-wakaf-istiqlal-ke-pasar-modal",
@@ -641,7 +665,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini adalah pergeseran bentuk dana wakaf Istiqlal, dari sekadar uang tunai menjadi aset yang bisa ditempatkan di saham dan reksa dana lewat manajer investasi mitra BEI. Yang langsung terdampak adalah pengelola wakaf Istiqlal, manajer investasi yang digandeng, serta umat sebagai pewakaf yang dananya akan dikelola dengan profil risiko baru. Arahnya tampak menuju skema pengelolaan yang lebih diatur, dengan BEI mendorong integrasi filantropi Islam ke pasar modal syariah sementara DPR memberi sinyal pengawasan agar tidak kebablasan ke instrumen berisiko tinggi. Yang akan menentukan ke arah mana ini benar-benar bergerak adalah ada tidaknya pedoman syariah resmi atau aturan turunan dari Kementerian Agama maupun DSN-MUI yang mengatur batas instrumen dan tingkat risiko yang boleh dipakai.",
   "fotoAdegan": "Worshippers gather in the courtyard of a grand mosque in Jakarta as an official inspects a wooden donation box.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/09/6896cdc3aee8e-ilustrasi-masjid-istiqlal_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrqp"
  },
  {
   "slug": "destry-damayanti-calon-tunggal-gubernur-bi-dpr-segera-bahas",
@@ -667,7 +692,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah adalah status pencalonan Destry Damayanti, dari Deputi Gubernur Senior dan Pjs Gubernur BI menjadi calon tunggal Gubernur BI definitif, setelah Presiden Prabowo hanya mengajukan satu nama lewat Surat Presiden ke DPR. Langkah ini langsung berdampak pada pelaku pasar keuangan dan perbankan yang sejak 26 Juli 2026 menunggu kepastian arah kepemimpinan bank sentral pasca mundurnya Perry Warjiyo. Karena Destry sudah dua periode menjabat Deputi Gubernur Senior dan tengah menjalankan tugas sebagai Pjs Gubernur BI, pencalonan tunggal ini mengarah pada kontinuitas kebijakan moneter ketimbang pergantian haluan besar. Arah itu akan lebih jelas terlihat dari hasil uji kelayakan dan kepatutan di DPR serta jadwal pelantikan Destry sebagai Gubernur BI definitif.",
   "fotoAdegan": "Security guards stand at the gated entrance of a central bank's headquarters building in downtown Jakarta at dusk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c1121dab71-mensesneg-prasetyo-hadi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrr8"
  },
  {
   "slug": "pengusaha-ri-teken-ekspor-cokelat-bubuk-ke-arab-saudi",
@@ -692,7 +718,8 @@ var ARTICLES = [
    "Selama ini produk ekspor utama Indonesia ke Arab Saudi didominasi kendaraan dan bagiannya, lemak dan minyak nabati, kapal, serta produk kayu, sementara Indonesia banyak mengimpor garam, plastik, dan bahan kimia dari negara tersebut. Cokelat bubuk dan karbon aktif belum masuk dalam kelompok komoditas ekspor utama itu."
   ],
   "takeaway": "Nilai kesepakatan ini, sekitar Rp3,5 miliar, tergolong kecil dibandingkan total perdagangan nonmigas Indonesia-Arab Saudi yang mencapai USD 1,68 miliar pada semester pertama 2026. Pihak yang terdampak langsung adalah PT Visi Indonesia Parama sebagai eksportir cokelat bubuk dan karbon aktif, sementara skema business matching ITPC Jeddah berpotensi dibuka untuk pelaku usaha lain dengan produk sejenis. Arahnya tampak pada upaya diversifikasi ekspor Indonesia ke Arab Saudi, yang selama ini didominasi kendaraan dan minyak nabati, menuju produk bernilai tambah dalam skala lebih kecil. Untuk memastikan apakah pola ini berlanjut atau berhenti sebagai transaksi tunggal, perlu dilihat apakah ITPC Jeddah menghasilkan kesepakatan serupa dari business matching berikutnya.",
-  "fotoAdegan": "Factory workers in hairnets seal bags of cocoa powder on a production line inside a food processing plant."
+  "fotoAdegan": "Factory workers in hairnets seal bags of cocoa powder on a production line inside a food processing plant.",
+  "imageV": "tjnkee"
  },
  {
   "slug": "toyota-dan-kemendag-bahas-ekspor-gcc-ditarget-november",
@@ -718,7 +745,8 @@ var ARTICLES = [
   "takeaway": "Perubahan konkret dari pertemuan ini adalah tenggat baru, kerja sama dagang dengan GCC ditargetkan tuntas paling lambat November 2026, serta otomatisasi e-SKA yang sudah berjalan untuk ekspor ke tujuh negara mitra. Pihak yang paling terdampak adalah eksportir otomotif seperti TMMIN yang mengandalkan fasilitas tarif preferensi ke pasar-pasar tersebut, sementara akses ke Meksiko masih tertutup karena belum ada perjanjian dagang dengan Indonesia. Pola ini menunjukkan pemerintah mengandalkan perluasan cakupan perjanjian dagang preferensial, bukan instrumen domestik, sebagai jalur utama mendorong ekspor otomotif ke pasar baru. Yang akan menguji konsistensi arah ini adalah apakah kerja sama dengan GCC benar-benar rampung sesuai target November, atau kembali molor seperti negosiasi dagang lainnya.",
   "fotoAdegan": "An assembly line worker tightens bolts on a half-finished sedan chassis inside a busy automotive factory.",
   "fotoSumber": "https://www.kemendag.go.id/albums/9w5C72Bt29bSwdknHfDdzOU9869hnyoB7dXXjReY.jpg",
-  "kreditFoto": "Kementerian Perdagangan"
+  "kreditFoto": "Kementerian Perdagangan",
+  "imageV": "tjnrrl"
  },
  {
   "slug": "ekspor-mamin-indonesia-tertinggal-di-peringkat-asean",
@@ -745,7 +773,8 @@ var ARTICLES = [
   "takeaway": "Data yang dipaparkan pemerintah sendiri menunjukkan ekspor mamin Indonesia, USD6,25 miliar pada 2025, tertinggal dari Thailand dan Vietnam, bahkan nyaris disusul Singapura, meski pasar global tumbuh 7 persen per tahun. Pihak yang paling terdampak adalah pelaku UMKM mamin yang harus menghadapi hambatan standar mutu, sertifikasi, dan akses pembiayaan sebelum bisa menembus pasar ekspor. Forum ini sendiri belum menghasilkan aturan atau insentif baru, baru sebatas komitmen memperkuat pendampingan dan menyederhanakan birokrasi ekspor, sehingga arah kebijakannya masih berupa niat ketimbang program konkret. Yang akan menentukan apakah ini berlanjut jadi langkah nyata adalah ada tidaknya program pendampingan atau insentif ekspor UMKM mamin dengan target dan tenggat jelas yang menyusul forum ini.",
   "fotoAdegan": "Workers stack cartons of packaged instant noodles onto pallets inside a large food manufacturing warehouse.",
   "fotoSumber": "https://www.kemendag.go.id/albums/5k1gPRMGeKSCjDPm5d354OBzkRA5exAYDk56cDXh.jpg",
-  "kreditFoto": "Kementerian Perdagangan"
+  "kreditFoto": "Kementerian Perdagangan",
+  "imageV": "tjnrrr"
  },
  {
   "slug": "bappebti-rilis-rating-67-pialang-berjangka-triwulan-ii",
@@ -770,7 +799,8 @@ var ARTICLES = [
    "Data yang dipakai berasal dari laporan yang disetorkan pialang berjangka ke Bappebti, meliputi laporan integritas keuangan, kepatuhan usaha, transaksi, penilaian APU-PPT triwulan II 2026, serta hasil pengawasan langsung ke lapangan. Penilaian ini juga menjadi salah satu instrumen untuk memastikan pialang berjangka menjalankan usahanya sesuai Undang-Undang Nomor 32 Tahun 1997 tentang Perdagangan Berjangka Komoditi, yang telah diubah dengan Undang-Undang Nomor 10 Tahun 2011."
   ],
   "takeaway": "Publikasi ini adalah rating triwulanan yang wajib diterbitkan Bappebti sesuai Peraturan Bappebti No. 6/2023 Pasal 34A, bukan langkah baru, melainkan bagian dari mekanisme pengawasan berbasis risiko yang sudah berjalan tiap tiga bulan. Yang terdampak langsung adalah 67 pialang berjangka aktif yang dinilai kinerjanya, serta calon nasabah yang bisa memakai daftar 12 perusahaan berperingkat teratas sebagai salah satu acuan sebelum bertransaksi. Karena sifatnya rutin dan berbasis regulasi, arah kebijakan ini adalah konsistensi pengawasan dan keterbukaan informasi industri perdagangan berjangka, bukan perubahan aturan besar. Penanda apakah pola ini benar-benar konsisten adalah publikasi rating triwulan III-2026 yang semestinya terbit sekitar November 2026, termasuk ada tidaknya perubahan pada daftar 12 perusahaan peringkat teratas.",
-  "fotoAdegan": "Traders in headsets sit at rows of desks inside a commodity futures brokerage office in the financial district."
+  "fotoAdegan": "Traders in headsets sit at rows of desks inside a commodity futures brokerage office in the financial district.",
+  "imageV": "tjnkg7"
  },
  {
   "slug": "harga-properti-primer-naik-tipis-penjualan-masih-kontraksi",
@@ -794,7 +824,8 @@ var ARTICLES = [
    "Dari sisi pembiayaan, pengembang masih mengandalkan dana internal perusahaan untuk membiayai pembangunan, dengan pangsa 73,28 persen dari total kebutuhan pembiayaan. Di sisi konsumen, skema Kredit Pemilikan Rumah (KPR) tetap menjadi jalur utama pembelian rumah primer, mencakup 70,05 persen dari seluruh transaksi."
   ],
   "takeaway": "Yang berubah: pertumbuhan harga menguat tipis dari 0,62 persen menjadi 0,69 persen secara tahunan, sementara kontraksi penjualan mengecil signifikan dari 25,67 persen menjadi 2,36 persen dibanding periode setahun sebelumnya. Perbaikan ini terutama dirasakan pengembang rumah tipe kecil dan besar, sementara segmen menengah masih tertekan, dan turut menyangkut konsumen yang bergantung pada KPR karena skema ini menopang 70,05 persen pembelian rumah primer. Pola dua triwulan berturut-turut, kontraksi penjualan mengecil dan harga tumbuh pelan, mengarah pada pemulihan bertahap pasar primer ketimbang lonjakan permintaan, apalagi pembiayaan pembangunan masih bertumpu 73,28 persen pada dana internal pengembang, bukan sumber eksternal yang biasanya menyertai ekspansi lebih agresif. Data SHPR triwulan III 2026 dari Bank Indonesia akan jadi penentu apakah tren perbaikan penjualan ini berlanjut atau sekadar pemulihan sementara.",
-  "fotoAdegan": "A construction worker plasters a wall inside an unfinished housing unit in a new residential complex."
+  "fotoAdegan": "A construction worker plasters a wall inside an unfinished housing unit in a new residential complex.",
+  "imageV": "tjnkgt"
  },
  {
   "slug": "uang-primer-bi-percepat-ke-17-1-pada-juli-2026",
@@ -818,7 +849,8 @@ var ARTICLES = [
    "Angka ini merupakan versi 'adjusted' yang sengaja mengeluarkan efek penurunan giro bank akibat insentif likuiditas yang disalurkan BI kepada perbankan. Metode perhitungan ini mulai diterapkan BI sejak Januari 2025, dengan tujuan agar publik bisa melihat perkembangan uang primer tanpa distorsi dari kebijakan insentif tersebut."
   ],
   "takeaway": "Angka yang berubah cukup jelas: pertumbuhan uang primer adjusted naik dari 13,8% yoy pada Juni menjadi 17,1% yoy pada Juli, dengan giro bank umum di BI tumbuh 17,1% dan uang kartal beredar 15,1%, membawa total M0 Adjusted ke Rp2.254,5 triliun. Pihak yang paling terkait dengan angka ini adalah perbankan, karena komponen giro bank umum di BI langsung berhubungan dengan insentif likuiditas yang selama ini disalurkan ke bank umum. Percepatan pertumbuhan dua bulan berturut-turut ini mengarah pada kondisi likuiditas dasar yang terus melonggar, sejalan dengan skema insentif yang telah berjalan sejak awal 2025. Untuk memastikan apakah percepatan ini berlanjut atau hanya fluktuasi sesaat, data M0 Adjusted periode Agustus 2026 yang akan dirilis BI berikutnya menjadi penanda yang perlu dicermati.",
-  "fotoAdegan": "A bank employee stacks trays of coins inside a secure vault room behind a branch counter."
+  "fotoAdegan": "A bank employee stacks trays of coins inside a secure vault room behind a branch counter.",
+  "imageV": "tjnkhe"
  },
  {
   "slug": "keyakinan-konsumen-juli-melambat-tapi-masih-optimistis",
@@ -842,7 +874,8 @@ var ARTICLES = [
    "Penurunan yang terjadi tergolong kecil dan belum mengubah kategori keseluruhan indeks dari optimistis. Namun arah pelemahan pada dua komponen sekaligus, baik penilaian kondisi saat ini maupun ekspektasi ke depan, menjadi sinyal yang perlu dicermati apakah berlanjut pada bulan-bulan berikutnya atau hanya fluktuasi sesaat."
   ],
   "takeaway": "Yang berubah dari data ini adalah pelemahan tipis pada dua komponen pembentuk IKK, Indeks Kondisi Ekonomi Saat Ini turun dari 109,2 ke 107,9 dan Indeks Ekspektasi Konsumen turun dari 126,4 ke 125,7, meski indeks gabungannya masih di zona optimistis pada 116,8. Pihak yang paling berkepentingan dengan tren ini adalah pelaku usaha ritel dan produsen barang konsumsi yang menyusun proyeksi permintaan berdasarkan sentimen konsumen, selain otoritas moneter yang memantau daya beli sebagai bagian dari pertimbangan kebijakan. Arah datanya belum bisa disimpulkan sebagai tren pelemahan konsumsi karena penurunannya masih kecil dan indeks tetap optimistis, tapi patut dibandingkan dengan rilis Survei Penjualan Eceran Juli 2026 yang menurut Bank Indonesia justru diprakirakan meningkat. Jika keyakinan konsumen terus melunak sementara penjualan eceran naik, kesenjangan sinyal itu yang akan menentukan apakah pelemahan IKK ini sekadar noise bulanan atau awal tren yang lebih panjang.",
-  "fotoAdegan": "Shoppers browse racks of clothing inside a crowded mall in Jakarta on a weekday afternoon."
+  "fotoAdegan": "Shoppers browse racks of clothing inside a crowded mall in Jakarta on a weekday afternoon.",
+  "imageV": "tjnki3"
  },
  {
   "slug": "penjualan-eceran-juli-2026-diproyeksikan-naik-0-9-persen",
@@ -867,7 +900,8 @@ var ARTICLES = [
    "Dari sisi ekspektasi harga, Bank Indonesia memproyeksikan tekanan inflasi mereda pada September 2026 sebelum naik kembali pada Desember. Indeks Ekspektasi Harga Umum untuk September diperkirakan di level 155,2, turun dari 178,0 pada Agustus, sementara indeks untuk Desember diperkirakan naik ke 168,1 dari 167,5 pada November."
   ],
   "takeaway": "Data ini menunjukkan penjualan eceran Juli 2026 diproyeksikan tumbuh 0,9 persen secara tahunan menjadi indeks 224,4, meski secara bulanan turun 0,3 persen akibat normalisasi permintaan pasca Hari Besar Keagamaan Nasional dan libur sekolah. Pihak yang paling terkait dengan data ini adalah peritel makanan, minuman, dan tembakau, serta pelaku usaha suku cadang otomotif dan perlengkapan rumah tangga, yang menjadi penopang utama angka pertumbuhan. Polanya mengarah pada permintaan domestik yang melambat secara musiman namun tetap tumbuh dibanding tahun sebelumnya, sejalan dengan ekspektasi harga yang diprakirakan turun ke 155,2 pada September sebelum naik lagi ke 168,1 pada Desember, mengindikasikan potensi tekanan harga musiman menjelang akhir tahun. Yang akan memastikan arah ini adalah rilis Survei Penjualan Eceran periode Agustus 2026, yang akan menunjukkan apakah tren pertumbuhan tahunan tersebut berlanjut atau melambat.",
-  "fotoAdegan": "A cashier scans grocery items for a line of customers at a supermarket checkout counter."
+  "fotoAdegan": "A cashier scans grocery items for a line of customers at a supermarket checkout counter.",
+  "imageV": "tjnkiz"
  },
  {
   "slug": "bri-peduli-dampingi-umkm-desa-brilian-sleman",
@@ -893,7 +927,8 @@ var ARTICLES = [
   "takeaway": "",
   "fotoAdegan": "A bank field officer chats with a vegetable farmer at an open-air market stall in a hillside village near Yogyakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c004c19637-umkm-di-desa-brilian-hargobinangun-kec-pakem-kab-sleman-provinsi-daerah-istimewa-yogyakarta_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsh"
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-sudah-dikantongi",
@@ -914,7 +949,8 @@ var ARTICLES = [
   "takeaway": "Dua hal konkret sudah mengerucut dari keterangan Airlangga, yakni calon Gubernur PFII yang disebut berasal dari internal pemerintah, dan dua opsi lokasi kantor yang bersaing, kawasan InJourney dekat Bandara Ngurah Rai di Bali atau Jakarta lewat kawasan Danareksa. Yang terdampak langsung adalah pelaku industri keuangan dan pasar modal yang menunggu kejelasan struktur lembaga baru ini, serta dua daerah yang bersaing menjadi basis operasional PFII. Pola yang terlihat menunjukkan PFII masih di tahap pembentukan kelembagaan awal, dengan gubernur dan lokasi kantor sengaja ditahan hingga proses itu tuntas, bukan karena keputusan sudah final tapi belum diumumkan. Yang akan memastikan arah ini adalah pengumuman resmi struktur kelembagaan dan lokasi kantor PFII yang dijanjikan menyusul setelah proses pembentukan rampung.",
   "fotoAdegan": "An official walks down a marble corridor inside a government ministry building in central Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79632e2fee6-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsi"
  },
  {
   "slug": "rupiah-menguat-ke-rp17-848-pasar-cermati-calon-gubernur-bi",
@@ -940,7 +976,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah konkret dari data ini adalah dua kurs acuan yang bergerak berlawanan arah dalam sepekan terakhir, kurs Jisdor BI melemah 29 poin ke Rp17.824 per dolar AS pada Selasa, sementara transaksi pasar Rabu pagi menunjukkan penguatan 13 poin ke Rp17.848. Investor di pasar modal, khususnya pemegang saham yang masuk indeks MSCI Indonesia, akan langsung terdampak oleh proses penyeimbangan ulang yang efektif setelah 31 Agustus 2026, sementara pelaku usaha dan importir berbasis dolar tetap mencermati level rupiah harian. Yang perlu dipantau selanjutnya adalah hasil resmi tinjauan MSCI pada 12 Agustus 2026, kelanjutan proses penunjukan Destry Damayanti dari status pelaksana tugas menjadi Gubernur BI definitif, serta apakah tren penurunan Indeks Keyakinan Konsumen yang sudah turun 10,2 poin sejak awal tahun akan berlanjut pada rilis berikutnya.",
   "fotoAdegan": "A teller slides a currency exchange tray across the counter to a waiting customer in a small money changer booth.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsj"
  },
  {
   "slug": "harga-pangan-12-agustus-bawang-putih-rp40-650-per-kg",
@@ -966,7 +1003,8 @@ var ARTICLES = [
   "takeaway": "",
   "fotoAdegan": "A vendor weighs garlic cloves on a hanging scale at a crowded traditional market stall early in the morning.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/09/67564799f1761-harga-bawang-putih-di-pasar-tradisional_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsk"
  },
  {
   "slug": "nusron-konflik-agraria-bumn-tni-polri-paling-rumit",
@@ -991,7 +1029,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Villagers and officials stand at the edge of a disputed plot of land marked with wooden stakes in a rural district.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7b628d4551f-menteri-atrkepala-bpn-nusron-wahid-saat-rakor-dengan-dpr-ri-membahas-penyelesaian-konflik-agraria-dan-reforma-agraria_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsk"
  },
  {
   "slug": "purbaya-kaji-pembatasan-beli-pertalite-desil-9-10",
@@ -1016,7 +1055,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An attendant fuels a motorcycle at a gas station pump in a busy urban neighborhood at midday.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a64744deb470-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsl"
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",
@@ -1040,7 +1080,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A minister strides past a row of flagpoles outside a government office complex in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79632e2fee6-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsm"
  },
  {
   "slug": "telkom-kenalkan-connectivity-di-dti-cx-2026",
@@ -1065,7 +1106,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A technician checks fiber optic cabling inside a data center server room lined with humming server racks.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7b1ce6d8ea5-telkom-perkenalkan-connectivity_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsn"
  },
  {
   "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",
@@ -1090,7 +1132,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An elderly worshipper counts prayer beads while seated on the carpet inside a mosque's main prayer hall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrso"
  },
  {
   "slug": "esdm-kemenkeu-rombak-skema-subsidi-bbm",
@@ -1114,7 +1157,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A queue of motorcycles waits at a subsidized fuel pump inside a gas station on the outskirts of the city.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/18/6a5b527096484-ilustrasi-antrean-konsumen-bbm-di-spbu_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrso"
  },
  {
   "slug": "pembiayaan-umkm-diusulkan-naik-jadi-rp2-000-triliun",
@@ -1139,7 +1183,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A seamstress operates a sewing machine inside a small home-based garment workshop surrounded by fabric rolls.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79632e2fee6-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsp"
  },
  {
   "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
@@ -1164,7 +1209,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A shop owner arranges packaged snacks on shelves while a delivery courier waits with a motorcycle helmet outside.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7ae87ac7c08-seperti-apa-umkm-naik-kelas-batik-wolter-jadi-contoh-lewat-pengembangan-layanan_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsq"
  },
  {
   "slug": "blt-rp900-ribu-agustus-2026-belum-cair-ini-kata-pemerintah",
@@ -1189,7 +1235,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Elderly residents sit on plastic chairs waiting their turn inside a crowded village hall in rural Java.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/12/29/69524ad00f00b-blt-untuk-32-juta-kpm-tambahan-cair-hari-ini-penyaluran-blt-di-wilayah-bencana-capai-90-persen_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsq"
  },
  {
   "slug": "ojol-masuk-umkm-aplikator-tetap-wajib-bayar-bhr",
@@ -1214,7 +1261,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A group of motorcycle taxi drivers rest under a shade tree between rides on a busy Jakarta street corner.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a640dd232ae7-ilustrasi-korban-kasus-begal-driver-ojol-dan-pejalan-kaki_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsr"
  },
  {
   "slug": "komisi-xi-siapkan-uji-kelayakan-destry-damayanti-untuk-gubernur-bi",
@@ -1239,7 +1287,8 @@ var ARTICLES = [
   "takeaway": "Surpres yang dikirim Presiden Prabowo bukan hanya mengusulkan Destry Damayanti sebagai Gubernur BI definitif menggantikan status Pjs yang disandangnya saat ini, tapi juga mengajukan calon pengganti Deputi Senior BI serta satu kursi Deputi Gubernur BI yang tengah lowong. Perubahan komposisi pimpinan ini akan memengaruhi arah kebijakan moneter dan koordinasi BI dengan pasar keuangan, mengingat sejumlah posisi strategis di bank sentral saat ini kosong atau bersifat sementara. Yang perlu dipantau berikutnya adalah jadwal resmi uji kepatutan dan kelayakan di Komisi XI DPR setelah masa reses berakhir 14 Agustus 2026, serta nama-nama calon deputi yang diajukan bersamaan namun belum diungkap rinci dalam Surpres tersebut.",
   "fotoAdegan": "Legislators sit behind a long wooden table inside a parliamentary hearing room in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7acebb83389-wakil-ketua-komisi-xi-dpr-ri-muhammad-hanif-dhakiri_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrss"
  },
  {
   "slug": "destry-damayanti-calon-tunggal-gubernur-bi",
@@ -1265,7 +1314,8 @@ var ARTICLES = [
   "takeaway": "Yang berubah bukan sekadar pergantian pejabat, melainkan format usulannya sendiri, Prabowo hanya mengajukan satu nama lewat Surpres tertanggal 10 Agustus 2026, bukan beberapa kandidat seperti lazimnya proses pemilihan Gubernur BI. Ini terjadi setelah Perry Warjiyo mundur dan Destry sempat mengisi posisi itu sebagai pejabat sementara. Pihak yang paling terdampak adalah pelaku pasar keuangan dan perbankan yang membutuhkan kepastian kepemimpinan BI, serta DPR yang kini harus memproses satu nama tunggal ini. Yang perlu dipantau selanjutnya adalah jadwal uji kelayakan dan kepatutan di DPR serta keputusan resmi penetapan Gubernur BI definitif.",
   "fotoAdegan": "A row of black government sedans waits outside the gate of a state institution building in central Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrst"
  },
  {
   "slug": "bri-brilink-agen-capai-1-13-juta-layani-60-753-desa",
@@ -1291,7 +1341,8 @@ var ARTICLES = [
   "takeaway": "Data yang disampaikan menunjukkan jaringan BRILink Agen telah mencapai 1,13 juta agen di lebih dari 60.753 desa per Juni 2026, dengan volume transaksi Semester I 2026 tercatat 501 juta transaksi senilai Rp841 triliun. Pihak yang paling merasakan dampaknya adalah pelaku usaha ultra mikro seperti pemilik warung dan kios pasar yang menjadi agen, karena mereka mendapat sumber pendapatan tambahan selain berfungsi sebagai titik layanan perbankan bagi warga desa. Yang perlu terus dipantau adalah apakah tren pertumbuhan jumlah agen dan volume transaksi ini bertahan pada semester berikutnya, mengingat BRILink Agen kini juga diposisikan sebagai bagian dari ekosistem Danantara Indonesia yang menaungi konsolidasi sejumlah BUMN.",
   "fotoAdegan": "A village shopkeeper helps an elderly customer complete a mobile banking transaction on a small handheld device.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7ab4c069da2-maknai-kemerdekaan-indonesia-danantara-melalui-brilink-agen-hadir-membuka-akses-dan-menggerakkan-ekonomi-hingga-pelosok-negeri_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsu"
  },
  {
   "slug": "ojk-dukung-destry-jadi-calon-tunggal-gubernur-bi",
@@ -1317,7 +1368,8 @@ var ARTICLES = [
   "takeaway": "Destry Damayanti kini berstatus calon tunggal untuk mengisi kursi Gubernur BI yang saat ini dijabat Perry Warjiyo, dan pencalonan tersebut mendapat dukungan terbuka dari Ketua OJK Friderica Widyasari Dewi. Pelaku UMKM disebut menjadi salah satu pihak yang berkepentingan, mengingat OJK dan BI disebut tengah merancang sinergi kurasi UMKM serta akses pembiayaan secara nasional. Yang masih perlu dipantau adalah tahapan lanjutan penetapan Destry sebagai Gubernur BI definitif, serta detail mekanisme sinergi UMKM lintas lembaga yang belum dirinci Friderica dalam pernyataannya.",
   "fotoAdegan": "An office worker exits a glass-fronted financial regulator building carrying a leather briefcase during the morning rush.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/13/69b34687c9f28-ketua-ojk-yang-baru-friderica-widyasari-dewi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsv"
  },
  {
   "slug": "ihsg-berbalik-ke-zona-merah-usai-sempat-menguat",
@@ -1343,7 +1395,8 @@ var ARTICLES = [
   "takeaway": "Pembalikan arah yang terjadi di sini cukup tajam, IHSG yang dibuka menguat 0,29 persen ke 6.383,81 malah turun ke 6.320,108 hanya dalam sekitar sepuluh menit perdagangan, koreksi 63 hingga 68 poin dari level pembukaan maupun titik tertinggi hari itu. Pola ini terutama terasa bagi investor jangka pendek di BEI, termasuk yang memegang saham-saham anggota LQ45 yang ikut terseret arus pembalikan. Kiwoom Sekuritas menandai level 6.377 sebagai batas yang menentukan arah lanjutan indeks, jika gagal bertahan di atasnya, ruang pelemahan terbuka menuju 6.299 dan seterusnya. Sinyal paling konkret yang akan menjawab ke mana arah pasar bergerak selanjutnya adalah rilis data inflasi konsumen AS periode Juli 2026 pada Rabu, 12 Agustus 2026, yang biasanya langsung memengaruhi sentimen bursa domestik.",
   "fotoAdegan": "Stockbrokers converse quietly at their desks inside a trading floor office as the morning session gets underway.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsw"
  },
  {
   "slug": "mbss-umumkan-rencana-rupslb-pada-17-september-2026",
@@ -1368,7 +1421,8 @@ var ARTICLES = [
   ],
   "takeaway": "Dokumen ini adalah pemberitahuan awal jadwal RUPSLB, tahap sebelum perusahaan mengirim pemanggilan resmi yang baru akan memuat agenda dan mata acara rapat. Karena agenda belum diungkapkan, belum bisa dipastikan pos kinerja mana yang akan tersentuh, apakah menyangkut permodalan, susunan pengurus, kebijakan dividen, atau aksi korporasi lain yang lazim memengaruhi ekuitas maupun jumlah saham beredar. Pelaku pasar umumnya baru bisa menakar dampak suatu RUPSLB setelah pemanggilan resmi keluar dan agenda rapat diketahui. Dengan informasi yang tersedia saat ini, laporan ini bersifat netral bagi MBSS karena sifatnya masih administratif, sebatas jadwal dan tanggal pencatatan pemegang saham, belum memuat substansi keputusan yang akan diambil.",
   "sentimen": "netral",
-  "fotoAdegan": "A tugboat crew member coils thick rope on the deck of a harbor tugboat docked at a busy port."
+  "fotoAdegan": "A tugboat crew member coils thick rope on the deck of a harbor tugboat docked at a busy port.",
+  "imageV": "tjnkqd"
  },
  {
   "slug": "pans-direksi-tjiang-jefry-tambah-saham-lewat-remunerasi",
@@ -1393,7 +1447,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini adalah pemberitahuan wajib dari seorang direksi kepada OJK atas perubahan kepemilikan sahamnya sendiri di emitennya, dalam hal ini lewat pembelian saham sebagai bagian dari skema remunerasi berbasis saham. Karena transaksi terjadi di tingkat individu, bukan aksi korporasi seperti penerbitan saham baru, pos yang tersentuh hanyalah komposisi kepemilikan dan hak suara pribadi sang direksi, bukan ekuitas, arus kas, atau jumlah saham beredar perseroan. Secara fundamental, laporan ini dinilai netral bagi PANS. Meski kenaikan kepemilikan Tjiang Jefry mencapai 28,76 persen dari saham yang sebelumnya ia pegang, jumlah absolutnya sekitar 24.500 lembar hanya menaikkan hak suaranya dari 0,0118 persen menjadi 0,0152 persen, terlalu kecil untuk dibaca sebagai sinyal keyakinan insider terhadap prospek perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "An office worker in a suit walks briskly through the marble lobby of a high-rise financial building."
+  "fotoAdegan": "An office worker in a suit walks briskly through the marble lobby of a high-rise financial building.",
+  "imageV": "tjnkr6"
  },
  {
   "slug": "smga-jelaskan-ke-bei-soal-jaminan-rp40-5-miliar-untuk-buana",
@@ -1419,7 +1474,8 @@ var ARTICLES = [
   ],
   "takeaway": "Corporate guarantee adalah jaminan yang diberikan SMGA atas nama pihak lain, dalam hal ini Buana, kepada bank pemberi kredit, sehingga jika Buana gagal membayar kewajibannya ke Maybank, SMGA yang secara hukum wajib menanggung hingga Rp40,5 miliar tersebut. Pos yang tersentuh adalah liabilitas kontinjensi dan potensi arus kas keluar SMGA, bukan laba rugi berjalan secara langsung, dan pelaku pasar biasanya mencermati jaminan semacam ini karena berpotensi membebani neraca perusahaan penjamin jika pihak yang dijamin wanprestasi. Secara fundamental, penjelasan ini condong negatif bagi SMGA karena proyek yang mendasari kerja sama gagal terealisasi dan hubungan afiliasi dengan Buana sudah berakhir, namun jaminan Rp40,5 miliar itu sendiri belum juga dilepas meski tenggat enam bulan yang dijanjikan Buana sejak pengakhiran perjanjian pada 27 Februari 2026 sudah mendekati batas waktu tanpa kepastian penyelesaian.",
   "sentimen": "negatif",
-  "fotoAdegan": "A dump truck driver climbs down from his vehicle at an open-pit coal mine under a hazy sky."
+  "fotoAdegan": "A dump truck driver climbs down from his vehicle at an open-pit coal mine under a hazy sky.",
+  "imageV": "tjnkrz"
  },
  {
   "slug": "emas-antam-naik-rp20-000-jadi-rp2-710-000-gram",
@@ -1444,7 +1500,8 @@ var ARTICLES = [
   "takeaway": "",
   "fotoAdegan": "A goldsmith weighs a small gold bar on a digital scale inside a jewelry shop display counter.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsx"
  },
  {
   "slug": "enak-panggil-rupslb-bahas-perombakan-direksi-komisaris",
@@ -1470,7 +1527,8 @@ var ARTICLES = [
   ],
   "takeaway": "Dokumen ini adalah pemanggilan resmi RUPSLB sesuai ketentuan OJK, bukan pengumuman hasil keputusan, sehingga isinya baru sebatas undangan untuk membahas dan menyetujui perubahan susunan Dewan Komisaris dan Direksi. Pos yang tersentuh adalah struktur tata kelola dan kepemimpinan perusahaan, hal yang lazim diperhatikan pelaku pasar karena pergantian direksi maupun komisaris berpotensi mengubah arah kebijakan operasional dan strategi bisnis jaringan restoran di bawah Champ Resto. Penilaian kami netral, sebab panggilan ini belum menyebut nama calon pengganti, alasan di balik perubahan, atau dampaknya terhadap kinerja perseroan, sehingga substansinya baru bisa dinilai setelah hasil RUPSLB pada 2 September 2026 diumumkan.",
   "sentimen": "netral",
-  "fotoAdegan": "A chef plates a dish in the stainless steel kitchen of a busy casual dining restaurant during the lunch rush."
+  "fotoAdegan": "A chef plates a dish in the stainless steel kitchen of a busy casual dining restaurant during the lunch rush.",
+  "imageV": "tjnkt5"
  },
  {
   "slug": "asbi-laporkan-dugaan-penggelapan-dana-dan-investasi-perseroan",
@@ -1496,7 +1554,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini bukan aksi korporasi biasa, melainkan laporan keterbukaan informasi atas dugaan tindak pidana penggelapan dana dan investasi milik perseroan, yang menurut dokumen melibatkan pihak internal maupun eksternal. Pos yang tersentuh langsung adalah kas dan portofolio investasi surat berharga negara (SBN), dua komponen yang bagi perusahaan asuransi biasanya terkait dengan cadangan teknis dan kemampuan membayar klaim, sehingga pelaku pasar wajar memperhatikannya. Penilaian kami condong negatif, karena dugaan penggelapan berarti berkurangnya aset perusahaan akibat tindakan yang tidak semestinya, bukan keputusan bisnis yang terencana. Namun perlu dicatat, dokumen ini belum mengungkapkan nilai kerugian, kronologi, maupun pihak yang diduga terlibat, sehingga tingkat materialitas terhadap kinerja keuangan ASBI secara keseluruhan belum bisa dipastikan sampai ada keterbukaan lanjutan.",
   "sentimen": "negatif",
-  "fotoAdegan": "An insurance clerk sorts paper claim folders into a filing cabinet inside a quiet office in Jakarta."
+  "fotoAdegan": "An insurance clerk sorts paper claim folders into a filing cabinet inside a quiet office in Jakarta.",
+  "imageV": "tjnkty"
  },
  {
   "slug": "ricy-panggil-rupst-lb-bahas-komisaris-dan-anggaran-dasar",
@@ -1522,7 +1581,8 @@ var ARTICLES = [
   ],
   "takeaway": "RUPST dan RUPSLB adalah forum tahunan bagi perusahaan terbuka untuk meminta persetujuan pemegang saham atas kinerja setahun terakhir, penggunaan laba, dan perubahan pengurus, sementara RUPSLB kali ini khusus menyesuaikan anggaran dasar dengan klasifikasi usaha baru dari BPS. Pos yang tersentuh dari agenda ini mencakup potensi pembagian dividen lewat keputusan penggunaan laba bersih, beban remunerasi pengurus yang memengaruhi biaya operasional, serta tata kelola lewat pergantian susunan Dewan Komisaris, hal-hal yang lazim dicermati pelaku pasar karena berkaitan dengan arus kas ke pemegang saham dan arah pengawasan perusahaan. Perlu dicatat pula bahwa RUPST ini memerlukan dispensasi keterlambatan, menandakan penyelenggaraannya mundur dari jadwal normal. Secara fundamental, laporan ini dinilai netral karena dokumen belum merinci angka penggunaan laba bersih, besaran remunerasi, maupun nama pengganti komisaris, sehingga belum ada dasar konkret untuk menyimpulkan dampak positif atau negatif bagi kinerja perseroan.",
   "sentimen": "netral",
-  "fotoAdegan": "Workers inspect folded shirts on a long table inside a garment factory production hall."
+  "fotoAdegan": "Workers inspect folded shirts on a long table inside a garment factory production hall.",
+  "imageV": "tjnkvz"
  },
  {
   "slug": "hexa-jadwalkan-rupst-dan-rupslb-17-september-2026",
@@ -1548,7 +1608,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini baru pemberitahuan awal bahwa Hexindo Adiperkasa akan menggelar RUPST sekaligus RUPSLB pada 17 September 2026, semacam pengantar sebelum surat pemanggilan resmi yang baru terbit 26 Agustus 2026 dan memuat agenda lengkap kedua rapat. Karena isi agenda RUPSLB belum diungkapkan dalam dokumen ini, pemegang saham belum bisa menilai pos kinerja mana yang akan tersentuh, apakah menyangkut struktur modal, susunan pengurus, atau aksi korporasi lain yang lazim dibahas dalam rapat luar biasa. Dengan informasi yang tersedia baru sebatas jadwal, tanggal pencatatan pemegang saham, dan mekanisme prosedural tanpa angka atau keputusan substantif, penilaian ini netral, dan substansi yang lebih menentukan bagi pemegang saham baru akan terlihat setelah surat pemanggilan resmi terbit akhir Agustus.",
   "sentimen": "netral",
-  "fotoAdegan": "A mechanic inspects the hydraulic arm of a yellow excavator parked in a heavy equipment maintenance yard."
+  "fotoAdegan": "A mechanic inspects the hydraulic arm of a yellow excavator parked in a heavy equipment maintenance yard.",
+  "imageV": "tjnkxf"
  },
  {
   "slug": "kepercayaan-publik-jadi-kunci-persaingan-fintech-investasi",
@@ -1573,7 +1634,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A customer service agent assists a caller through a headset at a fintech company's support desk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/24/69eb0320392e3-fintech_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsy"
  },
  {
   "slug": "perpres-ojol-kelar-agustus-driver-jadi-umkm",
@@ -1598,7 +1660,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A motorcycle taxi driver waits at a designated pickup point checking his helmet strap near a busy intersection.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/04/69a8140c9173b-ilustrasi-mitra-driver-ojek-online_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsz"
  },
  {
   "slug": "ai-cinefest-2026-telkomsel-perkuat-ekosistem-kreator-ai",
@@ -1623,7 +1686,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A film crew adjusts lighting equipment around a camera on a small indoor movie set.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79b35f580e4-penyelenggaraan-ai-cinefest-2026-sukses-menarik-perhatian-besar-dari-para-pegiat-kreatif-di-tanah-air_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrsz"
  },
  {
   "slug": "onlinepajak-berganti-nama-jadi-achilles-rangkul-urusan-pajak",
@@ -1648,7 +1712,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An accountant reviews stacks of receipts at a cluttered desk inside a small tax consulting office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79af6bde446-onlinepajak-kini-bertransformasi-dengan-memperkenalkan-identitas-ekosistem-baru-yang-lebih-komprehensif_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt0"
  },
  {
   "slug": "labs-rencanakan-buyback-saham-saat-pasar-bergejolak",
@@ -1674,7 +1739,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini adalah pemberitahuan awal rencana pembelian kembali saham oleh perseroan, memakai skema khusus yang membolehkan emiten membeli balik sahamnya di pasar saat kondisi bergejolak tanpa menunggu persetujuan RUPS lebih dulu. Pos yang berpotensi tersentuh adalah kas dan setara kas perusahaan yang dipakai untuk membeli saham, serta jumlah saham beredar yang bisa berkurang dan berpengaruh pada laba per saham jika rencana ini benar-benar direalisasikan. Penilaian kami netral, karena surat ini baru sebatas pemberitahuan rencana dan belum memuat angka anggaran, jumlah saham, atau periode pelaksanaan, sehingga besaran dampaknya terhadap kinerja keuangan LABS belum bisa diukur sampai rincian pada lampiran resmi diumumkan lebih lanjut.",
   "sentimen": "netral",
-  "fotoAdegan": "A nurse pushes a medical cart down the corridor of a private hospital ward in the early morning."
+  "fotoAdegan": "A nurse pushes a medical cart down the corridor of a private hospital ward in the early morning.",
+  "imageV": "tjnl3b"
  },
  {
   "slug": "csis-perubahan-kepemilikan-saham-oleh-tjoea-aubintoro",
@@ -1699,7 +1765,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini adalah kewajiban rutin bagi direksi dan komisaris perusahaan terbuka untuk melaporkan setiap perubahan kepemilikan sahamnya ke OJK. Karena transaksi terjadi di pasar sekunder antar investor, pos yang tersentuh hanya komposisi pemegang saham dan hak suara direksi, bukan ekuitas, kas, atau laba per saham perusahaan, sebab tidak ada saham baru yang diterbitkan maupun dana yang masuk ke kas CSIS. Secara fundamental penilaian ini netral, karena kenaikan hak suara dari 0,40 persen menjadi 0,44 persen masih sangat kecil terhadap total saham beredar perusahaan, sehingga terlalu tipis untuk dibaca sebagai sinyal kuat soal keyakinan insider terhadap prospek CSIS.",
   "sentimen": "netral",
-  "fotoAdegan": "An executive reviews handwritten notes at a wooden desk inside a corner office overlooking the Jakarta skyline."
+  "fotoAdegan": "An executive reviews handwritten notes at a wooden desk inside a corner office overlooking the Jakarta skyline.",
+  "imageV": "tjnl3u"
  },
  {
   "slug": "ptro-beri-penjelasan-atas-permintaan-bursa",
@@ -1725,7 +1792,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini pada dasarnya adalah proses pengawasan rutin bursa. Setelah Petrosea mengumumkan investasi di Singaraja Putra yang tergolong transaksi material dan afiliasi, BEI meminta penjelasan tambahan dan Petrosea meresponsnya secara resmi. Pos yang berpotensi tersentuh adalah struktur permodalan dan arus kas investasi Petrosea, serta tata kelola terkait transaksi dengan pihak berelasi, yang menjadi perhatian pelaku pasar karena berpotensi menimbulkan benturan kepentingan jika tidak dikelola secara wajar. Karena isi substantif tanggapan Petrosea, seperti nilai transaksi, struktur kepemilikan di Singaraja Putra, atau syarat investasi, belum tercakup dalam dokumen yang tersedia, penilaian fundamentalnya netral. Publik masih perlu menunggu detail lengkap dari lampiran PTRO_Tanggapan BEI.pdf untuk menilai apakah transaksi ini menguntungkan atau membebani perseroan.",
   "sentimen": "netral",
-  "fotoAdegan": "A haul truck kicks up dust as it descends a winding road inside an open-pit mining operation."
+  "fotoAdegan": "A haul truck kicks up dust as it descends a winding road inside an open-pit mining operation.",
+  "imageV": "tjnl4c"
  },
  {
   "slug": "irra-laporkan-perubahan-alamat-dan-nomor-telepon-kantor",
@@ -1750,7 +1818,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini merupakan pemberitahuan administratif soal perpindahan alamat kantor pusat IRRA dari Jakarta Timur ke Jakarta Selatan, tanpa disertai perubahan struktur usaha maupun kegiatan operasional. Dari sisi kinerja, tidak ada pos yang tersentuh langsung seperti ekuitas, arus kas, jumlah saham beredar, atau laba per saham, karena ini semata soal domisili kantor, bukan transaksi keuangan atau korporasi. Penilaian kami netral, sebab laporan ini hanya memenuhi kewajiban keterbukaan informasi rutin dan tidak memberi indikasi apa pun terhadap prospek fundamental perseroan.",
   "sentimen": "netral",
-  "fotoAdegan": "Movers carry cardboard boxes out of an elevator into the lobby of a modern office tower in South Jakarta."
+  "fotoAdegan": "Movers carry cardboard boxes out of an elevator into the lobby of a modern office tower in South Jakarta.",
+  "imageV": "tjnl54"
  },
  {
   "slug": "avia-rilis-siaran-pers-isi-dokumen-belum-bisa-dibaca",
@@ -1776,7 +1845,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi ini pada dasarnya adalah pengumuman komunikasi publik perusahaan, bukan transaksi korporasi, yakni AVIA memberi tahu bursa bahwa mereka merilis siaran pers soal penguatan program kepatuhan terhadap aturan persaingan usaha bersama KPPU. Pos kinerja yang berpotensi tersentuh oleh isu semacam ini adalah eksposur risiko hukum dan regulasi, karena pelaku pasar biasanya mencermati program kepatuhan persaingan usaha sebagai indikator mitigasi risiko sanksi atau denda KPPU di masa depan, meski keterbukaan ini sendiri tidak menyebut sanksi, denda, atau kasus tertentu. Secara fundamental, laporan ini dinilai netral karena tidak memuat angka, nilai transaksi, atau dampak keuangan apa pun, dan perusahaan sendiri secara eksplisit menyatakan tidak ada dampak terhadap operasional, hukum, keuangan, maupun kelangsungan usaha.",
   "sentimen": "netral",
-  "fotoAdegan": "A worker in protective gear stirs a vat of paint inside an industrial paint manufacturing facility."
+  "fotoAdegan": "A worker in protective gear stirs a vat of paint inside an industrial paint manufacturing facility.",
+  "imageV": "tjnl5t"
  },
  {
   "slug": "arko-laporkan-perubahan-pengurus-rincian-belum-terungkap",
@@ -1802,7 +1872,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini adalah pergantian pengurus, yaitu penggantian satu direktur dan satu komisaris hasil keputusan RUPS, bukan transaksi keuangan. Yang tersentuh bukan pos laporan keuangan seperti ekuitas atau arus kas, melainkan aspek tata kelola perusahaan, karena direksi dan komisaris adalah pihak yang menentukan keputusan operasional dan pengawasan. Secara fundamental laporan ini bersifat netral, sebab dokumen tidak menyebutkan alasan pergantian maupun rekam jejak pengurus baru, sehingga belum ada dasar yang cukup untuk menilainya positif atau negatif bagi kinerja perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "An engineer walks along a concrete walkway beside the turbine hall of a small hydroelectric power plant."
+  "fotoAdegan": "An engineer walks along a concrete walkway beside the turbine hall of a small hydroelectric power plant.",
+  "imageV": "tjnl74"
  },
  {
   "slug": "mdiy-buka-periode-pelaksanaan-mesop-tahap-i-ii-2026",
@@ -1827,7 +1898,8 @@ var ARTICLES = [
   ],
   "takeaway": "MESOP adalah program opsi saham yang memberi hak kepada manajemen dan atau karyawan perusahaan untuk membeli saham MDIY pada harga tertentu dalam periode yang ditetapkan. Kalau opsi ini dilaksanakan, jumlah saham beredar akan bertambah sehingga berpotensi mendilusi laba per saham dan proporsi kepemilikan pemegang saham lama, sementara dana yang masuk dari pelaksanaan opsi menambah modal disetor perseroan. Karena dokumen yang berhasil diakses hanya memuat judul tanpa rincian jumlah opsi, harga pelaksanaan, maupun skala programnya, dampak konkretnya terhadap fundamental MDIY belum bisa dinilai. Penilaian untuk laporan ini netral, menunggu detail lengkap dari dokumen resmi.",
   "sentimen": "netral",
-  "fotoAdegan": "A store employee restocks shelves with household goods inside a brightly lit discount retail store."
+  "fotoAdegan": "A store employee restocks shelves with household goods inside a brightly lit discount retail store.",
+  "imageV": "tjnl7w"
  },
  {
   "slug": "mppa-ubah-anggaran-dasar-rincian-perubahan-belum-terungkap",
@@ -1853,7 +1925,8 @@ var ARTICLES = [
   ],
   "takeaway": "Perubahan anggaran dasar setelah rights issue adalah langkah administratif wajib, di mana perusahaan menyesuaikan pasal modal dasar dan modal disetor dalam akta pendiriannya agar sesuai dengan jumlah saham baru yang sudah diterbitkan lewat HMETD. Pos yang tersentuh adalah ekuitas, tepatnya modal disetor dan jumlah saham beredar, dua angka yang menjadi basis perhitungan laba per saham dan rasio kepemilikan pemegang saham. Pelaku pasar biasanya memperhatikan langkah ini karena menandai bahwa proses rights issue sudah final secara hukum, bukan lagi sekadar rencana. Karena dokumen yang dipublikasikan tidak mencantumkan angka modal atau jumlah saham yang baru, penilaian fundamentalnya netral, laporan ini sekadar konfirmasi administratif atas penyelesaian HMETD VIII tanpa data tambahan yang bisa diukur dampaknya terhadap kinerja perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "A shopper pushes a cart past clothing racks inside a spacious department store on a weekday afternoon."
+  "fotoAdegan": "A shopper pushes a cart past clothing racks inside a spacious department store on a weekday afternoon.",
+  "imageV": "tjnl8l"
  },
  {
   "slug": "trja-laporkan-perubahan-kepemilikan-saham-r-hesthi-sambodo",
@@ -1879,7 +1952,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini adalah laporan wajib kepemilikan saham insider yang harus disampaikan setiap anggota direksi atau komisaris saat kepemilikan sahamnya berubah, sesuai POJK 4/2024, bukan aksi korporasi yang mengubah struktur permodalan perseroan. Yang tersentuh hanyalah peta kepemilikan saham individu direksi, bukan ekuitas, arus kas, atau jumlah saham beredar perseroan, karena seluruh transaksi terjadi di pasar sekunder antar pemegang saham. Pelaku pasar biasanya memperhatikan transaksi semacam ini sebagai indikator keyakinan manajemen terhadap prospek perusahaan, apalagi karena posisinya net beli, bukan net jual. Namun secara fundamental penilaian ini netral, karena kepemilikan yang terbentuk hanya 0,06 persen dari hak suara perseroan, porsi yang terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat dari manajemen.",
   "sentimen": "netral",
-  "fotoAdegan": "A worker in a hard hat checks valves along a pipeline at an industrial energy facility."
+  "fotoAdegan": "A worker in a hard hat checks valves along a pipeline at an industrial energy facility.",
+  "imageV": "tjnl95"
  },
  {
   "slug": "rupiah-menguat-usai-destry-diajukan-calon-gubernur-bi",
@@ -1904,7 +1978,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A money changer counts coins into small stacks behind the glass window of an exchange booth.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6806f29e140-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt1"
  },
  {
   "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
@@ -1930,7 +2005,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran dividen tunai rutin untuk laba tahun buku 2025 yang sudah disetujui RUPST, dan surat kali ini hanya mengoreksi detail administratif dari pengumuman sebelumnya tanpa perubahan substansi jumlah dividen. Pos yang tersentuh adalah kas dan saldo laba ditahan perseroan, yang akan berkurang sekitar Rp3 miliar begitu dividen dibayarkan, sementara pelaku pasar biasanya memperhatikan rasio pembagian ini terhadap laba bersih dan ekuitas untuk menilai kesehatan arus kas emiten. Dividen per saham yang hanya Rp0,166 mengindikasikan jumlah saham beredar HUMI sangat besar, namun besaran itu sendiri bukan hal negatif selama didukung oleh laba dan saldo laba ditahan yang positif seperti tercermin dalam data keuangan yang dilampirkan. Secara fundamental, laporan ini condong positif karena menunjukkan perseroan membukukan laba bersih positif dan memiliki saldo laba ditahan signifikan sehingga mampu mengembalikan sebagian keuntungan kepada pemegang saham, meski dokumen tidak menjelaskan apa spesifiknya yang dikoreksi dari pengumuman 31 Juli.",
   "sentimen": "positif",
-  "fotoAdegan": "A conveyor belt carries chunks of coal toward a loading terminal at a mining port facility."
+  "fotoAdegan": "A conveyor belt carries chunks of coal toward a loading terminal at a mining port facility.",
+  "imageV": "tjnl9u"
  },
  {
   "slug": "padi-laporkan-ringkasan-hasil-rupslb-ke-bei",
@@ -1956,7 +2032,8 @@ var ARTICLES = [
   ],
   "takeaway": "RUPSLB ini pada dasarnya adalah upaya Perseroan meminta persetujuan pemegang saham atas dua hal, yaitu penetapan resmi Djoko Joelijanto sebagai pengendali atau pemilik manfaat akhir, dan pembaruan susunan direksi, namun rapat batal mengambil keputusan karena kehadiran pemegang saham cuma 25,45 persen dari syarat kuorum yang ditentukan anggaran dasar. Yang tersentuh di sini bukan pos keuangan seperti laba atau ekuitas, melainkan kejelasan tata kelola, yaitu siapa yang secara resmi diakui sebagai pengendali Perseroan dan siapa yang duduk di jajaran direksi, dua hal yang biasa diperhatikan pelaku pasar karena memengaruhi kepastian arah kebijakan dan akuntabilitas manajemen. Dokumen tidak menyebutkan penyebab rendahnya kehadiran maupun rencana RUPSLB susulan, sehingga belum ada cukup bukti untuk menyimpulkan dampak fundamentalnya. Penilaian redaksi netral, karena kegagalan kuorum ini menunda kepastian struktur pengendalian dan direksi tanpa disertai indikasi kerugian finansial langsung, dan gambaran lengkapnya baru bisa dinilai setelah Perseroan menjadwalkan ulang RUPSLB untuk kedua agenda tersebut.",
   "sentimen": "netral",
-  "fotoAdegan": "Rows of mostly empty chairs fill a conference hall as staff wait behind a nearly empty registration table."
+  "fotoAdegan": "Rows of mostly empty chairs fill a conference hall as staff wait behind a nearly empty registration table.",
+  "imageV": "tjnlan"
  },
  {
   "slug": "heli-avia-nusantara-khatulistiwa-laporkan-perubahan-kepemilikan",
@@ -1982,7 +2059,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi setiap kali kepemilikan saham seorang pemegang saham di perusahaan terbuka berubah, dalam hal ini karena Avia Nusantara Khatulistiwa memperbesar posisinya di HELI lewat pembelian bertahap di pasar. Karena transaksi terjadi di pasar sekunder, jumlah total saham beredar HELI dan laba per saham tidak berubah, yang bergeser hanya konsentrasi kepemilikan dan hak suara salah satu pemegang saham menjadi 8,43 persen. Penambahan sebesar 8,89 persen dari kepemilikan sebelumnya tergolong signifikan, bukan sekadar transaksi kecil, sehingga layak dibaca sebagai penguatan posisi pemegang saham tersebut di HELI. Secara fundamental, catatan ini cenderung positif karena mencerminkan akumulasi kepemilikan oleh pemegang saham substansial, meski dokumen tidak memberi informasi lebih jauh soal afiliasi atau motif di balik akumulasi tersebut.",
   "sentimen": "positif",
-  "fotoAdegan": "A ground crew member guides a helicopter across the tarmac of a small regional airport at sunrise."
+  "fotoAdegan": "A ground crew member guides a helicopter across the tarmac of a small regional airport at sunrise.",
+  "imageV": "tjnlbf"
  },
  {
   "slug": "budi-perubahan-kepemilikan-saham-oleh-budi-delta-swakarya",
@@ -2007,7 +2085,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini adalah pemberitahuan wajib perubahan kepemilikan saham kepada OJK, bukan aksi korporasi yang mengubah struktur modal BUDI, sehingga tidak menambah jumlah saham beredar maupun mengubah laba per saham perusahaan. Yang tersentuh adalah peta pemegang saham dan konsentrasi hak suara, sesuatu yang biasa diperhatikan pelaku pasar karena berkaitan dengan siapa yang mengendalikan arah perusahaan ke depan. Dari sisi ukuran, penambahan 203,7 juta saham setara 13,7 persen dari kepemilikan sebelumnya dan mengerek hak suara lebih dari empat poin persentase ke level 37,65 persen, jumlah yang cukup besar untuk dibaca sebagai sinyal, bukan sekadar transaksi administratif. Dokumen tidak menyebutkan apakah PT Budi Delta Swakarya berstatus pengendali atau afiliasi pengendali BUDI, sehingga makna penuh dari penguatan kendali ini belum bisa dipastikan tanpa informasi tersebut. Secara fundamental, penambahan kepemilikan dalam jumlah signifikan oleh pemegang saham besar umumnya dibaca sebagai sinyal positif berupa keyakinan terhadap prospek perusahaan, sehingga laporan ini condong positif.",
   "sentimen": "positif",
-  "fotoAdegan": "Workers monitor stainless steel processing tanks inside a starch manufacturing plant filled with steam."
+  "fotoAdegan": "Workers monitor stainless steel processing tanks inside a starch manufacturing plant filled with steam.",
+  "imageV": "tjnlc5"
  },
  {
   "slug": "okas-bumi-arsana-mulia-lapor-perubahan-kepemilikan-saham",
@@ -2032,7 +2111,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini adalah laporan wajib perubahan kepemilikan saham, mengumumkan munculnya PT Bumi Arsana Mulia sebagai pemegang baru 25,60 persen hak suara OKAS lewat skema repurchase agreement secara tidak langsung. Yang tersentuh di sini adalah struktur kepemilikan dan komposisi hak suara pemegang saham OKAS, bukan pos keuangan perusahaan seperti ekuitas, arus kas, atau laba, karena transaksi ini terjadi antar pemegang saham dan tidak membawa dana segar masuk ke kas perusahaan. Penilaian kami netral, sebab meski porsi 25,60 persen tergolong besar dan berpotensi mengubah peta pengendalian OKAS ke depan, dokumen tidak menjelaskan identitas pengendali akhir PT Bumi Arsana Mulia, latar belakang skema repurchase agreement tersebut, atau kaitannya dengan pemegang saham lama, sehingga dampak fundamentalnya bagi kinerja OKAS belum bisa dipastikan dan layak dipantau lebih lanjut.",
   "sentimen": "netral",
-  "fotoAdegan": "A worker operates the controls of a large excavator loading coal onto a truck at a mine site."
+  "fotoAdegan": "A worker operates the controls of a large excavator loading coal onto a truck at a mine site.",
+  "imageV": "tjnlcn"
  },
  {
   "slug": "rupiah-menguat-usai-destry-diusulkan-jadi-gubernur-bi",
@@ -2057,7 +2137,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Customers wait in line at a bank branch counter as a teller processes a transaction in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt2"
  },
  {
   "slug": "excl-kupon-sukuk-ijarah-naik-usai-pemangkasan-rating-fitch",
@@ -2082,7 +2163,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ijarah Fee adalah imbalan yang dibayarkan emiten kepada pemegang sukuk, fungsinya setara dengan kupon bunga pada obligasi konvensional namun berbasis akad syariah. Kenaikan kupon secara pro rata ini menambah beban bunga yang harus ditanggung XLSMART atas sukuk seri ini, sehingga menyentuh pos beban bunga dan arus kas pendanaan perusahaan, sementara bagi pemegang sukuk berarti imbal hasil yang diterima menjadi lebih tinggi dari kupon awal. Secara fundamental, laporan ini condong negatif karena kenaikan kupon dipicu oleh penurunan peringkat kredit dari Fitch Rating Indonesia, yang mengindikasikan lembaga pemeringkat menilai risiko kredit XLSMART meningkat sehingga biaya utang perusahaan menjadi lebih mahal, meski besaran kenaikannya sendiri relatif kecil yaitu 0,34 poin persentase per tahun.",
   "sentimen": "negatif",
-  "fotoAdegan": "A technician climbs a telecommunications tower to inspect antenna equipment against a clear afternoon sky."
+  "fotoAdegan": "A technician climbs a telecommunications tower to inspect antenna equipment against a clear afternoon sky.",
+  "imageV": "tjnldb"
  },
  {
   "slug": "excl-sampaikan-informasi-kupon-rincian-belum-terbaca",
@@ -2107,7 +2189,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini pada dasarnya adalah pembayaran rutin bunga (kupon) obligasi kepada pemegang surat utang, bukan aksi korporasi baru bagi pemegang saham. Pos yang tersentuh adalah beban bunga perusahaan, karena mekanisme step-up coupon membuat biaya utang naik 0,34 poin persentase dibanding tingkat dasar begitu peringkat kredit turun, yang pada akhirnya memengaruhi arus kas pendanaan dan laba bersih emiten. Penurunan peringkat oleh Fitch dan keputusan RUPO yang memicu kenaikan bunga ini sendiri sudah terjadi sejak April 2025, sehingga laporan hari ini hanyalah eksekusi rutin dari ketentuan yang sudah berlaku, bukan sinyal baru. Karena tidak ada informasi baru soal kondisi kredit atau keuangan EXCL saat ini selain pelaksanaan pembayaran sesuai jadwal, penilaian kami netral, dengan catatan bahwa mekanisme step-up ini tetap relevan diketahui investor karena mencerminkan biaya utang yang lebih tinggi akibat persepsi risiko kredit yang pernah memburuk.",
   "sentimen": "netral",
-  "fotoAdegan": "A field engineer opens an equipment cabinet at the base of a cell tower in a rural area."
+  "fotoAdegan": "A field engineer opens an equipment cabinet at the base of a cell tower in a rural area.",
+  "imageV": "tjnldt"
  },
  {
   "slug": "bri-pimpin-himbara-di-danantara-housing-expo-2026",
@@ -2132,7 +2215,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A sales agent shows a scale model of a housing complex to a young couple at an exhibition booth.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a7982d457831-danantara-akan-menggelar-danantara-housing-expo-2026-sebagai-bagian-dari-dukungan-terhadap-program-3-juta-rumah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt3"
  },
  {
   "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",
@@ -2158,7 +2242,8 @@ var ARTICLES = [
   ],
   "takeaway": "Surat ini adalah klarifikasi wajib yang diminta BEI ketika transaksi suatu saham menunjukkan pergerakan harga atau volume yang tidak biasa, semacam permintaan konfirmasi apakah ada informasi tersembunyi di balik pergerakan tersebut. Karena isinya hanya berupa penegasan bahwa tidak ada fakta material baru, tidak ada rencana aksi korporasi, dan kepemilikan pemegang saham utama tidak berubah, tidak ada pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung; yang relevan di sini adalah transparansi dan tata kelola informasi emiten. Secara fundamental laporan ini netral bagi SOLA, karena hanya mengonfirmasi ketiadaan informasi baru dan tidak membawa perubahan apa pun pada rencana korporasi maupun struktur kepemilikan yang bisa dijadikan dasar penilaian positif atau negatif.",
   "sentimen": "netral",
-  "fotoAdegan": "Workers install rows of solar panels across an open field under bright midday sun."
+  "fotoAdegan": "Workers install rows of solar panels across an open field under bright midday sun.",
+  "imageV": "tjnlej"
  },
  {
   "slug": "sola-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
@@ -2184,7 +2269,8 @@ var ARTICLES = [
   ],
   "takeaway": "Surat ini adalah jawaban wajib emiten ketika BEI meminta penjelasan setelah mengamati pergerakan transaksi saham yang dianggap tidak wajar, semacam konfirmasi rutin bahwa tidak ada kabar tersembunyi di balik pergerakan itu. Isinya tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya murni pernyataan keterbukaan informasi, bukan transaksi atau aksi korporasi. Dokumen ini juga tidak memuat data apa pun soal volume atau pergerakan harga yang memicu permintaan BEI, sehingga pembaca belum bisa menilai seberapa besar volatilitas yang dimaksud. Secara fundamental, kami menilai laporan ini netral karena tidak ada informasi baru yang mengubah gambaran bisnis maupun rencana korporasi SOLA, sekaligus tidak ada rencana pengendali untuk mengubah kepemilikan sahamnya dalam waktu dekat.",
   "sentimen": "netral",
-  "fotoAdegan": "A technician cleans dust off a row of solar panels with a long-handled brush at a solar farm."
+  "fotoAdegan": "A technician cleans dust off a row of solar panels with a long-handled brush at a solar farm.",
+  "imageV": "tjnlff"
  },
  {
   "slug": "akpi-perubahan-kepemilikan-saham-oleh-henry-liem",
@@ -2209,7 +2295,8 @@ var ARTICLES = [
   ],
   "takeaway": "Laporan ini merupakan kewajiban keterbukaan atas transaksi saham pribadi milik insider, dalam hal ini Dewan Komisaris AKPI, bukan aksi korporasi yang dilakukan perusahaan itu sendiri. Transaksi semacam ini tidak mengubah jumlah saham beredar maupun struktur permodalan AKPI, sehingga tidak menyentuh pos ekuitas atau laba per saham perusahaan secara langsung, pelaku pasar biasanya memantau laporan seperti ini untuk membaca sinyal keyakinan insider terhadap prospek perusahaan. Secara fundamental, laporan ini netral bagi AKPI karena saham yang dijual hanya setara 0,0044 persen dari kepemilikan Henry Liem dan hak suaranya pun tidak berubah, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "A machine operator monitors rolls of plastic film moving through an industrial packaging production line."
+  "fotoAdegan": "A machine operator monitors rolls of plastic film moving through an industrial packaging production line.",
+  "imageV": "tjnlgw"
  },
  {
   "slug": "airlangga-optimistis-etf-emas-ri-salip-india-singapura",
@@ -2234,7 +2321,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A vault officer stacks small gold bars onto a tray inside a secured storage room at a pawnshop branch.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/30/6a43546d36e46-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt4"
  },
  {
   "slug": "ekonomi-ri-tumbuh-5-29-persen-di-kuartal-ii-2026",
@@ -2259,7 +2347,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Cranes load shipping containers onto a cargo vessel docked at a busy container terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/23/6a39b879cf7a7-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt4"
  },
  {
   "slug": "kdtn-laporan-perubahan-kepemilikan-saham-putrasakti-mandiri",
@@ -2285,7 +2374,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini adalah laporan wajib seorang pemegang saham signifikan, bukan direksi atau komisaris, yang menjual sebagian kecil sahamnya di KDTN lewat mekanisme repurchase agreement, sesuai kewajiban keterbukaan kepemilikan saham ke OJK. Yang tersentuh dari transaksi ini bukan kas atau ekuitas emiten, melainkan komposisi pemegang saham dan hak suara utama, yang relevan bagi investor minoritas karena berkaitan dengan kekuatan pengendalian atas perusahaan. Secara fundamental laporan ini netral, sebab saham yang dilepas hanya 0,67% dari kepemilikan pelapor dan hak suaranya nyaris tidak bergeser, dari 35,59% menjadi 35,36%, sehingga terlalu kecil untuk dibaca sebagai sinyal keluar dari saham. Tujuan yang dicantumkan, yaitu restrukturisasi kepemilikan dalam kelompok usaha, juga mengarah pada perpindahan internal antarafiliasi ketimbang pelepasan ke pasar terbuka.",
   "sentimen": "netral",
-  "fotoAdegan": "A groundskeeper trims hedges beside an empty swimming pool at a quiet beachfront resort in the morning."
+  "fotoAdegan": "A groundskeeper trims hedges beside an empty swimming pool at a quiet beachfront resort in the morning.",
+  "imageV": "tjnlhp"
  },
  {
   "slug": "poll-sampaikan-ralat-laporan-keuangan-interim",
@@ -2311,7 +2401,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi ini adalah penyampaian ulang atau koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah dilaporkan ke OJK dan BEI, sehingga menggantikan angka versi awal dengan versi yang diklaim sudah diperbaiki. Pos yang tersentuh dari data yang tersedia adalah aset lancar, khususnya kas dan setara kas serta piutang usaha, dua indikator likuiditas dan efektivitas penagihan yang biasa diawasi pelaku pasar. Penilaian kami netral, karena dokumen yang diterima tidak merinci pos spesifik yang diralat dari laporan sebelumnya, tidak menyertakan laporan laba rugi atau liabilitas secara lengkap, dan tidak menjelaskan penyebab koreksi, sehingga belum cukup bukti untuk menyimpulkan dampaknya terhadap fundamental perseroan. Yang masih kurang untuk penilaian lebih jauh adalah rincian perbandingan angka sebelum dan sesudah ralat serta alasan resmi dari manajemen. Status POLL di papan pemantauan khusus turut menjadi konteks yang perlu diperhatikan pemegang saham, meski tidak berkaitan langsung dengan koreksi laporan ini.",
   "sentimen": "netral",
-  "fotoAdegan": "A crane lifts a steel beam above an unfinished high-rise apartment tower under construction in Jakarta."
+  "fotoAdegan": "A crane lifts a steel beam above an unfinished high-rise apartment tower under construction in Jakarta.",
+  "imageV": "tjnlim"
  },
  {
   "slug": "heal-laporan-kepemilikan-saham-yustinus-immanuel-herawan",
@@ -2337,7 +2428,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini adalah laporan wajib keterbukaan informasi ketika seorang direksi emiten membeli tambahan saham perusahaannya sendiri di pasar. Transaksi semacam ini pada dasarnya menyangkut komposisi kepemilikan orang dalam dan tidak mengubah jumlah saham beredar HEAL secara keseluruhan maupun laba per saham perusahaan. Secara fundamental, penilaian ini netral. Pembelian oleh direksi lazim dibaca sebagai sinyal kepercayaan diri terhadap perusahaan, tetapi nilainya di sini hanya sekitar Rp39,25 juta dan cuma menggeser hak suara dari 0,0005 persen menjadi 0,0008 persen, sehingga besarannya terlalu kecil untuk dibaca sebagai sinyal kuat terhadap kinerja atau arah bisnis HEAL ke depan.",
   "sentimen": "netral",
-  "fotoAdegan": "A nurse checks a patient's blood pressure in a curtained examination room inside a private hospital."
+  "fotoAdegan": "A nurse checks a patient's blood pressure in a curtained examination room inside a private hospital.",
+  "imageV": "tjnlj8"
  },
  {
   "slug": "nick-nicholas-santoso-lapor-perubahan-kepemilikan-saham",
@@ -2363,7 +2455,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini adalah laporan wajib kepemilikan saham oleh insider, dalam hal ini seorang anggota direksi yang mencatatkan pembelian saham perusahaan sendiri di pasar. Transaksi semacam ini tidak menambah jumlah saham beredar karena hanya berpindah kepemilikan di pasar sekunder, sehingga tidak berdampak pada laba per saham maupun ekuitas perusahaan, yang berubah hanya struktur kepemilikan dan hak suara pelapor. Penilaian kami netral. Meski arah transaksinya adalah pembelian, yang biasanya dibaca pasar sebagai bentuk keyakinan insider terhadap perusahaan, jumlahnya sangat kecil karena hak suara Nicholas hanya naik ke 0,01 persen, sehingga terlalu remah untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "A forklift operator moves stacked pallets of plastic pellets inside a warehouse loading bay."
+  "fotoAdegan": "A forklift operator moves stacked pallets of plastic pellets inside a warehouse loading bay.",
+  "imageV": "tjnlk0"
  },
  {
   "slug": "moli-sampaikan-koreksi-laporan-keuangan-interim",
@@ -2389,7 +2482,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini adalah koreksi atas laporan keuangan interim semester I 2026 yang sebelumnya sudah disampaikan ke bursa, jadi bukan laporan baru melainkan perbaikan data yang telanjur dipublikasikan. Pos yang tersentuh dari data yang tersedia adalah kas dan setara kas konsolidasian, yang naik cukup signifikan dari Rp68,80 miliar menjadi Rp149,13 miliar, sementara laba rugi, total liabilitas, dan ekuitas belum tercakup dalam dokumen yang bisa dibaca sehingga belum bisa dinilai. Pelaku pasar biasanya memperhatikan pos kas karena mencerminkan likuiditas jangka pendek perusahaan untuk membiayai operasional dan kewajiban. Secara fundamental, penilaian atas laporan ini netral, karena kenaikan kas saja belum cukup menggambarkan kesehatan keuangan MOLI secara utuh tanpa data laba rugi dan liabilitas yang lengkap, ditambah sifat laporan yang murni administratif berupa koreksi data.",
   "sentimen": "netral",
-  "fotoAdegan": "A worker checks pressure gauges on a row of steel tanks inside a chemical processing plant."
+  "fotoAdegan": "A worker checks pressure gauges on a row of steel tanks inside a chemical processing plant.",
+  "imageV": "tjnlkp"
  },
  {
   "slug": "dr-sampaikan-term-sheet-penawaran-structured-warrant",
@@ -2415,7 +2509,8 @@ var ARTICLES = [
   ],
   "takeaway": "Waran terstruktur atau structured warrant adalah efek derivatif yang diterbitkan pihak ketiga, dalam hal ini RHB Sekuritas Indonesia (DR), memberi hak beli atas saham acuan tertentu hingga tanggal jatuh tempo, dan diperdagangkan di bursa layaknya saham biasa. Karena penerbitnya adalah perusahaan sekuritas dan bukan emiten-emiten acuan seperti BBCA, BBRI, AMMN, atau saham lain dalam daftar, laporan ini tidak menyentuh pos kinerja keuangan emiten manapun, baik ekuitas, arus kas, maupun laba per saham. Yang terpengaruh hanyalah ketersediaan instrumen trading turunan di pasar bagi investor yang ingin berspekulasi pada pergerakan saham acuan tersebut. Penilaian kami netral, karena ini merupakan pengumuman administratif rutin dari perusahaan sekuritas terkait peluncuran produk derivatif, bukan aksi korporasi yang mengubah fundamental emiten manapun yang disebut sebagai acuan, dan dokumen yang tersedia juga tidak memuat rincian harga atau volume yang bisa dinilai dampaknya.",
   "sentimen": "netral",
-  "fotoAdegan": "An analyst types at a keyboard surrounded by multiple monitors inside a quiet brokerage back office."
+  "fotoAdegan": "An analyst types at a keyboard surrounded by multiple monitors inside a quiet brokerage back office.",
+  "imageV": "tjnll7"
  },
  {
   "slug": "dr-rilis-keterbukaan-informasi-penerbitan-waran-ke-41",
@@ -2441,7 +2536,8 @@ var ARTICLES = [
   ],
   "takeaway": "Waran terstruktur adalah produk derivatif yang diterbitkan oleh perusahaan sekuritas, memberi pemegangnya hak, bukan kewajiban, untuk memperoleh keuntungan dari pergerakan harga saham acuan tertentu dalam periode terbatas, dan lazim dipakai investor untuk bertransaksi dengan leverage. Bagi RHB Sekuritas selaku penerbit, aktivitas ini biasanya menyentuh pos pendapatan berbasis fee dari penjualan produk, bukan ekuitas atau laba per saham perusaan itu sendiri, karena bukan merupakan penerbitan saham baru. Penilaian redaksi netral, sebab ini adalah seri ke-41 dari aktivitas bisnis yang memang rutin dilakukan RHB Sekuritas, dan data yang tersedia tidak memuat nilai penawaran, ukuran, atau saham acuan yang bisa dipakai untuk menakar dampak fundamentalnya. Detail lebih lanjut baru bisa dinilai setelah lampiran PDF pengumuman dibaca secara utuh.",
   "sentimen": "netral",
-  "fotoAdegan": "A courier delivers a sealed envelope to the reception desk of a securities firm's office lobby."
+  "fotoAdegan": "A courier delivers a sealed envelope to the reception desk of a securities firm's office lobby.",
+  "imageV": "tjnllx"
  },
  {
   "slug": "poll-sampaikan-koreksi-laporan-keuangan-interim",
@@ -2467,7 +2563,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini bukan aksi korporasi baru, melainkan pembetulan atas laporan keuangan interim triwulan II 2026 yang sebelumnya sudah disampaikan ke OJK dan BEI, sehingga ada perubahan angka dari versi awal. Pos yang berpotensi tersentuh oleh koreksi semacam ini biasanya berada di laporan posisi keuangan, seperti kas, piutang, dan pos neraca lain yang jadi acuan investor untuk menilai likuiditas dan kesehatan keuangan perusahaan. Karena dokumen yang tersedia tidak merinci apa saja yang berubah dibanding versi sebelum koreksi, dan tidak menyertakan laporan laba rugi maupun arus kas secara utuh, penilaian dibuat netral. Data kas dan piutang yang ada memang menunjukkan kenaikan, tapi itu saja belum cukup untuk menyimpulkan apakah koreksi ini bersifat material atau kosmetik. Status POLL yang sudah berada di papan pemantauan khusus juga menjadi konteks bahwa bursa sedang memberi perhatian pengawasan tersendiri pada saham ini.",
   "sentimen": "netral",
-  "fotoAdegan": "A surveyor holds a measuring instrument at a construction site beside a partially built residential tower."
+  "fotoAdegan": "A surveyor holds a measuring instrument at a construction site beside a partially built residential tower.",
+  "imageV": "tjnln4"
  },
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
@@ -2492,7 +2589,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An engineer inspects a control panel inside a biodiesel refinery processing unit at an industrial complex.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79476742376-pertemuan-rapat-terbatas-di-hambalang_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt5"
  },
  {
   "slug": "hd-sampaikan-term-sheet-structured-warrant-ke-bei",
@@ -2517,7 +2615,8 @@ var ARTICLES = [
   ],
   "takeaway": "Waran terstruktur (structured warrant) adalah produk turunan yang diterbitkan sekuritas, dalam hal ini KGI, yang memberi pemegangnya hak untuk mendapatkan selisih harga saham acuan, di sini BBCA, pada harga dan tanggal tertentu, biasanya diselesaikan secara tunai tanpa memindahkan kepemilikan saham BBCA itu sendiri. Bagi KGI Sekuritas selaku penerbit, aktivitas ini menyentuh pos pendapatan dari komisi dan premi penjualan produk derivatif, bukan struktur permodalan atau utang perusahaan secara langsung. Penilaian fundamental atas laporan ini netral, karena dokumen yang tersedia baru berupa surat pengantar pengajuan term sheet tanpa rincian jumlah waran, harga pelaksanaan, atau proyeksi dana yang dihimpun, sehingga besar kecilnya dampak terhadap kinerja KGI belum bisa diukur dari informasi yang ada.",
   "sentimen": "netral",
-  "fotoAdegan": "A receptionist answers a ringing phone at the front desk of a securities brokerage office lobby."
+  "fotoAdegan": "A receptionist answers a ringing phone at the front desk of a securities brokerage office lobby.",
+  "imageV": "tjnloo"
  },
  {
   "slug": "harga-emas-antam-bertahan-di-rp2-690-000-per-gram",
@@ -2541,7 +2640,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A customer examines a small gold ring under a jeweler's loupe at a display counter inside a gold shop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt6"
  },
  {
   "slug": "harga-beras-dan-cabai-naik-serentak-awal-pekan",
@@ -2566,7 +2666,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A vendor sorts red chilies into small piles at a produce stall inside a traditional wet market.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/29/67e7eb0f26aa6-ilustrasi-beras_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt6"
  },
  {
   "slug": "rupiah-menguat-ke-rp17-810-cadangan-devisa-terjaga",
@@ -2591,7 +2692,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A security guard stands watch outside the entrance of a regional bank headquarters at dawn.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt7"
  },
  {
   "slug": "wisl-sampaikan-laporan-jatuh-tempo-obligasi-ke-bei",
@@ -2616,7 +2718,8 @@ var ARTICLES = [
   ],
   "takeaway": "Obligasi adalah surat utang, sehingga saat jatuh tempo emiten berkewajiban melunasi pokok utang kepada pemegang obligasi, dan penghapusan pencatatan di BEI ini adalah konsekuensi administratif otomatis begitu tanggal jatuh tempo tercapai. Pos yang tersentuh adalah arus kas dan liabilitas jangka panjang WISL, karena pelunasan pokok senilai Rp845,5 miliar akan mengurangi utang berbunga jika dibayar tunai dari kas internal, atau berpotensi digantikan pembiayaan baru jika direfinancing. Penilaian kami netral, sebab dokumen ini hanya mencatat delisting akibat jatuh tempo dan tidak menyebutkan apakah pelunasan sudah dilakukan, sehingga dampaknya terhadap kesehatan keuangan WISL baru bisa dinilai setelah ada konfirmasi status pembayaran dari perusahaan.",
   "sentimen": "netral",
-  "fotoAdegan": "A cargo ship crew member checks mooring lines along the hull of a docked vessel at sunset."
+  "fotoAdegan": "A cargo ship crew member checks mooring lines along the hull of a docked vessel at sunset.",
+  "imageV": "tjnlv1"
  },
  {
   "slug": "humi-catatkan-tambahan-saham-baru-di-bei",
@@ -2641,7 +2744,8 @@ var ARTICLES = [
   ],
   "takeaway": "Waran adalah hak bagi pemegangnya untuk membeli saham baru perusahaan pada harga tertentu sebelum batas waktu yang ditetapkan, dan begitu dieksekusi, waran itu berubah menjadi saham biasa yang menambah jumlah saham beredar. Pos yang tersentuh langsung adalah jumlah saham beredar, yang berimplikasi pada potensi pengenceran (dilusi) kepemilikan dan laba per saham bagi pemegang saham lama, meski dokumen ini tidak menyebut harga pelaksanaan sehingga dampaknya terhadap kas perusahaan belum bisa dihitung. Konversi 297.862 saham dari basis 18,06 miliar lembar besarnya kurang dari 0,01 persen, sehingga transaksi kali ini terlalu kecil untuk dibaca sebagai sinyal berarti bagi fundamental HUMI. Yang lebih relevan diperhatikan pelaku pasar adalah sisa waran sebesar 1,34 miliar lembar, setara sekitar 7,4 persen dari total saham beredar saat ini, yang menjadi potensi dilusi lanjutan jika dikonversi seluruhnya. Untuk laporan konversi kali ini sendiri, penilaiannya netral karena dampaknya pada struktur saham nyaris tidak signifikan.",
   "sentimen": "netral",
-  "fotoAdegan": "A loader scoops coal onto a conveyor belt at an industrial stockyard near a river port."
+  "fotoAdegan": "A loader scoops coal onto a conveyor belt at an industrial stockyard near a river port.",
+  "imageV": "tjnlvj"
  },
  {
   "slug": "kaef-laporkan-perubahan-nama-emiten-ke-bursa",
@@ -2666,7 +2770,8 @@ var ARTICLES = [
   ],
   "takeaway": "Yang terjadi di sini murni perubahan nama resmi emiten di sistem pencatatan bursa, dari Kimia Farma Tbk. menjadi PT Kimia Farma (Persero) Tbk, dengan penambahan eksplisit kata Persero yang menegaskan status badan usaha milik negara. Perubahan semacam ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya administratif dan berkaitan dengan identitas hukum perusahaan, bukan transaksi bisnis. Pelaku pasar biasanya tetap mencatat perubahan ini karena nama resmi yang mencantumkan status Persero relevan untuk pemetaan tata kelola dan profil kepemilikan emiten. Dari sisi fundamental, laporan ini dinilai netral karena dokumen tidak menyediakan bukti dampak finansial atau operasional apa pun, hanya penegasan identitas korporasi.",
   "sentimen": "netral",
-  "fotoAdegan": "A pharmacist arranges medicine boxes on shelves inside a busy pharmacy counter in a shopping district."
+  "fotoAdegan": "A pharmacist arranges medicine boxes on shelves inside a busy pharmacy counter in a shopping district.",
+  "imageV": "tjnlw8"
  },
  {
   "slug": "pjhb-catatkan-saham-baru-di-bursa-efek-indonesia",
@@ -2691,7 +2796,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi ini adalah konversi waran, yaitu proses pemegang waran menukarkan haknya menjadi saham baru sehingga jumlah saham PJHB yang beredar bertambah. Pos yang tersentuh adalah jumlah saham beredar, yang pada gilirannya bisa memengaruhi laba per saham dan hak suara pemegang saham lama karena penerbitan saham baru berpotensi mengencerkan kepemilikan eksisting. Secara fundamental, konversi kali ini netral karena volumenya sangat kecil, hanya 3.105 lembar dari total 1,92 miliar saham, sehingga dampaknya ke struktur kepemilikan nyaris tidak terasa. Yang layak terus dipantau adalah sisa waran sebesar 239,28 juta lembar, setara sekitar 12,5 persen dari saham beredar saat ini, karena dilusi baru akan terasa berarti bila mayoritas waran tersebut dikonversi di kemudian hari.",
   "sentimen": "netral",
-  "fotoAdegan": "A worker in a reflective vest signals a truck reversing at a mineral stockpile yard."
+  "fotoAdegan": "A worker in a reflective vest signals a truck reversing at a mineral stockpile yard.",
+  "imageV": "tjnlwq"
  },
  {
   "slug": "pack-catatkan-saham-baru-di-bursa-efek-indonesia",
@@ -2717,7 +2823,8 @@ var ARTICLES = [
   ],
   "takeaway": "Aksi korporasi ini adalah pencatatan saham baru yang lahir dari konversi Obligasi Wajib Konversi, instrumen utang yang menurut ketentuannya wajib berubah menjadi saham pada waktu tertentu, sehingga kewajiban perseroan kepada pemegang obligasi berpindah menjadi kepemilikan saham. Yang tersentuh langsung adalah jumlah saham beredar, yang bertambah 441.482.500 lembar menjadi 34.099.757.975 lembar, sehingga secara matematis laba per saham berpotensi terdilusi karena penyebutnya membesar, sementara di sisi lain beban kewajiban obligasi tersebut berkurang karena sudah dilunasi dalam bentuk saham. Penilaian kami netral, sebab penambahan saham ini hanya sekitar 1,3 persen dari total saham beredar sehingga dampak dilusinya tergolong tipis, sementara dokumen tidak merinci nilai nominal obligasi maupun ketentuan bunga yang dihemat sehingga belum cukup bukti untuk menilai dampak keseluruhannya secara meyakinkan.",
   "sentimen": "netral",
-  "fotoAdegan": "Machines fold and seal cardboard boxes rapidly along an automated packaging production line."
+  "fotoAdegan": "Machines fold and seal cardboard boxes rapidly along an automated packaging production line.",
+  "imageV": "tjnlxj"
  },
  {
   "slug": "investor-saham-ri-tembus-10-05-juta-sid-di-2026",
@@ -2742,7 +2849,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Young professionals sit in rows attending an investment seminar inside a conference room in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt7"
  },
  {
   "slug": "bi-harga-properti-residensial-naik-tipis-di-triwulan-ii-2026",
@@ -2767,7 +2875,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A real estate agent unlocks the front door of a newly built house for a prospective buyer.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a785e517af1c-infografis-harga-properti-residensial-triwulan-ii-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt8"
  },
  {
   "slug": "ekonomi-karbon-bergeser-peluang-besar-bagi-indonesia",
@@ -2791,7 +2900,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A ranger walks through a dense mangrove forest carrying a handheld GPS device during a survey.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a784da7529df-ngobrol-santai-bareng-rektor-bertema-carbon-trade-dan-masa-depan-indonesia-hijau_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrt9"
  },
  {
   "slug": "cash-sampaikan-koreksi-laporan-keuangan-tahunan",
@@ -2817,7 +2927,8 @@ var ARTICLES = [
   ],
   "takeaway": "Ini bukan aksi korporasi baru, melainkan revisi atau perbaikan atas laporan keuangan tahunan 2025 yang sebelumnya sudah disampaikan ke Bursa Efek Indonesia. Pos yang paling menonjol dalam laporan versi koreksi ini adalah kas dan setara kas, indikator likuiditas yang biasa diperhatikan pelaku pasar karena mencerminkan kemampuan perusahaan mendanai operasional tanpa bergantung pada utang baru. Secara data, kenaikan kas hingga empat kali lipat dan opini audit wajar tanpa modifikasian adalah sinyal yang secara terpisah tergolong baik bagi kondisi keuangan Cashlez. Namun karena dokumen tidak menjelaskan apa yang sebenarnya berubah dibandingkan laporan awal yang dikoreksi, penilaian atas laporan koreksi ini sendiri saya nyatakan netral, sebab pembaca belum bisa mengetahui apakah revisi ini bersifat teknis administratif atau menyangkut angka material yang sebelumnya keliru.",
   "sentimen": "netral",
-  "fotoAdegan": "A cashier taps a customer's card on a small payment terminal at a boutique checkout counter."
+  "fotoAdegan": "A cashier taps a customer's card on a small payment terminal at a boutique checkout counter.",
+  "imageV": "tjnlyc"
  },
  {
   "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",
@@ -2842,7 +2953,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An inspector in a white coat examines packaged food products on a conveyor belt inside a factory.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/10/21/68f7b31d31368-kepala-badan-penyelenggara-jaminan-produk-halal-bpjph-haikal-hassan_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrta"
  },
  {
   "slug": "pertamina-dampingi-nelayan-batam-pendapatan-naik-40",
@@ -2867,7 +2979,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Fishermen unload baskets of fresh fish from a wooden boat at a small harbor dock in Batam.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a78484773c5d-kunjungan-dewan-komisaris-pt-pertamina-patra-niaga-ke-kampung-bahari-si-pelaut-di-kampung-tua-terih-batam_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtb"
  },
  {
   "slug": "ri-uea-perkuat-kerja-sama-dagang-lewat-iuae-cepa",
@@ -2892,7 +3005,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Dockworkers guide a shipping container being lowered onto a truck bed at a busy export terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a782e4f83c74-menteri-perdagangan-ri-budi-santoso-bertemu-menteri-perdagangan-luar-negeri-uea-thani-bin-ahmed-al-zeyoudi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtc"
  },
  {
   "slug": "harga-minyak-berpeluang-tembus-us-83-di-tengah-ketegangan-hormuz",
@@ -2917,7 +3031,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An oil tanker sits anchored offshore near a refinery's loading jetty under an overcast sky.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/04/18/6620c41c30c8d-ilustrasi-grafik-harga-minyak-mentah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtc"
  },
  {
   "slug": "mantri-bri-tembus-ombak-jaga-ekonomi-warga-wakatobi",
@@ -2942,7 +3057,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A bank officer carries a canvas bag while stepping off a wooden boat onto a small island jetty.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a782b76440bc-ilustrasi-dedikasi-mantri-bri-untuk-masyarakat-wakatobi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtd"
  },
  {
   "slug": "airlangga-tinjau-ioniq-9-di-booth-hyundai-giias-2026",
@@ -2967,7 +3083,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Visitors walk around a sleek electric SUV displayed on a rotating platform at an auto exhibition hall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a78264aaf914-menko-airlangga-kunjungi-booth-hyundai-di-giias-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrte"
  },
  {
   "slug": "cadangan-devisa-ri-tembus-us-145-3-miliar-per-juli",
@@ -2992,7 +3109,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A vault technician closes a heavy steel door inside the secure currency reserve vault of a bank.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a781ffb6c6b6-infografis-cadangan-devisa_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtf"
  },
  {
   "slug": "manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026",
@@ -3016,7 +3134,8 @@ var ARTICLES = [
    "Di sisi lain, dua komponen lain justru kontraksi, yakni tenaga kerja dan waktu kirim. Artinya, penguatan produksi pada periode ini belum diikuti penyerapan tenaga kerja yang sepadan, sementara proses pengiriman barang tercatat melambat dibanding kondisi normal."
   ],
   "takeaway": "IKBM triwulan II-2026 tercatat 52,31, naik dari triwulan sebelumnya, dengan pesanan, produksi, dan stok yang sama-sama ekspansif, sementara komponen tenaga kerja dan waktu kirim justru kontraksi. Pola ini paling relevan bagi pelaku industri manufaktur dan pekerja di sektor tersebut, karena kenaikan produksi tidak dibarengi penyerapan tenaga kerja yang proporsional. Kombinasi produksi naik tapi tenaga kerja tertekan bisa mengarah ke penguatan aktivitas tanpa ekspansi lapangan kerja yang sepadan, meski satu titik data belum cukup untuk memastikan itu pola yang menetap. Yang akan menegaskan arah ini adalah rilis IKBM triwulan III-2026, khususnya apakah komponen tenaga kerja kembali ekspansif atau makin tertekan.",
-  "fotoAdegan": "Workers operate machinery along an active assembly line inside a large manufacturing plant."
+  "fotoAdegan": "Workers operate machinery along an active assembly line inside a large manufacturing plant.",
+  "imageV": "tjnm6o"
  },
  {
   "slug": "tpt-turun-ke-4-65-persen-upah-buruh-rata-rata-rp3-39-juta",
@@ -3040,7 +3159,8 @@ var ARTICLES = [
    "Dari sisi lapangan usaha, sektor pertanian, kehutanan, dan perikanan tetap menjadi penyerap tenaga kerja terbesar dengan 42,60 juta orang atau 28,75 persen dari total penduduk bekerja. Dominasi sektor ini menunjukkan struktur ketenagakerjaan Indonesia masih bertumpu pada sektor primer, sementara rata-rata upah pekerja secara nasional berada di kisaran Rp3,39 juta per bulan."
   ],
   "takeaway": "TPT turun tipis 0,03 persen poin menjadi 4,65 persen, diiringi kenaikan angkatan kerja 0,497 juta orang dan penduduk bekerja 0,522 juta orang dibanding Februari 2026. Perbaikan ini paling terasa bagi pekerja di sektor pertanian, kehutanan, dan perikanan yang masih menyerap porsi terbesar tenaga kerja, yakni 28,75 persen. Pola penurunan TPT yang kecil namun konsisten mengindikasikan pasar kerja bergerak membaik secara bertahap, bukan perbaikan tajam. Yang akan memperjelas apakah tren ini berlanjut adalah rilis Sakernas berikutnya pada Februari 2027, serta data inflasi periode yang sama untuk menilai apakah kenaikan upah nominal ini turut diikuti kenaikan upah riil.",
-  "fotoAdegan": "Factory workers punch out at a time clock near the exit gate at the end of a shift."
+  "fotoAdegan": "Factory workers punch out at a time clock near the exit gate at the end of a shift.",
+  "imageV": "tjnm77"
  },
  {
   "slug": "ekonomi-ri-tumbuh-5-29-persen-pada-triwulan-ii-2026",
@@ -3065,7 +3185,8 @@ var ARTICLES = [
    "Dari sisi wilayah, provinsi-provinsi di Pulau Jawa tetap mendominasi struktur ekonomi nasional dengan kontribusi 56,47 persen terhadap PDB pada triwulan II 2026, serta mencatat pertumbuhan 5,65 persen secara tahunan, di atas rata-rata nasional."
   ],
   "takeaway": "Pola yang menonjol dari rilis ini adalah konsumsi pemerintah yang tiga kali berturut-turut mencatat pertumbuhan tertinggi dari sisi pengeluaran, yakni 15,08 persen secara kuartalan, 15,97 persen secara tahunan, dan 18,62 persen pada semester I 2026. Ini mengindikasikan belanja negara menjadi salah satu penopang utama pertumbuhan ekonomi pada periode ini, dengan dampak yang paling terasa bagi sektor yang banyak bergantung pada proyek dan pengadaan pemerintah. Di sisi lain, dominasi Pulau Jawa yang masih di atas 56 persen dari total ekonomi nasional menunjukkan pemerataan pertumbuhan antarwilayah belum banyak bergeser. Realisasi APBN semester II dan rilis PDB triwulan III 2026 mendatang akan menjadi penanda apakah lonjakan konsumsi pemerintah ini berlanjut atau hanya sementara.",
-  "fotoAdegan": "Construction workers pour concrete for a new public infrastructure project on the outskirts of a city."
+  "fotoAdegan": "Construction workers pour concrete for a new public infrastructure project on the outskirts of a city.",
+  "imageV": "tjnm7w"
  },
  {
   "slug": "konsumsi-rumah-tangga-masih-menopang-92-persen-ekonomi-indonesia",
@@ -3090,7 +3211,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A family shops for groceries together, pushing a cart through the aisles of a neighborhood supermarket.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c930949ad1-ketum-kadin-anindya-bakrie-saat-memberikan-sambutan-dalam-pertemuan-kadin-pusat-dan-daerah-seluruh-indonesia-dengan-presiden-prabowo-di-istana-negara-jumat-3172026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtn"
  },
  {
   "slug": "pertamax-cs-turun-lagi-awal-agustus-ini-rinciannya",
@@ -3114,7 +3236,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An attendant holds a fuel nozzle while refueling a sedan at a gas station forecourt in the evening.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a57448861139-ilustrasi-aktivitas-di-spbu-pertamina_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtn"
  },
  {
   "slug": "emas-antam-dibuka-turun-rp20-ribu-per-gram-di-awal-agustus",
@@ -3138,7 +3261,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A shop assistant polishes a glass display case filled with small gold bars inside a jewelry store.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/02/6980118c97aa7-ilustrasi-emas-antam_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrto"
  },
  {
   "slug": "saham-telekomunikasi-jadi-incaran-analis-soroti-kebutuhan-infrastruktu",
@@ -3162,7 +3286,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A technician installs fiber optic cable along utility poles in a residential neighborhood street.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6d0ba0d7e69-ilustrasi-saham_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtp"
  },
  {
   "slug": "berbeda-dari-pertamina-solar-di-spbu-shell-justru-naik",
@@ -3186,7 +3311,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A driver fills a truck's diesel tank at a private fuel station along a highway rest stop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/11/698bd3d958f65-ilustrasi-spbu-shell_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtp"
  },
  {
   "slug": "bgn-siap-jalankan-putusan-mk-skema-anggaran-mbg-dibahas-kemenkeu",
@@ -3210,7 +3336,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Cafeteria staff ladle rice and vegetables onto trays for schoolchildren during a free meal program.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c682729d3e-kepala-badan-gizi-nasional-bgn-sudaryono-tengah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtq"
  },
  {
   "slug": "transformasi-garuda-group-dipercepat-citilink-tambah-armada",
@@ -3234,7 +3361,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Ground crew members push a baggage cart across the tarmac beside a parked passenger jet at an airport.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c19eb4a289-citilink-operasikan-43-armada-hingga-akhir-semester-i-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtr"
  },
  {
   "slug": "pajak-umkm-online-bakal-turun-dari-20-ke-8-persen",
@@ -3258,7 +3386,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An online seller wraps small parcels with tape at a cluttered home packing station surrounded by boxes.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6b997725970-ketua-bidang-kementerian-dewan-kerajinan-nasional-dekranas-sekaligus-penasihat-dharma-wanita-persatuan-dwp-kementerian-umkm-tina-astari_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrts"
  },
  {
   "slug": "menuju-b50-tata-kelola-biodiesel-dinilai-jadi-pekerjaan-rumah",
@@ -3282,7 +3411,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A worker collects palm fruit bunches onto a truck bed inside a palm oil plantation.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6cd2cb7f36b-diskusi-strategis-bertajuk-b50-dan-tata-kelola-biodiesel-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrts"
  },
  {
   "slug": "bumi-resources-buka-kinerja-semester-i-batu-bara-masih-jadi-andalan",
@@ -3306,7 +3436,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A dredger works beside a barge loaded with coal at a river mining port terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/07/12/62cd49e0ccdb5-bumi-resources_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtt"
  },
  {
   "slug": "telkom-catat-pertumbuhan-solid-di-paruh-pertama-2026",
@@ -3330,7 +3461,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Technicians monitor server racks blinking with status lights inside a large data center facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6cab470798c-direktur-utama-telkom-dian-siswarini_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtu"
  },
  {
   "slug": "satu-terminal-ini-menjaga-40-persen-pasokan-lpg-nasional",
@@ -3354,7 +3486,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers connect hoses to a tanker truck at a coastal LPG storage and distribution terminal.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ca57763058-terminal-lpg-tanjung-sekong-memegang-peranan-krusial-sebagai-infrastruktur-strategis-pertamina-dalam-menjaga-stabilitas-energi-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtu"
  },
  {
   "slug": "bulog-perketat-pantauan-harga-dan-mutu-beras",
@@ -3378,7 +3511,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A warehouse worker stacks sacks of rice onto a pallet inside a government rice storage facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9e48e40ee-direktur-utama-perum-bulog-ahmad-rizal-ramdhani-memantau-langsung-standar-mutu-beras-di-pasaran_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtv"
  },
  {
   "slug": "menyeberang-selat-demi-layani-nasabah-cerita-mantri-bri-di-pulau-seram",
@@ -3402,7 +3536,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A bank officer grips the side of a small wooden boat crossing choppy water between two islands.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c69b8849db-50-umkm-binaan-pertamina-dari-berbagai-sektor-usaha-mendapatkan-fasilitas-sertifikasi-halal_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtw"
  },
  {
   "slug": "pendukung-dan-pengkritik-duduk-bareng-bahas-kopdes-merah-putih",
@@ -3426,7 +3561,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Farmers and officials sit in a circle of plastic chairs discussing plans inside an open village pavilion.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c5bf04beb0-pt-bank-rakyat-indonesia-persero-tbk-bri-menegaskan-komitmennya-dalam-menyukseskan-program-3-juta-rumah-melalui-penyediaan-akses-pembiayaan-bagi-masyarakat-serta-pelaku-usaha-properti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtx"
  },
  {
   "slug": "lima-puluh-umkm-dibekali-sertifikasi-halal-untuk-tembus-pasar-baru",
@@ -3450,7 +3586,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A home cook packages trays of baked snacks inside a small kitchen preparing for halal certification.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c59544a9eb-salah-satu-ibadah-yang-paling-utama-adalah-memberikan-kasih-sayang-penghormatan-dan-perhatian-kepada-anak-yatim_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrty"
  },
  {
   "slug": "akad-massal-62-ribu-debitur-kpr-subsidi-dipimpin-presiden",
@@ -3474,7 +3611,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of new homeowners sit together during a mass housing loan signing ceremony inside a large hall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c1b334be5e-bersama-bri-petani-kopi-asal-batang-sajikan-racikan-produk-hingga-jangkau-pasar-dunia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrty"
  },
  {
   "slug": "melayani-ratusan-debitur-yang-tersebar-di-belasan-desa-talaud",
@@ -3498,7 +3636,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A bank officer rides a motorbike along a dirt path between coconut trees toward a remote village.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6bf4b48f8e4-mantri-bri-hadir-hingga-talaud_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrtz"
  },
  {
   "slug": "pertamina-paparkan-strategi-jaga-ketahanan-energi-nasional",
@@ -3522,7 +3661,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An engineer walks past towering distillation columns inside a petroleum refinery complex at dusk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9fb7ec2c8-wadirut-pertamina-oki-muraza-dalam-diskusi-panel-tentang-ketahanan-energi-nasioanal-bersama-bpk_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru0"
  },
  {
   "slug": "aplikasi-mobile-antar-bank-jakarta-raih-penghargaan-digital",
@@ -3546,7 +3686,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A young customer opens a savings account assisted by a bank employee at a modern branch counter in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ca89c6988f-bank-jakarta-sukses-mengukir-prestasi-dalam-ajang-jawaposcom-digital-excellence-awards-2026-yang-digelar-di-jakarta-kamis-3007_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru1"
  },
  {
   "slug": "filantropi-dan-ekonomi-berbagi-menakar-peran-zakat-di-sektor-riil",
@@ -3570,7 +3711,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Volunteers sort donated rice sacks into neat rows inside a community charity distribution warehouse.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c9040a13df-mantri-bri-dari-unit-piru-kantor-cabang-masohi-asti-mengemban-misi-mulia-menghadirkan-akses-keuangan-bagi-warga-di-pelosok-kabupaten-seram-bagian-barat_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru1"
  },
  {
   "slug": "dari-kebun-di-batang-ke-pasar-dunia-cerita-kopi-naik-kelas",
@@ -3594,7 +3736,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A farmer picks ripe red coffee cherries by hand on a hillside plantation in Central Java.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6c720500697-amki-gelar-diskusi-kebangsaan-bahas-kopdes-merah-putih_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru2"
  },
  {
   "slug": "antisipasi-gejolak-global-tim-diplomasi-ekonomi-dikirim-ke-china-dan-m",
@@ -3618,7 +3761,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A delegation of officials boards a plane on the tarmac ahead of an overseas diplomatic trip.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b4418ddeea-presiden-prabowo-saat-menghadiri-penyerahan-akad-massal-62000-rumah-subsidi-bagi-masyarakat-berpenghasilan-rendah-mbr-di-batang-jawa-tengah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru3"
  },
  {
   "slug": "sinyal-dari-istana-soal-calon-gubernur-bi-berikutnya",
@@ -3642,7 +3786,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Journalists wait with cameras outside the gate of a presidential palace complex in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b3c81cef12-pejabat-sementara-pjs-gubernur-bank-indonesia-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru3"
  },
  {
   "slug": "efek-danantara-mulai-terasa-bumn-diarahkan-ke-pasar-global",
@@ -3666,7 +3811,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An inspector in a hard hat examines welding work on the hull of a ship inside a dry dock.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b7fcf42c98-pt-biro-klasifikasi-indonesia-persero-atau-bki_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru4"
  },
  {
   "slug": "ekosistem-digital-haji-dan-umrah-diperkuat-lewat-kemitraan-baru",
@@ -3690,7 +3836,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Pilgrims wearing white ihram clothing wait in line at an airport departure gate for an umrah flight.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b7812b1046-bpkh-limited-secara-resmi-bermitra-dengan-sahl-group-dan-bank-muamalat-untuk-menyelenggarakan-rangkaian-kegiatan-gosahl-roadshow-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru5"
  },
  {
   "slug": "pertamina-dorong-agenda-esg-masuk-ke-lini-bisnis",
@@ -3714,7 +3861,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers plant mangrove saplings along a muddy coastal restoration site as part of a company program.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b4791ea989-svp-business-sustainability-pt-pertamina-persero-wenny-ipmawan-menerima-penghargaan-dalam-acara-awarding-idx-channel-anugerah-esg-2026-di-main-hall-bursa-efek-indonesia-jakarta-rabu-297_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru6"
  },
  {
   "slug": "inisiatif-bioenergi-pertamina-dapat-pengakuan-internasional",
@@ -3738,7 +3886,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A technician samples liquid from a bioethanol production tank inside an energy company's pilot facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b46016c6e0-pertamina-raih-outstanding-sdg-innovator-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru7"
  },
  {
   "slug": "sebelas-umkm-binaan-tampil-di-panggung-indonesia-fashion-week",
@@ -3762,7 +3911,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A tailor makes final adjustments to a model's batik outfit backstage before a fashion show runway.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ae0e516f81-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru8"
  },
  {
   "slug": "pegadaian-kantongi-sk-perjanjian-kerja-bersama-2026-2028",
@@ -3786,7 +3936,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Employees gather in a break room inside a pawnshop branch office during a shift change.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b1ed2bc923-pegadaian-resmi-terima-sk-perjanjian-kerja-bersama-periode-20262028-dari-kemenaker-ri_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru8"
  },
  {
   "slug": "perusahaan-perangkat-lunak-global-perluas-kantor-di-bsd-city",
@@ -3810,7 +3961,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Software developers work at standing desks inside a bright open-plan office in a digital hub complex.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b184a25253-interior-kantor-odoo-indonesia-di-biomedical-campus-bsd-city_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnru9"
  },
  {
   "slug": "secangkir-kopi-wisatawan-asing-dan-rantai-ekonomi-di-baliknya",
@@ -3834,7 +3986,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A barista pours steamed milk into a cup of coffee for a foreign tourist at a café counter.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6b0705117f2-presiden-prabowo-saat-meresmikan-revitalisasi-stasiun-semarang-tawang-jawa-tengah-kamis-3072026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrua"
  },
  {
   "slug": "pekerja-migran-di-taiwan-dibekali-literasi-keuangan-untuk-pulang-berwi",
@@ -3858,7 +4011,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Migrant workers listen attentively during a financial literacy workshop held inside a community hall abroad.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6afaedd4a16-bri-peduli-menghadirkan-program-pemberdayaan-bagi-pekerja-migran-indonesia-pmi-di-taiwan_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrua"
  },
  {
   "slug": "bank-bjb-perluas-bisnis-lewat-kemitraan-strategis-baru",
@@ -3882,7 +4036,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Two bank employees shake hands beside a teller counter inside a modern regional bank branch.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ac44cec681-bank-bjb-perkuat-akses-layanan-melalui-kerjasama-dengan-yayasan-adi-upaya-yasau-pada-rabu-29-juli-2026-di-menara-bank-bjb-bandung_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrub"
  },
  {
   "slug": "emas-antam-naik-rp15-ribu-harga-buyback-ikut-terangkat",
@@ -3906,7 +4061,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A jeweler places gold coins into a velvet display tray inside a busy gold trading shop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrub"
  },
  {
   "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
@@ -3930,7 +4086,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Employees attend a briefing session seated in rows inside a corporate training room at a bank office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/30/6a6ab316e922a-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruc"
  },
  {
   "slug": "koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat",
@@ -3954,7 +4111,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Members gather around a table discussing accounts inside a small village cooperative office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a6a142863ab6-ketua-dewan-direktur-great-institute-syahganda-nainggolan_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrud"
  },
  {
   "slug": "penyandang-disabilitas-dibekali-keterampilan-bernilai-ekonomi",
@@ -3978,7 +4136,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A trainer guides a person in a wheelchair through a handicraft weaving exercise inside a training center.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a6a070f14242-penyandang-disabilitas-mendapat-pembekalan-keterampilan-bernilai-ekonomi-dari-pnm_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrud"
  },
  {
   "slug": "seratus-ribu-pekerja-rentan-bakal-dapat-jaminan-sosial",
@@ -4002,7 +4161,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A street vendor pushes a wooden cart loaded with snacks along a sidewalk in the afternoon heat.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e9a14ab65-pimpinan-baznas-ri-bidang-pendistribusian-pendayagunaan-dan-pemberdayaan-idy-muzayyad_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrue"
  },
  {
   "slug": "tunggakan-program-mbg-rp16-triliun-masih-dalam-proses-audit",
@@ -4026,7 +4186,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An auditor walks through a school kitchen storeroom stacked with cooking supplies during a routine inspection.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69cdef7ad29-kepala-badan-gizi-nasional-bgn-sudaryono-di-kantor-bgn-jakarta-pusat-rabu-2972026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruf"
  },
  {
   "slug": "sepuluh-bank-tutup-hingga-juli-ojk-cabut-izin-bpr-di-berbagai-daerah",
@@ -4050,7 +4211,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A security guard locks the metal shutter of a closed bank branch storefront in a small town.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69ef510a261-ilustrasi-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrug"
  },
  {
   "slug": "dua-dekade-membesarkan-usaha-gula-merah-di-sumenep",
@@ -4074,7 +4236,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A craftsman stirs boiling palm sap over a wood fire to make traditional brown sugar in a rural workshop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e688a3f66-kisah-sukses-umkm-gula-merah-dari-sumenep_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrug"
  },
  {
   "slug": "kadin-bawa-agenda-industri-listrik-ke-meja-sekretariat-kabinet",
@@ -4098,7 +4261,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An engineer checks transformer equipment inside a substation yard of an electricity distribution facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69e10374b68-ketum-kadin-anindya-bakrie-memperkenalkan-buku-we-buy-from-indonesia-kepada-seskab-teddy-di-kantor-sekretariat-kabinet_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruh"
  },
  {
   "slug": "laba-bank-bjb-melonjak-588-persen-aset-tembus-rp228-triliun",
@@ -4122,7 +4286,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A loan officer reviews paperwork with a small business owner across a desk inside a bank branch.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d1d732245-bank-bjb-bukukan-kinerja-positif-pada-semester-i-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrui"
  },
  {
   "slug": "pemerintah-kucurkan-rp328-triliun-untuk-15-bendungan-baru",
@@ -4146,7 +4311,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Heavy machinery grades earth along the embankment of a large dam under construction in a valley.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d0e9bf7ae-ilustrasi-bendungan-karangnongko_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrui"
  },
  {
   "slug": "pembiayaan-ultra-mikro-diperkuat-untuk-keluarga-prasejahtera",
@@ -4170,7 +4336,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A loan officer counts coins with a market vendor at her small stall during a weekly loan visit.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69d15d0a5b5-ilustrasi-pnm-perkuat-ketahanan-keuangan-keluarga-prasejahtera_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruj"
  },
  {
   "slug": "presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri",
@@ -4194,7 +4361,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A harvester cuts through rows of tall sugarcane stalks inside a sprawling plantation field.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69af3b22019-petani-tebu-banyuwangi-melakukan-penanaman-bibit-tebu-menggunakan-alat-tanam-mekanis-sebagai-bagian-dari-program-bongkar-ratoon-untuk-meningkatkan-produktivitas-dan-mendukung-swasembada-gula-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruk"
  },
  {
   "slug": "emas-antam-merosot-ke-rp26-juta-per-gram",
@@ -4218,7 +4386,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A customer weighs a small gold necklace on a countertop scale inside a traditional gold shop.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruk"
  },
  {
   "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
@@ -4242,7 +4411,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A cashier at a money exchange counter stacks coin trays while a customer waits nearby.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruk"
  },
  {
   "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
@@ -4266,7 +4436,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Former factory workers carry cardboard boxes of belongings out through a factory's main gate.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/19/68030896f2366-ilustrasi-phk_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrul"
  },
  {
   "slug": "menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara",
@@ -4290,7 +4461,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Officials sit around an oval table during a closed-door coordination meeting inside a government building.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a68fd125cb61-menkeu-purbaya-dalam-rapat-berkala-komite-stabilitas-sistem-keuangan-kssk_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrum"
  },
  {
   "slug": "rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi",
@@ -4314,7 +4486,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A money changer sorts coins into small dishes behind a glass partition at an exchange counter.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrum"
  },
  {
   "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
@@ -4338,7 +4511,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Brokers lean over their desks discussing trades quietly inside a stock brokerage trading room.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrun"
  },
  {
   "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
@@ -4362,7 +4536,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An inspector climbs a ladder to examine the hull plating of a ship in a shipyard dry dock.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68d75bc948b-pt-biro-klasifikasi-indonesia-persero_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrun"
  },
  {
   "slug": "nama-menkeu-masuk-bursa-calon-gubernur-bi",
@@ -4386,7 +4561,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruo"
  },
  {
   "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
@@ -4410,7 +4586,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A worker exchanges an empty gas cylinder for a full one at a neighborhood LPG distribution kiosk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6890d372832-pemerintah-impor-minyak-rusia-skema-g2g-bahlil-jaga-cadangan-energi-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruo"
  },
  {
   "slug": "koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi",
@@ -4434,7 +4611,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Villagers line up to deposit savings at a small wooden cooperative counter in a rural community.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68b1ff27976-menkop-ferry-juliantono-dan-ketua-dewan-direktur-great-institute-syahganda-nainggolan-dalam-reaktualisasi-pasal-33-uud-1945_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrup"
  },
  {
   "slug": "telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan",
@@ -4458,7 +4636,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Young employees collaborate around a laptop during a team workshop inside a corporate innovation lab.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a689678dde55-telkom-raih-lestari-award-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruq"
  },
  {
   "slug": "timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman",
@@ -4482,7 +4661,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers monitor pipeline valves inside the control room of a fuel storage depot at night.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a688386ccb3d-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrur"
  },
  {
   "slug": "bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi",
@@ -4506,7 +4686,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Employees walk through the glass atrium lobby of a stock exchange building in the financial district.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrus"
  },
  {
   "slug": "pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi",
@@ -4530,7 +4711,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Young jobseekers fill out forms at long tables during a crowded internship recruitment fair.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a686a2cc6417-menteri-ketenagakerjaan-yassierli-memberi-keterangan-kepada-awak-media_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrut"
  },
  {
   "slug": "ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga",
@@ -4554,7 +4736,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A patient receives physical therapy assistance from a therapist inside a hospital rehabilitation room.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6869cf2461d-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrut"
  },
  {
   "slug": "kur-perumahan-jadi-motor-program-3-juta-rumah",
@@ -4578,7 +4761,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A construction worker lays bricks for a wall inside a subsidized housing project under a tin roof.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6865d96eaad-direktur-utama-bri-hery-gunardi-dan-menteri-pkp-maruarar-sirait_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruu"
  },
  {
   "slug": "menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum",
@@ -4602,7 +4786,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An IT specialist examines cabling behind a row of server racks inside a secure data facility.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685b413aad4-telkom-mempertemukan-pemerintah-industri-akademisi-dan-lembaga-riset-melalui-workshop-post-quantum-cryptography-pqc-untuk-memperkuat-kesiapan-ekosistem-keamanan-digital-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruu"
  },
  {
   "slug": "bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin",
@@ -4626,7 +4811,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A customer signs paperwork at a bank desk while an officer explains deposit terms nearby.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685696c185c-ketua-lps-anggito-abimanyu_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruv"
  },
  {
   "slug": "ihsg-dibuka-menguat-siap-uji-level-resistance",
@@ -4650,7 +4836,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Traders arrive at their desks early inside a brokerage office as the morning session begins.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruv"
  },
  {
   "slug": "emas-antam-turun-rp9000-per-gram",
@@ -4674,7 +4861,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A shop owner arranges small gold bars inside a locked glass cabinet at a gold trading counter.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruw"
  },
  {
   "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
@@ -4698,7 +4886,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A money changer counts coins by hand at a small currency exchange kiosk in a shopping mall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruw"
  },
  {
   "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
@@ -4722,7 +4911,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruw"
  },
  {
   "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",
@@ -4746,7 +4936,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "An empty hearing room with rows of chairs sits ready inside a parliamentary building in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c1121dab71-mensesneg-prasetyo-hadi_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrux"
  },
  {
   "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",
@@ -4770,6 +4961,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers load bags of processed mineral ore onto a cargo truck at a mining export depot.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/27/6a6789a5bf980-ksp-dudung-abdurachman-menggelar-rakor-lintas-kementerian-dan-lembaga-untuk-membahas-hambatan-ekspor-mineral-kritis_1200_675.jpg",
-  "kreditFoto": "tvOneNews"
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrux"
  }
 ];

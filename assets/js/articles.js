@@ -24,7 +24,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Stock brokers in a busy Jakarta trading floor watching distant blurred digital screens, wide angle, morning light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7cfa0e53404-pengunjung-mengamati-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret di sini adalah komposisi indeks, dua saham besar, CPIN dan GOTO, keluar dari indeks utama MSCI untuk Indonesia tanpa ada saham pengganti, sehingga jumlah wakil Indonesia di indeks itu menyusut dari sebelas menjadi sembilan saham. Yang terdampak langsung adalah pemegang saham CPIN dan GOTO, terutama karena dana-dana indeks pasif di berbagai negara yang melacak MSCI akan otomatis menjual saham tersebut begitu perubahan berlaku akhir Agustus. Efek serupa dalam skala lebih kecil dirasakan sembilan saham yang tersingkir dari kategori small cap seperti ARTO, BUKA, dan SMGR. Pola tidak ada saham baru yang masuk ke indeks utama sementara yang keluar cukup banyak ini mengarah ke penyusutan sementara bobot Indonesia di radar investor pasif global. Untuk memastikan apakah ini tren berkelanjutan atau sekadar penyesuaian satu periode, peninjauan berikutnya pada 11 November 2026 akan jadi penanda paling jelas."
  },
  {
@@ -50,7 +50,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide shot of stacked shipping containers at an inland container depot yard, forklift moving between rows, midday light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/23/6a61c7e43baf1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah sejauh ini baru rencana koordinasi, bukan aturan baru: Kementerian Keuangan akan mengajak Kementerian Perhubungan menyelesaikan selisih biaya jasa angkat-turun kontainer di depo peti kemas kosong, yang di luar pelabuhan tercatat Rp300.000 sampai Rp400.000 lebih mahal per kontainer ketimbang di dalam pelabuhan. Pihak yang paling merasakan selisih ini adalah pengguna jasa logistik, seperti importir dan eksportir yang menitipkan kontainer kosong di depo luar pelabuhan, karena biaya tambahan itu langsung menambah ongkos kirim barang mereka. Penyebabnya, menurut aduan yang diterima Kemenkeu, adalah belum adanya aturan yang secara khusus menetapkan struktur dan golongan tarif LoLo, sehingga tiap depo bisa menetapkan tarifnya sendiri. Arahnya tampak menuju penyeragaman aturan tarif antara depo di dalam dan luar pelabuhan, tapi ini baru tahap koordinasi antar kementerian dan belum ada draf regulasi. Yang akan memastikan arah ini benar terealisasi adalah apakah Kemenhub kemudian menerbitkan aturan konkret soal struktur dan golongan tarif LoLo, atau rencana ini berhenti di tahap koordinasi."
  },
  {
@@ -76,7 +76,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Small business vendors arranging handcrafted food products on a stall inside a busy trade exhibition hall in Indonesia.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c9a779202f-umkm-binaan-pertamina_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan sekadar angka omzet, melainkan skala dukungannya: 414 pameran, 2.822 sertifikasi produk, dan 579 pelatihan usaha dalam satu semester, kombinasi yang jauh lebih besar dibanding sekadar bantuan modal seperti yang dulu diterima Sambal Ning Niniek. Yang terdampak langsung adalah UMKM binaan Pertamina yang sudah punya produk siap jual namun terkendala jaringan pemasaran dan legalitas, seperti tecermin dari kisah Sri Wahyuni yang mengaku pelatihan dan pameran lebih membantu memperluas jaringan ketimbang sekadar menambah omzet sesaat. Pola ini menunjukkan arah dukungan Pertamina bergeser dari sekadar penyaluran modal usaha ke penguatan kesiapan pasar, yakni sertifikasi dan akses pameran berskala lebih besar termasuk pasar internasional. Yang akan memperkuat atau mematahkan pembacaan ini adalah apakah UMKM binaan yang sudah difasilitasi sertifikasi dan pameran internasional benar-benar berhasil menembus ekspor pada laporan semester berikutnya."
  },
  {
@@ -101,7 +101,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Kitchen workers ladling rice and vegetables into metal trays inside a busy communal kitchen in Indonesia, early morning",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/18/6a33e4069213e-ilustrasi-pekerja-menyiapkan-paket-makanan-untuk-program-makan-bergizi-gratis-mbg-di-dapur-satuan-pelayanan-pemenuhan-gizi-sppg-jebres_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Temuan ini berasal dari survei langsung staf Kementerian Keuangan ke satuan pelayanan gizi yang menjalankan MBG di lapangan, bukan sekadar laporan administratif, dan hasilnya akan diserahkan ke BGN agar aturan pertanggungjawaban dananya diperbaiki. Yang terdampak langsung adalah BGN yang harus menindaklanjuti temuan itu, serta pengelola dapur MBG di daerah yang selama ini menyusun laporan keuangannya sendiri. Arah yang terlihat sejauh ini adalah pengawasan yang diperketat lebih dulu sebelum ada langkah lanjutan, sebab Purbaya sendiri menegaskan belum ada keputusan soal efisiensi anggaran MBG. Yang akan memastikan ke mana ini bergerak adalah apakah BGN benar merilis revisi aturan pertanggungjawaban keuangan, dan apakah keputusan soal efisiensi anggaran itu akhirnya diambil."
  },
  {
@@ -126,7 +126,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Courier riders sorting stacked parcel boxes at a busy urban delivery hub early in the morning, motorbikes lined up.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62d442a93f1-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Pajak transaksi marketplace yang semula mulai berlaku 1 Agustus 2026 sudah diundur sekali pada 5 Agustus, dan kini disebut mundur lagi setidaknya sampai Oktober, tanpa jadwal pasti kapan benar-benar jalan. Yang langsung kena dampak adalah pedagang online, termasuk banyak pelaku UMKM yang mengandalkan marketplace, karena merekalah yang akan dipotong pajak setiap kali transaksi terjadi. Pola penundaan berulang ini menunjukkan pemerintah memilih menautkan jadwal pajak ke kondisi daya beli masyarakat, bukan menetapkan tanggal yang tetap, sehingga kebijakan ini bergerak ke arah tertunda selama ekonomi dianggap belum cukup kuat, ketimbang menuju kepastian jadwal baru. Yang akan menentukan apakah Oktober benar-benar jadi batas akhir atau kembali mundur adalah angka pertumbuhan ekonomi kuartal III 2026 dan seberapa dekat angka itu dengan target 6 persen yang dipatok pemerintah."
  },
  {
@@ -151,7 +151,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A delivery worker rolling a small gas cylinder on a hand cart outside a neighborhood store, morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/16/68a07926342e0-promo-bright-gas-dari-pertamina-patra-niaga_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Diskonnya konkret: Rp4.050 per tabung untuk Bright Gas 5,5 kilogram dan Rp8.100 untuk yang 12 kilogram, berlaku sembilan hari mulai 15 Agustus, khusus untuk isi ulang alias refill, bukan pembelian tabung baru, dan tanpa syarat belanja minimum. Karena syaratnya refill, promo ini menyasar pelanggan Bright Gas yang sudah punya tabung, bukan orang yang baru mau beralih dari elpiji 3 kilogram bersubsidi ke gas non-subsidi ini. Pola diskon berbatas waktu yang dikaitkan dengan hari besar nasional seperti ini lazim dipakai untuk mendongkrak penjualan sesaat, bukan mengubah harga secara permanen. Yang akan menunjukkan apakah ini sekadar promo musiman atau bagian dari strategi harga yang lebih panjang adalah apa yang terjadi pada harga Bright Gas begitu periode promo berakhir pada 23 Agustus."
  },
  {
@@ -177,7 +177,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Container ships and cranes at a busy Indonesian port at sunrise, workers coordinating cargo loading operations",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/10/08/6704ec741d63d-the-fed-diprediksi-turunkan-suku-bunga-lagi-berikut-dampaknya-di-pasar-kripto-dan-yang-harus-dilakukan-investor_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Setelah data inflasi Juli dirilis, peluang The Fed menaikkan suku bunga pada pertemuan September turun menjadi 42 persen, menurut penghitungan pasar futures suku bunga yang dipantau CME Group. Reaksi ini langsung terlihat di pasar keuangan AS, kontrak berjangka saham naik dan imbal hasil surat utang pemerintah AS turun, tanda investor bersedia menerima bunga lebih rendah karena merasa inflasi mulai terkendali. Kenaikan CPI yang hanya 0,1 persen ini melanjutkan pola Juni yang juga moderat, jadi datanya mengarah ke pelambatan inflasi yang bertahap, bukan lonjakan atau penurunan tiba-tiba. Yang masih jadi ganjalan adalah harga energi, yang meski turun 1,5 persen dalam sebulan, secara tahunan masih naik 14,7 persen dan disebut sensitif terhadap situasi di Timur Tengah, sehingga arah pelambatan ini baru akan lebih terkonfirmasi lewat data inflasi Agustus dan keputusan The Fed pada pertemuan September."
  },
  {
@@ -203,7 +203,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A gas station attendant filling a motorcycle fuel tank at a busy Indonesian filling station in late afternoon light.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/31/6a6ccdf89706f-ilustrasi-petugas-melayani-pengisian-bahan-bakar-minyak-bbm_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan harga Pertalite, melainkan siapa yang boleh membelinya dengan harga subsidi, yaitu rumah tangga di desil 9 dan 10, dua kelompok dengan tingkat pengeluaran tertinggi menurut data kesejahteraan pemerintah. Kalau mekanismenya jadi berjalan, yang paling merasakan dampak adalah rumah tangga di kelompok itu, yang selama ini terbiasa mengisi Pertalite tapi kini bisa diarahkan ke BBM nonsubsidi. Pernyataan Menkeu Purbaya bahwa pembatasan dilakukan bertahap, bukan langsung menyeluruh, menunjukkan arah kebijakan ini condong ke penyaringan penerima subsidi secara berjenjang berdasarkan data, bukan pencabutan subsidi Pertalite sekaligus. Yang akan memastikan arah ini adalah mekanisme teknis final dari Kemenkeu dan ESDM, yang menurut berita ini masih dalam tahap kajian dan belum diumumkan."
  },
  {
@@ -229,7 +229,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A gas station attendant filling a car fuel tank at a busy roadside station, daytime, signage blurred in background",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/17/691b1cf8cd713-terungkap-penyebab-394-ribu-kendaraan-tidak-bisa-isi-pertalite-lagi_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan konkretnya ada di sisi teknis: sistem SPBU akan dibuat menolak otomatis transaksi Pertalite begitu data menunjukkan pembelinya masuk desil 9 atau 10, dua kelompok rumah tangga dengan pengeluaran per kapita tertinggi. Yang langsung terdampak adalah rumah tangga di kelompok itu, yang harus beralih ke Pertamax dengan harga nonsubsidi, sementara delapan desil di bawahnya untuk saat ini tidak disentuh aturan ini. Kata kunci dari Purbaya adalah 'bertahap', bukan langsung menyeluruh, jadi pola yang terlihat mengarah ke penyempitan sasaran subsidi Pertalite selangkah demi selangkah, bukan pencabutan sekaligus untuk semua desil menengah. Yang akan menentukan apakah pembacaan ini benar adalah aturan teknis final dari Kementerian Keuangan dan ESDM serta kepastian tanggal berlakunya, yang menurut rencana jatuh sebelum 2027."
  },
  {
@@ -254,7 +254,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Heavy excavator loading coal onto a haul truck in an open-pit mine under overcast sky",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/01/23/69730e85cb806-saham-ptro-auto-reject-bawah-analis-tetap-optimistis-prospek-petrosea-ke-depan_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah PTRO menambah kontrak jasa tambang senilai Rp9,3 triliun, dengan porsi terbesar Rp7,7 triliun datang dari proyek milik PBC yang akan memproduksi 42 juta ton batu bara. Kontrak ini berdurasi seumur tambang, artinya PTRO akan terus mengerjakan proyek selama cadangan batu bara di lokasi itu masih ada, bukan untuk jangka waktu tetap seperti setahun atau dua tahun. Pihak yang terdampak langsung adalah PTRO sebagai penyedia jasa tambang, serta grup SINI selaku pemilik izin tambang di Kapuas, Kalimantan Tengah. Angka Rp9,3 triliun itu dihitung dari harga acuan batu bara pada 23 Juli 2026, sehingga pendapatan riil yang diterima PTRO nanti akan naik turun mengikuti harga batu bara selama proyek berjalan, bukan angka tetap yang langsung cair. Yang perlu dicermati berikutnya adalah laporan produksi dan pendapatan PTRO dari proyek ini, karena proyeksi pendapatan SINI sebesar Rp45,6 triliun sepanjang masa kontrak masih berupa perkiraan, bukan kepastian."
  },
  {
@@ -279,7 +279,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of modest rental houses along a narrow residential alley in an Indonesian city, afternoon light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/24/6a62cbf2338d5-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Purbaya dan DJP kompak membantah ada pajak baru untuk kontrakan, tapi keduanya tidak membantah bahwa pemerintah tetap mengejar target menaikkan rasio pajak terhadap ekonomi nasional, dari sekitar 10 persen menjadi 10,16 sampai 10,5 persen tahun depan. Rasio ini sederhananya membandingkan berapa banyak pajak yang masuk ke kas negara dengan total nilai ekonomi Indonesia, jadi kalau targetnya naik, pemerintah butuh sumber penerimaan tambahan dari suatu tempat. Kemenkeu sendiri sudah bilang sasarannya adalah sektor dan kelompok wajib pajak yang selama ini bayar lebih kecil dari yang seharusnya bisa mereka bayar, tapi belum menyebut sektor mana persis. Pemilik kontrakan untuk saat ini memang tidak disebut sebagai target khusus, namun arah kebijakannya tetap ke perluasan basis pajak, bukan pengurangan. Yang akan menunjukkan sektor mana yang benar-benar disasar adalah dokumen program kerja resmi DJP 2027 begitu diterbitkan."
  },
  {
@@ -304,7 +304,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Bank teller counter with staff processing transactions in a busy branch office, natural daylight, Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/05/6a4a0addd9c9b-wisma-danantara_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah status keuntungan Danantara, dari sepenuhnya dikelola lembaga itu sendiri menjadi sebagian dialihkan ke APBN mulai tahun ini, meski besaran dan skema penyalurannya belum diumumkan. Pihak yang langsung terdampak adalah Danantara sebagai pengelola investasi negara dan APBN sebagai penerima dana tambahan, sementara publik luas terdampak secara tidak langsung lewat program yang dibiayai anggaran negara. Langkah ini menambah daftar upaya pemerintah mencari sumber pendapatan di luar pajak, sejalan dengan pernyataan Purbaya bahwa berbagai cara akan dimanfaatkan agar anggaran tetap berkesinambungan. Arahnya mengindikasikan pemerintah mulai mengandalkan aset dan investasi negara sebagai bantalan tambahan penerimaan, bukan hanya pajak. Yang akan memastikan seberapa besar peran ini adalah kesepakatan mekanisme antara Kementerian Keuangan dan Danantara yang menurut Purbaya masih dibahas."
  },
  {
@@ -329,7 +329,7 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Busy stock exchange lobby in Jakarta with professionals walking past tall glass windows during midday, blurred motion, no readable signage.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f7cce47a526-pekerja-berjalan-di-samping-layar-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
-  "kreditFoto": "",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Penguatan 1,69 persen ini terjadi tepat sebelum MSCI mengumumkan hasil peninjauan berkala indeksnya untuk Agustus 2026, dan kenaikannya tidak merata: sektor infrastruktur melonjak 4,74 persen dan energi 3,35 persen, jauh di atas kenaikan pasar secara umum. Pola seperti ini lazim terjadi menjelang pengumuman MSCI, sebab banyak dana investasi global mengikuti komposisi indeks itu secara otomatis, sehingga begitu ada dugaan saham tertentu akan dimasukkan, uang asing cenderung masuk lebih dulu sebelum keputusan resmi keluar. Pihak yang paling terdampak adalah investor dan emiten di sektor infrastruktur serta energi, karena merekalah yang paling diuntungkan bila spekulasi itu benar dan paling rawan terkoreksi bila meleset. Pergerakan hari ini lebih tepat dibaca sebagai posisi ancang-ancang pasar, bukan kepastian bahwa sektor tersebut akan masuk revisi, dan yang akan menegaskan arahnya adalah pengumuman resmi MSCI berikut reaksi pasar begitu hasilnya diumumkan."
  },
  {

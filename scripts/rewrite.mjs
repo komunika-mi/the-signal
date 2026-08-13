@@ -118,6 +118,32 @@ const BAHASA_AWAM = [
   '   bulan percepatan belum tentu jadi tren."',
 ].join('\n');
 
+// Merangkum bukan berarti memangkas inti. Contoh nyata, 13 Agustus 2026, dan
+// pemiliknya sendiri yang menegur: "kelihatan kurang berbobot, banyak inti
+// yang hilang".
+//
+// Sumbernya berjudul "Rincian Lengkap Saham yang Masuk dan Keluar Rebalancing
+// MSCI", 11 paragraf, memuat daftar utuh sembilan saham yang keluar dari
+// indeks small cap. Versi kita menyebut tiga saja lalu menutupnya dengan kata
+// "termasuk". Padahal SELURUH nilai berita itu ada pada kelengkapan daftarnya.
+// Pembaca yang ingin tahu apakah sahamnya kena, tidak terjawab.
+//
+// Yang hilang bukan kalimat pemanis, melainkan justru bagian yang dicari orang.
+const KELENGKAPAN = [
+  'JANGAN MEMANGKAS INTI:',
+  '- Merangkum berarti membuang basa-basi dan pengulangan, BUKAN membuang',
+  '  fakta. Kalau sumbernya padat, tulisannya boleh lebih panjang.',
+  '- Kalau nilai berita itu justru pada KELENGKAPAN daftar, misalnya daftar',
+  '  saham yang masuk dan keluar indeks, daftar harga, jadwal, atau daerah',
+  '  terdampak, sebutkan daftarnya UTUH. Dilarang menulis "termasuk A, B, dan',
+  '  C" untuk daftar yang bisa dimuat seluruhnya. Pembaca datang justru untuk',
+  '  memeriksa apakah miliknya ada di daftar itu.',
+  '- Angka, tanggal, nama pihak, nilai transaksi, dan tenggat WAJIB ikut.',
+  '  Itu yang membuat berita bisa dipakai, bukan sekadar dibaca.',
+  '- Yang boleh dibuang: kalimat seremonial, pujian, pengulangan, dan kalimat',
+  '  penutup hampa seperti "diharapkan dapat mendorong pertumbuhan".',
+].join('\n');
+
 const ATURAN_FOTO = [
   'ATURAN FIELD "foto":',
   '- Tulis dalam bahasa Inggris, satu kalimat, 12-25 kata.',
@@ -280,6 +306,8 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     '',
     BAHASA_AWAM,
     '',
+    KELENGKAPAN,
+    '',
     'ATURAN KERAS untuk catatan:',
     '- WAJIB bersandar pada angka atau fakta spesifik yang ADA di DATA. Kalau',
     '  tidak ada yang konkret untuk dipegang, KOSONGKAN saja ("catatan": "").',
@@ -305,7 +333,9 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     '  "judul": string,         // maksimal 70 karakter, tandai SATU kata kunci dengan kurung siku, contoh: "Harga BBM [Turun] Lagi"',
     '  "deck": string,          // ringkasan 1-2 kalimat, maksimal 200 karakter',
     '  "kategori": string,      // salah satu dari daftar kategori',
-    '  "paragraf": string[],    // 3-4 paragraf teks biasa, tanpa HTML',
+    '  "paragraf": string[],    // 3-6 paragraf teks biasa, tanpa HTML.',
+    '                           // Sesuaikan dengan kepadatan sumbernya, jangan',
+    '                           // dipaksa pendek kalau isinya memang banyak.',
     '  "catatan": string,       // catatan redaksi 3-4 kalimat, ATAU "" kalau tak ada yang konkret',
     '  "tag": string[],         // 2-4 tag pendek',
     '  "foto": string           // adegan foto, lihat aturan di bawah',
@@ -340,7 +370,11 @@ export async function rangkumArtikel(bahan, { pemerintah = false } = {}) {
     sourceUrl: bahan.url,
     sourceLabel: bahan.lembaga || undefined,   // kosong = tvOne (bawaan)
     tags: (hasil.tag || []).slice(0, 4),
-    body: (hasil.paragraf || []).slice(0, 4),
+    // Dulu dipotong keras di 4 paragraf. Itu batas kedua yang tidak kelihatan:
+    // model bisa saja mengembalikan enam paragraf yang semuanya perlu, lalu dua
+    // di antaranya dibuang diam-diam di sini. Sekarang mengikuti batas yang
+    // diminta di prompt.
+    body: (hasil.paragraf || []).slice(0, 6),
     fotoAdegan: (hasil.foto || '').trim(),
     // Foto asli dari sumber, kalau ada. Dipakai lebih dulu daripada ilustrasi
     // AI: foto rapat sungguhan adalah dokumentasi, ilustrasi cuma dekorasi.
@@ -498,6 +532,8 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '',
     BAHASA_AWAM,
     '',
+    KELENGKAPAN,
+    '',
     GAYA,
     '',
     'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
@@ -505,7 +541,7 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '  "layak": boolean,',
     '  "judul": string,      // maks 70 karakter, sebut kode emiten, tandai SATU kata kunci dengan kurung siku',
     '  "deck": string,       // ringkasan 1-2 kalimat, maks 200 karakter',
-    '  "paragraf": string[], // 2-3 paragraf teks biasa, uraikan isi dokumen',
+    '  "paragraf": string[], // 2-4 paragraf teks biasa, uraikan isi dokumen',
     '  "catatan": string,    // catatan redaksi, 3-5 kalimat, sesuai poin (a), (b), (c)',
     '  "sentimen": string,   // persis salah satu: "positif" | "negatif" | "netral"',
     '  "tag": string[],      // 2-4 tag, sertakan kode emiten',
@@ -560,7 +596,9 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     sourceLabel: 'IDX',
     emiten,
     tags: Array.from(new Set([...(hasil.tag || []), emiten].filter(Boolean))).slice(0, 4),
-    body: (hasil.paragraf || []).slice(0, 3),
+    // Dinaikkan dari 3, sejalan dengan aturan KELENGKAPAN. Laporan yang
+    // memuat daftar atau banyak angka tidak boleh terpotong diam-diam.
+    body: (hasil.paragraf || []).slice(0, 5),
     fotoAdegan: (hasil.foto || '').trim(),
     takeaway: hasil.catatan || '',
     sentimen: ['positif', 'negatif', 'netral'].includes(String(hasil.sentimen).toLowerCase())

@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
+  "category": "Teknologi",
+  "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",
+  "deck": "Finnet menghadirkan sistem pembayaran digital untuk visa kedatangan elektronik (e-VOA) sehingga wisatawan asing bisa bertransaksi pakai kartu bank negara asal, sekaligus mempercepat penerimaan negara.",
+  "image": "assets/img/e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T21:41:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459985-sistem-transaksi-digital-ini-upaya-dorong-peningkatan-wisatawan-asing",
+  "tags": [
+   "e-VOA",
+   "wisatawan asing",
+   "Finnet",
+   "pembayaran digital"
+  ],
+  "body": [
+   "Wisatawan asing yang berkunjung ke Indonesia kini bisa mengurus dan membayar Visa on Arrival elektronik atau e-VOA secara daring, memakai kartu pembayaran internasional dari negara asal mereka. Kemudahan ini ditopang infrastruktur pembayaran digital yang diklaim mampu memproses transaksi secara cepat, aman, dan tersedia 24 jam. Hal ini penting karena pengalaman pertama begitu wisatawan tiba ikut memengaruhi citra Indonesia di mata pelancong asing.",
+   "Sistem pembayaran ini dijalankan lewat Finpay Payment Gateway milik Finnet, yang menghubungkan layanan keimigrasian dengan jaringan pembayaran internasional. Vice President Government Business Finnet, Anugrah, menyebut keandalan sistem pembayaran menjadi titik awal interaksi wisatawan asing dengan layanan digital Indonesia. Menurutnya, proses pembayaran e-VOA dirancang agar bisa diselesaikan wisatawan dari berbagai negara dengan mudah dan nyaman.",
+   "Selain memudahkan wisatawan, sistem ini disebut turut mempercepat proses penerimaan negara karena setiap transaksi tervalidasi dan terdokumentasi secara elektronik. Anugrah menyebut pemerintah diuntungkan lewat proses yang lebih cepat dan transparan dibanding pencatatan manual. Finnet menempatkan langkah ini sebagai bagian dari penguatan ekosistem pembayaran digital nasional sekaligus transformasi layanan publik."
+  ],
+  "fotoAdegan": "Tourists with rolling suitcases walking through a busy airport arrival hall toward immigration checkpoints, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/17/69e1f18e7fe4a-ilustrasi-wisatawan-mancanegara-dan-lokal-menikmati-destinasi-wisata-kebudayaan-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah cara bayar e-VOA, wisatawan asing sekarang bisa membayar visa kedatangan elektronik langsung pakai kartu bank dari negara asalnya lewat sistem yang dikelola Finpay Payment Gateway, tanpa disebutkan sejak kapan skema ini berjalan atau seberapa luas sudah diterapkan di titik kedatangan. Yang terdampak ada dua pihak, wisatawan asing yang mengurus visa kedatangan, dan pemerintah lewat instansi imigrasi yang menerima pembayaran itu sebagai penerimaan negara. Berita ini belum menyebut angka konkret, seperti jumlah wisatawan yang sudah memakai jalur ini, nilai transaksi yang terkumpul, atau berapa banyak titik kedatangan yang sudah menerapkannya, sehingga belum bisa dibaca apakah kemudahan ini benar mendongkrak kunjungan wisatawan asing atau sekadar mempermudah proses administrasi yang sudah ada. Yang perlu ditunggu adalah data resmi dari Ditjen Imigrasi atau Kementerian Pariwisata soal jumlah pengguna e-VOA dan realisasi penerimaan negara dari jalur ini, karena itu yang akan menunjukkan apakah kemudahan pembayaran ini berkorelasi dengan kenaikan jumlah wisatawan.",
+  "imageV": "mst4q1ao"
+ },
+ {
+  "slug": "kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa",
+  "category": "Makroekonomi",
+  "title": "Kemendes PDT Gandeng tvOne, Angkat Potensi [75 Ribu] Desa",
+  "deck": "Kemendes PDT RI dan tvOne teken MoU untuk mempublikasikan potensi ekonomi 75.296 desa di 416 kabupaten dan 38 provinsi.",
+  "image": "assets/img/kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T21:16:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459983-kemendes-pdt-ri-gandeng-tvone-teken-mou-angkat-potensi-75-ribu-desa-di-indonesia",
+  "tags": [
+   "Kemendes PDT",
+   "tvOne",
+   "MoU",
+   "ekonomi desa"
+  ],
+  "body": [
+   "Kementerian Desa dan Pembangunan Daerah Tertinggal Republik Indonesia (Kemendes PDT RI) resmi menjalin kerja sama dengan tvOne, lewat penandatanganan nota kesepahaman di Jakarta, Jumat (14/8/2026). Kerja sama ini ditujukan untuk memperluas publikasi potensi ekonomi desa ke masyarakat luas, sebagai bagian dari upaya menjadikan desa sebagai salah satu penggerak pertumbuhan ekonomi nasional.",
+   "Menteri Desa dan PDT, Yandri Susanto, menyebut Indonesia memiliki 75.296 desa yang tersebar di 416 kabupaten dan 38 provinsi. Menurutnya, jumlah desa sebanyak itu menyimpan potensi ekonomi besar yang selama ini kurang terekspos, sehingga perlu dukungan media agar dikenal lebih luas, termasuk oleh kalangan muda seperti generasi milenial dan gen Z.",
+   "Yandri mengaitkan kerja sama ini dengan Asta Cita keenam Presiden Prabowo Subianto, yaitu membangun ekonomi dari desa dan dari bawah untuk pemerataan sekaligus pengentasan kemiskinan. Penandatanganan MoU dilakukan di Studio The Convergence Indonesia, Kuningan, Jakarta Selatan, menjelang peringatan Hari Ulang Tahun ke-81 Kemerdekaan Republik Indonesia."
+  ],
+  "fotoAdegan": "Farmers loading fresh vegetables onto a truck at a rural village market at dawn, misty hills in the background, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f2216720da-penandatanganan-mou-kemendes-pdt-ri-dengan-tvone_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah kesepakatan kerja sama publikasi antara Kemendes PDT dan tvOne, yang mencakup 75.296 desa di 416 kabupaten dan 38 provinsi. Pihak yang berpotensi terdampak adalah desa-desa dan pelaku usaha di dalamnya, karena produk dan potensi ekonomi mereka dijanjikan mendapat sorotan media yang lebih luas dari sebelumnya. Namun berita ini belum menyebutkan hal konkret seperti berapa desa yang akan diliput dalam setahun, skema pembiayaan kerja sama, atau kriteria desa yang diprioritaskan lebih dulu. Tanpa detail itu, belum bisa dipastikan apakah MoU ini akan berlanjut jadi program publikasi rutin atau berhenti di seremoni penandatanganan saja. Yang perlu dicermati adalah realisasi pertamanya, misalnya liputan atau tayangan desa seperti apa yang benar-benar muncul dalam beberapa bulan ke depan.",
+  "imageV": "mst4q1xz"
+ },
+ {
   "slug": "bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal",
   "category": "UMKM",
   "title": "BNPB-PNM Dorong Warga Agam [Bangkit] Lewat Usaha Lokal",

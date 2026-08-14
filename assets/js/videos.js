@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "X2iFftwFwqo",
+  "title": "Mendes PDT: Kopdes Belum Sukses, Masyarakat Diminta Sabar",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal mengakui program Koperasi Desa belum berjalan optimal dan meminta masyarakat bersabar menanti hasilnya.",
+  "takeaway": "Program koperasi desa digadang jadi penggerak ekonomi baru di tingkat desa, sehingga perkembangannya relevan bagi pembaca yang mengikuti isu UMKM."
+ },
+ {
+  "id": "fCoq00Isco8",
+  "title": "Rincian Anggaran Program Prioritas Pemerintahan Prabowo",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Pemerintahan Presiden Prabowo Subianto mengalokasikan ratusan triliun rupiah dari APBN untuk menjalankan 11 program prioritas nasional.",
+  "takeaway": "Rincian alokasi APBN ini membantu pembaca memahami arah kebijakan fiskal pemerintah dan sektor mana yang mendapat prioritas anggaran."
+ },
+ {
+  "id": "zCfI3Y4QG_s",
+  "title": "Pemerintah Siapkan Anggaran Rp4.097 Triliun untuk 2027",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Pemerintah menyiapkan delapan program prioritas untuk tahun 2027 dengan dukungan anggaran mencapai Rp4.097 triliun.",
+  "takeaway": "Besaran anggaran ini menunjukkan skala kebijakan fiskal pemerintah yang berpotensi berdampak luas pada perekonomian nasional."
+ },
+ {
   "id": "RQYc7uSgUxE",
   "title": "Desa Sebagai Kekuatan Ekonomi Baru Indonesia",
   "category": "Makroekonomi",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "Kabar Khusus",
   "summary": "Presiden Prabowo menyebut lembaga pemeringkat kredit asal China turut memberikan peringkat AAA untuk Indonesia, menyusul pengakuan serupa dari lembaga rating negara Barat.",
   "takeaway": "Peringkat kredit tertinggi dari lembaga internasional menjadi sinyal penting bagi kepercayaan investor terhadap perekonomian Indonesia."
- },
- {
-  "id": "-8pBINsXmyA",
-  "title": "Prabowo Imbau Masyarakat Jujur Isi Sensus Ekonomi 2026",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Presiden Prabowo mengimbau masyarakat mengisi Sensus Ekonomi 2026 secara jujur karena data BPS yang akurat menjadi dasar penyusunan kebijakan ekonomi pemerintah.",
-  "takeaway": "Kualitas data sensus menentukan ketepatan kebijakan ekonomi yang akan diambil pemerintah ke depan."
- },
- {
-  "id": "eGrQGxD-R6E",
-  "title": "Prabowo: BUMN Tak Boleh Jadi Milik Direksi atau Penguasa",
-  "category": "BUMN",
-  "program": "tvOneNews",
-  "summary": "Pemerintah menemukan 1.074 BUMN, termasuk perusahaan anak hingga cicit, dan telah menutup 290 di antaranya sebagai bagian dari perampingan.",
-  "takeaway": "Perampingan BUMN berdampak langsung pada efisiensi pengelolaan aset negara dan tata kelola perusahaan pelat merah."
- },
- {
-  "id": "S2Ck7DJ9KvY",
-  "title": "Prabowo: Ekonomi RI Tetap Kokoh di Tengah Perang Dagang",
-  "category": "Global",
-  "program": "Kabar Khusus",
-  "summary": "Presiden Prabowo menyatakan ekonomi Indonesia tetap bertahan di tengah tekanan suku bunga global, pelemahan nilai tukar, dan ketegangan perdagangan dunia.",
-  "takeaway": "Ketahanan ekonomi domestik penting dicermati investor di tengah gejolak geopolitik dan perang dagang global."
  }
 ];

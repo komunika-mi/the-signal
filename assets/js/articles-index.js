@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
+  "category": "Teknologi",
+  "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",
+  "deck": "Finnet menghadirkan sistem pembayaran digital untuk visa kedatangan elektronik (e-VOA) sehingga wisatawan asing bisa bertransaksi pakai kartu bank negara asal, sekaligus mempercepat penerimaan negara.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan.jpg",
+  "imageV": "mst4q1ao",
+  "tags": [
+   "e-VOA",
+   "wisatawan asing",
+   "Finnet",
+   "pembayaran digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459985-sistem-transaksi-digital-ini-upaya-dorong-peningkatan-wisatawan-asing"
+ },
+ {
+  "slug": "kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa",
+  "category": "Makroekonomi",
+  "title": "Kemendes PDT Gandeng tvOne, Angkat Potensi [75 Ribu] Desa",
+  "deck": "Kemendes PDT RI dan tvOne teken MoU untuk mempublikasikan potensi ekonomi 75.296 desa di 416 kabupaten dan 38 provinsi.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa.jpg",
+  "imageV": "mst4q1xz",
+  "tags": [
+   "Kemendes PDT",
+   "tvOne",
+   "MoU",
+   "ekonomi desa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459983-kemendes-pdt-ri-gandeng-tvone-teken-mou-angkat-potensi-75-ribu-desa-di-indonesia"
+ },
+ {
   "slug": "bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal",
   "category": "UMKM",
   "title": "BNPB-PNM Dorong Warga Agam [Bangkit] Lewat Usaha Lokal",

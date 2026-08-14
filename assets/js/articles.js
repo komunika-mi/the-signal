@@ -1,5 +1,6 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
@@ -1264,6 +1265,33 @@ var ARTICLES = [
   "imageV": "tjnrr8"
  },
  {
+  "slug": "ekad-pengendali-jajaki-lepas-51-saham-ke-fujian-youyi-china",
+  "category": "Aksi Korporasi",
+  "title": "EKAD: Pengendali jajaki lepas [51%] saham ke Fujian Youyi China",
+  "deck": "PT Ekadharma Inti Perkasa, pemegang saham mayoritas EKAD, teken nota kesepahaman awal untuk menjual 51 persen saham EKAD ke produsen pita perekat asal China, Fujian Youyi.",
+  "image": "assets/img/ekad-pengendali-jajaki-lepas-51-saham-ke-fujian-youyi-china.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T13:19:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/063d5e0629_86cabb7b02.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EKAD",
+  "tags": [
+   "EKAD",
+   "akuisisi saham",
+   "pemegang saham mayoritas",
+   "Fujian Youyi"
+  ],
+  "body": [
+   "PT Ekadharma Inti Perkasa, pemegang saham mayoritas Ekadharma International Tbk (EKAD) dengan kepemilikan 82,26 persen atau 2.874.012.300 lembar saham, pada 11 Agustus 2026 menandatangani Letter of Intent atau nota kesepahaman awal dengan Fujian Youyi Adhesive Tape Group Co., Ltd., produsen pita perekat asal Provinsi Fujian, China. Kesepakatan awal ini membuka jalan bagi rencana penjualan sebagian saham EKAD dari Ekadharma Inti Perkasa kepada perusahaan China tersebut.",
+   "Target transaksi yang disebutkan dalam dokumen adalah 51 persen dari total saham EKAD yang beredar, setara 1.781.876.250 lembar saham, seluruhnya berasal dari saham yang saat ini dipegang Ekadharma Inti Perkasa. Perusahaan belum mengungkapkan harga per saham maupun total nilai transaksi dalam keterbukaan informasi ini.",
+   "Dalam dokumen resmi ke Bursa Efek Indonesia, EKAD menyatakan dampak kejadian ini terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha perusahaan masih dicatat sebagai N/A alias belum dijelaskan. Keterbukaan informasi ini ditandatangani oleh Lie Phing selaku Corporate Secretary EKAD pada 12 Agustus 2026."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of adhesive tape moving through an automated production line inside a factory, daytime",
+  "takeaway": "Yang terjadi adalah pemegang saham pengendali EKAD, PT Ekadharma Inti Perkasa, membuka negosiasi awal untuk melepas sebagian besar sahamnya di EKAD kepada produsen pita perekat asal China, Fujian Youyi Adhesive Tape Group, lewat nota kesepahaman yang sifatnya belum mengikat dan belum tentu berlanjut ke transaksi final. Karena ini jual beli saham antar pemegang saham lama dan calon pembeli, bukan penerbitan saham baru, transaksi ini tidak langsung menambah kas atau mengubah jumlah saham beredar EKAD, yang berubah adalah siapa yang mengendalikan perusahaan. Secara fundamental, laporan ini kami nilai netral karena perusahaan sendiri belum menjelaskan dampaknya dan belum mencantumkan harga saham maupun nilai total transaksi. Sebagai gambaran, jika rencana 51 persen ini terealisasi penuh, kepemilikan Ekadharma Inti Perkasa akan turun dari 82,26 persen menjadi sekitar 31,25 persen, sementara Fujian Youyi berpotensi menjadi pengendali baru EKAD dengan 51 persen saham. Investor perlu menunggu kejelasan harga, jadwal, dan rencana bisnis pasca-akuisisi sebelum kesepakatan ini bisa dinilai lebih jauh.",
+  "sentimen": "netral",
+  "imageV": "mssayns7"
+ },
+ {
   "slug": "pengusaha-ri-teken-ekspor-cokelat-bubuk-ke-arab-saudi",
   "category": "Bisnis",
   "title": "Pengusaha RI Teken Ekspor [Cokelat] Bubuk ke Arab Saudi",
@@ -1288,6 +1316,32 @@ var ARTICLES = [
   "takeaway": "Nilai kesepakatan ini, sekitar Rp3,5 miliar, tergolong kecil dibandingkan total perdagangan nonmigas Indonesia-Arab Saudi yang mencapai USD 1,68 miliar pada semester pertama 2026. Pihak yang terdampak langsung adalah PT Visi Indonesia Parama sebagai eksportir cokelat bubuk dan karbon aktif, sementara skema business matching ITPC Jeddah berpotensi dibuka untuk pelaku usaha lain dengan produk sejenis. Arahnya tampak pada upaya diversifikasi ekspor Indonesia ke Arab Saudi, yang selama ini didominasi kendaraan dan minyak nabati, menuju produk bernilai tambah dalam skala lebih kecil. Untuk memastikan apakah pola ini berlanjut atau berhenti sebagai transaksi tunggal, perlu dilihat apakah ITPC Jeddah menghasilkan kesepakatan serupa dari business matching berikutnya.",
   "fotoAdegan": "Factory workers in hairnets seal bags of cocoa powder on a production line inside a food processing plant.",
   "imageV": "tjnkee"
+ },
+ {
+  "slug": "mglv-ubah-alamat-dan-email-corporate-secretary",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Ubah Alamat dan Email [Corporate Secretary]",
+  "deck": "NexAI Digital Infrastruktur memperbarui alamat kantor dan surel resmi corporate secretary, sementara pejabatnya tetap sama.",
+  "image": "assets/img/mglv-ubah-alamat-dan-email-corporate-secretary.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T13:13:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5d880bd14f_506e8a4b20.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "Corporate Secretary",
+   "Keterbukaan Informasi",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menyampaikan pemberitahuan Perubahan Corporate Secretary melalui surat bernomor 008/NexAI/Corsec/VIII/2026 kepada Bursa Efek Indonesia, efektif 12 Agustus 2026. Jabatan Corporate Secretary tetap dipegang oleh Putra Harianto Bate'e, namun perusahaan memperbarui alamat kantor, nomor telepon, dan alamat surel resmi yang digunakan untuk komunikasi kepada otoritas pasar modal dan publik.",
+   "Alamat lama tercatat di Jalan Kemang Raya Nomor 17, Jakarta 12730, dengan surel corsec@pancaanugrahwisesa.com. Alamat baru pindah ke Pacific Century Place Lantai 38, SCBD Lot 10, Jalan Jenderal Sudirman Kavling 52-53, Kelurahan Senayan, Kecamatan Kebayoran Baru, Jakarta Selatan 12190, dengan nomor telepon baru 021-7180349 dan alamat surel baru corporatesecretary@nexai-group.com."
+  ],
+  "fotoAdegan": "Office workers walking through a glass-fronted lobby of a modern high-rise tower in a Jakarta business district, morning light",
+  "takeaway": "Corporate secretary adalah jabatan yang wajib dimiliki setiap perusahaan terbuka sebagai penghubung resmi dengan OJK dan bursa, tugasnya memastikan setiap informasi penting perusahaan disampaikan ke publik secara tepat waktu dan akurat. Perubahan kali ini murni soal alamat kantor dan kontak, bukan pergantian orang, sehingga tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham. Yang menarik dicatat, alamat surel berubah dari domain pihak ketiga (pancaanugrahwisesa.com) menjadi domain internal perusahaan (nexai-group.com), yang bisa menandakan fungsi corporate secretary kini dikelola lebih dekat dengan induk usaha, tapi dokumen tidak menjelaskan alasannya secara eksplisit. Secara fundamental laporan ini netral karena tidak ada perubahan kepemilikan, keuangan, atau keputusan bisnis yang diumumkan, sekadar pembaruan data kontak resmi.",
+  "sentimen": "netral",
+  "imageV": "mssaz3zh"
  },
  {
   "slug": "toyota-dan-kemendag-bahas-ekspor-gcc-ditarget-november",
@@ -1521,6 +1575,33 @@ var ARTICLES = [
   "imageV": "tjnrsi"
  },
  {
+  "slug": "nick-direksi-tambah-kepemilikan-saham-68-700-lembar",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Tambah] Kepemilikan Saham 68.700 Lembar",
+  "deck": "Direktur Charnic Capital, Nicholas Santoso, menambah kepemilikan saham NICK lewat pembelian tidak langsung senilai sekitar Rp106,55 juta.",
+  "image": "assets/img/nick-direksi-tambah-kepemilikan-saham-68-700-lembar.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T10:02:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-7560-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "transaksi orang dalam"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) melaporkan perubahan kepemilikan saham oleh salah satu direksinya, Nicholas Santoso, kepada Otoritas Jasa Keuangan pada 12 Agustus 2026. Berdasarkan laporan itu, jumlah saham yang dipegang Nicholas Santoso bertambah dari 81.600 lembar menjadi 150.300 lembar, atau naik 68.700 lembar. Dengan penambahan tersebut, hak suaranya di perusahaan naik dari 0,01 persen menjadi 0,02 persen dari total saham NICK yang beredar.",
+   "Penambahan itu berasal dari empat transaksi pembelian tidak langsung untuk tujuan investasi. Pada 10 Agustus 2026 tercatat pembelian 100 lembar saham biasa di harga Rp1.535 per lembar, 100 lembar di harga Rp1.540, dan 27.400 lembar di harga Rp1.545. Sehari berikutnya, 11 Agustus 2026, menyusul pembelian 41.100 lembar di harga Rp1.555 per lembar. Total keempat transaksi itu setara 68.700 lembar saham dengan nilai gabungan sekitar Rp106,55 juta.",
+   "Laporan ini disampaikan sebagai kewajiban keterbukaan informasi bagi direksi dan komisaris perusahaan terbuka, sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap perubahan kepemilikan saham oleh orang dalam dilaporkan ke regulator."
+  ],
+  "fotoAdegan": "A financial district street scene with pedestrians walking past glass office towers reflecting late afternoon sunlight.",
+  "takeaway": "Ini adalah laporan wajib seorang direksi yang mengabarkan bahwa dia menambah kepemilikan sahamnya sendiri di perusahaan tempat dia menjabat, bukan aksi korporasi yang melibatkan kas perusahaan. Yang tersentuh hanyalah struktur pemegang saham dan hak suara perorangan, bukan laporan keuangan NICK, karena pembelian ini terjadi di pasar sekunder antar pemegang saham sehingga tidak menambah modal atau mengubah jumlah total saham beredar perusahaan. Penilaian kami netral, karena meski ini pembelian yang biasanya dibaca sebagai sinyal keyakinan direksi terhadap perusahaannya, kepemilikan Nicholas Santoso tetap sangat kecil yaitu hanya 0,02 persen dari seluruh saham NICK, sehingga perubahan hak suaranya nyaris tidak berarti dan terlalu kecil untuk dibaca sebagai pernyataan sikap besar terhadap prospek perusahaan.",
+  "sentimen": "netral",
+  "imageV": "mssazp8c"
+ },
+ {
   "slug": "rupiah-menguat-ke-rp17-848-pasar-cermati-calon-gubernur-bi",
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.848, Pasar Cermati Calon Gubernur BI",
@@ -1546,6 +1627,32 @@ var ARTICLES = [
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
   "kreditFoto": "tvOneNews",
   "imageV": "tjnrsj"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-tambah-218-600-saham-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro Tambah 218.600 Saham [Kepemilikan]",
+  "deck": "Dewan Komisaris Medikaloka Hermina, DR Hasmoro, membeli 218.600 saham HEAL senilai sekitar Rp170,5 juta. Hak suaranya tetap 5,03 persen.",
+  "image": "assets/img/heal-komisaris-hasmoro-tambah-218-600-saham-kepemilikan.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T09:14:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-2752-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) melaporkan ke Otoritas Jasa Keuangan bahwa anggota Dewan Komisarisnya, DR Hasmoro, telah membeli 218.600 saham perusahaan pada 10 Agustus 2026 dengan harga Rp780 per saham. Transaksi dilakukan secara tidak langsung dengan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham HEAL yang dimiliki Hasmoro naik dari 772.397.389 lembar menjadi 772.615.989 lembar. Meski jumlah sahamnya bertambah, persentase hak suaranya di perusahaan tetap di angka 5,03 persen, tidak berubah dari sebelum transaksi. Laporan disampaikan sesuai ketentuan POJK Nomor 4/2024 tentang kewajiban pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka."
+  ],
+  "fotoAdegan": "Wide shot of a modern private hospital entrance with staff and visitors passing by in daylight",
+  "takeaway": "Ini adalah laporan rutin yang wajib disampaikan setiap kali direksi atau komisaris perusahaan terbuka membeli atau menjual sahamnya sendiri, sebagai bentuk transparansi kepada publik. Yang tersentuh di sini hanya komposisi kepemilikan saham individu pejabat perusahaan, bukan struktur permodalan atau kinerja keuangan HEAL secara langsung. Nilai pembelian sekitar Rp170,5 juta ini hanya menambah 0,0283 persen dari kepemilikan Hasmoro sebelumnya, dan hak suaranya di perusahaan tidak berubah sama sekali dari 5,03 persen. Karena ukurannya sangat kecil dan tidak mengubah posisi pengendalian, penilaian kami netral. Transaksi sekecil ini terlalu tipis untuk dibaca sebagai sinyal sikap komisaris terhadap prospek perusahaan.",
+  "sentimen": "netral",
+  "imageV": "mssb02mx"
  },
  {
   "slug": "harga-pangan-12-agustus-bawang-putih-rp40-650-per-kg",
@@ -1601,6 +1708,86 @@ var ARTICLES = [
   "imageV": "tjnrsk"
  },
  {
+  "slug": "adhi-minta-pemegang-obligasi-setujui-penundaan-bunga",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Minta Pemegang Obligasi Setujui [Penundaan] Bunga",
+  "deck": "ADHI menggelar RUPO senilai Rp102,715 miliar untuk meminta persetujuan menunda pembayaran bunga ke-8, ke-9, dan ke-10.",
+  "image": "assets/img/adhi-minta-pemegang-obligasi-setujui-penundaan-bunga.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T22:17:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9575245c68_bc63bcd0ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "obligasi",
+   "RUPO"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menggelar Rapat Umum Pemegang Obligasi (RUPO) atas Obligasi Berkelanjutan IV Adhi Karya Tahap I Tahun 2024 pada 6 Agustus 2026. Rapat ini merujuk pada Perjanjian Perwaliamanatan Akta No. 10 tanggal 3 April 2024 yang dibuat di hadapan notaris Ashoya Ratam, yaitu kontrak yang mengatur hak dan kewajiban perusahaan sebagai penerbit obligasi terhadap para pemegangnya.",
+   "Agenda utama RUPO adalah meminta persetujuan pemegang obligasi untuk mengubah dan/atau menunda jadwal pembayaran bunga ke-8, ke-9, dan ke-10 dari obligasi tersebut, sebagaimana diatur dalam Pasal 5 ayat 4 perjanjian. Artinya, perusahaan mengajukan permintaan kelonggaran waktu pembayaran bunga untuk tiga periode pembayaran ke depan sekaligus, bukan hanya satu kali jatuh tempo.",
+   "Rapat ini dihadiri pemegang obligasi yang mewakili nilai pokok Rp100 miliar, setara 100 miliar suara atau 97,36 persen dari total obligasi seri ini yang masih beredar sebesar Rp102,715 miliar, sehingga syarat kuorum rapat terpenuhi. Hasil resmi RUPO tertuang dalam covernote Notaris Dewantari Handayani nomor 167/NOT/SK/AK-RUPO/VIII/2026 tanggal 6 Agustus 2026, yang diterima perusahaan pada 10 Agustus 2026."
+  ],
+  "fotoAdegan": "Construction workers reviewing steel reinforcement bars at a busy building site on an overcast morning in Jakarta.",
+  "takeaway": "RUPO adalah forum resmi bagi perusahaan penerbit surat utang untuk meminta persetujuan pemegang obligasi ketika hendak mengubah syarat pembayaran utang, dan dalam kasus ini ADHI meminta izin menunda jadwal pembayaran bunga untuk tiga periode sekaligus, yakni bunga ke-8, ke-9, dan ke-10 dari obligasi senilai Rp102,715 miliar. Yang tersentuh dari sisi kinerja perusahaan adalah arus kas dan beban bunga, karena kemampuan membayar bunga tepat waktu mencerminkan seberapa longgar kas perusahaan menutup kewajiban rutinnya. Pelaku pasar mencermati hal semacam ini karena berkaitan langsung dengan risiko gagal bayar utang, yang bisa memengaruhi kepercayaan kreditur dan biaya pinjaman perusahaan ke depan. Secara fundamental, permintaan penundaan pembayaran bunga atas tiga periode sekaligus ini condong negatif bagi ADHI, karena permintaan kelonggaran waktu semacam itu lazimnya muncul ketika arus kas perusahaan belum cukup untuk memenuhi jadwal pembayaran bunga yang sudah disepakati sebelumnya.",
+  "sentimen": "negatif",
+  "imageV": "mssb0gpp"
+ },
+ {
+  "slug": "true-telat-sampaikan-laporan-keuangan-saham-disuspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Telat Sampaikan Laporan Keuangan, Saham [Disuspensi] BEI",
+  "deck": "PT Triniti Dinamik Tbk (TRUE) belum menyerahkan laporan keuangan tahunan 2025 yang semestinya rampung akhir Maret 2026, dan sahamnya kini disetop sementara dari perdagangan oleh BEI.",
+  "image": "assets/img/true-telat-sampaikan-laporan-keuangan-saham-disuspensi-bei.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T22:10:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/128a054b2d_8acd176aa2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "suspensi saham",
+   "laporan keuangan tahunan",
+   "OJK"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) melalui surat bernomor 119/TD/VIII/2026 tertanggal 11 Agustus 2026 mengumumkan keterlambatan penyampaian Laporan Keuangan Tahunan (LKT) Tahun Buku 2025 kepada Otoritas Jasa Keuangan. Berdasarkan Pasal 4 Peraturan OJK Nomor 14/POJK.04/2022, LKT tersebut semestinya sudah diserahkan paling lambat 31 Maret 2026, sehingga pada saat pengumuman ini terbit perseroan sudah telat lebih dari empat bulan dari tenggat.",
+   "Keterlambatan ini berkaitan langsung dengan penghentian sementara perdagangan saham TRUE oleh Bursa Efek Indonesia. Perseroan menyatakan sedang berkoordinasi secara intensif dengan pihak-pihak terkait, termasuk Kantor Akuntan Publik, untuk menyelesaikan dan memfinalisasi laporan keuangan dimaksud, serta akan memenuhi persyaratan yang diperlukan agar penghentian sementara perdagangan tersebut dapat diselesaikan sesuai ketentuan yang berlaku.",
+   "Surat ini ditandatangani oleh Direktur Utama Yohanes Eddy Christianto, yang menyatakan keterlambatan tersebut tidak berdampak material terhadap kelangsungan usaha perseroan dan bahwa kegiatan operasional tetap berjalan normal. Perseroan berjanji akan menyampaikan informasi lebih lanjut apabila terdapat perkembangan material, baik soal penyelesaian laporan keuangan maupun status penghentian sementara perdagangan sahamnya."
+  ],
+  "fotoAdegan": "Construction cranes rising above an unfinished apartment complex under a cloudy sky at a Tangerang property site",
+  "takeaway": "Ini adalah pengumuman resmi soal telatnya penyerahan laporan tahunan ke OJK, laporan wajib yang membuka kondisi keuangan setahun terakhir perusahaan ke publik, dan akibatnya perdagangan sahamnya disetop sementara oleh bursa. Yang tersentuh bukan satu pos kinerja tertentu, melainkan keterbukaan informasi itu sendiri, karena publik belum tahu kondisi laba, aset, atau utang terbaru perseroan, sementara pemegang saham yang sudah telanjur punya saham ini juga tidak bisa menjualnya selama suspensi berlangsung. Secara fundamental laporan ini condong NEGATIF, sebab keterlambatannya sudah lebih dari empat bulan dari tenggat resmi, perdagangan sahamnya masih dihentikan, dan dokumen ini sendiri tidak memberi kepastian kapan laporan keuangan maupun status perdagangan akan kembali normal, meski perseroan mengklaim operasionalnya tetap berjalan normal.",
+  "sentimen": "negatif",
+  "imageV": "mssb0x3t"
+ },
+ {
+  "slug": "meds-komisaris-lepas-6-5-juta-saham-hak-suara-ke-54-74",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris Lepas 6,5 Juta Saham, Hak Suara ke [54,74%]",
+  "deck": "Dewan Komisaris MEDS, Jemmy Kurniawan, menjual 6,5 juta saham pada 10 Agustus 2026 senilai sekitar Rp477 juta, mengurangi hak suaranya dari 55,16% menjadi 54,74%.",
+  "image": "assets/img/meds-komisaris-lepas-6-5-juta-saham-hak-suara-ke-54-74.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:47:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-2031-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Jemmy Kurniawan, anggota Dewan Komisaris PT Hetzer Medical Indonesia Tbk (MEDS), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual saham perusahaan dalam dua transaksi pada 10 Agustus 2026. Transaksi pertama sebanyak 4.000.000 lembar saham biasa dijual dengan harga Rp73 per saham, dan transaksi kedua sebanyak 2.501.000 lembar dijual dengan harga Rp74 per saham. Total saham yang dilepas mencapai 6.501.000 lembar dengan nilai transaksi sekitar Rp477 juta. Laporan mencatat status kepemilikan sebagai tidak langsung, dengan tujuan transaksi berupa pengurangan jumlah saham.",
+   "Sebelum transaksi, Jemmy tercatat memegang 861.820.300 lembar saham MEDS, setara 55,16% hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 855.319.300 lembar, dengan hak suara turun menjadi 54,74%. Saham yang dilepas hanya sekitar 0,75% dari total kepemilikannya sebelum transaksi. Laporan ini disampaikan sesuai kewajiban keterbukaan berdasarkan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyline at sunrise with busy street traffic in the foreground reflecting daily business activity.",
+  "takeaway": "Laporan ini adalah kewajiban rutin bagi direksi, komisaris, atau pemegang saham besar setiap kali mereka mengubah jumlah saham yang mereka pegang di perusahaan publik, supaya publik tahu bila ada orang dalam yang menambah atau mengurangi kepemilikannya. Transaksi ini adalah jual beli saham yang sudah beredar di pasar, bukan penerbitan saham baru, sehingga jumlah total saham beredar MEDS tidak berubah, yang berubah hanya proporsi kepemilikan Jemmy Kurniawan sendiri. Pelaku pasar biasanya memperhatikan transaksi semacam ini karena bisa mengindikasikan pandangan orang dalam terhadap prospek perusahaan, terutama kalau porsi yang dilepas besar atau sampai mengubah status pengendali. Dalam kasus ini saham yang dijual hanya sekitar 0,75% dari kepemilikan Jemmy dan hak suaranya tetap di atas 54%, sehingga pengurangan ini terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap perusahaan. Dengan ukuran transaksi yang kecil dan posisi Jemmy yang tetap sebagai pemegang saham mayoritas, laporan ini dinilai netral bagi fundamental MEDS.",
+  "sentimen": "netral",
+  "imageV": "mssb1a5u"
+ },
+ {
   "slug": "purbaya-kaji-pembatasan-beli-pertalite-desil-9-10",
   "category": "Energi",
   "title": "Purbaya Kaji [Pembatasan] Beli Pertalite Desil 9-10",
@@ -1626,6 +1813,33 @@ var ARTICLES = [
   "kreditFoto": "",
   "imageV": "msr7ac1i",
   "fotoDitolak": true
+ },
+ {
+  "slug": "adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Pembayaran [Kupon] Obligasi ke Mei 2027",
+  "deck": "Pemegang Obligasi II ADCP Seri B menyetujui penundaan bunga sampai Mei 2027 dan pelonggaran syarat rasio keuangan, dengan Perseroan membayar biaya persetujuan 0,15% dari nilai pokok.",
+  "image": "assets/img/adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:24:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8c54f13e28_7e3858436f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "restrukturisasi utang",
+   "RUPO"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) melaporkan tindak lanjut hasil Rapat Umum Pemegang Obligasi (RUPO) atas Obligasi II ADCP Tahun 2022 Seri B, yang digelar 14 April 2026 dan dituangkan dalam Akta Berita Acara RUPO No. 53 serta Akta Adendum X dan Pernyataan Kembali Perjanjian Perwaliamanatan No. 54, keduanya bertanggal sama. RUPO menyetujui dua hal utama: pengesampingan atau waiver atas kewajiban ADCP memenuhi rasio keuangan sesuai Pasal 6 ayat 6.3 angka (vi) huruf a dan c dalam perjanjian perwaliamanatan, serta penundaan pembayaran bunga (kupon) obligasi.",
+   "Bunga obligasi untuk periode Mei 2026 sampai Februari 2027 tidak dibayarkan sesuai jadwal semula, melainkan digabung dengan pembayaran pokok utang saat obligasi jatuh tempo pada Mei 2027. Sebagai kompensasi atas penundaan ini, ADCP wajib membayar consent fee, yaitu semacam biaya persetujuan kepada pemegang obligasi karena mengizinkan perubahan jadwal bayar, sebesar 0,15 persen dari nilai pokok obligasi. Biaya ini dibayarkan satu kali pada periode Mei 2026.",
+   "Laporan yang disampaikan Corporate Secretary ADCP, Bayu Purwana, pada 11 Agustus 2026 ini merupakan Adendum X, yakni penyampaian ulang atas informasi hasil RUPO yang sebelumnya sudah dilaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia lewat surat tertanggal 16 April 2026, disampaikan pula ke PT Kustodian Sentral Efek Indonesia, dan diiklankan di harian Media Indonesia pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Wide-angle view of a modern high-rise apartment and hotel tower against a Southeast Asian city skyline at midday",
+  "takeaway": "Aksi ini pada intinya adalah restrukturisasi ringan atas utang obligasi ADCP, pemegang obligasi setuju melonggarkan syarat keuangan yang wajib dijaga perusahaan dan mengizinkan bunga tidak dibayar tepat waktu, dengan jadwal baru digabung ke pelunasan pokok tahun depan. Yang tersentuh adalah arus kas jangka pendek karena kewajiban bunga selama sekitar sepuluh bulan ditunda, serta kepatuhan terhadap rasio keuangan dalam perjanjian utang, dua hal yang biasa dipantau pasar untuk menilai kemampuan bayar dan kesehatan neraca perusahaan. Secara fundamental, laporan ini condong negatif karena kebutuhan akan waiver rasio keuangan dan penundaan bunga selama hampir setahun biasanya menandakan tekanan likuiditas pada perusahaan, meskipun biaya consent fee yang dibayarkan tergolong kecil, yakni 0,15 persen dari nilai pokok obligasi.",
+  "sentimen": "negatif",
+  "imageV": "mssb1nf2"
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",

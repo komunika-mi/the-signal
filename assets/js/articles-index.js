@@ -809,6 +809,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459369-prabowo-pilih-destry-damayanti-jadi-calon-tunggal-gubernur-bi-istana-ungkap-alasannya"
  },
  {
+  "slug": "ekad-pengendali-jajaki-lepas-51-saham-ke-fujian-youyi-china",
+  "category": "Aksi Korporasi",
+  "title": "EKAD: Pengendali jajaki lepas [51%] saham ke Fujian Youyi China",
+  "deck": "PT Ekadharma Inti Perkasa, pemegang saham mayoritas EKAD, teken nota kesepahaman awal untuk menjual 51 persen saham EKAD ke produsen pita perekat asal China, Fujian Youyi.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/ekad-pengendali-jajaki-lepas-51-saham-ke-fujian-youyi-china.jpg",
+  "imageV": "mssayns7",
+  "tags": [
+   "EKAD",
+   "akuisisi saham",
+   "pemegang saham mayoritas",
+   "Fujian Youyi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/063d5e0629_86cabb7b02.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pengusaha-ri-teken-ekspor-cokelat-bubuk-ke-arab-saudi",
   "category": "Bisnis",
   "title": "Pengusaha RI Teken Ekspor [Cokelat] Bubuk ke Arab Saudi",
@@ -824,6 +841,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hasil-fasilitasi-itpc-jeddah-produk-cokelat-bubuk-dan-karbon-aktif-indonesia-siap-jajaki-pasar-timur-tengah",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "mglv-ubah-alamat-dan-email-corporate-secretary",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Ubah Alamat dan Email [Corporate Secretary]",
+  "deck": "NexAI Digital Infrastruktur memperbarui alamat kantor dan surel resmi corporate secretary, sementara pejabatnya tetap sama.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/mglv-ubah-alamat-dan-email-corporate-secretary.jpg",
+  "imageV": "mssaz3zh",
+  "tags": [
+   "MGLV",
+   "Corporate Secretary",
+   "Keterbukaan Informasi",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5d880bd14f_506e8a4b20.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "toyota-dan-kemendag-bahas-ekspor-gcc-ditarget-november",
@@ -976,6 +1010,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459335-airlangga-akui-sudah-kantongi-nama-calon-gubernur-pfii-ini-bocorannya"
  },
  {
+  "slug": "nick-direksi-tambah-kepemilikan-saham-68-700-lembar",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Tambah] Kepemilikan Saham 68.700 Lembar",
+  "deck": "Direktur Charnic Capital, Nicholas Santoso, menambah kepemilikan saham NICK lewat pembelian tidak langsung senilai sekitar Rp106,55 juta.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/nick-direksi-tambah-kepemilikan-saham-68-700-lembar.jpg",
+  "imageV": "mssazp8c",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "transaksi orang dalam"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-7560-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupiah-menguat-ke-rp17-848-pasar-cermati-calon-gubernur-bi",
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.848, Pasar Cermati Calon Gubernur BI",
@@ -991,6 +1042,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459323-rupiah-menguat-ke-rp17848-per-dolar-as-pasar-soroti-pencalonan-destry-damayanti-jadi-gubernur-bi-dan-tinjauan-msci"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-tambah-218-600-saham-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro Tambah 218.600 Saham [Kepemilikan]",
+  "deck": "Dewan Komisaris Medikaloka Hermina, DR Hasmoro, membeli 218.600 saham HEAL senilai sekitar Rp170,5 juta. Hak suaranya tetap 5,03 persen.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/heal-komisaris-hasmoro-tambah-218-600-saham-kepemilikan.jpg",
+  "imageV": "mssb02mx",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-2752-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-pangan-12-agustus-bawang-putih-rp40-650-per-kg",
@@ -1027,6 +1095,57 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459282-buka-bukaan-soal-konflik-agraria-nusron-akui-benturan-dengan-aset-bumn-hingga-tni-polri-yang-paling-repot"
  },
  {
+  "slug": "adhi-minta-pemegang-obligasi-setujui-penundaan-bunga",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Minta Pemegang Obligasi Setujui [Penundaan] Bunga",
+  "deck": "ADHI menggelar RUPO senilai Rp102,715 miliar untuk meminta persetujuan menunda pembayaran bunga ke-8, ke-9, dan ke-10.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/adhi-minta-pemegang-obligasi-setujui-penundaan-bunga.jpg",
+  "imageV": "mssb0gpp",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "obligasi",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9575245c68_bc63bcd0ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-telat-sampaikan-laporan-keuangan-saham-disuspensi-bei",
+  "category": "Aksi Korporasi",
+  "title": "TRUE Telat Sampaikan Laporan Keuangan, Saham [Disuspensi] BEI",
+  "deck": "PT Triniti Dinamik Tbk (TRUE) belum menyerahkan laporan keuangan tahunan 2025 yang semestinya rampung akhir Maret 2026, dan sahamnya kini disetop sementara dari perdagangan oleh BEI.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/true-telat-sampaikan-laporan-keuangan-saham-disuspensi-bei.jpg",
+  "imageV": "mssb0x3t",
+  "tags": [
+   "TRUE",
+   "suspensi saham",
+   "laporan keuangan tahunan",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/128a054b2d_8acd176aa2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meds-komisaris-lepas-6-5-juta-saham-hak-suara-ke-54-74",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris Lepas 6,5 Juta Saham, Hak Suara ke [54,74%]",
+  "deck": "Dewan Komisaris MEDS, Jemmy Kurniawan, menjual 6,5 juta saham pada 10 Agustus 2026 senilai sekitar Rp477 juta, mengurangi hak suaranya dari 55,16% menjadi 54,74%.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/meds-komisaris-lepas-6-5-juta-saham-hak-suara-ke-54-74.jpg",
+  "imageV": "mssb1a5u",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-2031-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "purbaya-kaji-pembatasan-beli-pertalite-desil-9-10",
   "category": "Energi",
   "title": "Purbaya Kaji [Pembatasan] Beli Pertalite Desil 9-10",
@@ -1041,6 +1160,23 @@ var ARTICLES = [
    "Purbaya Yudhi Sadewa"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459237-purbaya-ungkap-rencana-baru-soal-subsidi-bbm-pertalite-masyarakat-desil-9-10-bakal-dilarang-beli"
+ },
+ {
+  "slug": "adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Pembayaran [Kupon] Obligasi ke Mei 2027",
+  "deck": "Pemegang Obligasi II ADCP Seri B menyetujui penundaan bunga sampai Mei 2027 dan pelonggaran syarat rasio keuangan, dengan Perseroan membayar biaya persetujuan 0,15% dari nilai pokok.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027.jpg",
+  "imageV": "mssb1nf2",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "restrukturisasi utang",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8c54f13e28_7e3858436f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "airlangga-calon-gubernur-pfii-dari-internal-pemerintah",

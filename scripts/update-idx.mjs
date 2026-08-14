@@ -51,14 +51,44 @@ async function main() {
     .filter(a => a.emiten)
     .map(a => a.emiten + '|' + String(a.title).replace(/[\[\]]/g, '').toLowerCase()));
 
-  // Jendela hari bisa dilebarkan lewat SIGNAL_IDX_HARI. Bawaannya 1 karena
-  // putaran normal tiap 2 jam cuma perlu menyusul beberapa jam terakhir, tapi
-  // setelah kanal ini sempat mati beberapa hari, satu putaran susulan dengan
-  // jendela lebar jauh lebih murah daripada menunggu arsipnya lengkap sendiri
-  // (yang tidak akan pernah terjadi, karena jendela sempit tidak pernah
-  // menengok ke belakang).
-  const HARI = Number(process.env.SIGNAL_IDX_HARI || 1);
-  if (HARI > 1) log('jendela diperlebar: ' + HARI + ' hari ke belakang');
+  // JENDELA MENGIKUTI BOLONGNYA, bukan angka tetap.
+  //
+  // Kanal ini sengaja dijalankan dari komputer rumah, karena IDX memblokir IP
+  // pusat data (diuji 14 Agustus 2026: 7 IP runner GitHub berbeda, 7 kali 403).
+  // Konsekuensinya kanal ini hanya jalan saat laptopnya menyala, dan itu tidak
+  // bisa diramalkan: bisa tiap hari, bisa libur seminggu.
+  //
+  // Jendela tetap selalu salah untuk keadaan seperti itu. Terlalu sempit dan
+  // apa pun yang terlewat hilang selamanya, karena putaran berikutnya tidak
+  // pernah menengok ke belakang. Terlalu lebar dan tiap putaran memuat ratusan
+  // laporan lama yang sudah diberitakan.
+  //
+  // Jadi jendelanya dihitung dari BOLONG YANG SEBENARNYA: berapa hari sejak
+  // artikel IDX terakhir di arsip. Laptop yang menyala tiap hari dapat jendela
+  // 1 hari seperti biasa; laptop yang baru menyala setelah seminggu otomatis
+  // dapat jendela seminggu dan mengejar semuanya pada putaran pertama, tanpa
+  // ada yang perlu menyadari atau mengetik apa pun.
+  //
+  // Dibatasi 14 hari karena satu permintaan IDX menampung 200 laporan, dan
+  // rentang lebih panjang mulai memotong sendiri di sisi mereka. Bolong yang
+  // lebih lama dari itu memang perlu dikejar tangan.
+  const HARI = (() => {
+    const paksa = Number(process.env.SIGNAL_IDX_HARI || 0);
+    if (paksa > 0) return paksa;
+    const terakhirIDX = artikelLama
+      .filter(a => a.sourceLabel === 'IDX' && a.isoDate)
+      .map(a => keWaktu(a.isoDate))
+      .filter(Boolean)
+      .sort((x, y) => y - x)[0];
+    if (!terakhirIDX) return 3;
+    const selisih = Math.ceil((Date.now() - terakhirIDX.getTime()) / 86400000);
+    // +1 supaya batas harinya tidak terpotong di tengah, minimal 1, maksimal 14.
+    return Math.min(14, Math.max(1, selisih + 1));
+  })();
+
+  if (HARI > 1) {
+    log('jendela ' + HARI + ' hari ke belakang (mengejar bolong sejak artikel IDX terakhir)');
+  }
   const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT, hariKeBelakang: HARI }))
     .filter(k => !k.lampiran || !sumberAda.has(k.lampiran));
 

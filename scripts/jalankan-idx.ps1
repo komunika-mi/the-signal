@@ -64,7 +64,20 @@ try {
   # bisa diakses dari runner GitHub. Yang benar-benar butuh koneksi rumahan
   # cuma IDX. Kalau ditaruh di dua tempat, keduanya menulis market.js dan
   # rawan bentrok saat push.
-  Catat 'menjalankan pembaruan IDX'
+  # Jendela penarikan disetel 3 hari, bukan 1.
+  #
+  # Kanal ini terikat pada laptop yang kadang mati, dan jendela 1 hari tidak
+  # pernah menengok ke belakang: apa pun yang terlewat selama laptop mati
+  # hilang selamanya. Terjadi 11 sampai 13 Agustus 2026, dan bolongnya baru
+  # terisi setelah dijalankan tangan dengan jendela lebar.
+  #
+  # Dengan 3 hari, laptop yang menyala kembali setelah akhir pekan panjang
+  # otomatis mengejar ketertinggalannya pada putaran pertama. Ongkosnya kecil:
+  # laporan yang sudah pernah diberitakan disaring lebih dulu lewat sourceUrl,
+  # jadi jendela lebar cuma menambah beberapa pemeriksaan, bukan artikel kembar.
+  $env:SIGNAL_IDX_HARI = '3'
+
+  Catat 'menjalankan pembaruan IDX (jendela 3 hari)'
   $kode = Jalankan 'npm' @('run', 'update:idx')
   if ($kode -ne 0) { Catat "GAGAL: skrip keluar dengan kode $kode"; exit $kode }
 

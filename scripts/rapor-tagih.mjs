@@ -60,7 +60,16 @@ function simpan(rapor) {
 async function catatEdisiBaru(rapor, arsip) {
   const tercatat = new Set(rapor.entri.map(e => e.edisi));
   const baru = (arsip || []).filter(h => h && h.tanggal && !tercatat.has(h.tanggal));
+  // Dihitung ENTRI YANG BENAR-BENAR MASUK, bukan edisi yang terdeteksi.
+  // Versi awal me-return baru.length, sehingga edisi yang hasil modelnya
+  // ditolak tetap menaikkan penghitung dan rapor.js ditulis ulang hanya
+  // dengan stempel baru, persis commit bising yang ingin dicegah.
+  let masuk = 0;
   for (const h of baru) {
+    // try per edisi: satu edisi yang gagal (jaringan, JSON rusak) tidak
+    // boleh menghanguskan pencatatan edisi lain yang sudah sukses di
+    // putaran yang sama.
+    try {
     const system = [
       'Kamu pencatat rapor untuk media ekonomi The Signal. Tugasmu MENYALIN klaim',
       'arah dari tulisan Signal Harian ke buku rapor, bukan menulis pendapat baru.',
@@ -97,15 +106,18 @@ async function catatEdisiBaru(rapor, arsip) {
         bukti: null,
       });
     });
+    masuk += hasil.length;
     log('rapor: edisi ' + h.tanggal + ' tercatat, ' + hasil.length + ' klaim');
+    } catch (err) {
+      log('rapor: pencatatan edisi ' + h.tanggal + ' gagal: ' + (err.message || err));
+    }
   }
-  return baru.length;
+  return masuk;
 }
 
 // ---------- 2. penagihan klaim jatuh tempo ----------
 async function tagih(rapor, ARTICLES) {
   const hariIni = hariIniWIB();
-  const slugSah = new Map(ARTICLES.map(a => [a.slug, a]));
   const jatuhTempo = rapor.entri.filter(e =>
     e.status === 'menunggu' && e.tenggat && e.tenggat <= hariIni);
   if (!jatuhTempo.length) return 0;
@@ -114,11 +126,19 @@ async function tagih(rapor, ARTICLES) {
   // Model menilai DARI SINI SAJA; klaim yang buktinya tidak ada di arsip
   // sendiri memang belum bisa dinilai, dan itu jawaban yang sah.
   const batas = Date.now() - 30 * 86400000;
-  const bukti = ARTICLES
+  const kandidatBukti = ARTICLES
     .filter(a => new Date(a.isoDate || 0).getTime() > batas)
-    .slice(0, 60)
+    .slice(0, 60);
+  const bukti = kandidatBukti
     .map(a => a.slug + ' | ' + String(a.date) + ' | ' + String(a.title).replace(/[\[\]]/g, '') +
       ' | ' + String(a.takeaway || '').slice(0, 180));
+
+  // Gerbang bukti SEPERSIS bahan yang diperlihatkan: vonis hanya sah kalau
+  // menunjuk artikel dari daftar di atas. Versi awal memvalidasi terhadap
+  // seluruh articles.js, jadi model bisa "mengingat" slug lama yang tidak
+  // pernah ada di daftar bukti dan tetap lolos, padahal aturannya menilai
+  // dari daftar itu saja.
+  const slugSah = new Map(kandidatBukti.map(a => [a.slug, a]));
 
   let dinilai = 0;
   for (const e of jatuhTempo) {
@@ -142,6 +162,13 @@ async function tagih(rapor, ARTICLES) {
     let v;
     try { v = ambilJSON(await tanya(system, user)); }
     catch (err) { log('rapor: penilaian ' + e.id + ' gagal: ' + (err.message || err)); continue; }
+    // JSON yang sah belum tentu objek vonis; null atau array yang lolos parse
+    // akan meledak saat status-nya dibaca dan menghanguskan penilaian entri
+    // lain di putaran yang sama.
+    if (!v || typeof v !== 'object' || Array.isArray(v)) {
+      log('rapor: penilaian ' + e.id + ' membalas bentuk tak dikenal, dilewati');
+      continue;
+    }
 
     if ((v.status === 'terkonfirmasi' || v.status === 'patah') && slugSah.has(v.slug)) {
       const a = slugSah.get(v.slug);

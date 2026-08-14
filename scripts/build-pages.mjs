@@ -309,7 +309,7 @@ function head(o) {
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
-<meta property="og:type" content="${o.ogType}">
+<meta property="og:type" content="${o.ogType || 'website'}">
 <meta property="og:site_name" content="The Signal">
 <meta property="og:locale" content="id_ID">
 <meta property="og:title" content="${esc(o.title)}">

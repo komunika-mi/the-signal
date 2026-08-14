@@ -129,6 +129,37 @@ async function main() {
             Math.abs(k.angka.selisih).toLocaleString('id-ID') + ' lembar' + p : ''));
       }
 
+      // Riwayat emiten: artikel kami tentang emiten yang sama, 7 hari
+      // terakhir, dari arsip DAN dari artikel yang baru ditulis di putaran
+      // ini juga. Yang kedua penting: lima laporan SUPA yang terbit dalam
+      // rentang 14 menit tidak akan saling melihat kalau riwayatnya cuma
+      // membaca arsip lama. Tanpa blok ini tiap laporan dinilai sendirian,
+      // dan lima laporan dari program insentif yang sama pernah terbit
+      // sebagai lima artikel netral terpisah tanpa satu pun menyebut total
+      // gabungannya.
+      //
+      // CATATAN JUJUR: penambahan pertama kode ini GAGAL DIAM-DIAM. Skrip
+      // penyuntingnya berhenti di berkas lain sebelum sampai ke sini, aturan
+      // RIWAYAT EMITEN di prompt sempat jadi kode mati, dan yang menangkapnya
+      // verifikator independen, bukan penulisnya. Kalau mengubah kontrak
+      // antara dua berkas, periksa KEDUA sisinya terpasang.
+      k.riwayat = [...baru, ...artikelLama]
+        .filter(x => x.emiten && k.emiten && x.emiten === k.emiten)
+        .filter(x => {
+          const t = new Date(x.isoDate || 0).getTime();
+          return t && (Date.now() - t) < 7 * 86400000;
+        })
+        .slice(0, 6)
+        .map(x => ({
+          tanggal: String(x.isoDate || '').slice(0, 10),
+          judul: String(x.title || '').replace(/[\[\]]/g, ''),
+          sentimen: x.sentimen || '',
+          inti: String(x.takeaway || '').slice(0, 180),
+        }));
+      if (k.riwayat.length) {
+        log('  riwayat emiten ' + k.emiten + ': ' + k.riwayat.length + ' artikel 7 hari terakhir');
+      }
+
       const hasil = await rangkumKeterbukaan(k);
       if (!hasil) { ditolak++; log('  ditolak: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48)); continue; }
 

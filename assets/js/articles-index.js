@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
+  "category": "Pasar Modal",
+  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
+  "imageV": "mssvvotr",
+  "tags": [
+   "IHSG",
+   "RAPBN 2027",
+   "Prabowo Subianto",
+   "defisit anggaran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459950-ihsg-melesat-usai-pidato-prabowo-ini-faktor-penting-yang-jadi-sorotan-investor"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
+  "imageV": "mssvvp9t",
+  "tags": [
+   "rupiah",
+   "RAPBN 2027",
+   "kurs dolar",
+   "Prabowo Subianto"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
+ },
+ {
+  "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
+  "category": "BUMN",
+  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
+  "imageV": "mssvvpxm",
+  "tags": [
+   "BUMN",
+   "aset negara",
+   "Prabowo Subianto",
+   "APBN 2027"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459916-contoh-india-prabowo-buka-peluang-bandara-dan-aset-strategis-bumn-dikelola-swasta-tapi-kepemilikan-tetap-negara"
+ },
+ {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",

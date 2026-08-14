@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
+  "category": "Pasar Modal",
+  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:36:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459950-ihsg-melesat-usai-pidato-prabowo-ini-faktor-penting-yang-jadi-sorotan-investor",
+  "tags": [
+   "IHSG",
+   "RAPBN 2027",
+   "Prabowo Subianto",
+   "defisit anggaran"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup menguat 1,59 persen ke level 6.401,89 pada perdagangan Jumat (14/8/2026), sehari setelah Presiden Prabowo Subianto memaparkan Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027 di hadapan DPR. Indeks LQ45 yang berisi 45 saham berkapitalisasi besar ikut naik 0,82 persen ke 632,28. Kenaikan ini dibaca analis sebagai respons pasar terhadap target pertumbuhan ekonomi 6 persen dan sinyal pengelolaan anggaran yang lebih hati-hati.",
+   "Associate Director of Research and Investment Pilarmas Investindo Sekuritas, Nico Demus, menyebut poin yang paling disambut pasar adalah rencana pemerintah memperkecil defisit anggaran, yaitu selisih antara belanja dan pendapatan negara yang harus ditutup dengan utang baru. Untuk 2027, defisit dipatok 2,40 persen dari Produk Domestik Bruto, turun dari target 2,68 persen pada APBN 2026. Sejalan dengan itu, kebutuhan pembiayaan lewat utang juga turun dari Rp689,1 triliun menjadi Rp671,2 triliun.",
+   "Di sisi lain, belanja negara pada 2027 justru direncanakan naik menjadi Rp4.097,2 triliun dari pagu Rp3.842,7 triliun tahun ini. Kenaikan belanja itu ditopang proyeksi pendapatan negara yang naik lebih tinggi, dari Rp3.153,6 triliun menjadi Rp3.426 triliun. Pemerintah juga mematok asumsi inflasi 2,5 persen dan imbal hasil Surat Berharga Negara tenor 10 tahun sebesar 6,9 persen untuk tahun depan.",
+   "Nico menambahkan bahwa penurunan target defisit ini menjawab kekhawatiran investor asing soal disiplin fiskal pemerintah. \"Pak Prabowo juga mengatakan bahwa disiplin fiskal harus ada dalam setiap rupiah yang dibelanjakan,\" ujar Nico, dikutip dari Antara."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's financial district, glass facade reflecting morning sky, busy street below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah target defisit anggaran 2027 dipatok 2,40 persen dari total ukuran ekonomi nasional, turun dari 2,68 persen pada anggaran tahun ini, dengan kebutuhan utang baru turun dari Rp689,1 triliun menjadi Rp671,2 triliun. Yang langsung terdampak adalah investor di pasar saham dan pembeli surat utang negara, karena utang baru yang lebih sedikit biasanya berarti pemerintah tidak terlalu bersaing dengan pihak swasta memperebutkan dana investor. Tapi defisit yang menyempit ini bukan hasil memangkas belanja, sebab belanja negara malah naik dari Rp3.842,7 triliun menjadi Rp4.097,2 triliun, dan seluruh kalkulasi ini bertumpu pada target pendapatan negara yang harus melompat dari Rp3.153,6 triliun menjadi Rp3.426 triliun. Arahnya adalah konsolidasi fiskal lewat kenaikan penerimaan negara, bukan lewat pengetatan belanja, dan yang akan membuktikan apakah target ini realistis adalah realisasi penerimaan pajak sepanjang sisa 2026 serta pembahasan RAPBN 2027 di DPR dalam beberapa bulan mendatang.",
+  "imageV": "mssvvotr"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:08:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027",
+  "tags": [
+   "rupiah",
+   "RAPBN 2027",
+   "kurs dolar",
+   "Prabowo Subianto"
+  ],
+  "body": [
+   "Nilai tukar rupiah terhadap dolar Amerika Serikat menguat 50 poin atau 0,28 persen ke level Rp17.827 pada penutupan perdagangan Jumat (14/8/2026), dari sebelumnya Rp17.877. Penguatan ini terjadi tak lama setelah Presiden Prabowo Subianto menyampaikan pidato mengenai Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027 di hadapan DPR. Pergerakan ini penting dicermati karena kurs rupiah biasa jadi indikator cepat bagaimana pasar keuangan menilai arah kebijakan fiskal pemerintah untuk tahun mendatang.",
+   "Analis mata uang dari Doo Financial Futures, Lukman Leong, menyebut penguatan rupiah dan kenaikan Indeks Harga Saham Gabungan (IHSG) hari ini sebagai respons positif pasar terhadap pidato tersebut, meski ia menandainya sebagai sikap 'cautiously positive' atau optimistis dengan tetap berhati-hati. Dalam pidatonya, Prabowo memaparkan sejumlah target ekonomi utama RAPBN 2027, di antaranya pertumbuhan ekonomi 6 persen, naik dari asumsi 5,4 persen pada APBN 2026, serta target inflasi 2,5 persen.",
+   "Dari sisi anggaran, pemerintah memproyeksikan defisit sebesar Rp671,2 triliun atau setara 2,4 persen dari Produk Domestik Bruto, dengan total belanja negara mencapai Rp4.097 triliun. Untuk pembiayaan, asumsi bunga Surat Berharga Negara tenor 10 tahun dipatok 6,9 persen, sementara kurs acuan rupiah dalam RAPBN 2027 ditetapkan Rp17.500 per dolar AS, lebih lemah dibanding asumsi APBN 2026 yang sebesar Rp16.500. Di sektor energi, pemerintah menaikkan asumsi harga minyak mentah Indonesia (ICP) menjadi 75 dolar AS per barel dari 70 dolar AS, dengan target lifting minyak tetap di 610 ribu barel per hari dan lifting gas turun menjadi 954 ribu barel setara minyak per hari dari 984 ribu.",
+   "Pada indikator kesejahteraan, pemerintah menargetkan tingkat kemiskinan turun ke kisaran 6-6,5 persen, dari sasaran 6,5-7,5 persen di tahun ini. Target tingkat pengangguran terbuka ditetapkan 4,3-4,87 persen, indeks modal manusia 0,575, dan rasio gini pada rentang 0,362-0,367. Lukman menilai rangkaian target makroekonomi tersebut secara umum masih dapat diterima pelaku pasar, yang turut menopang sentimen positif terhadap rupiah hari ini."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's central business district at dusk, illuminated office towers, traffic streaming below, financial hub atmosphere",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef68b3079a-ilustrasi-nilai-tukar-rupiah-menguat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma kurs hari ini, tapi juga asumsi dasar yang dipakai pemerintah untuk tahun depan. Dalam RAPBN 2027, kurs acuan atau patokan resmi rupiah terhadap dolar justru ditetapkan Rp17.500, lebih lemah dari asumsi tahun ini yang Rp16.500, sementara target pertumbuhan ekonomi dinaikkan dari 5,4 persen ke 6 persen dan defisit anggaran, yaitu selisih antara belanja dan pendapatan negara, melebar ke Rp671,2 triliun dari total belanja Rp4.097 triliun. Ini kena ke pelaku usaha yang bergantung bahan baku impor dan ke pemerintah sendiri sebagai peminjam, karena keduanya harus menghitung biaya dengan asumsi rupiah yang lebih lemah dan utang yang lebih besar, meski pasar hari ini justru merespons pidato dengan menguatkan rupiah. Arahnya terlihat seperti pemerintah memilih mengejar pertumbuhan lebih tinggi dengan bantalan defisit dan kurs yang lebih longgar, ketimbang menahan rupiah tetap ketat. Yang akan memastikan bacaan ini adalah pembahasan RAPBN 2027 di DPR dalam beberapa bulan mendatang, termasuk apakah target pertumbuhan 6 persen itu disetujui utuh atau direvisi.",
+  "imageV": "mssvvp9t"
+ },
+ {
+  "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
+  "category": "BUMN",
+  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:05:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459916-contoh-india-prabowo-buka-peluang-bandara-dan-aset-strategis-bumn-dikelola-swasta-tapi-kepemilikan-tetap-negara",
+  "tags": [
+   "BUMN",
+   "aset negara",
+   "Prabowo Subianto",
+   "APBN 2027"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto membuka peluang bagi pihak swasta untuk ikut mengoperasikan aset strategis milik negara yang selama ini tidak dikelola maksimal oleh BUMN, termasuk bandara. Ini penting bagi pembaca karena menyangkut fasilitas publik yang dipakai sehari-hari, dan menentukan siapa yang akan menjalankannya ke depan meski kepemilikannya tetap di tangan negara.",
+   "Rencana ini disampaikan Prabowo saat memaparkan RUU APBN 2027 dan Nota Keuangan dalam Sidang Tahunan MPR RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026). Ia menyebut langkah ini menyatu dengan program pembersihan BUMN yang sudah berjalan: 290 perusahaan pelat merah yang dinilai tidak produktif telah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN yang benar-benar produktif hingga akhir tahun ini.",
+   "Aset yang disasar mencakup tanah, gedung, jaringan, kawasan, hingga berbagai fasilitas milik BUMN yang belum menghasilkan nilai ekonomi maksimal. Pemerintah akan membuka kerja sama dengan swasta lewat proses yang disebut Prabowo terbuka, kompetitif, dan akuntabel, dengan syarat kepemilikan strategis aset tetap dipegang negara.",
+   "Prabowo menjadikan India sebagai rujukan lewat skema yang mereka sebut National Monetisation Pipeline, di mana swasta diberi ruang mengoperasikan aset publik yang sudah terbangun tanpa mengambil alih kepemilikannya. Menurut dia, dana yang diperoleh dari skema semacam itu bisa diputar kembali untuk membiayai pembangunan infrastruktur baru."
+  ],
+  "fotoAdegan": "Ground crew guiding a taxiing airplane near a terminal gate while baggage carts move across the tarmac, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ee0bb4e57e-presiden-prabowo-berpidato-menyampaikan-ruu-apbn-2027-dan-nota-keuangan-di-kompleks-parlemen-jakarta-jumat-1482026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
+  "imageV": "mssvvpxm"
+ },
+ {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",

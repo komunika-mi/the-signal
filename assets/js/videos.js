@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "vkl7oDWHgXs",
+  "title": "RAPBN 2027 Difokuskan untuk Keluar dari Middle Income Trap",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto menyampaikan bahwa Rancangan APBN Tahun Anggaran 2027 akan difokuskan pada delapan program prioritas untuk mendorong Indonesia keluar dari jebakan pendapatan menengah.",
+  "takeaway": "Arah RAPBN 2027 penting diikuti karena menentukan alokasi anggaran negara dan strategi pemerintah menghadapi risiko stagnasi pertumbuhan ekonomi."
+ },
+ {
+  "id": "9k5StIe8Sd4",
+  "title": "Investasi Jadi Kunci Pemerintah Kejar Pertumbuhan Ekonomi",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Pemerintah menempatkan peningkatan investasi sebagai salah satu kunci utama untuk mendorong pertumbuhan ekonomi dan memperkuat perekonomian nasional.",
+  "takeaway": "Kebijakan investasi berdampak langsung pada iklim usaha dan proyeksi pertumbuhan ekonomi yang jadi perhatian pelaku pasar dan dunia usaha."
+ },
+ {
+  "id": "TOmSIGJbUcQ",
+  "title": "Jakarta dan Bali Ditetapkan Jadi Pusat Finansial Internasional",
+  "category": "Pasar Modal",
+  "program": "Kabar Khusus",
+  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia untuk memperkuat posisi ekonomi nasional di kancah global.",
+  "takeaway": "Pembentukan pusat finansial internasional berpotensi menarik arus modal asing dan relevan bagi pelaku industri keuangan serta investor."
+ },
+ {
   "id": "JTwtp-jOv9U",
   "title": "Prabowo: Lembaga Rating China Beri RI Peringkat AAA",
   "category": "Makroekonomi",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Menjelang HUT RI, penjualan bendera dan atribut merah putih ramai di Yogyakarta, mencerminkan geliat aktivitas ekonomi pedagang kecil menjelang perayaan.",
   "takeaway": "Menggambarkan dampak momentum tahunan terhadap perputaran ekonomi pelaku usaha kecil."
- },
- {
-  "id": "ID8ki46wD5Q",
-  "title": "Pemkab Mojokerto Jajaki Investasi dengan Kota Bayannur China",
-  "category": "Global",
-  "program": "tvOneNews",
-  "summary": "Pemkab Mojokerto membuka peluang kerja sama investasi dengan Pemerintah Kota Bayannur, Mongolia Dalam, Tiongkok, sekaligus memperkenalkan potensi daerah.",
-  "takeaway": "Relevan sebagai sinyal upaya pemerintah daerah menarik investasi dari luar negeri."
- },
- {
-  "id": "QTkQpWIA4g4",
-  "title": "Update Kurs Rupiah dan Kinerja Saham LQ45",
-  "category": "Pasar Modal",
-  "program": "Kabar Siang",
-  "summary": "Kurs rupiah pada 14 Agustus 2026 pukul 11.30 WIB berada di level Rp17.840,9 per dolar AS, bergerak 0,03 persen menurut data Investing.com.",
-  "takeaway": "Memberi pembaca informasi kurs dan pergerakan pasar saham terkini untuk memantau kondisi pasar harian."
- },
- {
-  "id": "Yi68Bx3obXQ",
-  "title": "DPR dan Buruh Bahas RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Hari Ini",
-  "summary": "Pimpinan DPR RI menerima perwakilan serikat buruh untuk membahas penyusunan RUU Ketenagakerjaan, termasuk sejumlah usulan yang diajukan buruh untuk masuk ke draf regulasi.",
-  "takeaway": "Pembahasan RUU ini layak disimak karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja maupun dunia usaha."
  }
 ];

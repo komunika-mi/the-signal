@@ -3,6 +3,139 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal",
+  "category": "UMKM",
+  "title": "BNPB-PNM Dorong Warga Agam [Bangkit] Lewat Usaha Lokal",
+  "deck": "BNPB, PNM, dan Pemkab Agam memacu usaha olahan ikan dan pinang warga terdampak bencana di Agam lewat pelatihan, alat produksi, dan pembiayaan tanpa agunan.",
+  "image": "assets/img/bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T20:54:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459979-dari-huntara-ke-usaha-produktif-bnpb-pnm-dorong-warga-agam-bangkit-lewat-potensi-ekonomi-lokal",
+  "tags": [
+   "agam",
+   "pnm",
+   "umkm",
+   "bnpb"
+  ],
+  "body": [
+   "Pemulihan warga terdampak bencana di Kabupaten Agam kini tidak lagi berhenti pada perbaikan rumah dan infrastruktur. Badan Nasional Penanggulangan Bencana (BNPB), PT Permodalan Nasional Madani (PNM), dan Pemerintah Kabupaten Agam menjalankan Program Klasterisasi 2026 untuk membantu warga membangun kembali sumber penghasilan lewat usaha berbasis potensi daerah.",
+   "Program ini menyasar dua kelompok usaha. Yang pertama adalah klaster olahan ikan asal Danau Maninjau yang digarap warga Huntara Linggai di Nagari Duo Koto, Kecamatan Tanjung Raya. Kelompok ini sudah menerima tiga kali pelatihan bersama Dinas Ketahanan Pangan Agam untuk mengolah ikan menjadi ikan asap, dilengkapi bantuan oven pengasapan dan akses pembiayaan tanpa agunan dari PNM untuk modal kerja.",
+   "Klaster kedua adalah olahan pinang di Salareh Aia, Kecamatan Palembayan, yang mendapat pendampingan dari akademisi Fakultas Pertanian Universitas Andalas untuk memperkuat keterampilan pengolahan. PNM turut menyalurkan bantuan alat berupa oven, pisau pemotong pinang, dan genset, sekaligus meninjau usaha pengolahan pinang milik pelaku usaha lokal yang sudah memiliki jaringan pemasok bahan baku sendiri.",
+   "Ketua Harian Unsur Pengarah BNPB, Ary Laksmana Widjaja, menyebut pemberdayaan ekonomi menjadi bagian penting pemulihan pascabencana agar warga tidak terus bergantung pada bantuan. Pemimpin Cabang PNM Padang, Hendra Jalius, menambahkan bahwa dukungan yang diberikan diarahkan supaya potensi yang sudah dimiliki masyarakat bisa tumbuh menjadi usaha yang berkelanjutan."
+  ],
+  "fotoAdegan": "Workers tending a wood-fired smoking oven filled with fish fillets in a village workshop near a misty highland lake",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f1d847a79e-badan-nasional-penanggulangan-bencana-bnpb-bersinergi-dengan-pt-permodalan-nasional-madani-persero-dan-pemerintah-kabupaten-agam-untuk-memacu-potensi-ekonomi-daerah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pendekatan pemulihan bencana di Agam, dari sekadar menyediakan hunian sementara menjadi mendorong warga punya usaha sendiri lewat pelatihan, alat produksi, dan pembiayaan tanpa agunan. Yang terdampak langsung adalah warga Huntara Linggai yang mengolah ikan Danau Maninjau dan pelaku usaha pengolahan pinang di Palembayan. Berita ini belum menyebut berapa banyak keluarga atau kelompok yang ikut program, berapa nilai total bantuan dan pembiayaan yang dikucurkan, atau target waktu agar kedua klaster ini bisa mandiri secara finansial. Tanpa angka-angka itu, sulit menilai apakah program ini akan berdampak luas atau baru sebatas proyek percontohan di dua titik, dan itu yang perlu dicari di laporan lanjutan BNPB atau PNM ke depan.",
+  "imageV": "mst1gmqs"
+ },
+ {
+  "slug": "kadin-rating-kredit-ri-bertahan-dorong-investasi-riil",
+  "category": "Makroekonomi",
+  "title": "Kadin: Rating [Kredit] RI Bertahan, Dorong Investasi Riil",
+  "deck": "Kadin menyambut peringkat kredit RI yang dipertahankan S&P (BBB) dan China Lianhe (AAA), tapi minta kepercayaan itu diterjemahkan jadi investasi riil.",
+  "image": "assets/img/kadin-rating-kredit-ri-bertahan-dorong-investasi-riil.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:30:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459963-10-pandangan-kadin-indonesia-menyambut-agenda-besar-presiden-prabowo-sorot-fundamental-ekonomi-hingga-mesin-investasi",
+  "tags": [
+   "kadin",
+   "peringkat kredit",
+   "investasi",
+   "apbn 2027"
+  ],
+  "body": [
+   "Kadin Indonesia menyambut positif arah kebijakan ekonomi yang disampaikan Presiden Prabowo Subianto dalam Keterangan Pemerintah atas RUU APBN Tahun Anggaran 2027 di hadapan DPR RI, Jumat, 14 Agustus 2026. Ketua Umum Kadin Anindya Novyan Bakrie menilai agenda yang dipaparkan Presiden menunjukkan upaya pemerintah menjaga stabilitas ekonomi makro sambil mempercepat perubahan struktur ekonomi. Kadin menegaskan siap mendukung implementasi kebijakan tersebut lewat kolaborasi bersama BUMN, Danantara, pemerintah daerah, UMKM, dan pemangku kepentingan lain.",
+   "Salah satu poin yang disorot adalah pengakuan dua lembaga pemeringkat internasional terhadap kondisi ekonomi Indonesia. Presiden menyampaikan bahwa S&P Global Ratings, pada 13 Juli 2026, mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap masuk kategori layak investasi. Penilaian itu didasarkan antara lain pada prospek pertumbuhan ekonomi, kebijakan makro yang berhati-hati, dan posisi utang pemerintah yang terjaga.",
+   "Pengakuan serupa juga datang dari China Lianhe Credit Rating, yang memberi peringkat AAA dengan outlook stabil dalam penerbitan Panda Bond Indonesia, yaitu surat utang Indonesia yang diterbitkan dalam mata uang yuan di pasar China. Lembaga itu menilai fundamental ekonomi Indonesia solid, kebijakan pemerintah berjalan efektif, perekonomian tahan terhadap guncangan dari luar, dan inflasi tetap terkendali. Anindya menyebut penilaian dari lembaga rating Barat maupun Timur ini memperkuat pesan bahwa Indonesia punya prospek jangka panjang yang menjanjikan, karena bagi dunia usaha, kepercayaan adalah modal utama sebelum mengambil keputusan investasi.",
+   "Anindya menekankan bahwa momentum kepercayaan ini perlu diterjemahkan menjadi investasi riil, bukan berhenti di atas kertas. Ia menyebut syaratnya adalah kepastian hukum, konsistensi regulasi, kemudahan perizinan, biaya logistik yang lebih kompetitif, dan pelayanan investasi yang terus membaik. Tujuannya agar modal yang masuk tidak sekadar mampir di instrumen keuangan, melainkan mengalir ke pembangunan pabrik, hilirisasi, alih teknologi, dan penciptaan lapangan kerja."
+  ],
+  "fotoAdegan": "Workers assembling machinery parts on a busy factory production line, industrial lighting, Indonesian manufacturing floor",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f04145f91a-ketum-kadin-anindya-bakrie-dalam-sidang-tahunan-mpr-ri-dan-sidang-bersama-dpr-ri-dan-dpd-ri-tahun-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan S&P dan China Lianhe ini bukan kenaikan peringkat, melainkan mempertahankan peringkat yang sudah ada, jadi sinyalnya adalah kepercayaan pasar tetap terjaga, bukan perbaikan baru. Pihak yang paling berkepentingan adalah pelaku usaha yang menimbang investasi jangka panjang, karena peringkat kredit jadi salah satu acuan mereka sebelum menanam modal, termasuk investor asing yang selama ini banyak masuk lewat pasar surat utang dan saham ketimbang membangun pabrik. Kadin sendiri secara tidak langsung mengakui ada jarak di sini dengan mendesak agar kepercayaan itu diterjemahkan jadi kepastian hukum, kemudahan izin, dan biaya logistik yang lebih murah, artinya syarat itu belum sepenuhnya terpenuhi sampai sekarang. Arah yang bisa dibaca adalah pemerintah mengandalkan stabilitas peringkat untuk menjaga kepercayaan pasar, sementara pekerjaan menggeser dana dari pasar keuangan ke sektor riil masih berjalan, dan yang akan menunjukkan hasilnya adalah data realisasi investasi asing langsung dari BKPM pada triwulan mendatang.",
+  "imageV": "mst1gnn4"
+ },
+ {
+  "slug": "bank-bjb-dan-persib-kolaborasi-lagi-musim-2026",
+  "category": "Perbankan",
+  "title": "bank bjb dan PERSIB [Kolaborasi] Lagi Musim 2026",
+  "deck": "bank bjb kembali menjadi Official Banking Partner PERSIB untuk musim 2026, dua belas tahun setelah kerja sama serupa mengantar PERSIB juara Liga Indonesia 2014.",
+  "image": "assets/img/bank-bjb-dan-persib-kolaborasi-lagi-musim-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:15:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459962-kembali-berkolaborasi-bank-bjb-dan-persib-satukan-semangat-juara",
+  "tags": [
+   "bank bjb",
+   "PERSIB",
+   "Bandung",
+   "co-branding"
+  ],
+  "body": [
+   "bank bjb dan PERSIB Bandung Bermartabat resmi mengumumkan kerja sama baru pada Jumat, 14 Agustus 2026, dengan bank bjb menjadi Official Banking Partner PERSIB untuk musim kompetisi 2026. Peluncuran ini berlangsung di hadapan Wakil Gubernur Jawa Barat Erwan Setiawan beserta jajaran manajemen kedua pihak. Kerja sama ini menghidupkan kembali pola kolaborasi yang pernah terjalin antara keduanya lebih dari satu dekade lalu.",
+   "Penandatanganan dilakukan langsung oleh Direktur Utama bank bjb Ayi Subarna dan CEO PT PERSIB Bandung Bermartabat Glenn Timothy Sugita. Sebagai bagian dari kolaborasi, kedua pihak meluncurkan kartu ATM gabungan bank bjb dan PERSIB, atau yang lazim disebut co-branding, serta menampilkan kembali jersey legendaris PERSIB tahun 2014. Acara turut dimeriahkan maskot TAMBA dari bank bjb dan Prabu dari PERSIB.",
+   "Kolaborasi ini mengingatkan pada kerja sama serupa tahun 2014, saat bank bjb pertama kali menjadi mitra perbankan resmi PERSIB. Musim itu berakhir dengan gelar juara Liga Indonesia bagi PERSIB, yang didapat setelah penantian 19 tahun. Lebih dari satu dekade kemudian, kedua pihak kembali merajut kerja sama dengan cakupan yang lebih luas, tidak hanya di lapangan tapi juga lewat program untuk nasabah dan pendukung PERSIB atau Bobotoh.",
+   "Ayi Subarna mengatakan kerja sama ini mempertemukan dua institusi yang memiliki kedekatan kuat dengan masyarakat Jawa Barat. Ia menyebut kolaborasi ini sebagai bentuk sinergi dua merek yang dekat secara emosional dengan publik, dengan tujuan menghadirkan manfaat nyata bagi nasabah bank bjb, Bobotoh, dan masyarakat luas."
+  ],
+  "fotoAdegan": "Blank plastic bank cards and a football resting together on a teller counter, blurred bank branch interior, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f05725d281-pt-bank-pembangunan-daerah-jawa-barat-dan-banten-tbk-bank-bjb-kembali-memperkuat-kolaborasi-bersama-pt-persib-bandung-bermartabat-persib_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah bank bjb resmi kembali menjadi mitra perbankan resmi PERSIB untuk musim 2026, ditandai dengan terbitnya kartu ATM gabungan bank bjb dan PERSIB. Yang terdampak adalah nasabah bank bjb, khususnya pendukung PERSIB atau Bobotoh di Jawa Barat, yang menjadi sasaran produk kartu baru ini. Yang belum diketahui adalah nilai kerja sama ini serta target bank bjb dari sisi jumlah kartu yang akan diterbitkan atau nasabah baru yang ingin didapat, karena kedua angka itu tidak diungkap dalam pengumuman ini. Tanpa angka tersebut, belum bisa dibaca apakah kolaborasi ini akan berdampak nyata pada bisnis bank bjb atau sekadar kegiatan promosi musiman seperti tahun 2014, dan itu baru akan terlihat kalau bank bjb merilis data jumlah pemegang kartu co-branding ini pada laporan kinerja mendatang.",
+  "imageV": "mst1gou7"
+ },
+ {
+  "slug": "restrukturisasi-telkom-enterprise-danantara-incar-pasar-30",
+  "category": "BUMN",
+  "title": "Restrukturisasi Telkom Enterprise, Danantara Incar [Pasar] 30%",
+  "deck": "Telkom merombak organisasi bisnis enterprise bersama Danantara untuk memperkuat layanan digital ke pemerintah, BUMN, dan swasta, dengan potensi pasar diperkirakan tumbuh hingga 30 persen.",
+  "image": "assets/img/restrukturisasi-telkom-enterprise-danantara-incar-pasar-30.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:07:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459957-sinergi-telkom-bersama-danantara-prospek-pasar-segmen-enterprise-telkom-diperkirakan-tumbuh-hingga-30-persen",
+  "tags": [
+   "telkom",
+   "danantara",
+   "telkom enterprise",
+   "bumn"
+  ],
+  "body": [
+   "PT Telkom Indonesia menata ulang unit bisnis Telkom Enterprise, lini yang melayani kebutuhan digital pemerintah, BUMN, dan dunia usaha, sebagai bagian dari koordinasi dengan Badan Pengelola Investasi Danantara. Direktur Enterprise & Business Service Telkom, Veranita Yosephine, memaparkan arah bisnis ini kepada Chief Operating Officer Danantara Dony Oskaria dan Managing Director Business-2 Danantara Setyanto Hantoro. Menurut proyeksi yang beredar dari paparan ini, potensi pasar segmen enterprise Telkom diperkirakan bisa tumbuh hingga 30 persen, meski dasar dan periode perhitungannya tidak dijabarkan secara rinci dalam materi yang tersedia.",
+   "Penataan ini sejalan dengan strategi transformasi Telkom yang disebut TLKM 30, mencakup pembenahan organisasi, penguatan tata kelola, dan penyederhanaan proses bisnis di segmen business-to-business. Tujuannya agar Telkom Enterprise lebih efisien dan lebih responsif terhadap kebutuhan pasar korporasi, ketimbang bergerak seperti struktur lama yang dianggap kurang gesit.",
+   "Veranita menyebut Indonesia membutuhkan kapabilitas digital nasional yang kuat untuk menghadapi kebutuhan kecerdasan buatan, keamanan siber, serta kedaulatan data dan kedaulatan AI. Untuk itu, Telkom Enterprise menawarkan rangkaian layanan seperti kecerdasan buatan, komputasi awan, pusat data, layanan terkelola, internet untuk perangkat (IoT), hingga keamanan siber, yang menurutnya membutuhkan jaringan konektivitas berkapasitas tinggi agar berjalan optimal."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks and fiber optic cable trays inside a modern data center, blue indicator lights glowing",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f0398c6028-pt-telkom-indonesia-persero-tbk-telkom-memiliki-kapabilitas-kuat-di-bidang-telekomunikasi-dan-digital-untuk-mendukung-kebutuhan-transformasi-di-berbagai-sektor_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah struktur internal Telkom Enterprise, unit bisnis korporasi Telkom, yang dirombak tata kelola dan proses bisnisnya sebagai bagian dari strategi transformasi TLKM 30 dan koordinasi dengan Danantara selaku pengelola investasi BUMN. Yang terdampak adalah pelanggan korporasi Telkom, yaitu instansi pemerintah, BUMN, dan pelaku usaha yang memakai layanan seperti komputasi awan, pusat data, dan keamanan siber. Arahnya tampak menuju penguatan Telkom sebagai penyedia utama infrastruktur digital nasional di tengah kebutuhan kedaulatan data, sejalan dengan klaim proyeksi pasar tumbuh hingga 30 persen yang disebut dalam judul asli pemberitaan ini. Yang masih kurang adalah rincian target pendapatan, nilai investasi, atau tenggat waktu restrukturisasi, sehingga yang perlu dipantau adalah laporan kinerja keuangan Telkom pada kuartal-kuartal mendatang untuk melihat apakah penataan organisasi ini benar diterjemahkan menjadi pertumbuhan bisnis enterprise yang nyata.",
+  "imageV": "mst1gr7c"
+ },
+ {
+  "slug": "pegadaian-dorong-literasi-keuangan-ojek-pangkalan",
+  "category": "BUMN",
+  "title": "Pegadaian Dorong [Literasi Keuangan] Ojek Pangkalan",
+  "deck": "Pegadaian menggelar edukasi keuangan untuk pengemudi ojek pangkalan di Tanjung Priok, mendorong menabung emas dan menjauhkan mereka dari pinjaman ilegal.",
+  "image": "assets/img/pegadaian-dorong-literasi-keuangan-ojek-pangkalan.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:59:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459954-pegadaian-dorong-literasi-keuangan-pengemudi-ojek-pangkalan-soroti-pentingnya-menabung-dan-hindari-pinjaman-ilegal",
+  "tags": [
+   "Pegadaian",
+   "literasi keuangan",
+   "ojek pangkalan",
+   "sektor informal"
+  ],
+  "body": [
+   "PT Pegadaian melalui Kantor Wilayah IX Jakarta 2 dan Area Tanjung Priok menggelar edukasi keuangan bagi komunitas ojek pangkalan pada Kamis, 13 Agustus 2026, dengan tema Kelola Keuangan Cerdas, Usaha Makin Kuat, Masa Depan Lebih Sejahtera. Kegiatan ini menyasar pekerja sektor informal yang selama ini kesulitan mengelola keuangan karena pendapatan harian yang tidak menentu dan minimnya akses ke layanan keuangan resmi, kondisi yang membuat mereka rentan terjerat pinjaman ilegal.",
+   "Materi yang diberikan mencakup cara menyusun anggaran rumah tangga, pentingnya menyiapkan dana darurat, hingga pengenalan produk keuangan formal untuk mendukung usaha produktif. Pemimpin Wilayah Pegadaian Kanwil IX Jakarta 2, Maryono, menyebut edukasi ini juga mendorong budaya menabung emas sebagai alternatif menyimpan uang, sekaligus menjauhkan pengemudi ojek dari jeratan pinjaman ilegal.",
+   "Selain sesi edukasi, peserta menerima bantuan sosial berupa paket sembako dan tas bingkisan melalui program Pegadaian Peduli, yang diserahkan secara simbolis oleh Deputi Bisnis Pegadaian Area Tanjung Priok, Mudayanti, kepada perwakilan pengemudi ojek pangkalan. Mudayanti berharap kegiatan ini menjadi titik awal kolaborasi yang lebih luas dengan komunitas pekerja informal."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers in jackets and helmets gathered at a curbside stand, listening to a community talk, midday street light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f02ab525d7-pegadaian-gelar-edukasi-literasi-keuangan-bersama-komunitas-ojek-pangkalan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah satu program edukasi sehari yang digelar Pegadaian Kanwil IX Jakarta 2 bersama Area Tanjung Priok untuk komunitas ojek pangkalan, lengkap dengan materi mengatur uang harian dan bagi-bagi sembako lewat program Pegadaian Peduli. Yang terdampak jelas pengemudi ojek pangkalan di kawasan Tanjung Priok, kelompok pekerja informal yang penghasilannya naik turun setiap hari dan selama ini jadi sasaran empuk pinjaman ilegal karena sulit mengakses bank atau lembaga keuangan resmi. Berita ini belum menunjukkan apakah kegiatan semacam ini akan berlanjut ke wilayah lain atau cuma acara sekali jalan, karena tidak disebutkan jumlah peserta maupun jadwal edukasi serupa berikutnya. Yang perlu dipantau adalah apakah Pegadaian Kanwil IX mengumumkan agenda edukasi lanjutan atau data jumlah pengemudi yang benar-benar beralih menabung emas atau menghindari pinjaman ilegal setelah program ini.",
+  "imageV": "mst1gt30"
+ },
+ {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
   "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",

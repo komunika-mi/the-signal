@@ -5,6 +5,91 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal",
+  "category": "UMKM",
+  "title": "BNPB-PNM Dorong Warga Agam [Bangkit] Lewat Usaha Lokal",
+  "deck": "BNPB, PNM, dan Pemkab Agam memacu usaha olahan ikan dan pinang warga terdampak bencana di Agam lewat pelatihan, alat produksi, dan pembiayaan tanpa agunan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal.jpg",
+  "imageV": "mst1gmqs",
+  "tags": [
+   "agam",
+   "pnm",
+   "umkm",
+   "bnpb"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459979-dari-huntara-ke-usaha-produktif-bnpb-pnm-dorong-warga-agam-bangkit-lewat-potensi-ekonomi-lokal"
+ },
+ {
+  "slug": "kadin-rating-kredit-ri-bertahan-dorong-investasi-riil",
+  "category": "Makroekonomi",
+  "title": "Kadin: Rating [Kredit] RI Bertahan, Dorong Investasi Riil",
+  "deck": "Kadin menyambut peringkat kredit RI yang dipertahankan S&P (BBB) dan China Lianhe (AAA), tapi minta kepercayaan itu diterjemahkan jadi investasi riil.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/kadin-rating-kredit-ri-bertahan-dorong-investasi-riil.jpg",
+  "imageV": "mst1gnn4",
+  "tags": [
+   "kadin",
+   "peringkat kredit",
+   "investasi",
+   "apbn 2027"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459963-10-pandangan-kadin-indonesia-menyambut-agenda-besar-presiden-prabowo-sorot-fundamental-ekonomi-hingga-mesin-investasi"
+ },
+ {
+  "slug": "bank-bjb-dan-persib-kolaborasi-lagi-musim-2026",
+  "category": "Perbankan",
+  "title": "bank bjb dan PERSIB [Kolaborasi] Lagi Musim 2026",
+  "deck": "bank bjb kembali menjadi Official Banking Partner PERSIB untuk musim 2026, dua belas tahun setelah kerja sama serupa mengantar PERSIB juara Liga Indonesia 2014.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bank-bjb-dan-persib-kolaborasi-lagi-musim-2026.jpg",
+  "imageV": "mst1gou7",
+  "tags": [
+   "bank bjb",
+   "PERSIB",
+   "Bandung",
+   "co-branding"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459962-kembali-berkolaborasi-bank-bjb-dan-persib-satukan-semangat-juara"
+ },
+ {
+  "slug": "restrukturisasi-telkom-enterprise-danantara-incar-pasar-30",
+  "category": "BUMN",
+  "title": "Restrukturisasi Telkom Enterprise, Danantara Incar [Pasar] 30%",
+  "deck": "Telkom merombak organisasi bisnis enterprise bersama Danantara untuk memperkuat layanan digital ke pemerintah, BUMN, dan swasta, dengan potensi pasar diperkirakan tumbuh hingga 30 persen.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/restrukturisasi-telkom-enterprise-danantara-incar-pasar-30.jpg",
+  "imageV": "mst1gr7c",
+  "tags": [
+   "telkom",
+   "danantara",
+   "telkom enterprise",
+   "bumn"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459957-sinergi-telkom-bersama-danantara-prospek-pasar-segmen-enterprise-telkom-diperkirakan-tumbuh-hingga-30-persen"
+ },
+ {
+  "slug": "pegadaian-dorong-literasi-keuangan-ojek-pangkalan",
+  "category": "BUMN",
+  "title": "Pegadaian Dorong [Literasi Keuangan] Ojek Pangkalan",
+  "deck": "Pegadaian menggelar edukasi keuangan untuk pengemudi ojek pangkalan di Tanjung Priok, mendorong menabung emas dan menjauhkan mereka dari pinjaman ilegal.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/pegadaian-dorong-literasi-keuangan-ojek-pangkalan.jpg",
+  "imageV": "mst1gt30",
+  "tags": [
+   "Pegadaian",
+   "literasi keuangan",
+   "ojek pangkalan",
+   "sektor informal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459954-pegadaian-dorong-literasi-keuangan-pengemudi-ojek-pangkalan-soroti-pentingnya-menabung-dan-hindari-pinjaman-ilegal"
+ },
+ {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
   "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",

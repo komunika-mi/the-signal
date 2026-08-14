@@ -2,6 +2,46 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "RQYc7uSgUxE",
+  "title": "Desa Sebagai Kekuatan Ekonomi Baru Indonesia",
+  "category": "Makroekonomi",
+  "program": "One on One",
+  "summary": "Menteri Desa PDTT Yandri Susanto membahas potensi desa sebagai basis pembangunan sekaligus penggerak baru pertumbuhan ekonomi nasional.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti arah kebijakan pembangunan desa dan dampaknya terhadap ekonomi daerah."
+ },
+ {
+  "id": "20AvmOBuplc",
+  "title": "DPR: Program Prabowo Dirasakan Langsung Masyarakat",
+  "category": "Makroekonomi",
+  "program": "AKIM",
+  "summary": "Anggota Komisi XI DPR RI menilai RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional mulai memberi dampak nyata bagi masyarakat.",
+  "takeaway": "Menunjukkan penilaian DPR atas arah belanja negara dalam RAPBN 2027 yang tengah dibahas pemerintah."
+ },
+ {
+  "id": "olOxaJPvTCk",
+  "title": "DPR dan LPS Tanggapi Rancangan APBN 2027",
+  "category": "Perbankan",
+  "program": "AKIM",
+  "summary": "Anggota DPR RI dan Ketua Dewan Komisioner LPS memberikan tanggapan atas RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional.",
+  "takeaway": "Memberi gambaran pandangan legislatif dan otoritas penjamin simpanan terhadap arah anggaran negara tahun depan."
+ },
+ {
+  "id": "2K3sUklWyCQ",
+  "title": "Pemerintah Sampaikan RAPBN 2027 dan Nota Keuangan",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto memaparkan RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional dalam Nota Keuangan pemerintah.",
+  "takeaway": "Menjadi acuan utama bagi pembaca untuk memahami arah kebijakan fiskal pemerintah tahun depan."
+ },
+ {
+  "id": "HP1xjM8ePGM",
+  "title": "Ketua LPS: Target Pemerintah 2027 Cukup Realistis",
+  "category": "Makroekonomi",
+  "program": "AKIM",
+  "summary": "Ketua Dewan Komisioner LPS menilai target pemerintah di 2027 realistis, mencakup proyeksi pertumbuhan ekonomi, penguatan hilirisasi, dan disiplin fiskal.",
+  "takeaway": "Memberi perspektif otoritas keuangan atas kredibilitas target ekonomi pemerintah untuk tahun mendatang."
+ },
+ {
   "id": "vkl7oDWHgXs",
   "title": "RAPBN 2027 Difokuskan untuk Keluar dari Middle Income Trap",
   "category": "Makroekonomi",
@@ -56,45 +96,5 @@ var VIDEOS = [
   "program": "Kabar Khusus",
   "summary": "Presiden Prabowo menyatakan ekonomi Indonesia tetap bertahan di tengah tekanan suku bunga global, pelemahan nilai tukar, dan ketegangan perdagangan dunia.",
   "takeaway": "Ketahanan ekonomi domestik penting dicermati investor di tengah gejolak geopolitik dan perang dagang global."
- },
- {
-  "id": "PQlLZ5wopAM",
-  "title": "Prabowo Sampaikan Pidato Nota Keuangan dan RAPBN 2027",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto menyampaikan pidato Nota Keuangan dan RAPBN 2027 dalam Sidang Tahunan MPR RI, memaparkan rancangan arah kebijakan fiskal pemerintah tahun depan.",
-  "takeaway": "Penting diikuti karena RAPBN menjadi acuan utama arah belanja dan pendapatan negara setahun ke depan."
- },
- {
-  "id": "wdyyrAktpi4",
-  "title": "Waspada Risiko Inflasi Pangan Akibat El Nino",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "BPS mencatat inflasi tahunan kelompok makanan, minuman, dan tembakau melambat ke 2,97 persen pada pertengahan 2026, meski risiko tekanan akibat El Nino tetap diwaspadai.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti dinamika harga pangan dan dampaknya terhadap daya beli."
- },
- {
-  "id": "EYdhQuOLsPY",
-  "title": "Ekonom BNI Soroti Daya Beli Masyarakat",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Ekonom BNI Leo Putera Rinaldy menilai pemerintah perlu menjaga momentum pertumbuhan ekonomi lewat penciptaan lapangan kerja untuk mendorong daya beli masyarakat.",
-  "takeaway": "Memberi gambaran tantangan konsumsi rumah tangga di tengah pertumbuhan ekonomi nasional."
- },
- {
-  "id": "VM9Xu-n_5MY",
-  "title": "Ekonom BNI Nilai Fundamental Ekonomi RI Tetap Kuat",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Ekonom BNI Leo Putera Rinaldy menyebut fundamental ekonomi Indonesia tetap resilien, dengan pertumbuhan semester I 2026 mencapai 5,45 persen ditopang konsumsi.",
-  "takeaway": "Menunjukkan penilaian kalangan ekonom terhadap ketahanan ekonomi domestik di tengah ketidakpastian global."
- },
- {
-  "id": "RsxZ5gIt2lM",
-  "title": "Roda Ekonomi Bergairah, Pedagang Bendera Ramai Jelang HUT RI",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Menjelang HUT RI, penjualan bendera dan atribut merah putih ramai di Yogyakarta, mencerminkan geliat aktivitas ekonomi pedagang kecil menjelang perayaan.",
-  "takeaway": "Menggambarkan dampak momentum tahunan terhadap perputaran ekonomi pelaku usaha kecil."
  }
 ];

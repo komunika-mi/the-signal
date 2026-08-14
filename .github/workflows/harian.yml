@@ -3,19 +3,23 @@ name: Signal Harian
 # Produk berlangganan The Signal: satu tulisan sehari yang merangkai berita
 # hari itu jadi benang arah kebijakan.
 #
-# JAM SORE, DAN ITU DISENGAJA. Bahannya berita hari berjalan, jadi kalau
-# dijalankan pagi yang terangkai cuma berita kemarin. daily.yml masih menambah
-# artikel sampai 22.00 WIB, tapi menunggu selengkap itu berarti emailnya tiba
-# tengah malam. Pukul 18.00 WIB sudah mencakup hampir seluruh hari kerja.
+# JAM MALAM, DAN ITU DISENGAJA. Bahannya berita hari berjalan, jadi kalau
+# dijalankan pagi yang terangkai cuma berita kemarin. Sempat pukul 17.00 dan
+# itu terbukti kurang: daily.yml masih menambah artikel sampai 22.56 WIB, dan
+# edisi 13 Agustus 2026 terangkai dari 12 artikel padahal hari itu terbit 19.
 #
 # HARI KERJA SAJA, karena janji di formulir pendaftaran berbunyi "tiap hari
 # kerja". Sabtu dan Minggu bursa tutup dan lembaga tidak menerbitkan apa pun,
 # jadi bahannya memang tidak ada.
 #
-# Pengiriman ke pelanggan TIDAK dilakukan di sini. Workflow ini hanya menulis
-# dan menerbitkan feed.xml. Buttondown yang memantau feed itu lalu mengirim
-# sendiri ke pelanggan. Pemisahan ini disengaja: kalau pengiriman ikut di sini,
-# satu kegagalan build bisa berarti email ganda atau email setengah jadi.
+# PENGIRIMAN KE PELANGGAN DILAKUKAN DI SINI, lihat langkah terakhir.
+#
+# Komentar lama di tempat ini menyatakan sebaliknya, bahwa Buttondown memantau
+# feed lalu mengirim sendiri. Itu tidak pernah benar: fitur RSS-to-email
+# Buttondown berbayar, jadi pengiriman memang dikerjakan scripts/kirim-harian.mjs
+# lewat API. Catatan yang salah itu bertahan sampai 14 Agustus 2026 dan sempat
+# menyesatkan diagnosis ketika newsletter ternyata tidak pernah mengirim
+# apa pun. Komentar yang keliru lebih berbahaya daripada tidak ada komentar.
 # JAM GANJIL, DAN ITU PENTING. daily.yml jalan tiap jam GENAP 06.00-22.00 WIB,
 # dan Task Scheduler IDX di komputer rumah juga tiap jam GENAP 06.00-20.00.
 # Ketiganya menulis repo yang sama. Grup concurrency GitHub hanya mengatur
@@ -82,6 +86,10 @@ jobs:
             exit 0
           fi
           EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/harian.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
+          # Diteruskan lewat GITHUB_ENV karena variabel shell TIDAK menyeberang
+          # antar langkah, dan langkah penjaga di bawah memerlukannya untuk
+          # memastikan yang tayang benar edisi hari ini.
+          echo "EDISI=$EDISI" >> $GITHUB_ENV
           git commit -m "Signal Harian $EDISI"
           git push
 
@@ -94,9 +102,19 @@ jobs:
           #
           # Kalau situs tidak kunjung tayang, workflow sengaja digagalkan
           # sebelum satu pun email keluar.
+          if [ -z "$EDISI" ]; then
+            echo "::error::EDISI kosong, tidak bisa memastikan edisi mana yang harus tayang."
+            exit 1
+          fi
           for i in $(seq 1 20); do
             sleep 15
-            if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "<item>"; then
+            # Diperiksa EDISI HARI INI, bukan sekadar ada item apa pun.
+            # feed.xml sudah berisi item dari edisi sebelumnya, jadi pengujian
+            # lama lulus tanpa peduli edisi hari ini sudah tayang atau belum.
+            # Gerbang yang selalu terbuka sama saja dengan tidak ada gerbang,
+            # dan akibatnya email bisa terkirim menunjuk halaman yang belum
+            # memuat edisinya.
+            if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "the-signal-harian-$EDISI"; then
               echo "Situs dan feed sudah tayang."
               exit 0
             fi

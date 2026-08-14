@@ -208,7 +208,23 @@ jobs:
             echo "Tidak ada perubahan hari ini."
             echo "berubah=tidak" >> "$GITHUB_OUTPUT"
           else
-            git pull --rebase --autostash origin master || true
+            # Konflik JANGAN ditelan. Pola lama di sini `|| true` membuat
+            # rebase yang bentrok tetap dianggap sukses, lalu langkah commit
+            # berikutnya berhenti dengan "Committing is not possible because
+            # you have unmerged files" dan seluruh putaran gagal dengan pesan
+            # yang tidak menunjuk sebabnya. Terjadi pada run pasar 13 Agustus
+            # 2026 pukul 10.59 UTC, keluar dengan kode 128.
+            #
+            # Yang benar: batalkan rebase, samakan paksa dengan remote, lalu
+            # berhenti. Berkas yang dihasilkan putaran ini memang hilang, tapi
+            # semuanya bisa dibuat ulang pada putaran berikutnya, sedangkan
+            # repo yang setengah ter-rebase harus dibereskan tangan.
+            git pull --rebase --autostash origin master || {
+              echo "::error::Rebase bentrok dengan remote. Putaran ini dibatalkan; putaran berikutnya akan membuat ulang."
+              git rebase --abort 2>/dev/null || true
+              git reset --hard origin/master
+              exit 1
+            }
             git commit -m "Pembaruan otomatis: ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +%Y-%m-%d))"
             git push
             echo "berubah=ya" >> "$GITHUB_OUTPUT"

@@ -24,7 +24,19 @@ name: Perbarui data pasar
 # Totalnya sekitar 590 run atau 1.200 menit per bulan, aman di dalam kuota.
 on:
   schedule:
-    - cron: "*/30 2-9 * * 1-5"                    # tiap 30 mnt, 09.00-16.30 WIB, Senin-Jumat
+    # Diminta tiap 30 menit, 09.00-16.30 WIB, Senin-Jumat.
+    #
+    # YANG BENAR-BENAR TERJADI sekitar 5 putaran per sesi bursa, bukan 16.
+    # Dihitung dari riwayat: Rabu 12 Agustus 2026 jalan pukul 04.21, 05.52,
+    # 07.13, 08.44, dan 09.54 UTC. GitHub memang membatasi workflow berjadwal
+    # pada saat beban tinggi, dan cron di sini adalah permintaan, bukan
+    # jaminan. Memperapat cron TIDAK menolong karena batasnya di sisi mereka.
+    #
+    # Dibiarkan begini dengan sadar: 5 pembaruan per sesi masih cukup untuk
+    # angka indikatif di bilah atas, dan situs ini memang tidak menjanjikan
+    # harga waktu-nyata. Yang penting janjinya jujur, karena itu kalimat
+    # "diperbarui tiap 30 menit" sudah dihapus dari halaman.
+    - cron: "*/30 2-9 * * 1-5"
     - cron: "0 10,12,14,16,18,20,22,0 * * *"      # tiap 2 jam di luar jam bursa
   workflow_dispatch:
 
@@ -62,7 +74,23 @@ jobs:
             echo "Angka pasar tidak berubah, tidak ada yang dikirim."
             echo "berubah=tidak" >> "$GITHUB_OUTPUT"
           else
-            git pull --rebase --autostash origin master || true
+            # Konflik JANGAN ditelan. Pola lama di sini `|| true` membuat
+            # rebase yang bentrok tetap dianggap sukses, lalu langkah commit
+            # berikutnya berhenti dengan "Committing is not possible because
+            # you have unmerged files" dan seluruh putaran gagal dengan pesan
+            # yang tidak menunjuk sebabnya. Terjadi pada run pasar 13 Agustus
+            # 2026 pukul 10.59 UTC, keluar dengan kode 128.
+            #
+            # Yang benar: batalkan rebase, samakan paksa dengan remote, lalu
+            # berhenti. Berkas yang dihasilkan putaran ini memang hilang, tapi
+            # semuanya bisa dibuat ulang pada putaran berikutnya, sedangkan
+            # repo yang setengah ter-rebase harus dibereskan tangan.
+            git pull --rebase --autostash origin master || {
+              echo "::error::Rebase bentrok dengan remote. Putaran ini dibatalkan; putaran berikutnya akan membuat ulang."
+              git rebase --abort 2>/dev/null || true
+              git reset --hard origin/master
+              exit 1
+            }
             git commit -m "Data pasar $(date -u -d '+7 hours' +'%Y-%m-%d %H:%M') WIB"
             git push
             echo "berubah=ya" >> "$GITHUB_OUTPUT"

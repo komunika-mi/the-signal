@@ -102,8 +102,17 @@ jobs:
             echo "Tidak ada perubahan. Bahan hari ini kemungkinan terlalu sedikit,"
             echo "atau editor menilai tidak ada benang yang cukup jelas. Itu wajar,"
             echo "lebih baik tidak terbit daripada memaksakan tulisan hampa."
+            # Penanda untuk langkah-langkah di bawah supaya hari sah tanpa
+            # edisi berakhir HIJAU. Sebelumnya jalur ini membiarkan EDISI
+            # kosong sehingga langkah penjaga tayang exit 1, dan run merah
+            # berbunyi "EDISI kosong" padahal tidak ada yang rusak. Aturan
+            # rumah tangganya jelas (lihat pemantau.yml): satu-satunya
+            # workflow yang boleh merah tanpa kerusakan adalah pemantau.
+            # Merah palsu melatih pemilik mengabaikan notifikasi merah.
+            echo "TERBIT=tidak" >> $GITHUB_ENV
             exit 0
           fi
+          echo "TERBIT=ya" >> $GITHUB_ENV
           EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/harian.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
           # Diteruskan lewat GITHUB_ENV karena variabel shell TIDAK menyeberang
           # antar langkah, dan langkah penjaga di bawah memerlukannya untuk
@@ -131,8 +140,12 @@ jobs:
           #
           # Kalau situs tidak kunjung tayang, workflow sengaja digagalkan
           # sebelum satu pun email keluar.
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi hari ini, tidak ada yang perlu ditunggu. Selesai hijau."
+            exit 0
+          fi
           if [ -z "$EDISI" ]; then
-            echo "::error::EDISI kosong, tidak bisa memastikan edisi mana yang harus tayang."
+            echo "::error::EDISI kosong padahal ada edisi yang di-commit. Ini baru kejanggalan sungguhan."
             exit 1
           fi
           for i in $(seq 1 20); do
@@ -161,6 +174,10 @@ jobs:
           # Skrip menolak mengirim kalau edisi tanggal itu sudah pernah dibuat,
           # jadi menjalankan ulang workflow tidak berarti pelanggan menerima
           # dua email. Penjaga itu diuji: percobaan kedua berhenti sendiri.
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi hari ini, tidak ada email yang dikirim."
+            exit 0
+          fi
           node scripts/kirim-harian.mjs
 
       - name: Kirim ke kanal Telegram
@@ -172,6 +189,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
         run: |
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi hari ini, tidak ada kiriman Telegram."
+            exit 0
+          fi
           node scripts/kirim-telegram.mjs --harian
           # State anti-kirim-ganda hidup di repo. Tanpa commit ini, checkout
           # segar putaran besok tidak tahu edisi ini sudah terkirim dan

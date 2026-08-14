@@ -74,13 +74,21 @@ export const TEMA = [
 export const MIN_ARTIKEL_TEMA = 3;
 
 // Bidang yang dipindai: tempat pokok bahasan dinyatakan (lihat catatan atas).
-function teksUji(a) {
-  return [a.title, a.deck, (a.tags || []).join(' ')].join(' ');
+//
+// TIAP BIDANG DIUJI SENDIRI-SENDIRI, tidak digabung jadi satu string.
+// Versi gabung pernah menghasilkan frasa hantu: tags ["BBM","Subsidi","ESDM"]
+// yang di-join spasi menjadi "BBM Subsidi ESDM" cocok dengan pola
+// /bbm subsidi/ padahal frasa itu tidak ada di satu bidang pun. Ditangkap
+// verifikator 14 Agustus 2026 pada artikel harga-bbm-dan-lpg-subsidi:
+// judul, deck, dan tiap tag satuannya sama-sama TIDAK cocok, tapi
+// gabungannya cocok. Pencocokan lintas batas bidang selalu frasa karangan.
+function bidangUji(a) {
+  return [a.title, a.deck, ...(a.tags || [])].map(x => String(x || ''));
 }
 
 export function temaDariArtikel(a) {
-  const t = teksUji(a);
-  return TEMA.filter(x => x.kata.test(t)).map(x => x.slug);
+  const bidang = bidangUji(a);
+  return TEMA.filter(x => bidang.some(b => x.kata.test(b))).map(x => x.slug);
 }
 
 // Kelompokkan seluruh arsip per tema. Hanya tema yang lolos ambang yang keluar,

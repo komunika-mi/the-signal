@@ -93,8 +93,19 @@ async function modeHarian() {
     return;
   }
   const url = BASE + '/signal-harian.html?edisi=' + h.tanggal;
-  if (!await sudahTayang(BASE + '/signal-harian.html')) {
-    log('Halaman Signal Harian belum tayang, kiriman ditunda.');
+  // Yang diperiksa EDISI INI ADA DI FEED, bukan sekadar halamannya membalas
+  // 200. Halaman signal-harian.html statis dan selalu 200 sejak deploy
+  // pertama, jadi cek 200 adalah gerbang yang selalu terbuka (pelajaran yang
+  // sama dengan gerbang feed di harian.yml). Kalau dipanggil sebelum deploy
+  // edisi baru selesai, pembuka tautan akan disuguhi edisi lama.
+  try {
+    const feed = await (await fetch(BASE + '/feed.xml')).text();
+    if (!feed.includes('the-signal-harian-' + h.tanggal)) {
+      log('Edisi ' + h.tanggal + ' belum muncul di feed situs, kiriman ditunda.');
+      return;
+    }
+  } catch {
+    log('feed.xml tidak terbaca, kiriman ditunda supaya tidak menautkan edisi yang belum tayang.');
     return;
   }
   const benang = (h.benang || []).slice(0, 3)

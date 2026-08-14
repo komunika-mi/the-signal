@@ -52,13 +52,34 @@ jobs:
         # kanal tidak bisa menunggu deploy Vercel, jadi yang dikirim adalah
         # artikel rilis BPS dari putaran SEBELUMNYA yang kini sudah tayang
         # (skripnya memeriksa 200 dulu). Telat maksimal dua jam, tidak pernah
-        # menautkan halaman yang belum ada. Perubahan state anti-gandanya
-        # ikut ter-commit oleh langkah commit rutin di bawah.
+        # menautkan halaman yang belum ada.
+        #
+        # STATE ANTI-GANDA DI-COMMIT DI SINI JUGA, bukan menumpang commit
+        # rutin di akhir. Versi awal menumpang, dan verifikator membuktikan
+        # celahnya dengan simulasi: ada tujuh langkah lain yang bisa gagal di
+        # antara kirim dan commit, dan jalur konflik rebase malah me-reset
+        # workspace ke origin, jadi pesan yang SUDAH terkirim kehilangan
+        # catatannya dan putaran dua jam berikutnya mengirim ulang pesan yang
+        # sama ke seluruh kanal. Pesan kanal tidak bisa ditarik; catatan
+        # kirimnya harus aman sebelum langkah lain diberi kesempatan gagal.
         continue-on-error: true
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
-        run: node scripts/kirim-telegram.mjs --artikel-bps
+        run: |
+          node scripts/kirim-telegram.mjs --artikel-bps
+          if ! git diff --quiet scripts/telegram-kirim.json; then
+            git config user.name "the-signal-bot"
+            git config user.email "actions@github.com"
+            git add scripts/telegram-kirim.json
+            git commit -m "Catat kiriman Telegram artikel BPS"
+            git pull --rebase --autostash origin master || {
+              git rebase --abort 2>/dev/null || true
+              echo "::error::Rebase bentrok saat mencatat state Telegram."
+              exit 1
+            }
+            git push
+          fi
 
       - name: Pasang ffmpeg
         run: |

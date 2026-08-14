@@ -192,7 +192,10 @@ async function main() {
   catch (err) { log('rapor: penagihan gagal: ' + (err.message || err)); }
   ubah += kedaluwarsa(rapor);
 
-  simpan(rapor);
+  // Ditulis HANYA kalau ada yang berubah. Stempel diperbarui yang diganti
+  // tiap malam tanpa isi baru cuma menghasilkan commit bising, dan membuat
+  // "diperbarui" berhenti bermakna sebagai tanggal perubahan terakhir.
+  if (ubah) simpan(rapor);
   const hitung = {};
   for (const e of rapor.entri) hitung[e.status] = (hitung[e.status] || 0) + 1;
   log('rapor: ' + rapor.entri.length + ' klaim (' +

@@ -82,6 +82,22 @@ export function ekstrakAgenda(ARTICLES, opsi = {}) {
         const tahun = m[3] ? parseInt(m[3], 10) : tahunArtikel(a);
         utc = Date.UTC(tahun, NO_BULAN[m[2].toLowerCase()], parseInt(m[1], 10));
       } else {
+        // Bulan polos (tanpa angka hari dan tanpa awal/pertengahan/akhir)
+        // sering bukan jadwal, melainkan LABEL PERIODE DATA: "Survei Penjualan
+        // Eceran periode Agustus 2026" atau "angka ICP Agustus 2026" menyebut
+        // data bulan apa, bukan kapan rilisnya (rilisnya justru bulan
+        // berikutnya). Ditangkap verifikator 14 Agustus 2026: tiga entri
+        // kalender memajang tanggal yang bukan tanggal peristiwa. Dua pagar:
+        //   1. didahului kata "periode" -> pasti label data, buang;
+        //   2. bulan polos yang sama dengan bulan artikelnya sendiri ->
+        //      obrolan "bulan ini", bukan tenggat; tenggat nyata dalam bulan
+        //      berjalan hampir selalu membawa angka hari.
+        if (!m[4]) {
+          if (/periode\s*$/i.test(teks.slice(Math.max(0, m.index - 12), m.index))) continue;
+          const isoA = String(a.isoDate || '');
+          if (parseInt(isoA.slice(5, 7), 10) - 1 === NO_BULAN[m[5].toLowerCase()] &&
+              parseInt(isoA.slice(0, 4), 10) === parseInt(m[6], 10)) continue;
+        }
         const hariKira = { awal: 5, pertengahan: 15, akhir: 25 }[m[4]] || 15;
         utc = Date.UTC(parseInt(m[6], 10), NO_BULAN[m[5].toLowerCase()], hariKira);
         perkiraan = true;

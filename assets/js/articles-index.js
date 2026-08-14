@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan",
+  "category": "UMKM",
+  "title": "Warga Koja Ubah [Sampah] Jadi Sekolah dan Penghasilan",
+  "deck": "Program binaan Pertamina Lubricants di Gang Hijau Cemara, Jakarta Utara, mengubah sampah warga menjadi kompos, pakan ternak, hingga biaya sekolah anak lewat skema tabungan sampah.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan.jpg",
+  "imageV": "mstktamz",
+  "tags": [
+   "kampung binaan",
+   "bank sampah",
+   "Pertamina Lubricants",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460013-kampung-binaan-pertamina-lubricants-dorong-ekonomi-sirkuler-beri-dampak-ekonomi-hingga-200-juta-per-tahun"
+ },
+ {
+  "slug": "bantul-atasi-sampah-usai-tpa-piyungan-tutup",
+  "category": "UMKM",
+  "title": "Bantul Atasi Sampah Usai [TPA] Piyungan Tutup",
+  "deck": "TPS 3R GO-SARI di Guwosari olah 3-3,5 ton sampah rumah tangga per hari, layani 1.500 keluarga, dan buka kerja bagi 27 warga usai TPA Piyungan ditutup.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/bantul-atasi-sampah-usai-tpa-piyungan-tutup.jpg",
+  "imageV": "mstktbdb",
+  "tags": [
+   "sampah",
+   "bantul",
+   "TPS 3R",
+   "daur ulang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460011-solusi-mandiri-dari-bantul-cara-tps-3r-go-sari-atasi-masalah-sampah-dari-sumbernya"
+ },
+ {
   "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
   "category": "Teknologi",
   "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",

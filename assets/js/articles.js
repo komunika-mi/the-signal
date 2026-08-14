@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan",
+  "category": "UMKM",
+  "title": "Warga Koja Ubah [Sampah] Jadi Sekolah dan Penghasilan",
+  "deck": "Program binaan Pertamina Lubricants di Gang Hijau Cemara, Jakarta Utara, mengubah sampah warga menjadi kompos, pakan ternak, hingga biaya sekolah anak lewat skema tabungan sampah.",
+  "image": "assets/img/warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T02:54:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460013-kampung-binaan-pertamina-lubricants-dorong-ekonomi-sirkuler-beri-dampak-ekonomi-hingga-200-juta-per-tahun",
+  "tags": [
+   "kampung binaan",
+   "bank sampah",
+   "Pertamina Lubricants",
+   "UMKM"
+  ],
+  "body": [
+   "Kawasan Gang Hijau Cemara di RW 01, Kecamatan Koja, Jakarta Utara, bertransformasi dari permukiman padat menjadi kampung percontohan pengelolaan sampah dan penghijauan. Perubahan ini digerakkan warga sejak 2013 dan mendapat dukungan program kampung binaan dari Pertamina Lubricants sejak 2022, sehingga kegiatan yang tadinya berjalan seadanya kini berkembang lebih terstruktur. Sampah rumah tangga yang dulu jadi masalah kini diolah warga menjadi berbagai produk yang mendatangkan penghasilan tambahan bagi komunitas.",
+   "Ketua Kelompok Pengelola Gang Hijau Cemara, Dani Arwanto, menyebut program-program di kampungnya terus bertambah sejak mendapat pendampingan tersebut. Selain fokus pada kebersihan lingkungan, warga menjalankan program ketahanan pangan, peternakan, perikanan, budi daya anggur, hidroponik, pendidikan anak usia dini, hingga layanan kesehatan lewat Pos Pembinaan Terpadu atau Posbindu. Di sisi pengelolaan sampah, warga mengembangkan budi daya maggot untuk mengurai sampah organik, lalu mengolah hasilnya menjadi pakan ternak dan ikan, serta pelet biomassa yang bisa dijual.",
+   "Konsep memberi nilai ekonomi pada sampah ini juga diterapkan di bidang pendidikan lewat Green PAUD Cemara, sekolah anak usia dini gratis yang sudah meluluskan tujuh angkatan siswa. Alih-alih membayar uang sekolah, orang tua murid menyetor dua kilogram sampah setiap bulan, yang kemudian dikelola pihak sekolah. Menurut Dani, skema ini sekaligus jadi sarana edukasi lingkungan bagi orang tua, bukan hanya bagi anak-anak yang bersekolah.",
+   "Hasil pengumpulan sampah lewat bank sampah di kampung ini juga disalurkan ke kegiatan usaha mikro, kecil, dan menengah warga, yang mengolahnya lebih lanjut menjadi berbagai produk jadi. Dengan begitu, rantai pengelolaan sampah di Gang Hijau Cemara berjalan dari tahap pemilahan, pengolahan, hingga menghasilkan produk yang punya nilai jual di tingkat warga."
+  ],
+  "fotoAdegan": "Workers in gloves tending wooden trays of maggot compost bins in a narrow, green-shaded Jakarta neighborhood alley, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a7f71e24c301-kampung-binaan-pertamina-lubricants-dorong-ekonomi-sirkuler-beri-dampak-ekonomi-hingga-200-juta-per-tahun_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma soal kebersihan, melainkan model pembiayaan program: sejak 2022, dukungan Pertamina Lubricants membuat kegiatan yang dirintis warga sejak 2013 makin berkembang, termasuk skema Green PAUD Cemara yang sudah berjalan tujuh angkatan, di mana orang tua membayar sekolah anak dengan menyetor dua kilogram sampah per bulan, bukan uang tunai. Yang merasakan dampaknya langsung adalah warga RW 01 Gang Hijau Cemara, khususnya orang tua siswa PAUD yang terbantu biaya sekolah dan pelaku UMKM setempat yang mendapat bahan baku dari hasil bank sampah. Arahnya terlihat menuju pola di mana sampah rumah tangga diperlakukan sebagai bahan yang bisa diolah jadi produk terjual, bukan cuma dibuang percuma. Yang masih belum jelas dari cerita ini adalah berapa besar nilai rupiah yang benar-benar diterima warga atau pelaku UMKM dari hasil olahan sampah itu setiap bulan atau setiap tahun, sehingga skala dampak ekonominya di luar daftar kegiatan yang sudah berjalan belum bisa dipastikan.",
+  "imageV": "mstktamz"
+ },
+ {
+  "slug": "bantul-atasi-sampah-usai-tpa-piyungan-tutup",
+  "category": "UMKM",
+  "title": "Bantul Atasi Sampah Usai [TPA] Piyungan Tutup",
+  "deck": "TPS 3R GO-SARI di Guwosari olah 3-3,5 ton sampah rumah tangga per hari, layani 1.500 keluarga, dan buka kerja bagi 27 warga usai TPA Piyungan ditutup.",
+  "image": "assets/img/bantul-atasi-sampah-usai-tpa-piyungan-tutup.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T02:46:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460011-solusi-mandiri-dari-bantul-cara-tps-3r-go-sari-atasi-masalah-sampah-dari-sumbernya",
+  "tags": [
+   "sampah",
+   "bantul",
+   "TPS 3R",
+   "daur ulang"
+  ],
+  "body": [
+   "Penutupan TPA Piyungan oleh pemerintah daerah, ditambah volume sampah rumah tangga yang terus naik, sempat membuat warga Guwosari, Kecamatan Pajangan, Kabupaten Bantul, kebingungan mencari tempat membuang sampah. Dari situasi mendesak itu, warga justru membangun solusinya sendiri lewat TPS 3R GO-SARI, fasilitas pengolahan sampah yang bekerja langsung dari sumbernya. Fasilitas ini kini sanggup mengolah 3 sampai 3,5 ton sampah rumah tangga setiap hari.",
+   "Sampah yang masuk dipilah dengan istilah sederhana ala warga setempat, yaitu bosok, rosok, popok, dan bodongkok, supaya mudah dipahami dan dipisahkan saat dibuang. Sampah organik diolah jadi pupuk kompos dan dijadikan pakan untuk budi daya maggot lalat black soldier fly, yang kemudian dipakai sebagai pakan ikan dan ternak, termasuk sekitar 458 ekor ayam petelur yang menghasilkan sekitar 27 kilogram telur per hari. Sementara sampah plastik jenis HDPE disulap jadi perabot seperti meja, kursi, rak, dan pot bunga.",
+   "Kehadiran TPS 3R GO-SARI kini melayani sekitar 1.500 rumah tangga di sekitar Guwosari dan membuka lapangan kerja bagi 27 warga setempat. Dari berbagai kegiatan produktif tersebut, fasilitas ini menghasilkan pendapatan sekitar Rp98 juta per bulan."
+  ],
+  "fotoAdegan": "Workers hand-sorting piles of household waste at an open-air community recycling yard, wooden chicken coops nearby, tropical morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a7f6fd791236-solusi-mandiri-dari-bantul-cara-tps-3r-go-sari-atasi-masalah-sampah-dari-sumbernya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini, penutupan TPA Piyungan memaksa warga satu kelurahan mengurus sendiri sampahnya, bukan lagi membuangnya ke tempat pembuangan akhir. Fasilitas TPS 3R GO-SARI baru sanggup mengolah 3 sampai 3,5 ton sampah sehari untuk 1.500 rumah tangga, sambil menghidupi 27 pekerja dengan pendapatan sekitar Rp98 juta sebulan. Yang belum terlihat dari berita ini adalah berapa total sampah yang dihasilkan seluruh warga Bantul setiap hari, sehingga sulit menilai apakah model semacam ini cukup menutup kekurangan pengelolaan sampah pasca TPA Piyungan tutup, atau baru menjangkau sebagian kecil wilayah. Yang perlu dipantau selanjutnya adalah apakah Pemerintah Kabupaten Bantul berencana mereplikasi model TPS 3R ini ke kelurahan lain, karena itu yang akan menentukan apakah solusi warga Guwosari ini jadi contoh yang diperluas atau tetap jadi kasus tunggal.",
+  "imageV": "mstktbdb"
+ },
+ {
   "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
   "category": "Teknologi",
   "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",

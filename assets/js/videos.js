@@ -2,6 +2,62 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "x6-IEngk1Ns",
+  "title": "Kadin Indonesia Gelar Economic Diplomatic Breakfast",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Kadin Indonesia menggelar acara rutin Economic Diplomatic Breakfast dengan mengundang sejumlah duta besar negara sahabat untuk membahas kerja sama ekonomi.",
+  "takeaway": "Acara ini relevan sebagai cerminan upaya diplomasi ekonomi Indonesia dengan mitra dagang internasional."
+ },
+ {
+  "id": "wz_hrMy_i3M",
+  "title": "Kontroversi KDMP di Atas Gunung, Ini Jawaban Mendes PDT",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal menanggapi sorotan publik soal pendirian Koperasi Desa Merah Putih di lokasi pegunungan, di tengah upaya menjadikan desa penggerak ekonomi baru.",
+  "takeaway": "Isu ini penting karena menyangkut efektivitas program koperasi desa sebagai instrumen pemerataan ekonomi."
+ },
+ {
+  "id": "n8lP3w265f4",
+  "title": "Prabowo: Pendapatan Negara Tumbuh 21,3 Persen",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto melaporkan pendapatan negara tumbuh 21,3 persen dalam pidato kenegaraan di Sidang Tahunan MPR 2026, sebagai bagian dari evaluasi kinerja 21 bulan pemerintahannya.",
+  "takeaway": "Angka pertumbuhan pendapatan negara ini menjadi salah satu indikator kesehatan fiskal pemerintah."
+ },
+ {
+  "id": "nDM01Q9XXKw",
+  "title": "Mungkinkah Desa Jadi Kekuatan Ekonomi Baru?",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Diskusi membahas potensi desa sebagai basis pertumbuhan ekonomi baru Indonesia, di luar perannya selama ini sebagai basis pembangunan.",
+  "takeaway": "Topik ini relevan untuk melihat arah kebijakan pemerataan ekonomi berbasis desa."
+ },
+ {
+  "id": "E7lcpHP1jK0",
+  "title": "Desa Ekspor dan Wisata Jadi Program Unggulan",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Program desa ekspor dan desa wisata disiapkan sebagai andalan untuk mendongkrak perekonomian desa dan memperkuat posisi desa dalam pertumbuhan ekonomi nasional.",
+  "takeaway": "Program ini penting disimak sebagai upaya konkret mendorong desa berorientasi pasar dan devisa."
+ },
+ {
+  "id": "4tdEwW0eeFU",
+  "title": "Kopdes di Atas Gunung hingga Dekat Kuburan",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan PDT menjelaskan sebaran lokasi Koperasi Desa Merah Putih yang dibangun di berbagai kondisi geografis, termasuk daerah terpencil.",
+  "takeaway": "Sebaran lokasi koperasi ini menjadi indikator jangkauan program ekonomi desa ke wilayah sulit akses."
+ },
+ {
+  "id": "vqSu32eKyh0",
+  "title": "Isu Ritel Dilarang Dekat Kopdes, Mendes PDT Bantah",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan PDT membantah isu yang menyebut toko ritel modern dilarang beroperasi dekat Koperasi Desa Merah Putih, dan menyebutnya sebagai informasi hasil rekayasa AI.",
+  "takeaway": "Klarifikasi ini penting untuk meluruskan simpang siur kebijakan yang berdampak pada pelaku usaha ritel dan koperasi desa."
+ },
+ {
   "id": "X2iFftwFwqo",
   "title": "Mendes PDT: Kopdes Belum Sukses, Masyarakat Diminta Sabar",
   "category": "UMKM",
@@ -40,61 +96,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Anggota Komisi XI DPR RI menilai RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional mulai memberi dampak nyata bagi masyarakat.",
   "takeaway": "Menunjukkan penilaian DPR atas arah belanja negara dalam RAPBN 2027 yang tengah dibahas pemerintah."
- },
- {
-  "id": "olOxaJPvTCk",
-  "title": "DPR dan LPS Tanggapi Rancangan APBN 2027",
-  "category": "Perbankan",
-  "program": "AKIM",
-  "summary": "Anggota DPR RI dan Ketua Dewan Komisioner LPS memberikan tanggapan atas RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional.",
-  "takeaway": "Memberi gambaran pandangan legislatif dan otoritas penjamin simpanan terhadap arah anggaran negara tahun depan."
- },
- {
-  "id": "2K3sUklWyCQ",
-  "title": "Pemerintah Sampaikan RAPBN 2027 dan Nota Keuangan",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto memaparkan RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional dalam Nota Keuangan pemerintah.",
-  "takeaway": "Menjadi acuan utama bagi pembaca untuk memahami arah kebijakan fiskal pemerintah tahun depan."
- },
- {
-  "id": "HP1xjM8ePGM",
-  "title": "Ketua LPS: Target Pemerintah 2027 Cukup Realistis",
-  "category": "Makroekonomi",
-  "program": "AKIM",
-  "summary": "Ketua Dewan Komisioner LPS menilai target pemerintah di 2027 realistis, mencakup proyeksi pertumbuhan ekonomi, penguatan hilirisasi, dan disiplin fiskal.",
-  "takeaway": "Memberi perspektif otoritas keuangan atas kredibilitas target ekonomi pemerintah untuk tahun mendatang."
- },
- {
-  "id": "vkl7oDWHgXs",
-  "title": "RAPBN 2027 Difokuskan untuk Keluar dari Middle Income Trap",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto menyampaikan bahwa Rancangan APBN Tahun Anggaran 2027 akan difokuskan pada delapan program prioritas untuk mendorong Indonesia keluar dari jebakan pendapatan menengah.",
-  "takeaway": "Arah RAPBN 2027 penting diikuti karena menentukan alokasi anggaran negara dan strategi pemerintah menghadapi risiko stagnasi pertumbuhan ekonomi."
- },
- {
-  "id": "9k5StIe8Sd4",
-  "title": "Investasi Jadi Kunci Pemerintah Kejar Pertumbuhan Ekonomi",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Pemerintah menempatkan peningkatan investasi sebagai salah satu kunci utama untuk mendorong pertumbuhan ekonomi dan memperkuat perekonomian nasional.",
-  "takeaway": "Kebijakan investasi berdampak langsung pada iklim usaha dan proyeksi pertumbuhan ekonomi yang jadi perhatian pelaku pasar dan dunia usaha."
- },
- {
-  "id": "TOmSIGJbUcQ",
-  "title": "Jakarta dan Bali Ditetapkan Jadi Pusat Finansial Internasional",
-  "category": "Pasar Modal",
-  "program": "Kabar Khusus",
-  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia untuk memperkuat posisi ekonomi nasional di kancah global.",
-  "takeaway": "Pembentukan pusat finansial internasional berpotensi menarik arus modal asing dan relevan bagi pelaku industri keuangan serta investor."
- },
- {
-  "id": "JTwtp-jOv9U",
-  "title": "Prabowo: Lembaga Rating China Beri RI Peringkat AAA",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Presiden Prabowo menyebut lembaga pemeringkat kredit asal China turut memberikan peringkat AAA untuk Indonesia, menyusul pengakuan serupa dari lembaga rating negara Barat.",
-  "takeaway": "Peringkat kredit tertinggi dari lembaga internasional menjadi sinyal penting bagi kepercayaan investor terhadap perekonomian Indonesia."
  }
 ];

@@ -471,16 +471,34 @@ ARTICLES.forEach(function (a) {
     `<div class="article-cover ai-wrap"><img src="${imgUrl(a)}" alt="${esc((a.kreditFoto ? 'Foto: ' : 'Ilustrasi: ') + plain(a.title))}" fetchpriority="high">${
       a.kreditFoto ? '<span class="foto-tag">Foto: ' + esc(a.kreditFoto) + '</span>'
       : '<span class="ai-tag">Ilustrasi AI</span>'}</div>` +
+    // ARAHNYA DI ATAS, duduk perkaranya di bawah.
+    //
+    // Catatan redaksi dulu diletakkan paling akhir, setelah seluruh badan
+    // berita dan bahkan setelah kalimat penafian. Audit 14 Agustus 2026
+    // mengukurnya: label "Catatan redaksi" berada di blok ke-48 dari 125 blok
+    // teks halaman. Padahal justru itu bagian yang dijual, contohnya pada
+    // artikel MSCI: "Pola tidak ada saham baru yang masuk ke indeks utama
+    // sementara yang keluar cukup banyak ini mengarah ke penyusutan sementara
+    // bobot Indonesia di radar investor pasif global."
+    //
+    // Menaruhnya di bawah berarti pembaca harus melewati seluruh rangkuman
+    // untuk sampai ke satu-satunya bagian yang tidak bisa didapat gratis di
+    // tempat lain. Sekarang dibalik: arahnya lebih dulu, uraiannya menyusul.
+    // Labelnya pun diganti dari "Catatan redaksi" yang terdengar seperti
+    // tambahan, jadi "Arahnya ke mana" yang menyebut isinya.
+    (a.takeaway ? `<div class="arah-blok">` +
+      `<b class="arah-label">Arahnya ke mana${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
+        { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
+      }</span>` : ''}</b>` +
+      `<p class="arah-isi">${esc(a.takeaway)}</p>` +
+      `</div>` : '') +
     `<div class="article-body">${badanDenganBps(a)}</div>` +
     (a.category === 'Pasar Modal' || a.category === 'Moneter'
       ? `<p class="disclaimer-investasi">Artikel ini informasi, bukan ajakan atau rekomendasi membeli maupun menjual instrumen investasi apa pun. Keputusan investasi beserta risikonya sepenuhnya tanggung jawab pembaca.</p>`
       : '') +
-    (a.takeaway ? `<div class="video-takeaway catatan-idx">` +
-      `<b>Catatan redaksi${a.sentimen ? ` <span class="sentimen sentimen-${a.sentimen}">${
-        { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' }[a.sentimen]
-      }</span>` : ''}</b>${esc(a.takeaway)}` +
-      (a.sentimen ? `<span class="catatan-disclaimer">Penilaian ini menyangkut fundamental emiten, bukan anjuran membeli atau menjual saham.</span>` : '') +
-      `</div>` : '') +
+    (a.takeaway && a.sentimen
+      ? `<p class="catatan-disclaimer">Penilaian arah di atas menyangkut fundamental emiten, bukan anjuran membeli atau menjual saham.</p>`
+      : '') +
     videoHtml +
     `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
     `<p class="foto-kredit">${a.kreditFoto

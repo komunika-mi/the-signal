@@ -751,3 +751,24 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
   .sinyal-panel { padding: 1.1rem 1.1rem; }
   .sinyal-benang { grid-template-columns: 1fr; gap: .5rem; }
 }
+
+/* ---------- "Arahnya ke mana" di atas badan berita ----------
+   Ditaruh sebelum uraian karena inilah bagian yang tidak bisa didapat gratis
+   di tempat lain. Diberi aksen kiri merah supaya terbaca sebagai penilaian
+   redaksi, bukan kelanjutan berita. */
+.arah-blok {
+  max-width: var(--kolom-baca); margin: 0 0 1.6rem;
+  padding: .95rem 1.1rem; background: var(--card);
+  border-left: 3px solid var(--red);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+.arah-label {
+  display: block; font-family: var(--sans); font-size: .68rem;
+  font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--red-deep); margin-bottom: .4rem;
+}
+.arah-isi {
+  margin: 0; font-family: var(--sans); font-size: .88rem;
+  line-height: 1.62; color: var(--ink);
+}
+.arah-blok .sentimen { text-transform: none; letter-spacing: 0; margin-left: .3rem; }

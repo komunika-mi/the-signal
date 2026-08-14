@@ -1014,6 +1014,29 @@ if (fotoHilang.length) {
   }
 }
 
+// Penjaga keempat: berapa artikel yang tayang TANPA pembacaan arah.
+//
+// Nama medianya The Signal, dan yang dijual bukan rangkuman melainkan arah.
+// Catatan redaksi adalah tempat arah itu ditulis. Audit 14 Agustus 2026
+// menemukan 107 dari 222 artikel tayang tanpa catatan sama sekali, karena
+// aturan lama membolehkannya dikosongkan dan model mengambil jalan pintas itu
+// berbulan-bulan tanpa ada yang menghitung.
+//
+// Peringatan, bukan penghentian: satu artikel tanpa catatan tidak boleh
+// menahan seluruh terbitan. Yang penting angkanya TERLIHAT tiap build, supaya
+// kemunduran ketahuan saat terjadi, bukan berbulan-bulan kemudian.
+{
+  const tanpaArah = ARTICLES.filter(a => !a.takeaway);
+  const persen = Math.round((ARTICLES.length - tanpaArah.length) / ARTICLES.length * 100);
+  console.log('catatan arah:', (ARTICLES.length - tanpaArah.length) + '/' + ARTICLES.length,
+    '(' + persen + '%)');
+  if (tanpaArah.length) {
+    console.warn('PERINGATAN: ' + tanpaArah.length + ' artikel tayang tanpa pembacaan arah.');
+    console.warn('  Perbaiki: node scripts/isi-catatan.mjs ' + Math.min(tanpaArah.length, 30));
+    tanpaArah.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
+  }
+}
+
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
 console.log('sitemap urls:', urls.length);

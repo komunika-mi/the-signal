@@ -5,12 +5,64 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
+  "category": "Aksi Korporasi",
+  "title": "BQ Umumkan Jatuh Tempo 18 [Waran Terstruktur] BQCQ6A",
+  "deck": "KISI mengumumkan 18 waran terstruktur BQCQ6A atas saham AADI hingga TAPG akan berakhir dan dieksekusi otomatis pada 31 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a.jpg",
+  "imageV": "mssqdnmv",
+  "tags": [
+   "BQ",
+   "waran terstruktur",
+   "KISI",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3090f3670_7da28b477b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept",
+  "category": "Aksi Korporasi",
+  "title": "BSLT siapkan dana [Rp750 miliar] lunasi obligasi jatuh tempo Sept",
+  "deck": "Bank SulutGo (BSLT) menyatakan sudah menyiapkan dana Rp750 miliar untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2021 (BSLT01CN1) yang jatuh tempo 7 September 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept.jpg",
+  "imageV": "mssqe7ct",
+  "tags": [
+   "BSLT",
+   "obligasi",
+   "Bank SulutGo",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aba0384dc8_f6e1e96106.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-umumkan-harga-final-18-seri-waran-terstruktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "DR Umumkan Harga Final 18 Seri [Waran Terstruktur] Baru",
+  "deck": "RHB Sekuritas (DR) merilis term sheet berisi harga penawaran dan pelaksanaan 18 seri call warrant baru atas saham AMMN, BBCA, BBRI, dan 15 lainnya, dicatatkan 19 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/dr-umumkan-harga-final-18-seri-waran-terstruktur-baru.jpg",
+  "imageV": "mssqeos8",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "AMMN",
+   "BBCA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/731ac75733_6d9a15635d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",
   "category": "Industri",
   "title": "KADI Buka Penyelidikan [Dumping] SAP Asal Tiongkok",
   "deck": "KADI membuka penyelidikan antidumping impor Superabsorbent Polymers dari Tiongkok, menyusul aduan PT Nippon Shokubai Indonesia atas lonjakan impor yang disebut merugikan industri dalam negeri.",
   "date": "14 Agustus 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/kadi-buka-penyelidikan-dumping-sap-asal-tiongkok.jpg",
+  "imageV": "mssqf34x",
   "tags": [
    "antidumping",
    "KADI",
@@ -19,6 +71,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-produk-impor-superabsorbent-polymers-asal-tiongkok",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "luck-jadwalkan-rupslb-pada-23-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Jadwalkan [RUPSLB] pada 23 September 2026",
+  "deck": "PT Sentral Mitra Informatika Tbk (LUCK) mengumumkan rencana RUPSLB pada 23 September 2026, dengan tanggal pencatatan pemegang saham 31 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/luck-jadwalkan-rupslb-pada-23-september-2026.jpg",
+  "imageV": "mssqfhgz",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Sentral Mitra Informatika",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/061d310702_1676372240.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
@@ -36,6 +105,74 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459876-tambang-ilegal-ditutup-profit-pt-timah-disebut-tembus-rp27-triliun-dalam-6-bulan"
+ },
+ {
+  "slug": "bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september",
+  "category": "Aksi Korporasi",
+  "title": "BPII Bagikan Dividen Interim [Rp35 Miliar], Cair 11 September",
+  "deck": "BPII membagikan dividen interim tahun buku 2026 senilai Rp3,54 per saham, total maksimal Rp35 miliar, dengan pencatatan pemegang saham 28 Agustus dan pembayaran 11 September 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september.jpg",
+  "imageV": "mssqg45c",
+  "tags": [
+   "BPII",
+   "dividen interim",
+   "emiten",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b6c44630e8_edb34840aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Tambah Shen Huayu Sebagai [Komisaris] Baru Bank",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menambah Shen Huayu sebagai komisaris baru per 12 Agustus 2026, sementara seluruh direksi dan komisaris lain tidak berubah.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank.jpg",
+  "imageV": "mssqgqgd",
+  "tags": [
+   "MCOR",
+   "Perbankan",
+   "Komisaris",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ada6d0787_9f745ec7d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Rampungkan Realisasi Dana IPO, Porsi [Pelunasan Utang] Naik",
+  "deck": "Seluruh dana hasil IPO 2023 CNMA senilai Rp2,17 triliun sudah terpakai habis, namun porsi pelunasan utang membengkak jadi 23 persen dari rencana 20 persen, sementara alokasi ekspansi sedikit menyusut.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik.jpg",
+  "imageV": "mssqha04",
+  "tags": [
+   "CNMA",
+   "IPO",
+   "penggunaan dana",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9a30555_0c4a92a6c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "IBST buka sementara suspensi untuk crossing saham [buyback]",
+  "deck": "Bursa membuka sementara perdagangan IBST khusus pasar negosiasi Jumat siang untuk crossing saham hasil buyback, bagian dari proses go private perseroan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback.jpg",
+  "imageV": "mssqhxdk",
+  "tags": [
+   "IBST",
+   "suspensi saham",
+   "buyback",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b6e3990_ce89012025.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",

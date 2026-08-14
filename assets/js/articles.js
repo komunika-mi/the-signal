@@ -3,11 +3,92 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
+  "category": "Aksi Korporasi",
+  "title": "BQ Umumkan Jatuh Tempo 18 [Waran Terstruktur] BQCQ6A",
+  "deck": "KISI mengumumkan 18 waran terstruktur BQCQ6A atas saham AADI hingga TAPG akan berakhir dan dieksekusi otomatis pada 31 Agustus 2026.",
+  "image": "assets/img/bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:28:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3090f3670_7da28b477b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "waran terstruktur",
+   "KISI",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ) mengumumkan jadwal berakhirnya 18 seri waran terstruktur berkode akhiran BQCQ6A yang diterbitkan atas saham AADI, ARTO, BRPT, DSNG, ELSA, EMTK, EXCL, HRUM, INDY, INKP, INTP, JSMR, MBMA, MDKA, PANI, PNBN, PTRO, dan TAPG. Pengumuman ditandatangani Senior Manager KISI, Eric Gunawan, dan diterbitkan di Jakarta pada 14 Agustus 2026.",
+   "Jadwalnya: perdagangan terakhir waran ini jatuh pada Rabu, 26 Agustus 2026 pukul 16.00 WIB. Perdagangan dihentikan mulai Kamis, 27 Agustus 2026 pukul 09.00 WIB hingga tanggal pelaksanaan. Waran dilaksanakan secara otomatis pada Senin, 31 Agustus 2026 pukul 09.00 WIB, dan resmi didelisting dari bursa pada Selasa, 1 September 2026 pukul 09.00 WIB.",
+   "Penyelesaiannya berupa uang tunai, dihitung dari jumlah waran dikalikan selisih harga penyelesaian dengan harga pelaksanaan, dibagi rasio konversi. Kalau selisihnya positif, waran otomatis dieksekusi dan pemegang menerima dana lewat KSEI paling lambat tiga hari bursa sejak tanggal pelaksanaan. Kalau selisihnya nol atau negatif, waran berakhir begitu saja tanpa nilai dan pemegang tidak perlu membayar apa pun.",
+   "Rincian harga pelaksanaan dan rasio konversi per kode: AADIBQCQ6A Rp9.308 dengan rasio 32,9914 waran per saham AADI; ARTOBQCQ6A Rp1.470 rasio 10; BRPTBQCQ6A Rp2.078 rasio 11,9868; DSNGBQCQ6A Rp1.881 rasio 9,5966; ELSABQCQ6A Rp909 rasio 2,7840; EMTKBQCQ6A Rp872 rasio 7,9292; EXCLBQCQ6A Rp4.500 rasio 15; HRUMBQCQ6A Rp1.480 rasio 8; INDYBQCQ6A Rp4.758 rasio 14,9311; INKPBQCQ6A Rp12.168 rasio 39,5714; INTPBQCQ6A Rp8.059 rasio 36,2182; JSMRBQCQ6A Rp4.724 rasio 15,1777; MBMABQCQ6A Rp1.175 rasio 6; MDKABQCQ6A Rp4.856 rasio 14,9277; PANIBQCQ6A Rp13.490 rasio 49,9635; PNBNBQCQ6A Rp1.441 rasio 5,7276; PTROBQCQ6A Rp10.800 rasio 40; dan TAPGBQCQ6A Rp1.857 rasio 9,0606."
+  ],
+  "fotoAdegan": "Wide shot of a busy Jakarta stock exchange gallery, traders in business attire walking past a distant blurred ticker board, morning light",
+  "takeaway": "Laporan ini netral bagi KISI karena hanya menjalankan jadwal baku jatuh tempo produk waran terstruktur, bukan sinyal apa pun soal kondisi keuangan perusahaan sekuritas itu sendiri. Yang tersentuh bukan neraca KISI, melainkan nasib pemegang 18 seri waran BQCQ6A: kalau harga saham acuan saat penyelesaian lebih tinggi dari harga pelaksanaan, pemegang dapat uang tunai sesuai selisihnya dibagi rasio konversi, tapi kalau lebih rendah atau sama, waran itu hangus tanpa pemegang perlu membayar tambahan apa pun. Yang perlu dipantau pemegang waran: perdagangan terakhir Rabu 26 Agustus 2026 pukul 16.00 WIB, suspensi mulai Kamis 27 Agustus pukul 09.00 WIB, eksekusi otomatis Senin 31 Agustus pukul 09.00 WIB, delisting Selasa 1 September pukul 09.00 WIB, dan pencairan dana lewat KSEI paling lambat tiga hari bursa setelah tanggal eksekusi.",
+  "sentimen": "netral",
+  "imageV": "mssqdnmv"
+ },
+ {
+  "slug": "bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept",
+  "category": "Aksi Korporasi",
+  "title": "BSLT siapkan dana [Rp750 miliar] lunasi obligasi jatuh tempo Sept",
+  "deck": "Bank SulutGo (BSLT) menyatakan sudah menyiapkan dana Rp750 miliar untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2021 (BSLT01CN1) yang jatuh tempo 7 September 2026.",
+  "image": "assets/img/bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:19:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aba0384dc8_f6e1e96106.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSLT",
+  "tags": [
+   "BSLT",
+   "obligasi",
+   "Bank SulutGo",
+   "jatuh tempo"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Sulawesi Utara Gorontalo (Bank SulutGo, kode BSLT) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia bahwa perseroan telah menyiapkan dana sebesar Rp750.000.000.000 atau Rp750 miliar untuk melunasi pokok Obligasi Berkelanjutan I Bank SulutGo Tahap I Tahun 2021 dengan kode BSLT01CN1, yang akan jatuh tempo pada 7 September 2026. Surat bernomor 034/A/TRI/VIII/2026 itu ditandatangani Heince J. Rumende selaku approver pada 14 Agustus 2026, merujuk pada Peraturan Bursa Nomor I-E tentang kewajiban penyampaian informasi.",
+   "Dalam surat tersebut dijelaskan bahwa dana pelunasan itu ditempatkan pada berbagai instrumen keuangan yang likuid, antara lain Surat Berharga Negara, penempatan di Bank Indonesia, dan penempatan di bank lain, sehingga bisa dicairkan tepat waktu saat jatuh tempo. Manajemen menegaskan komitmen membayar pokok obligasi secara tepat waktu dan tepat jumlah sesuai ketentuan yang berlaku, sebagai bagian dari menjaga kepercayaan para pemegang obligasi."
+  ],
+  "fotoAdegan": "Exterior of a modern regional bank branch building with glass facade, palm trees along the street, midday light in a coastal Indonesian city",
+  "takeaway": "Laporan ini condong positif bagi Bank SulutGo karena bank secara eksplisit mengonfirmasi sudah mengamankan seluruh Rp750 miliar dana pelunasan sebelum tanggal jatuh tempo, sehingga risiko gagal bayar bagi pemegang obligasi BSLT01CN1 praktis terhapus. Yang tersentuh di sini adalah posisi arus kas dan likuiditas bank, yaitu kemampuan mengubah aset jadi uang tunai dengan cepat: penempatan dana di Surat Berharga Negara, Bank Indonesia, dan bank lain menunjukkan Bank SulutGo memilih instrumen yang gampang dicairkan, bukan aset yang terkunci lama, supaya pembayaran pokok tidak terganggu masalah likuiditas mendadak. Setelah pelunasan ini rampung, kewajiban utang bank berkurang Rp750 miliar, yang biasanya turut meringankan beban bunga ke depan. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada tanggal jatuh tempo 7 September 2026, serta konfirmasi resmi ke bursa bahwa pelunasan telah diselesaikan sesuai jumlah dan waktu yang dijanjikan.",
+  "sentimen": "positif",
+  "imageV": "mssqe7ct"
+ },
+ {
+  "slug": "dr-umumkan-harga-final-18-seri-waran-terstruktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "DR Umumkan Harga Final 18 Seri [Waran Terstruktur] Baru",
+  "deck": "RHB Sekuritas (DR) merilis term sheet berisi harga penawaran dan pelaksanaan 18 seri call warrant baru atas saham AMMN, BBCA, BBRI, dan 15 lainnya, dicatatkan 19 Agustus 2026.",
+  "image": "assets/img/dr-umumkan-harga-final-18-seri-waran-terstruktur-baru.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:17:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/731ac75733_6d9a15635d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "AMMN",
+   "BBCA"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia (kode broker DR) menyampaikan term sheet penawaran umum untuk 18 seri waran terstruktur (structured warrant) tipe call baru kepada Bursa Efek Indonesia pada 14 Agustus 2026. Produk ini memberi pemegangnya hak, bukan kewajiban, untuk memperoleh selisih untung dari kenaikan harga saham acuan pada tanggal tertentu. Masa penawaran ditutup 13 Agustus, penjatahan dan penetapan harga dilakukan 14 Agustus, sementara pencatatan di bursa dijadwalkan 19 Agustus 2026. Lima seri jatuh tempo pada 26 November 2026 dengan saham acuan AMMN, BBCA, BBRI, HRUM, dan RAJA, sedangkan 13 seri sisanya jatuh tempo 29 Maret 2027 dengan saham acuan AADI, BBTN, BUMI, CUAN, ERAA, INCO, INDY, ITMG, JSMR, MBMA, PNLF, RATU, dan TPIA.",
+   "Term sheet mencantumkan rincian harga lengkap untuk tiga seri. Waran atas saham Amman Mineral Internasional (AMMN), berkode AMMNDRCX6A, ditawarkan Rp8 per unit dengan harga pelaksanaan Rp5.900, sebanyak 1 miliar unit dicatatkan ditambah rencana 1 miliar unit tambahan untuk liquidity provider, dengan rasio 45 waran per 1 lembar saham AMMN. Waran atas saham Bank Central Asia (BBCA), berkode BBCADRCX6B, ditawarkan Rp10 per unit dengan harga pelaksanaan Rp7.000, jumlah dan rasio unit sama seperti AMMN. Adapun waran atas saham Bank Rakyat Indonesia (BBRI), berkode BBRIDRCX6B, ditawarkan Rp26 per unit dengan harga pelaksanaan Rp3.900, sebanyak 300 juta unit dicatatkan ditambah 300 juta unit tambahan, dengan rasio 12 waran per 1 lembar saham BBRI.",
+   "Seluruh waran berjenis Eropa dengan penyelesaian tunai otomatis kalau posisinya untung pada tanggal pelaksanaan. Nilai pembayarannya dihitung dari selisih harga rata-rata penutupan saham acuan selama lima hari bursa terakhir sebelum tanggal pelaksanaan dikurangi harga pelaksanaan, lalu dibagi rasio konversi. Dana akan didistribusikan KSEI ke rekening pemegang waran pada hari bursa ketiga setelah tanggal pelaksanaan. Jika nilai penyelesaian nol atau negatif, waran berakhir tanpa nilai dan kewajiban RHB Sekuritas selaku penerbit dinyatakan lunas."
+  ],
+  "fotoAdegan": "Wide low-angle view of modern glass office towers in Jakarta's SCBD financial district at late afternoon light",
+  "takeaway": "Laporan ini netral bagi DR maupun bagi AMMN, BBCA, BBRI, dan 15 saham acuan lainnya, sebab waran terstruktur ini murni produk yang diterbitkan dan dijual sendiri oleh RHB Sekuritas, jadi tidak mengubah kondisi keuangan perusahaan-perusahaan yang sahamnya dijadikan acuan. Yang tersentuh justru arus kas RHB Sekuritas selaku penerbit. Dari tiga seri yang harganya sudah lengkap saja, penjualan awal berpotensi mendatangkan sekitar Rp8 miliar dari waran AMMN, Rp10 miliar dari BBCA, dan Rp7,8 miliar dari BBRI, tapi di sisi lain RHB wajib membayar tunai ke investor nanti kalau harga saham acuan naik melewati harga pelaksanaan saat jatuh tempo, jadi ada kewajiban di masa depan yang besarnya belum pasti. Yang perlu dipantau adalah 19 Agustus 2026, saat ke-18 seri waran ini mulai diperdagangkan di bursa, serta tanggal pelaksanaan yakni 26 November 2026 untuk lima seri pertama dan 29 Maret 2027 untuk 13 seri sisanya, saat nilai pembayaran ke pemegang waran dihitung dari rata-rata harga saham acuan lima hari sebelumnya.",
+  "sentimen": "netral",
+  "imageV": "mssqeos8"
+ },
+ {
   "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",
   "category": "Industri",
   "title": "KADI Buka Penyelidikan [Dumping] SAP Asal Tiongkok",
   "deck": "KADI membuka penyelidikan antidumping impor Superabsorbent Polymers dari Tiongkok, menyusul aduan PT Nippon Shokubai Indonesia atas lonjakan impor yang disebut merugikan industri dalam negeri.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/kadi-buka-penyelidikan-dumping-sap-asal-tiongkok.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T08:15:14.264Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-produk-impor-superabsorbent-polymers-asal-tiongkok",
@@ -26,7 +107,35 @@ var ARTICLES = [
   "fotoAdegan": "Forklift moving stacked unmarked white sacks of chemical powder inside a warehouse, morning light through open loading doors.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "Yang berubah secara konkret baru tahap awal: KADI membuka penyelidikan, bukan menjatuhkan bea masuk. Prosesnya masih 12 sampai 18 bulan ke depan sebelum ada keputusan final soal apakah dumping benar-benar terjadi. Yang langsung terdampak adalah importir SAP asal Tiongkok dan industri hilir yang mengandalkan bahan ini, sementara PT Nippon Shokubai Indonesia sebagai pemohon berpotensi diuntungkan jika bea akhirnya dikenakan. Dengan pangsa impor Tiongkok yang mencapai 62 persen dari total impor SAP nasional, skala kasus ini tergolong besar, sehingga arah yang patut dicermati adalah kemungkinan munculnya bea masuk sementara pada penentuan awal KADI, yang biasanya diumumkan di pertengahan masa penyelidikan sebelum putusan akhir keluar."
+  "takeaway": "Yang berubah secara konkret baru tahap awal: KADI membuka penyelidikan, bukan menjatuhkan bea masuk. Prosesnya masih 12 sampai 18 bulan ke depan sebelum ada keputusan final soal apakah dumping benar-benar terjadi. Yang langsung terdampak adalah importir SAP asal Tiongkok dan industri hilir yang mengandalkan bahan ini, sementara PT Nippon Shokubai Indonesia sebagai pemohon berpotensi diuntungkan jika bea akhirnya dikenakan. Dengan pangsa impor Tiongkok yang mencapai 62 persen dari total impor SAP nasional, skala kasus ini tergolong besar, sehingga arah yang patut dicermati adalah kemungkinan munculnya bea masuk sementara pada penentuan awal KADI, yang biasanya diumumkan di pertengahan masa penyelidikan sebelum putusan akhir keluar.",
+  "imageV": "mssqf34x"
+ },
+ {
+  "slug": "luck-jadwalkan-rupslb-pada-23-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Jadwalkan [RUPSLB] pada 23 September 2026",
+  "deck": "PT Sentral Mitra Informatika Tbk (LUCK) mengumumkan rencana RUPSLB pada 23 September 2026, dengan tanggal pencatatan pemegang saham 31 Agustus 2026.",
+  "image": "assets/img/luck-jadwalkan-rupslb-pada-23-september-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:10:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/061d310702_1676372240.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCK",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Sentral Mitra Informatika",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Sentral Mitra Informatika Tbk (LUCK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 23 September 2026 pukul 14.00 WIB, bertempat di Kantor Perseroan, Komplek Graha Mas Fatmawati Blok A No. 27-29. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Selasa, 1 September 2026 melalui situs web perusahaan, situs Bursa Efek Indonesia, dan situs eASY KSEI, sesuai ketentuan Pasal 52 ayat (1) POJK No. 15/POJK.04/2020.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan, atau pemilik saham di sub rekening KSEI, per Senin, 31 Agustus 2026 sampai penutupan perdagangan saham LUCK di bursa. Pemegang saham yang mewakili 1/20 atau lebih dari total saham berhak suara sah dapat mengusulkan mata acara rapat secara tertulis kepada Direksi, dengan batas waktu paling lambat Senin, 24 Agustus 2026.",
+   "Bagi pemegang saham yang berhalangan hadir langsung, Perseroan menyediakan mekanisme kuasa melalui formulir di situs resminya, dengan pemberian suara dilakukan secara elektronik lewat sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia. Rincian teknis mengenai tata cara pemberian kuasa dan hak suara akan disampaikan menyusul pada saat Pemanggilan Rapat resmi diterbitkan."
+  ],
+  "fotoAdegan": "Rows of empty chairs and a small podium being arranged in a formal corporate meeting hall, Jakarta office building, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi LUCK karena isinya baru soal jadwal dan mekanisme rapat, belum memuat agenda atau keputusan apa pun yang akan dibahas sehingga dampaknya ke kinerja perusahaan belum bisa dinilai. Yang tersentuh di tahap ini adalah hak suara pemegang saham, yakni siapa yang berhak ikut menentukan keputusan perusahaan nanti ditentukan dari kepemilikan saham per 31 Agustus 2026, bukan pos keuangan seperti laba, utang, atau arus kas. Agenda sebenarnya, yang bisa menyangkut hal besar seperti perubahan direksi, aksi korporasi, atau kebijakan dividen, baru akan terbuka lewat Pemanggilan Rapat. Yang perlu dipantau berikutnya adalah Pemanggilan Rapat pada 1 September 2026 yang memuat mata acara sesungguhnya, batas usul agenda dari pemegang saham pada 24 Agustus 2026, dan pelaksanaan RUPSLB itu sendiri pada 23 September 2026.",
+  "sentimen": "netral",
+  "imageV": "mssqfhgz"
  },
  {
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
@@ -54,6 +163,115 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret: laba PT Timah pada semester pertama 2026 disebut mencapai Rp2,7 triliun, naik sembilan kali lipat dibanding periode sama tahun lalu, setelah pemerintah menutup sekitar 1.000 titik tambang timah ilegal di Bangka Belitung akhir 2025. Yang terdampak langsung adalah PT Timah beserta pemegang sahamnya, warga dan penambang kecil di Bangka Belitung yang sebelumnya mengandalkan tambang ilegal untuk mencari nafkah, serta pasar timah dalam negeri yang pasokannya kini lebih terpusat lewat jalur resmi. Ada dua kemungkinan penjelasan untuk lonjakan sebesar ini, bisa karena perbaikan struktural sebab pasokan legal tidak lagi tergerus tambang liar, atau sebagian besar hanya efek pembanding, sebab laba tahun lalu memang tertekan berat akibat maraknya tambang ilegal saat itu. Karena angka ini disampaikan dalam pidato kenegaraan, bukan dari laporan keuangan perusahaan, yang akan memastikan penjelasan mana yang lebih tepat adalah laporan keuangan resmi PT Timah untuk semester I 2026 yang biasa dipublikasikan ke Bursa Efek Indonesia.",
   "imageV": "mssoesiy"
+ },
+ {
+  "slug": "bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september",
+  "category": "Aksi Korporasi",
+  "title": "BPII Bagikan Dividen Interim [Rp35 Miliar], Cair 11 September",
+  "deck": "BPII membagikan dividen interim tahun buku 2026 senilai Rp3,54 per saham, total maksimal Rp35 miliar, dengan pencatatan pemegang saham 28 Agustus dan pembayaran 11 September 2026.",
+  "image": "assets/img/bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T14:36:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b6c44630e8_edb34840aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPII",
+  "tags": [
+   "BPII",
+   "dividen interim",
+   "emiten",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Internasional Tbk (BPII) akan membagikan dividen interim untuk tahun buku 2026 sebesar Rp3,54 per saham, dengan total dividen paling banyak Rp35 miliar dan paling sedikit Rp34,99 miliar tergantung jumlah saham yang berhak. Keputusan ini diambil Direktur Utama Rudi Setiadi Tjahjono dan Direktur Luo Xude pada 12 Agustus 2026, setelah mendapat persetujuan Dewan Komisaris lewat surat keputusan bernomor 003/BPI/KOM/VIII/2026 pada tanggal yang sama.",
+   "Dasar pembagian dividen ini adalah kinerja keuangan perseroan per 30 Juni 2026. Laba bersih yang diatribusikan kepada entitas induk tercatat Rp42,83 miliar. Perseroan juga memiliki saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp1,59 triliun dan total ekuitas Rp1,85 triliun, sehingga dividen yang dibagikan kali ini hanya sekitar 1,9 persen dari total ekuitas perseroan.",
+   "Soal jadwalnya, batas akhir perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi jatuh pada 26 Agustus 2026, sementara di pasar tunai pada 28 Agustus 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham hingga pukul 16.00 WIB pada 28 Agustus 2026 berhak atas dividen ini, yang akan dibayarkan pada 11 September 2026. Pembagian dividen interim ini nantinya akan diperhitungkan dalam Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2026, yang baru akan digelar pada 2027.",
+   "Perseroan juga mengingatkan pemegang saham asing yang negaranya memiliki perjanjian penghindaran pajak berganda dengan Indonesia untuk menyerahkan surat keterangan domisili pajak kepada biro administrasi efek perseroan paling lambat 28 Agustus 2026 pukul 16.00 WIB, apabila ingin memperoleh tarif pemotongan pajak lebih rendah dari tarif normal 20 persen."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers along a busy Jakarta business district street at midday",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham BPII, karena perseroan sudah membagikan sebagian besar laba semester pertama sebagai uang tunai sebelum tahun buku ditutup, tanda kas perseroan cukup longgar. Yang tersentuh dari langkah ini adalah arus kas, yaitu uang yang keluar dari kas perseroan untuk membayar pemegang saham, dan ekuitas, yaitu total kekayaan bersih perseroan setelah dikurangi utang, yang akan berkurang sekitar Rp35 miliar meski porsinya cuma sekitar 1,9 persen dari total ekuitas Rp1,85 triliun sehingga dampaknya ke permodalan perseroan kecil. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 28 Agustus 2026 pukul 16.00 WIB, yang menentukan siapa saja yang berhak menerima dividen ini, serta tanggal pembayaran pada 11 September 2026 sebagai batas waktu dana benar-benar cair ke rekening pemegang saham.",
+  "sentimen": "positif",
+  "imageV": "mssqg45c"
+ },
+ {
+  "slug": "mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Tambah Shen Huayu Sebagai [Komisaris] Baru Bank",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menambah Shen Huayu sebagai komisaris baru per 12 Agustus 2026, sementara seluruh direksi dan komisaris lain tidak berubah.",
+  "image": "assets/img/mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T14:27:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ada6d0787_9f745ec7d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "Perbankan",
+   "Komisaris",
+   "Tata Kelola"
+  ],
+  "body": [
+   "PT Bank China Construction Bank Indonesia Tbk (MCOR) melaporkan perubahan susunan pengurus ke bursa lewat surat bernomor 156/CCBI/CSEC-EXT/VIII/2026 yang diteken Corporate Secretary Thomas Widianto. Inti perubahannya adalah masuknya Shen Huayu sebagai komisaris baru, efektif diangkat pada 12 Agustus 2026. Berbeda dari nama-nama lain di daftar yang mencantumkan nama pengurus sebelumnya sama dengan nama saat ini, kolom nama sebelumnya untuk Shen Huayu kosong, menandakan ini kursi tambahan, bukan pergantian orang yang sudah menjabat.",
+   "Di jajaran direksi, tidak ada perubahan. Jiang Yongdong tetap menjabat Direktur Utama sejak 14 Maret 2025, Zhu Yong dan Junianto sebagai Direktur sejak 7 Juni 2024, serta Andreas Herman Basuki dan Suryati Budiyanto sebagai Direktur sejak 23 Desember 2025.",
+   "Di jajaran komisaris, Mohamad Hasan dan Yudo Sutanto Nyoo tetap menjabat Komisaris sejak 7 Juni 2024, dan Wu Jianzheng tetap sebagai Komisaris Utama sejak 7 Mei 2025. Shen Huayu melengkapi jajaran ini sebagai komisaris baru per 12 Agustus 2026, sehingga jumlah komisaris bank bertambah dari tiga menjadi empat orang."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise bank office building in Jakarta's business district, morning light, pedestrians in business attire on the sidewalk",
+  "takeaway": "Laporan ini netral bagi MCOR, karena penambahan satu komisaris tidak mengubah fundamental keuangan bank dan seluruh direksi maupun komisaris lama tetap di posisinya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba, melainkan struktur pengawasan bank, karena komisaris bertugas mengawasi kebijakan direksi, dan penambahan personel di jajaran ini biasanya dibaca pasar sebagai penguatan kapasitas pengawasan, bukan sinyal masalah. Laporan tidak menyebutkan apakah pengangkatan ini masih menunggu proses lanjutan seperti persetujuan otoritas perbankan, yang lazim diperlukan untuk posisi komisaris bank di Indonesia. Yang perlu dipantau selanjutnya adalah apakah MCOR akan mengumumkan konfirmasi atau ratifikasi resmi atas posisi Shen Huayu ini, mengingat tanggal pengangkatan 12 Agustus 2026 baru dua hari sebelum laporan ini terbit.",
+  "sentimen": "netral",
+  "imageV": "mssqgqgd"
+ },
+ {
+  "slug": "cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Rampungkan Realisasi Dana IPO, Porsi [Pelunasan Utang] Naik",
+  "deck": "Seluruh dana hasil IPO 2023 CNMA senilai Rp2,17 triliun sudah terpakai habis, namun porsi pelunasan utang membengkak jadi 23 persen dari rencana 20 persen, sementara alokasi ekspansi sedikit menyusut.",
+  "image": "assets/img/cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T14:06:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9a30555_0c4a92a6c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNMA",
+  "tags": [
+   "CNMA",
+   "IPO",
+   "penggunaan dana",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Nusantara Sejahtera Raya Tbk (CNMA) melaporkan realisasi akhir penggunaan dana hasil penawaran umum saham perdana (IPO) kepada Bursa Efek Indonesia, dalam surat bernomor 61/CNMA-IDX/VIII/2026 yang ditandatangani Indah Tri Wahyuni, Head of Corporate Legal perseroan. IPO yang efektif pada 25 Juli 2023 itu meraup dana Rp2,25 triliun (Rp2.250.450.000.000), dan setelah dipotong biaya penawaran umum sebesar Rp77,77 miliar, hasil bersih yang tersisa untuk dipakai perseroan adalah Rp2,17 triliun (Rp2.172.675.254.512). Menurut laporan ini, seluruh dana tersebut sudah habis terpakai, dengan sisa dana tercatat nol.",
+   "Dibandingkan dengan rencana di prospektus, ada pergeseran dalam tiga pos penggunaan dana. Untuk ekspansi, rencana awal Rp1,41 triliun atau 65 persen dari dana, sementara realisasinya Rp1,35 triliun atau 62 persen. Untuk pembayaran sisa pokok utang, rencana awal Rp434,5 miliar atau 20 persen, sementara realisasinya lebih besar yaitu Rp500 miliar atau 23 persen. Adapun untuk modal kerja, rencana Rp325,9 miliar atau 15 persen direalisasikan mendekati angka itu, yaitu Rp320 miliar atau tetap 15 persen.",
+   "Laporan itu juga merinci komponen biaya penawaran umum yang totalnya Rp77,77 miliar, terdiri dari biaya penjaminan emisi Rp3,54 miliar, biaya penyelenggaraan (management fee) Rp28,29 miliar, biaya penjualan Rp3,54 miliar, biaya jasa profesi penunjang pasar modal Rp26,03 miliar, biaya jasa lembaga penunjang pasar modal Rp66,7 juta, serta biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi sebesar Rp16,32 miliar. Selama masa penyimpanan, sisa dana IPO ditempatkan dalam bentuk giro di PT Bank DBS Indonesia, pihak ketiga yang tidak terafiliasi dengan perseroan, dengan tingkat bunga 6,5 persen."
+  ],
+  "fotoAdegan": "Empty cinema auditorium seats bathed in soft blue ambient light before a screening, wide angle shot, Indonesia.",
+  "takeaway": "Laporan ini condong netral karena persoalannya cuma pergeseran kecil dalam alokasi dana, bukan tanda ada dana yang mengendap atau disalahgunakan, sebab seluruh dana IPO tercatat sudah habis terpakai dengan sisa nol. Pos yang tersentuh adalah beban bunga dan belanja ekspansi: porsi untuk melunasi utang naik dari rencana 20 persen menjadi realisasi 23 persen, artinya utang berbunga perusahaan berkurang lebih banyak dari target sehingga beban bunga yang harus dibayar berpotensi lebih ringan ke depan, sementara dana untuk ekspansi turun tipis dari 65 persen menjadi 62 persen, yang berarti belanja untuk memperluas bisnis sedikit lebih kecil dari rencana awal. Karena sisa dana sudah nol, laporan ini praktis menandai selesainya seluruh siklus pelaporan penggunaan dana IPO 2023 CNMA, sehingga yang perlu dipantau berikutnya adalah laporan keuangan CNMA pada periode mendatang untuk melihat apakah pelunasan utang yang lebih besar dari rencana ini benar-benar menekan beban bunga perusahaan.",
+  "sentimen": "netral",
+  "imageV": "mssqha04"
+ },
+ {
+  "slug": "ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback",
+  "category": "Aksi Korporasi",
+  "title": "IBST buka sementara suspensi untuk crossing saham [buyback]",
+  "deck": "Bursa membuka sementara perdagangan IBST khusus pasar negosiasi Jumat siang untuk crossing saham hasil buyback, bagian dari proses go private perseroan.",
+  "image": "assets/img/ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T13:54:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b6e3990_ce89012025.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "suspensi saham",
+   "buyback",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia membuka sementara penghentian perdagangan saham PT Inti Bangun Sejahtera Tbk (IBST) yang telah disuspensi sejak 21 April 2026. Pembukaan ini hanya berlaku di Pasar Negosiasi, mulai Sesi II perdagangan pada Jumat, 14 Agustus 2026 pukul 14.00 WIB. Tujuannya adalah memfasilitasi transaksi crossing atas pengalihan saham hasil pembelian kembali saham (buyback) yang dilakukan perseroan dalam rangka rencana go private dan pencabutan pencatatan (voluntary delisting). Transaksi crossing ini dieksekusi oleh PT Bahana Sekuritas selaku pihak yang ditunjuk oleh IBST.",
+   "Permintaan pembukaan sementara ini diajukan IBST melalui surat nomor 064/IBST-CSY/VIII/2026 tertanggal 10 Agustus 2026, yang dikaitkan dengan pelaksanaan Penawaran Tender Sukarela oleh PT Iforte Solusi Infotek. Bursa menegaskan bahwa selama masa pembukaan suspensi ini, tidak ada transaksi lain yang diperbolehkan selain transaksi crossing pengalihan saham buyback tersebut.",
+   "Setelah transaksi pengalihan saham selesai, atau paling lambat pukul 14.30 WIB pada hari yang sama, Bursa akan kembali menghentikan sementara perdagangan saham IBST di seluruh pasar. Saham IBST saat ini tercatat di Papan Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Stock exchange back-office staff reviewing trade confirmation papers at a desk, blurred monitors in the background, Jakarta afternoon",
+  "takeaway": "Laporan ini condong netral bagi pemegang saham publik IBST karena isinya adalah langkah teknis bursa untuk memuluskan proses go private yang sudah berjalan, bukan kabar baru soal kondisi keuangan perseroan. Yang tersentuh adalah struktur pemegang saham dan jumlah saham beredar di publik, sebab transaksi crossing ini memindahkan saham hasil buyback sebagai bagian dari rencana IBST keluar dari bursa, sesuatu yang biasanya diikuti berkurangnya jumlah pemegang saham publik hingga akhirnya saham dicabut dari pencatatan. Pemegang saham perlu mencermati apakah transaksi crossing ini benar rampung sebelum pukul 14.30 WIB pada hari yang sama, karena setelah itu Bursa akan langsung menyuspensi kembali seluruh pasar untuk saham IBST, serta memantau kelanjutan proses go private dan voluntary delisting perseroan secara keseluruhan.",
+  "sentimen": "netral",
+  "imageV": "mssqhxdk"
  },
  {
   "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",

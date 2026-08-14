@@ -69,9 +69,11 @@ async function main() {
   // dapat jendela seminggu dan mengejar semuanya pada putaran pertama, tanpa
   // ada yang perlu menyadari atau mengetik apa pun.
   //
-  // Dibatasi 14 hari karena satu permintaan IDX menampung 200 laporan, dan
-  // rentang lebih panjang mulai memotong sendiri di sisi mereka. Bolong yang
-  // lebih lama dari itu memang perlu dikejar tangan.
+  // Dibatasi 14 hari sebagai pagar kewajaran. Sejak pengambilnya membaca
+  // per halaman (14 Agustus 2026), rentang panjang tidak lagi terpotong di
+  // sisi IDX; batas ini tinggal mencegah putaran pertama setelah libur
+  // panjang mengunyah ribuan laporan sekaligus. Bolong lebih lama dari dua
+  // pekan memang layak dikejar tangan dengan SIGNAL_IDX_HARI.
   const HARI = (() => {
     const paksa = Number(process.env.SIGNAL_IDX_HARI || 0);
     if (paksa > 0) return paksa;
@@ -89,8 +91,14 @@ async function main() {
   if (HARI > 1) {
     log('jendela ' + HARI + ' hari ke belakang (mengejar bolong sejak artikel IDX terakhir)');
   }
-  const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT, hariKeBelakang: HARI }))
-    .filter(k => !k.lampiran || !sumberAda.has(k.lampiran));
+  // Jatah kandidat dipotong SETELAH buang yang sudah diberitakan, bukan
+  // sebelum. Versi lama memotong di dalam ambilKeterbukaan, sehingga laporan
+  // yang sudah tayang ikut menghabiskan jatah dan kandidat segar di belakang
+  // antrean tidak pernah kebagian tempat pada putaran-putaran lanjutan di
+  // hari yang sama.
+  const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT * 4, hariKeBelakang: HARI }))
+    .filter(k => !k.lampiran || !sumberAda.has(k.lampiran))
+    .slice(0, MAKS_KANDIDAT);
 
   log('kandidat setelah buang yang sudah ada: ' + kandidat.length);
 

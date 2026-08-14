@@ -44,19 +44,47 @@ const RUTIN = new RegExp([
 ].join('|'), 'i');
 
 // Kategori yang secara fundamental bisa menggerakkan harga saham.
+//
+// Diperluas 14 Agustus 2026 dari bukti, bukan tebakan: 966 pengumuman live
+// 10-14 Agustus disaring ulang dan 90-an sinyal nyata ternyata tidak cocok
+// satu kata kunci pun, sehingga selalu kalah tempat dari yang material.
+// Pola bolosnya satu macam: IDX menulis bentuk panjang atau sinonim resmi,
+// daftar ini cuma kenal bentuk pendeknya. "Penghentian Sementara Perdagangan"
+// adalah suspensi tanpa kata suspensi (2x, INCF dan COAL); "Rapat Umum
+// Pemegang Saham" ditulis utuh tanpa singkatan RUPS (33x); "Informasi atau
+// Fakta Material" lolos dari 'informasi material' karena tersisip "atau
+// Fakta"; "Pengunduran Diri Anggota Direksi" lolos dari 'pengunduran diri
+// direktur'. Ditambah kategori yang belum terdaftar sama sekali padahal
+// material menurut POJK: transaksi afiliasi, gugatan hukum, perjanjian
+// kredit dan penjaminan, jawaban emiten atas volatilitas / permintaan
+// penjelasan bursa, dan papan pemantauan khusus.
 const MATERIAL = new RegExp([
   'laporan keuangan', 'kinerja', 'dividen', 'rups', 'rupslb',
+  'rapat umum pemegang saham',
   'akuisisi', 'merger', 'penggabungan', 'pengambilalihan', 'divestasi',
   'penambahan modal', 'hmetd', 'right issue', 'private placement',
   'buyback', 'pembelian kembali saham', 'stock split', 'reverse stock',
   'obligasi', 'sukuk', 'penawaran umum', 'ipo', 'waran',
   'perubahan pengendali', 'perubahan pemegang saham', 'kepemilikan saham',
   'daftar pemegang saham', 'realisasi penggunaan dana',
-  'suspensi', 'delisting', 'relisting', 'pailit', 'pkpu', 'restrukturisasi',
+  'suspensi', 'penghentian sementara perdagangan', 'delisting', 'relisting',
+  'pailit', 'pkpu', 'restrukturisasi', 'pemantauan khusus',
   'kontrak', 'kerja sama', 'ekspansi', 'pabrik baru', 'investasi',
-  'informasi material', 'keterbukaan informasi', 'kejadian penting',
-  'perubahan direksi', 'perubahan komisaris', 'pengunduran diri direktur',
+  'transaksi afiliasi', 'benturan kepentingan',
+  'perjanjian kredit', 'penanggungan', 'penjaminan', 'gugatan',
+  'volatilitas transaksi', 'permintaan penjelasan bursa',
+  'informasi material', 'fakta material', 'keterbukaan informasi', 'kejadian penting',
+  'perubahan direksi', 'perubahan komisaris', 'perubahan pengurus',
+  'pengunduran diri', 'pemeringkatan', 'public expose',
 ].join('|'), 'i');
+
+// Formulir LK KSEI "Laporan Kepemilikan atau Setiap Perubahan Kepemilikan
+// Saham" itu material secara kategori tapi bervolume formulir: 70 dari 120
+// kandidat material di sampel 5 hari adalah formulir ini, kebanyakan
+// transaksi kecil, dan mereka memenuhi jatah kandidat sampai menggusur
+// suspensi dan transaksi afiliasi yang jauh lebih langka. Jadi di antrean
+// dia diturunkan SETELAH material lain, tetap di atas yang non-material.
+const FORMULIR_LK = /laporan kepemilikan atau (setiap )?perubahan kepemilikan saham/i;
 
 function tglIDX(d) {
   return d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
@@ -67,11 +95,30 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
   const sampai = new Date(Date.now() + 7 * 3600 * 1000);          // hari ini WIB
   const dari = new Date(sampai.getTime() - hariKeBelakang * 86400000);
 
-  const url = API + '?indexFrom=1&pageSize=200' +
-    '&dateFrom=' + tglIDX(dari) + '&dateTo=' + tglIDX(sampai) + '&lang=id&keyword=';
-
-  const j = await ambilIDX(url);
-  const semua = j.Replies || [];
+  // indexFrom itu NOMOR HALAMAN BERBASIS NOL: offset = indexFrom x pageSize.
+  //
+  // Sampai 14 Agustus 2026 URL ini memakai indexFrom=1, yang berarti
+  // MELOMPATI 200 laporan pertama, dan balasannya urut terbaru-dulu, jadi
+  // yang dilompati justru 200 laporan TERBARU. Diverifikasi live dua arah:
+  // jendela 13-14 Agustus ResultCount=168, indexFrom=1 membalas NOL laporan,
+  // indexFrom=0 membalas 168. Akibatnya putaran jendela sehari menerima
+  // kosong dan mencatatnya sebagai "tidak ada aksi korporasi baru", persis
+  // gerbang-selalu-terbuka yang tidak pernah gagal keras; keluhan pemilik
+  // "berita aksi korporasi tidak update" adalah gejalanya.
+  //
+  // Sekaligus di-loop per halaman, karena satu hari bursa bisa menerbitkan
+  // 457 pengumuman (10 Agustus 2026), lebih dari satu halaman. Loop berhenti
+  // begitu balasan lebih pendek dari pageSize, dengan pagar 15 halaman
+  // supaya API yang tiba-tiba berulah tidak membuat putaran menggantung.
+  const semua = [];
+  for (let hal = 0; hal < 15; hal++) {
+    const url = API + '?indexFrom=' + hal + '&pageSize=200' +
+      '&dateFrom=' + tglIDX(dari) + '&dateTo=' + tglIDX(sampai) + '&lang=id&keyword=';
+    const j = await ambilIDX(url);
+    const isi = j.Replies || [];
+    semua.push(...isi);
+    if (isi.length < 200) break;
+  }
 
   const hasil = [];
   let ditolakRutin = 0;
@@ -105,12 +152,16 @@ export async function ambilKeterbukaan({ hariKeBelakang = 1, maks = 40 } = {}) {
       lampiranSemua: semuaLampiran,
       namaEmiten: peta[String(p.Kode_Emiten || '').trim().split(/s+/)[0]?.toUpperCase()] || '',
       dugaanMaterial: MATERIAL.test(teks),
+      formulirLK: FORMULIR_LK.test(teks),
     });
   }
 
   hasil.sort((a, b) => new Date(b.terbit) - new Date(a.terbit));
-  // yang terindikasi material didahulukan
-  hasil.sort((a, b) => (b.dugaanMaterial ? 1 : 0) - (a.dugaanMaterial ? 1 : 0));
+  // Tiga tingkat prioritas: material sejati > formulir LK kepemilikan >
+  // sisanya. Sort stabil, jadi di dalam tiap tingkat urutan terbaru-dulu
+  // dari sort pertama tetap terjaga.
+  const tingkat = (x) => x.dugaanMaterial ? (x.formulirLK ? 1 : 2) : 0;
+  hasil.sort((a, b) => tingkat(b) - tingkat(a));
 
   log('IDX: ' + semua.length + ' laporan, ' + ditolakRutin + ' rutin dibuang, ' +
     hasil.length + ' lolos saringan awal (' + hasil.filter(x => x.dugaanMaterial).length + ' terindikasi material)');

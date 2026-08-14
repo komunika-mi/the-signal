@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",
   "deck": "Program Campuspreneur Kemendag mencatat 23 kesepakatan awal wirausaha kampus dengan ritel modern, serta ekspor pinang binaan IPB senilai Rp2,2 miliar ke Bangladesh dan Maladewa.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T06:18:35.289Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
@@ -27,7 +27,35 @@ var ARTICLES = [
   "fotoAdegan": "Workers loading sacks of dried areca nuts onto a cargo truck at a rural Indonesian warehouse dock, morning light.",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "Yang berubah bukan sekadar edukasi kewirausahaan, melainkan mulai adanya jalur konkret ke pasar: 23 letter of intent dengan ritel modern dan satu transaksi ekspor pinang senilai Rp2,2 miliar yang sudah benar-benar terjadi. Perlu dicatat, letter of intent itu baru kesepakatan awal berisi niat kerja sama, bukan kontrak jual beli yang mengikat, jadi belum tentu semuanya berlanjut jadi pasokan nyata ke rak toko. Yang terdampak langsung adalah mahasiswa wirausaha dan UMKM binaan kampus di UNS dan IPB, serta jaringan ritel di bawah Aprindo dan Hippindo yang jadi mitra kurasi. Arah program ini terlihat bergerak dari sekadar ajang pameran kampus menuju upaya menyambungkan produk mahasiswa ke pasar sungguhan, dan yang akan memastikan apakah arah itu berlanjut adalah apakah 23 letter of intent tersebut berubah jadi kontrak pasokan aktual pada semester kedua 2026."
+  "takeaway": "Yang berubah bukan sekadar edukasi kewirausahaan, melainkan mulai adanya jalur konkret ke pasar: 23 letter of intent dengan ritel modern dan satu transaksi ekspor pinang senilai Rp2,2 miliar yang sudah benar-benar terjadi. Perlu dicatat, letter of intent itu baru kesepakatan awal berisi niat kerja sama, bukan kontrak jual beli yang mengikat, jadi belum tentu semuanya berlanjut jadi pasokan nyata ke rak toko. Yang terdampak langsung adalah mahasiswa wirausaha dan UMKM binaan kampus di UNS dan IPB, serta jaringan ritel di bawah Aprindo dan Hippindo yang jadi mitra kurasi. Arah program ini terlihat bergerak dari sekadar ajang pameran kampus menuju upaya menyambungkan produk mahasiswa ke pasar sungguhan, dan yang akan memastikan apakah arah itu berlanjut adalah apakah 23 letter of intent tersebut berubah jadi kontrak pasokan aktual pada semester kedua 2026.",
+  "imageV": "msslu0tk"
+ },
+ {
+  "slug": "dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma",
+  "category": "Aksi Korporasi",
+  "title": "DGIK Jawab Permintaan Bursa soal Volatilitas Saham [UMA]",
+  "deck": "Saham DGIK anjlok 5,3% ke Rp125 dengan volume melonjak 3,4 kali dalam sehari. Emiten konstruksi ini menyatakan tidak ada informasi material di baliknya.",
+  "image": "assets/img/dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T13:09:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8f405d8df0_dfea507aeb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "UMA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Nusa Konstruksi Enjiniring Tbk (DGIK) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia nomor S-10596/BEI.PP1/08-2026 tanggal 12 Agustus 2026 terkait volatilitas transaksi sahamnya. Menurut data yang dikutip dalam surat itu, volume perdagangan saham DGIK melonjak menjadi 28.760.300 saham dengan frekuensi 3.535 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 8.353.600 saham dengan frekuensi 750 kali. Harga saham ditutup turun Rp7 atau 5,30 persen, dari Rp132 menjadi Rp125.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material apa pun dalam kegiatan dan rencana usahanya yang dapat memengaruhi nilai efek atau keputusan investor, baik menurut aturan POJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum merencanakan tindakan korporasi apa pun dalam tiga bulan ke depan.",
+   "Untuk poin mengenai rencana pemegang saham utama, perseroan menyatakan telah berkomunikasi langsung dan pemegang saham utama disebut belum memiliki rencana lain terkait kepemilikan sahamnya di DGIK. Surat penjelasan ini ditandatangani secara elektronik oleh Corporate Secretary DGIK, Almanda Pohan, pada 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Idle cranes and stacked rebar at a quiet construction site on the outskirts of Jakarta, overcast afternoon light, no workers visible",
+  "takeaway": "Laporan ini netral bagi fundamental DGIK, sebab perseroan menegaskan tidak ada informasi atau rencana korporasi yang mendasari pergerakan harga sahamnya, jadi ini bukan sinyal soal kondisi bisnis perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham yang tersentuh di sini, karena surat ini murni klarifikasi kepatuhan menjawab permintaan bursa, bukan laporan transaksi atau aksi korporasi. Lonjakan volume 3,4 kali lipat berbarengan dengan harga yang anjlok 5,3 persen dalam sehari biasanya menandakan aksi jual serentak oleh banyak investor, dan bursa meminta penjelasan justru untuk memastikan pergerakan itu tidak dipicu informasi orang dalam yang belum terbuka ke publik. Yang perlu dipantau berikutnya adalah konsistensi pernyataan DGIK soal tidak adanya rencana aksi korporasi dalam kurang lebih tiga bulan ke depan, serta apakah pola lonjakan volume dan penurunan harga serupa terulang pada sesi-sesi perdagangan berikutnya.",
+  "sentimen": "netral",
+  "imageV": "msslul7y"
  },
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
@@ -484,6 +512,141 @@ var ARTICLES = [
   "imageV": "mssbcqwl"
  },
  {
+  "slug": "boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "BOBA perpanjang kontrak [enam bulan] dengan Quaker Indonesia",
+  "deck": "Formosa Ingredient Factory (BOBA) memperoleh perpanjangan kontrak produksi enam bulan dengan PT Quaker Indonesia, berlaku 1 Agustus 2026 hingga 31 Januari 2027, lewat adendum perjanjian.",
+  "image": "assets/img/boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T22:32:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1a2eabbfb_c00b179813.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOBA",
+  "tags": [
+   "BOBA",
+   "kontrak",
+   "Quaker Indonesia",
+   "adendum"
+  ],
+  "body": [
+   "PT Formosa Ingredient Factory Tbk (BOBA) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 13 Agustus 2026 perseroan memperoleh perpanjangan kontrak selama enam bulan dari PT Quaker Indonesia, berupa adendum perjanjian. Perpanjangan ini berlaku sejak 1 Agustus 2026 hingga 31 Januari 2027. Lewat kontrak tersebut, BOBA memproduksi, memproses, mengemas, dan menyimpan produk tertentu untuk dijual kepada Quaker, sesuai bidang usahanya di produksi tapioca pearl, topping jelly, popping boba, premium sauce, syrup, dan premix powder.",
+   "Dalam laporan yang ditandatangani Wakil Direktur Utama Dewi Irianty Wijaya, perseroan menjelaskan empat dampak dari perpanjangan ini. Dari sisi operasional, BOBA melanjutkan produksi untuk Quaker tanpa jeda. Dari sisi hukum, perpanjangan ini mengikat kembali hak dan kewajiban kedua pihak sesuai ketentuan yang berlaku. Dari sisi keuangan, perseroan menyebut akan memperoleh pendapatan tambahan dari kerja sama ini, meski dokumen tidak mencantumkan nilai transaksi atau nominal kontraknya.",
+   "Perseroan menyatakan perpanjangan ini menjaga kelangsungan usahanya karena aliran pendapatan dari Quaker tetap berlanjut hingga akhir Januari 2027. Dokumen tidak merinci apakah ada perubahan volume produksi atau harga dibanding periode kontrak sebelumnya."
+  ],
+  "fotoAdegan": "Factory workers in hairnets and gloves packaging tapioca pearls on a stainless steel food production line, industrial kitchen lighting.",
+  "takeaway": "Laporan ini condong positif bagi BOBA, karena memastikan aliran pendapatan dari pelanggan yang sudah ada tetap berlanjut tanpa jeda produksi, meski sifatnya perpanjangan rutin, bukan kontrak baru atau perluasan bisnis. Yang tersentuh di sini adalah arus kas perseroan, yaitu uang yang masuk dan keluar dari kegiatan usaha sehari hari, karena kepastian order dari Quaker selama enam bulan ke depan membuat proyeksi pendapatan BOBA lebih terjaga. Dokumen ini tidak mencantumkan nilai kontrak dalam rupiah, sehingga besar kecilnya dampak terhadap laporan keuangan belum bisa dipastikan. Yang perlu dipantau berikutnya adalah tanggal berakhirnya kontrak pada 31 Januari 2027, yaitu apakah perseroan kembali mengumumkan perpanjangan lanjutan atau justru kontrak ini berhenti di titik tersebut.",
+  "sentimen": "positif",
+  "imageV": "msslux7b"
+ },
+ {
+  "slug": "sqmi-panggil-rupst-4-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SQMI Panggil RUPST 4 September, Bahas Perubahan [Direksi]",
+  "deck": "Wilton Makmur Indonesia (SQMI) memanggil RUPST pada 4 September 2026, dengan agenda perubahan susunan direksi dan penyesuaian anggaran dasar mengikuti klasifikasi usaha KBLI 2025.",
+  "image": "assets/img/sqmi-panggil-rupst-4-september-bahas-perubahan-direksi.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T22:08:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b59d658243_e589a52515.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "RUPST",
+   "Wilton Makmur Indonesia",
+   "Direksi"
+  ],
+  "body": [
+   "PT Wilton Makmur Indonesia Tbk (SQMI) resmi memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) yang akan digelar Jumat, 4 September 2026 pukul 15.00 WIB di Ruang Meeting Utama kantor perseroan, Komplek Harco Mangga Dua (Agung Sedayu) Blok C No. 5A, Jalan Mangga Dua Raya, Jakarta. Rapat diselenggarakan secara hybrid, bisa dihadiri langsung maupun elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 12 Agustus 2026 pukul 16.00 WIB, untuk saham yang belum masuk penitipan kolektif.",
+   "Ada empat agenda dalam rapat ini. Dua agenda pertama bersifat rutin tahunan, yaitu persetujuan laporan tahunan, laporan pertanggungjawaban direksi, laporan pengawasan komisaris, dan pengesahan laporan keuangan untuk tahun buku yang berakhir 31 Desember 2025, serta penunjukan Kantor Akuntan Publik independen untuk audit tahun buku berikutnya dengan kewenangan menetapkan honorarium diserahkan kepada Dewan Komisaris. Dua agenda lainnya lebih substansial, yakni perubahan Pasal 3 Anggaran Dasar perseroan tentang maksud, tujuan, dan kegiatan usaha, untuk disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025), dan persetujuan perubahan susunan Direksi perseroan. Dokumen tidak merinci nama anggota direksi yang diusulkan masuk atau keluar.",
+   "Karena keterbatasan tempat, perseroan mewajibkan pemegang saham yang ingin hadir fisik untuk mendaftar lebih dulu melalui email email@wilton-groups.com dan mendapat surat konfirmasi kehadiran, meski kehadiran online tetap dianjurkan. Pemanggilan ini ditandatangani secara elektronik oleh Mohammad Noor Syahriel selaku Corporate Secretary Wilton Makmur Indonesia, merujuk pada surat pemberitahuan RUPST sebelumnya bernomor 025/Ext-WMI/VII/2026 tertanggal 29 Juli 2026."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a long table, glass windows overlooking a Jakarta business district skyline, soft morning light",
+  "takeaway": "Pemanggilan ini condong netral karena isinya prosedural: memenuhi kewajiban RUPST tahunan dan belum memuat angka atau nama definitif yang bisa dinilai sebagai kabar baik atau buruk bagi kinerja perseroan. Yang lebih perlu diperhatikan adalah dua agenda non-rutin, yaitu perubahan anggaran dasar soal klasifikasi kegiatan usaha dan perubahan susunan direksi, sebab direksi adalah pihak yang menjalankan operasional harian sehingga pergantiannya berpotensi mengubah arah kebijakan perusahaan ke depan. Perubahan klasifikasi usaha mengikuti KBLI 2025 sendiri, menurut penjelasan perseroan, sekadar penyesuaian administratif ke sistem perizinan yang berlaku, bukan berarti otomatis ada lini bisnis baru. Pemanggilan ini belum menyentuh pos kinerja seperti ekuitas, yakni modal milik pemegang saham, atau laba per saham, karena statusnya masih undangan rapat, bukan keputusan. Yang perlu dipantau selanjutnya adalah hasil RUPST pada 4 September 2026, terutama siapa yang disetujui masuk atau keluar dari jajaran direksi dan apakah laporan keuangan tahun buku 2025 disahkan tanpa catatan.",
+  "sentimen": "netral",
+  "imageV": "msslvhm4"
+ },
+ {
+  "slug": "hits-panggil-rupslb-agenda-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HITS panggil RUPSLB, agenda [pergantian] direksi-komisaris",
+  "deck": "HITS mengundang pemegang saham hadir dalam RUPSLB 4 September 2026 untuk menyetujui pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris.",
+  "image": "assets/img/hits-panggil-rupslb-agenda-pergantian-direksi-komisaris.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T21:54:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d742f5f662_bb28da8a05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HITS",
+  "tags": [
+   "HITS",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT Humpuss Intermoda Transportasi Tbk (HITS) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 4 September 2026, pukul 14.00 WIB sampai selesai, bertempat di Mangkuluhur City Tower One, Meeting Room Lantai 26, Jalan Jenderal Gatot Subroto Kavling 1-3, Jakarta. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per tanggal recording date 12 Agustus 2026. Rapat ini menindaklanjuti pengumuman rencana RUPS yang sudah disampaikan perseroan pada 29 Juli 2026 melalui surat nomor 346/DU-HIT/VII/2026.",
+   "Agenda tunggal RUPSLB adalah persetujuan pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris perseroan. Perseroan menyebut dasar hukumnya, yaitu Pasal 94 dan Pasal 111 UU Perseroan Terbatas serta Pasal 3 dan Pasal 22 POJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Calon pengurus yang akan diajukan dalam rapat merupakan usulan dari Komite Nominasi dan Remunerasi perseroan, dan daftar riwayat hidup para calon akan diunggah di situs web resmi HITS. Masa jabatan pengurus baru, jika disetujui, berlaku efektif sejak penutupan rapat hingga penutupan RUPS Tahunan pada akhir periode jabatan yang jatuh pada 2027, tanpa mengurangi hak RUPS untuk memberhentikan sewaktu-waktu sesuai anggaran dasar.",
+   "Perseroan menyatakan tidak akan mengirim undangan resmi tersendiri kepada masing-masing pemegang saham karena pemanggilan ini sudah dianggap cukup. Pemegang saham yang berhalangan hadir dapat menggunakan e-RUPS lewat aplikasi eASY.KSEI atau memberi kuasa kepada pihak lain sesuai surat kuasa yang disediakan perseroan. Dokumen pemanggilan ditandatangani secara elektronik oleh Corporate Secretary HITS, Setiawan T. Widjojo, pada 13 Agustus 2026 pukul 21.54 WIB."
+  ],
+  "fotoAdegan": "Tugboat guiding a cargo vessel through a busy harbor channel, container cranes in the background, midday overcast light",
+  "takeaway": "Laporan ini netral bagi HITS, karena isinya baru sebatas undangan resmi rapat, belum ada kepastian siapa yang akan duduk di direksi dan komisaris baru atau apakah usulan itu disetujui pemegang saham. Perubahan direksi dan komisaris tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas, tapi tetap dipantau pasar karena pengurus baru bisa mengubah arah kebijakan strategis perseroan, misalnya soal investasi armada, pengelolaan utang, atau pembagian dividen ke depan. Nama-nama calon direksi dan komisaris memang belum diumumkan di dokumen ini, tapi rencananya akan diunggah di situs resmi HITS sebelum rapat. Yang perlu dicermati berikutnya adalah hasil RUPSLB pada 4 September 2026, saat pemegang saham resmi memutuskan menyetujui atau menolak susunan pengurus baru yang diusulkan.",
+  "sentimen": "netral",
+  "imageV": "msslvz0j"
+ },
+ {
+  "slug": "giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Jawab Bursa: Tak Ada [Informasi Material] Baru soal Sahamnya",
+  "deck": "Merespons surat resmi Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Garuda Indonesia menyatakan tidak mengetahui adanya informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T21:41:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/470264e5ab_f2693a69aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Garuda Indonesia (Persero) Tbk mengirim surat tanggapan resmi kepada Bursa Efek Indonesia (BEI) pada 13 Agustus 2026, menyusul permintaan penjelasan dari bursa bernomor S-10474/BEI.PP2/08-2026 tertanggal 11 Agustus 2026. Surat bursa itu meminta Garuda menjelaskan volatilitas transaksi efeknya, sebuah prosedur standar yang dijalankan BEI ketika harga atau volume perdagangan suatu saham bergerak tidak wajar, untuk memastikan tidak ada informasi penting yang beredar di pasar sebelum diumumkan resmi ke publik.",
+   "Dalam tanggapan yang ditandatangani Andreas Tumpal H. Hutapea selaku Corporate Secretary & TJSL Group Head Garuda Indonesia, perusahaan menegaskan bahwa sampai dengan tanggal surat tersebut tidak terdapat informasi atau fakta material lain yang memenuhi kriteria wajib diungkap berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi. Artinya, menurut pengakuan perusahaan, tidak ada kejadian penting seperti transaksi besar, perubahan bisnis, atau rencana korporasi yang berpotensi memengaruhi nilai saham maupun keputusan investor, namun belum disampaikan ke publik.",
+   "Surat balasan Garuda juga mencakup permintaan penjelasan bursa terkait empat hal lain yang diatur dalam Peraturan Bursa Nomor I-E dan Peraturan OJK Nomor 4 Tahun 2024, yaitu potensi informasi yang memengaruhi harga saham, aktivitas pemegang saham tertentu termasuk laporan kepemilikan atau penjaminan saham, rencana tindakan korporasi dalam tiga bulan ke depan, serta kejadian material lain yang belum diungkap. Bagian jawaban rinci untuk keempat poin tersebut ditandai sebagai lampiran dalam dokumen, namun pola jawaban pada poin pertama menunjukkan sikap perusahaan yang konsisten menyatakan kepatuhan terhadap kewajiban keterbukaan informasi di pasar modal."
+  ],
+  "fotoAdegan": "A wide-body commercial airplane taxiing on an airport apron at dusk, ground crew and service vehicles nearby, distant terminal lights",
+  "takeaway": "Laporan ini netral bagi Garuda karena isinya adalah bantahan formal dan prosedural, bukan pengungkapan kabar baik atau buruk soal kondisi keuangan perusahaan. Surat semacam ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena fungsinya cuma menjawab kecurigaan bursa atas pergerakan transaksi saham yang tidak wajar, semacam pemeriksaan rutin agar tidak ada pihak yang berdagang berbekal informasi yang belum diketahui investor lain. Yang perlu dipantau berikutnya adalah apakah BEI puas dengan jawaban ini atau kembali meminta klarifikasi jika volatilitas transaksi GIAA berlanjut, serta apakah Garuda benar-benar tidak mengumumkan tindakan korporasi baru dalam tiga bulan ke depan, yakni sampai sekitar pertengahan November 2026, sebagaimana disinggung dalam salah satu poin pertanyaan bursa.",
+  "sentimen": "netral",
+  "imageV": "msslwjrx"
+ },
+ {
+  "slug": "inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5",
+  "category": "Aksi Korporasi",
+  "title": "INKP tawarkan obligasi tahap III [Rp2 triliun], kupon 10-10,5%",
+  "deck": "Indah Kiat Pulp & Paper akan menerbitkan obligasi tahap III senilai maksimal Rp2 triliun dengan kupon 10 sampai 10,5 persen, bagian dari program Rp10 triliun.",
+  "image": "assets/img/inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T21:24:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bc5f6763ea_2416eb9f46.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "pendanaan",
+   "pulp dan kertas"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper (INKP) melaporkan kepada Bursa Efek Indonesia rencana penawaran umum berkelanjutan tahap ketiga untuk tiga instrumen sekaligus: Obligasi Berkelanjutan VI, Sukuk Mudharabah Berkelanjutan V, dan Obligasi USD Berkelanjutan III. Ketiganya merupakan bagian dari program Obligasi Berkelanjutan VI dengan target dana total Rp10 triliun. Perseroan sebelumnya telah menerbitkan Tahap I senilai Rp628,095 miliar dan Tahap II senilai Rp2,27596 triliun.",
+   "Pada Tahap III ini, INKP akan menerbitkan Obligasi Berkelanjutan VI senilai sebanyak-banyaknya Rp2 triliun. Dari jumlah itu, Rp1,590895 triliun akan dijamin secara kesanggupan penuh oleh penjamin emisi, artinya perusahaan sekuritas penjamin wajib membeli sendiri obligasi yang tidak laku terjual ke investor sehingga dana yang ditargetkan tetap masuk ke kas INKP. Jaminan penuh ini terbagi dalam dua seri: Seri A senilai Rp1,376725 triliun dengan bunga tetap 10,00 persen per tahun, tenor 3 tahun, dan pokoknya dibayar penuh sekaligus saat jatuh tempo. Seri B senilai Rp214,17 miliar menawarkan bunga tetap 10,50 persen per tahun dengan tenor 5 tahun.",
+   "Laporan yang ditandatangani Corporate Secretary Heri Santoso pada 13 Agustus 2026 ini menyebutkan bahwa penawaran tahap ketiga merupakan kelanjutan dari program yang sudah dinyatakan efektif oleh OJK. Rincian lengkap mengenai nilai dan tenor Sukuk Mudharabah serta Obligasi USD Tahap III belum tercantum dalam ringkasan yang diterima Bursa."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of paper moving along a production line inside a pulp and paper mill, industrial machinery in soft factory light",
+  "takeaway": "Laporan ini netral bagi INKP: penambahan utang hingga Rp2 triliun ini adalah bagian dari program pendanaan berkelanjutan yang memang sudah direncanakan dan disetujui sejak awal, bukan kebutuhan dana mendadak yang menandakan tekanan keuangan. Yang perlu diperhatikan adalah beban bunga perusahaan, karena kupon Seri A dan Seri B masing-masing 10,00 persen dan 10,50 persen per tahun tergolong tinggi dan akan menambah biaya tahunan yang harus dibayar INKP sampai jatuh tempo. Karena pokok kedua seri dibayar sekaligus di akhir masa, arus kas keluar dalam jumlah besar juga sudah pasti muncul pada saat jatuh tempo nanti, sehingga perlu diperhitungkan dalam rencana kas jangka panjang perusahaan. Yang dipantau berikutnya adalah tanggal resmi penerbitan (tanggal emisi) Obligasi Tahap III ini serta rincian lengkap Sukuk Mudharabah dan Obligasi USD Tahap III yang belum diumumkan dalam ringkasan ini.",
+  "sentimen": "netral",
+  "imageV": "msslx6oq"
+ },
+ {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
   "category": "UMKM",
   "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
@@ -535,6 +698,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Angka yang paling mencolok dari program ini adalah rasio keketatannya, dari 94.176 orang yang mendaftar tahun ini, hanya 539 yang diterima, atau sekitar 6 orang dari setiap 1.000 pendaftar. Jumlah pendaftar itu sendiri melonjak tiga kali lipat dibanding tahun sebelumnya, sementara kuota yang diterima tidak disebut berubah signifikan, sehingga pintu masuknya justru makin sempit. Yang terdampak langsung adalah lulusan baru dan mahasiswa tingkat akhir yang bersaing memperebutkan pengalaman kerja di BUMN besar seperti Pertamina, incaran yang menurut angka ini kian diminati dari tahun ke tahun. Berita ini belum menjelaskan apakah lonjakan pendaftar itu didorong oleh makin banyak lulusan baru yang mencari pengalaman kerja atau oleh sempitnya lapangan kerja di sektor swasta, jadi arah pastinya baru akan terlihat kalau dibandingkan dengan data resmi jumlah lulusan perguruan tinggi atau tingkat pengangguran muda dari BPS.",
   "imageV": "msrm3lh4"
+ },
+ {
+  "slug": "euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rencanakan [Rights Issue] hingga 2 Miliar Saham Baru",
+  "deck": "PT Estee Gold Feet Tbk (EURO) berencana menerbitkan hingga 2 miliar saham baru lewat skema HMETD untuk modal kerja dan penambahan kapasitas usaha. RUPSLB digelar 18 September 2026.",
+  "image": "assets/img/euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T19:32:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09a7a76446_7fc0601490.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EURO",
+  "tags": [
+   "EURO",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Estee Gold Feet Tbk (EURO) menyampaikan rencana penambahan modal dengan memberikan Hak Memesan Efek Terlebih Dahulu (HMETD) kepada pemegang saham. Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 2.000.000.000 (dua miliar) lembar dengan nilai nominal Rp5 per saham, yang diambil dari saham portepel atau saham simpanan perusahaan yang belum diterbitkan. Penyetoran atas saham baru itu akan dilakukan secara tunai dan saham hasil terbitan akan dicatatkan di Bursa Efek Indonesia. Dana yang terkumpul dari aksi ini rencananya dipakai untuk modal kerja dan peningkatan kapasitas usaha perseroan, yang bergerak di bidang jasa pengisian aerosol kosmetik dan bahan pembersih rumah tangga.",
+   "Rencana ini masih berupa usulan dan baru mengikat setelah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Jumat, 18 September 2026. Pengumuman RUPS sendiri sudah disampaikan sejak 12 Agustus 2026, dan keterbukaan informasi ini terbit sehari setelahnya, 13 Agustus 2026. Perseroan menyatakan bahwa sampai tanggal keterbukaan informasi ini terbit, tidak ada keberatan dari pihak mana pun terhadap rencana tersebut.",
+   "Selain persetujuan RUPSLB, rencana penambahan modal ini juga masih menunggu pernyataan efektif dari Otoritas Jasa Keuangan atas pendaftaran PMHMETD, serta penerbitan prospektus resmi. Dokumen yang beredar saat ini belum mencantumkan harga pelaksanaan, rasio HMETD, atau jumlah saham beredar perseroan saat ini, sehingga besaran dilusi bagi pemegang saham lama belum bisa dihitung dan baru akan terlihat jelas begitu prospektus terbit."
+  ],
+  "fotoAdegan": "Factory workers monitoring an aerosol canister filling line inside a cosmetics manufacturing plant, industrial equipment, bright overhead lighting",
+  "takeaway": "Laporan ini netral bagi EURO, karena sifatnya masih rencana yang tergantung persetujuan RUPSLB dan belum memuat harga atau rasio pelaksanaan, jadi dampaknya ke pemegang saham belum bisa dipastikan arahnya. Yang tersentuh di sini adalah jumlah saham beredar dan ekuitas perusahaan, jika rencana ini terealisasi, jumlah saham akan bertambah hingga dua miliar lembar sehingga laba per saham berpotensi terdilusi bagi pemegang saham yang tidak ikut menyerap haknya, sementara di sisi lain dana segar yang masuk bisa memperkuat modal kerja perusahaan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 September 2026, karena rencana ini baru sah setelah disetujui pemegang saham, disusul pernyataan efektif dari OJK dan penerbitan prospektus yang akan mengungkap harga saham baru serta rasio HMETD yang sebenarnya.",
+  "sentimen": "netral",
+  "imageV": "msslxr14"
  },
  {
   "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
@@ -646,6 +836,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Penurunan ICP ke US$81,68 per barel, turun US$1,77 dari bulan sebelumnya, terjadi karena pasokan minyak dunia melonggar setelah lalu lintas kapal tanker di Selat Hormuz membaik dan menambah pasokan global 4,1 juta barel per hari pada Juni 2026. Pihak yang paling terdampak adalah kontraktor hulu migas dan penerimaan negara, karena ICP dipakai untuk menghitung bagi hasil dan pendapatan dari sektor minyak dan gas, bukan harga BBM di pom bensin yang punya mekanisme sendiri. Baru ada satu bulan data penurunan, jadi belum cukup untuk menyimpulkan apakah harga minyak akan terus melandai atau berbalik naik, apalagi Kementerian ESDM sendiri menyebut risiko eskalasi konflik dan perubahan stok minyak Amerika Serikat masih bisa mengubah arah. Yang perlu dicermati adalah angka ICP Agustus 2026 dan data pasokan IEA berikutnya, untuk melihat apakah tren pelonggaran pasokan ini berlanjut atau hanya sementara.",
   "imageV": "msrglgj4"
+ },
+ {
+  "slug": "wifi-lepas-seluruh-saham-di-anak-usaha-jdu",
+  "category": "Aksi Korporasi",
+  "title": "WIFI [Lepas] Seluruh Saham di Anak Usaha JDU",
+  "deck": "WIFI melepas seluruh 350 saham miliknya di anak usaha PT Jejaring Digital Utama kepada PT Investasi Berjaya Sejahtera, tanpa nilai transaksi yang diumumkan.",
+  "image": "assets/img/wifi-lepas-seluruh-saham-di-anak-usaha-jdu.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T18:34:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f10c94e5d0_ebb8230cbc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "divestasi",
+   "anak usaha",
+   "JDU"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) melepas seluruh kepemilikannya di anak usaha PT Jejaring Digital Utama (JDU). Berdasarkan Pernyataan Keputusan Para Pemegang Saham No. 16 JDU tertanggal Selasa, 11 Agustus 2026, WIFI selaku salah satu pemegang saham JDU mengalihkan seluruh 350 sahamnya kepada PT Investasi Berjaya Sejahtera. Keterbukaan informasi ini ditandatangani Hendrik Tee selaku Direktur Utama WIFI dan dilaporkan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia oleh Shannedy Ong selaku Direktur.",
+   "Dokumen tidak mencantumkan nilai transaksi pengalihan saham maupun porsi kepemilikan JDU secara keseluruhan yang diwakili oleh 350 saham tersebut. WIFI sendiri menyebut dirinya sebagai perusahaan induk yang berinvestasi di bidang periklanan, produk dan layanan digital, serta jaringan serat optik melalui anak usaha, sehingga JDU kemungkinan bergerak di salah satu lini tersebut. Perseroan menyatakan pelepasan saham ini tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Technicians checking fiber optic distribution cabinets along a Jakarta street, tools and cables visible, daytime overcast light",
+  "takeaway": "Laporan ini saya nilai netral bagi WIFI, karena perusahaan sendiri menegaskan pelepasan JDU tidak berdampak material dan tidak ada indikasi arus kas masuk besar atau beban yang berkurang dari transaksi ini. Yang tersentuh adalah struktur kelompok usaha WIFI, sebab dengan keluarnya JDU sebagai anak usaha, aset atau pendapatan JDU yang selama ini ikut dihitung dalam laporan keuangan gabungan WIFI akan hilang dari laporan mendatang, meski besarannya tidak diketahui karena tidak ada nilai transaksi yang diumumkan. Pelaku pasar biasanya mencermati perubahan struktur anak usaha semacam ini karena bisa mengubah komposisi bisnis holding ke depan. Yang perlu dipantau berikutnya adalah apakah WIFI akan mengungkapkan nilai transaksi atau kontribusi JDU terhadap pendapatan dan aset konsolidasi pada laporan keuangan kuartal mendatang, mengingat keterbukaan informasi ini sama sekali tidak menyebut angka tersebut.",
+  "sentimen": "netral",
+  "imageV": "msslyfax"
  },
  {
   "slug": "pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro",

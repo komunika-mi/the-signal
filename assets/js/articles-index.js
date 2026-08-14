@@ -10,7 +10,8 @@ var ARTICLES = [
   "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",
   "deck": "Program Campuspreneur Kemendag mencatat 23 kesepakatan awal wirausaha kampus dengan ritel modern, serta ekspor pinang binaan IPB senilai Rp2,2 miliar ke Bangladesh dan Maladewa.",
   "date": "14 Agustus 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus.jpg",
+  "imageV": "msslu0tk",
   "tags": [
    "Campuspreneur",
    "UMKM",
@@ -19,6 +20,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma",
+  "category": "Aksi Korporasi",
+  "title": "DGIK Jawab Permintaan Bursa soal Volatilitas Saham [UMA]",
+  "deck": "Saham DGIK anjlok 5,3% ke Rp125 dengan volume melonjak 3,4 kali dalam sehari. Emiten konstruksi ini menyatakan tidak ada informasi material di baliknya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma.jpg",
+  "imageV": "msslul7y",
+  "tags": [
+   "DGIK",
+   "UMA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8f405d8df0_dfea507aeb.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
@@ -311,6 +329,91 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459783-penyuplai-penyelundupan-23793-kilogram-emas-diduga-penambang-ilegal-ini-yang-dikatakan-esdm"
  },
  {
+  "slug": "boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "BOBA perpanjang kontrak [enam bulan] dengan Quaker Indonesia",
+  "deck": "Formosa Ingredient Factory (BOBA) memperoleh perpanjangan kontrak produksi enam bulan dengan PT Quaker Indonesia, berlaku 1 Agustus 2026 hingga 31 Januari 2027, lewat adendum perjanjian.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia.jpg",
+  "imageV": "msslux7b",
+  "tags": [
+   "BOBA",
+   "kontrak",
+   "Quaker Indonesia",
+   "adendum"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1a2eabbfb_c00b179813.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sqmi-panggil-rupst-4-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "SQMI Panggil RUPST 4 September, Bahas Perubahan [Direksi]",
+  "deck": "Wilton Makmur Indonesia (SQMI) memanggil RUPST pada 4 September 2026, dengan agenda perubahan susunan direksi dan penyesuaian anggaran dasar mengikuti klasifikasi usaha KBLI 2025.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/sqmi-panggil-rupst-4-september-bahas-perubahan-direksi.jpg",
+  "imageV": "msslvhm4",
+  "tags": [
+   "SQMI",
+   "RUPST",
+   "Wilton Makmur Indonesia",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b59d658243_e589a52515.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hits-panggil-rupslb-agenda-pergantian-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "HITS panggil RUPSLB, agenda [pergantian] direksi-komisaris",
+  "deck": "HITS mengundang pemegang saham hadir dalam RUPSLB 4 September 2026 untuk menyetujui pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/hits-panggil-rupslb-agenda-pergantian-direksi-komisaris.jpg",
+  "imageV": "msslvz0j",
+  "tags": [
+   "HITS",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d742f5f662_bb28da8a05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Jawab Bursa: Tak Ada [Informasi Material] Baru soal Sahamnya",
+  "deck": "Merespons surat resmi Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Garuda Indonesia menyatakan tidak mengetahui adanya informasi material yang belum diungkap ke publik.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya.jpg",
+  "imageV": "msslwjrx",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/470264e5ab_f2693a69aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5",
+  "category": "Aksi Korporasi",
+  "title": "INKP tawarkan obligasi tahap III [Rp2 triliun], kupon 10-10,5%",
+  "deck": "Indah Kiat Pulp & Paper akan menerbitkan obligasi tahap III senilai maksimal Rp2 triliun dengan kupon 10 sampai 10,5 persen, bagian dari program Rp10 triliun.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5.jpg",
+  "imageV": "msslx6oq",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "pendanaan",
+   "pulp dan kertas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bc5f6763ea_2416eb9f46.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
   "category": "UMKM",
   "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
@@ -344,6 +447,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459735-pertamina-terima-539-peserta-internship-2026-berikan-pengalaman-kerja-bagi-talenta-muda"
+ },
+ {
+  "slug": "euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rencanakan [Rights Issue] hingga 2 Miliar Saham Baru",
+  "deck": "PT Estee Gold Feet Tbk (EURO) berencana menerbitkan hingga 2 miliar saham baru lewat skema HMETD untuk modal kerja dan penambahan kapasitas usaha. RUPSLB digelar 18 September 2026.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru.jpg",
+  "imageV": "msslxr14",
+  "tags": [
+   "EURO",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09a7a76446_7fc0601490.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
@@ -416,6 +536,23 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-global-pulih-icp-juli-2026-turun-jadi-us-8168-per-barel",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "wifi-lepas-seluruh-saham-di-anak-usaha-jdu",
+  "category": "Aksi Korporasi",
+  "title": "WIFI [Lepas] Seluruh Saham di Anak Usaha JDU",
+  "deck": "WIFI melepas seluruh 350 saham miliknya di anak usaha PT Jejaring Digital Utama kepada PT Investasi Berjaya Sejahtera, tanpa nilai transaksi yang diumumkan.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/wifi-lepas-seluruh-saham-di-anak-usaha-jdu.jpg",
+  "imageV": "msslyfax",
+  "tags": [
+   "WIFI",
+   "divestasi",
+   "anak usaha",
+   "JDU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f10c94e5d0_ebb8230cbc.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro",

@@ -79,7 +79,29 @@ const CARI_DI = {
     'C:/ffmpeg/bin/ffprobe.exe',
     '/usr/bin/ffprobe',
   ],
+  // Pasangan OCR untuk lampiran IDX hasil pindaian (dipasang 14 Agustus 2026
+  // atas perintah pemilik: semua lampiran harus terbaca). pdftoppm merender
+  // halaman PDF jadi gambar, tesseract membaca teks dari gambarnya. Keduanya
+  // terpasang di luar PATH mesin, jadi WAJIB terdaftar di sini atau Task
+  // Scheduler tidak menemukannya, kesalahan yang persis pernah mematikan
+  // kanal ini tiga hari.
+  pdftoppm: [
+    'D:/alat/poppler/poppler-26.02.0/Library/bin/pdftoppm.exe',
+    'C:/Program Files/poppler/bin/pdftoppm.exe',
+    '/usr/bin/pdftoppm',
+  ],
+  tesseract: [
+    'C:/Program Files/Tesseract-OCR/tesseract.exe',
+    'C:/Program Files (x86)/Tesseract-OCR/tesseract.exe',
+    '/usr/bin/tesseract',
+  ],
 };
+
+// tessdata bahasa Indonesia tidak bisa menumpang folder instalasi Tesseract
+// (Program Files butuh admin), jadi hidup di D:/alat/tessdata dan diberikan
+// lewat --tessdata-dir saat memanggil. Kosong berarti pakai bawaan instalasi.
+export const TESSDATA = ['D:/alat/tessdata', '/usr/share/tesseract-ocr/5/tessdata']
+  .find(p => fs.existsSync(p)) || '';
 
 const _alat = new Map();
 

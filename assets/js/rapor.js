@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-14T12:16:19.222+07:00",
+ "diperbarui": "2026-08-14T21:45:49.447+07:00",
  "entri": [
+  {
+   "id": "2026-08-14-3",
+   "edisi": "2026-08-14",
+   "benang": "Klaim capaian pidato kenegaraan versus realisasi lapangan",
+   "klaim": "Angka-angka capaian dalam pidato kenegaraan Prabowo menggambarkan skala rencana atau tahap awal, bukan hasil yang sudah berjalan, dan yang akan menunjukkan apakah jarak antara klaim dan realisasi ini menyempit adalah data checkpoint berikutnya seperti jumlah koperasi aktif atau progres RUPTL PLTA-PLTM menjelang akhir 2026.",
+   "penanda": "data checkpoint berikutnya seperti jumlah koperasi desa aktif atau progres RUPTL PLTA-PLTM",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "menjelang akhir 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-14-2",
+   "edisi": "2026-08-14",
+   "benang": "Konsolidasi BUMN meluas lewat Danantara",
+   "klaim": "Peran Danantara mengarah meluas dari sekadar pengelola investasi menjadi pengawas operasional dan restrukturisasi BUMN, dan penentunya adalah apakah target penutupan 750 BUMN lagi benar-benar tercapai sebelum akhir 2026.",
+   "penanda": "target penutupan 750 BUMN lagi tercapai hingga tersisa maksimal 300 BUMN",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "akhir 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-14-1",
+   "edisi": "2026-08-14",
+   "benang": "Pasar sambut RAPBN 2027, rating bertahan bukan naik",
+   "klaim": "Sentimen pasar terhadap RAPBN 2027 mengarah positif dalam jangka pendek, dan yang akan menentukan apakah sentimen ini bertahan adalah data realisasi investasi pada periode berikutnya, bukan lagi pergerakan indeks harian.",
+   "penanda": "data realisasi investasi pada periode berikutnya",
+   "tenggat": null,
+   "tenggatLabel": "periode berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-13-1",
    "edisi": "2026-08-13",

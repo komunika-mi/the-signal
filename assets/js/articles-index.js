@@ -3444,7 +3444,7 @@ var ARTICLES = [
   "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
   "date": "28 Juli 2026",
   "image": "assets/img/nama-menkeu-masuk-bursa-calon-gubernur-bi.jpg",
-  "imageV": "msrgmh3r",
+  "imageV": "mssbtoph",
   "tags": [
    "Bank Indonesia",
    "Moneter",

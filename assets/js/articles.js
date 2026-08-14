@@ -5434,9 +5434,9 @@ var ARTICLES = [
    "Isu independensi bank sentral kerap mengemuka ketika kandidat berasal dari lingkungan pemerintah, karena pasar menilai penting adanya jarak antara kebijakan fiskal dan moneter."
   ],
   "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d5c3668b97-bank-sentral-didorong-perkuat-cadangan-emas-ri-punya-3600-ton_1200_675.jpg",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ede934fa7-ilustrasi-layar-memampilkan-logo-bank-indonesia-bi-di-jakarta_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "msrgmh3r",
+  "imageV": "mssbtoph",
   "isoDate": "2026-07-28"
  },
  {

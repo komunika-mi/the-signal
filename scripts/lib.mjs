@@ -118,11 +118,33 @@ export function wajibAlat(nama) {
 //
 // Survei 12 Agustus 2026: tvOneNews 5 dari 5 artikel berfoto, Kemendag 2 dari
 // 4, Bank Indonesia 0 dari 4, BPS 0 dari 3.
-// Bukan foto jurnalistik: perabot halaman. Ditambah 14 Agustus 2026 setelah
-// pencarian dilonggarkan supaya menerima gambar tanpa ekstensi, karena
-// pelonggaran itu ikut meloloskan bendera bahasa, tombol berbagi, dan hiasan
-// yang sebelumnya tersaring sendiri oleh syarat ekstensi.
-const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|thumb(nail)?[-_]?(small|mini)|share[-_]|sosmed|social|\bflag\b|bahasa\.|english\.|transparan|_small\.|\bads?\b|assets\/imgs\/(part|theme)|\/assets\/(img|images)\/(ui|bg)/i;
+// Bukan foto jurnalistik, melainkan perabot halaman.
+//
+// Diperiksa terhadap NAMA BERKAS dan FOLDERNYA, bukan terhadap seluruh alamat
+// sebagai satu untaian teks. Bedanya menentukan, dan versi pertama aturan ini
+// salah justru karena itu.
+//
+// Versi pertama mencocokkan kata "logo" di mana pun dalam alamat, lalu menolak
+// foto tvOne yang sah bernama
+// "ilustrasi-layar-memampilkan-logo-bank-indonesia-bi-di-jakarta_488_274.jpg".
+// Itu foto jurnalistik TENTANG sebuah logo, bukan berkas logo. Karena og:image
+// tertolak, pencarian jatuh ke aset merek stasiun berukuran 129x35 piksel.
+//
+// Aturannya sekarang dua lapis:
+//   FOLDER  - tempat penyimpanan perabot memang khas dan jarang salah tebak
+//   NAMA    - kata kunci hanya dihitung kalau berada di AWAL nama berkas
+// Sisanya diserahkan ke penyaring ukuran saat unduh, yang tidak bisa dibohongi
+// nama berkas apa pun.
+const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/assets\/(imgs?|images)\/(part|theme|ui|bg)\/|\/img\/(ui|bg|icon)/i;
+const NAMA_PERABOT = /^(logo|icon|favicon|avatar|banner|flag|share|sprite|placeholder|spinner|bahasa|english|watermark|default)[-_.]?/i;
+
+function perabotHalaman(u) {
+  if (FOLDER_PERABOT.test(u)) return true;
+  const nama = (u.split('?')[0].split('/').pop() || '');
+  if (NAMA_PERABOT.test(nama)) return true;
+  if (/_(small|mini|thumb)\.|-(small|mini)\./i.test(nama)) return true;
+  return false;
+}
 
 // SATU halaman sumber = SATU foto yang boleh dipakai, yaitu foto utamanya.
 //
@@ -194,7 +216,7 @@ export function cariFotoUtama(html, opsi = {}) {
   const bukanBentukFoto = (u) => /^data:/i.test(u) || /\.svg(\?|$)/i.test(u);
 
   for (let u of kandidat) {
-    if (!u || bukanBentukFoto(u) || BUKAN_FOTO.test(u)) continue;
+    if (!u || bukanBentukFoto(u) || perabotHalaman(u)) continue;
 
     // Alamat relatif dibereskan terhadap halaman sumbernya.
     if (!/^https?:\/\//i.test(u)) {

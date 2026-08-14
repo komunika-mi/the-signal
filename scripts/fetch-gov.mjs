@@ -47,6 +47,14 @@ const SUMBER = [
     daftar: 'https://kemenperin.go.id/siaran-pers',
     asal: 'https://kemenperin.go.id',
     pola: /href="(\/artikel\/\d+\/[^"]+)"/g,
+    // Kemenperin MEMBLOKIR IP pusat data, sama seperti IDX. Diukur 14 Agustus
+    // 2026: dari koneksi Indonesia halamannya menjawab 200 dengan 29 ribu byte
+    // dalam 0,76 detik, sementara 8 putaran daily.yml berturut-turut di runner
+    // GitHub semuanya mencatat "Kemenperin GAGAL ambil daftar: fetch failed".
+    // Penanda ini membuat runner melewatinya cepat dan tanpa drama, alih-alih
+    // menunggu timeout lalu menulis baris gagal yang sama tiap dua jam.
+    // Artikelnya tetap masuk lewat putaran dari komputer rumah.
+    hanyaIpIndonesia: true,
   },
   // ESDM ditambahkan 13 Agustus 2026. Isinya justru paling padat angka di
   // antara semua kanal pemerintah: harga minyak mentah Indonesia (ICP), harga
@@ -192,7 +200,15 @@ export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
     log('  BPS GAGAL: ' + String(e.message).slice(0, 70));
   }
 
+  // GITHUB_ACTIONS diset otomatis oleh runner GitHub. Sumber yang cuma bisa
+  // dijangkau dari IP Indonesia dilewati di sana, bukan dicoba-gagal-dicoba.
+  const diRunner = Boolean(process.env.GITHUB_ACTIONS);
+
   for (const s of SUMBER) {
+    if (diRunner && s.hanyaIpIndonesia) {
+      log('  ' + s.nama + ': dilewati di runner (hanya terjangkau dari IP Indonesia)');
+      continue;
+    }
     let tautan = [];
     try {
       const daftar = await retry(() => get(s.daftar, { timeout: 30000 }));

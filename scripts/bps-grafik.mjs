@@ -284,6 +284,69 @@ function kalimatArah(titik, ind) {
     lalu.periode + ' ' + lalu.tahun + '.';
 }
 
+// Kalimat POLA yang dihitung dari deretnya sendiri, bukan pendapat siapa pun.
+//
+// Audit 14 Agustus 2026 menilai halaman data-ekonomi "menolak membaca arah
+// secara eksplisit, padahal arah paling tajam ada di angkanya sendiri".
+// Contohnya nyata: dari 30 titik neraca perdagangan hanya DUA yang negatif,
+// dan dua-duanya adalah dua bulan terakhir. Fakta setajam itu tersedia gratis
+// di deret, dan halamannya memilih diam.
+//
+// Yang ditulis di sini murni hasil hitung, tiga macam: berapa periode beruntun
+// searah, posisi nilai terakhir terhadap seluruh catatan, dan letaknya
+// dibanding rata-rata 12 periode. Tidak ada tebakan, tidak ada sebab-akibat,
+// tidak ada saran; itu tetap wilayah terlarang untuk halaman data. Membaca
+// pola deret sendiri bukan analisis pasar, sama seperti menyebut suhu tiga
+// hari terakhir naik bukan ramalan cuaca.
+function kalimatPola(titik, ind) {
+  if (!titik || titik.length < 4) return '';
+  const n = titik.length;
+  const akhir = titik[n - 1];
+  const kalimat = [];
+
+  // 1. beruntun searah
+  let arah = 0, hitung = 0;
+  for (let i = n - 1; i > 0; i--) {
+    const d = Math.sign(titik[i].nilai - titik[i - 1].nilai);
+    if (!d) break;
+    if (!arah) { arah = d; hitung = 1; }
+    else if (d === arah) hitung++;
+    else break;
+  }
+  if (hitung >= 3) {
+    kalimat.push((arah > 0 ? 'Naik ' : 'Turun ') + hitung + ' periode beruntun.');
+  }
+
+  // 2. posisi terhadap seluruh deret yang tersimpan
+  const nilai = titik.map(t => t.nilai);
+  const maks = Math.max(...nilai), min = Math.min(...nilai);
+  const label = ind.periode === 'bulanan' ? 'bulan' : 'periode';
+  if (akhir.nilai === maks) {
+    kalimat.push('Tertinggi dalam ' + n + ' ' + label + ' yang tercatat.');
+  } else if (akhir.nilai === min) {
+    kalimat.push('Terendah dalam ' + n + ' ' + label + ' yang tercatat.');
+  } else {
+    const negatif = nilai.filter(v => v < 0).length;
+    if (akhir.nilai < 0 && negatif <= 3) {
+      kalimat.push('Salah satu dari hanya ' + negatif + ' nilai negatif dalam ' +
+        n + ' ' + label + ' yang tercatat.');
+    }
+  }
+
+  // 3. lawan rerata 12 periode sebelumnya
+  if (n >= 13) {
+    const r12 = nilai.slice(-13, -1).reduce((x, y) => x + y, 0) / 12;
+    const beda = akhir.nilai - r12;
+    if (Math.abs(beda) >= Math.pow(10, -ind.desimal)) {
+      kalimat.push('Posisinya ' + (beda > 0 ? 'di atas' : 'di bawah') +
+        ' rata-rata 12 ' + label + ' terakhir (' +
+        angkaID(r12, ind.desimal) + (ind.satuan === '%' ? '%' : '') + ').');
+    }
+  }
+
+  return kalimat.slice(0, 2).join(' ');
+}
+
 // Blok lengkap siap tempel ke badan artikel.
 export function blokBps(kode, data, { maksTitik = 30 } = {}) {
   const ind = data && data.indikator ? data.indikator[kode] : null;
@@ -301,7 +364,9 @@ export function blokBps(kode, data, { maksTitik = 30 } = {}) {
       '<span class="bps-nilai num">' + esc(nilaiRingkas(akhir.nilai, ind)) + '</span>' +
       '<span class="bps-periode">' + esc(akhir.periode + ' ' + akhir.tahun) + '</span>' +
     '</div>' +
-    '<p class="bps-penjelas">' + esc(ind.penjelas) + ' ' + esc(kalimatArah(titik, ind)) + '</p>' +
+    '<p class="bps-penjelas">' + esc(ind.penjelas) + ' ' + esc(kalimatArah(titik, ind)) +
+      (kalimatPola(ind.titik, ind)
+        ? ' <strong>' + esc(kalimatPola(ind.titik, ind)) + '</strong>' : '') + '</p>' +
     svgGrafik(titik, ind) +
     '<p class="bps-sumber">Sumber: Badan Pusat Statistik, ' +
       esc(ind.labelBps || ind.nama) + '. Diolah The Signal.</p>' +

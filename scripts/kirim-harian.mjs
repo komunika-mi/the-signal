@@ -174,6 +174,25 @@ async function main() {
   }
 
   if (sudah) {
+    // DRAFT bukan "sudah terkirim". Penjaga versi lama memperlakukan keduanya
+    // sama, sehingga edisi yang pernah dibuat sebagai draft, misalnya lewat
+    // uji coba --draft, TERKUNCI selamanya: tiap percobaan kirim berikutnya
+    // berhenti di sini dan pelanggan tidak pernah menerima apa pun, tanpa
+    // satu pun pesan error. Persis jenis kegagalan sunyi yang berulang kali
+    // menggigit proyek ini.
+    //
+    // Sekarang dibedakan. Draft berisi konten yang sama tinggal DIKIRIM, bukan
+    // dibuat ulang, jadi jaminan anti-gandanya justru lebih kuat: satu edisi
+    // hanya pernah punya satu objek email di Buttondown.
+    if (sudah.status === 'draft' && !DRAFT) {
+      log('Edisi ' + h.tanggal + ' sudah ada sebagai DRAFT. Mengirim draft itu, bukan membuat baru.');
+      const kirim = await bd('/emails/' + sudah.id, {
+        method: 'PATCH',
+        body: JSON.stringify({ status: 'about_to_send' }),
+      });
+      log('TERKIRIM dari draft: ' + kirim.subject + ' (status: ' + kirim.status + ')');
+      return;
+    }
     log('Edisi ' + h.tanggal + ' SUDAH pernah dibuat (status: ' + sudah.status + ').');
     log('Tidak mengirim ulang. Ini penjaga anti-kirim-ganda, bukan error.');
     return;

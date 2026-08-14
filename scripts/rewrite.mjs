@@ -540,16 +540,33 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     '   pihak yang terlibat, tenggat, atau syarat yang disebut. Pembaca harus',
     '   tahu isi dokumennya tanpa perlu membuka PDF-nya.',
     '3. Tulis "catatan" redaksi. Ini rubrik analisis, bukan ringkasan ulang.',
-    '   Isinya TIGA hal, berurutan:',
-    '   (a) aksi korporasi ini sebenarnya apa, dijelaskan untuk orang awam;',
-    '   (b) pos mana di kinerja perusahaan yang tersentuh (mis. ekuitas, arus kas,',
-    '       beban bunga, jumlah saham beredar, laba per saham), dan mengapa',
-    '       pelaku pasar biasanya memperhatikannya;',
-    '   (c) PENILAIAN kamu: secara fundamental laporan ini condong POSITIF,',
-    '       NEGATIF, atau NETRAL bagi emiten tersebut, dan apa alasannya.',
-    '       Nyatakan terus terang, jangan berputar-putar. Kalau memang tidak',
-    '       cukup bukti untuk menilai, bilang netral dan sebutkan apa yang masih',
-    '       kurang.',
+    '   Isinya TIGA hal, dan URUTANNYA DIBALIK dari kebiasaan: penilaian dulu,',
+    '   penjelasan istilah belakangan.',
+    '   (a) PENILAIAN kamu di kalimat PERTAMA: laporan ini condong POSITIF,',
+    '       NEGATIF, atau NETRAL bagi emiten, dan alasannya. Terus terang.',
+    '   (b) pos kinerja mana yang tersentuh (ekuitas, arus kas, beban bunga,',
+    '       jumlah saham beredar, laba per saham), dan kenapa pelaku pasar',
+    '       memperhatikannya. Istilah dijelaskan DI SINI, seperlunya, bukan',
+    '       sebagai pembuka.',
+    '   (c) YANG DIPANTAU BERIKUTNYA: sebut peristiwa konkret dari dokumen ini',
+    '       yang akan menentukan kelanjutannya, lengkap dengan tanggalnya kalau',
+    '       ada. RUPSLB, tanggal efektif, tenggat pembayaran, batas waktu',
+    '       penjelasan ke bursa. Dokumen keterbukaan hampir selalu memuat satu.',
+    '',
+    '   DILARANG membuka catatan dengan pola kamus "X adalah ..." atau',
+    '   "X merupakan ...". Terukur 14 Agustus 2026: 48 dari 57 catatan IDX',
+    '   dibuka definisi istilah, dan penilaian arah baru muncul di kalimat',
+    '   terakhir kalau muncul sama sekali. Pembaca datang untuk penilaiannya;',
+    '   kamus bisa menunggu.',
+    '',
+    'KALAU ADA BLOK RIWAYAT EMITEN di DATA, laporan ini TIDAK berdiri sendiri.',
+    'Nilai RANGKAIANNYA, bukan dokumen ini saja. Lima laporan direksi menerima',
+    'saham dari program insentif yang sama adalah SATU peristiwa: total sahamnya',
+    'dijumlahkan, dan catatanmu menyebut angka gabungannya. Terukur 14 Agustus',
+    '2026: lima laporan SUPA tentang program insentif yang sama terbit sebagai',
+    'lima artikel netral terpisah, dan total 38 juta saham ke lima direksi tidak',
+    'pernah disebut di mana pun. Kalau laporan ini cuma mengulang yang sudah',
+    'diberitakan tanpa angka baru, set "layak": false.',
     '',
     'CARA MENILAI POSITIF/NEGATIF/NETRAL, ini bagian yang paling sering salah:',
     '- UKURAN LEBIH PENTING DARIPADA JENIS TRANSAKSI. Wajib pakai angka di blok',
@@ -632,6 +649,16 @@ export async function rangkumKeterbukaan(bahan, { sudahTerbit = false } = {}) {
     'Tanggal: ' + bahan.terbit,
     bahan.isiDokumen ? '\nISI DOKUMEN RESMI:\n' + bahan.isiDokumen : '\n(Isi dokumen tidak berhasil dibaca, hanya judul yang tersedia.)',
     blokAngka,
+    // Artikel emiten yang sama dalam 7 hari terakhir. Tanpa blok ini tiap
+    // laporan dinilai seolah berdiri sendiri: lima laporan SUPA dari program
+    // insentif yang sama pernah terbit sebagai lima artikel netral terpisah,
+    // dan total gabungannya tidak pernah disebut di mana pun.
+    bahan.riwayat && bahan.riwayat.length
+      ? '\nRIWAYAT EMITEN (artikel kami tentang emiten ini, 7 hari terakhir):\n' +
+        bahan.riwayat.map(r => '- [' + r.tanggal + '] ' + r.judul +
+          (r.sentimen ? ' (dinilai ' + r.sentimen + ')' : '') +
+          (r.inti ? '\n  inti: ' + r.inti : '')).join('\n')
+      : '',
     '<<<AKHIR_DATA>>>',
   ].filter(Boolean).join('\n');
 

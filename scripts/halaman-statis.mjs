@@ -33,7 +33,7 @@ export const HALAMAN_STATIS = [
     judul: 'Tentang The Signal',
     desc: 'Siapa di balik The Signal, dari mana beritanya, dan bagaimana rangkumannya disusun.',
     isi:
-      p('The Signal adalah media ringkasan berita dan analisis ekonomi Indonesia. Tugasnya satu: membuat perkembangan ekonomi bisa diikuti orang yang tidak sempat, dan tidak harus, membaca puluhan berita setiap hari.') +
+      p('The Signal adalah media analisis ekonomi Indonesia. Tugasnya satu: membaca ARAH. Dari puluhan berita, aksi korporasi, dan angka resmi setiap hari, kami menyimpulkan ke mana keadaan bergerak dan apa yang akan memastikan atau mematahkan pembacaan itu, supaya pelaku usaha dan pengambil keputusan tidak harus menyisir semuanya sendiri.') +
       p('Situs ini merupakan kolaborasi editorial dengan tvOneNews dan didukung oleh <a href="https://adsmediamix.id" target="_blank" rel="noopener">adsmediamix.id</a>.') +
 
       h2('Dari mana beritanya') +

@@ -91,6 +91,16 @@ jobs:
           # memastikan yang tayang benar edisi hari ini.
           echo "EDISI=$EDISI" >> $GITHUB_ENV
           git commit -m "Signal Harian $EDISI"
+          # Rebase dulu, karena workflow lain (daily, pasar) bisa saja mendorong
+          # commit di sela penulisan edisi. Tanpa ini push ditolak non-fast-forward
+          # dan edisi hari itu batal terbit padahal tulisannya sudah jadi.
+          # Konflik tidak ditelan: kalau rebase bentrok, putaran berhenti dengan
+          # jelas dan edisinya bisa dijalankan ulang lewat workflow_dispatch.
+          git pull --rebase --autostash origin master || {
+            echo "::error::Rebase bentrok. Jalankan ulang workflow ini setelah putaran lain selesai."
+            git rebase --abort 2>/dev/null || true
+            exit 1
+          }
           git push
 
       - name: Tunggu situs benar-benar tayang

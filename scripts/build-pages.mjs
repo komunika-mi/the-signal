@@ -615,10 +615,10 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
     `<h1 class="harian-judul">Indikator ekonomi Indonesia terbaru</h1>` +
     `<p class="harian-tanggal num">${kode.length} indikator resmi` +
       (ditarik ? ` &middot; ditarik ${esc(ditarik)}` : '') + `</p>` +
-    `<p class="harian-ringkas">Angka resmi Badan Pusat Statistik, disajikan apa adanya ` +
-    `beserta pergerakannya beberapa periode terakhir. Tiap indikator diberi satu kalimat ` +
-    `penjelas supaya bisa dibaca tanpa latar belakang ekonomi. Ini halaman data, ` +
-    `bukan analisis dan bukan rekomendasi investasi.</p>` +
+    `<p class="harian-ringkas">Angka resmi Badan Pusat Statistik beserta pola yang ` +
+    `terbaca dari deretnya sendiri: berapa periode beruntun searah, posisi terhadap ` +
+    `seluruh catatan, dan letaknya dibanding rata-rata setahun. Semua kalimat di ` +
+    `halaman ini dihitung dari angkanya, bukan pendapat. Bukan rekomendasi investasi.</p>` +
     `</div>` +
     `<div class="bps-daftar">` +
     kode.map(k => blokBps(k, BPS)).filter(Boolean).join('') +

@@ -228,13 +228,22 @@
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');
     if (!backdrop) return;
-    var close = document.getElementById('modal-close');
-    document.addEventListener('click', function (e) {
-      if (e.target.closest('[data-open-subscribe]')) { backdrop.classList.add('open'); }
-    });
-    if (close) close.addEventListener('click', function () { backdrop.classList.remove('open'); });
-    backdrop.addEventListener('click', function (e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
-    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') backdrop.classList.remove('open'); });
+
+    // Listener tingkat dokumen dipasang SEKALI saja. initModal dipanggil ulang
+    // setiap alur pendaftaran selesai (untuk mengembalikan formnya), dan versi
+    // lama ikut memasang ulang listener click dan keydown setiap kali. Setelah
+    // tiga kali daftar di perangkat yang sama, satu tekanan Escape memicu tiga
+    // handler, dan pemasangannya menumpuk terus selama halaman hidup.
+    if (!TS._modalSiap) {
+      TS._modalSiap = true;
+      var close = document.getElementById('modal-close');
+      document.addEventListener('click', function (e) {
+        if (e.target.closest('[data-open-subscribe]')) { backdrop.classList.add('open'); }
+      });
+      if (close) close.addEventListener('click', function () { backdrop.classList.remove('open'); });
+      backdrop.addEventListener('click', function (e) { if (e.target === backdrop) backdrop.classList.remove('open'); });
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') backdrop.classList.remove('open'); });
+    }
 
     if (!TS.BUTTONDOWN) return;         // penerima belum ada, biarkan apa adanya
 
@@ -272,6 +281,13 @@
     // dikerjakan. Sekarang isi modal berganti jadi pengarah ke langkah itu.
     var form = isi.querySelector('.form-langganan');
     if (form) form.addEventListener('submit', function () {
+      // Buka JENDELA POPUP bernama untuk menampung balasan Buttondown, persis
+      // seperti snippet resmi mereka. Tanpa window.open ini, target
+      // "popupwindow" cuma membuka tab baru yang sebagian peramban blokir
+      // sebagai popup tak diminta, dan pendaftarannya lenyap tanpa jejak.
+      // Dipanggil DI DALAM handler submit supaya terhitung tindakan pengguna
+      // dan lolos pemblokir popup.
+      window.open('', 'popupwindow', 'width=600,height=520');
       var email = (form.querySelector('input[type="email"]') || {}).value || '';
       setTimeout(function () {
         // JANGAN mengaku email sudah terkirim. Tab ini tidak tahu apa-apa.

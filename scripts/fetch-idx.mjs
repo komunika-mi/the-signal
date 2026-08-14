@@ -29,6 +29,18 @@ const RUTIN = new RegExp([
   'laporan harian',
   'nilai aktiva bersih',
   'penyampaian bukti iklan',
+  // Urusan tata usaha yang tidak menggerakkan apa pun. Sampai 14 Agustus 2026
+  // dua yang pertama justru terdaftar di MATERIAL, daftar putih hal yang bisa
+  // menggerakkan harga saham, sehingga "MGLV Ubah Alamat dan Email Corporate
+  // Secretary" terbit sebagai artikel. Audit menghitung seperempat isi situs
+  // adalah laporan administratif seperti itu, dan tumpukan itu menenggelamkan
+  // berita yang benar-benar bergerak. Varian ejaannya ikut didaftarkan karena
+  // emiten menulis semaunya: "perubahan alamat", "pindah alamat", "perubahan
+  // domisili" adalah laporan yang sama.
+  'corporate secretary', 'sekretaris perusahaan',
+  'perubahan alamat', 'pindah alamat', 'perubahan domisili',
+  'perubahan e-?mail', 'perubahan situs', 'perubahan logo',
+  'perubahan nama perseroan(?! terbatas)',
 ].join('|'), 'i');
 
 // Kategori yang secara fundamental bisa menggerakkan harga saham.
@@ -39,8 +51,7 @@ const MATERIAL = new RegExp([
   'buyback', 'pembelian kembali saham', 'stock split', 'reverse stock',
   'obligasi', 'sukuk', 'penawaran umum', 'ipo', 'waran',
   'perubahan pengendali', 'perubahan pemegang saham', 'kepemilikan saham',
-  'daftar pemegang saham', 'realisasi penggunaan dana', 'corporate secretary',
-  'perubahan alamat',
+  'daftar pemegang saham', 'realisasi penggunaan dana',
   'suspensi', 'delisting', 'relisting', 'pailit', 'pkpu', 'restrukturisasi',
   'kontrak', 'kerja sama', 'ekspansi', 'pabrik baru', 'investasi',
   'informasi material', 'keterbukaan informasi', 'kejadian penting',

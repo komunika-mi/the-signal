@@ -90,11 +90,26 @@ for (const a of layak) {
           fs.rmSync(path.join(IMG_DIR, a.slug + '.jpg'), { force: true });
           dicabut++;
         }
-      } else { gagal++; }
+      } else {
+        gagal++;
+        // Kegagalan sementara dibatasi lima percobaan per artikel. Tanpa batas,
+        // artikel yang sumbernya terus 403 (misalnya BPS sebelum fallback curl
+        // ada) diunduh ulang tiap putaran selamanya, membuang permintaan untuk
+        // hasil yang sudah pasti. Lima cukup longgar: kegagalan sejati yang
+        // sembuh (kasus ffmpeg hilang) ketahuan dalam satu-dua putaran, dan
+        // perbaikan tangan selalu bisa lewat daftar slug yang menerobos
+        // saringan ini.
+        a.fotoGagal = (a.fotoGagal || 0) + 1;
+        if (a.fotoGagal >= 5) {
+          a.fotoDitolak = true;
+          log('  ' + a.slug.slice(0, 40) + ': 5 kali gagal, berhenti mencoba otomatis');
+        }
+      }
       continue;
     }
     // Berhasil: cabut penanda kalau sebelumnya sempat salah dipasang.
     delete a.fotoDitolak;
+    delete a.fotoGagal;
 
     a.fotoSumber = foto;
     a.kreditFoto = kreditUntuk(a);
@@ -125,7 +140,7 @@ for (const a of layak) {
 log('selesai: ' + dapat + ' foto asli dipasang, ' + nihil + ' sumber tanpa foto, ' +
   kembar + ' ditolak karena kembar, ' + dicabut + ' kredit dicabut, ' + gagal + ' gagal');
 
-if (dapat || kembar || dicabut) {
+if (dapat || kembar || dicabut || gagal) {
   writeData('articles.js', 'ARTICLES', artikel,
     '// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,\n' +
     '// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.\n' +

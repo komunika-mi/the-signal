@@ -265,11 +265,41 @@ export function cariFotoUtama(html, opsi = {}) {
   return '';
 }
 
+// curl polos dengan header wajar, tanpa embel-embel IDX. Dipakai sebagai
+// jalur kedua ketika fetch Node ditolak.
+function ambilLewatCurl(url, timeoutDetik = 30) {
+  return execFileSync('curl', [
+    '-sL', '--compressed', '--max-time', String(timeoutDetik),
+    '-A', UA,
+    '-H', 'Accept: text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+    url,
+  ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
+}
+
 export async function get(url, { timeout = 25000, headers = {} } = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeout);
   try {
     const r = await fetch(url, { signal: ctrl.signal, headers: { 'User-Agent': UA, ...headers } });
+
+    // HTTP 403 dicoba ulang lewat curl sebelum menyerah.
+    //
+    // Beberapa situs pemerintah menyaring lewat sidik jari TLS, bukan header:
+    // permintaan fetch Node ditolak sementara curl dengan header yang sama
+    // persis diterima. IDX begitu sejak awal (lihat getViaCurl di bawah), dan
+    // BPS ternyata sama. Diuji 14 Agustus 2026 pada bps.go.id/id/pressrelease:
+    // fetch Node dijawab 403, curl dijawab 200 dengan 101 ribu byte. Akibat
+    // sebelum fallback ini ada, semua foto siaran pers BPS gagal diambil dan
+    // artikelnya jatuh ke ilustrasi, padahal halamannya bisa dibaca siapa pun
+    // lewat peramban.
+    if (r.status === 403) {
+      try {
+        const teks = ambilLewatCurl(url, Math.ceil(timeout / 1000) + 5);
+        if (teks && teks.length > 500) return teks;
+      } catch { /* jatuh ke error 403 asli di bawah */ }
+    }
+
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + url);
     return await r.text();
   } finally { clearTimeout(t); }

@@ -302,7 +302,8 @@ var ARTICLES = [
   "takeaway": "Naik turunnya angka ini biasa dipakai sebagai salah satu indikator ramai atau lesunya kunjungan turis asing ke Indonesia dari bulan ke bulan.",
   "bpsIndikator": "wisman",
   "fotoAdegan": "A tourism ministry field officer counts arriving passengers at an international airport arrival gate in the evening.",
-  "imageV": "msrda4kz"
+  "imageV": "msrda4kz",
+  "fotoGagal": 2
  },
  {
   "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
@@ -4089,7 +4090,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan cuma angka kepuasannya, tapi juga cara mengukurnya, mulai tahun ini BPS memakai indeks baru yang menilai proses layanan, bukan cuma hasil akhirnya saja. Dari hasilnya, hampir semua jenis layanan sudah dianggap memuaskan oleh jemaah, kecuali satu titik yang menonjol yaitu layanan di ARMUZNA, tempat jemaah menjalani rangkaian puncak ibadah haji, yang skornya masih satu tingkat di bawah layanan lain. Ini mengarah ke evaluasi bertahap pada titik-titik layanan yang paling padat dan berat secara logistik, ketimbang perombakan menyeluruh, karena mayoritas layanan lain sudah dianggap baik. Yang akan menunjukkan apakah perbaikan itu benar terjadi adalah rilis IKLHI musim haji berikutnya, khususnya apakah skor ARMUZNA naik kategori atau tetap tertinggal.",
-  "imageV": "mss9fw5i"
+  "imageV": "mss9fw5i",
+  "fotoGagal": 1
  },
  {
   "slug": "manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026",
@@ -4114,7 +4116,8 @@ var ARTICLES = [
   ],
   "takeaway": "IKBM triwulan II-2026 tercatat 52,31, naik dari triwulan sebelumnya, dengan pesanan, produksi, dan stok yang sama-sama ekspansif, sementara komponen tenaga kerja dan waktu kirim justru kontraksi. Pola ini paling relevan bagi pelaku industri manufaktur dan pekerja di sektor tersebut, karena kenaikan produksi tidak dibarengi penyerapan tenaga kerja yang proporsional. Kombinasi produksi naik tapi tenaga kerja tertekan bisa mengarah ke penguatan aktivitas tanpa ekspansi lapangan kerja yang sepadan, meski satu titik data belum cukup untuk memastikan itu pola yang menetap. Yang akan menegaskan arah ini adalah rilis IKBM triwulan III-2026, khususnya apakah komponen tenaga kerja kembali ekspansif atau makin tertekan.",
   "fotoAdegan": "Workers operate machinery along an active assembly line inside a large manufacturing plant.",
-  "imageV": "tjnm6o"
+  "imageV": "tjnm6o",
+  "fotoGagal": 1
  },
  {
   "slug": "tpt-turun-ke-4-65-persen-upah-buruh-rata-rata-rp3-39-juta",
@@ -4139,7 +4142,8 @@ var ARTICLES = [
   ],
   "takeaway": "TPT turun tipis 0,03 persen poin menjadi 4,65 persen, diiringi kenaikan angkatan kerja 0,497 juta orang dan penduduk bekerja 0,522 juta orang dibanding Februari 2026. Perbaikan ini paling terasa bagi pekerja di sektor pertanian, kehutanan, dan perikanan yang masih menyerap porsi terbesar tenaga kerja, yakni 28,75 persen. Pola penurunan TPT yang kecil namun konsisten mengindikasikan pasar kerja bergerak membaik secara bertahap, bukan perbaikan tajam. Yang akan memperjelas apakah tren ini berlanjut adalah rilis Sakernas berikutnya pada Februari 2027, serta data inflasi periode yang sama untuk menilai apakah kenaikan upah nominal ini turut diikuti kenaikan upah riil.",
   "fotoAdegan": "Factory workers punch out at a time clock near the exit gate at the end of a shift.",
-  "imageV": "tjnm77"
+  "imageV": "tjnm77",
+  "fotoGagal": 1
  },
  {
   "slug": "ekonomi-ri-tumbuh-5-29-persen-pada-triwulan-ii-2026",
@@ -4165,7 +4169,8 @@ var ARTICLES = [
   ],
   "takeaway": "Pola yang menonjol dari rilis ini adalah konsumsi pemerintah yang tiga kali berturut-turut mencatat pertumbuhan tertinggi dari sisi pengeluaran, yakni 15,08 persen secara kuartalan, 15,97 persen secara tahunan, dan 18,62 persen pada semester I 2026. Ini mengindikasikan belanja negara menjadi salah satu penopang utama pertumbuhan ekonomi pada periode ini, dengan dampak yang paling terasa bagi sektor yang banyak bergantung pada proyek dan pengadaan pemerintah. Di sisi lain, dominasi Pulau Jawa yang masih di atas 56 persen dari total ekonomi nasional menunjukkan pemerataan pertumbuhan antarwilayah belum banyak bergeser. Realisasi APBN semester II dan rilis PDB triwulan III 2026 mendatang akan menjadi penanda apakah lonjakan konsumsi pemerintah ini berlanjut atau hanya sementara.",
   "fotoAdegan": "Construction workers pour concrete for a new public infrastructure project on the outskirts of a city.",
-  "imageV": "tjnm7w"
+  "imageV": "tjnm7w",
+  "fotoGagal": 1
  },
  {
   "slug": "konsumsi-rumah-tangga-masih-menopang-92-persen-ekonomi-indonesia",

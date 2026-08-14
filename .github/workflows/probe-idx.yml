@@ -1,0 +1,100 @@
+name: Probe IDX dari runner
+
+# Menguji APAKAH IDX masih memblokir IP pusat data GitHub, tanpa mengubah
+# apa pun. Dibuat 14 Agustus 2026 karena klaim "IDX memblokir runner" sudah
+# beberapa hari umurnya dan pantas diperiksa ulang sebelum dipakai sebagai
+# alasan menjalankan pipeline di komputer rumah.
+#
+# Jalankan manual lewat tab Actions. Tidak berjadwal, tidak menulis apa pun,
+# tidak butuh secret.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pasang poppler-utils
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils
+          pdftotext -v
+
+      - name: Uji jangkauan IDX
+        run: |
+          set +e
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
+          REF='https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/'
+          API='https://www.idx.co.id/primary/ListedCompany/GetAnnouncement?indexFrom=1&pageSize=5&dateFrom=&dateTo=&lang=id&keyword=&emitenType=*'
+
+          echo "===== 1. IP keluar runner ====="
+          curl -s --max-time 15 https://api.ipify.org; echo
+
+          echo
+          echo "===== 2. Halaman biasa IDX (HTML) ====="
+          KODE=$(curl -s -o /tmp/idx-html.txt -w '%{http_code}' --max-time 25 -A "$UA" "$REF")
+          echo "HTTP $KODE, ukuran $(wc -c < /tmp/idx-html.txt) byte"
+          head -c 160 /tmp/idx-html.txt; echo
+
+          echo
+          echo "===== 3. API pengumuman (JSON) ====="
+          KODE=$(curl -s -o /tmp/idx-api.txt -w '%{http_code}' --max-time 30 \
+            -A "$UA" \
+            -H 'Accept: application/json, text/plain, */*' \
+            -H 'Accept-Language: id-ID,id;q=0.9,en;q=0.8' \
+            -H "Referer: $REF" \
+            -c /tmp/ck.txt -b /tmp/ck.txt \
+            "$API")
+          echo "HTTP $KODE, ukuran $(wc -c < /tmp/idx-api.txt) byte"
+          echo "160 karakter pertama:"
+          head -c 160 /tmp/idx-api.txt; echo
+          if head -c 1 /tmp/idx-api.txt | grep -q '{'; then
+            echo "-> JSON. Jumlah Replies: $(node -e "
+              try{const j=JSON.parse(require('fs').readFileSync('/tmp/idx-api.txt','utf8'));
+              console.log(Array.isArray(j.Replies)?j.Replies.length:'TIDAK ADA field Replies');}catch(e){console.log('parse gagal');}
+            ")"
+          else
+            echo "-> BUKAN JSON, kemungkinan halaman tantangan Cloudflare"
+          fi
+
+          echo
+          echo "===== 4. Panaskan sesi dulu, lalu API lagi ====="
+          curl -s -o /dev/null --max-time 25 -A "$UA" -c /tmp/ck2.txt "$REF"
+          sleep 3
+          KODE=$(curl -s -o /tmp/idx-api2.txt -w '%{http_code}' --max-time 30 \
+            -A "$UA" -H 'Accept: application/json, text/plain, */*' \
+            -H "Referer: $REF" -c /tmp/ck2.txt -b /tmp/ck2.txt "$API")
+          echo "HTTP $KODE, ukuran $(wc -c < /tmp/idx-api2.txt) byte, awalan: $(head -c 40 /tmp/idx-api2.txt)"
+
+          echo
+          echo "===== 5. Skrip asli kita ====="
+          node -e "
+            import('./scripts/lib.mjs').then(async m=>{
+              try{
+                const j = await m.ambilIDX('$API');
+                console.log('BERHASIL, laporan: ' + (j.Replies ? j.Replies.length : '?'));
+              }catch(e){ console.log('GAGAL: ' + String(e.message).slice(0,140)); }
+            });
+          "
+
+          echo
+          echo "===== 6. Unduh satu lampiran PDF ====="
+          PDF=$(node -e "
+            try{
+              const j=JSON.parse(require('fs').readFileSync('/tmp/idx-api.txt','utf8'));
+              const a=(j.Replies||[]).flatMap(r=>r.attachments||[]).find(x=>/pdf\$/i.test(x.OriginalFilename||''));
+              console.log(a? 'https://www.idx.co.id'+a.FullSavePath : '');
+            }catch(e){ console.log(''); }
+          ")
+          if [ -n "$PDF" ]; then
+            curl -s -o /tmp/l.pdf --max-time 30 -A "$UA" -H "Referer: $REF" "$PDF"
+            echo "lampiran: $(wc -c < /tmp/l.pdf) byte, awalan: $(head -c 5 /tmp/l.pdf)"
+            pdftotext -raw -enc UTF-8 /tmp/l.pdf - 2>/dev/null | head -c 200
+          else
+            echo "tidak ada lampiran PDF untuk diuji (API mungkin diblokir)"
+          fi
+          exit 0

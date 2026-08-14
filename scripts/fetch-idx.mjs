@@ -9,6 +9,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat, alatLuar, TESSDATA } from './lib.mjs';
+import XLSX from 'xlsx';
 
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
@@ -367,26 +368,75 @@ export function ocrPdf(berkasPdf, maksKarakter = 20000) {
 // terakhir tidak dibaca sama sekali. Batas sekarang tinggal pagar terhadap
 // dokumen patologis ratusan halaman, bukan pemangkas dokumen normal; dan
 // pemotongan yang masih terjadi selalu dicatat terang-terangan ke model.
+// Lampiran .xlsx dibaca lewat SheetJS lalu disajikan sebagai CSV per sheet.
+//
+// Ada sejak 14 Agustus 2026 (lanjutan perintah yang sama: semua lampiran
+// harus terbaca). Sebelumnya 36 dari 432 lampiran survei berformat .xlsx dan
+// hanya didata keberadaannya, padahal justru sering berisi tabel angkanya.
+// Hasilnya tetap melewati bersihkanTeksPdf: baris data pribadi dan
+// boilerplate tidak boleh bocor hanya karena masuk lewat jalur lain.
+export function ambilIsiXlsx(url, { maksKarakter = 20000, percobaan = 3 } = {}) {
+  if (!url || !/\.xlsx?($|\?)/i.test(url)) return '';
+  const tmp = path.join(os.tmpdir(), 'idx-x-' + Buffer.from(url).toString('base64url').slice(-24) + '.xlsx');
+  try {
+    for (let i = 0; i < percobaan; i++) {
+      if (i > 0) tidurSebentar(2500 * i);
+      try {
+        execFileSync('curl', [
+          '-s', '-L', '--compressed', '--max-time', '45',
+          '-A', UA,
+          '-H', 'Accept: */*',
+          '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+          '-o', tmp, url,
+        ], { encoding: 'utf8' });
+        if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 200) continue;
+        const isi = fs.readFileSync(tmp);
+        // .xlsx adalah arsip ZIP; .xls lama berformat CFB. Dua tanda tangan
+        // itu yang sah, selain itu berarti halaman tantangan yang tersimpan.
+        const kepala = isi.subarray(0, 2).toString('latin1');
+        if (kepala !== 'PK' && isi[0] !== 0xd0) continue;
+
+        const buku = XLSX.read(isi, { type: 'buffer' });
+        const bagian = [];
+        for (const nama of buku.SheetNames.slice(0, 6)) {
+          const csv = XLSX.utils.sheet_to_csv(buku.Sheets[nama], { blankrows: false });
+          if (csv && csv.trim()) {
+            bagian.push((buku.SheetNames.length > 1 ? '[sheet: ' + nama + ']\n' : '') + csv.trim());
+          }
+        }
+        if (buku.SheetNames.length > 6) bagian.push('[' + (buku.SheetNames.length - 6) + ' sheet lagi tidak dibaca]');
+        if (!bagian.length) return '';
+        return bersihkanTeksPdf(bagian.join('\n\n'), maksKarakter);
+      } catch { /* coba lagi */ }
+    }
+    return '';
+  } finally {
+    fs.rmSync(tmp, { force: true });
+  }
+}
+
 export function ambilIsiSemuaLampiran(daftar, { maksTotal = 80000, maksPerBerkas = 20000, jejak = null } = {}) {
   const urls = (Array.isArray(daftar) ? daftar : [daftar]).filter(Boolean);
   if (!urls.length) return '';
 
   const pdf = urls.filter(u => /\.pdf/i.test(u));
-  const lain = urls.filter(u => !/\.pdf/i.test(u));
+  const xlsx = urls.filter(u => /\.xlsx?($|\?)/i.test(u));
+  const lainnya = urls.filter(u => !/\.pdf/i.test(u) && !/\.xlsx?($|\?)/i.test(u));
 
   const bagian = [];
-  let total = 0;
+  let total = 0, xlsxGagal = 0;
   const pindaian = [], diblokir = [], hasilOcr = [];
   // Pemanggil butuh tahu KENAPA kosong: pindaian yang gagal OCR itu permanen
   // (boleh terbit dengan catatan jujur), unduhan diblokir itu sementara
   // (tunda ke putaran berikutnya). Tanpa pembedaan ini laporan pindaian
   // dilewati selamanya di tiap putaran, tidak pernah diberitakan.
+  // jejak.lain = non-PDF yang tetap tak terbaca (xlsx gagal + format lain).
   const isiJejak = () => {
     if (!jejak) return;
     jejak.pdfTotal = pdf.length;
     jejak.pindaian = pindaian.length;
     jejak.diblokir = diblokir.length;
-    jejak.lain = lain.length;
+    jejak.lain = xlsxGagal + lainnya.length;
   };
 
   for (let i = 0; i < pdf.length; i++) {
@@ -403,6 +453,16 @@ export function ambilIsiSemuaLampiran(daftar, { maksTotal = 80000, maksPerBerkas
     }
     if (jejak.sebab === 'ocr') hasilOcr.push(i + 1);
     bagian.push((pdf.length > 1 ? '--- LAMPIRAN ' + (i + 1) + ' dari ' + pdf.length + ' ---\n' : '') + teks);
+    total += teks.length;
+  }
+
+  // Lampiran .xlsx menyusul setelah PDF: tabel angkanya pelengkap narasi,
+  // dan kalau jatah panjang tinggal sedikit, narasi yang didahulukan.
+  for (const u of xlsx) {
+    if (total >= maksTotal) { bagian.push('[lampiran xlsx tidak dibaca karena batas panjang]'); break; }
+    const teks = ambilIsiXlsx(u, { maksKarakter: Math.min(maksPerBerkas, maksTotal - total) });
+    if (!teks) { xlsxGagal++; continue; }
+    bagian.push('--- LAMPIRAN TABEL (xlsx) ---\n' + teks);
     total += teks.length;
   }
 
@@ -424,9 +484,12 @@ export function ambilIsiSemuaLampiran(daftar, { maksTotal = 80000, maksPerBerkas
     bagian.push('[Lampiran ' + diblokir.join(', ') + ' dari ' + pdf.length +
       ' gagal diunduh, jadi isinya TIDAK tercakup di sini.]');
   }
-  if (lain.length) {
-    bagian.push('[Ada ' + lain.length + ' lampiran berformat ' +
-      [...new Set(lain.map(u => (u.match(/\.([a-z]+)$/i) || [, '?'])[1].toLowerCase()))].join('/') +
+  if (xlsxGagal) {
+    bagian.push('[' + xlsxGagal + ' lampiran xlsx gagal dibaca, isinya tidak tercakup di sini]');
+  }
+  if (lainnya.length) {
+    bagian.push('[Ada ' + lainnya.length + ' lampiran berformat ' +
+      [...new Set(lainnya.map(u => (u.match(/\.([a-z]+)$/i) || [, '?'])[1].toLowerCase()))].join('/') +
       ' yang tidak bisa dibaca otomatis, jadi isinya tidak tercakup di sini]');
   }
   return bagian.join('\n\n');

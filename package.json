@@ -17,6 +17,7 @@
     "periksa-kanal": "node scripts/periksa-kanal.mjs"
   },
   "dependencies": {
-    "@anthropic-ai/claude-agent-sdk": "^0.3.220"
+    "@anthropic-ai/claude-agent-sdk": "^0.3.220",
+    "xlsx": "^0.18.5"
   }
 }

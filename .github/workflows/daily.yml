@@ -164,6 +164,21 @@ jobs:
           # di ringkasan run supaya bisa diperbaiki, bukan disembunyikan.
           node scripts/periksa-foto.mjs 25 || echo "::warning::Ada foto yang tidak cocok dengan sumbernya, lihat log langkah ini"
 
+      - name: Periksa kesegaran tiap kanal
+        run: |
+          # Menjawab pertanyaan yang tidak bisa dijawab satu putaran: apakah
+          # kanal ini sepi, atau rusak?
+          #
+          # Dua kali dalam dua hari sebuah kanal mati diam-diam dan yang
+          # menyadarinya pemilik situs, bukan sistemnya. Keduanya berbentuk sama:
+          # pekerjaan gagal, tapi kegagalannya terbaca sebagai "tidak ada yang
+          # baru", dan itu keadaan yang SAH untuk media. Yang membedakan sepi
+          # dari rusak cuma waktu, dan waktu itu yang diukur di sini.
+          #
+          # Peringatan, bukan penghenti: kanal basi tidak boleh menahan berita
+          # kanal lain yang sehat.
+          node scripts/periksa-kanal.mjs || echo "::warning::Ada kanal yang berhenti berbunyi, lihat log langkah ini"
+
       - name: Periksa hasil sebelum commit
         id: periksa
         run: |

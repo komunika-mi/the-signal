@@ -146,3 +146,15 @@ finally {
     Where-Object { $_.LastWriteTime -lt (Get-Date).AddDays(-14) } |
     Remove-Item -Force -ErrorAction SilentlyContinue
 }
+
+# Periksa kesegaran kanal setelah putaran selesai.
+#
+# Ditambahkan 14 Agustus 2026, setelah kanal ini mati tiga hari tanpa ada yang
+# tahu. Task Scheduler cuma melihat kode keluar, dan kode keluar 0 waktu itu
+# berarti "putaran selesai", bukan "kanal sehat". Sekarang bedanya tercatat di
+# log harian, jadi kalau ada yang membuka log itu, keadaannya langsung terbaca
+# di baris terakhir tanpa perlu menyisir ratusan baris di atasnya.
+$kodeKanal = Jalankan 'node' @('scripts/periksa-kanal.mjs')
+if ($kodeKanal -eq 2) {
+  Catat 'PERINGATAN: ada kanal yang berhenti berbunyi, lihat baris di atas.'
+}

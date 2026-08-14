@@ -8,7 +8,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat } from './lib.mjs';
+import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat, alatLuar, TESSDATA } from './lib.mjs';
 
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
@@ -224,7 +224,7 @@ const BOILERPLATE = [
 //
 // `jejak` boleh diisi objek kosong untuk menerima sebab kegagalan. Pemanggil
 // yang tidak peduli cukup mengabaikannya, nilai kembaliannya tetap string.
-export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5, jejak = null } = {}) {
+export function ambilIsiLampiran(url, { maksKarakter = 20000, percobaan = 5, jejak = null } = {}) {
   if (!url || !/\.pdf/i.test(url)) return '';
 
   const tmp = path.join(os.tmpdir(), 'idx-' + Buffer.from(url).toString('base64url').slice(-24) + '.pdf');
@@ -262,8 +262,18 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5, jeja
 
         const teks = bersihkanTeksPdf(mentah, maksKarakter);
         if (!teks) {
-          // PDF sah tapi tanpa teks. Deterministik, mengulang tidak akan mengubah apa pun.
-          catat('pindaian', 'PDF sah ' + Math.round(ukuran / 1024) + ' KB tanpa lapisan teks, perlu OCR');
+          // PDF sah tapi tanpa lapisan teks: hasil pindaian. pdftotext tidak
+          // akan pernah bisa; yang bisa hanya OCR, dan sejak 14 Agustus 2026
+          // itulah yang dilakukan (perintah pemilik: semua lampiran harus
+          // terbaca, laporan pindaian tidak boleh hilang begitu saja).
+          const hasilOcr = ocrPdf(tmp, maksKarakter);
+          if (hasilOcr) {
+            catat('ocr', 'pindaian ' + Math.round(ukuran / 1024) + ' KB terbaca lewat OCR');
+            log('  lampiran pindaian terbaca lewat OCR (' + hasilOcr.length + ' karakter)');
+            return hasilOcr;
+          }
+          catat('pindaian', 'PDF sah ' + Math.round(ukuran / 1024) + ' KB tanpa lapisan teks, OCR ' +
+            (punyaAlat('tesseract') && punyaAlat('pdftoppm') ? 'tidak menghasilkan teks' : 'tidak tersedia di mesin ini'));
           log('  lampiran berupa pindaian, tidak diulang: ' + alasan);
           return '';
         }
@@ -283,6 +293,63 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5, jeja
 // Jeda sinkron, mengikuti pola yang sudah dipakai di lib.mjs untuk IDX.
 function tidurSebentar(ms) { const s = Date.now(); while (Date.now() - s < ms) { /* jeda */ } }
 
+// OCR untuk lampiran hasil pindaian: pdftoppm merender halaman jadi PNG,
+// tesseract membacanya (bahasa ind+eng, formulir KSEI campuran keduanya).
+//
+// Ada sejak 14 Agustus 2026, atas perintah pemilik: SEMUA lampiran harus
+// terbaca dan laporannya tetap terbit. Sebelumnya pindaian menyerah tanpa
+// OCR, dan itu nyata menghilangkan isi: pada risalah RUPSLB SDRA 13 Agustus,
+// 4 dari 5 lampiran adalah pindaian, jadi hampir seluruh risalahnya tidak
+// pernah sampai ke model.
+//
+// Halaman dirender maksimal 12: hampir semua dokumen keterbukaan lebih
+// pendek dari itu, dan OCR memakan 2-4 detik per halaman; dokumen raksasa
+// tidak boleh membuat satu putaran menggantung. Kalau terpotong, dicatat.
+const MAKS_HALAMAN_OCR = 12;
+
+export function ocrPdf(berkasPdf, maksKarakter = 20000) {
+  const pdftoppm = alatLuar('pdftoppm');
+  const tesseract = alatLuar('tesseract');
+  if (!pdftoppm || !tesseract) return '';
+
+  const awalan = path.join(os.tmpdir(), 'idx-ocr-' + Date.now());
+  try {
+    execFileSync(pdftoppm, ['-r', '200', '-gray', '-png',
+      '-f', '1', '-l', String(MAKS_HALAMAN_OCR), berkasPdf, awalan],
+      { timeout: 120000 });
+    const gambar = fs.readdirSync(os.tmpdir())
+      .filter(f => f.startsWith(path.basename(awalan)) && f.endsWith('.png'))
+      .sort()
+      .map(f => path.join(os.tmpdir(), f));
+    if (!gambar.length) return '';
+
+    const potongan = [];
+    for (const g of gambar) {
+      try {
+        const argumen = [g, 'stdout', '-l', 'ind+eng', '--psm', '4'];
+        if (TESSDATA) argumen.push('--tessdata-dir', TESSDATA);
+        const teks = execFileSync(tesseract, argumen,
+          { encoding: 'utf8', timeout: 60000, maxBuffer: 8 * 1024 * 1024, stdio: ['ignore', 'pipe', 'ignore'] });
+        if (teks && teks.trim()) potongan.push(teks);
+      } catch { /* satu halaman gagal, halaman lain tetap dicoba */ }
+    }
+    if (!potongan.length) return '';
+
+    // Hasil OCR melewati pembersih yang sama: baris data pribadi dan
+    // boilerplate KSEI tidak boleh bocor hanya karena masuk lewat jalur lain.
+    let hasil = bersihkanTeksPdf(potongan.join('\n'), maksKarakter);
+    if (!hasil || hasil.replace(/\s/g, '').length < 120) return '';
+    return '[TEKS HASIL OCR DARI PINDAIAN - angka dan nama bisa salah baca, ' +
+      'kutip dengan hati-hati]\n' + hasil;
+  } catch {
+    return '';
+  } finally {
+    for (const f of fs.readdirSync(os.tmpdir())) {
+      if (f.startsWith(path.basename(awalan))) fs.rmSync(path.join(os.tmpdir(), f), { force: true });
+    }
+  }
+}
+
 // Baca SEMUA lampiran, bukan cuma yang pertama.
 //
 // Survei 200 laporan IDX (8-12 Agustus 2026): 80% berlampiran lebih dari satu,
@@ -293,7 +360,14 @@ function tidurSebentar(ms) { const s = Date.now(); while (Date.now() - s < ms) {
 // Berkas .xlsx (36 dari 432 lampiran) tidak bisa dibaca pdftotext. Keberadaannya
 // tetap disebutkan supaya model tahu masih ada data yang belum terbaca dan
 // tidak menyimpulkan berlebihan dari yang ada.
-export function ambilIsiSemuaLampiran(daftar, { maksTotal = 9000, maksPerBerkas = 4000 } = {}) {
+//
+// Batasnya dinaikkan drastis 14 Agustus 2026 (4.000/9.000 -> 20.000/80.000)
+// atas perintah pemilik: batas lama nyata memenggal esensi. Pada pemanggilan
+// RUPSLB MDLN, lampiran berisi matriks KBLI terpotong dan dua lampiran
+// terakhir tidak dibaca sama sekali. Batas sekarang tinggal pagar terhadap
+// dokumen patologis ratusan halaman, bukan pemangkas dokumen normal; dan
+// pemotongan yang masih terjadi selalu dicatat terang-terangan ke model.
+export function ambilIsiSemuaLampiran(daftar, { maksTotal = 80000, maksPerBerkas = 20000, jejak = null } = {}) {
   const urls = (Array.isArray(daftar) ? daftar : [daftar]).filter(Boolean);
   if (!urls.length) return '';
 
@@ -302,7 +376,18 @@ export function ambilIsiSemuaLampiran(daftar, { maksTotal = 9000, maksPerBerkas 
 
   const bagian = [];
   let total = 0;
-  const pindaian = [], diblokir = [];
+  const pindaian = [], diblokir = [], hasilOcr = [];
+  // Pemanggil butuh tahu KENAPA kosong: pindaian yang gagal OCR itu permanen
+  // (boleh terbit dengan catatan jujur), unduhan diblokir itu sementara
+  // (tunda ke putaran berikutnya). Tanpa pembedaan ini laporan pindaian
+  // dilewati selamanya di tiap putaran, tidak pernah diberitakan.
+  const isiJejak = () => {
+    if (!jejak) return;
+    jejak.pdfTotal = pdf.length;
+    jejak.pindaian = pindaian.length;
+    jejak.diblokir = diblokir.length;
+    jejak.lain = lain.length;
+  };
 
   for (let i = 0; i < pdf.length; i++) {
     if (total >= maksTotal) { bagian.push('[' + (pdf.length - i) + ' lampiran lagi tidak dibaca karena batas panjang]'); break; }
@@ -316,16 +401,24 @@ export function ambilIsiSemuaLampiran(daftar, { maksTotal = 9000, maksPerBerkas 
       else diblokir.push(i + 1);
       continue;
     }
+    if (jejak.sebab === 'ocr') hasilOcr.push(i + 1);
     bagian.push((pdf.length > 1 ? '--- LAMPIRAN ' + (i + 1) + ' dari ' + pdf.length + ' ---\n' : '') + teks);
     total += teks.length;
   }
 
+  isiJejak();
   if (!bagian.length) return '';
 
+  if (hasilOcr.length) {
+    bagian.push('[Lampiran ' + hasilOcr.join(', ') + ' dari ' + pdf.length +
+      ' adalah pindaian yang dibaca lewat OCR. Angka dan ejaan nama dari bagian itu ' +
+      'bisa salah baca; kalau angka penting hanya muncul di bagian OCR, tuliskan dengan ' +
+      'kehati-hatian dan jangan jadikan satu-satunya dasar klaim numerik yang presisi.]');
+  }
   if (pindaian.length) {
     bagian.push('[Lampiran ' + pindaian.join(', ') + ' dari ' + pdf.length +
-      ' berupa hasil pindaian tanpa teks digital, jadi isinya TIDAK tercakup di sini. ' +
-      'Jangan menyimpulkan angka atau rincian yang mungkin ada di sana.]');
+      ' berupa hasil pindaian tanpa teks digital dan OCR-nya gagal, jadi isinya TIDAK ' +
+      'tercakup di sini. Jangan menyimpulkan angka atau rincian yang mungkin ada di sana.]');
   }
   if (diblokir.length) {
     bagian.push('[Lampiran ' + diblokir.join(', ') + ' dari ' + pdf.length +

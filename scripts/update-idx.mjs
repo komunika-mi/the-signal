@@ -117,14 +117,36 @@ async function main() {
       // berita, dan pembaca tidak dapat apa-apa. Padahal dokumennya sendiri
       // baik-baik saja, cuma satu unduhan yang kena tantangan Cloudflare.
       //
-      // Aturannya sekarang tegas: tidak ada isi dokumen, tidak ada berita.
-      // Laporan yang dilewati tetap ada di IDX dan akan jadi kandidat lagi
-      // di putaran berikutnya, jadi tidak ada yang benar-benar hilang.
-      k.isiDokumen = ambilIsiSemuaLampiran(k.lampiranSemua || k.lampiran);
+      // Aturannya kini DIBEDAKAN menurut jenis kegagalannya (perintah
+      // pemilik 14 Agustus 2026: laporan tidak boleh hilang begitu saja).
+      //
+      //   SEMENTARA - unduhan diblokir/gagal. Tetap DILEWATI: laporan jadi
+      //               kandidat lagi 2 jam kemudian dan biasanya terbaca.
+      //               Menerbitkan sekarang mengulang kasus AVIA: "Isi Dokumen
+      //               Belum Bisa Dibaca" padahal dokumennya baik-baik saja.
+      //   PERMANEN  - seluruh lampiran pindaian yang OCR-nya pun gagal, atau
+      //               berformat non-PDF. Menunggu tidak akan mengubah apa pun,
+      //               jadi TETAP TERBIT dari judul + perihal resmi, dengan
+      //               kejujuran penuh bahwa isi dokumennya belum terbaca
+      //               mesin dan tautan dokumen asli tersedia bagi pembaca.
+      const jejakLampiran = {};
+      k.isiDokumen = ambilIsiSemuaLampiran(k.lampiranSemua || k.lampiran, { jejak: jejakLampiran });
       if (!k.isiDokumen) {
-        dilewatiDokumen++;
-        log('  LEWATI ' + (k.emiten || '----') + ': lampiran tidak terbaca, tidak diterbitkan');
-        continue;
+        const permanen = (jejakLampiran.pindaian || 0) + (jejakLampiran.lain || 0) > 0 &&
+          !(jejakLampiran.diblokir || 0);
+        if (!permanen) {
+          dilewatiDokumen++;
+          log('  LEWATI ' + (k.emiten || '----') + ': lampiran tidak terbaca (sementara), dicoba lagi putaran depan');
+          continue;
+        }
+        log('  ' + (k.emiten || '----') + ': seluruh lampiran tidak terbaca mesin (permanen), tetap diberitakan dari judul+perihal');
+        k.isiDokumen = '[SELURUH LAMPIRAN TIDAK TERBACA MESIN: ' +
+          (jejakLampiran.pindaian ? jejakLampiran.pindaian + ' PDF pindaian yang gagal di-OCR' : '') +
+          (jejakLampiran.pindaian && jejakLampiran.lain ? ' dan ' : '') +
+          (jejakLampiran.lain ? jejakLampiran.lain + ' berkas non-PDF' : '') +
+          '. Tulis berita HANYA dari judul dan perihal resmi di atas. Sebutkan terang di badan ' +
+          'berita bahwa rincian dokumen belum terbaca otomatis dan pembaca bisa membuka dokumen ' +
+          'aslinya lewat tautan IDX. JANGAN mengarang angka, nama, tanggal, atau rincian apa pun.]';
       }
       k.angka = k.isiDokumen ? bacaAngkaKepemilikan(k.isiDokumen) : null;
       if (k.isiDokumen) {

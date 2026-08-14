@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
+  "category": "Makroekonomi",
+  "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
+  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
+  "imageV": "msss9bch",
+  "tags": [
+   "S&P",
+   "rating Indonesia",
+   "investment grade",
+   "RAPBN 2027"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459913-di-tengah-tekanan-global-prabowo-beberkan-sinyal-kepercayaan-dunia-ke-ekonomi-indonesia"
+ },
+ {
+  "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
+  "category": "Industri",
+  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "sawit",
+   "ekspor",
+   "cpo",
+   "danantara"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459901-prabowo-bongkar-selisih-harga-cpo-di-bursa-rotterdam-ri-kehilangan-hampir-50-nilai-komoditas-sawit"
+ },
+ {
+  "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
+  "category": "BUMN",
+  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
+  "imageV": "msss9c94",
+  "tags": [
+   "BUMN",
+   "Prabowo Subianto",
+   "restrukturisasi BUMN",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459878-prabowo-pangkas-bumn-tak-produktif-rp50-triliun-hemat-dan-750-perusahaan-lagi-bakal-ditutup"
+ },
+ {
+  "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
+  "category": "BUMN",
+  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
+  "imageV": "msss9cyx",
+  "tags": [
+   "BUMN",
+   "Prabowo Subianto",
+   "restrukturisasi BUMN",
+   "Sidang Tahunan MPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300"
+ },
+ {
   "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
   "category": "Aksi Korporasi",
   "title": "BQ Umumkan Jatuh Tempo 18 [Waran Terstruktur] BQCQ6A",
@@ -20,6 +86,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3090f3670_7da28b477b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brimo-capai-49-7-juta-pengguna-per-juni-2026",
+  "category": "Perbankan",
+  "title": "BRImo Capai [49,7] Juta Pengguna per Juni 2026",
+  "deck": "Pengguna Super App BRImo tembus 49,7 juta dengan volume transaksi Rp4.166 triliun hingga Juni 2026, ditopang sinergi BRI dan Danantara.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/brimo-capai-49-7-juta-pengguna-per-juni-2026.jpg",
+  "imageV": "msss9dp8",
+  "tags": [
+   "BRI",
+   "BRImo",
+   "Danantara",
+   "perbankan digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459890-brimo-capai-497-juta-pengguna-dengan-volume-transaksi-rp4166-triliun-hingga-juni-2026-perkuat-inklusi-keuangan-bersama-danantara"
  },
  {
   "slug": "bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept",
@@ -54,6 +137,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/731ac75733_6d9a15635d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi",
+  "category": "Energi",
+  "title": "9,2 GW Proyek PLTA-PLTM RI Masuk Tahap [Eksekusi]",
+  "deck": "PLN catat 9,2 gigawatt proyek PLTA dan PLTM, atau 79 persen dari target RUPTL 2025-2034, sudah masuk tahap eksekusi hingga Juli 2026, meski baru 570 MW yang beroperasi.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
+  "imageV": "msss9eyl",
+  "tags": [
+   "PLTA",
+   "PLTM",
+   "PLN",
+   "Pumped Storage"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459884-akselerasi-pengembangan-hydropower-92-gw-proyek-plta-dan-pltm-masuk-tahapan-eksekusi"
  },
  {
   "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",

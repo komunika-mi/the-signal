@@ -3,6 +3,112 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
+  "category": "Makroekonomi",
+  "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
+  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:39:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459913-di-tengah-tekanan-global-prabowo-beberkan-sinyal-kepercayaan-dunia-ke-ekonomi-indonesia",
+  "tags": [
+   "S&P",
+   "rating Indonesia",
+   "investment grade",
+   "RAPBN 2027"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyampaikan bahwa perekonomian Indonesia tetap mendapat kepercayaan dari dunia internasional, meski tekanan ekonomi global belum reda. Pernyataan itu ia sampaikan dalam Pidato Kenegaraan di Rapat Paripurna DPR RI sekaligus penyampaian RAPBN 2027 di Jakarta, Jumat, 14 Agustus 2026. Bagi pembaca, ini relevan karena penilaian lembaga pemeringkat internasional ikut menentukan seberapa mahal biaya pinjaman yang harus ditanggung pemerintah dan dunia usaha Indonesia ke depan.",
+   "Prabowo menyebut Indonesia memasuki 2026 dengan sejumlah tantangan global, mulai dari kenaikan harga energi, suku bunga tinggi, tekanan nilai tukar, hingga ketegangan geopolitik yang mengganggu perdagangan dunia. Di tengah kondisi itu, ia mengklaim ekonomi nasional pada semester pertama 2026 tumbuh paling tinggi dalam 13 tahun terakhir, dengan inflasi yang tetap terkendali dan permintaan domestik yang masih kuat.",
+   "Salah satu bukti kepercayaan itu datang dari Standard & Poor's yang pada 13 Juli 2026 mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap berada di kategori investment grade, yakni negara yang dianggap cukup aman untuk dipinjami. Menurut Prabowo, penilaian S&P itu didasarkan pada prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang berhati-hati, serta beban utang yang dinilai relatif terjaga dibanding negara-negara dengan karakteristik serupa.",
+   "Selain S&P, lembaga pemeringkat asal China, China Lianhe, turut memberikan peringkat AAA untuk Panda Bonds, yaitu obligasi berdenominasi yuan yang diterbitkan Indonesia di pasar China. Kedua penilaian ini menjadi bagian dari klaim pemerintah bahwa fondasi ekonomi Indonesia masih dipandang solid oleh pihak luar, bersamaan dengan diajukannya RAPBN 2027 ke DPR."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's central business district skyline at sunrise, glass office towers, light traffic on the street below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7edaf4ac62a-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kenaikan, melainkan status yang dipertahankan: S&P mengunci peringkat utang Indonesia di BBB dengan catatan stabil sejak 13 Juli 2026, artinya mereka masih menilai Indonesia cukup aman untuk dipinjami, tapi belum melihat cukup alasan untuk menaikkannya ke level lebih tinggi. Yang paling terdampak adalah pemerintah sendiri saat mencari utang baru untuk membiayai RAPBN 2027, karena status stabil ini biasanya menahan bunga pinjaman agar tidak melonjak, serta investor pemegang surat utang negara yang butuh kepastian risiko. Arahnya terlihat ke stabilitas yang dijaga, bukan perbaikan status ke level lebih tinggi, sejalan dengan klaim pertumbuhan tertinggi 13 tahun yang belum disertai angka persentase pasti dalam pidato ini. Yang akan menunjukkan apakah pembacaan ini bertahan adalah realisasi RAPBN 2027 yang baru diajukan ke DPR, dan apakah lembaga pemeringkat lain menyusul sikap S&P dalam beberapa bulan mendatang.",
+  "imageV": "msss9bch"
+ },
+ {
+  "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
+  "category": "Industri",
+  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:30:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459901-prabowo-bongkar-selisih-harga-cpo-di-bursa-rotterdam-ri-kehilangan-hampir-50-nilai-komoditas-sawit",
+  "tags": [
+   "sawit",
+   "ekspor",
+   "cpo",
+   "danantara"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyoroti selisih besar antara harga jual minyak sawit mentah (CPO) dari Indonesia dengan harga yang terbentuk di pasar internasional, dalam pidato kenegaraan pada Sidang Tahunan MPR dan Sidang Bersama DPR RI di Jakarta, Jumat (14/8/2026). Ia menyebut kondisi ini membuat Indonesia kehilangan sebagian besar nilai ekonomi dari komoditas andalannya sendiri, meski negara pembanding seperti Belanda sama sekali tidak memiliki kebun sawit.",
+   "Menurut Prabowo, CPO Indonesia sebelumnya dijual di pelabuhan dalam negeri dengan harga sekitar Rp15.000 per kilogram, sementara harga yang terbentuk di bursa CPO Rotterdam, Belanda, mencapai Rp27.000 per kilogram. Selisih itu, kata dia, membuat Indonesia kehilangan hampir separuh nilai ekonomi dari komoditas sawitnya sendiri hanya karena harga acuan ditentukan di pasar luar negeri.",
+   "Untuk mengatasi kebocoran nilai tersebut, pemerintah membentuk PT Danantara Sumberdaya Indonesia (DSI), lembaga yang mulai beroperasi sejak 1 Juni 2026 untuk memperkuat pengelolaan dan pengawasan uang hasil ekspor komoditas strategis. Dalam dua bulan 13 hari sejak beroperasi, DSI telah memantau lebih dari 6.500 transaksi ekspor dari tiga komoditas strategis senilai total US$14 miliar, dan menemukan potensi tambahan pemasukan sebesar US$5 miliar dari penyesuaian harga, kualitas, serta pembayaran devisa hasil ekspor.",
+   "Prabowo menyampaikan pengawasan DSI ke depan akan diperluas hingga mencakup 50 pelabuhan di 25 provinsi, dengan target akhir seluruh komoditas ekspor strategis masuk dalam pengawasan lembaga tersebut, tidak lagi terbatas pada tiga komoditas yang dipantau saat ini. Ia menegaskan penguatan pengawasan ini bertujuan memastikan kekayaan alam Indonesia memberi manfaat lebih besar bagi negara dan masyarakat, bukan dinikmati pihak tertentu di dalam maupun luar negeri."
+  ],
+  "fotoAdegan": "Workers loading palm oil drums onto a cargo ship at a busy Indonesian port, cranes and containers in soft morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
+  "category": "BUMN",
+  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:00:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459878-prabowo-pangkas-bumn-tak-produktif-rp50-triliun-hemat-dan-750-perusahaan-lagi-bakal-ditutup",
+  "tags": [
+   "BUMN",
+   "Prabowo Subianto",
+   "restrukturisasi BUMN",
+   "APBN"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto melaporkan bahwa pemerintah telah menutup 290 dari 1.074 Badan Usaha Milik Negara sejak awal masa jabatannya hingga 14 Agustus 2026. Laporan ini disampaikan dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI di Senayan, Jumat (14/8/2026), dan diklaim menghasilkan penghematan biaya operasional hingga Rp50 triliun. Bagi publik, angka ini jadi tolok ukur seberapa jauh perampingan BUMN yang selama ini digaungkan pemerintah benar-benar berjalan, sekaligus sinyal soal dana yang berpotensi dialihkan ke program lain.",
+   "Prabowo menyebut penutupan dilakukan terhadap perusahaan pelat merah yang dinilai tidak produktif dan terus merugi. Penghematan Rp50 triliun itu disebut berasal dari pos-pos seperti gaji jajaran direksi, biaya perjalanan dinas, sewa gedung kantor, dan sewa kendaraan operasional yang selama ini membebani perusahaan-perusahaan tersebut. Dana yang dihemat, menurut Prabowo, akan bisa dialihkan untuk kebutuhan lain yang manfaatnya lebih terasa langsung oleh masyarakat.",
+   "Pemerintah tidak berhenti di angka 290. Prabowo menargetkan pada 31 Desember 2026 jumlah BUMN yang dipertahankan tinggal maksimal 300 perusahaan, yang berarti lebih dari 750 BUMN lainnya harus ditutup dalam sisa tahun ini. Ia menegaskan hanya perusahaan yang benar-benar produktif dan menciptakan nilai tambah bagi rakyat yang akan dipertahankan, dan menyebut proses ini berpotensi menjadi salah satu restrukturisasi korporasi berskala terbesar di dunia."
+  ],
+  "fotoAdegan": "Rows of empty office cubicles in a state-owned company building, unplugged computers and stacked moving boxes, dim afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/02/06/65c173e4bac75-logo-bumn_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Prabowo menjabat, sedangkan target 750 BUMN berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
+  "imageV": "msss9c94"
+ },
+ {
+  "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
+  "category": "BUMN",
+  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:44:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300",
+  "tags": [
+   "BUMN",
+   "Prabowo Subianto",
+   "restrukturisasi BUMN",
+   "Sidang Tahunan MPR"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto mengungkapkan bahwa 290 badan usaha milik negara telah ditutup pemerintah, dengan evaluasi yang masih berlanjut hingga akhir tahun ini. Pernyataan itu disampaikan dalam pidato di Sidang Tahunan MPR di Kompleks Parlemen, Jakarta Pusat, Jumat (14/8/2026).",
+   "Prabowo mengaku kaget saat mengetahui jumlah BUMN yang sesungguhnya jauh lebih banyak dari perkiraannya. Ia menyebut total ada 1.074 BUMN jika dihitung sampai ke tingkat anak, cucu, bahkan cicit perusahaan, padahal semula ia mengira jumlahnya hanya sekitar 300 sampai 400.",
+   "Menyusul temuan itu, pemerintah menetapkan target baru, paling banyak 300 BUMN yang akan dipertahankan hingga 31 Desember 2026. Itu berarti lebih dari 750 BUMN direncanakan ditutup karena dinilai tidak produktif, sementara perusahaan yang dipertahankan hanya yang benar-benar menciptakan nilai tambah bagi masyarakat."
+  ],
+  "fotoAdegan": "Rows of empty desks and stacked cardboard boxes in a vacated corporate office, midday light through large windows, Jakarta skyline visible outside.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7dc4afe9aa6-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah pemangkasan besar jumlah BUMN, dari 1.074 perusahaan yang mencakup anak dan cucu usahanya menjadi paling banyak 300 pada akhir tahun ini, setelah 290 di antaranya sudah ditutup. Yang terdampak langsung adalah manajemen dan karyawan BUMN yang dianggap tidak produktif, karena unit usaha mereka masuk daftar yang akan dibubarkan atau digabung, sementara Kementerian BUMN menanggung beban merampingkan ratusan entitas dalam waktu kurang dari lima bulan. Arahnya mengarah ke konsolidasi cepat, bukan pemangkasan bertahap, sebab menutup lebih dari 750 perusahaan dalam sisa satu tahun anggaran adalah target yang agresif. Yang akan memastikan arah ini adalah laporan resmi pemerintah pada 31 Desember 2026 soal berapa BUMN yang benar-benar tersisa saat itu, apakah sesuai target 300 atau meleset.",
+  "imageV": "msss9cyx"
+ },
+ {
   "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
   "category": "Aksi Korporasi",
   "title": "BQ Umumkan Jatuh Tempo 18 [Waran Terstruktur] BQCQ6A",
@@ -29,6 +135,32 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi KISI karena hanya menjalankan jadwal baku jatuh tempo produk waran terstruktur, bukan sinyal apa pun soal kondisi keuangan perusahaan sekuritas itu sendiri. Yang tersentuh bukan neraca KISI, melainkan nasib pemegang 18 seri waran BQCQ6A: kalau harga saham acuan saat penyelesaian lebih tinggi dari harga pelaksanaan, pemegang dapat uang tunai sesuai selisihnya dibagi rasio konversi, tapi kalau lebih rendah atau sama, waran itu hangus tanpa pemegang perlu membayar tambahan apa pun. Yang perlu dipantau pemegang waran: perdagangan terakhir Rabu 26 Agustus 2026 pukul 16.00 WIB, suspensi mulai Kamis 27 Agustus pukul 09.00 WIB, eksekusi otomatis Senin 31 Agustus pukul 09.00 WIB, delisting Selasa 1 September pukul 09.00 WIB, dan pencairan dana lewat KSEI paling lambat tiga hari bursa setelah tanggal eksekusi.",
   "sentimen": "netral",
   "imageV": "mssqdnmv"
+ },
+ {
+  "slug": "brimo-capai-49-7-juta-pengguna-per-juni-2026",
+  "category": "Perbankan",
+  "title": "BRImo Capai [49,7] Juta Pengguna per Juni 2026",
+  "deck": "Pengguna Super App BRImo tembus 49,7 juta dengan volume transaksi Rp4.166 triliun hingga Juni 2026, ditopang sinergi BRI dan Danantara.",
+  "image": "assets/img/brimo-capai-49-7-juta-pengguna-per-juni-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:27:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459890-brimo-capai-497-juta-pengguna-dengan-volume-transaksi-rp4166-triliun-hingga-juni-2026-perkuat-inklusi-keuangan-bersama-danantara",
+  "tags": [
+   "BRI",
+   "BRImo",
+   "Danantara",
+   "perbankan digital"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (BRI) melaporkan performa terbaru aplikasi perbankan digitalnya, BRImo, yang tercatat digunakan oleh 49,7 juta orang hingga Juni 2026. Capaian ini disampaikan bersamaan dengan penegasan sinergi BRI dengan Danantara, lembaga pengelola investasi milik negara, dalam memperluas akses layanan keuangan ke masyarakat. Bagi nasabah, angka ini menegaskan posisi BRImo sebagai salah satu aplikasi perbankan dengan basis pengguna terbesar di Indonesia saat ini.",
+   "Selama periode tersebut, BRImo mencatat 3,32 miliar transaksi finansial dengan total nilai mencapai Rp4.166 triliun, mencakup transfer, pembayaran, investasi, hingga transaksi gaya hidup. Direktur Information Technology BRI, Saladin Dharma Nugraha Effendi, menyebut pertumbuhan ini berkaitan dengan program transformasi digital internal bernama BRIvolution Reignite, yang menurutnya diarahkan untuk memperluas manfaat digitalisasi bagi nasabah di berbagai segmen dalam satu ekosistem layanan.",
+   "Untuk menopang transaksi sebesar itu, BRI mengintegrasikan BRImo dengan sejumlah kanal lain, yaitu jaringan ATM dan CRM, mesin EDC di merchant, layanan pembayaran QRIS BRI, serta agen BRILink yang banyak melayani transaksi di luar wilayah perkotaan. Integrasi ini memungkinkan nasabah dari berbagai segmen, termasuk yang belum sepenuhnya terjangkau layanan digital, tetap dapat mengakses layanan keuangan BRI baik lewat kanal digital maupun jaringan fisik."
+  ],
+  "fotoAdegan": "A small roadside kiosk agent helping a customer complete a mobile banking transaction on a smartphone, rural Indonesian street, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ed0bda193f-pt-bank-rakyat-indonesia-persero-tbk-bri-bersinergi-dengan-danantara-untuk-mengoptimalkan-penggunaan-teknologi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka yang diumumkan BRI ini adalah snapshot sepihak dari perusahaan sendiri, tanpa pembanding periode yang sama tahun sebelumnya, sehingga belum jelas apakah pertumbuhan 49,7 juta pengguna itu tergolong cepat atau justru melambat. Yang jelas terdampak adalah nasabah BRI yang memakai BRImo untuk transfer, pembayaran, dan investasi, serta pelaku usaha kecil yang bertransaksi lewat agen BRILink dan mesin EDC di daerah yang belum terjangkau kantor cabang. Peran konkret Danantara dalam sinergi ini juga belum dirinci, apakah berupa suntikan modal, dukungan teknologi, atau sekadar sinergi kebijakan, sehingga substansi kerja samanya masih belum bisa dibaca arahnya. Yang perlu ditunggu adalah laporan keuangan BRI kuartal berikutnya yang biasanya memuat data pembanding tahun ke tahun, serta penjelasan lebih rinci soal bentuk kerja sama BRI dengan Danantara.",
+  "imageV": "msss9dp8"
  },
  {
   "slug": "bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept",
@@ -82,6 +214,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi DR maupun bagi AMMN, BBCA, BBRI, dan 15 saham acuan lainnya, sebab waran terstruktur ini murni produk yang diterbitkan dan dijual sendiri oleh RHB Sekuritas, jadi tidak mengubah kondisi keuangan perusahaan-perusahaan yang sahamnya dijadikan acuan. Yang tersentuh justru arus kas RHB Sekuritas selaku penerbit. Dari tiga seri yang harganya sudah lengkap saja, penjualan awal berpotensi mendatangkan sekitar Rp8 miliar dari waran AMMN, Rp10 miliar dari BBCA, dan Rp7,8 miliar dari BBRI, tapi di sisi lain RHB wajib membayar tunai ke investor nanti kalau harga saham acuan naik melewati harga pelaksanaan saat jatuh tempo, jadi ada kewajiban di masa depan yang besarnya belum pasti. Yang perlu dipantau adalah 19 Agustus 2026, saat ke-18 seri waran ini mulai diperdagangkan di bursa, serta tanggal pelaksanaan yakni 26 November 2026 untuk lima seri pertama dan 29 Maret 2027 untuk 13 seri sisanya, saat nilai pembayaran ke pemegang waran dihitung dari rata-rata harga saham acuan lima hari sebelumnya.",
   "sentimen": "netral",
   "imageV": "mssqeos8"
+ },
+ {
+  "slug": "9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi",
+  "category": "Energi",
+  "title": "9,2 GW Proyek PLTA-PLTM RI Masuk Tahap [Eksekusi]",
+  "deck": "PLN catat 9,2 gigawatt proyek PLTA dan PLTM, atau 79 persen dari target RUPTL 2025-2034, sudah masuk tahap eksekusi hingga Juli 2026, meski baru 570 MW yang beroperasi.",
+  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:17:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459884-akselerasi-pengembangan-hydropower-92-gw-proyek-plta-dan-pltm-masuk-tahapan-eksekusi",
+  "tags": [
+   "PLTA",
+   "PLTM",
+   "PLN",
+   "Pumped Storage"
+  ],
+  "body": [
+   "PT PLN (Persero) melaporkan bahwa hingga Juli 2026, sekitar 9,2 gigawatt (GW) proyek Pembangkit Listrik Tenaga Air (PLTA) dan Pembangkit Listrik Tenaga Minihidro (PLTM) telah masuk ke tahap eksekusi. Jumlah ini setara 79 persen dari target 11,7 GW yang dipatok dalam Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034. Capaian ini penting karena pembangkit berbasis air menjadi salah satu andalan utama Indonesia dalam memenuhi target energi terbarukan sekaligus menjaga pasokan listrik jangka panjang.",
+   "Dari 9,2 GW yang sudah bergerak, rinciannya bertingkat: 410 megawatt (MW) masih di tahap kajian kelayakan, 6,8 GW di tahap pengadaan atau pencarian kontraktor dan investor, 1,4 GW sedang dibangun, dan baru 570 MW yang benar-benar sudah beroperasi. Seluruh pengembangan 11,7 GW ini dijalankan lewat 315 proyek yang digarap PLN bersama pengembang listrik swasta atau independent power producer (IPP).",
+   "Di luar PLTA dan PLTM, RUPTL 2025-2034 juga mencakup pengembangan pembangkit pumped storage dengan total kapasitas sekitar 4,3 GW. Teknologi ini bekerja dengan menyimpan energi saat pasokan listrik berlebih, lalu melepaskannya kembali saat kebutuhan meningkat, sehingga membantu menjaga kestabilan sistem kelistrikan. Beberapa proyek yang sedang dikembangkan antara lain Upper Cisokan Pumped Storage berkapasitas 1.040 MW, Sumatera Utara Pumped Storage 500 MW, Matenggeng Pumped Storage 943 MW, Grindulu Pumped Storage 1.000 MW, dan Jatiluhur Pumped Storage 760 MW yang digarap oleh IPP.",
+   "Direktur Manajemen Proyek dan Energi Baru Terbarukan PLN, Suroso Isnandar, menekankan bahwa percepatan pengembangan hydropower membutuhkan sinergi sejak tahap penyiapan hingga pelaksanaan proyek, mengingat karakteristik tiap proyek yang berbeda-beda. Ia menyebut kolaborasi antara pemerintah, PLN, IPP, dan lembaga seperti Masyarakat Energi Baru Terbarukan (METI) sebagai kunci keberhasilan program ini, yang disampaikannya dalam Indonesia Hydropower Summit 2026 di Jakarta pada 5 Agustus 2026."
+  ],
+  "fotoAdegan": "A hydroelectric dam's turbine hall beside a rushing river in a forested Indonesian valley, mist rising at dawn.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ece36eefb5-tampak-pembangkit-listrik-tenaga-air-plta-mrica-dengan-kapasitas-180-megawatt-mw-yang-berada-di-kabupaten-banjarnegara-jawa-tengah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar jumlah proyek, tapi tahapannya: dari 9,2 gigawatt PLTA dan PLTM yang disebut sudah masuk eksekusi, porsi terbesarnya, 6,8 gigawatt, sebenarnya baru di tahap pengadaan, yaitu mencari kontraktor dan investor, belum benar-benar dibangun. Yang sudah menyala dan benar-benar mengalirkan listrik baru 570 megawatt, kurang dari 5 persen dari target 11,7 gigawatt yang dipatok sampai 2034. Pihak yang langsung terdampak adalah pengembang swasta yang menggarap sebagian proyek ini, serta daerah lokasi proyek penyimpanan energi berbasis air seperti Cisokan di Jawa Barat, Sumatera Utara, Matenggeng di Cilacap, Grindulu di Jawa Timur, dan Jatiluhur di Purwakarta. Pola ini mengarah ke percepatan administratif, banyak proyek naik status dari sekadar rencana, ketimbang percepatan fisik di lapangan, dan yang akan memastikan arah ini benar adalah laporan progres PLN berikutnya, terutama berapa banyak dari 6,8 gigawatt yang masih di tahap pengadaan itu naik ke tahap konstruksi.",
+  "imageV": "msss9eyl"
  },
  {
   "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",

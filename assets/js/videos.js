@@ -2,6 +2,38 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JTwtp-jOv9U",
+  "title": "Prabowo: Lembaga Rating China Beri RI Peringkat AAA",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Presiden Prabowo menyebut lembaga pemeringkat kredit asal China turut memberikan peringkat AAA untuk Indonesia, menyusul pengakuan serupa dari lembaga rating negara Barat.",
+  "takeaway": "Peringkat kredit tertinggi dari lembaga internasional menjadi sinyal penting bagi kepercayaan investor terhadap perekonomian Indonesia."
+ },
+ {
+  "id": "-8pBINsXmyA",
+  "title": "Prabowo Imbau Masyarakat Jujur Isi Sensus Ekonomi 2026",
+  "category": "Makroekonomi",
+  "program": "Kabar Khusus",
+  "summary": "Presiden Prabowo mengimbau masyarakat mengisi Sensus Ekonomi 2026 secara jujur karena data BPS yang akurat menjadi dasar penyusunan kebijakan ekonomi pemerintah.",
+  "takeaway": "Kualitas data sensus menentukan ketepatan kebijakan ekonomi yang akan diambil pemerintah ke depan."
+ },
+ {
+  "id": "eGrQGxD-R6E",
+  "title": "Prabowo: BUMN Tak Boleh Jadi Milik Direksi atau Penguasa",
+  "category": "BUMN",
+  "program": "tvOneNews",
+  "summary": "Pemerintah menemukan 1.074 BUMN, termasuk perusahaan anak hingga cicit, dan telah menutup 290 di antaranya sebagai bagian dari perampingan.",
+  "takeaway": "Perampingan BUMN berdampak langsung pada efisiensi pengelolaan aset negara dan tata kelola perusahaan pelat merah."
+ },
+ {
+  "id": "S2Ck7DJ9KvY",
+  "title": "Prabowo: Ekonomi RI Tetap Kokoh di Tengah Perang Dagang",
+  "category": "Global",
+  "program": "Kabar Khusus",
+  "summary": "Presiden Prabowo menyatakan ekonomi Indonesia tetap bertahan di tengah tekanan suku bunga global, pelemahan nilai tukar, dan ketegangan perdagangan dunia.",
+  "takeaway": "Ketahanan ekonomi domestik penting dicermati investor di tengah gejolak geopolitik dan perang dagang global."
+ },
+ {
   "id": "PQlLZ5wopAM",
   "title": "Prabowo Sampaikan Pidato Nota Keuangan dan RAPBN 2027",
   "category": "Makroekonomi",
@@ -64,37 +96,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Pimpinan DPR RI menerima perwakilan serikat buruh untuk membahas penyusunan RUU Ketenagakerjaan, termasuk sejumlah usulan yang diajukan buruh untuk masuk ke draf regulasi.",
   "takeaway": "Pembahasan RUU ini layak disimak karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja maupun dunia usaha."
- },
- {
-  "id": "QpHHORrp9E8",
-  "title": "Dunia Hadapi Ancaman Suplai Minyak",
-  "category": "Energi",
-  "program": "Kabar Hari Ini",
-  "summary": "Wakil Menteri Luar Negeri RI memaparkan strategi Indonesia menghadapi dinamika geopolitik global yang berpotensi mengganggu pasokan minyak dunia.",
-  "takeaway": "Gangguan suplai minyak global berpotensi mendorong kenaikan harga energi dan biaya produksi di dalam negeri."
- },
- {
-  "id": "bydSlkGAIWo",
-  "title": "BPS Rilis Statistik Perumahan 2026",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Badan Pusat Statistik bersama Kementerian PKP merilis Statistik Perumahan 2026 sebagai basis data untuk memantau kondisi perumahan nasional.",
-  "takeaway": "Data ini menjadi rujukan pelaku bisnis properti dan pembuat kebijakan dalam memetakan kebutuhan perumahan masyarakat."
- },
- {
-  "id": "lH4tYlMayQk",
-  "title": "Peresmian Ekosistem Motor Listrik Nasional Molinas",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto meresmikan Ekosistem Motor Listrik Nasional (Molinas) sekaligus menandatangani plakat produksi 20.000 unit pertama dari ALVA di Cikarang, Jawa Barat.",
-  "takeaway": "Peresmian ini menandai langkah pengembangan industri kendaraan listrik dalam negeri yang berpotensi mendorong investasi manufaktur nasional."
- },
- {
-  "id": "HfLm-4ZFk_w",
-  "title": "Peneliti Ungkap Pertumbuhan Toko Kelontong Melambat",
-  "category": "UMKM",
-  "program": "IBF",
-  "summary": "Peneliti menyoroti pertumbuhan toko kelontong yang relatif lambat di tengah ketatnya persaingan dengan minimarket dan toko online yang gencar menawarkan promosi serta diskon.",
-  "takeaway": "Isu ini penting bagi pembaca karena menggambarkan tekanan persaingan yang dihadapi pelaku usaha ritel tradisional di tengah ekspansi belanja online."
  }
 ];

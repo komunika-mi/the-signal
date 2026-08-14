@@ -37,7 +37,11 @@ async function adeganUntuk(artikel) {
     '',
     'ATURAN:',
     '- Bahasa Inggris, satu kalimat, 12-25 kata.',
-    '- Adegan nyata di Indonesia yang masuk akal untuk berita itu.',
+    '- Adegan nyata di Indonesia yang SPESIFIK pada isi beritanya: ambil',
+    '  sektornya, tempatnya, kegiatannya, dan bendanya dari teks yang diberikan.',
+    '  Jangan adegan stok yang bisa dipasang di berita mana saja.',
+    '- JANGAN menggambar momen dan tokoh peristiwanya. Yang digambar suasana',
+    '  dan bendanya, bukan kejadian dan orangnya.',
     '- JANGAN meminta permukaan bertulisan: papan, spanduk, layar presentasi,',
     '  grafik, dokumen menghadap kamera, uang kertas, plang nama. Model gambar',
     '  mengarang huruf dan hasilnya terbaca sebagai omong kosong.',
@@ -48,9 +52,17 @@ async function adeganUntuk(artikel) {
     'FORMAT KELUARAN: HANYA array JSON of string, urut sesuai daftar masukan.',
   ].join('\n');
 
+  // Badan artikel ikut dikirim, bukan cuma judul dan deck.
+  //
+  // Adegan yang ditulis dari judul saja selalu keluar generik, karena judul
+  // memang tidak memuat sektor, tempat, maupun bendanya. Paragraf pertama
+  // biasanya memuat ketiganya sekaligus, dan itu yang membuat ilustrasinya
+  // mendekati suasana foto aslinya alih-alih jadi adegan stok yang bisa
+  // dipasang di berita mana saja.
   const user = artikel.map((a, i) =>
     (i + 1) + '. [' + a.category + '] ' + String(a.title).replace(/[\[\]]/g, '') +
-    ' — ' + String(a.deck || '').slice(0, 140)).join('\n');
+    '\n   ' + String(a.deck || '').slice(0, 160) +
+    '\n   ' + String((a.body || []).slice(0, 2).join(' ')).slice(0, 420)).join('\n\n');
 
   const hasil = await ambilJSON(await tanya(system, user));
   return Array.isArray(hasil) ? hasil : [];

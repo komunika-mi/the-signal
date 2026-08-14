@@ -221,7 +221,7 @@ export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
           // Kalau ada, itu dipakai menggantikan ilustrasi AI. Survei 12 Agustus
           // 2026: Kemendag 2 dari 4 berfoto, Bank Indonesia dan Kemenperin
           // belum ketemu satu pun, jadi keduanya tetap jatuh ke ilustrasi.
-          fotoSumber: cariFotoUtama(html),
+          fotoSumber: cariFotoUtama(html, { asal: url }),
           kreditFoto: s.lembaga,
         });
       } catch (e) {

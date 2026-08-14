@@ -78,7 +78,7 @@ export async function ambilIsiArtikel(item) {
     // Foto asli dari artikel sumber. Kalau ada, ini yang dipakai dan ilustrasi
     // AI tidak perlu dibuat. Kreditnya wajib ikut, dan label "Ilustrasi AI"
     // harus hilang di artikel yang memakainya.
-    fotoSumber: cariFotoUtama(html),
+    fotoSumber: cariFotoUtama(html, { asal: item.url }),
     kreditFoto: 'tvOneNews',
   };
 }

@@ -60,7 +60,7 @@ for (const a of layak) {
   n++;
   try {
     const html = await retry(() => get(a.sourceUrl, { timeout: 30000 }), 2);
-    const utama = cariFotoUtama(html);
+    const utama = cariFotoUtama(html, { asal: a.sourceUrl });
     if (!utama) { nihil++; continue; }
 
     const { url: foto, alasan } = pasangFotoUnik(a.slug, [utama],

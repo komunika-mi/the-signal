@@ -92,6 +92,29 @@ export function unduhFoto(nama, url) {
     if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 3000) {
       throw new Error('berkas terlalu kecil, kemungkinan bukan foto');
     }
+
+    // UKURAN GAMBAR diperiksa, bukan ekstensi alamatnya.
+    //
+    // Ini pengganti syarat ekstensi yang dicabut dari cariFotoUtama pada
+    // 14 Agustus 2026. Syarat itu menolak foto sungguhan yang disajikan tanpa
+    // akhiran berkas, misalnya /download/33488 milik Kemenperin yang ternyata
+    // JPEG 1950x1299. Setelah dicabut, yang perlu ditolak justru perabot
+    // halaman: ikon, bendera bahasa, tombol berbagi.
+    //
+    // Sebagian namanya sudah tersaring BUKAN_FOTO, tapi nama berkas bisa apa
+    // saja sedangkan UKURAN tidak bisa berbohong. Ikon memang kecil dan foto
+    // berita memang besar, jadi ambang 400 piksel memisahkan keduanya tanpa
+    // perlu menebak dari ejaan alamat.
+    const ukuran = execFileSync('ffprobe', ['-v', 'error',
+      '-select_streams', 'v:0', '-show_entries', 'stream=width,height',
+      '-of', 'csv=p=0', tmp], { encoding: 'utf8' }).trim();
+    const [lebar, tinggi] = ukuran.split(',').map(Number);
+    if (!lebar || !tinggi) throw new Error('bukan gambar yang bisa dibaca');
+    if (lebar < 400) {
+      throw new Error('gambar cuma ' + lebar + 'x' + tinggi +
+        ', kemungkinan ikon atau hiasan halaman, bukan foto berita');
+    }
+
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', tmp,
       '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
       '-map_metadata', '-1', tujuan], { encoding: 'utf8' });

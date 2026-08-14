@@ -118,7 +118,11 @@ export function wajibAlat(nama) {
 //
 // Survei 12 Agustus 2026: tvOneNews 5 dari 5 artikel berfoto, Kemendag 2 dari
 // 4, Bank Indonesia 0 dari 4, BPS 0 dari 3.
-const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|assets\/imgs\/(part|theme)|\/assets\/(img|images)\/(ui|bg)/i;
+// Bukan foto jurnalistik: perabot halaman. Ditambah 14 Agustus 2026 setelah
+// pencarian dilonggarkan supaya menerima gambar tanpa ekstensi, karena
+// pelonggaran itu ikut meloloskan bendera bahasa, tombol berbagi, dan hiasan
+// yang sebelumnya tersaring sendiri oleh syarat ekstensi.
+const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|thumb(nail)?[-_]?(small|mini)|share[-_]|sosmed|social|\bflag\b|bahasa\.|english\.|transparan|_small\.|\bads?\b|assets\/imgs\/(part|theme)|\/assets\/(img|images)\/(ui|bg)/i;
 
 // SATU halaman sumber = SATU foto yang boleh dipakai, yaitu foto utamanya.
 //
@@ -139,6 +143,9 @@ const BUKAN_FOTO = /logo|icon|favicon|placeholder|avatar|spinner|sprite|banner|a
 //
 // Akibatnya, artikel yang foto utamanya sudah dipakai artikel lain TIDAK punya
 // jalan lain selain ilustrasi. Itu memang lebih mahal, tapi benar.
+// opsi.asal = URL halaman sumbernya, dipakai untuk membereskan alamat relatif.
+// Tanpa itu, sumber yang menulis src="/download/33488" tidak akan pernah bisa
+// diambil fotonya.
 export function cariFotoUtama(html, opsi = {}) {
   const kandidat = [];
 
@@ -149,12 +156,52 @@ export function cariFotoUtama(html, opsi = {}) {
     || html.match(/content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
   if (og) kandidat.push(og[1]);
 
-  for (const m of html.matchAll(/(?:src|data-src|data-original)=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|webp))(?:\?[^"']*)?["']/gi)) {
-    kandidat.push(m[1]);
+  // SYARAT EKSTENSI DICABUT, dan alamat relatif ikut diterima.
+  //
+  // Versi lama mensyaratkan URL absolut berakhiran .jpg/.jpeg/.webp. Dua syarat
+  // itu masuk akal sebagai penyaring murah, tapi keduanya salah sebagai syarat
+  // keberadaan: yang menentukan sebuah alamat itu gambar atau bukan adalah
+  // ISINYA, bukan ejaan alamatnya. Sesuatu yang berada di dalam tag <img>
+  // memang gambar, apa pun bentuk alamatnya.
+  //
+  // Terbukti merugikan pada 14 Agustus 2026. Kemenperin menyajikan foto
+  // artikelnya di /download/33488, relatif dan tanpa ekstensi. Diperiksa
+  // langsung: berkas itu JPEG sungguhan 1950x1299, 472 KB, dengan
+  // Content-Disposition filename="2.jpeg". Kedua syarat lama menolaknya, jadi
+  // artikelnya memakai ilustrasi AI padahal foto peristiwanya tersedia. Yang
+  // menyadarinya pemilik situs, dengan membandingkan dua tab.
+  //
+  // Gantinya bukan tanpa penyaring, melainkan penyaring yang benar: nama
+  // perabot halaman disaring lewat BUKAN_FOTO di atas, dan UKURAN gambar
+  // diperiksa saat diunduh (lihat unduhFoto di buat-foto.mjs). Ukuran itu
+  // penyaring yang jujur, karena ikon memang kecil dan foto berita memang besar.
+  // HANYA di dalam tag <img>. Pemindaian atribut src secara buta ikut menyapu
+  // <script src> dan <iframe src>: percobaan pertama memilih
+  // kemenperin.go.id/js/jquery-2.1.0.min.js sebagai "foto utama".
+  for (const tag of html.matchAll(/<img\b[^>]*>/gi)) {
+    const atribut = tag[0];
+    // data-src dan kerabatnya didahulukan: pada halaman ber-lazy-load, src
+    // berisi placeholder dan alamat aslinya justru di data-src.
+    const m = atribut.match(/\b(?:data-src|data-original|data-lazy-src|data-echo)=["']([^"'\s]+)["']/i)
+      || atribut.match(/\bsrc=["']([^"'\s]+)["']/i);
+    if (m) kandidat.push(m[1]);
   }
 
+  // Alamat data: dan svg dibuang di sini, bukan lewat BUKAN_FOTO, karena
+  // keduanya soal BENTUK alamat bukan soal nama berkas. data: itu gambar
+  // tertanam (biasanya placeholder abu-abu untuk lazy-load) dan svg hampir
+  // selalu ikon atau logo.
+  const bukanBentukFoto = (u) => /^data:/i.test(u) || /\.svg(\?|$)/i.test(u);
+
   for (let u of kandidat) {
-    if (!u || BUKAN_FOTO.test(u)) continue;
+    if (!u || bukanBentukFoto(u) || BUKAN_FOTO.test(u)) continue;
+
+    // Alamat relatif dibereskan terhadap halaman sumbernya.
+    if (!/^https?:\/\//i.test(u)) {
+      if (!opsi.asal) continue;            // tanpa asal, relatif tidak bisa dipakai
+      try { u = new URL(u, opsi.asal).href; } catch { continue; }
+    }
+
     // thumbs.tvonenews.com menyajikan beberapa ukuran lewat akhiran nama
     // berkas. Yang tertanam di halaman cuma 412x232, terlalu kecil untuk
     // kartu 680px, padahal versi 1200x675 tersedia di alamat yang sama.

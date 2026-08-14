@@ -11,13 +11,14 @@ var ARTICLES = [
   "deck": "Presiden Prabowo luncurkan ekosistem Motor Listrik Nasional (MoLiNas) di pabrik ALVA, Cikarang, di tengah kapasitas produksi EV yang jauh melebihi realisasi penjualan.",
   "date": "14 Agustus 2026",
   "image": "assets/img/presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit.jpg",
-  "imageV": "mss9emmw",
+  "imageV": "mssbcddw",
   "tags": [
    "kendaraan listrik",
    "MoLiNas",
    "industri otomotif",
    "investasi"
   ],
+  "kreditFoto": "Kementerian Perindustrian",
   "sourceUrl": "https://kemenperin.go.id/artikel/72482942/Presiden-Luncurkan-MoLiNas,-Menperin:-Momentum-Perkuat-Kemandirian-Industri-dan-Teknologi-Nasional",
   "sourceLabel": "Kementerian Perindustrian"
  },
@@ -45,13 +46,14 @@ var ARTICLES = [
   "deck": "Bea Cukai gagalkan penyelundupan 23,793 kg emas senilai Rp63 miliar di Bandara Soetta. ESDM duga pemasoknya penambang tanpa izin dan janji perketat aturan.",
   "date": "14 Agustus 2026",
   "image": "assets/img/penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal.jpg",
-  "imageV": "mss9fi9w",
+  "imageV": "mssbcqwl",
   "tags": [
    "emas",
    "ESDM",
    "penyelundupan",
    "tambang ilegal"
   ],
+  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459783-penyuplai-penyelundupan-23793-kilogram-emas-diduga-penambang-ilegal-ini-yang-dikatakan-esdm"
  },
  {
@@ -832,13 +834,14 @@ var ARTICLES = [
   "deck": "PT Visi Indonesia Parama dan importir Arab Saudi menandatangani kesepakatan ekspor cokelat bubuk dan karbon aktif senilai Rp3,5 miliar.",
   "date": "12 Agustus 2026",
   "image": "assets/img/pengusaha-ri-teken-ekspor-cokelat-bubuk-ke-arab-saudi.jpg",
-  "imageV": "tjnkee",
+  "imageV": "mssbd0qw",
   "tags": [
    "ekspor",
    "Arab Saudi",
    "ITPC Jeddah",
    "perdagangan"
   ],
+  "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hasil-fasilitasi-itpc-jeddah-produk-cokelat-bubuk-dan-karbon-aktif-indonesia-siap-jajaki-pasar-timur-tengah",
   "sourceLabel": "Kementerian Perdagangan"
  },

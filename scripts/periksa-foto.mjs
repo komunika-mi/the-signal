@@ -108,7 +108,7 @@ for (const a of kandidat) {
     // Halaman sumbernya diambil ULANG, bukan memakai fotoSumber tersimpan.
     // Kalau redaksi sumber mengganti fotonya, kita ingin tahu.
     const html = await retry(() => get(a.sourceUrl, { timeout: 25000 }), 1);
-    const utama = cariFotoUtama(html);
+    const utama = cariFotoUtama(html, { asal: a.sourceUrl });
     if (utama) fotoSumberKini = utama;
   } catch {
     // Sumber tidak bisa diambil sekarang: jatuh ke alamat yang tersimpan.

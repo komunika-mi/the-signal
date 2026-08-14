@@ -25,10 +25,10 @@ var ARTICLES = [
    "Agus mengakui besarnya kapasitas produksi yang sudah terbangun ini belum sepenuhnya terpakai. Ia menyebut tantangan ke depan adalah memastikan pasar kendaraan listrik terus tumbuh, tingkat pemakaian kapasitas pabrik meningkat, dan komponen buatan dalam negeri semakin banyak dipakai dalam setiap kendaraan yang diproduksi."
   ],
   "fotoAdegan": "Technicians assembling small electric motorcycles on an industrial production line, focused hands, bright factory daylight.",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://kemenperin.go.id/download/33488",
+  "kreditFoto": "Kementerian Perindustrian",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan peneguhan arah kebijakan: pemerintah ingin Indonesia jadi tempat produksi motor listrik, bukan sekadar pembeli. Yang paling terdampak adalah puluhan perusahaan perakitan kendaraan listrik yang sudah menanam modal, karena keberhasilan mereka kini bergantung pada seberapa cepat pasar domestik menyerap produksi, bukan pada penambahan pabrik baru. Ada kesenjangan besar antara kapasitas dan realisasi, pabrik motor dan kendaraan roda tiga listrik sanggup membuat 2,5 juta unit setahun, tapi penjualan motor listrik baru menembus 77 ribu unit pada 2024, jauh di bawah kapasitas yang tersedia. Ini mengarah ke strategi mendorong penyerapan pasar dan pemakaian kapasitas yang sudah dibangun, dan angka penjualan tahun 2025 hingga 2026 akan menentukan apakah kesenjangan itu mulai terkejar.",
-  "imageV": "mss9emmw"
+  "imageV": "mssbcddw"
  },
  {
   "slug": "kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026",
@@ -79,10 +79,10 @@ var ARTICLES = [
    "Menurut ESDM, modus semacam ini kerap dipakai pelaku penambangan tanpa izin dan jaringan penyelundup yang berlindung di balik dalih kesejahteraan masyarakat. Kementerian menegaskan penertiban akan dilakukan dari hulu ke hilir, sambil tetap memberi pembinaan agar kekayaan alam bisa dimanfaatkan secara luas, bukan hanya menguntungkan segelintir pihak dalam sindikat."
   ],
   "fotoAdegan": "Small-scale miners panning for gold in a muddy river surrounded by dense tropical forest, overcast daylight",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e513b9805b-direktur-jenderal-penegakan-hukum-gakkum-kementerian-esdm-rilke-jeffri-huwae_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari kasus ini adalah logika penindakannya. Begitu ada ekspor emas yang terbukti ilegal, ESDM langsung menganggap sumber tambangnya juga ilegal, tanpa perlu bukti terpisah soal asal tambang itu. Bersamaan dengan itu, ESDM mengumumkan akan mengetatkan Izin Pertambangan Rakyat dan Wilayah Izin Usaha Pertambangan. Yang paling terdampak adalah penambang emas tanpa izin dan jaringan yang menyelundupkan hasil tambang ke luar negeri, sementara penambang rakyat pemegang izin resmi berpotensi ikut kena imbas kalau pengawasan diperketat secara menyeluruh. Arah kasus ini tampak menuju pengetatan pengawasan dari hulu, bukan sekadar menindak satu kasus penyelundupan. Yang akan memastikan arah itu adalah apakah ESDM benar benar menerbitkan aturan turunan soal IPR dan WIUP yang dijanjikan, atau penanganan berhenti di penindakan Bea Cukai saja.",
-  "imageV": "mss9fi9w"
+  "imageV": "mssbcqwl"
  },
  {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
@@ -1315,7 +1315,9 @@ var ARTICLES = [
   ],
   "takeaway": "Nilai kesepakatan ini, sekitar Rp3,5 miliar, tergolong kecil dibandingkan total perdagangan nonmigas Indonesia-Arab Saudi yang mencapai USD 1,68 miliar pada semester pertama 2026. Pihak yang terdampak langsung adalah PT Visi Indonesia Parama sebagai eksportir cokelat bubuk dan karbon aktif, sementara skema business matching ITPC Jeddah berpotensi dibuka untuk pelaku usaha lain dengan produk sejenis. Arahnya tampak pada upaya diversifikasi ekspor Indonesia ke Arab Saudi, yang selama ini didominasi kendaraan dan minyak nabati, menuju produk bernilai tambah dalam skala lebih kecil. Untuk memastikan apakah pola ini berlanjut atau berhenti sebagai transaksi tunggal, perlu dilihat apakah ITPC Jeddah menghasilkan kesepakatan serupa dari business matching berikutnya.",
   "fotoAdegan": "Factory workers in hairnets seal bags of cocoa powder on a production line inside a food processing plant.",
-  "imageV": "tjnkee"
+  "imageV": "mssbd0qw",
+  "fotoSumber": "https://www.kemendag.go.id/albums/dIx0t32vq9oLjiOvxj2AnzAQtuV9G8wn9le4cHBk.png",
+  "kreditFoto": "Kementerian Perdagangan"
  },
  {
   "slug": "mglv-ubah-alamat-dan-email-corporate-secretary",

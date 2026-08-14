@@ -1869,6 +1869,59 @@ var ARTICLES = [
   "imageV": "tjnrsm"
  },
  {
+  "slug": "tama-divestasi-pemegang-saham-lepas-200-000-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: [Divestasi] Pemegang Saham Lepas 200.000 Lembar Saham",
+  "deck": "Verah Wahyudi S Wong melepas 200.000 saham TAMA secara tidak langsung pada 10 Agustus 2026, hak suaranya turun tipis dari 9,69% menjadi 9,68%.",
+  "image": "assets/img/tama-divestasi-pemegang-saham-lepas-200-000-lembar-saham.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:18:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-3796-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "Lancartama Sejati",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Verah Wahyudi S Wong, pemegang saham PT Lancartama Sejati Tbk (TAMA) yang bukan anggota direksi maupun dewan komisaris perusahaan, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 200.000 lembar saham TAMA. Transaksi dilakukan secara tidak langsung pada 10 Agustus 2026 dengan harga Rp251 per saham. Dalam laporan, tujuan transaksi ini ditulis sebagai divestasi, yakni pelepasan sebagian kepemilikan saham yang sebelumnya dipegang.",
+   "Dengan penjualan ini, jumlah saham TAMA yang dipegang Verah berkurang dari 116.375.600 lembar menjadi 116.175.600 lembar. Hak suaranya di perusahaan pun bergeser tipis dari 9,69% menjadi 9,68%. Berdasarkan harga yang tercantum dalam laporan, nilai transaksi ini sekitar Rp50,2 juta, angka yang tergolong kecil dibandingkan total kepemilikan yang masih ia pegang."
+  ],
+  "fotoAdegan": "Wide shot of a modern Jakarta financial district office tower with glass facade, pedestrians crossing below at dusk, no signage visible",
+  "takeaway": "Ini adalah laporan wajib ke OJK setiap kali pemegang saham signifikan sebuah perusahaan terbuka menjual atau membeli sahamnya, dalam kasus ini penjualan sebagian kecil saham TAMA oleh salah satu pemegang saham perorangan. Yang tersentuh dari laporan ini hanya komposisi pemegang saham dan hak suara, bukan kas atau laba perusahaan, karena transaksi terjadi di pasar sekunder antar investor dan uangnya tidak masuk ke rekening TAMA. Penilaian kami netral, sebab saham yang dilepas hanya sekitar 0,17% dari kepemilikan Verah sendiri dan hak suaranya nyaris tidak bergerak, dari 9,69% menjadi 9,68%, sehingga ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran terhadap prospek perusahaan.",
+  "sentimen": "netral",
+  "imageV": "mssda7z0"
+ },
+ {
+  "slug": "cuan-prajogo-pangestu-tambah-kepemilikan-51-7-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN: Prajogo Pangestu [Tambah] Kepemilikan 51,7 Juta Saham",
+  "deck": "Pemegang saham pengendali CUAN, Prajogo Pangestu, membeli 51,7 juta saham baru pada 11 Agustus 2026, menambah hak suaranya tipis menjadi 80,42 persen.",
+  "image": "assets/img/cuan-prajogo-pangestu-tambah-kepemilikan-51-7-juta-saham.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T21:13:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-3956-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CUAN",
+  "tags": [
+   "CUAN",
+   "Prajogo Pangestu",
+   "kepemilikan saham",
+   "Petrindo Jaya Kreasi"
+  ],
+  "body": [
+   "Prajogo Pangestu, pemegang saham pengendali PT Petrindo Jaya Kreasi Tbk (CUAN), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perusahaan tersebut. Sesuai laporan bertanggal 11 Agustus 2026 itu, jumlah sahamnya naik dari 90.353.198.700 lembar menjadi 90.404.898.700 lembar, atau bertambah 51,7 juta lembar. Akibatnya, hak suaranya di CUAN naik tipis dari 80,3718 persen menjadi 80,4178 persen. Prajogo bukan anggota direksi maupun dewan komisaris perusahaan.",
+   "Pembelian dilakukan secara tidak langsung dalam 13 transaksi terpisah pada hari yang sama, dengan harga bervariasi dari Rp680 sampai Rp740 per saham. Transaksi terbesar dalam kelompok ini adalah 16.171.800 lembar pada harga Rp710, sementara sisanya berkisar antara 1,9 juta sampai 4,3 juta lembar per transaksi. Total nilai seluruh pembelian mencapai sekitar Rp36,68 miliar. Dokumen menyebut tujuan transaksi sebagai investasi pribadi.",
+   "Laporan ini disampaikan berdasarkan Peraturan OJK Nomor 4/2024 tentang kewajiban pelaporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka, yang mewajibkan pemegang saham signifikan melaporkan setiap perubahan posisi kepemilikannya kepada regulator."
+  ],
+  "fotoAdegan": "Coal barges being loaded at a river port under an overcast sky, cranes and conveyor belts in the background, workers in hard hats nearby",
+  "takeaway": "Ini adalah laporan wajib yang harus disampaikan setiap kali pemegang saham signifikan menambah atau mengurangi kepemilikannya di perusahaan terbuka, dan dalam kasus ini pengendali CUAN menambah posisinya lewat pembelian saham di pasar. Yang tersentuh adalah struktur kepemilikan dan hak suara pemegang saham pengendali, bukan kondisi keuangan perusahaan itu sendiri, karena uang dari transaksi ini mengalir antar pemegang saham di pasar sekunder dan tidak masuk sebagai dana segar ke kas perusahaan. Secara fundamental, laporan ini netral bagi CUAN. Penambahan 51,7 juta lembar hanya sekitar 0,057 persen dari kepemilikan Prajogo yang sudah di atas 90 miliar lembar, dan hak suaranya nyaris tidak bergeser, hanya naik 0,046 poin persentase. Ukuran transaksi ini terlalu kecil untuk dibaca sebagai sinyal keyakinan besar dari sang pengendali terhadap prospek perusahaan, jadi sebaiknya dilihat sebagai transaksi rutin, bukan pernyataan sikap.",
+  "sentimen": "netral",
+  "imageV": "mssdakvj"
+ },
+ {
   "slug": "telkom-kenalkan-connectivity-di-dti-cx-2026",
   "category": "Teknologi",
   "title": "Telkom Kenalkan [Connectivity+] di DTI-CX 2026",
@@ -1893,6 +1946,84 @@ var ARTICLES = [
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7b1ce6d8ea5-telkom-perkenalkan-connectivity_1200_675.jpg",
   "kreditFoto": "tvOneNews",
   "imageV": "tjnrsn"
+ },
+ {
+  "slug": "pgjo-suntik-modal-rp47-5-m-ke-anak-usaha-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Suntik Modal Rp47,5 M ke Anak Usaha, Ekuitas [Negatif]",
+  "deck": "PGJO menambah modal anak usahanya, PT Panca Pertiwi Tambang, senilai Rp47,5 miliar, setara 156,3 persen dari total aset Perseroan yang tercatat berekuitas negatif.",
+  "image": "assets/img/pgjo-suntik-modal-rp47-5-m-ke-anak-usaha-ekuitas-negatif.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T19:53:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a14d9e557_3262bf1aa0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGJO",
+  "tags": [
+   "PGJO",
+   "transaksi material",
+   "penambahan modal",
+   "PT Panca Pertiwi Tambang"
+  ],
+  "body": [
+   "PT Bahtera Bumi Raya Tbk (PGJO) melaporkan transaksi material berupa penambahan modal dasar serta modal ditempatkan dan disetor penuh pada entitas anaknya, PT Panca Pertiwi Tambang (PPT), tanpa memerlukan persetujuan RUPS. Nilai transaksi tercatat Rp47,5 miliar. Dalam formulir keterbukaan informasi ke Bursa Efek Indonesia, Perseroan mencantumkan bahwa nilai itu setara 156,3 persen dari total aset per 31 Desember 2025, dan persentase tersebut dihitung terhadap total aset, bukan terhadap ekuitas, karena Perseroan tercatat memiliki ekuitas negatif pada periode laporan itu. Transaksi berlangsung pada 11 Agustus 2026.",
+   "Berdasarkan Keputusan Menteri Hukum Republik Indonesia Nomor AHU-0073311.AH.01.02.Tahun 2026 yang mengesahkan Akta Pernyataan Keputusan Pemegang Saham PPT Nomor 298 tanggal 22 Juli 2026 di hadapan Notaris Christina Dwi Utami, modal dasar PPT naik menjadi Rp200 miliar dan modal ditempatkan serta disetor penuh menjadi Rp50 miliar. Susunan pemegang saham PPT setelah perubahan itu: PT Bahtera Bumi Raya Tbk memegang 4.999.999 lembar saham senilai Rp49.999.990.000, Komisaris Willius Wijaya memegang 1 lembar saham senilai Rp10.000, sedangkan Direktur Hong Yi tidak memegang saham.",
+   "Perseroan menyatakan transaksi ini dikecualikan dari kewajiban menggunakan jasa penilai independen karena dilakukan dengan perusahaan terkendali yang sahamnya dimiliki lebih dari 99 persen oleh Perseroan, sesuai POJK Nomor 31/POJK.04/2015 sebagaimana diubah dengan POJK Nomor 45 Tahun 2024. Surat keterbukaan informasi ditandatangani Direktur Willius Wijaya dan telah diumumkan di situs web Perseroan serta situs web Bursa Efek Indonesia pada 11 Agustus 2026."
+  ],
+  "fotoAdegan": "Excavators loading ore into haul trucks at an open-pit mine in Indonesia, dusty haze, overcast afternoon light.",
+  "takeaway": "Aksi korporasi ini pada dasarnya adalah PGJO menambah setoran modal ke anak usahanya, PPT, sehingga modal dasar dan modal disetor penuh PPT membesar, semacam menyuntikkan dana segar agar anak usaha punya modal kerja lebih besar. Yang tersentuh langsung adalah pos permodalan dan arus kas induk usaha, karena nilai suntikan ini mencapai 156,3 persen dari total aset PGJO, sementara Perseroan sendiri tercatat memiliki ekuitas negatif per akhir 2025, artinya kewajiban Perseroan melebihi asetnya. Kombinasi ekuitas negatif dengan komitmen dana sebesar itu ke anak usaha membuat laporan ini condong negatif secara fundamental, sebab menunjukkan Perseroan tetap mengucurkan dana dalam jumlah besar di tengah kondisi permodalan yang sudah tertekan, sementara dokumen ini tidak menjelaskan dari mana sumber dana penambahan modal tersebut berasal.",
+  "sentimen": "negatif",
+  "imageV": "mssdawxv"
+ },
+ {
+  "slug": "cbre-republik-capital-lepas-90-76-juta-saham-rp700-unit",
+  "category": "Aksi Korporasi",
+  "title": "CBRE: Republik Capital [Lepas] 90,76 Juta Saham, Rp700/Unit",
+  "deck": "Republik Capital Indonesia melepas 90.761.349 saham CBRE seharga Rp700 per lembar pada 6 Agustus 2026, hak suara turun dari 11,30% menjadi 9,30%.",
+  "image": "assets/img/cbre-republik-capital-lepas-90-76-juta-saham-rp700-unit.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T19:37:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-9277-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE"
+  ],
+  "body": [
+   "Republik Capital Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya telah mengurangi kepemilikan saham PT Cakra Buana Resources Energi Tbk (CBRE). Sebelum transaksi, Republik Capital Indonesia memegang 513.000.000 saham CBRE dengan hak suara 11,30 persen. Setelah transaksi, kepemilikannya tersisa 422.238.651 saham dengan hak suara 9,30 persen, berarti sebanyak 90.761.349 saham dilepas.",
+   "Transaksi dilakukan pada 6 Agustus 2026 dengan harga Rp700 per saham, berupa saham biasa yang dijual secara tidak langsung. Dalam laporan yang disampaikan pada 11 Agustus 2026 sesuai ketentuan POJK Nomor 4/2024, tujuan transaksi ini ditulis sebagai rebalancing portofolio, yaitu penataan ulang komposisi investasi milik pelapor. Pelapor bukan anggota direksi maupun dewan komisaris CBRE.",
+   "Jumlah saham yang dilepas setara dengan sekitar 17,69 persen dari total kepemilikan Republik Capital Indonesia di CBRE sebelum transaksi. Dengan pengurangan ini, hak suara Republik Capital Indonesia di CBRE turun dari 11,30 persen menjadi 9,30 persen, melewati ambang 10 persen yang biasa dipakai untuk menandai pemegang saham dengan kepemilikan signifikan."
+  ],
+  "fotoAdegan": "A coal stockpile and loading conveyor at an East Kalimantan mining port under a hazy midday sky",
+  "takeaway": "Aksi ini adalah laporan wajib dari salah satu pemegang saham CBRE, Republik Capital Indonesia, yang menjual sebagian sahamnya di pasar sehingga porsi kepemilikannya berkurang. Transaksi ini tidak mengubah kas atau utang perusahaan karena uangnya mengalir antar investor, bukan masuk ke kas CBRE, tapi tetap penting karena mengubah peta pemegang saham dan hak suara di perusahaan. Pelaku pasar biasanya memperhatikan pergeseran seperti ini karena menunjukkan seberapa besar keyakinan investor besar terhadap perusahaan. Penilaian kami condong negatif, sebab yang dilepas bukan jumlah kecil, yaitu sekitar seperlima dari kepemilikan pelapor sendiri, dan membuat hak suaranya turun dari 11,30 persen menjadi 9,30 persen, melewati ambang 10 persen. Alasan resmi yang tertulis adalah rebalancing portofolio, bukan indikasi masalah di internal perusahaan, sehingga sinyalnya perlu dibaca sebagai pengurangan keterlibatan satu pemegang saham, bukan cerminan kinerja CBRE secara langsung.",
+  "sentimen": "netral",
+  "imageV": "mssdbccz"
+ },
+ {
+  "slug": "mice-siwie-honoris-tambah-kepemilikan-saham-jadi-0-1433",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [tambah] kepemilikan saham jadi 0,1433%",
+  "deck": "Siwie Honoris membeli 50.500 lembar saham Multi Indocitra pada 7 Agustus 2026, menambah kepemilikannya menjadi 859.700 lembar atau 0,1433% hak suara.",
+  "image": "assets/img/mice-siwie-honoris-tambah-kepemilikan-saham-jadi-0-1433.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T19:17:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-0439-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MICE",
+  "tags": [
+   "MICE",
+   "kepemilikan saham",
+   "Multi Indocitra",
+   "OJK"
+  ],
+  "body": [
+   "Siwie Honoris, yang bukan menjabat sebagai direksi maupun komisaris PT Multi Indocitra Tbk (MICE), melaporkan penambahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 11 Agustus 2026. Sebelum transaksi, ia memegang 809.200 lembar saham MICE atau setara 0,1349% hak suara perusahaan. Setelah transaksi, kepemilikannya naik menjadi 859.700 lembar, setara 0,1433% hak suara.",
+   "Penambahan sebanyak 50.500 lembar itu dilakukan lewat dua kali pembelian tidak langsung pada 7 Agustus 2026, yaitu 500 lembar saham biasa di harga Rp525 per lembar dan 50.000 lembar saham biasa di harga Rp520 per lembar. Dalam laporan resminya ke OJK, tujuan transaksi ini disebutkan sebagai investasi.",
+   "Penambahan ini setara 6,24% dari jumlah saham yang sebelumnya dimiliki Siwie Honoris, namun porsi kepemilikannya di Multi Indocitra tetap kecil, di bawah 0,15% dari total saham beredar perusahaan."
+  ],
+  "fotoAdegan": "Workers stitching fabric backpacks on an assembly line inside a garment workshop, sewing machines and fabric rolls, natural daylight",
+  "takeaway": "Ini laporan wajib kepemilikan saham dari seorang pemegang saham, bukan direksi atau komisaris, yang membeli tambahan saham MICE di pasar sekunder, bukan penerbitan saham baru oleh perusahaan. Karena jual beli ini terjadi antar-investor di bursa, tidak ada kas yang masuk ke kas perusahaan dan jumlah saham beredar Multi Indocitra tidak berubah, yang bergeser hanya komposisi kepemilikan dan hak suara pelapor. Kenaikan hak suara dari 0,1349% menjadi 0,1433% dan nilai transaksi yang hanya berkisar Rp26 juta tergolong sangat kecil untuk ukuran perusahaan terbuka, jadi transaksi ini terlalu kecil untuk dibaca sebagai sinyal kuat terhadap prospek MICE. Karena ini pembelian, bukan penjualan, tidak ada indikasi pelepasan saham yang mengkhawatirkan, tapi ukurannya juga belum cukup besar untuk disebut sinyal positif yang berarti, sehingga penilaiannya netral.",
+  "sentimen": "netral",
+  "imageV": "mssdbrsv"
  },
  {
   "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",

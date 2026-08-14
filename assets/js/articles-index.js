@@ -1199,6 +1199,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459250-bocoran-airlangga-soal-calon-gubernur-pfii-sosoknya-dari-internal-pemerintah"
  },
  {
+  "slug": "tama-divestasi-pemegang-saham-lepas-200-000-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: [Divestasi] Pemegang Saham Lepas 200.000 Lembar Saham",
+  "deck": "Verah Wahyudi S Wong melepas 200.000 saham TAMA secara tidak langsung pada 10 Agustus 2026, hak suaranya turun tipis dari 9,69% menjadi 9,68%.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/tama-divestasi-pemegang-saham-lepas-200-000-lembar-saham.jpg",
+  "imageV": "mssda7z0",
+  "tags": [
+   "TAMA",
+   "Lancartama Sejati",
+   "pemegang saham",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-3796-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cuan-prajogo-pangestu-tambah-kepemilikan-51-7-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN: Prajogo Pangestu [Tambah] Kepemilikan 51,7 Juta Saham",
+  "deck": "Pemegang saham pengendali CUAN, Prajogo Pangestu, membeli 51,7 juta saham baru pada 11 Agustus 2026, menambah hak suaranya tipis menjadi 80,42 persen.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/cuan-prajogo-pangestu-tambah-kepemilikan-51-7-juta-saham.jpg",
+  "imageV": "mssdakvj",
+  "tags": [
+   "CUAN",
+   "Prajogo Pangestu",
+   "kepemilikan saham",
+   "Petrindo Jaya Kreasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-3956-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-kenalkan-connectivity-di-dti-cx-2026",
   "category": "Teknologi",
   "title": "Telkom Kenalkan [Connectivity+] di DTI-CX 2026",
@@ -1214,6 +1248,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459241-perkenalkan-connectivity-telkom-tawarkan-layanan-berkecepatan-tinggi-dengan-jangkauan-luas"
+ },
+ {
+  "slug": "pgjo-suntik-modal-rp47-5-m-ke-anak-usaha-ekuitas-negatif",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Suntik Modal Rp47,5 M ke Anak Usaha, Ekuitas [Negatif]",
+  "deck": "PGJO menambah modal anak usahanya, PT Panca Pertiwi Tambang, senilai Rp47,5 miliar, setara 156,3 persen dari total aset Perseroan yang tercatat berekuitas negatif.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/pgjo-suntik-modal-rp47-5-m-ke-anak-usaha-ekuitas-negatif.jpg",
+  "imageV": "mssdawxv",
+  "tags": [
+   "PGJO",
+   "transaksi material",
+   "penambahan modal",
+   "PT Panca Pertiwi Tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a14d9e557_3262bf1aa0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-republik-capital-lepas-90-76-juta-saham-rp700-unit",
+  "category": "Aksi Korporasi",
+  "title": "CBRE: Republik Capital [Lepas] 90,76 Juta Saham, Rp700/Unit",
+  "deck": "Republik Capital Indonesia melepas 90.761.349 saham CBRE seharga Rp700 per lembar pada 6 Agustus 2026, hak suara turun dari 11,30% menjadi 9,30%.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/cbre-republik-capital-lepas-90-76-juta-saham-rp700-unit.jpg",
+  "imageV": "mssdbccz",
+  "tags": [
+   "CBRE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-9277-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mice-siwie-honoris-tambah-kepemilikan-saham-jadi-0-1433",
+  "category": "Aksi Korporasi",
+  "title": "MICE: Siwie Honoris [tambah] kepemilikan saham jadi 0,1433%",
+  "deck": "Siwie Honoris membeli 50.500 lembar saham Multi Indocitra pada 7 Agustus 2026, menambah kepemilikannya menjadi 859.700 lembar atau 0,1433% hak suara.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/mice-siwie-honoris-tambah-kepemilikan-saham-jadi-0-1433.jpg",
+  "imageV": "mssdbrsv",
+  "tags": [
+   "MICE",
+   "kepemilikan saham",
+   "Multi Indocitra",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-0439-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",

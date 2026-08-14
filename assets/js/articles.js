@@ -1,7 +1,88 @@
-// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
-// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
-// Dibuat otomatis - jangan diedit manual.
+// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
+// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var ARTICLES = [
+ {
+  "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
+  "category": "Industri",
+  "title": "Presiden Luncurkan MoLiNas, Kapasitas Pabrik EV [2,5 Juta] Unit",
+  "deck": "Presiden Prabowo luncurkan ekosistem Motor Listrik Nasional (MoLiNas) di pabrik ALVA, Cikarang, di tengah kapasitas produksi EV yang jauh melebihi realisasi penjualan.",
+  "image": "assets/img/presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T01:14:37.869Z",
+  "sourceUrl": "https://kemenperin.go.id/artikel/72482942/Presiden-Luncurkan-MoLiNas,-Menperin:-Momentum-Perkuat-Kemandirian-Industri-dan-Teknologi-Nasional",
+  "sourceLabel": "Kementerian Perindustrian",
+  "tags": [
+   "kendaraan listrik",
+   "MoLiNas",
+   "industri otomotif",
+   "investasi"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto meluncurkan ekosistem Motor Listrik Nasional atau MoLiNas di pabrik ALVA, Cikarang, Kabupaten Bekasi, Kamis (13/8). Peluncuran ini menegaskan arah kebijakan pemerintah agar Indonesia tidak sekadar menjadi pasar kendaraan listrik, tetapi juga basis produksi dan pengembangan teknologinya sendiri. Menteri Perindustrian Agus Gumiwang Kartasasmita, yang hadir dalam acara tersebut, menyebut momentum ini penting untuk memperdalam struktur industri dalam negeri, termasuk memperbanyak penggunaan komponen produksi lokal.",
+   "Kementerian Perindustrian mencatat industri kendaraan listrik nasional sudah memiliki modal produksi yang cukup besar. Untuk kendaraan roda dua dan tiga, tercatat 69 perusahaan dengan kapasitas produksi 2,511 juta unit per tahun dan nilai investasi sekitar Rp1,2 triliun. Di kendaraan roda empat, ada 14 perusahaan berkapasitas 409.860 unit per tahun, ditambah 10 perusahaan kendaraan komersial listrik berkapasitas 7.500 unit per tahun. Total investasi di industri perakitan kendaraan listrik nasional mencapai sekitar Rp30,468 triliun.",
+   "Populasi kendaraan listrik di Indonesia tercatat 468.231 unit hingga April 2026, terdiri dari 242.909 unit roda dua dan 223.100 unit roda empat penumpang. Menurut data yang diolah Kemenperin, jumlah ini tumbuh rata-rata lebih dari 150 persen per tahun sepanjang 2020 hingga 2025. Penjualan motor listrik sendiri naik dari 17.198 unit pada 2022, menjadi 62.409 unit pada 2023, dan 77.078 unit pada 2024.",
+   "Agus mengakui besarnya kapasitas produksi yang sudah terbangun ini belum sepenuhnya terpakai. Ia menyebut tantangan ke depan adalah memastikan pasar kendaraan listrik terus tumbuh, tingkat pemakaian kapasitas pabrik meningkat, dan komponen buatan dalam negeri semakin banyak dipakai dalam setiap kendaraan yang diproduksi."
+  ],
+  "fotoAdegan": "Technicians assembling small electric motorcycles on an industrial production line, focused hands, bright factory daylight.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan peneguhan arah kebijakan: pemerintah ingin Indonesia jadi tempat produksi motor listrik, bukan sekadar pembeli. Yang paling terdampak adalah puluhan perusahaan perakitan kendaraan listrik yang sudah menanam modal, karena keberhasilan mereka kini bergantung pada seberapa cepat pasar domestik menyerap produksi, bukan pada penambahan pabrik baru. Ada kesenjangan besar antara kapasitas dan realisasi, pabrik motor dan kendaraan roda tiga listrik sanggup membuat 2,5 juta unit setahun, tapi penjualan motor listrik baru menembus 77 ribu unit pada 2024, jauh di bawah kapasitas yang tersedia. Ini mengarah ke strategi mendorong penyerapan pasar dan pemakaian kapasitas yang sudah dibangun, dan angka penjualan tahun 2025 hingga 2026 akan menentukan apakah kesenjangan itu mulai terkejar.",
+  "imageV": "mss9emmw"
+ },
+ {
+  "slug": "kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026",
+  "category": "Industri",
+  "title": "Kemenperin [Buka] Restrukturisasi Mesin Industri Tekstil 2026",
+  "deck": "Kemenperin membuka pendaftaran program restrukturisasi mesin dan peralatan untuk industri tekstil tahun anggaran 2026, mulai 18 Mei hingga 31 Agustus 2026.",
+  "image": "assets/img/kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T01:14:37.768Z",
+  "sourceUrl": "https://kemenperin.go.id/artikel/72482751/Program-Restrukturisasi-MesinPeralatan-pada-Tekstil-dan-Produk-Tekstil-Tahun-Anggaran-2026",
+  "sourceLabel": "Kementerian Perindustrian",
+  "tags": [
+   "restrukturisasi mesin",
+   "industri tekstil",
+   "Kemenperin",
+   "TPT 2026"
+  ],
+  "body": [
+   "Kementerian Perindustrian kembali membuka Program Restrukturisasi Mesin dan/atau Peralatan pada Industri Tekstil dan Produk Tekstil untuk tahun anggaran 2026. Pendaftaran dibuka mulai 18 Mei sampai 31 Agustus 2026. Program ini memberi kesempatan bagi perusahaan tekstil untuk mendapat insentif saat mengganti mesin produksinya dengan yang lebih baru.",
+   "Menurut Kemenperin, program ini merupakan bagian dari implementasi peta jalan Making Indonesia 4.0. Tujuannya mendorong industri tekstil dan produk tekstil mengganti mesin dan peralatan lama dengan yang lebih modern dan ramah lingkungan, sekaligus mendongkrak daya saing industri di dalam negeri lewat insentif investasi.",
+   "Pendaftaran dilakukan secara daring melalui akun SIINas di laman siinas.kemenperin.go.id. Adapun dasar hukum, persyaratan, kriteria, dan tata cara lengkap pendaftaran disediakan Kemenperin lewat tautan resmi terpisah, sehingga pelaku usaha yang berminat perlu mengecek langsung dokumen tersebut sebelum mendaftar."
+  ],
+  "fotoAdegan": "Textile factory workers monitoring rows of industrial weaving machines under bright fluorescent lighting, mid-morning shift",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret berubah adalah dibukanya kembali pendaftaran program restrukturisasi mesin dan peralatan untuk industri tekstil dan produk tekstil tahun anggaran 2026, dengan batas waktu jelas yaitu 18 Mei sampai 31 Agustus 2026. Program semacam ini biasanya berbentuk potongan harga atau subsidi sebagian biaya pembelian mesin baru, tapi siaran pers ini tidak menyebutkan berapa besar insentifnya atau berapa banyak perusahaan yang bisa ditampung. Pihak yang terdampak langsung adalah pelaku usaha industri tekstil dan produk tekstil yang berencana meremajakan mesin produksinya. Karena tidak ada angka anggaran atau kuota peserta dalam pengumuman ini, belum bisa disimpulkan apakah dukungan tahun ini lebih besar, sama, atau lebih kecil dibanding tahun-tahun sebelumnya. Yang akan memastikannya adalah dokumen petunjuk teknis program yang dirujuk Kemenperin, atau pengumuman resmi setelah masa pendaftaran ditutup akhir Agustus nanti.",
+  "imageV": "mss9f4d6"
+ },
+ {
+  "slug": "penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal",
+  "category": "Energi",
+  "title": "Penyelundupan 23,79 Kg Emas Diduga Dipasok [Tambang] Ilegal",
+  "deck": "Bea Cukai gagalkan penyelundupan 23,793 kg emas senilai Rp63 miliar di Bandara Soetta. ESDM duga pemasoknya penambang tanpa izin dan janji perketat aturan.",
+  "image": "assets/img/penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T06:28:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459783-penyuplai-penyelundupan-23793-kilogram-emas-diduga-penambang-ilegal-ini-yang-dikatakan-esdm",
+  "tags": [
+   "emas",
+   "ESDM",
+   "penyelundupan",
+   "tambang ilegal"
+  ],
+  "body": [
+   "Bea Cukai membongkar upaya penyelundupan 23,793 kilogram emas senilai Rp63 miliar di Bandara Soekarno-Hatta, Tangerang, pada Kamis (12/8), dengan tujuan ekspor ke Hong Kong dan Dubai. Kementerian ESDM menduga pemasok emas dalam jaringan ini berasal dari kegiatan penambangan tanpa izin, sehingga kasus ini membuka celah dalam pengawasan hulu pertambangan emas di Indonesia.",
+   "Direktur Jenderal Penegakan Hukum ESDM, Rilke Jeffri Huwae, menyatakan pihaknya akan memperketat regulasi dan memperkuat koordinasi dengan Bea Cukai serta Polri untuk menelusuri asal usul emas ilegal tersebut. Ia menegaskan begitu ditemukan aktivitas ekspor emas yang terbukti melanggar hukum, sumber emas itu otomatis dianggap berasal dari kegiatan pertambangan tanpa izin.",
+   "Sebagai pemegang wewenang perizinan sumber daya alam, ESDM berencana menelusuri jaringan ini hingga ke akar masalah, termasuk mengoptimalkan Izin Pertambangan Rakyat dan memperluas perizinan di dalam Wilayah Izin Usaha Pertambangan bagi masyarakat. Pemerintah juga akan membuat mekanisme untuk membedakan usaha tambang yang benar benar ditujukan bagi kesejahteraan warga dari yang hanya memakai alasan itu untuk menutupi praktik ilegal.",
+   "Menurut ESDM, modus semacam ini kerap dipakai pelaku penambangan tanpa izin dan jaringan penyelundup yang berlindung di balik dalih kesejahteraan masyarakat. Kementerian menegaskan penertiban akan dilakukan dari hulu ke hilir, sambil tetap memberi pembinaan agar kekayaan alam bisa dimanfaatkan secara luas, bukan hanya menguntungkan segelintir pihak dalam sindikat."
+  ],
+  "fotoAdegan": "Small-scale miners panning for gold in a muddy river surrounded by dense tropical forest, overcast daylight",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari kasus ini adalah logika penindakannya. Begitu ada ekspor emas yang terbukti ilegal, ESDM langsung menganggap sumber tambangnya juga ilegal, tanpa perlu bukti terpisah soal asal tambang itu. Bersamaan dengan itu, ESDM mengumumkan akan mengetatkan Izin Pertambangan Rakyat dan Wilayah Izin Usaha Pertambangan. Yang paling terdampak adalah penambang emas tanpa izin dan jaringan yang menyelundupkan hasil tambang ke luar negeri, sementara penambang rakyat pemegang izin resmi berpotensi ikut kena imbas kalau pengawasan diperketat secara menyeluruh. Arah kasus ini tampak menuju pengetatan pengawasan dari hulu, bukan sekadar menindak satu kasus penyelundupan. Yang akan memastikan arah itu adalah apakah ESDM benar benar menerbitkan aturan turunan soal IPR dan WIUP yang dijanjikan, atau penanganan berhenti di penindakan Bea Cukai saja.",
+  "imageV": "mss9fi9w"
+ },
  {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
   "category": "UMKM",
@@ -3601,6 +3682,34 @@ var ARTICLES = [
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/09/6a781ffb6c6b6-infografis-cadangan-devisa_1200_675.jpg",
   "kreditFoto": "tvOneNews",
   "imageV": "tjnrtf"
+ },
+ {
+  "slug": "indeks-kepuasan-layanan-haji-2026-capai-83-28",
+  "category": "Bisnis",
+  "title": "Indeks Kepuasan Layanan Haji 2026 Capai [83,28]",
+  "deck": "BPS mencatat skor kepuasan layanan haji musim 1447H/2026M sebesar 83,28, dengan layanan di ARMUZNA masih tertinggal di kategori cukup memuaskan.",
+  "image": "assets/img/indeks-kepuasan-layanan-haji-2026-capai-83-28.jpg",
+  "date": "6 Agustus 2026",
+  "isoDate": "2026-08-05T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2648",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "haji",
+   "BPS",
+   "kepuasan layanan",
+   "IKLHI"
+  ],
+  "body": [
+   "Badan Pusat Statistik merilis hasil pengukuran Indeks Kepuasan Layanan Haji Indonesia (IKLHI) untuk musim haji 1447 Hijriah/2026 Masehi, dengan skor keseluruhan 83,28. Angka ini terdiri dari skor layanan di luar negeri sebesar 82,71 dan skor layanan di dalam negeri sebesar 83,85.",
+   "Berdasarkan daerah kerja, layanan di Bandara, Makkah, dan Madinah masuk kategori memuaskan. Sementara itu, layanan di Arafah, Muzdalifah, dan Mina, yang biasa disingkat ARMUZNA, hanya mencapai kategori cukup memuaskan, satu tingkat di bawah daerah kerja lainnya.",
+   "Secara rinci, seluruh kelompok layanan haji dalam negeri dinilai memuaskan, kecuali layanan transportasi bus menuju bandara yang justru meraih kategori sangat memuaskan. Seluruh kelompok layanan haji di luar negeri juga dinilai memuaskan tanpa pengecualian.",
+   "Mulai tahun ini, pengukuran kepuasan memakai metode IKLHI yang menghitung proses sekaligus hasil (output) layanan, berbeda dari indeks kepuasan haji pada tahun-tahun sebelumnya."
+  ],
+  "fotoAdegan": "Indonesian hajj pilgrims with luggage boarding a chartered bus outside an airport terminal in daylight.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan cuma angka kepuasannya, tapi juga cara mengukurnya, mulai tahun ini BPS memakai indeks baru yang menilai proses layanan, bukan cuma hasil akhirnya saja. Dari hasilnya, hampir semua jenis layanan sudah dianggap memuaskan oleh jemaah, kecuali satu titik yang menonjol yaitu layanan di ARMUZNA, tempat jemaah menjalani rangkaian puncak ibadah haji, yang skornya masih satu tingkat di bawah layanan lain. Ini mengarah ke evaluasi bertahap pada titik-titik layanan yang paling padat dan berat secara logistik, ketimbang perombakan menyeluruh, karena mayoritas layanan lain sudah dianggap baik. Yang akan menunjukkan apakah perbaikan itu benar terjadi adalah rilis IKLHI musim haji berikutnya, khususnya apakah skor ARMUZNA naik kategori atau tetap tertinggal.",
+  "imageV": "mss9fw5i"
  },
  {
   "slug": "manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026",

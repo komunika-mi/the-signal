@@ -59,8 +59,30 @@ async function main() {
     if (artikelBaru.length >= TARGET_BARU) break;
     try {
       const bahan = await ambilIsiArtikel(k);
+
+      // Tipis diukur dari JUMLAH HURUF, bukan cuma jumlah paragraf.
+      //
+      // Jumlah paragraf bergantung pada markup sumber, dan markup sumber bukan
+      // milik kita. Pada 14 Agustus 2026 tvOne menaruh seluruh badan berita di
+      // satu tag <p> dengan pemisah <br>, sehingga artikel 2.789 huruf terbaca
+      // sebagai SATU paragraf lalu ditolak di sini. Berita berhenti terbit
+      // seharian, dan yang menyadarinya pemilik situs.
+      //
+      // Pemisah <br> sudah ditangani di fetch-news.mjs, tapi itu memperbaiki
+      // satu bentuk markup saja. Jumlah huruf tidak bergantung bentuk apa pun,
+      // jadi dipakai sebagai jaring kedua: artikel yang isinya panjang tetap
+      // lolos meski penghitung paragrafnya gagal lagi oleh bentuk markup yang
+      // belum pernah kita lihat.
+      const jumlahHuruf = String(bahan.isi || '').length;
+      if (bahan.jumlahParagraf < 3 && jumlahHuruf < 900) {
+        ditolakEditor++;
+        log('  lewati (isi tipis): ' + bahan.jumlahParagraf + ' paragraf, ' +
+          jumlahHuruf + ' huruf | ' + k.judulAsli.slice(0, 44));
+        continue;
+      }
       if (bahan.jumlahParagraf < 3) {
-        ditolakEditor++; log('  lewati (isi tipis): ' + k.judulAsli.slice(0, 50)); continue;
+        log('  paragraf sedikit (' + bahan.jumlahParagraf + ') tapi isi ' +
+          jumlahHuruf + ' huruf, tetap diproses');
       }
       const hasil = await rangkumArtikel(bahan);
       if (!hasil) { ditolakEditor++; log('  ditolak Claude: ' + k.judulAsli.slice(0, 50)); continue; }

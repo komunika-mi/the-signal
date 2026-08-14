@@ -46,8 +46,27 @@ export async function ambilIsiArtikel(item) {
   const scope = (html.match(/<div[^>]*class=["'][^"']*(article-content|detail-content|content-detail|body-content|read__content)[^"']*["'][\s\S]*?<\/article>/i)
     || html.match(/<article[\s\S]*?<\/article>/i) || [html])[0];
 
-  const paragraf = [...scope.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)]
-    .map(x => stripTags(x[1]))
+  // Paragraf dipecah DUA tahap: per tag <p>, lalu per <br> di dalamnya.
+  //
+  // Tahap kedua wajib, bukan kehati-hatian berlebihan. tvOne kadang menaruh
+  // SELURUH badan berita di dalam satu tag <p> tunggal, dengan antar-paragraf
+  // dipisah <br><br>. Kalau hanya menghitung tag <p>, artikel seperti itu
+  // terbaca sebagai satu paragraf, lalu ditolak penjaga "isi tipis" di
+  // update-all.mjs yang mensyaratkan minimal tiga paragraf.
+  //
+  // Terjadi 14 Agustus 2026 dan menghentikan berita seharian: dari 49 artikel
+  // ekonomi di sitemap tvOne, cuma satu yang belum kita punya, dan yang satu
+  // itu justru ditolak karena hal ini. Artikelnya sendiri 2.789 huruf dengan
+  // 20 pemisah <br>, sama sekali tidak tipis. Pemiliknya yang menyadari
+  // beritanya tidak berganti.
+  const potongan = [];
+  for (const blok of scope.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/g)) {
+    for (const bagian of blok[1].split(/(?:<br\s*\/?>\s*){1,}/i)) {
+      potongan.push(stripTags(bagian));
+    }
+  }
+
+  const paragraf = potongan
     .filter(t => t.length > 60 && !/baca juga|simak juga|tonton juga|advertisement|gulir untuk/i.test(t))
     .slice(0, 12);
 

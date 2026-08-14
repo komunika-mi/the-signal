@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
+  "category": "Industri",
+  "title": "Presiden Luncurkan MoLiNas, Kapasitas Pabrik EV [2,5 Juta] Unit",
+  "deck": "Presiden Prabowo luncurkan ekosistem Motor Listrik Nasional (MoLiNas) di pabrik ALVA, Cikarang, di tengah kapasitas produksi EV yang jauh melebihi realisasi penjualan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit.jpg",
+  "imageV": "mss9emmw",
+  "tags": [
+   "kendaraan listrik",
+   "MoLiNas",
+   "industri otomotif",
+   "investasi"
+  ],
+  "sourceUrl": "https://kemenperin.go.id/artikel/72482942/Presiden-Luncurkan-MoLiNas,-Menperin:-Momentum-Perkuat-Kemandirian-Industri-dan-Teknologi-Nasional",
+  "sourceLabel": "Kementerian Perindustrian"
+ },
+ {
+  "slug": "kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026",
+  "category": "Industri",
+  "title": "Kemenperin [Buka] Restrukturisasi Mesin Industri Tekstil 2026",
+  "deck": "Kemenperin membuka pendaftaran program restrukturisasi mesin dan peralatan untuk industri tekstil tahun anggaran 2026, mulai 18 Mei hingga 31 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026.jpg",
+  "imageV": "mss9f4d6",
+  "tags": [
+   "restrukturisasi mesin",
+   "industri tekstil",
+   "Kemenperin",
+   "TPT 2026"
+  ],
+  "sourceUrl": "https://kemenperin.go.id/artikel/72482751/Program-Restrukturisasi-MesinPeralatan-pada-Tekstil-dan-Produk-Tekstil-Tahun-Anggaran-2026",
+  "sourceLabel": "Kementerian Perindustrian"
+ },
+ {
+  "slug": "penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal",
+  "category": "Energi",
+  "title": "Penyelundupan 23,79 Kg Emas Diduga Dipasok [Tambang] Ilegal",
+  "deck": "Bea Cukai gagalkan penyelundupan 23,793 kg emas senilai Rp63 miliar di Bandara Soetta. ESDM duga pemasoknya penambang tanpa izin dan janji perketat aturan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal.jpg",
+  "imageV": "mss9fi9w",
+  "tags": [
+   "emas",
+   "ESDM",
+   "penyelundupan",
+   "tambang ilegal"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459783-penyuplai-penyelundupan-23793-kilogram-emas-diduga-penambang-ilegal-ini-yang-dikatakan-esdm"
+ },
+ {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
   "category": "UMKM",
   "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
@@ -2315,6 +2365,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458696-cadangan-devisa-ri-tembus-us1453-miliar-bi-setara-pembiayaan-55-bulan-impor"
+ },
+ {
+  "slug": "indeks-kepuasan-layanan-haji-2026-capai-83-28",
+  "category": "Bisnis",
+  "title": "Indeks Kepuasan Layanan Haji 2026 Capai [83,28]",
+  "deck": "BPS mencatat skor kepuasan layanan haji musim 1447H/2026M sebesar 83,28, dengan layanan di ARMUZNA masih tertinggal di kategori cukup memuaskan.",
+  "date": "6 Agustus 2026",
+  "image": "assets/img/indeks-kepuasan-layanan-haji-2026-capai-83-28.jpg",
+  "imageV": "mss9fw5i",
+  "tags": [
+   "haji",
+   "BPS",
+   "kepuasan layanan",
+   "IKLHI"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2648",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026",

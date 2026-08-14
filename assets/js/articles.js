@@ -1548,7 +1548,7 @@ var ARTICLES = [
    "Sesuai kebutuhan pelaku usaha di lapangan, BRI Peduli memberikan bantuan sarana dan prasarana penunjang usaha serta lapak berjualan. Dukungan ini dilengkapi pendampingan langsung dari Mantri BRI, petugas pemasaran sekaligus pembina kredit mikro, yang melakukan pembinaan, edukasi keuangan, dan pemantauan perkembangan usaha nasabah secara berkelanjutan.",
    "Salah satu pelaku usaha yang merasakan manfaatnya adalah Darmiyati, pemilik usaha Jadah Tempe Mbok Tenggok. Melalui bantuan lapak usaha dari BRI Peduli, ia kini memiliki tempat berjualan yang lebih layak dan nyaman untuk menjalankan aktivitas usahanya."
   ],
-  "takeaway": "",
+  "takeaway": "BRI Peduli menyalurkan bantuan lapak usaha, sarana penunjang, dan pendampingan Mantri BRI untuk UMKM di Desa Brilian Hargobinangun, Sleman, bertepatan dengan Hari UMKM Nasional 12 Agustus. Yang terdampak langsung adalah pelaku usaha kuliner dan jasa wisata di desa itu, seperti Darmiyati, pemilik Jadah Tempe Mbok Tenggok, yang kini punya lapak lebih layak. Bukti soal dampaknya masih tipis karena berita tidak menyebut berapa banyak UMKM yang dibantu atau nilai bantuannya, sehingga belum jelas apakah program ini menjangkau skala desa atau hanya beberapa pelaku usaha terpilih. Untuk membaca arahnya, perlu data jumlah penerima dan nilai bantuan di desa-desa binaan BRI Peduli lainnya.",
   "fotoAdegan": "A bank field officer chats with a vegetable farmer at an open-air market stall in a hillside village near Yogyakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7c004c19637-umkm-di-desa-brilian-hargobinangun-kec-pakem-kab-sleman-provinsi-daerah-istimewa-yogyakarta_1200_675.jpg",
   "kreditFoto": "tvOneNews",
@@ -1677,7 +1677,7 @@ var ARTICLES = [
    "Di kelompok beras, harga berkisar dari Rp14.650 per kilogram untuk kualitas bawah II hingga Rp17.750 per kilogram untuk kualitas super I. Sementara itu, telur ayam ras dijual Rp29.450 per kilogram, daging ayam ras segar Rp40.600 per kilogram, serta daging sapi Rp142.050 hingga Rp151.000 per kilogram tergantung kualitas.",
    "Untuk kebutuhan lain, gula pasir premium tercatat Rp20.300 per kilogram dan gula lokal Rp19.100 per kilogram, sedangkan minyak goreng berkisar Rp20.500 per liter untuk jenis curah hingga Rp24.250 per liter untuk kemasan bermerek. Seluruh angka ini merupakan rata-rata harga eceran nasional per hari data tersebut dirilis."
   ],
-  "takeaway": "",
+  "takeaway": "PIHPS Bank Indonesia mencatat harga eceran nasional 12 Agustus 2026, dengan bawang putih Rp40.650 per kilogram, cabai rawit merah Rp61.350 per kilogram, dan minyak goreng kemasan bermerek Rp24.250 per liter. Data ini dipakai rumah tangga dan pedagang kecil untuk memantau biaya belanja dapur, sekaligus jadi salah satu acuan otoritas melihat tekanan inflasi pangan. Bukti soal arah harga masih tipis karena berita hanya menampilkan angka satu hari tanpa pembanding hari atau minggu sebelumnya, sehingga belum bisa disimpulkan harga-harga itu sedang naik, turun, atau stabil. Perbandingan dengan data PIHPS pekan berikutnya akan menunjukkan apakah level harga ini bergerak ke arah tertentu.",
   "fotoAdegan": "A vendor weighs garlic cloves on a hanging scale at a crowded traditional market stall early in the morning.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/12/09/67564799f1761-harga-bawang-putih-di-pasar-tradisional_1200_675.jpg",
   "kreditFoto": "tvOneNews",
@@ -1707,7 +1707,8 @@ var ARTICLES = [
   "fotoAdegan": "Villagers and officials stand at the edge of a disputed plot of land marked with wooden stakes in a rural district.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/12/6a7b628d4551f-menteri-atrkepala-bpn-nusron-wahid-saat-rakor-dengan-dpr-ri-membahas-penyelesaian-konflik-agraria-dan-reforma-agraria_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsk"
+  "imageV": "tjnrsk",
+  "takeaway": "Menteri ATR/BPN Nusron Wahid memetakan tiga jenis konflik agraria, yakni di kawasan hutan, yang bersinggungan dengan aset BUMN atau Barang Milik Negara, dan yang melibatkan lahan swasta, dengan kategori BUMN serta TNI-Polri dinilai paling rumit karena terikat aturan keuangan negara. Pihak yang paling terdampak adalah masyarakat yang bersengketa lahan dengan BUMN, TNI, atau Polri, karena penyelesaiannya tidak bisa lewat pencabutan izin seperti pada sengketa swasta dan berisiko dianggap merugikan keuangan negara jika keliru melepas aset. Bukti soal arah penyelesaiannya masih tipis sebab belum ada rincian jumlah kasus, lokasi, atau target waktu dari rapat koordinasi dengan DPR ini. Aturan turunan atau daftar kasus konkret yang dibahas lanjutan akan menunjukkan seberapa jauh pemetaan ini bergerak menjadi penyelesaian nyata."
  },
  {
   "slug": "adhi-minta-pemegang-obligasi-setujui-penundaan-bunga",
@@ -1814,7 +1815,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7ac1i",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "takeaway": "Pemerintah mengkaji larangan pembelian Pertalite bagi kelompok desil 9 dan 10, yakni masyarakat dengan tingkat kesejahteraan tertinggi, yang akan diarahkan membeli BBM nonsubsidi secara bertahap dalam beberapa bulan ke depan. Kebijakan ini menyasar rumah tangga mampu yang selama ini masih menikmati Pertalite bersubsidi, dengan tujuan menjaga anggaran subsidi energi di APBN. Bukti soal arahnya masih terbelah, bisa saja penerapan dipercepat karena tekanan menjaga APBN sampai akhir tahun, atau tertunda karena Purbaya sendiri menyebut sistem pendukungnya belum rampung dan harga minyak dunia masih fluktuatif. Kejelasan arah ini akan terlihat begitu pemerintah mengumumkan jadwal pasti dan mekanisme verifikasi desil yang dipakai untuk membatasi pembelian."
  },
  {
   "slug": "adcp-tunda-pembayaran-kupon-obligasi-ke-mei-2027",
@@ -1866,7 +1868,8 @@ var ARTICLES = [
   "fotoAdegan": "A minister strides past a row of flagpoles outside a government office complex in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79632e2fee6-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsm"
+  "imageV": "tjnrsm",
+  "takeaway": "Pemerintah, menurut Menko Airlangga Hartarto, sudah mengantongi calon Gubernur Pusat Finansial Internasional Indonesia (PFII) dari kalangan internal pemerintah, namun nama dan lokasi kantor pusatnya, antara kawasan InJourney di Bali atau Jakarta, belum diputuskan. Kejelasan ini penting bagi investor dan pelaku pasar modal karena figur pemimpin serta lokasi PFII akan menentukan arah dan kredibilitas lembaga itu di mata mereka. Bukti soal arahnya masih tipis, sebab proses pembentukan kelembagaan disebut masih jadi prioritas dan belum ada jadwal pengumuman nama maupun lokasi. Pengumuman resmi setelah proses kelembagaan rampung akan menjadi penanda sejauh mana PFII bergerak dari wacana ke lembaga yang berjalan."
  },
  {
   "slug": "tama-divestasi-pemegang-saham-lepas-200-000-lembar-saham",
@@ -1945,7 +1948,8 @@ var ARTICLES = [
   "fotoAdegan": "A technician checks fiber optic cabling inside a data center server room lined with humming server racks.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7b1ce6d8ea5-telkom-perkenalkan-connectivity_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsn"
+  "imageV": "tjnrsn",
+  "takeaway": "Telkom Solution memperkenalkan layanan bernama Connectivity+ di ajang DTI-CX 2026 pada 5-6 Agustus, ditujukan untuk pelanggan bisnis yang butuh jaringan cepat dan luas, namun belum disebut angka kecepatan, cakupan wilayah, atau harga layanan. Yang berpotensi terdampak adalah pelaku usaha di sektor B2B, terutama di daerah yang selama ini akses jaringannya belum merata. Karena masih berupa perkenalan produk di ajang pameran, arah dampaknya ke pasar belum bisa dibaca dari berita ini. Yang masih kurang adalah rincian teknis seperti kecepatan, daftar wilayah yang dijangkau, dan skema harga, yang biasanya baru muncul saat layanan benar-benar dipasarkan ke pelanggan."
  },
  {
   "slug": "pgjo-suntik-modal-rp47-5-m-ke-anak-usaha-ekuitas-negatif",
@@ -2049,7 +2053,8 @@ var ARTICLES = [
   "fotoAdegan": "An elderly worshipper counts prayer beads while seated on the carpet inside a mosque's main prayer hall.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrso"
+  "imageV": "tjnrso",
+  "takeaway": "Guru Besar UI Budi Frensidy menanggapi wacana penempatan dana wakaf Masjid Istiqlal ke pasar modal syariah, dengan syarat instrumennya syariah, dikelola profesional dan transparan, serta nilai pokok wakaf tetap terjaga tanpa mengejar imbal hasil tinggi. Pihak yang terdampak adalah pengelola wakaf Istiqlal dan masyarakat penerima manfaat dana wakaf dalam jangka panjang. Arahnya masih berupa wacana, belum ada keputusan resmi soal berapa porsi dana yang ditempatkan, instrumen apa yang dipilih, atau siapa yang mengawasi. Yang masih kurang untuk membaca arah selanjutnya adalah keputusan resmi pengelola Istiqlal soal skema investasi dan batas risiko yang disebut Budi, termasuk siapa yang akan menyusun aturan pengawasannya."
  },
  {
   "slug": "esdm-kemenkeu-rombak-skema-subsidi-bbm",
@@ -2074,7 +2079,8 @@ var ARTICLES = [
   "fotoAdegan": "A queue of motorcycles waits at a subsidized fuel pump inside a gas station on the outskirts of the city.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/18/6a5b527096484-ilustrasi-antrean-konsumen-bbm-di-spbu_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrso"
+  "imageV": "tjnrso",
+  "takeaway": "Menteri ESDM Bahlil Lahadalia dan Menkeu Purbaya Yudhi Sadewa membahas perbaikan mekanisme penyaluran subsidi BBM setelah Bahlil mengakui kelompok pengeluaran desil 9 dan 10, yakni masyarakat yang tergolong mampu, masih bisa menikmati BBM bersubsidi dari anggaran migas yang mencapai ratusan triliun rupiah per tahun. Pihak yang terdampak adalah masyarakat kelompok mampu yang selama ini turut menikmati subsidi, serta kelompok kurang mampu yang menjadi sasaran sebenarnya dari kebijakan ini. Arahnya menuju perumusan sistem distribusi baru yang lebih tepat sasaran sesuai arahan Presiden, tapi Bahlil belum membeberkan angka potensi penghematan karena perhitungannya masih berjalan. Yang akan menentukan arah selanjutnya adalah skema distribusi baru itu sendiri beserta angka penghematan yang dijanjikan, yang belum diumumkan."
  },
  {
   "slug": "pembiayaan-umkm-diusulkan-naik-jadi-rp2-000-triliun",
@@ -2101,7 +2107,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "imageV": "msr7axv9",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "takeaway": "Menko Perekonomian Airlangga Hartarto mengusulkan kenaikan target pembiayaan UMKM dari Rp1.500 triliun menjadi Rp2.000 triliun, artinya ada tambahan sekitar Rp500 triliun yang diarahkan untuk memperluas jangkauan pembiayaan usaha kecil. Pihak yang terdampak adalah UMKM kelas menengah yang punya potensi berkembang tapi belum mendapat pembiayaan sepadan, serta pelaku usaha yang selama ini belum tersentuh lembaga keuangan formal. Arahnya menuju perluasan akses modal dan dorongan pemanfaatan teknologi digital serta kecerdasan buatan bagi UMKM, tapi ini masih sebatas usulan dalam forum, belum jadi target resmi yang disahkan. Yang masih kurang adalah mekanisme penyaluran tambahan dana tersebut, lembaga mana saja yang akan menjalankannya, dan kapan target baru ini resmi ditetapkan pemerintah."
  },
  {
   "slug": "ciri-ciri-umkm-naik-kelas-yang-perlu-dipahami",
@@ -2127,7 +2134,8 @@ var ARTICLES = [
   "fotoAdegan": "A shop owner arranges packaged snacks on shelves while a delivery courier waits with a motorcycle helmet outside.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/11/6a7ae87ac7c08-seperti-apa-umkm-naik-kelas-batik-wolter-jadi-contoh-lewat-pengembangan-layanan_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsq"
+  "imageV": "tjnrsq",
+  "takeaway": "Artikel ini menjelaskan tolok ukur UMKM naik kelas, mulai dari peningkatan skala usaha, pemanfaatan teknologi digital dan kecerdasan buatan, perbaikan kualitas produk, hingga perluasan akses pembiayaan dan rantai pasok. Penjelasan ini relevan bagi pelaku UMKM yang tengah didorong pemerintah untuk mengakses pembiayaan lebih besar, termasuk lewat usulan kenaikan target pembiayaan menjadi Rp2.000 triliun. Kriteria yang disebutkan masih bersifat umum dan belum berupa aturan atau standar resmi dari pemerintah maupun OJK yang mengikat proses penyaluran pembiayaan. Yang masih kurang adalah tolok ukur resmi dan terukur, misalnya ambang omzet atau syarat legalitas tertentu, yang menentukan apakah sebuah UMKM benar-benar diakui sudah naik kelas oleh lembaga pembiayaan."
  },
  {
   "slug": "blt-rp900-ribu-agustus-2026-belum-cair-ini-kata-pemerintah",
@@ -2153,7 +2161,8 @@ var ARTICLES = [
   "fotoAdegan": "Elderly residents sit on plastic chairs waiting their turn inside a crowded village hall in rural Java.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/12/29/69524ad00f00b-blt-untuk-32-juta-kpm-tambahan-cair-hari-ini-penyaluran-blt-di-wilayah-bencana-capai-90-persen_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsq"
+  "imageV": "tjnrsq",
+  "takeaway": "Isu BLT Kesra Rp900 ribu beredar lagi di media sosial menjelang pertengahan Agustus 2026, tapi hingga 11 Agustus pemerintah belum mengumumkan pencairannya. Yang benar-benar berjalan adalah PKH dan BPNT periode Juli-September, yang masing-masing sudah menjangkau lebih dari 7 juta dan 12 juta keluarga dari target 10 juta dan 18 juta KPM. Warga penerima bantuan sosial jadi pihak yang paling rentan terdampak isu ini, terutama yang berisiko tergiur tautan pendaftaran tidak resmi. Karena belum ada konfirmasi resmi soal BLT Rp900 ribu, yang perlu dipantau adalah apakah Kemensos akhirnya mengeluarkan pernyataan resmi soal bantuan ini, terpisah dari penyaluran PKH dan BPNT yang memang sudah berjalan."
  },
  {
   "slug": "ojol-masuk-umkm-aplikator-tetap-wajib-bayar-bhr",
@@ -2179,7 +2188,8 @@ var ARTICLES = [
   "fotoAdegan": "A group of motorcycle taxi drivers rest under a shade tree between rides on a busy Jakarta street corner.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a640dd232ae7-ilustrasi-korban-kasus-begal-driver-ojol-dan-pejalan-kaki_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsr"
+  "imageV": "tjnrsr",
+  "takeaway": "Pemerintah menegaskan aplikator ojol tetap wajib membayar BHR meski status pengemudi nanti masuk kategori UMKM dalam Perpres Ojol yang sedang disusun. Kewajiban ini tidak dicantumkan secara eksplisit dalam Perpres, melainkan dijaga lewat mekanisme veto rate, yang menurut pemerintah pernah menaikkan besaran BHR hingga dua kali lipat pada tahun sebelumnya walau tanpa pasal khusus. Pengemudi ojol jadi pihak yang paling berkepentingan, karena BHR selama ini menjadi salah satu bentuk perlindungan penghasilan di luar skema ketenagakerjaan formal. Arahnya bergantung pada terbitnya Perpres Ojol yang ditargetkan rampung sebelum 17 Agustus 2026, dan sejauh mana mekanisme veto rate benar-benar dipakai mengatur BHR pada periode berikutnya."
  },
  {
   "slug": "komisi-xi-siapkan-uji-kelayakan-destry-damayanti-untuk-gubernur-bi",
@@ -2414,7 +2424,7 @@ var ARTICLES = [
    "Berdasarkan data Logam Mulia pukul 09.36 WIB, harga tersebut naik dari posisi sebelumnya di Rp2.690.000 per gram. Harga beli kembali atau buyback ikut terkerek naik menjadi Rp2.546.000 per gram, sehingga selisih antara harga jual dan buyback saat ini berkisar Rp164.000 per gram.",
    "Pergerakan harga emas Antam mengikuti karakteristik pasar logam mulia yang bisa berubah sewaktu-waktu dalam sehari. Bagi calon pembeli maupun pemegang emas batangan, memantau harga terbaru sebelum bertransaksi jual atau beli menjadi langkah yang perlu diperhatikan."
   ],
-  "takeaway": "",
+  "takeaway": "Harga emas Antam naik Rp20.000 pada 11 Agustus 2026 menjadi Rp2.710.000 per gram, sementara harga buyback ikut naik ke Rp2.546.000 per gram, sehingga selisih jual-beli saat itu sekitar Rp164.000 per gram. Kenaikan ini terasa langsung bagi masyarakat yang membeli atau menjual emas batangan sebagai simpanan, karena memengaruhi biaya transaksi pada hari itu juga. Data yang tersedia hanya mencatat pergerakan satu hari, sehingga belum cukup untuk membaca ke mana arah harga bergerak dalam beberapa waktu ke depan. Yang masih dibutuhkan adalah data harga Antam pada hari-hari berikutnya untuk melihat apakah kenaikan ini berlanjut atau sekadar fluktuasi harian biasa.",
   "fotoAdegan": "A goldsmith weighs a small gold bar on a digital scale inside a jewelry shop display counter.",
   "fotoSumber": "",
   "kreditFoto": "",
@@ -2553,7 +2563,8 @@ var ARTICLES = [
   "fotoAdegan": "A customer service agent assists a caller through a headset at a fintech company's support desk.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/24/69eb0320392e3-fintech_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsy"
+  "imageV": "tjnrsy",
+  "takeaway": "Survei nasional Digital Excellence Awards 2026 terhadap sekitar 19.000 responden usia 15 sampai 64 tahun di 20 provinsi menempatkan tingkat kepercayaan publik sebagai salah satu indikator utama yang membedakan platform fintech investasi, di samping kesadaran merek dan persepsi masyarakat. TRIV Group meraih predikat Top Digital Application untuk kategori ini dengan basis pengguna yang disebut sudah lebih dari 6 juta nasabah. Pihak yang terdampak adalah pengguna fintech investasi yang kini punya acuan baru dalam memilih platform, sekaligus penyedia layanan yang bersaing memperbaiki keamanan dan kemudahan akses. Survei ini menunjukkan persaingan bergeser dari sekadar fitur dan harga ke soal kepercayaan dan literasi keuangan digital, dan pergeseran itu akan lebih jelas terlihat dari data pertumbuhan pengguna platform-platform lain pada penilaian serupa tahun berikutnya."
  },
  {
   "slug": "perpres-ojol-kelar-agustus-driver-jadi-umkm",
@@ -2579,7 +2590,8 @@ var ARTICLES = [
   "fotoAdegan": "A motorcycle taxi driver waits at a designated pickup point checking his helmet strap near a busy intersection.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/04/69a8140c9173b-ilustrasi-mitra-driver-ojek-online_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsz"
+  "imageV": "tjnrsz",
+  "takeaway": "Pemerintah menargetkan Perpres ekosistem ojek online rampung sebelum 17 Agustus 2026, dengan draf yang menurut Mensesneg Prasetyo Hadi sudah selesai dan tinggal menunggu proses administrasi, sementara Menteri UMKM Maman Abdurrahman menyebut masih ada sekitar dua pasal yang dibahas. Aturan ini akan mengubah status hukum pengemudi ojol menjadi pelaku UMKM, memberi keleluasaan mengatur waktu kerja dan akses ke program insentif UMKM, tanpa kewajiban pajak baru menurut pemerintah. Pengemudi ojol dengan penghasilan yang disebut berkisar Rp10 juta sampai Rp15 juta per bulan adalah pihak yang langsung terdampak perubahan status ini. Arahnya mengarah ke penerbitan Perpres sebelum tenggat 17 Agustus sesuai target pemerintah, dan itu akan terkonfirmasi dari apakah dua pasal yang masih dibahas selesai tepat waktu serta isi final Perpres begitu resmi diterbitkan."
  },
  {
   "slug": "ai-cinefest-2026-telkomsel-perkuat-ekosistem-kreator-ai",
@@ -2605,7 +2617,8 @@ var ARTICLES = [
   "fotoAdegan": "A film crew adjusts lighting equipment around a camera on a small indoor movie set.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79b35f580e4-penyelenggaraan-ai-cinefest-2026-sukses-menarik-perhatian-besar-dari-para-pegiat-kreatif-di-tanah-air_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrsz"
+  "imageV": "tjnrsz",
+  "takeaway": "AI Cinefest 2026 milik Telkomsel bersama Huawei dan MiniMax menjaring 1.111 karya film pendek berbasis AI, melampaui target awal 1.000, namun hanya 100 karya yang lolos ke tahap Curated Workshop, rasio seleksi di bawah 10 persen. Yang terdampak langsung adalah komunitas kreator AI di berbagai daerah Indonesia yang mulai menjadikan kecerdasan buatan sebagai medium berkarya baru. Bukti soal arah lanjutannya masih tipis karena berita ini belum menyebut skema bagi 100 peserta terpilih, seperti peluang kerja, pendanaan produksi, atau distribusi karya mereka. Yang masih perlu dicek adalah program Telkomsel dan mitranya setelah Curated Workshop selesai, apakah berhenti di ajang seremonial atau berlanjut ke penyerapan talenta secara nyata."
  },
  {
   "slug": "onlinepajak-berganti-nama-jadi-achilles-rangkul-urusan-pajak",
@@ -2631,7 +2644,8 @@ var ARTICLES = [
   "fotoAdegan": "An accountant reviews stacks of receipts at a cluttered desk inside a small tax consulting office.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a79af6bde446-onlinepajak-kini-bertransformasi-dengan-memperkenalkan-identitas-ekosistem-baru-yang-lebih-komprehensif_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrt0"
+  "imageV": "tjnrt0",
+  "takeaway": "OnlinePajak berganti nama menjadi Achilles dan memperluas cakupan layanan dari sekadar administrasi pajak menjadi satu platform yang juga menangani transaksi, dokumen digital, dan akses pendanaan, dengan kuota gratis hingga 50.000 transaksi per bulan. Perubahan ini menyasar lebih dari 150.000 entitas bisnis yang sudah memakai layanan tersebut, dari UMKM hingga perusahaan yang selama ini bergantung pada platform ini untuk urusan SPT dan e-Faktur. Arahnya terlihat menuju konsolidasi layanan keuangan usaha dalam satu ekosistem, dengan pengawasan Bank Indonesia dan Direktorat Jenderal Pajak yang disebut tetap berlaku. Penguat atau pematah arah ini akan terlihat dari seberapa banyak pengguna lama yang benar benar memanfaatkan fitur baru seperti pengajuan pembiayaan, bukan sekadar pelaporan pajak seperti sebelumnya."
  },
  {
   "slug": "labs-rencanakan-buyback-saham-saat-pasar-bergejolak",
@@ -2897,7 +2911,8 @@ var ARTICLES = [
   "fotoAdegan": "A money changer counts coins into small stacks behind the glass window of an exchange booth.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6806f29e140-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrt1"
+  "imageV": "tjnrt1",
+  "takeaway": "Rupiah ditutup menguat 142 poin ke Rp17.755 per dolar AS setelah Presiden Prabowo mengajukan Destry Damayanti sebagai calon tunggal Gubernur BI ke DPR, mengisi kekosongan yang ditinggalkan Perry Warjiyo. Penguatan ini terutama dirasakan pelaku pasar uang yang selama ini menunggu kepastian arah kepemimpinan bank sentral. Namun di saat bersamaan Indeks Keyakinan Konsumen Juli turun untuk ketiga kalinya berturut turut menjadi 116,8, sinyal bahwa rumah tangga makin berhati hati membelanjakan uangnya meski pasar keuangan merespons positif. Dua arah ini, pasar yang optimistis dan konsumen yang makin waspada, baru akan terlihat mana yang lebih menentukan saat proses persetujuan Destry di DPR rampung dan data keyakinan konsumen Agustus dirilis."
  },
  {
   "slug": "humi-rilis-koreksi-keterbukaan-informasi-dividen-tunai",
@@ -3056,7 +3071,8 @@ var ARTICLES = [
   "fotoAdegan": "Customers wait in line at a bank branch counter as a teller processes a transaction in Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrt2"
+  "imageV": "tjnrt2",
+  "takeaway": "Kepastian pencalonan Destry Damayanti sebagai calon tunggal Gubernur BI turut menopang penguatan rupiah pada awal pekan, dibaca pasar sebagai sinyal kesinambungan kebijakan karena Destry sebelumnya sudah menjabat Pejabat Sementara Gubernur BI. Penopang lain datang dari pertumbuhan ekonomi yang bertahan di atas 5 persen dan cadangan devisa yang masih memadai, kondisi yang relevan bagi pelaku pasar dan dunia usaha yang mengandalkan stabilitas nilai tukar. Di sisi lain neraca perdagangan tercatat defisit dan keyakinan konsumen menyusut, meski analis menilai levelnya masih di atas ambang 100 sehingga belum dibaca sebagai tanda pelemahan ekonomi. Untuk memastikan mana yang lebih menentukan arah rupiah selanjutnya, perlu dicermati hasil proses persetujuan Destry di DPR serta angka neraca perdagangan periode berikutnya."
  },
  {
   "slug": "excl-kupon-sukuk-ijarah-naik-usai-pemangkasan-rating-fitch",
@@ -3134,7 +3150,8 @@ var ARTICLES = [
   "fotoAdegan": "A sales agent shows a scale model of a housing complex to a young couple at an exhibition booth.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/10/6a7982d457831-danantara-akan-menggelar-danantara-housing-expo-2026-sebagai-bagian-dari-dukungan-terhadap-program-3-juta-rumah_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "imageV": "tjnrt3"
+  "imageV": "tjnrt3",
+  "takeaway": "BRI ditunjuk sebagai koordinator Himbara sekaligus koordinator acara Danantara Housing Expo 2026 pada 27 sampai 30 Agustus di PIK, dengan lebih dari 200.000 unit rumah dari pengembang BUMN dan swasta ditawarkan dalam satu tempat. Yang paling diuntungkan adalah calon pembeli rumah, termasuk segmen berpenghasilan rendah, karena BRI menyediakan KPR dengan uang muka mulai 1 persen, bunga tetap mulai 2,75 persen, dan cicilan mulai sekitar Rp1 juta tanpa biaya provisi maupun administrasi. Ajang ini merupakan bagian dari dorongan Program 3 Juta Rumah yang mempertemukan bank, pengembang, dan pembeli dalam satu proses pengajuan KPR yang lebih ringkas. Arah nyatanya baru akan terlihat dari jumlah unit yang benar benar terjual atau akad kredit yang tercatat selama empat hari pameran berlangsung."
  },
  {
   "slug": "sola-sampaikan-penjelasan-volatilitas-transaksi-ke-bursa",

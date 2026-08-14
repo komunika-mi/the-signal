@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",
+  "category": "Industri",
+  "title": "KADI Buka Penyelidikan [Dumping] SAP Asal Tiongkok",
+  "deck": "KADI membuka penyelidikan antidumping impor Superabsorbent Polymers dari Tiongkok, menyusul aduan PT Nippon Shokubai Indonesia atas lonjakan impor yang disebut merugikan industri dalam negeri.",
+  "image": "assets/img/industri-tekstil.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T08:15:14.264Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-produk-impor-superabsorbent-polymers-asal-tiongkok",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "antidumping",
+   "KADI",
+   "impor Tiongkok",
+   "industri kimia"
+  ],
+  "body": [
+   "Komite Anti Dumping Indonesia (KADI) resmi memulai penyelidikan dugaan dumping terhadap produk impor Superabsorbent Polymers (SAP) asal Tiongkok, bahan kimia penyerap cairan yang banyak dipakai antara lain untuk popok dan pembalut. Penyelidikan ini merupakan tindak lanjut atas permohonan PT Nippon Shokubai Indonesia, produsen dalam negeri yang menilai lonjakan impor produk tersebut telah merugikan industrinya. Bila terbukti, kasus semacam ini biasanya berujung pada pengenaan bea masuk tambahan bagi produk impor yang dinilai dijual di bawah harga wajar.",
+   "Produk yang diselidiki masuk dalam klasifikasi HS 3906.90.92 dan 3906.90.99 menurut Buku Tarif Kepabeanan Indonesia 2022. KADI menyebut, dalam kajian awal terhadap bukti yang diajukan, ditemukan indikasi peningkatan impor SAP dari Tiongkok yang berdampak pada industri dalam negeri. Sepanjang Januari 2022 hingga Desember 2025, total impor SAP Indonesia mencapai 570.543 ton, dengan 354.918 ton atau sekitar 62 persen di antaranya berasal dari Tiongkok.",
+   "Penyelidikan akan berlangsung selama 12 bulan dan dapat diperpanjang hingga 18 bulan sesuai Peraturan Pemerintah Nomor 34 Tahun 2011 tentang Tindakan Antidumping, Tindakan Imbalan, dan Tindakan Pengamanan Perdagangan. KADI menyatakan telah menyampaikan informasi dimulainya penyelidikan ini kepada pihak berkepentingan, termasuk industri dalam negeri, importir, eksportir dan produsen Tiongkok yang diketahui, perwakilan pemerintah Tiongkok di Indonesia, serta Kedutaan Besar RI di Tiongkok. Pihak terkait dipersilakan menyampaikan informasi, tanggapan, atau mengajukan permintaan dengar pendapat selama proses berjalan."
+  ],
+  "fotoAdegan": "Forklift moving stacked unmarked white sacks of chemical powder inside a warehouse, morning light through open loading doors.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah secara konkret baru tahap awal: KADI membuka penyelidikan, bukan menjatuhkan bea masuk. Prosesnya masih 12 sampai 18 bulan ke depan sebelum ada keputusan final soal apakah dumping benar-benar terjadi. Yang langsung terdampak adalah importir SAP asal Tiongkok dan industri hilir yang mengandalkan bahan ini, sementara PT Nippon Shokubai Indonesia sebagai pemohon berpotensi diuntungkan jika bea akhirnya dikenakan. Dengan pangsa impor Tiongkok yang mencapai 62 persen dari total impor SAP nasional, skala kasus ini tergolong besar, sehingga arah yang patut dicermati adalah kemungkinan munculnya bea masuk sementara pada penentuan awal KADI, yang biasanya diumumkan di pertengahan masa penyelidikan sebelum putusan akhir keluar."
+ },
+ {
+  "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
+  "category": "BUMN",
+  "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
+  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T14:57:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459876-tambang-ilegal-ditutup-profit-pt-timah-disebut-tembus-rp27-triliun-dalam-6-bulan",
+  "tags": [
+   "PT Timah",
+   "tambang ilegal",
+   "Bangka Belitung",
+   "BUMN"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto mengungkapkan lonjakan keuntungan PT Timah Tbk dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI, Jumat, 14 Agustus 2026. Ia mengaitkan kenaikan laba perusahaan tambang milik negara itu dengan penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung pada akhir 2025.",
+   "Menurut Prabowo, laba PT Timah dalam enam bulan pertama 2026 mencapai Rp2,7 triliun, naik sekitar sembilan kali lipat atau 900 persen dibanding periode yang sama tahun sebelumnya. Ia juga menyebut valuasi perusahaan naik 280 persen pada Agustus 2026 dibanding Agustus 2025.",
+   "Prabowo menyampaikan angka tersebut sebagai bagian dari paparan kinerja sejumlah BUMN yang menurutnya membaik setelah pemerintah melakukan pembenahan. Ia mencontohkan PT Semen Indonesia yang laba bersihnya disebut naik 408,9 persen pada semester pertama 2026 dibanding periode sama tahun lalu.",
+   "Penertiban tambang ilegal di Bangka Belitung disebut Prabowo sebagai bagian dari upaya pemerintah membenahi pengelolaan kekayaan negara agar sumber daya alam memberi manfaat lebih besar bagi perekonomian nasional."
+  ],
+  "fotoAdegan": "Small tin mining pontoon dredges anchored on a muddy river near dense jungle in Bangka Belitung, overcast day",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/05/68181b769aa25-ilustrasi-pt-timah-tbk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: laba PT Timah pada semester pertama 2026 disebut mencapai Rp2,7 triliun, naik sembilan kali lipat dibanding periode sama tahun lalu, setelah pemerintah menutup sekitar 1.000 titik tambang timah ilegal di Bangka Belitung akhir 2025. Yang terdampak langsung adalah PT Timah beserta pemegang sahamnya, warga dan penambang kecil di Bangka Belitung yang sebelumnya mengandalkan tambang ilegal untuk mencari nafkah, serta pasar timah dalam negeri yang pasokannya kini lebih terpusat lewat jalur resmi. Ada dua kemungkinan penjelasan untuk lonjakan sebesar ini, bisa karena perbaikan struktural sebab pasokan legal tidak lagi tergerus tambang liar, atau sebagian besar hanya efek pembanding, sebab laba tahun lalu memang tertekan berat akibat maraknya tambang ilegal saat itu. Karena angka ini disampaikan dalam pidato kenegaraan, bukan dari laporan keuangan perusahaan, yang akan memastikan penjelasan mana yang lebih tepat adalah laporan keuangan resmi PT Timah untuk semester I 2026 yang biasa dipublikasikan ke Bursa Efek Indonesia.",
+  "imageV": "mssoesiy"
+ },
+ {
   "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",
   "category": "UMKM",
   "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",

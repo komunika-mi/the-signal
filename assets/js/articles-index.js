@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",
+  "category": "Industri",
+  "title": "KADI Buka Penyelidikan [Dumping] SAP Asal Tiongkok",
+  "deck": "KADI membuka penyelidikan antidumping impor Superabsorbent Polymers dari Tiongkok, menyusul aduan PT Nippon Shokubai Indonesia atas lonjakan impor yang disebut merugikan industri dalam negeri.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "antidumping",
+   "KADI",
+   "impor Tiongkok",
+   "industri kimia"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-produk-impor-superabsorbent-polymers-asal-tiongkok",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
+  "category": "BUMN",
+  "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
+  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
+  "imageV": "mssoesiy",
+  "tags": [
+   "PT Timah",
+   "tambang ilegal",
+   "Bangka Belitung",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459876-tambang-ilegal-ditutup-profit-pt-timah-disebut-tembus-rp27-triliun-dalam-6-bulan"
+ },
+ {
   "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",
   "category": "UMKM",
   "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",

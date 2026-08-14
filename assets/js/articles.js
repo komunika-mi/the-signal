@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",
+  "category": "UMKM",
+  "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",
+  "deck": "Program Campuspreneur Kemendag mencatat 23 kesepakatan awal wirausaha kampus dengan ritel modern, serta ekspor pinang binaan IPB senilai Rp2,2 miliar ke Bangladesh dan Maladewa.",
+  "image": "assets/img/batik-umkm.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T06:18:35.289Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Campuspreneur",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan mencatat sejumlah hasil konkret dari program pengembangan wirausaha kampus bernama Campuspreneur sepanjang semester pertama 2026. Dua capaian utamanya adalah 23 kesepakatan awal atau letter of intent antara wirausaha mahasiswa dengan jaringan ritel modern, serta realisasi ekspor produk pinang senilai Rp2,2 miliar ke Bangladesh dan Maladewa pada 12 Juni 2026. Ini menandakan program yang tadinya sebatas edukasi kewirausahaan di kampus mulai menghasilkan jalur nyata ke pasar, baik toko ritel domestik maupun pembeli luar negeri.",
+   "Program ini resmi diluncurkan pada 2 April 2026 di Universitas Sebelas Maret (UNS) Surakarta. Pada peluncuran itu, 18 perguruan tinggi menandatangani dokumen kerja sama dengan empat unit di Kemendag, yaitu Direktorat Jenderal Perdagangan Dalam Negeri, Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga, Badan Pengembangan Sumber Daya Manusia Perdagangan, serta Direktorat Jenderal Pengembangan Ekspor Nasional. Bersamaan dengan itu digelar Campuspreneur Expo pada 1 hingga 2 April 2026 di Auditorium UNS, yang diikuti mahasiswa, alumni, dan UMKM binaan kampus.",
+   "Dari 23 kesepakatan awal dengan ritel modern, 15 di antaranya ditandatangani di UNS dan 8 di IPB University. Kesepakatan ini lahir dari proses kurasi bersama Asosiasi Pengusaha Ritel Indonesia (Aprindo) dan Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (Hippindo), yang menilai kualitas produk, desain kemasan, konsistensi produksi, hingga kesiapan distribusi mahasiswa sebelum bisa masuk rak toko modern. Untuk peluang ekspor, Kemendag juga memfasilitasi sesi presentasi bisnis antara peserta dengan perwakilan perdagangan RI di luar negeri, agar mereka mendapat gambaran pasar dan kebutuhan negara tujuan.",
+   "Sebagai pelengkap, kampus-kampus mitra juga menggelar diskusi panel, coaching clinic, dan meja konsultasi soal penguatan merek, perizinan usaha, pemasaran digital, hingga standar perdagangan. Puncak capaian semester ini adalah pelepasan ekspor produk pinang binaan IPB University pada 12 Juni 2026 ke Bangladesh dan Maladewa dengan nilai Rp2,2 miliar."
+  ],
+  "fotoAdegan": "Workers loading sacks of dried areca nuts onto a cargo truck at a rural Indonesian warehouse dock, morning light.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar edukasi kewirausahaan, melainkan mulai adanya jalur konkret ke pasar: 23 letter of intent dengan ritel modern dan satu transaksi ekspor pinang senilai Rp2,2 miliar yang sudah benar-benar terjadi. Perlu dicatat, letter of intent itu baru kesepakatan awal berisi niat kerja sama, bukan kontrak jual beli yang mengikat, jadi belum tentu semuanya berlanjut jadi pasokan nyata ke rak toko. Yang terdampak langsung adalah mahasiswa wirausaha dan UMKM binaan kampus di UNS dan IPB, serta jaringan ritel di bawah Aprindo dan Hippindo yang jadi mitra kurasi. Arah program ini terlihat bergerak dari sekadar ajang pameran kampus menuju upaya menyambungkan produk mahasiswa ke pasar sungguhan, dan yang akan memastikan apakah arah itu berlanjut adalah apakah 23 letter of intent tersebut berubah jadi kontrak pasokan aktual pada semester kedua 2026."
+ },
+ {
+  "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
+  "category": "Makroekonomi",
+  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
+  "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T12:36:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459834-prabowo-tegaskan-kekuatan-ekonomi-indonesia-ada-di-desa-30-ribu-koperasi-ditargetkan-beroperasi",
+  "tags": [
+   "ekonomi desa",
+   "koperasi merah putih",
+   "prabowo subianto",
+   "umkm"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyampaikan dalam pidato Sidang Tahunan MPR RI dan Sidang Bersama DPR RI-DPD RI 2026 bahwa kekuatan ekonomi Indonesia tidak hanya berpusat di kota-kota besar, melainkan bertumpu pada desa. Ia menyebut petani, nelayan, pedagang, perajin, perempuan kepala keluarga, hingga anak muda perintis usaha di kampung sebagai penggerak utama ekonomi nasional. Pernyataan ini menandai arah kebijakan pemerintah yang mengarahkan lebih banyak program ke infrastruktur dan kelembagaan ekonomi di tingkat desa.",
+   "Untuk mendukung hal itu, pemerintah membangun jembatan desa guna memperlancar konektivitas antarwilayah. Sepanjang 2026, sebanyak 2.500 jembatan telah dirampungkan oleh TNI dan sekitar 800 jembatan oleh Polri, dengan target total 5.000 jembatan selesai hingga akhir tahun. Pemerintah juga mencatat 3.000 titik air bersih baru dibangun TNI dalam delapan bulan pertama 2026 untuk menjangkau desa yang sebelumnya kesulitan air, sehingga anak-anak tak perlu lagi menyeberangi sungai untuk berangkat sekolah.",
+   "Kebijakan utama lainnya adalah pembangunan Koperasi Desa dan Kelurahan Merah Putih, yang diposisikan sebagai pusat ekonomi rakyat di tingkat desa. Hingga saat ini tercatat 10.000 koperasi telah beroperasi, namun baru 3.300 di antaranya berjalan optimal dengan sarana lengkap dan stok barang yang dipantau lewat sistem digital terpusat, sementara sisanya masih dalam tahap penyesuaian. Sebagian koperasi yang sudah optimal mulai berfungsi sebagai offtaker, yaitu pembeli tetap hasil panen dan tangkapan nelayan setempat."
+  ],
+  "fotoAdegan": "Farmers carrying baskets of harvested vegetables toward a small rural cooperative building, dirt road, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e9420167f0-presiden-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar pernyataan soal pentingnya desa, tapi angka di balik dua program andalan: jembatan desa dan Koperasi Merah Putih. Dari 10.000 koperasi desa yang sudah berdiri, baru 3.300 atau sekitar sepertiganya yang benar-benar berjalan penuh dan bisa membeli hasil panen warga, sementara sisanya sekitar 6.700 koperasi masih dalam tahap penyesuaian dan belum banyak membantu petani atau nelayan menjual produksinya. Yang paling terdampak adalah warga desa, terutama petani dan nelayan yang berharap koperasi ini jadi pembeli tetap hasil kerja mereka, serta anak-anak dan pengguna jalan desa yang menunggu jembatan rampung. Pola yang terlihat adalah penguatan bertahap, bukan langsung menyeluruh, karena target 5.000 jembatan baru tercapai 3.300 unit dengan sisa waktu kurang dari lima bulan di 2026. Yang akan menunjukkan apakah percepatan ini benar terjadi adalah laporan berikutnya soal berapa banyak koperasi naik status jadi optimal dan progres jembatan menjelang akhir tahun.",
+  "imageV": "mssk7kyk"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
+  "category": "Makroekonomi",
+  "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
+  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T12:26:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459832-investasi-ri-tembus-rp1931-triliun-serap-27-juta-tenaga-kerja-di-tengah-ketidakpastian-global",
+  "tags": [
+   "investasi",
+   "realisasi investasi 2026",
+   "lapangan kerja",
+   "pertumbuhan ekonomi"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyampaikan bahwa realisasi investasi di Indonesia sepanjang 2025 mencapai Rp1.931 triliun, capaian yang menurutnya diraih meski dunia sedang dibayangi ketegangan geopolitik, perang dagang, dan gangguan rantai pasok global. Investasi sebesar itu disebut membuka lebih dari 2,7 juta lapangan kerja baru bagi masyarakat. Pernyataan ini disampaikan Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026.",
+   "Tren tersebut berlanjut memasuki 2026. Pada semester pertama tahun ini, realisasi investasi sudah mencapai Rp1.010 triliun dan menciptakan lebih dari 1,4 juta lapangan kerja. Prabowo menyebut capaian ini sebagai bukti kepercayaan dunia usaha terhadap perekonomian nasional tetap terjaga, sekaligus menegaskan pentingnya Indonesia semakin mandiri di tengah tekanan ekonomi global.",
+   "Selain data investasi, Prabowo juga memaparkan kinerja pertumbuhan ekonomi nasional pada awal 2026. Produk domestik bruto Indonesia tumbuh 5,61 persen pada kuartal pertama 2026, sementara rata-rata pertumbuhan sepanjang semester pertama tahun ini tercatat 5,45 persen."
+  ],
+  "fotoAdegan": "Factory workers assembling machine parts on a busy production line inside a modern industrial plant, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e94360a0dc-presiden-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret, realisasi investasi 2025 tembus Rp1.931 triliun dan membuka lebih dari 2,7 juta lapangan kerja, sementara paruh pertama 2026 sudah mencapai Rp1.010 triliun dengan 1,4 juta lapangan kerja baru. Kalau dihitung, jumlah lapangan kerja yang lahir dari tiap Rp1 triliun investasi hampir sama besarnya di kedua periode itu, sekitar 1.400 orang, jadi belum ada tanda investasi kali ini lebih atau kurang mampu menyerap tenaga kerja dibanding tahun lalu. Pihak yang paling terdampak adalah pencari kerja dan pelaku usaha yang menunggu arus modal baru terus mengalir. Soal ke mana arahnya, buktinya masih terbelah, kalau kecepatan semester pertama ini bertahan, investasi setahun penuh 2026 bisa mendekati Rp2.000 triliun atau tumbuh tipis dari 2025, tapi pertumbuhan ekonomi yang turun dari 5,61 persen di kuartal pertama menjadi rata-rata 5,45 persen di semester pertama mengisyaratkan kuartal kedua sudah melambat. Kejelasannya baru didapat dari rilis pertumbuhan ekonomi kuartal ketiga BPS yang biasanya terbit awal November 2026.",
+  "imageV": "mssk7lfh"
+ },
+ {
+  "slug": "petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha",
+  "category": "UMKM",
+  "title": "Petani Ngawi Panen Padi [3 Kali] Setahun, 9 Ton/Ha",
+  "deck": "Joko Purnomo, petani di Ngawi, Jawa Timur, mencatat produktivitas 9 ton gabah per hektare dengan panen tiga kali setahun berkat penerapan teknologi pertanian.",
+  "image": "assets/img/petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T12:25:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459830-joko-purnomo-buktikan-petani-bisa-sejahtera-panen-9-ton-per-hektare-hingga-3-kali-setahun",
+  "tags": [
+   "petani ngawi",
+   "teknologi pertanian",
+   "produktivitas padi",
+   "kelompok tani"
+  ],
+  "body": [
+   "Joko Purnomo, Ketua Kelompok Tani Sri Makmur di Desa Purwosari, Kabupaten Ngawi, Jawa Timur, membuktikan penerapan teknologi bisa mengubah hasil pertanian padi secara signifikan. Lahannya kini menghasilkan hingga 9 ton gabah per hektare dengan frekuensi panen tiga kali dalam setahun, capaian yang menunjukkan pertanian skala kecil masih punya ruang besar untuk tumbuh lebih menguntungkan.",
+   "Perjalanan Joko tidak dimulai dari modal besar. Selama sekitar 20 tahun menekuni pertanian padi, ia sempat harus berutang dan menggadaikan BPKB kendaraannya hanya untuk membeli hand traktor bekas sebagai alat mengolah lahan pada masa awal usahanya.",
+   "Dari keterbatasan itu, Joko bertahap mengadopsi sejumlah teknologi pertanian. Ia menerapkan metode dapog untuk persemaian padi yang bisa dilakukan di pekarangan rumah tanpa butuh lahan luas, memasang sumur submersible untuk memastikan pasokan air, serta menggunakan rotavator berukuran besar yang memangkas waktu pengolahan lahan yang sebelumnya dikerjakan manual."
+  ],
+  "fotoAdegan": "Farmer operating a large rotary tiller machine in a muddy rice paddy, rows of green paddy fields, East Java, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/17/69e233e0665e6-ilustrasi-pertanian-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah praktik satu petani, bukan kebijakan atau data agregat: Joko menaikkan produktivitas lahannya sampai 9 ton gabah per hektare dan memanen tiga kali setahun lewat kombinasi metode dapog, sumur submersible, dan mesin olah tanah, setelah sebelumnya bermodal traktor bekas hasil gadai BPKB. Yang terdampak langsung adalah dirinya dan anggota Kelompok Tani Sri Makmur di Desa Purwosari yang ia pimpin, sementara dampaknya ke petani Ngawi yang lebih luas belum tergambar dari cerita ini. Yang belum diketahui adalah apakah pencapaian ini bisa direplikasi petani lain, sebab peralatan seperti sumur submersible dan rotavator butuh modal awal yang justru sempat jadi kendala Joko sendiri. Yang perlu dipantau adalah ada tidaknya program bantuan alat atau pembiayaan dari pemerintah daerah maupun kelompok tani lain di Ngawi yang mengikuti model Joko, karena tanpa itu kisah ini tetap jadi pengecualian individual, bukan tren produktivitas pertanian yang meluas.",
+  "imageV": "mssk7lxk"
+ },
+ {
   "slug": "dmas-jadwalkan-rupslb-cum-date-saham-28-agustus",
   "category": "Aksi Korporasi",
   "title": "DMAS Jadwalkan RUPSLB, [Cum Date] Saham 28 Agustus",
@@ -28,6 +133,58 @@ var ARTICLES = [
   "takeaway": "Pengumuman ini netral bagi kinerja DMAS, karena isinya baru sebatas jadwal dan tanggal pencatatan pemegang saham, sementara agenda RUPSLB yang sebenarnya belum diungkapkan sehingga belum ada yang bisa dinilai dampaknya. RUPS biasanya menjadi forum yang bisa mengubah pos-pos penting seperti pembagian dividen, komposisi pengurus, atau bahkan jumlah saham beredar, tapi karena agenda belum tercantum di sini, pemegang saham belum bisa menilai apakah keputusan nanti menguntungkan atau merugikan. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB yang biasanya terbit menjelang atau setelah tanggal pencatatan 28 Agustus 2026, karena di situlah agenda lengkap rapat baru akan diumumkan, sebelum pelaksanaan rapat itu sendiri pada 22 September 2026.",
   "sentimen": "netral",
   "imageV": "mssj25oh"
+ },
+ {
+  "slug": "neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw",
+  "category": "Teknologi",
+  "title": "NeutraDC Gandeng PLN Kejar Ekspansi Data Center [200 MW]",
+  "deck": "NeutraDC dan PLN menandatangani MoU pasokan energi untuk ekspansi data center hyperscale di Cikarang, menambah kapasitas hingga 200 MW guna mendukung kebutuhan AI dan cloud computing.",
+  "image": "assets/img/neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T12:00:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459827-sinergi-danantara-neutradc-gandeng-pln-siapkan-ekspansi-hyperscale-data-center",
+  "tags": [
+   "NeutraDC",
+   "PLN",
+   "Data Center",
+   "Danantara"
+  ],
+  "body": [
+   "NeutraDC, operating company milik PT Telkom Indonesia yang tergabung dalam ekosistem Danantara Indonesia, menandatangani nota kesepahaman dengan PT PLN untuk memastikan pasokan listrik bagi ekspansi pusat data berskala hyperscale di Cikarang, Jawa Barat. Kerja sama ini penting karena kesiapan pasokan listrik kerap jadi faktor penentu seberapa cepat pusat data raksasa bisa dibangun, sementara kebutuhan akan layanan kecerdasan buatan, komputasi awan, dan ekonomi digital terus meningkat.",
+   "Nota kesepahaman diteken di Bandung pada Selasa (11/8) oleh Direktur Utama NeutraDC Group Rakhmad Tunggal Afifuddin bersama General Manager PLN UID Jawa Barat Muhammad Joharifin dan Direktur Utama PLN Electricity Services Susiana Mutia, dengan disaksikan Direktur Retail dan Niaga PLN M. Fahrur Rozy. Dalam kesempatan yang sama, sejumlah perusahaan lain yang bergerak di pengadaan listrik untuk kawasan Cikarang turut meneken kesepakatan serupa. Ekspansi ini ditargetkan menambah kapasitas data center NeutraDC hingga 200 megawatt secara bertahap.",
+   "Rakhmad menyebut kesiapan energi menjadi bagian penting dari strategi jangka panjang NeutraDC untuk membangun infrastruktur digital yang andal dan bisa ditingkatkan kapasitasnya seiring pertumbuhan pelanggan. Perusahaan memposisikan diri sebagai penyedia ekosistem digital yang menyiapkan kapasitas untuk melayani lonjakan permintaan AI, komputasi awan, dan layanan berbasis data di dalam negeri."
+  ],
+  "fotoAdegan": "Electrical transmission towers and high-voltage power lines leading toward an industrial data center complex under construction in West Java",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e9f1f49eee-neutradc-berkolaborasi-dengan-pt-pln-persero-dalam-memastikan-kesiapan-pasokan-energi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah NeutraDC menyiapkan tambahan kapasitas listrik hingga 200 megawatt, kira-kira setara kebutuhan daya sebuah kota kecil, untuk pusat data raksasa yang sedang dikembangkan di Cikarang. Yang langsung terdampak adalah PLN, yang harus memastikan jaringannya sanggup memasok kawasan itu berbarengan dengan beberapa perusahaan lain yang juga meneken kesepakatan serupa di lokasi yang sama, serta pelaku industri digital yang mengandalkan kapasitas pusat data dalam negeri untuk layanan AI dan komputasi awan. Pola ini memperlihatkan Telkom, PLN, dan Danantara mulai menyatukan urusan infrastruktur digital dengan urusan energi dalam satu paket kerja sama, bukan dua proyek yang berjalan terpisah seperti sebelumnya. Yang perlu dicermati, kesepakatan yang diteken baru berupa nota kesepahaman dan belum mengikat secara komersial, sehingga realisasi penuh 200 megawatt itu masih bergantung pada perjanjian jual beli listrik definitif dan jadwal operasional fasilitas Cikarang yang belum diumumkan.",
+  "imageV": "mssk7mfv"
+ },
+ {
+  "slug": "tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang",
+  "category": "BUMN",
+  "title": "TJSL PLN [Berdayakan] Nelayan Kalsel dan Lulusan SMK Semarang",
+  "deck": "Program TJSL PLN mendampingi nelayan Kotabaru membudidayakan kepiting soka bernilai tinggi, sekaligus melatih ratusan lulusan SMK Semarang untuk bekerja di industri tekstil dan alas kaki.",
+  "image": "assets/img/tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T11:45:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459823-cerita-perubahan-dari-berbagai-daerah-program-tjsl-pln-hadirkan-manfaat-bagi-masyarakat-dan-lingkungan",
+  "tags": [
+   "PLN",
+   "TJSL PLN",
+   "Desa Berdaya",
+   "UMKM"
+  ],
+  "body": [
+   "PLN mengubah cara sebagian nelayan di Desa Tanjung Seloka, Kabupaten Kotabaru, Kalimantan Selatan, mencari nafkah dari laut. Lewat program Tanggung Jawab Sosial dan Lingkungan (TJSL) bertajuk Desa Berdaya, nelayan yang sebelumnya menjual kepiting hasil tangkapan langsung dengan harga rendah kini didampingi untuk membudidayakan dan menggemukkan kepiting jenis soka sebelum dijual. Hasilnya, nilai jual kepiting naik dan pendapatan kelompok nelayan menjadi lebih stabil dibanding hanya mengandalkan tangkapan harian.",
+   "Ketua kelompok nelayan Seloka Crabs, Irhamsyah, mengatakan perubahan ini juga diikuti kesadaran menjaga ekosistem pesisir agar tetap lestari sebagai sumber penghidupan jangka panjang. Selain pendampingan budidaya kepiting, PLN turut menyalurkan program pemanfaatan limbah sisa pembakaran batu bara di PLTU (fly ash dan bottom ash) menjadi bahan terumbu karang buatan dan rumah ikan, edukasi lingkungan, penanaman pohon, hingga dukungan sarana produksi bagi pelaku Usaha Mikro, Kecil, dan Menengah (UMKM) di kawasan tersebut.",
+   "Cerita serupa terjadi di Semarang, Jawa Tengah, tempat banyak lulusan Sekolah Menengah Kejuruan (SMK) dan warga dari keluarga kurang mampu selama ini kesulitan mendapat pekerjaan karena keterampilan yang dimiliki belum sesuai kebutuhan industri. Melalui Program Pelatihan Sumber Daya Manusia Industri Tekstil dan Alas Kaki, PLN memberikan pelatihan berbasis kebutuhan industri kepada ratusan peserta, yang kemudian disalurkan untuk bekerja langsung di sejumlah perusahaan tekstil dan alas kaki berskala besar di Jawa Tengah."
+  ],
+  "fotoAdegan": "Fishermen sorting mud crabs into bamboo holding cages along a muddy mangrove-lined estuary, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e9c1e8a69f-program-pelatihan-sumber-daya-manusia-industri-tekstil-dan-alas-kaki-dari-pln_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program TJSL PLN kali ini mengubah cara nelayan Kotabaru menjual hasil laut, dari kepiting mentah ukuran kecil menjadi kepiting soka yang dibudidayakan dan digemukkan sehingga bernilai lebih tinggi, sekaligus melatih lulusan SMK dan warga kurang mampu di Semarang untuk langsung bekerja di pabrik tekstil dan alas kaki. Yang merasakan dampaknya adalah kelompok nelayan seperti Seloka Crabs di pesisir Kotabaru, pelaku UMKM binaan, serta pencari kerja muda di Jawa Tengah yang selama ini kesulitan menembus industri karena keterampilannya belum sesuai kebutuhan pabrik. Namun berita ini tidak menyebut angka pasti, seperti berapa banyak peserta yang benar-benar terserap kerja, berapa nilai bantuan atau anggaran TJSL untuk dua program ini, dan seberapa besar kenaikan pendapatan nelayan secara nominal. Tanpa angka-angka itu, sulit menilai apakah program ini baru sebatas proyek percontohan di satu desa dan satu kota, atau bagian dari pola yang akan diperluas PLN ke daerah lain. Yang perlu ditunggu adalah laporan realisasi TJSL PLN berikutnya yang biasanya memuat jumlah penerima manfaat dan nilai program secara rinci.",
+  "imageV": "mssk7myn"
  },
  {
   "slug": "ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi",
@@ -108,6 +265,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi KONI karena kedua agenda RUPSLB masih bersifat prosedural: perubahan KBLI hanya menyesuaikan kode klasifikasi usaha tanpa mengubah kegiatan usaha, dan perubahan susunan direksi belum menyebutkan nama-nama yang diusulkan sehingga arah dampaknya belum bisa dinilai. Yang tersentuh di sini adalah tata kelola perusahaan, bukan pos keuangan seperti ekuitas atau laba, tapi pemegang saham tetap perlu mencermati karena direksi baru bisa membawa perubahan strategi atau kebijakan ke depan. Yang berhak memberi suara hanya pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 7 September 2026, termasuk nama-nama direksi yang akan diajukan dan diputuskan dalam rapat itu, serta batas akhir pemberian suara elektronik lewat eASY.KSEI pada pukul 12.00 WIB satu hari kerja sebelumnya.",
   "sentimen": "netral",
   "imageV": "mssj4sgn"
+ },
+ {
+  "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
+  "category": "Makroekonomi",
+  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T10:57:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459815-prabowo-klaim-swasembada-pangan-tembus-target-harga-pupuk-turun-20-persen-hingga-b50-bebaskan-ri-dari-impor-solar",
+  "tags": [
+   "swasembada pangan",
+   "harga pupuk",
+   "Pupuk Indonesia",
+   "B50"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto mengklaim keberhasilan pemerintah mempercepat capaian swasembada pangan, menurunkan harga pupuk, dan menghentikan impor solar melalui program biodiesel B50. Klaim ini disampaikan dalam pidato kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026. Bagi publik, pernyataan ini penting karena menyangkut tiga isu yang langsung memengaruhi biaya hidup dan usaha, yakni ketahanan pangan, harga input pertanian, dan ketergantungan energi impor.",
+   "Prabowo menyebut target swasembada pangan yang semula diproyeksikan baru tercapai dalam empat sampai lima tahun, kini sudah terwujud hanya dalam waktu satu tahun sejak pemerintahannya berjalan. Ia mengaitkan percepatan ini dengan berbagai kebijakan yang disebutnya memperkuat sektor pangan nasional, meski rincian kebijakan tersebut tidak dijabarkan lebih lanjut dalam pidatonya. Prabowo juga menyatakan Indonesia telah mencapai swasembada untuk delapan komoditas pangan, mulai dari beras hingga produk hortikultura, meski daftar lengkap kedelapan komoditas itu tidak disebutkan secara rinci.",
+   "Di sektor pupuk, pemerintah mengklaim telah menghapus 145 aturan yang dinilai menghambat penyaluran pupuk ke petani. Langkah ini dibarengi penurunan harga pupuk sebesar 20 persen, yang menurut Prabowo merupakan penurunan harga pupuk pertama dalam sejarah Indonesia. Di saat bersamaan, laba PT Pupuk Indonesia (Persero) disebut melonjak 252,8 persen.",
+   "Prabowo turut menyinggung penerapan B50, campuran bahan bakar solar dengan 50 persen minyak sawit, yang menurutnya membuat Indonesia tidak lagi mengimpor solar sejak Juli 2026. Klaim ini melengkapi rangkaian pencapaian yang disampaikan dalam pidato kenegaraan tahun ini, sebagai bagian dari evaluasi satu tahun pemerintahan Prabowo di bidang pangan dan energi."
+  ],
+  "fotoAdegan": "Farmers loading sacks of fertilizer onto a small truck at the edge of a green rice paddy, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d4ae58f754-presiden-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka-angka ini, mulai dari penurunan harga pupuk 20 persen, pemangkasan 145 aturan distribusi, sampai lonjakan laba Pupuk Indonesia 252,8 persen, disampaikan langsung oleh Prabowo dalam pidato kenegaraan, bukan dari laporan keuangan atau rilis data resmi yang terpisah. Yang terdampak langsung adalah petani yang membeli pupuk, serta Pupuk Indonesia sebagai badan usaha milik negara yang kinerjanya disorot dalam pidato ini. Turunnya harga pupuk yang berbarengan dengan naiknya laba perusahaan mengarah ke pembacaan bahwa penghematan berasal dari pemangkasan birokrasi distribusi, bukan dari tambahan subsidi pemerintah. Yang akan memastikan pembacaan ini adalah laporan keuangan resmi Pupuk Indonesia dan data produksi pangan dari Badan Pusat Statistik yang biasanya terbit dalam beberapa bulan ke depan.",
+  "imageV": "mssk7nnn"
  },
  {
   "slug": "truk-gelar-public-expose-usai-saham-melonjak-25-persen",
@@ -652,10 +836,10 @@ var ARTICLES = [
    "Forum ini merupakan bagian dari program Bulan Pembiayaan Syariah dan Percepatan Intermediasi Indonesia yang digagas BI bersama sejumlah lembaga, termasuk OJK, Kementerian Perindustrian, Kementerian Investasi/BKPM, KNEKS, Asbisindo, IAEI, dan KADIN, untuk mempercepat realisasi pembiayaan syariah ke sektor riil."
   ],
   "fotoAdegan": "Professionals in business attire shaking hands during a corporate meeting in a modern Jakarta conference room, midday light.",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2815626/Cover-sp_2815626.jpeg",
+  "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang konkret dari acara ini adalah pertemuan bisnis antara 20 bank syariah dengan 51 perusahaan untuk menjajaki pembiayaan, didukung data bahwa pembiayaan bank syariah pada Juni 2026 mencapai Rp720 triliun, tumbuh 11,43 persen dibanding setahun sebelumnya, sementara simpanan nasabah di bank syariah naik 13,13 persen menjadi Rp816 triliun. Yang berpotensi terdampak adalah korporasi, terutama yang terhubung rantai pasok produk halal, yang mencari pembiayaan jangka panjang dengan skema sesuai kebutuhan usaha, serta bank syariah yang ingin memperluas basis nasabah korporasi. Ke depan, forum semacam ini mengarah pada upaya membangun jalur pembiayaan yang lebih teratur agar bank syariah lebih percaya diri membiayai korporasi besar, tapi acara ini sendiri baru mempertemukan pihak-pihak, belum menghasilkan komitmen pembiayaan yang terukur. Yang akan menentukan apakah upaya ini berbuah nyata adalah apakah business matching kali ini benar-benar berlanjut jadi transaksi pembiayaan, sesuatu yang baru bisa dicek dari data realisasi pada laporan berikutnya.",
-  "imageV": "msr79sar"
+  "imageV": "mssk87i5"
  },
  {
   "slug": "harga-emas-antam-naik-jadi-rp2-700-000-per-gram",
@@ -1665,7 +1849,9 @@ var ARTICLES = [
   ],
   "takeaway": "Yang berubah: pertumbuhan harga menguat tipis dari 0,62 persen menjadi 0,69 persen secara tahunan, sementara kontraksi penjualan mengecil signifikan dari 25,67 persen menjadi 2,36 persen dibanding periode setahun sebelumnya. Perbaikan ini terutama dirasakan pengembang rumah tipe kecil dan besar, sementara segmen menengah masih tertekan, dan turut menyangkut konsumen yang bergantung pada KPR karena skema ini menopang 70,05 persen pembelian rumah primer. Pola dua triwulan berturut-turut, kontraksi penjualan mengecil dan harga tumbuh pelan, mengarah pada pemulihan bertahap pasar primer ketimbang lonjakan permintaan, apalagi pembiayaan pembangunan masih bertumpu 73,28 persen pada dana internal pengembang, bukan sumber eksternal yang biasanya menyertai ekspansi lebih agresif. Data SHPR triwulan III 2026 dari Bank Indonesia akan jadi penentu apakah tren perbaikan penjualan ini berlanjut atau sekadar pemulihan sementara.",
   "fotoAdegan": "A construction worker plasters a wall inside an unfinished housing unit in a new residential complex.",
-  "imageV": "tjnkgt"
+  "imageV": "mssk8ive",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2530123/Publishing_Image_Statistik.JPG",
+  "kreditFoto": "Bank Indonesia"
  },
  {
   "slug": "uang-primer-bi-percepat-ke-17-1-pada-juli-2026",
@@ -1690,7 +1876,9 @@ var ARTICLES = [
   ],
   "takeaway": "Angka yang berubah cukup jelas: pertumbuhan uang primer adjusted naik dari 13,8% yoy pada Juni menjadi 17,1% yoy pada Juli, dengan giro bank umum di BI tumbuh 17,1% dan uang kartal beredar 15,1%, membawa total M0 Adjusted ke Rp2.254,5 triliun. Pihak yang paling terkait dengan angka ini adalah perbankan, karena komponen giro bank umum di BI langsung berhubungan dengan insentif likuiditas yang selama ini disalurkan ke bank umum. Percepatan pertumbuhan dua bulan berturut-turut ini mengarah pada kondisi likuiditas dasar yang terus melonggar, sejalan dengan skema insentif yang telah berjalan sejak awal 2025. Untuk memastikan apakah percepatan ini berlanjut atau hanya fluktuasi sesaat, data M0 Adjusted periode Agustus 2026 yang akan dirilis BI berikutnya menjadi penanda yang perlu dicermati.",
   "fotoAdegan": "A bank employee stacks trays of coins inside a secure vault room behind a branch counter.",
-  "imageV": "tjnkhe"
+  "imageV": "mssk8lg4",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp__2713625.jpg",
+  "kreditFoto": "Bank Indonesia"
  },
  {
   "slug": "keyakinan-konsumen-juli-melambat-tapi-masih-optimistis",
@@ -1715,7 +1903,9 @@ var ARTICLES = [
   ],
   "takeaway": "Yang berubah dari data ini adalah pelemahan tipis pada dua komponen pembentuk IKK, Indeks Kondisi Ekonomi Saat Ini turun dari 109,2 ke 107,9 dan Indeks Ekspektasi Konsumen turun dari 126,4 ke 125,7, meski indeks gabungannya masih di zona optimistis pada 116,8. Pihak yang paling berkepentingan dengan tren ini adalah pelaku usaha ritel dan produsen barang konsumsi yang menyusun proyeksi permintaan berdasarkan sentimen konsumen, selain otoritas moneter yang memantau daya beli sebagai bagian dari pertimbangan kebijakan. Arah datanya belum bisa disimpulkan sebagai tren pelemahan konsumsi karena penurunannya masih kecil dan indeks tetap optimistis, tapi patut dibandingkan dengan rilis Survei Penjualan Eceran Juli 2026 yang menurut Bank Indonesia justru diprakirakan meningkat. Jika keyakinan konsumen terus melunak sementara penjualan eceran naik, kesenjangan sinyal itu yang akan menentukan apakah pelemahan IKK ini sekadar noise bulanan atau awal tren yang lebih panjang.",
   "fotoAdegan": "Shoppers browse racks of clothing inside a crowded mall in Jakarta on a weekday afternoon.",
-  "imageV": "tjnki3"
+  "imageV": "mssk9a3i",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_277825/sp_277825-Survei-Konsumen.jpg",
+  "kreditFoto": "Bank Indonesia"
  },
  {
   "slug": "penjualan-eceran-juli-2026-diproyeksikan-naik-0-9-persen",
@@ -1741,7 +1931,9 @@ var ARTICLES = [
   ],
   "takeaway": "Data ini menunjukkan penjualan eceran Juli 2026 diproyeksikan tumbuh 0,9 persen secara tahunan menjadi indeks 224,4, meski secara bulanan turun 0,3 persen akibat normalisasi permintaan pasca Hari Besar Keagamaan Nasional dan libur sekolah. Pihak yang paling terkait dengan data ini adalah peritel makanan, minuman, dan tembakau, serta pelaku usaha suku cadang otomotif dan perlengkapan rumah tangga, yang menjadi penopang utama angka pertumbuhan. Polanya mengarah pada permintaan domestik yang melambat secara musiman namun tetap tumbuh dibanding tahun sebelumnya, sejalan dengan ekspektasi harga yang diprakirakan turun ke 155,2 pada September sebelum naik lagi ke 168,1 pada Desember, mengindikasikan potensi tekanan harga musiman menjelang akhir tahun. Yang akan memastikan arah ini adalah rilis Survei Penjualan Eceran periode Agustus 2026, yang akan menunjukkan apakah tren pertumbuhan tahunan tersebut berlanjut atau melambat.",
   "fotoAdegan": "A cashier scans grocery items for a line of customers at a supermarket checkout counter.",
-  "imageV": "tjnkiz"
+  "imageV": "mssk9emn",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_275625/sp_275625_SPE.JPG",
+  "kreditFoto": "Bank Indonesia"
  },
  {
   "slug": "bri-peduli-dampingi-umkm-desa-brilian-sleman",

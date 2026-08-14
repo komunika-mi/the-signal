@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",
+  "category": "UMKM",
+  "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",
+  "deck": "Program Campuspreneur Kemendag mencatat 23 kesepakatan awal wirausaha kampus dengan ritel modern, serta ekspor pinang binaan IPB senilai Rp2,2 miliar ke Bangladesh dan Maladewa.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "Campuspreneur",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
+  "category": "Makroekonomi",
+  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
+  "imageV": "mssk7kyk",
+  "tags": [
+   "ekonomi desa",
+   "koperasi merah putih",
+   "prabowo subianto",
+   "umkm"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459834-prabowo-tegaskan-kekuatan-ekonomi-indonesia-ada-di-desa-30-ribu-koperasi-ditargetkan-beroperasi"
+ },
+ {
+  "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
+  "category": "Makroekonomi",
+  "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
+  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
+  "imageV": "mssk7lfh",
+  "tags": [
+   "investasi",
+   "realisasi investasi 2026",
+   "lapangan kerja",
+   "pertumbuhan ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459832-investasi-ri-tembus-rp1931-triliun-serap-27-juta-tenaga-kerja-di-tengah-ketidakpastian-global"
+ },
+ {
+  "slug": "petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha",
+  "category": "UMKM",
+  "title": "Petani Ngawi Panen Padi [3 Kali] Setahun, 9 Ton/Ha",
+  "deck": "Joko Purnomo, petani di Ngawi, Jawa Timur, mencatat produktivitas 9 ton gabah per hektare dengan panen tiga kali setahun berkat penerapan teknologi pertanian.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha.jpg",
+  "imageV": "mssk7lxk",
+  "tags": [
+   "petani ngawi",
+   "teknologi pertanian",
+   "produktivitas padi",
+   "kelompok tani"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459830-joko-purnomo-buktikan-petani-bisa-sejahtera-panen-9-ton-per-hektare-hingga-3-kali-setahun"
+ },
+ {
   "slug": "dmas-jadwalkan-rupslb-cum-date-saham-28-agustus",
   "category": "Aksi Korporasi",
   "title": "DMAS Jadwalkan RUPSLB, [Cum Date] Saham 28 Agustus",
@@ -20,6 +87,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8975b4331_1439a3e3a7.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw",
+  "category": "Teknologi",
+  "title": "NeutraDC Gandeng PLN Kejar Ekspansi Data Center [200 MW]",
+  "deck": "NeutraDC dan PLN menandatangani MoU pasokan energi untuk ekspansi data center hyperscale di Cikarang, menambah kapasitas hingga 200 MW guna mendukung kebutuhan AI dan cloud computing.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw.jpg",
+  "imageV": "mssk7mfv",
+  "tags": [
+   "NeutraDC",
+   "PLN",
+   "Data Center",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459827-sinergi-danantara-neutradc-gandeng-pln-siapkan-ekspansi-hyperscale-data-center"
+ },
+ {
+  "slug": "tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang",
+  "category": "BUMN",
+  "title": "TJSL PLN [Berdayakan] Nelayan Kalsel dan Lulusan SMK Semarang",
+  "deck": "Program TJSL PLN mendampingi nelayan Kotabaru membudidayakan kepiting soka bernilai tinggi, sekaligus melatih ratusan lulusan SMK Semarang untuk bekerja di industri tekstil dan alas kaki.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang.jpg",
+  "imageV": "mssk7myn",
+  "tags": [
+   "PLN",
+   "TJSL PLN",
+   "Desa Berdaya",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459823-cerita-perubahan-dari-berbagai-daerah-program-tjsl-pln-hadirkan-manfaat-bagi-masyarakat-dan-lingkungan"
  },
  {
   "slug": "ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi",
@@ -71,6 +172,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4e24998f5e_141617bfcc.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
+  "category": "Makroekonomi",
+  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
+  "imageV": "mssk7nnn",
+  "tags": [
+   "swasembada pangan",
+   "harga pupuk",
+   "Pupuk Indonesia",
+   "B50"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/459815-prabowo-klaim-swasembada-pangan-tembus-target-harga-pupuk-turun-20-persen-hingga-b50-bebaskan-ri-dari-impor-solar"
  },
  {
   "slug": "truk-gelar-public-expose-usai-saham-melonjak-25-persen",
@@ -409,13 +527,14 @@ var ARTICLES = [
   "deck": "Bank Indonesia mempertemukan 20 bank syariah dengan 51 korporasi untuk menjajaki pembiayaan ekspansi usaha, seiring pembiayaan syariah tumbuh 11,43 persen pada Juni 2026.",
   "date": "13 Agustus 2026",
   "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
-  "imageV": "msr79sar",
+  "imageV": "mssk87i5",
   "tags": [
    "pembiayaan syariah",
    "Bank Indonesia",
    "korporasi",
    "sukuk"
   ],
+  "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815626.aspx",
   "sourceLabel": "Bank Indonesia"
  },
@@ -1058,13 +1177,14 @@ var ARTICLES = [
   "deck": "Indeks harga properti residensial primer tumbuh 0,69 persen secara tahunan pada triwulan II 2026, sementara penjualan masih terkontraksi 2,36 persen meski membaik dari triwulan sebelumnya.",
   "date": "12 Agustus 2026",
   "image": "assets/img/harga-properti-primer-naik-tipis-penjualan-masih-kontraksi.jpg",
-  "imageV": "tjnkgt",
+  "imageV": "mssk8ive",
   "tags": [
    "properti residensial",
    "SHPR",
    "KPR",
    "Bank Indonesia"
   ],
+  "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815226.aspx",
   "sourceLabel": "Bank Indonesia"
  },
@@ -1075,13 +1195,14 @@ var ARTICLES = [
   "deck": "Pertumbuhan uang primer adjusted Bank Indonesia naik dari 13,8% menjadi 17,1% secara tahunan pada Juli 2026, ditopang kenaikan giro bank umum dan uang kartal.",
   "date": "12 Agustus 2026",
   "image": "assets/img/uang-primer-bi-percepat-ke-17-1-pada-juli-2026.jpg",
-  "imageV": "tjnkhe",
+  "imageV": "mssk8lg4",
   "tags": [
    "Bank Indonesia",
    "Uang Primer",
    "M0 Adjusted",
    "Likuiditas Perbankan"
   ],
+  "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815326.aspx",
   "sourceLabel": "Bank Indonesia"
  },
@@ -1092,13 +1213,14 @@ var ARTICLES = [
   "deck": "Indeks Keyakinan Konsumen BI turun tipis ke 116,8 pada Juli 2026, tapi masih di zona optimistis.",
   "date": "12 Agustus 2026",
   "image": "assets/img/keyakinan-konsumen-juli-melambat-tapi-masih-optimistis.jpg",
-  "imageV": "tjnki3",
+  "imageV": "mssk9a3i",
   "tags": [
    "Bank Indonesia",
    "Indeks Keyakinan Konsumen",
    "daya beli",
    "survei konsumen"
   ],
+  "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815426.aspx",
   "sourceLabel": "Bank Indonesia"
  },
@@ -1109,13 +1231,14 @@ var ARTICLES = [
   "deck": "Bank Indonesia memperkirakan penjualan eceran Juli 2026 tumbuh 0,9 persen secara tahunan, meski turun tipis secara bulanan akibat normalisasi permintaan pasca libur panjang.",
   "date": "12 Agustus 2026",
   "image": "assets/img/penjualan-eceran-juli-2026-diproyeksikan-naik-0-9-persen.jpg",
-  "imageV": "tjnkiz",
+  "imageV": "mssk9emn",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
    "inflasi",
    "konsumsi rumah tangga"
   ],
+  "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815526.aspx",
   "sourceLabel": "Bank Indonesia"
  },

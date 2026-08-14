@@ -487,6 +487,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459457-purbaya-luruskan-isu-rumah-kontrakan-akan-kena-pajak-tahun-depan-kalau-ada-income-itu-kan-biasa"
  },
  {
+  "slug": "pbsa-rencanakan-pemecahan-saham-rupslb-18-september",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Rencanakan [Pemecahan Saham], RUPSLB 18 September",
+  "deck": "PBSA mengajukan rencana pemecahan saham, akan dimintakan persetujuan RUPSLB pada 18 September 2026 untuk menurunkan harga saham dan mendorong likuiditas perdagangan.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/pbsa-rencanakan-pemecahan-saham-rupslb-18-september.jpg",
+  "imageV": "mss8ez98",
+  "tags": [
+   "PBSA",
+   "pemecahan saham",
+   "RUPSLB",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/acdcb254db_ef798ffdf6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini",
   "category": "Makroekonomi",
   "title": "Purbaya: Untung [Danantara] Bakal Masuk APBN Tahun Ini",
@@ -519,6 +536,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459443-ihsg-melejit-169-persen-jelang-pengumuman-msci-saham-infrastruktur-paling-cuan"
+ },
+ {
+  "slug": "csis-direksi-tambah-saham-467-800-lembar",
+  "category": "Aksi Korporasi",
+  "title": "CSIS: Direksi [Tambah] Saham 467.800 Lembar",
+  "deck": "Direksi CSIS Tjoea Aubintoro menambah 467.800 saham lewat tiga transaksi pada 12 Agustus 2026, hak suaranya naik dari 0,44% jadi 0,46%.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/csis-direksi-tambah-saham-467-800-lembar.jpg",
+  "imageV": "mss8fge4",
+  "tags": [
+   "CSIS",
+   "kepemilikan saham",
+   "direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-0386-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-perkenalkan-aicosystem-di-dti-cx-2026",
@@ -604,6 +638,108 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459394-dpr-ingatkan-menag-hati-hati-soal-dana-wakaf-masjid-istiqlal-masuk-pasar-modal"
+ },
+ {
+  "slug": "supa-direksi-kantongi-10-juta-saham-program-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Kantongi [10 Juta] Saham Program Kepemilikan",
+  "deck": "Direktur Superbank Marsahala Siahaan tercatat memperoleh 10 juta saham lewat program kepemilikan saham dari prospektus IPO, hak suaranya naik dari 0% menjadi 0,03%.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/supa-direksi-kantongi-10-juta-saham-program-kepemilikan.jpg",
+  "imageV": "mss8ftta",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-5260-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supa-direksi-terima-7-juta-saham-dari-program-insentif-ipo",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Terima [7 Juta] Saham dari Program Insentif IPO",
+  "deck": "Direksi Superbank asal India menambah kepemilikan dari nol menjadi 7 juta saham lewat program insentif yang tercantum dalam prospektus IPO, mengubah hak suaranya menjadi 0,02 persen.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/supa-direksi-terima-7-juta-saham-dari-program-insentif-ipo.jpg",
+  "imageV": "mss8gcd2",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-6539-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supa-direksi-sukiwan-kantongi-7-juta-saham-program-insentif",
+  "category": "Aksi Korporasi",
+  "title": "[SUPA] Direksi Sukiwan Kantongi 7 Juta Saham Program Insentif",
+  "deck": "Direksi Superbank Sukiwan menerima 7 juta saham lewat program kepemilikan saham dari prospektus IPO, harga nominal Rp1 per saham.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/supa-direksi-sukiwan-kantongi-7-juta-saham-program-insentif.jpg",
+  "imageV": "mss8gq3t",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-2431-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supa-direksi-amalia-terima-7-juta-saham-program-insentif",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Amalia Terima 7 Juta Saham [Program Insentif]",
+  "deck": "Direksi Superbank Amalia Pratantara menerima 7 juta saham lewat program kepemilikan saham sesuai prospektus IPO, hak suaranya naik tipis ke 0,02 persen.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/supa-direksi-amalia-terima-7-juta-saham-program-insentif.jpg",
+  "imageV": "mss8hcro",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-1773-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supa-direksi-peroleh-7-juta-saham-dari-program-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Peroleh 7 Juta Saham dari Program [Kepemilikan]",
+  "deck": "Direksi Superbank, Melisa Hendrawati, kini memiliki 7 juta saham SUPA lewat program kepemilikan saham yang dijanjikan sejak prospektus IPO.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/supa-direksi-peroleh-7-juta-saham-dari-program-kepemilikan.jpg",
+  "imageV": "mss8hxi4",
+  "tags": [
+   "SUPA",
+   "Superbank",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-3645-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ayls-pindah-alamat-kantor-ke-kuningan-jakarta-selatan",
+  "category": "Aksi Korporasi",
+  "title": "AYLS [Pindah] Alamat Kantor ke Kuningan, Jakarta Selatan",
+  "deck": "AYLS memindahkan kantor pusat dari Menteng ke Menara Global, Kuningan, sekaligus memperbarui logo, e-mail, dan situs web perusahaan efektif 23 Juli 2026.",
+  "date": "12 Agustus 2026",
+  "image": "assets/img/ayls-pindah-alamat-kantor-ke-kuningan-jakarta-selatan.jpg",
+  "imageV": "mss8iael",
+  "tags": [
+   "AYLS",
+   "Arkayana Lestari Grup",
+   "perubahan alamat",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3d091f319_d2de9b5ed2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "destry-damayanti-calon-tunggal-gubernur-bi-dpr-segera-bahas",

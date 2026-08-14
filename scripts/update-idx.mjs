@@ -4,7 +4,7 @@
 // jadwal sendiri, dan kalau salah satu bermasalah yang lain tetap jalan.
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, readData, writeData , keWaktu } from './lib.mjs';
+import { ROOT, log, readData, writeData, keWaktu, punyaAlat, alatLuar } from './lib.mjs';
 import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKepemilikan } from './fetch-idx.mjs';
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
@@ -17,6 +17,30 @@ const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 400);
 async function main() {
   log('=== The Signal: keterbukaan informasi IDX (model: ' + MODEL + ') ===');
 
+  // Alat diperiksa DI DEPAN, sebelum satu pun laporan diunduh.
+  //
+  // Lampiran keterbukaan informasi seluruhnya PDF, jadi tanpa pdftotext tidak
+  // ada satu pun laporan yang bisa dibaca dan seluruh putaran pasti nihil.
+  // Sebelumnya hal itu baru ketahuan satu per satu di tengah jalan, sebagai
+  // deretan pesan "lampiran gagal dibaca", lalu putaran berakhir dengan
+  // kalimat "tidak ada aksi korporasi baru yang layak diberitakan" dan kode
+  // keluar 0. Task Scheduler membacanya sebagai sukses.
+  //
+  // Akibatnya kanal ini mati tiga hari penuh, 11 sampai 13 Agustus 2026, tanpa
+  // satu pun tanda bahaya. Yang menyadarinya pemilik situs, karena melihat
+  // beritanya tidak berganti. Sekarang keadaan itu berhenti di sini, dengan
+  // kode keluar bukan nol supaya penjadwal ikut menandainya merah.
+  if (!punyaAlat('pdftotext')) {
+    log('FATAL: pdftotext tidak ditemukan.');
+    log('       Seluruh lampiran IDX berupa PDF, jadi tanpa alat ini putaran');
+    log('       ini pasti nihil. Dihentikan supaya kegagalannya terlihat, bukan');
+    log('       tersamar jadi "tidak ada berita baru".');
+    log('       Di Windows biasanya ikut Git: C:\\Program Files\\Git\\mingw64\\bin');
+    log('       Di Linux: sudo apt-get install -y poppler-utils');
+    process.exit(1);
+  }
+  log('pdftotext: ' + alatLuar('pdftotext'));
+
   const artikelLama = readData('articles.js', 'ARTICLES');
   log('arsip saat ini: ' + artikelLama.length + ' artikel');
 
@@ -27,7 +51,15 @@ async function main() {
     .filter(a => a.emiten)
     .map(a => a.emiten + '|' + String(a.title).replace(/[\[\]]/g, '').toLowerCase()));
 
-  const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT }))
+  // Jendela hari bisa dilebarkan lewat SIGNAL_IDX_HARI. Bawaannya 1 karena
+  // putaran normal tiap 2 jam cuma perlu menyusul beberapa jam terakhir, tapi
+  // setelah kanal ini sempat mati beberapa hari, satu putaran susulan dengan
+  // jendela lebar jauh lebih murah daripada menunggu arsipnya lengkap sendiri
+  // (yang tidak akan pernah terjadi, karena jendela sempit tidak pernah
+  // menengok ke belakang).
+  const HARI = Number(process.env.SIGNAL_IDX_HARI || 1);
+  if (HARI > 1) log('jendela diperlebar: ' + HARI + ' hari ke belakang');
+  const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT, hariKeBelakang: HARI }))
     .filter(k => !k.lampiran || !sumberAda.has(k.lampiran));
 
   log('kandidat setelah buang yang sudah ada: ' + kandidat.length);

@@ -1,5 +1,6 @@
-// Rangkuman editorial The Signal dari tvOneNews.com/ekonomi. Bukan salinan artikel asli.
-// Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
+// Rangkuman editorial The Signal. Berita dari tvOneNews.com/ekonomi,
+// aksi korporasi dari keterbukaan informasi IDX. Bukan salinan sumber asli.
+// Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
   "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
@@ -757,6 +758,33 @@ var ARTICLES = [
   "imageV": "tjop85"
  },
  {
+  "slug": "pbsa-rencanakan-pemecahan-saham-rupslb-18-september",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Rencanakan [Pemecahan Saham], RUPSLB 18 September",
+  "deck": "PBSA mengajukan rencana pemecahan saham, akan dimintakan persetujuan RUPSLB pada 18 September 2026 untuk menurunkan harga saham dan mendorong likuiditas perdagangan.",
+  "image": "assets/img/pbsa-rencanakan-pemecahan-saham-rupslb-18-september.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T18:11:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/acdcb254db_ef798ffdf6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBSA",
+  "tags": [
+   "PBSA",
+   "pemecahan saham",
+   "RUPSLB",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Paramita Bangun Sarana Tbk (PBSA) mengumumkan rencana pemecahan saham (stock split) atas saham yang telah ditempatkan dan tercatat di Bursa Efek Indonesia. Keterbukaan informasi ini disampaikan pada 12 Agustus 2026 dan ditandatangani secara elektronik oleh Direktur Utama Vincentius Susanto.",
+   "Rencana pemecahan saham baru bisa dijalankan setelah mendapat persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 18 September 2026. Perseroan menjadikan Peraturan OJK Nomor 15/2022 tentang pemecahan dan penggabungan saham, serta Surat Keputusan Direksi BEI Nomor KEP-00044/BEI/04-2024, sebagai dasar aksi ini. Dalam dokumen keterbukaan yang diterbitkan, PBSA belum mencantumkan rasio pemecahan saham yang diusulkan, karena rincian itu dijanjikan akan dijelaskan dalam Formulir E019 yang menjadi lampiran rencana tersebut.",
+   "Perseroan menyebut opsi pemecahan saham ini dipertimbangkan untuk meningkatkan keterjangkauan harga saham bagi investor sekaligus mendukung peningkatan likuiditas perdagangan saham PBSA di bursa. Dalam laporan itu, Perseroan menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat rencana ini."
+  ],
+  "fotoAdegan": "Construction workers checking structural blueprints at a building site, cranes visible in the background, late afternoon light.",
+  "takeaway": "Pemecahan saham adalah aksi memecah tiap lembar saham lama menjadi beberapa lembar baru dengan harga per lembar yang lebih murah, tanpa mengubah nilai total kepemilikan investor maupun struktur modal perusahaan. Yang berubah hanya jumlah saham beredar dan harga nominal per saham, sehingga laba per saham otomatis menyesuaikan turun sebanding dengan rasio pemecahan, sementara aset, utang, dan laba perusahaan tidak tersentuh sama sekali. Karena rencana ini masih menunggu persetujuan RUPSLB dan belum disertai rincian rasio pemecahan atau dampak keuangan konkret, penilaiannya bagi fundamental PBSA adalah netral. Tujuan yang disebutkan Perseroan, yaitu memperluas keterjangkauan harga saham dan mendorong likuiditas perdagangan, memang lazim menyertai stock split, tetapi tidak mengubah kinerja operasional maupun kondisi keuangan Perseroan secara langsung.",
+  "sentimen": "netral",
+  "imageV": "mss8ez98"
+ },
+ {
   "slug": "purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini",
   "category": "Makroekonomi",
   "title": "Purbaya: Untung [Danantara] Bakal Masuk APBN Tahun Ini",
@@ -807,6 +835,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Penguatan 1,69 persen ini terjadi tepat sebelum MSCI mengumumkan hasil peninjauan berkala indeksnya untuk Agustus 2026, dan kenaikannya tidak merata: sektor infrastruktur melonjak 4,74 persen dan energi 3,35 persen, jauh di atas kenaikan pasar secara umum. Pola seperti ini lazim terjadi menjelang pengumuman MSCI, sebab banyak dana investasi global mengikuti komposisi indeks itu secara otomatis, sehingga begitu ada dugaan saham tertentu akan dimasukkan, uang asing cenderung masuk lebih dulu sebelum keputusan resmi keluar. Pihak yang paling terdampak adalah investor dan emiten di sektor infrastruktur serta energi, karena merekalah yang paling diuntungkan bila spekulasi itu benar dan paling rawan terkoreksi bila meleset. Pergerakan hari ini lebih tepat dibaca sebagai posisi ancang-ancang pasar, bukan kepastian bahwa sektor tersebut akan masuk revisi, dan yang akan menegaskan arahnya adalah pengumuman resmi MSCI berikut reaksi pasar begitu hasilnya diumumkan.",
   "imageV": "tjop87"
+ },
+ {
+  "slug": "csis-direksi-tambah-saham-467-800-lembar",
+  "category": "Aksi Korporasi",
+  "title": "CSIS: Direksi [Tambah] Saham 467.800 Lembar",
+  "deck": "Direksi CSIS Tjoea Aubintoro menambah 467.800 saham lewat tiga transaksi pada 12 Agustus 2026, hak suaranya naik dari 0,44% jadi 0,46%.",
+  "image": "assets/img/csis-direksi-tambah-saham-467-800-lembar.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T16:50:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-0386-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "kepemilikan saham",
+   "direksi",
+   "OJK"
+  ],
+  "body": [
+   "Tjoea Aubintoro, anggota direksi PT Cahayasakti Investindo Sukses Tbk (CSIS), melaporkan penambahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 12 Agustus 2026. Berdasarkan laporan tersebut, jumlah saham CSIS yang ia pegang bertambah dari 8.032.600 lembar menjadi 8.500.400 lembar, atau naik 467.800 lembar. Dengan tambahan ini, porsi hak suaranya di CSIS naik dari 0,44 persen menjadi 0,46 persen dari total saham perusahaan.",
+   "Penambahan itu dilakukan lewat tiga transaksi pembelian tidak langsung pada tanggal yang sama, semuanya untuk tujuan investasi dan berbentuk repurchase agreement, yaitu pembelian saham dengan perjanjian jual kembali di kemudian hari. Rinciannya adalah 202.600 saham biasa di harga Rp197 per saham, 700 saham biasa di harga Rp199 per saham, dan 264.500 saham biasa di harga Rp198 per saham. Ketiganya menyerap dana sekitar Rp92,4 juta.",
+   "Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempatnya menjabat."
+  ],
+  "fotoAdegan": "A businessman's hands sorting small stacks of rupiah coins on a wooden office desk near a window, soft morning light",
+  "takeaway": "Ini laporan wajib seorang direksi CSIS soal penambahan kepemilikan sahamnya sendiri di pasar sekunder, bukan penerbitan saham baru oleh perusahaan. Karena transaksinya terjadi di pasar sekunder, tidak ada dana yang masuk ke kas CSIS dan jumlah saham beredar perusahaan pun tidak berubah, yang bergeser hanya komposisi pemilik saham yang sudah ada. Kenaikan hak suara pelapor pun sangat tipis, hanya 0,02 poin persentase dari total saham perusahaan meski dari sisi kepemilikan pribadinya sendiri naik sekitar 5,8 persen, sehingga besarannya belum cukup untuk dibaca sebagai sinyal kuat dari manajemen. Laporan ini dinilai netral bagi fundamental CSIS, karena tidak menyentuh struktur permodalan atau kinerja keuangan perusahaan dan skalanya masih terlalu kecil untuk ditafsirkan sebagai pernyataan sikap.",
+  "sentimen": "netral",
+  "imageV": "mss8fge4"
  },
  {
   "slug": "telkom-perkenalkan-aicosystem-di-dti-cx-2026",
@@ -940,6 +995,165 @@ var ARTICLES = [
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/09/6896cdc3aee8e-ilustrasi-masjid-istiqlal_1200_675.jpg",
   "kreditFoto": "tvOneNews",
   "imageV": "tjnrqp"
+ },
+ {
+  "slug": "supa-direksi-kantongi-10-juta-saham-program-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Kantongi [10 Juta] Saham Program Kepemilikan",
+  "deck": "Direktur Superbank Marsahala Siahaan tercatat memperoleh 10 juta saham lewat program kepemilikan saham dari prospektus IPO, hak suaranya naik dari 0% menjadi 0,03%.",
+  "image": "assets/img/supa-direksi-kantongi-10-juta-saham-program-kepemilikan.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:56:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-5260-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Super Bank Indonesia Tbk (SUPA) menyampaikan laporan kepemilikan saham atas nama Marsahala Siahaan, yang menjabat sebagai anggota Direksi perseroan. Berdasarkan laporan yang diterima Otoritas Jasa Keuangan pada 12 Agustus 2026, jumlah saham yang dimilikinya bertambah dari nol menjadi 10.000.000 lembar saham biasa, sehingga hak suaranya di perseroan berubah dari 0,00 persen menjadi 0,03 persen.",
+   "Penambahan saham ini tercatat sebagai transaksi pembelian tidak langsung dengan harga Rp1,00 per saham pada tanggal 12 Agustus 2026. Dalam laporan disebutkan bahwa perolehan saham ini merupakan bagian dari Program Kepemilikan Saham sebagaimana tercantum dalam Prospektus Penawaran Umum Perdana Saham Superbank, yang menurut dokumen tersebut dijalankan sebagai bagian dari strategi perseroan untuk mendorong kinerja jangka panjang."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass-fronted bank office building exterior in Jakarta, professionals walking in the plaza during morning hours.",
+  "takeaway": "Transaksi ini adalah pelaksanaan program pemberian saham kepada direksi yang sudah diumumkan sejak prospektus IPO Superbank, bukan pembelian di pasar terbuka, terlihat dari harganya yang hanya Rp1 per saham. Yang tersentuh adalah jumlah saham beredar perseroan, meski dalam skala sangat kecil, dan biasanya pelaku pasar mencermati program semacam ini karena bisa mengikat kepentingan manajemen dengan kinerja jangka panjang perusahaan. Penilaian kami netral, karena tambahan kepemilikan ini hanya mengubah hak suara Marsahala Siahaan dari 0 persen menjadi 0,03 persen, porsi yang terlalu kecil untuk dibaca sebagai sinyal keyakinan manajemen terhadap saham perseroan, dan harganya yang nominal menunjukkan ini eksekusi program yang sudah direncanakan, bukan keputusan investasi baru.",
+  "sentimen": "netral",
+  "imageV": "mss8ftta"
+ },
+ {
+  "slug": "supa-direksi-terima-7-juta-saham-dari-program-insentif-ipo",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Terima [7 Juta] Saham dari Program Insentif IPO",
+  "deck": "Direksi Superbank asal India menambah kepemilikan dari nol menjadi 7 juta saham lewat program insentif yang tercantum dalam prospektus IPO, mengubah hak suaranya menjadi 0,02 persen.",
+  "image": "assets/img/supa-direksi-terima-7-juta-saham-dari-program-insentif-ipo.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:51:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-6539-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Bhavana Balramdas Vatvani, direksi PT Super Bank Indonesia Tbk (SUPA) yang berkewarganegaraan asing, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan berubah dari nol menjadi 7.000.000 lembar saham per 12 Agustus 2026. Perubahan ini membuat hak suaranya di perseroan naik dari 0,00 persen menjadi 0,02 persen.",
+   "Berdasarkan laporan yang disampaikan, penambahan saham tersebut berasal dari pembelian tidak langsung dengan harga Rp1,00 per saham, dieksekusi pada tanggal yang sama, dengan status kepemilikan tercatat sebagai repurchase agreement. Perseroan menyebut tujuan transaksi ini adalah pelaksanaan Program Kepemilikan Saham yang sebelumnya sudah diungkapkan dalam Prospektus Penawaran Umum Perdana Saham Superbank, sebagai bagian dari strategi mendorong kinerja jangka panjang perusahaan."
+  ],
+  "fotoAdegan": "Wide interior shot of a contemporary bank branch lobby with employees walking past glass partitions under soft morning light.",
+  "takeaway": "Yang dilaporkan di sini bukan direksi membeli saham dari pasar bursa dengan uang pribadinya, melainkan penyerahan saham lewat program insentif kepemilikan yang memang sudah diumumkan sejak prospektus penawaran saham perdana Superbank. Harga eksekusinya hanya Rp1 per saham, jauh di bawah harga pasar, yang menandakan ini semacam bonus saham untuk manajemen, bukan transaksi jual beli biasa. Bagi perusahaan, program seperti ini menambah jumlah saham yang beredar dan biasanya tercatat sebagai beban kompensasi di laporan laba rugi, sehingga berpotensi sedikit menggerus laba bersih. Meski begitu, porsi yang diterima kali ini sangat kecil, hak suara sang direksi hanya naik menjadi 0,02 persen dari seluruh perseroan, sehingga dampaknya ke struktur pemegang saham nyaris tidak terasa. Karena ukurannya kecil dan memang sudah direncanakan sejak proses IPO, laporan ini bersifat netral dan tidak mencerminkan sikap direksi terhadap prospek sahamnya ke depan.",
+  "sentimen": "netral",
+  "imageV": "mss8gcd2"
+ },
+ {
+  "slug": "supa-direksi-sukiwan-kantongi-7-juta-saham-program-insentif",
+  "category": "Aksi Korporasi",
+  "title": "[SUPA] Direksi Sukiwan Kantongi 7 Juta Saham Program Insentif",
+  "deck": "Direksi Superbank Sukiwan menerima 7 juta saham lewat program kepemilikan saham dari prospektus IPO, harga nominal Rp1 per saham.",
+  "image": "assets/img/supa-direksi-sukiwan-kantongi-7-juta-saham-program-insentif.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:47:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-2431-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Sukiwan, anggota Direksi PT Super Bank Indonesia Tbk (SUPA), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan bertambah dari 0 lembar menjadi 7.000.000 lembar saham biasa. Transaksi tercatat pada 12 Agustus 2026 dengan jenis pembelian tidak langsung dan harga Rp1,00 per saham.",
+   "Dalam laporan tersebut disebutkan bahwa perolehan saham ini merupakan bagian dari Program Kepemilikan Saham sebagaimana tercantum dalam Prospektus Penawaran Umum Perdana Saham Superbank, yang menurut dokumen dilakukan sebagai bagian dari strategi perseroan untuk mendorong kinerja jangka panjang. Akibat transaksi ini, hak suara Sukiwan di SUPA berubah dari 0,00% menjadi 0,02%.",
+   "Laporan disampaikan sesuai kewajiban dalam POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, dan pemegang saham utama melaporkan setiap perubahan kepemilikan saham emiten kepada OJK."
+  ],
+  "fotoAdegan": "Employees walking through a modern glass office lobby in a Jakarta business district on a busy weekday morning",
+  "takeaway": "Ini adalah laporan wajib ke OJK karena seorang direksi memperoleh saham perusahaan tempat dia bekerja, dan berdasarkan dokumen perolehan itu berasal dari program insentif saham manajemen yang sudah dijanjikan sejak prospektus IPO Superbank, bukan pembelian tunai penuh di pasar karena harganya cuma Rp1 per saham. Dari sisi kinerja perusahaan, tambahan 7 juta saham ini hanya menggeser hak suara Sukiwan dari 0,00% menjadi 0,02%, porsi yang sangat kecil sehingga dampaknya ke jumlah saham beredar dan laba per saham perseroan praktis tidak terasa. Transaksi ini juga tidak mendatangkan dana segar bagi perusahaan maupun mengurangi bebannya, karena sifatnya cuma soal siapa memegang berapa saham. Penilaian redaksi: netral, sebab ukuran tambahan kepemilikan ini terlalu kecil untuk dibaca sebagai sinyal keyakinan atau kekhawatiran direksi terhadap prospek Superbank, meski laporan ini tetap penting sebagai bagian dari transparansi kepemilikan saham kepada pemegang saham publik.",
+  "sentimen": "netral",
+  "imageV": "mss8gq3t"
+ },
+ {
+  "slug": "supa-direksi-amalia-terima-7-juta-saham-program-insentif",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Amalia Terima 7 Juta Saham [Program Insentif]",
+  "deck": "Direksi Superbank Amalia Pratantara menerima 7 juta saham lewat program kepemilikan saham sesuai prospektus IPO, hak suaranya naik tipis ke 0,02 persen.",
+  "image": "assets/img/supa-direksi-amalia-terima-7-juta-saham-program-insentif.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:45:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-1773-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "Super Bank Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "PT Super Bank Indonesia Tbk (SUPA) melaporkan perubahan kepemilikan saham anggota direksinya, Amalia Pratantara, kepada Otoritas Jasa Keuangan pada 12 Agustus 2026. Jumlah saham yang dimilikinya secara tidak langsung bertambah dari nol menjadi 7.000.000 lembar saham biasa. Perubahan ini turut mengerek hak suaranya di perusahaan dari 0,00 persen menjadi 0,02 persen.",
+   "Berdasarkan dokumen, transaksi tercatat sebagai pembelian tidak langsung dengan harga Rp1 per saham pada 12 Agustus 2026. Harga ini jauh di bawah harga pasar wajar, menandakan saham tersebut diperoleh bukan lewat pembelian di bursa dengan uang pribadi, melainkan sebagai bagian dari Program Kepemilikan Saham yang memang sudah dijanjikan dalam prospektus penawaran umum perdana (IPO) Superbank. Perseroan menyebut program ini sebagai bagian dari strategi mendorong kinerja jangka panjang perusahaan."
+  ],
+  "fotoAdegan": "Bank employees in formal attire walking through a modern glass-walled office lobby, soft morning light, wide angle",
+  "takeaway": "Yang terjadi di sini adalah eksekusi program kepemilikan saham untuk direksi yang sudah diumumkan sejak IPO Superbank, bukan pembelian saham di pasar terbuka oleh direksi dengan harga pasar. Yang tersentuh adalah jumlah saham beredar dan hak suara pemegang saham lain, karena saham yang dilepas lewat program semacam ini berpotensi menambah jumlah saham beredar sehingga laba per saham bisa sedikit terdilusi. Secara fundamental, laporan ini netral bagi Superbank karena 7 juta saham itu hanya setara 0,02 persen hak suara, terlalu kecil untuk mengubah peta kendali perusahaan, dan programnya sendiri sudah tercantum di prospektus IPO sehingga bukan kabar baru. Pembaca juga perlu tahu bahwa harga Rp1 per saham menunjukkan ini insentif kepegawaian, bukan sinyal keyakinan direksi terhadap harga saham di pasar.",
+  "sentimen": "netral",
+  "imageV": "mss8hcro"
+ },
+ {
+  "slug": "supa-direksi-peroleh-7-juta-saham-dari-program-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "SUPA: Direksi Peroleh 7 Juta Saham dari Program [Kepemilikan]",
+  "deck": "Direksi Superbank, Melisa Hendrawati, kini memiliki 7 juta saham SUPA lewat program kepemilikan saham yang dijanjikan sejak prospektus IPO.",
+  "image": "assets/img/supa-direksi-peroleh-7-juta-saham-dari-program-kepemilikan.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:42:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-12082026-3645-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "Superbank",
+   "direksi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Melisa Hendrawati, anggota direksi PT Super Bank Indonesia Tbk (SUPA), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan bertambah dari nol menjadi 7.000.000 lembar saham. Laporan bertanggal 12 Agustus 2026 itu disampaikan sesuai kewajiban keterbukaan bagi direksi dan komisaris emiten.",
+   "Penambahan saham ini berasal dari transaksi pembelian tidak langsung dengan harga Rp1 per lembar, sehingga nilai transaksinya sekitar Rp7 juta. Saham tersebut diperoleh lewat Program Kepemilikan Saham yang sudah dicantumkan dalam prospektus penawaran umum perdana (IPO) Superbank, sebagai bagian dari strategi perusahaan untuk mendorong kinerja jangka panjang manajemen. Dengan tambahan ini, hak suara Melisa di Superbank naik dari 0,00% menjadi 0,02%.",
+   "Laporan ini merupakan bagian dari kewajiban pengungkapan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "A businesswoman in formal office attire walking through a modern bank lobby with glass walls, soft morning light",
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan setiap kali direksi atau komisaris menambah atau mengurangi kepemilikan saham di perusahaannya sendiri, dan dalam kasus ini Melisa Hendrawati mendapat 7 juta lembar saham SUPA lewat program kepemilikan saham yang memang sudah dijanjikan sejak prospektus IPO Superbank. Yang tersentuh dari sisi kinerja perusahaan hanyalah struktur kepemilikan dan hak suara direksi, bukan kas, laba, atau utang perusahaan, karena ini transaksi antar pemegang saham, bukan aksi korporasi yang memengaruhi neraca. Hak suara Melisa memang naik dari 0,00% menjadi 0,02%, tapi angka itu sangat kecil dibanding total saham Superbank yang beredar. Penilaian kami netral, sebab ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan, dan transaksinya bersifat administratif mengikuti jadwal program kepemilikan saham yang sudah ditetapkan sejak IPO, bukan keputusan membeli atau menjual di pasar terbuka.",
+  "sentimen": "netral",
+  "imageV": "mss8hxi4"
+ },
+ {
+  "slug": "ayls-pindah-alamat-kantor-ke-kuningan-jakarta-selatan",
+  "category": "Aksi Korporasi",
+  "title": "AYLS [Pindah] Alamat Kantor ke Kuningan, Jakarta Selatan",
+  "deck": "AYLS memindahkan kantor pusat dari Menteng ke Menara Global, Kuningan, sekaligus memperbarui logo, e-mail, dan situs web perusahaan efektif 23 Juli 2026.",
+  "image": "assets/img/ayls-pindah-alamat-kantor-ke-kuningan-jakarta-selatan.jpg",
+  "date": "12 Agustus 2026",
+  "isoDate": "2026-08-12T14:40:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3d091f319_d2de9b5ed2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AYLS",
+  "tags": [
+   "AYLS",
+   "Arkayana Lestari Grup",
+   "perubahan alamat",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Arkayana Lestari Grup Tbk (AYLS) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perseroan resmi memindahkan kantor pusatnya, efektif 23 Juli 2026. Alamat lama di Gedung Gondangdia Lama 25 Lantai 3 R 1B-1C, Jalan RP Soeroso No. 25, Menteng, Jakarta Pusat, digantikan alamat baru di Menara Global Lantai 9 Unit 9B, Jalan Jenderal Gatot Subroto Kavling 27, Kuningan Timur, Setiabudi, Jakarta Selatan. Nomor telepon dan faksimile perusahaan berubah dari 021-3918838 menjadi 021-5270478, alamat surel dari corpsec@agroyasalestari.com menjadi corpsec@arkayanalestarigrup.com, serta situs web dari www.agroyasalestari.com menjadi www.arkayanalestarigrup.com. Nomor Pokok Wajib Pajak perusahaan, yaitu nomor identitas untuk urusan pajak, juga diperbarui ke format 16 digit menjadi 0029 3857 7007 1000. Surat pemberitahuan ditandatangani Direktur Utama Yang Chuan pada 12 Agustus 2026.",
+   "Dalam surat lampiran bertanggal 23 Juli 2026, perseroan menjelaskan bahwa perubahan alamat ini telah disetujui pemegang saham dalam Rapat Umum Pemegang Saham Tahunan pada 30 Juni 2026, dan dituangkan dalam Akta Notaris Nomor 20 dengan tanggal yang sama. Persetujuan tersebut sudah disahkan Kementerian Hukum dan Hak Asasi Manusia melalui Surat Keputusan Nomor AHU-0157475.AH.01.11.TAHUN 2026 tertanggal 10 Juli 2026. Bersamaan dengan kepindahan kantor, perseroan juga memperbarui logo, kop surat, dan stempel perusahaan.",
+   "Dokumen ini juga menunjukkan bahwa alamat surel dan situs web lama perseroan masih memakai nama 'agroyasalestari', berbeda dari nama resmi perseroan saat ini, PT Arkayana Lestari Grup Tbk. Pergantian ke domain 'arkayanalestarigrup' pada surel dan situs web baru menandakan proses penyesuaian identitas perusahaan turut dirampungkan bersamaan dengan kepindahan kantor ini."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in a busy Jakarta business district, pedestrians walking below in morning light",
+  "takeaway": "Laporan ini adalah kewajiban keterbukaan informasi rutin ketika perusahaan tercatat mengubah data kontak resminya, seperti alamat, telepon, e-mail, situs web, dan nomor pajak, supaya investor dan otoritas tahu ke mana harus mengirim surat atau dokumen resmi ke perseroan. Perubahan semacam ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena sifatnya administratif dan tidak melibatkan pergerakan uang, saham, maupun utang. Secara fundamental, laporan ini netral bagi AYLS karena tidak ada dana masuk atau keluar dan jumlah saham beredar tidak berubah. Yang perlu dicatat investor hanyalah pembaruan alamat korespondensi dan identitas digital perusahaan, bukan sinyal tentang kondisi bisnisnya.",
+  "sentimen": "netral",
+  "imageV": "mss8iael"
  },
  {
   "slug": "destry-damayanti-calon-tunggal-gubernur-bi-dpr-segera-bahas",

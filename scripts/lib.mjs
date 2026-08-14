@@ -34,6 +34,80 @@ export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 export function log(...a) { console.log('[' + new Date().toISOString().slice(11, 19) + ']', ...a); }
 
+// ---------- pencari alat luar ----------
+//
+// Pipeline ini memanggil empat program di luar Node: curl, ffmpeg, pdftotext,
+// dan higgsfield. Semuanya dicari lewat PATH, dan PATH itu BERBEDA-BEDA
+// tergantung siapa yang menjalankan. Ketergantungan itu sudah dua kali
+// mematikan kanal secara diam-diam:
+//
+//   ffmpeg     tidak ada di runner ubuntu-latest, jadi selama berminggu-minggu
+//              tidak satu pun foto asli terunduh di cloud. Log putaran rusak
+//              terlihat sama persis dengan log putaran sehat.
+//   pdftotext  ADA di mesin ini, di C:\Program Files\Git\mingw64\bin, tapi
+//              folder itu TIDAK ada di PATH mesin maupun PATH pengguna. Jadi
+//              ketika dijalankan tangan dari Git Bash berhasil, sementara
+//              Task Scheduler yang memakai PATH sistem gagal. Kanal aksi
+//              korporasi mati tiga hari penuh dan tugasnya tetap melaporkan
+//              sukses karena skripnya keluar dengan kode 0.
+//
+// Pola kegagalannya sama: alat tidak ketemu, kode turun kelas tanpa suara.
+// Dua obatnya ada di sini. Pertama, pencarian tidak berhenti di PATH melainkan
+// ikut memeriksa tempat-tempat yang lazim di Windows. Kedua, ketiadaan alat
+// bisa ditanyakan lebih dulu lewat punyaAlat(), supaya pemanggil melaporkannya
+// sebagai kegagalan yang terlihat, bukan sebagai hasil kosong yang wajar.
+const CARI_DI = {
+  pdftotext: [
+    'C:/Program Files/Git/mingw64/bin/pdftotext.exe',
+    'C:/Program Files (x86)/Git/mingw64/bin/pdftotext.exe',
+    'C:/Program Files/poppler/bin/pdftotext.exe',
+    '/usr/bin/pdftotext',
+  ],
+  ffmpeg: [
+    'C:/Program Files/Git/mingw64/bin/ffmpeg.exe',
+    'C:/ffmpeg/bin/ffmpeg.exe',
+    '/usr/bin/ffmpeg',
+  ],
+};
+
+const _alat = new Map();
+
+export function alatLuar(nama) {
+  if (_alat.has(nama)) return _alat.get(nama);
+
+  let jalur = '';
+  // 1. PATH dulu. Kalau ada di sana, itu yang paling benar.
+  try {
+    const cek = process.platform === 'win32' ? 'where' : 'which';
+    const keluar = execFileSync(cek, [nama], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] });
+    jalur = String(keluar).split(/\r?\n/).find(b => b.trim()) || '';
+    jalur = jalur.trim();
+  } catch { /* tidak di PATH, lanjut ke tempat lazim */ }
+
+  // 2. Tempat-tempat lazim yang sering tidak masuk PATH.
+  if (!jalur) {
+    for (const kandidat of (CARI_DI[nama] || [])) {
+      if (fs.existsSync(kandidat)) { jalur = kandidat; break; }
+    }
+  }
+
+  _alat.set(nama, jalur);
+  return jalur;
+}
+
+export const punyaAlat = (nama) => Boolean(alatLuar(nama));
+
+// Dipakai saat alat itu WAJIB ada. Pesannya menyebutkan di mana saja sudah
+// dicari, supaya yang memperbaiki tidak perlu menebak.
+export function wajibAlat(nama) {
+  const jalur = alatLuar(nama);
+  if (jalur) return jalur;
+  throw new Error(
+    'Alat "' + nama + '" tidak ditemukan. Dicari di PATH dan di: ' +
+    (CARI_DI[nama] || []).join(', ') +
+    '. Pasang alatnya, atau tambahkan foldernya ke PATH sistem.');
+}
+
 // Cari foto utama sebuah halaman berita atau siaran pers.
 //
 // Foto asli JAUH lebih baik daripada ilustrasi AI: foto rapat Mendag dengan

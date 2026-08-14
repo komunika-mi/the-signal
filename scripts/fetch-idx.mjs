@@ -8,7 +8,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA } from './lib.mjs';
+import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat } from './lib.mjs';
 
 const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
 
@@ -195,7 +195,7 @@ export function ambilIsiLampiran(url, { maksKarakter = 6000, percobaan = 5, jeja
         }
 
         const ukuran = fs.statSync(tmp).size;
-        const mentah = execFileSync('pdftotext', ['-raw', '-enc', 'UTF-8', tmp, '-'],
+        const mentah = execFileSync(wajibAlat('pdftotext'), ['-raw', '-enc', 'UTF-8', tmp, '-'],
           { encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
 
         const teks = bersihkanTeksPdf(mentah, maksKarakter);

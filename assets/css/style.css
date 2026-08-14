@@ -894,3 +894,19 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 }
 .rapor-bukti { margin-top: .3rem; }
 .rapor-bukti a { font-weight: 600; color: var(--red-deep); }
+
+/* ---------- tombol kanal Telegram di footer (14 Agustus 2026) ----------
+   Corong distribusi kedua di samping email, jadi pantas punya tombol
+   sendiri, bukan menumpang daftar tautan. SENGAJA TIDAK ditaruh di kolom
+   "Ikuti tvOneNews": kanal itu milik The Signal, bukan tvOne, dan
+   mencampurnya membuat pembaca mengira sedang mengikuti akun tvOne. */
+.btn-telegram {
+  display: inline-flex; align-items: center; gap: .45rem;
+  margin-top: 1rem; padding: .5rem .95rem;
+  background: var(--dark); color: var(--page);
+  font-family: var(--sans); font-size: 12.5px; font-weight: 600;
+  border-radius: 999px; white-space: nowrap;
+  transition: background .15s ease;
+}
+.btn-telegram:hover { background: #229ED9; color: var(--page); }
+.btn-telegram svg { flex: none; }

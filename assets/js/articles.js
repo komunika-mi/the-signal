@@ -3,6 +3,221 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dmas-jadwalkan-rupslb-cum-date-saham-28-agustus",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Jadwalkan RUPSLB, [Cum Date] Saham 28 Agustus",
+  "deck": "Puradelta Lestari mengumumkan rencana RUPSLB pada 22 September 2026 di Cikarang. Pemegang saham yang tercatat per 28 Agustus 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/dmas-jadwalkan-rupslb-cum-date-saham-28-agustus.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T12:02:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8975b4331_1439a3e3a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "RUPSLB",
+   "Puradelta Lestari",
+   "Corporate Action"
+  ],
+  "body": [
+   "PT Puradelta Lestari Tbk (DMAS) menyampaikan surat Nomor 041/DMAS/IR-CS/VIII/2026, merujuk surat sebelumnya Nomor 040/DMAS/IR-CS/VIII/2026, yang mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Rapat dijadwalkan berlangsung pada Selasa, 22 September 2026 pukul 14.00 WIB, bertempat di Le Premier Hotel Kota Deltamas, Commercial Lot Sektor 1 No 6, Cikarang.",
+   "Perseroan menetapkan 28 Agustus 2026 sebagai tanggal Daftar Pemegang Saham (DPS). Artinya, hanya pihak yang namanya sudah tercatat sebagai pemegang saham DMAS per tanggal itu yang berhak hadir dan memberikan suara dalam RUPSLB tersebut. Investor yang baru membeli saham DMAS setelah 28 Agustus 2026 tidak akan memiliki hak suara pada rapat ini.",
+   "Surat pemberitahuan ini belum memuat rincian agenda RUPSLB. Dokumen ditandatangani oleh Tondy Suwanto selaku Sekretaris Perusahaan PT Puradelta Lestari Tbk, tertanggal 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Rows of chairs and small round tables being arranged in a hotel ballroom ahead of a corporate meeting, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi kinerja DMAS, karena isinya baru sebatas jadwal dan tanggal pencatatan pemegang saham, sementara agenda RUPSLB yang sebenarnya belum diungkapkan sehingga belum ada yang bisa dinilai dampaknya. RUPS biasanya menjadi forum yang bisa mengubah pos-pos penting seperti pembagian dividen, komposisi pengurus, atau bahkan jumlah saham beredar, tapi karena agenda belum tercantum di sini, pemegang saham belum bisa menilai apakah keputusan nanti menguntungkan atau merugikan. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB yang biasanya terbit menjelang atau setelah tanggal pencatatan 28 Agustus 2026, karena di situlah agenda lengkap rapat baru akan diumumkan, sebelum pelaksanaan rapat itu sendiri pada 22 September 2026.",
+  "sentimen": "netral",
+  "imageV": "mssj25oh"
+ },
+ {
+  "slug": "ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi",
+  "category": "Aksi Korporasi",
+  "title": "GGRM Tambah [Modal] Rp200 Miliar ke Afiliasi SDHI",
+  "deck": "Gudang Garam menyuntik modal Rp200 miliar ke PT Surya Dhoho Investama lewat penerbitan 200.000 saham baru, dicatat sebagai transaksi afiliasi karena hubungan pengendalian dan kepemilikan.",
+  "image": "assets/img/ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T11:04:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c91e6c3e8_05bc4a7c06.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GGRM",
+  "tags": [
+   "GGRM",
+   "transaksi afiliasi",
+   "Surya Dhoho Investama",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Gudang Garam Tbk (GGRM) melaporkan transaksi afiliasi kepada Bursa Efek Indonesia pada 14 Agustus 2026. Isinya adalah penambahan modal ke PT Surya Dhoho Investama (SDHI) senilai Rp200 miliar, yang diwujudkan lewat penerbitan 200.000 saham baru SDHI yang seluruhnya diambil oleh Gudang Garam.",
+   "Transaksi ini masuk kategori transaksi afiliasi karena Gudang Garam memiliki hubungan pengendalian dan kepemilikan atas Surya Dhoho Investama. Laporan resmi bernomor E0021/GG-17/VIII-26 ini dilampiri dokumen bertajuk Penambahan Modal SDHI, tapi ringkasan yang dipublikasikan tidak merinci untuk apa dana tambahan itu dipakai maupun bagaimana perubahan porsi kepemilikan GGRM di SDHI setelah penerbitan saham baru tersebut."
+  ],
+  "fotoAdegan": "Exterior of a large cigarette factory complex in Kediri, East Java, morning light, delivery trucks parked near the loading docks.",
+  "takeaway": "Transaksi ini tergolong netral bagi Gudang Garam, sebab Rp200 miliar yang disuntikkan ke afiliasinya relatif kecil dibandingkan skala kas dan aset raksasa rokok ini, sehingga belum mengubah gambaran fundamental secara berarti. Pos yang tersentuh adalah arus kas, yaitu catatan uang tunai yang keluar masuk perusahaan. Dana itu berpindah dari kas Gudang Garam menjadi penyertaan modal di neraca, bukan biaya yang mengurangi laba, sehingga tidak langsung menekan laba per saham GGRM. Yang perlu dipantau berikutnya adalah apakah Gudang Garam akan menjelaskan tujuan penggunaan modal tambahan ini oleh Surya Dhoho Investama, serta bagaimana perubahan komposisi kepemilikan GGRM di perusahaan itu pasca penerbitan 200.000 saham baru, karena dokumen keterbukaan ini belum merincikannya.",
+  "sentimen": "netral",
+  "imageV": "mssj2pfp"
+ },
+ {
+  "slug": "ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights",
+  "category": "Aksi Korporasi",
+  "title": "RATU Panggil RUPSLB, Rencanakan [Penerbitan Saham Baru] Tanpa Rights",
+  "deck": "RUPSLB RATU digelar 8 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait penerbitan saham baru.",
+  "image": "assets/img/ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T11:02:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec3f32fc48_add525c29d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 8 September 2026 pukul 10.00 WIB di Cityloog Hotel Tebet, Jl. Dr. Saharjo No. 191, Manggarai Selatan, Jakarta. Pemegang saham yang tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 (recording date) berhak hadir dan memberikan suara. Rapat juga bisa diikuti secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, mengacu pada POJK No. 15/2020 dan POJK No. 14/2025.",
+   "Ada dua agenda dalam RUPSLB ini. Pertama, persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) melalui penerbitan saham-saham baru, sesuai ketentuan POJK No. 14/2019. Kedua, persetujuan perubahan Pasal 4 ayat (2) Anggaran Dasar Perseroan yang mengatur modal ditempatkan dan disetor, sebagai konsekuensi dari penerbitan saham baru tersebut.",
+   "Pemanggilan ini merujuk pada surat Perseroan sebelumnya bernomor REC/DIR/30.225/VII/2026 tertanggal 30 Juli 2026, yang berarti rencana PMTHMETD ini sudah disampaikan lebih dulu ke bursa sebelum panggilan rapat ini terbit. Dokumen pemanggilan ditandatangani oleh Supriyanti Priandini selaku Corporate Secretary & Legal, dan belum mencantumkan jumlah saham baru yang akan diterbitkan maupun harga pelaksanaannya."
+  ],
+  "fotoAdegan": "Onshore oil pumping jacks operating in a dry field at dusk, workers in orange coveralls checking a pipeline valve nearby",
+  "takeaway": "Laporan ini netral untuk saat ini sebab yang terbit baru panggilan rapat, bukan rincian penerbitan saham berupa jumlah dan harga, sehingga besar kecilnya dampak ke pemegang saham lama belum bisa dipastikan dari dokumen ini. Yang berpotensi tersentuh adalah jumlah saham beredar dan laba per saham, karena penambahan modal tanpa hak memesan efek terlebih dahulu berarti saham baru diterbitkan tanpa ditawarkan lebih dulu ke pemegang saham lama, sehingga porsi kepemilikan dan bagian laba tiap saham bisa mengecil kalau jumlah saham baru itu cukup besar. Perubahan Pasal 4 ayat (2) Anggaran Dasar soal modal ditempatkan dan disetor juga menandakan struktur permodalan perusahaan akan berubah begitu penerbitan ini terlaksana. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 8 September 2026 serta pengumuman rinci jumlah saham baru dan harga pelaksanaan PMTHMETD setelah rapat itu, karena dari situ baru bisa dihitung seberapa besar potensi pengurangan porsi kepemilikan pemegang saham lama.",
+  "sentimen": "netral",
+  "imageV": "mssj3ffu"
+ },
+ {
+  "slug": "koni-panggil-rupslb-7-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KONI Panggil RUPSLB 7 September, Bahas [Perubahan Direksi]",
+  "deck": "KONI memanggil RUPSLB pada 7 September 2026 untuk membahas perubahan Anggaran Dasar dan susunan Direksi; pemegang saham per 13 Agustus 2026 berhak hadir.",
+  "image": "assets/img/koni-panggil-rupslb-7-september-bahas-perubahan-direksi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T11:00:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4e24998f5e_141617bfcc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KONI",
+  "tags": [
+   "KONI",
+   "RUPSLB",
+   "Perdana Bangun Pusaka",
+   "Direksi"
+  ],
+  "body": [
+   "PT Perdana Bangun Pusaka Tbk (KONI) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 7 September 2026, pukul 10.30 WIB di Gedung Konica Lantai 7, Jalan Gunung Sahari Raya No. 78, Jakarta Pusat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 13 Agustus 2026 pukul 16.00 WIB, baik yang sahamnya dalam bentuk warkat maupun yang disimpan dalam penitipan kolektif KSEI.",
+   "RUPSLB ini membawa dua agenda. Pertama, persetujuan perubahan Anggaran Dasar Perseroan berupa perubahan dan penambahan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) agar sesuai dengan KBLI 2025, mengikuti Pasal 5 Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025. Perseroan menegaskan perubahan ini tidak mengubah kegiatan usaha yang sudah berjalan. Kedua, persetujuan perubahan susunan Direksi Perseroan, yang diajukan berdasarkan Peraturan Otoritas Jasa Keuangan Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Dokumen pemanggilan ini belum mencantumkan nama-nama direksi yang akan diganti atau diangkat.",
+   "Perseroan menghimbau pemegang saham memberikan kuasa kepada Biro Administrasi Efek PT Sinartama Gunita melalui aplikasi eASY.KSEI dengan tipe kuasa independent representative. Bagi yang ingin memberi suara secara elektronik, informasi kehadiran, kuasa, atau pilihan suara harus disampaikan paling lambat pukul 12.00 WIB pada satu hari kerja sebelum tanggal rapat. Pemegang saham juga bisa hadir secara fisik, atau memberi kuasa di luar mekanisme eASY.KSEI melalui anggota bursa atau bank kustodian untuk mendapatkan Konfirmasi Tertulis Untuk Rapat. Pengumuman ini ditandatangani secara elektronik oleh Corporate Secretary Perseroan, Lenny Kartika, pada 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Empty modern meeting hall with rows of chairs facing a stage, tall windows, soft morning light, Jakarta office building",
+  "takeaway": "Laporan ini netral bagi KONI karena kedua agenda RUPSLB masih bersifat prosedural: perubahan KBLI hanya menyesuaikan kode klasifikasi usaha tanpa mengubah kegiatan usaha, dan perubahan susunan direksi belum menyebutkan nama-nama yang diusulkan sehingga arah dampaknya belum bisa dinilai. Yang tersentuh di sini adalah tata kelola perusahaan, bukan pos keuangan seperti ekuitas atau laba, tapi pemegang saham tetap perlu mencermati karena direksi baru bisa membawa perubahan strategi atau kebijakan ke depan. Yang berhak memberi suara hanya pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 7 September 2026, termasuk nama-nama direksi yang akan diajukan dan diputuskan dalam rapat itu, serta batas akhir pemberian suara elektronik lewat eASY.KSEI pada pukul 12.00 WIB satu hari kerja sebelumnya.",
+  "sentimen": "netral",
+  "imageV": "mssj4sgn"
+ },
+ {
+  "slug": "truk-gelar-public-expose-usai-saham-melonjak-25-persen",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Gelar Public Expose Usai Saham [Melonjak] 25 Persen",
+  "deck": "BEI sempat menghentikan sementara perdagangan saham TRUK pada 11 Agustus 2026 setelah harganya melonjak 25 persen disertai lonjakan volume transaksi dalam sehari.",
+  "image": "assets/img/truk-gelar-public-expose-usai-saham-melonjak-25-persen.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T10:40:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9ef5bbf240_fff9c5f039.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "suspensi saham",
+   "unusual market activity",
+   "public expose"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) sempat menghentikan sementara perdagangan saham PT Guna Timur Raya Tbk (TRUK) di Pasar Reguler dan Pasar Tunai pada 11 Agustus 2026, melalui pengumuman Nomor Peng-SPT-00144/BEI.WAS/08-2026. Penghentian ini menyusul lonjakan aktivitas dan harga saham TRUK pada 3 Agustus 2026, ketika volume transaksi melonjak menjadi 3.415.300 saham dengan 987 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 229.100 saham dengan 165 kali transaksi. Harga saham ditutup naik Rp108, atau 25 persen, dari Rp432 menjadi Rp540. Perdagangan saham TRUK dibuka kembali keesokan harinya, 12 Agustus 2026, sesuai pengumuman Nomor Peng-UPT-00155/BEI.WAS/08-2026.",
+   "Sebagai tindak lanjut, BEI meminta Perseroan menggelar Public Expose Insidentil melalui surat elektronik tertanggal 11 Agustus 2026. Perseroan menjadwalkan acara tersebut pada 18 Agustus 2026 di Jakarta, dengan materi yang disampaikan ke Bursa pada 14 Agustus 2026 pukul 10.40 WIB melalui surat Nomor 039/GTR-DIR/VIII/2026 yang ditandatangani Corporate Secretary Budi Gunawan. Dalam materi itu, Perseroan menyatakan bahwa fluktuasi harga dan lonjakan volume transaksi merupakan hasil dinamika pasar, seluruh informasi atau fakta material telah disampaikan ke publik, dan Perseroan senantiasa mematuhi ketentuan pasar modal yang berlaku.",
+   "Materi tersebut juga mencantumkan susunan direksi dan komisaris per 30 Juni 2026, yaitu Budi Gunawan sebagai Direktur Utama, Firman Muliansyah sebagai Direktur, Carolina Kusuma sebagai Komisaris Utama, dan Noer Syamsuddin sebagai Komisaris Independen. Soal rencana usaha, Perseroan menyebut masih berfokus pada adaptasi teknologi, penjaringan umpan balik pelanggan, investasi di pasar khusus, serta menjajaki calon pelanggan dan bisnis baru. Perseroan menambahkan bahwa pembahasan rencana pengembangan bisnis lainnya masih tahap awal dan belum ada keputusan maupun jadwal pelaksanaan."
+  ],
+  "fotoAdegan": "Rows of delivery trucks parked in a logistics yard near a shipping port at dusk, stacked containers in the background",
+  "takeaway": "Laporan ini condong netral karena isinya murni kepatuhan menjawab lonjakan harga saham, tanpa ada perubahan bisnis atau keuangan Perseroan yang diumumkan. Yang membuat Bursa turun tangan adalah pola dagang tidak wajar: dalam sehari volume transaksi TRUK melonjak dari 229.100 saham menjadi 3.415.300 saham dan harga naik 25 persen dari Rp432 ke Rp540, jauh di atas kebiasaan, sehingga Bursa sempat menghentikan sementara perdagangannya sebelum meminta Perseroan menjelaskan duduk perkaranya ke publik. Perseroan sendiri menegaskan tidak ada informasi material baru yang mendorong lonjakan itu, artinya pergerakan harga lebih didorong aktivitas jual beli di pasar ketimbang perubahan kinerja perusahaan. Yang perlu dipantau selanjutnya adalah paparan publik insidentil pada 18 Agustus 2026 di Jakarta, serta kelanjutan rencana pengembangan bisnis yang menurut Perseroan masih tahap awal dan belum ada keputusan maupun jadwal pelaksanaannya.",
+  "sentimen": "netral",
+  "imageV": "mssj54zw"
+ },
+ {
+  "slug": "padi-panggil-rupslb-kedua-bahas-status-pengendali-baru",
+  "category": "Aksi Korporasi",
+  "title": "PADI Panggil RUPSLB Kedua, Bahas Status [Pengendali] Baru",
+  "deck": "RUPSLB kedua PADI digelar 21 Agustus 2026 setelah rapat pertama gagal kuorum, membahas penetapan Djoko Joelijanto sebagai pengendali baru dan pengangkatan direktur baru Beba Hawah Ria.",
+  "image": "assets/img/padi-panggil-rupslb-kedua-bahas-status-pengendali-baru.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T10:13:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30ad782e89_6aea8e807f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "Minna Padi",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "Minna Padi Investama Sekuritas Tbk (PADI) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Kedua, menyusul RUPSLB pertama pada 7 Agustus 2026 yang tidak mencapai kuorum kehadiran. RUPSLB Kedua dijadwalkan Jumat, 21 Agustus 2026 pukul 14.00 WIB di Cityloog Hotel Tebet, Ruang Batavia Lantai 1, Jl. Dr. Saharjo, Tebet, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 pukul 16.00 WIB.",
+   "Agenda pertama rapat adalah persetujuan penetapan Djoko Joelijanto sebagai pemegang saham pengendali (PSP) sekaligus penerima manfaat akhir (ultimate beneficiary owner) Perseroan. Perseroan mengajukan agenda ini menindaklanjuti surat Otoritas Jasa Keuangan (OJK) No. 204/PM.131/2026 tanggal 24 April 2026, yang meminta perusahaan menetapkan PSP baru melalui RUPS dengan mempertimbangkan syarat integritas dan reputasi keuangan calon PSP sesuai POJK 20/2016. Dokumen menyebutkan bahwa berdasarkan Pasal 45 ayat 1 POJK 45/2024, penetapan PSP baru lewat keputusan RUPS membuat Djoko Joelijanto dikecualikan dari kewajiban tender offer wajib, yaitu kewajiban membeli sisa saham publik dengan harga tertentu yang biasanya berlaku saat kendali perusahaan berpindah tangan.",
+   "Agenda kedua adalah persetujuan perubahan susunan direksi, sehubungan dengan rencana pengangkatan Beba Hawah Ria sebagai direktur baru Perseroan. Perseroan menyebutkan agenda ini untuk memenuhi Pasal 31 Anggaran Dasar Perseroan dan Pasal 3 POJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten. Keputusan RUPS atas pengangkatan ini sah secara hukum, namun anggota direksi baru baru resmi efektif menjabat setelah mendapat persetujuan Otoritas Jasa Keuangan. Riwayat hidup kandidat dapat diunduh melalui situs web perusahaan.",
+   "Perseroan menegaskan iklan pemanggilan ini berlaku sebagai undangan resmi tanpa surat undangan terpisah. Pemegang saham yang berhalangan hadir dapat memberi kuasa, baik secara manual dengan surat kuasa yang harus diterima kembali oleh direksi paling lambat 21 Agustus 2026 sebelum rapat dimulai, maupun secara elektronik melalui sistem eASY.KSEI milik KSEI."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs and a small stage before a shareholders meeting, morning light through windows",
+  "takeaway": "Laporan ini netral bagi fundamental Minna Padi: pemanggilan RUPSLB kedua adalah proses administratif untuk memenuhi perintah OJK setelah rapat pertama gagal kuorum, bukan transaksi yang mengubah ekuitas atau kas perusahaan. Yang perlu dicermati pemegang saham publik adalah soal pengecualian tender offer wajib, yaitu kewajiban pemegang saham pengendali baru untuk membeli saham publik dengan harga tertentu ketika kendali berpindah tangan; kalau RUPS menyetujui Djoko Joelijanto lewat mekanisme ini, kewajiban itu tidak berlaku, sehingga pemegang saham publik tidak mendapat opsi menjual saham mereka lewat skema tersebut. Perubahan direksi dengan masuknya Beba Hawah Ria juga tidak langsung mengubah pos keuangan, tapi menandai pergantian kepemimpinan operasional yang biasa diperhatikan pasar karena bisa mengarahkan strategi perusahaan sekuritas ini ke depan. Yang perlu dipantau berikutnya adalah apakah RUPSLB Kedua pada 21 Agustus 2026 kali ini berhasil mencapai kuorum, mengingat rapat pertama gagal, serta apakah OJK selanjutnya menyetujui efektifnya pengangkatan direktur baru setelah keputusan RUPS.",
+  "sentimen": "netral",
+  "imageV": "mssj5p2v"
+ },
+ {
+  "slug": "kkgi-direktur-eddy-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Direktur Eddy Ajukan [Pengunduran Diri]",
+  "deck": "Direktur PT Resource Alam Indonesia Tbk (KKGI), Eddy, mengajukan surat pengunduran diri pada 13 Agustus 2026 karena keluarganya pindah ke luar kota.",
+  "image": "assets/img/kkgi-direktur-eddy-ajukan-pengunduran-diri.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T09:57:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d33b123571_2f720e19c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "pergantian direksi",
+   "batu bara"
+  ],
+  "body": [
+   "PT Resource Alam Indonesia Tbk (KKGI), emiten tambang batu bara, menerima surat permohonan pengunduran diri dari Eddy yang menjabat sebagai Direktur Perseroan. Surat tersebut diterima perusahaan pada 13 Agustus 2026. Alasan yang disampaikan adalah kepindahan seluruh keluarganya ke luar kota, sehingga ia menilai tidak bisa lagi menjalankan tugasnya secara optimal baik di kantor Jakarta maupun di Samarinda, dua lokasi operasional utama perusahaan.",
+   "Dalam laporan keterbukaan informasi yang disampaikan Corporate Secretary Leny pada 14 Agustus 2026 pukul 09.57, perseroan menyatakan bahwa peristiwa ini tidak berdampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Dokumen tersebut belum menyebutkan siapa yang akan menggantikan posisi Eddy, dan belum ada jadwal resmi kapan pengunduran diri ini akan disahkan."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine terrace with haul trucks moving along dirt roads under an overcast sky",
+  "takeaway": "Laporan ini netral bagi KKGI, karena alasan pengunduran diri bersifat pribadi, yakni kepindahan keluarga, bukan terkait kinerja, sengketa, atau masalah keuangan perusahaan, dan perseroan sendiri menegaskan tidak ada dampak operasional maupun keuangan. Peristiwa ini menyentuh sisi tata kelola dan susunan direksi, bukan angka keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikan pergantian direksi karena menyangkut kesinambungan pengambilan keputusan perusahaan, apalagi KKGI punya operasi yang terbagi antara Jakarta dan Samarinda. Yang perlu dipantau selanjutnya adalah kapan perseroan menggelar Rapat Umum Pemegang Saham untuk mengesahkan pengunduran diri ini secara resmi, sebagaimana lazimnya proses pemberhentian direksi di perusahaan terbuka, serta siapa yang akan ditunjuk sebagai pengganti karena dokumen ini belum mengungkapkannya.",
+  "sentimen": "netral",
+  "imageV": "mssj67su"
+ },
+ {
+  "slug": "nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NISP [rampungkan] akuisisi PTOS senilai Rp455,2 miliar",
+  "deck": "Bank OCBC NISP resmi menguasai 99,9999% saham PT OCBC Sekuritas Indonesia senilai Rp455,201 miliar, membentuk struktur konglomerasi keuangan OCBC Grup di Indonesia.",
+  "image": "assets/img/nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T08:58:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b826173c66_1eb4f6ce93.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NISP",
+  "tags": [
+   "NISP",
+   "akuisisi",
+   "OCBC Sekuritas",
+   "konglomerasi keuangan"
+  ],
+  "body": [
+   "PT Bank OCBC NISP Tbk menyelesaikan pengambilalihan PT OCBC Sekuritas Indonesia (PTOS) pada 13 Agustus 2026, melanjutkan Perjanjian Penjualan dan Pembelian Bersyarat yang diteken dengan OCBC Ltd pada 3 Juni 2026. Pada 12 Agustus 2026, Bank OCBC NISP dan OCBC Ltd menandatangani Akta Jual Beli dan Pengambilalihan Saham PTOS Nomor 23. Di hari yang sama, Bank OCBC NISP juga meneken Akta Jual Beli Saham Nomor 24 dengan PT OCBC NISP Ventura dan Akta Jual Beli Saham Nomor 25 dengan PT Farnella Mandiri Utama, dua pihak lain yang sebelumnya turut memegang saham PTOS. Seluruh akta dibuat di hadapan notaris Bara Indra Ardiyasha, selaku pengganti Ashoya Ratam. Perubahan data PTOS telah tercatat di Sistem Administrasi Badan Hukum Kementerian Hukum dengan nomor AHU-AH.01.09-0389995, efektif 13 Agustus 2026.",
+   "Total nilai transaksi pengambilalihan PTOS tercatat Rp455,201 miliar. Dengan rampungnya transaksi ini, Bank OCBC NISP kini memiliki langsung 99,9999% saham PTOS, sehingga perusahaan sekuritas itu berstatus anak perusahaan terkendali penuh. Perseroan menyebut langkah ini sebagai bagian dari pembentukan Konglomerasi Keuangan OCBC Grup di Indonesia, di mana Bank OCBC NISP berperan sebagai Perusahaan Induk Konglomerasi Keuangan (PIKK) dan PTOS menjadi salah satu anggota konglomerasi tersebut.",
+   "Bank OCBC NISP menyatakan penyelesaian pengambilalihan ini tidak berdampak material terhadap kegiatan operasional maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Glass office towers of Jakarta's financial district reflecting the sky, busy street traffic below, midday light.",
+  "takeaway": "Laporan ini netral bagi kinerja Bank OCBC NISP, karena transaksinya adalah konsolidasi kepemilikan sekuritas yang sudah berada dalam satu grup OCBC, dan perseroan sendiri menyatakan tidak ada dampak material terhadap operasional maupun kelangsungan usaha. Yang tersentuh dari sisi keuangan adalah arus kas, karena Bank OCBC NISP mengeluarkan dana Rp455,201 miliar untuk membeli saham PTOS dari OCBC Ltd dan dua pemegang saham lain, meski nilai itu relatif kecil dibanding skala aset bank sebesar ini sehingga kecil kemungkinan mengubah rasio permodalan secara berarti. Struktur konglomerasi keuangan yang dibentuk berarti kinerja PTOS ke depan akan ikut dikonsolidasikan ke laporan keuangan Bank OCBC NISP, sehingga performa unit sekuritas ini perlu dicermati lewat laporan keuangan konsolidasian pada kuartal mendatang. Yang perlu dipantau berikutnya adalah bagaimana Bank OCBC NISP menjalankan kewajiban pelaporan sebagai Perusahaan Induk Konglomerasi Keuangan kepada OJK menyusul efektifnya perubahan data PTOS pada 13 Agustus 2026.",
+  "sentimen": "netral",
+  "imageV": "mssj6q4b"
+ },
+ {
   "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
   "category": "Industri",
   "title": "Presiden Luncurkan MoLiNas, Kapasitas Pabrik EV [2,5 Juta] Unit",

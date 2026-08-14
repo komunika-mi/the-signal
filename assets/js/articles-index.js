@@ -5,6 +5,142 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dmas-jadwalkan-rupslb-cum-date-saham-28-agustus",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Jadwalkan RUPSLB, [Cum Date] Saham 28 Agustus",
+  "deck": "Puradelta Lestari mengumumkan rencana RUPSLB pada 22 September 2026 di Cikarang. Pemegang saham yang tercatat per 28 Agustus 2026 berhak hadir dan memberi suara.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/dmas-jadwalkan-rupslb-cum-date-saham-28-agustus.jpg",
+  "imageV": "mssj25oh",
+  "tags": [
+   "DMAS",
+   "RUPSLB",
+   "Puradelta Lestari",
+   "Corporate Action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8975b4331_1439a3e3a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi",
+  "category": "Aksi Korporasi",
+  "title": "GGRM Tambah [Modal] Rp200 Miliar ke Afiliasi SDHI",
+  "deck": "Gudang Garam menyuntik modal Rp200 miliar ke PT Surya Dhoho Investama lewat penerbitan 200.000 saham baru, dicatat sebagai transaksi afiliasi karena hubungan pengendalian dan kepemilikan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi.jpg",
+  "imageV": "mssj2pfp",
+  "tags": [
+   "GGRM",
+   "transaksi afiliasi",
+   "Surya Dhoho Investama",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c91e6c3e8_05bc4a7c06.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights",
+  "category": "Aksi Korporasi",
+  "title": "RATU Panggil RUPSLB, Rencanakan [Penerbitan Saham Baru] Tanpa Rights",
+  "deck": "RUPSLB RATU digelar 8 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait penerbitan saham baru.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights.jpg",
+  "imageV": "mssj3ffu",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec3f32fc48_add525c29d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "koni-panggil-rupslb-7-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KONI Panggil RUPSLB 7 September, Bahas [Perubahan Direksi]",
+  "deck": "KONI memanggil RUPSLB pada 7 September 2026 untuk membahas perubahan Anggaran Dasar dan susunan Direksi; pemegang saham per 13 Agustus 2026 berhak hadir.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/koni-panggil-rupslb-7-september-bahas-perubahan-direksi.jpg",
+  "imageV": "mssj4sgn",
+  "tags": [
+   "KONI",
+   "RUPSLB",
+   "Perdana Bangun Pusaka",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4e24998f5e_141617bfcc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-gelar-public-expose-usai-saham-melonjak-25-persen",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Gelar Public Expose Usai Saham [Melonjak] 25 Persen",
+  "deck": "BEI sempat menghentikan sementara perdagangan saham TRUK pada 11 Agustus 2026 setelah harganya melonjak 25 persen disertai lonjakan volume transaksi dalam sehari.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/truk-gelar-public-expose-usai-saham-melonjak-25-persen.jpg",
+  "imageV": "mssj54zw",
+  "tags": [
+   "TRUK",
+   "suspensi saham",
+   "unusual market activity",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9ef5bbf240_fff9c5f039.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "padi-panggil-rupslb-kedua-bahas-status-pengendali-baru",
+  "category": "Aksi Korporasi",
+  "title": "PADI Panggil RUPSLB Kedua, Bahas Status [Pengendali] Baru",
+  "deck": "RUPSLB kedua PADI digelar 21 Agustus 2026 setelah rapat pertama gagal kuorum, membahas penetapan Djoko Joelijanto sebagai pengendali baru dan pengangkatan direktur baru Beba Hawah Ria.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/padi-panggil-rupslb-kedua-bahas-status-pengendali-baru.jpg",
+  "imageV": "mssj5p2v",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "Minna Padi",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30ad782e89_6aea8e807f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-direktur-eddy-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "KKGI: Direktur Eddy Ajukan [Pengunduran Diri]",
+  "deck": "Direktur PT Resource Alam Indonesia Tbk (KKGI), Eddy, mengajukan surat pengunduran diri pada 13 Agustus 2026 karena keluarganya pindah ke luar kota.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/kkgi-direktur-eddy-ajukan-pengunduran-diri.jpg",
+  "imageV": "mssj67su",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "pergantian direksi",
+   "batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d33b123571_2f720e19c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "NISP [rampungkan] akuisisi PTOS senilai Rp455,2 miliar",
+  "deck": "Bank OCBC NISP resmi menguasai 99,9999% saham PT OCBC Sekuritas Indonesia senilai Rp455,201 miliar, membentuk struktur konglomerasi keuangan OCBC Grup di Indonesia.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar.jpg",
+  "imageV": "mssj6q4b",
+  "tags": [
+   "NISP",
+   "akuisisi",
+   "OCBC Sekuritas",
+   "konglomerasi keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b826173c66_1eb4f6ce93.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
   "category": "Industri",
   "title": "Presiden Luncurkan MoLiNas, Kapasitas Pabrik EV [2,5 Juta] Unit",

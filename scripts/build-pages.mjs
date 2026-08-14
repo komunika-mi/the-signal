@@ -382,8 +382,9 @@ const FOOT = `
     </button>
     <div id="modal-isi">
       <h3>Signal+</h3>
-      <p>Ringkasan ekonomi lewat email tiap sore hari kerja, dikirim setelah Signal
-        Harian terbit pukul 17.00 WIB. Formulir pendaftarannya membutuhkan
+      <p>Ke mana ekonomi bergerak hari ini, dan apa artinya buat keputusanmu besok.
+        Dikirim tiap malam hari kerja setelah seluruh berita hari itu dibaca.
+        Formulir pendaftarannya membutuhkan
         JavaScript; kalau tidak muncul, daftar langsung lewat halaman Buttondown
         kami.</p>
       <a class="btn-modal-submit" href="https://buttondown.com/the-signal" target="_blank" rel="noopener">Daftar lewat Buttondown</a>
@@ -513,8 +514,8 @@ ARTICLES.forEach(function (a) {
       : jenisSumber(a) === 'gov' ? 'Baca siaran pers asli di ' + esc(a.sourceLabel) + ' &rarr;'
       : 'Baca artikel asli di tvOneNews &rarr;'}</a>` +
     `<a class="koreksi-link" href="/kontak.html#koreksi">Menemukan kekeliruan? Beri tahu redaksi &rarr;</a></div>` +
-    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Suka ringkasan seperti ini?</b>` +
-    `<span>Signal Harian merangkai seluruh berita ekonomi hari itu jadi satu tulisan, dikirim ke email tiap sore hari kerja. Gratis.</span></div>` +
+    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Mau tahu arahnya, bukan cuma beritanya?</b>` +
+    `<span>Tiap malam hari kerja, satu tulisan yang menjawab ke mana ekonomi bergerak hari itu dan apa yang akan menentukan arahnya. Plus angka pembanding yang tidak ada di situs. Gratis.</span></div>` +
     `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal Harian</button></div>` +
     `</div><aside class="article-side">${KARTU_PASAR}<h4>Berita Terkait</h4>${relatedHtml}` +
     `<h4 style="margin-top:2rem;">Jelajahi</h4><div class="compact-list">` +
@@ -726,8 +727,8 @@ if (HARIAN) {
     `dari seluruh berita yang terbit hari itu. Isinya pembacaan arah, bukan penilaian benar atau salah ` +
     `atas kebijakan, dan bukan rekomendasi investasi.</p>` +
     `<a href="/berita.html">Baca berita hari ini &rarr;</a></div>` +
-    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Edisi seperti ini, tiap sore hari kerja</b>` +
-    `<span>Dikirim ke email kamu pukul 17.00 WIB setelah edisinya terbit di sini. Gratis, berhenti kapan saja.</span></div>` +
+    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Pembacaan arah seperti ini, tiap malam hari kerja</b>` +
+    `<span>Langsung ke email, lengkap dengan angka pembanding yang tidak dimuat di situs. Gratis, berhenti kapan saja.</span></div>` +
     `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal Harian</button></div>` +
     `</section>` +
     // Tautan edisi dari email dan feed berbentuk ?edisi=YYYY-MM-DD. Dulu tidak

@@ -246,8 +246,9 @@
     // dan itu wajib disebutkan.
     isi.innerHTML =
       '<h3>Langganan Signal Harian</h3>' +
-      '<p>Satu tulisan tiap hari kerja yang merangkai berita ekonomi hari itu ' +
-      'jadi satu benang arah kebijakan. Gratis.</p>' +
+      '<p>Satu tulisan tiap malam hari kerja yang menjawab ke mana ekonomi ' +
+      'bergerak hari itu, dan apa yang akan menentukan arahnya. Pelanggan juga ' +
+      'dapat angka pembanding yang tidak dimuat di situs. Gratis.</p>' +
       '<form action="' + aksi + '" method="post" target="popupwindow" class="form-langganan">' +
       '<input type="email" name="email" placeholder="Alamat email kamu" required aria-label="Alamat email">' +
       '<input type="hidden" name="embed" value="1">' +

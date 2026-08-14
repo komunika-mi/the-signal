@@ -19,7 +19,7 @@
 //   node scripts/kirim-harian.mjs --draft   simpan sebagai draft, tidak terkirim
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, log, BASE } from './lib.mjs';
+import { ROOT, log, BASE, readObjek } from './lib.mjs';
 
 const API = 'https://api.buttondown.com/v1';
 const KUNCI = (process.env.BUTTONDOWN_API_KEY || '').trim();
@@ -73,6 +73,35 @@ function muatHarian() {
   try { return JSON.parse(s.slice(i, j + 1)); } catch { return null; }
 }
 
+// Tabel indikator untuk edisi email. Arah dihitung dari deretnya sendiri,
+// bukan dinilai model, supaya tidak mungkin meleset dari datanya.
+function blokAngka() {
+  try {
+    const B = readObjek('bps.js');
+    const ind = (B && B.indikator) || {};
+    const pilih = ['inflasi', 'pdb', 'neraca', 'pengangguran', 'ekspor', 'impor'];
+    const baris = [];
+    for (const kode of pilih) {
+      const x = ind[kode];
+      if (!x || !x.titik || !x.titik.length) continue;
+      const t = x.titik, akhir = t[t.length - 1], enam = t.slice(-6);
+      let arah = 'mendatar';
+      if (enam.length >= 3) {
+        const naik = enam.slice(1).filter((v, i) => v.nilai > enam[i].nilai).length;
+        const turun = enam.slice(1).filter((v, i) => v.nilai < enam[i].nilai).length;
+        arah = naik > turun ? 'cenderung naik' : turun > naik ? 'cenderung turun' : 'mendatar';
+      }
+      baris.push('<tr><td style="padding:4px 10px 4px 0">' + esc(x.nama) + '</td>' +
+        '<td style="padding:4px 10px 4px 0"><strong>' + esc(String(akhir.nilai)) + ' ' +
+        esc(x.satuan || '') + '</strong></td>' +
+        '<td style="padding:4px 10px 4px 0;color:#6b6858">' + esc(akhir.periode + ' ' + akhir.tahun) + '</td>' +
+        '<td style="padding:4px 0;color:#6b6858">' + arah + '</td></tr>');
+    }
+    if (!baris.length) return '';
+    return '<table style="border-collapse:collapse;font-size:14px">' + baris.join('') + '</table>';
+  } catch { return ''; }
+}
+
 function badanEmail(h) {
   const b = [];
   if (h.ringkas) b.push('<p><strong>' + esc(h.ringkas) + '</strong></p>');
@@ -81,8 +110,32 @@ function badanEmail(h) {
     if (x.isi) b.push('<p>' + esc(x.isi) + '</p>');
   });
   if (h.penutup) b.push('<p>' + esc(h.penutup) + '</p>');
+
+  // ANGKA RESMI, hanya ada di email.
+  //
+  // Audit 14 Agustus 2026: isi email sama kata per kata dengan halaman gratis
+  // dan terbit pada saat yang sama, jadi berlangganan tidak memberi keuntungan
+  // apa pun. Orang tidak membayar, bahkan tidak menyerahkan alamat emailnya,
+  // untuk sesuatu yang bisa dibuka tanpa mendaftar.
+  //
+  // Blok ini yang membedakannya, dan dipilih karena paling sejalan dengan
+  // alasan media ini dibuat: bukan tambahan berita, melainkan ANGKA PEMBANDING
+  // untuk menguji sendiri pembacaan arah di atasnya. Seluruhnya dihitung dari
+  // deret BPS yang sudah ada, tidak ada yang dikarang.
+  const angka = blokAngka();
+  if (angka) {
+    b.push('<hr>');
+    b.push('<h2>Angka pembanding</h2>');
+    b.push('<p style="font-size:13px;color:#6b6858">Bagian ini hanya ada di ' +
+      'edisi email. Dipakai untuk menguji sendiri pembacaan arah di atas.</p>');
+    b.push(angka);
+  }
+
   b.push('<hr>');
-  b.push('<p><a href="' + BASE + '/signal-harian.html">Baca di situs</a></p>');
+  // Tautan menunjuk EDISI INI, bukan halaman terbaru. Pembaca yang membuka
+  // email lama seminggu kemudian tidak boleh mendarat di edisi lain.
+  b.push('<p><a href="' + BASE + '/signal-harian.html?edisi=' + esc(h.tanggal) +
+    '">Baca edisi ini di situs</a></p>');
   b.push('<p style="font-size:13px;color:#6b6858">Signal Harian dirangkai redaksi ' +
     'The Signal dari berita ekonomi hari itu, bersumber dari tvOneNews, keterbukaan ' +
     'informasi IDX, dan siaran pers lembaga resmi. Tiap artikel di situs menyertakan ' +

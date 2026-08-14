@@ -12,7 +12,7 @@
 // terkumpul. Kalau dijalankan pagi, bahannya cuma berita kemarin.
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, readData } from './lib.mjs';
+import { ROOT, log, readData, readObjek } from './lib.mjs';
 import { tulisHarian, PENGAMAN, GAYA, tanya, ambilJSON } from './rewrite.mjs';
 
 const MIN_BAHAN = 4;   // di bawah ini hari itu terlalu sepi untuk ditarik benangnya
@@ -28,6 +28,59 @@ function labelTanggal(iso) {
     'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
   const d = new Date(iso + 'T00:00:00Z');
   return H[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + B[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+}
+
+// Angka resmi terkini jadi bahan pembacaan arah, bukan hiasan.
+//
+// Yang dikirim bukan cuma nilai terakhir, melainkan ARAH beberapa periode
+// terakhir, karena satu angka tidak memberi tahu apa-apa soal ke mana sesuatu
+// bergerak. Semua dihitung di sini dari deret yang sudah ada, jadi model tidak
+// perlu dan tidak boleh menghitung sendiri.
+function rakitAngka() {
+  const baris = [];
+  try {
+    const B = readObjek('bps.js');
+    for (const [kode, ind] of Object.entries((B && B.indikator) || {})) {
+      const t = ind.titik || [];
+      if (!t.length) continue;
+      const akhir = t[t.length - 1];
+      const enam = t.slice(-6);
+      let arah = '';
+      if (enam.length >= 3) {
+        const naik = enam.slice(1).filter((x, i) => x.nilai > enam[i].nilai).length;
+        const turun = enam.slice(1).filter((x, i) => x.nilai < enam[i].nilai).length;
+        arah = naik > turun ? 'cenderung naik' : turun > naik ? 'cenderung turun' : 'mendatar';
+        arah += ' dalam ' + enam.length + ' periode terakhir';
+      }
+      baris.push('- ' + ind.nama + ': ' + akhir.nilai + ' ' + (ind.satuan || '') +
+        ' (' + akhir.periode + ' ' + akhir.tahun + ')' + (arah ? ', ' + arah : ''));
+    }
+  } catch { /* tanpa BPS pun Signal Harian tetap bisa ditulis */ }
+
+  try {
+    const p = path.join(ROOT, 'assets/js/market.js');
+    if (fs.existsSync(p)) {
+      const src = fs.readFileSync(p, 'utf8');
+      const M = JSON.parse(src.slice(src.indexOf('{'), src.lastIndexOf('}') + 1));
+      for (const [k, nama] of [['ihsg', 'IHSG'], ['usdidr', 'USD/IDR'], ['emas', 'Emas spot per gram']]) {
+        if (M[k]) baris.push('- ' + nama + ': ' + M[k].nilai + ' (' + M[k].delta + ' hari ini)');
+      }
+    }
+  } catch { /* angka pasar boleh tidak ada */ }
+
+  return baris.join('\n');
+}
+
+// Judul dan benang edisi kemarin, supaya pembacaan hari ini bisa menyambung.
+function rakitKemarin(tanggalIni) {
+  try {
+    const arsip = readData('harian-arsip.js', 'HARIAN_ARSIP');
+    const lalu = arsip.filter(h => h.tanggal < tanggalIni)
+      .sort((a, b) => b.tanggal.localeCompare(a.tanggal))[0];
+    if (!lalu) return '';
+    return lalu.tanggalLabel + ' - ' + lalu.judul + '\n' +
+      (lalu.benang || []).map(b => '  benang: ' + b.judul).join('\n');
+  } catch { return ''; }
 }
 
 async function main() {
@@ -50,7 +103,15 @@ async function main() {
     return;
   }
 
-  const hasil = await tulisHarian(bahan, labelTanggal(tanggalDipakai));
+  // Angka resmi dan edisi kemarin dirakit di sini, lalu dikirim sebagai
+  // konteks. Keduanya sudah lama tersimpan di repo ini tapi tidak pernah
+  // sampai ke perangkai, jadi Signal Harian membaca arah cuma dari teks berita
+  // hari itu. Lihat catatan di tulisHarian pada rewrite.mjs.
+  const konteks = { angka: rakitAngka(), kemarin: rakitKemarin(tanggalDipakai) };
+  if (konteks.angka) log('konteks angka: ' + konteks.angka.split('\n').length + ' baris');
+  if (konteks.kemarin) log('menyambung edisi kemarin');
+
+  const hasil = await tulisHarian(bahan, labelTanggal(tanggalDipakai), konteks);
   if (!hasil) { log('editor menilai hari ini tidak ada benang yang cukup jelas, dilewati'); return; }
 
   const data = {

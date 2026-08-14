@@ -24,7 +24,20 @@ name: Signal Harian
 # 17.00 WIB tidak ditempati siapa pun.
 on:
   schedule:
-    - cron: "0 10 * * 1-5"      # 17.00 WIB, Senin-Jumat
+    # 21.00 WIB, Senin-Jumat. DIGESER dari 17.00 pada 14 Agustus 2026.
+    #
+    # Pada 17.00 mesin berita masih bekerja sampai 22.56 WIB, jadi Signal
+    # Harian dirangkai dari bahan yang belum lengkap. Terukur pada edisi
+    # 13 Agustus: dirangkai dari 12 artikel padahal hari itu terbit 19, jadi
+    # 7 artikel atau 37 persen bahan tidak pernah ikut dibaca. Yang terlewat
+    # bukan berita sepele, termasuk empat rilis ESDM soal harga minyak dan
+    # batu bara acuan.
+    #
+    # Produk ini menjual pembacaan arah SEHARIAN. Merangkai pukul lima sore
+    # berarti membaca dua pertiga hari lalu menyebutnya kesimpulan hari itu.
+    # Konsekuensinya email tiba malam, dan itu justru cocok: pembacanya
+    # pengambil keputusan yang menyiapkan langkah besok pagi.
+    - cron: "0 14 * * 1-5"
   workflow_dispatch:
 
 concurrency:

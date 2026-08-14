@@ -37,6 +37,26 @@ async function bd(jalur, opsi = {}) {
     headers: {
       'Authorization': 'Token ' + KUNCI,
       'Content-Type': 'application/json',
+      // WAJIB, dan tanpanya Signal+ tidak pernah mengirim apa pun.
+      //
+      // Buttondown menolak pembuatan email berstatus 'about_to_send' tanpa
+      // header ini, dengan HTTP 400 dan pesan:
+      //   {"code":"sending_requires_confirmation","detail":"Creating an email
+      //    with status 'about_to_send' requires the X-Buttondown-Live-
+      //    Dangerously header. This is only required once per API key."}
+      //
+      // Pengamannya masuk akal dari sisi Buttondown: mencegah orang tidak
+      // sengaja menyiram seluruh daftar pelanggan lewat panggilan percobaan.
+      // Tapi akibat tidak memasangnya di sini fatal sekaligus sunyi.
+      // Satu-satunya penjalanan harian.yml yang pernah ada, 13 Agustus 2026,
+      // gagal persis di titik ini. Dua edisi Signal Harian sudah ditulis dan
+      // tayang di situs, dan NOL email pernah sampai ke inbox siapa pun,
+      // sementara beranda menjanjikan kiriman tiap sore hari kerja.
+      //
+      // Ditemukan lewat audit 14 Agustus 2026, bukan oleh sistemnya sendiri:
+      // feed publik https://buttondown.com/the-signal/rss kosong tanpa satu
+      // pun item, dan halaman arsipnya cuma bertuliskan "empty".
+      'X-Buttondown-Live-Dangerously': 'true',
       ...(opsi.headers || {}),
     },
   });

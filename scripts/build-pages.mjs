@@ -42,6 +42,19 @@ function muatBps() {
 }
 const BPS = muatBps();
 
+// Signal Harian dimuat DI SINI, bukan di dekat pemakaiannya, karena bakeRoot()
+// memerlukannya untuk panel di puncak beranda dan bakeRoot dipanggil lebih dulu
+// daripada bagian Signal Harian di bawah. const yang dipakai sebelum
+// dideklarasikan melempar ReferenceError, bukan undefined.
+function muatHarian() {
+  const p = path.join(ROOT, 'assets/js/harian.js');
+  if (!fs.existsSync(p)) return null;
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
+}
+const HARIAN = muatHarian();
+
 import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
@@ -667,20 +680,12 @@ for (const hs of HALAMAN_STATIS) {
 console.log('halaman identitas:', HALAMAN_STATIS.length);
 
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, VER, BPS });
+bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------
 // Produk inti The Signal: satu tulisan yang merangkai berita sehari jadi
 // benang arah kebijakan. Untuk sekarang terbuka, tidak dipagari.
-function muatHarian() {
-  const p = path.join(ROOT, 'assets/js/harian.js');
-  if (!fs.existsSync(p)) return null;
-  const src = fs.readFileSync(p, 'utf8');
-  const i = src.indexOf('{'), j = src.lastIndexOf('}');
-  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
-}
-const HARIAN = muatHarian();
 
 if (HARIAN) {
   const isi =

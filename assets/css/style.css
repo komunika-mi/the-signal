@@ -707,3 +707,47 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
 .bps-strip-nilai { font-size: .98rem; font-weight: 700; color: var(--ink); line-height: 1.25; }
 .bps-strip-delta { font-size: .72rem; margin-left: .18rem; color: var(--ink-soft); }
 .bps-strip-periode { font-family: var(--sans); font-size: .6rem; color: var(--ink-soft); }
+
+/* ---------- Panel Signal Harian di puncak beranda ----------
+   Sengaja gelap dan lebar penuh: ini bagian yang membaca ARAH, dan arah itu
+   yang dijual. Kalau tampilannya sama dengan kartu berita di bawahnya, ia
+   akan terbaca sebagai satu berita lagi. */
+.sinyal-band { padding-block: 1.6rem 0; }
+.sinyal-panel {
+  display: block; text-decoration: none;
+  background: var(--dark); color: var(--page);
+  border-radius: var(--radius); padding: 1.4rem 1.5rem;
+  box-shadow: var(--shadow);
+}
+.sinyal-panel:hover { opacity: .97; }
+.sinyal-kepala { display: flex; align-items: center; gap: .7rem; flex-wrap: wrap; margin-bottom: .6rem; }
+.sinyal-tag {
+  font-family: var(--sans); font-size: .62rem; font-weight: 700;
+  letter-spacing: .1em; text-transform: uppercase;
+  background: var(--red); color: #fff; padding: .22rem .5rem; border-radius: 4px;
+}
+.sinyal-tanggal { font-size: .72rem; color: rgba(250,249,245,.6); }
+.sinyal-judul {
+  font-family: var(--serif); font-size: clamp(1.3rem, 3.2vw, 1.85rem);
+  line-height: 1.22; margin: 0 0 .5rem; color: var(--page); font-weight: 600;
+}
+.sinyal-ringkas {
+  font-family: var(--sans); font-size: .88rem; line-height: 1.6;
+  color: rgba(250,249,245,.8); margin: 0 0 .9rem; max-width: 62ch;
+}
+.sinyal-benang { list-style: none; margin: 0 0 1rem; padding: 0;
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: .7rem; }
+.sinyal-benang li {
+  font-family: var(--sans); font-size: .78rem; line-height: 1.45;
+  color: rgba(250,249,245,.9); padding-top: .5rem;
+  border-top: 1px solid rgba(250,249,245,.18);
+}
+.sinyal-benang .num {
+  display: block; font-size: .66rem; color: var(--red);
+  font-weight: 700; margin-bottom: .2rem;
+}
+.sinyal-lanjut { font-family: var(--sans); font-size: .8rem; font-weight: 600; color: var(--page); }
+@media (max-width: 720px) {
+  .sinyal-panel { padding: 1.1rem 1.1rem; }
+  .sinyal-benang { grid-template-columns: 1fr; gap: .5rem; }
+}

@@ -260,7 +260,36 @@ function stripBps(BPS) {
   return sel.join('');
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS }) {
+// Panel Signal Harian di puncak beranda.
+//
+// Isinya pembacaan arah, dan itu yang membedakan situs ini dari portal berita
+// mana pun. Sebelumnya cuma tertaut dari menu, sehingga pengunjung beranda
+// melihat daftar judul dan menyimpulkan ini agregator berita biasa.
+//
+// Kalau edisi hari ini belum terbit (Signal Harian ditulis sore), yang tampil
+// edisi terakhir LENGKAP DENGAN TANGGALNYA. Menyembunyikannya sampai sore
+// berarti separuh hari beranda kehilangan bagian terpentingnya, dan tanggal
+// yang jujur lebih baik daripada kekosongan.
+function panelHarian(HARIAN) {
+  if (!HARIAN || !HARIAN.judul) return '';
+  const benang = (HARIAN.benang || []).slice(0, 3);
+  return '<a class="sinyal-panel" href="/signal-harian.html">' +
+    '<div class="sinyal-kepala">' +
+      '<span class="sinyal-tag">Signal Harian</span>' +
+      '<span class="sinyal-tanggal num">' + esc(HARIAN.tanggalLabel || '') + '</span>' +
+    '</div>' +
+    '<h2 class="sinyal-judul">' + esc(plain(HARIAN.judul)) + '</h2>' +
+    '<p class="sinyal-ringkas">' + esc(HARIAN.ringkas || '') + '</p>' +
+    (benang.length
+      ? '<ul class="sinyal-benang">' + benang.map((b, i) =>
+          '<li><span class="num">' + String(i + 1).padStart(2, '0') + '</span>' +
+          esc(b.judul) + '</li>').join('') + '</ul>'
+      : '') +
+    '<span class="sinyal-lanjut">Baca pembacaan lengkapnya &rarr;</span>' +
+    '</a>';
+}
+
+export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -299,6 +328,9 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS }) {
     '<div class="video-list">' + sisa.map(kartuVideoKecil).join('') +
       '<a class="video-more" href="video.html">Lihat semua video &rarr;</a>' +
     '</div>', 'index.html');
+
+  const harian = panelHarian(HARIAN);
+  if (harian) idx = ganti(idx, 'harian', harian, 'index.html');
 
   const strip = stripBps(BPS);
   if (strip) idx = ganti(idx, 'bpsstrip', strip, 'index.html');

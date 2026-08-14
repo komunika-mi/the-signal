@@ -273,13 +273,28 @@
     if (form) form.addEventListener('submit', function () {
       var email = (form.querySelector('input[type="email"]') || {}).value || '';
       setTimeout(function () {
+        // JANGAN mengaku email sudah terkirim. Tab ini tidak tahu apa-apa.
+        //
+        // Form dikirim ke Buttondown di jendela lain, dan tab ini tidak pernah
+        // melihat jawabannya. Versi pertama pesan ini berbunyi "Kami baru saja
+        // mengirim email konfirmasi ke <alamat>", padahal audit 14 Agustus 2026
+        // menguji endpoint itu dengan tiga cara dan KETIGANYA dijawab HTTP 400
+        // berisi halaman verifikasi Cloudflare Turnstile, bukan pendaftaran
+        // yang selesai. Jadi pendaftar disuruh menunggu email yang memang belum
+        // dikirim, lalu menyalahkan folder spam-nya sendiri.
+        //
+        // Yang jujur: arahkan ke jendela yang benar-benar terbuka dan sebut
+        // verifikasinya. Kalimat ini tetap benar baik ketika Buttondown minta
+        // verifikasi maupun ketika langsung lolos.
         isi.innerHTML =
-          '<h3>Satu langkah lagi</h3>' +
-          '<p>Kami baru saja mengirim email konfirmasi' +
-          (email ? ' ke <strong>' + TS.esc(email) + '</strong>' : '') +
-          '. Buka emailnya dan klik tautan konfirmasinya. Langganan aktif setelah itu.</p>' +
-          '<p class="modal-privasi">Belum masuk dalam beberapa menit? Periksa folder spam. ' +
-          'Salah tulis alamat? Tutup jendela ini dan daftar ulang.</p>' +
+          '<h3>Lanjutkan di jendela sebelah</h3>' +
+          '<p>Pendaftaran' +
+          (email ? ' untuk <strong>' + TS.esc(email) + '</strong>' : '') +
+          ' diteruskan ke halaman Buttondown yang baru terbuka. Selesaikan verifikasi ' +
+          'singkat di sana, lalu email konfirmasi dikirim ke kotak masukmu. Langganan ' +
+          'aktif setelah tautan di email itu diklik.</p>' +
+          '<p class="modal-privasi">Jendelanya tidak muncul? Peramban mungkin memblokirnya. ' +
+          'Daftar langsung lewat <a href="https://buttondown.com/the-signal" target="_blank" rel="noopener">halaman Buttondown kami</a>.</p>' +
           '<button class="btn-modal-submit" type="button" id="modal-selesai">Selesai</button>';
         var selesai = document.getElementById('modal-selesai');
         if (selesai) selesai.addEventListener('click', function () {

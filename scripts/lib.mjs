@@ -68,6 +68,17 @@ const CARI_DI = {
     'C:/ffmpeg/bin/ffmpeg.exe',
     '/usr/bin/ffmpeg',
   ],
+  // ffprobe jadi WAJIB sejak 14 Agustus 2026, saat penyaring ukuran gambar
+  // dipasang di unduhFoto. Sempat dipanggil mentah tanpa masuk daftar ini,
+  // yaitu persis kesalahan yang sudah dua kali mematikan kanal di proyek ini.
+  // Di mesin ini ffprobe ada bersama ffmpeg di folder WinGet, dan folder itu
+  // ada di PATH PENGGUNA tapi TIDAK di PATH MESIN, jadi Task Scheduler tidak
+  // akan menemukannya.
+  ffprobe: [
+    'C:/Program Files/Git/mingw64/bin/ffprobe.exe',
+    'C:/ffmpeg/bin/ffprobe.exe',
+    '/usr/bin/ffprobe',
+  ],
 };
 
 const _alat = new Map();
@@ -135,7 +146,20 @@ export function wajibAlat(nama) {
 //   NAMA    - kata kunci hanya dihitung kalau berada di AWAL nama berkas
 // Sisanya diserahkan ke penyaring ukuran saat unduh, yang tidak bisa dibohongi
 // nama berkas apa pun.
-const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/assets\/(imgs?|images)\/(part|theme|ui|bg)\/|\/img\/(ui|bg|icon)/i;
+const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/_layouts\/|\/assets\/(imgs?|images)\/(part|theme|ui|bg)\/|\/img\/(ui|bg|icon)/i;
+
+// Jalur tempat tiap sumber MENYIMPAN foto beritanya.
+//
+// Kandidat yang cocok didahulukan, bukan sekadar diterima. Tanpa pengurutan
+// ini, pencarian berhenti pada gambar pertama yang lolos saringan nama, dan
+// gambar pertama di halaman biasanya perabot.
+//
+// Terukur pada Bank Indonesia: 5 dari 5 artikel memakai ilustrasi AI padahal
+// halaman sumbernya berfoto. cariFotoUtama selalu mengembalikan sprite
+// SharePoint /_layouts/15/images/spcommon.png (271x268, ditolak penjaga
+// ukuran), sementara foto aslinya menunggu di /PublishingImages/ dengan
+// ukuran 1280x853 sampai 6768x4500.
+const JALUR_ISI = /\/PublishingImages\/|\/albums?\/|\/download\/|\/imagecache\/|thumbs?\.tvonenews\.com|\/media-center\/|\/uploads?\//i;
 const NAMA_PERABOT = /^(logo|icon|favicon|avatar|banner|flag|share|sprite|placeholder|spinner|bahasa|english|watermark|default)[-_.]?/i;
 
 function perabotHalaman(u) {
@@ -215,7 +239,15 @@ export function cariFotoUtama(html, opsi = {}) {
   // selalu ikon atau logo.
   const bukanBentukFoto = (u) => /^data:/i.test(u) || /\.svg(\?|$)/i.test(u);
 
-  for (let u of kandidat) {
+  // Kandidat yang berada di jalur penyimpanan foto berita didahulukan, dengan
+  // urutan aslinya dipertahankan di dalam tiap kelompok supaya og:image tetap
+  // menang atas gambar badan halaman.
+  const urut = [
+    ...kandidat.filter(u => u && JALUR_ISI.test(u)),
+    ...kandidat.filter(u => u && !JALUR_ISI.test(u)),
+  ];
+
+  for (let u of urut) {
     if (!u || bukanBentukFoto(u) || perabotHalaman(u)) continue;
 
     // Alamat relatif dibereskan terhadap halaman sumbernya.

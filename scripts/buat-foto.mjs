@@ -16,7 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, UA } from './lib.mjs';
+import { ROOT, log, UA, wajibAlat } from './lib.mjs';
 
 const MODEL = process.env.FOTO_MODEL || 'z_image';
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -105,7 +105,7 @@ export function unduhFoto(nama, url) {
     // saja sedangkan UKURAN tidak bisa berbohong. Ikon memang kecil dan foto
     // berita memang besar, jadi ambang 400 piksel memisahkan keduanya tanpa
     // perlu menebak dari ejaan alamat.
-    const ukuran = execFileSync('ffprobe', ['-v', 'error',
+    const ukuran = execFileSync(wajibAlat('ffprobe'), ['-v', 'error',
       '-select_streams', 'v:0', '-show_entries', 'stream=width,height',
       '-of', 'csv=p=0', tmp], { encoding: 'utf8' }).trim();
     const [lebar, tinggi] = ukuran.split(',').map(Number);
@@ -115,7 +115,7 @@ export function unduhFoto(nama, url) {
         ', kemungkinan ikon atau hiasan halaman, bukan foto berita');
     }
 
-    execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', tmp,
+    execFileSync(wajibAlat('ffmpeg'), ['-y', '-loglevel', 'error', '-i', tmp,
       '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
       '-map_metadata', '-1', tujuan], { encoding: 'utf8' });
 

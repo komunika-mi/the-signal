@@ -64,6 +64,9 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg
           ffmpeg -version | head -1
+          # ffprobe ikut paket ffmpeg, tapi diperiksa sendiri karena sejak
+          # 14 Agustus 2026 penyaring ukuran gambar bergantung padanya.
+          ffprobe -version | head -1
 
       - name: Ambil berita, video, dan data pasar
         env:

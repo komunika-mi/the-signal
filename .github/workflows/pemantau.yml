@@ -1,0 +1,121 @@
+name: Pemantau kesehatan situs
+
+# SATU-SATUNYA workflow yang boleh berstatus MERAH tanpa ada yang rusak di
+# penerbitan. Tugasnya memang cuma berteriak.
+#
+# Kenapa terpisah dari daily.yml. Penjaga di dalam pipeline penerbitan sengaja
+# dibuat peringatan, bukan penghenti, karena satu foto bermasalah tidak boleh
+# menahan seluruh berita. Pelajaran mahal dari 13 Agustus 2026 ketika penjaga
+# keras menahan situs seharian.
+#
+# Tapi peringatan di dalam run yang berstatus sukses TIDAK TERLIHAT SIAPA PUN
+# kecuali ada yang membuka tab Actions. Audit 14 Agustus 2026 menghitung empat
+# kegagalan job dalam dua hari dan NOL pemberitahuan keluar. Tiga kerusakan
+# besar berturut-turut ditemukan pemilik situs sendiri, bukan oleh sistemnya:
+# ffmpeg hilang di runner, pdftotext tak ketemu, dan Signal+ tidak pernah
+# mengirim satu email pun sejak dibuka.
+#
+# Job ini memisahkan kedua kebutuhan itu. Penerbitan tetap berjalan apa pun
+# yang terjadi, sementara job ini gagal dengan berisik supaya GitHub mengirim
+# pemberitahuan bawaannya ke pemilik repo. Tidak perlu secret baru, tidak perlu
+# bot, dan tidak ada satu pun berita yang tertahan karenanya.
+
+on:
+  schedule:
+    # 08.00, 14.00, dan 21.00 WIB. Tiga kali sehari cukup: yang diukur di sini
+    # kerusakan berskala jam sampai hari, bukan detik. Lebih sering justru
+    # melatih orang mengabaikan pemberitahuannya.
+    - cron: "0 1,7,14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pantau:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Kesegaran tiap kanal berita
+        id: kanal
+        run: |
+          # Kanal yang biasanya berbunyi lalu diam sekian lama itu bukan sepi,
+          # itu tanda rusak. Ambangnya per kanal, lihat scripts/periksa-kanal.mjs.
+          node scripts/periksa-kanal.mjs
+
+      - name: Situs benar-benar hidup dan segar
+        if: always()
+        run: |
+          SITUS=https://the-signal.id
+          gagal=0
+
+          for u in / /berita.html /signal-harian.html /data-ekonomi.html /tentang.html; do
+            KODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 25 "$SITUS$u")
+            if [ "$KODE" != "200" ]; then
+              echo "::error::$u membalas HTTP $KODE"
+              gagal=1
+            fi
+          done
+
+          # Beranda harus memuat berita sungguhan, bukan kerangka kosong.
+          # Sejak beranda dipanggang saat build, HTML-nya wajib berisi tautan
+          # artikel. Kalau nol, panggangnya gagal dan tidak ada yang tahu.
+          TAUTAN=$(curl -s --max-time 25 "$SITUS/" | grep -o 'href="/berita/[a-z0-9-]*\.html"' | sort -u | wc -l)
+          echo "tautan artikel di beranda: $TAUTAN"
+          if [ "$TAUTAN" -lt 10 ]; then
+            echo "::error::Beranda cuma memuat $TAUTAN tautan artikel, seharusnya belasan. Panggang beranda kemungkinan gagal."
+            gagal=1
+          fi
+
+          # Panel Signal Harian adalah bagian yang menjual. Kalau hilang dari
+          # beranda, produknya kembali terlihat seperti agregator berita biasa.
+          if ! curl -s --max-time 25 "$SITUS/" | grep -q 'sinyal-panel'; then
+            echo "::error::Panel Signal Harian tidak ada di beranda."
+            gagal=1
+          fi
+
+          exit $gagal
+
+      - name: Newsletter Signal+ benar-benar mengirim
+        if: always()
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          # Diperiksa karena pernah diam total tanpa ada yang sadar. Dua edisi
+          # ditulis dan tayang di situs, nol email sampai ke pelanggan, selama
+          # itu beranda menjanjikan kiriman tiap sore hari kerja.
+          if [ -z "$BUTTONDOWN_API_KEY" ]; then
+            echo "::warning::BUTTONDOWN_API_KEY tidak tersedia, pemeriksaan newsletter dilewati"
+            exit 0
+          fi
+          TERKIRIM=$(curl -s --max-time 25 \
+            -H "Authorization: Token $BUTTONDOWN_API_KEY" \
+            'https://api.buttondown.com/v1/emails?status=sent' \
+            | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{try{console.log(JSON.parse(s).count??0)}catch{console.log(-1)}})")
+          echo "email berstatus terkirim: $TERKIRIM"
+          if [ "$TERKIRIM" = "-1" ]; then
+            echo "::error::Tidak bisa membaca daftar email Buttondown."
+            exit 1
+          fi
+          if [ "$TERKIRIM" -eq 0 ]; then
+            echo "::error::Buttondown belum pernah mengirim satu email pun, padahal situs menjanjikan kiriman tiap sore hari kerja."
+            exit 1
+          fi
+
+      - name: Foto artikel cocok dengan sumbernya
+        if: always()
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          # Sampel saja, bukan seluruh arsip: yang dicari kerusakan BARU, dan
+          # arsip lama sudah diperiksa penuh saat perbaikannya dikerjakan.
+          node scripts/periksa-foto.mjs 15

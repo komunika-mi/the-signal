@@ -772,3 +772,125 @@ a.video-page-card:hover .story-title { color: var(--red-deep); }
   line-height: 1.62; color: var(--ink);
 }
 .arah-blok .sentimen { text-transform: none; letter-spacing: 0; margin-left: .3rem; }
+
+/* ---------- Produk sinyal (14 Agustus 2026): linimasa, agenda, rapor ----------
+   Empat halaman baru yang menyusun ulang data arsip jadi produk arah:
+   /emiten/*, /tema/*, /agenda.html, /rapor.html. Semuanya memakai kerangka
+   harian-head yang sudah ada; di bawah ini hanya komponen isinya. */
+
+/* Garis waktu artikel (halaman emiten dan tema) */
+.linimasa { max-width: var(--kolom-baca); margin-top: 1.6rem; }
+.linimasa-item {
+  position: relative; padding: 0 0 1.7rem 1.35rem;
+  border-left: 2px solid var(--line);
+}
+.linimasa-item:last-child { padding-bottom: .4rem; }
+.linimasa-item::before {
+  content: ""; position: absolute; left: -5px; top: .42rem;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--red); border: 2px solid var(--page);
+}
+.linimasa-meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .6rem;
+  font-family: var(--sans); font-size: .74rem; color: var(--ink-soft);
+  margin-bottom: .3rem;
+}
+.linimasa-judul { font-size: 1.06rem; line-height: 1.35; margin: 0 0 .35rem; }
+.linimasa-judul a { color: inherit; }
+.linimasa-judul a:hover { color: var(--red-deep); }
+.linimasa-arah {
+  margin: 0; font-family: var(--sans); font-size: .84rem;
+  line-height: 1.6; color: var(--ink-soft);
+}
+.emiten-rekap {
+  display: flex; gap: .45rem; flex-wrap: wrap; align-items: center;
+  font-family: var(--sans); font-size: .8rem; color: var(--ink-soft);
+  margin: .5rem 0 0;
+}
+
+/* Indeks emiten dan tema */
+.emiten-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: .7rem; margin-top: 1.6rem;
+}
+.emiten-kartu {
+  display: flex; flex-direction: column; gap: .3rem; align-items: flex-start;
+  padding: .85rem .95rem; background: var(--card);
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+}
+.emiten-kartu:hover { border-color: var(--red); }
+.emiten-kode { font-family: var(--sans); font-weight: 800; font-size: 1.05rem; letter-spacing: .04em; }
+.emiten-info { font-family: var(--sans); font-size: .74rem; color: var(--ink-soft); }
+a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-offset: 2px; }
+.tema-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: .9rem; margin-top: 1.6rem;
+}
+.tema-kartu {
+  display: flex; flex-direction: column; gap: .45rem;
+  padding: 1.05rem 1.1rem; background: var(--card);
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+}
+.tema-kartu:hover { border-color: var(--red); }
+.tema-kartu h2 { font-size: 1.05rem; margin: 0; }
+.tema-kartu p { margin: 0; font-family: var(--sans); font-size: .82rem; line-height: 1.55; color: var(--ink-soft); }
+.tema-meta { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); }
+.article-tag-tema { background: var(--red); color: var(--page); }
+.article-tag-tema:hover { background: var(--red-deep); color: var(--page); }
+
+/* Agenda */
+.agenda-hari { max-width: var(--kolom-baca); margin-top: 1.7rem; }
+.agenda-tgl {
+  font-family: var(--sans); font-size: .82rem; font-weight: 800;
+  letter-spacing: .05em; text-transform: uppercase; color: var(--red-deep);
+  border-bottom: 1px solid var(--line); padding-bottom: .35rem; margin: 0 0 .8rem;
+}
+.agenda-item { padding: 0 0 1.15rem; }
+.agenda-kepala { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: .3rem; }
+.agenda-chip {
+  font-family: var(--sans); font-size: .66rem; font-weight: 700;
+  letter-spacing: .05em; text-transform: uppercase;
+  padding: .12rem .5rem; border-radius: 99px;
+  background: var(--card); border: 1px solid var(--line); color: var(--ink-soft);
+}
+.agenda-perkiraan { border-style: dashed; }
+.agenda-teks { margin: 0 0 .25rem; font-family: var(--sans); font-size: .86rem; line-height: 1.6; }
+.agenda-sumber { font-family: var(--sans); font-size: .78rem; font-weight: 600; color: var(--red-deep); }
+.agenda-num { min-width: 3.1rem; }
+.agenda-num em { font-style: normal; opacity: .55; margin-left: 1px; }
+
+/* Rapor */
+.rapor-daftar { max-width: var(--kolom-baca); margin-top: 1.6rem; }
+.rapor-item {
+  padding: 1rem 1.1rem; margin-bottom: .9rem;
+  background: var(--card); border: 1px solid var(--line);
+  border-left-width: 3px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+.rapor-kepala {
+  display: flex; justify-content: space-between; gap: .6rem; flex-wrap: wrap;
+  align-items: center; margin-bottom: .45rem;
+}
+.rapor-status {
+  font-family: var(--sans); font-size: .66rem; font-weight: 800;
+  letter-spacing: .07em; text-transform: uppercase;
+  padding: .16rem .55rem; border-radius: 99px;
+}
+.rapor-menunggu { border-left-color: var(--line); }
+.rapor-menunggu .rapor-status { background: var(--card); border: 1px solid var(--line); color: var(--ink-soft); }
+.rapor-terkonfirmasi { border-left-color: var(--green); }
+.rapor-terkonfirmasi .rapor-status { background: var(--green-tint); color: var(--green); }
+.rapor-patah { border-left-color: var(--red); }
+.rapor-patah .rapor-status { background: var(--red-tint, #fbeaea); color: var(--red-deep); }
+.rapor-kedaluwarsa { opacity: .72; }
+.rapor-kedaluwarsa .rapor-status { background: var(--card); border: 1px dashed var(--line); color: var(--ink-soft); }
+.rapor-edisi { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); }
+.rapor-benang { font-size: 1.02rem; margin: 0 0 .35rem; }
+.rapor-klaim {
+  margin: 0 0 .4rem; font-size: .95rem; line-height: 1.6; font-style: italic;
+}
+.rapor-penanda, .rapor-bukti {
+  margin: 0; font-family: var(--sans); font-size: .8rem;
+  line-height: 1.55; color: var(--ink-soft);
+}
+.rapor-bukti { margin-top: .3rem; }
+.rapor-bukti a { font-weight: 600; color: var(--red-deep); }

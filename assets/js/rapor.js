@@ -7,10 +7,9 @@
 // arsip sendiri. Yang tidak pernah boleh terjadi: mengubah bunyi klaim setelah
 // dicatat. Klaim dikutip apa adanya dari edisinya, salah ya salah.
 //
-// Diisi otomatis oleh rapor-tagih.mjs. Enam entri pertama disalin manual dari
-// edisi 12-13 Agustus 2026 saat fitur ini dibangun (14 Agustus 2026).
+// JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-14T12:00:00+07:00",
+ "diperbarui": "2026-08-14T12:16:19.222+07:00",
  "entri": [
   {
    "id": "2026-08-13-1",

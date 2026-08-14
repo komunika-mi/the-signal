@@ -55,6 +55,38 @@ function muatHarian() {
 }
 const HARIAN = muatHarian();
 
+// Empat produk sinyal yang dihitung dari arsip yang sudah ada: kalender
+// penentu (agenda), garis waktu isu (tema), arsip per emiten, dan rapor
+// pembacaan. Tidak satu pun memanggil model saat build; semuanya susunan
+// ulang data yang tersimpan.
+import { agendaGabungan } from './agenda-sinyal.mjs';
+import { kelompokTema, temaDariArtikel } from './tema.mjs';
+const AGENDA = agendaGabungan(ARTICLES);
+const KELOMPOK_TEMA = kelompokTema(ARTICLES);
+const TEMA_TAYANG = new Set(KELOMPOK_TEMA.map(t => t.slug));
+function muatRapor() {
+  const p = path.join(ROOT, 'assets/js/rapor.js');
+  if (!fs.existsSync(p)) return null;
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
+}
+const RAPOR = muatRapor();
+
+// Kelompok artikel per emiten. Huruf besar dijaga: URL di Vercel peka kapital,
+// jadi /emiten/SUPA.html adalah satu-satunya bentuk yang ditautkan.
+const EMITEN = (() => {
+  const m = new Map();
+  for (const a of ARTICLES) {
+    if (!a.emiten) continue;
+    const kode = String(a.emiten).toUpperCase().trim();
+    if (!/^[A-Z]{4}$/.test(kode)) continue;
+    if (!m.has(kode)) m.set(kode, []);
+    m.get(kode).push(a);
+  }
+  return m;
+})();
+
 import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
@@ -205,7 +237,15 @@ function kartuFakta(a) {
   const t = jenisSumber(a);
 
   if (t === 'idx') {
-    if (a.emiten) baris.push(['Emiten', '<strong class="fakta-emiten">' + esc(a.emiten) + '</strong>']);
+    // Kode emitennya jadi pintu ke arsip sinyal per saham, tapi hanya kalau
+    // halamannya memang dibangun; kode yang tersaring dari EMITEN (bukan
+    // empat huruf kapital) tetap tampil sebagai teks biasa.
+    if (a.emiten) {
+      const kode = String(a.emiten).toUpperCase().trim();
+      baris.push(['Emiten', EMITEN.has(kode)
+        ? '<a class="fakta-emiten" href="/emiten/' + kode + '.html" title="Semua sinyal ' + kode + '">' + esc(kode) + '</a>'
+        : '<strong class="fakta-emiten">' + esc(a.emiten) + '</strong>']);
+    }
     baris.push(['Jenis', 'Keterbukaan informasi']);
   } else if (t === 'gov') {
     baris.push(['Lembaga', esc(a.sourceLabel)]);
@@ -309,6 +349,7 @@ ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + 
         <a class="nav-link" href="/berita.html#kat=perbankan">Perbankan</a>
         <a class="nav-link" href="/berita.html#kat=energi">Energi</a>
         <a class="nav-link" href="/data-ekonomi.html">Angka Ekonomi</a>
+        <a class="nav-link" href="/agenda.html">Agenda</a>
         <a class="nav-link${o.navVideo ? ' active' : ''}" href="/video.html">Video</a>
       </nav>
       <div class="brand">
@@ -351,6 +392,10 @@ const FOOT = `
         <ul>
           <li><a href="/index.html">Beranda</a></li>
           <li><a href="/berita.html">Semua Berita</a></li>
+          <li><a href="/agenda.html">Agenda Sinyal</a></li>
+          <li><a href="/rapor.html">Rapor Sinyal</a></li>
+          <li><a href="/tema.html">Tema Berjalan</a></li>
+          <li><a href="/emiten.html">Sinyal per Emiten</a></li>
           <li><a href="/video.html">Video</a></li>
           <li><a href="/tentang.html">Tentang The Signal</a></li>
           <li><a href="/kontak.html">Kontak &amp; Koreksi</a></li>
@@ -403,9 +448,14 @@ fs.mkdirSync(ROOT + '/tayangan', { recursive: true });
 
 // ---------- article pages ----------
 ARTICLES.forEach(function (a) {
-  const sameCat = ARTICLES.filter(x => x.slug !== a.slug && x.category === a.category);
+  // Laporan emiten yang sama didahulukan: pembaca laporan SUPA hari ini paling
+  // terbantu oleh laporan SUPA kemarin, bukan artikel pasar modal acak.
+  const sameEmiten = a.emiten
+    ? ARTICLES.filter(x => x.slug !== a.slug && x.emiten === a.emiten) : [];
+  const sameCat = ARTICLES.filter(x => x.slug !== a.slug && x.category === a.category
+    && !sameEmiten.includes(x));
   const others = ARTICLES.filter(x => x.slug !== a.slug && x.category !== a.category);
-  const related = sameCat.concat(others).slice(0, 4);
+  const related = sameEmiten.concat(sameCat, others).slice(0, 4);
 
   const relatedHtml = related.map(x =>
     `<a class="related-card" href="${articleUrl(x)}">` +
@@ -501,7 +551,15 @@ ARTICLES.forEach(function (a) {
       ? `<p class="catatan-disclaimer">Penilaian arah di atas menyangkut fundamental emiten, bukan anjuran membeli atau menjual saham.</p>`
       : '') +
     videoHtml +
-    `<div class="article-tags">${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
+    // Chip tema sebelum tag biasa: tag itu label mati, tema itu pintu ke
+    // garis waktu isunya. Hanya tema yang halamannya tayang yang ditautkan.
+    `<div class="article-tags">${
+      temaDariArtikel(a).filter(s => TEMA_TAYANG.has(s))
+        .map(s => {
+          const t = KELOMPOK_TEMA.find(k => k.slug === s);
+          return '<a class="article-tag article-tag-tema" href="/tema/' + s + '.html">Tema: ' + esc(t.nama) + '</a>';
+        }).join('')
+    }${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
     `<p class="foto-kredit">${a.kreditFoto
       ? 'Foto dari ' + esc(a.kreditFoto) + ', dipakai sebagai dokumentasi peristiwa yang diberitakan.'
       : 'Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.'}</p>` +
@@ -698,8 +756,275 @@ for (const hs of HALAMAN_STATIS) {
 }
 console.log('halaman identitas:', HALAMAN_STATIS.length);
 
+// ---------- Sinyal per Emiten ----------
+//
+// Arsip menyimpan 60-an laporan bursa dari 50 emiten, tapi satu-satunya jalan
+// menemukannya adalah menggulung daftar kronologis. Halaman per emiten
+// menyusun semua laporan satu saham jadi satu garis waktu beserta riwayat
+// penilaiannya, karena orang yang memantau satu saham mau melihat rangkaian,
+// bukan potongan. Sekaligus pintu masuk pencarian: orang mencari kode emiten,
+// bukan judul artikel kita.
+fs.mkdirSync(ROOT + '/emiten', { recursive: true });
+const LABEL_SENTIMEN = { positif: 'Cenderung positif', negatif: 'Cenderung negatif', netral: 'Netral' };
+function chipSentimen(s) {
+  return s ? '<span class="sentimen sentimen-' + esc(s) + '">' + esc(LABEL_SENTIMEN[s] || s) + '</span>' : '';
+}
+function itemLinimasa(a, opsi = {}) {
+  return `<article class="linimasa-item">` +
+    `<div class="linimasa-meta"><span class="num">${esc(a.date)}</span>` +
+    (opsi.kategori ? `<span>${esc(a.category)}</span>` : '') +
+    chipSentimen(a.sentimen) + `</div>` +
+    `<h2 class="linimasa-judul"><a href="${articleUrl(a)}">${hl(a.title)}</a></h2>` +
+    (a.takeaway ? `<p class="linimasa-arah">${esc(String(a.takeaway).length > 260
+      ? String(a.takeaway).slice(0, 260).replace(/\s+\S*$/, '') + '…' : a.takeaway)}</p>` : '') +
+    `</article>`;
+}
+const DISCLAIMER_SINYAL =
+  `<div class="article-source-box" style="max-width:var(--kolom-baca);margin-top:2rem;">` +
+  `<p>Penilaian arah di halaman ini menyangkut fundamental dan isi dokumen resminya, ` +
+  `bukan anjuran membeli atau menjual saham. Tiap artikel menautkan dokumen aslinya.</p>` +
+  `<a href="/tentang.html">Cara kerja redaksi The Signal &rarr;</a></div>`;
+
+const DAFTAR_EMITEN = [...EMITEN.entries()].sort((x, y) =>
+  y[1].length - x[1].length ||
+  String(y[1][0].isoDate || '').localeCompare(String(x[1][0].isoDate || '')));
+
+for (const [kode, arts] of DAFTAR_EMITEN) {
+  const hitung = { positif: 0, negatif: 0, netral: 0 };
+  arts.forEach(a => { if (hitung[a.sentimen] != null) hitung[a.sentimen]++; });
+  const rekap = ['positif', 'netral', 'negatif'].filter(k => hitung[k])
+    .map(k => `<span class="sentimen sentimen-${k}">${hitung[k]} ${k}</span>`).join(' ');
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Sinyal per Emiten</span>` +
+    `<h1 class="harian-judul">${esc(kode)}</h1>` +
+    `<p class="harian-tanggal num">${arts.length} laporan keterbukaan &middot; terakhir ${esc(arts[0].date)}</p>` +
+    (rekap ? `<p class="emiten-rekap">Riwayat penilaian: ${rekap}</p>` : '') +
+    `</div>` +
+    `<div class="linimasa">${arts.map(a => itemLinimasa(a)).join('')}</div>` +
+    DISCLAIMER_SINYAL +
+    `</section>`;
+  fs.writeFileSync(path.join(ROOT, 'emiten', kode + '.html'),
+    head({
+      title: 'Sinyal ' + kode,
+      desc: 'Semua laporan keterbukaan informasi ' + kode + ' yang dibaca The Signal, ' +
+        'lengkap dengan arah penilaiannya: ' + arts.length + ' laporan, terakhir ' + arts[0].date + '.',
+      url: '/emiten/' + kode + '.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) + isi + FOOT, 'utf8');
+}
+
+{
+  const kartu = DAFTAR_EMITEN.map(([kode, arts]) =>
+    `<a class="emiten-kartu" href="/emiten/${kode}.html">` +
+    `<span class="emiten-kode">${esc(kode)}</span>` +
+    `<span class="emiten-info">${arts.length} laporan &middot; <span class="num">${esc(arts[0].date)}</span></span>` +
+    chipSentimen(arts[0].sentimen) + `</a>`).join('');
+  fs.writeFileSync(path.join(ROOT, 'emiten.html'),
+    head({
+      title: 'Sinyal per Emiten',
+      desc: 'Arsip laporan bursa The Signal disusun per saham: ' + DAFTAR_EMITEN.length +
+        ' emiten dengan riwayat arah penilaiannya masing-masing.',
+      url: '/emiten.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Sinyal per Emiten</span>` +
+    `<h1 class="harian-judul">Satu saham, satu garis waktu</h1>` +
+    `<p class="harian-ringkas">Semua laporan keterbukaan informasi yang dibaca The Signal, ` +
+    `disusun per emiten. Chip menunjukkan penilaian laporan terbarunya.</p>` +
+    `</div>` +
+    `<div class="emiten-grid">${kartu}</div>` +
+    DISCLAIMER_SINYAL +
+    `</section>` + FOOT, 'utf8');
+  console.log('sinyal per emiten:', DAFTAR_EMITEN.length, 'halaman + indeks');
+}
+
+// ---------- Agenda Sinyal ----------
+//
+// Kalender maju: tanggal yang disebut artikel sebagai penentunya (RUPSLB,
+// tanggal efektif, tenggat) plus perkiraan jadwal rilis BPS. Pembaca bisnis
+// membuka ini untuk tahu kapan harus siaga, bukan sekadar apa yang terjadi.
+{
+  const NAMA_HARI = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
+  function labelHari(isoTgl) {
+    const d = new Date(isoTgl + 'T00:00:00Z');
+    return NAMA_HARI[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+  }
+  const perHari = new Map();
+  for (const e of AGENDA) {
+    if (!perHari.has(e.iso)) perHari.set(e.iso, []);
+    perHari.get(e.iso).push(e);
+  }
+  const blokHari = [...perHari.entries()].map(([isoTgl, entri]) =>
+    `<div class="agenda-hari">` +
+    `<h2 class="agenda-tgl num">${esc(labelHari(isoTgl))}</h2>` +
+    entri.map(e =>
+      `<article class="agenda-item">` +
+      `<div class="agenda-kepala">` +
+      (e.perkiraan ? `<span class="agenda-chip agenda-perkiraan">perkiraan</span>` : '') +
+      (e.emiten ? `<span class="agenda-chip">${esc(e.emiten)}</span>` : '') +
+      `<span class="agenda-chip agenda-kategori">${esc(e.kategori)}</span></div>` +
+      `<p class="agenda-teks">${esc(e.teks)}</p>` +
+      (e.slug
+        ? `<a class="agenda-sumber" href="/berita/${esc(e.slug)}.html">${esc(e.judul)} &rarr;</a>`
+        : `<a class="agenda-sumber" href="/data-ekonomi.html">${esc(e.judul)} &rarr;</a>`) +
+      `</article>`).join('') +
+    `</div>`).join('');
+
+  fs.writeFileSync(path.join(ROOT, 'agenda.html'),
+    head({
+      title: 'Agenda Sinyal',
+      desc: 'Tanggal-tanggal yang akan menentukan arah: RUPSLB, tenggat regulasi, ' +
+        'tanggal efektif aksi korporasi, dan jadwal rilis data resmi, dikumpulkan dari seluruh arsip.',
+      url: '/agenda.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Agenda Sinyal</span>` +
+    `<h1 class="harian-judul">Tanggal yang akan menentukan arah</h1>` +
+    `<p class="harian-tanggal num">${AGENDA.length} agenda dalam 120 hari ke depan</p>` +
+    `<p class="harian-ringkas">Dikumpulkan otomatis dari tanggal yang disebut artikel-artikel The Signal ` +
+    `sendiri: RUPSLB, tanggal efektif, tenggat regulasi, plus perkiraan jadwal rilis BPS. ` +
+    `Entri berlabel <em>perkiraan</em> berarti sumbernya menyebut rentang, bukan tanggal pasti.</p>` +
+    `</div>` +
+    (blokHari || '<p class="harian-ringkas">Belum ada agenda dalam 120 hari ke depan.</p>') +
+    `</section>` + FOOT, 'utf8');
+  console.log('agenda sinyal:', AGENDA.length, 'entri');
+}
+
+// ---------- Tema bersambung ----------
+//
+// Garis waktu per isu berjalan. Registry dan pencocokannya di scripts/tema.mjs;
+// di sini hanya perenderan. Tema baru tampil sendiri begitu bahannya mencapai
+// ambang, tanpa perubahan kode di file ini.
+fs.mkdirSync(ROOT + '/tema', { recursive: true });
+for (const t of KELOMPOK_TEMA) {
+  const terbaru = t.artikel[0];
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Tema Berjalan</span>` +
+    `<h1 class="harian-judul">${esc(t.nama)}</h1>` +
+    `<p class="harian-tanggal num">${t.artikel.length} artikel &middot; terakhir ${esc(terbaru.date)}</p>` +
+    `<p class="harian-ringkas">${esc(t.deskripsi)}</p>` +
+    `</div>` +
+    (terbaru.takeaway
+      ? `<div class="arah-blok" style="max-width:70ch;"><b class="arah-label">Arah terakhir` +
+        (terbaru.sentimen ? ' ' + chipSentimen(terbaru.sentimen) : '') + `</b>` +
+        `<p class="arah-isi">${esc(terbaru.takeaway)}</p></div>`
+      : '') +
+    `<div class="linimasa">${t.artikel.map(a => itemLinimasa(a, { kategori: true })).join('')}</div>` +
+    `</section>`;
+  fs.writeFileSync(path.join(ROOT, 'tema', t.slug + '.html'),
+    head({
+      title: 'Tema: ' + t.nama,
+      desc: t.deskripsi,
+      url: '/tema/' + t.slug + '.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) + isi + FOOT, 'utf8');
+}
+
+{
+  const kartu = KELOMPOK_TEMA.map(t =>
+    `<a class="tema-kartu" href="/tema/${t.slug}.html">` +
+    `<h2>${esc(t.nama)}</h2>` +
+    `<p>${esc(t.deskripsi)}</p>` +
+    `<span class="tema-meta num">${t.artikel.length} artikel &middot; terakhir ${esc(t.artikel[0].date)}</span>` +
+    `</a>`).join('');
+  fs.writeFileSync(path.join(ROOT, 'tema.html'),
+    head({
+      title: 'Tema Berjalan',
+      desc: 'Isu-isu ekonomi yang beritanya bersambung lintas hari, disusun jadi garis waktu ' +
+        'arah: dari pembatasan subsidi BBM sampai transisi Gubernur BI.',
+      url: '/tema.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Tema Berjalan</span>` +
+    `<h1 class="harian-judul">Ikuti isunya, bukan potongannya</h1>` +
+    `<p class="harian-ringkas">Berita harian itu potongan. Halaman-halaman ini menyusunnya ` +
+    `kembali per isu, terbaru di atas, supaya kelihatan ke mana arahnya bergerak.</p>` +
+    `</div>` +
+    `<div class="tema-grid">${kartu}</div>` +
+    `</section>` + FOOT, 'utf8');
+  console.log('tema berjalan:', KELOMPOK_TEMA.length, 'tema tayang');
+}
+
+// ---------- Rapor Sinyal ----------
+//
+// Rekam jejak yang bisa ditagih: klaim arah dari tiap edisi Signal Harian
+// beserta status pembuktiannya. Bunyi klaim tidak pernah diubah setelah
+// tercatat; yang berubah hanya statusnya, dan perubahan status selalu
+// menautkan artikel bukti. Media yang berani menilai dirinya sendiri lebih
+// layak dipercaya saat menilai yang lain, dan justru itu produknya.
+if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
+  const LABEL_STATUS = {
+    menunggu: 'Menunggu bukti', terkonfirmasi: 'Terkonfirmasi',
+    patah: 'Patah', kedaluwarsa: 'Kedaluwarsa',
+  };
+  const hitung = {};
+  for (const e of RAPOR.entri) hitung[e.status] = (hitung[e.status] || 0) + 1;
+  const dinilai = (hitung.terkonfirmasi || 0) + (hitung.patah || 0);
+  const ringkasSkor = dinilai
+    ? `${hitung.terkonfirmasi || 0} terkonfirmasi, ${hitung.patah || 0} patah dari ${dinilai} yang sudah ternilai; ${hitung.menunggu || 0} menunggu bukti`
+    : `${RAPOR.entri.length} pembacaan tercatat, semua masih menunggu penanda ujinya jatuh tempo`;
+
+  function tglEdisi(iso) {
+    const d = new Date(iso + 'T00:00:00Z');
+    return d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+  }
+  const item = RAPOR.entri.map(e =>
+    `<article class="rapor-item rapor-${esc(e.status)}">` +
+    `<div class="rapor-kepala">` +
+    `<span class="rapor-status">${esc(LABEL_STATUS[e.status] || e.status)}</span>` +
+    `<span class="rapor-edisi num">Edisi ${esc(tglEdisi(e.edisi))}` +
+    (e.tenggatLabel ? ` &middot; uji: ${esc(e.tenggatLabel)}` : '') + `</span></div>` +
+    `<h2 class="rapor-benang">${esc(e.benang)}</h2>` +
+    `<p class="rapor-klaim">&ldquo;${esc(e.klaim)}&rdquo;</p>` +
+    `<p class="rapor-penanda"><b>Penanda uji:</b> ${esc(e.penanda)}</p>` +
+    (e.bukti
+      ? `<p class="rapor-bukti">${esc(e.bukti.alasan || '')} ` +
+        `<a href="/berita/${esc(e.bukti.slug)}.html">${esc(e.bukti.judul)} (${esc(e.bukti.tanggal)}) &rarr;</a></p>`
+      : '') +
+    `</article>`).join('');
+
+  fs.writeFileSync(path.join(ROOT, 'rapor.html'),
+    head({
+      title: 'Rapor Sinyal',
+      desc: 'Rekam jejak pembacaan arah The Signal: tiap klaim dicatat beserta penanda ujinya, ' +
+        'lalu dinilai terkonfirmasi atau patah begitu buktinya terbit. ' + ringkasSkor + '.',
+      url: '/rapor.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+    }) +
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Rapor Sinyal</span>` +
+    `<h1 class="harian-judul">Pembacaan kami, dinilai terbuka</h1>` +
+    `<p class="harian-tanggal num">${esc(ringkasSkor)}</p>` +
+    `<p class="harian-ringkas">Tiap Signal Harian membaca arah dan menyebut sendiri penanda ` +
+    `ujinya. Halaman ini menagihnya: klaim dikutip apa adanya saat terbit, tidak pernah ` +
+    `disunting, lalu diberi status begitu penandanya terbukti atau meleset. Patah ya ditulis ` +
+    `patah; rapor yang hanya mencatat yang benar bukan rapor.</p>` +
+    `</div>` +
+    `<div class="rapor-daftar">${item}</div>` +
+    DISCLAIMER_SINYAL +
+    `</section>` + FOOT, 'utf8');
+  console.log('rapor sinyal:', RAPOR.entri.length, 'klaim (' + ringkasSkor + ')');
+}
+
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN });
+bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------
@@ -808,8 +1133,14 @@ function bersihkanYatim(folder, sahSet) {
 }
 const yatimBerita = bersihkanYatim("berita", new Set(ARTICLES.map(a => a.slug + ".html")));
 const yatimVideo = bersihkanYatim("tayangan", new Set(VIDEOS.map(v => v.id + ".html")));
-if (yatimBerita || yatimVideo) {
-  console.log("halaman lama dihapus: " + yatimBerita + " berita, " + yatimVideo + " video");
+// Halaman emiten dan tema ikut dibersihkan: emiten yang artikelnya sudah
+// terdorong keluar arsip, atau tema yang turun di bawah ambang, tidak boleh
+// menyisakan halaman beku yang masih bisa diakses publik.
+const yatimEmiten = bersihkanYatim("emiten", new Set(DAFTAR_EMITEN.map(([k]) => k + ".html")));
+const yatimTema = bersihkanYatim("tema", new Set(KELOMPOK_TEMA.map(t => t.slug + ".html")));
+if (yatimBerita || yatimVideo || yatimEmiten || yatimTema) {
+  console.log("halaman lama dihapus: " + yatimBerita + " berita, " + yatimVideo + " video, " +
+    yatimEmiten + " emiten, " + yatimTema + " tema");
 }
 
 // ---------- pasang versi aset di halaman root ----------
@@ -876,10 +1207,17 @@ periksaHalamanRoot();
 // Video tidak membawa tanggal di datanya, jadi tanpa lastmod; itu sah.
 const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
+  '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
   .concat(ARTICLES.map(a => ({ loc: articleUrl(a), lastmod: (a.isoDate || '').slice(0, 10) })))
-  .concat(VIDEOS.map(v => ({ loc: videoUrl(v) })));
+  .concat(VIDEOS.map(v => ({ loc: videoUrl(v) })))
+  // lastmod halaman emiten dan tema = tanggal laporan terbarunya, karena
+  // memang hanya berubah saat ada artikel baru menempel.
+  .concat(DAFTAR_EMITEN.map(([k, arts]) =>
+    ({ loc: '/emiten/' + k + '.html', lastmod: String(arts[0].isoDate || '').slice(0, 10) })))
+  .concat(KELOMPOK_TEMA.map(t =>
+    ({ loc: '/tema/' + t.slug + '.html', lastmod: String(t.artikel[0].isoDate || '').slice(0, 10) })));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +

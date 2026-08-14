@@ -47,6 +47,19 @@ jobs:
       - name: Pasang dependensi
         run: npm ci
 
+      - name: Kirim artikel rilis BPS ke Telegram
+        # SENGAJA DI AWAL putaran, bukan setelah artikelnya ditulis: pesan
+        # kanal tidak bisa menunggu deploy Vercel, jadi yang dikirim adalah
+        # artikel rilis BPS dari putaran SEBELUMNYA yang kini sudah tayang
+        # (skripnya memeriksa 200 dulu). Telat maksimal dua jam, tidak pernah
+        # menautkan halaman yang belum ada. Perubahan state anti-gandanya
+        # ikut ter-commit oleh langkah commit rutin di bawah.
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+        run: node scripts/kirim-telegram.mjs --artikel-bps
+
       - name: Pasang ffmpeg
         run: |
           # WAJIB untuk mengunduh foto asli dari sumber. unduhFoto memakai

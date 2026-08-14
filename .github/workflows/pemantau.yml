@@ -58,7 +58,8 @@ jobs:
           SITUS=https://the-signal.id
           gagal=0
 
-          for u in / /berita.html /signal-harian.html /data-ekonomi.html /tentang.html; do
+          for u in / /berita.html /signal-harian.html /data-ekonomi.html /tentang.html \
+                   /agenda.html /rapor.html /tema.html /emiten.html; do
             KODE=$(curl -s -o /dev/null -w '%{http_code}' --max-time 25 "$SITUS$u")
             if [ "$KODE" != "200" ]; then
               echo "::error::$u membalas HTTP $KODE"

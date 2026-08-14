@@ -289,7 +289,25 @@ function panelHarian(HARIAN) {
     '</a>';
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN }) {
+// Blok Agenda di rail beranda: empat tanggal terdekat yang akan menentukan
+// arah, dari kalender yang sama dengan /agenda.html. Empat saja karena rail
+// sempit; selebihnya urusan halaman lengkapnya.
+function blokAgenda(AGENDA) {
+  if (!AGENDA || !AGENDA.length) return '';
+  const BULAN3 = ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'];
+  return AGENDA.slice(0, 4).map(e => {
+    const d = new Date(e.iso + 'T00:00:00Z');
+    const tgl = d.getUTCDate() + ' ' + BULAN3[d.getUTCMonth()];
+    const tuju = e.slug ? '/berita/' + e.slug + '.html' : '/agenda.html';
+    return '<a class="compact-row" href="' + esc(tuju) + '">' +
+      '<span class="compact-num num agenda-num">' + esc(tgl) + (e.perkiraan ? '<em>±</em>' : '') + '</span>' +
+      '<span class="compact-body"><span class="compact-title">' + esc(e.judul) + '</span>' +
+      '<span class="compact-meta">' + (e.emiten ? esc(e.emiten) + ' &middot; ' : '') + esc(e.kategori) +
+      '</span></span></a>';
+  }).join('');
+}
+
+export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -334,6 +352,9 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN }) {
 
   const strip = stripBps(BPS);
   if (strip) idx = ganti(idx, 'bpsstrip', strip, 'index.html');
+
+  const agenda = blokAgenda(AGENDA);
+  if (agenda) idx = ganti(idx, 'agenda', agenda, 'index.html');
 
   const sumber = sumberRingkas(ARTICLES);
   if (sumber) idx = ganti(idx, 'sumber', esc(sumber), 'index.html');

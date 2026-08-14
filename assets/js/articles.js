@@ -2031,6 +2031,59 @@ var ARTICLES = [
   "imageV": "mssdbrsv"
  },
  {
+  "slug": "palm-siapkan-dana-lunasi-obligasi-jatuh-tempo-3-sep-2026",
+  "category": "Aksi Korporasi",
+  "title": "PALM Siapkan Dana Lunasi [Obligasi] Jatuh Tempo 3 Sep 2026",
+  "deck": "PALM menyatakan dana pelunasan pokok dan bunga keempat Obligasi Berkelanjutan II Tahap V Seri A sudah tersedia, menjelang jatuh tempo 3 September 2026 dengan bunga tetap 7,50 persen per tahun.",
+  "image": "assets/img/palm-siapkan-dana-lunasi-obligasi-jatuh-tempo-3-sep-2026.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T19:16:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e004bde61a_4d644a5733.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PALM",
+  "tags": [
+   "PALM",
+   "obligasi",
+   "Provident Investasi Bersama",
+   "pembayaran bunga"
+  ],
+  "body": [
+   "PT Provident Investasi Bersama Tbk (PALM) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perseroan telah menyediakan dana untuk pelunasan pokok sekaligus pembayaran bunga keempat Obligasi Berkelanjutan II Provident Investasi Bersama Tahap V Tahun 2025 Seri A. Obligasi ini akan jatuh tempo pada 3 September 2026 dengan tingkat bunga tetap sebesar 7,50 persen per tahun. Laporan bertanggal 11 Agustus 2026 itu ditandatangani oleh Corporate Secretary PALM, Lim Na Lie.",
+   "Karena pembayaran kali ini adalah bunga keempat, obligasi seri ini sudah melewati tiga periode pembayaran bunga sebelumnya, dan periode keempat ini bertepatan dengan waktu pelunasan pokok karena sudah jatuh tempo. Kesiapan dana semacam ini merupakan kewajiban keterbukaan yang diatur dalam Peraturan Bursa Efek Indonesia No. I-E, yang mewajibkan emiten penerbit obligasi memberi tahu regulator dan pasar bahwa dana untuk membayar kewajiban utang sudah tersedia menjelang tanggal jatuh tempo, sehingga pemegang obligasi mendapat kepastian pembayaran akan dilakukan tepat waktu."
+  ],
+  "fotoAdegan": "Modern glass office towers in a busy Jakarta financial district at dusk, taxis passing on the street below",
+  "takeaway": "Laporan ini condong positif bagi PALM karena menegaskan bahwa dana untuk melunasi utang obligasi yang jatuh tempo sudah tersedia, tanda perusahaan tidak berisiko gagal bayar dalam waktu dekat. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar keluar masuk dari kas perusahaan, karena kesiapan dana berarti PALM sudah menyisihkan kas cukup untuk membayar pokok dan bunga tanpa perlu mencari pinjaman baru mendadak. Pelaku pasar memperhatikan arus kas semacam ini sebab kegagalan menyediakan dana tepat waktu bisa memicu gagal bayar yang merusak kepercayaan investor terhadap seluruh obligasi perusahaan, bukan cuma seri ini saja. Yang perlu dipantau berikutnya adalah tanggal jatuh tempo pada 3 September 2026, saat pembayaran pokok dan bunga keempat ini benar-benar dieksekusi ke pemegang obligasi.",
+  "sentimen": "positif",
+  "imageV": "msshhv2l"
+ },
+ {
+  "slug": "iata-karya-pacific-investama-tambah-saham-suara-60-35",
+  "category": "Aksi Korporasi",
+  "title": "IATA: Karya Pacific Investama [Tambah] Saham, Suara 60,35%",
+  "deck": "Karya Pacific Investama menambah kepemilikan di PT MNC Energy Investments Tbk (IATA) senilai sekitar Rp230,3 miliar, mengangkat hak suaranya dari 50,50% menjadi 60,35%.",
+  "image": "assets/img/iata-karya-pacific-investama-tambah-saham-suara-60-35.jpg",
+  "date": "11 Agustus 2026",
+  "isoDate": "2026-08-11T19:15:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-7144-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IATA",
+  "tags": [
+   "IATA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "MNC Energy Investments"
+  ],
+  "body": [
+   "KARYA PACIFIC INVESTAMA, pemegang saham utama PT MNC Energy Investments Tbk (IATA), melaporkan penambahan kepemilikan saham ke Otoritas Jasa Keuangan pada 11 Agustus 2026. Berdasarkan laporan tersebut, jumlah saham yang dipegang naik dari 15.794.294.800 lembar menjadi 18.874.964.300 lembar, bertambah 3.080.669.500 lembar atau setara 19,50 persen dari kepemilikan sebelumnya. Penambahan ini sekaligus mengerek hak suara Karya Pacific Investama di IATA dari 50,50 persen menjadi 60,35 persen.",
+   "Penambahan saham dilakukan lewat dua transaksi pembelian tidak langsung dengan tujuan investasi. Transaksi pertama sebanyak 1.563.791.500 lembar saham biasa dieksekusi pada 28 Juli 2026 dengan harga Rp60 per saham, sedangkan transaksi kedua sebanyak 1.516.878.000 lembar dilakukan pada 6 Agustus 2026 dengan harga Rp90 per saham. Total nilai kedua transaksi tersebut sekitar Rp230,3 miliar.",
+   "Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Karya Pacific Investama tercatat bukan anggota direksi maupun dewan komisaris IATA, namun kini menguasai lebih dari 60 persen hak suara perusahaan setelah penambahan ini."
+  ],
+  "fotoAdegan": "Wide shot of an industrial power plant with tall chimneys and pipelines along an Indonesian coastline, technicians walking near machinery, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi IATA karena pemegang saham utamanya menambah kepemilikan dalam jumlah besar, senilai sekitar Rp230,3 miliar, bukan sekadar transaksi kecil yang bisa diabaikan. Transaksi jual beli saham semacam ini terjadi di pasar sekunder antar pemegang saham, sehingga tidak menambah kas atau mengubah jumlah saham beredar perusahaan, dan karena itu tidak berdampak langsung pada laba per saham. Yang berubah adalah konsentrasi hak suara: dengan kepemilikan naik ke 60,35 persen, Karya Pacific Investama makin leluasa mengendalikan keputusan yang diambil lewat rapat pemegang saham, sehingga pengaruh pemegang saham publik jadi makin kecil. Yang perlu dipantau selanjutnya adalah apakah Karya Pacific Investama masih akan menambah kepemilikannya lewat laporan serupa berikutnya, serta bagaimana IATA menjelaskan dampak konsolidasi kendali ini kepada pemegang saham publik sesuai kewajiban keterbukaan informasi ke bursa.",
+  "sentimen": "positif",
+  "imageV": "msshig11"
+ },
+ {
   "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",
   "category": "Pasar Modal",
   "title": "Wakaf Istiqlal Masuk Bursa, Jangan [Kejar Return Tinggi]",

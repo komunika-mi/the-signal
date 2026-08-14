@@ -1298,6 +1298,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "palm-siapkan-dana-lunasi-obligasi-jatuh-tempo-3-sep-2026",
+  "category": "Aksi Korporasi",
+  "title": "PALM Siapkan Dana Lunasi [Obligasi] Jatuh Tempo 3 Sep 2026",
+  "deck": "PALM menyatakan dana pelunasan pokok dan bunga keempat Obligasi Berkelanjutan II Tahap V Seri A sudah tersedia, menjelang jatuh tempo 3 September 2026 dengan bunga tetap 7,50 persen per tahun.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/palm-siapkan-dana-lunasi-obligasi-jatuh-tempo-3-sep-2026.jpg",
+  "imageV": "msshhv2l",
+  "tags": [
+   "PALM",
+   "obligasi",
+   "Provident Investasi Bersama",
+   "pembayaran bunga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e004bde61a_4d644a5733.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iata-karya-pacific-investama-tambah-saham-suara-60-35",
+  "category": "Aksi Korporasi",
+  "title": "IATA: Karya Pacific Investama [Tambah] Saham, Suara 60,35%",
+  "deck": "Karya Pacific Investama menambah kepemilikan di PT MNC Energy Investments Tbk (IATA) senilai sekitar Rp230,3 miliar, mengangkat hak suaranya dari 50,50% menjadi 60,35%.",
+  "date": "11 Agustus 2026",
+  "image": "assets/img/iata-karya-pacific-investama-tambah-saham-suara-60-35.jpg",
+  "imageV": "msshig11",
+  "tags": [
+   "IATA",
+   "kepemilikan saham",
+   "pemegang saham",
+   "MNC Energy Investments"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11082026-7144-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wakaf-istiqlal-masuk-bursa-jangan-kejar-return-tinggi",
   "category": "Pasar Modal",
   "title": "Wakaf Istiqlal Masuk Bursa, Jangan [Kejar Return Tinggi]",

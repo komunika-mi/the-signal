@@ -350,6 +350,24 @@ function tanyaModel(pertanyaan, bahan) {
     : lewatChat(pertanyaan, bahan);
 }
 
+// Merapikan markdown yang menyelinap ke jawaban.
+//
+// Aturan sudah menyuruh memakai HTML Telegram, tapi kepatuhan format itu
+// hal pertama yang dilanggar model kelas ringan, dan sejak 15 Agustus 2026
+// bot memang sengaja memakai model murah. Tanpa ini pembaca melihat
+// **tebal** dan [judul](tautan) mentah di layar, atau kehilangan cetak tebal
+// sama sekali karena jatuh ke jaring pengaman teks polos.
+//
+// Hanya dua bentuk yang diterjemahkan, yaitu yang paling sering muncul.
+// Sisanya biar ditangani jaring pengaman; menambal tiap kemungkinan
+// markdown di sini cuma memindahkan kerumitan, bukan menghapusnya.
+function rapikanFormat(teks) {
+  return String(teks)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/\*\*([^*\n]+)\*\*/g, '<b>$1</b>')
+    .replace(/^#{1,6}\s+/gm, '');
+}
+
 const SAMBUTAN =
   '<b>The Signal</b>\n\n' +
   'Saya asisten pembaca The Signal. Tanya apa saja soal ekonomi Indonesia yang ' +
@@ -435,7 +453,8 @@ export default async function handler(req, res) {
     const indeks = await ambilIndeks();
     const artikel = pilihArtikel(indeks, teks);
     const jawab = await tanyaModel(teks, rakitBahan(indeks, artikel));
-    await kirim(chatId, jawab || 'Maaf, saya belum bisa menyusun jawabannya. Coba tanya dengan kalimat lain.');
+    await kirim(chatId, jawab ? rapikanFormat(jawab)
+      : 'Maaf, saya belum bisa menyusun jawabannya. Coba tanya dengan kalimat lain.');
   } catch (e) {
     // Sebab teknis TIDAK ditampilkan ke pembaca: pesan galat mentah bisa
     // memuat potongan konfigurasi, dan bagi pembaca tidak berguna.

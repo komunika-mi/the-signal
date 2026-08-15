@@ -21,22 +21,33 @@ const TOKEN = (process.env.TELEGRAM_BOT_TOKEN || '').trim();
 const RAHASIA = (process.env.TELEGRAM_WEBHOOK_SECRET || '').trim();
 const SITUS = 'https://the-signal.id';
 
-// DUA JALAN KE MODEL, dipilih dari kunci yang tersedia.
+// TIGA JALAN KE MODEL, dipilih dari kunci yang tersedia, urutan:
+// OpenRouter -> OpenAI langsung -> Anthropic langsung.
 //
-// OpenRouter didahulukan karena itu yang dipakai pemilik: satu akun untuk
-// banyak model, dan tagihannya di satu tempat. Jalur Anthropic langsung
-// tetap ada supaya pindah kelak cukup mengganti env, tanpa menyentuh kode.
+// Pindah penyedia cukup mengganti kunci di Vercel, tanpa menyentuh kode
+// sedikit pun. Itu penting karena keputusan model belum final: rencananya
+// membandingkan mutu jawaban beberapa model sebelum memilih yang dipakai
+// sehari-hari.
 //
-// Nama model BERBEDA di kedua jalur, dan itu sumber salah paham yang mahal:
-// di OpenRouter wajib berawalan penyedia (anthropic/claude-sonnet-5),
-// sedangkan Anthropic langsung memakai nama telanjang (claude-sonnet-5).
-// Karena itu bawaannya ditentukan mengikuti jalur yang aktif.
+// OpenRouter dan OpenAI berbagi bentuk permintaan yang sama (rangkaian
+// pesan berperan, jawaban di choices[0]), jadi keduanya memakai satu fungsi.
+// Anthropic langsung berbeda bentuk dan punya fungsinya sendiri.
+//
+// NAMA MODEL BERBEDA DI TIAP JALUR, dan itu sumber salah paham yang mahal:
+// OpenRouter wajib berawalan penyedia (anthropic/claude-sonnet-5,
+// openai/gpt-5-mini), sedangkan jalur langsung memakai nama telanjang
+// (gpt-5-mini, claude-sonnet-5). Karena itu bawaannya mengikuti jalur aktif.
 const KUNCI_OR = (process.env.OPENROUTER_API_KEY || '').trim();
+const KUNCI_OPENAI = (process.env.OPENAI_API_KEY || '').trim();
 const KUNCI_ANTHROPIC = (process.env.ANTHROPIC_API_KEY || '').trim();
-const LEWAT_OR = Boolean(KUNCI_OR);
-const ADA_MODEL = Boolean(KUNCI_OR || KUNCI_ANTHROPIC);
-const MODEL = (process.env.SIGNAL_BOT_MODEL ||
-  (LEWAT_OR ? 'anthropic/claude-sonnet-5' : 'claude-sonnet-5')).trim();
+const JALUR = KUNCI_OR ? 'openrouter' : KUNCI_OPENAI ? 'openai'
+  : KUNCI_ANTHROPIC ? 'anthropic' : '';
+const ADA_MODEL = Boolean(JALUR);
+const MODEL = (process.env.SIGNAL_BOT_MODEL || {
+  openrouter: 'anthropic/claude-sonnet-5',
+  openai: 'gpt-5-mini',
+  anthropic: 'claude-sonnet-5',
+}[JALUR] || '').trim();
 
 // Daftar putih opsional selama masa uji coba. Kosong berarti terbuka untuk
 // siapa saja; diisi (dipisah koma) berarti hanya id itu yang dilayani.
@@ -271,35 +282,43 @@ function isiPesan(pertanyaan, bahan) {
   return 'BAHAN:\n' + bahan + '\n\n<<<TANYA>>>\n' + pertanyaan + '\n<<<AKHIR>>>';
 }
 
-// OpenRouter memakai bentuk yang kompatibel dengan OpenAI: aturan sistem
-// masuk sebagai pesan berperan "system", dan jawabannya ada di choices[0].
-async function lewatOpenRouter(pertanyaan, bahan) {
-  const r = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+// Jalur ala OpenAI, dipakai bersama oleh OpenRouter dan OpenAI langsung:
+// aturan sistem masuk sebagai pesan berperan "system", jawaban di choices[0].
+async function lewatChat(pertanyaan, bahan) {
+  const keOR = JALUR === 'openrouter';
+  const badan = {
+    model: MODEL,
+    messages: [
+      { role: 'system', content: ATURAN },
+      { role: 'user', content: isiPesan(pertanyaan, bahan) },
+    ],
+  };
+  // Nama batas panjangnya BERBEDA, dan salah pilih berarti permintaan
+  // ditolak mentah-mentah. OpenAI generasi baru menolak max_tokens dan
+  // menuntut max_completion_tokens; OpenRouter menormalkan max_tokens untuk
+  // semua penyedia yang ia jembatani.
+  if (keOR) badan.max_tokens = 700; else badan.max_completion_tokens = 700;
+
+  const r = await fetch(keOR
+    ? 'https://openrouter.ai/api/v1/chat/completions'
+    : 'https://api.openai.com/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer ' + KUNCI_OR,
-      // Dua header ini bukan syarat, tapi OpenRouter memakainya untuk
-      // mengenali asal permintaan di dasbor. Memudahkan menelusuri biaya
+      'Authorization': 'Bearer ' + (keOR ? KUNCI_OR : KUNCI_OPENAI),
+      // Dua header ini khusus OpenRouter, bukan syarat, tapi dipakai untuk
+      // mengenali asal permintaan di dasbornya. Memudahkan menelusuri biaya
       // kalau kelak ada beberapa layanan memakai kunci yang sama.
-      'HTTP-Referer': SITUS,
-      'X-Title': 'The Signal',
+      ...(keOR ? { 'HTTP-Referer': SITUS, 'X-Title': 'The Signal' } : {}),
     },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 700,
-      messages: [
-        { role: 'system', content: ATURAN },
-        { role: 'user', content: isiPesan(pertanyaan, bahan) },
-      ],
-    }),
+    body: JSON.stringify(badan),
   });
   const j = await r.json().catch(() => ({}));
-  // OpenRouter bisa membalas HTTP 200 dengan galat di dalam badan, misalnya
-  // saldo habis atau nama model salah. Memeriksa r.ok saja tidak cukup, dan
-  // tanpa pemeriksaan ini pembaca menerima jawaban kosong tanpa sebab.
+  // Bisa membalas HTTP 200 dengan galat di dalam badan, misalnya saldo habis
+  // atau nama model salah. Memeriksa r.ok saja tidak cukup, dan tanpa
+  // pemeriksaan ini pembaca menerima jawaban kosong tanpa sebab.
   if (!r.ok || j.error) {
-    throw new Error('OpenRouter ' + r.status + ': ' +
+    throw new Error((keOR ? 'OpenRouter ' : 'OpenAI ') + r.status + ': ' +
       ((j.error && j.error.message) || JSON.stringify(j).slice(0, 200)));
   }
   return String(((j.choices || [])[0] || {}).message?.content || '').trim();
@@ -326,7 +345,9 @@ async function lewatAnthropic(pertanyaan, bahan) {
 }
 
 function tanyaModel(pertanyaan, bahan) {
-  return LEWAT_OR ? lewatOpenRouter(pertanyaan, bahan) : lewatAnthropic(pertanyaan, bahan);
+  return JALUR === 'anthropic'
+    ? lewatAnthropic(pertanyaan, bahan)
+    : lewatChat(pertanyaan, bahan);
 }
 
 const SAMBUTAN =

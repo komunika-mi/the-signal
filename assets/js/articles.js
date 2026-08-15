@@ -56,6 +56,142 @@ var ARTICLES = [
   "imageV": "mstktbdb"
  },
  {
+  "slug": "silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit",
+  "category": "Aksi Korporasi",
+  "title": "SILO [Akuisisi] 14 RS Senilai Rp6,9 Triliun dari First REIT",
+  "deck": "Siloam berencana membeli 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp6,9 triliun, transaksi material yang perlu persetujuan RUPSLB 22 September 2026.",
+  "image": "assets/img/silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T00:41:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cc58ee9c06_7a64eba02a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "First REIT",
+   "akuisisi rumah sakit",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) mengoreksi sekaligus mempertegas rencana transaksi material yang sebelumnya diumumkan 14 Agustus 2026. Perseroan, baik langsung maupun lewat anak usaha, berencana mengambil alih saham di 14 perusahaan pemilik properti rumah sakit yang selama ini disewa dan dioperasikan oleh Siloam, dari anak-anak perusahaan First Real Estate Investment Trust (First REIT). Nilai total rencana transaksi ini mencapai Rp6,9 triliun, melebihi 50 persen ekuitas perseroan menurut Laporan Keuangan per 31 Maret 2026, sehingga wajib mendapat persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 22 September 2026.",
+   "Transaksi dijalankan dalam dua tahap. Tahap pertama senilai Rp4,08 triliun berupa pengambilalihan 100 persen saham di delapan perusahaan berdasarkan Perjanjian Jual Beli Saham Bersyarat tertanggal 1 April 2026, yaitu PT Sriwijaya Mega Abadi (Siloam Hospitals Sriwijaya Palembang), PT Eka Dasa Parinama (Siloam Hospitals Purwakarta), PT Sentra Dinamika Perkasa (Siloam Hospitals Lippo Village), PT Graha Indah Pratama (Siloam Hospitals Kebon Jeruk), PT Dasa Graha Jaya (Siloam Hospitals Denpasar), PT Nusa Bahana Niaga (Siloam Hospitals Kupang), PT Buton Bangun Cipta (Siloam Hospitals Baubau), dan PT Menara Abadi Megah (Siloam Hospitals Manado). Tahap kedua senilai Rp2,83 triliun baru dijalankan bila pemegang opsi di enam perusahaan lain menggunakan hak jualnya berdasarkan Perjanjian Opsi Jual yang juga diteken 1 April 2026, yaitu PT Prima Labuan Bajo (Siloam Hospitals Labuan Bajo), PT Perisai Dunia Sejahtera (Siloam Hospitals TB Simatupang), PT Bayutama Sukses (Siloam Hospitals Makassar), PT Primatama Cemerlang (Mochtar Riady Comprehensive Cancer Centre), PT Graha Pilar Sejahtera (Siloam Hospitals Lippo Cikarang), dan PT Yogya Central Terpadu (Siloam Hospitals Yogyakarta).",
+   "Perseroan menunjuk KJPP Budi, Edy, Saptono dan Rekan sebagai penilai independen. Penilai Budi Syafaat menerbitkan laporan pendapat kewajaran bertanggal 13 Agustus 2026 dan menyatakan transaksi ini wajar serta bukan transaksi afiliasi maupun benturan kepentingan. Dalam laporan keuangan konsolidasian proforma yang disusun seolah transaksi sudah berlaku sejak 1 Januari 2026, total aset perseroan naik dari Rp15,32 triliun menjadi Rp23,91 triliun, tetapi total liabilitas ikut melonjak dari Rp5,10 triliun menjadi Rp13,73 triliun, terutama karena utang bank jangka panjang yang semula nol menjadi Rp8,88 triliun untuk mendanai akuisisi ini. Beban keuangan melonjak dari Rp36,3 miliar menjadi Rp175,5 miliar hanya dalam tiga bulan simulasi, sehingga laba periode berjalan proforma turun 14,7 persen, dari Rp293,6 miliar menjadi Rp250,5 miliar, meski pendapatan sedikit naik.",
+   "RUPSLB pada 22 September 2026 di MRIN Hall, Lippo Karawaci, Tangerang, juga akan meminta persetujuan pemegang saham untuk menjaminkan aset dan kekayaan perseroan senilai lebih dari 50 persen ekuitas guna mendanai transaksi ini, sekaligus menegaskan kembali pasal anggaran dasar soal kegiatan usaha agar sesuai klasifikasi baku lapangan usaha terbaru. Pemanggilan resmi RUPSLB dijadwalkan 31 Agustus 2026."
+  ],
+  "fotoAdegan": "Exterior view of a modern multi-story hospital building in Indonesia, ambulance parked near entrance, late afternoon light",
+  "takeaway": "Rencana akuisisi ini condong negatif bagi kesehatan keuangan Siloam dalam jangka pendek, karena dokumen milik perseroan sendiri memperlihatkan beban utang yang melonjak tajam sementara laba malah tertekan. Yang tersentuh adalah utang bank jangka panjang yang naik dari nol menjadi Rp8,88 triliun untuk membiayai pembelian, beban bunga atas utang itu yang naik hampir lima kali lipat dalam simulasi tiga bulan, dan ujungnya laba bersih periode berjalan pada simulasi proforma turun 14,7 persen meski pendapatan operasional sedikit bertambah. Di sisi lain, rumah sakit yang tadinya disewa kini jadi milik sendiri sehingga kewajiban sewa jangka pendek menyusut dari Rp457,9 miliar menjadi Rp9,3 miliar, tapi penghematan sewa ini jauh lebih kecil dibanding tambahan beban bunga dari utang baru. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 22 September 2026 yang menentukan disetujui atau tidaknya transaksi sekaligus izin penjaminan aset untuk pendanaannya, serta apakah pemegang opsi jual di enam perusahaan tahap kedua akhirnya menggunakan haknya, karena itu akan menambah lagi porsi utang yang ditanggung Siloam.",
+  "sentimen": "negatif",
+  "imageV": "mstupfa1"
+ },
+ {
+  "slug": "silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t",
+  "category": "Aksi Korporasi",
+  "title": "SILO [Jaminkan] Aset ke Bank untuk Pinjaman Sindikasi Rp14,5 T",
+  "deck": "Siloam menjaminkan aset di atas 50 persen kekayaan bersihnya untuk pinjaman sindikasi Rp14,5 triliun, menunggu persetujuan pemegang saham di RUPSLB 22 September 2026.",
+  "image": "assets/img/silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T23:53:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/561352b173_3612f1090f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "pinjaman sindikasi",
+   "penjaminan aset",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) melaporkan ke Otoritas Jasa Keuangan bahwa perseroan telah menandatangani Perjanjian Fasilitas Pinjaman Sindikasi senilai hingga Rp14,5 triliun. Perjanjian ini semula diteken 24 Maret 2025 dan telah diubah serta dinyatakan kembali pada 31 Maret 2026. Enam bank bertindak sebagai penata pelaksana dan penjamin emisi pinjaman (Mandated Lead Arrangers and Bookrunners), yaitu PT Bank Negara Indonesia (Persero) Tbk, PT Bank CIMB Niaga Tbk, PT Bank Central Asia Tbk, PT Bank DBS Indonesia, MUFG Bank Ltd Cabang Jakarta, dan The Hongkong and Shanghai Banking Corporation Limited Cabang Singapura, dengan BNI merangkap sebagai agen fasilitas sekaligus agen jaminan. Fasilitas ini terdiri dari pinjaman berjangka tujuh tahun, fasilitas pinjaman bergulir (revolving), dan fasilitas pendukung lainnya.",
+   "Sebagai bagian dari perjanjian ini, Siloam akan menjaminkan aset atau harta kekayaan perseroan yang nilainya lebih dari 50 persen dari total aset bersih perseroan, termasuk properti yang menjadi obyek transaksi akuisisi 14 rumah sakit dari First REIT senilai Rp6,9 triliun yang sebelumnya diumumkan pada 24 Maret 2025. Karena nilai fasilitas pinjaman maupun nilai penjaminan ini melebihi 20 persen dari ekuitas perseroan berdasarkan laporan keuangan per 31 Maret 2026, transaksi ini tergolong transaksi material menurut POJK 17/2020. Namun berdasarkan pengecualian dalam Pasal 11 huruf (b) dan (c) POJK 17, perseroan tidak wajib menunjuk penilai independen maupun meminta persetujuan RUPS untuk transaksi pinjaman dan penjaminan itu sendiri.",
+   "Meski begitu, sesuai anggaran dasar perseroan dan Pasal 102 Undang-Undang Perseroan Terbatas, Siloam tetap wajib memperoleh persetujuan Rapat Umum Pemegang Saham sebelum menjaminkan aset dalam jumlah substansial. Perseroan mengumumkan rencana penyelenggaraan RUPS Luar Biasa pada 22 September 2026 untuk meminta persetujuan pemegang saham atas rencana penjaminan aset ini, dengan rincian jadwal rapat diterbitkan dalam keterbukaan informasi terpisah pada tanggal yang sama."
+  ],
+  "fotoAdegan": "Exterior of a modern multi-story private hospital building in a Jakarta business district, ambulances parked near the entrance, daylight, wide shot",
+  "takeaway": "Laporan ini condong negatif karena Siloam menjaminkan aset senilai lebih dari separuh kekayaan bersihnya untuk mengamankan utang sindikasi hingga Rp14,5 triliun, memperkuat sinyal dari laporan akuisisi 14 rumah sakit dari First REIT yang sebelumnya juga dinilai membebani keuangan perseroan. Yang perlu dicermati pemegang saham adalah beban bunga, yaitu biaya yang harus dibayar perseroan atas pinjaman berjangka tujuh tahun dan fasilitas bergulir ini, karena biaya itu akan menggerus uang kas dari kegiatan usaha sehari-hari jika tidak diimbangi pertumbuhan pendapatan. Aset yang dijaminkan juga otomatis kehilangan fleksibilitas, tidak bisa dipakai lagi sebagai agunan utang baru atau dijual bebas selama masa perjanjian berlaku. Klaim manajemen bahwa transaksi ini berdampak positif untuk ekspansi bisnis belum bisa diverifikasi dari dokumen ini karena rincian penggunaan dananya tidak dijabarkan. Yang perlu dipantau berikutnya adalah RUPSLB pada 22 September 2026, sebab persetujuan pemegang saham menjadi syarat wajib sebelum aset-aset ini resmi dijaminkan ke bank.",
+  "sentimen": "negatif",
+  "imageV": "mstuqdgs"
+ },
+ {
+  "slug": "silo-rups-22-september-akuisisi-14-rs-rp9-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SILO RUPS 22 September, Akuisisi 14 RS [Rp9 Triliun]",
+  "deck": "Siloam akan gelar RUPS 22 September 2026 untuk menyetujui akuisisi 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp9 triliun, dibiayai lewat utang bank baru Rp8,88 triliun.",
+  "image": "assets/img/silo-rups-22-september-akuisisi-14-rs-rp9-triliun.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T23:51:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fd5b36959f_b73f7d61d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "First REIT",
+   "RUPS"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) berencana mengakuisisi saham di 14 perusahaan pemilik properti rumah sakit yang selama ini disewa dan dioperasikan Siloam, dari anak-anak usaha First Real Estate Investment Trust (First REIT). Rencana ini dibagi dua tahap. Tahap pertama mencakup delapan perusahaan yang sudah diikat lewat Perjanjian Jual Beli Saham Bersyarat tertanggal 1 April 2026: PT Sriwijaya Mega Abadi (Siloam Hospitals Sriwijaya Palembang), PT Eka Dasa Parinama (Siloam Hospitals Purwakarta), PT Sentra Dinamika Perkasa (Siloam Hospitals Lippo Village di Tangerang), PT Graha Indah Pratama (Siloam Hospitals Kebon Jeruk), PT Dasa Graha Jaya (Siloam Hospitals Denpasar), PT Nusa Bahana Niaga (Siloam Hospitals Kupang), PT Buton Bangun Cipta (Siloam Hospitals Baubau), dan PT Menara Abadi Megah (Siloam Hospitals Manado).",
+   "Tahap kedua berisi enam perusahaan lain yang baru akan diambil alih kalau pemegang opsi jual dari First REIT memilih melaksanakan haknya berdasarkan Perjanjian Opsi Jual bertanggal sama: PT Prima Labuan Bajo (Siloam Hospitals Labuan Bajo), PT Perisai Dunia Sejahtera (Siloam Hospitals TB Simatupang di Jakarta Selatan), PT Bayutama Sukses (Siloam Hospitals Makassar), PT Primatama Cemerlang (Mochtar Riady Comprehensive Cancer Centre), PT Graha Pilar Sejahtera (Siloam Hospitals Lippo Cikarang di Bekasi), dan PT Yogya Central Terpadu (Siloam Hospitals Yogyakarta). Nilai transaksi disepakati berdasarkan nilai properti sebesar Rp9 triliun, dengan rincian Rp5,12 triliun untuk tahap pertama dan Rp3,88 triliun untuk tahap kedua, dan angka ini masih bisa berubah saat transaksi rampung karena disesuaikan dengan nilai aset bersih dan sisa komitmen belanja modal. Dengan asumsi nilai buku per 31 Maret 2026, manajemen memperkirakan nilai transaksi sekitar Rp6,91 triliun, terdiri dari Rp4,08 triliun untuk tahap pertama dan Rp2,83 triliun untuk tahap kedua. Kantor Jasa Penilai Publik Budi, Edy, Saptono dan Rekan menerbitkan pendapat kewajaran bertanggal 13 Agustus 2026 yang menyimpulkan rencana transaksi ini wajar, dan Siloam menjadwalkan RUPS luar biasa pada 22 September 2026 untuk meminta persetujuan pemegang saham. Seluruh pihak penjual merupakan anak usaha First REIT yang dinyatakan tidak memiliki hubungan afiliasi dengan Siloam.",
+   "Laporan keuangan proforma yang dilampirkan Siloam, disusun dengan asumsi transaksi sudah efektif sejak 1 Januari 2026, memperlihatkan dampaknya jika akuisisi ini benar-benar terjadi. Total aset melonjak dari Rp15,32 triliun menjadi Rp23,91 triliun, terutama karena aset tetap bertambah Rp8,53 triliun seiring masuknya properti rumah sakit ke neraca Siloam. Penambahan aset itu dibiayai lewat utang bank jangka panjang baru senilai Rp8,88 triliun, yang sebelumnya nol. Akibatnya, beban bunga yang harus dibayar Siloam melonjak dari Rp36,33 miliar menjadi Rp175,51 miliar dalam tiga bulan, dan laba periode berjalan turun dari Rp293,57 miliar menjadi Rp250,46 miliar, berkurang Rp43,1 miliar."
+  ],
+  "fotoAdegan": "Wide-angle daytime view of a modern multi-story hospital building facade in an Indonesian city, ambulances parked near entrance driveway.",
+  "takeaway": "Proforma yang dilampirkan Siloam sendiri menunjukkan sinyal negatif untuk kinerja jangka pendek: seandainya akuisisi ini sudah berjalan sejak awal tahun, labanya justru lebih kecil Rp43,1 miliar dibanding tanpa transaksi, karena beban bunga utang baru naik hampir lima kali lipat. Pos yang tersentuh adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang turun tipis akibat laba ditahan yang lebih rendah, dan beban bunga yang langsung memotong laba, tapi tanpa menambah jumlah saham beredar sehingga ini soal beban utang, bukan soal dilusi kepemilikan. Sisi baiknya, transaksi tidak dibiayai lewat penerbitan saham baru sehingga porsi kepemilikan pemegang saham lama tidak berkurang, meski perusahaan kini menanggung utang bank jangka panjang baru Rp8,88 triliun yang sebelumnya tidak ada sama sekali. Yang perlu dipantau berikutnya adalah keputusan RUPS luar biasa pada 22 September 2026, karena rencana ini baru bisa berjalan setelah disetujui pemegang saham, sementara enam perusahaan di tahap kedua senilai Rp3,88 triliun baru terealisasi kalau First REIT memilih melaksanakan opsi jualnya.",
+  "sentimen": "negatif",
+  "imageV": "mstuqqb3"
+ },
+ {
+  "slug": "silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda",
+  "category": "Aksi Korporasi",
+  "title": "SILO Jadwalkan RUPSLB 22 September, [Akuisisi] Jadi Agenda",
+  "deck": "Siloam mengumumkan RUPSLB pada 22 September 2026 di Tangerang, dengan tenggat pencatatan pemegang saham 28 Agustus dan usul agenda 24 Agustus 2026.",
+  "image": "assets/img/silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T23:43:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/633f758b6b_21cbe5fe53.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "RUPSLB",
+   "Siloam Hospitals",
+   "Akuisisi Rumah Sakit"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) resmi memberitahukan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 22 September 2026 pukul 09.00 WIB di Mochtar Riady Institute for Nanotechnology (MRIN) Hall, Jalan Jenderal Sudirman, Tangerang. Pemberitahuan ini disampaikan Corporate Secretary Lewi Aga Basoeki melalui surat bernomor 111/Corsec-SIH/VIII/2026 tertanggal 14 Agustus 2026 kepada OJK dan Bursa Efek Indonesia.",
+   "Perseroan menetapkan Jumat, 28 Agustus 2026 pukul 16.00 WIB sebagai tanggal Daftar Pemegang Saham (DPS), yaitu batas pencatatan nama pemegang saham di buku Perseroan atau sub rekening efek KSEI agar berhak hadir dan memberi suara dalam RUPSLB. Pemanggilan resmi yang memuat mata acara rapat secara lengkap baru akan diumumkan pada Senin, 31 Agustus 2026 melalui situs Perseroan, situs Bursa Efek Indonesia, dan platform eASY.KSEI. Pemegang saham yang mewakili minimal 5 persen dari total saham berhak suara dapat mengusulkan mata acara tambahan, dengan syarat usulan tertulis disertai alasan jelas dan diterima Direksi paling lambat Senin, 24 Agustus 2026 pukul 16.00 WIB, yakni tujuh hari sebelum tanggal pemanggilan.",
+   "Perseroan juga membuka fasilitas kuasa elektronik (e-proxy) melalui aplikasi eASY.KSEI bagi pemegang saham yang ingin memberikan kuasa suara tanpa hadir fisik, dengan masa berlaku sejak tanggal pemanggilan hingga Senin, 21 September 2026, sehari sebelum rapat. Pemegang saham yang tidak bisa hadir langsung juga dapat mengikuti rapat secara virtual lewat AKSes.KSEI, dengan petunjuk teknis yang akan disertakan dalam surat pemanggilan resmi."
+  ],
+  "fotoAdegan": "Exterior of a modern multi-story hospital building in Jakarta with ambulances parked near the entrance driveway, daytime",
+  "takeaway": "Laporan ini sendiri netral bagi Siloam, karena isinya murni jadwal dan tata cara RUPSLB, bukan angka keuangan atau keputusan baru. Yang perlu diingat, RUPSLB ini adalah forum yang akan mengesahkan rencana akuisisi 14 rumah sakit dan pembiayaan sindikasi bernilai triliunan rupiah yang sebelumnya sudah dilaporkan berpotensi menekan laba dan menambah beban utang Siloam, jadi hasil pemungutan suara nanti yang sebenarnya menentukan arah, bukan pengumuman jadwalnya. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 31 Agustus 2026 yang akan memuat detail lengkap mata acara, dan pelaksanaan RUPSLB sendiri pada 22 September 2026 saat pemegang saham memberikan suara atas rencana akuisisi tersebut.",
+  "sentimen": "netral",
+  "imageV": "msturds1"
+ },
+ {
+  "slug": "csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Bantah Ada Informasi Material soal [Volatilitas] Sahamnya",
+  "deck": "Merespons surat resmi BEI soal lonjakan transaksi sahamnya, direksi CSMI menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T23:07:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/818ab2912d_c898b06aff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSMI",
+  "tags": [
+   "CSMI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Cipta Selera Murni Tbk. (CSMI) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah bursa mengirim surat permintaan penjelasan nomor S-10617/BEI.PP2/08-2026 tanggal 13 Agustus 2026 terkait volatilitas transaksi saham perseroan. Jawaban perusahaan disampaikan melalui surat nomor 024/DIR-OL/VIII/2026 yang ditandatangani Direktur Radino Miharjo pada 14 Agustus 2026 pukul 23.07 WIB.",
+   "Dalam surat itu, manajemen CSMI menyatakan tidak mengetahui adanya informasi atau fakta material yang belum disampaikan ke publik dan bisa memengaruhi nilai maupun harga sahamnya, sebagaimana diatur POJK 31/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Soal rencana ke depan, CSMI menegaskan belum memiliki rencana aksi korporasi yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan. Corporate Secretary perseroan juga telah mengonfirmasi langsung kepada pemegang saham utama, dan hasilnya tidak ada rencana khusus mengubah kepemilikan saham dalam waktu dekat. Perseroan berjanji akan menyampaikan informasi lanjutan bila di kemudian hari ada pemberitahuan resmi yang relevan."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyscrapers at dusk with glowing office lights and light trails from traffic",
+  "takeaway": "Laporan ini netral bagi CSMI, karena isinya murni bantahan rutin tanpa fakta baru yang mengubah gambaran bisnis perusahaan. Surat semacam ini lazim diminta bursa saat harga atau volume transaksi suatu saham bergerak tidak wajar dibanding rata-rata sebelumnya, disebut permintaan penjelasan atas volatilitas, dan tujuannya memastikan tidak ada informasi rahasia yang membuat sebagian pihak bertransaksi lebih dulu sebelum publik tahu; jawaban CSMI di sini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba, sehingga tidak mengubah fundamental perseroan. Yang perlu dipantau berikutnya adalah apakah pergerakan harga sahamnya mereda atau justru berlanjut dalam beberapa hari ke depan, serta apakah perseroan benar-benar tidak mengumumkan aksi korporasi apa pun hingga jendela waktu tiga bulan yang disebutkan berakhir, yakni sekitar pertengahan November 2026.",
+  "sentimen": "netral",
+  "imageV": "mstus65s"
+ },
+ {
   "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
   "category": "Teknologi",
   "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",
@@ -135,6 +271,60 @@ var ARTICLES = [
   "imageV": "mst1gmqs"
  },
  {
+  "slug": "adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Akui [Event of Default], Utang ke CGIF Rp12,36 M",
+  "deck": "ADCP mengakui gagal bayar kupon obligasi hingga penjamin CGIF turun tangan membayarnya, dengan rincian utang Rp12,36 miliar yang kini harus diganti Perseroan.",
+  "image": "assets/img/adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T20:47:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/405fd8f987_3c424c559f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "event of default",
+   "CGIF"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) menjawab surat permintaan penjelasan lanjutan dari Bursa Efek Indonesia tertanggal 11 Agustus 2026 dan diterima 12 Agustus 2026, sebagai tindak lanjut dari surat sebelumnya bertanggal 7 Agustus 2026. Dalam tanggapan yang ditandatangani Direktur Keuangan Achmad Wachid Abdullah, Perseroan mengonfirmasi bahwa utang sebesar Rp12.357.175.624 yang tercatat di pos utang usaha per 30 Juni 2026 berasal dari Credit Guarantee & Investment Facility (CGIF), penjamin Obligasi III ADCP. Rinciannya, Rp10.292.775.000 adalah bunga obligasi yang jatuh tempo 8 Juni 2026 dan gagal dibayar Perseroan, Rp2.062.087.500 adalah biaya penjaminan (guarantee fee) yang belum dibayar dengan jatuh tempo sama, ditambah denda keterlambatan kecil sebesar Rp69.553 dan Rp2.243.571. Perseroan juga mengungkapkan masih bernegosiasi dengan CGIF soal denda tambahan 2 persen dari nilai tertunggak yang belum dibukukan, sekaligus permohonan restrukturisasi.",
+   "ADCP mengakui bahwa Catatan atas Laporan Keuangan (CALK) per 30 Juni 2026 belum memuat pengungkapan memadai soal terjadinya event of default, kegagalan pembayaran kupon obligasi, pembayaran talangan oleh CGIF, dan kewajiban penggantian (reimbursement) yang timbul akibatnya. Perseroan menyatakan akan mempertimbangkan menambah pengungkapan itu, namun berpandangan sudah menjelaskan hal tersebut secara memadai pada laporan keuangan periode berikutnya per 30 September 2026, sehingga tidak berencana menyampaikan ulang laporan keuangan 30 Juni 2026 kecuali Bursa memintanya secara eksplisit. Terpisah, Perseroan juga mengklarifikasi selisih pencatatan utang usaha antara CALK 17 dan Laporan Posisi Keuangan sebesar Rp29.237.738.945, yang menurutnya murni perbedaan klasifikasi antara pihak berelasi dan pihak ketiga terkait proyek Kerja Sama Operasi (KSO) LRT City Jatibening senilai Rp177.349.799.245 dan KSO LRT City Ciracas senilai Rp149.497.157.214, dengan total utang usaha tetap Rp1.130.776.702.012.",
+   "Untuk proyek LRT City Bekasi Eastern Green, ADCP menjelaskan bahwa meski konstruksi telah rampung 100 persen sejak 2023 dan sebagian konsumen sudah serah terima serta menghuni unit, proses pemecahan sertifikat unit belum selesai karena unit apartemen belum terjual seluruhnya dan Perseroan masih mengupayakan skema pembiayaan bridging untuk mencairkan dana escrow guna menyelesaikan proses pertelaan. Perseroan menargetkan penyelesaian pemecahan sertifikat itu baru rampung pada 2034."
+  ],
+  "fotoAdegan": "Partially occupied apartment tower with laundry on balconies and leftover construction scaffolding, overcast afternoon in a Jakarta suburb",
+  "takeaway": "Laporan ini negatif bagi ADCP: Perseroan sendiri mengonfirmasi terjadinya event of default, yakni kegagalan bayar kupon obligasi yang membuat penjamin CGIF harus menombok pembayaran, dan sekarang ADCP berutang balik ke CGIF senilai Rp12,36 miliar plus kemungkinan denda tambahan. Yang tersentuh adalah beban bunga dan struktur utang usaha Perseroan, karena kewajiban ke CGIF ini menambah beban yang harus dilunasi di tengah proses negosiasi restrukturisasi, sementara arus kas proyek LRT City Bekasi Eastern Green juga tertahan karena Perseroan masih mencari skema pembiayaan tambahan (bridging) untuk membereskan sertifikat unit yang ditargetkan baru tuntas tahun 2034. Investor perlu mencermati apakah Bursa Efek Indonesia akan tetap meminta ADCP menyampaikan ulang laporan keuangan per 30 Juni 2026 meski Perseroan lebih memilih menunda pengungkapan tambahan hingga laporan per 30 September 2026, serta bagaimana hasil negosiasi restrukturisasi dan penalti 2 persen dengan CGIF ke depannya.",
+  "sentimen": "negatif",
+  "imageV": "mstusj5g"
+ },
+ {
+  "slug": "runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali",
+  "category": "Aksi Korporasi",
+  "title": "RUNS: Penjualan Saham [Pengendali] ke Istri Bukan Ubah Kendali",
+  "deck": "BEI mempertanyakan penjualan saham pengendali RUNS yang membuat kepemilikannya nyaris disalip pemegang saham kedua. Perseroan membantah ada pergantian kendali dan mengakui dua kekeliruan input di laporan sebelumnya.",
+  "image": "assets/img/runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:41:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0b0568cec8_e8c9b6ee0b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RUNS",
+  "tags": [
+   "RUNS",
+   "pemegang saham pengendali",
+   "keterbukaan informasi BEI",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Global Sukses Solusi Tbk (RUNS) menjawab permintaan penjelasan Bursa Efek Indonesia terkait penjualan saham oleh pemegang saham pengendali sekaligus Direktur Utama, Sony Rachmadi Purnomo, yang dilakukan pada 13 Juli dan 5 Agustus 2026. Berdasarkan tabel komposisi pemegang saham yang dilampirkan perseroan, kepemilikan Sony turun dari 280.605.625 lembar (28,53 persen) per 31 Juli 2026 menjadi 269.105.625 lembar (27,36 persen) per 14 Agustus 2026, mendekati posisi pemegang saham kedua, Tan Kian Gee, yang tercatat tetap di 269.043.575 lembar (27,35 persen). Pembeli saham tersebut adalah Sinta, istri Sony, yang menurut perseroan tidak menjabat sebagai direksi maupun komisaris. Perseroan menyebut alasan penjualan sebagai penataan portofolio aset pribadi dalam skala kecil, dan menegaskan Sony tetap berkedudukan sebagai pemegang saham pengendali serta Direktur Utama karena tidak ada perubahan struktur tata kelola, sehingga kewajiban tender offer wajib berdasarkan POJK Nomor 9/POJK.04/2018 tidak berlaku.",
+   "Bursa juga mempertanyakan dua kejanggalan pada formulir laporan transaksi sebelumnya. Pertama, kolom Repurchase Agreement pada laporan tercatat berstatus \"Ya\", padahal jenis transaksinya adalah penjualan. Perseroan mengonfirmasi kedua transaksi merupakan penjualan lepas atau definitif, bukan transaksi jual dengan janji beli balik (repo), dan menyebut pencantuman status tersebut sebagai kekeliruan administratif dalam pengisian formulir elektronik. Kedua, laporan tanggal 5 Agustus 2026 mencantumkan klasifikasi \"saham dengan hak suara multipel\" untuk 11.500.000 saham yang dialihkan, padahal saham RUNS yang tercatat di bursa tidak memiliki kelas saham dengan hak suara ganda. Perseroan kembali menyebut ini sebagai kesalahan input, bukan mencerminkan adanya kelas saham khusus.",
+   "Bursa turut menyoroti bahwa kedua transaksi terjadi sebelum Laporan Keuangan Tengah Tahunan 2026 disampaikan ke publik, sehingga menimbulkan pertanyaan soal potensi transaksi orang dalam berdasarkan Pasal 95 dan 96 UU Nomor 8 Tahun 1995 tentang Pasar Modal. Perseroan mengakui belum memiliki kebijakan internal yang mengatur periode pembatasan transaksi (blackout period) bagi direksi, komisaris, dan pihak terafiliasi sebelum publikasi laporan keuangan berkala. Perseroan dan Sony menegaskan transaksi tidak didasarkan pada informasi material yang belum terbuka ke publik dan murni keputusan finansial pribadi. Laporan Keuangan Tengah Tahunan 2026 sendiri baru disampaikan ke bursa pada 14 Agustus 2026, setelah sempat terlambat karena proses konsolidasi data internal belum selesai."
+  ],
+  "fotoAdegan": "Modern software company office building exterior in Yogyakarta at dusk, glass facade reflecting streetlights, employees leaving",
+  "takeaway": "Laporan ini condong negatif bagi RUNS, bukan karena ukuran saham yang dijual oleh Sony Rachmadi Purnomo kecil dibanding total kepemilikannya, melainkan karena perseroan mengakui dua kekeliruan berturut-turut pada formulir pelaporan resmi ke bursa, yaitu status repo dan klasifikasi hak suara saham, ditambah pengakuan bahwa perseroan belum punya aturan internal yang membatasi transaksi saham direksi menjelang publikasi laporan keuangan. Yang tersentuh di sini adalah keandalan pelaporan dan tata kelola pengendalian perseroan, bukan angka keuangan seperti laba atau utang. Sebab siapa pengendali menentukan siapa yang punya suara terbesar dalam keputusan strategis perseroan, dan investor publik bergantung pada laporan bursa untuk memastikan informasi itu akurat, bukan hasil salah klik pada formulir. Yang perlu dipantau selanjutnya adalah apakah bursa menerima penjelasan ini sebagai final atau meminta klarifikasi tambahan, serta apakah pola pergeseran kepemilikan Sony berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "negatif",
+  "imageV": "mstut46k"
+ },
+ {
   "slug": "kadin-rating-kredit-ri-bertahan-dorong-investasi-riil",
   "category": "Makroekonomi",
   "title": "Kadin: Rating [Kredit] RI Bertahan, Dorong Investasi Riil",
@@ -187,6 +377,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah bank bjb resmi kembali menjadi mitra perbankan resmi PERSIB untuk musim 2026, ditandai dengan terbitnya kartu ATM gabungan bank bjb dan PERSIB. Yang terdampak adalah nasabah bank bjb, khususnya pendukung PERSIB atau Bobotoh di Jawa Barat, yang menjadi sasaran produk kartu baru ini. Yang belum diketahui adalah nilai kerja sama ini serta target bank bjb dari sisi jumlah kartu yang akan diterbitkan atau nasabah baru yang ingin didapat, karena kedua angka itu tidak diungkap dalam pengumuman ini. Tanpa angka tersebut, belum bisa dibaca apakah kolaborasi ini akan berdampak nyata pada bisnis bank bjb atau sekadar kegiatan promosi musiman seperti tahun 2014, dan itu baru akan terlihat kalau bank bjb merilis data jumlah pemegang kartu co-branding ini pada laporan kinerja mendatang.",
   "imageV": "mst1gou7"
+ },
+ {
+  "slug": "mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Ajukan [Scheme of Arrangement] untuk Selesaikan Notes 2027",
+  "deck": "Modernland Realty mengajukan skema restrukturisasi Guaranteed Senior Notes jatuh tempo 2027, voting pemegang notes berlangsung hingga 24 Agustus 2026.",
+  "image": "assets/img/mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:13:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f84cb97386_9fe6d436af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi global",
+   "Modernland Realty"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perseroan, baik secara langsung maupun melalui anak usahanya Modernland Overseas Pte. Ltd. (MLO), telah resmi mengumumkan usulan scheme of arrangement. Skema ini merupakan mekanisme restrukturisasi utang yang bertujuan menyelesaikan secara menyeluruh Guaranteed Senior Notes milik perseroan yang jatuh tempo pada 30 April 2027. Laporan ini merujuk pada dua surat keterbukaan informasi sebelumnya, yakni surat tertanggal 30 April 2026 dan surat pada Juni 2026, yang berarti proses ini sudah berjalan sejak awal tahun dan laporan kali ini adalah pembaruannya.",
+   "Para pemegang Notes diberi waktu untuk memberikan suara atas usulan tersebut sampai dengan 24 Agustus 2026. Apabila usulan skema restrukturisasi ini disetujui oleh mayoritas pemegang Notes, hasil voting beserta usulan skema tersebut akan dimohonkan ke Pengadilan Tinggi Singapura untuk mendapatkan pengesahan atau sanction, sebuah tahap hukum yang membuat kesepakatan restrukturisasi mengikat secara resmi. Perseroan juga menyertakan tautan pengumuman resmi di platform bursa Singapura (SGX), yaitu Notice of Scheme Launch dan Notice of Amendment to Notes, sebagai rujukan detail teknis skema tersebut.",
+   "Dalam laporan ini, manajemen menyatakan bahwa sampai dengan tanggal keterbukaan informasi, belum ada dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan selain yang sudah diungkapkan. Namun demikian, manajemen menilai skema of arrangement ini akan berdampak positif apabila berhasil dilaksanakan. Perseroan menegaskan akan menyampaikan keterbukaan informasi lanjutan seiring perkembangan proses ini. Laporan ditandatangani oleh Yahya Danu Kusumo Pate selaku Corporate Secretary pada 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Aerial view of unfinished apartment towers and construction cranes at a Jakarta property development site, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi emiten, sebab kebutuhan menempuh scheme of arrangement, yaitu proses hukum formal untuk merundingkan ulang syarat utang dengan kreditor lewat pengadilan, umumnya muncul ketika perusahaan menghadapi tekanan dalam memenuhi kewajiban utang sesuai jadwal semula, meski manajemen sendiri menyebut hasilnya akan positif jika berhasil dilaksanakan. Pos yang tersentuh di sini adalah utang perseroan berupa Guaranteed Senior Notes dan potensi arus kasnya ke depan, karena skema semacam ini biasanya mengubah jadwal atau besaran pembayaran bunga dan pokok utang, sehingga pelaku pasar mencermati apakah beban keuangan perseroan akan berkurang atau justru tertunda. Laporan ini belum merinci nilai nominal Notes maupun syarat baru yang ditawarkan dalam skema tersebut. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pemegang Notes yang ditutup pada 24 Agustus 2026, karena jika disetujui mayoritas, prosesnya akan berlanjut ke permohonan pengesahan di Pengadilan Tinggi Singapura yang menentukan apakah restrukturisasi ini benar-benar mengikat.",
+  "sentimen": "negatif",
+  "imageV": "mstutq1m"
  },
  {
   "slug": "restrukturisasi-telkom-enterprise-danantara-incar-pasar-30",
@@ -243,8 +460,8 @@ var ARTICLES = [
  {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
-  "title": "IHSG [Melesat] 1,59% Usai Presiden Prabowo Pidato RAPBN 2027",
-  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Presiden Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
   "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T18:36:25+07:00",
@@ -252,7 +469,7 @@ var ARTICLES = [
   "tags": [
    "IHSG",
    "RAPBN 2027",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "defisit anggaran"
   ],
   "body": [
@@ -270,8 +487,8 @@ var ARTICLES = [
  {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Presiden Prabowo",
-  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Presiden Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
   "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T18:08:34+07:00",
@@ -280,11 +497,11 @@ var ARTICLES = [
    "rupiah",
    "RAPBN 2027",
    "kurs dolar",
-   "Presiden Prabowo Subianto"
+   "Prabowo Subianto"
   ],
   "body": [
    "Nilai tukar rupiah terhadap dolar Amerika Serikat menguat 50 poin atau 0,28 persen ke level Rp17.827 pada penutupan perdagangan Jumat (14/8/2026), dari sebelumnya Rp17.877. Penguatan ini terjadi tak lama setelah Presiden Prabowo Subianto menyampaikan pidato mengenai Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027 di hadapan DPR. Pergerakan ini penting dicermati karena kurs rupiah biasa jadi indikator cepat bagaimana pasar keuangan menilai arah kebijakan fiskal pemerintah untuk tahun mendatang.",
-   "Analis mata uang dari Doo Financial Futures, Lukman Leong, menyebut penguatan rupiah dan kenaikan Indeks Harga Saham Gabungan (IHSG) hari ini sebagai respons positif pasar terhadap pidato tersebut, meski ia menandainya sebagai sikap 'cautiously positive' atau optimistis dengan tetap berhati-hati. Dalam pidatonya, Presiden Prabowo memaparkan sejumlah target ekonomi utama RAPBN 2027, di antaranya pertumbuhan ekonomi 6 persen, naik dari asumsi 5,4 persen pada APBN 2026, serta target inflasi 2,5 persen.",
+   "Analis mata uang dari Doo Financial Futures, Lukman Leong, menyebut penguatan rupiah dan kenaikan Indeks Harga Saham Gabungan (IHSG) hari ini sebagai respons positif pasar terhadap pidato tersebut, meski ia menandainya sebagai sikap 'cautiously positive' atau optimistis dengan tetap berhati-hati. Dalam pidatonya, Prabowo memaparkan sejumlah target ekonomi utama RAPBN 2027, di antaranya pertumbuhan ekonomi 6 persen, naik dari asumsi 5,4 persen pada APBN 2026, serta target inflasi 2,5 persen.",
    "Dari sisi anggaran, pemerintah memproyeksikan defisit sebesar Rp671,2 triliun atau setara 2,4 persen dari Produk Domestik Bruto, dengan total belanja negara mencapai Rp4.097 triliun. Untuk pembiayaan, asumsi bunga Surat Berharga Negara tenor 10 tahun dipatok 6,9 persen, sementara kurs acuan rupiah dalam RAPBN 2027 ditetapkan Rp17.500 per dolar AS, lebih lemah dibanding asumsi APBN 2026 yang sebesar Rp16.500. Di sektor energi, pemerintah menaikkan asumsi harga minyak mentah Indonesia (ICP) menjadi 75 dolar AS per barel dari 70 dolar AS, dengan target lifting minyak tetap di 610 ribu barel per hari dan lifting gas turun menjadi 954 ribu barel setara minyak per hari dari 984 ribu.",
    "Pada indikator kesejahteraan, pemerintah menargetkan tingkat kemiskinan turun ke kisaran 6-6,5 persen, dari sasaran 6,5-7,5 persen di tahun ini. Target tingkat pengangguran terbuka ditetapkan 4,3-4,87 persen, indeks modal manusia 0,575, dan rasio gini pada rentang 0,362-0,367. Lukman menilai rangkaian target makroekonomi tersebut secara umum masih dapat diterima pelaku pasar, yang turut menopang sentimen positif terhadap rupiah hari ini."
   ],
@@ -297,8 +514,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
-  "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
-  "deck": "Presiden Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
   "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T17:05:28+07:00",
@@ -306,26 +523,26 @@ var ARTICLES = [
   "tags": [
    "BUMN",
    "aset negara",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "APBN 2027"
   ],
   "body": [
    "Presiden Prabowo Subianto membuka peluang bagi pihak swasta untuk ikut mengoperasikan aset strategis milik negara yang selama ini tidak dikelola maksimal oleh BUMN, termasuk bandara. Ini penting bagi pembaca karena menyangkut fasilitas publik yang dipakai sehari-hari, dan menentukan siapa yang akan menjalankannya ke depan meski kepemilikannya tetap di tangan negara.",
-   "Rencana ini disampaikan Presiden Prabowo saat memaparkan RUU APBN 2027 dan Nota Keuangan dalam Sidang Tahunan MPR RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026). Ia menyebut langkah ini menyatu dengan program pembersihan BUMN yang sudah berjalan: 290 perusahaan pelat merah yang dinilai tidak produktif telah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN yang benar-benar produktif hingga akhir tahun ini.",
-   "Aset yang disasar mencakup tanah, gedung, jaringan, kawasan, hingga berbagai fasilitas milik BUMN yang belum menghasilkan nilai ekonomi maksimal. Pemerintah akan membuka kerja sama dengan swasta lewat proses yang disebut Presiden Prabowo terbuka, kompetitif, dan akuntabel, dengan syarat kepemilikan strategis aset tetap dipegang negara.",
-   "Presiden Prabowo menjadikan India sebagai rujukan lewat skema yang mereka sebut National Monetisation Pipeline, di mana swasta diberi ruang mengoperasikan aset publik yang sudah terbangun tanpa mengambil alih kepemilikannya. Menurut dia, dana yang diperoleh dari skema semacam itu bisa diputar kembali untuk membiayai pembangunan infrastruktur baru."
+   "Rencana ini disampaikan Prabowo saat memaparkan RUU APBN 2027 dan Nota Keuangan dalam Sidang Tahunan MPR RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026). Ia menyebut langkah ini menyatu dengan program pembersihan BUMN yang sudah berjalan: 290 perusahaan pelat merah yang dinilai tidak produktif telah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN yang benar-benar produktif hingga akhir tahun ini.",
+   "Aset yang disasar mencakup tanah, gedung, jaringan, kawasan, hingga berbagai fasilitas milik BUMN yang belum menghasilkan nilai ekonomi maksimal. Pemerintah akan membuka kerja sama dengan swasta lewat proses yang disebut Prabowo terbuka, kompetitif, dan akuntabel, dengan syarat kepemilikan strategis aset tetap dipegang negara.",
+   "Prabowo menjadikan India sebagai rujukan lewat skema yang mereka sebut National Monetisation Pipeline, di mana swasta diberi ruang mengoperasikan aset publik yang sudah terbangun tanpa mengambil alih kepemilikannya. Menurut dia, dana yang diperoleh dari skema semacam itu bisa diputar kembali untuk membiayai pembangunan infrastruktur baru."
   ],
   "fotoAdegan": "Ground crew guiding a taxiing airplane near a terminal gate while baggage carts move across the tarmac, overcast morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ee0bb4e57e-presiden-prabowo-berpidato-menyampaikan-ruu-apbn-2027-dan-nota-keuangan-di-kompleks-parlemen-jakarta-jumat-1482026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Presiden Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
+  "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
   "imageV": "mssvvpxm"
  },
  {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
-  "deck": "Presiden Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
   "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:39:29+07:00",
@@ -338,8 +555,8 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menyampaikan bahwa perekonomian Indonesia tetap mendapat kepercayaan dari dunia internasional, meski tekanan ekonomi global belum reda. Pernyataan itu ia sampaikan dalam Pidato Kenegaraan di Rapat Paripurna DPR RI sekaligus penyampaian RAPBN 2027 di Jakarta, Jumat, 14 Agustus 2026. Bagi pembaca, ini relevan karena penilaian lembaga pemeringkat internasional ikut menentukan seberapa mahal biaya pinjaman yang harus ditanggung pemerintah dan dunia usaha Indonesia ke depan.",
-   "Presiden Prabowo menyebut Indonesia memasuki 2026 dengan sejumlah tantangan global, mulai dari kenaikan harga energi, suku bunga tinggi, tekanan nilai tukar, hingga ketegangan geopolitik yang mengganggu perdagangan dunia. Di tengah kondisi itu, ia mengklaim ekonomi nasional pada semester pertama 2026 tumbuh paling tinggi dalam 13 tahun terakhir, dengan inflasi yang tetap terkendali dan permintaan domestik yang masih kuat.",
-   "Salah satu bukti kepercayaan itu datang dari Standard & Poor's yang pada 13 Juli 2026 mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap berada di kategori investment grade, yakni negara yang dianggap cukup aman untuk dipinjami. Menurut Presiden Prabowo, penilaian S&P itu didasarkan pada prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang berhati-hati, serta beban utang yang dinilai relatif terjaga dibanding negara-negara dengan karakteristik serupa.",
+   "Prabowo menyebut Indonesia memasuki 2026 dengan sejumlah tantangan global, mulai dari kenaikan harga energi, suku bunga tinggi, tekanan nilai tukar, hingga ketegangan geopolitik yang mengganggu perdagangan dunia. Di tengah kondisi itu, ia mengklaim ekonomi nasional pada semester pertama 2026 tumbuh paling tinggi dalam 13 tahun terakhir, dengan inflasi yang tetap terkendali dan permintaan domestik yang masih kuat.",
+   "Salah satu bukti kepercayaan itu datang dari Standard & Poor's yang pada 13 Juli 2026 mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap berada di kategori investment grade, yakni negara yang dianggap cukup aman untuk dipinjami. Menurut Prabowo, penilaian S&P itu didasarkan pada prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang berhati-hati, serta beban utang yang dinilai relatif terjaga dibanding negara-negara dengan karakteristik serupa.",
    "Selain S&P, lembaga pemeringkat asal China, China Lianhe, turut memberikan peringkat AAA untuk Panda Bonds, yaitu obligasi berdenominasi yuan yang diterbitkan Indonesia di pasar China. Kedua penilaian ini menjadi bagian dari klaim pemerintah bahwa fondasi ekonomi Indonesia masih dipandang solid oleh pihak luar, bersamaan dengan diajukannya RAPBN 2027 ke DPR."
   ],
   "fotoAdegan": "Wide shot of Jakarta's central business district skyline at sunrise, glass office towers, light traffic on the street below",
@@ -351,9 +568,9 @@ var ARTICLES = [
  {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
-  "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
-  "deck": "Presiden Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "image": "assets/img/prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:30:24+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459901-prabowo-bongkar-selisih-harga-cpo-di-bursa-rotterdam-ri-kehilangan-hampir-50-nilai-komoditas-sawit",
@@ -365,60 +582,61 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menyoroti selisih besar antara harga jual minyak sawit mentah (CPO) dari Indonesia dengan harga yang terbentuk di pasar internasional, dalam pidato kenegaraan pada Sidang Tahunan MPR dan Sidang Bersama DPR RI di Jakarta, Jumat (14/8/2026). Ia menyebut kondisi ini membuat Indonesia kehilangan sebagian besar nilai ekonomi dari komoditas andalannya sendiri, meski negara pembanding seperti Belanda sama sekali tidak memiliki kebun sawit.",
-   "Menurut Presiden Prabowo, CPO Indonesia sebelumnya dijual di pelabuhan dalam negeri dengan harga sekitar Rp15.000 per kilogram, sementara harga yang terbentuk di bursa CPO Rotterdam, Belanda, mencapai Rp27.000 per kilogram. Selisih itu, kata dia, membuat Indonesia kehilangan hampir separuh nilai ekonomi dari komoditas sawitnya sendiri hanya karena harga acuan ditentukan di pasar luar negeri.",
+   "Menurut Prabowo, CPO Indonesia sebelumnya dijual di pelabuhan dalam negeri dengan harga sekitar Rp15.000 per kilogram, sementara harga yang terbentuk di bursa CPO Rotterdam, Belanda, mencapai Rp27.000 per kilogram. Selisih itu, kata dia, membuat Indonesia kehilangan hampir separuh nilai ekonomi dari komoditas sawitnya sendiri hanya karena harga acuan ditentukan di pasar luar negeri.",
    "Untuk mengatasi kebocoran nilai tersebut, pemerintah membentuk PT Danantara Sumberdaya Indonesia (DSI), lembaga yang mulai beroperasi sejak 1 Juni 2026 untuk memperkuat pengelolaan dan pengawasan uang hasil ekspor komoditas strategis. Dalam dua bulan 13 hari sejak beroperasi, DSI telah memantau lebih dari 6.500 transaksi ekspor dari tiga komoditas strategis senilai total US$14 miliar, dan menemukan potensi tambahan pemasukan sebesar US$5 miliar dari penyesuaian harga, kualitas, serta pembayaran devisa hasil ekspor.",
-   "Presiden Prabowo menyampaikan pengawasan DSI ke depan akan diperluas hingga mencakup 50 pelabuhan di 25 provinsi, dengan target akhir seluruh komoditas ekspor strategis masuk dalam pengawasan lembaga tersebut, tidak lagi terbatas pada tiga komoditas yang dipantau saat ini. Ia menegaskan penguatan pengawasan ini bertujuan memastikan kekayaan alam Indonesia memberi manfaat lebih besar bagi negara dan masyarakat, bukan dinikmati pihak tertentu di dalam maupun luar negeri."
+   "Prabowo menyampaikan pengawasan DSI ke depan akan diperluas hingga mencakup 50 pelabuhan di 25 provinsi, dengan target akhir seluruh komoditas ekspor strategis masuk dalam pengawasan lembaga tersebut, tidak lagi terbatas pada tiga komoditas yang dipantau saat ini. Ia menegaskan penguatan pengawasan ini bertujuan memastikan kekayaan alam Indonesia memberi manfaat lebih besar bagi negara dan masyarakat, bukan dinikmati pihak tertentu di dalam maupun luar negeri."
   ],
   "fotoAdegan": "Workers loading palm oil drums onto a cargo ship at a busy Indonesian port, cranes and containers in soft morning light",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Presiden Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
-  "fotoDitolak": true
+  "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
+  "fotoDitolak": true,
+  "imageV": "mstuubca"
  },
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
   "category": "BUMN",
-  "title": "Presiden Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
-  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
   "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:00:09+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459878-prabowo-pangkas-bumn-tak-produktif-rp50-triliun-hemat-dan-750-perusahaan-lagi-bakal-ditutup",
   "tags": [
    "BUMN",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "restrukturisasi BUMN",
    "APBN"
   ],
   "body": [
    "Presiden Prabowo Subianto melaporkan bahwa pemerintah telah menutup 290 dari 1.074 Badan Usaha Milik Negara sejak awal masa jabatannya hingga 14 Agustus 2026. Laporan ini disampaikan dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI di Senayan, Jumat (14/8/2026), dan diklaim menghasilkan penghematan biaya operasional hingga Rp50 triliun. Bagi publik, angka ini jadi tolok ukur seberapa jauh perampingan BUMN yang selama ini digaungkan pemerintah benar-benar berjalan, sekaligus sinyal soal dana yang berpotensi dialihkan ke program lain.",
-   "Presiden Prabowo menyebut penutupan dilakukan terhadap perusahaan pelat merah yang dinilai tidak produktif dan terus merugi. Penghematan Rp50 triliun itu disebut berasal dari pos-pos seperti gaji jajaran direksi, biaya perjalanan dinas, sewa gedung kantor, dan sewa kendaraan operasional yang selama ini membebani perusahaan-perusahaan tersebut. Dana yang dihemat, menurut Presiden Prabowo, akan bisa dialihkan untuk kebutuhan lain yang manfaatnya lebih terasa langsung oleh masyarakat.",
-   "Pemerintah tidak berhenti di angka 290. Presiden Prabowo menargetkan pada 31 Desember 2026 jumlah BUMN yang dipertahankan tinggal maksimal 300 perusahaan, yang berarti lebih dari 750 BUMN lainnya harus ditutup dalam sisa tahun ini. Ia menegaskan hanya perusahaan yang benar-benar produktif dan menciptakan nilai tambah bagi rakyat yang akan dipertahankan, dan menyebut proses ini berpotensi menjadi salah satu restrukturisasi korporasi berskala terbesar di dunia."
+   "Prabowo menyebut penutupan dilakukan terhadap perusahaan pelat merah yang dinilai tidak produktif dan terus merugi. Penghematan Rp50 triliun itu disebut berasal dari pos-pos seperti gaji jajaran direksi, biaya perjalanan dinas, sewa gedung kantor, dan sewa kendaraan operasional yang selama ini membebani perusahaan-perusahaan tersebut. Dana yang dihemat, menurut Prabowo, akan bisa dialihkan untuk kebutuhan lain yang manfaatnya lebih terasa langsung oleh masyarakat.",
+   "Pemerintah tidak berhenti di angka 290. Prabowo menargetkan pada 31 Desember 2026 jumlah BUMN yang dipertahankan tinggal maksimal 300 perusahaan, yang berarti lebih dari 750 BUMN lainnya harus ditutup dalam sisa tahun ini. Ia menegaskan hanya perusahaan yang benar-benar produktif dan menciptakan nilai tambah bagi rakyat yang akan dipertahankan, dan menyebut proses ini berpotensi menjadi salah satu restrukturisasi korporasi berskala terbesar di dunia."
   ],
   "fotoAdegan": "Rows of empty office cubicles in a state-owned company building, unplugged computers and stacked moving boxes, dim afternoon light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/02/06/65c173e4bac75-logo-bumn_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Presiden Prabowo menjabat, sedangkan target 750 BUMN berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
+  "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Prabowo menjabat, sedangkan target 750 BUMN berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
   "imageV": "msss9c94"
  },
  {
   "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
   "category": "BUMN",
-  "title": "Presiden Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
-  "deck": "Presiden Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
   "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T15:44:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300",
   "tags": [
    "BUMN",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "restrukturisasi BUMN",
    "Sidang Tahunan MPR"
   ],
   "body": [
    "Presiden Prabowo Subianto mengungkapkan bahwa 290 badan usaha milik negara telah ditutup pemerintah, dengan evaluasi yang masih berlanjut hingga akhir tahun ini. Pernyataan itu disampaikan dalam pidato di Sidang Tahunan MPR di Kompleks Parlemen, Jakarta Pusat, Jumat (14/8/2026).",
-   "Presiden Prabowo mengaku kaget saat mengetahui jumlah BUMN yang sesungguhnya jauh lebih banyak dari perkiraannya. Ia menyebut total ada 1.074 BUMN jika dihitung sampai ke tingkat anak, cucu, bahkan cicit perusahaan, padahal semula ia mengira jumlahnya hanya sekitar 300 sampai 400.",
+   "Prabowo mengaku kaget saat mengetahui jumlah BUMN yang sesungguhnya jauh lebih banyak dari perkiraannya. Ia menyebut total ada 1.074 BUMN jika dihitung sampai ke tingkat anak, cucu, bahkan cicit perusahaan, padahal semula ia mengira jumlahnya hanya sekitar 300 sampai 400.",
    "Menyusul temuan itu, pemerintah menetapkan target baru, paling banyak 300 BUMN yang akan dipertahankan hingga 31 Desember 2026. Itu berarti lebih dari 750 BUMN direncanakan ditutup karena dinilai tidak produktif, sementara perusahaan yang dipertahankan hanya yang benar-benar menciptakan nilai tambah bagi masyarakat."
   ],
   "fotoAdegan": "Rows of empty desks and stacked cardboard boxes in a vacated corporate office, midday light through large windows, Jakarta skyline visible outside.",
@@ -619,7 +837,7 @@ var ARTICLES = [
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
   "category": "BUMN",
   "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
-  "deck": "Presiden Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
   "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T14:57:48+07:00",
@@ -632,9 +850,9 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengungkapkan lonjakan keuntungan PT Timah Tbk dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI, Jumat, 14 Agustus 2026. Ia mengaitkan kenaikan laba perusahaan tambang milik negara itu dengan penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung pada akhir 2025.",
-   "Menurut Presiden Prabowo, laba PT Timah dalam enam bulan pertama 2026 mencapai Rp2,7 triliun, naik sekitar sembilan kali lipat atau 900 persen dibanding periode yang sama tahun sebelumnya. Ia juga menyebut valuasi perusahaan naik 280 persen pada Agustus 2026 dibanding Agustus 2025.",
-   "Presiden Prabowo menyampaikan angka tersebut sebagai bagian dari paparan kinerja sejumlah BUMN yang menurutnya membaik setelah pemerintah melakukan pembenahan. Ia mencontohkan PT Semen Indonesia yang laba bersihnya disebut naik 408,9 persen pada semester pertama 2026 dibanding periode sama tahun lalu.",
-   "Penertiban tambang ilegal di Bangka Belitung disebut Presiden Prabowo sebagai bagian dari upaya pemerintah membenahi pengelolaan kekayaan negara agar sumber daya alam memberi manfaat lebih besar bagi perekonomian nasional."
+   "Menurut Prabowo, laba PT Timah dalam enam bulan pertama 2026 mencapai Rp2,7 triliun, naik sekitar sembilan kali lipat atau 900 persen dibanding periode yang sama tahun sebelumnya. Ia juga menyebut valuasi perusahaan naik 280 persen pada Agustus 2026 dibanding Agustus 2025.",
+   "Prabowo menyampaikan angka tersebut sebagai bagian dari paparan kinerja sejumlah BUMN yang menurutnya membaik setelah pemerintah melakukan pembenahan. Ia mencontohkan PT Semen Indonesia yang laba bersihnya disebut naik 408,9 persen pada semester pertama 2026 dibanding periode sama tahun lalu.",
+   "Penertiban tambang ilegal di Bangka Belitung disebut Prabowo sebagai bagian dari upaya pemerintah membenahi pengelolaan kekayaan negara agar sumber daya alam memberi manfaat lebih besar bagi perekonomian nasional."
   ],
   "fotoAdegan": "Small tin mining pontoon dredges anchored on a muddy river near dense jungle in Bangka Belitung, overcast day",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/05/68181b769aa25-ilustrasi-pt-timah-tbk_1200_675.jpg",
@@ -809,7 +1027,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
   "category": "Makroekonomi",
-  "title": "Presiden Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
   "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
   "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
   "date": "14 Agustus 2026",
@@ -836,7 +1054,7 @@ var ARTICLES = [
   "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
   "category": "Makroekonomi",
   "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
-  "deck": "Presiden Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
   "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T12:26:56+07:00",
@@ -848,9 +1066,9 @@ var ARTICLES = [
    "pertumbuhan ekonomi"
   ],
   "body": [
-   "Presiden Prabowo Subianto menyampaikan bahwa realisasi investasi di Indonesia sepanjang 2025 mencapai Rp1.931 triliun, capaian yang menurutnya diraih meski dunia sedang dibayangi ketegangan geopolitik, perang dagang, dan gangguan rantai pasok global. Investasi sebesar itu disebut membuka lebih dari 2,7 juta lapangan kerja baru bagi masyarakat. Pernyataan ini disampaikan Presiden Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026.",
-   "Tren tersebut berlanjut memasuki 2026. Pada semester pertama tahun ini, realisasi investasi sudah mencapai Rp1.010 triliun dan menciptakan lebih dari 1,4 juta lapangan kerja. Presiden Prabowo menyebut capaian ini sebagai bukti kepercayaan dunia usaha terhadap perekonomian nasional tetap terjaga, sekaligus menegaskan pentingnya Indonesia semakin mandiri di tengah tekanan ekonomi global.",
-   "Selain data investasi, Presiden Prabowo juga memaparkan kinerja pertumbuhan ekonomi nasional pada awal 2026. Produk domestik bruto Indonesia tumbuh 5,61 persen pada kuartal pertama 2026, sementara rata-rata pertumbuhan sepanjang semester pertama tahun ini tercatat 5,45 persen."
+   "Presiden Prabowo Subianto menyampaikan bahwa realisasi investasi di Indonesia sepanjang 2025 mencapai Rp1.931 triliun, capaian yang menurutnya diraih meski dunia sedang dibayangi ketegangan geopolitik, perang dagang, dan gangguan rantai pasok global. Investasi sebesar itu disebut membuka lebih dari 2,7 juta lapangan kerja baru bagi masyarakat. Pernyataan ini disampaikan Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026.",
+   "Tren tersebut berlanjut memasuki 2026. Pada semester pertama tahun ini, realisasi investasi sudah mencapai Rp1.010 triliun dan menciptakan lebih dari 1,4 juta lapangan kerja. Prabowo menyebut capaian ini sebagai bukti kepercayaan dunia usaha terhadap perekonomian nasional tetap terjaga, sekaligus menegaskan pentingnya Indonesia semakin mandiri di tengah tekanan ekonomi global.",
+   "Selain data investasi, Prabowo juga memaparkan kinerja pertumbuhan ekonomi nasional pada awal 2026. Produk domestik bruto Indonesia tumbuh 5,61 persen pada kuartal pertama 2026, sementara rata-rata pertumbuhan sepanjang semester pertama tahun ini tercatat 5,45 persen."
   ],
   "fotoAdegan": "Factory workers assembling machine parts on a busy production line inside a modern industrial plant, morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e94360a0dc-presiden-prabowo-subianto_1200_675.jpg",
@@ -1046,8 +1264,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
   "category": "Makroekonomi",
-  "title": "Presiden Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
-  "deck": "Presiden Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
   "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T10:57:58+07:00",
@@ -1060,14 +1278,14 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengklaim keberhasilan pemerintah mempercepat capaian swasembada pangan, menurunkan harga pupuk, dan menghentikan impor solar melalui program biodiesel B50. Klaim ini disampaikan dalam pidato kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026. Bagi publik, pernyataan ini penting karena menyangkut tiga isu yang langsung memengaruhi biaya hidup dan usaha, yakni ketahanan pangan, harga input pertanian, dan ketergantungan energi impor.",
-   "Presiden Prabowo menyebut target swasembada pangan yang semula diproyeksikan baru tercapai dalam empat sampai lima tahun, kini sudah terwujud hanya dalam waktu satu tahun sejak pemerintahannya berjalan. Ia mengaitkan percepatan ini dengan berbagai kebijakan yang disebutnya memperkuat sektor pangan nasional, meski rincian kebijakan tersebut tidak dijabarkan lebih lanjut dalam pidatonya. Presiden Prabowo juga menyatakan Indonesia telah mencapai swasembada untuk delapan komoditas pangan, mulai dari beras hingga produk hortikultura, meski daftar lengkap kedelapan komoditas itu tidak disebutkan secara rinci.",
-   "Di sektor pupuk, pemerintah mengklaim telah menghapus 145 aturan yang dinilai menghambat penyaluran pupuk ke petani. Langkah ini dibarengi penurunan harga pupuk sebesar 20 persen, yang menurut Presiden Prabowo merupakan penurunan harga pupuk pertama dalam sejarah Indonesia. Di saat bersamaan, laba PT Pupuk Indonesia (Persero) disebut melonjak 252,8 persen.",
-   "Presiden Prabowo turut menyinggung penerapan B50, campuran bahan bakar solar dengan 50 persen minyak sawit, yang menurutnya membuat Indonesia tidak lagi mengimpor solar sejak Juli 2026. Klaim ini melengkapi rangkaian pencapaian yang disampaikan dalam pidato kenegaraan tahun ini, sebagai bagian dari evaluasi satu tahun pemerintahan Presiden Prabowo di bidang pangan dan energi."
+   "Prabowo menyebut target swasembada pangan yang semula diproyeksikan baru tercapai dalam empat sampai lima tahun, kini sudah terwujud hanya dalam waktu satu tahun sejak pemerintahannya berjalan. Ia mengaitkan percepatan ini dengan berbagai kebijakan yang disebutnya memperkuat sektor pangan nasional, meski rincian kebijakan tersebut tidak dijabarkan lebih lanjut dalam pidatonya. Prabowo juga menyatakan Indonesia telah mencapai swasembada untuk delapan komoditas pangan, mulai dari beras hingga produk hortikultura, meski daftar lengkap kedelapan komoditas itu tidak disebutkan secara rinci.",
+   "Di sektor pupuk, pemerintah mengklaim telah menghapus 145 aturan yang dinilai menghambat penyaluran pupuk ke petani. Langkah ini dibarengi penurunan harga pupuk sebesar 20 persen, yang menurut Prabowo merupakan penurunan harga pupuk pertama dalam sejarah Indonesia. Di saat bersamaan, laba PT Pupuk Indonesia (Persero) disebut melonjak 252,8 persen.",
+   "Prabowo turut menyinggung penerapan B50, campuran bahan bakar solar dengan 50 persen minyak sawit, yang menurutnya membuat Indonesia tidak lagi mengimpor solar sejak Juli 2026. Klaim ini melengkapi rangkaian pencapaian yang disampaikan dalam pidato kenegaraan tahun ini, sebagai bagian dari evaluasi satu tahun pemerintahan Prabowo di bidang pangan dan energi."
   ],
   "fotoAdegan": "Farmers loading sacks of fertilizer onto a small truck at the edge of a green rice paddy, early morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d4ae58f754-presiden-prabowo-subianto_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Angka-angka ini, mulai dari penurunan harga pupuk 20 persen, pemangkasan 145 aturan distribusi, sampai lonjakan laba Pupuk Indonesia 252,8 persen, disampaikan langsung oleh Presiden Prabowo dalam pidato kenegaraan, bukan dari laporan keuangan atau rilis data resmi yang terpisah. Yang terdampak langsung adalah petani yang membeli pupuk, serta Pupuk Indonesia sebagai badan usaha milik negara yang kinerjanya disorot dalam pidato ini. Turunnya harga pupuk yang berbarengan dengan naiknya laba perusahaan mengarah ke pembacaan bahwa penghematan berasal dari pemangkasan birokrasi distribusi, bukan dari tambahan subsidi pemerintah. Yang akan memastikan pembacaan ini adalah laporan keuangan resmi Pupuk Indonesia dan data produksi pangan dari Badan Pusat Statistik yang biasanya terbit dalam beberapa bulan ke depan.",
+  "takeaway": "Angka-angka ini, mulai dari penurunan harga pupuk 20 persen, pemangkasan 145 aturan distribusi, sampai lonjakan laba Pupuk Indonesia 252,8 persen, disampaikan langsung oleh Prabowo dalam pidato kenegaraan, bukan dari laporan keuangan atau rilis data resmi yang terpisah. Yang terdampak langsung adalah petani yang membeli pupuk, serta Pupuk Indonesia sebagai badan usaha milik negara yang kinerjanya disorot dalam pidato ini. Turunnya harga pupuk yang berbarengan dengan naiknya laba perusahaan mengarah ke pembacaan bahwa penghematan berasal dari pemangkasan birokrasi distribusi, bukan dari tambahan subsidi pemerintah. Yang akan memastikan pembacaan ini adalah laporan keuangan resmi Pupuk Indonesia dan data produksi pangan dari Badan Pusat Statistik yang biasanya terbit dalam beberapa bulan ke depan.",
   "imageV": "mssk7nnn"
  },
  {
@@ -2615,13 +2833,13 @@ var ARTICLES = [
    "Destry Damayanti",
    "Bank Indonesia",
    "Gubernur BI",
-   "Presiden Prabowo Subianto"
+   "Prabowo Subianto"
   ],
   "body": [
    "Presiden Prabowo Subianto mengajukan Destry Damayanti sebagai satu-satunya calon Gubernur Bank Indonesia definitif ke DPR RI. Keputusan ini penting karena akan menentukan siapa yang memegang kendali kebijakan moneter dan stabilitas keuangan nasional setelah kekosongan yang ditinggalkan Perry Warjiyo.",
    "Menteri Sekretaris Negara Prasetyo Hadi menyebut rekam jejak dan pengalaman panjang Destry di sektor keuangan menjadi pertimbangan utama pemerintah. Destry tercatat sudah dua periode menjabat Deputi Gubernur Senior BI sebelum kini merangkap tugas sebagai Pejabat Sementara Gubernur BI.",
    "Pengajuan nama Destry dilakukan melalui Surat Presiden yang hanya memuat satu nama. Proses selanjutnya akan memasuki tahap pembahasan di DPR RI sesuai mekanisme dalam peraturan perundang-undangan sebelum Destry bisa resmi ditetapkan sebagai Gubernur BI definitif.",
-   "Posisi Gubernur BI kosong sejak Perry Warjiyo mengundurkan diri, dengan surat pengunduran dirinya diterima Presiden Prabowo pada 26 Juli 2026. Prasetyo menegaskan pengunduran diri Perry bukan karena alasan kesehatan, melainkan alasan pribadi."
+   "Posisi Gubernur BI kosong sejak Perry Warjiyo mengundurkan diri, dengan surat pengunduran dirinya diterima Prabowo pada 26 Juli 2026. Prasetyo menegaskan pengunduran diri Perry bukan karena alasan kesehatan, melainkan alasan pribadi."
   ],
   "takeaway": "Yang berubah adalah status pencalonan Destry Damayanti, dari Deputi Gubernur Senior dan Pjs Gubernur BI menjadi calon tunggal Gubernur BI definitif, setelah Presiden Prabowo hanya mengajukan satu nama lewat Surat Presiden ke DPR. Langkah ini langsung berdampak pada pelaku pasar keuangan dan perbankan yang sejak 26 Juli 2026 menunggu kepastian arah kepemimpinan bank sentral pasca mundurnya Perry Warjiyo. Karena Destry sudah dua periode menjabat Deputi Gubernur Senior dan tengah menjalankan tugas sebagai Pjs Gubernur BI, pencalonan tunggal ini mengarah pada kontinuitas kebijakan moneter ketimbang pergantian haluan besar. Arah itu akan lebih jelas terlihat dari hasil uji kelayakan dan kepatutan di DPR serta jadwal pelantikan Destry sebagai Gubernur BI definitif.",
   "fotoAdegan": "Security guards stand at the gated entrance of a central bank's headquarters building in downtown Jakarta at dusk.",
@@ -3660,11 +3878,11 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengajukan nama Destry Damayanti sebagai calon tunggal Gubernur Bank Indonesia kepada DPR. Usulan ini penting karena akan menentukan siapa yang memimpin bank sentral secara definitif, posisi yang selama ini diisi sementara setelah Perry Warjiyo mengundurkan diri.",
-   "Surat Presiden berisi usulan tersebut dikirimkan kepada pimpinan DPR pada Senin, 10 Agustus 2026. Presiden Prabowo hanya mencantumkan satu nama dalam surat itu, dan sebelum diusulkan, Destry lebih dulu menjalankan tugas sebagai pejabat sementara Gubernur BI.",
+   "Surat Presiden berisi usulan tersebut dikirimkan kepada pimpinan DPR pada Senin, 10 Agustus 2026. Prabowo hanya mencantumkan satu nama dalam surat itu, dan sebelum diusulkan, Destry lebih dulu menjalankan tugas sebagai pejabat sementara Gubernur BI.",
    "Destry Damayanti lahir di Jakarta pada 1963 dan menempuh pendidikan Sarjana Ekonomi di Universitas Indonesia, lalu meraih gelar Master of Science bidang Regional Science dari Cornell University, Amerika Serikat. Kariernya mencakup posisi Senior Economic Adviser untuk Duta Besar Inggris untuk Indonesia pada 2000-2003, serta peneliti dan pengajar di Fakultas Ekonomi UI pada 2005-2006.",
    "Di sektor keuangan, Destry pernah menjabat Chief Economist Mandiri Sekuritas pada 2005-2011, kemudian Chief Economist Bank Mandiri pada 2011-2015, sebelum akhirnya bergabung dengan Bank Indonesia."
   ],
-  "takeaway": "Yang berubah bukan sekadar pergantian pejabat, melainkan format usulannya sendiri, Presiden Prabowo hanya mengajukan satu nama lewat Surpres tertanggal 10 Agustus 2026, bukan beberapa kandidat seperti lazimnya proses pemilihan Gubernur BI. Ini terjadi setelah Perry Warjiyo mundur dan Destry sempat mengisi posisi itu sebagai pejabat sementara. Pihak yang paling terdampak adalah pelaku pasar keuangan dan perbankan yang membutuhkan kepastian kepemimpinan BI, serta DPR yang kini harus memproses satu nama tunggal ini. Yang perlu dipantau selanjutnya adalah jadwal uji kelayakan dan kepatutan di DPR serta keputusan resmi penetapan Gubernur BI definitif.",
+  "takeaway": "Yang berubah bukan sekadar pergantian pejabat, melainkan format usulannya sendiri, Prabowo hanya mengajukan satu nama lewat Surpres tertanggal 10 Agustus 2026, bukan beberapa kandidat seperti lazimnya proses pemilihan Gubernur BI. Ini terjadi setelah Perry Warjiyo mundur dan Destry sempat mengisi posisi itu sebagai pejabat sementara. Pihak yang paling terdampak adalah pelaku pasar keuangan dan perbankan yang membutuhkan kepastian kepemimpinan BI, serta DPR yang kini harus memproses satu nama tunggal ini. Yang perlu dipantau selanjutnya adalah jadwal uji kelayakan dan kepatutan di DPR serta keputusan resmi penetapan Gubernur BI definitif.",
   "fotoAdegan": "A row of black government sedans waits outside the gate of a state institution building in central Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
@@ -4932,7 +5150,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
-  "title": "Presiden Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
   "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
   "image": "assets/img/prabowo-pantau-b50-perintahkan-pangkas-layer-bumn.jpg",
   "date": "10 Agustus 2026",
@@ -4946,8 +5164,8 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menerima laporan perkembangan program biodiesel B50 sekaligus memerintahkan pemangkasan struktur organisasi di tubuh badan usaha milik negara. Arahan ini disampaikan dalam pertemuan tertutup dengan Direktur Utama Pertamina Simon A. Mantiri, dan menjadi sinyal bahwa pemerintah tengah mendorong dua agenda besar sekaligus, yaitu ketahanan energi domestik dan efisiensi korporasi negara.",
-   "Pertemuan berlangsung di kediaman Presiden Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Presiden Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
-   "Selain isu energi, Presiden Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
+   "Pertemuan berlangsung di kediaman Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
+   "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
    "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
   ],
   "fotoAdegan": "An engineer inspects a control panel inside a biodiesel refinery processing unit at an industrial complex.",
@@ -6203,7 +6421,7 @@ var ARTICLES = [
   "tags": [
    "Global",
    "Diplomasi Ekonomi",
-   "Presiden Prabowo"
+   "Prabowo"
   ],
   "video": "_ZV-tannxT8",
   "videoCaption": "Pengamat membahas dampak kebijakan tarif AS terhadap ekonomi dunia — tvOneNews",
@@ -6446,7 +6664,7 @@ var ARTICLES = [
   "tags": [
    "Pariwisata",
    "Ekonomi Kreatif",
-   "Presiden Prabowo"
+   "Prabowo"
   ],
   "video": null,
   "videoCaption": null,

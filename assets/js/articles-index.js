@@ -39,6 +39,91 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460011-solusi-mandiri-dari-bantul-cara-tps-3r-go-sari-atasi-masalah-sampah-dari-sumbernya"
  },
  {
+  "slug": "silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit",
+  "category": "Aksi Korporasi",
+  "title": "SILO [Akuisisi] 14 RS Senilai Rp6,9 Triliun dari First REIT",
+  "deck": "Siloam berencana membeli 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp6,9 triliun, transaksi material yang perlu persetujuan RUPSLB 22 September 2026.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit.jpg",
+  "imageV": "mstupfa1",
+  "tags": [
+   "SILO",
+   "First REIT",
+   "akuisisi rumah sakit",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cc58ee9c06_7a64eba02a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t",
+  "category": "Aksi Korporasi",
+  "title": "SILO [Jaminkan] Aset ke Bank untuk Pinjaman Sindikasi Rp14,5 T",
+  "deck": "Siloam menjaminkan aset di atas 50 persen kekayaan bersihnya untuk pinjaman sindikasi Rp14,5 triliun, menunggu persetujuan pemegang saham di RUPSLB 22 September 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t.jpg",
+  "imageV": "mstuqdgs",
+  "tags": [
+   "SILO",
+   "pinjaman sindikasi",
+   "penjaminan aset",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/561352b173_3612f1090f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-rups-22-september-akuisisi-14-rs-rp9-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SILO RUPS 22 September, Akuisisi 14 RS [Rp9 Triliun]",
+  "deck": "Siloam akan gelar RUPS 22 September 2026 untuk menyetujui akuisisi 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp9 triliun, dibiayai lewat utang bank baru Rp8,88 triliun.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/silo-rups-22-september-akuisisi-14-rs-rp9-triliun.jpg",
+  "imageV": "mstuqqb3",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "First REIT",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fd5b36959f_b73f7d61d5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda",
+  "category": "Aksi Korporasi",
+  "title": "SILO Jadwalkan RUPSLB 22 September, [Akuisisi] Jadi Agenda",
+  "deck": "Siloam mengumumkan RUPSLB pada 22 September 2026 di Tangerang, dengan tenggat pencatatan pemegang saham 28 Agustus dan usul agenda 24 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda.jpg",
+  "imageV": "msturds1",
+  "tags": [
+   "SILO",
+   "RUPSLB",
+   "Siloam Hospitals",
+   "Akuisisi Rumah Sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/633f758b6b_21cbe5fe53.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Bantah Ada Informasi Material soal [Volatilitas] Sahamnya",
+  "deck": "Merespons surat resmi BEI soal lonjakan transaksi sahamnya, direksi CSMI menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya.jpg",
+  "imageV": "mstus65s",
+  "tags": [
+   "CSMI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/818ab2912d_c898b06aff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
   "category": "Teknologi",
   "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",
@@ -90,6 +175,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459979-dari-huntara-ke-usaha-produktif-bnpb-pnm-dorong-warga-agam-bangkit-lewat-potensi-ekonomi-lokal"
  },
  {
+  "slug": "adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Akui [Event of Default], Utang ke CGIF Rp12,36 M",
+  "deck": "ADCP mengakui gagal bayar kupon obligasi hingga penjamin CGIF turun tangan membayarnya, dengan rincian utang Rp12,36 miliar yang kini harus diganti Perseroan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m.jpg",
+  "imageV": "mstusj5g",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "event of default",
+   "CGIF"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/405fd8f987_3c424c559f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali",
+  "category": "Aksi Korporasi",
+  "title": "RUNS: Penjualan Saham [Pengendali] ke Istri Bukan Ubah Kendali",
+  "deck": "BEI mempertanyakan penjualan saham pengendali RUNS yang membuat kepemilikannya nyaris disalip pemegang saham kedua. Perseroan membantah ada pergantian kendali dan mengakui dua kekeliruan input di laporan sebelumnya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali.jpg",
+  "imageV": "mstut46k",
+  "tags": [
+   "RUNS",
+   "pemegang saham pengendali",
+   "keterbukaan informasi BEI",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0b0568cec8_e8c9b6ee0b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kadin-rating-kredit-ri-bertahan-dorong-investasi-riil",
   "category": "Makroekonomi",
   "title": "Kadin: Rating [Kredit] RI Bertahan, Dorong Investasi Riil",
@@ -122,6 +241,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459962-kembali-berkolaborasi-bank-bjb-dan-persib-satukan-semangat-juara"
+ },
+ {
+  "slug": "mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Ajukan [Scheme of Arrangement] untuk Selesaikan Notes 2027",
+  "deck": "Modernland Realty mengajukan skema restrukturisasi Guaranteed Senior Notes jatuh tempo 2027, voting pemegang notes berlangsung hingga 24 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027.jpg",
+  "imageV": "mstutq1m",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi global",
+   "Modernland Realty"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f84cb97386_9fe6d436af.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "restrukturisasi-telkom-enterprise-danantara-incar-pasar-30",
@@ -160,15 +296,15 @@ var ARTICLES = [
  {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
-  "title": "IHSG [Melesat] 1,59% Usai Presiden Prabowo Pidato RAPBN 2027",
-  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Presiden Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
   "date": "14 Agustus 2026",
   "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
   "imageV": "mssvvotr",
   "tags": [
    "IHSG",
    "RAPBN 2027",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "defisit anggaran"
   ],
   "kreditFoto": "tvOneNews",
@@ -177,8 +313,8 @@ var ARTICLES = [
  {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Presiden Prabowo",
-  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Presiden Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
   "date": "14 Agustus 2026",
   "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
   "imageV": "mssvvp9t",
@@ -186,7 +322,7 @@ var ARTICLES = [
    "rupiah",
    "RAPBN 2027",
    "kurs dolar",
-   "Presiden Prabowo Subianto"
+   "Prabowo Subianto"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
@@ -194,15 +330,15 @@ var ARTICLES = [
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
-  "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
-  "deck": "Presiden Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
   "imageV": "mssvvpxm",
   "tags": [
    "BUMN",
    "aset negara",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "APBN 2027"
   ],
   "kreditFoto": "tvOneNews",
@@ -212,7 +348,7 @@ var ARTICLES = [
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
-  "deck": "Presiden Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
   "date": "14 Agustus 2026",
   "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
   "imageV": "msss9bch",
@@ -228,10 +364,11 @@ var ARTICLES = [
  {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
-  "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
-  "deck": "Presiden Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
   "date": "14 Agustus 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit.jpg",
+  "imageV": "mstuubca",
   "tags": [
    "sawit",
    "ekspor",
@@ -243,14 +380,14 @@ var ARTICLES = [
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
   "category": "BUMN",
-  "title": "Presiden Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
-  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
   "imageV": "msss9c94",
   "tags": [
    "BUMN",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "restrukturisasi BUMN",
    "APBN"
   ],
@@ -260,14 +397,14 @@ var ARTICLES = [
  {
   "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
   "category": "BUMN",
-  "title": "Presiden Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
-  "deck": "Presiden Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
   "imageV": "msss9cyx",
   "tags": [
    "BUMN",
-   "Presiden Prabowo Subianto",
+   "Prabowo Subianto",
    "restrukturisasi BUMN",
    "Sidang Tahunan MPR"
   ],
@@ -397,7 +534,7 @@ var ARTICLES = [
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
   "category": "BUMN",
   "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
-  "deck": "Presiden Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
   "date": "14 Agustus 2026",
   "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
   "imageV": "mssoesiy",
@@ -515,7 +652,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
   "category": "Makroekonomi",
-  "title": "Presiden Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
   "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
@@ -533,7 +670,7 @@ var ARTICLES = [
   "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
   "category": "Makroekonomi",
   "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
-  "deck": "Presiden Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
   "date": "14 Agustus 2026",
   "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
   "imageV": "mssk7lfh",
@@ -668,8 +805,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
   "category": "Makroekonomi",
-  "title": "Presiden Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
-  "deck": "Presiden Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
   "imageV": "mssk7nnn",
@@ -1671,7 +1808,7 @@ var ARTICLES = [
    "Destry Damayanti",
    "Bank Indonesia",
    "Gubernur BI",
-   "Presiden Prabowo Subianto"
+   "Prabowo Subianto"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459369-prabowo-pilih-destry-damayanti-jadi-calon-tunggal-gubernur-bi-istana-ungkap-alasannya"
@@ -3137,7 +3274,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
-  "title": "Presiden Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
   "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
   "date": "10 Agustus 2026",
   "image": "assets/img/prabowo-pantau-b50-perintahkan-pangkas-layer-bumn.jpg",
@@ -3925,7 +4062,7 @@ var ARTICLES = [
   "tags": [
    "Global",
    "Diplomasi Ekonomi",
-   "Presiden Prabowo"
+   "Prabowo"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456785-prabowo-kirim-tim-ke-china-hingga-mesir-cari-formula-terbaik-antisipasi-krisis-dunia-panjang",
@@ -4071,7 +4208,7 @@ var ARTICLES = [
   "tags": [
    "Pariwisata",
    "Ekonomi Kreatif",
-   "Presiden Prabowo"
+   "Prabowo"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456717-prabowo-satu-wisatawan-asing-minum-secangkir-kopi-bisa-hidupi-10-hingga-15-rakyat-indonesia"

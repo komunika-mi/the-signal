@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",
   "deck": "Kemendag menaikkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 15-31 Agustus 2026, mengikuti kenaikan harga emas di pasar global.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/patokan-harga-ekspor-emas-naik-0-65-per-15-agustus.jpg",
   "date": "15 Agustus 2026",
   "isoDate": "2026-08-15T07:29:13.357Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026",
@@ -27,7 +27,8 @@ var ARTICLES = [
   "fotoAdegan": "Workers weighing stacked gold bars on an industrial scale inside a metal refinery, bright overhead lighting",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "HPE ini bukan kebijakan baru, melainkan penyesuaian rutin dua kali sebulan yang mengikuti harga emas dunia, jadi kenaikan 0,65 persen kali ini pada dasarnya cerminan harga pasar internasional. Yang terdampak langsung adalah perusahaan tambang dan eksportir emas, karena HPE dipakai sebagai dasar hitung bea keluar, semacam pajak ekspor yang mereka bayar setiap mengirim emas ke luar negeri. Semakin tinggi HPE, semakin besar pula nilai yang jadi dasar perhitungan pajak itu per kilogram emas yang diekspor. Arah HPE ke depan akan terus mengikuti tren harga emas dunia, yang menurut Kemendag saat ini masih didorong ekspektasi penurunan suku bunga global. Penetapan periode pertama September 2026 nanti akan menunjukkan apakah tren kenaikan ini berlanjut atau mulai mendatar."
+  "takeaway": "HPE ini bukan kebijakan baru, melainkan penyesuaian rutin dua kali sebulan yang mengikuti harga emas dunia, jadi kenaikan 0,65 persen kali ini pada dasarnya cerminan harga pasar internasional. Yang terdampak langsung adalah perusahaan tambang dan eksportir emas, karena HPE dipakai sebagai dasar hitung bea keluar, semacam pajak ekspor yang mereka bayar setiap mengirim emas ke luar negeri. Semakin tinggi HPE, semakin besar pula nilai yang jadi dasar perhitungan pajak itu per kilogram emas yang diekspor. Arah HPE ke depan akan terus mengikuti tren harga emas dunia, yang menurut Kemendag saat ini masih didorong ekspektasi penurunan suku bunga global. Penetapan periode pertama September 2026 nanti akan menunjukkan apakah tren kenaikan ini berlanjut atau mulai mendatar.",
+  "imageV": "msu5ueo8"
  },
  {
   "slug": "pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh",
@@ -1130,6 +1131,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Perubahan konkretnya adalah pemangkasan besar jumlah BUMN, dari 1.074 perusahaan yang mencakup anak dan cucu usahanya menjadi paling banyak 300 pada akhir tahun ini, setelah 290 di antaranya sudah ditutup. Yang terdampak langsung adalah manajemen dan karyawan BUMN yang dianggap tidak produktif, karena unit usaha mereka masuk daftar yang akan dibubarkan atau digabung, sementara Kementerian BUMN menanggung beban merampingkan ratusan entitas dalam waktu kurang dari lima bulan. Arahnya mengarah ke konsolidasi cepat, bukan pemangkasan bertahap, sebab menutup lebih dari 750 perusahaan dalam sisa satu tahun anggaran adalah target yang agresif. Yang akan memastikan arah ini adalah laporan resmi pemerintah pada 31 Desember 2026 soal berapa BUMN yang benar-benar tersisa saat itu, apakah sesuai target 300 atau meleset.",
   "imageV": "msss9cyx"
+ },
+ {
+  "slug": "ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PTSP menjawab permintaan BEI soal gejolak sahamnya: tak ada info material baru dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T15:29:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9f3e2d0a7_19ae4d1e40.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSP",
+  "tags": [
+   "PTSP",
+   "Pioneerindo Gourmet International",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Pioneerindo Gourmet International Tbk (PTSP) mengirim surat penjelasan ke Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi saham perseroan melalui surat BEI nomor S-10602/BEI.PP2/08-2026 tanggal 12 Agustus 2026. Jawaban perseroan disampaikan lewat surat nomor 090/PGI/LGL/Dir-MGMT/VIII/2026 tertanggal 14 Agustus 2026, ditandatangani Direktur Teh Kian Kun.",
+   "Dalam surat itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham serta aktivitas penjaminan saham perusahaan terbuka. Perseroan menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, setidaknya untuk tiga bulan ke depan, yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary perseroan menyatakan telah menanyakan langsung dan pemegang saham utama tidak memiliki rencana apa pun terhadap kepemilikan sahamnya di Pioneerindo untuk periode tiga bulan ke depan. Perseroan juga menyebut tidak ada informasi, fakta, atau kejadian penting lain yang material dan memengaruhi harga efek maupun kelangsungan usaha yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Kitchen staff at a fried chicken restaurant frying chicken pieces in large stainless steel fryers during a busy lunch rush in Jakarta",
+  "takeaway": "Penjelasan ini netral bagi fundamental Pioneerindo, sebab isinya bantahan standar tanpa satu pun angka keuangan atau perubahan struktur pemilikan yang diungkap. Gejolak harga atau volume transaksi saham PTSP yang sampai membuat BEI mengirim surat ternyata tidak dibarengi perubahan pada pos-pos yang biasa dilihat pelaku pasar, seperti modal sendiri perusahaan (ekuitas), aliran kas, beban bunga utang, jumlah saham yang beredar, atau laba per saham, semua pos yang lazimnya jadi alasan wajar harga bergerak tajam. Artinya kalau memang ada lonjakan harga atau transaksi belakangan ini, dokumen ini tidak memberi dasar fundamental untuk itu. Yang perlu dipantau berikutnya adalah apakah dalam tiga bulan ke depan, sampai sekitar pertengahan November 2026, batas waktu yang disebut sendiri oleh perseroan, muncul aksi korporasi baru atau perubahan sikap dari pemegang saham utama, karena keduanya secara eksplisit dinyatakan belum ada rencana per surat ini.",
+  "sentimen": "netral",
+  "imageV": "msu5v123"
  },
  {
   "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
@@ -2344,6 +2372,33 @@ var ARTICLES = [
   "imageV": "msrglhev"
  },
  {
+  "slug": "wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham WEGE, dan perseroan menyatakan tidak ada informasi atau fakta material yang melatarbelakanginya.",
+  "image": "assets/img/wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T17:44:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3864aa8aa5_3f8483ad42.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WEGE",
+  "tags": [
+   "WEGE",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Wijaya Karya Bangunan Gedung Tbk (WEGE) menjawab surat Bursa Efek Indonesia nomor S-10604/BEI.PP2/08-2026 tertanggal 12 Agustus 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Jawaban resmi disampaikan sehari setelahnya, 13 Agustus 2026, ditandatangani Direktur Keuangan, Human Capital, dan Manajemen Risiko WEGE, Rohandi, serta Corporate Secretary Purba Yudha Tama.",
+   "Dalam suratnya, WEGE menegaskan hingga saat surat itu dibuat tidak ada informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang seharusnya dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "WEGE menambahkan belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang berpotensi memengaruhi status pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material bagi kelangsungan usaha yang belum diungkapkan ke publik. Surat jawaban ini turut ditembuskan ke Direktur Pengawasan Emiten dan Perusahaan Publik 2 BEI serta Kepala Departemen Pengawasan Emiten dan Perusahaan Publik OJK."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a high-rise building site in Jakarta, cranes overhead, hazy afternoon light",
+  "takeaway": "Laporan ini netral bagi WEGE karena isinya murni bantahan rutin atas permintaan Bursa, tanpa ada angka keuangan baru atau perubahan rencana bisnis yang diungkapkan ke publik. Permintaan penjelasan semacam ini muncul ketika Bursa mendeteksi pergerakan harga atau volume transaksi saham yang tidak wajar, sehingga jawaban 'tidak ada informasi material' berarti pergerakan harga WEGE belakangan ini sebaiknya dibaca sebagai dinamika jual beli di pasar, bukan cerminan perubahan kinerja, ekuitas, atau arus kas perseroan. Laporan ini juga tidak menyentuh satu pun pos kinerja seperti laba per saham atau jumlah saham beredar, jadi tidak ada dasar baru bagi investor untuk menghitung ulang valuasi. Yang perlu terus dipantau adalah apakah volatilitas transaksi saham WEGE berlanjut tanpa kunjung disertai informasi material baru, karena pola itu bisa memicu Bursa mengirim permintaan penjelasan serupa atau tindakan pengawasan lanjutan.",
+  "sentimen": "netral",
+  "imageV": "msu5vnhl"
+ },
+ {
   "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
   "category": "Bisnis",
   "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
@@ -2374,6 +2429,59 @@ var ARTICLES = [
   "fotoGagal": 2
  },
  {
+  "slug": "ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Teken Kredit Baru [USD25 Juta] dari Bank Mandiri",
+  "deck": "Sat Nusapersada mengantongi kredit investasi dan tambahan limit modal kerja senilai total USD 25 juta dari Bank Mandiri untuk mendanai proyek baru.",
+  "image": "assets/img/ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T17:12:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1341f7a9e6_56426e6782.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTSN",
+  "tags": [
+   "PTSN",
+   "Sat Nusapersada",
+   "Bank Mandiri",
+   "kredit"
+  ],
+  "body": [
+   "Sat Nusapersada Tbk (PTSN) menandatangani perjanjian kredit dengan PT Bank Mandiri (Persero) Tbk pada 13 Agustus 2026. Berdasarkan keterbukaan informasi yang ditandatangani Corporate Secretary Rina Dewi, perseroan memperoleh kredit investasi baru sebesar USD 11,2 juta, tambahan limit kredit modal kerja revolving USD 4,4 juta, kredit modal kerja transaksional USD 4,4 juta, serta tambahan limit kredit treasury line USD 5 juta. Jika dijumlahkan, total fasilitas kredit baru dan tambahan limit yang diperoleh PTSN dari Bank Mandiri mencapai USD 25 juta.",
+   "Perseroan menyatakan fasilitas ini memberi fleksibilitas pendanaan yang lebih baik untuk mendukung pengembangan usaha, termasuk investasi pada berbagai proyek baru yang akan datang, meski dokumen tidak merinci proyek dimaksud. Dari sisi hukum, perseroan menyatakan tidak ada dampak apa pun dari penandatanganan ini. Dari sisi keuangan, kredit baru ini akan meningkatkan likuiditas perseroan, namun disertai kewajiban membayar beban bunga setiap bulan. Perseroan juga menegaskan kelangsungan usahanya tetap terjaga."
+  ],
+  "fotoAdegan": "Workers assembling electronic circuit boards on an assembly line inside a bright industrial factory floor in Batam",
+  "takeaway": "Laporan ini condong positif bagi PTSN, karena porsi terbesarnya, USD 11,2 juta dari total USD 25 juta, berupa kredit investasi yang biasanya dipakai untuk belanja modal dan ekspansi, bukan sekadar menambal kekurangan kas jangka pendek. Yang tersentuh dari fasilitas ini ada dua pos: arus kas, karena dana pinjaman yang cair akan menambah kas dan likuiditas perseroan, dan beban bunga, yaitu biaya pinjaman yang harus dibayar tiap bulan dan langsung mengurangi laba bersih ke depan. Investor perlu mencermati keduanya berjalan berbarengan, dana masuk memperlebar ruang gerak perseroan tapi juga menambah kewajiban rutin. Yang perlu dipantau berikutnya adalah realisasi penggunaan dana kredit investasi ini untuk proyek yang dimaksud perseroan, serta laporan keuangan kuartal mendatang untuk melihat seberapa besar tambahan beban bunga yang muncul akibat pinjaman baru ini.",
+  "sentimen": "positif",
+  "imageV": "msu5waoh"
+ },
+ {
+  "slug": "adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Akui Ada [Risiko] Telat Bayar Bunga Obligasi Rp182 M",
+  "deck": "Adhi Karya mengaku ada risiko gagal membayar bunga obligasi setelah RUPO menolak proposal restrukturisasi, dan menyiapkan RUPO lanjutan pada 11 September 2026.",
+  "image": "assets/img/adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T17:11:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4eae049f88_40cd77f61c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi korporasi",
+   "RUPO",
+   "risiko gagal bayar"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk menjawab permintaan penjelasan Bursa Efek Indonesia menyusul gagalnya Rapat Umum Pemegang Obligasi (RUPO) pada 6 Agustus 2026 menyetujui perubahan syarat Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022. Dalam surat bernomor 322/SP-VIII/2026 yang ditandatangani Corporate Secretary Siswanto, perseroan menyatakan telah berkoordinasi dengan PT Bank Mega Tbk selaku wali amanat untuk menggelar RUPO lanjutan pada 11 September 2026. Pengumuman RUPO lanjutan itu sudah disebarkan lewat surat kabar, situs web Bursa, dan situs web perseroan.",
+   "Pembayaran bunga ke-17 obligasi tersebut untuk seri B dan seri C dijadwalkan jatuh tempo pada 24 Agustus 2026. Adhi Karya menyatakan akan mengumumkan kesiapan dananya sehari sebelum tanggal jatuh tempo itu, mengikuti ketentuan Bursa nomor IV.2.12. Untuk tiga kali pembayaran bunga yang menjadi agenda RUPO yang ditolak, yaitu bunga ke-17, ke-18, dan ke-19, perseroan merinci kebutuhan dana masing-masing sebesar Rp60.824.400.000 per pembayaran, sehingga totalnya mencapai Rp182.473.200.000.",
+   "Perseroan secara terbuka mengakui adanya risiko tidak dapat membayar bunga sesuai jadwal setelah RUPO tidak disetujui. Mitigasi yang disebut baru sebatas koordinasi dengan Bank Mega untuk menyelenggarakan RUPO lanjutan. Bursa turut mengingatkan bahwa berdasarkan ketentuan IV.2.12, jika perusahaan tercatat tidak siap membayar kewajiban atas efek, baik bunga, fee, bagi hasil, maupun pokok, maka wajib menyampaikannya ke Bursa paling lambat satu hari bursa sebelum tanggal jatuh tempo."
+  ],
+  "fotoAdegan": "Construction workers walking across steel rebar on an unfinished highway overpass in Jakarta, cranes in background, hazy afternoon light",
+  "takeaway": "Ini sinyal negatif bagi ADHI, karena perseroan secara terbuka mengakui ada risiko tidak bisa membayar bunga obligasi sesuai jadwal, setelah pemegang obligasi menolak proposal restrukturisasi dalam RUPO awal Agustus. Yang tersentuh di sini adalah arus kas, yaitu ketersediaan uang tunai perusahaan untuk memenuhi kewajiban jangka pendek, dan pelaku pasar mencermatinya karena arus kas yang seret bisa berujung gagal bayar. Total dana yang dibutuhkan untuk tiga kali pembayaran bunga, yakni bunga ke-17, ke-18, dan ke-19, mencapai Rp182,47 miliar, jumlah yang cukup besar untuk dipantau terhadap kemampuan kas perseroan saat ini. Yang perlu dipantau berikutnya adalah RUPO lanjutan pada 11 September 2026 serta kepastian dana yang wajib diumumkan Adhi Karya sehari sebelum jatuh tempo pembayaran bunga ke-17 pada 24 Agustus 2026.",
+  "sentimen": "negatif",
+  "imageV": "msu5x23s"
+ },
+ {
   "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
   "category": "Ketenagakerjaan",
   "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",
@@ -2401,6 +2509,87 @@ var ARTICLES = [
   "imageV": "msrdp3hy"
  },
  {
+  "slug": "suli-beri-penjelasan-usai-saham-melonjak-27-78-persen",
+  "category": "Aksi Korporasi",
+  "title": "SULI Beri Penjelasan usai Saham [Melonjak] 27,78 Persen",
+  "deck": "SLJ Global (SULI) menyebut lonjakan harga dan volume sahamnya ke BEI tidak dipicu informasi material, sementara rencana konversi utang menjadi saham masih tertunda menunggu pembahasan dengan OJK.",
+  "image": "assets/img/suli-beri-penjelasan-usai-saham-melonjak-27-78-persen.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T15:30:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0d2831377e_a35a21a534.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SULI",
+  "tags": [
+   "SULI",
+   "BEI",
+   "volatilitas saham",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT SLJ Global Tbk (SULI) menjelaskan lonjakan volume dan harga transaksi sahamnya kepada Bursa Efek Indonesia, menanggapi surat permintaan penjelasan BEI bernomor S-10468/BEI.PP3/08-2026 tanggal 11 Agustus 2026. Volume transaksi saham SULI melonjak menjadi 220.898.700 saham dengan 17.541 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 1.877.500 saham dengan 182 kali transaksi. Harga saham SULI ditutup naik Rp25, dari Rp90 menjadi Rp115, atau setara kenaikan 27,78 persen dalam sehari.",
+   "Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan keterbukaan informasi OJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan BEI Nomor I-E. Perseroan menegaskan seluruh informasi yang wajib disampaikan kepada pemegang saham dan publik sejauh ini sudah dipublikasikan lewat situs OJK dan BEI. Meski begitu, perseroan mengaku mengetahui adanya aktivitas dari pemegang saham tertentu atas saham SULI, yang informasinya diterima secara rutin dari Biro Administrasi Efek (BAE) perseroan, tanpa merinci pihak maupun jumlah sahamnya.",
+   "Soal rencana aksi korporasi, perseroan menyatakan masih menunda pelaksanaan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dalam rangka mengonversi utang menjadi saham baru, yang sebelumnya dijadwalkan pada 26 Juni 2026. Perseroan menyebut masih melakukan pembahasan dan koordinasi dengan Otoritas Jasa Keuangan terkait rencana pelaksanaan PMTHMETD tersebut, tanpa menyebutkan jadwal baru. Surat penjelasan ini ditandatangani secara elektronik oleh Corporate Secretary SLJ Global, Karina Detri Amalia, pada 13 Agustus 2026 pukul 15.30 WIB."
+  ],
+  "fotoAdegan": "Traders' hands typing rapidly on keyboards in a dim Jakarta brokerage office, rows of blurred monitors glowing, fast motion",
+  "takeaway": "Penjelasan ini netral bagi fundamental SULI, karena lonjakan harga dan volume yang dipertanyakan BEI justru diakui perseroan tidak dipicu informasi material apa pun, dan belum ada angka baru soal kinerja perusahaan. Yang tetap perlu dicermati adalah rencana PMTHMETD, yaitu penerbitan saham baru tanpa jatah untuk pemegang saham lama, yang dipakai untuk mengubah utang perseroan menjadi saham; kalau nanti benar terlaksana, jumlah saham beredar SULI bertambah dan itu bisa mengencerkan laba per saham serta porsi kepemilikan pemegang saham lama. Rencana ini sebelumnya dijadwalkan 26 Juni 2026 tapi sampai sekarang masih tertunda karena perseroan masih membahas pelaksanaannya dengan OJK, sehingga pembaca perlu memantau kapan skema dan tanggal barunya diumumkan. Lonjakan volume dari 1,87 juta menjadi 220,9 juta saham dalam sehari, dibarengi pengakuan perseroan soal aktivitas pemegang saham tertentu yang dilaporkan rutin lewat BAE, juga layak dipantau lewat pengumuman kepemilikan saham berikutnya.",
+  "sentimen": "netral",
+  "imageV": "msu5xhyt"
+ },
+ {
+  "slug": "ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Klarifikasi [Volatilitas] Transaksi Saham ke BEI",
+  "deck": "Menjawab permintaan BEI, manajemen Yanaprima Hastapersada menyatakan tidak ada informasi material maupun rencana korporasi di balik pergerakan harga sahamnya.",
+  "image": "assets/img/ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T15:12:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/636aaa8c36_05d15e622b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YPAS",
+  "tags": [
+   "YPAS",
+   "Yanaprima Hastapersada",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "Yanaprima Hastapersada Tbk (YPAS) mengirim surat penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI lewat surat nomor S-10593/BEI.PP3/08-2026 terkait volatilitas transaksi saham perseroan. Jawaban perseroan, bernomor 02.E/CS/08-2026, ditandatangani Rinawati selaku Direktur Keuangan pada 13 Agustus 2026 pukul 15.12 WIB.",
+   "Dalam suratnya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan BEI Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa, namun berjanji akan menginformasikan jika ada perkembangan.",
+   "Terkait kemungkinan rencana pemegang saham utama atas kepemilikan sahamnya, Corporate Secretary YPAS mengaku telah mengonfirmasi langsung kepada pemegang saham utama tersebut, dan jawabannya adalah belum ada rencana apa pun terhadap kepemilikan sahamnya di perseroan. Perseroan menegaskan tidak ada informasi atau kejadian material lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers checking rolls of plastic packaging film on an industrial production line inside a factory, daylight from skylights",
+  "takeaway": "Surat ini netral bagi fundamental YPAS, karena isinya murni klarifikasi rutin tanpa satu pun informasi baru yang mengubah kondisi keuangan perusahaan. Volatilitas transaksi adalah istilah bursa untuk lonjakan harga atau volume perdagangan saham yang dianggap tidak wajar, sehingga BEI meminta emiten mengonfirmasi apakah ada pemicu tersembunyi. Karena jawaban YPAS serba menyangkal, tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh dalam dokumen ini, jadi pergerakan harga sahamnya tampaknya bukan didorong oleh perubahan fundamental yang diketahui perseroan. Yang perlu dipantau selanjutnya adalah apakah BEI akan melanjutkan pemantauan atau bahkan mempertimbangkan penghentian sementara perdagangan jika pola harga saham YPAS tetap tidak wajar, mengingat perseroan sendiri menegaskan belum ada rencana aksi korporasi hingga tiga bulan ke depan sejak 13 Agustus 2026.",
+  "sentimen": "netral",
+  "imageV": "msu5xum3"
+ },
+ {
+  "slug": "wapo-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "WAPO Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "WAPO menjawab surat Bursa Efek Indonesia soal volatilitas sahamnya, dan menyatakan tidak mengetahui ada informasi atau rencana aksi korporasi material di baliknya.",
+  "image": "assets/img/wapo-jawab-permintaan-bursa-soal-volatilitas-saham.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T14:52:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6e39b321a7_0ab7ccc046.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WAPO",
+  "tags": [
+   "WAPO",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Wahana Pronatural Tbk (WAPO) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-10475/BEI.PP3/08-2026 tertanggal 11 Agustus 2026 terkait volatilitas transaksi sahamnya. Balasan perusahaan bernomor 333/WAPO.CS/VIII/2026 dikirim dari Surabaya pada 12 Agustus 2026 dan disampaikan lewat sistem pelaporan elektronik bursa pada 13 Agustus 2026 pukul 14.52 WIB, ditandatangani Corporate Secretary WAPO, Iwan Setiawan.",
+   "Dalam surat itu, manajemen menjawab lima pertanyaan standar yang diajukan bursa. Perseroan menyatakan belum mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perusahaan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu, seperti perubahan kepemilikan atau penjaminan saham, sebagaimana diatur dalam POJK Nomor 4 Tahun 2024.",
+   "Soal rencana aksi korporasi, WAPO menegaskan belum memiliki rencana bernilai material dalam tiga bulan ke depan, dan berjanji akan melaporkan ke bursa begitu rencana semacam itu muncul. Perusahaan juga menyatakan tidak ada informasi atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Surabaya business district, tinted windows, midday light, no readable signage",
+  "takeaway": "Laporan ini netral bagi fundamental WAPO, karena isinya adalah bantahan standar bahwa tidak ada informasi atau aksi korporasi material di balik pergerakan harga sahamnya, bukan pengumuman perubahan kinerja. Tidak ada pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini. Yang tersentuh justru soal keterbukaan informasi, yakni kewajiban emiten menjelaskan ke bursa saat harga sahamnya bergerak tidak wajar, agar investor tahu apakah ada alasan fundamental di balik pergerakan itu atau tidak. Yang perlu dipantau berikutnya adalah apakah WAPO benar-benar mengumumkan keterbukaan informasi baru jika rencana aksi korporasi muncul dalam tiga bulan ke depan, sekitar November 2026, sesuai janji dalam surat ini.",
+  "sentimen": "netral",
+  "imageV": "msu5ygg5"
+ },
+ {
   "slug": "kur-bri-tembus-rp103-81-triliun-hingga-juni-2026",
   "category": "UMKM",
   "title": "KUR BRI Tembus [Rp103,81 Triliun] hingga Juni 2026",
@@ -2426,6 +2615,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Dari total Rp103,81 triliun yang tersalur ke 2 juta debitur, lebih dari tiga perempatnya terkumpul di dua sektor saja, yaitu pertanian dengan 42,68 persen dan perdagangan dengan 32,34 persen. Konsentrasi ini langsung menyasar petani dan pedagang skala kecil-menengah, kelompok yang selama ini paling bergantung pada kredit bersubsidi karena sulit mengakses pinjaman komersial biasa dengan bunga pasar. BRI mengaitkan penyaluran ini dengan ekosistem Danantara dan agenda ketahanan pangan, sehingga dominasi sektor pertanian tampak sejalan dengan arah tersebut ketimbang sekadar penyebaran acak ke semua jenis usaha. Berita ini juga menyinggung capaian graduasi debitur, yakni pelaku usaha yang naik kelas hingga bisa memakai pembiayaan komersial biasa, tapi tanpa menyebut angkanya. Angka graduasi itulah yang akan menunjukkan apakah program ini benar membuat penerimanya lepas dari kredit bersubsidi, atau sekadar mempertahankan jumlah penyaluran yang besar dari tahun ke tahun.",
   "imageV": "msrdp4xm"
+ },
+ {
+  "slug": "lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Teken Kerja Sama [Eksplorasi] Sarana Kereta dengan CRRC Qiqihar",
+  "deck": "LOPI menandatangani nota kerja sama eksplorasi dengan produsen kereta api asal China, CRRC Qiqihar, untuk pengembangan sarana perkeretaapian di Indonesia, termasuk potensi kerja sama dengan KAI.",
+  "image": "assets/img/lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar.jpg",
+  "date": "13 Agustus 2026",
+  "isoDate": "2026-08-13T14:51:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99ac98fee0_0d2be2b5ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "CRRC Qiqihar",
+   "perkeretaapian",
+   "kerja sama"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) menandatangani Cooperation Agreement dengan CRRC Qiqihar Rolling Stock Co., Ltd pada 10 Agustus 2026 untuk menjajaki peluang kerja sama dalam pengembangan, manufaktur, integrasi, dan penyediaan sarana perkeretaapian di Indonesia. Keterbukaan informasi ini ditandatangani Direktur Utama LOPI, Wahyu Dwi Jatmiko, dan disampaikan ke Bursa Efek Indonesia serta Otoritas Jasa Keuangan pada 13 Agustus 2026.",
+   "Ruang lingkup kerja sama mencakup gerbong barang, railway crane, dan rolling stock lainnya, termasuk pengembangan program pelatihan bagi PT Kereta Api Indonesia (Persero) dan/atau pelanggan potensial lain. Pembagian perannya jelas dalam dokumen: CRRC Qiqihar menangani aspek desain teknis dan manufaktur, sementara LOPI berperan di riset logistik lokal, perencanaan rantai pasok, integrasi sumber daya proyek, serta pengembangan mitra industri nasional.",
+   "Perseroan menyebut dampak kerja sama ini adalah membuka potensi pendapatan tambahan dari jasa logistik, project logistics, transportasi, pergudangan, customs clearance, heavy lifting, dan jasa terkait lainnya. Dokumen tidak mencantumkan nilai proyek, target volume, atau jangka waktu kerja sama, karena sifatnya masih penjajakan awal, bukan kontrak definitif dengan komitmen bisnis yang mengikat."
+  ],
+  "fotoAdegan": "Freight train cars and rolling stock parked in an industrial rail yard, workers in safety vests inspecting undercarriages, overcast daylight",
+  "takeaway": "Kerja sama ini masih berupa penjajakan awal, bukan kontrak definitif dengan nilai proyek yang pasti, sehingga dampaknya terhadap fundamental LOPI untuk saat ini bersifat netral meski membuka peluang bisnis baru di sektor perkeretaapian. Yang tersentuh dari laporan ini adalah potensi pendapatan Perseroan ke depan, bukan angka di laporan keuangan yang sudah ada, karena kerja sama sifatnya eksplorasi dan belum menyebut nilai kontrak, target volume proyek, atau skema pembagian pendapatan. Pemegang saham perlu mencermati apakah penjajakan dengan CRRC Qiqihar ini berlanjut menjadi kontrak definitif, termasuk kejelasan soal keterlibatan PT Kereta Api Indonesia sebagai calon pengguna sarana, sebab dokumen ini belum mencantumkan tenggat atau jadwal kapan kerja sama itu harus terwujud menjadi proyek konkret.",
+  "sentimen": "netral",
+  "imageV": "msu5yt4m"
  },
  {
   "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",

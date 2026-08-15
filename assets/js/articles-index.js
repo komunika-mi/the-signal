@@ -10,7 +10,8 @@ var ARTICLES = [
   "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",
   "deck": "Kemendag menaikkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 15-31 Agustus 2026, mengikuti kenaikan harga emas di pasar global.",
   "date": "15 Agustus 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/patokan-harga-ekspor-emas-naik-0-65-per-15-agustus.jpg",
+  "imageV": "msu5ueo8",
   "tags": [
    "emas",
    "HPE",
@@ -715,6 +716,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300"
+ },
+ {
+  "slug": "ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PTSP Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PTSP menjawab permintaan BEI soal gejolak sahamnya: tak ada info material baru dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya.jpg",
+  "imageV": "msu5v123",
+  "tags": [
+   "PTSP",
+   "Pioneerindo Gourmet International",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9f3e2d0a7_19ae4d1e40.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
@@ -1488,6 +1506,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459691-mendorong-ekonomi-akar-rumput-bunga-pnm-mekaar-delapan-persen"
  },
  {
+  "slug": "wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham WEGE, dan perseroan menyatakan tidak ada informasi atau fakta material yang melatarbelakanginya.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham.jpg",
+  "imageV": "msu5vnhl",
+  "tags": [
+   "WEGE",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3864aa8aa5_3f8483ad42.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
   "category": "Bisnis",
   "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
@@ -1503,6 +1538,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri",
+  "category": "Aksi Korporasi",
+  "title": "PTSN Teken Kredit Baru [USD25 Juta] dari Bank Mandiri",
+  "deck": "Sat Nusapersada mengantongi kredit investasi dan tambahan limit modal kerja senilai total USD 25 juta dari Bank Mandiri untuk mendanai proyek baru.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri.jpg",
+  "imageV": "msu5waoh",
+  "tags": [
+   "PTSN",
+   "Sat Nusapersada",
+   "Bank Mandiri",
+   "kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1341f7a9e6_56426e6782.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Akui Ada [Risiko] Telat Bayar Bunga Obligasi Rp182 M",
+  "deck": "Adhi Karya mengaku ada risiko gagal membayar bunga obligasi setelah RUPO menolak proposal restrukturisasi, dan menyiapkan RUPO lanjutan pada 11 September 2026.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m.jpg",
+  "imageV": "msu5x23s",
+  "tags": [
+   "ADHI",
+   "obligasi korporasi",
+   "RUPO",
+   "risiko gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4eae049f88_40cd77f61c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
@@ -1522,6 +1591,57 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459666-buruh-bakal-umumkan-parpol-yang-serius-dan-tidak-serius-bahas-ruu-ketenagakerjaan"
  },
  {
+  "slug": "suli-beri-penjelasan-usai-saham-melonjak-27-78-persen",
+  "category": "Aksi Korporasi",
+  "title": "SULI Beri Penjelasan usai Saham [Melonjak] 27,78 Persen",
+  "deck": "SLJ Global (SULI) menyebut lonjakan harga dan volume sahamnya ke BEI tidak dipicu informasi material, sementara rencana konversi utang menjadi saham masih tertunda menunggu pembahasan dengan OJK.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/suli-beri-penjelasan-usai-saham-melonjak-27-78-persen.jpg",
+  "imageV": "msu5xhyt",
+  "tags": [
+   "SULI",
+   "BEI",
+   "volatilitas saham",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0d2831377e_a35a21a534.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Klarifikasi [Volatilitas] Transaksi Saham ke BEI",
+  "deck": "Menjawab permintaan BEI, manajemen Yanaprima Hastapersada menyatakan tidak ada informasi material maupun rencana korporasi di balik pergerakan harga sahamnya.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei.jpg",
+  "imageV": "msu5xum3",
+  "tags": [
+   "YPAS",
+   "Yanaprima Hastapersada",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/636aaa8c36_05d15e622b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wapo-jawab-permintaan-bursa-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "WAPO Jawab Permintaan Bursa soal [Volatilitas] Saham",
+  "deck": "WAPO menjawab surat Bursa Efek Indonesia soal volatilitas sahamnya, dan menyatakan tidak mengetahui ada informasi atau rencana aksi korporasi material di baliknya.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/wapo-jawab-permintaan-bursa-soal-volatilitas-saham.jpg",
+  "imageV": "msu5ygg5",
+  "tags": [
+   "WAPO",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6e39b321a7_0ab7ccc046.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kur-bri-tembus-rp103-81-triliun-hingga-juni-2026",
   "category": "UMKM",
   "title": "KUR BRI Tembus [Rp103,81 Triliun] hingga Juni 2026",
@@ -1537,6 +1657,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459639-dukung-agenda-pemberdayaan-ekonomi-danantara-penyaluran-kur-bri-hingga-akhir-juni-2026-capai-rp10381-triliun"
+ },
+ {
+  "slug": "lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar",
+  "category": "Aksi Korporasi",
+  "title": "LOPI Teken Kerja Sama [Eksplorasi] Sarana Kereta dengan CRRC Qiqihar",
+  "deck": "LOPI menandatangani nota kerja sama eksplorasi dengan produsen kereta api asal China, CRRC Qiqihar, untuk pengembangan sarana perkeretaapian di Indonesia, termasuk potensi kerja sama dengan KAI.",
+  "date": "13 Agustus 2026",
+  "image": "assets/img/lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar.jpg",
+  "imageV": "msu5yt4m",
+  "tags": [
+   "LOPI",
+   "CRRC Qiqihar",
+   "perkeretaapian",
+   "kerja sama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99ac98fee0_0d2be2b5ef.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",

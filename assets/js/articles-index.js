@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "patokan-harga-ekspor-emas-naik-0-65-per-15-agustus",
+  "category": "Industri",
+  "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",
+  "deck": "Kemendag menaikkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 15-31 Agustus 2026, mengikuti kenaikan harga emas di pasar global.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "emas",
+   "HPE",
+   "bea keluar",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh",
+  "category": "UMKM",
+  "title": "PNM Dampingi [268 Ribu] Nasabah UMKM Perempuan di Aceh",
+  "deck": "PNM dan OJK memperkuat pendampingan literasi keuangan dan legalitas usaha bagi perempuan pelaku usaha ultra mikro di Aceh, tidak hanya menyalurkan modal.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh.jpg",
+  "imageV": "msu27si9",
+  "tags": [
+   "PNM",
+   "OJK",
+   "UMKM Aceh",
+   "Mekaar Syariah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460065-sinergi-pnm-dan-ojk-perkuat-bekal-umkm-perempuan-aceh-untuk-naik-kelas"
+ },
+ {
   "slug": "warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan",
   "category": "UMKM",
   "title": "Warga Koja Ubah [Sampah] Jadi Sekolah dan Penghasilan",

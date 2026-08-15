@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "patokan-harga-ekspor-emas-naik-0-65-per-15-agustus",
+  "category": "Industri",
+  "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",
+  "deck": "Kemendag menaikkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 15-31 Agustus 2026, mengikuti kenaikan harga emas di pasar global.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T07:29:13.357Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "emas",
+   "HPE",
+   "bea keluar",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan menaikkan Harga Patokan Ekspor (HPE) dan Harga Referensi (HR) emas untuk periode kedua Agustus 2026, yang berlaku mulai 15 hingga 31 Agustus. Kenaikan ini penting bagi pelaku usaha tambang dan eksportir emas karena HPE menjadi dasar perhitungan bea keluar, semacam pajak yang dikenakan pemerintah setiap kali emas batangan dikirim ke luar negeri.",
+   "HPE emas ditetapkan naik 0,65 persen, dari USD130.921,50 per kilogram pada periode pertama Agustus menjadi USD131.777,67 per kilogram pada periode kedua. Harga Referensi emas turut naik dengan persentase yang sama, dari USD4.072,12 menjadi USD4.098,75 per troy ounce, satuan berat yang lazim dipakai untuk logam mulia. Ketentuan ini tertuang dalam Keputusan Menteri Perdagangan Nomor 1716 Tahun 2026.",
+   "Menurut Direktur Jenderal Perdagangan Luar Negeri Kemendag, Tommy Andana, kenaikan ini dipicu oleh penurunan suku bunga acuan di berbagai negara, yang membuat imbal hasil dari instrumen seperti deposito menjadi kurang menarik sehingga mendorong investor mengalihkan dananya ke emas. Ia menambahkan, pergeseran minat investor itu meningkatkan permintaan emas di pasar global, sementara pasokannya relatif terbatas. Pelemahan nilai tukar mata uang utama dunia serta turunnya imbal hasil obligasi internasional disebut sebagai faktor pendukung lainnya.",
+   "HPE dan HR emas ditetapkan berdasarkan data dan masukan teknis dari Kementerian ESDM yang mengacu pada publikasi London Bullion Market Association (LBMA), lembaga acuan harga emas global. Menurut Kemendag, angka tersebut disusun melalui koordinasi dengan Kementerian Koordinator Bidang Perekonomian, Kementerian ESDM, Kementerian Keuangan, dan Kementerian Perindustrian."
+  ],
+  "fotoAdegan": "Workers weighing stacked gold bars on an industrial scale inside a metal refinery, bright overhead lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "HPE ini bukan kebijakan baru, melainkan penyesuaian rutin dua kali sebulan yang mengikuti harga emas dunia, jadi kenaikan 0,65 persen kali ini pada dasarnya cerminan harga pasar internasional. Yang terdampak langsung adalah perusahaan tambang dan eksportir emas, karena HPE dipakai sebagai dasar hitung bea keluar, semacam pajak ekspor yang mereka bayar setiap mengirim emas ke luar negeri. Semakin tinggi HPE, semakin besar pula nilai yang jadi dasar perhitungan pajak itu per kilogram emas yang diekspor. Arah HPE ke depan akan terus mengikuti tren harga emas dunia, yang menurut Kemendag saat ini masih didorong ekspektasi penurunan suku bunga global. Penetapan periode pertama September 2026 nanti akan menunjukkan apakah tren kenaikan ini berlanjut atau mulai mendatar."
+ },
+ {
+  "slug": "pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh",
+  "category": "UMKM",
+  "title": "PNM Dampingi [268 Ribu] Nasabah UMKM Perempuan di Aceh",
+  "deck": "PNM dan OJK memperkuat pendampingan literasi keuangan dan legalitas usaha bagi perempuan pelaku usaha ultra mikro di Aceh, tidak hanya menyalurkan modal.",
+  "image": "assets/img/pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T13:06:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460065-sinergi-pnm-dan-ojk-perkuat-bekal-umkm-perempuan-aceh-untuk-naik-kelas",
+  "tags": [
+   "PNM",
+   "OJK",
+   "UMKM Aceh",
+   "Mekaar Syariah"
+  ],
+  "body": [
+   "Bagi pelaku usaha ultra mikro, modal saja tidak cukup untuk membuat usaha bertahan dan berkembang. Kemampuan mengatur keuangan, memahami risiko, mengurus izin usaha, hingga membaca peluang pasar menjadi bekal yang sama pentingnya, dan inilah yang menjadi perhatian PT Permodalan Nasional Madani (PNM) bersama Otoritas Jasa Keuangan (OJK) dalam mendampingi perempuan pengusaha ultra mikro di Aceh.",
+   "Direktur Operasional dan Hubungan Kelembagaan PNM, Lalu Dodot Patria Ary, mengatakan pembiayaan yang diberikan perlu berjalan beriringan dengan literasi keuangan yang tepat, termasuk literasi keuangan syariah yang menurutnya relevan dengan karakter masyarakat Aceh. Pendekatan ini membuat nasabah tidak hanya menerima dana, tapi juga pengetahuan untuk mengelola dan membesarkan usahanya.",
+   "Sampai 31 Juli 2026, tercatat 268.231 nasabah program PNM Mekaar di Aceh yang tergabung dalam 19.628 kelompok, didampingi 1.300 pendamping yang tersebar di 77 unit di seluruh provinsi. Sebanyak 56.714 nasabah telah dibantu mengurus Nomor Induk Berusaha, sebagian lain sudah mengantongi sertifikat halal, dan PNM juga memberikan beasiswa kepada 104 anak nasabah sebagai bagian dari dukungan bagi keluarga mereka.",
+   "Salah satu contohnya adalah Nur Asma, pemilik usaha Keripik Pisang Kak Nur di Aceh. Sebagai orang tua tunggal dengan tiga anak, ia merintis usahanya sejak 2016 dan bergabung sebagai nasabah PNM Mekaar Syariah pada 2024. Usahanya kini berada di grade A dengan plafon pembiayaan Rp6 juta, dan sudah memiliki NIB serta sertifikat halal berkat pendampingan PNM."
+  ],
+  "fotoAdegan": "A woman frying banana chips in a small home kitchen, baskets of packaged snacks stacked on a wooden table nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a8000877282c-pt-permodalan-nasional-madani-persero-atau-pnm-dan-otoritas-jasa-keuangan-ojk-dalam-mendampingi-perempuan-pengusaha-ultra-mikro-di-aceh_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar jumlah nasabah, melainkan arah pendampingannya, dari sebatas pinjaman modal bergeser ke bantuan legalitas usaha seperti Nomor Induk Berusaha dan sertifikat halal. Dari 268.231 nasabah PNM Mekaar di Aceh, baru 56.714 orang atau sekitar seperlima yang sudah mengantongi NIB, jadi urusan legalitas usaha ultra mikro ini masih di tahap awal. Yang terdampak jelas perempuan pelaku usaha kecil di Aceh, termasuk yang menjalankan usaha berbasis syariah sesuai konteks daerah tersebut. Arahnya tampak menuju penguatan usaha ultra mikro secara bertahap lewat kombinasi modal, literasi, dan legalitas, bukan cuma penyaluran dana semata. Yang akan menunjukkan apakah pendekatan ini benar-benar mengubah skala usaha nasabah adalah data berapa banyak yang naik grade pembiayaan seperti Nur Asma, dan apakah proporsi nasabah ber-NIB bertambah pada laporan periode berikutnya.",
+  "imageV": "msu27si9"
+ },
+ {
   "slug": "warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan",
   "category": "UMKM",
   "title": "Warga Koja Ubah [Sampah] Jadi Sekolah dan Penghasilan",

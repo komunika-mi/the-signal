@@ -384,8 +384,8 @@ const FOOT = `
           </a>
           <a class="btn-bot" href="https://t.me/thesignal_id_bot" target="_blank" rel="noopener">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 9 9 0 0 1-3.9-.8L3 20.5l1.4-4.1A8.3 8.3 0 0 1 3.6 12a8.4 8.4 0 0 1 8.4-8.4 8.4 8.4 0 0 1 9 7.9z"/><path d="M9.6 9.4a2.4 2.4 0 0 1 4.7.7c0 1.6-2.4 2.4-2.4 2.4"/><path d="M12 16.2h.01"/></svg>
-            Tanya ke bot
-          </a>
+            Tanya ke The Signal
+</a>
         </div>
       </div>
       <div class="footer-col">

@@ -727,6 +727,114 @@ var ARTICLES = [
   "imageV": "mstx80cl"
  },
  {
+  "slug": "wika-panggil-rupsu-sukuk-mudharabah-ii-2021",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil [RUPSU] Sukuk Mudharabah II 2021",
+  "deck": "WIKA akan menggelar RUPSU untuk Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 17 September 2026, panggilan resmi terbit 2 September 2026.",
+  "image": "assets/img/wika-panggil-rupsu-sukuk-mudharabah-ii-2021.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:13:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/228b181190_f8f1eb085d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "obligasi syariah"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) melalui Corporate Secretary Mahendra Vijaya mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Sukuk (RUPSU) untuk seri Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021. Rapat dijadwalkan berlangsung Kamis, 17 September 2026, pukul 14.00 WIB, bertempat di WIKA Tower 2, Jakarta. Agenda spesifik yang akan dibahas belum dicantumkan dalam pengumuman ini, kolomnya masih kosong.",
+   "PT Bank Mega Tbk bertindak sebagai wali amanat, yaitu pihak yang mewakili kepentingan seluruh pemegang sukuk dalam berhubungan dengan WIKA, berdasarkan Perjanjian Perwaliamanatan Akta Nomor 14 tanggal 8 Februari 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H., beserta perubahan-perubahannya. Sesuai Peraturan Otoritas Jasa Keuangan Nomor 20/POJK.04/2020 tentang Kontrak Perwaliamanatan Efek Bersifat Utang dan/atau Sukuk, panggilan resmi RUPSU yang memuat agenda lengkap wajib dimuat di satu surat kabar harian berperedaran nasional pada Rabu, 2 September 2026.",
+   "Dengan kata lain, pengumuman yang terbit 14 Agustus 2026 ini baru tahap pemberitahuan awal jadwal dan tempat. Rincian materi yang akan diputuskan dalam RUPSU, termasuk apakah menyangkut perubahan syarat sukuk atau hal lain, baru akan terbuka lewat panggilan resmi di surat kabar dua pekan sebelum rapat berlangsung."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's business district, viewed from street level at dusk",
+  "takeaway": "Laporan ini netral bagi WIKA, karena pengumuman baru berisi jadwal dan pihak penyelenggara RUPSU tanpa merinci agenda yang akan dibahas, sehingga belum ada dampak keuangan yang bisa dipastikan dari dokumen ini. Yang bersentuhan adalah arus kas dan beban bagi hasil WIKA, sebab sukuk mudharabah adalah surat utang berbasis syariah yang mewajibkan perusahaan membayar bagi hasil berkala kepada pemegangnya, dan RUPSU adalah forum bagi pemegang sukuk untuk menyetujui atau menolak perubahan atas syarat sukuk itu, misalnya jadwal pembayaran, sehingga hasilnya berpotensi mengubah kewajiban WIKA ke depan. Yang perlu dipantau adalah panggilan resmi RUPSU yang akan dimuat di surat kabar nasional pada 2 September 2026, sebab di situlah agenda sebenarnya baru akan terungkap, disusul pelaksanaan RUPSU sendiri pada 17 September 2026 pukul 14.00 WIB di WIKA Tower 2.",
+  "sentimen": "netral",
+  "imageV": "msu1ddez"
+ },
+ {
+  "slug": "acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja",
+  "category": "Aksi Korporasi",
+  "title": "ACST Hadapi Gugatan [PKPU] dari Rekanan Proyek Baja",
+  "deck": "ACST menjelaskan ke bursa soal permohonan PKPU dari subkontraktor IST terkait sengketa nilai retensi proyek struktur baja, serta perkembangan kasus korupsi yang telah berkekuatan hukum tetap.",
+  "image": "assets/img/acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:08:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f32704534c_313dcbc4f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACST",
+  "tags": [
+   "ACST",
+   "PKPU",
+   "sengketa hukum",
+   "konstruksi"
+  ],
+  "body": [
+   "PT Acset Indonusa Tbk (ACST) menjawab permintaan penjelasan Bursa Efek Indonesia terkait perkara Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan terhadap perusahaan. Perseroan mengonfirmasi menerima panggilan sidang dari Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat pada 2 Agustus 2026, dengan nomor perkara 236/Pdt.Sus/PKPU/2026/PN.Niaga.Jkt.Pst. Pemohon PKPU adalah PT Intan Sarana Teknik (IST), yang berperan sebagai subkontraktor pekerjaan struktur baja pada salah satu proyek ACST, sementara ACST bertindak sebagai kontraktor utama.",
+   "Menurut penjelasan ACST, pangkal sengketa adalah perbedaan perhitungan nilai retensi, yaitu dana yang biasanya ditahan kontraktor dari pembayaran subkontraktor sebagai jaminan kualitas pekerjaan, antara yang diajukan IST dan versi hitungan Perseroan. ACST menyebut proses persidangan masih berjalan dan menyatakan sampai saat ini belum ada dampak material terhadap kondisi keuangan maupun operasional perusahaan, tanpa merinci nilai rupiah dari sengketa retensi tersebut. Perseroan juga berpendapat perkara ini bukan informasi material yang memengaruhi harga saham atau keputusan investor, sehingga tidak mengeluarkan keterbukaan informasi terpisah untuk kasus ini sesuai Peraturan Bursa Nomor I-E.",
+   "Selain soal PKPU, Bursa juga meminta ACST melaporkan perkembangan perkara pidana korupsi yang sebelumnya diungkapkan lewat surat tertanggal 23 Juni 2026. ACST menyatakan putusan Pengadilan Tindak Pidana Korupsi pada Pengadilan Negeri Jakarta Pusat atas perkara tersebut telah berkekuatan hukum tetap sejak 26 Juni 2026, tanpa menjelaskan isi putusan atau pihak yang terlibat. Perseroan menambahkan bahwa selain dua perkara ini, tidak ada perkara hukum lain yang melibatkan Perseroan, entitas anak, atau manajemen yang berdampak material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Steel structural beams being welded at a high-rise construction site, workers in safety harnesses, overcast Jakarta sky",
+  "takeaway": "Laporan ini condong negatif bagi ACST karena permohonan PKPU dari rekanan proyek menunjukkan sengketa pembayaran yang belum selesai dan sudah masuk jalur pengadilan niaga, sekalipun perusahaan menyebutnya belum berdampak material. Pos yang tersentuh adalah arus kas dan kewajiban utang perusahaan, arus kas adalah uang tunai yang keluar masuk untuk membayar kewajiban sehari-hari, dan PKPU sendiri adalah proses hukum ketika kreditor menilai debitur macet membayar utang, sehingga kalau permohonan ini dikabulkan pengadilan, ACST bisa dipaksa merestrukturisasi kewajibannya ke IST. Dokumen tidak menyebut nilai rupiah dari sengketa retensi ini, sehingga besar kecilnya dampak keuangan belum bisa diukur dari sisi publik. Yang perlu dipantau selanjutnya adalah putusan Pengadilan Niaga Jakarta Pusat atas permohonan PKPU tersebut, karena hasil sidang inilah yang akan menentukan apakah sengketa berakhir damai atau berlanjut ke proses restrukturisasi utang formal.",
+  "sentimen": "negatif",
+  "imageV": "msu1dy7q"
+ },
+ {
+  "slug": "tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Tetap di [Pemantauan Khusus], Satu Kriteria Dicabut",
+  "deck": "Bursa mengubah status pemantauan khusus TGUK: kriteria suspensi dicabut, tapi likuiditas rendah dan kriteria lain masih berlaku mulai 18 Agustus 2026.",
+  "image": "assets/img/tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:06:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5931636943_0a8ee6bc60.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TGUK",
+   "Bursa Efek Indonesia",
+   "Papan Pemantauan Khusus",
+   "likuiditas saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan pengumuman resmi bernomor Peng-UK-00038/BEI.PLP/08-2026 pada 14 Agustus 2026 mengenai perubahan status saham TGUK, PT Platinum Wahab Nusantara Tbk, di Papan Pemantauan Khusus. Perubahan ini berlaku efektif mulai 18 Agustus 2026.",
+   "Berdasarkan pengumuman itu, TGUK masih dikenai dua kriteria pemantauan khusus, yaitu kriteria nomor 7 dan 11. Kriteria 7 berarti likuiditas sahamnya rendah, dengan nilai transaksi harian di bawah Rp5 juta dan volume transaksi harian di bawah 10.000 lembar selama tiga bulan terakhir di Pasar Reguler. Kriteria 11 adalah kondisi tambahan yang ditetapkan Bursa setelah mendapat persetujuan atau perintah dari Otoritas Jasa Keuangan.",
+   "Di sisi lain, kriteria nomor 10, yaitu status pengenaan penghentian sementara perdagangan saham selama lebih dari satu hari bursa akibat aktivitas perdagangan, resmi dicabut dari daftar kriteria yang melekat pada TGUK. Bursa tidak merinci alasan pencabutan itu dalam dokumen ini selain menyatakan status efektif per 18 Agustus 2026."
+  ],
+  "fotoAdegan": "Empty brokerage trading floor in Jakarta with rows of dimmed computer monitors and vacant chairs, soft afternoon light through windows",
+  "takeaway": "Perubahan ini netral bagi TGUK: kriteria penghentian perdagangan akibat aktivitas transaksi resmi dicabut, tapi sahamnya tetap tertahan di Papan Pemantauan Khusus karena dua kriteria lain, yakni likuiditas rendah dan syarat tambahan dari Bursa, masih berlaku. Yang tersentuh di sini adalah likuiditas perdagangan, bukan kinerja keuangan perusahaan. Nilai transaksi harian saham TGUK masih di bawah Rp5 juta dan volumenya di bawah 10.000 lembar selama tiga bulan terakhir, artinya pemegang saham akan kesulitan menjual dalam jumlah besar tanpa menggerakkan harga secara signifikan, dan selama berstatus pemantauan khusus transaksinya berjalan lewat mekanisme lelang berkala, bukan perdagangan reguler biasa. Yang perlu dipantau berikutnya adalah apakah nilai dan volume transaksi harian TGUK naik melewati ambang batas itu pada evaluasi Bursa setelah 18 Agustus 2026, karena itu yang menentukan kapan saham ini bisa keluar dari papan pemantauan khusus.",
+  "sentimen": "netral",
+  "imageV": "msu1eif4"
+ },
+ {
+  "slug": "alka-resmi-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA Resmi [Keluar] dari Pemantauan Khusus BEI",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham ALKA milik Alakasa Industrindo Tbk, efektif 18 Agustus 2026.",
+  "image": "assets/img/alka-resmi-keluar-dari-pemantauan-khusus-bei.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:05:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c43455bb09_7405b30315.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "ALKA",
+   "Alakasa Industrindo",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi mencabut status Pemantauan Khusus atas saham berkode ALKA milik Alakasa Industrindo Tbk. Pengumuman bernomor Peng-CK-00065/BEI.PLP/08-2026 ini diterbitkan pada 14 Agustus 2026 pukul 17.05 WIB, ditandatangani oleh Kadiv Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar. Perubahan status ini mulai berlaku efektif pada 18 Agustus 2026.",
+   "Dengan pencabutan ini, papan pencatatan saham ALKA berubah dari Pemantauan Khusus kembali ke Papan Pengembangan. Dalam dokumen tersebut, status keluar ALKA tercatat dikaitkan dengan kriteria nomor 10 dari sebelas kriteria pemantauan khusus BEI, yaitu saham yang sebelumnya sempat dikenakan penghentian sementara perdagangan (suspensi) selama lebih dari satu hari bursa akibat aktivitas perdagangan. Sepuluh kriteria lain dalam daftar itu bersifat umum dan berlaku untuk seluruh saham yang berpotensi masuk pemantauan khusus, mencakup antara lain harga saham di bawah Rp51, likuiditas rendah, opini disclaimer dari auditor, hingga ekuitas negatif.",
+   "BEI menyebutkan pengumuman lengkap serta daftar terbaru saham dalam pemantauan khusus dapat diakses melalui laman resmi bursa dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower in Jakarta's central business district at sunrise, distant angle, no readable signage.",
+  "takeaway": "Kabar ini condong positif bagi Alakasa Industrindo karena keluarnya saham ALKA dari papan pemantauan khusus menandakan bursa menilai kondisi transaksi sahamnya sudah kembali normal setelah sempat disuspensi. Status pemantauan khusus selama ini biasanya membuat sejumlah investor institusi enggan bertransaksi karena dianggap berisiko tinggi, sehingga likuiditas, yaitu seberapa mudah saham itu diperjualbelikan di pasar, cenderung tertekan, dan pencabutan status ini berpotensi membuka jalan bagi transaksi yang lebih ramai di pasar reguler. Yang perlu dipantau berikutnya adalah performa perdagangan ALKA begitu papan pencatatannya efektif kembali menjadi Papan Pengembangan pada 18 Agustus 2026, termasuk apakah saham ini bisa menjaga harga, nilai, dan volume transaksi hariannya tetap di atas ambang batas yang selama ini menjadi salah satu syarat masuk pemantauan khusus.",
+  "sentimen": "positif",
+  "imageV": "msu1f4xd"
+ },
+ {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
   "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
@@ -752,6 +860,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Presiden Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
   "imageV": "mssvvpxm"
+ },
+ {
+  "slug": "jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Pakai Rp497,82 Miliar Dana Obligasi buat [Lunasi] Term Loan",
+  "deck": "JAPFA Comfeed pakai seluruh dana bersih obligasi Rp497,82 miliar untuk melunasi sebagian utang Term Loan lebih cepat, sesuai rencana prospektus.",
+  "image": "assets/img/jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:03:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/19b7ae6cbc_1afe4820df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "obligasi korporasi",
+   "refinancing utang",
+   "japfa comfeed"
+  ],
+  "body": [
+   "PT Japfa Comfeed Indonesia Tbk (JPFA) menyampaikan laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan III Japfa Tahap I Tahun 2026 kepada OJK dan Bursa Efek Indonesia. Obligasi ini efektif sejak 29 Juni 2026 dengan total dana yang dihimpun Rp500 miliar. Setelah dikurangi biaya penawaran umum sebesar Rp2,18 miliar, hasil bersih yang diterima perseroan adalah Rp497,82 miliar.",
+   "Seluruh dana bersih tersebut, atau 100 persen, digunakan untuk pembayaran dipercepat atas sebagian pokok utang fasilitas kredit Term Loan milik perseroan. Berdasarkan laporan realisasi per 31 Juli 2026, penggunaan dana ini sudah sesuai persis dengan rencana yang tertulis di prospektus, tanpa penyimpangan nilai maupun persentase. Sisa dana yang belum terpakai tercatat nol, artinya tidak ada dana mengendap yang perlu ditempatkan di instrumen lain.",
+   "Dari sisi biaya penawaran umum, rinciannya terdiri dari biaya jasa penyelenggaraan (management fee) Rp1,4 miliar atau 0,28 persen, biaya jasa penjaminan (underwriting fee) Rp300 juta atau 0,06 persen, biaya jasa penjualan (selling fee) Rp300 juta atau 0,06 persen, ditambah PPN Rp220 juta dan PPh Rp40 juta, sehingga total biaya mencapai Rp2,18 miliar atau 0,44 persen dari nilai emisi. Laporan ditandatangani oleh Maya Pradjono selaku Corporate Secretary JPFA, dengan tembusan kepada PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk selaku wali amanat obligasi ini."
+  ],
+  "fotoAdegan": "Workers inspecting rows of feed silos and grain trucks at a large animal feed mill in Indonesia, daylight, industrial setting",
+  "takeaway": "Laporan ini netral bagi JPFA karena isinya hanya konfirmasi bahwa seluruh dana obligasi sudah dipakai persis sesuai rencana di prospektus, tanpa penyimpangan atau kejutan baru bagi pemegang saham. Yang tersentuh adalah struktur utang perusahaan, sebagian utang bank jangka panjang berupa Term Loan diganti dengan obligasi senilai Rp497,82 miliar, sehingga pos beban bunga di laporan keuangan berikutnya bisa berubah tergantung selisih bunga antara obligasi dan Term Loan yang dilunasi, meski dokumen ini sendiri tidak menyebutkan angka bunganya. Karena seluruh dana sudah terpakai 100 persen dan sisa dana tercatat nol per 31 Juli 2026, kewajiban pelaporan penggunaan dana untuk emisi obligasi ini praktis selesai. Yang perlu dipantau selanjutnya adalah laporan keuangan JPFA periode berikutnya untuk melihat dampak nyata pergantian utang ini terhadap beban bunga dan struktur pendanaan perseroan.",
+  "sentimen": "netral",
+  "imageV": "msu1ftxf"
  },
  {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
@@ -781,6 +916,61 @@ var ARTICLES = [
   "imageV": "msss9bch"
  },
  {
+  "slug": "mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MKTR Respons Permintaan Bursa soal [Volatilitas] Sahamnya",
+  "deck": "MKTR menegaskan tak ada informasi material di balik pergerakan sahamnya yang tak wajar, dan pemegang saham utama belum berencana mengubah kepemilikan 8,27 juta sahamnya.",
+  "image": "assets/img/mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:36:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3dc321d614_aaa48f9f25.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKTR",
+  "tags": [
+   "MKTR",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Menthobi Karyatama Raya Tbk (MKTR) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, sebagaimana diminta lewat surat BEI nomor S-10595/BEI.PP1/08-2026. Dalam surat balasan bernomor 40/MKTR-IDX/VIII/2026 tertanggal 14 Agustus 2026, Corporate Secretary MKTR Ilhamd Fithriansyah menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan I-E BEI.",
+   "Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK 4/2024, tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan saham di bursa, dan tidak ada fakta penting lain yang belum diungkap ke publik.",
+   "Untuk poin kepemilikan pemegang saham utama, dokumen melampirkan korespondensi email tertanggal 14 Agustus 2026 antara Corporate Secretary MKTR dan Fuad Hasan Masyhur. Dalam email itu, perseroan menyebut Fuad sebagai pemegang saham utama dengan 8.276.210 lembar saham MKTR dan menanyakan rencana penambahan atau pengurangan kepemilikannya dalam tiga bulan mendatang. Fuad membalas bahwa ia tidak memiliki rencana menaikkan maupun menurunkan kepemilikan sahamnya di MKTR selama periode tersebut."
+  ],
+  "fotoAdegan": "Wide shot of the Indonesia Stock Exchange building facade with an Indonesian flag waving, pedestrians crossing in the foreground, midday light",
+  "takeaway": "Laporan ini netral bagi emiten, karena isinya konfirmasi standar bahwa tidak ada kabar penting yang disembunyikan, bukan kabar baru yang mengubah kondisi keuangan perusahaan. Surat semacam ini muncul ketika bursa melihat saham bergerak tidak wajar dibanding pola perdagangan biasanya, sehingga balasan MKTR sebenarnya memastikan bahwa pergerakan harga itu bukan dipicu rencana korporasi atau langkah pemegang saham dalam waktu dekat. Pemegang saham utama, Fuad Hasan Masyhur, yang menggenggam 8.276.210 lembar saham MKTR, memastikan tidak berencana menambah atau mengurangi kepemilikannya, sehingga struktur pemegang saham dan hak suara di perusahaan diperkirakan tetap sama untuk sementara. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham MKTR mereda dalam beberapa hari ke depan, dan apakah pernyataan tidak ada rencana tindakan korporasi maupun perubahan kepemilikan ini tetap berlaku hingga sekitar pertengahan November 2026, batas tiga bulan yang disebut dalam surat ini.",
+  "sentimen": "netral",
+  "imageV": "msu1gbg2"
+ },
+ {
+  "slug": "ikbi-public-expose-laba-naik-44-penjualan-turun-12",
+  "category": "Aksi Korporasi",
+  "title": "IKBI Public Expose: [Laba] Naik 44%, Penjualan Turun 12%",
+  "deck": "Materi Public Expose IKBI: laba bersih FY2025 naik 44% jadi US$8,27 juta meski penjualan turun 12%, utang turun tajam, target penjualan FY2026 US$266 juta.",
+  "image": "assets/img/ikbi-public-expose-laba-naik-44-penjualan-turun-12.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:31:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dcea83d5a_a098f75c2d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKBI",
+  "tags": [
+   "IKBI",
+   "Sumi Indo Kabel",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Sumi Indo Kabel Tbk (IKBI) menyampaikan materi Public Expose Tahunan 2026 yang akan digelar 21 Agustus 2026 pukul 09.00 WIB di pabrik perseroan, Jalan Gatot Subroto Km 7,8, Pasir Jaya, Jatiuwung, Tangerang. Dalam materi itu, perseroan memaparkan bahwa penjualan neto tahun buku 2025 (periode April 2024 hingga Maret 2025) turun menjadi US$230,50 juta, dari US$262,33 juta pada tahun buku sebelumnya. Meski begitu, laba bruto naik dari US$16,44 juta menjadi US$19,08 juta, laba sebelum pajak naik dari US$7,28 juta menjadi US$10,55 juta, dan laba tahun berjalan naik dari US$5,72 juta menjadi US$8,27 juta. Laba per saham dasar ikut naik dari US$0,0047 menjadi US$0,0068.",
+   "Dari sisi neraca per Maret 2025, total aset perseroan tercatat US$111,54 juta, turun dari US$123,75 juta setahun sebelumnya. Yang menonjol adalah penurunan liabilitas jangka pendek dari US$38,36 juta menjadi US$19,83 juta, sehingga total liabilitas turun dari US$44,25 juta menjadi US$25,34 juta. Sebaliknya, total ekuitas naik dari US$79,51 juta menjadi US$86,20 juta. Berdasarkan segmen produk, penjualan kabel listrik turun dari US$174,0 juta menjadi US$132,2 juta, sementara penjualan kabel otomotif, baterai, dan AVSS naik dari US$79,2 juta menjadi US$87,8 juta. Penjualan ekspor turun dari US$192,9 juta menjadi US$168,8 juta dan penjualan domestik turun dari US$69,4 juta menjadi US$61,7 juta.",
+   "Materi tersebut juga mencantumkan komposisi pemegang saham, yakni Sumitomo Electric Industries Ltd Jepang menguasai 91,46 persen saham IKBI dan sisanya 8,54 persen dimiliki publik. Susunan direksi dan komisaris periode 2026-2027 juga dipaparkan: Michio Uchino sebagai Komisaris Utama, Hidekazu Ikeda sebagai Komisaris, dan Cahyadi Wijaya sebagai Komisaris Independen, sementara jajaran direksi dipimpin Shinya Odajima sebagai Direktur Utama bersama Sulim Herman Limbono selaku Senior Managing Director, serta Satoshi Nishikawa dan Tadanori Sano sebagai Direktur.",
+   "Untuk tahun buku 2026, perseroan memasang target penjualan neto sebesar US$266 juta, dengan strategi fokus pada segmen bernilai tinggi, investasi peralatan produksi kabel, kemitraan dengan distributor, serta lindung nilai atas biaya bahan baku. Perseroan juga menyebut prospek kabel listrik dan jaringan tegangan menengah di Indonesia pada 2026 didorong oleh perluasan jaringan, integrasi energi terbarukan, dan modernisasi infrastruktur."
+  ],
+  "fotoAdegan": "Factory workers monitoring large spools of industrial power cable on a production line inside a cable manufacturing plant, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi IKBI, meski penjualan tahun berjalan turun 12 persen menjadi US$230,5 juta, laba bersih justru melonjak 44 persen menjadi US$8,27 juta dan total utang turun hampir separuh dari US$44,25 juta menjadi US$25,34 juta. Yang tersentuh di sini adalah margin laba dan permodalan: laba naik karena biaya lebih terkendali meski penjualan lebih kecil, sementara ekuitas atau modal sendiri perusahaan naik dari US$79,51 juta menjadi US$86,20 juta seiring pelunasan sebagian besar utang jangka pendek, yang membuat beban keuangan perusahaan lebih ringan. Laba per saham dasar, yakni porsi laba yang secara teoritis menjadi hak tiap lembar saham, juga naik dari US$0,0047 menjadi US$0,0068, angka yang biasa dipakai investor membandingkan kinerja antartahun. Yang perlu dipantau berikutnya adalah apakah target penjualan US$266 juta untuk tahun buku 2026 bisa tercapai, mengingat penjualan justru turun tahun ini, serta hasil sesi tanya jawab pada Public Expose yang dijadwalkan 21 Agustus 2026 pukul 09.00 WIB di pabrik Tangerang.",
+  "sentimen": "positif",
+  "imageV": "msu1gnvn"
+ },
+ {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
   "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
@@ -807,6 +997,33 @@ var ARTICLES = [
   "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Presiden Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
   "fotoDitolak": true,
   "imageV": "mstuubca"
+ },
+ {
+  "slug": "oils-jadwalkan-rupslb-22-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "OILS Jadwalkan RUPSLB [22 September] 2026",
+  "deck": "Indo Oil Perkasa (OILS) akan menggelar RUPSLB pada 22 September 2026. Pemegang saham yang tercatat per 28 Agustus berhak hadir, agenda baru diumumkan 31 Agustus.",
+  "image": "assets/img/oils-jadwalkan-rupslb-22-september-2026.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T16:25:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4667566d00_70fbbd7c46.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "RUPSLB",
+   "Indo Oil Perkasa",
+   "RUPS"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 22 September 2026 pukul 10.30 WIB, dilaksanakan lewat mekanisme elektronik (E-RUPS). Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Jumat, 28 Agustus 2026, saat penutupan jam perdagangan Bursa Efek Indonesia. Pengumuman ini diteken Direktur Utama Johan Widakdo Liem lewat surat nomor 016/SK/IOP/VIII/2026 tertanggal 14 Agustus 2026, merujuk pada surat sebelumnya nomor 010/SK/IOP/VIII/2026.",
+   "Mengacu pada Pasal 17 POJK Nomor 15/POJK.04/2020 tentang Rencana dan Pelaksanaan RUPS Terbuka, panggilan resmi rapat yang memuat agenda akan diterbitkan pada Senin, 31 Agustus 2026, lewat situs web PT Kustodian Sentral Efek Indonesia (KSEI), Bursa Efek Indonesia, dan situs Perseroan di www.indooilperkasa.com. Pemegang saham yang menguasai sedikitnya sepersepuluh dari total saham dengan hak suara sah berhak mengusulkan agenda rapat, dan usulan itu harus disampaikan ke Direksi Perseroan paling lambat Jumat, 28 Agustus 2026, bertepatan dengan tanggal pencatatan pemegang saham yang berhak hadir.",
+   "Perseroan berencana memakai fasilitas pemungutan suara elektronik (e-Proxy) dalam pelaksanaan RUPSLB ini sesuai ketentuan hukum yang berlaku. Dokumen pengumuman ini belum mencantumkan agenda spesifik rapat; rincian mekanisme kuasa, prosedur kehadiran, dan prosedur lainnya baru akan disampaikan Perseroan dalam surat pemanggilan resmi pada 31 Agustus 2026."
+  ],
+  "fotoAdegan": "Empty corporate meeting room with rows of chairs facing a blank wall, soft morning light through windows, no signage visible",
+  "takeaway": "Pengumuman ini netral bagi Perseroan karena baru memuat jadwal dan tata cara administratif rapat, belum agenda yang akan dibahas, sehingga belum ada dasar untuk menilai apakah RUPSLB ini menguntungkan atau merugikan pemegang saham. Tergantung agendanya nanti, RUPSLB semacam ini bisa menyentuh pos-pos penting seperti jumlah saham beredar atau struktur permodalan Perseroan, misalnya kalau agendanya soal penerbitan saham baru atau perubahan pengurus, dan itulah sebabnya pasar modal mewajibkan pengumuman rencana rapat lebih dulu. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi pada Senin, 31 Agustus 2026, karena di situlah agenda rapat sesungguhnya baru akan diungkapkan ke publik. Tenggat lain yang perlu dicatat pemegang saham besar adalah batas usul agenda pada Jumat, 28 Agustus 2026, yang jatuh di hari yang sama dengan tanggal pencatatan kepemilikan saham untuk berhak hadir di rapat.",
+  "sentimen": "netral",
+  "imageV": "msu1h7gv"
  },
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",

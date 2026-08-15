@@ -464,6 +464,74 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "wika-panggil-rupsu-sukuk-mudharabah-ii-2021",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil [RUPSU] Sukuk Mudharabah II 2021",
+  "deck": "WIKA akan menggelar RUPSU untuk Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 17 September 2026, panggilan resmi terbit 2 September 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/wika-panggil-rupsu-sukuk-mudharabah-ii-2021.jpg",
+  "imageV": "msu1ddez",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "obligasi syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/228b181190_f8f1eb085d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja",
+  "category": "Aksi Korporasi",
+  "title": "ACST Hadapi Gugatan [PKPU] dari Rekanan Proyek Baja",
+  "deck": "ACST menjelaskan ke bursa soal permohonan PKPU dari subkontraktor IST terkait sengketa nilai retensi proyek struktur baja, serta perkembangan kasus korupsi yang telah berkekuatan hukum tetap.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja.jpg",
+  "imageV": "msu1dy7q",
+  "tags": [
+   "ACST",
+   "PKPU",
+   "sengketa hukum",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f32704534c_313dcbc4f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Tetap di [Pemantauan Khusus], Satu Kriteria Dicabut",
+  "deck": "Bursa mengubah status pemantauan khusus TGUK: kriteria suspensi dicabut, tapi likuiditas rendah dan kriteria lain masih berlaku mulai 18 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut.jpg",
+  "imageV": "msu1eif4",
+  "tags": [
+   "TGUK",
+   "Bursa Efek Indonesia",
+   "Papan Pemantauan Khusus",
+   "likuiditas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5931636943_0a8ee6bc60.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alka-resmi-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA Resmi [Keluar] dari Pemantauan Khusus BEI",
+  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham ALKA milik Alakasa Industrindo Tbk, efektif 18 Agustus 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/alka-resmi-keluar-dari-pemantauan-khusus-bei.jpg",
+  "imageV": "msu1f4xd",
+  "tags": [
+   "ALKA",
+   "Alakasa Industrindo",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c43455bb09_7405b30315.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
   "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
@@ -479,6 +547,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459916-contoh-india-prabowo-buka-peluang-bandara-dan-aset-strategis-bumn-dikelola-swasta-tapi-kepemilikan-tetap-negara"
+ },
+ {
+  "slug": "jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan",
+  "category": "Aksi Korporasi",
+  "title": "JPFA Pakai Rp497,82 Miliar Dana Obligasi buat [Lunasi] Term Loan",
+  "deck": "JAPFA Comfeed pakai seluruh dana bersih obligasi Rp497,82 miliar untuk melunasi sebagian utang Term Loan lebih cepat, sesuai rencana prospektus.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan.jpg",
+  "imageV": "msu1ftxf",
+  "tags": [
+   "JPFA",
+   "obligasi korporasi",
+   "refinancing utang",
+   "japfa comfeed"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/19b7ae6cbc_1afe4820df.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
@@ -498,6 +583,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459913-di-tengah-tekanan-global-prabowo-beberkan-sinyal-kepercayaan-dunia-ke-ekonomi-indonesia"
  },
  {
+  "slug": "mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MKTR Respons Permintaan Bursa soal [Volatilitas] Sahamnya",
+  "deck": "MKTR menegaskan tak ada informasi material di balik pergerakan sahamnya yang tak wajar, dan pemegang saham utama belum berencana mengubah kepemilikan 8,27 juta sahamnya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya.jpg",
+  "imageV": "msu1gbg2",
+  "tags": [
+   "MKTR",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3dc321d614_aaa48f9f25.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikbi-public-expose-laba-naik-44-penjualan-turun-12",
+  "category": "Aksi Korporasi",
+  "title": "IKBI Public Expose: [Laba] Naik 44%, Penjualan Turun 12%",
+  "deck": "Materi Public Expose IKBI: laba bersih FY2025 naik 44% jadi US$8,27 juta meski penjualan turun 12%, utang turun tajam, target penjualan FY2026 US$266 juta.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/ikbi-public-expose-laba-naik-44-penjualan-turun-12.jpg",
+  "imageV": "msu1gnvn",
+  "tags": [
+   "IKBI",
+   "Sumi Indo Kabel",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dcea83d5a_a098f75c2d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
   "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
@@ -512,6 +631,23 @@ var ARTICLES = [
    "danantara"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459901-prabowo-bongkar-selisih-harga-cpo-di-bursa-rotterdam-ri-kehilangan-hampir-50-nilai-komoditas-sawit"
+ },
+ {
+  "slug": "oils-jadwalkan-rupslb-22-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "OILS Jadwalkan RUPSLB [22 September] 2026",
+  "deck": "Indo Oil Perkasa (OILS) akan menggelar RUPSLB pada 22 September 2026. Pemegang saham yang tercatat per 28 Agustus berhak hadir, agenda baru diumumkan 31 Agustus.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/oils-jadwalkan-rupslb-22-september-2026.jpg",
+  "imageV": "msu1h7gv",
+  "tags": [
+   "OILS",
+   "RUPSLB",
+   "Indo Oil Perkasa",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4667566d00_70fbbd7c46.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",

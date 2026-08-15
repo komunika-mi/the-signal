@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
+  "category": "Perbankan",
+  "title": "BRI Sabet [Dua] Penghargaan Bank Terbaik Asia 2026",
+  "deck": "BRI meraih dua penghargaan di Asian Banking & Finance Awards 2026 di Singapura, ditopang lonjakan pengguna platform korporasi digital QLola.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/bri-sabet-dua-penghargaan-bank-terbaik-asia-2026.jpg",
+  "imageV": "msuf1r6a",
+  "tags": [
+   "BRI",
+   "QLola",
+   "perbankan digital",
+   "penghargaan internasional"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460137-tuai-pengakuan-global-transformasi-bri-raih-dua-penghargaan-asian-banking-finance-awards-2026"
+ },
+ {
   "slug": "mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana",
   "category": "BUMN",
   "title": "Mensesneg: Amnesti Bos BUMN [Belum] Dibahas, Baru Wacana",

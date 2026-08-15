@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
+  "category": "Perbankan",
+  "title": "BRI Sabet [Dua] Penghargaan Bank Terbaik Asia 2026",
+  "deck": "BRI meraih dua penghargaan di Asian Banking & Finance Awards 2026 di Singapura, ditopang lonjakan pengguna platform korporasi digital QLola.",
+  "image": "assets/img/bri-sabet-dua-penghargaan-bank-terbaik-asia-2026.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T19:22:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460137-tuai-pengakuan-global-transformasi-bri-raih-dua-penghargaan-asian-banking-finance-awards-2026",
+  "tags": [
+   "BRI",
+   "QLola",
+   "perbankan digital",
+   "penghargaan internasional"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk meraih dua penghargaan sekaligus di ajang Asian Banking & Finance Awards 2026 di Singapura pada 2 Juli 2026, yaitu Domestic Liquidity Management Bank of the Year dan Domestic Retail Bank of the Year. Pengakuan ini penting karena datang dari lembaga penilai perbankan regional, bukan sekadar klaim internal perusahaan, dan menyasar dua lini bisnis berbeda yaitu layanan korporasi dan layanan ritel.",
+   "Penghargaan Domestic Liquidity Management Bank of the Year diberikan atas kemampuan BRI menyediakan pengelolaan kas dan likuiditas terintegrasi bagi nasabah korporasi dan institusi. Layanan ini mencakup treasury, cash management, hingga alat bantu pengambilan keputusan keuangan yang memudahkan perusahaan memantau arus kas secara real-time.",
+   "Pendorong utama capaian tersebut adalah QLola by BRI, platform digital yang menggabungkan pengelolaan kas, pembiayaan perdagangan, rantai pasok, transaksi valuta asing, dan layanan investasi dalam satu akses. Per Juni 2026, jumlah penggunanya mencapai lebih dari 384 ribu, naik 49 persen dibanding setahun sebelumnya. Volume transaksi yang diproses mencapai Rp6.857 triliun, tumbuh 35 persen secara tahunan, dengan total 43,1 juta transaksi atau naik 28 persen dari periode yang sama tahun lalu.",
+   "Corporate Secretary BRI, Dhanny, mengatakan penghargaan ini menjadi pendorong bagi perseroan untuk terus menghadirkan layanan yang relevan dengan kebutuhan nasabah. \"Penghargaan ini merupakan pengakuan atas upaya BRI dalam membangun layanan perbankan yang semakin relevan dengan kebutuhan nasabah. Kami melihat bahwa pengelolaan aset saat ini tidak hanya berfokus pada penciptaan nilai, tetapi juga pada bagaimana nilai tersebut dapat dijaga dan diteruskan lintas generasi. Karena itu, kami terus memperkuat peran BRI sebagai mitra terpercaya bagi nasabah dalam setiap tahap perjalanan finansialnya,\" ujar Dhanny."
+  ],
+  "fotoAdegan": "Cargo containers being loaded by cranes at a busy Indonesian shipping port, workers coordinating below, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a80587a2bd3e-ilustrasi-bri-raih-dua-penghargaan-asian-banking-finance-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar penghargaannya, melainkan skala pemakaian platform digital korporasi BRI, QLola. Penggunanya tembus 384 ribu per Juni 2026, naik 49 persen dari setahun sebelumnya, dan volume transaksinya mencapai Rp6.857 triliun, tumbuh 35 persen dalam setahun. Yang paling terdampak adalah nasabah korporasi dan institusi, sebab platform ini menyatukan pengelolaan kas, pembiayaan dagang, dan transaksi valuta asing dalam satu sistem, sehingga pertumbuhannya menandakan makin banyak perusahaan memindahkan urusan keuangan hariannya ke layanan digital bank. Ini sejalan dengan arah persaingan perbankan korporasi di Indonesia yang makin mengandalkan platform digital untuk merebut nasabah bisnis, bukan hanya nasabah ritel. Yang akan menentukan apakah momentum ini bertahan adalah angka QLola pada laporan kuartal berikutnya, karena dua kuartal pertumbuhan cepat belum tentu menjadi tren jangka panjang.",
+  "imageV": "msuf1r6a"
+ },
+ {
   "slug": "mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana",
   "category": "BUMN",
   "title": "Mensesneg: Amnesti Bos BUMN [Belum] Dibahas, Baru Wacana",

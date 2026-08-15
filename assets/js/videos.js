@@ -2,6 +2,38 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "B_xxGHkDml4",
+  "title": "Jubir ESDM Beberkan Dampak Signifikan Program B50",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
+  "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
+ },
+ {
+  "id": "fp_VWfYRPCY",
+  "title": "Pembangunan Ritel Modern di Desa Akan Diatur Pemerintah",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan PDT menyebut pemerintah akan mengatur pembangunan ritel modern di desa agar tidak mematikan pelaku usaha lokal.",
+  "takeaway": "Regulasi ritel modern di desa berkaitan langsung dengan perlindungan UMKM dan pemerataan ekonomi pedesaan."
+ },
+ {
+  "id": "yVbMeL1AO18",
+  "title": "Bakom RI: Pangan dan Energi Jadi Prioritas Anggaran Negara",
+  "category": "Makroekonomi",
+  "program": "AKIM",
+  "summary": "Badan Komunikasi RI menyebut swasembada pangan dan kemandirian energi menjadi prioritas utama kebijakan anggaran negara.",
+  "takeaway": "Prioritas anggaran untuk pangan dan energi berdampak pada arah fiskal dan ketahanan ekonomi nasional."
+ },
+ {
+  "id": "ThWfzHaOKbI",
+  "title": "Mendes PDT: Kopdes Dirancang untuk Hapus Sistem Rentenir",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan PDT menjelaskan Koperasi Desa dirancang untuk menghapus praktik rentenir dan memperkuat ekonomi desa.",
+  "takeaway": "Program koperasi desa relevan bagi pembaca yang mengikuti perkembangan inklusi keuangan dan ekonomi pedesaan."
+ },
+ {
   "id": "ZwVVN3eKVu4",
   "title": "Pertumbuhan dan Perkembangan Ekonomi Indonesia",
   "category": "Makroekonomi",
@@ -64,37 +96,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal menanggapi sorotan publik soal pendirian Koperasi Desa Merah Putih di lokasi pegunungan, di tengah upaya menjadikan desa penggerak ekonomi baru.",
   "takeaway": "Isu ini penting karena menyangkut efektivitas program koperasi desa sebagai instrumen pemerataan ekonomi."
- },
- {
-  "id": "n8lP3w265f4",
-  "title": "Prabowo: Pendapatan Negara Tumbuh 21,3 Persen",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto melaporkan pendapatan negara tumbuh 21,3 persen dalam pidato kenegaraan di Sidang Tahunan MPR 2026, sebagai bagian dari evaluasi kinerja 21 bulan pemerintahannya.",
-  "takeaway": "Angka pertumbuhan pendapatan negara ini menjadi salah satu indikator kesehatan fiskal pemerintah."
- },
- {
-  "id": "nDM01Q9XXKw",
-  "title": "Mungkinkah Desa Jadi Kekuatan Ekonomi Baru?",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Diskusi membahas potensi desa sebagai basis pertumbuhan ekonomi baru Indonesia, di luar perannya selama ini sebagai basis pembangunan.",
-  "takeaway": "Topik ini relevan untuk melihat arah kebijakan pemerataan ekonomi berbasis desa."
- },
- {
-  "id": "E7lcpHP1jK0",
-  "title": "Desa Ekspor dan Wisata Jadi Program Unggulan",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Program desa ekspor dan desa wisata disiapkan sebagai andalan untuk mendongkrak perekonomian desa dan memperkuat posisi desa dalam pertumbuhan ekonomi nasional.",
-  "takeaway": "Program ini penting disimak sebagai upaya konkret mendorong desa berorientasi pasar dan devisa."
- },
- {
-  "id": "4tdEwW0eeFU",
-  "title": "Kopdes di Atas Gunung hingga Dekat Kuburan",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan PDT menjelaskan sebaran lokasi Koperasi Desa Merah Putih yang dibangun di berbagai kondisi geografis, termasuk daerah terpencil.",
-  "takeaway": "Sebaran lokasi koperasi ini menjadi indikator jangkauan program ekonomi desa ke wilayah sulit akses."
  }
 ];

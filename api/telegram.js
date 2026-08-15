@@ -318,10 +318,20 @@ async function lewatChat(pertanyaan, bahan) {
     badan.max_completion_tokens = 2000;
   }
 
+  // Batas waktu SENDIRI, lebih pendek dari batas fungsi Vercel (60 detik).
+  //
+  // Model berpikir bisa memakan 40-50 detik untuk pertanyaan yang menuntut
+  // penyaringan. Kalau ia melewati batas fungsi, prosesnya dibunuh di tengah
+  // jalan: tidak ada jawaban, tidak ada pesan gagal, tidak ada apa pun, dan
+  // pembaca hanya menatap layar sunyi. Dengan menyerah lebih dulu di detik
+  // ke-45, masih tersisa waktu untuk mengabari pembaca dengan jujur.
+  const pembatal = new AbortController();
+  const pewaktu = setTimeout(() => pembatal.abort(), 45000);
   const r = await fetch(keOR
     ? 'https://openrouter.ai/api/v1/chat/completions'
     : 'https://api.openai.com/v1/chat/completions', {
     method: 'POST',
+    signal: pembatal.signal,
     headers: {
       'Content-Type': 'application/json',
       'Authorization': 'Bearer ' + (keOR ? KUNCI_OR : KUNCI_OPENAI),
@@ -331,7 +341,7 @@ async function lewatChat(pertanyaan, bahan) {
       ...(keOR ? { 'HTTP-Referer': SITUS, 'X-Title': 'The Signal' } : {}),
     },
     body: JSON.stringify(badan),
-  });
+  }).finally(() => clearTimeout(pewaktu));
   const j = await r.json().catch(() => ({}));
   // Bisa membalas HTTP 200 dengan galat di dalam badan, misalnya saldo habis
   // atau nama model salah. Memeriksa r.ok saja tidak cukup, dan tanpa
@@ -494,9 +504,15 @@ export default async function handler(req, res) {
         'dan <a href="https://the-signal.id/berita.html">arsip beritanya</a> langsung.');
   } catch (e) {
     // Sebab teknis TIDAK ditampilkan ke pembaca: pesan galat mentah bisa
-    // memuat potongan konfigurasi, dan bagi pembaca tidak berguna.
-    console.error('bot gagal:', String(e && e.message || e));
-    await kirim(chatId, 'Maaf, ada gangguan sebentar di sisi kami. Coba lagi beberapa saat lagi.');
+    // memuat potongan konfigurasi, dan bagi pembaca tidak berguna. Tapi
+    // kehabisan waktu dibedakan, karena saran yang berguna berbeda:
+    // menunggu percuma kalau pertanyaannya memang berat.
+    const kehabisanWaktu = e && (e.name === 'AbortError' || /abort/i.test(String(e.message || '')));
+    console.error('bot gagal:', kehabisanWaktu ? 'kehabisan waktu 45 detik' : String(e && e.message || e));
+    await kirim(chatId, kehabisanWaktu
+      ? 'Pertanyaannya butuh waktu lebih lama dari yang saya punya. Coba pecah jadi ' +
+        'pertanyaan yang lebih sempit, misalnya sebut satu emiten atau satu topik saja.'
+      : 'Maaf, ada gangguan sebentar di sisi kami. Coba lagi beberapa saat lagi.');
   }
   return selesai();
 }

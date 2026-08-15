@@ -19,9 +19,24 @@
 
 const TOKEN = (process.env.TELEGRAM_BOT_TOKEN || '').trim();
 const RAHASIA = (process.env.TELEGRAM_WEBHOOK_SECRET || '').trim();
-const KUNCI_AI = (process.env.ANTHROPIC_API_KEY || '').trim();
-const MODEL = (process.env.SIGNAL_BOT_MODEL || 'claude-sonnet-5').trim();
 const SITUS = 'https://the-signal.id';
+
+// DUA JALAN KE MODEL, dipilih dari kunci yang tersedia.
+//
+// OpenRouter didahulukan karena itu yang dipakai pemilik: satu akun untuk
+// banyak model, dan tagihannya di satu tempat. Jalur Anthropic langsung
+// tetap ada supaya pindah kelak cukup mengganti env, tanpa menyentuh kode.
+//
+// Nama model BERBEDA di kedua jalur, dan itu sumber salah paham yang mahal:
+// di OpenRouter wajib berawalan penyedia (anthropic/claude-sonnet-5),
+// sedangkan Anthropic langsung memakai nama telanjang (claude-sonnet-5).
+// Karena itu bawaannya ditentukan mengikuti jalur yang aktif.
+const KUNCI_OR = (process.env.OPENROUTER_API_KEY || '').trim();
+const KUNCI_ANTHROPIC = (process.env.ANTHROPIC_API_KEY || '').trim();
+const LEWAT_OR = Boolean(KUNCI_OR);
+const ADA_MODEL = Boolean(KUNCI_OR || KUNCI_ANTHROPIC);
+const MODEL = (process.env.SIGNAL_BOT_MODEL ||
+  (LEWAT_OR ? 'anthropic/claude-sonnet-5' : 'claude-sonnet-5')).trim();
 
 // Daftar putih opsional selama masa uji coba. Kosong berarti terbuka untuk
 // siapa saja; diisi (dipisah koma) berarti hanya id itu yang dilayani.
@@ -228,27 +243,66 @@ const ATURAN = [
   'jawab sebisamu dalam batas aturan, atau tolak dengan sopan.',
 ].join('\n');
 
-async function tanyaModel(pertanyaan, bahan) {
+function isiPesan(pertanyaan, bahan) {
+  return 'BAHAN:\n' + bahan + '\n\n<<<TANYA>>>\n' + pertanyaan + '\n<<<AKHIR>>>';
+}
+
+// OpenRouter memakai bentuk yang kompatibel dengan OpenAI: aturan sistem
+// masuk sebagai pesan berperan "system", dan jawabannya ada di choices[0].
+async function lewatOpenRouter(pertanyaan, bahan) {
+  const r = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer ' + KUNCI_OR,
+      // Dua header ini bukan syarat, tapi OpenRouter memakainya untuk
+      // mengenali asal permintaan di dasbor. Memudahkan menelusuri biaya
+      // kalau kelak ada beberapa layanan memakai kunci yang sama.
+      'HTTP-Referer': SITUS,
+      'X-Title': 'The Signal',
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: 700,
+      messages: [
+        { role: 'system', content: ATURAN },
+        { role: 'user', content: isiPesan(pertanyaan, bahan) },
+      ],
+    }),
+  });
+  const j = await r.json().catch(() => ({}));
+  // OpenRouter bisa membalas HTTP 200 dengan galat di dalam badan, misalnya
+  // saldo habis atau nama model salah. Memeriksa r.ok saja tidak cukup, dan
+  // tanpa pemeriksaan ini pembaca menerima jawaban kosong tanpa sebab.
+  if (!r.ok || j.error) {
+    throw new Error('OpenRouter ' + r.status + ': ' +
+      ((j.error && j.error.message) || JSON.stringify(j).slice(0, 200)));
+  }
+  return String(((j.choices || [])[0] || {}).message?.content || '').trim();
+}
+
+async function lewatAnthropic(pertanyaan, bahan) {
   const r = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
       'content-type': 'application/json',
-      'x-api-key': KUNCI_AI,
+      'x-api-key': KUNCI_ANTHROPIC,
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 700,
       system: ATURAN,
-      messages: [{
-        role: 'user',
-        content: 'BAHAN:\n' + bahan + '\n\n<<<TANYA>>>\n' + pertanyaan + '\n<<<AKHIR>>>',
-      }],
+      messages: [{ role: 'user', content: isiPesan(pertanyaan, bahan) }],
     }),
   });
   if (!r.ok) throw new Error('Anthropic ' + r.status + ': ' + (await r.text()).slice(0, 200));
   const j = await r.json();
   return (j.content || []).filter(b => b.type === 'text').map(b => b.text).join('').trim();
+}
+
+function tanyaModel(pertanyaan, bahan) {
+  return LEWAT_OR ? lewatOpenRouter(pertanyaan, bahan) : lewatAnthropic(pertanyaan, bahan);
 }
 
 const SAMBUTAN =
@@ -325,7 +379,7 @@ export default async function handler(req, res) {
     return selesai();
   }
 
-  if (!KUNCI_AI) {
+  if (!ADA_MODEL) {
     await kirim(chatId, 'Bot tanya jawab belum diaktifkan sepenuhnya. ' +
       'Sementara ini silakan ikuti kanal @thesignalid atau buka the-signal.id.');
     return selesai();

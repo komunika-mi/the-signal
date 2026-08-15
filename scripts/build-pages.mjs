@@ -1027,6 +1027,15 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
   console.log('rapor sinyal:', RAPOR.entri.length, 'klaim (' + ringkasSkor + ')');
 }
 
+// ---------- bahan bot tanya jawab Telegram ----------
+// Ditulis tiap build supaya bot selalu tahu arsip terbaru tanpa perlu
+// deploy ulang fungsinya; ia menarik berkas ini lewat HTTP dari situs.
+{
+  const { tulisBotIndeks } = await import('./bot-indeks.mjs');
+  const info = tulisBotIndeks(ARTICLES);
+  console.log('indeks bot:', info.artikel, 'artikel,', info.kb, 'KB');
+}
+
 // ---------- panggang beranda + arsip ----------
 bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA });
 console.log('bake beranda + arsip: ok');

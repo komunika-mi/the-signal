@@ -330,15 +330,15 @@ var ARTICLES = [
  {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
-  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
-  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "title": "IHSG [Melesat] 1,59% Usai Presiden Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Presiden Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
   "date": "14 Agustus 2026",
   "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
   "imageV": "mssvvotr",
   "tags": [
    "IHSG",
    "RAPBN 2027",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "defisit anggaran"
   ],
   "kreditFoto": "tvOneNews",
@@ -398,8 +398,8 @@ var ARTICLES = [
  {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
-  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Presiden Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Presiden Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
   "date": "14 Agustus 2026",
   "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
   "imageV": "mssvvp9t",
@@ -407,7 +407,7 @@ var ARTICLES = [
    "rupiah",
    "RAPBN 2027",
    "kurs dolar",
-   "Prabowo Subianto"
+   "Presiden Prabowo Subianto"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
@@ -466,15 +466,15 @@ var ARTICLES = [
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
-  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
-  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Presiden Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
   "imageV": "mssvvpxm",
   "tags": [
    "BUMN",
    "aset negara",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "APBN 2027"
   ],
   "kreditFoto": "tvOneNews",
@@ -484,7 +484,7 @@ var ARTICLES = [
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
-  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "deck": "Presiden Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
   "date": "14 Agustus 2026",
   "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
   "imageV": "msss9bch",
@@ -500,8 +500,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
-  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
-  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Presiden Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit.jpg",
   "imageV": "mstuubca",
@@ -516,14 +516,14 @@ var ARTICLES = [
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
   "category": "BUMN",
-  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
-  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "title": "Presiden Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
   "imageV": "msss9c94",
   "tags": [
    "BUMN",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "restrukturisasi BUMN",
    "APBN"
   ],
@@ -533,14 +533,14 @@ var ARTICLES = [
  {
   "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
   "category": "BUMN",
-  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
-  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "title": "Presiden Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Presiden Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
   "imageV": "msss9cyx",
   "tags": [
    "BUMN",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "restrukturisasi BUMN",
    "Sidang Tahunan MPR"
   ],
@@ -670,7 +670,7 @@ var ARTICLES = [
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
   "category": "BUMN",
   "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
-  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "deck": "Presiden Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
   "date": "14 Agustus 2026",
   "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
   "imageV": "mssoesiy",
@@ -788,7 +788,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
   "category": "Makroekonomi",
-  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "title": "Presiden Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
   "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
@@ -806,7 +806,7 @@ var ARTICLES = [
   "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
   "category": "Makroekonomi",
   "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
-  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "deck": "Presiden Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
   "date": "14 Agustus 2026",
   "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
   "imageV": "mssk7lfh",
@@ -941,8 +941,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
   "category": "Makroekonomi",
-  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
-  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "title": "Presiden Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Presiden Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
   "imageV": "mssk7nnn",
@@ -1944,7 +1944,7 @@ var ARTICLES = [
    "Destry Damayanti",
    "Bank Indonesia",
    "Gubernur BI",
-   "Prabowo Subianto"
+   "Presiden Prabowo Subianto"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459369-prabowo-pilih-destry-damayanti-jadi-calon-tunggal-gubernur-bi-istana-ungkap-alasannya"
@@ -3410,7 +3410,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
-  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "title": "Presiden Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
   "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
   "date": "10 Agustus 2026",
   "image": "assets/img/prabowo-pantau-b50-perintahkan-pangkas-layer-bumn.jpg",
@@ -4198,7 +4198,7 @@ var ARTICLES = [
   "tags": [
    "Global",
    "Diplomasi Ekonomi",
-   "Prabowo"
+   "Presiden Prabowo"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456785-prabowo-kirim-tim-ke-china-hingga-mesir-cari-formula-terbaik-antisipasi-krisis-dunia-panjang",
@@ -4344,7 +4344,7 @@ var ARTICLES = [
   "tags": [
    "Pariwisata",
    "Ekonomi Kreatif",
-   "Prabowo"
+   "Presiden Prabowo"
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456717-prabowo-satu-wisatawan-asing-minum-secangkir-kopi-bisa-hidupi-10-hingga-15-rakyat-indonesia"

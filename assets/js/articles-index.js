@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",
+  "category": "Energi",
+  "title": "Gempa M7,7 Guncang NTT, Badan Geologi Minta Warga [Waspada]",
+  "deck": "Gempa M7,7 di Timur Laut Nagekeo dirasakan hingga NTB, Bali, dan Sulawesi Selatan. Badan Geologi ESDM minta warga waspada gempa susulan dan longsor tebing.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada.jpg",
+  "imageV": "msuj016s",
+  "tags": [
+   "gempa bumi",
+   "Nusa Tenggara Timur",
+   "Badan Geologi",
+   "mitigasi bencana"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/gempa-m77-di-timur-laut-nagekeo-badan-geologi-ingatkan-warga-patuhi-jalur-evakuasi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii",
+  "category": "Makroekonomi",
+  "title": "Mensesneg: RI Berpeluang Besar Tarik Investor lewat [PFII]",
+  "deck": "Mensesneg Prasetyo Hadi menjelaskan alasan pembentukan PFII di Jakarta dan Bali, menyusul rencana Presiden Prabowo Subianto dan minat investor Asia yang melebihi undangan.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii.jpg",
+  "imageV": "msuj0235",
+  "tags": [
+   "PFII",
+   "Investasi Asing",
+   "Mensesneg",
+   "Bali"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460161-mensesneg-beberkan-alasan-perlunya-pfii-dibentuk-ri-dinilai-punya-potensi-besar-di-mata-investor-global-ada-peluang"
+ },
+ {
   "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
   "category": "Perbankan",
   "title": "BRI Sabet [Dua] Penghargaan Bank Terbaik Asia 2026",

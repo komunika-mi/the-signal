@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",
+  "category": "Energi",
+  "title": "Gempa M7,7 Guncang NTT, Badan Geologi Minta Warga [Waspada]",
+  "deck": "Gempa M7,7 di Timur Laut Nagekeo dirasakan hingga NTB, Bali, dan Sulawesi Selatan. Badan Geologi ESDM minta warga waspada gempa susulan dan longsor tebing.",
+  "image": "assets/img/gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T15:19:47.919Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/gempa-m77-di-timur-laut-nagekeo-badan-geologi-ingatkan-warga-patuhi-jalur-evakuasi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "gempa bumi",
+   "Nusa Tenggara Timur",
+   "Badan Geologi",
+   "mitigasi bencana"
+  ],
+  "body": [
+   "Gempa berkekuatan M7,7 mengguncang wilayah Timur Laut Nagekeo, Nusa Tenggara Timur, pada Sabtu dini hari, 15 Agustus 2026, pukul 04.58.23 WIB. Guncangan dirasakan hingga ke Nusa Tenggara Barat, Bali, dan Sulawesi Selatan. Badan Geologi Kementerian ESDM meminta warga tetap tenang, mengikuti arahan BPBD setempat, memeriksa kondisi bangunan, serta mematuhi rambu dan jalur evakuasi.",
+   "Berdasarkan data BMKG, episenter berada di koordinat 8,33 Lintang Selatan dan 121,32 Bujur Timur, dengan magnitudo awal M7,0 pada kedalaman 10 kilometer, yang kemudian diperbarui menjadi M7,7 pada kedalaman 15 kilometer. Lembaga geofisika Jerman, GeoForschungsZentrum, mencatat parameter berbeda yakni magnitudo M6,25 pada koordinat 8,375 LS-121,545 BT dan kedalaman 10 kilometer, selisih yang lumrah terjadi karena tiap lembaga memakai metode dan jaringan sensor sendiri. Guncangan tercatat dengan intensitas IV-V MMI di Ruteng, Ende, Labuan Bajo, Maumere, dan Sumba Timur, serta mencapai V MMI di Kota Bima dan Kabupaten Dompu, skala yang berarti guncangan terasa kuat oleh hampir semua penduduk di kota-kota tersebut.",
+   "Kepala Badan Geologi Kementerian ESDM Lana Saria menjelaskan bahwa gempa ini dipicu pergerakan sesar naik yang terkait dengan Zona Sesar Naik Busur Belakang Flores. Wilayah di sekitar episenter masuk kawasan rawan bencana gempa bumi menengah hingga tinggi, dengan susunan tanah yang bervariasi dari batuan padat hingga tanah lunak. Menurutnya, semakin lunak lapisan tanah di suatu daerah, semakin kuat pula guncangan yang dirasakan penduduk di atasnya, karena tanah lunak cenderung memperbesar getaran gempa.",
+   "Selain mewaspadai gempa susulan, Badan Geologi ESDM mengingatkan warga di sekitar wilayah tebing agar waspada potensi longsor, terutama saat hujan turun. Masyarakat juga diminta tidak mudah percaya pada informasi yang belum terverifikasi terkait potensi gempa dan tsunami susulan."
+  ],
+  "fotoAdegan": "Villagers walking along a coastal road toward higher ground at dawn, hills and fishing boats in background, eastern Indonesia",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-gempa-m77-di-timur-laut-nagekeo-badan-geologi-ingatkan-warga-patuhi-jalur-evakuasi-87vijzt.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Magnitudo gempa ini direvisi naik dari M7,0 menjadi M7,7, dan kedalamannya berubah dari 10 menjadi 15 kilometer, revisi yang lazim terjadi begitu BMKG mengolah data lebih lengkap. Yang jelas terdampak adalah warga di kota-kota dengan guncangan kuat seperti Kota Bima, Dompu, Ruteng, Ende, Labuan Bajo, Maumere, dan Sumba Timur, termasuk kawasan wisata Labuan Bajo yang menjadi gerbang menuju Taman Nasional Komodo. Karena gempa ini berasal dari sesar naik di zona yang sudah dikategorikan rawan bencana menengah hingga tinggi, dan tanah di sekitarnya tergolong lunak sehingga memperkuat guncangan, potensi gempa susulan masih perlu diwaspadai dalam beberapa hari ke depan. Siaran pers ini belum memuat data kerusakan bangunan atau korban, sehingga skala dampak sebenarnya baru akan terlihat dari laporan BPBD setempat dan kemungkinan pembaruan status tsunami dari BMKG.",
+  "imageV": "msuj016s"
+ },
+ {
+  "slug": "mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii",
+  "category": "Makroekonomi",
+  "title": "Mensesneg: RI Berpeluang Besar Tarik Investor lewat [PFII]",
+  "deck": "Mensesneg Prasetyo Hadi menjelaskan alasan pembentukan PFII di Jakarta dan Bali, menyusul rencana Presiden Prabowo Subianto dan minat investor Asia yang melebihi undangan.",
+  "image": "assets/img/mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T22:05:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460161-mensesneg-beberkan-alasan-perlunya-pfii-dibentuk-ri-dinilai-punya-potensi-besar-di-mata-investor-global-ada-peluang",
+  "tags": [
+   "PFII",
+   "Investasi Asing",
+   "Mensesneg",
+   "Bali"
+  ],
+  "body": [
+   "Menteri Sekretaris Negara Prasetyo Hadi menjelaskan alasan pemerintah bergegas membentuk Pusat Finansial dan Investasi Internasional atau PFII. Menurutnya, Indonesia dinilai investor global sebagai negara dengan ruang pertumbuhan yang masih luas dan sudah memenuhi sejumlah syarat kunci untuk menarik investasi dari berbagai negara.",
+   "Prasetyo mengatakan pemerintah sedang menyiapkan berbagai perangkat pendukung agar peluang investasi yang terbuka itu bisa segera dimanfaatkan. PFII rencananya dibangun bertahap di dua lokasi, dimulai dari Jakarta sebelum konsepnya diperluas ke Bali.",
+   "Rencana ini pertama kali disampaikan Presiden Prabowo Subianto saat menyampaikan Pengantar RUU APBN Tahun Anggaran 2027 di Gedung MPR RI, Jumat (14/8/2026). Presiden Prabowo Subianto menyebut kawasan ini akan diarahkan menjadi wajah baru pusat keuangan Indonesia, dengan fokus pada investasi, teknologi finansial, arbitrase, dan penyelesaian sengketa komersial mengacu standar internasional. Ia juga membuka peluang PFII dikembangkan di daerah lain yang punya daya tarik tinggi bagi investor asing.",
+   "Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan Roeslani menyampaikan respons investor dan pengelola kekayaan keluarga besar di Asia terhadap rencana PFII cukup positif. Penilaian itu didasarkan pada pertemuan di Nusa Dua, Bali, tempat pemerintah mengundang 70 pihak dari kawasan Asia namun jumlah yang hadir justru mencapai 110 pihak."
+  ],
+  "fotoAdegan": "Modern glass office towers in a busy Jakarta financial district at dusk with street traffic light trails below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a8037f536734-menteri-sekretaris-negara-mensesneg-prasetyo-hadi-memberikan-keterangan-kepada-awak-media-di-kompleks-istana-kepresidenan-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan aturan yang sudah jadi, melainkan arah kebijakan: pemerintah memutuskan memulai PFII dari Jakarta dulu, baru menyusul ke Bali, dengan fokus pada investasi, teknologi keuangan, dan penyelesaian sengketa bisnis mengikuti standar internasional. Yang terdampak langsung adalah investor asing dan pengelola kekayaan keluarga besar, yang di kalangan keuangan disebut family office, karena merekalah sasaran utama yang diharapkan menaruh dananya di kawasan ini. Sinyal minat sudah terlihat dari pertemuan di Nusa Dua, Bali, tempat pemerintah mengundang 70 investor dan family office dari Asia tapi yang datang justru 110, tanda ketertarikan lebih besar dari perkiraan awal. Namun ini semua masih tahap penyiapan, belum ada payung hukum atau aturan resmi yang disebutkan untuk mengatur insentif dan operasional PFII, sehingga arah sesungguhnya baru akan terlihat setelah pemerintah merilis dasar hukum dan menetapkan lokasi pasti pembangunan tahap pertama di Jakarta.",
+  "imageV": "msuj0235"
+ },
+ {
   "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
   "category": "Perbankan",
   "title": "BRI Sabet [Dua] Penghargaan Bank Terbaik Asia 2026",

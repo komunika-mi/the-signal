@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8CtcljS12aQ",
+  "title": "Pemerintah Fokus RAPBN 2027 dan Program Lapangan Kerja",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Pemerintah mengarahkan kebijakan dan RAPBN 2027 pada delapan Program Kerja Prioritas Nasional, termasuk penciptaan lapangan kerja, untuk mendukung target pembangunan Presiden Prabowo Subianto.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena memuat arah kebijakan fiskal dan prioritas ketenagakerjaan yang berdampak pada dunia usaha dan pencari kerja."
+ },
+ {
+  "id": "l5jJVLJgwXc",
+  "title": "Pemerintah Kembangkan B50 sebagai Pilar Ketahanan Energi",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
+  "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi."
+ },
+ {
+  "id": "Iywa2ayieDQ",
+  "title": "Presiden AS Trump Perketat Sanksi Ekonomi ke Iran",
+  "category": "Global",
+  "program": "tvOneNews",
+  "summary": "Pemerintahan Presiden AS Donald Trump mengalihkan tekanan terhadap Iran dari jalur militer ke ekonomi, dengan fokus pengetatan sanksi terhadap Teheran.",
+  "takeaway": "Sanksi ekonomi AS terhadap Iran berpotensi memengaruhi harga energi global dan pasar komoditas yang relevan bagi pembaca ekonomi."
+ },
+ {
   "id": "B_xxGHkDml4",
   "title": "Jubir ESDM Beberkan Dampak Signifikan Program B50",
   "category": "Energi",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "DPR mempercepat penyelesaian RUU Ketenagakerjaan sebagai tindak lanjut putusan Mahkamah Konstitusi Oktober 2024. Pimpinan DPR menyerap masukan serikat pekerja dan buruh sebelum pembahasan dilanjutkan.",
   "takeaway": "Regulasi ini akan menentukan hak dan perlindungan pekerja, penting diikuti dunia usaha dan tenaga kerja."
- },
- {
-  "id": "kA68joHp-aw",
-  "title": "Pertumbuhan Ekonomi RI Mulai Dirasakan Kalangan Bawah",
-  "category": "Makroekonomi",
-  "program": "Kabar Pagi",
-  "summary": "Pertumbuhan ekonomi Indonesia dinilai mulai dirasakan masyarakat kalangan bawah. Wakil Ketua DPD RI menyoroti Gini Ratio yang turun dari sekitar 0,38 menjadi 0,36.",
-  "takeaway": "Penurunan rasio gini menjadi indikator penting soal pemerataan hasil pertumbuhan ekonomi nasional."
- },
- {
-  "id": "x6-IEngk1Ns",
-  "title": "Kadin Indonesia Gelar Economic Diplomatic Breakfast",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Kadin Indonesia menggelar acara rutin Economic Diplomatic Breakfast dengan mengundang sejumlah duta besar negara sahabat untuk membahas kerja sama ekonomi.",
-  "takeaway": "Acara ini relevan sebagai cerminan upaya diplomasi ekonomi Indonesia dengan mitra dagang internasional."
- },
- {
-  "id": "wz_hrMy_i3M",
-  "title": "Kontroversi KDMP di Atas Gunung, Ini Jawaban Mendes PDT",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal menanggapi sorotan publik soal pendirian Koperasi Desa Merah Putih di lokasi pegunungan, di tengah upaya menjadikan desa penggerak ekonomi baru.",
-  "takeaway": "Isu ini penting karena menyangkut efektivitas program koperasi desa sebagai instrumen pemerataan ekonomi."
  }
 ];

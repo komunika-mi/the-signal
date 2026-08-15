@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "79Dl9TMyrDo",
+  "title": "Pemerintah Buka Ekspor Beras ke Malaysia",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah membuka ekspor beras ke Malaysia setelah memastikan produksi dan stok nasional mencukupi. Tahap awal, 1.000 ton beras premium dikirim melalui Entikong, Kalimantan Barat.",
+  "takeaway": "Langkah ini menandai posisi Indonesia sebagai eksportir beras, relevan bagi pelaku usaha pangan dan petani."
+ },
+ {
+  "id": "dxUUYrCfsag",
+  "title": "DPR Kebut Selesaikan RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "DPR mempercepat penyelesaian RUU Ketenagakerjaan sebagai tindak lanjut putusan Mahkamah Konstitusi Oktober 2024. Pimpinan DPR menyerap masukan serikat pekerja dan buruh sebelum pembahasan dilanjutkan.",
+  "takeaway": "Regulasi ini akan menentukan hak dan perlindungan pekerja, penting diikuti dunia usaha dan tenaga kerja."
+ },
+ {
+  "id": "kA68joHp-aw",
+  "title": "Pertumbuhan Ekonomi RI Mulai Dirasakan Kalangan Bawah",
+  "category": "Makroekonomi",
+  "program": "Kabar Pagi",
+  "summary": "Pertumbuhan ekonomi Indonesia dinilai mulai dirasakan masyarakat kalangan bawah. Wakil Ketua DPD RI menyoroti Gini Ratio yang turun dari sekitar 0,38 menjadi 0,36.",
+  "takeaway": "Penurunan rasio gini menjadi indikator penting soal pemerataan hasil pertumbuhan ekonomi nasional."
+ },
+ {
   "id": "x6-IEngk1Ns",
   "title": "Kadin Indonesia Gelar Economic Diplomatic Breakfast",
   "category": "Bisnis",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Pemerintahan Presiden Prabowo Subianto mengalokasikan ratusan triliun rupiah dari APBN untuk menjalankan 11 program prioritas nasional.",
   "takeaway": "Rincian alokasi APBN ini membantu pembaca memahami arah kebijakan fiskal pemerintah dan sektor mana yang mendapat prioritas anggaran."
- },
- {
-  "id": "zCfI3Y4QG_s",
-  "title": "Pemerintah Siapkan Anggaran Rp4.097 Triliun untuk 2027",
-  "category": "Makroekonomi",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Pemerintah menyiapkan delapan program prioritas untuk tahun 2027 dengan dukungan anggaran mencapai Rp4.097 triliun.",
-  "takeaway": "Besaran anggaran ini menunjukkan skala kebijakan fiskal pemerintah yang berpotensi berdampak luas pada perekonomian nasional."
- },
- {
-  "id": "RQYc7uSgUxE",
-  "title": "Desa Sebagai Kekuatan Ekonomi Baru Indonesia",
-  "category": "Makroekonomi",
-  "program": "One on One",
-  "summary": "Menteri Desa PDTT Yandri Susanto membahas potensi desa sebagai basis pembangunan sekaligus penggerak baru pertumbuhan ekonomi nasional.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti arah kebijakan pembangunan desa dan dampaknya terhadap ekonomi daerah."
- },
- {
-  "id": "20AvmOBuplc",
-  "title": "DPR: Program Prabowo Dirasakan Langsung Masyarakat",
-  "category": "Makroekonomi",
-  "program": "AKIM",
-  "summary": "Anggota Komisi XI DPR RI menilai RAPBN 2027 yang difokuskan pada delapan Program Kerja Prioritas Nasional mulai memberi dampak nyata bagi masyarakat.",
-  "takeaway": "Menunjukkan penilaian DPR atas arah belanja negara dalam RAPBN 2027 yang tengah dibahas pemerintah."
  }
 ];

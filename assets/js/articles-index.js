@@ -294,6 +294,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459954-pegadaian-dorong-literasi-keuangan-pengemudi-ojek-pangkalan-soroti-pentingnya-menabung-dan-hindari-pinjaman-ilegal"
  },
  {
+  "slug": "sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst",
+  "category": "Aksi Korporasi",
+  "title": "SQMI Ajukan [Yulian Hadromi] Jadi Calon Direksi Baru di RUPST",
+  "deck": "Wilton Makmur Indonesia Tbk mengoreksi pemanggilan RUPST 4 September 2026 dengan melampirkan CV Yulian Hadromi sebagai calon anggota direksi baru.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst.jpg",
+  "imageV": "mstx3sp4",
+  "tags": [
+   "SQMI",
+   "RUPST",
+   "direksi",
+   "Wilton Makmur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8294fe7462_5ccfbfd3b0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Siapkan Rp465 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "BAFI menyiapkan dana Rp458 miliar plus bunga Rp7,44 miliar untuk pelunasan terakhir Obligasi Berkelanjutan II Tahap IV 2023, dikirim ke KSEI pada 7 September 2026.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi.jpg",
+  "imageV": "mstx4crv",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "Bussan Auto Finance",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3b8596f3f6_2b5ab5218d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
   "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
@@ -311,6 +345,57 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459950-ihsg-melesat-usai-pidato-prabowo-ini-faktor-penting-yang-jadi-sorotan-investor"
  },
  {
+  "slug": "dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ganti [Pengendali], Sinergi Internasional Kuasai 51% Saham",
+  "deck": "PT Sinergi Internasional Investama membeli 51% saham DOOH senilai Rp197,34 miliar dari PT Prambanan Investasi Sukses dan resmi menjadi pengendali baru perusahaan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham.jpg",
+  "imageV": "mstx4ye9",
+  "tags": [
+   "DOOH",
+   "pengambilalihan",
+   "pengendali baru",
+   "tender offer wajib"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/190f26e2bf_813646b022.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "abda-panggil-rupslb-agendakan-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ABDA Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
+  "deck": "PT Asuransi Bina Dana Arta menggelar RUPSLB 7 September 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan direksi.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/abda-panggil-rupslb-agendakan-perubahan-susunan-direksi.jpg",
+  "imageV": "mstx5o14",
+  "tags": [
+   "ABDA",
+   "RUPSLB",
+   "Direksi",
+   "Oona Insurance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56a56bcb08_f8a35cc656.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september",
+  "category": "Aksi Korporasi",
+  "title": "PLTM Siapkan Rp106 Miliar Lunasi [Obligasi] Jatuh Tempo September",
+  "deck": "PLTM memastikan dana Rp106 miliar sudah tersedia untuk melunasi Obligasi II dan Sukuk Ijarah II Seri B yang jatuh tempo 8 September 2026, bersumber dari kas internal perusahaan.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september.jpg",
+  "imageV": "mstx66s9",
+  "tags": [
+   "PLTM",
+   "obligasi",
+   "sukuk ijarah",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c32ae070d4_b988c1df2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
@@ -326,6 +411,57 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
+ },
+ {
+  "slug": "sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Terima [Pelunasan] Rp13,88 Miliar dari Anak Usaha DPI",
+  "deck": "Anak usaha DPI melunasi utang Rp13,875 miliar kepada Surya Fajar Capital, bagian dari pembelian saham SFUD yang disetujui RUPS Independen Juni lalu.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi.jpg",
+  "imageV": "mstx6s6b",
+  "tags": [
+   "SFAN",
+   "DPI",
+   "divestasi",
+   "RUPS Independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cdb73fb72c_5b78827cf3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "DART Jelaskan Lonjakan Transaksi ke BEI, [Tak] Ada Info Material",
+  "deck": "Merespons surat permintaan penjelasan BEI, Duta Anggada Realty menyatakan tidak mengetahui informasi material apa pun di balik volatilitas transaksi sahamnya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material.jpg",
+  "imageV": "mstx7dj4",
+  "tags": [
+   "DART",
+   "Duta Anggada Realty",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10be41d1aa_127a9b28e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "WINS Ungkap Detail [Akuisisi] Fast Offshore di Public Expose",
+  "deck": "Dalam public expose 12 Agustus 2026, manajemen WINS merinci alasan akuisisi penuh Fast Offshore Supply dan Fast Offshore Indonesia yang masih rugi, serta kontrak baru penopangnya.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose.jpg",
+  "imageV": "mstx80cl",
+  "tags": [
+   "WINS",
+   "Wintermar Offshore Marine",
+   "Fast Offshore",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e166676c2_88f29e33e0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",

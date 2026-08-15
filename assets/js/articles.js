@@ -458,6 +458,60 @@ var ARTICLES = [
   "imageV": "mst1gt30"
  },
  {
+  "slug": "sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst",
+  "category": "Aksi Korporasi",
+  "title": "SQMI Ajukan [Yulian Hadromi] Jadi Calon Direksi Baru di RUPST",
+  "deck": "Wilton Makmur Indonesia Tbk mengoreksi pemanggilan RUPST 4 September 2026 dengan melampirkan CV Yulian Hadromi sebagai calon anggota direksi baru.",
+  "image": "assets/img/sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:52:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8294fe7462_5ccfbfd3b0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "RUPST",
+   "direksi",
+   "Wilton Makmur"
+  ],
+  "body": [
+   "PT Wilton Makmur Indonesia Tbk (SQMI) mengoreksi surat pemanggilan Rapat Umum Pemegang Saham Tahunan (RUPST) yang sebelumnya terbit 13 Agustus 2026. Corporate Secretary Mohammad Noor Syahriel menyampaikan bahwa RUPST tetap akan digelar Jumat, 4 September 2026 pukul 15.00 WIB di Boardroom Komplek Harco Mangga Dua, Jalan Mangga Dua Raya, Jakarta, dengan tanggal pencatatan pemegang saham yang berhak hadir (recording date) pada 12 Agustus 2026 pukul 16.00 WIB. Perbedaan utama dari surat sebelumnya adalah tambahan lampiran berupa riwayat hidup calon anggota direksi.",
+   "RUPST membawa empat agenda: pengesahan laporan tahunan dan laporan keuangan tahun buku 2025, penunjukan akuntan publik independen, perubahan Pasal 3 Anggaran Dasar soal maksud dan tujuan usaha untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025), serta persetujuan perubahan susunan direksi perseroan. Perseroan menjelaskan bahwa penyesuaian anggaran dasar diperlukan agar data perusahaan selaras dengan sistem perizinan dan administrasi hukum yang berlaku, sementara agenda perubahan direksi diajukan sehubungan dengan pergantian anggota direksi.",
+   "Terkait agenda keempat, perseroan melampirkan CV Yulian Hadromi, SH, LL.M, MM, sebagai calon direksi. Yulian lahir di Jakarta pada 22 November 1970, bergelar sarjana hukum dari Universitas Padjadjaran, magister hukum dari Washington College of Law, American University di Amerika Serikat, serta magister manajemen dari Universitas Indonesia. Saat ini ia menjabat Presiden Direktur PT Citra Investama Artha sejak 24 April 2026 dan PT Multi Sarana Perkasa sejak 25 Mei 2026, serta Chief Consultant PT Tayang Group Indonesia sejak 1 Januari 2025. Sebelumnya ia berkarier lebih dari 20 tahun di bidang kepatuhan dan hukum perbankan, antara lain sebagai Executive Vice President Bank Danamon, Director Bank of America, Senior Vice President Citibank, serta menjabat Asisten Staf Khusus Wakil Presiden Republik Indonesia periode Desember 2019 hingga Desember 2022. Ia juga tercatat sebagai advokat berlisensi."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long table and rows of chairs prepared for a shareholders meeting, soft morning light",
+  "takeaway": "Koreksi ini netral bagi Wilton Makmur karena isinya administratif, sekadar melengkapi pemanggilan RUPST dengan riwayat hidup calon direksi tanpa mengubah struktur permodalan atau angka keuangan perusahaan. Pergantian direksi memang tidak langsung menyentuh pos seperti ekuitas, arus kas, atau jumlah saham beredar, tapi pelaku pasar tetap memperhatikan siapa yang duduk di direksi karena merekalah yang menentukan strategi, kepatuhan terhadap aturan, dan keputusan bisnis ke depan. Yulian Hadromi membawa latar belakang panjang di kepatuhan perbankan multinasional dan pernah bekerja di lingkaran pemerintahan, pengalaman yang bisa memperkuat sisi tata kelola perseroan jika benar disetujui pemegang saham. Yang perlu dipantau adalah hasil pemungutan suara pada RUPST 4 September 2026 saat pemegang saham memutuskan sah tidaknya perubahan susunan direksi ini, serta batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 3 September 2026 bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral",
+  "imageV": "mstx3sp4"
+ },
+ {
+  "slug": "bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BAFI Siapkan Rp465 Miliar untuk [Pelunasan] Obligasi",
+  "deck": "BAFI menyiapkan dana Rp458 miliar plus bunga Rp7,44 miliar untuk pelunasan terakhir Obligasi Berkelanjutan II Tahap IV 2023, dikirim ke KSEI pada 7 September 2026.",
+  "image": "assets/img/bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:38:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3b8596f3f6_2b5ab5218d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "Bussan Auto Finance",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) menyampaikan rencana pelunasan pokok dan bunga terakhir Obligasi Berkelanjutan II Tahap IV Tahun 2023. Dalam surat bernomor BAF/442/CP/VIII/2026 tertanggal 14 Agustus 2026 yang ditandatangani Wakil Presiden Direktur Sigit Sembodo, perseroan menyatakan telah menyiapkan dana untuk melunasi pokok senilai Rp458 miliar beserta bunga terakhir sebesar Rp7,44 miliar.",
+   "Obligasi ini jatuh tempo pada 8 September 2026. Dana pelunasan direncanakan dikirimkan sehari sebelumnya, yakni 7 September 2026, kepada agen pembayaran PT Kustodian Sentral Efek Indonesia (KSEI). Penyampaian informasi ini merujuk pada Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi, dan surat tersebut juga ditembuskan kepada wali amanat PT Bank Mandiri (Persero) Tbk, serta dua lembaga pemeringkat, Fitch Ratings Indonesia dan PT Pemeringkat Efek Indonesia (PEFINDO).",
+   "Laporan ditandatangani secara elektronik dan disampaikan oleh corporate secretary BAFI, Puji Arianti. Karena ini merupakan pembayaran terakhir pada tahap IV dari program Obligasi Berkelanjutan II, pelunasan ini menandai selesainya kewajiban seri obligasi tersebut jika dana benar terkirim sesuai jadwal."
+  ],
+  "fotoAdegan": "Rows of parked motorcycles at a busy Jakarta dealership showroom, morning light, staff walking between vehicles",
+  "takeaway": "Laporan ini condong positif bagi BAFI, karena perseroan menegaskan sudah menyiapkan dana penuh untuk melunasi kewajiban obligasinya tepat waktu, tanda tidak ada risiko gagal bayar pada seri ini. Yang tersentuh adalah arus kas dan beban utang perusahaan: begitu Rp458 miliar pokok plus Rp7,44 miliar bunga ini dibayarkan, arus kas keluar perseroan membesar sesaat, tetapi total utang obligasi yang tercatat di neraca berkurang sebesar nilai pokok tersebut, yang biasanya dibaca pasar sebagai perbaikan struktur permodalan. Yang perlu dipantau berikutnya adalah apakah dana benar terkirim ke KSEI selaku agen pembayaran pada 7 September 2026 sesuai rencana, sehari sebelum jatuh tempo 8 September 2026, karena keterlambatan pada tanggal itulah yang akan menjadi sinyal masalah, bukan rencana pembayaran itu sendiri.",
+  "sentimen": "positif",
+  "imageV": "mstx4crv"
+ },
+ {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
   "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
@@ -485,6 +539,86 @@ var ARTICLES = [
   "imageV": "mssvvotr"
  },
  {
+  "slug": "dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Ganti [Pengendali], Sinergi Internasional Kuasai 51% Saham",
+  "deck": "PT Sinergi Internasional Investama membeli 51% saham DOOH senilai Rp197,34 miliar dari PT Prambanan Investasi Sukses dan resmi menjadi pengendali baru perusahaan.",
+  "image": "assets/img/dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:12:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/190f26e2bf_813646b022.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "pengambilalihan",
+   "pengendali baru",
+   "tender offer wajib"
+  ],
+  "body": [
+   "PT Sinergi Internasional Investama resmi menjadi pengendali baru PT Era Media Sejahtera Tbk (DOOH) setelah menyelesaikan pembelian 3.946.835.000 saham, setara 51,00 persen dari seluruh modal ditempatkan dan disetor DOOH, dari PT Prambanan Investasi Sukses. Transaksi terjadi pada 30 Juli 2026 dengan harga Rp50 per saham, sehingga total nilai pengambilalihan mencapai Rp197.341.750.000. Pengumuman ke publik disampaikan 14 Agustus 2026 sebagai kewajiban keterbukaan sesuai Pasal 7 ayat 1 POJK No. 9/2018 tentang Pengambilalihan Perusahaan Terbuka.",
+   "Sinergi Internasional Investama baru berdiri berdasarkan akta pendirian tanggal 17 Juli 2026, dua pekan sebelum transaksi ini terjadi. Modal ditempatkan dan disetornya hanya Rp1 miliar, terbagi 1.000 lembar saham dengan nilai nominal Rp1 juta per saham, dimiliki Tinawati sebanyak 999 lembar atau 99,90 persen sekaligus tercatat sebagai pemilik manfaat, dan Sugiyanti satu lembar atau 0,10 persen. Susunan pengurusnya adalah Tinawati sebagai Direktur dan Sugiyanti sebagai Komisaris. Perusahaan ini berfungsi sebagai perusahaan induk dan belum menjalankan kegiatan usaha komersial apa pun, serta sebelum transaksi tidak memiliki hubungan afiliasi dengan DOOH. Tujuan pengambilalihan yang disebutkan adalah investasi dan pengembangan usaha DOOH, dengan komitmen melanjutkan manajemen dan operasional yang sudah berjalan.",
+   "Sebagai konsekuensi dari perubahan pengendali ini, Sinergi Internasional Investama wajib melaksanakan Penawaran Tender Wajib atas saham DOOH yang beredar di publik sesuai ketentuan POJK No. 9/2018. Rincian harga, jumlah saham yang menjadi objek penawaran, periode pelaksanaan, serta tata cara keikutsertaan dan pembayaran belum diumumkan dan akan disampaikan menyusul. Perseroan menyatakan tidak ada persetujuan otoritas lain yang disyaratkan untuk transaksi ini selain pemenuhan kewajiban sesuai peraturan yang berlaku."
+  ],
+  "fotoAdegan": "Wide shot of digital billboard towers lining a busy Jakarta avenue at dusk, traffic light trails below, screens angled away and blurred in the distance.",
+  "takeaway": "Perubahan pengendali ini bersifat netral bagi DOOH untuk saat ini, sebab modal disetor Sinergi Internasional Investama yang cuma Rp1 miliar jauh timpang dibanding nilai akuisisi Rp197,34 miliar, sehingga dari mana dana sebesar itu berasal belum terang dari dokumen ini. Yang tersentuh bukan laba atau kas DOOH secara langsung, karena ini transaksi jual beli saham antar pemegang saham lama dan baru, melainkan siapa yang memegang kendali arah strategis dan tata kelola perusahaan ke depan, yang penting bagi investor karena menentukan kebijakan bisnis jangka panjang. Perlu diperhatikan juga bahwa penawaran tender wajib yang menyusul berpotensi mengubah porsi saham DOOH yang beredar di tangan publik, tergantung berapa banyak pemegang saham minoritas yang ikut menjual. Yang perlu dipantau selanjutnya adalah pengumuman detail Penawaran Tender Wajib, yaitu harga per saham, jumlah saham yang jadi objeknya, dan periode pelaksanaannya, yang menurut POJK 9/2018 wajib disampaikan Sinergi Internasional Investama kepada publik.",
+  "sentimen": "netral",
+  "imageV": "mstx4ye9"
+ },
+ {
+  "slug": "abda-panggil-rupslb-agendakan-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ABDA Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
+  "deck": "PT Asuransi Bina Dana Arta menggelar RUPSLB 7 September 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan direksi.",
+  "image": "assets/img/abda-panggil-rupslb-agendakan-perubahan-susunan-direksi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:11:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56a56bcb08_f8a35cc656.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABDA",
+  "tags": [
+   "ABDA",
+   "RUPSLB",
+   "Direksi",
+   "Oona Insurance"
+  ],
+  "body": [
+   "PT Asuransi Bina Dana Arta Tbk (ABDA), yang beroperasi dengan merek Oona Insurance, mengeluarkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) merujuk pemberitahuan sebelumnya bernomor S-122/LCC/VII/2026 tertanggal 30 Juli 2026. Rapat akan digelar Senin, 7 September 2026 pukul 10.00 WIB di Plaza Asia Lantai 28, Jalan Jenderal Sudirman Kavling 59, Jakarta Selatan. Agendanya hanya satu, yaitu persetujuan pengangkatan kembali atau perubahan susunan anggota direksi perseroan, tanpa disebutkan nama-nama yang diusulkan masuk atau keluar dalam dokumen pemanggilan ini.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 sampai pukul 16.00 WIB, baik yang diterbitkan oleh Biro Administrasi Efek PT Raya Saham Registra maupun oleh KSEI untuk saham yang berada dalam penitipan kolektif. Perseroan menegaskan pemanggilan ini sudah memenuhi ketentuan POJK Nomor 15/POJK.04/2020 sehingga berlaku sebagai undangan resmi tanpa perlu surat undangan terpisah ke masing-masing pemegang saham.",
+   "Ada sejumlah tenggat prosedural yang perlu diperhatikan pemegang saham. Bagi pemegang saham scriptless, kuasa untuk hadir dan memberi suara dapat didaftarkan lewat eASY.KSEI paling lambat satu hari kerja sebelum rapat. Bagi pemegang saham dengan saham berwarkat, surat kuasa asli beserta fotokopi identitas harus sudah diterima Biro Administrasi Efek di kantornya di Plaza Sentral, Jalan Jenderal Sudirman 47-48, Jakarta Selatan, paling lambat tiga hari kerja sebelum rapat pukul 15.00 WIB. Pemegang saham berbadan hukum wajib mengirim salinan anggaran dasar dan risalah pengangkatan direksi ke alamat yang sama paling lambat tiga hari kerja sebelum rapat pukul 16.00 WIB, sementara konfirmasi kehadiran fisik harus disampaikan lewat email contactus@oona-insurance.co.id selambatnya satu hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with a long table and city skyline visible through floor-to-ceiling windows, soft morning light",
+  "takeaway": "Laporan ini bersifat netral bagi ABDA karena baru mengumumkan jadwal dan agenda rapat, belum mengungkap nama direksi yang akan diangkat atau diganti sehingga belum ada dasar untuk menilai arah dampaknya. Pergantian susunan direksi menyentuh sisi tata kelola perusahaan, bukan langsung ke angka seperti ekuitas atau laba per saham, tapi pelaku pasar tetap mencermatinya karena pucuk pimpinan baru bisa mengubah kebijakan bisnis yang pada akhirnya memengaruhi kinerja keuangan perseroan di kemudian hari. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 7 September 2026, saat nama-nama definitif direksi yang disetujui baru akan diketahui publik.",
+  "sentimen": "netral",
+  "imageV": "mstx5o14"
+ },
+ {
+  "slug": "pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september",
+  "category": "Aksi Korporasi",
+  "title": "PLTM Siapkan Rp106 Miliar Lunasi [Obligasi] Jatuh Tempo September",
+  "deck": "PLTM memastikan dana Rp106 miliar sudah tersedia untuk melunasi Obligasi II dan Sukuk Ijarah II Seri B yang jatuh tempo 8 September 2026, bersumber dari kas internal perusahaan.",
+  "image": "assets/img/pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T18:09:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c32ae070d4_b988c1df2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLTM",
+  "tags": [
+   "PLTM",
+   "obligasi",
+   "sukuk ijarah",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Polytama Propindo (PLTM) menyampaikan keterbukaan informasi kepada Bursa Efek Indonesia bahwa dana untuk pelunasan dua instrumen utang telah disiapkan. Sebesar Rp50 miliar dialokasikan untuk pokok Obligasi II PT Polytama Propindo Tahun 2021 Seri B, dan Rp56 miliar untuk pokok Sukuk Ijarah II Tahun 2021 Seri B, sehingga total dana yang disiapkan mencapai Rp106 miliar. Kedua instrumen ini jatuh tempo pada 8 September 2026, dan perusahaan memastikan dana sudah tersedia sejak 6 September 2026, sesuai Peraturan Bursa I-E butir IV.2.11 yang mewajibkan laporan kesiapan dana paling lambat 15 hari bursa sebelum jatuh tempo.",
+   "Perusahaan menyatakan sumber dana pelunasan berasal dari kas internal, bukan dari penerbitan utang baru atau refinancing. Dalam surat yang ditandatangani Dwinanto Kurniawan selaku Corporate Secretary sekaligus Direktur PLTM, disebutkan pula bahwa sampai saat pelaporan belum ada keputusan atau langkah manajemen lain terkait rencana pelunasan ini, dan perusahaan menilai tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha. Laporan ini turut ditembuskan ke Otoritas Jasa Keuangan dan PT Bank Mandiri Tbk selaku wali amanat kedua instrumen tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a petrochemical plant with steel pipelines and storage tanks under a hazy tropical sky, late afternoon light",
+  "takeaway": "Laporan ini condong positif bagi PLTM, karena perusahaan menegaskan sanggup melunasi Rp106 miliar utang jatuh tempo memakai kas sendiri, tanpa perlu menerbitkan utang baru atau menjual aset. Yang tersentuh di sini adalah arus kas perusahaan, yaitu uang tunai yang benar-benar dipegang dan bisa dipakai sewaktu-waktu, sebab dana pelunasan diambil dari kas internal, bukan dari pinjaman baru yang justru akan menambah beban bunga ke depan. Wali amanat yang mengawasi kepatuhan pembayaran obligasi dan sukuk ini adalah PT Bank Mandiri Tbk, dan OJK turut menerima tembusan laporan sebagai bentuk pengawasan. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada tanggal jatuh tempo 8 September 2026, sebab laporan ini baru memastikan dana tersedia, bukan bukti bahwa pembayaran sudah benar-benar dilakukan.",
+  "sentimen": "positif",
+  "imageV": "mstx66s9"
+ },
+ {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
@@ -510,6 +644,87 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan cuma kurs hari ini, tapi juga asumsi dasar yang dipakai pemerintah untuk tahun depan. Dalam RAPBN 2027, kurs acuan atau patokan resmi rupiah terhadap dolar justru ditetapkan Rp17.500, lebih lemah dari asumsi tahun ini yang Rp16.500, sementara target pertumbuhan ekonomi dinaikkan dari 5,4 persen ke 6 persen dan defisit anggaran, yaitu selisih antara belanja dan pendapatan negara, melebar ke Rp671,2 triliun dari total belanja Rp4.097 triliun. Ini kena ke pelaku usaha yang bergantung bahan baku impor dan ke pemerintah sendiri sebagai peminjam, karena keduanya harus menghitung biaya dengan asumsi rupiah yang lebih lemah dan utang yang lebih besar, meski pasar hari ini justru merespons pidato dengan menguatkan rupiah. Arahnya terlihat seperti pemerintah memilih mengejar pertumbuhan lebih tinggi dengan bantalan defisit dan kurs yang lebih longgar, ketimbang menahan rupiah tetap ketat. Yang akan memastikan bacaan ini adalah pembahasan RAPBN 2027 di DPR dalam beberapa bulan mendatang, termasuk apakah target pertumbuhan 6 persen itu disetujui utuh atau direvisi.",
   "imageV": "mssvvp9t"
+ },
+ {
+  "slug": "sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Terima [Pelunasan] Rp13,88 Miliar dari Anak Usaha DPI",
+  "deck": "Anak usaha DPI melunasi utang Rp13,875 miliar kepada Surya Fajar Capital, bagian dari pembelian saham SFUD yang disetujui RUPS Independen Juni lalu.",
+  "image": "assets/img/sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:54:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cdb73fb72c_5b78827cf3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SFAN",
+  "tags": [
+   "SFAN",
+   "DPI",
+   "divestasi",
+   "RUPS Independen"
+  ],
+  "body": [
+   "PT Surya Fajar Capital Tbk (SFAN) melaporkan bahwa anak usahanya, PT Digitalisasi Perangkat Indonesia (DPI), yang sahamnya dimiliki SFAN sebesar 51,95 persen, telah melunasi utang sebesar Rp13.875.000.000 kepada perseroan pada 13 Agustus 2026. Pembayaran ini merupakan tindak lanjut dari persetujuan Rapat Umum Pemegang Saham Independen (RUPS Independen) SFAN yang digelar pada 26 Juni 2026 terkait rencana divestasi dan pengalihan saham milik perseroan.",
+   "Menurut penjelasan SFAN, pembayaran oleh DPI ini adalah pelaksanaan kewajiban DPI sebagai pembeli saham PT SFUD yang dibeli dari SFAN, sesuai kesepakatan yang sudah disetujui RUPS Independen tersebut. Transaksi pembelian saham SFUD oleh DPI sebelumnya sudah pernah diungkapkan perseroan kepada Otoritas Jasa Keuangan lewat surat bernomor 048/SFC-CS/VII/2026 tertanggal 27 Juli 2026, yang berisi perubahan dan tambahan informasi soal transaksi material anak usaha tersebut.",
+   "SFAN menyatakan pelunasan utang ini tidak membawa dampak material terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani Direktur Utama SFAN, Ivo Rustandi, pada 14 Agustus 2026, dan tembusannya disampaikan ke Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern glass office tower in Jakarta's Mega Kuningan business district, overcast morning sky",
+  "takeaway": "Laporan ini condong positif bagi Surya Fajar Capital, karena menunjukkan uang tunai riil yang benar-benar masuk ke kas induk usaha, bukan sekadar rencana di atas kertas. Pos yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kegiatan perusahaan: pelunasan oleh DPI berarti SFAN punya tambahan dana tunai Rp13,875 miliar yang bisa dipakai untuk kebutuhan lain, sementara kewajiban DPI kepada induknya berkurang sebesar itu juga. Yang perlu dipantau berikutnya adalah kelanjutan proses divestasi dan pengalihan saham SFUD yang sudah disetujui RUPS Independen pada 26 Juni 2026, sebab pembayaran ini baru menuntaskan satu kewajiban dalam rangkaian transaksi tersebut, bukan tanda bahwa seluruh proses divestasinya sudah selesai.",
+  "sentimen": "positif",
+  "imageV": "mstx6s6b"
+ },
+ {
+  "slug": "dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "DART Jelaskan Lonjakan Transaksi ke BEI, [Tak] Ada Info Material",
+  "deck": "Merespons surat permintaan penjelasan BEI, Duta Anggada Realty menyatakan tidak mengetahui informasi material apa pun di balik volatilitas transaksi sahamnya.",
+  "image": "assets/img/dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:34:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10be41d1aa_127a9b28e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DART",
+  "tags": [
+   "DART",
+   "Duta Anggada Realty",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Duta Anggada Realty Tbk (DART) menjawab surat Bursa Efek Indonesia nomor S-10756/BEI.PP2/08-2026 yang meminta perseroan menjelaskan volatilitas transaksi efeknya. Jawaban resmi ini disampaikan oleh Corporate Secretary DART, Aka Permata, pada 14 Agustus 2026 pukul 17.34.",
+   "Dalam suratnya, DART menegaskan lima hal. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal sesuai POJK Nomor 31/POJK.04/2015. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham. Selain itu, DART menyatakan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang bisa berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan.",
+   "Perseroan menutup suratnya dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Exterior of a tall modern office tower in Jakarta's central business district, late afternoon light, no readable signage",
+  "takeaway": "Netral bagi fundamental DART, karena surat ini murni jawaban formal atas permintaan bursa dan tidak memuat satu pun data kinerja baru. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas, bukan arus kas, bukan beban bunga, bukan jumlah saham beredar, sebab isi surat hanya menegaskan manajemen tidak punya informasi baru, bukan laporan keuangan atau aksi korporasi. Artinya pelaku pasar tidak bisa memakai dokumen ini untuk menilai kesehatan bisnis DART, hanya untuk mengetahui bahwa lonjakan atau penurunan transaksi belakangan ini tidak dipicu kabar resmi dari perusahaan sendiri. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi DART mereda setelah penjelasan ini terbit, dan apakah dalam tiga bulan ke depan perseroan benar-benar tidak mengajukan aksi korporasi seperti yang dinyatakan dalam suratnya.",
+  "sentimen": "netral",
+  "imageV": "mstx7dj4"
+ },
+ {
+  "slug": "wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "WINS Ungkap Detail [Akuisisi] Fast Offshore di Public Expose",
+  "deck": "Dalam public expose 12 Agustus 2026, manajemen WINS merinci alasan akuisisi penuh Fast Offshore Supply dan Fast Offshore Indonesia yang masih rugi, serta kontrak baru penopangnya.",
+  "image": "assets/img/wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T17:28:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e166676c2_88f29e33e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "Wintermar Offshore Marine",
+   "Fast Offshore",
+   "public expose"
+  ],
+  "body": [
+   "Wintermar Offshore Marine (WINS) menggelar public expose tahunan secara virtual pada Rabu, 12 Agustus 2026, dihadiri 67 peserta eksternal yang terdiri dari investor individu dan analis sekuritas seperti Trimegah, RHB, BNI Sekuritas, Maybank, CGS International, dan Mirae Asset. Dalam sesi tanya jawab, Direktur Utama Sugiman Layanto, Direktur Janto Lili, dan Head of Corporate Planning and Investor Relations Pek Swan menjelaskan alasan Perseroan mengambil alih penuh Fast Offshore Supply (FOS) dan Fast Offshore Indonesia (FOI), meski kedua entitas itu masih mencatat kerugian pada semester pertama 2026. Manajemen menyebut FOS baru mendapat dua kontrak besar pembangunan kapal Crew Transfer Vessel, salah satunya didukung kontrak sewa lima tahun, sementara FOI sudah mengamankan kontrak untuk dua unit kapal hingga 2028. Akuisisi ini diperkirakan menekan laba Perseroan pada 2026, sebelum mendorong pertumbuhan signifikan pada 2027 dan 2028 seiring pengiriman kapal baru.",
+   "Soal angka keuangan, manajemen mengungkapkan nilai kontrak yang dipegang Perseroan sebelum akuisisi FOS mencapai 58 juta dolar AS, di mana sekitar sepertiganya berdurasi lebih dari satu tahun. Kenaikan kepentingan non-pengendali pada semester I 2026, yaitu porsi laba anak usaha yang menjadi hak pemegang saham minoritas di luar WINS, dijelaskan berasal dari kinerja kuat kapal jenis Platform Supply Vessel milik perusahaan patungan. Armada Perseroan saat ini berjumlah 52 unit kapal. Dua kapal yang baru diakuisisi masing-masing berusia sekitar 17 tahun dan 10 tahun, dibiayai kombinasi kas internal sebesar 20 sampai 30 persen dan sisanya dari fasilitas pinjaman bank.",
+   "Untuk proyek migas domestik, manajemen menyatakan tetap berpartisipasi dalam tender proyek ENI yang mengambil alih Blok IDD dari Chevron dan proyek Inpex, meski kebutuhan kapal baru untuk keduanya baru diperkirakan terealisasi pada 2028 atau 2029. Perseroan memutuskan mundur dari proyek Kasuari milik Genting Oil karena durasi kontrak yang terlalu panjang dan skema pembayaran dalam Rupiah dinilai berisiko. Sebelum akuisisi FOS, 75 persen pendapatan Perseroan berasal dari Indonesia, dan porsi pendapatan dari luar negeri diperkirakan naik signifikan setelah akuisisi rampung. Perseroan juga menegaskan sudah berhenti memasarkan kapal segmen low tier dan akan fokus membangun kapal mid tier serta high tier berteknologi Dynamic Positioning."
+  ],
+  "fotoAdegan": "Crew transfer vessel motoring away from an offshore platform, choppy sea, workers in orange coveralls on deck",
+  "takeaway": "Laporan ini condong netral bagi WINS, karena ada tekanan jangka pendek yang diakui sendiri oleh manajemen, diimbangi bantalan kontrak jangka panjang yang sudah di tangan. Yang tersentuh adalah laba dan kepentingan non-pengendali, yakni porsi laba anak usaha yang wajib dibagi ke pemegang saham minoritas di luar WINS, karena manajemen menyatakan akuisisi FOS dan FOI akan menekan laba 2026 sebelum kontrak-kontrak baru mendorong pertumbuhan pada 2027 dan 2028. Nilai kontrak yang sudah dipegang Perseroan, 58 juta dolar AS sebelum akuisisi FOS, dan komitmen kontrak FOI sampai 2028, membuat penurunan laba tahun ini lebih terlihat sebagai konsekuensi terukur ketimbang tanda bahaya. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal III dan IV 2026, untuk melihat apakah kerugian FOS dan FOI mulai mengecil seperti diklaim manajemen, serta kelanjutan tender proyek ENI dan Inpex yang saat ini masih berjalan.",
+  "sentimen": "netral",
+  "imageV": "mstx80cl"
  },
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",

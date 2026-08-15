@@ -15,7 +15,7 @@ var RAPOR = {
    "id": "2026-08-14-3",
    "edisi": "2026-08-14",
    "benang": "Klaim capaian pidato kenegaraan versus realisasi lapangan",
-   "klaim": "Angka-angka capaian dalam pidato kenegaraan Prabowo menggambarkan skala rencana atau tahap awal, bukan hasil yang sudah berjalan, dan yang akan menunjukkan apakah jarak antara klaim dan realisasi ini menyempit adalah data checkpoint berikutnya seperti jumlah koperasi aktif atau progres RUPTL PLTA-PLTM menjelang akhir 2026.",
+   "klaim": "Angka-angka capaian dalam pidato kenegaraan Presiden Prabowo menggambarkan skala rencana atau tahap awal, bukan hasil yang sudah berjalan, dan yang akan menunjukkan apakah jarak antara klaim dan realisasi ini menyempit adalah data checkpoint berikutnya seperti jumlah koperasi aktif atau progres RUPTL PLTA-PLTM menjelang akhir 2026.",
    "penanda": "data checkpoint berikutnya seperti jumlah koperasi desa aktif atau progres RUPTL PLTA-PLTM",
    "tenggat": "2026-12-31",
    "tenggatLabel": "menjelang akhir 2026",

@@ -65,6 +65,11 @@ const GAYA = [
   '- Hindari tanda hubung panjang (em dash). Pakai koma atau titik.',
   '- Jangan pakai kata bombastis seperti "mengejutkan", "gila", "wajib tahu".',
   '- Tulis angka besar dengan format Indonesia: Rp1,5 triliun, 7,2 persen.',
+  '- SEBUTAN KEPALA NEGARA, WAJIB: tulis "Presiden Prabowo" atau "Presiden Prabowo',
+  '  Subianto", TIDAK PERNAH "Prabowo" saja, termasuk di judul, deck, tag, dan',
+  '  pada penyebutan kedua dan seterusnya di dalam satu artikel. Berlaku juga',
+  '  untuk kepala negara lain: sebut jabatannya, jangan nama telanjang.',
+  '  Pengecualian: kutipan langsung narasumber disalin apa adanya.',
 ].join('\n');
 
 // Tiap artikel membawa adegan fotonya sendiri, dipakai membuat gambar khusus

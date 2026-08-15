@@ -1379,6 +1379,29 @@ if (fotoHilang.length) {
   }
 }
 
+// Penjaga kelima: sebutan kepala negara tanpa gelar.
+//
+// Aturan pemilik 14 Agustus 2026: selalu "Presiden Prabowo", tidak pernah
+// nama telanjang. Aturannya sudah ada di GAYA, tapi prompt bukan jaminan;
+// model bisa membandel diam-diam dan tak ada yang menghitung, persis seperti
+// catatan arah yang dulu kosong di 107 artikel tanpa ketahuan berbulan-bulan.
+//
+// Peringatan, bukan penghentian: sebutan yang kurang lengkap tidak
+// menyesatkan pembaca soal fakta, jadi tidak sepadan dengan menahan seluruh
+// terbitan. Yang penting angkanya TERLIHAT tiap build. "Pak Prabowo" di
+// dalam kutipan narasumber sengaja tidak dihitung sebagai pelanggaran.
+{
+  const pola = /(?<!Presiden )(?<!Pak )Prabowo/;
+  const telanjang = ARTICLES.filter(a =>
+    pola.test([a.title, a.deck, a.takeaway, (a.tags || []).join(' '),
+      (a.body || []).join(' ')].join(' ')));
+  if (telanjang.length) {
+    console.warn('PERINGATAN: ' + telanjang.length + ' artikel menyebut kepala negara tanpa gelar.');
+    console.warn('  Perbaiki: node scripts/perbaiki-gelar.mjs');
+    telanjang.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
+  }
+}
+
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
 console.log('sitemap urls:', urls.length);

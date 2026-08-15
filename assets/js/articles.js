@@ -243,8 +243,8 @@ var ARTICLES = [
  {
   "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
   "category": "Pasar Modal",
-  "title": "IHSG [Melesat] 1,59% Usai Prabowo Pidato RAPBN 2027",
-  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
+  "title": "IHSG [Melesat] 1,59% Usai Presiden Prabowo Pidato RAPBN 2027",
+  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Presiden Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
   "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T18:36:25+07:00",
@@ -252,7 +252,7 @@ var ARTICLES = [
   "tags": [
    "IHSG",
    "RAPBN 2027",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "defisit anggaran"
   ],
   "body": [
@@ -270,8 +270,8 @@ var ARTICLES = [
  {
   "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
   "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Prabowo",
-  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
+  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Presiden Prabowo",
+  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Presiden Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
   "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T18:08:34+07:00",
@@ -280,11 +280,11 @@ var ARTICLES = [
    "rupiah",
    "RAPBN 2027",
    "kurs dolar",
-   "Prabowo Subianto"
+   "Presiden Prabowo Subianto"
   ],
   "body": [
    "Nilai tukar rupiah terhadap dolar Amerika Serikat menguat 50 poin atau 0,28 persen ke level Rp17.827 pada penutupan perdagangan Jumat (14/8/2026), dari sebelumnya Rp17.877. Penguatan ini terjadi tak lama setelah Presiden Prabowo Subianto menyampaikan pidato mengenai Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027 di hadapan DPR. Pergerakan ini penting dicermati karena kurs rupiah biasa jadi indikator cepat bagaimana pasar keuangan menilai arah kebijakan fiskal pemerintah untuk tahun mendatang.",
-   "Analis mata uang dari Doo Financial Futures, Lukman Leong, menyebut penguatan rupiah dan kenaikan Indeks Harga Saham Gabungan (IHSG) hari ini sebagai respons positif pasar terhadap pidato tersebut, meski ia menandainya sebagai sikap 'cautiously positive' atau optimistis dengan tetap berhati-hati. Dalam pidatonya, Prabowo memaparkan sejumlah target ekonomi utama RAPBN 2027, di antaranya pertumbuhan ekonomi 6 persen, naik dari asumsi 5,4 persen pada APBN 2026, serta target inflasi 2,5 persen.",
+   "Analis mata uang dari Doo Financial Futures, Lukman Leong, menyebut penguatan rupiah dan kenaikan Indeks Harga Saham Gabungan (IHSG) hari ini sebagai respons positif pasar terhadap pidato tersebut, meski ia menandainya sebagai sikap 'cautiously positive' atau optimistis dengan tetap berhati-hati. Dalam pidatonya, Presiden Prabowo memaparkan sejumlah target ekonomi utama RAPBN 2027, di antaranya pertumbuhan ekonomi 6 persen, naik dari asumsi 5,4 persen pada APBN 2026, serta target inflasi 2,5 persen.",
    "Dari sisi anggaran, pemerintah memproyeksikan defisit sebesar Rp671,2 triliun atau setara 2,4 persen dari Produk Domestik Bruto, dengan total belanja negara mencapai Rp4.097 triliun. Untuk pembiayaan, asumsi bunga Surat Berharga Negara tenor 10 tahun dipatok 6,9 persen, sementara kurs acuan rupiah dalam RAPBN 2027 ditetapkan Rp17.500 per dolar AS, lebih lemah dibanding asumsi APBN 2026 yang sebesar Rp16.500. Di sektor energi, pemerintah menaikkan asumsi harga minyak mentah Indonesia (ICP) menjadi 75 dolar AS per barel dari 70 dolar AS, dengan target lifting minyak tetap di 610 ribu barel per hari dan lifting gas turun menjadi 954 ribu barel setara minyak per hari dari 984 ribu.",
    "Pada indikator kesejahteraan, pemerintah menargetkan tingkat kemiskinan turun ke kisaran 6-6,5 persen, dari sasaran 6,5-7,5 persen di tahun ini. Target tingkat pengangguran terbuka ditetapkan 4,3-4,87 persen, indeks modal manusia 0,575, dan rasio gini pada rentang 0,362-0,367. Lukman menilai rangkaian target makroekonomi tersebut secara umum masih dapat diterima pelaku pasar, yang turut menopang sentimen positif terhadap rupiah hari ini."
   ],
@@ -297,8 +297,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
   "category": "BUMN",
-  "title": "Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
-  "deck": "Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
+  "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
+  "deck": "Presiden Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
   "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T17:05:28+07:00",
@@ -306,26 +306,26 @@ var ARTICLES = [
   "tags": [
    "BUMN",
    "aset negara",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "APBN 2027"
   ],
   "body": [
    "Presiden Prabowo Subianto membuka peluang bagi pihak swasta untuk ikut mengoperasikan aset strategis milik negara yang selama ini tidak dikelola maksimal oleh BUMN, termasuk bandara. Ini penting bagi pembaca karena menyangkut fasilitas publik yang dipakai sehari-hari, dan menentukan siapa yang akan menjalankannya ke depan meski kepemilikannya tetap di tangan negara.",
-   "Rencana ini disampaikan Prabowo saat memaparkan RUU APBN 2027 dan Nota Keuangan dalam Sidang Tahunan MPR RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026). Ia menyebut langkah ini menyatu dengan program pembersihan BUMN yang sudah berjalan: 290 perusahaan pelat merah yang dinilai tidak produktif telah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN yang benar-benar produktif hingga akhir tahun ini.",
-   "Aset yang disasar mencakup tanah, gedung, jaringan, kawasan, hingga berbagai fasilitas milik BUMN yang belum menghasilkan nilai ekonomi maksimal. Pemerintah akan membuka kerja sama dengan swasta lewat proses yang disebut Prabowo terbuka, kompetitif, dan akuntabel, dengan syarat kepemilikan strategis aset tetap dipegang negara.",
-   "Prabowo menjadikan India sebagai rujukan lewat skema yang mereka sebut National Monetisation Pipeline, di mana swasta diberi ruang mengoperasikan aset publik yang sudah terbangun tanpa mengambil alih kepemilikannya. Menurut dia, dana yang diperoleh dari skema semacam itu bisa diputar kembali untuk membiayai pembangunan infrastruktur baru."
+   "Rencana ini disampaikan Presiden Prabowo saat memaparkan RUU APBN 2027 dan Nota Keuangan dalam Sidang Tahunan MPR RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026). Ia menyebut langkah ini menyatu dengan program pembersihan BUMN yang sudah berjalan: 290 perusahaan pelat merah yang dinilai tidak produktif telah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN yang benar-benar produktif hingga akhir tahun ini.",
+   "Aset yang disasar mencakup tanah, gedung, jaringan, kawasan, hingga berbagai fasilitas milik BUMN yang belum menghasilkan nilai ekonomi maksimal. Pemerintah akan membuka kerja sama dengan swasta lewat proses yang disebut Presiden Prabowo terbuka, kompetitif, dan akuntabel, dengan syarat kepemilikan strategis aset tetap dipegang negara.",
+   "Presiden Prabowo menjadikan India sebagai rujukan lewat skema yang mereka sebut National Monetisation Pipeline, di mana swasta diberi ruang mengoperasikan aset publik yang sudah terbangun tanpa mengambil alih kepemilikannya. Menurut dia, dana yang diperoleh dari skema semacam itu bisa diputar kembali untuk membiayai pembangunan infrastruktur baru."
   ],
   "fotoAdegan": "Ground crew guiding a taxiing airplane near a terminal gate while baggage carts move across the tarmac, overcast morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ee0bb4e57e-presiden-prabowo-berpidato-menyampaikan-ruu-apbn-2027-dan-nota-keuangan-di-kompleks-parlemen-jakarta-jumat-1482026_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
+  "takeaway": "Yang berubah konkret adalah pemerintah membuka jalan bagi swasta untuk mengoperasikan aset BUMN yang menganggur, termasuk bandara, lewat proses terbuka dan kompetitif, sementara kepemilikannya tetap di tangan negara, mengikuti pola yang disebut Presiden Prabowo dari India. Ini berjalan beriringan dengan pembersihan BUMN, dengan 290 perusahaan sudah ditutup dan target maksimal 300 BUMN produktif sampai akhir tahun. Pihak yang langsung terdampak adalah BUMN pengelola aset semacam bandara serta pelaku usaha swasta yang berpeluang menjadi operator baru. Arah pastinya belum bisa dibaca dari pidato ini saja, sebab belum ada daftar aset mana yang akan ditawarkan lebih dulu, skema kerja sama seperti apa yang dipakai, atau aturan turunan yang mengatur prosesnya, sehingga yang perlu ditunggu adalah rincian di dokumen RUU APBN 2027 dan Nota Keuangan atau peraturan pelaksana yang menyusul setelah sidang tahunan ini.",
   "imageV": "mssvvpxm"
  },
  {
   "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
   "category": "Makroekonomi",
   "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
-  "deck": "Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
+  "deck": "Presiden Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
   "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:39:29+07:00",
@@ -338,8 +338,8 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menyampaikan bahwa perekonomian Indonesia tetap mendapat kepercayaan dari dunia internasional, meski tekanan ekonomi global belum reda. Pernyataan itu ia sampaikan dalam Pidato Kenegaraan di Rapat Paripurna DPR RI sekaligus penyampaian RAPBN 2027 di Jakarta, Jumat, 14 Agustus 2026. Bagi pembaca, ini relevan karena penilaian lembaga pemeringkat internasional ikut menentukan seberapa mahal biaya pinjaman yang harus ditanggung pemerintah dan dunia usaha Indonesia ke depan.",
-   "Prabowo menyebut Indonesia memasuki 2026 dengan sejumlah tantangan global, mulai dari kenaikan harga energi, suku bunga tinggi, tekanan nilai tukar, hingga ketegangan geopolitik yang mengganggu perdagangan dunia. Di tengah kondisi itu, ia mengklaim ekonomi nasional pada semester pertama 2026 tumbuh paling tinggi dalam 13 tahun terakhir, dengan inflasi yang tetap terkendali dan permintaan domestik yang masih kuat.",
-   "Salah satu bukti kepercayaan itu datang dari Standard & Poor's yang pada 13 Juli 2026 mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap berada di kategori investment grade, yakni negara yang dianggap cukup aman untuk dipinjami. Menurut Prabowo, penilaian S&P itu didasarkan pada prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang berhati-hati, serta beban utang yang dinilai relatif terjaga dibanding negara-negara dengan karakteristik serupa.",
+   "Presiden Prabowo menyebut Indonesia memasuki 2026 dengan sejumlah tantangan global, mulai dari kenaikan harga energi, suku bunga tinggi, tekanan nilai tukar, hingga ketegangan geopolitik yang mengganggu perdagangan dunia. Di tengah kondisi itu, ia mengklaim ekonomi nasional pada semester pertama 2026 tumbuh paling tinggi dalam 13 tahun terakhir, dengan inflasi yang tetap terkendali dan permintaan domestik yang masih kuat.",
+   "Salah satu bukti kepercayaan itu datang dari Standard & Poor's yang pada 13 Juli 2026 mempertahankan peringkat kredit Indonesia di level BBB dengan outlook stabil, sehingga Indonesia tetap berada di kategori investment grade, yakni negara yang dianggap cukup aman untuk dipinjami. Menurut Presiden Prabowo, penilaian S&P itu didasarkan pada prospek pertumbuhan ekonomi yang kokoh, kebijakan makroekonomi yang berhati-hati, serta beban utang yang dinilai relatif terjaga dibanding negara-negara dengan karakteristik serupa.",
    "Selain S&P, lembaga pemeringkat asal China, China Lianhe, turut memberikan peringkat AAA untuk Panda Bonds, yaitu obligasi berdenominasi yuan yang diterbitkan Indonesia di pasar China. Kedua penilaian ini menjadi bagian dari klaim pemerintah bahwa fondasi ekonomi Indonesia masih dipandang solid oleh pihak luar, bersamaan dengan diajukannya RAPBN 2027 ke DPR."
   ],
   "fotoAdegan": "Wide shot of Jakarta's central business district skyline at sunrise, glass office towers, light traffic on the street below",
@@ -351,8 +351,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
   "category": "Industri",
-  "title": "Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
-  "deck": "Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
+  "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
+  "deck": "Presiden Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
   "image": "assets/img/buruh-pabrik.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:30:24+07:00",
@@ -365,60 +365,60 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menyoroti selisih besar antara harga jual minyak sawit mentah (CPO) dari Indonesia dengan harga yang terbentuk di pasar internasional, dalam pidato kenegaraan pada Sidang Tahunan MPR dan Sidang Bersama DPR RI di Jakarta, Jumat (14/8/2026). Ia menyebut kondisi ini membuat Indonesia kehilangan sebagian besar nilai ekonomi dari komoditas andalannya sendiri, meski negara pembanding seperti Belanda sama sekali tidak memiliki kebun sawit.",
-   "Menurut Prabowo, CPO Indonesia sebelumnya dijual di pelabuhan dalam negeri dengan harga sekitar Rp15.000 per kilogram, sementara harga yang terbentuk di bursa CPO Rotterdam, Belanda, mencapai Rp27.000 per kilogram. Selisih itu, kata dia, membuat Indonesia kehilangan hampir separuh nilai ekonomi dari komoditas sawitnya sendiri hanya karena harga acuan ditentukan di pasar luar negeri.",
+   "Menurut Presiden Prabowo, CPO Indonesia sebelumnya dijual di pelabuhan dalam negeri dengan harga sekitar Rp15.000 per kilogram, sementara harga yang terbentuk di bursa CPO Rotterdam, Belanda, mencapai Rp27.000 per kilogram. Selisih itu, kata dia, membuat Indonesia kehilangan hampir separuh nilai ekonomi dari komoditas sawitnya sendiri hanya karena harga acuan ditentukan di pasar luar negeri.",
    "Untuk mengatasi kebocoran nilai tersebut, pemerintah membentuk PT Danantara Sumberdaya Indonesia (DSI), lembaga yang mulai beroperasi sejak 1 Juni 2026 untuk memperkuat pengelolaan dan pengawasan uang hasil ekspor komoditas strategis. Dalam dua bulan 13 hari sejak beroperasi, DSI telah memantau lebih dari 6.500 transaksi ekspor dari tiga komoditas strategis senilai total US$14 miliar, dan menemukan potensi tambahan pemasukan sebesar US$5 miliar dari penyesuaian harga, kualitas, serta pembayaran devisa hasil ekspor.",
-   "Prabowo menyampaikan pengawasan DSI ke depan akan diperluas hingga mencakup 50 pelabuhan di 25 provinsi, dengan target akhir seluruh komoditas ekspor strategis masuk dalam pengawasan lembaga tersebut, tidak lagi terbatas pada tiga komoditas yang dipantau saat ini. Ia menegaskan penguatan pengawasan ini bertujuan memastikan kekayaan alam Indonesia memberi manfaat lebih besar bagi negara dan masyarakat, bukan dinikmati pihak tertentu di dalam maupun luar negeri."
+   "Presiden Prabowo menyampaikan pengawasan DSI ke depan akan diperluas hingga mencakup 50 pelabuhan di 25 provinsi, dengan target akhir seluruh komoditas ekspor strategis masuk dalam pengawasan lembaga tersebut, tidak lagi terbatas pada tiga komoditas yang dipantau saat ini. Ia menegaskan penguatan pengawasan ini bertujuan memastikan kekayaan alam Indonesia memberi manfaat lebih besar bagi negara dan masyarakat, bukan dinikmati pihak tertentu di dalam maupun luar negeri."
   ],
   "fotoAdegan": "Workers loading palm oil drums onto a cargo ship at a busy Indonesian port, cranes and containers in soft morning light",
   "fotoSumber": "",
   "kreditFoto": "",
-  "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
+  "takeaway": "Yang berubah bukan cuma soal harga sawit yang disorot Presiden Prabowo, melainkan mekanisme baru pengawasan uang hasil ekspor lewat Danantara Sumberdaya Indonesia, yang dalam dua bulan lebih memantau 6.500 transaksi ekspor tiga komoditas senilai US$14 miliar dan menemukan potensi tambahan pemasukan US$5 miliar dari selisih harga, kualitas, dan pembayaran. Yang terdampak langsung adalah eksportir komoditas strategis seperti sawit, karena transaksi mereka kini diperiksa lebih ketat sebelum dan sesudah pengapalan, dan ke depan pelaku usaha di 50 pelabuhan serta 25 provinsi juga akan masuk radar yang sama. Polanya mengarah ke perluasan pengawasan devisa ekspor secara bertahap, dari tiga komoditas menuju seluruh komoditas strategis, ketimbang aturan yang langsung berlaku menyeluruh sekali jalan. Yang akan memastikan arah ini benar-benar berjalan adalah apakah perluasan ke 50 pelabuhan itu terealisasi dan berapa besar dari temuan US$5 miliar itu yang benar-benar berhasil ditagih ke kas negara.",
   "fotoDitolak": true
  },
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
   "category": "BUMN",
-  "title": "Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
-  "deck": "Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "title": "Presiden Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
+  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
   "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T16:00:09+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459878-prabowo-pangkas-bumn-tak-produktif-rp50-triliun-hemat-dan-750-perusahaan-lagi-bakal-ditutup",
   "tags": [
    "BUMN",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "restrukturisasi BUMN",
    "APBN"
   ],
   "body": [
    "Presiden Prabowo Subianto melaporkan bahwa pemerintah telah menutup 290 dari 1.074 Badan Usaha Milik Negara sejak awal masa jabatannya hingga 14 Agustus 2026. Laporan ini disampaikan dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI di Senayan, Jumat (14/8/2026), dan diklaim menghasilkan penghematan biaya operasional hingga Rp50 triliun. Bagi publik, angka ini jadi tolok ukur seberapa jauh perampingan BUMN yang selama ini digaungkan pemerintah benar-benar berjalan, sekaligus sinyal soal dana yang berpotensi dialihkan ke program lain.",
-   "Prabowo menyebut penutupan dilakukan terhadap perusahaan pelat merah yang dinilai tidak produktif dan terus merugi. Penghematan Rp50 triliun itu disebut berasal dari pos-pos seperti gaji jajaran direksi, biaya perjalanan dinas, sewa gedung kantor, dan sewa kendaraan operasional yang selama ini membebani perusahaan-perusahaan tersebut. Dana yang dihemat, menurut Prabowo, akan bisa dialihkan untuk kebutuhan lain yang manfaatnya lebih terasa langsung oleh masyarakat.",
-   "Pemerintah tidak berhenti di angka 290. Prabowo menargetkan pada 31 Desember 2026 jumlah BUMN yang dipertahankan tinggal maksimal 300 perusahaan, yang berarti lebih dari 750 BUMN lainnya harus ditutup dalam sisa tahun ini. Ia menegaskan hanya perusahaan yang benar-benar produktif dan menciptakan nilai tambah bagi rakyat yang akan dipertahankan, dan menyebut proses ini berpotensi menjadi salah satu restrukturisasi korporasi berskala terbesar di dunia."
+   "Presiden Prabowo menyebut penutupan dilakukan terhadap perusahaan pelat merah yang dinilai tidak produktif dan terus merugi. Penghematan Rp50 triliun itu disebut berasal dari pos-pos seperti gaji jajaran direksi, biaya perjalanan dinas, sewa gedung kantor, dan sewa kendaraan operasional yang selama ini membebani perusahaan-perusahaan tersebut. Dana yang dihemat, menurut Presiden Prabowo, akan bisa dialihkan untuk kebutuhan lain yang manfaatnya lebih terasa langsung oleh masyarakat.",
+   "Pemerintah tidak berhenti di angka 290. Presiden Prabowo menargetkan pada 31 Desember 2026 jumlah BUMN yang dipertahankan tinggal maksimal 300 perusahaan, yang berarti lebih dari 750 BUMN lainnya harus ditutup dalam sisa tahun ini. Ia menegaskan hanya perusahaan yang benar-benar produktif dan menciptakan nilai tambah bagi rakyat yang akan dipertahankan, dan menyebut proses ini berpotensi menjadi salah satu restrukturisasi korporasi berskala terbesar di dunia."
   ],
   "fotoAdegan": "Rows of empty office cubicles in a state-owned company building, unplugged computers and stacked moving boxes, dim afternoon light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/02/06/65c173e4bac75-logo-bumn_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Prabowo menjabat, sedangkan target 750 BUMN berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
+  "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Presiden Prabowo menjabat, sedangkan target 750 BUMN berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
   "imageV": "msss9c94"
  },
  {
   "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
   "category": "BUMN",
-  "title": "Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
-  "deck": "Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
+  "title": "Presiden Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
+  "deck": "Presiden Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
   "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T15:44:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300",
   "tags": [
    "BUMN",
-   "Prabowo Subianto",
+   "Presiden Prabowo Subianto",
    "restrukturisasi BUMN",
    "Sidang Tahunan MPR"
   ],
   "body": [
    "Presiden Prabowo Subianto mengungkapkan bahwa 290 badan usaha milik negara telah ditutup pemerintah, dengan evaluasi yang masih berlanjut hingga akhir tahun ini. Pernyataan itu disampaikan dalam pidato di Sidang Tahunan MPR di Kompleks Parlemen, Jakarta Pusat, Jumat (14/8/2026).",
-   "Prabowo mengaku kaget saat mengetahui jumlah BUMN yang sesungguhnya jauh lebih banyak dari perkiraannya. Ia menyebut total ada 1.074 BUMN jika dihitung sampai ke tingkat anak, cucu, bahkan cicit perusahaan, padahal semula ia mengira jumlahnya hanya sekitar 300 sampai 400.",
+   "Presiden Prabowo mengaku kaget saat mengetahui jumlah BUMN yang sesungguhnya jauh lebih banyak dari perkiraannya. Ia menyebut total ada 1.074 BUMN jika dihitung sampai ke tingkat anak, cucu, bahkan cicit perusahaan, padahal semula ia mengira jumlahnya hanya sekitar 300 sampai 400.",
    "Menyusul temuan itu, pemerintah menetapkan target baru, paling banyak 300 BUMN yang akan dipertahankan hingga 31 Desember 2026. Itu berarti lebih dari 750 BUMN direncanakan ditutup karena dinilai tidak produktif, sementara perusahaan yang dipertahankan hanya yang benar-benar menciptakan nilai tambah bagi masyarakat."
   ],
   "fotoAdegan": "Rows of empty desks and stacked cardboard boxes in a vacated corporate office, midday light through large windows, Jakarta skyline visible outside.",
@@ -619,7 +619,7 @@ var ARTICLES = [
   "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
   "category": "BUMN",
   "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
-  "deck": "Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
+  "deck": "Presiden Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
   "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T14:57:48+07:00",
@@ -632,9 +632,9 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengungkapkan lonjakan keuntungan PT Timah Tbk dalam pidato kenegaraan di Sidang Tahunan MPR serta Sidang Bersama DPR dan DPD RI, Jumat, 14 Agustus 2026. Ia mengaitkan kenaikan laba perusahaan tambang milik negara itu dengan penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung pada akhir 2025.",
-   "Menurut Prabowo, laba PT Timah dalam enam bulan pertama 2026 mencapai Rp2,7 triliun, naik sekitar sembilan kali lipat atau 900 persen dibanding periode yang sama tahun sebelumnya. Ia juga menyebut valuasi perusahaan naik 280 persen pada Agustus 2026 dibanding Agustus 2025.",
-   "Prabowo menyampaikan angka tersebut sebagai bagian dari paparan kinerja sejumlah BUMN yang menurutnya membaik setelah pemerintah melakukan pembenahan. Ia mencontohkan PT Semen Indonesia yang laba bersihnya disebut naik 408,9 persen pada semester pertama 2026 dibanding periode sama tahun lalu.",
-   "Penertiban tambang ilegal di Bangka Belitung disebut Prabowo sebagai bagian dari upaya pemerintah membenahi pengelolaan kekayaan negara agar sumber daya alam memberi manfaat lebih besar bagi perekonomian nasional."
+   "Menurut Presiden Prabowo, laba PT Timah dalam enam bulan pertama 2026 mencapai Rp2,7 triliun, naik sekitar sembilan kali lipat atau 900 persen dibanding periode yang sama tahun sebelumnya. Ia juga menyebut valuasi perusahaan naik 280 persen pada Agustus 2026 dibanding Agustus 2025.",
+   "Presiden Prabowo menyampaikan angka tersebut sebagai bagian dari paparan kinerja sejumlah BUMN yang menurutnya membaik setelah pemerintah melakukan pembenahan. Ia mencontohkan PT Semen Indonesia yang laba bersihnya disebut naik 408,9 persen pada semester pertama 2026 dibanding periode sama tahun lalu.",
+   "Penertiban tambang ilegal di Bangka Belitung disebut Presiden Prabowo sebagai bagian dari upaya pemerintah membenahi pengelolaan kekayaan negara agar sumber daya alam memberi manfaat lebih besar bagi perekonomian nasional."
   ],
   "fotoAdegan": "Small tin mining pontoon dredges anchored on a muddy river near dense jungle in Bangka Belitung, overcast day",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/05/05/68181b769aa25-ilustrasi-pt-timah-tbk_1200_675.jpg",
@@ -809,7 +809,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
   "category": "Makroekonomi",
-  "title": "Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
+  "title": "Presiden Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
   "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
   "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
   "date": "14 Agustus 2026",
@@ -836,7 +836,7 @@ var ARTICLES = [
   "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
   "category": "Makroekonomi",
   "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
-  "deck": "Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
+  "deck": "Presiden Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
   "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T12:26:56+07:00",
@@ -848,9 +848,9 @@ var ARTICLES = [
    "pertumbuhan ekonomi"
   ],
   "body": [
-   "Presiden Prabowo Subianto menyampaikan bahwa realisasi investasi di Indonesia sepanjang 2025 mencapai Rp1.931 triliun, capaian yang menurutnya diraih meski dunia sedang dibayangi ketegangan geopolitik, perang dagang, dan gangguan rantai pasok global. Investasi sebesar itu disebut membuka lebih dari 2,7 juta lapangan kerja baru bagi masyarakat. Pernyataan ini disampaikan Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026.",
-   "Tren tersebut berlanjut memasuki 2026. Pada semester pertama tahun ini, realisasi investasi sudah mencapai Rp1.010 triliun dan menciptakan lebih dari 1,4 juta lapangan kerja. Prabowo menyebut capaian ini sebagai bukti kepercayaan dunia usaha terhadap perekonomian nasional tetap terjaga, sekaligus menegaskan pentingnya Indonesia semakin mandiri di tengah tekanan ekonomi global.",
-   "Selain data investasi, Prabowo juga memaparkan kinerja pertumbuhan ekonomi nasional pada awal 2026. Produk domestik bruto Indonesia tumbuh 5,61 persen pada kuartal pertama 2026, sementara rata-rata pertumbuhan sepanjang semester pertama tahun ini tercatat 5,45 persen."
+   "Presiden Prabowo Subianto menyampaikan bahwa realisasi investasi di Indonesia sepanjang 2025 mencapai Rp1.931 triliun, capaian yang menurutnya diraih meski dunia sedang dibayangi ketegangan geopolitik, perang dagang, dan gangguan rantai pasok global. Investasi sebesar itu disebut membuka lebih dari 2,7 juta lapangan kerja baru bagi masyarakat. Pernyataan ini disampaikan Presiden Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026.",
+   "Tren tersebut berlanjut memasuki 2026. Pada semester pertama tahun ini, realisasi investasi sudah mencapai Rp1.010 triliun dan menciptakan lebih dari 1,4 juta lapangan kerja. Presiden Prabowo menyebut capaian ini sebagai bukti kepercayaan dunia usaha terhadap perekonomian nasional tetap terjaga, sekaligus menegaskan pentingnya Indonesia semakin mandiri di tengah tekanan ekonomi global.",
+   "Selain data investasi, Presiden Prabowo juga memaparkan kinerja pertumbuhan ekonomi nasional pada awal 2026. Produk domestik bruto Indonesia tumbuh 5,61 persen pada kuartal pertama 2026, sementara rata-rata pertumbuhan sepanjang semester pertama tahun ini tercatat 5,45 persen."
   ],
   "fotoAdegan": "Factory workers assembling machine parts on a busy production line inside a modern industrial plant, morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7e94360a0dc-presiden-prabowo-subianto_1200_675.jpg",
@@ -1046,8 +1046,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
   "category": "Makroekonomi",
-  "title": "Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
-  "deck": "Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
+  "title": "Presiden Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
+  "deck": "Presiden Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
   "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
   "date": "14 Agustus 2026",
   "isoDate": "2026-08-14T10:57:58+07:00",
@@ -1060,14 +1060,14 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengklaim keberhasilan pemerintah mempercepat capaian swasembada pangan, menurunkan harga pupuk, dan menghentikan impor solar melalui program biodiesel B50. Klaim ini disampaikan dalam pidato kenegaraan pada Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI di Jakarta, Jumat, 14 Agustus 2026. Bagi publik, pernyataan ini penting karena menyangkut tiga isu yang langsung memengaruhi biaya hidup dan usaha, yakni ketahanan pangan, harga input pertanian, dan ketergantungan energi impor.",
-   "Prabowo menyebut target swasembada pangan yang semula diproyeksikan baru tercapai dalam empat sampai lima tahun, kini sudah terwujud hanya dalam waktu satu tahun sejak pemerintahannya berjalan. Ia mengaitkan percepatan ini dengan berbagai kebijakan yang disebutnya memperkuat sektor pangan nasional, meski rincian kebijakan tersebut tidak dijabarkan lebih lanjut dalam pidatonya. Prabowo juga menyatakan Indonesia telah mencapai swasembada untuk delapan komoditas pangan, mulai dari beras hingga produk hortikultura, meski daftar lengkap kedelapan komoditas itu tidak disebutkan secara rinci.",
-   "Di sektor pupuk, pemerintah mengklaim telah menghapus 145 aturan yang dinilai menghambat penyaluran pupuk ke petani. Langkah ini dibarengi penurunan harga pupuk sebesar 20 persen, yang menurut Prabowo merupakan penurunan harga pupuk pertama dalam sejarah Indonesia. Di saat bersamaan, laba PT Pupuk Indonesia (Persero) disebut melonjak 252,8 persen.",
-   "Prabowo turut menyinggung penerapan B50, campuran bahan bakar solar dengan 50 persen minyak sawit, yang menurutnya membuat Indonesia tidak lagi mengimpor solar sejak Juli 2026. Klaim ini melengkapi rangkaian pencapaian yang disampaikan dalam pidato kenegaraan tahun ini, sebagai bagian dari evaluasi satu tahun pemerintahan Prabowo di bidang pangan dan energi."
+   "Presiden Prabowo menyebut target swasembada pangan yang semula diproyeksikan baru tercapai dalam empat sampai lima tahun, kini sudah terwujud hanya dalam waktu satu tahun sejak pemerintahannya berjalan. Ia mengaitkan percepatan ini dengan berbagai kebijakan yang disebutnya memperkuat sektor pangan nasional, meski rincian kebijakan tersebut tidak dijabarkan lebih lanjut dalam pidatonya. Presiden Prabowo juga menyatakan Indonesia telah mencapai swasembada untuk delapan komoditas pangan, mulai dari beras hingga produk hortikultura, meski daftar lengkap kedelapan komoditas itu tidak disebutkan secara rinci.",
+   "Di sektor pupuk, pemerintah mengklaim telah menghapus 145 aturan yang dinilai menghambat penyaluran pupuk ke petani. Langkah ini dibarengi penurunan harga pupuk sebesar 20 persen, yang menurut Presiden Prabowo merupakan penurunan harga pupuk pertama dalam sejarah Indonesia. Di saat bersamaan, laba PT Pupuk Indonesia (Persero) disebut melonjak 252,8 persen.",
+   "Presiden Prabowo turut menyinggung penerapan B50, campuran bahan bakar solar dengan 50 persen minyak sawit, yang menurutnya membuat Indonesia tidak lagi mengimpor solar sejak Juli 2026. Klaim ini melengkapi rangkaian pencapaian yang disampaikan dalam pidato kenegaraan tahun ini, sebagai bagian dari evaluasi satu tahun pemerintahan Presiden Prabowo di bidang pangan dan energi."
   ],
   "fotoAdegan": "Farmers loading sacks of fertilizer onto a small truck at the edge of a green rice paddy, early morning light",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7d4ae58f754-presiden-prabowo-subianto_1200_675.jpg",
   "kreditFoto": "tvOneNews",
-  "takeaway": "Angka-angka ini, mulai dari penurunan harga pupuk 20 persen, pemangkasan 145 aturan distribusi, sampai lonjakan laba Pupuk Indonesia 252,8 persen, disampaikan langsung oleh Prabowo dalam pidato kenegaraan, bukan dari laporan keuangan atau rilis data resmi yang terpisah. Yang terdampak langsung adalah petani yang membeli pupuk, serta Pupuk Indonesia sebagai badan usaha milik negara yang kinerjanya disorot dalam pidato ini. Turunnya harga pupuk yang berbarengan dengan naiknya laba perusahaan mengarah ke pembacaan bahwa penghematan berasal dari pemangkasan birokrasi distribusi, bukan dari tambahan subsidi pemerintah. Yang akan memastikan pembacaan ini adalah laporan keuangan resmi Pupuk Indonesia dan data produksi pangan dari Badan Pusat Statistik yang biasanya terbit dalam beberapa bulan ke depan.",
+  "takeaway": "Angka-angka ini, mulai dari penurunan harga pupuk 20 persen, pemangkasan 145 aturan distribusi, sampai lonjakan laba Pupuk Indonesia 252,8 persen, disampaikan langsung oleh Presiden Prabowo dalam pidato kenegaraan, bukan dari laporan keuangan atau rilis data resmi yang terpisah. Yang terdampak langsung adalah petani yang membeli pupuk, serta Pupuk Indonesia sebagai badan usaha milik negara yang kinerjanya disorot dalam pidato ini. Turunnya harga pupuk yang berbarengan dengan naiknya laba perusahaan mengarah ke pembacaan bahwa penghematan berasal dari pemangkasan birokrasi distribusi, bukan dari tambahan subsidi pemerintah. Yang akan memastikan pembacaan ini adalah laporan keuangan resmi Pupuk Indonesia dan data produksi pangan dari Badan Pusat Statistik yang biasanya terbit dalam beberapa bulan ke depan.",
   "imageV": "mssk7nnn"
  },
  {
@@ -2615,13 +2615,13 @@ var ARTICLES = [
    "Destry Damayanti",
    "Bank Indonesia",
    "Gubernur BI",
-   "Prabowo Subianto"
+   "Presiden Prabowo Subianto"
   ],
   "body": [
    "Presiden Prabowo Subianto mengajukan Destry Damayanti sebagai satu-satunya calon Gubernur Bank Indonesia definitif ke DPR RI. Keputusan ini penting karena akan menentukan siapa yang memegang kendali kebijakan moneter dan stabilitas keuangan nasional setelah kekosongan yang ditinggalkan Perry Warjiyo.",
    "Menteri Sekretaris Negara Prasetyo Hadi menyebut rekam jejak dan pengalaman panjang Destry di sektor keuangan menjadi pertimbangan utama pemerintah. Destry tercatat sudah dua periode menjabat Deputi Gubernur Senior BI sebelum kini merangkap tugas sebagai Pejabat Sementara Gubernur BI.",
    "Pengajuan nama Destry dilakukan melalui Surat Presiden yang hanya memuat satu nama. Proses selanjutnya akan memasuki tahap pembahasan di DPR RI sesuai mekanisme dalam peraturan perundang-undangan sebelum Destry bisa resmi ditetapkan sebagai Gubernur BI definitif.",
-   "Posisi Gubernur BI kosong sejak Perry Warjiyo mengundurkan diri, dengan surat pengunduran dirinya diterima Prabowo pada 26 Juli 2026. Prasetyo menegaskan pengunduran diri Perry bukan karena alasan kesehatan, melainkan alasan pribadi."
+   "Posisi Gubernur BI kosong sejak Perry Warjiyo mengundurkan diri, dengan surat pengunduran dirinya diterima Presiden Prabowo pada 26 Juli 2026. Prasetyo menegaskan pengunduran diri Perry bukan karena alasan kesehatan, melainkan alasan pribadi."
   ],
   "takeaway": "Yang berubah adalah status pencalonan Destry Damayanti, dari Deputi Gubernur Senior dan Pjs Gubernur BI menjadi calon tunggal Gubernur BI definitif, setelah Presiden Prabowo hanya mengajukan satu nama lewat Surat Presiden ke DPR. Langkah ini langsung berdampak pada pelaku pasar keuangan dan perbankan yang sejak 26 Juli 2026 menunggu kepastian arah kepemimpinan bank sentral pasca mundurnya Perry Warjiyo. Karena Destry sudah dua periode menjabat Deputi Gubernur Senior dan tengah menjalankan tugas sebagai Pjs Gubernur BI, pencalonan tunggal ini mengarah pada kontinuitas kebijakan moneter ketimbang pergantian haluan besar. Arah itu akan lebih jelas terlihat dari hasil uji kelayakan dan kepatutan di DPR serta jadwal pelantikan Destry sebagai Gubernur BI definitif.",
   "fotoAdegan": "Security guards stand at the gated entrance of a central bank's headquarters building in downtown Jakarta at dusk.",
@@ -3660,11 +3660,11 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto mengajukan nama Destry Damayanti sebagai calon tunggal Gubernur Bank Indonesia kepada DPR. Usulan ini penting karena akan menentukan siapa yang memimpin bank sentral secara definitif, posisi yang selama ini diisi sementara setelah Perry Warjiyo mengundurkan diri.",
-   "Surat Presiden berisi usulan tersebut dikirimkan kepada pimpinan DPR pada Senin, 10 Agustus 2026. Prabowo hanya mencantumkan satu nama dalam surat itu, dan sebelum diusulkan, Destry lebih dulu menjalankan tugas sebagai pejabat sementara Gubernur BI.",
+   "Surat Presiden berisi usulan tersebut dikirimkan kepada pimpinan DPR pada Senin, 10 Agustus 2026. Presiden Prabowo hanya mencantumkan satu nama dalam surat itu, dan sebelum diusulkan, Destry lebih dulu menjalankan tugas sebagai pejabat sementara Gubernur BI.",
    "Destry Damayanti lahir di Jakarta pada 1963 dan menempuh pendidikan Sarjana Ekonomi di Universitas Indonesia, lalu meraih gelar Master of Science bidang Regional Science dari Cornell University, Amerika Serikat. Kariernya mencakup posisi Senior Economic Adviser untuk Duta Besar Inggris untuk Indonesia pada 2000-2003, serta peneliti dan pengajar di Fakultas Ekonomi UI pada 2005-2006.",
    "Di sektor keuangan, Destry pernah menjabat Chief Economist Mandiri Sekuritas pada 2005-2011, kemudian Chief Economist Bank Mandiri pada 2011-2015, sebelum akhirnya bergabung dengan Bank Indonesia."
   ],
-  "takeaway": "Yang berubah bukan sekadar pergantian pejabat, melainkan format usulannya sendiri, Prabowo hanya mengajukan satu nama lewat Surpres tertanggal 10 Agustus 2026, bukan beberapa kandidat seperti lazimnya proses pemilihan Gubernur BI. Ini terjadi setelah Perry Warjiyo mundur dan Destry sempat mengisi posisi itu sebagai pejabat sementara. Pihak yang paling terdampak adalah pelaku pasar keuangan dan perbankan yang membutuhkan kepastian kepemimpinan BI, serta DPR yang kini harus memproses satu nama tunggal ini. Yang perlu dipantau selanjutnya adalah jadwal uji kelayakan dan kepatutan di DPR serta keputusan resmi penetapan Gubernur BI definitif.",
+  "takeaway": "Yang berubah bukan sekadar pergantian pejabat, melainkan format usulannya sendiri, Presiden Prabowo hanya mengajukan satu nama lewat Surpres tertanggal 10 Agustus 2026, bukan beberapa kandidat seperti lazimnya proses pemilihan Gubernur BI. Ini terjadi setelah Perry Warjiyo mundur dan Destry sempat mengisi posisi itu sebagai pejabat sementara. Pihak yang paling terdampak adalah pelaku pasar keuangan dan perbankan yang membutuhkan kepastian kepemimpinan BI, serta DPR yang kini harus memproses satu nama tunggal ini. Yang perlu dipantau selanjutnya adalah jadwal uji kelayakan dan kepatutan di DPR serta keputusan resmi penetapan Gubernur BI definitif.",
   "fotoAdegan": "A row of black government sedans waits outside the gate of a state institution building in central Jakarta.",
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ff90abdb8-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
   "kreditFoto": "tvOneNews",
@@ -4932,7 +4932,7 @@ var ARTICLES = [
  {
   "slug": "prabowo-pantau-b50-perintahkan-pangkas-layer-bumn",
   "category": "Energi",
-  "title": "Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
+  "title": "Presiden Prabowo Pantau B50, Perintahkan [Pangkas] Layer BUMN",
   "deck": "Presiden terima laporan progres program B50 dan kesiapan bioetanol dari Pertamina, sekaligus perintahkan pemangkasan lapisan organisasi BUMN.",
   "image": "assets/img/prabowo-pantau-b50-perintahkan-pangkas-layer-bumn.jpg",
   "date": "10 Agustus 2026",
@@ -4946,8 +4946,8 @@ var ARTICLES = [
   ],
   "body": [
    "Presiden Prabowo Subianto menerima laporan perkembangan program biodiesel B50 sekaligus memerintahkan pemangkasan struktur organisasi di tubuh badan usaha milik negara. Arahan ini disampaikan dalam pertemuan tertutup dengan Direktur Utama Pertamina Simon A. Mantiri, dan menjadi sinyal bahwa pemerintah tengah mendorong dua agenda besar sekaligus, yaitu ketahanan energi domestik dan efisiensi korporasi negara.",
-   "Pertemuan berlangsung di kediaman Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
-   "Selain isu energi, Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
+   "Pertemuan berlangsung di kediaman Presiden Prabowo di Hambalang, Bogor, Jawa Barat, pada Minggu, 9 Agustus 2026. Sekretaris Kabinet Teddy Indra Wijaya menjelaskan pada Senin, 10 Agustus, bahwa Simon melaporkan kemajuan Program Mandatori B50 yang diluncurkan Presiden Prabowo pada Juli lalu, termasuk kesiapan infrastruktur menuju penerapan mandatori bioetanol.",
+   "Selain isu energi, Presiden Prabowo juga menginstruksikan pengurangan lapisan organisasi serta anak dan cucu perusahaan di Pertamina, PLN, dan BUMN lainnya. Menurut Seskab, langkah ini diarahkan agar perusahaan pelat merah dapat bergerak lebih cepat dan efisien dalam menjalankan bisnisnya.",
    "Dua laporan tersebut menegaskan arah kebijakan pemerintah yang ingin memperkuat kemandirian energi nasional lewat optimalisasi sumber daya dalam negeri, sekaligus merampingkan tata kelola BUMN agar tidak terbebani birokrasi internal yang panjang."
   ],
   "fotoAdegan": "An engineer inspects a control panel inside a biodiesel refinery processing unit at an industrial complex.",
@@ -6203,7 +6203,7 @@ var ARTICLES = [
   "tags": [
    "Global",
    "Diplomasi Ekonomi",
-   "Prabowo"
+   "Presiden Prabowo"
   ],
   "video": "_ZV-tannxT8",
   "videoCaption": "Pengamat membahas dampak kebijakan tarif AS terhadap ekonomi dunia — tvOneNews",
@@ -6446,7 +6446,7 @@ var ARTICLES = [
   "tags": [
    "Pariwisata",
    "Ekonomi Kreatif",
-   "Prabowo"
+   "Presiden Prabowo"
   ],
   "video": null,
   "videoCaption": null,

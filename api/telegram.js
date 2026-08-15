@@ -65,13 +65,37 @@ async function tg(metode, badan) {
   return r.json().catch(() => ({}));
 }
 
-function kirim(chatId, teks, opsi = {}) {
-  return tg('sendMessage', {
+// Pengiriman dengan jaring pengaman format.
+//
+// Telegram MENOLAK seluruh pesan kalau HTML-nya tidak sah: tag yang tidak
+// dikenal seperti <h2>, tanda kurung siku yang tidak ditutup, atau markdown
+// seperti **tebal** yang menyelinap. Balasannya HTTP 400 dan pembaca tidak
+// menerima apa-apa, hanya kesunyian.
+//
+// Risiko itu kecil selama modelnya patuh, tapi model bisa diganti kapan saja
+// lewat satu variabel lingkungan, dan model yang lebih murah lebih sering
+// melanggar aturan format. Jadi kalau kiriman ber-HTML ditolak, isinya
+// dikirim ulang sebagai teks polos: kehilangan cetak tebal jauh lebih baik
+// daripada kehilangan jawabannya.
+async function kirim(chatId, teks, opsi = {}) {
+  const isi = String(teks).slice(0, 4000);   // batas Telegram 4096, sisakan ruang
+  const hasil = await tg('sendMessage', {
     chat_id: chatId,
-    text: teks.slice(0, 4000),       // batas Telegram 4096, sisakan ruang
+    text: isi,
     parse_mode: 'HTML',
     link_preview_options: { is_disabled: true },
     ...opsi,
+  });
+  if (hasil && hasil.ok) return hasil;
+
+  console.warn('kiriman HTML ditolak, mencoba teks polos:',
+    JSON.stringify(hasil && hasil.description || '').slice(0, 150));
+  const polos = isi.replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]*>/g, '')
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+  return tg('sendMessage', {
+    chat_id: chatId,
+    text: polos.slice(0, 4000),
+    link_preview_options: { is_disabled: true },
   });
 }
 

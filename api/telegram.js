@@ -297,7 +297,26 @@ async function lewatChat(pertanyaan, bahan) {
   // ditolak mentah-mentah. OpenAI generasi baru menolak max_tokens dan
   // menuntut max_completion_tokens; OpenRouter menormalkan max_tokens untuk
   // semua penyedia yang ia jembatani.
-  if (keOR) badan.max_tokens = 700; else badan.max_completion_tokens = 700;
+  //
+  // ANGGARANNYA 2000, BUKAN 700, dan itu pelajaran dari kegagalan nyata.
+  // Model kelas "berpikir" seperti deepseek-v4-flash menghabiskan anggaran
+  // untuk token penalaran lebih dulu, baru menulis jawaban. Dengan 700,
+  // pertanyaan sederhana masih lolos tetapi pertanyaan yang menuntut
+  // penyaringan (mis. "agenda apa minggu depan", yang berarti menyaring 20
+  // tanggal) habis di tengah jalan: model membalas SUKSES dengan isi KOSONG,
+  // bukan galat, sehingga tidak ada yang tercatat sebagai kesalahan.
+  //
+  // Jawaban tetap diminta ringkas lewat aturan, jadi ruang berlebih ini
+  // hampir tidak pernah terpakai penuh dan biayanya tetap receh.
+  if (keOR) {
+    badan.max_tokens = 2000;
+    // Penalaran secukupnya. Tugas bot ini merangkai bahan yang sudah
+    // tersaji, bukan memecahkan soal; berpikir panjang hanya menghabiskan
+    // anggaran dan memperlambat balasan.
+    badan.reasoning = { effort: 'low' };
+  } else {
+    badan.max_completion_tokens = 2000;
+  }
 
   const r = await fetch(keOR
     ? 'https://openrouter.ai/api/v1/chat/completions'
@@ -321,7 +340,19 @@ async function lewatChat(pertanyaan, bahan) {
     throw new Error((keOR ? 'OpenRouter ' : 'OpenAI ') + r.status + ': ' +
       ((j.error && j.error.message) || JSON.stringify(j).slice(0, 200)));
   }
-  return String(((j.choices || [])[0] || {}).message?.content || '').trim();
+  const pilihan = (j.choices || [])[0] || {};
+  const isi = String(pilihan.message?.content || '').trim();
+  // Balasan sukses tapi kosong TIDAK boleh lewat diam-diam. Itu persis cara
+  // kegagalan 15 Agustus 2026 menyembunyikan diri: HTTP 200, tanpa galat,
+  // tanpa satu baris log, dan yang terlihat cuma bot menjawab "coba kalimat
+  // lain" seolah pertanyaannya yang salah. Sebabnya (anggaran habis, ditolak
+  // penyaring, dll) selalu ada di finish_reason dan usage.
+  if (!isi) {
+    console.warn('model membalas kosong | model=' + MODEL +
+      ' finish=' + pilihan.finish_reason +
+      ' usage=' + JSON.stringify(j.usage || {}));
+  }
+  return isi;
 }
 
 async function lewatAnthropic(pertanyaan, bahan) {
@@ -453,8 +484,14 @@ export default async function handler(req, res) {
     const indeks = await ambilIndeks();
     const artikel = pilihArtikel(indeks, teks);
     const jawab = await tanyaModel(teks, rakitBahan(indeks, artikel));
+    // Pesan saat kosong TIDAK menyalahkan kalimat penanya. Versi lama
+    // berbunyi "coba tanya dengan kalimat lain", padahal sebabnya di sisi
+    // kami; pembaca jadi mengulang-ulang pertanyaan yang sebenarnya sudah
+    // benar. Lebih baik mengaku dan menawarkan jalan lain.
     await kirim(chatId, jawab ? rapikanFormat(jawab)
-      : 'Maaf, saya belum bisa menyusun jawabannya. Coba tanya dengan kalimat lain.');
+      : 'Maaf, jawabannya gagal tersusun di sisi kami, bukan karena pertanyaanmu. ' +
+        'Coba kirim ulang sebentar lagi, atau buka <a href="https://the-signal.id/agenda.html">agenda</a> ' +
+        'dan <a href="https://the-signal.id/berita.html">arsip beritanya</a> langsung.');
   } catch (e) {
     // Sebab teknis TIDAK ditampilkan ke pembaca: pesan galat mentah bisa
     // memuat potongan konfigurasi, dan bagi pembaca tidak berguna.

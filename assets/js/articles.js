@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana",
+  "category": "BUMN",
+  "title": "Mensesneg: Amnesti Bos BUMN [Belum] Dibahas, Baru Wacana",
+  "deck": "Mensesneg Prasetyo Hadi menegaskan pengadilan ad hoc dan amnesti bagi petinggi BUMN bermasalah belum dibahas, baru sebatas semangat pembenahan tata kelola.",
+  "image": "assets/img/mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T17:39:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460118-mensesneg-luruskan-wacana-pengadilan-ad-hoc-korupsi-bumn-dan-amnesti-petinggi-bermasalah-ini-maksudnya-prabowo",
+  "tags": [
+   "BUMN",
+   "korupsi",
+   "amnesti",
+   "pengadilan ad hoc"
+  ],
+  "body": [
+   "Menteri Sekretaris Negara Prasetyo Hadi meluruskan pernyataan Presiden Prabowo Subianto soal wacana pengadilan khusus untuk mengusut dugaan penyimpangan di tubuh BUMN. Ia menegaskan usulan itu sejauh ini baru sebatas semangat membenahi tata kelola perusahaan negara, bukan keputusan yang sudah matang, termasuk soal amnesti bagi petinggi BUMN bermasalah yang sempat ramai dibicarakan publik.",
+   "Berbicara di Kompleks Istana Kepresidenan Jakarta, Sabtu (15/8/2026), Prasetyo menjelaskan bahwa Presiden Prabowo ingin menunjukkan tekad tanpa batas untuk membenahi BUMN, termasuk menelusuri kemungkinan praktik korporasi yang tidak semestinya di masa lalu. Ia menegaskan pembahasan sampai ke tahap pemberian amnesti masih terlalu jauh dan belum pernah dibicarakan secara resmi oleh pemerintah.",
+   "Pernyataan ini merujuk pada pidato Presiden Prabowo dalam Sidang Tahunan MPR serta Sidang Bersama DPR-DPD RI di Kompleks Parlemen, Jumat (14/8/2026). Dalam pidato itu, Prabowo menyebut jumlah BUMN sebelumnya mencapai sekitar 1.074 perusahaan sebelum dilakukan konsolidasi dan pengurangan, yang menurutnya menjadi salah satu indikasi adanya persoalan tata kelola.",
+   "Prabowo juga menyoroti pengelolaan sejumlah BUMN yang dinilai tidak menunjukkan tanggung jawab terhadap kepentingan negara, termasuk perusahaan yang disebut mencatatkan keuntungan dalam laporan keuangan padahal diduga diperoleh lewat rekayasa. Wacana pengadilan ad hoc dan amnesti itu kemudian memicu reaksi publik yang mengaitkannya dengan berbagai persoalan BUMN selama tiga dekade terakhir."
+  ],
+  "fotoAdegan": "Wide shot of a presidential palace gate in Jakarta with guards standing at attention under overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a803c01ed47b-mensesneg-prasetyo-hadi-memberikan-keterangan-kepada-awak-media-di-kompleks-istana-kepresidenan-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan baru, melainkan penarikan setengah langkah dari pernyataan Presiden Prabowo sehari sebelumnya. Awalnya publik menangkap sinyal akan ada pengadilan khusus dan bahkan amnesti untuk bos BUMN bermasalah, tapi Mensesneg menegaskan amnesti belum pernah dibahas dan yang ada baru semangat membenahi tata kelola. Yang terdampak langsung adalah manajemen serta mantan petinggi BUMN yang sempat dikaitkan dengan dugaan penyimpangan, karena mereka belum tahu pasti apakah kelak diperiksa lewat jalur hukum biasa atau mekanisme khusus. Pola klarifikasi cepat setelah pernyataan presiden memicu reaksi publik biasanya menandakan wacana masih di tahap gagasan, bukan rancangan aturan yang siap jalan, sehingga arah yang lebih mungkin saat ini adalah pembenahan lewat konsolidasi dan pengawasan yang sudah berjalan, bukan pembentukan lembaga pengadilan baru dalam waktu dekat. Yang akan memastikan arah ini adalah ada tidaknya draf resmi soal pengadilan ad hoc BUMN dalam beberapa bulan ke depan, atau apakah isu ini meredup seperti wacana serupa sebelumnya.",
+  "imageV": "msuaczcd"
+ },
+ {
   "slug": "presiden-prabowo-china-beri-rating-aaa-ke-ri",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo: China Beri Rating [AAA] ke RI",

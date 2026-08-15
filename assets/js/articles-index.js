@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana",
+  "category": "BUMN",
+  "title": "Mensesneg: Amnesti Bos BUMN [Belum] Dibahas, Baru Wacana",
+  "deck": "Mensesneg Prasetyo Hadi menegaskan pengadilan ad hoc dan amnesti bagi petinggi BUMN bermasalah belum dibahas, baru sebatas semangat pembenahan tata kelola.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana.jpg",
+  "imageV": "msuaczcd",
+  "tags": [
+   "BUMN",
+   "korupsi",
+   "amnesti",
+   "pengadilan ad hoc"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460118-mensesneg-luruskan-wacana-pengadilan-ad-hoc-korupsi-bumn-dan-amnesti-petinggi-bermasalah-ini-maksudnya-prabowo"
+ },
+ {
   "slug": "presiden-prabowo-china-beri-rating-aaa-ke-ri",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo: China Beri Rating [AAA] ke RI",

@@ -910,3 +910,21 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 }
 .btn-telegram:hover { background: #229ED9; color: var(--page); }
 .btn-telegram svg { flex: none; }
+
+/* Dua tombol Telegram berdampingan: kanal siaran dan bot tanya jawab.
+   Sengaja beda bentuk, bukan cuma beda label. Keduanya menuju Telegram tapi
+   fungsinya berlawanan arah: yang satu menerima siaran, yang satu mengajak
+   bicara. Tombol kembar berdampingan membuat pembaca menebak-nebak. */
+.footer-aksi { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: 1rem; }
+.footer-aksi .btn-telegram { margin-top: 0; }
+.btn-bot {
+  display: inline-flex; align-items: center; gap: .45rem;
+  padding: .5rem .95rem;
+  background: none; color: var(--ink);
+  border: 1px solid var(--line);
+  font-family: var(--sans); font-size: 12.5px; font-weight: 600;
+  border-radius: 999px; white-space: nowrap;
+  transition: border-color .15s ease, color .15s ease;
+}
+.btn-bot:hover { border-color: var(--ink); color: var(--ink); }
+.btn-bot svg { flex: none; }

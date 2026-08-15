@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-china-beri-rating-aaa-ke-ri",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo: China Beri Rating [AAA] ke RI",
+  "deck": "Presiden Prabowo Subianto menyebut lembaga rating China memberi peringkat AAA untuk Panda Bonds RI, sementara S&P mempertahankan rating Indonesia di level BBB pada Juli 2026.",
+  "image": "assets/img/presiden-prabowo-china-beri-rating-aaa-ke-ri.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T15:31:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460088-prabowo-ungkap-ekonomi-indonesia-dapat-pengakuan-dunia-china-juga-beri-rating-aaa",
+  "tags": [
+   "prabowo subianto",
+   "ekonomi indonesia",
+   "peringkat kredit",
+   "panda bonds"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyampaikan bahwa kondisi ekonomi Indonesia mendapat pengakuan dari sejumlah lembaga pemeringkat kredit internasional, baik dari negara-negara Barat maupun China. Ia menyampaikan hal ini di Gedung DPR, Jakarta Pusat, Jumat, 14 Agustus 2026. Pengakuan semacam ini penting karena peringkat kredit suatu negara ikut menentukan seberapa mahal atau murah negara itu bisa meminjam dana di pasar keuangan internasional.",
+   "Presiden Prabowo menyebut lembaga pemeringkat asal China, China Lianhe Rating, memberikan rating AAA dengan outlook stabil untuk penerbitan Panda Bonds Republik Indonesia, yaitu obligasi pemerintah RI yang diterbitkan dalam mata uang yuan di pasar China. Menurutnya, itu merupakan level tertinggi yang bisa diberikan lembaga tersebut. Presiden Prabowo menyebut pencapaian ini sebagai bukti fundamental ekonomi Indonesia tetap kuat di tengah ketidakpastian global, sekaligus menegaskan Indonesia masih berada pada kategori kelayakan investasi, yakni golongan peringkat yang dianggap aman oleh investor besar dunia untuk menaruh dananya.",
+   "Selain itu, Presiden Prabowo menyebut Standard & Poor's (S&P) mempertahankan peringkat kredit Indonesia di level BBB, dalam keputusan yang diambil pada 13 Juli 2026. Ia mengutip penilaian S&P bahwa prospek ekonomi Indonesia kokoh, kebijakan makroekonomi dijalankan secara hati-hati, dan beban utang pemerintah relatif terjaga serta berkelanjutan dibandingkan negara-negara sekelas.",
+   "Presiden Prabowo menilai kedua penilaian itu, dari China maupun S&P, menunjukkan pemerintah berhasil menjaga kebijakan yang membuat kondisi ekonomi Indonesia tetap kokoh di tengah situasi global yang tidak menentu."
+  ],
+  "fotoAdegan": "Modern financial district skyline in Jakarta at dusk, illuminated office towers, light traffic trails on the street below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7f118bd1947-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar baru di sini adalah rating AAA dengan outlook stabil dari lembaga China Lianhe Rating, khusus untuk penerbitan Panda Bonds, yaitu surat utang pemerintah Indonesia yang diterbitkan dalam mata uang yuan di pasar China. Rating setinggi ini biasanya membuat bunga yang harus dibayar pemerintah lebih murah, karena investor menganggap risiko gagal bayarnya kecil. Sementara itu S&P, pada 13 Juli 2026, tidak menaikkan apa pun, hanya mempertahankan Indonesia di level BBB seperti sebelumnya, jadi yang berubah sebenarnya adalah terbukanya akses ke pasar utang China, bukan perbaikan peringkat global. Pihak yang paling terdampak adalah pemerintah sendiri sebagai peminjam, karena semakin murah bunga utang, semakin kecil porsi anggaran negara yang harus dialokasikan untuk membayar bunga setiap tahun. Arahnya terlihat ke diversifikasi sumber pembiayaan utang, dari yang selama ini mengandalkan dolar AS dan investor domestik ke pasar China, dan itu akan makin jelas begitu Panda Bonds ini benar-benar diterbitkan dengan nilai dan jangka waktu yang pasti.",
+  "imageV": "msu6c3hx"
+ },
+ {
   "slug": "patokan-harga-ekspor-emas-naik-0-65-per-15-agustus",
   "category": "Industri",
   "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",

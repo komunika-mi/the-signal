@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-china-beri-rating-aaa-ke-ri",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo: China Beri Rating [AAA] ke RI",
+  "deck": "Presiden Prabowo Subianto menyebut lembaga rating China memberi peringkat AAA untuk Panda Bonds RI, sementara S&P mempertahankan rating Indonesia di level BBB pada Juli 2026.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/presiden-prabowo-china-beri-rating-aaa-ke-ri.jpg",
+  "imageV": "msu6c3hx",
+  "tags": [
+   "prabowo subianto",
+   "ekonomi indonesia",
+   "peringkat kredit",
+   "panda bonds"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460088-prabowo-ungkap-ekonomi-indonesia-dapat-pengakuan-dunia-china-juga-beri-rating-aaa"
+ },
+ {
   "slug": "patokan-harga-ekspor-emas-naik-0-65-per-15-agustus",
   "category": "Industri",
   "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",

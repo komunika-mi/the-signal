@@ -2,6 +2,30 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ZwVVN3eKVu4",
+  "title": "Pertumbuhan dan Perkembangan Ekonomi Indonesia",
+  "category": "Makroekonomi",
+  "program": "AKAP",
+  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia dalam pidato penyampaian RUU APBN 2027 dan Nota Keuangan.",
+  "takeaway": "Penetapan ini penting diikuti karena menandai arah kebijakan pemerintah membangun pusat keuangan baru di Indonesia."
+ },
+ {
+  "id": "CVkXQhS9jko",
+  "title": "Presiden Prabowo Bentuk DDMF untuk Biayai Proyek Besar Tanpa Bebani APBN",
+  "category": "BUMN",
+  "program": "AKAP",
+  "summary": "Presiden Prabowo Subianto menyiapkan Danantara Development Management Fund untuk mendukung proyek strategis jangka panjang, termasuk proyek mobil nasional, tanpa membebani APBN.",
+  "takeaway": "Skema pembiayaan di luar APBN ini relevan bagi pembaca ekonomi karena menunjukkan strategi baru pendanaan proyek besar pemerintah."
+ },
+ {
+  "id": "PUk0rF6uaw4",
+  "title": "Jakarta-Bali Ditetapkan jadi Lokasi PFII untuk Tarik Investor",
+  "category": "Makroekonomi",
+  "program": "AKAP",
+  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia, yang diharapkan menarik lebih banyak investor ke Indonesia.",
+  "takeaway": "Penetapan lokasi PFII penting diikuti pelaku pasar karena berkaitan langsung dengan iklim investasi nasional."
+ },
+ {
   "id": "79Dl9TMyrDo",
   "title": "Pemerintah Buka Ekspor Beras ke Malaysia",
   "category": "Bisnis",
@@ -72,29 +96,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Menteri Desa dan PDT menjelaskan sebaran lokasi Koperasi Desa Merah Putih yang dibangun di berbagai kondisi geografis, termasuk daerah terpencil.",
   "takeaway": "Sebaran lokasi koperasi ini menjadi indikator jangkauan program ekonomi desa ke wilayah sulit akses."
- },
- {
-  "id": "vqSu32eKyh0",
-  "title": "Isu Ritel Dilarang Dekat Kopdes, Mendes PDT Bantah",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan PDT membantah isu yang menyebut toko ritel modern dilarang beroperasi dekat Koperasi Desa Merah Putih, dan menyebutnya sebagai informasi hasil rekayasa AI.",
-  "takeaway": "Klarifikasi ini penting untuk meluruskan simpang siur kebijakan yang berdampak pada pelaku usaha ritel dan koperasi desa."
- },
- {
-  "id": "X2iFftwFwqo",
-  "title": "Mendes PDT: Kopdes Belum Sukses, Masyarakat Diminta Sabar",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal mengakui program Koperasi Desa belum berjalan optimal dan meminta masyarakat bersabar menanti hasilnya.",
-  "takeaway": "Program koperasi desa digadang jadi penggerak ekonomi baru di tingkat desa, sehingga perkembangannya relevan bagi pembaca yang mengikuti isu UMKM."
- },
- {
-  "id": "fCoq00Isco8",
-  "title": "Rincian Anggaran Program Prioritas Pemerintahan Prabowo",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Pemerintahan Presiden Prabowo Subianto mengalokasikan ratusan triliun rupiah dari APBN untuk menjalankan 11 program prioritas nasional.",
-  "takeaway": "Rincian alokasi APBN ini membantu pembaca memahami arah kebijakan fiskal pemerintah dan sektor mana yang mendapat prioritas anggaran."
  }
 ];

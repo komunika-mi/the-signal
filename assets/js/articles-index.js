@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
+  "category": "Energi",
+  "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",
+  "deck": "Pertamina Patra Niaga memberi potongan Rp450 per liter untuk Pertamax, Pertamax Turbo, dan Pertamina Dex lewat MyPertamina pada 17-18 Agustus, terbatas untuk 81.000 transaksi pertama.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pertamax-diskon-rp450-per-liter-mulai-17-agustus.jpg",
+  "imageV": "msvpso9m",
+  "tags": [
+   "Pertamina",
+   "BBM",
+   "MyPertamina",
+   "Diskon BBM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460322-pertamax-didiskon-rp450-per-liter-mulai-17-agustus-cek-syarat-dan-cara-mendapatkannya-di-mypertamina"
+ },
+ {
   "slug": "telkom-pulihkan-85-jaringan-usai-gempa-ntt",
   "category": "Teknologi",
   "title": "Telkom [Pulihkan] 85% Jaringan usai Gempa NTT",

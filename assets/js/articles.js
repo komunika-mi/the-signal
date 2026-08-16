@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
+  "category": "Energi",
+  "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",
+  "deck": "Pertamina Patra Niaga memberi potongan Rp450 per liter untuk Pertamax, Pertamax Turbo, dan Pertamina Dex lewat MyPertamina pada 17-18 Agustus, terbatas untuk 81.000 transaksi pertama.",
+  "image": "assets/img/pertamax-diskon-rp450-per-liter-mulai-17-agustus.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T16:31:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460322-pertamax-didiskon-rp450-per-liter-mulai-17-agustus-cek-syarat-dan-cara-mendapatkannya-di-mypertamina",
+  "tags": [
+   "Pertamina",
+   "BBM",
+   "MyPertamina",
+   "Diskon BBM"
+  ],
+  "body": [
+   "Pertamina Patra Niaga memberikan diskon Rp450 per liter untuk pembelian Pertamax, Pertamax Turbo, dan Pertamina Dex lewat aplikasi MyPertamina, sebagai bagian dari promo peringatan HUT ke-81 Kemerdekaan RI. Bagi konsumen yang rutin memakai BBM non-subsidi, promo ini berarti pengeluaran bulanan bisa sedikit lebih hemat, meski hanya berlaku dalam waktu terbatas.",
+   "Potongan harga ini hanya berlaku dua hari, yakni 17 dan 18 Agustus 2026, mulai pukul 06.00 sampai 20.00 WIB. Syaratnya, konsumen harus bertransaksi minimal Rp17.000 dengan pembelian maksimal 17 liter dalam satu struk, dan promo hanya tersedia untuk 81.000 transaksi pertama selama periode berlangsung. Setiap pelanggan pun hanya bisa memakai diskon ini satu kali.",
+   "Selain diskon BBM, Pertamina Patra Niaga juga membuka penukaran poin MyPertamina untuk merchandise bertema Kemerdekaan yang berlangsung 10 sampai 31 Agustus 2026, mencakup produk edisi terbaru maupun merchandise favorit yang kembali tersedia. Ada pula Flash Sale dengan potongan harga hingga 45 persen khusus 17 Agustus 2026 pukul 10.00 sampai 18.00 WIB, berlaku untuk penukaran voucher mitra dan merchandise edisi Kemerdekaan."
+  ],
+  "fotoAdegan": "A fuel station attendant filling a car's tank at a pump nozzle, motorcycles queuing nearby, morning light in Jakarta.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/10/6a290c0e1b046-ilustrasi-pertamax_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan harga resmi BBM, melainkan potongan sementara Rp450 per liter yang cuma berlaku dua hari, 17 sampai 18 Agustus, dan cuma untuk 81.000 transaksi pertama lewat aplikasi MyPertamina. Yang kena dampak adalah pembeli Pertamax, Pertamax Turbo, dan Pertamina Dex yang sudah memakai aplikasi ini, sementara pembeli yang bertransaksi manual di SPBU tanpa aplikasi tidak mendapat potongan sama sekali. Pola ini menunjukkan Pertamina memakai momen seremonial seperti HUT kemerdekaan untuk mendorong lebih banyak orang memakai aplikasi MyPertamina, bukan menurunkan harga BBM secara permanen. Yang akan memastikan apakah ini strategi berkelanjutan atau sekadar promo sesaat adalah apakah Pertamina mengulang skema diskon serupa pada momen besar berikutnya, misalnya HUT Pertamina atau pergantian tahun.",
+  "imageV": "msvpso9m"
+ },
+ {
   "slug": "telkom-pulihkan-85-jaringan-usai-gempa-ntt",
   "category": "Teknologi",
   "title": "Telkom [Pulihkan] 85% Jaringan usai Gempa NTT",

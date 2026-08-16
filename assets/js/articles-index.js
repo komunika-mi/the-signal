@@ -5,6 +5,53 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",
+  "deck": "Pengamat memproyeksikan harga emas Antam bergerak di rentang Rp2.520.000-Rp2.830.000 per gram pekan depan, dipengaruhi harga emas dunia dan nilai tukar rupiah.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "emas",
+   "antam",
+   "logam mulia",
+   "harga emas"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460290-perdagangan-pekan-depan-harga-emas-antam-diprediksi-tembus-rp283-juta"
+ },
+ {
+  "slug": "rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan",
+  "category": "Moneter",
+  "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
+  "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "nilai tukar",
+   "APBN 2027",
+   "dolar AS"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027"
+ },
+ {
+  "slug": "harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons",
+  "category": "Global",
+  "title": "Harga Emas Dunia Diproyeksi Tembus [US$4.572] per Ons",
+  "deck": "Pengamat memperkirakan harga emas dunia bergerak US$4.186-US$4.572 per troy ounce pekan depan, tergantung eskalasi geopolitik di Selat Hormuz dan Laut Merah.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons.jpg",
+  "imageV": "msvhovwt",
+  "tags": [
+   "emas",
+   "harga emas dunia",
+   "geopolitik",
+   "komoditas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460276-emas-dunia-dibayangi-geopolitik-pengamat-prediksi-bisa-tembus-us4572-per-troy-ounce"
+ },
+ {
   "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
   "category": "Energi",
   "title": "PLN Siagakan [45 Ribu] Personel Amankan Listrik HUT RI",

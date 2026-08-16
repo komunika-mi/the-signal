@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",
+  "deck": "Pengamat memproyeksikan harga emas Antam bergerak di rentang Rp2.520.000-Rp2.830.000 per gram pekan depan, dipengaruhi harga emas dunia dan nilai tukar rupiah.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T13:39:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460290-perdagangan-pekan-depan-harga-emas-antam-diprediksi-tembus-rp283-juta",
+  "tags": [
+   "emas",
+   "antam",
+   "logam mulia",
+   "harga emas"
+  ],
+  "body": [
+   "Pengamat mata uang dan komoditas Ibrahim Assuaibi memperkirakan harga emas Antam pekan depan bisa bergerak di rentang Rp2.520.000 sampai Rp2.830.000 per gram, dengan selisih hingga Rp310.000 antara titik terendah dan tertinggi. Proyeksi ini penting bagi siapa pun yang berencana membeli atau menjual emas batangan pekan depan, karena rentangnya jauh lebih lebar dari pergerakan harga emas Antam pada hari-hari biasa.",
+   "Titik awal perhitungan adalah harga penutupan Jumat di Rp2.681.000 per gram. Ibrahim memperkirakan pada perdagangan Senin harga bisa turun ke Rp2.661.000 per gram atau justru naik ke Rp2.701.000 per gram, tergantung arah harga emas dunia pada awal pekan. Menurutnya, pergerakan emas Antam sepanjang pekan akan sangat bergantung pada harga emas dunia, nilai tukar rupiah terhadap dolar AS, dan sentimen geopolitik global.",
+   "Jika harga emas dunia terkoreksi, Ibrahim memperkirakan emas Antam bisa turun sampai Rp2.520.000 per gram pada penutupan pasar Sabtu pagi. Sebaliknya, jika harga emas dunia menguat, harga berpeluang naik hingga Rp2.830.000 per gram di akhir pekan. Ia menyebut potensi penguatan itu tidak lepas dari meningkatnya permintaan emas sebagai aset yang dianggap aman di tengah ketidakpastian pasar global."
+  ],
+  "fotoAdegan": "A jeweler weighing small gold bars on a scale at a traditional gold shop counter, warm indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Proyeksi Ibrahim sebenarnya membagi dua skenario yang sama-sama eksplisit dia sebutkan: harga turun ke Rp2.520.000 per gram kalau emas dunia terkoreksi, atau naik ke Rp2.830.000 per gram kalau emas dunia menguat, dengan titik awal Rp2.681.000. Yang kena dampak langsung adalah pembeli emas batangan dan toko perhiasan yang memakai harga Antam sebagai acuan harian, karena selisih Rp310.000 dalam sepekan itu jauh dari kondisi normal. Rentang selebar itu biasanya muncul saat pasar global belum punya arah pasti, dan sumbernya sendiri menyebut permintaan emas sebagai aset lindung nilai sedang naik, tanda investor masih mencari perlindungan dari ketidakpastian. Skenario mana yang terjadi baru akan terlihat dari pergerakan harga emas dunia dan nilai tukar rupiah sepanjang pekan ini, dengan kepastian penuh baru didapat saat penutupan pasar Sabtu pagi seperti disebut Ibrahim.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan",
+  "category": "Moneter",
+  "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
+  "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T12:38:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027",
+  "tags": [
+   "rupiah",
+   "nilai tukar",
+   "APBN 2027",
+   "dolar AS"
+  ],
+  "body": [
+   "Nilai tukar rupiah diperkirakan kembali melemah pada pembukaan perdagangan Senin, meski sempat menguat pada penutupan pekan lalu. Pengamat Mata Uang dan Komoditas Ibrahim Assuaibi memperkirakan rupiah dibuka di kisaran Rp17.820 hingga Rp17.880 per dolar Amerika Serikat. Proyeksi ini penting diperhatikan karena kurs yang lebih lemah bisa mendorong naik harga barang impor dan bahan baku bagi pelaku usaha.",
+   "Menurut Ibrahim, pelemahan berpotensi mencapai sekitar 60 poin, berbalik dari penguatan 50 poin yang tercatat pada penutupan perdagangan Jumat. Ia menyebut tekanan itu lebih banyak dipicu faktor eksternal, tanpa merinci lebih lanjut faktor tersebut.",
+   "Salah satu sentimen positif yang sempat mengangkat rupiah datang dari pidato Presiden Prabowo Subianto mengenai arah kebijakan fiskal 2027. Pemerintah mematok target pertumbuhan ekonomi 2027 sebesar 6 persen, naik dari asumsi 5,4 persen dalam APBN 2026.",
+   "Pemerintah juga menetapkan target inflasi 2,5 persen dan defisit anggaran Rp671,2 triliun, setara 2,4 persen dari Produk Domestik Bruto. Kombinasi target pertumbuhan yang lebih tinggi dan defisit yang terukur inilah yang menurut Ibrahim sempat menopang penguatan rupiah, sebelum tekanan eksternal diperkirakan kembali membayangi pekan depan."
+  ],
+  "fotoAdegan": "Workers unloading shipping containers of imported goods at a busy Indonesian seaport, cranes overhead, midday light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Proyeksi pelemahan ini hanya untuk pembukaan pasar Senin, jadi sifatnya jangka sangat pendek, bukan perubahan kebijakan. Pelemahan 60 poin berarti rupiah diperkirakan melemah sekitar Rp60 per dolar AS, berbalik dari penguatan 50 poin pada Jumat lalu. Pihak yang paling merasakan dampaknya adalah pelaku usaha dengan kebutuhan dolar, seperti importir bahan baku, karena kurs lebih lemah membuat biaya impor naik. Ada dua arah yang mungkin terjadi, tekanan eksternal terus mendominasi dalam beberapa hari ke depan, atau optimisme dari target pertumbuhan 6 persen dan defisit anggaran 2027 sebesar Rp671,2 triliun mulai menopang rupiah begitu detail RAPBN 2027 dibahas di DPR. Arah mana yang berlaku akan terlihat dari pergerakan rupiah pada pembukaan pasar Senin dan pembahasan RAPBN 2027 di DPR pekan-pekan berikutnya.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons",
+  "category": "Global",
+  "title": "Harga Emas Dunia Diproyeksi Tembus [US$4.572] per Ons",
+  "deck": "Pengamat memperkirakan harga emas dunia bergerak US$4.186-US$4.572 per troy ounce pekan depan, tergantung eskalasi geopolitik di Selat Hormuz dan Laut Merah.",
+  "image": "assets/img/harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T12:31:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460276-emas-dunia-dibayangi-geopolitik-pengamat-prediksi-bisa-tembus-us4572-per-troy-ounce",
+  "tags": [
+   "emas",
+   "harga emas dunia",
+   "geopolitik",
+   "komoditas"
+  ],
+  "body": [
+   "Pengamat mata uang dan komoditas Ibrahim Assuaibi memperkirakan harga emas dunia sepekan ke depan bisa bergerak di rentang US$4.186 sampai US$4.572 per troy ounce, tergantung arah pasar dan situasi geopolitik global. Proyeksi ini penting bagi siapa saja yang memegang emas sebagai simpanan atau berencana membeli, karena rentang yang disebutkan cukup lebar dan berarti harga emas masih punya ruang bergerak signifikan dalam waktu singkat.",
+   "Menurut Ibrahim, harga emas dunia ditutup di US$4.375 per troy ounce pada perdagangan sebelumnya. Jika tertekan, harga berpotensi turun ke US$4.279 pada perdagangan Senin dan melanjutkan penurunan ke US$4.186 dalam sepekan. Sebaliknya, jika momentum penguatan berlanjut, harga bisa naik ke US$4.479 pada Senin dan menembus US$4.572 dalam sepekan. Kedua level itu, US$4.186 dan US$4.572, menjadi batas bawah dan batas atas yang menurut Ibrahim berpotensi diuji pasar sepanjang pekan depan.",
+   "Ibrahim menyebut eskalasi geopolitik sebagai faktor utama yang bisa mendorong harga emas naik lebih tinggi, terutama jika terjadi gangguan di jalur pelayaran strategis seperti Selat Hormuz dan Laut Merah. Menurutnya, gangguan pada dua jalur itu biasanya membuat investor mencari aset aman seperti emas, sementara di sisi lain pelemahan nilai tukar rupiah turut berpotensi mengerek harga emas di dalam negeri."
+  ],
+  "fotoAdegan": "Close-up of gold bars and coins arranged on a counter inside a bustling Jakarta gold trading shop, warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a8149f3bd1a0-ilustrasi-emas-batangan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Proyeksi kali ini tidak menyebut skenario mana yang lebih mungkin, karena arah harga emas pekan depan sepenuhnya bergantung pada eskalasi geopolitik yang belum tentu terjadi, khususnya di Selat Hormuz dan Laut Merah. Yang jelas berubah adalah rentang pergerakan yang diperkirakan, dari US$4.186 sebagai batas bawah sampai US$4.572 sebagai batas atas, dibanding harga penutupan terakhir di US$4.375. Pihak yang langsung terdampak adalah pedagang dan pembeli emas fisik di dalam negeri, karena harga emas domestik mengikuti harga dunia sekaligus kurs rupiah, sehingga kalau rupiah melemah bersamaan dengan kenaikan harga dunia, harga emas batangan di dalam negeri bisa naik lebih tajam dari proyeksi global itu sendiri. Yang masih kurang untuk memastikan ke arah mana harga akan bergerak adalah kejelasan situasi di dua jalur pelayaran tersebut, sehingga pergerakan harga pada pembukaan pasar Senin, 17 Agustus, menjadi indikator awal yang perlu dicermati.",
+  "imageV": "msvhovwt"
+ },
+ {
   "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
   "category": "Energi",
   "title": "PLN Siagakan [45 Ribu] Personel Amankan Listrik HUT RI",

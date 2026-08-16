@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
+  "category": "Energi",
+  "title": "PLN Siagakan [45 Ribu] Personel Amankan Listrik HUT RI",
+  "deck": "PLN mengerahkan puluhan ribu personel dan ribuan unit cadangan daya untuk mengamankan pasokan listrik jelang HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026.",
+  "image": "assets/img/pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T09:53:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460242-dirut-pln-kawal-langsung-kelistrikan-nasional-jelang-hut-ke-81-kemerdekaan-ri-dari-posko-ntt",
+  "tags": [
+   "PLN",
+   "kelistrikan",
+   "HUT RI",
+   "Flores"
+  ],
+  "body": [
+   "PT PLN (Persero) memperketat pengamanan sistem kelistrikan nasional menjelang puncak peringatan Hari Ulang Tahun ke-81 Kemerdekaan Republik Indonesia pada 17 Agustus 2026. Direktur Utama PLN Darmawan Prasodjo bersama jajaran direksi turun langsung memantau kesiapan pembangkit, gardu induk, jaringan transmisi, hingga jalur distribusi di berbagai daerah, termasuk memimpin langsung dari posko di Manggarai Barat, Flores. Langkah ini penting karena gangguan listrik saat upacara kenegaraan, baik di tingkat nasional maupun daerah, akan langsung terlihat publik dan mengganggu jalannya acara.",
+   "Dalam konferensi pers pada Sabtu malam, 15 Agustus 2026, yang tersambung dengan Unit Induk Pusat Pengatur Beban Jawa, Madura, dan Bali di Depok, Darmawan menyebut PLN sudah memeriksa jaringan sejak awal Agustus. Ia menyampaikan bahwa kesiapan ini didukung koordinasi dengan Kementerian ESDM, Kementerian Sekretariat Negara, Sekretariat Kabinet, Direktorat Jenderal Ketenagalistrikan, dan Direktorat Jenderal Mineral dan Batubara.",
+   "Secara nasional, PLN memperkirakan beban puncak listrik pada 17 Agustus mencapai 42,6 gigawatt, sementara daya mampu pembangkit yang tersedia 51,6 gigawatt. Artinya ada cadangan 9 gigawatt, atau 21,1 persen di atas kebutuhan puncak, ruang aman yang disiapkan seandainya ada pembangkit atau jaringan yang bermasalah mendadak. Kesiagaan ini didukung lebih dari 45 ribu personel yang disebar di 2.275 titik siaga di seluruh Indonesia.",
+   "Sebagai cadangan pasokan, PLN menyiagakan 1.517 unit genset, 559 unit uninterruptible power supply atau alat penyimpan daya cadangan otomatis, dan 1.286 unit gardu listrik bergerak. Untuk mempercepat penanganan di lapangan, perusahaan juga menyiapkan 75 unit kabel bergerak, 318 truk crane, 3.424 mobil operasional, dan 3.583 motor operasional."
+  ],
+  "fotoAdegan": "Utility technicians inspecting power line transformers on a rural hillside substation in eastern Indonesia, transmission towers, early morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a8124d258d9b-direktur-utama-pln-darmawan-prasodjo-saat-memimpin-rapat-koordinasi-siaga-bencana-flores-nusa-tenggara-timur_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah tahun ini adalah skala kesiagaan yang dipaparkan PLN: lebih dari 45 ribu personel disebar di 2.275 titik, dengan cadangan daya nasional 9 gigawatt atau 21,1 persen di atas perkiraan beban puncak 42,6 gigawatt pada 17 Agustus. Yang terdampak langsung adalah warga di sekitar lokasi upacara, terutama di Manggarai Barat, Flores, yang tahun ini jadi sorotan karena posko utama Dirut PLN justru ditempatkan di sana, bukan di Jawa seperti biasanya. Pemilihan lokasi itu bisa dibaca sebagai sinyal perhatian pada kesiapan listrik di wilayah timur Indonesia, yang selama ini kerap disorot soal pemerataan infrastruktur, tapi berita ini tidak menyebut apakah ini praktik baru atau sekadar rotasi lokasi tahunan. Yang masih kurang untuk memastikan arahnya adalah data pembanding, seperti jumlah personel dan lokasi posko utama pada peringatan kemerdekaan tahun-tahun sebelumnya.",
+  "imageV": "msv9ow1x"
+ },
+ {
   "slug": "jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg",
   "category": "Makroekonomi",
   "title": "Jelang HUT RI, Cabai Rawit [Melonjak] ke Rp62.650/Kg",
@@ -28,6 +55,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Kenaikan cabai rawit di atas 5 persen dalam sehari, sementara harga beras dan minyak goreng justru tertahan atau turun, menunjukkan tekanan harga pangan saat ini terpusat pada cabai, bukan lonjakan pangan secara menyeluruh. Yang paling merasakan dampaknya adalah rumah tangga dan pedagang warung makan yang bergantung pada cabai sebagai bahan harian, karena kenaikan setajam ini langsung terasa di belanja dapur. ​Ada dua kemungkinan arah dari sini, kalau lonjakan ini murni dorongan permintaan menjelang HUT RI, harga berpeluang mereda begitu perayaan 17 Agustus lewat, tapi kalau penyebabnya gangguan pasokan di sentra produksi cabai, harga bisa bertahan tinggi lebih lama. Data PIHPS pekan depan, setelah HUT RI, akan menjadi penanda paling jelas ke arah mana pola harga ini bergerak.",
   "imageV": "msv6lvd0"
+ },
+ {
+  "slug": "minat-trading-naik-edukasi-soal-broker-jadi-sorotan",
+  "category": "Pasar Modal",
+  "title": "Minat Trading Naik, Edukasi soal Broker Jadi [Sorotan]",
+  "deck": "Di tengah meningkatnya minat trading di Indonesia, edukasi mulai bergeser ke pemahaman mekanisme broker dan Introducing Broker, bukan sekadar strategi jual beli.",
+  "image": "assets/img/minat-trading-naik-edukasi-soal-broker-jadi-sorotan.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T23:12:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460180-peminat-meningkat-berlin-tradelab-sokong-literasi-dan-edukasi-trading-di-indonesia",
+  "tags": [
+   "trading",
+   "edukasi keuangan",
+   "broker",
+   "media sosial"
+  ],
+  "body": [
+   "Minat masyarakat Indonesia terhadap trading di pasar keuangan terus meningkat seiring perkembangan teknologi digital. Salah satu sosok yang ikut mewarnai tren ini adalah Muhammad, pria asal Badung yang dikenal luas dengan nama Berlin Tradelab, dan telah menekuni industri trading sejak 2012. Fokusnya bukan sekadar strategi jual beli, melainkan sisi industri yang menurutnya jarang dibahas terbuka, seperti mekanisme broker, struktur biaya trading, dan peran Introducing Broker atau IB.",
+   "Perjalanan Berlin dimulai dari proses belajar panjang, mulai dari analisis teknikal, dinamika fundamental ekonomi, karakteristik volatilitas pasar, hingga disiplin pengelolaan risiko. Pada 2014 ia memperluas aktivitasnya ke sisi bisnis industri trading, mempelajari hubungan antara broker, Introducing Broker, dan komunitas trader, termasuk skema kerja sama, sistem kompensasi, dan mekanisme rebate. Sejak 2024, ia menjabat Community Manager di FXPayout, platform Introducing Broker yang menyediakan layanan rebate sekaligus edukasi bagi trader. “Pasar selalu berubah. Strategi yang berhasil hari ini belum tentu relevan beberapa tahun ke depan. Yang harus terus berkembang adalah cara berpikir, disiplin, dan kemampuan belajar,” ujar Berlin.",
+   "Melalui akun Instagram dan TikTok @berlintradelab, Berlin mendorong pendekatan literasi industri, bukan hanya soal kapan membeli atau menjual. Ia menekankan bahwa pemahaman soal mekanisme broker, biaya trading, dan pengelolaan risiko sama pentingnya dengan kemampuan membaca pergerakan pasar. Baginya, transparansi bukan sekadar nilai etis, melainkan fondasi kepercayaan jangka panjang antara pelaku industri dan trader. “Kepercayaan adalah aset paling berharga dalam industri ini. Kepercayaan dibangun melalui transparansi, edukasi yang bertanggung jawab, dan komunikasi yang terbuka,” katanya."
+  ],
+  "fotoAdegan": "A person's hands typing on a laptop keyboard with blurred financial chart screens on monitors in a dim home office setup",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a808f2d06a95-peminat-meningkat-berlin-tradelab-sokong-literasi-dan-edukasi-trading-di-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan atau data pasar, melainkan pendekatan edukasi trading yang mulai bergeser dari sekadar strategi jual beli ke pemahaman mekanisme industri, seperti biaya broker dan skema rebate lewat Introducing Broker. Yang terdampak adalah trader ritel, terutama pemula yang mengikuti akun edukasi di media sosial dan berpotensi memakai layanan broker atau IB seperti FXPayout. Berita ini tidak menyertakan data resmi berapa banyak trader baru di Indonesia atau dari sumber mana klaim peningkatan minat ini berasal, sehingga belum bisa dipastikan apakah ini mencerminkan tren pasar yang lebih luas atau sebatas aktivitas promosi individu dan platform tertentu. Yang perlu ditunggu adalah data jumlah investor atau nasabah pialang berjangka teregistrasi dari Bappebti maupun OJK, karena itulah yang akan menunjukkan skala sebenarnya dari fenomena ini.",
+  "imageV": "msv9owxv"
  },
  {
   "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",

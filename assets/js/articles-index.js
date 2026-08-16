@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
+  "category": "Energi",
+  "title": "PLN Siagakan [45 Ribu] Personel Amankan Listrik HUT RI",
+  "deck": "PLN mengerahkan puluhan ribu personel dan ribuan unit cadangan daya untuk mengamankan pasokan listrik jelang HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri.jpg",
+  "imageV": "msv9ow1x",
+  "tags": [
+   "PLN",
+   "kelistrikan",
+   "HUT RI",
+   "Flores"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460242-dirut-pln-kawal-langsung-kelistrikan-nasional-jelang-hut-ke-81-kemerdekaan-ri-dari-posko-ntt"
+ },
+ {
   "slug": "jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg",
   "category": "Makroekonomi",
   "title": "Jelang HUT RI, Cabai Rawit [Melonjak] ke Rp62.650/Kg",
@@ -20,6 +37,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460225-harga-pangan-jelang-hut-ri-cabai-rawit-merah-tembus-rp62650-per-kilogram"
+ },
+ {
+  "slug": "minat-trading-naik-edukasi-soal-broker-jadi-sorotan",
+  "category": "Pasar Modal",
+  "title": "Minat Trading Naik, Edukasi soal Broker Jadi [Sorotan]",
+  "deck": "Di tengah meningkatnya minat trading di Indonesia, edukasi mulai bergeser ke pemahaman mekanisme broker dan Introducing Broker, bukan sekadar strategi jual beli.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/minat-trading-naik-edukasi-soal-broker-jadi-sorotan.jpg",
+  "imageV": "msv9owxv",
+  "tags": [
+   "trading",
+   "edukasi keuangan",
+   "broker",
+   "media sosial"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460180-peminat-meningkat-berlin-tradelab-sokong-literasi-dan-edukasi-trading-di-indonesia"
  },
  {
   "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",

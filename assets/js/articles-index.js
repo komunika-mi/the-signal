@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg",
+  "category": "Makroekonomi",
+  "title": "Jelang HUT RI, Cabai Rawit [Melonjak] ke Rp62.650/Kg",
+  "deck": "Harga cabai rawit merah dan hijau melonjak tajam pada data PIHPS Bank Indonesia, sementara beras relatif stabil dan minyak goreng justru turun.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg.jpg",
+  "imageV": "msv6lvd0",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460225-harga-pangan-jelang-hut-ri-cabai-rawit-merah-tembus-rp62650-per-kilogram"
+ },
+ {
   "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",
   "category": "Energi",
   "title": "Gempa M7,7 Guncang NTT, Badan Geologi Minta Warga [Waspada]",

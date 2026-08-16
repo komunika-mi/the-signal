@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "z6ieuHPQJfI",
+  "title": "KBPBI Kawal Pembahasan RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Koalisi Besar Perjuangan Buruh Indonesia menyatakan akan mengawal penuh proses pembahasan Rancangan Undang-Undang Ketenagakerjaan.",
+  "takeaway": "Pembahasan RUU ini menyangkut aturan ketenagakerjaan yang berdampak langsung pada pekerja dan pelaku usaha, sehingga relevan untuk dipantau."
+ },
+ {
   "id": "8CtcljS12aQ",
   "title": "Pemerintah Fokus RAPBN 2027 dan Program Lapangan Kerja",
   "category": "Makroekonomi",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Pemerintah membuka ekspor beras ke Malaysia setelah memastikan produksi dan stok nasional mencukupi. Tahap awal, 1.000 ton beras premium dikirim melalui Entikong, Kalimantan Barat.",
   "takeaway": "Langkah ini menandai posisi Indonesia sebagai eksportir beras, relevan bagi pelaku usaha pangan dan petani."
- },
- {
-  "id": "dxUUYrCfsag",
-  "title": "DPR Kebut Selesaikan RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "DPR mempercepat penyelesaian RUU Ketenagakerjaan sebagai tindak lanjut putusan Mahkamah Konstitusi Oktober 2024. Pimpinan DPR menyerap masukan serikat pekerja dan buruh sebelum pembahasan dilanjutkan.",
-  "takeaway": "Regulasi ini akan menentukan hak dan perlindungan pekerja, penting diikuti dunia usaha dan tenaga kerja."
  }
 ];

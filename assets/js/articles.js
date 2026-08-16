@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg",
+  "category": "Makroekonomi",
+  "title": "Jelang HUT RI, Cabai Rawit [Melonjak] ke Rp62.650/Kg",
+  "deck": "Harga cabai rawit merah dan hijau melonjak tajam pada data PIHPS Bank Indonesia, sementara beras relatif stabil dan minyak goreng justru turun.",
+  "image": "assets/img/jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T08:31:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460225-harga-pangan-jelang-hut-ri-cabai-rawit-merah-tembus-rp62650-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "body": [
+   "Harga sejumlah bahan pangan strategis bergerak menjelang peringatan HUT RI, dengan lonjakan paling tajam terjadi pada cabai rawit merah yang kini tembus Rp62.650 per kilogram. Kenaikan ini penting bagi pembaca karena bahan dapur harian seperti cabai langsung terasa dampaknya di belanja rumah tangga maupun warung makan menjelang perayaan 17 Agustus.",
+   "Berdasarkan data Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia, per Minggu, 16 Agustus 2026 pukul 08.00 WIB, cabai rawit merah naik 5,03 persen atau Rp3.000 dibanding hari sebelumnya. Cabai rawit hijau turut melonjak 5,23 persen atau Rp2.750 menjadi Rp55.350 per kilogram, sementara cabai merah keriting naik tipis 0,1 persen menjadi Rp50.450 per kilogram. Daging ayam ras segar juga naik 3,25 persen atau Rp1.300 menjadi Rp41.350 per kilogram.",
+   "Berbeda dengan cabai, harga beras relatif tertahan. Beras kualitas bawah I dan II masing-masing stabil di Rp14.800 dan Rp14.600 per kilogram, sedangkan beras medium I dan II hanya naik tipis Rp50 menjadi Rp16.500 dan Rp16.300 per kilogram. Beras super I bertahan di Rp17.750 per kilogram, sementara beras super II naik Rp50 menjadi Rp17.250 per kilogram.",
+   "Sebaliknya, harga bawang merah turun 0,25 persen menjadi Rp39.450 per kilogram dan bawang putih turun 1,34 persen menjadi Rp40.500 per kilogram. Minyak goreng curah dan minyak goreng kemasan bermerek 1 juga ikut turun, masing-masing menjadi Rp20.350 dan Rp24.300 per kilogram."
+  ],
+  "fotoAdegan": "Vendor arranging fresh red and green chili peppers in woven baskets at a busy traditional market stall, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/03/6981a55a1cc57-ilustrasi-pedagang-menyortir-cabai-rawit-merah-di-pasar-senen-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan cabai rawit di atas 5 persen dalam sehari, sementara harga beras dan minyak goreng justru tertahan atau turun, menunjukkan tekanan harga pangan saat ini terpusat pada cabai, bukan lonjakan pangan secara menyeluruh. Yang paling merasakan dampaknya adalah rumah tangga dan pedagang warung makan yang bergantung pada cabai sebagai bahan harian, karena kenaikan setajam ini langsung terasa di belanja dapur. ​Ada dua kemungkinan arah dari sini, kalau lonjakan ini murni dorongan permintaan menjelang HUT RI, harga berpeluang mereda begitu perayaan 17 Agustus lewat, tapi kalau penyebabnya gangguan pasokan di sentra produksi cabai, harga bisa bertahan tinggi lebih lama. Data PIHPS pekan depan, setelah HUT RI, akan menjadi penanda paling jelas ke arah mana pola harga ini bergerak.",
+  "imageV": "msv6lvd0"
+ },
+ {
   "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",
   "category": "Energi",
   "title": "Gempa M7,7 Guncang NTT, Badan Geologi Minta Warga [Waspada]",

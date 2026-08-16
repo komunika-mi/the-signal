@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas",
+  "category": "Energi",
+  "title": "RUU Migas Lanjut, DPR Siapkan [BUK Migas] Ganti SKK Migas?",
+  "deck": "Baleg DPR menyetujui RUU Migas berlanjut ke pembahasan berikutnya, termasuk rencana BUK Migas di bawah Presiden sebagai tindak lanjut putusan MK yang dulu membubarkan BP Migas.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas.jpg",
+  "imageV": "msvye0ah",
+  "tags": [
+   "RUU Migas",
+   "BUK Migas",
+   "SKK Migas",
+   "Komisi XII DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460362-ruu-migas-melaju-ke-paripurna-dpr-siapkan-buk-migas-untuk-gantikan-skk-migas"
+ },
+ {
   "slug": "bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang",
   "category": "UMKM",
   "title": "BRI Peduli [Dampingi] UMKM Camilan Sunda di Sumedang",

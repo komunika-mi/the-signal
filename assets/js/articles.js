@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas",
+  "category": "Energi",
+  "title": "RUU Migas Lanjut, DPR Siapkan [BUK Migas] Ganti SKK Migas?",
+  "deck": "Baleg DPR menyetujui RUU Migas berlanjut ke pembahasan berikutnya, termasuk rencana BUK Migas di bawah Presiden sebagai tindak lanjut putusan MK yang dulu membubarkan BP Migas.",
+  "image": "assets/img/ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T20:40:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460362-ruu-migas-melaju-ke-paripurna-dpr-siapkan-buk-migas-untuk-gantikan-skk-migas",
+  "tags": [
+   "RUU Migas",
+   "BUK Migas",
+   "SKK Migas",
+   "Komisi XII DPR"
+  ],
+  "body": [
+   "Rapat Pleno Badan Legislasi DPR RI menyetujui Rancangan Undang-Undang Minyak dan Gas Bumi (RUU Migas) untuk dilanjutkan ke tahap proses legislasi berikutnya. Salah satu poin utama yang diatur dalam RUU ini adalah rencana pembentukan Badan Usaha Khusus Minyak dan Gas Bumi, atau BUK Migas, yang akan berada langsung di bawah Presiden. Ini penting diikuti karena menyangkut lembaga yang mengelola dan mengawasi kontrak-kontrak migas nasional, peran yang selama ini dijalankan SKK Migas.",
+   "Ketua Komisi XII DPR RI Bambang Patijaya menjelaskan, rencana ini merupakan tindak lanjut dari Putusan Mahkamah Konstitusi Nomor 36/PUU-X/2012. Putusan itu dulu membubarkan BP Migas, badan pengelola hulu migas saat itu, dan pemerintah meresponsnya dengan mendirikan SKK Migas agar pengelolaan sumber daya alam tidak mengalami kekosongan lembaga.",
+   "Bambang menegaskan kehadiran BUK Migas tidak otomatis mengubah pola utama pengelolaan sektor hulu migas yang sudah berjalan selama ini. Ia menyebut perubahan ini lebih ke persoalan penataan kelembagaan, bukan pergantian fungsi. Menurutnya, BUK Migas nanti tetap berada di bawah Presiden dan secara teknis akan berkoordinasi dengan kementerian teknis, mirip dengan posisi SKK Migas saat ini.",
+   "Sementara itu, rincian bentuk organisasi dan mekanisme kerja BUK Migas belum diputuskan dan masih akan dibahas pada tahap berikutnya bersama pemerintah."
+  ],
+  "fotoAdegan": "Wide shot of an offshore oil and gas platform under a hazy tropical sky, support vessel idling nearby, calm sea",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/16/6a58c8c72bf8e-ketua-komisi-xii-dpr-ri-bambang-patijaya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cara pengelolaan hulu migas, melainkan status hukum lembaganya. SKK Migas berpeluang berganti nama dan bentuk menjadi BUK Migas yang tetap berada langsung di bawah Presiden, sebagai jawaban atas putusan Mahkamah Konstitusi tahun 2012 yang dulu membubarkan pendahulunya, BP Migas. Yang terdampak adalah kontraktor kontrak kerja sama migas dan Kementerian ESDM, karena merekalah pihak yang berhubungan langsung dengan lembaga pengelola hulu migas ini dalam urusan perizinan dan koordinasi teknis. Ketua Komisi XII DPR sendiri menyebut perubahan ini sebagai persoalan ganti baju, yang menunjukkan arah RUU ini condong ke penguatan payung hukum lembaga, bukan perombakan wewenangnya. Yang akan memastikan benar tidaknya pembacaan itu adalah pembahasan lanjutan bersama pemerintah soal bentuk organisasi dan mekanisme kerja BUK Migas, sebab di situlah baru terlihat apakah lembaga baru ini benar-benar setara SKK Migas atau punya kewenangan yang berbeda.",
+  "imageV": "msvye0ah"
+ },
+ {
   "slug": "bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang",
   "category": "UMKM",
   "title": "BRI Peduli [Dampingi] UMKM Camilan Sunda di Sumedang",

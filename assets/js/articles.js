@@ -3,6 +3,28 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang",
+  "category": "UMKM",
+  "title": "BRI Peduli [Dampingi] UMKM Camilan Sunda di Sumedang",
+  "deck": "Kelompok usaha camilan tradisional di Desa Cibubuan, Sumedang, mendapat pendampingan BRI Peduli lewat program AURA agar produksi tak lagi bergantung cuaca.",
+  "image": "assets/img/bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T19:18:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460356-berkat-program-aura-bri-peduli-kelompok-usaha-harapan-bersama-di-sumedang-buka-peluang-ekonomi-di-desa",
+  "tags": [],
+  "body": [
+   "Sebuah kelompok usaha rumahan di Desa Cibubuan, Kecamatan Conggeang, Kabupaten Sumedang, mendapat pendampingan dari program BRI Peduli bernama AURA. Bantuan ini membuat proses produksi camilan tradisional khas Sunda milik kelompok tersebut berjalan lebih lancar dan membuka peluang kerja baru bagi warga sekitar desa.",
+   "Kelompok Usaha Harapan Bersama, yang diketuai Sri Dolar Damayanti, bermula dari usaha rumahan HJ. Nonoh Snack yang berdiri sejak 2014 dan resmi menjadi kelompok pada 2019. Dengan resep turun-temurun, kelompok ini memproduksi beragam camilan khas Sunda mulai dari emping melinjo original, opak, opak ketan bakar, opak kembung, raginang, kolontong, hingga berbagai jenis keripik. Saat pandemi Covid-19, kelompok ini menjadi salah satu sumber penghasilan bagi anggotanya di tengah keterbatasan ekonomi.",
+   "Menurut Sri, tantangan terbesar muncul saat permintaan melonjak menjelang Lebaran dan Tahun Baru, sementara proses produksi masih bergantung pada penjemuran manual. Kondisi ini membuat produksi berisiko terganggu saat musim hujan karena keterbatasan alat pengering.",
+   "Pada 2026, kelompok ini menjadi salah satu penerima manfaat program AURA atau Aspire to Uplift, Revive, and Achieve yang digagas BRI Peduli untuk memperkuat kapasitas pelaku UMKM. Setelah mendapat dukungan program ini, proses pengeringan tidak lagi sepenuhnya bergantung pada cuaca sehingga produksi bisa tetap berjalan saat permintaan naik. Sistem penyimpanan produk juga menjadi lebih rapi dan higienis, yang berpengaruh pada kualitas camilan yang dihasilkan."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a81a94a83f36-kelompok-usaha-harapan-bersama-di-sumedang-yang-mengembangkan-hj-nonoh-snack-lewat-program-aura-bri-peduli_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah alat dan sistem kerja, bukan uang tunai: kelompok ini mendapat dukungan yang membuat proses pengeringan camilan tidak lagi bergantung penuh pada cuaca, plus sistem penyimpanan yang lebih rapi dan higienis. Yang terdampak langsung adalah anggota Kelompok Usaha Harapan Bersama di Desa Cibubuan, Sumedang, kebanyakan warga yang mengandalkan usaha camilan rumahan ini sebagai sumber penghasilan sejak masa pandemi. Berita ini belum menyebut berapa besar kenaikan kapasitas produksi, berapa jumlah anggota yang terdampak, atau berapa banyak kelompok UMKM lain yang sudah dan akan dijangkau program AURA secara nasional. Tanpa angka skala itu, sulit menilai apakah kasus di Sumedang ini contoh tunggal atau bagian dari program yang memang diperluas ke banyak desa, dan itu baru akan terlihat kalau BRI Peduli merilis data jumlah UMKM binaan AURA secara keseluruhan.",
+  "imageV": "msvuhid5"
+ },
+ {
   "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
   "category": "Energi",
   "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",

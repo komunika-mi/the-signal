@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "71oMi3aMkTQ",
+  "title": "Bank Jateng Gelar Gebyar Fest 81 Libatkan UMKM Perkuat Ekonomi Daerah",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
+  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah."
+ },
+ {
   "id": "9KfKSXn_gWU",
   "title": "Target Optimalisasi Energi Surya dan Elektrifikasi Mobilitas",
   "category": "Energi",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "AKAP",
   "summary": "Presiden Prabowo Subianto menyiapkan Danantara Development Management Fund untuk mendukung proyek strategis jangka panjang, termasuk proyek mobil nasional, tanpa membebani APBN.",
   "takeaway": "Skema pembiayaan di luar APBN ini relevan bagi pembaca ekonomi karena menunjukkan strategi baru pendanaan proyek besar pemerintah."
- },
- {
-  "id": "PUk0rF6uaw4",
-  "title": "Jakarta-Bali Ditetapkan jadi Lokasi PFII untuk Tarik Investor",
-  "category": "Makroekonomi",
-  "program": "AKAP",
-  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia, yang diharapkan menarik lebih banyak investor ke Indonesia.",
-  "takeaway": "Penetapan lokasi PFII penting diikuti pelaku pasar karena berkaitan langsung dengan iklim investasi nasional."
  }
 ];

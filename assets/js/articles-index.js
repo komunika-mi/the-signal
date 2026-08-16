@@ -5,6 +5,18 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang",
+  "category": "UMKM",
+  "title": "BRI Peduli [Dampingi] UMKM Camilan Sunda di Sumedang",
+  "deck": "Kelompok usaha camilan tradisional di Desa Cibubuan, Sumedang, mendapat pendampingan BRI Peduli lewat program AURA agar produksi tak lagi bergantung cuaca.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang.jpg",
+  "imageV": "msvuhid5",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460356-berkat-program-aura-bri-peduli-kelompok-usaha-harapan-bersama-di-sumedang-buka-peluang-ekonomi-di-desa"
+ },
+ {
   "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
   "category": "Energi",
   "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",

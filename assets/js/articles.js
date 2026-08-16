@@ -3,6 +3,108 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",
+  "category": "Energi",
+  "title": "PLN [Pulihkan] Sebagian Besar Listrik Flores Usai Gempa",
+  "deck": "Sehari usai gempa M7,7 guncang NTT, 11 gardu induk dan pasokan utama Flores sudah normal, tapi 29 dari 1.557 desa masih gelap karena akses tertutup longsor.",
+  "image": "assets/img/pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T00:29:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460391-pln-berhasil-pulihkan-sebagian-besar-kelistrikan-flores-pascabencana-gempa-ntt",
+  "tags": [
+   "PLN",
+   "gempa NTT",
+   "listrik Flores",
+   "pemulihan kelistrikan"
+  ],
+  "body": [
+   "Sehari setelah gempa berkekuatan magnitudo 7,7 mengguncang Nusa Tenggara Timur pada Sabtu pagi, PT PLN (Persero) melaporkan pemulihan listrik di Pulau Flores sudah memasuki tahap lanjut. Seluruh 11 gardu induk yang sempat terdampak kembali beroperasi dan pasokan listrik utama ke pulau itu sudah normal per Minggu malam. Kecepatan ini penting karena listrik menjadi salah satu infrastruktur dasar yang harus pulih lebih dulu agar komunikasi, layanan kesehatan, dan aktivitas warga pascabencana bisa berjalan kembali.",
+   "Meski jaringan utama sudah pulih, PLN mencatat masih ada 29 dari total 1.557 desa di Flores yang belum teraliri listrik. Penyebabnya bukan kerusakan pada pembangkit atau gardu induk, melainkan akses jalan menuju lokasi yang masih tertutup longsor susulan gempa, sehingga tim teknisi belum bisa masuk untuk mengganti tiang dan kabel distribusi yang rusak di dekat rumah warga.",
+   "Direktur Utama PLN Darmawan Prasodjo menyatakan fokus saat ini bergeser dari memulihkan pasokan besar ke memastikan listrik sampai ke titik-titik pelanggan yang masih terdampak, termasuk beberapa dusun yang aksesnya masih tertutup atau terisolir. Ia menegaskan setiap jaringan yang akan dinyalakan kembali harus lebih dulu dipastikan aman bagi warga maupun petugas, sehingga proses pemulihan berjalan bertahap mengikuti kondisi di lapangan, bukan asal cepat.",
+   "General Manager PLN Unit Induk Wilayah NTT, F. Eko Sulistyono, menyebut personel PLN masih bersiaga di sejumlah lokasi terdampak untuk melakukan pengecekan kondisi jaringan, perbaikan, dan penormalan aliran listrik secara bertahap."
+  ],
+  "fotoAdegan": "Line workers in safety vests repairing a fallen electric pole along a rural mountain road in eastern Indonesia, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a81f00bc401b-petugas-pln-tengah-melakukan-pemulihan-sistem-kelistrikan-di-salah-satu-lokasi-terdampak-bencana-gempa-bumi-flores-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: dari 11 gardu induk, semacam stasiun penyalur listrik utama yang sempat mati akibat gempa, semuanya sudah menyala lagi dan pasokan besar ke Flores sudah normal hanya sehari setelah gempa magnitudo 7,7. Yang tersisa adalah 29 dari 1.557 desa, sekitar dua persen dari seluruh desa di Flores, yang masih gelap karena jalan menuju lokasi tertutup longsor sehingga tim PLN belum bisa membawa masuk tiang dan kabel pengganti. Yang terdampak jelas warga di desa-desa terisolir itu, bukan seluruh Flores, karena mayoritas pulau sudah kembali normal. Pola pemulihannya menunjukkan PLN mendahulukan jaringan besar baru menyisir titik-titik kecil terakhir, dan perusahaan memilih tidak menyalakan jaringan sebelum dipastikan aman meski itu memperlambat proses di desa-desa tersisa. Yang akan menentukan cepat atau molornya pemulihan total adalah kecepatan akses jalan ke desa-desa terisolir itu dibuka kembali, jadi angka jumlah desa yang belum teraliri listrik dalam laporan PLN beberapa hari ke depan jadi indikator paling jelas untuk dipantau.",
+  "imageV": "mswflg50"
+ },
+ {
+  "slug": "pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt",
+  "category": "BUMN",
+  "title": "Pertamina Gelar Tebus Murah [Sembako] untuk Korban Gempa NTT",
+  "deck": "Pertamina Patra Niaga menjual 8.100 paket sembako seharga Rp100.000 di sembilan kota pada 16-17 Agustus 2026, seluruh hasil penjualan disumbangkan untuk korban gempa NTT.",
+  "image": "assets/img/pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T23:58:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460389-pertamina-patra-niaga-gelar-tebus-murah-paket-sembako-hasil-penjualan-akan-disumbangkan-ke-korban-gempa-ntt-100",
+  "tags": [],
+  "body": [
+   "Pertamina Patra Niaga menggelar program Tebus Murah Paket Sembako Peduli Bencana NTT sebagai respons atas gempa yang melanda Nusa Tenggara Timur. Sebanyak 8.100 paket sembako disiapkan, dan perusahaan memastikan seluruh uang hasil penjualannya akan disalurkan untuk membantu masyarakat terdampak. Program ini berlangsung dua hari, 16 sampai 17 Agustus 2026, bersamaan dengan rangkaian acara MyPertamina Pesta Rakyat.",
+   "Dari total 8.100 paket, 2.100 di antaranya tersedia di Jakarta melalui acara MyPertamina Pesta Rakyat di Hutan Kota GBK. Sisanya dibagi rata, masing-masing 750 paket, di delapan kota lain yaitu Medan, Palembang, Bandung, Semarang, Surabaya, Balikpapan, Makassar, dan Maluku. Setiap paket berisi 5 kilogram beras, 1 kilogram gula pasir, 1 liter minyak goreng, dan satu kaleng sarden 155 gram, yang bisa ditebus konsumen dengan harga Rp100.000.",
+   "VP Corporate Communication PT Pertamina Patra Niaga, Kitty Andhora, menyampaikan bahwa program ini merupakan bentuk simpati perusahaan sekaligus ajakan kepada masyarakat untuk ikut membantu korban gempa NTT. Ia menegaskan bahwa paket yang ditebus bukan hanya memenuhi kebutuhan pokok pembeli, tetapi juga menjadi bagian dari dukungan bagi masyarakat NTT karena seluruh hasil penjualan disumbangkan. Di luar program Tebus Murah ini, Pertamina Patra Niaga juga menyalurkan bantuan lewat program Corporate Social Responsibility yang berjalan terpisah untuk mendukung kebutuhan masyarakat terdampak."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/15/6a7faa026145a-salah-satu-gedung-di-maumere-yang-ambruk-akibat-gempa-di-mbay-nagakeo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program ini menggabungkan transaksi jual beli dengan donasi, konsumen membayar Rp100.000 untuk paket sembako, dan seluruh uang itu disalurkan ke korban gempa NTT, terpisah dari jalur bantuan CSR yang disebut sudah berjalan. Yang terdampak langsung adalah pembeli di sembilan kota, Jakarta dan delapan kota lain, yang bisa ikut program ini selama stok 8.100 paket masih tersedia, serta korban gempa NTT sebagai penerima manfaat akhir. Berita ini belum menyebutkan berapa total dana yang akhirnya terkumpul, bagaimana dana itu disalurkan ke lapangan, atau berapa besar bantuan lewat jalur CSR yang berjalan paralel, sehingga belum bisa dibaca apakah skema jual-donasi seperti ini akan jadi pola tetap Pertamina saat merespons bencana atau hanya dipakai sekali ini. Yang perlu ditunggu adalah laporan resmi hasil program setelah periode 16-17 Agustus 2026 berakhir, termasuk rincian penyaluran dana ke korban gempa NTT.",
+  "imageV": "mswflgji"
+ },
+ {
+  "slug": "dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha",
+  "category": "Bisnis",
+  "title": "Dahlan Iskan Bongkar Sisi Gelap [Utang] Pengusaha",
+  "deck": "Dahlan Iskan mempertemukan pengusaha yang pernah terlilit utang besar dalam talk show di Surabaya, membahas kapan utang berubah jadi beban dan cara membangun ulang bisnis.",
+  "image": "assets/img/dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T23:45:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460386-dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha-rp350-miliar-hingga-800-cek-kosong",
+  "tags": [
+   "dahlan iskan",
+   "pengusaha",
+   "utang",
+   "manajemen bisnis"
+  ],
+  "body": [
+   "Dahlan Iskan mengumpulkan sejumlah pengusaha yang pernah terjerat utang hingga ratusan miliar rupiah dalam sebuah talk show di Surabaya. Mereka berbagi cerita tentang titik ketika utang, yang tadinya jadi alat memperbesar usaha, justru berbalik menjadi beban yang mengancam kelangsungan bisnis. Diskusi ini menyentuh dilema yang akrab bagi pelaku usaha kecil dan menengah, yaitu sulit berkembang tanpa utang, tapi berisiko ambruk kalau utang dibiarkan menumpuk tanpa kendali.",
+   "Talk show bertajuk 75 Tahun Dahlan Iskan dengan tema Dilema Pengusaha, Utang Tambah Beban, Tidak Berutang Tak Berkembang, digelar di Hotel Shangri-La Surabaya akhir pekan lalu. Dahlan menekankan pentingnya keberanian pengusaha mengerem ekspansi begitu utang mulai mengganggu kesehatan perusahaan. Ia menggambarkannya seperti mobil yang melaju kencang dan harus direm sebelum masuk jurang, sebuah peringatan bahwa pertumbuhan yang dipaksakan lewat utang punya batas.",
+   "Salah satu pengusaha yang berbagi cerita adalah Tri Dawang, yang bergerak di bidang sistem teknologi informasi. Pada 2021, bisnisnya masih menanggung banyak utang karena ia sempat meyakini bahwa usaha harus ditopang pinjaman agar bisa tumbuh. Setelah seluruh kewajibannya lunas, pandangannya berubah, ia mendapati bisnis tetap bisa berkembang lewat pengelolaan kas yang lebih disiplin tanpa terus menambah utang.",
+   "Cerita lain datang dari Syaikhul Hadi, pengusaha sarana produksi pertanian asal Ponorogo, yang sempat mengalami tekanan lebih berat. Sebelum krisis, bisnisnya berkembang agresif, ia pernah memegang hak distribusi produk dari sekitar 55 perusahaan dan membuka cabang di berbagai wilayah Jawa maupun luar Jawa."
+  ],
+  "fotoAdegan": "Stacks of agricultural supply sacks and crates inside a rural distribution warehouse, workers loading a pickup truck, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/07/09/686d6dced8610-ada-yang-janggal-soal-penetapan-dahlan-iskan-jadi-tersangka-kuasa-hukum-lontarkan-protes-keras_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Laporan ini adalah rangkuman sesi berbagi pengalaman dalam sebuah talk show, bukan rilis data atau kebijakan resmi, sehingga tidak ada angka utang atau kondisi keuangan yang bisa dipastikan dari isi laporan ini sendiri. Pola yang bisa dipetik justru konsisten pada dua pengusaha yang tampil, satu di bidang teknologi informasi dan satu di sarana produksi pertanian, yaitu keduanya membesarkan usaha dengan utang sebelum akhirnya direm karena pertumbuhan tidak lagi diimbangi arus kas. Pelaku usaha kecil dan menengah yang mengandalkan pinjaman untuk membuka cabang atau menambah stok adalah pihak yang paling relevan mengambil pelajaran dari cerita ini. Yang belum terungkap adalah rincian bagaimana persisnya Syaikhul Hadi keluar dari tekanan utangnya, sehingga pembaca perlu bagian lanjutan cerita itu untuk menilai apakah polanya benar-benar sama dengan pengalaman Tri Dawang.",
+  "imageV": "mswflh4c"
+ },
+ {
+  "slug": "pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri",
+  "category": "Energi",
+  "title": "PLN Siagakan [Listrik] Berlapis untuk Upacara HUT ke-81 RI",
+  "deck": "Menjelang upacara kemerdekaan di Istana Merdeka, PLN pasang sistem pengamanan listrik berlapis lima dengan genset dan UPS cadangan.",
+  "image": "assets/img/pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T23:24:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460383-dirut-pln-tinjau-langsung-keandalan-listrik-peringatan-hut-ke-81-ri",
+  "tags": [
+   "PLN",
+   "listrik",
+   "HUT RI",
+   "Istana Merdeka"
+  ],
+  "body": [
+   "Direktur Utama PT PLN (Persero) Darmawan Prasodjo turun langsung memeriksa kesiapan sistem kelistrikan di Istana Merdeka, Jakarta, pada Minggu (16/8), sehari sebelum upacara peringatan HUT ke-81 Kemerdekaan RI. Pengecekan ini dilakukan agar pasokan listrik untuk upacara kenegaraan pada Senin (17/8) tidak mengalami gangguan.",
+   "Untuk mengamankan listrik di kawasan Istana, PLN menyiapkan sistem pengamanan berlapis lima yang mengandalkan dua subsistem dari empat gardu induk, diperkuat empat penyulang atau jalur distribusi tambahan. Sebagai cadangan, disiagakan empat unit genset dengan total daya 8.000 kilovolt ampere serta delapan unit UPS, alat penyimpan listrik cadangan yang otomatis menyala saat listrik utama padam, dengan total kapasitas 3.200 kilovolt ampere. PLN juga menempatkan 132 petugas di 26 titik pemantauan agar bisa merespons cepat bila ada gangguan, dengan target tidak ada listrik padam sama sekali selama acara berlangsung.",
+   "General Manager PLN Unit Induk Distribusi Jakarta Raya, Moch. Andy Adchaminoerdin, mengatakan setiap lokasi kegiatan mendapat skenario pengamanan sesuai kebutuhannya masing-masing, dengan sistem utama yang diperkuat sumber cadangan dari gardu induk atau subsistem berbeda. Persiapan serupa juga sudah diuji coba di kawasan Monas, tempat rangkaian acara kemerdekaan lain turut berlangsung.",
+   "Darmawan menegaskan PLN berupaya maksimal mengawal seluruh rangkaian peringatan kemerdekaan tahun ini. \"PLN all out mengawal seluruh rangkaian peringatan kemerdekaan. Kami ingin seluruh sistem yang mendukung kegiatan berjalan andal. Khusus untuk upacara kenegaraan di Istana Merdeka, kami siapkan pengamanan berlapis agar pasokan listrik tetap terjaga selama kegiatan berlangsung,\" ujar Darmawan."
+  ],
+  "fotoAdegan": "Technicians in safety vests inspecting backup generators and cable panels near a government compound at dawn",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a81e22958a4e-petugas-pln-ketika-mengecek-keandalan-sistem-kelistrikan-di-powerhouse-pln-istana-kepresidenan-jakarta-menjelang-rangkaian-peringatan-hut-ke-81-kemerdekaan-ri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini murni soal teknis, PLN menaikkan lapisan pengamanan listrik di Istana Merdeka jadi lima lapis, dengan cadangan dari empat gardu induk, empat genset berdaya total 8.000 kilovolt ampere, delapan unit UPS atau baterai cadangan otomatis berkapasitas 3.200 kilovolt ampere, dan 132 petugas di 26 titik pantau. Yang terdampak langsung adalah jalannya upacara kenegaraan di Istana Merdeka dan kawasan Monas, bukan pasokan listrik masyarakat umum, karena ini persiapan khusus untuk satu hari acara. Berita ini belum menunjukkan perubahan arah kebijakan energi apa pun, sebab pengamanan berlapis semacam ini rutin disiapkan PLN setiap peringatan kemerdekaan. Yang akan membuktikan apakah persiapan sebesar ini efektif adalah pelaksanaan upacara itu sendiri pada Senin, 17 Agustus, yakni apakah target zero downtime, listrik tidak padam sama sekali, benar-benar tercapai.",
+  "imageV": "mswflhih"
+ },
+ {
   "slug": "ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas",
   "category": "Energi",
   "title": "RUU Migas Lanjut, DPR Siapkan [BUK Migas] Ganti SKK Migas?",

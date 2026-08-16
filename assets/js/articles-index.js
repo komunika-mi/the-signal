@@ -5,6 +5,69 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",
+  "category": "Energi",
+  "title": "PLN [Pulihkan] Sebagian Besar Listrik Flores Usai Gempa",
+  "deck": "Sehari usai gempa M7,7 guncang NTT, 11 gardu induk dan pasokan utama Flores sudah normal, tapi 29 dari 1.557 desa masih gelap karena akses tertutup longsor.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa.jpg",
+  "imageV": "mswflg50",
+  "tags": [
+   "PLN",
+   "gempa NTT",
+   "listrik Flores",
+   "pemulihan kelistrikan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460391-pln-berhasil-pulihkan-sebagian-besar-kelistrikan-flores-pascabencana-gempa-ntt"
+ },
+ {
+  "slug": "pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt",
+  "category": "BUMN",
+  "title": "Pertamina Gelar Tebus Murah [Sembako] untuk Korban Gempa NTT",
+  "deck": "Pertamina Patra Niaga menjual 8.100 paket sembako seharga Rp100.000 di sembilan kota pada 16-17 Agustus 2026, seluruh hasil penjualan disumbangkan untuk korban gempa NTT.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt.jpg",
+  "imageV": "mswflgji",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460389-pertamina-patra-niaga-gelar-tebus-murah-paket-sembako-hasil-penjualan-akan-disumbangkan-ke-korban-gempa-ntt-100"
+ },
+ {
+  "slug": "dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha",
+  "category": "Bisnis",
+  "title": "Dahlan Iskan Bongkar Sisi Gelap [Utang] Pengusaha",
+  "deck": "Dahlan Iskan mempertemukan pengusaha yang pernah terlilit utang besar dalam talk show di Surabaya, membahas kapan utang berubah jadi beban dan cara membangun ulang bisnis.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha.jpg",
+  "imageV": "mswflh4c",
+  "tags": [
+   "dahlan iskan",
+   "pengusaha",
+   "utang",
+   "manajemen bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460386-dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha-rp350-miliar-hingga-800-cek-kosong"
+ },
+ {
+  "slug": "pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri",
+  "category": "Energi",
+  "title": "PLN Siagakan [Listrik] Berlapis untuk Upacara HUT ke-81 RI",
+  "deck": "Menjelang upacara kemerdekaan di Istana Merdeka, PLN pasang sistem pengamanan listrik berlapis lima dengan genset dan UPS cadangan.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri.jpg",
+  "imageV": "mswflhih",
+  "tags": [
+   "PLN",
+   "listrik",
+   "HUT RI",
+   "Istana Merdeka"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460383-dirut-pln-tinjau-langsung-keandalan-listrik-peringatan-hut-ke-81-ri"
+ },
+ {
   "slug": "ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas",
   "category": "Energi",
   "title": "RUU Migas Lanjut, DPR Siapkan [BUK Migas] Ganti SKK Migas?",

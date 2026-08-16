@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telkom-pulihkan-85-jaringan-usai-gempa-ntt",
+  "category": "Teknologi",
+  "title": "Telkom [Pulihkan] 85% Jaringan usai Gempa NTT",
+  "deck": "Telkom memulihkan 85 persen dari 735 BTS Telkomsel dan 98,3 persen pelanggan IndiHome di NTT dalam waktu kurang dari sehari, sementara sejumlah kabel serat optik masih diperbaiki.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/telkom-pulihkan-85-jaringan-usai-gempa-ntt.jpg",
+  "imageV": "msvluam9",
+  "tags": [
+   "Telkom",
+   "Gempa NTT",
+   "Telekomunikasi",
+   "IndiHome"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460312-telkomgroup-kebut-perbaikan-layanan-pascagempa-ntt-85-konektivitas-pulih"
+ },
+ {
+  "slug": "pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7",
+  "category": "Energi",
+  "title": "PLN: Pasokan Listrik Flores [Pulih] usai Gempa M7,7",
+  "deck": "Seluruh 11 gardu induk PLN di Flores pulih dalam 12 jam pascagempa M7,7 NTT, namun satu jalur distribusi masih terganggu akibat tiang listrik roboh dan longsor.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7.jpg",
+  "imageV": "msvlub1e",
+  "tags": [
+   "PLN",
+   "gempa NTT",
+   "Flores",
+   "listrik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460309-pln-pastikan-pasokan-listrik-utama-di-flores-kembali-normal-fokus-pulihkan-jaringan-distribusi-ke-masyarakat"
+ },
+ {
+  "slug": "gempa-flores-20-spbu-ntt-masih-tutup",
+  "category": "Energi",
+  "title": "Gempa Flores, 20 SPBU NTT Masih [Tutup]",
+  "deck": "Sebanyak 20 dari 52 SPBU di Flores belum beroperasi pascagempa 15 Agustus 2026, namun Pertamina Patra Niaga memastikan pasokan BBM dan LPG tetap terjaga dengan pemulihan bertahap.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/gempa-flores-20-spbu-ntt-masih-tutup.jpg",
+  "imageV": "msvlubgu",
+  "tags": [
+   "gempa flores",
+   "spbu",
+   "bbm",
+   "pertamina"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460306-pascagempa-flores-pertamina-patra-niaga-pastikan-distribusi-bbm-dan-lpg-tetap-berjalan-meski-sebagian-spbu-terdampak"
+ },
+ {
   "slug": "harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",

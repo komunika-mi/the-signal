@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "9KfKSXn_gWU",
+  "title": "Target Optimalisasi Energi Surya dan Elektrifikasi Mobilitas",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan."
+ },
+ {
   "id": "z6ieuHPQJfI",
   "title": "KBPBI Kawal Pembahasan RUU Ketenagakerjaan",
   "category": "Ketenagakerjaan",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "AKAP",
   "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia, yang diharapkan menarik lebih banyak investor ke Indonesia.",
   "takeaway": "Penetapan lokasi PFII penting diikuti pelaku pasar karena berkaitan langsung dengan iklim investasi nasional."
- },
- {
-  "id": "79Dl9TMyrDo",
-  "title": "Pemerintah Buka Ekspor Beras ke Malaysia",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "Pemerintah membuka ekspor beras ke Malaysia setelah memastikan produksi dan stok nasional mencukupi. Tahap awal, 1.000 ton beras premium dikirim melalui Entikong, Kalimantan Barat.",
-  "takeaway": "Langkah ini menandai posisi Indonesia sebagai eksportir beras, relevan bagi pelaku usaha pangan dan petani."
  }
 ];

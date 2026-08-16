@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telkom-pulihkan-85-jaringan-usai-gempa-ntt",
+  "category": "Teknologi",
+  "title": "Telkom [Pulihkan] 85% Jaringan usai Gempa NTT",
+  "deck": "Telkom memulihkan 85 persen dari 735 BTS Telkomsel dan 98,3 persen pelanggan IndiHome di NTT dalam waktu kurang dari sehari, sementara sejumlah kabel serat optik masih diperbaiki.",
+  "image": "assets/img/telkom-pulihkan-85-jaringan-usai-gempa-ntt.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T15:33:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460312-telkomgroup-kebut-perbaikan-layanan-pascagempa-ntt-85-konektivitas-pulih",
+  "tags": [
+   "Telkom",
+   "Gempa NTT",
+   "Telekomunikasi",
+   "IndiHome"
+  ],
+  "body": [
+   "Gempa bumi yang mengguncang Nusa Tenggara Timur pada Sabtu (15/8) sempat melumpuhkan sebagian jaringan telekomunikasi di wilayah tersebut, dengan sekitar separuh menara BTS Telkomsel terganggu akibat gangguan listrik. Telkom langsung mengerahkan tim teknis dan genset cadangan untuk menjaga sinyal tetap menyala, sebuah langkah yang penting karena warga terdampak gempa bergantung pada jaringan telepon dan internet untuk koordinasi darurat serta mengabari keluarga.",
+   "Direktur Utama Telkom Dian Siswarini mengatakan trafik jaringan berangsur normal seiring perbaikan dan pemulihan listrik di lapangan. Hasilnya terlihat cepat, sekitar 400 menara BTS dan 2.600 pelanggan layanan internet rumah IndiHome yang sempat mati berhasil dinyalakan kembali dalam waktu kurang dari 24 jam sejak gempa terjadi.",
+   "Secara keseluruhan, 85 persen dari 735 menara BTS Telkomsel di NTT kini sudah beroperasi lagi, dengan sisanya masih dalam perbaikan di tujuh wilayah prioritas, yaitu Nagekeo, Manggarai Timur, Manggarai, Manggarai Barat, Alor, Ende, dan Ngada. Untuk layanan internet rumah, sebanyak 16.788 dari total 17.062 pelanggan IndiHome atau 98,3 persen sudah kembali terlayani.",
+   "Jaringan utama Telkom yang menghubungkan NTT dengan daerah lain masih berfungsi karena ada jalur cadangan yang mengambil alih. Namun sejumlah kabel serat optik, baik yang ditanam di darat maupun yang membentang di dasar laut, dilaporkan putus di beberapa titik sehingga kapasitas layanan di lokasi tersebut sempat menurun."
+  ],
+  "fotoAdegan": "Telecommunication technicians in safety vests repairing a damaged cell tower base station on a rural hillside road, cables and diesel generator nearby, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a8174e4e36d7-telkomgroup-percepat-perbaikan-layanan-pascagempa-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah cepat dalam sehari terakhir adalah pemulihan jaringan telekomunikasi di NTT, dari sekitar separuh menara BTS Telkomsel yang sempat mati akibat gempa, kini 85 persen dari 735 menara sudah menyala lagi, dan 98,3 persen pelanggan IndiHome sudah bisa memakai internet rumah seperti biasa. Yang merasakan dampaknya paling langsung adalah warga di tujuh kabupaten yang disebut sebagai wilayah prioritas perbaikan, yaitu Nagekeo, Manggarai Timur, Manggarai, Manggarai Barat, Alor, Ende, dan Ngada, yang membutuhkan sinyal untuk koordinasi darurat dan mengabari keluarga. Sisa 15 persen menara dan sekitar 1,7 persen pelanggan IndiHome yang belum pulih kemungkinan bukan sekadar soal listrik cadangan, sebab beritanya menyebut ada kabel serat optik, yaitu kabel kaca tipis yang jadi jalur utama data internet, yang putus baik di darat maupun di dasar laut, dan kabel semacam itu biasanya butuh waktu perbaikan lebih lama dibanding sekadar menyalakan genset. Jadi arahnya, pemulihan mayoritas layanan memang berlangsung cepat dalam hitungan jam, tetapi bagian sisa yang bergantung pada perbaikan kabel fisik kemungkinan baru rampung dalam hitungan hari, bukan jam. Yang akan memastikan pembacaan ini adalah update lanjutan dari Telkom soal kapan perbaikan kabel di titik-titik yang terputus tersebut selesai.",
+  "imageV": "msvluam9"
+ },
+ {
+  "slug": "pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7",
+  "category": "Energi",
+  "title": "PLN: Pasokan Listrik Flores [Pulih] usai Gempa M7,7",
+  "deck": "Seluruh 11 gardu induk PLN di Flores pulih dalam 12 jam pascagempa M7,7 NTT, namun satu jalur distribusi masih terganggu akibat tiang listrik roboh dan longsor.",
+  "image": "assets/img/pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T15:10:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460309-pln-pastikan-pasokan-listrik-utama-di-flores-kembali-normal-fokus-pulihkan-jaringan-distribusi-ke-masyarakat",
+  "tags": [
+   "PLN",
+   "gempa NTT",
+   "Flores",
+   "listrik"
+  ],
+  "body": [
+   "PT PLN (Persero) memulihkan seluruh 11 gardu induk yang sempat terdampak gempa berkekuatan M7,7 di Flores, Nusa Tenggara Timur, dalam waktu kurang dari 12 jam pascagempa yang terjadi Sabtu (15/8). Direktur Utama PLN Darmawan Prasodjo turun langsung ke lapangan untuk mengawal proses pemulihan kelistrikan di wilayah yang terdampak bencana. Pemulihan cepat ini penting karena gardu induk adalah simpul utama yang menyalurkan listrik dari pembangkit menuju jaringan yang lebih kecil ke rumah warga.",
+   "Darmawan menyebutkan kapasitas pasokan listrik yang bisa disediakan PLN saat ini mencapai 111 megawatt, lebih tinggi dari kebutuhan saat ini sekitar 95 megawatt maupun kebutuhan pada kondisi normal sekitar 105 megawatt. Artinya, dari sisi ketersediaan listrik di pembangkit dan gardu induk, PLN menyatakan sudah siap melayani seluruh wilayah Flores. Proses pemulihan ini turut dibantu oleh Pemerintah Daerah, Badan Penanggulangan Bencana Daerah, TNI, dan Polri yang bekerja sama dengan PLN di lapangan.",
+   "Meski pasokan utama sudah pulih, PLN mencatat masih ada satu penyulang, yaitu jaringan yang menyalurkan listrik dari gardu induk langsung ke pelanggan, yang belum berfungsi normal. Gangguan ini disebabkan oleh sejumlah tiang listrik yang roboh dan patah akibat guncangan gempa dan longsor yang menyertainya. PLN mengerahkan seluruh personel untuk memperbaiki dan mengganti tiang-tiang yang rusak tersebut.",
+   "Darmawan menargetkan penyulang yang masih terganggu ini bisa selesai diperbaiki pada hari yang sama, Minggu (16/8), dengan catatan kondisi di lapangan pascabencana memungkinkan. Sampai perbaikan itu rampung, sebagian warga di jalur distribusi tersebut masih berpotensi mengalami pemadaman listrik."
+  ],
+  "fotoAdegan": "Utility workers repairing a fallen electric pole beside a rural road in eastern Indonesia after an earthquake, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a816e332c110-direktur-utama-pln-darmawan-prasodjo-kedua-dari-kiri-didampingi-direktur-transmisi-dan-perencanaan-sistem-pln-daniel-tampubolon-ketiga-dari-kiri-meninjau-gi-rangko-pascagempa-melanda-flores-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: seluruh 11 gardu induk PLN di Flores sudah pulih penuh dalam kurang dari 12 jam, dan kapasitas pasokan listrik 111 megawatt kini melebihi kebutuhan normal 105 megawatt, jadi sisi pembangkitan sudah aman. Yang masih menyisakan dampak adalah satu jalur distribusi, yaitu kabel yang menyalurkan listrik dari gardu induk ke rumah warga, karena tiang-tiangnya roboh dan patah akibat gempa dan longsor, sehingga sebagian warga Flores di jalur itu kemungkinan masih belum menyala. Ini menunjukkan pola pemulihan pascagempa yang umum terjadi, infrastruktur besar seperti gardu induk bisa cepat diamankan karena jumlahnya sedikit dan terpusat, sementara jaringan yang menyebar ke pemukiman butuh waktu lebih lama karena bergantung pada perbaikan tiang satu per satu di lokasi yang mungkin masih sulit dijangkau akibat longsor. Yang akan memastikan apakah pemulihan benar-benar tuntas adalah target Darmawan Prasodjo bahwa penyulang terakhir ini selesai diperbaiki pada hari yang sama, Minggu (16/8), sejauh kondisi bencana di lapangan mengizinkan.",
+  "imageV": "msvlub1e"
+ },
+ {
+  "slug": "gempa-flores-20-spbu-ntt-masih-tutup",
+  "category": "Energi",
+  "title": "Gempa Flores, 20 SPBU NTT Masih [Tutup]",
+  "deck": "Sebanyak 20 dari 52 SPBU di Flores belum beroperasi pascagempa 15 Agustus 2026, namun Pertamina Patra Niaga memastikan pasokan BBM dan LPG tetap terjaga dengan pemulihan bertahap.",
+  "image": "assets/img/gempa-flores-20-spbu-ntt-masih-tutup.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T14:59:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460306-pascagempa-flores-pertamina-patra-niaga-pastikan-distribusi-bbm-dan-lpg-tetap-berjalan-meski-sebagian-spbu-terdampak",
+  "tags": [
+   "gempa flores",
+   "spbu",
+   "bbm",
+   "pertamina"
+  ],
+  "body": [
+   "Gempa yang mengguncang Nusa Tenggara Timur pada 15 Agustus 2026 membuat sebagian SPBU di Flores berhenti beroperasi. Pertamina Patra Niaga menegaskan pasokan BBM dan LPG ke wilayah itu tetap dijaga meski pemulihannya dilakukan bertahap. Ini penting bagi warga Flores yang justru butuh akses bahan bakar untuk mobilitas darurat dan proses pemulihan pascabencana.",
+   "Dari total 52 SPBU di Flores, 32 sudah kembali beroperasi per 15 Agustus 2026, sementara 20 lainnya masih tutup. Penyebabnya beragam, mulai dari pemadaman listrik, kerusakan sarana pengisian, hingga operator yang sengaja menunda buka karena khawatir gempa susulan meski bangunan SPBU-nya sendiri dalam kondisi aman. Pertamina mengirim BBM memakai mobil tangki dengan pengamanan ekstra, terutama di jalur yang tertimbun longsor.",
+   "Di Kabupaten Manggarai, dua SPBU mengalami kerusakan di area pengisian sehingga belum bisa beroperasi. Warga di wilayah itu masih bisa mengisi BBM di tiga SPBU lain, yaitu SPBU 54.86.501 di Jalan Yos Sudarso, Kelurahan Mbaumuku, Kecamatan Langke Rembong, SPBU 54.86.503 di Jalan Ruteng-Benteng Jawa, Tenda, Kecamatan Langke Rembong, dan SPBU 54.86.509 di Jalan Raya Ruteng-Labuan Bajo Km 4, Kelurahan Wali, Kecamatan Langke Rembong.",
+   "Untuk elpiji, lima agen LPG di Flores masih beroperasi dengan kondisi sarana aman. Stok pada masing-masing agen terus dipantau dan disesuaikan dengan kebutuhan penyaluran, sementara 20 SPBU yang belum buka akan dipulihkan bertahap dengan keselamatan sebagai pertimbangan utama."
+  ],
+  "fotoAdegan": "A fuel tanker truck driving carefully along a rural road with landslide debris on the shoulder, misty hills, overcast morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a816d360c42d-ilustrasi-fasilitas-penyaluran-bbm-di-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kabar ini adalah kecepatan pemulihan, bukan soal ada tidaknya pasokan. Dalam sehari setelah gempa, 32 dari 52 SPBU di Flores, atau sekitar 6 dari 10, sudah kembali menyala, dan kendala yang dilaporkan lebih banyak soal listrik padam dan operator yang menahan diri karena takut gempa susulan, bukan karena BBM atau elpijinya habis. Yang terdampak langsung warga Flores, terutama di Manggarai yang dua SPBU-nya rusak di area pengisian sehingga mereka harus pindah ke SPBU lain yang jaraknya bisa lebih jauh. Arahnya terlihat ke pemulihan bertahap yang mengutamakan keselamatan operator ketimbang kecepatan buka kembali, karena Pertamina sendiri menyebut sejumlah SPBU yang fasilitasnya aman tetap belum dibuka gara-gara antisipasi gempa susulan. Yang akan menentukan apakah pemulihan ini cepat atau berlarut adalah update operasional SPBU berikutnya dari Pertamina Patra Niaga serta apakah gempa susulan di NTT masih berlanjut dalam beberapa hari ke depan.",
+  "imageV": "msvlubgu"
+ },
+ {
   "slug": "harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",

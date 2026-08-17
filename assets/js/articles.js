@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Bidik Bursa [Mineral] untuk Kedaulatan Harga CPO-Nikel",
+  "deck": "Pemerintah menyiapkan Bursa Mineral dan Komoditas Strategis bernama Icomex untuk CPO, nikel, dan batu bara, ditargetkan beroperasi 1 Januari 2027.",
+  "image": "assets/img/pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T18:14:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460555-mensesneg-beberkan-rencana-bursa-mineral-indonesia-pemerintah-bidik-kedaulatan-harga-cpo-hingga-nikel",
+  "tags": [
+   "bursa mineral",
+   "cpo",
+   "nikel",
+   "komoditas strategis"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan pembentukan Bursa Mineral dan Komoditas Strategis, sebuah pasar perdagangan baru yang dirancang agar Indonesia bisa ikut menentukan harga komoditas andalannya sendiri, bukan sekadar mengikuti harga yang terbentuk di luar negeri. Rencana ini penting karena selama ini harga jual komoditas seperti minyak sawit mentah dan nikel banyak mengacu pada bursa internasional, meski Indonesia adalah salah satu produsen terbesarnya.",
+   "Menteri Sekretaris Negara Prasetyo Hadi mengatakan bursa baru itu akan mengambil bentuk yang mirip Bursa Efek Indonesia, dengan nama kerja Indonesia Commodity Exchange atau Icomex. Ia menegaskan tujuan utamanya adalah kedaulatan, yakni penentuan harga barang-barang produksi dalam negeri yang selama ini tidak sepenuhnya berada di tangan Indonesia.",
+   "Pemerintah belum menetapkan daftar lengkap komoditas yang akan diperdagangkan di bursa ini, tetapi memastikan tiga komoditas akan menjadi prioritas karena merupakan produksi utama nasional, yaitu minyak sawit mentah atau CPO, nikel, dan batu bara. Mekanisme penentuan harganya akan mempertimbangkan biaya produksi di dalam negeri sekaligus perkembangan harga di pasar global, meski rumus pastinya belum diumumkan.",
+   "Rencana ini juga bersinggungan dengan Indonesia Commodity and Derivatives Exchange atau ICDX, bursa komoditas yang sudah lebih dulu beroperasi. Prasetyo menyebut posisi ICDX masih perlu diatur agar selaras dengan skema bursa baru yang sedang disiapkan pemerintah."
+  ],
+  "fotoAdegan": "Stacks of raw nickel ore at an open-pit mining loading yard, heavy trucks queuing, tropical highland landscape",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a8278e2af870-menteri-sekretaris-negara-prasetyo-hadi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar wacana lama soal kedaulatan komoditas, melainkan rencana konkret membentuk bursa baru bernama Icomex yang meniru struktur Bursa Efek Indonesia, dengan target mulai beroperasi 1 Januari 2027. Sejauh ini pemerintah baru memastikan tiga komoditas prioritas, yaitu CPO, nikel, dan batu bara, sementara daftar lengkap serta rumus penentuan harga yang menggabungkan biaya produksi dengan harga pasar dunia belum ditetapkan. Pihak yang paling langsung terdampak adalah eksportir dan produsen di tiga sektor itu, karena harga jual mereka berpotensi tidak lagi murni mengikuti bursa luar negeri, serta ICDX yang sudah beroperasi lebih dulu dan kini posisinya harus disesuaikan dengan skema baru. Arah besarnya adalah upaya memindahkan titik acuan harga komoditas strategis dari pasar internasional ke bursa domestik, tapi karena daftar komoditas final, formula harga, dan nasib ICDX semua masih dibahas, kejelasan arah ini baru akan terlihat dari aturan turunan yang mesti terbit sebelum target beroperasi Januari 2027.",
+  "imageV": "msx5ibl2"
+ },
+ {
+  "slug": "mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026",
+  "category": "UMKM",
+  "title": "MDR QRIS 0 Persen UMKM Berlaku Mulai [Oktober] 2026",
+  "deck": "Bank Indonesia memperluas bebas biaya transaksi QRIS bagi UMKM mulai 1 Oktober 2026, dengan usaha mikro tetap mendapat keringanan penuh untuk transaksi hingga Rp500.000.",
+  "image": "assets/img/mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T17:16:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460544-kabar-baik-untuk-umkm-mdr-qris-0-persen-berlaku-mulai-oktober-2026-transaksi-akan-bebas-biaya",
+  "tags": [
+   "QRIS",
+   "UMKM",
+   "Bank Indonesia",
+   "MDR"
+  ],
+  "body": [
+   "Bank Indonesia akan memperluas kebijakan bebas biaya transaksi QRIS, atau dikenal sebagai Merchant Discount Rate (MDR) 0 persen, bagi pelaku usaha mikro, kecil, dan menengah. Kebijakan ini mulai berlaku 1 Oktober 2026 dan ditujukan untuk menekan biaya yang selama ini ditanggung pedagang setiap kali pembeli membayar lewat QRIS.",
+   "MDR sendiri adalah biaya jasa yang ditarik penyedia layanan pembayaran dari merchant atas setiap transaksi QRIS, dan aturannya melarang biaya itu dibebankan ke konsumen. Dalam ketentuan terbaru, tarif 0 persen tetap berlaku untuk merchant usaha mikro (UMI) khusus transaksi dengan nilai maksimal Rp500.000.",
+   "Pjs Gubernur BI Destry Damayanti mengatakan kebijakan ini memberi peluang bagi pelaku usaha meningkatkan efisiensi biaya transaksi, sekaligus memperluas manfaat ekonomi digital secara lebih inklusif dan menopang daya beli masyarakat. Kepala Departemen Kebijakan Sistem Pembayaran BI Ryan Rizaldy menambahkan, perluasan ini bertujuan mengurangi beban biaya merchant sekaligus memperkuat inklusi ekonomi digital.",
+   "BI menyebut langkah ini sejalan dengan Blueprint Sistem Pembayaran Indonesia (BSPI) 2030, yang menjadi acuan bauran kebijakan bank sentral untuk menjaga stabilitas sekaligus mendukung pertumbuhan ekonomi nasional."
+  ],
+  "fotoAdegan": "Small food stall vendor accepting a mobile payment from a customer at a busy street market, morning light, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/04/67a1751260008-pedagang-menyiapkan-pesanan-pembeli-di-gerobaknya-yang-menyediakan-pembayaran-menggunakan-qris_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang pasti berubah dari pengumuman ini adalah kepastian waktu, bebas biaya transaksi QRIS untuk usaha mikro senilai maksimal Rp500.000 per transaksi resmi berlaku mulai 1 Oktober 2026, meneruskan aturan yang sudah ada sebelumnya. Pihak yang kena dampak langsung adalah pedagang kecil, dari warung sampai pedagang kaki lima, yang selama ini biaya jasa QRIS memotong keuntungan mereka karena tidak boleh dibebankan ke pembeli. Di sisi lain, penyedia jasa pembayaran yang biasa menarik biaya itu otomatis kehilangan sebagian pendapatan dari transaksi kecil semacam ini. Yang belum jelas dari pengumuman ini adalah rincian tarif untuk kategori usaha kecil dan menengah yang disebut ikut diperluas, sebab BI baru memastikan angka untuk usaha mikro. Gambaran lengkapnya baru akan terlihat saat BI menerbitkan aturan turunan menjelang tanggal berlaku pada 1 Oktober 2026.",
+  "imageV": "msx5ic4n"
+ },
+ {
   "slug": "bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027",
   "category": "Moneter",
   "title": "BI Targetkan Semua Limbah Uang Rupiah [Diolah] Ulang pada 2027",
@@ -400,7 +454,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "date": "16 Agustus 2026",
   "isoDate": "2026-08-16T12:38:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027",

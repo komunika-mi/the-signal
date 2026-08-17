@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Bidik Bursa [Mineral] untuk Kedaulatan Harga CPO-Nikel",
+  "deck": "Pemerintah menyiapkan Bursa Mineral dan Komoditas Strategis bernama Icomex untuk CPO, nikel, dan batu bara, ditargetkan beroperasi 1 Januari 2027.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel.jpg",
+  "imageV": "msx5ibl2",
+  "tags": [
+   "bursa mineral",
+   "cpo",
+   "nikel",
+   "komoditas strategis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460555-mensesneg-beberkan-rencana-bursa-mineral-indonesia-pemerintah-bidik-kedaulatan-harga-cpo-hingga-nikel"
+ },
+ {
+  "slug": "mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026",
+  "category": "UMKM",
+  "title": "MDR QRIS 0 Persen UMKM Berlaku Mulai [Oktober] 2026",
+  "deck": "Bank Indonesia memperluas bebas biaya transaksi QRIS bagi UMKM mulai 1 Oktober 2026, dengan usaha mikro tetap mendapat keringanan penuh untuk transaksi hingga Rp500.000.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026.jpg",
+  "imageV": "msx5ic4n",
+  "tags": [
+   "QRIS",
+   "UMKM",
+   "Bank Indonesia",
+   "MDR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460544-kabar-baik-untuk-umkm-mdr-qris-0-persen-berlaku-mulai-oktober-2026-transaksi-akan-bebas-biaya"
+ },
+ {
   "slug": "bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027",
   "category": "Moneter",
   "title": "BI Targetkan Semua Limbah Uang Rupiah [Diolah] Ulang pada 2027",
@@ -255,7 +289,7 @@ var ARTICLES = [
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
   "date": "16 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "tags": [
    "rupiah",
    "nilai tukar",

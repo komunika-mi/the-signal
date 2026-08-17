@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak",
+  "category": "UMKM",
+  "title": "Gempa NTT: Kemendag Beri Bantuan [Rp250] Juta, 4 Pasar Rusak",
+  "deck": "Kemendag menyalurkan bantuan Rp250 juta untuk korban gempa NTT dan mencatat empat pasar rusak, termasuk Pasar Inpres Ruteng yang ditutup sementara.",
+  "image": "assets/img/gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T13:38:27.731Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/solidaritas-dalam-hut-ke-81-ri-mendag-busan-serahkan-bantuan-kemendag-untuk-korban-gempa-ntt",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Gempa NTT",
+   "Kemendag",
+   "Pasar Rakyat",
+   "Bantuan Bencana"
+  ],
+  "body": [
+   "Kementerian Perdagangan menyalurkan bantuan senilai Rp250 juta untuk masyarakat Nusa Tenggara Timur yang terdampak gempa bumi. Bantuan diserahkan secara simbolis oleh Menteri Perdagangan Budi Santoso kepada Kepala Badan Penghubung Provinsi NTT, Florida Taty Satyawati, di sela peringatan HUT ke-81 Kemerdekaan RI di Jakarta, Senin (17/8). Selain bantuan sosial, kementerian juga melaporkan kerusakan pada sarana perdagangan di wilayah terdampak, dengan empat pasar tercatat rusak dalam tingkat yang berbeda-beda.",
+   "Donasi Rp250 juta itu terkumpul dari lingkungan internal Kemendag sejak pagi hingga siang pada hari yang sama, lalu langsung diserahkan ke Kantor Penghubung Provinsi NTT di Jakarta. Budi Santoso menyebut penyerahan ini sebagai tahap pertama, dengan rencana penggalangan donasi lanjutan untuk terus disalurkan kepada masyarakat yang terdampak.",
+   "Dari empat pasar yang teridentifikasi rusak, Pasar Inpres Ruteng di Kabupaten Manggarai menjadi salah satu yang paling disorot karena kerusakan pada bagian tiang bangunan. Kemendag berkoordinasi dengan pemerintah daerah agar pasar tersebut untuk sementara tidak digunakan, demi keselamatan pedagang dan pengunjung.",
+   "Di luar penanganan kerusakan fisik, Kemendag juga memastikan pasokan barang kebutuhan pokok ke NTT tetap berjalan lewat koordinasi dengan distributor, termasuk yang berasal dari luar wilayah terdampak dan provinsi terdekat. Koordinasi ini akan diperkuat melalui tim yang dipimpin Direktur Jenderal Perdagangan Dalam Negeri bersama pemerintah daerah dan pelaku usaha, termasuk ritel modern yang menurut kementerian melaporkan pasokan masih dalam kondisi aman."
+  ],
+  "fotoAdegan": "A traditional Indonesian market with cracked concrete support pillars and fallen roof debris, empty stalls, overcast morning light in a hillside town.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/K2N7fJdfuLbg1pzb6aMpHZQQx4x83UjffFdg4Ll8.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari siaran ini adalah dua angka konkret: Rp250 juta donasi internal Kemendag untuk korban gempa NTT, dan temuan bahwa empat pasar rusak, termasuk Pasar Inpres Ruteng di Manggarai yang harus ditutup sementara karena tiangnya rusak. Yang terdampak langsung adalah pedagang di pasar-pasar itu yang untuk sementara kehilangan tempat berjualan, serta masyarakat NTT yang bergantung pada pasokan kebutuhan pokok dari distributor luar daerah. Kemendag sendiri menyebut Rp250 juta ini baru tahap pertama dan berjanji menggalang donasi lanjutan, sementara perbaikan fisik pasar disebut baru akan dikerjakan setelah kondisi darurat tertangani, jadi posisinya sekarang masih di tahap tanggap darurat, belum masuk perbaikan infrastruktur. Yang perlu dipantau adalah apakah Kemendag benar mengumumkan jadwal perbaikan Pasar Inpres Ruteng dan tahap donasi lanjutan seperti yang dijanjikan, karena itu yang akan menentukan apakah bantuan ini berlanjut atau berhenti di penyerahan simbolis hari ini.",
+  "imageV": "msxa9pga"
+ },
+ {
   "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
   "category": "Makroekonomi",
   "title": "Pemerintah Bidik Bursa [Mineral] untuk Kedaulatan Harga CPO-Nikel",

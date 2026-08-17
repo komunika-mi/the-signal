@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak",
+  "category": "UMKM",
+  "title": "Gempa NTT: Kemendag Beri Bantuan [Rp250] Juta, 4 Pasar Rusak",
+  "deck": "Kemendag menyalurkan bantuan Rp250 juta untuk korban gempa NTT dan mencatat empat pasar rusak, termasuk Pasar Inpres Ruteng yang ditutup sementara.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak.jpg",
+  "imageV": "msxa9pga",
+  "tags": [
+   "Gempa NTT",
+   "Kemendag",
+   "Pasar Rakyat",
+   "Bantuan Bencana"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/solidaritas-dalam-hut-ke-81-ri-mendag-busan-serahkan-bantuan-kemendag-untuk-korban-gempa-ntt",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
   "category": "Makroekonomi",
   "title": "Pemerintah Bidik Bursa [Mineral] untuk Kedaulatan Harga CPO-Nikel",

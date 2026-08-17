@@ -21,7 +21,7 @@
 // berikutnya mengirim ulang. Kedua workflow pemanggil sudah melakukannya.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, log, BASE } from './lib.mjs';
+import { ROOT, log, BASE, fmtTanggalHari } from './lib.mjs';
 
 const TOKEN = (process.env.TELEGRAM_BOT_TOKEN || '').trim();
 const KANAL = (process.env.TELEGRAM_CHANNEL || '').trim();
@@ -158,20 +158,30 @@ async function modePekanan() {
     log('Edisi pekanan ' + p.tanggal + ' sudah pernah ke Telegram. Penjaga anti-ganda, bukan error.');
     return;
   }
-  if (!await sudahTayang(BASE + '/signal-pekanan.html')) {
-    log('Halaman Signal Pekanan belum tayang, kiriman ditunda.');
+  // Gerbangnya EDISI INI ADA DI FEED, bukan halamannya membalas 200. Sama
+  // persis dengan pelajaran di modeHarian: signal-pekanan.html statis dan
+  // akan selalu 200 sekali ter-deploy, jadi cek 200 adalah gerbang yang tidak
+  // pernah tertutup dan pembuka tautan bisa disuguhi edisi pekan lalu.
+  try {
+    const feed = await (await fetch(BASE + '/feed.xml')).text();
+    if (!feed.includes('the-signal-pekanan-' + p.tanggal)) {
+      log('Edisi pekanan ' + p.tanggal + ' belum muncul di feed situs, kiriman ditunda.');
+      return;
+    }
+  } catch {
+    log('feed.xml tidak terbaca, kiriman ditunda supaya tidak menautkan edisi yang belum tayang.');
     return;
   }
   const pola = (p.pola || []).map((x, i) => (i + 1) + '. ' + esc(x.judul)).join('\n');
   const menanti = (p.menanti || []).slice(0, 4)
-    .map(m => '• <b>' + esc(m.tanggal) + '</b> ' + esc(m.apa)).join('\n');
+    .map(m => '• <b>' + esc(fmtTanggalHari(m.tanggal)) + '</b>\n  ' + esc(m.apa)).join('\n');
   const teks =
     '<b>Signal Pekanan · ' + esc(p.rentangLabel || p.tanggal) + '</b>\n' +
     '<b>' + esc(p.judul) + '</b>\n\n' +
     esc(p.ringkas || '') + '\n\n' + pola +
     (menanti ? '\n\n<b>Yang menanti pekan depan</b>\n' + menanti : '') +
     '\n\n<a href="' + BASE + '/signal-pekanan.html">Baca pembacaan lengkapnya</a>';
-  await kirim(KANAL, teks);
+  await kirim(teks);
   st.pekanan = [...(st.pekanan || []), p.tanggal];
   simpanState(st);
   log('TERKIRIM ke Telegram: Signal Pekanan ' + p.tanggal);

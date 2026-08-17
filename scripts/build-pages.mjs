@@ -160,6 +160,21 @@ const PLAY = '<span class="play-dot"><svg viewBox="0 0 24 24"><circle cx="12" cy
 
 const HARI = ["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"];
 const BULAN = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+
+// "Selasa, 18 Agustus 2026". Dipakai halaman Agenda dan bagian "yang menanti
+// pekan depan" di Signal Pekanan, jadi ditaruh di lingkup modul, bukan di
+// dalam blok Agenda seperti semula.
+//
+// Tanggal yang tidak terbaca dikembalikan apa adanya. Tanpa penjaga ini
+// new Date('pekan depan' + 'T00:00:00Z') menghasilkan Invalid Date dan
+// pembaca disuguhi "undefined, NaN undefined NaN". Tanggal di bagian menanti
+// datang dari model, jadi kemungkinan itu nyata, bukan teoretis.
+const NAMA_HARI = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
+function labelHari(isoTgl) {
+  const d = new Date(isoTgl + 'T00:00:00Z');
+  if (isNaN(d.getTime())) return String(isoTgl == null ? '' : isoTgl);
+  return NAMA_HARI[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+}
 function tanggalWIB() {
   const w = new Date(Date.now() + 7 * 3600 * 1000);
   return HARI[w.getUTCDay()] + ", " + w.getUTCDate() + " " + BULAN[w.getUTCMonth()] + " " + w.getUTCFullYear()
@@ -882,11 +897,6 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
 // tanggal efektif, tenggat) plus perkiraan jadwal rilis BPS. Pembaca bisnis
 // membuka ini untuk tahu kapan harus siaga, bukan sekadar apa yang terjadi.
 {
-  const NAMA_HARI = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
-  function labelHari(isoTgl) {
-    const d = new Date(isoTgl + 'T00:00:00Z');
-    return NAMA_HARI[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
-  }
   const perHari = new Map();
   for (const e of AGENDA) {
     if (!perHari.has(e.iso)) perHari.set(e.iso, []);
@@ -1184,7 +1194,7 @@ if (PEKANAN && PEKANAN.judul) {
         `<h2 class="pekan-menanti-judul">Yang menanti pekan depan</h2>` +
         (PEKANAN.menanti).map(m =>
           `<article class="menanti-item">` +
-          `<span class="menanti-tgl num">${esc(m.tanggal)}</span>` +
+          `<span class="menanti-tgl num">${esc(labelHari(m.tanggal))}</span>` +
           `<div><b>${esc(m.apa)}</b><p>${esc(m.kenapa)}</p></div>` +
           `</article>`).join('') +
         `<a class="card-link" href="/agenda.html">Lihat seluruh agenda &rarr;</a>` +

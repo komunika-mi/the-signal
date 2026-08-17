@@ -27,7 +27,7 @@
 // penjaga akan mengira yang satu sudah terkirim lalu membatalkannya diam-diam.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, log, BASE, readObjek } from './lib.mjs';
+import { ROOT, log, BASE, readObjek, fmtTanggalHari } from './lib.mjs';
 
 const API = 'https://api.buttondown.com/v1';
 const KUNCI = (process.env.BUTTONDOWN_API_KEY || '').trim();
@@ -95,7 +95,7 @@ function badanPekanan(p) {
   if ((p.menanti || []).length) {
     b.push('<h2>Yang menanti pekan depan</h2>');
     b.push('<ul>' + p.menanti.map(m =>
-      '<li><strong>' + esc(m.tanggal) + '</strong> &middot; ' + esc(m.apa) +
+      '<li><strong>' + esc(fmtTanggalHari(m.tanggal)) + '</strong> &middot; ' + esc(m.apa) +
       '<br><span style="color:#6b6858">' + esc(m.kenapa) + '</span></li>').join('') + '</ul>');
   }
   if (p.penutup) b.push('<p>' + esc(p.penutup) + '</p>');

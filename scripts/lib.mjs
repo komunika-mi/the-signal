@@ -543,6 +543,40 @@ export function fmtTanggal(iso) {
 // yang salah diam-diam lebih berbahaya daripada tidak ada sama sekali.
 // Pembuat stempel waktu WIB yang dipakai ada di build-pages.mjs (tanggalWIB).
 
+// "Selasa, 18 Agustus 2026". Dipakai bagian "yang menanti pekan depan" di
+// halaman, email, dan Telegram sekaligus, karena tanggal mentah 2026-08-18
+// memaksa pembaca menghitung sendiri itu hari apa, padahal seluruh guna
+// bagian tersebut adalah menyiapkan pekan kerja.
+//
+// Iso diserahkan APA ADANYA ke fmtTanggal, jadi pergeseran WIB terjadi TEPAT
+// SEKALI seperti di semua pemanggil lain. Nama hari dihitung dari salinan
+// tergeser milik sendiri, bukan dari keluaran fmtTanggal, supaya tidak
+// mengulang jebakan geser-dua-kali yang dulu membunuh fmtTanggalPanjang.
+//
+// Kalau tanggalnya tidak terbaca mesin, yang dikembalikan teks aslinya, bukan
+// string kosong: lebih baik pembaca melihat apa adanya daripada satu baris
+// agenda hilang tanpa jejak.
+export function fmtTanggalHari(iso) {
+  const H = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
+  const s = String(iso == null ? '' : iso).trim();
+  // Jam tengah malam ditambahkan dulu. keWaktu menyambung zona langsung ke
+  // teksnya, dan '2026-08-24' + '+07:00' BUKAN ISO yang sah, jadi tanggal
+  // telanjang selalu jadi Invalid Date lalu jatuh ke fallback tanpa suara.
+  // Persis itu yang terjadi pada percobaan pertama: halaman tampil rapi
+  // sementara email dan Telegram diam-diam tetap menampilkan 2026-08-24.
+  // Tanggal di bagian "yang menanti" memang selalu telanjang.
+  //
+  // Diperbaiki di sini, bukan di keWaktu, karena keWaktu dipakai hampir
+  // seluruh pipeline untuk stempel waktu artikel yang selalu lengkap;
+  // melonggarkannya di sana mengubah perilaku belasan pemanggil sekaligus
+  // demi satu kasus yang bisa ditangani di tempatnya sendiri.
+  const penuh = /^\d{4}-\d{2}-\d{2}$/.test(s) ? s + 'T00:00:00' : s;
+  const d = keWaktu(penuh);
+  if (!d) return s;
+  const wib = new Date(d.getTime() + 7 * 3600 * 1000);
+  return H[wib.getUTCDay()] + ', ' + fmtTanggal(penuh);
+}
+
 export function idNum(n, dec = 2) {
   return Number(n).toLocaleString('id-ID', { minimumFractionDigits: dec, maximumFractionDigits: dec });
 }

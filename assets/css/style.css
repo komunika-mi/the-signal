@@ -928,3 +928,37 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 }
 .btn-bot:hover { border-color: var(--ink); color: var(--ink); }
 .btn-bot svg { flex: none; }
+
+/* ---------- Signal Pekanan: bagian "yang menanti pekan depan" ----------
+   Bagian ini yang membedakan edisi Minggu dari edisi harian. Harian menutup
+   dengan "apa yang menentukan besok", pekanan membuka kalender: pembacanya
+   sedang menyiapkan pekan kerja, bukan mengejar berita hari ini. */
+.pekan-menanti {
+  max-width: var(--kolom-baca); margin: 2.2rem 0 0;
+  padding: 1.3rem 1.4rem; background: var(--card);
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+}
+.pekan-menanti-judul {
+  font-family: var(--sans); font-size: .74rem; font-weight: 800;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--red-deep);
+  margin: 0 0 1rem;
+}
+.menanti-item {
+  display: flex; gap: .9rem; align-items: baseline;
+  padding-bottom: .9rem; margin-bottom: .9rem;
+  border-bottom: 1px solid var(--line);
+}
+.menanti-item:last-of-type { border-bottom: none; padding-bottom: .3rem; margin-bottom: .6rem; }
+.menanti-tgl {
+  flex: none; min-width: 5.2rem; font-size: .78rem; font-weight: 700;
+  color: var(--ink);
+}
+.menanti-item b { font-family: var(--sans); font-size: .9rem; }
+.menanti-item p {
+  margin: .2rem 0 0; font-family: var(--sans); font-size: .84rem;
+  line-height: 1.55; color: var(--ink-soft);
+}
+@media (max-width: 560px) {
+  .menanti-item { flex-direction: column; gap: .2rem; }
+  .menanti-tgl { min-width: 0; }
+}

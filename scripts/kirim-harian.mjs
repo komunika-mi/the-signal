@@ -15,8 +15,16 @@
 // terlewat daripada satu pelanggan menerima dua kali.
 //
 // Pemakaian:
-//   node scripts/kirim-harian.mjs           kirim sungguhan
-//   node scripts/kirim-harian.mjs --draft   simpan sebagai draft, tidak terkirim
+//   node scripts/kirim-harian.mjs             kirim Signal Harian
+//   node scripts/kirim-harian.mjs --pekanan   kirim Signal Pekanan (edisi Minggu)
+//   node scripts/kirim-harian.mjs --draft     simpan sebagai draft, tidak terkirim
+//
+// SATU SKRIP, DUA PRODUK. Edisi pekanan memakai jalur yang sama persis,
+// termasuk kedua lapis penjaga anti-kirim-ganda, karena risikonya juga sama
+// persis: email tidak bisa ditarik kembali. Yang berbeda cuma berkas sumber,
+// subjek, dan KUNCI EDISI. Kunci itu wajib beda awalan, sebab edisi harian
+// dan pekanan bisa jatuh pada tanggal yang sama; kalau kuncinya kembar,
+// penjaga akan mengira yang satu sudah terkirim lalu membatalkannya diam-diam.
 import fs from 'node:fs';
 import path from 'node:path';
 import { ROOT, log, BASE, readObjek } from './lib.mjs';
@@ -24,6 +32,7 @@ import { ROOT, log, BASE, readObjek } from './lib.mjs';
 const API = 'https://api.buttondown.com/v1';
 const KUNCI = (process.env.BUTTONDOWN_API_KEY || '').trim();
 const DRAFT = process.argv.includes('--draft');
+const PEKANAN = process.argv.includes('--pekanan');
 
 function esc(s) {
   return String(s == null ? '' : s)
@@ -66,11 +75,45 @@ async function bd(jalur, opsi = {}) {
 }
 
 function muatHarian() {
-  const p = path.join(ROOT, 'assets/js/harian.js');
+  const p = path.join(ROOT, PEKANAN ? 'assets/js/pekanan.js' : 'assets/js/harian.js');
   if (!fs.existsSync(p)) return null;
   const s = fs.readFileSync(p, 'utf8');
   const i = s.indexOf('{'), j = s.lastIndexOf('}');
   try { return JSON.parse(s.slice(i, j + 1)); } catch { return null; }
+}
+
+// Badan email edisi pekanan. Bagian "yang menanti pekan depan" sengaja ikut,
+// karena justru itu yang dibaca orang Minggu sore sambil menyiapkan pekan
+// kerja; tanpa itu, edisi ini cuma jadi arsip yang sudah lewat.
+function badanPekanan(p) {
+  const b = [];
+  if (p.ringkas) b.push('<p><strong>' + esc(p.ringkas) + '</strong></p>');
+  (p.pola || []).forEach(x => {
+    if (x.judul) b.push('<h2>' + esc(x.judul) + '</h2>');
+    if (x.isi) b.push('<p>' + esc(x.isi) + '</p>');
+  });
+  if ((p.menanti || []).length) {
+    b.push('<h2>Yang menanti pekan depan</h2>');
+    b.push('<ul>' + p.menanti.map(m =>
+      '<li><strong>' + esc(m.tanggal) + '</strong> &middot; ' + esc(m.apa) +
+      '<br><span style="color:#6b6858">' + esc(m.kenapa) + '</span></li>').join('') + '</ul>');
+  }
+  if (p.penutup) b.push('<p>' + esc(p.penutup) + '</p>');
+  const angka = blokAngka();
+  if (angka) {
+    b.push('<hr>');
+    b.push('<h2>Angka pembanding</h2>');
+    b.push('<p style="font-size:13px;color:#6b6858">Dipakai untuk menguji sendiri ' +
+      'pembacaan arah di atas.</p>');
+    b.push(angka);
+  }
+  b.push('<hr>');
+  b.push('<p><a href="' + BASE + '/signal-pekanan.html">Baca edisi ini di situs</a> &middot; ' +
+    '<a href="' + BASE + '/agenda.html">lihat seluruh agenda</a></p>');
+  b.push('<p style="font-size:13px;color:#6b6858">Signal Pekanan terbit tiap Minggu, ' +
+    'merangkai seluruh edisi harian dan berita sepekan jadi satu pembacaan arah. ' +
+    'Bukan rekomendasi investasi.</p>');
+  return b.join('\n');
 }
 
 // Tabel indikator untuk edisi email. Arah dihitung dari deretnya sendiri,
@@ -151,11 +194,16 @@ async function main() {
 
   const h = muatHarian();
   if (!h || !h.judul || !h.tanggal) {
-    log('harian.js belum ada atau tidak lengkap. Tidak ada yang dikirim.');
+    log((PEKANAN ? 'pekanan.js' : 'harian.js') + ' belum ada atau tidak lengkap. Tidak ada yang dikirim.');
     process.exit(1);
   }
 
-  const subjek = 'Signal Harian · ' + (h.tanggalLabel || h.tanggal);
+  const subjek = PEKANAN
+    ? 'Signal Pekanan · ' + (h.rentangLabel || h.tanggal)
+    : 'Signal Harian · ' + (h.tanggalLabel || h.tanggal);
+  // Awalan berbeda supaya edisi harian dan pekanan bertanggal sama tidak
+  // saling menutup lewat penjaga anti-ganda.
+  const kunciEdisi = (PEKANAN ? 'pekan-' : '') + h.tanggal;
 
   // Lapis penjaga. Daftar email diambil utuh, bukan cuma halaman pertama,
   // supaya edisi lama tetap terdeteksi setelah arsip email menumpuk.
@@ -165,7 +213,7 @@ async function main() {
     const d = await bd(url);
     for (const e of (d.results || [])) {
       diperiksa++;
-      const tandaMeta = e.metadata && e.metadata.edisi === h.tanggal;
+      const tandaMeta = e.metadata && e.metadata.edisi === kunciEdisi;
       const tandaSubjek = e.subject === subjek;
       if (tandaMeta || tandaSubjek) { sudah = e; break; }
     }
@@ -185,7 +233,7 @@ async function main() {
     // dibuat ulang, jadi jaminan anti-gandanya justru lebih kuat: satu edisi
     // hanya pernah punya satu objek email di Buttondown.
     if (sudah.status === 'draft' && !DRAFT) {
-      log('Edisi ' + h.tanggal + ' sudah ada sebagai DRAFT. Mengirim draft itu, bukan membuat baru.');
+      log('Edisi ' + kunciEdisi + ' sudah ada sebagai DRAFT. Mengirim draft itu, bukan membuat baru.');
       const kirim = await bd('/emails/' + sudah.id, {
         method: 'PATCH',
         body: JSON.stringify({ status: 'about_to_send' }),
@@ -193,7 +241,7 @@ async function main() {
       log('TERKIRIM dari draft: ' + kirim.subject + ' (status: ' + kirim.status + ')');
       return;
     }
-    log('Edisi ' + h.tanggal + ' SUDAH pernah dibuat (status: ' + sudah.status + ').');
+    log('Edisi ' + kunciEdisi + ' SUDAH pernah dibuat (status: ' + sudah.status + ').');
     log('Tidak mengirim ulang. Ini penjaga anti-kirim-ganda, bukan error.');
     return;
   }
@@ -204,9 +252,9 @@ async function main() {
     method: 'POST',
     body: JSON.stringify({
       subject: subjek,
-      body: badanEmail(h),
+      body: PEKANAN ? badanPekanan(h) : badanEmail(h),
       status: DRAFT ? 'draft' : 'about_to_send',
-      metadata: { edisi: h.tanggal },
+      metadata: { edisi: kunciEdisi },
     }),
   });
 

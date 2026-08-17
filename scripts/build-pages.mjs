@@ -363,6 +363,7 @@ ${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + 
     <div class="rail">
       <nav class="masthead-nav">
         <a class="nav-link" href="/signal-harian.html">Signal Harian</a>
+        <a class="nav-link" href="/signal-pekanan.html">Pekanan</a>
         <a class="nav-link" href="/berita.html">Semua Berita</a>
         <a class="nav-link" href="/berita.html#kat=makroekonomi">Makro</a>
         <a class="nav-link" href="/berita.html#kat=pasar-modal">Pasar Modal</a>
@@ -422,6 +423,7 @@ const FOOT = `
         <ul>
           <li><a href="/index.html">Beranda</a></li>
           <li><a href="/berita.html">Semua Berita</a></li>
+          <li><a href="/signal-pekanan.html">Signal Pekanan</a></li>
           <li><a href="/agenda.html">Agenda Sinyal</a></li>
           <li><a href="/rapor.html">Rapor Sinyal</a></li>
           <li><a href="/tema.html">Tema Berjalan</a></li>
@@ -1364,6 +1366,26 @@ function isiFeed(h) {
   return bagian.join('\n');
 }
 
+function isiFeedPekanan(p) {
+  const b = [];
+  if (p.ringkas) b.push('<p><strong>' + esc(p.ringkas) + '</strong></p>');
+  (p.pola || []).forEach(x => {
+    if (x.judul) b.push('<h2>' + esc(x.judul) + '</h2>');
+    if (x.isi) b.push('<p>' + esc(x.isi) + '</p>');
+  });
+  if ((p.menanti || []).length) {
+    b.push('<h2>Yang menanti pekan depan</h2><ul>' +
+      p.menanti.map(m => '<li><strong>' + esc(m.tanggal) + '</strong> &middot; ' +
+        esc(m.apa) + '. ' + esc(m.kenapa) + '</li>').join('') + '</ul>');
+  }
+  if (p.penutup) b.push('<p>' + esc(p.penutup) + '</p>');
+  b.push('<hr>');
+  b.push('<p><a href="' + BASE + '/signal-pekanan.html">Baca di situs</a> &middot; ' +
+    'Signal Pekanan terbit tiap Minggu, merangkai seluruh edisi harian dan berita ' +
+    'sepekan jadi satu pembacaan arah, lengkap dengan agenda pekan berikutnya.</p>');
+  return b.join('\n');
+}
+
 fs.writeFileSync(ROOT + '/feed.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n' +
   '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n' +
@@ -1497,4 +1519,21 @@ if (fotoHilang.length) {
 //
 // Peringatan, bukan penghentian: sebutan yang kurang lengkap tidak
 // menyesatkan pembaca soal fakta, jadi tidak sepadan dengan menahan seluruh
-// terbitan. Yang penting angkanya TERLIHAT tiap build. "Pak Prabow
+// terbitan. Yang penting angkanya TERLIHAT tiap build. "Pak Prabowo" di
+// dalam kutipan narasumber sengaja tidak dihitung sebagai pelanggaran.
+{
+  const pola = /(?<!Presiden )(?<!Pak )Prabowo/;
+  const telanjang = ARTICLES.filter(a =>
+    pola.test([a.title, a.deck, a.takeaway, (a.tags || []).join(' '),
+      (a.body || []).join(' ')].join(' ')));
+  if (telanjang.length) {
+    console.warn('PERINGATAN: ' + telanjang.length + ' artikel menyebut kepala negara tanpa gelar.');
+    console.warn('  Perbaiki: node scripts/perbaiki-gelar.mjs');
+    telanjang.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
+  }
+}
+
+console.log('article pages:', ARTICLES.length);
+console.log('video pages:', VIDEOS.length);
+console.log('sitemap urls:', urls.length);
+console.log('feed edisi:', ARSIP_HARIAN.length);

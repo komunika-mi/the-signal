@@ -1,0 +1,143 @@
+name: Signal Pekanan
+
+# Edisi Minggu: pembacaan arah SEPEKAN, satu tingkat di atas edisi harian.
+#
+# KENAPA MINGGU, DAN KENAPA BUKAN HARIAN SAJA. Signal Harian sengaja tidak
+# terbit Sabtu-Minggu karena bursa tutup dan lembaga tidak menerbitkan apa
+# pun, jadi bahannya memang tidak ada. Tapi justru pada saat itulah bahan
+# MINGGUAN baru lengkap: lima edisi harian sudah jadi, dan agenda pekan
+# berikutnya sudah bisa dibaca dari dokumen resmi yang terbit sepanjang pekan.
+#
+# JAM 19.00 WIB, bukan 21.00 seperti edisi harian. Pembacanya sedang
+# menyiapkan pekan kerja, jadi lebih berguna tiba sebelum malam, bukan
+# menjelang tidur.
+#
+# JAM GANJIL DI UTC (12.00), dan itu disengaja. daily.yml berjalan tiap jam
+# genap 23,1,3,...,15 UTC dan Task Scheduler IDX di komputer rumah juga tiap
+# jam genap. Ketiganya menulis repo yang sama, dan grup concurrency GitHub
+# tidak menyentuh penjadwal lokal, jadi tabrakan berarti satu push ditolak
+# dan edisinya batal terbit. Pukul 12.00 UTC tidak ditempati siapa pun.
+on:
+  schedule:
+    - cron: "0 12 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: the-signal-tulis       # sama dengan daily, harian, dan idx
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tulis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Pasang dependensi
+        run: npm ci
+
+      - name: Tulis Signal Pekanan
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SIGNAL_MODEL: claude-sonnet-5
+        run: node scripts/signal-pekanan.mjs
+
+      - name: Commit dan push
+        run: |
+          git config user.name "the-signal-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan. Pekan ini kemungkinan terlalu sepi untuk"
+            echo "ditarik polanya, dan itu wajar. Pekan yang sepi memang ada,"
+            echo "dan mengaku lebih baik daripada mengarang pola."
+            echo "TERBIT=tidak" >> $GITHUB_ENV
+            exit 0
+          fi
+          echo "TERBIT=ya" >> $GITHUB_ENV
+          EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/pekanan.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
+          echo "EDISI=$EDISI" >> $GITHUB_ENV
+          git commit -m "Signal Pekanan $EDISI"
+          # Rebase dulu: putaran berita atau pasar bisa mendorong commit di
+          # sela penulisan. Konflik TIDAK ditelan; edisi bisa dijalankan ulang
+          # lewat workflow_dispatch.
+          git pull --rebase --autostash origin master || {
+            echo "::error::Rebase bentrok. Jalankan ulang setelah putaran lain selesai."
+            git rebase --abort 2>/dev/null || true
+            exit 1
+          }
+          git push
+
+      - name: Tunggu situs benar-benar tayang
+        run: |
+          # HARUS sebelum pengiriman. Email memuat tautan "baca di situs", dan
+          # email tidak bisa ditarik kembali; kalau dikirim sebelum deploy
+          # selesai, pelanggan mengklik menuju halaman yang belum ada.
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi pekan ini, tidak ada yang perlu ditunggu."
+            exit 0
+          fi
+          if [ -z "$EDISI" ]; then
+            echo "::error::EDISI kosong padahal ada edisi yang di-commit."
+            exit 1
+          fi
+          for i in $(seq 1 20); do
+            sleep 15
+            # Yang diperiksa GUID EDISI INI di feed, bukan sekadar halamannya
+            # membalas 200. signal-pekanan.html sudah ada sejak edisi minggu
+            # lalu, jadi memeriksa 200 saja adalah gerbang yang selalu terbuka.
+            if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "the-signal-pekanan-$EDISI"; then
+              echo "Situs dan feed sudah tayang."
+              exit 0
+            fi
+          done
+          echo "::error::Situs tidak tayang setelah 5 menit. Pengiriman dibatalkan."
+          exit 1
+
+      - name: Kirim ke pelanggan
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi pekan ini, tidak ada email yang dikirim."
+            exit 0
+          fi
+          # Kunci edisi pekanan berawalan "pekan-", terpisah dari edisi harian,
+          # supaya keduanya tidak saling menutup lewat penjaga anti-ganda.
+          node scripts/kirim-harian.mjs --pekanan
+
+      - name: Kirim ke kanal Telegram
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+        run: |
+          if [ "$TERBIT" = "tidak" ]; then
+            echo "Tidak ada edisi pekan ini, tidak ada kiriman Telegram."
+            exit 0
+          fi
+          node scripts/kirim-telegram.mjs --pekanan
+          # State anti-ganda hidup di repo. Tanpa commit ini, putaran Minggu
+          # depan tidak tahu edisi ini sudah terkirim.
+          if ! git diff --quiet scripts/telegram-kirim.json; then
+            git config user.name "the-signal-bot"
+            git config user.email "actions@github.com"
+            git add scripts/telegram-kirim.json
+            git commit -m "Catat kiriman Telegram pekanan $EDISI"
+            git pull --rebase --autostash origin master || {
+              git rebase --abort 2>/dev/null || true
+              echo "::error::Rebase bentrok saat mencatat state Telegram."
+              exit 1
+            }
+            git push
+          fi

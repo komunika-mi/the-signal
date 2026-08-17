@@ -40,6 +40,7 @@ function simpanState(st) {
   // Dipangkas supaya berkasnya tidak tumbuh selamanya; edisi berumur lebih
   // dari daftar ini sudah pasti bukan kandidat kirim ulang.
   st.harian = (st.harian || []).slice(-60);
+  st.pekanan = (st.pekanan || []).slice(-30);
   st.artikel = (st.artikel || []).slice(-120);
   fs.writeFileSync(BERKAS_STATE, JSON.stringify(st, null, 1) + '\n', 'utf8');
 }
@@ -146,14 +147,45 @@ async function modeArtikelBps() {
   }
 }
 
+// Edisi pekanan ke kanal. State anti-gandanya memakai daftar terpisah
+// (st.pekanan), bukan menumpang st.harian, karena edisi harian dan pekanan
+// bisa jatuh pada tanggal yang sama dan akan saling menutup.
+async function modePekanan() {
+  const p = muatObjek('pekanan.js');
+  if (!p || !p.tanggal || !p.judul) { log('pekanan.js belum ada, tidak ada yang dikirim.'); return; }
+  const st = muatState();
+  if ((st.pekanan || []).includes(p.tanggal)) {
+    log('Edisi pekanan ' + p.tanggal + ' sudah pernah ke Telegram. Penjaga anti-ganda, bukan error.');
+    return;
+  }
+  if (!await sudahTayang(BASE + '/signal-pekanan.html')) {
+    log('Halaman Signal Pekanan belum tayang, kiriman ditunda.');
+    return;
+  }
+  const pola = (p.pola || []).map((x, i) => (i + 1) + '. ' + esc(x.judul)).join('\n');
+  const menanti = (p.menanti || []).slice(0, 4)
+    .map(m => '• <b>' + esc(m.tanggal) + '</b> ' + esc(m.apa)).join('\n');
+  const teks =
+    '<b>Signal Pekanan · ' + esc(p.rentangLabel || p.tanggal) + '</b>\n' +
+    '<b>' + esc(p.judul) + '</b>\n\n' +
+    esc(p.ringkas || '') + '\n\n' + pola +
+    (menanti ? '\n\n<b>Yang menanti pekan depan</b>\n' + menanti : '') +
+    '\n\n<a href="' + BASE + '/signal-pekanan.html">Baca pembacaan lengkapnya</a>';
+  await kirim(KANAL, teks);
+  st.pekanan = [...(st.pekanan || []), p.tanggal];
+  simpanState(st);
+  log('TERKIRIM ke Telegram: Signal Pekanan ' + p.tanggal);
+}
+
 async function main() {
   if (!TOKEN || !KANAL) {
     log('TELEGRAM_BOT_TOKEN / TELEGRAM_CHANNEL belum diset. Kanal Telegram belum aktif, dilewati.');
     return;
   }
   if (process.argv.includes('--harian')) await modeHarian();
+  else if (process.argv.includes('--pekanan')) await modePekanan();
   else if (process.argv.includes('--artikel-bps')) await modeArtikelBps();
-  else { console.error('Pakai --harian atau --artikel-bps'); process.exit(1); }
+  else { console.error('Pakai --harian, --pekanan, atau --artikel-bps'); process.exit(1); }
 }
 
 main().catch(e => { console.error(String(e.message || e)); process.exit(1); });

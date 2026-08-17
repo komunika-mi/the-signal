@@ -9,8 +9,30 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-14T21:45:49.447+07:00",
+ "diperbarui": "2026-08-17T21:19:39.433+07:00",
  "entri": [
+  {
+   "id": "2026-08-17-2",
+   "edisi": "2026-08-17",
+   "benang": "UMKM Serentak Dapat Sokongan Biaya dan Kredit",
+   "klaim": "Kebijakan Bank Indonesia dan perbankan bergerak searah memperluas akses pembiayaan sekaligus menekan biaya transaksi bagi pelaku usaha kecil menjelang implementasi aturan bebas biaya QRIS pada Oktober 2026, dan arah ini akan terkonfirmasi oleh data volume transaksi QRIS UMKM setelah aturan itu resmi berlaku.",
+   "penanda": "Data volume transaksi QRIS UMKM setelah aturan bebas biaya MDR resmi berlaku",
+   "tenggat": "2026-10-01",
+   "tenggatLabel": "resmi berlaku Oktober mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-17-1",
+   "edisi": "2026-08-17",
+   "benang": "Pemulihan Gempa NTT: Cepat di Atas, Lambat di Bawah",
+   "klaim": "Pola pemulihan pascagempa NTT akan tetap timpang, infrastruktur besar dan terpusat seperti gardu induk PLN pulih cepat dalam hitungan hari, sementara titik-titik kecil dan wilayah terpencil seperti 29 desa yang tertutup longsor masih menunggu giliran, dan bertahannya pola ini bergantung pada apakah akses jalan ke desa-desa itu bisa dibuka dalam beberapa hari ke depan.",
+   "penanda": "Terbukanya akses jalan ke 29 desa yang tertutup longsor",
+   "tenggat": "2026-08-24",
+   "tenggatLabel": "dalam beberapa hari ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-14-3",
    "edisi": "2026-08-14",

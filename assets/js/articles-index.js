@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober",
+  "category": "Perbankan",
+  "title": "BI Perluas Bebas [MDR] QRIS ke Semua Merchant Mulai Oktober",
+  "deck": "Bank Indonesia meluncurkan Kartu Kredit Indonesia dan memperluas bebas biaya QRIS ke semua skala usaha untuk transaksi sampai Rp100.000, berlaku 1 Oktober 2026.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober.jpg",
+  "imageV": "mswp7zdn",
+  "tags": [
+   "QRIS",
+   "MDR",
+   "Bank Indonesia",
+   "Kartu Kredit Indonesia"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815926.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "telkom-buka-akses-internet-gratis-di-posko-gempa-ntt",
+  "category": "BUMN",
+  "title": "Telkom Buka Akses Internet [Gratis] di Posko Gempa NTT",
+  "deck": "Telkom Group menyediakan WiFi, kartu SIM, dan paket darurat gratis di posko pengungsian NTT pascagempa, dengan titik layanan yang masih terus bertambah.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/telkom-buka-akses-internet-gratis-di-posko-gempa-ntt.jpg",
+  "imageV": "mswp804s",
+  "tags": [
+   "telkom",
+   "ntt",
+   "gempa bumi",
+   "internet gratis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460439-telkomgroup-sediakan-akses-internet-gratis-di-posko-pengungsian-ntt"
+ },
+ {
   "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",
   "category": "Energi",
   "title": "PLN [Pulihkan] Sebagian Besar Listrik Flores Usai Gempa",

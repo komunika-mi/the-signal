@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober",
+  "category": "Perbankan",
+  "title": "BI Perluas Bebas [MDR] QRIS ke Semua Merchant Mulai Oktober",
+  "deck": "Bank Indonesia meluncurkan Kartu Kredit Indonesia dan memperluas bebas biaya QRIS ke semua skala usaha untuk transaksi sampai Rp100.000, berlaku 1 Oktober 2026.",
+  "image": "assets/img/bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T03:49:57.492Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815926.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "QRIS",
+   "MDR",
+   "Bank Indonesia",
+   "Kartu Kredit Indonesia"
+  ],
+  "body": [
+   "Bank Indonesia bersama Asosiasi Sistem Pembayaran Nasional meluncurkan instrumen pembayaran baru bernama Kartu Kredit Indonesia dan mengumumkan perluasan bebas biaya transaksi QRIS, dalam acara di Jakarta pada 17 Agustus 2026. Perluasan ini penting karena selama ini hanya pedagang skala mikro yang menikmati biaya QRIS nol persen, sementara pedagang kecil hingga besar masih dipungut biaya di setiap transaksi.",
+   "Mulai 1 Oktober 2026, Bank Indonesia menghapus biaya transaksi QRIS atau merchant discount rate untuk pembayaran sampai Rp100.000 di seluruh kategori pedagang, termasuk skala kecil, menengah, dan besar. Sebelumnya kelompok ini dikenai biaya 0,7 persen dari nilai transaksi. Untuk pedagang usaha mikro, kebijakan bebas biaya untuk transaksi sampai Rp500.000 tetap dilanjutkan seperti aturan sebelumnya.",
+   "Kartu Kredit Indonesia adalah kartu kredit yang diproses secara domestik dan dipakai sebagai sumber dana saat membayar lewat QRIS, baik dengan cara pindai kode maupun tempel atau tap. Sejak 17 Agustus 2026, delapan penyelenggara jasa pembayaran sudah menerbitkan kartu ini, yaitu BCA, Mandiri, BNI, BRI, CIMB Niaga, Permata, Bank Mega, dan BSI yang menyediakan versi pembiayaan syariah.",
+   "Bank Indonesia mencatat jumlah pengguna QRIS mencapai 65,77 juta orang per Juni 2026, bertambah 6,23 juta pengguna baru sepanjang semester pertama tahun ini. Jumlah pedagang yang menerima QRIS mencapai 44,86 juta, dengan 96,68 persen di antaranya berskala UMKM. Sepanjang semester I 2026, tercatat 12,55 miliar transaksi QRIS senilai Rp1,12 kuadriliun, tumbuh 93,92 persen dibanding periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "A small food stall owner receiving a tap payment from a customer's smartphone at a busy street market, morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2815926/Cover-sp_2815926.JPG",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan cuma peluncuran kartu kredit baru, tapi perluasan bebas biaya QRIS yang sebelumnya cuma berlaku untuk usaha paling kecil. Sebelum ini, pedagang kecil, menengah, dan besar dikenai biaya 0,7 persen dari nilai transaksi setiap kali pembeli bayar pakai QRIS, biaya ini disebut MDR dan biasanya dipotong bank dari uang yang diterima pedagang. Mulai 1 Oktober 2026, biaya itu dihapuskan untuk transaksi sampai Rp100.000 di semua skala usaha, bukan cuma usaha mikro seperti aturan sebelumnya. Pola ini mengarah ke perluasan insentif QRIS secara bertahap dari usaha terkecil ke semua skala usaha, sejalan dengan target Blueprint Sistem Pembayaran Indonesia 2030. Yang akan memastikan arah ini adalah apakah delapan bank penerbit Kartu Kredit Indonesia benar menambah jumlah kartu yang diterbitkan setelah Oktober, dan apakah data transaksi QRIS pada kuartal berikutnya menunjukkan lonjakan dari pedagang menengah-besar yang sebelumnya kena biaya penuh.",
+  "imageV": "mswp7zdn"
+ },
+ {
+  "slug": "telkom-buka-akses-internet-gratis-di-posko-gempa-ntt",
+  "category": "BUMN",
+  "title": "Telkom Buka Akses Internet [Gratis] di Posko Gempa NTT",
+  "deck": "Telkom Group menyediakan WiFi, kartu SIM, dan paket darurat gratis di posko pengungsian NTT pascagempa, dengan titik layanan yang masih terus bertambah.",
+  "image": "assets/img/telkom-buka-akses-internet-gratis-di-posko-gempa-ntt.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T10:20:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460439-telkomgroup-sediakan-akses-internet-gratis-di-posko-pengungsian-ntt",
+  "tags": [
+   "telkom",
+   "ntt",
+   "gempa bumi",
+   "internet gratis"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk melalui TelkomGroup membuka akses internet dan komunikasi gratis di sejumlah posko pengungsian di Nusa Tenggara Timur, menyusul gempa bumi yang melanda wilayah tersebut. Langkah ini penting karena warga terdampak butuh sarana untuk mengabari keluarga dan mengikuti informasi terkini selama masa tanggap darurat, saat jaringan komunikasi biasanya justru paling rentan terganggu.",
+   "Tiga posko sudah beroperasi, yakni di Gelora Samador Maumere, GraPARI Maumere, dan mitra resmi Telkomsel di Rajawali Maumere. Empat lokasi lain, yaitu Mbay Nagekeo, mitra resmi di Borong dan Ruteng, serta Kantor Wilayah Telkom Flores, masih dalam proses persiapan. Khusus di Gelora Samador Maumere, Telkom juga memasang internet rumah IndiHome berkecepatan 200 Mbps yang dipancarkan lewat beberapa titik Mesh WiFi agar sinyalnya menjangkau area pengungsian lebih luas. Kepolisian Resor Sikka memanfaatkan akses ini untuk memutar film sebagai hiburan bagi anak-anak di posko.",
+   "Selain WiFi gratis, TelkomGroup membagikan kartu perdana SIMPATI dan voucher kuota tanpa biaya kepada warga yang membutuhkan. Pelanggan Telkomsel juga bisa mengaktifkan paket darurat berisi 3GB kuota, 1.000 SMS, dan 300 menit telepon seharga Rp1 dengan masa berlaku tujuh hari, melalui kode *888*20#. Direktur Network Telkom Nanang Hendarno menyebut konektivitas menjadi kebutuhan mendesak saat bencana, baik bagi warga maupun petugas yang menangani situasi di lapangan."
+  ],
+  "fotoAdegan": "Technicians installing a wireless router and antenna at a crowded evacuation tent camp, displaced families using phones nearby, tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a827c853040d-pt-telkom-indonesia-persero-tbk-telkom-berkomitmen-untuk-terus-menghadirkan-dukungan-bagi-masyarakat-terdampak-gempa-bumi-di-nusa-tenggara-timur-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar bantuan sosial biasa, melainkan cakupan layanan yang masih dalam tahap perluasan. Baru tiga titik di sekitar Maumere yang benar-benar aktif, sementara empat lokasi lain di Nagekeo, Borong, Ruteng, dan kantor wilayah Flores masih disiapkan, artinya warga di titik-titik itu belum bisa memakainya. Yang jelas terdampak lebih dulu adalah pengungsi di Maumere, sementara warga di wilayah lain harus menunggu proses pemasangan rampung. Arahnya kemungkinan besar layanan ini terus meluas mengikuti sebaran titik pengungsian, tapi yang perlu dipantau adalah apakah paket darurat gratis yang cuma berlaku tujuh hari itu akan diperpanjang atau diulang, mengingat proses tanggap darurat gempa biasanya berlangsung lebih lama dari itu.",
+  "imageV": "mswp804s"
+ },
+ {
   "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",
   "category": "Energi",
   "title": "PLN [Pulihkan] Sebagian Besar Listrik Flores Usai Gempa",

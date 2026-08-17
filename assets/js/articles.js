@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu",
+  "category": "Industri",
+  "title": "Insentif Motor Listrik Rp5 Juta [Tertahan], Tunggu Aturan Menkeu",
+  "deck": "Menperin Agus Gumiwang menyebut insentif Rp5 juta untuk motor listrik masih menunggu Peraturan Menteri Keuangan sebelum bisa dijalankan.",
+  "image": "assets/img/insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T21:24:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460567-update-soal-insentif-motor-listrik-rp5-juta-menperin-tunggu-peraturan-menteri-keuangan",
+  "tags": [
+   "motor listrik",
+   "insentif kendaraan listrik",
+   "Kementerian Keuangan",
+   "Danantara"
+  ],
+  "body": [
+   "Menteri Perindustrian Agus Gumiwang Kartasasmita menyatakan rencana insentif pembelian motor listrik senilai Rp5 juta belum bisa direalisasikan. Penyebabnya, pemerintah masih menunggu terbitnya Peraturan Menteri Keuangan yang menjadi dasar hukum pelaksanaan program tersebut. Kepastian ini penting bagi masyarakat yang berharap potongan harga saat membeli motor listrik.",
+   "Agus mengatakan Kementerian Perindustrian sebenarnya sudah menyelesaikan seluruh persiapan teknis di sisi mereka. Namun pelaksanaan di lapangan baru bisa dimulai setelah aturan dari Kementerian Keuangan resmi keluar, dan wewenang penerbitannya sepenuhnya berada di kementerian tersebut. Ia mengaku belum bisa memastikan kapan aturan itu akan rampung.",
+   "Untuk menentukan merek dan tipe motor listrik yang berhak mendapat subsidi, Kementerian Perindustrian tidak bekerja sendiri. Agus menyebut akan dibentuk tim gabungan yang terdiri dari kementeriannya, Danantara Indonesia, dan Kementerian Keuangan untuk memutuskan hal tersebut begitu payung hukumnya terbit.",
+   "Wacana insentif ini pertama kali mengemuka pada April 2026 melalui usulan Menteri Keuangan Purbaya Yudhi Sadewa, sehingga hingga pertengahan Agustus 2026 program ini sudah tertahan sekitar empat bulan sejak pertama kali diusulkan."
+  ],
+  "fotoAdegan": "Rows of small electric motorcycles parked inside a dealership showroom, a technician checking a battery pack, bright afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82fe7b41166-menteri-perindustrian-menperin-agus-gumiwang-kartasasmita_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah sejauh ini sebenarnya belum ada, insentif Rp5 juta untuk motor listrik masih berupa rencana yang menunggu Peraturan Menteri Keuangan sebagai dasar hukumnya. Yang terdampak adalah calon pembeli motor listrik yang menunggu potongan harga, serta produsen motor listrik yang produknya nanti dinilai oleh tim gabungan Kemenperin, Danantara, dan Kemenkeu untuk masuk daftar penerima subsidi. Arah kebijakan ini belum bisa dibaca dengan pasti karena Menperin sendiri tidak berani menyebut target waktu, padahal usulan ini sudah muncul sejak April 2026, artinya sudah empat bulan berjalan tanpa kepastian regulasi. Yang perlu dipantau adalah tanggal resmi terbitnya PMK dari Kementerian Keuangan, sekaligus daftar merek dan tipe motor listrik yang ditetapkan tim gabungan begitu aturan itu berlaku.",
+  "imageV": "msxe1pfi"
+ },
+ {
+  "slug": "kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan",
+  "category": "Makroekonomi",
+  "title": "Kementerian PU: [Kedaulatan] Dijaga Lewat Sawah dan Jembatan",
+  "deck": "Kementerian PU menegaskan kedaulatan RI harus terasa lewat irigasi sawah, jalan desa, dan jembatan di pelosok negeri saat HUT ke-81 kemerdekaan.",
+  "image": "assets/img/kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T21:11:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460592-refleksi-hut-ke-81-ri-kementerian-pu-tegaskan-kedaulatan-dijaga-lewat-sawah-hingga-jembatan-di-pelosok-negeri",
+  "tags": [
+   "HUT RI ke-81",
+   "Kementerian PU",
+   "infrastruktur",
+   "Sapta Taruna"
+  ],
+  "body": [
+   "Menyambut HUT ke-81 Kemerdekaan RI, Staf Khusus Menteri Pekerjaan Umum Jemmy Setiawan menegaskan bahwa kedaulatan tidak cukup diukur dari status politik semata, melainkan harus terasa dalam keseharian rakyat. Ia menyebut kedaulatan itu hadir lewat air yang mengalir ke sawah petani, jalan yang menghubungkan desa dengan pasar, jembatan yang mengantar anak sekolah, hingga akses air minum dan sanitasi yang layak. Pernyataan ini penting karena menunjukkan arah kerja kementerian yang bertanggung jawab menghadirkan infrastruktur dasar sampai ke pelosok, bukan hanya di kota besar.",
+   "Kementerian PU sendiri lahir bersamaan dengan Republik ini, didirikan pada Agustus 1945 dan kini genap berusia 81 tahun. Kantor pusatnya semula menempati Gedung Sate di Bandung, bekas gedung Departement van Verkeer en Waterstaat peninggalan kolonial yang menyimpan arsip teknis penting negara. Pada 3 Desember 1945, sebanyak 21 pegawai PU mempertahankan gedung itu dari serangan pasukan Sekutu dan NICA, tujuh di antaranya gugur dan dikenang sebagai pahlawan Sapta Taruna, peristiwa yang kemudian menjadi dasar peringatan Hari Bakti PU setiap 3 Desember.",
+   "Jemmy menyebut pesan dari peristiwa itu diteruskan secara berbeda di masa sekarang, dari mempertahankan gedung negara menjadi membangun infrastruktur agar kehadiran negara dirasakan seluruh rakyat. Seiring waktu, peran kementerian ini bergeser dari sekadar memperbaiki prasarana pasca-revolusi menjadi motor pembangunan nasional, dengan tonggak seperti Bendungan Jatiluhur pada 1957, Jembatan Semanggi, dan Jalan Tol Jagorawi pada 1978 sebagai bukti kemampuan teknokratis insinyur Indonesia."
+  ],
+  "fotoAdegan": "Farmers guiding irrigation water into a green rice paddy terrace in a rural village at sunrise, mist over the fields",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a831587c99ff-ilustrasi-bendungan-tapin-di-kalimantan-selatan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pernyataan ini bukan pengumuman anggaran atau proyek baru, melainkan refleksi Kementerian PU dalam rangka HUT kemerdekaan, sehingga tidak ada angka dana atau kebijakan yang berubah hari ini. Pihak yang jelas disinggung sebagai penerima manfaat adalah masyarakat di daerah yang bergantung pada infrastruktur dasar seperti irigasi sawah, jalan desa, jembatan menuju sekolah, serta air minum dan sanitasi, terutama di wilayah pelosok yang belum semua terlayani. Supaya jelas apakah komitmen ini berlanjut jadi kerja nyata atau berhenti sebagai pernyataan seremonial, yang perlu dipantau adalah rincian anggaran infrastruktur Kementerian PU dalam APBN 2027 dan daftar proyek irigasi, jalan, atau jembatan yang akan diumumkan kementerian dalam waktu dekat. Tanpa angka anggaran atau proyek konkret itu, publik belum punya dasar untuk menilai ke arah mana janji ini akan bergerak.",
+  "imageV": "msxe1px6"
+ },
+ {
   "slug": "gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak",
   "category": "UMKM",
   "title": "Gempa NTT: Kemendag Beri Bantuan [Rp250] Juta, 4 Pasar Rusak",
@@ -192,6 +245,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan sekadar bantuan sosial biasa, melainkan cakupan layanan yang masih dalam tahap perluasan. Baru tiga titik di sekitar Maumere yang benar-benar aktif, sementara empat lokasi lain di Nagekeo, Borong, Ruteng, dan kantor wilayah Flores masih disiapkan, artinya warga di titik-titik itu belum bisa memakainya. Yang jelas terdampak lebih dulu adalah pengungsi di Maumere, sementara warga di wilayah lain harus menunggu proses pemasangan rampung. Arahnya kemungkinan besar layanan ini terus meluas mengikuti sebaran titik pengungsian, tapi yang perlu dipantau adalah apakah paket darurat gratis yang cuma berlaku tujuh hari itu akan diperpanjang atau diulang, mengingat proses tanggap darurat gempa biasanya berlangsung lebih lama dari itu.",
   "imageV": "mswp804s"
+ },
+ {
+  "slug": "harga-bbm-stabil-sejak-awal-agustus-2026",
+  "category": "Energi",
+  "title": "Harga BBM [Stabil] Sejak Awal Agustus 2026",
+  "deck": "Harga BBM di SPBU Pertamina, Shell, dan bp tidak berubah sejak 1 Agustus 2026, bertahan hingga peringatan HUT ke-81 RI pada 17 Agustus 2026.",
+  "image": "assets/img/harga-bbm-stabil-sejak-awal-agustus-2026.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T09:03:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460420-harga-bbm-terpantau-stabil-pada-peringatan-hut-ke-81-ri-ini-rincian-harganya",
+  "tags": [
+   "bbm",
+   "harga bbm",
+   "spbu",
+   "hut ke-81 ri"
+  ],
+  "body": [
+   "Harga bahan bakar minyak di stasiun pengisian milik Pertamina, Shell, dan bp tercatat tidak mengalami perubahan pada peringatan Hari Ulang Tahun ke-81 Republik Indonesia, Senin (17/8/2026). Kestabilan ini berarti biaya bahan bakar kendaraan bermotor tetap sama seperti bulan sebelumnya, di tengah momentum libur nasional yang biasanya mendorong mobilitas masyarakat lebih tinggi dari hari biasa.",
+   "Berdasarkan laman resmi Pertamina, harga berbagai jenis BBM belum berubah sejak 1 Agustus 2026, mengikuti jadwal evaluasi bulanan yang lazim dilakukan badan usaha bahan bakar minyak di awal bulan. Pola serupa terlihat di SPBU Shell, dengan harga BBM jenis V-Power Diesel bertahan di Rp21.910 per liter, sama seperti penetapan awal Agustus lalu. SPBU bp turut mempertahankan harga BBM-nya di level yang sama sejak awal bulan tersebut.",
+   "Dengan tidak adanya kenaikan maupun penurunan sejak awal bulan, konsumen kendaraan bermotor maupun pelaku usaha yang bergantung pada bahan bakar seperti solar dan bensin tidak perlu menyesuaikan anggaran operasional mereka dalam waktu dekat."
+  ],
+  "fotoAdegan": "Gas station attendant fueling a parked car at a busy filling station, fuel pumps in soft focus, daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/10/6a28f302a0cc0-ilustrasi-spbu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah sebenarnya adalah tidak ada perubahan, harga BBM di tiga operator SPBU ini bertahan di level yang sama sejak 1 Agustus 2026, misalnya Shell V-Power Diesel tetap di Rp21.910 per liter. Yang merasakan dampaknya adalah pengendara sehari-hari dan pelaku usaha yang mengandalkan solar, karena ongkos bahan bakar mereka tidak berubah menjelang akhir bulan ini. Yang masih kurang untuk membaca apakah ini pola stabil atau kebetulan satu bulan saja adalah rincian harga lengkap semua jenis BBM di Pertamina dan bp, termasuk riwayat perubahan pada bulan-bulan sebelumnya, yang belum tercakup dalam sumber ini. Pola itu baru akan lebih jelas terlihat saat ada evaluasi harga berikutnya di awal September mendatang.",
+  "imageV": "msxe1qfr"
  },
  {
   "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",

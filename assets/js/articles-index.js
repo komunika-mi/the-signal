@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu",
+  "category": "Industri",
+  "title": "Insentif Motor Listrik Rp5 Juta [Tertahan], Tunggu Aturan Menkeu",
+  "deck": "Menperin Agus Gumiwang menyebut insentif Rp5 juta untuk motor listrik masih menunggu Peraturan Menteri Keuangan sebelum bisa dijalankan.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu.jpg",
+  "imageV": "msxe1pfi",
+  "tags": [
+   "motor listrik",
+   "insentif kendaraan listrik",
+   "Kementerian Keuangan",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460567-update-soal-insentif-motor-listrik-rp5-juta-menperin-tunggu-peraturan-menteri-keuangan"
+ },
+ {
+  "slug": "kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan",
+  "category": "Makroekonomi",
+  "title": "Kementerian PU: [Kedaulatan] Dijaga Lewat Sawah dan Jembatan",
+  "deck": "Kementerian PU menegaskan kedaulatan RI harus terasa lewat irigasi sawah, jalan desa, dan jembatan di pelosok negeri saat HUT ke-81 kemerdekaan.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan.jpg",
+  "imageV": "msxe1px6",
+  "tags": [
+   "HUT RI ke-81",
+   "Kementerian PU",
+   "infrastruktur",
+   "Sapta Taruna"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460592-refleksi-hut-ke-81-ri-kementerian-pu-tegaskan-kedaulatan-dijaga-lewat-sawah-hingga-jembatan-di-pelosok-negeri"
+ },
+ {
   "slug": "gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak",
   "category": "UMKM",
   "title": "Gempa NTT: Kemendag Beri Bantuan [Rp250] Juta, 4 Pasar Rusak",
@@ -125,6 +159,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460439-telkomgroup-sediakan-akses-internet-gratis-di-posko-pengungsian-ntt"
+ },
+ {
+  "slug": "harga-bbm-stabil-sejak-awal-agustus-2026",
+  "category": "Energi",
+  "title": "Harga BBM [Stabil] Sejak Awal Agustus 2026",
+  "deck": "Harga BBM di SPBU Pertamina, Shell, dan bp tidak berubah sejak 1 Agustus 2026, bertahan hingga peringatan HUT ke-81 RI pada 17 Agustus 2026.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/harga-bbm-stabil-sejak-awal-agustus-2026.jpg",
+  "imageV": "msxe1qfr",
+  "tags": [
+   "bbm",
+   "harga bbm",
+   "spbu",
+   "hut ke-81 ri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460420-harga-bbm-terpantau-stabil-pada-peringatan-hut-ke-81-ri-ini-rincian-harganya"
  },
  {
   "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",

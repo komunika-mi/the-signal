@@ -949,8 +949,15 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
   border-bottom: 1px solid var(--line);
 }
 .menanti-item:last-of-type { border-bottom: none; padding-bottom: .3rem; margin-bottom: .6rem; }
+/* Lebar TETAP, bukan min-width dengan flex:none seperti semula. Dulu isinya
+   tanggal pendek sehingga kolomnya rapi sendiri; sejak diganti "Selasa, 18
+   Agustus 2026" tiap baris mengambil lebar apa adanya dan kolom kiri jadi
+   ragged mengikuti panjang nama hari. Dengan basis tetap, label yang
+   kepanjangan turun ke baris kedua di dalam kolomnya sendiri dan deretan
+   tanggalnya tetap lurus. Di bawah 560px baris ini ditumpuk, jadi basisnya
+   dinolkan lagi di media query di bawah. */
 .menanti-tgl {
-  flex: none; min-width: 5.2rem; font-size: .78rem; font-weight: 700;
+  flex: 0 0 10.5rem; font-size: .78rem; font-weight: 700;
   color: var(--ink);
 }
 .menanti-item b { font-family: var(--sans); font-size: .9rem; }
@@ -960,5 +967,5 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 }
 @media (max-width: 560px) {
   .menanti-item { flex-direction: column; gap: .2rem; }
-  .menanti-tgl { min-width: 0; }
+  .menanti-tgl { flex: none; }
 }

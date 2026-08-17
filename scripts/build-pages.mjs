@@ -55,6 +55,26 @@ function muatHarian() {
 }
 const HARIAN = muatHarian();
 
+// Signal Pekanan, terbit Minggu. Boleh tidak ada: sebelum edisi pertama
+// terbit, dan pada pekan yang dinilai terlalu sepi untuk berpola, berkasnya
+// memang belum atau tidak dibuat. Halaman lain tidak boleh ikut gagal.
+function muatPekanan() {
+  const p = path.join(ROOT, 'assets/js/pekanan.js');
+  if (!fs.existsSync(p)) return null;
+  const src = fs.readFileSync(p, 'utf8');
+  const i = src.indexOf('{'), j = src.lastIndexOf('}');
+  try { return JSON.parse(src.slice(i, j + 1)); } catch { return null; }
+}
+const PEKANAN = muatPekanan();
+function muatArsipPekanan() {
+  const p = path.join(ROOT, 'assets/js/pekanan-arsip.js');
+  if (!fs.existsSync(p)) return PEKANAN ? [PEKANAN] : [];
+  const m = fs.readFileSync(p, 'utf8').match(/\[[\s\S]*\]/);
+  if (!m) return PEKANAN ? [PEKANAN] : [];
+  try { return JSON.parse(m[0]); } catch { return PEKANAN ? [PEKANAN] : []; }
+}
+const ARSIP_PEKANAN = muatArsipPekanan();
+
 // Empat produk sinyal yang dihitung dari arsip yang sudah ada: kalender
 // penentu (agenda), garis waktu isu (tema), arsip per emiten, dan rapor
 // pembacaan. Tidak satu pun memanggil model saat build; semuanya susunan
@@ -1136,6 +1156,68 @@ document.addEventListener('DOMContentLoaded', function () {
   console.log('signal harian: ' + HARIAN.tanggal);
 }
 
+// ---------- Signal Pekanan ----------
+//
+// Terbit Minggu, satu tingkat di atas edisi harian: pola yang baru kelihatan
+// setelah sepekan, plus kalender pekan depan. Bentuk halamannya sengaja
+// mirip Signal Harian supaya terasa satu keluarga, tapi punya bagian yang
+// tidak dimiliki harian, yaitu "yang menanti pekan depan".
+if (PEKANAN && PEKANAN.judul) {
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Signal Pekanan</span>` +
+    `<h1 class="harian-judul">${esc(PEKANAN.judul)}</h1>` +
+    `<p class="harian-tanggal num">Pekan ${esc(PEKANAN.rentangLabel)} &middot; ` +
+      `dirangkai dari ${PEKANAN.jumlahEdisi} edisi harian dan ${PEKANAN.jumlahBerita} berita</p>` +
+    `<p class="harian-ringkas">${esc(PEKANAN.ringkas)}</p>` +
+    `</div>` +
+    `<div class="harian-benang">` +
+    (PEKANAN.pola || []).map((p, i) =>
+      `<article class="benang"><span class="benang-num num">${String(i + 1).padStart(2, '0')}</span>` +
+      `<div><h2>${esc(p.judul)}</h2><p>${esc(p.isi)}</p></div></article>`).join('') +
+    `</div>` +
+    ((PEKANAN.menanti || []).length
+      ? `<div class="pekan-menanti">` +
+        `<h2 class="pekan-menanti-judul">Yang menanti pekan depan</h2>` +
+        (PEKANAN.menanti).map(m =>
+          `<article class="menanti-item">` +
+          `<span class="menanti-tgl num">${esc(m.tanggal)}</span>` +
+          `<div><b>${esc(m.apa)}</b><p>${esc(m.kenapa)}</p></div>` +
+          `</article>`).join('') +
+        `<a class="card-link" href="/agenda.html">Lihat seluruh agenda &rarr;</a>` +
+        `</div>`
+      : '') +
+    (PEKANAN.penutup ? `<p class="harian-penutup">${esc(PEKANAN.penutup)}</p>` : '') +
+    `<div class="article-source-box" style="max-width:70ch;"><p>Signal Pekanan disusun redaksi ` +
+    `The Signal dari seluruh edisi harian dan berita sepekan. Isinya pembacaan arah, bukan ` +
+    `penilaian benar atau salah atas kebijakan, dan bukan rekomendasi investasi. Tanggal pada ` +
+    `bagian "yang menanti" diambil dari dokumen resmi yang diberitakan, dan yang berlabel ` +
+    `perkiraan mengikuti pola rilis, bukan pengumuman resmi.</p>` +
+    `<a href="/signal-harian.html">Baca Signal Harian terbaru &rarr;</a></div>` +
+    `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Dapatkan pembacaan ini lebih dulu</b>` +
+    `<span>Signal Harian tiap malam hari kerja, plus rangkuman pekanan tiap Minggu. ` +
+    `Langsung ke email, gratis, berhenti kapan saja.</span></div>` +
+    `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal+</button></div>` +
+    `</section>`;
+
+  fs.writeFileSync(path.join(ROOT, 'signal-pekanan.html'),
+    head({
+      title: 'Signal Pekanan: ' + plain(PEKANAN.judul),
+      desc: PEKANAN.ringkas,
+      url: '/signal-pekanan.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+      ogType: 'article',
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
+        headline: plain(PEKANAN.judul), datePublished: PEKANAN.dibuat,
+        publisher: { '@type': 'Organization', name: 'The Signal' },
+      },
+    }) + isi + FOOT, 'utf8');
+  console.log('signal pekanan: ' + PEKANAN.rentangLabel + ' (' + (PEKANAN.pola || []).length + ' pola)');
+}
+
 // ---------- bersihkan halaman yatim ----------
 // Artikel lama yang sudah terdorong keluar dari arsip menyisakan file HTML.
 // Tanpa ini, file-file itu menumpuk selamanya dan masih bisa diakses publik
@@ -1226,6 +1308,7 @@ periksaHalamanRoot();
 // Video tidak membawa tanggal di datanya, jadi tanpa lastmod; itu sah.
 const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
+  ...(PEKANAN ? ['/signal-pekanan.html'] : []),
   '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
@@ -1297,6 +1380,17 @@ fs.writeFileSync(ROOT + '/feed.xml',
     '    <pubDate>' + new Date((h.dibuat || h.tanggal + 'T12:00:00+07:00')).toUTCString() + '</pubDate>\n' +
     '    <description><![CDATA[' + isiFeed(h) + ']]></description>\n' +
     '  </item>').join('\n') +
+  // Edisi pekanan ikut masuk feed yang sama, dengan awalan guid yang BERBEDA.
+  // Kalau awalannya sama, edisi pekanan tanggal 17 dan edisi harian tanggal 17
+  // akan dianggap satu item oleh pembaca feed, dan salah satunya hilang.
+  (ARSIP_PEKANAN.length ? '\n' + ARSIP_PEKANAN.map(p =>
+    '  <item>\n' +
+    '    <title>Signal Pekanan: ' + esc(p.judul) + '</title>\n' +
+    '    <link>' + BASE + '/signal-pekanan.html</link>\n' +
+    '    <guid isPermaLink="false">the-signal-pekanan-' + esc(p.tanggal) + '</guid>\n' +
+    '    <pubDate>' + new Date((p.dibuat || p.tanggal + 'T19:00:00+07:00')).toUTCString() + '</pubDate>\n' +
+    '    <description><![CDATA[' + isiFeedPekanan(p) + ']]></description>\n' +
+    '  </item>').join('\n') : '') +
   '\n</channel>\n</rss>\n', 'utf8');
 
 // ---------- penjaga keutuhan foto ----------
@@ -1403,21 +1497,4 @@ if (fotoHilang.length) {
 //
 // Peringatan, bukan penghentian: sebutan yang kurang lengkap tidak
 // menyesatkan pembaca soal fakta, jadi tidak sepadan dengan menahan seluruh
-// terbitan. Yang penting angkanya TERLIHAT tiap build. "Pak Prabowo" di
-// dalam kutipan narasumber sengaja tidak dihitung sebagai pelanggaran.
-{
-  const pola = /(?<!Presiden )(?<!Pak )Prabowo/;
-  const telanjang = ARTICLES.filter(a =>
-    pola.test([a.title, a.deck, a.takeaway, (a.tags || []).join(' '),
-      (a.body || []).join(' ')].join(' ')));
-  if (telanjang.length) {
-    console.warn('PERINGATAN: ' + telanjang.length + ' artikel menyebut kepala negara tanpa gelar.');
-    console.warn('  Perbaiki: node scripts/perbaiki-gelar.mjs');
-    telanjang.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
-  }
-}
-
-console.log('article pages:', ARTICLES.length);
-console.log('video pages:', VIDEOS.length);
-console.log('sitemap urls:', urls.length);
-console.log('feed edisi:', ARSIP_HARIAN.length);
+// terbitan. Yang penting angkanya TERLIHAT tiap build. "Pak Prabow

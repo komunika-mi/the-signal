@@ -195,7 +195,17 @@ const ATURAN_FOTO = [
 // ---------- Signal Harian ----------
 // Merangkai SELURUH berita satu hari jadi satu benang arah kebijakan. Ini yang
 // tidak bisa dilihat dari satu berita saja, dan jadi alasan orang berlangganan.
-export async function tulisHarian(artikel, tanggalLabel) {
+// konteks = { angka, kemarin }, dan PARAMETER INI SEMPAT HILANG.
+//
+// signal-harian.mjs sudah lama merakit angka BPS, angka pasar, dan benang
+// edisi kemarin, lalu mengirimkannya sebagai argumen ketiga. Fungsi ini
+// dulu hanya menerima dua argumen, jadi seluruh konteks itu dibuang diam-diam
+// sementara lognya tetap mencetak "konteks angka: N baris" seolah terpakai.
+// Log yang berbohong lebih berbahaya daripada tidak ada log.
+//
+// Pelajaran yang sudah tercatat dan terulang lagi: kalau mengubah kontrak
+// dua berkas, periksa KEDUA sisinya terpasang, jangan salah satu.
+export async function tulisHarian(artikel, tanggalLabel, konteks = {}) {
   const system = [
     'Kamu redaktur pelaksana The Signal, portal berita ekonomi Indonesia.',
     '',
@@ -269,9 +279,128 @@ export async function tulisHarian(artikel, tanggalLabel) {
     (a.takeaway ? '\n   catatan: ' + a.takeaway.slice(0, 320) : '')
   ).join('\n\n');
 
-  const hasil = ambilJSON(await tanya(system, '<<<DATA>>>\n' + daftar + '\n<<<AKHIR_DATA>>>'));
+  // Konteks ditaruh DI LUAR penanda DATA berita, dan diberi label sendiri,
+  // supaya jelas mana bahan berita hari ini dan mana angka pembanding.
+  const tambahan = [];
+  if (konteks.angka) {
+    tambahan.push('<<<ANGKA_RESMI>>>\n' +
+      'Angka terkini beserta arah beberapa periode terakhir. Sudah dihitung, ' +
+      'JANGAN hitung ulang. Pakai kalau menolong membaca arah; jangan dipaksa masuk.\n' +
+      konteks.angka + '\n<<<AKHIR_ANGKA>>>');
+  }
+  if (konteks.kemarin) {
+    tambahan.push('<<<EDISI_SEBELUMNYA>>>\n' +
+      'Pembacaan edisi terakhir. Kalau benang hari ini melanjutkan, menguatkan, ' +
+      'atau justru mematahkannya, sebutkan sambungannya secara wajar.\n' +
+      konteks.kemarin + '\n<<<AKHIR_EDISI>>>');
+  }
+
+  const hasil = ambilJSON(await tanya(system,
+    '<<<DATA>>>\n' + daftar + '\n<<<AKHIR_DATA>>>' +
+    (tambahan.length ? '\n\n' + tambahan.join('\n\n') : '')));
   if (!hasil.layak || !Array.isArray(hasil.benang) || !hasil.benang.length) return null;
   hasil.benang = hasil.benang.slice(0, 3);
+  return hasil;
+}
+
+// ---------- Signal Pekanan ----------
+//
+// Terbit Minggu, dan SENGAJA BUKAN gabungan lima edisi harian. Kalau cuma
+// menempel ringkasan Senin sampai Jumat, pembaca yang sudah mengikuti tidak
+// mendapat apa pun, dan yang belum mengikuti tetap kebanjiran.
+//
+// Yang dijual di sini satu tingkat lebih tinggi: pola yang baru kelihatan
+// setelah lima hari berlalu, dan kalender pekan depan sebagai persiapan.
+// Alasan bentuk ini dipilih untuk akhir pekan juga praktis: Sabtu-Minggu
+// bursa tutup dan lembaga tidak menerbitkan apa pun, jadi tidak ada bahan
+// harian, tetapi bahan MINGGUAN justru baru lengkap tepat pada saat itu.
+export async function tulisPekanan(bahan) {
+  const system = [
+    'Kamu redaktur pelaksana The Signal, portal berita ekonomi Indonesia.',
+    '',
+    PENGAMAN,
+    '',
+    'TUGAS: tulis "Signal Pekanan" untuk pekan ' + bahan.labelRentang + '.',
+    'Dibaca Minggu sore, saat orang menyiapkan pekan kerja berikutnya.',
+    '',
+    'INI BUKAN GABUNGAN EDISI HARIAN. Pembaca setia sudah membacanya. Kalau',
+    'kamu cuma menempel ulang lima ringkasan, tulisan ini tidak berguna.',
+    'Naikkan satu tingkat: apa yang BARU KELIHATAN setelah sepekan berlalu,',
+    'yang tidak kelihatan pada hari mana pun secara terpisah.',
+    '',
+    'Cara kerjanya:',
+    '1. Cari 2 sampai 3 POLA SEPEKAN. Pola yang sah punya salah satu bentuk:',
+    '   - satu arah yang MENGUAT sepanjang pekan, disokong peristiwa di',
+    '     beberapa hari berbeda',
+    '   - satu arah yang BERBALIK di tengah pekan, dan sebutkan pemicunya',
+    '   - satu hal yang BERULANG di beberapa sektor sekaligus, tanda tekanan',
+    '     yang sama sedang bekerja di banyak tempat',
+    '   Tiap pola WAJIB bersandar pada peristiwa dari MINIMAL DUA HARI yang',
+    '   berbeda, dan menyebut angkanya.',
+    '2. Untuk tiap pola, sebut ke mana arahnya dan apa yang akan mengujinya.',
+    '   Aturan buktinya sama dengan edisi harian: kalau data sudah jelas,',
+    '   sebut satu arah; kalau belum, dua skenario lengkap dengan mana yang',
+    '   lebih mungkin, apa pembedanya, dan kapan ketahuan.',
+    '3. Susun "yang menanti pekan depan" dari AGENDA yang diberikan. Ambil',
+    '   3 sampai 5 yang paling menentukan, bukan yang paling ramai. Untuk',
+    '   tiap agenda, jelaskan singkat KENAPA itu penting bagi pembaca yang',
+    '   menjalankan usaha, bukan sekadar menyalin tanggalnya.',
+    '4. Kalau ada klaim di RAPOR yang jatuh tempo pekan depan, sebutkan',
+    '   sebagai hal yang akan diuji. Itu janji redaksi yang harus ditagih.',
+    '',
+    'BATAS TEGAS, sama seperti edisi harian:',
+    '- Kamu MEMBACA ARAH, bukan MENILAI BENAR-SALAH. Dilarang menyatakan',
+    '  kebijakan tepat, keliru, atau gagal. Dilarang menilai tokoh dan partai.',
+    '- Dilarang mengarang angka, tanggal, atau peristiwa yang tidak ada di DATA.',
+    '- Dilarang memberi saran investasi atau menebak arah harga saham.',
+    '- Kalau pekan ini benar-benar tidak berpola, set "layak": false. Pekan',
+    '  yang sepi memang ada, dan mengaku lebih baik daripada mengarang pola.',
+    '',
+    GAYA,
+    '',
+    'FORMAT KELUARAN: HANYA JSON valid, tanpa penjelasan, tanpa pagar kode.',
+    '{',
+    '  "layak": boolean,',
+    '  "judul": string,        // maks 70 karakter, sebut pola utamanya',
+    '  "ringkas": string,      // 2-3 kalimat: inti pekan ini dalam satu tarikan',
+    '  "pola": [               // 2-3 pola sepekan',
+    '    { "judul": string,    // maks 60 karakter',
+    '      "isi": string }     // 4-7 kalimat: apa polanya, peristiwa hari apa',
+    '                          // saja yang menyokongnya, angkanya, ke mana',
+    '                          // arahnya, dan apa yang akan mengujinya',
+    '  ],',
+    '  "menanti": [            // 3-5 agenda pekan depan',
+    '    { "tanggal": string,  // salin apa adanya dari AGENDA',
+    '      "apa": string,      // maks 70 karakter',
+    '      "kenapa": string }  // 1-2 kalimat, kenapa ini menentukan',
+    '  ],',
+    '  "penutup": string       // 1-2 kalimat: satu hal yang paling menentukan',
+    '                          // arah pekan depan',
+    '}',
+  ].join('\n');
+
+  const bagian = ['<<<EDISI_HARIAN_PEKAN_INI>>>\n' + bahan.edisi + '\n<<<AKHIR_EDISI>>>'];
+  if (bahan.berita) {
+    bagian.push('<<<BERITA_PEKAN_INI>>>\n' + bahan.berita + '\n<<<AKHIR_BERITA>>>');
+  }
+  if (bahan.agenda) {
+    bagian.push('<<<AGENDA_PEKAN_DEPAN>>>\nTanggal-tanggal ini sudah terverifikasi ' +
+      'dari arsip. Salin tanggalnya apa adanya, jangan mengarang tanggal lain.\n' +
+      bahan.agenda + '\n<<<AKHIR_AGENDA>>>');
+  }
+  if (bahan.angka) {
+    bagian.push('<<<ANGKA_RESMI>>>\nSudah dihitung, JANGAN hitung ulang.\n' +
+      bahan.angka + '\n<<<AKHIR_ANGKA>>>');
+  }
+  if (bahan.rapor) {
+    bagian.push('<<<KLAIM_JATUH_TEMPO>>>\nPembacaan arah kami sendiri yang ' +
+      'penanda ujinya jatuh tempo pekan depan.\n' + bahan.rapor + '\n<<<AKHIR_KLAIM>>>');
+  }
+
+  const hasil = ambilJSON(await tanya(system, bagian.join('\n\n')));
+  if (!hasil.layak || !Array.isArray(hasil.pola) || !hasil.pola.length) return null;
+  hasil.pola = hasil.pola.slice(0, 3);
+  hasil.menanti = Array.isArray(hasil.menanti) ? hasil.menanti.slice(0, 5) : [];
   return hasil;
 }
 

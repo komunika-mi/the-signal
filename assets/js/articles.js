@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ENRG cetak laba bersih naik [27%] pada semester I 2026",
+  "deck": "Penjualan bersih, EBITDA, dan laba bersih Energi Mega Persada kompak tumbuh dua digit pada semester I 2026 dibanding periode sama tahun lalu.",
+  "image": "assets/img/enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T22:33:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/497827dd25_6d9b88c669.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "laporan keuangan",
+   "migas",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) melaporkan kepada Bursa Efek Indonesia bahwa kinerja keuangan semester I 2026 tumbuh dibanding periode yang sama tahun sebelumnya. Penjualan bersih naik 19 persen dari 239,11 juta dolar AS menjadi 283,37 juta dolar AS. EBITDA tumbuh 25 persen dari 149,23 juta dolar AS menjadi 186,28 juta dolar AS, sementara laba bersih naik 27 persen dari 35,73 juta dolar AS menjadi 45,23 juta dolar AS.",
+   "Dalam surat yang ditandatangani Direktur Utama Syailendra S. Bakrie dan Wakil Direktur Utama Edoardus Ardianto, perseroan menyebut capaian itu ditopang kontribusi berkelanjutan dari portofolio aset yang sudah berproduksi serta kenaikan pendapatan. Perseroan menyatakan akan tetap fokus mengoptimalkan aset yang ada, melanjutkan berbagai inisiatif pertumbuhan, dan menjaga pelaksanaan yang disiplin, sembari tetap berhati-hati dalam mengelola sumber daya keuangan dan kebutuhan pendanaannya.",
+   "Laporan ini disampaikan oleh Direktur dan Corporate Secretary Riri Hosniari Harahap kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 17 Agustus 2026, sebagai bagian dari kewajiban keterbukaan informasi. Perseroan menyebut akan menyampaikan informasi atau fakta material tambahan kepada kedua regulator jika ada perkembangan lebih lanjut."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform silhouette on a hazy tropical horizon, a supply vessel nearby, soft early morning light",
+  "takeaway": "Laporan ini positif bagi ENRG karena tiga indikator utama, penjualan bersih, EBITDA, dan laba bersih, kompak tumbuh dua digit dibanding semester I 2025, dengan laba bersih naik paling tinggi yaitu 27 persen. Yang tersentuh di sini adalah EBITDA, yaitu laba usaha sebelum dipotong bunga, pajak, dan penyusutan aset, yang dipakai pelaku pasar untuk mengukur seberapa untung bisnis inti perseroan tanpa terpengaruh biaya pendanaan. EBITDA yang tumbuh lebih cepat dari penjualan mengindikasikan biaya operasional perseroan relatif terjaga selama periode ini. Surat ini baru memuat ringkasan angka, jadi yang perlu dipantau berikutnya adalah publikasi laporan keuangan konsolidasian semester I 2026 secara lengkap, karena dari situ baru terlihat apakah kenaikan laba diikuti perbaikan arus kas dan posisi utang perseroan.",
+  "sentimen": "positif",
+  "imageV": "msxg06ff"
+ },
+ {
   "slug": "insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu",
   "category": "Industri",
   "title": "Insentif Motor Listrik Rp5 Juta [Tertahan], Tunggu Aturan Menkeu",
@@ -82,6 +109,59 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah dari siaran ini adalah dua angka konkret: Rp250 juta donasi internal Kemendag untuk korban gempa NTT, dan temuan bahwa empat pasar rusak, termasuk Pasar Inpres Ruteng di Manggarai yang harus ditutup sementara karena tiangnya rusak. Yang terdampak langsung adalah pedagang di pasar-pasar itu yang untuk sementara kehilangan tempat berjualan, serta masyarakat NTT yang bergantung pada pasokan kebutuhan pokok dari distributor luar daerah. Kemendag sendiri menyebut Rp250 juta ini baru tahap pertama dan berjanji menggalang donasi lanjutan, sementara perbaikan fisik pasar disebut baru akan dikerjakan setelah kondisi darurat tertangani, jadi posisinya sekarang masih di tahap tanggap darurat, belum masuk perbaikan infrastruktur. Yang perlu dipantau adalah apakah Kemendag benar mengumumkan jadwal perbaikan Pasar Inpres Ruteng dan tahap donasi lanjutan seperti yang dijanjikan, karena itu yang akan menentukan apakah bantuan ini berlanjut atau berhenti di penyerahan simbolis hari ini.",
   "imageV": "msxa9pga"
+ },
+ {
+  "slug": "meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris [Lepas] 3,5 Juta Saham, Suara ke 54,32%",
+  "deck": "Jemmy Kurniawan, Komisaris Hetzer Medical Indonesia, melepas 3,5 juta saham pada 14 Agustus 2026. Hak suaranya turun tipis dari 54,55% menjadi 54,32%.",
+  "image": "assets/img/meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T20:11:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17082026-6067-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Hetzer Medical Indonesia"
+  ],
+  "body": [
+   "Jemmy Kurniawan, Dewan Komisaris PT Hetzer Medical Indonesia Tbk (MEDS), melaporkan ke Otoritas Jasa Keuangan bahwa ia menjual saham perusahaan dalam dua transaksi pada 14 Agustus 2026. Transaksi pertama sebanyak 1.500.000 lembar saham biasa dengan harga Rp73 per saham, dan transaksi kedua sebanyak 2.000.000 lembar dengan harga Rp71 per saham. Total saham yang dilepas mencapai 3.500.000 lembar, dengan tujuan yang tertulis dalam laporan sebagai pengurangan jumlah saham. Laporan ini disampaikan 17 Agustus 2026 sesuai kewajiban POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Dengan transaksi ini, kepemilikan Jemmy di MEDS berkurang dari 852.319.300 lembar menjadi 848.819.300 lembar, sementara hak suaranya turun dari 54,55% menjadi 54,32%. Ini adalah laporan kedua dari komisaris yang sama dalam sepekan terakhir, setelah pada 11 Agustus lalu ia juga melaporkan pelepasan 6,5 juta saham yang membawa hak suaranya ke level 54,74% saat itu. Dengan laporan terbaru ini, hak suara Jemmy sudah turun tiga kali berturut-turut dalam waktu singkat, meski masih di atas 50%."
+  ],
+  "fotoAdegan": "Technicians assembling small medical device components on a clean production line, bright industrial lighting, Indonesia",
+  "takeaway": "Laporan ini netral bagi Hetzer Medical Indonesia, karena saham yang dilepas kali ini hanya sekitar 0,41% dari total kepemilikan Jemmy Kurniawan sendiri, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap perusahaan. Yang tersentuh di sini murni soal kepemilikan dan hak suara perorangan, bukan kondisi keuangan MEDS, sebab jumlah saham beredar perusahaan tidak berubah, hanya berpindah dari satu pemegang ke pihak lain di pasar. Hak suara Jemmy sebagai komisaris tetap di atas 54%, jadi posisinya di perusahaan tidak tergoyahkan oleh transaksi ini. Yang perlu dipantau adalah apakah pola penjualan bertahap ini berlanjut di laporan-laporan berikutnya, karena tiga penurunan berturut-turut dalam waktu kurang dari sepekan, dari 54,74% ke 54,55% lalu ke 54,32%, mulai membentuk tren yang layak diikuti meski besaran per transaksinya masih kecil.",
+  "sentimen": "netral",
+  "imageV": "msxg0jo7"
+ },
+ {
+  "slug": "mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3",
+  "category": "Aksi Korporasi",
+  "title": "MDIA: rugi neto [menyusut] ke Rp8,3 miliar, liabilitas turun 8,3%",
+  "deck": "Menjawab permintaan penjelasan Bursa, Intermedia Capital (MDIA) memaparkan kinerja kuartal I 2026: rugi neto menyusut ke Rp8,3 miliar dan liabilitas turun 8,3% menjadi Rp2,19 triliun.",
+  "image": "assets/img/mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T18:25:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/70b0fc9f4c_dca260c249.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDIA",
+  "tags": [
+   "MDIA",
+   "ANTV",
+   "media",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Intermedia Capital Tbk (MDIA) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia dengan memaparkan kondisi keuangan terkininya. Berdasarkan laporan keuangan per 31 Maret 2026, Perseroan membukukan pendapatan Rp141,7 miliar dan laba usaha Rp14,3 miliar. Rugi neto menyusut signifikan menjadi Rp8,3 miliar, dari sebelumnya Rp58,3 miliar pada periode yang sama tahun lalu. Perbaikan ini terutama didorong oleh turunnya beban lain-lain neto dari Rp90,3 miliar menjadi Rp22,6 miliar, termasuk rugi selisih kurs yang turun dari Rp48,2 miliar menjadi Rp8,8 miliar. Dari sisi neraca, total aset tercatat Rp3,13 triliun dengan ekuitas positif Rp935,5 miliar, sementara total liabilitas turun Rp199,5 miliar atau 8,3 persen, dari Rp2,39 triliun per akhir Desember 2025 menjadi Rp2,19 triliun per akhir Maret 2026. Perseroan menegaskan tidak ada kontrak atau sumber pendapatan baru yang material setelah periode laporan tersebut, dan tidak ada perkara hukum material yang belum diungkapkan.",
+   "Soal bisnis inti, Perseroan menyatakan stasiun televisi ANTV masih menjadi penopang utama pendapatan, dengan positioning pada konten hiburan keluarga yang menyasar pemirsa wanita, ibu rumah tangga, dan keluarga. Program unggulan mencakup serial asing asal India dan film klasik Indonesia yang dinilai efisien dari sisi biaya pengadaan konten. Di sisi operasional, Perseroan melakukan revitalisasi Master Control Room dan optimalisasi penggunaan transponder siaran. Konten ANTV juga didistribusikan ulang ke YouTube, Facebook, dan Instagram melalui sinergi dengan grup usaha VIVA untuk memperluas jangkauan ke audiens digital.",
+   "Untuk strategi 2026, Perseroan berencana menambah serial lokal di jam tayang utama serta serial asing dari pasar yang belum banyak digarap kompetitor, ditambah program off-air untuk memperkuat keterikatan penonton. Perseroan mengutip proyeksi Bank Indonesia bahwa ekonomi domestik tumbuh 4,9-5,7 persen pada 2026, serta proyeksi PwC bahwa industri media dan hiburan Indonesia tumbuh dengan rata-rata 8,4 persen per tahun selama 2025-2029, dua kali lipat proyeksi pertumbuhan global. Soal pergerakan harga sahamnya, manajemen menyatakan hal itu dipengaruhi dinamika permintaan-penawaran dan ekspektasi investor, dan tidak selalu berjalan seiring kinerja operasional periode berjalan. Perseroan juga menegaskan tidak ada informasi material lain terkait sahamnya yang belum pernah diungkapkan ke Bursa."
+  ],
+  "fotoAdegan": "Television studio crew adjusting broadcast cameras and lighting rigs on a family entertainment show set, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi MDIA, karena rugi neto susut tajam dari Rp58,3 miliar menjadi Rp8,3 miliar dan liabilitas turun 8,3 persen hanya dalam tiga bulan, meski perbaikan itu banyak ditopang oleh turunnya rugi selisih kurs, bukan semata dari pertumbuhan pendapatan iklan inti. Pos yang tersentuh di sini adalah ekuitas dan beban di luar usaha: ekuitas Perseroan tetap positif di Rp935,5 miliar, dan turunnya beban lain-lain neto dari Rp90,3 miliar ke Rp22,6 miliar berarti tekanan fluktuasi kurs rupiah terhadap laba semakin ringan, hal yang biasa dicermati investor karena pos ini bisa berbalik arah kalau rupiah kembali melemah. Perlu dicatat, pendapatan Rp141,7 miliar pada laporan ini tidak dibandingkan dengan periode sebelumnya dalam penjelasan Perseroan, sehingga belum jelas apakah bisnis iklan inti benar tumbuh atau sekadar stagnan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal II 2026, yang akan menunjukkan apakah perbaikan laba ini berlanjut atau hanya efek sementara dari membaiknya kurs rupiah.",
+  "sentimen": "positif",
+  "imageV": "msxg117o"
  },
  {
   "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
@@ -424,6 +504,33 @@ var ARTICLES = [
   "imageV": "msvuhid5"
  },
  {
+  "slug": "pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7",
+  "category": "Aksi Korporasi",
+  "title": "PNSE: Hotel [Komodo] Flores Tutup Sementara Usai Gempa M7,7",
+  "deck": "Anak usaha Pudjiadi & Sons Tbk menutup sementara Hotel Jayakarta Suites Komodo Flores usai gempa M7,7 mengguncang Nagakeo, NTT, Sabtu (15/8) pagi.",
+  "image": "assets/img/pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T17:37:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f1b223ee2c_9a23824300.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNSE",
+  "tags": [
+   "PNSE",
+   "gempa bumi",
+   "hotel",
+   "Nusa Tenggara Timur"
+  ],
+  "body": [
+   "Pudjiadi & Sons Tbk (PNSE) melaporkan penutupan sementara operasional Hotel Jayakarta Suites Komodo Flores, yang dikelola PT Hotel Jayakarta Flores, anak usaha dari PT Hotel Juwara Warga yang sahamnya dimiliki PNSE sebesar 99,99 persen. Penutupan ini menyusul gempa bumi berkekuatan magnitudo 7,7 dengan pusat di Nagakeo, Nusa Tenggara Timur, pada kedalaman 10 kilometer dan intensitas guncangan level IX atau tergolong hebat. Gempa terjadi Sabtu, 15 Agustus 2026 pukul 05.58 WITA.",
+   "Perusahaan menutup operasional hotel tersebut sejak hari kejadian sampai ada pemberitahuan lebih lanjut, tanpa menyebut target tanggal buka kembali. Seluruh tamu sudah dipindahkan ke hotel lain milik grup yang tidak terdampak, sementara karyawan dialihkan membantu pengamanan area bersama pihak keamanan hotel. Area hotel dilarang didekati siapa pun kecuali pihak berwenang, dan perusahaan sedang berkoordinasi dengan pihak asuransi melalui broker Perseroan untuk menangani klaim kerugian.",
+   "Dalam laporan yang ditandatangani Direktur Ariyo Tejo dan Sekretaris Perusahaan Dadang Suwarsa itu, PNSE menegaskan penutupan fisik satu hotel ini tidak menghentikan bisnis inti perusahaan karena seluruh unit hotel lain, baik yang dimiliki langsung maupun lewat anak usaha, tetap beroperasi. Perusahaan juga menyatakan kejadian ini tidak berdampak material terhadap kondisi keuangan, kelangsungan usaha, atau posisi hukum dalam jangka panjang, dan berjanji melaporkan perkembangan lebih lanjut begitu ada informasi baru."
+  ],
+  "fotoAdegan": "Closed tropical beachfront hotel with shuttered rooms and an empty poolside terrace, palm trees swaying, overcast sky over an Indonesian island coastline.",
+  "takeaway": "Penutupan hotel akibat gempa ini negatif bagi PNSE, karena satu unit hotel milik grup berhenti beroperasi tanpa kepastian kapan dibuka kembali, meski perusahaan menegaskan dampaknya tidak material dalam jangka panjang. Yang tersentuh adalah arus kas, yaitu aliran uang tunai yang biasa masuk dari operasional hotel tersebut, yang untuk sementara terhenti sampai hotel beroperasi lagi, ditambah kemungkinan biaya perbaikan yang belum disebutkan angkanya dalam laporan ini. Sisi yang meredam risikonya, seluruh tamu sudah dipindahkan ke hotel lain milik grup dan perusahaan sudah mulai berkoordinasi dengan broker asuransi untuk klaim kerugian, yang bisa menutup sebagian dampak finansialnya kalau disetujui. Yang perlu dipantau berikutnya adalah laporan lanjutan dari PNSE soal tanggal hotel ini dibuka kembali dan hasil proses klaim asuransinya, karena perusahaan sendiri belum memberi tenggat pasti dan hanya berjanji melapor begitu ada perkembangan baru.",
+  "sentimen": "negatif",
+  "imageV": "msxg1i61"
+ },
+ {
   "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
   "category": "Energi",
   "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",
@@ -535,7 +642,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",
   "deck": "Pengamat memproyeksikan harga emas Antam bergerak di rentang Rp2.520.000-Rp2.830.000 per gram pekan depan, dipengaruhi harga emas dunia dan nilai tukar rupiah.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta.jpg",
   "date": "16 Agustus 2026",
   "isoDate": "2026-08-16T13:39:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460290-perdagangan-pekan-depan-harga-emas-antam-diprediksi-tembus-rp283-juta",
@@ -554,14 +661,15 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Proyeksi Ibrahim sebenarnya membagi dua skenario yang sama-sama eksplisit dia sebutkan: harga turun ke Rp2.520.000 per gram kalau emas dunia terkoreksi, atau naik ke Rp2.830.000 per gram kalau emas dunia menguat, dengan titik awal Rp2.681.000. Yang kena dampak langsung adalah pembeli emas batangan dan toko perhiasan yang memakai harga Antam sebagai acuan harian, karena selisih Rp310.000 dalam sepekan itu jauh dari kondisi normal. Rentang selebar itu biasanya muncul saat pasar global belum punya arah pasti, dan sumbernya sendiri menyebut permintaan emas sebagai aset lindung nilai sedang naik, tanda investor masih mencari perlindungan dari ketidakpastian. Skenario mana yang terjadi baru akan terlihat dari pergerakan harga emas dunia dan nilai tukar rupiah sepanjang pekan ini, dengan kepastian penuh baru didapat saat penutupan pasar Sabtu pagi seperti disebut Ibrahim.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msxg21rl"
  },
  {
   "slug": "rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan",
   "category": "Moneter",
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan.jpg",
   "date": "16 Agustus 2026",
   "isoDate": "2026-08-16T12:38:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027",
@@ -581,7 +689,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Proyeksi pelemahan ini hanya untuk pembukaan pasar Senin, jadi sifatnya jangka sangat pendek, bukan perubahan kebijakan. Pelemahan 60 poin berarti rupiah diperkirakan melemah sekitar Rp60 per dolar AS, berbalik dari penguatan 50 poin pada Jumat lalu. Pihak yang paling merasakan dampaknya adalah pelaku usaha dengan kebutuhan dolar, seperti importir bahan baku, karena kurs lebih lemah membuat biaya impor naik. Ada dua arah yang mungkin terjadi, tekanan eksternal terus mendominasi dalam beberapa hari ke depan, atau optimisme dari target pertumbuhan 6 persen dan defisit anggaran 2027 sebesar Rp671,2 triliun mulai menopang rupiah begitu detail RAPBN 2027 dibahas di DPR. Arah mana yang berlaku akan terlihat dari pergerakan rupiah pada pembukaan pasar Senin dan pembahasan RAPBN 2027 di DPR pekan-pekan berikutnya.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msxg2hn4"
  },
  {
   "slug": "harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons",
@@ -608,6 +717,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Proyeksi kali ini tidak menyebut skenario mana yang lebih mungkin, karena arah harga emas pekan depan sepenuhnya bergantung pada eskalasi geopolitik yang belum tentu terjadi, khususnya di Selat Hormuz dan Laut Merah. Yang jelas berubah adalah rentang pergerakan yang diperkirakan, dari US$4.186 sebagai batas bawah sampai US$4.572 sebagai batas atas, dibanding harga penutupan terakhir di US$4.375. Pihak yang langsung terdampak adalah pedagang dan pembeli emas fisik di dalam negeri, karena harga emas domestik mengikuti harga dunia sekaligus kurs rupiah, sehingga kalau rupiah melemah bersamaan dengan kenaikan harga dunia, harga emas batangan di dalam negeri bisa naik lebih tajam dari proyeksi global itu sendiri. Yang masih kurang untuk memastikan ke arah mana harga akan bergerak adalah kejelasan situasi di dua jalur pelayaran tersebut, sehingga pergerakan harga pada pembukaan pasar Senin, 17 Agustus, menjadi indikator awal yang perlu dicermati.",
   "imageV": "msvhovwt"
+ },
+ {
+  "slug": "isat-jadwalkan-rupslb-pada-29-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Jadwalkan [RUPSLB] pada 29 September 2026",
+  "deck": "Indosat Ooredoo Hutchison mengumumkan rencana RUPSLB pada 29 September 2026, dengan tenggat pencatatan pemegang saham 28 Agustus 2026.",
+  "image": "assets/img/isat-jadwalkan-rupslb-pada-29-september-2026.jpg",
+  "date": "16 Agustus 2026",
+  "isoDate": "2026-08-16T09:57:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/43bf5c345e_062fe42a5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISAT",
+  "tags": [
+   "ISAT",
+   "RUPSLB",
+   "Indosat Ooredoo Hutchison",
+   "RUPS"
+  ],
+  "body": [
+   "PT Indosat Tbk mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 29 September 2026 pukul 14.00 WIB. Rapat akan digelar secara elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, dengan lokasi fisik di Gedung Indosat Ooredoo Hutchison, Jalan Medan Merdeka Barat No. 21, Jakarta.",
+   "Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Jumat, 28 Agustus 2026 pukul 16.00 WIB, baik yang sahamnya belum masuk penitipan kolektif KSEI maupun yang tercatat di rekening efek bank kustodian atau perusahaan efek. Perseroan mendorong pemegang saham untuk hadir dan memberi suara langsung secara elektronik, atau menggunakan fasilitas kuasa elektronik (e-Proxy) lewat eASY.KSEI, yang tersedia sejak tanggal pemanggilan RUPSLB hingga satu hari kerja sebelumnya, yakni Senin, 28 September 2026.",
+   "Pemanggilan resmi yang memuat mata acara RUPSLB akan diumumkan di situs Bursa Efek Indonesia, situs Indosat, dan eASY.KSEI pada Senin, 31 Agustus 2026. Dokumen ini juga menyebutkan bahwa pemegang saham yang mewakili minimal 1/20 dari seluruh saham dengan hak suara sah dapat mengusulkan mata acara RUPSLB secara tertulis kepada Direksi, paling lambat tujuh hari sebelum pemanggilan, yaitu Senin, 24 Agustus 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in central Jakarta at midday, wide low-angle shot, no visible signage",
+  "takeaway": "Pengumuman ini netral karena isinya baru soal jadwal dan mekanisme rapat, sedangkan agenda RUPSLB yang sebenarnya, yaitu keputusan apa yang akan diambil, belum diungkap dalam dokumen ini. RUPSLB adalah forum tertinggi di mana pemegang saham memutuskan hal-hal besar seperti perubahan struktur modal, pergantian direksi atau komisaris, atau persetujuan aksi korporasi, jadi dampaknya ke kinerja perusahaan baru bisa dinilai setelah agenda resmi keluar. Pemegang saham perlu mencatat bahwa untuk bisa ikut memberi suara, kepemilikan sahamnya harus sudah tercatat per 28 Agustus 2026. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi mata acara rapat yang dijadwalkan terbit 31 Agustus 2026, serta batas waktu pengajuan usulan agenda oleh pemegang saham pada 24 Agustus 2026, sebelum RUPSLB sendiri digelar 29 September 2026.",
+  "sentimen": "netral",
+  "imageV": "msxg2x1q"
  },
  {
   "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
@@ -743,6 +879,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan aturan yang sudah jadi, melainkan arah kebijakan: pemerintah memutuskan memulai PFII dari Jakarta dulu, baru menyusul ke Bali, dengan fokus pada investasi, teknologi keuangan, dan penyelesaian sengketa bisnis mengikuti standar internasional. Yang terdampak langsung adalah investor asing dan pengelola kekayaan keluarga besar, yang di kalangan keuangan disebut family office, karena merekalah sasaran utama yang diharapkan menaruh dananya di kawasan ini. Sinyal minat sudah terlihat dari pertemuan di Nusa Dua, Bali, tempat pemerintah mengundang 70 investor dan family office dari Asia tapi yang datang justru 110, tanda ketertarikan lebih besar dari perkiraan awal. Namun ini semua masih tahap penyiapan, belum ada payung hukum atau aturan resmi yang disebutkan untuk mengatur insentif dan operasional PFII, sehingga arah sesungguhnya baru akan terlihat setelah pemerintah merilis dasar hukum dan menetapkan lokasi pasti pembangunan tahap pertama di Jakarta.",
   "imageV": "msuj0235"
+ },
+ {
+  "slug": "meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris Lepas 3 Juta Saham Lagi, Suara [54,55%]",
+  "deck": "Dewan Komisaris Hetzer Medical Indonesia, Jemmy Kurniawan, menjual 3 juta saham MEDS pada 13 Agustus 2026 seharga Rp72-73 per lembar, hak suaranya turun tipis ke 54,55 persen.",
+  "image": "assets/img/meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55.jpg",
+  "date": "15 Agustus 2026",
+  "isoDate": "2026-08-15T20:21:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15082026-7130-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical Indonesia",
+   "Komisaris",
+   "Kepemilikan Saham"
+  ],
+  "body": [
+   "Dewan Komisaris PT Hetzer Medical Indonesia Tbk (MEDS), Jemmy Kurniawan, melaporkan penjualan sahamnya kepada Otoritas Jasa Keuangan pada 15 Agustus 2026. Laporan itu mencatat dua transaksi penjualan saham biasa MEDS pada 13 Agustus 2026, yakni 2.000.000 lembar dengan harga Rp72 per saham dan 1.000.000 lembar dengan harga Rp73 per saham. Kedua transaksi tersebut tercatat dengan tujuan pengurangan jumlah saham yang dipegangnya.",
+   "Dengan total penjualan 3.000.000 lembar itu, kepemilikan saham Kurniawan di MEDS berkurang dari 855.319.300 lembar menjadi 852.319.300 lembar. Hak suaranya di perusahaan turun dari 54,74 persen menjadi 54,55 persen, namun ia tetap menjadi pemegang saham dengan kendali mayoritas di emiten alat kesehatan tersebut.",
+   "Penjualan ini menyusul dua laporan serupa dari Kurniawan dalam sepekan terakhir, yaitu pelepasan 6,5 juta saham pada 11 Agustus 2026 yang membawa hak suaranya ke 54,74 persen, dan pelepasan 3,5 juta saham pada 17 Agustus 2026 yang selanjutnya menurunkan hak suaranya ke 54,32 persen."
+  ],
+  "fotoAdegan": "Technicians assembling medical equipment components on a bright factory production line, quality control checks in progress",
+  "takeaway": "Laporan ini netral bagi Hetzer Medical Indonesia, sebab saham yang dilepas Kurniawan pada transaksi ini hanya sekitar 0,35 persen dari kepemilikannya sendiri, terlalu kecil untuk dibaca sebagai sinyal terhadap prospek perusahaan, dan hak suaranya masih jauh di atas ambang mayoritas. Yang tersentuh di sini adalah komposisi hak suara pengendali, bukan pos keuangan seperti ekuitas atau laba per saham, karena ini jual beli saham antar pemilik lama, bukan penerbitan saham baru oleh perusahaan. Pelaku pasar tetap memantau pergerakan kepemilikan komisaris atau direksi karena pola penjualan yang berulang bisa menandakan perubahan pandangan orang dalam, meski satu transaksi kecil belum cukup jadi bukti. Yang perlu dipantau berikutnya adalah apakah Kurniawan terus melepas saham dalam laporan-laporan mendatang, sebab transaksi ini adalah yang ketiga dalam kurang dari sepekan sehingga total saham yang sudah dilepasnya sejak 11 Agustus 2026 mencapai sekitar 13 juta lembar, dengan hak suaranya turun dari 54,74 persen menjadi 54,32 persen dalam periode tersebut.",
+  "sentimen": "netral",
+  "imageV": "msxg3hvr"
  },
  {
   "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
@@ -1228,6 +1391,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang disampaikan S&P dan China Lianhe ini bukan kenaikan peringkat, melainkan mempertahankan peringkat yang sudah ada, jadi sinyalnya adalah kepercayaan pasar tetap terjaga, bukan perbaikan baru. Pihak yang paling berkepentingan adalah pelaku usaha yang menimbang investasi jangka panjang, karena peringkat kredit jadi salah satu acuan mereka sebelum menanam modal, termasuk investor asing yang selama ini banyak masuk lewat pasar surat utang dan saham ketimbang membangun pabrik. Kadin sendiri secara tidak langsung mengakui ada jarak di sini dengan mendesak agar kepercayaan itu diterjemahkan jadi kepastian hukum, kemudahan izin, dan biaya logistik yang lebih murah, artinya syarat itu belum sepenuhnya terpenuhi sampai sekarang. Arah yang bisa dibaca adalah pemerintah mengandalkan stabilitas peringkat untuk menjaga kepercayaan pasar, sementara pekerjaan menggeser dana dari pasar keuangan ke sektor riil masih berjalan, dan yang akan menunjukkan hasilnya adalah data realisasi investasi asing langsung dari BKPM pada triwulan mendatang.",
   "imageV": "mst1gnn4"
+ },
+ {
+  "slug": "mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Pengendali [Lepas] 52,9 Juta Saham Rp370 Miliar",
+  "deck": "PT Nextier Datamate Center melepas 52,9 juta saham MGLV senilai sekitar Rp370,5 miliar dalam tiga hari transaksi, menurunkan hak suaranya dari 74,06 persen menjadi 71,28 persen.",
+  "image": "assets/img/mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T19:23:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14082026-9878-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "kepemilikan saham",
+   "Nextier Datamate Center",
+   "Panca Anugrah Wisesa"
+  ],
+  "body": [
+   "PT Nextier Datamate Center, pemegang saham PT Panca Anugrah Wisesa Tbk (MGLV), melaporkan kepada Otoritas Jasa Keuangan bahwa mereka telah menjual sebagian sahamnya di perusahaan tersebut. Laporan bertanggal 14 Agustus 2026 ini mencatat rangkaian transaksi penjualan tidak langsung yang berlangsung tiga hari berturut-turut, dari 12 hingga 14 Agustus 2026.",
+   "Total saham yang dilepas mencapai 52.928.000 lembar, terdiri dari 10.028.000 lembar pada 12 Agustus, 30.000.000 lembar pada 13 Agustus, dan 12.900.000 lembar pada 14 Agustus. Seluruh transaksi dilakukan pada harga yang sama, Rp7.000 per saham, sehingga total nilai penjualan mencapai sekitar Rp370,5 miliar.",
+   "Akibat penjualan ini, kepemilikan saham Nextier Datamate Center di MGLV turun dari 1.410.713.200 lembar menjadi 1.357.785.200 lembar, setara 3,75 persen dari kepemilikannya sebelum transaksi. Hak suaranya di perusahaan pun berkurang dari 74,06 persen menjadi 71,28 persen, meski dengan porsi tersebut Nextier Datamate Center tetap menjadi pemegang saham mayoritas MGLV."
+  ],
+  "fotoAdegan": "Brokerage staff at a busy Jakarta trading floor desk, distant blurred computer screens, soft morning light, documentary style",
+  "takeaway": "Laporan ini condong netral bagi MGLV karena transaksi terjadi di level pemegang saham, bukan di kas perusahaan, dan Nextier Datamate Center masih menggenggam mayoritas saham di atas 71 persen sehingga status pengendali tidak berpindah tangan. Yang tersentuh bukan pos kinerja perusahaan seperti ekuitas atau laba per saham, sebab jumlah total saham beredar MGLV tidak bertambah, melainkan porsi saham yang beredar bebas di pasar yang berpotensi naik karena sebagian saham milik pengendali kini pindah ke pihak lain, sehingga transaksi jual beli sahamnya bisa lebih ramai. Yang perlu dipantau berikutnya adalah apakah pelepasan ini masih berlanjut, mengingat polanya terjadi tiga hari beruntun hingga 14 Agustus 2026, karena setiap perubahan susulan wajib dilaporkan kembali oleh Nextier Datamate Center ke OJK.",
+  "sentimen": "netral",
+  "imageV": "msxg3zcl"
  },
  {
   "slug": "bank-bjb-dan-persib-kolaborasi-lagi-musim-2026",
@@ -2787,6 +2977,33 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah dibukanya kembali pendaftaran program restrukturisasi mesin dan peralatan untuk industri tekstil dan produk tekstil tahun anggaran 2026, dengan batas waktu jelas yaitu 18 Mei sampai 31 Agustus 2026. Program semacam ini biasanya berbentuk potongan harga atau subsidi sebagian biaya pembelian mesin baru, tapi siaran pers ini tidak menyebutkan berapa besar insentifnya atau berapa banyak perusahaan yang bisa ditampung. Pihak yang terdampak langsung adalah pelaku usaha industri tekstil dan produk tekstil yang berencana meremajakan mesin produksinya. Karena tidak ada angka anggaran atau kuota peserta dalam pengumuman ini, belum bisa disimpulkan apakah dukungan tahun ini lebih besar, sama, atau lebih kecil dibanding tahun-tahun sebelumnya. Yang akan memastikannya adalah dokumen petunjuk teknis program yang dirujuk Kemenperin, atau pengumuman resmi setelah masa pendaftaran ditutup akhir Agustus nanti.",
   "imageV": "mss9f4d6"
+ },
+ {
+  "slug": "kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025",
+  "category": "Aksi Korporasi",
+  "title": "KBLM Panggil RUPSLB 7 September, Agenda [Penyesuaian] KBLI 2025",
+  "deck": "RUPSLB Kabelindo Murni digelar 7 September 2026 untuk mengubah Pasal 3 Anggaran Dasar menyesuaikan klasifikasi usaha KBLI 2025, perusahaan menyebutnya murni administratif.",
+  "image": "assets/img/kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025.jpg",
+  "date": "14 Agustus 2026",
+  "isoDate": "2026-08-14T07:26:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/02b02d0cef_ca861638e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KBLM",
+  "tags": [
+   "KBLM",
+   "RUPSLB",
+   "Kabelindo Murni",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Kabelindo Murni Tbk (KBLM) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan berlangsung Senin, 7 September 2026 pukul 10.00 WIB, bertempat di kantor pusat perusahaan di Jalan Rawagirang No. 2, Kawasan Industri Pulogadung, Jakarta Timur. Pemegang saham yang berhak hadir atau diwakili adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan hingga Kamis, 13 Agustus 2026 pukul 16.00 WIB.",
+   "Satu-satunya mata acara RUPSLB ini adalah perubahan Pasal 3 Anggaran Dasar Perseroan mengenai maksud, tujuan, dan kegiatan usaha, untuk disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang baru. Dalam pemanggilan ini, perusahaan menegaskan bahwa perubahan tersebut hanya penyesuaian administratif kode klasifikasi usaha, dan tidak termasuk perubahan kegiatan usaha sebagaimana diatur dalam Peraturan OJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
+   "Rapat akan digelar secara fisik sekaligus elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang ingin memberi kuasa secara konvensional harus mengirim formulir yang telah diisi melalui email ke Corporate Secretary, dengan naskah asli bertanda tangan diterima di kantor Perseroan paling lambat Rabu, 2 September 2026, tiga hari kerja sebelum rapat. Pemanggilan ditandatangani oleh Corporate Secretary Kabelindo Murni, Intan Eka Dewi, pada 14 Agustus 2026."
+  ],
+  "fotoAdegan": "Workers inspecting large spools of insulated copper cable on a factory production line under industrial warehouse lighting",
+  "takeaway": "Perubahan ini netral bagi kinerja Kabelindo Murni, sebab hanya menyesuaikan bunyi pasal soal bidang usaha dengan kode klasifikasi baku terbaru dari pemerintah, tanpa mengubah kegiatan usaha, struktur permodalan, atau jumlah saham beredar perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh oleh agenda ini, karena perubahan anggaran dasar semacam ini murni administratif, seperti ditegaskan perusahaan sendiri bahwa ini bukan perubahan kegiatan usaha menurut aturan OJK soal transaksi material. Yang perlu dipantau pemegang saham adalah pelaksanaan RUPSLB pada Senin, 7 September 2026, serta batas akhir pengiriman surat kuasa konvensional pada Rabu, 2 September 2026 bagi yang tidak hadir langsung atau lewat aplikasi eASY.KSEI.",
+  "sentimen": "netral",
+  "imageV": "msxg4ht6"
  },
  {
   "slug": "penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ENRG cetak laba bersih naik [27%] pada semester I 2026",
+  "deck": "Penjualan bersih, EBITDA, dan laba bersih Energi Mega Persada kompak tumbuh dua digit pada semester I 2026 dibanding periode sama tahun lalu.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026.jpg",
+  "imageV": "msxg06ff",
+  "tags": [
+   "ENRG",
+   "laporan keuangan",
+   "migas",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/497827dd25_6d9b88c669.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu",
   "category": "Industri",
   "title": "Insentif Motor Listrik Rp5 Juta [Tertahan], Tunggu Aturan Menkeu",
@@ -55,6 +72,40 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/solidaritas-dalam-hut-ke-81-ri-mendag-busan-serahkan-bantuan-kemendag-untuk-korban-gempa-ntt",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris [Lepas] 3,5 Juta Saham, Suara ke 54,32%",
+  "deck": "Jemmy Kurniawan, Komisaris Hetzer Medical Indonesia, melepas 3,5 juta saham pada 14 Agustus 2026. Hak suaranya turun tipis dari 54,55% menjadi 54,32%.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32.jpg",
+  "imageV": "msxg0jo7",
+  "tags": [
+   "MEDS",
+   "Kepemilikan Saham",
+   "Komisaris",
+   "Hetzer Medical Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17082026-6067-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3",
+  "category": "Aksi Korporasi",
+  "title": "MDIA: rugi neto [menyusut] ke Rp8,3 miliar, liabilitas turun 8,3%",
+  "deck": "Menjawab permintaan penjelasan Bursa, Intermedia Capital (MDIA) memaparkan kinerja kuartal I 2026: rugi neto menyusut ke Rp8,3 miliar dan liabilitas turun 8,3% menjadi Rp2,19 triliun.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3.jpg",
+  "imageV": "msxg117o",
+  "tags": [
+   "MDIA",
+   "ANTV",
+   "media",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/70b0fc9f4c_dca260c249.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
@@ -270,6 +321,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460356-berkat-program-aura-bri-peduli-kelompok-usaha-harapan-bersama-di-sumedang-buka-peluang-ekonomi-di-desa"
  },
  {
+  "slug": "pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7",
+  "category": "Aksi Korporasi",
+  "title": "PNSE: Hotel [Komodo] Flores Tutup Sementara Usai Gempa M7,7",
+  "deck": "Anak usaha Pudjiadi & Sons Tbk menutup sementara Hotel Jayakarta Suites Komodo Flores usai gempa M7,7 mengguncang Nagakeo, NTT, Sabtu (15/8) pagi.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7.jpg",
+  "imageV": "msxg1i61",
+  "tags": [
+   "PNSE",
+   "gempa bumi",
+   "hotel",
+   "Nusa Tenggara Timur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f1b223ee2c_9a23824300.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
   "category": "Energi",
   "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",
@@ -343,7 +411,8 @@ var ARTICLES = [
   "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",
   "deck": "Pengamat memproyeksikan harga emas Antam bergerak di rentang Rp2.520.000-Rp2.830.000 per gram pekan depan, dipengaruhi harga emas dunia dan nilai tukar rupiah.",
   "date": "16 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta.jpg",
+  "imageV": "msxg21rl",
   "tags": [
    "emas",
    "antam",
@@ -358,7 +427,8 @@ var ARTICLES = [
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
   "date": "16 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan.jpg",
+  "imageV": "msxg2hn4",
   "tags": [
    "rupiah",
    "nilai tukar",
@@ -383,6 +453,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460276-emas-dunia-dibayangi-geopolitik-pengamat-prediksi-bisa-tembus-us4572-per-troy-ounce"
+ },
+ {
+  "slug": "isat-jadwalkan-rupslb-pada-29-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Jadwalkan [RUPSLB] pada 29 September 2026",
+  "deck": "Indosat Ooredoo Hutchison mengumumkan rencana RUPSLB pada 29 September 2026, dengan tenggat pencatatan pemegang saham 28 Agustus 2026.",
+  "date": "16 Agustus 2026",
+  "image": "assets/img/isat-jadwalkan-rupslb-pada-29-september-2026.jpg",
+  "imageV": "msxg2x1q",
+  "tags": [
+   "ISAT",
+   "RUPSLB",
+   "Indosat Ooredoo Hutchison",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/43bf5c345e_062fe42a5c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
@@ -469,6 +556,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460161-mensesneg-beberkan-alasan-perlunya-pfii-dibentuk-ri-dinilai-punya-potensi-besar-di-mata-investor-global-ada-peluang"
+ },
+ {
+  "slug": "meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris Lepas 3 Juta Saham Lagi, Suara [54,55%]",
+  "deck": "Dewan Komisaris Hetzer Medical Indonesia, Jemmy Kurniawan, menjual 3 juta saham MEDS pada 13 Agustus 2026 seharga Rp72-73 per lembar, hak suaranya turun tipis ke 54,55 persen.",
+  "date": "15 Agustus 2026",
+  "image": "assets/img/meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55.jpg",
+  "imageV": "msxg3hvr",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical Indonesia",
+   "Komisaris",
+   "Kepemilikan Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15082026-7130-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
@@ -775,6 +879,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459963-10-pandangan-kadin-indonesia-menyambut-agenda-besar-presiden-prabowo-sorot-fundamental-ekonomi-hingga-mesin-investasi"
+ },
+ {
+  "slug": "mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Pengendali [Lepas] 52,9 Juta Saham Rp370 Miliar",
+  "deck": "PT Nextier Datamate Center melepas 52,9 juta saham MGLV senilai sekitar Rp370,5 miliar dalam tiga hari transaksi, menurunkan hak suaranya dari 74,06 persen menjadi 71,28 persen.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar.jpg",
+  "imageV": "msxg3zcl",
+  "tags": [
+   "MGLV",
+   "kepemilikan saham",
+   "Nextier Datamate Center",
+   "Panca Anugrah Wisesa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14082026-9878-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bank-bjb-dan-persib-kolaborasi-lagi-musim-2026",
@@ -1761,6 +1882,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemenperin.go.id/artikel/72482751/Program-Restrukturisasi-MesinPeralatan-pada-Tekstil-dan-Produk-Tekstil-Tahun-Anggaran-2026",
   "sourceLabel": "Kementerian Perindustrian"
+ },
+ {
+  "slug": "kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025",
+  "category": "Aksi Korporasi",
+  "title": "KBLM Panggil RUPSLB 7 September, Agenda [Penyesuaian] KBLI 2025",
+  "deck": "RUPSLB Kabelindo Murni digelar 7 September 2026 untuk mengubah Pasal 3 Anggaran Dasar menyesuaikan klasifikasi usaha KBLI 2025, perusahaan menyebutnya murni administratif.",
+  "date": "14 Agustus 2026",
+  "image": "assets/img/kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025.jpg",
+  "imageV": "msxg4ht6",
+  "tags": [
+   "KBLM",
+   "RUPSLB",
+   "Kabelindo Murni",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/02b02d0cef_ca861638e7.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal",

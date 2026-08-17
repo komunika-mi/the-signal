@@ -11,6 +11,14 @@
 // Dijalankan sekali sehari pada sore/malam WIB, setelah berita hari itu
 // terkumpul. Kalau dijalankan pagi, bahannya cuma berita kemarin.
 import fs from 'node:fs';
+// WAJIB, walau sempat "berfungsi" tanpa ini. Node 24 di komputer rumah
+// menyediakan `path` sebagai global, sedangkan runner GitHub memakai Node 22
+// yang tidak. Akibatnya blok angka pasar di rakitAngka() melempar
+// ReferenceError yang ditelan try/catch, dan SETIAP edisi yang dirangkai di
+// cloud kehilangan IHSG, kurs, dan harga emas dari konteksnya tanpa satu pun
+// pesan galat. Persis pola yang sudah dua kali menggigit proyek ini: jalan di
+// mesin sendiri, mati diam-diam di tempat lain.
+import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, readObjek } from './lib.mjs';
 import { tulisHarian, PENGAMAN, GAYA, tanya, ambilJSON } from './rewrite.mjs';

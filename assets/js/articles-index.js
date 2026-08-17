@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027",
+  "category": "Moneter",
+  "title": "BI Targetkan Semua Limbah Uang Rupiah [Diolah] Ulang pada 2027",
+  "deck": "Bank Indonesia sudah mengolah 72 persen sisa uang kertas yang tak layak edar menjadi produk UMKM dan sumber energi, dengan target seluruh limbah terkelola secara sirkular pada 2027.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027.jpg",
+  "imageV": "msx1s4p3",
+  "tags": [
+   "Bank Indonesia",
+   "limbah uang",
+   "ekonomi sirkular",
+   "FERBI 2026"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t",
+  "category": "Perbankan",
+  "title": "BRI Rayakan HUT RI ke-81, Kredit [UMKM] Tembus Rp1.235 T",
+  "deck": "BRI, bagian dari Danantara, menegaskan portofolio kredit UMKM Rp1.235 triliun dan penyaluran KUR Rp103,81 triliun ke 2 juta debitur menyambut HUT ke-81 RI.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t.jpg",
+  "imageV": "msx1s5id",
+  "tags": [
+   "BRI",
+   "UMKM",
+   "KUR",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460525-rayakan-81-tahun-indonesia-merdeka-ini-8-kontribusi-nyata-bri-untuk-negeri"
+ },
+ {
   "slug": "bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober",
   "category": "Perbankan",
   "title": "BI Perluas Bebas [MDR] QRIS ke Semua Merchant Mulai Oktober",
@@ -220,7 +255,7 @@ var ARTICLES = [
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
   "date": "16 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "rupiah",
    "nilai tukar",

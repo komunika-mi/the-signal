@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027",
+  "category": "Moneter",
+  "title": "BI Targetkan Semua Limbah Uang Rupiah [Diolah] Ulang pada 2027",
+  "deck": "Bank Indonesia sudah mengolah 72 persen sisa uang kertas yang tak layak edar menjadi produk UMKM dan sumber energi, dengan target seluruh limbah terkelola secara sirkular pada 2027.",
+  "image": "assets/img/bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T09:40:44.319Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "limbah uang",
+   "ekonomi sirkular",
+   "FERBI 2026"
+  ],
+  "body": [
+   "Bank Indonesia mengubah cara mengelola uang kertas yang sudah tidak layak edar. Alih-alih hanya memusnahkannya, bank sentral kini mengolah sisa cacahan uang tersebut menjadi barang bernilai, mulai dari cendera mata buatan UMKM sampai bahan tambahan energi listrik dan industri. Saat ini 72 persen dari limbah cacahan uang kertas sudah diolah dengan cara ini, dan BI menargetkan seluruh limbah bisa terkelola secara sirkular pada 2027.",
+   "Rencana ini disampaikan Deputi Gubernur BI Ricky P. Gozali saat membuka rangkaian Festival Rupiah Berdaulat Indonesia (FERBI) 2026 di Istora Senayan, Jakarta. Menurutnya, pengelolaan uang Rupiah kini menghadapi tuntutan keberlanjutan lingkungan, sehingga proses pencetakan, pengedaran, dan pemusnahan uang juga disesuaikan agar lebih ramah lingkungan. BI menyebut inovasi ini meraih penghargaan dari International Association of Currency Affairs (IACA) tahun 2026.",
+   "Upaya serupa juga dilakukan bank sentral lain di kawasan. Bank Negara Malaysia mengolah sisa cacahan uang menjadi berbagai produk, sementara Bank of Thailand memilih bahan kertas uang yang lebih tahan lama supaya uang bisa beredar lebih lama dan tidak perlu terlalu sering dicetak ulang. Pendekatan ini menunjukkan bahwa isu keberlanjutan semakin menjadi pertimbangan dalam pengelolaan uang tunai di berbagai negara.",
+   "Topik ini dibahas dalam forum BRIDGE 2026 di Istora Senayan pada 13 Agustus 2026, bagian dari rangkaian FERBI 2026. Forum tersebut diikuti oleh bank sentral dan otoritas moneter dari India, Malaysia, Thailand, Filipina, dan Papua Nugini, serta sejumlah pelaku industri uang tunai internasional."
+  ],
+  "fotoAdegan": "Workers at a small workshop shaping shredded banknote pulp into craft souvenirs on a wooden table, natural light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2816026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah konkret adalah target BI menaikkan porsi limbah cacahan uang kertas yang diolah ulang dari 72 persen sekarang menjadi 100 persen pada 2027. Limbah cacahan ini sederhananya adalah uang kertas yang sudah dihancurkan karena tak layak edar lagi, dan yang terdampak langsung adalah UMKM mitra BI yang mengolahnya jadi cendera mata serta perusahaan energi yang memanfaatkannya sebagai bahan bakar tambahan. Arahnya terlihat menuju pengelolaan uang tanpa sisa yang terbuang percuma, sejalan dengan langkah bank sentral Malaysia dan Thailand yang juga mulai memperhitungkan dampak lingkungan dari pencetakan uang. Yang akan memastikan apakah target ini tercapai adalah laporan realisasi BI menjelang 2027, sebab menaikkan angka dari 72 persen ke 100 persen dalam waktu kurang dari dua tahun bukan lompatan kecil.",
+  "imageV": "msx1s4p3"
+ },
+ {
+  "slug": "bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t",
+  "category": "Perbankan",
+  "title": "BRI Rayakan HUT RI ke-81, Kredit [UMKM] Tembus Rp1.235 T",
+  "deck": "BRI, bagian dari Danantara, menegaskan portofolio kredit UMKM Rp1.235 triliun dan penyaluran KUR Rp103,81 triliun ke 2 juta debitur menyambut HUT ke-81 RI.",
+  "image": "assets/img/bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T16:26:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460525-rayakan-81-tahun-indonesia-merdeka-ini-8-kontribusi-nyata-bri-untuk-negeri",
+  "tags": [
+   "BRI",
+   "UMKM",
+   "KUR",
+   "Danantara"
+  ],
+  "body": [
+   "Menyambut peringatan 81 tahun kemerdekaan Indonesia, PT Bank Rakyat Indonesia (Persero) Tbk atau BRI, yang kini berada di bawah naungan Danantara, kembali menonjolkan perannya sebagai penyalur utama pembiayaan bagi pelaku usaha kecil di Tanah Air. Penegasan ini relevan bagi pembaca karena BRI berstatus bank dengan portofolio kredit UMKM terbesar di Indonesia, sehingga kebijakan pembiayaannya berpengaruh langsung pada akses modal jutaan pelaku usaha kecil.",
+   "Direktur Utama BRI Hery Gunardi menyampaikan bahwa penguatan ekonomi kerakyatan menjadi fondasi kontribusi perseroan bagi negara, dengan pemberdayaan UMKM sebagai fokus utamanya. Data terbaru mendukung pernyataan itu, hingga akhir Triwulan II 2026 portofolio kredit UMKM BRI mencapai Rp1.235 triliun, setara 75,2 persen dari total kredit perseroan.",
+   "Di luar kredit komersial, BRI juga mencatat penyaluran Kredit Usaha Rakyat atau KUR sebesar Rp103,81 triliun kepada 2 juta debitur hingga akhir Juni 2026. Penyaluran ini paling banyak mengalir ke sektor pertanian dengan porsi 42,68 persen dan sektor perdagangan sebesar 32,34 persen, menunjukkan dana KUR sebagian besar menopang kegiatan produktif sehari-hari masyarakat.",
+   "Selain pembiayaan UMKM dan KUR, BRI menyebut turut memperluas jangkauan layanan keuangan ke wilayah perbatasan, pesisir, dan kepulauan, memperkuat ekonomi desa, menyediakan akses pembiayaan hunian, serta melayani kebutuhan keuangan pekerja migran Indonesia di luar negeri, sebagai bagian dari delapan kontribusi yang diklaim perseroan menyambut HUT ke-81 RI."
+  ],
+  "fotoAdegan": "A small-scale rice farmer counting cash near sacks of harvested grain in a rural Indonesian village, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82d2073911f-bri-memperingati-hut-ke-81-kemerdekaan-republik-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan BRI menegaskan ulang skala pembiayaan UMKM-nya menjelang HUT ke-81 RI: portofolio kredit UMKM tercatat Rp1.235 triliun atau 75,2 persen dari total kredit per akhir Juni 2026, ditambah penyaluran KUR Rp103,81 triliun ke 2 juta debitur yang didominasi sektor pertanian dan perdagangan. Yang terdampak langsung adalah pelaku usaha kecil di dua sektor itu, karena merekalah penerima terbesar KUR, sekaligus BRI sendiri yang kini berstatus bagian dari Danantara, holding investasi milik negara yang menaungi sejumlah perusahaan pelat merah. Angka yang disampaikan hanya berupa potret satu titik waktu tanpa pembanding triwulan sebelumnya, sehingga belum bisa dibaca apakah porsi 75,2 persen kredit UMKM ini sedang naik, turun, atau sekadar bertahan. Yang akan menjawabnya adalah laporan keuangan BRI Triwulan III 2026, yang akan menunjukkan apakah komposisi kredit UMKM ini tetap terjaga seiring posisi BRI di bawah Danantara.",
+  "imageV": "msx1s5id"
+ },
+ {
   "slug": "bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober",
   "category": "Perbankan",
   "title": "BI Perluas Bebas [MDR] QRIS ke Semua Merchant Mulai Oktober",
@@ -345,7 +400,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
   "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "16 Agustus 2026",
   "isoDate": "2026-08-16T12:38:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027",

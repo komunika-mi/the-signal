@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
+  "category": "Industri",
+  "title": "BASSRA [Bantah] Tolak Rencana Industri di Bangkalan",
+  "deck": "Sekjen BASSRA KH Syafik Rofi'i menegaskan organisasi ulama pesantren Madura ini belum mengambil sikap resmi menolak rencana pembangunan industri di Bangkalan.",
+  "image": "assets/img/bassra-bantah-tolak-rencana-industri-di-bangkalan.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T06:05:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460635-badan-silaturahmi-ulama-pesantren-madura-bassra-bersuara-soal-rencana-pembangunan-industri-di-bangkalan",
+  "tags": [
+   "Bangkalan",
+   "Madura",
+   "BASSRA",
+   "Industrialisasi"
+  ],
+  "body": [
+   "Badan Silaturahmi Ulama Pesantren Madura (BASSRA) membantah kabar yang menyebut organisasi ini telah bersikap menolak rencana pembangunan industri di Bangkalan, Jawa Timur. Sekretaris Jenderal BASSRA, KH Syafik Rofi'i, mengatakan isu tersebut menyebar setelah ada rapat internal organisasi yang membahas arah pembangunan Madura, namun forum itu belum menghasilkan keputusan kelembagaan apa pun.",
+   "Menurut Syafik, dalam rapat tersebut memang muncul sejumlah pandangan, termasuk gagasan agar kepentingan dan pembangunan di tingkat provinsi lebih dulu menjadi prioritas. Akan tetapi, ia menegaskan itu baru pemikiran yang butuh pembahasan lanjutan, bukan kesepakatan atau sikap resmi BASSRA terhadap rencana industrialisasi di Bangkalan.",
+   "Syafik meminta publik membedakan pandangan personal yang muncul dalam sebuah forum dengan keputusan resmi organisasi. Ia menegaskan BASSRA tidak pernah memutuskan, menyepakati, atau menyatakan penolakan terhadap rencana industrialisasi di Bangkalan, dan rapat yang jadi sumber isu itu memang tidak dimaksudkan untuk dipublikasikan sebagai pernyataan resmi.",
+   "BASSRA menyatakan masih membuka ruang pembahasan mengenai rencana industrialisasi maupun rencana nota kesepahaman (MoU) yang terkait dengan agenda tersebut. Sebelum menentukan sikap, organisasi ini akan meminta pandangan dari ulama, tokoh masyarakat, kalangan intelektual, hingga elemen masyarakat lainnya."
+  ],
+  "fotoAdegan": "Traditional pesantren courtyard in rural Madura at dawn, santri students walking past modest wooden buildings, morning mist over nearby rice fields.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a838e3878449-sekretaris-jenderal-bassra-kh-syafik-rofii_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal rencana industrinya, melainkan status sikap BASSRA: organisasi ulama pesantren se-Madura ini menegaskan belum ada keputusan resmi menolak, dan yang selama ini beredar cuma pandangan pribadi dalam rapat internal. Yang terdampak adalah proses rencana pembangunan industri di Bangkalan itu sendiri, karena dukungan atau penolakan ulama pesantren biasanya ikut menentukan bagaimana warga Madura menyikapi proyek semacam ini. Berita ini belum menyebut detail rencana industrialisasi tersebut, seperti sektornya, nilai investasinya, atau siapa pemrakarsanya, sehingga arah sikap BASSRA ke depan masih sulit dibaca dari sini. Yang perlu ditunggu adalah hasil konsultasi BASSRA dengan ulama, tokoh masyarakat, dan kalangan intelektual yang disebut akan jadi dasar sebelum organisasi ini mengambil sikap resmi, karena dari situ baru terlihat apakah arahnya mendukung, menolak, atau meminta syarat tertentu.",
+  "imageV": "msxv4l5z"
+ },
+ {
   "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "ENRG cetak laba bersih naik [27%] pada semester I 2026",

@@ -2,6 +2,22 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "_eLwJlitL-k",
+  "title": "Menkop Ferry Juliantono: Pemerintah Pastikan Kemerdekaan Ekonomi",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koperasi Ferry Juliantono menegaskan pemerintah berkomitmen mewujudkan kemerdekaan ekonomi dan sosial masyarakat melalui pemberdayaan koperasi dan UMKM.",
+  "takeaway": "Pernyataan menteri terkait arah kebijakan pemberdayaan UMKM ini relevan bagi pembaca yang mengikuti agenda ekonomi kerakyatan pemerintah."
+ },
+ {
+  "id": "oFs66ujNmY4",
+  "title": "1.200 UMKM Ramaikan Pesta Rakyat HUT ke-81 RI",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Pesta Rakyat HUT ke-81 RI di kawasan Monas hingga Bundaran HI melibatkan lebih dari 1.700 UMKM yang memasarkan produknya kepada masyarakat.",
+  "takeaway": "Skala keterlibatan UMKM dalam acara nasional ini menggambarkan peluang perluasan pasar bagi pelaku usaha kecil."
+ },
+ {
   "id": "71oMi3aMkTQ",
   "title": "Bank Jateng Gelar Gebyar Fest 81 Libatkan UMKM Perkuat Ekonomi Daerah",
   "category": "UMKM",
@@ -80,21 +96,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Menteri Desa dan PDT menjelaskan Koperasi Desa dirancang untuk menghapus praktik rentenir dan memperkuat ekonomi desa.",
   "takeaway": "Program koperasi desa relevan bagi pembaca yang mengikuti perkembangan inklusi keuangan dan ekonomi pedesaan."
- },
- {
-  "id": "ZwVVN3eKVu4",
-  "title": "Pertumbuhan dan Perkembangan Ekonomi Indonesia",
-  "category": "Makroekonomi",
-  "program": "AKAP",
-  "summary": "Presiden Prabowo Subianto menetapkan Jakarta dan Bali sebagai lokasi Pusat Finansial Internasional Indonesia dalam pidato penyampaian RUU APBN 2027 dan Nota Keuangan.",
-  "takeaway": "Penetapan ini penting diikuti karena menandai arah kebijakan pemerintah membangun pusat keuangan baru di Indonesia."
- },
- {
-  "id": "CVkXQhS9jko",
-  "title": "Presiden Prabowo Bentuk DDMF untuk Biayai Proyek Besar Tanpa Bebani APBN",
-  "category": "BUMN",
-  "program": "AKAP",
-  "summary": "Presiden Prabowo Subianto menyiapkan Danantara Development Management Fund untuk mendukung proyek strategis jangka panjang, termasuk proyek mobil nasional, tanpa membebani APBN.",
-  "takeaway": "Skema pembiayaan di luar APBN ini relevan bagi pembaca ekonomi karena menunjukkan strategi baru pendanaan proyek besar pemerintah."
  }
 ];

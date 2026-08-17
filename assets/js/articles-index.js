@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
+  "category": "Industri",
+  "title": "BASSRA [Bantah] Tolak Rencana Industri di Bangkalan",
+  "deck": "Sekjen BASSRA KH Syafik Rofi'i menegaskan organisasi ulama pesantren Madura ini belum mengambil sikap resmi menolak rencana pembangunan industri di Bangkalan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/bassra-bantah-tolak-rencana-industri-di-bangkalan.jpg",
+  "imageV": "msxv4l5z",
+  "tags": [
+   "Bangkalan",
+   "Madura",
+   "BASSRA",
+   "Industrialisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460635-badan-silaturahmi-ulama-pesantren-madura-bassra-bersuara-soal-rencana-pembangunan-industri-di-bangkalan"
+ },
+ {
   "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",
   "category": "Aksi Korporasi",
   "title": "ENRG cetak laba bersih naik [27%] pada semester I 2026",

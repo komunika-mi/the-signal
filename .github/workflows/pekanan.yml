@@ -21,6 +21,11 @@ on:
   schedule:
     - cron: "0 12 * * 0"
   workflow_dispatch:
+    inputs:
+      hanya_kirim:
+        description: "Kirim edisi yang SUDAH ada, jangan menulis ulang"
+        type: boolean
+        default: false
 
 concurrency:
   group: the-signal-tulis       # sama dengan daily, harian, dan idx
@@ -45,7 +50,26 @@ jobs:
       - name: Pasang dependensi
         run: npm ci
 
+      # Mode kirim-ulang. Dipakai kalau edisinya sudah ada dan benar tapi
+      # pengirimannya gagal atau tertinggal, misalnya jadwal Minggu terlewat
+      # atau langkah Telegram jatuh. Tanpa mode ini satu-satunya cara memicu
+      # pengiriman adalah menjalankan seluruh workflow, yang akan MENULIS ULANG
+      # edisinya dengan jendela tanggal hari itu dan menimpa edisi yang sudah
+      # benar. Di sini edisinya dibiarkan apa adanya, hanya dikirim.
+      - name: Mode kirim-ulang
+        if: ${{ inputs.hanya_kirim }}
+        run: |
+          EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/pekanan.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
+          if [ -z "$EDISI" ]; then
+            echo "::error::pekanan.js tidak punya tanggal. Tidak ada edisi untuk dikirim."
+            exit 1
+          fi
+          echo "TERBIT=ya" >> $GITHUB_ENV
+          echo "EDISI=$EDISI" >> $GITHUB_ENV
+          echo "Kirim ulang edisi $EDISI tanpa menulis ulang."
+
       - name: Tulis Signal Pekanan
+        if: ${{ !inputs.hanya_kirim }}
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -53,6 +77,7 @@ jobs:
         run: node scripts/signal-pekanan.mjs
 
       - name: Commit dan push
+        if: ${{ !inputs.hanya_kirim }}
         run: |
           git config user.name "the-signal-bot"
           git config user.email "actions@github.com"

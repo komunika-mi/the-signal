@@ -596,7 +596,11 @@ ARTICLES.forEach(function (a) {
       articleSection: a.category, inLanguage: 'id-ID',
       publisher: {
         '@type': 'Organization', name: 'The Signal', url: BASE,
-        logo: { '@type': 'ImageObject', url: BASE + '/assets/img/apple-touch-icon.png' },
+        // Logo 512 piksel, bukan apple-touch-icon 180 piksel. Google
+        // menyarankan logo penerbit minimal 112 piksel dan memakai yang
+        // terbesar tersedia untuk hasil kaya; berkas 512 sudah ada di repo
+        // tapi sebelumnya tidak dipakai di mana pun.
+        logo: { '@type': 'ImageObject', url: BASE + '/assets/img/icon-512.png', width: 512, height: 512 },
       },
       isBasedOn: a.sourceUrl,
     },

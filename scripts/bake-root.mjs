@@ -335,8 +335,8 @@ function jsonLdSitus() {
     url: BASE + '/',
     logo: {
       '@type': 'ImageObject',
-      url: BASE + '/assets/img/apple-touch-icon.png',
-      width: 180, height: 180,
+      url: BASE + '/assets/img/icon-512.png',
+      width: 512, height: 512,
     },
     description: 'Media ekonomi Indonesia yang membaca arah kebijakan dan aksi ' +
       'korporasi dari dokumen resmi. Kolaborasi editorial dengan tvOneNews.',

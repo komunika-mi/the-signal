@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
+  "imageV": "msy84r2b",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] Tipis ke US$453,4 Miliar",

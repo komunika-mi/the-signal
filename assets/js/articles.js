@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
+  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T10:51:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
+  "body": [
+   "Bank Indonesia melalui Pusat Informasi Harga Pangan Strategis (PIHPS) merilis data harga rata-rata bahan pangan di tingkat pedagang eceran secara nasional untuk 18 Agustus 2026. Data ini mencakup harga cabai, telur, daging, beras, gula, dan minyak goreng, dan biasa dipakai sebagai acuan harian oleh pedagang pasar maupun rumah tangga untuk membandingkan harga di daerah masing-masing.",
+   "Untuk kelompok cabai, cabai rawit merah tercatat paling mahal di antara jenisnya yaitu Rp66.350 per kilogram, diikuti cabai rawit hijau Rp49.750 per kilogram dan cabai merah keriting Rp49.100 per kilogram. Cabai merah besar berada di level terendah kelompok ini, Rp44.550 per kilogram. Sementara itu bawang merah dijual Rp40.700 per kilogram dan bawang putih Rp41.100 per kilogram.",
+   "Di kelompok protein, telur ayam ras tercatat Rp28.200 per kilogram dan daging ayam ras segar Rp39.200 per kilogram. Daging sapi kualitas I berada di Rp151.150 per kilogram, sedikit lebih mahal dari kualitas II yang Rp148.200 per kilogram.",
+   "Untuk beras, kualitas bawah I dan II sama-sama Rp15.250 per kilogram, kualitas medium I Rp16.550 per kilogram dan medium II Rp16.150 per kilogram, sementara kualitas super I Rp17.550 per kilogram dan super II Rp15.250 per kilogram. Gula pasir kualitas premium dijual Rp21.450 per kilogram dan gula lokal Rp19.250 per kilogram. Minyak goreng curah tercatat paling murah di kelompoknya, Rp20.150 per liter, di bawah minyak goreng kemasan bermerek I Rp23.950 per liter dan bermerek II Rp23.450 per liter."
+  ],
+  "fotoAdegan": "Vendor weighing fresh red chilies and eggs at a bustling traditional wet market stall in Indonesia, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/13/684b9c5667719-harga-pangan-di-pasar-tradisional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini adalah potret harga pada satu hari, 18 Agustus 2026, tanpa angka pembanding dari hari atau minggu sebelumnya, sehingga belum bisa dibaca apakah harga cabai, telur, atau minyak goreng sedang naik, turun, atau stabil. Yang paling terdampak adalah pedagang eceran dan rumah tangga yang berbelanja harian, karena cabai rawit merah di Rp66.350 per kilogram jauh di atas jenis cabai lain dan daging sapi bertahan di atas Rp148.000 per kilogram, dua pos belanja yang biasanya paling terasa di dapur. Untuk melihat ke arah mana harga-harga ini bergerak, yang perlu dipantau adalah rilis PIHPS pada hari-hari berikutnya serta data inflasi bulanan dari Badan Pusat Statistik, karena baru dari perbandingan itu pola kenaikan atau penurunan sebenarnya akan terlihat.",
+  "imageV": "msy84r2b"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] Tipis ke US$453,4 Miliar",

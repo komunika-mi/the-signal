@@ -5,21 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
-  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
+  "slug": "kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Jual Saham, [Restrukturisasi] Grup",
+  "deck": "Putrasakti Mandiri, pemegang saham dengan hak suara 34,86 persen di KDTN, melepas 1,63 juta saham senilai Rp376 per saham dalam rangka restrukturisasi kepemilikan di kelompok usaha.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
-  "imageV": "msy84r2b",
+  "image": "assets/img/kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup.jpg",
+  "imageV": "msy7ocof",
   "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai"
+   "KDTN",
+   "kepemilikan saham",
+   "pemegang saham",
+   "restrukturisasi grup usaha"
   ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1660-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WGSH Rencanakan Terbitkan [Surat Utang] Rp20 Miliar",
+  "deck": "WGSH berencana menerbitkan surat utang senilai maksimal Rp20 miliar untuk modal kerja, dengan target imbal hasil proyek neto minimal 3 persen per bulan dan jaminan aset perusahaan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar.jpg",
+  "imageV": "msy7ourz",
+  "tags": [
+   "WGSH",
+   "surat utang",
+   "pendanaan korporasi",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84fac78b11_3685d07643.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro [Tambah] 1,3 Juta Saham Hermina",
+  "deck": "Dewan Komisaris DR Hasmoro membeli 1.319.000 saham HEAL secara tidak langsung seharga Rp757 per saham, menaikkan hak suaranya dari 5,03% jadi 5,04%.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina.jpg",
+  "imageV": "msy7pc1d",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4319-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 200.000 Saham Rp102 Juta",
+  "deck": "Komisaris AKPI, Henry Liem, menjual 200.000 saham perseroan pada 14 Agustus 2026 seharga Rp510 per saham, mengurangi hak suaranya dari 1,8674% menjadi 1,8347%.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta.jpg",
+  "imageV": "msy7q0w2",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4555-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
@@ -45,7 +96,8 @@ var ARTICLES = [
   "title": "IHSG [Naik] 1,21 Persen ke 6.479 di Awal Sesi",
   "deck": "IHSG menguat 1,21 persen ke 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, diikuti penguatan LQ45, IDX30, dan IDX80.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi.jpg",
+  "imageV": "msy7qjal",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -60,7 +112,8 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp18.000 Jadi Rp2.695.000/Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, sementara harga buyback ikut naik ke Rp2.555.000 per gram.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram.jpg",
+  "imageV": "msy7r5kx",
   "tags": [
    "harga emas",
    "emas antam",
@@ -75,7 +128,8 @@ var ARTICLES = [
   "title": "Rupiah [Melemah] ke Rp17.847, BI Tetap Intervensi Jelang BI Rate",
   "deck": "Kurs rupiah melemah 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi meski BI terus intervensi pasar NDF, jelang pengumuman BI Rate yang diperkirakan tetap di 5,75 persen pada Rabu (19/8).",
   "date": "18 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate.jpg",
+  "imageV": "msy7rzt8",
   "tags": [
    "rupiah",
    "BI Rate",
@@ -123,7 +177,8 @@ var ARTICLES = [
   "title": "BBTN Rampungkan [Pengalihan] Aset Pinjaman dari SMBC Indonesia",
   "deck": "BTN merampungkan pembelian aset pinjaman pensiunan dan karyawan dari Bank SMBC Indonesia lewat akta cessie pada 14 Agustus 2026, menambah portofolio kredit perseroan.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia.jpg",
+  "imageV": "msy7scyy",
   "tags": [
    "BBTN",
    "Bank Tabungan Negara",
@@ -216,6 +271,57 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6461b21e11_38f58859af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat [konversi] 240.100 saham baru dari eksekusi waran",
+  "deck": "PT ITSEC Asia Tbk mencatatkan 240.100 saham baru hasil konversi Waran Seri I di BEI, sisa waran yang beredar turun jadi 425,5 juta lembar.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran.jpg",
+  "imageV": "msy7sr2o",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "waran",
+   "pencatatan saham BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a973e5468c_d09f6e0500.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat tambahan [900] saham dari eksekusi waran seri I",
+  "deck": "Bursa mencatat penambahan 900 saham baru PT ITSEC Asia Tbk (CYBR) hasil konversi 900 unit Waran Seri I, sehingga total saham beredar naik jadi 13,48 miliar lembar.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i.jpg",
+  "imageV": "msy7takc",
+  "tags": [
+   "CYBR",
+   "waran",
+   "konversi saham",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4b9248500f_b9572d86a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta",
+  "category": "Aksi Korporasi",
+  "title": "XTRA: Unit ETF Emas Trimegah [Bertambah] 85% jadi 109 Juta",
+  "deck": "Bursa mencatat penambahan 50 juta unit penyertaan Reksa Dana Syariah Trimegah Syariah ETF Emas (XTRA), sehingga total unit beredar naik jadi 109 juta per 14 Agustus 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta.jpg",
+  "imageV": "msy7tozc",
+  "tags": [
+   "XTRA",
+   "ETF Emas",
+   "Reksa Dana",
+   "Trimegah Asset Management"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87211d8a14_1dbd246566.pdf",
   "sourceLabel": "IDX"
  },
  {

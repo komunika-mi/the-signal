@@ -3,31 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
-  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
-  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
+  "slug": "kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Jual Saham, [Restrukturisasi] Grup",
+  "deck": "Putrasakti Mandiri, pemegang saham dengan hak suara 34,86 persen di KDTN, melepas 1,63 juta saham senilai Rp376 per saham dalam rangka restrukturisasi kepemilikan di kelompok usaha.",
+  "image": "assets/img/kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup.jpg",
   "date": "18 Agustus 2026",
-  "isoDate": "2026-08-18T10:51:17+07:00",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter",
+  "isoDate": "2026-08-18T11:42:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1660-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
   "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai"
+   "KDTN",
+   "kepemilikan saham",
+   "pemegang saham",
+   "restrukturisasi grup usaha"
   ],
   "body": [
-   "Bank Indonesia melalui Pusat Informasi Harga Pangan Strategis (PIHPS) merilis data harga rata-rata bahan pangan di tingkat pedagang eceran secara nasional untuk 18 Agustus 2026. Data ini mencakup harga cabai, telur, daging, beras, gula, dan minyak goreng, dan biasa dipakai sebagai acuan harian oleh pedagang pasar maupun rumah tangga untuk membandingkan harga di daerah masing-masing.",
-   "Untuk kelompok cabai, cabai rawit merah tercatat paling mahal di antara jenisnya yaitu Rp66.350 per kilogram, diikuti cabai rawit hijau Rp49.750 per kilogram dan cabai merah keriting Rp49.100 per kilogram. Cabai merah besar berada di level terendah kelompok ini, Rp44.550 per kilogram. Sementara itu bawang merah dijual Rp40.700 per kilogram dan bawang putih Rp41.100 per kilogram.",
-   "Di kelompok protein, telur ayam ras tercatat Rp28.200 per kilogram dan daging ayam ras segar Rp39.200 per kilogram. Daging sapi kualitas I berada di Rp151.150 per kilogram, sedikit lebih mahal dari kualitas II yang Rp148.200 per kilogram.",
-   "Untuk beras, kualitas bawah I dan II sama-sama Rp15.250 per kilogram, kualitas medium I Rp16.550 per kilogram dan medium II Rp16.150 per kilogram, sementara kualitas super I Rp17.550 per kilogram dan super II Rp15.250 per kilogram. Gula pasir kualitas premium dijual Rp21.450 per kilogram dan gula lokal Rp19.250 per kilogram. Minyak goreng curah tercatat paling murah di kelompoknya, Rp20.150 per liter, di bawah minyak goreng kemasan bermerek I Rp23.950 per liter dan bermerek II Rp23.450 per liter."
+   "PUTRASAKTI MANDIRI, pemegang saham PT Puri Sentul Permai Tbk (KDTN) yang bukan berasal dari jajaran direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 1.633.600 lembar saham KDTN pada 14 Agustus 2026 dengan harga Rp376 per saham. Penjualan ini mengurangi kepemilikan Putrasakti Mandiri dari 435.700.000 lembar menjadi 434.066.400 lembar saham.",
+   "Akibat transaksi tersebut, hak suara Putrasakti Mandiri di KDTN turun tipis dari 34,86 persen menjadi 34,72 persen. Dalam laporan resmi ke bursa, tujuan transaksi ini disebutkan sebagai restrukturisasi kepemilikan saham dalam kelompok usaha, dan jenis transaksinya dicatat sebagai perjanjian jual beli kembali atau repurchase agreement antar pihak terkait, bukan penjualan lewat pasar terbuka kepada investor baru.",
+   "Jumlah saham yang dilepas setara dengan sekitar 0,37 persen dari total kepemilikan Putrasakti Mandiri di KDTN sebelum transaksi, sehingga posisinya sebagai salah satu pemegang saham signifikan perusahaan properti ini secara praktis tidak banyak berubah."
   ],
-  "fotoAdegan": "Vendor weighing fresh red chilies and eggs at a bustling traditional wet market stall in Indonesia, early morning light",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/13/684b9c5667719-harga-pangan-di-pasar-tradisional_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "takeaway": "Data ini adalah potret harga pada satu hari, 18 Agustus 2026, tanpa angka pembanding dari hari atau minggu sebelumnya, sehingga belum bisa dibaca apakah harga cabai, telur, atau minyak goreng sedang naik, turun, atau stabil. Yang paling terdampak adalah pedagang eceran dan rumah tangga yang berbelanja harian, karena cabai rawit merah di Rp66.350 per kilogram jauh di atas jenis cabai lain dan daging sapi bertahan di atas Rp148.000 per kilogram, dua pos belanja yang biasanya paling terasa di dapur. Untuk melihat ke arah mana harga-harga ini bergerak, yang perlu dipantau adalah rilis PIHPS pada hari-hari berikutnya serta data inflasi bulanan dari Badan Pusat Statistik, karena baru dari perbandingan itu pola kenaikan atau penurunan sebenarnya akan terlihat.",
-  "imageV": "msy84r2b"
+  "fotoAdegan": "Suburban housing complex under construction near green hills outside Jakarta, workers on scaffolding, soft morning light",
+  "takeaway": "Laporan ini tergolong netral bagi KDTN, karena saham yang dilepas Putrasakti Mandiri hanya sekitar 0,37 persen dari kepemilikannya dan hak suaranya nyaris tidak berubah, dari 34,86 persen menjadi 34,72 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal pelemahan dukungan pemegang saham utama. Pos yang tersentuh di sini adalah struktur pemegang saham dan jumlah saham yang beredar di pasar, bukan kinerja keuangan perusahaan, karena transaksi ini tercatat sebagai perjanjian jual beli kembali antar pihak dalam satu kelompok usaha, bukan penjualan ke investor baru. Yang perlu dipantau selanjutnya adalah apakah restrukturisasi kepemilikan dalam kelompok usaha ini berlanjut dengan laporan serupa dari Putrasakti Mandiri atau pihak terafiliasi lainnya, karena perubahan semacam ini biasanya dilakukan bertahap lewat beberapa transaksi kecil sebelum membentuk struktur kepemilikan baru yang lebih jelas.",
+  "sentimen": "netral",
+  "imageV": "msy7ocof"
+ },
+ {
+  "slug": "wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WGSH Rencanakan Terbitkan [Surat Utang] Rp20 Miliar",
+  "deck": "WGSH berencana menerbitkan surat utang senilai maksimal Rp20 miliar untuk modal kerja, dengan target imbal hasil proyek neto minimal 3 persen per bulan dan jaminan aset perusahaan.",
+  "image": "assets/img/wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T11:30:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84fac78b11_3685d07643.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WGSH",
+  "tags": [
+   "WGSH",
+   "surat utang",
+   "pendanaan korporasi",
+   "obligasi"
+  ],
+  "body": [
+   "PT Wira Global Solusi Tbk (WGSH) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa manajemen berencana menerbitkan surat utang, instrumen pinjaman langsung dari investor yang mirip obligasi korporasi, dengan nilai pokok maksimal Rp20 miliar. Direktur Utama Hendy Rusli menyebut rencana ini sebagai bagian dari strategi mencari sumber pendanaan alternatif di luar fasilitas perbankan, sekaligus menambah fleksibilitas pendanaan untuk kebutuhan modal kerja perusahaan.",
+   "Dana hasil penerbitan surat utang akan dipakai sebagai modal kerja pada proyek-proyek WGSH yang ditargetkan menghasilkan imbal hasil investasi minimal 3 persen neto per bulan, dengan tetap mempertimbangkan prinsip kehati-hatian, kelayakan proyek, profil risiko, dan kemampuan perusahaan membayar kewajiban surat utang tersebut. Sebagai perlindungan tambahan bagi pemegang surat utang, perusahaan berencana menyediakan jaminan berupa aset milik perusahaan sendiri, meski dokumen belum merinci aset mana yang akan dijaminkan atau berapa tingkat bunga yang ditawarkan kepada investor.",
+   "Manajemen WGSH menyatakan rencana ini diharapkan mendukung peningkatan aktivitas operasional, perputaran modal kerja, dan pertumbuhan pendapatan perusahaan, serta akan dijalankan sesuai ketentuan perundang-undangan dan anggaran dasar perusahaan yang berlaku. Perusahaan menegaskan penerbitan surat utang ini tidak diperkirakan berdampak negatif material terhadap kelangsungan usaha, dan akan memantau secara berkala penggunaan dana, kinerja proyek, arus kas, serta kemampuan pembayaran kewajiban surat utang untuk memitigasi risiko keuangan."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Sudirman business district at dusk, street traffic passing below, city lights beginning to glow",
+  "takeaway": "Rencana ini condong netral: nilai pokoknya, maksimal Rp20 miliar, tergolong sedang dan diarahkan untuk modal kerja, bukan untuk menutup utang jatuh tempo atau menambal kerugian, tapi target imbal hasil proyek yang dipatok manajemen, minimal 3 persen neto per bulan atau setara lebih dari 36 persen setahun, tergolong sangat agresif untuk ukuran proyek investasi biasa dan pantas dicermati. Yang tersentuh dari rencana ini adalah beban bunga dan arus kas perusahaan, karena setiap surat utang yang terbit menambah kewajiban bayar rutin ke investor, dan karena dijamin dengan aset milik perusahaan sendiri, kegagalan membayar berisiko membuat aset itu berpindah tangan ke pemegang surat utang, itu sebabnya pelaku pasar biasanya mencermati rasio utang dan kemampuan bayar perusahaan setelah pengumuman semacam ini. Yang perlu dipantau berikutnya adalah dokumen final penerbitan surat utang, termasuk tingkat bunga yang ditawarkan ke investor, tenor pembayaran, dan aset spesifik yang dijadikan jaminan, karena keterbukaan informasi tanggal 18 Agustus 2026 ini baru memuat rencana dan nilai pokok maksimal, belum rincian transaksi final.",
+  "sentimen": "netral",
+  "imageV": "msy7ourz"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro [Tambah] 1,3 Juta Saham Hermina",
+  "deck": "Dewan Komisaris DR Hasmoro membeli 1.319.000 saham HEAL secara tidak langsung seharga Rp757 per saham, menaikkan hak suaranya dari 5,03% jadi 5,04%.",
+  "image": "assets/img/heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T11:21:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4319-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) melaporkan ke Otoritas Jasa Keuangan bahwa Dewan Komisaris perseroan, DR Hasmoro, membeli 1.319.000 saham HEAL pada 12 Agustus 2026 dengan harga Rp757 per saham. Berdasarkan harga tersebut, nilai transaksi ini sekitar Rp998,5 juta. Pembelian tercatat sebagai kepemilikan tidak langsung, dengan tujuan transaksi yang disebutkan dalam dokumen adalah investasi.",
+   "Dengan tambahan ini, jumlah saham HEAL yang dikuasai Hasmoro naik dari 772.615.989 lembar menjadi 773.934.989 lembar. Hak suaranya di perseroan bergerak tipis dari 5,03 persen menjadi 5,04 persen. Selisih pembelian ini setara sekitar 0,17 persen dari kepemilikannya sebelum transaksi.",
+   "Laporan ini merupakan kewajiban rutin di bawah POJK Nomor 4/2024, yang mengharuskan direksi, komisaris, atau pemegang saham utama melaporkan setiap perubahan kepemilikan saham perusahaan terbuka kepada OJK dan bursa."
+  ],
+  "fotoAdegan": "Exterior facade of a modern multi-story private hospital in an Indonesian city, ambulance parked at the entrance, late afternoon light",
+  "takeaway": "Laporan ini netral bagi HEAL. Pembelian 1,3 juta saham oleh Komisaris Hasmoro hanya menggeser kepemilikannya sekitar 0,17 persen dan hak suaranya cuma naik dari 5,03 persen ke 5,04 persen, jadi ukurannya terlalu kecil untuk dibaca sebagai sinyal keyakinan besar terhadap prospek perusahaan. Yang tersentuh di sini cuma peta kepemilikan dan hak suara individu Hasmoro, bukan jumlah saham beredar perusahaan secara keseluruhan, karena transaksi ini terjadi di pasar sekunder antar pemegang saham, bukan penerbitan saham baru, sehingga laba per saham HEAL tidak ikut terdilusi. Yang perlu dipantau adalah apakah pola pembelian bertahap ini berlanjut di laporan KSEI berikutnya, mengingat pekan sebelumnya Hasmoro juga tercatat menambah 218.600 saham, sehingga akumulasi kepemilikannya di HEAL terus bergerak naik.",
+  "sentimen": "netral",
+  "imageV": "msy7pc1d"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 200.000 Saham Rp102 Juta",
+  "deck": "Komisaris AKPI, Henry Liem, menjual 200.000 saham perseroan pada 14 Agustus 2026 seharga Rp510 per saham, mengurangi hak suaranya dari 1,8674% menjadi 1,8347%.",
+  "image": "assets/img/akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T11:19:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4555-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "kepemilikan saham",
+   "dewan komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan 200.000 lembar saham perseroan kepada Otoritas Jasa Keuangan pada 18 Agustus 2026. Transaksi berjenis penjualan tidak langsung ini dilakukan pada 14 Agustus 2026 dengan harga Rp510 per saham, dengan tujuan yang tertulis dalam laporan sebagai jual saham.",
+   "Sebelum transaksi, Henry Liem memegang 11.432.859 lembar saham AKPI atau setara 1,8674 persen hak suara perseroan. Setelah penjualan, kepemilikannya berkurang menjadi 11.232.859 lembar, dengan hak suara turun menjadi 1,8347 persen. Selisih 200.000 lembar itu setara sekitar 1,75 persen dari total kepemilikan pribadinya sebelum transaksi."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of clear plastic film moving through an industrial extrusion line inside a packaging factory, fluorescent lighting",
+  "takeaway": "Penjualan ini tergolong netral bagi AKPI, karena yang dilepas hanya sekitar 1,75 persen dari kepemilikan pribadi Henry Liem sendiri, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap prospek perusahaan. Yang tersentuh dari laporan ini adalah komposisi pemegang saham dan hak suara di AKPI, yaitu porsi kepemilikan yang menentukan seberapa besar pengaruh seorang komisaris dalam pengambilan keputusan perseroan, dan di sini hak suara Henry Liem cuma turun tipis dari 1,8674 persen menjadi 1,8347 persen. Nilai transaksinya juga kecil, sekitar Rp102 juta dari harga Rp510 per saham, jauh dari ukuran yang bisa mengubah peta pengendalian AKPI. Yang perlu dipantau selanjutnya adalah apakah Henry Liem kembali melaporkan penjualan serupa dalam waktu dekat, sebab satu transaksi kecil belum berarti apa-apa, tapi pola penjualan berulang oleh komisaris yang sama baru pantas dicermati.",
+  "sentimen": "netral",
+  "imageV": "msy7q0w2"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
@@ -62,7 +142,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG [Naik] 1,21 Persen ke 6.479 di Awal Sesi",
   "deck": "IHSG menguat 1,21 persen ke 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, diikuti penguatan LQ45, IDX30, dan IDX80.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T09:53:43+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460667-ihsg-hari-ini-naik-121-persen-ke-6479-investor-mulai-serbu-bursa",
@@ -81,14 +161,15 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Penguatan 1,21 persen ke 6.479 ini baru potret pukul 09.05 WIB, jadi bisa naik atau turun lagi sampai penutupan sore nanti. Yang langsung terdampak adalah investor dan pelaku pasar modal yang memegang saham di kelompok LQ45, IDX30, dan IDX80, karena keempat indeks itu kompak menghijau bersama IHSG. Data yang tersedia belum menyebut pemicu kenaikan ini, apakah dari sentimen luar negeri, aksi beli investor asing, atau sekadar pemulihan setelah pelemahan sebelumnya. Yang perlu ditunggu adalah angka penutupan IHSG sore ini dan data transaksi bersih asing, karena dari situ baru terlihat apakah penguatan pagi ini bertahan atau cuma sementara.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msy7qjal"
  },
  {
   "slug": "harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Naik] Rp18.000 Jadi Rp2.695.000/Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, sementara harga buyback ikut naik ke Rp2.555.000 per gram.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T09:35:27+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460665-harga-emas-antam-hari-ini-18-agustus-2026-naik-rp18000-jadi-rp2695000-per-gram",
@@ -107,14 +188,15 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Kenaikan Rp18.000 per gram ini membawa harga emas Antam ke Rp2.695.000, sementara harga buyback yang diterima nasabah saat menjual kembali emas ikut naik ke Rp2.555.000 per gram. Yang terdampak langsung adalah masyarakat yang menyimpan emas batangan sebagai simpanan atau investasi, baik yang berencana membeli hari ini maupun yang ingin mencairkan emasnya. Data ini hanya mencatat pergerakan harian tanpa menyebut pemicunya, misalnya pergerakan harga emas dunia atau nilai tukar rupiah, sehingga belum bisa disimpulkan apakah kenaikan ini awal tren atau sekadar fluktuasi biasa. Yang perlu dicermati adalah apakah harga emas Antam terus naik dalam beberapa hari ke depan atau kembali turun mengikuti pola harga sebelumnya.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msy7r5kx"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate",
   "category": "Moneter",
   "title": "Rupiah [Melemah] ke Rp17.847, BI Tetap Intervensi Jelang BI Rate",
   "deck": "Kurs rupiah melemah 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi meski BI terus intervensi pasar NDF, jelang pengumuman BI Rate yang diperkirakan tetap di 5,75 persen pada Rabu (19/8).",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T09:28:52+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460664-rupiah-melemah-ke-rp17847-per-dolar-as-meski-bi-tetap-intervensi-pasar-ndf-jelang-pengumuman-bi-rate",
@@ -134,7 +216,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret adalah kurs transaksi rupiah, melemah 49 poin atau 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi, sementara data kurs referensi BI (Jisdor) justru sempat menguat pekan lalu. Pelemahan ini terjadi walau Bank Indonesia disebut terus masuk ke pasar NDF, transaksi forward valuta asing di luar negeri yang dipakai bank sentral meredam gejolak kurs tanpa langsung menjual dolar di pasar dalam negeri. Pihak yang paling terasa dampaknya adalah importir dan pelaku usaha dengan kewajiban dalam dolar, karena barang impor dan cicilan utang valas jadi sedikit lebih mahal. Dengan pelemahan yang masih tergolong kecil dan ekonom memperkirakan BI menahan suku bunga di 5,75 persen, arahnya tampak BI memilih terus mengandalkan intervensi pasar valas ketimbang menaikkan bunga untuk menahan rupiah, dan itu akan langsung terkonfirmasi dari pengumuman BI Rate Rabu, 19 Agustus 2026.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msy7rzt8"
  },
  {
   "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
@@ -195,7 +278,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BBTN Rampungkan [Pengalihan] Aset Pinjaman dari SMBC Indonesia",
   "deck": "BTN merampungkan pembelian aset pinjaman pensiunan dan karyawan dari Bank SMBC Indonesia lewat akta cessie pada 14 Agustus 2026, menambah portofolio kredit perseroan.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T08:32:44",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87da6e7163_e74562d4b7.pdf",
@@ -214,7 +297,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Elderly Indonesian pensioners seated in a bank waiting area while a teller assists them at the counter, soft indoor lighting",
   "takeaway": "Laporan ini condong netral bagi BTN, sebab perseroan mengklaim dampaknya positif terhadap total aset dan portofolio kredit, tetapi tidak ada satu pun angka nilai transaksi atau jumlah nasabah yang dialihkan yang diungkap, sehingga besar kecilnya dampak itu belum bisa diukur pembaca. Yang tersentuh dari sisi kinerja adalah portofolio kredit dan total aset, dua pos yang menentukan seberapa besar potensi pendapatan bunga bank ke depan, karena pinjaman yang dibeli menjadi aset produktif baru di neraca BTN. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan memperlihatkan berapa besar nilai aset pinjaman ini menambah portofolio kredit BTN dan bagaimana kualitasnya, mengingat sebagian besar berasal dari pinjaman pensiunan yang punya profil risiko berbeda dari kredit komersial biasa.",
-  "sentimen": "netral"
+  "sentimen": "netral",
+  "imageV": "msy7scyy"
  },
  {
   "slug": "sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian",
@@ -349,6 +433,86 @@ var ARTICLES = [
   "takeaway": "Penambahan unit ini condong positif bagi pengelola reksa dana, karena mencerminkan masuknya dana baru dari investor yang membeli unit ETF emas syariah ini, bukan tanda pelemahan permintaan. Yang tersentuh di sini adalah jumlah unit penyertaan beredar, yaitu total 'lembar' kepemilikan reksa dana yang ada di pasar. Untuk reksa dana berbasis emas seperti ini, unit baru biasanya diterbitkan sepadan dengan tambahan emas fisik yang disetor ke dalam portofolio, sehingga nilai per unit bagi pemegang lama semestinya tidak ikut terdilusi. Kenaikan 37,5 persen dari 1,6 juta menjadi 2,2 juta unit dalam waktu singkat tergolong signifikan untuk fund sebesar ini, meski dokumen tidak menjelaskan siapa yang membeli unit tambahan tersebut. Yang perlu dipantau berikutnya adalah apakah tren penambahan unit ini berlanjut pada pengumuman serupa di periode mendatang, karena unit tambahan ini baru mulai diperdagangkan di bursa pada 18 Agustus 2026.",
   "sentimen": "positif",
   "imageV": "msy2r5v4"
+ },
+ {
+  "slug": "cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat [konversi] 240.100 saham baru dari eksekusi waran",
+  "deck": "PT ITSEC Asia Tbk mencatatkan 240.100 saham baru hasil konversi Waran Seri I di BEI, sisa waran yang beredar turun jadi 425,5 juta lembar.",
+  "image": "assets/img/cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T00:50:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a973e5468c_d09f6e0500.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "waran",
+   "pencatatan saham BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan tambahan saham PT ITSEC Asia Tbk (CYBR) hasil konversi Waran Seri I (kode CYBR-W). Sebanyak 240.100 waran dieksekusi pemegangnya pada 12 Agustus 2026, saham barunya diterbitkan sehari kemudian pada 13 Agustus 2026, dan mulai tercatat serta diperdagangkan di bursa pada 14 Agustus 2026. Permohonan pencatatan diajukan oleh PT Adimitra Jasa Korpora selaku biro administrasi efek CYBR kepada BEI.",
+   "Dengan konversi ini, total saham CYBR bertambah dari 13.482.125.604 lembar menjadi 13.482.365.704 lembar, atau naik 240.100 lembar. Di sisi lain, sisa Waran Seri I yang belum dikonversi berkurang dengan jumlah yang sama, dari 425.758.600 lembar menjadi 425.518.500 lembar, karena setiap waran yang dieksekusi otomatis mengurangi stok waran yang masih beredar.",
+   "Surat dari biro administrasi efek juga meneruskan tembusan kepada direksi PT ITSEC Asia Tbk, PT Kustodian Sentral Efek Indonesia, dan Otoritas Jasa Keuangan sebagai bagian dari prosedur baku pencatatan saham hasil pelaksanaan waran."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking indicator lights in a dim data center, a technician checking a laptop nearby, cool blue lighting",
+  "takeaway": "Penilaian saya netral, karena penambahan 240.100 saham ini hanya sekitar 0,002 persen dari total 13,48 miliar saham CYBR yang sudah beredar, jadi dampaknya nyaris tidak terasa. Yang tersentuh di sini adalah jumlah saham beredar, yakni total lembar saham perusahaan yang dimiliki publik dan pemegang saham lain; setiap kali jumlah ini bertambah tanpa ada uang baru yang signifikan masuk, laba per saham berpotensi terdilusi sedikit, meski dalam kasus ini besarannya terlalu kecil untuk berarti banyak. Sisa 425.518.500 waran Seri I yang masih beredar berarti proses konversi serupa berpotensi terus berulang secara bertahap ke depan, dan itu yang perlu dipantau lewat pengumuman pencatatan saham BEI berikutnya untuk emiten ini.",
+  "sentimen": "netral",
+  "imageV": "msy7sr2o"
+ },
+ {
+  "slug": "cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat tambahan [900] saham dari eksekusi waran seri I",
+  "deck": "Bursa mencatat penambahan 900 saham baru PT ITSEC Asia Tbk (CYBR) hasil konversi 900 unit Waran Seri I, sehingga total saham beredar naik jadi 13,48 miliar lembar.",
+  "image": "assets/img/cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T00:49:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4b9248500f_b9572d86a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "waran",
+   "konversi saham",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan saham baru PT ITSEC Asia Tbk (CYBR) melalui surat No. Peng-P-00930/BEI.PP2/08-2026. Penambahan ini berasal dari eksekusi 900 unit Waran Seri I (CYBR-W) yang dilaksanakan pada 13 Agustus 2026, dengan saham hasil konversi diterbitkan pada 14 Agustus dan resmi tercatat serta mulai diperdagangkan di Papan Pencatatan Pengembangan pada 18 Agustus 2026.",
+   "Dengan konversi ini, total saham CYBR yang tercatat di bursa naik dari 13.482.365.704 lembar menjadi 13.482.366.604 lembar, atau bertambah 900 lembar saham. Di sisi lain, sisa Waran Seri I yang belum dieksekusi berkurang dari 425.518.500 unit menjadi 425.517.600 unit. Permohonan pencatatan ini diajukan oleh PT Adimitra Jasa Korpora selaku biro administrasi efek CYBR, melalui surat bertanggal 14 Agustus 2026 yang ditandatangani Helda Domineeus selaku Head of Operational, dengan tembusan kepada direksi PT ITSEC Asia Tbk, PT Kustodian Sentral Efek Indonesia, Kepala Penilaian Perusahaan 2 BEI, dan Otoritas Jasa Keuangan.",
+   "Konversi ini merupakan yang kedua tercatat pada hari yang sama, setelah sebelumnya bursa juga mencatat penambahan 240.100 saham CYBR dari eksekusi waran serupa. Ini menunjukkan pemegang Waran Seri I masih terus mengeksekusi haknya menjadi saham secara bertahap dalam jumlah kecil."
+  ],
+  "fotoAdegan": "Technicians working in a modern server room with rows of blinking data racks, cool blue ambient lighting, Jakarta",
+  "takeaway": "Penilaian saya netral, karena tambahan 900 saham ini jauh lebih kecil dari total 13,48 miliar saham CYBR yang sudah beredar, bahkan lebih kecil dari konversi 240.100 saham yang sudah dicatat bursa pada hari yang sama, sehingga porsi kepemilikan pemegang saham lama nyaris tidak berubah. Yang tersentuh di sini adalah jumlah saham beredar, yaitu total lembar saham perusahaan yang ada di pasar. Kalau jumlah ini bertambah, laba perusahaan jadi dibagi ke lebih banyak lembar sehingga laba per saham berpotensi sedikit terdilusi, meski dalam kasus ini dampaknya nyaris tak terasa karena porsinya amat kecil. Yang perlu dipantau berikutnya adalah sisa 425.517.600 unit Waran Seri I yang masih beredar, karena setiap kali pemegangnya mengeksekusi hak itu, akan lahir laporan pencatatan saham baru serupa seperti ini.",
+  "sentimen": "netral",
+  "imageV": "msy7takc"
+ },
+ {
+  "slug": "xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta",
+  "category": "Aksi Korporasi",
+  "title": "XTRA: Unit ETF Emas Trimegah [Bertambah] 85% jadi 109 Juta",
+  "deck": "Bursa mencatat penambahan 50 juta unit penyertaan Reksa Dana Syariah Trimegah Syariah ETF Emas (XTRA), sehingga total unit beredar naik jadi 109 juta per 14 Agustus 2026.",
+  "image": "assets/img/xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T00:48:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87211d8a14_1dbd246566.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XTRA",
+  "tags": [
+   "XTRA",
+   "ETF Emas",
+   "Reksa Dana",
+   "Trimegah Asset Management"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan pengumuman pencatatan tambahan ETF nomor Peng-P-00920/BEI.PP2/08-2026 tertanggal 18 Agustus 2026 untuk Reksa Dana Syariah Trimegah Syariah ETF Emas dengan kode KIK XTRA. Dalam pengumuman itu disebutkan ada penambahan 50.000.000 unit penyertaan baru tanpa ada unit yang dihapuskan, sehingga total unit penyertaan yang tercatat di bursa menjadi 109.000.000 unit. Tanggal mulai pencatatan dan perdagangan untuk unit tambahan ini adalah 14 Agustus 2026.",
+   "Dasar penambahan ini adalah surat dari manajer investasi Trimegah Asset Management nomor 2312A/OPR-FA/VIII/2026.TRAM tertanggal 12 Agustus 2026, yang ditandatangani Edi Martono selaku Fund Accounting and Settlement Head. Surat itu merinci bahwa jumlah unit penyertaan yang beredar sebelumnya adalah 59.000.000 unit, lalu bertambah 50.000.000 unit tanpa ada pengurangan, sehingga per 12 Agustus 2026 total unit penyertaan yang beredar menjadi 109.000.000 unit. Kenaikan ini setara dengan pertambahan sekitar 85 persen dari jumlah unit sebelumnya."
+  ],
+  "fotoAdegan": "Rows of small gold bars stacked inside a secure vault, soft overhead lighting, reflections on protective glass, no readable text",
+  "takeaway": "Laporan ini condong positif bagi produk reksa dana ini, karena jumlah unit yang beredar melonjak sekitar 85 persen dalam waktu singkat, pertanda banyak investor baru masuk ke ETF emas ini. Yang tersentuh di sini adalah jumlah unit beredar atau ukuran dana kelolaan, bukan laba per saham seperti pada saham biasa, sebab ETF ini adalah reksa dana berbasis emas: setiap unit baru diterbitkan karena ada pihak yang menyetor emas atau dana senilai unit tersebut ke dalam portofolio, sehingga nilai aktiva bersih per unit milik pemegang lama tidak ikut tergerus seperti saat perusahaan menerbitkan saham baru. Yang perlu dipantau selanjutnya adalah apakah tren penambahan unit ini berlanjut di laporan-laporan berikutnya, karena itu jadi indikator apakah minat investor terhadap ETF emas ini terus tumbuh atau hanya lonjakan sesaat pada periode 12-14 Agustus 2026 ini.",
+  "sentimen": "positif",
+  "imageV": "msy7tozc"
  },
  {
   "slug": "tays-direktur-benny-anwar-mundur-tunggu-rups",

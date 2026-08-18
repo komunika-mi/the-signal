@@ -112,7 +112,7 @@ function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
     'assets/js/articles.js', 'assets/js/articles-index.js', 'assets/js/videos.js',
     'assets/js/market.js', 'assets/js/bps.js', 'assets/js/harian.js',
-    'assets/js/harian-arsip.js'];
+    'assets/js/harian-arsip.js', 'assets/js/pekanan.js', 'assets/js/pekanan-arsip.js'];
   const h = crypto.createHash('md5');
   for (const f of berkas) {
     const fp = path.join(ROOT, f);
@@ -1177,6 +1177,7 @@ document.addEventListener('DOMContentLoaded', function () {
 if (PEKANAN && PEKANAN.judul) {
   const isi =
     `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div id="pekan-isi" data-edisi="${esc(PEKANAN.tanggal)}">` +
     `<div class="harian-head">` +
     `<span class="harian-kicker">Signal Pekanan</span>` +
     `<h1 class="harian-judul">${esc(PEKANAN.judul)}</h1>` +
@@ -1201,6 +1202,7 @@ if (PEKANAN && PEKANAN.judul) {
         `</div>`
       : '') +
     (PEKANAN.penutup ? `<p class="harian-penutup">${esc(PEKANAN.penutup)}</p>` : '') +
+    `</div>` +
     `<div class="article-source-box" style="max-width:70ch;"><p>Signal Pekanan disusun redaksi ` +
     `The Signal dari seluruh edisi harian dan berita sepekan. Isinya pembacaan arah, bukan ` +
     `penilaian benar atau salah atas kebijakan, dan bukan rekomendasi investasi. Tanggal pada ` +
@@ -1211,7 +1213,65 @@ if (PEKANAN && PEKANAN.judul) {
     `<span>Signal Harian tiap malam hari kerja, plus rangkuman pekanan tiap Minggu. ` +
     `Langsung ke email, gratis, berhenti kapan saja.</span></div>` +
     `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal+</button></div>` +
-    `</section>`;
+    `</section>` +
+    // Tautan edisi dari email dan feed berbentuk ?edisi=YYYY-MM-DD. Sebelum ini
+    // halaman pekanan tidak menanganinya sama sekali, jadi siapa pun yang
+    // membuka email pekan lalu akan mendarat di edisi pekan ini tanpa
+    // penjelasan, seolah tautannya rusak. Aturan yang sama sudah lama berlaku
+    // di halaman harian; ini menyamakannya.
+    //
+    // Markup hasil rendernya KEMBAR dengan cetakan di atas. Kalau mengubah
+    // salah satu, ubah keduanya.
+    `<script src="/assets/js/pekanan-arsip.js?v=${VER}" defer></script>` +
+    `<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var m = location.search.match(/[?&]edisi=([0-9]{4}-[0-9]{2}-[0-9]{2})/);
+  if (!m) return;
+  var wadah = document.getElementById('pekan-isi');
+  if (!wadah || m[1] === wadah.getAttribute('data-edisi')) return;
+  var arsip = (typeof PEKANAN_ARSIP === 'undefined') ? [] : PEKANAN_ARSIP;
+  var e = null;
+  for (var i = 0; i < arsip.length; i++) if (arsip[i].tanggal === m[1]) e = arsip[i];
+  var esc = TS.esc;
+  if (!e) {
+    var p = document.createElement('p');
+    p.className = 'harian-arsip-note';
+    p.innerHTML = 'Edisi pekan ' + esc(m[1]) + ' sudah tidak ada di arsip situs ini. ' +
+      'Yang tampil di bawah adalah edisi terbaru; edisi lama tersimpan di ' +
+      '<a href="https://buttondown.com/the-signal/archive" target="_blank" rel="noopener">arsip Buttondown</a>.';
+    wadah.insertBefore(p, wadah.firstChild);
+    return;
+  }
+  var hari = ['Minggu','Senin','Selasa','Rabu','Kamis','Jumat','Sabtu'];
+  var bulan = ['Januari','Februari','Maret','April','Mei','Juni','Juli','Agustus','September','Oktober','November','Desember'];
+  function labelHari(iso) {
+    var d = new Date(iso + 'T00:00:00Z');
+    if (isNaN(d.getTime())) return iso;
+    return hari[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + bulan[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+  }
+  wadah.innerHTML =
+    '<p class="harian-arsip-note">Kamu membaca edisi arsip. <a href="/signal-pekanan.html">Buka edisi terbaru &rarr;</a></p>' +
+    '<div class="harian-head">' +
+    '<span class="harian-kicker">Signal Pekanan</span>' +
+    '<h1 class="harian-judul">' + esc(e.judul) + '</h1>' +
+    '<p class="harian-tanggal num">Pekan ' + esc(e.rentangLabel) + ' &middot; dirangkai dari ' +
+      e.jumlahEdisi + ' edisi harian dan ' + e.jumlahBerita + ' berita</p>' +
+    '<p class="harian-ringkas">' + esc(e.ringkas) + '</p></div>' +
+    '<div class="harian-benang">' + (e.pola || []).map(function (p, i) {
+      return '<article class="benang"><span class="benang-num num">' + String(i + 1).padStart(2, '0') + '</span>' +
+        '<div><h2>' + esc(p.judul) + '</h2><p>' + esc(p.isi) + '</p></div></article>';
+    }).join('') + '</div>' +
+    ((e.menanti || []).length
+      ? '<div class="pekan-menanti"><h2 class="pekan-menanti-judul">Yang menanti pekan depan</h2>' +
+        e.menanti.map(function (m) {
+          return '<article class="menanti-item"><span class="menanti-tgl num">' + esc(labelHari(m.tanggal)) + '</span>' +
+            '<div><b>' + esc(m.apa) + '</b><p>' + esc(m.kenapa) + '</p></div></article>';
+        }).join('') + '<a class="card-link" href="/agenda.html">Lihat seluruh agenda &rarr;</a></div>'
+      : '') +
+    (e.penutup ? '<p class="harian-penutup">' + esc(e.penutup) + '</p>' : '');
+  document.title = 'Signal Pekanan ' + e.rentangLabel + ' · The Signal';
+});
+</script>`;
 
   fs.writeFileSync(path.join(ROOT, 'signal-pekanan.html'),
     head({

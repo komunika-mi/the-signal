@@ -17,7 +17,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, readData, readObjek } from './lib.mjs';
+import { ROOT, log, readData, readObjek, arahDeret } from './lib.mjs';
 import { tulisPekanan } from './rewrite.mjs';
 import { agendaGabungan } from './agenda-sinyal.mjs';
 
@@ -55,14 +55,14 @@ function rakitAngka() {
     for (const ind of Object.values((bps && bps.indikator) || {})) {
       const t = ind.titik || [];
       if (!t.length) continue;
-      const akhir = t[t.length - 1], enam = t.slice(-6);
-      let arah = '';
-      if (enam.length >= 3) {
-        const naik = enam.slice(1).filter((x, i) => x.nilai > enam[i].nilai).length;
-        const turun = enam.slice(1).filter((x, i) => x.nilai < enam[i].nilai).length;
-        arah = ', ' + (naik > turun ? 'cenderung naik' : turun > naik ? 'cenderung turun' : 'mendatar') +
-          ' dalam ' + enam.length + ' periode terakhir';
-      }
+      const akhir = t[t.length - 1];
+      // Arahnya dihitung arahDeret() di lib.mjs, satu-satunya tempat aturan itu
+      // hidup sekarang. Cara lama mencacah langkah naik lawan langkah turun
+      // dan buta terhadap besaran, sehingga label yang MASUK KE KONTEKS MODEL
+      // bisa berlawanan dengan datanya sendiri: nilai impor naik 22 persen
+      // sepanjang jendela tapi diberi label "cenderung turun".
+      const { label, jumlah } = arahDeret(t);
+      const arah = label ? ', ' + label + ' dalam ' + jumlah + ' periode terakhir' : '';
       baris.push('- ' + ind.nama + ': ' + akhir.nilai + ' ' + (ind.satuan || '') +
         ' (' + akhir.periode + ' ' + akhir.tahun + ')' + arah);
     }

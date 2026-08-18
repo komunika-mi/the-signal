@@ -580,3 +580,36 @@ export function fmtTanggalHari(iso) {
 export function idNum(n, dec = 2) {
   return Number(n).toLocaleString('id-ID', { minimumFractionDigits: dec, maximumFractionDigits: dec });
 }
+
+// Arah sebuah deret indikator: 'cenderung naik', 'cenderung turun', atau
+// 'mendatar', dihitung dari BESAR perubahannya.
+//
+// MENGGANTI cara lama yang salah dan sempat dipakai di TIGA berkas sekaligus:
+// mencacah berapa kali deret melangkah naik lawan berapa kali melangkah turun.
+// Cara itu buta terhadap besaran, jadi deret yang merosot tipis tiga kali lalu
+// melonjak dua kali dihitung "turun 3 lawan naik 2" walau berakhir jauh lebih
+// tinggi. Nyatanya terjadi: nilai impor Januari 21.201,4 ke Juni 25.909,2, naik
+// 22 persen, dilabeli "cenderung turun"; neraca perdagangan +954,3 ke -450,5,
+// berbalik dari surplus ke defisit, dilabeli "cenderung naik". Label itu bukan
+// cuma tampil di tabel email, tapi ikut disuapkan sebagai konteks ke perangkai
+// edisi, jadi pembacaan arahnya berpijak pada keterangan yang terbalik.
+//
+// Yang dipakai sekarang rata-rata separuh awal lawan rata-rata separuh akhir,
+// bukan titik pertama lawan titik terakhir, supaya satu bulan anomali di ujung
+// tidak menentukan seluruh label.
+//
+// Ambangnya relatif terhadap rata-rata NILAI MUTLAK jendela, bukan terhadap
+// nilai awal. Neraca perdagangan melewati nol, dan pembagi yang mendekati nol
+// membuat perubahan sekecil apa pun tampak raksasa.
+export function arahDeret(titik, n = 6) {
+  const t = (titik || []).filter(x => x && Number.isFinite(Number(x.nilai))).slice(-n);
+  if (t.length < 3) return { label: '', jumlah: t.length };
+  const v = t.map(x => Number(x.nilai));
+  const rata = a => a.reduce((s, x) => s + x, 0) / a.length;
+  const separuh = Math.floor(v.length / 2);
+  const selisih = rata(v.slice(-separuh)) - rata(v.slice(0, separuh));
+  const skala = rata(v.map(Math.abs)) || 1;
+  const label = Math.abs(selisih) < 0.02 * skala ? 'mendatar'
+    : selisih > 0 ? 'cenderung naik' : 'cenderung turun';
+  return { label, jumlah: t.length };
+}

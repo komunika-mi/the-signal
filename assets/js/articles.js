@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",
   "deck": "Kemendag menaikkan harga patokan ekspor dan referensi emas 0,65 persen untuk periode 15-31 Agustus 2026, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-acuan-ekspor-emas-ri-naik-0-65-persen.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T09:02:33+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460661-harga-emas-acuan-ekspor-ri-naik-permintaan-global-jadi-pemicunya",
@@ -27,7 +27,141 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah harga patokan ekspor emas naik 0,65 persen menjadi 131.777,67 dolar AS per kilogram, sementara harga referensinya naik menjadi 4.098,75 dolar AS per troy ons, satuan berat yang lazim dipakai untuk emas, berlaku untuk paruh kedua Agustus 2026. Harga patokan ekspor ini yang dipakai pemerintah untuk menghitung bea keluar, semacam pajak saat emas dikirim ke luar negeri, sehingga kenaikannya berarti biaya ekspor lebih mahal bagi perusahaan tambang emas. Kemendag menyebut pemicunya investor global yang memindahkan dananya dari instrumen seperti deposito ke emas, karena bunga acuan dunia sedang turun dan membuat bunga deposito kurang menarik dibanding menyimpan emas sebagai pelindung nilai aset. Kalau tren penurunan suku bunga global ini berlanjut, harga emas dan bea keluar ekspornya kemungkinan akan terus naik pada periode-periode berikutnya, bukan sekadar kenaikan sesaat. Yang akan memastikan arah ini adalah penetapan HPE dan HR emas periode berikutnya awal September 2026.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "msy2o63g"
+ },
+ {
+  "slug": "mdia-bursa-ungkap-konsentrasi-saham-capai-94-31",
+  "category": "Aksi Korporasi",
+  "title": "MDIA: Bursa Ungkap [Konsentrasi] Saham Capai 94,31%",
+  "deck": "Bursa Efek Indonesia mengumumkan 94,31 persen saham MDIA dikuasai segelintir pemegang saham per 12 Agustus 2026, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
+  "image": "assets/img/mdia-bursa-ungkap-konsentrasi-saham-capai-94-31.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T08:59:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2cc75f068d_3ee22ec282.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDIA",
+  "tags": [
+   "MDIA",
+   "kepemilikan saham",
+   "BEI",
+   "likuiditas saham"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia menerbitkan pengumuman resmi bernomor Peng-HSC-00058/BEI.WAS/08-2026 pada 18 Agustus 2026 pukul 08.59 WIB, menyatakan saham PT Intermedia Capital Tbk (MDIA) yang tercatat di Papan Pengembangan masuk kategori Kepemilikan Saham Terkonsentrasi Tinggi. Berdasarkan data PT Kustodian Sentral Efek Indonesia (KSEI) per 12 Agustus 2026, saham MDIA baik dalam bentuk warkat maupun tanpa warkat (scripless) secara agregat dikuasai 94,31 persen oleh sejumlah tertentu pemegang saham yang tidak disebutkan namanya dalam dokumen ini.",
+   "Dokumen tersebut, yang diberi tanggal 14 Agustus 2026, ikut ditandatangani oleh Direktur BEI Yulianto Aji Sadono dan Direktur KSEI Eqy Essiqy. Keduanya menegaskan bahwa status kepemilikan terkonsentrasi ini merupakan hasil metodologi baku bursa dan tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan di bidang pasar modal. Dengan kata lain, pengumuman ini bersifat informatif, bukan sanksi atau temuan pelanggaran."
+  ],
+  "fotoAdegan": "Wide shot of a mostly empty modern Jakarta stock brokerage floor, a few employees at scattered desks, computer screens blurred in the background, quiet atmosphere.",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik MDIA, sebab intinya adalah peringatan likuiditas, bukan soal kinerja usaha: 94,31 persen saham dikuasai segelintir pihak yang tidak disebutkan namanya, menyisakan sekitar 5,69 persen saja yang benar-benar berpindah tangan bebas di pasar. Yang tersentuh di sini adalah jumlah saham yang beredar bebas, ukuran yang menentukan seberapa mudah investor membeli atau menjual MDIA tanpa membuat harganya melompat naik turun; kalau porsi bebas itu terlalu tipis, transaksi dalam jumlah kecil saja bisa menggerakkan harga secara tidak wajar. Bursa sendiri menegaskan status ini bukan bukti pelanggaran aturan pasar modal, tapi pengumuman semacam ini biasanya jadi pintu masuk bagi otoritas untuk meminta penjelasan tambahan dari emiten atau memperketat pengawasan transaksi harian saham MDIA, dan itu yang perlu dicermati pembaca dalam waktu dekat.",
+  "sentimen": "negatif",
+  "imageV": "msy2oqrl"
+ },
+ {
+  "slug": "bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Rampungkan [Pengalihan] Aset Pinjaman dari SMBC Indonesia",
+  "deck": "BTN merampungkan pembelian aset pinjaman pensiunan dan karyawan dari Bank SMBC Indonesia lewat akta cessie pada 14 Agustus 2026, menambah portofolio kredit perseroan.",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T08:32:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87da6e7163_e74562d4b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "Bank Tabungan Negara",
+   "SMBC Indonesia",
+   "aset pinjaman"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk atau BBTN menyelesaikan transaksi pengalihan aset pinjaman bersyarat dengan PT Bank SMBC Indonesia Tbk (SMBCI) pada 14 Agustus 2026. Transaksi ini melanjutkan perjanjian yang sudah diumumkan sejak 25 Mei 2026, yaitu Conditional Loan Asset Transfer Agreement atau CLATA, di mana SMBCI berperan sebagai penjual dan BTN sebagai pembeli. Aset yang dialihkan berupa pinjaman kepada pensiunan dan pra pensiunan yang manfaat pensiunnya dikelola ASABRI serta dana pensiun lain, ditambah pinjaman karyawan aktif.",
+   "Menurut keterbukaan informasi yang disampaikan Corporate Secretary Division Head BTN, Ramon Armando, seluruh syarat pendahuluan dalam CLATA sudah dipenuhi atau dikesampingkan sehingga pada 14 Agustus 2026 BTN dan SMBCI menandatangani akta cessie di hadapan notaris. BTN juga sudah membayar harga pembelian aset pinjaman tersebut kepada SMBCI, meski dokumen tidak mencantumkan nilai transaksinya. Perseroan menegaskan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan sebagaimana diatur POJK Nomor 42/POJK.04/2020.",
+   "BTN menyebut dampak dari rampungnya transaksi ini adalah bertambahnya total aset perseroan, khususnya di sisi portofolio kredit, yang menurut perseroan berpotensi mendukung kelangsungan dan pertumbuhan bisnis ke depan."
+  ],
+  "fotoAdegan": "Elderly Indonesian pensioners seated in a bank waiting area while a teller assists them at the counter, soft indoor lighting",
+  "takeaway": "Laporan ini condong netral bagi BTN, sebab perseroan mengklaim dampaknya positif terhadap total aset dan portofolio kredit, tetapi tidak ada satu pun angka nilai transaksi atau jumlah nasabah yang dialihkan yang diungkap, sehingga besar kecilnya dampak itu belum bisa diukur pembaca. Yang tersentuh dari sisi kinerja adalah portofolio kredit dan total aset, dua pos yang menentukan seberapa besar potensi pendapatan bunga bank ke depan, karena pinjaman yang dibeli menjadi aset produktif baru di neraca BTN. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan memperlihatkan berapa besar nilai aset pinjaman ini menambah portofolio kredit BTN dan bagaimana kualitasnya, mengingat sebagian besar berasal dari pinjaman pensiunan yang punya profil risiko berbeda dari kredit komersial biasa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Divestasi 51,95% Saham DPI ke SFC, Ubah [Pengendalian]",
+  "deck": "PT Surya Fajar Corpora, pemegang saham SFAN, berencana mengambil alih 51,95% saham anak usaha DPI dari SFAN sehingga pengendalian DPI beralih ke induk usaha.",
+  "image": "assets/img/sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T08:16:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fb0a235cee_d17e2fd305.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SFAN",
+  "tags": [
+   "SFAN",
+   "PT Surya Fajar Capital",
+   "DPI",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Surya Fajar Capital Tbk (SFAN) melaporkan kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan bahwa Perseroan berencana merestrukturisasi entitas anaknya, PT Digitalisasi Perangkat Indonesia (DPI), yang selama ini 51,95 persen sahamnya dimiliki SFAN. Dalam rencana itu, PT Surya Fajar Corpora (SFC), yang merupakan pemegang saham SFAN sendiri, akan mengambil alih seluruh 51,95 persen saham DPI tersebut langsung dari SFAN. Laporan bernomor 059/SFC-CS/VIII/2026 tertanggal 18 Agustus 2026 itu ditandatangani Ivo Rustandi selaku Direktur Utama SFAN, dengan tujuan transaksi disebutkan untuk restrukturisasi grup dalam rangka menyederhanakan struktur usaha.",
+   "Pengumuman resmi pengambilalihan saham DPI, yang diterbitkan sesuai Pasal 127 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, menyebutkan transaksi ini akan mengakibatkan beralihnya pengendalian dalam DPI dari SFAN ke SFC. Kreditur atau pihak berkepentingan yang keberatan atas rencana ini diberi waktu paling lambat 14 hari sejak tanggal pengumuman, yakni sampai sekitar 1 September 2026, untuk menyampaikan keberatan tertulis beserta alasannya ke alamat DPI di Indonesia Stock Exchange Tower II Lantai 17, Jalan Jenderal Sudirman Kavling 52-53, Jakarta Selatan.",
+   "SFAN menyatakan tidak ada dampak material dari rencana ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan. Dokumen yang diterima IDX tidak mencantumkan nilai transaksi pengalihan saham tersebut."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's central business district, late afternoon light, wide street-level angle",
+  "takeaway": "Laporan ini condong netral bagi Surya Fajar Capital, karena saham DPI berpindah ke sesama pihak dalam satu grup usaha, yakni pemegang saham SFAN sendiri, tanpa nilai transaksi yang diungkap sehingga tidak bisa dipastikan untung atau rugi finansial bagi Perseroan. Yang tersentuh adalah ekuitas dan aset dalam laporan keuangan konsolidasi SFAN, sebab begitu pengendalian DPI beralih ke SFC, kinerja DPI tidak lagi ikut digabung ke laporan keuangan Perseroan, padahal empat hari sebelumnya DPI baru saja melunasi pinjaman Rp13,88 miliar ke SFAN. Yang perlu dipantau berikutnya adalah masa keberatan 14 hari sejak pengumuman 18 Agustus 2026, yang berakhir sekitar 1 September 2026, bagi kreditur atau pihak berkepentingan terhadap DPI, serta kelanjutan proses hukum pengalihan saham setelah masa itu berakhir.",
+  "sentimen": "netral",
+  "imageV": "msy2pbt0"
+ },
+ {
+  "slug": "sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997",
+  "category": "Aksi Korporasi",
+  "title": "SFAN: DPI Suntik Rp2 Miliar ke BAI, Kuasai [99,997%]",
+  "deck": "Anak usaha SFAN, DPI, menambah modal Rp2 miliar ke BAI sehingga kepemilikannya naik dari 51,95 persen menjadi 99,997 persen, memenuhi ketentuan modal minimum OJK untuk layanan pendanaan bersama.",
+  "image": "assets/img/sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T08:12:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a5b1b87d55_c6ecb79c5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SFAN",
+  "tags": [
+   "SFAN",
+   "OJK",
+   "penambahan modal",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Surya Fajar Capital Tbk (SFAN) melaporkan bahwa entitas anak usahanya, PT Digitalisasi Perangkat Indonesia (DPI), menambah penyertaan modal sebesar Rp2 miliar ke PT Bursa Akselerasi Indonesia (BAI). Dengan suntikan ini, kepemilikan DPI di BAI naik dari sebelumnya 51,95 persen menjadi 99,997 persen, hampir menjadikan BAI sepenuhnya dikuasai DPI. Peristiwa ini tercatat pada 14 Agustus 2026 dan dilaporkan ke Otoritas Jasa Keuangan (OJK) oleh Direktur Utama SFAN, Ivo Rustandi, pada 18 Agustus 2026.",
+   "Perusahaan menjelaskan tujuan penambahan modal ini adalah memenuhi Peraturan OJK Nomor 40 Tahun 2024 tentang Layanan Pendanaan Bersama Berbasis Teknologi Informasi, yang mewajibkan penyelenggara seperti BAI memiliki ekuitas minimum Rp12,5 miliar. Dalam surat terpisah ke OJK yang ditandatangani Direktur SFAN, Rico Lesmana Sulistyo, disebutkan transaksi ini tergolong Transaksi Afiliasi sesuai POJK Nomor 42/POJK.04/2020, namun dikecualikan dari kewajiban memakai laporan penilai independen berdasarkan Pasal 6 ayat (1) huruf a beleid tersebut. Nilai transaksi juga disebutkan berada di bawah 20 persen ekuitas Perseroan, sehingga tidak masuk kategori Transaksi Material menurut POJK Nomor 17/POJK.04/2020 yang mengharuskan persetujuan pemegang saham.",
+   "Surat pengantar keterbukaan informasi ini ditandatangani Corporate Secretary SFAN, Marianto, dan ditembuskan ke Bursa Efek Indonesia. Perseroan menegaskan transaksi ini tidak berdampak material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha SFAN secara konsolidasi."
+  ],
+  "fotoAdegan": "Employees reviewing paperwork at a glass meeting table in a modern Jakarta office tower, soft afternoon light through windows",
+  "takeaway": "Laporan ini condong netral bagi Surya Fajar Capital, sebab transaksinya adalah pemenuhan syarat modal minimum yang diwajibkan regulator untuk unit pendanaan bersama, bukan sinyal soal kinerja atau prospek bisnis inti grup. Pos yang tersentuh adalah ekuitas, yakni modal sendiri BAI yang bertambah Rp2 miliar dari DPI sehingga menyentuh ambang Rp12,5 miliar yang diwajibkan OJK, ekuitas yang lebih tebal ini penting karena menjadi bantalan kalau perusahaan pendanaan bersama merugi atau kesulitan membayar kewajibannya ke penyedia dana. Perseroan sendiri menyatakan tidak ada dampak material ke operasional maupun keuangan grup, dan nilai transaksinya juga di bawah 20 persen ekuitas Perseroan sehingga tidak memerlukan persetujuan pemegang saham. Yang perlu dipantau berikutnya adalah apakah pemenuhan modal ini kemudian diikuti izin atau kelanjutan operasional BAI dari OJK sebagai penyelenggara layanan pendanaan bersama berbasis teknologi, karena dokumen ini menyebut pemenuhan modal minimum sebagai syarat dari regulasi tersebut.",
+  "sentimen": "netral",
+  "imageV": "msy2pvc7"
+ },
+ {
+  "slug": "pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank",
+  "category": "Aksi Korporasi",
+  "title": "PADA Kantongi Pinjaman [Rp5 Miliar] dari Bank Hibank",
+  "deck": "PADA meneken pinjaman modal kerja Rp5 miliar dari Bank Hibank Indonesia untuk proyek penarikan kabel fiber optic, bunga 10 persen dibayar sekaligus di akhir masa 12 bulan.",
+  "image": "assets/img/pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T07:29:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d2b74988e3_4b787fff56.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADA",
+  "tags": [
+   "PADA",
+   "pinjaman bank",
+   "Bank Hibank Indonesia",
+   "fiber optic"
+  ],
+  "body": [
+   "PT Personel Alih Daya Tbk (PADA) menandatangani perjanjian pinjaman dengan PT Bank Hibank Indonesia pada 18 Agustus 2026. Pinjaman ini berbentuk Pinjaman Berjangka Supply Chain Financing (SCF), merujuk pada formulir aplikasi kredit yang diajukan Perseroan sejak 20 Juli 2026. Dalam perjanjian ini, PADA berkedudukan sebagai debitur dan Hibank sebagai kreditur, dengan dana pinjaman ditujukan sebagai modal kerja untuk pekerjaan penarikan kabel fiber optic.",
+   "Nilai fasilitas kredit yang diperoleh sebesar Rp5 miliar, dengan bunga 10 persen per tahun. Bunga itu dibayarkan sekaligus di akhir masa pinjaman (bullet payment), bukan dicicil setiap bulan seperti kredit pada umumnya. Jangka waktu pinjaman ditetapkan maksimum 12 bulan, dihitung sejak tanggal pencairan pertama dana.",
+   "Perseroan menyebut nilai pinjaman ini setara 4,1 persen dari ekuitas perusahaan, sehingga transaksi digolongkan bukan transaksi material berdasarkan Pasal 3 POJK Nomor 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Karena pinjaman diterima langsung dari bank, transaksi ini juga tidak wajib menggunakan jasa penilai independen maupun memperoleh persetujuan Rapat Umum Pemegang Saham sesuai Pasal 11 beleid yang sama. Manajemen menyatakan tidak ada dampak material terhadap kondisi keuangan Perseroan, selain munculnya kewajiban membayar bunga dan pokok pinjaman kepada bank."
+  ],
+  "fotoAdegan": "Technicians in safety vests installing fiber optic cable from a spool along an urban roadside, cherry picker truck, daylight",
+  "takeaway": "Perjanjian ini tergolong netral bagi PADA karena nilainya kecil dibanding ukuran perusahaan, hanya 4,1 persen dari ekuitas, dan dokumen menyebutnya bukan transaksi material sehingga tidak perlu persetujuan pemegang saham. Yang perlu dicermati adalah pos beban bunga, sebab bunga 10 persen per tahun di sini dibayar sekaligus di akhir masa pinjaman alih-alih dicicil tiap bulan, artinya di ujung masa pinjaman Perseroan harus menyiapkan dana tunai yang lebih besar sekaligus untuk melunasi bunga dan pokok. Ini menambah beban bunga di laporan laba rugi tahun berjalan, meski manajemen menyebut tidak ada dampak material ke kondisi keuangan secara keseluruhan. Yang perlu dipantau selanjutnya adalah realisasi proyek penarikan kabel fiber optic yang didanai pinjaman ini, serta batas waktu pelunasan pinjaman yaitu maksimum 12 bulan sejak tanggal pencairan pertama dana.",
+  "sentimen": "netral",
+  "imageV": "msy2qhn9"
  },
  {
   "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
@@ -55,6 +189,86 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan soal rencana industrinya, melainkan status sikap BASSRA: organisasi ulama pesantren se-Madura ini menegaskan belum ada keputusan resmi menolak, dan yang selama ini beredar cuma pandangan pribadi dalam rapat internal. Yang terdampak adalah proses rencana pembangunan industri di Bangkalan itu sendiri, karena dukungan atau penolakan ulama pesantren biasanya ikut menentukan bagaimana warga Madura menyikapi proyek semacam ini. Berita ini belum menyebut detail rencana industrialisasi tersebut, seperti sektornya, nilai investasinya, atau siapa pemrakarsanya, sehingga arah sikap BASSRA ke depan masih sulit dibaca dari sini. Yang perlu ditunggu adalah hasil konsultasi BASSRA dengan ulama, tokoh masyarakat, dan kalangan intelektual yang disebut akan jadi dasar sebelum organisasi ini mengambil sikap resmi, karena dari situ baru terlihat apakah arahnya mendukung, menolak, atau meminta syarat tertentu.",
   "imageV": "msxv4l5z"
+ },
+ {
+  "slug": "etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru",
+  "category": "Aksi Korporasi",
+  "title": "ETF Emas Syariah XSGO Catat [Penambahan] 600.000 Unit Baru",
+  "deck": "Bursa mencatat penambahan 600.000 unit penyertaan ETF Sharia Gold Syailendra (XSGO), menambah total unit beredar dari 1,6 juta jadi 2,2 juta unit mulai 18 Agustus 2026.",
+  "image": "assets/img/etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T00:53:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6461b21e11_38f58859af.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XSGO",
+  "tags": [
+   "XSGO",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan tambahan 600.000 unit penyertaan Reksa Dana Syariah Syailendra ETF Sharia Gold dengan kode XSGO. Dengan tambahan ini, total unit penyertaan yang tercatat di bursa naik dari 1.600.000 unit menjadi 2.200.000 unit. Pencatatan dan perdagangan unit tambahan ini mulai berlaku 18 Agustus 2026, sesuai pengumuman bursa nomor Peng-P-00848/BEI.PP3/08-2026 yang diteken Kadiv Penilaian Perusahaan 3 Lidia M. Panjaitan dan Kadiv Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A.",
+   "Penambahan unit ini merujuk pada laporan resmi manajer pengelola reksa dana bernomor 01634/SK-OPR/VIII/2026 tertanggal 13 Agustus 2026. Dalam laporan itu disebutkan jumlah unit penyertaan beredar sebelumnya sebanyak 1.600.000 unit, bertambah 600.000 unit tanpa ada unit yang dikurangi atau dihapuskan, sehingga totalnya menjadi 2.200.000 unit. Laporan ditandatangani oleh Eko dari pihak pengelola reksa dana, tanpa jabatan spesifik yang dicantumkan dalam dokumen."
+  ],
+  "fotoAdegan": "Stacked gold bars inside a secure vault, dim directional lighting reflecting off the metal surfaces, close angle",
+  "takeaway": "Penambahan unit ini condong positif bagi pengelola reksa dana, karena mencerminkan masuknya dana baru dari investor yang membeli unit ETF emas syariah ini, bukan tanda pelemahan permintaan. Yang tersentuh di sini adalah jumlah unit penyertaan beredar, yaitu total 'lembar' kepemilikan reksa dana yang ada di pasar. Untuk reksa dana berbasis emas seperti ini, unit baru biasanya diterbitkan sepadan dengan tambahan emas fisik yang disetor ke dalam portofolio, sehingga nilai per unit bagi pemegang lama semestinya tidak ikut terdilusi. Kenaikan 37,5 persen dari 1,6 juta menjadi 2,2 juta unit dalam waktu singkat tergolong signifikan untuk fund sebesar ini, meski dokumen tidak menjelaskan siapa yang membeli unit tambahan tersebut. Yang perlu dipantau berikutnya adalah apakah tren penambahan unit ini berlanjut pada pengumuman serupa di periode mendatang, karena unit tambahan ini baru mulai diperdagangkan di bursa pada 18 Agustus 2026.",
+  "sentimen": "positif",
+  "imageV": "msy2r5v4"
+ },
+ {
+  "slug": "tays-direktur-benny-anwar-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "TAYS: Direktur Benny Anwar [Mundur], Tunggu RUPS",
+  "deck": "PT Jaya Swarasa Agung Tbk melaporkan pengunduran diri Benny Anwar dari kursi Direktur Perseroan, efektif setelah disetujui RUPS yang jadwalnya belum ditentukan.",
+  "image": "assets/img/tays-direktur-benny-anwar-mundur-tunggu-rups.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T23:28:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/675361a014_a132e969a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAYS",
+  "tags": [
+   "TAYS",
+   "direksi",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Jaya Swarasa Agung Tbk (TAYS) menyampaikan keterbukaan informasi bahwa perseroan menerima surat pengunduran diri Benny Anwar dari jabatan Direktur Perseroan. Surat pengunduran diri itu tertanggal 31 Juli 2026 dan diterima manajemen pada 11 Agustus 2026. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan, Bursa Efek Indonesia, dan Kustodian Sentral Efek Indonesia pada 17 Agustus 2026 malam.",
+   "Berdasarkan Pasal 11 ayat 7 Anggaran Dasar Perseroan dan Pasal 8 ayat 3 Peraturan OJK Nomor 33/2014, pengunduran diri Benny Anwar baru berlaku efektif setelah diputuskan dalam Rapat Umum Pemegang Saham. Perseroan belum mengumumkan jadwal rapat tersebut dan menyatakan akan menyampaikannya secara terpisah. Manajemen juga menegaskan peristiwa ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Keterbukaan informasi ke publik ditandatangani oleh Direktur Utama Alexander Anwar, sementara surat resmi ke OJK ditandatangani oleh Corporate Secretary Dinna Afrianti. Dokumen tidak menjelaskan alasan pengunduran diri Benny Anwar maupun siapa yang akan menggantikan posisinya."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a vacant chair at the head of a long table, soft morning light through tall windows",
+  "takeaway": "Laporan ini netral bagi TAYS karena perseroan sendiri menyatakan tidak ada dampak operasional maupun keuangan, dan pengunduran diri itu bahkan belum sah sebelum disetujui pemegang saham. Pergantian direksi masuk ranah tata kelola perusahaan, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikannya karena stabilitas jajaran manajemen memengaruhi kepercayaan investor terhadap arah bisnis ke depan. Yang perlu dipantau berikutnya adalah jadwal Rapat Umum Pemegang Saham yang akan memutuskan sah tidaknya pengunduran diri ini, termasuk kemungkinan pengumuman pengganti Benny Anwar, karena perseroan belum menyebutkan tanggalnya.",
+  "sentimen": "netral",
+  "imageV": "msy2rral"
+ },
+ {
+  "slug": "uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus",
+  "category": "Aksi Korporasi",
+  "title": "UANG Jadwalkan RUPSLB 23 September, Batas Pemegang Saham [31 Agustus]",
+  "deck": "PT Pakuan Tbk mengumumkan rencana RUPSLB pada 23 September 2026 di Depok, dengan pemegang saham yang berhak hadir dicatat per 31 Agustus 2026.",
+  "image": "assets/img/uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus.jpg",
+  "date": "17 Agustus 2026",
+  "isoDate": "2026-08-17T23:06:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3bd6dc1854_32dc24e22b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "Pakuan",
+   "Rapat Pemegang Saham"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) menyampaikan pemberitahuan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) melalui surat bernomor 053/DIR-LGL/PAKUAN/VIII/2026, merujuk pada surat sebelumnya nomor 051/DIR-LGL/PAKUAN/VIII/2026. RUPSLB dijadwalkan berlangsung pada Rabu, 23 September 2026 pukul 10.00 WIB di Club House Shila Sawangan, Jalan Golf No. 7, Sawangan, Kota Depok.",
+   "Perseroan menetapkan 31 Agustus 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam RUPSLB tersebut. Artinya, hanya investor yang tercatat sebagai pemegang saham UANG pada tanggal itu yang berhak datang dan memberikan suara dalam rapat. Dokumen yang diterbitkan pada 17 Agustus 2026 ini baru berupa pemberitahuan rencana dan belum memuat agenda atau mata acara yang akan dibahas dalam rapat.",
+   "Pemberitahuan ini ditandatangani secara elektronik oleh Asa Nisi Siahaan selaku Corporate Secretary PT Pakuan Tbk."
+  ],
+  "fotoAdegan": "Golf clubhouse function room being arranged with rows of chairs before a corporate meeting, large windows, soft morning light",
+  "takeaway": "Pemberitahuan ini netral bagi penilaian fundamental Pakuan, karena baru sebatas jadwal rapat tanpa rincian agenda yang akan dibahas. Dampaknya ke pos-pos kinerja seperti jumlah saham beredar, ekuitas, atau pembagian keuntungan ke pemegang saham baru bisa dinilai setelah agenda resmi RUPSLB diumumkan, sebab RUPSLB bisa membahas berbagai hal mulai dari perubahan modal, pergantian direksi, hingga aksi korporasi lain. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB berisi agenda lengkap, tanggal pencatatan pemegang saham pada 31 Agustus 2026, dan pelaksanaan rapat pada 23 September 2026 di Depok.",
+  "sentimen": "netral",
+  "imageV": "msy2sbhg"
  },
  {
   "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",

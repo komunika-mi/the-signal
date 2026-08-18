@@ -10,7 +10,8 @@ var ARTICLES = [
   "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",
   "deck": "Kemendag menaikkan harga patokan ekspor dan referensi emas 0,65 persen untuk periode 15-31 Agustus 2026, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-acuan-ekspor-emas-ri-naik-0-65-persen.jpg",
+  "imageV": "msy2o63g",
   "tags": [
    "harga emas",
    "HPE emas",
@@ -18,6 +19,90 @@ var ARTICLES = [
    "Kemendag"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460661-harga-emas-acuan-ekspor-ri-naik-permintaan-global-jadi-pemicunya"
+ },
+ {
+  "slug": "mdia-bursa-ungkap-konsentrasi-saham-capai-94-31",
+  "category": "Aksi Korporasi",
+  "title": "MDIA: Bursa Ungkap [Konsentrasi] Saham Capai 94,31%",
+  "deck": "Bursa Efek Indonesia mengumumkan 94,31 persen saham MDIA dikuasai segelintir pemegang saham per 12 Agustus 2026, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/mdia-bursa-ungkap-konsentrasi-saham-capai-94-31.jpg",
+  "imageV": "msy2oqrl",
+  "tags": [
+   "MDIA",
+   "kepemilikan saham",
+   "BEI",
+   "likuiditas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2cc75f068d_3ee22ec282.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Rampungkan [Pengalihan] Aset Pinjaman dari SMBC Indonesia",
+  "deck": "BTN merampungkan pembelian aset pinjaman pensiunan dan karyawan dari Bank SMBC Indonesia lewat akta cessie pada 14 Agustus 2026, menambah portofolio kredit perseroan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "tags": [
+   "BBTN",
+   "Bank Tabungan Negara",
+   "SMBC Indonesia",
+   "aset pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87da6e7163_e74562d4b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian",
+  "category": "Aksi Korporasi",
+  "title": "SFAN Divestasi 51,95% Saham DPI ke SFC, Ubah [Pengendalian]",
+  "deck": "PT Surya Fajar Corpora, pemegang saham SFAN, berencana mengambil alih 51,95% saham anak usaha DPI dari SFAN sehingga pengendalian DPI beralih ke induk usaha.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian.jpg",
+  "imageV": "msy2pbt0",
+  "tags": [
+   "SFAN",
+   "PT Surya Fajar Capital",
+   "DPI",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fb0a235cee_d17e2fd305.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997",
+  "category": "Aksi Korporasi",
+  "title": "SFAN: DPI Suntik Rp2 Miliar ke BAI, Kuasai [99,997%]",
+  "deck": "Anak usaha SFAN, DPI, menambah modal Rp2 miliar ke BAI sehingga kepemilikannya naik dari 51,95 persen menjadi 99,997 persen, memenuhi ketentuan modal minimum OJK untuk layanan pendanaan bersama.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997.jpg",
+  "imageV": "msy2pvc7",
+  "tags": [
+   "SFAN",
+   "OJK",
+   "penambahan modal",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a5b1b87d55_c6ecb79c5c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank",
+  "category": "Aksi Korporasi",
+  "title": "PADA Kantongi Pinjaman [Rp5 Miliar] dari Bank Hibank",
+  "deck": "PADA meneken pinjaman modal kerja Rp5 miliar dari Bank Hibank Indonesia untuk proyek penarikan kabel fiber optic, bunga 10 persen dibayar sekaligus di akhir masa 12 bulan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank.jpg",
+  "imageV": "msy2qhn9",
+  "tags": [
+   "PADA",
+   "pinjaman bank",
+   "Bank Hibank Indonesia",
+   "fiber optic"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d2b74988e3_4b787fff56.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
@@ -35,6 +120,57 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460635-badan-silaturahmi-ulama-pesantren-madura-bassra-bersuara-soal-rencana-pembangunan-industri-di-bangkalan"
+ },
+ {
+  "slug": "etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru",
+  "category": "Aksi Korporasi",
+  "title": "ETF Emas Syariah XSGO Catat [Penambahan] 600.000 Unit Baru",
+  "deck": "Bursa mencatat penambahan 600.000 unit penyertaan ETF Sharia Gold Syailendra (XSGO), menambah total unit beredar dari 1,6 juta jadi 2,2 juta unit mulai 18 Agustus 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru.jpg",
+  "imageV": "msy2r5v4",
+  "tags": [
+   "XSGO",
+   "ETF emas",
+   "reksa dana syariah",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6461b21e11_38f58859af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tays-direktur-benny-anwar-mundur-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "TAYS: Direktur Benny Anwar [Mundur], Tunggu RUPS",
+  "deck": "PT Jaya Swarasa Agung Tbk melaporkan pengunduran diri Benny Anwar dari kursi Direktur Perseroan, efektif setelah disetujui RUPS yang jadwalnya belum ditentukan.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/tays-direktur-benny-anwar-mundur-tunggu-rups.jpg",
+  "imageV": "msy2rral",
+  "tags": [
+   "TAYS",
+   "direksi",
+   "pengunduran diri",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/675361a014_a132e969a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus",
+  "category": "Aksi Korporasi",
+  "title": "UANG Jadwalkan RUPSLB 23 September, Batas Pemegang Saham [31 Agustus]",
+  "deck": "PT Pakuan Tbk mengumumkan rencana RUPSLB pada 23 September 2026 di Depok, dengan pemegang saham yang berhak hadir dicatat per 31 Agustus 2026.",
+  "date": "17 Agustus 2026",
+  "image": "assets/img/uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus.jpg",
+  "imageV": "msy2sbhg",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "Pakuan",
+   "Rapat Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3bd6dc1854_32dc24e22b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",

@@ -27,7 +27,10 @@
 // penjaga akan mengira yang satu sudah terkirim lalu membatalkannya diam-diam.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, log, BASE, readObjek, fmtTanggalHari } from './lib.mjs';
+import { ROOT, log, BASE, readObjek, fmtTanggalHari, arahDeret } from './lib.mjs';
+// Dipinjam dari mesin grafik situs supaya angka di email berbunyi sama persis
+// dengan angka di halaman: koma desimal, pemisah ribuan, satuan disederhanakan.
+import { nilaiRingkas } from './bps-grafik.mjs';
 
 const API = 'https://api.buttondown.com/v1';
 const KUNCI = (process.env.BUTTONDOWN_API_KEY || '').trim();
@@ -82,6 +85,26 @@ function muatHarian() {
   try { return JSON.parse(s.slice(i, j + 1)); } catch { return null; }
 }
 
+// Gaya judul seksi ditulis inline. Stylesheet Buttondown mengatur h1 dan h3
+// tapi TIDAK h2, jadi ukurannya jatuh ke bawaan tiap klien email dan berbeda
+// antara Gmail, Outlook, dan Apple Mail.
+const h2 = (teks) => '<h2 style="margin:28px 0 8px!important;font-size:20px;' +
+  'line-height:26px;font-weight:700;font-family:Arial,Helvetica,sans-serif">' +
+  esc(teks) + '</h2>';
+
+// Rentang pendek untuk baris subjek: "11-17 Agu". Bentuk panjangnya menghabiskan
+// 28 karakter dan mendorong isi edisi keluar dari batas potong ponsel.
+function rentangPendek(p) {
+  const BLN = ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'];
+  const r = p.rentang || {};
+  const a = new Date((r.mulai || '') + 'T00:00:00Z');
+  const b = new Date((r.selesai || p.tanggal || '') + 'T00:00:00Z');
+  if (isNaN(a.getTime()) || isNaN(b.getTime())) return p.rentangLabel || p.tanggal || '';
+  const seBulan = a.getUTCMonth() === b.getUTCMonth();
+  return a.getUTCDate() + (seBulan ? '' : ' ' + BLN[a.getUTCMonth()]) + '-' +
+    b.getUTCDate() + ' ' + BLN[b.getUTCMonth()];
+}
+
 // Badan email edisi pekanan. Bagian "yang menanti pekan depan" sengaja ikut,
 // karena justru itu yang dibaca orang Minggu sore sambil menyiapkan pekan
 // kerja; tanpa itu, edisi ini cuma jadi arsip yang sudah lewat.
@@ -89,26 +112,41 @@ function badanPekanan(p) {
   const b = [];
   if (p.ringkas) b.push('<p><strong>' + esc(p.ringkas) + '</strong></p>');
   (p.pola || []).forEach(x => {
-    if (x.judul) b.push('<h2>' + esc(x.judul) + '</h2>');
+    if (x.judul) b.push(h2(x.judul));
     if (x.isi) b.push('<p>' + esc(x.isi) + '</p>');
   });
   if ((p.menanti || []).length) {
-    b.push('<h2>Yang menanti pekan depan</h2>');
-    b.push('<ul>' + p.menanti.map(m =>
-      '<li><strong>' + esc(fmtTanggalHari(m.tanggal)) + '</strong> &middot; ' + esc(m.apa) +
-      '<br><span style="color:#6b6858">' + esc(m.kenapa) + '</span></li>').join('') + '</ul>');
+    b.push(h2('Yang menanti pekan depan'));
+    // DUA PARAGRAF per agenda, bukan satu <li> yang dipisah <br>.
+    //
+    // Buttondown menurunkan badan yang kita kirim jadi versi teks untuk klien
+    // berformat polos, dan pengubahnya MEMBUANG <br> tanpa mengganti apa pun.
+    // Di edisi 17 Agustus hasilnya kata bertabrakan pada keempat agenda:
+    // "...dari MyPertamina berakhirBerakhirnya promo dua hari ini...".
+    // <p> adalah elemen blok yang pasti jadi baris baru di kedua format.
+    (p.menanti || []).forEach(m => {
+      b.push('<p style="margin:14px 0 2px!important"><strong>' +
+        esc(fmtTanggalHari(m.tanggal)) + '</strong> &middot; ' + esc(m.apa) + '</p>');
+      if (m.kenapa) b.push('<p style="margin:0 0 14px!important;color:#6b6858">' +
+        esc(m.kenapa) + '</p>');
+    });
   }
   if (p.penutup) b.push('<p>' + esc(p.penutup) + '</p>');
   const angka = blokAngka();
   if (angka) {
-    b.push('<hr>');
-    b.push('<h2>Angka pembanding</h2>');
+    // TANPA <hr>. Pengubah teks Buttondown tidak mengenalinya dan meninggalkan
+    // "<hr/>" mentah di versi teks. Pemisahan visualnya sudah dikerjakan judul
+    // seksi dan jarak antarparagraf.
+    b.push(h2('Angka pembanding'));
     b.push('<p style="font-size:13px;color:#6b6858">Dipakai untuk menguji sendiri ' +
       'pembacaan arah di atas.</p>');
     b.push(angka);
   }
-  b.push('<hr>');
-  b.push('<p><a href="' + BASE + '/signal-pekanan.html">Baca edisi ini di situs</a> &middot; ' +
+  // Tautan menunjuk EDISI INI, bukan halaman terbaru, aturan yang sama dengan
+  // edisi harian. Tanpa ?edisi=, pembaca yang membuka email ini Minggu depan
+  // akan mendarat di edisi pekan berikutnya.
+  b.push('<p><a href="' + BASE + '/signal-pekanan.html?edisi=' + esc(p.tanggal) +
+    '">Baca edisi ini di situs</a> &middot; ' +
     '<a href="' + BASE + '/agenda.html">lihat seluruh agenda</a></p>');
   b.push('<p style="font-size:13px;color:#6b6858">Signal Pekanan terbit tiap Minggu, ' +
     'merangkai seluruh edisi harian dan berita sepekan jadi satu pembacaan arah. ' +
@@ -116,8 +154,23 @@ function badanPekanan(p) {
   return b.join('\n');
 }
 
-// Tabel indikator untuk edisi email. Arah dihitung dari deretnya sendiri,
-// bukan dinilai model, supaya tidak mungkin meleset dari datanya.
+// Blok indikator untuk edisi email. Arahnya dihitung dari deretnya sendiri
+// lewat arahDeret() di lib.mjs, bukan dinilai model, supaya tidak mungkin
+// meleset dari datanya.
+//
+// BUKAN <table>, walau isinya deretan angka, dan itu keputusan sadar.
+// Buttondown menurunkan badan yang kita kirim jadi versi teks untuk klien
+// berformat polos. Pengubahnya mengenali p, strong, h2, ul, dan li, tapi
+// MENYERAH pada table: di edisi 17 Agustus seluruh markup tabelnya bocor
+// mentah sepanjang 1.300 karakter ke versi teks. Tabel empat kolom itu juga
+// dikirim tanpa lebar sehingga jebol di layar ponsel. Satu paragraf per
+// indikator menyelesaikan keduanya sekaligus.
+//
+// Nilainya dicetak nilaiRingkas(), fungsi yang sama dengan yang dipakai
+// grafik di situs, supaya email dan halaman tidak berbunyi beda. Ia sekaligus
+// menyelesaikan koma desimal, pemisah ribuan, dan penyederhanaan satuan:
+// "25,46 miliar US$", bukan "25458.7 juta US$" yang harus dihitung sendiri
+// oleh pembaca.
 function blokAngka() {
   try {
     const B = readObjek('bps.js');
@@ -127,21 +180,14 @@ function blokAngka() {
     for (const kode of pilih) {
       const x = ind[kode];
       if (!x || !x.titik || !x.titik.length) continue;
-      const t = x.titik, akhir = t[t.length - 1], enam = t.slice(-6);
-      let arah = 'mendatar';
-      if (enam.length >= 3) {
-        const naik = enam.slice(1).filter((v, i) => v.nilai > enam[i].nilai).length;
-        const turun = enam.slice(1).filter((v, i) => v.nilai < enam[i].nilai).length;
-        arah = naik > turun ? 'cenderung naik' : turun > naik ? 'cenderung turun' : 'mendatar';
-      }
-      baris.push('<tr><td style="padding:4px 10px 4px 0">' + esc(x.nama) + '</td>' +
-        '<td style="padding:4px 10px 4px 0"><strong>' + esc(String(akhir.nilai)) + ' ' +
-        esc(x.satuan || '') + '</strong></td>' +
-        '<td style="padding:4px 10px 4px 0;color:#6b6858">' + esc(akhir.periode + ' ' + akhir.tahun) + '</td>' +
-        '<td style="padding:4px 0;color:#6b6858">' + arah + '</td></tr>');
+      const akhir = x.titik[x.titik.length - 1];
+      const arah = arahDeret(x.titik).label;
+      baris.push('<p style="margin:6px 0!important">' + esc(x.nama) + ': <strong>' +
+        esc(nilaiRingkas(akhir.nilai, x)) + '</strong> (' +
+        esc(akhir.periode + ' ' + akhir.tahun) + ')' +
+        (arah ? ' &middot; ' + esc(arah) : '') + '</p>');
     }
-    if (!baris.length) return '';
-    return '<table style="border-collapse:collapse;font-size:14px">' + baris.join('') + '</table>';
+    return baris.join('\n');
   } catch { return ''; }
 }
 
@@ -149,7 +195,7 @@ function badanEmail(h) {
   const b = [];
   if (h.ringkas) b.push('<p><strong>' + esc(h.ringkas) + '</strong></p>');
   (h.benang || []).forEach(x => {
-    if (x.judul) b.push('<h2>' + esc(x.judul) + '</h2>');
+    if (x.judul) b.push(h2(x.judul));
     if (x.isi) b.push('<p>' + esc(x.isi) + '</p>');
   });
   if (h.penutup) b.push('<p>' + esc(h.penutup) + '</p>');
@@ -167,14 +213,12 @@ function badanEmail(h) {
   // deret BPS yang sudah ada, tidak ada yang dikarang.
   const angka = blokAngka();
   if (angka) {
-    b.push('<hr>');
-    b.push('<h2>Angka pembanding</h2>');
+    b.push(h2('Angka pembanding'));
     b.push('<p style="font-size:13px;color:#6b6858">Bagian ini hanya ada di ' +
       'edisi email. Dipakai untuk menguji sendiri pembacaan arah di atas.</p>');
     b.push(angka);
   }
 
-  b.push('<hr>');
   // Tautan menunjuk EDISI INI, bukan halaman terbaru. Pembaca yang membuka
   // email lama seminggu kemudian tidak boleh mendarat di edisi lain.
   b.push('<p><a href="' + BASE + '/signal-harian.html?edisi=' + esc(h.tanggal) +
@@ -198,8 +242,20 @@ async function main() {
     process.exit(1);
   }
 
+  // Subjek pekanan memuat SUDUT edisinya, bukan cuma rentang tanggal.
+  //
+  // Bentuk lama, "Signal Pekanan · 11 Agustus - 17 Agustus 2026", habis 45
+  // karakter untuk nama produk dan tanggal, lalu terpotong di sekitar 40
+  // karakter pada aplikasi ponsel. Yang tersisa di layar sama persis tiap
+  // pekan, jadi satu edisi tidak bisa dibedakan dari edisi sebelumnya. Nama
+  // pengirim sudah menyebut The Signal, jadi rentangnya cukup dipendekkan dan
+  // sisa ruangnya diberikan ke judul edisi.
+  //
+  // Aman terhadap penjaga anti-kirim-ganda: penjaga utamanya mencocokkan
+  // metadata.edisi, dan pencocokan subjek cuma jaring cadangan yang
+  // digabung dengan OR, bukan syarat.
   const subjek = PEKANAN
-    ? 'Signal Pekanan · ' + (h.rentangLabel || h.tanggal)
+    ? 'Signal Pekanan ' + rentangPendek(h) + ' · ' + (h.judul || h.rentangLabel || h.tanggal)
     : 'Signal Harian · ' + (h.tanggalLabel || h.tanggal);
   // Awalan berbeda supaya edisi harian dan pekanan bertanggal sama tidak
   // saling menutup lewat penjaga anti-ganda.

@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GAJ5Xb3VsXc",
+  "title": "Update Kurs Rupiah, Harga Minyak Dunia, dan Emas Antam",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, melanjutkan tren kenaikan beberapa hari terakhir, seiring pergerakan kurs rupiah dan harga minyak dunia.",
+  "takeaway": "Data harian kurs, harga minyak, dan emas ini jadi acuan penting bagi investor dan pelaku pasar dalam mengambil keputusan."
+ },
+ {
   "id": "_eLwJlitL-k",
   "title": "Menkop Ferry Juliantono: Pemerintah Pastikan Kemerdekaan Ekonomi",
   "category": "UMKM",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Badan Komunikasi RI menyebut swasembada pangan dan kemandirian energi menjadi prioritas utama kebijakan anggaran negara.",
   "takeaway": "Prioritas anggaran untuk pangan dan energi berdampak pada arah fiskal dan ketahanan ekonomi nasional."
- },
- {
-  "id": "ThWfzHaOKbI",
-  "title": "Mendes PDT: Kopdes Dirancang untuk Hapus Sistem Rentenir",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan PDT menjelaskan Koperasi Desa dirancang untuk menghapus praktik rentenir dan memperkuat ekonomi desa.",
-  "takeaway": "Program koperasi desa relevan bagi pembaca yang mengikuti perkembangan inklusi keuangan dan ekonomi pedesaan."
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] 4,4 Persen Jadi US$453,4 Miliar",
+  "deck": "Bank Indonesia mencatat utang luar negeri RI naik 4,4 persen secara tahunan jadi US$453,4 miliar pada triwulan II-2026, rasio terhadap PDB 30,6 persen.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar.jpg",
+  "imageV": "msycsm24",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SBN",
+   "SRBI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460712-utang-luar-negeri-indonesia-naik-44-persen-jadi-4534-miliar-dolar-as"
+ },
+ {
   "slug": "bbkp-direksi-kunardy-darma-lie-beli-980-000-saham",
   "category": "Aksi Korporasi",
   "title": "BBKP: [Direksi] Kunardy Darma Lie Beli 980.000 Saham",
@@ -105,6 +122,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c28956895b_de2653c73a.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus: Cabai Rawit [Termahal], Rp66.350/Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga cabai, telur, daging, beras, gula, dan minyak goreng eceran nasional pada 18 Agustus 2026, dengan cabai rawit merah termahal di Rp66.350 per kilogram.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg.jpg",
+  "imageV": "msycsmze",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",

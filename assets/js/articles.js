@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] 4,4 Persen Jadi US$453,4 Miliar",
+  "deck": "Bank Indonesia mencatat utang luar negeri RI naik 4,4 persen secara tahunan jadi US$453,4 miliar pada triwulan II-2026, rasio terhadap PDB 30,6 persen.",
+  "image": "assets/img/utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T12:28:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460712-utang-luar-negeri-indonesia-naik-44-persen-jadi-4534-miliar-dolar-as",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SBN",
+   "SRBI"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan posisi utang luar negeri (ULN) Indonesia pada triwulan II-2026 naik 4,4 persen secara tahunan menjadi US$453,4 miliar. Rasio ULN terhadap produk domestik bruto (PDB) tercatat 30,6 persen. BI menyebut posisi ULN pada periode ini tetap terjaga, ditopang oleh peningkatan utang publik, yaitu pemerintah dan bank sentral, di tengah kontraksi pertumbuhan utang sektor swasta.",
+   "Utang luar negeri pemerintah tercatat US$216,3 miliar, tumbuh 2,9 persen secara tahunan, melambat dibandingkan pertumbuhan 3,8 persen pada triwulan sebelumnya. Kenaikan ini terutama didorong oleh aliran masuk dana asing ke Surat Berharga Negara (SBN), yang menurut BI mencerminkan kepercayaan investor terhadap prospek ekonomi Indonesia. Hampir seluruh utang pemerintah berbentuk utang jangka panjang, sehingga BI menilai posisinya relatif aman dan terkendali.",
+   "Berdasarkan sektor pemanfaatannya, utang pemerintah paling banyak dipakai untuk jasa kesehatan dan kegiatan sosial, yaitu 22 persen dari total ULN pemerintah, disusul administrasi pemerintah, pertahanan, dan jaminan sosial wajib sebesar 20,6 persen, jasa pendidikan 16,2 persen, konstruksi 11,5 persen, serta transportasi dan pergudangan 8,5 persen.",
+   "Sementara itu, kenaikan utang bank sentral terutama berasal dari bertambahnya kepemilikan investor asing atas Sekuritas Rupiah Bank Indonesia (SRBI), instrumen operasi moneter yang juga dipakai BI untuk menjaga stabilitas nilai tukar rupiah di tengah ketidakpastian global yang kembali meningkat. Di sisi lain, pertumbuhan utang luar negeri sektor swasta justru mengalami kontraksi pada periode yang sama."
+  ],
+  "fotoAdegan": "Construction workers building a hospital wing with cranes and scaffolding against a clear Jakarta sky, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a607deccb515-ilustrasi-bank-indonesia-bi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma total utang luar negeri naik jadi 453,4 miliar dolar AS, tapi komposisinya bergeser: utang pemerintah dan bank sentral naik, sementara utang swasta justru mengecil. Pertumbuhan utang pemerintah sendiri melambat, dari 3,8 persen di awal tahun jadi 2,9 persen pada periode ini, artinya pemerintah menambah utang luar negeri lebih lambat dari sebelumnya. Kenaikan ULN publik justru banyak ditopang investor asing yang memborong surat utang negara dan surat utang Bank Indonesia atau SRBI, yang berarti kestabilan rupiah saat ini ikut bergantung pada seberapa besar minat investor asing memegang aset dalam negeri. Kalau minat itu berbalik saat gejolak global memburuk, tekanan ke rupiah bisa lebih terasa. Yang perlu dicermati adalah data kepemilikan asing di SBN dan SRBI pada laporan ULN triwulan berikutnya, karena itu akan menunjukkan apakah ketergantungan pada dana asing ini terus membesar atau mulai mereda.",
+  "imageV": "msycsm24"
+ },
+ {
   "slug": "bbkp-direksi-kunardy-darma-lie-beli-980-000-saham",
   "category": "Aksi Korporasi",
   "title": "BBKP: [Direksi] Kunardy Darma Lie Beli 980.000 Saham",
@@ -161,6 +188,33 @@ var ARTICLES = [
   "takeaway": "Pergantian ketua unit internal audit ini bersifat netral bagi Sentul City, karena dokumen hanya memuat pergantian personel pengawas tanpa ada angka atau dampak finansial langsung yang disebutkan. Unit internal audit bertugas memeriksa apakah pencatatan keuangan dan operasional perusahaan sudah sesuai aturan, jadi pergantian pemimpinnya bisa memengaruhi ketatnya pengawasan internal ke depan meski tidak langsung mengubah pos seperti ekuitas, arus kas, atau laba per saham di laporan keuangan. Dokumen ini juga tidak menyebut alasan pergantian, sehingga publik belum tahu apakah ini rotasi rutin atau ada pertimbangan lain. Yang perlu dipantau berikutnya adalah apakah kualitas laporan keuangan interim BKSL tetap konsisten di bawah kepemimpinan baru ini, karena dokumen tidak mencantumkan agenda RUPS atau tenggat lain terkait perubahan tersebut.",
   "sentimen": "netral",
   "imageV": "msybrv2x"
+ },
+ {
+  "slug": "harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus: Cabai Rawit [Termahal], Rp66.350/Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga cabai, telur, daging, beras, gula, dan minyak goreng eceran nasional pada 18 Agustus 2026, dengan cabai rawit merah termahal di Rp66.350 per kilogram.",
+  "image": "assets/img/harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T10:51:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia merilis data harga sejumlah bahan pokok di tingkat pedagang eceran secara nasional untuk 18 Agustus 2026. Data ini mencakup kelompok cabai, protein hewani, bawang, beras, gula, hingga minyak goreng, yang jadi acuan harian bagi pedagang pasar dan konsumen.",
+   "Di kelompok cabai, harga cabai rawit merah tercatat paling tinggi yaitu Rp66.350 per kilogram. Disusul cabai rawit hijau Rp49.750 per kilogram, cabai merah keriting Rp49.100 per kilogram, dan cabai merah besar Rp44.550 per kilogram.",
+   "Untuk protein hewani, telur ayam ras dijual Rp28.200 per kilogram dan daging ayam ras segar Rp39.200 per kilogram. Daging sapi kualitas I tercatat Rp151.150 per kilogram, sementara kualitas II Rp148.200 per kilogram. Adapun bawang merah berada di Rp40.700 per kilogram dan bawang putih Rp41.100 per kilogram.",
+   "Harga beras bervariasi menurut kualitas, beras kualitas bawah I dan bawah II sama-sama Rp15.250 per kilogram. Beras kualitas medium I Rp16.550 per kilogram dan medium II Rp16.150 per kilogram, sedangkan beras kualitas super I Rp17.550 per kilogram dan super II Rp15.250 per kilogram.",
+   "Sementara itu, gula pasir kualitas premium dijual Rp21.450 per kilogram dan gula pasir lokal Rp19.250 per kilogram. Untuk minyak goreng, harga curah tercatat Rp20.150 per liter, kemasan bermerek I Rp23.950 per liter, dan kemasan bermerek II Rp23.450 per liter."
+  ],
+  "fotoAdegan": "Wet market vendor arranging fresh red chilies and vegetables in bamboo baskets, early morning crowd blurred in background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/13/684b9c5667719-harga-pangan-di-pasar-tradisional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data PIHPS hari ini cuma potret harga pada satu hari, tanpa angka pembanding dari hari atau minggu sebelumnya, jadi belum bisa disimpulkan apakah harga cabai, daging, atau minyak goreng sedang naik, turun, atau stabil. Yang langsung terdampak adalah pembeli di pasar tradisional dan pedagang eceran, karena harga-harga inilah yang mereka hadapi setiap hari. Untuk membaca ke mana arah harga bergerak, perlu dibandingkan dengan data PIHPS pekan-pekan sebelumnya atau dengan laporan inflasi bulanan dari Badan Pusat Statistik, yang biasanya terbit awal bulan berikutnya. Sampai pembanding itu tersedia, angka hari ini paling tepat dibaca sebagai acuan harga saja, bukan sebagai sinyal tren kenaikan atau penurunan.",
+  "imageV": "msycsmze"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",

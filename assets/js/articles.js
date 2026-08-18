@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
+  "category": "Bisnis",
+  "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",
+  "deck": "Kemendag menaikkan harga patokan ekspor dan referensi emas 0,65 persen untuk periode 15-31 Agustus 2026, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T09:02:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460661-harga-emas-acuan-ekspor-ri-naik-permintaan-global-jadi-pemicunya",
+  "tags": [
+   "harga emas",
+   "HPE emas",
+   "ekspor emas",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan menaikkan harga patokan ekspor (HPE) dan harga referensi (HR) emas untuk periode 15 sampai 31 Agustus 2026, naik 0,65 persen dibanding penetapan awal bulan. Kenaikan ini penting karena HPE menjadi dasar penghitungan bea keluar ekspor emas, sehingga langsung memengaruhi biaya yang ditanggung perusahaan tambang saat mengirim emas ke luar negeri.",
+   "Direktur Jenderal Perdagangan Luar Negeri Kemendag Tommy Andana mengatakan HPE emas naik dari 130.921,50 dolar AS per kilogram menjadi 131.777,67 dolar AS per kilogram. Sementara itu, HR emas naik dari 4.072,12 dolar AS menjadi 4.098,75 dolar AS per troy ounce. Ketentuan ini tertuang dalam Keputusan Menteri Perdagangan Nomor 1716 Tahun 2026 tentang harga patokan ekspor dan harga referensi produk pertambangan yang dikenakan bea keluar.",
+   "Menurut Tommy, kenaikan ini terjadi karena bank sentral di berbagai negara menurunkan suku bunga acuan, sehingga imbal hasil dari instrumen seperti deposito menjadi kurang menarik. Investor pun mengalihkan dananya ke emas sebagai aset lindung nilai, dan peralihan ini mendorong naiknya permintaan emas di pasar global. Permintaan yang meningkat sementara pasokan relatif terbatas kemudian mengerek harga emas dunia.",
+   "Tommy menambahkan ada faktor pendukung lain, yaitu melemahnya nilai tukar sejumlah mata uang utama dunia serta turunnya imbal hasil obligasi internasional. Kedua kondisi itu ikut memperkuat dorongan kenaikan HPE dan HR emas pada periode kedua Agustus 2026."
+  ],
+  "fotoAdegan": "Raw gold ore samples and small metal ingots on a tray inside a mineral processing facility, workers in safety gear nearby",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah harga patokan ekspor emas naik 0,65 persen menjadi 131.777,67 dolar AS per kilogram, sementara harga referensinya naik menjadi 4.098,75 dolar AS per troy ons, satuan berat yang lazim dipakai untuk emas, berlaku untuk paruh kedua Agustus 2026. Harga patokan ekspor ini yang dipakai pemerintah untuk menghitung bea keluar, semacam pajak saat emas dikirim ke luar negeri, sehingga kenaikannya berarti biaya ekspor lebih mahal bagi perusahaan tambang emas. Kemendag menyebut pemicunya investor global yang memindahkan dananya dari instrumen seperti deposito ke emas, karena bunga acuan dunia sedang turun dan membuat bunga deposito kurang menarik dibanding menyimpan emas sebagai pelindung nilai aset. Kalau tren penurunan suku bunga global ini berlanjut, harga emas dan bea keluar ekspornya kemungkinan akan terus naik pada periode-periode berikutnya, bukan sekadar kenaikan sesaat. Yang akan memastikan arah ini adalah penetapan HPE dan HR emas periode berikutnya awal September 2026.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
   "category": "Industri",
   "title": "BASSRA [Bantah] Tolak Rencana Industri di Bangkalan",

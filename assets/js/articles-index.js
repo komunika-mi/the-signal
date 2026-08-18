@@ -5,6 +5,21 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
+  "category": "Bisnis",
+  "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",
+  "deck": "Kemendag menaikkan harga patokan ekspor dan referensi emas 0,65 persen untuk periode 15-31 Agustus 2026, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "harga emas",
+   "HPE emas",
+   "ekspor emas",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460661-harga-emas-acuan-ekspor-ri-naik-permintaan-global-jadi-pemicunya"
+ },
+ {
   "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
   "category": "Industri",
   "title": "BASSRA [Bantah] Tolak Rencana Industri di Bangkalan",

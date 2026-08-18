@@ -70,21 +70,24 @@ export const HALAMAN_STATIS = [
     judul: 'Kebijakan Privasi',
     desc: 'Data apa yang dikumpulkan the-signal.id, untuk apa, dan apa yang sengaja tidak kami lakukan.',
     isi:
-      p('Prinsip kami sederhana: kumpulkan sesedikit mungkin. Halaman ini menjelaskan apa saja yang tersentuh data saat Anda membuka the-signal.id. Berlaku sejak 13 Agustus 2026.') +
+      p('Prinsip kami sederhana: kumpulkan sesedikit mungkin. Halaman ini menjelaskan apa saja yang tersentuh data saat Anda membuka the-signal.id. Berlaku sejak 13 Agustus 2026, diperbarui 18 Agustus 2026 karena kami menambahkan alat penghitung kunjungan.') +
 
       h2('Yang kami kumpulkan') +
       p('<strong>Email pelanggan Signal+.</strong> Kalau Anda mendaftar newsletter, alamat email Anda disimpan oleh Buttondown, layanan pengiriman newsletter yang kami pakai, dan hanya dipakai untuk mengirim edisi Signal Harian. Pendaftaran memakai konfirmasi dua langkah, dan Anda bisa berhenti kapan saja lewat tautan di bagian bawah setiap email. Alamat Anda tidak kami jual dan tidak kami bagikan ke pihak lain.') +
       p('<strong>Log server standar.</strong> Situs ini dilayani Vercel, yang seperti semua penyedia hosting mencatat log akses teknis (alamat IP, jenis peramban) untuk keperluan operasional dan keamanan.') +
       p('<strong>Pesan ke bot Telegram.</strong> Kalau Anda bertanya kepada bot kami di Telegram, isi pertanyaan Anda dikirim ke server kami untuk disusun jawabannya, dan diteruskan ke Anthropic sebagai penyedia model bahasa yang kami pakai. Percakapan itu pribadi terhadap sesama pembaca: pelanggan lain tidak bisa melihatnya, dan tiap orang punya ruang chat sendiri. Tetapi percakapan itu <strong>tidak terenkripsi ujung ke ujung</strong> dan dapat terbaca oleh redaksi The Signal. Karena itu jangan mengirimkan data pribadi, nomor identitas, atau rahasia usaha lewat bot. Anda juga bisa hanya mengikuti kanal siarannya tanpa pernah mengirim pesan sama sekali.') +
 
+      p('<strong>Statistik kunjungan.</strong> Situs ini memakai Google Analytics 4 untuk menghitung berapa orang membaca, halaman mana yang dibuka, dan dari mana pembaca datang. Alat itu memasang cookie di peramban Anda dan mengirim data kunjungan ke server Google. Kami menyalakannya dengan pembatas yang ditanam langsung di kode halaman, bukan sekadar setelan panel yang bisa berubah diam-diam: alamat IP disamarkan, sinyal lintas-perangkat Google dimatikan, dan personalisasi iklan dimatikan. Artinya angkanya dipakai untuk menghitung pembaca, bukan untuk membangun profil iklan. Berbagi data agregat ke Google juga kami matikan di tingkat akun. Kalau Anda tidak ingin ikut terhitung, pasang <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">pengaya penolak Google Analytics</a> atau blokir skripnya lewat pemblokir iklan. Situs ini tetap berfungsi penuh tanpa itu, dan tidak ada isi yang dipagari karenanya.') +
+
       h2('Yang sengaja tidak ada') +
-      p('Tidak ada akun pengguna, tidak ada kolom komentar, tidak ada iklan pelacak, tidak ada cookie pelacak, dan tidak ada alat analitik pihak ketiga. Membaca situs ini tidak membutuhkan dan tidak meninggalkan profil apa pun.') +
+      p('Tidak ada akun pengguna, tidak ada kolom komentar, dan tidak ada iklan pelacak. Kami tidak menjual data siapa pun, tidak memasang piksel jaringan iklan, dan tidak menggabungkan angka kunjungan dengan identitas Anda. Membaca situs ini tidak membutuhkan pendaftaran apa pun.') +
+      p('Sampai 18 Agustus 2026 halaman ini juga menyatakan tidak ada cookie pelacak dan tidak ada alat analitik pihak ketiga. Pernyataan itu berhenti berlaku pada hari yang sama, saat Google Analytics dipasang, dan kalimatnya kami ganti alih-alih dihapus diam-diam supaya pembaca yang pernah membacanya tahu apa yang berubah.') +
 
       h2('Konten pihak ketiga') +
       p('Video ditayangkan lewat youtube-nocookie.com, mode YouTube yang tidak memasang cookie pelacakan sampai video benar-benar diputar. Gambar mini video dimuat dari server YouTube (i.ytimg.com), sehingga peramban Anda mengirim permintaan ke server tersebut saat halaman terbuka.') +
 
       h2('Perubahan dan pertanyaan') +
-      p('Kalau kebijakan ini berubah, misalnya karena kami menambah alat analitik, halaman ini diperbarui lebih dulu sebelum alatnya dipasang. Pertanyaan soal privasi bisa dikirim ke <a href="mailto:' + EMAIL_REDAKSI + '">' + EMAIL_REDAKSI + '</a>.'),
+      p('Kalau kebijakan ini berubah, misalnya karena kami menambah alat analitik, halaman ini diperbarui lebih dulu sebelum alatnya dipasang. Perubahan terakhir 18 Agustus 2026, saat Google Analytics ditambahkan. Pertanyaan soal privasi bisa dikirim ke <a href="mailto:' + EMAIL_REDAKSI + '">' + EMAIL_REDAKSI + '</a>.'),
   },
   {
     slug: 'pedoman-media-siber',

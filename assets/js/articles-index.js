@@ -1492,8 +1492,8 @@ var ARTICLES = [
  {
   "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
   "category": "BUMN",
-  "title": "Presiden Prabowo Targetkan [750] BUMN Lagi Ditutup Tahun Ini",
-  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan 750 BUMN lagi tutup sebelum akhir 2026.",
+  "title": "Presiden Prabowo Targetkan BUMN Tersisa Maksimal [300] Akhir 2026",
+  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan hanya 300 BUMN yang tersisa pada akhir 2026.",
   "date": "14 Agustus 2026",
   "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
   "imageV": "msss9c94",

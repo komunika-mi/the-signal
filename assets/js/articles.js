@@ -3,6 +3,220 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TAFS Siapkan [Rp223,5 Miliar] untuk Lunasi Obligasi Oktober",
+  "deck": "PT Toyota Astra Financial Service (TAFS) menyatakan dana pelunasan pokok obligasi senilai Rp223,565 miliar yang jatuh tempo 3 Oktober 2026 sudah siap dari kas internal perusahaan.",
+  "image": "assets/img/tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T15:48:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4afa6aca9c_cfb8d42cb6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAFS",
+  "tags": [
+   "TAFS",
+   "obligasi",
+   "pasar modal",
+   "pembiayaan"
+  ],
+  "body": [
+   "PT Toyota Astra Financial Service (TAFS) menyampaikan laporan kesiapan dana pelunasan Obligasi Berkelanjutan IV Toyota Astra Financial Services Dengan Tingkat Bunga Tetap Tahap II Tahun 2023 Seri B kepada Bursa Efek Indonesia. Dalam surat bernomor 120/TAF/TRS/VIII/26 tertanggal 12 Agustus 2026 yang ditandatangani Direktur Ezar Kumendong dan Direktur Ryota Suzuki, perseroan memastikan dana pokok obligasi sebesar Rp223.565.000.000 sudah tersedia menjelang jatuh tempo pada 3 Oktober 2026.",
+   "TAFS menyebutkan sumber dana pelunasan berasal dari dana internal perusahaan, bukan dari penerbitan utang baru atau refinancing. Laporan ini merupakan kewajiban keterbukaan informasi sesuai Surat Keputusan Direktur Bursa Efek Indonesia Nomor Kep-00066/BEI/09-2022 tentang perubahan Peraturan Nomor I-E, yang mewajibkan emiten penerbit obligasi melaporkan kesiapan dana pelunasan sebelum jatuh tempo. Perseroan juga menyatakan sampai saat ini belum ada keputusan atau hal penting lain dari manajemen terkait rencana pelunasan tersebut."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, wide angle, clear midday sky",
+  "takeaway": "Laporan ini netral bagi TAFS karena isinya konfirmasi kewajiban rutin menjelang jatuh tempo obligasi, bukan kabar baru soal kinerja perusahaan. Yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan, karena TAFS akan mengeluarkan Rp223,565 miliar dari kas internal untuk melunasi pokok utang tanpa menambah pinjaman baru, sehingga setelah lunas beban bunga dari seri obligasi ini akan hilang dari catatan keuangan perusahaan. Yang perlu dipantau adalah realisasi pembayaran pada tanggal jatuh tempo, 3 Oktober 2026, untuk memastikan pelunasan benar terjadi sesuai jadwal.",
+  "sentimen": "netral",
+  "imageV": "msyfzbsp"
+ },
+ {
+  "slug": "ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPO, Ajukan [Restrukturisasi] Obligasi IV",
+  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan IV Tahap I 2024 ke RUPO 1 September 2026 untuk menyetujui permohonan restrukturisasi demi penyehatan keuangan.",
+  "image": "assets/img/ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T15:34:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288d20205e_f1ed3aca85.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "obligasi",
+   "RUPO"
+  ],
+  "body": [
+   "PP (Persero) Tbk atau PTPP memanggil rapat umum pemegang obligasi (RUPO) untuk Obligasi Berkelanjutan IV PTPP Tahap I Tahun 2024. Rapat akan digelar Selasa, 1 September 2026, pukul 13.30 hingga 15.00 WIB di Plaza PP, Wisma Subiyanto, Jalan TB Simatupang No. 57, Pasar Rebo, Jakarta Timur. Satu-satunya agenda rapat adalah permohonan persetujuan restrukturisasi dalam rangka penyehatan keuangan perusahaan, dan RUPO ini diusulkan sendiri oleh PTPP selaku emiten, bukan oleh pemegang obligasi.",
+   "Wali amanat obligasi ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, berdasarkan perjanjian perwaliamanatan Akta No. 28 tanggal 15 Maret 2024 di hadapan notaris Nanette Cahyanie Handari Adi Warsito. Agar keputusan restrukturisasi sah, RUPO harus dihadiri pemegang obligasi yang mewakili minimal tiga perempat dari total obligasi yang belum dilunasi, tidak termasuk yang dimiliki PTPP atau afiliasinya. Keputusan baru mengikat kalau disetujui minimal tiga perempat dari obligasi yang hadir di rapat.",
+   "Pemegang obligasi yang ingin hadir wajib memiliki Konfirmasi Tertulis Untuk RUPO (KTUR) yang tercatat di KSEI paling lambat tiga hari kerja sebelum RUPO, serta membawa dokumen identitas dan surat kuasa jika diwakilkan. Setiap peserta juga wajib membuat surat pernyataan ada tidaknya hubungan afiliasi dengan PTPP saat registrasi. Surat pemberitahuan ini diteken Sekretaris Perusahaan PTPP, Joko Raharjo, tertanggal 18 Agustus 2026."
+  ],
+  "fotoAdegan": "Unfinished high-rise construction site with tower cranes under an overcast Jakarta sky, workers in hard hats below",
+  "takeaway": "Laporan ini negatif bagi PTPP, karena permintaan restrukturisasi kali ini datang dari perseroan sendiri untuk obligasi lain, di luar sukuk yang RUPO-nya juga baru diumumkan pada hari yang sama, menandakan tekanan pembayaran utang yang menjalar ke lebih dari satu instrumen. Yang tersentuh adalah arus kas dan beban bunga perusahaan: kalau syarat pembayaran obligasi ini diubah, misalnya jadwal cicilan pokok atau bunga digeser, kebutuhan kas jangka pendek PTPP bisa berkurang, tapi ada risiko total beban utang membengkak belakangan. Persetujuan tidak otomatis didapat karena syaratnya berat, kehadiran minimal tiga perempat dari total obligasi yang belum lunas dan setuju minimal tiga perempat dari yang hadir, sehingga hasilnya belum pasti. Yang perlu dipantau adalah RUPO pada 1 September 2026 pukul 13.30 WIB, karena hasilnya akan menentukan apakah restrukturisasi disetujui atau PTPP harus mencari opsi lain untuk memenuhi kewajiban ke pemegang obligasi.",
+  "sentimen": "negatif",
+  "imageV": "msyfzu0w"
+ },
+ {
+  "slug": "ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPS Pemegang Sukuk untuk [Restrukturisasi] Utang",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Seri B ke RUPSu 1 September 2026 untuk meminta persetujuan restrukturisasi utang demi penyehatan keuangan perseroan.",
+  "image": "assets/img/ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T15:34:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9af2e33be_9aa735ca5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSu"
+  ],
+  "body": [
+   "PP (Persero) Tbk atau PTPP mengumumkan panggilan Rapat Umum Pemegang Sukuk (RUPSu) untuk pemegang Sukuk Mudharabah Berkelanjutan I PTPP Tahap I Tahun 2021 Seri B. Rapat dijadwalkan Selasa, 1 September 2026, pukul 10.30 sampai 12.00 WIB, di Plaza PP, Auditorium Wisma Subiyanto, Jalan TB Simatupang No 57, Pasar Rebo, Jakarta Timur. Wali amanat sukuk ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, berdasarkan Perjanjian Perwaliamanatan Akta No 32 tanggal 17 Maret 2021 di hadapan notaris Nanette Cahyanie Handari Adi Warsito.",
+   "Agenda tunggal rapat adalah permohonan persetujuan restrukturisasi dalam rangka penyehatan keuangan, dan RUPSu ini diusulkan sendiri oleh PTPP selaku emiten. Mengacu pada Perjanjian Perwaliamanatan Pasal 10 angka 5.a.i dan POJK No 20/POJK.04/2020, keputusan soal perubahan Perjanjian Perwaliamanatan baru sah bila dihadiri pemegang sukuk atau kuasanya yang mewakili minimal tiga perempat dari total sukuk yang belum lunas, di luar sukuk yang dipegang PTPP sendiri atau afiliasinya. Persetujuan juga harus datang dari minimal tiga perempat sukuk yang hadir dalam rapat.",
+   "Pemegang sukuk yang berhak hadir adalah yang namanya tercatat dalam daftar Konfirmasi Tertulis Untuk RUPSu (KTUR) yang diterbitkan KSEI tiga hari kerja sebelum rapat, dan wajib membawa KTUR, surat kuasa asli bagi yang diwakilkan, serta salinan identitas. Saat registrasi, setiap pemegang sukuk atau kuasanya wajib membuat surat pernyataan soal ada tidaknya hubungan afiliasi dengan PTPP. Pengumuman ini diteken Sekretaris Perusahaan PTPP, Joko Raharjo, tertanggal 18 Agustus 2026."
+  ],
+  "fotoAdegan": "Wide shot of an unfinished high-rise building under construction with tower cranes in Jakarta, hazy overcast morning",
+  "takeaway": "Laporan ini condong negatif bagi PTPP, sebab permohonan restrukturisasi utang sukuk yang diajukan sendiri oleh perseroan biasanya menandakan kesulitan memenuhi jadwal pembayaran awal ke pemegang sukuk, bukan langkah dari posisi keuangan yang leluasa. Yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena perubahan skema pembayaran utang sukuk berarti kewajiban PTPP ke krediturnya bergeser dari rencana semula, dan pelaku pasar biasanya membaca ini sebagai sinyal tekanan likuiditas. Dokumen ini belum merinci skema restrukturisasi yang diajukan, misalnya perpanjangan tenor atau perubahan skema bagi hasil, sehingga dampak pastinya ke laporan keuangan PTPP masih menunggu hasil rapat. Yang perlu dipantau berikutnya adalah hasil RUPSu pada 1 September 2026, terutama apakah kuorum kehadiran tiga perempat dari total sukuk yang belum lunas terpenuhi dan apakah pemegang sukuk menyetujui usulan restrukturisasi tersebut.",
+  "sentimen": "negatif",
+  "imageV": "msyg0gof"
+ },
+ {
+  "slug": "ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPO Obligasi III, Ajukan [Restrukturisasi] Lagi",
+  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan III Tahap I 2021 Seri B ke RUPO 1 September 2026 untuk membahas permohonan restrukturisasi, instrumen utang ketiga yang direstrukturisasi hari ini.",
+  "image": "assets/img/ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T15:34:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2d7edd2cd3_1edebfdbdd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "restrukturisasi",
+   "RUPO"
+  ],
+  "body": [
+   "PT Pembangunan Perumahan (Persero) Tbk (PTPP) memanggil Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B. Rapat dijadwalkan Selasa, 1 September 2026, pukul 08.30 hingga 10.00 WIB di Plaza PP, Auditorium Wisma Subiyanto, Jalan TB Simatupang No. 57, Pasar Rebo, Jakarta Timur. Wali amanat obligasi ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. Agenda tunggal RUPO adalah permohonan persetujuan restrukturisasi dalam rangka penyehatan keuangan, dan permintaan ini diajukan sendiri oleh PTPP sebagai emiten, bukan oleh pemegang obligasi.",
+   "Menurut dokumen panggilan, RUPO sah digelar jika dihadiri atau diwakili pemegang minimal tiga perempat dari seluruh obligasi yang belum dilunasi, di luar obligasi yang dipegang PTPP atau afiliasinya. Keputusan baru mengikat jika disetujui minimal tiga perempat dari obligasi yang hadir dalam rapat, dengan patokan yang sama. Pemegang obligasi yang berhak hadir adalah yang namanya tercatat dalam daftar Konfirmasi Tertulis Untuk RUPO (KTUR) yang diterbitkan KSEI paling lambat tiga hari kerja sebelum RUPO, dan wajib membawa KTUR asli, surat kuasa asli bila diwakilkan, serta salinan identitas dan dokumen anggaran dasar bila pemegangnya berbentuk badan usaha.",
+   "Panggilan RUPO ini menyusul dua panggilan serupa yang diumumkan PTPP pada hari yang sama, yaitu untuk pemegang sukuk dan untuk Obligasi IV, sehingga total ada tiga instrumen utang berbeda yang secara bersamaan diajukan untuk direstrukturisasi oleh perseroan."
+  ],
+  "fotoAdegan": "Construction workers reviewing blueprints at a large building site in Jakarta, cranes and an unfinished tower behind them, overcast daylight",
+  "takeaway": "Laporan ini negatif bagi PTPP, sebab ini adalah RUPO restrukturisasi utang ketiga yang diumumkan perseroan pada hari yang sama, kali ini untuk Obligasi Berkelanjutan III Tahap I Seri B, menyusul permohonan serupa untuk sukuk dan Obligasi IV. Yang tersentuh adalah arus kas dan beban bunga perusahaan, karena restrukturisasi biasanya berarti jadwal pembayaran pokok atau bunga diubah, dan pelaku pasar mencermatinya sebagai indikator kemampuan bayar utang jangka pendek. Ditambah lagi, ambang persetujuan yang tinggi, yaitu tiga perempat dari obligasi yang hadir, membuat hasil rapat tidak otomatis mulus meski diusulkan emiten sendiri. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPO pada 1 September 2026 pukul 08.30 WIB dan apakah kuorum kehadiran serta persetujuan tiga perempat itu tercapai, karena kegagalan kuorum bisa menunda penyehatan keuangan yang diajukan.",
+  "sentimen": "negatif",
+  "imageV": "msyg16xc"
+ },
+ {
+  "slug": "sanf-direktur-dan-komisaris-kompak-mengundurkan-diri",
+  "category": "Aksi Korporasi",
+  "title": "SANF: [Direktur] dan Komisaris Kompak Mengundurkan Diri",
+  "deck": "SANF menerima surat pengunduran diri Direktur Handri Susanto dan Komisaris Arietta Adrianti pada 18 Agustus 2026, perusahaan menyebut tidak ada dampak ke operasional maupun keuangan.",
+  "image": "assets/img/sanf-direktur-dan-komisaris-kompak-mengundurkan-diri.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T15:05:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06a0e52a59_f714c23c1a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Surya Artha Nusantara Finance (SANF), perusahaan pembiayaan konvensional yang tergabung dalam Astra Financial, melaporkan ke Otoritas Jasa Keuangan bahwa pada 18 Agustus 2026 perseroan menerima surat pengunduran diri dari Handri Susanto selaku Direktur dan Arietta Adrianti selaku Komisaris. Kedua surat pengunduran diri diterima pada tanggal yang sama, sehingga dua kursi di jajaran pengurus perseroan kosong bersamaan.",
+   "Laporan tersebut disampaikan sebagai pemenuhan kewajiban keterbukaan informasi berdasarkan Pasal 9 Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, serta Pasal 52 Peraturan OJK Nomor 45 Tahun 2024 tentang Pengembangan dan Penguatan Emiten dan Perusahaan Publik. Dalam dokumen yang ditandatangani oleh Corporate Secretary Davin Susanto, perseroan menyatakan akan menempuh langkah lanjutan sesuai Anggaran Dasar dan peraturan yang berlaku, termasuk kewajiban keterbukaan informasi berikutnya, namun belum menyebutkan nama pengganti maupun alasan pengunduran diri kedua pejabat tersebut.",
+   "Perseroan menegaskan bahwa pengunduran diri ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha. Laporan ini ditujukan kepada Kepala Eksekutif Pengawas Pasar Modal OJK dan ditandatangani oleh Presiden Direktur perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, employees crossing the plaza at midday, clear sky",
+  "takeaway": "Laporan ini netral bagi SANF, karena yang terjadi adalah pergantian dua pengurus tanpa indikasi masalah hukum atau keuangan, dan perseroan sendiri menegaskan tidak ada dampak operasional. Yang tersentuh di sini bukan angka keuangan seperti ekuitas atau laba per saham, melainkan komposisi tata kelola: direksi menjalankan operasional sehari-hari dan komisaris mengawasinya, sehingga pemegang saham lazim memperhatikan siapa yang mengisi kedua kursi tersebut agar pengawasan perusahaan pembiayaan ini tidak timpang selama masa kosong. Yang perlu dipantau selanjutnya adalah pengumuman RUPSLB atau keterbukaan informasi lanjutan yang akan menyebutkan nama pengganti Direktur dan Komisaris, karena aturan OJK mengharuskan posisi itu diisi kembali dalam jangka waktu tertentu setelah pengunduran diri.",
+  "sentimen": "netral",
+  "imageV": "msyg1nhh"
+ },
+ {
+  "slug": "mbss-seluruh-direksi-mundur-imbas-ganti-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Seluruh Direksi Mundur Imbas [Ganti Pengendali]",
+  "deck": "Seluruh Direksi dan Komisaris MBSS mengundurkan diri serentak menyusul perubahan pengendali ke PT Wibowo Group Capital. RUPSLB penetapan pengurus baru digelar 17 September 2026.",
+  "image": "assets/img/mbss-seluruh-direksi-mundur-imbas-ganti-pengendali.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T14:31:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0698c36867_0e1fdd3787.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "perubahan pengendali",
+   "pergantian direksi",
+   "RUPSLB"
+  ],
+  "body": [
+   "Mitrabahtera Segara Sejati Tbk (MBSS) menjawab surat permintaan penjelasan Bursa Efek Indonesia bernomor S-10614/BEI.PP1/08-2026 tertanggal 13 Agustus 2026, terkait pengunduran diri bersamaan seluruh anggota Direksi dan Dewan Komisaris. Surat pengunduran diri tersebut tertanggal 23 Juli 2026 dan berasal dari lima orang sekaligus: Armand Setiawan Tanudjaja selaku Komisaris Utama, Wisma Bharuna selaku Komisaris, Kevin Evan Suandar selaku Komisaris Independen, Zhang Hao selaku Direktur Utama, dan Susan Faustine selaku Direktur.",
+   "Perseroan menjelaskan bahwa pengunduran diri serentak ini merupakan bagian dari proses penyesuaian susunan pengurus menyusul perubahan pengendali perusahaan kepada PT Wibowo Group Capital (WGC). Tujuannya agar struktur Direksi dan Komisaris bisa diselaraskan dengan strategi dan rencana usaha yang dibawa pengendali baru. Perseroan menegaskan Direksi dan Komisaris yang saat ini menjabat tetap menjalankan tugas dan tanggung jawabnya sampai pengunduran diri efektif dan pengurus baru ditetapkan lewat Rapat Umum Pemegang Saham (RUPS) yang dijadwalkan pada 17 September 2026.",
+   "Terkait risiko keberlangsungan usaha selama masa transisi, MBSS menyebut akan melakukan pengalihan informasi dan pengetahuan operasional kepada pengurus baru, mencakup hubungan dengan pelanggan dan mitra usaha, perjanjian material yang berjalan, status perizinan, serta kewajiban kepada regulator. Perseroan juga menyatakan akan memantau dan mengoordinasikan kesinambungan kewajiban kontraktual dan regulatori material, termasuk perizinan operasional, perjanjian charter, dan fasilitas pembiayaan, agar tetap dipenuhi sesuai ketentuan dan jangka waktu yang berlaku. Perseroan menyatakan tidak ada informasi atau kejadian material lain yang berpotensi memengaruhi harga saham yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Tugboat and barge moored at an industrial port dock in Indonesia, cranes and shipping containers in the background, late afternoon",
+  "takeaway": "Laporan ini netral bagi fundamental MBSS, karena pengunduran diri seluruh Direksi dan Komisaris adalah konsekuensi wajar dari beralihnya pengendali perusahaan ke PT Wibowo Group Capital, bukan tanda masalah kinerja usaha. Yang perlu diperhatikan adalah risiko kesinambungan operasional selama masa transisi, terutama menyangkut perjanjian pembiayaan dan sewa kapal (charter) serta izin operasional, karena pergantian total jajaran pengurus sekaligus bisa membuat pemahaman atas relasi bisnis dan kewajiban kontraktual perusahaan sempat terputus di tangan pengurus lama sebelum diserahterimakan penuh. Perseroan sendiri mengklaim sudah menyiapkan proses transfer pengetahuan dan memastikan pengurus lama tetap menjalankan tugasnya sampai pengurus baru resmi ditetapkan. Yang perlu dipantau berikutnya adalah RUPS Luar Biasa pada 17 September 2026, yang akan menentukan siapa Direksi dan Komisaris baru MBSS di bawah kendali PT Wibowo Group Capital serta arah bisnis yang mereka bawa.",
+  "sentimen": "netral",
+  "imageV": "msyg28jt"
+ },
+ {
+  "slug": "hgii-direksi-robin-sunyoto-tambah-375-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi Robin Sunyoto [Tambah] 375.000 Saham",
+  "deck": "Direksi HGII Robin Sunyoto membeli 375.000 saham secara bertahap pada 10-14 Agustus 2026, senilai sekitar Rp44,8 juta, menaikkan hak suaranya dari 23 persen menjadi 24 persen.",
+  "image": "assets/img/hgii-direksi-robin-sunyoto-tambah-375-000-saham.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T14:18:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-5041-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HGII",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "Robin Sunyoto"
+  ],
+  "body": [
+   "Robin Sunyoto, direksi PT Hero Global Investment Tbk (HGII), melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung dalam empat transaksi terpisah. Rinciannya: 75.000 saham dengan harga Rp124 per lembar pada 10 Agustus 2026, 250.000 saham dengan harga Rp118 per lembar pada 11 Agustus, 25.000 saham dengan harga Rp121 per lembar pada 12 Agustus, dan 25.000 saham dengan harga Rp120 per lembar pada 14 Agustus. Seluruhnya untuk tujuan investasi, dengan total 375.000 saham senilai sekitar Rp44,8 juta.",
+   "Dengan tambahan itu, kepemilikan saham Robin Sunyoto di HGII naik dari 15.375.000 lembar menjadi 15.750.000 lembar, bertambah 2,44 persen dari jumlah yang sudah dipegangnya. Hak suaranya di perusahaan tercatat naik dari 23 persen menjadi 24 persen."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, morning light, street traffic below",
+  "takeaway": "Pembelian ini netral bagi HGII, sebab nilainya hanya sekitar Rp44,8 juta dan hanya menambah kepemilikan Robin Sunyoto 2,4 persen dari saham yang sudah dipegangnya, jauh di bawah ukuran yang biasanya dibaca sebagai sinyal keyakinan kuat direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara pelapor, yaitu porsi suara yang dimiliki seseorang saat pemegang saham mengambil keputusan di rapat umum pemegang saham, dan karena jumlah saham HGII yang beredar relatif kecil, pembelian sekecil ini sudah cukup menggeser hak suara Robin Sunyoto dari 23 persen ke 24 persen. Yang perlu dipantau selanjutnya adalah apakah Robin Sunyoto atau direksi HGII lainnya kembali melaporkan pembelian susulan, sebab pola empat transaksi dalam lima hari, dari 10 sampai 14 Agustus 2026, bisa menandakan akumulasi bertahap meski tiap transaksi tergolong kecil.",
+  "sentimen": "netral",
+  "imageV": "msyg36al"
+ },
+ {
+  "slug": "hais-panggil-rupslb-usai-direktur-mundur",
+  "category": "Aksi Korporasi",
+  "title": "HAIS Panggil RUPSLB usai Direktur [Mundur]",
+  "deck": "HAIS menggelar RUPSLB 9 September 2026 untuk menyetujui perubahan susunan direksi setelah Rahmad Pudjotomo mundur dari jabatan Direktur.",
+  "image": "assets/img/hais-panggil-rupslb-usai-direktur-mundur.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T13:56:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bbb935920d_98aac7ddfb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAIS",
+  "tags": [
+   "HAIS",
+   "RUPSLB",
+   "Direksi",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Hasnur Internasional Shipping Tbk (HAIS) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 9 September 2026, pukul 11.00 WIB di Sapphire Room Lantai 3, Sheraton Grand Jakarta Gandaria City. Sesuai surat resmi bernomor 290/HIS-JKT/DIR-UM05/VIII/2026 yang merujuk pada surat pemberitahuan awal tertanggal 3 Agustus 2026, RUPSLB ini hanya mengusung satu agenda, yaitu persetujuan perubahan susunan Direksi Perseroan.",
+   "Perubahan susunan direksi ini dipicu oleh pengunduran diri Rahmad Pudjotomo dari jabatannya sebagai Direktur Perseroan. Surat pemanggilan tidak menyebut nama calon pengganti maupun alasan pengunduran diri tersebut, sehingga keputusan final soal siapa yang akan mengisi kursi direksi baru menunggu persetujuan pemegang saham dalam RUPSLB nanti.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham per 14 Agustus 2026 pukul 16.00 WIB, atau pemilik saldo rekening efek di KSEI pada penutupan perdagangan tanggal yang sama. Bagi yang tidak bisa hadir langsung, kuasa dapat diberikan secara elektronik lewat sistem eASY.KSEI, dengan batas waktu pengajuan maupun perubahan kuasa paling lambat satu hari kerja sebelum rapat, yakni Selasa, 8 September 2026."
+  ],
+  "fotoAdegan": "Tugboat guiding a cargo ship near a busy Indonesian port, container cranes in the background, midday light",
+  "takeaway": "Laporan ini bersifat netral bagi HAIS karena hanya berupa pergantian satu kursi direksi lewat pengunduran diri, tanpa penjelasan alasan atau indikasi masalah, dan tanpa nama pengganti yang bisa dinilai kualitasnya. Laporan ini tidak menyentuh angka keuangan seperti ekuitas, arus kas, atau laba per saham secara langsung, tapi komposisi direksi tetap penting diawasi karena merekalah yang menentukan arah operasional dan keputusan pendanaan perusahaan pelayaran ini ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 9 September 2026, yang akan memastikan apakah perubahan susunan direksi ini disetujui dan siapa yang akan menggantikan Rahmad Pudjotomo.",
+  "sentimen": "netral",
+  "imageV": "msyg3xh6"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] 4,4 Persen Jadi US$453,4 Miliar",

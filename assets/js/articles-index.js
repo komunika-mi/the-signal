@@ -5,6 +5,142 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TAFS Siapkan [Rp223,5 Miliar] untuk Lunasi Obligasi Oktober",
+  "deck": "PT Toyota Astra Financial Service (TAFS) menyatakan dana pelunasan pokok obligasi senilai Rp223,565 miliar yang jatuh tempo 3 Oktober 2026 sudah siap dari kas internal perusahaan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober.jpg",
+  "imageV": "msyfzbsp",
+  "tags": [
+   "TAFS",
+   "obligasi",
+   "pasar modal",
+   "pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4afa6aca9c_cfb8d42cb6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPO, Ajukan [Restrukturisasi] Obligasi IV",
+  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan IV Tahap I 2024 ke RUPO 1 September 2026 untuk menyetujui permohonan restrukturisasi demi penyehatan keuangan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv.jpg",
+  "imageV": "msyfzu0w",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "obligasi",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288d20205e_f1ed3aca85.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPS Pemegang Sukuk untuk [Restrukturisasi] Utang",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Seri B ke RUPSu 1 September 2026 untuk meminta persetujuan restrukturisasi utang demi penyehatan keuangan perseroan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang.jpg",
+  "imageV": "msyg0gof",
+  "tags": [
+   "PTPP",
+   "sukuk",
+   "restrukturisasi utang",
+   "RUPSu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9af2e33be_9aa735ca5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPO Obligasi III, Ajukan [Restrukturisasi] Lagi",
+  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan III Tahap I 2021 Seri B ke RUPO 1 September 2026 untuk membahas permohonan restrukturisasi, instrumen utang ketiga yang direstrukturisasi hari ini.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi.jpg",
+  "imageV": "msyg16xc",
+  "tags": [
+   "PTPP",
+   "obligasi",
+   "restrukturisasi",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2d7edd2cd3_1edebfdbdd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-direktur-dan-komisaris-kompak-mengundurkan-diri",
+  "category": "Aksi Korporasi",
+  "title": "SANF: [Direktur] dan Komisaris Kompak Mengundurkan Diri",
+  "deck": "SANF menerima surat pengunduran diri Direktur Handri Susanto dan Komisaris Arietta Adrianti pada 18 Agustus 2026, perusahaan menyebut tidak ada dampak ke operasional maupun keuangan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/sanf-direktur-dan-komisaris-kompak-mengundurkan-diri.jpg",
+  "imageV": "msyg1nhh",
+  "tags": [
+   "SANF",
+   "direksi",
+   "komisaris",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06a0e52a59_f714c23c1a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-seluruh-direksi-mundur-imbas-ganti-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: Seluruh Direksi Mundur Imbas [Ganti Pengendali]",
+  "deck": "Seluruh Direksi dan Komisaris MBSS mengundurkan diri serentak menyusul perubahan pengendali ke PT Wibowo Group Capital. RUPSLB penetapan pengurus baru digelar 17 September 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/mbss-seluruh-direksi-mundur-imbas-ganti-pengendali.jpg",
+  "imageV": "msyg28jt",
+  "tags": [
+   "MBSS",
+   "perubahan pengendali",
+   "pergantian direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0698c36867_0e1fdd3787.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hgii-direksi-robin-sunyoto-tambah-375-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "HGII: Direksi Robin Sunyoto [Tambah] 375.000 Saham",
+  "deck": "Direksi HGII Robin Sunyoto membeli 375.000 saham secara bertahap pada 10-14 Agustus 2026, senilai sekitar Rp44,8 juta, menaikkan hak suaranya dari 23 persen menjadi 24 persen.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/hgii-direksi-robin-sunyoto-tambah-375-000-saham.jpg",
+  "imageV": "msyg36al",
+  "tags": [
+   "HGII",
+   "kepemilikan saham",
+   "direksi",
+   "Robin Sunyoto"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-5041-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hais-panggil-rupslb-usai-direktur-mundur",
+  "category": "Aksi Korporasi",
+  "title": "HAIS Panggil RUPSLB usai Direktur [Mundur]",
+  "deck": "HAIS menggelar RUPSLB 9 September 2026 untuk menyetujui perubahan susunan direksi setelah Rahmad Pudjotomo mundur dari jabatan Direktur.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/hais-panggil-rupslb-usai-direktur-mundur.jpg",
+  "imageV": "msyg3xh6",
+  "tags": [
+   "HAIS",
+   "RUPSLB",
+   "Direksi",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bbb935920d_98aac7ddfb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar",
   "category": "Makroekonomi",
   "title": "Utang Luar Negeri RI [Naik] 4,4 Persen Jadi US$453,4 Miliar",

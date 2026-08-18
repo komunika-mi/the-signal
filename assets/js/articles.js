@@ -3,6 +3,113 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] Tipis ke US$453,4 Miliar",
+  "deck": "Bank Indonesia mencatat utang luar negeri RI tumbuh 4,4 persen pada triwulan II 2026 menjadi US$453,4 miliar, ditopang aliran dana asing ke surat utang pemerintah dan bank sentral.",
+  "image": "assets/img/utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T03:44:54.693Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SBN",
+   "SRBI"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan posisi utang luar negeri (ULN) Indonesia pada triwulan II 2026 tercatat US$453,4 miliar, tumbuh 4,4 persen dibanding periode yang sama tahun lalu. Kenaikan ini ditopang oleh utang pemerintah dan bank sentral yang bertambah, sementara utang swasta masih menyusut meski penyusutannya melambat. Angka ini penting karena ULN menggambarkan seberapa besar Indonesia bergantung pada dana asing, yang ikut memengaruhi nilai tukar rupiah dan beban pembayaran negara ke depan.",
+   "Utang pemerintah tercatat US$216,3 miliar, tumbuh 2,9 persen secara tahunan, melambat dari 3,8 persen pada triwulan sebelumnya. Kenaikan ini terutama berasal dari investor yang membeli lebih banyak Surat Berharga Negara (SBN), yaitu surat utang yang diterbitkan pemerintah untuk membiayai anggaran belanja negara. Dana tersebut dialokasikan antara lain ke sektor kesehatan dan sosial (22 persen dari total utang pemerintah), administrasi pemerintahan dan pertahanan (20,6 persen), pendidikan (16,2 persen), konstruksi (11,5 persen), serta transportasi dan pergudangan (8,5 persen). Sementara itu, kenaikan utang bank sentral didorong oleh investor asing yang makin banyak memegang Sekuritas Rupiah Bank Indonesia (SRBI), instrumen yang dipakai BI untuk menjaga stabilitas nilai tukar rupiah.",
+   "Utang swasta tercatat US$194,6 miliar, masih terkontraksi 0,6 persen secara tahunan, tapi penyusutan ini mengecil dibanding 1,3 persen pada triwulan I 2026. Perlambatan kontraksi ini terutama berasal dari utang lembaga keuangan yang turun 3,4 persen, membaik dari penurunan 6,3 persen pada triwulan sebelumnya. Empat sektor, yakni industri pengolahan, jasa keuangan dan asuransi, listrik dan gas, serta pertambangan, menyumbang 79,4 persen dari total utang swasta, dengan 75,7 persen di antaranya berjangka panjang.",
+   "Secara keseluruhan, rasio ULN terhadap Produk Domestik Bruto (PDB) tercatat 30,6 persen pada triwulan II 2026, dan 82,1 persen dari total utang luar negeri berjangka panjang. Bank Indonesia dan pemerintah menyatakan akan terus memantau perkembangan ULN untuk menjaga struktur utang tetap sehat."
+  ],
+  "fotoAdegan": "Exterior view of a modern central bank building in Jakarta with Indonesian flag, pedestrians walking past at midday",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2727325/Rilis-Utang-Luar-Negeri.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Kenaikan utang luar negeri kali ini bukan karena pemerintah menambah pinjaman besar-besaran, melainkan karena investor asing makin banyak membeli surat utang pemerintah (SBN) dan sertifikat utang Bank Indonesia (SRBI), yang memang sengaja dipakai BI untuk menahan rupiah agar tidak melemah di tengah ketidakpastian global. Di sisi lain, utang swasta masih menyusut, tapi penyusutannya mengecil dari 1,3 persen menjadi 0,6 persen dalam setahun, artinya perusahaan yang tadinya rajin melunasi utang luar negeri kini mulai mengerem pelunasan itu. ​Ada dua kemungkinan arah dari sini: penyusutan utang swasta terus mengecil dan berbalik naik, pertanda korporasi mulai berani berutang ke luar negeri lagi, atau ini cuma jeda sementara sebelum kontraksi berlanjut. Yang akan menjawabnya adalah publikasi Statistik Utang Luar Negeri Indonesia untuk triwulan III 2026, yang biasanya terbit sekitar November dan mencakup data Juli sampai September 2026.",
+  "imageV": "msy4hscs"
+ },
+ {
+  "slug": "ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Naik] 1,21 Persen ke 6.479 di Awal Sesi",
+  "deck": "IHSG menguat 1,21 persen ke 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, diikuti penguatan LQ45, IDX30, dan IDX80.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T09:53:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460667-ihsg-hari-ini-naik-121-persen-ke-6479-investor-mulai-serbu-bursa",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "Saham"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) melesat 1,21 persen ke posisi 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, menurut data Bursa Efek Indonesia (BEI). Posisi ini naik dari penutupan perdagangan sebelumnya di 6.401,89. Penguatan di awal sesi ini menandai suasana positif pelaku pasar begitu perdagangan dibuka pagi ini.",
+   "Kenaikan IHSG turut diikuti sejumlah indeks acuan lain di BEI. Indeks LQ45, yang berisi 45 saham dengan likuiditas dan kapitalisasi pasar terbesar, naik 0,58 persen ke 635,935. Indeks IDX LQ45 Low Carbon naik lebih tinggi, yaitu 0,64 persen, ke 93,414.",
+   "Dua indeks acuan lain, IDX30 dan IDX80, juga bergerak ke zona hijau. IDX30 menguat 0,47 persen ke 355,408, sementara IDX80 naik 0,62 persen ke 95,388. Data yang tercatat ini masih merupakan potret awal sesi, sehingga posisi indeks berpotensi berubah hingga penutupan perdagangan sore nanti."
+  ],
+  "fotoAdegan": "Stock brokers in a busy Jakarta brokerage office talking on phones with blurred computer screens in the background, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Penguatan 1,21 persen ke 6.479 ini baru potret pukul 09.05 WIB, jadi bisa naik atau turun lagi sampai penutupan sore nanti. Yang langsung terdampak adalah investor dan pelaku pasar modal yang memegang saham di kelompok LQ45, IDX30, dan IDX80, karena keempat indeks itu kompak menghijau bersama IHSG. Data yang tersedia belum menyebut pemicu kenaikan ini, apakah dari sentimen luar negeri, aksi beli investor asing, atau sekadar pemulihan setelah pelemahan sebelumnya. Yang perlu ditunggu adalah angka penutupan IHSG sore ini dan data transaksi bersih asing, karena dari situ baru terlihat apakah penguatan pagi ini bertahan atau cuma sementara.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp18.000 Jadi Rp2.695.000/Gram",
+  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, sementara harga buyback ikut naik ke Rp2.555.000 per gram.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T09:35:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460665-harga-emas-antam-hari-ini-18-agustus-2026-naik-rp18000-jadi-rp2695000-per-gram",
+  "tags": [
+   "harga emas",
+   "emas antam",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada Selasa, 18 Agustus 2026, tercatat naik Rp18.000 per gram menjadi Rp2.695.000, dari posisi sebelumnya Rp2.677.000. Kenaikan ini menjadi acuan bagi masyarakat yang berencana membeli maupun menjual emas batangan hari ini, karena harga logam mulia Antam bisa berubah setiap hari mengikuti kondisi pasar.",
+   "Selain harga jual, harga pembelian kembali atau buyback oleh Antam juga naik menjadi Rp2.555.000 per gram. Buyback adalah harga yang dibayarkan Antam ketika nasabah menjual kembali emas batangannya, dan angka ini biasanya lebih rendah dari harga jual karena ada selisih yang menjadi komponen biaya transaksi.",
+   "Data harga tersebut dipantau dari laman resmi Logam Mulia milik Antam. Perusahaan mengingatkan bahwa harga emas batangan bisa berubah sewaktu-waktu mengikuti kondisi pasar."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet-lined tray inside a jewelry display counter, soft indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan Rp18.000 per gram ini membawa harga emas Antam ke Rp2.695.000, sementara harga buyback yang diterima nasabah saat menjual kembali emas ikut naik ke Rp2.555.000 per gram. Yang terdampak langsung adalah masyarakat yang menyimpan emas batangan sebagai simpanan atau investasi, baik yang berencana membeli hari ini maupun yang ingin mencairkan emasnya. Data ini hanya mencatat pergerakan harian tanpa menyebut pemicunya, misalnya pergerakan harga emas dunia atau nilai tukar rupiah, sehingga belum bisa disimpulkan apakah kenaikan ini awal tren atau sekadar fluktuasi biasa. Yang perlu dicermati adalah apakah harga emas Antam terus naik dalam beberapa hari ke depan atau kembali turun mengikuti pola harga sebelumnya.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.847, BI Tetap Intervensi Jelang BI Rate",
+  "deck": "Kurs rupiah melemah 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi meski BI terus intervensi pasar NDF, jelang pengumuman BI Rate yang diperkirakan tetap di 5,75 persen pada Rabu (19/8).",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T09:28:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460664-rupiah-melemah-ke-rp17847-per-dolar-as-meski-bi-tetap-intervensi-pasar-ndf-jelang-pengumuman-bi-rate",
+  "tags": [
+   "rupiah",
+   "BI Rate",
+   "kurs dolar",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Nilai tukar rupiah melemah ke posisi Rp17.847 per dolar Amerika Serikat pada Selasa pagi, 18 Agustus 2026, meski Bank Indonesia disebut masih aktif turun tangan di pasar NDF untuk menahan gejolak kurs. Pelemahan ini terjadi tepat menjelang pengumuman suku bunga acuan BI yang dijadwalkan Rabu, sehingga pergerakan rupiah beberapa hari ke depan akan jadi sorotan utama pelaku pasar.",
+   "Berdasarkan data transaksi hingga pukul 09.00 WIB, rupiah melemah 49 poin atau 0,28 persen dibanding posisi sebelumnya di Rp17.798 per dolar AS. Sementara itu, kurs referensi Jisdor yang dirilis BI justru menunjukkan penguatan pada pekan lalu, dari Rp17.882 pada Kamis, 13 Agustus, menjadi Rp17.836 pada Jumat, 14 Agustus, atau menguat 46 poin.",
+   "Pengamat Ekonomi dan Pasar Uang Ibrahim Assuaibi menyebut BI tetap masuk melakukan intervensi di pasar NDF bahkan pada masa libur peringatan HUT ke-81 RI, sebagai upaya menstabilkan rupiah. Ia menilai fundamental perekonomian Indonesia masih baik, dan pemerintah telah memberikan masukan kepada Presiden Prabowo Subianto untuk menjaga stabilitas ekonomi di tengah tantangan digitalisasi dan kecerdasan buatan.",
+   "Fokus pasar pekan ini tertuju pada pengumuman suku bunga BI Rate yang akan disampaikan Rabu, 19 Agustus 2026. Keputusan tersebut diambil di tengah kebutuhan menjaga kinerja rupiah sekaligus memastikan kebijakan moneter tidak semakin membebani momentum pertumbuhan domestik, dengan mayoritas ekonom memperkirakan BI akan kembali menahan suku bunga di level 5,75 persen."
+  ],
+  "fotoAdegan": "Dock workers guiding a shipping container being lifted by crane at a busy Indonesian port, stacked containers, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah konkret adalah kurs transaksi rupiah, melemah 49 poin atau 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi, sementara data kurs referensi BI (Jisdor) justru sempat menguat pekan lalu. Pelemahan ini terjadi walau Bank Indonesia disebut terus masuk ke pasar NDF, transaksi forward valuta asing di luar negeri yang dipakai bank sentral meredam gejolak kurs tanpa langsung menjual dolar di pasar dalam negeri. Pihak yang paling terasa dampaknya adalah importir dan pelaku usaha dengan kewajiban dalam dolar, karena barang impor dan cicilan utang valas jadi sedikit lebih mahal. Dengan pelemahan yang masih tergolong kecil dan ekonom memperkirakan BI menahan suku bunga di 5,75 persen, arahnya tampak BI memilih terus mengandalkan intervensi pasar valas ketimbang menaikkan bunga untuk menahan rupiah, dan itu akan langsung terkonfirmasi dari pengumuman BI Rate Rabu, 19 Agustus 2026.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
   "category": "Bisnis",
   "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",

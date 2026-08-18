@@ -5,6 +5,69 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Utang Luar Negeri RI [Naik] Tipis ke US$453,4 Miliar",
+  "deck": "Bank Indonesia mencatat utang luar negeri RI tumbuh 4,4 persen pada triwulan II 2026 menjadi US$453,4 miliar, ditopang aliran dana asing ke surat utang pemerintah dan bank sentral.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar.jpg",
+  "imageV": "msy4hscs",
+  "tags": [
+   "utang luar negeri",
+   "Bank Indonesia",
+   "SBN",
+   "SRBI"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Naik] 1,21 Persen ke 6.479 di Awal Sesi",
+  "deck": "IHSG menguat 1,21 persen ke 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, diikuti penguatan LQ45, IDX30, dan IDX80.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "Saham"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460667-ihsg-hari-ini-naik-121-persen-ke-6479-investor-mulai-serbu-bursa"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp18.000 Jadi Rp2.695.000/Gram",
+  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, sementara harga buyback ikut naik ke Rp2.555.000 per gram.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "harga emas",
+   "emas antam",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460665-harga-emas-antam-hari-ini-18-agustus-2026-naik-rp18000-jadi-rp2695000-per-gram"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.847, BI Tetap Intervensi Jelang BI Rate",
+  "deck": "Kurs rupiah melemah 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi meski BI terus intervensi pasar NDF, jelang pengumuman BI Rate yang diperkirakan tetap di 5,75 persen pada Rabu (19/8).",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "BI Rate",
+   "kurs dolar",
+   "Bank Indonesia"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460664-rupiah-melemah-ke-rp17847-per-dolar-as-meski-bi-tetap-intervensi-pasar-ndf-jelang-pengumuman-bi-rate"
+ },
+ {
   "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
   "category": "Bisnis",
   "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",

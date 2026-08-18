@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan",
+  "category": "Industri",
+  "title": "Ricuh Timah di Babel, Yusril [Percepat] Perpres Pertimahan",
+  "deck": "Pemerintah mempercepat penyusunan Perpres Pertimahan usai kericuhan di Kantor PT Timah, Belitung Timur, akibat pembelian bijih timah rakyat yang tersendat.",
+  "image": "assets/img/ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T06:05:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460943-menyusul-ricuh-pembelian-bijih-timah-rakyat-yusril-janjikan-pemerintah-percepat-penyusunan-perpres-pertimahan",
+  "tags": [
+   "timah",
+   "Bangka Belitung",
+   "PT Timah",
+   "Perpres Pertimahan"
+  ],
+  "body": [
+   "Pemerintah tengah mempercepat penyusunan peraturan presiden (Perpres) yang mengatur pertimahan, menyusul kericuhan yang terjadi di Kantor PT Timah, Belitung Timur, setelah pembelian bijih timah dari penambang rakyat sempat terhenti. Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan (Menko Kumham Imipas) Yusril Ihza Mahendra menyebut Perpres ini akan menjadi dasar hukum bagi pengelolaan tambang timah di Provinsi Bangka Belitung, khususnya di wilayah yang sempat memanas akibat aksi demonstrasi warga tersebut.",
+   "Yusril mengatakan draf Perpres sudah mulai disusun dan telah disampaikan kepada Presiden Prabowo Subianto serta Sekretariat Negara. Dia juga telah memerintahkan Direktur Jenderal Peraturan Perundang-undangan Kementerian Hukum untuk mempercepat proses penyusunannya. Selagi Perpres masih digodok, pemerintah membentuk tim kecil yang dipimpin Wakil Menteri Otto Hasibuan untuk merumuskan langkah kebijakan dan dasar hukum agar PT Timah bisa membeli bijih timah dari tambang milik masyarakat.",
+   "Persoalan ini dibahas dalam rapat koordinasi lintas sektor yang dihadiri Wakil Jaksa Agung, Kepala Badan Pengawasan Keuangan dan Pembangunan (BPKP), Direktur Jenderal Peraturan Perundang-undangan, pemerintah daerah Provinsi Bangka Belitung, pemerintah Kabupaten Belitung Timur, dan PT Timah. Yusril berharap langkah-langkah ini bisa diterima masyarakat Belitung agar situasi keamanan dan ketertiban di wilayah itu tetap terjaga.",
+   "Yusril menekankan bahwa Indonesia kini menjadi satu-satunya negara yang masih memproduksi timah dalam skala besar, setelah Bolivia, Malaysia, dan Thailand berhenti berproduksi. Di dalam negeri sendiri, hanya Provinsi Bangka Belitung yang menghasilkan timah, namun Yusril mengakui kekayaan mineral itu belum dikelola secara maksimal sehingga Indonesia belum bisa ikut menentukan harga timah dunia."
+  ],
+  "fotoAdegan": "Small-scale miners sifting tin ore by hand from a muddy open pit, ore piled nearby, overcast tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a84dcbef1c9c-menteri-koordinator-bidang-hukum-ham-imigrasi-dan-pemasyarakatan-menko-kumham-imipas-yusril-ihza-mahendra_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah rancangan Perpres yang akan menjadi dasar hukum bagi PT Timah untuk membeli bijih timah dari tambang rakyat di Belitung Timur, dilengkapi tim sementara pimpinan Wakil Menteri Otto Hasibuan yang bertugas merumuskan skema pembelian sebelum aturan itu rampung. Yang langsung terdampak adalah penambang rakyat di Belitung Timur yang penghasilannya bergantung pada penjualan bijih timah ke PT Timah, serta PT Timah sendiri yang butuh payung hukum agar pembelian itu tidak melanggar aturan pertambangan. Ada dua arah yang mungkin dari sini, Perpres ini bisa menjadi jalan resmi untuk melegalkan pembelian dari tambang rakyat yang selama ini beroperasi tanpa izin usaha pertambangan formal, atau sekadar solusi administratif sementara yang tidak mengubah status hukum tambang rakyat itu. Belum ada tenggat waktu yang disebutkan untuk penerbitan Perpres ini, jadi yang perlu ditunggu adalah draf resminya serta hasil kerja tim bentukan Otto Hasibuan yang akan menentukan skema pembelian sementara ini.",
+  "imageV": "mszajs3a"
+ },
+ {
+  "slug": "pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman",
+  "category": "Bisnis",
+  "title": "Pusat Perbelanjaan RI Beralih ke Konsep [Pengalaman]",
+  "deck": "Pusat perbelanjaan di Indonesia bergeser dari sekadar tempat transaksi menjadi ruang pengalaman, seiring rebranding Star Maju Sentosa menjadi Joysparks Group.",
+  "image": "assets/img/pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T23:55:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460931-ritel-indonesia-hadapi-perubahan-besar-strategi-lama-mulai-ditinggalkan",
+  "tags": [
+   "ritel",
+   "pusat perbelanjaan",
+   "Joysparks Group",
+   "CBRE"
+  ],
+  "body": [
+   "Industri ritel Indonesia sedang mengubah cara pusat perbelanjaan menjaring pengunjung. Mal yang selama ini mengandalkan transaksi jual beli kini didorong menjadi tempat orang mau datang, berinteraksi, dan kembali lagi, sebuah respons atas makin banyaknya pilihan belanja lewat platform daring.",
+   "Riset properti CBRE mencatat pasar ritel Jakarta pada 2026 bergeser dari model berbasis transaksi menuju ekosistem yang berorientasi pengalaman. Segmen gaya hidup seperti makanan dan minuman, fesyen, olahraga, dan rekreasi diproyeksikan menjadi salah satu pendorong utama permintaan ruang ritel ke depan.",
+   "Perubahan ini terlihat pada langkah PT Star Maju Sentosa yang mengganti identitas korporatnya menjadi Joysparks Group. Nama baru ini akan menaungi Star Department Store dan Happy Harvest Supermarket, serta lini usaha baru Lintas Bookstore yang dijadwalkan mulai beroperasi akhir 2026. Finance Director Joysparks Group, Deddy Wongso, mengatakan langkah itu lahir dari kebutuhan menyatukan portofolio bisnis yang terus bertambah di bawah satu payung.",
+   "Persaingan ritel semakin kompleks karena konsumen punya lebih banyak pilihan lewat e-commerce. Pusat perbelanjaan pun dituntut memberi alasan tambahan agar masyarakat tetap mau datang secara fisik, bukan hanya bertransaksi lewat layar."
+  ],
+  "fotoAdegan": "Interior of a modern Indonesian shopping mall atrium with cafe seating, greenery, and shoppers strolling under natural skylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a848dfbee4e8-jajaran-direksi-joysparks-group_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah identitas korporat: PT Star Maju Sentosa menyatukan sejumlah usahanya, mulai dari Star Department Store dan Happy Harvest Supermarket, di bawah nama baru Joysparks Group, dan akan menambah toko buku baru bernama Lintas Bookstore yang rencananya buka akhir 2026. Yang terdampak langsung adalah karyawan dan mitra bisnis di gerai-gerai itu, sementara pengunjung mal akan makin sering menemui pusat perbelanjaan yang menambah tempat nongkrong, hiburan, dan kegiatan komunitas, bukan cuma deretan toko. Langkah menyatukan banyak merek ritel di bawah satu payung ini sejalan dengan catatan riset CBRE bahwa pasar ritel Jakarta bergeser dari sekadar tempat belanja menjadi tempat yang membuat orang mau datang berulang kali, cara pusat perbelanjaan mempertahankan pengunjung di tengah gempuran belanja daring. Yang akan menunjukkan apakah strategi ini berjalan adalah pembukaan Lintas Bookstore akhir tahun ini, serta apakah pengelola pusat perbelanjaan lain ikut mengubah konsep gerainya dengan cara serupa.",
+  "imageV": "mszajsj3"
+ },
+ {
+  "slug": "aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya",
+  "category": "Energi",
+  "title": "AESI Gelar Indosolar 2026, Dorong Ekosistem Energi [Surya]",
+  "deck": "AESI menggelar Indosolar 2026 pada 19-20 Agustus di Jakarta untuk memperkuat ekosistem energi surya, bersamaan dengan Indonesia Sustainable Energy Week 2026.",
+  "image": "assets/img/aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T23:18:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460926-indosolar-2026-digelar-ekosistem-energi-surya-indonesia-mau-terus-didorong-agar-semakin-kuat",
+  "tags": [
+   "Indosolar 2026",
+   "AESI",
+   "Energi Surya",
+   "EBT"
+  ],
+  "body": [
+   "Asosiasi Energi Surya Indonesia (AESI) menggelar forum tahunan Indosolar 2026 pada 19-20 Agustus di Fairmont Hotel, Jakarta. Ini penyelenggaraan ketiga forum tersebut, yang tahun ini berlangsung bersamaan dengan Indonesia Sustainable Energy Week (ISEW) 2026 dan mengangkat tema membangun masa depan energi surya Indonesia.",
+   "Forum ini digelar di tengah target pemerintah memperbesar porsi energi baru terbarukan lewat Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034, dengan energi surya mendapat bagian pengembangan yang signifikan. AESI menilai target itu hanya bisa terealisasi kalau seluruh bagian ekosistemnya, mulai dari kebijakan, industri, investasi, pembiayaan, teknologi, hingga sumber daya manusia, bergerak bersamaan, bukan berhenti di angka target di atas kertas.",
+   "Indosolar 2026 mempertemukan pemerintah, pelaku industri, investor, lembaga keuangan, akademisi, mitra pembangunan, dan penyedia teknologi untuk membahas tantangan sekaligus peluang pengembangan energi surya. Ketua Umum AESI Mada Ayu Habsari mengatakan dukungan terhadap pengembangan energi surya di Indonesia semakin kuat, terlihat dari target pemerintah yang tinggi dan besarnya potensi pasar domestik, namun penguatan ekosistem tetap diperlukan agar pengembangan proyek, pembiayaan, teknologi, industri, dan sumber daya manusia berjalan terintegrasi."
+  ],
+  "fotoAdegan": "Technicians installing rows of solar panels on a large ground-mounted array under bright sunlight in rural Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a84849ba9a3d-konferensi-pers-asosiasi-energi-surya-indonesia-aesi-terkait-gelaran-indosolar-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan baru, melainkan forum tahunan yang jadi penanda arah pengembangan energi surya, dan tahun ini digelar berbarengan dengan agenda energi berkelanjutan yang lebih besar, ISEW 2026. Pihak yang paling berkepentingan adalah pengembang proyek pembangkit listrik tenaga surya (PLTS), investor, dan lembaga pembiayaan yang selama ini sering terkendala di tahap eksekusi meski target RUPTL sudah ditetapkan. Sumber ini tidak menyebut angka target kapasitas surya dalam RUPTL 2025-2034 maupun realisasi proyek yang sudah berjalan, jadi belum bisa disimpulkan apakah forum ini akan menghasilkan kesepakatan atau proyek konkret, atau sekadar jadi ajang diskusi tahunan seperti dua edisi sebelumnya. Yang perlu dipantau adalah hasil dari forum dua hari ini, misalnya ada tidaknya pengumuman kerja sama investasi atau proyek PLTS baru setelah 20 Agustus 2026.",
+  "imageV": "mszajszx"
+ },
+ {
   "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
   "category": "BUMN",
   "title": "BRI Peduli [Bangun] Tiga Posko Logistik di NTT Pascagempa",

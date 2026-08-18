@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan",
+  "category": "Industri",
+  "title": "Ricuh Timah di Babel, Yusril [Percepat] Perpres Pertimahan",
+  "deck": "Pemerintah mempercepat penyusunan Perpres Pertimahan usai kericuhan di Kantor PT Timah, Belitung Timur, akibat pembelian bijih timah rakyat yang tersendat.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan.jpg",
+  "imageV": "mszajs3a",
+  "tags": [
+   "timah",
+   "Bangka Belitung",
+   "PT Timah",
+   "Perpres Pertimahan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460943-menyusul-ricuh-pembelian-bijih-timah-rakyat-yusril-janjikan-pemerintah-percepat-penyusunan-perpres-pertimahan"
+ },
+ {
+  "slug": "pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman",
+  "category": "Bisnis",
+  "title": "Pusat Perbelanjaan RI Beralih ke Konsep [Pengalaman]",
+  "deck": "Pusat perbelanjaan di Indonesia bergeser dari sekadar tempat transaksi menjadi ruang pengalaman, seiring rebranding Star Maju Sentosa menjadi Joysparks Group.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman.jpg",
+  "imageV": "mszajsj3",
+  "tags": [
+   "ritel",
+   "pusat perbelanjaan",
+   "Joysparks Group",
+   "CBRE"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460931-ritel-indonesia-hadapi-perubahan-besar-strategi-lama-mulai-ditinggalkan"
+ },
+ {
+  "slug": "aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya",
+  "category": "Energi",
+  "title": "AESI Gelar Indosolar 2026, Dorong Ekosistem Energi [Surya]",
+  "deck": "AESI menggelar Indosolar 2026 pada 19-20 Agustus di Jakarta untuk memperkuat ekosistem energi surya, bersamaan dengan Indonesia Sustainable Energy Week 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya.jpg",
+  "imageV": "mszajszx",
+  "tags": [
+   "Indosolar 2026",
+   "AESI",
+   "Energi Surya",
+   "EBT"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460926-indosolar-2026-digelar-ekosistem-energi-surya-indonesia-mau-terus-didorong-agar-semakin-kuat"
+ },
+ {
   "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
   "category": "BUMN",
   "title": "BRI Peduli [Bangun] Tiga Posko Logistik di NTT Pascagempa",

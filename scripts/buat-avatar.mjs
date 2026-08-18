@@ -15,7 +15,12 @@ import zlib from 'node:zlib';
 import path from 'node:path';
 import { ROOT } from './lib.mjs';
 
-const SISI = 512;
+// Ukuran bisa diberikan lewat argumen supaya satu penggambar melayani dua
+// keperluan: avatar Telegram 512 dan logo Publisher Center 1000, yang
+// disarankan Google. Geometri batang di bawah ditulis dalam ruang 512,
+// jadi semuanya dikalikan SKALA_RUANG dan bukan ditulis ulang.
+const SISI = Number(process.argv[2]) || 512;
+const SKALA_RUANG = SISI / 512;
 const SKALA = 4;                       // supersampling untuk tepi halus
 const N = SISI * SKALA;
 
@@ -27,8 +32,8 @@ const BATANG = [
   { x: 123, l: 66, atas: 250, bawah: 360 },
   { x: 223, l: 66, atas: 195, bawah: 360 },
   { x: 323, l: 66, atas: 135, bawah: 360 },
-];
-const RADIUS_BATANG = 10;
+].map(b => ({ x: b.x * SKALA_RUANG, l: b.l * SKALA_RUANG, atas: b.atas * SKALA_RUANG, bawah: b.bawah * SKALA_RUANG }));
+const RADIUS_BATANG = 10 * SKALA_RUANG;
 
 function didalamBatang(x, y) {
   for (const b of BATANG) {
@@ -107,6 +112,6 @@ const png = Buffer.concat([
   bagian('IEND', Buffer.alloc(0)),
 ]);
 
-const keluar = path.join(ROOT, 'assets/img/telegram-avatar.png');
+const keluar = path.join(ROOT, process.argv[3] || 'assets/img/telegram-avatar.png');
 fs.writeFileSync(keluar, png);
 console.log('avatar: ' + keluar + ' (' + Math.round(png.length / 1024) + ' KB, ' + SISI + 'x' + SISI + ')');

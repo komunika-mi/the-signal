@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0Nv4-W_RoVs",
+  "title": "DPR dan Pemerintah Sampaikan Perpres Ojol",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
+  "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol."
+ },
+ {
   "id": "GAJ5Xb3VsXc",
   "title": "Update Kurs Rupiah, Harga Minyak Dunia, dan Emas Antam",
   "category": "Pasar Modal",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Menteri Desa dan PDT menyebut pemerintah akan mengatur pembangunan ritel modern di desa agar tidak mematikan pelaku usaha lokal.",
   "takeaway": "Regulasi ritel modern di desa berkaitan langsung dengan perlindungan UMKM dan pemerataan ekonomi pedesaan."
- },
- {
-  "id": "yVbMeL1AO18",
-  "title": "Bakom RI: Pangan dan Energi Jadi Prioritas Anggaran Negara",
-  "category": "Makroekonomi",
-  "program": "AKIM",
-  "summary": "Badan Komunikasi RI menyebut swasembada pangan dan kemandirian energi menjadi prioritas utama kebijakan anggaran negara.",
-  "takeaway": "Prioritas anggaran untuk pangan dan energi berdampak pada arah fiskal dan ketahanan ekonomi nasional."
  }
 ];

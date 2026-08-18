@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-17T21:19:39.433+07:00",
+ "diperbarui": "2026-08-18T21:25:03.567+07:00",
  "entri": [
+  {
+   "id": "2026-08-18-3",
+   "edisi": "2026-08-18",
+   "benang": "Tekanan Utang PTPP Menjalar ke Tiga Instrumen",
+   "klaim": "Arah tekanan pembayaran utang di PTPP tergolong jelas, menjalar ke lebih dari satu instrumen sekaligus dalam satu hari.",
+   "penanda": "Hasil RUPO dan RUPSu mengenai persetujuan permohonan restrukturisasi tiga instrumen utang PTPP",
+   "tenggat": "2026-09-01",
+   "tenggatLabel": "RUPO dan RUPSu pada 1 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-18-2",
+   "edisi": "2026-08-18",
+   "benang": "Emas Menguat di Semua Jalur Sekaligus",
+   "klaim": "Arah kenaikan permintaan emas sudah jelas terlihat sekaligus dari tiga jalur, yaitu harga fisik, harga acuan ekspor, dan minat pada produk investasi.",
+   "penanda": "Harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan",
+   "tenggat": "2026-09-01",
+   "tenggatLabel": "harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-18-1",
+   "edisi": "2026-08-18",
+   "benang": "Rupiah Tertekan, BI Intervensi Jelang RDG",
+   "klaim": "Arah tekanan pelemahan pada rupiah masih akan berlanjut, dengan Bank Indonesia mempertahankan pola intervensinya.",
+   "penanda": "Keputusan BI Rate dalam Rapat Dewan Gubernur BI, yang diperkirakan bertahan di 5,75 persen",
+   "tenggat": "2026-08-19",
+   "tenggatLabel": "keputusan BI Rate yang dijadwalkan Rabu besok, 19 Agustus",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-17-2",
    "edisi": "2026-08-17",

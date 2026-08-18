@@ -1,20 +1,24 @@
 // Signal Harian. Dibuat otomatis oleh scripts/signal-harian.mjs.
 var HARIAN = {
- "tanggal": "2026-08-17",
- "tanggalLabel": "Senin, 17 Agustus 2026",
- "judul": "UMKM Diguyur Insentif, Gempa NTT Sisakan Desa Gelap",
- "ringkas": "Bank Indonesia dan BRI serentak memperluas dukungan biaya transaksi dan pembiayaan untuk UMKM, sementara pemulihan pascagempa NTT menunjukkan pola cepat di infrastruktur besar tapi tertinggal di titik-titik kecil dan terpencil.",
+ "tanggal": "2026-08-18",
+ "tanggalLabel": "Selasa, 18 Agustus 2026",
+ "judul": "Rupiah Tertekan, Emas Jadi Pelarian, Utang PTPP Menumpuk",
+ "ringkas": "Rupiah tertekan ke kisaran Rp17.847 hingga Rp17.862 per dolar AS jelang keputusan BI Rate besok, sementara harga emas dan minat investor pada produk emas kompak naik, dan PTPP mengajukan restrukturisasi pada tiga instrumen utang sekaligus.",
  "benang": [
   {
-   "judul": "Pemulihan Gempa NTT: Cepat di Atas, Lambat di Bawah",
-   "isi": "Sehari setelah gempa magnitudo 7,7 mengguncang NTT, PLN sudah memulihkan 11 gardu induk dan pasokan utama Flores, tapi 29 dari 1.557 desa, sekitar dua persen wilayah itu, masih gelap karena akses tertutup longsor. Pola serupa terlihat pada layanan Telkom, yang baru mengaktifkan tiga titik WiFi gratis di sekitar Maumere, sementara empat lokasi lain di Nagekeo, Borong, Ruteng, dan kantor wilayah Flores masih disiapkan. Kemendag mencatat empat pasar rusak, termasuk Pasar Inpres Ruteng yang ditutup karena tiang bangunannya rusak, dan menyalurkan bantuan Rp250 juta untuk pedagang terdampak. Ketiganya bergerak dalam pola yang sama, infrastruktur besar dan terpusat pulih cepat dalam hitungan hari, sementara titik-titik kecil dan wilayah terpencil masih menunggu giliran. Yang akan menentukan apakah pola ini bertahan adalah apakah akses jalan ke 29 desa yang tertutup longsor bisa dibuka dalam beberapa hari ke depan."
+   "judul": "Rupiah Tertekan, BI Intervensi Jelang RDG",
+   "isi": "Rupiah bergerak melemah di kisaran Rp17.847 hingga Rp17.862 per dolar AS, tertekan kenaikan harga minyak dunia dan naiknya utang luar negeri, sementara Bank Indonesia tetap masuk ke pasar NDF untuk menahan pelemahan lebih lanjut. Utang luar negeri Indonesia naik 4,4 persen secara tahunan menjadi US$453,4 miliar pada triwulan II 2026, dengan rasio terhadap PDB 30,6 persen, namun kenaikan ini ditopang aliran dana asing yang membeli surat utang pemerintah dan SRBI, instrumen yang memang dipakai BI untuk menjaga rupiah. Pertumbuhan utang pemerintah sendiri justru melambat dari 3,8 persen ke 2,9 persen, sementara utang swasta mengecil. Arah tekanan pada rupiah sudah jelas masih berlanjut dengan BI mempertahankan pola intervensi, dan kepastiannya akan terlihat dari keputusan BI Rate yang dijadwalkan Rabu besok, 19 Agustus, yang diperkirakan bertahan di 5,75 persen."
   },
   {
-   "judul": "UMKM Serentak Dapat Sokongan Biaya dan Kredit",
-   "isi": "Bank Indonesia memastikan bebas biaya MDR QRIS untuk usaha mikro dengan transaksi sampai Rp500.000 resmi berlaku 1 Oktober 2026, dan pada hari yang sama memperluas bebas biaya itu ke semua skala usaha untuk transaksi sampai Rp100.000, menggantikan biaya 0,7 persen yang sebelumnya dipotong dari pedagang setiap transaksi QRIS. BRI menyambut HUT ke-81 RI dengan menegaskan portofolio kredit UMKM Rp1.235 triliun, setara 75,2 persen dari total kreditnya, ditambah penyaluran KUR Rp103,81 triliun ke 2 juta debitur yang didominasi sektor pertanian. BI juga menaikkan target pengolahan limbah uang kertas tak layak edar menjadi produk UMKM, dari 72 persen sekarang menuju 100 persen pada 2027. Ketiganya bergerak searah, memperluas akses pembiayaan sekaligus menekan biaya transaksi bagi pelaku usaha kecil menjelang implementasi Oktober 2026. Yang akan mengonfirmasi arah ini adalah data volume transaksi QRIS UMKM setelah aturan bebas biaya itu resmi berlaku Oktober mendatang."
+   "judul": "Emas Menguat di Semua Jalur Sekaligus",
+   "isi": "Harga emas Antam naik Rp18.000 menjadi Rp2.695.000 per gram, sejalan dengan harga acuan ekspor emas dari Kemendag yang naik 0,65 persen menjadi US$131.777,67 per kilogram untuk paruh kedua Agustus, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun. Minat investor pada produk emas di pasar modal ikut naik, tampak dari penambahan 600.000 unit penyertaan ETF emas syariah XSGO menjadi 2,2 juta unit dan penambahan 1 juta unit ETF Emas Trimegah menjadi 110 juta unit, menyusul lonjakan 50 juta unit atau 85 persen sebelumnya. Arah kenaikan permintaan emas ini sudah jelas terlihat dari tiga jalur sekaligus, yaitu harga fisik, harga acuan ekspor, dan minat pada produk investasi. Kepastian arah berikutnya bisa dilihat dari harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan."
+  },
+  {
+   "judul": "Tekanan Utang PTPP Menjalar ke Tiga Instrumen",
+   "isi": "PTPP mengundang pemegang tiga instrumen utang berbeda ke rapat pada hari yang sama untuk membahas permohonan restrukturisasi, yaitu Obligasi Berkelanjutan IV Tahap I 2024, Sukuk Mudharabah Seri B, dan Obligasi Berkelanjutan III Tahap I 2021 Seri B, dengan RUPO dan RUPSu dijadwalkan 1 September 2026. Permohonan yang diajukan sendiri oleh perseroan untuk tiga instrumen sekaligus ini berbeda dari pola yang terlihat pada TAFS di hari yang sama, yang menyatakan dana pelunasan pokok obligasi Rp223,565 miliar yang jatuh tempo Oktober sudah tersedia dari kas internal. Arah tekanan pembayaran utang di PTPP tergolong jelas, menjalar ke lebih dari satu instrumen sekaligus dalam satu hari. Kepastian selanjutnya akan terlihat dari hasil RUPO dan RUPSu pada 1 September 2026, apakah pemegang obligasi dan sukuk menyetujui permohonan restrukturisasi tersebut."
   }
  ],
- "penutup": "Yang paling menentukan besok adalah apakah akses ke desa-desa terisolir di Flores mulai terbuka, tanda sejauh mana pemulihan pascagempa merambah sampai titik terkecil.",
- "jumlahBahan": 8,
- "dibuat": "2026-08-17T14:19:20.897Z"
+ "penutup": "Yang paling menentukan besok adalah keputusan BI Rate, karena arah rupiah dan aliran dana ke surat utang pemerintah akan mengikuti sikap Bank Indonesia itu.",
+ "jumlahBahan": 34,
+ "dibuat": "2026-08-18T14:24:44.805Z"
 };

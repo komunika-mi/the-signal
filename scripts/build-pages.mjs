@@ -19,6 +19,7 @@ const VIDEOS = muat('videos.js');
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
 import { tulisIndeksArtikel, bakeRoot } from './bake-root.mjs';
 import { HALAMAN_STATIS } from './halaman-statis.mjs';
+import { kepalaAnalitik, VERIFIKASI_GSC, GA4_ID } from './analitik.mjs';
 tulisIndeksArtikel(ARTICLES);
 function muatPasar() {
   const p = path.join(ROOT, 'assets/js', 'market.js');
@@ -371,6 +372,7 @@ function head(o) {
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+${kepalaAnalitik()}
 <meta property="og:type" content="${o.ogType || 'website'}">
 <meta property="og:site_name" content="The Signal">
 <meta property="og:locale" content="id_ID">
@@ -1652,6 +1654,39 @@ if (fotoHilang.length) {
     console.warn('PERINGATAN: ' + campur.length + ' artikel memakai notasi "USD14", bukan "US$14".');
     console.warn('  Perbaiki: node scripts/perbaiki-gelar.mjs');
     campur.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
+  }
+}
+
+// Verifikasi Search Console dan GA4 harus ada di SEMUA halaman akar, bukan
+// sebagian. Situs ini punya dua jalur render, dan yang ditulis tangan
+// (index.html, berita.html) diisi lewat penanda yang bisa saja terhapus saat
+// halamannya disunting tangan. Kalau penandanya hilang, bake-root memang
+// melempar galat, tapi penghitung ini menangkap kasus yang lebih sunyi:
+// halaman akar baru yang lupa memasang penandanya sama sekali.
+{
+  // artikel.html dan tayangan.html DIKECUALIKAN, dan itu disengaja. Keduanya
+  // pengalih ber-noindex yang cuma memantulkan pengunjung ke alamat baru,
+  // bukan halaman isi. Memasang pengukur di sana akan menghitung satu lompatan
+  // pengalihan sebagai kunjungan tersendiri, jadi angkanya menggelembung tanpa
+  // ada yang benar-benar membaca apa pun.
+  const isiHalaman = (f) => {
+    const s = fs.readFileSync(path.join(ROOT, f), 'utf8');
+    return { s, halaman: !/name="robots" content="noindex"/.test(s) };
+  };
+  const akar = fs.readdirSync(ROOT).filter(f => f.endsWith('.html'))
+    .filter(f => isiHalaman(f).halaman);
+  const bolong = akar.filter(f => !isiHalaman(f).s.includes('google-site-verification'));
+  if (bolong.length) {
+    console.warn('PERINGATAN: ' + bolong.length + ' halaman akar tanpa verifikasi Search Console.');
+    bolong.slice(0, 5).forEach(f => console.warn('    ' + f));
+  }
+  if (GA4_ID) {
+    const tanpaGa = akar.filter(f =>
+      !fs.readFileSync(path.join(ROOT, f), 'utf8').includes(GA4_ID));
+    if (tanpaGa.length) {
+      console.warn('PERINGATAN: ' + tanpaGa.length + ' halaman akar tanpa pengukur GA4.');
+      tanpaGa.slice(0, 5).forEach(f => console.warn('    ' + f));
+    }
   }
 }
 

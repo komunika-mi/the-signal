@@ -24,6 +24,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { nilaiRingkas } from './bps-grafik.mjs';
+import { kepalaAnalitik } from './analitik.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -318,6 +319,11 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   const counts = {};
   ARTICLES.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
 
+  // Verifikasi Search Console dan, kalau diaktifkan, GA4. Isinya dirakit di
+  // scripts/analitik.mjs supaya beranda dan halaman cetakan head() memakai
+  // potongan yang SAMA PERSIS. Beranda paling banyak dibuka, jadi ia yang
+  // paling mahal kalau tertinggal.
+  idx = ganti(idx, 'kepala', kepalaAnalitik(), 'index.html');
   idx = ganti(idx, 'hero', heroHtml(hero), 'index.html');
   idx = ganti(idx, 'ticker', tickerHtml(ARTICLES), 'index.html');
   idx = ganti(idx, 'brief', ARTICLES.slice(7, 12).map(a => barisRingkas(a)).join(''), 'index.html');
@@ -372,10 +378,17 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
     '<button class="chip active" data-cat="semua" type="button">Semua<span class="chip-count">' + ARTICLES.length + '</span></button>' +
     cats.map(c => '<button class="chip" data-cat="' + catSlug(c) + '" type="button">' + esc(c) +
       '<span class="chip-count">' + counts[c] + '</span></button>').join(''), 'berita.html');
+  brt = ganti(brt, 'kepala', kepalaAnalitik(), 'berita.html');
   brt = ganti(brt, 'grid', ARTICLES.slice(0, 12).map(kartuCerita).join(''), 'berita.html');
   fs.writeFileSync(pBerita, stempelVersi(brt, VER), 'utf8');
 
-  // ---- video.html: tidak ada bagian panggang, tapi stempel versinya wajib. ----
+  // ---- video.html: tidak ada bagian panggang selain kepala, tapi stempel
+  // versinya wajib. Halaman ini sempat TERLEWAT saat verifikasi Search Console
+  // dipasang, karena ia bukan cetakan head() dan juga tidak punya penanda
+  // seperti index dan berita. Yang menangkapnya penghitung di build-pages,
+  // bukan manusia. ----
   const pVideo = path.join(ROOT, 'video.html');
-  fs.writeFileSync(pVideo, stempelVersi(fs.readFileSync(pVideo, 'utf8'), VER), 'utf8');
+  let vid = fs.readFileSync(pVideo, 'utf8');
+  vid = ganti(vid, 'kepala', kepalaAnalitik(), 'video.html');
+  fs.writeFileSync(pVideo, stempelVersi(vid, VER), 'utf8');
 }

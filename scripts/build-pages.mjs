@@ -1603,6 +1603,20 @@ if (fotoHilang.length) {
   }
 }
 
+// Notasi dolar, pola tiga lapis yang sama dengan sebutan kepala negara:
+// aturan di GAYA, alat perbaikan di perbaiki-gelar.mjs, dan penghitung di
+// sini supaya kalau model membandel angkanya kelihatan tiap build.
+{
+  const pola = /USD ?[0-9]/;
+  const campur = ARTICLES.filter(a =>
+    pola.test([a.title, a.deck, a.takeaway, (a.body || []).join(' ')].join(' ')));
+  if (campur.length) {
+    console.warn('PERINGATAN: ' + campur.length + ' artikel memakai notasi "USD14", bukan "US$14".');
+    console.warn('  Perbaiki: node scripts/perbaiki-gelar.mjs');
+    campur.slice(0, 3).forEach(a => console.warn('    ' + a.slug));
+  }
+}
+
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
 console.log('sitemap urls:', urls.length);

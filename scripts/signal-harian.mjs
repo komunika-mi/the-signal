@@ -21,6 +21,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, log, readData, readObjek, arahDeret } from './lib.mjs';
+import { nilaiRingkas } from './bps-grafik.mjs';
 import { tulisHarian, PENGAMAN, GAYA, tanya, ambilJSON } from './rewrite.mjs';
 
 const MIN_BAHAN = 4;   // di bawah ini hari itu terlalu sepi untuk ditarik benangnya
@@ -59,7 +60,12 @@ function rakitAngka() {
       // sepanjang jendela tapi diberi label "cenderung turun".
       const { label, jumlah } = arahDeret(t);
       const arah = label ? label + ' dalam ' + jumlah + ' periode terakhir' : '';
-      baris.push('- ' + ind.nama + ': ' + akhir.nilai + ' ' + (ind.satuan || '') +
+      // Nilainya dicetak nilaiRingkas(), sama dengan grafik situs dan blok
+      // angka email. Sebelumnya nilai mentah BPS yang dikirim, "25458.7 juta
+      // US$", padahal GAYA menuntut angka berkaidah Indonesia; memberi contoh
+      // yang melanggar aturannya sendiri lalu berharap model menyalahi contoh
+      // itu adalah cara yang aneh untuk menegakkan aturan.
+      baris.push('- ' + ind.nama + ': ' + nilaiRingkas(akhir.nilai, ind) +
         ' (' + akhir.periode + ' ' + akhir.tahun + ')' + (arah ? ', ' + arah : ''));
     }
   } catch { /* tanpa BPS pun Signal Harian tetap bisa ditulis */ }

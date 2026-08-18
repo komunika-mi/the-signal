@@ -65,6 +65,8 @@ const GAYA = [
   '- Hindari tanda hubung panjang (em dash). Pakai koma atau titik.',
   '- Jangan pakai kata bombastis seperti "mengejutkan", "gila", "wajib tahu".',
   '- Tulis angka besar dengan format Indonesia: Rp1,5 triliun, 7,2 persen.',
+  '- Mata uang dolar Amerika ditulis "US$14 miliar", bukan "USD14 miliar"',
+  '  dan bukan "14 juta US$". Satu bentuk saja di seluruh tulisan.',
   '- SEBUTAN KEPALA NEGARA, WAJIB: tulis "Presiden Prabowo" atau "Presiden Prabowo',
   '  Subianto", TIDAK PERNAH "Prabowo" saja, termasuk di judul, deck, tag, dan',
   '  pada penyebutan kedua dan seterusnya di dalam satu artikel. Berlaku juga',

@@ -31,20 +31,31 @@ import { ROOT, log } from './lib.mjs';
 // bergelar dan yang ada di dalam sapaan kutipan.
 const POLA = /(?<!Presiden )(?<!Pak )Prabowo/g;
 
-const BERKAS = ['articles.js', 'harian.js', 'harian-arsip.js', 'rapor.js'];
+const BERKAS = ['articles.js', 'harian.js', 'harian-arsip.js', 'rapor.js',
+  'pekanan.js', 'pekanan-arsip.js'];
 
-let totalGanti = 0;
+// Notasi dolar dibakukan jadi "US$14 miliar".
+//
+// Dalam satu edisi 17 Agustus, prosa menulis "USD14 miliar" sementara blok
+// angka di email menulis "juta US$", dua bentuk untuk mata uang yang sama di
+// halaman yang sama. Angka setelahnya WAJIB, supaya "USD" yang berdiri
+// sendiri sebagai singkatan dalam kalimat tidak ikut tergilas.
+const POLA_USD = /USD ?([0-9])/g;
+
+let totalGanti = 0, totalUsd = 0;
 for (const nama of BERKAS) {
   const p = path.join(ROOT, 'assets/js', nama);
   if (!fs.existsSync(p)) continue;
   const sebelum = fs.readFileSync(p, 'utf8');
-  const cocok = sebelum.match(POLA);
-  if (!cocok) { log(nama + ': sudah bersih'); continue; }
-  const sesudah = sebelum.replace(POLA, 'Presiden Prabowo');
+  const gelar = (sebelum.match(POLA) || []).length;
+  const usd = (sebelum.match(POLA_USD) || []).length;
+  if (!gelar && !usd) { log(nama + ': sudah bersih'); continue; }
+  const sesudah = sebelum.replace(POLA, 'Presiden Prabowo').replace(POLA_USD, 'US$$1');
   fs.writeFileSync(p, sesudah, 'utf8');
-  totalGanti += cocok.length;
-  log(nama + ': ' + cocok.length + ' sebutan diberi gelar');
+  totalGanti += gelar; totalUsd += usd;
+  log(nama + ': ' + gelar + ' sebutan diberi gelar, ' + usd + ' notasi dolar dibakukan');
 }
 
-log(totalGanti ? 'total ' + totalGanti + ' sebutan diperbaiki, jalankan build-pages.mjs'
+log(totalGanti + totalUsd
+  ? 'total ' + totalGanti + ' sebutan dan ' + totalUsd + ' notasi dolar diperbaiki, jalankan build-pages.mjs'
   : 'tidak ada yang perlu diperbaiki');

@@ -162,6 +162,22 @@ const PLAY = '<span class="play-dot"><svg viewBox="0 0 24 24"><circle cx="12" cy
 const HARI = ["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"];
 const BULAN = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
 
+// Stempel waktu untuk data terstruktur WAJIB berzona waktu.
+//
+// articles.js menyimpan "2026-08-13T17:11:30" tanpa akhiran zona. Tanpa
+// offset, Google dan mesin jawab menebak sendiri zonanya, dan tebakan yang
+// lazim adalah UTC. Untuk situs yang menerbitkan sore hari WIB, itu menggeser
+// jam terbit tujuh jam ke belakang dan bisa memindahkan artikel ke tanggal
+// sebelumnya. Di produk yang seluruh nilainya bersandar pada kebaruan, itu
+// membuang sinyal yang sudah susah payah dikumpulkan.
+function waktuISO(iso) {
+  const s = String(iso == null ? '' : iso).trim();
+  if (!s) return '';
+  if (/(Z|[+-][0-9]{2}:?[0-9]{2})$/.test(s)) return s;   // sudah berzona
+  if (/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(s)) return s;  // tanggal saja, sah
+  return s + '+07:00';
+}
+
 // "Selasa, 18 Agustus 2026". Dipakai halaman Agenda dan bagian "yang menanti
 // pekan depan" di Signal Pekanan, jadi ditaruh di lingkup modul, bukan di
 // dalam blok Agenda seperti semula.
@@ -390,7 +406,7 @@ ${kepalaAnalitik()}
 <meta name="twitter:description" content="${esc(bagikanDenganKredit(o.desc))}">
 <meta name="twitter:image" content="${o.image}">
 <link rel="stylesheet" href="/assets/css/style.css?v=${VER}">
-${o.jsonld ? '<script type="application/ld+json">' + JSON.stringify(o.jsonld) + '</script>' : ''}
+${[].concat(o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>').join('')}
 </head>
 <body>
 <div class="page">
@@ -568,8 +584,13 @@ ARTICLES.forEach(function (a) {
       // dateModified disamakan dengan datePublished karena artikel di sini
       // tidak pernah disunting setelah terbit; kalau kelak ada alur revisi,
       // baru dipisah.
-      datePublished: a.isoDate,
-      dateModified: a.isoDate,
+      datePublished: waktuISO(a.isoDate),
+      // dateModified mengikuti tanggal RALAT kalau artikel ini pernah
+      // diperbaiki setelah tayang. Menyamakannya dengan datePublished, seperti
+      // sebelumnya, berarti memberi tahu mesin pencari bahwa isi yang sudah
+      // berubah tidak pernah berubah, dan itu justru pada artikel yang paling
+      // perlu dibaca ulang.
+      dateModified: (a.ralat && a.ralat.tanggal) ? a.ralat.tanggal : waktuISO(a.isoDate),
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
@@ -578,6 +599,19 @@ ARTICLES.forEach(function (a) {
         logo: { '@type': 'ImageObject', url: BASE + '/assets/img/apple-touch-icon.png' },
       },
       isBasedOn: a.sourceUrl,
+    },
+    // Remah roti versi terbaca mesin. Markup teksnya sudah lama ada di bawah,
+    // tapi tanpa pasangan JSON-LD ini mesin pencari cuma melihat tiga tautan
+    // biasa, bukan posisi artikel di dalam struktur situs. Hasil pencarian
+    // menampilkannya sebagai jalur kategori alih-alih URL mentah, dan mesin
+    // jawab memakainya untuk tahu artikel ini bagian dari rubrik apa.
+    jsonldTambahan: {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Beranda', item: BASE + '/' },
+        { '@type': 'ListItem', position: 2, name: plain(a.category), item: BASE + '/berita.html#kat=' + catSlug(a.category) },
+        { '@type': 'ListItem', position: 3, name: plain(a.title) },
+      ],
     },
   }) +
     `<div class="rail breadcrumb"><a href="/index.html">Beranda</a> &rsaquo; <a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
@@ -862,9 +896,17 @@ const DISCLAIMER_SINYAL =
   `bukan anjuran membeli atau menjual saham. Tiap artikel menautkan dokumen aslinya.</p>` +
   `<a href="/tentang.html">Cara kerja redaksi The Signal &rarr;</a></div>`;
 
+// Urutan kedua membandingkan WAKTU, bukan untaian teks.
+//
+// articles.js menyimpan stempel waktu dalam tiga bentuk sekaligus: berakhiran
+// Z untuk UTC, tanpa zona untuk WIB, dan tanggal saja. Perbandingan teks
+// menempatkan "2026-08-18T20:00:00" di atas "2026-08-18T13:00:00Z" padahal
+// keduanya SAAT YANG SAMA. Pengurutan artikel di tempat lain memakai keWaktu()
+// dan aman; hanya baris ini yang tertinggal memakai localeCompare.
+const waktuArtikel = (a) => new Date(waktuISO(a && a.isoDate)).getTime() || 0;
 const DAFTAR_EMITEN = [...EMITEN.entries()].sort((x, y) =>
   y[1].length - x[1].length ||
-  String(y[1][0].isoDate || '').localeCompare(String(x[1][0].isoDate || '')));
+  waktuArtikel(y[1][0]) - waktuArtikel(x[1][0]));
 
 for (const [kode, arts] of DAFTAR_EMITEN) {
   const hitung = { positif: 0, negatif: 0, netral: 0 };
@@ -890,6 +932,29 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
       url: '/emiten/' + kode + '.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      // Halaman emiten adalah bentuk paling mungkin dikutip mesin jawab dari
+      // situs ini: pertanyaan seperti "aksi korporasi ADHI terbaru apa"
+      // dijawab persis oleh satu halaman ini. CollectionPage memberi tahu
+      // mesin bahwa isinya kumpulan laporan yang terurut, bukan satu artikel,
+      // dan ItemList memberi judul serta tanggal tiap laporan tanpa perlu
+      // menebaknya dari HTML.
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'CollectionPage',
+        name: 'Sinyal ' + kode,
+        description: 'Riwayat keterbukaan informasi ' + kode + ' yang dibaca The Signal.',
+        url: BASE + '/emiten/' + kode + '.html',
+        inLanguage: 'id-ID',
+        isPartOf: { '@id': BASE + '/#situs' },
+        publisher: { '@id': BASE + '/#organisasi' },
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: arts.length,
+          itemListElement: arts.slice(0, 30).map((a, i) => ({
+            '@type': 'ListItem', position: i + 1,
+            url: BASE + articleUrl(a), name: plain(a.title),
+          })),
+        },
+      },
     }) + isi + FOOT, 'utf8');
 }
 
@@ -1437,7 +1502,125 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
     (u.lastmod ? '<lastmod>' + u.lastmod + '</lastmod>' : '') + '</url>').join('\n') +
   '\n</urlset>\n', 'utf8');
-fs.writeFileSync(ROOT + '/robots.txt', 'User-agent: *\nAllow: /\n\nSitemap: ' + BASE + '/sitemap.xml\n', 'utf8');
+// ---------- sitemap Google News ----------
+//
+// Sitemap biasa memberi tahu Google SEMUA halaman; sitemap news memberi tahu
+// mana yang BARU, dan itu jalur berbeda yang dipakai Google News serta Top
+// Stories. Aturannya ketat dan sengaja dipatuhi di sini: hanya artikel dua
+// hari terakhir, maksimum 1.000 URL, dan tanggal terbit wajib berzona waktu.
+// Memasukkan artikel lama bukan sekadar sia-sia, tapi membuat seluruh berkas
+// diabaikan.
+{
+  const NL = String.fromCharCode(10);
+  const batas = Date.now() - 2 * 86400000;
+  const baru = ARTICLES
+    .filter(a => a.isoDate && new Date(waktuISO(a.isoDate)).getTime() > batas)
+    .slice(0, 1000);
+  const isi = baru.map(a =>
+    '  <url><loc>' + BASE + articleUrl(a) + '</loc>' +
+    '<news:news><news:publication>' +
+    '<news:name>The Signal</news:name><news:language>id</news:language>' +
+    '</news:publication>' +
+    '<news:publication_date>' + esc(waktuISO(a.isoDate)) + '</news:publication_date>' +
+    '<news:title>' + esc(plain(a.title)) + '</news:title>' +
+    '</news:news></url>').join(NL);
+  fs.writeFileSync(ROOT + '/news-sitemap.xml',
+    '<?xml version="1.0" encoding="UTF-8"?>' + NL +
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" ' +
+    'xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">' + NL +
+    isi + NL + '</urlset>' + NL, 'utf8');
+  console.log('news sitemap:', baru.length, 'artikel 2 hari terakhir');
+}
+
+// ---------- llms.txt ----------
+//
+// Berkas ini untuk mesin jawab, bukan mesin pencari. Saat ChatGPT, Perplexity,
+// atau Gemini mengambil halaman ini, yang menentukan apakah mereka MENGUTIP
+// dengan benar bukan kata kunci, melainkan apakah mereka paham sumbernya apa,
+// aturannya apa, dan halaman mana yang berisi data. Itu yang ditulis di sini.
+{
+  const NL = String.fromCharCode(10);
+  const isi = [
+    '# The Signal',
+    '',
+    '> Media ekonomi Indonesia. Membaca ARAH kebijakan dan aksi korporasi dari',
+    '> dokumen resmi, bukan sekadar melaporkan peristiwa. Kolaborasi editorial',
+    '> dengan tvOneNews, didukung adsmediamix.id.',
+    '',
+    'Aturan redaksi yang relevan kalau Anda mengutip situs ini:',
+    '',
+    '- Setiap artikel menyertakan tautan ke dokumen aslinya di kolom sumber dan',
+    '  pada properti isBasedOn di data terstrukturnya. Kutip dokumen itu kalau',
+    '  Anda butuh sumber primer.',
+    '- Aturan redaksi melarang penambahan fakta di luar sumber. Angka, tanggal,',
+    '  dan nama di artikel berasal dari dokumen yang ditautkan.',
+    '- Bagian "Arahnya ke mana" adalah PEMBACAAN redaksi, bukan fakta dari',
+    '  sumber. Bedakan keduanya saat mengutip.',
+    '- Kekeliruan yang terkonfirmasi diperbaiki di artikel yang sama disertai',
+    '  catatan ralat yang terlihat, dan dateModified pada data terstrukturnya',
+    '  ikut diperbarui. Kalau sebuah artikel memuat blok ralat, versi yang',
+    '  benar adalah yang sedang Anda baca.',
+    '- Kepala negara ditulis "Presiden Prabowo", tidak pernah nama telanjang.',
+    '',
+    '## Halaman utama',
+    '',
+    '- [Beranda](' + BASE + '/): pembacaan arah hari ini plus berita terbaru.',
+    '- [Signal Harian](' + BASE + '/signal-harian.html): satu tulisan yang merangkai seluruh berita hari itu jadi satu benang arah kebijakan. Terbit malam hari kerja.',
+    '- [Signal Pekanan](' + BASE + '/signal-pekanan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.',
+    '- [Semua berita](' + BASE + '/berita.html): arsip lengkap dengan penyaring kategori.',
+    '',
+    '## Data dan rujukan',
+    '',
+    '- [Data ekonomi](' + BASE + '/data-ekonomi.html): indikator resmi BPS berikut grafik dan arah beberapa periode terakhir.',
+    '- [Agenda](' + BASE + '/agenda.html): kalender maju berisi tanggal penentu yang disebut dokumen resmi, misalnya RUPS, tenggat obligasi, dan jadwal rilis data.',
+    '- [Rapor Sinyal](' + BASE + '/rapor.html): rekam jejak pembacaan arah kami sendiri, termasuk yang meleset.',
+    '- [Sinyal per emiten](' + BASE + '/emiten.html): riwayat aksi korporasi per kode saham.',
+    '- [Tema bersambung](' + BASE + '/tema.html): kumpulan artikel yang menyambung dalam satu isu.',
+    '',
+    '## Mesin baca',
+    '',
+    '- [Feed RSS](' + BASE + '/feed.xml)',
+    '- [Sitemap](' + BASE + '/sitemap.xml)',
+    '- [Sitemap berita](' + BASE + '/news-sitemap.xml): artikel dua hari terakhir.',
+    '',
+    '## Identitas dan tanggung jawab',
+    '',
+    '- [Tentang](' + BASE + '/tentang.html): siapa kami dan bagaimana artikel disusun, termasuk peran mesin di dalamnya.',
+    '- [Pedoman media siber](' + BASE + '/pedoman-media-siber.html): verifikasi, ralat, dan hak jawab.',
+    '- [Privasi](' + BASE + '/privasi.html)',
+    '- [Kontak dan koreksi](' + BASE + '/kontak.html): tempat melaporkan kekeliruan.',
+    '',
+  ].join(NL);
+  fs.writeFileSync(ROOT + '/llms.txt', isi, 'utf8');
+}
+
+// ---------- robots.txt ----------
+//
+// Perayap mesin jawab DISEBUT SATU PER SATU walau tanda bintang di atas sudah
+// mengizinkan semuanya. Alasannya bukan teknis melainkan supaya keputusannya
+// terbaca: sebagian perayap memperlakukan blok bernama dirinya sebagai
+// satu-satunya aturan yang berlaku baginya, dan Google-Extended punya
+// perilaku tersendiri, yaitu mengatur pemakaian isi untuk Gemini TANPA
+// menyentuh peringkat Penelusuran sama sekali.
+//
+// Keputusan editorialnya: DIIZINKAN. Media ini kecil dan baru, jadi dikutip
+// mesin jawab lebih berharga daripada dilindungi dari kutipan.
+{
+  const NL = String.fromCharCode(10);
+  const perayapAI = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot',
+    'Claude-Web', 'anthropic-ai', 'PerplexityBot', 'Perplexity-User',
+    'Google-Extended', 'Applebot-Extended', 'CCBot', 'Amazonbot',
+    'meta-externalagent'];
+  const isi = ['User-agent: *', 'Allow: /', '']
+    .concat(perayapAI.flatMap(p => ['User-agent: ' + p, 'Allow: /', '']))
+    .concat([
+      'Sitemap: ' + BASE + '/sitemap.xml',
+      'Sitemap: ' + BASE + '/news-sitemap.xml',
+      '',
+    ]).join(NL);
+  fs.writeFileSync(ROOT + '/robots.txt', isi, 'utf8');
+}
+
 
 // ---------- feed.xml ----------
 // Feed ini BUKAN sekadar pelengkap SEO. Inilah yang mengirim Signal Harian ke

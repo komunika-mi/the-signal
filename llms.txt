@@ -1,0 +1,48 @@
+# The Signal
+
+> Media ekonomi Indonesia. Membaca ARAH kebijakan dan aksi korporasi dari
+> dokumen resmi, bukan sekadar melaporkan peristiwa. Kolaborasi editorial
+> dengan tvOneNews, didukung adsmediamix.id.
+
+Aturan redaksi yang relevan kalau Anda mengutip situs ini:
+
+- Setiap artikel menyertakan tautan ke dokumen aslinya di kolom sumber dan
+  pada properti isBasedOn di data terstrukturnya. Kutip dokumen itu kalau
+  Anda butuh sumber primer.
+- Aturan redaksi melarang penambahan fakta di luar sumber. Angka, tanggal,
+  dan nama di artikel berasal dari dokumen yang ditautkan.
+- Bagian "Arahnya ke mana" adalah PEMBACAAN redaksi, bukan fakta dari
+  sumber. Bedakan keduanya saat mengutip.
+- Kekeliruan yang terkonfirmasi diperbaiki di artikel yang sama disertai
+  catatan ralat yang terlihat, dan dateModified pada data terstrukturnya
+  ikut diperbarui. Kalau sebuah artikel memuat blok ralat, versi yang
+  benar adalah yang sedang Anda baca.
+- Kepala negara ditulis "Presiden Prabowo", tidak pernah nama telanjang.
+
+## Halaman utama
+
+- [Beranda](https://the-signal.id/): pembacaan arah hari ini plus berita terbaru.
+- [Signal Harian](https://the-signal.id/signal-harian.html): satu tulisan yang merangkai seluruh berita hari itu jadi satu benang arah kebijakan. Terbit malam hari kerja.
+- [Signal Pekanan](https://the-signal.id/signal-pekanan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.
+- [Semua berita](https://the-signal.id/berita.html): arsip lengkap dengan penyaring kategori.
+
+## Data dan rujukan
+
+- [Data ekonomi](https://the-signal.id/data-ekonomi.html): indikator resmi BPS berikut grafik dan arah beberapa periode terakhir.
+- [Agenda](https://the-signal.id/agenda.html): kalender maju berisi tanggal penentu yang disebut dokumen resmi, misalnya RUPS, tenggat obligasi, dan jadwal rilis data.
+- [Rapor Sinyal](https://the-signal.id/rapor.html): rekam jejak pembacaan arah kami sendiri, termasuk yang meleset.
+- [Sinyal per emiten](https://the-signal.id/emiten.html): riwayat aksi korporasi per kode saham.
+- [Tema bersambung](https://the-signal.id/tema.html): kumpulan artikel yang menyambung dalam satu isu.
+
+## Mesin baca
+
+- [Feed RSS](https://the-signal.id/feed.xml)
+- [Sitemap](https://the-signal.id/sitemap.xml)
+- [Sitemap berita](https://the-signal.id/news-sitemap.xml): artikel dua hari terakhir.
+
+## Identitas dan tanggung jawab
+
+- [Tentang](https://the-signal.id/tentang.html): siapa kami dan bagaimana artikel disusun, termasuk peran mesin di dalamnya.
+- [Pedoman media siber](https://the-signal.id/pedoman-media-siber.html): verifikasi, ralat, dan hak jawab.
+- [Privasi](https://the-signal.id/privasi.html)
+- [Kontak dan koreksi](https://the-signal.id/kontak.html): tempat melaporkan kekeliruan.

@@ -25,6 +25,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { nilaiRingkas } from './bps-grafik.mjs';
 import { kepalaAnalitik } from './analitik.mjs';
+import { SITUS as BASE } from './situs.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -308,6 +309,65 @@ function blokAgenda(AGENDA) {
   }).join('');
 }
 
+
+// Identitas penerbit, hanya di beranda.
+//
+// Dipakai NewsMediaOrganization, bukan Organization biasa, karena tipe itu
+// menyediakan properti yang justru paling menentukan bagi media: kebijakan
+// ralat, prinsip penerbitan, dan kebijakan etik. Ketiganya BUKAN klaim
+// kosong di sini, halamannya benar-benar ada dan isinya ditegakkan.
+//
+// Inilah yang dibaca mesin pencari untuk membentuk panel pengetahuan, dan
+// yang dibaca mesin jawab untuk memutuskan apakah sebuah situs layak
+// dikutip sebagai sumber atau cuma salah satu halaman di internet.
+//
+// SearchAction sengaja TIDAK dipasang. Kotak pencarian di situs ini bekerja
+// di sisi klien tanpa alamat hasil pencarian, jadi templat URL apa pun yang
+// dituliskan akan bohong. Data terstruktur yang salah lebih merugikan
+// daripada data terstruktur yang tidak ada.
+function jsonLdSitus() {
+  const org = {
+    '@context': 'https://schema.org',
+    '@type': 'NewsMediaOrganization',
+    '@id': BASE + '/#organisasi',
+    name: 'The Signal',
+    alternateName: 'The Signal Indonesia',
+    url: BASE + '/',
+    logo: {
+      '@type': 'ImageObject',
+      url: BASE + '/assets/img/apple-touch-icon.png',
+      width: 180, height: 180,
+    },
+    description: 'Media ekonomi Indonesia yang membaca arah kebijakan dan aksi ' +
+      'korporasi dari dokumen resmi. Kolaborasi editorial dengan tvOneNews.',
+    inLanguage: 'id-ID',
+    email: 'komunika.mi@gmail.com',
+    sameAs: [
+      'https://t.me/thesignalid',
+      'https://buttondown.com/the-signal',
+    ],
+    correctionsPolicy: BASE + '/pedoman-media-siber.html',
+    publishingPrinciples: BASE + '/pedoman-media-siber.html',
+    ethicsPolicy: BASE + '/pedoman-media-siber.html',
+    verificationFactCheckingPolicy: BASE + '/pedoman-media-siber.html',
+    parentOrganization: {
+      '@type': 'Organization', name: 'adsmediamix.id', url: 'https://adsmediamix.id',
+    },
+  };
+  const situs = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': BASE + '/#situs',
+    name: 'The Signal',
+    url: BASE + '/',
+    inLanguage: 'id-ID',
+    publisher: { '@id': BASE + '/#organisasi' },
+  };
+  return [org, situs]
+    .map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>')
+    .join(String.fromCharCode(10));
+}
+
 export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
@@ -324,6 +384,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   // potongan yang SAMA PERSIS. Beranda paling banyak dibuka, jadi ia yang
   // paling mahal kalau tertinggal.
   idx = ganti(idx, 'kepala', kepalaAnalitik(), 'index.html');
+  idx = ganti(idx, 'situs', jsonLdSitus(), 'index.html');
   idx = ganti(idx, 'hero', heroHtml(hero), 'index.html');
   idx = ganti(idx, 'ticker', tickerHtml(ARTICLES), 'index.html');
   idx = ganti(idx, 'brief', ARTICLES.slice(7, 12).map(a => barisRingkas(a)).join(''), 'index.html');

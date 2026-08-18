@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
+  "category": "UMKM",
+  "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",
+  "deck": "PT MJEthnic Craft Indonesia asal Jayapura tumbuh dari toko daring kerajinan Papua menjadi distributor produk UMKM Nusantara setelah mengikuti Pelatihan Ekspor BRI Peduli.",
+  "image": "assets/img/umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T19:22:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460859-berkat-pelatihan-ekspor-bri-peduli-pt-mjethnic-craft-indonesia-dari-jayapura-angkat-budaya-lokal-menembus-pasar-internasional",
+  "tags": [
+   "BRI Peduli",
+   "UMKM Papua",
+   "pelatihan ekspor",
+   "pemberdayaan UMKM"
+  ],
+  "body": [
+   "Sebuah usaha rintisan asal Jayapura, PT MJEthnic Craft Indonesia, kini merambah pasar internasional setelah pendirinya, Sukma Ayu Mayangsari, mengikuti Pelatihan Ekspor dari program BRI Peduli. Kisah ini menjadi contoh bagaimana pelaku usaha daerah bisa naik kelas dari pemasaran lokal menuju pasar luar negeri lewat program pendampingan yang disediakan perbankan.",
+   "Usaha ini bermula pada 2022 sebagai toko daring sederhana yang menjual kerajinan khas Papua. Seiring bertambahnya kepercayaan pelanggan, perusahaan berkembang menjadi distributor produk UMKM dari berbagai daerah di Indonesia, mulai dari kerajinan tangan, fesyen, aksesori, hingga kuliner khas.",
+   "Selain berdagang, perusahaan ini menyisihkan 2,5 persen dari setiap hasil penjualan untuk membantu warga kurang mampu di Papua, sekaligus memberdayakan pengrajin lokal, terutama perempuan, yang menggantungkan hidup dari kerajinan tangan tersebut. Bagi Sukma, nilai sebuah usaha tidak hanya diukur dari keuntungan, tetapi juga manfaatnya bagi masyarakat sekitar.",
+   "Sukma menyebut Pelatihan Ekspor BRI Peduli membantunya memahami seluk-beluk dunia ekspor sekaligus membuka jejaring dengan pelaku UMKM dari berbagai daerah di Indonesia. Bekal ini ia harapkan mempercepat langkah kerajinan Papua menembus pasar internasional."
+  ],
+  "fotoAdegan": "Indigenous Papuan artisans weaving traditional handicrafts from natural fibers under a thatched roof workshop, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a844c9f8e6d9-pt-mjethnic-craft-indonesia-dari-jayapura-angkat-budaya-lokal-menembus-pasar-internasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari cerita ini adalah PT MJEthnic Craft Indonesia menyisihkan 2,5 persen dari setiap penjualan untuk warga kurang mampu di Papua, dan usahanya tumbuh dari toko daring sederhana sejak 2022 menjadi distributor produk UMKM lintas daerah. Yang jelas terdampak adalah pengrajin lokal Papua, terutama perempuan, yang karyanya kini dipasarkan lebih luas, serta warga kurang mampu di Papua yang menerima sebagian hasil penjualan. Namun berita ini tidak menyebut berapa banyak UMKM lain yang mengikuti Pelatihan Ekspor BRI Peduli, berapa nilai transaksi ekspor yang sudah terealisasi, atau negara tujuan ekspornya, sehingga belum bisa dibaca apakah program ini sudah mengantar pelaku UMKM pada transaksi ekspor nyata atau baru sebatas pembekalan. Yang perlu dipantau adalah data realisasi ekspor UMKM binaan BRI Peduli pada laporan berikutnya, termasuk jumlah UMKM yang berhasil menembus pasar luar negeri.",
+  "imageV": "msypskwz"
+ },
+ {
   "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
   "category": "Moneter",
   "title": "Rupiah [Melemah] ke Rp17.862, Ditekan Minyak dan Utang Luar Negeri",

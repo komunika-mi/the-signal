@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "8MR2N8l3TyU",
+  "title": "BPS: Backlog Rumah Turun Jadi 9,29 Juta Keluarga",
+  "category": "Makroekonomi",
+  "program": "Ulas Utas",
+  "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
+  "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional."
+ },
+ {
   "id": "tv6fetTfC-g",
   "title": "Transformasi Pegadaian Jadi Pelopor Ekosistem Bullion Nasional",
   "category": "Perbankan",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Pemerintahan Presiden AS Donald Trump mengalihkan tekanan terhadap Iran dari jalur militer ke ekonomi, dengan fokus pengetatan sanksi terhadap Teheran.",
   "takeaway": "Sanksi ekonomi AS terhadap Iran berpotensi memengaruhi harga energi global dan pasar komoditas yang relevan bagi pembaca ekonomi."
- },
- {
-  "id": "B_xxGHkDml4",
-  "title": "Jubir ESDM Beberkan Dampak Signifikan Program B50",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
-  "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
  }
 ];

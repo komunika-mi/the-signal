@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
+  "category": "UMKM",
+  "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",
+  "deck": "PT MJEthnic Craft Indonesia asal Jayapura tumbuh dari toko daring kerajinan Papua menjadi distributor produk UMKM Nusantara setelah mengikuti Pelatihan Ekspor BRI Peduli.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli.jpg",
+  "imageV": "msypskwz",
+  "tags": [
+   "BRI Peduli",
+   "UMKM Papua",
+   "pelatihan ekspor",
+   "pemberdayaan UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460859-berkat-pelatihan-ekspor-bri-peduli-pt-mjethnic-craft-indonesia-dari-jayapura-angkat-budaya-lokal-menembus-pasar-internasional"
+ },
+ {
   "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
   "category": "Moneter",
   "title": "Rupiah [Melemah] ke Rp17.862, Ditekan Minyak dan Utang Luar Negeri",

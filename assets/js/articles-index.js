@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
+  "category": "BUMN",
+  "title": "BRI Peduli [Bangun] Tiga Posko Logistik di NTT Pascagempa",
+  "deck": "BRI mendirikan tiga posko logistik dan satu dapur umum di Manggarai Barat, Ngada, dan Nagekeo untuk mempercepat penyaluran bantuan bagi warga terdampak gempa Flores.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa.jpg",
+  "imageV": "msytotvn",
+  "tags": [
+   "BRI Peduli",
+   "gempa Flores",
+   "BUMN",
+   "NTT"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460884-bri-peduli-bangun-3-posko-logistik-dan-1-dapur-umum-di-ntt-direksi-bri-terjun-langsung-tinjau-lokasi-gempa"
+ },
+ {
+  "slug": "pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi",
+  "category": "BUMN",
+  "title": "Pertamina Undi 25 Motor untuk Ojol, [BOOM] Sisakan 50 Unit Lagi",
+  "deck": "Pertamina Patra Niaga mengundi 25 motor Honda Vario 160 untuk mitra ojol lewat Program BOOM Periode 2, bertepatan HUT ke-81 RI. Masih ada 50 unit motor lagi yang akan diundi.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi.jpg",
+  "imageV": "msytoujk",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "BOOM",
+   "ojek online",
+   "MyPertamina"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460880-semarak-hut-kemerdekaan-pertamina-patra-niaga-undi-25-motor-untuk-ojol-lewat-boom-periode-2-masih-ada-50-unit"
+ },
+ {
   "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
   "category": "UMKM",
   "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",

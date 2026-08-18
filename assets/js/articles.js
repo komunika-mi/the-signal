@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
+  "category": "BUMN",
+  "title": "BRI Peduli [Bangun] Tiga Posko Logistik di NTT Pascagempa",
+  "deck": "BRI mendirikan tiga posko logistik dan satu dapur umum di Manggarai Barat, Ngada, dan Nagekeo untuk mempercepat penyaluran bantuan bagi warga terdampak gempa Flores.",
+  "image": "assets/img/bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T21:04:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460884-bri-peduli-bangun-3-posko-logistik-dan-1-dapur-umum-di-ntt-direksi-bri-terjun-langsung-tinjau-lokasi-gempa",
+  "tags": [
+   "BRI Peduli",
+   "gempa Flores",
+   "BUMN",
+   "NTT"
+  ],
+  "body": [
+   "BRI mempercepat proses pemulihan pascagempa yang mengguncang sejumlah wilayah di Flores, Nusa Tenggara Timur, lewat program tanggung jawab sosial perusahaan. Setelah sebelumnya menyalurkan bantuan tanggap darurat, bank pelat merah yang kini berada di bawah holding BUMN Danantara ini membangun infrastruktur permanen untuk mendekatkan bantuan ke warga di lokasi bencana.",
+   "Tiga posko logistik didirikan di tiga kabupaten yang paling terdampak. Posko induk berlokasi di Batu Cermin, Kecamatan Komodo, untuk wilayah Labuan Bajo dan Manggarai Barat. Posko kedua berada di Jalan TW Mengeruda, Ngedukelu, Bajawa, Kabupaten Ngada, sementara posko ketiga terletak di Jalan TW 17, Pulau, Danga, Kecamatan Aesesa, Kabupaten Nagekeo. Di Nagekeo, BRI juga mendirikan satu dapur umum untuk memenuhi kebutuhan makan warga terdampak.",
+   "Direktur Operations BRI Hakim Putratama bersama Direktur Micro BRI Akhmad Purwakajaya turun langsung meninjau lokasi terdampak. Kunjungan ini bertujuan memastikan kesiapan posko dan dapur umum, kelancaran distribusi bantuan, serta ketepatan sasaran penyaluran kepada masyarakat di lapangan.",
+   "Corporate Secretary BRI Dhanny menjelaskan bahwa posko-posko tersebut berfungsi sebagai titik pengumpulan, pengelolaan, dan distribusi bantuan sebelum disalurkan ke warga di sekitarnya. \"Posko logistik dan dapur umum BRI Peduli merupakan bentuk komitmen BRI untuk terus hadir bersama masyarakat, khususnya dalam situasi yang membutuhkan kepedulian dan dukungan seperti halnya di NTT. Ke depan, posko logistik dan dapur umum tidak menutup kemungkinan untuk kami tambah sesuai dengan kondisi dan kebutuhan,\" ujar Dhanny."
+  ],
+  "fotoAdegan": "Volunteers unloading boxes of relief supplies from a truck at a rural logistics post, hilly Flores landscape, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a84647fa987b-bri-peduli-bangun-3-posko-logistik-dan-1-dapur-umum-di-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah bertambahnya infrastruktur bantuan: tiga posko logistik dan satu dapur umum berdiri di tiga kabupaten sekaligus, yaitu Manggarai Barat, Ngada, dan Nagekeo. Pihak yang terdampak langsung adalah warga di tiga wilayah itu, yang kini punya titik tetap untuk mengakses dan mengambil bantuan, sementara bagi BRI sendiri langkah ini menjalankan fungsi tanggung jawab sosial sebagai bagian dari holding BUMN Danantara. Pernyataan manajemen BRI bahwa jumlah posko tidak menutup kemungkinan bertambah menunjukkan skala bantuan ini belum final dan masih menyesuaikan kebutuhan lapangan. Yang perlu dipantau adalah apakah posko baru benar-benar ditambah dalam waktu dekat, karena itu jadi penanda seberapa luas dampak gempa yang masih dirasakan warga Flores.",
+  "imageV": "msytotvn"
+ },
+ {
+  "slug": "pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi",
+  "category": "BUMN",
+  "title": "Pertamina Undi 25 Motor untuk Ojol, [BOOM] Sisakan 50 Unit Lagi",
+  "deck": "Pertamina Patra Niaga mengundi 25 motor Honda Vario 160 untuk mitra ojol lewat Program BOOM Periode 2, bertepatan HUT ke-81 RI. Masih ada 50 unit motor lagi yang akan diundi.",
+  "image": "assets/img/pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T20:51:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460880-semarak-hut-kemerdekaan-pertamina-patra-niaga-undi-25-motor-untuk-ojol-lewat-boom-periode-2-masih-ada-50-unit",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "BOOM",
+   "ojek online",
+   "MyPertamina"
+  ],
+  "body": [
+   "Pertamina Patra Niaga mengundi 25 unit sepeda motor Honda Vario 160 untuk mitra pengemudi ojek online dalam Program Berkah Ojek Online MyPertamina (BOOM) Periode 2. Pengundian digelar bertepatan dengan HUT ke-81 Kemerdekaan RI, dalam acara MyPertamina Pasar Rakyat 2026 di Hutan Kota GBK, Jakarta, Senin (17/8/2026). Bagi mitra ojol yang sehari-hari menggantungkan penghasilan pada sepeda motor, hadiah ini berarti langsung menambah aset kerja mereka.",
+   "Program BOOM menyediakan total 100 unit sepeda motor. Setelah 25 unit Yamaha Lexi 155 diundi pada Periode 1, kini giliran 25 unit Honda Vario 160 Type Standard 2025 yang diundi untuk Periode 2, menyisakan 50 unit lagi untuk periode berikutnya. Periode 2 berlangsung sejak 1 Mei hingga 31 Juli 2026, diikuti 5.215 mitra pengemudi dari berbagai platform seperti Gojek, Grab, inDrive, dan Maxim, dengan total 251.393 kupon undian yang terkumpul.",
+   "Direktur Utama Pertamina Patra Niaga, Mars Ega Legowo Putra, mengatakan program ini menjadi cara perusahaan merayakan kemerdekaan sekaligus mengapresiasi mitra ojol yang menjaga mobilitas masyarakat sehari-hari. VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menambahkan bahwa hadiah sepeda motor dipilih karena relevan dengan pekerjaan mitra ojol, dan kupon undian diperoleh dari transaksi serta poin yang dikumpulkan lewat aplikasi MyPertamina.",
+   "Antusiasme program ini dirasakan Daniar, mitra pengemudi Grab yang datang dari Jatinegara untuk menyaksikan langsung pengundian. Baginya, hadiah sepeda motor sangat bermanfaat karena kendaraan adalah alat utama mitra ojol mencari nafkah setiap hari."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers standing beside their bikes at an outdoor urban park gathering, morning light, red-and-white bunting blurred in the distance.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a8461a3c05d4-keseruan-driver-ojol-saat-pengundian-pengundian-program-berkah-ojek-online-mypertamina-boom_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Program BOOM ini sebenarnya bukan sekadar hadiah kemerdekaan, melainkan alat Pertamina Patra Niaga untuk mendorong mitra ojol bertransaksi lewat aplikasi MyPertamina, karena kupon undian didapat dari poin transaksi di aplikasi tersebut. Yang terdampak langsung adalah 5.215 mitra ojol dari berbagai platform seperti Gojek, Grab, inDrive, dan Maxim yang ikut serta pada periode ini, kelompok yang menjadi salah satu konsumen bahan bakar terbesar karena mobilitas hariannya. Dengan baru separuh dari 100 unit motor yang diundi dan 50 unit masih tersisa, program ini tampak akan berlanjut ke periode berikutnya dengan pola serupa, yaitu mendorong transaksi lewat aplikasi lebih dulu, baru pengundian menyusul. Yang akan memastikan pola ini adalah jadwal pengundian periode ketiga, serta apakah jumlah peserta dan kupon yang terkumpul terus naik dibanding periode sebelumnya.",
+  "imageV": "msytoujk"
+ },
+ {
   "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
   "category": "UMKM",
   "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",

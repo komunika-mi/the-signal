@@ -969,3 +969,24 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
   .menanti-item { flex-direction: column; gap: .2rem; }
   .menanti-tgl { flex: none; }
 }
+
+/* Catatan ralat. Dipasang di artikel atau edisi yang isinya pernah diperbaiki
+   setelah tayang, sesuai janji di pedoman-media-siber.html.
+
+   Sengaja TIDAK dibuat mencolok seperti kotak peringatan merah. Ini bukan
+   kabar buruk yang harus dijauhi pembaca, melainkan tanda bahwa medianya
+   memperbaiki diri secara terbuka. Yang dibutuhkan cukup terlihat dan jelas
+   terpisah dari badan tulisan, bukan berteriak. */
+.ralat {
+  max-width: 70ch; margin: 1.6rem 0; padding: .9rem 1.1rem;
+  border-left: 3px solid var(--red-deep);
+  background: var(--red-tint);
+  font-family: var(--sans);
+}
+.ralat-label {
+  display: block; font-size: .72rem; font-weight: 800;
+  letter-spacing: .07em; text-transform: uppercase;
+  color: var(--red-deep); margin-bottom: .35rem;
+}
+.ralat p { margin: 0; font-size: .88rem; line-height: 1.6; color: var(--ink); }
+@media (max-width: 560px) { .ralat { padding: .8rem .9rem; } }

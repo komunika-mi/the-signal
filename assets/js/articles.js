@@ -2385,7 +2385,12 @@ var ARTICLES = [
   "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/02/06/65c173e4bac75-logo-bumn_1200_675.jpg",
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret: dari 1.074 BUMN, 290 sudah ditutup sampai kemarin, menghemat Rp50 triliun terutama dari pos gaji direksi, perjalanan dinas, sewa gedung, dan sewa kendaraan kantor. Yang kena dampak langsung adalah karyawan dan direksi di perusahaan yang ditutup serta sektor atau daerah tempat BUMN itu beroperasi, sementara publik disebut akan menikmati dana yang dialihkan ke pos lain. Perlu dicermati soal kecepatannya, sebab penutupan 290 BUMN itu berlangsung dalam sekitar 22 bulan sejak Presiden Prabowo menjabat, sedangkan sekitar 484 penutupan berikutnya dikejar dalam sisa waktu kurang dari lima bulan hingga akhir tahun. Arah yang terlihat adalah percepatan tajam dari pola sebelumnya, dan yang akan memastikan apakah percepatan ini benar tercapai adalah laporan realisasi resmi pada akhir Desember 2026, saat pemerintah mengklaim jumlah BUMN akan tersisa maksimal 300.",
-  "imageV": "msss9c94"
+  "imageV": "msss9c94",
+  "ralat": {
+   "tanggal": "2026-08-18",
+   "label": "18 Agustus 2026",
+   "teks": "Versi awal artikel ini menulis pemerintah menargetkan penutupan 750 BUMN lagi sebelum akhir 2026. Angka 750 adalah jumlah penutupan secara keseluruhan, dari 1.074 BUMN menjadi maksimal 300, dan 290 di antaranya sudah selesai, sehingga yang tersisa sekitar 484. Judul dan isi artikel sudah diperbaiki."
+  }
  },
  {
   "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",

@@ -169,6 +169,33 @@ const BULAN = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus
 // new Date('pekan depan' + 'T00:00:00Z') menghasilkan Invalid Date dan
 // pembaca disuguhi "undefined, NaN undefined NaN". Tanggal di bagian menanti
 // datang dari model, jadi kemungkinan itu nyata, bukan teoretis.
+function tglRingkas(isoTgl) {
+  const d = new Date(isoTgl + 'T00:00:00Z');
+  if (isNaN(d.getTime())) return String(isoTgl == null ? '' : isoTgl);
+  return d.getUTCDate() + ' ' + BULAN[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
+}
+
+// Catatan ralat, dipasang pada artikel atau edisi yang isinya pernah
+// diperbaiki setelah tayang.
+//
+// BUKAN hiasan dan bukan pilihan. pedoman-media-siber.html yang sudah tayang
+// berjanji: "Kekeliruan yang terkonfirmasi dikoreksi secepatnya di artikel
+// yang sama, disertai catatan perbaikan. Kami tidak menghapus artikel
+// diam-diam untuk menutupi kekeliruan." Mengoreksi angka tanpa memasang
+// catatannya berarti mengubah isi diam-diam, persis yang dijanjikan tidak
+// akan dilakukan, dan pembaca yang sudah mengutip angka lama tidak punya
+// cara tahu bahwa kutipannya perlu diperbaiki.
+//
+// Ditaruh SEBELUM badan tulisan, bukan di kaki halaman, karena ralat di
+// bagian ini menyangkut angka yang ada di judul. Pembaca harus tahu sebelum
+// membaca, bukan sesudah.
+function blokRalat(r) {
+  if (!r || !r.teks) return '';
+  return '<aside class="ralat"><b class="ralat-label">Ralat' +
+    (r.label || r.tanggal ? ', ' + esc(r.label || tglRingkas(r.tanggal)) : '') + '</b>' +
+    '<p>' + esc(r.teks) + '</p></aside>';
+}
+
 const NAMA_HARI = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
 function labelHari(isoTgl) {
   const d = new Date(isoTgl + 'T00:00:00Z');
@@ -590,6 +617,7 @@ ARTICLES.forEach(function (a) {
       }</span>` : ''}</b>` +
       `<p class="arah-isi">${esc(a.takeaway)}</p>` +
       `</div>` : '') +
+    blokRalat(a.ralat) +
     `<div class="article-body">${badanDenganBps(a)}</div>` +
     (a.category === 'Pasar Modal' || a.category === 'Moneter'
       ? `<p class="disclaimer-investasi">Artikel ini informasi, bukan ajakan atau rekomendasi membeli maupun menjual instrumen investasi apa pun. Keputusan investasi beserta risikonya sepenuhnya tanggung jawab pembaca.</p>`
@@ -1092,6 +1120,7 @@ if (HARIAN) {
     `<p class="harian-tanggal num">${esc(HARIAN.tanggalLabel)} &middot; dirangkai dari ${HARIAN.jumlahBahan} berita</p>` +
     `<p class="harian-ringkas">${esc(HARIAN.ringkas)}</p>` +
     `</div>` +
+    blokRalat(HARIAN.ralat) +
     `<div class="harian-benang">` +
     HARIAN.benang.map((b, i) =>
       `<article class="benang"><span class="benang-num num">${String(i + 1).padStart(2, '0')}</span>` +
@@ -1142,6 +1171,10 @@ document.addEventListener('DOMContentLoaded', function () {
     '<h1 class="harian-judul">' + esc(e.judul) + '</h1>' +
     '<p class="harian-tanggal num">' + esc(e.tanggalLabel) + ' &middot; dirangkai dari ' + e.jumlahBahan + ' berita</p>' +
     '<p class="harian-ringkas">' + esc(e.ringkas) + '</p></div>' +
+    (e.ralat && e.ralat.teks
+      ? '<aside class="ralat"><b class="ralat-label">Ralat' +
+        (e.ralat.label ? ', ' + esc(e.ralat.label) : '') + '</b><p>' + esc(e.ralat.teks) + '</p></aside>'
+      : '') +
     '<div class="harian-benang">' + e.benang.map(function (b, i) {
       return '<article class="benang"><span class="benang-num num">' + String(i + 1).padStart(2, '0') + '</span>' +
         '<div><h2>' + esc(b.judul) + '</h2><p>' + esc(b.isi) + '</p></div></article>';
@@ -1185,6 +1218,7 @@ if (PEKANAN && PEKANAN.judul) {
       `dirangkai dari ${PEKANAN.jumlahEdisi} edisi harian dan ${PEKANAN.jumlahBerita} berita</p>` +
     `<p class="harian-ringkas">${esc(PEKANAN.ringkas)}</p>` +
     `</div>` +
+    blokRalat(PEKANAN.ralat) +
     `<div class="harian-benang">` +
     (PEKANAN.pola || []).map((p, i) =>
       `<article class="benang"><span class="benang-num num">${String(i + 1).padStart(2, '0')}</span>` +
@@ -1257,6 +1291,10 @@ document.addEventListener('DOMContentLoaded', function () {
     '<p class="harian-tanggal num">Pekan ' + esc(e.rentangLabel) + ' &middot; dirangkai dari ' +
       e.jumlahEdisi + ' edisi harian dan ' + e.jumlahBerita + ' berita</p>' +
     '<p class="harian-ringkas">' + esc(e.ringkas) + '</p></div>' +
+    (e.ralat && e.ralat.teks
+      ? '<aside class="ralat"><b class="ralat-label">Ralat' +
+        (e.ralat.label ? ', ' + esc(e.ralat.label) : '') + '</b><p>' + esc(e.ralat.teks) + '</p></aside>'
+      : '') +
     '<div class="harian-benang">' + (e.pola || []).map(function (p, i) {
       return '<article class="benang"><span class="benang-num num">' + String(i + 1).padStart(2, '0') + '</span>' +
         '<div><h2>' + esc(p.judul) + '</h2><p>' + esc(p.isi) + '</p></div></article>';

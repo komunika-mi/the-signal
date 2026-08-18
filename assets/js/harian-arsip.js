@@ -41,7 +41,12 @@ var HARIAN_ARSIP = [
   ],
   "penutup": "Yang paling menentukan ke depan adalah apakah sentimen pasar hari ini berlanjut jadi arus investasi riil seperti diminta Kadin, atau berhenti di reaksi sehari terhadap pidato kenegaraan.",
   "jumlahBahan": 43,
-  "dibuat": "2026-08-14T14:45:33.194Z"
+  "dibuat": "2026-08-14T14:45:33.194Z",
+  "ralat": {
+   "tanggal": "2026-08-18",
+   "label": "18 Agustus 2026",
+   "teks": "Versi awal edisi ini menulis pemerintah menargetkan penutupan 750 BUMN lagi hingga tersisa maksimal 300 pada akhir 2026. Kedua angka itu tidak bisa benar bersamaan. Angka 750 adalah jumlah penutupan secara keseluruhan dari 1.074 BUMN, dan karena 290 sudah selesai, sisanya sekitar 484. Kalimatnya sudah diperbaiki."
+  }
  },
  {
   "tanggal": "2026-08-13",

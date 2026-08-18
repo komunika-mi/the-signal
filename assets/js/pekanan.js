@@ -47,5 +47,10 @@ var PEKANAN = {
  "penutup": "Yang paling menentukan arah pekan depan adalah apakah perluasan kendali pemerintah dan Danantara atas lembaga keuangan dan BUMN mulai terkonfirmasi lewat keputusan konkret, sementara akses ke desa-desa terpencil di NTT akan menunjukkan apakah pemulihan yang timpang ini mulai merata.",
  "jumlahEdisi": 4,
  "jumlahBerita": 221,
- "dibuat": "2026-08-17T16:35:01.165Z"
+ "dibuat": "2026-08-17T16:35:01.165Z",
+ "ralat": {
+  "tanggal": "2026-08-18",
+  "label": "18 Agustus 2026",
+  "teks": "Versi awal edisi ini menulis pemerintah menargetkan penutupan 750 BUMN lagi hingga tersisa maksimal 300 pada akhir 2026. Kedua angka itu tidak bisa benar bersamaan. Angka 750 adalah jumlah penutupan secara keseluruhan dari 1.074 BUMN, dan karena 290 sudah selesai, sisanya sekitar 484. Kalimatnya sudah diperbaiki."
+ }
 };

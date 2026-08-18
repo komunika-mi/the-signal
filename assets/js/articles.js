@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.862, Ditekan Minyak dan Utang Luar Negeri",
+  "deck": "Rupiah ditutup melemah 64 poin ke Rp17.862 per dolar AS, tertekan kenaikan harga minyak dunia dan naiknya utang luar negeri Indonesia.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T17:06:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460823-rupiah-ditutup-melemah-rp17862-ditekan-lonjakan-harga-minyak-dan-utang-luar-negeri-indonesia",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "nilai tukar",
+   "utang luar negeri"
+  ],
+  "body": [
+   "Nilai tukar rupiah ditutup melemah 64 poin ke level Rp17.862 per dolar Amerika Serikat pada perdagangan Selasa (18/8/2026), turun dari posisi Rp17.798 sehari sebelumnya. Sepanjang hari, rupiah bahkan sempat tertekan hingga 80 poin sebelum sedikit menguat kembali menjelang penutupan. Pengamat mata uang dan komoditas Ibrahim Assuaibi memperkirakan pelemahan ini masih akan berlanjut pada perdagangan berikutnya.",
+   "Menurut Ibrahim, salah satu pemicu utama datang dari pasar energi. Harga minyak mentah dunia yang bergerak di atas US$83 per barel meningkatkan kebutuhan dolar AS bagi Indonesia untuk membiayai impor minyak, karena transaksi minyak global umumnya dibayar dalam dolar. Lonjakan permintaan dolar untuk kebutuhan itu ikut memperkuat posisi dolar AS sekaligus menekan rupiah.",
+   "Tekanan itu muncul bersamaan dengan naiknya posisi utang luar negeri Indonesia. Bank Indonesia mencatat utang luar negeri pada triwulan II 2026 mencapai US$453,4 miliar atau setara Rp8.089,1 triliun, tumbuh 4,4 persen dibanding periode yang sama tahun sebelumnya. Posisi ini juga naik dibandingkan Mei 2026 yang tercatat US$444,4 miliar atau sekitar Rp7.928,5 triliun.",
+   "Untuk perdagangan Rabu, Ibrahim memperkirakan rupiah masih akan bergerak fluktuatif namun berpotensi ditutup melemah di kisaran Rp17.860 hingga Rp17.920 per dolar AS."
+  ],
+  "fotoAdegan": "Oil tanker guided by tugboats into a busy Indonesian port terminal, industrial cranes lining the dock, overcast afternoon sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/01/06/677b40d56b2e6-ilustrasi-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan rupiah kali ini datang dari dua arah sekaligus: harga minyak dunia yang naik di atas US$83 per barel membuat kebutuhan dolar untuk bayar impor minyak membengkak, sementara utang luar negeri Indonesia terus naik, dari US$444,4 miliar pada Mei menjadi US$453,4 miliar pada akhir Juni, tumbuh 4,4 persen dibanding setahun sebelumnya. Utang luar negeri yang naik berarti kebutuhan dolar untuk membayar cicilan dan bunga ke kreditor asing juga ikut membesar, sehingga permintaan dolar tidak datang dari satu sumber saja. Yang paling langsung merasakan dampaknya adalah pelaku usaha dan pemerintah yang harus menyiapkan dolar untuk kedua kebutuhan itu, sementara pelemahan rupiah pada akhirnya bisa terasa di harga barang impor bagi konsumen. Kombinasi kedua faktor ini mengarah ke tekanan rupiah yang berlanjut, bukan sekadar gejolak satu hari, dan yang akan menguji pembacaan ini adalah pergerakan rupiah besok yang diperkirakan tetap melemah di kisaran Rp17.860 sampai Rp17.920, serta apakah harga minyak dunia bertahan di atas US$83 per barel.",
+  "imageV": "msykxs62"
+ },
+ {
   "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
   "category": "Aksi Korporasi",
   "title": "TAFS Siapkan [Rp223,5 Miliar] untuk Lunasi Obligasi Oktober",

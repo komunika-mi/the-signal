@@ -2,6 +2,14 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "tv6fetTfC-g",
+  "title": "Transformasi Pegadaian Jadi Pelopor Ekosistem Bullion Nasional",
+  "category": "Perbankan",
+  "program": "Inspirasi Pagi",
+  "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri."
+ },
+ {
   "id": "0Nv4-W_RoVs",
   "title": "DPR dan Pemerintah Sampaikan Perpres Ojol",
   "category": "Ketenagakerjaan",
@@ -88,13 +96,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
   "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
- },
- {
-  "id": "fp_VWfYRPCY",
-  "title": "Pembangunan Ritel Modern di Desa Akan Diatur Pemerintah",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan PDT menyebut pemerintah akan mengatur pembangunan ritel modern di desa agar tidak mematikan pelaku usaha lokal.",
-  "takeaway": "Regulasi ritel modern di desa berkaitan langsung dengan perlindungan UMKM dan pemerataan ekonomi pedesaan."
  }
 ];

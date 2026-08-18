@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.862, Ditekan Minyak dan Utang Luar Negeri",
+  "deck": "Rupiah ditutup melemah 64 poin ke Rp17.862 per dolar AS, tertekan kenaikan harga minyak dunia dan naiknya utang luar negeri Indonesia.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri.jpg",
+  "imageV": "msykxs62",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "nilai tukar",
+   "utang luar negeri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460823-rupiah-ditutup-melemah-rp17862-ditekan-lonjakan-harga-minyak-dan-utang-luar-negeri-indonesia"
+ },
+ {
   "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
   "category": "Aksi Korporasi",
   "title": "TAFS Siapkan [Rp223,5 Miliar] untuk Lunasi Obligasi Oktober",

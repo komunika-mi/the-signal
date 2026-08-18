@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbkp-direksi-kunardy-darma-lie-beli-980-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "BBKP: [Direksi] Kunardy Darma Lie Beli 980.000 Saham",
+  "deck": "Direksi BBKP, Kunardy Darma Lie, membeli 980.000 saham secara tidak langsung seharga Rp51 per saham pada 10 Juli 2026, menaikkan hak suaranya menjadi 0,0005%.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/bbkp-direksi-kunardy-darma-lie-beli-980-000-saham.jpg",
+  "imageV": "msybrba5",
+  "tags": [
+   "BBKP",
+   "kepemilikan saham",
+   "direksi",
+   "Bank KB Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1634-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup",
   "category": "Aksi Korporasi",
   "title": "KDTN: Putrasakti Mandiri Jual Saham, [Restrukturisasi] Grup",
@@ -70,6 +87,23 @@ var ARTICLES = [
    "dewan komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4555-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur",
+  "category": "Aksi Korporasi",
+  "title": "BKSL Ganti [Ketua] Unit Internal Audit, Gantikan Daniel Karwur",
+  "deck": "Sentul City Tbk (BKSL) menunjuk Djaka T.I. sebagai Ketua Unit Internal Audit baru menggantikan Daniel Karwur, efektif 18 Agustus 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur.jpg",
+  "imageV": "msybrv2x",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "Internal Audit",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c28956895b_de2653c73a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -288,6 +322,23 @@ var ARTICLES = [
    "pencatatan saham BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a973e5468c_d09f6e0500.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta",
+  "category": "Aksi Korporasi",
+  "title": "XTRA Tambah [1 Juta] Unit ETF Emas Trimegah ke 110 Juta",
+  "deck": "BEI mencatat penambahan 1 juta unit penyertaan ETF Emas Trimegah, dari 109 juta menjadi 110 juta unit, efektif diperdagangkan mulai 18 Agustus 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta.jpg",
+  "imageV": "msybse11",
+  "tags": [
+   "XTRA",
+   "ETF",
+   "Reksa Dana Emas",
+   "Trimegah Asset Management"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdcc4e2d5f_dca0d38c2d.pdf",
   "sourceLabel": "IDX"
  },
  {

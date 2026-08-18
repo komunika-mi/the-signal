@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbkp-direksi-kunardy-darma-lie-beli-980-000-saham",
+  "category": "Aksi Korporasi",
+  "title": "BBKP: [Direksi] Kunardy Darma Lie Beli 980.000 Saham",
+  "deck": "Direksi BBKP, Kunardy Darma Lie, membeli 980.000 saham secara tidak langsung seharga Rp51 per saham pada 10 Juli 2026, menaikkan hak suaranya menjadi 0,0005%.",
+  "image": "assets/img/bbkp-direksi-kunardy-darma-lie-beli-980-000-saham.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T12:17:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1634-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "kepemilikan saham",
+   "direksi",
+   "Bank KB Indonesia"
+  ],
+  "body": [
+   "Direksi PT Bank KB Indonesia Tbk (BBKP), Kunardy Darma Lie, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 980.000 saham perseroan secara tidak langsung. Transaksi tercatat pada 10 Juli 2026 dengan harga Rp51,00 per saham, dengan tujuan transaksi yang disebutkan sebagai investasi. Sebelum transaksi ini, Kunardy belum memiliki satu pun saham BBKP, dan setelah pembelian tersebut kepemilikannya menjadi 980.000 saham biasa.",
+   "Dengan tambahan itu, hak suara Kunardy di BBKP naik dari 0,00% menjadi 0,0005% dari total saham beredar bank, sebuah porsi yang sangat kecil. Laporan ini disampaikan melalui sistem pelaporan KSEI sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi dan komisaris melaporkan perubahan kepemilikan saham di perusahaan tempatnya menjabat."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers reflecting soft morning light, pedestrians crossing a busy street below",
+  "takeaway": "Laporan ini netral bagi fundamental BBKP karena nilai transaksinya sangat kecil, sekitar Rp50 juta dari 980.000 saham dikali Rp51, dan hanya menggeser hak suara dari 0% menjadi 0,0005%, terlalu tipis untuk dibaca sebagai sinyal keyakinan atau kekhawatiran direksi terhadap prospek bank. Yang berubah murni kepemilikan pribadi sang direksi, bukan jumlah saham beredar milik perseroan, sehingga laba per saham dan ekuitas BBKP tidak ikut terpengaruh, sementara hak suara sendiri adalah persentase kepemilikan yang menentukan seberapa besar pengaruh seseorang dalam keputusan pemegang saham, dan di level 0,0005% pengaruhnya nyaris tidak ada. Yang perlu dipantau selanjutnya adalah apakah Kunardy atau direksi dan komisaris BBKP lain menambah kepemilikan lagi dalam waktu dekat, karena pola pembelian berulang oleh jajaran direksi baru punya arti kalau terjadi berkali-kali dan jumlahnya membesar.",
+  "sentimen": "netral",
+  "imageV": "msybrba5"
+ },
+ {
   "slug": "kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup",
   "category": "Aksi Korporasi",
   "title": "KDTN: Putrasakti Mandiri Jual Saham, [Restrukturisasi] Grup",
@@ -108,6 +134,33 @@ var ARTICLES = [
   "takeaway": "Penjualan ini tergolong netral bagi AKPI, karena yang dilepas hanya sekitar 1,75 persen dari kepemilikan pribadi Henry Liem sendiri, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap prospek perusahaan. Yang tersentuh dari laporan ini adalah komposisi pemegang saham dan hak suara di AKPI, yaitu porsi kepemilikan yang menentukan seberapa besar pengaruh seorang komisaris dalam pengambilan keputusan perseroan, dan di sini hak suara Henry Liem cuma turun tipis dari 1,8674 persen menjadi 1,8347 persen. Nilai transaksinya juga kecil, sekitar Rp102 juta dari harga Rp510 per saham, jauh dari ukuran yang bisa mengubah peta pengendalian AKPI. Yang perlu dipantau selanjutnya adalah apakah Henry Liem kembali melaporkan penjualan serupa dalam waktu dekat, sebab satu transaksi kecil belum berarti apa-apa, tapi pola penjualan berulang oleh komisaris yang sama baru pantas dicermati.",
   "sentimen": "netral",
   "imageV": "msy7q0w2"
+ },
+ {
+  "slug": "bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur",
+  "category": "Aksi Korporasi",
+  "title": "BKSL Ganti [Ketua] Unit Internal Audit, Gantikan Daniel Karwur",
+  "deck": "Sentul City Tbk (BKSL) menunjuk Djaka T.I. sebagai Ketua Unit Internal Audit baru menggantikan Daniel Karwur, efektif 18 Agustus 2026.",
+  "image": "assets/img/bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T11:15:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c28956895b_de2653c73a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BKSL",
+  "tags": [
+   "BKSL",
+   "Sentul City",
+   "Internal Audit",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "Sentul City Tbk (BKSL) mengumumkan pergantian Ketua Unit Internal Audit perusahaan, efektif 18 Agustus 2026. Berdasarkan keterbukaan informasi bernomor 78/SC-CS/VIII/2026 yang diteken Corporate Secretary Supriyana, posisi tersebut kini dijabat Djaka T.I., menggantikan Daniel Karwur.",
+   "Perusahaan melampirkan Surat Keputusan Penunjukan Chief Internal Audit bertanggal 18 Agustus 2026 sebagai dasar resmi keputusan ini. Unit Internal Audit bertugas mengawasi kepatuhan dan pengendalian internal perusahaan, sehingga pergantian pemimpinnya termasuk informasi yang wajib dilaporkan ke Bursa Efek Indonesia.",
+   "Dokumen tidak menjelaskan alasan pergantian maupun latar belakang profesional Djaka T.I. Perusahaan hanya menegaskan keputusan ini berlaku efektif sejak tanggal pengumuman dan dibuat secara elektronik tanpa memerlukan tanda tangan basah."
+  ],
+  "fotoAdegan": "An auditor reviewing paperwork at a wooden desk in a modern Jakarta office, documents blurred, soft window light",
+  "takeaway": "Pergantian ketua unit internal audit ini bersifat netral bagi Sentul City, karena dokumen hanya memuat pergantian personel pengawas tanpa ada angka atau dampak finansial langsung yang disebutkan. Unit internal audit bertugas memeriksa apakah pencatatan keuangan dan operasional perusahaan sudah sesuai aturan, jadi pergantian pemimpinnya bisa memengaruhi ketatnya pengawasan internal ke depan meski tidak langsung mengubah pos seperti ekuitas, arus kas, atau laba per saham di laporan keuangan. Dokumen ini juga tidak menyebut alasan pergantian, sehingga publik belum tahu apakah ini rotasi rutin atau ada pertimbangan lain. Yang perlu dipantau berikutnya adalah apakah kualitas laporan keuangan interim BKSL tetap konsisten di bawah kepemimpinan baru ini, karena dokumen tidak mencantumkan agenda RUPS atau tenggat lain terkait perubahan tersebut.",
+  "sentimen": "netral",
+  "imageV": "msybrv2x"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
@@ -460,6 +513,33 @@ var ARTICLES = [
   "takeaway": "Penilaian saya netral, karena penambahan 240.100 saham ini hanya sekitar 0,002 persen dari total 13,48 miliar saham CYBR yang sudah beredar, jadi dampaknya nyaris tidak terasa. Yang tersentuh di sini adalah jumlah saham beredar, yakni total lembar saham perusahaan yang dimiliki publik dan pemegang saham lain; setiap kali jumlah ini bertambah tanpa ada uang baru yang signifikan masuk, laba per saham berpotensi terdilusi sedikit, meski dalam kasus ini besarannya terlalu kecil untuk berarti banyak. Sisa 425.518.500 waran Seri I yang masih beredar berarti proses konversi serupa berpotensi terus berulang secara bertahap ke depan, dan itu yang perlu dipantau lewat pengumuman pencatatan saham BEI berikutnya untuk emiten ini.",
   "sentimen": "netral",
   "imageV": "msy7sr2o"
+ },
+ {
+  "slug": "xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta",
+  "category": "Aksi Korporasi",
+  "title": "XTRA Tambah [1 Juta] Unit ETF Emas Trimegah ke 110 Juta",
+  "deck": "BEI mencatat penambahan 1 juta unit penyertaan ETF Emas Trimegah, dari 109 juta menjadi 110 juta unit, efektif diperdagangkan mulai 18 Agustus 2026.",
+  "image": "assets/img/xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T00:49:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdcc4e2d5f_dca0d38c2d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XTRA",
+  "tags": [
+   "XTRA",
+   "ETF",
+   "Reksa Dana Emas",
+   "Trimegah Asset Management"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan tambahan unit penyertaan Reksa Dana Syariah Trimegah Syariah ETF Emas dengan kode KIK XTRA. Berdasarkan pengumuman bernomor Peng-P-00927/BEI.PP2/08-2026, jumlah unit penyertaan tambahan yang dicatatkan sebanyak 1.000.000 unit, tanpa ada unit yang dihapuskan, sehingga total unit penyertaan tercatat menjadi 110.000.000 unit. Tanggal mulai pencatatan dan perdagangan unit baru ini adalah 18 Agustus 2026. Pengumuman ditandatangani oleh Kadiv Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A serta Kadiv Penilaian Perusahaan 2 Adi Pratomo Aryanto.",
+   "Penambahan ini berasal dari laporan manajer investasi PT Trimegah Asset Management tertanggal 13 Agustus 2026 yang ditandatangani Edi Martono, Fund Accounting and Settlement Head. Dalam laporan itu disebutkan jumlah unit penyertaan beredar sebelumnya sebanyak 109.000.000 unit, bertambah 1.000.000 unit, tanpa pengurangan, sehingga jumlah unit beredar setelah perubahan menjadi 110.000.000 unit.",
+   "Penambahan unit penyertaan ETF ini merupakan kelanjutan dari kenaikan jumlah unit XTRA yang sebelumnya sudah melonjak sekitar 85 persen ke level 109 juta unit. Dibandingkan lonjakan tersebut, tambahan 1 juta unit kali ini jauh lebih kecil, hanya menambah sekitar 0,9 persen dari basis unit yang sudah ada."
+  ],
+  "fotoAdegan": "Close-up of gold bars stacked inside a bank vault, cool metallic lighting reflecting off the surfaces, shallow depth of field",
+  "takeaway": "Laporan ini netral bagi produk ETF Emas Trimegah, sebab tambahan 1 juta unit hanya sekitar 0,9 persen dari basis 109 juta unit yang sudah ada, jauh lebih kecil dibanding lonjakan besar sebelumnya sehingga belum bisa dibaca sebagai sinyal arah baru. Yang tersentuh adalah jumlah unit penyertaan beredar, semacam jumlah lembar kepemilikan reksa dana ini yang nilainya mengikuti harga emas yang mendasarinya; unit baru biasanya tercipta saat ada pihak yang menyetor dana atau emas untuk membeli unit tambahan, jadi penambahan unit menandakan masih ada permintaan masuk meski kali ini kecil. Yang perlu dipantau berikutnya adalah apakah laporan serupa muncul lagi dalam waktu dekat untuk melihat apakah minat terhadap ETF ini terus berlanjut atau mulai mendatar setelah lonjakan besar yang terjadi sebelum 18 Agustus 2026.",
+  "sentimen": "netral",
+  "imageV": "msybse11"
  },
  {
   "slug": "cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i",

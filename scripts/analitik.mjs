@@ -18,7 +18,7 @@
 // pembaca ke mana pun. Karena itu ia boleh hidup sendirian.
 export const VERIFIKASI_GSC = 'ZJqHIXMmevUYkSDTxGZmIOUsvABGnQTPZw3FkmVDPh8';
 
-export const GA4_ID = '';
+export const GA4_ID = 'G-5G4FZ823K9';
 
 export function kepalaAnalitik() {
   const b = [];

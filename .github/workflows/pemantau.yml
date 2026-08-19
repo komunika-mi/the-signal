@@ -136,10 +136,20 @@ jobs:
       # ikut terhitung ke dalam timeout pemeriksaan fotonya sendiri.
       - name: Siapkan ffmpeg
         if: always()
-        timeout-minutes: 4
+        timeout-minutes: 6
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg
+          # `apt-get update` sendirian pernah makan lebih dari empat menit,
+          # karena ia menarik SELURUH indeks repositori padahal yang
+          # dibutuhkan satu paket. Jadi urutannya: pakai yang sudah ada,
+          # kalau tidak ada pasang tanpa update dulu, update cuma kalau
+          # pemasangan polos itu benar-benar gagal.
+          if command -v ffmpeg >/dev/null 2>&1; then
+            echo "ffmpeg sudah tersedia: $(ffmpeg -version | head -1)"
+            exit 0
+          fi
+          sudo apt-get install -y -qq ffmpeg \
+            || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
+          ffmpeg -version | head -1
 
       # DIPAGARI TIMEOUT SENDIRI, dan sengaja ditaruh PALING AKHIR.
       #

@@ -179,6 +179,42 @@ log('hasil: ' + cocok + ' cocok, ' + bermasalah.length + ' bermasalah, ' +
   takTerperiksa + ' tidak bisa diperiksa, ' + takSempat + ' tidak sempat' +
   ' (' + Math.round((Date.now() - mulai) / 1000) + ' detik)');
 
+// Pemeriksaan yang tidak memeriksa apa pun BUKAN pemeriksaan yang lolos.
+//
+// 19 Agustus 2026 pemasangan ffmpeg di runner kena timeout, dan skrip ini
+// melaporkan "0 cocok, 0 bermasalah, 15 tidak bisa diperiksa" lalu keluar
+// dengan kode 0. Langkahnya hijau, dan tidak ada yang tahu bahwa lima belas
+// foto tidak pernah disentuh.
+//
+// Penjaga yang lolos justru pada saat ia tidak bisa bekerja lebih buruk
+// daripada tidak ada penjaga sama sekali: yang tidak ada tidak menjanjikan
+// apa-apa, sedangkan yang ini memproduksi rasa aman yang palsu.
+//
+// Kode 3 dibedakan dari 2 ("ada foto tidak cocok") dan 1 ("skripnya error"),
+// supaya pemanggil bisa membedakan alat yang rusak dari temuan yang nyata.
+// Ambangnya SEPARUH, bukan nol.
+//
+// Nol terlalu longgar: satu artikel yang kebetulan lolos sebelum tenggat
+// sudah cukup membuat penjaganya diam, padahal 1 dari 15 sama tidak
+// bermaknanya dengan 0 dari 15. Yang diukur di sini bukan 'apakah ada yang
+// jalan', melainkan 'apakah cukup banyak yang jalan sampai hasilnya layak
+// dipercaya'.
+const terperiksa = cocok + bermasalah.length;
+const cukup = Math.max(1, Math.ceil(kandidat.length / 2));
+if (kandidat.length && terperiksa < cukup) {
+  console.error('');
+  console.error('HANYA ' + terperiksa + ' dari ' + kandidat.length +
+    ' artikel benar-benar terperiksa, di bawah ambang ' + cukup + '.');
+  console.error('Ini kegagalan alat, bukan tanda fotonya benar.');
+  try {
+    execFileSync('ffmpeg', ['-version'], { encoding: 'utf8' });
+    console.error('ffmpeg ADA, jadi sebabnya di jaringan: halaman sumber atau berkas gambarnya tidak terambil.');
+  } catch {
+    console.error('ffmpeg TIDAK ADA di mesin ini. Tanpa ffmpeg sidik jari gambar tidak bisa dihitung sama sekali.');
+  }
+  console.error('');
+  process.exit(3);
+}
 if (bermasalah.length) {
   console.error('');
   console.error('FOTO TIDAK COCOK DENGAN SUMBERNYA:');

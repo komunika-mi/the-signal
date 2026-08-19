@@ -48,6 +48,17 @@ concurrency:
 jobs:
   pasar:
     runs-on: ubuntu-latest
+    # Satu-satunya alur yang tadinya TANPA batas, dan itu mahal kalau nyangkut.
+    #
+    # Tanpa timeout-minutes, GitHub memakai bawaannya: 360 menit. Repo ini
+    # privat, jadi menitnya terhitung, dan kuota gratisnya 2.000 menit per
+    # bulan. Satu putaran yang menggantung saja menghabiskan 18 persen jatah
+    # sebulan.
+    #
+    # 5 menit dipilih dari data, bukan ditebak: dua belas putaran terakhir
+    # rata-rata 0,6 menit dan yang terlama 0,9 menit. Lima memberi ruang enam
+    # kali lipat sambil tetap memotong jauh sebelum ongkosnya berarti.
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:

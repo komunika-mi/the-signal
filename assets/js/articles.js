@@ -34,7 +34,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "ADHI Kena Pangkas Peringkat ke idB, PEFINDO Soroti [Gagal Bayar]",
   "deck": "PEFINDO menurunkan peringkat ADHI dan tiga obligasinya dari idBB ke idB dengan status CreditWatch negatif, menyusul risiko gagal bayar kupon jatuh tempo 24 Agustus 2026.",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:48:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
@@ -53,7 +53,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Large infrastructure construction site with tower cranes and concrete pillars, workers in hard hats, overcast sky over a city skyline.",
   "takeaway": "Laporan ini negatif bagi ADHI. PEFINDO memangkas peringkat perusahaan dan tiga seri obligasinya dari idBB menjadi idB sekaligus mempertahankan status CreditWatch dengan implikasi negatif, dan lembaga pemeringkat itu sendiri secara eksplisit menyebut risiko gagal bayar kupon sebagai alasannya, bukan sekadar evaluasi rutin tahunan. Peringkat kredit yang turun berarti biaya bunga utang baru ADHI berpotensi naik dan ruang untuk menerbitkan obligasi baru atau merefinansi utang lama menyempit, karena investor menuntut imbal hasil lebih tinggi untuk risiko yang lebih besar, sehingga pos beban bunga dan arus kas perusahaan langsung tertekan. Yang perlu dipantau adalah pembayaran kupon Obligasi Berkelanjutan III Seri B dan C yang jatuh tempo 24 Agustus 2026, karena PEFINDO secara spesifik mengaitkan status CreditWatch negatif dengan risiko gagal bayar pada tanggal itu, sejalan dengan pengakuan ADHI sendiri sebelumnya soal risiko keterlambatan pembayaran bunga obligasi. PEFINDO juga akan meninjau ulang peringkat ini paling lambat dalam tiga bulan, atau sekitar 14 November 2026, tergantung perkembangan kondisi keuangan perseroan.",
-  "sentimen": "negatif"
+  "sentimen": "negatif",
+  "imageV": "mt0048v7"
  },
  {
   "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
@@ -1459,7 +1460,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
   "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T10:51:17+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter",
@@ -1479,7 +1480,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data ini adalah potret harga pada satu hari, 18 Agustus 2026, tanpa angka pembanding dari hari atau minggu sebelumnya, sehingga belum bisa dibaca apakah harga cabai, telur, atau minyak goreng sedang naik, turun, atau stabil. Yang paling terdampak adalah pedagang eceran dan rumah tangga yang berbelanja harian, karena cabai rawit merah di Rp66.350 per kilogram jauh di atas jenis cabai lain dan daging sapi bertahan di atas Rp148.000 per kilogram, dua pos belanja yang biasanya paling terasa di dapur. Untuk melihat ke arah mana harga-harga ini bergerak, yang perlu dipantau adalah rilis PIHPS pada hari-hari berikutnya serta data inflasi bulanan dari Badan Pusat Statistik, karena baru dari perbandingan itu pola kenaikan atau penurunan sebenarnya akan terlihat.",
-  "imageV": "msy84r2b"
+  "imageV": "mt004r8r"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",

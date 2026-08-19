@@ -27,7 +27,8 @@ var ARTICLES = [
   "title": "ADHI Kena Pangkas Peringkat ke idB, PEFINDO Soroti [Gagal Bayar]",
   "deck": "PEFINDO menurunkan peringkat ADHI dan tiga obligasinya dari idBB ke idB dengan status CreditWatch negatif, menyusul risiko gagal bayar kupon jatuh tempo 24 Agustus 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar.jpg",
+  "imageV": "mt0048v7",
   "tags": [
    "ADHI",
    "peringkat obligasi",
@@ -925,8 +926,8 @@ var ARTICLES = [
   "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
   "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/sidang-dpr.jpg",
-  "imageV": "msy84r2b",
+  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
+  "imageV": "mt004r8r",
   "tags": [
    "harga pangan",
    "PIHPS",

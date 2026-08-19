@@ -19,7 +19,11 @@
 # MEMAKSA pengulangan, dan foto yang berulang adalah hal yang tidak boleh
 # terjadi di situs ini.
 
-$ErrorActionPreference = 'Stop'
+# JANGAN 'Stop' bersama perintah git. Git menulis pesan biasa ke stderr
+# ('From https://github.com/...'), dan PowerShell 5.1 menganggapnya error
+# fatal lalu menghentikan skrip padahal perintahnya sukses. Pelajaran ini
+# sudah tertulis di jalankan-idx.ps1 dan sempat saya abaikan di sini.
+$ErrorActionPreference = 'Continue'
 $proyek = 'D:\projects\the-signal'
 $logDir = Join-Path $proyek '.logs'
 if (-not (Test-Path $logDir)) { New-Item -ItemType Directory -Path $logDir | Out-Null }
@@ -27,13 +31,25 @@ $log = Join-Path $logDir ('foto-' + (Get-Date -Format 'yyyy-MM-dd') + '.log')
 
 function Catat($pesan) {
   $baris = (Get-Date -Format 'HH:mm:ss') + '  ' + $pesan
-  Write-Output $baris
+  # Write-Host, BUKAN Write-Output. Write-Output menaruh tiap baris log ke
+  # pipeline, sehingga nilai kembali Jalankan() jadi larik berisi seluruh log
+  # plus kode keluarnya, dan pemeriksaan `if ($kode -ne 0)` selalu benar.
+  # Akibatnya putaran yang SUKSES dilaporkan gagal lalu berhenti sebelum
+  # commit. Terjadi pada percobaan pertama skrip ini, 19 Agustus 2026.
+  Write-Host $baris
   Add-Content -Path $log -Value $baris -Encoding utf8
 }
 
-function Jalankan($berkas, $argumen) {
-  & $berkas @argumen 2>&1 | ForEach-Object { Catat ('    ' + $_) }
-  return $LASTEXITCODE
+function Jalankan($berkas, [string[]]$argumen) {
+  # Sengaja TIDAK memakai 2>&1: di PowerShell 5.1 itu membungkus tiap baris
+  # stderr jadi ErrorRecord (NativeCommandError), sehingga pesan biasa git
+  # muncul sebagai tumpukan error palsu lalu menghentikan skrip.
+  $keluaran = & $berkas @argumen | Out-String
+  $kode = $LASTEXITCODE
+  foreach ($baris in ($keluaran -split "`r?`n")) {
+    if ($baris.Trim()) { Catat ('    ' + $baris.Trim()) }
+  }
+  return $kode
 }
 
 # Sidik isi berkas: yang menentukan kepemilikan adalah ISINYA BERUBAH selama

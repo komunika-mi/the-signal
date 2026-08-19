@@ -18,7 +18,21 @@ import { pastikanFotoArtikel } from './foto-artikel.mjs';
 
 const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 10);   // berita baru per hari
 const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
-const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 400);    // batasi ukuran situs (~40 hari)
+// 800, naik dari 400, dan angkanya diukur bukan ditebak.
+//
+// Yang membatasi BUKAN ruang penyimpanan, melainkan yang diunduh pembaca
+// tiap membuka /berita.html: articles-index.js plus badan halamannya.
+// Terkompresi, pada 19 Agustus 2026: 400 artikel = 104 KB, 800 = 209 KB,
+// 1000 = 261 KB, 1500 = 391 KB. Di atas 800 halaman arsipnya perlu
+// dipaginasi lebih dulu, karena ia memanggang SELURUH tautan arsip ke satu
+// halaman supaya tiap artikel punya jalur rayapan.
+//
+// PERLU DIINGAT: batas ini MENGHAPUS artikel, bukan menyembunyikannya.
+// Yang tergeser keluar berkas HTML-nya dibuang, hilang dari sitemap, dan
+// URL-nya jadi 404 di situs. 38 artikel sudah mati begitu. Menaikkan angka
+// cuma menunda dari sekitar 40 hari jadi sekitar 80 hari, tidak
+// menghentikannya.
+const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 800);
 const MAKS_VIDEO = 12;
 // Kanal pemerintah. Dijaga kecil supaya siaran pers tidak menenggelamkan
 // berita biasa, dan supaya tiap putaran 2 jam tetap cepat.

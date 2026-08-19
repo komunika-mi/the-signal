@@ -37,9 +37,21 @@ function salah(nama, pesan) {
   gagal++;
 }
 
+// BATAS WAKTU WAJIB.
+//
+// fetch tanpa signal tidak punya batas apa pun: kalau situs atau CDN-nya
+// menerima koneksi lalu diam, pemeriksa ini menggantung selamanya. Yang
+// terjadi kemudian bukan alarm melainkan job yang ditebas jatah waktunya,
+// dan run "cancelled" tidak diperlakukan GitHub seperti run merah. Pemantau
+// yang menggantung berhenti memantau tanpa mengabarkan apa pun, dan diamnya
+// tidak bisa dibedakan dari sehat.
+const BATAS_MS = Number(process.env.PERIKSA_SEO_BATAS_MS || 15000);
+
 async function ambil(jalur) {
   try {
-    const r = await fetch(BASE + jalur, { redirect: 'follow' });
+    const r = await fetch(BASE + jalur, {
+      redirect: 'follow', signal: AbortSignal.timeout(BATAS_MS),
+    });
     return { status: r.status, teks: await r.text() };
   } catch (e) {
     return { status: 0, teks: '', galat: String(e.message || e) };
@@ -71,8 +83,8 @@ function antara(teks, buka, tutup) {
 const BOT_WAJIB = ['GPTBot', 'ClaudeBot', 'PerplexityBot', 'Google-Extended'];
 
 async function periksaRobots() {
-  const { status, teks } = await ambil('/robots.txt');
-  if (status !== 200) return salah('robots.txt', 'status ' + status);
+  const { status, teks, galat } = await ambil('/robots.txt');
+  if (status !== 200) return salah('robots.txt', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   if (!teks.includes('Sitemap: ' + BASE + '/sitemap.xml')) {
     return salah('robots.txt', 'tidak menyebut sitemap.xml');
   }
@@ -91,8 +103,8 @@ async function periksaRobots() {
 
 // ---------- sitemap utama ----------
 async function periksaSitemap() {
-  const { status, teks } = await ambil('/sitemap.xml');
-  if (status !== 200) return salah('sitemap.xml', 'status ' + status);
+  const { status, teks, galat } = await ambil('/sitemap.xml');
+  if (status !== 200) return salah('sitemap.xml', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   const loc = antara(teks, '<loc>', '</loc>');
   if (loc.length < 100) return salah('sitemap.xml', 'cuma ' + loc.length + ' url, terlalu sedikit');
   const asing = loc.filter(u => !u.startsWith(BASE + '/'));
@@ -110,8 +122,8 @@ async function periksaSitemap() {
 //      pemeriksaan silang ini, akhir pekan yang sepi akan berteriak setiap
 //      kali padahal tidak ada yang rusak.
 async function periksaNewsSitemap(locUtama) {
-  const { status, teks } = await ambil('/news-sitemap.xml');
-  if (status !== 200) return salah('news-sitemap.xml', 'status ' + status);
+  const { status, teks, galat } = await ambil('/news-sitemap.xml');
+  if (status !== 200) return salah('news-sitemap.xml', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   if (!teks.includes('sitemap-news/0.9')) {
     return salah('news-sitemap.xml', 'namespace news tidak ada, Google akan mengabaikannya');
   }
@@ -163,8 +175,8 @@ async function adaArtikelBaru(locUtama) {
 
 // ---------- beranda ----------
 async function periksaBeranda() {
-  const { status, teks } = await ambil('/');
-  if (status !== 200) return salah('beranda', 'status ' + status);
+  const { status, teks, galat } = await ambil('/');
+  if (status !== 200) return salah('beranda', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   if (teks.includes('content="noindex"')) return salah('beranda', 'ber-noindex');
   if (VERIFIKASI_GSC && !teks.includes(VERIFIKASI_GSC)) {
     return salah('beranda', 'meta verifikasi Search Console hilang, kepemilikan bisa lepas');
@@ -205,8 +217,8 @@ async function periksaArtikel(locUtama, locBerita) {
   if (!pilih) return salah('artikel', 'tidak ada url artikel untuk diperiksa');
   const jalur = pilih.slice(BASE.length);
 
-  const { status, teks } = await ambil(jalur);
-  if (status !== 200) return salah('artikel', jalur + ' status ' + status);
+  const { status, teks, galat } = await ambil(jalur);
+  if (status !== 200) return salah('artikel', jalur + ' status ' + status + (galat ? ' (' + galat + ')' : ''));
   if (teks.includes('content="noindex"')) return salah('artikel', jalur + ' ber-noindex');
   if (!teks.includes('rel="canonical"')) return salah('artikel', jalur + ' tanpa canonical');
 
@@ -247,7 +259,9 @@ async function periksaArtikel(locUtama, locBerita) {
   // Gambar yang disebut tapi tidak ada membuat hasil kaya ditolak diam-diam.
   const gambar = [].concat(berita.image || [])[0];
   if (gambar) {
-    const r = await fetch(gambar, { method: 'HEAD', redirect: 'follow' }).catch(() => null);
+    const r = await fetch(gambar, {
+      method: 'HEAD', redirect: 'follow', signal: AbortSignal.timeout(BATAS_MS),
+    }).catch(() => null);
     if (!r || !r.ok) return salah('artikel', jalur + ': gambar utama tidak terjangkau (' + gambar + ')');
   }
   ok('artikel', jalur.split('/').pop() + ': ' + tipe.join(', ') + ', tanggal berzona, gambar ada');
@@ -255,16 +269,16 @@ async function periksaArtikel(locUtama, locBerita) {
 
 // ---------- llms.txt dan feed ----------
 async function periksaLlms() {
-  const { status, teks } = await ambil('/llms.txt');
-  if (status !== 200) return salah('llms.txt', 'status ' + status);
+  const { status, teks, galat } = await ambil('/llms.txt');
+  if (status !== 200) return salah('llms.txt', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   if (teks.trim().length < 200) return salah('llms.txt', 'terlalu pendek, isinya ' + teks.trim().length + ' karakter');
   if (!teks.includes(BASE)) return salah('llms.txt', 'tidak menyebut alamat situs');
   ok('llms.txt', teks.trim().length + ' karakter');
 }
 
 async function periksaFeed() {
-  const { status, teks } = await ambil('/feed.xml');
-  if (status !== 200) return salah('feed.xml', 'status ' + status);
+  const { status, teks, galat } = await ambil('/feed.xml');
+  if (status !== 200) return salah('feed.xml', 'status ' + status + (galat ? ' (' + galat + ')' : ''));
   const item = teks.split('<item>').length - 1;
   if (item < 1) return salah('feed.xml', 'tanpa satu pun item');
   ok('feed.xml', item + ' item');

@@ -194,23 +194,53 @@ async function periksaSatu(a) {
   }
 }
 
+// Pekerjaan yang KALAH LOMBA tidak berhenti, ia cuma tidak ditunggu lagi.
+//
+// berbatas() memenangkan pewaktu, bukan membatalkan periksaSatu(). Yang
+// ditinggalkan terus berjalan, dan kalau ia akhirnya menemukan foto yang
+// TIDAK COCOK, temuan itu masuk ke `bermasalah` SESUDAH laporan dicetak dan
+// sesudah kode keluar diputuskan. Diuji: ketidakcocokan yang sama menghasilkan
+// kode 2 pada sumber cepat, dan kode 0 pada sumber lambat. Persis rasa aman
+// palsu yang seluruh berkas ini berusaha lawan, cuma pintu masuknya bergeser
+// dari "tidak memeriksa" jadi "memeriksa, menemukan, lalu membuang".
+//
+// Jadi yang dilepas dicatat, ditunggu sebentar, dan kalau tetap belum selesai
+// saat laporan disusun, hasilnya TIDAK boleh disebut bersih.
+const yatim = [];
 let kursor = 0;
 async function pekerja() {
   for (;;) {
     const i = kursor++;
     if (i >= kandidat.length) return;
     if (Date.now() - mulai > TENGGAT_MS) { takSempat++; continue; }
+    const janji = periksaSatu(kandidat[i]);
     try {
-      await berbatas(periksaSatu(kandidat[i]), BATAS_SATU_MS, kandidat[i].slug);
+      await berbatas(janji, BATAS_SATU_MS, kandidat[i].slug);
     } catch {
-      // Satu artikel yang menggantung atau gagal tidak boleh menghentikan
-      // pemeriksaan artikel lain. Dihitung sebagai tidak terperiksa, dan
-      // ambang separuh di bawah yang memutuskan apakah hasilnya layak dipercaya.
-      takTerperiksa++;
+      // Satu artikel yang menggantung tidak boleh menghentikan yang lain, tapi
+      // janjinya tetap dipegang supaya bisa ditunggu dan dihitung nanti.
+      // BELUM dihitung tak-terperiksa di sini: kalau ia sempat selesai di masa
+      // tenggang, hasilnya sah dan sudah masuk ke cocok/bermasalah. Menghitung
+      // sekarang membuat satu artikel terhitung dua kali di laporan.
+      const jejak = { slug: kandidat[i].slug, selesai: false };
+      janji.then(() => { jejak.selesai = true; }, () => { jejak.selesai = true; });
+      yatim.push(jejak);
     }
   }
 }
 await Promise.all(Array.from({ length: SERENTAK }, () => pekerja()));
+
+// Masa tenggang untuk yang dilepas. Kalau mereka sempat selesai, temuannya
+// ikut terhitung; kalau tidak, jumlahnya dilaporkan dan hasilnya tidak bersih.
+const TENGGANG_YATIM_MS = Number(process.env.PERIKSA_FOTO_TENGGANG_MS || 20000);
+if (yatim.length) {
+  const batasTunggu = Date.now() + TENGGANG_YATIM_MS;
+  while (yatim.some(y => !y.selesai) && Date.now() < batasTunggu) {
+    await new Promise(r => setTimeout(r, 250));
+  }
+}
+const yatimMenggantung = yatim.filter(y => !y.selesai);
+takTerperiksa += yatimMenggantung.length;
 clearTimeout(penjagaWaktu);
 
 if (takSempat) {
@@ -243,6 +273,19 @@ log('hasil: ' + cocok + ' cocok, ' + bermasalah.length + ' bermasalah, ' +
 // dipercaya'.
 const terperiksa = cocok + bermasalah.length;
 const cukup = Math.max(1, Math.ceil(kandidat.length / 2));
+
+// Pemeriksaan yang masih menggantung saat laporan disusun membatalkan klaim
+// bersih, berapa pun yang sudah terperiksa. Kita tidak tahu apa yang akan
+// mereka temukan, dan "tidak tahu" bukan "tidak ada masalah".
+if (yatimMenggantung.length) {
+  console.error('');
+  console.error(yatimMenggantung.length + ' pemeriksaan masih menggantung saat laporan disusun: ' +
+    yatimMenggantung.map(y => y.slug).join(', '));
+  console.error('Hasilnya tidak bisa disebut bersih, karena temuan mereka belum tentu ada.');
+  console.error('');
+  process.exit(3);
+}
+
 if (kandidat.length && terperiksa < cukup) {
   console.error('');
   console.error('HANYA ' + terperiksa + ' dari ' + kandidat.length +
@@ -275,3 +318,8 @@ if (bermasalah.length) {
   // seharian.
   process.exit(2);
 }
+
+// Ditutup EKSPLISIT. Tanpa ini proses menunggu event loop kosong, dan
+// pekerjaan yatim yang belum selesai masih sempat mencetak temuannya
+// sesudah laporan, atau justru menahan proses tanpa alasan.
+process.exit(0);

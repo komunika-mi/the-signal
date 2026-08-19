@@ -129,6 +129,27 @@ jobs:
             git rebase --abort 2>/dev/null || true
             exit 1
           }
+          # JANGAN PERCAYA KODE KELUAR `git pull` DI ATAS.
+          #
+          # Kalau yang bentrok adalah AUTOSTASH-nya, git tetap keluar dengan kode 0.
+          # Diuji sendiri pada repo kecil: "Applying autostash resulted in conflicts",
+          # `git ls-files -u` berisi 3 berkas, dan kode keluar git pull tetap 0. Jadi
+          # blok `|| { ... }` di atas TIDAK PERNAH menyala untuk kasus ini.
+          #
+          # Terjadi sungguhan 19 Agustus 2026 pada run 32240199637: log memuat
+          # "Applying autostash resulted in conflicts" lalu "Committing is not
+          # possible because you have unmerged files" dan keluar 128, sementara baris
+          # "::error::Rebase bentrok dengan remote" yang disiapkan penjaga itu tidak
+          # pernah tercetak.
+          #
+          # Yang diperiksa di sini KEADAAN pohon kerjanya, bukan kode keluarnya.
+          if [ -n "$(git ls-files -u)" ]; then
+            echo "::error::Autostash bentrok saat rebase. Putaran ini dibatalkan; putaran berikutnya akan membuat ulang."
+            git ls-files -u | awk '{print $4}' | sort -u | head -20
+            git rebase --abort 2>/dev/null || true
+            git reset --hard origin/master
+            exit 1
+          fi
           git push
 
       - name: Tunggu situs benar-benar tayang
@@ -207,5 +228,26 @@ jobs:
               echo "::error::Rebase bentrok saat mencatat state Telegram."
               exit 1
             }
+            # JANGAN PERCAYA KODE KELUAR `git pull` DI ATAS.
+            #
+            # Kalau yang bentrok adalah AUTOSTASH-nya, git tetap keluar dengan kode 0.
+            # Diuji sendiri pada repo kecil: "Applying autostash resulted in conflicts",
+            # `git ls-files -u` berisi 3 berkas, dan kode keluar git pull tetap 0. Jadi
+            # blok `|| { ... }` di atas TIDAK PERNAH menyala untuk kasus ini.
+            #
+            # Terjadi sungguhan 19 Agustus 2026 pada run 32240199637: log memuat
+            # "Applying autostash resulted in conflicts" lalu "Committing is not
+            # possible because you have unmerged files" dan keluar 128, sementara baris
+            # "::error::Rebase bentrok dengan remote" yang disiapkan penjaga itu tidak
+            # pernah tercetak.
+            #
+            # Yang diperiksa di sini KEADAAN pohon kerjanya, bukan kode keluarnya.
+            if [ -n "$(git ls-files -u)" ]; then
+              echo "::error::Autostash bentrok saat rebase. Putaran ini dibatalkan; putaran berikutnya akan membuat ulang."
+              git ls-files -u | awk '{print $4}' | sort -u | head -20
+              git rebase --abort 2>/dev/null || true
+              git reset --hard origin/master
+              exit 1
+            fi
             git push
           fi

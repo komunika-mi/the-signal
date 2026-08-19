@@ -48,6 +48,14 @@ if (Test-Path $kunci) {
 # Ambil nama berkas dari satu baris 'git status --porcelain'.
 # Bentuknya 'XY path', dan untuk penggantian nama 'XY lama -> baru'. Path yang
 # mengandung spasi dikutip git, jadi kutipnya dilepas.
+# Sidik isi satu berkas. Berkas yang tidak ada memberi string kosong, supaya
+# berkas yang dihapus atau dibuat putaran ini tetap terdeteksi berubah.
+function SidikBerkas($jalur) {
+  if (-not (Test-Path -LiteralPath $jalur -PathType Leaf)) { return '' }
+  try { return (Get-FileHash -LiteralPath $jalur -Algorithm SHA256).Hash }
+  catch { return '' }
+}
+
 function BerkasDariBarisStatus($baris) {
   if (-not $baris -or $baris.Length -lt 4) { return $null }
   $p = $baris.Substring(3)
@@ -93,10 +101,21 @@ try {
   # Yang dicatat di sini adalah berkas yang SUDAH kotor sebelum pipeline mulai.
   # Semuanya nanti dilewati saat commit, apa pun isinya. Pipeline ini cuma
   # berhak atas apa yang ia ubah sendiri.
+  # Yang disimpan SIDIK ISINYA, bukan sekadar "berkas ini kotor".
+  #
+  # Versi pertama penjaga ini cuma mencatat nama, lalu melewati semua yang
+  # namanya tercatat. Itu memasang perangkap: berkas milik pipeline sendiri
+  # yang kebetulan tertinggal kotor, misalnya assets/js/articles.js sesudah
+  # putaran yang gagal di tengah, akan masuk daftar lewat dan TIDAK PERNAH
+  # ter-commit lagi, karena tiap putaran berikutnya ia tetap kotor. Situs
+  # berhenti terbarui tanpa satu pun pesan galat.
+  #
+  # Dengan sidik isi, yang menentukan bukan kotor atau bersihnya, melainkan
+  # apakah putaran ini benar-benar mengubahnya.
   $sebelum = @{}
   foreach ($b in (& git -c core.quotepath=false status --porcelain)) {
     $p = BerkasDariBarisStatus $b
-    if ($p) { $sebelum[$p] = $true }
+    if ($p) { $sebelum[$p] = (SidikBerkas $p) }
   }
   if ($sebelum.Count -gt 0) {
     Catat "catatan: $($sebelum.Count) berkas sudah berubah sebelum putaran ini, akan dilewati saat commit"
@@ -129,7 +148,11 @@ try {
   foreach ($b in (& git -c core.quotepath=false status --porcelain)) {
     $p = BerkasDariBarisStatus $b
     if (-not $p) { continue }
-    if ($sebelum.ContainsKey($p)) { $dilewati += $p } else { $milikKita += $p }
+    if (-not $sebelum.ContainsKey($p)) { $milikKita += $p; continue }
+    # Sudah kotor sebelum putaran ini. Ikut kalau ISINYA berubah selama
+    # putaran, dilewati kalau tidak: yang tidak tersentuh memang bukan milik
+    # kita, dan yang tersentuh memang hasil kerja putaran ini.
+    if ((SidikBerkas $p) -ne $sebelum[$p]) { $milikKita += $p } else { $dilewati += $p }
   }
   if ($dilewati.Count -gt 0) {
     Catat "dilewati (sudah berubah sebelum putaran ini): $($dilewati -join ', ')"
@@ -141,7 +164,17 @@ try {
   }
   Catat "commit $($milikKita.Count) berkas milik putaran ini"
   Jalankan 'git' (@('add', '--') + $milikKita) | Out-Null
-  Jalankan 'git' @('commit', '-m', $pesan) | Out-Null
+  # Commit DENGAN daftar berkas, bukan commit polos.
+  #
+  # 'git commit' tanpa pathspec meng-commit SELURUH index. Mengatur apa yang
+  # di-add saja tidak cukup: berkas yang sudah dipentaskan manusia sebelum
+  # putaran ini mulai tetap duduk di index dan ikut terbawa, persis hal yang
+  # penjaga di atas berusaha cegah. Diuji: dengan README.md yang sudah
+  # di-'git add' lebih dulu, commit polos menghasilkan 3 berkas padahal
+  # laporannya berbunyi "commit 2 berkas milik putaran ini".
+  #
+  # Dengan pathspec, git mengabaikan index untuk jalur lain.
+  Jalankan 'git' (@('commit', '-m', $pesan, '--') + $milikKita) | Out-Null
   $kodePush = Jalankan 'git' @('push', 'origin', 'master')
   if ($kodePush -ne 0) { Catat 'GAGAL: push ditolak'; exit 1 }
 

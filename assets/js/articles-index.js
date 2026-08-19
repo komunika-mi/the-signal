@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mine-batalkan-rupslb-agenda-pergantian-direksi-molor",
+  "category": "Aksi Korporasi",
+  "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
+  "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-gelar-rupslb-ganti-presiden-direktur-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BNBA Gelar [RUPSLB], Ganti Presiden Direktur dan Komisaris",
+  "deck": "Bank Bumi Arta memanggil RUPSLB 10 September 2026 untuk mengganti presiden direktur dan lima kursi komisaris, menyusul RUPST Juni yang gagal mencapai kesepakatan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ruang-direksi.jpg",
+  "tags": [
+   "BNBA",
+   "RUPSLB",
+   "Bank Bumi Arta",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e7592fe4d_ac5234081c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57",
   "category": "Aksi Korporasi",
   "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
@@ -42,7 +74,7 @@ var ARTICLES = [
   "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
   "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "tags": [
    "INRU",
    "Toba Pulp Lestari",
@@ -90,7 +122,7 @@ var ARTICLES = [
   "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
   "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "tags": [
    "BIPP",
    "PMTHMETD",
@@ -172,7 +204,7 @@ var ARTICLES = [
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "BIPP",
    "RUPSLB",
@@ -188,7 +220,7 @@ var ARTICLES = [
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
   "tags": [
    "HATM",
    "PMTHMETD",
@@ -196,6 +228,22 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "humi-direktur-utama-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
+  "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "tags": [
+   "HUMI",
+   "direksi",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aef620d48b_51eb97d8f6.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -247,6 +295,22 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/81f0f3d4ad_3286740f55.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
+  "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/grafik-laptop.jpg",
+  "tags": [
+   "BEEF",
+   "buyback saham",
+   "saham treasuri",
+   "Estika Tata Tiara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e23e8146ba_de8727a358.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -384,6 +448,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460995-bayan-resources-bantah-isu-haji-isam-bakal-ambil-alih-622-persen-saham-byan"
+ },
+ {
+  "slug": "npgf-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/gedung-bi.jpg",
+  "tags": [
+   "NPGF",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/31c1badcaf_54ea5e47f8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-tertekan-0-65-persen-saham-bank-justru-menguat",
@@ -791,6 +871,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460859-berkat-pelatihan-ekspor-bri-peduli-pt-mjethnic-craft-indonesia-dari-jayapura-angkat-budaya-lokal-menembus-pasar-internasional"
+ },
+ {
+  "slug": "giaa-jelaskan-ke-bursa-pemberhentian-sementara-direktur-niaga",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
+  "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/analis-rapat.jpg",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "Direktur Niaga",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
+  "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "IRSX",
+   "Folago Global Nusantara",
+   "rights issue",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2aea432f5a_1ff86d59bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
+  "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/dokumen-prospektus.jpg",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "Folago Global Nusantara",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
@@ -6624,132 +6752,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456789-pertamina-terus-perkuat-kapabilitas-dan-budaya-keberlanjutan-guna-dukung-transformasi-bisnis-berkelanjutan"
- },
- {
-  "slug": "inisiatif-bioenergi-pertamina-dapat-pengakuan-internasional",
-  "category": "Energi",
-  "title": "Inisiatif Bioenergi Pertamina Dapat [Pengakuan] Internasional",
-  "deck": "Pertamina meraih penghargaan Outstanding SDG Innovator 2026 lewat inisiatif bioenergi berkelanjutan.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/inisiatif-bioenergi-pertamina-dapat-pengakuan-internasional.jpg",
-  "imageV": "tjnru7",
-  "tags": [
-   "Pertamina",
-   "Bioenergi",
-   "SDG"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456788-pertamina-raih-outstanding-sdg-innovator-2026-inisiatif-bioenergy-lestari-diakui-dunia"
- },
- {
-  "slug": "sebelas-umkm-binaan-tampil-di-panggung-indonesia-fashion-week",
-  "category": "UMKM",
-  "title": "Sebelas UMKM Binaan Tampil di Panggung [Indonesia Fashion Week]",
-  "deck": "UMKM binaan Pertamina Patra Niaga memperluas akses pasar lewat ajang Indonesia Fashion Week 2026.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/sebelas-umkm-binaan-tampil-di-panggung-indonesia-fashion-week.jpg",
-  "imageV": "tjnru8",
-  "tags": [
-   "UMKM",
-   "Ekonomi Kreatif",
-   "Fesyen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456773-dongkrak-umkm-naik-kelas-11-umkm-binaan-pertamina-patra-niaga-tampil-di-indonesia-fashion-week-2026"
- },
- {
-  "slug": "pegadaian-kantongi-sk-perjanjian-kerja-bersama-2026-2028",
-  "category": "Ketenagakerjaan",
-  "title": "Pegadaian Kantongi SK Perjanjian Kerja Bersama [2026-2028]",
-  "deck": "Perjanjian kerja bersama periode 2026-2028 disahkan Kemenaker, memperkuat fondasi hubungan industrial.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/pegadaian-kantongi-sk-perjanjian-kerja-bersama-2026-2028.jpg",
-  "imageV": "tjnru8",
-  "tags": [
-   "Ketenagakerjaan",
-   "Pegadaian",
-   "Hubungan Industrial"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456748-pegadaian-resmi-terima-sk-perjanjian-kerja-bersama-periode-20262028-dari-kemenaker-perkuat-fondasi-hubungan-industrial-harmonis"
- },
- {
-  "slug": "perusahaan-perangkat-lunak-global-perluas-kantor-di-bsd-city",
-  "category": "Teknologi",
-  "title": "Perusahaan Perangkat Lunak Global Perluas Kantor di [BSD City]",
-  "deck": "Odoo Indonesia membuka kantor baru di kawasan digital hub BSD City.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/perusahaan-perangkat-lunak-global-perluas-kantor-di-bsd-city.jpg",
-  "imageV": "tjnru9",
-  "tags": [
-   "Teknologi",
-   "Investasi",
-   "Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456739-odoo-indonesia-ekspansi-kantor-baru-di-gedung-biomedical-campus-perkuat-ekosistem-digital-hub-di-bsd-city"
- },
- {
-  "slug": "secangkir-kopi-wisatawan-asing-dan-rantai-ekonomi-di-baliknya",
-  "category": "Bisnis",
-  "title": "Secangkir Kopi Wisatawan Asing dan [Rantai Ekonomi] di Baliknya",
-  "deck": "Presiden menganalogikan efek berganda pariwisata lewat contoh sederhana konsumsi wisatawan asing.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/secangkir-kopi-wisatawan-asing-dan-rantai-ekonomi-di-baliknya.jpg",
-  "imageV": "tjnrua",
-  "tags": [
-   "Pariwisata",
-   "Ekonomi Kreatif",
-   "Presiden Prabowo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456717-prabowo-satu-wisatawan-asing-minum-secangkir-kopi-bisa-hidupi-10-hingga-15-rakyat-indonesia"
- },
- {
-  "slug": "pekerja-migran-di-taiwan-dibekali-literasi-keuangan-untuk-pulang-berwi",
-  "category": "Perbankan",
-  "title": "Pekerja Migran di Taiwan Dibekali [Literasi Keuangan] untuk Pulang Berwirausaha",
-  "deck": "BRI memberikan pelatihan kewirausahaan dan literasi keuangan bagi pekerja migran Indonesia di Taiwan.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/pekerja-migran-di-taiwan-dibekali-literasi-keuangan-untuk-pulang-berwi.jpg",
-  "imageV": "tjnrua",
-  "tags": [
-   "Pekerja Migran",
-   "BRI",
-   "Literasi Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456703-bri-bekali-pmi-di-taiwan-dengan-kewirausahaan-dan-literasi-keuangan-untuk-bangun-usaha-produktif"
- },
- {
-  "slug": "bank-bjb-perluas-bisnis-lewat-kemitraan-strategis-baru",
-  "category": "Perbankan",
-  "title": "Bank bjb Perluas Bisnis lewat [Kemitraan] Strategis Baru",
-  "deck": "Bank bjb menjalin kemitraan strategis untuk memperkuat basis bisnisnya.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/bank-bjb-perluas-bisnis-lewat-kemitraan-strategis-baru.jpg",
-  "imageV": "tjnrub",
-  "tags": [
-   "Bank bjb",
-   "Perbankan",
-   "Kemitraan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456658-bank-bjb-perluas-potensi-bisnis-melalui-kemitraan-strategis-bersama-yayasan-adi-upaya"
- },
- {
-  "slug": "emas-antam-naik-rp15-ribu-harga-buyback-ikut-terangkat",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Naik [Rp15 Ribu], Harga Buyback Ikut Terangkat",
-  "deck": "Harga emas batangan Antam menguat pada perdagangan 30 Juli 2026, diikuti kenaikan harga buyback.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/emas-antam-naik-rp15-ribu-harga-buyback-ikut-terangkat.jpg",
-  "imageV": "msr7bwg0",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik"
  }
 ];

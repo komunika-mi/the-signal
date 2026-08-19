@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mine-batalkan-rupslb-agenda-pergantian-direksi-molor",
+  "category": "Aksi Korporasi",
+  "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
+  "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T00:00:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINE",
+  "tags": [
+   "MINE",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Sinar Terang Mandiri Tbk (MINE) membatalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan pada Jumat, 31 Agustus 2026. Pembatalan disampaikan melalui surat Nomor 1531/STM-MA/SP/VIII/2026 tertanggal 20 Agustus 2026, yang ditandatangani Presiden Direktur Ivo Wangarry, merujuk pada pengumuman RUPS sebelumnya di surat Nomor 1450/STM-MA/SP/VII/2026 tertanggal 23 Juli 2026.",
+   "Dua agenda yang batal dibahas dalam rapat tersebut adalah persetujuan perubahan susunan Direksi Perseroan, dan persetujuan perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025.",
+   "Dalam pengumuman terpisah yang ditandatangani Direksi di Jakarta, 18 Agustus 2026, perseroan menyebut pembatalan dilakukan sehubungan dengan penyesuaian dan kajian lebih lanjut terhadap mata acara RUPSLB, guna memastikan pemenuhan ketentuan peraturan perundang-undangan yang berlaku serta kebutuhan perseroan. Belum ada jadwal RUPSLB pengganti yang diumumkan. Perseroan menyatakan akan memperbarui informasi pembatalan ini di sistem eASY.KSEI, situs web Bursa Efek Indonesia, dan situs web perseroan sendiri."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs around a long table, soft morning light through glass windows in a Jakarta office tower",
+  "takeaway": "Laporan ini condong netral, sebab yang terjadi adalah penundaan proses, bukan pembatalan definitif rencana pergantian direksi atau perubahan lini usaha, tapi ketiadaan jadwal pengganti dan alasan yang kabur, yakni sekadar penyesuaian dan kajian kepatuhan, membuka ruang ketidakpastian yang patut diawasi. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau arus kas, melainkan kepastian tata kelola: susunan direksi menentukan siapa yang mengambil keputusan strategis perseroan, dan perubahan klasifikasi usaha lewat KBLI menentukan lini bisnis apa saja yang sah dijalankan secara hukum, sehingga molornya kedua agenda ini menunda kejelasan arah perusahaan bagi pemegang saham. Yang perlu dipantau berikutnya adalah pengumuman jadwal RUPSLB pengganti beserta pembaruan informasi di sistem eASY.KSEI dan situs Bursa Efek Indonesia, karena sampai saat ini perseroan belum menyebut tanggal baru maupun rincian penyesuaian agenda yang dimaksud.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bnba-gelar-rupslb-ganti-presiden-direktur-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BNBA Gelar [RUPSLB], Ganti Presiden Direktur dan Komisaris",
+  "deck": "Bank Bumi Arta memanggil RUPSLB 10 September 2026 untuk mengganti presiden direktur dan lima kursi komisaris, menyusul RUPST Juni yang gagal mencapai kesepakatan.",
+  "image": "assets/img/ruang-direksi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T23:20:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e7592fe4d_ac5234081c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "RUPSLB",
+   "Bank Bumi Arta",
+   "pergantian direksi"
+  ],
+  "body": [
+   "Bank Bumi Arta Tbk (BNBA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Kamis, 10 September 2026 pukul 15.00 WIB di Pullman Jakarta Indonesia, The Gallery Lantai 2, Jalan MH Thamrin No. 59, Jakarta Pusat. Yang berhak hadir atau diwakili adalah pemegang saham yang tercatat dalam daftar pemegang saham perseroan per 18 Agustus 2026 pukul 16.00 WIB, atau yang tercatat di sub rekening efek KSEI pada penutupan perdagangan tanggal yang sama.",
+   "Agenda utama rapat adalah perombakan jajaran komisaris dan direksi. Perseroan meminta persetujuan pengunduran diri Daniel Budi Dharma dari jabatan Wakil Presiden Komisaris merangkap Komisaris Independen, dan Mohammad Sjariffudin dari jabatan Komisaris merangkap Komisaris Independen. Sebagai gantinya, diajukan pengangkatan Markus Sugiono, Setiawati Samahita, dan Abi Kistono masing-masing sebagai Komisaris merangkap Komisaris Independen, serta I Gst Agung Rai Wirajaya sebagai Wakil Presiden Komisaris merangkap Komisaris Non Independen. Di jajaran direksi, perseroan juga meminta persetujuan pengunduran diri Wikan Aryono S dari jabatan Presiden Direktur dan pengangkatan Alex Susanto sebagai penggantinya.",
+   "Perseroan menjelaskan bahwa agenda pergantian komisaris ini merupakan tindak lanjut dari mata acara ke-8 Rapat Umum Pemegang Saham Tahunan (RUPST) yang digelar 30 Juni 2026, yang saat itu tidak mencapai musyawarah mufakat dan juga tidak sampai pada pemungutan suara untuk mengambil keputusan. Setiap usulan pergantian komisaris maupun presiden direktur, menurut perseroan, wajib memperhatikan rekomendasi komite nominasi. Bagi pemegang saham individu lokal yang ingin menggunakan hak suara secara elektronik melalui aplikasi eASY.KSEI, batas waktu deklarasi kehadiran atau pemberian kuasa dan pilihan suara adalah pukul 12.00 WIB pada 9 September 2026, sehari sebelum rapat."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage, ready for a corporate shareholders meeting, soft morning light",
+  "takeaway": "Laporan ini condong negatif dari sisi tata kelola karena RUPSLB ini adalah putaran kedua: RUPST 30 Juni 2026 sudah membahas pergantian komisaris namun gagal mencapai musyawarah mufakat dan tidak sampai pada pemungutan suara, sementara sekarang presiden direktur pun ikut diganti dalam rapat yang sama. Dokumen ini tidak memuat angka ekuitas, arus kas, atau laba per saham, tapi pergantian nyaris seluruh jajaran komisaris independen dan direktur utama tetap relevan bagi pemegang saham karena merekalah yang menentukan arah strategi, kebijakan kredit, dan pengawasan risiko bank ke depan. Yang perlu dipantau adalah apakah RUPSLB pada 10 September 2026 kali ini berhasil mencapai kesepakatan setelah upaya sebelumnya buntu, serta tenggat 9 September 2026 pukul 12.00 WIB bagi pemegang saham individu lokal untuk menyatakan kehadiran atau memberi kuasa suara elektronik.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57",
   "category": "Aksi Korporasi",
   "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
@@ -59,7 +111,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
   "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T19:24:04",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1fd338212c_4ff0cba4be.pdf",
@@ -138,7 +190,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
   "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T18:17:44",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
@@ -271,7 +323,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:22:08",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
@@ -297,7 +349,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:19:36",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
@@ -316,6 +368,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A domestic cargo ship docked along a wide brown river port in Sumatra, workers loading crates, tropical morning haze.",
   "takeaway": "Penilaian saya netral dengan catatan penting: suntikan dana Rp320 miliar dan kenaikan ekuitas memang memperkuat permodalan HATM, tetapi seluruh saham baru hanya ditawarkan kepada MSN yang direksinya sama persis dengan direksi HATM dan komisarisnya saling merangkap, bukan lewat penawaran terbuka ke seluruh pemegang saham, sehingga publik ikut terdilusi tanpa diberi kesempatan menambah porsi. Yang tersentuh dari sisi kinerja adalah jumlah saham beredar, yang bisa bertambah hingga 868 juta lembar dari 8,68 miliar menjadi maksimal 9,548 miliar, sehingga laba bersih Perseroan nantinya dibagi ke basis saham yang lebih besar dan berpotensi menekan laba per saham dalam jangka pendek, meski di sisi lain kas dan ekuitas bertambah Rp320 miliar yang bisa meringankan beban bunga kalau dananya dipakai melunasi pinjaman bank. Yang perlu dipantau adalah hasil RUPSLB pada 21 Agustus 2026, karena rencana ini baru bisa berjalan setelah disetujui pemegang saham, dan jika lolos, penerbitan saham serta penetapan harga final ditargetkan rampung paling lambat akhir Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "humi-direktur-utama-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
+  "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:16:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aef620d48b_51eb97d8f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "direksi",
+   "RUPSLB",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) melaporkan ke Bursa Efek Indonesia bahwa pada 14 Agustus 2026 perusahaan menerima surat pengunduran diri I Gusti Ngurah Askhara Danadiputra dari jabatan Direktur Utama. Pengunduran diri ini baru berlaku efektif setelah disahkan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dengan agenda perubahan susunan pengurus perusahaan. Perusahaan belum mengumumkan tanggal pelaksanaan RUPSLB tersebut.",
+   "Sampai RUPSLB digelar, pengelolaan dan pengurusan perusahaan tetap dijalankan oleh direksi yang ada saat ini, sesuai anggaran dasar dan peraturan yang berlaku. Artinya jabatan Direktur Utama belum kosong secara hukum, hanya menunggu pengesahan pemegang saham. Laporan ini disampaikan sesuai kewajiban keterbukaan informasi berdasarkan POJK No. 31/POJK.04/2015 dan POJK No. 33/POJK.04/2014, ditandatangani oleh Sekretaris Perusahaan Arya Mahardhika Pradana pada 19 Agustus 2026.",
+   "Dalam laporan itu, perusahaan menyatakan tidak ada dampak dari kejadian ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha. Dokumen tidak menyebutkan alasan pengunduran diri maupun calon pengganti."
+  ],
+  "fotoAdegan": "Crew members walking across the deck of a domestic cargo ship docked at an Indonesian port, cranes in the background, overcast morning light",
+  "takeaway": "Laporan ini netral bagi fundamental HUMI: yang terjadi adalah perubahan kepengurusan, bukan transaksi keuangan, dan tidak ada angka pada ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang berubah akibat kejadian ini. Meski begitu, pelaku pasar tetap memperhatikan pergantian direktur utama karena posisi ini yang menentukan arah strategi dan keputusan bisnis harian perusahaan, jadi kekosongan atau transisi di kursi ini biasa dipantau meski belum tentu berdampak pada laporan keuangan. Yang perlu ditunggu selanjutnya adalah jadwal RUPSLB yang akan mengesahkan perubahan susunan pengurus ini, termasuk siapa yang akan menggantikan posisi Direktur Utama, karena sampai saat itu jabatan tersebut secara formal belum benar-benar kosong.",
   "sentimen": "netral"
  },
  {
@@ -398,6 +476,32 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong positif bagi PPRE, karena hampir semua indikator inti bergerak searah membaik dalam periode yang sama, pendapatan naik, rugi menyusut tajam, dan beban penurunan nilai aset turun drastis. Yang tersentuh di sini adalah laba rugi perusahaan dan beban penurunan nilai, yaitu pencatatan kerugian ketika nilai aset seperti alat berat atau piutang dianggap tidak akan kembali sepenuhnya, karena pelaku pasar memakainya untuk menilai apakah rugi besar tahun 2025 itu masalah sesaat atau berkelanjutan. Beban keuangan, yaitu biaya bunga dari utang perseroan, juga sedikit turun, menandakan tekanan bunga belum makin berat meski penurunannya tipis. Yang perlu dipantau berikutnya adalah laporan keuangan resmi semester I 2026, sebab angka-angka di rilis pers ini masih berupa highlight awal manajemen dan baru mengikat penuh setelah laporan keuangan teraudit terbit ke publik.",
   "sentimen": "positif",
   "imageV": "mszvtis0"
+ },
+ {
+  "slug": "beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
+  "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
+  "image": "assets/img/grafik-laptop.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T15:02:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e23e8146ba_de8727a358.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "buyback saham",
+   "saham treasuri",
+   "Estika Tata Tiara"
+  ],
+  "body": [
+   "PT Estika Tata Tiara Tbk (BEEF) melaporkan hasil pelaksanaan pembelian kembali (buyback) sahamnya untuk periode 19 Mei 2026 sampai 18 Agustus 2026, mengacu pada Peraturan OJK No. 13/2023 dan No. 29/2023 tentang buyback saham pada kondisi pasar yang berfluktuasi signifikan, serta Surat Edaran OJK No. S-10/D.04/2026. Rencana buyback ini pertama kali diumumkan pada 19 Mei 2026, dengan batas maksimal 333.333.333 lembar saham, harga beli maksimum Rp300 per saham, dan dana maksimal Rp100 miliar. Seluruh saham yang dibeli kembali dicatat sebagai saham treasuri.",
+   "Berdasarkan rincian transaksi harian yang dilampirkan, BEEF mulai membeli sahamnya di pasar pada 20 Mei 2026 sebanyak 2.998.700 lembar dengan harga Rp167 per saham, dan terus melakukan pembelian hampir tiap pekan hingga transaksi terakhir yang tercatat pada 22 Juli 2026 sebanyak 827.500 lembar seharga Rp298 per saham. Harga beli bervariasi dari terendah Rp132 per saham pada 5 Juni 2026 hingga tertinggi Rp298 per saham pada 22 Juli 2026. Volume pembelian terbesar tercatat pada 21 Mei 2026 sebanyak 7.041.800 lembar saham dan 26 Juni 2026 sebanyak 5.500.000 lembar saham.",
+   "Secara total, sepanjang periode tersebut BEEF membeli kembali 52.558.600 lembar saham dengan total dana Rp9.456.904.535, atau sekitar 15,8 persen dari batas maksimal 333.333.333 lembar saham dan 9,5 persen dari pagu dana Rp100 miliar yang disetujui. Sisa dana yang belum digunakan untuk buyback tercatat Rp90.543.005.465. Laporan ini ditandatangani Corporate Secretary BEEF, Ratna Sari Ismianti, dan disampaikan kepada OJK serta Bursa Efek Indonesia pada 19 Agustus 2026."
+  ],
+  "fotoAdegan": "Workers in hairnets and aprons packing processed meat products along a stainless steel factory production line",
+  "takeaway": "Laporan ini condong positif bagi BEEF karena perusahaan benar-benar mengeluarkan uang tunai, Rp9,46 miliar, untuk membeli kembali 52,56 juta sahamnya sendiri dari pasar, dan saham itu masuk sebagai saham treasuri sehingga jumlah saham yang beredar di publik berkurang. Ini relevan bagi laba per saham, yaitu keuntungan perusahaan dibagi jumlah saham beredar, karena kalau jumlah sahamnya berkurang sementara labanya tetap, porsi laba untuk tiap saham yang tersisa jadi lebih besar. Di sisi lain, dana itu keluar dari kas perusahaan dan sudah tidak bisa dipakai untuk keperluan lain seperti ekspansi atau bayar utang, meski jumlahnya baru sekitar 9,5 persen dari pagu maksimal Rp100 miliar yang disetujui. Yang perlu dipantau berikutnya adalah apakah BEEF akan melanjutkan atau menutup program buyback ini, mengingat periode yang dilaporkan sudah berakhir 18 Agustus 2026 dan baru sekitar 15,8 persen dari rencana pembelian 333,33 juta saham yang terealisasi, dengan sisa pagu Rp90,54 miliar yang masih bisa digunakan.",
+  "sentimen": "positif"
  },
  {
   "slug": "bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru",
@@ -614,6 +718,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan fakta akuisisi, melainkan bantahan resmi manajemen BYAN atas rumor pengambilalihan 62,2 persen sahamnya oleh kelompok usaha Haji Isam. Pihak yang langsung terdampak adalah investor BYAN sendiri, serta pemegang saham empat emiten lain yang ikut naik karena dikaitkan dengan Haji Isam, yaitu JARR, TEBE, PGUN, dan FAST. Buktinya masih terbelah, manajemen tegas bilang tidak tahu rencana itu, tapi kalimat lain dari mereka menyebut pemegang saham pengendali tetap terbuka pada peluang menambah nilai investasi, sehingga pintunya tidak sepenuhnya tertutup. Kalau rumor ini memang tidak berdasar, kenaikan saham-saham terafiliasi tadi wajarnya mereda dalam beberapa hari ke depan. Tapi kalau ada pembicaraan transaksi yang belum matang untuk diumumkan, tandanya akan muncul lewat laporan resmi ke bursa dari BYAN atau saham-saham terafiliasi itu, itu yang perlu ditunggu.",
   "imageV": "msznq5g3"
+ },
+ {
+  "slug": "npgf-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
+  "image": "assets/img/gedung-bi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T11:49:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/31c1badcaf_54ea5e47f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NPGF",
+  "tags": [
+   "NPGF",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Nusa Palapa Gemilang Tbk (NPGF) mengirim surat tanggapan bernomor 0443/CSC-NPG/VIII/2026 kepada Bursa Efek Indonesia pada 19 Agustus 2026, menjawab permintaan penjelasan BEI bernomor S-10773/BEI.PP3/08-2026 tertanggal 14 Agustus 2026 mengenai volatilitas transaksi saham perusahaan. Surat itu ditandatangani oleh Corporate Secretary NPGF, Muchammad Atho'ur Rohman.",
+   "Dalam tanggapannya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "NPGF menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa, serta tidak ada fakta material lain yang belum diungkap ke publik. Corporate Secretary juga menyampaikan telah mengonfirmasi langsung kepada pemegang saham utama, yang dipastikan belum berencana mengubah kepemilikan sahamnya di perusahaan, dan NPGF berjanji akan mengumumkan setiap perubahan kepemilikan pemegang saham utama secara tepat waktu sesuai aturan."
+  ],
+  "fotoAdegan": "Workers stacking fertilizer sacks inside a warehouse near a granulation plant, industrial lighting, Indonesia",
+  "takeaway": "Laporan ini netral bagi NPGF karena isinya semata penegasan bahwa manajemen tidak mengetahui penyebab di balik pergerakan harga sahamnya yang tidak biasa, tanpa membawa angka atau rencana baru yang mengubah kondisi keuangan perusahaan. Dokumen semacam ini terbit setelah bursa mencurigai volume atau harga saham NPGF bergerak di luar kewajaran dan meminta kepastian tidak ada informasi tersembunyi yang membuat sebagian investor tahu lebih dulu dari yang lain; ini soal kesetaraan akses informasi, bukan soal modal, arus kas, utang, atau laba per saham perusahaan yang memang tidak disinggung dalam surat ini. Pemegang saham utama NPGF juga dipastikan belum berniat mengubah kepemilikannya, dan jika berubah, perusahaan wajib mengumumkannya tepat waktu sesuai aturan OJK. Yang perlu dipantau berikutnya adalah apakah bursa masih menilai transaksi saham NPGF tidak wajar dalam waktu dekat, serta apakah muncul aksi korporasi dalam tiga bulan ke depan seperti yang disinggung pada poin keempat surat ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "ihsg-tertekan-0-65-persen-saham-bank-justru-menguat",
@@ -1261,6 +1391,84 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang konkret dari cerita ini adalah PT MJEthnic Craft Indonesia menyisihkan 2,5 persen dari setiap penjualan untuk warga kurang mampu di Papua, dan usahanya tumbuh dari toko daring sederhana sejak 2022 menjadi distributor produk UMKM lintas daerah. Yang jelas terdampak adalah pengrajin lokal Papua, terutama perempuan, yang karyanya kini dipasarkan lebih luas, serta warga kurang mampu di Papua yang menerima sebagian hasil penjualan. Namun berita ini tidak menyebut berapa banyak UMKM lain yang mengikuti Pelatihan Ekspor BRI Peduli, berapa nilai transaksi ekspor yang sudah terealisasi, atau negara tujuan ekspornya, sehingga belum bisa dibaca apakah program ini sudah mengantar pelaku UMKM pada transaksi ekspor nyata atau baru sebatas pembekalan. Yang perlu dipantau adalah data realisasi ekspor UMKM binaan BRI Peduli pada laporan berikutnya, termasuk jumlah UMKM yang berhasil menembus pasar luar negeri.",
   "imageV": "msypskwz"
+ },
+ {
+  "slug": "giaa-jelaskan-ke-bursa-pemberhentian-sementara-direktur-niaga",
+  "category": "Aksi Korporasi",
+  "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
+  "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
+  "image": "assets/img/analis-rapat.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T19:16:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GIAA",
+  "tags": [
+   "GIAA",
+   "Garuda Indonesia",
+   "Direktur Niaga",
+   "RUPS"
+  ],
+  "body": [
+   "Garuda Indonesia menanggapi surat permintaan penjelasan Bursa Efek Indonesia Nomor S-10741/BEI.PP2/08-2026 tertanggal 13 Agustus 2026, yang menindaklanjuti keterbukaan informasi perusahaan pada 12 Agustus 2026 soal pemberhentian sementara Direktur Niaga. Dalam surat balasan tertanggal 18 Agustus 2026, Corporate Secretary & TJSL Group Head Andreas Tumpal H. Hutapea menjelaskan bahwa pemberhentian itu merujuk pada Surat Kepala Badan Pengaturan Badan Usaha Milik Negara Nomor SR-452/BP/08/2026 tanggal 11 Agustus 2026, yang memuat usulan penataan ulang susunan Direksi Perseroan. Garuda menegaskan tidak ada informasi, peristiwa, atau kondisi material lain di balik keputusan tersebut, termasuk tidak ada indikasi pelanggaran prinsip tata kelola perusahaan yang baik.",
+   "Soal aturan mainnya, Garuda menjelaskan bahwa berdasarkan Pasal 11 ayat 24 huruf c Anggaran Dasar Perseroan, anggota direksi yang diberhentikan sementara langsung kehilangan wewenang mengurus dan mewakili perusahaan, baik di dalam maupun di luar pengadilan. Perusahaan wajib menggelar Rapat Umum Pemegang Saham paling lambat 90 hari kalender sejak pemberhentian sementara ditetapkan, untuk memutuskan mencabut atau menguatkan keputusan itu. Jika RUPS menguatkan keputusan tersebut, status pejabat yang bersangkutan otomatis berubah menjadi pemberhentian tetap.",
+   "Untuk fungsi Direktur Niaga sehari-hari, Garuda belum menunjuk pengganti definitif dan menyebut masih berkoordinasi dengan Dewan Komisaris. Berdasarkan Pasal 11 ayat 15 huruf a Anggaran Dasar, Dewan Komisaris berwenang menunjuk salah satu anggota direksi lain untuk menjalankan fungsi jabatan yang lowong dengan kewenangan setara, dan penetapan pelaksana tugas itu akan mengikuti ketentuan internal perusahaan. Garuda juga menyebut pejabat yang diberhentikan sementara tetap mendukung agenda perusahaan hingga 14 Agustus 2026 sesuai koridor tata kelola yang berlaku, dan memastikan seluruh kegiatan operasional serta pelayanan tetap berjalan normal."
+  ],
+  "fotoAdegan": "Ground crew in high-visibility vests directing a wide-body airliner away from a terminal gate at dusk.",
+  "takeaway": "Laporan ini condong netral bagi Garuda karena perusahaan tidak mengungkap masalah keuangan atau pelanggaran tata kelola di balik pemberhentian ini, tapi kekosongan pucuk pimpinan niaga yang belum terisi tetap jadi hal yang perlu diawasi. Direktur Niaga adalah posisi yang mengendalikan strategi harga tiket, rute penerbangan, dan pendapatan penumpang, sehingga kekosongan fungsi itu, meski sementara dan diklaim tidak mengganggu operasional, tetap relevan bagi pemegang saham karena berkaitan langsung dengan sumber pendapatan utama maskapai. Yang perlu dipantau berikutnya adalah RUPS yang wajib digelar Garuda paling lambat sekitar awal November 2026, sembilan puluh hari sejak surat Badan Pengaturan BUMN tertanggal 11 Agustus 2026, untuk memutuskan apakah pemberhentian ini dicabut atau dikukuhkan menjadi permanen, serta pengumuman resmi siapa yang akan ditunjuk Dewan Komisaris sebagai pelaksana tugas Direktur Niaga.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
+  "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T18:52:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2aea432f5a_1ff86d59bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "Folago Global Nusantara",
+   "rights issue",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) mengajukan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I) sebanyak-banyaknya 12.390.094.754 saham biasa baru dengan nilai nominal Rp15 per saham. Jumlah ini setara sebanyak-banyaknya 66,67 persen dari modal ditempatkan dan disetor penuh perseroan setelah penambahan modal ini rampung. Penerbitan saham baru ini dibarengi penerbitan sebanyak-banyaknya 1.858.514.214 Waran Seri II, dengan rasio setiap 100 saham baru hasil HMETD melekat 15 waran. Setiap satu waran dapat ditukar dengan satu saham baru bernilai nominal Rp15, namun harga pelaksanaannya baru akan ditetapkan saat pernyataan pendaftaran ke Otoritas Jasa Keuangan.",
+   "Dana yang terkumpul dari PMHMETD I rencananya dipakai perseroan, baik langsung maupun lewat anak usaha, untuk belanja modal (capex) dan modal kerja (opex) dalam rangka ekspansi usaha. Dana dari pelaksanaan Waran Seri II akan dipakai khusus untuk modal kerja. Jumlah final saham yang diterbitkan serta harga pelaksanaannya masih bergantung pada kebutuhan dana perseroan dan baru akan diungkapkan dalam prospektus resmi. Jika seorang pemegang saham tidak ikut menggunakan haknya, persentase kepemilikannya bisa terdilusi hingga 66,67 persen, sesuai batas maksimal penerbitan saham baru ini.",
+   "Pengendali IRSX saat ini adalah PT Matra Tri Abadi (MTA), yang sahamnya dimiliki oleh PT Ekatama Cipta Lestari (50 persen), PT Lintas Maju Maxima (49 persen), dan PT Investasi Gemilang Maju (1 persen). Rencana ini akan dimintakan persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 24 September 2026, yang juga akan membahas agenda perubahan susunan direksi dan/atau dewan komisaris. Sebelum RUPSLB, perseroan menjadwalkan daftar pemegang saham yang berhak hadir ditetapkan pada 1 September 2026, disusul iklan pemanggilan rapat pada 2 September 2026. Perseroan menyatakan pelaksanaan PMHMETD I dan Waran Seri II akan dilakukan dalam waktu tidak lebih dari 12 bulan sejak RUPSLB menyetujuinya, dan hingga keterbukaan informasi ini diterbitkan belum ada keberatan dari pihak mana pun terkait rencana tersebut."
+  ],
+  "fotoAdegan": "Software developers working at multiple computer monitors in a modern open-plan office, screens angled away, soft daylight",
+  "takeaway": "Rencana ini netral bagi fundamental Folago Global Nusantara: penambahan modal lewat rights issue mendatangkan dana segar untuk ekspansi dan bisa memperbaiki rasio utang perseroan, tapi skalanya yang mencapai 66,67 persen dari saham beredar setelah penerbitan tergolong sangat besar dibanding rights issue pada umumnya, sehingga pemegang saham lama yang tidak ikut menambah porsi otomatis melihat kepemilikannya tergerus signifikan. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar perseroan, ekuitas bertambah karena ada setoran modal baru yang masuk kas perseroan, sementara jumlah saham beredar yang melonjak berarti laba per saham berpotensi terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham. Harga pelaksanaan HMETD dan Waran Seri II juga belum ditentukan dan baru akan diumumkan lewat prospektus resmi, sehingga dampak riil terhadap kas dan valuasi perseroan belum bisa dihitung pasti. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 24 September 2026 yang akan mengesahkan rencana ini, serta terbitnya prospektus resmi setelah pernyataan pendaftaran ke OJK dinyatakan efektif, karena di situlah harga dan jumlah final saham baru akan terkonfirmasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
+  "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
+  "image": "assets/img/dokumen-prospektus.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T18:36:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "Folago Global Nusantara",
+   "rights issue"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar di Jakarta pada Kamis, 24 September 2026 pukul 14.00 WIB. Lokasi persisnya belum diumumkan dan akan disampaikan menyusul. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan atau pemilik saham di sub rekening efek KSEI per Selasa, 1 September 2026, sampai penutupan perdagangan saham IRSX di Bursa Efek Indonesia hari itu.",
+   "Surat resmi ditandatangani Corporate Secretary bernama Charlie pada 18 Agustus 2026. Undangan RUPSLB yang memuat mata acara rapat secara lengkap baru akan diumumkan lewat situs web perusahaan, situs Bursa Efek Indonesia, dan situs eASY KSEI pada Rabu, 2 September 2026, sehingga agenda resmi belum terbuka di tahap pengumuman ini. Perseroan juga membuka kesempatan bagi pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham berhak suara untuk mengusulkan mata acara rapat secara tertulis kepada Direksi, disertai alasan dan dokumen pendukung, paling lambat Rabu, 26 Agustus 2026.",
+   "Untuk pemberian kuasa, perseroan menyediakan dua jalur, yaitu secara elektronik melalui fasilitas eASY.KSEI atau lewat formulir surat kuasa yang tersedia di situs web perusahaan. Ketentuan teknis soal pemberian kuasa dan tata cara penggunaan hak suara akan dijelaskan lebih rinci dalam undangan resmi yang terbit awal September."
+  ],
+  "fotoAdegan": "Staff arranging rows of chairs in a corporate conference hall inside a Jakarta office tower, soft morning light through glass windows",
+  "takeaway": "Pengumuman ini netral bagi fundamental IRSX karena isinya baru sebatas jadwal dan tenggat administratif, belum memuat keputusan atau agenda rapat yang bisa langsung dinilai dampaknya. Yang perlu dicermati pemegang saham adalah pos jumlah saham beredar dan laba per saham, sebab perseroan sebelumnya sudah mengumumkan rencana rights issue hingga 12,39 miliar saham baru, dan RUPSLB kali ini berpotensi menjadi forum yang membahas persetujuannya meski dokumen ini sendiri belum mengonfirmasi agendanya. Jika rights issue itu disetujui, jumlah saham beredar akan bertambah besar sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menyerap haknya. Yang perlu dipantau berikutnya adalah batas usul mata acara pada 26 Agustus 2026, terbitnya undangan resmi berisi agenda lengkap pada 2 September 2026, tanggal pencatatan pemegang saham pada 1 September 2026, dan pelaksanaan RUPSLB sendiri pada 24 September 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",

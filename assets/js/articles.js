@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Rencanakan [Akuisisi] Perusahaan Migas Lewat CSPA Agustus 2026",
+  "deck": "Oxala Energy International (dulu Multi Makmur Lemindo, kode PIPA) menjajaki akuisisi perusahaan pengolahan gas bumi bersama pengendali MCI, CSPA ditarget diteken Agustus 2026.",
+  "image": "assets/img/pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T13:57:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/58cec32eff_1e6edc1aae.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "gas bumi",
+   "CSPA"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk, emiten berkode PIPA yang sebelumnya bernama PT Multi Makmur Lemindo Tbk, tengah menyiapkan rencana akuisisi sebuah perusahaan target di bidang pengolahan gas bumi. Rencana ini terungkap lewat surat tanggapan pemegang saham pengendali PT Morris Capital Indonesia (MCI) bernomor 035/ST/Oxala-MCI/VIII/2026 tertanggal 18 Agustus 2026 kepada Dewan Komisaris perseroan. MCI bersama perseroan disebut sedang finalisasi rencana transaksi, dan kedua pihak menargetkan penandatanganan Perjanjian Jual Beli Bersyarat atas Saham atau Conditional Share Purchase Agreement (CSPA) pada bulan yang sama, Agustus 2026.",
+   "Perusahaan target yang dibidik sudah beroperasi sekitar 14 tahun. Awalnya bergerak di perdagangan alat teknik, konstruksi, dan jasa konsultan teknik dengan omzet sekitar Rp40 miliar per tahun. Sejak 2025 perusahaan ini merambah bisnis pengolahan minyak dan gas bumi, dan menurut dokumen ini sudah mengantongi kontrak strategis senilai lebih dari US$100 juta. Total asetnya per akhir Desember 2025 tercatat Rp476 miliar, dan menurut proyeksi yang disampaikan perseroan bisa naik menjadi Rp920 miliar pada akhir Desember 2026, dengan potensi pendapatan Rp250 miliar per tahun serta margin EBITDA sekitar 60 persen.",
+   "Oxala menegaskan rencana ini belum final dan mengikat sampai penandatanganan perjanjian definitif, pemenuhan syarat pendahuluan, persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), serta persetujuan regulator OJK dan Bursa Efek Indonesia. RUPSLB untuk menyetujui rencana akuisisi ini ditargetkan digelar paling lambat Maret 2027. Dalam keterbukaan ini, perseroan tidak mengungkapkan nilai transaksi akuisisi maupun porsi saham yang akan diambil dari perusahaan target."
+  ],
+  "fotoAdegan": "Industrial gas processing plant with steel pipelines, storage tanks and a flare stack at dusk, technicians in hard hats walking near valves",
+  "takeaway": "Laporan ini condong netral karena baru berupa rencana yang belum mengikat, tanpa nilai transaksi atau porsi saham yang diungkap, sehingga dampak riilnya ke keuangan Oxala belum bisa dihitung meski narasinya menjanjikan. Kalau akuisisi ini benar terjadi, pos yang tersentuh adalah aset dan struktur pendapatan konsolidasi perseroan, karena bisnis lama di material bangunan PVC akan bercampur dengan pendapatan dari pengolahan gas bumi yang menurut proyeksi perusahaan target jauh lebih besar. Perlu dicatat, angka pendapatan Rp250 miliar dan margin EBITDA 60 persen itu proyeksi milik perusahaan target sendiri, belum tentu sudah lewat uji kelayakan independen dari Oxala. Yang perlu dipantau berikutnya adalah penandatanganan CSPA yang ditargetkan Agustus 2026 ini, disusul RUPSLB yang ditargetkan paling lambat Maret 2027 sebagai syarat persetujuan pemegang saham sebelum transaksi bisa dilanjutkan.",
+  "sentimen": "netral",
+  "imageV": "mszrdid1"
+ },
+ {
+  "slug": "truk-manajemen-akui-lonjakan-saham-bukan-fundamental",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Manajemen Akui Lonjakan Saham Bukan [Fundamental]",
+  "deck": "Public expose insidentil TRUK mengungkap pendapatan dan ekuitas menurun tiga tahun terakhir, sementara manajemen menyebut lonjakan sahamnya murni spekulasi pasar, bukan perbaikan kinerja.",
+  "image": "assets/img/truk-manajemen-akui-lonjakan-saham-bukan-fundamental.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T13:30:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10d18524e0_5d7533a396.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "public expose",
+   "saham TRUK",
+   "BEI"
+  ],
+  "body": [
+   "PT Guna Timur Raya Tbk (TRUK) menggelar public expose insidentil pada Selasa, 18 Agustus 2026 pukul 10.00 WIB melalui Zoom, sebagai tindak lanjut dari materi public expose yang sudah disampaikan ke Bursa Efek Indonesia pada 14 Agustus 2026 dengan nomor surat 039/GTR-DIR/VIII/2026. Direktur Firman Muliansyah dan Komisaris Carolina Kusuma hadir mewakili jajaran Perseroan, sementara paparan materi dibawakan oleh perwakilan Perseroan, M. Adiwijaya K. Acara ini diikuti lima peserta dari luar manajemen dan karyawan Perseroan, dan hasilnya dilaporkan ke bursa oleh Corporate Secretary Budi Gunawan.",
+   "Sesi tanya jawab menjadi bagian inti laporan ini. Seorang investor bernama Daniel mempertanyakan dasar fundamental di balik lonjakan harga dan volume saham TRUK pada 3 Agustus 2026, yang terjadi di tengah tren penurunan pendapatan dan ekuitas Perseroan selama tiga tahun terakhir serta tekanan suku bunga dan kebijakan pajak sektor logistik. Ia juga menanyakan apakah manajemen tengah mempertimbangkan diversifikasi bisnis di luar transportasi dan logistik, serta mekanisme internal untuk mencegah asimetri informasi antara manajemen dan investor publik, mengingat lonjakan harga saham terjadi tepat sebelum penghentian sementara perdagangan saham TRUK oleh BEI.",
+   "Manajemen menjawab bahwa lonjakan tersebut murni mekanisme pasar yang volatil, dengan pihak-pihak tertentu memanfaatkan saham berkapitalisasi kecil seperti TRUK untuk diperdagangkan secara agresif, dan menegaskan kenaikan itu tidak terkait dengan fundamental Perseroan. Soal diversifikasi, manajemen menyatakan belum ada rencana keluar dari sektor transportasi dan logistik, dengan pengembangan usaha yang ada tetap sejalan dengan visi dan misi inti Perseroan. Terkait dugaan insider trading, manajemen menyatakan tidak melihat indikasi ke arah itu dan akan terus menyampaikan keterbukaan informasi yang diwajibkan kepada publik."
+  ],
+  "fotoAdegan": "Rows of parked cargo trucks in a logistics yard at early morning, drivers checking tires and cargo straps, soft misty light",
+  "takeaway": "Laporan ini condong negatif, karena manajemen sendiri membenarkan bahwa pendapatan dan ekuitas Perseroan menurun selama tiga tahun terakhir, sementara jawaban atas lonjakan harga sahamnya tidak menyebut satu pun perbaikan kinerja, hanya menyebutnya spekulasi pasar pada saham berkapitalisasi kecil. Ekuitas adalah selisih antara total aset dan total utang Perseroan, semacam kekayaan bersih pemegang saham, dan penurunannya tiga tahun beruntun biasa dibaca pelaku pasar sebagai tanda kemampuan Perseroan mempertahankan modal dan menghasilkan laba sedang melemah, bukan sekadar fluktuasi sesaat. Yang perlu dipantau selanjutnya adalah status penghentian sementara perdagangan saham TRUK oleh BEI yang disinggung dalam sesi tanya jawab ini, serta apakah Perseroan akan menerbitkan keterbukaan informasi lanjutan soal langkah konkret mencegah asimetri informasi seperti yang dijanjikan manajemen dalam laporan ini.",
+  "sentimen": "negatif",
+  "imageV": "mszre1os"
+ },
+ {
+  "slug": "prda-siapkan-buyback-saham-hingga-rp150-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Siapkan [Buyback] Saham hingga Rp150 Miliar",
+  "deck": "Prodia menyiapkan dana hingga Rp150 miliar dari kas internal untuk membeli kembali sahamnya sendiri di bursa, mulai 20 Agustus hingga 19 November 2026.",
+  "image": "assets/img/prda-siapkan-buyback-saham-hingga-rp150-miliar.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T13:17:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09344bdeed_2f6fc88d1d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) berencana kembali membeli kembali (buyback) sahamnya sendiri yang beredar di Bursa Efek Indonesia, melanjutkan program serupa yang sudah dijalankan pada 2025. Perseroan menyiapkan dana paling banyak Rp150 miliar, termasuk biaya transaksi, yang seluruhnya berasal dari kas internal perusahaan, bukan pinjaman. Pembelian akan dilakukan bertahap atau sekaligus melalui BEI, mulai 20 Agustus 2026 sampai paling lama 19 November 2026, tiga bulan sejak dimulai.",
+   "Buyback ini dijalankan berdasarkan aturan OJK, yaitu POJK Nomor 13 Tahun 2023, POJK Nomor 29 Tahun 2023, dan Surat OJK Nomor S-10/D.04/2026 tanggal 13 Maret 2026. Berdasarkan aturan itu, Prodia tidak perlu meminta persetujuan Rapat Umum Pemegang Saham (RUPS) lebih dulu, cukup menyampaikan rencananya lewat Keterbukaan Informasi kepada pemegang saham, yang sudah dilakukan perusahaan.",
+   "Direktur Utama Liana Kuswandi menyebut buyback ini sebagai bentuk keyakinan Perseroan terhadap prospek bisnis jangka panjang Prodia. Finance & Sustainability Director yang juga menjabat Corporate Secretary, Marina Eka Amalia, menambahkan bahwa langkah ini didukung likuiditas dan arus kas Perseroan yang sehat, dan menyatakan bahwa harga saham Prodia saat ini belum sepenuhnya mencerminkan fundamental perusahaan. Karena seluruhnya dibiayai kas internal, manajemen menyatakan buyback ini tidak akan mengganggu operasional, rencana ekspansi, maupun kewajiban keuangan Perseroan."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats processing blood sample tubes on an automated analyzer under bright clinical lighting",
+  "takeaway": "Sinyal ini condong positif: manajemen mendanai buyback sepenuhnya dari kas sendiri tanpa menambah utang, dan secara terbuka menyatakan harga saham saat ini belum mencerminkan fundamental Perseroan. Buyback menyentuh dua pos yang biasa diawasi pelaku pasar, jumlah saham yang beredar di publik akan berkurang sejauh pembelian benar-benar terealisasi, sementara kas Perseroan berkurang sebesar dana yang terpakai, dan kalau jumlah saham beredar menyusut, laba yang sama akan terbagi ke lebih sedikit lembar saham sehingga laba per saham berpotensi naik. Perlu dicatat, Prodia hanya menyebut dana sebesar-besarnya Rp150 miliar, bukan janji pasti akan menghabiskan seluruhnya. Yang perlu dipantau adalah realisasi transaksi selama periode buyback berjalan, yaitu sejak 20 Agustus sampai batas akhir 19 November 2026, termasuk berapa banyak saham yang benar-benar dibeli dan dari mana pergerakan harga menjelang periode itu.",
+  "sentimen": "positif",
+  "imageV": "mszren2x"
+ },
+ {
+  "slug": "prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Rinci Buyback Rp150 Miliar, Laba per Saham [Naik] ke Rp240",
+  "deck": "Prodia Widyahusada merinci rencana pembelian kembali saham hingga Rp150 miliar dari kas internal, tanpa perlu persetujuan RUPS, berlangsung 20 Agustus hingga 19 November 2026.",
+  "image": "assets/img/prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T13:11:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/47b5e742e1_524756ba2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk mengumumkan keterbukaan informasi resmi soal rencana pembelian kembali saham (buyback) senilai maksimal Rp150 miliar, memakai skema khusus untuk kondisi pasar yang berfluktuasi signifikan berdasarkan POJK 13/2023 dan Surat OJK No. S-10/D.04/2026. Karena memakai skema ini, perseroan tidak perlu meminta persetujuan RUPS lebih dulu. Pembelian akan dilakukan lewat Bursa Efek Indonesia, bertahap atau sekaligus, melalui satu perantara pedagang efek yang akan ditunjuk, dan harus rampung dalam tiga bulan sejak 20 Agustus hingga 19 November 2026. Dana berasal murni dari kas internal perseroan, bukan dari hasil penawaran umum perdana maupun dari pinjaman atau utang.",
+   "Jumlah saham yang dibeli tidak akan melebihi 20 persen dari modal disetor, dengan mempertimbangkan saham treasury dari buyback tahun 2025 yang saat ini sudah mencapai 5,09 persen modal disetor. Dalam simulasi resmi yang dilampirkan berdasarkan laporan keuangan audited per 31 Desember 2025, total aset perseroan diperkirakan turun dari Rp2,696 triliun menjadi Rp2,546 triliun, dan total ekuitas turun dari Rp2,393 triliun menjadi Rp2,243 triliun, sama persis dengan nilai buyback Rp150 miliar. Laba tahun berjalan tetap di angka Rp206,694 miliar, tapi karena jumlah saham beredar berkurang, laba per saham dasar naik dari Rp227,25 menjadi Rp240,33, dan return on equity naik dari 8,0 persen menjadi 8,5 persen.",
+   "Selama saham hasil buyback disimpan sebagai treasury stock, paling lama tiga tahun setelah periode buyback berakhir, saham tersebut tidak bisa dipakai untuk memberi suara di RUPS, tidak dihitung dalam kuorum, dan tidak berhak menerima dividen. Perseroan juga menegaskan bahwa komisaris, direktur, karyawan, dan pemegang saham utama, termasuk pihak yang berpotensi memegang informasi orang dalam, dilarang bertransaksi atas saham PRDA selama periode buyback berlangsung atau pada hari yang sama dengan penjualan kembali saham hasil buyback oleh perseroan."
+  ],
+  "fotoAdegan": "Medical laboratory technicians examining blood sample tubes on a rack under fluorescent lighting in a clinical lab",
+  "takeaway": "Laporan ini condong positif bagi Prodia karena buyback didanai penuh dari kas internal tanpa tambahan utang, dan menurut simulasi resmi laba per saham naik dari Rp227,25 menjadi Rp240,33 sementara return on equity naik dari 8,0 persen ke 8,5 persen. Yang tersentuh adalah ekuitas, yaitu total modal milik pemegang saham, yang diperkirakan menyusut Rp150 miliar menjadi Rp2,243 triliun karena dana buyback keluar dari kas perusahaan, sedangkan kenaikan laba per saham itu sendiri bukan cerminan kinerja membaik melainkan efek matematis dari berkurangnya jumlah saham beredar. Pemegang saham juga perlu tahu bahwa saham hasil buyback tidak mendapat dividen dan kehilangan hak suara selama disimpan sebagai treasury, dan jajaran direksi, komisaris, karyawan, serta pemegang saham utama dilarang bertransaksi saham PRDA sepanjang periode ini. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang 20 Agustus hingga 19 November 2026, karena perseroan berhak membeli secara bertahap sehingga jumlah riil yang benar-benar terealisasi baru akan terlihat dari laporan pelaksanaan selanjutnya.",
+  "sentimen": "positif",
+  "imageV": "mszrf91r"
+ },
+ {
   "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
   "category": "Pasar Modal",
   "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
@@ -327,6 +435,33 @@ var ARTICLES = [
   "imageV": "mszpp6kn"
  },
  {
+  "slug": "apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "APEX Kantongi Kontrak [Pengeboran] PHM Senilai US$74,3 Juta",
+  "deck": "Apexindo Pratama Duta mendapat kontrak pengeboran laut dari Pertamina Hulu Mahakam di Delta Mahakam, Kalimantan Timur, senilai US$74,3 juta untuk masa kerja dua tahun pasti dan opsi setahun tambahan.",
+  "image": "assets/img/apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T08:55:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6079bb2669_e9a57a378b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APEX",
+  "tags": [
+   "APEX",
+   "kontrak",
+   "Pertamina Hulu Mahakam",
+   "pengeboran"
+  ],
+  "body": [
+   "PT Apexindo Pratama Duta Tbk (APEX) melaporkan kepada Otoritas Jasa Keuangan bahwa perseroan mendapatkan kontrak baru dari PT Pertamina Hulu Mahakam (PHM) untuk pekerjaan pengeboran laut di wilayah Delta Mahakam, Kalimantan Timur. Kejadian ini tercatat pada 18 Agustus 2026 dan dilaporkan resmi melalui surat bernomor 231/DIR-VIII/2026 tertanggal 19 Agustus 2026.",
+   "Nilai kontrak diperkirakan mencapai US$74,3 juta, dengan masa kerja dua tahun pasti ditambah opsi perpanjangan satu tahun. Manajemen menyatakan kontrak ini diharapkan memberikan dampak positif terhadap tingkat utilisasi rig dan pendapatan operasional perseroan.",
+   "Laporan disampaikan oleh Frieda Salvantina selaku Corporate Secretary APEX. Dokumen keterbukaan informasi ini tidak menyebutkan keterangan tambahan lain di luar nilai, lokasi, dan durasi kontrak tersebut."
+  ],
+  "fotoAdegan": "Offshore drilling rig platform with cranes and pipe stacks anchored in calm coastal waters, workers in hard hats and coveralls, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif bagi APEX karena menambah kontrak kerja baru senilai US$74,3 juta dari klien besar seperti Pertamina Hulu Mahakam, yang berarti tambahan pendapatan operasional dan pemanfaatan armada rig yang lebih tinggi selama minimal dua tahun ke depan. Yang tersentuh dari sisi kinerja adalah pendapatan operasional dan tingkat utilisasi rig, yaitu seberapa banyak armada pengeboran milik perseroan yang benar-benar bekerja dan menghasilkan uang, bukan menganggur tanpa order. Pelaku pasar memperhatikan utilisasi rig karena biaya perawatan armada tetap berjalan meski rig menganggur, sehingga kontrak baru langsung mengurangi beban itu. Yang perlu dipantau berikutnya adalah realisasi mulai pengeboran di lapangan Delta Mahakam serta apakah opsi perpanjangan satu tahun akan dipakai setelah masa kontrak pasti dua tahun berakhir, karena dokumen ini belum menyebutkan tanggal pasti mulai operasi.",
+  "sentimen": "positif",
+  "imageV": "mszrfmju"
+ },
+ {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
   "category": "Makroekonomi",
   "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",
@@ -381,6 +516,61 @@ var ARTICLES = [
   "imageV": "mszajs3a"
  },
  {
+  "slug": "wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Restrukturisasi] Obligasi, Jatuh Tempo Mundur Setahun",
+  "deck": "Pemegang obligasi dan sukuk WIKA menyetujui perpanjangan jatuh tempo beberapa seri surat utang hingga satu tahun serta penjadwalan ulang bunga, di tengah status Pemantauan Khusus emiten.",
+  "image": "assets/img/wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T04:30:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6964055c02_aaf0c85abe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "restrukturisasi obligasi",
+   "obligasi korporasi",
+   "BUMN karya"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa PT Wijaya Karya (Persero) Tbk (WIKA), emiten yang saat ini tercatat di Papan Pemantauan Khusus, telah mendapat persetujuan untuk merestrukturisasi 12 seri obligasi dan sukuk sekaligus. Seri yang direstrukturisasi adalah Obligasi Berkelanjutan I Tahap I 2020 Seri A, B, dan C (WIKA01ACN1, WIKA01BCN1, WIKA01CCN1), Obligasi Berkelanjutan I Tahap II 2021 Seri A, B, dan C (WIKA01ACN2, WIKA01BCN2, WIKA01CCN2), Obligasi Berkelanjutan III Tahap I 2022 Seri A, B, dan C (WIKA03ACN1, WIKA03BCN1, WIKA03CCN1), serta Sukuk Mudharabah Berkelanjutan I Tahap II 2021 Seri A, B, dan C (SMWIKA01ACN2, SMWIKA01BCN2, SMWIKA01CCN2).",
+   "Untuk Obligasi Berkelanjutan III Tahap I 2022 senilai pokok Rp1,20 triliun, Rapat Umum Pemegang Obligasi (RUPO) digelar 27 Juli 2026 dan dihadiri pemegang obligasi yang mewakili 91,469% dari total obligasi yang belum dilunasi. Setelah suara abstain diperhitungkan sebagai suara setuju sesuai POJK No. 14 Tahun 2025, tingkat persetujuan mencapai 86,204%. RUPO memutuskan jatuh tempo Seri A dan B, semula 3 November 2027, diundur menjadi 3 November 2028, dengan bunga tetap masing-masing 9,90% dan 10,50% per tahun tidak berubah.",
+   "Untuk Obligasi Berkelanjutan I Tahap II 2021 senilai pokok Rp2,5 triliun, RUPO digelar 31 Juli 2026 dengan kuorum kehadiran 89,466%. Suara yang setuju secara langsung hanya 72,169%, sementara 15,397% menolak dan 12,434% abstain. Setelah suara abstain dihitung mengikuti suara mayoritas sesuai ketentuan OJK, persetujuan naik menjadi 84,603%. RUPO menyetujui pengunduran jatuh tempo Seri A, B, dan C, dari semula 3 Maret 2028 menjadi 3 Maret 2029.",
+   "Untuk Obligasi Berkelanjutan I Tahap I 2020 Seri A, B, dan C, jatuh tempo yang semula 18 Desember 2027 diundur menjadi 18 Desember 2028. Selain itu, pembayaran bunga ke-23 yang seharusnya utuh pada satu tanggal kini dipecah menjadi tiga tahap: 20% dibayarkan 18 Desember 2026, 40% pada 18 Desember 2027, dan sisa 40% pada 18 Juni 2028. Pola serupa, jatuh tempo mundur dan sebagian bunga dicicil bertahap, juga berlaku pada Obligasi Berkelanjutan I Tahap II 2021 Seri A."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a large infrastructure building site, tower cranes overhead, hazy afternoon light",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena bukan sekadar administrasi melainkan bukti bahwa perseroan tidak sanggup melunasi pokok dan membayar penuh bunga sejumlah obligasi sesuai jadwal awal, sehingga harus meminta persetujuan pemegang surat utang untuk menunda pembayarannya. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar keluar masuk kas perusahaan: jatuh tempo pokok mundur satu tahun dan sebagian bunga tahun 2026 dipecah jadi cicilan hingga pertengahan 2028, yang berarti beban pembayaran WIKA ke depan justru bertambah panjang meski dicicil lebih ringan per periode. Sinyal ini makin kuat karena WIKA memang sudah berstatus Papan Pemantauan Khusus BEI, papan khusus untuk emiten dengan indikasi masalah keuangan atau kelangsungan usaha. Yang perlu dipantau berikutnya adalah realisasi cicilan pertama bunga yang direstrukturisasi pada 18 Desember 2026, karena itu jadi ujian pertama apakah perseroan bisa memenuhi jadwal baru yang sudah dilonggarkan ini.",
+  "sentimen": "negatif",
+  "imageV": "mszrg1qy"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham WIKA usai Gagal Bayar Kupon",
+  "deck": "Bursa melanjutkan suspensi saham WIKA di seluruh pasar setelah emiten menunda pembayaran bunga tiga seri obligasi dan bagi hasil tiga seri sukuk mudharabah yang jatuh tempo 18 Agustus 2026.",
+  "image": "assets/img/bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T04:30:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b1193232d9_99912d3150.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi melanjutkan penghentian sementara perdagangan (suspensi) saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar sejak sesi I, 18 Agustus 2026. Saham WIKA kini tercatat di papan pemantauan khusus. Suspensi ini merupakan kelanjutan dari suspensi sebelumnya, bukan suspensi baru.",
+   "Keputusan itu mengacu pada surat WIKA nomor SE.01.00/A.CORSEC.00239/2026 tanggal 31 Juli 2026 dan surat PT Kustodian Sentral Efek Indonesia (KSEI) nomor KSEI-5989/DIR/0826 tanggal 14 Agustus 2026. Berdasarkan surat itu, WIKA menunda enam pembayaran yang jatuh tempo 18 Agustus 2026: bunga ke-18 Obligasi Berkelanjutan II Tahap II Tahun 2022 Seri A, B, dan C (WIKA02ACN2, WIKA02BCN2, WIKA02CCN2), pendapatan bagi hasil ke-14 Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2022 Seri A (SMWIKA02ACN2), serta pendapatan bagi hasil ke-18 Seri B dan Seri C (SMWIKA02BCN2, SMWIKA02CCN2).",
+   "BEI menyatakan penundaan pembayaran bunga dan bagi hasil tersebut mengindikasikan adanya permasalahan pada kelangsungan usaha WIKA. Bursa meminta pihak-pihak terkait untuk terus memperhatikan keterbukaan informasi yang disampaikan perseroan, dan suspensi akan berlangsung hingga ada pengumuman lebih lanjut dari BEI. Pengumuman ditandatangani Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
+  ],
+  "fotoAdegan": "Idle tower crane over an unfinished concrete building at a state contractor's project site, overcast sky, workers pausing near scaffolding",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena bukan analis melainkan regulator sendiri yang menyebut penundaan bunga dan bagi hasil ini sebagai indikasi masalah kelangsungan usaha perseroan, dan sahamnya tetap tidak bisa diperdagangkan sampai ada pengumuman lanjutan. Yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan: WIKA tidak sanggup membayar tepat waktu enam kewajiban bunga obligasi dan bagi hasil sukuk yang semuanya jatuh tempo 18 Agustus 2026, tanda bahwa kas yang tersedia tidak cukup menutup kewajiban jangka pendek. Suspensi di seluruh pasar juga berarti investor yang sudah memegang saham WIKA untuk sementara tidak bisa menjualnya maupun membelinya lewat bursa. Yang perlu dipantau berikutnya adalah pengumuman BEI selanjutnya soal kapan suspensi dicabut, serta apakah WIKA benar merealisasikan opsi restrukturisasi utang yang sudah diumumkan sebelumnya untuk menyelesaikan kewajiban yang tertunda ini.",
+  "sentimen": "negatif",
+  "imageV": "mszrgie8"
+ },
+ {
   "slug": "pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman",
   "category": "Bisnis",
   "title": "Pusat Perbelanjaan RI Beralih ke Konsep [Pengalaman]",
@@ -432,6 +622,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan kebijakan baru, melainkan forum tahunan yang jadi penanda arah pengembangan energi surya, dan tahun ini digelar berbarengan dengan agenda energi berkelanjutan yang lebih besar, ISEW 2026. Pihak yang paling berkepentingan adalah pengembang proyek pembangkit listrik tenaga surya (PLTS), investor, dan lembaga pembiayaan yang selama ini sering terkendala di tahap eksekusi meski target RUPTL sudah ditetapkan. Sumber ini tidak menyebut angka target kapasitas surya dalam RUPTL 2025-2034 maupun realisasi proyek yang sudah berjalan, jadi belum bisa disimpulkan apakah forum ini akan menghasilkan kesepakatan atau proyek konkret, atau sekadar jadi ajang diskusi tahunan seperti dua edisi sebelumnya. Yang perlu dipantau adalah hasil dari forum dua hari ini, misalnya ada tidaknya pengumuman kerja sama investasi atau proyek PLTS baru setelah 20 Agustus 2026.",
   "imageV": "mszajszx"
+ },
+ {
+  "slug": "hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "HDIT Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta HDIT menjelaskan lonjakan volatilitas sahamnya. Perseroan menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T22:47:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30bd4fe5a2_7240081a06.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HDIT",
+  "tags": [
+   "HDIT",
+   "Hensel Davest Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Hensel Davest Indonesia Tbk (HDIT) memberikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) menyusul surat permintaan penjelasan bernomor S-10594/BEI.PP1/08-2026 terkait volatilitas transaksi saham perseroan. Tanggapan bernomor 01150/HDIT/SM/VIII/2026 itu disampaikan pada 18 Agustus 2026, ditandatangani Direktur Utama Kresnal Pangaroan dan turut disampaikan melalui Corporate Secretary Riska Handayani.",
+   "Dalam surat itu, HDIT menjawab enam poin pertanyaan standar dari bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik, baik yang dapat memengaruhi nilai efek sesuai POJK 31/2015 maupun yang dapat memengaruhi harga saham sesuai ketentuan III.2.1 Peraturan I-E BEI. HDIT juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang bisa memengaruhi status pencatatan sahamnya, seperti penerbitan saham baru, pemecahan nilai nominal, atau aksi merger dan akuisisi.",
+   "Perseroan menyebut pergerakan harga dan aktivitas transaksi sahamnya merupakan mekanisme pasar yang berada di luar kendalinya. Terkait poin keenam, HDIT menyampaikan bahwa pemegang saham utama, setelah dikonfirmasi lewat Corporate Secretary, juga tidak memiliki rencana transaksi atau perubahan kepemilikan saham dalam waktu dekat."
+  ],
+  "fotoAdegan": "Modern glass office towers along Jakarta's Sudirman avenue glowing at dusk, with light traffic trails on the busy road below.",
+  "takeaway": "Laporan ini netral bagi HDIT, sebab isinya sepenuhnya berupa bantahan formal tanpa angka atau fakta baru yang mengubah gambaran fundamental perseroan. Surat semacam ini adalah prosedur baku ketika bursa melihat harga, volume, atau frekuensi perdagangan suatu saham bergerak tidak wajar dan ingin memastikan tidak ada informasi tersembunyi yang mendorongnya. Jadi laporan ini tidak menyentuh pos keuangan seperti ekuitas atau laba per saham, tapi fungsinya menyingkirkan kekhawatiran adanya rencana korporasi mendadak atau informasi orang dalam di balik pergerakan sahamnya. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi saham HDIT benar-benar mereda setelah surat ini terbit 18 Agustus 2026, serta apakah janji perseroan soal tidak ada aksi korporasi dalam tiga bulan ke depan, kira-kira hingga pertengahan November 2026, benar-benar terbukti.",
+  "sentimen": "netral",
+  "imageV": "mszrgwbi"
  },
  {
   "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
@@ -10532,221 +10749,5 @@ var ARTICLES = [
   "imageV": "tjnruo",
   "isoDate": "2026-07-28",
   "takeaway": "Pemerintah memastikan harga BBM dan LPG bersubsidi tidak berubah, meskipun harga minyak dunia bergejolak akibat ketegangan di Timur Tengah. Kebijakan ini langsung menahan pengeluaran rumah tangga yang bergantung pada energi bersubsidi, sekaligus memindahkan risiko kenaikan harga minyak dunia ke pos subsidi dan kompensasi dalam APBN. Semakin lebar selisih antara harga keekonomian dan harga yang ditahan pemerintah, semakin besar tambahan anggaran yang harus disiapkan. Arah beban ini akan lebih jelas begitu ada angka realisasi subsidi energi terbaru atau proyeksi harga minyak dunia untuk sisa tahun ini."
- },
- {
-  "slug": "koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi",
-  "category": "Makroekonomi",
-  "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
-  "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
-  "image": "assets/img/koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi",
-  "tags": [
-   "Koperasi",
-   "Kebijakan",
-   "Ekonomi Kerakyatan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Kementerian Koperasi bersama Great Institute mendorong reaktualisasi Pasal 33 UUD 1945, dengan koperasi diposisikan sebagai pintu masuk penguatan kedaulatan ekonomi nasional.",
-   "Gagasan ini menempatkan koperasi bukan sekadar sebagai bentuk badan usaha alternatif, melainkan sebagai instrumen pemerataan kepemilikan aset produktif di masyarakat.",
-   "Implementasinya menuntut pembenahan menyeluruh, mulai dari regulasi, pengawasan, hingga peningkatan kapasitas manajerial pengurus koperasi di lapangan."
-  ],
-  "fotoAdegan": "Villagers line up to deposit savings at a small wooden cooperative counter in a rural community.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68b1ff27976-menkop-ferry-juliantono-dan-ketua-dewan-direktur-great-institute-syahganda-nainggolan-dalam-reaktualisasi-pasal-33-uud-1945_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrup",
-  "isoDate": "2026-07-28",
-  "takeaway": "Kementerian Koperasi bersama Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945, dengan koperasi diposisikan sebagai alat pemerataan kepemilikan aset produktif, bukan sekadar bentuk badan usaha alternatif. Yang terdampak langsung adalah pengurus dan anggota koperasi di lapangan, karena gagasan ini menuntut pembenahan regulasi, pengawasan, hingga kapasitas manajerial mereka. Sejauh ini baru berupa dorongan gagasan, belum ada aturan turunan atau target waktu yang disebutkan dalam berita ini. Arah kebijakan ini baru bisa dibaca setelah ada rancangan regulasi konkret atau peta jalan implementasi dari Kementerian Koperasi."
- },
- {
-  "slug": "telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan",
-  "category": "BUMN",
-  "title": "Telkom Raih Penghargaan Berkat Program [Talenta] Berkelanjutan",
-  "deck": "Telkom mendapat pengakuan atas komitmennya membangun talenta secara berkelanjutan.",
-  "image": "assets/img/telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456364-telkom-raih-lestari-award-2026-berkat-komitmen-membangun-talenta-berkelanjutan",
-  "tags": [
-   "Telkom",
-   "SDM",
-   "Keberlanjutan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Telkom meraih Lestari Award 2026 berkat komitmennya membangun talenta secara berkelanjutan, salah satu dimensi dalam penilaian keberlanjutan perusahaan.",
-   "Pengembangan talenta menjadi isu strategis di sektor telekomunikasi dan digital, mengingat cepatnya perubahan teknologi menuntut peningkatan keterampilan yang terus-menerus.",
-   "Kelangkaan talenta digital di Indonesia kerap disebut sebagai salah satu hambatan pertumbuhan ekonomi digital, sehingga investasi perusahaan di bidang ini berdampak lintas sektor."
-  ],
-  "fotoAdegan": "Young employees collaborate around a laptop during a team workshop inside a corporate innovation lab.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a689678dde55-telkom-raih-lestari-award-2026_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruq",
-  "isoDate": "2026-07-28",
-  "takeaway": "Telkom meraih Lestari Award 2026 atas program pengembangan talenta berkelanjutan, salah satu indikator dalam penilaian keberlanjutan perusahaan. Yang terdampak adalah karyawan dan calon talenta digital Telkom, di tengah kelangkaan talenta digital yang kerap disebut sebagai salah satu penghambat pertumbuhan ekonomi digital Indonesia. Berita ini berupa pengakuan atas program yang sudah berjalan, bukan pengumuman kebijakan atau target baru, sehingga belum menunjukkan skala dampaknya terhadap sektor secara luas. Untuk membaca arahnya, dibutuhkan data konkret seperti jumlah talenta yang terserap atau target pengembangan SDM digital yang belum disebutkan dalam berita ini."
- },
- {
-  "slug": "timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman",
-  "category": "Energi",
-  "title": "Timur Tengah Memanas, Pasokan Energi Nasional Dipastikan [Aman]",
-  "deck": "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga di tengah eskalasi konflik global.",
-  "image": "assets/img/timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456339-konflik-timur-tengah-balik-panas-bahlil-pastikan-pasokan-energi-indonesia-tetap-terjaga",
-  "tags": [
-   "Energi",
-   "Geopolitik",
-   "ESDM"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga meski konflik di kawasan Timur Tengah kembali memanas.",
-   "Ketegangan di kawasan tersebut berdampak pada harga minyak dunia sekaligus menimbulkan risiko gangguan pada jalur pelayaran pengangkut energi.",
-   "Indonesia masih mengimpor sebagian kebutuhan minyak mentah dan produk BBM, sehingga gejolak harga global berdampak langsung pada beban subsidi energi dalam negeri."
-  ],
-  "fotoAdegan": "Workers monitor pipeline valves inside the control room of a fuel storage depot at night.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a688386ccb3d-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrur",
-  "isoDate": "2026-07-28",
-  "takeaway": "Menteri ESDM memastikan pasokan energi nasional tetap terjaga meski konflik di Timur Tengah kembali memanas dan berpotensi mengganggu jalur pelayaran pengangkut minyak dunia. Dampaknya langsung terasa pada APBN, karena Indonesia masih mengimpor sebagian kebutuhan minyak mentah dan BBM, sehingga gejolak harga global membebani anggaran subsidi energi. Pernyataan aman ini bersifat jaminan jangka pendek, sementara arah sebenarnya bergantung pada apakah konflik meluas hingga benar-benar mengganggu jalur pelayaran. Yang perlu dipantau adalah perkembangan eskalasi di kawasan tersebut serta pergerakan harga minyak dunia dalam beberapa pekan ke depan."
- },
- {
-  "slug": "bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi",
-  "category": "Pasar Modal",
-  "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
-  "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "image": "assets/img/bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
-  "tags": [
-   "BEI",
-   "IHSG",
-   "Pasar Modal"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Bursa Efek Indonesia memastikan stabilitas pasar saham domestik tetap terjaga di tengah proses transisi kepemimpinan di Bank Indonesia.",
-   "Pernyataan otoritas bursa pada momen ketidakpastian bertujuan meredam kepanikan, terutama di kalangan investor ritel yang porsinya terus membesar di pasar modal Indonesia.",
-   "Mekanisme pengendalian seperti auto rejection dan trading halt tersedia sebagai pengaman jika terjadi penurunan indeks yang terlalu tajam dalam waktu singkat."
-  ],
-  "fotoAdegan": "Employees walk through the glass atrium lobby of a stock exchange building in the financial district.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrus",
-  "isoDate": "2026-07-28",
-  "takeaway": "BEI menyatakan stabilitas pasar saham terjaga di tengah proses pergantian pucuk pimpinan Bank Indonesia, dengan mekanisme auto rejection dan trading halt disiapkan sebagai pengaman jika indeks anjlok tajam dalam waktu singkat. Pernyataan ini terutama menyasar investor ritel, yang porsinya di pasar modal terus membesar dan rentan panik saat ada ketidakpastian di level kebijakan moneter. Berita belum menyebut siapa kandidat pengganti Gubernur BI atau kapan proses transisi itu rampung, sehingga belum bisa dibaca apakah pernyataan ini bersifat pencegahan rutin atau respons atas gejolak yang sudah mulai terasa. Yang perlu dipantau adalah tanggal penetapan pimpinan baru BI dan pergerakan indeks harian di sekitar tanggal tersebut."
- },
- {
-  "slug": "pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi",
-  "category": "Ketenagakerjaan",
-  "title": "Pendaftar Program Magang Tembus [300 Ribu] untuk 50 Ribu Posisi",
-  "deck": "Antusiasme program magang nasional melonjak dengan rasio pendaftar enam kali lipat dari kuota.",
-  "image": "assets/img/pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456304-membludak-pendaftar-maganghub-2026-capai-300-ribu-untuk-50-ribu-posisi",
-  "tags": [
-   "Magang",
-   "Ketenagakerjaan",
-   "Tenaga Kerja Muda"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Pendaftar program MagangHub 2026 membludak hingga mencapai 300 ribu orang untuk 50 ribu posisi yang tersedia, atau rasio enam pelamar untuk setiap satu kursi.",
-   "Tingginya animo mencerminkan besarnya kebutuhan angkatan kerja muda akan pengalaman kerja formal, yang kerap menjadi syarat rekrutmen namun sulit diperoleh pertama kali.",
-   "Program magang berskala nasional diharapkan mempersempit jarak antara keterampilan lulusan pendidikan dan kebutuhan nyata dunia industri."
-  ],
-  "fotoAdegan": "Young jobseekers fill out forms at long tables during a crowded internship recruitment fair.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a686a2cc6417-menteri-ketenagakerjaan-yassierli-memberi-keterangan-kepada-awak-media_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrut",
-  "isoDate": "2026-07-28",
-  "takeaway": "Pendaftar program magang nasional MagangHub 2026 mencapai 300 ribu orang untuk 50 ribu posisi yang tersedia, artinya hanya satu dari enam pelamar yang bisa diterima. Angka ini menunjukkan besarnya tekanan pada angkatan kerja muda yang butuh pengalaman kerja formal sebagai syarat masuk dunia kerja, tapi kesempatan itu justru yang paling sulit didapat pertama kali. Arahnya mengarah ke kebutuhan perluasan kuota magang di gelombang berikutnya jika kesenjangan pelamar dan posisi ini terus melebar tiap periode pendaftaran. Penguat atau pematah pembacaan ini adalah apakah pemerintah menambah jumlah posisi pada periode magang selanjutnya, serta data berapa banyak peserta magang gelombang sebelumnya yang berhasil terserap ke pekerjaan formal."
- },
- {
-  "slug": "ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga",
-  "category": "Bisnis",
-  "title": "Ketika Jaminan Kesehatan Menahan Beban [Biaya Berobat] Keluarga",
-  "deck": "Cerita peserta JKN yang memanfaatkan program jaminan kesehatan untuk pemulihan penyakit tulang belakang.",
-  "image": "assets/img/ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456301-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal",
-  "tags": [
-   "JKN",
-   "Kesehatan",
-   "Jaminan Sosial"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Seorang peserta Jaminan Kesehatan Nasional membagikan pengalamannya menjalani pemulihan radikulopati lumbal, gangguan saraf tulang belakang, dengan pembiayaan dari program JKN.",
-   "Dari sisi ekonomi rumah tangga, biaya kesehatan katastropik merupakan salah satu penyebab utama keluarga jatuh miskin, karena nilainya bisa melampaui tabungan bertahun-tahun.",
-   "Program jaminan kesehatan berfungsi sebagai peredam risiko tersebut, meski keberlanjutan pendanaannya terus menjadi bahan diskusi kebijakan."
-  ],
-  "fotoAdegan": "A patient receives physical therapy assistance from a therapist inside a hospital rehabilitation room.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6869cf2461d-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrut",
-  "isoDate": "2026-07-28",
-  "takeaway": "Berita ini menceritakan pengalaman satu peserta JKN yang pemulihan radikulopati lumbal, gangguan saraf di tulang belakang, ditanggung oleh program jaminan kesehatan nasional, tanpa menyebut angka biaya riil yang dikeluarkan. Pihak yang paling terdampak adalah rumah tangga peserta JKN, karena biaya kesehatan katastropik semacam ini biasanya bisa menghabiskan tabungan bertahun-tahun jika ditanggung sendiri. Artikel menyebut keberlanjutan pendanaan JKN masih jadi bahan diskusi kebijakan, tapi tidak merinci kondisi keuangan BPJS Kesehatan saat ini atau rencana perubahan iuran. Yang masih kurang untuk membaca ke mana arah isu pendanaan ini adalah data surplus atau defisit BPJS Kesehatan terbaru dan kapan keputusan kebijakan iuran berikutnya diambil."
- },
- {
-  "slug": "kur-perumahan-jadi-motor-program-3-juta-rumah",
-  "category": "Perbankan",
-  "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
-  "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
-  "image": "assets/img/kur-perumahan-jadi-motor-program-3-juta-rumah.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah",
-  "tags": [
-   "KUR",
-   "BRI",
-   "Perumahan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Pemerintah mengapresiasi kinerja BRI dalam menyalurkan Kredit Usaha Rakyat sektor perumahan, yang disebut menjadi salah satu motor utama program 3 juta rumah.",
-   "Skema KUR perumahan menyasar dua sisi sekaligus: pembiayaan bagi calon pemilik rumah, dan modal kerja bagi pengembang skala kecil yang membangun perumahan sederhana.",
-   "Sektor properti memiliki efek berganda besar terhadap perekonomian, sehingga percepatan penyaluran pembiayaan di sektor ini berdampak pada banyak industri turunan."
-  ],
-  "fotoAdegan": "A construction worker lays bricks for a wall inside a subsidized housing project under a tin roof.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6865d96eaad-direktur-utama-bri-hery-gunardi-dan-menteri-pkp-maruarar-sirait_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruu",
-  "isoDate": "2026-07-28",
-  "takeaway": "Pemerintah mengapresiasi kinerja BRI dalam menyalurkan Kredit Usaha Rakyat untuk sektor perumahan sebagai salah satu motor program 3 juta rumah, tanpa merinci angka nilai penyaluran atau jumlah unit yang sudah terbantu skema ini. Yang terdampak ada di dua sisi, yaitu calon pemilik rumah yang butuh pembiayaan dan pengembang skala kecil yang mengandalkan modal kerja dari KUR untuk membangun perumahan sederhana. Karena sektor properti punya efek berganda ke banyak industri turunan, percepatan penyaluran KUR perumahan berpotensi menjalar ke sektor bahan bangunan dan tenaga kerja konstruksi, tapi besarannya belum terlihat dari berita ini. Yang masih kurang adalah angka realisasi penyaluran KUR perumahan sejauh ini dibandingkan target program 3 juta rumah, serta tenggat waktu pencapaian target tersebut."
- },
- {
-  "slug": "menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum",
-  "category": "Teknologi",
-  "title": "Menyiapkan Keamanan Data Menghadapi Era [Komputer Kuantum]",
-  "deck": "Telkom menginisiasi forum kolaborasi nasional untuk kesiapan kriptografi pascakuantum.",
-  "image": "assets/img/menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography",
-  "tags": [
-   "Teknologi",
-   "Keamanan Siber",
-   "Telkom"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Telkom menginisiasi forum kolaborasi nasional untuk memperkuat kesiapan Indonesia menghadapi era kriptografi pascakuantum.",
-   "Perkembangan komputer kuantum berpotensi mematahkan metode enkripsi yang kini melindungi transaksi perbankan, komunikasi, dan data pemerintah.",
-   "Persiapan migrasi sistem enkripsi memerlukan waktu bertahun-tahun, sehingga diskusi kesiapan sejak dini dinilai penting bagi sektor keuangan dan infrastruktur kritis."
-  ],
-  "fotoAdegan": "An IT specialist examines cabling behind a row of server racks inside a secure data facility.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685b413aad4-telkom-mempertemukan-pemerintah-industri-akademisi-dan-lembaga-riset-melalui-workshop-post-quantum-cryptography-pqc-untuk-memperkuat-kesiapan-ekosistem-keamanan-digital-indonesia_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruu",
-  "isoDate": "2026-07-28",
-  "takeaway": "Telkom menginisiasi forum kolaborasi nasional untuk mempersiapkan Indonesia menghadapi era kriptografi pascakuantum, saat komputer kuantum berpotensi mematahkan metode enkripsi yang selama ini melindungi transaksi perbankan, komunikasi, dan data pemerintah. Pihak yang terdampak adalah sektor keuangan dan infrastruktur kritis yang bergantung pada sistem enkripsi saat ini, mengingat proses migrasi ke sistem baru disebut membutuhkan waktu bertahun-tahun. Langkah ini masih berupa forum diskusi awal, belum ada peta jalan atau target waktu migrasi yang disebutkan dalam berita. Yang masih kurang untuk membaca arah persiapan ini adalah siapa saja lembaga yang terlibat dalam forum tersebut dan kapan peta jalan migrasi kriptografi pascakuantum akan dirilis."
  }
 ];

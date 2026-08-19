@@ -446,6 +446,24 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
       '<span class="chip-count">' + counts[c] + '</span></button>').join(''), 'berita.html');
   brt = ganti(brt, 'kepala', kepalaAnalitik(), 'berita.html');
   brt = ganti(brt, 'grid', ARTICLES.slice(0, 12).map(kartuCerita).join(''), 'berita.html');
+
+  // INDEKS LENGKAP, dipanggang ke HTML.
+  //
+  // Kartu di atas sengaja cuma dua belas: sisanya dirakit JavaScript supaya
+  // pencarian dan penyaringan kategori terasa cepat. Itu keputusan yang benar
+  // untuk pembaca, dan salah total untuk mesin. Bot mesin jawab yang justru
+  // kita undang lewat robots.txt, GPTBot dan ClaudeBot dan PerplexityBot,
+  // TIDAK menjalankan JavaScript sama sekali. Sebelum daftar ini ada, halaman
+  // yang menyebut dirinya "arsip lengkap" hanya memperlihatkan 12 dari 400
+  // artikel kepada mereka, dan 131 artikel tidak punya satu pun tautan masuk
+  // dari halaman mana pun di situs ini.
+  //
+  // Judul dan tanggal saja, tanpa gambar dan tanpa ringkasan, supaya bobot
+  // halaman tidak melonjak. Empat ratus baris begini sekitar 45 KB.
+  brt = ganti(brt, 'arsip', ARTICLES.map(a =>
+    '<li class="arsip-baris"><a href="' + urlArtikel(a) + '">' +
+    esc(plain(a.title)) + '</a>' +
+    '<span class="arsip-meta num">' + esc(a.date) + '</span></li>').join(''), 'berita.html');
   fs.writeFileSync(pBerita, stempelVersi(brt, VER), 'utf8');
 
   // ---- video.html: tidak ada bagian panggang selain kepala, tapi stempel
@@ -456,5 +474,13 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   const pVideo = path.join(ROOT, 'video.html');
   let vid = fs.readFileSync(pVideo, 'utf8');
   vid = ganti(vid, 'kepala', kepalaAnalitik(), 'video.html');
+  // Wadah #video-grid sebelumnya KOSONG di HTML dan baru diisi JavaScript,
+  // jadi tidak satu pun dari dua belas halaman tayangan punya tautan masuk
+  // yang bisa dirayapi. Isinya dipanggang sekarang; JavaScript boleh menimpanya
+  // untuk pembaca, isinya sama.
+  vid = ganti(vid, 'videogrid', VIDEOS.map(v =>
+    '<article class="video-card"><a href="' + urlVideo(v) + '">' +
+    '<img src="' + esc(v.thumb) + '" alt="' + esc(plain(v.title)) + '" loading="lazy" width="480" height="360">' +
+    '<h3>' + esc(plain(v.title)) + '</h3></a></article>').join(''), 'video.html');
   fs.writeFileSync(pVideo, stempelVersi(vid, VER), 'utf8');
 }

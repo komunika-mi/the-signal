@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Rencanakan [Akuisisi] Perusahaan Migas Lewat CSPA Agustus 2026",
+  "deck": "Oxala Energy International (dulu Multi Makmur Lemindo, kode PIPA) menjajaki akuisisi perusahaan pengolahan gas bumi bersama pengendali MCI, CSPA ditarget diteken Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026.jpg",
+  "imageV": "mszrdid1",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "gas bumi",
+   "CSPA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/58cec32eff_1e6edc1aae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-manajemen-akui-lonjakan-saham-bukan-fundamental",
+  "category": "Aksi Korporasi",
+  "title": "TRUK: Manajemen Akui Lonjakan Saham Bukan [Fundamental]",
+  "deck": "Public expose insidentil TRUK mengungkap pendapatan dan ekuitas menurun tiga tahun terakhir, sementara manajemen menyebut lonjakan sahamnya murni spekulasi pasar, bukan perbaikan kinerja.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/truk-manajemen-akui-lonjakan-saham-bukan-fundamental.jpg",
+  "imageV": "mszre1os",
+  "tags": [
+   "TRUK",
+   "public expose",
+   "saham TRUK",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10d18524e0_5d7533a396.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-siapkan-buyback-saham-hingga-rp150-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Siapkan [Buyback] Saham hingga Rp150 Miliar",
+  "deck": "Prodia menyiapkan dana hingga Rp150 miliar dari kas internal untuk membeli kembali sahamnya sendiri di bursa, mulai 20 Agustus hingga 19 November 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/prda-siapkan-buyback-saham-hingga-rp150-miliar.jpg",
+  "imageV": "mszren2x",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09344bdeed_2f6fc88d1d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Rinci Buyback Rp150 Miliar, Laba per Saham [Naik] ke Rp240",
+  "deck": "Prodia Widyahusada merinci rencana pembelian kembali saham hingga Rp150 miliar dari kas internal, tanpa perlu persetujuan RUPS, berlangsung 20 Agustus hingga 19 November 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240.jpg",
+  "imageV": "mszrf91r",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/47b5e742e1_524756ba2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
   "category": "Pasar Modal",
   "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
@@ -208,6 +276,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "APEX Kantongi Kontrak [Pengeboran] PHM Senilai US$74,3 Juta",
+  "deck": "Apexindo Pratama Duta mendapat kontrak pengeboran laut dari Pertamina Hulu Mahakam di Delta Mahakam, Kalimantan Timur, senilai US$74,3 juta untuk masa kerja dua tahun pasti dan opsi setahun tambahan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta.jpg",
+  "imageV": "mszrfmju",
+  "tags": [
+   "APEX",
+   "kontrak",
+   "Pertamina Hulu Mahakam",
+   "pengeboran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6079bb2669_e9a57a378b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
   "category": "Makroekonomi",
   "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",
@@ -242,6 +327,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460943-menyusul-ricuh-pembelian-bijih-timah-rakyat-yusril-janjikan-pemerintah-percepat-penyusunan-perpres-pertimahan"
  },
  {
+  "slug": "wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Restrukturisasi] Obligasi, Jatuh Tempo Mundur Setahun",
+  "deck": "Pemegang obligasi dan sukuk WIKA menyetujui perpanjangan jatuh tempo beberapa seri surat utang hingga satu tahun serta penjadwalan ulang bunga, di tengah status Pemantauan Khusus emiten.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun.jpg",
+  "imageV": "mszrg1qy",
+  "tags": [
+   "WIKA",
+   "restrukturisasi obligasi",
+   "obligasi korporasi",
+   "BUMN karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6964055c02_aaf0c85abe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon",
+  "category": "Aksi Korporasi",
+  "title": "BEI Lanjutkan [Suspensi] Saham WIKA usai Gagal Bayar Kupon",
+  "deck": "Bursa melanjutkan suspensi saham WIKA di seluruh pasar setelah emiten menunda pembayaran bunga tiga seri obligasi dan bagi hasil tiga seri sukuk mudharabah yang jatuh tempo 18 Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon.jpg",
+  "imageV": "mszrgie8",
+  "tags": [
+   "WIKA",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b1193232d9_99912d3150.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman",
   "category": "Bisnis",
   "title": "Pusat Perbelanjaan RI Beralih ke Konsep [Pengalaman]",
@@ -274,6 +393,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460926-indosolar-2026-digelar-ekosistem-energi-surya-indonesia-mau-terus-didorong-agar-semakin-kuat"
+ },
+ {
+  "slug": "hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "HDIT Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta HDIT menjelaskan lonjakan volatilitas sahamnya. Perseroan menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya.jpg",
+  "imageV": "mszrgwbi",
+  "tags": [
+   "HDIT",
+   "Hensel Davest Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30bd4fe5a2_7240081a06.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
@@ -6601,133 +6737,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456391-bahlil-pastikan-harga-bbm-dan-lpg-subsidi-tidak-naik-meski-harga-minyak-bergejolak-karena-perang"
- },
- {
-  "slug": "koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi",
-  "category": "Makroekonomi",
-  "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
-  "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi.jpg",
-  "imageV": "tjnrup",
-  "tags": [
-   "Koperasi",
-   "Kebijakan",
-   "Ekonomi Kerakyatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi"
- },
- {
-  "slug": "telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan",
-  "category": "BUMN",
-  "title": "Telkom Raih Penghargaan Berkat Program [Talenta] Berkelanjutan",
-  "deck": "Telkom mendapat pengakuan atas komitmennya membangun talenta secara berkelanjutan.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan.jpg",
-  "imageV": "tjnruq",
-  "tags": [
-   "Telkom",
-   "SDM",
-   "Keberlanjutan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456364-telkom-raih-lestari-award-2026-berkat-komitmen-membangun-talenta-berkelanjutan"
- },
- {
-  "slug": "timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman",
-  "category": "Energi",
-  "title": "Timur Tengah Memanas, Pasokan Energi Nasional Dipastikan [Aman]",
-  "deck": "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga di tengah eskalasi konflik global.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman.jpg",
-  "imageV": "tjnrur",
-  "tags": [
-   "Energi",
-   "Geopolitik",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456339-konflik-timur-tengah-balik-panas-bahlil-pastikan-pasokan-energi-indonesia-tetap-terjaga"
- },
- {
-  "slug": "bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi",
-  "category": "Pasar Modal",
-  "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
-  "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi.jpg",
-  "imageV": "tjnrus",
-  "tags": [
-   "BEI",
-   "IHSG",
-   "Pasar Modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik"
- },
- {
-  "slug": "pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi",
-  "category": "Ketenagakerjaan",
-  "title": "Pendaftar Program Magang Tembus [300 Ribu] untuk 50 Ribu Posisi",
-  "deck": "Antusiasme program magang nasional melonjak dengan rasio pendaftar enam kali lipat dari kuota.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi.jpg",
-  "imageV": "tjnrut",
-  "tags": [
-   "Magang",
-   "Ketenagakerjaan",
-   "Tenaga Kerja Muda"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456304-membludak-pendaftar-maganghub-2026-capai-300-ribu-untuk-50-ribu-posisi"
- },
- {
-  "slug": "ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga",
-  "category": "Bisnis",
-  "title": "Ketika Jaminan Kesehatan Menahan Beban [Biaya Berobat] Keluarga",
-  "deck": "Cerita peserta JKN yang memanfaatkan program jaminan kesehatan untuk pemulihan penyakit tulang belakang.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga.jpg",
-  "imageV": "tjnrut",
-  "tags": [
-   "JKN",
-   "Kesehatan",
-   "Jaminan Sosial"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456301-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal"
- },
- {
-  "slug": "kur-perumahan-jadi-motor-program-3-juta-rumah",
-  "category": "Perbankan",
-  "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
-  "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/kur-perumahan-jadi-motor-program-3-juta-rumah.jpg",
-  "imageV": "tjnruu",
-  "tags": [
-   "KUR",
-   "BRI",
-   "Perumahan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah"
- },
- {
-  "slug": "menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum",
-  "category": "Teknologi",
-  "title": "Menyiapkan Keamanan Data Menghadapi Era [Komputer Kuantum]",
-  "deck": "Telkom menginisiasi forum kolaborasi nasional untuk kesiapan kriptografi pascakuantum.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum.jpg",
-  "imageV": "tjnruu",
-  "tags": [
-   "Teknologi",
-   "Keamanan Siber",
-   "Telkom"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography"
  }
 ];

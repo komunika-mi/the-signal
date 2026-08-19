@@ -170,6 +170,67 @@ const BULAN = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus
 // jam terbit tujuh jam ke belakang dan bisa memindahkan artikel ke tanggal
 // sebelumnya. Di produk yang seluruh nilainya bersandar pada kebaruan, itu
 // membuang sinyal yang sudah susah payah dikumpulkan.
+// Ukuran gambar yang SEBENARNYA, dibaca dari berkasnya.
+//
+// Sebelumnya og:image:width dan og:image:height dipatok 760x570 untuk seluruh
+// artikel, padahal berkas aslinya 680 piksel dengan tinggi bermacam-macam.
+// Jadi bukan cuma kurang presisi, melainkan DEKLARASI YANG SALAH: platform
+// yang percaya angka itu menyiapkan ruang dengan rasio keliru, dan gambarnya
+// terpotong atau berbingkai kosong saat tautan dibagikan.
+//
+// Dibaca sekali per berkas lalu diingat, karena satu gambar bisa dipakai
+// beberapa halaman dan build memproses ratusan artikel.
+const _ukuranGambar = new Map();
+function ukuranGambar(relatif) {
+  if (_ukuranGambar.has(relatif)) return _ukuranGambar.get(relatif);
+  let hasil = null;
+  try {
+    const b = fs.readFileSync(path.join(ROOT, relatif));
+    if (b.length > 24 && b[0] === 0x89 && b.slice(1, 4).toString() === 'PNG') {
+      hasil = { w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
+    } else if (b[0] === 0xFF && b[1] === 0xD8) {
+      // JPEG: telusuri penanda sampai ketemu SOF yang memuat dimensinya.
+      for (let i = 2; i < b.length - 9;) {
+        if (b[i] !== 0xFF) { i++; continue; }
+        const m = b[i + 1];
+        if (m >= 0xC0 && m <= 0xCF && m !== 0xC4 && m !== 0xC8 && m !== 0xCC) {
+          hasil = { w: b.readUInt16BE(i + 7), h: b.readUInt16BE(i + 5) };
+          break;
+        }
+        i += 2 + b.readUInt16BE(i + 2);
+      }
+    }
+  } catch { hasil = null; }
+  _ukuranGambar.set(relatif, hasil);
+  return hasil;
+}
+
+// Data terstruktur untuk halaman rujukan yang isinya daftar tertaut.
+//
+// Lima halaman ini, angka ekonomi sampai rapor, sebelumnya NOL blok ld+json,
+// padahal justru merekalah yang paling mungkin dikutip mesin jawab: isinya
+// tabel angka, kalender tanggal, dan rekam jejak, bukan narasi. Yang dipakai
+// CollectionPage dengan ItemList berisi tautan nyata, bukan tipe yang
+// kedengaran mewah tapi medannya diisi karangan.
+function halamanKoleksi({ nama, deskripsi, url, item }) {
+  const daftar = (item || []).filter(x => x && x.url).slice(0, 100);
+  const j = {
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    name: nama, description: deskripsi, url: BASE + url, inLanguage: 'id-ID',
+    isPartOf: { '@type': 'WebSite', url: BASE + '/' },
+    publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
+  };
+  if (daftar.length) {
+    j.mainEntity = {
+      '@type': 'ItemList', numberOfItems: daftar.length,
+      itemListElement: daftar.map((x, i) => ({
+        '@type': 'ListItem', position: i + 1, name: x.nama, url: BASE + x.url,
+      })),
+    };
+  }
+  return j;
+}
+
 function waktuISO(iso) {
   const s = String(iso == null ? '' : iso).trim();
   if (!s) return '';
@@ -384,6 +445,7 @@ function head(o) {
 <title>${esc(o.title)} · The Signal</title>
 <meta name="description" content="${esc(o.desc)}">
 <link rel="canonical" href="${BASE}${o.url}">
+${o.noindex ? '<meta name="robots" content="noindex, follow">' : ''}
 <link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="${BASE}/feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
@@ -434,7 +496,7 @@ ${[].concat(o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="appl
         <a class="nav-link${o.navVideo ? ' active' : ''}" href="/video.html">Video</a>
       </nav>
       <div class="brand">
-        <a class="logo" href="/index.html">The Signal</a>
+        <a class="logo" href="/">The Signal</a>
         <span class="logo-tag">Berita &amp; Analisis Ekonomi</span>
       </div>
       <div class="masthead-actions">
@@ -481,7 +543,7 @@ const FOOT = `
       <div class="footer-col">
         <h4>The Signal</h4>
         <ul>
-          <li><a href="/index.html">Beranda</a></li>
+          <li><a href="/">Beranda</a></li>
           <li><a href="/berita.html">Semua Berita</a></li>
           <li><a href="/signal-pekanan.html">Signal Pekanan</a></li>
           <li><a href="/agenda.html">Agenda Sinyal</a></li>
@@ -570,7 +632,13 @@ ARTICLES.forEach(function (a) {
     desc: a.deck,
     url: articleUrl(a),
     image: BASE + '/' + a.image,
-    imgW: 760, imgH: 570,
+    // Dimensi nyata, bukan angka tetap. Kalau berkasnya tak terbaca, medannya
+    // dibiarkan kosong; menyebut ukuran yang salah lebih buruk daripada tidak
+    // menyebut ukuran sama sekali.
+    ...(function () {
+      const u = ukuranGambar(a.image);
+      return u ? { imgW: u.w, imgH: u.h } : {};
+    })(),
     ogType: 'article',
     jsonld: {
       '@context': 'https://schema.org', '@type': 'NewsArticle',
@@ -618,7 +686,7 @@ ARTICLES.forEach(function (a) {
       ],
     },
   }) +
-    `<div class="rail breadcrumb"><a href="/index.html">Beranda</a> &rsaquo; <a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
+    `<div class="rail breadcrumb"><a href="/">Beranda</a> &rsaquo; <a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
     `<section class="rail article-hero">` +
     `<div class="hero-teks">` +
     `<span class="eyebrow"><a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a></span>` +
@@ -734,7 +802,7 @@ VIDEOS.forEach(function (v) {
       embedUrl: 'https://www.youtube.com/embed/' + v.id, inLanguage: 'id-ID',
     },
   }) +
-    `<div class="rail breadcrumb"><a href="/index.html">Beranda</a> &rsaquo; <a href="/video.html">Video</a> &rsaquo; Tayangan</div>` +
+    `<div class="rail breadcrumb"><a href="/">Beranda</a> &rsaquo; <a href="/video.html">Video</a> &rsaquo; Tayangan</div>` +
     `<section class="rail article-hero">` +
     `<div class="hero-teks">` +
     `<span class="eyebrow">${videoMeta(v)}</span>` +
@@ -812,6 +880,19 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
       url: '/data-ekonomi.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      // Dataset, bukan CollectionPage, karena isinya memang deret angka resmi
+      // dan bukan daftar tautan. creator diisi BPS, bukan The Signal: kami
+      // menyajikannya, bukan mengukurnya.
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'Dataset',
+        name: 'Angka Ekonomi Indonesia', url: BASE + '/data-ekonomi.html',
+        description: 'Indikator ekonomi Indonesia terbaru dari Badan Pusat Statistik, ' +
+          'disajikan dengan grafik pergerakannya.',
+        inLanguage: 'id-ID', isAccessibleForFree: true,
+        creator: { '@type': 'GovernmentOrganization', name: 'Badan Pusat Statistik', url: 'https://www.bps.go.id' },
+        publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
+        variableMeasured: kode.map(k => (BPS.indikator[k] || {}).nama).filter(Boolean),
+      },
     }) + isi + FOOT, 'utf8');
   console.log('angka ekonomi:', kode.length, 'indikator');
 }
@@ -837,6 +918,13 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
       url: '/404.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      // Vercel menyajikan berkas ini untuk alamat yang tidak ada, TAPI dengan
+      // status 200 karena ia halaman statis biasa, bukan respons 404 sungguhan.
+      // Tanpa noindex, "halaman ini tidak ada" bisa masuk indeks sebagai
+      // halaman biasa dan muncul di hasil pencarian, persis pola soft-404 yang
+      // dihukum Google. follow tetap dipertahankan supaya lima tautan berita
+      // terbaru di dalamnya tetap dirayapi.
+      noindex: true,
     }) +
     `<section class="rail" style="padding-block:3rem;max-width:44rem;">` +
     `<span class="eyebrow">Kesalahan 404</span>` +
@@ -976,6 +1064,11 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
       url: '/emiten.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama: 'Sinyal per Emiten', url: '/emiten.html',
+        deskripsi: 'Arsip laporan bursa disusun per saham.',
+        item: DAFTAR_EMITEN.map(([k]) => ({ nama: k, url: '/emiten/' + k + '.html' })),
+      }),
     }) +
     `<section class="rail" style="padding-top:2.2rem;">` +
     `<div class="harian-head">` +
@@ -1088,6 +1181,11 @@ for (const t of KELOMPOK_TEMA) {
       url: '/tema.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama: 'Tema Berjalan', url: '/tema.html',
+        deskripsi: 'Isu ekonomi yang beritanya bersambung lintas hari.',
+        item: KELOMPOK_TEMA.map(t => ({ nama: t.nama || t.slug, url: '/tema/' + t.slug + '.html' })),
+      }),
     }) +
     `<section class="rail" style="padding-top:2.2rem;">` +
     `<div class="harian-head">` +
@@ -1147,6 +1245,12 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
       url: '/rapor.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama: 'Rapor Sinyal', url: '/rapor.html',
+        deskripsi: 'Rekam jejak pembacaan arah The Signal, tiap klaim dicatat lalu dinilai ' +
+          'terkonfirmasi atau patah begitu buktinya terbit.',
+        item: [],
+      }),
     }) +
     `<section class="rail" style="padding-top:2.2rem;">` +
     `<div class="harian-head">` +

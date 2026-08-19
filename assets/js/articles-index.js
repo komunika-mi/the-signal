@@ -10,7 +10,7 @@ var ARTICLES = [
   "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
   "deck": "BIPP berencana menerbitkan hingga 502,8 juta saham baru tanpa HMETD, mendilusi pemegang saham lama hingga 9,09 persen, untuk disetujui dalam RUPSLB 25 September 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/bipp-rencanakan-pmthmetd-hingga-10-saham-baru.jpg",
   "tags": [
    "BIPP",
    "penambahan modal",
@@ -26,7 +26,7 @@ var ARTICLES = [
   "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
   "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/bbca-bagikan-dividen-interim-rp25-saham-total-rp3-07-t.jpg",
   "tags": [
    "BBCA",
    "dividen",

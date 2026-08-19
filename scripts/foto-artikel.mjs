@@ -147,7 +147,20 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   const peta = petaSidik(artikel);
   const terpakai = urlTerpakai(artikel);
 
-  let dibuat = 0, diunduh = 0, kembar = 0, gagal = 0, dilewati = 0;
+  // DUA penghitung, karena ada DUA sebab yang berbeda.
+  //
+  // Sebelumnya keduanya ditumpuk jadi satu variabel 'dilewati', lalu
+  // laporannya melabelinya "tanpa adegan" - padahal itu cuma menggambarkan
+  // salah satunya. Di runner GitHub, alat gambarnya memang tidak ada, jadi
+  // SETIAP artikel masuk lewat cabang pertama dan dilaporkan sebagai "tanpa
+  // adegan" meski adegannya lengkap. Terlihat 19 Agustus 2026: "2 tanpa
+  // adegan" untuk dua artikel yang keduanya punya fotoAdegan.
+  //
+  // Sebab yang salah disebut membuat orang mencari di tempat yang salah:
+  // yang satu berarti alatnya belum terpasang, yang satu lagi berarti model
+  // gagal menulis adegannya. Perbaikannya jauh berbeda.
+  let dibuat = 0, diunduh = 0, kembar = 0, gagal = 0;
+  let tanpaAlat = 0, adeganKosong = 0;
   for (const a of antre) {
     // FOTO ASLI DIDAHULUKAN. Kalau sumbernya menyertakan foto, itu dokumentasi
     // peristiwanya dan selalu lebih baik daripada ilustrasi. Ilustrasi AI baru
@@ -171,7 +184,8 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
       a.kreditFoto = '';
       a.fotoSumber = '';
     }
-    if (!bisaIlustrasi || !a.fotoAdegan) { dilewati++; continue; }
+    if (!bisaIlustrasi) { tanpaAlat++; continue; }
+    if (!a.fotoAdegan) { adeganKosong++; continue; }
     try {
       if (buatFoto(a.slug, a.fotoAdegan)) {
         a.image = fotoSendiri(a.slug);
@@ -186,8 +200,12 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
 
   log('foto artikel: ' + diunduh + ' foto asli diunduh, ' + dibuat + ' ilustrasi dibuat, ' +
     kembar + ' foto sumber ditolak karena kembar, ' + gagal + ' gagal, ' +
-    dilewati + ' tanpa adegan');
-  return { dibuat, diunduh, kembar, gagal, dilewati };
+    tanpaAlat + ' menunggu alat gambar, ' + adeganKosong + ' tanpa adegan');
+  return {
+    dibuat, diunduh, kembar, gagal,
+    tanpaAlat, adeganKosong,
+    dilewati: tanpaAlat + adeganKosong,   // dipertahankan untuk pemanggil lama
+  };
 }
 
 // CLI: isi foto untuk seluruh arsip yang belum punya, lalu tempel ulang dan build.

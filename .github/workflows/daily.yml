@@ -103,7 +103,7 @@ jobs:
           fi
 
       - name: Pasang ffmpeg
-        timeout-minutes: 6
+        timeout-minutes: 10
         run: |
           # WAJIB untuk mengunduh foto asli dari sumber. unduhFoto memakai
           # ffmpeg mengecilkan gambar ke 680px, dan ffmpeg TIDAK tersedia di
@@ -124,7 +124,7 @@ jobs:
           # Durasinya berayun 16 detik sampai 25 menit tanpa ada yang
           # berubah di kode, jadi ini akan berulang sendiri.
           command -v ffmpeg >/dev/null 2>&1 && { ffmpeg -version | head -1; exit 0; }
-          sudo apt-get install -y -qq ffmpeg || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
+          sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 ffmpeg || { sudo apt-get update -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 && sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 ffmpeg; }
           ffmpeg -version | head -1
           # ffprobe ikut paket ffmpeg, tapi diperiksa sendiri karena sejak
           # 14 Agustus 2026 penyaring ukuran gambar bergantung padanya.

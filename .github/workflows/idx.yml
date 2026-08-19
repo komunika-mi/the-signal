@@ -80,9 +80,9 @@ jobs:
       # repositori demi tiga paket, dan di daily.yml pernah memakan 24 menit 55
       # detik sampai menembus jatah job.
       - name: Pasang alat baca dokumen
-        timeout-minutes: 6
+        timeout-minutes: 10
         run: |
-          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-ind || { sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-ind; }
+          sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils tesseract-ocr tesseract-ocr-ind || { sudo apt-get update -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 && sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils tesseract-ocr tesseract-ocr-ind; }
           pdftotext -v
           tesseract --version | head -1
           ls /usr/share/tesseract-ocr/*/tessdata/ind.traineddata

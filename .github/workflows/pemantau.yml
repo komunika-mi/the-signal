@@ -38,7 +38,11 @@ jobs:
     # karena tiap langkah kini punya pagarnya sendiri: 4 (ffmpeg) + 8
     # (foto) + 5 (SEO) + sisanya kecil-kecil. Jatah job tinggal jadi
     # jaring pengaman terakhir, bukan yang pertama kena.
-    timeout-minutes: 20
+    # 20 -> 28. Pagar per langkah berjumlah 23 menit, jadi jatah 20
+    # akan menyala LEBIH DULU daripada pagar langkahnya. Itu justru keadaan
+    # yang dihindari: job yang ditebas berakhir "cancelled" tanpa email,
+    # sedangkan langkah yang ditebas berakhir "failure" yang mengirim email.
+    timeout-minutes: 28
     steps:
       - uses: actions/checkout@v4
 
@@ -136,7 +140,7 @@ jobs:
       # ikut terhitung ke dalam timeout pemeriksaan fotonya sendiri.
       - name: Siapkan ffmpeg
         if: always()
-        timeout-minutes: 6
+        timeout-minutes: 10
         run: |
           # `apt-get update` sendirian pernah makan lebih dari empat menit,
           # karena ia menarik SELURUH indeks repositori padahal yang
@@ -147,8 +151,8 @@ jobs:
             echo "ffmpeg sudah tersedia: $(ffmpeg -version | head -1)"
             exit 0
           fi
-          sudo apt-get install -y -qq ffmpeg \
-            || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
+          sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 ffmpeg \
+            || { sudo apt-get update -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 && sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 ffmpeg; }
           ffmpeg -version | head -1
 
       # DIPAGARI TIMEOUT SENDIRI, dan sengaja ditaruh PALING AKHIR.

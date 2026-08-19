@@ -14,7 +14,11 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # 20 -> 32. Pagar per langkah berjumlah 27 menit, jadi jatah 20
+    # akan menyala LEBIH DULU daripada pagar langkahnya. Itu justru keadaan
+    # yang dihindari: job yang ditebas berakhir "cancelled" tanpa email,
+    # sedangkan langkah yang ditebas berakhir "failure" yang mengirim email.
+    timeout-minutes: 32
     steps:
       - uses: actions/checkout@v4
 
@@ -127,10 +131,10 @@ jobs:
       # seluruh indeks repositori demi satu paket.
       - name: Pasang poppler-utils untuk membaca lampiran
         if: always()
-        timeout-minutes: 5
+        timeout-minutes: 10
         run: |
           command -v pdftotext >/dev/null 2>&1 && { pdftotext -v; exit 0; }
-          sudo apt-get install -y -qq poppler-utils || { sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils; }
+          sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils || { sudo apt-get update -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 && sudo apt-get install -y -q -o Acquire::Retries=3 -o Acquire::http::Timeout=25 -o Acquire::https::Timeout=25 poppler-utils; }
           pdftotext -v
 
       # Dijadikan langkah TERSENDIRI supaya kegagalan membaca PDF tidak

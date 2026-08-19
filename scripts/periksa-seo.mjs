@@ -225,7 +225,23 @@ async function periksaArtikel(locUtama, locBerita) {
     return salah('artikel', jalur + ': datePublished tanpa zona waktu (' + berita.datePublished +
       '), jam terbitnya akan ditebak UTC dan mundur tujuh jam');
   }
-  if (!berita.publisher || !berita.publisher.logo || !berita.publisher.logo.url) {
+  // Penerbit boleh berupa salinan penuh ATAU rujukan {"@id": ...} ke node
+  // organisasi di halaman yang sama. Rujukan itu yang dipakai sekarang, dan
+  // pemeriksa ini wajib menelusurinya, bukan menyerah begitu tidak menemukan
+  // logo inline: rujukan menggantung, yang menunjuk node tak hadir, justru
+  // persis cacat yang perlu ketahuan.
+  const penerbit = (() => {
+    const p = berita.publisher;
+    if (!p) return null;
+    if (!p['@id']) return p;
+    return objek.find(o => o['@id'] === p['@id']) || null;
+  })();
+  if (!penerbit) {
+    return salah('artikel', jalur + ': publisher menunjuk ' +
+      JSON.stringify(berita.publisher && berita.publisher['@id']) +
+      ' tapi node itu tidak ada di halaman ini (rujukan menggantung)');
+  }
+  if (!penerbit.logo || !penerbit.logo.url) {
     return salah('artikel', jalur + ': logo penerbit hilang dari data terstruktur');
   }
   // Gambar yang disebut tapi tidak ada membuat hasil kaya ditolak diam-diam.

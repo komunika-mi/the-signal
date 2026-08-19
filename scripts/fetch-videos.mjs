@@ -1,6 +1,6 @@
 // Ambil video ekonomi terbaru dari kanal YouTube resmi tvOneNews.
 // Pakai RSS resmi YouTube: gratis, tanpa API key.
-import { get, retry, stripTags, log } from './lib.mjs';
+import { get, retry, stripTags, log, dijalankanLangsung } from './lib.mjs';
 
 const CHANNEL_ID = 'UCER4rvDnRBPr_ncYW4UCZjg'; // @tvOneNews
 const FEED = 'https://www.youtube.com/feeds/videos.xml?channel_id=' + CHANNEL_ID;
@@ -49,7 +49,7 @@ export async function ambilVideo(maks = 15) {
   return entri.slice(0, maks);
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const v = await ambilVideo();
   v.forEach(x => log('-', x.id, '|', x.judulAsli.slice(0, 70)));
   if (!v.length) log('CATATAN: tidak ada video ekonomi di 15 video terbaru hari ini.');

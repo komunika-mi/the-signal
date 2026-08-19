@@ -22,7 +22,7 @@
 //
 //   node scripts/periksa-kanal.mjs           laporan + kode keluar 2 kalau ada yang basi
 //   node scripts/periksa-kanal.mjs --diam    hanya kode keluar, tanpa cetakan panjang
-import { log, readData, keWaktu } from './lib.mjs';
+import { log, readData, keWaktu, dijalankanLangsung } from './lib.mjs';
 
 // batasHari: berapa hari tanpa artikel baru sebelum dianggap bermasalah.
 // hariBursa: kalau true, akhir pekan tidak dihitung karena sumbernya memang
@@ -81,7 +81,7 @@ export function periksaKanal(artikel, sekarang = wibSekarang()) {
   });
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const diam = process.argv.includes('--diam');
   const hasil = periksaKanal(readData('articles.js', 'ARTICLES'));
   const basi = hasil.filter(h => h.basi);

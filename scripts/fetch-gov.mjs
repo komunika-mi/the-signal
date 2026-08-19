@@ -22,7 +22,7 @@
 //   OJK     - membalas 699 byte, diblokir
 //   Setkab  - 7,6 KB tanpa isi
 //   Kemenkeu- punya sitemap tapi isinya halaman profil, bukan berita
-import { get, getJSON, retry, stripTags, log, cariFotoUtama } from './lib.mjs';
+import { get, getJSON, retry, stripTags, log, cariFotoUtama, dijalankanLangsung } from './lib.mjs';
 
 const SUMBER = [
   {
@@ -250,7 +250,7 @@ export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
   return hasil;
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const d = await ambilBeritaPemerintah({ perSumber: 3 });
   d.forEach(x => log('[' + x.lembaga + '] ' + x.judulAsli.slice(0, 62) + '  (' + x.isi.length + ' krkt)'));
 }

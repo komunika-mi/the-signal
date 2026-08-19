@@ -18,7 +18,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log } from './lib.mjs';
+import { ROOT, log, dijalankanLangsung } from './lib.mjs';
 import { buatFoto, unduhFoto } from './buat-foto.mjs';
 import { petaSidik, urlTerpakai, pasangFotoUnik } from './foto-unik.mjs';
 import { tanya, ambilJSON } from './rewrite.mjs';
@@ -193,7 +193,7 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
 // CLI: isi foto untuk seluruh arsip yang belum punya, lalu tempel ulang dan build.
 //   node scripts/foto-artikel.mjs            -> maksimal 40 foto
 //   node scripts/foto-artikel.mjs 200        -> maksimal 200 foto
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const { readData, writeData } = await import('./lib.mjs');
   const { execFileSync } = await import('node:child_process');
   const maks = Number(process.argv[2] || 40);

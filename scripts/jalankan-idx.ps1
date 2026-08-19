@@ -45,6 +45,16 @@ if (Test-Path $kunci) {
   if ($umur.TotalMinutes -lt 45) { Catat 'Putaran sebelumnya masih jalan, dilewati.'; exit 0 }
   Catat 'Kunci lama ditemukan (lebih dari 45 menit), dianggap macet dan diabaikan.'
 }
+# Ambil nama berkas dari satu baris 'git status --porcelain'.
+# Bentuknya 'XY path', dan untuk penggantian nama 'XY lama -> baru'. Path yang
+# mengandung spasi dikutip git, jadi kutipnya dilepas.
+function BerkasDariBarisStatus($baris) {
+  if (-not $baris -or $baris.Length -lt 4) { return $null }
+  $p = $baris.Substring(3)
+  if ($p -match ' -> ') { $p = ($p -split ' -> ')[-1] }
+  return $p.Trim().Trim('"')
+}
+
 New-Item -ItemType File -Path $kunci -Force | Out-Null
 
 try {
@@ -72,6 +82,26 @@ try {
   # perhitungan otomatis pas untuk kedua keadaan, baik menyala tiap hari maupun
   # baru menyala setelah seminggu. Menyetel variabelnya di sini justru akan
   # MENIMPA perhitungan itu.
+  # POTRET SEBELUM, dan alasannya.
+  #
+  # Sebelum ini langkah commit memakai 'git add -A', yang menyapu SELURUH isi
+  # pohon kerja. Dua kali pada 19 Agustus 2026 itu menelan suntingan yang
+  # sedang dikerjakan dan mendorongnya ke remote dengan judul "Aksi korporasi
+  # IDX" - pekerjaan orang lain terbit atas nama pipeline ini, tanpa ditinjau,
+  # dan tercatat di riwayat dengan pesan yang menyesatkan.
+  #
+  # Yang dicatat di sini adalah berkas yang SUDAH kotor sebelum pipeline mulai.
+  # Semuanya nanti dilewati saat commit, apa pun isinya. Pipeline ini cuma
+  # berhak atas apa yang ia ubah sendiri.
+  $sebelum = @{}
+  foreach ($b in (& git -c core.quotepath=false status --porcelain)) {
+    $p = BerkasDariBarisStatus $b
+    if ($p) { $sebelum[$p] = $true }
+  }
+  if ($sebelum.Count -gt 0) {
+    Catat "catatan: $($sebelum.Count) berkas sudah berubah sebelum putaran ini, akan dilewati saat commit"
+  }
+
   Catat 'menjalankan pembaruan IDX'
   $kode = Jalankan 'npm' @('run', 'update:idx')
   if ($kode -ne 0) { Catat "GAGAL: skrip keluar dengan kode $kode"; exit $kode }
@@ -93,7 +123,24 @@ try {
   }
 
   $pesan = "Aksi korporasi IDX: total $jumlah artikel (" + (Get-Date -Format 'yyyy-MM-dd HH:mm') + " WIB)"
-  Jalankan 'git' @('add', '-A') | Out-Null
+  # Hanya berkas yang BERUBAH KARENA PUTARAN INI.
+  $milikKita = @()
+  $dilewati = @()
+  foreach ($b in (& git -c core.quotepath=false status --porcelain)) {
+    $p = BerkasDariBarisStatus $b
+    if (-not $p) { continue }
+    if ($sebelum.ContainsKey($p)) { $dilewati += $p } else { $milikKita += $p }
+  }
+  if ($dilewati.Count -gt 0) {
+    Catat "dilewati (sudah berubah sebelum putaran ini): $($dilewati -join ', ')"
+  }
+  if ($milikKita.Count -eq 0) {
+    Catat 'Tidak ada berkas yang berubah karena putaran ini. Tidak ada yang di-commit.'
+    Catat '=== selesai (tanpa perubahan milik putaran ini) ==='
+    exit 0
+  }
+  Catat "commit $($milikKita.Count) berkas milik putaran ini"
+  Jalankan 'git' (@('add', '--') + $milikKita) | Out-Null
   Jalankan 'git' @('commit', '-m', $pesan) | Out-Null
   $kodePush = Jalankan 'git' @('push', 'origin', 'master')
   if ($kodePush -ne 0) { Catat 'GAGAL: push ditolak'; exit 1 }

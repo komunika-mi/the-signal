@@ -8,10 +8,46 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat, alatLuar, TESSDATA } from './lib.mjs';
+import { getJSONViaCurl, ambilIDX, retry, stripTags, log, ROOT, UA, wajibAlat, punyaAlat, alatLuar, TESSDATA, dijalankanLangsung } from './lib.mjs';
 import XLSX from 'xlsx';
 
-const API = 'https://www.idx.co.id/primary/ListedCompany/GetAnnouncement';
+// DUA HOST, dan perbedaannya disengaja.
+//
+// www.idx.co.id memblokir IP pusat data: dari runner GitHub (20.168.115.120,
+// Azure) dibalas HTTP 403 halaman tantangan Cloudflare 4.544 byte, diuji ulang
+// 19 Agustus 2026. www.idx.id menyajikan API yang sama persis dan dari runner
+// yang sama dibalas HTTP 200 dengan ResultCount identik. Karena itulah jadwal
+// idx.yml pernah dimatikan dan pipeline ini terpaksa jalan dari laptop.
+//
+// Yang DIAMBIL lewat HOST_AMBIL. Yang DISIMPAN dan DISITIR tetap
+// www.idx.co.id, dan itu bukan sekadar kerapian:
+//
+//   - Penyaring artikel kembar di update-idx.mjs mencocokkan sourceUrl sebagai
+//     string persis. Ke-170 artikel IDX yang sudah tayang menyimpan host
+//     kanonik; kalau host tersimpan ikut berubah, semuanya berhenti cocok dan
+//     diberitakan ULANG sampai selebar jendela pengejaran.
+//   - Tautan sumber itu dibaca manusia dan masuk isBasedOn di data
+//     terstruktur. Sertifikat idx.co.id OV atas nama PT BURSA EFEK INDONESIA,
+//     sedangkan idx.id cuma DV tanpa nama organisasi. Media tidak menyitir
+//     domain yang kepemilikannya tidak bisa dibuktikan.
+//
+// Untungnya API-nya sendiri sudah membantu: ditanya lewat idx.id pun,
+// FullSavePath yang dikembalikan tetap menunjuk www.idx.co.id. Jadi nilai yang
+// tersimpan kanonik dengan sendirinya, dan yang perlu ditulis ulang hanya
+// alamat pada saat mengunduh.
+const HOST_KANONIK = 'https://www.idx.co.id';
+const HOST_AMBIL = process.env.IDX_HOST_AMBIL || 'https://www.idx.id';
+// Ditulis eksplisit, bukan regex: alamatnya diganti HANYA kalau memang
+// diawali host kanonik, dan sisanya diteruskan apa adanya. Perbandingannya
+// tanpa peduli huruf besar kecil supaya varian penulisan tidak lolos diam-diam.
+const untukDiambil = (url) => {
+  const u = String(url || '');
+  return u.toLowerCase().startsWith(HOST_KANONIK)
+    ? HOST_AMBIL + u.slice(HOST_KANONIK.length)
+    : u;
+};
+
+const API = HOST_AMBIL + '/primary/ListedCompany/GetAnnouncement';
 
 // Laporan wajib berkala yang tidak menggerakkan harga saham.
 //
@@ -243,7 +279,7 @@ export function ambilIsiLampiran(url, { maksKarakter = 20000, percobaan = 5, jej
           '-H', 'Accept: application/pdf,*/*',
           '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
           '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
-          '-o', tmp, url,
+          '-o', tmp, untukDiambil(url),
         ], { encoding: 'utf8' });
 
         if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 500) {
@@ -387,7 +423,7 @@ export function ambilIsiXlsx(url, { maksKarakter = 20000, percobaan = 3 } = {}) 
           '-A', UA,
           '-H', 'Accept: */*',
           '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
-          '-o', tmp, url,
+          '-o', tmp, untukDiambil(url),
         ], { encoding: 'utf8' });
         if (!fs.existsSync(tmp) || fs.statSync(tmp).size < 200) continue;
         const isi = fs.readFileSync(tmp);
@@ -572,10 +608,11 @@ export async function ambilPetaEmiten() {
   } catch {}
 
   // 2. ambil dari IDX
-  const url = 'https://www.idx.co.id/primary/ListedCompany/GetCompanyProfiles' +
+  const url = HOST_AMBIL + '/primary/ListedCompany/GetCompanyProfiles' +
     '?start=0&length=1200&code=&sortcolumn=code&sortdirection=asc';
   try {
-    const j = await ambilIDX(url);
+    // Endpoint ini berbentuk {data: [...]}, bukan {Replies: [...]}.
+    const j = await ambilIDX(url, { sah: (x) => Array.isArray(x.data) });
     const peta = {};
     for (const r of (j.data || [])) {
       const kode = String(r.KodeEmiten || r.Code || '').trim().toUpperCase();
@@ -603,7 +640,7 @@ export async function ambilPetaEmiten() {
   }
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const d = await ambilKeterbukaan();
   d.slice(0, 12).forEach(x => log(
     (x.dugaanMaterial ? '[M]' : '[ ]'), (x.emiten || '----').padEnd(5), x.judulAsli.slice(0, 68)));

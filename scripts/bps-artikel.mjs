@@ -24,7 +24,7 @@
 //   node scripts/bps-artikel.mjs           tarik, deteksi, tulis artikel
 //   node scripts/bps-artikel.mjs --lihat   deteksi saja, tidak menulis apa pun
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, readData, writeData, readObjek, slugify, fmtTanggal, keWaktu } from './lib.mjs';
+import { ROOT, log, readData, writeData, readObjek, slugify, fmtTanggal, keWaktu, dijalankanLangsung } from './lib.mjs';
 import { tarikSemua } from './bps-data.mjs';
 import { tanya, ambilJSON } from './rewrite.mjs';
 import { angkaID, nilaiRingkas } from './bps-grafik.mjs';
@@ -208,10 +208,9 @@ async function tulisArtikel(rilis) {
 // pipeline. Tanpa itu, sekadar memuat modulnya untuk memeriksa sintaks sudah
 // menarik data, memanggil model, dan menulis artikel. Terjadi sekali saat
 // modul ini pertama dibuat.
-const dijalankanLangsung = Boolean(process.argv[1]) &&
-  import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/');
+const jalanLangsung = dijalankanLangsung(import.meta.url);
 
-if (dijalankanLangsung) {
+if (jalanLangsung) {
 
 const sebelum = readObjek('bps.js');
 const hasil = await tarikSemua();

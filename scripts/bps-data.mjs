@@ -33,7 +33,7 @@
 //
 //   node scripts/bps-data.mjs            tarik dan simpan
 //   node scripts/bps-data.mjs --lihat    tampilkan saja, tidak menyimpan
-import { log, getJSON, retry, readData, writeData } from './lib.mjs';
+import { log, getJSON, retry, readData, writeData, dijalankanLangsung } from './lib.mjs';
 
 const API = 'https://webapi.bps.go.id/v1/api/list/model/data/domain/0000';
 
@@ -181,7 +181,7 @@ export async function tarikSemua({ tahun = 3 } = {}) {
   return hasil;
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const hasil = await tarikSemua();
   const jumlah = Object.keys(hasil).length;
 

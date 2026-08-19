@@ -1,7 +1,7 @@
 // Ambil data pasar harian: IHSG, USD/IDR, emas spot, Bitcoin.
 // Semua sumber gratis tanpa API key. Kalau satu sumber gagal,
 // nilai lama dipertahankan supaya situs tidak menampilkan angka kosong.
-import { getJSON, retry, log, readData, idNum } from './lib.mjs';
+import { getJSON, retry, log, readData, idNum, dijalankanLangsung } from './lib.mjs';
 
 const GRAM_PER_OZ = 31.1034768;
 
@@ -127,7 +127,7 @@ export async function ambilPasar(sebelumnya) {
   return hasil;
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const p = await ambilPasar();
   console.log(JSON.stringify(p, null, 2));
 }

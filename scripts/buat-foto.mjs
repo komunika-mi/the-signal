@@ -16,7 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { ROOT, log, UA, wajibAlat } from './lib.mjs';
+import { ROOT, log, UA, wajibAlat, dijalankanLangsung } from './lib.mjs';
 
 const MODEL = process.env.FOTO_MODEL || 'z_image';
 const IMG_DIR = path.join(ROOT, 'assets/img');
@@ -127,7 +127,7 @@ export function unduhFoto(nama, url) {
   }
 }
 
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const [arg1, arg2] = process.argv.slice(2);
 
   if (!arg1 || arg1 === '--daftar') {

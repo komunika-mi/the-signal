@@ -1,7 +1,7 @@
 // Ambil berita ekonomi terbaru dari news sitemap tvOneNews,
 // lalu tarik isi tiap artikel sebagai bahan mentah untuk dirangkum.
 // Script ini TIDAK menulis artikel — hanya mengumpulkan bahan.
-import { get, retry, stripTags, log, cariFotoUtama } from './lib.mjs';
+import { get, retry, stripTags, log, cariFotoUtama, dijalankanLangsung } from './lib.mjs';
 
 const SITEMAP = 'https://www.tvonenews.com/sitemap/news/news-sitemap.xml';
 
@@ -84,7 +84,7 @@ export async function ambilIsiArtikel(item) {
 }
 
 // dijalankan langsung: tampilkan hasil untuk pengecekan manual
-if (process.argv[1] && import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')) {
+if (dijalankanLangsung(import.meta.url)) {
   const daftar = await ambilDaftarBerita(6);
   for (const it of daftar) {
     const full = await ambilIsiArtikel(it);

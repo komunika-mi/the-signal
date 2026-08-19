@@ -1,7 +1,7 @@
 // Utilitas bersama untuk semua script pipeline The Signal.
 import fs from 'node:fs';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -32,6 +32,28 @@ export const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
   } catch { /* .env rusak tidak boleh menjatuhkan pipeline */ }
 })();
 
+// Apakah berkas ini dijalankan LANGSUNG (`node scripts/x.mjs`), bukan diimpor
+// sebagai modul?
+//
+// Bentuk lama merangkai URL-nya sendiri:
+//     import.meta.url === 'file:///' + process.argv[1].replace(/\\/g, '/')
+// dan itu HANYA benar di Windows. Di Linux process.argv[1] sudah diawali
+// '/', sehingga yang terbentuk 'file:////home/...' dengan EMPAT garis miring
+// sementara import.meta.url punya tiga. Hasilnya SELALU false.
+//
+// Akibatnya tidak berupa error, melainkan diam. Skrip yang seluruh isinya
+// berada di balik penjaga ini keluar dengan kode 0 tanpa satu baris
+// keluaran, dan langkah workflow-nya hijau. bps-artikel.mjs dan
+// periksa-kanal.mjs begitu selama enam hari di runner GitHub: angka BPS
+// beku sejak 13 Agustus 2026, dan pengawas kesegaran kanal tidak pernah
+// sekali pun mengawasi apa pun.
+//
+// pathToFileURL mengurus perbedaan platform sekaligus penyandian karakter.
+export function dijalankanLangsung(metaUrl) {
+  if (!process.argv[1]) return false;
+  try { return metaUrl === pathToFileURL(process.argv[1]).href; }
+  catch { return false; }
+}
 export function log(...a) { console.log('[' + new Date().toISOString().slice(11, 19) + ']', ...a); }
 
 // ---------- pencari alat luar ----------
@@ -289,14 +311,36 @@ export function cariFotoUtama(html, opsi = {}) {
 
 // curl polos dengan header wajar, tanpa embel-embel IDX. Dipakai sebagai
 // jalur kedua ketika fetch Node ditolak.
-function ambilLewatCurl(url, timeoutDetik = 30) {
-  return execFileSync('curl', [
-    '-sL', '--compressed', '--max-time', String(timeoutDetik),
+// curl yang MELAPORKAN status, bukan menelannya.
+//
+// `curl -s` tanpa `-f` mencetak badan balasan apa pun kode HTTP-nya, dan
+// pemanggil yang cuma menerima string tidak punya cara membedakan artikel
+// sungguhan dari halaman blokir. Halaman tantangan Cloudflare IDX berukuran
+// 4.544 byte, jauh di atas ambang kewajaran mana pun, jadi ia lolos sebagai
+// "isi yang masuk akal". Penanda %{http_code} ditempel di baris terakhir dan
+// dipisahkan lagi di sini.
+function curlBerstatus(url, timeoutDetik, opsi = []) {
+  const keluar = execFileSync('curl', [
+    '--compressed', '--max-time', String(timeoutDetik),
     '-A', UA,
-    '-H', 'Accept: text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
-    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+    ...opsi,
+    '-w', '\n%{http_code}',
     url,
   ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
+  const potong = keluar.lastIndexOf('\n');
+  if (potong < 0) return { status: 0, badan: keluar };
+  return {
+    status: Number(keluar.slice(potong + 1).trim()) || 0,
+    badan: keluar.slice(0, potong),
+  };
+}
+
+function ambilLewatCurl(url, timeoutDetik = 30) {
+  return curlBerstatus(url, timeoutDetik, [
+    '-sL',
+    '-H', 'Accept: text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+  ]);
 }
 
 export async function get(url, { timeout = 25000, headers = {} } = {}) {
@@ -317,8 +361,14 @@ export async function get(url, { timeout = 25000, headers = {} } = {}) {
     // lewat peramban.
     if (r.status === 403) {
       try {
-        const teks = ambilLewatCurl(url, Math.ceil(timeout / 1000) + 5);
-        if (teks && teks.length > 500) return teks;
+        const lewatCurl = ambilLewatCurl(url, Math.ceil(timeout / 1000) + 5);
+        // Syaratnya status 2xx, BUKAN sekadar "badannya panjang". Sebelumnya
+        // panjang > 500 dianggap cukup, dan halaman blokir 4.544 byte lolos
+        // mentah-mentah lalu diserahkan ke pemanggil seolah-olah isi artikel.
+        if (lewatCurl.status >= 200 && lewatCurl.status < 300 &&
+            lewatCurl.badan && lewatCurl.badan.length > 500) {
+          return lewatCurl.badan;
+        }
       } catch { /* jatuh ke error 403 asli di bawah */ }
     }
 
@@ -333,16 +383,20 @@ export async function getJSON(url, opts) { return JSON.parse(await get(url, opts
 // memakai header yang sama persis. Kemungkinan mereka menyaring lewat sidik
 // jari TLS, bukan header. Jadi khusus IDX kita pinjam curl.
 export function getViaCurl(url, { timeout = 30 } = {}) {
-  const out = execFileSync('curl', [
-    '-s', '--compressed', '--max-time', String(timeout),
-    '-A', UA,
+  const r = curlBerstatus(url, timeout, [
+    '-s',
     '-H', 'Accept: application/json, text/plain, */*',
     '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
     '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
-    url,
-  ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
-  if (!out || !out.trim()) throw new Error('curl mengembalikan kosong: ' + url);
-  return out;
+  ]);
+  // Status disebut dalam pesannya, karena "403" dan "500" menuntut tindakan
+  // yang berbeda: yang satu soal siapa kita di mata server, yang satu soal
+  // servernya sendiri sedang rusak.
+  if (r.status < 200 || r.status >= 300) {
+    throw new Error('HTTP ' + r.status + ' dari curl: ' + url);
+  }
+  if (!r.badan || !r.badan.trim()) throw new Error('curl mengembalikan kosong: ' + url);
+  return r.badan;
 }
 
 export function getJSONViaCurl(url, opts) { return JSON.parse(getViaCurl(url, opts)); }
@@ -376,7 +430,23 @@ function panaskanSesi() {
 
 const tidur = (ms) => { const s = Date.now(); while (Date.now() - s < ms) { /* jeda sinkron */ } };
 
-export async function ambilIDX(url, { percobaan = 5 } = {}) {
+// Bentuk balasan yang sah BERBEDA per endpoint, jadi pemanggil yang menentukan.
+//
+// Penjaga bawaannya menuntut j.Replies, dan itu benar untuk endpoint
+// pengumuman. Tapi GetCompanyProfiles mengembalikan {draw, recordsTotal,
+// recordsFiltered, data} dan tidak pernah punya medan Replies sama sekali.
+// Sejak penjaga itu dipasang, panggilan daftar nama emiten SELALU ditolak,
+// diulang lima kali, lalu gagal, dan pipeline jatuh ke cache lama tanpa ada
+// yang tahu selain satu baris PERINGATAN di log lokal.
+//
+// Akibatnya terlihat di situs: assets/data/emiten.json beku di 962 nama sejak
+// 10 Agustus 2026, dan delapan halaman emiten (BAFI, BSLT, PLTM, SANF, TAFS,
+// WISL, XSGO, XTRA) tayang tanpa nama perusahaan karena kodenya belum ada di
+// cache itu. Endpointnya sendiri sehat sepanjang waktu, di kedua host.
+export async function ambilIDX(url, {
+  percobaan = 5,
+  sah = (j) => Array.isArray(j.Replies),
+} = {}) {
   let terakhir = '';
   for (let i = 0; i < percobaan; i++) {
     // mulai percobaan kedua, panaskan sesi dulu
@@ -395,8 +465,8 @@ export async function ambilIDX(url, { percobaan = 5 } = {}) {
         // padahal API-nya sendiri sehat dan punya 215 laporan menunggu.
         // Tidak adanya Replies harus dihitung gagal supaya percobaan berikutnya
         // jalan dan, kalau tetap gagal, errornya terlihat.
-        if (Array.isArray(j.Replies)) return j;
-        terakhir = 'JSON tanpa daftar Replies';
+        if (sah(j)) return j;
+        terakhir = 'JSON sah tapi bentuknya bukan yang diharapkan endpoint ini';
       } else {
         terakhir = 'dibalas HTML, bukan JSON';
       }

@@ -37,7 +37,16 @@ permissions:
 jobs:
   tulis:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    # Jatah job jadi jaring TERAKHIR, bukan yang pertama menyala.
+    #
+    # Putaran sehat 0,5 sampai 0,6 menit. Tapi selama tidak ada satu pun pagar di
+    # tingkat langkah, yang selalu jatuh duluan adalah jatah job, dan job yang
+    # ditebas berakhir "cancelled" yang TIDAK dikirimi email GitHub. Untuk alur
+    # yang mengirim email ke pelanggan, gagal tanpa kabar berarti pembaca tidak
+    # menerima edisinya dan tidak ada seorang pun yang tahu.
+    #
+    # Sekarang tiap langkah berpagar, berjumlah 37 menit.
+    timeout-minutes: 42
 
     steps:
       - uses: actions/checkout@v4
@@ -48,6 +57,7 @@ jobs:
           cache: "npm"
 
       - name: Pasang dependensi
+        timeout-minutes: 4
         run: npm ci
 
       # Mode kirim-ulang. Dipakai kalau edisinya sudah ada dan benar tapi
@@ -57,6 +67,7 @@ jobs:
       # edisinya dengan jendela tanggal hari itu dan menimpa edisi yang sudah
       # benar. Di sini edisinya dibiarkan apa adanya, hanya dikirim.
       - name: Mode kirim-ulang
+        timeout-minutes: 2
         if: ${{ inputs.hanya_kirim }}
         run: |
           EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/pekanan.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
@@ -69,6 +80,7 @@ jobs:
           echo "Kirim ulang edisi $EDISI tanpa menulis ulang."
 
       - name: Tulis Signal Pekanan
+        timeout-minutes: 10
         if: ${{ !inputs.hanya_kirim }}
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -77,6 +89,7 @@ jobs:
         run: node scripts/signal-pekanan.mjs
 
       - name: Commit dan push
+        timeout-minutes: 4
         if: ${{ !inputs.hanya_kirim }}
         run: |
           git config user.name "the-signal-bot"
@@ -125,6 +138,7 @@ jobs:
           git push
 
       - name: Tunggu situs benar-benar tayang
+        timeout-minutes: 8
         run: |
           # HARUS sebelum pengiriman. Email memuat tautan "baca di situs", dan
           # email tidak bisa ditarik kembali; kalau dikirim sebelum deploy
@@ -151,6 +165,7 @@ jobs:
           exit 1
 
       - name: Kirim ke pelanggan
+        timeout-minutes: 5
         env:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: |
@@ -164,6 +179,7 @@ jobs:
 
       - name: Kirim ke kanal Telegram
         continue-on-error: true
+        timeout-minutes: 4
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}

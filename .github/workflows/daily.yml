@@ -34,7 +34,21 @@ permissions:
 jobs:
   perbarui:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    # 25 -> 70, dan alasannya bukan karena putarannya melambat.
+    #
+    # Putaran sehat 7,8 sampai 16,6 menit. Tapi dari sebelas langkah, dulu
+    # cuma SATU yang berpagar, sehingga yang selalu jatuh duluan adalah jatah
+    # job. Job yang ditebas berakhir "cancelled", dan cancelled TIDAK
+    # dikirimi email GitHub. Tiga kali pada 19 Agustus 2026 situs berhenti
+    # diperbarui satu putaran penuh tanpa ada yang tahu: 07.35 mati di
+    # "Pasang ffmpeg", 09.30 di "Pastikan benar-benar terbit", 15.27 di
+    # "Ambil foto asli dari sumber". Ketiganya tercatat 25,3 menit, persis
+    # jatah lamanya.
+    #
+    # Sekarang tiap langkah punya pagarnya sendiri, berjumlah 67 menit.
+    # Jatah job ditaruh di atas jumlah itu supaya ia benar-benar jadi jaring
+    # terakhir: yang mati langkahnya, tercatat "failure", dan emailnya sampai.
+    timeout-minutes: 70
 
     steps:
       - uses: actions/checkout@v4
@@ -45,6 +59,7 @@ jobs:
           cache: "npm"
 
       - name: Pasang dependensi
+        timeout-minutes: 4
         run: npm ci
 
       - name: Kirim artikel rilis BPS ke Telegram
@@ -63,6 +78,7 @@ jobs:
         # sama ke seluruh kanal. Pesan kanal tidak bisa ditarik; catatan
         # kirimnya harus aman sebelum langkah lain diberi kesempatan gagal.
         continue-on-error: true
+        timeout-minutes: 4
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
@@ -131,6 +147,7 @@ jobs:
           ffprobe -version | head -1
 
       - name: Ambil berita, video, dan data pasar
+        timeout-minutes: 14
         env:
           # Mesin AI: pakai token langganan Claude (tanpa biaya API tambahan).
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -144,6 +161,7 @@ jobs:
         run: npm run update
 
       - name: Ambil foto asli dari sumber
+        timeout-minutes: 8
         run: |
           # Menutup celah yang terbukti nyata. Log putaran 13 Agustus 2026 pukul
           # 06.18 berbunyi "0 foto asli diunduh, 0 ilustrasi dibuat, 7 tanpa
@@ -175,6 +193,7 @@ jobs:
           fi
 
       - name: Perbarui angka BPS dan tulis artikel rilis
+        timeout-minutes: 8
         env:
           BPS_API_KEY: ${{ secrets.BPS_API_KEY }}
           # WAJIB: langkah ini menulis artikel saat ada rilis baru, jadi
@@ -208,6 +227,7 @@ jobs:
           }
 
       - name: Periksa foto terhadap sumbernya
+        timeout-minutes: 6
         run: |
           # Pemeriksaan yang selama ini DIKERJAKAN MANUSIA.
           #
@@ -230,6 +250,7 @@ jobs:
           node scripts/periksa-foto.mjs 25 || echo "::warning::Ada foto yang tidak cocok dengan sumbernya, lihat log langkah ini"
 
       - name: Periksa kesegaran tiap kanal
+        timeout-minutes: 2
         run: |
           # Menjawab pertanyaan yang tidak bisa dijawab satu putaran: apakah
           # kanal ini sepi, atau rusak?
@@ -245,6 +266,7 @@ jobs:
           node scripts/periksa-kanal.mjs || echo "::warning::Ada kanal yang berhenti berbunyi, lihat log langkah ini"
 
       - name: Periksa hasil sebelum commit
+        timeout-minutes: 2
         id: periksa
         run: |
           JML=$(node -e "const fs=require('fs');const s=fs.readFileSync('assets/js/articles.js','utf8');const a=JSON.parse(s.slice(s.indexOf('['),s.lastIndexOf(']')+1));console.log(a.length)")
@@ -261,6 +283,7 @@ jobs:
           fi
 
       - name: Commit dan push
+        timeout-minutes: 4
         id: kirim
         run: |
           git config user.name "the-signal-bot"
@@ -359,6 +382,7 @@ jobs:
       # ulangnya dilakukan manual atau lewat jalankan-idx.ps1 yang memang
       # sudah terautentikasi di mesin lokal.
       - name: Pastikan benar-benar terbit
+        timeout-minutes: 5
         if: steps.kirim.outputs.berubah == 'ya'
         run: |
           # Alamat diambil dari situs.mjs, satu-satunya tempat yang menuliskannya.

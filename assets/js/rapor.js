@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-18T21:25:03.567+07:00",
+ "diperbarui": "2026-08-19T21:26:59.918+07:00",
  "entri": [
+  {
+   "id": "2026-08-19-3",
+   "edisi": "2026-08-19",
+   "benang": "Pola Transaksi Menguntungkan Pihak Terafiliasi",
+   "klaim": "Pola aksi korporasi besar yang jalur dananya berputar di lingkaran pihak terafiliasi dengan pengendali atau direksi, seperti terlihat pada BIPP, HATM, dan BIKE, akan terus berlanjut.",
+   "penanda": "Keputusan pemegang saham independen pada RUPSLB BIPP",
+   "tenggat": "2026-09-25",
+   "tenggatLabel": "RUPSLB BIPP tanggal 25 September mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-19-2",
+   "edisi": "2026-08-19",
+   "benang": "Spekulasi Saham Kecil Lepas dari Arah IHSG",
+   "klaim": "Aktivitas spekulatif pada saham-saham kecil dan menengah (seperti TRJA, TRUK, dan saham terkait Haji Isam) berjalan lepas dari fundamental dan dari arah IHSG yang justru melemah.",
+   "penanda": "Apakah Bursa mengeluarkan permintaan penjelasan atau status Unusual Market Activity susulan pada saham-saham ini",
+   "tenggat": null,
+   "tenggatLabel": "beberapa hari ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-19-1",
+   "edisi": "2026-08-19",
+   "benang": "Tekanan Utang BUMN Karya Meluas ke WIKA dan ADHI",
+   "klaim": "Tekanan likuiditas di sektor konstruksi BUMN karya akan terus meluas, setelah menjalar dari PTPP ke WIKA dan ADHI dalam satu hari yang sama.",
+   "penanda": "Apakah ADHI berhasil membayar kupon obligasi yang jatuh tempo",
+   "tenggat": "2026-08-24",
+   "tenggatLabel": "kupon yang jatuh tempo 24 Agustus mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-18-3",
    "edisi": "2026-08-18",

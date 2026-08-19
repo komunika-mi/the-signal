@@ -120,3 +120,18 @@ jobs:
           # Sampel saja, bukan seluruh arsip: yang dicari kerusakan BARU, dan
           # arsip lama sudah diperiksa penuh saat perbaikannya dikerjakan.
           node scripts/periksa-foto.mjs 15
+
+      - name: Mesin pencari dan mesin jawab masih bisa membaca situs
+        if: always()
+        run: |
+          # Yang diperiksa BUKAN peringkat, melainkan apakah pintunya masih
+          # terbuka: robots.txt, dua sitemap, data terstruktur di beranda dan
+          # di artikel TERBARU, llms.txt, dan feed. Semuanya hal yang bisa
+          # rusak sesudah build tanpa meninggalkan jejak apa pun di repo, dan
+          # tidak satu pun terlihat oleh mata pada halaman yang tampak normal.
+          #
+          # if: always() supaya langkah ini tetap jalan walau pemeriksaan di
+          # atasnya sudah merah. Kerusakan SEO dan kerusakan isi tidak saling
+          # menggantikan, dan menyembunyikan yang satu di balik yang lain
+          # persis cara sebuah masalah bertahan berminggu-minggu.
+          node scripts/periksa-seo.mjs

@@ -121,6 +121,40 @@ let cocok = 0, takTerperiksa = 0, takSempat = 0;
 const SERENTAK = Number(process.env.PERIKSA_FOTO_SERENTAK || 4);
 const TENGGAT_MS = Number(process.env.PERIKSA_FOTO_TENGGAT_MS || 6 * 60 * 1000);
 const mulai = Date.now();
+const BATAS_SATU_MS = Number(process.env.PERIKSA_FOTO_BATAS_SATU_MS || 45000);
+
+// Janji yang KALAH LOMBA dengan pewaktu.
+//
+// get() di lib.mjs punya AbortController, tapi terbukti masih bisa
+// menggantung selamanya di runner GitHub: 19 Agustus 2026 Promise.all di
+// bawah tidak pernah selesai, event loop kosong, dan Node keluar dengan kode
+// 13 "unsettled top-level await". Sebelum diparalelkan, cacat yang sama cuma
+// menyamar jadi "lambat" sampai jatah job habis.
+//
+// Sebuah pemantau tidak boleh punya jalur yang bisa menggantung tanpa batas.
+// Kalau ia menggantung, ia berhenti memantau tanpa mengabarkan apa pun, dan
+// diamnya tidak bisa dibedakan dari sehat.
+function berbatas(janji, ms, label) {
+  return new Promise((selesai, gagal) => {
+    const t = setTimeout(() => gagal(new Error('lewat batas ' + ms + 'ms: ' + label)), ms);
+    janji.then(
+      (v) => { clearTimeout(t); selesai(v); },
+      (e) => { clearTimeout(t); gagal(e); },
+    );
+  });
+}
+
+// Penjaga waktu terakhir. SENGAJA tidak di-unref: selama ia hidup, event loop
+// tidak pernah kosong, jadi Node tidak bisa keluar diam-diam dengan kode 13.
+// Kalaupun semua jalur lain gagal, yang terjadi adalah laporan, bukan diam.
+let penjagaWaktu = setTimeout(() => {
+  console.error('');
+  console.error('MACET: pemeriksaan tidak selesai dalam ' +
+    Math.round((TENGGAT_MS + 60000) / 1000) + ' detik. ' +
+    cocok + ' cocok, ' + bermasalah.length + ' bermasalah sejauh ini.');
+  console.error('Ini kegagalan alat, bukan tanda fotonya benar.');
+  process.exit(3);
+}, TENGGAT_MS + 60000);
 
 async function periksaSatu(a) {
   const berkasKita = path.join(ROOT, a.image);
@@ -166,10 +200,18 @@ async function pekerja() {
     const i = kursor++;
     if (i >= kandidat.length) return;
     if (Date.now() - mulai > TENGGAT_MS) { takSempat++; continue; }
-    await periksaSatu(kandidat[i]);
+    try {
+      await berbatas(periksaSatu(kandidat[i]), BATAS_SATU_MS, kandidat[i].slug);
+    } catch {
+      // Satu artikel yang menggantung atau gagal tidak boleh menghentikan
+      // pemeriksaan artikel lain. Dihitung sebagai tidak terperiksa, dan
+      // ambang separuh di bawah yang memutuskan apakah hasilnya layak dipercaya.
+      takTerperiksa++;
+    }
   }
 }
 await Promise.all(Array.from({ length: SERENTAK }, () => pekerja()));
+clearTimeout(penjagaWaktu);
 
 if (takSempat) {
   console.error('CATATAN: ' + takSempat + ' artikel TIDAK SEMPAT diperiksa, tenggat ' +

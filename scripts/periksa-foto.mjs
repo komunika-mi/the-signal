@@ -30,6 +30,16 @@ import { ROOT, log, readData, get, retry, cariFotoUtama, UA } from './lib.mjs';
 const IMG_DIR = path.join(ROOT, 'assets/img');
 const TMP = process.env.TEMP || process.env.TMPDIR || '/tmp';
 
+// Nama berkas sementara HARUS unik per panggilan, bukan cuma per proses.
+// Sebelumnya keduanya bernama PID, dan itu aman selama pemeriksaan berjalan
+// satu per satu. Begitu dijalankan berbarengan, dua artikel akan menulis dan
+// menghapus berkas yang sama, dan hasilnya bukan error melainkan sidik jari
+// milik gambar lain. Salah diam-diam, jenis kerusakan yang paling sulit
+// ketahuan.
+let nomorBerkas = 0;
+const berkasSementara = (awalan, akhiran) =>
+  path.join(TMP, awalan + '-' + process.pid + '-' + (++nomorBerkas) + akhiran);
+
 // Sidik jari perseptual: gambar dikecilkan ke 16x16 abu-abu, lalu tiap piksel
 // dibandingkan dengan rata-ratanya jadi 256 bit hitam-putih.
 //
@@ -38,7 +48,7 @@ const TMP = process.env.TEMP || process.env.TMPDIR || '/tmp';
 // server sumber meski gambarnya sama persis. MD5 akan melaporkan semuanya
 // berbeda dan penjaganya jadi tidak berguna.
 function sidikPersepsi(berkas) {
-  const keluar = path.join(TMP, 'sidik-' + process.pid + '.pgm');
+  const keluar = berkasSementara('sidik', '.pgm');
   try {
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', berkas,
       '-vf', 'scale=16:16,format=gray', '-frames:v', '1', keluar], { encoding: 'utf8' });
@@ -64,9 +74,9 @@ const jarak = (a, b) => {
 };
 
 function unduhSementara(url) {
-  const tujuan = path.join(TMP, 'periksa-' + process.pid + '.img');
+  const tujuan = berkasSementara('periksa', '.img');
   try {
-    execFileSync('curl', ['-sL', '--max-time', '30', '-A', UA, '-o', tujuan, url], { encoding: 'utf8' });
+    execFileSync('curl', ['-sL', '--max-time', '15', '-A', UA, '-o', tujuan, url], { encoding: 'utf8' });
     if (!fs.existsSync(tujuan) || fs.statSync(tujuan).size < 2000) return null;
     return tujuan;
   } catch { return null; }
@@ -94,20 +104,36 @@ log('memeriksa ' + kandidat.length + ' artikel berfoto sumber' +
   (semua ? ' (seluruh arsip)' : ' (terbaru)'));
 
 const bermasalah = [];
-let cocok = 0, takTerperiksa = 0;
+let cocok = 0, takTerperiksa = 0, takSempat = 0;
 
-for (const a of kandidat) {
+// Dijalankan berbarengan, dan dibatasi tenggat.
+//
+// Sebelumnya berurutan satu per satu, dan tiap artikel bisa menghabiskan 25
+// detik dua kali untuk halaman sumbernya plus 30 detik untuk gambarnya. Lima
+// belas artikel dengan sumber yang sedang lambat = 20 menit. Itu yang terjadi
+// 19 Agustus 2026: langkah ini makan 16,6 menit, menembus jatah job 12 menit,
+// dan menjatuhkan SELURUH pemantau termasuk pemeriksaan SEO yang tidak ada
+// hubungannya dengan foto.
+//
+// Tenggatnya BUKAN pengaman diam-diam. Yang tidak sempat diperiksa dihitung
+// dan dilaporkan tersendiri, supaya "tidak sempat ketahuan" tidak pernah
+// terbaca sebagai "tidak ada masalah".
+const SERENTAK = Number(process.env.PERIKSA_FOTO_SERENTAK || 4);
+const TENGGAT_MS = Number(process.env.PERIKSA_FOTO_TENGGAT_MS || 6 * 60 * 1000);
+const mulai = Date.now();
+
+async function periksaSatu(a) {
   const berkasKita = path.join(ROOT, a.image);
   if (!fs.existsSync(berkasKita)) {
     bermasalah.push({ slug: a.slug, sebab: 'berkas gambar tidak ada: ' + a.image });
-    continue;
+    return;
   }
 
   let fotoSumberKini = a.fotoSumber;
   try {
     // Halaman sumbernya diambil ULANG, bukan memakai fotoSumber tersimpan.
     // Kalau redaksi sumber mengganti fotonya, kita ingin tahu.
-    const html = await retry(() => get(a.sourceUrl, { timeout: 25000 }), 1);
+    const html = await retry(() => get(a.sourceUrl, { timeout: 12000 }), 1);
     const utama = cariFotoUtama(html, { asal: a.sourceUrl });
     if (utama) fotoSumberKini = utama;
   } catch {
@@ -115,13 +141,13 @@ for (const a of kandidat) {
   }
 
   const unduhan = unduhSementara(fotoSumberKini);
-  if (!unduhan) { takTerperiksa++; continue; }
+  if (!unduhan) { takTerperiksa++; return; }
 
   const sKita = sidikPersepsi(berkasKita);
   const sSumber = sidikPersepsi(unduhan);
   fs.rmSync(unduhan, { force: true });
 
-  if (!sKita || !sSumber) { takTerperiksa++; continue; }
+  if (!sKita || !sSumber) { takTerperiksa++; return; }
 
   const d = jarak(sKita, sSumber);
   if (d > AMBANG) {
@@ -134,8 +160,24 @@ for (const a of kandidat) {
   }
 }
 
+let kursor = 0;
+async function pekerja() {
+  for (;;) {
+    const i = kursor++;
+    if (i >= kandidat.length) return;
+    if (Date.now() - mulai > TENGGAT_MS) { takSempat++; continue; }
+    await periksaSatu(kandidat[i]);
+  }
+}
+await Promise.all(Array.from({ length: SERENTAK }, () => pekerja()));
+
+if (takSempat) {
+  console.error('CATATAN: ' + takSempat + ' artikel TIDAK SEMPAT diperiksa, tenggat ' +
+    Math.round(TENGGAT_MS / 1000) + ' detik habis lebih dulu. Itu bukan tanda fotonya benar.');
+}
 log('hasil: ' + cocok + ' cocok, ' + bermasalah.length + ' bermasalah, ' +
-  takTerperiksa + ' tidak bisa diperiksa');
+  takTerperiksa + ' tidak bisa diperiksa, ' + takSempat + ' tidak sempat' +
+  ' (' + Math.round((Date.now() - mulai) / 1000) + ' detik)');
 
 if (bermasalah.length) {
   console.error('');

@@ -79,6 +79,42 @@ jobs:
 
           echo
 
+      # Domain resmi IDX yang KEDUA, dan uji penentunya.
+      #
+      # www.idx.id menyajikan API yang sama persis (ResultCount identik dari
+      # mesin rumah), dan dari jaringan pusat data LAIN ia dilayani 200
+      # sementara idx.co.id dibalas 403. Tapi itu pusat data dengan reputasi
+      # ASN yang berbeda. Yang menentukan bagi kita cuma satu jaringan:
+      # runner GitHub. Inilah ujinya, dan sebelum ini dijalankan klaim
+      # "masalahnya selesai" belum berdiri sama sekali.
+      #
+      # Kehati-hatian yang harus ikut tercatat: sertifikat idx.id cuma DV
+      # (CN=idx.id, Google Trust Services), sedangkan idx.co.id OV dengan
+      # O=PT BURSA EFEK INDONESIA. Kepemilikan idx.id TIDAK terbukti dari
+      # sertifikatnya. Uji ini menjawab "bisa dijangkau?", bukan "layak
+      # disitir sebagai sumber di artikel?". Dua pertanyaan berbeda, dan yang
+      # kedua lebih penting bagi sebuah media.
+      - name: Uji domain kedua www.idx.id
+        if: always()
+        timeout-minutes: 6
+        run: |
+          set +e
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
+          Q='indexFrom=1&pageSize=3&dateFrom=&dateTo=&lang=id&keyword=&emitenType=*'
+          for H in www.idx.co.id www.idx.id; do
+            echo "===== $H ====="
+            KODE=$(curl -s -o /tmp/d.json -w '%{http_code}' --max-time 25 -A "$UA" -H 'Accept: application/json, text/plain, */*' "https://$H/primary/ListedCompany/GetAnnouncement?$Q")
+            echo "HTTP $KODE, $(wc -c < /tmp/d.json) byte"
+            head -c 110 /tmp/d.json; echo
+            node -e "try{const j=JSON.parse(require('fs').readFileSync('/tmp/d.json','utf8'));console.log('-> JSON. ResultCount='+j.ResultCount+' Replies='+(j.Replies||[]).length);}catch(e){console.log('-> BUKAN JSON, kemungkinan halaman tantangan');}"
+            echo
+          done
+          echo "===== sertifikat ====="
+          for H in www.idx.co.id www.idx.id; do
+            echo -n "$H  "
+            echo | openssl s_client -servername "$H" -connect "$H":443 2>/dev/null | openssl x509 -noout -subject 2>/dev/null
+          done
+          exit 0
       # poppler dipasang SESUDAH uji jangkauan, bukan sebelum.
       #
       # 19 Agustus 2026 urutannya terbalik dan `apt-get update` menghabiskan

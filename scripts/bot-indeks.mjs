@@ -104,6 +104,29 @@ export function tulisBotIndeks(ARTICLES) {
   const dir = path.join(ROOT, 'assets/data');
   fs.mkdirSync(dir, { recursive: true });
   const keluar = path.join(dir, 'bot-indeks.json');
-  fs.writeFileSync(keluar, JSON.stringify(data), 'utf8');
-  return { artikel: artikel.length, kb: Math.round(fs.statSync(keluar).size / 1024) };
+  // JANGAN tulis ulang kalau yang berubah cuma stempelnya.
+  //
+  // Medan 'dibuat' diisi waktu build, jadi berkas 541 KB ini ikut berubah
+  // pada SETIAP build meski isinya sama persis. Akibatnya tiap putaran
+  // pipeline menghasilkan commit yang tidak membawa perubahan apa pun,
+  // memicu deployment, dan menumpuk di riwayat git. Terlihat pada putaran
+  // ilustrasi 19 Agustus 2026: commit berisi satu berkas, dan satu-satunya
+  // barisnya yang berbeda adalah stempel waktunya sendiri.
+  //
+  // Kalau isinya tidak berubah, stempel lama DIPERTAHANKAN. Itu justru lebih
+  // jujur: ia menyebut kapan indeksnya terakhir benar-benar berubah, bukan
+  // kapan build terakhir kebetulan jalan.
+  const baru = JSON.stringify(data);
+  let tulis = true;
+  try {
+    const lama = JSON.parse(fs.readFileSync(keluar, 'utf8'));
+    const tanpaStempel = (x) => { const { dibuat, ...sisa } = x; return JSON.stringify(sisa); };
+    if (tanpaStempel(lama) === tanpaStempel(data)) tulis = false;
+  } catch { /* berkas belum ada atau rusak: tulis saja */ }
+  if (tulis) fs.writeFileSync(keluar, baru, 'utf8');
+  return {
+    artikel: artikel.length,
+    kb: Math.round(fs.statSync(keluar).size / 1024),
+    tetap: !tulis,
+  };
 }

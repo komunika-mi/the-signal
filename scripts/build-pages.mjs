@@ -395,7 +395,7 @@ function kartuFakta(a) {
     baris.push(['Jenis', 'Rangkuman redaksi']);
   }
 
-  baris.push(['Rubrik', '<a href="/berita.html#kat=' + catSlug(a.category) + '">' + esc(a.category) + '</a>']);
+  baris.push(['Rubrik', '<a href="/rubrik/' + catSlug(a.category) + '.html">' + esc(a.category) + '</a>']);
   baris.push(['Tanggal', esc(a.date)]);
 
   // Sentimen hanya ada pada aksi korporasi, dan penyebutannya harus tetap
@@ -426,7 +426,7 @@ function kartuFaktaVideo(v) {
     ['Kanal', 'tvOneNews'],
     ['Jenis', 'Tayangan video'],
     ['Program', esc(v.program)],
-    ['Rubrik', '<a href="/berita.html#kat=' + catSlug(v.category) + '">' + esc(v.category) + '</a>'],
+    ['Rubrik', '<a href="/rubrik/' + catSlug(v.category) + '.html">' + esc(v.category) + '</a>'],
   ];
   return '<aside class="hero-fakta">' +
     '<h4>Fakta Cepat</h4>' +
@@ -487,10 +487,10 @@ ${[].concat(o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="appl
         <a class="nav-link" href="/signal-harian.html">Signal Harian</a>
         <a class="nav-link" href="/signal-pekanan.html">Pekanan</a>
         <a class="nav-link" href="/berita.html">Semua Berita</a>
-        <a class="nav-link" href="/berita.html#kat=makroekonomi">Makro</a>
-        <a class="nav-link" href="/berita.html#kat=pasar-modal">Pasar Modal</a>
-        <a class="nav-link" href="/berita.html#kat=perbankan">Perbankan</a>
-        <a class="nav-link" href="/berita.html#kat=energi">Energi</a>
+        <a class="nav-link" href="/rubrik/makroekonomi.html">Makro</a>
+        <a class="nav-link" href="/rubrik/pasar-modal.html">Pasar Modal</a>
+        <a class="nav-link" href="/rubrik/perbankan.html">Perbankan</a>
+        <a class="nav-link" href="/rubrik/energi.html">Energi</a>
         <a class="nav-link" href="/data-ekonomi.html">Angka Ekonomi</a>
         <a class="nav-link" href="/agenda.html">Agenda</a>
         <a class="nav-link${o.navVideo ? ' active' : ''}" href="/video.html">Video</a>
@@ -534,10 +534,10 @@ const FOOT = `
       <div class="footer-col">
         <h4>Rubrik</h4>
         <ul>
-          <li><a href="/berita.html#kat=makroekonomi">Makroekonomi</a></li>
-          <li><a href="/berita.html#kat=pasar-modal">Pasar Modal</a></li>
-          <li><a href="/berita.html#kat=perbankan">Perbankan</a></li>
-          <li><a href="/berita.html#kat=energi">Energi</a></li>
+          <li><a href="/rubrik/makroekonomi.html">Makroekonomi</a></li>
+          <li><a href="/rubrik/pasar-modal.html">Pasar Modal</a></li>
+          <li><a href="/rubrik/perbankan.html">Perbankan</a></li>
+          <li><a href="/rubrik/energi.html">Energi</a></li>
         </ul>
       </div>
       <div class="footer-col">
@@ -681,15 +681,15 @@ ARTICLES.forEach(function (a) {
       '@context': 'https://schema.org', '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Beranda', item: BASE + '/' },
-        { '@type': 'ListItem', position: 2, name: plain(a.category), item: BASE + '/berita.html#kat=' + catSlug(a.category) },
+        { '@type': 'ListItem', position: 2, name: plain(a.category), item: BASE + '/rubrik/' + catSlug(a.category) + '.html' },
         { '@type': 'ListItem', position: 3, name: plain(a.title) },
       ],
     },
   }) +
-    `<div class="rail breadcrumb"><a href="/">Beranda</a> &rsaquo; <a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
+    `<div class="rail breadcrumb"><a href="/">Beranda</a> &rsaquo; <a href="/rubrik/${catSlug(a.category)}.html">${esc(a.category)}</a> &rsaquo; Artikel</div>` +
     `<section class="rail article-hero">` +
     `<div class="hero-teks">` +
-    `<span class="eyebrow"><a href="/berita.html#kat=${catSlug(a.category)}">${esc(a.category)}</a></span>` +
+    `<span class="eyebrow"><a href="/rubrik/${catSlug(a.category)}.html">${esc(a.category)}</a></span>` +
     `<h1 class="article-title">${hl(a.title)}</h1>` +
     `<p class="article-deck">${esc(a.deck)}</p>` +
     `<div class="hero-meta" style="border-top:none;padding-top:0;margin-top:1rem;">` +
@@ -1612,6 +1612,54 @@ function periksaHalamanRoot() {
 }
 periksaHalamanRoot();
 
+// ---------- halaman rubrik ----------
+//
+// Sebelumnya ketiga belas rubrik cuma fragmen "#kat=" di atas satu halaman
+// yang sama. Fragmen bukan URL: Google tidak mengindeksnya terpisah, dan
+// penyaringnya jalan di JS, jadi mesin jawab yang menjelajah lewat tautan
+// tidak pernah melihat daftar per rubrik. Ditaruh di bawah "/rubrik/",
+// bukan "/berita/", supaya tidak berebut ruang nama dengan slug artikel.
+fs.mkdirSync(ROOT + '/rubrik', { recursive: true });
+const DAFTAR_RUBRIK = (() => {
+  const m = new Map();
+  for (const a of ARTICLES) {
+    const k = a.category || 'Lainnya';
+    if (!m.has(k)) m.set(k, []);
+    m.get(k).push(a);
+  }
+  return [...m.entries()].sort((x, y) => y[1].length - x[1].length);
+})();
+for (const [nama, arts] of DAFTAR_RUBRIK) {
+  const slug = catSlug(nama);
+  const isi =
+    `<section class="rail" style="padding-top:2.2rem;">` +
+    `<div class="harian-head">` +
+    `<span class="harian-kicker">Rubrik</span>` +
+    `<h1 class="harian-judul">${esc(nama)}</h1>` +
+    `<p class="harian-tanggal num">${arts.length} artikel &middot; terakhir ${esc(arts[0].date || '')}</p>` +
+    `</div>` +
+    `<div class="linimasa">${arts.map(a => itemLinimasa(a)).join('')}</div>` +
+    `<p class="harian-ringkas" style="margin-top:2rem;">` +
+    `<a href="/berita.html">Seluruh arsip ${ARTICLES.length} artikel &rarr;</a></p>` +
+    `</section>`;
+  fs.writeFileSync(path.join(ROOT, 'rubrik', slug + '.html'),
+    head({
+      title: nama,
+      desc: 'Semua artikel rubrik ' + nama + ' di The Signal: ' + arts.length +
+        ' artikel, terakhir ' + (arts[0].date || '') + '.',
+      url: '/rubrik/' + slug + '.html',
+      image: BASE + '/assets/img/og-card.jpg',
+      imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama, url: '/rubrik/' + slug + '.html',
+        deskripsi: 'Artikel rubrik ' + nama + ' di The Signal.',
+        item: arts.map(a => ({ nama: plain(a.title), url: articleUrl(a) })),
+      }),
+    }) + isi + FOOT, 'utf8');
+}
+console.log('halaman rubrik:', DAFTAR_RUBRIK.length, 'rubrik,',
+  DAFTAR_RUBRIK.reduce((n, r) => n + r[1].length, 0), 'artikel tertaut');
+
 // ---------- sitemap ----------
 // lastmod memberi tahu mesin pencari halaman mana yang layak dirayapi ulang.
 // Halaman root berganti isi tiap build (daftar berita, angka pasar dan BPS),
@@ -1630,7 +1678,9 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
   .concat(DAFTAR_EMITEN.map(([k, arts]) =>
     ({ loc: '/emiten/' + k + '.html', lastmod: String(arts[0].isoDate || '').slice(0, 10) })))
   .concat(KELOMPOK_TEMA.map(t =>
-    ({ loc: '/tema/' + t.slug + '.html', lastmod: String(t.artikel[0].isoDate || '').slice(0, 10) })));
+    ({ loc: '/tema/' + t.slug + '.html', lastmod: String(t.artikel[0].isoDate || '').slice(0, 10) })))
+  .concat(DAFTAR_RUBRIK.map(([n, arts]) =>
+    ({ loc: '/rubrik/' + catSlug(n) + '.html', lastmod: String(arts[0].isoDate || '').slice(0, 10) })));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +

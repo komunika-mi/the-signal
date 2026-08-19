@@ -56,10 +56,10 @@ gtag('config', 'G-5G4FZ823K9', { anonymize_ip: true, allow_google_signals: false
         <a class="nav-link" href="signal-harian.html">Signal Harian</a>
         <a class="nav-link" href="signal-pekanan.html">Pekanan</a>
         <a class="nav-link active" href="berita.html">Semua Berita</a>
-        <a class="nav-link" href="berita.html#kat=makroekonomi">Makro</a>
-        <a class="nav-link" href="berita.html#kat=pasar-modal">Pasar Modal</a>
-        <a class="nav-link" href="berita.html#kat=perbankan">Perbankan</a>
-        <a class="nav-link" href="berita.html#kat=energi">Energi</a>
+        <a class="nav-link" href="/rubrik/makroekonomi.html">Makro</a>
+        <a class="nav-link" href="/rubrik/pasar-modal.html">Pasar Modal</a>
+        <a class="nav-link" href="/rubrik/perbankan.html">Perbankan</a>
+        <a class="nav-link" href="/rubrik/energi.html">Energi</a>
         <a class="nav-link" href="data-ekonomi.html">Angka Ekonomi</a>
         <a class="nav-link" href="agenda.html">Agenda</a>
         <a class="nav-link" href="video.html">Video</a>
@@ -215,7 +215,7 @@ gtag('config', 'G-5G4FZ823K9', { anonymize_ip: true, allow_google_signals: false
     }).join('');
 
   document.getElementById('footer-cats').innerHTML = cats.slice(0, 5).map(function (c) {
-    return '<li><a href="berita.html#kat=' + TS.catSlug(c) + '">' + TS.esc(c) + '</a></li>';
+    return '<li><a href="/rubrik/' + TS.catSlug(c) + '.html">' + TS.esc(c) + '</a></li>';
   }).join('');
 
   function filtered() {

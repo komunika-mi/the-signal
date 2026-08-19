@@ -399,7 +399,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   idx = ganti(idx, 'market', market.map(kartuCerita).join(''), 'index.html');
   idx = ganti(idx, 'bisnis', biz.map(kartuCerita).join(''), 'index.html');
   idx = ganti(idx, 'katalog', Object.keys(counts).sort((x, y) => counts[y] - counts[x]).map(c =>
-    '<a class="compact-row" href="berita.html#kat=' + catSlug(c) + '">' +
+    '<a class="compact-row" href="/rubrik/' + catSlug(c) + '.html">' +
     '<span class="compact-body"><span class="compact-title">' + esc(c) + '</span>' +
     '<span class="compact-meta">' + counts[c] + ' artikel</span></span></a>').join(''), 'index.html');
 

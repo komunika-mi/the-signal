@@ -591,21 +591,41 @@ let _petaEmiten = null;
 const CACHE_EMITEN = path.join(ROOT, 'assets/data/emiten.json');
 const UMUR_CACHE = 7 * 86400 * 1000;   // segarkan seminggu sekali
 
+// Bentuk berkasnya: {diambil: '<ISO>', peta: {KODE: 'Nama', ...}}.
+//
+// Dulu kesegaran diukur dari mtime berkas, dan itu SELALU salah di GitHub
+// Actions: actions/checkout menuliskan ulang seluruh repo tiap job, jadi
+// mtime-nya selalu beberapa detik yang lalu. Cache karena itu selamanya
+// terlihat segar di runner, dan panggilan ke IDX tidak pernah terjadi di sana.
+// Terlihat di log run 19 Agustus 2026: "peta emiten: 962 nama dari cache",
+// tiap kali, di mesin yang justru paling butuh menyegarkannya.
+//
+// Bentuk lama (peta datar tanpa stempel) tetap dibaca, dan langsung dianggap
+// kedaluwarsa supaya sekali jalan ia tergantikan sendiri.
+function bacaCacheEmiten() {
+  try {
+    const mentah = JSON.parse(fs.readFileSync(CACHE_EMITEN, 'utf8'));
+    if (mentah && typeof mentah === 'object' && mentah.peta) {
+      return { peta: mentah.peta, diambil: Date.parse(mentah.diambil) || 0 };
+    }
+    return { peta: mentah || {}, diambil: 0 };   // bentuk lama: paksa segarkan
+  } catch { return { peta: {}, diambil: 0 }; }
+}
+
 export async function ambilPetaEmiten() {
   if (_petaEmiten) return _petaEmiten;
 
-  // 1. pakai cache kalau masih segar
-  try {
-    if (fs.existsSync(CACHE_EMITEN)) {
-      const stat = fs.statSync(CACHE_EMITEN);
-      const isi = JSON.parse(fs.readFileSync(CACHE_EMITEN, 'utf8'));
-      if (Date.now() - stat.mtimeMs < UMUR_CACHE && Object.keys(isi).length > 100) {
-        _petaEmiten = isi;
-        log('peta emiten: ' + Object.keys(isi).length + ' nama dari cache');
-        return _petaEmiten;
-      }
+  // 1. pakai cache kalau masih segar, diukur dari stempel DI DALAM berkasnya
+  if (fs.existsSync(CACHE_EMITEN)) {
+    const { peta, diambil } = bacaCacheEmiten();
+    const umur = Date.now() - diambil;
+    if (diambil && umur < UMUR_CACHE && Object.keys(peta).length > 100) {
+      _petaEmiten = peta;
+      log('peta emiten: ' + Object.keys(peta).length + ' nama dari cache (umur ' +
+        Math.round(umur / 86400000) + ' hari)');
+      return _petaEmiten;
     }
-  } catch {}
+  }
 
   // 2. ambil dari IDX
   const url = HOST_AMBIL + '/primary/ListedCompany/GetCompanyProfiles' +
@@ -621,7 +641,8 @@ export async function ambilPetaEmiten() {
     }
     if (Object.keys(peta).length < 100) throw new Error('hasil terlalu sedikit');
     fs.mkdirSync(path.dirname(CACHE_EMITEN), { recursive: true });
-    fs.writeFileSync(CACHE_EMITEN, JSON.stringify(peta), "utf8");
+    fs.writeFileSync(CACHE_EMITEN,
+      JSON.stringify({ diambil: new Date().toISOString(), peta }), "utf8");
     _petaEmiten = peta;
     log('peta emiten: ' + Object.keys(peta).length + ' nama dimuat dari IDX');
     return peta;

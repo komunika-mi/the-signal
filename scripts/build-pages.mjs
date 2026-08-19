@@ -114,6 +114,8 @@ const NAMA_EMITEN = (() => {
   let mentah = {};
   try { mentah = JSON.parse(fs.readFileSync(path.join(ROOT, 'assets/data/emiten.json'), 'utf8')); }
   catch { return new Map(); }
+  // Berkasnya kini {diambil, peta}; bentuk datar yang lama tetap dibaca.
+  if (mentah && mentah.peta) mentah = mentah.peta;
   const rapi = (n) => String(n || '')
     .replace(/\s+/g, ' ')
     .replace(/\bTbk\.?(\s+Tbk\.?)+$/i, 'Tbk')   // "... Tbk  Tbk" muncul di cache

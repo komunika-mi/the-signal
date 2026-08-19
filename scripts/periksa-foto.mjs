@@ -319,6 +319,51 @@ if (bermasalah.length) {
   process.exit(2);
 }
 
+// SISA KOLAM GAMBAR.
+//
+// Artikel IDX tidak punya foto sumber, cuma PDF, jadi ia butuh ilustrasi
+// yang dibuat sendiri. Pembuatnya CLI higgsfield yang cuma ada di komputer
+// rumah, sementara pipeline-nya kini jalan di server. Artikel yang lahir di
+// server karena itu mengambil dari kolam gambar bertema yang jumlahnya
+// terbatas.
+//
+// Begitu kolam habis, pasangFoto() mulai MEMAKSA pengulangan. Foto yang
+// berulang tidak boleh terjadi di situs ini, jadi yang perlu diketahui
+// bukan saat kolamnya habis melainkan JAUH SEBELUM itu, selagi masih sempat
+// dijalankan scripts/jalankan-foto.ps1 dari rumah.
+//
+// Diperiksa di sini, bukan di skrip tersendiri, karena inilah penjaga foto
+// dan ia sudah jalan tiga kali sehari di server.
+const AMBANG_KOLAM = Number(process.env.PERIKSA_FOTO_AMBANG_KOLAM || 60);
+{
+  const semuaArtikel = readData('articles.js', 'ARTICLES');
+  const dipakai = new Set(semuaArtikel.map(x => x.image).filter(Boolean));
+  let kolam = [];
+  try {
+    kolam = fs.readdirSync(IMG_DIR)
+      .filter(f => /\.jpe?g$/i.test(f) && f !== 'og-card.jpg')
+      .map(f => 'assets/img/' + f)
+      .filter(f => !dipakai.has(f));
+  } catch { kolam = []; }
+
+  const tanpaFotoSendiri = semuaArtikel.filter(
+    x => x.slug && x.image !== 'assets/img/' + x.slug + '.jpg').length;
+
+  log('kolam gambar: ' + kolam.length + ' belum terpakai, ' +
+    tanpaFotoSendiri + ' artikel belum punya ilustrasi sendiri');
+
+  if (kolam.length < AMBANG_KOLAM) {
+    console.error('');
+    console.error('KOLAM GAMBAR MENIPIS: tinggal ' + kolam.length +
+      ' gambar belum terpakai, di bawah ambang ' + AMBANG_KOLAM + '.');
+    console.error('Begitu habis, artikel baru akan MEMAKAI ULANG foto artikel lain.');
+    console.error('Isi ulang dari komputer rumah:');
+    console.error('  powershell -File scripts/jalankan-foto.ps1');
+    console.error('atau langsung: node scripts/foto-artikel.mjs 60');
+    console.error('');
+    process.exit(4);
+  }
+}
 // Ditutup EKSPLISIT. Tanpa ini proses menunggu event loop kosong, dan
 // pekerjaan yatim yang belum selesai masih sempat mencetak temuannya
 // sesudah laporan, atau justru menahan proses tanpa alasan.

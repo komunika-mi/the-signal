@@ -1,6 +1,7 @@
 // Utilitas bersama untuk semua script pipeline The Signal.
 import fs from 'node:fs';
 import path from 'node:path';
+import os from 'node:os';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { execFileSync } from 'node:child_process';
 
@@ -387,7 +388,10 @@ export function getViaCurl(url, { timeout = 30 } = {}) {
     '-s',
     '-H', 'Accept: application/json, text/plain, */*',
     '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
-    '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+    // Referer diturunkan dari sasaran, bukan dipaku. Mengirim Referer
+    // idx.co.id sambil mengambil idx.id itu tidak konsisten, dan justru
+    // jenis ketidakcocokan yang diperiksa penyaring bot.
+    '-H', 'Referer: ' + asalDari(url) + '/id/perusahaan-tercatat/keterbukaan-informasi/',
   ]);
   // Status disebut dalam pesannya, karena "403" dan "500" menuntut tindakan
   // yang berbeda: yang satu soal siapa kita di mata server, yang satu soal
@@ -405,24 +409,44 @@ export function getJSONViaCurl(url, opts) { return JSON.parse(getViaCurl(url, op
 // rumahan: dari lokal 10/10 berhasil, dari runner langsung dibalas halaman
 // HTML. Strategi bertingkat di bawah ini mencoba beberapa cara sebelum
 // menyerah, karena kalau gagal semua maka kanal IDX berhenti total.
-const COOKIE_JAR = '/tmp/idx-cookies.txt';
+// Cookie jar PER HOST, dan di direktori sementara yang benar-benar ada.
+//
+// '/tmp' hardcoded tidak sah di Windows: curl menuliskannya ke akar drive
+// yang sedang aktif. Dan satu jar untuk semua host membuat cookie idx.co.id
+// mengotori sesi idx.id, dua domain yang bagi Cloudflare sama sekali berbeda.
+const jarCookie = (asal) =>
+  path.join(os.tmpdir(), 'idx-cookies-' +
+    String(asal).replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '') + '.txt');
+
+// Asal (skema + host) dari URL sasaran. Semua yang berbau host di bawah
+// diturunkan dari sini, bukan dari tetapan.
+//
+// Sejak pengambilan pindah ke www.idx.id, pemanasan sesi yang menembak
+// www.idx.co.id menjadi mubazir sekaligus menyesatkan: cookie yang didapat
+// berada di domain yang BUKAN domain yang diambil, jadi tangga percobaan ulang
+// ambilIDX mengulang lima kali tanpa pernah membawa apa pun yang berguna.
+const asalDari = (url) => {
+  try { return new URL(url).origin; } catch { return 'https://www.idx.co.id'; }
+};
 
 function curlMentah(url, extra = []) {
+  const asal = asalDari(url);
   return execFileSync('curl', [
     '-s', '-L', '--compressed', '--max-time', '40',
     '-A', UA,
     '-H', 'Accept: application/json, text/plain, */*',
     '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
-    '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
-    '-c', COOKIE_JAR, '-b', COOKIE_JAR,
+    '-H', 'Referer: ' + asal + '/id/perusahaan-tercatat/keterbukaan-informasi/',
+    '-c', jarCookie(asal), '-b', jarCookie(asal),
     ...extra, url,
   ], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 });
 }
 
 // Kunjungi dulu halaman biasa supaya dapat cookie sesi, seperti browser.
-function panaskanSesi() {
+// Halaman yang dikunjungi berada di HOST YANG SAMA dengan yang akan diambil.
+function panaskanSesi(url) {
   try {
-    curlMentah('https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
+    curlMentah(asalDari(url) + '/id/perusahaan-tercatat/keterbukaan-informasi/',
       ['-H', 'Accept: text/html,application/xhtml+xml']);
     return true;
   } catch { return false; }
@@ -450,7 +474,7 @@ export async function ambilIDX(url, {
   let terakhir = '';
   for (let i = 0; i < percobaan; i++) {
     // mulai percobaan kedua, panaskan sesi dulu
-    if (i > 0) { panaskanSesi(); await new Promise(r => setTimeout(r, 2000 * i)); }
+    if (i > 0) { panaskanSesi(url); await new Promise(r => setTimeout(r, 2000 * i)); }
     try {
       const teks = curlMentah(url);
       if (teks && teks.trimStart().startsWith('{')) {

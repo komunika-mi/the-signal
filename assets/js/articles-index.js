@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
+  "category": "Pasar Modal",
+  "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
+  "deck": "Manajemen BYAN menegaskan tidak mengetahui rencana Haji Isam mengambil alih 62,2 persen saham perseroan, di tengah lonjakan saham-saham terafiliasi Jhonlin Group.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan.jpg",
+  "imageV": "msznq5g3",
+  "tags": [
+   "Bayan Resources",
+   "BYAN",
+   "Haji Isam",
+   "Jhonlin Group"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460995-bayan-resources-bantah-isu-haji-isam-bakal-ambil-alih-622-persen-saham-byan"
+ },
+ {
+  "slug": "ihsg-tertekan-0-65-persen-saham-bank-justru-menguat",
+  "category": "Pasar Modal",
+  "title": "IHSG [Tertekan] 0,65 Persen, Saham Bank Justru Menguat",
+  "deck": "IHSG dibuka turun ke 6.408,18 pada Rabu pagi, sementara sejumlah saham bank di LQ45 justru menguat di tengah tekanan jual yang masih terasa.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/sekuritas-lobi-pagi.jpg",
+  "tags": [
+   "IHSG",
+   "Saham Bank",
+   "LQ45",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat"
+ },
+ {
   "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
   "category": "Makroekonomi",
   "title": "RAPBN 2027 Bidik Pertumbuhan Ekonomi [6 Persen]",

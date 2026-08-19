@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
+  "category": "Pasar Modal",
+  "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
+  "deck": "Manajemen BYAN menegaskan tidak mengetahui rencana Haji Isam mengambil alih 62,2 persen saham perseroan, di tengah lonjakan saham-saham terafiliasi Jhonlin Group.",
+  "image": "assets/img/bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T11:56:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460995-bayan-resources-bantah-isu-haji-isam-bakal-ambil-alih-622-persen-saham-byan",
+  "tags": [
+   "Bayan Resources",
+   "BYAN",
+   "Haji Isam",
+   "Jhonlin Group"
+  ],
+  "body": [
+   "PT Bayan Resources Tbk (BYAN) membantah kabar yang menyebut Jhonlin Group milik pengusaha Andi Syamsuddin Arsyad, yang dikenal sebagai Haji Isam, akan mengambil alih sekitar 62,2 persen saham perseroan. Bantahan ini penting karena BYAN adalah salah satu emiten batu bara dengan kapitalisasi besar di bursa, sehingga kabar pengambilalihan sebesar itu berpotensi menggerakkan harga sahamnya maupun saham-saham lain yang dikaitkan dengan Haji Isam.",
+   "Klarifikasi disampaikan Corporate Secretary Bayan Resources, Jenny Quantero, pada Rabu, 19 Agustus 2026, sebagaimana dilansir dari Investor Daily. Jenny menegaskan perseroan tidak mengetahui adanya rencana transaksi pengambilalihan atau akuisisi saham BYAN oleh Haji Isam maupun pihak yang terafiliasi dengannya. Meski begitu, ia menyebut pemegang saham pengendali BYAN, yang dikuasai Low Tuck Kwong, tetap terbuka terhadap berbagai peluang untuk mengoptimalkan nilai investasi mereka.",
+   "Rumor pengambilalihan saham BYAN ini muncul bersamaan dengan pergerakan agresif sejumlah saham yang dikaitkan dengan ekosistem bisnis Haji Isam, yaitu PT Jhonlin Agro Raya Tbk (JARR), PT Dana Brata Luhur Tbk (TEBE), PT Pradiksi Gunatama Tbk (PGUN), dan PT Fast Food Indonesia Tbk (FAST). Kenaikan harga saham-saham tersebut ikut menjadi perhatian pelaku pasar di tengah beredarnya spekulasi soal kemungkinan transaksi terhadap saham BYAN.",
+   "Pengamat pasar modal Hendra Wardana menilai penguatan saham-saham itu mencerminkan tingginya perhatian pasar terhadap isu ini. Ia mengingatkan investor untuk tetap mencermati kondisi fundamental, valuasi, dan analisis teknikal masing-masing saham sebelum mengambil keputusan investasi."
+  ],
+  "fotoAdegan": "Aerial view of a coal mining pit in Kalimantan with haul trucks moving along terraced roads, dusty daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/24/67bc437f601bb-haji-isam-pemilik-pt-jhonlin-group_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan fakta akuisisi, melainkan bantahan resmi manajemen BYAN atas rumor pengambilalihan 62,2 persen sahamnya oleh kelompok usaha Haji Isam. Pihak yang langsung terdampak adalah investor BYAN sendiri, serta pemegang saham empat emiten lain yang ikut naik karena dikaitkan dengan Haji Isam, yaitu JARR, TEBE, PGUN, dan FAST. Buktinya masih terbelah, manajemen tegas bilang tidak tahu rencana itu, tapi kalimat lain dari mereka menyebut pemegang saham pengendali tetap terbuka pada peluang menambah nilai investasi, sehingga pintunya tidak sepenuhnya tertutup. Kalau rumor ini memang tidak berdasar, kenaikan saham-saham terafiliasi tadi wajarnya mereda dalam beberapa hari ke depan. Tapi kalau ada pembicaraan transaksi yang belum matang untuk diumumkan, tandanya akan muncul lewat laporan resmi ke bursa dari BYAN atau saham-saham terafiliasi itu, itu yang perlu ditunggu.",
+  "imageV": "msznq5g3"
+ },
+ {
+  "slug": "ihsg-tertekan-0-65-persen-saham-bank-justru-menguat",
+  "category": "Pasar Modal",
+  "title": "IHSG [Tertekan] 0,65 Persen, Saham Bank Justru Menguat",
+  "deck": "IHSG dibuka turun ke 6.408,18 pada Rabu pagi, sementara sejumlah saham bank di LQ45 justru menguat di tengah tekanan jual yang masih terasa.",
+  "image": "assets/img/sekuritas-lobi-pagi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T11:36:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat",
+  "tags": [
+   "IHSG",
+   "Saham Bank",
+   "LQ45",
+   "BEI"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka melemah 0,65 persen atau 41,56 poin ke level 6.408,18 pada perdagangan Rabu pagi (19/8/2026), turun dari penutupan sebelumnya di 6.449,83. Pada pukul 09.00 WIB, indeks sempat bergerak di kisaran 6.403,83 hingga 6.414,89.",
+   "Meski indeks melemah, aktivitas jual beli di awal sesi tetap ramai. Volume transaksi tercatat 707,1 miliar saham dengan nilai Rp287,5 triliun dan frekuensi 63,16 juta kali transaksi, sementara kapitalisasi pasar Bursa Efek Indonesia mencapai Rp11.253 triliun. Dari seluruh saham yang diperdagangkan, 187 saham menguat, 203 saham melemah, dan 573 saham lainnya belum berubah harga, menandakan tekanan jual masih terasa di pasar.",
+   "Sejumlah indeks acuan lain ikut melemah pada awal perdagangan. LQ45 turun tipis 0,02 persen ke 630,88, KOMPAS100 turun 0,17 persen ke 829,30, indeks saham syariah ISSI turun cukup dalam 1,45 persen ke 223,84, dan Jakarta Islamic Index melemah 0,36 persen ke 382,72. Namun IDX30, yang berisi saham-saham berkapitalisasi besar, justru naik tipis 0,01 persen ke 351,51.",
+   "Di tengah pelemahan IHSG, saham-saham unggulan yang masuk indeks LQ45 bergerak bervariasi. Sejumlah saham perbankan tercatat menguat, berbeda arah dengan mayoritas saham lain yang masih tertekan di awal perdagangan."
+  ],
+  "fotoAdegan": "Exterior view of a bank branch tower in Jakarta's financial district, morning light, pedestrians walking on the sidewalk below",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah pagi ini adalah IHSG dibuka turun 0,65 persen ke 6.408, tapi arah pasarnya belum satu arah. Mayoritas saham yang diperdagangkan justru melemah, 203 turun berbanding 187 naik, sementara indeks IDX30 yang isinya emiten-emiten besar termasuk bank malah naik tipis. Pihak yang langsung diuntungkan dalam kondisi ini adalah pemegang saham bank besar, karena harga sahamnya bergerak berlawanan dengan tren indeks harian. Ada dua kemungkinan dari sini, kalau tekanan jual di saham kecil dan menengah berlanjut, IHSG bisa ditutup melemah lebih dalam sore ini, tapi kalau penguatan saham bank menarik minat beli ke saham besar lainnya, indeks bisa berbalik naik meski breadth pasar masih negatif. Ini akan ketahuan dari penutupan perdagangan sore ini, Rabu 19 Agustus 2026 pukul 16.00 WIB.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
   "category": "Makroekonomi",
   "title": "RAPBN 2027 Bidik Pertumbuhan Ekonomi [6 Persen]",

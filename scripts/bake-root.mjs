@@ -26,6 +26,7 @@ import { fileURLToPath } from 'node:url';
 import { nilaiRingkas } from './bps-grafik.mjs';
 import { kepalaAnalitik } from './analitik.mjs';
 import { SITUS as BASE } from './situs.mjs';
+import { NODE_IDENTITAS, halamanKoleksi } from './identitas.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -315,60 +316,11 @@ function blokAgenda(AGENDA) {
 }
 
 
-// Identitas penerbit, hanya di beranda.
-//
-// Dipakai NewsMediaOrganization, bukan Organization biasa, karena tipe itu
-// menyediakan properti yang justru paling menentukan bagi media: kebijakan
-// ralat, prinsip penerbitan, dan kebijakan etik. Ketiganya BUKAN klaim
-// kosong di sini, halamannya benar-benar ada dan isinya ditegakkan.
-//
-// Inilah yang dibaca mesin pencari untuk membentuk panel pengetahuan, dan
-// yang dibaca mesin jawab untuk memutuskan apakah sebuah situs layak
-// dikutip sebagai sumber atau cuma salah satu halaman di internet.
-//
-// SearchAction sengaja TIDAK dipasang. Kotak pencarian di situs ini bekerja
-// di sisi klien tanpa alamat hasil pencarian, jadi templat URL apa pun yang
-// dituliskan akan bohong. Data terstruktur yang salah lebih merugikan
-// daripada data terstruktur yang tidak ada.
-function jsonLdSitus() {
-  const org = {
-    '@context': 'https://schema.org',
-    '@type': 'NewsMediaOrganization',
-    '@id': BASE + '/#organisasi',
-    name: 'The Signal',
-    alternateName: 'The Signal Indonesia',
-    url: BASE + '/',
-    logo: {
-      '@type': 'ImageObject',
-      url: BASE + '/assets/img/icon-512.png',
-      width: 512, height: 512,
-    },
-    description: 'Media ekonomi Indonesia yang membaca arah kebijakan dan aksi ' +
-      'korporasi dari dokumen resmi. Kolaborasi editorial dengan tvOneNews.',
-    inLanguage: 'id-ID',
-    email: 'komunika.mi@gmail.com',
-    sameAs: [
-      'https://t.me/thesignalid',
-      'https://buttondown.com/the-signal',
-    ],
-    correctionsPolicy: BASE + '/pedoman-media-siber.html',
-    publishingPrinciples: BASE + '/pedoman-media-siber.html',
-    ethicsPolicy: BASE + '/pedoman-media-siber.html',
-    verificationFactCheckingPolicy: BASE + '/pedoman-media-siber.html',
-    parentOrganization: {
-      '@type': 'Organization', name: 'adsmediamix.id', url: 'https://adsmediamix.id',
-    },
-  };
-  const situs = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    '@id': BASE + '/#situs',
-    name: 'The Signal',
-    url: BASE + '/',
-    inLanguage: 'id-ID',
-    publisher: { '@id': BASE + '/#organisasi' },
-  };
-  return [org, situs]
+// Identitas penerbit. Definisinya pindah ke scripts/identitas.mjs supaya
+// node yang sama ikut tercetak di seluruh halaman, bukan cuma beranda;
+// halaman emiten sudah menunjuk @id-nya sejak lama tanpa nodenya hadir.
+function jsonLdSitus(...tambahan) {
+  return NODE_IDENTITAS.concat(tambahan)
     .map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>')
     .join(String.fromCharCode(10));
 }
@@ -445,6 +397,15 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
     cats.map(c => '<button class="chip" data-cat="' + catSlug(c) + '" type="button">' + esc(c) +
       '<span class="chip-count">' + counts[c] + '</span></button>').join(''), 'berita.html');
   brt = ganti(brt, 'kepala', kepalaAnalitik(), 'berita.html');
+  brt = ganti(brt, 'situs', jsonLdSitus(halamanKoleksi({
+    nama: 'Arsip Berita', url: '/berita.html',
+    deskripsi: 'Seluruh ' + ARTICLES.length + ' artikel The Signal, terbaru lebih dulu.',
+    // 200 terbaru saja, bukan seluruh 400: HTML halaman ini sudah memuat
+    // keempat ratus tautannya, jadi ItemList di sini cuma pelengkap dan tidak
+    // sepadan dengan tambahan puluhan KB. Dipotong sadar di sini, bukan
+    // diserahkan ke batas bawaan halamanKoleksi().
+    item: ARTICLES.slice(0, 200).map(a => ({ nama: plain(a.title), url: urlArtikel(a) })),
+  })), 'berita.html');
   brt = ganti(brt, 'grid', ARTICLES.slice(0, 12).map(kartuCerita).join(''), 'berita.html');
 
   // INDEKS LENGKAP, dipanggang ke HTML.
@@ -474,6 +435,11 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   const pVideo = path.join(ROOT, 'video.html');
   let vid = fs.readFileSync(pVideo, 'utf8');
   vid = ganti(vid, 'kepala', kepalaAnalitik(), 'video.html');
+  vid = ganti(vid, 'situs', jsonLdSitus(halamanKoleksi({
+    nama: 'Tayangan', url: '/video.html',
+    deskripsi: VIDEOS.length + ' tayangan pilihan yang dibaca The Signal.',
+    item: VIDEOS.map(v => ({ nama: plain(v.title), url: urlVideo(v) })),
+  })), 'video.html');
   // Wadah #video-grid sebelumnya KOSONG di HTML dan baru diisi JavaScript,
   // jadi tidak satu pun dari dua belas halaman tayangan punya tautan masuk
   // yang bisa dirayapi. Isinya dipanggang sekarang; JavaScript boleh menimpanya

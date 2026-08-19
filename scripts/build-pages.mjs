@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
+import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi } from './identitas.mjs';
 
 function muat(file) {
   const src = fs.readFileSync(path.join(ROOT, 'assets/js', file), 'utf8');
@@ -205,31 +206,6 @@ function ukuranGambar(relatif) {
   return hasil;
 }
 
-// Data terstruktur untuk halaman rujukan yang isinya daftar tertaut.
-//
-// Lima halaman ini, angka ekonomi sampai rapor, sebelumnya NOL blok ld+json,
-// padahal justru merekalah yang paling mungkin dikutip mesin jawab: isinya
-// tabel angka, kalender tanggal, dan rekam jejak, bukan narasi. Yang dipakai
-// CollectionPage dengan ItemList berisi tautan nyata, bukan tipe yang
-// kedengaran mewah tapi medannya diisi karangan.
-function halamanKoleksi({ nama, deskripsi, url, item }) {
-  const daftar = (item || []).filter(x => x && x.url).slice(0, 200);
-  const j = {
-    '@context': 'https://schema.org', '@type': 'CollectionPage',
-    name: nama, description: deskripsi, url: BASE + url, inLanguage: 'id-ID',
-    isPartOf: { '@type': 'WebSite', url: BASE + '/' },
-    publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
-  };
-  if (daftar.length) {
-    j.mainEntity = {
-      '@type': 'ItemList', numberOfItems: daftar.length,
-      itemListElement: daftar.map((x, i) => ({
-        '@type': 'ListItem', position: i + 1, name: x.nama, url: BASE + x.url,
-      })),
-    };
-  }
-  return j;
-}
 
 function waktuISO(iso) {
   const s = String(iso == null ? '' : iso).trim();
@@ -468,7 +444,7 @@ ${kepalaAnalitik()}
 <meta name="twitter:description" content="${esc(bagikanDenganKredit(o.desc))}">
 <meta name="twitter:image" content="${o.image}">
 <link rel="stylesheet" href="/assets/css/style.css?v=${VER}">
-${[].concat(o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>').join('')}
+${[].concat(NODE_IDENTITAS, o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>').join('')}
 </head>
 <body>
 <div class="page">
@@ -662,14 +638,11 @@ ARTICLES.forEach(function (a) {
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
-      publisher: {
-        '@type': 'Organization', name: 'The Signal', url: BASE,
-        // Logo 512 piksel, bukan apple-touch-icon 180 piksel. Google
-        // menyarankan logo penerbit minimal 112 piksel dan memakai yang
-        // terbesar tersedia untuk hasil kaya; berkas 512 sudah ada di repo
-        // tapi sebelumnya tidak dipakai di mana pun.
-        logo: { '@type': 'ImageObject', url: BASE + '/assets/img/icon-512.png', width: 512, height: 512 },
-      },
+      // Rujukan, bukan salinan. Node NewsMediaOrganization lengkapnya kini
+      // ikut tercetak di tiap halaman lewat head(), berikut logo 512 piksel
+      // dan keempat kebijakan redaksi, jadi menyalinnya lagi di sini cuma
+      // membuat dua sumber kebenaran yang bisa berselisih.
+      publisher: RUJUK_ORGANISASI,
       isBasedOn: a.sourceUrl,
     },
     // Remah roti versi terbaca mesin. Markup teksnya sudah lama ada di bawah,
@@ -795,11 +768,18 @@ VIDEOS.forEach(function (v) {
     imgW: 1280, imgH: 720,
     ogType: 'video.other',
     navVideo: true,
+    // uploadDate wajib bagi Google untuk data terstruktur video. Nilainya
+    // tanggal unggah ASLI di YouTube, bukan tanggal kurasi kami, dan hanya
+    // dicetak kalau memang diketahui: VideoObject tanpa uploadDate cuma
+    // kehilangan hasil kaya, sedangkan uploadDate karangan adalah kebohongan
+    // yang bisa membuat video lama tampil sebagai baru.
     jsonld: {
       '@context': 'https://schema.org', '@type': 'VideoObject',
       name: v.title, description: v.summary,
       thumbnailUrl: ['https://i.ytimg.com/vi/' + v.id + '/maxresdefault.jpg'],
       embedUrl: 'https://www.youtube.com/embed/' + v.id, inLanguage: 'id-ID',
+      ...(v.terbit ? { uploadDate: v.terbit } : {}),
+      publisher: RUJUK_ORGANISASI,
     },
   }) +
     `<div class="rail breadcrumb"><a href="/">Beranda</a> &rsaquo; <a href="/video.html">Video</a> &rsaquo; Tayangan</div>` +
@@ -890,7 +870,7 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
           'disajikan dengan grafik pergerakannya.',
         inLanguage: 'id-ID', isAccessibleForFree: true,
         creator: { '@type': 'GovernmentOrganization', name: 'Badan Pusat Statistik', url: 'https://www.bps.go.id' },
-        publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
+        publisher: RUJUK_ORGANISASI,
         variableMeasured: kode.map(k => (BPS.indikator[k] || {}).nama).filter(Boolean),
       },
     }) + isi + FOOT, 'utf8');
@@ -1036,8 +1016,8 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
         description: 'Riwayat keterbukaan informasi ' + kode + ' yang dibaca The Signal.',
         url: BASE + '/emiten/' + kode + '.html',
         inLanguage: 'id-ID',
-        isPartOf: { '@id': BASE + '/#situs' },
-        publisher: { '@id': BASE + '/#organisasi' },
+        isPartOf: RUJUK_SITUS,
+        publisher: RUJUK_ORGANISASI,
         mainEntity: {
           '@type': 'ItemList',
           numberOfItems: arts.length,
@@ -1126,8 +1106,8 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
         '@context': 'https://schema.org', '@type': 'CollectionPage',
         name: 'Agenda Sinyal', url: BASE + '/agenda.html', inLanguage: 'id-ID',
         description: 'Tanggal yang akan menentukan arah, dikumpulkan dari arsip The Signal.',
-        isPartOf: { '@type': 'WebSite', url: BASE + '/' },
-        publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
+        isPartOf: RUJUK_SITUS,
+        publisher: RUJUK_ORGANISASI,
         mainEntity: {
           '@type': 'ItemList',
           itemListElement: AGENDA.filter(e => !e.perkiraan).slice(0, 100).map((e, i) => ({
@@ -1187,6 +1167,11 @@ for (const t of KELOMPOK_TEMA) {
       title: 'Tema: ' + t.nama,
       desc: t.deskripsi,
       url: '/tema/' + t.slug + '.html',
+      jsonld: halamanKoleksi({
+        nama: t.nama || t.slug, url: '/tema/' + t.slug + '.html',
+        deskripsi: 'Linimasa arah isu ' + (t.nama || t.slug) + ' di The Signal.',
+        item: t.artikel.map(a => ({ nama: plain(a.title), url: articleUrl(a) })),
+      }),
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
     }) + isi + FOOT, 'utf8');
@@ -1396,7 +1381,7 @@ document.addEventListener('DOMContentLoaded', function () {
       jsonld: {
         '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
         headline: plain(HARIAN.judul), datePublished: HARIAN.dibuat,
-        publisher: { '@type': 'Organization', name: 'The Signal' },
+        publisher: RUJUK_ORGANISASI,
       },
     }) + isi + FOOT, 'utf8');
   console.log('signal harian: ' + HARIAN.tanggal);
@@ -1523,7 +1508,7 @@ document.addEventListener('DOMContentLoaded', function () {
       jsonld: {
         '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
         headline: plain(PEKANAN.judul), datePublished: PEKANAN.dibuat,
-        publisher: { '@type': 'Organization', name: 'The Signal' },
+        publisher: RUJUK_ORGANISASI,
       },
     }) + isi + FOOT, 'utf8');
   console.log('signal pekanan: ' + PEKANAN.rentangLabel + ' (' + (PEKANAN.pola || []).length + ' pola)');
@@ -1672,7 +1657,7 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
   .concat(ARTICLES.map(a => ({ loc: articleUrl(a), lastmod: (a.isoDate || '').slice(0, 10) })))
-  .concat(VIDEOS.map(v => ({ loc: videoUrl(v) })))
+  .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: String(v.terbit || '').slice(0, 10) || undefined })))
   // lastmod halaman emiten dan tema = tanggal laporan terbarunya, karena
   // memang hanya berubah saat ada artikel baru menempel.
   .concat(DAFTAR_EMITEN.map(([k, arts]) =>

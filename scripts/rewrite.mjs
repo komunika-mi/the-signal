@@ -626,6 +626,11 @@ export async function saringVideo(kandidat) {
   if (!Array.isArray(hasil)) return [];
 
   const sahId = new Set(kandidat.map(v => v.id));
+  // Tanggal terbit diambil dari KANDIDAT, bukan dari jawaban model. Feed YouTube
+  // sudah membawanya berzona waktu; model tidak pernah diberi medan itu, jadi
+  // apa pun tanggal yang ditulisnya adalah karangan. Sebelumnya medan ini
+  // dibuang di sini, dan akibatnya uploadDate hilang dari VideoObject.
+  const terbitAsli = new Map(kandidat.map(v => [v.id, v.terbit]));
   return hasil
     .filter(v => v && sahId.has(v.id))         // jangan percaya id karangan
     .map(v => ({
@@ -635,6 +640,7 @@ export async function saringVideo(kandidat) {
       program: v.program || 'tvOneNews',
       summary: v.ringkasan,
       takeaway: v.catatan,
+      terbit: terbitAsli.get(v.id),
     }));
 }
 

@@ -207,7 +207,12 @@ function ganti(html, nama, konten, berkas) {
     throw new Error(berkas + ': penanda generate:' + nama + ' tidak ditemukan. ' +
       'Kembalikan pasangan komentar <!-- generate:' + nama + ' --> ... <!-- /generate:' + nama + ' -->.');
   }
-  return html.replace(re, '$1' + konten + '$2');
+  // Fungsi pengganti, BUKAN string. Konten artikel memuat kurs seperti
+  // "US$194,6 miliar"; di string pengganti, $1/$2 dibaca sebagai rujukan grup
+  // tangkapan sehingga "US$1" berubah jadi "US<!-- generate:hero -->" dan
+  // penanda ikut tertanam di tengah kalimat. Bentuk fungsi memperlakukan
+  // konten apa adanya.
+  return html.replace(re, (_, buka, tutup) => buka + konten + tutup);
 }
 
 // Stempel ulang ?v= di SEMUA rujukan aset css/js halaman root.

@@ -34,7 +34,11 @@ permissions:
 jobs:
   pantau:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    # 20 menit, naik dari 12. Bukan karena pemeriksaannya melambat, tapi
+    # karena tiap langkah kini punya pagarnya sendiri: 4 (ffmpeg) + 8
+    # (foto) + 5 (SEO) + sisanya kecil-kecil. Jatah job tinggal jadi
+    # jaring pengaman terakhir, bukan yang pertama kena.
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -112,17 +116,9 @@ jobs:
             exit 1
           fi
 
-      - name: Foto artikel cocok dengan sumbernya
-        if: always()
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg
-          # Sampel saja, bukan seluruh arsip: yang dicari kerusakan BARU, dan
-          # arsip lama sudah diperiksa penuh saat perbaikannya dikerjakan.
-          node scripts/periksa-foto.mjs 15
-
       - name: Mesin pencari dan mesin jawab masih bisa membaca situs
         if: always()
+        timeout-minutes: 5
         run: |
           # Yang diperiksa BUKAN peringkat, melainkan apakah pintunya masih
           # terbuka: robots.txt, dua sitemap, data terstruktur di beranda dan
@@ -135,3 +131,36 @@ jobs:
           # menggantikan, dan menyembunyikan yang satu di balik yang lain
           # persis cara sebuah masalah bertahan berminggu-minggu.
           node scripts/periksa-seo.mjs
+
+      # ffmpeg dipasang di langkah TERPISAH supaya waktu unduh apt tidak
+      # ikut terhitung ke dalam timeout pemeriksaan fotonya sendiri.
+      - name: Siapkan ffmpeg
+        if: always()
+        timeout-minutes: 4
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
+      # DIPAGARI TIMEOUT SENDIRI, dan sengaja ditaruh PALING AKHIR.
+      #
+      # 19 Agustus 2026 langkah ini makan 16,6 menit, padahal pekan
+      # sebelumnya cuma 1,6 menit. Karena job hanya berjatah 12 menit,
+      # seluruh run dibunuh sebagai "cancelled", dan pemeriksaan SEO yang
+      # waktu itu berada di bawahnya ikut ter-skip meski sudah ber-if:
+      # always(): job yang di-cancel merobohkan langkah sesudahnya, dan
+      # always() tidak menolong.
+      #
+      # Dua akibat yang sama buruknya. Pemeriksaannya tidak jalan, DAN
+      # pemiliknya tidak diberi tahu, karena run "cancelled" tidak
+      # diperlakukan GitHub seperti run merah.
+      #
+      # timeout-minutes di tingkat LANGKAH mengubah keduanya: yang mati
+      # cuma langkah ini, ia tercatat GAGAL sehingga job jadi merah dan
+      # emailnya terkirim, sedangkan langkah lain tetap jalan sampai habis.
+      - name: Foto artikel cocok dengan sumbernya
+        if: always()
+        timeout-minutes: 8
+        run: |
+          # Sampel saja, bukan seluruh arsip: yang dicari kerusakan BARU, dan
+          # arsip lama sudah diperiksa penuh saat perbaikannya dikerjakan.
+          node scripts/periksa-foto.mjs 15

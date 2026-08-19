@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bipp-rencanakan-pmthmetd-hingga-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
+  "deck": "BIPP berencana menerbitkan hingga 502,8 juta saham baru tanpa HMETD, mendilusi pemegang saham lama hingga 9,09 persen, untuk disetujui dalam RUPSLB 25 September 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "BIPP",
+   "penambahan modal",
+   "dilusi saham",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8bc2c670d7_605f73bcc0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbca-bagikan-dividen-interim-rp25-saham-total-rp3-07-t",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
+  "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "BBCA",
+   "dividen",
+   "perbankan",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c3076472a8_e5ca870b61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
   "category": "Aksi Korporasi",
   "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
@@ -6719,37 +6751,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456548-temui-seskab-teddy-ketum-kadin-anindya-bakrie-bahas-pengembangan-industri-listrik-dan-kenalkan-buku-we-buy-from-indonesia"
- },
- {
-  "slug": "laba-bank-bjb-melonjak-588-persen-aset-tembus-rp228-triliun",
-  "category": "Perbankan",
-  "title": "Laba Bank bjb Melonjak [58,8 Persen], Aset Tembus Rp228 Triliun",
-  "deck": "Bank bjb membukukan pertumbuhan laba signifikan dengan total aset menembus Rp228,2 triliun.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/laba-bank-bjb-melonjak-588-persen-aset-tembus-rp228-triliun.jpg",
-  "imageV": "tjnrui",
-  "tags": [
-   "Bank bjb",
-   "Perbankan",
-   "Kinerja Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456529-bukukan-kinerja-positif-laba-bank-bjb-tumbuh-588-dan-aset-tembus-rp2282-triliun"
- },
- {
-  "slug": "pemerintah-kucurkan-rp328-triliun-untuk-15-bendungan-baru",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Kucurkan [Rp32,8 Triliun] untuk 15 Bendungan Baru",
-  "deck": "Anggaran besar dialokasikan untuk proyek bendungan yang akan mengairi 200 ribu hektare lahan.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/pemerintah-kucurkan-rp328-triliun-untuk-15-bendungan-baru.jpg",
-  "imageV": "tjnrui",
-  "tags": [
-   "Infrastruktur",
-   "Pangan",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456527-kebut-proyek-15-bendungan-baru-pemerintah-kucurkan-rp328-triliun-untuk-irigasi-200-ribu-hektare-lahan"
  }
 ];

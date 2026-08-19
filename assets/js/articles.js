@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bipp-rencanakan-pmthmetd-hingga-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
+  "deck": "BIPP berencana menerbitkan hingga 502,8 juta saham baru tanpa HMETD, mendilusi pemegang saham lama hingga 9,09 persen, untuk disetujui dalam RUPSLB 25 September 2026.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T18:41:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8bc2c670d7_605f73bcc0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "penambahan modal",
+   "dilusi saham",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengumumkan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 502.866.937 saham seri B dengan nilai nominal Rp100 per saham, setara sebanyak-banyaknya 10 persen dari total saham yang telah ditempatkan dan disetor penuh perseroan. Jika terlaksana penuh, jumlah saham beredar BIPP naik dari 5.028.669.376 menjadi 5.531.536.313 saham, dengan dilusi kepemilikan pemegang saham lama hingga 9,09 persen. Investor yang akan menyetor dana tunai untuk saham baru ini belum ditentukan pihaknya hingga tanggal keterbukaan informasi diterbitkan, 19 Agustus 2026. Rencana ini akan dimintakan persetujuan dalam RUPSLB pada Jumat, 25 September 2026 pukul 15.00 WIB di Graha BIP Lantai 11, Jakarta Selatan.",
+   "Perseroan menyatakan dana hasil PMTHMETD, setelah dikurangi biaya-biaya, akan dipakai untuk pengembangan usaha dan penambahan modal kerja. Pelaksanaannya bisa sekaligus atau bertahap dalam jangka waktu maksimal dua tahun sejak disetujui RUPSLB, yakni paling lambat 25 September 2028. Harga pelaksanaan belum ditetapkan dan baru akan diumumkan kemudian, dengan ketentuan minimal 90 persen dari rata-rata harga penutupan saham BIPP selama 25 hari bursa terakhir sebelum permohonan pencatatan saham tambahan ke bursa.",
+   "Berdasarkan simulasi keuangan per 30 Juni 2026 dengan asumsi harga pelaksanaan Rp100 per saham, total aset BIPP diproyeksikan naik 2,74 persen menjadi Rp1,88 triliun, dan ekuitas naik 5,27 persen dari Rp954,36 miliar menjadi Rp1,00 triliun. Rasio liabilitas terhadap ekuitas membaik dari 0,92 kali menjadi 0,87 kali. Rugi bersih perseroan sendiri tidak berubah, tetap Rp37,17 miliar untuk periode yang berakhir 30 Juni 2026, namun rugi per saham secara matematis turun dari Rp7,39 menjadi Rp6,72 karena jumlah saham beredar bertambah.",
+   "Berdasarkan daftar pemegang saham per 31 Juli 2026, pemegang saham utama BIPP adalah Safire Capital Pte. Ltd dengan 61,62 persen, disusul PT Victoria Investama Tbk 11,40 persen, dan publik 26,98 persen. Bila PMTHMETD dilaksanakan penuh, porsi Safire Capital turun menjadi 56,02 persen, Victoria Investama menjadi 10,36 persen, publik menjadi 24,53 persen, sementara investor baru pemegang saham hasil PMTHMETD akan menguasai hingga 9,09 persen. Jumlah saham yang dipegang pemegang saham lama tidak berkurang karena skema ini menerbitkan saham baru, bukan membeli kembali saham yang beredar. RUPSLB yang sama juga akan meminta persetujuan perubahan anggaran dasar terkait modal dan penyesuaian pasal tentang kegiatan usaha perseroan mengikuti klasifikasi baku lapangan usaha terbaru."
+  ],
+  "fotoAdegan": "Glass-facade office towers along a busy Jakarta business district avenue, taxis passing below, late afternoon light",
+  "takeaway": "Rencana ini condong netral bagi BIPP: dana segar dari penerbitan saham baru memperkuat permodalan dan memperbaiki rasio utang, tapi manfaat itu diimbangi oleh dilusi kepemilikan pemegang saham lama hingga 9,09 persen dan investor yang akan menyuntikkan dana tersebut belum diketahui identitasnya. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang diproyeksikan naik karena disuntik uang tunai baru tanpa menambah beban utang, sehingga rasio liabilitas terhadap ekuitas membaik dari 0,92 kali menjadi 0,87 kali. Rugi per saham, yakni kerugian perusahaan dibagi jumlah saham beredar, memang tercatat turun dari Rp7,39 menjadi Rp6,72, tetapi itu murni efek matematis dari bertambahnya jumlah saham, bukan karena kerugian perusahaan mengecil, sebab rugi bersihnya sendiri tetap Rp37,17 miliar. Yang perlu dipantau berikutnya adalah RUPSLB pada 25 September 2026 yang akan memutuskan apakah rencana ini disetujui pemegang saham, serta pengumuman identitas investor dan harga pelaksanaan yang baru akan ditetapkan setelah persetujuan itu turun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbca-bagikan-dividen-interim-rp25-saham-total-rp3-07-t",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
+  "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T18:31:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c3076472a8_e5ca870b61.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBCA",
+  "tags": [
+   "BBCA",
+   "dividen",
+   "perbankan",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bank Central Asia Tbk (BBCA) mengumumkan rencana pembagian dividen tunai interim untuk kuartal III tahun buku 2026, yakni periode 1 Januari sampai 30 Juni 2026, sebesar Rp25 per saham. Keputusan ini telah disetujui Direksi dan disahkan Dewan Komisaris pada 19 Agustus 2026. Total dividen yang akan dibagikan bernilai Rp3.071.043.782.500, atau sekitar Rp3,07 triliun, dengan nilai minimum dan maksimum yang sama.",
+   "Perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 28 Agustus 2026, sementara di pasar tunai berakhir 1 September 2026. Saham mulai diperdagangkan tanpa hak dividen (ex dividen) pada 31 Agustus 2026 untuk pasar reguler dan negosiasi, serta 2 September 2026 untuk pasar tunai. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam Daftar Pemegang Saham per 1 September 2026 pukul 16.00 WIB, dengan pembayaran dijadwalkan paling lambat 16 September 2026 melalui KSEI bagi saham dalam penitipan kolektif, atau transfer langsung bagi pemegang saham warkat.",
+   "Dasar keuangan pembagian dividen ini mengacu pada data per 30 Juni 2026, yaitu laba bersih yang diatribusikan kepada entitas induk sebesar Rp29,53 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp251,49 triliun, dan total ekuitas Rp270,67 triliun. Perseroan juga mencatat bahwa jumlah saham yang benar-benar berhak menerima dividen interim ini bisa lebih rendah dari perhitungan awal, tergantung akumulasi saham yang telah dibeli kembali perseroan lewat program buyback hingga tanggal pencatatan pemegang saham."
+  ],
+  "fotoAdegan": "Bank customers queuing at teller counters in a modern branch, staff assisting transactions, soft indoor lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi BCA, sebab nilainya, Rp3,07 triliun, hanya sekitar 1,2 persen dari saldo laba ditahan perseroan yang mencapai Rp251,49 triliun, sehingga tidak membebani kondisi keuangan sementara tetap memberi imbal hasil tunai ke pemegang saham. Yang tersentuh dari aksi ini adalah kas dan ekuitas perseroan, karena dana dividen keluar sebagai kas dan sedikit mengurangi total modal setelah dibayarkan; jumlah saham yang berhak menerima dividen juga bisa menyusut karena saham hasil buyback otomatis tidak mendapat jatah ini. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 1 September 2026 pukul 16.00 WIB yang menentukan siapa saja berhak menerima dividen, serta realisasi pembayaran pada 16 September 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
   "category": "Aksi Korporasi",
   "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",

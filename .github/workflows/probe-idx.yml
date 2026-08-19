@@ -14,17 +14,13 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
-      - name: Pasang poppler-utils
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils
-          pdftotext -v
 
       - name: Uji jangkauan IDX
+        timeout-minutes: 6
         run: |
           set +e
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
@@ -82,6 +78,35 @@ jobs:
           "
 
           echo
+
+      # poppler dipasang SESUDAH uji jangkauan, bukan sebelum.
+      #
+      # 19 Agustus 2026 urutannya terbalik dan `apt-get update` menghabiskan
+      # 10,1 menit sampai menembus jatah job. Uji IDX-nya, satu-satunya alasan
+      # probe ini ada, ikut ter-skip. Pemasangan paket tidak boleh berdiri di
+      # depan pemeriksaan yang tidak membutuhkannya: bagian 1 sampai 5 cuma
+      # perlu curl dan node.
+      #
+      # `apt-get update` juga tidak lagi dijalankan lebih dulu. Ia menarik
+      # seluruh indeks repositori demi satu paket.
+      - name: Pasang poppler-utils untuk membaca lampiran
+        if: always()
+        timeout-minutes: 5
+        run: |
+          command -v pdftotext >/dev/null 2>&1 && { pdftotext -v; exit 0; }
+          sudo apt-get install -y -qq poppler-utils || { sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils; }
+          pdftotext -v
+
+      # Dijadikan langkah TERSENDIRI supaya kegagalan membaca PDF tidak
+      # mengaburkan hasil uji jangkauannya sendiri, dan supaya pemasangan
+      # poppler tidak lagi berdiri di depan pintu.
+      - name: Uji lampiran PDF
+        if: always()
+        timeout-minutes: 5
+        run: |
+          set +e
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
+          REF='https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/'
           echo "===== 6. Unduh satu lampiran PDF ====="
           PDF=$(node -e "
             try{

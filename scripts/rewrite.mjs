@@ -406,6 +406,34 @@ export async function tulisPekanan(bahan) {
   return hasil;
 }
 
+// Varian tanya() yang boleh MEMBACA BERKAS, dipakai menilai gambar.
+//
+// tanya() biasa memakai allowedTools: [] karena ia murni menulis teks.
+// Untuk menilai apakah sebuah ilustrasi benar-benar menggambarkan adegan
+// yang diminta, model harus bisa melihat berkasnya, dan tool Read itulah
+// yang menampilkan gambar kepadanya. Tidak ada jalur autentikasi baru:
+// SDK dan token yang dipakai sama persis dengan penulisan artikel.
+export async function tanyaLihat(systemPrompt, userPrompt) {
+  let keluaran = '';
+  const it = query({
+    prompt: userPrompt,
+    options: {
+      model: MODEL,
+      systemPrompt,
+      allowedTools: ['Read'],
+      permissionMode: 'bypassPermissions',
+      maxTurns: 4,
+    },
+  });
+  for await (const pesan of it) {
+    if (pesan.type === 'assistant') {
+      for (const blok of pesan.message.content) {
+        if (blok.type === 'text') keluaran += blok.text;
+      }
+    }
+  }
+  return keluaran.trim();
+}
 export { PENGAMAN, GAYA, tanya, ambilJSON };
 
 // ---------- 1. Rangkum satu artikel ----------

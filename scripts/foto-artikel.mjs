@@ -21,7 +21,69 @@ import { execFileSync } from 'node:child_process';
 import { ROOT, log, dijalankanLangsung } from './lib.mjs';
 import { buatFoto, unduhFoto } from './buat-foto.mjs';
 import { petaSidik, urlTerpakai, pasangFotoUnik } from './foto-unik.mjs';
-import { tanya, ambilJSON } from './rewrite.mjs';
+import { tanya, tanyaLihat, ambilJSON } from './rewrite.mjs';
+
+// CATATAN PENOLAKAN ILUSTRASI.
+//
+// Tanpa ini, ilustrasi yang ditolak akan dibuat ulang tiap putaran, ditolak
+// lagi, dan membakar kredit tanpa henti. Percobaan dihitung, dan sesudah
+// batasnya tercapai artikel itu dibiarkan memakai gambar kolamnya.
+const CATATAN_TOLAK = path.join(ROOT, 'assets/data/foto-ditolak.json');
+const MAKS_PERCOBAAN = Number(process.env.SIGNAL_FOTO_PERCOBAAN || 2);
+
+function bacaTolak() {
+  try { return JSON.parse(fs.readFileSync(CATATAN_TOLAK, 'utf8')); } catch { return {}; }
+}
+function tulisTolak(isi) {
+  try {
+    fs.mkdirSync(path.dirname(CATATAN_TOLAK), { recursive: true });
+    fs.writeFileSync(CATATAN_TOLAK, JSON.stringify(isi, null, 1), 'utf8');
+  } catch { /* catatan gagal ditulis bukan alasan menggagalkan putaran */ }
+}
+
+// Apakah ilustrasi ini benar-benar menggambarkan adegan yang diminta?
+//
+// Perlu, karena hasil model TIDAK selalu lebih baik daripada gambar kolam
+// yang digantikannya. Terbukti 19 Agustus 2026: adegan untuk artikel dividen
+// BBCA berbunyi "nasabah mengantre di konter teller, staf melayani
+// transaksi", dan yang keluar ruangan bank KOSONG tanpa satu orang pun -
+// lebih hambar daripada foto kolam konferensi pers yang tadinya dipakai.
+//
+// Gagal menilai TIDAK dianggap lolos. Kalau penilainya sendiri bermasalah,
+// gambar lama dipertahankan, karena "tidak tahu" bukan "sudah diperiksa".
+export async function nilaiIlustrasi(berkas, adegan, judul) {
+  const system = [
+    'Kamu editor foto sebuah media ekonomi Indonesia.',
+    'Tugasmu memutuskan apakah sebuah ilustrasi layak dipasang di artikel.',
+    'Jawab HANYA dengan JSON: {"lolos": true|false, "alasan": "<satu kalimat>"}.',
+    '',
+    'TOLAK kalau salah satu berlaku:',
+    '- Subjek utama yang diminta adegan TIDAK ADA. Kalau adegannya menyebut',
+    '  orang (nasabah, pekerja, pedagang, pejabat) dan gambarnya kosong tanpa',
+    '  manusia, itu ditolak.',
+    '- Gambarnya memuat tulisan, logo, atau merek yang teracak atau dikarang.',
+    '- Isinya tidak nyambung sama sekali dengan bidang beritanya.',
+    '- Gambarnya rusak, buram parah, atau jelas cacat.',
+    '',
+    'LOLOSKAN kalau subjek utamanya hadir dan suasananya masuk akal untuk',
+    'berita itu, meski komposisinya tidak persis sama dengan adegan yang',
+    'diminta. Yang dinilai kelayakan, bukan kemiripan harfiah.',
+  ].join('\n');
+  const user = [
+    'Baca berkas gambar ini: ' + berkas,
+    '',
+    'Judul artikel: ' + judul,
+    'Adegan yang diminta: ' + adegan,
+    '',
+    'Layak dipasang?',
+  ].join('\n');
+  const jawab = await tanyaLihat(system, user);
+  const j = ambilJSON(jawab);
+  if (!j || typeof j.lolos !== 'boolean') {
+    throw new Error('penilai tidak memberi vonis yang bisa dibaca');
+  }
+  return j;
+}
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
 
@@ -160,7 +222,9 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   // yang satu berarti alatnya belum terpasang, yang satu lagi berarti model
   // gagal menulis adegannya. Perbaikannya jauh berbeda.
   let dibuat = 0, diunduh = 0, kembar = 0, gagal = 0;
-  let tanpaAlat = 0, adeganKosong = 0;
+  let tanpaAlat = 0, adeganKosong = 0, ditolak = 0, lewatiTolak = 0;
+  const tolak = bacaTolak();
+  let tolakBerubah = false;
   for (const a of antre) {
     // FOTO ASLI DIDAHULUKAN. Kalau sumbernya menyertakan foto, itu dokumentasi
     // peristiwanya dan selalu lebih baik daripada ilustrasi. Ilustrasi AI baru
@@ -186,11 +250,53 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     }
     if (!bisaIlustrasi) { tanpaAlat++; continue; }
     if (!a.fotoAdegan) { adeganKosong++; continue; }
+
+    // Sudah berkali-kali ditolak: berhenti mencoba, biarkan gambar kolamnya.
+    const catatan = tolak[a.slug];
+    if (catatan && catatan.percobaan >= MAKS_PERCOBAAN) {
+      lewatiTolak++;
+      continue;
+    }
+
     try {
       if (buatFoto(a.slug, a.fotoAdegan)) {
-        a.image = fotoSendiri(a.slug);
-        a.imageV = Date.now().toString(36);
-        dibuat++;
+        const berkasBaru = path.join(IMG_DIR, a.slug + '.jpg');
+        // Artikel yang BELUM punya gambar apa pun menerima hasilnya tanpa
+        // penilaian: sesuatu lebih baik daripada halaman tanpa gambar. Yang
+        // dinilai hanya PENGGANTIAN, karena di situlah ada yang bisa hilang.
+        const adaSebelumnya = Boolean(a.image) && a.image !== fotoSendiri(a.slug);
+        let terima = true;
+        if (adaSebelumnya) {
+          try {
+            const vonis = await nilaiIlustrasi(berkasBaru, a.fotoAdegan, a.title || a.slug);
+            terima = vonis.lolos;
+            if (!terima) {
+              log('  foto DITOLAK ' + a.slug.slice(0, 34) + ': ' + String(vonis.alasan).slice(0, 70));
+            }
+          } catch (e) {
+            // Penilainya sendiri bermasalah. Gambar lama DIPERTAHANKAN, karena
+            // "tidak tahu" bukan "sudah diperiksa".
+            terima = false;
+            log('  foto tidak dinilai ' + a.slug.slice(0, 30) + ': ' + String(e.message).slice(0, 50));
+            log('    gambar lama dipertahankan.');
+          }
+        }
+
+        if (terima) {
+          a.image = fotoSendiri(a.slug);
+          a.imageV = Date.now().toString(36);
+          dibuat++;
+          if (tolak[a.slug]) { delete tolak[a.slug]; tolakBerubah = true; }
+        } else {
+          // Berkasnya WAJIB dihapus. Kalau dibiarkan, pasangFoto() akan
+          // memungutnya sendiri pada build berikutnya karena namanya sama
+          // dengan slug, dan penolakan ini jadi sia-sia tanpa jejak.
+          try { fs.rmSync(berkasBaru, { force: true }); } catch { /* biarkan */ }
+          const p = (tolak[a.slug] && tolak[a.slug].percobaan) || 0;
+          tolak[a.slug] = { percobaan: p + 1, tanggal: new Date().toISOString().slice(0, 10) };
+          tolakBerubah = true;
+          ditolak++;
+        }
       }
     } catch (e) {
       gagal++;
@@ -200,10 +306,12 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
 
   log('foto artikel: ' + diunduh + ' foto asli diunduh, ' + dibuat + ' ilustrasi dibuat, ' +
     kembar + ' foto sumber ditolak karena kembar, ' + gagal + ' gagal, ' +
-    tanpaAlat + ' menunggu alat gambar, ' + adeganKosong + ' tanpa adegan');
+    tanpaAlat + ' menunggu alat gambar, ' + adeganKosong + ' tanpa adegan, ' +
+    ditolak + ' ditolak penilai, ' + lewatiTolak + ' dilewati (sudah berkali ditolak)');
+  if (tolakBerubah) tulisTolak(tolak);
   return {
     dibuat, diunduh, kembar, gagal,
-    tanpaAlat, adeganKosong,
+    tanpaAlat, adeganKosong, ditolak, lewatiTolak,
     dilewati: tanpaAlat + adeganKosong,   // dipertahankan untuk pemanggil lama
   };
 }

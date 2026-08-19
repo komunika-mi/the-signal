@@ -34,7 +34,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
   "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
-  "image": "assets/img/bbca-bagikan-dividen-interim-rp25-saham-total-rp3-07-t.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T18:31:03",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c3076472a8_e5ca870b61.pdf",

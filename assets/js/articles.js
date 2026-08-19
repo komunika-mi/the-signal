@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
+  "deck": "RANS mengundang pemegang saham ke RUPSLB 10 September 2026 untuk menyetujui perubahan susunan Direksi, dengan rapat hybrid dan kehadiran fisik dibatasi 10 orang.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:51:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c34701187_065c7d15a3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Direksi",
+   "Rans Entertainment"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 10 September 2026 pukul 11.00 WIB di RANS Office Building, Bumi Serpong Damai, Tangerang Selatan. Satu-satunya agenda rapat adalah persetujuan perubahan susunan anggota Direksi perseroan. Rapat digelar secara hybrid, yaitu kehadiran fisik di lokasi dan kehadiran elektronik lewat fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Kehadiran fisik dibatasi hanya untuk 10 orang pemegang saham berdasarkan urutan pendaftaran, sehingga sebagian besar pemegang saham diarahkan mengikuti rapat secara elektronik.",
+   "Dalam penjelasannya, perseroan menyebut usulan perubahan Direksi ini merujuk pada Pasal 94 Undang-Undang Perseroan Terbatas, Pasal 3 POJK Nomor 33/2014 tentang Direksi dan Dewan Komisaris, serta Anggaran Dasar perseroan. Masa jabatan anggota Direksi hasil rapat nanti akan berlaku sampai penutupan RUPS Tahunan berikutnya, dan pemegang saham tetap punya hak untuk memberhentikan anggota Direksi sewaktu-waktu sesuai Pasal 105 UUPT. Dokumen pemanggilan ini belum menyebut nama direktur yang akan diganti atau diangkat, maupun alasan di balik usulan tersebut.",
+   "Pemegang saham yang berhak hadir dan bersuara adalah yang tercatat dalam Daftar Pemegang Saham per Selasa, 18 Agustus 2026 pukul 16.00 WIB. Bagi yang ingin memberi kuasa, e-Proxy lewat eASY.KSEI dibuka sejak tanggal pemanggilan sampai Rabu, 9 September 2026 pukul 12.00 WIB. Sementara surat kuasa konvensional beserta salinan identitas pemberi dan penerima kuasa harus sudah diterima PT Adimitra Jasa Korpora selaku Biro Administrasi Efek paling lambat 10 September 2026 pukul 09.00 WIB. Perseroan juga menegaskan tidak akan menyediakan materi rapat cetak maupun konsumsi di lokasi, kecuali bagi 10 peserta yang hadir fisik."
+  ],
+  "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, prepared for a corporate shareholders meeting, soft morning light",
+  "takeaway": "Pemanggilan RUPSLB ini netral bagi emiten, sebab dokumennya hanya mengundang pemegang saham untuk menyetujui perubahan Direksi tanpa merinci nama yang akan diganti, siapa penggantinya, atau alasan di balik usulan itu, sehingga belum ada dasar untuk menilainya sebagai kabar baik atau buruk. Yang tersentuh di sini adalah tata kelola dan kepengurusan perusahaan, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pergantian pucuk pimpinan tetap dicermati pasar karena bisa mengubah arah strategi bisnis RANS ke depan. Yang perlu dipantau adalah jalannya RUPSLB pada Kamis, 10 September 2026, saat susunan Direksi baru akan diumumkan, serta tenggat kuasa elektronik pada Rabu, 9 September 2026 pukul 12.00 WIB dan kuasa konvensional yang harus diterima paling lambat 10 September 2026 pukul 09.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Kena Pangkas Peringkat ke idB, PEFINDO Soroti [Gagal Bayar]",
+  "deck": "PEFINDO menurunkan peringkat ADHI dan tiga obligasinya dari idBB ke idB dengan status CreditWatch negatif, menyusul risiko gagal bayar kupon jatuh tempo 24 Agustus 2026.",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:48:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "peringkat obligasi",
+   "PEFINDO",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) melaporkan ke Otoritas Jasa Keuangan bahwa PT Pemeringkat Efek Indonesia (PEFINDO) menurunkan peringkat korporasi perseroan dari idBB/CreditWatch dengan implikasi negatif menjadi idB/CreditWatch dengan implikasi negatif. Keputusan itu diambil dalam rapat Panitia Pemeringkat PEFINDO pada Jumat, 14 Agustus 2026, dan berlaku untuk periode 14 Agustus 2026 sampai 14 November 2026. Surat pemberitahuan ke OJK disampaikan Corporate Secretary ADHI, Siswanto, pada 19 Agustus 2026.",
+   "Penurunan peringkat juga menyasar tiga seri obligasi ADHI: Obligasi Berkelanjutan III Tahap III Tahun 2022 Seri B senilai Rp667,5 miliar yang jatuh tempo 24 Mei 2027, Seri C senilai Rp1,7963 triliun yang jatuh tempo 24 Mei 2029, dan Obligasi Berkelanjutan IV Tahap I Tahun 2024 senilai Rp102,715 miliar yang jatuh tempo 9 Juli 2027. Total nilai pokok ketiga obligasi itu Rp2,57 triliun, dan seluruhnya turun peringkat dari idBB menjadi idB.",
+   "PEFINDO menyebut penurunan peringkat ini sebagai tindak lanjut dari hasil Rapat Umum Pemegang Obligasi Berkelanjutan III Tahap III Tahun 2022 Seri B dan C, dan menilai kondisi tersebut mencerminkan tekanan likuiditas yang secara material memengaruhi kemampuan ADHI memenuhi kewajiban keuangannya tepat waktu. Status CreditWatch dengan implikasi negatif pada peringkat korporasi secara spesifik dikaitkan dengan risiko gagal bayar atas kewajiban pembayaran kupon Obligasi Berkelanjutan III Seri B dan C yang jatuh tempo 24 Agustus 2026. PEFINDO akan meninjau kembali status CreditWatch ini paling lambat dalam tiga bulan, sesuai perkembangan kondisi keuangan dan ketersediaan data dari perseroan."
+  ],
+  "fotoAdegan": "Large infrastructure construction site with tower cranes and concrete pillars, workers in hard hats, overcast sky over a city skyline.",
+  "takeaway": "Laporan ini negatif bagi ADHI. PEFINDO memangkas peringkat perusahaan dan tiga seri obligasinya dari idBB menjadi idB sekaligus mempertahankan status CreditWatch dengan implikasi negatif, dan lembaga pemeringkat itu sendiri secara eksplisit menyebut risiko gagal bayar kupon sebagai alasannya, bukan sekadar evaluasi rutin tahunan. Peringkat kredit yang turun berarti biaya bunga utang baru ADHI berpotensi naik dan ruang untuk menerbitkan obligasi baru atau merefinansi utang lama menyempit, karena investor menuntut imbal hasil lebih tinggi untuk risiko yang lebih besar, sehingga pos beban bunga dan arus kas perusahaan langsung tertekan. Yang perlu dipantau adalah pembayaran kupon Obligasi Berkelanjutan III Seri B dan C yang jatuh tempo 24 Agustus 2026, karena PEFINDO secara spesifik mengaitkan status CreditWatch negatif dengan risiko gagal bayar pada tanggal itu, sejalan dengan pengakuan ADHI sendiri sebelumnya soal risiko keterlambatan pembayaran bunga obligasi. PEFINDO juga akan meninjau ulang peringkat ini paling lambat dalam tiga bulan, atau sekitar 14 November 2026, tergantung perkembangan kondisi keuangan perseroan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
   "category": "Aksi Korporasi",
   "title": "MREI Ganti [Direktur], Anwar Cipto Syamsul Gantikan Trinita Situmeang",
@@ -10690,60 +10742,5 @@ var ARTICLES = [
   "imageV": "tjnruj",
   "isoDate": "2026-07-29",
   "takeaway": "PNM bersama Danantara memperkuat penyaluran pembiayaan ultra mikro yang menyasar keluarga prasejahtera, terutama perempuan pelaku usaha rumahan yang selama ini sulit menjangkau perbankan konvensional karena tidak punya agunan. Skema ini mengandalkan pembiayaan berkelompok dengan tanggung renteng antaranggota sebagai pengganti jaminan formal. Arahnya adalah perluasan akses keuangan di lapisan usaha terkecil, tetapi berita ini belum menyebut angka penyaluran, jumlah keluarga yang disasar, atau target waktu program. Angka realisasi penyaluran dari PNM atau Danantara akan menjadi penanda apakah penguatan ini benar-benar memperluas jangkauan."
- },
- {
-  "slug": "presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri",
-  "category": "Industri",
-  "title": "Presiden Minta Pabrik Gula Wajib Punya [Kebun Tebu] Sendiri",
-  "deck": "Kebijakan ini diarahkan untuk memperkuat pasokan bahan baku industri gula dalam negeri.",
-  "image": "assets/img/presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri.jpg",
-  "date": "29 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456500-presiden-prabowo-minta-pabrik-gula-wajib-punya-kebun-tebu",
-  "tags": [
-   "Gula",
-   "Industri",
-   "Pangan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Presiden Prabowo meminta agar pabrik gula diwajibkan memiliki kebun tebu sendiri. Kebijakan ini diarahkan untuk memperkuat kepastian pasokan bahan baku bagi industri gula nasional.",
-   "Selama ini banyak pabrik gula bergantung pada tebu rakyat, sehingga pasokan berfluktuasi mengikuti keputusan tanam petani yang dipengaruhi harga dan alternatif komoditas lain.",
-   "Indonesia masih mengimpor gula dalam jumlah besar setiap tahun, baik untuk konsumsi rumah tangga maupun kebutuhan industri makanan dan minuman."
-  ],
-  "fotoAdegan": "A harvester cuts through rows of tall sugarcane stalks inside a sprawling plantation field.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69af3b22019-petani-tebu-banyuwangi-melakukan-penanaman-bibit-tebu-menggunakan-alat-tanam-mekanis-sebagai-bagian-dari-program-bongkar-ratoon-untuk-meningkatkan-produktivitas-dan-mendukung-swasembada-gula-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruk",
-  "isoDate": "2026-07-29",
-  "takeaway": "Presiden Prabowo meminta agar setiap pabrik gula wajib memiliki kebun tebu sendiri, bukan lagi hanya mengandalkan pasokan dari tebu rakyat. Aturan ini langsung menyentuh pabrik gula yang harus menyiapkan lahan sendiri, sekaligus petani tebu rakyat yang selama ini menjadi pemasok utama bahan baku. Arah kebijakan ini menuju kepastian pasokan bahan baku untuk menekan ketergantungan pada impor gula yang selama ini besar, tetapi belum jelas bagaimana kewajiban ini akan diterapkan di lapangan. Aturan turunan yang menetapkan luas kebun wajib, tenggat waktu, atau sanksi bagi pabrik yang tidak patuh akan menentukan apakah kebijakan ini benar-benar mengubah pola pasokan tebu."
- },
- {
-  "slug": "emas-antam-merosot-ke-rp26-juta-per-gram",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
-  "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "image": "assets/img/emas-antam-merosot-ke-rp26-juta-per-gram.jpg",
-  "date": "29 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Harga emas batangan Antam merosot pada perdagangan 29 Juli 2026, menjadi Rp2.601.000 per gram.",
-   "Koreksi harga emas domestik biasanya mengikuti pergerakan harga emas global, yang sendiri dipengaruhi ekspektasi suku bunga bank sentral dan pergerakan indeks dolar AS.",
-   "Ketika ekspektasi penurunan suku bunga melemah, daya tarik aset tanpa imbal hasil seperti emas cenderung ikut menurun."
-  ],
-  "fotoAdegan": "A customer weighs a small gold necklace on a countertop scale inside a traditional gold shop.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7cflz",
-  "isoDate": "2026-07-29",
-  "fotoDitolak": true,
-  "takeaway": "Harga emas batangan Antam turun menjadi Rp2.601.000 per gram pada perdagangan 29 Juli 2026, mengikuti pergerakan harga emas global yang dipengaruhi ekspektasi suku bunga bank sentral dan penguatan dolar AS. Pihak yang terdampak adalah pembeli dan penjual emas batangan sebagai instrumen investasi harian. Ada dua kemungkinan arah dari titik ini, koreksi bisa bersifat sementara jika ekspektasi penurunan suku bunga kembali menguat, atau menjadi awal tren turun jika dolar AS terus menguat. Pergerakan indeks dolar AS dan sinyal dari keputusan suku bunga bank sentral berikutnya akan menentukan mana dari dua skenario itu yang terjadi."
  }
 ];

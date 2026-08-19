@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
+  "deck": "RANS mengundang pemegang saham ke RUPSLB 10 September 2026 untuk menyetujui perubahan susunan Direksi, dengan rapat hybrid dan kehadiran fisik dibatasi 10 orang.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Direksi",
+   "Rans Entertainment"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c34701187_065c7d15a3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Kena Pangkas Peringkat ke idB, PEFINDO Soroti [Gagal Bayar]",
+  "deck": "PEFINDO menurunkan peringkat ADHI dan tiga obligasinya dari idBB ke idB dengan status CreditWatch negatif, menyusul risiko gagal bayar kupon jatuh tempo 24 Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "tags": [
+   "ADHI",
+   "peringkat obligasi",
+   "PEFINDO",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
   "category": "Aksi Korporasi",
   "title": "MREI Ganti [Direktur], Anwar Cipto Syamsul Gantikan Trinita Situmeang",
@@ -6717,36 +6749,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456526-pnm-perkuat-pembiayaan-ultra-mikro-bersama-danantara-ini-hasilnya-terhadap-ketahanan-keuangan-keluarga-prasejahtera"
- },
- {
-  "slug": "presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri",
-  "category": "Industri",
-  "title": "Presiden Minta Pabrik Gula Wajib Punya [Kebun Tebu] Sendiri",
-  "deck": "Kebijakan ini diarahkan untuk memperkuat pasokan bahan baku industri gula dalam negeri.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri.jpg",
-  "imageV": "tjnruk",
-  "tags": [
-   "Gula",
-   "Industri",
-   "Pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456500-presiden-prabowo-minta-pabrik-gula-wajib-punya-kebun-tebu"
- },
- {
-  "slug": "emas-antam-merosot-ke-rp26-juta-per-gram",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
-  "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/emas-antam-merosot-ke-rp26-juta-per-gram.jpg",
-  "imageV": "msr7cflz",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram"
  }
 ];

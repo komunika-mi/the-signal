@@ -34,7 +34,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG [Tertekan] 0,65 Persen, Saham Bank Justru Menguat",
   "deck": "IHSG dibuka turun ke 6.408,18 pada Rabu pagi, sementara sejumlah saham bank di LQ45 justru menguat di tengah tekanan jual yang masih terasa.",
-  "image": "assets/img/sekuritas-lobi-pagi.jpg",
+  "image": "assets/img/ihsg-tertekan-0-65-persen-saham-bank-justru-menguat.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T11:36:47+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat",
@@ -54,7 +54,90 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah pagi ini adalah IHSG dibuka turun 0,65 persen ke 6.408, tapi arah pasarnya belum satu arah. Mayoritas saham yang diperdagangkan justru melemah, 203 turun berbanding 187 naik, sementara indeks IDX30 yang isinya emiten-emiten besar termasuk bank malah naik tipis. Pihak yang langsung diuntungkan dalam kondisi ini adalah pemegang saham bank besar, karena harga sahamnya bergerak berlawanan dengan tren indeks harian. Ada dua kemungkinan dari sini, kalau tekanan jual di saham kecil dan menengah berlanjut, IHSG bisa ditutup melemah lebih dalam sore ini, tapi kalau penguatan saham bank menarik minat beli ke saham besar lainnya, indeks bisa berbalik naik meski breadth pasar masih negatif. Ini akan ketahuan dari penutupan perdagangan sore ini, Rabu 19 Agustus 2026 pukul 16.00 WIB.",
-  "fotoDitolak": true
+  "fotoDitolak": true,
+  "imageV": "mszpk4li"
+ },
+ {
+  "slug": "dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Jawab Bursa: Tender Wajib [Sinergi] Dijadwal Agustus-September",
+  "deck": "DOOH menjelaskan ke BEI bahwa pengendali baru SII akan menggelar tender wajib bagi pemegang saham publik akhir Agustus hingga akhir September 2026, tanpa rencana delisting.",
+  "image": "assets/img/dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:57:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c67d4d2226_0b4a654070.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Sinergi Internasional Investama",
+   "Tender Wajib",
+   "Pengambilalihan"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-10437/BEI.PP3/08-2026 tanggal 10 Agustus 2026, menyusul pengambilalihan 51 persen sahamnya oleh PT Sinergi Internasional Investama (SII) pada 30 Juli 2026. Dalam suratnya, Direktur Utama DOOH Vicktor Aritonang menyampaikan bahwa SII wajib menggelar Penawaran Tender Wajib kepada pemegang saham publik sesuai POJK No. 9/2018. SII disebut sudah menyerahkan dokumen yang diwajibkan ke OJK, dengan mekanisme jual beli direncanakan lewat crossing di pasar negosiasi BEI, penyelesaian melalui KSEI, dan perusahaan efek yang ditunjuk adalah PT Yakin Bertumbuh Sekuritas. Jadwal indikatifnya dimulai akhir Agustus dan berakhir akhir September 2026, sementara harga pembelian masih menunggu konfirmasi perhitungan dari OJK sehingga belum bisa diumumkan.",
+   "Dokumen itu juga membuka profil SII. Perusahaan ini baru berdiri lewat akta 17 Juli 2026 dan disahkan Kemenkumham pada 20 Juli 2026, bergerak di bidang perdagangan, konsultasi manajemen dan bisnis, periklanan, serta sebagai perusahaan induk. Modal ditempatkan dan disetor SII tercatat Rp1 miliar dari modal dasar Rp2 miliar, dengan pemegang saham Tinawati sebesar 99,90 persen (999 saham) dan Sugiyanti 0,10 persen (1 saham). Tinawati disebut sebagai penerima manfaat akhir (ultimate beneficial owner) yang mengendalikan SII. Perseroan juga menyatakan SII, sebagai perusahaan induk, belum memiliki pemasukan usaha (revenue stream) sendiri sampai saat ini.",
+   "Soal langkah ke depan, DOOH menyatakan program, strategi bisnis, rencana restrukturisasi grup, perubahan bidang usaha, maupun kebijakan dividen masih dalam tahap diskusi dengan pengendali baru dan belum ada keputusan. SII disebut menegaskan tidak ada rencana delisting saham DOOH dari bursa maupun perubahan status dari perusahaan terbuka menjadi tertutup. Corporate Secretary DOOH juga telah mengonfirmasi ke SII selaku pemegang saham utama, dan sejauh ini SII menyatakan tidak berencana mengalihkan atau mengubah kepemilikan sahamnya di luar kewajiban tender wajib tersebut."
+  ],
+  "fotoAdegan": "Digital advertising screens on tall billboards along a busy Jakarta avenue at dusk, screens deliberately blurred, traffic streaming below",
+  "takeaway": "Penjelasan ini netral bagi DOOH: tidak ada kejutan buruk seperti rencana delisting atau go private, tapi juga belum ada kepastian harga tender maupun arah strategi baru yang bisa langsung mengubah kinerja perusahaan. Yang tersentuh di sini adalah struktur pemegang saham publik, karena tender wajib memberi kesempatan bagi investor ritel menjual sahamnya ke pengendali baru dengan harga yang diatur regulator, bukan pos laporan keuangan seperti laba atau arus kas. Perlu dicermati juga bahwa SII sendiri baru berdiri sebulan lalu dengan modal disetor cuma Rp1 miliar dan belum punya pemasukan usaha, sehingga kemampuan finansialnya untuk membiayai tender maupun mendukung ekspansi DOOH ke depan belum tergambar dari dokumen ini. Yang perlu dipantau selanjutnya adalah keterbukaan informasi resmi dari SII soal harga dan jadwal definitif Penawaran Tender Wajib, yang menurut indikasi saat ini akan berlangsung antara akhir Agustus hingga akhir September 2026.",
+  "sentimen": "netral",
+  "imageV": "mszpl30z"
+ },
+ {
+  "slug": "edge-tender-saham-diperpanjang-lagi-ke-22-september",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: Tender Saham [Diperpanjang] Lagi ke 22 September",
+  "deck": "Digital Edge (Hong Kong) Ltd memperpanjang untuk ketiga kalinya masa penawaran tender sukarela atas saham EDGE seharga Rp11.500 per lembar, hingga 22 September 2026, dengan pembayaran pada 2 Oktober 2026.",
+  "image": "assets/img/edge-tender-saham-diperpanjang-lagi-ke-22-september.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:49:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6d0e21d368_9751050c13.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "tender offer",
+   "Digital Edge Hong Kong"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) menyampaikan iklan keterbukaan informasi soal perpanjangan periode ketiga penawaran tender sukarela atas sahamnya oleh Digital Edge (Hong Kong) Ltd (DEHK). Harga penawaran tetap sama seperti yang diumumkan pertama kali pada 25 Juni 2026, yaitu Rp11.500 per lembar saham. Perpanjangan periode ketiga ini berlangsung mulai pukul 08.30 WIB tanggal 24 Agustus 2026 sampai pukul 16.00 WIB tanggal 22 September 2026.",
+   "Pemegang saham EDGE yang bersedia melepas sahamnya wajib melengkapi dan mengajukan dokumen penawaran tender ke perusahaan sekuritas atau bank kustodian masing-masing paling lambat pada tenggat penutupan itu, yakni 22 September 2026 pukul 16.00 WIB. Formulir penawaran tender bagi yang belum memilikinya bisa diperoleh dari Biro Administrasi Efek PT Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara. Pembayaran kepada pemegang saham yang menawarkan sahamnya dijadwalkan cair pada 2 Oktober 2026.",
+   "Iklan pengumuman ini dimuat di Harian Link Bisnis halaman 3 dan Harian Terbit halaman 7 pada 19 Agustus 2026. Surat pengantar ke Otoritas Jasa Keuangan ditandatangani oleh Naila Gadiza Andriana selaku penerima kuasa Digital Edge (Hong Kong) Ltd, berdasarkan surat kuasa yang diberikan pada 17 April 2026, dengan tembusan ke Bursa Efek Indonesia dan Kustodian Sentral Efek Indonesia."
+  ],
+  "fotoAdegan": "Technicians walking between rows of server racks in a quiet data center corridor, blue indicator lights glowing",
+  "takeaway": "Laporan ini netral bagi fundamental EDGE, sebab isinya soal pemindahan kepemilikan saham oleh pemegang saham mayoritas Digital Edge (Hong Kong) Ltd, bukan perubahan kinerja operasional atau keuangan perusahaan, dan perpanjangan hingga tiga kali menunjukkan proses pengumpulan saham dari publik belum juga tuntas. Yang tersentuh adalah struktur pemegang saham dan porsi saham yang beredar bebas di pasar, karena kalau makin banyak pemegang saham publik melepas sahamnya ke Digital Edge, jumlah saham yang benar-benar diperjualbelikan di pasar bisa menyusut, meski dokumen ini tidak merinci berapa saham yang sudah masuk penawaran sejauh ini. Yang perlu dipantau selanjutnya adalah batas akhir penawaran pada 22 September 2026 pukul 16.00 WIB dan tanggal pembayaran kepada pemegang saham yang melepas sahamnya pada 2 Oktober 2026, dua tanggal yang akan menentukan seberapa besar porsi saham EDGE yang akhirnya berpindah tangan.",
+  "sentimen": "netral",
+  "imageV": "mszplp2j"
+ },
+ {
+  "slug": "bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jelaskan ke Bursa Akuisisi 6 Anak Usaha [Terafiliasi]",
+  "deck": "BIKE menjawab surat Bursa soal rencana akuisisi enam anak usaha yang didanai fasilitas Rp1 triliun dari pihak yang terafiliasi dengan pengendali Perseroan sendiri.",
+  "image": "assets/img/bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:44:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/648dd7b63d_0cdc89f660.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "pihak terafiliasi",
+   "IDX"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-10738/BEI.PP3/08-2026 tanggal 13 Agustus 2026, sebagai kelanjutan tanggapan sebelumnya pada 22 Juli 2026. Surat yang ditandatangani Direktur Winston Mulyadi pada 19 Agustus 2026 ini mengonfirmasi bahwa dua pihak yang masuk sebagai pemegang saham BIKE lewat transaksi negosiasi pada 17 April 2026, yaitu KSI dan SSI, ternyata berafiliasi dengan PT Penajam Makmur Jaya (PMJ) karena masing-masing memegang 20 persen dan 80 persen saham PMJ. Karena itu, Bursa meminta BIKE mengoreksi Laporan Bulanan Registrasi Pemegang Efek periode April sampai Juli 2026, dan Perseroan menyatakan sudah berkoordinasi dengan biro administrasi efek untuk melakukan koreksi tersebut. Perseroan juga mengonfirmasi pembatalan rencana akuisisi PT Laxo Global Akses, dengan alasan tidak tercapainya kesepakatan akhir mengenai pembagian hak dan kewajiban antara BIKE dan pemegang saham perusahaan tersebut.",
+   "Bagian utama surat menjelaskan skema akuisisi enam calon anak usaha, yaitu PT Ratu Karya (RK), PT Pertama Energi Global (PEG), PT Fahreza Duta Perkasa (FDP), PT Sentra Multikarya Infrastruktur (SMI), PT Menn Teknologi Indonesia Tbk (MENN), dan PT Karya Bersinar Indonesia (KBI). Seluruh pendanaan berasal dari fasilitas pinjaman Rp1 triliun yang dikucurkan PMJ ke BIKE, yang disalurkan bertahap sesuai kontribusi masing-masing lini bisnis: RK mendapat kucuran awal Rp200 miliar untuk membeli 98 persen saham atau 24.500 lembar dari PT Mega Teknologi Investama, PEG Rp50 miliar untuk 99 persen saham atau 19.800 lembar dari PT Telaga Gelang Indonesia, FDP Rp425 miliar untuk 98 persen saham atau 147.000 lembar dari PT Fahreza Bumi Megah, SMI Rp50 miliar untuk 98 persen saham atau 40.000 lembar dari PT Sarana Media Investama, MENN Rp25 miliar untuk 59,84 persen saham atau 858.304.179 lembar, dan KBI Rp250 miliar untuk 80 persen saham atau 180.000 lembar dari PT Metro Investama Global. Seluruh transaksi ditargetkan efektif pada kuartal I sampai III 2027, setelah mendapat persetujuan RUPS Independen Perseroan.",
+   "Dari sisi keuangan calon anak usaha per Maret 2026, FDP tercatat memiliki aset Rp132,5 miliar dan ekuitas Rp125,14 miliar, MENN beraset Rp44,1 miliar dengan ekuitas Rp42,35 miliar, sedangkan KBI jauh lebih besar dengan aset Rp2,92 triliun tetapi juga membawa liabilitas Rp2 triliun, sehingga ekuitasnya hanya Rp915,2 miliar. Salah satu kontrak terbesar yang diungkap adalah milik PEG, yaitu proyek penyediaan dan instalasi pembangkit listrik tenaga diesel Poasia 30 MW senilai Rp320,5 miliar dan PLTD Lambuya 20 MW senilai Rp214,75 miliar, keduanya untuk PLN Nusantara Power Services.",
+   "Perseroan turut mengungkap bahwa pengendali akhir sekaligus pemilik manfaat tertinggi dari seluruh struktur ini, termasuk PMJ, adalah individu bernama Cahyadi. Nama keluarga yang sama juga tercatat sebagai pemilik manfaat di lima dari enam calon anak usaha, yaitu M. Yusuf Cahyadi di RK dan PEG, Nadila Syafira Cahyadi di FDP, Ardi Cahyadi di SMI, dan Indradi Cahyadi di KBI."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting diesel power generator units at a partially built power plant site, industrial cables, daylight.",
+  "takeaway": "Rangkaian jawaban ini condong negatif bagi pemegang saham publik BIKE, karena mengonfirmasi bahwa seluruh akuisisi enam anak usaha dibiayai dari utang PT Penajam Makmur Jaya, pihak yang justru terafiliasi dengan pengendali utama Perseroan sendiri, yakni keluarga Cahyadi, yang juga tercatat sebagai pemilik manfaat di lima dari enam perusahaan yang diakuisisi. Fasilitas pinjaman Rp1 triliun ini akan menambah utang dan beban bunga BIKE, dan salah satu target akuisisi, KBI, sendiri sudah membawa liabilitas Rp2 triliun berbanding modal sendiri hanya Rp915,2 miliar per Maret 2026, sehingga begitu laporan keuangannya digabungkan ke BIKE, beban utang grup ikut naik signifikan. Yang perlu dipantau berikutnya adalah RUPS Independen Perseroan, forum khusus tempat pemegang saham yang tidak berkepentingan dengan pihak terafiliasi harus menyetujui transaksi ini sebelum bisa berjalan efektif pada kuartal I sampai III 2027, serta hasil penilaian independen dari KJPP untuk FDP dan MENN yang masih berjalan.",
+  "sentimen": "negatif",
+  "imageV": "mszpma8d"
  },
  {
   "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
@@ -84,6 +167,59 @@ var ARTICLES = [
   "imageV": "mszk6ant"
  },
  {
+  "slug": "nely-copot-direktur-eduard-halomoan-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "NELY [Copot] Direktur Eduard Halomoan Lewat RUPSLB",
+  "deck": "RUPSLB NELY menyetujui pemberhentian Direktur Eduard Halomoan setelah dinonaktifkan sementara oleh Dewan Komisaris, sementara susunan direksi dan komisaris lain tidak berubah.",
+  "image": "assets/img/nely-copot-direktur-eduard-halomoan-lewat-rupslb.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:21:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/75dd2ddba2_1646df6af3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NELY",
+  "tags": [
+   "NELY",
+   "Perubahan Pengurus",
+   "RUPSLB",
+   "Pelayaran Nelly Dwi Putri"
+  ],
+  "body": [
+   "Pelayaran Nelly Dwi Putri Tbk (NELY) melaporkan perubahan pengurus ke Bursa Efek Indonesia pada 19 Agustus 2026. Berdasarkan surat keterangan notaris Leolin Jayayanti, perubahan ini berasal dari Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar di Hotel Yuan Garden, Jakarta Pusat, pukul 14.29 hingga 14.49 WIB. Rapat dihadiri pemegang saham dan/atau kuasanya yang mewakili 1.970.204.197 saham, atau 83,84 persen dari total 2.350.000.000 saham dengan hak suara yang diterbitkan perseroan.",
+   "Mata acara pertama RUPSLB menyetujui pemberhentian Eduard Halomoan dari jabatan Direktur. Pemberhentian ini menindaklanjuti Surat Keputusan Dewan Komisaris Nomor 005/SK-DK/VI/2026 tanggal 17 Juni 2026 yang lebih dulu menonaktifkan sementara Eduard Halomoan dari jabatannya. Keputusan pemberhentian ini disetujui hampir bulat, dengan 1.970.203.797 suara setuju atau 99,9999797 persen, hanya 400 suara menolak dan 7.500 suara abstain dari total suara yang hadir.",
+   "Dengan keluarnya Eduard Halomoan, susunan Direksi dan Dewan Komisaris NELY yang berlaku sejak penutupan RUPSLB sampai penutupan RUPST tahun 2027 adalah: Cynthia Sunarko sebagai Direktur Utama, Eugene Sunarko dan Tjauw Yani sebagai Direktur, dengan Koh Tji Beng sebagai Komisaris Utama, Alias Bin Jumaat sebagai Komisaris, dan Djoko Soemarjanto sebagai Komisaris Independen. Mata acara kedua rapat juga menyetujui penyesuaian Pasal 3 anggaran dasar tentang maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025, dengan kuasa diberikan kepada Direksi untuk mengurus perubahan tersebut ke instansi berwenang."
+  ],
+  "fotoAdegan": "Cargo ship anchored near a busy Indonesian port, gantry cranes loading containers, hazy late afternoon light",
+  "takeaway": "Laporan ini bersifat netral bagi kinerja emiten karena murni perubahan susunan pengurus tanpa transaksi keuangan apa pun, meski pencopotan seorang direktur yang sebelumnya sempat dinonaktifkan oleh Dewan Komisaris tetap pantas dicermati sebagai indikasi ada persoalan internal yang belum dijelaskan secara terbuka ke publik. Dukungan pemegang saham nyaris bulat, hanya 400 suara menolak dari hampir dua miliar suara yang hadir, menunjukkan pemegang saham mayoritas dan pengurus sepakat dengan keputusan ini. Perubahan semacam ini tidak menyentuh ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham perusahaan, karena sifatnya administratif di tingkat kepengurusan, bukan transaksi keuangan, sehingga dampaknya ke pos-pos itu biasanya baru terasa lewat keputusan strategis yang diambil pengurus baru di kemudian hari. Yang perlu dipantau selanjutnya adalah penyelesaian akta perubahan anggaran dasar soal penyesuaian bidang usaha yang saat ini masih diproses notaris, serta kinerja susunan direksi dan komisaris baru ini hingga dievaluasi kembali pada RUPST yang dijadwalkan tahun 2027.",
+  "sentimen": "netral",
+  "imageV": "mszpmw8h"
+ },
+ {
+  "slug": "crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "CRAB Jadwalkan [RUPST] dan RUPSLB pada 25 September 2026",
+  "deck": "CRAB menjadwalkan RUPST dan RUPSLB pada 25 September 2026 di Medan, dengan pemegang saham per 2 September 2026 yang berhak hadir dan tenggat usulan agenda 27 Agustus 2026.",
+  "image": "assets/img/crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:09:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d05847f0ad_199a6c5178.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "RUPS",
+   "Toba Surimi Industries",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar bersamaan pada Jumat, 25 September 2026, pukul 14.00 WIB di Grand City Hall Medan, Ruang Rosewood, Jalan Balai Kota No. 1, Medan. Pengumuman disampaikan oleh Direktur Utama Gindra Tardy melalui surat bernomor 020/TSI/CORSEC/VIII/2026 tertanggal 19 Agustus 2026, merujuk pada surat sebelumnya nomor 019/TSI/CORSEC/VIII/2026. RUPST akan membahas laporan tahunan untuk tahun buku yang berakhir 31 Desember 2025.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam RUPST dan RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham pada Rabu, 2 September 2026, hingga pukul 16.15 WIB. Pemanggilan resmi yang memuat mata acara rapat sesungguhnya baru akan diumumkan melalui situs web perseroan, situs Bursa Efek Indonesia, dan situs PT Kustodian Sentral Efek Indonesia pada Kamis, 3 September 2026. Perseroan juga membuka kesempatan bagi pemegang saham yang ingin mengusulkan mata acara rapat, dengan syarat usulan tersebut sudah diterima Direksi paling lambat tujuh hari kalender sebelum tanggal pemanggilan, yaitu Kamis, 27 Agustus 2026."
+  ],
+  "fotoAdegan": "Workers processing frozen surimi fish paste blocks on a production line inside a coastal Indonesian seafood factory, stainless steel equipment, morning shift lighting",
+  "takeaway": "Laporan ini netral bagi CRAB karena baru memuat jadwal dan mekanisme penyelenggaraan RUPS, belum mengungkap mata acara atau keputusan yang akan diambil, sehingga dampaknya terhadap kinerja perusahaan belum bisa dinilai. Yang patut dicermati adalah bahwa RUPSLB berpotensi membahas aksi korporasi yang mengubah jumlah saham beredar atau struktur permodalan, misalnya kalau nanti agendanya menyangkut penerbitan saham baru, karena itu bisa mengubah porsi laba yang menjadi hak tiap pemegang saham. Yang berhak hadir dan memberi suara hanya pemegang saham yang namanya tercatat di Daftar Pemegang Saham per 2 September 2026 pukul 16.15 WIB. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 3 September 2026 yang akan memuat mata acara rapat sesungguhnya, tenggat pengajuan usulan pemegang saham pada 27 Agustus 2026, serta pelaksanaan RUPS itu sendiri pada 25 September 2026.",
+  "sentimen": "netral",
+  "imageV": "mszpnagg"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram",
   "category": "Bisnis",
   "title": "Harga Emas Antam [Turun] Rp50.000 ke Rp2.645.000/Gram",
@@ -108,6 +244,87 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah harga jual emas Antam turun Rp50.000 menjadi Rp2.645.000 per gram, dan harga beli kembali atau buyback, yaitu harga saat Antam membeli lagi emas dari pemegangnya, ikut turun ke Rp2.505.000 per gram. Yang terdampak langsung adalah masyarakat yang berencana membeli atau menjual emas batangan Antam hari ini, karena selisih antara harga jual dan buyback tetap sekitar Rp140.000 per gram. Data satu hari ini belum cukup untuk menyimpulkan apakah ini awal tren penurunan atau sekadar koreksi sesaat, sebab pergerakan harga emas Antam biasanya mengikuti harga emas dunia dan kurs dolar yang tidak tercakup dalam data ini. Yang perlu dipantau adalah pergerakan harga dalam beberapa hari ke depan untuk melihat apakah penurunan ini berlanjut atau berbalik naik.",
   "imageV": "mszk6bcv"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Sukuk III 2023, [Restrukturisasi] Lagi",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap III 2023 ke RUPSU 2 September 2026 untuk meminta persetujuan restrukturisasi demi penyehatan keuangan.",
+  "image": "assets/img/ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T09:28:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e3fe8cf07f_cb5fef811b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi",
+   "sukuk",
+   "obligasi"
+  ],
+  "body": [
+   "PP (Persero) Tbk (PTPP) melalui sekretaris perusahaan Joko Raharjo mengumumkan panggilan Rapat Umum Pemegang Sukuk Mudharabah (RUPSU) untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap III Tahun 2023. Rapat dijadwalkan Rabu, 2 September 2026, pukul 15.30 sampai 17.00 WIB, di Plaza PP, Auditorium Wisma Subiyanto, Jalan TB Simatupang No 57, Pasar Rebo, Jakarta Timur. Agenda tunggal rapat adalah permohonan persetujuan restrukturisasi dalam rangka penyehatan keuangan perseroan. Wali amanat sukuk ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, berdasarkan perjanjian perwaliamanatan bertanggal 13 Maret 2023 di hadapan notaris Nanette Cahyanie Handari Adi Warsito.",
+   "Dokumen panggilan mencantumkan syarat kuorum yang cukup berat. RUPSU baru sah digelar jika dihadiri pemegang sukuk atau kuasanya yang mewakili paling sedikit tiga perempat dari seluruh sukuk yang belum dilunasi, di luar sukuk yang dimiliki PTPP sendiri atau afiliasinya. Keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir dalam rapat. Pemegang sukuk yang berhak hadir adalah yang namanya tercatat dalam daftar Konfirmasi Tertulis Untuk RUPSu (KTUR) terbitan KSEI, tiga hari kerja sebelum rapat, dan wajib membawa dokumen identitas serta surat kuasa asli bila diwakilkan. Setiap peserta juga wajib mengisi pernyataan tertulis mengenai ada tidaknya hubungan afiliasi dengan PTPP saat registrasi.",
+   "Panggilan ini adalah yang keempat dalam dua hari terakhir terkait permohonan restrukturisasi utang PTPP, setelah sebelumnya perseroan memanggil RUPO Obligasi Berkelanjutan IV, RUPS pemegang sukuk lain, dan RUPO Obligasi Berkelanjutan III Tahap I. Kali ini giliran Sukuk Mudharabah Berkelanjutan I Tahap III 2023 yang dimintakan persetujuan perubahan skema pembayaran."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a high-rise building site in Jakarta, tower cranes overhead, late afternoon light",
+  "takeaway": "Laporan ini negatif bagi PTPP, karena ini adalah panggilan RUPSU restrukturisasi utang keempat yang diumumkan perseroan hanya dalam dua hari, kali ini menyasar instrumen Sukuk Mudharabah Berkelanjutan I Tahap III 2023, dan pola ini menunjukkan kesulitan membayar kewajiban di banyak instrumen utang sekaligus, bukan cuma satu. Yang tersentuh di sini adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban tepat waktu, karena restrukturisasi berarti jadwal pembayaran pokok dan bagi hasil sukuk akan diubah dari perjanjian awal, dan pelaku pasar mengamati ini karena arus kas yang seret bisa merembet ke kemampuan bayar utang lain. Yang perlu dipantau berikutnya adalah hasil RUPSU pada 2 September 2026, khususnya apakah kuorum kehadiran tiga perempat pemegang sukuk tercapai dan usulan restrukturisasi disetujui, sebab jika kuorum tidak tercapai atau usulan ditolak, PTPP harus mencari skema lain untuk memenuhi kewajibannya ke pemegang sukuk ini di tengah rentetan permintaan restrukturisasi serupa untuk instrumen utang lainnya.",
+  "sentimen": "negatif",
+  "imageV": "mszpnwm2"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Sukuk 2022, [Restrukturisasi] Kelima",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2022 Seri B ke RUPSu 2 September 2026 untuk minta persetujuan restrukturisasi utang, panggilan restrukturisasi kelima dalam dua hari.",
+  "image": "assets/img/ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T09:28:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5674c1d5de_c966fd0d36.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "sukuk",
+   "RUPSu"
+  ],
+  "body": [
+   "PP (Persero) Tbk mengirim surat pemberitahuan panggilan Rapat Umum Pemegang Sukuk Mudharabah (RUPSu) untuk Sukuk Mudharabah Berkelanjutan I PTPP Tahap II Tahun 2022 Seri B, ditandatangani Sekretaris Perusahaan Joko Raharjo lewat surat nomor 198/EXT/PP/CORSEC/2026 tertanggal 19 Agustus 2026. Rapat akan digelar Rabu, 2 September 2026, pukul 10.30 sampai 12.00 WIB, di Plaza PP, Auditorium Wisma Subiyanto, Jalan TB Simatupang No. 57, Pasar Rebo, Jakarta Timur. Satu-satunya agenda adalah permohonan persetujuan restrukturisasi dalam rangka penyehatan keuangan, dan permohonan ini diajukan sendiri oleh PTPP sebagai emiten, bukan oleh wali amanat.",
+   "Wali amanat sukuk ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, berdasarkan Akta Perjanjian Perwaliamanatan No. 07 tanggal 1 April 2022. Agar keputusan restrukturisasi bisa disahkan, RUPSu harus dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari seluruh sukuk yang belum dilunasi, di luar sukuk milik PTPP dan afiliasinya, dan persetujuan perubahan perjanjian perwaliamanatan baru sah jika disetujui minimal tiga perempat dari yang hadir. Pemegang sukuk yang berhak hadir adalah yang namanya tercatat dalam daftar Konfirmasi Tertulis Untuk RUPSu (KTUR) terbitan KSEI, tiga hari kerja sebelum rapat, dan wajib membawa KTUR asli beserta surat kuasa jika diwakilkan.",
+   "Panggilan ini menyusul tiga panggilan restrukturisasi utang lain yang diumumkan PTPP dalam dua hari terakhir: RUPSU untuk Sukuk III 2023, RUPO untuk Obligasi Berkelanjutan III Tahap I, dan RUPO untuk Obligasi IV. Dengan tambahan panggilan hari ini, PTPP kini tercatat mengajukan permohonan restrukturisasi untuk sedikitnya lima instrumen utang berbeda, mencakup obligasi dan sukuk dari beberapa tahap penerbitan, dalam rentang waktu dua hari saja."
+  ],
+  "fotoAdegan": "Exterior of an unfinished high-rise office tower with construction cranes, overcast afternoon sky over Jakarta",
+  "takeaway": "Laporan ini negatif bagi PTPP, sebab ini adalah panggilan restrukturisasi utang kelima yang diajukan sendiri oleh perseroan hanya dalam dua hari, kali ini untuk sukuk mudharabah tahap kedua dari tahun 2022, menandakan tekanan pembayaran yang menyebar ke banyak instrumen sekaligus, bukan cuma satu seri obligasi. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kas perusahaan untuk bayar kewajiban, karena permintaan restrukturisasi biasanya berarti perusahaan kesulitan membayar pokok atau bagi hasil sukuk sesuai jadwal semula, dan pelaku pasar mencermatinya karena menunjukkan seberapa besar bantalan kas yang tersisa. Yang perlu dipantau adalah hasil RUPSu pada 2 September 2026, termasuk apakah kuorum kehadiran tiga perempat pemegang sukuk terpenuhi dan skema restrukturisasi baru macam apa yang akhirnya disetujui, karena itu akan menentukan berapa lama jadwal pembayaran PTPP mundur dari rencana awal.",
+  "sentimen": "negatif",
+  "imageV": "mszpoiq1"
+ },
+ {
+  "slug": "lmpi-jadwalkan-rupslb-25-september-di-sidoarjo",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Jadwalkan RUPSLB [25 September] di Sidoarjo",
+  "deck": "Langgeng Makmur Industri mengumumkan RUPSLB 25 September 2026, dengan pemegang saham per 2 September berhak hadir. Agenda rapat belum diungkap.",
+  "image": "assets/img/lmpi-jadwalkan-rupslb-25-september-di-sidoarjo.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T09:24:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a3af5403a4_2e09bbc2e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMPI",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "Langgeng Makmur Industri",
+   "Sidoarjo"
+  ],
+  "body": [
+   "PT Langgeng Makmur Industri Tbk (LMPI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026 pukul 10.00 WIB, bertempat di kantor Unit 2 Perseroan di Jalan Desa Bringinbendo, Taman, Sidoarjo. Yang berhak hadir dan memberikan suara dalam rapat adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 2 September 2026 sampai pukul 16.00 WIB.",
+   "Panggilan resmi yang memuat agenda lengkap rapat baru akan diterbitkan pada 3 September 2026, disebarkan lewat situs web PT Kustodian Sentral Efek Indonesia, situs Bursa Efek Indonesia, dan situs Perseroan sendiri. Pengumuman yang terbit hari ini belum mencantumkan mata acara RUPSLB. Perseroan juga membuka ruang bagi pemegang saham untuk mengajukan usul agenda, dengan syarat mengikuti ketentuan Pasal 12 ayat 12 Anggaran Dasar Perseroan dan Pasal 16 Peraturan OJK No 15/POJK.04/2020 tentang RUPS perusahaan terbuka.",
+   "Surat pemberitahuan ini ditandatangani oleh Direksi Perseroan di Sidoarjo pada 19 Agustus 2026, dengan Henri Subiyanto selaku Corporate Secretary sebagai pengirim laporan ke bursa."
+  ],
+  "fotoAdegan": "Rolls of plastic packaging film stacked on pallets inside an Indonesian factory warehouse, morning light, workers moving in the background",
+  "takeaway": "Pemberitahuan ini netral bagi emiten karena baru mengumumkan jadwal dan tata cara RUPSLB, tanpa mengungkap keputusan atau aksi korporasi apa pun yang akan dibahas. Pos kinerja seperti jumlah saham beredar, struktur permodalan, atau arus kas baru bisa terpengaruh tergantung agenda yang nanti diumumkan, sehingga pelaku pasar belum punya dasar untuk menilai dampaknya dari dokumen ini saja. Yang perlu dipantau investor adalah panggilan resmi RUPSLB pada 3 September 2026, yang seharusnya sudah memuat agenda lengkap rapat, serta pelaksanaan RUPSLB itu sendiri pada 25 September 2026 di Sidoarjo.",
+  "sentimen": "netral",
+  "imageV": "mszpp6kn"
  },
  {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
@@ -10531,198 +10748,5 @@ var ARTICLES = [
   "imageV": "tjnruu",
   "isoDate": "2026-07-28",
   "takeaway": "Telkom menginisiasi forum kolaborasi nasional untuk mempersiapkan Indonesia menghadapi era kriptografi pascakuantum, saat komputer kuantum berpotensi mematahkan metode enkripsi yang selama ini melindungi transaksi perbankan, komunikasi, dan data pemerintah. Pihak yang terdampak adalah sektor keuangan dan infrastruktur kritis yang bergantung pada sistem enkripsi saat ini, mengingat proses migrasi ke sistem baru disebut membutuhkan waktu bertahun-tahun. Langkah ini masih berupa forum diskusi awal, belum ada peta jalan atau target waktu migrasi yang disebutkan dalam berita. Yang masih kurang untuk membaca arah persiapan ini adalah siapa saja lembaga yang terlibat dalam forum tersebut dan kapan peta jalan migrasi kriptografi pascakuantum akan dirilis."
- },
- {
-  "slug": "bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin",
-  "category": "Perbankan",
-  "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
-  "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
-  "image": "assets/img/bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin",
-  "tags": [
-   "LPS",
-   "Perbankan",
-   "Simpanan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Tiga dari 10 bank tercatat menawarkan suku bunga simpanan yang melampaui batas penjaminan. Akibatnya, dana nasabah pada produk tersebut berisiko tidak dijamin Lembaga Penjamin Simpanan.",
-   "Penjaminan simpanan memiliki dua syarat utama: nilai simpanan dalam batas tertentu, dan tingkat bunga tidak melebihi batas yang ditetapkan LPS.",
-   "Tawaran bunga tinggi kerap menarik nasabah, namun justru bisa menjadi sinyal bahwa bank sedang membutuhkan likuiditas, sekaligus menghilangkan perlindungan penjaminan."
-  ],
-  "fotoAdegan": "A customer signs paperwork at a bank desk while an officer explains deposit terms nearby.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685696c185c-ketua-lps-anggito-abimanyu_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruv",
-  "isoDate": "2026-07-28",
-  "takeaway": "Tiga dari 10 bank yang disurvei menawarkan bunga simpanan melebihi batas penjaminan LPS, yang berarti sebagian dana nasabah di produk itu otomatis kehilangan status dijamin. Yang terdampak adalah nasabah pemegang simpanan di bank-bank tersebut, terutama yang tergiur imbal hasil tinggi tanpa memeriksa batas bunga penjaminan. Bunga di atas batas biasanya menandakan bank sedang mengejar likuiditas, sehingga arah yang perlu diperhatikan adalah kondisi likuiditas bank-bank penawar bunga tinggi itu. Yang masih perlu diperhatikan adalah apakah LPS mengambil langkah lanjutan terhadap bank-bank bersangkutan, atau apakah bank-bank itu menurunkan bunganya ke bawah batas penjaminan."
- },
- {
-  "slug": "ihsg-dibuka-menguat-siap-uji-level-resistance",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
-  "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "image": "assets/img/ihsg-dibuka-menguat-siap-uji-level-resistance.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
-  "tags": [
-   "IHSG",
-   "Pasar Modal",
-   "Bursa Asia"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Indeks Harga Saham Gabungan dibuka menguat dan bersiap menguji level resistance teknikal. Penguatan ini mengikuti tren positif bursa Asia, sementara Wall Street ditutup variatif.",
-   "Level resistance merupakan titik harga tempat tekanan jual biasanya menguat. Penembusan level ini kerap dijadikan sinyal teknikal oleh pelaku pasar.",
-   "Arah indeks domestik pada perdagangan harian umumnya dipengaruhi kombinasi sentimen global, pergerakan nilai tukar, dan aliran dana investor asing."
-  ],
-  "fotoAdegan": "Traders arrive at their desks early inside a brokerage office as the morning session begins.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruv",
-  "isoDate": "2026-07-28",
-  "takeaway": "IHSG dibuka menguat mengikuti tren positif bursa Asia, sementara Wall Street semalam bergerak variatif, dan indeks kini menguji level resistance teknikal, titik harga tempat tekanan jual biasanya muncul. Yang terdampak adalah investor dan pelaku pasar saham domestik yang mengacu pada sinyal teknikal ini untuk keputusan jual beli. Berita ini baru mencatat kondisi pembukaan pagi, belum menunjukkan apakah penguatan bertahan sampai penutupan atau berbalik begitu resistance tersentuh. Yang masih kurang adalah data penutupan IHSG hari ini serta arah aliran dana asing, dua hal yang biasanya menentukan apakah level resistance itu tertembus atau justru menahan indeks."
- },
- {
-  "slug": "emas-antam-turun-rp9000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Turun [Rp9.000] per Gram",
-  "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "image": "assets/img/emas-antam-turun-rp9000-per-gram.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Harga emas batangan Antam turun Rp9.000 per gram pada perdagangan 28 Juli 2026, menjadi Rp2.613.000 per gram.",
-   "Koreksi tipis semacam ini merupakan bagian dari fluktuasi harian yang lazim di pasar logam mulia, mengikuti pergerakan harga acuan internasional.",
-   "Bagi pembeli emas fisik, biaya cetak dan selisih harga jual-beli umumnya lebih menentukan hasil investasi ketimbang fluktuasi harian."
-  ],
-  "fotoAdegan": "A shop owner arranges small gold bars inside a locked glass cabinet at a gold trading counter.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7f5kk",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Harga emas batangan Antam turun Rp9.000 per gram pada 28 Juli 2026 menjadi Rp2.613.000 per gram, koreksi kecil yang lazim terjadi mengikuti pergerakan harga acuan internasional. Yang terdampak adalah pembeli dan pemegang emas fisik Antam, meski untuk emas fisik biaya cetak dan selisih harga jual-beli biasanya lebih menentukan hasil ketimbang selisih harian sekecil ini. Berita ini hanya mencatat pergerakan satu hari, sehingga belum bisa dibaca apakah ini awal tren turun atau sekadar fluktuasi biasa. Yang masih kurang adalah pergerakan harga emas dalam beberapa hari ke depan, untuk melihat apakah koreksi ini berlanjut atau berbalik."
- },
- {
-  "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
-  "category": "Moneter",
-  "title": "Rupiah Tertekan Usai [Gubernur BI] Mengundurkan Diri",
-  "deck": "Pasar merespons negatif pengunduran diri Gubernur Bank Indonesia, rupiah melemah ke Rp18.063.",
-  "image": "assets/img/rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456219-rupiah-melemah-ke-rp18063-per-dolar-as-pasar-respons-negatif-pengunduran-diri-gubernur-bi-perry-warjiyo",
-  "tags": [
-   "Rupiah",
-   "Bank Indonesia",
-   "Kurs"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Nilai tukar rupiah melemah ke Rp18.063 per dolar AS setelah pasar merespons negatif pengunduran diri Gubernur Bank Indonesia Perry Warjiyo.",
-   "Perubahan mendadak di pucuk pimpinan bank sentral berpotensi memicu ketidakpastian, karena pasar perlu waktu menilai apakah arah kebijakan moneter akan berubah.",
-   "Kredibilitas dan prediktabilitas kebijakan bank sentral merupakan salah satu faktor yang diperhitungkan investor asing sebelum menempatkan dana di aset dalam negeri."
-  ],
-  "fotoAdegan": "A money changer counts coins by hand at a small currency exchange kiosk in a shopping mall.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7fkb5",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Rupiah melemah ke Rp18.063 per dolar AS setelah Gubernur Bank Indonesia Perry Warjiyo mengumumkan pengunduran diri, tanda pasar membaca pergantian pimpinan bank sentral sebagai sumber ketidakpastian baru. Yang terdampak langsung adalah nilai tukar rupiah dan siapa pun yang bertransaksi dalam dolar, dari importir sampai investor yang memegang aset domestik. Arah pelemahan ini bergantung pada seberapa cepat kejelasan datang, karena pasar biasanya menahan penilaian sampai tahu apakah arah kebijakan bank sentral berubah atau tidak. Yang akan menentukan apakah tekanan ini berlanjut atau mereda adalah siapa pengganti definitif Gubernur BI dan pergerakan rupiah pada hari-hari perdagangan berikutnya."
- },
- {
-  "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
-  "category": "Moneter",
-  "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
-  "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
-  "tags": [
-   "Bank Indonesia",
-   "Moneter",
-   "Kurs"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Bank Indonesia meminta pelaku pasar tidak panik menyusul pengunduran diri Gubernur Perry Warjiyo. Destry Damayanti memastikan arah kebijakan moneter tidak akan bergeser.",
-   "Komunikasi bank sentral pada momen transisi berperan penting meredam volatilitas, karena ekspektasi pelaku pasar sering kali bergerak lebih cepat daripada kebijakan itu sendiri.",
-   "Konsistensi kebijakan menjadi kunci menjaga kepercayaan investor, terutama menyangkut komitmen pengendalian inflasi dan stabilitas nilai tukar."
-  ],
-  "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msre4qf1",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Bank Indonesia lewat Destry Damayanti menegaskan arah kebijakan moneter tidak berubah meski Gubernur Perry Warjiyo baru saja mengundurkan diri, pernyataan yang ditujukan untuk meredam kepanikan pasar. Yang terdampak adalah pelaku pasar dan investor yang tengah menimbang risiko rupiah maupun aset domestik lain di tengah kekosongan posisi Gubernur BI. Ada dua kemungkinan arah dari sini, pasar percaya pernyataan ini dan tekanan pada rupiah mereda, atau ketidakpastian tetap berlanjut karena pernyataan lisan belum tentu menjawab siapa pengganti definitif dan bagaimana proses transisi berjalan. Pergerakan rupiah pada hari-hari perdagangan berikutnya, serta kepastian proses pengangkatan Gubernur BI baru, akan menunjukkan skenario mana yang terjadi."
- },
- {
-  "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",
-  "category": "Moneter",
-  "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
-  "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
-  "image": "assets/img/uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi",
-  "tags": [
-   "Bank Indonesia",
-   "DPR",
-   "Moneter"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Komisi XI DPR belum menjadwalkan uji kelayakan dan kepatutan calon Gubernur Bank Indonesia. Presiden disebut belum mengajukan nama kandidat ke DPR.",
-   "Proses pemilihan Gubernur BI melibatkan dua tahap: pengajuan nama oleh Presiden, lalu uji kelayakan oleh DPR sebelum penetapan.",
-   "Semakin lama kekosongan posisi definitif berlangsung, semakin besar potensi ketidakpastian di pasar keuangan yang menanti kejelasan arah kebijakan."
-  ],
-  "fotoAdegan": "An empty hearing room with rows of chairs sits ready inside a parliamentary building in Jakarta.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msre5efa",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Uji kelayakan calon Gubernur Bank Indonesia belum bisa dijadwalkan Komisi XI DPR karena Presiden belum mengirimkan nama calon, padahal prosesnya mesti melalui dua tahap, pengajuan nama oleh Presiden lalu uji kelayakan oleh DPR, sebelum pejabat baru bisa dilantik. Kekosongan ini membuat pelaku pasar keuangan menunggu tanpa kepastian arah kepemimpinan bank sentral ke depan. Berita ini belum menyebutkan kapan masa jabatan Gubernur BI saat ini berakhir atau target waktu pengajuan nama oleh Presiden, sehingga belum bisa dipastikan apakah kekosongan ini akan singkat atau berlarut. Yang perlu ditunggu adalah tanggal resmi pengajuan nama calon oleh Presiden ke DPR, karena itu yang menentukan kapan uji kelayakan bisa mulai berjalan."
- },
- {
-  "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",
-  "category": "Industri",
-  "title": "Ekspor [Mineral Kritis] Terhambat, Kantor Staf Presiden Turun Tangan",
-  "deck": "Pengusaha melaporkan hambatan ekspor mineral kritis, direspons langsung oleh Kantor Staf Presiden.",
-  "image": "assets/img/ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456176-pengusaha-lapor-ekspor-mineral-kritis-terhambat-ksp-dudung-turun-tangan-aparat-tidak-boleh-mengada-ada",
-  "tags": [
-   "Mineral Kritis",
-   "Ekspor",
-   "Industri"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Kalangan pengusaha melaporkan hambatan dalam kegiatan ekspor mineral kritis. Laporan tersebut direspons Kantor Staf Presiden yang menegaskan aparat tidak boleh mempersulit proses yang sudah sesuai aturan.",
-   "Mineral kritis merupakan bahan baku penting bagi industri baterai, elektronik, dan energi terbarukan, sehingga permintaannya meningkat tajam secara global.",
-   "Hambatan administratif di jalur ekspor berdampak langsung pada arus devisa sekaligus mengurangi daya tarik Indonesia sebagai mitra pasokan yang andal."
-  ],
-  "fotoAdegan": "Workers load bags of processed mineral ore onto a cargo truck at a mining export depot.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/27/6a6789a5bf980-ksp-dudung-abdurachman-menggelar-rakor-lintas-kementerian-dan-lembaga-untuk-membahas-hambatan-ekspor-mineral-kritis_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrux",
-  "isoDate": "2026-07-28",
-  "takeaway": "Kantor Staf Presiden turun tangan setelah pengusaha melaporkan hambatan dalam ekspor mineral kritis, bahan baku utama industri baterai, elektronik, dan energi terbarukan yang permintaannya terus naik secara global. KSP menegaskan aparat tidak boleh mempersulit proses ekspor yang sudah memenuhi aturan, sinyal yang menyasar langsung eksportir mineral kritis dan berpotensi memengaruhi penerimaan devisa negara. Arahnya tampak menuju pelonggaran hambatan administratif di lapangan, tapi berita ini belum merinci instansi mana yang dianggap mempersulit atau aturan spesifik apa yang bermasalah. Yang akan menentukan apakah pernyataan ini berujung perubahan nyata adalah ada tidaknya revisi aturan turunan atau data realisasi ekspor mineral kritis pada periode berikutnya."
  }
 ];

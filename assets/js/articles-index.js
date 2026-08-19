@@ -27,7 +27,8 @@ var ARTICLES = [
   "title": "IHSG [Tertekan] 0,65 Persen, Saham Bank Justru Menguat",
   "deck": "IHSG dibuka turun ke 6.408,18 pada Rabu pagi, sementara sejumlah saham bank di LQ45 justru menguat di tengah tekanan jual yang masih terasa.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/sekuritas-lobi-pagi.jpg",
+  "image": "assets/img/ihsg-tertekan-0-65-persen-saham-bank-justru-menguat.jpg",
+  "imageV": "mszpk4li",
   "tags": [
    "IHSG",
    "Saham Bank",
@@ -35,6 +36,57 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat"
+ },
+ {
+  "slug": "dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Jawab Bursa: Tender Wajib [Sinergi] Dijadwal Agustus-September",
+  "deck": "DOOH menjelaskan ke BEI bahwa pengendali baru SII akan menggelar tender wajib bagi pemegang saham publik akhir Agustus hingga akhir September 2026, tanpa rencana delisting.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september.jpg",
+  "imageV": "mszpl30z",
+  "tags": [
+   "DOOH",
+   "Sinergi Internasional Investama",
+   "Tender Wajib",
+   "Pengambilalihan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c67d4d2226_0b4a654070.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-tender-saham-diperpanjang-lagi-ke-22-september",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: Tender Saham [Diperpanjang] Lagi ke 22 September",
+  "deck": "Digital Edge (Hong Kong) Ltd memperpanjang untuk ketiga kalinya masa penawaran tender sukarela atas saham EDGE seharga Rp11.500 per lembar, hingga 22 September 2026, dengan pembayaran pada 2 Oktober 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/edge-tender-saham-diperpanjang-lagi-ke-22-september.jpg",
+  "imageV": "mszplp2j",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "tender offer",
+   "Digital Edge Hong Kong"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6d0e21d368_9751050c13.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jelaskan ke Bursa Akuisisi 6 Anak Usaha [Terafiliasi]",
+  "deck": "BIKE menjawab surat Bursa soal rencana akuisisi enam anak usaha yang didanai fasilitas Rp1 triliun dari pihak yang terafiliasi dengan pengendali Perseroan sendiri.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi.jpg",
+  "imageV": "mszpma8d",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "pihak terafiliasi",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/648dd7b63d_0cdc89f660.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
@@ -54,6 +106,40 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460975-wamenkeu-ungkap-strategi-prabowo-bidik-ekonomi-6-persen-di-rapbn-2027-target-tak-boleh-rendah"
  },
  {
+  "slug": "nely-copot-direktur-eduard-halomoan-lewat-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "NELY [Copot] Direktur Eduard Halomoan Lewat RUPSLB",
+  "deck": "RUPSLB NELY menyetujui pemberhentian Direktur Eduard Halomoan setelah dinonaktifkan sementara oleh Dewan Komisaris, sementara susunan direksi dan komisaris lain tidak berubah.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/nely-copot-direktur-eduard-halomoan-lewat-rupslb.jpg",
+  "imageV": "mszpmw8h",
+  "tags": [
+   "NELY",
+   "Perubahan Pengurus",
+   "RUPSLB",
+   "Pelayaran Nelly Dwi Putri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/75dd2ddba2_1646df6af3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "CRAB Jadwalkan [RUPST] dan RUPSLB pada 25 September 2026",
+  "deck": "CRAB menjadwalkan RUPST dan RUPSLB pada 25 September 2026 di Medan, dengan pemegang saham per 2 September 2026 yang berhak hadir dan tenggat usulan agenda 27 Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026.jpg",
+  "imageV": "mszpnagg",
+  "tags": [
+   "CRAB",
+   "RUPS",
+   "Toba Surimi Industries",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d05847f0ad_199a6c5178.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram",
   "category": "Bisnis",
   "title": "Harga Emas Antam [Turun] Rp50.000 ke Rp2.645.000/Gram",
@@ -69,6 +155,57 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460969-harga-emas-antam-hari-ini-19-agustus-2026-terpantau-turun-rp50000-jadi-rp2645000-per-gram"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Sukuk III 2023, [Restrukturisasi] Lagi",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap III 2023 ke RUPSU 2 September 2026 untuk meminta persetujuan restrukturisasi demi penyehatan keuangan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi.jpg",
+  "imageV": "mszpnwm2",
+  "tags": [
+   "PTPP",
+   "restrukturisasi",
+   "sukuk",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e3fe8cf07f_cb5fef811b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSU Sukuk 2022, [Restrukturisasi] Kelima",
+  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2022 Seri B ke RUPSu 2 September 2026 untuk minta persetujuan restrukturisasi utang, panggilan restrukturisasi kelima dalam dua hari.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima.jpg",
+  "imageV": "mszpoiq1",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "sukuk",
+   "RUPSu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5674c1d5de_c966fd0d36.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lmpi-jadwalkan-rupslb-25-september-di-sidoarjo",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Jadwalkan RUPSLB [25 September] di Sidoarjo",
+  "deck": "Langgeng Makmur Industri mengumumkan RUPSLB 25 September 2026, dengan pemegang saham per 2 September berhak hadir. Agenda rapat belum diungkap.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/lmpi-jadwalkan-rupslb-25-september-di-sidoarjo.jpg",
+  "imageV": "mszpp6kn",
+  "tags": [
+   "LMPI",
+   "RUPSLB",
+   "Langgeng Makmur Industri",
+   "Sidoarjo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a3af5403a4_2e09bbc2e1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
@@ -6592,113 +6729,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography"
- },
- {
-  "slug": "bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin",
-  "category": "Perbankan",
-  "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
-  "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin.jpg",
-  "imageV": "tjnruv",
-  "tags": [
-   "LPS",
-   "Perbankan",
-   "Simpanan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin"
- },
- {
-  "slug": "ihsg-dibuka-menguat-siap-uji-level-resistance",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
-  "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/ihsg-dibuka-menguat-siap-uji-level-resistance.jpg",
-  "imageV": "tjnruv",
-  "tags": [
-   "IHSG",
-   "Pasar Modal",
-   "Bursa Asia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif"
- },
- {
-  "slug": "emas-antam-turun-rp9000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Turun [Rp9.000] per Gram",
-  "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/emas-antam-turun-rp9000-per-gram.jpg",
-  "imageV": "msr7f5kk",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram"
- },
- {
-  "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
-  "category": "Moneter",
-  "title": "Rupiah Tertekan Usai [Gubernur BI] Mengundurkan Diri",
-  "deck": "Pasar merespons negatif pengunduran diri Gubernur Bank Indonesia, rupiah melemah ke Rp18.063.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri.jpg",
-  "imageV": "msr7fkb5",
-  "tags": [
-   "Rupiah",
-   "Bank Indonesia",
-   "Kurs"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456219-rupiah-melemah-ke-rp18063-per-dolar-as-pasar-respons-negatif-pengunduran-diri-gubernur-bi-perry-warjiyo"
- },
- {
-  "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
-  "category": "Moneter",
-  "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
-  "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
-  "imageV": "msre4qf1",
-  "tags": [
-   "Bank Indonesia",
-   "Moneter",
-   "Kurs"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur"
- },
- {
-  "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",
-  "category": "Moneter",
-  "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
-  "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan.jpg",
-  "imageV": "msre5efa",
-  "tags": [
-   "Bank Indonesia",
-   "DPR",
-   "Moneter"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi"
- },
- {
-  "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",
-  "category": "Industri",
-  "title": "Ekspor [Mineral Kritis] Terhambat, Kantor Staf Presiden Turun Tangan",
-  "deck": "Pengusaha melaporkan hambatan ekspor mineral kritis, direspons langsung oleh Kantor Staf Presiden.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan.jpg",
-  "imageV": "tjnrux",
-  "tags": [
-   "Mineral Kritis",
-   "Ekspor",
-   "Industri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456176-pengusaha-lapor-ekspor-mineral-kritis-terhambat-ksp-dudung-turun-tangan-aparat-tidak-boleh-mengada-ada"
  }
 ];

@@ -207,6 +207,45 @@ function ukuranGambar(relatif) {
 }
 
 
+// Daftar artikel sumber di kaki halaman edisi.
+//
+// Dua gunanya sekaligus: pembaca bisa menelusuri dari rangkuman ke berita
+// aslinya, dan tiap artikel mendapat satu tautan masuk dari halaman yang
+// tertaut menu di seluruh situs. Slug yang tidak ketemu di arsip dilewati
+// diam-diam, bukan dicetak sebagai tautan mati.
+// Stempel waktu edisi dalam +07:00.
+//
+// Kedua edisi menyimpan "dibuat" sebagai ISO berakhiran Z. Instannya benar,
+// tapi seluruh situs memakai +07:00 dan pembaca mesin membandingkan apa
+// adanya, jadi zonanya dipindah tanpa mengubah saatnya.
+function stempelWIB(iso) {
+  const d = new Date(iso);
+  if (isNaN(d)) return undefined;
+  return new Date(d.getTime() + 7 * 3600 * 1000).toISOString().slice(0, 19) + '+07:00';
+}
+
+function daftarBahan(edisi) {
+  const peta = new Map(ARTICLES.map(a => [a.slug, a]));
+  let ada = (edisi.bahanSlug || []).map(s => peta.get(s)).filter(Boolean);
+  let judul = 'Artikel yang dirangkum edisi ini';
+  if (!ada.length) {
+    // Edisi lama tidak menyimpan slug bahannya. Merekonstruksinya dari tanggal
+    // TIDAK sah: pemeriksaan menunjukkan arsip 18 Agustus berisi 39 artikel
+    // sedangkan edisinya menyebut 34, jadi lima di antaranya masuk setelah
+    // edisi ditulis. Daripada mengaku merangkum yang tidak dirangkum,
+    // judulnya diganti jadi klaim yang memang benar.
+    ada = ARTICLES.filter(a => String(a.isoDate || '').slice(0, 10) === edisi.tanggal);
+    judul = 'Berita yang terbit ' + (edisi.tanggalLabel || edisi.tanggal);
+  }
+  if (!ada.length) return '';
+  return '<section class="rail bahan-edisi">' +
+    '<h2 class="bahan-judul">' + esc(judul) + '</h2>' +
+    '<ul class="bahan-daftar">' +
+    ada.map(a => '<li><a href="' + articleUrl(a) + '">' + esc(plain(a.title)) + '</a>' +
+      '<span class="bahan-tgl num">' + esc(a.date || '') + '</span></li>').join('') +
+    '</ul></section>';
+}
+
 function waktuISO(iso) {
   const s = String(iso == null ? '' : iso).trim();
   if (!s) return '';
@@ -1314,6 +1353,7 @@ if (HARIAN) {
     `</div>` +
     (HARIAN.penutup ? `<p class="harian-penutup">${esc(HARIAN.penutup)}</p>` : '') +
     `</div>` +
+    daftarBahan(HARIAN) +
     `<div class="article-source-box" style="max-width:70ch;"><p>Signal Harian disusun redaksi The Signal ` +
     `dari seluruh berita yang terbit hari itu. Isinya pembacaan arah, bukan penilaian benar atau salah ` +
     `atas kebijakan, dan bukan rekomendasi investasi.</p>` +
@@ -1379,8 +1419,20 @@ document.addEventListener('DOMContentLoaded', function () {
       imgW: 1200, imgH: 630,
       ogType: 'article',
       jsonld: {
+        // Sebelumnya cuma tiga medan. Tanpa image, author, dan
+        // mainEntityOfPage, blok ini tidak memenuhi syarat hasil kaya Google
+        // untuk artikel, padahal inilah produk inti situs. dateModified
+        // dicantumkan karena isi halaman ini memang berganti di URL yang sama
+        // tiap hari.
         '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
-        headline: plain(HARIAN.judul), datePublished: HARIAN.dibuat,
+        headline: plain(HARIAN.judul),
+        description: plain(HARIAN.ringkas || ''),
+        datePublished: stempelWIB(HARIAN.dibuat),
+        dateModified: stempelWIB(HARIAN.dibuat),
+        image: [BASE + '/assets/img/og-card.jpg'],
+        author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
+        mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + '/signal-harian.html' },
+        inLanguage: 'id-ID',
         publisher: RUJUK_ORGANISASI,
       },
     }) + isi + FOOT, 'utf8');
@@ -1507,7 +1559,14 @@ document.addEventListener('DOMContentLoaded', function () {
       ogType: 'article',
       jsonld: {
         '@context': 'https://schema.org', '@type': 'AnalysisNewsArticle',
-        headline: plain(PEKANAN.judul), datePublished: PEKANAN.dibuat,
+        headline: plain(PEKANAN.judul),
+        description: plain(PEKANAN.ringkas || ''),
+        datePublished: stempelWIB(PEKANAN.dibuat),
+        dateModified: stempelWIB(PEKANAN.dibuat),
+        image: [BASE + '/assets/img/og-card.jpg'],
+        author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
+        mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + '/signal-pekanan.html' },
+        inLanguage: 'id-ID',
         publisher: RUJUK_ORGANISASI,
       },
     }) + isi + FOOT, 'utf8');

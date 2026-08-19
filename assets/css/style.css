@@ -1014,3 +1014,22 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
 .arsip-baris a:hover { text-decoration: underline; }
 .arsip-meta { flex: none; font-size: .72rem; color: var(--ink-soft); }
 @media (max-width: 720px) { .arsip-daftar { columns: 1; } }
+
+/* Daftar artikel sumber di kaki halaman edisi Signal Harian. */
+.bahan-edisi { padding-top: 2.4rem; padding-bottom: .4rem; }
+.bahan-judul {
+  font-size: 1.02rem; letter-spacing: .04em; text-transform: uppercase;
+  margin: 0 0 1rem; padding-bottom: .5rem;
+  border-bottom: 1px solid var(--garis);
+}
+.bahan-daftar { list-style: none; margin: 0; padding: 0; }
+.bahan-daftar li {
+  display: flex; gap: 1rem; align-items: baseline;
+  padding: .5rem 0; border-bottom: 1px solid var(--garis-tipis, var(--garis));
+}
+.bahan-daftar a { flex: 1 1 auto; text-decoration: none; }
+.bahan-daftar a:hover { text-decoration: underline; }
+.bahan-tgl { flex: 0 0 auto; font-size: .82rem; opacity: .6; white-space: nowrap; }
+@media (max-width: 560px) {
+  .bahan-daftar li { flex-direction: column; gap: .15rem; }
+}

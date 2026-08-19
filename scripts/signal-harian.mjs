@@ -135,6 +135,12 @@ async function main() {
     benang: hasil.benang,
     penutup: hasil.penutup || '',
     jumlahBahan: bahan.length,
+    // Slug artikel yang benar-benar jadi bahan, bukan tebakan dari isi benang.
+    // Halaman edisi sebelumnya menyebut "dirangkai dari 34 berita" tanpa
+    // menautkan satu pun; artikelnya jadi hanya bisa ditemukan lewat sitemap.
+    // Daftar ini datang dari variabel yang sama yang dikirim ke model, jadi
+    // tidak mungkin menunjuk artikel yang tidak ada.
+    bahanSlug: bahan.map(a => a.slug).filter(Boolean),
     dibuat: new Date().toISOString(),
   };
 

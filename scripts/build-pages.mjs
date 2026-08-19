@@ -213,7 +213,7 @@ function ukuranGambar(relatif) {
 // CollectionPage dengan ItemList berisi tautan nyata, bukan tipe yang
 // kedengaran mewah tapi medannya diisi karangan.
 function halamanKoleksi({ nama, deskripsi, url, item }) {
-  const daftar = (item || []).filter(x => x && x.url).slice(0, 100);
+  const daftar = (item || []).filter(x => x && x.url).slice(0, 200);
   const j = {
     '@context': 'https://schema.org', '@type': 'CollectionPage',
     name: nama, description: deskripsi, url: BASE + url, inLanguage: 'id-ID',
@@ -1118,6 +1118,32 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
       url: '/agenda.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      // Entri berlabel "perkiraan" sengaja TIDAK ikut. Di halaman, label itu
+      // yang memberi tahu pembaca tanggalnya belum pasti; di data terstruktur
+      // tidak ada medan setara yang dihormati mesin, jadi startDate perkiraan
+      // akan terbaca sebagai tanggal pasti. Lebih baik hilang daripada salah.
+      jsonld: {
+        '@context': 'https://schema.org', '@type': 'CollectionPage',
+        name: 'Agenda Sinyal', url: BASE + '/agenda.html', inLanguage: 'id-ID',
+        description: 'Tanggal yang akan menentukan arah, dikumpulkan dari arsip The Signal.',
+        isPartOf: { '@type': 'WebSite', url: BASE + '/' },
+        publisher: { '@type': 'Organization', name: 'The Signal', url: BASE },
+        mainEntity: {
+          '@type': 'ItemList',
+          itemListElement: AGENDA.filter(e => !e.perkiraan).slice(0, 100).map((e, i) => ({
+            '@type': 'ListItem', position: i + 1,
+            item: {
+              '@type': 'Event',
+              // kategori (plus kode emiten kalau ada) itu nama acaranya; e.teks
+              // adalah paragraf 'yang perlu dipantau', tempatnya di description.
+              name: (e.emiten ? e.emiten + ' — ' : '') + e.kategori,
+              description: e.teks, startDate: e.iso,
+              eventStatus: 'https://schema.org/EventScheduled',
+              url: BASE + (e.slug ? '/berita/' + e.slug + '.html' : '/agenda.html'),
+            },
+          })),
+        },
+      },
     }) +
     `<section class="rail" style="padding-top:2.2rem;">` +
     `<div class="harian-head">` +

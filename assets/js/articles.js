@@ -3,6 +3,141 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
+  "category": "Aksi Korporasi",
+  "title": "MREI Ganti [Direktur], Anwar Cipto Syamsul Gantikan Trinita Situmeang",
+  "deck": "RUPSLB 14 Agustus 2026 mengangkat Anwar Cipto Syamsul sebagai direktur baru MREI menggantikan Trinita Situmeang, efektif setelah lolos fit and proper test OJK.",
+  "image": "assets/img/mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T15:31:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/27905cf970_6b826382b3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MREI",
+  "tags": [
+   "MREI",
+   "direksi",
+   "RUPSLB",
+   "OJK"
+  ],
+  "body": [
+   "PT Maskapai Reasuransi Indonesia Tbk (MREI) mengumumkan perubahan susunan direksi berdasarkan keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 14 Agustus 2026. Anwar Cipto Syamsul diangkat sebagai direktur baru menggantikan posisi yang sebelumnya diisi oleh Trinita Situmeang. Pengangkatan ini baru berlaku efektif setelah Anwar Cipto Syamsul memperoleh persetujuan dari Otoritas Jasa Keuangan (OJK) atas hasil penilaian kemampuan dan kepatutan atau fit and proper test.",
+   "Dengan perubahan ini, susunan direksi MREI tetap berjumlah tiga orang. Robby Loho tetap menjabat Presiden Direktur sejak diangkat pada 22 Januari 2025, sementara Lukcimo Jahja tetap menjabat sebagai Direktur Keuangan sejak 19 Juni 2025. Lukcimo Jahja juga merangkap sebagai Sekretaris Perusahaan yang menandatangani laporan keterbukaan informasi ini kepada OJK dan Bursa Efek Indonesia.",
+   "Sementara itu, jajaran Dewan Komisaris MREI tidak mengalami perubahan dalam laporan ini. Hardjono tetap menjabat Presiden Komisaris sejak 19 Juni 2025, Aloysia Dwi Ana Nurhandayani tetap menjabat Komisaris sejak 19 Juni 2025, dan Fanra Budiman Arief tetap menjabat Komisaris sejak 2 Juli 2025."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district, morning light, people walking below",
+  "takeaway": "Perubahan ini tergolong netral bagi MREI, karena hanya mengganti satu dari tiga kursi direksi tanpa disertai alasan pergantian atau perubahan strategi bisnis yang diumumkan, sementara posisi presiden direktur dan direktur keuangan tidak berubah. Pergantian direksi tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas, tapi pasar tetap memperhatikan siapa yang duduk di kursi direksi karena merekalah yang mengambil keputusan bisnis reasuransi sehari-hari, termasuk kebijakan penerimaan risiko dan klaim yang pada akhirnya memengaruhi laba perusahaan. Yang perlu dipantau berikutnya adalah hasil fit and proper test dari OJK atas Anwar Cipto Syamsul, sebab pengangkatannya sebagai direktur baru baru resmi berlaku setelah OJK memberi persetujuan, sehingga sampai saat itu posisi direktur ketiga MREI masih berstatus transisi.",
+  "sentimen": "netral",
+  "imageV": "mszvs9y4"
+ },
+ {
+  "slug": "smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Jadwalkan [RUPSLB] 25 September, DPS Tutup 2 September",
+  "deck": "Solusi Bangun Indonesia akan menggelar RUPSLB pada 25 September 2026 di Jakarta Selatan, dengan pemegang saham yang berhak hadir dicatat per 2 September 2026.",
+  "image": "assets/img/smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T15:19:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b332418_a4dfa2956e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Solusi Bangun Indonesia",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026 pukul 14.00 WIB, di Hotel RA Suites Simatupang, Jalan TB Simatupang No. 30, Jakarta Selatan. Pengumuman ditandatangani oleh Andika Lukmana selaku Legal & Compliance Group Head sekaligus Sekretaris Perusahaan, dan disampaikan ke Otoritas Jasa Keuangan sebagai tindak lanjut dari surat sebelumnya bernomor 231/LGRC/SBI/VII/2026 tertanggal 11 Agustus 2026.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 2 September 2026 pukul 16.00 WIB, atau pemilik saldo rekening efek di KSEI pada penutupan perdagangan tanggal yang sama. Pemanggilan resmi yang memuat agenda lengkap rapat baru akan diumumkan pada 3 September 2026 melalui situs IDX, situs Perseroan, dan situs eASY.KSEI. Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat memiliki minimal 1/20 dari total saham berhak suara dan mengajukan usulan paling lambat 27 Agustus 2026, yaitu tujuh hari kalender sebelum tanggal pemanggilan.",
+   "Rapat akan berlangsung secara fisik terbatas sekaligus elektronik, mengacu pada aturan OJK soal penyelenggaraan RUPS secara elektronik. Karena keterbatasan tempat, Perseroan mendorong pemegang saham untuk hadir lewat aplikasi eASY.KSEI atau memberi kuasa lewat fasilitas eProxy di aplikasi yang sama, maupun mengunduh formulir surat kuasa di situs Perseroan untuk diserahkan ke petugas Biro Administrasi Efek yang ditunjuk. Tata cara pelaksanaan rapat, penghitungan kuorum, dan pengambilan keputusan akan diumumkan bersamaan dengan pemanggilan resmi pada 3 September 2026."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs and a stage for a corporate shareholders meeting, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi Solusi Bangun Indonesia karena isinya baru soal jadwal dan mekanisme rapat, belum memuat agenda atau keputusan apa pun yang bisa memengaruhi kinerja perusahaan. RUPSLB adalah forum pengambilan suara pemegang saham atas keputusan penting seperti perubahan permodalan, pengangkatan direksi, atau aksi korporasi lain, sehingga yang tersentuh di sini adalah hak suara dan kepastian tata kelola perusahaan, bukan pos keuangan seperti laba atau arus kas. Yang perlu dipantau berikutnya adalah pemanggilan resmi pada 3 September 2026, karena di situlah agenda lengkap rapat baru terungkap, serta tenggat usul mata acara dari pemegang saham pada 27 Agustus 2026 bagi yang menguasai minimal satu per dua puluh saham berhak suara.",
+  "sentimen": "netral",
+  "imageV": "mszvsttu"
+ },
+ {
+  "slug": "ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Kantongi Kontrak Baru [Rp1,5 Triliun] hingga Juni 2026",
+  "deck": "Kontrak baru PPRE tembus Rp1,5 triliun hingga semester I 2026, pendapatan naik 35% menjadi Rp2,2 triliun, dan rugi berjalan turun 93,4% menjadi Rp88,6 miliar.",
+  "image": "assets/img/ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T15:19:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/81f0f3d4ad_3286740f55.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRE",
+  "tags": [
+   "PPRE",
+   "PP Presisi",
+   "kontrak baru",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT PP Presisi Tbk (PPRE) mencatatkan perolehan kontrak baru senilai Rp1,5 triliun hingga triwulan II 2026. Sebanyak 97 persen dari nilai kontrak tersebut berasal dari segmen jasa pertambangan dan konstruksi. Perseroan menyebut masih menjajaki peluang kemitraan strategis untuk memperluas cakupan bisnis, terutama di sektor pertambangan.",
+   "Sejalan dengan kontrak baru tersebut, pendapatan konsolidasian PPRE tercatat Rp2,2 triliun hingga Juni 2026, tumbuh 35 persen dibandingkan Rp1,6 triliun pada periode yang sama tahun sebelumnya. Segmen pertambangan dan konstruksi tetap menjadi penopang utama dengan kontribusi 97,3 persen terhadap total pendapatan.",
+   "Dari sisi laba rugi, rugi tahun berjalan PPRE hingga Juni 2026 tercatat Rp88,6 miliar, turun 93,4 persen dibandingkan rugi Rp1,3 triliun pada 2025. Beban penurunan nilai aset ikut menyusut dari Rp656 miliar pada 2025 menjadi Rp57,9 miliar hingga Juni 2026, sementara beban keuangan turun tipis dari Rp171,4 miliar menjadi Rp167,7 miliar. Direktur Utama PPRE Rizki Dianugrah mengatakan perseroan ke depan akan fokus pada efisiensi, produktivitas, optimalisasi aset, serta peningkatan kualitas dan profitabilitas proyek, sementara Vice President Corporate Secretary Mei Elsa Kembaren menegaskan komitmen menjaga tata kelola dan disiplin pengelolaan keuangan."
+  ],
+  "fotoAdegan": "Heavy mining excavators and dump trucks working at an open pit mine, dust rising under harsh tropical daylight, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi PPRE, karena hampir semua indikator inti bergerak searah membaik dalam periode yang sama, pendapatan naik, rugi menyusut tajam, dan beban penurunan nilai aset turun drastis. Yang tersentuh di sini adalah laba rugi perusahaan dan beban penurunan nilai, yaitu pencatatan kerugian ketika nilai aset seperti alat berat atau piutang dianggap tidak akan kembali sepenuhnya, karena pelaku pasar memakainya untuk menilai apakah rugi besar tahun 2025 itu masalah sesaat atau berkelanjutan. Beban keuangan, yaitu biaya bunga dari utang perseroan, juga sedikit turun, menandakan tekanan bunga belum makin berat meski penurunannya tipis. Yang perlu dipantau berikutnya adalah laporan keuangan resmi semester I 2026, sebab angka-angka di rilis pers ini masih berupa highlight awal manajemen dan baru mengikat penuh setelah laporan keuangan teraudit terbit ke publik.",
+  "sentimen": "positif",
+  "imageV": "mszvtis0"
+ },
+ {
+  "slug": "bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ [tutup] permanen bioskop CGV Studio Pekanbaru",
+  "deck": "Graha Layar Prima menutup permanen bioskop CGV Studio Pekanbaru menyusul keputusan pengelola Plaza Citra Pekanbaru, tanpa merinci dampak keuangannya.",
+  "image": "assets/img/bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T14:21:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6078527a27_91cc7266f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "CGV Cinemas",
+   "Pekanbaru",
+   "bioskop"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), pengelola jaringan bioskop CGV, mengumumkan penutupan permanen gerai CGV Studio Pekanbaru di Kota Pekanbaru per 18 Agustus 2026. Keputusan ini didasarkan pada surat pemberitahuan penutupan operasional Nomor 2866/MKT/CP-PL/VII/2026 tertanggal 21 Juli 2026 yang ditandatangani bersama PT Citraciti Pacific, pihak yang mengelola Plaza Citra Pekanbaru tempat bioskop tersebut beroperasi.",
+   "Dalam keterbukaan informasi ke Bursa Efek Indonesia, perseroan menyebut penutupan ini merupakan tindak lanjut dari keputusan PT Citraciti Pacific sendiri selaku pengelola mal, bukan inisiatif dari BLTZ. Alasan yang dicantumkan adalah berbagai pertimbangan internal pengelola mal, termasuk aspek bisnis dan operasional Plaza Citra Pekanbaru, tanpa rincian lebih lanjut mengenai bentuk pertimbangan tersebut.",
+   "Pada kolom dampak kejadian terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan, BLTZ tidak mengisi keterangan apa pun alias mengosongkannya. Laporan ditandatangani oleh Yang Cheolung selaku Corporate Secretary BLTZ dan disampaikan ke bursa pada 19 Agustus 2026 pukul 14.21 WIB."
+  ],
+  "fotoAdegan": "Rolled-down metal shutter across a darkened cinema entrance inside a quiet shopping mall corridor, dim evening lighting, few passersby.",
+  "takeaway": "Laporan ini netral bagi BLTZ karena penutupan hanya menyangkut satu gerai dan dipicu keputusan pengelola mal, bukan tanda masalah keuangan atau operasional dari BLTZ sendiri. Yang tersentuh adalah jumlah gerai bioskop yang beroperasi, karena setiap gerai adalah sumber pendapatan dari penjualan tiket dan makanan minuman. Kehilangan satu gerai di Pekanbaru berarti hilangnya pendapatan dari lokasi itu, tapi BLTZ punya puluhan bioskop lain di berbagai kota sehingga porsi dampaknya terhadap pendapatan total perusahaan kemungkinan kecil, apalagi perseroan sendiri tidak mengungkapkan kolom dampak finansial dalam laporan ini. Yang perlu dipantau berikutnya adalah laporan keuangan mendatang untuk melihat apakah penutupan ini tercatat sebagai kerugian aset atau justru disertai kompensasi dari pengelola mal, serta apakah BLTZ akan membuka lokasi pengganti di Pekanbaru.",
+  "sentimen": "netral",
+  "imageV": "mszvu2lk"
+ },
+ {
+  "slug": "bmas-rencanakan-rights-issue-2-87-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Rencanakan [Rights Issue] 2,87 Miliar Saham Baru",
+  "deck": "Bank Kasikorn Indonesia (BMAS) mengoreksi jadwal rencana penambahan modal lewat HMETD IV, menerbitkan maksimal 2,87 miliar saham baru untuk modal kerja kredit, RUPSLB digelar 27 Agustus 2026.",
+  "image": "assets/img/bmas-rencanakan-rights-issue-2-87-miliar-saham-baru.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T14:16:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6bd016d659_86451f3d7e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS), yang sebelumnya bernama Bank Maspion Indonesia, mengoreksi surat keterbukaan informasi nomor 037/BMAS-CS/VIII/2026 tanggal 7 Agustus 2026 lewat surat baru bernomor 039/BMAS-CS/VIII/2026 tanggal 19 Agustus 2026. Isinya tetap sama, yaitu rencana penambahan modal dengan hak memesan efek terlebih dahulu keempat atau PMHMETD IV, yakni penerbitan saham baru yang lebih dulu ditawarkan kepada pemegang saham lama sebelum ke investor lain. Perseroan berencana menerbitkan saham baru sebanyak-banyaknya 2.875.000.000 lembar, setara 15,88 persen dari total saham yang sudah beredar saat ini, dengan nilai nominal Rp100 per saham.",
+   "Bagi pemegang saham yang memilih tidak menebus haknya, porsi kepemilikan mereka di perseroan berpotensi tergerus hingga maksimum 13,71 persen. Persetujuan rencana ini akan dimintakan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Kamis, 27 Agustus 2026 pukul 08.30 hingga 10.30 WIB, di Gedung Pacific Century Place Ruang B Lantai B1, SCBD, Jakarta Selatan. Harga pelaksanaan saham baru dan jumlah final yang akan diterbitkan belum ditentukan, baru akan diungkap dalam prospektus setelah pernyataan pendaftaran ke Otoritas Jasa Keuangan (OJK) dinyatakan efektif. Setelah RUPSLB menyetujui, perseroan punya waktu paling lama 12 bulan untuk merealisasikan penerbitan saham ini.",
+   "Seluruh dana bersih hasil PMHMETD IV, setelah dikurangi biaya-biaya penerbitan, rencananya dipakai sebagai modal kerja untuk memperbesar penyaluran kredit perseroan. Struktur permodalan sebelum dan sesudah aksi korporasi ini belum diungkapkan dan baru akan disampaikan setelah angkanya ditentukan. Direksi dan Dewan Komisaris BMAS menyatakan telah menyetujui keterbukaan informasi ini dan bertanggung jawab atas kebenaran informasi yang disampaikan."
+  ],
+  "fotoAdegan": "Bank teller assisting a small business customer at a branch counter, warm interior lighting, Jakarta office setting",
+  "takeaway": "Rencana ini netral bagi BMAS karena dua sisi sama besarnya: bank memang butuh modal segar untuk memperbesar penyaluran kredit, tapi pemegang saham yang tidak ikut menyetor bisa kehilangan hingga 13,71 persen porsi kepemilikannya. Penambahan modal ini menambah ekuitas, yaitu modal sendiri bank di luar utang, sehingga bantalan keuangannya lebih tebal untuk menyalurkan kredit lebih banyak, tapi karena jumlah saham beredar bisa naik sampai 15,88 persen, laba per saham berisiko terbagi ke lebih banyak lembar kalau labanya tidak ikut naik sebanding. Harga saham baru yang harus dibayar pemegang saham, yang sebenarnya menentukan apakah aksi ini menguntungkan atau memberatkan, belum diumumkan dan baru terbit dalam prospektus. Yang perlu dipantau adalah RUPSLB pada 27 Agustus 2026 yang akan memutuskan apakah rencana ini disetujui, lalu proses pendaftaran ke OJK sesudahnya sampai dinyatakan efektif, karena penerbitan saham baru ini paling lambat harus rampung 12 bulan setelah RUPSLB menyetujuinya.",
+  "sentimen": "netral",
+  "imageV": "mszvuhco"
+ },
+ {
   "slug": "pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026",
   "category": "Aksi Korporasi",
   "title": "PIPA Rencanakan [Akuisisi] Perusahaan Migas Lewat CSPA Agustus 2026",
@@ -28,6 +163,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong netral karena baru berupa rencana yang belum mengikat, tanpa nilai transaksi atau porsi saham yang diungkap, sehingga dampak riilnya ke keuangan Oxala belum bisa dihitung meski narasinya menjanjikan. Kalau akuisisi ini benar terjadi, pos yang tersentuh adalah aset dan struktur pendapatan konsolidasi perseroan, karena bisnis lama di material bangunan PVC akan bercampur dengan pendapatan dari pengolahan gas bumi yang menurut proyeksi perusahaan target jauh lebih besar. Perlu dicatat, angka pendapatan Rp250 miliar dan margin EBITDA 60 persen itu proyeksi milik perusahaan target sendiri, belum tentu sudah lewat uji kelayakan independen dari Oxala. Yang perlu dipantau berikutnya adalah penandatanganan CSPA yang ditargetkan Agustus 2026 ini, disusul RUPSLB yang ditargetkan paling lambat Maret 2027 sebagai syarat persetujuan pemegang saham sebelum transaksi bisa dilanjutkan.",
   "sentimen": "netral",
   "imageV": "mszrdid1"
+ },
+ {
+  "slug": "unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "UNIC Panggil RUPSLB, [Sesuaikan] KBLI 2025 di Anggaran Dasar",
+  "deck": "Unggul Indah Cahaya menggelar RUPSLB 10 September 2026 untuk menyesuaikan klasifikasi bidang usaha di anggaran dasar dengan KBLI 2025, bukan perubahan kegiatan usaha riil.",
+  "image": "assets/img/unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T13:36:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f3d9b23dbb_dd5c8e1106.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNIC",
+  "tags": [
+   "UNIC",
+   "RUPSLB",
+   "KBLI",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Unggul Indah Cahaya Tbk (UNIC) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 10 September 2026 pukul 11.00 WIB di Hotel Kimaya Slipi, Lantai Mezzanine, Ruang Kerinci, Jakarta Barat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 18 Agustus 2026, sampai penutupan jam perdagangan Bursa Efek Indonesia. Rapat ini hanya membawa satu agenda, yakni persetujuan penyesuaian Pasal 3 Anggaran Dasar tentang Maksud dan Tujuan serta Kegiatan Usaha Perseroan.",
+   "Penyesuaian tersebut dilakukan untuk mematuhi Peraturan Badan Pusat Statistik No. 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) edisi 2025. Dalam materi rapat, kegiatan usaha utama UNIC dirinci ulang dengan kode KBLI baru, di antaranya industri kimia dasar dari minyak bumi, gas alam, dan batu bara (20116), pergudangan dan penyimpanan (52109), perdagangan besar berbagai barang baik lewat grosir maupun non-grosir (46901 dan 46902), aktivitas pengembangan dan penyewaan bangunan atau lahan hunian (68111 dan 68112), pengelolaan pusat perbelanjaan (68125), penyewaan gudang dan fasilitas penyimpanan mandiri (68126), pengelolaan gedung perkantoran (68127), serta angkutan bermotor untuk barang umum (49231). Perseroan menegaskan perubahan ini bukan penambahan maupun pengurangan kegiatan usaha sebagaimana diatur dalam POJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, melainkan sekadar penyelarasan penamaan dengan klasifikasi baru pemerintah.",
+   "Perseroan tidak mengirim undangan terpisah ke pemegang saham dan menganggap pengumuman ini sebagai panggilan resmi. Pemegang saham yang berhalangan hadir dapat memberi kuasa elektronik melalui platform eASY KSEI atau kuasa tertulis kepada PT Raya Saham Registra selaku biro administrasi efek, dengan surat kuasa fisik yang telah ditandatangani wajib diterima Direksi paling lambat Jumat, 4 September 2026, tiga hari kerja sebelum rapat. Keputusan sah jika disetujui musyawarah mufakat, atau jika melalui pemungutan suara, disetujui lebih dari dua pertiga saham dengan hak suara yang hadir dalam rapat."
+  ],
+  "fotoAdegan": "Steel pipelines and storage tanks at a petrochemical processing plant under a hazy tropical sky, workers in hard hats walking near equipment",
+  "takeaway": "Perubahan ini condong netral bagi Unggul Indah Cahaya karena sifatnya murni administratif, menyesuaikan penamaan bidang usaha di anggaran dasar dengan klasifikasi baku lapangan usaha pemerintah yang baru, tanpa menambah atau mengurangi kegiatan usaha riil perseroan seperti ditegaskan sendiri dalam materi rapat. Yang tersentuh di sini adalah dokumen anggaran dasar perseroan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga secara fundamental tidak ada perubahan pada bisnis yang sedang berjalan. Yang perlu dipantau adalah hasil RUPSLB pada 10 September 2026 di Hotel Kimaya Slipi, Jakarta Barat, serta tenggat pengumpulan surat kuasa fisik pada 4 September 2026 bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral",
+  "imageV": "mszvv38k"
  },
  {
   "slug": "truk-manajemen-akui-lonjakan-saham-bukan-fundamental",
@@ -435,6 +597,32 @@ var ARTICLES = [
   "imageV": "mszpp6kn"
  },
  {
+  "slug": "intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "INTP: Direktur Anak Usaha MSS Diganti, Alasan [Restrukturisasi]",
+  "deck": "Indocement melaporkan pergantian satu direktur di anak usahanya, PT Mandiri Sejahtera Sentra, karena restrukturisasi organisasi, efektif 19 Agustus 2026.",
+  "image": "assets/img/intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T09:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4ca69155ab_87c47d1593.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "direksi",
+   "entitas anak"
+  ],
+  "body": [
+   "PT Indocement Tunggal Prakarsa Tbk (INTP) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia adanya perubahan susunan direksi di anak usahanya, PT Mandiri Sejahtera Sentra (MSS), per 19 Agustus 2026. Posisi Direktur yang sebelumnya dijabat Mochammad Nur kini digantikan oleh Purwoto. Dua posisi lain tidak berubah, yaitu Direktur Utama Jimmy Dharmawan Lokantara dan Direktur Zulkifly Mahda Latuconsina.",
+   "Dalam laporan yang ditandatangani Corporate Secretary INTP, Dani Handajani, perseroan menyebut penyebab pergantian ini adalah restrukturisasi organisasi, tanpa merinci lebih lanjut bentuk restrukturisasi yang dimaksud. INTP menegaskan perubahan direksi di anak usaha ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Wide view of a cement factory complex with tall silos and kilns, workers in hard hats walking near conveyor structures, hazy industrial sky",
+  "takeaway": "Laporan ini netral bagi INTP, karena yang berubah hanya satu kursi direktur di anak usaha, bukan di induk usaha, dan perseroan sendiri menyatakan tidak ada dampak operasional atau keuangan. Ini murni soal tata kelola perusahaan, bukan angka kinerja seperti ekuitas, arus kas, atau laba per saham, sehingga pelaku pasar biasanya hanya mencatatnya sebagai informasi administratif, bukan sinyal soal arah bisnis. Yang perlu dipantau adalah apakah kata restrukturisasi organisasi ini jadi awal dari perubahan lebih luas di anak usaha atau grup Indocement, yang biasanya baru terlihat lewat laporan keterbukaan informasi berikutnya.",
+  "sentimen": "netral",
+  "imageV": "mszvvp73"
+ },
+ {
   "slug": "apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta",
   "category": "Aksi Korporasi",
   "title": "APEX Kantongi Kontrak [Pengeboran] PHM Senilai US$74,3 Juta",
@@ -649,6 +837,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi HDIT, sebab isinya sepenuhnya berupa bantahan formal tanpa angka atau fakta baru yang mengubah gambaran fundamental perseroan. Surat semacam ini adalah prosedur baku ketika bursa melihat harga, volume, atau frekuensi perdagangan suatu saham bergerak tidak wajar dan ingin memastikan tidak ada informasi tersembunyi yang mendorongnya. Jadi laporan ini tidak menyentuh pos keuangan seperti ekuitas atau laba per saham, tapi fungsinya menyingkirkan kekhawatiran adanya rencana korporasi mendadak atau informasi orang dalam di balik pergerakan sahamnya. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi saham HDIT benar-benar mereda setelah surat ini terbit 18 Agustus 2026, serta apakah janji perseroan soal tidak ada aksi korporasi dalam tiga bulan ke depan, kira-kira hingga pertengahan November 2026, benar-benar terbukti.",
   "sentimen": "netral",
   "imageV": "mszrgwbi"
+ },
+ {
+  "slug": "pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "PYFA tunda [rights issue] II, rugi usaha susut 99% semester I",
+  "deck": "PYFA menunda pelaksanaan rights issue kedua karena kondisi pasar modal lemah, sembari melaporkan penjualan naik 17 persen dan rugi usaha nyaris impas pada semester I 2026.",
+  "image": "assets/img/pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T21:35:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69f2579c43_2274d94491.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PYFA",
+  "tags": [
+   "PYFA",
+   "farmasi",
+   "rights issue",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Pyridam Farma Tbk (PYFA) memutuskan menunda pelaksanaan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II atau rights issue kedua) yang sebelumnya disetujui Rapat Umum Pemegang Saham Luar Biasa pada April 2026 untuk mendanai akuisisi dan memperkuat struktur permodalan. Dalam materi Paparan Publik Semester I 2026 yang dipublikasikan 18 Agustus 2026, manajemen menyebut keputusan itu, yang sudah diumumkan lewat surat No. 143/PYFA-CS/VI/2026 tanggal 12 Juni 2026, mempertimbangkan kondisi pasar modal dan makroekonomi yang belum kondusif, dengan Indeks Harga Saham Gabungan tercatat turun 26,7 persen sejak awal tahun per 7 Agustus 2026. Perseroan menegaskan penundaan ini tidak berdampak material terhadap operasional, posisi hukum, kondisi keuangan, maupun kelangsungan usaha, dan akan meninjau kembali waktu pelaksanaannya setelah kondisi pasar dinilai stabil.",
+   "Dari sisi kinerja, penjualan bersih PYFA naik 17 persen menjadi Rp1.617,5 miliar pada semester I 2026 dari Rp1.385,4 miliar pada periode sama tahun lalu, didorong pertumbuhan Probiotec Group di Australia. Laba bruto naik sekitar 27 persen menjadi Rp373,1 miliar dengan marjin membaik dari 21,3 persen ke 23,1 persen, sementara EBITDA disesuaikan melonjak 83 persen menjadi Rp160,2 miliar dengan marjin naik dari 6 persen ke 10 persen. Rugi usaha menyusut 99,4 persen menjadi Rp0,38 miliar dari Rp68,40 miliar tahun lalu, hampir mencapai titik impas. Namun rugi periode berjalan masih tercatat Rp178,28 miliar, membaik 16,4 persen dari Rp213,20 miliar, dengan beban keuangan sebesar Rp172,7 miliar sebagai pos terbesar penyebab selisih antara laba operasi dan hasil bersih; rugi per saham membaik menjadi Rp15,86 dari Rp20,10.",
+   "Di sisi tata kelola, Robby Yulianto mengundurkan diri sebagai Komisaris Utama efektif sejak surat diterima 20 Mei 2026, dan Rapat Umum Pemegang Saham Tahunan pada Juni 2026 mengangkat Widjanarko Brotosaputro sebagai Komisaris Utama baru, mendampingi dua Komisaris Independen, Charles D. Marpaung dan Maura Linda Sitanggang. Pada 4 Juni 2026, Kepala Badan Pengawas Obat dan Makanan, Prof. dr. Taruna Ikrar, meresmikan fasilitas produksi injeksi steril Lini 3 dan gudang baru di PT Ethica Industri Farmasi yang disebut menggandakan kapasitas platform injeksi steril Perseroan. Produksi percobaan (pilot batch) dijadwalkan berjalan Juli hingga Desember 2026, dengan produksi komersial dimulai Januari 2027."
+  ],
+  "fotoAdegan": "Pharmaceutical technicians in white cleanroom suits inspecting glass vials on an automated packaging line, bright sterile lighting",
+  "takeaway": "Laporan ini campuran antara perbaikan operasional yang nyata dan satu keputusan yang menahan penyelesaian masalah utama Perseroan, sehingga penilaiannya netral, bukan murni positif. Rugi usaha nyaris impas dan EBITDA, yaitu ukuran laba inti sebelum bunga, pajak, penyusutan, dan amortisasi yang dipakai pasar untuk menilai kemampuan bisnis menghasilkan kas, melonjak 83 persen menjadi Rp160,2 miliar. Namun rugi bersih Rp178,28 miliar sebagian besar berasal dari beban bunga Rp172,7 miliar, dan penundaan rights issue kedua, yang sedianya untuk mendanai akuisisi sekaligus memperkuat struktur permodalan, berarti solusi atas beban bunga itu belum terealisasi. Yang perlu dipantau adalah kapan Perseroan meninjau ulang waktu pelaksanaan rights issue setelah kondisi pasar modal dinilai stabil, serta transisi Lini 3 Ethica dari produksi percobaan pada Juli-Desember 2026 menuju produksi komersial pada Januari 2027.",
+  "sentimen": "netral",
+  "imageV": "mszvwar1"
  },
  {
   "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
@@ -10530,224 +10745,5 @@ var ARTICLES = [
   "isoDate": "2026-07-29",
   "fotoDitolak": true,
   "takeaway": "Harga emas batangan Antam turun menjadi Rp2.601.000 per gram pada perdagangan 29 Juli 2026, mengikuti pergerakan harga emas global yang dipengaruhi ekspektasi suku bunga bank sentral dan penguatan dolar AS. Pihak yang terdampak adalah pembeli dan penjual emas batangan sebagai instrumen investasi harian. Ada dua kemungkinan arah dari titik ini, koreksi bisa bersifat sementara jika ekspektasi penurunan suku bunga kembali menguat, atau menjadi awal tren turun jika dolar AS terus menguat. Pergerakan indeks dolar AS dan sinyal dari keputusan suku bunga bank sentral berikutnya akan menentukan mana dari dua skenario itu yang terjadi."
- },
- {
-  "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
-  "category": "Moneter",
-  "title": "Rupiah Tembus [Rp18.106] per Dolar di Tengah Transisi Pimpinan BI",
-  "deck": "Nilai tukar rupiah melemah meski pasar mulai merespons positif penunjukan pejabat sementara Gubernur BI.",
-  "image": "assets/img/rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi.jpg",
-  "date": "29 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456447-rupiah-melemah-ke-rp18106-per-dolar-meski-pasar-mulai-optimis-penunjukan-destry-damayanti-sebagai-pejabat-sementara-gubernur-bi",
-  "tags": [
-   "Rupiah",
-   "Bank Indonesia",
-   "Kurs"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Nilai tukar rupiah melemah ke level Rp18.106 per dolar AS, meski pasar mulai menunjukkan optimisme atas penunjukan Destry Damayanti sebagai Pejabat Sementara Gubernur Bank Indonesia.",
-   "Transisi kepemimpinan di bank sentral kerap menimbulkan volatilitas jangka pendek di pasar keuangan, karena investor menanti kepastian arah kebijakan moneter ke depan.",
-   "Pelemahan rupiah berdampak langsung pada biaya impor bahan baku industri dan beban pembayaran utang luar negeri, dua faktor yang pada akhirnya bisa merembet ke harga barang di dalam negeri."
-  ],
-  "fotoAdegan": "A cashier at a money exchange counter stacks coin trays while a customer waits nearby.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7csdp",
-  "isoDate": "2026-07-29",
-  "fotoDitolak": true,
-  "takeaway": "Rupiah melemah ke Rp18.106 per dolar AS, bersamaan dengan penunjukan Destry Damayanti sebagai Pejabat Sementara Gubernur Bank Indonesia yang sejauh ini direspons positif oleh pasar. Pelemahan ini berdampak pada importir bahan baku industri dan pembayaran utang luar negeri, yang pada akhirnya bisa merembet ke harga barang dalam negeri. Ada dua kemungkinan arah, pelemahan ini sekadar volatilitas jangka pendek khas masa transisi kepemimpinan bank sentral, atau berlanjut jika pasar masih menanti kepastian arah kebijakan moneter ke depan. Kejelasan itu akan terlihat dari sikap kebijakan pertama di bawah kepemimpinan sementara ini, atau dari proses penetapan Gubernur BI definitif."
- },
- {
-  "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
-  "category": "Ketenagakerjaan",
-  "title": "Angka PHK Tembus [126 Ribu] Pekerja hingga Mei",
-  "deck": "Apindo memaparkan tekanan yang dihadapi dunia usaha di balik gelombang pemutusan hubungan kerja.",
-  "image": "assets/img/angka-phk-tembus-126-ribu-pekerja-hingga-mei.jpg",
-  "date": "29 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456427-126-ribu-pekerja-terkena-phk-hingga-mei-2026-apindo-beberkan-tekanan-di-dunia-usaha",
-  "tags": [
-   "PHK",
-   "Ketenagakerjaan",
-   "Apindo"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Sebanyak 126 ribu pekerja tercatat terkena pemutusan hubungan kerja hingga Mei 2026. Apindo memaparkan sejumlah tekanan yang dihadapi dunia usaha di balik angka tersebut.",
-   "Tekanan yang disebut mencakup melemahnya permintaan, kenaikan biaya produksi, serta persaingan dengan produk impor yang menggerus pangsa pasar industri dalam negeri.",
-   "Sektor padat karya seperti tekstil dan alas kaki umumnya paling terdampak, karena margin usahanya tipis dan sensitif terhadap perubahan biaya tenaga kerja maupun bahan baku."
-  ],
-  "fotoAdegan": "Former factory workers carry cardboard boxes of belongings out through a factory's main gate.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/19/68030896f2366-ilustrasi-phk_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrul",
-  "isoDate": "2026-07-29",
-  "takeaway": "Sebanyak 126 ribu pekerja tercatat kena pemutusan hubungan kerja sampai Mei 2026, menurut Apindo dipicu oleh melemahnya permintaan, naiknya biaya produksi, dan tekanan produk impor terhadap pasar dalam negeri. Sektor padat karya seperti tekstil dan alas kaki paling terdampak karena margin usahanya tipis dan sensitif terhadap perubahan biaya tenaga kerja maupun bahan baku. Berita ini belum menyebut apakah angka tersebut naik atau turun dibanding periode sebelumnya, sehingga arah tren PHK ke depan belum bisa dipastikan. Data PHK pada bulan-bulan setelah Mei, serta ada tidaknya kebijakan pembatasan produk impor di sektor ini, akan menentukan apakah tekanan tersebut mereda atau berlanjut."
- },
- {
-  "slug": "menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara",
-  "category": "Moneter",
-  "title": "Menkeu Perjelas Posisi Danantara di [KSSK]: Tanpa Hak Suara",
-  "deck": "Menkeu menegaskan Danantara hadir dalam rapat KSSK tanpa hak suara dalam pengambilan keputusan.",
-  "image": "assets/img/menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara.jpg",
-  "date": "29 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456426-purbaya-tegaskan-batas-dan-peran-danantara-di-kssk-sebut-tak-punya-hak-suara-dalam-keputusan",
-  "tags": [
-   "Danantara",
-   "KSSK",
-   "Stabilitas Keuangan"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Menteri Keuangan Purbaya menegaskan batas peran Danantara dalam Komite Stabilitas Sistem Keuangan. Lembaga tersebut disebut hadir dalam rapat KSSK tanpa memiliki hak suara dalam pengambilan keputusan.",
-   "KSSK merupakan forum koordinasi antara Kementerian Keuangan, Bank Indonesia, OJK, dan LPS untuk menjaga stabilitas sistem keuangan, terutama dalam kondisi krisis.",
-   "Penegasan soal batas kewenangan ini penting untuk menjaga kejelasan tata kelola, mengingat Danantara mengelola aset BUMN dalam jumlah sangat besar."
-  ],
-  "fotoAdegan": "Officials sit around an oval table during a closed-door coordination meeting inside a government building.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a68fd125cb61-menkeu-purbaya-dalam-rapat-berkala-komite-stabilitas-sistem-keuangan-kssk_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrum",
-  "isoDate": "2026-07-29",
-  "takeaway": "Menteri Keuangan Purbaya menegaskan Danantara boleh hadir dalam rapat Komite Stabilitas Sistem Keuangan, forum krisis yang beranggotakan Kementerian Keuangan, Bank Indonesia, OJK, dan LPS, namun tanpa hak suara dalam pengambilan keputusan. Penegasan ini menyasar kejelasan batas kewenangan lembaga yang mengelola aset BUMN dalam jumlah sangat besar itu. Arahnya menunjukkan keputusan soal krisis keuangan tetap dijaga berada di tangan otoritas moneter dan fiskal tradisional, bukan pengelola aset seperti Danantara. Aturan tertulis atau payung hukum resmi yang mencantumkan status Danantara di KSSK akan memastikan apakah batas ini bersifat tetap."
- },
- {
-  "slug": "rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi",
-  "category": "Moneter",
-  "title": "Rupiah Anjlok, Pasar Cermati [The Fed] dan Transisi BI",
-  "deck": "Nilai tukar rupiah tertekan seiring kehati-hatian pasar menanti kebijakan bank sentral AS.",
-  "image": "assets/img/rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456418-rupiah-anjlok-ke-rp18083-per-dolar-as-pasar-cermati-kebijakan-the-fed-dan-transisi-bi",
-  "tags": [
-   "Rupiah",
-   "The Fed",
-   "Kurs"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Nilai tukar rupiah anjlok ke Rp18.083 per dolar AS. Pelaku pasar mencermati dua faktor sekaligus: arah kebijakan bank sentral Amerika Serikat dan transisi kepemimpinan di Bank Indonesia.",
-   "Kebijakan suku bunga The Fed berpengaruh besar pada arus modal ke negara berkembang. Ketika suku bunga AS bertahan tinggi, dana investor cenderung kembali ke aset dolar.",
-   "Bagi Indonesia, pelemahan kurs menambah tekanan pada biaya impor sekaligus mempersempit ruang bagi bank sentral untuk menurunkan suku bunga acuan."
-  ],
-  "fotoAdegan": "A money changer sorts coins into small dishes behind a glass partition at an exchange counter.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7dmfs",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Rupiah melemah ke Rp18.083 per dolar Amerika Serikat, dipicu kombinasi kehati-hatian pasar menjelang keputusan suku bunga bank sentral Amerika Serikat dan proses pergantian pucuk pimpinan Bank Indonesia. Pelemahan ini menambah beban biaya bagi importir sekaligus mempersempit ruang Bank Indonesia untuk menurunkan suku bunga acuan. Ada dua kemungkinan arah, rupiah bisa terus tertekan jika suku bunga Amerika Serikat bertahan tinggi dan transisi BI menambah ketidakpastian, atau tekanan mereda jika kedua faktor itu menemukan kejelasan. Hasil rapat bank sentral Amerika Serikat dan kepastian nama pemimpin baru BI akan jadi penentu ke arah mana rupiah bergerak selanjutnya."
- },
- {
-  "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
-  "category": "Pasar Modal",
-  "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
-  "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "image": "assets/img/ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
-  "tags": [
-   "IHSG",
-   "Pasar Modal",
-   "The Fed"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Indeks Harga Saham Gabungan ditutup anjlok ke level 6.130. Investor memilih sikap menunggu menjelang hasil rapat bank sentral Amerika Serikat.",
-   "Pola wait and see menjelang keputusan suku bunga global merupakan hal lazim, karena hasil rapat berpengaruh pada arah arus modal asing ke pasar saham negara berkembang.",
-   "Volume transaksi yang menipis pada periode seperti ini membuat pergerakan indeks lebih rentan terhadap aksi jual dalam jumlah besar."
-  ],
-  "fotoAdegan": "Brokers lean over their desks discussing trades quietly inside a stock brokerage trading room.",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "imageV": "msr7e85a",
-  "isoDate": "2026-07-28",
-  "fotoDitolak": true,
-  "takeaway": "Indeks Harga Saham Gabungan ditutup turun ke level 6.130 karena investor memilih menahan diri menjelang hasil rapat bank sentral Amerika Serikat yang menentukan arah suku bunga. Sikap menahan diri ini membuat volume transaksi menipis, sehingga pergerakan indeks jadi lebih gampang terguncang oleh aksi jual dalam jumlah besar. Indeks berpeluang membaik jika keputusan bank sentral Amerika Serikat dianggap ramah bagi arus modal ke negara berkembang, atau tertekan lebih lanjut jika sebaliknya. Hasil rapat tersebut dalam waktu dekat akan menjawab ke arah mana IHSG bergerak."
- },
- {
-  "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
-  "category": "BUMN",
-  "title": "Kinerja BUMN Mulai Terangkat, BKI Catat Pendapatan [Rp1,5 Triliun]",
-  "deck": "Penguatan ekosistem BUMN di bawah Danantara mulai tercermin pada capaian kinerja anak usaha.",
-  "image": "assets/img/kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456415-penguatan-danantara-mulai-tercermin-di-kinerja-bumn-bki-catat-pendapatan-rp15-triliun",
-  "tags": [
-   "BUMN",
-   "Danantara",
-   "BKI"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Penguatan ekosistem BUMN di bawah Danantara disebut mulai tercermin pada kinerja perusahaan. Biro Klasifikasi Indonesia mencatat pendapatan Rp1,5 triliun.",
-   "BKI bergerak di bidang klasifikasi dan sertifikasi kapal, sektor yang permintaannya mengikuti aktivitas pelayaran dan perdagangan maritim nasional.",
-   "Konsolidasi BUMN di bawah satu pengelola aset diharapkan menghasilkan efisiensi dan sinergi antar perusahaan yang sebelumnya berjalan sendiri-sendiri."
-  ],
-  "fotoAdegan": "An inspector climbs a ladder to examine the hull plating of a ship in a shipyard dry dock.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68d75bc948b-pt-biro-klasifikasi-indonesia-persero_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnrun",
-  "isoDate": "2026-07-28",
-  "takeaway": "Biro Klasifikasi Indonesia, perusahaan yang mengurus klasifikasi dan sertifikasi kapal, mencatat pendapatan Rp1,5 triliun, angka yang disebut sebagai tanda penguatan ekosistem BUMN di bawah pengelolaan Danantara. Kinerja ini terkait langsung dengan aktivitas pelayaran dan perdagangan maritim nasional yang menjadi basis bisnis BKI. Berita belum menyertakan pendapatan BKI pada periode sebelumnya maupun kinerja BUMN lain dalam ekosistem yang sama, sehingga belum jelas apakah capaian ini mencerminkan tren menyeluruh atau baru satu contoh. Data pembanding tahun lalu dan laporan kinerja anak usaha BUMN lain di bawah Danantara akan menentukan apakah efisiensi dan sinergi yang disebut benar-benar terjadi secara luas."
- },
- {
-  "slug": "nama-menkeu-masuk-bursa-calon-gubernur-bi",
-  "category": "Moneter",
-  "title": "Nama Menkeu Masuk Bursa Calon [Gubernur BI]",
-  "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
-  "image": "assets/img/nama-menkeu-masuk-bursa-calon-gubernur-bi.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden",
-  "tags": [
-   "Bank Indonesia",
-   "Moneter",
-   "Purbaya"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Nama Menteri Keuangan Purbaya masuk dalam daftar kandidat Gubernur Bank Indonesia. Menanggapi spekulasi tersebut, ia menegaskan akan mengikuti perintah Presiden.",
-   "Pemilihan Gubernur BI melibatkan usulan Presiden dan uji kelayakan di DPR, dengan pertimbangan menyangkut kredibilitas kebijakan moneter di mata pasar.",
-   "Isu independensi bank sentral kerap mengemuka ketika kandidat berasal dari lingkungan pemerintah, karena pasar menilai penting adanya jarak antara kebijakan fiskal dan moneter."
-  ],
-  "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ede934fa7-ilustrasi-layar-memampilkan-logo-bank-indonesia-bi-di-jakarta_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "mssbtoph",
-  "isoDate": "2026-07-28",
-  "takeaway": "Purbaya, yang saat ini menjabat Menteri Keuangan, masuk daftar calon Gubernur Bank Indonesia, dan ia memilih menyerahkan keputusan sepenuhnya kepada Presiden alih-alih menyatakan minat sendiri. Pelaku pasar biasanya mencermati kandidat yang berasal dari pos fiskal, karena bank sentral idealnya berjarak dari kebijakan anggaran pemerintah agar keputusan suku bunga tidak dibaca sebagai perpanjangan tangan Kementerian Keuangan. Arah pencalonan ini masih bergantung pada nama resmi yang diajukan Presiden ke DPR dan hasil uji kelayakan di sana. Yang perlu ditunggu adalah kapan surat pencalonan resmi masuk ke DPR dan siapa saja yang akhirnya diuji."
- },
- {
-  "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
-  "category": "Energi",
-  "title": "Harga BBM dan LPG Subsidi Dipastikan [Tidak Naik]",
-  "deck": "Menteri ESDM memastikan harga energi bersubsidi tetap meski harga minyak dunia bergejolak.",
-  "image": "assets/img/harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik.jpg",
-  "date": "28 Juli 2026",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456391-bahlil-pastikan-harga-bbm-dan-lpg-subsidi-tidak-naik-meski-harga-minyak-bergejolak-karena-perang",
-  "tags": [
-   "BBM",
-   "Subsidi",
-   "ESDM"
-  ],
-  "video": null,
-  "videoCaption": null,
-  "body": [
-   "Menteri ESDM Bahlil memastikan harga BBM dan LPG bersubsidi tidak akan naik meski harga minyak dunia bergejolak akibat ketegangan geopolitik.",
-   "Kebijakan menahan harga energi bersubsidi berdampak langsung pada beban subsidi dan kompensasi dalam APBN, terutama jika selisih harga keekonomian melebar.",
-   "Di sisi lain, kepastian harga energi menjadi penopang penting bagi daya beli masyarakat dan pengendalian inflasi, mengingat energi merupakan komponen biaya di hampir semua sektor."
-  ],
-  "fotoAdegan": "A worker exchanges an empty gas cylinder for a full one at a neighborhood LPG distribution kiosk.",
-  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6890d372832-pemerintah-impor-minyak-rusia-skema-g2g-bahlil-jaga-cadangan-energi-nasional_1200_675.jpg",
-  "kreditFoto": "tvOneNews",
-  "imageV": "tjnruo",
-  "isoDate": "2026-07-28",
-  "takeaway": "Pemerintah memastikan harga BBM dan LPG bersubsidi tidak berubah, meskipun harga minyak dunia bergejolak akibat ketegangan di Timur Tengah. Kebijakan ini langsung menahan pengeluaran rumah tangga yang bergantung pada energi bersubsidi, sekaligus memindahkan risiko kenaikan harga minyak dunia ke pos subsidi dan kompensasi dalam APBN. Semakin lebar selisih antara harga keekonomian dan harga yang ditahan pemerintah, semakin besar tambahan anggaran yang harus disiapkan. Arah beban ini akan lebih jelas begitu ada angka realisasi subsidi energi terbaru atau proyeksi harga minyak dunia untuk sisa tahun ini."
  }
 ];

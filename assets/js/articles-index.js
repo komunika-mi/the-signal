@@ -5,6 +5,91 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
+  "category": "Aksi Korporasi",
+  "title": "MREI Ganti [Direktur], Anwar Cipto Syamsul Gantikan Trinita Situmeang",
+  "deck": "RUPSLB 14 Agustus 2026 mengangkat Anwar Cipto Syamsul sebagai direktur baru MREI menggantikan Trinita Situmeang, efektif setelah lolos fit and proper test OJK.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang.jpg",
+  "imageV": "mszvs9y4",
+  "tags": [
+   "MREI",
+   "direksi",
+   "RUPSLB",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/27905cf970_6b826382b3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Jadwalkan [RUPSLB] 25 September, DPS Tutup 2 September",
+  "deck": "Solusi Bangun Indonesia akan menggelar RUPSLB pada 25 September 2026 di Jakarta Selatan, dengan pemegang saham yang berhak hadir dicatat per 2 September 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september.jpg",
+  "imageV": "mszvsttu",
+  "tags": [
+   "SMCB",
+   "RUPSLB",
+   "Solusi Bangun Indonesia",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b332418_a4dfa2956e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Kantongi Kontrak Baru [Rp1,5 Triliun] hingga Juni 2026",
+  "deck": "Kontrak baru PPRE tembus Rp1,5 triliun hingga semester I 2026, pendapatan naik 35% menjadi Rp2,2 triliun, dan rugi berjalan turun 93,4% menjadi Rp88,6 miliar.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026.jpg",
+  "imageV": "mszvtis0",
+  "tags": [
+   "PPRE",
+   "PP Presisi",
+   "kontrak baru",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/81f0f3d4ad_3286740f55.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru",
+  "category": "Aksi Korporasi",
+  "title": "BLTZ [tutup] permanen bioskop CGV Studio Pekanbaru",
+  "deck": "Graha Layar Prima menutup permanen bioskop CGV Studio Pekanbaru menyusul keputusan pengelola Plaza Citra Pekanbaru, tanpa merinci dampak keuangannya.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru.jpg",
+  "imageV": "mszvu2lk",
+  "tags": [
+   "BLTZ",
+   "CGV Cinemas",
+   "Pekanbaru",
+   "bioskop"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6078527a27_91cc7266f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-rencanakan-rights-issue-2-87-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Rencanakan [Rights Issue] 2,87 Miliar Saham Baru",
+  "deck": "Bank Kasikorn Indonesia (BMAS) mengoreksi jadwal rencana penambahan modal lewat HMETD IV, menerbitkan maksimal 2,87 miliar saham baru untuk modal kerja kredit, RUPSLB digelar 27 Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/bmas-rencanakan-rights-issue-2-87-miliar-saham-baru.jpg",
+  "imageV": "mszvuhco",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "HMETD",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6bd016d659_86451f3d7e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026",
   "category": "Aksi Korporasi",
   "title": "PIPA Rencanakan [Akuisisi] Perusahaan Migas Lewat CSPA Agustus 2026",
@@ -19,6 +104,23 @@ var ARTICLES = [
    "CSPA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/58cec32eff_1e6edc1aae.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "UNIC Panggil RUPSLB, [Sesuaikan] KBLI 2025 di Anggaran Dasar",
+  "deck": "Unggul Indah Cahaya menggelar RUPSLB 10 September 2026 untuk menyesuaikan klasifikasi bidang usaha di anggaran dasar dengan KBLI 2025, bukan perubahan kegiatan usaha riil.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar.jpg",
+  "imageV": "mszvv38k",
+  "tags": [
+   "UNIC",
+   "RUPSLB",
+   "KBLI",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f3d9b23dbb_dd5c8e1106.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -276,6 +378,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "INTP: Direktur Anak Usaha MSS Diganti, Alasan [Restrukturisasi]",
+  "deck": "Indocement melaporkan pergantian satu direktur di anak usahanya, PT Mandiri Sejahtera Sentra, karena restrukturisasi organisasi, efektif 19 Agustus 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi.jpg",
+  "imageV": "mszvvp73",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "direksi",
+   "entitas anak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4ca69155ab_87c47d1593.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta",
   "category": "Aksi Korporasi",
   "title": "APEX Kantongi Kontrak [Pengeboran] PHM Senilai US$74,3 Juta",
@@ -409,6 +528,23 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30bd4fe5a2_7240081a06.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "PYFA tunda [rights issue] II, rugi usaha susut 99% semester I",
+  "deck": "PYFA menunda pelaksanaan rights issue kedua karena kondisi pasar modal lemah, sembari melaporkan penjualan naik 17 persen dan rugi usaha nyaris impas pada semester I 2026.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i.jpg",
+  "imageV": "mszvwar1",
+  "tags": [
+   "PYFA",
+   "farmasi",
+   "rights issue",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69f2579c43_2274d94491.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6612,130 +6748,5 @@ var ARTICLES = [
    "Investasi"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram"
- },
- {
-  "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
-  "category": "Moneter",
-  "title": "Rupiah Tembus [Rp18.106] per Dolar di Tengah Transisi Pimpinan BI",
-  "deck": "Nilai tukar rupiah melemah meski pasar mulai merespons positif penunjukan pejabat sementara Gubernur BI.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi.jpg",
-  "imageV": "msr7csdp",
-  "tags": [
-   "Rupiah",
-   "Bank Indonesia",
-   "Kurs"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456447-rupiah-melemah-ke-rp18106-per-dolar-meski-pasar-mulai-optimis-penunjukan-destry-damayanti-sebagai-pejabat-sementara-gubernur-bi"
- },
- {
-  "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
-  "category": "Ketenagakerjaan",
-  "title": "Angka PHK Tembus [126 Ribu] Pekerja hingga Mei",
-  "deck": "Apindo memaparkan tekanan yang dihadapi dunia usaha di balik gelombang pemutusan hubungan kerja.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/angka-phk-tembus-126-ribu-pekerja-hingga-mei.jpg",
-  "imageV": "tjnrul",
-  "tags": [
-   "PHK",
-   "Ketenagakerjaan",
-   "Apindo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456427-126-ribu-pekerja-terkena-phk-hingga-mei-2026-apindo-beberkan-tekanan-di-dunia-usaha"
- },
- {
-  "slug": "menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara",
-  "category": "Moneter",
-  "title": "Menkeu Perjelas Posisi Danantara di [KSSK]: Tanpa Hak Suara",
-  "deck": "Menkeu menegaskan Danantara hadir dalam rapat KSSK tanpa hak suara dalam pengambilan keputusan.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara.jpg",
-  "imageV": "tjnrum",
-  "tags": [
-   "Danantara",
-   "KSSK",
-   "Stabilitas Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456426-purbaya-tegaskan-batas-dan-peran-danantara-di-kssk-sebut-tak-punya-hak-suara-dalam-keputusan"
- },
- {
-  "slug": "rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi",
-  "category": "Moneter",
-  "title": "Rupiah Anjlok, Pasar Cermati [The Fed] dan Transisi BI",
-  "deck": "Nilai tukar rupiah tertekan seiring kehati-hatian pasar menanti kebijakan bank sentral AS.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi.jpg",
-  "imageV": "msr7dmfs",
-  "tags": [
-   "Rupiah",
-   "The Fed",
-   "Kurs"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456418-rupiah-anjlok-ke-rp18083-per-dolar-as-pasar-cermati-kebijakan-the-fed-dan-transisi-bi"
- },
- {
-  "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
-  "category": "Pasar Modal",
-  "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
-  "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu.jpg",
-  "imageV": "msr7e85a",
-  "tags": [
-   "IHSG",
-   "Pasar Modal",
-   "The Fed"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed"
- },
- {
-  "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
-  "category": "BUMN",
-  "title": "Kinerja BUMN Mulai Terangkat, BKI Catat Pendapatan [Rp1,5 Triliun]",
-  "deck": "Penguatan ekosistem BUMN di bawah Danantara mulai tercermin pada capaian kinerja anak usaha.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun.jpg",
-  "imageV": "tjnrun",
-  "tags": [
-   "BUMN",
-   "Danantara",
-   "BKI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456415-penguatan-danantara-mulai-tercermin-di-kinerja-bumn-bki-catat-pendapatan-rp15-triliun"
- },
- {
-  "slug": "nama-menkeu-masuk-bursa-calon-gubernur-bi",
-  "category": "Moneter",
-  "title": "Nama Menkeu Masuk Bursa Calon [Gubernur BI]",
-  "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/nama-menkeu-masuk-bursa-calon-gubernur-bi.jpg",
-  "imageV": "mssbtoph",
-  "tags": [
-   "Bank Indonesia",
-   "Moneter",
-   "Purbaya"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden"
- },
- {
-  "slug": "harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik",
-  "category": "Energi",
-  "title": "Harga BBM dan LPG Subsidi Dipastikan [Tidak Naik]",
-  "deck": "Menteri ESDM memastikan harga energi bersubsidi tetap meski harga minyak dunia bergejolak.",
-  "date": "28 Juli 2026",
-  "image": "assets/img/harga-bbm-dan-lpg-subsidi-dipastikan-tidak-naik.jpg",
-  "imageV": "tjnruo",
-  "tags": [
-   "BBM",
-   "Subsidi",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456391-bahlil-pastikan-harga-bbm-dan-lpg-subsidi-tidak-naik-meski-harga-minyak-bergejolak-karena-perang"
  }
 ];

@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
+  "category": "Makroekonomi",
+  "title": "RAPBN 2027 Bidik Pertumbuhan Ekonomi [6 Persen]",
+  "deck": "Pemerintah menargetkan ekonomi tumbuh 6 persen pada 2027 lewat RAPBN, dengan defisit anggaran ditekan ke 2,4 persen dari PDB serta dorongan investasi lewat Danantara.",
+  "image": "assets/img/rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T10:33:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460975-wamenkeu-ungkap-strategi-prabowo-bidik-ekonomi-6-persen-di-rapbn-2027-target-tak-boleh-rendah",
+  "tags": [
+   "RAPBN 2027",
+   "pertumbuhan ekonomi",
+   "Danantara",
+   "defisit anggaran"
+  ],
+  "body": [
+   "Pemerintah menetapkan target pertumbuhan ekonomi 6 persen dalam Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027, dibarengi rencana menurunkan defisit anggaran, yakni selisih belanja dan pendapatan negara yang biasanya ditutup dengan utang, ke sekitar 2,4 persen dari total nilai ekonomi nasional atau Produk Domestik Bruto (PDB). Wakil Menteri Keuangan Suahasil Nazara menyebut target itu bukan angka asal optimistis, melainkan didasarkan pada perbaikan kondisi ekonomi yang sudah terlihat sepanjang 2026. Target setinggi ini penting bagi pembaca karena akan menentukan arah belanja negara, subsidi, dan bantuan sosial pada tahun anggaran berikutnya.",
+   "Ekonomi Indonesia tumbuh 5,45 persen pada semester I 2026, dan pemerintah memperkirakan kuartal III serta IV 2026 bisa berada di atas 5,5 persen. Proyeksi itu ditopang oleh sektor manufaktur yang masih dalam fase berkembang, kinerja ekspor yang bertahan baik, dan belanja pemerintah yang dijaga tetap mengalir. Suahasil menyebut Presiden Prabowo Subianto memang meminta target tinggi, dengan mengutip ungkapan agar bercita-cita setinggi mungkin meski hasil akhirnya bisa saja meleset dari sasaran.",
+   "Untuk mengejar pertumbuhan 6 persen, pemerintah akan mengandalkan konsumsi rumah tangga, yang selama ini menyumbang sekitar 53 sampai 54 persen dari total perekonomian nasional, dengan APBN dipakai memberi bantuan sosial dan meringankan beban keluarga. Selain itu pemerintah mengandalkan investasi, dengan Danantara diberi peran mengonsolidasikan aset-aset badan usaha milik negara agar lebih menarik bagi investor swasta, baik dari dalam maupun luar negeri. Belanja negara juga akan diarahkan ke sektor yang efeknya menyebar luas ke perekonomian, bukan sekadar terserap di satu titik.",
+   "Pemerintah lewat PT Danantara Sumberdaya Indonesia akan memperketat pengawasan devisa hasil ekspor, yaitu uang hasil penjualan barang ke luar negeri yang wajib masuk ke sistem keuangan domestik. Pengawasan ini menyasar praktik under-invoicing, yaitu perusahaan melaporkan nilai ekspor lebih rendah dari yang sebenarnya, serta transfer pricing, yakni pengaturan harga transaksi antara perusahaan yang saling terafiliasi. Kedua praktik itu selama ini dianggap mengurangi penerimaan negara dari sektor ekspor."
+  ],
+  "fotoAdegan": "Container ships being loaded at a busy Indonesian seaport, cranes overhead, workers in safety vests coordinating cargo movement",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a85234d3fd80-wamenkeu-suahasil-nazara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah dua target sekaligus: pertumbuhan ekonomi dipatok naik ke 6 persen, sementara defisit anggaran justru ditekan ke 2,4 persen dari total ekonomi nasional. Kombinasi ini menunjukkan pemerintah ingin mengejar pertumbuhan tinggi tanpa memperbesar belanja lewat utang, dan lebih mengandalkan investasi swasta yang didorong lewat Danantara serta belanja yang dibuat lebih tepat sasaran. Yang terkena dampak adalah rumah tangga penerima bantuan sosial lewat APBN, badan usaha milik negara yang asetnya dikonsolidasikan Danantara, calon investor yang diundang masuk, dan perusahaan eksportir yang devisa hasil ekspornya bakal diawasi lebih ketat. Arah kebijakan ini mengarah ke pertumbuhan yang ditopang investasi dan efisiensi belanja ketimbang stimulus fiskal besar-besaran, dan yang akan memastikan arah itu benar adalah rilis data pertumbuhan kuartal III 2026 oleh Badan Pusat Statistik awal November, yang menurut proyeksi pemerintah sendiri harus tembus di atas 5,5 persen.",
+  "imageV": "mszk6ant"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp50.000 ke Rp2.645.000/Gram",
+  "deck": "Harga emas Antam turun Rp50.000 menjadi Rp2.645.000 per gram pada 19 Agustus 2026, harga buyback pun ikut merosot.",
+  "image": "assets/img/harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T09:41:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460969-harga-emas-antam-hari-ini-19-agustus-2026-terpantau-turun-rp50000-jadi-rp2645000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada Selasa, 19 Agustus 2026 tercatat turun Rp50.000 per gram dibanding hari sebelumnya. Penurunan ini membuat harga emas kini berada di angka Rp2.645.000 per gram, turun dari Rp2.695.000 per gram. Bagi masyarakat yang biasa membeli emas sebagai simpanan atau investasi, informasi ini penting untuk menentukan waktu transaksi.",
+   "Berdasarkan data dari laman resmi Logam Mulia, penurunan turut terjadi pada harga buyback, yaitu harga saat Antam membeli kembali emas dari masyarakat. Harga buyback merosot ke Rp2.505.000 per gram. Dengan begitu, selisih antara harga jual dan harga beli kembali emas Antam saat ini berkisar Rp140.000 per gram.",
+   "Perlu diketahui, harga emas Antam bersifat fluktuatif dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Karena itu, harga yang tercatat hari ini tidak menjamin akan bertahan pada hari berikutnya."
+  ],
+  "fotoAdegan": "Close-up of gold bars and small ingots arranged in a glass display case at a bullion trading counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah harga jual emas Antam turun Rp50.000 menjadi Rp2.645.000 per gram, dan harga beli kembali atau buyback, yaitu harga saat Antam membeli lagi emas dari pemegangnya, ikut turun ke Rp2.505.000 per gram. Yang terdampak langsung adalah masyarakat yang berencana membeli atau menjual emas batangan Antam hari ini, karena selisih antara harga jual dan buyback tetap sekitar Rp140.000 per gram. Data satu hari ini belum cukup untuk menyimpulkan apakah ini awal tren penurunan atau sekadar koreksi sesaat, sebab pergerakan harga emas Antam biasanya mengikuti harga emas dunia dan kurs dolar yang tidak tercakup dalam data ini. Yang perlu dipantau adalah pergerakan harga dalam beberapa hari ke depan untuk melihat apakah penurunan ini berlanjut atau berbalik naik.",
+  "imageV": "mszk6bcv"
+ },
+ {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
   "category": "Makroekonomi",
   "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",

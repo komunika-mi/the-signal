@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
+  "category": "Makroekonomi",
+  "title": "RAPBN 2027 Bidik Pertumbuhan Ekonomi [6 Persen]",
+  "deck": "Pemerintah menargetkan ekonomi tumbuh 6 persen pada 2027 lewat RAPBN, dengan defisit anggaran ditekan ke 2,4 persen dari PDB serta dorongan investasi lewat Danantara.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen.jpg",
+  "imageV": "mszk6ant",
+  "tags": [
+   "RAPBN 2027",
+   "pertumbuhan ekonomi",
+   "Danantara",
+   "defisit anggaran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460975-wamenkeu-ungkap-strategi-prabowo-bidik-ekonomi-6-persen-di-rapbn-2027-target-tak-boleh-rendah"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp50.000 ke Rp2.645.000/Gram",
+  "deck": "Harga emas Antam turun Rp50.000 menjadi Rp2.645.000 per gram pada 19 Agustus 2026, harga buyback pun ikut merosot.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram.jpg",
+  "imageV": "mszk6bcv",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460969-harga-emas-antam-hari-ini-19-agustus-2026-terpantau-turun-rp50000-jadi-rp2645000-per-gram"
+ },
+ {
   "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
   "category": "Makroekonomi",
   "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",

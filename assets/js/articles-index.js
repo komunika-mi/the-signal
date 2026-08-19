@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57",
+  "category": "Aksi Korporasi",
+  "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
+  "deck": "Bangun Kosambi Sukses (CBDK) berencana membeli kembali saham senilai maksimal Rp250 miliar pada 20 Agustus hingga 19 November 2026, merespons harga saham yang anjlok 57 persen sepanjang tahun ini.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/papap-strategi.jpg",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "pasar modal",
+   "Bangun Kosambi Sukses"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d44342c0e8_73713a588e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpns-kena-sanksi-bei-denda-rp50-juta-lk-triwulan-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Kena [Sanksi] BEI, Denda Rp50 Juta LK Triwulan I 2026",
+  "deck": "Bursa Efek Indonesia menjatuhkan sanksi Peringatan Tertulis II dan denda Rp50 juta kepada DPNS karena belum menyerahkan laporan keuangan triwulan I 2026 yang diaudit hingga 30 Juli 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/lobi-bursa.jpg",
+  "tags": [
+   "DPNS",
+   "sanksi BEI",
+   "laporan keuangan",
+   "Duta Pertiwi Nusantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7afaed5a3_188cda1898.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inru-tanggapi-dugaan-korupsi-transfer-pricing-rp2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
+  "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "INRU",
+   "Toba Pulp Lestari",
+   "korupsi",
+   "transfer pricing"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1fd338212c_4ff0cba4be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bipp-rencanakan-pmthmetd-hingga-10-saham-baru",
   "category": "Aksi Korporasi",
   "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
@@ -34,6 +82,54 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c3076472a8_e5ca870b61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-terbitkan-pmthmetd-10-saham-baru-dilusi-maksimal-9-09",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
+  "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/rups-tangan-voting.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbdk-realisasikan-buyback-rp61-5-miliar-27-76-dari-target",
+  "category": "Aksi Korporasi",
+  "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
+  "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/konpers-emiten.jpg",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "pasar modal",
+   "emiten properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fbc73f0b13_a60a0a96b6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
+  "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "tags": [
+   "TRJA",
+   "volatilitas saham",
+   "BEI",
+   "Samindo Resources"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -68,6 +164,38 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bipp-jadwalkan-rupslb-pada-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
+  "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/meja-registrasi-rups.jpg",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "Bhuwanatala Indah Permai",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-terbitkan-868-juta-saham-baru-untuk-afiliasi-msn",
+  "category": "Aksi Korporasi",
+  "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
+  "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/ruang-direksi.jpg",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6623,133 +6751,5 @@ var ARTICLES = [
    "Investasi"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456652-harga-emas-antam-hari-ini-30-juli-2026-naik-rp15000-jadi-rp2616000-per-gram-buyback-ikut-naik"
- },
- {
-  "slug": "transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion",
-  "category": "Perbankan",
-  "title": "Transformasi BRI Dipercepat untuk Perkuat Kontribusi ke [Ekonomi Nasional]",
-  "deck": "BRI mengakselerasi program transformasi sebagai fondasi memperkuat daya saing.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/transformasi-bri-dipercepat-untuk-perkuat-kontribusi-ke-ekonomi-nasion.jpg",
-  "imageV": "tjnruc",
-  "tags": [
-   "BRI",
-   "Danantara",
-   "Transformasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456651-transformasi-brivolution-reignite-kian-akseleratif-perkuat-kontribusi-danantara-bagi-perekonomian-nasional"
- },
- {
-  "slug": "koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat",
-  "category": "Makroekonomi",
-  "title": "Koperasi Disiapkan Jadi [Benteng] Kedaulatan Ekonomi Rakyat",
-  "deck": "Kementerian Koperasi dan Great Institute sepakat mendorong reaktualisasi Pasal 33 UUD 1945.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat.jpg",
-  "imageV": "tjnrud",
-  "tags": [
-   "Koperasi",
-   "Kebijakan",
-   "Ekonomi Kerakyatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456604-reaktualisasi-pasal-33-uud-1945-koperasi-disiapkan-jadi-benteng-kedaulatan-ekonomi-rakyat"
- },
- {
-  "slug": "penyandang-disabilitas-dibekali-keterampilan-bernilai-ekonomi",
-  "category": "UMKM",
-  "title": "Penyandang Disabilitas Dibekali [Keterampilan] Bernilai Ekonomi",
-  "deck": "PNM lewat program tanggung jawab sosial memberi pelatihan keterampilan produktif bagi penyandang disabilitas.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/penyandang-disabilitas-dibekali-keterampilan-bernilai-ekonomi.jpg",
-  "imageV": "tjnrud",
-  "tags": [
-   "PNM",
-   "Disabilitas",
-   "Pemberdayaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456590-bantu-kemandirian-penyandang-disabilitas-pnm-bekali-keterampilan-bernilai-ekonomi"
- },
- {
-  "slug": "seratus-ribu-pekerja-rentan-bakal-dapat-jaminan-sosial",
-  "category": "Ketenagakerjaan",
-  "title": "Seratus Ribu Pekerja Rentan Bakal Dapat [Jaminan Sosial]",
-  "deck": "BAZNAS dan BPJS Ketenagakerjaan memperkuat kolaborasi memperluas perlindungan bagi pekerja rentan.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/seratus-ribu-pekerja-rentan-bakal-dapat-jaminan-sosial.jpg",
-  "imageV": "tjnrue",
-  "tags": [
-   "BPJS",
-   "Jaminan Sosial",
-   "Pekerja Informal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456568-perlindungan-jaminan-sosial-bagi-100-ribu-pekerja-rentan-baznas-ri-dan-bpjs-ketenagakerjaan-perkuat-kolaborasi"
- },
- {
-  "slug": "tunggakan-program-mbg-rp16-triliun-masih-dalam-proses-audit",
-  "category": "Makroekonomi",
-  "title": "Tunggakan Program MBG [Rp1,6 Triliun] Masih dalam Proses Audit",
-  "deck": "Kepala BGN menyebut tunggakan pembayaran ke pihak ketiga masih dalam proses audit.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/tunggakan-program-mbg-rp16-triliun-masih-dalam-proses-audit.jpg",
-  "imageV": "tjnruf",
-  "tags": [
-   "MBG",
-   "BGN",
-   "Anggaran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456565-kepala-bgn-sebut-tunggakan-mbg-rp16-triliun-ke-pihak-ketiga-masih-diaudit-percayalah-pada-sistem"
- },
- {
-  "slug": "sepuluh-bank-tutup-hingga-juli-ojk-cabut-izin-bpr-di-berbagai-daerah",
-  "category": "Perbankan",
-  "title": "Sepuluh Bank Tutup hingga Juli, OJK Cabut Izin [BPR] di Berbagai Daerah",
-  "deck": "OJK mencabut izin usaha sejumlah bank perkreditan rakyat di berbagai daerah sepanjang 2026.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/sepuluh-bank-tutup-hingga-juli-ojk-cabut-izin-bpr-di-berbagai-daerah.jpg",
-  "imageV": "tjnrug",
-  "tags": [
-   "OJK",
-   "BPR",
-   "Perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456564-daftar-10-bank-yang-tutup-hingga-juli-2026-ojk-cabut-izin-bpr-di-berbagai-daerah"
- },
- {
-  "slug": "dua-dekade-membesarkan-usaha-gula-merah-di-sumenep",
-  "category": "UMKM",
-  "title": "Dua Dekade Membesarkan Usaha [Gula Merah] di Sumenep",
-  "deck": "Kisah pelaku UMKM gula merah dari Sumenep yang mengembangkan usaha selama dua dekade dengan dukungan KUR.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/dua-dekade-membesarkan-usaha-gula-merah-di-sumenep.jpg",
-  "imageV": "tjnrug",
-  "tags": [
-   "UMKM",
-   "KUR",
-   "Madura"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456551-kisah-sukses-umkm-gula-merah-dari-sumenep-rosidah-dua-dekade-membesarkan-usaha-berkat-kur-bri"
- },
- {
-  "slug": "kadin-bawa-agenda-industri-listrik-ke-meja-sekretariat-kabinet",
-  "category": "Industri",
-  "title": "Kadin Bawa Agenda [Industri Listrik] ke Meja Sekretariat Kabinet",
-  "deck": "Ketum Kadin membahas pengembangan industri listrik dalam pertemuan dengan Sekretaris Kabinet.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/kadin-bawa-agenda-industri-listrik-ke-meja-sekretariat-kabinet.jpg",
-  "imageV": "tjnruh",
-  "tags": [
-   "Kadin",
-   "Industri",
-   "Kelistrikan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456548-temui-seskab-teddy-ketum-kadin-anindya-bakrie-bahas-pengembangan-industri-listrik-dan-kenalkan-buku-we-buy-from-indonesia"
  }
 ];

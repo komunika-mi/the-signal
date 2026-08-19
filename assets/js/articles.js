@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57",
+  "category": "Aksi Korporasi",
+  "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
+  "deck": "Bangun Kosambi Sukses (CBDK) berencana membeli kembali saham senilai maksimal Rp250 miliar pada 20 Agustus hingga 19 November 2026, merespons harga saham yang anjlok 57 persen sepanjang tahun ini.",
+  "image": "assets/img/papap-strategi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T19:56:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d44342c0e8_73713a588e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBDK",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "pasar modal",
+   "Bangun Kosambi Sukses"
+  ],
+  "body": [
+   "PT Bangun Kosambi Sukses Tbk (CBDK) mengumumkan rencana pembelian kembali (buyback) saham dengan dana maksimal Rp250 miliar, termasuk biaya transaksi seperti komisi pialang. Buyback akan berlangsung selama tiga bulan, mulai 20 Agustus hingga 19 November 2026, dan dilaksanakan melalui perdagangan di Bursa Efek Indonesia dengan menunjuk PT Ciptadana Sekuritas Asia sebagai perantara. Perseroan menyatakan seluruh dana berasal dari kas internal, bukan dari pinjaman maupun dana hasil penawaran umum perdana.",
+   "Dalam dokumen keterbukaan informasi, manajemen menjelaskan langkah ini diambil karena harga saham CBDK tercatat turun hingga 57 persen sejak awal tahun berjalan sampai 19 Agustus 2026, jauh lebih dalam dibanding penurunan Indeks Harga Saham Gabungan yang berada di kisaran 26 persen pada periode yang sama. Perseroan menegaskan penurunan itu tidak mencerminkan pelemahan kinerja maupun fundamental, dan menyebut kondisi keuangannya tetap sehat dengan arus kas yang memadai untuk membiayai buyback tanpa mengganggu operasional maupun rencana investasi.",
+   "Berdasarkan proforma yang disertakan dalam laporan, per posisi Juni 2026, total ekuitas Perseroan akan berkurang Rp250 miliar dari Rp13,47 triliun menjadi Rp13,22 triliun setelah buyback, dengan total aset turun dari Rp22,22 triliun menjadi Rp21,97 triliun. Laba per saham dasar diperkirakan naik dari Rp297,34 menjadi Rp300,95, dan tingkat pengembalian ekuitas naik dari 18,8 persen menjadi 19,1 persen. Sesuai aturan OJK, harga pembelian kembali tidak boleh melebihi harga transaksi sebelumnya, dan komisaris, direktur, karyawan, serta pemegang saham utama dilarang bertransaksi atas saham CBDK selama periode buyback berlangsung."
+  ],
+  "fotoAdegan": "Aerial view of a mixed-use residential and commercial development under construction on Tangerang's outskirts, cranes and low-rise buildings, late afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental CBDK: ukuran buyback tergolong kecil, hanya sekitar 1,9 persen dari total ekuitas Perseroan, sehingga bukan sinyal kuat ke satu arah meski merespons penurunan harga saham yang tajam. Yang tersentuh adalah ekuitas dan laba per saham, dua ukuran yang biasa dipantau investor: ekuitas adalah modal bersih pemilik saham setelah dikurangi utang, sementara laba per saham menunjukkan bagian laba yang jadi milik tiap lembar saham. Kenaikan laba per saham dan tingkat pengembalian ekuitas dalam proforma bukan berasal dari laba yang membesar, melainkan efek mekanis karena basis modal mengecil Rp250 miliar akibat kas dipakai untuk buyback, sehingga kenaikannya tidak mencerminkan perbaikan kinerja usaha yang sesungguhnya. Yang perlu dipantau selanjutnya adalah realisasi pembelian hingga batas waktu 19 November 2026, termasuk apakah Perseroan benar-benar menyerap dana sampai Rp250 miliar atau hanya sebagian, serta laporan realisasi yang wajib disampaikan setelah periode buyback berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dpns-kena-sanksi-bei-denda-rp50-juta-lk-triwulan-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "DPNS Kena [Sanksi] BEI, Denda Rp50 Juta LK Triwulan I 2026",
+  "deck": "Bursa Efek Indonesia menjatuhkan sanksi Peringatan Tertulis II dan denda Rp50 juta kepada DPNS karena belum menyerahkan laporan keuangan triwulan I 2026 yang diaudit hingga 30 Juli 2026.",
+  "image": "assets/img/lobi-bursa.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T19:47:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7afaed5a3_188cda1898.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPNS",
+  "tags": [
+   "DPNS",
+   "sanksi BEI",
+   "laporan keuangan",
+   "Duta Pertiwi Nusantara"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi kepada PT Duta Pertiwi Nusantara Tbk (DPNS) berupa Peringatan Tertulis II (SP2) dan denda Rp50 juta. Sanksi ini tercantum dalam pengumuman resmi bernomor Peng-S-00026/BEI.PLP/08-2026 yang diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat, Teuku Fahmi Ariandar, pada 18 Agustus 2026. Penyebabnya, DPNS belum menyerahkan laporan keuangan interim triwulan I 2026 yang sudah diaudit akuntan publik hingga batas pemantauan bursa pada 30 Juli 2026.",
+   "Menurut data pemantauan BEI, dari 904 perusahaan tercatat yang wajib menyampaikan laporan keuangan interim per 31 Maret 2026, batas waktu penyampaian versi belum diaudit jatuh pada 30 April 2026. Hingga 30 Juli 2026, sebanyak 838 perusahaan sudah melapor, sedangkan 73 perusahaan belum. Dari jumlah itu, 72 perusahaan disuspensi perdagangan sahamnya sejak 30 Juli 2026 karena belum menyerahkan laporan yang tidak diaudit dan/atau belum membayar denda keterlambatan, sementara DPNS berdiri sendiri sebagai satu-satunya emiten yang dikenai SP2 dan denda karena belum menyerahkan versi laporan yang sudah diaudit, bukan versi belum diauditnya.",
+   "Dalam lampiran pengumuman, DPNS tercantum sebagai satu-satunya nama di Tabel 1 daftar perusahaan yang belum menyerahkan laporan keuangan interim triwulan I 2026 yang diaudit akuntan publik per 30 Juli 2026. BEI mendasarkan sanksi ini pada Peraturan Bursa Nomor I-E tentang kewajiban penyampaian informasi dan Peraturan Bursa Nomor I-H tentang sanksi keterlambatan pelaporan keuangan."
+  ],
+  "fotoAdegan": "Storage tanks and pipelines at a small industrial chemical plant in Indonesia, overcast afternoon light, no signage visible",
+  "takeaway": "Laporan ini condong negatif bagi DPNS karena sanksi Peringatan Tertulis II menunjukkan perusahaan sudah menerima teguran berjenjang dan tetap gagal memenuhi tenggat pelaporan, kali ini untuk laporan keuangan triwulan I 2026 versi yang sudah diaudit akuntan publik. Laporan keuangan diaudit adalah versi laporan yang sudah diperiksa dan diverifikasi oleh akuntan publik independen, sehingga keterlambatannya bisa menandakan ada kendala pada proses audit atau pembukuan internal, hal yang membuat pelaku pasar meragukan keandalan angka yang nantinya dipublikasikan perusahaan. Sanksi ini belum sampai membuat saham DPNS disuspensi seperti 72 emiten lain yang telat menyerahkan laporan versi belum diaudit, tapi statusnya tetap mencerminkan masalah kepatuhan yang berulang. Yang perlu dipantau berikutnya adalah apakah DPNS segera menyerahkan laporan keuangan diaudit tersebut dan melunasi denda Rp50 juta, sebab keterlambatan yang berlanjut berisiko membuat sahamnya ikut disuspensi seperti emiten-emiten lain yang disebut dalam pengumuman ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inru-tanggapi-dugaan-korupsi-transfer-pricing-rp2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
+  "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T19:24:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1fd338212c_4ff0cba4be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INRU",
+  "tags": [
+   "INRU",
+   "Toba Pulp Lestari",
+   "korupsi",
+   "transfer pricing"
+  ],
+  "body": [
+   "PT Toba Pulp Lestari Tbk (INRU) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-10798/BEI.PP3/08-2026 tanggal 18 Agustus 2026, yang menanyakan soal pemberitaan media mengenai dugaan korupsi transfer pricing di Direktorat Jenderal Pajak Kementerian Keuangan senilai Rp2 triliun yang disebut melibatkan perusahaan. Dalam surat balasan bernomor 516/TPL-P/VIII/26 tertanggal 19 Agustus 2026 yang ditandatangani Anwar Lawden selaku Direktur sekaligus Corporate Secretary, TPL menyatakan baru mengetahui pemberitaan itu dari media massa dan saat ini masih menelaah serta memverifikasi informasinya. Perusahaan berjanji akan menyampaikan keterangan lanjutan kepada BEI dan publik begitu tersedia informasi yang material, relevan, dan bisa diverifikasi.",
+   "Soal dampak terhadap kewajiban pajak, TPL menyatakan senantiasa memenuhi kewajiban perpajakan sesuai aturan yang berlaku dan terus memantau perkembangan informasi tersebut, tanpa merinci angka potensi kewajiban tambahan. Menjawab pertanyaan soal materialitas terhadap kelangsungan usaha, perusahaan mengakui bahwa operasionalnya saat ini belum berjalan normal, namun menyebut belum mengidentifikasi adanya dampak material tambahan dari pemberitaan dugaan korupsi ini yang mengharuskan keterbukaan informasi terpisah berdasarkan aturan Bursa. Terkait kemungkinan keterlibatan direksi, komisaris, karyawan, atau pihak terkait lain dalam perkara ini, TPL menyatakan belum memperoleh informasi resmi yang bisa dikonfirmasi.",
+   "Perusahaan juga menegaskan menghormati proses penegakan hukum yang dilakukan Kejaksaan Agung Republik Indonesia dan akan mengambil sikap serta langkah yang diperlukan sesuai perkembangan proses tersebut. Sampai tanggal surat ini, TPL menyebut belum memperoleh informasi resmi mengenai status perkara, nomor perkara, maupun pengadilan yang menangani dugaan kasus tersebut. Surat ini ditembuskan kepada tiga direktorat pengawasan di Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Wide shot of a pulp and paper mill complex with steam stacks beside a river and forested hills in North Sumatra, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi TPL karena mengonfirmasi bahwa nama perusahaan disebut dalam penyidikan dugaan korupsi transfer pricing senilai Rp2 triliun oleh Kejaksaan Agung, sementara perusahaan sendiri mengakui operasionalnya belum berjalan normal. Yang berpotensi tersentuh adalah pos kewajiban dan arus kas perusahaan, sebab jika tudingan ini terbukti, TPL bisa dikenai kekurangan bayar pajak plus sanksi administratif yang membebani neraca dan kas ke depan, dan itu sebabnya pelaku pasar mencermati pos ini, karena kewajiban pajak tambahan langsung mengurangi kas yang tersedia untuk operasional maupun pembayaran ke pemegang saham. Yang perlu dipantau berikutnya adalah perkembangan proses hukum di Kejaksaan Agung serta keterbukaan informasi lanjutan yang dijanjikan TPL begitu ada kabar resmi soal nomor perkara, keterlibatan personel perusahaan, atau dampak material yang sudah terverifikasi.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bipp-rencanakan-pmthmetd-hingga-10-saham-baru",
   "category": "Aksi Korporasi",
   "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
@@ -54,6 +132,85 @@ var ARTICLES = [
   "fotoAdegan": "Bank customers queuing at teller counters in a modern branch, staff assisting transactions, soft indoor lighting",
   "takeaway": "Pembagian dividen interim ini condong positif bagi BCA, sebab nilainya, Rp3,07 triliun, hanya sekitar 1,2 persen dari saldo laba ditahan perseroan yang mencapai Rp251,49 triliun, sehingga tidak membebani kondisi keuangan sementara tetap memberi imbal hasil tunai ke pemegang saham. Yang tersentuh dari aksi ini adalah kas dan ekuitas perseroan, karena dana dividen keluar sebagai kas dan sedikit mengurangi total modal setelah dibayarkan; jumlah saham yang berhak menerima dividen juga bisa menyusut karena saham hasil buyback otomatis tidak mendapat jatah ini. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 1 September 2026 pukul 16.00 WIB yang menentukan siapa saja berhak menerima dividen, serta realisasi pembayaran pada 16 September 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bipp-terbitkan-pmthmetd-10-saham-baru-dilusi-maksimal-9-09",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
+  "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
+  "image": "assets/img/rups-tangan-voting.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T18:17:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengajukan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 502.866.937 saham seri B bernilai nominal Rp100 per saham, atau maksimal 10 persen dari total saham yang telah ditempatkan dan disetor penuh. Dalam keterbukaan informasi yang diterbitkan 19 Agustus 2026, manajemen menyebut dana dari penerbitan saham baru ini, yang disetor penuh dalam bentuk uang tunai, akan dipakai untuk pengembangan usaha dan penambahan modal kerja perusahaan properti tersebut. Investor yang akan menyerap saham baru ini belum ditentukan dan baru akan diungkapkan kemudian, sementara harga pelaksanaannya wajib minimal 90 persen dari rata-rata harga penutupan saham BIPP selama 25 hari bursa terakhir sebelum permohonan pencatatan saham tambahan, sesuai Peraturan I-A Bursa Efek Indonesia.",
+   "Berdasarkan daftar pemegang saham per 31 Juli 2026 yang dikelola PT Adimitra Jasa Korpora, pemegang saham pengendali Safire Capital Pte Ltd saat ini menguasai 3.098.530.195 saham seri B atau 61,62 persen dari BIPP. Jika PMTHMETD terlaksana penuh, porsi kepemilikan Safire Capital turun menjadi 56,02 persen, PT Victoria Investama Tbk turun dari 11,40 persen menjadi 10,36 persen, dan porsi masyarakat turun dari 26,98 persen menjadi 24,53 persen, meskipun jumlah saham yang mereka pegang tidak berkurang satu lembar pun. Investor baru pemegang saham PMTHMETD akan langsung menguasai 9,09 persen BIPP begitu transaksi rampung, sama dengan batas maksimal dilusi yang diungkapkan perusahaan.",
+   "Perseroan turut memaparkan simulasi dampak keuangan dengan asumsi harga pelaksanaan Rp100 per saham berdasarkan laporan keuangan per 30 Juni 2026. Total aset diproyeksikan naik 2,74 persen dari Rp1,83 triliun menjadi Rp1,88 triliun, dan ekuitas naik 5,27 persen dari Rp954,4 miliar menjadi Rp1,00 triliun, seluruhnya berasal dari dana segar PMTHMETD tanpa menambah utang. Rasio liabilitas terhadap ekuitas membaik dari 0,92 kali menjadi 0,87 kali. Rugi bersih periode berjalan tetap sebesar Rp37,17 miliar, namun karena jumlah saham beredar bertambah, rugi per saham secara akuntansi mengecil dari Rp7,39 menjadi Rp6,72.",
+   "Rencana ini akan dimintakan restu pemegang saham dalam RUPSLB pada Jumat, 25 September 2026 pukul 15.00 WIB di Gedung Graha BIP, dengan agenda tambahan berupa perubahan anggaran dasar soal modal dan penyesuaian bidang usaha mengikuti klasifikasi baku lapangan usaha Indonesia 2025. Pemanggilan RUPSLB dijadwalkan 3 September 2026 dan pengumuman hasil rapat ditargetkan paling lambat 28 September 2026."
+  ],
+  "fotoAdegan": "Exterior view of a mid-rise mixed office and residential building complex in South Jakarta, construction cranes in the distance, late afternoon light.",
+  "takeaway": "Rencana ini condong netral bagi BIPP: dana tunai yang masuk memperkuat modal dan menekan rasio utang terhadap ekuitas dari 0,92 kali menjadi 0,87 kali, tapi pemegang saham lama, termasuk pengendali Safire Capital, tetap kehilangan hingga 9,09 persen porsi kepemilikannya karena jumlah saham beredar bertambah. Yang tersentuh adalah pos ekuitas dan jumlah saham beredar: ekuitas naik karena ada modal segar masuk tanpa menambah beban bunga, tapi lebih banyak saham beredar berarti setiap lembar mewakili potongan perusahaan yang lebih kecil, itu sebabnya kepemilikan lama terdilusi meski jumlah lembar sahamnya sendiri tidak berkurang. Penurunan rugi per saham dari Rp7,39 menjadi Rp6,72 juga perlu dibaca hati-hati karena itu murni efek pembagi yang membesar, bukan tanda kinerja usaha membaik, sebab rugi bersih perusahaan tidak berubah. Yang perlu dipantau selanjutnya adalah RUPSLB pada 25 September 2026 yang akan memutuskan disetujui atau tidaknya rencana ini, serta pengumuman siapa investor yang akan menyerap saham baru itu, karena sampai keterbukaan ini terbit pihaknya belum diungkapkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbdk-realisasikan-buyback-rp61-5-miliar-27-76-dari-target",
+  "category": "Aksi Korporasi",
+  "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
+  "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
+  "image": "assets/img/konpers-emiten.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T18:17:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fbc73f0b13_a60a0a96b6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBDK",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "pasar modal",
+   "emiten properti"
+  ],
+  "body": [
+   "PT Bangun Kosambi Sukses Tbk (CBDK) melaporkan resmi kepada OJK dan Bursa Efek Indonesia hasil pelaksanaan pembelian kembali saham untuk periode 20 Mei sampai 19 Agustus 2026, melalui surat No. 139/PIK2-CBDK/SPE/CORSEC/VIII/2026 tertanggal 19 Agustus 2026 yang ditandatangani Direktur Linda Kusumo dan Direktur Yohanes Edmond Budiman. Laporan ini merujuk pada rencana buyback yang diumumkan 19 Mei 2026 melalui surat No. 067/PIK2-CBDK/BEI/CORSEC/V/2026, yang dilaksanakan berdasarkan ketentuan pembelian kembali saham dalam kondisi pasar berfluktuasi signifikan sesuai POJK 13/2023, POJK 29/2023 Pasal 13 ayat 4, dan surat OJK No. S-102/D.04/2025.",
+   "Selama periode tersebut, Perseroan membeli kembali 17.096.700 lembar saham dengan harga rata-rata Rp3.601 per saham, sehingga total dana yang terpakai mencapai Rp61,57 miliar. Angka ini setara 27,76 persen dari total nilai nominal saham yang direncanakan dibeli sesuai keterbukaan informasi Mei 2026, menyisakan Rp188,43 miliar dari anggaran buyback yang belum terpakai. Pembelian harian terbesar tercatat pada 3 Juni 2026 sebanyak 2.008.600 lembar dengan harga rata-rata Rp3.648, disusul 17 Juni 2026 sebanyak 1.197.900 lembar. Setelah pertengahan Juni, volume pembelian mengecil signifikan, dengan transaksi Juli 2026 hanya berkisar puluhan ribu hingga ratusan ribu lembar per hari.",
+   "Realisasi ini melanjutkan periode sebelumnya, 3 Februari sampai 2 Mei 2026, saat Perseroan membeli 11.680.400 lembar saham dengan harga rata-rata jauh lebih tinggi, Rp5.409 per saham, senilai Rp63,18 miliar atau 27,22 persen dari rencana pada periode itu. Perbandingan kedua periode menunjukkan harga rata-rata pembelian turun sekitar 33 persen, dari Rp5.409 menjadi Rp3.601, sejalan dengan pelemahan harga saham CBDK yang sebelumnya sempat disebut turun tajam sebelum program buyback ini berjalan."
+  ],
+  "fotoAdegan": "Modern high-rise residential and office towers under construction on a coastal reclamation site near Jakarta, cranes silhouetted against a golden afternoon sky",
+  "takeaway": "Laporan ini netral bagi fundamental CBDK: dana buyback yang terealisasi, Rp61,57 miliar, baru sekitar seperempat dari rencana Rp250 miliar dan porsinya kecil dibanding ekuitas Perseroan, sehingga belum bisa dibaca sebagai sinyal kuat ke satu arah. Yang tersentuh adalah kas Perseroan yang berkurang untuk mendanai pembelian, serta jumlah saham beredar yang menyusut 17,1 juta lembar, faktor yang secara teknis bisa menaikkan laba per saham karena laba nantinya dibagi ke lebih sedikit saham, meski dampaknya kecil mengingat porsinya yang tipis terhadap total saham beredar. Periode buyback ini resmi berakhir tepat pada tanggal laporan diterbitkan, 19 Agustus 2026, dengan sisa anggaran Rp188,43 miliar yang belum terpakai, sehingga yang perlu dicermati berikutnya adalah apakah Perseroan akan mengumumkan perpanjangan program atau rencana buyback baru dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
+  "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T17:40:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRJA",
+  "tags": [
+   "TRJA",
+   "volatilitas saham",
+   "BEI",
+   "Samindo Resources"
+  ],
+  "body": [
+   "PT Transkon Jaya Tbk (TRJA) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi sahamnya, sebagaimana disebutkan dalam surat BEI nomor S-10775/BEI.PP2/08-2026. Menurut data yang dikutip perseroan, volume transaksi saham TRJA melonjak menjadi 27.729.500 saham dengan frekuensi 6.597 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 934.600 saham dengan 371 kali transaksi. Harga saham juga ditutup naik Rp9 atau 8,11 persen, dari Rp111 menjadi Rp120.",
+   "Dalam suratnya yang ditandatangani Rex Alexander Joseph Syauta selaku Direktur sekaligus Corporate Secretary, tertanggal 19 Agustus 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya, baik berdasarkan aturan OJK soal keterbukaan informasi maupun ketentuan Bursa. Perseroan juga menegaskan tidak mengetahui aktivitas khusus dari pemegang saham tertentu, dan sampai saat surat disampaikan belum memiliki rencana aksi korporasi yang berdampak pada pencatatan sahamnya dalam tiga bulan ke depan.",
+   "Terkait kemungkinan perubahan kepemilikan, perseroan menyebutkan telah meminta konfirmasi langsung kepada pemegang saham utamanya, PT Samindo Resources Tbk (MYOH). Hasilnya, MYOH menyatakan tidak memiliki rencana terkait kepemilikan sahamnya di TRJA yang dapat mengubah statusnya sebagai pemegang saham utama."
+  ],
+  "fotoAdegan": "A worker inspecting a row of parked rental sedans and pickup trucks in an open fleet yard under bright tropical daylight, Balikpapan",
+  "takeaway": "Laporan ini netral bagi TRJA, karena isinya sebatas konfirmasi rutin bahwa manajemen tidak tahu ada kabar khusus di balik lonjakan transaksi, bukan pengumuman rencana atau data keuangan baru. Yang menarik justru angkanya: volume transaksi melonjak sekitar 30 kali lipat dan harga saham naik 8,11 persen hanya dalam sehari, pola yang biasanya membuat bursa mencurigai ada kabar yang beredar duluan sebelum diumumkan resmi ke publik, sehingga BEI meminta penjelasan seperti ini. Konfirmasi dari pemegang saham utama, PT Samindo Resources Tbk, bahwa mereka tidak berencana mengubah status kepemilikannya turut meredakan kekhawatiran soal pengendali diam-diam melepas saham. Yang perlu dipantau selanjutnya adalah apakah lonjakan volume dan harga ini berulang pada hari-hari berikutnya, karena manajemen menegaskan tidak ada rencana aksi korporasi dalam tiga bulan ke depan, sehingga jika transaksi tetap tidak wajar, bursa berpotensi meningkatkan pengawasannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
@@ -108,6 +265,58 @@ var ARTICLES = [
   "takeaway": "Laporan ini negatif bagi ADHI. PEFINDO memangkas peringkat perusahaan dan tiga seri obligasinya dari idBB menjadi idB sekaligus mempertahankan status CreditWatch dengan implikasi negatif, dan lembaga pemeringkat itu sendiri secara eksplisit menyebut risiko gagal bayar kupon sebagai alasannya, bukan sekadar evaluasi rutin tahunan. Peringkat kredit yang turun berarti biaya bunga utang baru ADHI berpotensi naik dan ruang untuk menerbitkan obligasi baru atau merefinansi utang lama menyempit, karena investor menuntut imbal hasil lebih tinggi untuk risiko yang lebih besar, sehingga pos beban bunga dan arus kas perusahaan langsung tertekan. Yang perlu dipantau adalah pembayaran kupon Obligasi Berkelanjutan III Seri B dan C yang jatuh tempo 24 Agustus 2026, karena PEFINDO secara spesifik mengaitkan status CreditWatch negatif dengan risiko gagal bayar pada tanggal itu, sejalan dengan pengakuan ADHI sendiri sebelumnya soal risiko keterlambatan pembayaran bunga obligasi. PEFINDO juga akan meninjau ulang peringkat ini paling lambat dalam tiga bulan, atau sekitar 14 November 2026, tergantung perkembangan kondisi keuangan perseroan.",
   "sentimen": "negatif",
   "imageV": "mt0048v7"
+ },
+ {
+  "slug": "bipp-jadwalkan-rupslb-pada-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
+  "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
+  "image": "assets/img/meja-registrasi-rups.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:22:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "Bhuwanatala Indah Permai",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026 pukul 15.00 WIB di Graha BIP lantai 11, Jl. Jenderal Gatot Subroto Kav. 23, Jakarta Selatan. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 2 September 2026 sampai pukul 16.00 WIB. Surat pemanggilan resmi rapat baru akan diumumkan pada 3 September 2026 melalui situs web penyedia e-RUPS milik KSEI, situs Bursa Efek Indonesia, dan situs Perseroan sendiri, sesuai ketentuan POJK 15/2020 dan POJK 14/2025.",
+   "Perseroan akan menerapkan mekanisme pemberian kuasa secara elektronik melalui aplikasi Electronic General Meeting System KSEI (Easy.KSEI). Usul dari pemegang saham dapat dimasukkan ke dalam mata acara rapat apabila memenuhi syarat Pasal 23 Anggaran Dasar Perseroan dan diterima Direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat, atau sekitar akhir Agustus 2026. Pemberitahuan ini disampaikan oleh Corporate Secretary BIPP, Arianto Sjarief, kepada Otoritas Jasa Keuangan.",
+   "Pemberitahuan RUPSLB ini terbit pada hari yang sama dengan pengumuman rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) BIPP sebesar maksimal 10 persen saham baru, yang sebelumnya sudah diberitakan berpotensi mendilusi kepemilikan pemegang saham lama hingga 9,09 persen. Dokumen pemberitahuan RUPSLB ini sendiri belum mencantumkan mata acara rapat secara rinci."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate meeting hall, soft morning light through tall windows, Jakarta.",
+  "takeaway": "Pemberitahuan jadwal RUPSLB ini sendiri netral bagi BIPP, karena isinya baru sebatas administrasi rapat, belum memuat keputusan atau angka fundamental baru. Yang perlu dicermati adalah kaitannya dengan rencana penambahan modal tanpa hak memesan efek terlebih dahulu yang sudah diumumkan Perseroan hari ini juga, karena RUPSLB inilah yang lazimnya menjadi forum persetujuan pemegang saham atas rencana tersebut, yang bisa menambah jumlah saham beredar dan menekan laba per saham pemegang lama lewat dilusi. Pos yang tersentuh adalah jumlah saham beredar dan potensi laba per saham, dua indikator yang langsung memengaruhi porsi kepemilikan investor lama. Yang perlu dipantau berikutnya adalah penetapan pemegang saham berhak suara per 2 September 2026, terbitnya surat pemanggilan resmi pada 3 September 2026 yang akan memuat mata acara rapat, dan hasil keputusan RUPSLB pada 25 September 2026 itu sendiri.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hatm-terbitkan-868-juta-saham-baru-untuk-afiliasi-msn",
+  "category": "Aksi Korporasi",
+  "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
+  "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
+  "image": "assets/img/ruang-direksi.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:19:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) berencana menambah modal tanpa memberi hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan saham baru sebanyak-banyaknya 868.000.000 lembar, setara maksimal 10 persen dari total saham yang sudah beredar sebanyak 8.680.000.000 lembar. Seluruh saham baru itu rencananya akan diambil oleh PT Multi Sarana Nasional (MSN), yang seluruh direksinya, yaitu Andrew Kam, Rita, dan Ian Morris Budiman, juga menjabat direksi HATM, sementara dua komisaris MSN, Cosmas Kiardi dan Hasanul Arifin Hasibuan, merangkap sebagai komisaris HATM. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 21 Agustus 2026, dan jika disetujui, penerbitan saham ditargetkan rampung paling lambat akhir Desember 2026.",
+   "Dana yang masuk dari transaksi ini diperkirakan Rp320 miliar, dan menurut Perseroan akan dipakai untuk belanja modal berupa penambahan armada kapal atau untuk melunasi pinjaman bank. Berdasarkan laporan keuangan per 31 Maret 2026, dana tersebut akan menaikkan aset lancar HATM dari Rp503,00 miliar menjadi Rp823,00 miliar, total aset dari Rp1,888 triliun menjadi Rp2,208 triliun, dan total ekuitas dari Rp1,609 triliun menjadi Rp1,929 triliun. Harga pelaksanaan saham baru ditetapkan paling sedikit 90 persen dari rata-rata harga penutupan saham HATM selama 25 hari bursa berturut-turut sebelum Perseroan mengajukan permohonan pencatatan saham tambahan ke Bursa Efek Indonesia.",
+   "Transaksi ini akan mengubah komposisi kepemilikan saham HATM. Porsi PT Habco Primatama selaku pemegang saham pengendali turun dari 66,34 persen menjadi 60,31 persen, sementara jumlah sahamnya tetap 5.758.706.000 lembar. Sebaliknya, porsi MSN naik dari 20,11 persen menjadi 27,37 persen setelah jumlah sahamnya bertambah 868.000.000 lembar, persis sebesar saham baru yang diterbitkan, dari 1.745.409.861 menjadi 2.613.409.861 lembar. Porsi pemegang saham publik turun dari 13,29 persen menjadi 12,08 persen, sedangkan tiga pemegang saham individu, Benny, Cosmas Kiardi, dan Hasanul Arifin Hasibuan, masing-masing turun tipis dari sekitar 0,10 persen, 0,10 persen, dan 0,06 persen menjadi 0,09 persen, 0,09 persen, dan 0,06 persen. Perseroan menegaskan tidak ada perubahan pengendali karena PT Habco Primatama tetap menjadi pemegang saham pengendali, dan dilusi bagi pemegang saham yang tidak ikut serta bisa mencapai sebanyak-banyaknya 9,09 persen."
+  ],
+  "fotoAdegan": "A domestic cargo ship docked along a wide brown river port in Sumatra, workers loading crates, tropical morning haze.",
+  "takeaway": "Penilaian saya netral dengan catatan penting: suntikan dana Rp320 miliar dan kenaikan ekuitas memang memperkuat permodalan HATM, tetapi seluruh saham baru hanya ditawarkan kepada MSN yang direksinya sama persis dengan direksi HATM dan komisarisnya saling merangkap, bukan lewat penawaran terbuka ke seluruh pemegang saham, sehingga publik ikut terdilusi tanpa diberi kesempatan menambah porsi. Yang tersentuh dari sisi kinerja adalah jumlah saham beredar, yang bisa bertambah hingga 868 juta lembar dari 8,68 miliar menjadi maksimal 9,548 miliar, sehingga laba bersih Perseroan nantinya dibagi ke basis saham yang lebih besar dan berpotensi menekan laba per saham dalam jangka pendek, meski di sisi lain kas dan ekuitas bertambah Rp320 miliar yang bisa meringankan beban bunga kalau dananya dipakai melunasi pinjaman bank. Yang perlu dipantau adalah hasil RUPSLB pada 21 Agustus 2026, karena rencana ini baru bisa berjalan setelah disetujui pemegang saham, dan jika lolos, penerbitan saham serta penetapan harga final ditargetkan rampung paling lambat akhir Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",

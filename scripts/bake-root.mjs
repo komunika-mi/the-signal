@@ -197,6 +197,30 @@ function sumberRingkas(ARTICLES) {
     '. Tiap artikel menyertakan tautan ke berita atau dokumen aslinya.';
 }
 
+// Deck halaman arsip, dengan porsi tiap jalur asupan.
+//
+// Kalimat lamanya berbunyi "disaring dari liputan tvOneNews" untuk SELURUH
+// arsip, padahal separuhnya datang dari keterbukaan informasi IDX dan siaran
+// pers lembaga. Dihitung di sini supaya klaimnya ikut berubah sendiri saat
+// komposisinya bergeser, bukan menua jadi salah seperti kalimat sebelumnya.
+function deckArsip(ARTICLES) {
+  let tvOne = 0, idx = 0, lembaga = 0;
+  ARTICLES.forEach(a => {
+    if (!a.sourceLabel) tvOne++;
+    else if (a.sourceLabel === 'IDX') idx++;
+    else lembaga++;
+  });
+  const bagian = [];
+  if (tvOne) bagian.push('liputan ekonomi tvOneNews (' + tvOne + ')');
+  if (idx) bagian.push('keterbukaan informasi IDX (' + idx + ')');
+  if (lembaga) bagian.push('siaran pers lembaga resmi (' + lembaga + ')');
+  return 'Arsip lengkap rangkuman berita ekonomi The Signal: ' + ARTICLES.length +
+    ' artikel dari ' + (bagian.length === 1 ? 'satu jalur, ' :
+      bagian.length === 2 ? 'dua jalur, ' : 'tiga jalur, ') +
+    gabungDaftar(bagian, 'dan') +
+    '. Pilih rubrik untuk mempersempit, atau cari kata kunci.';
+}
+
 // ---------- mesin penanda ----------
 //
 // GAGAL KERAS kalau penandanya hilang. Penanda yang terhapus diam-diam berarti
@@ -397,6 +421,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
     cats.map(c => '<button class="chip" data-cat="' + catSlug(c) + '" type="button">' + esc(c) +
       '<span class="chip-count">' + counts[c] + '</span></button>').join(''), 'berita.html');
   brt = ganti(brt, 'kepala', kepalaAnalitik(), 'berita.html');
+  brt = ganti(brt, 'deck', esc(deckArsip(ARTICLES)), 'berita.html');
   brt = ganti(brt, 'situs', jsonLdSitus(halamanKoleksi({
     nama: 'Arsip Berita', url: '/berita.html',
     deskripsi: 'Seluruh ' + ARTICLES.length + ' artikel The Signal, terbaru lebih dulu.',

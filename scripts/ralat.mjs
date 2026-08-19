@@ -69,6 +69,8 @@ if (!SASARAN[jenis] || !kunci || (!cabut && !teks)) {
 }
 
 const tanggal = hariIniWIB();
+const stempelWIB = () =>
+  new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 19) + '+07:00';
 let kena = 0;
 for (const [nama, cocok] of SASARAN[jenis]) {
   const m = muat(nama);
@@ -78,7 +80,11 @@ for (const [nama, cocok] of SASARAN[jenis]) {
   for (const x of daftar) {
     if (!cocok(x, kunci)) continue;
     if (cabut) { delete x.ralat; } else {
-      x.ralat = { tanggal, label: labelTanggal(tanggal), teks };
+      // waktu terpisah dari tanggal: yang dipakai dateModified, sedangkan
+      // tanggal dan label tetap bentuk yang dibaca manusia. Saat meralat kita
+      // memang tahu jamnya, jadi tidak ada alasan menyerahkan stempelnya
+      // sebagai tanggal telanjang yang ditafsirkan mesin sebagai tengah malam.
+      x.ralat = { tanggal, waktu: stempelWIB(), label: labelTanggal(tanggal), teks };
     }
     ubah++;
   }

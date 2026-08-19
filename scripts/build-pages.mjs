@@ -249,7 +249,17 @@ function daftarBahan(edisi) {
 function waktuISO(iso) {
   const s = String(iso == null ? '' : iso).trim();
   if (!s) return '';
-  if (/(Z|[+-][0-9]{2}:?[0-9]{2})$/.test(s)) return s;   // sudah berzona
+  // Zulu diubah ke +07:00, bukan sekadar diloloskan. Instannya sama persis,
+  // yang berubah cuma cara menulisnya, tapi konsistensinya penting: lastmod
+  // sitemap dipotong sepuluh karakter pertama, dan "2026-08-14T22:10:00Z"
+  // dipotong jadi 14 Agustus padahal di WIB peristiwanya sudah 15 Agustus.
+  // Empat artikel tercatat sehari lebih awal daripada tanggal yang tercetak
+  // di halamannya sendiri gara-gara ini.
+  if (/Z$/.test(s)) {
+    const d = new Date(s);
+    if (!isNaN(d)) return new Date(d.getTime() + 7 * 3600 * 1000).toISOString().slice(0, 19) + '+07:00';
+  }
+  if (/[+-][0-9]{2}:?[0-9]{2}$/.test(s)) return s;        // sudah berzona
   if (/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/.test(s)) return s;  // tanggal saja, sah
   return s + '+07:00';
 }
@@ -673,7 +683,7 @@ ARTICLES.forEach(function (a) {
       // sebelumnya, berarti memberi tahu mesin pencari bahwa isi yang sudah
       // berubah tidak pernah berubah, dan itu justru pada artikel yang paling
       // perlu dibaca ulang.
-      dateModified: (a.ralat && a.ralat.tanggal) ? a.ralat.tanggal : waktuISO(a.isoDate),
+      dateModified: waktuISO((a.ralat && (a.ralat.waktu || a.ralat.tanggal)) || a.isoDate),
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
@@ -1710,21 +1720,30 @@ console.log('halaman rubrik:', DAFTAR_RUBRIK.length, 'rubrik,',
 // jadi lastmod-nya tanggal build. Artikel memakai tanggal terbitnya sendiri.
 // Video tidak membawa tanggal di datanya, jadi tanpa lastmod; itu sah.
 const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10);
+// Tanggal WIB dari stempel apa pun bentuknya. Memotong sepuluh karakter dari
+// isoDate mentah salah untuk stempel Zulu; waktuISO() sudah menormalkannya.
+const tglWIB = (iso) => waktuISO(iso).slice(0, 10);
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
   ...(PEKANAN ? ['/signal-pekanan.html'] : []),
   '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
-  .concat(ARTICLES.map(a => ({ loc: articleUrl(a), lastmod: (a.isoDate || '').slice(0, 10) })))
-  .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: String(v.terbit || '').slice(0, 10) || undefined })))
+  // Artikel yang diralat BERUBAH, dan itulah justru yang perlu dirayapi ulang.
+  // Sebelumnya lastmod-nya tetap tanggal terbit awal, jadi ralat tidak pernah
+  // memberi sinyal apa pun ke mesin pencari.
+  .concat(ARTICLES.map(a => ({
+    loc: articleUrl(a),
+    lastmod: [tglWIB(a.isoDate), (a.ralat && a.ralat.tanggal) || ''].filter(Boolean).sort().pop(),
+  })))
+  .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: tglWIB(v.terbit) || undefined })))
   // lastmod halaman emiten dan tema = tanggal laporan terbarunya, karena
   // memang hanya berubah saat ada artikel baru menempel.
   .concat(DAFTAR_EMITEN.map(([k, arts]) =>
-    ({ loc: '/emiten/' + k + '.html', lastmod: String(arts[0].isoDate || '').slice(0, 10) })))
+    ({ loc: '/emiten/' + k + '.html', lastmod: tglWIB(arts[0].isoDate) })))
   .concat(KELOMPOK_TEMA.map(t =>
-    ({ loc: '/tema/' + t.slug + '.html', lastmod: String(t.artikel[0].isoDate || '').slice(0, 10) })))
+    ({ loc: '/tema/' + t.slug + '.html', lastmod: tglWIB(t.artikel[0].isoDate) })))
   .concat(DAFTAR_RUBRIK.map(([n, arts]) =>
-    ({ loc: '/rubrik/' + catSlug(n) + '.html', lastmod: String(arts[0].isoDate || '').slice(0, 10) })));
+    ({ loc: '/rubrik/' + catSlug(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
@@ -1777,6 +1796,15 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
     '',
     'Aturan redaksi yang relevan kalau Anda mengutip situs ini:',
     '',
+    // Porsi tiap jalur dihitung, bukan ditulis tangan. Pembukanya dulu cuma
+    // menyebut tvOneNews, dan mesin jawab yang membacanya wajar menyimpulkan
+    // seluruh arsip berasal dari sana padahal separuhnya tidak.
+    '- Arsipnya datang dari tiga jalur: ' + (() => {
+      let t = 0, i = 0, l = 0;
+      ARTICLES.forEach(x => { if (!x.sourceLabel) t++; else if (x.sourceLabel === 'IDX') i++; else l++; });
+      return 'rangkuman liputan ekonomi tvOneNews (' + t + ' artikel), keterbukaan ' +
+        'informasi emiten di IDX (' + i + '), dan siaran pers lembaga resmi (' + l + ')';
+    })() + '. Kolom sumber tiap artikel menyebut jalurnya masing-masing.',
     '- Setiap artikel menyertakan tautan ke dokumen aslinya di kolom sumber dan',
     '  pada properti isBasedOn di data terstrukturnya. Kutip dokumen itu kalau',
     '  Anda butuh sumber primer.',

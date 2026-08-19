@@ -61,7 +61,7 @@ function muatHarian() {
 }
 const HARIAN = muatHarian();
 
-// Signal Pekanan, terbit Minggu. Boleh tidak ada: sebelum edisi pertama
+// Signal Mingguan, terbit Minggu. Boleh tidak ada: sebelum edisi pertama
 // terbit, dan pada pekan yang dinilai terlalu sepi untuk berpola, berkasnya
 // memang belum atau tidak dibuat. Halaman lain tidak boleh ikut gagal.
 function muatPekanan() {
@@ -307,7 +307,7 @@ function waktuISO(iso) {
 }
 
 // "Selasa, 18 Agustus 2026". Dipakai halaman Agenda dan bagian "yang menanti
-// pekan depan" di Signal Pekanan, jadi ditaruh di lingkup modul, bukan di
+// pekan depan" di Signal Mingguan, jadi ditaruh di lingkup modul, bukan di
 // dalam blok Agenda seperti semula.
 //
 // Tanggal yang tidak terbaca dikembalikan apa adanya. Tanpa penjaga ini
@@ -552,7 +552,7 @@ ${[].concat(NODE_IDENTITAS, o.jsonld || [], o.jsonldTambahan || []).map(j => '<s
     <div class="rail">
       <nav class="masthead-nav">
         <a class="nav-link" href="/signal-harian.html">Signal Harian</a>
-        <a class="nav-link" href="/signal-pekanan.html">Pekanan</a>
+        <a class="nav-link" href="/signal-mingguan.html">Mingguan</a>
         <a class="nav-link" href="/berita.html">Semua Berita</a>
         <a class="nav-link" href="/rubrik/makroekonomi.html">Makro</a>
         <a class="nav-link" href="/rubrik/pasar-modal.html">Pasar Modal</a>
@@ -612,7 +612,7 @@ const FOOT = `
         <ul>
           <li><a href="/">Beranda</a></li>
           <li><a href="/berita.html">Semua Berita</a></li>
-          <li><a href="/signal-pekanan.html">Signal Pekanan</a></li>
+          <li><a href="/signal-mingguan.html">Signal Mingguan</a></li>
           <li><a href="/agenda.html">Agenda Sinyal</a></li>
           <li><a href="/rapor.html">Rapor Sinyal</a></li>
           <li><a href="/tema.html">Tema Berjalan</a></li>
@@ -1521,7 +1521,7 @@ document.addEventListener('DOMContentLoaded', function () {
   console.log('signal harian: ' + HARIAN.tanggal);
 }
 
-// ---------- Signal Pekanan ----------
+// ---------- Signal Mingguan ----------
 //
 // Terbit Minggu, satu tingkat di atas edisi harian: pola yang baru kelihatan
 // setelah sepekan, plus kalender pekan depan. Bentuk halamannya sengaja
@@ -1532,7 +1532,7 @@ if (PEKANAN && PEKANAN.judul) {
     `<section class="rail" style="padding-top:2.2rem;">` +
     `<div id="pekan-isi" data-edisi="${esc(PEKANAN.tanggal)}">` +
     `<div class="harian-head">` +
-    `<span class="harian-kicker">Signal Pekanan</span>` +
+    `<span class="harian-kicker">Signal Mingguan</span>` +
     `<h1 class="harian-judul">${esc(PEKANAN.judul)}</h1>` +
     `<p class="harian-tanggal num">Pekan ${esc(PEKANAN.rentangLabel)} &middot; ` +
       `dirangkai dari ${PEKANAN.jumlahEdisi} edisi harian dan ${PEKANAN.jumlahBerita} berita</p>` +
@@ -1557,14 +1557,14 @@ if (PEKANAN && PEKANAN.judul) {
       : '') +
     (PEKANAN.penutup ? `<p class="harian-penutup">${esc(PEKANAN.penutup)}</p>` : '') +
     `</div>` +
-    `<div class="article-source-box" style="max-width:70ch;"><p>Signal Pekanan disusun redaksi ` +
+    `<div class="article-source-box" style="max-width:70ch;"><p>Signal Mingguan disusun redaksi ` +
     `The Signal dari seluruh edisi harian dan berita sepekan. Isinya pembacaan arah, bukan ` +
     `penilaian benar atau salah atas kebijakan, dan bukan rekomendasi investasi. Tanggal pada ` +
     `bagian "yang menanti" diambil dari dokumen resmi yang diberitakan, dan yang berlabel ` +
     `perkiraan mengikuti pola rilis, bukan pengumuman resmi.</p>` +
     `<a href="/signal-harian.html">Baca Signal Harian terbaru &rarr;</a></div>` +
     `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Dapatkan pembacaan ini lebih dulu</b>` +
-    `<span>Signal Harian tiap malam hari kerja, plus rangkuman pekanan tiap Minggu. ` +
+    `<span>Signal Harian tiap malam hari kerja, plus Signal Mingguan tiap Minggu. ` +
     `Langsung ke email, gratis, berhenti kapan saja.</span></div>` +
     `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal+</button></div>` +
     `</section>` +
@@ -1604,9 +1604,9 @@ document.addEventListener('DOMContentLoaded', function () {
     return hari[d.getUTCDay()] + ', ' + d.getUTCDate() + ' ' + bulan[d.getUTCMonth()] + ' ' + d.getUTCFullYear();
   }
   wadah.innerHTML =
-    '<p class="harian-arsip-note">Kamu membaca edisi arsip. <a href="/signal-pekanan.html">Buka edisi terbaru &rarr;</a></p>' +
+    '<p class="harian-arsip-note">Kamu membaca edisi arsip. <a href="/signal-mingguan.html">Buka edisi terbaru &rarr;</a></p>' +
     '<div class="harian-head">' +
-    '<span class="harian-kicker">Signal Pekanan</span>' +
+    '<span class="harian-kicker">Signal Mingguan</span>' +
     '<h1 class="harian-judul">' + esc(e.judul) + '</h1>' +
     '<p class="harian-tanggal num">Pekan ' + esc(e.rentangLabel) + ' &middot; dirangkai dari ' +
       e.jumlahEdisi + ' edisi harian dan ' + e.jumlahBerita + ' berita</p>' +
@@ -1627,15 +1627,15 @@ document.addEventListener('DOMContentLoaded', function () {
         }).join('') + '<a class="card-link" href="/agenda.html">Lihat seluruh agenda &rarr;</a></div>'
       : '') +
     (e.penutup ? '<p class="harian-penutup">' + esc(e.penutup) + '</p>' : '');
-  document.title = 'Signal Pekanan ' + e.rentangLabel + ' · The Signal';
+  document.title = 'Signal Mingguan ' + e.rentangLabel + ' · The Signal';
 });
 </script>`;
 
-  fs.writeFileSync(path.join(ROOT, 'signal-pekanan.html'),
+  fs.writeFileSync(path.join(ROOT, 'signal-mingguan.html'),
     head({
-      title: 'Signal Pekanan: ' + plain(PEKANAN.judul),
+      title: 'Signal Mingguan: ' + plain(PEKANAN.judul),
       desc: PEKANAN.ringkas,
-      url: '/signal-pekanan.html',
+      url: '/signal-mingguan.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
       ogType: 'article',
@@ -1647,12 +1647,12 @@ document.addEventListener('DOMContentLoaded', function () {
         dateModified: stempelWIB(PEKANAN.dibuat),
         image: [BASE + '/assets/img/og-card.jpg'],
         author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
-        mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + '/signal-pekanan.html' },
+        mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + '/signal-mingguan.html' },
         inLanguage: 'id-ID',
         publisher: RUJUK_ORGANISASI,
       },
     }) + isi + FOOT, 'utf8');
-  console.log('signal pekanan: ' + PEKANAN.rentangLabel + ' (' + (PEKANAN.pola || []).length + ' pola)');
+  console.log('signal mingguan: ' + PEKANAN.rentangLabel + ' (' + (PEKANAN.pola || []).length + ' pola)');
 }
 
 // ---------- bersihkan halaman yatim ----------
@@ -1904,7 +1904,7 @@ function muatArsip(berkas) {
 }
 const ARSIP_HARIAN = muatArsip('harian-arsip.js');
 const urlEdisiHarian = (e) => '/edisi/harian-' + e.tanggal + '.html';
-const urlEdisiPekanan = (e) => '/edisi/pekanan-' + e.tanggal + '.html';
+const urlEdisiPekanan = (e) => '/edisi/mingguan-' + e.tanggal + '.html';
 
 function badanEdisiHarian(e) {
   return '<section class="rail" style="padding-top:2.2rem;">' +
@@ -1930,7 +1930,7 @@ function badanEdisiHarian(e) {
 function badanEdisiPekanan(e) {
   return '<section class="rail" style="padding-top:2.2rem;">' +
     '<div class="harian-head">' +
-    '<span class="harian-kicker">Signal Pekanan &middot; edisi arsip</span>' +
+    '<span class="harian-kicker">Signal Mingguan &middot; edisi arsip</span>' +
     '<h1 class="harian-judul">' + esc(e.judul) + '</h1>' +
     '<p class="harian-tanggal num">Pekan ' + esc(e.rentangLabel || e.rentang || e.tanggal) +
     ' &middot; dirangkai dari ' + e.jumlahBerita + ' berita</p>' +
@@ -1943,7 +1943,7 @@ function badanEdisiPekanan(e) {
     '</div>' +
     (e.penutup ? '<p class="harian-penutup">' + esc(e.penutup) + '</p>' : '') +
     '<p class="harian-ringkas" style="margin-top:1.6rem;">' +
-    '<a href="/signal-pekanan.html">Buka edisi terbaru &rarr;</a></p>' +
+    '<a href="/signal-mingguan.html">Buka edisi terbaru &rarr;</a></p>' +
     '</section>';
 }
 
@@ -1975,15 +1975,15 @@ for (const e of ARSIP_HARIAN) {
 for (const e of ARSIP_PEKANAN) {
   if (!e || !e.tanggal || !e.judul) continue;
   const url = urlEdisiPekanan(e);
-  fs.writeFileSync(path.join(ROOT, 'edisi', 'pekanan-' + e.tanggal + '.html'),
+  fs.writeFileSync(path.join(ROOT, 'edisi', 'mingguan-' + e.tanggal + '.html'),
     head({
-      title: 'Signal Pekanan ' + (e.rentangLabel || e.tanggal),
+      title: 'Signal Mingguan ' + (e.rentangLabel || e.tanggal),
       desc: e.ringkas || plain(e.judul),
       url, image: BASE + '/assets/img/og-card.jpg', imgW: 1200, imgH: 630,
-      jsonld: ldEdisi(e, url, 'Signal Pekanan'),
+      jsonld: ldEdisi(e, url, 'Signal Mingguan'),
     }) + badanEdisiPekanan(e) + FOOT, 'utf8');
 }
-console.log('halaman edisi arsip:', ARSIP_HARIAN.length, 'harian +', ARSIP_PEKANAN.length, 'pekanan');
+console.log('halaman edisi arsip:', ARSIP_HARIAN.length, 'harian +', ARSIP_PEKANAN.length, 'mingguan');
 
 // ---------- sitemap ----------
 // lastmod memberi tahu mesin pencari halaman mana yang layak dirayapi ulang.
@@ -1995,7 +1995,7 @@ const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0,
 // isoDate mentah salah untuk stempel Zulu; waktuISO() sudah menormalkannya.
 const tglWIB = (iso) => waktuISO(iso).slice(0, 10);
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
-  ...(PEKANAN ? ['/signal-pekanan.html'] : []),
+  ...(PEKANAN ? ['/signal-mingguan.html'] : []),
   '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
   .map(u => ({ loc: u, lastmod: hariIniWIB }))
@@ -2106,7 +2106,7 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
     '',
     '- [Beranda](' + BASE + '/): pembacaan arah hari ini plus berita terbaru.',
     '- [Signal Harian](' + BASE + '/signal-harian.html): satu tulisan yang merangkai seluruh berita hari itu jadi satu benang arah kebijakan. Terbit malam hari kerja.',
-    '- [Signal Pekanan](' + BASE + '/signal-pekanan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.',
+    '- [Signal Mingguan](' + BASE + '/signal-mingguan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.',
     '- [Semua berita](' + BASE + '/berita.html): arsip lengkap dengan penyaring kategori.',
     '',
     '## Data dan rujukan',
@@ -2202,8 +2202,8 @@ function isiFeedPekanan(p) {
   }
   if (p.penutup) b.push('<p>' + esc(p.penutup) + '</p>');
   b.push('<hr>');
-  b.push('<p><a href="' + BASE + '/signal-pekanan.html">Baca di situs</a> &middot; ' +
-    'Signal Pekanan terbit tiap Minggu, merangkai seluruh edisi harian dan berita ' +
+  b.push('<p><a href="' + BASE + '/signal-mingguan.html">Baca di situs</a> &middot; ' +
+    'Signal Mingguan terbit tiap Minggu, merangkai seluruh edisi harian dan berita ' +
     'sepekan jadi satu pembacaan arah, lengkap dengan agenda pekan berikutnya.</p>');
   return b.join('\n');
 }
@@ -2229,8 +2229,8 @@ fs.writeFileSync(ROOT + '/feed.xml',
   // akan dianggap satu item oleh pembaca feed, dan salah satunya hilang.
   (ARSIP_PEKANAN.length ? '\n' + ARSIP_PEKANAN.map(p =>
     '  <item>\n' +
-    '    <title>Signal Pekanan: ' + esc(p.judul) + '</title>\n' +
-    '    <link>' + BASE + '/edisi/pekanan-' + esc(p.tanggal) + '.html</link>\n' +
+    '    <title>Signal Mingguan: ' + esc(p.judul) + '</title>\n' +
+    '    <link>' + BASE + '/edisi/mingguan-' + esc(p.tanggal) + '.html</link>\n' +
     '    <guid isPermaLink="false">the-signal-pekanan-' + esc(p.tanggal) + '</guid>\n' +
     '    <pubDate>' + new Date((p.dibuat || p.tanggal + 'T19:00:00+07:00')).toUTCString() + '</pubDate>\n' +
     '    <description><![CDATA[' + isiFeedPekanan(p) + ']]></description>\n' +

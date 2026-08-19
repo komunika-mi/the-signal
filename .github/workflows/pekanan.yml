@@ -1,4 +1,4 @@
-name: Signal Pekanan
+name: Signal Mingguan
 
 # Edisi Minggu: pembacaan arah SEPEKAN, satu tingkat di atas edisi harian.
 #
@@ -79,7 +79,7 @@ jobs:
           echo "EDISI=$EDISI" >> $GITHUB_ENV
           echo "Kirim ulang edisi $EDISI tanpa menulis ulang."
 
-      - name: Tulis Signal Pekanan
+      - name: Tulis Signal Mingguan
         timeout-minutes: 10
         if: ${{ !inputs.hanya_kirim }}
         env:
@@ -105,7 +105,7 @@ jobs:
           echo "TERBIT=ya" >> $GITHUB_ENV
           EDISI=$(node -e "const fs=require('fs');const m=fs.readFileSync('assets/js/pekanan.js','utf8').match(/\"tanggal\":\s*\"([^\"]+)\"/);console.log(m?m[1]:'')")
           echo "EDISI=$EDISI" >> $GITHUB_ENV
-          git commit -m "Signal Pekanan $EDISI"
+          git commit -m "Signal Mingguan $EDISI"
           # Rebase dulu: putaran berita atau pasar bisa mendorong commit di
           # sela penulisan. Konflik TIDAK ditelan; edisi bisa dijalankan ulang
           # lewat workflow_dispatch.
@@ -154,7 +154,7 @@ jobs:
           for i in $(seq 1 20); do
             sleep 15
             # Yang diperiksa GUID EDISI INI di feed, bukan sekadar halamannya
-            # membalas 200. signal-pekanan.html sudah ada sejak edisi minggu
+            # membalas 200. signal-mingguan.html sudah ada sejak edisi minggu
             # lalu, jadi memeriksa 200 saja adalah gerbang yang selalu terbuka.
             if curl -sf --max-time 20 https://the-signal.id/feed.xml | grep -q "the-signal-pekanan-$EDISI"; then
               echo "Situs dan feed sudah tayang."

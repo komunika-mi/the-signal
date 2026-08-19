@@ -1,4 +1,4 @@
-// Signal Pekanan: pembacaan arah sepekan, terbit Minggu sore.
+// Signal Mingguan: pembacaan arah sepekan, terbit Minggu sore.
 //
 // KENAPA ADA. Signal Harian sengaja tidak terbit Sabtu-Minggu: bursa tutup,
 // lembaga tidak menerbitkan apa pun, jadi bahannya memang tidak ada. Tapi
@@ -99,7 +99,7 @@ async function main() {
     .filter(h => h.tanggal >= mulai && h.tanggal <= hariIni)
     .sort((a, b) => a.tanggal.localeCompare(b.tanggal));
 
-  log('Signal Pekanan ' + labelRentang + ': ' + edisiPekanIni.length + ' edisi harian jadi bahan');
+  log('Signal Mingguan ' + labelRentang + ': ' + edisiPekanIni.length + ' edisi harian jadi bahan');
   if (edisiPekanIni.length < MIN_EDISI) {
     log('pekan ini terlalu sepi (butuh minimal ' + MIN_EDISI + ' edisi harian), dilewati');
     return;
@@ -169,7 +169,7 @@ async function main() {
   };
 
   fs.writeFileSync(ROOT + '/assets/js/pekanan.js',
-    '// Signal Pekanan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.\n' +
+    '// Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.\n' +
     'var PEKANAN = ' + JSON.stringify(data, null, 1) + ';\n', 'utf8');
 
   // Arsip terpisah, pola yang sama dengan Signal Harian: satu tanggal muncul
@@ -188,7 +188,7 @@ async function main() {
     .slice(0, 26);                                  // setengah tahun edisi
 
   fs.writeFileSync(berkasArsip,
-    '// Arsip Signal Pekanan, 26 edisi terakhir. Ikut jadi sumber feed.xml.\n' +
+    '// Arsip Signal Mingguan, 26 edisi terakhir. Ikut jadi sumber feed.xml.\n' +
     '// Dibuat otomatis oleh scripts/signal-pekanan.mjs - jangan diedit manual.\n' +
     'var PEKANAN_ARSIP = ' + JSON.stringify(arsip, null, 1) + ';\n', 'utf8');
 

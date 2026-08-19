@@ -305,7 +305,7 @@ export async function tulisHarian(artikel, tanggalLabel, konteks = {}) {
   return hasil;
 }
 
-// ---------- Signal Pekanan ----------
+// ---------- Signal Mingguan ----------
 //
 // Terbit Minggu, dan SENGAJA BUKAN gabungan lima edisi harian. Kalau cuma
 // menempel ringkasan Senin sampai Jumat, pembaca yang sudah mengikuti tidak
@@ -322,7 +322,7 @@ export async function tulisPekanan(bahan) {
     '',
     PENGAMAN,
     '',
-    'TUGAS: tulis "Signal Pekanan" untuk pekan ' + bahan.labelRentang + '.',
+    'TUGAS: tulis "Signal Mingguan" untuk pekan ' + bahan.labelRentang + '.',
     'Dibaca Minggu sore, saat orang menyiapkan pekan kerja berikutnya.',
     '',
     'INI BUKAN GABUNGAN EDISI HARIAN. Pembaca setia sudah membacanya. Kalau',

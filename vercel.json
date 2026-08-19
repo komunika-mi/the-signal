@@ -6,13 +6,30 @@
   "framework": null,
   "trailingSlash": false,
   "functions": {
-    "api/telegram.js": { "maxDuration": 60 }
+    "api/telegram.js": {
+      "maxDuration": 60
+    }
   },
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "www.the-signal.id" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.the-signal.id"
+        }
+      ],
       "destination": "https://the-signal.id/$1",
+      "permanent": true
+    },
+    {
+      "source": "/signal-pekanan.html",
+      "destination": "/signal-mingguan.html",
+      "permanent": true
+    },
+    {
+      "source": "/edisi/pekanan-:tanggal.html",
+      "destination": "/edisi/mingguan-:tanggal.html",
       "permanent": true
     }
   ],
@@ -20,19 +37,28 @@
     {
       "source": "/assets/img/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=604800, stale-while-revalidate=86400" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800, stale-while-revalidate=86400"
+        }
       ]
     },
     {
       "source": "/assets/(css|js)/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/assets/data/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=300, stale-while-revalidate=3600" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300, stale-while-revalidate=3600"
+        }
       ]
     }
   ]

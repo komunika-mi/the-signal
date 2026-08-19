@@ -24,7 +24,7 @@ Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 
 - [Beranda](https://the-signal.id/): pembacaan arah hari ini plus berita terbaru.
 - [Signal Harian](https://the-signal.id/signal-harian.html): satu tulisan yang merangkai seluruh berita hari itu jadi satu benang arah kebijakan. Terbit malam hari kerja.
-- [Signal Pekanan](https://the-signal.id/signal-pekanan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.
+- [Signal Mingguan](https://the-signal.id/signal-mingguan.html): pola yang baru kelihatan setelah sepekan, plus agenda pekan depan. Terbit Minggu.
 - [Semua berita](https://the-signal.id/berita.html): arsip lengkap dengan penyaring kategori.
 
 ## Data dan rujukan

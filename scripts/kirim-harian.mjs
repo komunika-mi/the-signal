@@ -16,7 +16,7 @@
 //
 // Pemakaian:
 //   node scripts/kirim-harian.mjs             kirim Signal Harian
-//   node scripts/kirim-harian.mjs --pekanan   kirim Signal Pekanan (edisi Minggu)
+//   node scripts/kirim-harian.mjs --pekanan   kirim Signal Mingguan (edisi Minggu)
 //   node scripts/kirim-harian.mjs --draft     simpan sebagai draft, tidak terkirim
 //
 // SATU SKRIP, DUA PRODUK. Edisi pekanan memakai jalur yang sama persis,
@@ -145,10 +145,10 @@ function badanPekanan(p) {
   // Tautan menunjuk EDISI INI, bukan halaman terbaru, aturan yang sama dengan
   // edisi harian. Tanpa ?edisi=, pembaca yang membuka email ini Minggu depan
   // akan mendarat di edisi pekan berikutnya.
-  b.push('<p><a href="' + BASE + '/signal-pekanan.html?edisi=' + esc(p.tanggal) +
+  b.push('<p><a href="' + BASE + '/signal-mingguan.html?edisi=' + esc(p.tanggal) +
     '">Baca edisi ini di situs</a> &middot; ' +
     '<a href="' + BASE + '/agenda.html">lihat seluruh agenda</a></p>');
-  b.push('<p style="font-size:13px;color:#6b6858">Signal Pekanan terbit tiap Minggu, ' +
+  b.push('<p style="font-size:13px;color:#6b6858">Signal Mingguan terbit tiap Minggu, ' +
     'merangkai seluruh edisi harian dan berita sepekan jadi satu pembacaan arah. ' +
     'Bukan rekomendasi investasi.</p>');
   return b.join('\n');
@@ -244,7 +244,7 @@ async function main() {
 
   // Subjek pekanan memuat SUDUT edisinya, bukan cuma rentang tanggal.
   //
-  // Bentuk lama, "Signal Pekanan · 11 Agustus - 17 Agustus 2026", habis 45
+  // Bentuk lama, "Signal Mingguan · 11 Agustus - 17 Agustus 2026", habis 45
   // karakter untuk nama produk dan tanggal, lalu terpotong di sekitar 40
   // karakter pada aplikasi ponsel. Yang tersisa di layar sama persis tiap
   // pekan, jadi satu edisi tidak bisa dibedakan dari edisi sebelumnya. Nama
@@ -255,7 +255,7 @@ async function main() {
   // metadata.edisi, dan pencocokan subjek cuma jaring cadangan yang
   // digabung dengan OR, bukan syarat.
   const subjek = PEKANAN
-    ? 'Signal Pekanan ' + rentangPendek(h) + ' · ' + (h.judul || h.rentangLabel || h.tanggal)
+    ? 'Signal Mingguan ' + rentangPendek(h) + ' · ' + (h.judul || h.rentangLabel || h.tanggal)
     : 'Signal Harian · ' + (h.tanggalLabel || h.tanggal);
   // Awalan berbeda supaya edisi harian dan pekanan bertanggal sama tidak
   // saling menutup lewat penjaga anti-ganda.

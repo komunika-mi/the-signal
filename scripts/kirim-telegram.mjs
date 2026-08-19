@@ -159,7 +159,7 @@ async function modePekanan() {
     return;
   }
   // Gerbangnya EDISI INI ADA DI FEED, bukan halamannya membalas 200. Sama
-  // persis dengan pelajaran di modeHarian: signal-pekanan.html statis dan
+  // persis dengan pelajaran di modeHarian: signal-mingguan.html statis dan
   // akan selalu 200 sekali ter-deploy, jadi cek 200 adalah gerbang yang tidak
   // pernah tertutup dan pembuka tautan bisa disuguhi edisi pekan lalu.
   try {
@@ -176,15 +176,15 @@ async function modePekanan() {
   const menanti = (p.menanti || []).slice(0, 4)
     .map(m => '• <b>' + esc(fmtTanggalHari(m.tanggal)) + '</b>\n  ' + esc(m.apa)).join('\n');
   const teks =
-    '<b>Signal Pekanan · ' + esc(p.rentangLabel || p.tanggal) + '</b>\n' +
+    '<b>Signal Mingguan · ' + esc(p.rentangLabel || p.tanggal) + '</b>\n' +
     '<b>' + esc(p.judul) + '</b>\n\n' +
     esc(p.ringkas || '') + '\n\n' + pola +
     (menanti ? '\n\n<b>Yang menanti pekan depan</b>\n' + menanti : '') +
-    '\n\n<a href="' + BASE + '/signal-pekanan.html">Baca pembacaan lengkapnya</a>';
+    '\n\n<a href="' + BASE + '/signal-mingguan.html">Baca pembacaan lengkapnya</a>';
   await kirim(teks);
   st.pekanan = [...(st.pekanan || []), p.tanggal];
   simpanState(st);
-  log('TERKIRIM ke Telegram: Signal Pekanan ' + p.tanggal);
+  log('TERKIRIM ke Telegram: Signal Mingguan ' + p.tanggal);
 }
 
 async function main() {

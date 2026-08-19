@@ -19,7 +19,10 @@ const VIDEOS = muat('videos.js');
 
 // Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
-import { tulisIndeksArtikel, bakeRoot } from './bake-root.mjs';
+import {
+  tulisIndeksArtikel, bakeRoot,
+  PER_HALAMAN_ARSIP, jumlahHalamanArsip, urlHalamanArsip, barisArsip,
+} from './bake-root.mjs';
 import { HALAMAN_STATIS } from './halaman-statis.mjs';
 import { kepalaAnalitik, VERIFIKASI_GSC, GA4_ID } from './analitik.mjs';
 tulisIndeksArtikel(ARTICLES);
@@ -1817,6 +1820,66 @@ for (const [nama, arts] of DAFTAR_TOPIK) {
 console.log('halaman topik:', DAFTAR_TOPIK.length,
   '(' + DAFTAR_TOPIK.map(([n, x]) => slugTopik(n) + ' ' + x.length).join(', ') + ')');
 
+// ---------- halaman arsip lanjutan ----------
+//
+// Halaman 1 ada di berita.html; halaman 2 dan seterusnya di sini.
+//
+// Kenapa berhalaman: arsip berhenti dipangkas, jadi memanggang seluruh
+// tautannya ke satu halaman akan tumbuh tanpa batas. Kenapa TETAP dipanggang
+// dan bukan diserahkan ke JavaScript: tiap artikel harus punya jalur rayapan
+// yang tidak bergantung pada mesin pencari mau menjalankan skrip atau tidak.
+// Itu justru cacat yang diperbaiki hari ini di halaman ini juga.
+//
+// Halaman lanjutan sengaja TIDAK ber-noindex. Isinya berbeda satu sama lain,
+// dan justru dari sinilah artikel lama menerima tautan masuk permanen.
+fs.mkdirSync(ROOT + '/arsip', { recursive: true });
+{
+  const total = jumlahHalamanArsip(ARTICLES.length);
+  for (let hal = 2; hal <= total; hal++) {
+    const mulai = (hal - 1) * PER_HALAMAN_ARSIP;
+    const isiHal = ARTICLES.slice(mulai, mulai + PER_HALAMAN_ARSIP);
+    if (!isiHal.length) continue;
+    const url = urlHalamanArsip(hal);
+    const nav =
+      '<nav class="arsip-nav">' +
+      '<a class="arsip-lanjut" href="' + urlHalamanArsip(hal - 1) + '">&larr; Halaman sebelumnya</a>' +
+      '<span class="arsip-posisi num">Halaman ' + hal + ' dari ' + total +
+      ' &middot; ' + ARTICLES.length + ' artikel</span>' +
+      (hal < total
+        ? '<a class="arsip-lanjut" href="' + urlHalamanArsip(hal + 1) + '">Halaman berikutnya &rarr;</a>'
+        : '') +
+      '</nav>';
+    const isi =
+      '<section class="rail arsip-penuh" style="padding-top:2.2rem;">' +
+      '<div class="harian-head">' +
+      '<span class="harian-kicker">Arsip Berita</span>' +
+      '<h1 class="harian-judul">Semua artikel, halaman ' + hal + '</h1>' +
+      '<p class="harian-tanggal num">' + esc(isiHal[isiHal.length - 1].date || '') +
+      ' sampai ' + esc(isiHal[0].date || '') + '</p></div>' +
+      nav +
+      '<ul class="arsip-daftar">' +
+      isiHal.map(x => barisArsip(x, articleUrl, esc, plain)).join('') +
+      '</ul>' + nav +
+      '</section>';
+    fs.writeFileSync(path.join(ROOT, 'arsip', hal + '.html'),
+      head({
+        title: 'Arsip Berita, halaman ' + hal,
+        desc: 'Arsip artikel The Signal halaman ' + hal + ' dari ' + total + ': ' +
+          isiHal.length + ' artikel, ' + (isiHal[isiHal.length - 1].date || '') +
+          ' sampai ' + (isiHal[0].date || '') + '.',
+        url,
+        image: BASE + '/assets/img/og-card.jpg', imgW: 1200, imgH: 630,
+        jsonld: halamanKoleksi({
+          nama: 'Arsip Berita, halaman ' + hal, url,
+          deskripsi: 'Arsip artikel The Signal, halaman ' + hal + ' dari ' + total + '.',
+          item: isiHal.map(x => ({ nama: plain(x.title), url: articleUrl(x) })),
+        }),
+      }) + isi + FOOT, 'utf8');
+  }
+  console.log('halaman arsip lanjutan:', Math.max(0, total - 1),
+    '(total', total, 'halaman untuk', ARTICLES.length, 'artikel)');
+}
+
 // ---------- halaman edisi arsip ----------
 //
 // Edisi lama sebelumnya hanya hidup di dalam JavaScript: /signal-harian.html
@@ -1955,7 +2018,14 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
   .concat(ARSIP_PEKANAN.filter(e => e && e.tanggal && e.judul)
     .map(e => ({ loc: urlEdisiPekanan(e), lastmod: e.tanggal })))
   .concat(DAFTAR_TOPIK.map(([n, arts]) =>
-    ({ loc: '/topik/' + slugTopik(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })));
+    ({ loc: '/topik/' + slugTopik(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })))
+  // Halaman arsip lanjutan: lastmod-nya tanggal artikel TERBARU di halaman
+  // itu, bukan tanggal build, karena isinya cuma berubah saat arsip bergeser.
+  .concat(Array.from({ length: jumlahHalamanArsip(ARTICLES.length) - 1 }, (_, k) => {
+    const hal = k + 2;
+    const pertama = ARTICLES[(hal - 1) * PER_HALAMAN_ARSIP];
+    return pertama ? { loc: urlHalamanArsip(hal), lastmod: tglWIB(pertama.isoDate) } : null;
+  }).filter(Boolean));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +

@@ -266,6 +266,20 @@ jobs:
               git reset --hard origin/master
               exit 1
             }
+          # DIPENTASKAN ULANG sesudah rebase, dan ini bukan kehati-hatian berlebihan.
+          #
+          # Urutannya `git add` LALU `git pull --rebase --autostash`. Autostash
+          # menyimpan lalu memulihkan pohon kerja, dan pemulihan itu tidak menjamin
+          # apa yang tadi terpentas masih terpentas. Berkas BARU tetap ikut, berkas
+          # TERLACAK yang juga diubah remote bisa tidak ikut.
+          #
+          # Akibatnya terlihat pada commit 44deed4d8 (19 Agustus 2026): 21 berkas
+          # masuk, 10 di antaranya halaman berita baru, tapi assets/js/articles.js
+          # TIDAK ikut. Sepuluh artikel sungguhan terbit tanpa pernah masuk arsip,
+          # lalu lima menit kemudian dihapus pembersih halaman yatim karena memang
+          # tidak ada di daftar mana pun. Terbit dan mati dalam lima menit, tanpa
+          # satu pun langkah berwarna merah.
+          git add -A
             git commit -m "Pembaruan otomatis: ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +%Y-%m-%d))"
             git push
             echo "berubah=ya" >> "$GITHUB_OUTPUT"

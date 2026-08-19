@@ -12,21 +12,25 @@ import { pastikanFotoArtikel } from './foto-artikel.mjs';
 
 const TARGET = Number(process.env.IDX_TARGET || 8);      // aksi korporasi per putaran
 const MAKS_KANDIDAT = Number(process.env.IDX_KANDIDAT || 25);
-// 800, naik dari 400, dan angkanya diukur bukan ditebak.
+// TIDAK ADA LAGI PEMANGKASAN ARSIP.
 //
-// Yang membatasi BUKAN ruang penyimpanan, melainkan yang diunduh pembaca
-// tiap membuka /berita.html: articles-index.js plus badan halamannya.
-// Terkompresi, pada 19 Agustus 2026: 400 artikel = 104 KB, 800 = 209 KB,
-// 1000 = 261 KB, 1500 = 391 KB. Di atas 800 halaman arsipnya perlu
-// dipaginasi lebih dulu, karena ia memanggang SELURUH tautan arsip ke satu
-// halaman supaya tiap artikel punya jalur rayapan.
+// Dulu di sini ada .slice(0, MAKS_ARSIP) yang membuang artikel tertua tiap
+// kali ada yang baru. Itu bukan menyembunyikan, melainkan MENGHAPUS: berkas
+// HTML-nya dibuang pembersih halaman yatim, hilang dari sitemap, dan URL-nya
+// jadi 404. Diperiksa 19 Agustus 2026, tiga artikel yang tergeser lebih lama
+// semuanya dibalas 404 oleh situs. 38 artikel sudah mati begitu.
 //
-// PERLU DIINGAT: batas ini MENGHAPUS artikel, bukan menyembunyikannya.
-// Yang tergeser keluar berkas HTML-nya dibuang, hilang dari sitemap, dan
-// URL-nya jadi 404 di situs. 38 artikel sudah mati begitu. Menaikkan angka
-// cuma menunda dari sekitar 40 hari jadi sekitar 80 hari, tidak
-// menghentikannya.
-const MAKS_ARSIP = Number(process.env.SIGNAL_ARSIP || 800);
+// Untuk situs berita itu tidak bisa dibenarkan. Artikel yang sudah terbit
+// punya pembaca, punya tautan masuk, dan sudah diindeks. Menghapusnya diam-
+// diam bertentangan dengan pedoman media siber yang tayang di situs ini
+// sendiri, yang menjanjikan kekeliruan DIRALAT di artikel yang sama, bukan
+// artikelnya dilenyapkan.
+//
+// Yang benar-benar mahal bukan menyimpan artikelnya, melainkan MENYAJIKAN
+// semuanya sekaligus. Jadi batasnya pindah ke tiap konsumen: indeks yang
+// diunduh peramban, halaman arsip yang kini berhalaman, dan indeks bot.
+// articles.js sendiri boleh tumbuh, karena ia cuma dibaca saat build dan
+// tidak pernah dimuat peramban.
 
 async function main() {
   log('=== The Signal: keterbukaan informasi IDX (model: ' + MODEL + ') ===');
@@ -242,8 +246,7 @@ async function main() {
     // keWaktu(), bukan new Date() langsung: stempel tanpa penanda zona
     // ditafsirkan sebagai waktu lokal mesin, sehingga urutan artikel bisa
     // berbeda antara komputer rumah (WIB) dan runner GitHub (UTC).
-    .sort((a, b) => (keWaktu(b.isoDate) || 0) - (keWaktu(a.isoDate) || 0))
-    .slice(0, MAKS_ARSIP);
+    .sort((a, b) => (keWaktu(b.isoDate) || 0) - (keWaktu(a.isoDate) || 0));
 
   // Lihat catatan di update-all.mjs: foto dibuat per artikel supaya tidak
   // mungkin berulang. Batasnya lebih kecil di sini karena putaran IDX jalan

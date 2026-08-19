@@ -1051,3 +1051,17 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
    tapi tidak boleh menyaingi chip tema yang merah. */
 a.article-tag { text-decoration: none; }
 a.article-tag:hover { border-color: var(--ink-soft); color: var(--ink); }
+
+/* Navigasi antar halaman arsip. */
+.arsip-nav {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 1rem; flex-wrap: wrap;
+  margin: 1.4rem 0; padding: .8rem 0;
+  border-top: 1px solid var(--garis); border-bottom: 1px solid var(--garis);
+}
+.arsip-posisi { font-size: .85rem; opacity: .65; }
+.arsip-lanjut { font-weight: 700; text-decoration: none; }
+.arsip-lanjut:hover { text-decoration: underline; }
+@media (max-width: 560px) {
+  .arsip-nav { flex-direction: column; align-items: flex-start; gap: .5rem; }
+}

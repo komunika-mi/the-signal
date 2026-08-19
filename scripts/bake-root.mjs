@@ -52,8 +52,35 @@ const PLAY = '<span class="play-dot"><svg viewBox="0 0 24 24"><circle cx="12" cy
 const FIELD_INDEKS = ['slug', 'category', 'title', 'deck', 'date', 'image',
   'imageV', 'tags', 'kreditFoto', 'sourceUrl', 'sourceLabel', 'video'];
 
+// BATAS KONSUMEN, bukan batas arsip.
+//
+// Arsipnya sendiri tidak dibatasi lagi, dan tidak ada artikel yang dihapus.
+// Yang dibatasi hanya hal-hal yang benar-benar mahal disajikan sekaligus.
+// Angkanya diukur terkompresi pada 19 Agustus 2026: articles-index.js 67 KB
+// per 400 artikel, badan berita.html 37 KB per 400.
+//
+// Indeks klien dipakai kartu beranda dan kotak pencarian, dan diunduh SETIAP
+// pengunjung. 400 menjaganya di sekitar 67 KB. Arsip lengkapnya tetap bisa
+// ditelusuri lewat halaman arsip yang kini berhalaman, lewat rubrik, topik,
+// tema, dan emiten, dan seluruhnya tetap terdaftar di sitemap.
+export const MAKS_INDEKS_KLIEN = Number(process.env.SIGNAL_INDEKS_KLIEN || 400);
+
+// Satu halaman arsip. 200 artikel sekitar 19 KB terkompresi.
+export const PER_HALAMAN_ARSIP = Number(process.env.SIGNAL_PER_HALAMAN || 200);
+
+export const jumlahHalamanArsip = (n) => Math.max(1, Math.ceil(n / PER_HALAMAN_ARSIP));
+export const urlHalamanArsip = (i) => (i <= 1 ? '/berita.html' : '/arsip/' + i + '.html');
+
+// Satu baris arsip, dipakai halaman 1 di berita.html maupun halaman lanjutan
+// di /arsip/. Ditaruh di sini supaya bentuknya tidak berselisih antar halaman.
+export function barisArsip(a, urlArtikel, esc, plain) {
+  return '<li class="arsip-baris"><a href="' + urlArtikel(a) + '">' +
+    esc(plain(a.title)) + '</a>' +
+    '<span class="arsip-meta num">' + esc(a.date) + '</span></li>';
+}
+
 export function tulisIndeksArtikel(ARTICLES) {
-  const ramping = ARTICLES.map(a => {
+  const ramping = ARTICLES.slice(0, MAKS_INDEKS_KLIEN).map(a => {
     const o = {};
     for (const f of FIELD_INDEKS) {
       if (a[f] !== undefined && a[f] !== '' && a[f] !== null) o[f] = a[f];
@@ -446,10 +473,21 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
   //
   // Judul dan tanggal saja, tanpa gambar dan tanpa ringkasan, supaya bobot
   // halaman tidak melonjak. Empat ratus baris begini sekitar 45 KB.
-  brt = ganti(brt, 'arsip', ARTICLES.map(a =>
-    '<li class="arsip-baris"><a href="' + urlArtikel(a) + '">' +
-    esc(plain(a.title)) + '</a>' +
-    '<span class="arsip-meta num">' + esc(a.date) + '</span></li>').join(''), 'berita.html');
+  // Halaman PERTAMA saja di sini; sisanya jadi /arsip/2.html dan seterusnya,
+  // dibangkitkan build-pages.mjs. Dulu SELURUH arsip dipanggang ke satu
+  // halaman ini. Itu masih wajar pada 400 artikel (37 KB terkompresi), tapi
+  // tidak lagi begitu arsipnya berhenti dipangkas dan tumbuh terus.
+  const totalHal = jumlahHalamanArsip(ARTICLES.length);
+  brt = ganti(brt, 'arsip',
+    ARTICLES.slice(0, PER_HALAMAN_ARSIP)
+      .map(a => barisArsip(a, urlArtikel, esc, plain)).join(''), 'berita.html');
+  brt = ganti(brt, 'arsipnav', totalHal > 1
+    ? '<nav class="arsip-nav">' +
+      '<span class="arsip-posisi num">Halaman 1 dari ' + totalHal +
+      ' &middot; ' + ARTICLES.length + ' artikel</span>' +
+      '<a class="arsip-lanjut" href="' + urlHalamanArsip(2) + '">Halaman berikutnya &rarr;</a>' +
+      '</nav>'
+    : '', 'berita.html');
   fs.writeFileSync(pBerita, stempelVersi(brt, VER), 'utf8');
 
   // ---- video.html: tidak ada bagian panggang selain kepala, tapi stempel

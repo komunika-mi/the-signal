@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
   "deck": "RANS mengundang pemegang saham ke RUPSLB 10 September 2026 untuk menyetujui perubahan susunan Direksi, dengan rapat hybrid dan kehadiran fisik dibatasi 10 orang.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rans-panggil-rupslb-bahas-perubahan-susunan-direksi.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:51:58",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c34701187_065c7d15a3.pdf",
@@ -26,7 +26,8 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, prepared for a corporate shareholders meeting, soft morning light",
   "takeaway": "Pemanggilan RUPSLB ini netral bagi emiten, sebab dokumennya hanya mengundang pemegang saham untuk menyetujui perubahan Direksi tanpa merinci nama yang akan diganti, siapa penggantinya, atau alasan di balik usulan itu, sehingga belum ada dasar untuk menilainya sebagai kabar baik atau buruk. Yang tersentuh di sini adalah tata kelola dan kepengurusan perusahaan, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pergantian pucuk pimpinan tetap dicermati pasar karena bisa mengubah arah strategi bisnis RANS ke depan. Yang perlu dipantau adalah jalannya RUPSLB pada Kamis, 10 September 2026, saat susunan Direksi baru akan diumumkan, serta tenggat kuasa elektronik pada Rabu, 9 September 2026 pukul 12.00 WIB dan kuasa konvensional yang harus diterima paling lambat 10 September 2026 pukul 09.00 WIB.",
-  "sentimen": "netral"
+  "sentimen": "netral",
+  "imageV": "mszy2k1z"
  },
  {
   "slug": "adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar",
@@ -1452,6 +1453,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Data PIHPS hari ini cuma potret harga pada satu hari, tanpa angka pembanding dari hari atau minggu sebelumnya, jadi belum bisa disimpulkan apakah harga cabai, daging, atau minyak goreng sedang naik, turun, atau stabil. Yang langsung terdampak adalah pembeli di pasar tradisional dan pedagang eceran, karena harga-harga inilah yang mereka hadapi setiap hari. Untuk membaca ke mana arah harga bergerak, perlu dibandingkan dengan data PIHPS pekan-pekan sebelumnya atau dengan laporan inflasi bulanan dari Badan Pusat Statistik, yang biasanya terbit awal bulan berikutnya. Sampai pembanding itu tersedia, angka hari ini paling tepat dibaca sebagai acuan harga saja, bukan sebagai sinyal tren kenaikan atau penurunan.",
   "imageV": "msycsmze"
+ },
+ {
+  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T10:51:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
+  "body": [
+   "Bank Indonesia melalui Pusat Informasi Harga Pangan Strategis (PIHPS) merilis data harga rata-rata bahan pangan di tingkat pedagang eceran secara nasional untuk 18 Agustus 2026. Data ini mencakup harga cabai, telur, daging, beras, gula, dan minyak goreng, dan biasa dipakai sebagai acuan harian oleh pedagang pasar maupun rumah tangga untuk membandingkan harga di daerah masing-masing.",
+   "Untuk kelompok cabai, cabai rawit merah tercatat paling mahal di antara jenisnya yaitu Rp66.350 per kilogram, diikuti cabai rawit hijau Rp49.750 per kilogram dan cabai merah keriting Rp49.100 per kilogram. Cabai merah besar berada di level terendah kelompok ini, Rp44.550 per kilogram. Sementara itu bawang merah dijual Rp40.700 per kilogram dan bawang putih Rp41.100 per kilogram.",
+   "Di kelompok protein, telur ayam ras tercatat Rp28.200 per kilogram dan daging ayam ras segar Rp39.200 per kilogram. Daging sapi kualitas I berada di Rp151.150 per kilogram, sedikit lebih mahal dari kualitas II yang Rp148.200 per kilogram.",
+   "Untuk beras, kualitas bawah I dan II sama-sama Rp15.250 per kilogram, kualitas medium I Rp16.550 per kilogram dan medium II Rp16.150 per kilogram, sementara kualitas super I Rp17.550 per kilogram dan super II Rp15.250 per kilogram. Gula pasir kualitas premium dijual Rp21.450 per kilogram dan gula lokal Rp19.250 per kilogram. Minyak goreng curah tercatat paling murah di kelompoknya, Rp20.150 per liter, di bawah minyak goreng kemasan bermerek I Rp23.950 per liter dan bermerek II Rp23.450 per liter."
+  ],
+  "fotoAdegan": "Vendor weighing fresh red chilies and eggs at a bustling traditional wet market stall in Indonesia, early morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Data ini adalah potret harga pada satu hari, 18 Agustus 2026, tanpa angka pembanding dari hari atau minggu sebelumnya, sehingga belum bisa dibaca apakah harga cabai, telur, atau minyak goreng sedang naik, turun, atau stabil. Yang paling terdampak adalah pedagang eceran dan rumah tangga yang berbelanja harian, karena cabai rawit merah di Rp66.350 per kilogram jauh di atas jenis cabai lain dan daging sapi bertahan di atas Rp148.000 per kilogram, dua pos belanja yang biasanya paling terasa di dapur. Untuk melihat ke arah mana harga-harga ini bergerak, yang perlu dipantau adalah rilis PIHPS pada hari-hari berikutnya serta data inflasi bulanan dari Badan Pusat Statistik, karena baru dari perbandingan itu pola kenaikan atau penurunan sebenarnya akan terlihat.",
+  "imageV": "msy84r2b"
  },
  {
   "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
@@ -10742,5 +10770,661 @@ var ARTICLES = [
   "imageV": "tjnruj",
   "isoDate": "2026-07-29",
   "takeaway": "PNM bersama Danantara memperkuat penyaluran pembiayaan ultra mikro yang menyasar keluarga prasejahtera, terutama perempuan pelaku usaha rumahan yang selama ini sulit menjangkau perbankan konvensional karena tidak punya agunan. Skema ini mengandalkan pembiayaan berkelompok dengan tanggung renteng antaranggota sebagai pengganti jaminan formal. Arahnya adalah perluasan akses keuangan di lapisan usaha terkecil, tetapi berita ini belum menyebut angka penyaluran, jumlah keluarga yang disasar, atau target waktu program. Angka realisasi penyaluran dari PNM atau Danantara akan menjadi penanda apakah penguatan ini benar-benar memperluas jangkauan."
+ },
+ {
+  "slug": "presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri",
+  "category": "Industri",
+  "title": "Presiden Minta Pabrik Gula Wajib Punya [Kebun Tebu] Sendiri",
+  "deck": "Kebijakan ini diarahkan untuk memperkuat pasokan bahan baku industri gula dalam negeri.",
+  "image": "assets/img/presiden-minta-pabrik-gula-wajib-punya-kebun-tebu-sendiri.jpg",
+  "date": "29 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456500-presiden-prabowo-minta-pabrik-gula-wajib-punya-kebun-tebu",
+  "tags": [
+   "Gula",
+   "Industri",
+   "Pangan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Presiden Prabowo meminta agar pabrik gula diwajibkan memiliki kebun tebu sendiri. Kebijakan ini diarahkan untuk memperkuat kepastian pasokan bahan baku bagi industri gula nasional.",
+   "Selama ini banyak pabrik gula bergantung pada tebu rakyat, sehingga pasokan berfluktuasi mengikuti keputusan tanam petani yang dipengaruhi harga dan alternatif komoditas lain.",
+   "Indonesia masih mengimpor gula dalam jumlah besar setiap tahun, baik untuk konsumsi rumah tangga maupun kebutuhan industri makanan dan minuman."
+  ],
+  "fotoAdegan": "A harvester cuts through rows of tall sugarcane stalks inside a sprawling plantation field.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69af3b22019-petani-tebu-banyuwangi-melakukan-penanaman-bibit-tebu-menggunakan-alat-tanam-mekanis-sebagai-bagian-dari-program-bongkar-ratoon-untuk-meningkatkan-produktivitas-dan-mendukung-swasembada-gula-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruk",
+  "isoDate": "2026-07-29",
+  "takeaway": "Presiden Prabowo meminta agar setiap pabrik gula wajib memiliki kebun tebu sendiri, bukan lagi hanya mengandalkan pasokan dari tebu rakyat. Aturan ini langsung menyentuh pabrik gula yang harus menyiapkan lahan sendiri, sekaligus petani tebu rakyat yang selama ini menjadi pemasok utama bahan baku. Arah kebijakan ini menuju kepastian pasokan bahan baku untuk menekan ketergantungan pada impor gula yang selama ini besar, tetapi belum jelas bagaimana kewajiban ini akan diterapkan di lapangan. Aturan turunan yang menetapkan luas kebun wajib, tenggat waktu, atau sanksi bagi pabrik yang tidak patuh akan menentukan apakah kebijakan ini benar-benar mengubah pola pasokan tebu."
+ },
+ {
+  "slug": "emas-antam-merosot-ke-rp26-juta-per-gram",
+  "category": "Pasar Modal",
+  "title": "Emas Antam Merosot ke [Rp2,6 Juta] per Gram",
+  "deck": "Harga emas batangan Antam terkoreksi pada perdagangan 29 Juli 2026.",
+  "image": "assets/img/emas-antam-merosot-ke-rp26-juta-per-gram.jpg",
+  "date": "29 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456449-harga-emas-antam-hari-ini-29-juli-2026-merosot-kini-jadi-rp2601000-per-gram",
+  "tags": [
+   "Emas Antam",
+   "Komoditas",
+   "Investasi"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Harga emas batangan Antam merosot pada perdagangan 29 Juli 2026, menjadi Rp2.601.000 per gram.",
+   "Koreksi harga emas domestik biasanya mengikuti pergerakan harga emas global, yang sendiri dipengaruhi ekspektasi suku bunga bank sentral dan pergerakan indeks dolar AS.",
+   "Ketika ekspektasi penurunan suku bunga melemah, daya tarik aset tanpa imbal hasil seperti emas cenderung ikut menurun."
+  ],
+  "fotoAdegan": "A customer weighs a small gold necklace on a countertop scale inside a traditional gold shop.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7cflz",
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true,
+  "takeaway": "Harga emas batangan Antam turun menjadi Rp2.601.000 per gram pada perdagangan 29 Juli 2026, mengikuti pergerakan harga emas global yang dipengaruhi ekspektasi suku bunga bank sentral dan penguatan dolar AS. Pihak yang terdampak adalah pembeli dan penjual emas batangan sebagai instrumen investasi harian. Ada dua kemungkinan arah dari titik ini, koreksi bisa bersifat sementara jika ekspektasi penurunan suku bunga kembali menguat, atau menjadi awal tren turun jika dolar AS terus menguat. Pergerakan indeks dolar AS dan sinyal dari keputusan suku bunga bank sentral berikutnya akan menentukan mana dari dua skenario itu yang terjadi."
+ },
+ {
+  "slug": "rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi",
+  "category": "Moneter",
+  "title": "Rupiah Tembus [Rp18.106] per Dolar di Tengah Transisi Pimpinan BI",
+  "deck": "Nilai tukar rupiah melemah meski pasar mulai merespons positif penunjukan pejabat sementara Gubernur BI.",
+  "image": "assets/img/rupiah-tembus-rp18106-per-dolar-di-tengah-transisi-pimpinan-bi.jpg",
+  "date": "29 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456447-rupiah-melemah-ke-rp18106-per-dolar-meski-pasar-mulai-optimis-penunjukan-destry-damayanti-sebagai-pejabat-sementara-gubernur-bi",
+  "tags": [
+   "Rupiah",
+   "Bank Indonesia",
+   "Kurs"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Nilai tukar rupiah melemah ke level Rp18.106 per dolar AS, meski pasar mulai menunjukkan optimisme atas penunjukan Destry Damayanti sebagai Pejabat Sementara Gubernur Bank Indonesia.",
+   "Transisi kepemimpinan di bank sentral kerap menimbulkan volatilitas jangka pendek di pasar keuangan, karena investor menanti kepastian arah kebijakan moneter ke depan.",
+   "Pelemahan rupiah berdampak langsung pada biaya impor bahan baku industri dan beban pembayaran utang luar negeri, dua faktor yang pada akhirnya bisa merembet ke harga barang di dalam negeri."
+  ],
+  "fotoAdegan": "A cashier at a money exchange counter stacks coin trays while a customer waits nearby.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7csdp",
+  "isoDate": "2026-07-29",
+  "fotoDitolak": true,
+  "takeaway": "Rupiah melemah ke Rp18.106 per dolar AS, bersamaan dengan penunjukan Destry Damayanti sebagai Pejabat Sementara Gubernur Bank Indonesia yang sejauh ini direspons positif oleh pasar. Pelemahan ini berdampak pada importir bahan baku industri dan pembayaran utang luar negeri, yang pada akhirnya bisa merembet ke harga barang dalam negeri. Ada dua kemungkinan arah, pelemahan ini sekadar volatilitas jangka pendek khas masa transisi kepemimpinan bank sentral, atau berlanjut jika pasar masih menanti kepastian arah kebijakan moneter ke depan. Kejelasan itu akan terlihat dari sikap kebijakan pertama di bawah kepemimpinan sementara ini, atau dari proses penetapan Gubernur BI definitif."
+ },
+ {
+  "slug": "angka-phk-tembus-126-ribu-pekerja-hingga-mei",
+  "category": "Ketenagakerjaan",
+  "title": "Angka PHK Tembus [126 Ribu] Pekerja hingga Mei",
+  "deck": "Apindo memaparkan tekanan yang dihadapi dunia usaha di balik gelombang pemutusan hubungan kerja.",
+  "image": "assets/img/angka-phk-tembus-126-ribu-pekerja-hingga-mei.jpg",
+  "date": "29 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456427-126-ribu-pekerja-terkena-phk-hingga-mei-2026-apindo-beberkan-tekanan-di-dunia-usaha",
+  "tags": [
+   "PHK",
+   "Ketenagakerjaan",
+   "Apindo"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Sebanyak 126 ribu pekerja tercatat terkena pemutusan hubungan kerja hingga Mei 2026. Apindo memaparkan sejumlah tekanan yang dihadapi dunia usaha di balik angka tersebut.",
+   "Tekanan yang disebut mencakup melemahnya permintaan, kenaikan biaya produksi, serta persaingan dengan produk impor yang menggerus pangsa pasar industri dalam negeri.",
+   "Sektor padat karya seperti tekstil dan alas kaki umumnya paling terdampak, karena margin usahanya tipis dan sensitif terhadap perubahan biaya tenaga kerja maupun bahan baku."
+  ],
+  "fotoAdegan": "Former factory workers carry cardboard boxes of belongings out through a factory's main gate.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/19/68030896f2366-ilustrasi-phk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrul",
+  "isoDate": "2026-07-29",
+  "takeaway": "Sebanyak 126 ribu pekerja tercatat kena pemutusan hubungan kerja sampai Mei 2026, menurut Apindo dipicu oleh melemahnya permintaan, naiknya biaya produksi, dan tekanan produk impor terhadap pasar dalam negeri. Sektor padat karya seperti tekstil dan alas kaki paling terdampak karena margin usahanya tipis dan sensitif terhadap perubahan biaya tenaga kerja maupun bahan baku. Berita ini belum menyebut apakah angka tersebut naik atau turun dibanding periode sebelumnya, sehingga arah tren PHK ke depan belum bisa dipastikan. Data PHK pada bulan-bulan setelah Mei, serta ada tidaknya kebijakan pembatasan produk impor di sektor ini, akan menentukan apakah tekanan tersebut mereda atau berlanjut."
+ },
+ {
+  "slug": "menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara",
+  "category": "Moneter",
+  "title": "Menkeu Perjelas Posisi Danantara di [KSSK]: Tanpa Hak Suara",
+  "deck": "Menkeu menegaskan Danantara hadir dalam rapat KSSK tanpa hak suara dalam pengambilan keputusan.",
+  "image": "assets/img/menkeu-perjelas-posisi-danantara-di-kssk-tanpa-hak-suara.jpg",
+  "date": "29 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456426-purbaya-tegaskan-batas-dan-peran-danantara-di-kssk-sebut-tak-punya-hak-suara-dalam-keputusan",
+  "tags": [
+   "Danantara",
+   "KSSK",
+   "Stabilitas Keuangan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Menteri Keuangan Purbaya menegaskan batas peran Danantara dalam Komite Stabilitas Sistem Keuangan. Lembaga tersebut disebut hadir dalam rapat KSSK tanpa memiliki hak suara dalam pengambilan keputusan.",
+   "KSSK merupakan forum koordinasi antara Kementerian Keuangan, Bank Indonesia, OJK, dan LPS untuk menjaga stabilitas sistem keuangan, terutama dalam kondisi krisis.",
+   "Penegasan soal batas kewenangan ini penting untuk menjaga kejelasan tata kelola, mengingat Danantara mengelola aset BUMN dalam jumlah sangat besar."
+  ],
+  "fotoAdegan": "Officials sit around an oval table during a closed-door coordination meeting inside a government building.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a68fd125cb61-menkeu-purbaya-dalam-rapat-berkala-komite-stabilitas-sistem-keuangan-kssk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrum",
+  "isoDate": "2026-07-29",
+  "takeaway": "Menteri Keuangan Purbaya menegaskan Danantara boleh hadir dalam rapat Komite Stabilitas Sistem Keuangan, forum krisis yang beranggotakan Kementerian Keuangan, Bank Indonesia, OJK, dan LPS, namun tanpa hak suara dalam pengambilan keputusan. Penegasan ini menyasar kejelasan batas kewenangan lembaga yang mengelola aset BUMN dalam jumlah sangat besar itu. Arahnya menunjukkan keputusan soal krisis keuangan tetap dijaga berada di tangan otoritas moneter dan fiskal tradisional, bukan pengelola aset seperti Danantara. Aturan tertulis atau payung hukum resmi yang mencantumkan status Danantara di KSSK akan memastikan apakah batas ini bersifat tetap."
+ },
+ {
+  "slug": "rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi",
+  "category": "Moneter",
+  "title": "Rupiah Anjlok, Pasar Cermati [The Fed] dan Transisi BI",
+  "deck": "Nilai tukar rupiah tertekan seiring kehati-hatian pasar menanti kebijakan bank sentral AS.",
+  "image": "assets/img/rupiah-anjlok-pasar-cermati-the-fed-dan-transisi-bi.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456418-rupiah-anjlok-ke-rp18083-per-dolar-as-pasar-cermati-kebijakan-the-fed-dan-transisi-bi",
+  "tags": [
+   "Rupiah",
+   "The Fed",
+   "Kurs"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Nilai tukar rupiah anjlok ke Rp18.083 per dolar AS. Pelaku pasar mencermati dua faktor sekaligus: arah kebijakan bank sentral Amerika Serikat dan transisi kepemimpinan di Bank Indonesia.",
+   "Kebijakan suku bunga The Fed berpengaruh besar pada arus modal ke negara berkembang. Ketika suku bunga AS bertahan tinggi, dana investor cenderung kembali ke aset dolar.",
+   "Bagi Indonesia, pelemahan kurs menambah tekanan pada biaya impor sekaligus mempersempit ruang bagi bank sentral untuk menurunkan suku bunga acuan."
+  ],
+  "fotoAdegan": "A money changer sorts coins into small dishes behind a glass partition at an exchange counter.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7dmfs",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Rupiah melemah ke Rp18.083 per dolar Amerika Serikat, dipicu kombinasi kehati-hatian pasar menjelang keputusan suku bunga bank sentral Amerika Serikat dan proses pergantian pucuk pimpinan Bank Indonesia. Pelemahan ini menambah beban biaya bagi importir sekaligus mempersempit ruang Bank Indonesia untuk menurunkan suku bunga acuan. Ada dua kemungkinan arah, rupiah bisa terus tertekan jika suku bunga Amerika Serikat bertahan tinggi dan transisi BI menambah ketidakpastian, atau tekanan mereda jika kedua faktor itu menemukan kejelasan. Hasil rapat bank sentral Amerika Serikat dan kepastian nama pemimpin baru BI akan jadi penentu ke arah mana rupiah bergerak selanjutnya."
+ },
+ {
+  "slug": "ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu",
+  "category": "Pasar Modal",
+  "title": "IHSG Ditutup Anjlok ke [6.130], Investor Pilih Menunggu",
+  "deck": "Indeks harga saham gabungan tertekan seiring sikap wait and see investor menjelang rapat The Fed.",
+  "image": "assets/img/ihsg-ditutup-anjlok-ke-6130-investor-pilih-menunggu.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456417-ihsg-ditutup-anjlok-ke-6130-investor-wait-and-see-menanti-hasil-rapat-the-fed",
+  "tags": [
+   "IHSG",
+   "Pasar Modal",
+   "The Fed"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Indeks Harga Saham Gabungan ditutup anjlok ke level 6.130. Investor memilih sikap menunggu menjelang hasil rapat bank sentral Amerika Serikat.",
+   "Pola wait and see menjelang keputusan suku bunga global merupakan hal lazim, karena hasil rapat berpengaruh pada arah arus modal asing ke pasar saham negara berkembang.",
+   "Volume transaksi yang menipis pada periode seperti ini membuat pergerakan indeks lebih rentan terhadap aksi jual dalam jumlah besar."
+  ],
+  "fotoAdegan": "Brokers lean over their desks discussing trades quietly inside a stock brokerage trading room.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7e85a",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Indeks Harga Saham Gabungan ditutup turun ke level 6.130 karena investor memilih menahan diri menjelang hasil rapat bank sentral Amerika Serikat yang menentukan arah suku bunga. Sikap menahan diri ini membuat volume transaksi menipis, sehingga pergerakan indeks jadi lebih gampang terguncang oleh aksi jual dalam jumlah besar. Indeks berpeluang membaik jika keputusan bank sentral Amerika Serikat dianggap ramah bagi arus modal ke negara berkembang, atau tertekan lebih lanjut jika sebaliknya. Hasil rapat tersebut dalam waktu dekat akan menjawab ke arah mana IHSG bergerak."
+ },
+ {
+  "slug": "kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun",
+  "category": "BUMN",
+  "title": "Kinerja BUMN Mulai Terangkat, BKI Catat Pendapatan [Rp1,5 Triliun]",
+  "deck": "Penguatan ekosistem BUMN di bawah Danantara mulai tercermin pada capaian kinerja anak usaha.",
+  "image": "assets/img/kinerja-bumn-mulai-terangkat-bki-catat-pendapatan-rp15-triliun.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456415-penguatan-danantara-mulai-tercermin-di-kinerja-bumn-bki-catat-pendapatan-rp15-triliun",
+  "tags": [
+   "BUMN",
+   "Danantara",
+   "BKI"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Penguatan ekosistem BUMN di bawah Danantara disebut mulai tercermin pada kinerja perusahaan. Biro Klasifikasi Indonesia mencatat pendapatan Rp1,5 triliun.",
+   "BKI bergerak di bidang klasifikasi dan sertifikasi kapal, sektor yang permintaannya mengikuti aktivitas pelayaran dan perdagangan maritim nasional.",
+   "Konsolidasi BUMN di bawah satu pengelola aset diharapkan menghasilkan efisiensi dan sinergi antar perusahaan yang sebelumnya berjalan sendiri-sendiri."
+  ],
+  "fotoAdegan": "An inspector climbs a ladder to examine the hull plating of a ship in a shipyard dry dock.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68d75bc948b-pt-biro-klasifikasi-indonesia-persero_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrun",
+  "isoDate": "2026-07-28",
+  "takeaway": "Biro Klasifikasi Indonesia, perusahaan yang mengurus klasifikasi dan sertifikasi kapal, mencatat pendapatan Rp1,5 triliun, angka yang disebut sebagai tanda penguatan ekosistem BUMN di bawah pengelolaan Danantara. Kinerja ini terkait langsung dengan aktivitas pelayaran dan perdagangan maritim nasional yang menjadi basis bisnis BKI. Berita belum menyertakan pendapatan BKI pada periode sebelumnya maupun kinerja BUMN lain dalam ekosistem yang sama, sehingga belum jelas apakah capaian ini mencerminkan tren menyeluruh atau baru satu contoh. Data pembanding tahun lalu dan laporan kinerja anak usaha BUMN lain di bawah Danantara akan menentukan apakah efisiensi dan sinergi yang disebut benar-benar terjadi secara luas."
+ },
+ {
+  "slug": "nama-menkeu-masuk-bursa-calon-gubernur-bi",
+  "category": "Moneter",
+  "title": "Nama Menkeu Masuk Bursa Calon [Gubernur BI]",
+  "deck": "Menkeu menegaskan akan mengikuti arahan Presiden terkait spekulasi pencalonannya sebagai Gubernur Bank Indonesia.",
+  "image": "assets/img/nama-menkeu-masuk-bursa-calon-gubernur-bi.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456413-nama-purbaya-masuk-kandidat-gubernur-bi-menkeu-tegaskan-ikut-perintah-presiden",
+  "tags": [
+   "Bank Indonesia",
+   "Moneter",
+   "Purbaya"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Nama Menteri Keuangan Purbaya masuk dalam daftar kandidat Gubernur Bank Indonesia. Menanggapi spekulasi tersebut, ia menegaskan akan mengikuti perintah Presiden.",
+   "Pemilihan Gubernur BI melibatkan usulan Presiden dan uji kelayakan di DPR, dengan pertimbangan menyangkut kredibilitas kebijakan moneter di mata pasar.",
+   "Isu independensi bank sentral kerap mengemuka ketika kandidat berasal dari lingkungan pemerintah, karena pasar menilai penting adanya jarak antara kebijakan fiskal dan moneter."
+  ],
+  "fotoAdegan": "A minister walks toward a waiting car outside the entrance of a finance ministry building.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a67ede934fa7-ilustrasi-layar-memampilkan-logo-bank-indonesia-bi-di-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "mssbtoph",
+  "isoDate": "2026-07-28",
+  "takeaway": "Purbaya, yang saat ini menjabat Menteri Keuangan, masuk daftar calon Gubernur Bank Indonesia, dan ia memilih menyerahkan keputusan sepenuhnya kepada Presiden alih-alih menyatakan minat sendiri. Pelaku pasar biasanya mencermati kandidat yang berasal dari pos fiskal, karena bank sentral idealnya berjarak dari kebijakan anggaran pemerintah agar keputusan suku bunga tidak dibaca sebagai perpanjangan tangan Kementerian Keuangan. Arah pencalonan ini masih bergantung pada nama resmi yang diajukan Presiden ke DPR dan hasil uji kelayakan di sana. Yang perlu ditunggu adalah kapan surat pencalonan resmi masuk ke DPR dan siapa saja yang akhirnya diuji."
+ },
+ {
+  "slug": "koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi",
+  "category": "Makroekonomi",
+  "title": "Koperasi Didorong Jadi Pintu Masuk [Kedaulatan Ekonomi]",
+  "deck": "Kemenkop dan Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945.",
+  "image": "assets/img/koperasi-didorong-jadi-pintu-masuk-kedaulatan-ekonomi.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456398-kemenkop-dan-great-institute-dorong-reaktualisasi-pasal-33-uud-1945-koperasi-jadi-pintu-kedaulatan-ekonomi",
+  "tags": [
+   "Koperasi",
+   "Kebijakan",
+   "Ekonomi Kerakyatan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Kementerian Koperasi bersama Great Institute mendorong reaktualisasi Pasal 33 UUD 1945, dengan koperasi diposisikan sebagai pintu masuk penguatan kedaulatan ekonomi nasional.",
+   "Gagasan ini menempatkan koperasi bukan sekadar sebagai bentuk badan usaha alternatif, melainkan sebagai instrumen pemerataan kepemilikan aset produktif di masyarakat.",
+   "Implementasinya menuntut pembenahan menyeluruh, mulai dari regulasi, pengawasan, hingga peningkatan kapasitas manajerial pengurus koperasi di lapangan."
+  ],
+  "fotoAdegan": "Villagers line up to deposit savings at a small wooden cooperative counter in a rural community.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68b1ff27976-menkop-ferry-juliantono-dan-ketua-dewan-direktur-great-institute-syahganda-nainggolan-dalam-reaktualisasi-pasal-33-uud-1945_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrup",
+  "isoDate": "2026-07-28",
+  "takeaway": "Kementerian Koperasi bersama Great Institute mendorong penguatan peran koperasi lewat reaktualisasi Pasal 33 UUD 1945, dengan koperasi diposisikan sebagai alat pemerataan kepemilikan aset produktif, bukan sekadar bentuk badan usaha alternatif. Yang terdampak langsung adalah pengurus dan anggota koperasi di lapangan, karena gagasan ini menuntut pembenahan regulasi, pengawasan, hingga kapasitas manajerial mereka. Sejauh ini baru berupa dorongan gagasan, belum ada aturan turunan atau target waktu yang disebutkan dalam berita ini. Arah kebijakan ini baru bisa dibaca setelah ada rancangan regulasi konkret atau peta jalan implementasi dari Kementerian Koperasi."
+ },
+ {
+  "slug": "telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan",
+  "category": "BUMN",
+  "title": "Telkom Raih Penghargaan Berkat Program [Talenta] Berkelanjutan",
+  "deck": "Telkom mendapat pengakuan atas komitmennya membangun talenta secara berkelanjutan.",
+  "image": "assets/img/telkom-raih-penghargaan-berkat-program-talenta-berkelanjutan.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456364-telkom-raih-lestari-award-2026-berkat-komitmen-membangun-talenta-berkelanjutan",
+  "tags": [
+   "Telkom",
+   "SDM",
+   "Keberlanjutan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Telkom meraih Lestari Award 2026 berkat komitmennya membangun talenta secara berkelanjutan, salah satu dimensi dalam penilaian keberlanjutan perusahaan.",
+   "Pengembangan talenta menjadi isu strategis di sektor telekomunikasi dan digital, mengingat cepatnya perubahan teknologi menuntut peningkatan keterampilan yang terus-menerus.",
+   "Kelangkaan talenta digital di Indonesia kerap disebut sebagai salah satu hambatan pertumbuhan ekonomi digital, sehingga investasi perusahaan di bidang ini berdampak lintas sektor."
+  ],
+  "fotoAdegan": "Young employees collaborate around a laptop during a team workshop inside a corporate innovation lab.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a689678dde55-telkom-raih-lestari-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruq",
+  "isoDate": "2026-07-28",
+  "takeaway": "Telkom meraih Lestari Award 2026 atas program pengembangan talenta berkelanjutan, salah satu indikator dalam penilaian keberlanjutan perusahaan. Yang terdampak adalah karyawan dan calon talenta digital Telkom, di tengah kelangkaan talenta digital yang kerap disebut sebagai salah satu penghambat pertumbuhan ekonomi digital Indonesia. Berita ini berupa pengakuan atas program yang sudah berjalan, bukan pengumuman kebijakan atau target baru, sehingga belum menunjukkan skala dampaknya terhadap sektor secara luas. Untuk membaca arahnya, dibutuhkan data konkret seperti jumlah talenta yang terserap atau target pengembangan SDM digital yang belum disebutkan dalam berita ini."
+ },
+ {
+  "slug": "timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman",
+  "category": "Energi",
+  "title": "Timur Tengah Memanas, Pasokan Energi Nasional Dipastikan [Aman]",
+  "deck": "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga di tengah eskalasi konflik global.",
+  "image": "assets/img/timur-tengah-memanas-pasokan-energi-nasional-dipastikan-aman.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456339-konflik-timur-tengah-balik-panas-bahlil-pastikan-pasokan-energi-indonesia-tetap-terjaga",
+  "tags": [
+   "Energi",
+   "Geopolitik",
+   "ESDM"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Menteri ESDM memastikan pasokan energi Indonesia tetap terjaga meski konflik di kawasan Timur Tengah kembali memanas.",
+   "Ketegangan di kawasan tersebut berdampak pada harga minyak dunia sekaligus menimbulkan risiko gangguan pada jalur pelayaran pengangkut energi.",
+   "Indonesia masih mengimpor sebagian kebutuhan minyak mentah dan produk BBM, sehingga gejolak harga global berdampak langsung pada beban subsidi energi dalam negeri."
+  ],
+  "fotoAdegan": "Workers monitor pipeline valves inside the control room of a fuel storage depot at night.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a688386ccb3d-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrur",
+  "isoDate": "2026-07-28",
+  "takeaway": "Menteri ESDM memastikan pasokan energi nasional tetap terjaga meski konflik di Timur Tengah kembali memanas dan berpotensi mengganggu jalur pelayaran pengangkut minyak dunia. Dampaknya langsung terasa pada APBN, karena Indonesia masih mengimpor sebagian kebutuhan minyak mentah dan BBM, sehingga gejolak harga global membebani anggaran subsidi energi. Pernyataan aman ini bersifat jaminan jangka pendek, sementara arah sebenarnya bergantung pada apakah konflik meluas hingga benar-benar mengganggu jalur pelayaran. Yang perlu dipantau adalah perkembangan eskalasi di kawasan tersebut serta pergerakan harga minyak dunia dalam beberapa pekan ke depan."
+ },
+ {
+  "slug": "bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi",
+  "category": "Pasar Modal",
+  "title": "BEI Pastikan [Stabilitas] Pasar Saham di Tengah Transisi BI",
+  "deck": "Bursa Efek Indonesia menegaskan stabilitas pasar saham domestik terjaga selama masa transisi pimpinan bank sentral.",
+  "image": "assets/img/bei-pastikan-stabilitas-pasar-saham-di-tengah-transisi-bi.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456307-di-tengah-proses-transisi-kepemimpinan-di-bank-indonesia-bei-pastikan-stabilitas-pasar-saham-domestik",
+  "tags": [
+   "BEI",
+   "IHSG",
+   "Pasar Modal"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Bursa Efek Indonesia memastikan stabilitas pasar saham domestik tetap terjaga di tengah proses transisi kepemimpinan di Bank Indonesia.",
+   "Pernyataan otoritas bursa pada momen ketidakpastian bertujuan meredam kepanikan, terutama di kalangan investor ritel yang porsinya terus membesar di pasar modal Indonesia.",
+   "Mekanisme pengendalian seperti auto rejection dan trading halt tersedia sebagai pengaman jika terjadi penurunan indeks yang terlalu tajam dalam waktu singkat."
+  ],
+  "fotoAdegan": "Employees walk through the glass atrium lobby of a stock exchange building in the financial district.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrus",
+  "isoDate": "2026-07-28",
+  "takeaway": "BEI menyatakan stabilitas pasar saham terjaga di tengah proses pergantian pucuk pimpinan Bank Indonesia, dengan mekanisme auto rejection dan trading halt disiapkan sebagai pengaman jika indeks anjlok tajam dalam waktu singkat. Pernyataan ini terutama menyasar investor ritel, yang porsinya di pasar modal terus membesar dan rentan panik saat ada ketidakpastian di level kebijakan moneter. Berita belum menyebut siapa kandidat pengganti Gubernur BI atau kapan proses transisi itu rampung, sehingga belum bisa dibaca apakah pernyataan ini bersifat pencegahan rutin atau respons atas gejolak yang sudah mulai terasa. Yang perlu dipantau adalah tanggal penetapan pimpinan baru BI dan pergerakan indeks harian di sekitar tanggal tersebut."
+ },
+ {
+  "slug": "pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi",
+  "category": "Ketenagakerjaan",
+  "title": "Pendaftar Program Magang Tembus [300 Ribu] untuk 50 Ribu Posisi",
+  "deck": "Antusiasme program magang nasional melonjak dengan rasio pendaftar enam kali lipat dari kuota.",
+  "image": "assets/img/pendaftar-program-magang-tembus-300-ribu-untuk-50-ribu-posisi.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456304-membludak-pendaftar-maganghub-2026-capai-300-ribu-untuk-50-ribu-posisi",
+  "tags": [
+   "Magang",
+   "Ketenagakerjaan",
+   "Tenaga Kerja Muda"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Pendaftar program MagangHub 2026 membludak hingga mencapai 300 ribu orang untuk 50 ribu posisi yang tersedia, atau rasio enam pelamar untuk setiap satu kursi.",
+   "Tingginya animo mencerminkan besarnya kebutuhan angkatan kerja muda akan pengalaman kerja formal, yang kerap menjadi syarat rekrutmen namun sulit diperoleh pertama kali.",
+   "Program magang berskala nasional diharapkan mempersempit jarak antara keterampilan lulusan pendidikan dan kebutuhan nyata dunia industri."
+  ],
+  "fotoAdegan": "Young jobseekers fill out forms at long tables during a crowded internship recruitment fair.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a686a2cc6417-menteri-ketenagakerjaan-yassierli-memberi-keterangan-kepada-awak-media_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrut",
+  "isoDate": "2026-07-28",
+  "takeaway": "Pendaftar program magang nasional MagangHub 2026 mencapai 300 ribu orang untuk 50 ribu posisi yang tersedia, artinya hanya satu dari enam pelamar yang bisa diterima. Angka ini menunjukkan besarnya tekanan pada angkatan kerja muda yang butuh pengalaman kerja formal sebagai syarat masuk dunia kerja, tapi kesempatan itu justru yang paling sulit didapat pertama kali. Arahnya mengarah ke kebutuhan perluasan kuota magang di gelombang berikutnya jika kesenjangan pelamar dan posisi ini terus melebar tiap periode pendaftaran. Penguat atau pematah pembacaan ini adalah apakah pemerintah menambah jumlah posisi pada periode magang selanjutnya, serta data berapa banyak peserta magang gelombang sebelumnya yang berhasil terserap ke pekerjaan formal."
+ },
+ {
+  "slug": "ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga",
+  "category": "Bisnis",
+  "title": "Ketika Jaminan Kesehatan Menahan Beban [Biaya Berobat] Keluarga",
+  "deck": "Cerita peserta JKN yang memanfaatkan program jaminan kesehatan untuk pemulihan penyakit tulang belakang.",
+  "image": "assets/img/ketika-jaminan-kesehatan-menahan-beban-biaya-berobat-keluarga.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456301-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal",
+  "tags": [
+   "JKN",
+   "Kesehatan",
+   "Jaminan Sosial"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Seorang peserta Jaminan Kesehatan Nasional membagikan pengalamannya menjalani pemulihan radikulopati lumbal, gangguan saraf tulang belakang, dengan pembiayaan dari program JKN.",
+   "Dari sisi ekonomi rumah tangga, biaya kesehatan katastropik merupakan salah satu penyebab utama keluarga jatuh miskin, karena nilainya bisa melampaui tabungan bertahun-tahun.",
+   "Program jaminan kesehatan berfungsi sebagai peredam risiko tersebut, meski keberlanjutan pendanaannya terus menjadi bahan diskusi kebijakan."
+  ],
+  "fotoAdegan": "A patient receives physical therapy assistance from a therapist inside a hospital rehabilitation room.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6869cf2461d-cerita-jamih-rasakan-manfaat-jkn-dalam-pemulihan-radikulopati-lumbal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrut",
+  "isoDate": "2026-07-28",
+  "takeaway": "Berita ini menceritakan pengalaman satu peserta JKN yang pemulihan radikulopati lumbal, gangguan saraf di tulang belakang, ditanggung oleh program jaminan kesehatan nasional, tanpa menyebut angka biaya riil yang dikeluarkan. Pihak yang paling terdampak adalah rumah tangga peserta JKN, karena biaya kesehatan katastropik semacam ini biasanya bisa menghabiskan tabungan bertahun-tahun jika ditanggung sendiri. Artikel menyebut keberlanjutan pendanaan JKN masih jadi bahan diskusi kebijakan, tapi tidak merinci kondisi keuangan BPJS Kesehatan saat ini atau rencana perubahan iuran. Yang masih kurang untuk membaca ke mana arah isu pendanaan ini adalah data surplus atau defisit BPJS Kesehatan terbaru dan kapan keputusan kebijakan iuran berikutnya diambil."
+ },
+ {
+  "slug": "kur-perumahan-jadi-motor-program-3-juta-rumah",
+  "category": "Perbankan",
+  "title": "KUR Perumahan Jadi Motor Program [3 Juta Rumah]",
+  "deck": "Pemerintah mengapresiasi kinerja penyaluran kredit usaha rakyat sektor perumahan.",
+  "image": "assets/img/kur-perumahan-jadi-motor-program-3-juta-rumah.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456295-pemerintah-apresiasi-kinerja-bri-salurkan-kur-perumahan-jadi-motor-utama-program-3-juta-rumah",
+  "tags": [
+   "KUR",
+   "BRI",
+   "Perumahan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Pemerintah mengapresiasi kinerja BRI dalam menyalurkan Kredit Usaha Rakyat sektor perumahan, yang disebut menjadi salah satu motor utama program 3 juta rumah.",
+   "Skema KUR perumahan menyasar dua sisi sekaligus: pembiayaan bagi calon pemilik rumah, dan modal kerja bagi pengembang skala kecil yang membangun perumahan sederhana.",
+   "Sektor properti memiliki efek berganda besar terhadap perekonomian, sehingga percepatan penyaluran pembiayaan di sektor ini berdampak pada banyak industri turunan."
+  ],
+  "fotoAdegan": "A construction worker lays bricks for a wall inside a subsidized housing project under a tin roof.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6865d96eaad-direktur-utama-bri-hery-gunardi-dan-menteri-pkp-maruarar-sirait_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruu",
+  "isoDate": "2026-07-28",
+  "takeaway": "Pemerintah mengapresiasi kinerja BRI dalam menyalurkan Kredit Usaha Rakyat untuk sektor perumahan sebagai salah satu motor program 3 juta rumah, tanpa merinci angka nilai penyaluran atau jumlah unit yang sudah terbantu skema ini. Yang terdampak ada di dua sisi, yaitu calon pemilik rumah yang butuh pembiayaan dan pengembang skala kecil yang mengandalkan modal kerja dari KUR untuk membangun perumahan sederhana. Karena sektor properti punya efek berganda ke banyak industri turunan, percepatan penyaluran KUR perumahan berpotensi menjalar ke sektor bahan bangunan dan tenaga kerja konstruksi, tapi besarannya belum terlihat dari berita ini. Yang masih kurang adalah angka realisasi penyaluran KUR perumahan sejauh ini dibandingkan target program 3 juta rumah, serta tenggat waktu pencapaian target tersebut."
+ },
+ {
+  "slug": "menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum",
+  "category": "Teknologi",
+  "title": "Menyiapkan Keamanan Data Menghadapi Era [Komputer Kuantum]",
+  "deck": "Telkom menginisiasi forum kolaborasi nasional untuk kesiapan kriptografi pascakuantum.",
+  "image": "assets/img/menyiapkan-keamanan-data-menghadapi-era-komputer-kuantum.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456286-telkom-inisiasi-forum-kolaborasi-nasional-untuk-perkuat-kesiapan-post-quantum-cryptography",
+  "tags": [
+   "Teknologi",
+   "Keamanan Siber",
+   "Telkom"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Telkom menginisiasi forum kolaborasi nasional untuk memperkuat kesiapan Indonesia menghadapi era kriptografi pascakuantum.",
+   "Perkembangan komputer kuantum berpotensi mematahkan metode enkripsi yang kini melindungi transaksi perbankan, komunikasi, dan data pemerintah.",
+   "Persiapan migrasi sistem enkripsi memerlukan waktu bertahun-tahun, sehingga diskusi kesiapan sejak dini dinilai penting bagi sektor keuangan dan infrastruktur kritis."
+  ],
+  "fotoAdegan": "An IT specialist examines cabling behind a row of server racks inside a secure data facility.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685b413aad4-telkom-mempertemukan-pemerintah-industri-akademisi-dan-lembaga-riset-melalui-workshop-post-quantum-cryptography-pqc-untuk-memperkuat-kesiapan-ekosistem-keamanan-digital-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruu",
+  "isoDate": "2026-07-28",
+  "takeaway": "Telkom menginisiasi forum kolaborasi nasional untuk mempersiapkan Indonesia menghadapi era kriptografi pascakuantum, saat komputer kuantum berpotensi mematahkan metode enkripsi yang selama ini melindungi transaksi perbankan, komunikasi, dan data pemerintah. Pihak yang terdampak adalah sektor keuangan dan infrastruktur kritis yang bergantung pada sistem enkripsi saat ini, mengingat proses migrasi ke sistem baru disebut membutuhkan waktu bertahun-tahun. Langkah ini masih berupa forum diskusi awal, belum ada peta jalan atau target waktu migrasi yang disebutkan dalam berita. Yang masih kurang untuk membaca arah persiapan ini adalah siapa saja lembaga yang terlibat dalam forum tersebut dan kapan peta jalan migrasi kriptografi pascakuantum akan dirilis."
+ },
+ {
+  "slug": "bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin",
+  "category": "Perbankan",
+  "title": "Bunga Simpanan Terlalu Tinggi, Dana Nasabah Berisiko [Tak Dijamin]",
+  "deck": "Sejumlah bank menawarkan bunga simpanan di atas batas penjaminan, membuat dana nasabah berisiko tidak terlindungi.",
+  "image": "assets/img/bunga-simpanan-terlalu-tinggi-dana-nasabah-berisiko-tak-dijamin.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456281-tiga-dari-10-suku-bunga-simpanan-lampaui-batas-penjaminan-dana-nasabah-berisiko-tak-dijamin",
+  "tags": [
+   "LPS",
+   "Perbankan",
+   "Simpanan"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Tiga dari 10 bank tercatat menawarkan suku bunga simpanan yang melampaui batas penjaminan. Akibatnya, dana nasabah pada produk tersebut berisiko tidak dijamin Lembaga Penjamin Simpanan.",
+   "Penjaminan simpanan memiliki dua syarat utama: nilai simpanan dalam batas tertentu, dan tingkat bunga tidak melebihi batas yang ditetapkan LPS.",
+   "Tawaran bunga tinggi kerap menarik nasabah, namun justru bisa menjadi sinyal bahwa bank sedang membutuhkan likuiditas, sekaligus menghilangkan perlindungan penjaminan."
+  ],
+  "fotoAdegan": "A customer signs paperwork at a bank desk while an officer explains deposit terms nearby.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a685696c185c-ketua-lps-anggito-abimanyu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruv",
+  "isoDate": "2026-07-28",
+  "takeaway": "Tiga dari 10 bank yang disurvei menawarkan bunga simpanan melebihi batas penjaminan LPS, yang berarti sebagian dana nasabah di produk itu otomatis kehilangan status dijamin. Yang terdampak adalah nasabah pemegang simpanan di bank-bank tersebut, terutama yang tergiur imbal hasil tinggi tanpa memeriksa batas bunga penjaminan. Bunga di atas batas biasanya menandakan bank sedang mengejar likuiditas, sehingga arah yang perlu diperhatikan adalah kondisi likuiditas bank-bank penawar bunga tinggi itu. Yang masih perlu diperhatikan adalah apakah LPS mengambil langkah lanjutan terhadap bank-bank bersangkutan, atau apakah bank-bank itu menurunkan bunganya ke bawah batas penjaminan."
+ },
+ {
+  "slug": "ihsg-dibuka-menguat-siap-uji-level-resistance",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka Menguat, Siap Uji Level [Resistance]",
+  "deck": "Indeks dibuka positif mengikuti penguatan bursa Asia meski Wall Street bergerak variatif.",
+  "image": "assets/img/ihsg-dibuka-menguat-siap-uji-level-resistance.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456224-ihsg-dibuka-menguat-siap-tes-resistance-bursa-asia-menguat-dan-wall-street-variatif",
+  "tags": [
+   "IHSG",
+   "Pasar Modal",
+   "Bursa Asia"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Indeks Harga Saham Gabungan dibuka menguat dan bersiap menguji level resistance teknikal. Penguatan ini mengikuti tren positif bursa Asia, sementara Wall Street ditutup variatif.",
+   "Level resistance merupakan titik harga tempat tekanan jual biasanya menguat. Penembusan level ini kerap dijadikan sinyal teknikal oleh pelaku pasar.",
+   "Arah indeks domestik pada perdagangan harian umumnya dipengaruhi kombinasi sentimen global, pergerakan nilai tukar, dan aliran dana investor asing."
+  ],
+  "fotoAdegan": "Traders arrive at their desks early inside a brokerage office as the morning session begins.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnruv",
+  "isoDate": "2026-07-28",
+  "takeaway": "IHSG dibuka menguat mengikuti tren positif bursa Asia, sementara Wall Street semalam bergerak variatif, dan indeks kini menguji level resistance teknikal, titik harga tempat tekanan jual biasanya muncul. Yang terdampak adalah investor dan pelaku pasar saham domestik yang mengacu pada sinyal teknikal ini untuk keputusan jual beli. Berita ini baru mencatat kondisi pembukaan pagi, belum menunjukkan apakah penguatan bertahan sampai penutupan atau berbalik begitu resistance tersentuh. Yang masih kurang adalah data penutupan IHSG hari ini serta arah aliran dana asing, dua hal yang biasanya menentukan apakah level resistance itu tertembus atau justru menahan indeks."
+ },
+ {
+  "slug": "emas-antam-turun-rp9000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Emas Antam Turun [Rp9.000] per Gram",
+  "deck": "Harga emas batangan Antam kembali terkoreksi tipis pada perdagangan 28 Juli 2026.",
+  "image": "assets/img/emas-antam-turun-rp9000-per-gram.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456220-harga-emas-antam-hari-ini-28-juli-2026-merosot-rp9000-jadi-rp2613000-per-gram",
+  "tags": [
+   "Emas Antam",
+   "Komoditas",
+   "Investasi"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Harga emas batangan Antam turun Rp9.000 per gram pada perdagangan 28 Juli 2026, menjadi Rp2.613.000 per gram.",
+   "Koreksi tipis semacam ini merupakan bagian dari fluktuasi harian yang lazim di pasar logam mulia, mengikuti pergerakan harga acuan internasional.",
+   "Bagi pembeli emas fisik, biaya cetak dan selisih harga jual-beli umumnya lebih menentukan hasil investasi ketimbang fluktuasi harian."
+  ],
+  "fotoAdegan": "A shop owner arranges small gold bars inside a locked glass cabinet at a gold trading counter.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7f5kk",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Harga emas batangan Antam turun Rp9.000 per gram pada 28 Juli 2026 menjadi Rp2.613.000 per gram, koreksi kecil yang lazim terjadi mengikuti pergerakan harga acuan internasional. Yang terdampak adalah pembeli dan pemegang emas fisik Antam, meski untuk emas fisik biaya cetak dan selisih harga jual-beli biasanya lebih menentukan hasil ketimbang selisih harian sekecil ini. Berita ini hanya mencatat pergerakan satu hari, sehingga belum bisa dibaca apakah ini awal tren turun atau sekadar fluktuasi biasa. Yang masih kurang adalah pergerakan harga emas dalam beberapa hari ke depan, untuk melihat apakah koreksi ini berlanjut atau berbalik."
+ },
+ {
+  "slug": "rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri",
+  "category": "Moneter",
+  "title": "Rupiah Tertekan Usai [Gubernur BI] Mengundurkan Diri",
+  "deck": "Pasar merespons negatif pengunduran diri Gubernur Bank Indonesia, rupiah melemah ke Rp18.063.",
+  "image": "assets/img/rupiah-tertekan-usai-gubernur-bi-mengundurkan-diri.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456219-rupiah-melemah-ke-rp18063-per-dolar-as-pasar-respons-negatif-pengunduran-diri-gubernur-bi-perry-warjiyo",
+  "tags": [
+   "Rupiah",
+   "Bank Indonesia",
+   "Kurs"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Nilai tukar rupiah melemah ke Rp18.063 per dolar AS setelah pasar merespons negatif pengunduran diri Gubernur Bank Indonesia Perry Warjiyo.",
+   "Perubahan mendadak di pucuk pimpinan bank sentral berpotensi memicu ketidakpastian, karena pasar perlu waktu menilai apakah arah kebijakan moneter akan berubah.",
+   "Kredibilitas dan prediktabilitas kebijakan bank sentral merupakan salah satu faktor yang diperhitungkan investor asing sebelum menempatkan dana di aset dalam negeri."
+  ],
+  "fotoAdegan": "A money changer counts coins by hand at a small currency exchange kiosk in a shopping mall.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msr7fkb5",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Rupiah melemah ke Rp18.063 per dolar AS setelah Gubernur Bank Indonesia Perry Warjiyo mengumumkan pengunduran diri, tanda pasar membaca pergantian pimpinan bank sentral sebagai sumber ketidakpastian baru. Yang terdampak langsung adalah nilai tukar rupiah dan siapa pun yang bertransaksi dalam dolar, dari importir sampai investor yang memegang aset domestik. Arah pelemahan ini bergantung pada seberapa cepat kejelasan datang, karena pasar biasanya menahan penilaian sampai tahu apakah arah kebijakan bank sentral berubah atau tidak. Yang akan menentukan apakah tekanan ini berlanjut atau mereda adalah siapa pengganti definitif Gubernur BI dan pergerakan rupiah pada hari-hari perdagangan berikutnya."
+ },
+ {
+  "slug": "bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap",
+  "category": "Moneter",
+  "title": "BI Minta Pasar [Tak Panik], Arah Kebijakan Dipastikan Tetap",
+  "deck": "Bank Indonesia menegaskan arah kebijakan moneter tidak bergeser meski terjadi pergantian pimpinan.",
+  "image": "assets/img/bi-minta-pasar-tak-panik-arah-kebijakan-dipastikan-tetap.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456213-bi-minta-pasar-tak-panik-destry-pastikan-kebijakan-tak-bergeser-meski-perry-warjiyo-mundur",
+  "tags": [
+   "Bank Indonesia",
+   "Moneter",
+   "Kurs"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Bank Indonesia meminta pelaku pasar tidak panik menyusul pengunduran diri Gubernur Perry Warjiyo. Destry Damayanti memastikan arah kebijakan moneter tidak akan bergeser.",
+   "Komunikasi bank sentral pada momen transisi berperan penting meredam volatilitas, karena ekspektasi pelaku pasar sering kali bergerak lebih cepat daripada kebijakan itu sendiri.",
+   "Konsistensi kebijakan menjadi kunci menjaga kepercayaan investor, terutama menyangkut komitmen pengendalian inflasi dan stabilitas nilai tukar."
+  ],
+  "fotoAdegan": "Employees walk briskly across the plaza in front of a central bank headquarters building during morning rush.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msre4qf1",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Bank Indonesia lewat Destry Damayanti menegaskan arah kebijakan moneter tidak berubah meski Gubernur Perry Warjiyo baru saja mengundurkan diri, pernyataan yang ditujukan untuk meredam kepanikan pasar. Yang terdampak adalah pelaku pasar dan investor yang tengah menimbang risiko rupiah maupun aset domestik lain di tengah kekosongan posisi Gubernur BI. Ada dua kemungkinan arah dari sini, pasar percaya pernyataan ini dan tekanan pada rupiah mereda, atau ketidakpastian tetap berlanjut karena pernyataan lisan belum tentu menjawab siapa pengganti definitif dan bagaimana proses transisi berjalan. Pergerakan rupiah pada hari-hari perdagangan berikutnya, serta kepastian proses pengangkatan Gubernur BI baru, akan menunjukkan skenario mana yang terjadi."
+ },
+ {
+  "slug": "uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan",
+  "category": "Moneter",
+  "title": "Uji Kelayakan Calon Gubernur BI Belum [Dijadwalkan]",
+  "deck": "Komisi XI DPR belum menjadwalkan uji kelayakan karena Presiden belum mengajukan nama calon.",
+  "image": "assets/img/uji-kelayakan-calon-gubernur-bi-belum-dijadwalkan.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456197-presiden-belum-ajukan-nama-komisi-xi-belum-agendakan-uji-kelayakan-calon-gubernur-bi",
+  "tags": [
+   "Bank Indonesia",
+   "DPR",
+   "Moneter"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Komisi XI DPR belum menjadwalkan uji kelayakan dan kepatutan calon Gubernur Bank Indonesia. Presiden disebut belum mengajukan nama kandidat ke DPR.",
+   "Proses pemilihan Gubernur BI melibatkan dua tahap: pengajuan nama oleh Presiden, lalu uji kelayakan oleh DPR sebelum penetapan.",
+   "Semakin lama kekosongan posisi definitif berlangsung, semakin besar potensi ketidakpastian di pasar keuangan yang menanti kejelasan arah kebijakan."
+  ],
+  "fotoAdegan": "An empty hearing room with rows of chairs sits ready inside a parliamentary building in Jakarta.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "imageV": "msre5efa",
+  "isoDate": "2026-07-28",
+  "fotoDitolak": true,
+  "takeaway": "Uji kelayakan calon Gubernur Bank Indonesia belum bisa dijadwalkan Komisi XI DPR karena Presiden belum mengirimkan nama calon, padahal prosesnya mesti melalui dua tahap, pengajuan nama oleh Presiden lalu uji kelayakan oleh DPR, sebelum pejabat baru bisa dilantik. Kekosongan ini membuat pelaku pasar keuangan menunggu tanpa kepastian arah kepemimpinan bank sentral ke depan. Berita ini belum menyebutkan kapan masa jabatan Gubernur BI saat ini berakhir atau target waktu pengajuan nama oleh Presiden, sehingga belum bisa dipastikan apakah kekosongan ini akan singkat atau berlarut. Yang perlu ditunggu adalah tanggal resmi pengajuan nama calon oleh Presiden ke DPR, karena itu yang menentukan kapan uji kelayakan bisa mulai berjalan."
+ },
+ {
+  "slug": "ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan",
+  "category": "Industri",
+  "title": "Ekspor [Mineral Kritis] Terhambat, Kantor Staf Presiden Turun Tangan",
+  "deck": "Pengusaha melaporkan hambatan ekspor mineral kritis, direspons langsung oleh Kantor Staf Presiden.",
+  "image": "assets/img/ekspor-mineral-kritis-terhambat-kantor-staf-presiden-turun-tangan.jpg",
+  "date": "28 Juli 2026",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/456176-pengusaha-lapor-ekspor-mineral-kritis-terhambat-ksp-dudung-turun-tangan-aparat-tidak-boleh-mengada-ada",
+  "tags": [
+   "Mineral Kritis",
+   "Ekspor",
+   "Industri"
+  ],
+  "video": null,
+  "videoCaption": null,
+  "body": [
+   "Kalangan pengusaha melaporkan hambatan dalam kegiatan ekspor mineral kritis. Laporan tersebut direspons Kantor Staf Presiden yang menegaskan aparat tidak boleh mempersulit proses yang sudah sesuai aturan.",
+   "Mineral kritis merupakan bahan baku penting bagi industri baterai, elektronik, dan energi terbarukan, sehingga permintaannya meningkat tajam secara global.",
+   "Hambatan administratif di jalur ekspor berdampak langsung pada arus devisa sekaligus mengurangi daya tarik Indonesia sebagai mitra pasokan yang andal."
+  ],
+  "fotoAdegan": "Workers load bags of processed mineral ore onto a cargo truck at a mining export depot.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/27/6a6789a5bf980-ksp-dudung-abdurachman-menggelar-rakor-lintas-kementerian-dan-lembaga-untuk-membahas-hambatan-ekspor-mineral-kritis_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "imageV": "tjnrux",
+  "isoDate": "2026-07-28",
+  "takeaway": "Kantor Staf Presiden turun tangan setelah pengusaha melaporkan hambatan dalam ekspor mineral kritis, bahan baku utama industri baterai, elektronik, dan energi terbarukan yang permintaannya terus naik secara global. KSP menegaskan aparat tidak boleh mempersulit proses ekspor yang sudah memenuhi aturan, sinyal yang menyasar langsung eksportir mineral kritis dan berpotensi memengaruhi penerimaan devisa negara. Arahnya tampak menuju pelonggaran hambatan administratif di lapangan, tapi berita ini belum merinci instansi mana yang dianggap mempersulit atau aturan spesifik apa yang bermasalah. Yang akan menentukan apakah pernyataan ini berujung perubahan nyata adalah ada tidaknya revisi aturan turunan atau data realisasi ekspor mineral kritis pada periode berikutnya."
  }
 ];

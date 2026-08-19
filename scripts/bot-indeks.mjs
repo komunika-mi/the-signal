@@ -31,6 +31,12 @@ function bacaObjek(nama, buka, tutup) {
 }
 
 export function tulisBotIndeks(ARTICLES) {
+  // Indeks bot ditarik lewat HTTP tiap kali bot menjawab, jadi ia dibatasi
+  // meski arsipnya sendiri tidak. 400 artikel sekitar 154 KB terkompresi.
+  // Pertanyaan tentang artikel yang lebih lama lebih baik dijawab "tidak ada
+  // di indeks" daripada dijawab keliru.
+  const MAKS_BOT = Number(process.env.SIGNAL_INDEKS_BOT || 400);
+  ARTICLES = ARTICLES.slice(0, MAKS_BOT);
   const BPS = bacaObjek('bps.js', '{', '}');
   const HARIAN = bacaObjek('harian.js', '{', '}');
   const ARSIP = bacaObjek('harian-arsip.js', '[', ']') || [];

@@ -10,7 +10,8 @@ var ARTICLES = [
   "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
   "deck": "RANS mengundang pemegang saham ke RUPSLB 10 September 2026 untuk menyetujui perubahan susunan Direksi, dengan rapat hybrid dan kehadiran fisik dibatasi 10 orang.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rans-panggil-rupslb-bahas-perubahan-susunan-direksi.jpg",
+  "imageV": "mszy2k1z",
   "tags": [
    "RANS",
    "RUPSLB",
@@ -916,6 +917,22 @@ var ARTICLES = [
    "Bank Indonesia"
   ],
   "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
+ },
+ {
+  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "imageV": "msy84r2b",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
  },
  {
@@ -6733,21 +6750,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/456527-kebut-proyek-15-bendungan-baru-pemerintah-kucurkan-rp328-triliun-untuk-irigasi-200-ribu-hektare-lahan"
- },
- {
-  "slug": "pembiayaan-ultra-mikro-diperkuat-untuk-keluarga-prasejahtera",
-  "category": "UMKM",
-  "title": "Pembiayaan [Ultra Mikro] Diperkuat untuk Keluarga Prasejahtera",
-  "deck": "PNM bersama Danantara memperkuat pembiayaan ultra mikro dan dampaknya bagi ketahanan keuangan keluarga.",
-  "date": "29 Juli 2026",
-  "image": "assets/img/pembiayaan-ultra-mikro-diperkuat-untuk-keluarga-prasejahtera.jpg",
-  "imageV": "tjnruj",
-  "tags": [
-   "PNM",
-   "Ultra Mikro",
-   "Pemberdayaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456526-pnm-perkuat-pembiayaan-ultra-mikro-bersama-danantara-ini-hasilnya-terhadap-ketahanan-keuangan-keluarga-prasejahtera"
  }
 ];

@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
 import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi } from './identitas.mjs';
+import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 
 function muat(file) {
   const src = fs.readFileSync(path.join(ROOT, 'assets/js', file), 'utf8');
@@ -120,6 +121,18 @@ const NAMA_EMITEN = (() => {
     .filter(([, v]) => v.length > 2));
 })();
 const namaEmiten = (kode) => NAMA_EMITEN.get(kode) || '';
+
+const { labelArtikel, per: ARTIKEL_PER_LABEL } = kanonisasi(ARTICLES);
+
+// Slug yang sudah dipegang rubrik dan tema. Halaman topik dengan slug yang
+// sama akan berisi kumpulan artikel yang nyaris identik untuk kata kunci yang
+// sama, dan dua halaman begitu saling memakan peringkat.
+const SLUG_TERPAKAI = new Set([
+  ...ARTICLES.map(a => catSlug(a.category || '')),
+  ...KELOMPOK_TEMA.map(t => t.slug),
+].filter(Boolean));
+const DAFTAR_TOPIK = daftarTopik(ARTIKEL_PER_LABEL, SLUG_TERPAKAI);
+const TOPIK_TAYANG = new Set(DAFTAR_TOPIK.map(([n]) => slugTopik(n)));
 
 const EMITEN = (() => {
   const m = new Map();
@@ -711,6 +724,14 @@ ARTICLES.forEach(function (a) {
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
+      // keywords memakai label yang SUDAH disatukan, jadi "BEI" dan "Bursa
+      // Efek Indonesia" tidak lagi terbaca sebagai dua hal. about hanya diisi
+      // label yang punya halaman topik, supaya url-nya benar-benar ada.
+      keywords: labelArtikel(a).join(', '),
+      ...(labelArtikel(a).filter(t => TOPIK_TAYANG.has(slugTopik(t))).length ? {
+        about: labelArtikel(a).filter(t => TOPIK_TAYANG.has(slugTopik(t)))
+          .map(t => ({ '@type': 'Thing', name: t, url: BASE + '/topik/' + slugTopik(t) + '.html' })),
+      } : {}),
       // Rujukan, bukan salinan. Node NewsMediaOrganization lengkapnya kini
       // ikut tercetak di tiap halaman lewat head(), berikut logo 512 piksel
       // dan keempat kebijakan redaksi, jadi menyalinnya lagi di sini cuma
@@ -795,7 +816,9 @@ ARTICLES.forEach(function (a) {
           const t = KELOMPOK_TEMA.find(k => k.slug === s);
           return '<a class="article-tag article-tag-tema" href="/tema/' + s + '.html">Tema: ' + esc(t.nama) + '</a>';
         }).join('')
-    }${a.tags.map(t => '<span class="article-tag">' + esc(t) + '</span>').join('')}</div>` +
+    }${labelArtikel(a).map(t => (TOPIK_TAYANG.has(slugTopik(t))
+      ? '<a class="article-tag" href="/topik/' + slugTopik(t) + '.html">' + esc(t) + '</a>'
+      : '<span class="article-tag">' + esc(t) + '</span>')).join('')}</div>` +
     `<p class="foto-kredit">${a.kreditFoto
       ? 'Foto dari ' + esc(a.kreditFoto) + ', dipakai sebagai dokumentasi peristiwa yang diberitakan.'
       : 'Foto ilustrasi dibuat dengan AI. Bukan dokumentasi peristiwa yang diberitakan.'}</p>` +
@@ -1758,6 +1781,42 @@ for (const [nama, arts] of DAFTAR_RUBRIK) {
 console.log('halaman rubrik:', DAFTAR_RUBRIK.length, 'rubrik,',
   DAFTAR_RUBRIK.reduce((n, r) => n + r[1].length, 0), 'artikel tertaut');
 
+// ---------- halaman topik ----------
+//
+// Tag sebelumnya <span> mati: label yang muncul di dua puluh artikel pun tidak
+// mengantar ke mana-mana. Sekarang label yang cukup sering dipakai punya
+// halamannya sendiri, dan tag di artikel jadi tautan ke sana.
+fs.mkdirSync(ROOT + '/topik', { recursive: true });
+for (const [nama, arts] of DAFTAR_TOPIK) {
+  const slug = slugTopik(nama);
+  const isi =
+    '<section class="rail" style="padding-top:2.2rem;">' +
+    '<div class="harian-head">' +
+    '<span class="harian-kicker">Topik</span>' +
+    '<h1 class="harian-judul">' + esc(nama) + '</h1>' +
+    '<p class="harian-tanggal num">' + arts.length + ' artikel &middot; terakhir ' +
+    esc(arts[0].date || '') + '</p></div>' +
+    '<div class="linimasa">' + arts.map(x => itemLinimasa(x)).join('') + '</div>' +
+    '<p class="harian-ringkas" style="margin-top:2rem;">' +
+    '<a href="/berita.html">Seluruh arsip ' + ARTICLES.length + ' artikel &rarr;</a></p>' +
+    '</section>';
+  fs.writeFileSync(path.join(ROOT, 'topik', slug + '.html'),
+    head({
+      title: nama,
+      desc: 'Semua artikel The Signal yang menyangkut ' + nama + ': ' + arts.length +
+        ' artikel, terakhir ' + (arts[0].date || '') + '.',
+      url: '/topik/' + slug + '.html',
+      image: BASE + '/assets/img/og-card.jpg', imgW: 1200, imgH: 630,
+      jsonld: halamanKoleksi({
+        nama, url: '/topik/' + slug + '.html',
+        deskripsi: 'Artikel The Signal yang menyangkut ' + nama + '.',
+        item: arts.map(x => ({ nama: plain(x.title), url: articleUrl(x) })),
+      }),
+    }) + isi + FOOT, 'utf8');
+}
+console.log('halaman topik:', DAFTAR_TOPIK.length,
+  '(' + DAFTAR_TOPIK.map(([n, x]) => slugTopik(n) + ' ' + x.length).join(', ') + ')');
+
 // ---------- halaman edisi arsip ----------
 //
 // Edisi lama sebelumnya hanya hidup di dalam JavaScript: /signal-harian.html
@@ -1894,7 +1953,9 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
   .concat(ARSIP_HARIAN.filter(e => e && e.tanggal && e.judul)
     .map(e => ({ loc: urlEdisiHarian(e), lastmod: e.tanggal })))
   .concat(ARSIP_PEKANAN.filter(e => e && e.tanggal && e.judul)
-    .map(e => ({ loc: urlEdisiPekanan(e), lastmod: e.tanggal })));
+    .map(e => ({ loc: urlEdisiPekanan(e), lastmod: e.tanggal })))
+  .concat(DAFTAR_TOPIK.map(([n, arts]) =>
+    ({ loc: '/topik/' + slugTopik(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +

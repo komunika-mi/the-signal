@@ -1046,3 +1046,8 @@ a.fakta-emiten { font-weight: 700; text-decoration: underline; text-underline-of
   margin: .3rem 0 .6rem; font-size: .78rem; letter-spacing: .02em;
   text-transform: uppercase; opacity: .55;
 }
+
+/* Tag yang mengantar ke halaman topik. Bedanya dari tag mati harus terlihat,
+   tapi tidak boleh menyaingi chip tema yang merah. */
+a.article-tag { text-decoration: none; }
+a.article-tag:hover { border-color: var(--ink-soft); color: var(--ink); }

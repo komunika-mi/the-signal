@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",
+  "deck": "Bank Indonesia melalui PIHPS merilis harga eceran nasional pangan pada 19 Agustus 2026, dari gula pasir Rp19.050 hingga telur ayam Rp29.350 per kilogram.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg.jpg",
+  "imageV": "mszh5qg3",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460958-harga-pangan-hari-ini-19-agustus-2026-gula-pasir-mulai-dari-rp19050-per-kilogram-hingga-telur-ayam-rp29350-per-kilogram"
+ },
+ {
   "slug": "ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan",
   "category": "Industri",
   "title": "Ricuh Timah di Babel, Yusril [Percepat] Perpres Pertimahan",

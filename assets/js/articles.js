@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",
+  "deck": "Bank Indonesia melalui PIHPS merilis harga eceran nasional pangan pada 19 Agustus 2026, dari gula pasir Rp19.050 hingga telur ayam Rp29.350 per kilogram.",
+  "image": "assets/img/harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T08:20:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/460958-harga-pangan-hari-ini-19-agustus-2026-gula-pasir-mulai-dari-rp19050-per-kilogram-hingga-telur-ayam-rp29350-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai rawit"
+  ],
+  "body": [
+   "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia mencatat harga sejumlah bahan pangan pokok di tingkat pedagang eceran secara nasional pada 19 Agustus 2026. Data ini mencakup gula, minyak goreng, daging, cabai, telur, bawang, hingga beras, dan menjadi acuan harian bagi masyarakat untuk memantau pergerakan harga kebutuhan sehari-hari.",
+   "Untuk kelompok gula dan minyak goreng, harga gula pasir kualitas premium tercatat Rp20.300 per kilogram dan gula pasir lokal Rp19.050 per kilogram. Minyak goreng curah dijual Rp20.450 per liter, minyak goreng kemasan bermerek I Rp24.300 per liter, dan minyak goreng kemasan bermerek II Rp23.500 per liter.",
+   "Harga daging ayam ras segar berada di Rp41.750 per kilogram, daging sapi kualitas I Rp151.400 per kilogram, dan daging sapi kualitas II Rp142.450 per kilogram. Untuk cabai, harga cabai merah besar Rp49.250 per kilogram, cabai merah keriting Rp51.300 per kilogram, cabai rawit hijau Rp56.200 per kilogram, dan cabai rawit merah Rp67.350 per kilogram, yang tertinggi di antara semua komoditas yang tercatat. Sementara itu, telur ayam ras dijual Rp29.350 per kilogram, bawang merah Rp39.000 per kilogram, dan bawang putih Rp40.200 per kilogram.",
+   "Di kelompok beras, harga beras kualitas bawah I Rp14.800 per kilogram, kualitas bawah II Rp14.650 per kilogram, kualitas medium I Rp16.500 per kilogram, kualitas medium II Rp16.300 per kilogram, kualitas super I Rp17.750 per kilogram, dan kualitas super II Rp17.250 per kilogram."
+  ],
+  "fotoAdegan": "Vendor sorting fresh red chilies and trays of eggs at a crowded traditional wet market stall, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/09/28/68d88fb8935d5-ilustrasi-gula-pasir_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini adalah potret harga pada satu hari saja, tanpa angka pembanding dari hari-hari sebelumnya, sehingga belum bisa dibaca apakah harga-harga ini sedang naik, turun, atau stabil. Yang jelas, cabai rawit merah menjadi yang termahal dalam daftar ini, Rp67.350 per kilogram, jauh di atas harga beras yang berkisar Rp14.650 hingga Rp17.750 per kilogram. Kenaikan harga cabai biasanya langsung terasa oleh pedagang warung makan dan ibu rumah tangga karena cabai dipakai hampir setiap hari masak dan sulit digantikan bahan lain. Untuk mengetahui apakah harga-harga ini sedang bergerak naik atau justru mereda, perlu dibandingkan dengan data PIHPS pada hari-hari dan minggu-minggu sebelumnya, yang belum tersedia dalam rilis kali ini.",
+  "imageV": "mszh5qg3"
+ },
+ {
   "slug": "ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan",
   "category": "Industri",
   "title": "Ricuh Timah di Babel, Yusril [Percepat] Perpres Pertimahan",

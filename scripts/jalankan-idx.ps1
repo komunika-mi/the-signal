@@ -163,18 +163,35 @@ try {
     exit 0
   }
   Catat "commit $($milikKita.Count) berkas milik putaran ini"
-  Jalankan 'git' (@('add', '--') + $milikKita) | Out-Null
-  # Commit DENGAN daftar berkas, bukan commit polos.
+  # Daftar berkasnya dioper lewat BERKAS, bukan lewat baris perintah.
   #
-  # 'git commit' tanpa pathspec meng-commit SELURUH index. Mengatur apa yang
-  # di-add saja tidak cukup: berkas yang sudah dipentaskan manusia sebelum
-  # putaran ini mulai tetap duduk di index dan ikut terbawa, persis hal yang
-  # penjaga di atas berusaha cegah. Diuji: dengan README.md yang sudah
-  # di-'git add' lebih dulu, commit polos menghasilkan 3 berkas padahal
-  # laporannya berbunyi "commit 2 berkas milik putaran ini".
+  # Baris perintah Windows terbatas 32.767 karakter, dan satu putaran yang
+  # membangun ulang seluruh situs jauh melampauinya. 20 Agustus 2026 pukul
+  # 10.29 putaran ilustrasi berhenti tepat di sini: 703 berkas = 37.291
+  # karakter, perintahnya tidak bisa dijalankan sama sekali, dan skripnya
+  # mati tanpa sempat mencatat apa pun. Log-nya berhenti di baris "commit 703
+  # berkas" tanpa "selesai", dan seluruh hasil putaran menggantung tak
+  # ter-commit.
   #
-  # Dengan pathspec, git mengabaikan index untuk jalur lain.
-  Jalankan 'git' (@('commit', '-m', $pesan, '--') + $milikKita) | Out-Null
+  # --pathspec-from-file tidak punya batas itu. Berkasnya dihapus di finally.
+  $daftar = Join-Path $env:TEMP ('the-signal-berkas-' + [guid]::NewGuid().ToString('N').Substring(0,8) + '.txt')
+  [System.IO.File]::WriteAllLines($daftar, $milikKita, (New-Object System.Text.UTF8Encoding($false)))
+  try {
+    Jalankan 'git' @('add', '--pathspec-from-file=' + $daftar) | Out-Null
+    # Commit DENGAN daftar berkas, bukan commit polos.
+    #
+    # 'git commit' tanpa pathspec meng-commit SELURUH index. Mengatur apa yang
+    # di-add saja tidak cukup: berkas yang sudah dipentaskan manusia sebelum
+    # putaran ini mulai tetap duduk di index dan ikut terbawa, persis hal yang
+    # penjaga di atas berusaha cegah. Diuji: dengan README.md yang sudah
+    # di-'git add' lebih dulu, commit polos menghasilkan 3 berkas padahal
+    # laporannya berbunyi "commit 2 berkas milik putaran ini".
+    #
+    # Dengan pathspec, git mengabaikan index untuk jalur lain.
+    Jalankan 'git' @('commit', '-m', $pesan, '--pathspec-from-file=' + $daftar) | Out-Null
+  } finally {
+    Remove-Item -Path $daftar -Force -ErrorAction SilentlyContinue
+  }
   $kodePush = Jalankan 'git' @('push', 'origin', 'master')
   if ($kodePush -ne 0) { Catat 'GAGAL: push ditolak'; exit 1 }
 

@@ -141,10 +141,27 @@ try {
 
   $pesan = 'Ilustrasi artikel (' + (Get-Date -Format 'yyyy-MM-dd HH:mm') + ' WIB)'
   Catat "commit $($milikKita.Count) berkas milik putaran ini"
-  Jalankan 'git' (@('add', '--') + $milikKita) | Out-Null
-  # Commit DENGAN pathspec: commit polos meng-commit seluruh index, termasuk
-  # berkas yang sudah dipentaskan manusia sebelum putaran mulai.
-  Jalankan 'git' (@('commit', '-m', $pesan, '--') + $milikKita) | Out-Null
+  # Daftar berkasnya dioper lewat BERKAS, bukan lewat baris perintah.
+  #
+  # Baris perintah Windows terbatas 32.767 karakter, dan satu putaran yang
+  # membangun ulang seluruh situs jauh melampauinya. 20 Agustus 2026 pukul
+  # 10.29 putaran ilustrasi berhenti tepat di sini: 703 berkas = 37.291
+  # karakter, perintahnya tidak bisa dijalankan sama sekali, dan skripnya
+  # mati tanpa sempat mencatat apa pun. Log-nya berhenti di baris "commit 703
+  # berkas" tanpa "selesai", dan seluruh hasil putaran menggantung tak
+  # ter-commit.
+  #
+  # --pathspec-from-file tidak punya batas itu. Berkasnya dihapus di finally.
+  $daftar = Join-Path $env:TEMP ('the-signal-berkas-' + [guid]::NewGuid().ToString('N').Substring(0,8) + '.txt')
+  [System.IO.File]::WriteAllLines($daftar, $milikKita, (New-Object System.Text.UTF8Encoding($false)))
+  try {
+    Jalankan 'git' @('add', '--pathspec-from-file=' + $daftar) | Out-Null
+    # Commit DENGAN pathspec: commit polos meng-commit seluruh index, termasuk
+    # berkas yang sudah dipentaskan manusia sebelum putaran mulai.
+    Jalankan 'git' @('commit', '-m', $pesan, '--pathspec-from-file=' + $daftar) | Out-Null
+  } finally {
+    Remove-Item -Path $daftar -Force -ErrorAction SilentlyContinue
+  }
   $kodePush = Jalankan 'git' @('push', 'origin', 'master')
   if ($kodePush -ne 0) { Catat 'GAGAL: push ditolak'; exit 1 }
 

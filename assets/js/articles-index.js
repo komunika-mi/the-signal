@@ -42,7 +42,7 @@ var ARTICLES = [
   "title": "BAJA raih laba Rp21,3 miliar, utang [berelasi] Rp349 M jatuh tempo",
   "deck": "SCB catat laba bersih Rp21,33 miliar semester I 2026 dan siapkan PMHMETD untuk menata utang ke pihak berelasi Rp348,86 miliar yang jatuh tempo setahun ke depan.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo.jpg",
   "tags": [
    "BAJA",
    "suspensi saham",
@@ -58,7 +58,7 @@ var ARTICLES = [
   "title": "SMMF Sahkan RUPST Lewat [Keputusan Sirkuler] Pemegang Saham",
   "deck": "RUPST PT Sinar Mas Multifinance disahkan lewat keputusan sirkuler pada 19 Agustus 2026, disetujui penuh oleh dua pemegang saham yang menguasai seluruh 1,55 juta saham perseroan.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/smmf-sahkan-rupst-lewat-keputusan-sirkuler-pemegang-saham.jpg",
   "tags": [
    "SMMF",
    "RUPST",
@@ -74,7 +74,7 @@ var ARTICLES = [
   "title": "NAYZ ganti [pengendali], Saiko kuasai 29,41% saham",
   "deck": "Saiko Consultancy Pte. Ltd. resmi menjadi pengendali baru NAYZ usai membeli 750 juta saham senilai Rp17,6 miliar dari PT Asia Intrainvesta.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "image": "assets/img/nayz-ganti-pengendali-saiko-kuasai-29-41-saham.jpg",
   "tags": [
    "NAYZ",
    "perubahan pengendali",
@@ -90,7 +90,7 @@ var ARTICLES = [
   "title": "AVIA Kantongi [Dividen] Interim Rp100 Miliar dari Tirta",
   "deck": "PT Avia Avian Tbk menerima dividen interim sebesar Rp99,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, pada 19 Agustus 2026.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/avia-kantongi-dividen-interim-rp100-miliar-dari-tirta.jpg",
   "tags": [
    "AVIA",
    "dividen interim",
@@ -106,7 +106,7 @@ var ARTICLES = [
   "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
   "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/mine-batalkan-rupslb-agenda-pergantian-direksi-molor.jpg",
   "tags": [
    "MINE",
    "RUPSLB",
@@ -122,7 +122,7 @@ var ARTICLES = [
   "title": "BNBA Gelar [RUPSLB], Ganti Presiden Direktur dan Komisaris",
   "deck": "Bank Bumi Arta memanggil RUPSLB 10 September 2026 untuk mengganti presiden direktur dan lima kursi komisaris, menyusul RUPST Juni yang gagal mencapai kesepakatan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/bnba-gelar-rupslb-ganti-presiden-direktur-dan-komisaris.jpg",
   "tags": [
    "BNBA",
    "RUPSLB",
@@ -138,7 +138,7 @@ var ARTICLES = [
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "tags": [
    "MEDS",
    "Komisaris",
@@ -154,7 +154,7 @@ var ARTICLES = [
   "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
   "deck": "Bangun Kosambi Sukses (CBDK) berencana membeli kembali saham senilai maksimal Rp250 miliar pada 20 Agustus hingga 19 November 2026, merespons harga saham yang anjlok 57 persen sepanjang tahun ini.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/papap-strategi.jpg",
+  "image": "assets/img/cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57.jpg",
   "tags": [
    "CBDK",
    "buyback saham",
@@ -170,7 +170,7 @@ var ARTICLES = [
   "title": "DPNS Kena [Sanksi] BEI, Denda Rp50 Juta LK Triwulan I 2026",
   "deck": "Bursa Efek Indonesia menjatuhkan sanksi Peringatan Tertulis II dan denda Rp50 juta kepada DPNS karena belum menyerahkan laporan keuangan triwulan I 2026 yang diaudit hingga 30 Juli 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/lobi-bursa.jpg",
+  "image": "assets/img/dpns-kena-sanksi-bei-denda-rp50-juta-lk-triwulan-i-2026.jpg",
   "tags": [
    "DPNS",
    "sanksi BEI",
@@ -186,7 +186,7 @@ var ARTICLES = [
   "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
   "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/inru-tanggapi-dugaan-korupsi-transfer-pricing-rp2-triliun.jpg",
   "tags": [
    "INRU",
    "Toba Pulp Lestari",
@@ -234,7 +234,7 @@ var ARTICLES = [
   "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
   "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/bipp-terbitkan-pmthmetd-10-saham-baru-dilusi-maksimal-9-09.jpg",
   "tags": [
    "BIPP",
    "PMTHMETD",
@@ -250,7 +250,7 @@ var ARTICLES = [
   "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
   "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/cbdk-realisasikan-buyback-rp61-5-miliar-27-76-dari-target.jpg",
   "tags": [
    "CBDK",
    "buyback saham",
@@ -266,7 +266,7 @@ var ARTICLES = [
   "title": "ISAT Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
   "deck": "Menjawab surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Indosat menyatakan tidak ada informasi material tersembunyi dan tidak ada aksi korporasi dalam tiga bulan ke depan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/isat-jawab-permintaan-bei-soal-volatilitas-transaksi-saham.jpg",
   "tags": [
    "ISAT",
    "Indosat",
@@ -282,7 +282,7 @@ var ARTICLES = [
   "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
   "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat.jpg",
   "tags": [
    "TRJA",
    "volatilitas saham",
@@ -332,7 +332,7 @@ var ARTICLES = [
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/paparan-publik.jpg",
+  "image": "assets/img/bipp-jadwalkan-rupslb-pada-25-september-2026.jpg",
   "tags": [
    "BIPP",
    "RUPSLB",
@@ -348,7 +348,7 @@ var ARTICLES = [
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "image": "assets/img/hatm-terbitkan-868-juta-saham-baru-untuk-afiliasi-msn.jpg",
   "tags": [
    "HATM",
    "PMTHMETD",
@@ -364,7 +364,7 @@ var ARTICLES = [
   "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
   "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rapat-komite.jpg",
+  "image": "assets/img/humi-direktur-utama-ajukan-pengunduran-diri.jpg",
   "tags": [
    "HUMI",
    "direksi",
@@ -431,7 +431,7 @@ var ARTICLES = [
   "title": "BBMD: Direksi Beli 71.500 Saham lewat [Remunerasi Variabel]",
   "deck": "Hendra Halim, direksi Bank Mestika Dharma, menambah 71.500 saham senilai sekitar Rp142,9 juta lewat skema remunerasi variabel, hak suaranya naik jadi 0,0209 persen.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/lobi-lift-kantor.jpg",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
   "tags": [
    "BBMD",
    "Bank Mestika Dharma",
@@ -447,7 +447,7 @@ var ARTICLES = [
   "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
   "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/arsip-berkas.jpg",
+  "image": "assets/img/beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar.jpg",
   "tags": [
    "BEEF",
    "buyback saham",
@@ -599,7 +599,7 @@ var ARTICLES = [
   "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
   "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/meja-notaris.jpg",
+  "image": "assets/img/npgf-bantah-ada-info-material-di-balik-volatilitas-sahamnya.jpg",
   "tags": [
    "NPGF",
    "volatilitas saham",
@@ -1022,7 +1022,7 @@ var ARTICLES = [
   "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
   "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/resepsionis-korporat.jpg",
+  "image": "assets/img/giaa-jelaskan-ke-bursa-pemberhentian-sementara-direktur-niaga.jpg",
   "tags": [
    "GIAA",
    "Garuda Indonesia",
@@ -1038,7 +1038,7 @@ var ARTICLES = [
   "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
   "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/presentasi-jauh.jpg",
+  "image": "assets/img/irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham.jpg",
   "tags": [
    "IRSX",
    "Folago Global Nusantara",
@@ -1054,7 +1054,7 @@ var ARTICLES = [
   "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
   "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/tangga-kaca-kantor.jpg",
+  "image": "assets/img/irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya.jpg",
   "tags": [
    "IRSX",
    "RUPSLB",
@@ -1070,7 +1070,7 @@ var ARTICLES = [
   "title": "PPRO Kantongi Peringkat [idB] untuk Tiga Obligasi Rp375,4 Miliar",
   "deck": "PEFINDO mempertahankan peringkat idB dengan outlook stabil untuk PT PP Properti Tbk dan tiga seri obligasinya senilai total Rp375,4 miliar, berlaku hingga 1 Agustus 2027.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/ruang-tunggu-eksekutif.jpg",
+  "image": "assets/img/ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar.jpg",
   "tags": [
    "PPRO",
    "PEFINDO",
@@ -1086,7 +1086,7 @@ var ARTICLES = [
   "title": "BAJA Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Agustus",
   "deck": "Bursa Efek Indonesia memasukkan saham Saranacentral Bajatama (BAJA) ke daftar Efek Dalam Pemantauan Khusus, efektif 19 Agustus 2026, terkait riwayat suspensi perdagangan.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/serah-terima-map.jpg",
+  "image": "assets/img/baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus.jpg",
   "tags": [
    "BAJA",
    "Pemantauan Khusus",
@@ -1102,7 +1102,7 @@ var ARTICLES = [
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
   "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/rapat-daring.jpg",
+  "image": "assets/img/lobi-bursa.jpg",
   "tags": [
    "VTNY",
    "volatilitas saham",
@@ -1118,7 +1118,7 @@ var ARTICLES = [
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/tiba-di-kantor.jpg",
+  "image": "assets/img/gong-pencatatan.jpg",
   "tags": [
    "TOBA",
    "MESOP",
@@ -1151,7 +1151,7 @@ var ARTICLES = [
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/kopi-rapat.jpg",
+  "image": "assets/img/analis-rapat.jpg",
   "tags": [
    "AVIA",
    "earnings call",
@@ -1167,7 +1167,7 @@ var ARTICLES = [
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/jendela-kota-malam.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "tags": [
    "ELSA",
    "Elnusa",
@@ -1438,7 +1438,7 @@ var ARTICLES = [
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/berkas-disortir.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "LMPI",
    "Bursa Efek Indonesia",

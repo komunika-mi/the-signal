@@ -5,12 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "port-balas-surat-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "PORT Balas Surat BEI soal [Volatilitas] Transaksi Saham",
+  "deck": "BEI meminta penjelasan PORT atas lonjakan transaksi saham pada 18 Agustus 2026. Perseroan menyatakan tidak ada informasi material yang belum diungkap.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/konpers-emiten.jpg",
+  "tags": [
+   "PORT",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/47bc119270_a3ba09e535.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-asia-intrainvesta-jual-750-juta-saham-hak-suara-ke-27-69",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: Asia Intrainvesta [jual] 750 juta saham, hak suara ke 27,69%",
+  "deck": "Asia Intrainvesta melepas 750 juta saham NAYZ ke Saiko senilai Rp17,6 miliar pada 19 Agustus 2026, memangkas hak suaranya dari 57,10% menjadi 27,69% dan melepas status pengendali.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-tangan-voting.jpg",
+  "tags": [
+   "NAYZ",
+   "kepemilikan saham",
+   "Asia Intrainvesta",
+   "perubahan pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-4519-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sola-konfirmasi-margin-laba-kotor-terus-tergerus-hingga-2027",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Konfirmasi Margin Laba Kotor Terus [Tergerus] hingga 2027",
+  "deck": "SOLA menjawab permintaan penjelasan BEI soal piutang naik 86,96%, margin laba yang terus tergerus, rugi bersih, dan utang jangka pendek Rp22 miliar akibat pelanggan besar telat bayar.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/analis-rapat.jpg",
+  "tags": [
+   "SOLA",
+   "Xolare RCR Energy",
+   "keterbukaan informasi",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d4b4a9fb61_6bc03336a5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trja-direksi-jual-nyaris-separuh-sahamnya-di-tengah-sorotan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TRJA: Direksi [Jual] Nyaris Separuh Sahamnya di Tengah Sorotan Bursa",
+  "deck": "Direksi TRJA R Hesthi Sambodo melepas 500.000 saham secara tidak langsung pada 11 Agustus, memangkas kepemilikannya hampir separuh menjadi 453.800 lembar saham.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/ruang-direksi.jpg",
+  "tags": [
+   "TRJA",
+   "Transkon Jaya",
+   "kepemilikan saham direksi",
+   "transaksi insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6111-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arti-tanggapi-bursa-soal-gugatan-beruntun-derek-prabu-maras",
   "category": "Aksi Korporasi",
   "title": "ARTI Tanggapi Bursa Soal [Gugatan] Beruntun Derek Prabu Maras",
   "deck": "Ratu Prabu Energi (ARTI) menjawab permintaan penjelasan Bursa terkait rentetan gugatan Derek Prabu Maras, termasuk satu permohonan pailit yang masih berjalan.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/lobi-bursa.jpg",
   "tags": [
    "ARTI",
    "Ratu Prabu Energi",
@@ -42,7 +106,7 @@ var ARTICLES = [
   "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
   "deck": "Dalam public expose, MREI mengungkap insiden siber akhir 2025 menambah biaya digital forensik dan capex TI, serta memaksa penyusunan ulang laporan keuangan auditan 2025.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/paparan-publik.jpg",
   "tags": [
    "MREI",
    "asuransi",
@@ -58,7 +122,7 @@ var ARTICLES = [
   "title": "JGLE Gelar RUPSLB Ketiga usai Dua Kali Gagal [Kuorum]",
   "deck": "RUPSLB ketiga JGLE dijadwalkan 1 September 2026 setelah dua rapat sebelumnya gagal capai kuorum, dengan agenda tunggal penyesuaian klasifikasi usaha ke KBLI 2025.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "tags": [
    "JGLE",
    "RUPSLB",
@@ -74,7 +138,7 @@ var ARTICLES = [
   "title": "GOOD: Komisaris Sudhamek [Tambah] 6,79 Juta Saham",
   "deck": "Komisaris Garudafood, Sudhamek Agoeng Waspodo, menambah 6,79 juta saham GOOD senilai sekitar Rp2,72 miliar pada 13 Agustus 2026, menaikkan hak suaranya tipis dari 8,83 persen menjadi 8,85 persen.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/gong-pencatatan.jpg",
   "tags": [
    "GOOD",
    "Garudafood",
@@ -90,7 +154,7 @@ var ARTICLES = [
   "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
   "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/rapat-komite.jpg",
   "tags": [
    "WIFI",
    "RUPSLB",
@@ -106,7 +170,7 @@ var ARTICLES = [
   "title": "EKAD Jawab Bursa: Tak Ada Kabar Baru Selain LOI [Akuisisi]",
   "deck": "EKAD menegaskan ke Bursa bahwa volatilitas transaksi terkait LOI akuisisi ekuitas yang sudah diumumkan 12 Agustus, dan tak ada aksi korporasi baru dalam tiga bulan ke depan.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/lobi-bursa.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "EKAD",
    "Ekadharma International",
@@ -117,12 +181,28 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "meja-bantah-simpan-info-material-soal-gejolak-saham",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Bantah Simpan Info Material soal [Gejolak] Saham",
+  "deck": "MEJA menjawab permintaan BEI soal volatilitas sahamnya, menegaskan tidak ada fakta material tersembunyi dan rencana akuisisi Trimata Coal Perkasa masih sesuai pengumuman sebelumnya.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "tags": [
+   "MEJA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "akuisisi tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7251677d1c_2174c27336.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pege-hak-suara-pemegang-saham-turun-ke-6-8-usai-rights-issue",
   "category": "Aksi Korporasi",
   "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
   "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "PEGE",
    "Panca Global Kapital",
@@ -154,7 +234,7 @@ var ARTICLES = [
   "title": "BEEF Jadwalkan Public Expose Buntut [Suspensi] Cooling Down",
   "deck": "Perseroan menjadwalkan paparan publik insidentil pada 24 Agustus 2026 untuk menjelaskan suspensi cooling down atas sahamnya yang berlaku sejak 19 Agustus 2026.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/paparan-publik.jpg",
+  "image": "assets/img/rapat-daring.jpg",
   "tags": [
    "BEEF",
    "suspensi saham",
@@ -170,7 +250,7 @@ var ARTICLES = [
   "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
   "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "AKPI",
    "Argha Karya Prima",
@@ -186,7 +266,7 @@ var ARTICLES = [
   "title": "TCPI Panggil RUPSLB, Tunjuk [Komisaris] Baru",
   "deck": "PT Transcoal Pacific Tbk mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui penambahan satu anggota Dewan Komisaris baru.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/konpers-bank.jpg",
   "tags": [
    "TCPI",
    "RUPSLB",
@@ -298,7 +378,7 @@ var ARTICLES = [
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "tags": [
    "MEDS",
    "Komisaris",
@@ -378,7 +458,7 @@ var ARTICLES = [
   "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
   "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "tags": [
    "BBCA",
    "dividen",
@@ -492,7 +572,7 @@ var ARTICLES = [
   "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
   "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
   "tags": [
    "BYAN",
    "Bayan Resources",
@@ -607,7 +687,7 @@ var ARTICLES = [
   "title": "BBMD: Direksi Beli 71.500 Saham lewat [Remunerasi Variabel]",
   "deck": "Hendra Halim, direksi Bank Mestika Dharma, menambah 71.500 saham senilai sekitar Rp142,9 juta lewat skema remunerasi variabel, hak suaranya naik jadi 0,0209 persen.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
   "tags": [
    "BBMD",
    "Bank Mestika Dharma",
@@ -758,7 +838,7 @@ var ARTICLES = [
   "title": "KDTN: Putrasakti Mandiri Kembali Jual Saham, [Restrukturisasi] Grup",
   "deck": "Putrasakti Mandiri kembali melepas 1,17 juta saham KDTN senilai sekitar Rp428 juta pada 18 Agustus 2026, hak suaranya turun tipis dari 34,72% jadi 34,63%.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/lobi-lift-kantor.jpg",
   "tags": [
    "KDTN",
    "Puri Sentul Permai",
@@ -823,7 +903,7 @@ var ARTICLES = [
   "title": "Direksi TAPG [Jual] 550.000 Saham Senilai Rp998 Juta",
   "deck": "George Oetomo, Direksi Triputra Agro Persada (TAPG), melepas 550.000 saham secara tidak langsung pada 18 Agustus 2026 seharga Rp1.815 per lembar untuk tujuan divestasi.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "tags": [
    "TAPG",
    "Triputra Agro Persada",
@@ -1213,7 +1293,7 @@ var ARTICLES = [
   "title": "NICK: Direksi [Beli] 1.400 Saham Senilai Rp2 Juta",
   "deck": "Nicholas Santoso, direksi Charnic Capital, melaporkan pembelian tidak langsung 1.400 saham pada 14 Agustus 2026, namun porsinya kecil dan hak suara tidak berubah.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "image": "assets/img/meja-notaris.jpg",
   "tags": [
    "NICK",
    "Charnic Capital",
@@ -1326,7 +1406,7 @@ var ARTICLES = [
   "title": "TAMA: Pemegang Saham Jual [2,5 Juta] Saham, Suara ke 8,92%",
   "deck": "Pemegang saham TAMA, Verah Wahyudi S Wong, menjual 2,5 juta saham pada 13-14 Agustus 2026 seharga Rp276 dan Rp272 per saham, menurunkan hak suaranya dari 9,13% menjadi 8,92%.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/rapat-komite.jpg",
+  "image": "assets/img/resepsionis-korporat.jpg",
   "tags": [
    "TAMA",
    "Lancartama Sejati",
@@ -1358,7 +1438,7 @@ var ARTICLES = [
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/lobi-lift-kantor.jpg",
+  "image": "assets/img/presentasi-jauh.jpg",
   "tags": [
    "TOBA",
    "MESOP",
@@ -1391,7 +1471,7 @@ var ARTICLES = [
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/arsip-berkas.jpg",
+  "image": "assets/img/ruang-tunggu-eksekutif.jpg",
   "tags": [
    "AVIA",
    "earnings call",
@@ -1407,7 +1487,7 @@ var ARTICLES = [
   "title": "TGKA: Direktur Jual Habis 100 Saham [Tidak Langsung]",
   "deck": "Direktur Tigaraksa Satria, Ketut Hendra Juliawan, melepas seluruh 100 saham TGKA yang dimilikinya secara tidak langsung senilai sekitar Rp502.500.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/meja-notaris.jpg",
+  "image": "assets/img/serah-terima-map.jpg",
   "tags": [
    "TGKA",
    "Tigaraksa Satria",
@@ -1418,12 +1498,28 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-saham-kepemilikan",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama Tambah Saham [Kepemilikan]",
+  "deck": "Tunggal Jaya Investama membeli 1,6 juta saham IMPC pada 13 Agustus 2026 senilai Rp1.434 per lembar, namun hak suaranya tetap 37,12 persen.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/tiba-di-kantor.jpg",
+  "tags": [
+   "IMPC",
+   "kepemilikan saham",
+   "pemegang saham",
+   "Impack Pratama Industri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-3549-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "elsa-panggil-rupslb-9-september-bahas-perombakan-pengurus",
   "category": "Aksi Korporasi",
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/resepsionis-korporat.jpg",
+  "image": "assets/img/kopi-rapat.jpg",
   "tags": [
    "ELSA",
    "Elnusa",
@@ -1694,7 +1790,7 @@ var ARTICLES = [
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/presentasi-jauh.jpg",
+  "image": "assets/img/jendela-kota-malam.jpg",
   "tags": [
    "LMPI",
    "Bursa Efek Indonesia",
@@ -6640,107 +6736,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260810111409-64172-0/FinancialStatement-2025-Tahunan-CASH.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal",
-  "category": "Industri",
-  "title": "BPJPH Perketat [Sanksi] Pelanggaran Jaminan Produk Halal",
-  "deck": "BPJPH menerbitkan aturan baru berisi sanksi administratif, dari teguran hingga pencabutan sertifikat, bagi pelanggar jaminan produk halal.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/bpjph-perketat-sanksi-pelanggaran-jaminan-produk-halal.jpg",
-  "imageV": "tjnrta",
-  "tags": [
-   "BPJPH",
-   "produk halal",
-   "sanksi administratif",
-   "sertifikasi halal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458722-pelaku-usaha-wajib-catat-aturan-baru-bpjph-pelanggar-jaminan-produk-halal-bisa-kena-sederet-sanksi"
- },
- {
-  "slug": "pertamina-dampingi-nelayan-batam-pendapatan-naik-40",
-  "category": "BUMN",
-  "title": "Pertamina Dampingi Nelayan Batam, Pendapatan [Naik] 40%",
-  "deck": "Pertamina Patra Niaga memperluas pendampingan usaha hasil laut di Batam, mendorong pendapatan kelompok nelayan dan UMKM perempuan naik signifikan.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/pertamina-dampingi-nelayan-batam-pendapatan-naik-40.jpg",
-  "imageV": "tjnrtb",
-  "tags": [
-   "Pertamina Patra Niaga",
-   "ekonomi pesisir",
-   "UMKM perikanan",
-   "Batam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458720-pacu-ekonomi-pesisir-pertamina-patra-niaga-dampingi-pengembangan-usaha-hasil-laut-di-batam"
- },
- {
-  "slug": "ri-uea-perkuat-kerja-sama-dagang-lewat-iuae-cepa",
-  "category": "Global",
-  "title": "RI-UEA Perkuat [Kerja Sama] Dagang Lewat IUAE-CEPA",
-  "deck": "Indonesia dan UEA membahas optimalisasi IUAE-CEPA di tahun ketiga implementasinya, termasuk skema tarif, transshipment, dan kasus antidumping.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/ri-uea-perkuat-kerja-sama-dagang-lewat-iuae-cepa.jpg",
-  "imageV": "tjnrtc",
-  "tags": [
-   "IUAE-CEPA",
-   "Indonesia-UEA",
-   "Perdagangan Internasional",
-   "Budi Santoso"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458708-ri-uea-bidik-lompatan-dagang-transaksi-tembus-us314-miliar-di-semester-i-2026"
- },
- {
-  "slug": "harga-minyak-berpeluang-tembus-us-83-di-tengah-ketegangan-hormuz",
-  "category": "Energi",
-  "title": "Harga Minyak Berpeluang Tembus [US$83] di Tengah Ketegangan Hormuz",
-  "deck": "Pengamat memperkirakan harga minyak mentah bergerak di kisaran US$65,70 hingga US$83,30 per barel pekan ini, seiring negosiasi Iran dan Oman soal Selat Hormuz yang belum tuntas.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/harga-minyak-berpeluang-tembus-us-83-di-tengah-ketegangan-hormuz.jpg",
-  "imageV": "tjnrtc",
-  "tags": [
-   "harga minyak",
-   "selat hormuz",
-   "Iran",
-   "Oman"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458707-iran-oman-rebutan-selat-hormuz-harga-minyak-diprediksi-tembus-us83-per-barel"
- },
- {
-  "slug": "mantri-bri-tembus-ombak-jaga-ekonomi-warga-wakatobi",
-  "category": "Perbankan",
-  "title": "Mantri BRI Tembus Ombak Jaga [Ekonomi] Warga Wakatobi",
-  "deck": "Mantri BRI di Wangi-Wangi, Wakatobi, menembus laut demi melayani sembilan desa di Pulau Kaledupa dan menjaga akses keuangan warga.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/mantri-bri-tembus-ombak-jaga-ekonomi-warga-wakatobi.jpg",
-  "imageV": "tjnrtd",
-  "tags": [
-   "BRI",
-   "Wakatobi",
-   "inklusi keuangan",
-   "ekonomi kerakyatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458705-dedikasi-mantri-bri-untuk-masyarakat-wakatobi-menjaga-roda-ekonomi-tetap-berputar-di-surga-bahari"
- },
- {
-  "slug": "airlangga-tinjau-ioniq-9-di-booth-hyundai-giias-2026",
-  "category": "Industri",
-  "title": "Airlangga Tinjau [IONIQ 9] di Booth Hyundai GIIAS 2026",
-  "deck": "Menko Airlangga Hartarto meninjau SUV listrik Hyundai IONIQ 9 yang baru diperkenalkan di GIIAS 2026, menandai penguatan tren elektrifikasi kendaraan di pasar domestik.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/airlangga-tinjau-ioniq-9-di-booth-hyundai-giias-2026.jpg",
-  "imageV": "tjnrte",
-  "tags": [
-   "GIIAS 2026",
-   "Hyundai",
-   "IONIQ 9",
-   "kendaraan listrik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458699-menko-airlangga-kunjungi-booth-hyundai-ioniq-9-jadi-sorotan-di-giias-2026"
  }
 ];

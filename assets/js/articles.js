@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "arti-tanggapi-bursa-soal-gugatan-beruntun-derek-prabu-maras",
+  "category": "Aksi Korporasi",
+  "title": "ARTI Tanggapi Bursa Soal [Gugatan] Beruntun Derek Prabu Maras",
+  "deck": "Ratu Prabu Energi (ARTI) menjawab permintaan penjelasan Bursa terkait rentetan gugatan Derek Prabu Maras, termasuk satu permohonan pailit yang masih berjalan.",
+  "image": "assets/img/konpers-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T13:10:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a781501f8_bb3be5d5dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTI",
+  "tags": [
+   "ARTI",
+   "Ratu Prabu Energi",
+   "gugatan hukum",
+   "pailit"
+  ],
+  "body": [
+   "PT Ratu Prabu Energi Tbk (ARTI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-10799/BEI.PP3/08-2026 tertanggal 18 Agustus 2026. Permintaan itu menyoal perkembangan penyelesaian homologasi, yakni kesepakatan perdamaian yang disahkan pengadilan dalam proses kepailitan, milik PT Lekom Maras, menyusul informasi bahwa dalam salah satu putusan pengadilan, hakim disebut menegaskan objek sengketa adalah milik pribadi Derek Prabu Maras, bukan milik pihak lain. Dalam surat tanggapan bernomor 044/RPE-CORSEC/OJK/IDX/VIII/2026 yang ditandatangani Direktur Independen Gemilang Zaharin dan disetujui Komisaris Utama Gregory O. Maras, perusahaan membantah adanya putusan semacam itu. Untuk perkara nomor 1002/Pdt.G/2025 di PN Jakarta Selatan, kata perusahaan, hakim justru memutuskan pengadilan tidak berwenang mengadili perkara tersebut dan pokok sengketa belum pernah diperiksa.",
+   "Perusahaan menyatakan tidak ada dampak keuangan maupun non keuangan, serta tidak ada tingkat materialitas dari perkembangan perkara tersebut. Sebagai langkah yang telah ditempuh, ARTI mengajukan gugatan sendiri ke PN Jakarta Selatan dengan nomor perkara 1026/Pdt.G/2025, namun hasilnya gugatan tersebut dinyatakan tidak dapat diterima oleh pengadilan atau niet ontvankelijke verklaard, yang berarti pengadilan tidak sampai memeriksa pokok perkaranya karena dianggap ada cacat formil dalam gugatan.",
+   "Dalam poin terakhir jawabannya, ARTI membeberkan rangkaian perkara hukum lain yang melibatkan Derek Prabu Maras. Dua gugatan yang sebelumnya diajukan Derek Prabu Maras, yakni perkara nomor 366/Pdt.G/2026/PN Jak.Sel dan permohonan pembatalan perdamaian nomor 21/Pdt.Sus-Pailit/2026/PN Jak.Pst, masing-masing telah dicabut pada 5 Mei 2026 dan 25 Mei 2026. Namun Derek Prabu Maras kembali menggugat perusahaan lewat dua perkara baru di PN Jakarta Selatan, nomor 549/Pdt.G/2026 dan 551/Pdt.G/2026, yang keduanya masih berada dalam tahap mediasi. Yang paling perlu dicermati, Derek Prabu Maras juga mengajukan permohonan pailit ke Pengadilan Niaga Jakarta Pusat dengan nomor perkara 61/Pdt.Sus-Pailit-GII/2026, yang prosesnya masih pada tahap pemanggilan para pihak."
+  ],
+  "fotoAdegan": "Wide shot of an Indonesian district court building facade with visitors climbing the front steps, midday light.",
+  "takeaway": "Laporan ini condong negatif bagi ARTI karena meski perusahaan mengklaim belum ada dampak keuangan, rentetan gugatan yang melibatkan Derek Prabu Maras, termasuk satu permohonan pailit yang masih berjalan di Pengadilan Niaga Jakarta Pusat, menandakan sengketa hukum yang belum tuntas dan berpotensi mengganggu kepastian usaha. Yang perlu diperhatikan investor adalah arus kas perusahaan, karena biaya beracara hukum yang berkepanjangan bisa membebani, dan yang lebih serius adalah risiko permohonan pailit itu sendiri, sebab kalau pengadilan niaga sampai mengabulkannya, aset perusahaan bisa disita untuk membayar kewajiban, jauh lebih berat dari sekadar gugatan perdata biasa. Yang perlu dipantau selanjutnya adalah hasil mediasi dua gugatan bernomor 549 dan 551/Pdt.G/2026 di PN Jakarta Selatan yang saat ini masih berjalan, serta kelanjutan proses pemanggilan para pihak dalam permohonan pailit nomor 61/Pdt.Sus-Pailit-GII/2026 di Pengadilan Niaga Jakarta Pusat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dgwg-jadwalkan-rupslb-pada-28-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Jadwalkan [RUPSLB] pada 28 September 2026",
+  "deck": "Delta Giri Wacana Tbk mengumumkan rencana RUPSLB pada 28 September 2026, dengan daftar pemegang saham berhak hadir ditutup 3 September 2026.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T12:25:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14f8f39197_af483c4a69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "RUPSLB",
+   "Delta Giri Wacana",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 28 September 2026 pukul 09.00 WIB. Lokasi rapat masih akan diumumkan kemudian. Sesuai Pasal 52 POJK 15/2020, surat pemanggilan resmi yang memuat agenda rapat wajib diterbitkan melalui situs web KSEI (via aplikasi eASY.KSEI), situs Bursa Efek Indonesia, dan situs perusahaan, paling lambat Jumat, 4 September 2026, dalam Bahasa Indonesia dan Inggris.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Kamis, 3 September 2026 hingga pukul 16.00 WIB, termasuk pemegang saham di sub rekening efek KSEI pada penutupan perdagangan saham DGWG di bursa. Merujuk POJK 14/2025, rapat juga akan digelar secara elektronik, dan perusahaan mendorong pemegang saham memberikan suara lewat aplikasi eASY.KSEI yang tersedia sejak tanggal pemanggilan sampai satu hari kerja sebelum rapat, pukul 12.00 WIB.",
+   "Dokumen ini juga menyebutkan hak pemegang saham untuk mengajukan usulan mata acara rapat. Usulan harus diajukan tertulis oleh satu pemegang saham atau lebih yang mewakili minimal 1/20 dari total saham berhak suara, diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan, dan memenuhi syarat itikad baik, mempertimbangkan kepentingan Perseroan, serta disertai alasan dan bahan pendukung. Agenda resmi RUPSLB sendiri belum diungkapkan dalam pengumuman ini."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a small stage, soft morning light through tall windows in a Jakarta office tower.",
+  "takeaway": "Laporan ini netral karena baru mengumumkan jadwal RUPSLB, bukan agendanya, sehingga belum bisa dinilai menguntungkan atau merugikan Perseroan. RUPSLB berbeda dari rapat tahunan biasa karena lazim dipakai untuk memutuskan hal besar seperti perubahan modal, pergantian direksi atau komisaris, atau aksi korporasi lain yang bisa mengubah ekuitas dan struktur pemegang saham, tapi dokumen ini tidak menyebutkan agenda tersebut sama sekali. Yang perlu dipantau adalah surat pemanggilan resmi yang wajib terbit paling lambat Jumat, 4 September 2026, karena di situlah agenda RUPSLB baru akan diketahui, serta pelaksanaan rapatnya sendiri pada Senin, 28 September 2026, dengan pemegang saham berhak hadir adalah yang tercatat per Kamis, 3 September 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mrei-beber-dampak-insiden-siber-ke-laporan-keuangan",
   "category": "Aksi Korporasi",
   "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
@@ -84,7 +136,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
   "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/gong-pencatatan.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T11:42:18",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9d1237cc57_e8bd840faf.pdf",
@@ -136,7 +188,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
   "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T11:15:09",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-5966-00.pdf-0.pdf",
@@ -155,6 +207,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Office workers crossing a plaza near tall financial district towers in Jakarta at midday, soft sunlight, brisk pace",
   "takeaway": "Laporan ini netral bagi PEGE karena secara ekonomi posisi Mandiri Terang Harapan kembali ke titik semula, hak baru dari rights issue langsung dijual habis sehingga jumlah saham yang dipegangnya tidak berubah dari 256,8 juta lembar. Yang tersentuh di sini adalah jumlah saham beredar PEGE, karena penerbitan saham baru lewat rights issue membuat porsi kepemilikan pemegang lama otomatis mengecil meski jumlah lembarnya sama, itulah sebabnya hak suara Mandiri Terang Harapan turun dari 9,06 persen menjadi 6,80 persen walau ia tidak menjual sahamnya sendiri secara neto. Pemegang saham lain yang tidak ikut menyerap rights issue mengalami dilusi serupa, sehingga laba per saham berpotensi tertekan karena dibagi ke basis saham yang lebih besar. Dokumen ini juga mencatat sisa 55,6 juta unit hak yang belum dilaksanakan sudah melewati batas waktu pelaksanaan pada 17 Juli 2026, yang berarti kemungkinan besar sudah hangus. Pembaca perlu memantau apakah PEGE merilis laporan realisasi dana hasil rights issue untuk melihat berapa total modal segar yang benar-benar terkumpul dari aksi korporasi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "best-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BEST Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bekasi Fajar Industrial Estate menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
+  "image": "assets/img/papap-strategi.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T10:51:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ca2ba171f2_9603b16cd4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEST",
+  "tags": [
+   "BEST",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bekasi Fajar Industrial Estate Tbk (BEST) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-10852/BEI.PP2/08-2026 terkait volatilitas transaksi efek perseroan. Surat balasan BEST bernomor 066/C/H/BEFA/VIII/2026 ditandatangani Herdian selaku Corporate Secretary dan dikirim pada 20 Agustus 2026.",
+   "Dalam suratnya, perseroan menjawab lima poin pertanyaan standar dari bursa. BEST menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan I-E BEI. Perseroan juga menegaskan tidak mengetahui adanya perubahan kepemilikan saham oleh pemegang saham utama atau aktivitas penjaminan saham yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024.",
+   "Terkait rencana aksi korporasi, BEST menyatakan tidak memiliki rencana tindakan korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan. Perseroan menutup surat dengan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide paved road inside an industrial estate lined with warehouse buildings and trees, quiet midday light, no visible signage",
+  "takeaway": "Laporan ini netral bagi BEST karena isinya murni bantahan standar tanpa fakta baru yang bisa dinilai investor. Surat semacam ini terbit karena bursa mendeteksi pergerakan harga atau volume transaksi saham BEST yang di luar kebiasaan, lalu meminta emiten mengonfirmasi apakah ada penyebab yang belum diumumkan, dan jawaban BEST tidak menyentuh pos kinerja apa pun seperti ekuitas, arus kas, atau laba per saham karena memang tidak ada transaksi atau kejadian yang diungkap. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga dan volume saham BEST mereda dengan sendirinya atau justru berlanjut, karena jika volatilitas tetap tinggi, bursa berwenang mengambil langkah lanjutan seperti permintaan penjelasan tambahan atau penghentian sementara perdagangan.",
   "sentimen": "netral"
  },
  {
@@ -188,7 +266,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
   "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T09:49:13",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6804-00.pdf-0.pdf",
@@ -396,7 +474,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T20:18:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-1867-00.pdf-0.pdf",
@@ -711,7 +789,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
   "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:31:54",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d5b3ac14de_16768422c2.pdf",
@@ -1133,6 +1211,32 @@ var ARTICLES = [
   "imageV": "mszrf91r"
  },
  {
+  "slug": "kdtn-putrasakti-mandiri-kembali-jual-saham-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Kembali Jual Saham, [Restrukturisasi] Grup",
+  "deck": "Putrasakti Mandiri kembali melepas 1,17 juta saham KDTN senilai sekitar Rp428 juta pada 18 Agustus 2026, hak suaranya turun tipis dari 34,72% jadi 34,63%.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T12:36:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-9271-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi grup"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) menerima laporan keterbukaan informasi dari pemegang sahamnya, Putrasakti Mandiri, yang melaporkan penjualan 1.166.400 lembar saham biasa KDTN pada 18 Agustus 2026 dengan harga Rp367 per saham. Putrasakti Mandiri bukan bagian dari jajaran direksi atau dewan komisaris KDTN, dan pemilik langsung saham yang dijual adalah Putrasakti Mandiri sendiri.",
+   "Dengan transaksi ini, kepemilikan Putrasakti Mandiri di KDTN turun dari 434.066.400 lembar menjadi 432.900.000 lembar, atau berkurang 1.166.400 lembar. Hak suaranya di perusahaan ikut turun dari 34,72 persen menjadi 34,63 persen. Dokumen menyebut tujuan transaksi ini adalah restrukturisasi kepemilikan saham dalam kelompok usaha, dan baris transaksi dalam laporan turut ditandai sebagai bagian dari perjanjian pembelian kembali atau repurchase agreement, skema jual saham dengan opsi dibeli kembali di kemudian hari.",
+   "Ini merupakan laporan kedua dari Putrasakti Mandiri dalam sepekan terakhir dengan alasan restrukturisasi kelompok usaha yang sama. Pada 18 Agustus, KDTN sudah melaporkan transaksi serupa yang membawa hak suara Putrasakti Mandiri turun dari 34,86 persen, dan angka 34,72 persen yang menjadi titik awal laporan kali ini melanjutkan tren penurunan bertahap tersebut."
+  ],
+  "fotoAdegan": "Rows of newly built suburban houses with red tile roofs nestled among green hills near Sentul, morning haze",
+  "takeaway": "Laporan ini netral bagi KDTN, sebab saham yang dilepas Putrasakti Mandiri hanya sekitar 0,27 persen dari kepemilikannya sendiri, porsi yang terlalu kecil untuk dibaca sebagai sinyal soal prospek perusahaan. Yang tersentuh hanya hak suara pelapor, yang turun tipis dari 34,72 persen menjadi 34,63 persen; hak suara ini menentukan seberapa besar pengaruh seorang pemegang saham dalam rapat pemegang saham, dan karena transaksinya terjadi antar pihak dalam kelompok usaha yang sama, kas maupun ekuitas KDTN sendiri tidak tersentuh. Yang perlu dipantau adalah polanya, karena ini sudah transaksi kedua dalam sepekan dengan alasan restrukturisasi yang sama, setelah hak suara Putrasakti Mandiri turun dari 34,86 persen pada 18 Agustus menjadi 34,72 persen lalu 34,63 persen sekarang. Kalau pelaporan serupa terus muncul, akumulasi penurunan kepemilikan itu yang lebih layak dicermati ketimbang satu transaksi tunggal ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
   "category": "Pasar Modal",
   "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
@@ -1212,6 +1316,32 @@ var ARTICLES = [
   "takeaway": "Yang berubah pagi ini adalah IHSG dibuka turun 0,65 persen ke 6.408, tapi arah pasarnya belum satu arah. Mayoritas saham yang diperdagangkan justru melemah, 203 turun berbanding 187 naik, sementara indeks IDX30 yang isinya emiten-emiten besar termasuk bank malah naik tipis. Pihak yang langsung diuntungkan dalam kondisi ini adalah pemegang saham bank besar, karena harga sahamnya bergerak berlawanan dengan tren indeks harian. Ada dua kemungkinan dari sini, kalau tekanan jual di saham kecil dan menengah berlanjut, IHSG bisa ditutup melemah lebih dalam sore ini, tapi kalau penguatan saham bank menarik minat beli ke saham besar lainnya, indeks bisa berbalik naik meski breadth pasar masih negatif. Ini akan ketahuan dari penutupan perdagangan sore ini, Rabu 19 Agustus 2026 pukul 16.00 WIB.",
   "fotoDitolak": true,
   "imageV": "mszpk4li"
+ },
+ {
+  "slug": "direksi-tapg-jual-550-000-saham-senilai-rp998-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TAPG [Jual] 550.000 Saham Senilai Rp998 Juta",
+  "deck": "George Oetomo, Direksi Triputra Agro Persada (TAPG), melepas 550.000 saham secara tidak langsung pada 18 Agustus 2026 seharga Rp1.815 per lembar untuk tujuan divestasi.",
+  "image": "assets/img/dokumen-prospektus.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T11:22:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-5987-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Triputra Agro Persada Tbk (TAPG), George Oetomo, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 550.000 saham TAPG secara tidak langsung pada 18 Agustus 2026. Transaksi dilakukan pada harga Rp1.815 per saham, sehingga nilainya sekitar Rp998,25 juta. Dalam laporan bernomor LK/19082026/0001/1 yang disampaikan sehari setelahnya, tujuan transaksi disebutkan sebagai divestasi.",
+   "Dengan penjualan ini, jumlah saham George Oetomo di TAPG berkurang dari 56.456.100 lembar menjadi 55.906.100 lembar. Porsi hak suaranya di perusahaan pun turun tipis dari 0,2844 persen menjadi 0,2816 persen. Selisih 550.000 saham yang dilepas setara dengan sekitar 0,97 persen dari total kepemilikannya sebelum transaksi.",
+   "Laporan ini disampaikan sesuai kewajiban keterbukaan berdasarkan Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi dan dewan komisaris melaporkan perubahan kepemilikan sahamnya di perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fresh fruit bunches in a plantation, loaded trucks waiting nearby, morning light",
+  "takeaway": "Transaksi ini tergolong netral bagi TAPG, karena saham yang dilepas George Oetomo hanya sekitar 0,97 persen dari kepemilikannya, porsi yang terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap prospek perusahaan. Yang berubah di sini murni kepemilikan pribadi sang direksi, bukan struktur permodalan TAPG, sehingga jumlah saham beredar perusahaan dan laba per sahamnya tidak ikut terpengaruh, sementara hak suaranya di perusahaan cuma bergeser dari 0,2844 persen menjadi 0,2816 persen, jauh dari level yang bisa mengubah kendali. Yang perlu dicermati selanjutnya adalah apakah penjualan serupa berlanjut muncul di laporan-laporan berikutnya dari direksi atau komisaris TAPG lain, sebab satu transaksi kecil seperti ini belum menunjukkan pola, tapi rangkaian penjualan dari beberapa petinggi sekaligus baru pantas dibaca sebagai sinyal yang lebih berarti.",
+  "sentimen": "netral"
  },
  {
   "slug": "dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september",
@@ -1806,6 +1936,31 @@ var ARTICLES = [
   "imageV": "msytoujk"
  },
  {
+  "slug": "nick-direksi-beli-1-400-saham-senilai-rp2-juta",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Beli] 1.400 Saham Senilai Rp2 Juta",
+  "deck": "Nicholas Santoso, direksi Charnic Capital, melaporkan pembelian tidak langsung 1.400 saham pada 14 Agustus 2026, namun porsinya kecil dan hak suara tidak berubah.",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T19:29:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-6979-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "insider"
+  ],
+  "body": [
+   "PT Charnic Capital Tbk (NICK) melaporkan perubahan kepemilikan saham oleh Nicholas Santoso, yang menjabat sebagai anggota Direksi perusahaan. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 18 Agustus 2026, Santoso mencatatkan tujuh transaksi pembelian tidak langsung atas saham NICK pada 14 Agustus 2026, dengan harga bervariasi antara Rp1.470 hingga Rp1.500 per saham. Total saham yang dibeli mencapai 1.400 lembar dengan tujuan investasi, atau senilai sekitar Rp2,08 juta.",
+   "Dengan tambahan ini, kepemilikan saham Santoso di Charnic Capital naik dari 165.100 lembar menjadi 166.500 lembar, atau bertambah 1.400 lembar. Meski jumlah sahamnya bertambah, hak suaranya di perusahaan tetap di angka 0,03 persen baik sebelum maupun sesudah transaksi. Laporan juga menyebutkan bahwa Santoso bukan merupakan pengendali perusahaan dan tidak berencana menjadi pengendali."
+  ],
+  "fotoAdegan": "Traders working at a busy brokerage floor in Jakarta, rows of blurred computer monitors, soft natural light through large windows",
+  "takeaway": "Laporan ini netral bagi Charnic Capital, sebab pembelian 1.400 saham oleh direksi hanya setara 0,848 persen dari kepemilikan pribadinya sendiri dan senilai sekitar Rp2 juta saja, terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap kinerja perusahaan. Yang tersentuh di sini adalah jumlah saham beredar milik direksi dan hak suaranya, yaitu porsi kekuatan pemegang saham dalam mengambil keputusan di rapat umum pemegang saham, dan dalam kasus ini hak suara Santoso tetap di 0,03 persen sebelum maupun sesudah pembelian sehingga praktis tidak mengubah peta kendali perusahaan. Ke depan yang perlu dipantau adalah apakah Santoso atau direksi lain melanjutkan pembelian dalam jumlah yang lebih besar di laporan kepemilikan berikutnya, karena dokumen ini sendiri tidak memuat agenda korporasi lanjutan seperti RUPS atau tenggat tertentu.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
   "category": "UMKM",
   "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",
@@ -1963,6 +2118,31 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "tama-pemegang-saham-jual-2-5-juta-saham-suara-ke-8-92",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Pemegang Saham Jual [2,5 Juta] Saham, Suara ke 8,92%",
+  "deck": "Pemegang saham TAMA, Verah Wahyudi S Wong, menjual 2,5 juta saham pada 13-14 Agustus 2026 seharga Rp276 dan Rp272 per saham, menurunkan hak suaranya dari 9,13% menjadi 8,92%.",
+  "image": "assets/img/rapat-komite.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T18:09:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-0721-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "Lancartama Sejati",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "body": [
+   "Verah Wahyudi S Wong, pemegang saham PT Lancartama Sejati Tbk (TAMA), melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah menjual saham perusahaan tersebut dalam dua transaksi tidak langsung dengan tujuan divestasi. Pada 13 Agustus 2026 ia menjual 1.500.000 saham seharga Rp276 per saham, dan sehari berikutnya, 14 Agustus 2026, menjual 1.000.000 saham seharga Rp272 per saham, sehingga total saham yang dilepas mencapai 2.500.000 lembar.",
+   "Dengan penjualan itu, kepemilikan Verah di TAMA berkurang dari 109.536.500 saham menjadi 107.036.500 saham, sementara hak suaranya turun dari 9,13% menjadi 8,92%. Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Verah tercatat bukan anggota direksi maupun dewan komisaris TAMA, namun karena kepemilikannya berada di atas 5%, setiap perubahan pada sahamnya wajib dilaporkan ke bursa."
+  ],
+  "fotoAdegan": "Cargo trucks queued at a busy Indonesian shipping port terminal, stacked containers under morning haze, dock cranes in the background",
+  "takeaway": "Penjualan ini tergolong netral bagi TAMA. Meski disebut sebagai divestasi, saham yang dilepas hanya sekitar 2,3% dari total kepemilikan Verah, dan hak suaranya masih bertahan di atas 8,9%, jadi belum ada indikasi perubahan kendali atau sikap besar terhadap perusahaan. Yang tersentuh di sini hanyalah komposisi pemegang saham dan hak suara, bukan kondisi keuangan TAMA seperti kas atau utang, karena transaksi terjadi di pasar sekunder antar investor, bukan setoran modal baru ke perusahaan. Yang perlu dicermati selanjutnya adalah apakah Verah melanjutkan pengurangan kepemilikannya di laporan berikutnya, mengingat pola penjualan dua hari berturut-turut pada 13 dan 14 Agustus 2026 ini bisa jadi belum selesai.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
@@ -1993,7 +2173,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/lobi-lift-kantor.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:20:27",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4012c60dc8_7b184af081.pdf",
@@ -2046,7 +2226,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:00:25",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dfdcec109a_084f708dce.pdf",
@@ -2068,11 +2248,36 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "tgka-direktur-jual-habis-100-saham-tidak-langsung",
+  "category": "Aksi Korporasi",
+  "title": "TGKA: Direktur Jual Habis 100 Saham [Tidak Langsung]",
+  "deck": "Direktur Tigaraksa Satria, Ketut Hendra Juliawan, melepas seluruh 100 saham TGKA yang dimilikinya secara tidak langsung senilai sekitar Rp502.500.",
+  "image": "assets/img/meja-notaris.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T16:37:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-3017-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGKA",
+  "tags": [
+   "TGKA",
+   "Tigaraksa Satria",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT Tigaraksa Satria Tbk (TGKA), Ketut Hendra Juliawan, melaporkan kepada Otoritas Jasa Keuangan bahwa ia telah menjual seluruh kepemilikan sahamnya di perusahaan tersebut. Berdasarkan laporan yang disampaikan pada 18 Agustus 2026, Ketut sebelumnya memiliki 100 lembar saham TGKA yang berstatus kepemilikan tidak langsung, dan setelah transaksi jumlah tersebut menjadi nol.",
+   "Transaksi dilakukan pada tanggal yang sama, 18 Agustus 2026, dengan harga Rp5.025 per saham. Dengan demikian nilai total transaksi ini hanya sekitar Rp502.500. Saham yang dijual berjenis saham biasa, dan tujuan transaksi tercatat sebagai divestasi. Hak suara Ketut di TGKA tercatat 0,00 persen baik sebelum maupun sesudah transaksi, sehingga tidak ada perubahan pengaruhnya dalam pengambilan keputusan perusahaan."
+  ],
+  "fotoAdegan": "Warehouse workers loading boxes of packaged consumer goods onto a delivery truck at a loading dock, daytime",
+  "takeaway": "Laporan ini netral bagi TGKA karena ukurannya sangat kecil, hanya 100 lembar saham senilai sekitar Rp502.500, dan hak suara pelapor di perusahaan tetap 0,00 persen sebelum maupun sesudah transaksi. Transaksi sekecil ini tidak mengubah jumlah saham beredar TGKA maupun laba per saham, yaitu laba bersih perusahaan dibagi jumlah saham beredar yang biasa jadi acuan investor menilai kinerja per lembar saham, sehingga pelaku pasar umumnya tidak membacanya sebagai sinyal soal pandangan direksi terhadap prospek perusahaan. Yang perlu dicermati selanjutnya adalah apakah muncul laporan kepemilikan lain dari direksi atau komisaris TGKA dalam waktu dekat yang menunjukkan pola pelepasan saham lebih besar, karena satu laporan sekecil ini belum cukup untuk dibaca sebagai perubahan sikap.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "elsa-panggil-rupslb-9-september-bahas-perombakan-pengurus",
   "category": "Aksi Korporasi",
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/resepsionis-korporat.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T16:16:39",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/655b815286_ad0bb794ba.pdf",
@@ -2499,7 +2704,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/presentasi-jauh.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T10:55:57",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/267be7692d_8fce88d4c8.pdf",

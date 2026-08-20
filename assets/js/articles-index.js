@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "arti-tanggapi-bursa-soal-gugatan-beruntun-derek-prabu-maras",
+  "category": "Aksi Korporasi",
+  "title": "ARTI Tanggapi Bursa Soal [Gugatan] Beruntun Derek Prabu Maras",
+  "deck": "Ratu Prabu Energi (ARTI) menjawab permintaan penjelasan Bursa terkait rentetan gugatan Derek Prabu Maras, termasuk satu permohonan pailit yang masih berjalan.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/konpers-emiten.jpg",
+  "tags": [
+   "ARTI",
+   "Ratu Prabu Energi",
+   "gugatan hukum",
+   "pailit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a781501f8_bb3be5d5dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-jadwalkan-rupslb-pada-28-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Jadwalkan [RUPSLB] pada 28 September 2026",
+  "deck": "Delta Giri Wacana Tbk mengumumkan rencana RUPSLB pada 28 September 2026, dengan daftar pemegang saham berhak hadir ditutup 3 September 2026.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "DGWG",
+   "RUPSLB",
+   "Delta Giri Wacana",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14f8f39197_af483c4a69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mrei-beber-dampak-insiden-siber-ke-laporan-keuangan",
   "category": "Aksi Korporasi",
   "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
@@ -58,7 +90,7 @@ var ARTICLES = [
   "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
   "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/gong-pencatatan.jpg",
   "tags": [
    "WIFI",
    "RUPSLB",
@@ -90,7 +122,7 @@ var ARTICLES = [
   "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
   "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "PEGE",
    "Panca Global Kapital",
@@ -98,6 +130,22 @@ var ARTICLES = [
    "hak suara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-5966-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "best-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BEST Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bekasi Fajar Industrial Estate menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/papap-strategi.jpg",
+  "tags": [
+   "BEST",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ca2ba171f2_9603b16cd4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -122,7 +170,7 @@ var ARTICLES = [
   "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
   "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "tags": [
    "AKPI",
    "Argha Karya Prima",
@@ -250,7 +298,7 @@ var ARTICLES = [
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "MEDS",
    "Komisaris",
@@ -444,7 +492,7 @@ var ARTICLES = [
   "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
   "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "BYAN",
    "Bayan Resources",
@@ -705,6 +753,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kdtn-putrasakti-mandiri-kembali-jual-saham-restrukturisasi-grup",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Kembali Jual Saham, [Restrukturisasi] Grup",
+  "deck": "Putrasakti Mandiri kembali melepas 1,17 juta saham KDTN senilai sekitar Rp428 juta pada 18 Agustus 2026, hak suaranya turun tipis dari 34,72% jadi 34,63%.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi grup"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-9271-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
   "category": "Pasar Modal",
   "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
@@ -752,6 +816,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat"
+ },
+ {
+  "slug": "direksi-tapg-jual-550-000-saham-senilai-rp998-juta",
+  "category": "Aksi Korporasi",
+  "title": "Direksi TAPG [Jual] 550.000 Saham Senilai Rp998 Juta",
+  "deck": "George Oetomo, Direksi Triputra Agro Persada (TAPG), melepas 550.000 saham secara tidak langsung pada 18 Agustus 2026 seharga Rp1.815 per lembar untuk tujuan divestasi.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/dokumen-prospektus.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-5987-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september",
@@ -1128,6 +1208,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460880-semarak-hut-kemerdekaan-pertamina-patra-niaga-undi-25-motor-untuk-ojol-lewat-boom-periode-2-masih-ada-50-unit"
  },
  {
+  "slug": "nick-direksi-beli-1-400-saham-senilai-rp2-juta",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Direksi [Beli] 1.400 Saham Senilai Rp2 Juta",
+  "deck": "Nicholas Santoso, direksi Charnic Capital, melaporkan pembelian tidak langsung 1.400 saham pada 14 Agustus 2026, namun porsinya kecil dan hak suara tidak berubah.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "insider"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-6979-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
   "category": "UMKM",
   "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",
@@ -1225,6 +1321,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tama-pemegang-saham-jual-2-5-juta-saham-suara-ke-8-92",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Pemegang Saham Jual [2,5 Juta] Saham, Suara ke 8,92%",
+  "deck": "Pemegang saham TAMA, Verah Wahyudi S Wong, menjual 2,5 juta saham pada 13-14 Agustus 2026 seharga Rp276 dan Rp272 per saham, menurunkan hak suaranya dari 9,13% menjadi 8,92%.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/rapat-komite.jpg",
+  "tags": [
+   "TAMA",
+   "Lancartama Sejati",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-0721-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
@@ -1246,7 +1358,7 @@ var ARTICLES = [
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/lobi-lift-kantor.jpg",
   "tags": [
    "TOBA",
    "MESOP",
@@ -1279,7 +1391,7 @@ var ARTICLES = [
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "tags": [
    "AVIA",
    "earnings call",
@@ -1290,12 +1402,28 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tgka-direktur-jual-habis-100-saham-tidak-langsung",
+  "category": "Aksi Korporasi",
+  "title": "TGKA: Direktur Jual Habis 100 Saham [Tidak Langsung]",
+  "deck": "Direktur Tigaraksa Satria, Ketut Hendra Juliawan, melepas seluruh 100 saham TGKA yang dimilikinya secara tidak langsung senilai sekitar Rp502.500.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/meja-notaris.jpg",
+  "tags": [
+   "TGKA",
+   "Tigaraksa Satria",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-3017-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "elsa-panggil-rupslb-9-september-bahas-perombakan-pengurus",
   "category": "Aksi Korporasi",
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/resepsionis-korporat.jpg",
   "tags": [
    "ELSA",
    "Elnusa",
@@ -1566,7 +1694,7 @@ var ARTICLES = [
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/presentasi-jauh.jpg",
   "tags": [
    "LMPI",
    "Bursa Efek Indonesia",
@@ -6614,140 +6742,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/458699-menko-airlangga-kunjungi-booth-hyundai-ioniq-9-jadi-sorotan-di-giias-2026"
- },
- {
-  "slug": "cadangan-devisa-ri-tembus-us-145-3-miliar-per-juli",
-  "category": "Moneter",
-  "title": "Cadangan Devisa RI [Tembus] US$145,3 Miliar per Juli",
-  "deck": "Cadangan devisa Indonesia akhir Juli 2026 tercatat US$145,3 miliar, turun tipis dari US$145,6 miliar pada Juni, namun tetap setara 5,5 bulan pembiayaan impor.",
-  "date": "9 Agustus 2026",
-  "image": "assets/img/cadangan-devisa-ri-tembus-us-145-3-miliar-per-juli.jpg",
-  "imageV": "tjnrtf",
-  "tags": [
-   "cadangan devisa",
-   "Bank Indonesia",
-   "nilai tukar rupiah",
-   "utang luar negeri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/458696-cadangan-devisa-ri-tembus-us1453-miliar-bi-setara-pembiayaan-55-bulan-impor"
- },
- {
-  "slug": "indeks-kepuasan-layanan-haji-2026-capai-83-28",
-  "category": "Bisnis",
-  "title": "Indeks Kepuasan Layanan Haji 2026 Capai [83,28]",
-  "deck": "BPS mencatat skor kepuasan layanan haji musim 1447H/2026M sebesar 83,28, dengan layanan di ARMUZNA masih tertinggal di kategori cukup memuaskan.",
-  "date": "6 Agustus 2026",
-  "image": "assets/img/indeks-kepuasan-layanan-haji-2026-capai-83-28.jpg",
-  "imageV": "mss9fw5i",
-  "tags": [
-   "haji",
-   "BPS",
-   "kepuasan layanan",
-   "IKLHI"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2648",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026",
-  "category": "Industri",
-  "title": "Manufaktur RI Masuk Fase [Ekspansi] di Triwulan II-2026",
-  "deck": "BPS mencatat Indeks Kondisi dan Prospek Bisnis Manufaktur naik ke 52,31 pada triwulan II-2026, didorong pesanan dan produksi, meski tenaga kerja dan waktu kirim masih melemah.",
-  "date": "5 Agustus 2026",
-  "image": "assets/img/manufaktur-ri-masuk-fase-ekspansi-di-triwulan-ii-2026.jpg",
-  "imageV": "tjnm6o",
-  "tags": [
-   "IKBM",
-   "Manufaktur",
-   "BPS",
-   "Triwulan II-2026"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2646",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "tpt-turun-ke-4-65-persen-upah-buruh-rata-rata-rp3-39-juta",
-  "category": "Ketenagakerjaan",
-  "title": "TPT [Turun] ke 4,65 Persen, Upah Buruh Rata-rata Rp3,39 Juta",
-  "deck": "BPS mencatat Tingkat Pengangguran Terbuka turun ke 4,65 persen pada Mei 2026, sementara rata-rata upah buruh tercatat Rp3,39 juta per bulan.",
-  "date": "5 Agustus 2026",
-  "image": "assets/img/tpt-turun-ke-4-65-persen-upah-buruh-rata-rata-rp3-39-juta.jpg",
-  "imageV": "tjnm77",
-  "tags": [
-   "TPT",
-   "Sakernas",
-   "BPS",
-   "upah buruh"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2606",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekonomi-ri-tumbuh-5-29-persen-pada-triwulan-ii-2026",
-  "category": "Makroekonomi",
-  "title": "Ekonomi RI [Tumbuh] 5,29 Persen pada Triwulan II 2026",
-  "deck": "BPS mencatat ekonomi Indonesia tumbuh 5,29 persen (y-on-y) pada triwulan II 2026, ditopang lonjakan konsumsi pemerintah hampir 16 persen.",
-  "date": "5 Agustus 2026",
-  "image": "assets/img/ekonomi-ri-tumbuh-5-29-persen-pada-triwulan-ii-2026.jpg",
-  "imageV": "tjnm7w",
-  "tags": [
-   "PDB",
-   "BPS",
-   "Pertumbuhan Ekonomi",
-   "Triwulan II 2026"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2605",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "konsumsi-rumah-tangga-masih-menopang-92-persen-ekonomi-indonesia",
-  "category": "Makroekonomi",
-  "title": "Konsumsi Rumah Tangga Masih [Menopang] 92 Persen Ekonomi Indonesia",
-  "deck": "Ketua Umum Kadin Anindya Bakrie menegaskan konsumsi rumah tangga dan aktivitas dunia usaha menyumbang 92 persen produk domestik bruto Indonesia.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/konsumsi-rumah-tangga-masih-menopang-92-persen-ekonomi-indonesia.jpg",
-  "imageV": "tjnrtn",
-  "tags": [
-   "Kadin",
-   "PDB",
-   "Konsumsi Rumah Tangga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457008-92-pdb-ri-ditopang-konsumsi-dan-dunia-usaha-anindya-bakrie-tegaskan-kadin-siap-ikut-pacu-pertumbuhan-ekonomi",
-  "video": "Olhcihpm220"
- },
- {
-  "slug": "pertamax-cs-turun-lagi-awal-agustus-ini-rinciannya",
-  "category": "Energi",
-  "title": "Pertamax Cs Turun Lagi Awal Agustus, Ini [Rinciannya]",
-  "deck": "Pertamina Patra Niaga kembali menyesuaikan harga sejumlah BBM non-subsidi per 1 Agustus 2026.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/pertamax-cs-turun-lagi-awal-agustus-ini-rinciannya.jpg",
-  "imageV": "tjnrtn",
-  "tags": [
-   "BBM",
-   "Pertamina",
-   "Energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457073-harga-bbm-per-1-agustus-2026-pertamina-patra-niaga-turunkan-harga-pertamax"
- },
- {
-  "slug": "emas-antam-dibuka-turun-rp20-ribu-per-gram-di-awal-agustus",
-  "category": "Pasar Modal",
-  "title": "Emas Antam Dibuka Turun [Rp20 Ribu] per Gram di Awal Agustus",
-  "deck": "Harga emas batangan Antam terkoreksi di hari pertama Agustus 2026, memutus tren penguatan pekan sebelumnya.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/emas-antam-dibuka-turun-rp20-ribu-per-gram-di-awal-agustus.jpg",
-  "imageV": "tjnrto",
-  "tags": [
-   "Emas Antam",
-   "Komoditas",
-   "Investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
-  "video": "lG5dhNFKi3g"
  }
 ];

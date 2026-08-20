@@ -3,11 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BAJA raih laba Rp21,3 miliar, utang [berelasi] Rp349 M jatuh tempo",
+  "deck": "SCB catat laba bersih Rp21,33 miliar semester I 2026 dan siapkan PMHMETD untuk menata utang ke pihak berelasi Rp348,86 miliar yang jatuh tempo setahun ke depan.",
+  "image": "assets/img/analis-rapat.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T08:51:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ba2189153e_e56a5f6170.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "suspensi saham",
+   "PMHMETD",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia membuka kembali suspensi perdagangan saham Saranacentral Bajatama Tbk (BAJA) per 19 Agustus 2026. Dalam keterbukaan informasi yang ditandatangani Direktur Utama Handaja Susanto, perseroan menyampaikan alasan pembukaan suspensi tersebut adalah perbaikan kinerja semester I 2026 dibandingkan periode yang sama tahun lalu, serta rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) I yang disebut akan memperbaiki struktur neraca perusahaan.",
+   "Berdasarkan laporan keuangan interim per 30 Juni 2026 yang belum diaudit, penjualan bersih BAJA tercatat Rp634,54 miliar, naik 85,8 persen dari Rp341,63 miliar pada semester I 2025. Laba kotor melonjak dari Rp8,98 miliar menjadi Rp50,47 miliar, sehingga margin laba kotor naik dari sekitar 2,6 persen menjadi 8,0 persen. Perusahaan yang tahun lalu merugi usaha Rp5,01 miliar kini membukukan laba usaha Rp40,89 miliar, dan laba bersihnya menjadi Rp21,33 miliar, berbalik dari rugi bersih Rp16,53 miliar pada semester I 2025.",
+   "Di sisi neraca, ekuitas perseroan naik 100,6 persen menjadi Rp42,68 miliar per 30 Juni 2026 dari Rp21,28 miliar pada akhir 2025, terutama karena laba komprehensif periode berjalan sekitar Rp21,40 miliar. Total aset naik dari Rp684,67 miliar menjadi Rp769,45 miliar, kas dan bank naik dari Rp11,35 miliar menjadi Rp24,21 miliar, dan aset lancar naik dari Rp538,83 miliar menjadi Rp620,17 miliar. Defisit modal kerja perseroan juga mengecil, dari sekitar Rp116,24 miliar pada akhir 2025 menjadi sekitar Rp98,22 miliar per 30 Juni 2026.",
+   "Perseroan menyebut rencana PMHMETD masih dalam proses memperoleh pernyataan efektif dari Otoritas Jasa Keuangan, dan dananya diarahkan antara lain untuk menata kewajiban kepada pihak berelasi yang per 30 Juni 2026 tercatat sekitar Rp348,86 miliar dan diklasifikasikan sebagai kewajiban yang jatuh tempo dalam satu tahun."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rolls of galvanized steel sheeting on a factory production line, sparks and industrial machinery in the background",
+  "takeaway": "Saya menilai laporan ini netral, bukan murni positif: lonjakan penjualan dan kembalinya laba bersih memang nyata, tapi risiko utang jangka pendek yang jauh lebih besar dari modal sendiri perusahaan belum tertutup oleh perbaikan itu. Ekuitas, yaitu selisih antara total aset dan seluruh utang perusahaan, memang naik dua kali lipat menjadi Rp42,68 miliar karena laba mulai positif, tapi angka itu masih jauh di bawah utang ke pihak berelasi atau pihak yang punya hubungan kepemilikan dan pengelolaan dengan perusahaan, sebesar Rp348,86 miliar yang harus dilunasi dalam satu tahun. Rencana PMHMETD, yaitu penjualan saham baru kepada pemegang saham lama dengan hak didahulukan untuk membeli, disiapkan untuk menutup kewajiban itu, tapi penerbitan saham baru akan menambah jumlah saham beredar sehingga laba per saham setiap pemegang saham lama berpotensi terdilusi. Yang perlu dipantau berikutnya adalah pernyataan efektif dari Otoritas Jasa Keuangan atas rencana PMHMETD ini, sebab dokumen belum menyebut tanggal pastinya, sementara utang Rp348,86 miliar itu sudah jatuh tempo dalam setahun ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smmf-sahkan-rupst-lewat-keputusan-sirkuler-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMF Sahkan RUPST Lewat [Keputusan Sirkuler] Pemegang Saham",
+  "deck": "RUPST PT Sinar Mas Multifinance disahkan lewat keputusan sirkuler pada 19 Agustus 2026, disetujui penuh oleh dua pemegang saham yang menguasai seluruh 1,55 juta saham perseroan.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T08:50:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9c793e798_567da91da4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMF",
+  "tags": [
+   "SMMF",
+   "RUPST",
+   "Sinar Mas Multifinance",
+   "Multifinance"
+  ],
+  "body": [
+   "PT Sinar Mas Multifinance (SMMF) melaporkan hasil Rapat Umum Pemegang Saham Tahunan (RUPST) yang digelar 19 Agustus 2026 di Jakarta. Keputusan itu dituangkan dalam Akta Pernyataan Keputusan Sirkuler Nomor 1302 tanggal 19 Agustus 2026 yang dibuat notaris Syofilawati, SH di Kota Bekasi. Karena berbentuk keputusan sirkuler, sesuai Pasal 91 UU Perseroan Terbatas, keputusan diambil tanpa rapat fisik tapi tetap sah karena ditandatangani seluruh pemegang saham yang mewakili 1.550.000 saham, atau 100 persen dari total saham beredar perseroan.",
+   "Dari total saham tersebut, PT Sinar Mas Multiartha Tbk (SMMA) menguasai 1.549.999 saham, diwakili oleh Burhanuddin Abdullah, sementara PT Sinartama Gunita memegang 1 saham, diwakili oleh Rasidah Binti Haji Mahadi dan Felix selaku Direktur Utama dan Direktur perusahaan tersebut. Dengan komposisi ini, SMMF praktis dikendalikan penuh oleh SMMA sebagai pemegang saham hampir tunggal.",
+   "Para pemegang saham menyetujui seluruh mata acara RUPST. Isinya meliputi persetujuan Laporan Tahunan 2025, termasuk laporan Direksi dan laporan pengawasan Dewan Komisaris, serta pengesahan laporan keuangan untuk tahun buku yang berakhir 31 Desember 2025, sekaligus pembebasan tanggung jawab penuh (acquit et de charge) kepada Direksi dan Dewan Komisaris atas tindakan pengurusan selama 2025, sepanjang tercermin dalam laporan tersebut dan bukan tindak pidana. Pemegang saham juga menyetujui penggunaan laba bersih tahun buku 2025 tanpa merinci besarannya di dokumen ini, menetapkan remunerasi Dewan Komisaris sampai Desember 2026, serta menunjuk Kantor Akuntan Publik untuk mengaudit laporan keuangan tahun buku 2026, dengan wewenang bagi Direksi menetapkan honorarium dan syarat penunjukannya."
+  ],
+  "fotoAdegan": "Modern glass office tower in Jakarta's financial district photographed from street level at midday, palm trees in foreground",
+  "takeaway": "Laporan ini netral bagi SMMF karena seluruh keputusan RUPST bersifat rutin: laporan tahunan disetujui, penggunaan laba dibahas tanpa angka dividen, dan tidak ada perubahan susunan pengurus yang diumumkan. Yang tersentuh dari sisi kinerja adalah pos ekuitas perseroan, sebab keputusan soal penggunaan laba bersih 2025 menentukan apakah laba itu disisihkan jadi laba ditahan yang memperkuat modal perusahaan atau dibagikan sebagai dividen ke pemegang saham, meski dokumen ini belum merinci pilihan mana yang diambil. Struktur kepemilikan yang terungkap, yakni SMMA menguasai 1.549.999 dari 1.550.000 saham, menegaskan SMMF berfungsi sebagai anak usaha yang nyaris seluruhnya dikendalikan induknya, sehingga keputusan RUPST ini secara praktik hanya formalitas administratif dari satu pemegang saham pengendali. Yang perlu dipantau berikutnya adalah pengumuman lanjutan soal besaran penggunaan laba bersih serta nama Kantor Akuntan Publik yang ditunjuk untuk mengaudit laporan keuangan tahun buku 2026, karena kedua hal itu belum dirinci dalam laporan keterbukaan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nayz-ganti-pengendali-saiko-kuasai-29-41-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ ganti [pengendali], Saiko kuasai 29,41% saham",
+  "deck": "Saiko Consultancy Pte. Ltd. resmi menjadi pengendali baru NAYZ usai membeli 750 juta saham senilai Rp17,6 miliar dari PT Asia Intrainvesta.",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T08:35:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e8de72d99b_e3116db65b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "perubahan pengendali",
+   "akuisisi",
+   "tender offer"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) melaporkan kepada Bursa Efek Indonesia bahwa Saiko Consultancy Pte. Ltd., perusahaan asal Singapura, telah mengambil alih 750.000.000 saham NAYZ milik PT Asia Intrainvesta, pemegang saham pengendali sebelumnya. Transaksi rampung pada 19 Agustus 2026 dengan harga Rp23,5 per saham, sehingga nilai totalnya mencapai Rp17.625.000.000. Dengan pembelian ini, Saiko kini menguasai 29,41 persen saham NAYZ dan resmi menjadi pemegang saham pengendali baru perseroan, menggantikan Asia Intrainvesta.",
+   "Peralihan ini merupakan pelaksanaan dari perjanjian jual beli bersyarat (Conditional Sale and Purchase Agreement) yang diteken Saiko dan Asia Intrainvesta pada 30 Juli 2026, setelah Saiko lebih dulu menyampaikan pemberitahuan rencana pengambilalihan pada 31 Juli 2026. Manajemen menyebut tujuan akuisisi ini sebagai bagian dari strategi ekspansi dan penguatan bisnis Saiko. Sebelum transaksi ini, Saiko tidak memiliki hubungan afiliasi dengan NAYZ maupun dengan pemegang saham NAYZ lainnya.",
+   "Sebagai pengendali baru, Saiko menunjuk PT Saiko Consultancy Grand (SCG), yang sahamnya 99,98 persen dimiliki langsung oleh Saiko, untuk melaksanakan penawaran tender wajib kepada pemegang saham publik NAYZ sesuai Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka. Saiko sendiri dimiliki oleh tiga individu, yaitu Nusttanakit Sasiarnon dan Sawin Laosethakul yang masing-masing memegang 35 persen saham, serta Mark Leong Kei Wei dengan 30 persen saham. Sawin Laosethakul dan Mark Leong Kei Wei juga tercatat sebagai direktur Saiko."
+  ],
+  "fotoAdegan": "Workers moving boxes of packaged baby food products inside a modern warehouse loading bay, forklift nearby, daylight through open doors",
+  "takeaway": "Transaksi ini netral bagi fundamental NAYZ karena dana Rp17,6 miliar mengalir dari Saiko ke Asia Intrainvesta selaku penjual, bukan masuk ke kas perusahaan, sehingga tidak ada tambahan modal kerja bagi perseroan. Yang berubah hanyalah kepemilikan dan hak suara pengendali, sementara jumlah saham beredar dan laba per saham NAYZ tidak ikut berubah karena ini jual beli saham lama, bukan penerbitan saham baru. Yang perlu dicermati pemegang saham publik NAYZ adalah pelaksanaan penawaran tender wajib oleh PT Saiko Consultancy Grand sesuai POJK 9/2018, karena di sanalah pemegang saham publik akan mendapat kesempatan menjual sahamnya kepada pengendali baru, sementara harga dan jadwal penawarannya belum diumumkan dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "avia-kantongi-dividen-interim-rp100-miliar-dari-tirta",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Kantongi [Dividen] Interim Rp100 Miliar dari Tirta",
+  "deck": "PT Avia Avian Tbk menerima dividen interim sebesar Rp99,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, pada 19 Agustus 2026.",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T08:14:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96da3b2970_a5de55c464.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Avia Avian",
+   "Tirtakencana Tatawarna"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) melaporkan penerimaan dividen interim dari anak usahanya, PT Tirtakencana Tatawarna (Tirta), sebesar Rp99.999.929.387,00, hampir menyentuh Rp100 miliar. Tanggal kejadian tercatat 19 Agustus 2026, dan keterbukaan informasi ini disampaikan kepada Otoritas Jasa Keuangan (OJK) dan Bursa Efek Indonesia (BEI) keesokan harinya, 20 Agustus 2026.",
+   "Tirta adalah perusahaan yang sahamnya dimiliki 99,9999% oleh AVIA, sehingga praktis berstatus anak usaha penuh dari emiten produsen cat dan tinta cetak ini. Dalam suratnya, Direktur AVIA Kurnia Hadi Sinanto menyatakan bahwa penerimaan dividen tersebut tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan turut ditandatangani oleh Sekretaris Perusahaan Hera Septi Astuti dan merujuk pada Peraturan OJK No. 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material."
+  ],
+  "fotoAdegan": "Workers inspecting rows of colorful paint drums and industrial mixing tanks inside a large paint factory, daylight through overhead skylights",
+  "takeaway": "Laporan ini bersifat netral bagi AVIA, karena dividen dari Tirta pada dasarnya hanya perpindahan kas dari anak usaha ke induk yang sudah tercermin dalam laba konsolidasi perseroan, bukan tambahan keuntungan baru. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar berpindah tangan, bukan sekadar angka di atas kertas; hampir Rp100 miliar kini tersedia langsung di kas AVIA sebagai entitas publik, yang bisa dipakai untuk membayar dividen ke pemegang saham, melunasi utang, atau membiayai ekspansi tanpa harus mencari pinjaman baru. Karena Tirta nyaris seluruhnya dikuasai AVIA, ekuitas konsolidasi perseroan tidak berubah, hanya lokasi kasnya yang berpindah dari anak usaha ke induk. Dokumen ini tidak mencantumkan agenda lanjutan seperti RUPS atau tenggat tertentu, sehingga yang bisa dipantau publik selanjutnya adalah ke mana tambahan kas ini dialokasikan dalam laporan keuangan kuartal ketiga 2026 milik AVIA.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mine-batalkan-rupslb-agenda-pergantian-direksi-molor",
   "category": "Aksi Korporasi",
   "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
   "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T00:00:22",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
@@ -111,7 +215,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
   "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/konpers-emiten.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T19:24:04",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1fd338212c_4ff0cba4be.pdf",
@@ -217,7 +321,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
   "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T18:17:39",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fbc73f0b13_a60a0a96b6.pdf",
@@ -239,11 +343,37 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "isat-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "Menjawab surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Indosat menyatakan tidak ada informasi material tersembunyi dan tidak ada aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T17:54:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af2b77af4b_933f238ebd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISAT",
+  "tags": [
+   "ISAT",
+   "Indosat",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Indosat Tbk mengirim surat balasan bernomor 178/AY0-AYD/LGL/26 pada 19 Agustus 2026 pukul 17.54, menanggapi permintaan penjelasan dari Bursa Efek Indonesia bernomor S-10757/BEI.PP2/08-2026 terkait volatilitas transaksi efek ISAT. Surat ditandatangani oleh Reski Damayanti selaku Direktur, Chief Legal and Regulatory Officer sekaligus Sekretaris Perusahaan Indosat.",
+   "Dalam surat itu, Indosat menjawab enam poin pertanyaan standar dari BEI. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efeknya, baik menurut aturan POJK 31/2015 maupun Peraturan Bursa Nomor I-E. Indosat juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta memastikan tidak memiliki rencana aksi korporasi yang akan memengaruhi status pencatatan sahamnya di bursa dalam tiga bulan ke depan.",
+   "Untuk poin keenam, yang meminta Sekretaris Perusahaan mengonfirmasi langsung ke pemegang saham utama, Indosat menyampaikan bahwa pemegang saham utama berencana tetap memberikan dukungan kepada manajemen dalam menjalankan visi dan misi perseroan ke depan. Surat BEI yang memicu tanggapan ini terbit karena adanya pergerakan transaksi saham ISAT yang dinilai bursa tidak wajar, sehingga emiten diwajibkan mengonfirmasi ada tidaknya informasi yang belum terbuka ke publik."
+  ],
+  "fotoAdegan": "Traders in a Jakarta brokerage office watching blurred fluctuating line charts on distant monitors, dim evening lighting",
+  "takeaway": "Penilaian saya netral bagi ISAT, karena isi surat ini murni bantahan formal bahwa tidak ada informasi tersembunyi, tanpa satu pun angka keuangan atau langkah bisnis baru yang mengubah kondisi perusahaan. Surat semacam ini keluar setiap kali BEI mencurigai ada lonjakan harga atau volume transaksi saham yang tidak wajar, dan tujuannya melindungi investor dari ikut membeli atau menjual hanya berdasarkan rumor tanpa dasar. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham yang tersentuh dalam jawaban Indosat, sehingga gambaran fundamental perseroan tetap sama seperti sebelumnya. Yang perlu dipantau adalah konsistensi antara janji Indosat tidak akan ada aksi korporasi dalam tiga bulan ke depan dengan realisasinya, serta agenda RUPSLB yang sudah dijadwalkan pada 29 September 2026 namun sampai saat ini isi agendanya belum diungkap ke publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat",
   "category": "Aksi Korporasi",
   "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
   "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T17:40:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
@@ -323,7 +453,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:22:08",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
@@ -349,7 +479,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
-  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:19:36",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
@@ -375,7 +505,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
   "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:16:52",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aef620d48b_51eb97d8f6.pdf",
@@ -482,7 +612,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
   "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/paparan-publik.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T15:02:57",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e23e8146ba_de8727a358.pdf",
@@ -724,7 +854,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
   "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T11:49:08",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/31c1badcaf_54ea5e47f8.pdf",
@@ -1397,7 +1527,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
   "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/rapat-komite.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T19:16:38",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
@@ -1423,7 +1553,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
   "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/lobi-lift-kantor.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:52:55",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2aea432f5a_1ff86d59bc.pdf",
@@ -1449,7 +1579,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
   "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:36:12",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
@@ -1468,6 +1598,84 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Staff arranging rows of chairs in a corporate conference hall inside a Jakarta office tower, soft morning light through glass windows",
   "takeaway": "Pengumuman ini netral bagi fundamental IRSX karena isinya baru sebatas jadwal dan tenggat administratif, belum memuat keputusan atau agenda rapat yang bisa langsung dinilai dampaknya. Yang perlu dicermati pemegang saham adalah pos jumlah saham beredar dan laba per saham, sebab perseroan sebelumnya sudah mengumumkan rencana rights issue hingga 12,39 miliar saham baru, dan RUPSLB kali ini berpotensi menjadi forum yang membahas persetujuannya meski dokumen ini sendiri belum mengonfirmasi agendanya. Jika rights issue itu disetujui, jumlah saham beredar akan bertambah besar sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menyerap haknya. Yang perlu dipantau berikutnya adalah batas usul mata acara pada 26 Agustus 2026, terbitnya undangan resmi berisi agenda lengkap pada 2 September 2026, tanggal pencatatan pemegang saham pada 1 September 2026, dan pelaksanaan RUPSLB sendiri pada 24 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Kantongi Peringkat [idB] untuk Tiga Obligasi Rp375,4 Miliar",
+  "deck": "PEFINDO mempertahankan peringkat idB dengan outlook stabil untuk PT PP Properti Tbk dan tiga seri obligasinya senilai total Rp375,4 miliar, berlaku hingga 1 Agustus 2027.",
+  "image": "assets/img/meja-notaris.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T18:28:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9a9925245f_4903cf2666.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "PEFINDO",
+   "obligasi korporasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menerbitkan hasil pemantauan pemeringkatan tahunan atas PT PP Properti Tbk (PPRO) beserta tiga seri obligasi berkelanjutannya. Komite Pemeringkatan PEFINDO memutuskan peringkat idB dengan outlook stabil untuk PPRO dan seluruh obligasinya, berlaku untuk periode 7 Agustus 2026 sampai 1 Agustus 2027. Keputusan diambil dalam rapat komite pada Jumat, 7 Agustus 2026, dan hasilnya disampaikan ke manajemen PPRO melalui surat nomor RC-1062/PEF-DIR/VIII/2026 yang diterima perusahaan pada 18 Agustus 2026, ditandatangani Direktur PEFINDO Ignatius Girendroheru dan Hendro Utomo.",
+   "Tiga obligasi yang dinilai adalah Obligasi Berkelanjutan II PP Properti Tahap I Tahun 2020 Seri B senilai Rp47,9 miliar, Tahap III Tahun 2021 Seri B senilai Rp164 miliar, dan Tahap IV Tahun 2022 Seri B senilai Rp163,5 miliar. Total ketiganya mencapai Rp375,4 miliar, dengan tanggal jatuh tempo yang tercatat sama yaitu 17 Februari 2045. Ketiganya mendapat peringkat idB dengan outlook stabil, sejalan dengan peringkat korporasi PPRO. Penilaian ini didasarkan pada laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025.",
+   "Dalam suratnya, PEFINDO menjelaskan bahwa obligor dengan peringkat idB dinilai memiliki kapasitas yang lemah untuk memenuhi komitmen keuangan jangka panjangnya dibandingkan obligor Indonesia lainnya, dan kondisi bisnis, keuangan, atau ekonomi yang memburuk berpotensi memperlemah kemampuan itu lebih jauh. PEFINDO juga mengingatkan bahwa PPRO wajib menyampaikan setiap informasi atau fakta material yang dapat memengaruhi hasil pemeringkatan paling lambat dua hari kerja sejak kejadian, sesuai POJK Nomor 24/POJK/2021. Laporan ini ditandatangani secara elektronik oleh VP Corporate Secretary PPRO, Dyah Novian Tri Hadini."
+  ],
+  "fotoAdegan": "Apartment towers under construction with tower cranes against a hazy Jakarta skyline in late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi PPRO, sebab peringkat idB yang dipertahankan PEFINDO tergolong rendah dan secara eksplisit menandakan kapasitas keuangan yang lemah untuk memenuhi kewajiban utang jangka panjang, bukan sekadar formalitas tahunan. Peringkat kredit seperti ini berkaitan erat dengan arus kas perusahaan, karena mencerminkan penilaian lembaga pemeringkat atas kemampuan PPRO membayar bunga dan pokok utang tepat waktu; semakin rendah peringkatnya, biasanya semakin mahal pula biaya bunga yang harus ditanggung saat perusahaan menerbitkan utang baru atau memperpanjang obligasi yang jatuh tempo. Yang perlu dipantau berikutnya adalah kewajiban PPRO melaporkan setiap fakta material ke PEFINDO paling lambat dua hari kerja sejak kejadian, serta hasil pemantauan peringkat berikutnya sebelum periode saat ini berakhir pada 1 Agustus 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus",
+  "category": "Aksi Korporasi",
+  "title": "BAJA Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Agustus",
+  "deck": "Bursa Efek Indonesia memasukkan saham Saranacentral Bajatama (BAJA) ke daftar Efek Dalam Pemantauan Khusus, efektif 19 Agustus 2026, terkait riwayat suspensi perdagangan.",
+  "image": "assets/img/resepsionis-korporat.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T18:14:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdf97c5c2a_1f5adc96c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BAJA",
+   "Pemantauan Khusus",
+   "BEI",
+   "Saranacentral Bajatama"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan saham PT Saranacentral Bajatama Tbk (BAJA), emiten Papan Pengembangan, masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Status ini tercantum dalam pengumuman resmi bernomor Peng-PK-00058/BEI.PLP/08-2026 yang diterbitkan pada 18 Agustus 2026 pukul 18.14 WIB, ditandatangani oleh Kadiv Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar. Status masuk pemantauan khusus ini mulai berlaku efektif 19 Agustus 2026.",
+   "Dalam tabel pengumuman, kode kriteria yang tercatat untuk BAJA adalah nomor 10 dari 11 kriteria yang diatur BEI, dengan keterangan berstatus Masuk (Enter). Kriteria nomor 10 dalam aturan bursa merujuk pada perusahaan tercatat yang pernah dikenakan penghentian sementara perdagangan efek selama lebih dari satu hari bursa akibat aktivitas perdagangan saham itu sendiri. Sepuluh kriteria lain yang dicantumkan BEI sebagai acuan umum mencakup antara lain harga saham rata-rata di bawah Rp51, likuiditas rendah, opini disclaimer dari auditor, ekuitas negatif, hingga kondisi permohonan PKPU atau pailit, namun kriteria-kriteria itu bersifat daftar rujukan umum dan bukan alasan spesifik yang tercatat untuk BAJA dalam pengumuman ini.",
+   "BEI tidak mencantumkan rincian tambahan seperti nilai transaksi, volume, atau kondisi keuangan BAJA secara spesifik dalam pengumuman ini. Bursa hanya menegaskan bahwa perubahan status efektif berlaku sejak 19 Agustus 2026 dan mengarahkan publik untuk memeriksa daftar lengkap melalui laman resmi idx.co.id dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Rolled steel sheet coils stacked inside an industrial warehouse, workers in safety vests operating a forklift, dim overcast lighting",
+  "takeaway": "Masuknya BAJA ke daftar pemantauan khusus ini condong negatif bagi emiten, karena status tersebut merupakan penanda resmi dari bursa bahwa saham ini pernah bermasalah dalam pola perdagangannya, dalam hal ini sempat dihentikan sementara perdagangannya lebih dari satu hari bursa. Yang tersentuh di sini bukan laporan keuangan, melainkan status likuiditas dan kepercayaan pasar. Saham yang masuk pemantauan khusus biasanya jadi lebih sepi peminat karena investor menganggapnya berisiko lebih tinggi, sehingga jual beli bisa jadi lebih sulit dan harga lebih bergejolak dibanding saham dengan status normal. Yang perlu dipantau berikutnya adalah pergerakan status BAJA setelah tanggal efektif 19 Agustus 2026, termasuk apakah bursa mengubah mekanisme perdagangan sahamnya, serta langkah korporasi apa yang akan diambil manajemen BAJA untuk keluar dari status pemantauan khusus ini pada evaluasi periode berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T17:51:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a01fd2b7dd_ff42f94a29.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menjawab surat Bursa Efek Indonesia nomor S-10759/BEI.PP2/08-2026 tanggal 14 Agustus 2026 yang meminta penjelasan atas volatilitas transaksi efek perusahaan. Tanggapan resmi bernomor 041/VFI/CRSC/VIII/2026 disampaikan pada 18 Agustus 2026 oleh Corporate Secretary Zasa Pinkan Kinanti.",
+   "Dalam surat itu, VTNY menjawab enam poin pertanyaan standar dari bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan tidak mengetahui fakta yang memengaruhi harga saham sebagaimana diatur Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama atas kepemilikan sahamnya, Corporate Secretary menyatakan telah melakukan konfirmasi langsung kepada pemegang saham utama, namun sampai tanggal surat tidak ada informasi rencana apa pun yang disampaikan. Perseroan juga menegaskan tidak memiliki fakta atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Traders on the Indonesia Stock Exchange floor in Jakarta glancing at distant blurred ticker screens amid brisk foot traffic, midday light",
+  "takeaway": "Netral, sebab surat ini murni bantahan formal dan tidak membawa satu pun fakta baru yang bisa mengubah penilaian atas kinerja atau prospek perusahaan. Permintaan penjelasan seperti ini muncul ketika bursa mendeteksi pergerakan harga atau volume perdagangan saham yang di luar kebiasaan, dan tujuannya memastikan tidak ada informasi tersembunyi yang mendorong spekulasi di pasar. Dokumen ini tidak menyinggung pos kinerja apa pun, baik ekuitas, arus kas, maupun jumlah saham beredar, sehingga tidak ada perubahan fundamental yang bisa diverifikasi dari sini. Yang perlu dipantau selanjutnya adalah apakah pergerakan transaksi saham VTNY mereda setelah surat ini terbit, atau justru bursa melanjutkan pengawasan lebih lanjut karena volatilitas berlanjut.",
   "sentimen": "netral"
  },
  {

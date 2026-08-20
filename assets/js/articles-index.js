@@ -5,12 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BAJA raih laba Rp21,3 miliar, utang [berelasi] Rp349 M jatuh tempo",
+  "deck": "SCB catat laba bersih Rp21,33 miliar semester I 2026 dan siapkan PMHMETD untuk menata utang ke pihak berelasi Rp348,86 miliar yang jatuh tempo setahun ke depan.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/analis-rapat.jpg",
+  "tags": [
+   "BAJA",
+   "suspensi saham",
+   "PMHMETD",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ba2189153e_e56a5f6170.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmf-sahkan-rupst-lewat-keputusan-sirkuler-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMF Sahkan RUPST Lewat [Keputusan Sirkuler] Pemegang Saham",
+  "deck": "RUPST PT Sinar Mas Multifinance disahkan lewat keputusan sirkuler pada 19 Agustus 2026, disetujui penuh oleh dua pemegang saham yang menguasai seluruh 1,55 juta saham perseroan.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "SMMF",
+   "RUPST",
+   "Sinar Mas Multifinance",
+   "Multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9c793e798_567da91da4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-ganti-pengendali-saiko-kuasai-29-41-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ ganti [pengendali], Saiko kuasai 29,41% saham",
+  "deck": "Saiko Consultancy Pte. Ltd. resmi menjadi pengendali baru NAYZ usai membeli 750 juta saham senilai Rp17,6 miliar dari PT Asia Intrainvesta.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "tags": [
+   "NAYZ",
+   "perubahan pengendali",
+   "akuisisi",
+   "tender offer"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e8de72d99b_e3116db65b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "avia-kantongi-dividen-interim-rp100-miliar-dari-tirta",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Kantongi [Dividen] Interim Rp100 Miliar dari Tirta",
+  "deck": "PT Avia Avian Tbk menerima dividen interim sebesar Rp99,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, pada 19 Agustus 2026.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Avia Avian",
+   "Tirtakencana Tatawarna"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96da3b2970_a5de55c464.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mine-batalkan-rupslb-agenda-pergantian-direksi-molor",
   "category": "Aksi Korporasi",
   "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
   "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "tags": [
    "MINE",
    "RUPSLB",
@@ -74,7 +138,7 @@ var ARTICLES = [
   "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
   "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/konpers-emiten.jpg",
   "tags": [
    "INRU",
    "Toba Pulp Lestari",
@@ -138,7 +202,7 @@ var ARTICLES = [
   "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
   "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/konpers-emiten.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "CBDK",
    "buyback saham",
@@ -149,12 +213,28 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "isat-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "ISAT Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "Menjawab surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Indosat menyatakan tidak ada informasi material tersembunyi dan tidak ada aksi korporasi dalam tiga bulan ke depan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/tanda-tangan-akta.jpg",
+  "tags": [
+   "ISAT",
+   "Indosat",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af2b77af4b_933f238ebd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat",
   "category": "Aksi Korporasi",
   "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
   "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "TRJA",
    "volatilitas saham",
@@ -204,7 +284,7 @@ var ARTICLES = [
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "BIPP",
    "RUPSLB",
@@ -220,7 +300,7 @@ var ARTICLES = [
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/jabat-tangan-direksi.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "tags": [
    "HATM",
    "PMTHMETD",
@@ -236,7 +316,7 @@ var ARTICLES = [
   "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
   "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "tags": [
    "HUMI",
    "direksi",
@@ -303,7 +383,7 @@ var ARTICLES = [
   "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
   "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/paparan-publik.jpg",
   "tags": [
    "BEEF",
    "buyback saham",
@@ -455,7 +535,7 @@ var ARTICLES = [
   "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
   "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
   "tags": [
    "NPGF",
    "volatilitas saham",
@@ -878,7 +958,7 @@ var ARTICLES = [
   "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
   "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/rapat-komite.jpg",
   "tags": [
    "GIAA",
    "Garuda Indonesia",
@@ -894,7 +974,7 @@ var ARTICLES = [
   "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
   "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/lobi-lift-kantor.jpg",
   "tags": [
    "IRSX",
    "Folago Global Nusantara",
@@ -910,7 +990,7 @@ var ARTICLES = [
   "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
   "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "tags": [
    "IRSX",
    "RUPSLB",
@@ -918,6 +998,54 @@ var ARTICLES = [
    "rights issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PPRO Kantongi Peringkat [idB] untuk Tiga Obligasi Rp375,4 Miliar",
+  "deck": "PEFINDO mempertahankan peringkat idB dengan outlook stabil untuk PT PP Properti Tbk dan tiga seri obligasinya senilai total Rp375,4 miliar, berlaku hingga 1 Agustus 2027.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/meja-notaris.jpg",
+  "tags": [
+   "PPRO",
+   "PEFINDO",
+   "obligasi korporasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9a9925245f_4903cf2666.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus",
+  "category": "Aksi Korporasi",
+  "title": "BAJA Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Agustus",
+  "deck": "Bursa Efek Indonesia memasukkan saham Saranacentral Bajatama (BAJA) ke daftar Efek Dalam Pemantauan Khusus, efektif 19 Agustus 2026, terkait riwayat suspensi perdagangan.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/resepsionis-korporat.jpg",
+  "tags": [
+   "BAJA",
+   "Pemantauan Khusus",
+   "BEI",
+   "Saranacentral Bajatama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdf97c5c2a_1f5adc96c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
+  "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
+  "date": "18 Agustus 2026",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
+  "tags": [
+   "VTNY",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a01fd2b7dd_ff42f94a29.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6622,135 +6750,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457022-wadirut-oki-muraza-paparkan-upaya-strategis-pertamina-mendukung-ketahanan-energi-nasional"
- },
- {
-  "slug": "aplikasi-mobile-antar-bank-jakarta-raih-penghargaan-digital",
-  "category": "Perbankan",
-  "title": "Aplikasi Mobile Antar Bank Jakarta Raih [Penghargaan] Digital",
-  "deck": "Bank Jakarta meraih penghargaan Digital Excellence Awards 2026 lewat layanan JakOne Mobile.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/aplikasi-mobile-antar-bank-jakarta-raih-penghargaan-digital.jpg",
-  "imageV": "tjnru1",
-  "tags": [
-   "Bank Daerah",
-   "Digital Banking",
-   "Jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457035-jakone-mobile-antar-bank-jakarta-raih-digital-excellence-awards-2026"
- },
- {
-  "slug": "filantropi-dan-ekonomi-berbagi-menakar-peran-zakat-di-sektor-riil",
-  "category": "Bisnis",
-  "title": "Filantropi dan Ekonomi Berbagi: Menakar Peran [Zakat] di Sektor Riil",
-  "deck": "Diskusi soal kedermawanan sosial kembali mengemuka, bersinggungan dengan peran dana sosial keagamaan dalam ekonomi.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/filantropi-dan-ekonomi-berbagi-menakar-peran-zakat-di-sektor-riil.jpg",
-  "imageV": "tjnru1",
-  "tags": [
-   "Filantropi",
-   "Zakat",
-   "Ekonomi Sosial"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457006-mengapa-memuliakan-anak-yatim-begitu-istimewa-simak-7-keutamaannya"
- },
- {
-  "slug": "dari-kebun-di-batang-ke-pasar-dunia-cerita-kopi-naik-kelas",
-  "category": "UMKM",
-  "title": "Dari Kebun di Batang ke Pasar Dunia: Cerita [Kopi] Naik Kelas",
-  "deck": "Berawal dari kepedulian terhadap petani kopi di Batang, sebuah usaha rintisan berkembang hingga menjangkau pasar ekspor.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/dari-kebun-di-batang-ke-pasar-dunia-cerita-kopi-naik-kelas.jpg",
-  "imageV": "tjnru2",
-  "tags": [
-   "Kopi",
-   "UMKM",
-   "Ekspor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456985-bersama-bri-petani-kopi-asal-batang-sajikan-racikan-produk-hingga-jangkau-pasar-dunia"
- },
- {
-  "slug": "antisipasi-gejolak-global-tim-diplomasi-ekonomi-dikirim-ke-china-dan-m",
-  "category": "Global",
-  "title": "Antisipasi Gejolak Global, Tim Diplomasi Ekonomi Dikirim ke China dan [Mesir]",
-  "deck": "Presiden Prabowo menyiapkan langkah antisipasi krisis ekonomi dunia lewat penjajakan kerja sama dengan sejumlah negara.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/antisipasi-gejolak-global-tim-diplomasi-ekonomi-dikirim-ke-china-dan-m.jpg",
-  "imageV": "tjnru3",
-  "tags": [
-   "Global",
-   "Diplomasi Ekonomi",
-   "Presiden Prabowo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456785-prabowo-kirim-tim-ke-china-hingga-mesir-cari-formula-terbaik-antisipasi-krisis-dunia-panjang",
-  "video": "_ZV-tannxT8"
- },
- {
-  "slug": "sinyal-dari-istana-soal-calon-gubernur-bi-berikutnya",
-  "category": "Moneter",
-  "title": "Sinyal dari Istana soal Calon Gubernur [BI] Berikutnya",
-  "deck": "Presiden Prabowo melontarkan komentar santai soal posisi Pejabat Sementara Gubernur Bank Indonesia, Destry Damayanti.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/sinyal-dari-istana-soal-calon-gubernur-bi-berikutnya.jpg",
-  "imageV": "tjnru3",
-  "tags": [
-   "Bank Indonesia",
-   "Moneter",
-   "Kebijakan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456774-prabowo-guyon-soal-pjs-gubernur-bi-destry-oke-ya-tapi-nanti-terserah-dpr",
-  "video": "m1q86JjJ4Kg"
- },
- {
-  "slug": "efek-danantara-mulai-terasa-bumn-diarahkan-ke-pasar-global",
-  "category": "BUMN",
-  "title": "Efek Danantara Mulai Terasa, BUMN Diarahkan ke Pasar [Global]",
-  "deck": "BKI mempercepat transformasi bisnis seiring penguatan ekosistem BUMN melalui Danantara.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/efek-danantara-mulai-terasa-bumn-diarahkan-ke-pasar-global.jpg",
-  "imageV": "tjnru4",
-  "tags": [
-   "BUMN",
-   "Danantara",
-   "Transformasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456842-efek-danantara-mulai-terasa-arah-transformasi-bumn-kini-lebih-fokus-ke-pasar-global"
- },
- {
-  "slug": "ekosistem-digital-haji-dan-umrah-diperkuat-lewat-kemitraan-baru",
-  "category": "Perbankan",
-  "title": "Ekosistem Digital Haji dan Umrah Diperkuat lewat [Kemitraan] Baru",
-  "deck": "BPKH Limited bermitra dengan SAHL Group dan Bank Muamalat untuk memperkuat layanan digital perjalanan haji dan umrah.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/ekosistem-digital-haji-dan-umrah-diperkuat-lewat-kemitraan-baru.jpg",
-  "imageV": "tjnru5",
-  "tags": [
-   "BPKH",
-   "Haji",
-   "Syariah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456835-bpkh-gandeng-sahl-dan-muamalat-perkuat-ekosistem-perjalanan-haji-dan-umrah-melalui-digital"
- },
- {
-  "slug": "pertamina-dorong-agenda-esg-masuk-ke-lini-bisnis",
-  "category": "Energi",
-  "title": "Pertamina Dorong Agenda [ESG] Masuk ke Lini Bisnis",
-  "deck": "Pertamina mengintegrasikan prinsip lingkungan, sosial, dan tata kelola ke dalam transformasi bisnisnya.",
-  "date": "30 Juli 2026",
-  "image": "assets/img/pertamina-dorong-agenda-esg-masuk-ke-lini-bisnis.jpg",
-  "imageV": "tjnru6",
-  "tags": [
-   "Pertamina",
-   "ESG",
-   "Keberlanjutan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456789-pertamina-terus-perkuat-kapabilitas-dan-budaya-keberlanjutan-guna-dukung-transformasi-bisnis-berkelanjutan"
  }
 ];

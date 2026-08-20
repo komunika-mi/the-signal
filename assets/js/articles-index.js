@@ -5,12 +5,124 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mrei-beber-dampak-insiden-siber-ke-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
+  "deck": "Dalam public expose, MREI mengungkap insiden siber akhir 2025 menambah biaya digital forensik dan capex TI, serta memaksa penyusunan ulang laporan keuangan auditan 2025.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/analis-rapat.jpg",
+  "tags": [
+   "MREI",
+   "asuransi",
+   "insiden siber",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288008132d_0e2e716dcf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jgle-gelar-rupslb-ketiga-usai-dua-kali-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "JGLE Gelar RUPSLB Ketiga usai Dua Kali Gagal [Kuorum]",
+  "deck": "RUPSLB ketiga JGLE dijadwalkan 1 September 2026 setelah dua rapat sebelumnya gagal capai kuorum, dengan agenda tunggal penyesuaian klasifikasi usaha ke KBLI 2025.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-tangan-voting.jpg",
+  "tags": [
+   "JGLE",
+   "RUPSLB",
+   "KBLI 2025",
+   "kuorum"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e10c119c26_dd2a1a1a74.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "good-komisaris-sudhamek-tambah-6-79-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "GOOD: Komisaris Sudhamek [Tambah] 6,79 Juta Saham",
+  "deck": "Komisaris Garudafood, Sudhamek Agoeng Waspodo, menambah 6,79 juta saham GOOD senilai sekitar Rp2,72 miliar pada 13 Agustus 2026, menaikkan hak suaranya tipis dari 8,83 persen menjadi 8,85 persen.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/ruang-direksi.jpg",
+  "tags": [
+   "GOOD",
+   "Garudafood",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-4297-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-ubah-jadwal-rupslb-jadi-23-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
+  "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rups-emiten.jpg",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "jadwal rapat",
+   "Solusi Sinergi Digital"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9d1237cc57_e8bd840faf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ekad-jawab-bursa-tak-ada-kabar-baru-selain-loi-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Jawab Bursa: Tak Ada Kabar Baru Selain LOI [Akuisisi]",
+  "deck": "EKAD menegaskan ke Bursa bahwa volatilitas transaksi terkait LOI akuisisi ekuitas yang sudah diumumkan 12 Agustus, dan tak ada aksi korporasi baru dalam tiga bulan ke depan.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/lobi-bursa.jpg",
+  "tags": [
+   "EKAD",
+   "Ekadharma International",
+   "akuisisi ekuitas",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f5beed1b2_36196314e3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pege-hak-suara-pemegang-saham-turun-ke-6-8-usai-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
+  "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "tags": [
+   "PEGE",
+   "Panca Global Kapital",
+   "rights issue",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-5966-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-jadwalkan-public-expose-buntut-suspensi-cooling-down",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Jadwalkan Public Expose Buntut [Suspensi] Cooling Down",
+  "deck": "Perseroan menjadwalkan paparan publik insidentil pada 24 Agustus 2026 untuk menjelaskan suspensi cooling down atas sahamnya yang berlaku sejak 19 Agustus 2026.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/paparan-publik.jpg",
+  "tags": [
+   "BEEF",
+   "suspensi saham",
+   "public expose",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20edc84d62_cdb05d04fd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "akpi-komisaris-jual-492-800-saham-senilai-rp250-juta",
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
   "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "AKPI",
    "Argha Karya Prima",
@@ -26,7 +138,7 @@ var ARTICLES = [
   "title": "TCPI Panggil RUPSLB, Tunjuk [Komisaris] Baru",
   "deck": "PT Transcoal Pacific Tbk mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui penambahan satu anggota Dewan Komisaris baru.",
   "date": "20 Agustus 2026",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "tags": [
    "TCPI",
    "RUPSLB",
@@ -138,7 +250,7 @@ var ARTICLES = [
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
   "date": "19 Agustus 2026",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "tags": [
    "MEDS",
    "Komisaris",
@@ -324,6 +436,22 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "byan-jelaskan-ke-bursa-soal-volatilitas-harga-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
+  "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
+  "date": "19 Agustus 2026",
+  "image": "assets/img/konpers-emiten.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d5b3ac14de_16768422c2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1102,7 +1230,7 @@ var ARTICLES = [
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
   "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/lobi-bursa.jpg",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
   "tags": [
    "VTNY",
    "volatilitas saham",
@@ -1118,7 +1246,7 @@ var ARTICLES = [
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "TOBA",
    "MESOP",
@@ -1151,7 +1279,7 @@ var ARTICLES = [
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "AVIA",
    "earnings call",
@@ -1167,7 +1295,7 @@ var ARTICLES = [
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "tags": [
    "ELSA",
    "Elnusa",
@@ -1438,7 +1566,7 @@ var ARTICLES = [
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
   "date": "18 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "tags": [
    "LMPI",
    "Bursa Efek Indonesia",
@@ -6621,134 +6749,5 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/457107-harga-emas-antam-di-awal-agustus-turun-rp20000-per-gram",
   "video": "lG5dhNFKi3g"
- },
- {
-  "slug": "saham-telekomunikasi-jadi-incaran-analis-soroti-kebutuhan-infrastruktu",
-  "category": "Pasar Modal",
-  "title": "Saham Telekomunikasi Jadi Incaran, Analis Soroti Kebutuhan [Infrastruktur]",
-  "deck": "Minat investor terhadap emiten telekomunikasi meningkat, namun analis mengingatkan pembangunan infrastruktur jaringan masih perlu digenjot.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/saham-telekomunikasi-jadi-incaran-analis-soroti-kebutuhan-infrastruktu.jpg",
-  "imageV": "tjnrtp",
-  "tags": [
-   "Pasar Modal",
-   "Telekomunikasi",
-   "IHSG"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457076-saham-sektor-telekomunikasi-tarik-minat-investor-infrastruktur-perlu-ditingkatkan"
- },
- {
-  "slug": "berbeda-dari-pertamina-solar-di-spbu-shell-justru-naik",
-  "category": "Energi",
-  "title": "Berbeda dari Pertamina, Solar di SPBU Shell Justru [Naik]",
-  "deck": "Shell menaikkan harga solar per 1 Agustus 2026, berbanding terbalik dengan penyesuaian turun yang dilakukan Pertamina.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/berbeda-dari-pertamina-solar-di-spbu-shell-justru-naik.jpg",
-  "imageV": "tjnrtp",
-  "tags": [
-   "BBM",
-   "Shell",
-   "Solar"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457113-harga-bbm-jenis-solar-di-spbu-shell-resmi-naik-per-1-agustus-2026"
- },
- {
-  "slug": "bgn-siap-jalankan-putusan-mk-skema-anggaran-mbg-dibahas-kemenkeu",
-  "category": "Makroekonomi",
-  "title": "BGN Siap Jalankan Putusan MK, Skema Anggaran MBG Dibahas [Kemenkeu]",
-  "deck": "Kepala BGN menyebut skema anggaran program Makan Bergizi Gratis pascaputusan MK akan dibahas bersama Kementerian Keuangan.",
-  "date": "1 Agustus 2026",
-  "image": "assets/img/bgn-siap-jalankan-putusan-mk-skema-anggaran-mbg-dibahas-kemenkeu.jpg",
-  "imageV": "tjnrtq",
-  "tags": [
-   "MBG",
-   "BGN",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457072-bgn-tegaskan-siap-laksanakan-putusan-mk-soal-skema-anggaran-bakal-dibahas-kemenkeu",
-  "video": "rt6rcaFjEP4"
- },
- {
-  "slug": "transformasi-garuda-group-dipercepat-citilink-tambah-armada",
-  "category": "BUMN",
-  "title": "Transformasi Garuda Group Dipercepat, Citilink Tambah [Armada]",
-  "deck": "Danantara mendorong percepatan transformasi bisnis Garuda Indonesia Group. Citilink catat 43 armada hingga akhir semester I 2026.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/transformasi-garuda-group-dipercepat-citilink-tambah-armada.jpg",
-  "imageV": "tjnrtr",
-  "tags": [
-   "BUMN",
-   "Danantara",
-   "Penerbangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456895-danantara-percepat-transformasi-garuda-indonesia-group-citilink-operasikan-43-armada-hingga-akhir-semester-i-2026"
- },
- {
-  "slug": "pajak-umkm-online-bakal-turun-dari-20-ke-8-persen",
-  "category": "UMKM",
-  "title": "Pajak UMKM Online Bakal Turun dari 20 ke [8] Persen",
-  "deck": "Pemerintah tengah memproses penurunan beban pajak bagi pelaku UMKM yang berjualan lewat platform digital.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/pajak-umkm-online-bakal-turun-dari-20-ke-8-persen.jpg",
-  "imageV": "tjnrts",
-  "tags": [
-   "UMKM",
-   "Pajak",
-   "Ekonomi Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/456849-istri-menteri-umkm-sebut-pajak-umkm-online-sedang-diproses-turun-dari-20-ke-8-persen-kapan-realisasinya"
- },
- {
-  "slug": "menuju-b50-tata-kelola-biodiesel-dinilai-jadi-pekerjaan-rumah",
-  "category": "Energi",
-  "title": "Menuju B50, Tata Kelola Biodiesel Dinilai Jadi [Pekerjaan Rumah]",
-  "deck": "Penerapan campuran biodiesel 50 persen dinilai butuh penguatan regulasi agar memberi kepastian bagi pelaku industri.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/menuju-b50-tata-kelola-biodiesel-dinilai-jadi-pekerjaan-rumah.jpg",
-  "imageV": "tjnrts",
-  "tags": [
-   "Biodiesel",
-   "Energi",
-   "Sawit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457067-implementasi-b50-dinilai-perlu-didukung-tata-kelola-biodiesel-yang-kuat"
- },
- {
-  "slug": "bumi-resources-buka-kinerja-semester-i-batu-bara-masih-jadi-andalan",
-  "category": "Pasar Modal",
-  "title": "Bumi Resources Buka Kinerja [Semester I], Batu Bara Masih Jadi Andalan",
-  "deck": "Eksportir batu bara termal terbesar dunia asal Indonesia ini merilis laporan keuangan belum diaudit untuk paruh pertama 2026.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/bumi-resources-buka-kinerja-semester-i-batu-bara-masih-jadi-andalan.jpg",
-  "imageV": "tjnrtt",
-  "tags": [
-   "Batu Bara",
-   "Emiten",
-   "Komoditas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457054-bumi-resources-umumkan-kinerja-keuangan-semester-i-2026"
- },
- {
-  "slug": "telkom-catat-pertumbuhan-solid-di-paruh-pertama-2026",
-  "category": "BUMN",
-  "title": "Telkom Catat Pertumbuhan [Solid] di Paruh Pertama 2026",
-  "deck": "Pendapatan, EBITDA, dan laba bersih normalisasi Telkom tumbuh kuat seiring akselerasi transformasi di bawah Danantara.",
-  "date": "31 Juli 2026",
-  "image": "assets/img/telkom-catat-pertumbuhan-solid-di-paruh-pertama-2026.jpg",
-  "imageV": "tjnrtu",
-  "tags": [
-   "Telkom",
-   "BUMN",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/457041-akselerasi-transformasi-danantara-tlkm-30-pendapatan-ebitda-dan-laba-bersih-normalisasi-telkom-tumbuh-kuat-di-paruh-pertama-2026"
  }
 ];

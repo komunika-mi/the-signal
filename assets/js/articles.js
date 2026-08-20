@@ -3,11 +3,192 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mrei-beber-dampak-insiden-siber-ke-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
+  "deck": "Dalam public expose, MREI mengungkap insiden siber akhir 2025 menambah biaya digital forensik dan capex TI, serta memaksa penyusunan ulang laporan keuangan auditan 2025.",
+  "image": "assets/img/analis-rapat.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T12:11:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288008132d_0e2e716dcf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MREI",
+  "tags": [
+   "MREI",
+   "asuransi",
+   "insiden siber",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Maskapai Reasuransi Indonesia Tbk (MREI) melaporkan hasil public expose insidentil yang digelar Jumat, 14 Agustus 2026 pukul 13.00-13.30 WIB secara daring lewat Google Meet. Acara ini dihadiri Presiden Direktur Robby Loho, Direktur Keuangan Lukcimo Jahja, dan Direktur Anwar Cipto Syamsul, dengan empat peserta eksternal. Tiga agenda dibahas: gambaran umum perusahaan, penjelasan soal keterlambatan laporan keuangan auditan dan laporan tahunan untuk tahun buku 2025, serta perubahan susunan direksi.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan bahwa insiden siber yang terjadi pada akhir 2025 menimbulkan beban biaya berupa jasa digital forensik dan tambahan belanja modal (capex) untuk server serta penguatan infrastruktur keamanan sistem. Beban yang muncul di 2025 sudah dibukukan pada tahun itu, sementara pengeluaran di 2026 disesuaikan dengan proses perbaikan yang masih berjalan. Perusahaan menegaskan tidak ada indikasi kebocoran data milik klien, baik ceding, broker reasuransi, maupun tertanggung, dan hasil investigasi forensik independen sudah dilaporkan ke Otoritas Jasa Keuangan (OJK) yang turut mengevaluasi sistem keamanan TI perusahaan.",
+   "Terkait pergantian direksi, manajemen menegaskan perubahan itu tidak berkaitan dengan insiden siber maupun tekanan lain, melainkan karena berakhirnya masa jabatan Trinita Situmeang yang digantikan Anwar Cipto Syamsul. Manajemen juga menyampaikan bahwa insiden siber hanya merusak data hasil olahan, bukan data mentah (raw data), sehingga strategi dan rencana bisnis tidak berubah. Namun, perusahaan harus mengulang proses penyusunan laporan sesuai standar akuntansi asuransi IFRS 17 untuk menyelesaikan laporan keuangan auditan tahun buku 2025, yang menurut manajemen membutuhkan waktu dan tenaga besar."
+  ],
+  "fotoAdegan": "Rows of server racks in a dimly lit data center, an IT technician checking cables, blue indicator lights glowing softly",
+  "takeaway": "Laporan ini condong negatif bagi MREI, karena mengonfirmasi bahwa insiden siber akhir 2025 masih membebani perusahaan hingga pertengahan 2026, memicu keterlambatan laporan keuangan auditan dan menambah pengeluaran, meski tidak ada bukti data klien bocor. Pos yang tersentuh adalah beban biaya operasional, termasuk jasa digital forensik dan belanja modal (capex) untuk server dan sistem keamanan, yang menambah pengeluaran perusahaan tahun ini; investor memperhatikan ini karena beban ekstra bisa menekan laba, sementara laporan keuangan yang molor membuat publik dan regulator belum bisa menilai kondisi keuangan riil perusahaan. Proses ulang sesuai standar akuntansi asuransi IFRS 17, yakni aturan yang mengatur cara menghitung kewajiban dari polis asuransi, disebut memakan waktu dan tenaga besar sehingga berpotensi memperpanjang ketidakpastian ini. Yang perlu dipantau selanjutnya adalah kapan MREI akhirnya merampungkan laporan keuangan auditan dan laporan tahunan untuk tahun buku 2025, karena dokumen ini belum menyebutkan tanggal pastinya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "jgle-gelar-rupslb-ketiga-usai-dua-kali-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "JGLE Gelar RUPSLB Ketiga usai Dua Kali Gagal [Kuorum]",
+  "deck": "RUPSLB ketiga JGLE dijadwalkan 1 September 2026 setelah dua rapat sebelumnya gagal capai kuorum, dengan agenda tunggal penyesuaian klasifikasi usaha ke KBLI 2025.",
+  "image": "assets/img/rups-tangan-voting.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T11:57:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e10c119c26_dd2a1a1a74.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JGLE",
+  "tags": [
+   "JGLE",
+   "RUPSLB",
+   "KBLI 2025",
+   "kuorum"
+  ],
+  "body": [
+   "PT Graha Andrasentra Propertindo Tbk (JGLE) kembali memanggil pemegang sahamnya untuk Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), kali ini untuk yang ketiga kalinya, setelah dua upaya sebelumnya pada 11 Juni 2026 dan 23 Juni 2026 gagal memenuhi kuorum kehadiran. Rapat ketiga dijadwalkan pada Selasa, 1 September 2026 pukul 09.30 WIB di Aston Bogor Hotel & Resort, Perumahan Bogor Nirwana Residence, Jalan Dereded, Pahlawan, Kota Bogor Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham per penutupan perdagangan bursa pada 19 Agustus 2026.",
+   "Agenda RUPSLB ini hanya satu, yaitu persetujuan penyesuaian kegiatan usaha Perseroan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Peraturan itu terbit pada 17 Desember 2025 dan mewajibkan setiap pengguna KBLI menyesuaikan klasifikasi usahanya paling lambat enam bulan sejak diundangkan, yang jatuh sekitar pertengahan Juni 2026. Dengan kata lain, tenggat penyesuaian itu sudah lewat sejak sebelum RUPSLB kedua digelar, dan Perseroan baru bisa mendapat persetujuan pemegang saham lewat percobaan ketiga ini.",
+   "Pemegang saham dapat hadir secara fisik atau elektronik melalui aplikasi eASY.KSEI, dengan batas waktu menyatakan kehadiran, memberi kuasa, atau menyampaikan suara paling lambat pukul 12.00 WIB satu hari kerja sebelum rapat, yakni Senin, 31 Agustus 2026. Surat pemanggilan bernomor 107/L/GAP-CORSEC/SB/VIII/2026 ini ditandatangani oleh Santoso Budi selaku Corporate Secretary & Chief Legal Officer Perseroan."
+  ],
+  "fotoAdegan": "Empty hotel ballroom in Bogor set up with rows of chairs facing a stage, tropical light through tall windows, quiet morning ambience",
+  "takeaway": "Laporan ini netral bagi fundamental JGLE karena agendanya murni administratif, yaitu menyesuaikan kode klasifikasi usaha dengan aturan baru BPS, bukan transaksi yang mengubah kondisi keuangan Perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh oleh keputusan ini, karena penyesuaian KBLI hanya soal klasifikasi administratif kegiatan usaha di mata regulator, bukan perubahan operasi yang sesungguhnya. Yang lebih menarik dicermati justru polanya, dua RUPSLB berturut-turut gagal mencapai kuorum kehadiran, sebuah sinyal minimnya partisipasi pemegang saham publik yang perlu ditelusuri lebih lanjut meski dokumen ini sendiri tidak menjelaskan sebabnya. Yang perlu dipantau berikutnya adalah apakah RUPSLB ketiga pada 1 September 2026 ini akhirnya berhasil mencapai kuorum, mengingat aturan kuorum untuk pemanggilan ulang biasanya lebih longgar, dan bagaimana Perseroan menindaklanjuti kewajiban penyesuaian KBLI yang tenggatnya sudah terlewat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "good-komisaris-sudhamek-tambah-6-79-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "GOOD: Komisaris Sudhamek [Tambah] 6,79 Juta Saham",
+  "deck": "Komisaris Garudafood, Sudhamek Agoeng Waspodo, menambah 6,79 juta saham GOOD senilai sekitar Rp2,72 miliar pada 13 Agustus 2026, menaikkan hak suaranya tipis dari 8,83 persen menjadi 8,85 persen.",
+  "image": "assets/img/ruang-direksi.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T11:49:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-4297-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOOD",
+  "tags": [
+   "GOOD",
+   "Garudafood",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Anggota Dewan Komisaris PT Garudafood Putra Putri Jaya Tbk (GOOD), Sudhamek Agoeng Waspodo S, melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan. Dalam laporan bertanggal 20 Agustus 2026 itu, ia mencatat pembelian 6.792.536 lembar saham biasa secara tidak langsung dengan harga Rp400 per lembar pada 13 Agustus 2026, dengan tujuan investasi.",
+   "Sebelum transaksi, Sudhamek memegang 3.259.781.961 lembar saham GOOD atau setara 8,83 persen hak suara perusahaan. Setelah pembelian tersebut, jumlah sahamnya naik menjadi 3.266.574.497 lembar dan hak suaranya bertambah menjadi 8,85 persen. Laporan ini disampaikan sesuai kewajiban keterbukaan informasi berdasarkan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Workers packing snack food products on a conveyor belt inside a bright factory in Indonesia",
+  "takeaway": "Transaksi ini netral bagi GOOD karena ukurannya kecil, penambahan 6,79 juta saham itu cuma sekitar 0,2 persen dari saham yang sudah dipegang Sudhamek, dan hak suaranya nyaris tak bergerak dari 8,83 persen menjadi 8,85 persen. Yang tersentuh di sini adalah komposisi kepemilikan jajaran komisaris dan direksi, sesuatu yang biasa diamati pasar karena pembelian oleh orang dalam sering dibaca sebagai sinyal keyakinan terhadap prospek perusahaan, meski dalam kasus ini nilainya terlalu kecil untuk dianggap pernyataan sikap yang kuat. Yang perlu dipantau selanjutnya adalah apakah Sudhamek melanjutkan pola pembelian serupa di laporan-laporan berikutnya, mengingat aturan OJK mewajibkan setiap perubahan kepemilikan insider dilaporkan kembali setiap kali terjadi transaksi baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-ubah-jadwal-rupslb-jadi-23-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
+  "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T11:42:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9d1237cc57_e8bd840faf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "RUPSLB",
+   "jadwal rapat",
+   "Solusi Sinergi Digital"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) mengumumkan perubahan jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Jumat, 11 September 2026, mundur menjadi Rabu, 23 September 2026 pukul 14:00 WIB. Perubahan ini merujuk pada pengumuman RUPSLB sebelumnya yang terbit 7 Agustus 2026. Rapat akan digelar di Novotel Jakarta Mangga Dua Square, Ballroom Wakatobi lantai 3, dan diselenggarakan secara elektronik melalui aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pengumuman ditandatangani Direktur Utama WIFI, Hendrik Tee.",
+   "Perseroan menetapkan Senin, 31 Agustus 2026 pukul 16:00 WIB sebagai batas pencatatan pemegang saham (recording date) yang berhak hadir dan memberi suara dalam rapat. Pemanggilan resmi beserta mata acara rapat baru akan diumumkan pada Selasa, 1 September 2026, lewat situs web perseroan, Bursa Efek Indonesia, dan KSEI. Pemegang saham yang ingin mengusulkan mata acara rapat harus menyampaikannya tertulis dan diterima direksi paling lambat Senin, 24 Agustus 2026 pukul 16:00 WIB.",
+   "Untuk berpartisipasi, pemegang saham bisa hadir dan memberi suara elektronik lewat eASY.KSEI, memberi kuasa lewat surat kuasa konvensional atau e-Proxy elektronik hingga Selasa, 22 September 2026 pukul 12:00 WIB, atau hadir langsung di lokasi rapat dengan membawa fotokopi KTP. Perseroan menyebut kapasitas kehadiran fisik terbatas, dan pemegang saham yang datang setelah registrasi ditutup atau saat kapasitas penuh akan diarahkan mengikuti rapat secara elektronik."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage, chandeliers overhead, staff arranging equipment before an event",
+  "takeaway": "Laporan ini saya nilai netral bagi WIFI, sebab isinya murni penjadwalan ulang rapat, bukan keputusan atau angka yang mengubah kondisi keuangan perusahaan. Belum ada pos kinerja yang tersentuh di sini, baik ekuitas, arus kas, maupun jumlah saham beredar, karena mata acara RUPSLB yang sesungguhnya menentukan dampaknya belum diumumkan. Yang perlu dipantau adalah pemanggilan resmi berikut agenda rapat pada 1 September 2026, karena di situlah baru terlihat apakah RUPSLB ini membahas hal yang memengaruhi pemegang saham seperti perubahan modal atau pengurus. Pemegang saham yang ingin hadir juga perlu mencatat batas pencatatan 31 Agustus 2026 dan pelaksanaan rapat pada 23 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ekad-jawab-bursa-tak-ada-kabar-baru-selain-loi-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Jawab Bursa: Tak Ada Kabar Baru Selain LOI [Akuisisi]",
+  "deck": "EKAD menegaskan ke Bursa bahwa volatilitas transaksi terkait LOI akuisisi ekuitas yang sudah diumumkan 12 Agustus, dan tak ada aksi korporasi baru dalam tiga bulan ke depan.",
+  "image": "assets/img/lobi-bursa.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T11:24:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f5beed1b2_36196314e3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EKAD",
+  "tags": [
+   "EKAD",
+   "Ekadharma International",
+   "akuisisi ekuitas",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Ekadharma International Tbk (EKAD) menjawab permintaan penjelasan Bursa Efek Indonesia terkait volatilitas transaksi efek perseroan, sebagaimana diminta lewat surat nomor S-10807/BEI.PP3/08-2026 tertanggal 18 Agustus 2026. Dalam surat balasan bernomor LP-EI/043/VIII/2026 tertanggal 20 Agustus 2026, Corporate Secretary EKAD, Lie Phing, menyatakan bahwa perseroan sudah menyampaikan keterbukaan informasi terkait penandatanganan Letter of Intent for Equity Acquisition, atau nota kesepahaman pengambilalihan ekuitas, yang diteken pada 11 Agustus 2026 dan diumumkan ke publik sehari setelahnya, 12 Agustus 2026, lewat situs web Bursa maupun situs resmi perseroan.",
+   "Terkait kemungkinan aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, EKAD menyatakan tidak mengetahui adanya pergerakan dari pemegang saham tertentu selain informasi dari pemegang saham pengendali, PT Ekadharma Inti Perkasa, yang sudah diungkapkan dalam keterbukaan informasi 12 Agustus 2026 tersebut. Perseroan juga memastikan tidak memiliki rencana aksi korporasi lain dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di Bursa, dan menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik.",
+   "Soal rencana pengendali maupun pemegang saham utama terhadap kepemilikan sahamnya di EKAD, manajemen menyebut belum menerima informasi lebih lanjut dari pihak tersebut hingga surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of adhesive tape on an automated production line inside an industrial plant, morning light",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya hanya menegaskan ulang keterbukaan informasi yang sudah dipublikasikan sebelumnya, tanpa data baru soal nilai transaksi atau pihak yang diajak kerja sama. Pos yang berpotensi tersentuh justru ekuitas dan jumlah saham beredar, sebab rencana pengambilalihan lewat penyertaan modal semacam ini biasanya berujung pada penerbitan saham baru atau masuknya dana segar yang mengubah struktur permodalan, meski besarannya belum diungkap di sini. EKAD juga menegaskan tidak ada aksi korporasi lain yang akan memengaruhi status pencatatan sahamnya dalam tiga bulan ke depan, dan belum ada informasi baru dari pemegang saham pengendali PT Ekadharma Inti Perkasa soal rencana kepemilikannya. Yang perlu dipantau selanjutnya adalah kelanjutan dari nota kesepahaman akuisisi ekuitas yang diteken 11 Agustus 2026 itu, terutama kapan kesepakatan definitif berikut nilai dan pihak transaksinya diumumkan ke publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pege-hak-suara-pemegang-saham-turun-ke-6-8-usai-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
+  "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
+  "image": "assets/img/gong-pencatatan.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T11:15:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-5966-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEGE",
+  "tags": [
+   "PEGE",
+   "Panca Global Kapital",
+   "rights issue",
+   "hak suara"
+  ],
+  "body": [
+   "PT Mandiri Terang Harapan, pemegang saham tidak langsung PT Panca Global Kapital Tbk (PEGE), melaporkan ke Otoritas Jasa Keuangan bahwa hak suaranya di perseroan turun dari 9,06 persen menjadi 6,80 persen. Meski begitu, jumlah saham yang dipegangnya tetap di angka 256.833.500 lembar, tidak berubah dari posisi sebelumnya.",
+   "Penurunan hak suara ini berasal dari rangkaian transaksi yang tercatat dalam dokumen. Pada 10 Juli 2026, Mandiri Terang Harapan melaksanakan haknya memesan efek terlebih dahulu (HMETD) untuk memperoleh 29.963.908 saham baru PEGE dengan harga Rp100 per saham. Seluruh saham baru itu kemudian dilepas kembali dalam tiga transaksi dengan tujuan realisasi investasi, yaitu 5.000.000 saham seharga Rp110 pada 14 Agustus 2026, 2.289.800 saham seharga Rp112 pada 18 Agustus 2026, dan 22.674.108 saham seharga Rp110 pada 19 Agustus 2026. Total saham yang dijual, 29.963.908 lembar, persis sama dengan jumlah saham baru yang baru dieksekusi, sehingga kepemilikan absolutnya kembali ke titik semula.",
+   "Dokumen ini juga mencantumkan sisa jatah efek bersifat ekuitas yang belum dilaksanakan sebanyak 55.647.259 unit, dengan batas akhir periode pelaksanaan pada 17 Juli 2026, tanggal yang sudah lewat saat laporan ini disampaikan."
+  ],
+  "fotoAdegan": "Office workers crossing a plaza near tall financial district towers in Jakarta at midday, soft sunlight, brisk pace",
+  "takeaway": "Laporan ini netral bagi PEGE karena secara ekonomi posisi Mandiri Terang Harapan kembali ke titik semula, hak baru dari rights issue langsung dijual habis sehingga jumlah saham yang dipegangnya tidak berubah dari 256,8 juta lembar. Yang tersentuh di sini adalah jumlah saham beredar PEGE, karena penerbitan saham baru lewat rights issue membuat porsi kepemilikan pemegang lama otomatis mengecil meski jumlah lembarnya sama, itulah sebabnya hak suara Mandiri Terang Harapan turun dari 9,06 persen menjadi 6,80 persen walau ia tidak menjual sahamnya sendiri secara neto. Pemegang saham lain yang tidak ikut menyerap rights issue mengalami dilusi serupa, sehingga laba per saham berpotensi tertekan karena dibagi ke basis saham yang lebih besar. Dokumen ini juga mencatat sisa 55,6 juta unit hak yang belum dilaksanakan sudah melewati batas waktu pelaksanaan pada 17 Juli 2026, yang berarti kemungkinan besar sudah hangus. Pembaca perlu memantau apakah PEGE merilis laporan realisasi dana hasil rights issue untuk melihat berapa total modal segar yang benar-benar terkumpul dari aksi korporasi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beef-jadwalkan-public-expose-buntut-suspensi-cooling-down",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Jadwalkan Public Expose Buntut [Suspensi] Cooling Down",
+  "deck": "Perseroan menjadwalkan paparan publik insidentil pada 24 Agustus 2026 untuk menjelaskan suspensi cooling down atas sahamnya yang berlaku sejak 19 Agustus 2026.",
+  "image": "assets/img/paparan-publik.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T10:41:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20edc84d62_cdb05d04fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "suspensi saham",
+   "public expose",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Estika Tata Tiara Tbk (BEEF) melaporkan ke Bursa Efek Indonesia rencana penyelenggaraan Public Expose Insidentil, menyusul suspensi cooling down yang diberlakukan bursa atas perdagangan sahamnya pada 19 Agustus 2026 melalui surat No. Peng-SPT-00149/BEI.WAS/08-2026. Paparan publik akan digelar Senin, 24 Agustus 2026, pukul 14.00 WIB sampai selesai, melalui aplikasi Google Meeting Online, dengan agenda tunggal menjelaskan keterbukaan informasi terkait suspensi tersebut. Manajemen yang dijadwalkan hadir adalah seluruh jajaran Dewan Direksi perseroan.",
+   "Untuk mengikuti acara, calon peserta wajib mengonfirmasi pendaftaran lewat email ke corporatesecretary@estikafood.com dengan mencantumkan nama lengkap, nama institusi, dan nomor telepon genggam. Pendaftaran ditutup satu hari kerja sebelum acara, yakni 21 Agustus 2026, dan tautan Google Meet baru dikirim ke email terdaftar setelah masa pendaftaran itu berakhir. Identitas peserta saat login wajib sesuai dengan data yang didaftarkan, sementara materi paparan akan dibagikan paling lambat satu hari bursa sebelum acara berlangsung.",
+   "Surat pemberitahuan ini ditandatangani oleh Sekretaris Perusahaan Ratna Sari Ismianti dan merujuk pada Keputusan Bursa No. Kep-00066/BEI/09-2022 tentang Perubahan Peraturan Nomor I-E soal Kewajiban Penyampaian Informasi, serta Surat Edaran BEI No. SE-00003/BEI/05-2020 tentang tata cara pelaksanaan public expose secara elektronik."
+  ],
+  "fotoAdegan": "Workers moving beef carcasses on hooks inside a cold storage warehouse at an Indonesian meat processing plant",
+  "takeaway": "Laporan ini netral bagi fundamental BEEF karena isinya murni prosedural, jadwal dan tata cara paparan publik, tanpa angka baru soal kas, utang, atau jumlah saham beredar perseroan. Yang tersentuh bukan pos laporan keuangan, melainkan likuiditas perdagangan sahamnya, sebab suspensi cooling down adalah penghentian sementara transaksi yang dipasang bursa ketika harga sebuah saham melonjak sangat cepat dalam waktu singkat untuk meredam spekulasi berlebihan, bukan sanksi atas kondisi keuangan perusahaan. Suspensi ini muncul sehari setelah BEEF mengumumkan rampungnya program buyback 52,56 juta saham senilai Rp9,46 miliar, meski dokumen ini sendiri tidak menyebutkan penyebab lonjakan harga yang memicu suspensi. Yang perlu dipantau adalah paparan publik pada Senin, 24 Agustus 2026 pukul 14.00 WIB, di mana direksi wajib menjelaskan duduk perkara suspensi tersebut, dengan materi paparan yang seharusnya sudah beredar paling lambat sehari bursa sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "akpi-komisaris-jual-492-800-saham-senilai-rp250-juta",
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
   "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T09:49:13",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6804-00.pdf-0.pdf",
@@ -33,7 +214,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "TCPI Panggil RUPSLB, Tunjuk [Komisaris] Baru",
   "deck": "PT Transcoal Pacific Tbk mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui penambahan satu anggota Dewan Komisaris baru.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T09:48:28",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/df9de56d93_c69a0a7812.pdf",
@@ -215,7 +396,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
   "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T20:18:35",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-1867-00.pdf-0.pdf",
@@ -524,6 +705,32 @@ var ARTICLES = [
   "takeaway": "Laporan ini negatif bagi ADHI. PEFINDO memangkas peringkat perusahaan dan tiga seri obligasinya dari idBB menjadi idB sekaligus mempertahankan status CreditWatch dengan implikasi negatif, dan lembaga pemeringkat itu sendiri secara eksplisit menyebut risiko gagal bayar kupon sebagai alasannya, bukan sekadar evaluasi rutin tahunan. Peringkat kredit yang turun berarti biaya bunga utang baru ADHI berpotensi naik dan ruang untuk menerbitkan obligasi baru atau merefinansi utang lama menyempit, karena investor menuntut imbal hasil lebih tinggi untuk risiko yang lebih besar, sehingga pos beban bunga dan arus kas perusahaan langsung tertekan. Yang perlu dipantau adalah pembayaran kupon Obligasi Berkelanjutan III Seri B dan C yang jatuh tempo 24 Agustus 2026, karena PEFINDO secara spesifik mengaitkan status CreditWatch negatif dengan risiko gagal bayar pada tanggal itu, sejalan dengan pengakuan ADHI sendiri sebelumnya soal risiko keterlambatan pembayaran bunga obligasi. PEFINDO juga akan meninjau ulang peringkat ini paling lambat dalam tiga bulan, atau sekitar 14 November 2026, tergantung perkembangan kondisi keuangan perseroan.",
   "sentimen": "negatif",
   "imageV": "mt0048v7"
+ },
+ {
+  "slug": "byan-jelaskan-ke-bursa-soal-volatilitas-harga-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
+  "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
+  "image": "assets/img/konpers-emiten.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T16:31:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d5b3ac14de_16768422c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) mengirim surat penjelasan kepada Bursa Efek Indonesia pada 19 Agustus 2026, menanggapi permintaan BEI bernomor S-10815/BEI.PP1/08-2026 tertanggal 18 Agustus 2026 perihal volatilitas transaksi efek perusahaan. Surat itu ditandatangani oleh Jenny Quantero selaku Corporate Secretary BYAN.",
+   "Dalam jawabannya, BYAN menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 maupun Peraturan Nomor I-E BEI. Perusahaan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu, baik penjualan, pembelian, maupun penjaminan saham di bursa, sesuai POJK Nomor 4 Tahun 2024. BYAN menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada pencatatan sahamnya, serta tidak ada informasi material lain yang belum diungkap ke publik.",
+   "Soal rencana pemegang saham utama, BYAN menyampaikan bahwa berdasarkan konfirmasi kepada pemegang saham utama, saat ini tidak ada transaksi apa pun yang sedang dilakukan terkait kepemilikan sahamnya di perusahaan. Namun surat itu menambahkan bahwa sebagai investor, pemegang saham utama tetap dapat mempertimbangkan berbagai peluang untuk memaksimalkan investasinya di kemudian hari."
+  ],
+  "fotoAdegan": "Wide view of an open-pit coal mine in Kalimantan with heavy haul trucks and a conveyor loading system under overcast sky",
+  "takeaway": "Laporan ini netral bagi BYAN, karena isinya adalah bantahan standar bahwa tidak ada informasi tersembunyi di balik pergerakan harga saham yang memicu pertanyaan bursa, bukan pengungkapan angka atau rencana baru. Surat ini tidak menyentuh pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena permintaan penjelasan volatilitas memang soal pergerakan harga di pasar, bukan soal kondisi keuangan perusahaan, sehingga pelaku pasar biasanya membacanya sebagai konfirmasi rutin, bukan sinyal fundamental. Yang perlu dipantau selanjutnya adalah apakah harga dan volume transaksi BYAN kembali normal atau justru terus bergejolak, karena BEI lazim mengirim permintaan penjelasan susulan kalau pola volatilitas itu berlanjut, meski dokumen ini sendiri tidak mencantumkan tenggat atau agenda spesifik berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "bipp-jadwalkan-rupslb-pada-25-september-2026",
@@ -1760,7 +1967,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
   "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
-  "image": "assets/img/lobi-bursa.jpg",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:51:25",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a01fd2b7dd_ff42f94a29.pdf",
@@ -1786,7 +1993,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
   "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
-  "image": "assets/img/gong-pencatatan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:20:27",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4012c60dc8_7b184af081.pdf",
@@ -1839,7 +2046,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
   "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
-  "image": "assets/img/analis-rapat.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:00:25",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dfdcec109a_084f708dce.pdf",
@@ -1865,7 +2072,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
   "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T16:16:39",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/655b815286_ad0bb794ba.pdf",
@@ -2292,7 +2499,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
   "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T10:55:57",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/267be7692d_8fce88d4c8.pdf",

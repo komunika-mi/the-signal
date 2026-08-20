@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akpi-komisaris-jual-492-800-saham-senilai-rp250-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
+  "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
+  "image": "assets/img/ruang-direksi.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T09:49:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6804-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berkurang dari 11.232.859 lembar menjadi 10.740.059 lembar, turun 492.800 lembar. Hak suaranya di perusahaan ikut turun dari 1,8347 persen menjadi 1,7542 persen. Laporan bertanggal 20 Agustus 2026 ini mencatat bahwa transaksinya terjadi pada 18 Agustus 2026.",
+   "Pengurangan saham itu berasal dari tiga transaksi penjualan saham biasa berstatus kepemilikan tidak langsung, dengan tujuan yang tercatat sebagai jual saham. Rinciannya: 282.300 lembar di harga Rp510 per saham, 198.500 lembar di harga Rp505 per saham, dan 12.000 lembar di harga Rp515 per saham. Total nilai ketiga transaksi itu sekitar Rp250,4 juta.",
+   "Transaksi ini setara dengan 4,3871 persen dari kepemilikan saham Henry Liem di AKPI sebelum penjualan. Laporan ini melengkapi laporan serupa yang lebih dulu terbit pada 18 Agustus 2026 yang mencatat pelepasan 200.000 saham, sehingga jumlah saham yang benar-benar dijual pada tanggal itu ternyata lebih besar dari yang sempat diberitakan sebelumnya."
+  ],
+  "fotoAdegan": "Workers checking large rolls of clear plastic packaging film on an industrial production line inside a factory in Indonesia.",
+  "takeaway": "Penjualan ini tetap netral bagi AKPI, meski jumlahnya lebih besar dari yang sempat dilaporkan sebelumnya: 4,39 persen dari kepemilikan pribadi Henry Liem bukan porsi yang mengubah peta kendali perusahaan, dan hak suaranya hanya bergeser tipis dari 1,8347 persen menjadi 1,7542 persen. Yang tersentuh di sini adalah kepemilikan saham dan hak suara komisaris secara individu, bukan jumlah saham beredar AKPI secara keseluruhan, tapi pasar tetap memperhatikan transaksi orang dalam seperti ini karena dianggap mencerminkan pandangan insider terhadap prospek perusahaannya sendiri. Yang perlu dipantau berikutnya adalah apakah Henry Liem melanjutkan pengurangan kepemilikannya lewat laporan serupa, mengingat dalam rentang dua hari sudah muncul dua laporan penjualan saham komisaris ini ke publik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tcpi-panggil-rupslb-tunjuk-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "TCPI Panggil RUPSLB, Tunjuk [Komisaris] Baru",
+  "deck": "PT Transcoal Pacific Tbk mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui penambahan satu anggota Dewan Komisaris baru.",
+  "image": "assets/img/rups-emiten.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T09:48:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/df9de56d93_c69a0a7812.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Transcoal Pacific"
+  ],
+  "body": [
+   "PT Transcoal Pacific Tbk (TCPI) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Jumat, 11 September 2026, pukul 14.00 WIB, di Bakrie Tower Lantai 9, Kompleks Rasuna Epicentrum, Jakarta Selatan. Satu-satunya agenda rapat adalah persetujuan perubahan susunan Dewan Komisaris Perseroan, dengan rencana mengangkat satu anggota komisaris baru. Perseroan tidak menyebut nama calon komisaris dalam surat pemanggilan ini.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 19 Agustus 2026, saat penutupan perdagangan saham TCPI di Bursa Efek Indonesia. Perseroan mendasarkan agenda ini pada Pasal 12 ayat 8 Anggaran Dasar Perseroan dan Pasal 111 ayat 1 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, yang mengatur bahwa anggota Dewan Komisaris diangkat melalui RUPS.",
+   "Bagi pemegang saham yang ingin memberikan kuasa secara elektronik lewat sistem eASY.KSEI atau melalui Biro Administrasi Efek PT Adimitra Jasa Korpora, batas waktunya adalah Kamis, 10 September 2026, paling lambat pukul 12.00 WIB, satu hari kerja sebelum rapat digelar. Surat pemanggilan ke Otoritas Jasa Keuangan ditandatangani Direktur Utama Denry Raymond Lelo dan disampaikan oleh Direktur Bintang Septo Drestanto pada 20 Agustus 2026."
+  ],
+  "fotoAdegan": "Tugboat pushing a loaded coal barge along a wide brown Indonesian river, overcast sky, crew coiling rope on deck",
+  "takeaway": "Laporan ini netral bagi TCPI karena penambahan satu anggota komisaris adalah perubahan struktur pengawasan yang lazim, tanpa disertai perubahan modal, utang, atau angka kinerja keuangan apa pun. Dewan Komisaris bertugas mengawasi kebijakan direksi, bukan mengelola operasional harian, sehingga pergantian di level ini biasanya tidak langsung mengubah pos seperti ekuitas, arus kas, atau laba per saham. Pelaku pasar tetap memperhatikan komposisi komisaris karena bisa menandakan pergeseran pengaruh pemegang saham besar atau penguatan fungsi pengawasan, meski dampaknya baru terasa lewat kebijakan yang mereka setujui belakangan. Yang perlu dipantau adalah hasil RUPSLB pada 11 September 2026, termasuk siapa yang akhirnya disetujui sebagai komisaris baru, karena nama dan latar belakangnya tidak diungkap dalam pemanggilan ini. Pemegang saham yang hendak memberi suara lewat kuasa elektronik juga harus mendaftar paling lambat 10 September 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo",
   "category": "Aksi Korporasi",
   "title": "BAJA raih laba Rp21,3 miliar, utang [berelasi] Rp349 M jatuh tempo",
@@ -34,7 +86,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "SMMF Sahkan RUPST Lewat [Keputusan Sirkuler] Pemegang Saham",
   "deck": "RUPST PT Sinar Mas Multifinance disahkan lewat keputusan sirkuler pada 19 Agustus 2026, disetujui penuh oleh dua pemegang saham yang menguasai seluruh 1,55 juta saham perseroan.",
-  "image": "assets/img/rups-emiten.jpg",
+  "image": "assets/img/rups-tangan-voting.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T08:50:39",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9c793e798_567da91da4.pdf",
@@ -111,7 +163,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
   "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
-  "image": "assets/img/rups-tangan-voting.jpg",
+  "image": "assets/img/meja-registrasi-rups.jpg",
   "date": "20 Agustus 2026",
   "isoDate": "2026-08-20T00:00:22",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
@@ -137,7 +189,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BNBA Gelar [RUPSLB], Ganti Presiden Direktur dan Komisaris",
   "deck": "Bank Bumi Arta memanggil RUPSLB 10 September 2026 untuk mengganti presiden direktur dan lima kursi komisaris, menyusul RUPST Juni yang gagal mencapai kesepakatan.",
-  "image": "assets/img/ruang-direksi.jpg",
+  "image": "assets/img/tanda-tangan-akta.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T23:20:07",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e7592fe4d_ac5234081c.pdf",
@@ -156,6 +208,31 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty hotel ballroom set up with rows of chairs facing a stage, ready for a corporate shareholders meeting, soft morning light",
   "takeaway": "Laporan ini condong negatif dari sisi tata kelola karena RUPSLB ini adalah putaran kedua: RUPST 30 Juni 2026 sudah membahas pergantian komisaris namun gagal mencapai musyawarah mufakat dan tidak sampai pada pemungutan suara, sementara sekarang presiden direktur pun ikut diganti dalam rapat yang sama. Dokumen ini tidak memuat angka ekuitas, arus kas, atau laba per saham, tapi pergantian nyaris seluruh jajaran komisaris independen dan direktur utama tetap relevan bagi pemegang saham karena merekalah yang menentukan arah strategi, kebijakan kredit, dan pengawasan risiko bank ke depan. Yang perlu dipantau adalah apakah RUPSLB pada 10 September 2026 kali ini berhasil mencapai kesepakatan setelah upaya sebelumnya buntu, serta tenggat 9 September 2026 pukul 12.00 WIB bagi pemegang saham individu lokal untuk menyatakan kehadiran atau memberi kuasa suara elektronik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "meds-komisaris-lagi-lepas-10-5-juta-saham-suara-ke-53-65",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
+  "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T20:18:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-1867-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Hetzer Medical Indonesia"
+  ],
+  "body": [
+   "Jemmy Kurniawan, Komisaris PT Hetzer Medical Indonesia Tbk (MEDS), melaporkan penjualan 10.506.800 lembar saham perusahaan pada 18 Agustus 2026 melalui lima transaksi terpisah dengan harga antara Rp71 dan Rp75 per lembar. Rinciannya, 1.500.000 lembar seharga Rp72, 5.000.000 lembar seharga Rp71, 56.800 lembar seharga Rp75, 1.000.000 lembar seharga Rp74, dan 2.950.000 lembar seharga Rp73, dengan total nilai penjualan sekitar Rp756,6 juta. Kepemilikannya di MEDS berkurang dari 848.819.300 lembar menjadi 838.312.500 lembar, sementara hak suaranya turun dari 54,32 persen menjadi 53,65 persen. Tujuan transaksi yang dicantumkan dalam laporan adalah pengurangan jumlah saham.",
+   "Penjualan ini adalah yang ketiga oleh Jemmy dalam waktu kurang dari sepekan. Pada 15 Agustus 2026 ia melepas 3.000.000 saham yang membawa hak suaranya ke 54,55 persen, lalu pada 17 Agustus 2026 ia menjual 3.500.000 saham lagi hingga hak suara turun ke 54,32 persen. Dengan transaksi terbaru ini, total saham yang dilepas Jemmy sejak 15 Agustus mencapai sekitar 17.006.800 lembar. Ia tetap tercatat sebagai pengendali MEDS dalam laporan ini dan menyatakan akan mempertahankan status pengendaliannya."
+  ],
+  "fotoAdegan": "Warehouse workers packing boxes of medical equipment onto a conveyor belt under fluorescent lights in an Indonesian distribution facility",
+  "takeaway": "Laporan ini condong negatif bagi Hetzer Medical Indonesia, sebab penjualan kali ini setara 1,24 persen dari kepemilikan Jemmy Kurniawan sendiri, melampaui ukuran dua laporan sebelumnya yang masih dinilai netral, dan merupakan penjualan ketiga berturut-turut dalam kurang dari sepekan dengan jumlah yang terus membesar. Yang tersentuh adalah hak suara sang pengendali di MEDS, yang turun dari 54,32 persen menjadi 53,65 persen hanya dari transaksi ini, dan sudah longsor dari sekitar 54,9 persen sejak 15 Agustus. Pelaku pasar mencermati hak suara pengendali karena penurunan yang konsisten bisa menandakan ia sedang mengurangi eksposurnya ke saham ini, meski dalam laporan tersebut ia tetap menyatakan akan mempertahankan status pengendali. Yang perlu dipantau berikutnya adalah apakah pola pelepasan bertahap ini masih berlanjut di laporan-laporan mendatang, mengingat akumulasi tiga laporan sejak 15 Agustus 2026 sudah mencapai sekitar 17 juta saham.",
   "sentimen": "negatif"
  },
  {
@@ -294,7 +371,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
   "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
-  "image": "assets/img/meja-registrasi-rups.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T18:17:44",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
@@ -321,7 +398,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
   "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T18:17:39",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fbc73f0b13_a60a0a96b6.pdf",
@@ -347,7 +424,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "ISAT Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
   "deck": "Menjawab surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Indosat menyatakan tidak ada informasi material tersembunyi dan tidak ada aksi korporasi dalam tiga bulan ke depan.",
-  "image": "assets/img/tanda-tangan-akta.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T17:54:00",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af2b77af4b_933f238ebd.pdf",
@@ -373,7 +450,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
   "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/dokumen-prospektus.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T17:40:29",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
@@ -453,7 +530,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
   "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/paparan-publik.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:22:08",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
@@ -479,7 +556,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
   "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/lorong-kantor-pusat.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:19:36",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
@@ -505,7 +582,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
   "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
-  "image": "assets/img/dokumen-prospektus.jpg",
+  "image": "assets/img/rapat-komite.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T16:16:52",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aef620d48b_51eb97d8f6.pdf",
@@ -608,11 +685,37 @@ var ARTICLES = [
   "imageV": "mszvtis0"
  },
  {
+  "slug": "bbmd-direksi-beli-71-500-saham-lewat-remunerasi-variabel",
+  "category": "Aksi Korporasi",
+  "title": "BBMD: Direksi Beli 71.500 Saham lewat [Remunerasi Variabel]",
+  "deck": "Hendra Halim, direksi Bank Mestika Dharma, menambah 71.500 saham senilai sekitar Rp142,9 juta lewat skema remunerasi variabel, hak suaranya naik jadi 0,0209 persen.",
+  "image": "assets/img/lobi-lift-kantor.jpg",
+  "date": "19 Agustus 2026",
+  "isoDate": "2026-08-19T15:14:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-2807-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBMD",
+  "tags": [
+   "BBMD",
+   "Bank Mestika Dharma",
+   "kepemilikan saham",
+   "remunerasi direksi"
+  ],
+  "body": [
+   "Direksi PT Bank Mestika Dharma Tbk (BBMD), Hendra Halim, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 71.500 saham BBMD secara tidak langsung pada 14 Agustus 2026 dengan harga sekitar Rp1.999 per saham, atau senilai sekitar Rp142,9 juta. Dengan transaksi ini, kepemilikannya bertambah dari 770.400 lembar menjadi 841.900 lembar saham, naik 9,28 persen dari jumlah yang sebelumnya ia pegang.",
+   "Dalam laporan itu disebutkan bahwa pembelian saham merupakan pemenuhan pemberian remunerasi yang bersifat variabel sesuai POJK Nomor 45/POJK.03/2015 tentang penerapan tata kelola dalam pemberian remunerasi bagi bank umum. Dokumen mencatat persentase kepemilikan individu Hendra Halim sebesar 0,05 persen dari skema ini tidak berubah, sementara persentase saham masyarakat sebesar 10,51 persen yang terkait program remunerasi tersebut masih bisa berubah sesuai remunerasi yang diterima Material Risk Taker atau pejabat pengambil risiko lain di bank. Akibat transaksi ini, hak suara Hendra Halim di BBMD naik dari 0,0191 persen menjadi 0,0209 persen.",
+   "Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka dan Aktivitas Menjaminkan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham emiten tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Employees working behind a teller counter inside a modern Indonesian bank branch, customers queuing, soft morning light, no visible signage.",
+  "takeaway": "Laporan ini netral bagi BBMD, sebab pembelian 71.500 saham oleh Hendra Halim hanya menggeser hak suaranya dari 0,0191 persen menjadi 0,0209 persen, porsi yang nyaris tidak berarti dari total saham beredar bank, dan transaksinya berasal dari skema remunerasi wajib, bukan keputusan investasi sukarela yang mencerminkan pandangan direksi soal prospek BBMD. Yang tersentuh di sini hanya struktur kepemilikan sebagian kecil bank, karena ini pembelian saham yang sudah beredar, bukan penerbitan saham baru, sehingga tidak mengubah laba per saham BBMD secara keseluruhan; pelaku pasar biasanya memantau transaksi insider semacam ini untuk melihat apakah manajemen menambah atau mengurangi kepemilikannya, tapi ukurannya di sini terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi. Dokumen menyebut bahwa persentase saham masyarakat 10,51 persen terkait program remunerasi ini masih bisa berubah sesuai remunerasi yang diterima Material Risk Taker lain, jadi yang perlu dipantau selanjutnya adalah apakah direksi atau pejabat BBMD lain akan menyusul melaporkan penambahan saham serupa dari skema remunerasi variabel yang sama.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar",
   "category": "Aksi Korporasi",
   "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
   "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
-  "image": "assets/img/paparan-publik.jpg",
+  "image": "assets/img/arsip-berkas.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T15:02:57",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e23e8146ba_de8727a358.pdf",
@@ -854,7 +957,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
   "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
-  "image": "assets/img/lorong-kantor-pusat.jpg",
+  "image": "assets/img/meja-notaris.jpg",
   "date": "19 Agustus 2026",
   "isoDate": "2026-08-19T11:49:08",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/31c1badcaf_54ea5e47f8.pdf",
@@ -1527,7 +1630,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
   "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
-  "image": "assets/img/rapat-komite.jpg",
+  "image": "assets/img/resepsionis-korporat.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T19:16:38",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
@@ -1553,7 +1656,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
   "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
-  "image": "assets/img/lobi-lift-kantor.jpg",
+  "image": "assets/img/presentasi-jauh.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:52:55",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2aea432f5a_1ff86d59bc.pdf",
@@ -1579,7 +1682,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
   "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
-  "image": "assets/img/arsip-berkas.jpg",
+  "image": "assets/img/tangga-kaca-kantor.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:36:12",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
@@ -1605,7 +1708,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "PPRO Kantongi Peringkat [idB] untuk Tiga Obligasi Rp375,4 Miliar",
   "deck": "PEFINDO mempertahankan peringkat idB dengan outlook stabil untuk PT PP Properti Tbk dan tiga seri obligasinya senilai total Rp375,4 miliar, berlaku hingga 1 Agustus 2027.",
-  "image": "assets/img/meja-notaris.jpg",
+  "image": "assets/img/ruang-tunggu-eksekutif.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:28:36",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9a9925245f_4903cf2666.pdf",
@@ -1631,7 +1734,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "BAJA Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Agustus",
   "deck": "Bursa Efek Indonesia memasukkan saham Saranacentral Bajatama (BAJA) ke daftar Efek Dalam Pemantauan Khusus, efektif 19 Agustus 2026, terkait riwayat suspensi perdagangan.",
-  "image": "assets/img/resepsionis-korporat.jpg",
+  "image": "assets/img/serah-terima-map.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T18:14:03",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdf97c5c2a_1f5adc96c1.pdf",
@@ -1657,7 +1760,7 @@ var ARTICLES = [
   "category": "Aksi Korporasi",
   "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
   "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
-  "image": "assets/img/tangga-kaca-kantor.jpg",
+  "image": "assets/img/rapat-daring.jpg",
   "date": "18 Agustus 2026",
   "isoDate": "2026-08-18T17:51:25",
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a01fd2b7dd_ff42f94a29.pdf",
@@ -1676,6 +1779,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Traders on the Indonesia Stock Exchange floor in Jakarta glancing at distant blurred ticker screens amid brisk foot traffic, midday light",
   "takeaway": "Netral, sebab surat ini murni bantahan formal dan tidak membawa satu pun fakta baru yang bisa mengubah penilaian atas kinerja atau prospek perusahaan. Permintaan penjelasan seperti ini muncul ketika bursa mendeteksi pergerakan harga atau volume perdagangan saham yang di luar kebiasaan, dan tujuannya memastikan tidak ada informasi tersembunyi yang mendorong spekulasi di pasar. Dokumen ini tidak menyinggung pos kinerja apa pun, baik ekuitas, arus kas, maupun jumlah saham beredar, sehingga tidak ada perubahan fundamental yang bisa diverifikasi dari sini. Yang perlu dipantau selanjutnya adalah apakah pergerakan transaksi saham VTNY mereda setelah surat ini terbit, atau justru bursa melanjutkan pengawasan lebih lanjut karena volatilitas berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "toba-modal-disetor-bertambah-usai-mesop-karyawan-dieksekusi",
+  "category": "Aksi Korporasi",
+  "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
+  "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
+  "image": "assets/img/tiba-di-kantor.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T17:20:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4012c60dc8_7b184af081.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "MESOP",
+   "modal disetor",
+   "TBS Energi Utama"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) melaporkan peningkatan modal ditempatkan dan modal disetor perseroan sehubungan dengan pelaksanaan Program Kepemilikan Saham Manajemen dan Karyawan atau MESOP, program insentif yang memberi hak kepada manajemen dan karyawan untuk membeli saham perusahaan dengan harga tertentu. Program ini digelar pada 21 Mei 2026, dan hasil pelaksanaannya dituangkan dalam Akta Pernyataan Keputusan Rapat Perubahan Anggaran Dasar PT TBS Energi Utama Tbk Nomor 59 tanggal 28 Juli 2026.",
+   "Perubahan anggaran dasar akibat kenaikan modal tersebut baru mendapat pengesahan resmi dari pemerintah pada 18 Agustus 2026, lewat surat Penerimaan Pemberitahuan Perubahan Anggaran Dasar dari Direktorat Jenderal Administrasi Hukum Umum, Kementerian Hukum Republik Indonesia, dengan nomor AHU-AH.01.03-0234152. Laporan keterbukaan ini ditandatangani oleh dua direktur perseroan, Alvin Firman Sunanda dan Jui Oktarina, serta disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia oleh Corporate Secretary Pingkan Ratna Melati.",
+   "Dokumen yang diterbitkan perseroan tidak merinci berapa jumlah saham baru yang diterbitkan dari pelaksanaan MESOP ini, berapa modal ditempatkan dan disetor sebelum dan sesudah kenaikan, maupun harga pelaksanaan opsi. Perseroan sendiri menyatakan bahwa kejadian ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya, sebuah pernyataan standar yang lazim tercantum dalam laporan keterbukaan informasi semacam ini."
+  ],
+  "fotoAdegan": "Coal loading conveyor feeding a docked river barge at a busy Indonesian port, workers in hard hats overseeing operations, hazy daylight",
+  "takeaway": "Laporan ini bersifat netral bagi TOBA, karena dokumennya mengonfirmasi terjadinya kenaikan modal tapi tidak mencantumkan berapa banyak saham baru yang terbit atau berapa besar kenaikannya, sehingga besarnya dampak ke pemegang saham lama belum bisa diukur pembaca. Yang tersentuh dari peristiwa ini adalah jumlah saham beredar dan laba per saham, sebab setiap kali karyawan atau manajemen menukar opsi menjadi saham baru lewat MESOP, jumlah saham beredar bertambah dan laba perusahaan yang sama harus dibagi ke lebih banyak lembar saham, itu sebabnya investor biasa memperhatikan program semacam ini. Yang perlu dipantau berikutnya adalah apakah TOBA merilis rincian jumlah saham baru dan komposisi modal disetor pasca kenaikan ini dalam laporan atau keterbukaan berikutnya ke bursa, termasuk kemungkinan perubahan porsi kepemilikan pemegang saham utama.",
   "sentimen": "netral"
  },
  {
@@ -1704,6 +1833,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Pelemahan rupiah kali ini datang dari dua arah sekaligus: harga minyak dunia yang naik di atas US$83 per barel membuat kebutuhan dolar untuk bayar impor minyak membengkak, sementara utang luar negeri Indonesia terus naik, dari US$444,4 miliar pada Mei menjadi US$453,4 miliar pada akhir Juni, tumbuh 4,4 persen dibanding setahun sebelumnya. Utang luar negeri yang naik berarti kebutuhan dolar untuk membayar cicilan dan bunga ke kreditor asing juga ikut membesar, sehingga permintaan dolar tidak datang dari satu sumber saja. Yang paling langsung merasakan dampaknya adalah pelaku usaha dan pemerintah yang harus menyiapkan dolar untuk kedua kebutuhan itu, sementara pelemahan rupiah pada akhirnya bisa terasa di harga barang impor bagi konsumen. Kombinasi kedua faktor ini mengarah ke tekanan rupiah yang berlanjut, bukan sekadar gejolak satu hari, dan yang akan menguji pembacaan ini adalah pergerakan rupiah besok yang diperkirakan tetap melemah di kisaran Rp17.860 sampai Rp17.920, serta apakah harga minyak dunia bertahan di atas US$83 per barel.",
   "imageV": "msykxs62"
+ },
+ {
+  "slug": "avia-bukukan-laba-bersih-rp435-miliar-di-kuartal-ii-2026",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
+  "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
+  "image": "assets/img/kopi-rapat.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T17:00:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dfdcec109a_084f708dce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "earnings call",
+   "kinerja keuangan",
+   "industri cat"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) menyampaikan materi presentasi kinerja kuartal kedua 2026 kepada Bursa Efek Indonesia, sehubungan dengan earnings call yang digelar pada 19 Agustus 2026. Materi ini merupakan hasil penelaahan terbatas atas laporan keuangan perseroan periode April sampai Juni 2026. Avian Brands, produsen cat dan produk bahan bangunan ini, mencatat penjualan konsolidasi Rp2,233 triliun atau setara US$126 juta pada kuartal kedua, naik 19,7 persen dibanding periode yang sama tahun lalu. Penjualan dari segmen solusi arsitektural, meliputi cat dan produk sejenis, mencapai Rp1,74 triliun, naik 22,4 persen, sementara penjualan barang dagangan tumbuh 10,9 persen menjadi Rp493 miliar.",
+   "Dari sisi profitabilitas, laba kotor perseroan naik 36,9 persen menjadi Rp1,025 triliun, dengan margin kotor melebar dari 40,1 persen menjadi 45,9 persen. EBITDA, yakni laba usaha sebelum dikurangi bunga, pajak, dan penyusutan, tumbuh 47,6 persen menjadi Rp606 miliar dengan margin 27,2 persen. Laba bersih kuartal kedua tercatat Rp435 miliar, naik 31,6 persen dibanding tahun lalu, dengan margin laba bersih 19,5 persen. Laba per saham ikut naik 34,2 persen menjadi Rp7,4 per saham.",
+   "Manajemen menyebut kenaikan biaya produksi akibat harga bahan baku yang naik dan pelemahan rupiah mendorong perseroan menaikkan harga jual dua kali dalam kuartal ini, yaitu 7 sampai 10 persen pada April dan 5 sampai 8 persen pada Mei. Di sisi jaringan distribusi, perseroan membuka satu pusat distribusi baru pada kuartal kedua sehingga totalnya menjadi 184 unit, terdiri dari 76 unit di Jawa dan 108 unit di luar Jawa, dengan kapasitas sekitar 19.000 pengiriman per hari dan tingkat pemenuhan layanan pengiriman satu hari sebesar 83 persen. Untuk sepanjang 2026, manajemen menargetkan pertumbuhan nilai penjualan 10 sampai 14 persen dan pertumbuhan volume 4 sampai 8 persen."
+  ],
+  "fotoAdegan": "Workers stacking paint cans onto pallets inside a busy industrial warehouse, forklift nearby, bright overhead lighting",
+  "takeaway": "Laporan ini condong positif bagi AVIA, karena seluruh pos utama, penjualan, laba kotor, EBITDA, hingga laba bersih, tumbuh dua digit dan marginnya justru melebar di tengah tekanan biaya bahan baku dan pelemahan rupiah, tanda perseroan berhasil meneruskan kenaikan biaya ke harga jual tanpa banyak kehilangan permintaan. Yang perlu diperhatikan adalah margin EBITDA dan margin laba bersih, yaitu seberapa besar bagian dari setiap rupiah penjualan yang benar-benar menjadi keuntungan setelah dikurangi biaya operasional, karena keduanya naik meski ada dua kali kenaikan harga jual yang biasanya berisiko menekan volume penjualan. Yang perlu dipantau berikutnya adalah paparan lengkap dalam earnings call pada 19 Agustus 2026, serta realisasi target pertumbuhan penjualan 10 sampai 14 persen dan volume 4 sampai 8 persen sepanjang 2026, termasuk apakah kenaikan harga pada April dan Mei mulai menggerus jumlah pelanggan pada paruh kedua tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "elsa-panggil-rupslb-9-september-bahas-perombakan-pengurus",
+  "category": "Aksi Korporasi",
+  "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
+  "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
+  "image": "assets/img/jendela-kota-malam.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T16:16:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/655b815286_ad0bb794ba.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "RUPSLB",
+   "Pertamina Hulu Energi"
+  ],
+  "body": [
+   "Elnusa Tbk (ELSA) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa pada Rabu, 9 September 2026, pukul 09.00 WIB di Ruang Udaya, Graha Elnusa lantai 1, Jalan TB Simatupang Kav 1B, Jakarta Selatan. Satu-satunya agenda rapat adalah persetujuan perubahan susunan pengurus perseroan, yang mencakup jajaran direksi dan dewan komisaris. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 14 Agustus 2026 pukul 16.00 WIB.",
+   "Rapat ini digelar atas permintaan PT Pertamina Hulu Energi selaku pemegang saham pengendali yang menguasai 51,103 persen saham Elnusa. Permintaan itu disampaikan lewat surat Direktur Utama Pertamina Hulu Energi tertanggal 22 Juli 2026 perihal perubahan kepengurusan Elnusa. Elnusa menyebut agenda ini mengacu pada Pasal 3 dan Pasal 22 Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, serta Pasal 14 ayat 3 dan Pasal 17 ayat 3 anggaran dasar perseroan, yang menyatakan anggota direksi dan komisaris diangkat dan diberhentikan oleh RUPS. Dokumen pemanggilan tidak mencantumkan nama-nama yang diusulkan diganti atau diangkat.",
+   "Rapat sah dan berhak mengambil keputusan mengikat jika dihadiri pemegang saham yang mewakili lebih dari separuh total saham dengan hak suara. Keputusan diambil lewat musyawarah mufakat, atau jika tidak tercapai, disetujui oleh lebih dari separuh saham yang hadir dalam rapat. Pemegang saham dapat hadir secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas deklarasi kehadiran satu hari kerja sebelum rapat pukul 12.00 WIB. Surat pemanggilan ditandatangani Direktur Utama Elnusa, Litta Indriya Ariesca, dan telah disampaikan ke OJK, Bursa Efek Indonesia, serta KSEI pada 18 Agustus 2026."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing forward in a Jakarta office tower, soft morning light through glass walls",
+  "takeaway": "Laporan ini netral bagi Elnusa karena baru berupa pemanggilan rapat, belum memuat nama pengganti maupun alasan pergantian pengurus, sehingga dampaknya belum bisa dinilai positif atau negatif. Yang tersentuh di sini adalah susunan direksi dan dewan komisaris, bukan angka keuangan seperti ekuitas atau laba, tapi pelaku pasar tetap memperhatikannya karena siapa yang memimpin perusahaan ikut menentukan arah strategi dan keputusan bisnis ke depan. Permintaan datang dari Pertamina Hulu Energi selaku pemegang saham pengendali dengan 51,103 persen saham, sehingga hasil rapat kemungkinan besar mengikuti usulan pemegang saham mayoritas ini. Yang perlu dipantau adalah hasil RUPSLB pada 9 September 2026, terutama nama-nama direksi dan komisaris yang diangkat atau diberhentikan, karena baru saat itu arah perubahan benar-benar terlihat.",
+  "sentimen": "netral"
  },
  {
   "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
@@ -2105,6 +2286,32 @@ var ARTICLES = [
   "takeaway": "Pergantian ketua unit internal audit ini bersifat netral bagi Sentul City, karena dokumen hanya memuat pergantian personel pengawas tanpa ada angka atau dampak finansial langsung yang disebutkan. Unit internal audit bertugas memeriksa apakah pencatatan keuangan dan operasional perusahaan sudah sesuai aturan, jadi pergantian pemimpinnya bisa memengaruhi ketatnya pengawasan internal ke depan meski tidak langsung mengubah pos seperti ekuitas, arus kas, atau laba per saham di laporan keuangan. Dokumen ini juga tidak menyebut alasan pergantian, sehingga publik belum tahu apakah ini rotasi rutin atau ada pertimbangan lain. Yang perlu dipantau berikutnya adalah apakah kualitas laporan keuangan interim BKSL tetap konsisten di bawah kepemimpinan baru ini, karena dokumen tidak mencantumkan agenda RUPS atau tenggat lain terkait perubahan tersebut.",
   "sentimen": "netral",
   "imageV": "msybrv2x"
+ },
+ {
+  "slug": "lmpi-jawab-permintaan-bursa-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
+  "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
+  "image": "assets/img/berkas-disortir.jpg",
+  "date": "18 Agustus 2026",
+  "isoDate": "2026-08-18T10:55:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/267be7692d_8fce88d4c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LMPI",
+  "tags": [
+   "LMPI",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "Langgeng Makmur Industri Tbk (LMPI) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-10771/BEI.PP3/08-2026 terkait volatilitas transaksi efek perseroan. Jawaban tertuang dalam surat nomor 163/VIII/26/lm-hr tertanggal 18 Agustus 2026 yang ditandatangani Henri Subiyanto selaku Corporate Secretary.",
+   "Dalam surat itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham, dan belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, Corporate Secretary menyatakan telah lebih dulu mengonfirmasi langsung kepada pemegang saham utama, dan jawabannya adalah belum ada rencana mengubah kepemilikan saham di perseroan. Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers monitoring extrusion machines producing plastic sheeting on an industrial factory floor, overhead lighting",
+  "takeaway": "Penjelasan ini netral bagi LMPI karena isinya murni bantahan formal, tidak ada fakta atau angka baru yang mengubah gambaran keuangan perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh oleh dokumen ini, sebab isinya hanya konfirmasi bahwa tidak ada aksi korporasi, transaksi pemegang saham, atau informasi tersembunyi di balik pergerakan harga sahamnya. Klaim kunci yang perlu diuji adalah pernyataan tidak ada rencana aksi korporasi dalam tiga bulan ke depan, yakni hingga sekitar pertengahan November 2026. Pelaku pasar akan memantau apakah volatilitas sahamnya mereda tanpa penjelasan lanjutan, atau justru muncul keterbukaan informasi baru yang bertentangan dengan bantahan hari ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg",

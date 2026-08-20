@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-19T21:26:59.918+07:00",
+ "diperbarui": "2026-08-20T21:28:36.299+07:00",
  "entri": [
+  {
+   "id": "2026-08-20-3",
+   "edisi": "2026-08-20",
+   "benang": "Sejumlah Emiten Perkuat Kas Lewat Dividen dan Pelunasan",
+   "klaim": "Arahnya jelas ke penguatan posisi kas jangka pendek di sektor-sektor YUPI, AVIA, dan RATU karena kas yang sudah terealisasi dari laba dan penerbitan surat utang sebelumnya, bukan proyeksi baru.",
+   "penanda": "Laporan arus kas kuartal ketiga dari masing-masing perusahaan (YUPI, AVIA, RATU)",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "laporan arus kas kuartal ketiga dari masing-masing perusahaan yang terbit Oktober hingga November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-20-2",
+   "edisi": "2026-08-20",
+   "benang": "Tekanan Utang BUMN Merambat ke WEGE dan Pos Indonesia",
+   "klaim": "Arahnya konsisten melebar sejak kemarin, dari WIKA dan ADHI ke WEGE dan kini ke sektor logistik pelat merah lewat Pos Indonesia, menambah daftar BUMN yang tahun ini perlu bernegosiasi ulang dengan kreditor atau pemegang surat utang.",
+   "penanda": "Hasil RUPS pemegang Sukuk Ijarah Berkelanjutan I Tahap II 2025 Pos Indonesia, yakni apakah pemegang sukuk menyetujui atau menolak permintaan waiver",
+   "tenggat": "2026-09-04",
+   "tenggatLabel": "rapat 4 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-20-1",
+   "edisi": "2026-08-20",
+   "benang": "Bursa Tanya Delapan Emiten, Pasar Tetap Menguat",
+   "klaim": "Arahnya sejauh ini tetap ke rutinitas pengawasan bursa dan bukan sinyal aksi korporasi baru, kecuali penjualan saham TRJA oleh direksi R Hesthi Sambodo yang menyimpang dari pola jawaban standar lainnya dan layak ditunggu keterbukaan informasi susulannya.",
+   "penanda": "Keterbukaan informasi susulan terkait penjualan 500.000 saham TRJA oleh direksi R Hesthi Sambodo",
+   "tenggat": null,
+   "tenggatLabel": "layak ditunggu keterbukaan informasi susulannya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-19-3",
    "edisi": "2026-08-19",

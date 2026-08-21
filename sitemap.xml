@@ -19,7 +19,10 @@
   <url><loc>https://the-signal.id/berita/wika-obligasi-sukuk-rp2-47-triliun-dipangkas-pefindo-ke-d.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/bbld-tambah-fasilitas-kredit-rp100-miliar-dari-bank-victoria.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/sini-kucurkan-pinjaman-rp1-18-triliun-ke-anak-usaha-tambang.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/nsss-direksi-geser-37-5-juta-saham-lewat-repo.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/rlco-kepemilikan-direksi-naik-ke-6-05-lewat-skema-repo.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/bmas-tarik-pinjaman-afiliasi-us-55-juta-dari-kbank.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/film-direksi-lepas-83-7-juta-saham-lewat-repo.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/bkdp-butuh-rp222-miliar-danai-proyek-hotel-hyatt.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/wsbp-lelang-aset-cetakan-senilai-rp478-6-juta.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/saham-fpni-meroket-24-42-manajemen-tak-ada-info-material.html</loc><lastmod>2026-08-21</lastmod></url>
@@ -590,6 +593,7 @@
   <url><loc>https://the-signal.id/emiten/SFAN.html</loc><lastmod>2026-08-18</lastmod></url>
   <url><loc>https://the-signal.id/emiten/OKAS.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/SINI.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/NSSS.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BMAS.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/TAPG.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BSLT.html</loc><lastmod>2026-08-21</lastmod></url>
@@ -627,6 +631,8 @@
   <url><loc>https://the-signal.id/emiten/POLL.html</loc><lastmod>2026-08-10</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PPGD.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BBLD.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/RLCO.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/FILM.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BKDP.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/WSBP.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/FPNI.html</loc><lastmod>2026-08-21</lastmod></url>
@@ -652,7 +658,6 @@
   <url><loc>https://the-signal.id/emiten/LPCK.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/YUPI.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BMTR.html</loc><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://the-signal.id/emiten/NSSS.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/DNAR.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BEER.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PORT.html</loc><lastmod>2026-08-20</lastmod></url>
@@ -800,8 +805,8 @@
   <url><loc>https://the-signal.id/topik/bursa-efek-indonesia.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/kepemilikan-saham.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/rupslb.html</loc><lastmod>2026-08-21</lastmod></url>
-  <url><loc>https://the-signal.id/topik/keterbukaan-informasi.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/direksi.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/topik/keterbukaan-informasi.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/bank-indonesia.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/volatilitas-saham.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/obligasi.html</loc><lastmod>2026-08-21</lastmod></url>

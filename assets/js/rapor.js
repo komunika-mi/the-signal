@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-20T21:28:36.299+07:00",
+ "diperbarui": "2026-08-21T21:27:12.885+07:00",
  "entri": [
+  {
+   "id": "2026-08-21-3",
+   "edisi": "2026-08-21",
+   "benang": "Dua Jalur Beda Membereskan Ekuitas Bermasalah",
+   "klaim": "Pola dilusi besar seperti yang dialami pemegang saham lama MKNT berpotensi berulang di emiten bermasalah lain yang membereskan ekuitas negatif lewat konversi utang menjadi saham.",
+   "penanda": "Hasil RUPS yang menyetujui skema konversi utang menjadi saham tersebut dan respons harga sahamnya begitu saham baru resmi terbit.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-21-2",
+   "edisi": "2026-08-21",
+   "benang": "Bursa Naikkan Level dari Bertanya Menjadi Sanksi",
+   "klaim": "Arah pola pengawasan bursa jelas bergeser dari sekadar permintaan penjelasan menjadi tindakan pengawasan nyata seperti Papan Pemantauan Khusus terhadap saham yang gejolaknya berlanjut tanpa penjelasan material.",
+   "penanda": "Apakah OKAS, FPNI, MRAT, atau PGUN menyusul MDIA masuk papan pemantauan khusus bila volatilitasnya berlanjut.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-21-1",
+   "edisi": "2026-08-21",
+   "benang": "Utang BUMN Konstruksi Bergerak ke Status Gagal Bayar",
+   "klaim": "Arah pola gagal bayar utang BUMN konstruksi sudah jelas menuju perluasan kasus gagal bayar yang terkonfirmasi di segmen ini.",
+   "penanda": "Apakah ADHI benar-benar menunda pembayaran bunga obligasinya pada 24 Agustus atau berhasil melunasi seperti PPGD.",
+   "tenggat": "2026-08-24",
+   "tenggatLabel": "24 Agustus",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-20-3",
    "edisi": "2026-08-20",

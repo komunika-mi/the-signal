@@ -14,6 +14,11 @@
   <url><loc>https://the-signal.id/kontak.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/bslt-fitch-afirmasi-rating-a-idn-outlook-stabil.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/cash-sandra-angela-tambah-saham-hak-suara-ke-8-07.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/kdtn-putrasakti-mandiri-jual-saham-lagi-untuk-restrukturisasi-grup.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/bexi-koreksi-susunan-direksi-komisaris-eximbank.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/berita/pngo-gelar-rupslb-14-september-revisi-anggaran-dasar-dan-kbli.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/nick-direksi-beli-tambahan-500-saham-rp732-ribu.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/tpia-akuisisi-bisnis-otomotif-cycle-carriage.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/berita/mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100.html</loc><lastmod>2026-08-21</lastmod></url>
@@ -539,6 +544,7 @@
   <url><loc>https://the-signal.id/emiten/MEDS.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PTPP.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/emiten/SUPA.html</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/KDTN.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/NICK.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/SILO.html</loc><lastmod>2026-08-15</lastmod></url>
   <url><loc>https://the-signal.id/emiten/CYBR.html</loc><lastmod>2026-08-20</lastmod></url>
@@ -549,10 +555,12 @@
   <url><loc>https://the-signal.id/emiten/BIPP.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/emiten/ADHI.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/emiten/HUMI.html</loc><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://the-signal.id/emiten/KDTN.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/emiten/WIKA.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/emiten/HEAL.html</loc><lastmod>2026-08-18</lastmod></url>
   <url><loc>https://the-signal.id/emiten/SFAN.html</loc><lastmod>2026-08-18</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/BSLT.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/CASH.html</loc><lastmod>2026-08-21</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/BEXI.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BWPT.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/MICE.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/SMGA.html</loc><lastmod>2026-08-20</lastmod></url>
@@ -584,6 +592,7 @@
   <url><loc>https://the-signal.id/emiten/CSIS.html</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://the-signal.id/emiten/EXCL.html</loc><lastmod>2026-08-10</lastmod></url>
   <url><loc>https://the-signal.id/emiten/POLL.html</loc><lastmod>2026-08-10</lastmod></url>
+  <url><loc>https://the-signal.id/emiten/PNGO.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/TPIA.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/MKNT.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/emiten/APLN.html</loc><lastmod>2026-08-20</lastmod></url>
@@ -591,7 +600,6 @@
   <url><loc>https://the-signal.id/emiten/POST.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/GRPH.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/REAL.html</loc><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://the-signal.id/emiten/BEXI.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/LPKR.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/LPCK.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/emiten/YUPI.html</loc><lastmod>2026-08-20</lastmod></url>
@@ -669,7 +677,6 @@
   <url><loc>https://the-signal.id/emiten/IKBI.html</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://the-signal.id/emiten/OILS.html</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PTSP.html</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://the-signal.id/emiten/BSLT.html</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://the-signal.id/emiten/LUCK.html</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://the-signal.id/emiten/BPII.html</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://the-signal.id/emiten/MCOR.html</loc><lastmod>2026-08-14</lastmod></url>
@@ -717,7 +724,6 @@
   <url><loc>https://the-signal.id/emiten/KAEF.html</loc><lastmod>2026-08-10</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PJHB.html</loc><lastmod>2026-08-10</lastmod></url>
   <url><loc>https://the-signal.id/emiten/PACK.html</loc><lastmod>2026-08-10</lastmod></url>
-  <url><loc>https://the-signal.id/emiten/CASH.html</loc><lastmod>2026-08-09</lastmod></url>
   <url><loc>https://the-signal.id/tema/pembatasan-pertalite.html</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://the-signal.id/tema/transisi-gubernur-bi.html</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://the-signal.id/tema/rebalancing-msci.html</loc><lastmod>2026-08-13</lastmod></url>
@@ -747,25 +753,25 @@
   <url><loc>https://the-signal.id/edisi/mingguan-2026-08-17.html</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://the-signal.id/topik/bursa-efek-indonesia.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/topik/kepemilikan-saham.html</loc><lastmod>2026-08-21</lastmod></url>
-  <url><loc>https://the-signal.id/topik/rupslb.html</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://the-signal.id/topik/rupslb.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/bank-indonesia.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/keterbukaan-informasi.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/topik/direksi.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/volatilitas-saham.html</loc><lastmod>2026-08-20</lastmod></url>
-  <url><loc>https://the-signal.id/topik/obligasi.html</loc><lastmod>2026-08-20</lastmod></url>
+  <url><loc>https://the-signal.id/topik/obligasi.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/komisaris.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/topik/ojk.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/topik/bri.html</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://the-signal.id/topik/rupiah.html</loc><lastmod>2026-08-18</lastmod></url>
   <url><loc>https://the-signal.id/topik/pertamina.html</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://the-signal.id/topik/pemegang-saham.html</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://the-signal.id/topik/presiden-prabowo.html</loc><lastmod>2026-08-15</lastmod></url>
   <url><loc>https://the-signal.id/topik/investasi.html</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://the-signal.id/topik/pemegang-saham.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/ihsg.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/laporan-keuangan.html</loc><lastmod>2026-08-20</lastmod></url>
   <url><loc>https://the-signal.id/topik/penambahan-modal.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/emas.html</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://the-signal.id/topik/telkom.html</loc><lastmod>2026-08-17</lastmod></url>
-  <url><loc>https://the-signal.id/arsip/2.html</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://the-signal.id/arsip/2.html</loc><lastmod>2026-08-15</lastmod></url>
   <url><loc>https://the-signal.id/arsip/3.html</loc><lastmod>2026-08-10</lastmod></url>
 </urlset>

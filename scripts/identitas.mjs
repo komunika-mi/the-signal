@@ -42,7 +42,11 @@ export const NODE_ORGANISASI = {
   },
   description: 'Media ekonomi Indonesia yang membaca arah kebijakan dan aksi ' +
     'korporasi dari dokumen resmi. Kolaborasi editorial dengan tvOneNews.',
-  inLanguage: 'id-ID',
+  // knowsLanguage, BUKAN inLanguage. inLanguage milik CreativeWork; sebuah
+  // organisasi tidak "berbahasa", ia MENGUASAI bahasa. Salah alamat sejak
+  // node ini pertama ditulis dan tidak pernah tertangkap, karena properti
+  // yang tidak berlaku untuk tipenya diabaikan tanpa keluhan.
+  knowsLanguage: 'id-ID',
 
   // Properti schema.org yang memang dibuat untuk kasus ini: membedakan
   // sebuah entitas dari entitas lain yang namanya mirip. Sengaja TIDAK

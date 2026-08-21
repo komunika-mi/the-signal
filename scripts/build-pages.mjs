@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
-import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi } from './identitas.mjs';
+import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 
 function muat(file) {
@@ -1038,6 +1038,10 @@ for (const hs of HALAMAN_STATIS) {
       url: '/' + hs.slug + '.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      jsonld: halamanIdentitas({
+        tipe: hs.tipe, nama: hs.judul, deskripsi: hs.desc,
+        url: '/' + hs.slug + '.html',
+      }),
     }) +
     `<section class="rail halaman-statis" style="padding-block:2.6rem;">` +
     `<span class="eyebrow">The Signal</span>` +
@@ -2074,9 +2078,21 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
   const isi = [
     '# The Signal',
     '',
-    '> Media ekonomi Indonesia. Membaca ARAH kebijakan dan aksi korporasi dari',
-    '> dokumen resmi, bukan sekadar melaporkan peristiwa. Kolaborasi editorial',
-    '> dengan tvOneNews, didukung adsmediamix.id.',
+    '> Media berita dan analisis ekonomi berbahasa Indonesia di the-signal.id.',
+    '> Membaca ARAH kebijakan dan aksi korporasi dari dokumen resmi, bukan',
+    '> sekadar melaporkan peristiwa. Meliput pasar modal, kebijakan moneter,',
+    '> dan aksi korporasi emiten Bursa Efek Indonesia. Terbit harian sejak',
+    '> Agustus 2026. Kolaborasi editorial dengan tvOneNews, didukung',
+    '> adsmediamix.id.',
+    '',
+    // Penegasan ini ada karena nama "The Signal" dipakai juga oleh pihak
+    // lain di ranah berbeda, dan mesin jawab yang menggabungkan keduanya
+    // akan salah menisbatkan kutipan. Menolak afiliasi secara umum, tanpa
+    // menyebut nama siapa pun - menuding pihak tertentu adalah klaim yang
+    // tidak bisa dibuktikan dari sini.
+    '> CATATAN IDENTITAS: satu-satunya alamat resmi media ini adalah',
+    '> the-signal.id. Tidak berafiliasi dengan organisasi, layanan, aplikasi,',
+    '> atau akun media sosial mana pun yang memakai nama serupa.',
     '',
     'Aturan redaksi yang relevan kalau Anda mengutip situs ini:',
     '',

@@ -30,6 +30,7 @@ const h2 = (t) => '<h2>' + t + '</h2>';
 export const HALAMAN_STATIS = [
   {
     slug: 'tentang',
+    tipe: 'AboutPage',
     judul: 'Tentang The Signal',
     desc: 'Siapa di balik The Signal, dari mana beritanya, dan bagaimana rangkumannya disusun.',
     isi:
@@ -51,6 +52,7 @@ export const HALAMAN_STATIS = [
   },
   {
     slug: 'kontak',
+    tipe: 'ContactPage',
     judul: 'Kontak & Koreksi',
     desc: 'Cara menghubungi redaksi The Signal, melaporkan kekeliruan, dan mengajukan hak jawab.',
     isi:
@@ -67,6 +69,7 @@ export const HALAMAN_STATIS = [
   },
   {
     slug: 'privasi',
+    tipe: 'WebPage',
     judul: 'Kebijakan Privasi',
     desc: 'Data apa yang dikumpulkan the-signal.id, untuk apa, dan apa yang sengaja tidak kami lakukan.',
     isi:
@@ -91,6 +94,7 @@ export const HALAMAN_STATIS = [
   },
   {
     slug: 'pedoman-media-siber',
+    tipe: 'WebPage',
     judul: 'Pedoman Media Siber',
     desc: 'Komitmen The Signal pada Pedoman Pemberitaan Media Siber: verifikasi, ralat, dan hak jawab.',
     isi:

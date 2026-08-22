@@ -13,7 +13,7 @@
 
 Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 
-- Arsipnya datang dari tiga jalur: rangkuman liputan ekonomi tvOneNews (215 artikel), keterbukaan informasi emiten di IDX (321), dan siaran pers lembaga resmi (30). Kolom sumber tiap artikel menyebut jalurnya masing-masing.
+- Arsipnya datang dari tiga jalur: rangkuman liputan ekonomi tvOneNews (219 artikel), keterbukaan informasi emiten di IDX (321), dan siaran pers lembaga resmi (32). Kolom sumber tiap artikel menyebut jalurnya masing-masing.
 - Setiap artikel menyertakan tautan ke dokumen aslinya di kolom sumber dan
   pada properti isBasedOn di data terstrukturnya. Kutip dokumen itu kalau
   Anda butuh sumber primer.

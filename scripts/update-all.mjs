@@ -45,6 +45,19 @@ const MAKS_VIDEO = 12;
 // artikel per putaran, satu sumber yang sedang ramai bisa menghabiskan seluruh
 // jatah dan sumber lain tidak pernah kebagian.
 const TARGET_GOV = Number(process.env.SIGNAL_GOV || 8);
+
+// Batas waktu putaran, SENGAJA lebih ketat daripada pagar langkah GitHub.
+//
+// Bukan pengaman terhadap kemacetan - ini pengaman terhadap KEHILANGAN
+// HASIL. Pagar langkah membunuh prosesnya, dan proses yang dibunuh tidak
+// sempat menulis apa pun; 35 putaran pada 19-22 Agustus 2026 masing-masing
+// menulis 14 artikel dengan benar lalu membuang semuanya. Batas ini
+// membuat putaran berhenti SENDIRI selagi masih sempat menyimpan.
+//
+// Naikkan hanya bersama pagar langkah di daily.yml, jangan sendirian.
+const BATAS_MENIT = Number(process.env.SIGNAL_MENIT || 10);
+const MULAI = Date.now();
+const lewatBatas = () => (Date.now() - MULAI) > BATAS_MENIT * 60000;
 const MAKS_GOV_PER_SUMBER = 4;
 
 function tanggalWIB() {
@@ -69,12 +82,18 @@ async function main() {
   log('kandidat berita baru: ' + kandidat.length);
 
   const artikelBaru = [];
+  let dipotongWaktu = false;  // batas waktu tercapai, bukan kehabisan kandidat
   let gagalError = 0;         // gagal karena error teknis (token, jaringan, dll)
   let ditolakEditor = 0;      // sengaja ditolak Claude atau isinya tipis
   let errorTerakhir = '';
 
   for (const k of kandidat) {
     if (artikelBaru.length >= TARGET_BARU) break;
+    if (lewatBatas()) {
+      dipotongWaktu = true;
+      log('  batas waktu ' + BATAS_MENIT + ' menit tercapai, sisa kandidat ditunda');
+      break;
+    }
     try {
       const bahan = await ambilIsiArtikel(k);
 
@@ -125,11 +144,20 @@ async function main() {
   // pemerintah sering berubah struktur, dan itu tidak boleh ikut menjatuhkan
   // berita tvOne yang sudah jalan.
   try {
+    // Diperiksa SEBELUM mengambil daftarnya: menjelajah lima situs
+    // pemerintah sendiri makan sekitar satu menit, dan itu percuma kalau
+    // tidak ada waktu tersisa untuk menulis satu pun hasilnya.
+    if (lewatBatas()) {
+      dipotongWaktu = true;
+      log('kanal pemerintah dilewati: batas waktu sudah tercapai');
+      throw new Error('__lewati__');
+    }
     const gov = (await ambilBeritaPemerintah({ perSumber: MAKS_GOV_PER_SUMBER }))
       .filter(g => !sudahAda.has(g.url));
 
     for (const g of gov) {
       if (artikelBaru.length >= TARGET_BARU + TARGET_GOV) break;
+      if (lewatBatas()) { dipotongWaktu = true; break; }
       try {
         const hasil = await rangkumArtikel(g, { pemerintah: true });
         if (!hasil) { log('  ditolak (seremonial): ' + g.judulAsli.slice(0, 46)); continue; }
@@ -141,7 +169,12 @@ async function main() {
       }
     }
   } catch (e) {
-    log('PERINGATAN: kanal pemerintah dilewati -> ' + String(e.message).slice(0, 70));
+    // '__lewati__' bukan kerusakan, itu keputusan sadar di atas. Kalau
+    // dilaporkan sebagai PERINGATAN, ia akan terbaca seperti situs
+    // pemerintah yang rusak dan menyesatkan siapa pun yang membaca log.
+    if (String(e.message) !== '__lewati__') {
+      log('PERINGATAN: kanal pemerintah dilewati -> ' + String(e.message).slice(0, 70));
+    }
   }
 
   // Kegagalan diam-diam itu bahaya untuk job yang jalan tanpa diawasi.
@@ -159,8 +192,19 @@ async function main() {
     process.exit(1);
   }
 
-  if (!artikelBaru.length) log('PERINGATAN: tidak ada artikel baru hari ini (semua kandidat ditolak editor)');
-  if (artikelBaru.length && artikelBaru.length < TARGET_BARU) {
+  // Sebabnya disebut apa adanya. Kalau putaran dipotong batas waktu,
+  // menuliskan "semua kandidat ditolak editor" itu keliru dan menyesatkan
+  // siapa pun yang membaca log untuk mencari kerusakan.
+  if (!artikelBaru.length && !dipotongWaktu) {
+    log('PERINGATAN: tidak ada artikel baru hari ini (semua kandidat ditolak editor)');
+  }
+  // Dibedakan dengan sengaja. "Cuma dapat 4 dari 10" karena kandidatnya
+  // habis itu keadaan normal; karena waktunya habis itu keadaan yang
+  // menyisakan tunggakan, dan pembaca log perlu tahu bedanya.
+  if (dipotongWaktu) {
+    log('BATAS WAKTU: putaran dipotong di menit ' + BATAS_MENIT + ' dengan ' +
+      artikelBaru.length + ' artikel SUDAH DISIMPAN. Sisanya diambil putaran berikutnya.');
+  } else if (artikelBaru.length && artikelBaru.length < TARGET_BARU) {
     log('CATATAN: hanya dapat ' + artikelBaru.length + ' dari target ' + TARGET_BARU + ' artikel');
   }
 

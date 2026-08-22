@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
-import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas } from './identitas.mjs';
+import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas, ID_ORGANISASI } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 
 function muat(file) {
@@ -977,8 +977,24 @@ if (BPS && BPS.indikator && Object.keys(BPS.indikator).length) {
         description: 'Indikator ekonomi Indonesia terbaru dari Badan Pusat Statistik, ' +
           'disajikan dengan grafik pergerakannya.',
         inLanguage: 'id-ID', isAccessibleForFree: true,
-        creator: { '@type': 'GovernmentOrganization', name: 'Badan Pusat Statistik', url: 'https://www.bps.go.id' },
-        publisher: RUJUK_ORGANISASI,
+        // Organization, bukan GovernmentOrganization. Turunan itu sah di
+        // schema.org tapi ditolak pengurai Dataset milik Google, yang untuk
+        // medan ini hanya menerima Person atau Organization apa adanya.
+        creator: {
+          '@type': 'Organization', name: 'Badan Pusat Statistik',
+          alternateName: 'BPS', url: 'https://www.bps.go.id',
+        },
+        // @type dan name ikut DI TEMPAT, bukan cuma rujukan @id. Google
+        // tidak menelusuri grafik halaman untuk medan ini. @id tetap ada
+        // supaya tautannya ke node identitas tidak putus.
+        publisher: {
+          '@type': 'Organization', '@id': ID_ORGANISASI,
+          name: 'The Signal', url: BASE + '/',
+        },
+        // Angkanya milik BPS, dan BPS menyatakan hak cipta - bukan lisensi
+        // terbuka. Jadi yang ditunjuk halaman ketentuannya sendiri, bukan
+        // lisensi bebas yang tidak pernah mereka berikan.
+        license: 'https://www.bps.go.id/id/term-of-use',
         variableMeasured: kode.map(k => (BPS.indikator[k] || {}).nama).filter(Boolean),
       },
     }) + isi + FOOT, 'utf8');

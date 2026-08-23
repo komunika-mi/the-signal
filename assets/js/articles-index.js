@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali",
+  "category": "Energi",
+  "title": "DPR Dorong RUU Migas [Pangkas] Birokrasi agar Investor Kembali",
+  "deck": "DPR mendorong RUU Migas memangkas birokrasi perizinan agar investor kembali masuk dan mendongkrak lifting minyak nasional.",
+  "date": "23 Agustus 2026",
+  "image": "assets/img/dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali.jpg",
+  "imageV": "mt5v2yts",
+  "tags": [
+   "RUU Migas",
+   "Lifting Minyak",
+   "Investasi Migas",
+   "DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461998-dorong-ruu-migas-agar-investor-kembali-dongkrak-lifting-minyak-dpr-soroti-birokrasi-yang-berbelit"
+ },
+ {
   "slug": "umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan",
   "category": "UMKM",
   "title": "UMKM Perempuan Capai 64,5 Persen, BI Soroti Akses [Keuangan]",
@@ -496,6 +513,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461651-pertamina-hadir-dampingi-warga-terdampak-gempa-flores"
+ },
+ {
+  "slug": "pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo",
+  "category": "BUMN",
+  "title": "Pertamina Buka [Posko Kesehatan] Gratis untuk Pengungsi Gempa Reo",
+  "deck": "Pertamina Patra Niaga membuka posko kesehatan gratis bagi pengungsi gempa di Reo, Manggarai, NTT, melayani pemeriksaan kesehatan, tekanan darah, dan pemberian obat serta vitamin.",
+  "date": "22 Agustus 2026",
+  "image": "assets/img/pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo.jpg",
+  "imageV": "mt5v2zfu",
+  "tags": [
+   "Pertamina",
+   "Gempa Manggarai",
+   "NTT",
+   "Posko Pertamina Peduli"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461649-pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-di-reo"
  },
  {
   "slug": "pertamina-kejar-ekspansi-panas-bumi-lewat-pge",
@@ -1060,6 +1094,57 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga",
+  "category": "BUMN",
+  "title": "Pegadaian Tawarkan [Cicilan] Emas Redam Gejolak Harga",
+  "deck": "Pegadaian meluncurkan skema cicilan tabungan emas dengan harga terkunci sejak akad, agar cicilan tak berubah meski harga emas pasar naik.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga.jpg",
+  "imageV": "mt5v302g",
+  "tags": [
+   "Pegadaian",
+   "emas",
+   "investasi emas",
+   "cicilan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461512-pegadaian-hadirkan-solusi-cicil-tabungan-emas-untuk-atasi-fluktuasi-harga-emas"
+ },
+ {
+  "slug": "danantara-kebut-merger-dan-restrukturisasi-pt-pp",
+  "category": "BUMN",
+  "title": "Danantara Kebut [Merger] dan Restrukturisasi PT PP",
+  "deck": "Danantara menyiapkan skema merger PT PP sebelum restrukturisasi, menekankan proses harus tuntas tanpa penundaan agar struktur bisnis lebih fokus pada bisnis inti.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/danantara-kebut-merger-dan-restrukturisasi-pt-pp.jpg",
+  "imageV": "mt5v30nd",
+  "tags": [
+   "PT PP",
+   "Danantara",
+   "BUMN Karya",
+   "Merger BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461508-disiapkan-skema-merger-dan-restrukturisasi-pt-pp-danantara-harus-tuntas"
+ },
+ {
+  "slug": "bri-group-sabet-enam-penghargaan-finance-asia",
+  "category": "Perbankan",
+  "title": "BRI Group Sabet [Enam] Penghargaan Finance Asia",
+  "deck": "BRI Group meraih enam penghargaan di ajang Asia's Best Companies dan Finance Asia Awards 2026, termasuk gelar Best CEO untuk Dirut Hery Gunardi.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/bri-group-sabet-enam-penghargaan-finance-asia.jpg",
+  "imageV": "mt5v310e",
+  "tags": [
+   "BRI",
+   "Finance Asia",
+   "penghargaan",
+   "perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461506-bri-group-sabet-enam-penghargaan-internasional-dari-finance-asia-perkuat-posisi-sebagai-institusi-keuangan-berkelas-dunia"
+ },
+ {
   "slug": "aspr-total-liabilitas-melonjak-21-69-jadi-rp183-17-miliar",
   "category": "Aksi Korporasi",
   "title": "ASPR: Total [Liabilitas] Melonjak 21,69% Jadi Rp183,17 Miliar",
@@ -1074,6 +1159,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/784738c7a4_030f06073b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "danantara-awasi-ketat-restrukturisasi-wika",
+  "category": "BUMN",
+  "title": "Danantara [Awasi] Ketat Restrukturisasi WIKA",
+  "deck": "Danantara menuntut laporan keuangan WIKA disusun sesuai kondisi riil sebagai dasar restrukturisasi, bukan rekayasa angka di atas kertas.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/danantara-awasi-ketat-restrukturisasi-wika.jpg",
+  "imageV": "mt5v31ea",
+  "tags": [
+   "WIKA",
+   "Danantara",
+   "restrukturisasi BUMN",
+   "Dony Oskaria"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461499-restrukturisasi-wika-dalam-kawalan-ketat-danantara"
  },
  {
   "slug": "direksi-cybr-borong-4-57-juta-saham-itsec-asia",
@@ -1300,6 +1402,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton",
+  "category": "Perbankan",
+  "title": "Presiden Prabowo Soroti Bank Emas, BRI Kelola [153] Ton",
+  "deck": "Presiden Prabowo menyoroti potensi Bank Emas Indonesia, sementara BRI Group melalui Holding Ultra Mikro sudah mengelola ekosistem emas senilai 153 ton.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton.jpg",
+  "imageV": "mt5v31sf",
+  "tags": [
+   "Bank Emas",
+   "BRI",
+   "Pegadaian",
+   "Holding Ultra Mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461433-presiden-prabowo-ungkap-potensi-bank-emas-bri-group-kelola-ekosistem-emas-153-ton-melalui-ekosistem-ultra-mikro"
+ },
+ {
   "slug": "cash-sandra-angela-tambah-saham-hak-suara-ke-8-07",
   "category": "Aksi Korporasi",
   "title": "CASH: Sandra Angela [Tambah] Saham, Hak Suara ke 8,07%",
@@ -1314,6 +1433,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-6924-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru",
+  "category": "Perbankan",
+  "title": "Direktur Pegadaian Jadi Ketua Umum [IBMA], Asosiasi Emas Baru",
+  "deck": "Indonesia Bullion Market Association resmi terbentuk untuk menyatukan pelaku industri emas nasional, dipimpin Direktur Pegadaian Selfie Dewiyanti sebagai ketua umum pertama.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru.jpg",
+  "imageV": "mt5v326r",
+  "tags": [
+   "IBMA",
+   "bank emas",
+   "Pegadaian",
+   "BSI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461432-dorong-pembangunan-ekosistem-emas-berstandar-internasional-direktur-pegadaian-resmi-jadi-ketua-umum-indonesia-bullion-market-association"
  },
  {
   "slug": "kdtn-putrasakti-mandiri-jual-saham-lagi-untuk-restrukturisasi-grup",
@@ -1407,6 +1543,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b144b134ab_8f499fbf88.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang",
+  "category": "Pasar Modal",
+  "title": "Laba Asuransi Umum LGI [Tumbuh] di Tengah Ekonomi Menantang",
+  "deck": "PT Lippo General Insurance Tbk membukukan kenaikan pendapatan dan laba sebelum pajak pada semester I 2026, melanjutkan tren kinerja rekor di tengah ekonomi yang masih menantang.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang.jpg",
+  "imageV": "mt5v32l3",
+  "tags": [
+   "asuransi",
+   "Lippo General Insurance",
+   "laporan keuangan",
+   "IFRS 17"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461401-di-tengah-ekonomi-menantang-pendapatan-asuransi-umum-tumbuh-hingga-339-persen"
  },
  {
   "slug": "mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100",
@@ -6484,158 +6637,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459517-umkm-binaan-pertamina-raih-omzet-rp857-miliar-sepanjang-semester-i-2026-berkat-perluasan-akses-pasar"
- },
- {
-  "slug": "purbaya-temukan-banyak-masalah-keuangan-mbg-di-daerah",
-  "category": "Makroekonomi",
-  "title": "Purbaya Temukan [Banyak] Masalah Keuangan MBG di Daerah",
-  "deck": "Menkeu Purbaya menemukan banyak kekurangan pertanggungjawaban keuangan program MBG di daerah dan akan melaporkannya ke BGN untuk ditindaklanjuti.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/purbaya-temukan-banyak-masalah-keuangan-mbg-di-daerah.jpg",
-  "imageV": "tjop80",
-  "tags": [
-   "MBG",
-   "BGN",
-   "Purbaya Yudhi Sadewa",
-   "Kementerian Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459490-purbaya-temukan-banyak-masalah-dalam-keuangan-mbg-di-daerah-bgn-diminta-segera-benahi"
- },
- {
-  "slug": "pajak-e-commerce-berpeluang-tertunda-lagi-hingga-oktober",
-  "category": "Makroekonomi",
-  "title": "Pajak E-Commerce Berpeluang [Tertunda] Lagi hingga Oktober",
-  "deck": "Purbaya sebut penerapan pajak marketplace yang sedianya mulai 1 Agustus 2026 masih bisa mundur lagi hingga Oktober, menunggu kondisi daya beli masyarakat membaik.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/pajak-e-commerce-berpeluang-tertunda-lagi-hingga-oktober.jpg",
-  "imageV": "tjop80",
-  "tags": [
-   "pajak e-commerce",
-   "PPh 22",
-   "Purbaya Yudhi Sadewa",
-   "daya beli"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459488-pajak-e-commerce-belum-pasti-jalan-november-purbaya-soroti-kondisi-ekonomi-dan-daya-beli"
- },
- {
-  "slug": "bright-gas-diskon-hingga-rp8-100-sambut-kemerdekaan",
-  "category": "Energi",
-  "title": "Bright Gas [Diskon] hingga Rp8.100 Sambut Kemerdekaan",
-  "deck": "Pertamina Patra Niaga potong harga isi ulang Bright Gas 5,5 kg dan 12 kg hingga Rp8.100 per tabung, berlaku 15-23 Agustus 2026.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/bright-gas-diskon-hingga-rp8-100-sambut-kemerdekaan.jpg",
-  "imageV": "tjop81",
-  "tags": [
-   "Bright Gas",
-   "Pertamina Patra Niaga",
-   "LPG",
-   "promo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459500-sambut-hari-kemerdekaan-bright-gas-diskon-hingga-rp8100-per-tabung-hingga-akhir-agustus"
- },
- {
-  "slug": "inflasi-as-melandai-peluang-kenaikan-bunga-fed-menipis",
-  "category": "Global",
-  "title": "Inflasi AS [Melandai], Peluang Kenaikan Bunga Fed Menipis",
-  "deck": "CPI AS Juli naik tipis 0,1 persen sesuai perkiraan, membuat pasar memangkas peluang kenaikan suku bunga The Fed pada September.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/inflasi-as-melandai-peluang-kenaikan-bunga-fed-menipis.jpg",
-  "imageV": "tjop82",
-  "tags": [
-   "CPI AS",
-   "The Fed",
-   "inflasi",
-   "suku bunga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459484-cpi-as-juli-melandai-peluang-kenaikan-suku-bunga-the-fed-september-makin-tertekan"
- },
- {
-  "slug": "kenapa-desil-9-10-jadi-penentu-beli-pertalite",
-  "category": "Energi",
-  "title": "Kenapa [Desil] 9-10 Jadi Penentu Beli Pertalite?",
-  "deck": "Pemerintah mengkaji pembatasan pembelian Pertalite bagi rumah tangga desil 9-10, kelompok kesejahteraan tertinggi dalam data pemerintah.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/kenapa-desil-9-10-jadi-penentu-beli-pertalite.jpg",
-  "imageV": "tjop82",
-  "tags": [
-   "desil",
-   "Pertalite",
-   "subsidi BBM",
-   "ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459483-desil-1-10-jadi-penentu-beli-pertalite-ini-arti-perbedaan-dan-cara-ceknya"
- },
- {
-  "slug": "pertalite-bakal-dibatasi-untuk-desil-9-10",
-  "category": "Energi",
-  "title": "Pertalite Bakal [Dibatasi] untuk Desil 9-10",
-  "deck": "Pemerintah menyiapkan aturan agar rumah tangga dengan pengeluaran tertinggi tak lagi bisa membeli Pertalite dan diarahkan ke Pertamax mulai akhir 2026.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/pertalite-bakal-dibatasi-untuk-desil-9-10.jpg",
-  "imageV": "tjop83",
-  "tags": [
-   "pertalite",
-   "subsidi bbm",
-   "desil",
-   "pertamax"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459480-desil-9-10-bakal-tak-bisa-beli-pertalite-ini-batas-pengeluaran-dan-aturan-barunya"
- },
- {
-  "slug": "ptro-kantongi-kontrak-tambang-batu-bara-rp9-3-triliun",
-  "category": "Energi",
-  "title": "PTRO Kantongi [Kontrak] Tambang Batu Bara Rp9,3 Triliun",
-  "deck": "Petrosea meraih dua kontrak jasa tambang batu bara senilai Rp9,3 triliun dari anak usaha SINI di Kalimantan Tengah, berlaku sepanjang usia tambang.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/ptro-kantongi-kontrak-tambang-batu-bara-rp9-3-triliun.jpg",
-  "imageV": "tjop84",
-  "tags": [
-   "PTRO",
-   "Petrosea",
-   "SINI",
-   "batu bara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459478-ptro-kantongi-kontrak-tambang-rp93-triliun-garap-proyek-batu-bara-milik-anak-usaha-sini"
- },
- {
-  "slug": "purbaya-pajak-kontrakan-bukan-aturan-baru",
-  "category": "Makroekonomi",
-  "title": "Purbaya: Pajak Kontrakan [Bukan] Aturan Baru",
-  "deck": "Purbaya menegaskan tidak ada pajak khusus untuk kontrakan pada 2027, aturan pajak yang berlaku tetap sama seperti biasa.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/purbaya-pajak-kontrakan-bukan-aturan-baru.jpg",
-  "imageV": "tjop85",
-  "tags": [
-   "pajak",
-   "purbaya yudhi sadewa",
-   "rumah kontrakan",
-   "DJP"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459457-purbaya-luruskan-isu-rumah-kontrakan-akan-kena-pajak-tahun-depan-kalau-ada-income-itu-kan-biasa"
- },
- {
-  "slug": "pbsa-rencanakan-pemecahan-saham-rupslb-18-september",
-  "category": "Aksi Korporasi",
-  "title": "PBSA Rencanakan [Pemecahan Saham], RUPSLB 18 September",
-  "deck": "PBSA mengajukan rencana pemecahan saham, akan dimintakan persetujuan RUPSLB pada 18 September 2026 untuk menurunkan harga saham dan mendorong likuiditas perdagangan.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/pbsa-rencanakan-pemecahan-saham-rupslb-18-september.jpg",
-  "imageV": "mss8ez98",
-  "tags": [
-   "PBSA",
-   "pemecahan saham",
-   "RUPSLB",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/acdcb254db_ef798ffdf6.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali",
+  "category": "Energi",
+  "title": "DPR Dorong RUU Migas [Pangkas] Birokrasi agar Investor Kembali",
+  "deck": "DPR mendorong RUU Migas memangkas birokrasi perizinan agar investor kembali masuk dan mendongkrak lifting minyak nasional.",
+  "image": "assets/img/dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali.jpg",
+  "date": "23 Agustus 2026",
+  "isoDate": "2026-08-23T20:04:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461998-dorong-ruu-migas-agar-investor-kembali-dongkrak-lifting-minyak-dpr-soroti-birokrasi-yang-berbelit",
+  "tags": [
+   "RUU Migas",
+   "Lifting Minyak",
+   "Investasi Migas",
+   "DPR"
+  ],
+  "body": [
+   "Dewan Perwakilan Rakyat mendorong Rancangan Undang-Undang Minyak dan Gas Bumi supaya tidak sekadar mengganti aturan lama, melainkan benar-benar mengubah tata kelola sektor migas. Komisi XII DPR menilai birokrasi yang berbelit selama ini menjadi salah satu penghambat utama masuknya investasi dan naiknya produksi minyak nasional.",
+   "Anggota Komisi XII DPR Ramson Siagian mengatakan peningkatan lifting minyak membutuhkan waktu panjang, mulai dari eksplorasi hingga produksi, sehingga perlu ekosistem investasi yang kuat. Politikus Partai Gerindra ini menyebut RUU Migas harus memastikan kontraktor migas, yang selama ini disebut Kontraktor Kontrak Kerja Sama atau K3S, benar-benar membawa modal, teknologi, dan sumber daya manusia yang tepat tanpa terganjal proses birokrasi.",
+   "Ramson mengingatkan bahwa lifting minyak nasional pernah mencapai sekitar 1,6 juta barel per hari. Sebagai perbandingan, ketika Undang-Undang Nomor 22 Tahun 2001 tentang Minyak dan Gas Bumi disusun, produksi minyak Indonesia masih berada di kisaran 1,2 juta barel per hari. Ia menilai penambahan berbagai regulasi dalam kurun sekitar sepuluh tahun terakhir justru membuat birokrasi migas semakin berlapis dan prosedur semakin panjang, sehingga berpotensi memperlambat masuknya investasi baru maupun pengembangan lapangan migas.",
+   "Atas dasar itu, Komisi XII DPR kini membahas desain kelembagaan baru dalam RUU Migas, salah satu opsinya adalah membentuk Badan Usaha Khusus atau BUK. Ramson berharap lembaga baru ini membuat proses pengembangan sektor migas lebih efektif, sehingga kontraktor bisa lebih fokus pada kegiatan eksplorasi dan produksi tanpa terbebani prosedur yang tidak perlu."
+  ],
+  "fotoAdegan": "Oil rig workers inspecting pipeline valves at an onshore drilling site in Indonesia, early morning haze, industrial gear visible.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/08/69fddbdaced3d-ilustrasi-produksi-minyak-dan-gas-bumi-migas-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret baru sebatas arah pembahasan: Komisi XII DPR tengah mematangkan desain kelembagaan baru dalam RUU Migas, dengan opsi pembentukan Badan Usaha Khusus atau BUK yang diharapkan memangkas rantai birokrasi perizinan migas. Pihak yang paling berkepentingan adalah kontraktor migas yang dalam berita disebut K3S, karena merekalah yang selama ini menghadapi prosedur berlapis, serta industri migas nasional secara luas mengingat produksi minyak sudah jauh menyusut dari puncak 1,6 juta barel per hari. Yang masih kurang untuk memastikan ke mana arah kebijakan ini bergerak adalah naskah resmi RUU Migas, kewenangan pasti yang akan dimiliki BUK, dan jadwal pembahasan atau pengesahannya di DPR, karena sejauh ini semua masih berupa opsi yang dibicarakan, bukan keputusan final. Pembaca perlu memantau apakah desain BUK ini benar masuk draf resmi yang dibawa ke rapat kerja Komisi XII berikutnya.",
+  "imageV": "mt5v2yts"
+ },
+ {
   "slug": "umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan",
   "category": "UMKM",
   "title": "UMKM Perempuan Capai 64,5 Persen, BI Soroti Akses [Keuangan]",
@@ -793,6 +820,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret di lapangan: dari total sekitar 9.600 paket sembako yang sudah disalurkan Pertamina ke wilayah terdampak gempa NTT, posko di Reo kini juga mendapat tambahan pasokan gas untuk dapur umum dan program bermain khusus anak-anak, bukan cuma bantuan makanan seperti tahap awal. Yang terdampak jelas warga pengungsian di Kecamatan Reo, Manggarai, termasuk anak-anak yang ikut mengungsi sejak gempa terjadi. Pergeseran dari sekadar sembako ke dukungan semacam trauma healing menunjukkan arah bantuan mulai bergerak dari tanggap darurat ke tahap pemulihan yang lebih menyeluruh. Yang akan memastikan pola ini berlanjut adalah batch bantuan berikutnya yang menurut Arya sedang disiapkan, serta apakah instansi lain seperti pemerintah daerah turut menambah pasokan ke posko yang sama.",
   "imageV": "mt5sb4uw"
+ },
+ {
+  "slug": "pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo",
+  "category": "BUMN",
+  "title": "Pertamina Buka [Posko Kesehatan] Gratis untuk Pengungsi Gempa Reo",
+  "deck": "Pertamina Patra Niaga membuka posko kesehatan gratis bagi pengungsi gempa di Reo, Manggarai, NTT, melayani pemeriksaan kesehatan, tekanan darah, dan pemberian obat serta vitamin.",
+  "image": "assets/img/pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo.jpg",
+  "date": "22 Agustus 2026",
+  "isoDate": "2026-08-22T08:59:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461649-pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-di-reo",
+  "tags": [
+   "Pertamina",
+   "Gempa Manggarai",
+   "NTT",
+   "Posko Pertamina Peduli"
+  ],
+  "body": [
+   "PT Pertamina (Persero) melalui anak usahanya, Pertamina Patra Niaga, membuka posko kesehatan gratis bagi para pengungsi korban gempa bumi di Lapangan Barangkolong, Kecamatan Reo, Kabupaten Manggarai, Nusa Tenggara Timur. Posko yang diberi nama Pertamina Peduli ini menjadi bagian dari upaya perusahaan memastikan masyarakat terdampak bencana tetap mendapat akses layanan kesehatan di tengah kondisi darurat.",
+   "Layanan yang disediakan meliputi pemeriksaan kondisi kesehatan, pengecekan tekanan darah, konsultasi keluhan, hingga pemberian obat-obatan dan vitamin sesuai kebutuhan. Tim medis dari Pertamina Patra Niaga Regional Jatimbalinus diturunkan dan bergabung dengan kedokteran kepolisian untuk melayani warga di kawasan tenda pengungsian Kecamatan Reo, terutama balita, anak-anak, dan orang tua. Menurut dr. Aji Wibowo, tim medis yang bertugas, sebagian besar keluhan penyintas adalah flu, batuk, serta luka akibat reruntuhan puing bangunan.",
+   "Corporate Secretary Pertamina, Arya Dwi Paramita, mengatakan dukungan perusahaan tidak terbatas pada kebutuhan logistik, tetapi juga mencakup aspek kesehatan dan kondisi psikologis warga terdampak. Salah seorang pengungsi asal Kelurahan Mata Air, Kecamatan Reok, Hamsyah, menyambut baik kehadiran layanan tersebut dan menyebut pelayanan posko, mulai dari dapur umum hingga layanan medis, berjalan baik."
+  ],
+  "fotoAdegan": "Volunteer medical staff checking an elderly refugee's blood pressure under a relief tent at a rural evacuation camp in eastern Indonesia.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/22/6a89017c661d1-pt-pertamina-persero-melalui-pertamina-patra-niaga-membuka-layanan-kesehatan-bagi-pengungsi-terdampak-gempa-bumi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah Pertamina membuka satu posko kesehatan gratis di Lapangan Barangkolong, Reo, dengan layanan pemeriksaan dasar, tekanan darah, obat, dan vitamin, didukung tim medis Regional Jatimbalinus yang bergabung dengan kedokteran kepolisian. Yang jelas kena dampak dari beritanya adalah pengungsi gempa di Kecamatan Reo, Manggarai, khususnya balita, anak-anak, dan lansia di tenda pengungsian, dengan keluhan dominan flu, batuk, dan luka akibat reruntuhan. Berita ini belum menyebut skala gempa, jumlah total pengungsi, atau berapa lama posko ini akan beroperasi, jadi belum bisa dibaca apakah ini bantuan darurat jangka pendek atau bagian dari dukungan pemulihan yang lebih panjang. Yang perlu dipantau adalah keterangan resmi BNPB atau pemerintah daerah Manggarai soal skala kerusakan dan durasi masa tanggap darurat, karena itu yang akan menentukan berapa lama dukungan semacam ini masih dibutuhkan.",
+  "imageV": "mt5v2zfu"
  },
  {
   "slug": "pertamina-kejar-ekspansi-panas-bumi-lewat-pge",
@@ -1706,6 +1759,86 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga",
+  "category": "BUMN",
+  "title": "Pegadaian Tawarkan [Cicilan] Emas Redam Gejolak Harga",
+  "deck": "Pegadaian meluncurkan skema cicilan tabungan emas dengan harga terkunci sejak akad, agar cicilan tak berubah meski harga emas pasar naik.",
+  "image": "assets/img/pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T16:02:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461512-pegadaian-hadirkan-solusi-cicil-tabungan-emas-untuk-atasi-fluktuasi-harga-emas",
+  "tags": [
+   "Pegadaian",
+   "emas",
+   "investasi emas",
+   "cicilan"
+  ],
+  "body": [
+   "Pegadaian meluncurkan produk baru bernama Cicil Tabungan Emas sebagai respons atas harga emas yang kerap naik turun tajam belakangan ini. Produk ini penting karena selama ini banyak masyarakat urung membeli emas karena harus menyediakan dana tunai sekaligus, padahal harga logam mulia itu bisa melonjak sewaktu-waktu. Dengan skema cicilan, Pegadaian menawarkan jalan bagi investor pemula maupun yang sudah berpengalaman untuk mulai membangun aset emas secara bertahap.",
+   "Keunggulan utama produk ini adalah sistem penguncian harga, atau booking price, yang berlaku sejak nasabah menandatangani akad pembiayaan. Artinya, besaran angsuran harian maupun bulanan nasabah akan tetap sama sampai cicilan lunas, berapa pun kenaikan harga emas di pasar selama periode tersebut. Direktur Pemasaran, Penjualan, dan Pengembangan Produk PT Pegadaian (Persero), Selfie Dewiyanti, menjelaskan bahwa saldo emas nasabah langsung tercatat dan tersimpan di rekening emas Pegadaian sejak setoran cicilan pertama disetorkan, sehingga nasabah tetap terlindungi dari risiko kenaikan harga meski belum melunasi seluruh cicilan.",
+   "Pegadaian menyebut sejumlah kemudahan lain dalam skema ini, antara lain uang muka yang ringan, pilihan jangka waktu cicilan yang fleksibel, serta pilihan gramasi emas yang beragam mulai dari 0,5 gram. Skema ini diklaim lebih fleksibel dibanding membeli emas tunai konvensional yang membutuhkan modal besar sekaligus dan berisiko rugi jika pembelian ditunda saat harga naik.",
+   "Pegadaian juga menyinggung kondisi harga emas yang sempat melandai belakangan ini sebagai momentum yang dinilai ideal bagi masyarakat untuk mulai mengumpulkan aset emas dengan harga yang lebih kompetitif melalui skema cicilan tersebut."
+  ],
+  "fotoAdegan": "Gold savings counter inside a financial services branch, small gold bars and coins arranged in a glass display case, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a8813ae1c545-pegadaian-menawarkan-solusi-investasi-cerdas-melalui-produk-cicil-tabungan-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Inti perubahannya ada di mekanisme, bukan di harga, yaitu Pegadaian mengunci besaran cicilan sejak akad diteken lewat sistem booking price, sehingga nasabah tidak kena tambahan biaya meski harga emas pasar naik selama masa cicilan. Yang kena dampak jelas masyarakat bermodal terbatas yang selama ini urung investasi emas karena harus beli tunai sekaligus, karena sekarang bisa mulai dari pecahan 0,5 gram dengan uang muka yang disebut ringan. Tapi pengumuman ini tidak menyebut angka pastinya, seperti persentase uang muka, biaya administrasi, atau margin yang dikenakan Pegadaian dalam skema cicilan ini. Tanpa angka tersebut, publik belum bisa menilai apakah mengunci harga lewat cicilan ini benar-benar lebih hemat dibanding menabung emas tunai bertahap lewat produk tabungan emas biasa. Yang perlu ditunggu adalah rincian biaya resmi dari Pegadaian, karena itu yang akan menentukan seberapa kompetitif skema ini dibanding cara lain membeli emas.",
+  "imageV": "mt5v302g"
+ },
+ {
+  "slug": "danantara-kebut-merger-dan-restrukturisasi-pt-pp",
+  "category": "BUMN",
+  "title": "Danantara Kebut [Merger] dan Restrukturisasi PT PP",
+  "deck": "Danantara menyiapkan skema merger PT PP sebelum restrukturisasi, menekankan proses harus tuntas tanpa penundaan agar struktur bisnis lebih fokus pada bisnis inti.",
+  "image": "assets/img/danantara-kebut-merger-dan-restrukturisasi-pt-pp.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T15:55:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461508-disiapkan-skema-merger-dan-restrukturisasi-pt-pp-danantara-harus-tuntas",
+  "tags": [
+   "PT PP",
+   "Danantara",
+   "BUMN Karya",
+   "Merger BUMN"
+  ],
+  "body": [
+   "Danantara tengah menyiapkan skema merger sekaligus restrukturisasi untuk PT PP (Persero) Tbk. Kepala Badan Pengaturan BUMN sekaligus Chief Operating Officer Danantara, Dony Oskaria, menegaskan urutan prosesnya adalah merger terlebih dahulu, baru kemudian restrukturisasi, dan seluruh rangkaian ini harus tuntas tanpa penundaan.",
+   "Sebelum merger dijalankan, Danantara akan menata ulang kondisi keuangan PT PP secara menyeluruh. Perusahaan perlu memetakan pos mana yang akan diserap ke entitas baru dan pos mana yang perlu dikoreksi dalam pembukuan, agar posisi keuangan PP transparan sebelum masuk tahap penggabungan.",
+   "Setelah proses merger rampung, penataan dilanjutkan lewat restrukturisasi agar PT PP memiliki struktur bisnis yang lebih fokus pada lini usaha inti dengan prospek pertumbuhan. Danantara menilai penggabungan sumber daya, kapasitas, dan kompetensi lewat merger akan memperbesar skala usaha, sehingga efisiensi operasional dan daya saing BUMN Karya bisa meningkat."
+  ],
+  "fotoAdegan": "Construction workers and heavy machinery at a large infrastructure building site, tower cranes overhead, overcast midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a880fefecb95-kepala-bp-bumn-sekaligus-coo-danantara-dony-oskaria_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah urutan kerjanya: Danantara ingin PT PP digabung dulu lewat merger, baru setelah itu strukturnya dirapikan lewat restrukturisasi, bukan sebaliknya. Sebelum merger jalan, akan ada penghitungan pos mana yang perlu diserap ke pembukuan baru dan mana yang perlu dikoreksi, artinya nilai aset dan utang PP akan dipetakan ulang lebih dulu. Yang langsung terdampak adalah PT PP sendiri sebagai BUMN konstruksi yang sahamnya diperdagangkan di bursa, sehingga perubahan struktur ini berpotensi memengaruhi performanya sebagai emiten publik. Yang belum terjawab dari keterangan ini adalah PP akan digabung dengan entitas apa, berapa besar nilai yang perlu dikoreksi dalam laporan keuangan, dan kapan tenggat penyelesaiannya, meski Dony Oskaria menegaskan prosesnya tidak boleh ditunda-tunda.",
+  "imageV": "mt5v30nd"
+ },
+ {
+  "slug": "bri-group-sabet-enam-penghargaan-finance-asia",
+  "category": "Perbankan",
+  "title": "BRI Group Sabet [Enam] Penghargaan Finance Asia",
+  "deck": "BRI Group meraih enam penghargaan di ajang Asia's Best Companies dan Finance Asia Awards 2026, termasuk gelar Best CEO untuk Dirut Hery Gunardi.",
+  "image": "assets/img/bri-group-sabet-enam-penghargaan-finance-asia.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T15:53:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461506-bri-group-sabet-enam-penghargaan-internasional-dari-finance-asia-perkuat-posisi-sebagai-institusi-keuangan-berkelas-dunia",
+  "tags": [
+   "BRI",
+   "Finance Asia",
+   "penghargaan",
+   "perbankan"
+  ],
+  "body": [
+   "BRI Group memperoleh enam penghargaan internasional sekaligus dalam ajang Asia's Best Companies dan Finance Asia Awards 2026, dua ajang yang menilai kinerja perusahaan di kawasan Asia berdasarkan survei investor dan analis. Direktur Utama BRI Hery Gunardi meraih gelar Best CEO, sementara BRI Group juga mengantongi penghargaan di kategori tata kelola, keterbukaan informasi kepada investor, dan keberagaman tenaga kerja. Pengakuan ini datang dari penilaian pihak luar, bukan klaim internal perusahaan, sehingga jadi salah satu indikator bagaimana investor dan analis memandang BRI dibanding bank lain di kawasan.",
+   "Di ajang Asia's Best Companies, selain gelar Best CEO untuk Hery Gunardi, BRI meraih predikat Bronze untuk kategori Most Committed ESG, yakni penilaian atas komitmen perusahaan menjalankan bisnis yang memperhatikan lingkungan, sosial, dan tata kelola yang baik. BRI juga meraih predikat Gold untuk kategori Best Investor Relations domestik, penghargaan yang menilai seberapa terbuka dan responsif perusahaan terhadap investor dan pemegang sahamnya.",
+   "Pada Finance Asia Awards 2026, BRI dinobatkan sebagai Most DEI Progressive Bank, yakni bank paling maju dalam mendorong keberagaman dan kesetaraan di lingkungan kerjanya, serta meraih predikat Highly Commended untuk kategori Best Bank kelas domestik. Anak usaha BRI Group, BRI Danareksa Sekuritas atau BRIDS, turut meraih gelar Best Domestic Securities Services 2026, penghargaan untuk layanan yang berkaitan dengan transaksi surat berharga seperti saham dan obligasi.",
+   "Group CEO BRI Hery Gunardi menyatakan capaian ini mencerminkan model bisnis perseroan dalam menghadirkan layanan keuangan yang inklusif dan kompetitif. \"Pencapaian ini merupakan bentuk kepercayaan terhadap komitmen BRI Group dalam memperkuat ekonomi kerakyatan melalui layanan keuangan yang inklusif, inovatif, dan berkelanjutan,\" ujar Hery."
+  ],
+  "fotoAdegan": "A bank teller assisting a small shop owner with a transaction at a busy branch counter in Jakarta, natural morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a88118f01f64-bri-group-sabet-enam-penghargaan-internasional-dari-finance-asia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan dari pihak luar, bukan angka kinerja keuangan BRI sendiri. Enam penghargaan itu mencakup penilaian investor dan analis terhadap kepemimpinan, keterbukaan informasi ke investor, praktik ramah lingkungan dan sosial, hingga keberagaman tenaga kerja. Pihak yang paling terkait langsung adalah investor dan pemegang saham BRI, karena dua dari enam penghargaan justru soal bagaimana perusahaan berkomunikasi dengan mereka. Penghargaan semacam ini menilai reputasi dan persepsi, bukan langsung menunjukkan pertumbuhan kredit atau laba, jadi yang perlu ditunggu adalah laporan keuangan kuartal ketiga 2026 BRI untuk melihat apakah pengakuan ini sejalan dengan kinerja bisnis riilnya.",
+  "imageV": "mt5v310e"
+ },
+ {
   "slug": "aspr-total-liabilitas-melonjak-21-69-jadi-rp183-17-miliar",
   "category": "Aksi Korporasi",
   "title": "ASPR: Total [Liabilitas] Melonjak 21,69% Jadi Rp183,17 Miliar",
@@ -1730,6 +1863,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers moving stacked plastic packaging rolls with a forklift inside a busy warehouse, natural light from skylights above.",
   "takeaway": "Laporan ini cenderung negatif bagi ASPR, karena hampir seperlima kenaikan liabilitasnya berasal dari penarikan pinjaman bank jangka pendek dan penambahan utang ke pemasok, bukan dari pendanaan yang lebih murah dan berjangka panjang. Yang tersentuh adalah pos beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, sebab fasilitas rekening koran biasanya berbunga lebih tinggi dibanding kredit investasi biasa sehingga berpotensi menggerus laba kalau tidak diimbangi kenaikan penjualan yang sepadan. Kenaikan utang usaha yang mengikuti kenaikan pembelian juga patut diperhatikan dari sisi arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena tumpukan utang dagang berarti perseroan menunda pembayaran ke pemasoknya. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah kenaikan utang ini akhirnya diimbangi kenaikan pendapatan dan laba, atau justru membebani perseroan lewat bunga yang lebih besar.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "danantara-awasi-ketat-restrukturisasi-wika",
+  "category": "BUMN",
+  "title": "Danantara [Awasi] Ketat Restrukturisasi WIKA",
+  "deck": "Danantara menuntut laporan keuangan WIKA disusun sesuai kondisi riil sebagai dasar restrukturisasi, bukan rekayasa angka di atas kertas.",
+  "image": "assets/img/danantara-awasi-ketat-restrukturisasi-wika.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T15:41:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461499-restrukturisasi-wika-dalam-kawalan-ketat-danantara",
+  "tags": [
+   "WIKA",
+   "Danantara",
+   "restrukturisasi BUMN",
+   "Dony Oskaria"
+  ],
+  "body": [
+   "Danantara, badan pengelola investasi BUMN, turun langsung mengawasi proses restrukturisasi PT Wijaya Karya (Persero) Tbk atau WIKA. Kepala BP BUMN sekaligus Chief Operating Officer Danantara, Dony Oskaria, menggelar pertemuan dengan jajaran direksi WIKA untuk membahas strategi pembenahan perusahaan konstruksi pelat merah itu. Danantara menegaskan laporan keuangan yang menjadi dasar restrukturisasi harus disusun sesuai kondisi riil perusahaan, bukan hasil rekayasa angka.",
+   "Dony menekankan proses restrukturisasi harus dimulai dari pemetaan kebutuhan nyata WIKA, termasuk kewajiban yang benar-benar harus diselesaikan dan kemampuan perusahaan untuk memenuhinya. Pendekatan ini dipilih agar solusi yang disiapkan bisa langsung dijalankan dan berdampak pada perbaikan kondisi keuangan perusahaan, bukan sekadar memperbaiki angka di laporan.",
+   "Selain menata laporan keuangan, Danantara mengarahkan WIKA untuk mengoptimalkan aset yang bisa didivestasi. Dana dari pelepasan aset itu diharapkan dapat dipakai untuk mengurangi beban utang dan memperkuat struktur keuangan perusahaan. Dengan kombinasi dua langkah tersebut, restrukturisasi WIKA diarahkan agar tidak berhenti sebagai perbaikan administratif di atas kertas."
+  ],
+  "fotoAdegan": "Construction workers and heavy machinery at a large infrastructure project site, cranes in the background, overcast afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a880dd9d8797-foto-udara-jalan-tol-probowangi-yang-dibangun-pt-wijaya-karya-persero-tbk-wika_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan angka utang WIKA yang dibuka ke publik, melainkan cara Danantara mengelola prosesnya, mereka meminta laporan keuangan disusun dari kondisi riil perusahaan lebih dulu sebelum menentukan langkah penyelesaian utang. Pendekatan ini menyasar WIKA sebagai BUMN karya yang menanggung beban utang konstruksi, sekaligus kreditur dan pemegang saham yang menunggu kejelasan skema pembayaran. Danantara juga membuka opsi melepas sebagian aset WIKA untuk menutup kewajiban, tapi belum disebutkan aset apa saja dan berapa nilainya. Yang masih kurang untuk membaca ke mana arah restrukturisasi ini adalah hasil pemetaan kebutuhan riil dan daftar aset yang akan dilego, dua hal yang menurut Dony Oskaria justru jadi titik awal sebelum langkah lanjutan diambil.",
+  "imageV": "mt5v31ea"
  },
  {
   "slug": "direksi-cybr-borong-4-57-juta-saham-itsec-asia",
@@ -2094,6 +2253,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton",
+  "category": "Perbankan",
+  "title": "Presiden Prabowo Soroti Bank Emas, BRI Kelola [153] Ton",
+  "deck": "Presiden Prabowo menyoroti potensi Bank Emas Indonesia, sementara BRI Group melalui Holding Ultra Mikro sudah mengelola ekosistem emas senilai 153 ton.",
+  "image": "assets/img/presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T10:04:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461433-presiden-prabowo-ungkap-potensi-bank-emas-bri-group-kelola-ekosistem-emas-153-ton-melalui-ekosistem-ultra-mikro",
+  "tags": [
+   "Bank Emas",
+   "BRI",
+   "Pegadaian",
+   "Holding Ultra Mikro"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menyoroti potensi besar Bank Emas Indonesia sebagai instrumen untuk mengoptimalkan kekayaan emas nasional. Pernyataan itu disampaikan dalam pidato kenegaraan di Sidang Tahunan MPR RI serta Sidang Bersama DPR RI dan DPD RI pada 14 Agustus 2026. Presiden menekankan bahwa emas yang ditambang di Indonesia semestinya juga disimpan dan diperdagangkan di dalam negeri, sehingga nilai tambahnya dinikmati perekonomian nasional, bukan sekadar diekspor sebagai bahan mentah.",
+   "Arah ini sejalan dengan langkah Danantara melalui BRI bersama Holding Ultra Mikro, yang beranggotakan BRI, Pegadaian, dan PNM, dalam membangun ekosistem emas yang terintegrasi. Pegadaian, sebagai anggota holding yang paling banyak melayani transaksi emas masyarakat, mencatat total kelolaan emas mencapai 153 ton. Angka itu berasal dari beragam layanan, mulai dari emas yang dititipkan dalam bentuk deposito dan tabungan, emas yang digadaikan warga untuk mendapat pinjaman tunai, cicilan pembelian emas, pinjaman modal usaha dengan jaminan emas, jual beli emas batangan antar pelaku pasar yang biasa disebut bullion trading, hingga jasa penitipan emas untuk korporasi.",
+   "Group CEO BRI Hery Gunardi mengatakan arahan Presiden menegaskan potensi strategis emas bagi perekonomian Indonesia, dan BRI bersama Pegadaian akan terus memperkuat ekosistem tersebut agar makin inklusif serta memberi nilai tambah lebih besar bagi masyarakat maupun perekonomian nasional. Ia menyebut kelolaan emas yang telah mencapai 153 ton itu masih memiliki ruang tumbuh yang besar ke depan.",
+   "Ekosistem emas ini merupakan kelanjutan dari Holding Ultra Mikro yang hampir lima tahun mengintegrasikan BRI, Pegadaian, dan PNM untuk melayani segmen usaha mikro dan ultra mikro. Jika pada tahap awal fokusnya memperluas akses pembiayaan kecil, kini pengembangannya diarahkan lebih luas untuk membantu masyarakat membangun aset dan memperkuat kondisi keuangan secara berkelanjutan."
+  ],
+  "fotoAdegan": "Gold bars and jewelry being weighed on a scale at a bustling Indonesian pawnshop counter, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a87bf1606f3f-presiden-republik-indonesia-prabowo-subianto-menegaskan-besarnya-potensi-bank-emas-indonesia-sebagai-salah-satu-instrumen-strategis-untuk-mengoptimalkan-kekayaan-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan arah: Presiden Prabowo menyebut Bank Emas sebagai alat mengoptimalkan kekayaan emas nasional, sementara di lapangan Pegadaian di bawah Holding Ultra Mikro BRI sudah menjalankan hampir semua elemennya, dari simpan pinjam emas sampai jual beli emas batangan, dengan total kelolaan 153 ton. Yang terdampak langsung adalah nasabah gadai dan tabungan emas Pegadaian yang jumlahnya sangat besar karena mereka pengguna utama layanan ini, serta pelaku usaha kecil yang selama ini memakai emas sebagai jaminan pinjaman modal. Pola yang terlihat mengarah ke perluasan skala ekosistem yang sudah berjalan, bukan pembentukan lembaga baru dari nol, karena CEO BRI sendiri menyebut kelolaan saat ini masih punya ruang tumbuh besar. Yang akan memastikan arah ini adalah aturan turunan resmi soal cakupan dan status Bank Emas Indonesia, serta angka kelolaan emas pada laporan Holding Ultra Mikro berikutnya.",
+  "imageV": "mt5v31sf"
+ },
+ {
   "slug": "cash-sandra-angela-tambah-saham-hak-suara-ke-8-07",
   "category": "Aksi Korporasi",
   "title": "CASH: Sandra Angela [Tambah] Saham, Hak Suara ke 8,07%",
@@ -2118,6 +2304,33 @@ var ARTICLES = [
   "fotoAdegan": "Close-up of a small merchant card payment terminal on a shop counter, cashier's hand nearby, soft indoor lighting",
   "takeaway": "Laporan ini netral bagi Cashlez, karena penambahan saham yang dilakukan hanya setara 1,5 persen dari kepemilikan Sandra Angela sendiri, terlalu kecil untuk dibaca sebagai sinyal kuat meski arahnya adalah pembelian, bukan pelepasan. Yang tersentuh di sini adalah struktur hak suara pemegang saham, bukan kinerja keuangan perusahaan. Hak suaranya naik dari 7,95 persen menjadi 8,07 persen, sebuah kenaikan tipis 0,12 poin persentase yang membuatnya makin mendekati posisi pemegang saham signifikan, sesuatu yang biasa diperhatikan pasar karena pemegang saham dengan porsi lebih besar punya pengaruh lebih kuat saat pengambilan keputusan di rapat umum pemegang saham. Yang perlu dipantau selanjutnya adalah apakah pembelian semacam ini berlanjut, sebab setiap perubahan kepemilikan wajib dilaporkan kembali ke OJK sesuai POJK 4/2024 begitu terjadi transaksi baru.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru",
+  "category": "Perbankan",
+  "title": "Direktur Pegadaian Jadi Ketua Umum [IBMA], Asosiasi Emas Baru",
+  "deck": "Indonesia Bullion Market Association resmi terbentuk untuk menyatukan pelaku industri emas nasional, dipimpin Direktur Pegadaian Selfie Dewiyanti sebagai ketua umum pertama.",
+  "image": "assets/img/direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T09:57:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461432-dorong-pembangunan-ekosistem-emas-berstandar-internasional-direktur-pegadaian-resmi-jadi-ketua-umum-indonesia-bullion-market-association",
+  "tags": [
+   "IBMA",
+   "bank emas",
+   "Pegadaian",
+   "BSI"
+  ],
+  "body": [
+   "Indonesia Bullion Market Association (IBMA) resmi berdiri sebagai wadah bersama pelaku industri emas batangan nasional. Peresmian berlangsung di BSI Tower, Jakarta, pada Kamis (20/8), dengan Selfie Dewiyanti, Direktur Pemasaran, Penjualan, dan Pengembangan Produk PT Pegadaian (Persero), ditunjuk sebagai Ketua Umum pertama. Asosiasi ini dibentuk untuk mendorong pasar bullion yang kredibel, efisien, dan berkelanjutan lewat kolaborasi antarpelaku usaha, penyeragaman standar, serta edukasi ke publik.",
+   "Pembentukan IBMA menyusul peluncuran layanan bank emas oleh Presiden Prabowo Subianto pada 26 Februari 2025. Setelah berjalan satu tahun, bank emas di Indonesia kini mengelola lebih dari 170 ton emas, dengan 153 ton di antaranya dikelola oleh Pegadaian. Capaian ini disebut langsung oleh Presiden Prabowo dalam Pidato Kenegaraan pada Sidang Tahunan MPR RI tanggal 14 Agustus 2026, yang menyebut bank emas sebagai terobosan untuk mengamankan aset nasional, memperkuat sistem keuangan, dan menambah nilai sumber daya alam Indonesia.",
+   "Peresmian IBMA dilakukan oleh Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, bersama Selfie Dewiyanti dan Direktur Utama BSI Anggoro Eko Cahyo, disaksikan oleh 11 pendiri asosiasi yang diwakili masing-masing direktur utama perusahaan. Acara ini turut dihadiri Wakil Kepala BP BUMN Aminuddin Ma'ruf, Kepala Eksekutif Pengawas Perilaku Pelaku Usaha Jasa Keuangan OJK Dicky Kartikoyono, Chief Economist BPI Danantara Reza Yamora Siregar, Kepala Badan Standardisasi Nasional Donny Purnomo Januardhi Effyandono, Kepala Bappebti Tirta Karma Senjaya, serta perwakilan World Gold Council dan asosiasi emas Malaysia.",
+   "Indonesia dinilai memiliki modal geologis besar sebagai produsen emas, tetapi potensi itu selama ini belum tergarap maksimal karena belum ada lembaga tunggal yang menyatukan pelaku usaha dan menetapkan standar industri yang sama. IBMA diposisikan sebagai mitra regulator yang menjembatani seluruh rantai bisnis emas, mulai dari pertambangan, jasa keuangan, pemurnian, hingga manufaktur dan jasa pendukung lainnya."
+  ],
+  "fotoAdegan": "Refinery workers weighing small gold bars on a stainless steel table inside a secure vault, bright industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a87bd249fc09-indonesia-bullion-market-association-ibma-resmi-dibentuk-untuk-mendorong-pengembangan-pasar-bullion-yang-kredibel_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar pergantian pucuk pimpinan, melainkan mulai terbentuknya aturan main bersama untuk industri emas nasional, setelah setahun bank emas berjalan dan mengelola lebih dari 170 ton emas. Yang langsung terdampak adalah pelaku usaha di sepanjang rantai emas itu sendiri, dari perusahaan tambang, bank pengelola emas seperti Pegadaian dan BSI, sampai tempat pemurnian dan produsen produk emas, karena merekalah yang nantinya mengikuti standar bersama yang disusun IBMA. Pegadaian mengelola porsi terbesar, 153 dari total 170 ton emas yang dikelola bank emas nasional, sehingga wajar kursi ketua umum jatuh ke direksi Pegadaian, dan ini menandakan arah kebijakan yang menjadikan BUMN itu sebagai poros utama ekosistem emas yang baru dibangun. Hadirnya perwakilan World Gold Council dan asosiasi emas Malaysia dalam peresmian ini mengarah ke ambisi menyambungkan standar Indonesia ke pasar emas internasional, tapi itu baru akan terlihat nyata kalau IBMA benar menerbitkan aturan dan standar resmi yang mengikat anggotanya, bukan cuma seremoni pembentukan asosiasi.",
+  "imageV": "mt5v326r"
  },
  {
   "slug": "kdtn-putrasakti-mandiri-jual-saham-lagi-untuk-restrukturisasi-grup",
@@ -2271,6 +2484,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of new passenger cars parked in an outdoor dealership yard, technicians inspecting vehicles nearby, tropical afternoon light in Southeast Asia.",
   "takeaway": "Langkah ini condong positif bagi Chandra Asri Group karena memperluas sumber pendapatan ke luar bisnis petrokimia yang selama ini bergantung pada siklus harga komoditas global, sekaligus melengkapi bisnis energi dan ritel yang sudah dimiliki perusahaan di Singapura lewat jaringan SPBU Esso. Yang perlu dicermati, akuisisi ini dibiayai lewat fasilitas pinjaman dari Mizuho Bank, sehingga berpotensi menambah beban utang dan bunga yang harus dibayar perusahaan ke depan, meski dokumen ini tidak mencantumkan nilai transaksinya sehingga besar dampaknya terhadap kas perusahaan belum bisa dipastikan. Penyelesaian akuisisi masih bergantung pada persetujuan dari OEM, yakni prinsipal merek kendaraan seperti Mercedes-Benz dan Kia yang didistribusikan Cycle & Carriage, serta pemenuhan syarat lain yang lazim dalam transaksi semacam ini. Investor perlu menunggu pengumuman berikutnya soal kapan syarat-syarat itu terpenuhi dan transaksi resmi rampung, karena siaran pers ini belum mencantumkan target waktu penyelesaiannya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang",
+  "category": "Pasar Modal",
+  "title": "Laba Asuransi Umum LGI [Tumbuh] di Tengah Ekonomi Menantang",
+  "deck": "PT Lippo General Insurance Tbk membukukan kenaikan pendapatan dan laba sebelum pajak pada semester I 2026, melanjutkan tren kinerja rekor di tengah ekonomi yang masih menantang.",
+  "image": "assets/img/laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T02:44:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461401-di-tengah-ekonomi-menantang-pendapatan-asuransi-umum-tumbuh-hingga-339-persen",
+  "tags": [
+   "asuransi",
+   "Lippo General Insurance",
+   "laporan keuangan",
+   "IFRS 17"
+  ],
+  "body": [
+   "PT Lippo General Insurance Tbk (LGI) membukukan kenaikan pendapatan, laba sebelum pajak, dan ekuitas pada semester pertama 2026 dibandingkan periode yang sama tahun lalu. Capaian ini muncul di tengah kondisi ekonomi makro yang masih menantang, sekaligus menjadi sinyal bahwa industri asuransi umum masih mampu tumbuh meski daya beli dan aktivitas ekonomi belum sepenuhnya pulih.",
+   "Berdasarkan standar akuntansi lama, IFRS 4, pendapatan LGI tercatat Rp2,579 triliun pada semester I 2026, naik 17,5 persen dari Rp2,194 triliun pada periode yang sama tahun 2025. Jika dihitung dengan standar baru IFRS 17, pendapatan perusahaan mencapai Rp2,315 triliun, tumbuh 33,9 persen dari Rp1,729 triliun pada semester I 2025.",
+   "Laba sebelum pajak turut naik, dari Rp103,3 miliar menjadi Rp120,9 miliar berdasarkan IFRS 4, atau tumbuh 17 persen. Dengan basis IFRS 17, laba sebelum pajak naik 10,2 persen menjadi Rp130,5 miliar. Ekuitas perusahaan juga menguat, dari Rp966 miliar menjadi Rp1,091 triliun berdasarkan IFRS 4, dan dari Rp987 miliar menjadi Rp1,116 triliun berdasarkan IFRS 17.",
+   "Kinerja semester pertama ini melanjutkan capaian 2025 yang sebelumnya menjadi tahun rekor bagi LGI. Presiden Direktur LGI, Agus Benjamin, mengatakan perusahaan berhasil mempertahankan tren pertumbuhan itu meski menghadapi lingkungan operasional yang penuh tantangan, didukung oleh disiplin dalam proses underwriting atau seleksi risiko polis, kondisi keuangan perusahaan, serta dukungan pemegang saham."
+  ],
+  "fotoAdegan": "Insurance office employees reviewing paperwork at their desks in a modern high-rise office, blurred documents, natural morning light in Jakarta.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a87587cc52b1-pt-lippo-general-insurance-tbk-lgi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dalam laporan ini bukan cuma angkanya naik, tapi juga standar hitungnya: LGI melaporkan pendapatan dengan dua aturan pembukuan sekaligus, akuntansi lama IFRS 4 dan akuntansi baru khusus kontrak asuransi, IFRS 17. Di bawah aturan lama pendapatan naik 17,5 persen, sementara di bawah aturan baru angkanya melonjak 33,9 persen, karena basis pembanding semester I 2025 versi IFRS 17 tercatat lebih rendah, yakni Rp1,729 triliun, dibanding Rp2,194 triliun versi IFRS 4. Yang perlu cermat membaca perbedaan ini adalah pemegang saham publik LGI, sebab dua persentase pertumbuhan itu sebenarnya tidak mengukur hal yang sama persis. Ke depan, begitu pelaporan sepenuhnya beralih ke IFRS 17, angka seperti kenaikan 33,9 persen ini akan jadi basis baru untuk menilai kinerja, sehingga yang layak ditunggu adalah laporan tahunan penuh 2026 untuk melihat apakah pertumbuhan ini bertahan di luar efek pergantian standar akuntansi.",
+  "imageV": "mt5v32l3"
  },
  {
   "slug": "mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100",

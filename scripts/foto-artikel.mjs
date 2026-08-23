@@ -181,9 +181,29 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   const perlu = artikel.filter(a => a.slug && !punyaFotoSendiri(a.slug));
   if (!perlu.length) { log('foto artikel: semua sudah punya foto sendiri'); return { dibuat: 0, gagal: 0, dilewati: 0 }; }
 
-  const antre = perlu.slice(0, maksBaru);
-  if (perlu.length > antre.length) {
-    log('foto artikel: ' + perlu.length + ' perlu foto, dikerjakan ' + antre.length +
+  // DUA jalur, DUA aturan - dan ini yang dulu salah disatukan.
+  //
+  // Foto sumber TIDAK dibatasi. Mengunduh berkas yang sudah ada di server
+  // sumber itu murah, dan yang jauh lebih penting: artikel yang membawa
+  // kreditFoto WAJIB terselesaikan pada putaran yang sama. Kalau ia
+  // tertinggal di luar batas, kreditnya tidak tercabut, pasangFoto()
+  // memberinya gambar kolam, lalu penjaga atribusi di build-pages.mjs
+  // menjatuhkan SELURUH putaran - termasuk artikel lain yang sudah benar.
+  // Terjadi 23 Agustus 2026: 25 teratas antrean semuanya artikel IDX yang
+  // memang tak berfoto sumber, sehingga empat artikel tvOneNews baru tidak
+  // pernah tersentuh dan sebelas artikel sehari hilang karenanya.
+  //
+  // Ilustrasi TETAP dibatasi. Di situlah ongkos sebenarnya: ~30 detik dan
+  // kredit langganan per gambar.
+  const denganSumber = perlu.filter(a => a.fotoSumber);
+  const tanpaSumber = perlu.filter(a => !a.fotoSumber);
+  const antre = [...denganSumber, ...tanpaSumber.slice(0, maksBaru)];
+  if (denganSumber.length) {
+    log('foto artikel: ' + denganSumber.length + ' punya foto sumber, semuanya dikerjakan (tidak dibatasi)');
+  }
+  if (tanpaSumber.length > maksBaru) {
+    log('foto artikel: ' + tanpaSumber.length + ' butuh ilustrasi, dikerjakan ' +
+      Math.min(maksBaru, tanpaSumber.length) +
       ' putaran ini (sisanya menyusul, supaya satu putaran tidak kelamaan)');
   }
 

@@ -327,8 +327,19 @@ img { max-width: 100%; display: block; }
 .modal .form-langganan input[type="email"]::placeholder { color: var(--ink-soft); }
 .modal .form-langganan input[type="email"]:focus { outline: none; border-color: var(--ink); }
 .modal .modal-privasi { font-size: 11.5px; line-height: 1.5; margin-bottom: 0; }
-.modal .btn-modal-submit { display: block; text-align: center; text-decoration: none; background: var(--ink); color: var(--page); border: none; border-radius: 999px; padding: 11px 14px; font-size: 13.5px; font-weight: 700; cursor: pointer; }
-.modal .btn-modal-submit:hover { background: var(--red-deep); }
+/* Gaya dasar tombol ajakan. DULU di-scope ke .modal, dan itu bug: tombol
+   dengan kelas yang sama juga dipakai di kartu ajakan akhir artikel, tapi di
+   sana ia tidak kebagian apa pun dan tampil sebagai tombol HTML mentah -
+   latar abu-abu, border 2px outset, sudut siku, font Arial, dan padding
+   vertikal 1px sehingga tingginya cuma 21px. Di 605 halaman artikel, di
+   seluler maupun desktop. Jangan di-scope ulang. */
+.btn-modal-submit { display: block; text-align: center; text-decoration: none; background: var(--ink); color: var(--page); border: none; border-radius: 999px; padding: 11px 14px; font-family: var(--sans); font-size: 13.5px; font-weight: 700; cursor: pointer; }
+.btn-modal-submit:hover { background: var(--red-deep); color: var(--page); }
+
+/* Kartu akhir artikel berlatar gelap, jadi warnanya dibalik. Tombol gelap di
+   atas latar gelap praktis tidak terlihat. */
+.artikel-cta .btn-modal-submit { background: var(--page); color: var(--ink); }
+.artikel-cta .btn-modal-submit:hover { background: var(--tan); color: var(--ink); }
 
 /* ---------- reveal ---------- */
 .reveal { animation: fadeUp .6s ease both; }
@@ -375,7 +386,7 @@ img { max-width: 100%; display: block; }
      desktop 13,5px tetap dipakai supaya modalnya tidak terlihat bongsor.
      Tinggi 46px sekalian, 41px sebelumnya di bawah ambang nyaman untuk jari. */
   .modal .form-langganan input[type="email"] { font-size: 16px; min-height: 46px; }
-  .modal .btn-modal-submit { min-height: 46px; }
+  .btn-modal-submit { min-height: 46px; }
 
   /* Ambang sentuh 44px, meneruskan alasan di atas ke seluruh elemen yang
      dijari. Diukur di viewport 375x812 sungguhan: nav-link 21px, tautan

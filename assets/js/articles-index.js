@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026",
+  "category": "Global",
+  "title": "RI-Uni Eropa Matangkan CEPA, [Teken] Ditarget Oktober 2026",
+  "deck": "Indonesia dan Uni Eropa mematangkan persiapan implementasi CEPA yang membebaskan 98 persen pos tarif kedua pihak, dengan penandatanganan ditargetkan Oktober 2026.",
+  "date": "23 Agustus 2026",
+  "image": "assets/img/ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026.jpg",
+  "imageV": "mt5yrnsx",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Perdagangan Internasional",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/optimalkan-akses-pasar-ke-eropa-mendag-busan-turut-siapkan-implementasi-i-eu-cepa",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah",
+  "category": "UMKM",
+  "title": "DKI [Wajibkan] Pilah Sampah 4 Kategori, BI Dorong UMKM Olah Limbah",
+  "deck": "SIPSN mencatat 65 persen dari 24,8 juta ton sampah tahunan RI belum terkelola layak. DKI Jakarta kini mewajibkan pemilahan sampah 4 kategori, sementara BI dorong UMKM masuk rantai ekonomi sirkular.",
+  "date": "23 Agustus 2026",
+  "image": "assets/img/dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah.jpg",
+  "imageV": "mt5yrqxf",
+  "tags": [
+   "ekonomi sirkular",
+   "UMKM",
+   "pengelolaan sampah",
+   "DKI Jakarta"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali",
   "category": "Energi",
   "title": "DPR Dorong RUU Migas [Pangkas] Birokrasi agar Investor Kembali",
@@ -1562,6 +1598,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461401-di-tengah-ekonomi-menantang-pendapatan-asuransi-umum-tumbuh-hingga-339-persen"
  },
  {
+  "slug": "laba-indonesia-re-melonjak-544-persen-di-2025",
+  "category": "BUMN",
+  "title": "Laba Indonesia Re [Melonjak] 544 Persen di 2025",
+  "deck": "Laba bersih Indonesia Re naik ke Rp176,96 miliar pada 2025, didorong penerapan standar akuntansi baru dan perbaikan hasil investasi perusahaan reasuransi pelat merah ini.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/laba-indonesia-re-melonjak-544-persen-di-2025.jpg",
+  "imageV": "mt5yrrpa",
+  "tags": [
+   "Indonesia Re",
+   "reasuransi",
+   "BUMN",
+   "PSAK 117"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461398-investasi-tumbuh-signifikan-laba-perusahaan-reasuransi-melonjak-544-persen"
+ },
+ {
   "slug": "mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100",
   "category": "Aksi Korporasi",
   "title": "MKNT Konversi Utang Rp823 M Jadi Saham, [Dilusi] Nyaris 100%",
@@ -1880,6 +1933,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06c1789af8_f11ea58ff4.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5",
+  "category": "Moneter",
+  "title": "Rupiah Menguat ke Rp17.748, Kuota BBM Subsidi Dipangkas [58,5%]",
+  "deck": "Rupiah ditutup menguat 92 poin ke Rp17.748 per dolar AS, seiring sinyal pemerintah memangkas kuota BBM subsidi 58,5 persen mulai 2027.",
+  "date": "20 Agustus 2026",
+  "image": "assets/img/rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5.jpg",
+  "imageV": "mt5yrsbi",
+  "tags": [
+   "rupiah",
+   "BBM subsidi",
+   "kuota BBM 2027",
+   "kurs rupiah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461314-rupiah-ditutup-menguat-rp17748-tapi-kuota-bbm-subsidi-dipangkas-585-persen"
  },
  {
   "slug": "dr-sesuaikan-rasio-waran-bbca-usai-dividen-rp25-saham",
@@ -6569,73 +6639,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459567-rupiah-melemah-ke-rp17885-per-dolar-as-usai-laporan-msci-dan-penjualan-ritel-yang-melambat-pada-juni-2026"
- },
- {
-  "slug": "purbaya-pembelian-pertalite-dibatasi-bertahap-harga-tetap",
-  "category": "Energi",
-  "title": "Purbaya: Pembelian [Pertalite] Dibatasi Bertahap, Harga Tetap",
-  "deck": "Menkeu Purbaya pastikan harga Pertalite tak naik, tapi kelompok desil 9-10 akan diarahkan beli BBM non-subsidi secara bertahap.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/purbaya-pembelian-pertalite-dibatasi-bertahap-harga-tetap.jpg",
-  "imageV": "tjp3qh",
-  "tags": [
-   "Pertalite",
-   "Subsidi BBM",
-   "Purbaya Yudhi Sadewa",
-   "Kementerian ESDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459559-purbaya-buka-suara-soal-rencana-pembatasan-pembelian-pertalite"
- },
- {
-  "slug": "msci-keluarkan-cpin-dan-goto-dari-indeks-utama",
-  "category": "Pasar Modal",
-  "title": "MSCI [Keluarkan] CPIN dan GOTO dari Indeks Utama",
-  "deck": "MSCI mengeluarkan CPIN dan GOTO dari indeks saham utama Indonesia tanpa saham pengganti, efektif mulai 1 September 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/msci-keluarkan-cpin-dan-goto-dari-indeks-utama.jpg",
-  "imageV": "tjop7x",
-  "tags": [
-   "MSCI",
-   "CPIN",
-   "GOTO",
-   "Rebalancing Indeks"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459537-rincian-lengkap-saham-yang-masuk-dan-keluar-rebalancing-msci"
- },
- {
-  "slug": "purbaya-ajak-kemenhub-benahi-tarif-timpang-peti-kemas",
-  "category": "Bisnis",
-  "title": "Purbaya Ajak Kemenhub Benahi Tarif [Timpang] Peti Kemas",
-  "deck": "Purbaya akan menggandeng Kemenhub membahas selisih tarif jasa LoLo di depo peti kemas kosong, yang di luar pelabuhan lebih mahal Rp300.000-Rp400.000 per kontainer.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/purbaya-ajak-kemenhub-benahi-tarif-timpang-peti-kemas.jpg",
-  "imageV": "tjop7y",
-  "tags": [
-   "tarif LoLo",
-   "depo peti kemas",
-   "biaya logistik",
-   "Kemenhub"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459519-purbaya-soroti-tarif-lolo-jomplang-kemenhub-bakal-diajak-bereskan-biaya-depo-peti-kemas"
- },
- {
-  "slug": "umkm-binaan-pertamina-raih-omzet-rp8-57-miliar",
-  "category": "UMKM",
-  "title": "UMKM Binaan Pertamina Raih Omzet [Rp8,57 Miliar]",
-  "deck": "UMKM binaan Pertamina mencatatkan omzet Rp8,57 miliar sepanjang semester I 2026 lewat ratusan pameran, sertifikasi, dan pelatihan usaha.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/umkm-binaan-pertamina-raih-omzet-rp8-57-miliar.jpg",
-  "imageV": "tjop7z",
-  "tags": [
-   "umkm",
-   "pertamina",
-   "pameran",
-   "sertifikasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459517-umkm-binaan-pertamina-raih-omzet-rp857-miliar-sepanjang-semester-i-2026-berkat-perluasan-akses-pasar"
  }
 ];

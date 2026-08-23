@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "K-HCBg9XDVk",
+  "title": "Perpres Ojol Sangat Dinanti Driver, Apa Saja Isinya?",
+  "category": "Ketenagakerjaan",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Pemerintah dan DPR RI memasuki tahap akhir finalisasi Peraturan Presiden tentang perlindungan pekerja transportasi online, mencakup pengemudi penumpang serta kurir barang dan makanan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan jutaan pekerja di sektor ekonomi gig yang terus berkembang di Indonesia.",
+  "terbit": "2026-08-23T14:21:02+00:00"
+ },
+ {
   "id": "8MR2N8l3TyU",
   "title": "BPS: Backlog Rumah Turun Jadi 9,29 Juta Keluarga",
   "category": "Makroekonomi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
   "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi.",
   "terbit": "2026-08-15T21:13:21+07:00"
- },
- {
-  "id": "Iywa2ayieDQ",
-  "title": "Presiden AS Trump Perketat Sanksi Ekonomi ke Iran",
-  "category": "Global",
-  "program": "tvOneNews",
-  "summary": "Pemerintahan Presiden AS Donald Trump mengalihkan tekanan terhadap Iran dari jalur militer ke ekonomi, dengan fokus pengetatan sanksi terhadap Teheran.",
-  "takeaway": "Sanksi ekonomi AS terhadap Iran berpotensi memengaruhi harga energi global dan pasar komoditas yang relevan bagi pembaca ekonomi.",
-  "terbit": "2026-08-15T21:00:01+07:00"
  }
 ];

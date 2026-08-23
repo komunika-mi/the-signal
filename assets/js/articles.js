@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026",
+  "category": "Global",
+  "title": "RI-Uni Eropa Matangkan CEPA, [Teken] Ditarget Oktober 2026",
+  "deck": "Indonesia dan Uni Eropa mematangkan persiapan implementasi CEPA yang membebaskan 98 persen pos tarif kedua pihak, dengan penandatanganan ditargetkan Oktober 2026.",
+  "image": "assets/img/ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026.jpg",
+  "date": "23 Agustus 2026",
+  "isoDate": "2026-08-23T15:23:28.681Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/optimalkan-akses-pasar-ke-eropa-mendag-busan-turut-siapkan-implementasi-i-eu-cepa",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Perdagangan Internasional",
+   "Kemendag"
+  ],
+  "body": [
+   "Pemerintah Indonesia melalui Kementerian Perdagangan tengah mempercepat persiapan teknis dan regulasi untuk mengimplementasikan Indonesia-European Union Comprehensive Economic Partnership Agreement (I-EU CEPA), perjanjian dagang komprehensif dengan Uni Eropa yang mulai dirundingkan sejak 2016. Persiapan ini penting karena begitu berlaku, perjanjian tersebut membuka akses ke pasar Uni Eropa yang berisi sekitar 450 juta konsumen dengan produk domestik bruto gabungan sekitar US$22 triliun bagi pelaku usaha Indonesia.",
+   "Menteri Perdagangan Budi Santoso menyampaikan hal ini dalam Dialog Persiapan Implementasi I-EU CEPA di Kantor Kementerian Koordinator Bidang Perekonomian, Jumat (21/8), yang dipimpin Menteri Koordinator Bidang Perekonomian Airlangga Hartarto dan dihadiri duta besar negara-negara anggota Uni Eropa. Kesepakatan substansial dicapai pada September 2025, dan kedua pihak menargetkan penandatanganan pada Oktober 2026, sebelum dilanjutkan proses ratifikasi oleh parlemen masing-masing pihak.",
+   "Dari sisi tarif, perjanjian ini akan membebaskan sekitar 98 persen pos tarif dari kedua pihak, mencakup 99,5 persen dari total nilai impor. Produk ekspor Indonesia seperti minyak sawit dan turunannya, tekstil, alas kaki, dan produk karet akan langsung mendapat tarif nol persen begitu perjanjian berlaku, sementara produk Uni Eropa seperti bubur kayu, pesawat udara dan komponennya, kereta api dan komponennya, serta pupuk juga mendapat perlakuan serupa. Cakupan perjanjian ini meluas melampaui tarif barang, mencakup akses pasar jasa, iklim investasi, digitalisasi, prosedur kepabeanan, standar, sanitasi dan fitosanitari, hingga isu badan usaha milik negara dan keberlanjutan lingkungan.",
+   "Meski demikian, Budi Santoso mengakui masih ada sejumlah ketentuan regulasi yang perlu dicermati bersama, termasuk European Union Deforestation Regulation (EUDR), Carbon Border Adjustment Mechanism (CBAM), serta persyaratan sektor perikanan di pasar Uni Eropa. Ia menegaskan bahwa regulasi yang berpotensi mengurangi manfaat perjanjian, termasuk yang terbit setelah penandatanganan, akan dibahas bersama oleh kedua pihak."
+  ],
+  "fotoAdegan": "Workers loading palm oil drums and rolled rubber sheets onto a cargo ship at a busy Indonesian seaport, daylight, container cranes in the background",
+  "fotoSumber": "https://www.kemendag.go.id/albums/HlpZoz5ItfGLwIMsdS3cXldYP7eV75lCyswUpLAs.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan cuma wacana, karena kedua pihak sudah mengunci angka konkret, yaitu 98 persen pos tarif dibebaskan sekaligus mencakup 99,5 persen nilai impor, dengan sawit, tekstil, alas kaki, dan karet dari Indonesia langsung kena tarif nol persen begitu perjanjian berlaku. Yang paling diuntungkan jelas eksportir keempat komoditas itu, sementara industri Indonesia yang bersaing dengan pesawat, kereta api, dan pupuk impor dari Uni Eropa perlu bersiap karena produk itu juga masuk dengan tarif nol persen. Arahnya sekarang menuju penandatanganan yang ditarget Oktober 2026, tapi manfaat tarif nol persen itu bisa tergerus di lapangan oleh aturan non-tarif Uni Eropa yang masih berjalan, seperti aturan larangan impor produk terkait deforestasi (EUDR) dan pungutan karbon untuk barang impor (CBAM), yang menurut Mendag sendiri masih perlu dibahas bersama. Sinyal paling konkret untuk mengecek apakah proses ini di jalurnya adalah apakah penandatanganan benar dilakukan Oktober 2026 sesuai target Menko Perekonomian, dan apakah ada kesepakatan lanjutan soal EUDR dan CBAM sebelum perjanjian itu benar-benar berlaku.",
+  "imageV": "mt5yrnsx"
+ },
+ {
+  "slug": "dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah",
+  "category": "UMKM",
+  "title": "DKI [Wajibkan] Pilah Sampah 4 Kategori, BI Dorong UMKM Olah Limbah",
+  "deck": "SIPSN mencatat 65 persen dari 24,8 juta ton sampah tahunan RI belum terkelola layak. DKI Jakarta kini mewajibkan pemilahan sampah 4 kategori, sementara BI dorong UMKM masuk rantai ekonomi sirkular.",
+  "image": "assets/img/dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah.jpg",
+  "date": "23 Agustus 2026",
+  "isoDate": "2026-08-23T15:23:05.526Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "ekonomi sirkular",
+   "UMKM",
+   "pengelolaan sampah",
+   "DKI Jakarta"
+  ],
+  "body": [
+   "Bank Indonesia dan Pemerintah Provinsi DKI Jakarta mendorong pengelolaan limbah sebagai peluang bisnis baru bagi usaha mikro, kecil, dan menengah dalam diskusi Sustainable Talk yang digelar di sela pameran Karya Kreatif Indonesia (KKI) 2026 di Jakarta, Minggu (23/8). Momentum ini muncul di tengah data bahwa 65 persen sampah nasional masih belum dikelola dengan layak, sehingga membuka ruang bagi UMKM untuk masuk ke rantai pasok industri daur ulang. Bagi pembaca, ini menandai pergeseran arah kebijakan sampah dari sekadar urusan kebersihan menjadi bagian dari strategi ekonomi baru yang melibatkan pelaku usaha kecil.",
+   "Berdasarkan Sistem Informasi Pengelolaan Sampah Nasional, timbulan sampah pada 2025 mencapai 24,8 juta ton per tahun dari 244 kabupaten dan kota, dengan sekitar 65 persen di antaranya belum terkelola secara layak. Deputi Gubernur Bank Indonesia Ricky Perdana Gozali menyatakan pengelolaan limbah perlu bergeser dari pola ambil-olah-buang menuju ekonomi sirkular, yaitu model yang mempertahankan nilai dan kualitas bahan selama mungkin agar tidak langsung dibuang. Untuk mendukung UMKM masuk ke model ini, Bank Indonesia menyusun Pedoman Model Bisnis UMKM Berkelanjutan dan menjalankan Kompetisi Perintis Wirausaha Inklusif dan Berkelanjutan (PERWIRA INTAN) yang tahun ini berfokus pada inovasi pertanian berkelanjutan untuk ketahanan pangan. Kompetisi tersebut diikuti 1.950 pendaftar, dengan 200 proposal terbaik akan mendapat pembekalan dan pendampingan, sementara 5 inovasi terpilih berkesempatan mengikuti business matching dan studi banding ke negara dengan sektor pertanian maju.",
+   "Di tingkat daerah, Pemerintah Provinsi DKI Jakarta menerbitkan Instruksi Gubernur Nomor 5 Tahun 2026 yang mewajibkan warga memilah sampah ke dalam empat kategori, yaitu organik, anorganik, bahan beracun dan berbahaya, serta residu. Sekretaris Daerah DKI Jakarta Uus Kuswanto, yang mewakili Gubernur DKI Jakarta dalam acara tersebut, menyampaikan bahwa aturan ini bertujuan mengurangi beban pengelolaan sampah di tahap akhir, yakni saat sampah sudah sampai ke tempat pembuangan akhir. Ia menekankan pentingnya kolaborasi antara pemerintah, dunia usaha, dan masyarakat agar pemilahan sampah dilakukan sejak dari sumbernya.",
+   "Bank Indonesia juga menyebut telah menjalankan program pengolahan limbah racik uang kertas, yaitu sisa pemusnahan uang kertas yang sudah tidak layak edar, menjadi suvenir dan bahan baku pembenah tanah bernama biochar bekerja sama dengan UMKM. Menurut Bank Indonesia, program ini meraih penghargaan internasional IACA Award untuk kategori Best New Environmental Sustainability Project. Diskusi turut menghadirkan perwakilan Bank Indonesia, Dinas Lingkungan Hidup DKI Jakarta, dan lembaga daur ulang Waste4Change untuk membahas praktik pemilahan hingga pemanfaatan limbah menjadi produk bernilai tambah bagi UMKM."
+  ],
+  "fotoAdegan": "Workers at a small recycling workshop sorting plastic bottles and organic waste into separate bins, daylight",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2817126/Cover-sp_2817126.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang benar-benar baru dari siaran ini bukan acara Karya Kreatif Indonesia-nya, melainkan Instruksi Gubernur DKI Jakarta Nomor 5 Tahun 2026 yang mengubah pemilahan sampah dari imbauan menjadi kewajiban dengan empat kategori baku, yaitu organik, anorganik, B3, dan residu. Yang terdampak langsung adalah rumah tangga dan pelaku usaha di Jakarta yang kini harus memilah sampah dari sumbernya, sementara UMKM pengolah limbah berpeluang mendapat pasokan bahan baku yang lebih tersortir untuk masuk rantai daur ulang. Pola ini sejalan dengan arah kebijakan sampah kota besar yang memindahkan beban pemilahan dari tempat pembuangan akhir ke tingkat rumah tangga, ketimbang menambah kapasitas pengolahan di hilir. Siaran pers ini belum menyebutkan mekanisme pengawasan atau sanksi bagi warga yang tidak memilah sampah, sehingga efektivitas instruksi ini baru akan terlihat dari aturan pelaksanaan atau data kepatuhan yang dirilis Pemprov DKI Jakarta berikutnya.",
+  "imageV": "mt5yrqxf"
+ },
+ {
   "slug": "dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali",
   "category": "Energi",
   "title": "DPR Dorong RUU Migas [Pangkas] Birokrasi agar Investor Kembali",
@@ -2513,6 +2569,33 @@ var ARTICLES = [
   "imageV": "mt5v32l3"
  },
  {
+  "slug": "laba-indonesia-re-melonjak-544-persen-di-2025",
+  "category": "BUMN",
+  "title": "Laba Indonesia Re [Melonjak] 544 Persen di 2025",
+  "deck": "Laba bersih Indonesia Re naik ke Rp176,96 miliar pada 2025, didorong penerapan standar akuntansi baru dan perbaikan hasil investasi perusahaan reasuransi pelat merah ini.",
+  "image": "assets/img/laba-indonesia-re-melonjak-544-persen-di-2025.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T02:19:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461398-investasi-tumbuh-signifikan-laba-perusahaan-reasuransi-melonjak-544-persen",
+  "tags": [
+   "Indonesia Re",
+   "reasuransi",
+   "BUMN",
+   "PSAK 117"
+  ],
+  "body": [
+   "Perusahaan reasuransi pelat merah PT Reasuransi Indonesia Utama (Persero) atau Indonesia Re mencatat lonjakan laba bersih hingga 544 persen sepanjang 2025. Laba perusahaan naik dari Rp27,46 miliar pada 2024 menjadi Rp176,96 miliar pada 2025, sementara total asetnya mencapai Rp10,28 triliun. Kinerja ini penting karena mencerminkan kondisi industri reasuransi nasional, tempat perusahaan asuransi umum dan jiwa menitipkan sebagian risiko mereka.",
+   "Perbaikan ini berlangsung bersamaan dengan penerapan standar akuntansi baru bernama PSAK 117, yang mengadopsi standar internasional IFRS 17. Aturan ini mengubah cara perusahaan mencatat pendapatan, liabilitas, dan laba, yakni berdasarkan jasa perlindungan yang sudah benar-benar diberikan kepada nasabah, bukan sekadar premi yang diterima di muka. Indonesia Re menegaskan perubahan ini hanya soal cara pencatatan dan penyajian laporan keuangan, bukan perubahan pada bisnis maupun arus kas perusahaan yang sesungguhnya.",
+   "Di sisi bisnis, perusahaan memperketat seleksi risiko dan disiplin dalam proses penerimaan pertanggungan atau underwriting. Untuk lini reasuransi umum, Indonesia Re memakai alat penetapan harga berbasis data serta memperbaiki tata kelola dan klausul kontrak, sementara di lini reasuransi jiwa perusahaan lebih menyeleksi portofolio lewat kajian pengalaman klaim dan prinsip kehati-hatian, terutama untuk produk dengan risiko kematian jangka panjang. Selain dari bisnis inti, hasil investasi Indonesia Re juga naik dari Rp335,78 miliar pada 2024 menjadi Rp427,28 miliar pada 2025, ikut menopang kenaikan laba.",
+   "Direktur Utama Indonesia Re Robbi Yanuar Walid mengatakan capaian ini diraih di tengah tantangan yang dihadapi perusahaan sepanjang tahun lalu. \"Seluruh strategi yang kami jalankan berorientasi pada kualitas portofolio, pengelolaan risiko yang prudent, serta penguatan kapabilitas organisasi,\" ujar Robbi, dikutip Jumat (21/8/2026)."
+  ],
+  "fotoAdegan": "Employees at a Jakarta insurance office discussing at a table with laptops and blurred printouts, large windows, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2023/07/08/64a93dac8f372-ilustrasi-bisnis-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Lonjakan 544 persen ini perlu dilihat bersama dua hal: laba tahun 2024 memang sangat kecil, hanya Rp27,46 miliar, sehingga kenaikan persentasenya otomatis terlihat besar, dan tahun 2025 adalah tahun pertama Indonesia Re menerapkan standar akuntansi baru PSAK 117 yang mengubah cara mencatat laba, bukan cuma soal perbaikan bisnis semata. Yang terdampak langsung adalah pemegang saham, dalam hal ini negara selaku pemilik BUMN ini, serta perusahaan asuransi umum dan jiwa yang memakai jasa reasuransi Indonesia Re dan ikut merasakan seleksi risiko serta penyesuaian harga yang lebih ketat. Arahnya belum bisa dipastikan, apakah ini awal tren pemulihan bisnis yang berkelanjutan, atau sekadar lonjakan satu tahun akibat basis rendah dan efek pertama penerapan standar baru. Yang akan menjawabnya adalah laporan kinerja Indonesia Re tahun 2026, saat efek basis rendah dan tahun pertama PSAK 117 sudah tidak lagi berlaku, sehingga angka pertumbuhannya baru mencerminkan kondisi bisnis yang sebenarnya.",
+  "imageV": "mt5yrrpa"
+ },
+ {
   "slug": "mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100",
   "category": "Aksi Korporasi",
   "title": "MKNT Konversi Utang Rp823 M Jadi Saham, [Dilusi] Nyaris 100%",
@@ -3027,6 +3110,33 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in coveralls checking valves and pipelines at an onshore oil and gas wellhead facility, hazy morning light",
   "takeaway": "Laporan realisasi dana ini condong positif bagi RATU, karena porsi terbesar dana obligasi dipakai melunasi lebih awal seluruh pokok utang bank anak usahanya, RETJ, senilai Rp196,77 miliar, sementara dana sukuk dan sisa obligasi lainnya dipakai menyuntik modal ke RETJ dan PJUC lewat cash call. Pelunasan utang di muka ini langsung memangkas beban bunga yang harus dibayar RETJ ke depan, sedangkan setoran modal ke dua anak usaha itu memperkuat kas mereka untuk membiayai kegiatan operasional blok migas. Yang perlu dipantau berikutnya adalah laporan periode selanjutnya, karena RATU sendiri menyatakan ini bukan LRPD terakhir, sehingga sisa dana sekitar Rp25,77 miliar dari sukuk dan Rp54,39 miliar dari obligasi yang masih mengendap di giro bank belum jelas kapan dan untuk apa persisnya akan direalisasikan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5",
+  "category": "Moneter",
+  "title": "Rupiah Menguat ke Rp17.748, Kuota BBM Subsidi Dipangkas [58,5%]",
+  "deck": "Rupiah ditutup menguat 92 poin ke Rp17.748 per dolar AS, seiring sinyal pemerintah memangkas kuota BBM subsidi 58,5 persen mulai 2027.",
+  "image": "assets/img/rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5.jpg",
+  "date": "20 Agustus 2026",
+  "isoDate": "2026-08-20T16:56:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461314-rupiah-ditutup-menguat-rp17748-tapi-kuota-bbm-subsidi-dipangkas-585-persen",
+  "tags": [
+   "rupiah",
+   "BBM subsidi",
+   "kuota BBM 2027",
+   "kurs rupiah"
+  ],
+  "body": [
+   "Nilai tukar rupiah ditutup menguat 92 poin ke level Rp17.748 per dolar AS pada perdagangan Kamis (20/8/2026), setelah sempat naik hingga 95 poin dari posisi penutupan sebelumnya di Rp17.840. Menurut pengamat mata uang dan komoditas Ibrahim Assuaibi, penguatan ini terjadi di tengah respons positif pasar terhadap rencana pemerintah memangkas kuota BBM bersubsidi secara signifikan pada 2027.",
+   "Untuk perdagangan Jumat (21/8/2026), Ibrahim memperkirakan rupiah masih akan bergerak fluktuatif, namun berpeluang tetap ditutup menguat pada kisaran Rp17.700 hingga Rp17.750 per dolar AS. Sentimen dari rencana pengendalian subsidi energi dinilai menjadi salah satu faktor yang menopang mata uang Garuda dalam beberapa hari terakhir.",
+   "Rencana pemangkasan kuota BBM bersubsidi yang mencapai 58,5 persen disebut sebagai bagian dari langkah pemerintah mengendalikan belanja subsidi pada 2027. Ibrahim menilai kebijakan ini berpotensi mempersempit akses masyarakat, terutama pengguna Pertalite, terhadap BBM bersubsidi, sehingga sebagian dari mereka bisa terdorong beralih ke BBM nonsubsidi yang harganya lebih tinggi.",
+   "Tekanan tambahan datang dari asumsi harga minyak mentah Indonesia atau ICP sebesar US$75 per barel yang dipakai pemerintah dalam menyusun kebijakan 2027, sementara menurut Ibrahim harga minyak saat ini berada di kisaran US$83 per barel, lebih tinggi dari asumsi tersebut."
+  ],
+  "fotoAdegan": "Close-up of a fuel nozzle refueling a motorcycle tank at a gas station pump, midday tropical light, blurred background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/18/67b3f64e88ff0-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma kurs, melainkan rencana pemangkasan kuota BBM bersubsidi sampai 58,5 persen mulai 2027, angka yang tergolong besar untuk kebijakan subsidi energi. Yang langsung kena adalah pengguna Pertalite, terutama masyarakat berpendapatan menengah bawah dan pengendara yang selama ini mengandalkan harga subsidi, karena mereka berisiko harus beralih ke BBM nonsubsidi yang lebih mahal begitu jatah di daerahnya habis lebih cepat. Ada sinyal yang memperkuat arah pengetatan ini, pemerintah memakai asumsi harga minyak mentah Indonesia sebesar US$75 per barel untuk hitungan subsidi 2027, padahal harga minyak saat ini sekitar US$83 per barel, sehingga kalau harga riil bertahan di atas asumsi itu, tekanan untuk memangkas subsidi lebih lanjut bisa makin besar. Kepastian angka final kuota dan asumsi harga minyak ini baru akan terlihat saat pembahasan anggaran negara untuk 2027 di DPR, jadi itu yang perlu ditunggu untuk tahu apakah pemangkasan 58,5 persen ini menjadi angka tetap atau masih bisa berubah.",
+  "imageV": "mt5yrsbi"
  },
  {
   "slug": "dr-sesuaikan-rasio-waran-bbca-usai-dividen-rp25-saham",

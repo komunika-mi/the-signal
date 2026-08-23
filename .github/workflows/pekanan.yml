@@ -66,6 +66,26 @@ jobs:
       # pengiriman adalah menjalankan seluruh workflow, yang akan MENULIS ULANG
       # edisinya dengan jendela tanggal hari itu dan menimpa edisi yang sudah
       # benar. Di sini edisinya dibiarkan apa adanya, hanya dikirim.
+      - name: Selaraskan dengan origin sebelum membangun
+        # WAJIB sebelum langkah apa pun yang membangkitkan berkas.
+        #
+        # actions/checkout mengambil SHA yang DIBEKUKAN saat putaran dibuat,
+        # bukan saat job-nya mulai. Untuk putaran yang menunggu di antrean
+        # concurrency, jarak keduanya bisa belasan menit dan putaran lain
+        # sudah mendorong commit di sela itu. Membangun dari SHA basi lalu
+        # menarik belakangan membuat tiap berkas hasil build punya dua versi,
+        # dan autostash-nya bentrok. Terjadi pada Signal Mingguan 23 Agustus
+        # 2026: ratusan berkas bentrok, edisinya tidak terbit dan tidak
+        # terkirim ke pelanggan.
+        #
+        # Aman memakai reset --hard di sini, dan HANYA di sini: pohon kerjanya
+        # masih hasil checkout murni, belum ada berkas dibangkitkan, jadi tidak
+        # ada yang bisa hilang.
+        timeout-minutes: 2
+        run: |
+          git fetch --quiet origin master
+          git reset --hard origin/master
+          echo "basis build: $(git rev-parse --short HEAD)"
       - name: Mode kirim-ulang
         timeout-minutes: 2
         if: ${{ inputs.hanya_kirim }}

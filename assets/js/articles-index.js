@@ -660,6 +660,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cybr-catat-konversi-200-saham-dari-eksekusi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat konversi 200 saham dari eksekusi [waran] Seri I",
+  "deck": "ITSEC Asia mencatatkan 200 saham baru hasil konversi 200 waran seri I, saham beredar naik jadi 13.483.357.705 lembar per 24 Agustus 2026.",
+  "date": "21 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "waran seri I",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c13e7bf63_604b62fc18.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-obligasi-sukuk-rp2-47-triliun-dipangkas-pefindo-ke-d",
   "category": "Aksi Korporasi",
   "title": "WIKA Obligasi-Sukuk Rp2,47 Triliun Dipangkas Pefindo ke [D]",
@@ -6621,22 +6637,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/acdcb254db_ef798ffdf6.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini",
-  "category": "Makroekonomi",
-  "title": "Purbaya: Untung [Danantara] Bakal Masuk APBN Tahun Ini",
-  "deck": "Menkeu Purbaya menyebut sebagian keuntungan Danantara akan disetor ke APBN tahun ini atas arahan Presiden Prabowo, meski mekanismenya belum final.",
-  "date": "12 Agustus 2026",
-  "image": "assets/img/purbaya-untung-danantara-bakal-masuk-apbn-tahun-ini.jpg",
-  "imageV": "tjop86",
-  "tags": [
-   "danantara",
-   "apbn",
-   "purbaya yudhi sadewa",
-   "fiskal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459447-purbaya-beberkan-soal-rencana-keuntungan-danantara-masuk-ke-apbn-bantah-kondisi-fiskal-tertekan"
  }
 ];

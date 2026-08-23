@@ -1056,6 +1056,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cybr-catat-konversi-200-saham-dari-eksekusi-waran-seri-i",
+  "category": "Aksi Korporasi",
+  "title": "CYBR catat konversi 200 saham dari eksekusi [waran] Seri I",
+  "deck": "ITSEC Asia mencatatkan 200 saham baru hasil konversi 200 waran seri I, saham beredar naik jadi 13.483.357.705 lembar per 24 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 Agustus 2026",
+  "isoDate": "2026-08-21T20:00:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c13e7bf63_604b62fc18.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "waran seri I",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan 200 saham baru PT ITSEC Asia Tbk (CYBR) hasil konversi 200 unit waran seri I (CYBR-W). Saham baru ini akan dicatatkan dan mulai diperdagangkan pada 24 Agustus 2026. Dengan tambahan tersebut, total saham CYBR yang beredar naik dari 13.483.357.505 lembar menjadi 13.483.357.705 lembar.",
+   "Berdasarkan surat PT Adimitra Jasa Korpora, biro administrasi efek CYBR, tertanggal 21 Agustus 2026, pelaksanaan waran dilakukan pada 20 Agustus 2026 dan penerbitan sahamnya sehari setelahnya. Setelah konversi ini, sisa waran seri I yang belum dieksekusi pemegangnya tinggal 424.526.499 unit, berkurang dari sebelumnya 424.526.699 unit."
+  ],
+  "fotoAdegan": "Technician monitoring rows of server racks with blinking status lights in a dim data center",
+  "takeaway": "Penilaian saya netral, karena konversi 200 waran menjadi 200 saham baru ini nyaris tidak berpengaruh apa pun bagi ITSEC Asia, bahkan lebih kecil dari dua konversi waran serupa yang sudah dilaporkan pekan ini, masing-masing 240.100 saham dan 900 saham. Yang tersentuh adalah jumlah saham beredar, yaitu total lembar saham yang menentukan berapa persen kepemilikan tiap pemegang saham dan berapa laba yang jatuh ke setiap lembar saham, dan penambahan sekecil ini praktis tidak mengubah keduanya. Yang perlu dipantau selanjutnya adalah sisa 424.526.499 unit waran seri I yang belum dieksekusi, karena kalau suatu saat dikonversi dalam jumlah besar dan bukan lagi ratusan lembar seperti ini, dampaknya terhadap jumlah saham beredar baru akan terasa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wika-obligasi-sukuk-rp2-47-triliun-dipangkas-pefindo-ke-d",
   "category": "Aksi Korporasi",
   "title": "WIKA Obligasi-Sukuk Rp2,47 Triliun Dipangkas Pefindo ke [D]",

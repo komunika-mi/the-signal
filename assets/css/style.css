@@ -376,6 +376,20 @@ img { max-width: 100%; display: block; }
      Tinggi 46px sekalian, 41px sebelumnya di bawah ambang nyaman untuk jari. */
   .modal .form-langganan input[type="email"] { font-size: 16px; min-height: 46px; }
   .modal .btn-modal-submit { min-height: 46px; }
+
+  /* Ambang sentuh 44px, meneruskan alasan di atas ke seluruh elemen yang
+     dijari. Diukur di viewport 375x812 sungguhan: nav-link 21px, tautan
+     footer 22px, tombol Telegram 32px, tombol bot 34px, Signal+ 35px.
+     Semuanya di bawah ambang, dan nav-link adalah navigasi utama situs.
+
+     Yang ditambah RUANG, bukan ukuran huruf. Menaikkan font akan mengubah
+     rancangan halaman; padding hanya memperbesar daerah yang bisa dijari,
+     jadi tampilannya nyaris tidak berubah sementara ketepatannya naik. */
+  .nav-link { padding-block: 11px 8px; }
+  .masthead-nav { padding-bottom: 0; }
+  .footer-col ul { gap: 0; }
+  .footer-col ul a { display: block; padding-block: 11px; }
+  .btn-subscribe, .btn-telegram, .btn-bot { min-height: 44px; }
 }
 @media (max-width: 420px) {
   .ticker-grid { grid-template-columns: 1fr; }

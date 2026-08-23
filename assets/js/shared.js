@@ -288,6 +288,22 @@
       // Dipanggil DI DALAM handler submit supaya terhitung tindakan pengguna
       // dan lolos pemblokir popup.
       window.open('', 'popupwindow', 'width=600,height=520');
+
+      // Catat ke GA4. Ditaruh SESUDAH window.open supaya urusan pemblokir
+      // popup selesai lebih dulu; kalau gtag diblokir pemblokir iklan,
+      // pendaftarannya tetap jalan seperti biasa.
+      //
+      // Yang dihitung PENGIRIMAN FORM, bukan langganan yang jadi. Tab ini
+      // tidak pernah melihat jawaban Buttondown, dan langganan baru aktif
+      // setelah pembaca mengklik tautan konfirmasi di emailnya. Jadi angka
+      // ini batas atas - pelanggan sungguhan selalu lebih sedikit, dan
+      // jumlah aslinya hanya ada di dasbor Buttondown.
+      //
+      // ALAMAT EMAIL TIDAK IKUT DIKIRIM. Mengirimnya ke Google melanggar
+      // kebijakan data pengenal sekaligus janji di halaman privasi kita.
+      if (typeof gtag === 'function') {
+        gtag('event', 'sign_up', { method: 'buttondown' });
+      }
       var email = (form.querySelector('input[type="email"]') || {}).value || '';
       setTimeout(function () {
         // JANGAN mengaku email sudah terkirim. Tab ini tidak tahu apa-apa.

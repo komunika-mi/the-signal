@@ -1252,17 +1252,16 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
         publisher: RUJUK_ORGANISASI,
         mainEntity: {
           '@type': 'ItemList',
+          // ListItem polos, BUKAN Event. Butir-butir ini tanggal efektif,
+          // bukan acara: tidak ada yang berlangsung di suatu tempat, jadi
+          // `location` yang diwajibkan Google tidak bisa diisi tanpa
+          // mengarang. Mengarangnya berarti mempertaruhkan kepercayaan
+          // seluruh domain demi satu rich result yang memang bukan haknya.
           itemListElement: AGENDA.filter(e => !e.perkiraan).slice(0, 100).map((e, i) => ({
             '@type': 'ListItem', position: i + 1,
-            item: {
-              '@type': 'Event',
-              // kategori (plus kode emiten kalau ada) itu nama acaranya; e.teks
-              // adalah paragraf 'yang perlu dipantau', tempatnya di description.
-              name: (e.emiten ? e.emiten + ' — ' : '') + e.kategori,
-              description: e.teks, startDate: e.iso,
-              eventStatus: 'https://schema.org/EventScheduled',
-              url: BASE + (e.slug ? '/berita/' + e.slug + '.html' : '/agenda.html'),
-            },
+            name: (e.emiten ? e.emiten + ' — ' : '') + e.kategori +
+              (e.label ? ' · ' + e.label : ''),
+            url: BASE + (e.slug ? '/berita/' + e.slug + '.html' : '/agenda.html'),
           })),
         },
       },

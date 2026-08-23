@@ -384,11 +384,17 @@ img { max-width: 100%; display: block; }
 
      Yang ditambah RUANG, bukan ukuran huruf. Menaikkan font akan mengubah
      rancangan halaman; padding hanya memperbesar daerah yang bisa dijari,
-     jadi tampilannya nyaris tidak berubah sementara ketepatannya naik. */
-  .nav-link { padding-block: 11px 8px; }
+     jadi tampilannya nyaris tidak berubah sementara ketepatannya naik.
+
+     Angkanya hasil UKUR ULANG, bukan tebakan: padding 11px membawa nav dari
+     21px ke 37px dan tautan footer dari 22px ke 39px, keduanya masih di bawah
+     ambang. 14px membawa keduanya lewat 44px. Ongkosnya masthead seluler naik
+     tujuh piksel dari 196px, dan itu ditukar dengan kendali yang paling sering
+     disentuh di situs ini. */
+  .nav-link { padding-block: 14px 12px; }
   .masthead-nav { padding-bottom: 0; }
   .footer-col ul { gap: 0; }
-  .footer-col ul a { display: block; padding-block: 11px; }
+  .footer-col ul a { display: block; padding-block: 14px; }
   .btn-subscribe, .btn-telegram, .btn-bot { min-height: 44px; }
 }
 @media (max-width: 420px) {

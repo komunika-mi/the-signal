@@ -196,7 +196,15 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
   // Ilustrasi TETAP dibatasi. Di situlah ongkos sebenarnya: ~30 detik dan
   // kredit langganan per gambar.
   const denganSumber = perlu.filter(a => a.fotoSumber);
-  const tanpaSumber = perlu.filter(a => !a.fotoSumber);
+  // Artikel keterbukaan IDX TIDAK dibuatkan ilustrasi. Ia memakai penanda
+  // rubrik bersama yang dipasang pasangFoto(). Sebelum aturan ini, 81 dari
+  // 82 antrean ilustrasi adalah IDX, dan antrean itu tidak pernah habis
+  // karena keterbukaan bursa mengalir sepanjang hari.
+  const tanpaSumber = perlu.filter(a => !a.fotoSumber && a.sourceLabel !== 'IDX');
+  const idxDilewati = perlu.filter(a => !a.fotoSumber && a.sourceLabel === 'IDX').length;
+  if (idxDilewati) {
+    log('foto artikel: ' + idxDilewati + ' artikel IDX memakai penanda keterbukaan bursa (tidak dibuatkan ilustrasi)');
+  }
   const antre = [...denganSumber, ...tanpaSumber.slice(0, maksBaru)];
   if (denganSumber.length) {
     log('foto artikel: ' + denganSumber.length + ' punya foto sumber, semuanya dikerjakan (tidak dibatasi)');

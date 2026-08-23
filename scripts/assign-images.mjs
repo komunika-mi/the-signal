@@ -106,9 +106,14 @@ function skorFoto(nama, teks) {
 // yang belum terpakai. Kalau pustaka benar-benar habis, barulah pengulangan
 // diizinkan, dan itu DILAPORKAN dengan jelas supaya ketahuan pustakanya perlu
 // ditambah lewat `node scripts/lengkapi-foto.mjs`.
+// Penanda rubrik untuk keterbukaan IDX. Satu berkas, dipakai bersama, dan
+// itu DISENGAJA - lihat cabang sourceLabel IDX di dalam pasangFoto().
+export const PENANDA_IDX = 'penanda-keterbukaan-bursa';
+
 export function pasangFoto(artikel) {
   const semuaBerkas = fs.existsSync(IMG_DIR)
-    ? fs.readdirSync(IMG_DIR).filter(f => f.endsWith('.jpg') && f !== 'og-card.jpg')
+    ? fs.readdirSync(IMG_DIR).filter(f => f.endsWith('.jpg') && f !== 'og-card.jpg'
+        && f !== PENANDA_IDX + '.jpg')
         .map(f => f.replace(/\.jpg$/, ''))
     : [];
 
@@ -125,6 +130,7 @@ export function pasangFoto(artikel) {
   let cocokIsi = 0;
 
   let punyaSendiri = 0;
+  let penandaIDX = 0;
 
   for (const a of artikel) {
     const kat = a.category;
@@ -140,6 +146,23 @@ export function pasangFoto(artikel) {
       a.image = 'assets/img/' + a.slug + '.jpg';
       terpakai.add(a.slug);
       punyaSendiri++;
+      continue;
+    }
+
+    // Keterbukaan IDX: penanda rubrik, bukan gambar kolam.
+    //
+    // Pengumuman stock split atau panggilan RUPS tidak punya peristiwa
+    // yang bisa difoto, jadi mengambil gambar kolam bertema untuknya cuma
+    // menempelkan hiasan yang menyamar sebagai dokumentasi. Satu penanda
+    // yang jujur lebih baik daripada 335 gambar berbeda yang sama-sama
+    // tidak menggambarkan apa pun.
+    //
+    // SENGAJA tidak masuk `terpakai`: berkas ini memang dipakai berulang,
+    // dan menandainya terpakai akan membuat artikel IDX kedua jatuh
+    // kembali ke kolam.
+    if (a.sourceLabel === 'IDX' && ada(PENANDA_IDX)) {
+      a.image = 'assets/img/' + PENANDA_IDX + '.jpg';
+      penandaIDX++;
       continue;
     }
 
@@ -190,6 +213,9 @@ export function pasangFoto(artikel) {
     punyaSendiri + ' pakai foto sendiri, ' +
     cocokIsi + ' dicocokkan dengan isi berita, ' +
     berdempet + ' berdempetan' + (terpaksaUlang ? ', ' + terpaksaUlang + ' TERPAKSA DIULANG' : ''));
+  if (penandaIDX) {
+    log('foto: ' + penandaIDX + ' artikel keterbukaan IDX memakai penanda bersama');
+  }
   if (terpaksaUlang) {
     // Saran lama di sini cuma "Jalankan: node scripts/lengkapi-foto.mjs", dan
     // itu menyesatkan. Skrip tersebut hanya membuat foto untuk adegan yang

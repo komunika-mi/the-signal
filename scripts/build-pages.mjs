@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
+import { PENANDA_IDX } from './assign-images.mjs';
 import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas, ID_ORGANISASI } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 
@@ -2327,6 +2328,10 @@ if (fotoHilang.length) {
   const sidik = new Map();
   for (const a of ARTICLES) {
     if (!a.image) continue;
+    // Penanda keterbukaan IDX memang dipakai bersama ratusan artikel.
+    // Kalau ikut dihitung, satu kelompok raksasa akan menenggelamkan
+    // duplikat yang sungguhan dan laporannya jadi tidak berguna.
+    if (a.image === 'assets/img/' + PENANDA_IDX + '.jpg') continue;
     const p = path.join(ROOT, a.image);
     if (!fs.existsSync(p)) continue;
     const h = crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex');

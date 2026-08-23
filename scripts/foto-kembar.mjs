@@ -37,6 +37,8 @@ const artikel = readData('articles.js', 'ARTICLES');
 // Kelompokkan berdasarkan isi berkas, bukan namanya.
 const kelompok = new Map();
 for (const a of artikel) {
+  // Penanda keterbukaan IDX dipakai bersama dengan sengaja, bukan cacat.
+  if (a.image === 'assets/img/penanda-keterbukaan-bursa.jpg') continue;
   if (!a.image) continue;
   const p = path.join(ROOT, a.image);
   if (!fs.existsSync(p)) continue;

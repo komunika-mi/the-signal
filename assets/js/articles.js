@@ -3,6 +3,170 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-jerman-perkuat-investasi-energi-terbarukan",
+  "category": "Energi",
+  "title": "Indonesia-Jerman [Perkuat] Investasi Energi Terbarukan",
+  "deck": "Indonesia dan Jerman memperluas kerja sama investasi energi terbarukan dan jaringan listrik, di tengah target bauran EBT 18-21 persen pada 2026 yang realisasinya baru sekitar 0,5 persen.",
+  "image": "assets/img/indonesia-jerman-perkuat-investasi-energi-terbarukan.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-23T23:21:47.364Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perkuat-ketahanan-energi-indonesia-jerman-percepat-investasi-ebt-dan-jaringan-listrik",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Energi Terbarukan",
+   "Indonesia-Jerman",
+   "Biofuel B-50",
+   "Jaringan Listrik"
+  ],
+  "body": [
+   "Indonesia dan Jerman memperkuat kerja sama energi, dengan fokus pada investasi energi terbarukan dan modernisasi jaringan listrik, sebagai bagian dari upaya pemerintah mengurangi ketergantungan pada bahan bakar fosil sekaligus mengantisipasi gejolak energi global. Wakil Menteri ESDM Yuliot menyampaikan hal ini dalam ajang Indonesia Sustainable Energy Week di Jakarta, yang dihadiri pejabat dan pelaku industri energi dari kedua negara. Menurut Yuliot, ketegangan di Timur Tengah, termasuk potensi gangguan jalur pengiriman minyak di Selat Hormuz, bisa mendorong kenaikan harga energi dan biaya logistik, sekaligus menambah beban subsidi dalam APBN dan menekan daya beli masyarakat.",
+   "Pemerintah menargetkan porsi energi terbarukan dalam bauran energi nasional naik menjadi 18 sampai 21 persen pada 2026. Yuliot menyebut potensi energi terbarukan Indonesia mencapai 3.687 gigawatt, terdiri dari energi surya 3.294 gigawatt, tenaga air 95 gigawatt, angin 155 gigawatt, energi laut 63 gigawatt, bioenergi 57 gigawatt, dan panas bumi 24 gigawatt. Namun pemanfaatannya sejauh ini baru 16,278 gigawatt, atau kurang dari 0,5 persen dari total potensi yang ada, sebuah kesenjangan besar antara potensi dan realisasi.",
+   "Selain itu, pemerintah telah menjalankan program mandatori biofuel B-50, campuran solar dengan 50 persen bahan bakar nabati dari kelapa sawit, sejak 1 Juli 2026. Menurut proyeksi pemerintah, program ini berpotensi menghemat devisa hingga Rp170 triliun, menambah nilai tambah industri kelapa sawit sebesar Rp23,5 triliun, menyerap 2,1 juta tenaga kerja, dan menekan emisi gas rumah kaca sebesar 44,5 juta ton CO2.",
+   "Menteri Federal Jerman untuk Kerja Sama Ekonomi dan Pembangunan, Reem Alabali Radovan, menyatakan kedua negara akan memperluas kerja sama investasi swasta di sektor energi terbarukan dan perluasan jaringan listrik dalam beberapa tahun ke depan. Kerja sama energi Indonesia-Jerman yang didukung lembaga BMZ dan International Climate Initiative itu telah mencatat total komitmen dukungan lebih dari 2,3 miliar euro, mencakup bantuan teknis, peningkatan kapasitas, dan investasi modal, untuk mendukung target nol emisi bersih sektor energi pada 2060 serta peta jalan transisi energi berkeadilan atau JETP. Kolaborasi ini juga mencakup perundingan kemitraan ekonomi komprehensif Indonesia-Uni Eropa atau I-EU CEPA, serta peluang investasi di ekosistem kendaraan listrik, industri semikonduktor, pengolahan mineral penting, dan jaringan listrik pintar."
+  ],
+  "fotoAdegan": "Workers installing solar panels near high-voltage transmission towers in a rural Indonesian landscape, midday light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-perkuat-ketahanan-energi-indonesia-jerman-percepat-investasi-ebt-dan-jaringan-listrik-370q4ou.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah secara konkret adalah kerja sama investasi dengan Jerman untuk membangun pembangkit energi terbarukan dan memperbaiki jaringan listrik, dengan total komitmen dukungan yang terkumpul dari tahun ke tahun lebih dari 2,3 miliar euro. Ini penting karena pemanfaatan potensi energi terbarukan Indonesia saat ini baru sekitar 0,5 persen dari seluruh potensi yang ada, jauh dari target porsi energi terbarukan dalam total energi yang dipakai sebesar 18 sampai 21 persen pada 2026. Yang terdampak adalah investor energi terbarukan, industri kelapa sawit yang memasok bahan baku biodiesel B-50, serta anggaran negara yang menanggung subsidi kalau harga minyak dunia naik akibat gejolak di Timur Tengah. Pola ini menunjukkan pemerintah semakin mengandalkan pendanaan dan kerja sama luar negeri untuk mengejar target energi bersih, karena realisasi pembangunan di dalam negeri masih sangat kecil dibanding potensinya. Yang akan menunjukkan apakah komitmen Jerman ini benar terealisasi atau sekadar pernyataan kerja sama adalah laporan realisasi investasi dan progres proyek jaringan listrik dalam setahun ke depan, ditambah data penghematan devisa dari program B-50 yang baru berjalan sejak 1 Juli 2026.",
+  "imageV": "mt6fva1h"
+ },
+ {
+  "slug": "potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap",
+  "category": "Energi",
+  "title": "Potensi Panas Bumi RI Nomor Satu Dunia, Baru 11,6% [Tergarap]",
+  "deck": "Kementerian ESDM menyiapkan revisi aturan dan insentif pajak untuk mempercepat pengembangan panas bumi, sekaligus meminta pengembang tak menahan konsesi yang sudah didapat.",
+  "image": "assets/img/potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-23T23:21:46.469Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kejar-potensi-panas-bumi-nomor-satu-dunia-bahlil-minta-pengembang-tak-tahan-konsesi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "panas bumi",
+   "ESDM",
+   "energi terbarukan",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Indonesia disebut memiliki cadangan panas bumi terbesar di dunia, tetapi baru sebagian kecil yang benar-benar dimanfaatkan menjadi listrik. Kementerian Energi dan Sumber Daya Mineral (ESDM) kini mendorong percepatan lewat pembenahan aturan, insentif, dan permintaan tegas kepada pengembang agar konsesi yang sudah diperoleh tidak dibiarkan menganggur. Ini penting karena pemerintah mengaitkan langsung isu ini dengan upaya mengurangi ketergantungan pada energi impor di tengah gejolak harga energi global.",
+   "Berdasarkan data ESDM yang dipaparkan pada ajang The 12th Indonesia International Geothermal Convention & Exhibition (IIGCE) 2026, total potensi panas bumi nasional mencapai 23.202,77 megawatt, sementara kapasitas yang sudah terpasang baru 2.776,39 megawatt, atau sekitar 11,6 persen. Artinya, 88,4 persen potensi itu masih belum digarap. Menteri ESDM Bahlil Lahadalia mengatakan Indonesia unggul dari segi cadangan dibanding negara mana pun, tetapi kalah dari Amerika Serikat dalam hal realisasi pembangunannya, seperti disampaikannya saat membuka IIGCE 2026 di Jakarta, 19 Agustus 2026.",
+   "Dari sisi kebijakan, pemerintah menyiapkan revisi Peraturan Pemerintah Nomor 7 Tahun 2017, yang antara lain akan mengatur pemanfaatan panas bumi di luar listrik dan menaikkan porsi keuntungan yang bisa didapat investor. Revisi Peraturan Presiden Nomor 112 Tahun 2022 juga disiapkan untuk mempercepat pengembangan energi baru terbarukan, dilengkapi insentif pajak. Soal harga, nilai jual listrik panas bumi saat ini sekitar 9,5 sen dolar Amerika per kilowatt jam, angka yang menentukan seberapa menguntungkan proyek ini bagi investor, namun pelaku usaha menilai angka tersebut masih belum cukup menarik. Bahlil juga meminta pengembang yang sudah memegang konsesi untuk segera merealisasikan proyeknya, dan menyoroti kebiasaan mengajukan penghentian sementara atau perpanjangan izin berulang kali, terutama bila alasannya menyangkut kesiapan teknologi atau pembiayaan.",
+   "Di ajang yang sama, pemerintah menyerahkan Izin Panas Bumi kepada PT PLN (Persero) untuk Wilayah Kerja Panas Bumi (WKP) Gunung Ungaran dan kepada PT Telaga Rano Geothermal untuk WKP Telaga Ranu. Pemerintah juga akan menawarkan lima WKP baru serta tujuh wilayah penugasan survei pendahuluan dan eksplorasi sepanjang 2026. Di luar pembangkit listrik, ESDM mencatat panas bumi juga sudah dipakai untuk pengeringan kopi di Kamojang, pengolahan gula aren di Lahendong, dan pengembangan ekstraksi mineral di Dieng."
+  ],
+  "fotoAdegan": "Steam vents and insulated pipelines crossing a misty mountain geothermal field in Indonesia, technicians in hard hats checking valves at dawn.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kejar-potensi-panas-bumi-nomor-satu-dunia-bahlil-minta-pengembang-tak-tahan-konsesi-3jic1n1.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Perubahan konkret di sini adalah rencana revisi PP Nomor 7 Tahun 2017 dan Perpres Nomor 112 Tahun 2022, yang akan menaikkan porsi keuntungan investor dari proyek panas bumi, ditambah insentif pajak baru dan sinyal bahwa konsesi yang menganggur bisa dievaluasi kalau pengembang berulang kali mengajukan penghentian sementara atau perpanjangan izin. Yang langsung kena dampaknya adalah pemegang Wilayah Kerja Panas Bumi, dari PLN yang baru mendapat izin di Gunung Ungaran sampai perusahaan swasta seperti Telaga Rano Geothermal, karena merekalah yang selama ini menguasai 88 persen potensi panas bumi yang belum tergarap. Arahnya tampak menuju kombinasi dorongan dan tekanan sekaligus, pemerintah menawarkan insentif fiskal supaya proyek lebih menguntungkan, sambil menyiapkan alasan untuk menegur atau mencabut konsesi yang mangkrak. Yang akan memastikan arah ini serius bukan sekadar wacana adalah apakah revisi PP dan Perpres itu benar terbit, serta apakah lima WKP dan tujuh wilayah survei yang dijanjikan tahun ini benar ditawarkan sesuai jadwal.",
+  "imageV": "mt6fvckd"
+ },
+ {
+  "slug": "kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur",
+  "category": "UMKM",
+  "title": "Kemendag Ajak Kampus Genjot Ekspor Lewat [Campuspreneur]",
+  "deck": "Kementerian Perdagangan mengajak kampus dan mahasiswa bergabung dalam program Campuspreneur untuk belajar berwirausaha dan menembus pasar ekspor.",
+  "image": "assets/img/kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-23T23:21:43.553Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-beri-kuliah-umum-di-univet-bantara-sukoharjo-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Campuspreneur",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengajak mahasiswa Universitas Veteran Bangun Nusantara (Univet Bantara) Sukoharjo, Jawa Tengah, untuk mulai merintis usaha sejak masih kuliah dan menjajaki peluang menjadi eksportir. Ajakan itu disampaikan saat kuliah umum pada Kamis, 20 Agustus 2026, sekaligus memperkenalkan program Campuspreneur, skema pembinaan yang menyasar mahasiswa dan pelaku usaha kecil di lingkungan kampus. Bagi mahasiswa yang tertarik pada dunia usaha, program ini menawarkan jalur konkret untuk belajar ekspor sebelum lulus, bukan sekadar mencari kerja setelah wisuda.",
+   "Untuk bergabung dalam Campuspreneur, Kemendag hanya mensyaratkan kampus memiliki UMKM binaan dengan produk yang sudah layak jual. Mahasiswa yang mengikuti program ini akan dilatih menyiapkan produk sesuai standar ekspor, memahami kebutuhan pasar tujuan, dan berkomunikasi dengan calon pembeli dari luar negeri. Kemendag juga membuka jalur magang di kantor perwakilan perdagangan Indonesia di luar negeri, tempat mahasiswa bisa langsung berlatih mencari pembeli di lingkungan bisnis yang nyata.",
+   "Program ini berjalan berdampingan dengan skema UMKM Berani Inovasi, Siap Adaptasi Ekspor (UMKM BISA Ekspor), yang menurut Kemendag telah membukukan pesanan pembelian dan potensi transaksi sekitar US$333,68 juta sepanjang Januari hingga Juli 2026. Sebagian besar penjajakan bisnis dalam program ini dilakukan lewat pertemuan virtual antara pelaku usaha Indonesia dan calon pembeli asing, tanpa pertemuan tatap muka langsung. Kemendag turut mengundang mahasiswa dan UMKM binaan kampus untuk memanfaatkan Trade Expo Indonesia (TEI) ke-41 pada 14-18 Oktober 2026 di Indonesia Convention Exhibition (ICE) BSD, Tangerang, sebagai ajang promosi produk ke pembeli internasional."
+  ],
+  "fotoAdegan": "University students packing traditional Indonesian pastries into export-ready boxes inside a small campus workshop, natural daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/xgcIBsWHpDVxu97E9GsosREaS6UY1uiSDNuVrpWl.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan ajakan Kemendag agar kampus ikut program Campuspreneur, yaitu pelatihan ekspor bagi mahasiswa dan UMKM binaan kampus, dengan syarat kampus punya usaha kecil binaan yang produknya sudah layak jual. Yang berpotensi terdampak adalah mahasiswa calon wirausaha dan pelaku UMKM di lingkungan kampus, karena merekalah yang bisa mengakses pelatihan dan pertemuan dengan calon pembeli dari luar negeri lewat program ini. Angka US$333,68 juta yang disebut Kemendag adalah nilai pesanan dan potensi transaksi dari program UMKM BISA Ekspor secara keseluruhan pada Januari-Juli 2026, bukan hasil khusus dari kunjungan ke Univet Bantara, sehingga belum bisa dipakai mengukur keberhasilan Campuspreneur secara terpisah. Yang masih kurang untuk melihat ke mana arah program ini adalah data konkret, seperti berapa kampus yang sudah bergabung, berapa UMKM binaan yang benar-benar berhasil ekspor, dan apakah ada target waktu atau anggaran resmi. Perkembangan yang perlu dicermati adalah keikutsertaan kampus dan UMKM binaan pada Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026, karena itu jadi ajang pertama untuk melihat apakah ajakan ini membuahkan hasil nyata.",
+  "imageV": "mt6fvr4j"
+ },
+ {
+  "slug": "kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris",
+  "category": "UMKM",
+  "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
+  "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
+  "image": "assets/img/kopi-roasting.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-23T23:21:23.162Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kolaborasi-ekspor-dengan-pemerintah-daerah-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor kopi",
+   "Jawa Barat",
+   "UMKM",
+   "Kemendag"
+  ],
+  "body": [
+   "Kementerian Perdagangan bersama Pemerintah Provinsi Jawa Barat melepas ekspor 10 ton biji kopi mentah (green bean) produksi UMKM Java Halu Coffee ke Inggris. Nilai pengiriman ini US$155 ribu atau setara Rp2,64 miliar, dilepas di Kabupaten Bandung Barat pada 18 Agustus 2026. Pengiriman ini jadi salah satu contoh bagaimana pelaku usaha kopi skala kecil bisa menembus pasar luar negeri dengan pendampingan pemerintah pusat dan daerah.",
+   "Java Halu Coffee sudah merintis pasar ekspor sejak 2019 dan kini produknya sudah masuk ke tujuh negara, yaitu kawasan Timur Tengah, Jepang, Australia, Korea Selatan, Turki, Inggris, dan Amerika Serikat. Kementerian Perdagangan menyebut turut memfasilitasi keikutsertaan perusahaan ini di ajang pameran internasional, antara lain World of Coffee di Athena pada 2023 dan International Coffee & Chocolate Exhibition di Riyadh pada tahun yang sama, selain keikutsertaan rutin di Trade Expo Indonesia.",
+   "Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, menyoroti bahwa ekspor kopi Indonesia tidak bisa terus mengandalkan biji mentah. Ia mendorong pelaku usaha mengembangkan produk kopi olahan dan memperkuat merek agar nilai tambahnya dinikmati di dalam negeri, bukan di negara pembeli. Ia juga menyinggung perlunya rantai pasok yang lebih efisien, dari petani, pengolah, hingga eksportir, serta penerapan ketertelusuran asal kopi untuk memenuhi standar pasar global.",
+   "Wakil Gubernur Jawa Barat Erwan Setiawan menyatakan pemerintah provinsi akan terus mendorong produk unggulan daerah menembus pasar global. Acara pelepasan ekspor ini turut dihadiri sejumlah pejabat Kemendag, Wakil Bupati Bandung Barat Asep Ismail, dan perwakilan Bank Indonesia Kantor Perwakilan Jawa Barat."
+  ],
+  "fotoAdegan": "Workers sorting and bagging green coffee beans into burlap sacks inside a rural warehouse in West Java, morning light through open doors",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini sebenarnya berskala kecil: satu UMKM kopi asal Bandung Barat mengirim 10 ton biji kopi mentah senilai Rp2,64 miliar ke Inggris, bagian dari pasar ekspor yang sudah dirintis sejak 2019 ke tujuh negara. Yang terdampak langsung adalah Java Halu Coffee dan kemungkinan petani mitra di sekitar Bandung Barat, tapi berita ini tidak menyebut berapa banyak UMKM kopi lain di Jawa Barat yang mendapat pendampingan serupa dari Kemendag. Pejabat Kemendag menyinggung arah kebijakan yang lebih besar, yaitu mendorong ekspor kopi olahan dan bermerek ketimbang sekadar biji mentah, supaya nilai tambahnya tidak habis dinikmati di negara pembeli. Namun belum ada angka berapa persen ekspor kopi Indonesia saat ini masih berupa biji mentah, atau target waktu pergeseran ke produk olahan itu, sehingga belum bisa dipastikan apakah dorongan ini akan diikuti insentif atau aturan konkret. Yang perlu ditunggu adalah data ekspor kopi Jawa Barat atau nasional pada periode berikutnya, untuk melihat apakah pola hilirisasi ini benar bergerak atau baru sebatas imbauan."
+ },
+ {
+  "slug": "transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar",
+  "category": "UMKM",
+  "title": "Transaksi UMKM di KKI 2026 [Tembus] Rp144,2 Miliar",
+  "deck": "Bank Indonesia menutup KKI 2026 dengan penjualan sementara Rp144,2 miliar dan pembiayaan UMKM Rp285 miliar, naik dari capaian tahun sebelumnya.",
+  "image": "assets/img/transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-23T23:20:50.288Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "UMKM",
+   "Bank Indonesia",
+   "KKI 2026",
+   "Ekspor UMKM"
+  ],
+  "body": [
+   "Bank Indonesia menutup gelaran tahunan Karya Kreatif Indonesia (KKI) 2026 di Jakarta pada Sabtu (23/8), dengan mencatat penjualan sementara sebesar Rp144,2 miliar hingga 22 Agustus 2026. Angka ini naik 46 persen dibanding capaian KKI 2025. Bagi pembaca, gelaran ini penting karena menjadi salah satu ukuran seberapa besar akses pasar dan pembiayaan yang berhasil dibuka bagi pelaku usaha kecil dan menengah lewat program pemerintah.",
+   "Selain penjualan langsung, KKI 2026 juga mencatat hasil business matching, yaitu pertemuan bisnis yang mempertemukan UMKM dengan calon pembeli atau lembaga pembiayaan. Untuk jalur ekspor, nilainya mencapai Rp169,9 miliar dengan melibatkan 192 UMKM dan pembeli dari 16 negara. Untuk jalur pembiayaan, nilainya mencapai Rp285 miliar, naik 30,3 persen dibanding rata-rata tiga tahun terakhir. Angka business matching ini merupakan hasil pertemuan dan kesepakatan awal, bukan otomatis transaksi yang sudah cair atau terkirim.",
+   "Skala pelibatan UMKM dalam acara ini cukup besar. Menurut Bank Indonesia, KKI 2026 melibatkan lebih dari 1.860 UMKM dari seluruh Indonesia, dengan sekitar 560 di antaranya tampil langsung membawa produk wastra, pakaian siap pakai, makanan dan minuman, dekorasi rumah, hingga karya generasi muda. Acara ini didukung 27 kementerian dan lembaga, 34 asosiasi serta mitra industri dan perbankan, dan memanfaatkan jaringan 46 kantor perwakilan Bank Indonesia di dalam negeri serta 5 kantor perwakilan di luar negeri.",
+   "KKI 2026 turut menyelenggarakan dua program pembinaan, yakni Cangkir Barista untuk wirausaha kopi berupa peningkatan kompetensi, sertifikasi nasional, dan pendampingan usaha, serta Citra Nusa untuk penguatan daya saing UMKM wastra lewat inovasi desain dan pengembangan produk berorientasi ekspor. Tahun ini Cangkir Barista menghasilkan 6 juara terbaik dan 4 juara terfavorit, sementara Citra Nusa menghasilkan 5 juara terbaik dan 3 juara terfavorit."
+  ],
+  "fotoAdegan": "Vendors arranging handwoven textiles and packaged local snacks on display tables inside a crowded trade exhibition hall",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2817226/sp-2817226_2.png",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Angka yang diumumkan Bank Indonesia, terutama hasil business matching senilai Rp169,9 miliar untuk ekspor dan Rp285 miliar untuk pembiayaan, adalah nilai kesepakatan awal antara UMKM dengan calon pembeli atau lembaga pembiayaan, bukan transaksi yang sudah pasti cair atau terkirim seluruhnya. Yang langsung terdampak adalah 192 UMKM yang dipertemukan dengan pembeli dari 16 negara, serta pelaku usaha kecil yang mengajukan akses pembiayaan lewat acara ini. Karena KKI digelar setiap tahun dan angka pertumbuhannya selalu dibandingkan dengan tahun sebelumnya, pola yang terlihat adalah Bank Indonesia terus memperbesar skala acara ini sebagai kanal tetap untuk membuka pasar dan modal bagi UMKM. Yang akan menunjukkan apakah pertumbuhan ini benar-benar berdampak adalah data realisasi ekspor dan pencairan pembiayaan dari hasil business matching tahun ini, bukan sekadar nilai kesepakatan yang diumumkan saat acara berlangsung.",
+  "imageV": "mt6fvxmv"
+ },
+ {
+  "slug": "iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026",
+  "category": "Bisnis",
+  "title": "IAPI Soroti Etika Auditor di Era [AI] Lewat CPA Days 2026",
+  "deck": "IAPI dan BINUS University menggelar seminar CPA Days 2026, menyoroti tantangan etika dan professional judgment akuntan publik saat AI masuk ke praktik audit.",
+  "image": "assets/img/iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026.jpg",
+  "date": "23 Agustus 2026",
+  "isoDate": "2026-08-23T22:46:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462024-praktik-audit-dan-assurance-masuk-era-ai-iapi-dan-binus-university-sorot-persoalan-etika-dan-professional-judgment",
+  "tags": [
+   "audit",
+   "AI",
+   "IAPI",
+   "akuntan publik"
+  ],
+  "body": [
+   "Perkembangan kecerdasan buatan, analisis data, dan otomatisasi disebut mengubah cara organisasi mengelola informasi hingga mengambil keputusan, termasuk dalam praktik audit dan assurance, yaitu jasa pemeriksaan dan penjaminan atas keandalan laporan keuangan perusahaan. Institut Akuntan Publik Indonesia (IAPI) bersama School of Accounting BINUS University menggelar seminar pra-acara CPA Days 2026 pada 19 Agustus 2026 di kampus BINUS Alam Sutera, Tangerang, untuk membahas bagaimana akuntan publik harus beradaptasi tanpa mengorbankan etika dan independensi profesi. Isu ini relevan karena AI kini ikut dipakai dalam proses audit, sehingga muncul pertanyaan soal batas peran manusia dalam mengambil keputusan profesional.",
+   "Seminar bertema \"Integrity by Design: Ethics and Governance in Intelligence-driven Organizations\" ini menjadi pembuka rangkaian CPA Days 2026 yang mengusung tema besar \"Catalysts of Tomorrow: Transforming Assurance Through Intelligence\". Forum digelar secara hibrida dan mempertemukan regulator, akademisi, praktisi, mahasiswa, serta calon profesional untuk membahas kebutuhan kompetensi baru di bidang audit dan akuntansi. Dua pembicara kunci hadir dalam seminar ini, yaitu Jean Bouquot selaku Presiden International Federation of Accountants (IFAC), dan Erawati, Direktur Pembinaan dan Pengawasan Profesi Keuangan Kementerian Keuangan.",
+   "Presiden IAPI Tarkosunaryo, yang juga menjabat Dewan Pembina CPA Days 2026, mengatakan kesiapan profesi akuntan publik menghadapi perkembangan teknologi tidak cukup diukur dari kemampuan memakai alat baru. Ia menekankan bahwa kompetensi profesional, integritas, independensi, dan kemampuan mengambil keputusan secara tepat tetap jadi syarat utama di tengah otomatisasi. Materi yang dibahas dalam rangkaian acara mencakup dampak AI terhadap audit dan assurance, penerapan etika dan professional judgment, hingga penggunaan data analytics dan teknologi baru dalam pekerjaan auditor."
+  ],
+  "fotoAdegan": "Rows of seminar attendees in business attire listening intently in a modern university auditorium during a daytime forum",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/23/6a8b13ab632f3-seminar-pre-event-dan-research-workshop-cpa-days-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari acara ini bukan aturan atau standar baru, melainkan sinyal bahwa organisasi profesi akuntan publik mulai serius membahas bagaimana AI dan analisis data dipakai dalam proses audit, tanpa mengubah kewajiban etika dan independensi auditor. Yang terdampak langsung adalah akuntan publik dan kantor akuntan yang menjalankan audit laporan keuangan perusahaan, serta mahasiswa akuntansi yang akan masuk ke profesi ini. Berita ini belum menyebut adanya pedoman atau standar resmi dari IAPI soal penggunaan AI dalam audit, sehingga arah kebijakannya belum bisa dibaca dari forum ini saja. Yang perlu ditunggu adalah apakah rangkaian CPA Days 2026 berikutnya menghasilkan rekomendasi konkret, misalnya draf pedoman etika penggunaan AI dalam praktik audit, atau forum ini berhenti sebagai diskusi tanpa tindak lanjut formal.",
+  "imageV": "mt6fvy5v"
+ },
+ {
   "slug": "ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026",
   "category": "Global",
   "title": "RI-Uni Eropa Matangkan CEPA, [Teken] Ditarget Oktober 2026",
@@ -84,6 +248,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang konkret baru sebatas arah pembahasan: Komisi XII DPR tengah mematangkan desain kelembagaan baru dalam RUU Migas, dengan opsi pembentukan Badan Usaha Khusus atau BUK yang diharapkan memangkas rantai birokrasi perizinan migas. Pihak yang paling berkepentingan adalah kontraktor migas yang dalam berita disebut K3S, karena merekalah yang selama ini menghadapi prosedur berlapis, serta industri migas nasional secara luas mengingat produksi minyak sudah jauh menyusut dari puncak 1,6 juta barel per hari. Yang masih kurang untuk memastikan ke mana arah kebijakan ini bergerak adalah naskah resmi RUU Migas, kewenangan pasti yang akan dimiliki BUK, dan jadwal pembahasan atau pengesahannya di DPR, karena sejauh ini semua masih berupa opsi yang dibicarakan, bukan keputusan final. Pembaca perlu memantau apakah desain BUK ini benar masuk draf resmi yang dibawa ke rapat kerja Komisi XII berikutnya.",
   "imageV": "mt5v2yts"
+ },
+ {
+  "slug": "pnm-satukan-58-cabang-lewat-grand-final-porseni-2026",
+  "category": "BUMN",
+  "title": "PNM Satukan 58 Cabang lewat Grand Final [PORSENI] 2026",
+  "deck": "PNM menggelar Grand Final PORSENI 2026 di BRILiaN Stadium, mempertemukan insan dari 58 cabang, kantor pusat, dan anak usaha se-Indonesia dalam ajang olahraga dan seni tahunan.",
+  "image": "assets/img/pnm-satukan-58-cabang-lewat-grand-final-porseni-2026.jpg",
+  "date": "23 Agustus 2026",
+  "isoDate": "2026-08-23T13:16:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461925-pnm-asah-daya-juang-karyawan-melalui-grand-final-porseni-2026",
+  "tags": [
+   "PNM",
+   "PORSENI 2026",
+   "BUMN",
+   "UMKM"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) menggelar Grand Final Pekan Olahraga dan Seni (PORSENI) 2026 pada Sabtu, 22 Agustus 2026, di BRILiaN Stadium. Acara tahunan ini mempertemukan ribuan karyawan PNM dari seluruh Indonesia yang untuk beberapa hari bertukar peran, dari pegawai sehari-hari menjadi atlet, penyanyi, penari, hingga komika, di bawah tema Sinergi dalam Prestasi, Membangun Bersama PNM.",
+   "Sebanyak 58 cabang, kantor pusat, dan perusahaan anak PNM ikut ambil bagian, menghadirkan ribuan peserta yang berlaga baik secara langsung maupun daring dari berbagai penjuru negeri. Mereka adalah pegawai yang sehari-hari mendampingi nasabah usaha mikro dan kecil, yang untuk sementara beralih peran menjadi peserta lomba olahraga dan seni mewakili cabang masing-masing.",
+   "Rangkaian menuju Grand Final berlangsung dalam dua tahap kualifikasi. Pada 11 Juli 2026, enam kota yaitu Medan, Jakarta, Yogyakarta, Bandung, Surabaya, dan Makassar menggelar pertandingan mini soccer putra, bulu tangkis, tenis meja, dan padel. Sepekan setelahnya, dari 14 hingga 18 Juli 2026, kompetisi berpindah ke ranah digital lewat e-sports Mobile Legends, lomba tari, PNM Idol, lomba band, dan stand up comedy, yang menyatukan seluruh cabang lewat satu layar yang sama.",
+   "Direktur Utama PNM, Kindaris, menegaskan bahwa Grand Final ini bukan sekadar soal menang atau kalah di lapangan, melainkan perayaan perjalanan panjang yang mempertemukan insan PNM dari berbagai daerah dan cabang dalam satu semangat kebersamaan yang ia sebut sebagai semangat One PNM."
+  ],
+  "fotoAdegan": "Employees in colorful team jerseys playing mini soccer inside a large indoor sports stadium, coworkers cheering from the stands",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/23/6a8a8ed60c143-pt-permodalan-nasional-madani-persero-atau-pnm-kembali-menggelar-pesta-akbar-tahunannya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Acara ini murni kegiatan internal PNM untuk menyatukan karyawan dari 58 cabang, kantor pusat, dan anak usaha lewat olahraga dan seni, jadi tidak ada perubahan pada layanan pembiayaan ke nasabah usaha mikro dan kecil yang selama ini jadi bisnis inti PNM. Yang terdampak langsung hanya pegawai PNM sendiri, bukan nasabah, investor, atau pasar keuangan secara umum. Berita ini juga tidak memuat angka kinerja bisnis, seperti jumlah nasabah yang dilayani atau total pembiayaan yang disalurkan, sehingga belum bisa dikaitkan dengan kondisi keuangan perusahaan. Untuk menilai performa PNM yang sesungguhnya, yang perlu dilihat adalah laporan kinerja bisnis resmi perusahaan, bukan acara seremonial seperti ini.",
+  "imageV": "mt6fvyls"
  },
  {
   "slug": "umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan",

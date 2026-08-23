@@ -5,6 +5,111 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-jerman-perkuat-investasi-energi-terbarukan",
+  "category": "Energi",
+  "title": "Indonesia-Jerman [Perkuat] Investasi Energi Terbarukan",
+  "deck": "Indonesia dan Jerman memperluas kerja sama investasi energi terbarukan dan jaringan listrik, di tengah target bauran EBT 18-21 persen pada 2026 yang realisasinya baru sekitar 0,5 persen.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/indonesia-jerman-perkuat-investasi-energi-terbarukan.jpg",
+  "imageV": "mt6fva1h",
+  "tags": [
+   "Energi Terbarukan",
+   "Indonesia-Jerman",
+   "Biofuel B-50",
+   "Jaringan Listrik"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perkuat-ketahanan-energi-indonesia-jerman-percepat-investasi-ebt-dan-jaringan-listrik",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap",
+  "category": "Energi",
+  "title": "Potensi Panas Bumi RI Nomor Satu Dunia, Baru 11,6% [Tergarap]",
+  "deck": "Kementerian ESDM menyiapkan revisi aturan dan insentif pajak untuk mempercepat pengembangan panas bumi, sekaligus meminta pengembang tak menahan konsesi yang sudah didapat.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap.jpg",
+  "imageV": "mt6fvckd",
+  "tags": [
+   "panas bumi",
+   "ESDM",
+   "energi terbarukan",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kejar-potensi-panas-bumi-nomor-satu-dunia-bahlil-minta-pengembang-tak-tahan-konsesi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur",
+  "category": "UMKM",
+  "title": "Kemendag Ajak Kampus Genjot Ekspor Lewat [Campuspreneur]",
+  "deck": "Kementerian Perdagangan mengajak kampus dan mahasiswa bergabung dalam program Campuspreneur untuk belajar berwirausaha dan menembus pasar ekspor.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur.jpg",
+  "imageV": "mt6fvr4j",
+  "tags": [
+   "Campuspreneur",
+   "UMKM",
+   "ekspor",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-beri-kuliah-umum-di-univet-bantara-sukoharjo-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris",
+  "category": "UMKM",
+  "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
+  "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/kopi-roasting.jpg",
+  "tags": [
+   "ekspor kopi",
+   "Jawa Barat",
+   "UMKM",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kolaborasi-ekspor-dengan-pemerintah-daerah-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar",
+  "category": "UMKM",
+  "title": "Transaksi UMKM di KKI 2026 [Tembus] Rp144,2 Miliar",
+  "deck": "Bank Indonesia menutup KKI 2026 dengan penjualan sementara Rp144,2 miliar dan pembiayaan UMKM Rp285 miliar, naik dari capaian tahun sebelumnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar.jpg",
+  "imageV": "mt6fvxmv",
+  "tags": [
+   "UMKM",
+   "Bank Indonesia",
+   "KKI 2026",
+   "Ekspor UMKM"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026",
+  "category": "Bisnis",
+  "title": "IAPI Soroti Etika Auditor di Era [AI] Lewat CPA Days 2026",
+  "deck": "IAPI dan BINUS University menggelar seminar CPA Days 2026, menyoroti tantangan etika dan professional judgment akuntan publik saat AI masuk ke praktik audit.",
+  "date": "23 Agustus 2026",
+  "image": "assets/img/iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026.jpg",
+  "imageV": "mt6fvy5v",
+  "tags": [
+   "audit",
+   "AI",
+   "IAPI",
+   "akuntan publik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462024-praktik-audit-dan-assurance-masuk-era-ai-iapi-dan-binus-university-sorot-persoalan-etika-dan-professional-judgment"
+ },
+ {
   "slug": "ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026",
   "category": "Global",
   "title": "RI-Uni Eropa Matangkan CEPA, [Teken] Ditarget Oktober 2026",
@@ -56,6 +161,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461998-dorong-ruu-migas-agar-investor-kembali-dongkrak-lifting-minyak-dpr-soroti-birokrasi-yang-berbelit"
+ },
+ {
+  "slug": "pnm-satukan-58-cabang-lewat-grand-final-porseni-2026",
+  "category": "BUMN",
+  "title": "PNM Satukan 58 Cabang lewat Grand Final [PORSENI] 2026",
+  "deck": "PNM menggelar Grand Final PORSENI 2026 di BRILiaN Stadium, mempertemukan insan dari 58 cabang, kantor pusat, dan anak usaha se-Indonesia dalam ajang olahraga dan seni tahunan.",
+  "date": "23 Agustus 2026",
+  "image": "assets/img/pnm-satukan-58-cabang-lewat-grand-final-porseni-2026.jpg",
+  "imageV": "mt6fvyls",
+  "tags": [
+   "PNM",
+   "PORSENI 2026",
+   "BUMN",
+   "UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/461925-pnm-asah-daya-juang-karyawan-melalui-grand-final-porseni-2026"
  },
  {
   "slug": "umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan",
@@ -6518,126 +6640,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459639-dukung-agenda-pemberdayaan-ekonomi-danantara-penyaluran-kur-bri-hingga-akhir-juni-2026-capai-rp10381-triliun"
- },
- {
-  "slug": "lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar",
-  "category": "Aksi Korporasi",
-  "title": "LOPI Teken Kerja Sama [Eksplorasi] Sarana Kereta dengan CRRC Qiqihar",
-  "deck": "LOPI menandatangani nota kerja sama eksplorasi dengan produsen kereta api asal China, CRRC Qiqihar, untuk pengembangan sarana perkeretaapian di Indonesia, termasuk potensi kerja sama dengan KAI.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/lopi-teken-kerja-sama-eksplorasi-sarana-kereta-dengan-crrc-qiqihar.jpg",
-  "imageV": "msu5yt4m",
-  "tags": [
-   "LOPI",
-   "CRRC Qiqihar",
-   "perkeretaapian",
-   "kerja sama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99ac98fee0_0d2be2b5ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas",
-  "category": "Bisnis",
-  "title": "Sinar Mas Land Gandeng Sojitz Garap Klaster Baru di [Deltamas]",
-  "deck": "Sinar Mas Land dan Sojitz Corporation meluncurkan klaster hunian Meliora di Kota Deltamas, Cikarang, dengan 68 unit tahap pertama mulai Rp800 jutaan.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/sinar-mas-land-gandeng-sojitz-garap-klaster-baru-di-deltamas.jpg",
-  "imageV": "tjp3pv",
-  "tags": [
-   "deltamas",
-   "sinar mas land",
-   "sojitz",
-   "properti"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459601-sinar-mas-land-dan-sojitz-hadirkan-meliora-klaster-hunian-modern-terbaru-di-kota-deltamas"
- },
- {
-  "slug": "kemendag-buka-pojok-umkm-di-kantor-gandeng-indomaret",
-  "category": "UMKM",
-  "title": "Kemendag [Buka] Pojok UMKM di Kantor, Gandeng Indomaret",
-  "deck": "Kemendag meresmikan pojok promosi produk UMKM pangan lokal di kantornya sendiri, bekerja sama dengan Indomaret dan Point Coffee untuk memperluas jalur distribusi ke ritel modern.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/kemendag-buka-pojok-umkm-di-kantor-gandeng-indomaret.jpg",
-  "imageV": "tjp3qd",
-  "tags": [
-   "UMKM",
-   "Kemendag",
-   "Indomaret",
-   "PPPB"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/gandeng-ritel-modern-untuk-perluas-akses-pasar-umkm-mendag-busan-resmikan-pojok-product-placement-pilihan-busan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi",
-  "category": "Perbankan",
-  "title": "20 Bank Syariah Temui 51 Korporasi Bahas [Pembiayaan] Ekspansi",
-  "deck": "Bank Indonesia mempertemukan 20 bank syariah dengan 51 korporasi untuk menjajaki pembiayaan ekspansi usaha, seiring pembiayaan syariah tumbuh 11,43 persen pada Juni 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/20-bank-syariah-temui-51-korporasi-bahas-pembiayaan-ekspansi.jpg",
-  "imageV": "mssk87i5",
-  "tags": [
-   "pembiayaan syariah",
-   "Bank Indonesia",
-   "korporasi",
-   "sukuk"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "harga-emas-antam-naik-jadi-rp2-700-000-per-gram",
-  "category": "Makroekonomi",
-  "title": "Harga Emas Antam [Naik] Jadi Rp2.700.000 per Gram",
-  "deck": "Harga emas Antam per 13 Agustus 2026 naik Rp20.000 menjadi Rp2.700.000 per gram, harga buyback ikut naik ke Rp2.546.000.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-naik-jadi-rp2-700-000-per-gram.jpg",
-  "imageV": "tjp3qe",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459576-harga-emas-antam-hari-ini-13-agustus-2026-rp2700000-per-gram"
- },
- {
-  "slug": "pbb-p2-2026-diskon-5-jika-bayar-sebelum-30-september",
-  "category": "Makroekonomi",
-  "title": "PBB-P2 2026 [Diskon] 5% Jika Bayar Sebelum 30 September",
-  "deck": "Pemprov DKI Jakarta memberi potongan otomatis 5 persen untuk PBB-P2 tahun 2026 yang dibayar sebelum jatuh tempo 30 September.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/pbb-p2-2026-diskon-5-jika-bayar-sebelum-30-september.jpg",
-  "imageV": "tjp3qf",
-  "tags": [
-   "PBB-P2",
-   "Pajak Daerah",
-   "DKI Jakarta",
-   "Bapenda"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459518-bayar-sebelum-30-september-pbb-p2-tahun-2026-otomatis-dipotong-5"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-885-ritel-juni-masih-tertekan",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.885, Ritel Juni Masih Tertekan",
-  "deck": "Rupiah melemah ke Rp17.885 per dolar AS usai sentimen laporan MSCI, sementara penjualan ritel Juni masih turun meski mulai melandai.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-885-ritel-juni-masih-tertekan.jpg",
-  "imageV": "tjp3qg",
-  "tags": [
-   "rupiah",
-   "kurs dolar",
-   "penjualan ritel",
-   "utang pemerintah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459567-rupiah-melemah-ke-rp17885-per-dolar-as-usai-laporan-msci-dan-penjualan-ritel-yang-melambat-pada-juni-2026"
  }
 ];

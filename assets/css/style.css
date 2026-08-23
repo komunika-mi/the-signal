@@ -396,6 +396,13 @@ img { max-width: 100%; display: block; }
   .footer-col ul { gap: 0; }
   .footer-col ul a { display: block; padding-block: 14px; }
   .btn-subscribe, .btn-telegram, .btn-bot { min-height: 44px; }
+
+  /* Tombol IKON adalah kasus terkuat untuk ambang ini: tidak ada teks yang
+     bisa dibidik, jadi seluruh sasarannya cuma kotak ikonnya sendiri. Tombol
+     cari dan tiga ikon sosial di footer sama-sama 34x34.
+     min-width ikut, bukan cuma min-height, karena yang sempit di sini kedua
+     arahnya. */
+  .icon-btn, .social-link { min-width: 44px; min-height: 44px; }
 }
 @media (max-width: 420px) {
   .ticker-grid { grid-template-columns: 1fr; }

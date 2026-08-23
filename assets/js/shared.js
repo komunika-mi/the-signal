@@ -225,6 +225,23 @@
   // yang tidak ada lagi dan pendaftaran gagal diam-diam. Ubah keduanya bersamaan.
   TS.BUTTONDOWN = 'the-signal';
 
+  // Ukur ajakan Telegram. Satu listener delegasi untuk semua penempatan,
+  // dipasang di tingkat dokumen supaya tautan yang dirender belakangan
+  // (isi modal) ikut tertangkap tanpa pemasangan ulang.
+  //
+  // Yang dikirim TEMPATNYA (artikel, emiten, modal) dan jenis tujuannya
+  // (bot atau kanal), bukan identitas pembaca. Itu yang perlu diketahui:
+  // dalam dua pekan kita tahu penempatan mana yang bekerja alih-alih
+  // menebak, dan penempatan yang mati bisa dicabut tanpa perdebatan.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[data-tg]');
+    if (!a || typeof gtag !== 'function') return;
+    gtag('event', 'select_content', {
+      content_type: 'telegram',
+      item_id: a.getAttribute('data-tg') + ':' + (/_bot/.test(a.href) ? 'bot' : 'kanal'),
+    });
+  });
+
   TS.initModal = function () {
     var backdrop = document.getElementById('modal-backdrop');
     if (!backdrop) return;
@@ -272,7 +289,14 @@
       '<p class="modal-privasi">Setelah mendaftar, kami kirim satu email berisi tautan ' +
       'konfirmasi. Langganan baru aktif kalau tautan itu kamu klik. Email kamu dikelola ' +
       'lewat Buttondown dan hanya dipakai untuk mengirim Signal Harian. Bisa berhenti ' +
-      'kapan saja lewat tautan di tiap email.</p>';
+      'kapan saja lewat tautan di tiap email.</p>' +
+      // Numpang di permukaan yang MEMANG dibuka pembaca atas kemauan
+      // sendiri. Nol interupsi baru: yang sudah membuka modal ini sedang
+      // mempertimbangkan berlangganan, jadi menawarkan kanal lain di sini
+      // menjawab pembaca yang lebih suka Telegram ketimbang email.
+      '<p class="modal-telegram">Lebih suka Telegram? ' +
+      '<a href="https://t.me/thesignalid" target="_blank" rel="noopener" data-tg="modal">Ikuti kanal siarannya</a>' +
+      ' atau <a href="https://t.me/thesignal_id_bot" target="_blank" rel="noopener" data-tg="modal">tanya bot The Signal</a>.</p>';
 
     // Umpan balik pasca-submit. Form mengirim ke Buttondown di tab lain, jadi
     // tab ini dulu diam saja: modal tetap terbuka, email masih terisi, tombol

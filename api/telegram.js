@@ -458,6 +458,31 @@ export default async function handler(req, res) {
     return selesai();
   }
 
+  // Konteks dari deep link situs: t.me/<bot>?start=emiten_ADHI dikirim
+  // Telegram sebagai "/start emiten_ADHI". Kodenya cuma A-Z 0-9 (disaring
+  // di sisi situs oleh payloadAman() di scripts/telegram-cta.mjs) jadi aman
+  // ditempel ke pesan ber-HTML tanpa lolos escape.
+  //
+  // Payload yang tidak dikenali jatuh ke sambutan umum di bawah, bukan
+  // digagalkan: bentuknya bisa berubah dari sisi situs, dan pesan error
+  // untuk pembaca yang tidak salah apa-apa itu tidak masuk akal.
+  const dariEmiten = teks.match(/^\/start\s+emiten_([A-Za-z0-9]{2,8})$/);
+  if (dariEmiten) {
+    const kode = dariEmiten[1].toUpperCase();
+    await kirim(chatId,
+      '<b>The Signal</b>\n\n' +
+      'Kamu datang dari halaman <b>' + kode + '</b> di situs kami. Tanya apa saja ' +
+      'soal ' + kode + ' dan saya jawab dari arsip The Signal, lengkap dengan ' +
+      'tautan artikelnya.\n\n' +
+      'Misalnya:\n' +
+      '\u2022 <i>Aksi korporasi ' + kode + ' terbaru apa?</i>\n' +
+      '\u2022 <i>Ada tanggal penting ' + kode + ' dalam waktu dekat?</i>\n' +
+      '\u2022 <i>Bagaimana arah penilaian kalian atas ' + kode + '?</i>\n\n' +
+      'Jawaban saya <b>bukan rekomendasi investasi</b>, dan obrolan ini terbaca ' +
+      'oleh redaksi The Signal, jadi jangan kirim data pribadi atau rahasia usaha.');
+    return selesai();
+  }
+
   if (/^\/(start|help|bantuan)/i.test(teks)) {
     await kirim(chatId, SAMBUTAN);
     return selesai();

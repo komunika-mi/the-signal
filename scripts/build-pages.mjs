@@ -7,6 +7,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 import { SITUS as BASE } from './situs.mjs';
 import { PENANDA_IDX } from './assign-images.mjs';
+import { tanyaArtikel, pantauEmiten } from './telegram-cta.mjs';
 import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas, ID_ORGANISASI } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 
@@ -837,6 +838,11 @@ ARTICLES.forEach(function (a) {
       : jenisSumber(a) === 'gov' ? 'Baca siaran pers asli di ' + esc(a.sourceLabel) + ' &rarr;'
       : 'Baca artikel asli di tvOneNews &rarr;'}</a>` +
     `<a class="koreksi-link" href="/kontak.html#koreksi">Menemukan kekeliruan? Beri tahu redaksi &rarr;</a></div>` +
+    // Urutannya disengaja: kotak sumber, lalu ajakan bot yang ringan dan
+    // terikat isi artikel, baru kartu Signal+ yang merupakan permintaan
+    // paling besar. Membaca alurnya: ini sumbernya, ada pertanyaan? lalu
+    // mau ini tiap hari?
+    tanyaArtikel(a, esc) +
     `<div class="artikel-cta"><div class="artikel-cta-copy"><b>Mau tahu arahnya, bukan cuma beritanya?</b>` +
     `<span>Tiap malam hari kerja, satu tulisan yang menjawab ke mana ekonomi bergerak hari itu dan apa yang akan menentukan arahnya. Plus angka pembanding yang tidak ada di situs. Gratis.</span></div>` +
     `<button class="btn-modal-submit" type="button" data-open-subscribe>Daftar Signal Harian</button></div>` +
@@ -1123,6 +1129,7 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
     `<p class="harian-tanggal num">${arts.length} laporan keterbukaan &middot; terakhir ${esc(arts[0].date)}</p>` +
     (rekap ? `<p class="emiten-rekap">Riwayat penilaian: ${rekap}</p>` : '') +
     `</div>` +
+    pantauEmiten(kode, esc) +
     `<div class="linimasa">${arts.map(a => itemLinimasa(a)).join('')}</div>` +
     DISCLAIMER_SINYAL +
     `</section>`;

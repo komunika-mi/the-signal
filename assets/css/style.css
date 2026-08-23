@@ -1065,3 +1065,29 @@ a.article-tag:hover { border-color: var(--ink-soft); color: var(--ink); }
 @media (max-width: 560px) {
   .arsip-nav { flex-direction: column; align-items: flex-start; gap: .5rem; }
 }
+
+/* Ajakan Telegram kontekstual: akhir artikel dan halaman emiten.
+   Sengaja SATU BARIS, bukan kartu. Di akhir artikel sudah ada .artikel-cta
+   yang berbentuk kartu gelap, dan dua kartu berturut-turut membuat keduanya
+   terbaca sebagai iklan lalu sama-sama dilewati. */
+.artikel-tanya, .emiten-pantau {
+  display: flex; align-items: center; gap: .9rem; flex-wrap: wrap;
+  margin-top: 1.4rem; padding: .95rem 1.15rem;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+  font-family: var(--sans);
+}
+.artikel-tanya span, .emiten-pantau span {
+  flex: 1 1 250px; font-size: 13px; line-height: 1.55; color: var(--ink-soft);
+}
+.artikel-tanya b, .emiten-pantau b { color: var(--ink); }
+.artikel-tanya .btn-bot, .emiten-pantau .btn-bot, .emiten-pantau .btn-telegram { margin-top: 0; }
+.emiten-pantau { margin-top: 0; margin-bottom: 1.6rem; }
+.emiten-pantau-aksi { display: flex; gap: .5rem; flex-wrap: wrap; }
+
+/* Baris Telegram di dalam modal Signal+. Ukurannya sengaja sekecil
+   .modal-privasi: ini alternatif, bukan saingan formulir di atasnya. */
+.modal-telegram {
+  margin-top: .7rem; font-family: var(--sans); font-size: 12px;
+  color: var(--ink-soft); line-height: 1.5;
+}
+.modal-telegram a { font-weight: 700; border-bottom: 1px solid currentColor; }

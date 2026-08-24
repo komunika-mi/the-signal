@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "V8tXxrsFCtc",
+  "title": "Peluncuran Danantara Sumber Daya Indonesia",
+  "category": "BUMN",
+  "program": "Kabar Utama",
+  "summary": "BPI Danantara resmi mengonfirmasi berdirinya PT Danantara Sumberdaya Indonesia (DSI) yang dibentuk melalui akta perusahaan sejak 1 Juni 2026, seperti disampaikan CEO BPI Danantara Rosan Roeslani.",
+  "takeaway": "Perkembangan ini penting bagi pembaca ekonomi karena menyangkut struktur baru pengelolaan aset dan investasi negara melalui BPI Danantara.",
+  "terbit": "2026-08-24T14:18:35+00:00"
+ },
+ {
   "id": "sZlTPmyTGcQ",
   "title": "Pemerintah Dukung Sertifikasi Pekerja Industri Kecantikan",
   "category": "Ketenagakerjaan",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
   "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah.",
   "terbit": "2026-08-16T19:35:13+07:00"
- },
- {
-  "id": "9KfKSXn_gWU",
-  "title": "Target Optimalisasi Energi Surya dan Elektrifikasi Mobilitas",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan.",
-  "terbit": "2026-08-16T16:12:57+07:00"
  }
 ];

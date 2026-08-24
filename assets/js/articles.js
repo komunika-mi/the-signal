@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "danantara-rilis-direksi-dsi-bos-freeport-jadi-komisaris",
+  "category": "BUMN",
+  "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
+  "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
+  "image": "assets/img/pesawat-bandara.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T21:06:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",
+  "tags": [
+   "Danantara",
+   "PT DSI",
+   "ekspor SDA",
+   "Freeport Indonesia"
+  ],
+  "body": [
+   "Badan Pengelola Investasi Danantara resmi meluncurkan PT Danantara Sumber Daya Indonesia (DSI), entitas baru yang akan mengawasi tata kelola ekspor sumber daya alam strategis nasional. Bersamaan dengan peluncuran itu, Danantara juga mengumumkan susunan direksi dan komisaris DSI, salah satunya CEO PT Freeport Indonesia Tony Wenas. Langkah ini penting karena menyangkut tiga komoditas ekspor andalan Indonesia, yaitu batu bara, kelapa sawit, dan ferro alloy atau logam campuran bahan baku industri baja.",
+   "Peluncuran berlangsung di Wisma Danantara, Jakarta, Senin, 24 Agustus 2026. Direktur Utama DSI, Luke Thomas Mahony, menegaskan bahwa pada tahap awal perusahaan ini hanya akan fokus mengawasi tata kelola ekspor sampai akhir tahun 2026, tanpa mengganggu kontrak dagang yang sudah berjalan di ketiga komoditas tersebut. Ia juga memastikan DSI tidak akan menambah proses birokrasi baru maupun meminta pengumpulan data ulang, melainkan memanfaatkan data yang sudah ada di sistem Bea Cukai dan kementerian terkait.",
+   "Di jajaran komisaris, DSI dipimpin M. Syaifurrahman Noer atau Cipung Noer sebagai Presiden Komisaris, yang juga menjabat Presiden Komisaris PT Indonesia Defense Security and Technology. Ia didampingi Tony Wenas, CEO PT Freeport Indonesia, dan Mari Elka Pangestu, mantan petinggi Bank Dunia. Sementara di jajaran direksi, selain Luke Thomas Mahony sebagai Direktur Utama, DSI juga menunjuk Ivan Ferdiansyah Baely sebagai Direktur Legal dan Kepatuhan."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with coal at an Indonesian port, cranes and stockpiles under overcast sky, workers in the distance",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah munculnya satu entitas baru di bawah Danantara yang khusus mengawasi ekspor tiga komoditas besar, batu bara, sawit, dan ferro alloy, tapi dengan lingkup yang sengaja dibatasi hanya sampai akhir 2026 dan tanpa menambah proses birokrasi baru. Yang terdampak langsung adalah pelaku usaha ekspor di tiga komoditas itu, karena aktivitas dagang mereka kini turut dipantau lembaga baru ini, sementara secara kelembagaan DSI juga menyatukan figur dari sektor tambang, pertahanan, dan lembaga keuangan internasional lewat komposisi komisarisnya. Pembatasan waktu dan janji tidak menambah birokrasi menunjukkan ini tampak sebagai tahap awal yang terukur, bukan pengambilalihan kewenangan ekspor secara penuh. Yang akan menentukan apakah pembacaan ini benar adalah apa yang terjadi setelah tenggat akhir 2026, yakni apakah peran DSI berhenti di pengawasan atau diperluas menjadi kewenangan yang lebih besar atas ekspor SDA strategis.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
   "category": "Aksi Korporasi",
   "title": "MKNT Koreksi RUPSLB, [Ekspansi] ke Bisnis Baja dan Tambak Udang",

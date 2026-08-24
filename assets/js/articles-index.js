@@ -5,6 +5,21 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "danantara-rilis-direksi-dsi-bos-freeport-jadi-komisaris",
+  "category": "BUMN",
+  "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
+  "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/pesawat-bandara.jpg",
+  "tags": [
+   "Danantara",
+   "PT DSI",
+   "ekspor SDA",
+   "Freeport Indonesia"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia"
+ },
+ {
   "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
   "category": "Aksi Korporasi",
   "title": "MKNT Koreksi RUPSLB, [Ekspansi] ke Bisnis Baja dan Tambak Udang",
@@ -6567,23 +6582,6 @@ var ARTICLES = [
    "jatuh tempo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aba0384dc8_f6e1e96106.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-umumkan-harga-final-18-seri-waran-terstruktur-baru",
-  "category": "Aksi Korporasi",
-  "title": "DR Umumkan Harga Final 18 Seri [Waran Terstruktur] Baru",
-  "deck": "RHB Sekuritas (DR) merilis term sheet berisi harga penawaran dan pelaksanaan 18 seri call warrant baru atas saham AMMN, BBCA, BBRI, dan 15 lainnya, dicatatkan 19 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/dr-umumkan-harga-final-18-seri-waran-terstruktur-baru.jpg",
-  "imageV": "mssqeos8",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "AMMN",
-   "BBCA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/731ac75733_6d9a15635d.pdf",
   "sourceLabel": "IDX"
  }
 ];

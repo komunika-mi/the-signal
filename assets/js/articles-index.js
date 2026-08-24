@@ -53,6 +53,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pendapatan-finpay-danantara-melesat-41-3-persen",
+  "category": "BUMN",
+  "title": "Pendapatan Finpay Danantara [Melesat] 41,3 Persen",
+  "deck": "PT Finnet Indonesia (Finpay) mencatat pendapatan eksternal Rp914,5 miliar pada semester I 2026, naik 41,3 persen dibanding tahun sebelumnya di tengah sinergi dengan Danantara Indonesia.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/pendapatan-finpay-danantara-melesat-41-3-persen.jpg",
+  "imageV": "mt7vg0zr",
+  "tags": [
+   "Finpay",
+   "Danantara Indonesia",
+   "BUMN",
+   "Fintech"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462247-pertumbuhan-melesat-finpay-komitmen-akselerasi-bersama-danantara-indonesia"
+ },
+ {
   "slug": "beef-klarifikasi-lonjakan-saham-bantah-rumor-akuisisi-korea",
   "category": "Aksi Korporasi",
   "title": "BEEF Klarifikasi Lonjakan Saham, Bantah Rumor [Akuisisi] Korea",
@@ -74,7 +91,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6558,23 +6575,6 @@ var ARTICLES = [
    "pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3dc321d614_aaa48f9f25.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikbi-public-expose-laba-naik-44-penjualan-turun-12",
-  "category": "Aksi Korporasi",
-  "title": "IKBI Public Expose: [Laba] Naik 44%, Penjualan Turun 12%",
-  "deck": "Materi Public Expose IKBI: laba bersih FY2025 naik 44% jadi US$8,27 juta meski penjualan turun 12%, utang turun tajam, target penjualan FY2026 US$266 juta.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ikbi-public-expose-laba-naik-44-penjualan-turun-12.jpg",
-  "imageV": "msu1gnvn",
-  "tags": [
-   "IKBI",
-   "Sumi Indo Kabel",
-   "Public Expose",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dcea83d5a_a098f75c2d.pdf",
   "sourceLabel": "IDX"
  }
 ];

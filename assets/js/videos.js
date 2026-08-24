@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Z66PZJknxSA",
+  "title": "Ratusan Karyawan Perusahaan Tambang di Konawe Selatan Kena PHK",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
+  "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah.",
+  "terbit": "2026-08-24T15:45:31+00:00"
+ },
+ {
   "id": "V8tXxrsFCtc",
   "title": "Peluncuran Danantara Sumber Daya Indonesia",
   "category": "BUMN",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pesta Rakyat HUT ke-81 RI di kawasan Monas hingga Bundaran HI melibatkan lebih dari 1.700 UMKM yang memasarkan produknya kepada masyarakat.",
   "takeaway": "Skala keterlibatan UMKM dalam acara nasional ini menggambarkan peluang perluasan pasar bagi pelaku usaha kecil.",
   "terbit": "2026-08-17T23:21:05+07:00"
- },
- {
-  "id": "71oMi3aMkTQ",
-  "title": "Bank Jateng Gelar Gebyar Fest 81 Libatkan UMKM Perkuat Ekonomi Daerah",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
-  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah.",
-  "terbit": "2026-08-16T19:35:13+07:00"
  }
 ];

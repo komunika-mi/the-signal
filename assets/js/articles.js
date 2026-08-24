@@ -83,6 +83,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pendapatan-finpay-danantara-melesat-41-3-persen",
+  "category": "BUMN",
+  "title": "Pendapatan Finpay Danantara [Melesat] 41,3 Persen",
+  "deck": "PT Finnet Indonesia (Finpay) mencatat pendapatan eksternal Rp914,5 miliar pada semester I 2026, naik 41,3 persen dibanding tahun sebelumnya di tengah sinergi dengan Danantara Indonesia.",
+  "image": "assets/img/pendapatan-finpay-danantara-melesat-41-3-persen.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T22:43:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462247-pertumbuhan-melesat-finpay-komitmen-akselerasi-bersama-danantara-indonesia",
+  "tags": [
+   "Finpay",
+   "Danantara Indonesia",
+   "BUMN",
+   "Fintech"
+  ],
+  "body": [
+   "PT Finnet Indonesia, atau Finpay, mencatat pendapatan dari luar grup usaha senilai Rp914,5 miliar pada semester pertama 2026, tumbuh 41,3 persen dibandingkan periode yang sama tahun lalu. Kenaikan ini relevan karena Finpay merupakan salah satu anak usaha BUMN di sektor keuangan digital yang kini masuk dalam ekosistem Danantara Indonesia, lembaga pengelola investasi negara yang menaungi sejumlah BUMN.",
+   "Pada semester pertama 2025, pendapatan eksternal Finpay tercatat Rp647,1 miliar, sehingga kenaikan tahun ini setara tambahan sekitar Rp267,4 miliar dalam setahun. Plt Direktur Utama Finpay, Aziz Sidqi, menyebut lonjakan itu didorong oleh sejumlah langkah strategis perusahaan, meski tidak merinci program konkret apa saja yang dijalankan untuk mencapainya.",
+   "Aziz menyatakan Finpay akan terus memperkuat fondasi bisnis dan menghadirkan layanan finansial digital yang sesuai kebutuhan pasar, sembari memperkuat kontribusinya dalam mendukung sinergi ekosistem BUMN bersama Danantara Indonesia. Ia juga menegaskan seluruh ekspansi bisnis perusahaan tetap mengacu pada prinsip tata kelola perusahaan yang baik dan kepatuhan terhadap regulasi yang berlaku."
+  ],
+  "fotoAdegan": "Technician checking server racks in a digital payment data center, blinking status lights, neatly organized cables, dim blue lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/24/6a8c66150c070-gedung-telkom-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka pertumbuhan 41,3 persen dengan pendapatan eksternal naik dari Rp647,1 miliar menjadi Rp914,5 miliar adalah bukti konkret yang jarang dibuka terbuka oleh anak usaha BUMN sekelas Finpay, dan ini yang membedakan pengumuman ini dari sekadar seremoni. Yang terdampak langsung adalah Finpay sendiri sebagai bagian dari portofolio keuangan digital yang kini diawasi Danantara Indonesia. Tapi pernyataan perusahaan tidak merinci langkah strategis apa saja yang mendorong lonjakan itu, atau bagaimana capaian ini dinilai dalam kerangka sinergi BUMN yang didorong Danantara, sehingga belum bisa disimpulkan apakah ini pola di seluruh anak usaha keuangan digital BUMN atau sekadar capaian satu perusahaan. Yang perlu dipantau adalah apakah Danantara merilis data kinerja gabungan anak usaha sektor keuangan digitalnya pada laporan berikutnya, yang baru akan menunjukkan apakah pertumbuhan semacam ini memang tren menyeluruh.",
+  "imageV": "mt7vg0zr"
+ },
+ {
   "slug": "beef-klarifikasi-lonjakan-saham-bantah-rumor-akuisisi-korea",
   "category": "Aksi Korporasi",
   "title": "BEEF Klarifikasi Lonjakan Saham, Bantah Rumor [Akuisisi] Korea",
@@ -114,7 +140,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

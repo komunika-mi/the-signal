@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Suspensi] Saham Dicabut BEI Usai 4 Bulan",
+  "deck": "Bursa mencabut penghentian sementara perdagangan saham BIKE mulai 24 Agustus 2026, setelah suspensi sejak akhir April terkait perubahan pengendalian perusahaan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4c1076b851_5b24bb5e5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-600-saham-rp309-ribu",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 600 Saham Rp309 Ribu",
+  "deck": "Komisaris AKPI, Henry Liem, melepas 600 saham senilai Rp309.000 pada 21 Agustus 2026, transaksi terkecil dalam rangkaian penjualan sahamnya pekan ini.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "komisaris",
+   "transaksi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2341-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apli-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "APLI Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia, manajemen Asiaplast Industries (APLI) menyatakan tidak mengetahui informasi material di balik pergerakan transaksi sahamnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APLI",
+   "Asiaplast Industries",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/373e78a71b_59dc0d7a68.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-wna-borong-5-62-juta-saham-itsec-asia",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi WNA [borong] 5,62 juta saham ITSEC Asia",
+  "deck": "Direksi ITSEC Asia menambah kepemilikan saham 6,83 persen lewat lima transaksi pembelian tidak langsung pada 21 Agustus 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-3406-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btel-profesional-telekomunikasi-indonesia-kuasai-10-86-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTEL: Profesional Telekomunikasi Indonesia Kuasai [10,86%] Saham",
+  "deck": "PT Profesional Telekomunikasi Indonesia mengantongi 4,85 miliar saham baru BTEL, setara 10,86% hak suara, hasil konversi Obligasi Wajib Konversi pada harga Rp200 per saham.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTEL",
+   "Bakrie Telecom",
+   "konversi obligasi",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2726-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "excl-fitch-pertahankan-rating-aa-ruang-gerak-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "EXCL: Fitch pertahankan rating [AA+], ruang gerak menyempit",
+  "deck": "Fitch Ratings mengafirmasi peringkat EXCL di AA+(idn) outlook stabil, tapi menyebut ruang kenaikan leverage sudah nyaris habis akibat konsolidasi dengan Smartfren.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EXCL",
+   "Fitch Ratings",
+   "peringkat obligasi",
+   "XLSMART"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/414ca42131_c221dd0b2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
   "category": "Aksi Korporasi",
   "title": "HATM: Pemegang Saham Setujui [PMTHMETD] 868 Juta Saham",
@@ -66,6 +162,22 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4295-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asdf-fitch-afirmasi-peringkat-aaa-untuk-tujuh-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "ASDF: Fitch Afirmasi Peringkat [AAA] untuk Tujuh Obligasi",
+  "deck": "Fitch Ratings Indonesia mempertahankan peringkat AAA(idn) stabil untuk PT Astra Sedaya Finance dan tujuh seri obligasinya senilai total sekitar Rp4,78 triliun.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDF",
+   "peringkat kredit",
+   "obligasi",
+   "Fitch Ratings"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/67e3d4bb17_5e9a6a8ee7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6506,128 +6618,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-apresiasi-platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pertamina-terima-539-peserta-magang-2026",
-  "category": "Ketenagakerjaan",
-  "title": "Pertamina [Terima] 539 Peserta Magang 2026",
-  "deck": "Dari 94.176 pendaftar, Pertamina meluluskan 539 peserta magang 2026 untuk program setahun, jumlah pendaftar melonjak tiga kali lipat dari tahun lalu.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/pertamina-terima-539-peserta-magang-2026.jpg",
-  "imageV": "msrm3lh4",
-  "tags": [
-   "Pertamina",
-   "magang",
-   "ketenagakerjaan",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459735-pertamina-terima-539-peserta-internship-2026-berikan-pengalaman-kerja-bagi-talenta-muda"
- },
- {
-  "slug": "euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "EURO Rencanakan [Rights Issue] hingga 2 Miliar Saham Baru",
-  "deck": "PT Estee Gold Feet Tbk (EURO) berencana menerbitkan hingga 2 miliar saham baru lewat skema HMETD untuk modal kerja dan penambahan kapasitas usaha. RUPSLB digelar 18 September 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/euro-rencanakan-rights-issue-hingga-2-miliar-saham-baru.jpg",
-  "imageV": "msslxr14",
-  "tags": [
-   "EURO",
-   "rights issue",
-   "HMETD",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09a7a76446_7fc0601490.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnbp-esdm-lampaui-target-2025-raih-opini-wtp",
-  "category": "Energi",
-  "title": "PNBP ESDM [Lampaui] Target 2025, Raih Opini WTP",
-  "deck": "PNBP Kementerian ESDM sepanjang 2025 mencapai Rp138,40 triliun, 108,56 persen dari target, sekaligus kembali meraih opini WTP dari BPK.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/pnbp-esdm-lampaui-target-2025-raih-opini-wtp.jpg",
-  "imageV": "msrgl9i4",
-  "tags": [
-   "PNBP",
-   "Kementerian ESDM",
-   "Opini WTP",
-   "BPK"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pnbp-lampaui-target-kementerian-esdm-kembali-peroleh-opini-wtp",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar",
-  "category": "Energi",
-  "title": "Lelang Batu Bara Sitaan ESDM Hasilkan [Rp21] Miliar",
-  "deck": "Lelang batu bara hasil penegakan hukum di Kalimantan Timur menambah penerimaan negara Rp20,98 miliar, dengan pemenang lelang wajib mengangkut seluruh batu bara sebelum 10 September 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/lelang-batu-bara-sitaan-esdm-hasilkan-rp21-miliar.jpg",
-  "imageV": "msrglcen",
-  "tags": [
-   "ESDM",
-   "batu bara",
-   "PNBP",
-   "Kalimantan Timur"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-penegakan-hukum-esdm-tambah-pnbp-lebih-dari-rp20-miliar-dari-lelang-batubara",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton",
-  "category": "Energi",
-  "title": "ESDM: HBA Agustus [Turun] 5,62% jadi US$124,44/Ton",
-  "deck": "HBA periode pertama Agustus 2026 turun 5,62 persen dari periode sebelumnya menjadi US$124,44 per ton, tapi masih 21 persen lebih tinggi dari tahun lalu.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/esdm-hba-agustus-turun-5-62-jadi-usd124-44-ton.jpg",
-  "imageV": "msrglei8",
-  "tags": [
-   "batubara",
-   "HBA",
-   "ESDM",
-   "royalti"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-tetapkan-hba-periode-pertama-agustus-2026-usd-12444-per-ton-turun-562-persen",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih",
-  "category": "Energi",
-  "title": "ICP Juli [Turun] ke US$81,68 per Barel, Pasokan Global Pulih",
-  "deck": "Pemerintah menetapkan ICP Juli 2026 di US$81,68 per barel, turun US$1,77 dari bulan sebelumnya, seiring redanya tensi Timur Tengah dan pulihnya pasokan minyak dunia.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/icp-juli-turun-ke-us-81-68-per-barel-pasokan-global-pulih.jpg",
-  "imageV": "msrglgj4",
-  "tags": [
-   "ICP",
-   "harga minyak",
-   "ESDM",
-   "Selat Hormuz"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pasokan-global-pulih-icp-juli-2026-turun-jadi-us-8168-per-barel",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "wifi-lepas-seluruh-saham-di-anak-usaha-jdu",
-  "category": "Aksi Korporasi",
-  "title": "WIFI [Lepas] Seluruh Saham di Anak Usaha JDU",
-  "deck": "WIFI melepas seluruh 350 saham miliknya di anak usaha PT Jejaring Digital Utama kepada PT Investasi Berjaya Sejahtera, tanpa nilai transaksi yang diumumkan.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/wifi-lepas-seluruh-saham-di-anak-usaha-jdu.jpg",
-  "imageV": "msslyfax",
-  "tags": [
-   "WIFI",
-   "divestasi",
-   "anak usaha",
-   "JDU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f10c94e5d0_ebb8230cbc.pdf",
-  "sourceLabel": "IDX"
  }
 ];

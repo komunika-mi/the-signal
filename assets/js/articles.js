@@ -3,6 +3,160 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
+  "category": "Aksi Korporasi",
+  "title": "BIKE [Suspensi] Saham Dicabut BEI Usai 4 Bulan",
+  "deck": "Bursa mencabut penghentian sementara perdagangan saham BIKE mulai 24 Agustus 2026, setelah suspensi sejak akhir April terkait perubahan pengendalian perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T12:16:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4c1076b851_5b24bb5e5a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "suspensi saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia resmi membuka kembali perdagangan saham PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) di seluruh pasar mulai sesi pre-opening, Senin, 24 Agustus 2026. Pengumuman bernomor Peng-UPT-00007/BEI.PP3/08-2026 yang ditandatangani Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, dan Kepala Divisi Pengaturan dan Operasional Perdagangan, Pande Made Kusuma Ari A., menyebut alasan pencabutan adalah keterbukaan informasi dari perusahaan yang sudah dinilai memadai.",
+   "Saham BIKE sebelumnya dihentikan sementara sejak 30 April 2026 melalui pengumuman suspensi nomor Peng-SPT-00010/BEI.PP3/04-2026. Suspensi itu berpangkal dari surat BIKE tertanggal 16 April 2026 perihal informasi atau fakta material tentang perubahan kepemilikan saham yang mengakibatkan perubahan pengendalian langsung atas perusahaan. Bursa lalu meminta penjelasan tambahan, dan BIKE baru menjawabnya melalui surat bernomor 2026/244R2/26/SBI EK tanggal 19 Agustus 2026, sekitar empat bulan setelah suspensi berjalan.",
+   "BIKE, yang tercatat di Papan Pengembangan, sempat menjadi sorotan pekan lalu ketika menjelaskan ke bursa soal akuisisi enam anak usaha terafiliasi yang seluruhnya dibiayai dari utang PT Penajam Makmur Jaya, pihak yang berkaitan dengan perubahan pengendalian yang sama. Dalam pengumuman pencabutan suspensi ini, bursa kembali mengingatkan seluruh pihak berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan perusahaan ke depan."
+  ],
+  "fotoAdegan": "Workers assembling battery packs for electric bicycles on an Indonesian factory assembly line under industrial lighting",
+  "takeaway": "Pencabutan suspensi ini netral bagi fundamental BIKE, sebab dokumennya hanya menyatakan bursa menganggap keterbukaan informasi soal perubahan pengendalian sudah cukup lengkap, bukan penilaian atas untung ruginya transaksi yang mendasarinya. Yang perlu diperhatikan justru pos di baliknya, yaitu struktur utang perusahaan, karena riwayat pemberitaan kami sebelumnya menyebut akuisisi enam anak usaha BIKE dibiayai penuh dari pinjaman pihak afiliasi, dan beban bunga dari utang semacam itu bisa menggerus laba bersih jika tidak diimbangi pendapatan baru dari anak usaha yang diakuisisi. Investor juga perlu tahu bahwa suspensi berlangsung hampir empat bulan, dari 30 April sampai 24 Agustus 2026, jeda yang cukup panjang bagi pemegang saham yang selama itu tidak bisa memperjualbelikan sahamnya sama sekali. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari BIKE soal detail dan syarat pinjaman dari PT Penajam Makmur Jaya, karena bursa sendiri secara eksplisit meminta publik terus mencermati pengumuman-pengumuman perusahaan setelah suspensi ini dicabut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-600-saham-rp309-ribu",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 600 Saham Rp309 Ribu",
+  "deck": "Komisaris AKPI, Henry Liem, melepas 600 saham senilai Rp309.000 pada 21 Agustus 2026, transaksi terkecil dalam rangkaian penjualan sahamnya pekan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T11:26:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2341-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "komisaris",
+   "transaksi saham"
+  ],
+  "body": [
+   "Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan penjualan 600 saham perusahaan pada 21 Agustus 2026 dengan harga Rp515 per saham, sehingga nilai transaksinya sekitar Rp309.000. Saham yang dijual berstatus kepemilikan tidak langsung, artinya dimiliki melalui pihak lain, bukan atas nama Henry Liem sendiri. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan pada 24 Agustus 2026, jumlah sahamnya di AKPI berkurang dari 10.740.059 lembar menjadi 10.739.459 lembar, dengan hak suaranya turun tipis dari 1,7542 persen menjadi 1,7541 persen. Tujuan transaksi yang tercantum dalam dokumen hanya disebut jual saham, tanpa keterangan tambahan lain.",
+   "Penjualan ini melanjutkan rangkaian transaksi Henry Liem dalam sepekan terakhir. Pada 18 Agustus 2026 ia melaporkan penjualan 200.000 saham senilai sekitar Rp102 juta, lalu pada 20 Agustus 2026 menyusul penjualan 492.800 saham senilai sekitar Rp250 juta. Dengan tambahan 600 saham yang dilaporkan kali ini, total saham yang dilepas Henry Liem dalam periode tersebut mencapai 693.400 lembar."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of clear plastic packaging film on an industrial extrusion line inside a factory, daytime",
+  "takeaway": "Netral bagi AKPI, karena 600 saham yang dilepas Henry Liem cuma setara 0,0056 persen dari kepemilikannya sendiri, jumlah yang terlalu kecil untuk dibaca sebagai sikap terhadap prospek perusahaan. Yang tersentuh hanya hak suaranya, turun tipis dari 1,7542 persen menjadi 1,7541 persen, sementara jumlah saham beredar dan struktur permodalan AKPI sama sekali tidak berubah karena ini transaksi antar pemegang saham, bukan penerbitan saham baru. Pasar biasanya memperhatikan transaksi orang dalam seperti komisaris atau direksi karena dianggap mencerminkan pandangan mereka atas kondisi perusahaan, tapi transaksi seremeh ini praktis tidak memberi sinyal apa pun. Yang perlu dipantau adalah apakah Henry Liem melanjutkan pola pelepasan bertahap ini, mengingat dalam waktu kurang dari sepekan ia sudah melaporkan tiga transaksi penjualan terpisah senilai 200.000, 492.800, dan 600 saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apli-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "APLI Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan Bursa Efek Indonesia, manajemen Asiaplast Industries (APLI) menyatakan tidak mengetahui informasi material di balik pergerakan transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T11:17:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/373e78a71b_59dc0d7a68.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APLI",
+  "tags": [
+   "APLI",
+   "Asiaplast Industries",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Asiaplast Industries Tbk (APLI) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-10877/BEI.PP3/08-2026 tertanggal 20 Agustus 2026 terkait volatilitas transaksi efek perusahaan. Jawaban perusahaan disampaikan melalui surat nomor 123/APLI/VIII/2026 tertanggal 24 Agustus 2026, ditandatangani oleh Hendri Yanti Panca D.H selaku Corporate Secretary.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek perusahaan, baik sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi Atau Fakta Material maupun Peraturan Nomor I-E BEI Kep-00087/BEI/12-2025. Perusahaan juga menegaskan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik.",
+   "Soal rencana ke depan, Asiaplast menyatakan tidak memiliki rencana tindakan korporasi dalam waktu dekat yang berdampak pada pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Corporate Secretary juga mengonfirmasi bahwa pihaknya sudah menanyakan langsung kepada pemegang saham utama, dan pemegang saham utama menyatakan tidak memiliki rencana terkait kepemilikan sahamnya di perusahaan dalam waktu dekat."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of flexible plastic film moving through an industrial production line, factory floor, indoor lighting",
+  "takeaway": "Penjelasan ini netral bagi fundamental Asiaplast karena isinya konfirmasi rutin, bukan sinyal baru: perusahaan tidak mengungkap rencana aksi korporasi, transaksi pemegang saham, maupun informasi lain yang mengubah kondisi keuangannya. Dokumen ini muncul karena status Unusual Market Activity, yakni penanda resmi bursa ketika harga atau volume perdagangan suatu saham bergerak jauh dari pola normalnya sehingga emiten wajib menjelaskan pemicunya kepada publik. Karena APLI menegaskan tidak ada pemicu fundamental yang diketahui, pergerakan harga sahamnya belakangan ini kemungkinan lebih didorong aktivitas jual beli di pasar ketimbang perubahan kinerja atau rencana bisnis perusahaan. Yang perlu dipantau berikutnya adalah apakah pola transaksi sahamnya mereda dalam beberapa hari ke depan, mengingat perusahaan sudah memastikan tidak ada rencana aksi korporasi yang berdampak pada pencatatan sahamnya setidaknya hingga akhir November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-direksi-wna-borong-5-62-juta-saham-itsec-asia",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi WNA [borong] 5,62 juta saham ITSEC Asia",
+  "deck": "Direksi ITSEC Asia menambah kepemilikan saham 6,83 persen lewat lima transaksi pembelian tidak langsung pada 21 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T11:16:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-3406-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Patrick Rudolf Dannacher, direksi berkewarganegaraan asing di PT ITSEC Asia Tbk (CYBR), melaporkan penambahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 24 Agustus 2026. Jumlah sahamnya bertambah dari 82.274.900 lembar menjadi 87.897.500 lembar, atau naik 5.622.600 lembar, setara peningkatan 6,83 persen dari kepemilikannya sebelumnya. Hak suaranya di perusahaan naik tipis dari 0,64 persen menjadi 0,652 persen, dan ia menyatakan tetap berstatus sebagai pengendali serta akan mempertahankan status itu.",
+   "Dokumen mencantumkan lima transaksi pembelian tidak langsung yang seluruhnya tercatat pada 21 Agustus 2026 dengan tujuan investasi: 795.300 saham biasa seharga Rp555 per saham, 325.500 saham seharga Rp550, 300.000 saham seharga Rp570, 100.300 saham seharga Rp565, dan 101.500 saham seharga Rp560. Rentang harga pembelian berada di kisaran Rp550 hingga Rp570 per saham.",
+   "Laporan ini melanjutkan pola serupa yang sudah diberitakan sebelumnya, yakni akumulasi saham oleh direksi ITSEC Asia secara berturut-turut sejak pertengahan Agustus 2026."
+  ],
+  "fotoAdegan": "IT security professionals working at multiple computer monitors in a dim modern office, distant blurred screens, city lights outside",
+  "takeaway": "Penilaian saya positif, karena laporan ini melanjutkan pola pembelian saham yang dilakukan direksi WNA itu secara konsisten sejak pertengahan Agustus 2026, menandakan keyakinan pribadinya terhadap prospek ITSEC Asia meski dibiayai dari kantong sendiri, bukan program insentif perusahaan. Yang tersentuh di sini adalah jumlah saham dan hak suara yang digenggam sang direksi, dari 0,64 persen menjadi 0,652 persen suara di perusahaan, bukan pos keuangan seperti ekuitas atau laba, sehingga dampaknya ke kondisi keuangan ITSEC Asia sendiri masih sangat kecil. Pelaku pasar biasanya memperhatikan pembelian saham oleh direksi semacam ini karena dianggap sinyal bahwa orang dalam menilai harga saat ini menarik atau prospek perusahaan cukup baik untuk ditambah kepemilikannya. Yang perlu dipantau selanjutnya adalah apakah tren akumulasi oleh direksi ini terus berlanjut pada hari-hari perdagangan berikutnya, mengingat pembeliannya sudah tercatat berturut-turut sejak sekitar 21 Agustus 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "btel-profesional-telekomunikasi-indonesia-kuasai-10-86-saham",
+  "category": "Aksi Korporasi",
+  "title": "BTEL: Profesional Telekomunikasi Indonesia Kuasai [10,86%] Saham",
+  "deck": "PT Profesional Telekomunikasi Indonesia mengantongi 4,85 miliar saham baru BTEL, setara 10,86% hak suara, hasil konversi Obligasi Wajib Konversi pada harga Rp200 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:51:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2726-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTEL",
+  "tags": [
+   "BTEL",
+   "Bakrie Telecom",
+   "konversi obligasi",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia melaporkan kepemilikan saham baru di PT Bakrie Telecom Tbk (BTEL) kepada Otoritas Jasa Keuangan pada 24 Agustus 2026. Sebelumnya pihak ini tidak memegang satu pun saham BTEL, tapi kini tercatat memiliki 4.846.785.385 lembar saham biasa, setara 10,86 persen hak suara perusahaan. Dalam laporan resminya, pihak pelapor menyatakan bukan bagian dari jajaran direksi maupun dewan komisaris BTEL.",
+   "Perubahan kepemilikan ini berasal dari konversi Obligasi Wajib Konversi pada 20 Agustus 2026, dengan harga konversi Rp200 per saham. Tujuan transaksi yang tercantum dalam dokumen adalah penerimaan hasil konversi kepemilikan obligasi tersebut menjadi saham. Saham baru ini tercatat sebagai kepemilikan tidak langsung, dengan jenis transaksi yang ditulis dalam laporan sebagai repurchase agreement."
+  ],
+  "fotoAdegan": "Wide shot of telecommunication towers rising above a suburban Jakarta neighborhood at dusk, cables and antennas visible",
+  "takeaway": "Laporan ini condong netral bagi BTEL: masuknya pemegang saham baru lewat konversi obligasi mengurangi beban utang yang selama ini menekan neraca perusahaan, tapi di sisi lain menambah jumlah saham beredar sehingga laba per saham pemegang saham lama berpotensi terdilusi alias porsi kepemilikan mereka mengecil. Ekuitas, yaitu modal bersih perusahaan setelah dikurangi utang, ikut tersentuh karena utang obligasi yang berubah jadi saham membuat beban utang di neraca berkurang sementara jumlah saham beredar bertambah, dua hal yang biasa dicermati pelaku pasar saat menilai kesehatan keuangan emiten yang tengah restrukturisasi seperti BTEL. Yang perlu dipantau selanjutnya adalah apakah masih ada pemegang Obligasi Wajib Konversi lain yang belum mengonversi kepemilikannya, karena jika menyusul, hak suara dan struktur pemegang saham BTEL bisa berubah lebih jauh dari kondisi yang dilaporkan pada 24 Agustus 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "excl-fitch-pertahankan-rating-aa-ruang-gerak-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "EXCL: Fitch pertahankan rating [AA+], ruang gerak menyempit",
+  "deck": "Fitch Ratings mengafirmasi peringkat EXCL di AA+(idn) outlook stabil, tapi menyebut ruang kenaikan leverage sudah nyaris habis akibat konsolidasi dengan Smartfren.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:49:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/414ca42131_c221dd0b2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "Fitch Ratings",
+   "peringkat obligasi",
+   "XLSMART"
+  ],
+  "body": [
+   "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang PT XLSMART Telecom Sejahtera Tbk (EXCL) di AA+(idn) dengan outlook stabil, sesuai surat bertanggal 20 Agustus 2026 yang berlaku hingga 31 Agustus 2027. Peringkat yang sama juga berlaku untuk seluruh obligasi dan sukuk ijarah berkelanjutan I, II, dan III XL Axiata dengan total pokok sekitar Rp2,17 triliun yang masih beredar, jatuh tempo tersebar dari April 2027 hingga September 2032.",
+   "Fitch mencatat rasio utang bersih terhadap laba operasional (net leverage) EXCL diperkirakan bertahan sekitar 2,1 kali pada 2026-2027, naik dari perkiraan sebelumnya 1,7-2,0 kali. Rasio ini sempat melonjak ke 2,7 kali pada 2025 akibat konsolidasi Smartfren yang punya utang lebih berat, pembayaran dividen besar, dan biaya integrasi merger. Fitch menyebut level 2,1 kali sebagai batas atas yang bisa memicu penurunan peringkat kalau bertahan lama, dan perusahaan tidak membagikan dividen pada 2026 karena rugi bersih tahun sebelumnya.",
+   "Belanja modal direncanakan naik tajam menjadi Rp20 triliun pada 2026 dan Rp15 triliun pada 2027, dari Rp9 triliun pada 2025, untuk akuisisi spektrum, integrasi jaringan dengan Smartfren, dan penggelaran 5G. Perusahaan hasil merger XL Axiata dan Smartfren ini kini memiliki lebih dari 69 juta pelanggan seluler dan 950 ribu pelanggan broadband tetap per akhir Juni 2026, dengan pangsa pasar seluler sekitar 23 persen, serta menguasai total spektrum 217 MHz setelah membayar sekitar Rp1,3 triliun di muka untuk pita 700 MHz dan 2,6 GHz, meski wajib mengembalikan pita 900 MHz ke pemerintah pada akhir 2026. Pendapatan rata-rata per pelanggan (ARPU) naik ke Rp47.100 pada semester I 2026 dari Rp39.500 pada 2025."
+  ],
+  "fotoAdegan": "Telecommunication tower technician inspecting antenna equipment on a rooftop base station, overcast afternoon sky",
+  "takeaway": "Laporan ini netral bagi EXCL: peringkatnya tidak berubah dan tetap AA+(idn) dengan outlook stabil, tapi Fitch secara terbuka menyebut ruang geraknya sudah nyaris habis, jadi bukan sinyal aman sepenuhnya. Yang tersentuh adalah rasio utang terhadap laba operasional, ukuran yang menunjukkan seberapa besar utang perusahaan dibanding kemampuannya menghasilkan kas dari operasi. Makin tinggi rasio ini, makin tipis bantalan EXCL untuk membayar bunga dan mencicil utang kalau pendapatan seret, dan itu berpengaruh pada berapa mahal bunga yang harus dibayar saat menerbitkan utang baru. Fitch memantau peringkat ini terus menerus dan akan memperbaruinya minimal setahun sekali, dengan pemicu utama yang perlu diawasi adalah apakah leverage benar turun di bawah 2,1 kali sesuai target perusahaan sebelum periode rating berakhir pada 31 Agustus 2027.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
   "category": "Aksi Korporasi",
   "title": "HATM: Pemegang Saham Setujui [PMTHMETD] 868 Juta Saham",
@@ -103,6 +257,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Pharmaceutical factory technicians in white coats inspecting medicine packaging on a production line, Indonesia",
   "takeaway": "Transaksi ini netral bagi Kalbe Farma karena nilainya kecil dan tidak mengubah peta kendali maupun struktur permodalan perseroan. Yang tersentuh hanyalah kepemilikan pribadi sang komisaris, bukan jumlah saham beredar KLBF secara keseluruhan, sehingga tidak ada dampak pada laba per saham atau ekuitas perusahaan; hak suara yang dimaksud adalah persentase suara seorang pemegang saham dalam rapat umum pemegang saham, dan di sini angkanya tetap 0,001 persen baik sebelum maupun sesudah pembelian karena basisnya memang sangat kecil dibanding total saham KLBF yang beredar. Kenaikan 13,89 persen dari kepemilikan pribadinya menunjukkan minat menambah posisi, tapi terlalu kecil secara nominal untuk dibaca sebagai sinyal keyakinan korporasi. Yang perlu diperhatikan selanjutnya adalah apakah pola pembelian kecil semacam ini berlanjut dari komisaris atau direksi lain, karena baru jika terjadi berulang dan dalam jumlah lebih besar barulah pola tersebut punya arti bagi pembaca laporan keuangan perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asdf-fitch-afirmasi-peringkat-aaa-untuk-tujuh-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "ASDF: Fitch Afirmasi Peringkat [AAA] untuk Tujuh Obligasi",
+  "deck": "Fitch Ratings Indonesia mempertahankan peringkat AAA(idn) stabil untuk PT Astra Sedaya Finance dan tujuh seri obligasinya senilai total sekitar Rp4,78 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:04:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/67e3d4bb17_5e9a6a8ee7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDF",
+  "tags": [
+   "ASDF",
+   "peringkat kredit",
+   "obligasi",
+   "Fitch Ratings"
+  ],
+  "body": [
+   "PT Astra Sedaya Finance (ASDF) menerima hasil pemeringkatan tahunan dari PT Fitch Ratings Indonesia melalui surat bernomor 160/DIR/RATLTR/VIII/2026 tertanggal 21 Agustus 2026. Fitch mengafirmasi Peringkat Nasional Jangka Panjang perusahaan di AAA(idn) dengan outlook stabil, serta Peringkat Nasional Jangka Pendek di F1+(idn). Surat itu diterima dan diumumkan perusahaan pada hari yang sama, 21 Agustus 2026, dan diteruskan ke Bursa Efek Indonesia pada 24 Agustus 2026 oleh Ikhsan Abdillah selaku Corporate Secretary & Legal Division Head ASDF.",
+   "Peringkat AAA(idn) stabil itu juga berlaku untuk tujuh seri obligasi berkelanjutan yang diterbitkan ASDF. Rinciannya: Obligasi Berkelanjutan V Tahap V 2022 Seri C senilai Rp7 miliar jatuh tempo 26 Agustus 2027; Obligasi Berkelanjutan VI Tahap II 2023 Seri B senilai Rp750,62 miliar jatuh tempo 26 Oktober 2026; Obligasi Berkelanjutan VI Tahap II 2023 Seri C senilai Rp60,835 miliar jatuh tempo 26 Agustus 2028; Obligasi Berkelanjutan VI Tahap III 2024 Seri B senilai Rp1,18169 triliun jatuh tempo 23 April 2027; Obligasi Berkelanjutan VI Tahap III 2024 Seri C senilai Rp364,725 miliar jatuh tempo 23 April 2029; Obligasi Berkelanjutan VI Tahap IV 2024 Seri B senilai Rp1,415805 triliun jatuh tempo 2 Oktober 2027; dan Obligasi Berkelanjutan VI Tahap V 2025 Seri B senilai Rp1 triliun jatuh tempo 14 Maret 2028. Total pokok ketujuh obligasi itu sekitar Rp4,78 triliun.",
+   "Fitch menyebutkan bahwa peringkat AAA merupakan peringkat tertinggi dalam skala nasional Indonesia, mencerminkan ekspektasi risiko gagal bayar yang paling rendah dibandingkan emiten atau obligasi lain di dalam negeri. Periode rating untuk enam dari tujuh seri obligasi berlaku 21 Agustus 2026 hingga 21 Agustus 2027, sementara satu seri, Obligasi Berkelanjutan VI Tahap V 2025 Seri B, berlaku sejak 14 Agustus 2026. Fitch juga menyatakan akan memantau dan memperbarui peringkat ini setidaknya sekali dalam setahun."
+  ],
+  "fotoAdegan": "Rows of parked new cars at a vehicle financing dealership lot in a Jakarta suburb, staff walking between vehicles at dusk",
+  "takeaway": "Laporan ini netral bagi ASDF karena Fitch hanya menegaskan ulang peringkat AAA(idn) yang sudah disandang perusahaan sebelumnya, bukan menaikkan atau menurunkannya, sehingga tidak mengubah persepsi risiko investor terhadap perusahaan. Yang tersentuh di sini adalah beban bunga, yaitu biaya yang harus dibayar perusahaan saat meminjam dana lewat penerbitan obligasi baru: dengan peringkat tertinggi di skala nasional, ASDF berpeluang mendapat bunga pinjaman yang relatif murah karena investor menilai risiko gagal bayarnya sangat kecil. Yang perlu dipantau berikutnya adalah jatuh tempo terdekat dari deretan obligasi ini, yaitu Obligasi Berkelanjutan VI Tahap II 2023 Seri B senilai Rp750,62 miliar pada 26 Oktober 2026, serta tinjauan ulang peringkat oleh Fitch yang menurut suratnya dilakukan setidaknya sekali setahun.",
   "sentimen": "netral"
  },
  {

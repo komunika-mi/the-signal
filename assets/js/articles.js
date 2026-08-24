@@ -3,6 +3,162 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Koreksi RUPSLB, [Ekspansi] ke Bisnis Baja dan Tambak Udang",
+  "deck": "Selain merevisi tanggal pencatatan pemegang saham, koreksi panggilan RUPSLB MKNT menambahkan agenda baru: perluasan usaha jadi holding yang menaungi perusahaan baja dan tambak udang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:31:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7cdadd91b9_18caeb2c91.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "RUPSLB",
+   "PMTHMETD",
+   "holding"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) mengoreksi surat panggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya terbit 31 Juli 2026. Koreksi disampaikan Corporate Secretary Jefri Junaedi lewat surat No 153/MKNT-OJK/VIII/2026 tanggal 24 Agustus 2026. RUPSLB tetap digelar Senin, 14 September 2026 pukul 13.30 WIB, di Hotel Manhattan Lantai 10, Jl. Prof. DR. Satrio Kav. 19-24, Kuningan, Jakarta Selatan. Tanggal pencatatan pemegang saham yang berhak hadir (recording date) juga diperbarui menjadi 20 Agustus 2026, dari sebelumnya 30 Juli 2026.",
+   "Selain agenda penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), penetapan pengendali baru, dan penggantian nama menjadi PT Remitra Global International Tbk yang sudah lebih dulu diberitakan, koreksi ini menyisipkan agenda baru: persetujuan perluasan kegiatan usaha Perseroan menjadi perusahaan holding. Perseroan menyebut tengah mengambil alih dua perusahaan, satu bergerak di manufaktur baja dan satu lagi di budi daya tambak udang. Studi kelayakan atas rencana ini disusun oleh KJPP Sih Wiryadi & Rekan, mengacu pada aturan OJK No 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
+   "Secara keseluruhan RUPSLB ini membawa tujuh agenda: (1) PMTHMETD lewat konversi utang Perseroan kepada kreditur menjadi saham dan setoran tunai investor independen; (2) penetapan pengendali baru pasca-PMTHMETD; (3) perubahan nama Perseroan menjadi PT Remitra Global International Tbk; (4) perluasan usaha sebagai perusahaan holding ke sektor baja dan tambak udang berikut studi kelayakannya; (5) perubahan anggaran dasar, termasuk penambahan modal dasar dan seri saham baru Seri B bernilai nominal Rp1 per saham; (6) perubahan susunan Direksi; dan (7) perubahan susunan Dewan Komisaris."
+  ],
+  "fotoAdegan": "Workers checking aerators in a shrimp aquaculture pond at sunrise, rural Indonesian coastline in background",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena bukan sekadar revisi teknis jadwal rapat, melainkan konfirmasi bahwa Perseroan akan berpindah kendali sekaligus banting setir ke dua sektor yang sama sekali di luar bisnis telekomunikasi MKNT selama ini, yaitu manufaktur baja dan tambak udang. Ini menyentuh ekuitas dan struktur saham beredar Perseroan sekaligus, sebab PMTHMETD berarti saham baru diterbitkan tanpa ditawarkan lebih dulu ke pemegang saham lama sehingga porsi kepemilikan mereka otomatis mengecil, dan sekarang dana dari transaksi itu diarahkan bukan untuk memperkuat bisnis inti melainkan mengakuisisi dua perusahaan di sektor yang benar-benar baru bagi Perseroan. Perubahan segmen usaha sedrastis ini juga berarti arus kas dan laba per saham ke depan akan sangat bergantung pada kinerja bisnis baja dan tambak udang yang belum pernah dijalankan Perseroan. Yang perlu dipantau adalah hasil RUPSLB pada 14 September 2026, yang akan menentukan apakah seluruh rencana ini, mulai dari pengendali baru, ganti nama, hingga ekspansi usaha, resmi disetujui pemegang saham yang tercatat per 20 Agustus 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rupo-adhi-setujui-penundaan-bunga-obligasi-ke-juli-2027",
+  "category": "Aksi Korporasi",
+  "title": "RUPO ADHI Setujui [Penundaan] Bunga Obligasi ke Juli 2027",
+  "deck": "Pemegang obligasi ADHI menyetujui penundaan dua kali pembayaran bunga Obligasi Berkelanjutan IV Tahap I 2024 ke tanggal jatuh tempo, menyusul gagal bayar kupon seri lain.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:10:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7260a9b26_696f039ea2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "restrukturisasi utang",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mendapat persetujuan dari Rapat Umum Pemegang Obligasi (RUPO) yang digelar 6 Agustus 2026 untuk menunda pembayaran bunga Obligasi Berkelanjutan IV Adhi Karya Tahap I Tahun 2024 berkode ADHI04CN1. Tingkat bunga tetap 10,65 persen per tahun dan tanggal jatuh tempo obligasi tidak berubah, yaitu 9 Juli 2027. Yang berubah adalah jadwal pembayarannya: pembayaran bunga ke-9 yang semula jatuh pada 9 Oktober 2026 dan pembayaran ke-10 yang semula jatuh pada 9 Januari 2027, keduanya digeser menjadi 9 Juli 2027. Pembayaran ke-11 tetap pada 9 April 2027 dan pembayaran ke-12 tetap pada 9 Juli 2027, sesuai jadwal semula.",
+   "Dengan pergeseran ini, tiga kali kewajiban bunga plus pokok obligasi akan jatuh tempo bersamaan pada 9 Juli 2027. Bursa Efek Indonesia mengaitkan restrukturisasi ini dengan surat KSEI tertanggal 21 Agustus 2026 perihal penundaan pembayaran bunga ke-17 pada dua seri obligasi lain milik ADHI, yaitu Obligasi Berkelanjutan III Tahap III Tahun 2022 Seri B (ADHI03BCN3, nilai emisi Rp667,5 miliar, bunga 9 persen, jatuh tempo 24 Mei 2027) dan Seri C (ADHI03CCN3, nilai emisi Rp1,796 triliun, bunga 10,2 persen, jatuh tempo 24 Mei 2029). Penundaan pembayaran kupon seri B dan C itu sebelumnya memicu suspensi perdagangan saham ADHI oleh bursa.",
+   "Bursa dalam pengumumannya meminta semua pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan perusahaan."
+  ],
+  "fotoAdegan": "Unfinished elevated toll road pillars and construction cranes at a large infrastructure site during late afternoon light",
+  "takeaway": "Laporan ini negatif bagi ADHI, karena perusahaan tidak membayar bunga sesuai jadwal dan baru bisa memenuhinya setelah dinegosiasikan ulang dengan pemegang obligasi, sejalan dengan gagal bayar kupon dan penurunan peringkat yang sudah dilaporkan pekan ini. Yang tersentuh adalah arus kas, yakni uang tunai yang benar-benar tersedia untuk membayar kewajiban: penundaan ini menandakan ADHI belum punya cukup dana pada tanggal jatuh tempo asli, sehingga kewajiban bunga itu ditumpuk ke belakang. Yang perlu dipantau adalah 9 Juli 2027, karena pada tanggal itu ADHI harus membayar pokok obligasi ADHI04CN1 sekaligus tiga kali pembayaran bunga yang tertunda secara bersamaan, sementara sebelumnya perusahaan sempat disebut berpotensi tak mampu membayar satu kupon saja senilai Rp60,8 miliar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bpii-peroleh-kredit-rp80-miliar-dari-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "BPII Peroleh [Kredit] Rp80 Miliar dari CIMB Niaga",
+  "deck": "Batavia Prosperindo Internasional menandatangani fasilitas kredit revolving maksimum Rp80 miliar dengan Bank CIMB Niaga untuk pembiayaan modal kerja, bertenor 12 bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T19:20:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e787a4fa11_1b736ca0db.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPII",
+  "tags": [
+   "BPII",
+   "kredit perbankan",
+   "CIMB Niaga",
+   "modal kerja"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Internasional Tbk (BPII) menandatangani Perjanjian Fasilitas Kredit dengan PT Bank CIMB Niaga Tbk pada 21 Agustus 2026. Fasilitas yang diberikan berbentuk Fasilitas Kredit Langsung bersifat revolving, artinya bisa ditarik dan dilunasi berulang kali selama masa berlaku, dengan nilai pokok pinjaman maksimum Rp80 miliar.",
+   "Dana dari fasilitas ini akan digunakan untuk pembiayaan Perseroan, termasuk modal kerja. Jangka waktu fasilitas berlaku 12 bulan sejak tanggal penandatanganan perjanjian, sehingga jatuh tempo sekitar akhir Agustus 2027 kecuali diperpanjang. Dalam laporan keterbukaan informasi ini, Perseroan menyatakan sampai saat ini belum ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat penandatanganan fasilitas tersebut.",
+   "Keterbukaan informasi ini dilaporkan oleh Bernadeta Dwi Novernia selaku Corporate Secretary BPII kepada Bursa Efek Indonesia, sementara surat resmi ke Otoritas Jasa Keuangan ditandatangani oleh Direktur Utama Rudi Setiadi Tjahjono dan Direktur Luo Xude, sesuai kewajiban pelaporan fakta material berdasarkan POJK No. 45/POJK.04/2024."
+  ],
+  "fotoAdegan": "Exterior of a modern high-rise office tower in Jakarta's financial district, street-level view, midday light",
+  "takeaway": "Fasilitas kredit revolving ini condong netral bagi BPII, karena sifatnya baru berupa pagar pembiayaan yang tersedia untuk ditarik, bukan kepastian dana yang sudah masuk kas perusahaan. Kalau nantinya benar ditarik, pos yang tersentuh adalah beban bunga yang mengurangi laba bersih serta arus kas dari aktivitas pendanaan yang mencatat penambahan utang, sementara di sisi lain modal kerja perusahaan menjadi lebih longgar untuk membiayai operasional sehari-hari. Perusahaan sendiri menegaskan belum ada dampak material terhadap kondisi keuangan maupun kelangsungan usahanya akibat perjanjian ini. Yang perlu dipantau adalah seberapa besar fasilitas ini benar-benar ditarik pada laporan keuangan berikutnya, serta tenggat 12 bulan sejak 21 Agustus 2026, yakni sekitar akhir Agustus 2027, saat fasilitas ini jatuh tempo atau perlu diperpanjang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbsi-rupslb-gagal-kuorum-perubahan-direksi-batal-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "BBSI: RUPSLB [Gagal] Kuorum, Perubahan Direksi Batal Dibahas",
+  "deck": "RUPSLB Krom Bank Indonesia batal membahas perubahan direksi, remunerasi, dan anggaran dasar karena kuorum kehadiran cuma 9,84 persen dari syarat minimal dua pertiga saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T18:55:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a42996fc21_3758ebf503.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBSI",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "RUPSLB",
+   "tata kelola"
+  ],
+  "body": [
+   "PT Krom Bank Indonesia Tbk (BBSI) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 20 Agustus 2026, di Jakarta Design Center, Ruang Orchid 3, Jakarta Pusat. Rapat yang dibuka pukul 10.16 WIB itu hanya berlangsung dua menit dan ditutup pukul 10.18 WIB karena kuorum kehadiran tidak terpenuhi. Pemegang saham yang hadir atau diwakili, baik secara fisik maupun lewat sistem eASY.KSEI, hanya mewakili 361.507.048 saham atau 9,8377 persen dari total 3.674.723.301 saham dengan hak suara sah yang beredar. Angka ini jauh di bawah syarat kuorum dalam Anggaran Dasar Perseroan Pasal 11 ayat (1) huruf a butir 1, yang mewajibkan kehadiran lebih dari dua pertiga saham berhak suara.",
+   "Karena kuorum tidak tercapai, tiga agenda yang diajukan otomatis batal dibahas dan diputuskan: persetujuan perubahan susunan pengurus Perseroan, persetujuan perubahan remunerasi pengurus, dan persetujuan perubahan Anggaran Dasar. Perseroan tidak merinci di dalam ringkasan risalah ini apa isi perubahan yang diusulkan untuk ketiga agenda tersebut, karena rapat memang tidak sampai pada tahap pembahasan.",
+   "Dengan gagalnya RUPSLB, susunan direksi dan dewan komisaris Krom Bank tetap seperti sebelumnya, sama-sama menjabat sejak 5 November 2024 hingga 5 November 2027 periode pertama. Direksi terdiri dari Anton Hermawan sebagai Presiden Direktur, serta Alvin James Kurniawan, Wisaksana Djawi, Laniwati Tjandra, dan Tan Alie sebagai Direktur. Dewan Komisaris terdiri dari Dinno Indiano sebagai Presiden Komisaris, dengan Markus Sugiono dan Zainal Abidin menjabat sebagai Komisaris Independen. Ringkasan risalah ini dicatat oleh notaris Mohamad Fajri Mekka Putra dan disampaikan resmi ke OJK dan Bursa Efek Indonesia pada 24 Agustus 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs in a corporate meeting hall, morning light through tall windows, no people present",
+  "takeaway": "Laporan ini condong negatif dari sisi tata kelola karena kuorum yang hadir cuma 9,84 persen, jauh di bawah syarat dua pertiga saham berhak suara, sehingga tiga agenda penting sama sekali tidak sempat dibahas. Meski begitu, tidak ada perubahan pada laba, arus kas, atau jumlah saham beredar karena memang tidak ada keputusan apa pun yang diambil, yang berubah hanyalah kepastian arah perusahaan yang tertunda. Agenda perubahan remunerasi pengurus dan perubahan Anggaran Dasar biasanya menyangkut beban operasional dan kadang struktur permodalan bank, jadi pemegang saham perlu tahu isinya begitu dibahas ulang. Rendahnya partisipasi ini juga menimbulkan pertanyaan soal seberapa aktif pemegang saham mayoritas maupun publik mengikuti agenda perusahaan. Yang perlu dipantau berikutnya adalah kapan Krom Bank menjadwalkan ulang RUPSLB kedua, karena dokumen ini belum mencantumkan tanggalnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Gelar [RUPSLB] atas Permintaan Pemegang Saham",
+  "deck": "PT Solusi Environment Asia Tbk akan menggelar RUPSLB pada 30 September 2026, yang menurut pengumuman perseroan digelar atas permintaan pemegang saham, bukan inisiatif direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T18:44:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3981f955e3_a53e999535.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "Solusi Environment Asia",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026 pukul 14.00 WIB. Rapat akan digelar secara fisik dan elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia. Yang membedakan pengumuman ini dari RUPS pada umumnya adalah dasar penyelenggaraannya: perseroan menyatakan rapat ini diadakan atas permintaan pemegang saham, merujuk Pasal 3 ayat (1) huruf a POJK Nomor 15/POJK.04/2020, bukan atas inisiatif direksi sendiri. Lokasi fisik rapat belum diumumkan dan akan ditentukan kemudian. Pengumuman ditandatangani Corporate Secretary Joshua Gerry Mangkubudi pada 24 Agustus 2026.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 7 September 2026. Surat pemanggilan resmi yang memuat mata acara rapat rencananya terbit Selasa, 8 September 2026, dimuat di situs web penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs perseroan. Pemegang saham yang mewakili minimal 1/20 atau lebih dari total saham berhak suara dapat mengusulkan mata acara rapat, dengan syarat usulan diterima direksi paling lambat tujuh hari sebelum tanggal pemanggilan, diajukan dengan itikad baik, disertai alasan dan bahan pendukung.",
+   "Karena keterbatasan ruangan, perseroan hanya mengakomodasi maksimal 20 peserta yang hadir fisik dengan prinsip siapa cepat dia dapat, tanpa penyediaan suvenir maupun konsumsi. Perseroan mendorong pemegang saham hadir secara elektronik dengan memberikan kuasa elektronik (e-Proxy) melalui eASY.KSEI kepada perwakilan independen yang ditunjuk perseroan, termasuk mencantumkan pilihan suara untuk tiap mata acara. Pemberian atau perubahan kuasa elektronik ini harus dilakukan paling lambat satu hari kerja sebelum rapat, yaitu Selasa, 29 September 2026."
+  ],
+  "fotoAdegan": "Workers sorting recyclable waste materials on a conveyor line at an industrial processing facility, daytime light",
+  "takeaway": "Laporan ini netral bagi penilaian kinerja SOFA karena baru memuat jadwal dan tata cara rapat, belum ada keputusan atau angka finansial yang diumumkan, tapi ada satu detail yang patut digarisbawahi: RUPSLB ini digelar atas permintaan pemegang saham, bukan inisiatif direksi, yang tergolong tidak lazim dan biasanya menandakan ada agenda tertentu yang ingin didorong oleh pemegang saham tersebut. Karena mata acara rapat belum diumumkan, dampaknya terhadap pos-pos kinerja seperti ekuitas, jumlah saham beredar, atau laba per saham belum bisa dinilai sampai agenda resminya terbit. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi yang dijadwalkan terbit Selasa, 8 September 2026, karena di situlah agenda dan latar belakang permintaan RUPSLB akan terungkap. Pemegang saham yang berhak hadir adalah yang tercatat di Daftar Pemegang Saham per Senin, 7 September 2026, sementara batas akhir pemberian kuasa elektronik jatuh Selasa, 29 September 2026, sehari sebelum rapat digelar pada Rabu, 30 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cybr-komisaris-andri-hutama-putra-jual-1-76-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Komisaris Andri Hutama Putra [jual] 1,76 juta saham",
+  "deck": "Andri Hutama Putra melepas 1,76 juta saham ITSEC Asia lewat 14 transaksi sejak 23 Juni hingga 11 Agustus 2026, hak suaranya turun tipis dari 0,242% menjadi 0,228%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T18:32:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-8635-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Komisaris PT ITSEC Asia Tbk (CYBR), Andri Hutama Putra, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perusahaan berkurang dari 32.530.800 lembar menjadi 30.768.700 lembar. Laporan tertanggal 24 Agustus 2026 ini mencatat seluruh saham dijual secara tidak langsung dengan tujuan transaksi yang tertulis sebagai investasi lainnya.",
+   "Penjualan dilakukan bertahap dalam 14 transaksi selama tujuh pekan. Rinciannya: 100.000 lembar pada 23 Juni seharga Rp655, 16.200 lembar pada 14 Juli seharga Rp600, 6.200 lembar pada 20 Juli seharga Rp585, 200.000 lembar dan 200.000 lembar lagi pada 21 Juli masing-masing seharga Rp575 dan Rp570, 144.700 lembar pada 31 Juli seharga Rp550, 300.000 lembar pada 3 Agustus seharga Rp550, tiga transaksi pada 4 Agustus sebesar 95.000, 100.000, dan 100.000 lembar dengan harga Rp560, Rp565, dan Rp570, 200.000 lembar pada 5 Agustus seharga Rp565, serta tiga transaksi pada 11 Agustus sebesar 100.000, 100.000, dan 100.000 lembar dengan harga Rp600, Rp590, dan Rp585.",
+   "Total saham yang dilepas mencapai 1.762.100 lembar, atau 5,42 persen dari kepemilikan Andri sebelum rangkaian transaksi ini dimulai. Hak suaranya di ITSEC Asia turun dari 0,242 persen menjadi 0,228 persen."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's financial district at dusk, illuminated windows, light street traffic below",
+  "takeaway": "Penilaian saya netral, karena meski 5,42 persen dari kepemilikan pribadinya terjual, hak suara sang komisaris di ITSEC Asia nyaris tidak bergeser, dari 0,242 persen menjadi 0,228 persen, sehingga tidak mengubah peta kendali perusahaan. Yang tersentuh di sini murni hak suara pribadinya, bukan jumlah saham beredar ITSEC Asia secara keseluruhan, sebab 1,76 juta lembar yang dijual hanya pecahan kecil dari total saham perusahaan yang beredar sehingga tidak mengubah struktur permodalan emiten. Yang perlu dipantau adalah apakah pola penjualan bertahap sejak 23 Juni ini berlanjut di laporan kepemilikan berikutnya, mengingat rangkaian 14 transaksi dalam tujuh pekan terakhir menunjukkan ini bukan aksi jual satu kali, melainkan bagian dari kebiasaan transaksi rutin yang wajib terus dilaporkan ke OJK.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
   "category": "Aksi Korporasi",
   "title": "SOCI Beri [Jaminan] Pinjaman US$54,9 Juta ke Anak Usaha EOM",
@@ -53,6 +209,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs set up in a modern corporate conference hall inside a Jakarta office tower, soft morning light through glass windows.",
   "takeaway": "Laporan ini netral, karena isinya murni pergeseran tanggal RUPSLB selama 11 hari tanpa mengubah agenda, tempat, maupun mekanisme rapat, dan tidak ada informasi keuangan baru yang terungkap. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan susunan pengurus, yaitu siapa yang duduk sebagai direksi atau komisaris bank, dan itu penting dipantau karena merekalah yang menentukan arah kebijakan MCOR ke depan meski dokumen ini belum menyebut nama-nama yang diusulkan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 15 September 2026 pukul 15.00 WIB, saat pemegang saham akan mengetahui siapa yang masuk atau keluar dari jajaran pengurus, dengan batas akhir pendaftaran kehadiran atau kuasa elektronik pukul 12.00 WIB sehari sebelumnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-panggil-rupslb-15-september-ajukan-restrukturisasi-total",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSLB 15 September, Ajukan [Restrukturisasi] Total",
+  "deck": "PTPP memanggil RUPSLB pada 15 September 2026 untuk meminta persetujuan pemegang saham atas restrukturisasi menyeluruh, termasuk konversi pinjaman bank dan non-bank jangka pendek menjadi jangka panjang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T17:10:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/866d56b8d7_3bb3caaf14.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "BUMN karya"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk resmi memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 15 September 2026 pukul 14.00 WIB di Auditorium Lantai 1, Plaza PP - Wisma Subiyanto, Jalan Letjend TB Simatupang No. 57, Pasar Rebo, Jakarta. Rapat digelar secara fisik dan elektronik melalui sistem eASY.KSEI. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham atau Rekening Efek di KSEI per penutupan perdagangan Jumat, 21 Agustus 2026.",
+   "Agenda pertama meminta persetujuan atas usulan restrukturisasi dalam rangka Penyehatan Perseroan. PP menyebut langkah ini merujuk Pasal 72 ayat 1 Undang-Undang Nomor 16 Tahun 2025 tentang Perubahan Keempat UU BUMN, serta Pasal 121 ayat 1 Peraturan Menteri BUMN Nomor PER-2/MBU/03/2023, yang mewajibkan persetujuan RUPS untuk kegiatan korporasi signifikan semacam ini. Perseroan juga menyebut Badan Pengaturan BUMN akan mengeluarkan penetapan tersendiri atas usulan rencana penyehatan tersebut sebelum proses berlanjut.",
+   "Agenda kedua secara spesifik meminta persetujuan restrukturisasi pinjaman bank dan/atau non-bank, yang akan dituangkan lewat penandatanganan Master Restructuring Agreement (MRA). Lewat perjanjian ini, pinjaman jangka pendek Perseroan akan dikonversi menjadi pinjaman jangka menengah dan/atau jangka panjang. Sesuai Anggaran Dasar Perseroan, langkah ini membutuhkan persetujuan RUPS karena tergolong transaksi material.",
+   "Bagi pemegang saham yang ingin memberi kuasa lewat eASY.KSEI, batas waktunya Senin, 14 September 2026 pukul 12.00 WIB, sama dengan tenggat penyerahan surat kuasa fisik ke Biro Administrasi Efek PT BSR Indonesia. Registrasi kehadiran fisik dibuka pukul 12.15 WIB dan ditutup pukul 13.30 WIB sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Construction cranes and unfinished high-rise structures at a large infrastructure project site in Jakarta, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi PTPP, karena RUPSLB ini adalah puncak dari rentetan permintaan restrukturisasi utang yang diumumkan perseroan sendiri sejak 18 Agustus, mencakup obligasi, sukuk, dan kini pinjaman bank atau non-bank sekaligus lewat satu perjanjian payung bernama Master Restructuring Agreement. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang keluar masuk dari kegiatan usaha, karena mengubah utang jangka pendek menjadi jangka panjang biasanya dilakukan saat perusahaan kesulitan memenuhi jadwal pembayaran dalam waktu dekat, meski di sisi lain langkah ini juga meringankan tekanan kas dalam satu atau dua tahun ke depan. Pelaku pasar juga akan memperhatikan beban bunga ke depan, sebab syarat pinjaman baru hasil restrukturisasi bisa mengubah bunga yang harus dibayar Perseroan tiap tahun. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 15 September 2026 dan penetapan dari Badan Pengaturan BUMN atas rencana penyehatan, yang akan menentukan apakah restrukturisasi ini benar-benar disetujui dan berjalan sesuai rencana Perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",
@@ -340,6 +523,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah cara bayar, bukan besaran iuran: peserta mandiri BPJS Kesehatan yang menunggak kini bisa mencicil dari Rp10.000 per hari, bukan lagi harus melunasi seluruh tunggakan sekaligus agar kepesertaannya aktif kembali. Yang terdampak adalah peserta PBPU/BP, kelompok pekerja mandiri dengan penghasilan tidak tetap yang selama ini paling rentan menunggak. Berita ini belum menyebut berapa total peserta yang sudah memakai skema ini secara nasional, berapa lama batas waktu mencicil, atau apakah ada konsekuensi bila cicilan terlambat, padahal itu yang menentukan apakah program ini benar meringankan beban atau sekadar menunda pelunasan. Yang perlu ditunggu adalah data cakupan REHAB 3.0 dari BPJS Kesehatan secara nasional, karena dua kisah peserta saja belum cukup menggambarkan seberapa luas skema ini benar terpakai.",
   "imageV": "mt75t3n7"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-jual-lagi-4-juta-saham-hak-suara-34-24",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Jual Lagi 4 Juta Saham, Hak Suara [34,24%]",
+  "deck": "Putrasakti Mandiri kembali menjual 4 juta saham KDTN pada 21 Agustus 2026 seharga Rp355 per saham untuk restrukturisasi kepemilikan dalam grup usaha, hak suaranya turun ke 34,24 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:20:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2921-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Puri Sentul Permai Tbk (KDTN) melaporkan ke Otoritas Jasa Keuangan bahwa pemegang sahamnya, Putrasakti Mandiri, menjual 4.000.000 saham KDTN pada 21 Agustus 2026 dengan harga Rp355 per saham. Pelapor bukan anggota direksi atau dewan komisaris perusahaan, berstatus warga negara Indonesia, dan memiliki saham secara langsung. Transaksi berjenis repurchase agreement ini disebutkan bertujuan untuk restrukturisasi kepemilikan saham dalam kelompok usaha.",
+   "Dengan transaksi ini, jumlah saham KDTN yang dipegang Putrasakti Mandiri berkurang dari 432.000.000 unit menjadi 428.000.000 unit, atau turun 4.000.000 saham. Hak suaranya di KDTN ikut turun dari 34,56 persen menjadi 34,24 persen. Laporan ini tercatat dengan nomor LK/24082026/0008/1.",
+   "Ini merupakan laporan keempat dari Putrasakti Mandiri dalam sepekan terakhir dengan alasan yang sama, setelah laporan serupa pada 18, 19, dan 21 Agustus 2026. Sejak laporan pertama, hak suara Putrasakti Mandiri di KDTN sudah turun dari sekitar 34,86 persen menjadi 34,24 persen saat ini."
+  ],
+  "fotoAdegan": "Wide-angle view of modern glass office towers in a Jakarta business district at sunrise, traffic passing below.",
+  "takeaway": "Laporan ini masih netral bagi KDTN, karena penjualan 4 juta saham kali ini setara 0,93 persen dari kepemilikan Putrasakti Mandiri sendiri dan hak suaranya di perusahaan hanya turun tipis dari 34,56 persen ke 34,24 persen, belum cukup besar untuk dibaca sebagai sinyal pengendali mundur. Yang tersentuh di sini adalah hak suara, yaitu persentase suara yang bisa dipakai pemegang saham dalam RUPS untuk menentukan arah perusahaan, dan pasar memperhatikannya karena penurunan yang terus berulang bisa menandakan porsi kendali kelompok usaha atas KDTN yang perlahan mengecil meski basisnya masih di atas sepertiga saham beredar. Yang perlu dipantau adalah rangkaian penjualan Putrasakti Mandiri yang kini sudah empat kali terjadi sejak 18 Agustus 2026, dengan ukuran penjualan yang justru membesar tiap laporan, dari sekitar 0,21 persen naik menjadi 0,93 persen kali ini, sehingga arah tren ini layak terus diikuti pada laporan-laporan berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
@@ -1049,7 +1258,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:26:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",

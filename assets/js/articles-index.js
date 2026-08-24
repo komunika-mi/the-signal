@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Koreksi RUPSLB, [Ekspansi] ke Bisnis Baja dan Tambak Udang",
+  "deck": "Selain merevisi tanggal pencatatan pemegang saham, koreksi panggilan RUPSLB MKNT menambahkan agenda baru: perluasan usaha jadi holding yang menaungi perusahaan baja dan tambak udang.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "RUPSLB",
+   "PMTHMETD",
+   "holding"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7cdadd91b9_18caeb2c91.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-adhi-setujui-penundaan-bunga-obligasi-ke-juli-2027",
+  "category": "Aksi Korporasi",
+  "title": "RUPO ADHI Setujui [Penundaan] Bunga Obligasi ke Juli 2027",
+  "deck": "Pemegang obligasi ADHI menyetujui penundaan dua kali pembayaran bunga Obligasi Berkelanjutan IV Tahap I 2024 ke tanggal jatuh tempo, menyusul gagal bayar kupon seri lain.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "restrukturisasi utang",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7260a9b26_696f039ea2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bpii-peroleh-kredit-rp80-miliar-dari-cimb-niaga",
+  "category": "Aksi Korporasi",
+  "title": "BPII Peroleh [Kredit] Rp80 Miliar dari CIMB Niaga",
+  "deck": "Batavia Prosperindo Internasional menandatangani fasilitas kredit revolving maksimum Rp80 miliar dengan Bank CIMB Niaga untuk pembiayaan modal kerja, bertenor 12 bulan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPII",
+   "kredit perbankan",
+   "CIMB Niaga",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e787a4fa11_1b736ca0db.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbsi-rupslb-gagal-kuorum-perubahan-direksi-batal-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "BBSI: RUPSLB [Gagal] Kuorum, Perubahan Direksi Batal Dibahas",
+  "deck": "RUPSLB Krom Bank Indonesia batal membahas perubahan direksi, remunerasi, dan anggaran dasar karena kuorum kehadiran cuma 9,84 persen dari syarat minimal dua pertiga saham.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBSI",
+   "Krom Bank Indonesia",
+   "RUPSLB",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a42996fc21_3758ebf503.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Gelar [RUPSLB] atas Permintaan Pemegang Saham",
+  "deck": "PT Solusi Environment Asia Tbk akan menggelar RUPSLB pada 30 September 2026, yang menurut pengumuman perseroan digelar atas permintaan pemegang saham, bukan inisiatif direksi.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "Solusi Environment Asia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3981f955e3_a53e999535.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-komisaris-andri-hutama-putra-jual-1-76-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Komisaris Andri Hutama Putra [jual] 1,76 juta saham",
+  "deck": "Andri Hutama Putra melepas 1,76 juta saham ITSEC Asia lewat 14 transaksi sejak 23 Juni hingga 11 Agustus 2026, hak suaranya turun tipis dari 0,242% menjadi 0,228%.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-8635-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
   "category": "Aksi Korporasi",
   "title": "SOCI Beri [Jaminan] Pinjaman US$54,9 Juta ke Anak Usaha EOM",
@@ -34,6 +130,22 @@ var ARTICLES = [
    "pergantian pengurus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b8047642f9_f71fdaa7b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-panggil-rupslb-15-september-ajukan-restrukturisasi-total",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Panggil RUPSLB 15 September, Ajukan [Restrukturisasi] Total",
+  "deck": "PTPP memanggil RUPSLB pada 15 September 2026 untuk meminta persetujuan pemegang saham atas restrukturisasi menyeluruh, termasuk konversi pinjaman bank dan non-bank jangka pendek menjadi jangka panjang.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "BUMN karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/866d56b8d7_3bb3caaf14.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -213,6 +325,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462162-program-rehab-30-buka-pilihan-cicilan-sesuai-kemampuan"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-jual-lagi-4-juta-saham-hak-suara-34-24",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Jual Lagi 4 Juta Saham, Hak Suara [34,24%]",
+  "deck": "Putrasakti Mandiri kembali menjual 4 juta saham KDTN pada 21 Agustus 2026 seharga Rp355 per saham untuk restrukturisasi kepemilikan dalam grup usaha, hak suaranya turun ke 34,24 persen.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2921-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
@@ -653,7 +781,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6456,142 +6584,6 @@ var ARTICLES = [
    "BBCA"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/731ac75733_6d9a15635d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi",
-  "category": "Energi",
-  "title": "9,2 GW Proyek PLTA-PLTM RI Masuk Tahap [Eksekusi]",
-  "deck": "PLN catat 9,2 gigawatt proyek PLTA dan PLTM, atau 79 persen dari target RUPTL 2025-2034, sudah masuk tahap eksekusi hingga Juli 2026, meski baru 570 MW yang beroperasi.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/9-2-gw-proyek-plta-pltm-ri-masuk-tahap-eksekusi.jpg",
-  "imageV": "msss9eyl",
-  "tags": [
-   "PLTA",
-   "PLTM",
-   "PLN",
-   "Pumped Storage"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459884-akselerasi-pengembangan-hydropower-92-gw-proyek-plta-dan-pltm-masuk-tahapan-eksekusi"
- },
- {
-  "slug": "kadi-buka-penyelidikan-dumping-sap-asal-tiongkok",
-  "category": "Industri",
-  "title": "KADI Buka Penyelidikan [Dumping] SAP Asal Tiongkok",
-  "deck": "KADI membuka penyelidikan antidumping impor Superabsorbent Polymers dari Tiongkok, menyusul aduan PT Nippon Shokubai Indonesia atas lonjakan impor yang disebut merugikan industri dalam negeri.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kadi-buka-penyelidikan-dumping-sap-asal-tiongkok.jpg",
-  "imageV": "mssqf34x",
-  "tags": [
-   "antidumping",
-   "KADI",
-   "impor Tiongkok",
-   "industri kimia"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-produk-impor-superabsorbent-polymers-asal-tiongkok",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "luck-jadwalkan-rupslb-pada-23-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "LUCK Jadwalkan [RUPSLB] pada 23 September 2026",
-  "deck": "PT Sentral Mitra Informatika Tbk (LUCK) mengumumkan rencana RUPSLB pada 23 September 2026, dengan tanggal pencatatan pemegang saham 31 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/luck-jadwalkan-rupslb-pada-23-september-2026.jpg",
-  "imageV": "mssqfhgz",
-  "tags": [
-   "LUCK",
-   "RUPSLB",
-   "Sentral Mitra Informatika",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/061d310702_1676372240.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900",
-  "category": "BUMN",
-  "title": "Usai Tambang Ilegal Ditutup, Laba PT Timah [Melonjak] 900%",
-  "deck": "Presiden Prabowo klaim laba PT Timah naik sembilan kali lipat jadi Rp2,7 triliun pada semester I 2026, menyusul penutupan sekitar 1.000 titik tambang ilegal di Bangka Belitung.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/usai-tambang-ilegal-ditutup-laba-pt-timah-melonjak-900.jpg",
-  "imageV": "mssoesiy",
-  "tags": [
-   "PT Timah",
-   "tambang ilegal",
-   "Bangka Belitung",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459876-tambang-ilegal-ditutup-profit-pt-timah-disebut-tembus-rp27-triliun-dalam-6-bulan"
- },
- {
-  "slug": "bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september",
-  "category": "Aksi Korporasi",
-  "title": "BPII Bagikan Dividen Interim [Rp35 Miliar], Cair 11 September",
-  "deck": "BPII membagikan dividen interim tahun buku 2026 senilai Rp3,54 per saham, total maksimal Rp35 miliar, dengan pencatatan pemegang saham 28 Agustus dan pembayaran 11 September 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bpii-bagikan-dividen-interim-rp35-miliar-cair-11-september.jpg",
-  "imageV": "mssqg45c",
-  "tags": [
-   "BPII",
-   "dividen interim",
-   "emiten",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b6c44630e8_edb34840aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank",
-  "category": "Aksi Korporasi",
-  "title": "MCOR Tambah Shen Huayu Sebagai [Komisaris] Baru Bank",
-  "deck": "Bank China Construction Bank Indonesia (MCOR) menambah Shen Huayu sebagai komisaris baru per 12 Agustus 2026, sementara seluruh direksi dan komisaris lain tidak berubah.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/mcor-tambah-shen-huayu-sebagai-komisaris-baru-bank.jpg",
-  "imageV": "mssqgqgd",
-  "tags": [
-   "MCOR",
-   "Perbankan",
-   "Komisaris",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ada6d0787_9f745ec7d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik",
-  "category": "Aksi Korporasi",
-  "title": "CNMA Rampungkan Realisasi Dana IPO, Porsi [Pelunasan Utang] Naik",
-  "deck": "Seluruh dana hasil IPO 2023 CNMA senilai Rp2,17 triliun sudah terpakai habis, namun porsi pelunasan utang membengkak jadi 23 persen dari rencana 20 persen, sementara alokasi ekspansi sedikit menyusut.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/cnma-rampungkan-realisasi-dana-ipo-porsi-pelunasan-utang-naik.jpg",
-  "imageV": "mssqha04",
-  "tags": [
-   "CNMA",
-   "IPO",
-   "penggunaan dana",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9a30555_0c4a92a6c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback",
-  "category": "Aksi Korporasi",
-  "title": "IBST buka sementara suspensi untuk crossing saham [buyback]",
-  "deck": "Bursa membuka sementara perdagangan IBST khusus pasar negosiasi Jumat siang untuk crossing saham hasil buyback, bagian dari proses go private perseroan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ibst-buka-sementara-suspensi-untuk-crossing-saham-buyback.jpg",
-  "imageV": "mssqhxdk",
-  "tags": [
-   "IBST",
-   "suspensi saham",
-   "buyback",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b6e3990_ce89012025.pdf",
   "sourceLabel": "IDX"
  }
 ];

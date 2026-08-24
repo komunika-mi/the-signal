@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi Jual 2,35 Juta Saham, [Divestasi] Rp4,48 M",
+  "deck": "George Oetomo, direksi TAPG, melepas 2,35 juta saham dalam dua transaksi pada 20-21 Agustus, hanya lima hari setelah penjualan sebelumnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4169-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elsa-direktur-sdm-hera-handayani-mundur-tunggu-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: Direktur SDM Hera Handayani [Mundur], Tunggu RUPSLB",
+  "deck": "Direktur Sumber Daya Manusia dan Umum Elnusa, Hera Handayani, mengajukan pengunduran diri pada 20 Agustus 2026, efektif setelah disetujui RUPS berikutnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/65f00c7421_0ca25078c5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-terima-rp746-7-m-dari-dividen-interim-amp",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Terima Rp746,7 M dari [Dividen] Interim AMP",
+  "deck": "AMP, anak usaha yang 94,93 persen sahamnya dimiliki TAPG, membagikan dividen interim Rp786,6 miliar. Bagian TAPG diperkirakan sekitar Rp746,7 miliar.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "dividen interim",
+   "transaksi afiliasi",
+   "Agro Multi Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eb69ac6855_cd3001c90a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smkm-jawab-bursa-siapkan-rights-issue-dalam-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Jawab Bursa, Siapkan [Rights Issue] dalam 3 Bulan",
+  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, SMKM membantah punya info material tapi mengungkap rencana rights issue dalam waktu dekat.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMKM",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cbfe541260_8f2bb2a5f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Jadwalkan [RUPSLB] pada 30 September 2026",
+  "deck": "Bank Amar Indonesia menjadwalkan RUPSLB pada 30 September 2026, sementara pemanggilan resmi berisi agenda rapat baru akan diumumkan 8 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAR",
+   "RUPSLB",
+   "Bank Amar Indonesia",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9dabeaa_caf20655e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
+  "category": "Aksi Korporasi",
+  "title": "XDES: BRI-MI Ganti [Pengendali], Rencana Gabung ke Mandiri MI",
+  "deck": "PT Danantara Asset Management mengambil alih saham BRI Manajemen Investasi dari BRI dan Danareksa, sebelum BRIMI digabung ke Mandiri Manajemen Investasi pada 1 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDES",
+   "BRIMI",
+   "Danantara Asset Management",
+   "Merger Manajer Investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/feb3e70b44_021867da8e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdif-pengendali-brimi-berganti-merger-ke-mandiri-mi-1-sept",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Pengendali BRIMI Berganti, [Merger] ke Mandiri MI 1 Sept",
+  "deck": "Manajer investasi ETF XDIF diambil alih Danantara Asset Management dan akan bergabung dengan BNI AM serta PNM IM ke Mandiri Manajemen Investasi mulai 1 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDIF",
+   "BRIMI",
+   "Danantara Asset Management",
+   "merger manajer investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a6d85a2607_b33376081c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-terstruktur-bbca-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran Terstruktur] BBCA Usai Dividen Tunai",
+  "deck": "PT Korea Investment and Sekuritas Indonesia mengubah rasio dan harga pelaksanaan waran BBCABQCU6A dan BBCABQCX6A menyusul dividen tunai BBCA Rp50 per saham yang dibayar 16 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec4b3d4917_a97d335541.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
   "category": "Aksi Korporasi",
   "title": "BMBL: Pemegang Saham Lepas [43 Juta] Saham Lewat Repo",
@@ -363,7 +491,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6473,142 +6601,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec3f32fc48_add525c29d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "koni-panggil-rupslb-7-september-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "KONI Panggil RUPSLB 7 September, Bahas [Perubahan Direksi]",
-  "deck": "KONI memanggil RUPSLB pada 7 September 2026 untuk membahas perubahan Anggaran Dasar dan susunan Direksi; pemegang saham per 13 Agustus 2026 berhak hadir.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/koni-panggil-rupslb-7-september-bahas-perubahan-direksi.jpg",
-  "imageV": "mssj4sgn",
-  "tags": [
-   "KONI",
-   "RUPSLB",
-   "Perdana Bangun Pusaka",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4e24998f5e_141617bfcc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Klaim Swasembada Pangan Capai Target dalam [Setahun]",
-  "deck": "Presiden Prabowo mengklaim swasembada pangan tercapai lebih cepat dari target, harga pupuk turun 20 persen, dan RI disebut tak lagi impor solar sejak Juli 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-klaim-swasembada-pangan-capai-target-dalam-setahun.jpg",
-  "imageV": "mssk7nnn",
-  "tags": [
-   "swasembada pangan",
-   "harga pupuk",
-   "Pupuk Indonesia",
-   "B50"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459815-prabowo-klaim-swasembada-pangan-tembus-target-harga-pupuk-turun-20-persen-hingga-b50-bebaskan-ri-dari-impor-solar"
- },
- {
-  "slug": "truk-gelar-public-expose-usai-saham-melonjak-25-persen",
-  "category": "Aksi Korporasi",
-  "title": "TRUK Gelar Public Expose Usai Saham [Melonjak] 25 Persen",
-  "deck": "BEI sempat menghentikan sementara perdagangan saham TRUK pada 11 Agustus 2026 setelah harganya melonjak 25 persen disertai lonjakan volume transaksi dalam sehari.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/truk-gelar-public-expose-usai-saham-melonjak-25-persen.jpg",
-  "imageV": "mssj54zw",
-  "tags": [
-   "TRUK",
-   "suspensi saham",
-   "unusual market activity",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9ef5bbf240_fff9c5f039.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "padi-panggil-rupslb-kedua-bahas-status-pengendali-baru",
-  "category": "Aksi Korporasi",
-  "title": "PADI Panggil RUPSLB Kedua, Bahas Status [Pengendali] Baru",
-  "deck": "RUPSLB kedua PADI digelar 21 Agustus 2026 setelah rapat pertama gagal kuorum, membahas penetapan Djoko Joelijanto sebagai pengendali baru dan pengangkatan direktur baru Beba Hawah Ria.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/padi-panggil-rupslb-kedua-bahas-status-pengendali-baru.jpg",
-  "imageV": "mssj5p2v",
-  "tags": [
-   "PADI",
-   "RUPSLB",
-   "Minna Padi",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30ad782e89_6aea8e807f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkgi-direktur-eddy-ajukan-pengunduran-diri",
-  "category": "Aksi Korporasi",
-  "title": "KKGI: Direktur Eddy Ajukan [Pengunduran Diri]",
-  "deck": "Direktur PT Resource Alam Indonesia Tbk (KKGI), Eddy, mengajukan surat pengunduran diri pada 13 Agustus 2026 karena keluarganya pindah ke luar kota.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kkgi-direktur-eddy-ajukan-pengunduran-diri.jpg",
-  "imageV": "mssj67su",
-  "tags": [
-   "KKGI",
-   "Resource Alam Indonesia",
-   "pergantian direksi",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d33b123571_2f720e19c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "NISP [rampungkan] akuisisi PTOS senilai Rp455,2 miliar",
-  "deck": "Bank OCBC NISP resmi menguasai 99,9999% saham PT OCBC Sekuritas Indonesia senilai Rp455,201 miliar, membentuk struktur konglomerasi keuangan OCBC Grup di Indonesia.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/nisp-rampungkan-akuisisi-ptos-senilai-rp455-2-miliar.jpg",
-  "imageV": "mssj6q4b",
-  "tags": [
-   "NISP",
-   "akuisisi",
-   "OCBC Sekuritas",
-   "konglomerasi keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b826173c66_1eb4f6ce93.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit",
-  "category": "Industri",
-  "title": "Presiden Luncurkan MoLiNas, Kapasitas Pabrik EV [2,5 Juta] Unit",
-  "deck": "Presiden Prabowo luncurkan ekosistem Motor Listrik Nasional (MoLiNas) di pabrik ALVA, Cikarang, di tengah kapasitas produksi EV yang jauh melebihi realisasi penjualan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/presiden-luncurkan-molinas-kapasitas-pabrik-ev-2-5-juta-unit.jpg",
-  "imageV": "mssbcddw",
-  "tags": [
-   "kendaraan listrik",
-   "MoLiNas",
-   "industri otomotif",
-   "investasi"
-  ],
-  "kreditFoto": "Kementerian Perindustrian",
-  "sourceUrl": "https://kemenperin.go.id/artikel/72482942/Presiden-Luncurkan-MoLiNas,-Menperin:-Momentum-Perkuat-Kemandirian-Industri-dan-Teknologi-Nasional",
-  "sourceLabel": "Kementerian Perindustrian"
- },
- {
-  "slug": "kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026",
-  "category": "Industri",
-  "title": "Kemenperin [Buka] Restrukturisasi Mesin Industri Tekstil 2026",
-  "deck": "Kemenperin membuka pendaftaran program restrukturisasi mesin dan peralatan untuk industri tekstil tahun anggaran 2026, mulai 18 Mei hingga 31 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kemenperin-buka-restrukturisasi-mesin-industri-tekstil-2026.jpg",
-  "imageV": "mss9f4d6",
-  "tags": [
-   "restrukturisasi mesin",
-   "industri tekstil",
-   "Kemenperin",
-   "TPT 2026"
-  ],
-  "sourceUrl": "https://kemenperin.go.id/artikel/72482751/Program-Restrukturisasi-MesinPeralatan-pada-Tekstil-dan-Produk-Tekstil-Tahun-Anggaran-2026",
-  "sourceLabel": "Kementerian Perindustrian"
  }
 ];

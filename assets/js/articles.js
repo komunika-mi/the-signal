@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi Jual 2,35 Juta Saham, [Divestasi] Rp4,48 M",
+  "deck": "George Oetomo, direksi TAPG, melepas 2,35 juta saham dalam dua transaksi pada 20-21 Agustus, hanya lima hari setelah penjualan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:31:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4169-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Triputra Agro Persada Tbk (TAPG), George Oetomo, melaporkan penjualan saham tidak langsung sebanyak 2.350.000 lembar kepada Otoritas Jasa Keuangan. Transaksi dilakukan dalam dua tahap: 1.850.000 saham pada 20 Agustus 2026 seharga Rp1.890 per lembar, dan 500.000 saham pada 21 Agustus 2026 seharga Rp1.975 per lembar. Kedua transaksi dicatat dengan tujuan Divestasi, dengan total nilai sekitar Rp4,48 miliar.",
+   "Akibat penjualan itu, kepemilikan saham Oetomo di TAPG turun dari 55.906.100 lembar menjadi 53.556.100 lembar, atau berkurang 4,20 persen dari kepemilikannya semula. Hak suaranya di perusahaan pun turun tipis dari 0,2816 persen menjadi 0,2698 persen, mengingat basis total saham beredar TAPG yang jauh lebih besar dari porsi kepemilikannya.",
+   "Laporan ini menyusul laporan serupa pada 19 Agustus 2026, saat Oetomo melepas 550.000 saham senilai Rp998 juta. Dengan tambahan penjualan kali ini, total saham yang dilepasnya dalam kurun kurang dari sepekan mencapai 2.900.000 lembar."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fresh fruit bunches on a plantation, tropical morning light, no signage visible",
+  "takeaway": "Laporan ini condong negatif dari sisi sinyal insider, karena Oetomo kembali menjual saham hanya lima hari setelah pelepasan sebelumnya, sehingga total pelepasannya dalam sepekan terakhir mencapai 2,9 juta lembar, jauh di atas ambang yang bisa dianggap remah dan mulai membentuk pola pelepasan bertahap, bukan lagi transaksi tunggal yang kecil. Meski begitu, ini transaksi jual beli antar pemegang saham di pasar sekunder, bukan penerbitan saham baru, sehingga jumlah saham beredar, laba per saham, ekuitas, arus kas, dan beban bunga TAPG tidak berubah sama sekali. Yang bergeser hanya komposisi kepemilikan dan hak suara Oetomo sendiri, dari 0,2816 persen menjadi 0,2698 persen, jumlah yang kecil terhadap total saham TAPG tapi berarti besar bagi portofolio pribadinya. Yang perlu dipantau berikutnya adalah apakah pola pelepasan bertahap ini masih berlanjut di laporan kepemilikan berikutnya, karena tiga transaksi penjualan dalam waktu kurang dari sepekan menunjukkan tren yang belum tentu berhenti di titik ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "elsa-direktur-sdm-hera-handayani-mundur-tunggu-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "ELSA: Direktur SDM Hera Handayani [Mundur], Tunggu RUPSLB",
+  "deck": "Direktur Sumber Daya Manusia dan Umum Elnusa, Hera Handayani, mengajukan pengunduran diri pada 20 Agustus 2026, efektif setelah disetujui RUPS berikutnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:25:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/65f00c7421_0ca25078c5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "direksi",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Elnusa Tbk menyampaikan bahwa Hera Handayani, Direktur Sumber Daya Manusia dan Umum perseroan, telah mengajukan surat pengunduran diri yang diterima perusahaan pada 20 Agustus 2026. Perseroan menyatakan pengunduran diri ini baru akan berlaku efektif setelah mendapat persetujuan dalam Rapat Umum Pemegang Saham berikutnya, bukan seketika saat surat diterima.",
+   "Dalam keterbukaan informasi yang dikirim ke Otoritas Jasa Keuangan, Elnusa menyebut kejadian ini tidak berdampak terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan. Laporan tidak menyebutkan alasan pengunduran diri maupun nama calon pengganti Hera Handayani di kursi Direktur Sumber Daya Manusia dan Umum.",
+   "Pengunduran diri ini muncul tak lama setelah Elnusa mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa pada 9 September 2026 untuk membahas perombakan susunan pengurus perseroan, sehingga kedua peristiwa ini kemungkinan besar saling terkait."
+  ],
+  "fotoAdegan": "Technicians in orange coveralls inspecting drilling support equipment at an onshore oilfield service yard, midday sun",
+  "takeaway": "Laporan ini netral bagi Elnusa karena hanya menyangkut mundurnya satu direktur di bidang sumber daya manusia dan umum, tanpa alasan yang diungkap, dan perusahaan sendiri menegaskan tidak ada dampak terhadap operasional maupun keuangan. Pasar tetap memperhatikan pergantian direksi karena posisi ini mengurus jalannya operasional internal perusahaan, termasuk urusan pegawai dan administrasi umum, sehingga siapa yang mengisi kursi ini bisa memengaruhi arah kebijakan internal meski tidak langsung tercermin di laporan keuangan seperti ekuitas atau arus kas. Pengunduran diri baru sah setelah disetujui RUPS, dan Elnusa kebetulan sudah menjadwalkan RUPSLB pada 9 September 2026 untuk membahas perombakan pengurus, sehingga forum itu yang akan menentukan pengganti Hera Handayani sekaligus mengesahkan kepergiannya. Investor perlu menunggu hasil RUPSLB tersebut untuk melihat apakah ini bagian dari penataan ulang manajemen yang lebih luas atau sekadar pergantian rutin.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-terima-rp746-7-m-dari-dividen-interim-amp",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Terima Rp746,7 M dari [Dividen] Interim AMP",
+  "deck": "AMP, anak usaha yang 94,93 persen sahamnya dimiliki TAPG, membagikan dividen interim Rp786,6 miliar. Bagian TAPG diperkirakan sekitar Rp746,7 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:13:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eb69ac6855_cd3001c90a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "dividen interim",
+   "transaksi afiliasi",
+   "Agro Multi Persada"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan transaksi afiliasi berupa pembagian dividen interim oleh anak usaha terkendalinya, PT Agro Multi Persada (AMP), senilai total Rp786.602.279.000. Keputusan ini diambil direksi AMP setelah memperoleh persetujuan dewan komisaris AMP pada 21 Agustus 2026, hari yang sama dengan tanggal transaksi.",
+   "Dividen tersebut dibagikan sesuai porsi kepemilikan saham di AMP. TAPG, sebagai pemegang saham mayoritas dengan 94,93 persen, berhak atas bagian terbesar, sekitar Rp746,7 miliar. Tiga pemegang saham minoritas AMP lainnya turut menerima bagian sesuai porsinya: PT Tri Nur Cakrawala (1,97 persen saham) memperoleh sekitar Rp15,5 miliar, PT Triputra Investindo Arya (1,91 persen saham) sekitar Rp15 miliar, dan PT Daya Adicipta Mustika (1,19 persen saham) sekitar Rp9,4 miliar.",
+   "Dalam laporannya ke Otoritas Jasa Keuangan, TAPG menyatakan transaksi ini merupakan transaksi afiliasi sesuai POJK No 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, dan menegaskan bahwa transaksi tidak berdampak material bagi perseroan."
+  ],
+  "fotoAdegan": "Rows of oil palm fruit bunches stacked at a plantation collection point, workers loading a truck, tropical morning light",
+  "takeaway": "Laporan ini netral bagi TAPG, karena dividen dari AMP hanya memindahkan kas yang sebelumnya sudah tercatat sebagai laba anak usaha ke kas induk perusahaan, bukan tambahan laba baru bagi grup secara keseluruhan. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk ke rekening TAPG, karena sekitar Rp746,7 miliar dari total dividen itu menjadi hak TAPG sesuai porsi kepemilikannya di AMP, dan pelaku pasar memperhatikan arus kas karena ia menunjukkan seberapa besar kas yang bisa dipakai induk perusahaan, berbeda dari laba di atas kertas. Perseroan sendiri menegaskan transaksi ini tidak berdampak material. Yang perlu dipantau berikutnya adalah bagaimana TAPG memanfaatkan tambahan kas di level induk ini, misalnya untuk pembayaran dividen ke pemegang saham publik atau pengurangan utang, yang baru akan terlihat pada laporan keuangan kuartal berikutnya karena dokumen ini tidak menyebut rencana penggunaan dana atau tenggat baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smkm-jawab-bursa-siapkan-rights-issue-dalam-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "SMKM Jawab Bursa, Siapkan [Rights Issue] dalam 3 Bulan",
+  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, SMKM membantah punya info material tapi mengungkap rencana rights issue dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:01:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cbfe541260_8f2bb2a5f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMKM",
+  "tags": [
+   "SMKM",
+   "rights issue",
+   "PMHMETD",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Sumber Mas Konstruksi Tbk (SMKM) merespons surat permintaan penjelasan dari Bursa Efek Indonesia nomor S-10873/BEI.PP1/08-2026 terkait volatilitas transaksi sahamnya. Dalam surat bernomor 061.02/SMKM/VIII/2026 tertanggal 24 Agustus 2026 yang ditandatangani Corporate Secretary Budi Aris, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material sesuai Peraturan OJK No. 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI yang dapat mempengaruhi harga sahamnya. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK No. 4 Tahun 2024, dan telah mengonfirmasi langsung ke pemegang saham utama dan pengendali bahwa tidak ada rencana perubahan kepemilikan saham dari pihak tersebut.",
+   "Meski begitu, dalam poin keempat surat itu, SMKM mengungkapkan rencana aksi korporasi berupa Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD) atau rights issue, yang akan dilakukan dalam waktu dekat, yaitu paling tidak dalam tiga bulan ke depan sejak tanggal surat. Perseroan belum merinci berapa jumlah saham baru yang akan diterbitkan, harga pelaksanaan, maupun rencana penggunaan dana hasilnya. SMKM hanya menyebutkan bahwa detail rencana tersebut akan disampaikan sesuai peraturan pasar modal dan perundang-undangan yang berlaku.",
+   "Perseroan menutup surat dengan menegaskan bahwa sampai tanggal surat disampaikan, tidak ada informasi atau fakta penting lain yang material dan dapat mempengaruhi harga efek serta kelangsungan usaha perseroan yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete at a mid-rise building site in Jakarta, tower crane overhead, midday light",
+  "takeaway": "Penilaian kami netral untuk saat ini, karena rencana rights issue baru diumumkan sebagai niat tanpa rincian jumlah saham, harga pelaksanaan, atau tujuan penggunaan dana, sehingga dampaknya bagi perseroan belum bisa diukur. Yang tersentuh nantinya adalah jumlah saham beredar dan laba per saham: rights issue berarti perseroan menawarkan saham baru lebih dulu kepada pemegang saham lama, dan begitu saham baru itu terbit, jumlah saham beredar bertambah sehingga laba per saham bisa terdilusi kalau laba perusahaan tidak naik sebanding. Di sisi lain, dana segar dari rights issue juga bisa dipakai memperkuat modal kerja atau membayar utang, tapi itu baru bisa dinilai kalau perseroan sudah membuka tujuan penggunaan dananya. Yang perlu dipantau berikutnya adalah pengumuman rinci PMHMETD ini, termasuk rasio dan harga penawaran, yang menurut suratnya akan menyusul dalam tiga bulan ke depan sejak 24 Agustus 2026, serta kemungkinan RUPSLB untuk meminta persetujuan pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Jadwalkan [RUPSLB] pada 30 September 2026",
+  "deck": "Bank Amar Indonesia menjadwalkan RUPSLB pada 30 September 2026, sementara pemanggilan resmi berisi agenda rapat baru akan diumumkan 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:16:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9dabeaa_caf20655e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAR",
+  "tags": [
+   "AMAR",
+   "RUPSLB",
+   "Bank Amar Indonesia",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Amar Indonesia Tbk (AMAR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026 pukul 14.00 WIB. Rapat akan digelar secara fisik di kantor pusat perseroan sekaligus elektronik. Pemberitahuan ini ditandatangani Corporate Secretary AMAR, Elsa Enda Dwita Purba, pada 24 Agustus 2026. Dokumen ini baru sebatas pemberitahuan jadwal, belum memuat agenda atau mata acara rapat.",
+   "Pemanggilan resmi yang akan berisi agenda RUPSLB dijadwalkan diumumkan pada Selasa, 8 September 2026 melalui situs KSEI, aplikasi eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi perseroan. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan dan atau pemegang saham pada sub-rekening efek di KSEI per Senin, 7 September 2026 pukul 16.00 WIB.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat. Pemegang saham atau kelompok pemegang saham yang menguasai sekurang-kurangnya 1/20 bagian dari total saham dengan hak suara sah dapat mengajukan usulan tertulis melalui surat tercatat, disertai alasan dan bahan pendukung, paling lambat diterima Direksi pada Selasa, 1 September 2026 pukul 16.00 WIB. Pemegang saham dapat hadir dan memberikan suara secara elektronik lewat eASY.KSEI atau sistem e-Proxy dan e-Voting KSEI, yang tersedia sejak tanggal pemanggilan hingga Selasa, 29 September 2026 pukul 12.00 WIB, mengingat perseroan membatasi jumlah peserta yang hadir fisik karena keterbatasan tempat."
+  ],
+  "fotoAdegan": "Exterior of a modern digital bank office building in Jakarta, employees entering through glass doors in early morning light",
+  "takeaway": "Laporan ini netral bagi emiten karena baru sebatas pemberitahuan jadwal rapat, belum ada agenda atau angka yang bisa dinilai dampaknya terhadap kinerja AMAR. RUPS luar biasa lazimnya dipakai untuk memutuskan aksi korporasi seperti penerbitan saham baru, perubahan modal, atau pergantian pengurus, yang bisa mengubah jumlah saham beredar dan menggerus laba per saham pemegang lama jika benar terjadi, tetapi dokumen ini belum menyebutkan mata acara tersebut. Yang perlu dipantau adalah pemanggilan resmi pada Selasa, 8 September 2026, karena di situlah agenda rapat baru akan diungkap. Pemegang saham yang tercatat di Daftar Pemegang Saham per Senin, 7 September 2026 pukul 16.00 WIB berhak hadir, sementara RUPSLB sendiri berlangsung Rabu, 30 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
+  "category": "Aksi Korporasi",
+  "title": "XDES: BRI-MI Ganti [Pengendali], Rencana Gabung ke Mandiri MI",
+  "deck": "PT Danantara Asset Management mengambil alih saham BRI Manajemen Investasi dari BRI dan Danareksa, sebelum BRIMI digabung ke Mandiri Manajemen Investasi pada 1 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:05:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/feb3e70b44_021867da8e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDES",
+  "tags": [
+   "XDES",
+   "BRIMI",
+   "Danantara Asset Management",
+   "Merger Manajer Investasi"
+  ],
+  "body": [
+   "PT BRI Manajemen Investasi (BRIMI), pengelola Reksa Dana Syariah BRI MI Gold ETF Syariah (XDES) dan Reksa Dana BRI ETF Indonesia Top 40 (XDIF), melaporkan bahwa pada 22 Juli 2026 terjadi pengambilalihan saham BRIMI yang sebelumnya dimiliki PT Bank Rakyat Indonesia (Persero) Tbk dan PT Danareksa (Persero). Saham tersebut kini diambil alih oleh PT Danantara Asset Management (PT DAM), yang mengakibatkan perubahan pengendalian atas BRIMI dengan PT DAM sebagai pengendali baru.",
+   "Selain perubahan pengendali, BRIMI juga tengah menjalani rencana penggabungan bersama PT BNI Asset Management dan PT PNM Investment Management ke dalam PT Mandiri Manajemen Investasi, yang akan menjadi entitas penerima penggabungan. Estimasi tanggal efektif penggabungan adalah 1 September 2026, dengan syarat masih harus diperoleh persetujuan pemegang saham dari seluruh perusahaan manajemen investasi yang terlibat, penandatanganan akta penggabungan, serta terbitnya persetujuan atau penerimaan pemberitahuan dari Kementerian Hukum Republik Indonesia. Sejak tanggal efektif tersebut, seluruh hak dan kewajiban BRIMI berdasarkan perjanjian, Kontrak Investasi Kolektif, dan prospektus yang sudah ada akan tetap berlaku dan dilanjutkan oleh Mandiri Manajemen Investasi.",
+   "BRIMI menegaskan bahwa pengambilalihan saham maupun rencana penggabungan ini tidak berdampak pada pengelolaan Reksa Dana ETF, termasuk XDES dan XDIF. Tidak ada pengakhiran atau perubahan atas syarat dan ketentuan dalam Kontrak Investasi Kolektif maupun prospektus yang berlaku, sehingga hak pemegang unit penyertaan disebut tetap terjaga. Laporan disampaikan secara elektronik oleh Luthfi Azizul Hakim selaku IT & Operations Division Head BRIMI kepada Bursa Efek Indonesia pada 21 Agustus 2026, dengan surat aslinya turut mencantumkan nama Arief Budiman sebagai Direktur Utama BRIMI."
+  ],
+  "fotoAdegan": "Stacked gold bars inside a bank vault, soft overhead lighting, security bars visible, no visible text or labels",
+  "takeaway": "Laporan ini netral bagi pemegang unit XDES dan XDIF: yang berubah adalah pengendali dan badan hukum di balik manajer investasi, bukan aset atau ketentuan pengelolaan dana itu sendiri, sehingga tidak bisa dibaca sebagai sinyal positif atau negatif atas kinerja produk. Yang tersentuh sebenarnya bukan pos kinerja keuangan seperti ekuitas atau laba, melainkan kontinuitas kelembagaan, BRIMI menegaskan Kontrak Investasi Kolektif dan prospektus tetap berlaku apa adanya sehingga hak pemegang unit atas dana kelolaan tidak berubah, dan itulah yang biasanya diperhatikan pelaku pasar dalam konsolidasi semacam ini yaitu apakah tim pengelola dan kebijakan investasi tetap konsisten pasca merger. Yang perlu dipantau berikutnya adalah tanggal efektif penggabungan yang ditaksir 1 September 2026, karena masih bergantung pada persetujuan pemegang saham dari seluruh perusahaan manajemen investasi yang terlibat, penandatanganan akta penggabungan, dan terbitnya persetujuan dari Kementerian Hukum RI, sehingga jadwal itu masih bisa bergeser kalau salah satu syarat belum rampung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "xdif-pengendali-brimi-berganti-merger-ke-mandiri-mi-1-sept",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Pengendali BRIMI Berganti, [Merger] ke Mandiri MI 1 Sept",
+  "deck": "Manajer investasi ETF XDIF diambil alih Danantara Asset Management dan akan bergabung dengan BNI AM serta PNM IM ke Mandiri Manajemen Investasi mulai 1 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:04:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a6d85a2607_b33376081c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDIF",
+  "tags": [
+   "XDIF",
+   "BRIMI",
+   "Danantara Asset Management",
+   "merger manajer investasi"
+  ],
+  "body": [
+   "PT BRI Manajemen Investasi (BRIMI), manajer investasi dari Reksa Dana BRI ETF Indonesia Top 40 (XDIF) sekaligus reksa dana syariah BRI-MI Gold ETF Syariah (XDES), melaporkan bahwa pada 22 Juli 2026 terjadi pengambilalihan saham BRIMI oleh PT Danantara Asset Management (PT DAM). Saham yang sebelumnya dimiliki PT Bank Rakyat Indonesia (Persero) Tbk dan PT Danareksa (Persero) beralih kepada PT DAM, yang sejak transaksi tersebut menjadi pengendali baru BRIMI.",
+   "Selain perubahan pengendali, BRIMI juga tengah menjalani rencana penggabungan bersama PT BNI Asset Management dan PT PNM Investment Management. Ketiganya akan melebur ke PT Mandiri Manajemen Investasi, yang berperan sebagai perusahaan penerima penggabungan. Estimasi tanggal efektif penggabungan adalah 1 September 2026, dengan syarat sudah diperolehnya persetujuan pemegang saham dari seluruh perusahaan manajer investasi yang terlibat, penandatanganan akta penggabungan, serta persetujuan atau penerimaan pemberitahuan dari Menteri Hukum Republik Indonesia. Sejak tanggal efektif itu, seluruh hak dan kewajiban BRIMI berdasarkan kontrak dan prospektus yang ada, termasuk yang terkait XDIF, akan dilanjutkan oleh Mandiri Manajemen Investasi.",
+   "BRIMI menegaskan aksi korporasi di tingkat pemegang saham ini tidak mengubah Kontrak Investasi Kolektif maupun prospektus XDIF, dan pengelolaan reksa dana akan tetap berjalan tanpa gangguan operasional. Surat keterbukaan informasi ini ditandatangani Arief Budiman selaku Direktur Utama BRIMI pada 21 Agustus 2026, dan disampaikan ke Bursa Efek Indonesia oleh Edwin Basir Latuconsina selaku Associate Director."
+  ],
+  "fotoAdegan": "Wide shot of glass-clad high-rise office towers in Jakarta's Sudirman business district, street level, late afternoon light.",
+  "takeaway": "Laporan ini netral bagi pemegang unit penyertaan XDIF karena yang berubah hanya pemilik dan pengelola manajer investasinya, bukan portofolio saham yang mendasari ETF ini, dan BRIMI sendiri menegaskan kontrak pengelolaan tidak berubah. Yang tersentuh adalah struktur kepemilikan Kontrak Investasi Kolektif, yaitu perjanjian dasar yang mengatur hak dan kewajiban antara manajer investasi dengan pemegang unit, bukan ekuitas atau arus kas emiten-emiten yang sahamnya ada di dalam portofolio XDIF. Konsolidasi ini juga bagian dari penggabungan empat manajer investasi pelat merah, yaitu BRIMI, BNI Asset Management, dan PNM Investment Management, ke dalam Mandiri Manajemen Investasi, sehingga skalanya lebih besar dari sekadar urusan administratif satu ETF. Yang perlu dipantau adalah tanggal efektif penggabungan yang diperkirakan 1 September 2026, yang masih bergantung pada persetujuan pemegang saham dari keempat perusahaan, penandatanganan akta penggabungan, dan persetujuan Menteri Hukum RI. Investor XDIF sebaiknya memeriksa apakah nama manajer investasi pada laporan atau prospektus berikutnya sudah berpindah ke Mandiri Manajemen Investasi setelah tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-terstruktur-bbca-usai-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran Terstruktur] BBCA Usai Dividen Tunai",
+  "deck": "PT Korea Investment and Sekuritas Indonesia mengubah rasio dan harga pelaksanaan waran BBCABQCU6A dan BBCABQCX6A menyusul dividen tunai BBCA Rp50 per saham yang dibayar 16 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T14:52:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec4b3d4917_a97d335541.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ), selaku penerbit waran terstruktur BBCABQCU6A dan BBCABQCX6A, mengumumkan penyesuaian syarat dan ketentuan kedua instrumen tersebut menyusul keterbukaan informasi PT Bank Central Asia Tbk (BBCA) pada 19 Agustus 2026. Direksi BBCA yang telah disetujui Dewan Komisaris pada tanggal yang sama memutuskan membagikan dividen tunai untuk tahun buku 2025 senilai total Rp3.071.043.782.500, atau setara Rp50 per saham.",
+   "Jadwal pembagian dividen BBCA ditetapkan sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 28 Agustus 2026, ex dividen pada 31 Agustus 2026, sementara di pasar tunai cum dividen jatuh pada 1 September 2026 dan ex dividen pada 2 September 2026. Daftar pemegang saham yang berhak menerima dividen ditutup pada 1 September 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat 16 September 2026.",
+   "Berdasarkan Term Sheet dan Bagian 3.9 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan BBCABQCU6A serta BBCABQCX6A akan dihitung ulang memakai rumus yang melibatkan harga penutupan BBCA pada hari bursa terakhir diperdagangkan secara cum-entitlement, nilai dividen per saham, serta rasio dan harga pelaksanaan lama. BQ menyatakan berhak untuk tidak melakukan penyesuaian apabila menilai hal itu tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran. Pengumuman ini diterbitkan di Jakarta pada 24 Agustus 2026 dan ditandatangani secara elektronik oleh Eric Gunawan, Senior Manager BQ."
+  ],
+  "fotoAdegan": "Glass facade of a modern bank headquarters tower reflecting Jakarta's skyline in late afternoon light, low angle.",
+  "takeaway": "Netral bagi BQ, karena ini murni mekanisme teknis mengikuti aksi korporasi BBCA, bukan cerminan kinerja atau keputusan bisnis BQ sendiri. Yang tersentuh adalah rasio pelaksanaan dan harga pelaksanaan waran, yakni angka yang menentukan berapa saham BBCA bisa diperoleh pemegang waran dan berapa harga yang harus dibayar saat menukarkannya; dividen membuat harga saham BBCA turun otomatis setelah tanggal ex dividen, sehingga rasio dan harga itu perlu disesuaikan supaya nilai ekonomis waran tidak berubah akibat dividen. Yang perlu dipantau berikutnya adalah harga penutupan BBCA pada hari bursa terakhir cum-entitlement sekitar 28 Agustus 2026, karena angka itu yang akan menentukan besaran pasti penyesuaian, serta kepastian apakah BQ benar melakukan penyesuaian atau memilih opsi diskresi untuk tidak menyesuaikan, dan tanggal pembayaran dividen BBCA pada 16 September 2026 sebagai penutup siklus ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
   "category": "Aksi Korporasi",
   "title": "BMBL: Pemegang Saham Lepas [43 Juta] Saham Lewat Repo",
@@ -580,7 +788,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:26:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",

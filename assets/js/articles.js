@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham Lepas [43 Juta] Saham Lewat Repo",
+  "deck": "AMMAR AL AMANAH melepas 43 juta saham BMBL senilai sekitar Rp1,21 miliar lewat empat transaksi repurchase agreement, memangkas hak suaranya dari 23,19% menjadi 19,02%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T14:33:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2952-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMBL",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "body": [
+   "AMMAR AL AMANAH, pemegang saham PT Lavender Bina Cendikia Tbk (BMBL) yang bukan anggota direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan pada 24 Agustus 2026 bahwa kepemilikannya di BMBL berkurang dari 238.903.900 lembar saham menjadi 195.903.900 lembar saham, turun 43 juta lembar. Akibatnya, hak suaranya di perusahaan turun dari 23,19 persen menjadi 19,02 persen.",
+   "Penurunan itu berasal dari empat transaksi penjualan yang seluruhnya berstatus repurchase agreement, yaitu skema jual saham dengan kemungkinan dibeli kembali di kemudian hari. Rinciannya, 8,4 juta saham terjual pada 19 Agustus 2026 seharga Rp29 per saham, kemudian pada 20 Agustus 2026 menyusul penjualan 12 juta saham seharga Rp28, 11,6 juta saham seharga Rp29, dan 11 juta saham seharga Rp27. Seluruh transaksi tercatat dengan tujuan rebalancing portofolio, dengan total nilai sekitar Rp1,21 miliar.",
+   "Laporan disampaikan lewat sistem pelaporan KSEI sesuai POJK Nomor 4/2024 tentang kewajiban lapor kepemilikan dan perubahan kepemilikan saham perusahaan terbuka. Saham yang dilepas berstatus kepemilikan langsung atas nama AMMAR AL AMANAH, warga negara Indonesia."
+  ],
+  "fotoAdegan": "Silhouettes of professionals walking through a modern Jakarta financial district plaza at dusk, glass towers reflecting light",
+  "takeaway": "Laporan ini condong negatif bagi BMBL karena pemegang saham besarnya melepas hampir seperlima dari total kepemilikannya hanya dalam dua hari, sehingga hak suaranya turun cukup signifikan dari 23,19 persen menjadi 19,02 persen. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan jumlah saham beredar perusahaan, karena transaksi ini terjadi antar investor di pasar, bukan penerbitan saham baru oleh BMBL. Meski begitu, pelaku pasar tetap memperhatikan pergerakan pemegang saham besar semacam ini karena bisa menandakan perubahan keyakinan terhadap prospek perusahaan atau kebutuhan likuiditas pihak yang menjual. Perlu dicatat, seluruh transaksi berstatus repurchase agreement, yang berarti ada kemungkinan saham ini dibeli kembali oleh AMMAR AL AMANAH di kemudian hari sehingga penurunan kepemilikan ini bisa jadi bersifat sementara. Dokumen ini tidak mencantumkan tenggat pembelian kembali, jadi yang perlu dipantau adalah laporan kepemilikan berikutnya dari pelapor yang sama untuk melihat apakah saham tersebut dibeli ulang atau kepemilikannya terus menyusut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tnca-undang-rupslb-16-september-agenda-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Undang RUPSLB 16 September, Agenda [Perubahan] Direksi",
+  "deck": "Trimuda Nuansa Citra (TNCA) memanggil RUPSLB pada 16 September 2026 dengan agenda perubahan anggaran dasar dan susunan direksi atau komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T14:11:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0731fb0f7_b1909ee09d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TNCA",
+  "tags": [
+   "TNCA",
+   "RUPSLB",
+   "Direksi dan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Trimuda Nuansa Citra Tbk (TNCA) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 16 September 2026, pukul 14.00 WIB di Menara Hijau, Jalan Letjen M.T. Haryono Kavling 33, Cikoko, Pancoran, Jakarta Selatan. Pemanggilan disampaikan Corporate Secretary TNCA, Felicia Fanny, melalui surat bernomor 045/GED-CORSEC/SD/VIII/2026 tertanggal 24 Agustus 2026, menindaklanjuti surat rencana RUPS sebelumnya tertanggal 7 Agustus 2026.",
+   "Dua agenda akan dibahas dalam rapat ini. Pertama, persetujuan perubahan Pasal 3 Anggaran Dasar Perseroan tentang maksud dan tujuan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) versi 2025 yang baru diterbitkan pemerintah. Kedua, persetujuan perubahan susunan direksi dan/atau dewan komisaris perseroan, meski dokumen pemanggilan belum merinci nama-nama yang akan diganti atau diangkat.",
+   "Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa pada 21 Agustus 2026. Bahan rapat tersedia di kantor perseroan sejak 24 Agustus hingga hari pelaksanaan rapat. Pemegang saham dapat hadir secara fisik atau elektronik melalui aplikasi eASY.KSEI, dengan batas waktu pemberian suara elektronik paling lambat pukul 12.00 WIB pada 15 September 2026, yakni satu hari kerja sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a podium, tall windows overlooking a Jakarta office skyline, soft morning light",
+  "takeaway": "Pemanggilan RUPSLB ini netral bagi emiten karena sifatnya masih prosedural, mengumumkan rencana rapat tanpa merinci siapa yang akan masuk atau keluar dari jajaran direksi dan komisaris. Pos yang berpotensi tersentuh adalah tata kelola dan arah kebijakan perusahaan, karena pergantian direksi atau komisaris bisa mengubah strategi bisnis ke depan, sementara perubahan Pasal 3 Anggaran Dasar soal KBLI umumnya hanya penyesuaian klasifikasi usaha mengikuti standar baru pemerintah, bukan perubahan lini bisnis yang nyata. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 16 September 2026, terutama nama-nama yang diajukan untuk direksi dan komisaris baru, serta batas akhir pemberian suara elektronik pukul 12.00 WIB pada 15 September 2026 bagi pemegang saham yang ingin memakai haknya lewat aplikasi eASY.KSEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "SCPI: Direktur Yeap Xin Yi Mundur, Direksi [Berubah]",
+  "deck": "RUPSLB Organon Pharma Indonesia menyetujui pengunduran diri Direktur Yeap Xin Yi dan menetapkan susunan Direksi baru beranggotakan tiga orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T13:30:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6aea9c17b0_d2bc7cdacb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCPI",
+  "tags": [
+   "SCPI",
+   "Organon Pharma Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "body": [
+   "PT Organon Pharma Indonesia Tbk (SCPI) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 20 Agustus 2026 di Sinarmas MSIG Tower, Jakarta Selatan, yang berlangsung singkat dari pukul 14.22 hingga 14.34 WIB. Rapat memenuhi kuorum dengan dihadiri pemegang saham yang mewakili 3.556.336 saham, atau 98,787 persen dari total 3.600.000 saham yang telah dikeluarkan dan disetor penuh perseroan.",
+   "Agenda tunggal rapat adalah perubahan susunan Direksi. Pemegang saham menyetujui pengunduran diri Yeap Xin Yi dari jabatan Direktur, berlaku sejak rapat ditutup, sekaligus memberikan pembebasan dan pelunasan tanggung jawab penuh (acquit et de charge) atas tindakan pengurusan yang pernah dilakukannya, sepanjang tercermin dalam Laporan Tahunan dan Laporan Keuangan perseroan. Susunan Direksi setelah perubahan ini menjadi tiga orang: Daniel sebagai Presiden Direktur, Andri Soelastyo dan Yohanes Indrayana sebagai Direktur. Susunan Dewan Komisaris tidak berubah, yaitu Andreas Daugaard Jorgensen sebagai Presiden Komisaris, Erwin Agung sebagai Komisaris, dan Edward Tanujaya sebagai Komisaris Independen.",
+   "Seluruh keputusan disetujui secara musyawarah mufakat tanpa ada pemegang saham yang menyatakan tidak setuju atau abstain, sehingga hasil pemungutan suara tercatat 100 persen setuju. Rapat juga memberikan kuasa dan wewenang dengan hak substitusi kepada Direksi untuk menuangkan keputusan ini ke dalam akta notaris serta melaporkannya ke instansi berwenang. Berita Acara Rapat tercatat dengan Nomor 179 tanggal 20 Agustus 2026 yang dibuat oleh Notaris Jimmy Tanal, S.H., M.Kn., sementara salinan aktanya masih dalam proses penyelesaian."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a long table and leather chairs, floor-to-ceiling windows overlooking a Jakarta office district, afternoon light.",
+  "takeaway": "Ini murni pergantian pengurus, bukan sinyal soal kondisi keuangan perseroan, jadi sifatnya netral bagi SCPI. Perubahan direksi seperti ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, tapi tetap dipantau pelaku pasar karena kestabilan tim manajemen memengaruhi kesinambungan strategi dan operasional perusahaan farmasi ini. Yang perlu dipantau berikutnya adalah rampungnya salinan akta notaris Berita Acara Rapat Nomor 179 dan pelaporan resmi susunan Direksi baru ke instansi berwenang seperti OJK dan Kementerian Hukum dan HAM, yang akan menjadi dasar hukum berlakunya perubahan ini secara penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "emtk-lepas-99-99-saham-anak-usaha-aca-ke-yuslinda-nasution",
+  "category": "Aksi Korporasi",
+  "title": "EMTK [Lepas] 99,99% Saham Anak Usaha ACA ke Yuslinda Nasution",
+  "deck": "Elang Mahkota Teknologi menjual seluruh sahamnya di PT Abhimata Citra Abadi, mengalihkan pengendalian dan menghentikan konsolidasi laporan keuangan anak usaha itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T13:06:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4bc7831137_6cdf75fbf1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMTK",
+  "tags": [
+   "EMTK",
+   "divestasi anak usaha",
+   "ACA",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Elang Mahkota Teknologi Tbk (EMTK) menjual 100.090 saham miliknya di PT Abhimata Citra Abadi (ACA), setara 99,99 persen dari seluruh modal ditempatkan dan disetor ACA, kepada Yuslinda Nasution. Transaksi ini tercatat dalam Akta Jual Beli Saham Nomor 61 tertanggal 20 Agustus 2026 yang dibuat di hadapan notaris Stephanie Wilamarta, S.H. di Jakarta, dan sudah efektif berlaku pada tanggal yang sama.",
+   "Dengan rampungnya penjualan ini, pengendalian langsung atas ACA beralih dari EMTK kepada Yuslinda Nasution. Perseroan menyebut langkah ini sebagai bagian dari strategi mengoptimalkan struktur investasi dan pengelolaan portofolio usahanya, dan menyatakan transaksi tidak menimbulkan dampak material yang merugikan bagi operasional, kondisi hukum, keuangan, maupun kelangsungan usaha EMTK. Sejak penjualan efektif, laporan keuangan ACA tidak lagi dikonsolidasikan ke dalam laporan keuangan EMTK.",
+   "Dokumen keterbukaan ini tidak mengungkapkan harga jual atau nilai transaksi penjualan saham tersebut. Angka Rp10.009.000.000 yang disebutkan adalah nilai nominal saham yang dijual, bukan harga jualnya. Laporan ditandatangani oleh Corporate Secretary EMTK, Titi Maria Rusli, dan disampaikan ke OJK serta Bursa Efek Indonesia sesuai kewajiban keterbukaan informasi berdasarkan POJK No. 31/POJK.04/2015."
+  ],
+  "fotoAdegan": "Glass corporate office towers in Jakarta's business district at dusk, skyline reflections, wide street-level view",
+  "takeaway": "Penilaian kami netral, sebab meski EMTK melepas seluruh 99,99 persen kepemilikannya di ACA sehingga anak usaha itu berpindah pengendalian, dokumen ini tidak menyebutkan harga jualnya sehingga belum bisa dinilai apakah transaksi ini menguntungkan atau merugikan EMTK. Yang tersentuh adalah pos konsolidasi laporan keuangan, karena aset, liabilitas, pendapatan, dan laba ACA akan hilang dari laporan keuangan gabungan EMTK ke depan, dan dampaknya ke ekuitas serta arus kas EMTK baru bisa dihitung kalau nilai transaksinya diungkap. Yang perlu dipantau berikutnya adalah laporan keuangan EMTK periode berjalan, yang akan memperlihatkan dampak nyata lepasnya ACA terhadap neraca dan hasil usaha perseroan, termasuk kemungkinan rincian nilai transaksi yang belum terbuka di laporan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "trus-bantah-ada-informasi-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "TRUS Bantah Ada Informasi Material soal [Volatilitas] Saham",
+  "deck": "Menjawab surat klarifikasi Bursa Efek Indonesia, Trust Finance Indonesia (TRUS) menyatakan tidak ada informasi material di balik pergerakan volatile transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T12:28:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96f3338378_41a8ee3985.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUS",
+  "tags": [
+   "TRUS",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "Trust Finance Indonesia Tbk (TRUS) mengirim surat penjelasan kepada Bursa Efek Indonesia setelah menerima permintaan klarifikasi bernomor S-10878/BEI.PP3/08-2026 terkait volatilitas transaksi efeknya. Dalam surat balasan bernomor E0463/TFI/VIII/2026 yang ditandatangani Corporate Secretary Windy Wijaya pada 24 Agustus 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan I-E Bursa Efek Indonesia.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham perusahaan terbuka, dan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Corporate Secretary menyebut sudah menanyakan langsung kepada pemegang saham utama, dan hasilnya tidak ada rencana perubahan kepemilikan saham dari pihak tersebut.",
+   "Selain itu, TRUS menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Traders walking briskly through a busy Jakarta financial district crosswalk, tall office towers in the background, midday light",
+  "takeaway": "Laporan ini netral bagi fundamental TRUS karena isinya murni klarifikasi rutin, tanpa ada angka transaksi, aksi korporasi, atau perubahan kepemilikan saham yang diungkapkan. Permintaan penjelasan semacam ini biasa dikirim bursa saat harga atau volume perdagangan suatu saham bergerak di luar kebiasaan, dan karena jawaban perseroan menyangkal adanya informasi material, tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang berubah akibat laporan ini. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi saham TRUS mereda setelah penjelasan ini terbit, atau bursa kembali mengirim permintaan klarifikasi jika pola pergerakan serupa berulang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
   "category": "Aksi Korporasi",
   "title": "BIKE [Suspensi] Saham Dicabut BEI Usai 4 Bulan",
@@ -26,6 +156,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers assembling battery packs for electric bicycles on an Indonesian factory assembly line under industrial lighting",
   "takeaway": "Pencabutan suspensi ini netral bagi fundamental BIKE, sebab dokumennya hanya menyatakan bursa menganggap keterbukaan informasi soal perubahan pengendalian sudah cukup lengkap, bukan penilaian atas untung ruginya transaksi yang mendasarinya. Yang perlu diperhatikan justru pos di baliknya, yaitu struktur utang perusahaan, karena riwayat pemberitaan kami sebelumnya menyebut akuisisi enam anak usaha BIKE dibiayai penuh dari pinjaman pihak afiliasi, dan beban bunga dari utang semacam itu bisa menggerus laba bersih jika tidak diimbangi pendapatan baru dari anak usaha yang diakuisisi. Investor juga perlu tahu bahwa suspensi berlangsung hampir empat bulan, dari 30 April sampai 24 Agustus 2026, jeda yang cukup panjang bagi pemegang saham yang selama itu tidak bisa memperjualbelikan sahamnya sama sekali. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari BIKE soal detail dan syarat pinjaman dari PT Penajam Makmur Jaya, karena bursa sendiri secara eksplisit meminta publik terus mencermati pengumuman-pengumuman perusahaan setelah suspensi ini dicabut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "goto-rafly-umarsyah-tambah-kepemilikan-saham-jadi-2-200-unit",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Rafly Umarsyah Tambah [Kepemilikan] Saham Jadi 2.200 Unit",
+  "deck": "Pelapor non-direksi/komisaris GOTO menambah 1.900 unit saham lewat pembelian tidak langsung, dari 300 menjadi 2.200 unit, hak suara tetap 0,00%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T11:32:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2380-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOTO",
+  "tags": [
+   "GOTO",
+   "kepemilikan saham",
+   "hak suara multiple",
+   "OJK"
+  ],
+  "body": [
+   "PT GoTo Gojek Tokopedia Tbk (GOTO) menerima laporan keterbukaan informasi dari Rafly Umarsyah, yang bukan anggota direksi maupun dewan komisaris perusahaan, mengenai perubahan kepemilikan sahamnya. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 24 Agustus 2026, jumlah saham GOTO yang dimiliki Rafly bertambah dari 300 unit menjadi 2.200 unit, atau naik 1.900 unit.",
+   "Penambahan itu berasal dari pembelian saham secara tidak langsung pada 24 Agustus 2026, dengan harga Rp50 per saham untuk tujuan investasi. Saham yang dibeli tercatat sebagai saham dengan hak suara multiple, kelas saham khusus yang memberi bobot suara lebih besar dibanding saham biasa dan biasanya dipegang oleh pihak yang dekat dengan manajemen atau pendiri perusahaan. Meski jumlah unit yang dimiliki Rafly melonjak lebih dari enam kali lipat, porsi hak suaranya di GOTO tercatat 0,00% baik sebelum maupun sesudah transaksi.",
+   "Total nilai transaksi pembelian ini sekitar Rp95.000, hasil perkalian harga Rp50 dengan 1.900 unit saham yang dibeli. Laporan tidak mencantumkan jabatan resmi Rafly di lingkungan GOTO."
+  ],
+  "fotoAdegan": "A Gojek-style motorcycle courier navigating busy Jakarta traffic at golden hour, helmet and jacket visible, urban backdrop",
+  "takeaway": "Laporan ini netral bagi GOTO karena skalanya sangat kecil, baik dari sisi nilai rupiah maupun porsi hak suara, sehingga tidak mencerminkan pergeseran kendali atau sinyal keyakinan berarti terhadap saham perusahaan. Pelaku pasar biasanya mencermati perubahan kepemilikan dan hak suara karena itu bisa menunjukkan siapa yang punya kendali atas keputusan strategis perusahaan, tapi di sini hak suara pelapor tetap tercatat 0,00% sebelum dan sesudah transaksi, artinya porsinya terhadap total saham beredar GOTO nyaris tidak berubah meski secara pribadi kepemilikannya naik dari 300 ke 2.200 unit. Yang perlu dipantau selanjutnya adalah apakah pola pembelian kecil semacam ini berlanjut lewat laporan kepemilikan berikutnya, karena dokumen ini sendiri tidak memuat agenda korporasi seperti RUPS atau tenggat lain yang perlu ditindaklanjuti investor.",
   "sentimen": "netral"
  },
  {
@@ -231,6 +387,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior driveway of a modern private hospital with an ambulance parked under a covered entrance, early morning light",
   "takeaway": "Laporan ini netral bagi HEAL karena ukurannya kecil, kepemilikan Hasmoro hanya bertambah kurang dari 0,1 persen dan hak suaranya tetap di 5,04 persen, jadi tidak mengubah peta kendali perusahaan. Transaksi orang dalam seperti ini biasa dipantau pasar sebagai sinyal keyakinan pengurus terhadap prospek perusahaan, karena menyangkut jumlah saham beredar yang dipegang manajemen, tetapi nilai sekecil ini terlalu tipis untuk dibaca sebagai pernyataan sikap. Ini juga merupakan pembelian kedua oleh Hasmoro dalam waktu kurang dari sepekan, setelah laporan serupa pada 18 Agustus 2026 untuk penambahan 1,3 juta saham, sehingga polanya menunjukkan akumulasi bertahap meski masih dalam skala kecil. Yang perlu dipantau berikutnya adalah apakah pembelian bertahap ini berlanjut di laporan KSEI selanjutnya hingga mulai memengaruhi komposisi hak suara secara berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vrna-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "VRNA Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "Mizuho Leasing Indonesia menyatakan tidak memiliki informasi material yang menjelaskan pergerakan transaksi sahamnya setelah ditegur bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:06:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f9315cec94_27fc5ff050.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VRNA",
+  "tags": [
+   "VRNA",
+   "Mizuho Leasing Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Mizuho Leasing Indonesia Tbk (VRNA) mengirim surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi bursa melalui surat nomor S-10875/BEI.PP1/08-2026 tanggal 20 Agustus 2026 perihal volatilitas transaksi efek perseroan. Artinya, bursa mencatat pergerakan harga atau volume perdagangan saham VRNA yang dianggap tidak biasa dan meminta perusahaan mengonfirmasi apakah ada informasi tersembunyi di baliknya.",
+   "Dalam jawabannya yang ditandatangani Corporate Secretary Fransisca Y Gunawan dan diteken Direktur Utama Takeshi Kurioka, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga sahamnya, sesuai ketentuan POJK Nomor 31/POJK.04/2015 dan Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan, dan tidak menerima informasi apa pun dari pengendali atau pemegang saham utama terkait rencana kepemilikan sahamnya.",
+   "Perseroan menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik. Dengan kata lain, jawaban VRNA ke bursa seluruhnya berisi penyangkalan atas enam poin pertanyaan standar yang biasa diajukan BEI setiap kali sebuah saham mengalami pergerakan tidak wajar."
+  ],
+  "fotoAdegan": "Exterior view of a glass-fronted high-rise office tower in Jakarta's business district, traffic passing below, late afternoon light",
+  "takeaway": "Surat ini netral bagi fundamental VRNA karena isinya seluruhnya penyangkalan, tidak ada angka baru, transaksi, atau rencana korporasi yang diungkapkan yang bisa mengubah penilaian atas kinerja perusahaan. Surat semacam ini dipicu oleh pemantauan bursa atas pergerakan harga atau volume perdagangan saham di pasar, bukan oleh perubahan pos kinerja seperti ekuitas, arus kas, atau laba per saham, jadi tidak ada yang tersentuh di laporan keuangan perseroan. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham VRNA mereda atau justru berlanjut dalam beberapa pekan ke depan, sebab perseroan sendiri menyebut tidak punya rencana aksi korporasi dalam tiga bulan mendatang sehingga penjelasan atas volatilitas ini seharusnya menjadi penutup sementara isu tersebut kecuali muncul keterbukaan informasi baru.",
   "sentimen": "netral"
  },
  {

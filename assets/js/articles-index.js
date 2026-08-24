@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "BMBL: Pemegang Saham Lepas [43 Juta] Saham Lewat Repo",
+  "deck": "AMMAR AL AMANAH melepas 43 juta saham BMBL senilai sekitar Rp1,21 miliar lewat empat transaksi repurchase agreement, memangkas hak suaranya dari 23,19% menjadi 19,02%.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMBL",
+   "kepemilikan saham",
+   "repurchase agreement",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2952-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tnca-undang-rupslb-16-september-agenda-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Undang RUPSLB 16 September, Agenda [Perubahan] Direksi",
+  "deck": "Trimuda Nuansa Citra (TNCA) memanggil RUPSLB pada 16 September 2026 dengan agenda perubahan anggaran dasar dan susunan direksi atau komisaris.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TNCA",
+   "RUPSLB",
+   "Direksi dan Komisaris",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0731fb0f7_b1909ee09d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "SCPI: Direktur Yeap Xin Yi Mundur, Direksi [Berubah]",
+  "deck": "RUPSLB Organon Pharma Indonesia menyetujui pengunduran diri Direktur Yeap Xin Yi dan menetapkan susunan Direksi baru beranggotakan tiga orang.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCPI",
+   "Organon Pharma Indonesia",
+   "RUPSLB",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6aea9c17b0_d2bc7cdacb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emtk-lepas-99-99-saham-anak-usaha-aca-ke-yuslinda-nasution",
+  "category": "Aksi Korporasi",
+  "title": "EMTK [Lepas] 99,99% Saham Anak Usaha ACA ke Yuslinda Nasution",
+  "deck": "Elang Mahkota Teknologi menjual seluruh sahamnya di PT Abhimata Citra Abadi, mengalihkan pengendalian dan menghentikan konsolidasi laporan keuangan anak usaha itu.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMTK",
+   "divestasi anak usaha",
+   "ACA",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4bc7831137_6cdf75fbf1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "trus-bantah-ada-informasi-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "TRUS Bantah Ada Informasi Material soal [Volatilitas] Saham",
+  "deck": "Menjawab surat klarifikasi Bursa Efek Indonesia, Trust Finance Indonesia (TRUS) menyatakan tidak ada informasi material di balik pergerakan volatile transaksi sahamnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUS",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96f3338378_41a8ee3985.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
   "category": "Aksi Korporasi",
   "title": "BIKE [Suspensi] Saham Dicabut BEI Usai 4 Bulan",
@@ -18,6 +98,22 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4c1076b851_5b24bb5e5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "goto-rafly-umarsyah-tambah-kepemilikan-saham-jadi-2-200-unit",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: Rafly Umarsyah Tambah [Kepemilikan] Saham Jadi 2.200 Unit",
+  "deck": "Pelapor non-direksi/komisaris GOTO menambah 1.900 unit saham lewat pembelian tidak langsung, dari 300 menjadi 2.200 unit, hak suara tetap 0,00%.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOTO",
+   "kepemilikan saham",
+   "hak suara multiple",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2380-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -146,6 +242,22 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-1158-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vrna-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "VRNA Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "Mizuho Leasing Indonesia menyatakan tidak memiliki informasi material yang menjelaskan pergerakan transaksi sahamnya setelah ditegur bursa.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VRNA",
+   "Mizuho Leasing Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f9315cec94_27fc5ff050.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6498,125 +6610,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/02b02d0cef_ca861638e7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal",
-  "category": "Energi",
-  "title": "Penyelundupan 23,79 Kg Emas Diduga Dipasok [Tambang] Ilegal",
-  "deck": "Bea Cukai gagalkan penyelundupan 23,793 kg emas senilai Rp63 miliar di Bandara Soetta. ESDM duga pemasoknya penambang tanpa izin dan janji perketat aturan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/penyelundupan-23-79-kg-emas-diduga-dipasok-tambang-ilegal.jpg",
-  "imageV": "mssbcqwl",
-  "tags": [
-   "emas",
-   "ESDM",
-   "penyelundupan",
-   "tambang ilegal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459783-penyuplai-penyelundupan-23793-kilogram-emas-diduga-penambang-ilegal-ini-yang-dikatakan-esdm"
- },
- {
-  "slug": "boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "BOBA perpanjang kontrak [enam bulan] dengan Quaker Indonesia",
-  "deck": "Formosa Ingredient Factory (BOBA) memperoleh perpanjangan kontrak produksi enam bulan dengan PT Quaker Indonesia, berlaku 1 Agustus 2026 hingga 31 Januari 2027, lewat adendum perjanjian.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/boba-perpanjang-kontrak-enam-bulan-dengan-quaker-indonesia.jpg",
-  "imageV": "msslux7b",
-  "tags": [
-   "BOBA",
-   "kontrak",
-   "Quaker Indonesia",
-   "adendum"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1a2eabbfb_c00b179813.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-panggil-rupst-4-september-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "SQMI Panggil RUPST 4 September, Bahas Perubahan [Direksi]",
-  "deck": "Wilton Makmur Indonesia (SQMI) memanggil RUPST pada 4 September 2026, dengan agenda perubahan susunan direksi dan penyesuaian anggaran dasar mengikuti klasifikasi usaha KBLI 2025.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/sqmi-panggil-rupst-4-september-bahas-perubahan-direksi.jpg",
-  "imageV": "msslvhm4",
-  "tags": [
-   "SQMI",
-   "RUPST",
-   "Wilton Makmur Indonesia",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b59d658243_e589a52515.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hits-panggil-rupslb-agenda-pergantian-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "HITS panggil RUPSLB, agenda [pergantian] direksi-komisaris",
-  "deck": "HITS mengundang pemegang saham hadir dalam RUPSLB 4 September 2026 untuk menyetujui pengangkatan kembali atau perubahan susunan direksi dan dewan komisaris.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/hits-panggil-rupslb-agenda-pergantian-direksi-komisaris.jpg",
-  "imageV": "msslvz0j",
-  "tags": [
-   "HITS",
-   "RUPSLB",
-   "direksi",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d742f5f662_bb28da8a05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Jawab Bursa: Tak Ada [Informasi Material] Baru soal Sahamnya",
-  "deck": "Merespons surat resmi Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Garuda Indonesia menyatakan tidak mengetahui adanya informasi material yang belum diungkap ke publik.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/giaa-jawab-bursa-tak-ada-informasi-material-baru-soal-sahamnya.jpg",
-  "imageV": "msslwjrx",
-  "tags": [
-   "GIAA",
-   "Garuda Indonesia",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/470264e5ab_f2693a69aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5",
-  "category": "Aksi Korporasi",
-  "title": "INKP tawarkan obligasi tahap III [Rp2 triliun], kupon 10-10,5%",
-  "deck": "Indah Kiat Pulp & Paper akan menerbitkan obligasi tahap III senilai maksimal Rp2 triliun dengan kupon 10 sampai 10,5 persen, bagian dari program Rp10 triliun.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/inkp-tawarkan-obligasi-tahap-iii-rp2-triliun-kupon-10-10-5.jpg",
-  "imageV": "msslx6oq",
-  "tags": [
-   "INKP",
-   "obligasi korporasi",
-   "pendanaan",
-   "pulp dan kertas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bc5f6763ea_2416eb9f46.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce",
-  "category": "UMKM",
-  "title": "Kemendag Dorong Produk Lokal Lebih [Menonjol] di E-Commerce",
-  "deck": "Shopee meluncurkan program insentif bagi penjual produk lokal, menyusul aturan Kementerian Perdagangan soal visibilitas produk dalam negeri di platform digital.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/kemendag-dorong-produk-lokal-lebih-menonjol-di-e-commerce.jpg",
-  "imageV": "msrm3kur",
-  "tags": [
-   "UMKM",
-   "e-commerce",
-   "Kementerian Perdagangan",
-   "produk lokal"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-apresiasi-platform-niaga-elektronik-sinergikan-visibilitas-produk-lokal",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

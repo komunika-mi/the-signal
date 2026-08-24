@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Pemegang Saham Setujui [PMTHMETD] 868 Juta Saham",
+  "deck": "RUPS Luar Biasa HATM menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 868 juta saham untuk PT Multi Sarana Nasional, disetujui 100 persen tanpa penolakan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "RUPS",
+   "PMTHMETD",
+   "Multi Sarana Nasional"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1255696e96_648a2f3e27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "assa-tambah-fasilitas-kredit-cimb-niaga-jadi-rp100-m-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Tambah Fasilitas Kredit CIMB Niaga jadi Rp100 M [Modal Kerja]",
+  "deck": "ASSA menambah fasilitas pinjaman tetap dari CIMB Niaga sebesar Rp40 miliar, sehingga total pokok kredit naik dari Rp60 miliar menjadi Rp100 miliar untuk modal kerja pembelian armada kendaraan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASSA",
+   "kredit bank",
+   "CIMB Niaga",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b2ae580d3a_a001065a69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-beli-lagi-737-700-saham-hermina",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro Beli [Lagi] 737.700 Saham Hermina",
+  "deck": "Komisaris Medikaloka Hermina, DR Hasmoro, membeli 737.700 saham HEAL senilai sekitar Rp680 per lembar dalam tiga transaksi 19-21 Agustus, melanjutkan pembelian pekan sebelumnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-1158-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-komisaris-tambah-kepemilikan-saham-50-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: Komisaris Tambah [Kepemilikan] Saham 50.000 Lembar",
+  "deck": "Ferdinand Aryanto, Komisaris Kalbe Farma, membeli 50.000 saham KLBF secara tidak langsung pada 21 Agustus 2026, menambah kepemilikannya menjadi 410.000 lembar.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4295-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Suspensi] Saham ADHI usai Gagal Bayar Kupon Obligasi",
+  "deck": "BEI menghentikan sementara perdagangan saham ADHI di seluruh pasar mulai Senin, setelah perseroan menunda pembayaran bunga ke-17 obligasi seri B dan C yang jatuh tempo 24 Agustus 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d25fe7ed76_3279be7350.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Panggil RUPSLB, Bahas [Dividen] Tunai dan Direksi",
+  "deck": "Resource Alam Indonesia mengundang pemegang saham ke RUPSLB 15 September 2026 untuk membahas dividen tunai dari laba ditahan 2025 dan perubahan susunan direksi.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "RUPSLB",
+   "dividen",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/067a1cd1e7_8d223a9f0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asbi-jadwalkan-rupslb-30-september-2026",
   "category": "Aksi Korporasi",
   "title": "ASBI Jadwalkan [RUPSLB] 30 September 2026",
@@ -6537,107 +6633,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri",
-  "category": "Aksi Korporasi",
-  "title": "PTSN Teken Kredit Baru [US$15 Juta] dari Bank Mandiri",
-  "deck": "Sat Nusapersada mengantongi kredit investasi dan tambahan limit modal kerja senilai total US$15 juta dari Bank Mandiri untuk mendanai proyek baru.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/ptsn-teken-kredit-baru-usd25-juta-dari-bank-mandiri.jpg",
-  "imageV": "msu5waoh",
-  "tags": [
-   "PTSN",
-   "Sat Nusapersada",
-   "Bank Mandiri",
-   "kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1341f7a9e6_56426e6782.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Akui Ada [Risiko] Telat Bayar Bunga Obligasi Rp182 M",
-  "deck": "Adhi Karya mengaku ada risiko gagal membayar bunga obligasi setelah RUPO menolak proposal restrukturisasi, dan menyiapkan RUPO lanjutan pada 11 September 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/adhi-akui-ada-risiko-telat-bayar-bunga-obligasi-rp182-m.jpg",
-  "imageV": "msu5x23s",
-  "tags": [
-   "ADHI",
-   "obligasi korporasi",
-   "RUPO",
-   "risiko gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4eae049f88_40cd77f61c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "title": "KSPSI Akan Umumkan Parpol yang [Serius] Bahas RUU Ketenagakerjaan",
-  "deck": "Koalisi serikat buruh akan membeberkan partai yang serius maupun mangkir membahas RUU Ketenagakerjaan, menjelang tenggat MK pada 31 Oktober 2026.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/kspsi-akan-umumkan-parpol-yang-serius-bahas-ruu-ketenagakerjaan.jpg",
-  "imageV": "msrdp3hy",
-  "tags": [
-   "RUU Ketenagakerjaan",
-   "KSPSI",
-   "DPR",
-   "Apindo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459666-buruh-bakal-umumkan-parpol-yang-serius-dan-tidak-serius-bahas-ruu-ketenagakerjaan"
- },
- {
-  "slug": "suli-beri-penjelasan-usai-saham-melonjak-27-78-persen",
-  "category": "Aksi Korporasi",
-  "title": "SULI Beri Penjelasan usai Saham [Melonjak] 27,78 Persen",
-  "deck": "SLJ Global (SULI) menyebut lonjakan harga dan volume sahamnya ke BEI tidak dipicu informasi material, sementara rencana konversi utang menjadi saham masih tertunda menunggu pembahasan dengan OJK.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/suli-beri-penjelasan-usai-saham-melonjak-27-78-persen.jpg",
-  "imageV": "msu5xhyt",
-  "tags": [
-   "SULI",
-   "BEI",
-   "volatilitas saham",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0d2831377e_a35a21a534.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "YPAS Klarifikasi [Volatilitas] Transaksi Saham ke BEI",
-  "deck": "Menjawab permintaan BEI, manajemen Yanaprima Hastapersada menyatakan tidak ada informasi material maupun rencana korporasi di balik pergerakan harga sahamnya.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/ypas-klarifikasi-volatilitas-transaksi-saham-ke-bei.jpg",
-  "imageV": "msu5xum3",
-  "tags": [
-   "YPAS",
-   "Yanaprima Hastapersada",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/636aaa8c36_05d15e622b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wapo-jawab-permintaan-bursa-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "WAPO Jawab Permintaan Bursa soal [Volatilitas] Saham",
-  "deck": "WAPO menjawab surat Bursa Efek Indonesia soal volatilitas sahamnya, dan menyatakan tidak mengetahui ada informasi atau rencana aksi korporasi material di baliknya.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/wapo-jawab-permintaan-bursa-soal-volatilitas-saham.jpg",
-  "imageV": "msu5ygg5",
-  "tags": [
-   "WAPO",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6e39b321a7_0ab7ccc046.pdf",
-  "sourceLabel": "IDX"
  }
 ];

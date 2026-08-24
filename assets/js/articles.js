@@ -3,6 +3,161 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "HATM: Pemegang Saham Setujui [PMTHMETD] 868 Juta Saham",
+  "deck": "RUPS Luar Biasa HATM menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 868 juta saham untuk PT Multi Sarana Nasional, disetujui 100 persen tanpa penolakan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:26:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1255696e96_648a2f3e27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "RUPS",
+   "PMTHMETD",
+   "Multi Sarana Nasional"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Jumat, 21 Agustus 2026, di Wisma Habco, Tower Tama, Jakarta Barat, yang dibuka pukul 09.27 WIB dan ditutup pukul 09.43 WIB. Rapat dihadiri pemegang saham dan/atau kuasanya yang mewakili 8.346.480.974 saham atau 96,1576 persen dari total 8.680.000.000 saham Perseroan. Khusus untuk kalangan pemegang saham independen, yakni pemegang saham di luar Direksi, Dewan Komisaris, pemegang saham utama, dan pihak terafiliasi, yang hadir mewakili 819.965.113 saham atau 71,0859 persen dari 1.153.484.139 saham independen yang berhak memberi suara.",
+   "Dalam pemungutan suara, seluruh peserta rapat menyatakan setuju atas agenda tunggal, yaitu persetujuan penambahan modal ditempatkan dan disetor Perseroan melalui Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Tidak ada suara menolak maupun abstain. Dengan keputusan ini, Perseroan disetujui menerbitkan saham baru sebanyak-banyaknya 868.000.000 lembar, atau maksimal 10 persen dari jumlah saham yang telah ditempatkan dan disetor penuh, yang seluruhnya akan diambil oleh PT Multi Sarana Nasional (MSN) sesuai ketentuan POJK No. 14/2019 tentang penambahan modal perusahaan terbuka tanpa hak memesan efek terlebih dahulu.",
+   "Rapat juga menyetujui perubahan Pasal 4 ayat 2 Anggaran Dasar Perseroan untuk mencatat kenaikan modal ditempatkan dan disetor setelah pelaksanaan PMTHMETD, serta memberi kuasa penuh kepada Direksi untuk melaksanakan seluruh tindakan yang diperlukan sehubungan dengan aksi korporasi ini. Risalah rapat dituangkan dalam akta Notaris Rini Yulianti, SH nomor 17 tertanggal 21 Agustus 2026, dan dilaporkan Perseroan untuk memenuhi kewajiban Pasal 49 ayat 1 POJK 15/2020."
+  ],
+  "fotoAdegan": "Tugboat towing a barge along a wide brown river near a Sumatran port town, overcast tropical sky, workers on deck",
+  "takeaway": "Penilaian saya tetap netral, karena persetujuan RUPS ini hanya mengonfirmasi rencana penerbitan saham ke MSN yang sudah diumumkan sebelumnya, dan hasil suara 100 persen setuju tanpa penolakan atau abstain membuatnya berjalan sesuai rencana, bukan kejutan yang mengubah kalkulasi bagi pemegang saham. Yang tersentuh adalah jumlah saham beredar dan ekuitas Perseroan: begitu 868 juta saham baru terbit untuk MSN, saham beredar HATM bisa bertambah hingga 10 persen sehingga laba per saham berpotensi terdilusi bagi pemegang saham lain yang tidak ikut serta, sementara di sisi lain modal disetor Perseroan bertambah karena ada dana segar yang masuk dari pembelian saham baru tersebut. Yang perlu dipantau berikutnya adalah realisasi penerbitan saham oleh Direksi kepada MSN dan efektifnya perubahan Pasal 4 ayat 2 Anggaran Dasar yang mencatat modal baru itu, sebab dokumen ini belum menyebutkan tanggal pasti pelaksanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "assa-tambah-fasilitas-kredit-cimb-niaga-jadi-rp100-m-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Tambah Fasilitas Kredit CIMB Niaga jadi Rp100 M [Modal Kerja]",
+  "deck": "ASSA menambah fasilitas pinjaman tetap dari CIMB Niaga sebesar Rp40 miliar, sehingga total pokok kredit naik dari Rp60 miliar menjadi Rp100 miliar untuk modal kerja pembelian armada kendaraan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:18:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b2ae580d3a_a001065a69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASSA",
+  "tags": [
+   "ASSA",
+   "kredit bank",
+   "CIMB Niaga",
+   "modal kerja"
+  ],
+  "body": [
+   "PT Adi Sarana Armada Tbk (ASSA) menandatangani perjanjian kredit dengan PT Bank CIMB Niaga pada 21 Agustus 2026 untuk tambahan fasilitas pinjaman tetap sebesar Rp40 miliar. Dengan tambahan ini, total pokok pinjaman perseroan ke bank tersebut naik dari sebelumnya Rp60 miliar menjadi Rp100 miliar.",
+   "Dalam keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, ASSA menyebut dana tambahan ini akan dipakai sebagai modal kerja, khususnya untuk membeli unit kendaraan yang akan disewakan kepada pelanggan perseroan. ASSA menyatakan penambahan armada ini diperkirakan meningkatkan pendapatan sekaligus memperluas kegiatan usaha perseroan.",
+   "Laporan ini ditandatangani oleh Direktur Keuangan ASSA, Jerry Fandy Tunjungan, dan disampaikan ke otoritas pada 24 Agustus 2026 pukul 10.18 WIB."
+  ],
+  "fotoAdegan": "Workers inspecting a row of rental sedans in an open vehicle yard under bright morning sunlight in Indonesia",
+  "takeaway": "Penambahan fasilitas kredit ini condong positif bagi ASSA karena dananya dipakai untuk memperbesar armada sewa, bisnis inti perusahaan yang langsung berpotensi mendatangkan pendapatan, bukan untuk menambal kekurangan kas operasional. Yang perlu diperhatikan adalah beban bunga, yaitu biaya yang harus dibayar perseroan secara berkala atas pinjaman ini, karena tambahan utang Rp40 miliar berarti ada kewajiban bunga baru yang membebani laba sebelum pendapatan sewa dari kendaraan baru itu benar-benar terealisasi. Kenaikan utang ini juga menambah beban di neraca perseroan, sehingga arus kas dari operasi sewa kendaraan perlu tumbuh sepadan agar cicilan dan bunga bisa tertutup. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah penambahan armada dari kredit ini benar-benar mendongkrak pendapatan sewa ASSA seperti yang dijanjikan dalam keterbukaan informasi ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "heal-komisaris-hasmoro-beli-lagi-737-700-saham-hermina",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Komisaris Hasmoro Beli [Lagi] 737.700 Saham Hermina",
+  "deck": "Komisaris Medikaloka Hermina, DR Hasmoro, membeli 737.700 saham HEAL senilai sekitar Rp680 per lembar dalam tiga transaksi 19-21 Agustus, melanjutkan pembelian pekan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:16:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-1158-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT Medikaloka Hermina Tbk (HEAL), DR Hasmoro, melaporkan ke Otoritas Jasa Keuangan bahwa ia kembali membeli saham perusahaan dalam tiga transaksi terpisah pada 19, 20, dan 21 Agustus 2026. Pembelian dilakukan secara tidak langsung dengan total 737.700 lembar saham biasa, masing-masing 65.500 lembar dengan harga Rp680 pada 19 Agustus, 345.200 lembar dengan harga sama pada 20 Agustus, dan 327.000 lembar dengan harga Rp670 pada 21 Agustus. Dalam laporan tersebut, tujuan transaksi dicatat sebagai investasi.",
+   "Dengan tambahan ini, jumlah saham HEAL yang dikuasai Hasmoro naik dari 773.934.989 unit menjadi 774.672.689 unit, atau bertambah 737.700 lembar. Persentase hak suaranya di perusahaan tetap di angka 5,04 persen baik sebelum maupun sesudah transaksi, karena porsi tambahan saham ini hanya sekitar 0,0953 persen dari total kepemilikannya sebelum transaksi."
+  ],
+  "fotoAdegan": "Exterior driveway of a modern private hospital with an ambulance parked under a covered entrance, early morning light",
+  "takeaway": "Laporan ini netral bagi HEAL karena ukurannya kecil, kepemilikan Hasmoro hanya bertambah kurang dari 0,1 persen dan hak suaranya tetap di 5,04 persen, jadi tidak mengubah peta kendali perusahaan. Transaksi orang dalam seperti ini biasa dipantau pasar sebagai sinyal keyakinan pengurus terhadap prospek perusahaan, karena menyangkut jumlah saham beredar yang dipegang manajemen, tetapi nilai sekecil ini terlalu tipis untuk dibaca sebagai pernyataan sikap. Ini juga merupakan pembelian kedua oleh Hasmoro dalam waktu kurang dari sepekan, setelah laporan serupa pada 18 Agustus 2026 untuk penambahan 1,3 juta saham, sehingga polanya menunjukkan akumulasi bertahap meski masih dalam skala kecil. Yang perlu dipantau berikutnya adalah apakah pembelian bertahap ini berlanjut di laporan KSEI selanjutnya hingga mulai memengaruhi komposisi hak suara secara berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "klbf-komisaris-tambah-kepemilikan-saham-50-000-lembar",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: Komisaris Tambah [Kepemilikan] Saham 50.000 Lembar",
+  "deck": "Ferdinand Aryanto, Komisaris Kalbe Farma, membeli 50.000 saham KLBF secara tidak langsung pada 21 Agustus 2026, menambah kepemilikannya menjadi 410.000 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T10:05:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4295-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Ferdinand Aryanto, anggota Dewan Komisaris PT Kalbe Farma Tbk (KLBF), melaporkan pembelian 50.000 saham biasa perseroan secara tidak langsung pada 21 Agustus 2026 dengan harga Rp810 per saham. Berdasarkan laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan pada 24 Agustus 2026, tujuan transaksi tersebut adalah investasi.",
+   "Dengan pembelian ini, jumlah saham Ferdinand di KLBF naik dari 360.000 unit menjadi 410.000 unit, atau bertambah 13,89 persen dari kepemilikan sebelumnya. Nilai transaksi tersebut sekitar Rp40,5 juta. Meski begitu, porsi hak suaranya di perseroan tidak berubah, tetap di angka 0,001 persen baik sebelum maupun sesudah transaksi.",
+   "Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mengharuskan insider seperti direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Pharmaceutical factory technicians in white coats inspecting medicine packaging on a production line, Indonesia",
+  "takeaway": "Transaksi ini netral bagi Kalbe Farma karena nilainya kecil dan tidak mengubah peta kendali maupun struktur permodalan perseroan. Yang tersentuh hanyalah kepemilikan pribadi sang komisaris, bukan jumlah saham beredar KLBF secara keseluruhan, sehingga tidak ada dampak pada laba per saham atau ekuitas perusahaan; hak suara yang dimaksud adalah persentase suara seorang pemegang saham dalam rapat umum pemegang saham, dan di sini angkanya tetap 0,001 persen baik sebelum maupun sesudah pembelian karena basisnya memang sangat kecil dibanding total saham KLBF yang beredar. Kenaikan 13,89 persen dari kepemilikan pribadinya menunjukkan minat menambah posisi, tapi terlalu kecil secara nominal untuk dibaca sebagai sinyal keyakinan korporasi. Yang perlu diperhatikan selanjutnya adalah apakah pola pembelian kecil semacam ini berlanjut dari komisaris atau direksi lain, karena baru jika terjadi berulang dan dalam jumlah lebih besar barulah pola tersebut punya arti bagi pembaca laporan keuangan perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Suspensi] Saham ADHI usai Gagal Bayar Kupon Obligasi",
+  "deck": "BEI menghentikan sementara perdagangan saham ADHI di seluruh pasar mulai Senin, setelah perseroan menunda pembayaran bunga ke-17 obligasi seri B dan C yang jatuh tempo 24 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:58:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d25fe7ed76_3279be7350.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "suspensi saham",
+   "gagal bayar obligasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan seluruh efek PT Adhi Karya (Persero) Tbk (ADHI) di semua pasar, terhitung sejak sesi pre-opening Senin, 24 Agustus 2026, hingga ada pengumuman lanjutan dari Bursa. Keputusan ini diambil berdasarkan surat ADHI nomor 014-19/2026/010 tanggal 21 Agustus 2026 mengenai kesiapan dana pembayaran bunga obligasi, serta surat PT Kustodian Sentral Efek Indonesia (KSEI) nomor KSEI-6083/DIR/0826 tanggal 21 Agustus 2026 yang menyatakan penundaan pembayaran bunga tersebut.",
+   "Yang ditunda adalah pembayaran bunga ke-17 atas dua seri Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022, yaitu Seri B (ADHI03BCN3) dan Seri C (ADHI03CCN3), yang seharusnya dibayar pada 24 Agustus 2026. Dalam pengumumannya, BEI secara eksplisit menyatakan bahwa penundaan pembayaran bunga ini mengindikasikan adanya permasalahan pada kelangsungan usaha (going concern) Perseroan, dan meminta seluruh pihak terkait untuk terus memperhatikan keterbukaan informasi yang disampaikan ADHI ke depan.",
+   "Kejadian ini melanjutkan rangkaian sinyal negatif yang sudah muncul sejak pekan lalu. Pada 21 Agustus 2026, ADHI sendiri mengakui berpotensi tidak mampu membayar bunga obligasi senilai Rp60,8 miliar, dan dua hari sebelumnya, 19 Agustus 2026, lembaga pemeringkat PEFINDO memangkas peringkat ADHI beserta tiga seri obligasinya dari idBB menjadi idB sambil mempertahankan status CreditWatch. Suspensi hari ini menandai titik ketika potensi tersebut berubah menjadi kegagalan bayar yang nyata."
+  ],
+  "fotoAdegan": "Idle construction site with tower cranes standing still against an overcast Jakarta sky, empty scaffolding, no workers visible",
+  "takeaway": "Laporan ini negatif bagi ADHI, karena yang terjadi sekarang bukan lagi potensi gagal bayar seperti diberitakan pekan lalu, melainkan kegagalan nyata membayar bunga obligasi yang membuat sahamnya distop dari perdagangan oleh Bursa sendiri. Yang tersentuh di sini adalah arus kas perusahaan, yaitu kemampuan ADHI menyediakan uang tunai tepat waktu untuk kewajiban yang sudah jatuh tempo, dan kegagalan pada pos ini biasanya membuat kreditur dan investor mempertanyakan kesehatan keuangan perusahaan secara keseluruhan, bukan cuma soal dua seri obligasi ini saja. Saham yang disuspensi berarti investor pemegang saham ADHI untuk sementara tidak bisa menjual atau membeli sahamnya sama sekali di bursa. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari BEI yang akan menentukan kapan suspensi ini dicabut, serta apakah ADHI akhirnya melunasi bunga kedua seri obligasi tersebut atau justru berlanjut ke status gagal bayar yang lebih formal.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Panggil RUPSLB, Bahas [Dividen] Tunai dan Direksi",
+  "deck": "Resource Alam Indonesia mengundang pemegang saham ke RUPSLB 15 September 2026 untuk membahas dividen tunai dari laba ditahan 2025 dan perubahan susunan direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:21:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/067a1cd1e7_8d223a9f0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "RUPSLB",
+   "dividen",
+   "direksi"
+  ],
+  "body": [
+   "PT Resource Alam Indonesia Tbk (KKGI) memanggil Rapat Umum Pemegang Saham Luar Biasa yang akan digelar Selasa, 15 September 2026 pukul 10.30 WIB di Financial Hall lantai 2 Graha CIMB Niaga, Jalan Jenderal Sudirman Kav. 58, Jakarta Selatan. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan bursa tanggal 21 Agustus 2026. Ada dua agenda dalam rapat ini: perubahan susunan direksi perseroan, dan persetujuan pembagian saldo laba ditahan berupa dividen tunai berdasarkan laporan keuangan tahun buku yang berakhir 31 Desember 2025.",
+   "Perseroan menjelaskan bahwa perubahan direksi mengacu pada Anggaran Dasar dan POJK Nomor 33/POJK.04/2014, yang mewajibkan pengangkatan atau pemberhentian direksi dan komisaris mendapat persetujuan RUPS. Sementara agenda dividen mengacu pada Pasal 34 ayat 8 Anggaran Dasar Perseroan, yang menyatakan laba bersih dalam neraca yang sudah disahkan RUPS Tahunan dan berstatus saldo laba positif dibagikan sesuai keputusan RUPS. Dokumen pemanggilan ini belum menyebutkan besaran dividen per saham maupun nama calon anggota direksi yang diusulkan, keduanya baru akan diputuskan langsung dalam rapat.",
+   "Rapat akan diselenggarakan secara elektronik melalui aplikasi eASY.KSEI, dan bahan terkait agenda rapat sudah tersedia di kantor perseroan sejak tanggal pemanggilan ini, 24 Agustus 2026, sampai hari pelaksanaan rapat. Batas waktu bagi pemegang saham untuk menyampaikan deklarasi kehadiran, kuasa, atau pilihan suara secara elektronik adalah pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat."
+  ],
+  "fotoAdegan": "Coal trucks queuing on a red dirt haul road at an open pit mine in Kalimantan, dust rising under overcast tropical sky.",
+  "takeaway": "Laporan ini netral bagi KKGI karena baru berupa undangan rapat, bukan keputusan. Besaran dividen tunai yang akan dibagikan dan siapa yang bakal masuk atau keluar dari jajaran direksi belum diungkap dalam dokumen ini, keduanya baru akan diputuskan langsung dalam rapat. Yang disebut di sini hanya bahwa perseroan punya saldo laba ditahan, yaitu keuntungan tahun-tahun sebelumnya yang belum dibagikan ke pemegang saham, dan sebagian akan diusulkan dibagi sebagai dividen tunai dari laporan keuangan tahun buku 2025. Kalau nanti disetujui, dana yang keluar dari kas perusahaan untuk dividen akan mengurangi kas dan ekuitas perseroan, tapi pemegang saham juga menerima uang langsung ke rekening mereka. Yang perlu dipantau adalah hasil RUPSLB pada 15 September 2026, terutama angka dividen per saham dan nama-nama direksi baru yang disahkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "asbi-jadwalkan-rupslb-30-september-2026",
   "category": "Aksi Korporasi",
   "title": "ASBI Jadwalkan [RUPSLB] 30 September 2026",

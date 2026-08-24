@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
+  "category": "Aksi Korporasi",
+  "title": "SOCI Beri [Jaminan] Pinjaman US$54,9 Juta ke Anak Usaha EOM",
+  "deck": "Soechi Lines menjamin fasilitas pinjaman berjangka anak usahanya, Eternity Ocean Maritime, senilai AS$54,9 juta dari Bank Mandiri cabang Singapura.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T17:31:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/992a708585_f7d9f14841.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOCI",
+  "tags": [
+   "SOCI",
+   "Soechi Lines",
+   "corporate guarantee",
+   "Bank Mandiri"
+  ],
+  "body": [
+   "PT Soechi Lines Tbk (SOCI) menyampaikan koreksi atas laporan transaksi afiliasi yang terbit pada tanggal yang sama, 24 Agustus 2026. Isi laporan menyebutkan perseroan memberikan jaminan perusahaan (corporate guarantee) serta jaminan dan kesanggupan terkait kekurangan dana kas (cash deficit guarantee and undertaking) kepada PT Bank Mandiri (Persero) Tbk, Singapore Branch, dengan nilai transaksi AS$54.900.000.",
+   "Jaminan ini diberikan untuk fasilitas pinjaman berjangka yang diterima anak usaha Soechi Lines, Eternity Ocean Maritime Ltd. (EOM), dari Bank Mandiri dengan pokok pinjaman sampai dengan AS$54,9 juta. Soechi Lines memiliki 100 persen saham EOM, sehingga keduanya berstatus afiliasi. Perseroan menandatangani dua dokumen dengan Bank Mandiri, yaitu penanggungan perusahaan dan ganti rugi, serta jaminan dan kesanggupan terkait kekurangan dana kas, yang bersama-sama menjamin seluruh kewajiban EOM atas fasilitas tersebut.",
+   "Dalam dokumen itu, Soechi Lines menyebut alasan pemberian jaminan adalah untuk menjamin kewajiban EOM sebagai entitas anak sekaligus mendukung kegiatan operasional EOM. Pihak yang terlibat dalam transaksi ini adalah Soechi Lines sebagai pemberi jaminan, Bank Mandiri sebagai pemberi fasilitas sekaligus penerima jaminan, dan EOM sebagai penerima fasilitas pinjaman."
+  ],
+  "fotoAdegan": "Large tanker vessel moored at an Indonesian shipping terminal, tugboats nearby, cranes in the background, overcast morning light",
+  "takeaway": "Laporan ini netral bagi Soechi Lines, karena pemberian jaminan atas pinjaman anak usaha yang sepenuhnya dimiliki perseroan adalah praktik pembiayaan yang lazim di industri pelayaran, bukan sinyal pelemahan kinerja langsung. Yang tersentuh adalah pos liabilitas kontinjensi, yaitu kewajiban yang baru benar-benar harus dibayar Soechi Lines kalau EOM gagal mencicil pinjamannya ke Bank Mandiri, sehingga eksposur risiko keuangan grup bertambah sampai AS$54,9 juta meski belum membebani kas atau ekuitas perseroan saat ini. Jumlah saham beredar dan hak suara pemegang saham tidak berubah karena transaksi ini berbentuk penjaminan, bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah bagaimana EOM merealisasikan dan mencicil fasilitas pinjaman AS$54,9 juta ini pada laporan keuangan Soechi Lines mendatang, serta apakah masih ada laporan korporasi lanjutan menyusul koreksi yang terbit pada 24 Agustus 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mcor-undur-rupslb-pergantian-direksi-ke-15-september",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Undur RUPSLB Pergantian Direksi ke [15 September]",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menunda RUPSLB dari 4 menjadi 15 September 2026, agenda tunggalnya tetap perubahan susunan direksi dan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T17:23:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b8047642f9_f71fdaa7b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "RUPSLB",
+   "Bank China Construction Bank Indonesia",
+   "pergantian pengurus"
+  ],
+  "body": [
+   "PT Bank China Construction Bank Indonesia Tbk (MCOR) menerbitkan ralat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), mengubah tanggal pelaksanaan dari semula Jumat, 4 September 2026, menjadi Selasa, 15 September 2026, pukul 15.00 WIB. Tempat dan mekanisme rapat tidak berubah, yaitu di Sahid Sudirman Center Lantai 15, Jalan Jenderal Sudirman Kavling 86, Jakarta Pusat, digelar secara hybrid melalui aplikasi eASY.KSEI untuk peserta online dan tatap muka dengan pembatasan jumlah kehadiran fisik. Ralat ini merujuk pada pemanggilan sebelumnya tertanggal 13 Agustus 2026, dan ditandatangani oleh Corporate Secretary MCOR, Thomas Widianto, pada 24 Agustus 2026.",
+   "Menyesuaikan pergeseran tanggal rapat, Daftar Pemegang Saham (DPS) yang berhak hadir atau diwakili dalam RUPSLB kini dihitung berdasarkan posisi penutupan perdagangan saham di Bursa Efek Indonesia pada 14 September 2026, sehari sebelum rapat. Agenda RUPSLB tetap satu-satunya, yakni persetujuan perubahan susunan pengurus perseroan. Dokumen ini belum merinci nama direksi atau komisaris yang diusulkan diganti maupun calon penggantinya.",
+   "Bagi pemegang saham yang ingin memberikan kuasa atau suara secara elektronik lewat eASY.KSEI, batas waktunya adalah pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat. Pemegang saham yang belum mendeklarasikan kehadiran atau kuasa hingga batas itu masih bisa hadir elektronik dengan registrasi ulang pada 15 September 2026 pukul 13.00 hingga 15.00 WIB. Sementara pemegang saham dalam bentuk warkat yang ingin memberi kuasa tertulis harus menyerahkannya ke Biro Administrasi Efek PT Sinartama Gunita di Menara Tekno, Jalan H. Fachrudin Nomor 19, Jakarta Pusat, paling lambat dua hari sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Rows of empty chairs set up in a modern corporate conference hall inside a Jakarta office tower, soft morning light through glass windows.",
+  "takeaway": "Laporan ini netral, karena isinya murni pergeseran tanggal RUPSLB selama 11 hari tanpa mengubah agenda, tempat, maupun mekanisme rapat, dan tidak ada informasi keuangan baru yang terungkap. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan susunan pengurus, yaitu siapa yang duduk sebagai direksi atau komisaris bank, dan itu penting dipantau karena merekalah yang menentukan arah kebijakan MCOR ke depan meski dokumen ini belum menyebut nama-nama yang diusulkan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 15 September 2026 pukul 15.00 WIB, saat pemegang saham akan mengetahui siapa yang masuk atau keluar dari jajaran pengurus, dengan batas akhir pendaftaran kehadiran atau kuasa elektronik pukul 12.00 WIB sehari sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "REFI Kena [Sanksi] Bursa akibat Telat Laporan Keuangan",
+  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis I ke REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 31 Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:51:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c42684598_4291bba54c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REFI",
+  "tags": [
+   "REFI",
+   "sanksi BEI",
+   "laporan keuangan",
+   "keterlambatan pelaporan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menjatuhkan sanksi Peringatan Tertulis I (SP1) kepada PT Usaha Pembiayaan Reliance Indonesia (REFI) karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 yang seharusnya masuk paling lambat Jumat, 31 Juli 2026. Sanksi ini berlaku untuk laporan keuangan yang tidak diaudit dan tidak ditelaah secara terbatas oleh akuntan publik. Bursa belum mengenakan denda uang atas keterlambatan ini, tercatat nol rupiah dalam pengumuman resmi bernomor Peng-S-00025/BEI.PLP/08-2026 yang terbit 18 Agustus 2026.",
+   "REFI bukan satu-satunya emiten yang kena sanksi serupa. Dua perusahaan tercatat lain, PT Nirmala Taruna (NITA) dan PT Pos Indonesia/Persero (POST), menerima SP1 dengan alasan dan tenggat yang sama. Ketiganya masuk daftar khusus perusahaan penerbit obligasi, sukuk, atau efek beragun aset yang belum menyampaikan laporan keuangan tepat waktu.",
+   "Secara keseluruhan, dari 62 perusahaan tercatat yang memiliki obligasi, sukuk, EBA-SP, EBAS-SP, atau EBA-KIK di Bursa, baru 44 yang menyampaikan laporan keuangan tepat waktu per 30 Juni 2026. Sebanyak 15 perusahaan belum menyampaikan laporan, termasuk 3 yang kena SP1 seperti REFI, sementara sisanya dijadwalkan menyusul dengan laporan yang ditelaah terbatas atau diaudit akuntan publik. Tiga pihak lain, termasuk Pemerintah Republik Indonesia untuk surat utang negara, memang dikecualikan dari kewajiban ini."
+  ],
+  "fotoAdegan": "A financing company loan officer assisting a customer at a service counter, motorcycles parked outside the window, daytime light.",
+  "takeaway": "Laporan ini condong negatif bagi REFI karena keterlambatan menyampaikan laporan keuangan wajib adalah sinyal tata kelola yang buruk, terlepas dari dendanya yang masih nol rupiah. Yang tersentuh di sini bukan angka laba atau ekuitas, melainkan kepatuhan pelaporan, ketepatan waktu perusahaan memberi informasi keuangan ke publik, yang jadi acuan pelaku pasar untuk menilai seberapa rapi manajemen mengelola kewajiban administratifnya. Kalau keterlambatan berlanjut, sanksi bisa naik tingkat dari Peringatan Tertulis I ke peringatan berikutnya yang biasanya disertai denda. Yang perlu dipantau selanjutnya adalah kapan REFI akhirnya menyampaikan laporan keuangan tengah tahunannya ke Bursa, dan apakah perusahaan pembiayaan sejenis lain di daftar ini punya pola keterlambatan yang sama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "saham-gtbo-masuk-papan-pemantauan-khusus-bei-26-agustus",
+  "category": "Aksi Korporasi",
+  "title": "Saham GTBO [Masuk] Papan Pemantauan Khusus BEI 26 Agustus",
+  "deck": "Bursa Efek Indonesia memasukkan saham Garda Tujuh Buana (GTBO) ke daftar Efek Dalam Pemantauan Khusus, efektif 26 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:43:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/548f364f19_57853e8d24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "GTBO",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus",
+   "Garda Tujuh Buana"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa saham PT Garda Tujuh Buana Tbk (GTBO), yang tercatat di Papan Pengembangan, masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Pengumuman bernomor Peng-PK-00060/BEI.PLP/08-2026 ini diterbitkan pada 24 Agustus 2026 pukul 16.43 WIB dan ditandatangani oleh Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar. Status pemantauan khusus untuk GTBO berlaku efektif mulai 26 Agustus 2026.",
+   "Dalam pengumumannya, BEI mencantumkan sebelas kriteria yang dapat membuat suatu saham dimasukkan ke pemantauan khusus, tanpa merinci kriteria spesifik mana yang berlaku untuk GTBO. Kriteria itu antara lain harga rata-rata saham di Pasar Reguler di bawah Rp51 disertai nilai transaksi harian di bawah Rp5 juta dan volume di bawah 10.000 lembar selama tiga bulan terakhir, opini disclaimer atau tidak menyatakan pendapat dari auditor atas laporan keuangan terakhir, tidak membukukan pendapatan atau tidak ada perubahan pendapatan dibanding laporan sebelumnya, serta ekuitas negatif pada laporan keuangan terakhir.",
+   "Kriteria lain yang tercantum meliputi perusahaan tambang mineral dan batu bara yang sudah berproduksi tapi belum mencatat penjualan atau belum berproduksi sampai akhir tahun buku keempat sejak tercatat di bursa, jumlah saham beredar bebas (free float) yang tidak memenuhi ambang batas Peraturan I-A dan I-V, kondisi permohonan penundaan kewajiban pembayaran utang (PKPU) atau pailit baik terhadap perusahaan tercatat maupun anak usaha yang kontribusi pendapatannya material, serta penghentian sementara perdagangan saham lebih dari satu hari bursa akibat aktivitas perdagangan."
+  ],
+  "fotoAdegan": "Small coal stockpile at a mining site with an excavator loading a truck in early morning haze, Kalimantan.",
+  "takeaway": "Masuknya GTBO ke papan pemantauan khusus ini condong negatif bagi emiten, sebab status tersebut hanya dijatuhkan bursa ketika sebuah saham menunjukkan indikasi masalah struktural, bukan sekadar fluktuasi harga harian biasa. BEI tidak merinci kriteria persis yang membuat GTBO masuk daftar ini, tapi di antara sebelas kemungkinan pemicunya ada pos-pos yang penting bagi pemegang saham, seperti ekuitas negatif yang berarti kewajiban perusahaan sudah melebihi asetnya, opini disclaimer yang berarti auditor tidak bisa memastikan kewajaran laporan keuangan, dan pendapatan yang macet atau tidak berubah yang menandakan bisnis inti belum menghasilkan uang. Yang perlu dipantau selanjutnya adalah tanggal efektif 26 Agustus 2026 saat status pemantauan khusus ini mulai berlaku, serta laporan keuangan atau keterbukaan informasi berikutnya dari GTBO yang bisa menjelaskan kriteria mana yang sebenarnya terpenuhi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "brrc-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRRC Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "PT Raja Roti Cemerlang Tbk (BRRC) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:39:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/905023e38a_6026afe09b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRRC",
+  "tags": [
+   "BRRC",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Raja Roti Cemerlang Tbk (BRRC) merespons surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-10902/BEI.PP1/08-2026 terkait volatilitas transaksi efek perseroan. Dalam surat resmi bertanggal 24 Agustus 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E, di luar yang sudah pernah diumumkan.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka. BRRC menegaskan tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada status pencatatan sahamnya di bursa, dan menurut informasi yang diterima dari pemegang saham pengendali maupun pemegang saham utama, tidak ada rencana terkait kepemilikan saham mereka di luar yang sudah disampaikan sebelumnya dalam keterbukaan informasi.",
+   "Surat penjelasan ini ditandatangani oleh Direktur BRRC, Nurjihan Khairunisa, pada 24 Agustus 2026 pukul 16.39 WIB, dan disampaikan sebagai dokumen elektronik resmi yang tidak memerlukan tanda tangan basah."
+  ],
+  "fotoAdegan": "Workers packaging fresh bread loaves on a conveyor belt inside an industrial bakery, soft morning light through high windows.",
+  "takeaway": "Laporan ini netral bagi kondisi fundamental BRRC, karena isinya hanya konfirmasi rutin yang diwajibkan bursa ketika harga atau volume transaksi saham bergerak di luar kebiasaan, tanpa ada informasi baru yang diungkapkan. Permintaan penjelasan semacam ini dikeluarkan Bursa Efek Indonesia untuk memastikan pergerakan harga saham tidak dipicu oleh informasi yang baru diketahui sebagian pihak saja, sehingga jawaban 'tidak ada' dari BRRC di semua poin berarti tidak ada perubahan yang tercatat pada pos-pos seperti ekuitas, arus kas, atau jumlah saham beredar perseroan. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham BRRC masih berlanjut tidak wajar dalam waktu dekat, sebab jika berlanjut, bursa bisa kembali meminta penjelasan atau mengambil langkah pengawasan tambahan, sementara perseroan sendiri sudah menyatakan tidak ada rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
   "category": "BUMN",
   "title": "TelkomGroup Salurkan [Bantuan] Rp1,3 M ke Korban Gempa NTT",
@@ -28,6 +158,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari kabar ini adalah cakupan bantuan yang terus melebar. Dari 3,65 ton logistik yang disalurkan lewat Posko BNPB Halim pada 18 dan 20 Agustus, TelkomGroup kemudian merambah ke lebih dari 10 wilayah lain di NTT, termasuk kawasan terisolir di Manggarai Barat yang cuma bisa dijangkau lewat jalur laut. Yang terdampak jelas masyarakat korban gempa NTT, terutama warga di titik pengungsian dan di desa pesisir yang selama ini sulit dijangkau bantuan darat. Pola perluasan ini, dari pusat distribusi ke daerah pinggiran yang makin sulit diakses, mengarah ke cakupan bantuan yang makin menyeluruh, bukan berhenti di satu tahap penyaluran awal. Satu hal yang layak dipantau: angka Rp1,3 miliar ini disebut belum termasuk dukungan konektivitas, jadi ada bagian lain dari respons Telkom, yaitu pemulihan jaringan telekomunikasi di NTT, yang belum dirinci angkanya dan akan menentukan seberapa lengkap sebenarnya dukungan perusahaan ini.",
   "imageV": "mt727tr7"
+ },
+ {
+  "slug": "dmnd-jadwalkan-rupslb-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DMND Jadwalkan RUPSLB pada [30 September] 2026",
+  "deck": "PT Diamond Food Indonesia Tbk (DMND) akan menggelar RUPSLB pada 30 September 2026, dengan batas pencatatan pemegang saham pada 7 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:32:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9675bde900_46766e28e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMND",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Diamond Food Indonesia",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Diamond Food Indonesia Tbk (DMND) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026, pukul 14.00 WIB, bertempat di sebuah hotel di Jakarta. Rapat akan digelar secara elektronik melalui Electronic General Meeting System milik KSEI atau eASY.KSEI, dengan kehadiran fisik yang dibatasi sesuai Pasal 24 Peraturan OJK Nomor 14 Tahun 2025. Pemanggilan resmi berikut agenda rapat baru akan dipublikasikan pada Selasa, 8 September 2026, melalui situs web Bursa Efek Indonesia, eASY.KSEI, dan situs web perusahaan.",
+   "Berdasarkan Pasal 9 ayat 15 Anggaran Dasar perusahaan, yang berhak hadir dalam RUPSLB adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan di Bursa Efek Indonesia, Senin, 7 September 2026. Pemegang saham atau kelompok pemegang saham yang mewakili minimal 5 persen dari total saham dengan hak suara sah dapat mengusulkan mata acara rapat, dengan syarat surat pengajuan tertulis diterima Direksi paling lambat Selasa, 1 September 2026 pukul 16.00 WIB. Usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan perusahaan, memerlukan keputusan rapat, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan perundang-undangan maupun anggaran dasar perusahaan.",
+   "Surat pemberitahuan ini ditandatangani oleh Corporate Secretary DMND, Arinta Meidia Harsono, tertanggal 24 Agustus 2026, dengan tembusan kepada Bursa Efek Indonesia, Biro Administrasi Efek PT Datindo Entrycom, dan Kantor Notaris Aulia Taufani, S.H."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs and a stage for a corporate shareholders meeting, soft morning light",
+  "takeaway": "Laporan ini condong netral bagi DMND karena isinya baru memberitahukan jadwal RUPSLB, belum mengungkap agenda atau keputusan yang akan diambil, sehingga dampaknya terhadap kinerja perusahaan belum bisa dinilai. Pos kinerja yang berpotensi tersentuh baru akan terlihat setelah pemanggilan resmi terbit, sebab RUPSLB biasanya membahas hal di luar agenda tahunan rutin, seperti perubahan modal, pergantian pengurus, atau aksi korporasi yang bisa memengaruhi jumlah saham beredar dan struktur permodalan perusahaan. Pemegang saham perlu memastikan namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan 7 September 2026 agar berhak hadir, dan yang menguasai gabungan minimal 5 persen saham berhak mengusulkan agenda rapat asalkan suratnya diterima Direksi sebelum 1 September 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPS yang dijadwalkan terbit 8 September 2026, karena di situlah agenda sesungguhnya baru akan diketahui publik, sebelum RUPSLB sendiri berlangsung pada 30 September 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
@@ -131,6 +287,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers pouring concrete at a mid-rise building site in Jakarta, tower crane overhead, midday light",
   "takeaway": "Penilaian kami netral untuk saat ini, karena rencana rights issue baru diumumkan sebagai niat tanpa rincian jumlah saham, harga pelaksanaan, atau tujuan penggunaan dana, sehingga dampaknya bagi perseroan belum bisa diukur. Yang tersentuh nantinya adalah jumlah saham beredar dan laba per saham: rights issue berarti perseroan menawarkan saham baru lebih dulu kepada pemegang saham lama, dan begitu saham baru itu terbit, jumlah saham beredar bertambah sehingga laba per saham bisa terdilusi kalau laba perusahaan tidak naik sebanding. Di sisi lain, dana segar dari rights issue juga bisa dipakai memperkuat modal kerja atau membayar utang, tapi itu baru bisa dinilai kalau perseroan sudah membuka tujuan penggunaan dananya. Yang perlu dipantau berikutnya adalah pengumuman rinci PMHMETD ini, termasuk rasio dan harga penawaran, yang menurut suratnya akan menyusul dalam tiga bulan ke depan sejak 24 Agustus 2026, serta kemungkinan RUPSLB untuk meminta persetujuan pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fwct-umumkan-rencana-rupslb-pada-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Umumkan Rencana [RUPSLB] pada 1 Oktober 2026",
+  "deck": "PT Wijaya Cahaya Timber Tbk akan menggelar RUPS Luar Biasa pada 1 Oktober 2026, dengan pemegang saham per 8 September 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:33:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f4fc1efeff_de923e1b63.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FWCT",
+  "tags": [
+   "FWCT",
+   "RUPSLB",
+   "RUPS",
+   "corporate action"
+  ],
+  "body": [
+   "PT Wijaya Cahaya Timber Tbk (FWCT) mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar secara elektronik di Jakarta pada Kamis, 1 Oktober 2026 pukul 14.00 WIB. Pengumuman ini merujuk pada surat sebelumnya bernomor DIR/WCT/JKT/0826/080 dan ditandatangani oleh Direktur Budi Tjahjadi. Perseroan belum mengungkap agenda rapat dalam dokumen ini. Pemanggilan resmi beserta materi lengkap RUPSLB baru akan dipublikasikan pada Rabu, 9 September 2026, melalui situs web perseroan, situs Bursa Efek Indonesia, dan aplikasi eASY.KSEI.",
+   "Pemegang saham yang berhak hadir, diwakili, dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan atau yang rekening efeknya terdaftar di KSEI per Selasa, 8 September 2026 pukul 16.15 WIB. Satu atau lebih pemegang saham yang mewakili minimal 1/20 atau lima persen dari total saham berhak suara dapat mengusulkan mata acara rapat secara tertulis, dan usulan itu wajib diterima Direksi paling lambat Rabu, 2 September 2026 pukul 16.00 WIB. Usulan baru akan dimasukkan ke agenda rapat jika diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, memerlukan keputusan RUPS, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan Anggaran Dasar maupun peraturan yang berlaku, sesuai Pasal 21 ayat 8 Anggaran Dasar dan Pasal 16 ayat 3 POJK No. 15/2020.",
+   "Perseroan mengimbau pemegang saham memberikan kuasa secara elektronik atau e-Proxy melalui aplikasi eASY.KSEI, yang bisa dilakukan sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB, tepatnya sampai pukul 12.00 WIB. Lokasi yang tercantum dalam dokumen adalah Puri Indah Financial Tower lantai 27, Jalan Puri Lingkar Dalam Blok T8, Kembangan, Jakarta Barat. Surat pemberitahuan ini ditandatangani oleh Corporate Secretary Mareci Susi Afrisca Sembiring dan ditujukan kepada Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi serta Direktur Utama Bursa Efek Indonesia Jeffrey Hendrik, dengan tembusan kepada KSEI, biro administrasi efek PT Adimitra Jasa Korpora, dan Kantor Notaris Dr. Sugih Haryati."
+  ],
+  "fotoAdegan": "Stacks of sawn timber logs stored in an open yard at a wood processing facility, workers in safety vests nearby, morning light",
+  "takeaway": "Sentimen laporan ini netral karena isinya murni jadwal dan mekanisme RUPSLB, bukan substansi keputusan yang akan diambil pemegang saham. Agenda rapat, yang bisa saja menyangkut perubahan struktur modal, penerbitan saham baru, atau pergantian direksi dan komisaris, belum diungkap dalam dokumen ini sehingga dampaknya terhadap ekuitas maupun jumlah saham beredar perseroan belum bisa dinilai. Pemegang saham yang berhalangan hadir tetap bisa menitipkan suaranya lewat e-Proxy, yaitu kuasa yang diberikan secara elektronik melalui aplikasi eASY.KSEI, tanpa perlu datang langsung ke lokasi rapat. Yang perlu dipantau berikutnya adalah pemanggilan resmi beserta agenda lengkap yang dijanjikan terbit Rabu, 9 September 2026, serta pelaksanaan RUPSLB itu sendiri pada Kamis, 1 Oktober 2026, karena di situlah baru terlihat keputusan apa yang sebenarnya diajukan kepada pemegang saham.",
   "sentimen": "netral"
  },
  {
@@ -340,6 +522,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Empty modern boardroom with a long table and leather chairs, floor-to-ceiling windows overlooking a Jakarta office district, afternoon light.",
   "takeaway": "Ini murni pergantian pengurus, bukan sinyal soal kondisi keuangan perseroan, jadi sifatnya netral bagi SCPI. Perubahan direksi seperti ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, tapi tetap dipantau pelaku pasar karena kestabilan tim manajemen memengaruhi kesinambungan strategi dan operasional perusahaan farmasi ini. Yang perlu dipantau berikutnya adalah rampungnya salinan akta notaris Berita Acara Rapat Nomor 179 dan pelaporan resmi susunan Direksi baru ke instansi berwenang seperti OJK dan Kementerian Hukum dan HAM, yang akan menjadi dasar hukum berlakunya perubahan ini secara penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "psab-jawab-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Jawab Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "J Resources Asia Pasifik (PSAB) menegaskan tidak ada informasi material tersembunyi maupun rencana aksi korporasi terkait lonjakan volatilitas transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T13:23:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2a87fc023c_fe5ad1a90a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "J Resources Asia Pasifik Tbk (PSAB) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya. Permintaan itu disampaikan BEI lewat surat nomor S-10904/BEI.PP1/08-2026 tertanggal 21 Agustus 2026. Perusahaan merespons pada 24 Agustus 2026 melalui surat nomor JRAP/SKLR/CSD/2026/VIII/072 yang ditandatangani Corporate Secretary Edi Permadi.",
+   "Dalam surat itu, perusahaan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham perusahaan terbuka.",
+   "Terkait rencana ke depan, PSAB menyatakan saat ini belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Perusahaan juga menyebut tidak ada informasi atau fakta penting lain yang material dan belum diungkapkan ke publik, serta menyatakan bahwa pengendali dan/atau pemegang saham utama saat ini tidak memiliki rencana terkait kepemilikan sahamnya di perusahaan."
+  ],
+  "fotoAdegan": "Gold ore haul trucks moving along a dusty road at an open-pit mine in Indonesia, heavy machinery, morning haze",
+  "takeaway": "Respons ini netral bagi J Resources Asia Pasifik, karena inti jawabannya adalah konfirmasi bahwa tidak ada perubahan apa pun, bukan sinyal bahwa sesuatu sedang terjadi di balik layar. Surat semacam ini adalah mekanisme rutin bursa ketika harga atau volume perdagangan suatu saham bergerak tidak seperti biasanya, dan karena jawabannya adalah 'tidak ada informasi material', tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang sebenarnya tersentuh oleh surat ini. Yang perlu dipantau selanjutnya adalah apakah lonjakan volatilitas transaksi ini berlanjut sehingga bursa mengambil langkah pemantauan lebih lanjut, serta apakah PSAB benar-benar tidak mengumumkan aksi korporasi dalam tiga bulan ke depan seperti yang dinyatakan, yakni hingga sekitar akhir November 2026.",
   "sentimen": "netral"
  },
  {

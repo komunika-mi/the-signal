@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
+  "category": "Aksi Korporasi",
+  "title": "SOCI Beri [Jaminan] Pinjaman US$54,9 Juta ke Anak Usaha EOM",
+  "deck": "Soechi Lines menjamin fasilitas pinjaman berjangka anak usahanya, Eternity Ocean Maritime, senilai AS$54,9 juta dari Bank Mandiri cabang Singapura.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOCI",
+   "Soechi Lines",
+   "corporate guarantee",
+   "Bank Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/992a708585_f7d9f14841.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcor-undur-rupslb-pergantian-direksi-ke-15-september",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Undur RUPSLB Pergantian Direksi ke [15 September]",
+  "deck": "Bank China Construction Bank Indonesia (MCOR) menunda RUPSLB dari 4 menjadi 15 September 2026, agenda tunggalnya tetap perubahan susunan direksi dan komisaris.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOR",
+   "RUPSLB",
+   "Bank China Construction Bank Indonesia",
+   "pergantian pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b8047642f9_f71fdaa7b4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "REFI Kena [Sanksi] Bursa akibat Telat Laporan Keuangan",
+  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis I ke REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 31 Juli 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REFI",
+   "sanksi BEI",
+   "laporan keuangan",
+   "keterlambatan pelaporan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c42684598_4291bba54c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-gtbo-masuk-papan-pemantauan-khusus-bei-26-agustus",
+  "category": "Aksi Korporasi",
+  "title": "Saham GTBO [Masuk] Papan Pemantauan Khusus BEI 26 Agustus",
+  "deck": "Bursa Efek Indonesia memasukkan saham Garda Tujuh Buana (GTBO) ke daftar Efek Dalam Pemantauan Khusus, efektif 26 Agustus 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus",
+   "Garda Tujuh Buana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/548f364f19_57853e8d24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "brrc-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BRRC Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "PT Raja Roti Cemerlang Tbk (BRRC) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRRC",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/905023e38a_6026afe09b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
   "category": "BUMN",
   "title": "TelkomGroup Salurkan [Bantuan] Rp1,3 M ke Korban Gempa NTT",
@@ -20,6 +100,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462189-telkomgroup-salurkan-bantuan-kemanusiaan-rp13-miliar-untuk-masyarakat-terdampak-gempa-ntt"
+ },
+ {
+  "slug": "dmnd-jadwalkan-rupslb-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "DMND Jadwalkan RUPSLB pada [30 September] 2026",
+  "deck": "PT Diamond Food Indonesia Tbk (DMND) akan menggelar RUPSLB pada 30 September 2026, dengan batas pencatatan pemegang saham pada 7 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Diamond Food Indonesia",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9675bde900_46766e28e2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
@@ -83,6 +179,22 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cbfe541260_8f2bb2a5f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fwct-umumkan-rencana-rupslb-pada-1-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Umumkan Rencana [RUPSLB] pada 1 Oktober 2026",
+  "deck": "PT Wijaya Cahaya Timber Tbk akan menggelar RUPS Luar Biasa pada 1 Oktober 2026, dengan pemegang saham per 8 September 2026 berhak hadir dan memberi suara.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FWCT",
+   "RUPSLB",
+   "RUPS",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f4fc1efeff_de923e1b63.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -212,6 +324,22 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6aea9c17b0_d2bc7cdacb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psab-jawab-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Jawab Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "J Resources Asia Pasifik (PSAB) menegaskan tidak ada informasi material tersembunyi maupun rencana aksi korporasi terkait lonjakan volatilitas transaksi sahamnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2a87fc023c_fe5ad1a90a.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6465,141 +6593,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma",
-  "category": "Aksi Korporasi",
-  "title": "DGIK Jawab Permintaan Bursa soal Volatilitas Saham [UMA]",
-  "deck": "Saham DGIK anjlok 5,3% ke Rp125 dengan volume melonjak 3,4 kali dalam sehari. Emiten konstruksi ini menyatakan tidak ada informasi material di baliknya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/dgik-jawab-permintaan-bursa-soal-volatilitas-saham-uma.jpg",
-  "imageV": "msslul7y",
-  "tags": [
-   "DGIK",
-   "UMA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8f405d8df0_dfea507aeb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prabowo-kekuatan-ekonomi-ri-ada-di-desa",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo: Kekuatan Ekonomi RI Ada di [Desa]",
-  "deck": "Presiden Prabowo menegaskan desa jadi motor ekonomi nasional, didukung 10.000 koperasi, ribuan jembatan desa, dan titik air bersih baru dalam pidato Sidang Tahunan MPR 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-kekuatan-ekonomi-ri-ada-di-desa.jpg",
-  "imageV": "mssk7kyk",
-  "tags": [
-   "ekonomi desa",
-   "koperasi merah putih",
-   "prabowo subianto",
-   "umkm"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459834-prabowo-tegaskan-kekuatan-ekonomi-indonesia-ada-di-desa-30-ribu-koperasi-ditargetkan-beroperasi"
- },
- {
-  "slug": "investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja",
-  "category": "Makroekonomi",
-  "title": "Investasi RI [Tembus] Rp1.931 Triliun, Serap 2,7 Juta Kerja",
-  "deck": "Presiden Prabowo: realisasi investasi 2025 capai Rp1.931 triliun, ciptakan 2,7 juta lapangan kerja di tengah gejolak ekonomi global.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/investasi-ri-tembus-rp1-931-triliun-serap-2-7-juta-kerja.jpg",
-  "imageV": "mssk7lfh",
-  "tags": [
-   "investasi",
-   "realisasi investasi 2026",
-   "lapangan kerja",
-   "pertumbuhan ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459832-investasi-ri-tembus-rp1931-triliun-serap-27-juta-tenaga-kerja-di-tengah-ketidakpastian-global"
- },
- {
-  "slug": "petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha",
-  "category": "UMKM",
-  "title": "Petani Ngawi Panen Padi [3 Kali] Setahun, 9 Ton/Ha",
-  "deck": "Joko Purnomo, petani di Ngawi, Jawa Timur, mencatat produktivitas 9 ton gabah per hektare dengan panen tiga kali setahun berkat penerapan teknologi pertanian.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/petani-ngawi-panen-padi-3-kali-setahun-9-ton-ha.jpg",
-  "imageV": "mssk7lxk",
-  "tags": [
-   "petani ngawi",
-   "teknologi pertanian",
-   "produktivitas padi",
-   "kelompok tani"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459830-joko-purnomo-buktikan-petani-bisa-sejahtera-panen-9-ton-per-hektare-hingga-3-kali-setahun"
- },
- {
-  "slug": "dmas-jadwalkan-rupslb-cum-date-saham-28-agustus",
-  "category": "Aksi Korporasi",
-  "title": "DMAS Jadwalkan RUPSLB, [Cum Date] Saham 28 Agustus",
-  "deck": "Puradelta Lestari mengumumkan rencana RUPSLB pada 22 September 2026 di Cikarang. Pemegang saham yang tercatat per 28 Agustus 2026 berhak hadir dan memberi suara.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/dmas-jadwalkan-rupslb-cum-date-saham-28-agustus.jpg",
-  "imageV": "mssj25oh",
-  "tags": [
-   "DMAS",
-   "RUPSLB",
-   "Puradelta Lestari",
-   "Corporate Action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8975b4331_1439a3e3a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw",
-  "category": "Teknologi",
-  "title": "NeutraDC Gandeng PLN Kejar Ekspansi Data Center [200 MW]",
-  "deck": "NeutraDC dan PLN menandatangani MoU pasokan energi untuk ekspansi data center hyperscale di Cikarang, menambah kapasitas hingga 200 MW guna mendukung kebutuhan AI dan cloud computing.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/neutradc-gandeng-pln-kejar-ekspansi-data-center-200-mw.jpg",
-  "imageV": "mssk7mfv",
-  "tags": [
-   "NeutraDC",
-   "PLN",
-   "Data Center",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459827-sinergi-danantara-neutradc-gandeng-pln-siapkan-ekspansi-hyperscale-data-center"
- },
- {
-  "slug": "tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang",
-  "category": "BUMN",
-  "title": "TJSL PLN [Berdayakan] Nelayan Kalsel dan Lulusan SMK Semarang",
-  "deck": "Program TJSL PLN mendampingi nelayan Kotabaru membudidayakan kepiting soka bernilai tinggi, sekaligus melatih ratusan lulusan SMK Semarang untuk bekerja di industri tekstil dan alas kaki.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/tjsl-pln-berdayakan-nelayan-kalsel-dan-lulusan-smk-semarang.jpg",
-  "imageV": "mssk7myn",
-  "tags": [
-   "PLN",
-   "TJSL PLN",
-   "Desa Berdaya",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459823-cerita-perubahan-dari-berbagai-daerah-program-tjsl-pln-hadirkan-manfaat-bagi-masyarakat-dan-lingkungan"
- },
- {
-  "slug": "ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi",
-  "category": "Aksi Korporasi",
-  "title": "GGRM Tambah [Modal] Rp200 Miliar ke Afiliasi SDHI",
-  "deck": "Gudang Garam menyuntik modal Rp200 miliar ke PT Surya Dhoho Investama lewat penerbitan 200.000 saham baru, dicatat sebagai transaksi afiliasi karena hubungan pengendalian dan kepemilikan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ggrm-tambah-modal-rp200-miliar-ke-afiliasi-sdhi.jpg",
-  "imageV": "mssj2pfp",
-  "tags": [
-   "GGRM",
-   "transaksi afiliasi",
-   "Surya Dhoho Investama",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c91e6c3e8_05bc4a7c06.pdf",
-  "sourceLabel": "IDX"
  }
 ];

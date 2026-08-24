@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
+  "category": "Aksi Korporasi",
+  "title": "VISI Ubah Bisnis Jadi Holding, Rencana Kuasai 72,91% Saham [HMBC]",
+  "deck": "VISI menandatangani perjanjian bersyarat untuk mengambil alih 72,91% saham rumah sakit di Cirebon, HMBC, sekaligus mengubah kegiatan usaha menjadi perusahaan induk.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "rumah sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/792f051fc3_971a93e39f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-siapkan-private-placement-10-saham-untuk-masuk-kesehatan",
+  "category": "Aksi Korporasi",
+  "title": "VISI Siapkan Private Placement 10% Saham untuk Masuk [Kesehatan]",
+  "deck": "Satu Visi Putra berencana menerbitkan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk memperkuat modal sekaligus menjadi holding perusahaan sektor kesehatan.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "private placement",
+   "PMTHMETD",
+   "sektor kesehatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8576b1c05_342fd0ce28.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-jadwalkan-rups-independen-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "VISI Jadwalkan RUPS [Independen] pada 30 September 2026",
+  "deck": "Satu Visi Putra menjadwalkan RUPSLB dan RUPS Independen pada 30 September 2026, dengan pendaftaran pemegang saham ditutup 7 September dan pemanggilan resmi 8 September 2026.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "RUPS Independen",
+   "Satu Visi Putra",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c528e5f292_23487cdd41.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beef-klarifikasi-lonjakan-saham-bantah-rumor-akuisisi-korea",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Klarifikasi Lonjakan Saham, Bantah Rumor [Akuisisi] Korea",
+  "deck": "Public expose insidentil BEEF usai suspensi cooling down BEI: manajemen bantah ada informasi material tersembunyi, juga bantah rumor akuisisi oleh perusahaan Korea.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEEF",
+   "suspensi saham",
+   "rumor akuisisi",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2468fdfb8e_a0106f0da3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "danantara-rilis-direksi-dsi-bos-freeport-jadi-komisaris",
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
@@ -18,6 +82,70 @@ var ARTICLES = [
    "Freeport Indonesia"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia"
+ },
+ {
+  "slug": "emas-komisaris-xinyu-wang-jual-500-000-saham-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Komisaris Xinyu Wang Jual 500.000 Saham [Divestasi]",
+  "deck": "Komisaris EMAS Xinyu Wang melepas 500.000 saham senilai sekitar Rp3,94 miliar pada 20 Agustus 2026, setara 34 persen dari kepemilikannya sebelumnya.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-9163-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kras-jadwal-rupslb-diundur-ke-7-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "KRAS [Jadwal] RUPSLB Diundur ke 7 September 2026",
+  "deck": "Krakatau Steel menunda RUPSLB dari 26 Agustus ke 7 September 2026, dengan agenda perubahan aturan dana pensiun, anggaran dasar, dan susunan pengurus.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRAS",
+   "RUPSLB",
+   "Krakatau Steel",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba2d32c91_71d936f3fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-jadwalkan-rupslb-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Jadwalkan RUPSLB [30 September 2026]",
+  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 30 September 2026 pukul 14.00 WIB di Jakarta; mata acara resmi baru diumumkan 8 September 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "Adhi Karya",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/68acf1f28b_a19eb9bf98.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psgo-tanggapi-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Tanggapi Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Palma Serasih menyatakan tak mengetahui informasi material apa pun yang menjelaskan pergerakan tak biasa sahamnya, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "Palma Serasih",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/490b923537_44a83c3280.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
@@ -764,7 +892,7 @@ var ARTICLES = [
   "title": "[Rupiah] Melemah ke Rp17.697 usai CAD Kuartal II Melebar",
   "deck": "Rupiah melemah tipis ke Rp17.697 per dolar AS, tertekan sentimen defisit transaksi berjalan kuartal II-2026 yang melebar signifikan meski kredit perbankan Juli masih tumbuh solid.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -796,7 +924,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -897,7 +1025,7 @@ var ARTICLES = [
   "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
   "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris.jpg",
   "tags": [
    "ekspor kopi",
    "Jawa Barat",
@@ -2011,7 +2139,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] ke Rp17.694, BI Rate Tetap 5,75 Persen",
   "deck": "Rupiah ditutup menguat 54 poin ke Rp17.694 per dolar AS, ditopang keputusan BI menahan suku bunga acuan sementara arah suku bunga The Fed masih belum jelas.",
   "date": "21 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-menguat-ke-rp17-694-bi-rate-tetap-5-75-persen.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -6447,141 +6575,6 @@ var ARTICLES = [
    "Laporan Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dcea83d5a_a098f75c2d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit",
-  "category": "Industri",
-  "title": "Presiden Prabowo: RI [Kehilangan] Hampir 50% Nilai Ekspor Sawit",
-  "deck": "Presiden Prabowo soroti selisih harga CPO Indonesia dan Rotterdam, sebut RI kehilangan hampir separuh nilai ekspor sawitnya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-ri-kehilangan-hampir-50-nilai-ekspor-sawit.jpg",
-  "imageV": "mstuubca",
-  "tags": [
-   "sawit",
-   "ekspor",
-   "cpo",
-   "danantara"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459901-prabowo-bongkar-selisih-harga-cpo-di-bursa-rotterdam-ri-kehilangan-hampir-50-nilai-komoditas-sawit"
- },
- {
-  "slug": "oils-jadwalkan-rupslb-22-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "OILS Jadwalkan RUPSLB [22 September] 2026",
-  "deck": "Indo Oil Perkasa (OILS) akan menggelar RUPSLB pada 22 September 2026. Pemegang saham yang tercatat per 28 Agustus berhak hadir, agenda baru diumumkan 31 Agustus.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/oils-jadwalkan-rupslb-22-september-2026.jpg",
-  "imageV": "msu1h7gv",
-  "tags": [
-   "OILS",
-   "RUPSLB",
-   "Indo Oil Perkasa",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4667566d00_70fbbd7c46.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini",
-  "category": "BUMN",
-  "title": "Presiden Prabowo Targetkan BUMN Tersisa Maksimal [300] Akhir 2026",
-  "deck": "Presiden Prabowo melaporkan 290 dari 1.074 BUMN sudah ditutup, hemat Rp50 triliun, dan menargetkan hanya 300 BUMN yang tersisa pada akhir 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-targetkan-750-bumn-lagi-ditutup-tahun-ini.jpg",
-  "imageV": "msss9c94",
-  "tags": [
-   "BUMN",
-   "Presiden Prabowo Subianto",
-   "restrukturisasi BUMN",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459878-prabowo-pangkas-bumn-tak-produktif-rp50-triliun-hemat-dan-750-perusahaan-lagi-bakal-ditutup"
- },
- {
-  "slug": "prabowo-bakal-tutup-750-lebih-bumn-sampai-2026",
-  "category": "BUMN",
-  "title": "Presiden Prabowo Bakal [Tutup] 750 Lebih BUMN Sampai 2026",
-  "deck": "Presiden Prabowo menyatakan 290 dari 1.074 BUMN sudah ditutup, dan pemerintah menargetkan hanya menyisakan maksimal 300 BUMN pada akhir 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-bakal-tutup-750-lebih-bumn-sampai-2026.jpg",
-  "imageV": "msss9cyx",
-  "tags": [
-   "BUMN",
-   "Presiden Prabowo Subianto",
-   "restrukturisasi BUMN",
-   "Sidang Tahunan MPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459895-prabowo-sebut-bakal-tutup-790-bumn-kita-target-paling-banyak-punya-300"
- },
- {
-  "slug": "ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PTSP Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "PTSP menjawab permintaan BEI soal gejolak sahamnya: tak ada info material baru dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ptsp-bantah-ada-info-material-di-balik-volatilitas-sahamnya.jpg",
-  "imageV": "msu5v123",
-  "tags": [
-   "PTSP",
-   "Pioneerindo Gourmet International",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9f3e2d0a7_19ae4d1e40.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a",
-  "category": "Aksi Korporasi",
-  "title": "BQ Umumkan Jatuh Tempo 18 [Waran Terstruktur] BQCQ6A",
-  "deck": "KISI mengumumkan 18 waran terstruktur BQCQ6A atas saham AADI hingga TAPG akan berakhir dan dieksekusi otomatis pada 31 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bq-umumkan-jatuh-tempo-18-waran-terstruktur-bqcq6a.jpg",
-  "imageV": "mssqdnmv",
-  "tags": [
-   "BQ",
-   "waran terstruktur",
-   "KISI",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d3090f3670_7da28b477b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brimo-capai-49-7-juta-pengguna-per-juni-2026",
-  "category": "Perbankan",
-  "title": "BRImo Capai [49,7] Juta Pengguna per Juni 2026",
-  "deck": "Pengguna Super App BRImo tembus 49,7 juta dengan volume transaksi Rp4.166 triliun hingga Juni 2026, ditopang sinergi BRI dan Danantara.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/brimo-capai-49-7-juta-pengguna-per-juni-2026.jpg",
-  "imageV": "msss9dp8",
-  "tags": [
-   "BRI",
-   "BRImo",
-   "Danantara",
-   "perbankan digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459890-brimo-capai-497-juta-pengguna-dengan-volume-transaksi-rp4166-triliun-hingga-juni-2026-perkuat-inklusi-keuangan-bersama-danantara"
- },
- {
-  "slug": "bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept",
-  "category": "Aksi Korporasi",
-  "title": "BSLT siapkan dana [Rp750 miliar] lunasi obligasi jatuh tempo Sept",
-  "deck": "Bank SulutGo (BSLT) menyatakan sudah menyiapkan dana Rp750 miliar untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2021 (BSLT01CN1) yang jatuh tempo 7 September 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bslt-siapkan-dana-rp750-miliar-lunasi-obligasi-jatuh-tempo-sept.jpg",
-  "imageV": "mssqe7ct",
-  "tags": [
-   "BSLT",
-   "obligasi",
-   "Bank SulutGo",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aba0384dc8_f6e1e96106.pdf",
   "sourceLabel": "IDX"
  }
 ];

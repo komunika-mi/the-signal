@@ -3,6 +3,113 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
+  "category": "Aksi Korporasi",
+  "title": "VISI Ubah Bisnis Jadi Holding, Rencana Kuasai 72,91% Saham [HMBC]",
+  "deck": "VISI menandatangani perjanjian bersyarat untuk mengambil alih 72,91% saham rumah sakit di Cirebon, HMBC, sekaligus mengubah kegiatan usaha menjadi perusahaan induk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T00:42:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/792f051fc3_971a93e39f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "akuisisi",
+   "HMBC",
+   "rumah sakit"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) menandatangani dua perjanjian bersyarat pada 20 Agustus 2026 untuk mengambil alih PT Hasna Medika Bakti Cirebon (HMBC), operator rumah sakit di Cirebon. Lewat Conditional Share Subscription Agreement, VISI akan mengambil 142.393 saham baru HMBC yang setara 65 persen dari modal ditempatkan dan disetor perusahaan itu. Lewat Conditional Shares Sale and Purchase Agreement, VISI juga membeli 17.325 saham HMBC dari pemegang saham lama, PT Hasna Medika Utama Group, setara 7,91 persen modal HMBC setelah penerbitan saham baru tersebut. Digabung, VISI akan menguasai 72,91 persen saham HMBC. Bersamaan dengan itu, VISI mengubah kegiatan usaha utamanya dari perdagangan besar bahan advertising dan printing menjadi aktivitas perusahaan induk atau holding, sehingga kegiatan operasional selanjutnya dijalankan lewat anak usaha.",
+   "Selain pengambilalihan saham, HMBC juga akan mengonversi utangnya kepada tiga pemegang saham sekaligus pengurusnya menjadi saham baru. Utang kepada Pieter Tanuri sebesar Rp24,4 miliar, kepada Roy Himawan sebesar Rp647 juta, dan kepada Darwin Cyril Noerhadi sebesar Rp8,4 miliar, dengan total Rp33,447 miliar, seluruhnya merupakan pinjaman yang diberikan hingga 31 Desember 2025. Utang itu akan dikonversi menjadi 18.692 saham baru HMBC yang dibagikan proporsional sesuai nilai piutang masing-masing.",
+   "Berdasarkan laporan keuangan HMBC per 30 April 2026, total asetnya Rp365,3 miliar, naik dari Rp320,9 miliar setahun sebelumnya, sementara total liabilitasnya juga naik dari Rp277,7 miliar menjadi Rp335,1 miliar. Ekuitas HMBC justru turun dari Rp43,2 miliar menjadi Rp30,3 miliar. Pendapatan HMBC naik dari Rp71,8 miliar menjadi Rp75,5 miliar, dan rugi bersihnya menyempit dari Rp22,8 miliar menjadi Rp12,3 miliar.",
+   "VISI menargetkan Rapat Umum Pemegang Saham Luar Biasa pada 30 September 2026 untuk meminta persetujuan pemegang saham atas rencana perubahan kegiatan usaha dan pengambilalihan ini. Seluruh transaksi ditargetkan rampung pada kuartal IV 2026, paling lambat 23 Oktober 2026."
+  ],
+  "fotoAdegan": "Exterior of a modest regional hospital building in West Java, ambulance parked near the entrance, midday light",
+  "takeaway": "Laporan ini netral bagi VISI karena rencana mengambil alih 72,91 persen saham HMBC belum bisa dipastikan menguntungkan, mengingat perusahaan yang diakuisisi sendiri masih merugi dan modal sendirinya menyusut. Ekuitas HMBC turun dari Rp43,2 miliar menjadi Rp30,3 miliar dalam setahun, sementara utangnya membengkak menjadi Rp335,1 miliar, nyaris menyamai total asetnya Rp365,3 miliar, artinya sebagian besar operasi rumah sakit ini dibiayai utang, bukan modal sendiri, dan begitu dikonsolidasi ke laporan keuangan VISI, struktur permodalan yang tipis itu ikut terbawa. Di sisi lain, konversi utang Rp33,447 miliar milik tiga pemegang saham HMBC menjadi saham baru justru mengurangi beban utang HMBC ke depan, dan kerugian bersihnya sudah menyempit dari Rp22,8 miliar menjadi Rp12,3 miliar, jadi ada perbaikan meski belum untung. Yang perlu dipantau adalah RUPSLB pada 30 September 2026 untuk mendapat restu pemegang saham VISI, serta batas waktu penyelesaian transaksi pada 23 Oktober 2026 yang menentukan apakah perubahan bisnis dari dagang besar menjadi perusahaan induk kesehatan ini benar terlaksana.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-siapkan-private-placement-10-saham-untuk-masuk-kesehatan",
+  "category": "Aksi Korporasi",
+  "title": "VISI Siapkan Private Placement 10% Saham untuk Masuk [Kesehatan]",
+  "deck": "Satu Visi Putra berencana menerbitkan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk memperkuat modal sekaligus menjadi holding perusahaan sektor kesehatan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T00:17:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8576b1c05_342fd0ce28.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "private placement",
+   "PMTHMETD",
+   "sektor kesehatan"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) menyampaikan keterbukaan informasi soal rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) atau private placement. Perseroan berencana menerbitkan sebanyak-banyaknya 307.500.000 saham baru bernilai nominal Rp25 per saham, setara maksimum 10 persen dari total modal disetor dan ditempatkan Perseroan saat ini yang berjumlah 3.075.000.000 saham. Rencana ini dikaitkan dengan langkah Perseroan bertransformasi menjadi perusahaan induk (holding company) yang akan mengonsolidasikan seluruh kegiatan usaha kelompok usaha di sektor kesehatan (healthcare), sekaligus memperkuat struktur permodalan untuk mendukung bisnis Perseroan dan entitas anak.",
+   "Harga pelaksanaan saham baru akan mengacu pada Peraturan BEI No. I-A, yaitu paling sedikit 90 persen dari rata-rata harga penutupan saham VISI selama 25 hari bursa berturut-turut sebelum tanggal permohonan pencatatan saham baru. Pelaksanaan PMTHMETD baru bisa berjalan setelah mendapat persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham Independen (RUPS Independen), dan harus rampung dalam jangka waktu dua tahun sejak RUPS Independen menyetujuinya. Dana yang terkumpul, setelah dikurangi biaya-biaya terkait, akan dipakai untuk memperkuat struktur permodalan Perseroan guna mendukung kegiatan usaha dan pengembangan bisnis Perseroan dan/atau entitas anak.",
+   "Berdasarkan daftar pemegang saham per 30 Juni 2026, komposisi kepemilikan VISI saat ini adalah PT Harmoni Semesta Investama 61,84 persen (1.901.580.000 saham), PT Atlas Raya Abadi 10,16 persen (312.420.000 saham), PT Trinugaraha Thohir Harmoni 8 persen (246.000.000 saham), Direktur Utama David Dwiputra 0,0035 persen (107.000 saham), dan publik atau masyarakat 19,9965 persen (614.893.000 saham). Susunan pengurus Perseroan saat ini terdiri atas Komisaris Utama Uriep Budhi Prasetyo, Komisaris dr. Kartika Maria Okky Simanjuntak, Direktur Utama David Dwiputra, dan Direktur Hendra Budianto."
+  ],
+  "fotoAdegan": "Warehouse workers stacking rolled vinyl banners and PVC display boards inside an industrial storage facility in Surabaya",
+  "takeaway": "Rencana ini condong netral bagi pemegang saham VISI saat ini: penerbitan saham tanpa hak memesan efek terlebih dahulu memang bisa mengurangi porsi kepemilikan investor lama, tapi batas maksimum 10 persen dari saham beredar dan syarat harga pelaksanaan minimal 90 persen dari rata-rata harga pasar membuat potensi dilusinya terukur, bukan sembarangan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba Perseroan akan dibagi ke lebih banyak lembar saham sehingga porsi laba per saham bagi pemegang lama berpotensi mengecil, sementara pemegang saham publik yang kini menguasai hampir 20 persen kepemilikan bisa melihat persentasenya tergerus lebih jauh kalau tidak ikut ambil bagian. Rencana ini juga terkait langkah Perseroan berubah arah dari perdagangan bahan advertising dan printing menjadi induk usaha di sektor kesehatan, sehingga dana segar dari private placement ini akan menopang pergeseran bisnis tersebut, bukan sekadar menambal kas operasional yang sudah ada. Yang perlu dipantau selanjutnya adalah hasil RUPS Independen yang menentukan apakah pemegang saham independen menyetujui rencana ini, serta penetapan harga pelaksanaan final saham baru yang baru diketahui menjelang permohonan pencatatan, mengingat jangka waktu pelaksanaan PMTHMETD dibatasi dua tahun sejak RUPS Independen menyetujuinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-jadwalkan-rups-independen-pada-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "VISI Jadwalkan RUPS [Independen] pada 30 September 2026",
+  "deck": "Satu Visi Putra menjadwalkan RUPSLB dan RUPS Independen pada 30 September 2026, dengan pendaftaran pemegang saham ditutup 7 September dan pemanggilan resmi 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T00:02:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c528e5f292_23487cdd41.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "RUPS Independen",
+   "Satu Visi Putra",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen (RUPS Independen) pada Rabu, 30 September 2026, pukul 09.00 WIB, di Function Hall Gedung Artha Graha Lantai LG, Jalan Jenderal Sudirman Kavling 52-53, Jakarta. Pemanggilan resmi rapat akan diterbitkan melalui situs KSEI, situs Bursa Efek Indonesia, dan situs Perseroan pada Selasa, 8 September 2026. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan hingga Senin, 7 September 2026 pukul 16.00 WIB.",
+   "Perseroan membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat diajukan tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan, dan diajukan oleh satu atau lebih pemegang saham yang mewakili minimal 1/20 dari total saham berhak suara. Rapat akan digelar secara elektronik melalui sistem eASY.KSEI, dan Perseroan menyarankan pemegang saham memberi kuasa kepada biro administrasi efeknya, PT Sinartama Gunita, selaku pihak independen, baik lewat surat kuasa fisik maupun fasilitas e-proxy di eASY.KSEI yang tersedia sampai satu hari kerja sebelum rapat.",
+   "Karena rapat memerlukan persetujuan Pemegang Saham Independen, yakni pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi terkait dan bukan anggota atau afiliasi Direksi, Dewan Komisaris, pemegang saham utama, maupun pengendali, Perseroan menetapkan kuorum berjenjang. Rapat pertama sah bila dihadiri lebih dari separuh saham berhak suara milik Pemegang Saham Independen, dengan keputusan sah jika disetujui lebih dari separuh suara tersebut. Bila kuorum tidak tercapai, rapat kedua digelar dengan syarat serupa dari peserta yang hadir, dan jika kuorum rapat kedua juga tidak tercapai, rapat ketiga dapat digelar dengan kuorum yang ditetapkan OJK atas permohonan Perseroan, dengan keputusan sah bila disetujui lebih dari 50 persen saham Pemegang Saham Independen yang hadir.",
+   "Pengumuman yang ditandatangani Direktur Utama David Dwiputra ini merujuk pada surat sebelumnya bernomor 02/SAVITRA/VIII/2026 dan belum memuat rincian mata acara RUPSLB. Sebelumnya, pada tanggal yang sama, Perseroan juga mengumumkan rencana private placement 10 persen saham untuk masuk ke sektor kesehatan, aksi korporasi yang lazimnya memerlukan persetujuan pemegang saham independen."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower along a busy Jakarta business district avenue, midday light, pedestrians on sidewalk.",
+  "takeaway": "Laporan ini netral bagi VISI karena baru mengumumkan jadwal dan tata cara rapat, tanpa agenda atau angka transaksi yang bisa dinilai dampak finansialnya. Yang perlu diperhatikan adalah status RUPS Independen, mekanisme yang mewajibkan suara pemegang saham tanpa kepentingan pribadi atau afiliasi dengan direksi, komisaris, maupun pengendali, dan biasanya dipakai untuk transaksi yang berpotensi menambah jumlah saham beredar sehingga laba per saham bisa terdilusi, atau melibatkan pihak terafiliasi. Mekanisme ini sejalan dengan rencana private placement 10 persen saham yang sebelumnya diumumkan Perseroan untuk masuk ke sektor kesehatan, meski dokumen ini sendiri belum mengonfirmasi agenda tersebut. Yang perlu dipantau berikutnya adalah pemanggilan resmi rapat pada 8 September 2026, yang biasanya memuat agenda lengkap, serta hasil RUPS pada 30 September 2026 yang menentukan apakah pemegang saham independen menyetujui rencana Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beef-klarifikasi-lonjakan-saham-bantah-rumor-akuisisi-korea",
+  "category": "Aksi Korporasi",
+  "title": "BEEF Klarifikasi Lonjakan Saham, Bantah Rumor [Akuisisi] Korea",
+  "deck": "Public expose insidentil BEEF usai suspensi cooling down BEI: manajemen bantah ada informasi material tersembunyi, juga bantah rumor akuisisi oleh perusahaan Korea.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T22:12:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2468fdfb8e_a0106f0da3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEEF",
+  "tags": [
+   "BEEF",
+   "suspensi saham",
+   "rumor akuisisi",
+   "public expose"
+  ],
+  "body": [
+   "PT Estika Tata Tiara Tbk (BEEF) menggelar public expose insidentil pada Senin, 24 Agustus 2026, pukul 14.00 hingga 14.35 WIB melalui webinar Gmeet, menyusul suspensi cooling down yang dikenakan Bursa Efek Indonesia (BEI) terhadap saham BEEF di pasar reguler dan pasar tunai, yaitu penghentian sementara perdagangan untuk meredam lonjakan harga yang dinilai tidak wajar. BEI meminta perseroan menggelar paparan ini setelah mengirim surat elektronik pada 19 Agustus 2026 yang meminta klarifikasi atas lonjakan harga saham tersebut. Acara dihadiri Direktur Utama Ari Wijayanto, Direktur Edie, dan Komisaris Imam Subowo, dengan moderator Ratna Sari selaku sekretaris perusahaan. Dari 17 peserta yang mendaftar lewat email, 11 orang hadir mengikuti sesi tanya jawab.",
+   "Menjawab pertanyaan investor dari kalangan private equity fund, manajemen menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik yang bisa menjelaskan lonjakan harga saham tersebut, dan menyebut pergerakan harga terbentuk dari mekanisme pasar, permintaan dan penawaran, serta persepsi investor, yang berada di luar kendali perseroan. Manajemen juga membantah rumor bahwa BEEF akan diakuisisi oleh perusahaan asal Korea, dengan menyatakan rumor itu tidak terkonfirmasi dan tidak ada transaksi akuisisi yang sedang berjalan. Terkait pertambahan kepemilikan saham oleh salah satu pemegang saham besar, Dimas Wibowo, perseroan mengaku menghormati keputusan investasi tersebut tanpa bisa menjelaskan motifnya. Perseroan juga menyatakan belum menetapkan target pendapatan maupun laba bersih untuk tahun buku 2026 dan 2027.",
+   "Soal rencana bisnis, manajemen menyampaikan belanja modal 2026 diarahkan untuk kapasitas produksi, pemeliharaan fasilitas peternakan, dan cold storage, tanpa rencana ekspansi baru di luar lini usaha trading, penggemukan sapi, cold storage, food processing, serta usaha dairy cow yang masih dipelajari di Purwokerto. Perseroan baru menyelesaikan periode pembelian kembali saham dan membuka opsi buyback lanjutan jika harga sahamnya di pasar kembali turun, dengan syarat memenuhi seluruh ketentuan yang berlaku. Jumlah sapi yang tengah dalam tahap penggemukan saat ini sekitar 3.000 ekor, dengan kuota impor sapi tahun ini sebanyak 9.000 ekor, dan perseroan tengah mengupayakan tambahan kuota ke pemerintah. Manajemen menilai program Makan Bergizi Gratis (MBG) berpotensi besar mendongkrak permintaan produk daging sapi dan olahannya.",
+   "Perseroan juga menjelaskan pergantian alamat kantor terjadi karena masa sewa kantor sebelumnya telah berakhir dan tidak diperpanjang, bukan karena perubahan rencana usaha. Rencana konversi utang menjadi saham milik PT Tigatunggal Adimulya, yang sempat dikhawatirkan investor dapat mengubah struktur kepemilikan hingga membuat pemegang saham tersebut kehilangan kendali, dipastikan tidak masuk agenda perseroan. Produksi susu dari usaha dairy farm yang tengah dijajaki perseroan saat ini mencapai 21 ton liter per hari dan masih dipasarkan ke koperasi setempat di sekitar lokasi peternakan."
+  ],
+  "fotoAdegan": "Workers herding cattle through a dusty fattening feedlot on an Indonesian farm, overcast morning light, distant cold storage building.",
+  "takeaway": "Pubex insidentil ini condong netral bagi fundamental BEEF, karena isinya klarifikasi dan bantahan manajemen atas rumor pasar, bukan perubahan angka keuangan atau operasional yang baru. Yang tersentuh bukan ekuitas atau arus kas, melainkan potensi jumlah saham beredar: opsi buyback lanjutan yang disinggung manajemen, jika direalisasikan, mengurangi saham yang beredar di pasar sehingga bagian laba perusahaan untuk tiap lembar saham normalnya naik. Investor perlu mencatat bahwa manajemen membantah rumor akuisisi oleh perusahaan Korea dan mengaku tidak punya informasi material tersembunyi, sehingga lonjakan harga yang memicu suspensi cooling down ini tidak didukung katalis baru dari sisi fundamental perseroan. Yang perlu dipantau selanjutnya adalah keputusan BEI soal pencabutan suspensi cooling down saham BEEF, serta apakah opsi buyback lanjutan yang disebut manajemen benar terealisasi jika harga saham kembali turun.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "danantara-rilis-direksi-dsi-bos-freeport-jadi-komisaris",
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
@@ -27,6 +134,110 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah adalah munculnya satu entitas baru di bawah Danantara yang khusus mengawasi ekspor tiga komoditas besar, batu bara, sawit, dan ferro alloy, tapi dengan lingkup yang sengaja dibatasi hanya sampai akhir 2026 dan tanpa menambah proses birokrasi baru. Yang terdampak langsung adalah pelaku usaha ekspor di tiga komoditas itu, karena aktivitas dagang mereka kini turut dipantau lembaga baru ini, sementara secara kelembagaan DSI juga menyatukan figur dari sektor tambang, pertahanan, dan lembaga keuangan internasional lewat komposisi komisarisnya. Pembatasan waktu dan janji tidak menambah birokrasi menunjukkan ini tampak sebagai tahap awal yang terukur, bukan pengambilalihan kewenangan ekspor secara penuh. Yang akan menentukan apakah pembacaan ini benar adalah apa yang terjadi setelah tenggat akhir 2026, yakni apakah peran DSI berhenti di pengawasan atau diperluas menjadi kewenangan yang lebih besar atas ekspor SDA strategis.",
   "fotoDitolak": true
+ },
+ {
+  "slug": "emas-komisaris-xinyu-wang-jual-500-000-saham-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Komisaris Xinyu Wang Jual 500.000 Saham [Divestasi]",
+  "deck": "Komisaris EMAS Xinyu Wang melepas 500.000 saham senilai sekitar Rp3,94 miliar pada 20 Agustus 2026, setara 34 persen dari kepemilikannya sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T21:05:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-9163-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) melaporkan kepada Otoritas Jasa Keuangan bahwa anggota Dewan Komisaris perseroan, Xinyu Wang, warga negara asing, mengubah jumlah kepemilikan sahamnya di EMAS. Sebelum transaksi, Xinyu Wang memegang 1.470.300 lembar saham dengan hak suara 0,01 persen. Setelah transaksi, kepemilikannya berkurang menjadi 970.300 lembar saham, dengan hak suara turun menjadi 0,007 persen.",
+   "Berdasarkan laporan yang diterima KSEI pada 24 Agustus 2026, pengurangan itu berasal dari penjualan 500.000 lembar saham biasa EMAS secara tidak langsung, dengan harga Rp7.875 per saham pada 20 Agustus 2026. Total nilai transaksi tersebut sekitar Rp3,94 miliar. Dalam laporan, tujuan transaksi dicatat sebagai divestasi, dan jumlah saham yang dilepas setara 34 persen dari kepemilikan Xinyu Wang sebelum transaksi.",
+   "Laporan ini disampaikan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Open-pit gold mine terrain in Indonesia at dawn, heavy excavators moving ore, dust haze over the hillside",
+  "takeaway": "Laporan ini condong negatif sebagai sinyal internal, karena meski porsi kepemilikan Xinyu Wang di EMAS memang kecil sejak awal, saham yang dilepas mencapai sekitar 34 persen dari kepemilikan pribadinya sendiri, jumlah yang cukup besar untuk dibaca sebagai pengurangan keyakinan, bukan sekadar transaksi remah. Yang tersentuh di sini adalah hak suara sang komisaris di EMAS, yang turun dari 0,01 persen menjadi 0,007 persen, sebuah pos yang dipantau pelaku pasar karena pergerakan kepemilikan insider seperti ini kerap dibaca sebagai indikator sikap manajemen terhadap prospek perusahaan, meski di sini dampaknya terhadap struktur pengendalian EMAS secara keseluruhan tetap kecil. Yang perlu dipantau berikutnya adalah apakah ada laporan kepemilikan lanjutan dari komisaris atau direksi EMAS lain dalam waktu dekat, yang bisa menunjukkan pola pelepasan saham yang lebih luas di jajaran manajemen.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kras-jadwal-rupslb-diundur-ke-7-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "KRAS [Jadwal] RUPSLB Diundur ke 7 September 2026",
+  "deck": "Krakatau Steel menunda RUPSLB dari 26 Agustus ke 7 September 2026, dengan agenda perubahan aturan dana pensiun, anggaran dasar, dan susunan pengurus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:56:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba2d32c91_71d936f3fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRAS",
+  "tags": [
+   "KRAS",
+   "RUPSLB",
+   "Krakatau Steel",
+   "BUMN"
+  ],
+  "body": [
+   "Krakatau Steel (Persero) Tbk mengubah jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), dari semula Rabu, 26 Agustus 2026, menjadi Senin, 7 September 2026, pukul 14.00 WIB, di lokasi yang sama, yakni Ruang Rapat Basement Gedung Krakatau Steel, Jalan Gatot Subroto Kav. 54, Jakarta. Perubahan ini disampaikan Corporate Secretary Rachman Hidayat lewat surat tertanggal 24 Agustus 2026, sebagai ralat atas pemanggilan rapat sebelumnya yang terbit 3 Agustus 2026. Tanggal pencatatan pemegang saham yang berhak hadir atau diwakili dalam rapat ditetapkan 21 Agustus 2026, berdasarkan data di Kustodian Sentral Efek Indonesia (KSEI).",
+   "RUPSLB ini akan membahas tiga agenda. Pertama, persetujuan perubahan Peraturan Dana Pensiun Krakatau Steel, menyusul tanggapan Otoritas Jasa Keuangan lewat surat tertanggal 26 Juni 2026 atas permohonan pengesahan perubahan aturan dana pensiun tersebut. Kedua, persetujuan perubahan anggaran dasar perseroan, yang didasarkan pada penyesuaian klasifikasi baku lapangan usaha Indonesia (KBLI) tahun 2025 sesuai surat edaran bersama Kementerian Investasi dan Hilirisasi, Kementerian Hukum, dan Badan Pusat Statistik. Ketiga, perubahan susunan pengurus perseroan, merujuk pada Undang-Undang BUMN dan Anggaran Dasar Perseroan soal wewenang RUPS untuk mengangkat dan memberhentikan direksi maupun komisaris.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara fisik, formulir surat kuasa harus dikirim ke Biro Administrasi Efek PT BSR Indonesia paling lambat 4 September 2026, dengan dokumen asli dibawa saat rapat. Pemegang saham yang memilih memberi suara lewat aplikasi eASY.KSEI wajib mengisi deklarasi kehadiran atau kuasa serta pilihan suara paling lambat pukul 12.00 WIB, satu hari kerja sebelum rapat. Registrasi kehadiran fisik di lokasi rapat ditutup 30 menit sebelum acara dimulai, yakni pukul 13.30 WIB."
+  ],
+  "fotoAdegan": "Wide view of a steel mill's rolling line with a faint molten metal glow, workers in safety gear at a distance, industrial haze",
+  "takeaway": "Perubahan jadwal RUPSLB ini tergolong netral bagi Krakatau Steel, karena hanya menggeser waktu pelaksanaan rapat sebelas hari, bukan mengubah substansi agenda atau kondisi keuangan perusahaan. Yang justru layak disimak dari agenda rapat adalah rencana perubahan susunan pengurus, sebab pergantian direksi atau komisaris di BUMN sekelas Krakatau Steel bisa mengubah arah strategi dan kebijakan operasional perusahaan baja pelat merah ini, meski laporan ini belum merinci siapa yang akan diganti atau ditambah. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 7 September 2026, termasuk tenggat pengiriman surat kuasa fisik ke BAE pada 4 September 2026 dan batas pengisian suara elektronik pukul 12.00 WIB sehari sebelum rapat, karena hasil rapat itulah yang akan menentukan siapa pengurus baru serta bagaimana anggaran dasar dan aturan dana pensiun perusahaan berubah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-jadwalkan-rupslb-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Jadwalkan RUPSLB [30 September 2026]",
+  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 30 September 2026 pukul 14.00 WIB di Jakarta; mata acara resmi baru diumumkan 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:49:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/68acf1f28b_a19eb9bf98.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "Adhi Karya",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026 pukul 14.00 WIB, bertempat di ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan, atau pemilik saham dalam penitipan kolektif KSEI, hingga penutupan perdagangan Senin, 7 September 2026 pukul 16.00 WIB. Surat pemberitahuan ini merujuk pada surat sebelumnya bernomor 328/SP-VIII/2026 dan ditandatangani Corporate Secretary Adhi Karya, Siswanto, pada 24 Agustus 2026.",
+   "Mata acara resmi RUPSLB baru akan diumumkan lewat surat pemanggilan pada Selasa, 8 September 2026, melalui situs KSEI, Bursa Efek Indonesia, dan situs perseroan. Sesuai POJK 15/2020, pemegang saham yang menguasai minimal 1/20 atau 5 persen dari total saham berhak suara dapat mengusulkan tambahan mata acara, dengan syarat usulan itu sudah diterima Direksi selambat-lambatnya tujuh hari sebelum tanggal pemanggilan, yaitu sekitar 1 September 2026.",
+   "Rapat akan digelar secara hybrid, fisik dan elektronik, memakai fasilitas eASY.KSEI. Pemegang saham bisa hadir langsung, mengikuti secara elektronik, memberi kuasa konvensional kepada penerima kuasa independen yang ditunjuk perseroan, atau menggunakan kuasa elektronik (e-Proxy) lewat eASY.KSEI. Fasilitas e-Proxy itu terbuka sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB digelar, yakni Selasa, 29 September 2026."
+  ],
+  "fotoAdegan": "Workers and cranes at a large elevated toll road construction site in Jakarta under overcast morning sky.",
+  "takeaway": "Pemberitahuan ini sendiri netral bagi Adhi Karya karena baru memuat jadwal dan mekanisme rapat, belum ada mata acara yang diumumkan sehingga belum ada keputusan korporasi baru yang bisa dinilai. Yang patut dicermati, RUPSLB ini muncul persis setelah rentetan masalah keuangan perseroan, mulai dari gagal bayar bunga obligasi, suspensi saham oleh bursa, hingga pemangkasan peringkat kredit ke idB oleh PEFINDO. Kalau mata acara nanti menyangkut restrukturisasi utang atau penambahan modal, itu berpotensi menyentuh jumlah saham beredar, yang menentukan porsi kepemilikan tiap pemegang saham, atau struktur ekuitas perseroan, sehingga pasar akan mencermatinya begitu diumumkan. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi berisi mata acara pada 8 September 2026, batas usulan mata acara tambahan oleh pemegang saham besar sekitar 1 September 2026, serta pelaksanaan RUPSLB itu sendiri pada 30 September 2026 pukul 14.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "psgo-tanggapi-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PSGO Tanggapi Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Palma Serasih menyatakan tak mengetahui informasi material apa pun yang menjelaskan pergerakan tak biasa sahamnya, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:34:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/490b923537_44a83c3280.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "Palma Serasih",
+   "Bursa Efek Indonesia",
+   "Volatilitas Saham"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) merespons permintaan penjelasan dari Bursa Efek Indonesia melalui surat bernomor S-10927/BEI.PP3/08-2026 tertanggal 24 Agustus 2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan bernomor 003/PS/CORSEC/EKS/VIII/2026 yang disetujui oleh Corporate Secretary Astrida Niovita Bachtiar, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material dan ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham, serta belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa. Soal rencana pemegang saham utama atas kepemilikannya, perseroan menyebut sampai surat itu diterbitkan belum ada rencana yang disampaikan kepada Corporate Secretary.",
+   "Surat semacam ini lazim diminta bursa ketika transaksi saham sebuah emiten bergerak tidak wajar dibanding pola historisnya, sebagai bagian dari mekanisme pengawasan pasar oleh BEI terhadap dugaan aktivitas transaksi yang tidak didasari informasi fundamental."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "takeaway": "Tanggapan ini netral bagi PSGO karena isinya sekadar penegasan bahwa perseroan tidak mengetahui penyebab pergerakan sahamnya, tanpa ada angka, transaksi, atau peristiwa baru yang mengubah kondisi keuangan maupun operasional perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham yang tersentuh langsung oleh surat ini, karena nilainya justru terletak pada kepastian bahwa tidak ada aksi korporasi atau perubahan kepemilikan pengendali yang sedang disembunyikan, hal yang biasa dicermati pasar untuk menilai risiko dilusi atau perubahan kendali perusahaan. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham PSGO mereda setelah surat tertanggal 24 Agustus 2026 ini terbit, atau apakah Bursa kembali meminta penjelasan bila pola transaksi tak biasa itu berlanjut, mengingat perseroan sendiri mengaku belum punya rencana aksi korporasi dalam tiga bulan ke depan.",
+  "sentimen": "netral"
  },
  {
   "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
@@ -1229,7 +1440,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "[Rupiah] Melemah ke Rp17.697 usai CAD Kuartal II Melebar",
   "deck": "Rupiah melemah tipis ke Rp17.697 per dolar AS, tertekan sentimen defisit transaksi berjalan kuartal II-2026 yang melebar signifikan meski kredit perbankan Juli masih tumbuh solid.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:49:09+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462084-rupiah-melemah-ke-rp17697-per-dolar-as-usai-laporan-soal-defisit-neraca-transaksi-dan-kredit-perbankan-juli-2026",
@@ -1284,7 +1495,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:26:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",
@@ -1445,7 +1656,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
   "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
-  "image": "assets/img/batik-umkm.jpg",
+  "image": "assets/img/kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-23T23:21:23.162Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kolaborasi-ekspor-dengan-pemerintah-daerah-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris",
@@ -3234,7 +3445,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.694, BI Rate Tetap 5,75 Persen",
   "deck": "Rupiah ditutup menguat 54 poin ke Rp17.694 per dolar AS, ditopang keputusan BI menahan suku bunga acuan sementara arah suku bunga The Fed masih belum jelas.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-menguat-ke-rp17-694-bi-rate-tetap-5-75-persen.jpg",
   "date": "21 Agustus 2026",
   "isoDate": "2026-08-21T16:23:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461519-rupiah-menguat-54-poin-ke-rp17694-per-dolar-as-didukung-bi-rate-575-persen",

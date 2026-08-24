@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pengusaha-minta-stabilitas-dijaga-demi-investasi",
+  "category": "Bisnis",
+  "title": "Pengusaha Minta Stabilitas Dijaga demi [Investasi]",
+  "deck": "HIPMI menyerukan dinamika penyampaian aspirasi di berbagai daerah tidak mengganggu aktivitas ekonomi, investasi, dan lapangan kerja yang tengah dibangun.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/pengusaha-minta-stabilitas-dijaga-demi-investasi.jpg",
+  "imageV": "mt6ycq08",
+  "tags": [
+   "HIPMI",
+   "investasi",
+   "stabilitas ekonomi",
+   "dunia usaha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462131-dunia-usaha-serukan-kondusivitas-jaga-momentum-investasi-dan-aktivitas-ekonomi"
+ },
+ {
   "slug": "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
   "category": "Aksi Korporasi",
   "title": "SCPI: Direktur Yeap Xin Yi Mundur, Direksi [Berubah]",
@@ -346,7 +363,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6593,22 +6610,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemenperin.go.id/artikel/72482751/Program-Restrukturisasi-MesinPeralatan-pada-Tekstil-dan-Produk-Tekstil-Tahun-Anggaran-2026",
   "sourceLabel": "Kementerian Perindustrian"
- },
- {
-  "slug": "kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025",
-  "category": "Aksi Korporasi",
-  "title": "KBLM Panggil RUPSLB 7 September, Agenda [Penyesuaian] KBLI 2025",
-  "deck": "RUPSLB Kabelindo Murni digelar 7 September 2026 untuk mengubah Pasal 3 Anggaran Dasar menyesuaikan klasifikasi usaha KBLI 2025, perusahaan menyebutnya murni administratif.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kblm-panggil-rupslb-7-september-agenda-penyesuaian-kbli-2025.jpg",
-  "imageV": "msxg4ht6",
-  "tags": [
-   "KBLM",
-   "RUPSLB",
-   "Kabelindo Murni",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/02b02d0cef_ca861638e7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

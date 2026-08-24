@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "6WnRuyBPVcA",
+  "title": "Kurs Rupiah dan Harga Emas Antam 24 Agustus 2026",
+  "category": "Moneter",
+  "program": "Kabar Siang",
+  "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
+  "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik.",
+  "terbit": "2026-08-24T07:35:07+00:00"
+ },
+ {
   "id": "K-HCBg9XDVk",
   "title": "Perpres Ojol Sangat Dinanti Driver, Apa Saja Isinya?",
   "category": "Ketenagakerjaan",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pemerintah mengarahkan kebijakan dan RAPBN 2027 pada delapan Program Kerja Prioritas Nasional, termasuk penciptaan lapangan kerja, untuk mendukung target pembangunan Presiden Prabowo Subianto.",
   "takeaway": "Relevan bagi pembaca ekonomi karena memuat arah kebijakan fiskal dan prioritas ketenagakerjaan yang berdampak pada dunia usaha dan pencari kerja.",
   "terbit": "2026-08-15T21:15:49+07:00"
- },
- {
-  "id": "l5jJVLJgwXc",
-  "title": "Pemerintah Kembangkan B50 sebagai Pilar Ketahanan Energi",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
-  "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi.",
-  "terbit": "2026-08-15T21:13:21+07:00"
  }
 ];

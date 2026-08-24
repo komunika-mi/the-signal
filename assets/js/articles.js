@@ -55,6 +55,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "pengusaha-minta-stabilitas-dijaga-demi-investasi",
+  "category": "Bisnis",
+  "title": "Pengusaha Minta Stabilitas Dijaga demi [Investasi]",
+  "deck": "HIPMI menyerukan dinamika penyampaian aspirasi di berbagai daerah tidak mengganggu aktivitas ekonomi, investasi, dan lapangan kerja yang tengah dibangun.",
+  "image": "assets/img/pengusaha-minta-stabilitas-dijaga-demi-investasi.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T13:34:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462131-dunia-usaha-serukan-kondusivitas-jaga-momentum-investasi-dan-aktivitas-ekonomi",
+  "tags": [
+   "HIPMI",
+   "investasi",
+   "stabilitas ekonomi",
+   "dunia usaha"
+  ],
+  "body": [
+   "Di tengah aksi penyampaian aspirasi yang terjadi di sejumlah daerah, kalangan pengusaha meminta agar situasi tetap aman dan kondusif. Himpunan Pengusaha Muda Indonesia (HIPMI) menilai stabilitas menjadi syarat penting agar aktivitas masyarakat, perdagangan, dan investasi tetap berjalan normal.",
+   "Sekretaris Jenderal BPP HIPMI, Anthony Leong, menyatakan penyampaian aspirasi adalah bagian dari demokrasi yang harus dihormati, tetapi stabilitas ekonomi sama pentingnya untuk dijaga bersama. Menurutnya, situasi yang tenang memberi kepastian bagi pengusaha untuk beroperasi, memperluas usaha, berinvestasi, dan membuka lapangan kerja baru.",
+   "Anthony mengingatkan, jika ketidakpastian berlangsung lama, pengusaha cenderung menunda keputusan bisnis atau bersikap wait and see. Dampaknya tidak hanya dirasakan investasi besar, tetapi juga merembet ke pedagang, UMKM, pekerja harian, restoran, ritel, transportasi, dan logistik, yaitu usaha-usaha yang bergantung langsung pada mobilitas masyarakat sehari-hari.",
+   "Ia juga menekankan bahwa kondusivitas bukan semata soal keamanan, melainkan juga soal kepercayaan terhadap perekonomian nasional. Ketika ada kepastian, pengusaha disebut lebih berani melakukan ekspansi, investasi, dan merekrut pekerja baru."
+  ],
+  "fotoAdegan": "Street vendors and shoppers moving through a busy market alley in Indonesia, motorbikes parked along the road, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/24/6a8be56538c11-sekretaris-jenderal-badan-pengurus-pusat-himpunan-pengusaha-muda-indonesia-bpp-hipmi-anthony-leong_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pernyataan HIPMI ini adalah imbauan, bukan kebijakan atau data resmi, jadi belum ada perubahan konkret yang bisa diukur seperti nilai investasi yang batal atau omzet yang turun. Yang disebut paling rentan terdampak kalau situasi memburuk bukan perusahaan besar, melainkan usaha kecil yang mengandalkan keramaian sehari-hari, seperti pedagang, restoran, ritel, dan jasa transportasi. Yang masih kurang untuk menilai ke mana arah situasi ini adalah bukti lapangan, misalnya laporan proyek investasi yang benar-benar tertunda, data omzet pelaku usaha kecil di wilayah terdampak, atau langkah resmi pemerintah menjaga keamanan. Sampai data semacam itu muncul, pernyataan ini baru mencerminkan kekhawatiran dunia usaha, bukan bukti dampak ekonomi yang sudah terjadi.",
+  "imageV": "mt6ycq08"
+ },
+ {
   "slug": "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
   "category": "Aksi Korporasi",
   "title": "SCPI: Direktur Yeap Xin Yi Mundur, Direksi [Berubah]",
@@ -553,7 +580,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:26:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",

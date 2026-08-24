@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-21T21:27:12.885+07:00",
+ "diperbarui": "2026-08-24T21:36:56.834+07:00",
  "entri": [
+  {
+   "id": "2026-08-24-3",
+   "edisi": "2026-08-24",
+   "benang": "Kredit Korporasi di Luar Sektor Bermasalah Tetap Jalan",
+   "klaim": "Tekanan utang saat ini masih terkonsentrasi di BUMN karya dan belum menjalar menjadi pengetatan kredit yang lebih luas.",
+   "penanda": "Data pertumbuhan kredit perbankan Agustus dari Bank Indonesia dan langkah Fitch berikutnya jika leverage EXCL terus naik",
+   "tenggat": null,
+   "tenggatLabel": "data pertumbuhan kredit perbankan Agustus dari Bank Indonesia",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-24-2",
+   "edisi": "2026-08-24",
+   "benang": "Bursa Naik Level dari Tanya ke Sanksi Nyata",
+   "klaim": "Bursa Efek Indonesia semakin cepat berpindah dari klarifikasi rutin menjadi sanksi begitu ada pelanggaran konkret.",
+   "penanda": "Apakah REFI menyampaikan laporan keuangannya sebelum sanksi naik ke Peringatan Tertulis II",
+   "tenggat": null,
+   "tenggatLabel": "sebelum sanksi naik ke Peringatan Tertulis II",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-24-1",
+   "edisi": "2026-08-24",
+   "benang": "Distres Utang BUMN Karya Terus Menajam",
+   "klaim": "ADHI dan PTPP bergerak searah dari indikasi tekanan kas menjadi langkah restrukturisasi dan gagal bayar utang yang nyata.",
+   "penanda": "Hasil pemungutan suara RUPSLB PTPP atas Master Restructuring Agreement",
+   "tenggat": "2026-09-15",
+   "tenggatLabel": "RUPSLB PTPP pada 15 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-21-3",
    "edisi": "2026-08-21",
@@ -41,8 +74,13 @@ var RAPOR = {
    "penanda": "Apakah ADHI benar-benar menunda pembayaran bunga obligasinya pada 24 Agustus atau berhasil melunasi seperti PPGD.",
    "tenggat": "2026-08-24",
    "tenggatLabel": "24 Agustus",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
+    "judul": "BEI Suspensi Saham ADHI usai Gagal Bayar Kupon Obligasi",
+    "tanggal": "24 Agustus 2026",
+    "alasan": "Artikel arsip menunjukkan ADHI benar-benar gagal bayar kupon obligasi (bukan sekadar potensi) sehingga sahamnya disuspensi BEI, diperkuat artikel RUPO ADHI yang menyetujui penundaan bunga obligasi ke Juli 2027."
+   }
   },
   {
    "id": "2026-08-20-3",
@@ -107,8 +145,13 @@ var RAPOR = {
    "penanda": "Apakah ADHI berhasil membayar kupon obligasi yang jatuh tempo",
    "tenggat": "2026-08-24",
    "tenggatLabel": "kupon yang jatuh tempo 24 Agustus mendatang",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
+    "judul": "BEI Suspensi Saham ADHI usai Gagal Bayar Kupon Obligasi",
+    "tanggal": "24 Agustus 2026",
+    "alasan": "Artikel arsip menyebut ADHI gagal membayar kupon obligasi hingga sahamnya disuspensi BEI, dan RUPO ADHI baru menyetujui penundaan bunga ke Juli 2027, menunjukkan tekanan likuiditas memang meluas dan ADHI tidak berhasil membayar kupon sesuai jadwal."
+   }
   },
   {
    "id": "2026-08-18-3",

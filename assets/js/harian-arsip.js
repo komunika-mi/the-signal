@@ -2,6 +2,82 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-08-24",
+  "tanggalLabel": "Senin, 24 Agustus 2026",
+  "judul": "Distres BUMN Karya Menajam, Bursa Perketat, Kredit Lain Normal",
+  "ringkas": "Distres utang di ADHI dan PTPP terus menajam sejak pekan lalu, sementara Bursa Efek Indonesia menaikkan level pengawasan dari sekadar bertanya menjadi sanksi konkret, di tengah akses kredit korporasi lain yang masih berjalan normal.",
+  "benang": [
+   {
+    "judul": "Distres Utang BUMN Karya Terus Menajam",
+    "isi": "RUPO ADHI menyetujui penundaan dua kali pembayaran bunga Obligasi Berkelanjutan IV Tahap I 2024 ke Juli 2027, tapi Bursa Efek Indonesia tetap menghentikan sementara perdagangan sahamnya di seluruh pasar setelah perseroan gagal membayar bunga ke-17 obligasi seri B dan C yang jatuh tempo 24 Agustus 2026. Di hari yang sama, PTPP memanggil RUPSLB untuk 15 September 2026, meminta persetujuan pemegang saham atas restrukturisasi menyeluruh lewat Master Restructuring Agreement yang mengonversi pinjaman bank dan non-bank jangka pendek menjadi jangka panjang, melanjutkan rentetan permintaan restrukturisasi obligasi dan sukuk yang sudah diumumkan sejak 18 Agustus. Kedua BUMN karya ini bergerak searah, dari indikasi tekanan kas pekan lalu menjadi langkah restrukturisasi dan gagal bayar nyata pekan ini. Yang akan menegaskan arah ini adalah hasil pemungutan suara RUPSLB PTPP pada 15 September atas Master Restructuring Agreement tersebut."
+   },
+   {
+    "judul": "Bursa Naik Level dari Tanya ke Sanksi Nyata",
+    "isi": "Pola pekan lalu berlanjut: enam emiten, BRRC, SMKM, PSAB, VRNA, APLI, dan TRUS, sama-sama menjawab surat permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi saham dengan jawaban serupa, tidak ada informasi material yang belum diungkapkan, meski SMKM tetap membocorkan rencana rights issue dalam waktu dekat. Di sisi lain bursa menjatuhkan tindakan yang lebih konkret: Peringatan Tertulis I ke REFI karena belum menyampaikan laporan keuangan tengah tahunan hingga lewat batas 31 Juli 2026, memasukkan GTBO ke Papan Pemantauan Khusus mulai 26 Agustus, dan menyuspensi ADHI di seluruh pasar akibat gagal bayar kupon. Sebagai pembanding, suspensi BIKE yang berjalan sejak akhir April justru dicabut hari ini setelah keterbukaan informasi soal perubahan pengendaliannya dinilai lengkap. Arahnya konsisten dengan pekan lalu, bursa semakin cepat berpindah dari klarifikasi rutin menjadi sanksi begitu ada pelanggaran konkret. Yang perlu diperhatikan adalah apakah REFI menyampaikan laporan keuangannya sebelum sanksi naik ke Peringatan Tertulis II."
+   },
+   {
+    "judul": "Kredit Korporasi di Luar Sektor Bermasalah Tetap Jalan",
+    "isi": "Di tengah distres ADHI dan PTPP, saluran pembiayaan korporasi lain terlihat berjalan normal. Batavia Prosperindo Internasional mendapat fasilitas kredit modal kerja Rp80 miliar dari CIMB Niaga, dan ASSA menambah fasilitas pinjaman tetap dari bank yang sama sebesar Rp40 miliar sehingga totalnya naik dari Rp60 miliar menjadi Rp100 miliar untuk memperbesar armada kendaraan sewa. Fitch Ratings pada hari yang sama menegaskan ulang peringkat AAA(idn) untuk tujuh obligasi Astra Sedaya Finance senilai sekitar Rp4,78 triliun dan mempertahankan AA+(idn) EXCL dengan outlook stabil, meski Fitch mencatat ruang kenaikan leverage EXCL sudah nyaris habis akibat konsolidasi dengan Smartfren. Kombinasi ini menunjukkan tekanan utang saat ini masih terkonsentrasi di BUMN karya, belum menjalar jadi pengetatan kredit yang lebih luas. Yang akan menguji arah ini adalah data pertumbuhan kredit perbankan Agustus dari Bank Indonesia dan langkah Fitch berikutnya jika leverage EXCL terus naik."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah PTPP dan ADHI berhasil menjaga proses restrukturisasi mereka tetap berjalan sesuai jadwal, karena itu yang akan menunjukkan apakah distres ini tetap terbatas di BUMN karya atau mulai merembet ke sektor lain.",
+  "jumlahBahan": 51,
+  "bahanSlug": [
+   "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
+   "rupo-adhi-setujui-penundaan-bunga-obligasi-ke-juli-2027",
+   "bpii-peroleh-kredit-rp80-miliar-dari-cimb-niaga",
+   "bbsi-rupslb-gagal-kuorum-perubahan-direksi-batal-dibahas",
+   "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
+   "cybr-komisaris-andri-hutama-putra-jual-1-76-juta-saham",
+   "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
+   "mcor-undur-rupslb-pergantian-direksi-ke-15-september",
+   "ptpp-panggil-rupslb-15-september-ajukan-restrukturisasi-total",
+   "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",
+   "saham-gtbo-masuk-papan-pemantauan-khusus-bei-26-agustus",
+   "brrc-bantah-ada-info-material-di-balik-volatilitas-saham",
+   "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
+   "dmnd-jadwalkan-rupslb-pada-30-september-2026",
+   "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
+   "elsa-direktur-sdm-hera-handayani-mundur-tunggu-rupslb",
+   "tapg-terima-rp746-7-m-dari-dividen-interim-amp",
+   "smkm-jawab-bursa-siapkan-rights-issue-dalam-3-bulan",
+   "fwct-umumkan-rencana-rupslb-pada-1-oktober-2026",
+   "bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari",
+   "kdtn-putrasakti-mandiri-jual-lagi-4-juta-saham-hak-suara-34-24",
+   "amar-jadwalkan-rupslb-pada-30-september-2026",
+   "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
+   "xdif-pengendali-brimi-berganti-merger-ke-mandiri-mi-1-sept",
+   "bq-sesuaikan-waran-terstruktur-bbca-usai-dividen-tunai",
+   "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
+   "tnca-undang-rupslb-16-september-agenda-perubahan-direksi",
+   "pengusaha-minta-stabilitas-dijaga-demi-investasi",
+   "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
+   "psab-jawab-bursa-soal-volatilitas-transaksi-saham",
+   "emtk-lepas-99-99-saham-anak-usaha-aca-ke-yuslinda-nasution",
+   "trus-bantah-ada-informasi-material-soal-volatilitas-saham",
+   "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
+   "goto-rafly-umarsyah-tambah-kepemilikan-saham-jadi-2-200-unit",
+   "akpi-komisaris-henry-liem-jual-600-saham-rp309-ribu",
+   "apli-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
+   "cybr-direksi-wna-borong-5-62-juta-saham-itsec-asia",
+   "btel-profesional-telekomunikasi-indonesia-kuasai-10-86-saham",
+   "excl-fitch-pertahankan-rating-aa-ruang-gerak-menyempit",
+   "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
+   "assa-tambah-fasilitas-kredit-cimb-niaga-jadi-rp100-m-modal-kerja",
+   "heal-komisaris-hasmoro-beli-lagi-737-700-saham-hermina",
+   "vrna-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
+   "klbf-komisaris-tambah-kepemilikan-saham-50-000-lembar",
+   "asdf-fitch-afirmasi-peringkat-aaa-untuk-tujuh-obligasi",
+   "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
+   "rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar",
+   "harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg",
+   "harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram",
+   "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
+   "asbi-jadwalkan-rupslb-30-september-2026"
+  ],
+  "dibuat": "2026-08-24T14:36:03.519Z"
+ },
+ {
   "tanggal": "2026-08-21",
   "tanggalLabel": "Jumat, 21 Agustus 2026",
   "judul": "Utang BUMN Menajam ke Gagal Bayar, Bursa Naikkan Sanksi Saham",

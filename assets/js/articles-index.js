@@ -198,6 +198,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari",
+  "category": "Bisnis",
+  "title": "BPJS Buka [Cicilan] Iuran Mulai Rp10.000 per Hari",
+  "deck": "Program REHAB 3.0 BPJS Kesehatan memberi peserta mandiri opsi mencicil tunggakan iuran JKN mulai Rp10.000 per hari agar kepesertaan tetap aktif.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari.jpg",
+  "imageV": "mt75t3n7",
+  "tags": [
+   "BPJS Kesehatan",
+   "REHAB 3.0",
+   "JKN",
+   "cicilan iuran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462162-program-rehab-30-buka-pilihan-cicilan-sesuai-kemampuan"
+ },
+ {
   "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
   "category": "Aksi Korporasi",
   "title": "AMAR Jadwalkan [RUPSLB] pada 30 September 2026",
@@ -636,7 +653,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6576,22 +6593,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b6e3990_ce89012025.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus",
-  "category": "UMKM",
-  "title": "Kemendag Catat [23] Kesepakatan Ritel dari Program Wirausaha Kampus",
-  "deck": "Program Campuspreneur Kemendag mencatat 23 kesepakatan awal wirausaha kampus dengan ritel modern, serta ekspor pinang binaan IPB senilai Rp2,2 miliar ke Bangladesh dan Maladewa.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kemendag-catat-23-kesepakatan-ritel-dari-program-wirausaha-kampus.jpg",
-  "imageV": "msslu0tk",
-  "tags": [
-   "Campuspreneur",
-   "UMKM",
-   "ekspor",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/semester-i-2026-kemendag-perkuat-sinergi-campuspreneur-untuk-cetak-wirausaha-muda-berorientasi-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

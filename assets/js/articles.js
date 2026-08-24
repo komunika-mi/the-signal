@@ -316,6 +316,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari",
+  "category": "Bisnis",
+  "title": "BPJS Buka [Cicilan] Iuran Mulai Rp10.000 per Hari",
+  "deck": "Program REHAB 3.0 BPJS Kesehatan memberi peserta mandiri opsi mencicil tunggakan iuran JKN mulai Rp10.000 per hari agar kepesertaan tetap aktif.",
+  "image": "assets/img/bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:27:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462162-program-rehab-30-buka-pilihan-cicilan-sesuai-kemampuan",
+  "tags": [
+   "BPJS Kesehatan",
+   "REHAB 3.0",
+   "JKN",
+   "cicilan iuran"
+  ],
+  "body": [
+   "BPJS Kesehatan memperkenalkan Program REHAB 3.0, skema pembayaran bertahap bagi peserta mandiri atau PBPU/BP, yaitu pekerja yang bukan penerima upah tetap, yang memiliki tunggakan iuran JKN. Alih-alih diwajibkan melunasi seluruh tunggakan sekaligus, peserta kini bisa memilih mencicil harian mulai Rp10.000 per hari atau cicilan bulanan, disesuaikan dengan kemampuan ekonomi masing-masing. Skema ini penting bagi rumah tangga berpenghasilan tidak tetap yang selama ini kesulitan mempertahankan status aktif kepesertaan karena tunggakan menumpuk.",
+   "Elok Afifah, ibu rumah tangga di Desa Cakru, Jember, merasakan manfaat itu. Ia sempat terhimpit pilihan antara memenuhi kebutuhan dapur atau melunasi tunggakan iuran sekaligus, sampai petugas BPJS Kesehatan mengenalkannya pada REHAB 3.0. Dengan memilih cicilan harian Rp10.000, ia bisa menyicil sedikit demi sedikit tanpa mengganggu stabilitas keuangan keluarganya.",
+   "Pengalaman serupa dialami Roni, warga Kabupaten Magetan, Jawa Timur, yang menilai tunggakan iuran tidak selalu soal kedisiplinan peserta, melainkan kondisi ekonomi yang bisa berubah sewaktu-waktu. Skema cicilan harian memungkinkannya menyisihkan sebagian penghasilan secara bertahap tanpa harus menunggu terkumpulnya dana dalam jumlah besar untuk kembali memperoleh manfaat Program JKN."
+  ],
+  "fotoAdegan": "A woman speaking with a clinic staff member at a rural community health counter in East Java, soft morning light, papers held at an angle",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/24/6a8bffd731bf6-program-rehab-30-buka-pilihan-cicilan-sesuai-kemampuan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara bayar, bukan besaran iuran: peserta mandiri BPJS Kesehatan yang menunggak kini bisa mencicil dari Rp10.000 per hari, bukan lagi harus melunasi seluruh tunggakan sekaligus agar kepesertaannya aktif kembali. Yang terdampak adalah peserta PBPU/BP, kelompok pekerja mandiri dengan penghasilan tidak tetap yang selama ini paling rentan menunggak. Berita ini belum menyebut berapa total peserta yang sudah memakai skema ini secara nasional, berapa lama batas waktu mencicil, atau apakah ada konsekuensi bila cicilan terlambat, padahal itu yang menentukan apakah program ini benar meringankan beban atau sekadar menunda pelunasan. Yang perlu ditunggu adalah data cakupan REHAB 3.0 dari BPJS Kesehatan secara nasional, karena dua kisah peserta saja belum cukup menggambarkan seberapa luas skema ini benar terpakai.",
+  "imageV": "mt75t3n7"
+ },
+ {
   "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
   "category": "Aksi Korporasi",
   "title": "AMAR Jadwalkan [RUPSLB] pada 30 September 2026",
@@ -1023,7 +1049,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
   "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T09:26:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",

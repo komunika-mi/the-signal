@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asbi-jadwalkan-rupslb-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Jadwalkan [RUPSLB] 30 September 2026",
+  "deck": "Asuransi Bintang mengumumkan rencana RUPS Luar Biasa pada 30 September, pemegang saham per 7 September berhak hadir. Agenda resmi baru terbit lewat pemanggilan 8 September.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "RUPSLB",
+   "Asuransi Bintang",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6ddc2781d8_ef049a5698.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-jerman-perkuat-investasi-energi-terbarukan",
   "category": "Energi",
   "title": "Indonesia-Jerman [Perkuat] Investasi Energi Terbarukan",
@@ -64,7 +80,7 @@ var ARTICLES = [
   "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
   "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/batik-umkm.jpg",
   "tags": [
    "ekspor kopi",
    "Jawa Barat",
@@ -6623,22 +6639,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6e39b321a7_0ab7ccc046.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kur-bri-tembus-rp103-81-triliun-hingga-juni-2026",
-  "category": "UMKM",
-  "title": "KUR BRI Tembus [Rp103,81 Triliun] hingga Juni 2026",
-  "deck": "Penyaluran KUR BRI capai Rp103,81 triliun ke 2 juta debitur hingga akhir Juni 2026, didominasi sektor pertanian dan perdagangan.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/kur-bri-tembus-rp103-81-triliun-hingga-juni-2026.jpg",
-  "imageV": "msrdp4xm",
-  "tags": [
-   "KUR",
-   "BRI",
-   "UMKM",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459639-dukung-agenda-pemberdayaan-ekonomi-danantara-penyaluran-kur-bri-hingga-akhir-juni-2026-capai-rp10381-triliun"
  }
 ];

@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asbi-jadwalkan-rupslb-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Jadwalkan [RUPSLB] 30 September 2026",
+  "deck": "Asuransi Bintang mengumumkan rencana RUPS Luar Biasa pada 30 September, pemegang saham per 7 September berhak hadir. Agenda resmi baru terbit lewat pemanggilan 8 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:05:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6ddc2781d8_ef049a5698.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "RUPSLB",
+   "Asuransi Bintang",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 30 September 2026 pukul 10.00 sampai 12.00 WIB, bertempat di Kantor Pusat perseroan di Jalan RS Fatmawati No. 32, Cilandak, Jakarta Selatan. Surat pemberitahuan bernomor 187/SK/PDIR-HSM/VIII/2026 ini ditandatangani oleh Presiden Direktur Hastanto Sri Margi Widodo dan dikirim ke Bursa Efek Indonesia, Otoritas Jasa Keuangan, dan PT Kustodian Sentral Efek Indonesia (KSEI) pada 24 Agustus 2026. Yang berhak hadir atau diwakili dalam rapat adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) perseroan pada Selasa, 7 September 2026 pukul 16.00 WIB.",
+   "Dokumen ini baru memuat jadwal dan mekanisme, bukan agenda rapat. Pemanggilan resmi yang berisi mata acara RUPSLB akan diumumkan lewat situs web perseroan, situs Bursa Efek Indonesia, dan eASY.KSEI pada Rabu, 8 September 2026. Bagi pemegang saham yang tidak bisa hadir langsung, tersedia fasilitas kuasa elektronik (e-Proxy) lewat sistem eASY.KSEI, yang bisa digunakan sejak tanggal pemanggilan sampai sehari sebelum rapat, yaitu Selasa, 29 September 2026.",
+   "Perseroan juga menjelaskan syarat bagi pemegang saham yang ingin mengusulkan mata acara tambahan. Usulan harus diajukan tertulis ke Direksi oleh satu atau lebih pemegang saham yang bersama-sama memiliki minimal 1/20 atau 5 persen dari total saham dengan hak suara sah, diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan rapat dikeluarkan, dan disertai alasan serta bahan usulan yang tidak bertentangan dengan aturan yang berlaku."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern corporate meeting hall, soft morning light through tall windows in Jakarta",
+  "takeaway": "Pengumuman ini sendiri netral bagi ASBI, karena isinya baru jadwal dan mekanisme rapat, belum agenda yang bisa dinilai menguntungkan atau merugikan pemegang saham. Yang tersentuh di sini adalah hak suara pemegang saham, yakni siapa yang berhak ikut menentukan keputusan perseroan. Ini penting dicermati karena RUPSLB ini datang tak lama setelah ASBI melaporkan dugaan penggelapan dana ke Bareskrim Polri pada 22 Agustus, sehingga banyak pemegang saham kemungkinan menunggu apakah agenda rapat nanti menyangkut isu itu, termasuk kemungkinan perubahan pengurus. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda lengkap pada 8 September 2026, batas akhir pemberian kuasa elektronik pada 29 September, dan pelaksanaan RUPSLB itu sendiri pada 30 September 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indonesia-jerman-perkuat-investasi-energi-terbarukan",
   "category": "Energi",
   "title": "Indonesia-Jerman [Perkuat] Investasi Energi Terbarukan",
@@ -90,7 +116,7 @@ var ARTICLES = [
   "category": "UMKM",
   "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
   "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
-  "image": "assets/img/kopi-roasting.jpg",
+  "image": "assets/img/batik-umkm.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-23T23:21:23.162Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kolaborasi-ekspor-dengan-pemerintah-daerah-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris",

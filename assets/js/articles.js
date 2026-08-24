@@ -132,6 +132,87 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar",
+  "category": "Moneter",
+  "title": "[Rupiah] Melemah ke Rp17.697 usai CAD Kuartal II Melebar",
+  "deck": "Rupiah melemah tipis ke Rp17.697 per dolar AS, tertekan sentimen defisit transaksi berjalan kuartal II-2026 yang melebar signifikan meski kredit perbankan Juli masih tumbuh solid.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:49:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462084-rupiah-melemah-ke-rp17697-per-dolar-as-usai-laporan-soal-defisit-neraca-transaksi-dan-kredit-perbankan-juli-2026",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "neraca transaksi berjalan",
+   "kredit perbankan"
+  ],
+  "body": [
+   "Nilai tukar rupiah melemah tipis ke posisi Rp17.697 per dolar Amerika Serikat pada perdagangan Senin, 24 Agustus 2026. Pelemahan sebesar 3 poin atau 0,02 persen dari kurs sebelumnya di Rp17.694 ini terjadi setelah pasar mencerna dua laporan penting, yakni defisit transaksi berjalan kuartal II-2026 dan data pertumbuhan kredit perbankan Juli 2026.",
+   "Berdasarkan kurs referensi Jisdor Bank Indonesia, rupiah sempat berada di Rp17.705 per dolar AS pada Jumat, 21 Agustus 2026, atau menguat 74 poin dibandingkan Rp17.779 pada Kamis, 20 Agustus 2026. Pergerakan ini menunjukkan rupiah relatif bertahan di kisaran Rp17.700-an dalam sepekan terakhir meski dibayangi sentimen dari sisi neraca eksternal.",
+   "Pengamat ekonomi dan pasar uang, Ibrahim Assuaibi, dalam riset hariannya menyebut pertumbuhan kredit perbankan Juli 2026 tetap solid di tengah dunia usaha yang justru mengurangi aktivitas peminjaman akibat ketidakpastian. Kredit tumbuh 13,58 persen dibandingkan Juli tahun sebelumnya, naik dari 12,67 persen pada Juni 2026. Pertumbuhan ini ditopang rasio kecukupan modal atau CAR perbankan yang tinggi di 23,70 persen dan rasio kredit bermasalah atau NPL yang terjaga rendah di 2,09 persen, serta kebijakan makroprudensial Bank Indonesia yang longgar.",
+   "Di sisi lain, Bank Indonesia melaporkan defisit transaksi berjalan sebesar US$12,5 miliar atau 3,3 persen terhadap produk domestik bruto pada kuartal II-2026, melebar signifikan dari defisit US$3,6 miliar atau 1,0 persen PDB pada kuartal sebelumnya. BI menyebut pelebaran ini dipengaruhi sejumlah faktor yang diperkirakan bersifat sementara."
+  ],
+  "fotoAdegan": "Container ship being loaded at a busy Indonesian port at dusk, cranes and stacked containers, no readable text visible",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Defisit transaksi berjalan, yaitu selisih antara uang yang masuk dan keluar dari perdagangan barang jasa serta investasi dengan luar negeri, melebar tajam dari US$3,6 miliar atau 1,0 persen produk domestik bruto (PDB, total nilai barang dan jasa yang dihasilkan Indonesia) pada kuartal I-2026 menjadi US$12,5 miliar atau 3,3 persen PDB pada kuartal II-2026. Yang langsung terdampak adalah pelaku pasar valuta asing dan perusahaan yang bergantung pada barang impor, karena defisit yang membesar biasanya menambah kebutuhan dolar dari luar negeri. Namun rupiah hari itu hanya melemah 0,02 persen, jauh lebih kecil dibanding lonjakan defisitnya, salah satunya karena Bank Indonesia sendiri menyebut pelebaran ini dipicu faktor yang sifatnya sementara, bukan pelemahan struktural. Arah sebenarnya baru akan terlihat dari rilis data neraca transaksi berjalan kuartal III oleh BI, yang biasanya diumumkan awal November, untuk memastikan apakah defisit ini benar mengecil kembali seperti klaim BI atau justru berlanjut melebar.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 24 Agustus: Beras [Rp14.800], Telur Rp29.250 per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga sejumlah bahan pangan pokok di tingkat pedagang eceran nasional pada 24 Agustus 2026, dari beras, gula, minyak goreng, hingga cabai dan bawang.",
+  "image": "assets/img/harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:36:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462077-harga-pangan-hari-ini-24-agustus-2026-beras-mulai-rp14800-per-kilogram-hingga-telur-ayam-rp29250-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "beras"
+  ],
+  "body": [
+   "Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional yang dikelola Bank Indonesia merilis data harga bahan pokok di tingkat pedagang eceran untuk 24 Agustus 2026. Data ini penting karena jadi salah satu acuan yang biasa dipakai pemerintah dan pelaku pasar untuk memantau pergerakan harga pangan sehari-hari, yang langsung memengaruhi pengeluaran belanja rumah tangga.",
+   "Untuk komoditas beras, harga kualitas bawah I tercatat Rp14.800 per kilogram dan kualitas bawah II Rp14.650 per kilogram. Beras kualitas medium I berada di Rp16.500 per kilogram dan medium II Rp16.300 per kilogram, sementara beras kualitas super I Rp17.750 per kilogram dan super II Rp17.250 per kilogram.",
+   "Harga gula pasir kualitas premium berada di Rp20.350 per kilogram dan gula pasir lokal Rp19.000 per kilogram. Untuk minyak goreng, harga curah Rp20.450 per liter, kemasan bermerek I Rp24.300 per liter, dan kemasan bermerek II Rp23.500 per liter.",
+   "Telur ayam ras tercatat Rp29.250 per kilogram, sedangkan daging ayam ras segar berada di Rp42.000 per kilogram. Daging sapi kualitas I dijual Rp151.450 per kilogram dan daging sapi kualitas II Rp142.500 per kilogram.",
+   "Kelompok cabai mencatat harga cabai rawit merah Rp69.950 per kilogram, cabai merah besar Rp49.250 per kilogram, cabai merah keriting Rp51.300 per kilogram, dan cabai rawit hijau Rp57.050 per kilogram. Adapun bawang merah berada di Rp28.850 per kilogram dan bawang putih Rp40.150 per kilogram."
+  ],
+  "fotoAdegan": "Traditional market vendor weighing red chilies and sacks of rice on a scale, morning crowd bargaining nearby, natural light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/07/30/66a891580f940-ilustrasi-beras_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini cuma potret harga satu hari, tanpa pembanding dari hari atau minggu sebelumnya, jadi belum bisa dipakai untuk menyimpulkan apakah harga-harga ini sedang naik, turun, atau stabil. Yang terdampak langsung adalah rumah tangga sebagai pembeli sehari-hari dan pedagang eceran di pasar tradisional, terutama untuk barang yang harganya gampang bergerak seperti cabai. Untuk membaca ke mana arah harga pangan menjelang akhir tahun, yang perlu dicermati adalah rangkaian data PIHPS pada hari-hari berikutnya serta rilis inflasi bulanan dari BPS, karena dari situ baru kelihatan apakah ini bagian dari tren atau sekadar fluktuasi harian biasa.",
+  "imageV": "mt6phar8"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
+  "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T09:26:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "Antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 24 Agustus 2026, naik Rp10.000 per gram menjadi Rp2.750.000. Kenaikan itu membuat harga emas Antam bergerak naik dari posisi sebelumnya di Rp2.740.000 per gram, berdasarkan data resmi Logam Mulia. Bagi masyarakat yang menjadikan emas batangan sebagai simpanan atau instrumen investasi, pergerakan harga harian ini menjadi acuan sebelum membeli atau menjual.",
+   "Harga buyback, yaitu harga saat Antam membeli kembali emas dari nasabah yang ingin menjualnya, juga naik menjadi Rp2.610.000 per gram. Artinya, pemegang emas Antam yang mencairkan emasnya hari ini akan menerima harga jual balik yang lebih tinggi dibanding saat harga sebelum kenaikan.",
+   "Pengelola mengingatkan bahwa harga emas batangan Antam bisa berubah sewaktu-waktu mengikuti kondisi pasar, sehingga angka yang tercatat hari ini tidak otomatis berlaku pada hari berikutnya."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray at a jewelry counter, soft indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Perubahan konkretnya adalah harga emas Antam naik Rp10.000 menjadi Rp2.750.000 per gram, dengan harga buyback naik ke Rp2.610.000 per gram. Yang terdampak langsung adalah pembeli dan pemegang emas batangan Antam, terutama yang berencana bertransaksi hari ini karena harga bisa berubah lagi besok. Data yang tersedia hanya mencakup satu hari, sehingga belum bisa dibaca apakah ini awal tren naik atau sekadar fluktuasi harian biasa. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan, karena penyesuaian harga semacam ini biasanya mengikuti harga emas dunia dan kurs dolar yang belum tercakup dalam data hari ini.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
   "category": "Aksi Korporasi",
   "title": "KKGI Panggil RUPSLB, Bahas [Dividen] Tunai dan Direksi",
@@ -2060,7 +2141,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] ke Rp17.694, BI Rate Tetap 5,75 Persen",
   "deck": "Rupiah ditutup menguat 54 poin ke Rp17.694 per dolar AS, ditopang keputusan BI menahan suku bunga acuan sementara arah suku bunga The Fed masih belum jelas.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "21 Agustus 2026",
   "isoDate": "2026-08-21T16:23:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461519-rupiah-menguat-54-poin-ke-rp17694-per-dolar-as-didukung-bi-rate-575-persen",

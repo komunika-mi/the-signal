@@ -85,6 +85,53 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar",
+  "category": "Moneter",
+  "title": "[Rupiah] Melemah ke Rp17.697 usai CAD Kuartal II Melebar",
+  "deck": "Rupiah melemah tipis ke Rp17.697 per dolar AS, tertekan sentimen defisit transaksi berjalan kuartal II-2026 yang melebar signifikan meski kredit perbankan Juli masih tumbuh solid.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "neraca transaksi berjalan",
+   "kredit perbankan"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462084-rupiah-melemah-ke-rp17697-per-dolar-as-usai-laporan-soal-defisit-neraca-transaksi-dan-kredit-perbankan-juli-2026"
+ },
+ {
+  "slug": "harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 24 Agustus: Beras [Rp14.800], Telur Rp29.250 per Kg",
+  "deck": "PIHPS Bank Indonesia mencatat harga sejumlah bahan pangan pokok di tingkat pedagang eceran nasional pada 24 Agustus 2026, dari beras, gula, minyak goreng, hingga cabai dan bawang.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg.jpg",
+  "imageV": "mt6phar8",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "beras"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462077-harga-pangan-hari-ini-24-agustus-2026-beras-mulai-rp14800-per-kilogram-hingga-telur-ayam-rp29250-per-kilogram"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
+  "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "emas",
+   "harga emas",
+   "Antam",
+   "investasi"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram"
+ },
+ {
   "slug": "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
   "category": "Aksi Korporasi",
   "title": "KKGI Panggil RUPSLB, Bahas [Dividen] Tunai dan Direksi",
@@ -1290,7 +1337,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] ke Rp17.694, BI Rate Tetap 5,75 Persen",
   "deck": "Rupiah ditutup menguat 54 poin ke Rp17.694 per dolar AS, ditopang keputusan BI menahan suku bunga acuan sementara arah suku bunga The Fed masih belum jelas.",
   "date": "21 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -6582,56 +6629,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f10c94e5d0_ebb8230cbc.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro",
-  "category": "UMKM",
-  "title": "PNM Mekaar Tawarkan Bunga [8 Persen] bagi Usaha Ultra Mikro",
-  "deck": "PNM menetapkan bunga pembiayaan 8 persen untuk program Mekaar, memperluas akses kredit terjangkau bagi pelaku usaha ultra mikro, terutama perempuan pengusaha akar rumput.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/pnm-mekaar-tawarkan-bunga-8-persen-bagi-usaha-ultra-mikro.jpg",
-  "imageV": "msrglhev",
-  "tags": [
-   "PNM",
-   "Mekaar",
-   "UMKM",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459691-mendorong-ekonomi-akar-rumput-bunga-pnm-mekaar-delapan-persen"
- },
- {
-  "slug": "wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "WEGE Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham WEGE, dan perseroan menyatakan tidak ada informasi atau fakta material yang melatarbelakanginya.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/wege-jawab-permintaan-bei-soal-volatilitas-transaksi-saham.jpg",
-  "imageV": "msu5vnhl",
-  "tags": [
-   "WEGE",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3864aa8aa5_3f8483ad42.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta",
-  "category": "Bisnis",
-  "title": "Turis Asing ke RI Juni 2026 Naik Tipis Jadi [1,39 Juta]",
-  "deck": "Kunjungan wisatawan mancanegara Juni 2026 naik tipis dibanding Mei, tapi masih lebih rendah dibanding Juni tahun lalu.",
-  "date": "13 Agustus 2026",
-  "image": "assets/img/turis-asing-ke-ri-juni-2026-naik-tipis-jadi-1-39-juta.jpg",
-  "imageV": "msrda4kz",
-  "tags": [
-   "bps",
-   "wisatawan asing",
-   "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

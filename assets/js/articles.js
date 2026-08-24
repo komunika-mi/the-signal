@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
+  "category": "BUMN",
+  "title": "TelkomGroup Salurkan [Bantuan] Rp1,3 M ke Korban Gempa NTT",
+  "deck": "TelkomGroup menyalurkan bantuan kemanusiaan Rp1,3 miliar ke lebih dari 10 wilayah NTT terdampak gempa, termasuk kawasan terisolir yang dijangkau lewat jalur laut.",
+  "image": "assets/img/telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:37:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462189-telkomgroup-salurkan-bantuan-kemanusiaan-rp13-miliar-untuk-masyarakat-terdampak-gempa-ntt",
+  "tags": [
+   "Telkom",
+   "TelkomGroup",
+   "Gempa NTT",
+   "Bantuan Kemanusiaan"
+  ],
+  "body": [
+   "PT Telkom Indonesia melalui TelkomGroup menyalurkan bantuan kemanusiaan senilai Rp1,3 miliar bagi masyarakat Nusa Tenggara Timur yang terdampak gempa bumi, di luar dukungan pemulihan jaringan telekomunikasi. Bantuan ini disalurkan secara bertahap ke lebih dari 10 wilayah, termasuk sejumlah lokasi yang selama ini sulit dijangkau akibat kondisi geografis pascabencana.",
+   "Penyaluran bantuan melibatkan koordinasi lintas lembaga, mulai dari Danantara, Badan Pengelola BUMN, Badan Nasional Penanggulangan Bencana, Badan Penanggulangan Bencana Daerah setempat, hingga Kementerian Kesehatan. SGM Social Responsibility Telkom Hery Susanto menyampaikan bahwa sinergi ini dilakukan agar kebutuhan masyarakat di lapangan, cakupan wilayah, dan skema penyaluran bisa dipetakan secara lebih tepat sasaran.",
+   "Tahap awal bantuan disalurkan melalui Posko BNPB Halim pada 18 dan 20 Agustus 2026, berupa paket sembako, logistik rumah tangga, perlengkapan bayi dan anak, obat-obatan, serta kebutuhan kebersihan, dengan total 3,65 ton barang yang telah didistribusikan terutama ke titik-titik pengungsian. Bantuan kemudian diperluas ke sejumlah daerah lain seperti Nagekeo, Reo, Ruteng, Maumere, Bima, Lewur, dan Lambelada Selatan melalui koordinasi dengan BPBD setempat dan posko pengungsian.",
+   "Untuk menjangkau wilayah yang lebih terisolir, seperti Londar Pesisir Utara di Desa Sarae Naru, Kecamatan Macang Pacar, Kabupaten Manggarai Barat, TelkomGroup bekerja sama dengan BPBD Ruteng menyalurkan bantuan lewat jalur laut mengingat akses darat ke lokasi tersebut terbatas."
+  ],
+  "fotoAdegan": "Volunteers loading boxes of relief supplies onto a wooden boat at a coastal dock, hilly Flores island coastline in the background, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/24/6a8c0f7b152a7-telkomgroup-salurkan-bantuan-kemanusiaan-hingga-rp13-miliar-ke-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kabar ini adalah cakupan bantuan yang terus melebar. Dari 3,65 ton logistik yang disalurkan lewat Posko BNPB Halim pada 18 dan 20 Agustus, TelkomGroup kemudian merambah ke lebih dari 10 wilayah lain di NTT, termasuk kawasan terisolir di Manggarai Barat yang cuma bisa dijangkau lewat jalur laut. Yang terdampak jelas masyarakat korban gempa NTT, terutama warga di titik pengungsian dan di desa pesisir yang selama ini sulit dijangkau bantuan darat. Pola perluasan ini, dari pusat distribusi ke daerah pinggiran yang makin sulit diakses, mengarah ke cakupan bantuan yang makin menyeluruh, bukan berhenti di satu tahap penyaluran awal. Satu hal yang layak dipantau: angka Rp1,3 miliar ini disebut belum termasuk dukungan konektivitas, jadi ada bagian lain dari respons Telkom, yaitu pemulihan jaringan telekomunikasi di NTT, yang belum dirinci angkanya dan akan menentukan seberapa lengkap sebenarnya dukungan perusahaan ini.",
+  "imageV": "mt727tr7"
+ },
+ {
   "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
   "category": "Aksi Korporasi",
   "title": "TAPG: Direksi Jual 2,35 Juta Saham, [Divestasi] Rp4,48 M",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "sZlTPmyTGcQ",
+  "title": "Pemerintah Dukung Sertifikasi Pekerja Industri Kecantikan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
+  "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh.",
+  "terbit": "2026-08-24T09:05:40+00:00"
+ },
+ {
+  "id": "z_ODNU76JNA",
+  "title": "Harga Daging Sapi Tembus Rp160 Ribu per Kg",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga daging sapi di pasar naik hingga Rp160.000 per kilogram, sehingga pemerintah menyiapkan langkah stabilisasi menggunakan dana APBN dan APBD.",
+  "takeaway": "Kenaikan harga daging sapi menjadi indikator tekanan inflasi pangan yang berdampak langsung pada daya beli masyarakat.",
+  "terbit": "2026-08-24T08:55:54+00:00"
+ },
+ {
   "id": "6WnRuyBPVcA",
   "title": "Kurs Rupiah dan Harga Emas Antam 24 Agustus 2026",
   "category": "Moneter",
@@ -90,23 +108,5 @@ var VIDEOS = [
   "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan.",
   "terbit": "2026-08-16T16:12:57+07:00"
- },
- {
-  "id": "z6ieuHPQJfI",
-  "title": "KBPBI Kawal Pembahasan RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Koalisi Besar Perjuangan Buruh Indonesia menyatakan akan mengawal penuh proses pembahasan Rancangan Undang-Undang Ketenagakerjaan.",
-  "takeaway": "Pembahasan RUU ini menyangkut aturan ketenagakerjaan yang berdampak langsung pada pekerja dan pelaku usaha, sehingga relevan untuk dipantau.",
-  "terbit": "2026-08-16T08:24:49+07:00"
- },
- {
-  "id": "8CtcljS12aQ",
-  "title": "Pemerintah Fokus RAPBN 2027 dan Program Lapangan Kerja",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Pemerintah mengarahkan kebijakan dan RAPBN 2027 pada delapan Program Kerja Prioritas Nasional, termasuk penciptaan lapangan kerja, untuk mendukung target pembangunan Presiden Prabowo Subianto.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena memuat arah kebijakan fiskal dan prioritas ketenagakerjaan yang berdampak pada dunia usaha dan pencari kerja.",
-  "terbit": "2026-08-15T21:15:49+07:00"
  }
 ];

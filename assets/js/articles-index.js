@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
+  "category": "BUMN",
+  "title": "TelkomGroup Salurkan [Bantuan] Rp1,3 M ke Korban Gempa NTT",
+  "deck": "TelkomGroup menyalurkan bantuan kemanusiaan Rp1,3 miliar ke lebih dari 10 wilayah NTT terdampak gempa, termasuk kawasan terisolir yang dijangkau lewat jalur laut.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt.jpg",
+  "imageV": "mt727tr7",
+  "tags": [
+   "Telkom",
+   "TelkomGroup",
+   "Gempa NTT",
+   "Bantuan Kemanusiaan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462189-telkomgroup-salurkan-bantuan-kemanusiaan-rp13-miliar-untuk-masyarakat-terdampak-gempa-ntt"
+ },
+ {
   "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
   "category": "Aksi Korporasi",
   "title": "TAPG: Direksi Jual 2,35 Juta Saham, [Divestasi] Rp4,48 M",
@@ -6583,23 +6600,6 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c91e6c3e8_05bc4a7c06.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights",
-  "category": "Aksi Korporasi",
-  "title": "RATU Panggil RUPSLB, Rencanakan [Penerbitan Saham Baru] Tanpa Rights",
-  "deck": "RUPSLB RATU digelar 8 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan perubahan anggaran dasar terkait penerbitan saham baru.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ratu-panggil-rupslb-rencanakan-penerbitan-saham-baru-tanpa-rights.jpg",
-  "imageV": "mssj3ffu",
-  "tags": [
-   "RATU",
-   "RUPSLB",
-   "PMTHMETD",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec3f32fc48_add525c29d.pdf",
   "sourceLabel": "IDX"
  }
 ];

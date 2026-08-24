@@ -1129,3 +1129,9 @@ a.article-tag:hover { border-color: var(--ink-soft); color: var(--ink); }
   color: var(--ink-soft); line-height: 1.5;
 }
 .modal-telegram a { font-weight: 700; border-bottom: 1px solid currentColor; }
+
+/* Cross-link emiten <-> topik: menganyam halaman hub. Chip menumpang
+   .article-tag; yang baru cuma wadah dan judul barisnya. */
+.hub-silang { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem;
+  margin: 0 0 1.4rem; font-family: var(--sans); }
+.hub-silang-judul { font-size: 12px; font-weight: 700; color: var(--ink-soft); margin-right: .2rem; }

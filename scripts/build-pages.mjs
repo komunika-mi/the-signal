@@ -141,6 +141,44 @@ const SLUG_TERPAKAI = new Set([
 const DAFTAR_TOPIK = daftarTopik(ARTIKEL_PER_LABEL, SLUG_TERPAKAI);
 const TOPIK_TAYANG = new Set(DAFTAR_TOPIK.map(([n]) => slugTopik(n)));
 
+// Peta slug topik -> nama tampilnya, untuk cross-link emiten <-> topik.
+const NAMA_TOPIK = new Map(DAFTAR_TOPIK.map(([n]) => [slugTopik(n), n]));
+
+// Topik yang disentuh artikel sebuah emiten (hanya yang halamannya tayang):
+// konteks tematik halaman emiten sekaligus jalur rayapan tambahan ke topik.
+function topikDariEmiten(arts) {
+  const slug = new Set();
+  for (const a of arts) for (const l of labelArtikel(a)) {
+    const sl = slugTopik(l);
+    if (TOPIK_TAYANG.has(sl)) slug.add(sl);
+  }
+  return [...slug].map(sl => ({ slug: sl, nama: NAMA_TOPIK.get(sl) || sl }));
+}
+
+// Emiten yang muncul di artikel sebuah topik, hub (paling sering) lebih dulu.
+function emitenDariTopik(arts) {
+  const hitung = new Map();
+  // Hanya emiten yang PUNYA halaman (kode 4 huruf, lihat const EMITEN).
+  // Tanpa saringan ini, kode 2 huruf seperti DR/HD/ZP/BQ yang tidak
+  // berhalaman menghasilkan tautan mati dari topik.
+  for (const a of arts) {
+    const kode = String(a.emiten || '').toUpperCase().trim();
+    if (EMITEN.has(kode)) hitung.set(kode, (hitung.get(kode) || 0) + 1);
+  }
+  return [...hitung.entries()].sort((x, y) => y[1] - x[1]).map(([k]) => k);
+}
+
+// Baris chip cross-link, dua arah. Menumpang kelas .article-tag yang sudah
+// bergaya. tautan: [{ url, teks }].
+function barisSilang(judul, tautan) {
+  if (!tautan.length) return '';
+  const chip = tautan
+    .map(t => '<a class="article-tag" href="' + t.url + '">' + esc(t.teks) + '</a>')
+    .join('');
+  return '<div class="hub-silang"><span class="hub-silang-judul">' + judul +
+    '</span>' + chip + '</div>';
+}
+
 const EMITEN = (() => {
   const m = new Map();
   for (const a of ARTICLES) {
@@ -1130,6 +1168,9 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
     (rekap ? `<p class="emiten-rekap">Riwayat penilaian: ${rekap}</p>` : '') +
     `</div>` +
     pantauEmiten(kode, esc) +
+    barisSilang('Topik terkait', topikDariEmiten(arts).map(t => ({
+      url: '/topik/' + t.slug + '.html', teks: t.nama,
+    }))) +
     `<div class="linimasa">${arts.map(a => itemLinimasa(a)).join('')}</div>` +
     DISCLAIMER_SINYAL +
     `</section>`;
@@ -1828,6 +1869,9 @@ for (const [nama, arts] of DAFTAR_TOPIK) {
     '<h1 class="harian-judul">' + esc(nama) + '</h1>' +
     '<p class="harian-tanggal num">' + arts.length + ' artikel &middot; terakhir ' +
     esc(arts[0].date || '') + '</p></div>' +
+    barisSilang('Emiten dalam topik ini', emitenDariTopik(arts).map(kode => ({
+      url: '/emiten/' + kode + '.html', teks: kode + (namaEmiten(kode) ? ' \u00b7 ' + namaEmiten(kode) : ''),
+    }))) +
     '<div class="linimasa">' + arts.map(x => itemLinimasa(x)).join('') + '</div>' +
     '<p class="harian-ringkas" style="margin-top:2rem;">' +
     '<a href="/berita.html">Seluruh arsip ' + ARTICLES.length + ' artikel &rarr;</a></p>' +
@@ -2021,44 +2065,55 @@ const hariIniWIB = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0,
 // Tanggal WIB dari stempel apa pun bentuknya. Memotong sepuluh karakter dari
 // isoDate mentah salah untuk stempel Zulu; waktuISO() sudah menormalkannya.
 const tglWIB = (iso) => waktuISO(iso).slice(0, 10);
+// Priority: sinyal konsentrasi crawl. Google sebagian besar mengabaikan
+// angka mutlaknya, tapi pada domain muda yang crawl budget-nya dijatah,
+// urutan relatifnya membantu penjadwalan perayapan - dan yang lebih penting,
+// ini JUJUR. 196 dari 220 halaman emiten tipis (1-2 laporan) diberi 0.3:
+// halamannya tetap ada dan bisa diakses, cuma tidak lagi berebut budget
+// dengan halaman yang benar-benar bernilai. Keputusan pemilik 24 Agustus
+// 2026: konsentrasi ke yang bernilai, jangan lawan penilaian Google.
+const IDENTITAS = new Set(['/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']);
+const prioStatis = (u) => u === '/' ? '1.0' : IDENTITAS.has(u) ? '0.3' : '0.8';
+const BARU_MS = Date.now() - 7 * 86400000;
+const prioArtikel = (a) => (a.isoDate && new Date(waktuISO(a.isoDate)).getTime() > BARU_MS) ? '0.8' : '0.6';
+
 const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-ekonomi.html',
   ...(PEKANAN ? ['/signal-mingguan.html'] : []),
   '/agenda.html', '/rapor.html', '/tema.html', '/emiten.html',
   '/tentang.html', '/kontak.html', '/privasi.html', '/pedoman-media-siber.html']
-  .map(u => ({ loc: u, lastmod: hariIniWIB }))
-  // Artikel yang diralat BERUBAH, dan itulah justru yang perlu dirayapi ulang.
-  // Sebelumnya lastmod-nya tetap tanggal terbit awal, jadi ralat tidak pernah
-  // memberi sinyal apa pun ke mesin pencari.
+  .map(u => ({ loc: u, lastmod: hariIniWIB, prio: prioStatis(u) }))
+  // Artikel yang diralat BERUBAH, jadi lastmod-nya ikut tanggal ralat, bukan
+  // tanggal terbit awal. Artikel baru (<=7 hari) prioritasnya lebih tinggi.
   .concat(ARTICLES.map(a => ({
     loc: articleUrl(a),
     lastmod: [tglWIB(a.isoDate), (a.ralat && a.ralat.tanggal) || ''].filter(Boolean).sort().pop(),
+    prio: prioArtikel(a),
   })))
-  .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: tglWIB(v.terbit) || undefined })))
-  // lastmod halaman emiten dan tema = tanggal laporan terbarunya, karena
-  // memang hanya berubah saat ada artikel baru menempel.
+  .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: tglWIB(v.terbit) || undefined, prio: '0.4' })))
+  // Emiten HUB (>=3 laporan) 0.6; tipis (1-2) 0.3. Inti konsentrasinya.
   .concat(DAFTAR_EMITEN.map(([k, arts]) =>
-    ({ loc: '/emiten/' + k + '.html', lastmod: tglWIB(arts[0].isoDate) })))
+    ({ loc: '/emiten/' + k + '.html', lastmod: tglWIB(arts[0].isoDate),
+       prio: arts.length >= 3 ? '0.6' : '0.3' })))
   .concat(KELOMPOK_TEMA.map(t =>
-    ({ loc: '/tema/' + t.slug + '.html', lastmod: tglWIB(t.artikel[0].isoDate) })))
+    ({ loc: '/tema/' + t.slug + '.html', lastmod: tglWIB(t.artikel[0].isoDate), prio: '0.7' })))
   .concat(DAFTAR_RUBRIK.map(([n, arts]) =>
-    ({ loc: '/rubrik/' + catSlug(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })))
+    ({ loc: '/rubrik/' + catSlug(n) + '.html', lastmod: tglWIB(arts[0].isoDate), prio: '0.7' })))
   .concat(ARSIP_HARIAN.filter(e => e && e.tanggal && e.judul)
-    .map(e => ({ loc: urlEdisiHarian(e), lastmod: e.tanggal })))
+    .map(e => ({ loc: urlEdisiHarian(e), lastmod: e.tanggal, prio: '0.4' })))
   .concat(ARSIP_PEKANAN.filter(e => e && e.tanggal && e.judul)
-    .map(e => ({ loc: urlEdisiPekanan(e), lastmod: e.tanggal })))
+    .map(e => ({ loc: urlEdisiPekanan(e), lastmod: e.tanggal, prio: '0.4' })))
   .concat(DAFTAR_TOPIK.map(([n, arts]) =>
-    ({ loc: '/topik/' + slugTopik(n) + '.html', lastmod: tglWIB(arts[0].isoDate) })))
-  // Halaman arsip lanjutan: lastmod-nya tanggal artikel TERBARU di halaman
-  // itu, bukan tanggal build, karena isinya cuma berubah saat arsip bergeser.
+    ({ loc: '/topik/' + slugTopik(n) + '.html', lastmod: tglWIB(arts[0].isoDate), prio: '0.7' })))
   .concat(Array.from({ length: jumlahHalamanArsip(ARTICLES.length) - 1 }, (_, k) => {
     const hal = k + 2;
     const pertama = ARTICLES[(hal - 1) * PER_HALAMAN_ARSIP];
-    return pertama ? { loc: urlHalamanArsip(hal), lastmod: tglWIB(pertama.isoDate) } : null;
+    return pertama ? { loc: urlHalamanArsip(hal), lastmod: tglWIB(pertama.isoDate), prio: '0.5' } : null;
   }).filter(Boolean));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
-    (u.lastmod ? '<lastmod>' + u.lastmod + '</lastmod>' : '') + '</url>').join('\n') +
+    (u.lastmod ? '<lastmod>' + u.lastmod + '</lastmod>' : '') +
+    (u.prio ? '<priority>' + u.prio + '</priority>' : '') + '</url>').join('\n') +
   '\n</urlset>\n', 'utf8');
 // ---------- sitemap Google News ----------
 //

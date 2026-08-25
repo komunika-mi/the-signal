@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
+  "category": "Energi",
+  "title": "Pemerintah Luncurkan Tahap Awal [PLTS] 100 GWp di 6 Provinsi",
+  "deck": "Program PLTS 100 GWp dimulai dengan 14 proyek berkapasitas 5,3 GWp di enam provinsi, dari Bali hingga pulau terpencil di Bangka Belitung.",
+  "image": "assets/img/pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T11:30:06.722Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-gilimanuk-hingga-pulau-rengit-program-plts-100-gwp-dorong-kemandirian-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "PLTS",
+   "energi surya",
+   "ESDM",
+   "Bali"
+  ],
+  "body": [
+   "Pemerintah resmi memulai Program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas total 100 gigawatt peak (GWp) melalui acara peluncuran dan groundbreaking di Gilimanuk, Bali, Selasa (25/8). Acara ini tersambung langsung dengan tiga proyek lain di Jawa Tengah, Kepulauan Riau, dan Bangka Belitung. Presiden Prabowo Subianto menegaskan target pembangunan 100 GWp energi surya harus rampung dalam tiga tahun, dengan menekankan kerja sama antara kementerian dan BUMN.",
+   "Sebagai tahap awal, pemerintah meluncurkan 14 proyek PLTS di enam provinsi dengan total kapasitas sekitar 5,3 GWp, jauh di bawah target akhir 100 GWp. Proyek yang diresmikan mencakup PLTS Gilimanuk 300 megawatt peak (MWp), PLTS Terapung Gajah Mungkur di Jawa Tengah 134 MWp, PLTS Desa Sembur di Kepulauan Riau 0,92 MWp, dan PLTS Pulau Rengit di Bangka Belitung 0,078 MWp. Menteri ESDM Bahlil Lahadalia mengklaim program ini berpotensi menghemat anggaran negara lebih dari Rp73 triliun per tahun karena biaya listrik dari PLTS lebih murah dibanding pembangkit diesel atau gas, sekaligus menekan pemakaian solar diesel hingga 6 juta kiloliter per tahun secara nasional, termasuk 500 ribu kiloliter khusus di Bali.",
+   "Bahlil juga menyebut proyek ini berpotensi menciptakan 5,52 juta lapangan kerja secara akumulatif, terbagi antara industri panel surya dan baterai penyimpanan (3,5 juta) serta sektor konstruksi (2 juta), dengan klaim pengurangan emisi karbon 140,16 juta ton CO2 per tahun. Angka-angka ini merupakan proyeksi dari Kementerian ESDM, belum berupa hasil yang terverifikasi. Di lapangan, dampaknya sudah terasa di dua lokasi kepulauan: PLTS Desa Sembur menyediakan listrik untuk fasilitas cold storage nelayan berkapasitas 5 ton dan mesin pembuat es 4 ton, sementara PLTS Pulau Rengit menambah waktu nyala listrik warga dari 12 jam menjadi 24 jam sehari sekaligus menurunkan biaya pokok penyediaan listrik sekitar Rp4.400 per kWh atau 26 persen lebih rendah."
+  ],
+  "fotoAdegan": "Floating solar panel arrays covering a calm reservoir surrounded by green hills, small maintenance boat nearby, soft morning light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dari-gilimanuk-hingga-pulau-rengit-program-plts-100-gwp-dorong-kemandirian-energi-nasional-55b22ow.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Kapasitas 5,3 GWp yang diluncurkan hari ini baru sekitar 5 persen dari target 100 GWp yang dipatok Presiden Prabowo Subianto untuk rampung dalam tiga tahun. Yang langsung terdampak adalah warga di wilayah kepulauan terpencil seperti Pulau Rengit dan Desa Sembur, yang merasakan tambahan jam listrik menyala dan biaya produksi listrik yang lebih murah, sementara industri panel surya dan baterai penyimpanan dalam negeri diposisikan sebagai pemasok utama proyek-proyek berikutnya. Jarak besar antara tahap awal dan target akhir ini mengarah pada dua kemungkinan, yaitu percepatan tajam pembangunan di tahun-tahun berikutnya, atau revisi target seiring berjalannya program. Yang akan menjawabnya adalah jumlah dan kapasitas proyek gelombang berikutnya yang diumumkan Kementerian ESDM, sebab baru dari situ terlihat apakah laju pembangunan benar-benar menuju 100 GWp dalam tiga tahun atau melambat dari rencana awal.",
+  "imageV": "mt8l5ku9"
+ },
+ {
+  "slug": "bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja",
+  "category": "Energi",
+  "title": "Bahlil Klaim PLTS 100 GWp Buka [5,52 Juta] Lapangan Kerja",
+  "deck": "Menteri ESDM Bahlil Lahadalia mengklaim proyek PLTS 100 GWp bisa menghemat subsidi energi Rp73,9 triliun per tahun dan membuka 5,52 juta lapangan kerja.",
+  "image": "assets/img/bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T18:00:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462441-bahlil-klaim-bisa-hemat-rp739-triliun-dan-buka-552-juta-lapangan-kerja-lewat-plts-100-gwp",
+  "tags": [
+   "PLTS",
+   "Bahlil Lahadalia",
+   "subsidi energi",
+   "lapangan kerja"
+  ],
+  "body": [
+   "Pemerintah, melalui Menteri ESDM Bahlil Lahadalia, mengklaim proyek pembangkit listrik tenaga surya (PLTS) berkapasitas 100 gigawatt peak (GWp), satuan yang menunjukkan daya maksimal panel surya dalam kondisi optimal, bisa menghemat subsidi energi negara Rp73,9 triliun per tahun sekaligus membuka 5,52 juta lapangan kerja. Proyek yang ditargetkan rampung dalam tiga tahun ini disebut jadi salah satu andalan pemerintah untuk menekan impor bahan bakar minyak dan memperkuat kemandirian energi, dan sudah masuk dalam Rancangan APBN 2027.",
+   "Total investasi yang dibutuhkan untuk merampungkan seluruh 100 GWp itu diperkirakan mencapai US$73 miliar, setara lebih dari Rp1.140 triliun. Sejauh ini pemerintah baru memulai pembangunan atau groundbreaking untuk 5,3 GWp, di antaranya PLTS berkapasitas 1.000 megawatt di Bali yang dilengkapi baterai penyimpanan energi agar listrik tetap tersedia saat matahari tidak bersinar.",
+   "Bahlil juga mengklaim proyek ini bisa menekan emisi karbon hingga 140 juta ton CO2 per tahun, dengan nilai ekonomi karbon yang ditaksir sekitar Rp6,31 triliun. Selain di wilayah yang jaringan listriknya sudah kuat, pemerintah menyebut proyek PLTS ini juga akan diarahkan untuk memperluas akses listrik ke desa-desa yang selama ini belum terjangkau jaringan."
+  ],
+  "fotoAdegan": "Workers installing rows of solar panels across an open field in Indonesia, cables and mounting frames visible, midday sun.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8d6f2263dd6-menteri-esdm-bahlil-lahadalia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka penghematan subsidi Rp73,9 triliun per tahun dan 5,52 juta lapangan kerja itu adalah proyeksi dari total investasi US$73 miliar untuk 100 GWp yang ditargetkan rampung dalam tiga tahun, bukan hasil yang sudah terjadi. Yang benar-benar sudah mulai dibangun sejauh ini baru 5,3 GWp, sekitar 5 persen dari target itu, termasuk proyek 1.000 megawatt di Bali. Kesenjangan antara target akhir dan realisasi awal ini wajar untuk proyek yang baru masuk tahap groundbreaking, tapi juga berarti manfaat fiskal dan lapangan kerja yang disebutkan baru akan terasa kalau sisa sekitar 95 persen kapasitas benar-benar terbangun sesuai jadwal. Yang paling berkepentingan adalah anggaran subsidi energi negara, pekerja di sektor konstruksi dan panel surya, serta warga desa yang belum punya akses listrik karena proyek ini turut diarahkan ke sana. Yang akan menunjukkan apakah target tiga tahun ini realistis adalah besaran alokasi PLTS dalam RAPBN 2027 dan jadwal groundbreaking tahap berikutnya setelah fase 5,3 GWp ini.",
+  "imageV": "mt8l5lie"
+ },
+ {
   "slug": "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
   "category": "Aksi Korporasi",
   "title": "ARKO Rampungkan [Akuisisi] 100% Saham Endorshine Energy",

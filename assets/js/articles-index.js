@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
+  "category": "Energi",
+  "title": "Pemerintah Luncurkan Tahap Awal [PLTS] 100 GWp di 6 Provinsi",
+  "deck": "Program PLTS 100 GWp dimulai dengan 14 proyek berkapasitas 5,3 GWp di enam provinsi, dari Bali hingga pulau terpencil di Bangka Belitung.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi.jpg",
+  "imageV": "mt8l5ku9",
+  "tags": [
+   "PLTS",
+   "energi surya",
+   "ESDM",
+   "Bali"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-gilimanuk-hingga-pulau-rengit-program-plts-100-gwp-dorong-kemandirian-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja",
+  "category": "Energi",
+  "title": "Bahlil Klaim PLTS 100 GWp Buka [5,52 Juta] Lapangan Kerja",
+  "deck": "Menteri ESDM Bahlil Lahadalia mengklaim proyek PLTS 100 GWp bisa menghemat subsidi energi Rp73,9 triliun per tahun dan membuka 5,52 juta lapangan kerja.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja.jpg",
+  "imageV": "mt8l5lie",
+  "tags": [
+   "PLTS",
+   "Bahlil Lahadalia",
+   "subsidi energi",
+   "lapangan kerja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462441-bahlil-klaim-bisa-hemat-rp739-triliun-dan-buka-552-juta-lapangan-kerja-lewat-plts-100-gwp"
+ },
+ {
   "slug": "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
   "category": "Aksi Korporasi",
   "title": "ARKO Rampungkan [Akuisisi] 100% Saham Endorshine Energy",
@@ -6527,39 +6562,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8294fe7462_5ccfbfd3b0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "BAFI Siapkan Rp465 Miliar untuk [Pelunasan] Obligasi",
-  "deck": "BAFI menyiapkan dana Rp458 miliar plus bunga Rp7,44 miliar untuk pelunasan terakhir Obligasi Berkelanjutan II Tahap IV 2023, dikirim ke KSEI pada 7 September 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bafi-siapkan-rp465-miliar-untuk-pelunasan-obligasi.jpg",
-  "imageV": "mstx4crv",
-  "tags": [
-   "BAFI",
-   "obligasi",
-   "Bussan Auto Finance",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3b8596f3f6_2b5ab5218d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027",
-  "category": "Pasar Modal",
-  "title": "IHSG [Melesat] 1,59% Usai Presiden Prabowo Pidato RAPBN 2027",
-  "deck": "IHSG ditutup menguat 1,59 persen ke 6.401,89 setelah Presiden Prabowo memaparkan RAPBN 2027 dengan target defisit lebih rendah dan pertumbuhan ekonomi 6 persen.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/ihsg-melesat-1-59-usai-prabowo-pidato-rapbn-2027.jpg",
-  "imageV": "mssvvotr",
-  "tags": [
-   "IHSG",
-   "RAPBN 2027",
-   "Presiden Prabowo Subianto",
-   "defisit anggaran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459950-ihsg-melesat-usai-pidato-prabowo-ini-faktor-penting-yang-jadi-sorotan-investor"
  }
 ];

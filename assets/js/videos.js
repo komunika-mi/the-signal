@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "u3IMZTSwJ-Q",
+  "title": "Presiden Prabowo Resmikan Pembangunan PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto meresmikan pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari program transisi energi nasional.",
+  "takeaway": "Proyek PLTS berskala besar ini relevan bagi pembaca ekonomi karena menyangkut arah investasi energi terbarukan dan bauran energi nasional ke depan.",
+  "terbit": "2026-08-25T11:00:29+00:00"
+ },
+ {
   "id": "Zl5RCPsgvD0",
   "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
   "category": "Energi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
   "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri.",
   "terbit": "2026-08-18T17:59:20+07:00"
- },
- {
-  "id": "0Nv4-W_RoVs",
-  "title": "DPR dan Pemerintah Sampaikan Perpres Ojol",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
-  "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol.",
-  "terbit": "2026-08-18T16:26:09+07:00"
  }
 ];

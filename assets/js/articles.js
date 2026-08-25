@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Rampungkan [Akuisisi] 100% Saham Endorshine Energy",
+  "deck": "Dua anak usaha Arkora Hydro, PT Arkora Tenaga Matahari dan PT Arjuna Hidro, resmi menguasai 100% saham PT Endorshine Energy Solution setelah mendapat persetujuan Kementerian Hukum.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T17:43:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50c8be6b31_d31059f7b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "akuisisi",
+   "Arkora Hydro",
+   "energi terbarukan"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk melaporkan bahwa dua anak usahanya, PT Arkora Tenaga Matahari (ATM) dan PT Arjuna Hidro (AJ), telah merampungkan akuisisi 100 persen saham PT Endorshine Energy Solution (EES). Transaksi ini dilakukan lewat tiga akta jual beli saham, yaitu Akta No. 09, No. 10, dan No. 11, yang seluruhnya diteken pada 12 Agustus 2026 di hadapan notaris Stephani Dwi Sari di Jakarta Timur.",
+   "Transaksi baru dinyatakan efektif setelah Kementerian Hukum Republik Indonesia menerbitkan Surat Penerimaan Pemberitahuan Data Perseroan Nomor AHU-AH.01.09-0393673 tertanggal 22 Agustus 2026, yang baru diterima Arkora Hydro pada 24 Agustus 2026. Dengan terbitnya surat itu, ATM tercatat menguasai 99,99 persen saham EES dan AJ memegang sisanya sebesar 0,01 persen, sehingga EES kini berstatus anak perusahaan yang dikendalikan secara tidak langsung oleh Arkora Hydro.",
+   "Perseroan menegaskan transaksi ini bukan Transaksi Material maupun Transaksi Afiliasi atau Transaksi Benturan Kepentingan sebagaimana diatur dalam POJK Nomor 17/2020 dan POJK Nomor 42/2020, karena nilai transaksinya tidak memenuhi ambang batas material. Manajemen menyebut akuisisi ini berdampak positif bagi kegiatan operasional, kondisi keuangan, dan kelangsungan usaha perseroan. Laporan ditandatangani oleh Ricky Hartono selaku Corporate Secretary dan Aldo Artoko selaku Presiden Direktur."
+  ],
+  "fotoAdegan": "Technicians inspecting solar panels on a hillside installation in rural Indonesia, sunny afternoon, cables and inverter boxes nearby",
+  "takeaway": "Laporan ini netral bagi Arkora Hydro, sebab perseroan sendiri menyatakan transaksi ini tidak memenuhi ambang batas Transaksi Material menurut aturan OJK, yang berarti nilainya relatif kecil dibanding ukuran perseroan, dan dokumen ini tidak menyebutkan sama sekali berapa dana yang dikeluarkan atau dari mana sumbernya. Yang berubah adalah struktur aset perseroan: EES kini masuk dalam laporan keuangan konsolidasian Arkora Hydro sebagai anak usaha tidak langsung, sehingga aset dan kewajiban EES akan tercatat dalam neraca gabungan grup, meski besarannya belum terlihat karena tidak ada angka yang diungkap di sini. Investor perlu menanti laporan keuangan kuartal berikutnya untuk melihat kontribusi EES terhadap pendapatan dan aset kelompok usaha, sekaligus penjelasan lebih lanjut soal lini bisnis EES yang belum dirinci dalam laporan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "jpfa-komisaris-utama-syamsir-siregar-wafat",
   "category": "Aksi Korporasi",
   "title": "JPFA: Komisaris Utama Syamsir Siregar [Wafat]",

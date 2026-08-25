@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Rampungkan [Akuisisi] 100% Saham Endorshine Energy",
+  "deck": "Dua anak usaha Arkora Hydro, PT Arkora Tenaga Matahari dan PT Arjuna Hidro, resmi menguasai 100% saham PT Endorshine Energy Solution setelah mendapat persetujuan Kementerian Hukum.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "akuisisi",
+   "Arkora Hydro",
+   "energi terbarukan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50c8be6b31_d31059f7b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jpfa-komisaris-utama-syamsir-siregar-wafat",
   "category": "Aksi Korporasi",
   "title": "JPFA: Komisaris Utama Syamsir Siregar [Wafat]",
@@ -6545,22 +6561,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459950-ihsg-melesat-usai-pidato-prabowo-ini-faktor-penting-yang-jadi-sorotan-investor"
- },
- {
-  "slug": "dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Ganti [Pengendali], Sinergi Internasional Kuasai 51% Saham",
-  "deck": "PT Sinergi Internasional Investama membeli 51% saham DOOH senilai Rp197,34 miliar dari PT Prambanan Investasi Sukses dan resmi menjadi pengendali baru perusahaan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/dooh-ganti-pengendali-sinergi-internasional-kuasai-51-saham.jpg",
-  "imageV": "mstx4ye9",
-  "tags": [
-   "DOOH",
-   "pengambilalihan",
-   "pengendali baru",
-   "tender offer wajib"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/190f26e2bf_813646b022.pdf",
-  "sourceLabel": "IDX"
  }
 ];

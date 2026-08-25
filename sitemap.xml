@@ -14,6 +14,7 @@
   <url><loc>https://the-signal.id/kontak.html</loc><lastmod>2026-08-25</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-08-25</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-08-25</lastmod><priority>0.3</priority></url>
+  <url><loc>https://the-signal.id/berita/arko-rampungkan-akuisisi-100-saham-endorshine-energy.html</loc><lastmod>2026-08-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/jpfa-komisaris-utama-syamsir-siregar-wafat.html</loc><lastmod>2026-08-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum.html</loc><lastmod>2026-08-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/harga-emas-antam-naik-lagi-jadi-rp2-768-000-per-gram.html</loc><lastmod>2026-08-25</lastmod><priority>0.8</priority></url>
@@ -308,9 +309,9 @@
   <url><loc>https://the-signal.id/berita/irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/tama-pemegang-saham-jual-2-5-juta-saham-suara-ke-8-92.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya.html</loc><lastmod>2026-08-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/berita/tama-pemegang-saham-jual-2-5-juta-saham-suara-ke-8-92.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/berita/vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/toba-modal-disetor-bertambah-usai-mesop-karyawan-dieksekusi.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/avia-bukukan-laba-bersih-rp435-miliar-di-kuartal-ii-2026.html</loc><lastmod>2026-08-18</lastmod><priority>0.6</priority></url>
@@ -731,6 +732,7 @@
   <url><loc>https://the-signal.id/emiten/BWPT.html</loc><lastmod>2026-08-21</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/NICK.html</loc><lastmod>2026-08-21</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/SILO.html</loc><lastmod>2026-08-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/ARKO.html</loc><lastmod>2026-08-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/VISI.html</loc><lastmod>2026-08-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/BEEF.html</loc><lastmod>2026-08-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/MKNT.html</loc><lastmod>2026-08-24</lastmod><priority>0.6</priority></url>
@@ -752,7 +754,6 @@
   <url><loc>https://the-signal.id/emiten/SOFA.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/WTON.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/MCOR.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
-  <url><loc>https://the-signal.id/emiten/ARKO.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ELSA.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/BIKE.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/HATM.html</loc><lastmod>2026-08-24</lastmod><priority>0.3</priority></url>

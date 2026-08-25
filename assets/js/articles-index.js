@@ -21,6 +21,20 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-naik-lagi-jadi-rp2-768-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram"
+ },
+ {
   "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
   "category": "UMKM",
   "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
@@ -6551,22 +6565,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
- },
- {
-  "slug": "sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi",
-  "category": "Aksi Korporasi",
-  "title": "SFAN Terima [Pelunasan] Rp13,88 Miliar dari Anak Usaha DPI",
-  "deck": "Anak usaha DPI melunasi utang Rp13,875 miliar kepada Surya Fajar Capital, bagian dari pembelian saham SFUD yang disetujui RUPS Independen Juni lalu.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/sfan-terima-pelunasan-rp13-88-miliar-dari-anak-usaha-dpi.jpg",
-  "imageV": "mstx6s6b",
-  "tags": [
-   "SFAN",
-   "DPI",
-   "divestasi",
-   "RUPS Independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cdb73fb72c_5b78827cf3.pdf",
-  "sourceLabel": "IDX"
  }
 ];

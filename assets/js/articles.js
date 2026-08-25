@@ -29,6 +29,31 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "harga-emas-antam-naik-lagi-jadi-rp2-768-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
+  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T09:27:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali naik pada perdagangan hari ini, Selasa 25 Agustus 2026. Berdasarkan pantauan di laman resmi Logam Mulia, harga emas cetakan Antam tercatat Rp2.768.000 per gram, melanjutkan kenaikan dari hari sebelumnya. Bagi masyarakat yang berencana membeli atau menyimpan emas fisik sebagai aset, pergerakan harga harian ini menjadi acuan penting sebelum bertransaksi.",
+   "Kenaikan tersebut membawa harga emas Antam naik Rp18.000 per gram dibandingkan hari sebelumnya yang berada di level Rp2.750.000 per gram. Harga saat Antam membeli kembali emas dari masyarakat juga naik, menjadi Rp2.628.000 per gram. Dengan begitu, selisih antara harga jual dan harga beli kembali saat ini sekitar Rp140.000 per gram.",
+   "Perlu diingat, harga emas Antam bersifat dinamis dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Konsumen yang ingin membeli maupun menjual kembali emas batangan disarankan mengecek harga terbaru langsung di laman resmi Logam Mulia sebelum bertransaksi."
+  ],
+  "fotoAdegan": "Close-up of small gold bars stacked on a jeweler's scale inside a precious metals counter, soft indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan harga emas Antam hari ini sebesar Rp18.000 per gram menjadi Rp2.768.000, sementara harga saat Antam membeli kembali emas dari masyarakat turut naik menjadi Rp2.628.000 per gram. Yang kena dampak langsung adalah masyarakat yang berencana membeli emas batangan sebagai simpanan, karena mereka harus mengeluarkan uang lebih banyak dibanding hari sebelumnya, sementara yang ingin menjual emas simpanannya justru diuntungkan karena harga beli kembali ikut naik. Data yang tersedia hari ini baru satu titik kenaikan harian, belum cukup untuk memastikan apakah ini awal tren naik yang berkelanjutan atau sekadar fluktuasi harian biasa. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan, karena rangkaian kenaikan atau penurunan berturut-turut baru akan menunjukkan arah harga yang lebih jelas.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
   "category": "UMKM",
   "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",

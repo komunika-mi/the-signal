@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Vt7k2-tJw6M",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto meluncurkan sekaligus melakukan groundbreaking Program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Monumen Operasi Lintas Laut Jawa Bali.",
+  "takeaway": "Program PLTS berskala besar ini menandai langkah pemerintah memperluas energi terbarukan, hal yang relevan bagi arah investasi dan bauran energi nasional ke depan.",
+  "terbit": "2026-07-10T13:05:34+00:00"
+ },
+ {
   "id": "Z66PZJknxSA",
   "title": "Ratusan Karyawan Perusahaan Tambang di Konawe Selatan Kena PHK",
   "category": "Ketenagakerjaan",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Menteri Koperasi Ferry Juliantono menegaskan pemerintah berkomitmen mewujudkan kemerdekaan ekonomi dan sosial masyarakat melalui pemberdayaan koperasi dan UMKM.",
   "takeaway": "Pernyataan menteri terkait arah kebijakan pemberdayaan UMKM ini relevan bagi pembaca yang mengikuti agenda ekonomi kerakyatan pemerintah.",
   "terbit": "2026-08-18T00:04:21+07:00"
- },
- {
-  "id": "oFs66ujNmY4",
-  "title": "1.200 UMKM Ramaikan Pesta Rakyat HUT ke-81 RI",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Pesta Rakyat HUT ke-81 RI di kawasan Monas hingga Bundaran HI melibatkan lebih dari 1.700 UMKM yang memasarkan produknya kepada masyarakat.",
-  "takeaway": "Skala keterlibatan UMKM dalam acara nasional ini menggambarkan peluang perluasan pasar bagi pelaku usaha kecil.",
-  "terbit": "2026-08-17T23:21:05+07:00"
  }
 ];

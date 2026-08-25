@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "r4A6TWWW1sw",
+  "title": "Presiden Prabowo Resmikan PLTS Gilimanuk di Bali",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto meresmikan groundbreaking tahap pertama proyek Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Gilimanuk, Bali.",
+  "takeaway": "Proyek ini penting bagi pembaca ekonomi karena mencerminkan arah investasi pemerintah dalam pengembangan energi terbarukan berskala besar.",
+  "terbit": "2026-08-25T15:41:05+00:00"
+ },
+ {
   "id": "ewdCLytOnIA",
   "title": "AS Ancam Sanksi Baru, Matikan Ekonomi Iran",
   "category": "Global",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
   "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik.",
   "terbit": "2026-08-24T07:35:07+00:00"
- },
- {
-  "id": "K-HCBg9XDVk",
-  "title": "Perpres Ojol Sangat Dinanti Driver, Apa Saja Isinya?",
-  "category": "Ketenagakerjaan",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Pemerintah dan DPR RI memasuki tahap akhir finalisasi Peraturan Presiden tentang perlindungan pekerja transportasi online, mencakup pengemudi penumpang serta kurir barang dan makanan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan jutaan pekerja di sektor ekonomi gig yang terus berkembang di Indonesia.",
-  "terbit": "2026-08-23T14:21:02+00:00"
  }
 ];

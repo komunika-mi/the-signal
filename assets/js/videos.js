@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ewdCLytOnIA",
+  "title": "AS Ancam Sanksi Baru, Matikan Ekonomi Iran",
+  "category": "Global",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Amerika Serikat memberlakukan sanksi ekonomi baru terhadap Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak memiliki dasar dari PBB.",
+  "takeaway": "Sanksi ekonomi AS terhadap Iran relevan bagi pembaca karena berpotensi memengaruhi harga energi dan arus perdagangan global.",
+  "terbit": "2026-08-25T13:10:05+00:00"
+ },
+ {
   "id": "s6X2aNbkM04",
   "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp di Bali",
   "category": "Energi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pemerintah dan DPR RI memasuki tahap akhir finalisasi Peraturan Presiden tentang perlindungan pekerja transportasi online, mencakup pengemudi penumpang serta kurir barang dan makanan.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan jutaan pekerja di sektor ekonomi gig yang terus berkembang di Indonesia.",
   "terbit": "2026-08-23T14:21:02+00:00"
- },
- {
-  "id": "8MR2N8l3TyU",
-  "title": "BPS: Backlog Rumah Turun Jadi 9,29 Juta Keluarga",
-  "category": "Makroekonomi",
-  "program": "Ulas Utas",
-  "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
-  "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional.",
-  "terbit": "2026-08-18T19:50:03+07:00"
  }
 ];

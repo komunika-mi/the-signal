@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Zl5RCPsgvD0",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Kabupaten Jembrana, Bali.",
+  "takeaway": "Peluncuran ini menandai langkah pemerintah memperbesar porsi energi terbarukan dalam bauran energi nasional, hal yang relevan bagi investor dan pelaku industri energi.",
+  "terbit": "2026-08-25T09:18:07+00:00"
+ },
+ {
+  "id": "oQa6Z0LZ3QI",
+  "title": "Pidato Presiden Prabowo di Peluncuran PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
+  "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan.",
+  "terbit": "2026-08-25T08:58:33+00:00"
+ },
+ {
   "id": "Vt7k2-tJw6M",
   "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
   "category": "Energi",
@@ -90,23 +108,5 @@ var VIDEOS = [
   "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
   "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol.",
   "terbit": "2026-08-18T16:26:09+07:00"
- },
- {
-  "id": "GAJ5Xb3VsXc",
-  "title": "Update Kurs Rupiah, Harga Minyak Dunia, dan Emas Antam",
-  "category": "Pasar Modal",
-  "program": "Kabar Siang",
-  "summary": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, melanjutkan tren kenaikan beberapa hari terakhir, seiring pergerakan kurs rupiah dan harga minyak dunia.",
-  "takeaway": "Data harian kurs, harga minyak, dan emas ini jadi acuan penting bagi investor dan pelaku pasar dalam mengambil keputusan.",
-  "terbit": "2026-08-18T13:38:01+07:00"
- },
- {
-  "id": "_eLwJlitL-k",
-  "title": "Menkop Ferry Juliantono: Pemerintah Pastikan Kemerdekaan Ekonomi",
-  "category": "UMKM",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri Koperasi Ferry Juliantono menegaskan pemerintah berkomitmen mewujudkan kemerdekaan ekonomi dan sosial masyarakat melalui pemberdayaan koperasi dan UMKM.",
-  "takeaway": "Pernyataan menteri terkait arah kebijakan pemberdayaan UMKM ini relevan bagi pembaca yang mengikuti agenda ekonomi kerakyatan pemerintah.",
-  "terbit": "2026-08-18T00:04:21+07:00"
  }
 ];

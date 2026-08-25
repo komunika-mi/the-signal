@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jpfa-komisaris-utama-syamsir-siregar-wafat",
+  "category": "Aksi Korporasi",
+  "title": "JPFA: Komisaris Utama Syamsir Siregar [Wafat]",
+  "deck": "JAPFA Comfeed melaporkan wafatnya Komisaris Utama H. Syamsir Siregar pada 25 Agustus 2026; susunan baru Dewan Komisaris akan ditetapkan di RUPS terdekat.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "JAPFA Comfeed",
+   "Dewan Komisaris",
+   "Komisaris Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9cd126697_994f8d0e24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
   "category": "Aksi Korporasi",
   "title": "ADHI Tanggapi [Suspensi] Saham, RUPO Obligasi Gagal Kuorum",
@@ -548,6 +564,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462189-telkomgroup-salurkan-bantuan-kemanusiaan-rp13-miliar-untuk-masyarakat-terdampak-gempa-ntt"
+ },
+ {
+  "slug": "sido-jadwalkan-public-expose-tahunan-9-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Jadwalkan [Public Expose] Tahunan 9 September 2026",
+  "deck": "Sido Muncul akan menggelar paparan publik tahunan secara virtual pada 9 September 2026, membahas kinerja semester I dan strategi bisnis.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "public expose",
+   "kinerja semester I"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ca366e094_5f94a8a707.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dmnd-jadwalkan-rupslb-pada-30-september-2026",
@@ -6531,39 +6563,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56a56bcb08_f8a35cc656.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september",
-  "category": "Aksi Korporasi",
-  "title": "PLTM Siapkan Rp106 Miliar Lunasi [Obligasi] Jatuh Tempo September",
-  "deck": "PLTM memastikan dana Rp106 miliar sudah tersedia untuk melunasi Obligasi II dan Sukuk Ijarah II Seri B yang jatuh tempo 8 September 2026, bersumber dari kas internal perusahaan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/pltm-siapkan-rp106-miliar-lunasi-obligasi-jatuh-tempo-september.jpg",
-  "imageV": "mstx66s9",
-  "tags": [
-   "PLTM",
-   "obligasi",
-   "sukuk ijarah",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c32ae070d4_b988c1df2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.827 usai Pidato RAPBN Presiden Prabowo",
-  "deck": "Rupiah menguat 50 poin ke Rp17.827 per dolar AS usai pidato RAPBN 2027 Presiden Prabowo; analis nilai target pertumbuhan 6 persen dan defisit Rp671,2 triliun masih wajar.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/rupiah-menguat-ke-rp17-827-usai-pidato-rapbn-prabowo.jpg",
-  "imageV": "mssvvp9t",
-  "tags": [
-   "rupiah",
-   "RAPBN 2027",
-   "kurs dolar",
-   "Presiden Prabowo Subianto"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459946-pidato-prabowo-bikin-rupiah-menguat-ke-rp17827-per-dolar-as-investor-soroti-target-rapbn-2027"
  }
 ];

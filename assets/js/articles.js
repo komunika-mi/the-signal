@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jpfa-komisaris-utama-syamsir-siregar-wafat",
+  "category": "Aksi Korporasi",
+  "title": "JPFA: Komisaris Utama Syamsir Siregar [Wafat]",
+  "deck": "JAPFA Comfeed melaporkan wafatnya Komisaris Utama H. Syamsir Siregar pada 25 Agustus 2026; susunan baru Dewan Komisaris akan ditetapkan di RUPS terdekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T11:24:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9cd126697_994f8d0e24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "JAPFA Comfeed",
+   "Dewan Komisaris",
+   "Komisaris Utama"
+  ],
+  "body": [
+   "JAPFA Comfeed Indonesia Tbk (JPFA) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan mengenai wafatnya Komisaris Utama perseroan, H. Syamsir Siregar, pada Selasa, 25 Agustus 2026. Laporan disampaikan melalui surat nomor 138/JAPFA-OJK/LD-CS/VIII/2026 yang ditandatangani Corporate Secretary Maya Pradjono.",
+   "Dalam surat tersebut, perseroan menyatakan jumlah anggota Dewan Komisaris yang tersisa saat ini masih memenuhi ketentuan peraturan perundang-undangan dan anggaran dasar perseroan. Karena itu, perubahan susunan Dewan Komisaris untuk mengisi kekosongan posisi Komisaris Utama akan dilakukan pada Rapat Umum Pemegang Saham terdekat, yang waktunya akan diinformasikan kemudian oleh perseroan.",
+   "Perseroan tidak mencantumkan dampak kejadian ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha dalam formulir laporan, yang diisi tanda strip."
+  ],
+  "fotoAdegan": "Workers stacking sacks of animal feed inside a large Indonesian feed mill warehouse, forklift nearby, industrial morning light.",
+  "takeaway": "Kabar ini netral bagi fundamental JAPFA, sebab wafatnya seorang komisaris adalah peristiwa personal yang tidak mencerminkan masalah pada bisnis perseroan, dan perseroan sendiri menegaskan jumlah anggota Dewan Komisaris yang tersisa masih memenuhi syarat hukum sehingga fungsi pengawasan tetap berjalan. Laporan ini tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena sifatnya murni pergantian pengurus, bukan transaksi keuangan maupun aksi korporasi. Yang perlu dipantau adalah kapan Rapat Umum Pemegang Saham terdekat digelar, karena di forum itulah susunan baru Dewan Komisaris JAPFA, termasuk pengisi posisi Komisaris Utama, akan ditetapkan, sementara perseroan belum mengumumkan tanggalnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
   "category": "Aksi Korporasi",
   "title": "ADHI Tanggapi [Suspensi] Saham, RUPO Obligasi Gagal Kuorum",
@@ -889,6 +915,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari kabar ini adalah cakupan bantuan yang terus melebar. Dari 3,65 ton logistik yang disalurkan lewat Posko BNPB Halim pada 18 dan 20 Agustus, TelkomGroup kemudian merambah ke lebih dari 10 wilayah lain di NTT, termasuk kawasan terisolir di Manggarai Barat yang cuma bisa dijangkau lewat jalur laut. Yang terdampak jelas masyarakat korban gempa NTT, terutama warga di titik pengungsian dan di desa pesisir yang selama ini sulit dijangkau bantuan darat. Pola perluasan ini, dari pusat distribusi ke daerah pinggiran yang makin sulit diakses, mengarah ke cakupan bantuan yang makin menyeluruh, bukan berhenti di satu tahap penyaluran awal. Satu hal yang layak dipantau: angka Rp1,3 miliar ini disebut belum termasuk dukungan konektivitas, jadi ada bagian lain dari respons Telkom, yaitu pemulihan jaringan telekomunikasi di NTT, yang belum dirinci angkanya dan akan menentukan seberapa lengkap sebenarnya dukungan perusahaan ini.",
   "imageV": "mt727tr7"
+ },
+ {
+  "slug": "sido-jadwalkan-public-expose-tahunan-9-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Jadwalkan [Public Expose] Tahunan 9 September 2026",
+  "deck": "Sido Muncul akan menggelar paparan publik tahunan secara virtual pada 9 September 2026, membahas kinerja semester I dan strategi bisnis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:34:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ca366e094_5f94a8a707.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIDO",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "public expose",
+   "kinerja semester I"
+  ],
+  "body": [
+   "PT Industri Jamu Dan Farmasi Sido Muncul Tbk (SIDO) melaporkan rencana penyelenggaraan Public Expose Tahunan kepada Bursa Efek Indonesia lewat surat bernomor 026/SIDO/SPE.OJK-IDX/VIII/2026 tertanggal 24 Agustus 2026, yang ditandatangani Corporate Secretary Budiyanto. Acara akan digelar penuh secara virtual lewat webinar pada Rabu, 9 September 2026, pukul 14.00 sampai 15.00 WIB, dengan akses melalui platform Public Expose Live 2026 yang tercantum di situs idx.co.id.",
+   "Agenda paparan mencakup tiga hal: laporan kinerja semester I tahun 2026, prospek dan strategi usaha perusahaan, serta agenda lain-lain. Perusahaan menyebutkan yang akan hadir adalah jajaran Direksi beserta staf terkait, dan materi presentasi akan disampaikan ke publik paling lambat 4 September 2026 sesuai ketentuan yang berlaku.",
+   "Dalam surat pengantarnya, SIDO menjelaskan bahwa keikutsertaan ini merujuk pada surat elektronik BEI tanggal 10 Juli 2026 soal konfirmasi peminatan perusahaan tercatat dalam Public Expose Live 2026, serta surat BEI No. S-10042/BEI.PLP/07-2026 tanggal 29 Juli 2026. Acara ini merupakan bagian dari rangkaian peringatan 49 tahun diaktifkannya kembali pasar modal Indonesia."
+  ],
+  "fotoAdegan": "Workers packaging herbal medicine sachets on a production line inside an Indonesian jamu factory, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental Sido Muncul, sebab isinya baru sebatas jadwal acara wajib, belum ada angka kinerja baru yang diungkap. Yang akan tersentuh nanti adalah gambaran laba dan arah bisnis ke depan, karena agenda paparan publik ini mencakup laporan kinerja semester I 2026 dan strategi usaha, dua hal yang biasa dipakai investor menilai apakah target tahunan perusahaan masih sesuai rencana. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada 9 September 2026 pukul 14.00 WIB secara virtual, serta materi presentasinya yang menurut surat ini akan dirilis paling lambat 4 September 2026, karena di situlah angka kinerja semester I baru akan terbuka ke publik.",
+  "sentimen": "netral"
  },
  {
   "slug": "dmnd-jadwalkan-rupslb-pada-30-september-2026",

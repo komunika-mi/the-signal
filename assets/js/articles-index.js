@@ -727,6 +727,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "srtg-rupslb-setujui-komisaris-joyce-soeryadjaya-kerr-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: RUPSLB Setujui [Komisaris] Joyce Soeryadjaya Kerr Mundur",
+  "deck": "RUPSLB Saratoga 21 Agustus menyetujui pengunduran diri Komisaris Joyce Soeryadjaya Kerr dan penyesuaian anggaran dasar.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Saratoga Investama Sedaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8293b78a41_fba9b9dba4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
   "category": "Aksi Korporasi",
   "title": "XDES: BRI-MI Ganti [Pengendali], Rencana Gabung ke Mandiri MI",
@@ -6545,23 +6561,6 @@ var ARTICLES = [
    "tender offer wajib"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/190f26e2bf_813646b022.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abda-panggil-rupslb-agendakan-perubahan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "ABDA Panggil RUPSLB, Agendakan [Perubahan] Susunan Direksi",
-  "deck": "PT Asuransi Bina Dana Arta menggelar RUPSLB 7 September 2026 di Jakarta dengan agenda tunggal persetujuan perubahan susunan direksi.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/abda-panggil-rupslb-agendakan-perubahan-susunan-direksi.jpg",
-  "imageV": "mstx5o14",
-  "tags": [
-   "ABDA",
-   "RUPSLB",
-   "Direksi",
-   "Oona Insurance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56a56bcb08_f8a35cc656.pdf",
   "sourceLabel": "IDX"
  }
 ];

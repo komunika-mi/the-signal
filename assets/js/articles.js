@@ -1177,6 +1177,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "srtg-rupslb-setujui-komisaris-joyce-soeryadjaya-kerr-mundur",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: RUPSLB Setujui [Komisaris] Joyce Soeryadjaya Kerr Mundur",
+  "deck": "RUPSLB Saratoga 21 Agustus menyetujui pengunduran diri Komisaris Joyce Soeryadjaya Kerr dan penyesuaian anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T15:11:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8293b78a41_fba9b9dba4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Saratoga Investama Sedaya"
+  ],
+  "body": [
+   "PT Saratoga Investama Sedaya Tbk (SRTG) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) secara elektronik pada Jumat, 21 Agustus 2026, melalui fasilitas eASY.KSEI. Rapat dihadiri pemegang saham yang mewakili 12.315.674.912 saham atau 90,8462 persen dari total saham dengan hak suara sah. Ketiga agenda rapat disetujui bulat, seluruhnya meraih 100 persen suara setuju dari saham yang hadir, tanpa suara menolak maupun abstain.",
+   "Agenda pertama menyetujui penyesuaian Pasal 3 Anggaran Dasar Perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025 yang diterbitkan Badan Pusat Statistik. Perseroan menegaskan penyesuaian ini bukan perubahan kegiatan usaha sebagaimana diatur POJK 17/2020 tentang Transaksi Material. Agenda kedua menyetujui perubahan Pasal 16 ayat 7 dan Pasal 19 ayat 4, yang menyederhanakan ketentuan pengunduran diri anggota Direksi dan Dewan Komisaris cukup dengan pemberitahuan tertulis kepada Perseroan.",
+   "Agenda ketiga menyetujui pengunduran diri Joyce Soeryadjaya Kerr dari jabatan Komisaris, berlaku efektif sejak rapat ditutup. Pemegang saham juga memberikan pelunasan dan pembebasan tanggung jawab penuh (acquit et de charge) atas tindakan pengawasannya selama menjabat, serta mengesampingkan ketentuan pemberitahuan tertulis 60 hari sebelum pengunduran diri yang semestinya berlaku. Dengan keluarnya Joyce, susunan Dewan Komisaris Saratoga kini terdiri dari Edwin Soeryadjaya sebagai Presiden Komisaris, Indra Cahya Uno sebagai Komisaris, serta Aria Kanaka dan Stephanus Harjanto T sebagai Komisaris Independen, sementara susunan Direksi tidak berubah dengan Michael W.P. Soeryadjaya sebagai Presiden Direktur, didampingi Lany Djuwita Wong dan Devin Wirawan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, floor-to-ceiling windows overlooking a Jakarta skyline, soft morning light",
+  "takeaway": "Perubahan ini condong netral bagi kinerja Saratoga karena tidak menyentuh angka keuangan seperti ekuitas, arus kas, atau jumlah saham beredar, murni soal tata kelola dan format Anggaran Dasar. Yang berubah adalah komposisi Dewan Komisaris, dari lima menjadi empat orang setelah Joyce Soeryadjaya Kerr mundur, sehingga jumlah orang yang mengawasi jajaran direksi berkurang satu, meski investor umumnya lebih memperhatikan independensi pengawas ketimbang jumlahnya. Penyesuaian Pasal 3 soal klasifikasi usaha dan pelonggaran syarat pengunduran diri Direksi maupun Komisaris di Pasal 16 dan 19 sifatnya administratif, mengikuti aturan klasifikasi usaha baru dari Badan Pusat Statistik. Yang perlu dipantau selanjutnya adalah apakah Saratoga akan mengisi kembali kursi Komisaris yang kosong itu dan bagaimana proses pengesahan perubahan Anggaran Dasar ini di Kementerian Hukum, karena dokumen ini belum mencantumkan tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
   "category": "Aksi Korporasi",
   "title": "XDES: BRI-MI Ganti [Pengendali], Rencana Gabung ke Mandiri MI",

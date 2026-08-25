@@ -140,7 +140,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",
@@ -186,6 +186,32 @@ var ARTICLES = [
   "fotoAdegan": "Open-pit gold mine terrain in Indonesia at dawn, heavy excavators moving ore, dust haze over the hillside",
   "takeaway": "Laporan ini condong negatif sebagai sinyal internal, karena meski porsi kepemilikan Xinyu Wang di EMAS memang kecil sejak awal, saham yang dilepas mencapai sekitar 34 persen dari kepemilikan pribadinya sendiri, jumlah yang cukup besar untuk dibaca sebagai pengurangan keyakinan, bukan sekadar transaksi remah. Yang tersentuh di sini adalah hak suara sang komisaris di EMAS, yang turun dari 0,01 persen menjadi 0,007 persen, sebuah pos yang dipantau pelaku pasar karena pergerakan kepemilikan insider seperti ini kerap dibaca sebagai indikator sikap manajemen terhadap prospek perusahaan, meski di sini dampaknya terhadap struktur pengendalian EMAS secara keseluruhan tetap kecil. Yang perlu dipantau berikutnya adalah apakah ada laporan kepemilikan lanjutan dari komisaris atau direksi EMAS lain dalam waktu dekat, yang bisa menunjukkan pola pelepasan saham yang lebih luas di jajaran manajemen.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "emas-anak-usaha-teken-perjanjian-peralatan-dengan-vision-green",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Anak Usaha Teken Perjanjian [Peralatan] dengan Vision Green",
+  "deck": "Anak usaha EMAS, PT Pani Industri Nusantara, menandatangani perjanjian jual beli peralatan dan jasa konsultasi dengan perusahaan Tiongkok Vision Green Energy, efektif 21 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T20:56:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/42bab47906_f3a55220f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "Transaksi Material",
+   "Pani Gold Project",
+   "Vision Green Energy"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) melalui Corporate Secretary Adi Adriansyah Sjoekri mengumumkan bahwa anak usahanya, PT Pani Industri Nusantara (PIN), menandatangani Perjanjian Jual Beli Bersyarat atas Peralatan dan Perjanjian Layanan Konsultasi Penunjang dengan Vision Green Energy (Beijing) Tech, Co., Ltd. (VGE), perusahaan asal Tiongkok. Perjanjian ini berlaku efektif sejak 21 Agustus 2026.",
+   "Perseroan mengategorikan transaksi ini sebagai Transaksi Material sesuai Pasal 6 ayat (1) huruf a POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Konsekuensinya, transaksi ini wajib memakai jasa penilai independen, yaitu KJPP Iskandar & Rekan, untuk menghitung nilai wajar dan kewajaran transaksi. Meski begitu, transaksi ini tidak memerlukan persetujuan Rapat Umum Pemegang Saham karena nilainya tidak melebihi 50 persen dari nilai ekuitas Perseroan.",
+   "Perjanjian juga memuat pengaturan yang berkaitan dengan Transaksi Afiliasi sebagaimana diatur POJK 42/2020, yang akan dijalankan sesuai ketentuan perjanjian apabila direalisasikan. Perseroan menegaskan bahwa transaksi ini bukan Transaksi Benturan Kepentingan sebagaimana dimaksud dalam aturan yang sama. Dokumen keterbukaan ini belum mencantumkan nilai transaksi maupun rincian jenis dan jumlah peralatan yang diperjualbelikan."
+  ],
+  "fotoAdegan": "Heavy industrial mining equipment and stacked steel components at a remote gold processing site in a tropical valley, overcast daylight",
+  "takeaway": "Laporan ini bersifat netral bagi EMAS, sebab belum ada angka nilai transaksi yang diumumkan sehingga besaran dampak finansialnya belum bisa dipastikan, dan sifatnya masih berupa transaksi operasional pembelian peralatan serta jasa konsultasi, bukan sinyal soal kesehatan keuangan perusahaan. Yang tersentuh dari transaksi ini adalah arus kas investasi, yakni dana yang harus dikeluarkan PIN untuk membayar peralatan dan jasa konsultasi kepada VGE, dan karena nilainya cukup besar sampai wajib dinilai penilai independen meski masih di bawah setengah ekuitas Perseroan. Perjanjian ini juga menyinggung ketentuan Transaksi Afiliasi, yaitu transaksi dengan pihak yang punya keterkaitan pengurus atau pemegang saham dengan Perseroan, meski laporan menegaskan ini bukan transaksi yang mengandung benturan kepentingan. Yang perlu dipantau berikutnya adalah hasil penilaian independen KJPP Iskandar & Rekan atas kewajaran harga transaksi ini, serta apakah ketentuan Transaksi Afiliasi dalam perjanjian benar-benar direalisasikan, karena dari situ pemegang saham baru bisa menilai apakah transaksi ini menguntungkan atau membebani Perseroan.",
+  "sentimen": "netral"
  },
  {
   "slug": "kras-jadwal-rupslb-diundur-ke-7-september-2026",
@@ -370,6 +396,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "sofa-rombak-lini-usaha-rambah-holding-dan-pembiayaan",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Rombak Lini Usaha, Rambah [Holding] dan Pembiayaan",
+  "deck": "SOFA akan meminta persetujuan pemegang saham lewat RUPSLB 30 September 2026 untuk menambah usaha holding dan pembiayaan conduit, di tengah kerugian yang terus membesar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T18:47:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9fa6a50b5f_0b0eba4bca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "perubahan kegiatan usaha",
+   "RUPSLB",
+   "holding"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA), emiten furnitur yang dulu bernama PT Boston Furniture Industries Tbk, berencana menambah dua bidang usaha baru ke Pasal 3 Anggaran Dasarnya: Aktivitas Perusahaan Induk (KBLI 64210) dan Aktivitas Pembiayaan Conduit (KBLI 64220). Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 30 September 2026. Perubahan ini menyusul pengambilalihan 70,97 persen saham SOFA oleh PT Asia Investment Capital pada 24 Oktober 2025, yang kemudian diikuti pergantian nama perseroan dari Boston Furniture Industries menjadi Solusi Environment Asia pada Januari 2026.",
+   "Sebagai syarat POJK 17/2020, SOFA menunjuk KJPP Ferdinand, Danar, Ichsan dan Rekan (FDI&R) untuk menyusun studi kelayakan. Dua laporan terbit pada 21 Agustus 2026, yaitu laporan nomor 00157 untuk aktivitas perusahaan induk dan nomor 00156 untuk aktivitas pembiayaan conduit, dan keduanya menyimpulkan rencana ini layak dijalankan berdasarkan NPV positif, IRR di atas tingkat diskonto, dan Profitability Index di atas 1,00. Dalam skema yang diuraikan, dana yang dihimpun SOFA akan disalurkan lewat anak usahanya PT Ananta Energi Asia (AEA, kepemilikan 99 persen) untuk disetorkan sebagai modal ke PT Weiming Nusantara Alpha (WNA) dan PT Weiming Nusantara Gamma (WNG), masing-masing dimiliki 10 persen lewat AEA. WNA dan WNG baru berdiri dan mulai beroperasi tahun 2026, dan menurut dokumen terkait dengan proyek pengolahan sampah menjadi energi.",
+   "Laporan keuangan konsolidasian per 30 Juni 2026 yang menyertai keterbukaan informasi ini menunjukkan penjualan semester pertama 2026 sebesar Rp21,385 miliar, sementara rugi usaha membengkak menjadi Rp7,009 miliar hanya dalam enam bulan, sudah melampaui rugi usaha sepanjang 2025 yang sebesar Rp4,851 miliar. Rugi tahun berjalan tercatat Rp5,693 miliar di semester pertama 2026, juga sudah melampaui rugi setahun penuh 2025 sebesar Rp5,299 miliar. Ekuitas perseroan turun dari Rp44,795 miliar pada akhir 2024 menjadi Rp39,036 miliar pada akhir 2025 dan Rp33,354 miliar per Juni 2026, sementara arus kas dari aktivitas operasi tercatat negatif Rp4,022 miliar pada semester pertama 2026."
+  ],
+  "fotoAdegan": "Waste-to-energy plant exterior with conveyor systems and large storage bunkers for refuse, industrial site under overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi SOFA karena bukan sekadar penambahan lini usaha administratif, melainkan pengalihan arah bisnis di tengah kinerja inti yang terus memburuk: rugi usaha dan rugi bersih di semester pertama 2026 saja sudah melampaui total rugi sepanjang 2025. Yang tersentuh adalah ekuitas, yakni selisih antara total aset dan utang perseroan yang mencerminkan kekayaan bersih pemegang saham, yang susut sekitar seperempat dalam satu setengah tahun terakhir, serta arus kas operasi yang minus, artinya kegiatan usaha sehari-hari perseroan menyedot kas alih-alih menghasilkannya. Pelaku pasar biasanya mencermati dua pos ini karena keduanya menunjukkan apakah perusahaan masih punya bantalan keuangan untuk bertahan sambil membiayai ekspansi baru. Skema penyaluran dana lewat anak usaha berlapis ke entitas yang baru berdiri tahun ini untuk proyek pengolahan sampah menjadi energi juga menambah kompleksitas yang perlu diawasi pemegang saham minoritas. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 30 September 2026 atas perubahan Pasal 3 Anggaran Dasar ini, serta laporan realisasi penggunaan dana begitu skema pembiayaan conduit tersebut mulai berjalan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
   "category": "Aksi Korporasi",
   "title": "SOFA Gelar [RUPSLB] atas Permintaan Pemegang Saham",
@@ -419,6 +471,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Modern glass office tower exterior in Jakarta's financial district at dusk, illuminated windows, light street traffic below",
   "takeaway": "Penilaian saya netral, karena meski 5,42 persen dari kepemilikan pribadinya terjual, hak suara sang komisaris di ITSEC Asia nyaris tidak bergeser, dari 0,242 persen menjadi 0,228 persen, sehingga tidak mengubah peta kendali perusahaan. Yang tersentuh di sini murni hak suara pribadinya, bukan jumlah saham beredar ITSEC Asia secara keseluruhan, sebab 1,76 juta lembar yang dijual hanya pecahan kecil dari total saham perusahaan yang beredar sehingga tidak mengubah struktur permodalan emiten. Yang perlu dipantau adalah apakah pola penjualan bertahap sejak 23 Juni ini berlanjut di laporan kepemilikan berikutnya, mengingat rangkaian 14 transaksi dalam tujuh pekan terakhir menunjukkan ini bukan aksi jual satu kali, melainkan bagian dari kebiasaan transaksi rutin yang wajib terus dilaporkan ke OJK.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wton-ubah-susunan-komite-audit-andrianto-jadi-anggota-baru",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ubah Susunan [Komite Audit], Andrianto Jadi Anggota Baru",
+  "deck": "Wijaya Karya Beton menambah Andrianto sebagai anggota Komite Audit menyusul perubahan Dewan Komisaris hasil RUPSLB Juli 2026, efektif 20 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T17:34:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76540d3e4e_a6b9807aa2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WTON",
+  "tags": [
+   "WTON",
+   "Komite Audit",
+   "Wijaya Karya Beton",
+   "Tata Kelola"
+  ],
+  "body": [
+   "PT Wijaya Karya Beton Tbk (WTON) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 20 Agustus 2026. Noor Aljanna Fitri Gayo tetap menjabat sebagai Ketua merangkap Anggota, sementara Andrianto masuk sebagai anggota baru bergabung dengan Ashuri dan Gunarto yang tetap menjabat sebagai anggota.",
+   "Perubahan ini tertuang dalam Keputusan Dewan Komisaris Nomor SK.07/DK-WB/VIII/2026 yang ditetapkan di Jakarta pada 20 Agustus 2026 dan ditandatangani Komisaris Utama Yudha Permana Jayadikarta. Keputusan ini merupakan tindak lanjut dari perubahan susunan Dewan Komisaris WTON yang ditetapkan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 10 Juli 2026, sehingga nomenklatur dan susunan komite di bawah Dewan Komisaris perlu disesuaikan.",
+   "Masa jabatan Andrianto sebagai anggota Komite Audit ditetapkan paling lama lima tahun, terhitung sejak 20 Agustus 2026 hingga 20 Agustus 2031. Tiga anggota lain memiliki masa jabatan yang berbeda: Noor Aljanna Fitri Gayo hingga 25 Mei 2031, Gunarto hingga 26 Maret 2029, dan Ashuri hingga 17 Juli 2030. Dokumen keputusan juga mencantumkan skema honorarium komite di kisaran 10 hingga 20 persen dari gaji Direktur Utama, ditambah tunjangan hari raya sebesar satu kali honorarium."
+  ],
+  "fotoAdegan": "Workers inspecting stacked precast concrete pillars in an open-air factory yard, hard hats, early morning light.",
+  "takeaway": "Perubahan ini netral bagi kinerja WTON karena sifatnya adalah penyesuaian struktur pengawasan menyusul pergantian Dewan Komisaris hasil RUPSLB Juli 2026, tanpa dampak finansial langsung. Komite audit bertugas mengawasi kualitas laporan keuangan dan kepatuhan perusahaan terhadap aturan, sehingga pergantian anggotanya tetap perlu diketahui pemegang saham meski tidak menyentuh pos seperti ekuitas, arus kas, atau laba per saham. Yang perlu dipantau selanjutnya adalah apakah perubahan Dewan Komisaris turut memicu penyesuaian pada komite lain di bawahnya, serta masa jabatan Andrianto yang baru akan berakhir pada 20 Agustus 2031.",
   "sentimen": "netral"
  },
  {
@@ -499,6 +577,32 @@ var ARTICLES = [
   "fotoAdegan": "Construction cranes and unfinished high-rise structures at a large infrastructure project site in Jakarta, late afternoon light",
   "takeaway": "Laporan ini condong negatif bagi PTPP, karena RUPSLB ini adalah puncak dari rentetan permintaan restrukturisasi utang yang diumumkan perseroan sendiri sejak 18 Agustus, mencakup obligasi, sukuk, dan kini pinjaman bank atau non-bank sekaligus lewat satu perjanjian payung bernama Master Restructuring Agreement. Yang tersentuh adalah arus kas perusahaan, yaitu uang tunai yang keluar masuk dari kegiatan usaha, karena mengubah utang jangka pendek menjadi jangka panjang biasanya dilakukan saat perusahaan kesulitan memenuhi jadwal pembayaran dalam waktu dekat, meski di sisi lain langkah ini juga meringankan tekanan kas dalam satu atau dua tahun ke depan. Pelaku pasar juga akan memperhatikan beban bunga ke depan, sebab syarat pinjaman baru hasil restrukturisasi bisa mengubah bunga yang harus dibayar Perseroan tiap tahun. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 15 September 2026 dan penetapan dari Badan Pengaturan BUMN atas rencana penyehatan, yang akan menentukan apakah restrukturisasi ini benar-benar disetujui dan berjalan sesuai rencana Perseroan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "padi-djoko-joelijanto-resmi-jadi-pengendali-perusahaan",
+  "category": "Aksi Korporasi",
+  "title": "PADI: Djoko Joelijanto Resmi Jadi [Pengendali] Perusahaan",
+  "deck": "RUPSLB kedua Minna Padi Investama Sekuritas menetapkan Djoko Joelijanto sebagai pengendali dan pemilik manfaat akhir, sekaligus mengangkat direktur baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:56:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/98867da036_7d282aa5a4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PADI",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "Minna Padi Sekuritas",
+   "Direksi"
+  ],
+  "body": [
+   "PT Minna Padi Investama Sekuritas Tbk (PADI) menggelar Rapat Umum Pemegang Saham Luar Biasa Kedua pada Jumat, 21 Agustus 2026, pukul 14.32 sampai 14.48 WIB di Cityloog Hotel Tebet, Jakarta. Rapat dihadiri pemegang saham dan kuasanya yang mewakili 4.677.717.138 saham, atau 34,47 persen dari total 13.568.695.829 saham dengan hak suara sah yang telah diterbitkan perseroan, jumlah yang tetap memenuhi syarat kuorum sesuai anggaran dasar. Rapat dipimpin oleh Poltak Sihotang selaku Komisaris Utama Independen, dengan tidak ada pemegang saham yang mengajukan pertanyaan pada kedua mata acara.",
+   "Agenda pertama, penetapan Djoko Joelijanto sebagai pengendali perseroan sekaligus penerima manfaat akhir atau ultimate beneficiary owner, disetujui dengan 4.676.983.238 saham setuju atau 99,98 persen dari yang hadir, 733.900 saham tidak setuju, dan 107.692.616 saham abstain. Agenda kedua, perubahan susunan direksi, disahkan dengan komposisi suara yang sama. Rapat mengangkat Beba Hawah Ria sebagai direktur baru, namun jabatannya baru berlaku efektif sejak tanggal ia memperoleh persetujuan Penilaian Kemampuan dan Kepatutan atau fit and proper test dari Otoritas Jasa Keuangan. Bila persetujuan itu tidak diperoleh, pengangkatannya otomatis batal tanpa perlu RUPS ulang.",
+   "Susunan direksi dan dewan komisaris perseroan yang disahkan berlaku sejak penutupan rapat ini hingga penutupan RUPS Tahunan 2031, yaitu Djoko Joelijanto sebagai Direktur Utama, Martha Susanti sebagai Direktur, dan Beba Hawah Ria sebagai Direktur begitu FPT-nya efektif. Untuk dewan komisaris, Poltak Sihotang menjabat Komisaris Utama Independen dan Wijaya Mulia sebagai Komisaris. Rapat juga memberi kuasa kepada direksi untuk menuangkan keputusan ini ke akta notaris dan melaporkannya ke pihak berwenang, termasuk setelah FPT direktur baru resmi terbit."
+  ],
+  "fotoAdegan": "Modern high-rise office towers in Jakarta's SCBD business district viewed from a busy street at late afternoon.",
+  "takeaway": "RUPSLB ini condong netral bagi Minna Padi karena isinya formalitas kepatuhan, bukan perubahan mendasar pada bisnis atau kondisi keuangan perseroan. Yang disahkan adalah penetapan pengendali dan penambahan satu direktur, dua hal yang tidak mengubah jumlah saham beredar, ekuitas, maupun arus kas perusahaan. Penetapan Djoko Joelijanto sebagai pengendali sekaligus pemilik manfaat akhir atau ultimate beneficiary owner tetap penting bagi investor karena menegaskan siapa yang secara hukum bertanggung jawab atas kebijakan Minna Padi dan berpotensi terlibat transaksi dengan pihak terafiliasi, sesuatu yang diawasi ketat oleh OJK. Yang perlu dipantau selanjutnya adalah kapan Beba Hawah Ria dinyatakan lolos uji kemampuan dan kepatuhan dari OJK, sebab jabatan direkturnya baru berlaku efektif setelah persetujuan itu terbit, dan dokumen ini belum mencantumkan tenggat waktunya.",
+  "sentimen": "netral"
  },
  {
   "slug": "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",

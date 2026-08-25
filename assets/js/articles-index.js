@@ -91,7 +91,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -114,6 +114,22 @@ var ARTICLES = [
    "divestasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-9163-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-anak-usaha-teken-perjanjian-peralatan-dengan-vision-green",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Anak Usaha Teken Perjanjian [Peralatan] dengan Vision Green",
+  "deck": "Anak usaha EMAS, PT Pani Industri Nusantara, menandatangani perjanjian jual beli peralatan dan jasa konsultasi dengan perusahaan Tiongkok Vision Green Energy, efektif 21 Agustus 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "Transaksi Material",
+   "Pani Gold Project",
+   "Vision Green Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/42bab47906_f3a55220f8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -229,6 +245,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "sofa-rombak-lini-usaha-rambah-holding-dan-pembiayaan",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Rombak Lini Usaha, Rambah [Holding] dan Pembiayaan",
+  "deck": "SOFA akan meminta persetujuan pemegang saham lewat RUPSLB 30 September 2026 untuk menambah usaha holding dan pembiayaan conduit, di tengah kerugian yang terus membesar.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "perubahan kegiatan usaha",
+   "RUPSLB",
+   "holding"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9fa6a50b5f_0b0eba4bca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
   "category": "Aksi Korporasi",
   "title": "SOFA Gelar [RUPSLB] atas Permintaan Pemegang Saham",
@@ -258,6 +290,22 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-8635-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wton-ubah-susunan-komite-audit-andrianto-jadi-anggota-baru",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ubah Susunan [Komite Audit], Andrianto Jadi Anggota Baru",
+  "deck": "Wijaya Karya Beton menambah Andrianto sebagai anggota Komite Audit menyusul perubahan Dewan Komisaris hasil RUPSLB Juli 2026, efektif 20 Agustus 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WTON",
+   "Komite Audit",
+   "Wijaya Karya Beton",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76540d3e4e_a6b9807aa2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -306,6 +354,22 @@ var ARTICLES = [
    "BUMN karya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/866d56b8d7_3bb3caaf14.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "padi-djoko-joelijanto-resmi-jadi-pengendali-perusahaan",
+  "category": "Aksi Korporasi",
+  "title": "PADI: Djoko Joelijanto Resmi Jadi [Pengendali] Perusahaan",
+  "deck": "RUPSLB kedua Minna Padi Investama Sekuritas menetapkan Djoko Joelijanto sebagai pengendali dan pemilik manfaat akhir, sekaligus mengangkat direktur baru.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PADI",
+   "RUPSLB",
+   "Minna Padi Sekuritas",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/98867da036_7d282aa5a4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6507,74 +6571,6 @@ var ARTICLES = [
    "pemantauan khusus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c43455bb09_7405b30315.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara",
-  "category": "BUMN",
-  "title": "Presiden Prabowo: Swasta Bisa Kelola [Aset] BUMN, Termasuk Bandara",
-  "deck": "Presiden Prabowo membuka opsi swasta mengoperasikan aset BUMN yang belum optimal, termasuk bandara, tapi kepemilikan tetap di tangan negara, mengikuti model monetisasi aset ala India.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/prabowo-swasta-bisa-kelola-aset-bumn-termasuk-bandara.jpg",
-  "imageV": "mssvvpxm",
-  "tags": [
-   "BUMN",
-   "aset negara",
-   "Presiden Prabowo Subianto",
-   "APBN 2027"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459916-contoh-india-prabowo-buka-peluang-bandara-dan-aset-strategis-bumn-dikelola-swasta-tapi-kepemilikan-tetap-negara"
- },
- {
-  "slug": "jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan",
-  "category": "Aksi Korporasi",
-  "title": "JPFA Pakai Rp497,82 Miliar Dana Obligasi buat [Lunasi] Term Loan",
-  "deck": "JAPFA Comfeed pakai seluruh dana bersih obligasi Rp497,82 miliar untuk melunasi sebagian utang Term Loan lebih cepat, sesuai rencana prospektus.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/jpfa-pakai-rp497-82-miliar-dana-obligasi-buat-lunasi-term-loan.jpg",
-  "imageV": "msu1ftxf",
-  "tags": [
-   "JPFA",
-   "obligasi korporasi",
-   "refinancing utang",
-   "japfa comfeed"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/19b7ae6cbc_1afe4820df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi",
-  "category": "Makroekonomi",
-  "title": "S&P Pertahankan Rating BBB, Ekonomi RI Tumbuh [Tertinggi]",
-  "deck": "Presiden Prabowo klaim ekonomi RI tetap kokoh di tengah tekanan global, setelah S&P pertahankan rating BBB dan China Lianhe beri AAA untuk Panda Bonds.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/s-p-pertahankan-rating-bbb-ekonomi-ri-tumbuh-tertinggi.jpg",
-  "imageV": "msss9bch",
-  "tags": [
-   "S&P",
-   "rating Indonesia",
-   "investment grade",
-   "RAPBN 2027"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459913-di-tengah-tekanan-global-prabowo-beberkan-sinyal-kepercayaan-dunia-ke-ekonomi-indonesia"
- },
- {
-  "slug": "mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MKTR Respons Permintaan Bursa soal [Volatilitas] Sahamnya",
-  "deck": "MKTR menegaskan tak ada informasi material di balik pergerakan sahamnya yang tak wajar, dan pemegang saham utama belum berencana mengubah kepemilikan 8,27 juta sahamnya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/mktr-respons-permintaan-bursa-soal-volatilitas-sahamnya.jpg",
-  "imageV": "msu1gbg2",
-  "tags": [
-   "MKTR",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3dc321d614_aaa48f9f25.pdf",
   "sourceLabel": "IDX"
  }
 ];

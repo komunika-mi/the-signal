@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "s6X2aNbkM04",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp di Bali",
+  "category": "Energi",
+  "program": "Indonesia Terkini",
+  "summary": "Presiden Prabowo Subianto menggelar peluncuran dan groundbreaking program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari agenda transisi energi nasional.",
+  "takeaway": "Program energi surya berskala besar ini berpotensi menggerakkan investasi baru dan menjadi indikator kemajuan target bauran energi terbarukan Indonesia.",
+  "terbit": "2026-08-25T13:30:15+00:00"
+ },
+ {
   "id": "u3IMZTSwJ-Q",
   "title": "Presiden Prabowo Resmikan Pembangunan PLTS 100 GWp",
   "category": "Energi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
   "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional.",
   "terbit": "2026-08-18T19:50:03+07:00"
- },
- {
-  "id": "tv6fetTfC-g",
-  "title": "Transformasi Pegadaian Jadi Pelopor Ekosistem Bullion Nasional",
-  "category": "Perbankan",
-  "program": "Inspirasi Pagi",
-  "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri.",
-  "terbit": "2026-08-18T17:59:20+07:00"
  }
 ];

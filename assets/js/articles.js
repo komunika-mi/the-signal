@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
+  "category": "Energi",
+  "title": "Bahlil: 12,6 GW Listrik RI Masih Pakai [Solar]",
+  "deck": "Menteri ESDM Bahlil Lahadalia ungkap 12,6 GW pembangkit listrik nasional masih berbahan bakar solar, pemerintah percepat PLTS 100 GWp untuk tekan impor BBM.",
+  "image": "assets/img/bahlil-12-6-gw-listrik-ri-masih-pakai-solar.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T20:24:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462484-gaspol-plts-100-gwp-bahlil-ungkap-126-gw-listrik-indonesia-masih-pakai-solar",
+  "tags": [
+   "PLTS",
+   "solar",
+   "ESDM",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia mengungkapkan bahwa pembangkit listrik dengan total kapasitas 12,6 gigawatt di Indonesia masih menggunakan bahan bakar solar atau diesel. Temuan ini menjadi salah satu alasan pemerintah mempercepat program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt-peak, yang diharapkan menekan konsumsi solar sekaligus mengurangi impor bahan bakar minyak.",
+   "Menurut Bahlil, kebutuhan solar untuk menggerakkan pembangkit berkapasitas 12,6 gigawatt tersebut mencapai 230 ribu hingga 250 ribu barel per hari. Program PLTS 100 gigawatt-peak resmi diluncurkan sekaligus dilakukan groundbreaking di Monumen Operasi Gilimanuk, Jembrana, Bali, Selasa (25/8/2026), dan terhubung secara daring dengan tiga lokasi lain, yaitu PLTS Terapung Gajah Mungkur di Wonogiri (Jawa Tengah), PLTS Desa Sembur di Batam (Kepulauan Riau), serta PLTS Pulau Rengit di Bangka Belitung.",
+   "Bahlil menyebut pemanfaatan PLTS berkapasitas 1 gigawatt di Bali berpotensi menghemat konsumsi solar PLN sekitar 0,5 juta hingga 0,6 juta kiloliter. Proyek di Gilimanuk masuk dalam Program Fat Burning Bali yang dirancang mengganti pembangkit berbahan bakar BBM dengan pembangkit tenaga surya, terdiri dari PLTS berkapasitas 300 megawatt-peak dan baterai penyimpan energi (BESS) berkapasitas 1.000 megawatt-hour, di atas lahan sekitar 321 hektare.",
+   "Presiden Prabowo Subianto menyebut pembangunan PLTS 100 gigawatt-peak ini bukan sekadar proyek penambahan kapasitas pembangkit listrik semata."
+  ],
+  "fotoAdegan": "Rows of solar panels being installed on open land near a coastal Balinese village, workers in hard hats connecting cables, midday sun",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8d951c7b72e-menteri-esdm-bahlil-lahadalia-dalam-launching-dan-groundbreaking-program-plts-100-gwp-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah rencana mengganti pembangkit listrik bertenaga solar, yaitu bahan bakar diesel, bukan panel surya, meski namanya mirip, dengan pembangkit tenaga surya. Total pembangkit diesel yang disasar mencapai 12,6 gigawatt dan menghabiskan 230 ribu hingga 250 ribu barel solar per hari, sementara proyek yang baru diluncurkan di Bali baru berkapasitas 300 megawatt-peak atau setara 1 gigawatt untuk seluruh Bali. Artinya proyek Bali ini baru sebagian kecil dari target nasional 100 gigawatt-peak, sehingga yang benar-benar menentukan apakah konsumsi solar nasional turun signifikan adalah seberapa cepat pola serupa direplikasi ke pembangkit diesel di daerah lain. Yang terdampak langsung adalah PLN sebagai operator pembangkit dan anggaran impor BBM negara, karena setiap gigawatt PLTS yang menggantikan diesel berarti ratusan ribu kiloliter solar tidak perlu diimpor. Untuk melihat apakah percepatan ini nyata atau baru simbolis, perlu dipantau apakah groundbreaking serupa menyusul di wilayah-wilayah lain yang masih mengandalkan pembangkit diesel dari total 12,6 gigawatt tadi.",
+  "imageV": "mt8q7mn1"
+ },
+ {
   "slug": "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
   "category": "Energi",
   "title": "Pemerintah Luncurkan Tahap Awal [PLTS] 100 GWp di 6 Provinsi",

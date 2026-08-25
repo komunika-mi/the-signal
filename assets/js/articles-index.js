@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
+  "category": "Energi",
+  "title": "Bahlil: 12,6 GW Listrik RI Masih Pakai [Solar]",
+  "deck": "Menteri ESDM Bahlil Lahadalia ungkap 12,6 GW pembangkit listrik nasional masih berbahan bakar solar, pemerintah percepat PLTS 100 GWp untuk tekan impor BBM.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/bahlil-12-6-gw-listrik-ri-masih-pakai-solar.jpg",
+  "imageV": "mt8q7mn1",
+  "tags": [
+   "PLTS",
+   "solar",
+   "ESDM",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462484-gaspol-plts-100-gwp-bahlil-ungkap-126-gw-listrik-indonesia-masih-pakai-solar"
+ },
+ {
   "slug": "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
   "category": "Energi",
   "title": "Pemerintah Luncurkan Tahap Awal [PLTS] 100 GWp di 6 Provinsi",
@@ -6545,22 +6562,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459954-pegadaian-dorong-literasi-keuangan-pengemudi-ojek-pangkalan-soroti-pentingnya-menabung-dan-hindari-pinjaman-ilegal"
- },
- {
-  "slug": "sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst",
-  "category": "Aksi Korporasi",
-  "title": "SQMI Ajukan [Yulian Hadromi] Jadi Calon Direksi Baru di RUPST",
-  "deck": "Wilton Makmur Indonesia Tbk mengoreksi pemanggilan RUPST 4 September 2026 dengan melampirkan CV Yulian Hadromi sebagai calon anggota direksi baru.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/sqmi-ajukan-yulian-hadromi-jadi-calon-direksi-baru-di-rupst.jpg",
-  "imageV": "mstx3sp4",
-  "tags": [
-   "SQMI",
-   "RUPST",
-   "direksi",
-   "Wilton Makmur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8294fe7462_5ccfbfd3b0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

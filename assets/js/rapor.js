@@ -9,8 +9,30 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-24T21:36:56.834+07:00",
+ "diperbarui": "2026-08-25T21:37:54.077+07:00",
  "entri": [
+  {
+   "id": "2026-08-25-2",
+   "edisi": "2026-08-25",
+   "benang": "Keputusan Korporasi Menanti Kuorum Pemegang Saham",
+   "klaim": "Peluang kuorum tercapai pada RUPO lanjutan ADHI putaran kedua lebih kecil ketimbang skenario gagal lagi, sementara nasib akuisisi rumah sakit HMBC oleh VISI baru akan ketahuan dari hasil RUPS independen yang mensyaratkan suara pemegang saham tanpa kepentingan pribadi atau afiliasi dengan direksi dan komisaris.",
+   "penanda": "RUPO lanjutan ADHI dan RUPS independen VISI",
+   "tenggat": "2026-09-30",
+   "tenggatLabel": "RUPO lanjutan digeser ke 11 September 2026 dan RUPS independen VISI pada 30 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-25-1",
+   "edisi": "2026-08-25",
+   "benang": "Transisi Surya: Klaim Besar, Realisasi Baru 5 Persen",
+   "klaim": "Program PLTS 100 gigawatt-peak berjalan menuju penggantian pembangkit diesel secara bertahap, dan klaim manfaat penghematan subsidi serta lapangan kerja yang disampaikan Menteri ESDM akan menguat atau patah tergantung laporan realisasi tahap berikutnya menuju target tersebut.",
+   "penanda": "laporan realisasi tahap berikutnya menuju target 100 gigawatt-peak",
+   "tenggat": null,
+   "tenggatLabel": "target 100 gigawatt-peak yang dipatok Presiden Prabowo Subianto untuk rampung dalam tiga tahun",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-24-3",
    "edisi": "2026-08-24",

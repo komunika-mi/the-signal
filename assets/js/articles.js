@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Tanggapi [Suspensi] Saham, RUPO Obligasi Gagal Kuorum",
+  "deck": "ADHI menghormati suspensi saham oleh BEI akibat gagal bayar bunga obligasi Rp60,8 miliar. RUPO 6 Agustus untuk menunda pembayaran belum mencapai kuorum, rapat lanjutan digelar 11 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T10:16:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fa1ece8178_7c638e5ee5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "suspensi saham",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk menyampaikan tanggapan resmi atas penghentian sementara perdagangan sahamnya oleh Bursa Efek Indonesia. Perusahaan menyatakan memahami dan menghormati keputusan tersebut, yang dipicu oleh kewajiban pembayaran bunga Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022 seri B dan C senilai Rp60,8 miliar yang tidak dapat dipenuhi pada tanggal jatuh tempo, 24 Agustus 2026.",
+   "Sebagai upaya penyelesaian, ADHI telah menggelar Rapat Umum Pemegang Obligasi (RUPO) pada 6 Agustus 2026 untuk mengusulkan perubahan dan/atau penundaan jadwal pembayaran bunga ke-17, ke-18, dan ke-19 dari seri obligasi tersebut. Namun rapat itu tidak mencapai kuorum persetujuan sehingga belum ada keputusan yang diambil. Perusahaan mengatakan akan berkoordinasi dengan wali amanat dan para pemegang obligasi untuk menempuh langkah penyelesaian sesuai perjanjian perwaliamanatan, dengan RUPO lanjutan dijadwalkan pada 11 September 2026.",
+   "Dalam laporan yang sama, ADHI menyebut tengah berada dalam tahap restrukturisasi untuk menjaga kesinambungan usaha, termasuk penguatan bisnis inti lewat program divestasi, penataan keuangan, dan peningkatan efisiensi. Perusahaan berjanji akan menyampaikan perkembangan penyelesaian kewajiban ini kepada publik sesuai ketentuan pasar modal."
+  ],
+  "fotoAdegan": "Elevated highway and bridge construction site with cranes and steel rebar under an overcast Jakarta sky",
+  "takeaway": "Laporan ini negatif bagi ADHI karena upaya penyelesaian utang bunga obligasi lewat rapat pemegang obligasi pada 6 Agustus 2026 gagal mencapai kuorum, artinya perusahaan masih belum punya kepastian skema pembayaran meski sudah lewat tanggal jatuh tempo. Yang tersentuh adalah arus kas dan beban bunga perusahaan, sebab ketidakmampuan membayar bunga tepat waktu menunjukkan uang tunai yang tersedia terbatas, sementara kewajiban bunga terus berjalan dan berisiko membengkak kalau penyelesaiannya berlarut. RUPO adalah rapat resmi antara emiten dan pemegang obligasi yang butuh jumlah suara minimum atau kuorum sebelum keputusan sah bisa diambil, dan wali amanat adalah pihak yang mewakili kepentingan pemegang obligasi dalam proses tersebut. Yang perlu dipantau berikutnya adalah RUPO lanjutan pada 11 September 2026, karena hasilnya akan menentukan apakah skema penundaan bunga akhirnya disepakati atau kembali menemui jalan buntu. Rangkaian kejadian ADHI sepekan terakhir, dari pemangkasan peringkat oleh PEFINDO, potensi tunda bayar, hingga suspensi saham, menunjukkan tekanan likuiditas yang belum juga mereda.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
   "category": "UMKM",
   "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
@@ -526,6 +552,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "hrme-rombak-susunan-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "HRME Rombak Susunan [Komite] Nominasi dan Remunerasi",
+  "deck": "Menteng Heritage Realty mengganti satu anggota Komite Nominasi dan Remunerasi menyusul pengunduran diri Sri Rejeki Suryaningrum, posisinya diisi Harri Rinaldiawan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T18:31:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c07a863b07_9794ed69c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRME",
+  "tags": [
+   "HRME",
+   "Komite Nominasi dan Remunerasi",
+   "Menteng Heritage Realty",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Menteng Heritage Realty Tbk (HRME) mengumumkan perubahan susunan Komite Nominasi dan Remunerasi perseroan, efektif 24 Agustus 2026. Susunan sebelumnya terdiri dari Teuku Johas Raffli sebagai ketua, dengan Herry Wijaya dan Sri Rejeki Suryaningrum sebagai anggota. Setelah perubahan, susunannya menjadi Teuku Johas Raffli tetap sebagai ketua, Herry Wijaya naik posisi menjadi wakil ketua, dan Harri Rinaldiawan masuk sebagai anggota baru menggantikan Sri Rejeki Suryaningrum.",
+   "Perubahan ini dipicu oleh pengunduran diri Sri Rejeki Suryaningrum dari jabatan anggota komite. Surat pengunduran dirinya tertanggal 31 Juli 2026 dan efektif berlaku 24 Agustus 2026. Dasar hukum perubahan susunan komite ini adalah Surat Keputusan Dewan Komisaris No. 002/SK/DEKOM/2026 tertanggal 24 Agustus 2026, yang mengacu pada Peraturan OJK No. 34/POJK.04/2014 tentang Komite Nominasi dan Remunerasi Emiten atau Perusahaan Publik. Laporan ke OJK disampaikan oleh Corporate Secretary HRME, Dini Liviana, dan perseroan menyatakan tidak ada dampak terhadap kegiatan operasional dari perubahan ini.",
+   "Berdasarkan SK Dewan Komisaris, tugas komite ini antara lain memberikan rekomendasi soal komposisi jabatan direksi dan komisaris, kebijakan serta besaran remunerasi, evaluasi kinerja direksi dan komisaris, serta mengusulkan calon direksi atau komisaris yang akan disampaikan ke Rapat Umum Pemegang Saham."
+  ],
+  "fotoAdegan": "Facade of a restored colonial-era heritage hotel building in Jakarta with a manicured tropical garden, soft midday light.",
+  "takeaway": "Perubahan ini netral bagi HRME, karena hanya pergantian satu anggota di badan penasihat komisaris, bukan keputusan bisnis atau keuangan, dan perseroan sendiri menegaskan tidak ada dampak operasional. Komite Nominasi dan Remunerasi tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, tugasnya murni memberi masukan ke Dewan Komisaris soal siapa yang layak menjadi direksi atau komisaris dan berapa besar gaji serta bonus mereka, jadi pengaruhnya ke pemegang saham bersifat tidak langsung lewat kualitas pengawasan tata kelola. Yang perlu dipantau selanjutnya adalah rekomendasi konkret apa yang dihasilkan susunan baru ini, terutama karena salah satu tugas komite adalah mengusulkan calon direksi atau komisaris untuk RUPS mendatang, sehingga hasil kerja Harri Rinaldiawan dan koleganya akan terlihat saat perseroan mengumumkan agenda RUPS berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wton-ubah-susunan-komite-audit-andrianto-jadi-anggota-baru",
   "category": "Aksi Korporasi",
   "title": "WTON Ubah Susunan [Komite Audit], Andrianto Jadi Anggota Baru",
@@ -549,6 +601,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers inspecting stacked precast concrete pillars in an open-air factory yard, hard hats, early morning light.",
   "takeaway": "Perubahan ini netral bagi kinerja WTON karena sifatnya adalah penyesuaian struktur pengawasan menyusul pergantian Dewan Komisaris hasil RUPSLB Juli 2026, tanpa dampak finansial langsung. Komite audit bertugas mengawasi kualitas laporan keuangan dan kepatuhan perusahaan terhadap aturan, sehingga pergantian anggotanya tetap perlu diketahui pemegang saham meski tidak menyentuh pos seperti ekuitas, arus kas, atau laba per saham. Yang perlu dipantau selanjutnya adalah apakah perubahan Dewan Komisaris turut memicu penyesuaian pada komite lain di bawahnya, serta masa jabatan Andrianto yang baru akan berakhir pada 20 Agustus 2031.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wton-rombak-komite-nominasi-remunerasi-andrianto-ketua-baru",
+  "category": "Aksi Korporasi",
+  "title": "WTON Rombak Komite Nominasi-Remunerasi, [Andrianto] Ketua Baru",
+  "deck": "Wijaya Karya Beton mengganti susunan Komite Nominasi, Remunerasi, dan Pemantau Risiko menyusul pergantian Dewan Komisaris hasil RUPSLB Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T17:34:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/445783a102_2656808f44.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WTON",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Komite Nominasi dan Remunerasi",
+   "Tata Kelola Korporasi"
+  ],
+  "body": [
+   "PT Wijaya Karya Beton Tbk (WTON) mengubah susunan Komite Nominasi, Remunerasi, dan Pemantau Risiko (NRPR) lewat Surat Keputusan Dewan Komisaris Nomor SK.06/DK-WB/VIII/2026 tanggal 20 Agustus 2026. Perubahan ini menindaklanjuti pergantian Dewan Komisaris perseroan yang ditetapkan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) 10 Juli 2026, sehingga nomenklatur dan susunan organ komite perlu disesuaikan. Dewan Komisaris memberhentikan dengan hormat Priatna Agus Setiawan dan Indriani Widiastuti dari jabatan Anggota Komite NRPR, terhitung sejak 20 Agustus 2026.",
+   "Andrianto, yang menjabat Komisaris Independen, diangkat sebagai Ketua merangkap Anggota komite dengan masa jabatan lima tahun hingga 20 Agustus 2031. Noor Aljanna Fitri Gayo, yang sebelumnya menjabat Ketua merangkap Anggota, kini beralih menjadi Anggota biasa, meneruskan sisa masa jabatannya hingga 25 Mei 2031. Dua pihak eksternal, Nadia Rillifani dan Agung Damiar, diangkat sebagai anggota baru dengan masa jabatan tiga tahun hingga 20 Agustus 2029. Dedi Indra, yang menjabat Vice President Human Capital Division WTON, tetap menjadi anggota hingga 28 Oktober 2027.",
+   "Dengan susunan baru ini, komite beranggotakan lima orang: Andrianto sebagai ketua, serta Noor Aljanna Fitri Gayo, Nadia Rillifani, Agung Damiar, dan Dedi Indra sebagai anggota. Dokumen keputusan juga mencantumkan skema remunerasi komite, yakni honorarium sebesar 10 sampai 20 persen dari gaji Direktur Utama untuk anggota dari kalangan eksternal maupun pegawai WIKA, ditambah tunjangan hari raya senilai satu kali honorarium serta fasilitas asuransi kesehatan dan asuransi jiwa dengan pertanggungan Rp500 juta bagi anggota eksternal."
+  ],
+  "fotoAdegan": "Workers inspecting stacked precast concrete pipes in an open-air factory yard, hard hats, morning light",
+  "takeaway": "Perubahan ini netral bagi kinerja WTON karena sifatnya murni penyesuaian struktur pengawasan menyusul pergantian Dewan Komisaris, tanpa transaksi keuangan atau dampak langsung ke kas perusahaan. Komite Nominasi, Remunerasi, dan Pemantau Risiko ini bertugas mengusulkan besaran gaji dan bonus direksi serta komisaris, jadi pergantian anggotanya berpotensi memengaruhi bagaimana kebijakan remunerasi petinggi perusahaan dirumuskan ke depan, meski tidak langsung mengubah laporan keuangan. Yang perlu dipantau pemegang saham adalah bagaimana komite baru ini bekerja sepanjang masa jabatannya, dengan periode anggota eksternal Nadia Rillifani dan Agung Damiar berakhir 20 Agustus 2029, sementara masa jabatan Andrianto sebagai ketua berlaku sampai 20 Agustus 2031.",
   "sentimen": "netral"
  },
  {
@@ -681,6 +759,32 @@ var ARTICLES = [
   "fotoAdegan": "A financing company loan officer assisting a customer at a service counter, motorcycles parked outside the window, daytime light.",
   "takeaway": "Laporan ini condong negatif bagi REFI karena keterlambatan menyampaikan laporan keuangan wajib adalah sinyal tata kelola yang buruk, terlepas dari dendanya yang masih nol rupiah. Yang tersentuh di sini bukan angka laba atau ekuitas, melainkan kepatuhan pelaporan, ketepatan waktu perusahaan memberi informasi keuangan ke publik, yang jadi acuan pelaku pasar untuk menilai seberapa rapi manajemen mengelola kewajiban administratifnya. Kalau keterlambatan berlanjut, sanksi bisa naik tingkat dari Peringatan Tertulis I ke peringatan berikutnya yang biasanya disertai denda. Yang perlu dipantau selanjutnya adalah kapan REFI akhirnya menyampaikan laporan keuangan tengah tahunannya ke Bursa, dan apakah perusahaan pembiayaan sejenis lain di daftar ini punya pola keterlambatan yang sama.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-dirikan-anak-usaha-garap-energi-surya",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Dirikan Anak Usaha Garap [Energi Surya]",
+  "deck": "Anak usaha ARKO, PT Arkora Tenaga Matahari, mendirikan PT Endorshine Energi Matahari. ARKO memegang kepemilikan tidak langsung 99 persen di perusahaan baru itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 Agustus 2026",
+  "isoDate": "2026-08-24T16:49:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4976446fc8_7379c767c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "energi surya",
+   "anak usaha"
+  ],
+  "body": [
+   "Pada 24 Agustus 2026, PT Arkora Hydro Tbk (ARKO) melaporkan bahwa anak usahanya, PT Arkora Tenaga Matahari (ATM), yang dimiliki langsung lebih dari 99 persen oleh ARKO, mendirikan perusahaan baru bernama PT Endorshine Energi Matahari (PT EEM). Pendirian ini tercatat dalam Akta Pendirian Nomor 59 tanggal 20 Agustus 2026 yang dibuat di hadapan notaris Dr. Ninik Noviana di Kota Batam, dan telah mendapat pengesahan badan hukum dari Kementerian Hukum lewat Surat Keputusan Nomor AHU-0067768.AH.01.01.TAHUN 2026 tertanggal 21 Agustus 2026. Surat keputusan itu baru diterima ARKO pada 24 Agustus 2026.",
+   "Struktur pemegang saham PT EEM terdiri dari PT ATM dengan 2.499 lembar saham atau 99,96 persen, dan Ricky Hartono, yang juga menjabat Corporate Secretary ARKO, dengan 1 lembar saham atau 0,04 persen, dari total 2.500 lembar saham. Lewat struktur ini, ARKO secara tidak langsung memegang 99 persen kepemilikan di PT EEM. Nama perusahaan baru ini, Endorshine Energi Matahari, mengindikasikan bisnis di sektor energi surya, melengkapi bisnis inti ARKO di pembangkit listrik tenaga air.",
+   "Dalam laporannya ke Bursa Efek Indonesia, manajemen ARKO menyatakan pendirian anak usaha ini membawa dampak positif bagi kegiatan operasional, keuangan, dan kelangsungan usaha perseroan, meski perusahaan tidak merinci nilai modal, rencana proyek, atau kapasitas pembangkit yang akan dibangun PT EEM. Laporan ditandatangani oleh Presiden Direktur ARKO, Aldo Artoko."
+  ],
+  "fotoAdegan": "Workers installing solar panels on a hillside array under bright sunlight in rural Indonesia, cables and frames visible",
+  "takeaway": "Laporan ini netral bagi Arkora Hydro untuk saat ini, sebab pendirian PT EEM baru sebatas pembentukan badan hukum dengan modal nominal 2.500 lembar saham, belum disertai angka investasi atau proyek konkret yang bisa dinilai dampaknya. Kalau nanti PT EEM disuntik modal untuk membangun pembangkit surya, pos yang akan tersentuh adalah arus kas ARKO, yaitu uang tunai yang keluar masuk perusahaan, dan ekuitas anak usaha, yakni total modal yang tercatat sebagai milik pemegang saham, karena keduanya jadi indikator apakah ekspansi ini dibiayai dari kas internal atau lewat utang baru. Yang perlu dipantau selanjutnya adalah pengumuman lanjutan soal rencana bisnis, lokasi proyek, dan sumber pendanaan PT EEM, karena dokumen ini belum mencantumkan tenggat waktu atau nilai investasi apa pun.",
+  "sentimen": "netral"
  },
  {
   "slug": "saham-gtbo-masuk-papan-pemantauan-khusus-bei-26-agustus",

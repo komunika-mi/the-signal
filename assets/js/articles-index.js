@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Tanggapi [Suspensi] Saham, RUPO Obligasi Gagal Kuorum",
+  "deck": "ADHI menghormati suspensi saham oleh BEI akibat gagal bayar bunga obligasi Rp60,8 miliar. RUPO 6 Agustus untuk menunda pembayaran belum mencapai kuorum, rapat lanjutan digelar 11 September 2026.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "suspensi saham",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fa1ece8178_7c638e5ee5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
   "category": "UMKM",
   "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
@@ -327,6 +343,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "hrme-rombak-susunan-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "HRME Rombak Susunan [Komite] Nominasi dan Remunerasi",
+  "deck": "Menteng Heritage Realty mengganti satu anggota Komite Nominasi dan Remunerasi menyusul pengunduran diri Sri Rejeki Suryaningrum, posisinya diisi Harri Rinaldiawan.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRME",
+   "Komite Nominasi dan Remunerasi",
+   "Menteng Heritage Realty",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c07a863b07_9794ed69c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wton-ubah-susunan-komite-audit-andrianto-jadi-anggota-baru",
   "category": "Aksi Korporasi",
   "title": "WTON Ubah Susunan [Komite Audit], Andrianto Jadi Anggota Baru",
@@ -340,6 +372,22 @@ var ARTICLES = [
    "Tata Kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76540d3e4e_a6b9807aa2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wton-rombak-komite-nominasi-remunerasi-andrianto-ketua-baru",
+  "category": "Aksi Korporasi",
+  "title": "WTON Rombak Komite Nominasi-Remunerasi, [Andrianto] Ketua Baru",
+  "deck": "Wijaya Karya Beton mengganti susunan Komite Nominasi, Remunerasi, dan Pemantau Risiko menyusul pergantian Dewan Komisaris hasil RUPSLB Juli 2026.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Komite Nominasi dan Remunerasi",
+   "Tata Kelola Korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/445783a102_2656808f44.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -420,6 +468,22 @@ var ARTICLES = [
    "keterlambatan pelaporan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c42684598_4291bba54c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-dirikan-anak-usaha-garap-energi-surya",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Dirikan Anak Usaha Garap [Energi Surya]",
+  "deck": "Anak usaha ARKO, PT Arkora Tenaga Matahari, mendirikan PT Endorshine Energi Matahari. ARKO memegang kepemilikan tidak langsung 99 persen di perusahaan baru itu.",
+  "date": "24 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "energi surya",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4976446fc8_7379c767c8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6503,74 +6567,6 @@ var ARTICLES = [
    "RUPS Independen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cdb73fb72c_5b78827cf3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "DART Jelaskan Lonjakan Transaksi ke BEI, [Tak] Ada Info Material",
-  "deck": "Merespons surat permintaan penjelasan BEI, Duta Anggada Realty menyatakan tidak mengetahui informasi material apa pun di balik volatilitas transaksi sahamnya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/dart-jelaskan-lonjakan-transaksi-ke-bei-tak-ada-info-material.jpg",
-  "imageV": "mstx7dj4",
-  "tags": [
-   "DART",
-   "Duta Anggada Realty",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10be41d1aa_127a9b28e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "WINS Ungkap Detail [Akuisisi] Fast Offshore di Public Expose",
-  "deck": "Dalam public expose 12 Agustus 2026, manajemen WINS merinci alasan akuisisi penuh Fast Offshore Supply dan Fast Offshore Indonesia yang masih rugi, serta kontrak baru penopangnya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/wins-ungkap-detail-akuisisi-fast-offshore-di-public-expose.jpg",
-  "imageV": "mstx80cl",
-  "tags": [
-   "WINS",
-   "Wintermar Offshore Marine",
-   "Fast Offshore",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0e166676c2_88f29e33e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-panggil-rupsu-sukuk-mudharabah-ii-2021",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Panggil [RUPSU] Sukuk Mudharabah II 2021",
-  "deck": "WIKA akan menggelar RUPSU untuk Sukuk Mudharabah Berkelanjutan I Tahap II 2021 pada 17 September 2026, panggilan resmi terbit 2 September 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/wika-panggil-rupsu-sukuk-mudharabah-ii-2021.jpg",
-  "imageV": "msu1ddez",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "obligasi syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/228b181190_f8f1eb085d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja",
-  "category": "Aksi Korporasi",
-  "title": "ACST Hadapi Gugatan [PKPU] dari Rekanan Proyek Baja",
-  "deck": "ACST menjelaskan ke bursa soal permohonan PKPU dari subkontraktor IST terkait sengketa nilai retensi proyek struktur baja, serta perkembangan kasus korupsi yang telah berkekuatan hukum tetap.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/acst-hadapi-gugatan-pkpu-dari-rekanan-proyek-baja.jpg",
-  "imageV": "msu1dy7q",
-  "tags": [
-   "ACST",
-   "PKPU",
-   "sengketa hukum",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f32704534c_313dcbc4f4.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
+  "category": "UMKM",
+  "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
+  "deck": "INDEF menilai hilirisasi kelapa sawit membuka peluang UMKM naik kelas ke pasar ekspor, yang kontribusinya masih tertahan di sekitar 15 persen.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/umkm-sawit-didorong-tembus-pasar-ekspor.jpg",
+  "imageV": "mt81u6c2",
+  "tags": [
+   "kelapa sawit",
+   "UMKM",
+   "ekspor",
+   "hilirisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462302-indef-dorong-produk-sawit-indonesia-tembus-pasar-ekspor"
+ },
+ {
+  "slug": "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",
+  "category": "Pasar Modal",
+  "title": "Komunitas [Trader] Indonesia Kumpul di Tradependence Day 2026",
+  "deck": "JUNO dan Minerva Media Markets menggelar Tradependence Day 2026 di Jakarta, menyatukan trader ritel dan sembilan komunitas trading di bawah tema \"No Random Move\".",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/komunitas-trader-indonesia-kumpul-di-tradependence-day-2026.jpg",
+  "imageV": "mt81u70v",
+  "tags": [
+   "trading",
+   "JUNO",
+   "komunitas trader",
+   "Tradependence Day"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462270-bukan-cuma-soal-profit-ini-tantangan-baru-yang-dihadapi-trader-di-pasar-yang-makin-cepat"
+ },
+ {
   "slug": "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
   "category": "Aksi Korporasi",
   "title": "VISI Ubah Bisnis Jadi Holding, Rencana Kuasai 72,91% Saham [HMBC]",
@@ -6537,40 +6571,6 @@ var ARTICLES = [
    "konstruksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f32704534c_313dcbc4f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "TGUK Tetap di [Pemantauan Khusus], Satu Kriteria Dicabut",
-  "deck": "Bursa mengubah status pemantauan khusus TGUK: kriteria suspensi dicabut, tapi likuiditas rendah dan kriteria lain masih berlaku mulai 18 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/tguk-tetap-di-pemantauan-khusus-satu-kriteria-dicabut.jpg",
-  "imageV": "msu1eif4",
-  "tags": [
-   "TGUK",
-   "Bursa Efek Indonesia",
-   "Papan Pemantauan Khusus",
-   "likuiditas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5931636943_0a8ee6bc60.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alka-resmi-keluar-dari-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "ALKA Resmi [Keluar] dari Pemantauan Khusus BEI",
-  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham ALKA milik Alakasa Industrindo Tbk, efektif 18 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/alka-resmi-keluar-dari-pemantauan-khusus-bei.jpg",
-  "imageV": "msu1f4xd",
-  "tags": [
-   "ALKA",
-   "Alakasa Industrindo",
-   "Bursa Efek Indonesia",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c43455bb09_7405b30315.pdf",
   "sourceLabel": "IDX"
  }
 ];

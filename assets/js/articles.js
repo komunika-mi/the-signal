@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
+  "category": "UMKM",
+  "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
+  "deck": "INDEF menilai hilirisasi kelapa sawit membuka peluang UMKM naik kelas ke pasar ekspor, yang kontribusinya masih tertahan di sekitar 15 persen.",
+  "image": "assets/img/umkm-sawit-didorong-tembus-pasar-ekspor.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T09:12:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462302-indef-dorong-produk-sawit-indonesia-tembus-pasar-ekspor",
+  "tags": [
+   "kelapa sawit",
+   "UMKM",
+   "ekspor",
+   "hilirisasi"
+  ],
+  "body": [
+   "Institute for Development of Economics and Finance (INDEF) mendorong pelaku usaha mikro, kecil, dan menengah (UMKM) memanfaatkan hilirisasi kelapa sawit untuk meningkatkan nilai tambah produk sekaligus menembus pasar ekspor. Direktur Program INDEF, Eisha Maghfiruha Rachbini, menilai langkah ini penting karena kontribusi UMKM terhadap nilai ekspor nasional selama ini stagnan.",
+   "Menurut Eisha, pelaku UMKM bisa mengolah sawit menjadi tiga kelompok produk, yakni bahan pangan seperti minyak goreng dan turunannya, bahan kimia seperti sabun dan kosmetik, hingga bahan bakar nabati. Ia menyebut program hilirisasi kelapa sawit selama ini sudah menghasilkan lebih dari 193 jenis produk turunan, yang menurutnya turut mengerek harga tandan buah segar di tingkat petani, membuka lapangan kerja baru, dan menggerakkan aktivitas ekonomi di sekitarnya.",
+   "Eisha mencatat kontribusi UMKM terhadap nilai ekspor nasional saat ini baru sekitar 15 persen dan tidak banyak berubah dari waktu ke waktu. Ia menilai kelapa sawit, sebagai salah satu komoditas ekspor andalan Indonesia, berpotensi mengangkat angka tersebut apabila pelaku UMKM berani bersaing di pasar internasional dan masuk ke rantai pasok global produk berbasis sawit."
+  ],
+  "fotoAdegan": "Workers at a small factory bottling palm oil based cooking oil products on a production line, natural daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a60edd82d9bf-peran-strategis-kelapa-sawit-terhadap-ketahanan-pangan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan di sini masih berupa dorongan dari lembaga riset INDEF, belum ada kebijakan atau insentif baru dari pemerintah yang mengatur langkah UMKM sawit menembus pasar ekspor. Yang jelas terdampak adalah pelaku UMKM pengolah sawit, mulai dari produk makanan dan minyak goreng, sabun serta bahan kimia turunan sawit, sampai bahan bakar nabati, juga petani karena harga tandan buah segar disebut ikut terangkat ketika hilirisasi berjalan. Angka yang perlu dicermati adalah kontribusi UMKM terhadap ekspor nasional yang bertahan di sekitar 15 persen dan disebut stagnan, artinya seruan seperti ini sudah berulang kali disuarakan tanpa banyak mengubah angkanya. Yang masih kurang dari berita ini adalah program atau insentif konkret, misalnya pembiayaan ekspor atau pendampingan sertifikasi produk, yang bisa benar-benar menaikkan angka 15 persen itu.",
+  "imageV": "mt81u6c2"
+ },
+ {
+  "slug": "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",
+  "category": "Pasar Modal",
+  "title": "Komunitas [Trader] Indonesia Kumpul di Tradependence Day 2026",
+  "deck": "JUNO dan Minerva Media Markets menggelar Tradependence Day 2026 di Jakarta, menyatukan trader ritel dan sembilan komunitas trading di bawah tema \"No Random Move\".",
+  "image": "assets/img/komunitas-trader-indonesia-kumpul-di-tradependence-day-2026.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T01:19:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462270-bukan-cuma-soal-profit-ini-tantangan-baru-yang-dihadapi-trader-di-pasar-yang-makin-cepat",
+  "tags": [
+   "trading",
+   "JUNO",
+   "komunitas trader",
+   "Tradependence Day"
+  ],
+  "body": [
+   "JUNO bersama Minerva Media Markets menggelar Tradependence Day 2026 di Jakarta Phinisi pada Selasa (25/8/2026), mempertemukan trader ritel, komunitas, dan influencer trading dari berbagai latar belakang. Acara ini mengangkat tema \"No Random Move\", yang menekankan bahwa setiap keputusan trading semestinya punya alasan dan pertimbangan yang jelas, bukan sekadar tebakan di tengah pasar yang bergerak cepat.",
+   "Nama Tradependence sendiri merupakan gabungan dari trade dan dependence, mengacu pada berbagai hal yang menjadi sandaran trader saat mengambil keputusan, mulai dari informasi pasar, perangkat teknologi, kualitas eksekusi transaksi, hingga jejaring komunitas. Penyelenggara menekankan tiga prinsip utama yakni gerak cepat, ketepatan, dan keterbukaan proses sebagai landasan pengalaman yang mereka bangun bersama komunitas trader. \"No Random Move menggambarkan bagaimana kami ingin bergerak. Kami percaya setiap move harus punya alasan dan tujuan,\" kata Willy Dink, Country Manager JUNO.",
+   "Sejumlah figur di dunia trading turut hadir, di antaranya Aries Yuangga selaku trader sekaligus pendiri Metavulus, serta Kimiko Lie dan Jenny Fricilia yang dikenal aktif mengedukasi generasi muda soal trading. Komunitas yang ikut ambil bagian antara lain JC Signal, Trading Bareng Nanda, Bang Jo Coltrade, IRL FX, EL Trade, YS Capital, WNR Trade, Tradity, dan Padepokan Wuxi."
+  ],
+  "fotoAdegan": "Young professionals networking at an evening trading community event in a Jakarta venue, string lights, casual conversation in small groups",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/25/6a8c8a79459da-tradependence-day-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Acara ini menyatukan trader ritel dan sembilan komunitas trading, dari JC Signal, Trading Bareng Nanda, hingga Padepokan Wuxi, di bawah satu payung ekosistem yang dibangun JUNO bersama Minerva Media Markets. Yang langsung terdampak adalah anggota komunitas-komunitas tersebut serta figur seperti Aries Yuangga dan Kimiko Lie yang selama ini aktif mengedukasi trader pemula. Namun berita ini tidak memuat angka konkret soal skala bisnis JUNO sendiri, seperti jumlah pengguna, volume transaksi, atau target pertumbuhan, sehingga belum bisa dibaca apakah acara ini murni ajang kumpul komunitas atau bagian dari strategi ekspansi JUNO di pasar trading ritel Indonesia. Yang bisa memperjelas arah ini adalah apakah JUNO merilis data pengguna atau pengumuman produk baru dalam waktu dekat.",
+  "imageV": "mt81u70v"
+ },
+ {
   "slug": "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
   "category": "Aksi Korporasi",
   "title": "VISI Ubah Bisnis Jadi Holding, Rencana Kuasai 72,91% Saham [HMBC]",

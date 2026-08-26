@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
+  "deck": "Putra Batee melepas 68,99 juta lembar saham PT Panca Anugrah Wisesa (MGLV) senilai sekitar Rp500,16 miliar, hak suaranya turun dari 71,28% menjadi 67,66% namun tetap mayoritas.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "kepemilikan saham",
+   "pemegang saham mayoritas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-0345-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",
+  "category": "Aksi Korporasi",
+  "title": "ALTO Kena [Sanksi] BEI, Telat Serahkan Laporan Keuangan Q2",
+  "deck": "Tri Banyan Tirta belum menyampaikan laporan keuangan interim per 30 Juni 2026 hingga tenggat 31 Juli 2026 dan dikenai Peringatan Tertulis I oleh BEI.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALTO",
+   "sanksi BEI",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a991dde158_0db0619a5a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
@@ -18,6 +50,22 @@ var ARTICLES = [
    "logam mulia"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram"
+ },
+ {
+  "slug": "ketr-tender-sukarela-rp523-diperpanjang-hingga-18-september",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Tender Sukarela [Rp523] Diperpanjang hingga 18 September",
+  "deck": "IMBS memperpanjang tender sukarela saham KETR periode ketiga hingga 18 September 2026 di harga Rp523, setelah belum ada saham yang ditawarkan untuk dijual.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "tender offer",
+   "Ketrosden Triasmitra",
+   "IMBS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0c152cbf2_0308708b69.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
@@ -351,7 +399,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6504,56 +6552,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459985-sistem-transaksi-digital-ini-upaya-dorong-peningkatan-wisatawan-asing"
- },
- {
-  "slug": "kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa",
-  "category": "Makroekonomi",
-  "title": "Kemendes PDT Gandeng tvOne, Angkat Potensi [75 Ribu] Desa",
-  "deck": "Kemendes PDT RI dan tvOne teken MoU untuk mempublikasikan potensi ekonomi 75.296 desa di 416 kabupaten dan 38 provinsi.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kemendes-pdt-gandeng-tvone-angkat-potensi-75-ribu-desa.jpg",
-  "imageV": "mst4q1xz",
-  "tags": [
-   "Kemendes PDT",
-   "tvOne",
-   "MoU",
-   "ekonomi desa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459983-kemendes-pdt-ri-gandeng-tvone-teken-mou-angkat-potensi-75-ribu-desa-di-indonesia"
- },
- {
-  "slug": "bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal",
-  "category": "UMKM",
-  "title": "BNPB-PNM Dorong Warga Agam [Bangkit] Lewat Usaha Lokal",
-  "deck": "BNPB, PNM, dan Pemkab Agam memacu usaha olahan ikan dan pinang warga terdampak bencana di Agam lewat pelatihan, alat produksi, dan pembiayaan tanpa agunan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bnpb-pnm-dorong-warga-agam-bangkit-lewat-usaha-lokal.jpg",
-  "imageV": "mst1gmqs",
-  "tags": [
-   "agam",
-   "pnm",
-   "umkm",
-   "bnpb"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459979-dari-huntara-ke-usaha-produktif-bnpb-pnm-dorong-warga-agam-bangkit-lewat-potensi-ekonomi-lokal"
- },
- {
-  "slug": "adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Akui [Event of Default], Utang ke CGIF Rp12,36 M",
-  "deck": "ADCP mengakui gagal bayar kupon obligasi hingga penjamin CGIF turun tangan membayarnya, dengan rincian utang Rp12,36 miliar yang kini harus diganti Perseroan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/adcp-akui-event-of-default-utang-ke-cgif-rp12-36-m.jpg",
-  "imageV": "mstusj5g",
-  "tags": [
-   "ADCP",
-   "obligasi",
-   "event of default",
-   "CGIF"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/405fd8f987_3c424c559f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

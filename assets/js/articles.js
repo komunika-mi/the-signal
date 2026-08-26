@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
+  "category": "Aksi Korporasi",
+  "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
+  "deck": "Putra Batee melepas 68,99 juta lembar saham PT Panca Anugrah Wisesa (MGLV) senilai sekitar Rp500,16 miliar, hak suaranya turun dari 71,28% menjadi 67,66% namun tetap mayoritas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T10:22:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-0345-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "kepemilikan saham",
+   "pemegang saham mayoritas",
+   "pasar modal"
+  ],
+  "body": [
+   "Putra Batee, pemegang saham signifikan yang bukan anggota direksi maupun dewan komisaris PT Panca Anugrah Wisesa Tbk (MGLV), melaporkan perubahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 26 Agustus 2026 sesuai kewajiban POJK 4/2024. Sebelum transaksi, ia menggenggam 1.357.785.200 lembar saham dengan hak suara 71,28%. Setelah transaksi, kepemilikannya tersisa 1.288.797.600 lembar dengan hak suara 67,66%, atau berkurang 68.987.600 lembar setara sekitar 5,08% dari kepemilikannya semula.",
+   "Pengurangan itu berasal dari tiga kali penjualan tidak langsung dengan harga sama, Rp7.250 per saham. Pada 20 Agustus 2026 terjual 34.374.000 lembar, pada 21 Agustus 2026 terjual 17.608.000 lembar, dan pada 24 Agustus 2026 terjual 17.005.600 lembar. Ketiganya tercatat dengan tujuan transaksi 'penjualan', dengan total nilai gabungan sekitar Rp500,16 miliar.",
+   "Meski melepas saham dalam jumlah besar, Putra Batee tetap menjadi pemegang saham mayoritas MGLV dengan hak suara 67,66%. Karena transaksi ini terjadi di pasar sekunder antar pemegang saham, jumlah saham beredar perusahaan maupun modal MGLV tidak berubah akibat laporan ini."
+  ],
+  "fotoAdegan": "Exterior of a glass office tower in Jakarta's financial district reflecting morning sunlight, commuters walking on the busy sidewalk below.",
+  "takeaway": "Penjualan ini netral bagi fundamental MGLV karena Putra Batee tetap menggenggam mayoritas saham dengan hak suara 67,66%, sehingga status pengendali perusahaan tidak berpindah tangan meski nilai transaksinya cukup besar, sekitar Rp500,16 miliar. Yang tersentuh hanya komposisi kepemilikan dan hak suara pemegang saham utama, bukan jumlah saham beredar perusahaan, karena ini transaksi jual beli antar pemegang saham di pasar sekunder, bukan penerbitan saham baru oleh emiten, sehingga tidak mengubah laba per saham maupun modal perusahaan. Yang perlu dipantau adalah apakah pelepasan berturut-turut pada 20, 21, dan 24 Agustus 2026 ini berlanjut di laporan-laporan berikutnya, sebab jika tren serupa berulang, hak suara Putra Batee bisa terus mendekati ambang 50 persen yang menentukan status pengendali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",
+  "category": "Aksi Korporasi",
+  "title": "ALTO Kena [Sanksi] BEI, Telat Serahkan Laporan Keuangan Q2",
+  "deck": "Tri Banyan Tirta belum menyampaikan laporan keuangan interim per 30 Juni 2026 hingga tenggat 31 Juli 2026 dan dikenai Peringatan Tertulis I oleh BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T10:17:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a991dde158_0db0619a5a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ALTO",
+  "tags": [
+   "ALTO",
+   "sanksi BEI",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menjatuhkan sanksi Peringatan Tertulis I (SP1) kepada PT Tri Banyan Tirta Tbk (ALTO) karena belum menyampaikan Laporan Keuangan Interim per 30 Juni 2026 hingga batas waktu yang ditetapkan, yaitu Jumat, 31 Juli 2026. Dalam pengumuman bernomor Peng-S-00027/BEI.PLP/08-2026 yang terbit 21 Agustus 2026, sanksi ini belum disertai denda karena masih pada tahap peringatan pertama. Dasar hukumnya adalah Peraturan Bursa I-E tentang kewajiban penyampaian laporan dan Peraturan Bursa I-H tentang sanksi.",
+   "ALTO bukan satu-satunya. Berdasarkan pemantauan BEI, dari 956 perusahaan tercatat yang wajib melaporkan keuangan triwulan kedua, 106 perusahaan sama sekali belum menyampaikan laporan hingga tenggat dan sama-sama terkena SP1 tanpa denda. Daftar itu termasuk nama-nama yang cukup dikenal seperti Bakrie Telecom (BTEL), Sri Rejeki Isman (SRIL), Visi Media Asia (VIVA), dan Wijaya Karya Bangunan Gedung (WEGE). Selain itu, ada 53 perusahaan yang laporannya masih dalam proses telaah terbatas akuntan publik dan 40 perusahaan yang laporannya sedang diaudit, sehingga secara total 199 dari 956 perusahaan belum menuntaskan kewajiban ini per akhir Juli.",
+   "Sanksi SP1 merupakan jenjang paling ringan dalam aturan Bursa. Jika ALTO tetap tidak menyampaikan laporan keuangannya dalam jangka waktu tertentu setelah SP1, aturan Bursa memungkinkan pengenaan sanksi berikutnya yang biasanya disertai denda dan berpotensi berlanjut ke pembatasan perdagangan saham."
+  ],
+  "fotoAdegan": "Rows of empty plastic water bottles moving along a bottling factory conveyor belt under fluorescent lighting, workers in the background",
+  "takeaway": "Ini sinyal negatif bagi ALTO, sebab perusahaan gagal memenuhi kewajiban dasar keterbukaan informasi, yaitu melaporkan kinerja keuangannya tepat waktu kepada publik. Keterlambatan ini menahan informasi tentang kondisi arus kas dan kesehatan keuangan ALTO pada kuartal kedua 2026, sehingga investor untuk sementara tidak punya data terbaru untuk menilai kinerja perusahaan air minum dalam kemasan ini. Yang perlu dipantau selanjutnya adalah kapan ALTO akhirnya merilis laporan keuangannya, karena keterlambatan berkelanjutan bisa berujung pada sanksi lebih berat dengan denda, bahkan potensi pembatasan perdagangan sahamnya jika terus dibiarkan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
@@ -27,6 +79,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah hari ini hanya angka harga jual dan buyback emas Antam, turun masing-masing ke Rp2.750.000 dan Rp2.610.000 per gram, tanpa penjelasan pemicunya di sumber data. Yang terdampak adalah pemilik emas Antam yang berencana menjual atau membeli pada hari yang sama, karena selisih Rp18.000 itu langsung memengaruhi nilai transaksi mereka. Yang masih kurang untuk membaca ke mana arah harga emas selanjutnya adalah data pergerakan harga emas dunia dan kurs rupiah terhadap dolar dalam beberapa hari terakhir, sebab dua faktor itu yang biasanya menggerakkan harga emas Antam naik atau turun. Tanpa data pembanding itu, penurunan hari ini belum bisa disimpulkan sebagai awal tren atau sekadar fluktuasi harian biasa.",
   "fotoDitolak": true
+ },
+ {
+  "slug": "ketr-tender-sukarela-rp523-diperpanjang-hingga-18-september",
+  "category": "Aksi Korporasi",
+  "title": "KETR: Tender Sukarela [Rp523] Diperpanjang hingga 18 September",
+  "deck": "IMBS memperpanjang tender sukarela saham KETR periode ketiga hingga 18 September 2026 di harga Rp523, setelah belum ada saham yang ditawarkan untuk dijual.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T09:23:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0c152cbf2_0308708b69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "tender offer",
+   "Ketrosden Triasmitra",
+   "IMBS"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) menyampaikan keterbukaan informasi mengenai perpanjangan periode ketiga penawaran tender sukarela atas sahamnya yang dilakukan oleh PT Inti Mas Bangun Sejahtera (IMBS). Pemberitahuan ini disampaikan resmi ke Bursa Efek Indonesia pada 26 Agustus 2026 dan ditandatangani oleh Direktur Keuangan KETR, Vidcy Octory, menyusul pengumuman IMBS pada 24 Agustus 2026.",
+   "Dalam pengumuman itu, IMBS menyatakan periode penawaran tender sukarela ketiga berlangsung mulai 27 Agustus hingga 18 September 2026, setiap hari pukul 09.00 sampai 15.30 WIB. Harga yang ditawarkan tetap Rp523 per saham, sama seperti yang diumumkan pertama kali lewat surat kabar LinkBisnis dan Harian Terbit pada 9 Juli 2026. Pemegang saham yang berminat menjual harus melengkapi dokumen melalui perusahaan sekuritas atau bank kustodian masing-masing dan menyerahkannya ke PT Adimitra Jasa Korpora selaku biro administrasi efek, paling lambat 18 September 2026 pukul 15.30 WIB. Pembayaran kepada pemegang saham yang menjual dijadwalkan pada 28 September 2026.",
+   "Yang mencolok dari pengumuman ini adalah data partisipasinya. Hingga 21 Agustus 2026, IMBS mencatat belum ada satu pun penawaran penjualan saham yang diterima dari pemegang saham publik KETR pada periode kedua tender sukarela ini. Dalam laporannya, KETR juga menegaskan bahwa perpanjangan ini tidak membawa dampak apapun terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Technicians in safety vests splicing fiber optic cables at a roadside utility pit, tools spread on a mat, late afternoon light.",
+  "takeaway": "Perpanjangan tender sukarela ini bersifat netral bagi KETR karena transaksi jual beli saham antara IMBS dan pemegang saham publik tidak mengubah kondisi keuangan maupun operasional perseroan, seperti ditegaskan sendiri oleh manajemen dalam laporan ini. Tender sukarela semacam ini biasanya muncul setelah ada perubahan pemegang saham pengendali, di mana pembeli baru wajib menawarkan pembelian saham dari sisa pemegang saham publik dengan harga tertentu, sehingga yang bergeser bukan pos keuangan seperti laba atau ekuitas KETR, melainkan komposisi kepemilikan sahamnya. Fakta bahwa hingga kini belum ada satu pun saham yang ditawarkan untuk dijual sejak periode kedua menunjukkan minat pemegang saham publik melepas saham di harga Rp523 masih rendah. Yang perlu dipantau selanjutnya adalah batas akhir periode ketiga pada 18 September 2026 pukul 15.30 WIB, apakah jumlah saham yang ditawarkan untuk dijual akan bertambah dari nol, serta realisasi pembayaran yang dijadwalkan pada 28 September 2026 jika ada pemegang saham yang akhirnya menjual sahamnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
@@ -558,7 +636,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

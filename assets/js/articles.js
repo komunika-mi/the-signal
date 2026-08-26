@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rombak [Komite Audit], Darren Nathaniel Tandra Jadi Ketua",
+  "deck": "Komite Audit EURO berganti ketua efektif 26 Agustus 2026: Darren Nathaniel Tandra menggantikan Andi Kurniawan Josdaan, sementara dua anggota lain tetap menjabat periode kedua.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:18:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56d44943eb_07d4019716.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EURO",
+  "tags": [
+   "EURO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Estee Gold Feet Tbk (EURO) mengumumkan perubahan susunan Komite Audit yang berlaku efektif 26 Agustus 2026. Darren Nathaniel Tandra, yang menjabat Komisaris Independen Perseroan, ditunjuk sebagai ketua Komite Audit baru menggantikan Andi Kurniawan Josdaan. Dua anggota lain, Tasman Frensius A. dan Ike Eriyanti, tetap dipertahankan dan kini memasuki periode jabatan kedua mereka di komite yang sama.",
+   "Perubahan ini didasarkan pada Surat Keputusan Dewan Komisaris Nomor 005/KEPDEKOM/EGF/VIII/2026 tertanggal 24 Agustus 2026, yang ditandatangani oleh Komisaris Utama Sumadi Rusli bersama Darren Nathaniel Tandra sendiri selaku Komisaris Independen. Masa jabatan Komite Audit yang baru ditetapkan berlaku dari 2026 sampai 2031. Perseroan menyebut pengangkatan ini mengacu pada Peraturan Otoritas Jasa Keuangan Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit.",
+   "Pemberitahuan resmi kepada Otoritas Jasa Keuangan dikirim melalui surat bernomor 003/FM-EGF/VIII/2026 tertanggal 25 Agustus 2026, yang ditandatangani Direktur Marianti Hidayat. Laporan keterbukaan informasi ke bursa sendiri disampaikan oleh Corporate Secretary David Adnan pada 26 Agustus 2026 pukul 16.18 WIB."
+  ],
+  "fotoAdegan": "Executives in formal business attire seated around a wooden conference table in a modern Jakarta office boardroom, morning light",
+  "takeaway": "Perubahan ini netral bagi fundamental EURO karena sifatnya murni pergantian kepengurusan internal tanpa dampak pada kas, utang, atau jumlah saham beredar Perseroan. Yang tersentuh adalah fungsi pengawasan Komite Audit, yaitu tim independen di bawah komisaris yang tugasnya memeriksa kewajaran laporan keuangan dan sistem pengendalian internal perusahaan sebelum sampai ke pemegang saham, sehingga pergantian ketuanya bisa memengaruhi bagaimana pengawasan itu dijalankan ke depan meski dua dari tiga anggotanya tidak berubah. Yang perlu dipantau selanjutnya adalah kinerja komite dengan susunan baru ini pada laporan keuangan interim maupun tahunan EURO berikutnya, mengingat masa jabatan mereka baru saja dimulai dan akan berlangsung hingga 2031.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baut-terima-pinjaman-tanpa-bunga-rp44-79-miliar-dari-naf",
+  "category": "Aksi Korporasi",
+  "title": "BAUT Terima [Pinjaman] Tanpa Bunga Rp44,79 Miliar dari NAF",
+  "deck": "Pemegang saham utama BAUT, NA Fasteners Pte Ltd, mengucurkan pinjaman US$2,5 juta tanpa bunga dan tanpa jaminan untuk modal kerja, setara 26 persen dari ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:06:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a50fe72ee5_6da96d59ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAUT",
+  "tags": [
+   "BAUT",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham",
+   "NA Fasteners"
+  ],
+  "body": [
+   "PT Mitra Angkasa Sejahtera Tbk (BAUT) menandatangani perjanjian pinjaman pemegang saham (shareholder loan) senilai US$2,5 juta, setara sekitar Rp44,79 miliar, dengan NA Fasteners Pte Ltd (NAF) selaku pemegang saham utama yang menguasai 54,16 persen saham perusahaan. Transaksi diteken pada 24 Agustus 2026. Pinjaman ini bebas bunga, tanpa jaminan, berjangka waktu 4 tahun dan dapat diperpanjang, serta bisa dilunasi lebih awal tanpa denda.",
+   "Nilai transaksi setara 26 persen dari ekuitas perusahaan per 31 Desember 2025, sehingga tergolong transaksi material menurut aturan OJK. Karena porsinya di bawah 50 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS, meski tetap masuk kategori transaksi afiliasi karena melibatkan pemegang saham pengendali. Dana pinjaman rencananya dipakai untuk modal kerja, termasuk pembelian persediaan dalam skala besar, pengembangan infrastruktur ritel, dan peningkatan kapasitas distribusi. Laporan pendapat kewajaran KJPP Felix Sutandar dan Rekan tertanggal 26 Mei 2026 menyebut dana yang dihimpun NAF juga akan disalurkan untuk mendukung kebutuhan modal kerja anak usaha BAUT, PT Rantai Jaringan Sukses, dan menyimpulkan transaksi ini wajar.",
+   "Dalam proyeksi dampak keuangan yang disusun berdasarkan laporan posisi keuangan per 31 Desember 2025, pencairan pinjaman ini menambah kas perusahaan sekitar Rp41,96 miliar dan dicatat sebagai utang jangka panjang kepada pihak berelasi dengan nilai yang sama. Akibatnya, total liabilitas Perseroan naik dari Rp57,65 miliar menjadi Rp99,60 miliar, sementara total ekuitas tetap di Rp171,77 miliar karena dana ini tercatat sebagai utang, bukan setoran modal. Laporan penilai juga mencatat bahwa pinjaman bisa jatuh tempo lebih awal dari jadwal 4 tahun jika Perseroan tidak memenuhi target kinerja operasional, terjadi wanprestasi, atau NAF menyampaikan Exit Notice, kondisi yang berpotensi menekan likuiditas perusahaan."
+  ],
+  "fotoAdegan": "Warehouse shelves stacked with boxes of steel bolts and nuts, a worker in a hi-vis vest scanning inventory with a handheld scanner",
+  "takeaway": "Laporan ini condong netral bagi BAUT: pinjaman tanpa bunga dari pemegang saham memang meringankan biaya pendanaan, tapi ukurannya yang mencapai 26 persen ekuitas membuat beban utang perusahaan melonjak signifikan, jadi bukan keuntungan tanpa risiko. Yang tersentuh di sini adalah struktur permodalan dan arus kas: total utang BAUT naik sekitar 73 persen dari Rp57,65 miliar menjadi Rp99,60 miliar, sementara ekuitas atau modal sendiri perusahaan tidak bertambah karena dana ini tercatat sebagai utang, bukan modal. Pelaku pasar biasanya memperhatikan rasio utang terhadap modal semacam ini karena semakin besar utang dibanding modal sendiri, semakin besar pula ketergantungan perusahaan pada pemegang saham utama untuk menjaga operasionalnya tetap berjalan. Yang perlu dipantau selanjutnya adalah apakah BAUT bisa memenuhi target kinerja operasional yang disyaratkan dalam perjanjian pinjaman ini, sebab laporan penilai independen menyebutkan pinjaman bisa ditagih lebih awal dari jadwal 4 tahun jika target itu meleset, terjadi wanprestasi, atau NAF mengirim Exit Notice, kondisi yang bisa langsung menekan kas perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sdmu-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SDMU Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "SDMU menjawab surat BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada info material atau rencana aksi korporasi yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T15:03:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be24f14895_86d598a021.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SDMU",
+  "tags": [
+   "SDMU",
+   "Sidomulyo Selaras",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Sidomulyo Selaras Tbk (SDMU) mengirim surat penjelasan kepada Bursa Efek Indonesia menanggapi permintaan klarifikasi BEI Nomor S-10955/BEI.PP2/08-2026 tertanggal 24 Agustus 2026 mengenai volatilitas transaksi efek perusahaan. Balasan itu dikirim lewat surat nomor 118/SDMU/VIII/2026 tertanggal 26 Agustus 2026, ditandatangani Direktur Utama Evelyn Magdalena Tjoe dan disampaikan secara elektronik oleh Corporate Secretary Jonathan Walewangko.",
+   "Dalam suratnya, manajemen SDMU menjawab lima pertanyaan baku yang lazim diajukan bursa saat harga atau volume perdagangan saham suatu emiten bergerak di luar kebiasaan. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E.",
+   "SDMU juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu terkait perubahan kepemilikan atau penjaminan saham sebagaimana diatur POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa. Perseroan menutup surat dengan menyatakan tidak ada informasi penting lain yang material dan belum diungkapkan kepada publik, serta berjanji akan mengumumkannya jika ke depan muncul fakta material baru."
+  ],
+  "fotoAdegan": "Rows of company fleet trucks parked in a logistics yard at dusk, drivers doing pre-trip vehicle checks, industrial lighting",
+  "takeaway": "Surat ini netral bagi fundamental SDMU karena isinya semata membantah adanya informasi baru, tanpa angka keuangan, tanpa perubahan kepemilikan, dan tanpa rencana aksi korporasi yang diumumkan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, sebab surat ini murni soal keterbukaan informasi, bukan soal transaksi bisnis. Permintaan penjelasan seperti ini biasanya dikirim bursa ketika sistem pemantauannya mendeteksi lonjakan harga atau volume perdagangan yang tidak biasa, dan tujuannya memastikan pemodal tidak bertransaksi berdasarkan rumor atau informasi yang tidak merata. Karena SDMU membantah adanya pemicu material, pergerakan harga sahamnya sejauh ini tidak didukung perubahan bisnis yang terverifikasi lewat dokumen resmi. Yang perlu dipantau berikutnya adalah apakah BEI akan mengambil langkah lanjutan seperti pemantauan khusus atau permintaan penjelasan susulan bila pola transaksi tidak biasa itu berlanjut, karena surat ini sendiri tidak mencantumkan tenggat atau agenda baru bagi Perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
   "category": "Aksi Korporasi",
   "title": "CSMI Jadwalkan Public Expose [Insidentil] pada 28 Agustus",
@@ -1132,7 +1210,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

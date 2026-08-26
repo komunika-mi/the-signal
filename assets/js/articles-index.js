@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
+  "category": "Aksi Korporasi",
+  "title": "EURO Rombak [Komite Audit], Darren Nathaniel Tandra Jadi Ketua",
+  "deck": "Komite Audit EURO berganti ketua efektif 26 Agustus 2026: Darren Nathaniel Tandra menggantikan Andi Kurniawan Josdaan, sementara dua anggota lain tetap menjabat periode kedua.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EURO",
+   "komite audit",
+   "tata kelola perusahaan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56d44943eb_07d4019716.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baut-terima-pinjaman-tanpa-bunga-rp44-79-miliar-dari-naf",
+  "category": "Aksi Korporasi",
+  "title": "BAUT Terima [Pinjaman] Tanpa Bunga Rp44,79 Miliar dari NAF",
+  "deck": "Pemegang saham utama BAUT, NA Fasteners Pte Ltd, mengucurkan pinjaman US$2,5 juta tanpa bunga dan tanpa jaminan untuk modal kerja, setara 26 persen dari ekuitas perusahaan.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAUT",
+   "transaksi afiliasi",
+   "pinjaman pemegang saham",
+   "NA Fasteners"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a50fe72ee5_6da96d59ef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sdmu-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SDMU Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "SDMU menjawab surat BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada info material atau rencana aksi korporasi yang belum diungkap.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SDMU",
+   "Sidomulyo Selaras",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be24f14895_86d598a021.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
   "category": "Aksi Korporasi",
   "title": "CSMI Jadwalkan Public Expose [Insidentil] pada 28 Agustus",
@@ -705,7 +753,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6484,55 +6532,5 @@ var ARTICLES = [
    "harga emas"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460290-perdagangan-pekan-depan-harga-emas-antam-diprediksi-tembus-rp283-juta"
- },
- {
-  "slug": "rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan",
-  "category": "Moneter",
-  "title": "Rupiah Diprediksi [Melemah] ke Rp17.880 Awal Pekan",
-  "deck": "Pengamat memperkirakan rupiah dibuka melemah ke Rp17.820-17.880 per dolar AS pekan depan, meski sempat menguat berkat sinyal fiskal 2027.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/rupiah-diprediksi-melemah-ke-rp17-880-awal-pekan.jpg",
-  "imageV": "msxg2hn4",
-  "tags": [
-   "rupiah",
-   "nilai tukar",
-   "APBN 2027",
-   "dolar AS"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460279-rupiah-terancam-tembus-rp18000-pengamat-soroti-risiko-apbn-2027"
- },
- {
-  "slug": "harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons",
-  "category": "Global",
-  "title": "Harga Emas Dunia Diproyeksi Tembus [US$4.572] per Ons",
-  "deck": "Pengamat memperkirakan harga emas dunia bergerak US$4.186-US$4.572 per troy ounce pekan depan, tergantung eskalasi geopolitik di Selat Hormuz dan Laut Merah.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/harga-emas-dunia-diproyeksi-tembus-us-4-572-per-ons.jpg",
-  "imageV": "msvhovwt",
-  "tags": [
-   "emas",
-   "harga emas dunia",
-   "geopolitik",
-   "komoditas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460276-emas-dunia-dibayangi-geopolitik-pengamat-prediksi-bisa-tembus-us4572-per-troy-ounce"
- },
- {
-  "slug": "isat-jadwalkan-rupslb-pada-29-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ISAT Jadwalkan [RUPSLB] pada 29 September 2026",
-  "deck": "Indosat Ooredoo Hutchison mengumumkan rencana RUPSLB pada 29 September 2026, dengan tenggat pencatatan pemegang saham 28 Agustus 2026.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/isat-jadwalkan-rupslb-pada-29-september-2026.jpg",
-  "imageV": "msxg2x1q",
-  "tags": [
-   "ISAT",
-   "RUPSLB",
-   "Indosat Ooredoo Hutchison",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/43bf5c345e_062fe42a5c.pdf",
-  "sourceLabel": "IDX"
  }
 ];

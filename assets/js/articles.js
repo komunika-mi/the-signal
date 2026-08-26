@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
+  "category": "Makroekonomi",
+  "title": "Cek [Desil] Kemensos untuk Pastikan Status Bansos Anda",
+  "deck": "Desil dalam data DTSEN menentukan siapa berhak menerima PKH dan BPNT. Jika data dianggap tidak sesuai kondisi terkini, warga bisa mengajukan sanggah.",
+  "image": "assets/img/cek-desil-kemensos-untuk-pastikan-status-bansos-anda.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T12:12:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462618-cek-desil-kemensos-untuk-tahu-dapat-bansos-atau-tidak-begini-cara-sanggah-jika-data-tidak-sesuai",
+  "tags": [
+   "bansos",
+   "Kemensos",
+   "DTSEN",
+   "PKH"
+  ],
+  "body": [
+   "Bagi masyarakat yang ingin tahu apakah namanya masuk daftar penerima bantuan sosial, Kementerian Sosial menyediakan layanan pengecekan mandiri secara online. Salah satu informasi kunci yang bisa dilihat adalah desil, yaitu tingkatan kondisi ekonomi keluarga dalam Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) yang menjadi acuan pemerintah dalam menyalurkan bantuan.",
+   "Desil ini penting karena ikut menentukan apakah seseorang tergolong layak menerima Program Keluarga Harapan (PKH) atau Bantuan Pangan Non Tunai (BPNT). Selain memeriksa desil, warga juga bisa memeriksa status kepesertaannya di kedua program tersebut lewat laman resmi cekbansos.kemensos.go.id, yang memakai DTSEN sebagai sumber datanya.",
+   "Cara mengeceknya cukup sederhana. Warga tinggal membuka laman cekbansos.kemensos.go.id, memasukkan 16 digit NIK sesuai KTP, lalu mengisi kode captcha yang tampil di layar dan bisa dimuat ulang bila sulit terbaca. Sistem kemudian akan menampilkan hasil pencarian jika datanya tersedia.",
+   "Jika kondisi ekonomi seseorang sudah berubah atau data yang tercatat dianggap tidak sesuai kenyataan, mereka bisa mengajukan pembaruan atau sanggah data. Perlu diingat juga, berstatus sebagai penerima bansos tidak otomatis berarti bantuannya sudah cair pada saat pengecekan dilakukan."
+  ],
+  "fotoAdegan": "Rural residents lining up outside a village administration office holding identification documents, quiet morning atmosphere",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ee70139870-ilustrasi-cek-bansos_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah dasar data yang dipakai pemerintah untuk menentukan siapa berhak dapat bantuan, yaitu Data Tunggal Sosial dan Ekonomi Nasional atau DTSEN, yang mengelompokkan tiap keluarga ke dalam tingkatan ekonomi bernama desil. Desil inilah yang lalu menentukan apakah seseorang masuk sebagai calon penerima Program Keluarga Harapan atau Bantuan Pangan Non Tunai. Yang terdampak jelas warga yang kondisi ekonominya berubah, misalnya baru kehilangan pekerjaan atau justru sudah membaik, karena posisi mereka di desil bisa jadi tidak lagi sesuai kenyataan. Yang belum dijelaskan adalah berapa lama proses sanggah diproses dan kapan hasilnya memengaruhi pencairan bantuan berikutnya, sehingga status terdaftar di desil belum tentu berarti bansos akan segera cair.",
+  "imageV": "mt9o4a5m"
+ },
+ {
   "slug": "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
   "category": "Aksi Korporasi",
   "title": "CARS Jelaskan ke BEI Soal [Volatilitas] Transaksi Saham",
@@ -107,6 +134,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rupiah-menguat-tipis-ke-rp17-695-ikuti-asia",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
+  "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:10:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia",
+  "tags": [
+   "rupiah",
+   "kurs dolar",
+   "mata uang asia",
+   "nilai tukar"
+  ],
+  "body": [
+   "Nilai tukar rupiah menguat 28 poin atau 0,16 persen menjadi Rp17.695 per dolar Amerika Serikat pada pembukaan perdagangan Rabu pagi, 26 Agustus 2026, dari posisi sebelumnya di Rp17.723. Penguatan ini penting bagi pembaca karena rupiah bergerak searah dengan mayoritas mata uang Asia lain, menandakan sentimen positif yang cukup merata di kawasan, bukan sekadar pergerakan rupiah sendirian.",
+   "Sejumlah mata uang Asia turut menguat terhadap dolar AS pagi itu. Ringgit Malaysia mencatat penguatan terbesar sebesar 0,34 persen, disusul yen Jepang 0,17 persen, peso Filipina 0,24 persen, dolar Singapura 0,02 persen, yuan China 0,01 persen, dan won Korea Selatan 0,01 persen. Hanya dolar Hong Kong yang bergerak berlawanan arah dengan pelemahan tipis 0,03 persen.",
+   "Pola berbeda justru terlihat pada mata uang utama negara maju. Euro Eropa melemah 0,08 persen dan poundsterling Inggris turun tipis 0,01 persen terhadap dolar AS, sehingga penguatan pagi itu lebih terasa di kawasan Asia dibanding di antara mata uang negara maju."
+  ],
+  "fotoAdegan": "Wide view of a Jakarta financial district skyline with modern bank towers, busy street traffic below, midday light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Penguatan rupiah kali ini tergolong tipis, hanya 28 poin atau 0,16 persen ke Rp17.695 per dolar AS, dan pola ini sejalan dengan mayoritas mata uang Asia lain seperti ringgit Malaysia dan yen Jepang yang juga menghijau, sementara euro dan poundsterling justru melemah. Pihak yang paling merasakan dampaknya adalah importir dan pelaku usaha dengan kewajiban dalam dolar AS, karena biaya mereka sedikit lebih ringan dibanding hari sebelumnya, meski selisihnya kecil. Data yang tersedia baru mencakup posisi pembukaan pagi, sehingga belum bisa dipastikan apakah penguatan ini bertahan sampai penutupan atau berbalik arah seperti yang beberapa kali terjadi belakangan. Yang perlu dicermati adalah kurs penutupan rupiah sore ini serta pergerakan mata uang Asia lain pada hari berikutnya, karena itu akan menentukan apakah penguatan hari ini sekadar fluktuasi harian atau bagian dari tren yang lebih panjang.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
+  "category": "Pasar Modal",
+  "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
+  "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:02:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "Pasar Saham"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka menguat tipis pada perdagangan Rabu, 26 Agustus 2026, naik 5,47 poin atau 0,08 persen ke 6.507,14. Kenaikan ini membawa IHSG kembali ke atas level psikologis 6.500 setelah pasar tutup sehari sebelumnya karena libur nasional Maulid Nabi Muhammad SAW.",
+   "Namun penguatan itu tidak bertahan lama. Hanya sekitar empat menit setelah pembukaan, indeks berbalik turun tajam hingga 1,05 persen ke level 6.429,57, sebelum akhirnya kembali ke posisi 6.507,14 pada pukul 09.00 WIB. Sepanjang sesi pagi itu, IHSG sempat menyentuh level tertinggi 6.509 dan terendah 6.429.",
+   "Meski indeks utama kembali hijau tipis, pergerakan saham secara individual justru didominasi pelemahan. Tercatat 388 saham turun harga, berbanding 124 saham yang naik, sementara 187 saham lainnya stagnan. Aktivitas pagi itu cukup ramai dengan nilai transaksi Rp1,37 triliun, volume 3,02 miliar saham, dan frekuensi sekitar 230 ribu kali transaksi.",
+   "Indeks LQ45, yang berisi 45 saham berkapitalisasi besar, ikut menguat 0,62 poin atau 0,10 persen ke posisi 642,57 pada pembukaan. Pelaku pasar dilaporkan tengah mencermati berbagai sentimen dari dalam dan luar negeri, termasuk agenda Bank Indonesia, yang berpotensi memengaruhi arah IHSG sepanjang hari perdagangan."
+  ],
+  "fotoAdegan": "Wide shot of the Jakarta Stock Exchange building facade at sunrise with commuters walking past, glass tower reflecting morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah pagi ini adalah pembukaan IHSG yang sempat kembali ke atas 6.500 lalu langsung berbalik turun 1,05 persen hanya dalam empat menit, sementara mayoritas saham individual, 388 dari 699 saham yang bergerak, justru melemah meski indeks utama tetap hijau tipis. Kondisi ini terutama relevan bagi investor yang bertransaksi di sesi pembukaan, karena selisih antara indeks yang tetap positif dan breadth saham yang negatif biasanya menandakan penguatan itu ditopang segelintir saham berbobot besar, bukan pasar secara luas. Data yang tersedia baru snapshot beberapa menit pertama perdagangan dan belum cukup untuk memastikan apakah ini sekadar guncangan singkat pascalibur atau awal tekanan jual yang lebih panjang, karena sentimen dari Bank Indonesia dan luar negeri yang disebut memengaruhi pasar belum dirinci. Yang perlu dipantau adalah posisi penutupan IHSG sore ini, untuk melihat apakah level di sekitar 6.500 bertahan atau justru tergerus lebih lanjut.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
   "category": "Aksi Korporasi",
   "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
@@ -131,6 +211,33 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a glass office tower in Jakarta's financial district reflecting morning sunlight, commuters walking on the busy sidewalk below.",
   "takeaway": "Penjualan ini netral bagi fundamental MGLV karena Putra Batee tetap menggenggam mayoritas saham dengan hak suara 67,66%, sehingga status pengendali perusahaan tidak berpindah tangan meski nilai transaksinya cukup besar, sekitar Rp500,16 miliar. Yang tersentuh hanya komposisi kepemilikan dan hak suara pemegang saham utama, bukan jumlah saham beredar perusahaan, karena ini transaksi jual beli antar pemegang saham di pasar sekunder, bukan penerbitan saham baru oleh emiten, sehingga tidak mengubah laba per saham maupun modal perusahaan. Yang perlu dipantau adalah apakah pelepasan berturut-turut pada 20, 21, dan 24 Agustus 2026 ini berlanjut di laporan-laporan berikutnya, sebab jika tren serupa berulang, hak suara Putra Batee bisa terus mendekati ambang 50 persen yang menentukan status pengendali.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 26 Agustus, Daging Sapi [Rp152.650] per Kg",
+  "deck": "PIHPS Bank Indonesia merilis harga pangan nasional 26 Agustus 2026, dari daging sapi, cabai, beras, hingga minyak goreng.",
+  "image": "assets/img/harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T10:19:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462585-harga-pangan-hari-ini-26-agustus-2026-daging-sapi-mulai-rp152650-per-kilogram-hingga-telur-rp28800-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "daging sapi"
+  ],
+  "body": [
+   "Bank Indonesia melalui Pusat Informasi Harga Pangan Strategis (PIHPS) Nasional merilis data harga sejumlah bahan pangan pokok untuk 26 Agustus 2026. Data ini menjadi acuan harian yang biasa dipakai memantau pergerakan harga di pasar, dengan daging sapi kualitas I tercatat Rp152.650 per kilogram, kualitas II Rp145.100 per kilogram, dan daging ayam ras segar Rp45.350 per kilogram.",
+   "Untuk komoditas cabai, harga cabai rawit merah berada di Rp64.100 per kilogram, cabai rawit hijau Rp50.400 per kilogram, cabai merah keriting Rp46.150 per kilogram, dan cabai merah besar Rp44.150 per kilogram. Cabai rawit merah masih menjadi yang termahal di antara jenis cabai lainnya dalam data ini.",
+   "Harga beras tercatat bervariasi menurut kualitas, yakni beras kualitas super I Rp17.400 per kilogram, super II Rp16.850 per kilogram, medium I Rp16.300 per kilogram, medium II Rp15.900 per kilogram, bawah I Rp14.750 per kilogram, dan bawah II Rp14.600 per kilogram.",
+   "Sementara itu, telur ayam ras tercatat Rp28.800 per kilogram, bawang merah Rp37.500 per kilogram, dan bawang putih Rp39.850 per kilogram. Untuk gula pasir, kualitas premium berada di Rp20.550 per kilogram dan gula pasir lokal Rp15.850 per kilogram, sedangkan minyak goreng curah Rp21.500 per liter, minyak goreng kemasan bermerek I Rp24.350 per liter, dan kemasan bermerek II Rp23.200 per liter."
+  ],
+  "fotoAdegan": "Wooden meat stall in a traditional Indonesian wet market with fresh beef cuts hanging, vendor arranging produce in early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/10/69b0492b96c5f-ilustrasi-daging-sapi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini adalah potret harga pangan pada satu hari saja, jadi belum bisa dipakai untuk menyimpulkan apakah harga sedang naik atau turun dibanding pekan-pekan sebelumnya. Yang jelas terdampak adalah konsumen rumah tangga yang belanja harian dan pedagang pasar yang menyesuaikan stok dengan harga acuan ini, terutama untuk daging sapi yang tembus Rp152.650 per kilogram dan cabai rawit merah Rp64.100 per kilogram, dua komoditas yang biasanya paling terasa di kantong rumah tangga. PIHPS sendiri adalah sistem pemantauan harga milik Bank Indonesia yang mengumpulkan data dari pasar-pasar di berbagai kota setiap hari, sehingga angka ini adalah rata-rata nasional, bukan harga di satu pasar tertentu. Yang masih kurang untuk membaca ke mana arah harga pangan bergerak adalah perbandingan dengan data hari-hari sebelumnya, serta rilis inflasi bulanan dari BPS yang biasanya keluar di awal bulan berikutnya dan akan menunjukkan apakah kenaikan sejumlah komoditas ini sudah tercermin dalam inflasi pangan secara keseluruhan.",
+  "imageV": "mt9o4awv"
  },
  {
   "slug": "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",

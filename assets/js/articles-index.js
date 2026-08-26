@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
+  "category": "Makroekonomi",
+  "title": "Cek [Desil] Kemensos untuk Pastikan Status Bansos Anda",
+  "deck": "Desil dalam data DTSEN menentukan siapa berhak menerima PKH dan BPNT. Jika data dianggap tidak sesuai kondisi terkini, warga bisa mengajukan sanggah.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/cek-desil-kemensos-untuk-pastikan-status-bansos-anda.jpg",
+  "imageV": "mt9o4a5m",
+  "tags": [
+   "bansos",
+   "Kemensos",
+   "DTSEN",
+   "PKH"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462618-cek-desil-kemensos-untuk-tahu-dapat-bansos-atau-tidak-begini-cara-sanggah-jika-data-tidak-sesuai"
+ },
+ {
   "slug": "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
   "category": "Aksi Korporasi",
   "title": "CARS Jelaskan ke BEI Soal [Volatilitas] Transaksi Saham",
@@ -69,6 +86,36 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-menguat-tipis-ke-rp17-695-ikuti-asia",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
+  "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "kurs dolar",
+   "mata uang asia",
+   "nilai tukar"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia"
+ },
+ {
+  "slug": "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
+  "category": "Pasar Modal",
+  "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
+  "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "Pasar Saham"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan"
+ },
+ {
   "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
   "category": "Aksi Korporasi",
   "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
@@ -83,6 +130,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-0345-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 26 Agustus, Daging Sapi [Rp152.650] per Kg",
+  "deck": "PIHPS Bank Indonesia merilis harga pangan nasional 26 Agustus 2026, dari daging sapi, cabai, beras, hingga minyak goreng.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg.jpg",
+  "imageV": "mt9o4awv",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "daging sapi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462585-harga-pangan-hari-ini-26-agustus-2026-daging-sapi-mulai-rp152650-per-kilogram-hingga-telur-rp28800-per-kilogram"
  },
  {
   "slug": "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",
@@ -6479,73 +6543,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh",
-  "category": "UMKM",
-  "title": "PNM Dampingi [268 Ribu] Nasabah UMKM Perempuan di Aceh",
-  "deck": "PNM dan OJK memperkuat pendampingan literasi keuangan dan legalitas usaha bagi perempuan pelaku usaha ultra mikro di Aceh, tidak hanya menyalurkan modal.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/pnm-dampingi-268-ribu-nasabah-umkm-perempuan-di-aceh.jpg",
-  "imageV": "msu27si9",
-  "tags": [
-   "PNM",
-   "OJK",
-   "UMKM Aceh",
-   "Mekaar Syariah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460065-sinergi-pnm-dan-ojk-perkuat-bekal-umkm-perempuan-aceh-untuk-naik-kelas"
- },
- {
-  "slug": "warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan",
-  "category": "UMKM",
-  "title": "Warga Koja Ubah [Sampah] Jadi Sekolah dan Penghasilan",
-  "deck": "Program binaan Pertamina Lubricants di Gang Hijau Cemara, Jakarta Utara, mengubah sampah warga menjadi kompos, pakan ternak, hingga biaya sekolah anak lewat skema tabungan sampah.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/warga-koja-ubah-sampah-jadi-sekolah-dan-penghasilan.jpg",
-  "imageV": "mstktamz",
-  "tags": [
-   "kampung binaan",
-   "bank sampah",
-   "Pertamina Lubricants",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460013-kampung-binaan-pertamina-lubricants-dorong-ekonomi-sirkuler-beri-dampak-ekonomi-hingga-200-juta-per-tahun"
- },
- {
-  "slug": "bantul-atasi-sampah-usai-tpa-piyungan-tutup",
-  "category": "UMKM",
-  "title": "Bantul Atasi Sampah Usai [TPA] Piyungan Tutup",
-  "deck": "TPS 3R GO-SARI di Guwosari olah 3-3,5 ton sampah rumah tangga per hari, layani 1.500 keluarga, dan buka kerja bagi 27 warga usai TPA Piyungan ditutup.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/bantul-atasi-sampah-usai-tpa-piyungan-tutup.jpg",
-  "imageV": "mstktbdb",
-  "tags": [
-   "sampah",
-   "bantul",
-   "TPS 3R",
-   "daur ulang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460011-solusi-mandiri-dari-bantul-cara-tps-3r-go-sari-atasi-masalah-sampah-dari-sumbernya"
- },
- {
-  "slug": "silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit",
-  "category": "Aksi Korporasi",
-  "title": "SILO [Akuisisi] 14 RS Senilai Rp6,9 Triliun dari First REIT",
-  "deck": "Siloam berencana membeli 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp6,9 triliun, transaksi material yang perlu persetujuan RUPSLB 22 September 2026.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/silo-akuisisi-14-rs-senilai-rp6-9-triliun-dari-first-reit.jpg",
-  "imageV": "mstupfa1",
-  "tags": [
-   "SILO",
-   "First REIT",
-   "akuisisi rumah sakit",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cc58ee9c06_7a64eba02a.pdf",
-  "sourceLabel": "IDX"
  }
 ];

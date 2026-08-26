@@ -3,6 +3,134 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Jadwalkan Public Expose [Insidentil] pada 28 Agustus",
+  "deck": "PT Cipta Selera Murni Tbk (CSMI) menggelar public expose insidentil secara daring pada 28 Agustus 2026, membahas kinerja keuangan, rencana bisnis, dan pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T14:33:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c24680a3f9_07d1cf76ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSMI",
+  "tags": [
+   "CSMI",
+   "public expose",
+   "pergerakan saham",
+   "Cipta Selera Murni"
+  ],
+  "body": [
+   "PT Cipta Selera Murni Tbk (CSMI) mengoreksi surat sebelumnya bernomor 002/OL-CSM/DIR/VIII/2026 tertanggal 26 Agustus 2026, dan kembali menyampaikan rencana penyelenggaraan public expose insidentil kepada Bursa Efek Indonesia. Surat elektronik itu ditandatangani Direktur Radino Miharjo, yang menyatakan acara ini digelar atas inisiatif sukarela perseroan, bukan karena permintaan Bursa Efek Indonesia maupun Otoritas Jasa Keuangan.",
+   "Public expose akan berlangsung Jumat, 28 Agustus 2026, pukul 14.00 WIB, melalui webinar Zoom yang tautan pendaftarannya sudah dicantumkan dalam surat. Manajemen akan membahas tiga agenda, yaitu kinerja keuangan dan kondisi bisnis terkini perseroan, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham CSMI."
+  ],
+  "fotoAdegan": "Kitchen staff in a busy Indonesian noodle restaurant plating spicy noodle dishes during a crowded lunch rush, steam rising",
+  "takeaway": "Laporan ini netral bagi investor karena isinya sebatas mengumumkan jadwal acara, tanpa angka kinerja keuangan atau keputusan korporasi baru yang bisa langsung dinilai dampaknya. Yang patut dicermati adalah agenda ketiga, yakni analisis manajemen soal pergerakan harga saham CSMI, sebuah forum yang biasanya digelar ketika saham sebuah perusahaan bergerak tidak biasa dan direksi perlu menjelaskan penyebabnya kepada publik, meski di sini perseroan menyebutnya sukarela. Public expose sendiri adalah forum resmi tempat direksi memaparkan kondisi bisnis kepada pemegang saham, dan hasil paparan itu sering jadi rujukan pasar untuk menilai apakah pergerakan saham didasari faktor fundamental atau sekadar sentimen sesaat. Yang perlu dipantau berikutnya adalah paparan itu sendiri pada 28 Agustus 2026 pukul 14.00 WIB, terutama penjelasan direksi soal kondisi bisnis terkini dan alasan di balik pergerakan harga saham CSMI belakangan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Raih [Kontrak] Baru Rp775 Miliar, Naik 568% YoY",
+  "deck": "Kontrak baru WEGE per Agustus 2026 melonjak jadi Rp775 miliar, didominasi proyek pemerintah, di tengah rencana divestasi aset lebih dari Rp1 triliun untuk memperkuat likuiditas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T14:03:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1d0310bfa_1cd8551fd3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WEGE",
+  "tags": [
+   "WEGE",
+   "kontrak konstruksi",
+   "BUMN karya",
+   "divestasi aset"
+  ],
+  "body": [
+   "PT Wijaya Karya Bangunan Gedung Tbk (WEGE) melaporkan kepada Bursa Efek Indonesia bahwa perolehan kontrak baru per Agustus 2026 mencapai Rp775 miliar, naik 568 persen dibanding periode sama tahun lalu yang senilai Rp116 miliar. Rohandi, Direktur Keuangan, Human Capital, dan Manajemen Risiko WEGE, menyebut komposisi pemberi kerja proyek baru itu didominasi pemerintah sebesar 83 persen dan BUMN 17 persen. Dari sisi jenis proyek, 63 persen berasal dari segmen fasilitas publik dan 37 persen dari pengembangan residensial.",
+   "Proyek-proyek yang diraih perseroan meliputi Hunian Sementara (Huntara) Aceh Tamiang, Hunian ASN Aceh, proyek pascadarurat di Sumatera Utara dan Sumatera Barat, BRT Sumut (Mebidang), Sekolah Garuda Kalimantan Utara (kerja sama operasi), Office Keet SR Aceh, RSUD Rupit (kerja sama operasi), Modular Internal Huntara Aceh, RDBI Sumatera Utara, Huntara Tegal, Hunian Puskesmas Lokop Aceh, Huntara Tamiang 4 Danantara, pembangunan Poliklinik Temanggung, dan rumah sakit di Kalimantan Selatan.",
+   "Perseroan turut memaparkan kondisi keuangannya. Rasio utang terhadap ekuitas per Juni 2026 tercatat 0,98 kali, dengan rasio utang berbunga hanya 0,07 kali dan tanpa utang obligasi maupun sukuk. Di sisi lain, perseroan mengakui adanya tekanan terhadap pendapatan dalam beberapa periode terakhir dan tengah menyiapkan rencana divestasi sejumlah aset bernilai lebih dari Rp1 triliun, antara lain Fave Hotel Karawang, Menara MTH lantai 10 dan 15, de Braga Bandung, Graha Mantap, serta beberapa bidang tanah di Lombok dan Samarinda."
+  ],
+  "fotoAdegan": "Construction workers assembling modular temporary housing units on an open building site, cranes in the background, overcast sky.",
+  "takeaway": "Laporan ini condong netral bagi WEGE: kenaikan kontrak baru 568 persen memang nyata dan didominasi proyek pemerintah, tetapi nilainya baru Rp775 miliar, tergolong kecil untuk perusahaan konstruksi milik BUMN, dan lonjakan persentase itu sebagian besar terjadi karena basis tahun lalu yang sangat rendah, cuma Rp116 miliar. Yang lebih perlu dicermati adalah pengakuan perseroan sendiri soal tekanan terhadap pendapatan dalam beberapa periode terakhir, yang mendorong rencana pelepasan aset senilai lebih dari Rp1 triliun berupa hotel, lantai perkantoran, dan tanah; ini menyentuh arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena penjualan aset mendatangkan dana segar sekaligus berpotensi menekan beban bunga, yaitu biaya yang harus dibayar perseroan atas pinjamannya. Klaim rasio utang berbunga yang rendah, 0,07 kali ekuitas, perlu dibaca berdampingan dengan fakta bahwa WEGE baru saja digugat penundaan kewajiban pembayaran utang oleh salah satu krediturnya pekan lalu, yang menandakan ada sengketa pembayaran meski rasio utang formalnya terlihat aman. Yang perlu dipantau berikutnya adalah realisasi rencana divestasi aset lebih dari Rp1 triliun itu, termasuk kepastian pembeli dan tenggat waktunya, serta kelanjutan proses PKPU di pengadilan niaga yang bisa memengaruhi persepsi kreditor terhadap perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ypas-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Gelar [Public Expose] Insidentil usai Diminta Bursa",
+  "deck": "Yanaprima Hastapersada akan menggelar public expose insidentil secara daring pada 28 Agustus 2026 setelah menerima surat dari unit pengawasan Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T13:55:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c4f6df74eb_60de163d51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YPAS",
+  "tags": [
+   "YPAS",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Yanaprima Hastapersada"
+  ],
+  "body": [
+   "Yanaprima Hastapersada Tbk (YPAS) melaporkan rencana penyelenggaraan public expose insidentil yang akan digelar secara daring melalui tautan Google Meet pada 28 Agustus 2026 pukul 10.00 WIB. Berbeda dari public expose tahunan yang bersifat rutin, pertemuan kali ini merujuk pada surat pengawasan transaksi Bursa Efek Indonesia bernomor Peng-SPT-00148/BEI.WAS/08-2026, yang menandakan pelaksanaannya diminta oleh otoritas bursa, bukan inisiatif sukarela perusahaan.",
+   "Dalam surat yang ditandatangani secara elektronik oleh Rinawati, Direktur Keuangan Yanaprima Hastapersada, pada 26 Agustus 2026 pukul 13.55 WIB, perusahaan mencantumkan empat agenda utama. Pertama, pemaparan perkembangan kinerja dan operasional terkini perusahaan. Kedua, ringkasan laporan keuangan kuartal kedua per 30 Juni 2026. Ketiga, rencana usaha perusahaan ke depan. Keempat, informasi material lain yang belum pernah disampaikan kepada publik."
+  ],
+  "fotoAdegan": "Workers monitoring rows of polypropylene woven sack production lines inside an industrial plastic packaging factory in Indonesia",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental YPAS karena isinya baru berupa undangan rapat, belum memuat angka kinerja apa pun yang bisa dinilai langsung. Yang patut digarisbawahi, rencana ini dipicu oleh surat dari unit pengawasan transaksi Bursa Efek Indonesia, bukan inisiatif sukarela manajemen, sehingga kemungkinan berkaitan dengan pergerakan transaksi saham yang tidak biasa dan perlu klarifikasi resmi dari perusahaan. Dalam pertemuan nanti, manajemen dijadwalkan memaparkan ringkasan laporan keuangan kuartal kedua, termasuk pos seperti laba dan arus kas, angka yang biasa dipakai investor menilai kesehatan operasional perusahaan. Yang perlu dipantau adalah jalannya public expose itu sendiri pada 28 Agustus 2026 pukul 10.00 WIB, karena di sanalah informasi material yang belum pernah diungkap ke publik baru akan disampaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "beer-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEER Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "PT Jobubu Jarum Minahasa Tbk (BEER) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemegang saham per 9 September 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T13:44:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bddbfbb9a7_65a48cfe91.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEER",
+  "tags": [
+   "BEER",
+   "RUPSLB",
+   "pasar modal",
+   "korporasi"
+  ],
+  "body": [
+   "PT Jobubu Jarum Minahasa Tbk (BEER) menyampaikan pemberitahuan resmi kepada OJK dan Bursa Efek Indonesia ihwal rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Jumat, 2 Oktober 2026 pukul 10.00 WIB di Jakarta Selatan. Surat bernomor 081/JJM/CORPSEC/VIII/2026 itu ditandatangani Direktur Utama Carlo Brix Tewu dan disampaikan oleh Sekretaris Perusahaan M. Dwi Hapsoro.",
+   "Perseroan menetapkan Rabu, 9 September 2026 pukul 16.00 WIB sebagai batas pencatatan pemegang saham yang berhak hadir dan memberi suara dalam rapat. Surat pemanggilan resmi rapat baru akan diumumkan Kamis, 10 September 2026 melalui situs Kustodian Sentral Efek Indonesia, aplikasi eASY.KSEI, situs Bursa Efek Indonesia, dan situs perusahaan. Pemegang saham yang ingin mengajukan usul agenda rapat harus menyampaikannya paling lambat Kamis, 3 September 2026, sesuai Pasal 21 ayat 7 anggaran dasar perseroan dan Pasal 16 POJK Nomor 15/2020.",
+   "Untuk kehadiran dan pemungutan suara, perseroan merekomendasikan pemegang saham menggunakan fasilitas kuasa dan suara elektronik lewat eASY.KSEI, yang tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yakni Kamis, 1 Oktober 2026 pukul 12.00 WIB. Dokumen pengumuman ini belum mencantumkan mata acara atau agenda rapat, karena agenda resmi baru akan disertakan dalam surat pemanggilan pada 10 September 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern conference hall, soft morning light through windows, Jakarta office interior",
+  "takeaway": "Pengumuman ini netral bagi fundamental BEER karena isinya baru memuat jadwal dan mekanisme rapat, belum ada mata acara yang bisa dinilai dampaknya terhadap kinerja perusahaan. Rapat semacam ini biasanya dipakai untuk memutuskan hal yang memengaruhi struktur permodalan atau susunan pengurus, misalnya perubahan jumlah saham beredar yang bisa mengubah laba per saham atau pergantian direksi dan komisaris, tapi dokumen ini belum menyebut agenda tersebut sehingga pelaku pasar belum punya dasar menilai arahnya. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi pada Kamis, 10 September 2026, yang biasanya baru memuat agenda lengkap, serta batas akhir pengajuan usul pemegang saham pada Kamis, 3 September 2026, dan pelaksanaan RUPSLB itu sendiri pada Jumat, 2 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nayz-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "PT Hassana Boga Sejahtera Tbk (NAYZ) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemanggilan resmi berisi agenda lengkap terbit 10 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T13:16:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76c83356de_9dbe9969eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Hassana Boga Sejahtera",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 2 Oktober 2026 pukul 13.00 WIB. Waktu rinci dan lokasi rapat akan diumumkan menyusul. Pemanggilan resmi rapat, yang baru akan memuat agenda lengkapnya, dijadwalkan terbit pada Kamis, 10 September 2026 melalui situs web perseroan, situs Bursa Efek Indonesia, dan sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, sesuai POJK 15/2020.",
+   "Pemegang saham yang berhak hadir dan bersuara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan per Rabu, 9 September 2026 hingga pukul 16.15 WIB, termasuk pemilik saham di sub rekening efek KSEI pada penutupan perdagangan hari itu. Berdasarkan Pasal 16 POJK 15/2020 dan Pasal 21 ayat 6 Anggaran Dasar perseroan, pemegang saham yang menguasai minimal 1/20 atau 5 persen dari total saham berhak suara bisa mengusulkan agenda rapat kepada direksi, paling lambat 7 hari kalender sebelum tanggal pemanggilan resmi, yakni sekitar 3 September 2026. Rapat juga akan digelar secara elektronik dengan fasilitas e-Proxy untuk pemungutan suara, mengacu pada Peraturan OJK No. 14/2025.",
+   "Pengumuman ini terbit tak lama setelah NAYZ melaporkan pergantian pemegang saham pengendali, di mana Saiko kini menguasai 29,41% saham perseroan usai membeli dari Asia Intrainvesta senilai sekitar Rp17,6 miliar. Dokumen RUPSLB ini sendiri belum merinci agenda rapat, sehingga belum jelas apakah pertemuan ini terkait langsung dengan pergantian pengendali tersebut."
+  ],
+  "fotoAdegan": "Kitchen staff plating dishes on stainless steel counters in a busy commercial restaurant kitchen, early morning prep light",
+  "takeaway": "RUPSLB ini masih bersifat prosedural karena dokumennya baru mengumumkan jadwal dan belum memuat agenda, jadi penilaiannya netral sampai agenda resminya terbit. RUPS adalah forum tertinggi di perseroan, tempat keputusan yang bisa memengaruhi jumlah saham beredar, hak suara, atau susunan direksi dan komisaris diambil, sehingga pelaku pasar biasa memperhatikannya, apalagi pengumuman ini muncul tak lama setelah Saiko mengambil alih kendali NAYZ dengan 29,41% saham. Kalau agenda yang keluar nanti menyangkut aksi korporasi seperti penerbitan saham baru atau pergantian direksi, itu bisa mengubah hak suara maupun laba per saham pemegang lama. Yang perlu dipantau berikutnya adalah pemanggilan resmi rapat berisi agenda lengkap yang dijadwalkan terbit 10 September 2026, batas waktu pengusulan agenda oleh pemegang saham sekitar 3 September 2026, dan pelaksanaan RUPSLB itu sendiri pada 2 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
   "category": "Makroekonomi",
   "title": "Cek [Desil] Kemensos untuk Pastikan Status Bansos Anda",
@@ -53,6 +181,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Rows of new sedans parked inside a brightly lit car dealership showroom in Jakarta, staff polishing vehicles in the morning",
   "takeaway": "Surat ini netral bagi CARS karena isinya hanya jawaban standar yang membantah adanya informasi rahasia di balik lonjakan transaksi sahamnya, tanpa kabar baru soal kinerja atau rencana bisnis apa pun. Yang patut dicatat adalah poin keenam: berdasarkan Daftar Pemegang Saham per 31 Juli 2026, belum ada satu pihak pun yang tercatat sebagai pemegang saham utama atau pengendali di CARS, artinya tidak ada pihak yang secara resmi memegang kendali suara mayoritas atas perusahaan saat ini. Struktur tanpa pengendali seperti ini membuat kepemilikan saham lebih mudah berpindah lewat transaksi bursa biasa, sehingga pelaku pasar wajar mengamati apakah ada pihak yang sedang mengumpulkan saham meski perseroan mengaku tidak mengetahuinya. Yang perlu dipantau berikutnya adalah apakah ada pihak yang nantinya wajib melaporkan kepemilikannya begitu menembus ambang batas pelaporan sesuai POJK Nomor 4 Tahun 2024, serta apakah volatilitas transaksi ini berlanjut hingga tiga bulan ke depan seperti disebut perseroan, yang bisa memicu permintaan penjelasan lanjutan dari BEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "aegs-bantah-punya-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "AEGS Bantah Punya Info Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, AEGS menyatakan tidak mengetahui fakta material di balik pergerakan harga sahamnya dan belum berencana melakukan aksi korporasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:58:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba3a23722_f7ee070276.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AEGS",
+  "tags": [
+   "AEGS",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Anugerah Spareparts Sejahtera Tbk. (AEGS) mengirim surat penjelasan nomor 03/VIII-ASS/2026 pada 26 Agustus 2026, menjawab permintaan Bursa Efek Indonesia melalui surat nomor S-10967/BEI.PP3/08-2026 terkait volatilitas transaksi efek AEGS di pasar. Surat ditandatangani Direktur Utama AEGS, Oey Johan Sinatra Sumawi.",
+   "Dalam jawabannya, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan OJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan, dan menyebut pemegang saham utama belum berencana mengubah kepemilikan sahamnya di perusahaan.",
+   "AEGS menambahkan bahwa jumlah saham milik pendiri perusahaan tidak mengalami perubahan, sehingga seluruh pergerakan harga saham AEGS di pasar merupakan transaksi jual beli bebas antarinvestor yang tidak berafiliasi dengan perseroan atau pemegang saham utamanya."
+  ],
+  "fotoAdegan": "Wide view of the Indonesia Stock Exchange building facade in Jakarta with pedestrians passing by at midday",
+  "takeaway": "Netral, karena isi surat ini murni konfirmasi rutin ke bursa dan tidak membawa informasi baru yang mengubah gambaran bisnis AEGS. Laporan ini juga tidak menyentuh pos kinerja seperti modal perusahaan, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sebab isinya hanya penegasan bahwa tidak ada aksi korporasi, tidak ada perubahan kepemilikan pendiri, dan pemegang saham utama belum berniat mengubah porsi sahamnya. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham AEGS masih tergolong tidak wajar oleh bursa dalam waktu dekat, mengingat perseroan sendiri menegaskan tidak punya rencana aksi korporasi setidaknya hingga tiga bulan ke depan dari 26 Agustus 2026.",
   "sentimen": "netral"
  },
  {
@@ -160,6 +314,32 @@ var ARTICLES = [
   "fotoDitolak": true
  },
  {
+  "slug": "adhi-koreksi-penundaan-bunga-obligasi-kupon-menumpuk-juli-2027",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Koreksi Penundaan Bunga Obligasi, [Kupon] Menumpuk Juli 2027",
+  "deck": "BEI mengoreksi pengumuman restrukturisasi obligasi ADHI, menegaskan hasil RUPO 6 Agustus 2026 untuk seri ADHI04CN1 senilai Rp102,715 miliar, dengan dua jadwal kupon bergeser ke 9 Juli 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:04:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2acab768c2_d8b3f14977.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "restrukturisasi utang",
+   "RUPO"
+  ],
+  "body": [
+   "Bursa Efek Indonesia menerbitkan koreksi atas pengumuman restrukturisasi obligasi PT Adhi Karya (Persero) Tbk yang sebelumnya terbit 24 Agustus 2026. Koreksi ini menegaskan kembali hasil Rapat Umum Pemegang Obligasi (RUPO) yang digelar 6 Agustus 2026, yang menyetujui penundaan pembayaran bunga Obligasi Berkelanjutan IV Adhi Karya Tahap I Tahun 2024 seri ADHI04CN1 dengan nilai emisi Rp102,715 miliar. Obligasi ini berbunga tetap 10,65 persen per tahun dan tetap jatuh tempo pada 9 Juli 2027, tidak berubah dari jadwal semula.",
+   "Yang berubah adalah jadwal pembayaran kupon ke-9 dan ke-10. Semula, kupon ke-9 seharusnya dibayar 9 Oktober 2026 dan kupon ke-10 pada 9 Januari 2027. Setelah persetujuan RUPO, keduanya digeser menjadi jatuh pada tanggal yang sama, yakni 9 Juli 2027, bersamaan dengan kupon ke-12 dan pelunasan pokok obligasi. Kupon ke-11 tetap dibayar sesuai jadwal awal pada 9 April 2027.",
+   "Dasar keputusan ini merujuk pada surat Adhi Karya tanggal 21 Agustus 2026 perihal kesiapan dana pembayaran bunga, serta surat KSEI tertanggal hari yang sama yang mengonfirmasi penundaan pembayaran bunga ke-17 atas seri obligasi lain milik perseroan, yaitu Obligasi Berkelanjutan III Tahap III Tahun 2022 Seri B dan C (ADHI03BCN3 dan ADHI03CCN3). Bursa mengingatkan pemegang saham dan investor untuk terus mencermati keterbukaan informasi lanjutan dari perseroan."
+  ],
+  "fotoAdegan": "Construction workers walking across an elevated infrastructure bridge project at dusk, cranes and rebar in the background, overcast sky",
+  "takeaway": "Laporan ini negatif bagi ADHI karena penundaan kupon bukan penghapusan utang, melainkan penumpukan kewajiban ke satu tanggal yang sama. Yang tersentuh adalah arus kas perseroan, yaitu uang tunai yang harus tersedia untuk membayar kewajiban jatuh tempo. Pada 9 Juli 2027 nanti, ADHI harus menyiapkan dana untuk dua kupon yang tertunda sekaligus kupon terakhir dan pelunasan pokok obligasi secara bersamaan, sehingga beban kas pada tanggal itu jauh lebih besar dibanding jika kupon dibayar sesuai jadwal semula. Yang perlu dipantau berikutnya adalah RUPSLB yang dijadwalkan 30 September 2026 serta kemampuan perseroan menyiapkan dana pada 9 Juli 2027, mengingat perusahaan baru saja mengalami suspensi saham akibat gagal bayar kupon pada seri obligasi lain.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
@@ -210,6 +390,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of a glass office tower in Jakarta's financial district reflecting morning sunlight, commuters walking on the busy sidewalk below.",
   "takeaway": "Penjualan ini netral bagi fundamental MGLV karena Putra Batee tetap menggenggam mayoritas saham dengan hak suara 67,66%, sehingga status pengendali perusahaan tidak berpindah tangan meski nilai transaksinya cukup besar, sekitar Rp500,16 miliar. Yang tersentuh hanya komposisi kepemilikan dan hak suara pemegang saham utama, bukan jumlah saham beredar perusahaan, karena ini transaksi jual beli antar pemegang saham di pasar sekunder, bukan penerbitan saham baru oleh emiten, sehingga tidak mengubah laba per saham maupun modal perusahaan. Yang perlu dipantau adalah apakah pelepasan berturut-turut pada 20, 21, dan 24 Agustus 2026 ini berlanjut di laporan-laporan berikutnya, sebab jika tren serupa berulang, hak suara Putra Batee bisa terus mendekati ambang 50 persen yang menentukan status pengendali.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "kuas-bantah-ada-informasi-material-di-balik-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "KUAS Bantah Ada Informasi Material di Balik [Volatilitas] Transaksi",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, PT Ace Oldfields Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi yang memicu volatilitas transaksi sahamnya belakangan ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T10:21:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/823c5d6b05_041fddd940.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KUAS",
+  "tags": [
+   "KUAS",
+   "Ace Oldfields",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Ace Oldfields Tbk (KUAS) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-10966/BEI.PP3/08-2026 tertanggal 24 Agustus 2026 terkait volatilitas transaksi efek perseroan. Jawaban resmi dikirim dua hari berselang, pada 26 Agustus 2026, dan ditandatangani oleh Irwin Allen Poernomo selaku Direktur.",
+   "Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material lain per tanggal 21 Agustus 2026 yang dapat mempengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menegaskan telah menyampaikan seluruh laporan aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024, dan tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan menambahkan tidak ada fakta atau kejadian material lain yang belum diungkapkan ke publik. Terkait kemungkinan pemegang saham utama melepas atau menambah kepemilikannya, corporate secretary telah mengonfirmasi langsung kepada pemegang saham utama, dan hingga saat surat ini dibuat belum ada rencana apa pun terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Workers filling and sealing paint cans along a factory conveyor line inside an industrial warehouse in Indonesia",
+  "takeaway": "Penjelasan ini condong netral bagi KUAS, sebab isinya sepenuhnya bantahan standar bahwa tidak ada kejadian atau rencana korporasi yang mendasari pergerakan harga sahamnya belakangan ini. Surat semacam ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena memang tidak ada aksi korporasi seperti penerbitan saham baru atau utang baru yang diumumkan, jadi struktur permodalan perseroan tetap seperti semula. Yang perlu dipantau selanjutnya adalah apakah pola transaksi saham KUAS mereda setelah penjelasan ini beredar, atau justru Bursa menaikkan statusnya menjadi pengawasan lebih ketat jika volatilitas berlanjut, mengingat surat ini sendiri tidak mencantumkan tenggat atau agenda RUPS apa pun sebagai tindak lanjut.",
   "sentimen": "netral"
  },
  {

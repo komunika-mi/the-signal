@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Jadwalkan Public Expose [Insidentil] pada 28 Agustus",
+  "deck": "PT Cipta Selera Murni Tbk (CSMI) menggelar public expose insidentil secara daring pada 28 Agustus 2026, membahas kinerja keuangan, rencana bisnis, dan pergerakan harga sahamnya.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "public expose",
+   "pergerakan saham",
+   "Cipta Selera Murni"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c24680a3f9_07d1cf76ad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Raih [Kontrak] Baru Rp775 Miliar, Naik 568% YoY",
+  "deck": "Kontrak baru WEGE per Agustus 2026 melonjak jadi Rp775 miliar, didominasi proyek pemerintah, di tengah rencana divestasi aset lebih dari Rp1 triliun untuk memperkuat likuiditas.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WEGE",
+   "kontrak konstruksi",
+   "BUMN karya",
+   "divestasi aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1d0310bfa_1cd8551fd3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ypas-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "YPAS Gelar [Public Expose] Insidentil usai Diminta Bursa",
+  "deck": "Yanaprima Hastapersada akan menggelar public expose insidentil secara daring pada 28 Agustus 2026 setelah menerima surat dari unit pengawasan Bursa Efek Indonesia.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YPAS",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Yanaprima Hastapersada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c4f6df74eb_60de163d51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "beer-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "BEER Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "PT Jobubu Jarum Minahasa Tbk (BEER) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemegang saham per 9 September 2026 yang berhak hadir dan memberi suara.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEER",
+   "RUPSLB",
+   "pasar modal",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bddbfbb9a7_65a48cfe91.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "PT Hassana Boga Sejahtera Tbk (NAYZ) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemanggilan resmi berisi agenda lengkap terbit 10 September 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Hassana Boga Sejahtera",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76c83356de_9dbe9969eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
   "category": "Makroekonomi",
   "title": "Cek [Desil] Kemensos untuk Pastikan Status Bansos Anda",
@@ -35,6 +115,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c127e4780f_c6b8f02659.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aegs-bantah-punya-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "AEGS Bantah Punya Info Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, AEGS menyatakan tidak mengetahui fakta material di balik pergerakan harga sahamnya dan belum berencana melakukan aksi korporasi.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AEGS",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba3a23722_f7ee070276.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -101,6 +197,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia"
  },
  {
+  "slug": "adhi-koreksi-penundaan-bunga-obligasi-kupon-menumpuk-juli-2027",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Koreksi Penundaan Bunga Obligasi, [Kupon] Menumpuk Juli 2027",
+  "deck": "BEI mengoreksi pengumuman restrukturisasi obligasi ADHI, menegaskan hasil RUPO 6 Agustus 2026 untuk seri ADHI04CN1 senilai Rp102,715 miliar, dengan dua jadwal kupon bergeser ke 9 Juli 2027.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "restrukturisasi utang",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2acab768c2_d8b3f14977.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
@@ -129,6 +241,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-0345-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kuas-bantah-ada-informasi-material-di-balik-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "KUAS Bantah Ada Informasi Material di Balik [Volatilitas] Transaksi",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, PT Ace Oldfields Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi yang memicu volatilitas transaksi sahamnya belakangan ini.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KUAS",
+   "Ace Oldfields",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/823c5d6b05_041fddd940.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6406,142 +6534,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460225-harga-pangan-jelang-hut-ri-cabai-rawit-merah-tembus-rp62650-per-kilogram"
- },
- {
-  "slug": "minat-trading-naik-edukasi-soal-broker-jadi-sorotan",
-  "category": "Pasar Modal",
-  "title": "Minat Trading Naik, Edukasi soal Broker Jadi [Sorotan]",
-  "deck": "Di tengah meningkatnya minat trading di Indonesia, edukasi mulai bergeser ke pemahaman mekanisme broker dan Introducing Broker, bukan sekadar strategi jual beli.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/minat-trading-naik-edukasi-soal-broker-jadi-sorotan.jpg",
-  "imageV": "msv9owxv",
-  "tags": [
-   "trading",
-   "edukasi keuangan",
-   "broker",
-   "media sosial"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460180-peminat-meningkat-berlin-tradelab-sokong-literasi-dan-edukasi-trading-di-indonesia"
- },
- {
-  "slug": "gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada",
-  "category": "Energi",
-  "title": "Gempa M7,7 Guncang NTT, Badan Geologi Minta Warga [Waspada]",
-  "deck": "Gempa M7,7 di Timur Laut Nagekeo dirasakan hingga NTB, Bali, dan Sulawesi Selatan. Badan Geologi ESDM minta warga waspada gempa susulan dan longsor tebing.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/gempa-m7-7-guncang-ntt-badan-geologi-minta-warga-waspada.jpg",
-  "imageV": "msuj016s",
-  "tags": [
-   "gempa bumi",
-   "Nusa Tenggara Timur",
-   "Badan Geologi",
-   "mitigasi bencana"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/gempa-m77-di-timur-laut-nagekeo-badan-geologi-ingatkan-warga-patuhi-jalur-evakuasi",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii",
-  "category": "Makroekonomi",
-  "title": "Mensesneg: RI Berpeluang Besar Tarik Investor lewat [PFII]",
-  "deck": "Mensesneg Prasetyo Hadi menjelaskan alasan pembentukan PFII di Jakarta dan Bali, menyusul rencana Presiden Prabowo Subianto dan minat investor Asia yang melebihi undangan.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/mensesneg-ri-berpeluang-besar-tarik-investor-lewat-pfii.jpg",
-  "imageV": "msuj0235",
-  "tags": [
-   "PFII",
-   "Investasi Asing",
-   "Mensesneg",
-   "Bali"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460161-mensesneg-beberkan-alasan-perlunya-pfii-dibentuk-ri-dinilai-punya-potensi-besar-di-mata-investor-global-ada-peluang"
- },
- {
-  "slug": "meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55",
-  "category": "Aksi Korporasi",
-  "title": "MEDS: Komisaris Lepas 3 Juta Saham Lagi, Suara [54,55%]",
-  "deck": "Dewan Komisaris Hetzer Medical Indonesia, Jemmy Kurniawan, menjual 3 juta saham MEDS pada 13 Agustus 2026 seharga Rp72-73 per lembar, hak suaranya turun tipis ke 54,55 persen.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/meds-komisaris-lepas-3-juta-saham-lagi-suara-54-55.jpg",
-  "imageV": "msxg3hvr",
-  "tags": [
-   "MEDS",
-   "Hetzer Medical Indonesia",
-   "Komisaris",
-   "Kepemilikan Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-15082026-7130-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-sabet-dua-penghargaan-bank-terbaik-asia-2026",
-  "category": "Perbankan",
-  "title": "BRI Sabet [Dua] Penghargaan Bank Terbaik Asia 2026",
-  "deck": "BRI meraih dua penghargaan di Asian Banking & Finance Awards 2026 di Singapura, ditopang lonjakan pengguna platform korporasi digital QLola.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/bri-sabet-dua-penghargaan-bank-terbaik-asia-2026.jpg",
-  "imageV": "msuf1r6a",
-  "tags": [
-   "BRI",
-   "QLola",
-   "perbankan digital",
-   "penghargaan internasional"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460137-tuai-pengakuan-global-transformasi-bri-raih-dua-penghargaan-asian-banking-finance-awards-2026"
- },
- {
-  "slug": "mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana",
-  "category": "BUMN",
-  "title": "Mensesneg: Amnesti Bos BUMN [Belum] Dibahas, Baru Wacana",
-  "deck": "Mensesneg Prasetyo Hadi menegaskan pengadilan ad hoc dan amnesti bagi petinggi BUMN bermasalah belum dibahas, baru sebatas semangat pembenahan tata kelola.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/mensesneg-amnesti-bos-bumn-belum-dibahas-baru-wacana.jpg",
-  "imageV": "msuaczcd",
-  "tags": [
-   "BUMN",
-   "korupsi",
-   "amnesti",
-   "pengadilan ad hoc"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460118-mensesneg-luruskan-wacana-pengadilan-ad-hoc-korupsi-bumn-dan-amnesti-petinggi-bermasalah-ini-maksudnya-prabowo"
- },
- {
-  "slug": "presiden-prabowo-china-beri-rating-aaa-ke-ri",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo: China Beri Rating [AAA] ke RI",
-  "deck": "Presiden Prabowo Subianto menyebut lembaga rating China memberi peringkat AAA untuk Panda Bonds RI, sementara S&P mempertahankan rating Indonesia di level BBB pada Juli 2026.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/presiden-prabowo-china-beri-rating-aaa-ke-ri.jpg",
-  "imageV": "msu6c3hx",
-  "tags": [
-   "prabowo subianto",
-   "ekonomi indonesia",
-   "peringkat kredit",
-   "panda bonds"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460088-prabowo-ungkap-ekonomi-indonesia-dapat-pengakuan-dunia-china-juga-beri-rating-aaa"
- },
- {
-  "slug": "patokan-harga-ekspor-emas-naik-0-65-per-15-agustus",
-  "category": "Industri",
-  "title": "Patokan Harga Ekspor Emas [Naik] 0,65% per 15 Agustus",
-  "deck": "Kemendag menaikkan Harga Patokan Ekspor dan Harga Referensi emas untuk periode 15-31 Agustus 2026, mengikuti kenaikan harga emas di pasar global.",
-  "date": "15 Agustus 2026",
-  "image": "assets/img/patokan-harga-ekspor-emas-naik-0-65-per-15-agustus.jpg",
-  "imageV": "msu5ueo8",
-  "tags": [
-   "emas",
-   "HPE",
-   "bea keluar",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/peningkatan-permintaan-emas-picu-kenaikan-hpe-dan-hr-emas-periode-ii-agustus-2026",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "BBSI Panggil RUPSLB Kedua, Usul [Komisaris] Baru",
+  "deck": "Krom Bank (BBSI) menggelar RUPSLB kedua pada 3 September 2026 setelah rapat pertama gagal kuorum, mengusulkan dua calon komisaris baru dan perubahan anggaran dasar.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBSI",
+   "RUPSLB",
+   "Krom Bank",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96d51fd2fd_62a6b8e594.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-panggil-rupslb-tegaskan-pemilik-baru-dan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Panggil RUPSLB, Tegaskan [Pemilik] Baru dan Direksi",
+  "deck": "MBSS mengundang RUPSLB 17 September 2026 untuk membahas pergantian direksi-komisaris, penegasan pemegang saham baru PT Wibowo Group Capital, dan perubahan alamat kantor pusat.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7f3d446d91_752aeff95e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Bagikan [Dividen] Interim Rp100 per Saham",
+  "deck": "Direksi Cisarua Mountain Dairy menetapkan dividen interim tunai Rp100 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 18 September 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMRY",
+   "dividen interim",
+   "Cimory",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0374a36ff6_89b055f8a4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham-rp793-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Bagikan Dividen Interim [Rp100] per Saham, Rp793 Miliar",
+  "deck": "Direksi Cimory memutuskan membagikan dividen interim tahun buku 2026 senilai total Rp793,47 miliar, dibayarkan mulai 18 September 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMRY",
+   "dividen interim",
+   "Cimory",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/26fdb8e915_2120070314.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gelar RUPSU, Minta [Penundaan] Bayar Sukuk",
+  "deck": "WIKA mengundang pemegang sukuknya ke RUPSU 15 September 2026 untuk menyetujui penundaan jatuh tempo dan pembayaran bagi hasil, serta pengesampingan gagal bayar bagi hasil ke-14.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7464230e2f_eb1b4c2f86.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-panggil-rupsu-15-september-ajukan-penundaan-jatuh-tempo-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU 15 September, Ajukan [Penundaan] Jatuh Tempo Sukuk",
+  "deck": "WIKA memanggil RUPSU pada 15 September 2026 untuk meminta persetujuan pemegang sukuk mengubah jadwal jatuh tempo pokok dan menunda pembayaran bagi hasil seri B dan C.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/573f173c0b_3d30d38f79.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-gelar-rupsu-sukuk-tahap-ii-minta-penundaan-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gelar RUPSU Sukuk Tahap II, Minta [Penundaan] Jatuh Tempo",
+  "deck": "WIKA memanggil RUPSU pemegang Sukuk Tahap II pada 10 September 2026, minta penundaan jatuh tempo dan bagi hasil serta pengesampingan gagal bayar bagi hasil ke-14.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0a319778c4_aebaad234a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-lagi-ajukan-penundaan-bayar-sukuk-rupsu-9-september",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Lagi] Ajukan Penundaan Bayar Sukuk, RUPSU 9 September",
+  "deck": "WIKA memanggil RUPSU untuk sukuk Berkelanjutan II Tahap I, meminta penundaan bagi hasil periode ke-20 dan ke-21 sekaligus perubahan jatuh tempo pokok.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/566d05e612_d4bfae210e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
   "category": "Aksi Korporasi",
   "title": "EURO Rombak [Komite Audit], Darren Nathaniel Tandra Jadi Ketua",
@@ -6402,135 +6530,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460383-dirut-pln-tinjau-langsung-keandalan-listrik-peringatan-hut-ke-81-ri"
- },
- {
-  "slug": "ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas",
-  "category": "Energi",
-  "title": "RUU Migas Lanjut, DPR Siapkan [BUK Migas] Ganti SKK Migas?",
-  "deck": "Baleg DPR menyetujui RUU Migas berlanjut ke pembahasan berikutnya, termasuk rencana BUK Migas di bawah Presiden sebagai tindak lanjut putusan MK yang dulu membubarkan BP Migas.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/ruu-migas-lanjut-dpr-siapkan-buk-migas-ganti-skk-migas.jpg",
-  "imageV": "msvye0ah",
-  "tags": [
-   "RUU Migas",
-   "BUK Migas",
-   "SKK Migas",
-   "Komisi XII DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460362-ruu-migas-melaju-ke-paripurna-dpr-siapkan-buk-migas-untuk-gantikan-skk-migas"
- },
- {
-  "slug": "bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang",
-  "category": "UMKM",
-  "title": "BRI Peduli [Dampingi] UMKM Camilan Sunda di Sumedang",
-  "deck": "Kelompok usaha camilan tradisional di Desa Cibubuan, Sumedang, mendapat pendampingan BRI Peduli lewat program AURA agar produksi tak lagi bergantung cuaca.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/bri-peduli-dampingi-umkm-camilan-sunda-di-sumedang.jpg",
-  "imageV": "msvuhid5",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460356-berkat-program-aura-bri-peduli-kelompok-usaha-harapan-bersama-di-sumedang-buka-peluang-ekonomi-di-desa"
- },
- {
-  "slug": "pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7",
-  "category": "Aksi Korporasi",
-  "title": "PNSE: Hotel [Komodo] Flores Tutup Sementara Usai Gempa M7,7",
-  "deck": "Anak usaha Pudjiadi & Sons Tbk menutup sementara Hotel Jayakarta Suites Komodo Flores usai gempa M7,7 mengguncang Nagakeo, NTT, Sabtu (15/8) pagi.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pnse-hotel-komodo-flores-tutup-sementara-usai-gempa-m7-7.jpg",
-  "imageV": "msxg1i61",
-  "tags": [
-   "PNSE",
-   "gempa bumi",
-   "hotel",
-   "Nusa Tenggara Timur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f1b223ee2c_9a23824300.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamax-diskon-rp450-per-liter-mulai-17-agustus",
-  "category": "Energi",
-  "title": "Pertamax [Diskon] Rp450 per Liter Mulai 17 Agustus",
-  "deck": "Pertamina Patra Niaga memberi potongan Rp450 per liter untuk Pertamax, Pertamax Turbo, dan Pertamina Dex lewat MyPertamina pada 17-18 Agustus, terbatas untuk 81.000 transaksi pertama.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pertamax-diskon-rp450-per-liter-mulai-17-agustus.jpg",
-  "imageV": "msvpso9m",
-  "tags": [
-   "Pertamina",
-   "BBM",
-   "MyPertamina",
-   "Diskon BBM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460322-pertamax-didiskon-rp450-per-liter-mulai-17-agustus-cek-syarat-dan-cara-mendapatkannya-di-mypertamina"
- },
- {
-  "slug": "telkom-pulihkan-85-jaringan-usai-gempa-ntt",
-  "category": "Teknologi",
-  "title": "Telkom [Pulihkan] 85% Jaringan usai Gempa NTT",
-  "deck": "Telkom memulihkan 85 persen dari 735 BTS Telkomsel dan 98,3 persen pelanggan IndiHome di NTT dalam waktu kurang dari sehari, sementara sejumlah kabel serat optik masih diperbaiki.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/telkom-pulihkan-85-jaringan-usai-gempa-ntt.jpg",
-  "imageV": "msvluam9",
-  "tags": [
-   "Telkom",
-   "Gempa NTT",
-   "Telekomunikasi",
-   "IndiHome"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460312-telkomgroup-kebut-perbaikan-layanan-pascagempa-ntt-85-konektivitas-pulih"
- },
- {
-  "slug": "pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7",
-  "category": "Energi",
-  "title": "PLN: Pasokan Listrik Flores [Pulih] usai Gempa M7,7",
-  "deck": "Seluruh 11 gardu induk PLN di Flores pulih dalam 12 jam pascagempa M7,7 NTT, namun satu jalur distribusi masih terganggu akibat tiang listrik roboh dan longsor.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pln-pasokan-listrik-flores-pulih-usai-gempa-m7-7.jpg",
-  "imageV": "msvlub1e",
-  "tags": [
-   "PLN",
-   "gempa NTT",
-   "Flores",
-   "listrik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460309-pln-pastikan-pasokan-listrik-utama-di-flores-kembali-normal-fokus-pulihkan-jaringan-distribusi-ke-masyarakat"
- },
- {
-  "slug": "gempa-flores-20-spbu-ntt-masih-tutup",
-  "category": "Energi",
-  "title": "Gempa Flores, 20 SPBU NTT Masih [Tutup]",
-  "deck": "Sebanyak 20 dari 52 SPBU di Flores belum beroperasi pascagempa 15 Agustus 2026, namun Pertamina Patra Niaga memastikan pasokan BBM dan LPG tetap terjaga dengan pemulihan bertahap.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/gempa-flores-20-spbu-ntt-masih-tutup.jpg",
-  "imageV": "msvlubgu",
-  "tags": [
-   "gempa flores",
-   "spbu",
-   "bbm",
-   "pertamina"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460306-pascagempa-flores-pertamina-patra-niaga-pastikan-distribusi-bbm-dan-lpg-tetap-berjalan-meski-sebagian-spbu-terdampak"
- },
- {
-  "slug": "harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam Pekan Depan Diprediksi [Tembus] Rp2,83 Juta",
-  "deck": "Pengamat memproyeksikan harga emas Antam bergerak di rentang Rp2.520.000-Rp2.830.000 per gram pekan depan, dipengaruhi harga emas dunia dan nilai tukar rupiah.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-pekan-depan-diprediksi-tembus-rp2-83-juta.jpg",
-  "imageV": "msxg21rl",
-  "tags": [
-   "emas",
-   "antam",
-   "logam mulia",
-   "harga emas"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460290-perdagangan-pekan-depan-harga-emas-antam-diprediksi-tembus-rp283-juta"
  }
 ];

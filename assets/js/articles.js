@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "BBSI Panggil RUPSLB Kedua, Usul [Komisaris] Baru",
+  "deck": "Krom Bank (BBSI) menggelar RUPSLB kedua pada 3 September 2026 setelah rapat pertama gagal kuorum, mengusulkan dua calon komisaris baru dan perubahan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T18:10:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96d51fd2fd_62a6b8e594.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBSI",
+  "tags": [
+   "BBSI",
+   "RUPSLB",
+   "Krom Bank",
+   "Komisaris"
+  ],
+  "body": [
+   "PT Krom Bank Indonesia Tbk (BBSI) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua pada Kamis, 3 September 2026 pukul 10.00 sampai 12.00 WIB di Jakarta Design Center, Ruang Orchid 3. Rapat ini digelar setelah RUPSLB pertama pada 20 Agustus 2026 gagal mencapai kuorum. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 24 Agustus 2026, dan rapat akan berlangsung baik secara fisik maupun elektronik melalui sistem eASY.KSEI.",
+   "Agenda pertama rapat adalah perubahan susunan pengurus. Perseroan mengusulkan pengangkatan Waldy Gutama dan Paulina J. Rietkamp sebagai anggota Dewan Komisaris baru, menggantikan Markus Sugiono yang mengundurkan diri. Pengangkatan keduanya baru berlaku efektif setelah lolos uji kemampuan dan kepatutan (fit and proper test) dari OJK dan disetujui dalam rapat ini. Agenda kedua adalah persetujuan perubahan remunerasi direksi dan dewan komisaris untuk tahun buku 2026, meski dokumen ini tidak menyebutkan besaran nominalnya.",
+   "Agenda ketiga adalah perubahan anggaran dasar perseroan yang mencakup empat pasal. Pasal 3 disesuaikan dengan aturan klasifikasi lapangan usaha terbaru dari Badan Pusat Statistik. Pasal 14 ayat 10 mengatur anggota direksi yang mengundurkan diri wajib memberi tahu perseroan tertulis paling lambat 90 hari kalender sebelumnya. Pasal 15 ayat 1 dan tambahan ayat 8 mengatur batasan dan kewenangan direksi mewakili perseroan di dalam dan luar pengadilan. Pasal 16 ayat 15 memperbolehkan rapat direksi diikuti lewat telepon atau video konferensi, sementara Pasal 17 ayat 1 dan 9 mengatur komposisi dewan komisaris serta aturan pemberitahuan pengunduran diri yang sama, yaitu 90 hari kalender sebelumnya."
+  ],
+  "fotoAdegan": "Empty rows of conference chairs facing a podium in a modern meeting hall, tall windows, soft morning light",
+  "takeaway": "Laporan ini netral bagi Krom Bank karena isinya prosedur lanjutan atas rapat pertama yang gagal kuorum, tanpa indikasi baru yang memberatkan atau menguntungkan kondisi keuangan bank. Pos yang tersentuh adalah struktur pengurus dan remunerasi, sebab pergantian komisaris dan penyesuaian gaji direksi maupun komisaris akan masuk ke beban operasional bank, meski besarannya belum diumumkan dalam dokumen ini. Perubahan anggaran dasar yang diusulkan sifatnya administratif, seperti penyesuaian klasifikasi usaha dan aturan internal direksi, sehingga tidak berdampak langsung ke kinerja keuangan. Yang perlu dipantau selanjutnya adalah hasil RUPSLB kedua pada 3 September 2026, termasuk apakah kuorum kali ini tercapai dan apakah dua calon komisaris, Waldy Gutama dan Paulina J. Rietkamp, lolos uji kemampuan dan kepatutan OJK sebelum pengangkatan mereka resmi berlaku.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbss-panggil-rupslb-tegaskan-pemilik-baru-dan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "MBSS Panggil RUPSLB, Tegaskan [Pemilik] Baru dan Direksi",
+  "deck": "MBSS mengundang RUPSLB 17 September 2026 untuk membahas pergantian direksi-komisaris, penegasan pemegang saham baru PT Wibowo Group Capital, dan perubahan alamat kantor pusat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:42:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7f3d446d91_752aeff95e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "RUPSLB",
+   "Pergantian Direksi",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "PT Mitrabahtera Segara Sejati Tbk (MBSS) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 September 2026, pukul 10.00 WIB. Rapat digelar secara elektronik melalui aplikasi eASY.KSEI, dengan koordinasi pimpinan rapat, notaris, dan lembaga penunjang dilakukan di Sheraton Grand Gandaria City, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 24 Agustus 2026 pukul 16.15 WIB.",
+   "Rapat ini membawa tiga agenda. Pertama, perubahan susunan Direksi dan Dewan Komisaris perseroan, yang menurut perseroan dilandasi Pasal 15 dan 18 Anggaran Dasar serta POJK Nomor 33/2014 tentang Direksi dan Dewan Komisaris Emiten. Kedua, penegasan susunan pemegang saham perseroan menyusul selesainya peralihan saham dari PT Galley Adhika Arnawama kepada PT Wibowo Group Capital melalui mekanisme crossing di Pasar Negosiasi Bursa Efek Indonesia pada 31 Juli 2026. Ketiga, perubahan tempat kedudukan dan alamat kantor pusat perseroan, berdasarkan Pasal 1 ayat 1 Anggaran Dasar. Dokumen pemanggilan ini tidak merinci nama calon direksi/komisaris baru, jumlah saham yang berpindah tangan, maupun alamat kantor baru yang diusulkan.",
+   "Bagi pemegang saham yang ingin memberi kuasa secara tertulis, surat kuasa asli beserta bukti identitas wajib disampaikan langsung atau via surat tercatat kepada Biro Administrasi Efek, PT Datindo Entrycom, paling lambat tiga hari kerja sebelum rapat, yaitu 14 September 2026. Kuasa juga bisa diberikan secara elektronik melalui eASY.KSEI setelah pemegang saham terdaftar di AKSes.KSEI."
+  ],
+  "fotoAdegan": "Tugboat pushing a loaded coal barge along a wide brown river under an overcast sky in Kalimantan",
+  "takeaway": "Pemanggilan RUPSLB ini condong netral karena baru mengundang rapat untuk mengesahkan perubahan yang faktanya sudah berjalan, sementara detail penentu seperti siapa direksi baru, berapa jumlah saham yang berpindah dari PT Galley Adhika Arnawama ke PT Wibowo Group Capital, dan di mana kantor pusat baru berada belum diungkap di dokumen ini. Yang tersentuh dari agenda rapat adalah struktur pengendalian dan tata kelola perseroan, yakni siapa yang duduk di direksi-komisaris dan siapa pemegang saham utama, bukan angka keuangan seperti ekuitas atau laba per saham, meski pergantian pengendali biasanya ikut memengaruhi arah strategi bisnis ke depan. Pelaku pasar perlu memantau hasil RUPSLB pada 17 September 2026, termasuk susunan direksi-komisaris definitif dan porsi kepemilikan PT Wibowo Group Capital yang resmi diakui perseroan. Tenggat penting lain adalah penyerahan surat kuasa tertulis ke Biro Administrasi Efek pada 14 September 2026 bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Bagikan [Dividen] Interim Rp100 per Saham",
+  "deck": "Direksi Cisarua Mountain Dairy menetapkan dividen interim tunai Rp100 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:21:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0374a36ff6_89b055f8a4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMRY",
+  "tags": [
+   "CMRY",
+   "dividen interim",
+   "Cimory",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Cisarua Mountain Dairy Tbk (CMRY) mengumumkan pembagian dividen interim tunai sebesar Rp100 per saham untuk tahun buku 2026. Keputusan ini diambil Direksi pada 26 Agustus 2026 dan telah disetujui Dewan Komisaris. Perseroan menyertakan data keuangan per 30 Juni 2026 sebagai dasar pembagian: laba bersih yang diatribusikan kepada entitas induk tercatat Rp1,17 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp3,34 triliun, dan total ekuitas perusahaan Rp7,16 triliun.",
+   "Jadwal pembagian dividen sudah ditetapkan secara rinci. Periode cum dividen, saat saham masih membawa hak atas dividen, berakhir 3 September 2026 di pasar reguler dan negosiasi, serta 7 September 2026 di pasar tunai. Masa ex dividen, saat saham sudah tidak lagi membawa hak dividen, dimulai 4 September 2026 di pasar reguler dan negosiasi, serta 8 September 2026 di pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) jatuh pada 7 September 2026 pukul 16.00 WIB, dan pembayaran dijadwalkan pada 18 September 2026 melalui KSEI bagi saham dalam penitipan kolektif, atau melalui cek yang dikirim langsung bagi saham di luar penitipan kolektif.",
+   "Perseroan juga mengingatkan ketentuan pajak. Pemegang saham wajib pajak badan dalam negeri yang belum melaporkan NPWP diminta menyerahkan salinannya ke KSEI atau Biro Administrasi Efek paling lambat 10 September 2026 pukul 16.00 WIB agar dividen tidak dikenakan pajak penghasilan sesuai aturan Cipta Kerja. Pemegang saham asing yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda harus menyerahkan dokumen DGT atau Surat Keterangan Domisili pada tenggat yang sama, jika tidak dividen akan dipotong PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Dairy cows grazing on a misty hillside farm near Puncak, West Java, mountains in the background, early morning light",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi CMRY, karena keputusan membagi kas ke pemegang saham di luar jadwal tahunan biasa biasanya mencerminkan keyakinan manajemen terhadap arus kas perusahaan sepanjang sisa tahun. Pos yang tersentuh adalah kas dan ekuitas: uang untuk membayar dividen keluar dari kas perusahaan dan mengurangi saldo laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagikan, namun nilainya masih jauh lebih kecil dibanding total ekuitas Rp7,16 triliun yang jadi bantalan keuangan perusahaan, sehingga dampaknya terhadap kesehatan neraca tergolong tipis. Laba bersih Rp1,17 triliun yang menjadi dasar perhitungan juga menunjukkan dividen ini didukung oleh keuntungan riil, bukan dari kas cadangan yang dipaksakan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 7 September 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta realisasi pembayaran pada 18 September 2026 sebagai bukti perusahaan menepati jadwal yang sudah diumumkan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham-rp793-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Bagikan Dividen Interim [Rp100] per Saham, Rp793 Miliar",
+  "deck": "Direksi Cimory memutuskan membagikan dividen interim tahun buku 2026 senilai total Rp793,47 miliar, dibayarkan mulai 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:18:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/26fdb8e915_2120070314.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMRY",
+  "tags": [
+   "CMRY",
+   "dividen interim",
+   "Cimory",
+   "dividen"
+  ],
+  "body": [
+   "Direksi PT Cisarua Mountain Dairy Tbk (CMRY), produsen Cimory, pada 26 Agustus 2026 dengan persetujuan Dewan Komisaris memutuskan membagikan dividen interim tahun buku 2026 sebesar Rp100 per saham. Total dividen yang dibagikan mencapai Rp793.468.300.000 atau sekitar Rp793,47 miliar. Surat keterbukaan informasi ini ditandatangani Direktur Martua Sihaloho dan disampaikan ke OJK oleh Sekretaris Perusahaan Dinar Primasari.",
+   "Perseroan menetapkan jadwal rinci pembagian dividen. Perdagangan saham dengan hak dividen (cum dividen) berakhir pada 3 September 2026 di pasar reguler dan negosiasi, serta 7 September 2026 di pasar tunai. Perdagangan tanpa hak dividen (ex dividen) dimulai sehari setelahnya, yakni 4 September untuk pasar reguler dan negosiasi, dan 8 September untuk pasar tunai. Tanggal pencatatan pemegang saham yang berhak (recording date) jatuh pada 7 September 2026, dan pembayaran dilakukan pada 18 September 2026, disalurkan melalui KSEI bagi saham dalam penitipan kolektif atau melalui cek yang dikirim ke alamat pemegang saham bagi yang di luar penitipan kolektif.",
+   "Perseroan juga mengingatkan kewajiban pajak terkait dividen ini. Wajib pajak badan dalam negeri yang belum menyerahkan NPWP diminta menyampaikannya ke KSEI atau Biro Administrasi Efek paling lambat 10 September 2026 pukul 16.00 WIB agar dividen tidak dipotong pajak penghasilan, dengan syarat tambahan bagi wajib pajak orang pribadi berupa kewajiban menginvestasikan kembali dividen di dalam negeri. Pemegang saham asing yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda wajib menyerahkan dokumen DGT atau Surat Keterangan Domisili pada tenggat yang sama, jika tidak dividen akan dipotong pajak penghasilan pasal 26 sebesar 20 persen. Perseroan menyatakan pembagian dividen ini tidak berdampak material terhadap operasional, hukum, maupun kondisi keuangan perusahaan."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting rows of glass milk bottles moving along a modern dairy processing line.",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi CMRY, karena keputusan membagi kas sebelum tutup tahun buku dengan nilai yang cukup besar, hampir Rp793,5 miliar, biasanya mencerminkan keyakinan manajemen terhadap arus kas perusahaan ke depan. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan, karena ratusan miliar rupiah akan keluar dari kas Cimory, serta ekuitas atau modal pemegang saham, yang akan berkurang sebesar nilai dividen karena diambil dari laba ditahan. Pelaku pasar memperhatikan pos ini karena dividen besar mengurangi kas yang bisa dipakai perseroan untuk ekspansi atau menghadapi kebutuhan mendadak, meski di sisi lain menunjukkan perusahaan punya kas berlebih. Yang perlu dipantau berikutnya adalah tenggat 10 September 2026 pukul 16.00 WIB bagi pemegang saham untuk melengkapi dokumen pajak, serta tanggal pembayaran dividen pada 18 September 2026 yang menjadi penentu akhir realisasi rencana ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gelar RUPSU, Minta [Penundaan] Bayar Sukuk",
+  "deck": "WIKA mengundang pemegang sukuknya ke RUPSU 15 September 2026 untuk menyetujui penundaan jatuh tempo dan pembayaran bagi hasil, serta pengesampingan gagal bayar bagi hasil ke-14.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:02:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7464230e2f_eb1b4c2f86.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) melalui wali amanat PT Bank Mega Tbk mengundang para pemegang Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 untuk menghadiri Rapat Umum Pemegang Sukuk (RUPSU) pada Selasa, 15 September 2026, pukul 14.00 WIB di WIKA Tower 2, Jalan D.I. Panjaitan Kavling 9-10, Jakarta Timur. Rapat ini diselenggarakan atas permintaan WIKA selaku emiten.",
+   "Ada empat agenda yang diajukan. Pertama, persetujuan perubahan jatuh tempo pembayaran kembali dana sukuk yang diatur dalam Pasal 5 ayat 5.3 perjanjian perwaliamanatan. Kedua, persetujuan perubahan atau penundaan jadwal pembayaran bagi hasil ke-14 seri A serta bagi hasil ke-15 seri B dan seri C. Ketiga, penundaan jadwal pembayaran bagi hasil ke-15 seri A serta bagi hasil ke-16 seri B dan seri C. Keempat, persetujuan pengesampingan atas pelanggaran karena WIKA belum memenuhi kewajiban pembayaran bagi hasil ke-14 seri A serta bagi hasil ke-15 seri B dan seri C.",
+   "RUPSU dinyatakan sah bila dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari jumlah sukuk yang belum dilunasi, dan keputusan mengikat bila disetujui minimal tiga perempat dari pemegang sukuk yang hadir. Pemegang sukuk yang berhak ikut adalah yang namanya tercatat di Daftar Pemegang Rekening KSEI tiga hari kerja sebelum RUPSU digelar, dan sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara dalam rapat ini."
+  ],
+  "fotoAdegan": "Idle cranes and unfinished concrete pillars at a quiet construction site, overcast sky, few workers present, Indonesia",
+  "takeaway": "RUPSU ini negatif bagi WIKA, karena secara resmi mengonfirmasi bahwa perseroan belum mampu membayar bagi hasil sukuk seri A yang jatuh tempo pada periode ke-14, sejalan dengan pemangkasan peringkat menjadi gagal bayar oleh Pefindo pekan lalu. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan menyediakan uang tunai untuk membayar kewajiban tepat waktu, karena permintaan penundaan jatuh tempo pokok dan jadwal bagi hasil berarti WIKA belum punya cukup dana untuk melunasinya sesuai jadwal semula. Persetujuan ini butuh dukungan minimal tiga perempat suara dari pemegang sukuk yang hadir, sehingga hasilnya belum pasti. Yang perlu dipantau berikutnya adalah jalannya RUPSU pada 15 September 2026, karena jika pemegang sukuk menolak permintaan penundaan dan pengesampingan pelanggaran ini, status gagal bayar WIKA berpotensi berlanjut tanpa jalan restrukturisasi yang disepakati.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-panggil-rupsu-15-september-ajukan-penundaan-jatuh-tempo-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Panggil RUPSU 15 September, Ajukan [Penundaan] Jatuh Tempo Sukuk",
+  "deck": "WIKA memanggil RUPSU pada 15 September 2026 untuk meminta persetujuan pemegang sukuk mengubah jadwal jatuh tempo pokok dan menunda pembayaran bagi hasil seri B dan C.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:01:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/573f173c0b_3d30d38f79.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melalui corporate secretary Mahendra Vijaya mengumumkan panggilan Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan I Wijaya Karya Tahap I Tahun 2020. Rapat dijadwalkan Selasa, 15 September 2026 pukul 09.00 WIB di WIKA Tower 2, Jalan D.I. Panjaitan Kavling 9-10, Jakarta Timur. Panggilan ini diterbitkan oleh PT Bank Mega Tbk selaku wali amanat berdasarkan Perjanjian Perwaliamanatan Akta No. 36 tanggal 22 September 2020, dan diadakan atas permintaan WIKA sendiri selaku emiten.",
+   "Ada tiga agenda yang diajukan. Pertama, perubahan Pasal 5 ayat 5.3 perjanjian perwaliamanatan mengenai perubahan jatuh tempo pembayaran kembali dana pokok sukuk. Kedua, perubahan Pasal 5 ayat 5.5 mengenai perubahan dan/atau penundaan jadwal pembayaran bagi hasil ke-22 Sukuk Seri B dan bagi hasil ke-23 Sukuk Seri C. Ketiga, perubahan pasal yang sama untuk penundaan pembayaran bagi hasil ke-23 Seri B dan bagi hasil ke-24 Seri C.",
+   "RUPSU dinyatakan sah apabila dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari jumlah sukuk yang masih belum dilunasi, dan keputusan mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir dalam rapat. Yang berhak hadir dan bersuara adalah pemegang sukuk yang namanya tercatat di Daftar Pemegang Rekening KSEI tiga hari kerja sebelum RUPSU, sementara sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara, kecuali afiliasi itu terbentuk karena kepemilikan pemerintah."
+  ],
+  "fotoAdegan": "Idle construction cranes at a large infrastructure project site in Jakarta under an overcast afternoon sky.",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena panggilan RUPSU ini tidak cuma meminta penundaan bagi hasil, tapi juga mengajukan perubahan jatuh tempo pembayaran pokok sukuk, tanda tekanan arus kas yang lebih dalam dari sekadar telat bayar bunga. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar tersedia untuk membayar kewajiban, dan beban bunga dari sukuk yang belum lunas, karena permintaan mundur jadwal ini berarti kas perusahaan belum cukup melunasi kewajiban sesuai jadwal semula. Ini melengkapi sinyal gagal bayar yang sebelumnya sudah dikonfirmasi lewat penurunan peringkat Pefindo ke idD untuk obligasi dan sukuk WIKA senilai Rp2,47 triliun. Yang perlu dipantau adalah hasil RUPSU pada 15 September 2026, khususnya apakah kuorum kehadiran tiga perempat dari total sukuk yang belum dilunasi terpenuhi, dan apakah usulan penundaan serta perubahan jatuh tempo itu disetujui oleh tiga perempat pemegang sukuk yang hadir.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-gelar-rupsu-sukuk-tahap-ii-minta-penundaan-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Gelar RUPSU Sukuk Tahap II, Minta [Penundaan] Jatuh Tempo",
+  "deck": "WIKA memanggil RUPSU pemegang Sukuk Tahap II pada 10 September 2026, minta penundaan jatuh tempo dan bagi hasil serta pengesampingan gagal bayar bagi hasil ke-14.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:59:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0a319778c4_aebaad234a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk memanggil Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022. Rapat akan digelar Kamis, 10 September 2026 pukul 14.00 WIB di WIKA Tower 2, Jl. D.I. Panjaitan Kavling 9-10, Jakarta Timur. Pengumuman ditandatangani Corporate Secretary WIKA, Mahendra Vijaya, dan wali amanat sukuk ini adalah PT Bank Mega Tbk. Rapat digelar atas permintaan WIKA sendiri selaku emiten.",
+   "Ada empat agenda yang diajukan. Pertama, perubahan Pasal 5 ayat 5.3 perjanjian perwaliamanatan mengenai perubahan jatuh tempo pembayaran kembali pokok dana sukuk. Kedua dan ketiga, perubahan Pasal 5 ayat 5.5 mengenai penundaan dan/atau perubahan jadwal pembayaran bagi hasil, masing-masing untuk periode ke-14 seri A dan ke-18 seri B serta C, dan untuk periode ke-15 seri A dan ke-19 seri B serta C. Agenda keempat adalah permintaan pengesampingan pelanggaran atas tidak terpenuhinya kewajiban pembayaran bagi hasil periode ke-14 seri A dan ke-18 seri B serta C, yang berarti WIKA secara resmi meminta pemegang sukuk memaafkan keterlambatan bayar yang sudah terjadi pada tranche ini.",
+   "RUPSU dinyatakan sah bila dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari jumlah sukuk yang belum dilunasi, dan keputusan mengikat bila disetujui minimal tiga perempat dari sukuk yang hadir. Sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara dan tidak dihitung dalam kuorum, kecuali afiliasi itu terjadi karena kepemilikan pemerintah. Pemegang sukuk yang hadir wajib membawa Konfirmasi Tertulis Untuk RUPSU (KTUR) dari KSEI, dan hak suara ditentukan dari catatan kepemilikan tiga hari kerja sebelum rapat."
+  ],
+  "fotoAdegan": "Elevated highway construction site with tower cranes and workers in safety vests at dusk, Jakarta skyline in background",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena untuk kesekian kalinya perseroan resmi meminta pemegang surat utangnya menunda pembayaran, kali ini untuk tranche Sukuk Tahap II sekaligus memohon pengampunan atas kewajiban bagi hasil ke-14 yang sudah telat dibayar. Yang tersentuh adalah arus kas dan kemampuan bayar utang WIKA, karena permintaan penundaan jatuh tempo pokok dan bagi hasil di berbagai tranche sukuk menunjukkan kas perusahaan belum cukup untuk memenuhi jadwal pembayaran yang sudah disepakati sebelumnya. Ini melengkapi rangkaian tekanan utang WIKA yang pekan ini juga mencakup RUPSU untuk tranche sukuk lain dan penurunan peringkat oleh Pefindo ke level D alias gagal bayar. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSU 10 September 2026, sebab keputusan baru mengikat jika disetujui pemegang sukuk yang mewakili minimal tiga perempat suara yang hadir, dan bila kuorum atau persetujuan tidak tercapai, status gagal bayar pada tranche ini bisa tetap menggantung.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-lagi-ajukan-penundaan-bayar-sukuk-rupsu-9-september",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Lagi] Ajukan Penundaan Bayar Sukuk, RUPSU 9 September",
+  "deck": "WIKA memanggil RUPSU untuk sukuk Berkelanjutan II Tahap I, meminta penundaan bagi hasil periode ke-20 dan ke-21 sekaligus perubahan jatuh tempo pokok.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:58:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/566d05e612_d4bfae210e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melalui wali amanatnya, PT Bank Mega Tbk, memanggil Rapat Umum Pemegang Sukuk (RUPSU) untuk pemegang Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021. Rapat dijadwalkan Rabu, 9 September 2026 pukul 14.00 WIB di WIKA Tower 2, Jalan D.I. Panjaitan Kavling 9-10, Jakarta Timur. RUPSU ini diselenggarakan atas permintaan WIKA sendiri selaku emiten, bukan atas inisiatif wali amanat atau pemegang sukuk.",
+   "Ada tiga agenda yang akan dimintakan persetujuan pemegang sukuk. Pertama, perubahan Pasal 5 ayat 5.3 Perjanjian Perwaliamanatan mengenai perubahan jatuh tempo pembayaran kembali dana pokok sukuk. Kedua dan ketiga, perubahan Pasal 5 ayat 5.5 mengenai penundaan dan/atau perubahan jadwal pembayaran pendapatan bagi hasil untuk dua periode sekaligus, yaitu periode ke-20 dan ke-21 dari sukuk yang diterbitkan berdasarkan Akta No. 7 tanggal 2 Juli 2021 di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito.",
+   "Yang berhak memberikan suara adalah pemegang sukuk yang tercatat di Daftar Pemegang Rekening KSEI tiga hari kerja sebelum RUPSU. Rapat baru sah jika dihadiri pemegang sukuk yang mewakili minimal tiga perempat dari total nilai sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga perempat dari sukuk yang hadir dalam rapat. Sukuk yang dimiliki WIKA sendiri atau afiliasinya tidak punya hak suara, kecuali afiliasi itu terjadi karena kepemilikan atau penyertaan modal pemerintah. Panggilan ini ditandatangani secara elektronik oleh Corporate Secretary WIKA, Mahendra Vijaya, pada 26 Agustus 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-fronted office tower in a Jakarta business district, late afternoon light, wide angle",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena perseroan kembali meminta pemegang sukuknya menunda pembayaran, kali ini untuk dua periode bagi hasil sekaligus plus perubahan jatuh tempo pokok, pada seri Sukuk Berkelanjutan II Tahap I yang berbeda dari seri A dan Tahap II yang sudah lebih dulu diumumkan. Bagi hasil adalah semacam bunga di produk sukuk syariah, dan meminta penundaan dua periode bagi hasil sekaligus (ke-20 dan ke-21) menandakan arus kas perseroan belum cukup untuk memenuhi kewajiban rutin ke pemegang surat utang, sementara perubahan jatuh tempo pokok berarti uang investor yang seharusnya kembali pada tanggal tertentu akan mundur dari jadwal semula. Ini sejalan dengan pemangkasan peringkat WIKA ke idD oleh Pefindo pekan lalu, yang mengonfirmasi status gagal bayar atas obligasi dan sukuk senilai Rp2,47 triliun. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSU 9 September 2026, karena persetujuan baru sah jika disetujui minimal tiga perempat pemegang sukuk yang hadir, dan bila kuorum atau persetujuan itu tidak tercapai, ketidakpastian penyelesaian kewajiban WIKA ke pemegang sukuk ini bisa berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
   "category": "Aksi Korporasi",
   "title": "EURO Rombak [Komite Audit], Darren Nathaniel Tandra Jadi Ketua",

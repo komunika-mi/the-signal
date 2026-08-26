@@ -21,6 +21,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dpr-soroti-gaji-31-000-karyawan-pos-indonesia",
+  "category": "BUMN",
+  "title": "DPR Soroti [Gaji] 31.000 Karyawan Pos Indonesia",
+  "deck": "DPR menerima audiensi PT Pos Indonesia soal kepastian gaji 31.000 karyawan yang jatuh tempo 1 September, di tengah keuangan perusahaan yang terpuruk dan tagihan Kemensos yang belum cair.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/dpr-soroti-gaji-31-000-karyawan-pos-indonesia.jpg",
+  "imageV": "mt9sq4cy",
+  "tags": [
+   "PT Pos Indonesia",
+   "DPR",
+   "BUMN",
+   "gaji karyawan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462650-pimpinan-dpr-gelar-audiensi-bahas-nasib-pt-pos-indonesia-soroti-kepastian-gaji-31000-karyawan"
+ },
+ {
+  "slug": "purbaya-pastikan-anggaran-karhutla-siap-cair",
+  "category": "Makroekonomi",
+  "title": "Purbaya Pastikan Anggaran Karhutla [Siap] Cair",
+  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa memastikan dana tambahan penanganan karhutla siap cair begitu BNPB mengajukan rincian kebutuhan biaya.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/purbaya-pastikan-anggaran-karhutla-siap-cair.jpg",
+  "imageV": "mt9sq526",
+  "tags": [
+   "karhutla",
+   "BNPB",
+   "Kemenkeu",
+   "anggaran bencana"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462648-purbaya-pastikan-siap-tambah-dana-untuk-atasi-karhutla"
+ },
+ {
   "slug": "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
   "category": "Aksi Korporasi",
   "title": "WEGE Raih [Kontrak] Baru Rp775 Miliar, Naik 568% YoY",
@@ -671,7 +705,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6500,39 +6534,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/43bf5c345e_062fe42a5c.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri",
-  "category": "Energi",
-  "title": "PLN Siagakan [45 Ribu] Personel Amankan Listrik HUT RI",
-  "deck": "PLN mengerahkan puluhan ribu personel dan ribuan unit cadangan daya untuk mengamankan pasokan listrik jelang HUT ke-81 Kemerdekaan RI pada 17 Agustus 2026.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pln-siagakan-45-ribu-personel-amankan-listrik-hut-ri.jpg",
-  "imageV": "msv9ow1x",
-  "tags": [
-   "PLN",
-   "kelistrikan",
-   "HUT RI",
-   "Flores"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460242-dirut-pln-kawal-langsung-kelistrikan-nasional-jelang-hut-ke-81-kemerdekaan-ri-dari-posko-ntt"
- },
- {
-  "slug": "jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg",
-  "category": "Makroekonomi",
-  "title": "Jelang HUT RI, Cabai Rawit [Melonjak] ke Rp62.650/Kg",
-  "deck": "Harga cabai rawit merah dan hijau melonjak tajam pada data PIHPS Bank Indonesia, sementara beras relatif stabil dan minyak goreng justru turun.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/jelang-hut-ri-cabai-rawit-melonjak-ke-rp62-650-kg.jpg",
-  "imageV": "msv6lvd0",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai rawit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460225-harga-pangan-jelang-hut-ri-cabai-rawit-merah-tembus-rp62650-per-kilogram"
  }
 ];

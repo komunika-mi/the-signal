@@ -28,6 +28,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dpr-soroti-gaji-31-000-karyawan-pos-indonesia",
+  "category": "BUMN",
+  "title": "DPR Soroti [Gaji] 31.000 Karyawan Pos Indonesia",
+  "deck": "DPR menerima audiensi PT Pos Indonesia soal kepastian gaji 31.000 karyawan yang jatuh tempo 1 September, di tengah keuangan perusahaan yang terpuruk dan tagihan Kemensos yang belum cair.",
+  "image": "assets/img/dpr-soroti-gaji-31-000-karyawan-pos-indonesia.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T14:26:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462650-pimpinan-dpr-gelar-audiensi-bahas-nasib-pt-pos-indonesia-soroti-kepastian-gaji-31000-karyawan",
+  "tags": [
+   "PT Pos Indonesia",
+   "DPR",
+   "BUMN",
+   "gaji karyawan"
+  ],
+  "body": [
+   "DPR RI menerima audiensi perwakilan PT Pos Indonesia untuk membahas kepastian pembayaran gaji 31.000 karyawan serta nasib 28.000 pensiunan perusahaan pelat merah itu. Pertemuan ini digelar di tengah kondisi keuangan PT Pos Indonesia yang tengah terpuruk, sehingga menimbulkan kekhawatiran soal kemampuan perusahaan membayar gaji yang jatuh tempo pada 1 September mendatang.",
+   "Audiensi di Gedung DPR, Rabu (26/8/2026), dihadiri Wakil Ketua DPR Sufmi Dasco Ahmad, Ketua Komisi VI Anggia Erma Rini, dan Wakil Ketua Komisi VI Andre Rosiade. Anggia menyebut kas PT Pos Indonesia saat ini tidak mencukupi, sehingga puluhan ribu karyawan dan pensiunan membutuhkan kepastian bahwa gaji tetap bisa dibayarkan tepat waktu.",
+   "Salah satu yang dibahas adalah tagihan PT Pos Indonesia ke Kementerian Sosial yang hingga kini belum dicairkan. Pimpinan DPR mengaku telah berkomunikasi dengan pemerintah, manajemen PT Pos, dan Danantara, lembaga yang kini menjadi induk pengelola sejumlah BUMN, agar dana tersebut segera cair, sekaligus meminta proses penyehatan PT Pos Indonesia dipercepat."
+  ],
+  "fotoAdegan": "Postal workers sorting parcels on a conveyor belt inside a busy distribution warehouse, forklifts moving crates nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8e92158a5b0-dpr-gelar-audiensi-dengan-pt-pos-indonesia-di-geduhg-dpr-jakarta-pusat-rabu-2682026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sinyal darurat: PT Pos Indonesia kehabisan kas untuk membayar gaji 31.000 karyawan yang jatuh tempo 1 September, dan salah satu sumber dana yang diharapkan adalah tagihan perusahaan ke Kementerian Sosial yang belum juga dibayar. Yang terdampak langsung adalah puluhan ribu karyawan aktif dan sekitar 28.000 pensiunan yang penghasilan serta uang pensiunnya bergantung pada arus kas perusahaan pelat merah ini. Arahnya sejauh ini adalah talangan jangka pendek, DPR mendorong pemerintah lewat Danantara mempercepat pencairan tagihan itu agar gaji bisa cair tepat waktu, sementara bentuk penyehatan jangka panjang PT Pos belum dijelaskan. Yang akan membuktikan apakah talangan ini berhasil adalah satu tanggal konkret, yakni apakah gaji benar-benar cair pada 1 September, karena kalau meleset dari tanggal itu berarti persoalan keuangan Pos Indonesia lebih dalam dari sekadar menunggu satu tagihan.",
+  "imageV": "mt9sq4cy"
+ },
+ {
+  "slug": "purbaya-pastikan-anggaran-karhutla-siap-cair",
+  "category": "Makroekonomi",
+  "title": "Purbaya Pastikan Anggaran Karhutla [Siap] Cair",
+  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa memastikan dana tambahan penanganan karhutla siap cair begitu BNPB mengajukan rincian kebutuhan biaya.",
+  "image": "assets/img/purbaya-pastikan-anggaran-karhutla-siap-cair.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T14:12:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462648-purbaya-pastikan-siap-tambah-dana-untuk-atasi-karhutla",
+  "tags": [
+   "karhutla",
+   "BNPB",
+   "Kemenkeu",
+   "anggaran bencana"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa memastikan anggaran negara untuk penanganan kebakaran hutan dan lahan (karhutla) sudah disiapkan dan bisa langsung dicairkan begitu Badan Nasional Penanggulangan Bencana (BNPB) mengajukan permintaan. Pernyataan itu disampaikannya saat dikonfirmasi di Kantor Kementerian Keuangan, Jakarta, Rabu, di tengah karhutla yang masih berlangsung di sejumlah wilayah.",
+   "Purbaya menyebut BNPB saat ini sudah memegang anggaran senilai Rp5 triliun untuk penanganan bencana nasional secara umum. Kementerian Keuangan sendiri belum menambah alokasi khusus untuk karhutla karena BNPB belum mengajukan rincian total kebutuhan biayanya, sebab penilaian kebutuhan itu masih terus berjalan seiring kondisi di lapangan.",
+   "Ia memperkirakan kebutuhan dana untuk karhutla kali ini tidak akan sebesar penanganan bencana di Aceh, yang menurutnya jauh lebih masif. Purbaya juga menegaskan tidak ada batas nilai anggaran tambahan yang boleh diajukan BNPB, dengan syarat pengajuan itu tidak digelembungkan, karena pendekatan pembiayaan bencana memang dibuat berbeda dari belanja pemerintah pada umumnya sebab menyangkut keselamatan banyak orang.",
+   "Sebelumnya, Presiden Prabowo Subianto menyampaikan bahwa penanganan karhutla di berbagai daerah dilakukan secara terpadu lintas sektor dengan pengerahan sumber daya dalam jumlah besar. Presiden Prabowo Subianto menyatakan optimistis persoalan ini bisa mulai teratasi dan tuntas dalam satu hingga dua minggu ke depan."
+  ],
+  "fotoAdegan": "Firefighters and volunteers hosing down smoldering peatland forest through thick haze in a rural Sumatran landscape, midday.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82bb19ac828-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan jumlah uangnya, sebab BNPB sudah pegang Rp5 triliun untuk bencana nasional secara umum, melainkan proses pencairannya: Kemenkeu menunggu BNPB mengajukan rincian biaya dulu sebelum menambah dana khusus karhutla, dengan syarat pengajuan itu tidak digelembungkan. Yang terdampak langsung adalah BNPB sebagai pelaksana di lapangan, serta warga di daerah yang masih terpapar asap dan kebakaran, karena kecepatan penanganan ikut bergantung pada seberapa cepat BNPB menghitung dan mengajukan kebutuhannya. Arahnya terlihat berhati-hati, pemerintah membuka pintu dana tambahan tanpa batas nominal, tapi menahan pencairan sampai ada angka pasti dari BNPB, sambil memperkirakan skalanya tidak akan sebesar bencana Aceh. Yang akan membuktikan perkiraan ini adalah apakah BNPB benar mengajukan anggaran tambahan dalam waktu dekat, dan apakah target Presiden Prabowo Subianto untuk menuntaskan karhutla dalam satu hingga dua minggu ke depan tercapai.",
+  "imageV": "mt9sq526"
+ },
+ {
   "slug": "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
   "category": "Aksi Korporasi",
   "title": "WEGE Raih [Kontrak] Baru Rp775 Miliar, Naik 568% YoY",
@@ -1079,7 +1132,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

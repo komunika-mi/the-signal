@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "1KLQyv9o92A",
+  "title": "Pembangunan Fasilitas Pengolahan Sampah Jadi Listrik Dimulai",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
+  "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur.",
+  "terbit": "2026-08-26T09:06:24+00:00"
+ },
+ {
   "id": "tyj_A0VFAYQ",
   "title": "Sandiaga Uno Jadi Presiden Komisaris MUTU International",
   "category": "Bisnis",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
   "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh.",
   "terbit": "2026-08-24T09:05:40+00:00"
- },
- {
-  "id": "z_ODNU76JNA",
-  "title": "Harga Daging Sapi Tembus Rp160 Ribu per Kg",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Harga daging sapi di pasar naik hingga Rp160.000 per kilogram, sehingga pemerintah menyiapkan langkah stabilisasi menggunakan dana APBN dan APBD.",
-  "takeaway": "Kenaikan harga daging sapi menjadi indikator tekanan inflasi pangan yang berdampak langsung pada daya beli masyarakat.",
-  "terbit": "2026-08-24T08:55:54+00:00"
  }
 ];

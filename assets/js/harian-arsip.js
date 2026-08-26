@@ -2,6 +2,81 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-08-26",
+  "tanggalLabel": "Rabu, 26 Agustus 2026",
+  "judul": "BUMN Karya Terjepit, Pasar Bergejolak, Kas Negara Tersendat",
+  "ringkas": "Tiga sinyal hari ini saling bersambung, tekanan arus kas di emiten konstruksi BUMN kian dalam, pasar saham bergerak liar tanpa pemicu fundamental yang jelas, dan pencairan dana pemerintah di dua sektor berbeda sama-sama tersandera proses administratif antar-lembaga.",
+  "benang": [
+   {
+    "judul": "BUMN Karya Makin Dalam di Tekanan Arus Kas Sukuk",
+    "isi": "WIKA memanggil pemegang sukuknya ke empat RUPSU berbeda dalam rentang 9 sampai 15 September, meminta penundaan jatuh tempo pokok dan bagi hasil untuk seri A, seri B dan C, Sukuk Tahap II, hingga Sukuk Berkelanjutan II Tahap I periode ke-20 dan ke-21, sekaligus memohon pengesampingan gagal bayar bagi hasil ke-14. Di saat bersamaan, BEI mengoreksi pengumuman restrukturisasi obligasi ADHI seri ADHI04CN1 senilai Rp102,715 miliar, yang menggeser dua jadwal kupon ke tanggal yang sama, 9 Juli 2027, sehingga menumpuk kewajiban ketimbang menghapusnya. WEGE, yang berada di klaster BUMN karya yang sama, mencatat kontrak baru naik 568 persen menjadi Rp775 miliar, namun lonjakan itu sebagian besar terjadi karena basis tahun lalu yang sangat rendah, cuma Rp116 miliar, dan perseroan tetap menyiapkan rencana divestasi aset lebih dari Rp1 triliun untuk memperkuat likuiditas. Ketiga emiten ini menunjuk ke arah yang sama, tekanan arus kas di sektor konstruksi pelat merah belum mereda dan malah menyebar ke lebih banyak instrumen utang. Yang akan menentukan apakah tekanan ini mereda atau berlanjut adalah hasil kuorum RUPSU WIKA pertengahan September, sebab persetujuan pemegang sukuk menentukan apakah penundaan berjalan tertib atau berubah menjadi gagal bayar resmi."
+   },
+   {
+    "judul": "Volatilitas Pasar Tanpa Pemicu Fundamental yang Jelas",
+    "isi": "IHSG sempat menembus 6.507 saat pembukaan, tapi ambruk 1,05 persen hanya dalam empat menit, dengan 388 dari 699 saham yang bergerak justru melemah, dan indeks akhirnya ditutup turun 1,48 persen ke 6.405,69. Pada saat yang sama, empat emiten kecil, SDMU, CARS, AEGS, dan KUAS, sama-sama mengirim surat ke BEI membantah ada informasi material di balik lonjakan transaksi saham mereka, sementara dua emiten lain, CSMI dan YPAS, malah diwajibkan menggelar public expose insidentil pada 28 Agustus setelah ditegur otoritas bursa. Pola hari ini, indeks yang berbalik arah dalam hitungan menit dan sederet saham kecil yang bergejolak tanpa kabar baru, menunjuk ke arah yang sama, pergerakan pasar hari ini lebih banyak didorong arus jual beli jangka pendek ketimbang perubahan fundamental perusahaan. Yang bisa mematahkan pembacaan ini adalah isi public expose CSMI dan YPAS pada 28 Agustus, kalau di sana muncul informasi fundamental baru yang selama ini belum terungkap ke publik."
+   },
+   {
+    "judul": "Pencairan Dana Pemerintah Tersendat Proses Administrasi",
+    "isi": "PT Pos Indonesia menghadapi tenggat gaji 31.000 karyawan pada 1 September di tengah kas yang menipis, dengan salah satu sumber dana yang diharapkan adalah tagihan ke Kementerian Sosial yang belum juga cair, sampai-sampai DPR menerima audiensi perusahaan soal ini. Di sektor lain, Menteri Keuangan Purbaya Yudhi Sadewa memastikan dana tambahan karhutla siap cair begitu BNPB mengajukan rincian kebutuhan biaya, meski BNPB sebenarnya sudah memegang Rp5 triliun dana bencana nasional. Kedua kasus ini menunjukkan pola yang sama, dana pemerintah tersedia secara nominal tapi pencairannya menunggu proses administratif antar-lembaga, bukan soal ada atau tidaknya anggaran. Bukti hari ini belum cukup untuk memastikan ke mana arah kasus Pos Indonesia, skenario pertama, Kemensos melunasi tagihan sebelum 1 September sehingga gaji cair tepat waktu, skenario kedua, proses administratif berlarut seperti pola yang sudah terjadi sehingga pembayaran gaji tertunda. Skenario kedua tampak sedikit lebih mungkin, sebab tagihan itu sudah menunggak cukup lama sampai perlu disorot DPR, tapi pembedanya jelas, apakah Kemensos benar mencairkan dana dalam waktu dekat. Ini akan ketahuan paling lambat pada 1 September 2026, saat tenggat gaji karyawan Pos Indonesia jatuh tempo."
+   }
+  ],
+  "penutup": "Titik paling dekat untuk diawasi adalah public expose CSMI dan YPAS pada 28 Agustus, dua hari lagi, yang akan menunjukkan apakah lonjakan transaksi saham hari ini murni spekulasi atau menyimpan sinyal fundamental yang belum terungkap. Setelah itu, tenggat gaji Pos Indonesia pada 1 September jadi ujian nyata pertama soal koordinasi pencairan dana antar-lembaga.",
+  "jumlahBahan": 50,
+  "bahanSlug": [
+   "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
+   "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
+   "wsbp-jadwalkan-rupslb-pada-2-oktober-2026",
+   "pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau",
+   "komdigi-sinar-mas-perluas-hub-digital-ke-10-kota",
+   "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
+   "mbss-panggil-rupslb-tegaskan-pemilik-baru-dan-direksi",
+   "cmry-bagikan-dividen-interim-rp100-per-saham",
+   "cmry-bagikan-dividen-interim-rp100-per-saham-rp793-miliar",
+   "nayz-saiko-pastikan-cuma-jalankan-tender-wajib-tak-ubah-saham",
+   "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
+   "wika-panggil-rupsu-15-september-ajukan-penundaan-jatuh-tempo-sukuk",
+   "wika-gelar-rupsu-sukuk-tahap-ii-minta-penundaan-jatuh-tempo",
+   "wika-lagi-ajukan-penundaan-bayar-sukuk-rupsu-9-september",
+   "excl-komisaris-vivek-sood-ajukan-pengunduran-diri",
+   "mcor-ralat-rupslb-recording-date-jadi-21-agustus",
+   "mdln-mayoritas-pemegang-notes-setujui-skema-restrukturisasi",
+   "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
+   "baut-terima-pinjaman-tanpa-bunga-rp44-79-miliar-dari-naf",
+   "sdmu-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+   "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
+   "dpr-soroti-gaji-31-000-karyawan-pos-indonesia",
+   "purbaya-pastikan-anggaran-karhutla-siap-cair",
+   "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
+   "bbni-jadwalkan-public-expose-9-september-bahas-kinerja-q2",
+   "adhi-gelar-public-expose-tahunan-9-september-2026",
+   "ypas-gelar-public-expose-insidentil-usai-diminta-bursa",
+   "beer-jadwalkan-rupslb-pada-2-oktober-2026",
+   "nayz-jadwalkan-rupslb-pada-2-oktober-2026",
+   "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
+   "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
+   "aegs-bantah-punya-info-material-di-balik-volatilitas-saham",
+   "wins-beri-jaminan-perusahaan-us-12-juta-untuk-anak-usaha",
+   "direksi-mcor-junianto-tambah-kepemilikan-500-200-saham",
+   "edge-vto-diperpanjang-partisipasi-publik-4-7",
+   "rupiah-menguat-tipis-ke-rp17-695-ikuti-asia",
+   "adhi-koreksi-penundaan-bunga-obligasi-kupon-menumpuk-juli-2027",
+   "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
+   "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
+   "kuas-bantah-ada-informasi-material-di-balik-volatilitas-transaksi",
+   "harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg",
+   "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",
+   "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
+   "ketr-tender-sukarela-rp523-diperpanjang-hingga-18-september",
+   "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
+   "swid-perkuat-bisnis-hospitality-di-yogyakarta",
+   "pipa-proyeksikan-laba-melonjak-dari-akuisisi-gas-skema-belum-final",
+   "meja-siapkan-right-issue-untuk-akuisisi-trimata-coal-perkasa",
+   "hexa-gelar-rupst-lb-17-september-ubah-pasal-anggaran-dasar",
+   "prtl-klarifikasi-akuisisi-10-86-saham-btel"
+  ],
+  "dibuat": "2026-08-26T14:39:24.069Z"
+ },
+ {
   "tanggal": "2026-08-25",
   "tanggalLabel": "Selasa, 25 Agustus 2026",
   "judul": "PLTS Capai 5 Persen, Kuorum Tentukan Nasib ADHI dan VISI",

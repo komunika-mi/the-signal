@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-25T21:37:54.077+07:00",
+ "diperbarui": "2026-08-26T21:40:11.477+07:00",
  "entri": [
+  {
+   "id": "2026-08-26-3",
+   "edisi": "2026-08-26",
+   "benang": "Pencairan Dana Pemerintah Tersendat Proses Administrasi",
+   "klaim": "Proses administratif antar-lembaga, bukan ketiadaan anggaran, akan menunda pembayaran gaji 31.000 karyawan Pos Indonesia karena tagihan ke Kementerian Sosial belum cair.",
+   "penanda": "Pencairan tagihan Kemensos ke Pos Indonesia sebelum tenggat gaji karyawan",
+   "tenggat": "2026-09-01",
+   "tenggatLabel": "tenggat gaji karyawan Pos Indonesia pada 1 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-26-2",
+   "edisi": "2026-08-26",
+   "benang": "Volatilitas Pasar Tanpa Pemicu Fundamental yang Jelas",
+   "klaim": "Pergerakan pasar hari ini lebih banyak didorong arus jual beli jangka pendek ketimbang perubahan fundamental perusahaan.",
+   "penanda": "Isi public expose insidentil CSMI dan YPAS",
+   "tenggat": "2026-08-28",
+   "tenggatLabel": "public expose insidentil CSMI dan YPAS pada 28 Agustus",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-26-1",
+   "edisi": "2026-08-26",
+   "benang": "BUMN Karya Makin Dalam di Tekanan Arus Kas Sukuk",
+   "klaim": "Tekanan arus kas di sektor konstruksi BUMN karya belum mereda dan malah menyebar ke lebih banyak instrumen utang.",
+   "penanda": "Hasil kuorum RUPSU WIKA yang menentukan apakah pemegang sukuk menyetujui penundaan pokok dan bagi hasil berjalan tertib atau berubah menjadi gagal bayar resmi",
+   "tenggat": "2026-09-15",
+   "tenggatLabel": "empat RUPSU WIKA dalam rentang 9 sampai 15 September",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-25-2",
    "edisi": "2026-08-25",
@@ -205,8 +238,13 @@ var RAPOR = {
    "penanda": "Keputusan BI Rate dalam Rapat Dewan Gubernur BI, yang diperkirakan bertahan di 5,75 persen",
    "tenggat": "2026-08-19",
    "tenggatLabel": "keputusan BI Rate yang dijadwalkan Rabu besok, 19 Agustus",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "rupiah-menguat-tipis-ke-rp17-695-ikuti-asia",
+    "judul": "Rupiah Menguat Tipis ke Rp17.695, Ikuti Asia",
+    "tanggal": "26 Agustus 2026",
+    "alasan": "Alih-alih tekanan pelemahan berlanjut, rupiah pada 26 Agustus 2026 justru menguat ke Rp17.695 mengikuti pola apresiasi mayoritas mata uang Asia lainnya."
+   }
   },
   {
    "id": "2026-08-17-2",

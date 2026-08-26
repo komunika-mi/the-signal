@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "O7NBqds3AqA",
+  "title": "Destry Damayanti Paparkan Visi Misi di Uji Kelayakan Calon Gubernur BI",
+  "category": "Moneter",
+  "program": "Kabar Petang",
+  "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
+  "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha.",
+  "terbit": "2026-08-26T11:28:29+00:00"
+ },
+ {
+  "id": "SCpPAhkbsOQ",
+  "title": "Audiensi DPR RI dengan Serikat Buruh PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
+  "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional.",
+  "terbit": "2026-08-26T11:27:51+00:00"
+ },
+ {
   "id": "1KLQyv9o92A",
   "title": "Pembangunan Fasilitas Pengolahan Sampah Jadi Listrik Dimulai",
   "category": "Energi",
@@ -90,23 +108,5 @@ var VIDEOS = [
   "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
   "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah.",
   "terbit": "2026-08-24T15:45:31+00:00"
- },
- {
-  "id": "V8tXxrsFCtc",
-  "title": "Peluncuran Danantara Sumber Daya Indonesia",
-  "category": "BUMN",
-  "program": "Kabar Utama",
-  "summary": "BPI Danantara resmi mengonfirmasi berdirinya PT Danantara Sumberdaya Indonesia (DSI) yang dibentuk melalui akta perusahaan sejak 1 Juni 2026, seperti disampaikan CEO BPI Danantara Rosan Roeslani.",
-  "takeaway": "Perkembangan ini penting bagi pembaca ekonomi karena menyangkut struktur baru pengelolaan aset dan investasi negara melalui BPI Danantara.",
-  "terbit": "2026-08-24T14:18:35+00:00"
- },
- {
-  "id": "sZlTPmyTGcQ",
-  "title": "Pemerintah Dukung Sertifikasi Pekerja Industri Kecantikan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
-  "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh.",
-  "terbit": "2026-08-24T09:05:40+00:00"
  }
 ];

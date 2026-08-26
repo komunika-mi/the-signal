@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
+  "category": "Energi",
+  "title": "ESDM Kirim [48] Genset ke Tujuh Kabupaten NTT Terdampak Gempa",
+  "deck": "Kementerian ESDM mengirim 48 genset untuk fasilitas kesehatan darurat di tujuh kabupaten NTT yang terdampak gempa dan tsunami, sembari mendirikan sekitar 30 posko tanggap darurat.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa.jpg",
+  "imageV": "mta5wfir",
+  "tags": [
+   "ESDM",
+   "gempa NTT",
+   "genset",
+   "tanggap darurat"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
   "category": "Aksi Korporasi",
   "title": "WSBP [Ratifikasi] Tambah Plafon Konversi Utang Rp6,1 Miliar",
@@ -35,6 +53,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/faa6f36c73_25d5251123.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau",
+  "category": "BUMN",
+  "title": "Pertamina Eco RunFest 2026 Usung [Tujuh] Inisiatif Hijau",
+  "deck": "Pertamina kembali menggelar Eco RunFest tahun ke-13 dengan tujuh inisiatif keberlanjutan, dan seluruh keuntungan tiket didonasikan penuh untuk program lingkungan.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau.jpg",
+  "imageV": "mta5wg8b",
+  "tags": [
+   "Pertamina",
+   "lingkungan",
+   "sampah",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462746-pertamina-eco-runfest-2026-kembali-digelar-hadirkan-tujuh-inisiatif-keberlanjutan-lingkungan"
+ },
+ {
+  "slug": "komdigi-sinar-mas-perluas-hub-digital-ke-10-kota",
+  "category": "Teknologi",
+  "title": "Komdigi-Sinar Mas [Perluas] Hub Digital ke 10 Kota",
+  "deck": "Komdigi dan Sinar Mas Land memperluas Garuda Spark Innovation Hub ke 10 kota lewat skema kerja sama pemerintah-swasta untuk ekosistem digital.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/komdigi-sinar-mas-perluas-hub-digital-ke-10-kota.jpg",
+  "imageV": "mta5wgwi",
+  "tags": [
+   "GSIH",
+   "Komdigi",
+   "Sinar Mas Land",
+   "ekosistem digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462737-garuda-spark-innovation-hub-gsih-diperluas-ke-10-kota-sinar-mas-siap-dukung-ekosistem-digital-indonesia"
  },
  {
   "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
@@ -1006,7 +1058,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6471,57 +6523,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/70b0fc9f4c_dca260c249.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Bidik Bursa [Mineral] untuk Kedaulatan Harga CPO-Nikel",
-  "deck": "Pemerintah menyiapkan Bursa Mineral dan Komoditas Strategis bernama Icomex untuk CPO, nikel, dan batu bara, ditargetkan beroperasi 1 Januari 2027.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/pemerintah-bidik-bursa-mineral-untuk-kedaulatan-harga-cpo-nikel.jpg",
-  "imageV": "msx5ibl2",
-  "tags": [
-   "bursa mineral",
-   "cpo",
-   "nikel",
-   "komoditas strategis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460555-mensesneg-beberkan-rencana-bursa-mineral-indonesia-pemerintah-bidik-kedaulatan-harga-cpo-hingga-nikel"
- },
- {
-  "slug": "mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026",
-  "category": "UMKM",
-  "title": "MDR QRIS 0 Persen UMKM Berlaku Mulai [Oktober] 2026",
-  "deck": "Bank Indonesia memperluas bebas biaya transaksi QRIS bagi UMKM mulai 1 Oktober 2026, dengan usaha mikro tetap mendapat keringanan penuh untuk transaksi hingga Rp500.000.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/mdr-qris-0-persen-umkm-berlaku-mulai-oktober-2026.jpg",
-  "imageV": "msx5ic4n",
-  "tags": [
-   "QRIS",
-   "UMKM",
-   "Bank Indonesia",
-   "MDR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460544-kabar-baik-untuk-umkm-mdr-qris-0-persen-berlaku-mulai-oktober-2026-transaksi-akan-bebas-biaya"
- },
- {
-  "slug": "bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027",
-  "category": "Moneter",
-  "title": "BI Targetkan Semua Limbah Uang Rupiah [Diolah] Ulang pada 2027",
-  "deck": "Bank Indonesia sudah mengolah 72 persen sisa uang kertas yang tak layak edar menjadi produk UMKM dan sumber energi, dengan target seluruh limbah terkelola secara sirkular pada 2027.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/bi-targetkan-semua-limbah-uang-rupiah-diolah-ulang-pada-2027.jpg",
-  "imageV": "msx1s4p3",
-  "tags": [
-   "Bank Indonesia",
-   "limbah uang",
-   "ekonomi sirkular",
-   "FERBI 2026"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816026.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

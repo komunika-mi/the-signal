@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
+  "category": "Energi",
+  "title": "ESDM Kirim [48] Genset ke Tujuh Kabupaten NTT Terdampak Gempa",
+  "deck": "Kementerian ESDM mengirim 48 genset untuk fasilitas kesehatan darurat di tujuh kabupaten NTT yang terdampak gempa dan tsunami, sembari mendirikan sekitar 30 posko tanggap darurat.",
+  "image": "assets/img/esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T13:58:00.398Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "gempa NTT",
+   "genset",
+   "tanggap darurat"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral mengirim 48 genset ke fasilitas kesehatan darurat di tujuh kabupaten Nusa Tenggara Timur yang rusak akibat gempa dan tsunami sepekan lalu. Genset itu disiapkan agar tenda-tenda puskesmas yang sebelumnya tidak punya sumber listrik sendiri tetap bisa melayani pengobatan warga yang mengungsi.",
+   "Presiden Prabowo Subianto meninjau langsung kondisi pengungsian di Lapangan Berdikari, Kabupaten Nagekeo, dan bertemu warga terdampak. Di antaranya Kristian Mauko, buruh lepas yang rumahnya di Desa Marapokot hancur, dan Maria Jomuku, petani yang rumahnya di Dusun Bandara retak dan memilih tetap mengungsi karena khawatir gempa susulan.",
+   "Menteri ESDM Bahlil Lahadalia melaporkan bahwa selain 48 genset, kementeriannya bersama pelaku usaha sektor energi juga telah mendirikan sekitar 30 posko tanggap darurat di wilayah terdampak. Bantuan ini merupakan kelanjutan dari program ESDM Siaga Bencana yang sebelumnya sudah menurunkan personel untuk pencarian dan pertolongan, layanan kesehatan, serta pemenuhan kebutuhan logistik di NTT.",
+   "Bagi warga seperti Kristian dan Maria, kebutuhan paling mendesak masih seputar keselamatan keluarga dan tempat tinggal yang aman selama masa tanggap darurat. Dukungan energi, kesehatan, dan logistik dari pemerintah menjadi bagian dari upaya bertahap sembari proses pemulihan di tujuh kabupaten terdampak berjalan."
+  ],
+  "fotoAdegan": "Workers unloading a portable generator near a health tent in a coastal disaster relief camp, cracked buildings in the background",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan-mk8gv5x.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah konkret di sini adalah pengiriman 48 unit genset ke tujuh kabupaten NTT yang terdampak gempa dan tsunami, untuk menghidupkan listrik di tenda-tenda puskesmas darurat yang sebelumnya tidak punya sumber daya sendiri, ditambah sekitar 30 posko tanggap darurat yang sudah berdiri bersama pelaku usaha sektor energi. Yang paling terdampak adalah warga tujuh kabupaten itu, terutama mereka yang kini bergantung pada layanan kesehatan darurat karena rumahnya rusak atau mereka memilih mengungsi akibat takut gempa susulan. Berita ini belum menyebutkan berapa lama genset itu akan dipakai atau kapan jaringan listrik permanen di wilayah terdampak diperbaiki, jadi belum bisa dibaca apakah ini murni bantuan darurat sementara atau awal dari proyek pemulihan energi yang lebih panjang. Yang perlu dicermati selanjutnya adalah kabar soal berakhirnya status tanggap darurat NTT dan pembaruan dari PLN mengenai perbaikan jaringan listrik permanen di tujuh kabupaten tersebut.",
+  "imageV": "mta5wfir"
+ },
+ {
   "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
   "category": "Aksi Korporasi",
   "title": "WSBP [Ratifikasi] Tambah Plafon Konversi Utang Rp6,1 Miliar",
@@ -53,6 +81,59 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting stacked precast concrete beams in an industrial yard under overcast morning light",
   "takeaway": "Laporan ini netral bagi WSBP karena isinya baru jadwal dan mekanisme RUPSLB, belum ada agenda atau angka keputusan yang bisa dinilai dampaknya terhadap keuangan perusahaan. Yang perlu diperhatikan, WSBP saat ini masih menjalani restrukturisasi utang lewat skema konversi utang menjadi saham baru, jadi kalau agenda RUPSLB nanti menyangkut penambahan modal atau konversi utang serupa, itu akan menambah jumlah saham beredar dan bisa mengurangi porsi kepemilikan serta laba per saham pemegang saham lama. Yang dipantau berikutnya adalah Pemanggilan Rapat yang berisi agenda lengkap, dijadwalkan terbit Kamis, 10 September 2026, sebelum rapat sendiri digelar Jumat, 2 Oktober 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau",
+  "category": "BUMN",
+  "title": "Pertamina Eco RunFest 2026 Usung [Tujuh] Inisiatif Hijau",
+  "deck": "Pertamina kembali menggelar Eco RunFest tahun ke-13 dengan tujuh inisiatif keberlanjutan, dan seluruh keuntungan tiket didonasikan penuh untuk program lingkungan.",
+  "image": "assets/img/pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T19:35:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462746-pertamina-eco-runfest-2026-kembali-digelar-hadirkan-tujuh-inisiatif-keberlanjutan-lingkungan",
+  "tags": [
+   "Pertamina",
+   "lingkungan",
+   "sampah",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pertamina (Persero) kembali menyelenggarakan Eco RunFest, tahun ini memasuki edisi ke-13 dengan tema \"Spark the Change, Leave Zero Trace\". Acara yang digelar di Jakarta ini mengajak masyarakat mengambil langkah nyata mengurangi penggunaan plastik dan memahami cara mengolah sampah, bukan sekadar ajang lari tahunan.",
+   "Direktur Manajemen Risiko Pertamina Ahmad Siddik Badruddin menyebut semangat keberlanjutan menjadi bagian penting dari penyelenggaraan tahun ini, sejalan dengan pergeseran Eco RunFest dari sekadar ajang olahraga menjadi festival yang menggabungkan olahraga, musik, gaya hidup, dan komunitas.",
+   "Vice President Corporate Communication Pertamina Muhammad Baron memaparkan tujuh inisiatif keberlanjutan yang dihadirkan tahun ini, yaitu eco jersey, eco innovation, eco mission, eco talent, eco production, eco waste management, dan eco education. Menurut Baron, inisiatif ini diterapkan langsung mulai dari material produksi, pembuatan jersey lari, hingga pengelolaan sampah di lokasi acara.",
+   "Baron juga menegaskan seluruh keuntungan dari penjualan tiket Pertamina Eco RunFest 2026 akan didonasikan 100 persen untuk mendukung pelaksanaan eco mission. Dengan skema ini, setiap peserta yang membeli tiket turut mendanai program lingkungan yang dijalankan Pertamina."
+  ],
+  "fotoAdegan": "Runners in colorful shirts jogging through an urban park at sunrise, volunteers sorting recyclable waste bins nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8edd07a1802-pt-pertamina-persero-kembali-menghadirkan-ajang-tahunan-bergengsi-pertamina-eco-runfest-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari tahun sebelumnya adalah cakupan program: Pertamina memperluas Eco RunFest dari satu acara olahraga menjadi tujuh inisiatif sekaligus, mulai dari bahan jersey, produksi acara, sampai pengelolaan sampah, dengan seluruh keuntungan tiket dialihkan penuh ke eco mission. Pihak yang langsung terkena dampak adalah peserta lari yang tiketnya kini otomatis menjadi donasi, serta program atau komunitas lingkungan penerima dana eco mission tersebut. Yang belum bisa dibaca dari sini adalah skala nyatanya, berita ini tidak menyebut berapa target jumlah peserta, berapa proyeksi dana yang terkumpul dari tiket, atau berapa realisasi program serupa di edisi-edisi sebelumnya. Tanpa angka pembanding itu, sulit menilai apakah inisiatif ketujuh ini benar memperbesar dampak lingkungan Pertamina atau sekadar pengemasan ulang kegiatan CSR tahunan. Yang perlu dicermati adalah laporan hasil acara setelah pelaksanaan, termasuk jumlah dana eco mission yang benar-benar terkumpul dan ke program mana dana itu disalurkan.",
+  "imageV": "mta5wg8b"
+ },
+ {
+  "slug": "komdigi-sinar-mas-perluas-hub-digital-ke-10-kota",
+  "category": "Teknologi",
+  "title": "Komdigi-Sinar Mas [Perluas] Hub Digital ke 10 Kota",
+  "deck": "Komdigi dan Sinar Mas Land memperluas Garuda Spark Innovation Hub ke 10 kota lewat skema kerja sama pemerintah-swasta untuk ekosistem digital.",
+  "image": "assets/img/komdigi-sinar-mas-perluas-hub-digital-ke-10-kota.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T19:14:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462737-garuda-spark-innovation-hub-gsih-diperluas-ke-10-kota-sinar-mas-siap-dukung-ekosistem-digital-indonesia",
+  "tags": [
+   "GSIH",
+   "Komdigi",
+   "Sinar Mas Land",
+   "ekosistem digital"
+  ],
+  "body": [
+   "Kementerian Komunikasi dan Digital lewat Direktorat Pengembangan Ekosistem Digital bersama sejumlah mitra usaha memperluas Garuda Spark Innovation Hub (GSIH) ke 10 kota sekaligus, yakni Jakarta, Batam, Medan, Bandung, Malang, Makassar, Papua, Yogyakarta, Aceh, dan Surabaya. Peresmian utama digelar di Biomedical Campus, BSD City, Tangerang Selatan, pada Rabu (26/8/2026). Perluasan ini penting karena menyatukan startup, talenta digital, pelaku usaha, investor, dan akademisi dalam satu ruang kerja bersama, bukan lagi tersebar dan berjalan sendiri-sendiri per sektor.",
+   "GSIH di BSD City lahir dari kerja sama Komdigi dan Sinar Mas Land memakai skema Private Owned, Government Operated: pihak swasta, dalam hal ini Sinar Mas Land, menyediakan gedung dan fasilitas fisiknya, sementara pemerintah yang mengelola program serta menjembatani pesertanya dengan investor dan mitra global. Managing Director Sinar Mas Ferry Salman mengatakan lokasi di Biomedical Campus diharapkan menarik lebih banyak inovator dan talenta kecerdasan buatan untuk berkumpul dan bersinergi, sekaligus membuka peluang usaha baru serta mendorong usaha mikro, kecil dan menengah naik kelas.",
+   "Menteri Komunikasi dan Digital Meutya Hafid menyebut kehadiran GSIH di berbagai daerah bertujuan menyatukan potensi pemerintah, dunia usaha, investor, akademisi, dan pelaku ekosistem digital dalam satu wadah. Ia menyebut inisiatif ini juga diharapkan ikut menopang target pertumbuhan ekonomi nasional sebesar 8 persen."
+  ],
+  "fotoAdegan": "Diverse young Indonesian professionals collaborating at shared desks with laptops in a bright modern innovation workspace",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8ed6e918e20-menkomdigi-dalam-peluncuran-garuda-spark-innovation-hub-gsih_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cakupan wilayah, dari satu pusat di BSD City menjadi serentak di 10 kota, memakai skema Private Owned, Government Operated: gedungnya disediakan Sinar Mas Land, sedangkan program dan jaringannya dipegang pemerintah lewat Komdigi. Yang terdampak adalah startup, talenta digital termasuk pengembang kecerdasan buatan, dan pelaku UMKM di kota-kota tersebut, yang kini punya akses ke ruang kolaborasi dengan investor dan mitra global. Berita ini belum menyebut berapa nilai investasi Sinar Mas Land untuk infrastrukturnya, berapa target jumlah startup atau UMKM yang akan dilayani di tiap kota, atau kapan program ini akan dievaluasi, jadi belum bisa dipastikan apakah perluasan ke 10 kota ini akan berlanjut ke kota lain atau berhenti di angka ini. Yang perlu dipantau adalah rincian program dan target capaian yang biasanya diumumkan menyusul setelah peresmian semacam ini.",
+  "imageV": "mta5wgwi"
  },
  {
   "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
@@ -1622,7 +1703,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

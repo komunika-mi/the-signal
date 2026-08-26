@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "9elIydie_0A",
+  "title": "Presiden AS Ancam Mitra Dagang Iran dengan Sanksi",
+  "category": "Global",
+  "program": "tvOneNews",
+  "summary": "Pemerintah Amerika Serikat memberlakukan sanksi ekonomi terhadap mitra dagang Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak berdasar pada resolusi PBB.",
+  "takeaway": "Sanksi dagang AS terhadap mitra Iran berpotensi mengganggu arus perdagangan dan pasar energi global yang relevan bagi pelaku bisnis.",
+  "terbit": "2026-08-26T13:38:59+00:00"
+ },
+ {
+  "id": "FsmWpvfeIds",
+  "title": "DPR Terima Audiensi Pekerja PT Pos Soal Gaji Telat",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "Perwakilan karyawan PT Pos Indonesia mengadukan keterlambatan pembayaran gaji 31.000 pegawai kepada pimpinan DPR RI dalam audiensi yang digelar bersama Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
+  "takeaway": "Persoalan gaji telat di BUMN logistik ini menyoroti tekanan keuangan PT Pos Indonesia yang berdampak langsung pada puluhan ribu pekerja.",
+  "terbit": "2026-08-26T13:30:01+00:00"
+ },
+ {
   "id": "O7NBqds3AqA",
   "title": "Destry Damayanti Paparkan Visi Misi di Uji Kelayakan Calon Gubernur BI",
   "category": "Moneter",
@@ -90,23 +108,5 @@ var VIDEOS = [
   "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
   "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan.",
   "terbit": "2026-08-25T08:58:33+00:00"
- },
- {
-  "id": "Vt7k2-tJw6M",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto meluncurkan sekaligus melakukan groundbreaking Program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Monumen Operasi Lintas Laut Jawa Bali.",
-  "takeaway": "Program PLTS berskala besar ini menandai langkah pemerintah memperluas energi terbarukan, hal yang relevan bagi arah investasi dan bauran energi nasional ke depan.",
-  "terbit": "2026-07-10T13:05:34+00:00"
- },
- {
-  "id": "Z66PZJknxSA",
-  "title": "Ratusan Karyawan Perusahaan Tambang di Konawe Selatan Kena PHK",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Hari Ini",
-  "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
-  "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah.",
-  "terbit": "2026-08-24T15:45:31+00:00"
  }
 ];

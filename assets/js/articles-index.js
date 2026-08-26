@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WSBP [Ratifikasi] Tambah Plafon Konversi Utang Rp6,1 Miliar",
+  "deck": "WSBP mengajukan ratifikasi RUPS untuk menambah plafon konversi utang menjadi saham, menampung tagihan tambahan Rp6,1 miliar dari tiga kreditur dagang baru yang baru terverifikasi.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5d1d1c0d91_11c644a0d5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wsbp-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "Waskita Beton Precast mengumumkan RUPSLB digelar 2 Oktober 2026 di Jakarta, agenda lengkapnya baru akan diumumkan pertengahan September.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "Waskita Beton Precast",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/faa6f36c73_25d5251123.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
   "category": "Aksi Korporasi",
   "title": "BBSI Panggil RUPSLB Kedua, Usul [Komisaris] Baru",
@@ -69,6 +101,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "nayz-saiko-pastikan-cuma-jalankan-tender-wajib-tak-ubah-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: Saiko Pastikan Cuma Jalankan [Tender] Wajib, Tak Ubah Saham",
+  "deck": "NAYZ menjawab permintaan BEI: tak ada info material baru selain perubahan pengendali, dan Saiko Consultancy tak berencana ubah kepemilikan saham kecuali penuhi penawaran tender wajib.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "volatilitas transaksi",
+   "penawaran tender wajib",
+   "Saiko Consultancy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3ace940e09_82befe1f2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
   "category": "Aksi Korporasi",
   "title": "WIKA Gelar RUPSU, Minta [Penundaan] Bayar Sukuk",
@@ -130,6 +178,51 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/566d05e612_d4bfae210e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "excl-komisaris-vivek-sood-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "EXCL: Komisaris Vivek Sood Ajukan [Pengunduran Diri]",
+  "deck": "Vivek Sood mundur dari kursi Komisaris XLSMART Telecom Sejahtera, efektif setelah disetujui RUPS terdekat.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EXCL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be42b5f638_6fe95a5f61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mcor-ralat-rupslb-recording-date-jadi-21-agustus",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Ralat RUPSLB: Recording Date Jadi [21 Agustus]",
+  "deck": "MCOR mengoreksi surat sebelumnya: pemegang saham yang berhak hadir di RUPSLB 15 September 2026 ditetapkan berdasarkan catatan kepemilikan per 21 Agustus 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOR",
+   "RUPSLB",
+   "Bank CCB Indonesia",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f226a7df27_a8b7e7fdf9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdln-mayoritas-pemegang-notes-setujui-skema-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "MDLN: Mayoritas Pemegang Notes Setujui [Skema] Restrukturisasi",
+  "deck": "PT Modernland Realty melaporkan skema restrukturisasi Notes disetujui mayoritas pemegang surat utang, tinggal menunggu persetujuan Pengadilan Tinggi Singapura.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi",
+   "Modernland Realty"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51045156a3_9694e9d2df.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -244,6 +337,38 @@ var ARTICLES = [
    "divestasi aset"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1d0310bfa_1cd8551fd3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbni-jadwalkan-public-expose-9-september-bahas-kinerja-q2",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Jadwalkan [Public Expose] 9 September, Bahas Kinerja Q2",
+  "deck": "Bank BNI akan menggelar Public Expose Live 2026 pada 9 September membahas kinerja kuartal II dan strategi perusahaan, dengan dua pejabat sebagai pembicara.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "Bank BNI",
+   "Public Expose",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50a5040c66_957425e3eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-gelar-public-expose-tahunan-9-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Gelar [Public Expose] Tahunan 9 September 2026",
+  "deck": "Adhi Karya akan memaparkan kinerja semester I 2026 dan strategi usaha dalam Public Expose Live pada 9 September 2026, di tengah sorotan gagal bayar kupon obligasi.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "Public Expose",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/793357ec76_b1b9c075ab.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6398,137 +6523,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816026.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t",
-  "category": "Perbankan",
-  "title": "BRI Rayakan HUT RI ke-81, Kredit [UMKM] Tembus Rp1.235 T",
-  "deck": "BRI, bagian dari Danantara, menegaskan portofolio kredit UMKM Rp1.235 triliun dan penyaluran KUR Rp103,81 triliun ke 2 juta debitur menyambut HUT ke-81 RI.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/bri-rayakan-hut-ri-ke-81-kredit-umkm-tembus-rp1-235-t.jpg",
-  "imageV": "msx1s5id",
-  "tags": [
-   "BRI",
-   "UMKM",
-   "KUR",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460525-rayakan-81-tahun-indonesia-merdeka-ini-8-kontribusi-nyata-bri-untuk-negeri"
- },
- {
-  "slug": "bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober",
-  "category": "Perbankan",
-  "title": "BI Perluas Bebas [MDR] QRIS ke Semua Merchant Mulai Oktober",
-  "deck": "Bank Indonesia meluncurkan Kartu Kredit Indonesia dan memperluas bebas biaya QRIS ke semua skala usaha untuk transaksi sampai Rp100.000, berlaku 1 Oktober 2026.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/bi-perluas-bebas-mdr-qris-ke-semua-merchant-mulai-oktober.jpg",
-  "imageV": "mswp7zdn",
-  "tags": [
-   "QRIS",
-   "MDR",
-   "Bank Indonesia",
-   "Kartu Kredit Indonesia"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2815926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "telkom-buka-akses-internet-gratis-di-posko-gempa-ntt",
-  "category": "BUMN",
-  "title": "Telkom Buka Akses Internet [Gratis] di Posko Gempa NTT",
-  "deck": "Telkom Group menyediakan WiFi, kartu SIM, dan paket darurat gratis di posko pengungsian NTT pascagempa, dengan titik layanan yang masih terus bertambah.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/telkom-buka-akses-internet-gratis-di-posko-gempa-ntt.jpg",
-  "imageV": "mswp804s",
-  "tags": [
-   "telkom",
-   "ntt",
-   "gempa bumi",
-   "internet gratis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460439-telkomgroup-sediakan-akses-internet-gratis-di-posko-pengungsian-ntt"
- },
- {
-  "slug": "harga-bbm-stabil-sejak-awal-agustus-2026",
-  "category": "Energi",
-  "title": "Harga BBM [Stabil] Sejak Awal Agustus 2026",
-  "deck": "Harga BBM di SPBU Pertamina, Shell, dan bp tidak berubah sejak 1 Agustus 2026, bertahan hingga peringatan HUT ke-81 RI pada 17 Agustus 2026.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/harga-bbm-stabil-sejak-awal-agustus-2026.jpg",
-  "imageV": "msxe1qfr",
-  "tags": [
-   "bbm",
-   "harga bbm",
-   "spbu",
-   "hut ke-81 ri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460420-harga-bbm-terpantau-stabil-pada-peringatan-hut-ke-81-ri-ini-rincian-harganya"
- },
- {
-  "slug": "pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa",
-  "category": "Energi",
-  "title": "PLN [Pulihkan] Sebagian Besar Listrik Flores Usai Gempa",
-  "deck": "Sehari usai gempa M7,7 guncang NTT, 11 gardu induk dan pasokan utama Flores sudah normal, tapi 29 dari 1.557 desa masih gelap karena akses tertutup longsor.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/pln-pulihkan-sebagian-besar-listrik-flores-usai-gempa.jpg",
-  "imageV": "mswflg50",
-  "tags": [
-   "PLN",
-   "gempa NTT",
-   "listrik Flores",
-   "pemulihan kelistrikan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460391-pln-berhasil-pulihkan-sebagian-besar-kelistrikan-flores-pascabencana-gempa-ntt"
- },
- {
-  "slug": "pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt",
-  "category": "BUMN",
-  "title": "Pertamina Gelar Tebus Murah [Sembako] untuk Korban Gempa NTT",
-  "deck": "Pertamina Patra Niaga menjual 8.100 paket sembako seharga Rp100.000 di sembilan kota pada 16-17 Agustus 2026, seluruh hasil penjualan disumbangkan untuk korban gempa NTT.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pertamina-gelar-tebus-murah-sembako-untuk-korban-gempa-ntt.jpg",
-  "imageV": "mswflgji",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460389-pertamina-patra-niaga-gelar-tebus-murah-paket-sembako-hasil-penjualan-akan-disumbangkan-ke-korban-gempa-ntt-100"
- },
- {
-  "slug": "dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha",
-  "category": "Bisnis",
-  "title": "Dahlan Iskan Bongkar Sisi Gelap [Utang] Pengusaha",
-  "deck": "Dahlan Iskan mempertemukan pengusaha yang pernah terlilit utang besar dalam talk show di Surabaya, membahas kapan utang berubah jadi beban dan cara membangun ulang bisnis.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha.jpg",
-  "imageV": "mswflh4c",
-  "tags": [
-   "dahlan iskan",
-   "pengusaha",
-   "utang",
-   "manajemen bisnis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460386-dahlan-iskan-bongkar-sisi-gelap-utang-pengusaha-rp350-miliar-hingga-800-cek-kosong"
- },
- {
-  "slug": "pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri",
-  "category": "Energi",
-  "title": "PLN Siagakan [Listrik] Berlapis untuk Upacara HUT ke-81 RI",
-  "deck": "Menjelang upacara kemerdekaan di Istana Merdeka, PLN pasang sistem pengamanan listrik berlapis lima dengan genset dan UPS cadangan.",
-  "date": "16 Agustus 2026",
-  "image": "assets/img/pln-siagakan-listrik-berlapis-untuk-upacara-hut-ke-81-ri.jpg",
-  "imageV": "mswflhih",
-  "tags": [
-   "PLN",
-   "listrik",
-   "HUT RI",
-   "Istana Merdeka"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460383-dirut-pln-tinjau-langsung-keandalan-listrik-peringatan-hut-ke-81-ri"
  }
 ];

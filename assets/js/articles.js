@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "WSBP [Ratifikasi] Tambah Plafon Konversi Utang Rp6,1 Miliar",
+  "deck": "WSBP mengajukan ratifikasi RUPS untuk menambah plafon konversi utang menjadi saham, menampung tagihan tambahan Rp6,1 miliar dari tiga kreditur dagang baru yang baru terverifikasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T20:30:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5d1d1c0d91_11c644a0d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) menyampaikan keterbukaan informasi soal penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang akan diratifikasi dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 2 Oktober 2026. Surat bernomor 706/WBP/DIR/2026 ini ditandatangani Corporate Secretary Fandy Dewanto dan Direktur Keuangan, HCM, dan Manajemen Risiko Koento Wahyudiat. RUPST 22 Mei 2025 sebelumnya telah menyetujui konversi utang kreditur sebesar Rp1.712.887.127.054 menjadi saham seri C, sebanyak-banyaknya 33.711.614.004 lembar, dengan acuan harga dari perhitungan volume rata-rata tertimbang 45 hari sebesar Rp50,81 per saham.",
+   "Yang membuat RUPSLB kali ini perlu digelar adalah tambahan tagihan baru. Selama proses verifikasi lanjutan pada 10 April 2025 hingga 12 Agustus 2026, tiga kreditur dagang mengajukan pendaftaran tagihan yang belum masuk hitungan sebelumnya, dengan total nilai utang Rp6.095.930.455. Perusahaan menyebut utang ini bukan utang baru, melainkan transaksi dagang yang terjadi pada 2018 hingga 25 Januari 2022, sebelum masa penundaan kewajiban pembayaran utang (PKPU) dimulai, sehingga tetap tunduk pada skema konversi ekuitas dalam Perjanjian Perdamaian. Perseroan akan meminta pemegang saham meratifikasi ulang Keputusan RUPSLB 30 Juni 2023 dan RUPST 22 Mei 2025 agar plafon PMTHMETD bisa menampung tambahan tagihan ini.",
+   "Skema ini berakar dari kasus PKPU yang diajukan kreditur pada 23 Desember 2021, disahkan Pengadilan Niaga Jakarta Pusat pada 28 Juni 2022 dengan dukungan 80,6 persen kreditur separatis dan 92,8 persen kreditur konkuren, lalu berkekuatan hukum tetap setelah kasasi PT Bank DKI ditolak Mahkamah Agung pada 20 September 2022. Berdasarkan Perjanjian Perdamaian itu, kreditur dagang yang mendukung penyelesaian utang akan menerima pelunasan dalam bentuk saham baru seri C, bukan uang tunai. Sebagai bagian dari skema besar ini, modal dasar perseroan disetujui naik dari Rp6.326.677.813.600 menjadi sebanyak-banyaknya Rp10.526.677.813.600, dan modal ditempatkan serta disetor naik dari Rp2.636.115.753.400 menjadi sebanyak-banyaknya Rp4.316.120.742.050."
+  ],
+  "fotoAdegan": "Workers inspecting stacked precast concrete beams in an open-air industrial casting yard under overcast sky",
+  "takeaway": "Laporan ini netral bagi WSBP karena tambahan konversi utang yang diajukan, Rp6,1 miliar dari tiga kreditur dagang baru, hanya secuil dibanding skema konversi utang menjadi saham senilai Rp1,7 triliun yang sudah disetujui pemegang saham sejak 2023 dan 2025, sehingga tidak mengubah gambaran besar dilusi yang memang sudah diketahui pasar. Konversi utang menjadi ekuitas ini menyentuh dua pos sekaligus, liabilitas perusahaan berkurang karena utang dagang dilunasi dengan saham, sementara jumlah saham beredar bertambah hingga puluhan miliar lembar saham seri C baru, yang bisa membuat laba per saham setiap pemegang saham lama terpangkas karena kue keuntungan dibagi ke lebih banyak lembar. Langkah ini merupakan konsekuensi dari perjanjian perdamaian utang pasca PKPU yang sudah berkekuatan hukum tetap sejak 2022, jadi bukan keputusan baru melainkan pelaksanaan komitmen lama. Yang perlu dipantau selanjutnya adalah RUPS Luar Biasa pada 2 Oktober 2026, saat pemegang saham akan memutuskan persetujuan atas penambahan plafon konversi utang ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wsbp-jadwalkan-rupslb-pada-2-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Jadwalkan [RUPSLB] pada 2 Oktober 2026",
+  "deck": "Waskita Beton Precast mengumumkan RUPSLB digelar 2 Oktober 2026 di Jakarta, agenda lengkapnya baru akan diumumkan pertengahan September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T20:29:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/faa6f36c73_25d5251123.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "Waskita Beton Precast",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) mengumumkan akan menyelenggarakan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 2 Oktober 2026 pukul 14.00 WIB di Jakarta. Pengumuman ini disampaikan Direktur Keuangan, HCM, dan Manajemen Risiko Koento Wahyudiat kepada Otoritas Jasa Keuangan, dan dipasang di situs KSEI, situs Bursa Efek Indonesia, serta situs perusahaan pada 26 Agustus 2026.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham atau memiliki saham di sub rekening efek KSEI hingga penutupan perdagangan pada 9 September 2026 pukul 16.00 WIB. Agenda lengkap rapat belum diumumkan di sini, tetapi akan dimuat dalam Pemanggilan Rapat yang dijadwalkan terbit Kamis, 10 September 2026. Pemegang saham seri A, atau pemegang saham yang mewakili minimal 1/20 dari total saham berhak suara, dapat mengusulkan mata acara rapat dengan menyampaikannya ke Direksi paling lambat Kamis, 3 September 2026.",
+   "Perseroan mendorong pemegang saham untuk hadir secara elektronik (e-RUPS) atau memberi kuasa lewat fasilitas eASY.KSEI (e-Proxy), yang tersedia sejak tanggal Pemanggilan Rapat sampai satu hari sebelum rapat, yakni Kamis, 1 Oktober 2026."
+  ],
+  "fotoAdegan": "Workers inspecting stacked precast concrete beams in an industrial yard under overcast morning light",
+  "takeaway": "Laporan ini netral bagi WSBP karena isinya baru jadwal dan mekanisme RUPSLB, belum ada agenda atau angka keputusan yang bisa dinilai dampaknya terhadap keuangan perusahaan. Yang perlu diperhatikan, WSBP saat ini masih menjalani restrukturisasi utang lewat skema konversi utang menjadi saham baru, jadi kalau agenda RUPSLB nanti menyangkut penambahan modal atau konversi utang serupa, itu akan menambah jumlah saham beredar dan bisa mengurangi porsi kepemilikan serta laba per saham pemegang saham lama. Yang dipantau berikutnya adalah Pemanggilan Rapat yang berisi agenda lengkap, dijadwalkan terbit Kamis, 10 September 2026, sebelum rapat sendiri digelar Jumat, 2 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
   "category": "Aksi Korporasi",
   "title": "BBSI Panggil RUPSLB Kedua, Usul [Komisaris] Baru",
@@ -107,6 +159,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "nayz-saiko-pastikan-cuma-jalankan-tender-wajib-tak-ubah-saham",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ: Saiko Pastikan Cuma Jalankan [Tender] Wajib, Tak Ubah Saham",
+  "deck": "NAYZ menjawab permintaan BEI: tak ada info material baru selain perubahan pengendali, dan Saiko Consultancy tak berencana ubah kepemilikan saham kecuali penuhi penawaran tender wajib.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T17:02:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3ace940e09_82befe1f2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "volatilitas transaksi",
+   "penawaran tender wajib",
+   "Saiko Consultancy"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) menjawab surat Bursa Efek Indonesia Nomor S-10960/BEI.PP3/08-2026 tanggal 24 Agustus 2026 yang meminta penjelasan atas volatilitas transaksi saham perseroan. Jawaban disampaikan melalui surat Nomor 071/01/DIR/HBS/VIII/2026 tanggal 26 Agustus 2026 yang ditandatangani Direktur Utama Dody Arifianto.",
+   "Dalam surat itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material lain yang belum diungkapkan, selain yang sudah disampaikan lewat surat tanggal 20 Agustus 2026 mengenai perubahan pengendali perusahaan. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024, dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan selain pelaksanaan Penawaran Tender Wajib oleh Saiko Consultancy Pte. Ltd. selaku pengendali baru.",
+   "Soal rencana pengendali baru ke depan, perseroan menyebut telah meminta konfirmasi langsung kepada Saiko Consultancy Pte. Ltd. Berdasarkan konfirmasi itu, Saiko menyatakan tidak berencana mengalihkan atau mengubah kepemilikan sahamnya di NAYZ, selain dalam rangka menuntaskan kewajiban Penawaran Tender Wajib sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Workers in a commercial bakery kitchen arranging trays of bread on stainless steel racks, early morning light streaming in",
+  "takeaway": "Isi surat ini netral bagi NAYZ karena sifatnya konfirmasi status quo, bukan informasi baru yang mengubah gambaran bisnis perusahaan. Yang tersentuh di sini bukan laba atau arus kas, melainkan struktur pengendalian, karena kepastian bahwa Saiko Consultancy tidak berencana menambah atau melepas saham di luar kewajiban penawaran tender ikut menentukan siapa yang akan mengendalikan arah perusahaan dan berapa banyak saham yang nantinya tetap beredar di publik. Yang perlu dipantau selanjutnya adalah pelaksanaan penawaran tender wajib oleh Saiko Consultancy serta RUPSLB yang sudah dijadwalkan pada 2 Oktober 2026, karena dari dua peristiwa itu arah perusahaan di bawah pengendali baru akan mulai terlihat jelas.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
   "category": "Aksi Korporasi",
   "title": "WIKA Gelar RUPSU, Minta [Penundaan] Bayar Sukuk",
@@ -209,6 +287,80 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a modern glass-fronted office tower in a Jakarta business district, late afternoon light, wide angle",
   "takeaway": "Laporan ini negatif bagi WIKA, karena perseroan kembali meminta pemegang sukuknya menunda pembayaran, kali ini untuk dua periode bagi hasil sekaligus plus perubahan jatuh tempo pokok, pada seri Sukuk Berkelanjutan II Tahap I yang berbeda dari seri A dan Tahap II yang sudah lebih dulu diumumkan. Bagi hasil adalah semacam bunga di produk sukuk syariah, dan meminta penundaan dua periode bagi hasil sekaligus (ke-20 dan ke-21) menandakan arus kas perseroan belum cukup untuk memenuhi kewajiban rutin ke pemegang surat utang, sementara perubahan jatuh tempo pokok berarti uang investor yang seharusnya kembali pada tanggal tertentu akan mundur dari jadwal semula. Ini sejalan dengan pemangkasan peringkat WIKA ke idD oleh Pefindo pekan lalu, yang mengonfirmasi status gagal bayar atas obligasi dan sukuk senilai Rp2,47 triliun. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSU 9 September 2026, karena persetujuan baru sah jika disetujui minimal tiga perempat pemegang sukuk yang hadir, dan bila kuorum atau persetujuan itu tidak tercapai, ketidakpastian penyelesaian kewajiban WIKA ke pemegang sukuk ini bisa berlanjut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "excl-komisaris-vivek-sood-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "EXCL: Komisaris Vivek Sood Ajukan [Pengunduran Diri]",
+  "deck": "Vivek Sood mundur dari kursi Komisaris XLSMART Telecom Sejahtera, efektif setelah disetujui RUPS terdekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:44:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be42b5f638_6fe95a5f61.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL"
+  ],
+  "body": [
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) mengumumkan bahwa pada 26 Agustus 2026 perseroan menerima surat pengunduran diri Vivek Sood dari jabatannya sebagai Komisaris. Pengunduran diri tersebut belum langsung berlaku, melainkan baru efektif setelah mendapat persetujuan dalam Rapat Umum Pemegang Saham (RUPS) terdekat, sesuai anggaran dasar perseroan dan aturan pasar modal yang berlaku.",
+   "Dalam laporan keterbukaan informasi yang ditandatangani Corporate Secretary EXCL, Cut Fika Lutfi, perseroan tidak menjelaskan alasan pengunduran diri Vivek Sood maupun rencana pengganti untuk mengisi posisi tersebut. Perseroan juga menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat kejadian ini, tanpa merinci lebih lanjut penjelasan tersebut."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi EXCL karena hanya satu dari sejumlah komisaris yang mundur, alasan pengunduran diri tidak dijelaskan, dan perseroan sendiri menyatakan tidak ada dampak operasional maupun keuangan. Yang tersentuh di sini murni struktur pengawasan perusahaan, bukan kinerja keuangan. Komisaris adalah organ yang mengawasi kerja direksi, bukan yang menjalankan operasional sehari-hari, jadi kekosongan satu kursi biasanya tidak langsung memengaruhi arus kas, utang, atau laba per saham, kecuali kelak posisi itu tidak segera diisi dan pengawasan jadi timpang. Yang perlu dipantau selanjutnya adalah RUPS terdekat EXCL, karena pengunduran diri ini baru sah setelah disetujui dalam rapat tersebut, dan apakah perseroan sekaligus mengumumkan calon pengganti Vivek Sood pada kesempatan itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mcor-ralat-rupslb-recording-date-jadi-21-agustus",
+  "category": "Aksi Korporasi",
+  "title": "MCOR Ralat RUPSLB: Recording Date Jadi [21 Agustus]",
+  "deck": "MCOR mengoreksi surat sebelumnya: pemegang saham yang berhak hadir di RUPSLB 15 September 2026 ditetapkan berdasarkan catatan kepemilikan per 21 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:42:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f226a7df27_a8b7e7fdf9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "RUPSLB",
+   "Bank CCB Indonesia",
+   "corporate action"
+  ],
+  "body": [
+   "PT Bank China Construction Bank Indonesia Tbk (MCOR) menerbitkan surat koreksi bernomor 221/CCBI/CSEC-OJK/VIII/2026 tertanggal 26 Agustus 2026, yang meralat surat sebelumnya dengan nomor sama tertanggal 24 Agustus 2026. Koreksi ini secara spesifik mengubah penentuan pemegang saham yang berhak hadir atau diwakili dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Perseroan menetapkan bahwa yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan di Bursa Efek Indonesia tanggal 21 Agustus 2026, menggantikan ketentuan pada surat sebelumnya.",
+   "Selain koreksi tanggal pencatatan tersebut, jadwal dan agenda RUPSLB tidak berubah. Rapat tetap digelar pada Selasa, 15 September 2026 pukul 15.00 WIB di Gedung Sahid Sudirman Center Lantai 15, Jl. Jend. Sudirman Kav. 86, Jakarta Pusat, dengan mekanisme hybrid melalui aplikasi eASY.KSEI dan kehadiran fisik terbatas. Satu-satunya agenda rapat adalah perubahan susunan pengurus perseroan, yang sebelumnya juga sudah diumumkan dalam surat pemanggilan tanggal 13 Agustus 2026.",
+   "Perseroan mengingatkan bahwa batas waktu bagi pemegang saham untuk menyampaikan deklarasi kehadiran elektronik, kuasa elektronik (e-proxy), atau suara elektronik melalui eASY.KSEI adalah pukul 12.00 WIB pada satu hari kerja sebelum rapat, yaitu 14 September 2026. Bagi pemegang saham yang ingin hadir elektronik namun belum mendeklarasikan kehadiran atau pilihan suara, registrasi tambahan dibuka pada hari rapat, 15 September 2026, pukul 13.00 hingga 15.00 WIB. Sementara pemegang saham dengan saham berbentuk warkat yang memberi kuasa tertulis harus menyerahkannya ke Biro Administrasi Efek PT Sinartama Gunita paling lambat dua hari sebelum rapat."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district at late afternoon, pedestrians walking below.",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya murni koreksi administratif atas tanggal pencatatan pemegang saham, tanpa mengubah agenda, tempat, maupun substansi RUPSLB itu sendiri. Recording date atau tanggal pencatatan adalah patokan siapa yang berhak memberi suara, jadi kesalahan penetapan tanggal ini bisa berdampak pada sah tidaknya kuorum dan hak suara pemegang saham dalam rapat, meski tidak menyentuh pos keuangan seperti laba atau arus kas. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPSLB pada 15 September 2026 pukul 15.00 WIB yang akan memutuskan perubahan susunan direksi MCOR, serta batas waktu pemberian suara elektronik pukul 12.00 WIB pada 14 September 2026 bagi pemegang saham yang ingin memastikan haknya terhitung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdln-mayoritas-pemegang-notes-setujui-skema-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "MDLN: Mayoritas Pemegang Notes Setujui [Skema] Restrukturisasi",
+  "deck": "PT Modernland Realty melaporkan skema restrukturisasi Notes disetujui mayoritas pemegang surat utang, tinggal menunggu persetujuan Pengadilan Tinggi Singapura.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:27:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51045156a3_9694e9d2df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "restrukturisasi utang",
+   "obligasi",
+   "Modernland Realty"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) melaporkan kepada OJK dan Bursa Efek Indonesia bahwa pada 24 Agustus 2026, usulan skema restrukturisasi (scheme of arrangement) atas surat utang atau Notes perseroan telah disetujui oleh mayoritas pemegang Notes. Laporan bernomor 037/MDLN-CORSEC/VIII/26 tertanggal 26 Agustus 2026 ini menindaklanjuti surat sebelumnya, No. 035/MDLN-CORSEC/VIII/26 tanggal 14 Agustus 2026, yang sudah lebih dulu diungkapkan ke publik.",
+   "Meski sudah disetujui mayoritas pemegang Notes, skema tersebut masih harus mendapat persetujuan Pengadilan Tinggi Singapura. Jadwal sidang atas permohonan persetujuan pengadilan itu sendiri belum ditentukan dan akan diputuskan oleh pengadilan. Jika pengadilan menyetujui, skema akan mengikat seluruh pemegang Notes, termasuk pihak yang tidak ikut menyetujui dalam proses pemungutan suara, dan pelaksanaannya akan mengikuti ketentuan yang berlaku.",
+   "Perseroan menyatakan sampai saat laporan ini diterbitkan belum ada dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha, kecuali yang sudah diungkapkan dalam surat ini. Perseroan juga menegaskan bahwa persetujuan skema akan berdampak positif jika berhasil dilaksanakan. Pengumuman ini ditandatangani oleh Corporate Secretary Yahya Danu Kusumo Pate dan ditegaskan semata-mata untuk memenuhi kewajiban keterbukaan informasi, bukan merupakan penawaran umum efek."
+  ],
+  "fotoAdegan": "Unfinished apartment towers with construction cranes on a hazy Jakarta skyline in late afternoon light",
+  "takeaway": "Kabar ini condong positif bagi Modernland Realty karena mayoritas pemegang Notes sudah menyetujui rencana penataan ulang utang, langkah yang biasanya mengurangi risiko gagal bayar meski prosesnya belum final secara hukum. Notes di sini adalah surat utang dolar AS yang diterbitkan perseroan, dan scheme of arrangement adalah mekanisme hukum yang memungkinkan syarat pembayaran utang diubah dengan persetujuan mayoritas kreditur lalu mengikat semua kreditur, termasuk yang menolak. Perubahan ini menyentuh pos beban bunga dan arus kas perusahaan, karena jadwal atau besaran cicilan utang bisa berubah, dan itu yang membuat pelaku pasar memperhatikan kemampuan perseroan menjaga kelangsungan usahanya. Yang perlu dipantau selanjutnya adalah jadwal sidang persetujuan di Pengadilan Tinggi Singapura, yang sampai saat ini belum ditentukan, serta keterbukaan informasi lanjutan yang sudah dijanjikan perseroan begitu ada perkembangan baru.",
+  "sentimen": "positif"
  },
  {
   "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
@@ -390,6 +542,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Construction workers assembling modular temporary housing units on an open building site, cranes in the background, overcast sky.",
   "takeaway": "Laporan ini condong netral bagi WEGE: kenaikan kontrak baru 568 persen memang nyata dan didominasi proyek pemerintah, tetapi nilainya baru Rp775 miliar, tergolong kecil untuk perusahaan konstruksi milik BUMN, dan lonjakan persentase itu sebagian besar terjadi karena basis tahun lalu yang sangat rendah, cuma Rp116 miliar. Yang lebih perlu dicermati adalah pengakuan perseroan sendiri soal tekanan terhadap pendapatan dalam beberapa periode terakhir, yang mendorong rencana pelepasan aset senilai lebih dari Rp1 triliun berupa hotel, lantai perkantoran, dan tanah; ini menyentuh arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena penjualan aset mendatangkan dana segar sekaligus berpotensi menekan beban bunga, yaitu biaya yang harus dibayar perseroan atas pinjamannya. Klaim rasio utang berbunga yang rendah, 0,07 kali ekuitas, perlu dibaca berdampingan dengan fakta bahwa WEGE baru saja digugat penundaan kewajiban pembayaran utang oleh salah satu krediturnya pekan lalu, yang menandakan ada sengketa pembayaran meski rasio utang formalnya terlihat aman. Yang perlu dipantau berikutnya adalah realisasi rencana divestasi aset lebih dari Rp1 triliun itu, termasuk kepastian pembeli dan tenggat waktunya, serta kelanjutan proses PKPU di pengadilan niaga yang bisa memengaruhi persepsi kreditor terhadap perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbni-jadwalkan-public-expose-9-september-bahas-kinerja-q2",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Jadwalkan [Public Expose] 9 September, Bahas Kinerja Q2",
+  "deck": "Bank BNI akan menggelar Public Expose Live 2026 pada 9 September membahas kinerja kuartal II dan strategi perusahaan, dengan dua pejabat sebagai pembicara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T14:00:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50a5040c66_957425e3eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "Bank BNI",
+   "Public Expose",
+   "IDX"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk (BBNI) mengumumkan rencana penyelenggaraan Public Expose Live 2026 yang akan digelar pada Rabu, 9 September 2026, pukul 14.00 hingga 15.00 WIB. Acara ini disiarkan melalui Pubex Live 2026 yang tercantum di situs idx.co.id, bukan secara tatap muka. Dua agenda yang akan dibahas adalah laporan kinerja kuartal kedua tahun 2026 dan pemaparan prospek serta strategi perusahaan ke depan.",
+   "Perseroan menunjuk dua pembicara untuk mewakili manajemen, yaitu Hussein Paolo Kartadjoemena selaku Direktur Finance & Strategy, dan Yohan Setio selaku Head of Investor Relations. Materi presentasi untuk acara ini wajib disampaikan kepada publik selambat-lambatnya tiga hari bursa sebelum acara berlangsung, yaitu pada 4 September 2026.",
+   "Pengumuman ini disampaikan BNI untuk memenuhi Ketentuan III.3.1 Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi, yang mewajibkan emiten mengumumkan rencana paparan publik tahunannya. Surat ditandatangani oleh Corporate Secretary BNI, Okki Rushartomo Budiprabowo, dan ditujukan kepada Kepala Penilaian Perusahaan 3 di Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Empty auditorium with rows of chairs facing a podium, tall windows letting in morning light, modern Jakarta office interior.",
+  "takeaway": "Pengumuman ini sendiri netral bagi penilaian fundamental BNI, karena baru menjadwalkan forum, belum membawa angka kinerja baru. Yang benar-benar akan bergerak adalah data yang dipaparkan nanti, terutama pertumbuhan kredit, margin bunga bersih, dan kualitas aset yang biasanya jadi sorotan pelaku pasar saat bank besar melaporkan kinerja kuartalannya. Yang perlu dipantau adalah materi presentasi yang wajib dirilis BNI paling lambat 4 September 2026, karena dari situ publik bisa melihat lebih dulu arah kinerja kuartal II sebelum forum berlangsung pada 9 September 2026. Sampai materi itu terbit, belum ada dasar untuk menilai apakah kinerja BNI membaik atau melemah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-gelar-public-expose-tahunan-9-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Gelar [Public Expose] Tahunan 9 September 2026",
+  "deck": "Adhi Karya akan memaparkan kinerja semester I 2026 dan strategi usaha dalam Public Expose Live pada 9 September 2026, di tengah sorotan gagal bayar kupon obligasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T13:56:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/793357ec76_b1b9c075ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Adhi Karya",
+   "Public Expose",
+   "obligasi"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk melalui surat bernomor 347/SP-VIII/2026 yang diteken Corporate Secretary Siswanto mengumumkan rencana Public Expose Tahunan untuk tahun buku 2026. Acara akan digelar Rabu, 9 September 2026 pukul 16.00 hingga 17.00 WIB, tergabung dalam Public Expose Live 2026 yang disiarkan lewat situs idx.co.id. Perseroan menyebutkan jajaran direksi akan hadir langsung dalam acara tersebut.",
+   "Agenda yang akan dibahas mencakup laporan kinerja semester I 2026, prospek dan strategi usaha, serta agenda lain-lain yang belum dirinci. Surat ini disampaikan untuk memenuhi kewajiban keterbukaan informasi sesuai Peraturan Bursa Efek Indonesia Nomor I-E sebagaimana diatur dalam Surat Keputusan BEI Nomor KEP-00087/BEI/12-2025.",
+   "Public Expose ini berlangsung di tengah rangkaian masalah keuangan Adhi Karya yang mencuat sepanjang Agustus 2026, mulai dari potensi gagal bayar bunga obligasi Rp60,8 miliar, suspensi saham oleh BEI, kegagalan kuorum rapat pemegang obligasi, hingga persetujuan penundaan pembayaran bunga ke Juli 2027. Forum ini menjadi kesempatan resmi pertama bagi direksi untuk menjelaskan langsung kepada investor dan pemegang saham mengenai kondisi arus kas serta langkah penyelesaian kewajiban obligasi tersebut."
+  ],
+  "fotoAdegan": "Construction workers inspecting steel reinforcement bars and concrete pillars at a large infrastructure project site, overcast morning light",
+  "takeaway": "Laporan ini sendiri netral karena hanya memuat jadwal, waktu, dan agenda umum acara, tanpa data keuangan atau keputusan baru yang bisa dinilai. Yang membuatnya relevan dipantau adalah konteksnya, karena arus kas perseroan sedang jadi sorotan setelah rentetan berita gagal bayar dan penundaan bunga obligasi yang menumpuk kewajiban ke Juli 2027, sehingga bagaimana direksi menjelaskan langkah pemulihan arus kas dalam forum ini akan jadi indikator penting. Yang perlu dipantau berikutnya adalah pemaparan pada 9 September 2026 pukul 16.00 WIB, terutama apakah direksi memberi kejelasan baru soal penyelesaian utang bunga obligasi dan rencana keluar dari suspensi saham, selain agenda RUPSLB yang sudah dijadwalkan 30 September 2026.",
   "sentimen": "netral"
  },
  {

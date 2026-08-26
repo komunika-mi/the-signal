@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "CARS Jelaskan ke BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "CARS menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, menegaskan tidak ada informasi material dan belum ada pemegang saham pengendali per 31 Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T12:07:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c127e4780f_c6b8f02659.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CARS",
+  "tags": [
+   "CARS",
+   "Bintraco Dharma",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Industri dan Perdagangan Bintraco Dharma Tbk (CARS) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-10964/BEI.PP1/08-2026 tertanggal 24 Agustus 2026 terkait volatilitas transaksi efek perseroan. Lewat surat balasan bernomor Leg/SRT-077/VIII/2026 tertanggal 26 Agustus 2026 yang ditandatangani Corporate Secretary Lina M. Ibrahim, perseroan menyatakan bahwa peningkatan aktivitas transaksi dan pergerakan harga sahamnya berada di luar kendali manajemen dan sepenuhnya bergantung pada mekanisme pasar.",
+   "Menjawab enam pertanyaan yang diajukan BEI, CARS menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, baik menurut POJK Nomor 31/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, serta belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk hingga tiga bulan ke depan, yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Pada poin terakhir, BEI meminta perseroan menanyakan langsung kepada pemegang saham utama dan pengendali soal rencana mereka atas kepemilikan saham di CARS. Perseroan menjawab bahwa berdasarkan Daftar Pemegang Saham per 31 Juli 2026, belum ada pihak yang masuk dalam kategori pemegang saham utama maupun pengendali sesuai definisi yang berlaku."
+  ],
+  "fotoAdegan": "Rows of new sedans parked inside a brightly lit car dealership showroom in Jakarta, staff polishing vehicles in the morning",
+  "takeaway": "Surat ini netral bagi CARS karena isinya hanya jawaban standar yang membantah adanya informasi rahasia di balik lonjakan transaksi sahamnya, tanpa kabar baru soal kinerja atau rencana bisnis apa pun. Yang patut dicatat adalah poin keenam: berdasarkan Daftar Pemegang Saham per 31 Juli 2026, belum ada satu pihak pun yang tercatat sebagai pemegang saham utama atau pengendali di CARS, artinya tidak ada pihak yang secara resmi memegang kendali suara mayoritas atas perusahaan saat ini. Struktur tanpa pengendali seperti ini membuat kepemilikan saham lebih mudah berpindah lewat transaksi bursa biasa, sehingga pelaku pasar wajar mengamati apakah ada pihak yang sedang mengumpulkan saham meski perseroan mengaku tidak mengetahuinya. Yang perlu dipantau berikutnya adalah apakah ada pihak yang nantinya wajib melaporkan kepemilikannya begitu menembus ambang batas pelaporan sesuai POJK Nomor 4 Tahun 2024, serta apakah volatilitas transaksi ini berlanjut hingga tiga bulan ke depan seperti disebut perseroan, yang bisa memicu permintaan penjelasan lanjutan dari BEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wins-beri-jaminan-perusahaan-us-12-juta-untuk-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "WINS Beri [Jaminan] Perusahaan US$12 Juta untuk Anak Usaha",
+  "deck": "Wintermar Offshore Marine (WINS) menjamin fasilitas kredit US$12 juta dari Bank Shinhan Indonesia untuk anak usahanya, PT Wintermar, guna refinancing kapal dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:35:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/62a5a299ee_385a4bcd2c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "Wintermar Offshore Marine",
+   "jaminan perusahaan",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Wintermar Offshore Marine Tbk (WINS) menyampaikan keterbukaan informasi kepada Otoritas Jasa Keuangan (OJK) pada 26 Agustus 2026 terkait pemberian jaminan perusahaan yang terjadi pada 21 Agustus 2026. Dalam transaksi ini, WINS bertindak sebagai pemberi jaminan, PT Bank Shinhan Indonesia sebagai penerima jaminan, dan PT Wintermar, anak usaha WINS yang sahamnya dikuasai lebih dari 99 persen, sebagai pihak yang dijamin. Nilai jaminan yang diberikan maksimal US$12 juta.",
+   "Jaminan ini merupakan syarat yang diminta Bank Shinhan Indonesia sebelum mencairkan fasilitas kredit senilai US$12 juta kepada PT Wintermar. Dana dari fasilitas tersebut akan dipakai PT Wintermar untuk membiayai kembali (refinancing) kapal-kapal miliknya serta memenuhi kebutuhan modal kerja. Dengan kata lain, WINS menjadi penanggung jika anak usahanya tidak mampu melunasi kredit itu ke bank.",
+   "Karena WINS dan PT Wintermar memiliki dua direktur dan satu komisaris yang sama, serta WINS merupakan pemegang saham pengendali PT Wintermar, transaksi ini tergolong transaksi afiliasi menurut Pasal 2 juncto Pasal 6.2 POJK No. 42/2020. Perusahaan menyatakan transaksi jaminan kepada bank ini dikecualikan dari kewajiban menggunakan penilai independen sesuai Pasal 6 ayat 1 huruf e POJK yang sama, dan tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Offshore support vessels docked at a busy Indonesian port, cranes and shipping containers in the background, late afternoon light.",
+  "takeaway": "Transaksi ini condong netral bagi WINS: jaminan ini menopang pembiayaan ulang kapal dan modal kerja anak usahanya, bukan tanda kesulitan keuangan, tapi tetap menambah beban tanggung jawab bagi induk usaha. Pos yang tersentuh adalah kewajiban kontinjensi, yaitu janji WINS untuk ikut menanggung utang PT Wintermar kalau anak usaha itu sampai gagal bayar ke Bank Shinhan Indonesia; jaminan semacam ini belum tercatat sebagai utang di neraca WINS sekarang, tapi bisa berubah jadi utang riil kalau pencairannya benar terjadi. Yang perlu dipantau selanjutnya adalah realisasi fasilitas kredit US$12 juta itu sendiri dan bagaimana hasil refinancing kapal tersebut tercermin di laporan keuangan konsolidasi WINS pada periode berikutnya, karena dokumen ini belum menyebut tanggal pencairan atau jatuh tempo fasilitas.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "direksi-mcor-junianto-tambah-kepemilikan-500-200-saham",
+  "category": "Aksi Korporasi",
+  "title": "[Direksi] MCOR: Junianto Tambah Kepemilikan 500.200 Saham",
+  "deck": "Direksi MCOR, Junianto, menambah kepemilikan 500.200 saham secara tidak langsung seharga Rp68 per lembar untuk memenuhi ketentuan OJK bagi pengurus bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:23:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-4227-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MCOR",
+  "tags": [
+   "MCOR",
+   "kepemilikan saham",
+   "direksi bank",
+   "OJK"
+  ],
+  "body": [
+   "Junianto, anggota Direksi PT Bank China Construction Bank Indonesia Tbk (MCOR), melaporkan kepada Otoritas Jasa Keuangan bahwa jumlah saham MCOR yang ia miliki bertambah dari 1.996.923 lembar menjadi 2.497.123 lembar. Penambahan sebanyak 500.200 lembar itu diperoleh lewat pembelian tidak langsung pada 26 Agustus 2026 dengan harga Rp68 per saham, atau senilai sekitar Rp34 juta.",
+   "Dalam laporan yang disampaikan melalui sistem KSEI itu, tujuan transaksi dicatat sebagai pemenuhan Peraturan OJK Nomor 45/POJK.03/2015, aturan yang mewajibkan direksi dan komisaris bank memegang sejumlah saham di bank yang mereka kelola. Hak suara Junianto tercatat tidak berubah, tetap 0,00 persen baik sebelum maupun sesudah transaksi, karena porsinya dibandingkan total saham beredar MCOR sangat kecil meskipun penambahan ini setara dengan sekitar 25 persen dari kepemilikan pribadinya sebelumnya.",
+   "Laporan ini terbit di tengah proses pergantian direksi MCOR, setelah perseroan mengundur jadwal RUPSLB untuk agenda tersebut dari semula ke 15 September 2026."
+  ],
+  "fotoAdegan": "Interior of a modern Indonesian bank branch, tellers assisting customers at counters, soft morning light through glass windows",
+  "takeaway": "Laporan ini netral bagi emiten karena nilainya kecil, sekitar Rp34 juta, dan pemicunya adalah kewajiban regulasi, bukan keputusan strategis direksi membaca prospek bank. Yang tersentuh di sini adalah struktur kepemilikan saham, bukan kinerja keuangan bank, jumlah saham beredar MCOR yang beredar di publik tetap sama karena ini transaksi pembelian antarpemegang saham, dan porsi Junianto terhadap total saham perusahaan tetap tercatat nol persen sehingga tidak mengubah peta kendali. Yang perlu dipantau berikutnya adalah RUPSLB pergantian direksi MCOR yang dijadwalkan 15 September 2026, serta apakah direksi atau komisaris lain turut melaporkan penambahan saham serupa untuk memenuhi kewajiban POJK 45/2015 tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-vto-diperpanjang-partisipasi-publik-4-7",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: VTO Diperpanjang, Partisipasi Publik [4,7%]",
+  "deck": "Digital Edge Hong Kong memperpanjang tender saham EDGE hingga 22 September 2026, sementara hasil sementara dua periode pertama menunjukkan baru 4,7 persen saham publik yang ikut serta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T11:10:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5ec4779748_2386f08b9c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "VTO",
+   "Digital Edge Hong Kong"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) melaporkan bahwa pemegang saham pengendali, Digital Edge (Hong Kong) Ltd (DEHK), memperpanjang masa penawaran tender sukarela (VTO) Periode III selama 30 hari, dari 24 Agustus hingga 22 September 2026. Perpanjangan ini diberikan agar pemegang saham publik yang belum memutuskan ikut serta punya waktu tambahan untuk berpartisipasi, sesuai Pasal 17 ayat 2 juncto Pasal 22 Peraturan OJK Nomor 54/POJK.04/2015 tentang Penawaran Tender Sukarela. Perpanjangan ini telah diumumkan lewat surat kabar Harian Terbit dan Link Bisnis, serta situs web perseroan dan Bursa Efek Indonesia pada 19 Agustus 2026.",
+   "Perseroan juga merilis hasil sementara VTO untuk dua periode sebelumnya. Pada Periode I (25 Juni sampai 24 Juli 2026), dari 1.573 pemegang saham publik yang menggenggam total 159.598.500 saham, sebanyak 919 pemegang saham berpartisipasi penuh dengan menyerahkan 7.118.700 saham, sementara 654 pemegang saham pemilik 152.479.800 saham belum ikut serta. Periode ini rampung dilaksanakan DEHK pada 5 Agustus 2026 dan diumumkan lewat situs BEI sehari setelahnya.",
+   "Pada Periode II (25 Juli sampai 23 Agustus 2026), dari 654 pemegang saham publik yang tersisa dengan 152.479.800 saham, hanya 245 pemegang saham yang berpartisipasi penuh dengan menyerahkan 360.600 saham, sementara 409 pemegang saham pemilik 152.119.200 saham masih belum berpartisipasi. Dengan demikian, total saham yang sudah diserahkan ke DEHK sepanjang dua periode itu baru mencapai 7.479.300 saham, sekitar 4,7 persen dari 159.598.500 saham publik yang menjadi sasaran tawaran ini. Pelaksanaan VTO Periode II sendiri baru akan dilakukan DEHK pada 4 September 2026, dan perusahaan menyatakan perpanjangan masa VTO ini tidak berdampak negatif material terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Rows of server racks with dim blue indicator lights in a quiet data center corridor, a technician checking cables in the distance",
+  "takeaway": "Laporan ini netral bagi fundamental EDGE, karena pergeseran kepemilikan saham dari publik ke Digital Edge Hong Kong tidak mengubah aset, pendapatan, atau operasional perusahaan, meski partisipasi publik dalam tawaran ini terhitung kecil, hanya sekitar 4,7 persen dari 159,6 juta saham publik yang ditawarkan sepanjang dua periode pertama. Yang tersentuh di sini adalah porsi saham publik yang beredar bebas di pasar, sebab kalau makin banyak pemegang saham publik menyerahkan sahamnya ke DEHK, saham yang bisa diperjualbelikan di bursa akan menyusut dan berpotensi memicu proses pencatatan ulang atau bahkan pencabutan status tercatat, sesuai aturan bursa yang memang dikutip perusahaan sebagai dasar pelaporan ini. Rendahnya angka partisipasi sejauh ini bisa dibaca sebagai indikasi bahwa mayoritas pemegang saham publik masih menahan sahamnya, entah karena menunggu keputusan atau memang berniat tetap menjadi pemegang saham EDGE. Yang perlu dipantau berikutnya adalah pelaksanaan VTO Periode II pada 4 September 2026 dan berakhirnya perpanjangan masa VTO Periode III pada 22 September 2026, yang akan menentukan apakah partisipasi publik naik signifikan atau tetap rendah.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
   "category": "Aksi Korporasi",
   "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
@@ -158,6 +262,32 @@ var ARTICLES = [
   "fotoAdegan": "Construction workers erecting steel roof trusses for a new hotel ballroom extension in Yogyakarta, daylight, tropical landscaping nearby",
   "takeaway": "Laporan ini condong positif karena menambah dua aset penghasil pendapatan baru yang sudah konkret, bukan sekadar wacana: satu hotel yang siap beroperasi dan satu proyek ballroom yang mulai dibangun. Perlu dicatat, proyeksi kenaikan pendapatan gabungan hingga 50 persen itu adalah perkiraan manajemen sendiri dan belum tentu sama persis dengan hasil nyata begitu kedua fasilitas benar-benar berjalan. Yang tersentuh di sini adalah recurring income, yaitu pendapatan rutin dari sewa kamar dan ruang acara yang terus berulang setiap bulan, berbeda dari pendapatan sekali jalan seperti penjualan lahan, sehingga kalau proyeksi ini terealisasi arus pendapatan SWID akan lebih stabil dari tahun ke tahun. Pelaku pasar biasanya akan mengecek tingkat hunian kamar dan harga rata-rata kamar setelah hotel dan ballroom beroperasi untuk menguji apakah proyeksi manajemen tersebut berdasar. Yang perlu dipantau berikutnya adalah pelaksanaan pembukaan The Royal Alana Yogyakarta dan peletakan batu pertama ballroom INNSiDE by Meliá pada 27 Agustus 2026, serta laporan keuangan kuartal mendatang untuk melihat apakah kontribusi pendapatan dari kedua proyek ini mulai terlihat.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "pipa-proyeksikan-laba-melonjak-dari-akuisisi-gas-skema-belum-final",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Proyeksikan Laba [Melonjak] dari Akuisisi Gas, Skema Belum Final",
+  "deck": "Oxala Energy International (PIPA) mengklaim laba bersihnya bakal melonjak dari rencana akuisisi perusahaan pengolahan gas alam, meski skema, nilai transaksi, dan identitas target belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T08:47:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b31c16e316_ae3c50ed6d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "gas alam",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA) menyampaikan perkembangan lanjutan atas rencana akuisisi perusahaan di bidang pengolahan gas alam yang sebelumnya diungkapkan lewat keterbukaan informasi tertanggal 19 Agustus 2026. Perseroan merujuk pada surat tanggapan pemegang saham pengendali, PT Morris Capital Indonesia (MCI), bernomor 037/ST/Oxala-MCI/VIII/2026 tertanggal 26 Agustus 2026 yang ditujukan kepada Dewan Komisaris. Menurut corporate secretary Oxala, Haerul Maelani, negosiasi mengenai skema akuisisi perusahaan target tersebut masih terus berproses hingga laporan ini diterbitkan, tanpa merinci nilai transaksi, porsi kepemilikan, atau nama perusahaan yang dibidik.",
+   "Perseroan memperkirakan, jika seluruh proses transaksi termasuk persetujuan dari kreditur perusahaan target berjalan sesuai rencana, laporan keuangan perusahaan target baru bisa mulai dikonsolidasikan ke laporan keuangan Oxala pada tahun buku 2027. Dengan asumsi tersebut, manajemen memproyeksikan laba bersih Oxala akan meningkat signifikan, yang pada gilirannya diharapkan memperbaiki rasio price to earning ratio (PER) dan price to book value (PBV) saham PIPA di Bursa Efek Indonesia setelah konsolidasi berlangsung.",
+   "Oxala menegaskan seluruh informasi ini bersifat umum, tidak ditujukan pada pihak tertentu, dan bukan rekomendasi jual beli saham PIPA, karena seluruh proyeksi bersifat forward-looking dan bisa berubah mengikuti dinamika negosiasi. Dari sisi hukum, perseroan menyebut proses transaksi masih dalam tahap negosiasi dan menunggu persetujuan pihak ketiga, termasuk kreditur perusahaan target, sebelum bisa dilanjutkan sesuai aturan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Wide shot of steel pipelines and storage tanks at a natural gas processing facility in Indonesia at dusk, no visible text",
+  "takeaway": "Laporan ini netral, bahkan patut dibaca dengan skeptis, karena Oxala mengklaim laba bersihnya bakal melonjak signifikan akibat akuisisi yang skemanya sendiri belum disepakati, tanpa nilai transaksi, porsi saham, atau nama perusahaan target yang diungkap. Yang disentuh adalah laba bersih serta dua ukuran valuasi saham, PER yang membandingkan harga saham dengan laba per lembar dan PBV yang membandingkan harga saham dengan nilai buku perusahaan, dan keduanya otomatis terlihat membaik di atas kertas kalau laba kelompok usaha naik meski harga saham tidak bergerak. Perbaikan itu baru akan terwujud kalau proses konsolidasi laporan keuangan perusahaan target benar-benar berjalan, yang ditargetkan Oxala mulai tahun buku 2027 dan masih bergantung pada persetujuan kreditur perusahaan target. Yang perlu ditunggu adalah apakah skema akuisisi definitif, lengkap dengan nilai transaksi dan identitas perusahaan target, akhirnya diumumkan secara konkret, karena sejak keterbukaan informasi pertama pada 19 Agustus 2026 sampai laporan ini terbit negosiasi belum juga rampung.",
+  "sentimen": "netral"
  },
  {
   "slug": "meja-siapkan-right-issue-untuk-akuisisi-trimata-coal-perkasa",

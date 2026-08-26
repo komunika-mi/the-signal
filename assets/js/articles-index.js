@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "CARS Jelaskan ke BEI Soal [Volatilitas] Transaksi Saham",
+  "deck": "CARS menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, menegaskan tidak ada informasi material dan belum ada pemegang saham pengendali per 31 Juli 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CARS",
+   "Bintraco Dharma",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c127e4780f_c6b8f02659.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wins-beri-jaminan-perusahaan-us-12-juta-untuk-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "WINS Beri [Jaminan] Perusahaan US$12 Juta untuk Anak Usaha",
+  "deck": "Wintermar Offshore Marine (WINS) menjamin fasilitas kredit US$12 juta dari Bank Shinhan Indonesia untuk anak usahanya, PT Wintermar, guna refinancing kapal dan modal kerja.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINS",
+   "Wintermar Offshore Marine",
+   "jaminan perusahaan",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/62a5a299ee_385a4bcd2c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "direksi-mcor-junianto-tambah-kepemilikan-500-200-saham",
+  "category": "Aksi Korporasi",
+  "title": "[Direksi] MCOR: Junianto Tambah Kepemilikan 500.200 Saham",
+  "deck": "Direksi MCOR, Junianto, menambah kepemilikan 500.200 saham secara tidak langsung seharga Rp68 per lembar untuk memenuhi ketentuan OJK bagi pengurus bank.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MCOR",
+   "kepemilikan saham",
+   "direksi bank",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-4227-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-vto-diperpanjang-partisipasi-publik-4-7",
+  "category": "Aksi Korporasi",
+  "title": "EDGE: VTO Diperpanjang, Partisipasi Publik [4,7%]",
+  "deck": "Digital Edge Hong Kong memperpanjang tender saham EDGE hingga 22 September 2026, sementara hasil sementara dua periode pertama menunjukkan baru 4,7 persen saham publik yang ikut serta.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "Indointernet",
+   "VTO",
+   "Digital Edge Hong Kong"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5ec4779748_2386f08b9c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
   "category": "Aksi Korporasi",
   "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
@@ -98,6 +162,22 @@ var ARTICLES = [
    "MICE"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/35ebe7bd6f_88a604965b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-proyeksikan-laba-melonjak-dari-akuisisi-gas-skema-belum-final",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Proyeksikan Laba [Melonjak] dari Akuisisi Gas, Skema Belum Final",
+  "deck": "Oxala Energy International (PIPA) mengklaim laba bersihnya bakal melonjak dari rencana akuisisi perusahaan pengolahan gas alam, meski skema, nilai transaksi, dan identitas target belum diungkap.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "akuisisi",
+   "gas alam",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b31c16e316_ae3c50ed6d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6467,90 +6547,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cc58ee9c06_7a64eba02a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t",
-  "category": "Aksi Korporasi",
-  "title": "SILO [Jaminkan] Aset ke Bank untuk Pinjaman Sindikasi Rp14,5 T",
-  "deck": "Siloam menjaminkan aset di atas 50 persen kekayaan bersihnya untuk pinjaman sindikasi Rp14,5 triliun, menunggu persetujuan pemegang saham di RUPSLB 22 September 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/silo-jaminkan-aset-ke-bank-untuk-pinjaman-sindikasi-rp14-5-t.jpg",
-  "imageV": "mstuqdgs",
-  "tags": [
-   "SILO",
-   "pinjaman sindikasi",
-   "penjaminan aset",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/561352b173_3612f1090f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-rups-22-september-akuisisi-14-rs-rp9-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SILO RUPS 22 September, Akuisisi 14 RS [Rp9 Triliun]",
-  "deck": "Siloam akan gelar RUPS 22 September 2026 untuk menyetujui akuisisi 14 perusahaan pemilik properti rumah sakit dari First REIT senilai Rp9 triliun, dibiayai lewat utang bank baru Rp8,88 triliun.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/silo-rups-22-september-akuisisi-14-rs-rp9-triliun.jpg",
-  "imageV": "mstuqqb3",
-  "tags": [
-   "SILO",
-   "akuisisi rumah sakit",
-   "First REIT",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fd5b36959f_b73f7d61d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda",
-  "category": "Aksi Korporasi",
-  "title": "SILO Jadwalkan RUPSLB 22 September, [Akuisisi] Jadi Agenda",
-  "deck": "Siloam mengumumkan RUPSLB pada 22 September 2026 di Tangerang, dengan tenggat pencatatan pemegang saham 28 Agustus dan usul agenda 24 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/silo-jadwalkan-rupslb-22-september-akuisisi-jadi-agenda.jpg",
-  "imageV": "msturds1",
-  "tags": [
-   "SILO",
-   "RUPSLB",
-   "Siloam Hospitals",
-   "Akuisisi Rumah Sakit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/633f758b6b_21cbe5fe53.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "CSMI Bantah Ada Informasi Material soal [Volatilitas] Sahamnya",
-  "deck": "Merespons surat resmi BEI soal lonjakan transaksi sahamnya, direksi CSMI menyatakan tidak ada informasi material yang belum diungkap dan tidak ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/csmi-bantah-ada-informasi-material-soal-volatilitas-sahamnya.jpg",
-  "imageV": "mstus65s",
-  "tags": [
-   "CSMI",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/818ab2912d_c898b06aff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan",
-  "category": "Teknologi",
-  "title": "e-VOA Kini Bisa Dibayar Kartu Asing, Genjot [Wisatawan]",
-  "deck": "Finnet menghadirkan sistem pembayaran digital untuk visa kedatangan elektronik (e-VOA) sehingga wisatawan asing bisa bertransaksi pakai kartu bank negara asal, sekaligus mempercepat penerimaan negara.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/e-voa-kini-bisa-dibayar-kartu-asing-genjot-wisatawan.jpg",
-  "imageV": "mst4q1ao",
-  "tags": [
-   "e-VOA",
-   "wisatawan asing",
-   "Finnet",
-   "pembayaran digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459985-sistem-transaksi-digital-ini-upaya-dorong-peningkatan-wisatawan-asing"
  }
 ];

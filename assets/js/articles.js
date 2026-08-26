@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "swid-perkuat-bisnis-hospitality-di-yogyakarta",
+  "category": "Aksi Korporasi",
+  "title": "SWID Perkuat Bisnis [Hospitality] di Yogyakarta",
+  "deck": "SWID membuka hotel bintang lima The Royal Alana dan memulai pembangunan ballroom INNSiDE by Meliá di Yogyakarta, dengan proyeksi pendapatan gabungan naik hingga 50 persen dari kondisi saat ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T08:53:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/35ebe7bd6f_88a604965b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWID",
+  "tags": [
+   "SWID",
+   "hospitality",
+   "Yogyakarta",
+   "MICE"
+  ],
+  "body": [
+   "PT Saraswanti Indoland Development Tbk (SWID) melaporkan ke Bursa Efek Indonesia bahwa pada 27 Agustus 2026 perseroan akan menggelar dua momentum sekaligus di Yogyakarta, yaitu pembukaan The Royal Alana Yogyakarta, hotel bintang lima milik perseroan, dan peletakan batu pertama pembangunan ballroom baru di INNSiDE by Meliá Yogyakarta. Laporan keterbukaan informasi ini ditandatangani secara elektronik oleh Sekretaris Perusahaan SWID, Maria Evarisma Wulandari, pada 26 Agustus 2026.",
+   "Direktur Utama SWID, Bogat Agus Riyono, memaparkan bahwa The Alana Yogyakarta yang sudah beroperasi saat ini memiliki fasilitas MICE berkapasitas hingga 3.000 orang dengan 264 kamar. Dengan tambahan The Royal Alana Yogyakarta yang membawa 219 kamar baru, manajemen memperkirakan pendapatan gabungan kedua hotel bisa naik hingga 50 persen dari pendapatan yang ada sekarang.",
+   "Menurut perseroan, kehadiran The Royal Alana juga memungkinkan sinergi antara bisnis MICE dan akomodasi, mengingat selama ini sebagian kebutuhan kamar dari peserta acara MICE justru diserap hotel-hotel di sekitar lokasi. Sementara itu, ballroom baru di INNSiDE by Meliá disebut akan memperluas kapasitas penyelenggaraan acara berskala besar. Kedua pengembangan ini diharapkan mendongkrak tingkat hunian kamar, harga rata-rata kamar, dan pendapatan hotel secara keseluruhan."
+  ],
+  "fotoAdegan": "Construction workers erecting steel roof trusses for a new hotel ballroom extension in Yogyakarta, daylight, tropical landscaping nearby",
+  "takeaway": "Laporan ini condong positif karena menambah dua aset penghasil pendapatan baru yang sudah konkret, bukan sekadar wacana: satu hotel yang siap beroperasi dan satu proyek ballroom yang mulai dibangun. Perlu dicatat, proyeksi kenaikan pendapatan gabungan hingga 50 persen itu adalah perkiraan manajemen sendiri dan belum tentu sama persis dengan hasil nyata begitu kedua fasilitas benar-benar berjalan. Yang tersentuh di sini adalah recurring income, yaitu pendapatan rutin dari sewa kamar dan ruang acara yang terus berulang setiap bulan, berbeda dari pendapatan sekali jalan seperti penjualan lahan, sehingga kalau proyeksi ini terealisasi arus pendapatan SWID akan lebih stabil dari tahun ke tahun. Pelaku pasar biasanya akan mengecek tingkat hunian kamar dan harga rata-rata kamar setelah hotel dan ballroom beroperasi untuk menguji apakah proyeksi manajemen tersebut berdasar. Yang perlu dipantau berikutnya adalah pelaksanaan pembukaan The Royal Alana Yogyakarta dan peletakan batu pertama ballroom INNSiDE by Meliá pada 27 Agustus 2026, serta laporan keuangan kuartal mendatang untuk melihat apakah kontribusi pendapatan dari kedua proyek ini mulai terlihat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "meja-siapkan-right-issue-untuk-akuisisi-trimata-coal-perkasa",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Siapkan [Right Issue] untuk Akuisisi Trimata Coal Perkasa",
+  "deck": "RUPSLB MEJA menaikkan modal dasar ke Rp208,6 miliar, membuka jalan bagi rencana jadi holding company dan akuisisi tambang batu bara TCP lewat right issue.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T08:23:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/050302a857_92cbe58be4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "right issue",
+   "akuisisi tambang",
+   "holding company"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA) melaporkan tindak lanjut Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar 21 Agustus 2026. Dalam rapat itu, pemegang saham menyetujui kenaikan modal dasar perseroan dari Rp100 miliar menjadi Rp208.646.840.000. Modal dasar adalah batas maksimal saham yang boleh diterbitkan perusahaan, sehingga kenaikan ini menjadi syarat administratif sebelum perseroan bisa menerbitkan saham baru dalam jumlah lebih besar.",
+   "Sebagai tindak lanjut, perseroan tengah menyiapkan RUPSLB berikutnya untuk meminta persetujuan tiga hal sekaligus: perubahan kegiatan usaha MEJA menjadi perusahaan induk (holding company), pelaksanaan penambahan modal dengan hak memesan efek terlebih dahulu (right issue), dan akuisisi PT Trimata Coal Perkasa (TCP). Ketiganya disebut sebagai satu rangkaian struktur transaksi, dengan target seluruh proses rampung pada kuartal IV 2026. Perseroan berencana memakai laporan keuangan auditan per 30 Juni 2026 sebagai salah satu dokumen pendukung transaksi.",
+   "Soal harga right issue, perseroan kembali menegaskan indikasi kisaran Rp450 sampai Rp550 per saham yang sebelumnya pernah disampaikan ke publik. Perseroan menegaskan angka ini baru indikasi awal, bukan harga final, karena penetapannya masih menunggu hasil valuasi independen, struktur final transaksi, dan kondisi pasar saat pelaksanaan. Dalam laporan ini, MEJA juga menyatakan bahwa sampai saat ini rencana perubahan kegiatan usaha, right issue, dan akuisisi TCP belum menimbulkan dampak material langsung terhadap operasional, hukum, maupun keuangan perseroan karena semuanya masih tahap persiapan."
+  ],
+  "fotoAdegan": "Workers in hard hats operating a coal conveyor belt at an open-pit mine, dusty morning light, hills in background.",
+  "takeaway": "Laporan ini condong netral untuk saat ini, sebab seluruh rencana besar (ubah jadi holding company, right issue, akuisisi TCP) masih tahap persiapan dan belum ada angka pasti soal nilai akuisisi TCP atau berapa dana yang akan terkumpul dari right issue. Yang perlu diperhatikan adalah dua pos: jumlah saham beredar dan laba per saham, karena begitu right issue benar terlaksana, perseroan akan menerbitkan saham baru dan pemegang saham yang tidak menebus haknya akan melihat porsi kepemilikan serta labanya per saham terdilusi. Pivot dari bisnis dekorasi dan konstruksi ke holding company yang mengendalikan tambang batu bara juga bukan langkah kecil, sehingga wajar pasar menunggu kejelasan valuasi TCP sebelum menilai untung ruginya. Yang perlu dipantau berikutnya adalah RUPSLB lanjutan yang akan mengesahkan ketiga rencana ini, penetapan harga final right issue setelah valuasi independen rampung, serta target realisasi seluruh rangkaian transaksi pada kuartal IV 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hexa-gelar-rupst-lb-17-september-ubah-pasal-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Gelar RUPST-LB 17 September, [Ubah] Pasal Anggaran Dasar",
+  "deck": "Hexindo Adiperkasa mengundang pemegang saham ke RUPST dan RUPSLB pada 17 September 2026, salah satu agendanya mengubah Pasal 3 Anggaran Dasar mengikuti KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T08:14:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/043562b9a1_246d4457c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEXA",
+  "tags": [
+   "HEXA",
+   "RUPS",
+   "Hexindo Adiperkasa",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Hexindo Adiperkasa Tbk (HEXA) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 17 September 2026 pukul 10.00 WIB di Kantor Pusat Perseroan, Kawasan Industri Pulo Gadung, Jl. Pulo Kambing II Kav. I-II No. 33, Jakarta Timur. Pemegang saham yang berhak hadir atau memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 24 Agustus 2026 pukul 16.00 WIB, atau yang tercatat di rekening efek KSEI pada penutupan perdagangan tanggal yang sama.",
+   "Agenda RUPST mencakup pengesahan Laporan Tahunan untuk tahun buku yang berakhir 31 Maret 2026 sekaligus pembebasan tanggung jawab direksi dan dewan komisaris atas pengurusan dan pengawasan selama periode tersebut, penetapan penggunaan laba perusahaan, penunjukan akuntan publik untuk tahun buku 1 April 2026 sampai 31 Maret 2027, penetapan gaji dan tunjangan direksi serta komisaris, dan kemungkinan perubahan atau pengangkatan kembali susunan direksi dan/atau dewan komisaris. Sementara RUPSLB hanya membahas satu agenda, yaitu persetujuan perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha perusahaan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025). Perusahaan menegaskan perubahan ini bersifat administratif, tidak mengubah kegiatan usaha maupun arah bisnis, dan bukan perubahan kegiatan usaha material menurut POJK 17/POJK.04/2020.",
+   "Rapat digelar lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang ingin memberi suara elektronik atau menunjuk kuasa lewat aplikasi itu wajib melakukannya paling lambat pukul 12.00 WIB, satu hari kerja sebelum rapat. Bagi yang memakai surat kuasa konvensional lewat Biro Administrasi Efek PT Raya Saham Registra, dokumen asli harus diterima paling lambat tiga hari kerja sebelum rapat pukul 16.00 WIB, sedangkan pemegang saham beralamat luar negeri wajib menyerahkan surat kuasa asli sebelum rapat dimulai."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of yellow heavy equipment excavators in an industrial service yard, overcast morning light",
+  "takeaway": "Laporan ini netral karena isinya hanya undangan rapat dan belum ada keputusan finansial yang mengikat, termasuk perubahan Pasal 3 Anggaran Dasar yang oleh perusahaan sendiri disebut administratif dan tidak mengubah lini bisnis. Pos yang layak dicermati adalah agenda 'penetapan penggunaan laba', yakni keputusan RUPST soal berapa bagian laba tahun buku yang berakhir 31 Maret 2026 akan dibagikan sebagai dividen ke pemegang saham dan berapa yang ditahan sebagai modal perusahaan, karena pilihan ini langsung memengaruhi kas yang keluar dan besar ekuitas perusahaan ke depan. Agenda penetapan gaji direksi dan komisaris serta kemungkinan pergantian susunan pengurus juga berpotensi mengubah beban perusahaan, meski besarannya belum diungkap dalam pemanggilan ini. Yang perlu dipantau berikutnya adalah hasil RUPST dan RUPSLB pada 17 September 2026, terutama besaran dividen yang diputuskan dan ada tidaknya perubahan susunan direksi atau komisaris.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "prtl-klarifikasi-akuisisi-10-86-saham-btel",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Klarifikasi Akuisisi [10,86%] Saham BTEL",
+  "deck": "Protelindo menegaskan kepemilikan saham Bakrie Telecom berasal dari konversi obligasi wajib konversi 2014, bukan pembelian kembali seperti disebut media.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T08:13:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eec024f060_95767b7df7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "BTEL",
+   "Klarifikasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL) menerbitkan klarifikasi resmi ke Bursa Efek Indonesia untuk merespons dua pemberitaan media pada 24 Agustus 2026, yakni Emitentrust.com dan Bisnis Indonesia, yang menyebut Grup Djarum lewat Protelindo mengambil alih sekitar 10,86% saham PT Bakrie Telecom Tbk (BTEL) secara diam-diam. Dalam suratnya, Protelindo menegaskan bahwa perolehan saham BTEL tersebut merupakan pelaksanaan konversi Obligasi Wajib Konversi, bukan pelaksanaan perjanjian pembelian kembali (repurchase agreement) seperti diberitakan.",
+   "Perusahaan menjelaskan dasar hukum transaksi ini adalah Perjanjian Perdamaian tanggal 8 Desember 2014 antara BTEL dan para krediturnya, termasuk Protelindo, yang merupakan tindak lanjut dari putusan Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat terkait Penundaan Kewajiban Pembayaran Utang (PKPU) BTEL tanggal 10 November 2014. Rincian kepemilikan ini sudah tercantum dalam Laporan Keuangan Konsolidasian Protelindo periode enam bulan hingga 30 Juni 2026 serta Laporan Perubahan Kepemilikan Saham Nomor LK/24082026/0003/1 yang dilaporkan 24 Agustus 2026, menyusul pengumuman BEI tanggal 21 Agustus 2026 soal pencatatan saham BTEL Nomor Peng-P-01007/BEI.PP1/08-2026.",
+   "Protelindo menyatakan kepemilikan saham BTEL tersebut tidak bersifat material terhadap kegiatan usaha maupun kondisi keuangan perusahaan, dan perusahaan tetap fokus mengembangkan bisnis inti menara telekomunikasinya sambil mempertimbangkan peluang bisnis lain secara selektif. Surat klarifikasi ini ditandatangani oleh Anita Anwar selaku Wakil Direktur Utama dan Indra Gunawan selaku Direktur, keduanya menandatangani secara elektronik pada 25 Agustus 2026."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting cables and antennas on a steel tower at dusk, city skyline in the distance",
+  "takeaway": "Klarifikasi ini netral bagi Protelindo karena isi utamanya menegaskan bahwa akuisisi saham BTEL berjalan sah secara hukum lewat mekanisme lama, dan perusahaan sendiri menyatakan dampaknya ke keuangan tidak material, sehingga tidak mengubah gambaran fundamental yang sudah ada. Pos yang tersentuh adalah aset investasi Protelindo, karena piutang dari obligasi wajib konversi kepada BTEL kini berubah wujud menjadi kepemilikan saham, bukan aliran uang tunai baru yang masuk ke kas perusahaan. Pelaku pasar mencermati perubahan semacam ini karena nilai saham yang diterima bisa naik atau turun mengikuti kinerja BTEL, berbeda dengan piutang yang nilainya lebih tetap. Yang perlu dipantau berikutnya adalah laporan kepemilikan saham Protelindo di kemudian hari, sebab setiap perubahan lanjutan atas posisi 10,86% ini, baik bertambah maupun dilepas, wajib diumumkan ke bursa sesuai Peraturan BEI Nomor I-E.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
   "category": "Energi",
   "title": "Bahlil: 12,6 GW Listrik RI Masih Pakai [Solar]",
@@ -210,6 +314,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang disampaikan di sini masih berupa dorongan dari lembaga riset INDEF, belum ada kebijakan atau insentif baru dari pemerintah yang mengatur langkah UMKM sawit menembus pasar ekspor. Yang jelas terdampak adalah pelaku UMKM pengolah sawit, mulai dari produk makanan dan minyak goreng, sabun serta bahan kimia turunan sawit, sampai bahan bakar nabati, juga petani karena harga tandan buah segar disebut ikut terangkat ketika hilirisasi berjalan. Angka yang perlu dicermati adalah kontribusi UMKM terhadap ekspor nasional yang bertahan di sekitar 15 persen dan disebut stagnan, artinya seruan seperti ini sudah berulang kali disuarakan tanpa banyak mengubah angkanya. Yang masih kurang dari berita ini adalah program atau insentif konkret, misalnya pembiayaan ekspor atau pendampingan sertifikasi produk, yang bisa benar-benar menaikkan angka 15 persen itu.",
   "imageV": "mt81u6c2"
+ },
+ {
+  "slug": "avia-kantongi-peringkat-esg-1-dari-sustainalytics-di-antara-peer",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Kantongi Peringkat [ESG] #1 dari Sustainalytics di Antara Peer",
+  "deck": "Avia Avian mencatat ESG Risk Rating 16,9 per 30 Juni 2026, turun dari 21,3 pada September 2025, dan menempati peringkat pertama di antara emiten sekelas kapitalisasi pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 Agustus 2026",
+  "isoDate": "2026-08-25T04:42:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e824d5796_e6b03b6691.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "ESG",
+   "Sustainalytics",
+   "Avian Brands"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) menyampaikan siaran pers tertanggal 24 Agustus 2026 yang mengumumkan hasil pemutakhiran Sustainalytics ESG Risk Rating per 30 Juni 2026. Perusahaan mencatat skor 16,9 yang dikategorikan sebagai risiko rendah, dan skor ini menempatkan AVIA di peringkat pertama di antara kelompok perusahaan pembanding dengan kapitalisasi pasar US$1,0 miliar hingga US$1,1 miliar. Selain skor risiko terendah, AVIA juga tercatat memiliki ESG Risk Exposure atau tingkat keterpaparan risiko ESG yang paling rendah di antara kelompok pembanding tersebut.",
+   "Dokumen tersebut merinci tren skor dalam sembilan bulan terakhir. Pada 16 September 2025 skor AVIA berada di 21,3, lalu turun menjadi 20,5 pada 30 September 2025, turun lagi ke 17,3 pada 30 Oktober 2025, dan mencapai 16,9 pada 30 Juni 2026. Secara total, skor risiko ESG AVIA turun 4,4 poin dibandingkan posisi September 2025, di mana skor yang makin rendah berarti risiko yang makin terkendali.",
+   "Ruslan Tanoko, Wakil Direktur Utama PT Avia Avian Tbk, dikutip menyatakan bahwa capaian ini merupakan hasil dari komitmen perusahaan memperkuat praktik keberlanjutan yang terintegrasi dengan strategi bisnis, dan bukan sekadar pencapaian peringkat. Manajemen menyebut akan mempertahankan kualitas pengelolaan risiko ESG yang saat ini berada di kategori Strong, sekaligus terus menurunkan ESG Risk Exposure ke depan. Dokumen tersebut tidak mencantumkan dampak kejadian ini terhadap kondisi keuangan atau operasional perusahaan."
+  ],
+  "fotoAdegan": "Workers inspecting rows of paint cans on a factory production line, industrial lighting, Indonesian manufacturing plant interior",
+  "takeaway": "Laporan ini netral bagi AVIA karena perbaikan peringkat risiko ESG tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, beban bunga, atau laba per saham, sehingga sifatnya lebih ke reputasi ketimbang fundamental bisnis. ESG Risk Rating adalah ukuran seberapa besar risiko lingkungan, sosial, dan tata kelola yang belum dikelola perusahaan, semakin rendah angkanya semakin kecil risiko yang belum tertangani, dan sejumlah pengelola dana berbasis ESG memakainya sebagai salah satu saringan sebelum memilih saham. Penurunan skor dari 21,3 menjadi 16,9 dalam sembilan bulan terakhir menunjukkan tren perbaikan yang konsisten, meski belum tentu langsung terasa di laporan keuangan kuartal berjalan. Yang perlu dipantau berikutnya adalah apakah status Strong pada pengelolaan risiko ESG yang disebut manajemen tetap bertahan pada pembaruan penilaian Sustainalytics selanjutnya, karena skor semacam ini bisa naik turun setiap kali dinilai ulang.",
+  "sentimen": "netral"
  },
  {
   "slug": "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",

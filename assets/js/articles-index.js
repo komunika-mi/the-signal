@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "swid-perkuat-bisnis-hospitality-di-yogyakarta",
+  "category": "Aksi Korporasi",
+  "title": "SWID Perkuat Bisnis [Hospitality] di Yogyakarta",
+  "deck": "SWID membuka hotel bintang lima The Royal Alana dan memulai pembangunan ballroom INNSiDE by Meliá di Yogyakarta, dengan proyeksi pendapatan gabungan naik hingga 50 persen dari kondisi saat ini.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWID",
+   "hospitality",
+   "Yogyakarta",
+   "MICE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/35ebe7bd6f_88a604965b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meja-siapkan-right-issue-untuk-akuisisi-trimata-coal-perkasa",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Siapkan [Right Issue] untuk Akuisisi Trimata Coal Perkasa",
+  "deck": "RUPSLB MEJA menaikkan modal dasar ke Rp208,6 miliar, membuka jalan bagi rencana jadi holding company dan akuisisi tambang batu bara TCP lewat right issue.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "right issue",
+   "akuisisi tambang",
+   "holding company"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/050302a857_92cbe58be4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hexa-gelar-rupst-lb-17-september-ubah-pasal-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "HEXA Gelar RUPST-LB 17 September, [Ubah] Pasal Anggaran Dasar",
+  "deck": "Hexindo Adiperkasa mengundang pemegang saham ke RUPST dan RUPSLB pada 17 September 2026, salah satu agendanya mengubah Pasal 3 Anggaran Dasar mengikuti KBLI 2025.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEXA",
+   "RUPS",
+   "Hexindo Adiperkasa",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/043562b9a1_246d4457c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prtl-klarifikasi-akuisisi-10-86-saham-btel",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Klarifikasi Akuisisi [10,86%] Saham BTEL",
+  "deck": "Protelindo menegaskan kepemilikan saham Bakrie Telecom berasal dari konversi obligasi wajib konversi 2014, bukan pembelian kembali seperti disebut media.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "BTEL",
+   "Klarifikasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eec024f060_95767b7df7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
   "category": "Energi",
   "title": "Bahlil: 12,6 GW Listrik RI Masih Pakai [Solar]",
@@ -134,6 +198,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462302-indef-dorong-produk-sawit-indonesia-tembus-pasar-ekspor"
+ },
+ {
+  "slug": "avia-kantongi-peringkat-esg-1-dari-sustainalytics-di-antara-peer",
+  "category": "Aksi Korporasi",
+  "title": "AVIA Kantongi Peringkat [ESG] #1 dari Sustainalytics di Antara Peer",
+  "deck": "Avia Avian mencatat ESG Risk Rating 16,9 per 30 Juni 2026, turun dari 21,3 pada September 2025, dan menempati peringkat pertama di antara emiten sekelas kapitalisasi pasar.",
+  "date": "25 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "ESG",
+   "Sustainalytics",
+   "Avian Brands"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e824d5796_e6b03b6691.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",
@@ -6477,90 +6557,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/459963-10-pandangan-kadin-indonesia-menyambut-agenda-besar-presiden-prabowo-sorot-fundamental-ekonomi-hingga-mesin-investasi"
- },
- {
-  "slug": "mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar",
-  "category": "Aksi Korporasi",
-  "title": "MGLV: Pengendali [Lepas] 52,9 Juta Saham Rp370 Miliar",
-  "deck": "PT Nextier Datamate Center melepas 52,9 juta saham MGLV senilai sekitar Rp370,5 miliar dalam tiga hari transaksi, menurunkan hak suaranya dari 74,06 persen menjadi 71,28 persen.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/mglv-pengendali-lepas-52-9-juta-saham-rp370-miliar.jpg",
-  "imageV": "msxg3zcl",
-  "tags": [
-   "MGLV",
-   "kepemilikan saham",
-   "Nextier Datamate Center",
-   "Panca Anugrah Wisesa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14082026-9878-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-bjb-dan-persib-kolaborasi-lagi-musim-2026",
-  "category": "Perbankan",
-  "title": "bank bjb dan PERSIB [Kolaborasi] Lagi Musim 2026",
-  "deck": "bank bjb kembali menjadi Official Banking Partner PERSIB untuk musim 2026, dua belas tahun setelah kerja sama serupa mengantar PERSIB juara Liga Indonesia 2014.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/bank-bjb-dan-persib-kolaborasi-lagi-musim-2026.jpg",
-  "imageV": "mst1gou7",
-  "tags": [
-   "bank bjb",
-   "PERSIB",
-   "Bandung",
-   "co-branding"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459962-kembali-berkolaborasi-bank-bjb-dan-persib-satukan-semangat-juara"
- },
- {
-  "slug": "mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027",
-  "category": "Aksi Korporasi",
-  "title": "MDLN Ajukan [Scheme of Arrangement] untuk Selesaikan Notes 2027",
-  "deck": "Modernland Realty mengajukan skema restrukturisasi Guaranteed Senior Notes jatuh tempo 2027, voting pemegang notes berlangsung hingga 24 Agustus 2026.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/mdln-ajukan-scheme-of-arrangement-untuk-selesaikan-notes-2027.jpg",
-  "imageV": "mstutq1m",
-  "tags": [
-   "MDLN",
-   "restrukturisasi utang",
-   "obligasi global",
-   "Modernland Realty"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f84cb97386_9fe6d436af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "restrukturisasi-telkom-enterprise-danantara-incar-pasar-30",
-  "category": "BUMN",
-  "title": "Restrukturisasi Telkom Enterprise, Danantara Incar [Pasar] 30%",
-  "deck": "Telkom merombak organisasi bisnis enterprise bersama Danantara untuk memperkuat layanan digital ke pemerintah, BUMN, dan swasta, dengan potensi pasar diperkirakan tumbuh hingga 30 persen.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/restrukturisasi-telkom-enterprise-danantara-incar-pasar-30.jpg",
-  "imageV": "mst1gr7c",
-  "tags": [
-   "telkom",
-   "danantara",
-   "telkom enterprise",
-   "bumn"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459957-sinergi-telkom-bersama-danantara-prospek-pasar-segmen-enterprise-telkom-diperkirakan-tumbuh-hingga-30-persen"
- },
- {
-  "slug": "pegadaian-dorong-literasi-keuangan-ojek-pangkalan",
-  "category": "BUMN",
-  "title": "Pegadaian Dorong [Literasi Keuangan] Ojek Pangkalan",
-  "deck": "Pegadaian menggelar edukasi keuangan untuk pengemudi ojek pangkalan di Tanjung Priok, mendorong menabung emas dan menjauhkan mereka dari pinjaman ilegal.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/pegadaian-dorong-literasi-keuangan-ojek-pangkalan.jpg",
-  "imageV": "mst1gt30",
-  "tags": [
-   "Pegadaian",
-   "literasi keuangan",
-   "ojek pangkalan",
-   "sektor informal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459954-pegadaian-dorong-literasi-keuangan-pengemudi-ojek-pangkalan-soroti-pentingnya-menabung-dan-hindari-pinjaman-ilegal"
  }
 ];

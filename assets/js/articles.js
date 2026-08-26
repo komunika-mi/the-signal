@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T09:24:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun pada Rabu, 26 Agustus 2026, berdasarkan pemantauan di laman resmi Logam Mulia. Harga per gram melorot Rp18.000, dari sebelumnya Rp2.768.000 menjadi Rp2.750.000. Penurunan ini relevan bagi masyarakat yang menyimpan emas Antam sebagai instrumen investasi atau tabungan, karena nilai kepemilikan mereka ikut menyusut hari ini.",
+   "Harga buyback, yaitu harga yang dibayarkan Antam saat nasabah menjual kembali emas batangannya, juga ikut turun menjadi Rp2.610.000 per gram. Dengan begitu, siapa pun yang berencana mencairkan emas Antam hari ini akan menerima uang lebih sedikit dibandingkan sebelum penurunan berlaku.",
+   "Antam mengingatkan bahwa harga emas batangan bisa berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka pada satu hari tertentu tidak bisa dijadikan patokan tetap untuk hari berikutnya."
+  ],
+  "fotoAdegan": "Small gold bars and ingots arranged on a velvet tray inside a precious metals shop display case, warm lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah hari ini hanya angka harga jual dan buyback emas Antam, turun masing-masing ke Rp2.750.000 dan Rp2.610.000 per gram, tanpa penjelasan pemicunya di sumber data. Yang terdampak adalah pemilik emas Antam yang berencana menjual atau membeli pada hari yang sama, karena selisih Rp18.000 itu langsung memengaruhi nilai transaksi mereka. Yang masih kurang untuk membaca ke mana arah harga emas selanjutnya adalah data pergerakan harga emas dunia dan kurs rupiah terhadap dolar dalam beberapa hari terakhir, sebab dua faktor itu yang biasanya menggerakkan harga emas Antam naik atau turun. Tanpa data pembanding itu, penurunan hari ini belum bisa disimpulkan sebagai awal tren atau sekadar fluktuasi harian biasa.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
+  "category": "BUMN",
+  "title": "Askrindo Jamin [512] Proyek Strategis Rp261,9 Triliun",
+  "deck": "Askrindo mencatat dukungan asuransi dan penjaminan untuk 512 proyek strategis dan keamanan nasional senilai Rp261,9 triliun per Desember 2025, termasuk 16 proyek PSN.",
+  "image": "assets/img/askrindo-jamin-512-proyek-strategis-rp261-9-triliun.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T09:20:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462576-askrindo-dukung-512-proyek-strategis-dan-perkuat-umkm-nasional",
+  "tags": [
+   "Askrindo",
+   "PSN",
+   "UMKM",
+   "KUR"
+  ],
+  "body": [
+   "PT Asuransi Kredit Indonesia atau Askrindo, perusahaan asuransi milik negara, melaporkan bahwa per Desember 2025 pihaknya telah memberikan asuransi dan penjaminan atau suretyship, yakni jaminan yang memastikan sebuah proyek tetap berjalan sesuai kontrak, untuk 512 proyek strategis dan proyek di sektor keamanan nasional. Total nilai seluruh proyek yang dijamin itu mencapai sekitar Rp261,9 triliun. Angka ini menunjukkan seberapa besar keterlibatan Askrindo dalam menopang pembiayaan infrastruktur nasional, di luar bisnis intinya menjamin kredit untuk usaha kecil.",
+   "Dari 512 proyek tersebut, 16 di antaranya berstatus Proyek Strategis Nasional atau PSN, yakni proyek infrastruktur yang menjadi prioritas pemerintah, dengan nilai gabungan sekitar Rp143,2 triliun. Sisanya, 496 proyek, berada di sektor keamanan nasional dengan nilai sekitar Rp118,7 triliun. Sejumlah proyek PSN yang mendapat penjaminan Askrindo antara lain aset kereta cepat Whoosh, Tol Ngawi-Kertosono-Kediri, Tol Japek Selatan, aset Jasa Marga Bali Tol, Tol Serpong-Balaraja Seksi 1A, aset Tol Medan-Binjai, pembangunan perumahan di IKN, Tol Serang-Panimbang, Jaringan Sumber Air Pemali-Juana, pembangunan rumah sakit, Tol Probolinggo-Banyuwangi, Tol Jogja-Solo, Tanjung Priok Port Tollways, Tol Cisumdawu, dan Kawasan Industri Terpadu Batang.",
+   "Di sisi kapasitas bisnis, Askrindo mencatat kenaikan pada lini penjaminan proyek korporasi atau Commercial Line, yakni batas maksimal nilai proyek besar yang sanggup dijamin perusahaan. Kapasitas ini naik dari Rp20,1 triliun pada 2023 menjadi Rp28,6 triliun saat ini, atau tumbuh sekitar 42 persen. Direktur Keuangan Askrindo, Leonardo Henry Gavaza, menyebut kenaikan ini sejalan dengan meningkatnya kepercayaan bank mitra terhadap Askrindo, dan menegaskan peran perusahaan tidak hanya diukur dari pertumbuhan bisnis semata, tetapi juga dari manfaatnya bagi perekonomian yang lebih luas.",
+   "Di luar proyek infrastruktur besar, Askrindo juga berperan lewat Asuransi Program Pemerintah, khususnya untuk Kredit Usaha Rakyat atau KUR, yaitu kredit bersubsidi bunga yang disalurkan pemerintah untuk pelaku usaha mikro, kecil, dan menengah. Menurut Leonardo, asuransi ini menjadi salah satu cara Askrindo hadir lebih dekat dengan masyarakat sekaligus memperluas akses pembiayaan bagi UMKM."
+  ],
+  "fotoAdegan": "Workers in safety vests welding elevated rail viaduct segments for a high-speed train line, cranes and concrete pylons in the background, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8e4cd1194c2-ilustrasi-gedung-askrindo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah kapasitas Askrindo menjamin proyek bernilai besar, dari Rp20,1 triliun pada 2023 menjadi Rp28,6 triliun sekarang, naik 42 persen dalam waktu sekitar dua tahun. Yang terdampak langsung adalah kontraktor dan operator proyek infrastruktur seperti ruas tol dan kereta cepat Whoosh yang butuh jaminan risiko, bank mitra yang mendanai proyek tersebut, serta pelaku UMKM yang mengandalkan asuransi KUR untuk bisa mengakses kredit. Kombinasi antara kapasitas komersial yang membesar dan jumlah proyek yang dijamin bertambah menjadi 512 per Desember 2025 mengarah ke pola Askrindo memperluas peran gandanya, yaitu penjamin proyek infrastruktur skala besar sekaligus penjamin kredit UMKM, ketimbang berfokus pada satu segmen saja. Yang akan memastikan apakah pola ini berlanjut adalah laporan kapasitas Commercial Line Askrindo pada periode berikutnya, serta apakah jumlah proyek PSN dan keamanan nasional yang dijamin terus bertambah dari angka 512 saat ini.",
+  "imageV": "mt9hfype"
+ },
+ {
   "slug": "swid-perkuat-bisnis-hospitality-di-yogyakarta",
   "category": "Aksi Korporasi",
   "title": "SWID Perkuat Bisnis [Hospitality] di Yogyakarta",
@@ -505,7 +558,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

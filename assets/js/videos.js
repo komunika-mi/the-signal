@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "tyj_A0VFAYQ",
+  "title": "Sandiaga Uno Jadi Presiden Komisaris MUTU International",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "PT Mutuagung Lestari Tbk atau MUTU International menunjuk Sandiaga Salahuddin Uno sebagai Presiden Komisaris melalui RUPSLB, seiring rencana perusahaan memperluas bisnis sertifikasi mutu.",
+  "takeaway": "Pergantian jajaran komisaris di perusahaan terbuka layak disimak karena berpotensi mengubah arah strategi dan tata kelola perusahaan ke depan.",
+  "terbit": "2026-08-26T01:53:18+00:00"
+ },
+ {
   "id": "r4A6TWWW1sw",
   "title": "Presiden Prabowo Resmikan PLTS Gilimanuk di Bali",
   "category": "Energi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Harga daging sapi di pasar naik hingga Rp160.000 per kilogram, sehingga pemerintah menyiapkan langkah stabilisasi menggunakan dana APBN dan APBD.",
   "takeaway": "Kenaikan harga daging sapi menjadi indikator tekanan inflasi pangan yang berdampak langsung pada daya beli masyarakat.",
   "terbit": "2026-08-24T08:55:54+00:00"
- },
- {
-  "id": "6WnRuyBPVcA",
-  "title": "Kurs Rupiah dan Harga Emas Antam 24 Agustus 2026",
-  "category": "Moneter",
-  "program": "Kabar Siang",
-  "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
-  "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik.",
-  "terbit": "2026-08-24T07:35:07+00:00"
  }
 ];

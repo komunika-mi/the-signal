@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram"
+ },
+ {
+  "slug": "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
+  "category": "BUMN",
+  "title": "Askrindo Jamin [512] Proyek Strategis Rp261,9 Triliun",
+  "deck": "Askrindo mencatat dukungan asuransi dan penjaminan untuk 512 proyek strategis dan keamanan nasional senilai Rp261,9 triliun per Desember 2025, termasuk 16 proyek PSN.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/askrindo-jamin-512-proyek-strategis-rp261-9-triliun.jpg",
+  "imageV": "mt9hfype",
+  "tags": [
+   "Askrindo",
+   "PSN",
+   "UMKM",
+   "KUR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462576-askrindo-dukung-512-proyek-strategis-dan-perkuat-umkm-nasional"
+ },
+ {
   "slug": "swid-perkuat-bisnis-hospitality-di-yogyakarta",
   "category": "Aksi Korporasi",
   "title": "SWID Perkuat Bisnis [Hospitality] di Yogyakarta",
@@ -319,7 +351,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6523,39 +6555,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/405fd8f987_3c424c559f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali",
-  "category": "Aksi Korporasi",
-  "title": "RUNS: Penjualan Saham [Pengendali] ke Istri Bukan Ubah Kendali",
-  "deck": "BEI mempertanyakan penjualan saham pengendali RUNS yang membuat kepemilikannya nyaris disalip pemegang saham kedua. Perseroan membantah ada pergantian kendali dan mengakui dua kekeliruan input di laporan sebelumnya.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/runs-penjualan-saham-pengendali-ke-istri-bukan-ubah-kendali.jpg",
-  "imageV": "mstut46k",
-  "tags": [
-   "RUNS",
-   "pemegang saham pengendali",
-   "keterbukaan informasi BEI",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0b0568cec8_e8c9b6ee0b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadin-rating-kredit-ri-bertahan-dorong-investasi-riil",
-  "category": "Makroekonomi",
-  "title": "Kadin: Rating [Kredit] RI Bertahan, Dorong Investasi Riil",
-  "deck": "Kadin menyambut peringkat kredit RI yang dipertahankan S&P (BBB) dan China Lianhe (AAA), tapi minta kepercayaan itu diterjemahkan jadi investasi riil.",
-  "date": "14 Agustus 2026",
-  "image": "assets/img/kadin-rating-kredit-ri-bertahan-dorong-investasi-riil.jpg",
-  "imageV": "mst1gnn4",
-  "tags": [
-   "kadin",
-   "peringkat kredit",
-   "investasi",
-   "apbn 2027"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/459963-10-pandangan-kadin-indonesia-menyambut-agenda-besar-presiden-prabowo-sorot-fundamental-ekonomi-hingga-mesin-investasi"
  }
 ];

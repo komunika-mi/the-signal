@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
+  "category": "Bisnis",
+  "title": "IRSE 2026 Dibuka, Ritel Didorong Genjot [Teknologi]",
+  "deck": "Mendag Busan mengajak pelaku ritel memanfaatkan teknologi saat membuka IRSE 2026, di tengah konsumsi rumah tangga yang menyumbang 53,32 persen ekonomi nasional pada kuartal II 2026.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/irse-2026-dibuka-ritel-didorong-genjot-teknologi.jpg",
+  "imageV": "mtaavl05",
+  "tags": [
+   "ritel",
+   "IRSE 2026",
+   "konsumsi rumah tangga",
+   "QRIS"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ikut-buka-irse-2026-mendag-busan-teknologi-tingkatkan-pengalaman-belanja-konsumen",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
   "category": "Energi",
   "title": "ESDM Kirim [48] Genset ke Tujuh Kabupaten NTT Terdampak Gempa",
@@ -1058,7 +1076,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6505,23 +6523,6 @@ var ARTICLES = [
    "Hetzer Medical Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17082026-6067-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3",
-  "category": "Aksi Korporasi",
-  "title": "MDIA: rugi neto [menyusut] ke Rp8,3 miliar, liabilitas turun 8,3%",
-  "deck": "Menjawab permintaan penjelasan Bursa, Intermedia Capital (MDIA) memaparkan kinerja kuartal I 2026: rugi neto menyusut ke Rp8,3 miliar dan liabilitas turun 8,3% menjadi Rp2,19 triliun.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/mdia-rugi-neto-menyusut-ke-rp8-3-miliar-liabilitas-turun-8-3.jpg",
-  "imageV": "msxg117o",
-  "tags": [
-   "MDIA",
-   "ANTV",
-   "media",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/70b0fc9f4c_dca260c249.pdf",
   "sourceLabel": "IDX"
  }
 ];

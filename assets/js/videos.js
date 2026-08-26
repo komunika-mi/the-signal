@@ -2,6 +2,69 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GkxhMXx3UTA",
+  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan penjualan mobil disorot sebagai indikator pemulihan aktivitas ekonomi Indonesia di tengah dinamika daya beli masyarakat.",
+  "takeaway": "Data penjualan otomotif kerap dipakai sebagai proksi kesehatan ekonomi domestik, sehingga tren ini relevan bagi pembaca yang memantau arah pemulihan.",
+  "terbit": "2026-08-26T16:00:10+00:00"
+ },
+ {
+  "id": "bjOCQiKbqtk",
+  "title": "Kemenperin Jelaskan Wacana Mobil Nasional",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Perindustrian memberi penjelasan soal wacana pengembangan mobil nasional di tengah sorotan terhadap kinerja industri otomotif dalam negeri.",
+  "takeaway": "Kebijakan mobil nasional menyangkut arah investasi dan daya saing industri manufaktur otomotif Indonesia.",
+  "terbit": "2026-08-26T15:50:09+00:00"
+ },
+ {
+  "id": "rNODfrvnFgg",
+  "title": "GAIKINDO dan Fitra Eri Soroti Pajak Mobil Baru",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Sekjen GAIKINDO bersama pengamat otomotif Fitra Eri membahas dampak kebijakan pajak kendaraan baru terhadap penjualan mobil di Indonesia.",
+  "takeaway": "Kebijakan pajak kendaraan bermotor berpengaruh langsung pada harga jual dan daya beli konsumen otomotif.",
+  "terbit": "2026-08-26T15:41:49+00:00"
+ },
+ {
+  "id": "NmEOqz-HfJY",
+  "title": "Mobil Listrik vs BBM, Ini Perbandingan Biayanya",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Suryo Pratomo membandingkan harga dan biaya operasional mobil listrik dengan mobil berbahan bakar minyak di tengah pergeseran pasar otomotif.",
+  "takeaway": "Perbandingan biaya ini membantu pembaca menilai arah transisi pasar kendaraan dan dampaknya bagi industri energi.",
+  "terbit": "2026-08-26T15:40:16+00:00"
+ },
+ {
+  "id": "R3OrofgvMEM",
+  "title": "Anomali Penjualan Mobil Naik di Tengah Daya Beli Lemah",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Fitra Eri mengulas fenomena penjualan mobil yang justru meningkat di tengah sinyal pelemahan daya beli masyarakat Indonesia.",
+  "takeaway": "Anomali ini penting dicermati karena bisa mengubah asumsi umum soal hubungan daya beli dan konsumsi barang tahan lama.",
+  "terbit": "2026-08-26T15:28:21+00:00"
+ },
+ {
+  "id": "T65tlKy2bRc",
+  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
+  "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time.",
+  "terbit": "2026-08-26T12:33:12+00:00"
+ },
+ {
+  "id": "H4C5Fei2534",
+  "title": "DPR Terima Audiensi Serikat Buruh PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "Pimpinan DPR dan Komisi VI menggelar audiensi dengan serikat buruh PT Pos Indonesia membahas persoalan ketenagakerjaan di perusahaan pelat merah itu.",
+  "takeaway": "Audiensi ini menyangkut nasib pekerja BUMN logistik nasional yang tengah menghadapi tantangan bisnis.",
+  "terbit": "2026-08-26T14:52:36+00:00"
+ },
+ {
   "id": "9elIydie_0A",
   "title": "Presiden AS Ancam Mitra Dagang Iran dengan Sanksi",
   "category": "Global",
@@ -45,68 +108,5 @@ var VIDEOS = [
   "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
   "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur.",
   "terbit": "2026-08-26T09:06:24+00:00"
- },
- {
-  "id": "tyj_A0VFAYQ",
-  "title": "Sandiaga Uno Jadi Presiden Komisaris MUTU International",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "PT Mutuagung Lestari Tbk atau MUTU International menunjuk Sandiaga Salahuddin Uno sebagai Presiden Komisaris melalui RUPSLB, seiring rencana perusahaan memperluas bisnis sertifikasi mutu.",
-  "takeaway": "Pergantian jajaran komisaris di perusahaan terbuka layak disimak karena berpotensi mengubah arah strategi dan tata kelola perusahaan ke depan.",
-  "terbit": "2026-08-26T01:53:18+00:00"
- },
- {
-  "id": "r4A6TWWW1sw",
-  "title": "Presiden Prabowo Resmikan PLTS Gilimanuk di Bali",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto meresmikan groundbreaking tahap pertama proyek Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Gilimanuk, Bali.",
-  "takeaway": "Proyek ini penting bagi pembaca ekonomi karena mencerminkan arah investasi pemerintah dalam pengembangan energi terbarukan berskala besar.",
-  "terbit": "2026-08-25T15:41:05+00:00"
- },
- {
-  "id": "ewdCLytOnIA",
-  "title": "AS Ancam Sanksi Baru, Matikan Ekonomi Iran",
-  "category": "Global",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Amerika Serikat memberlakukan sanksi ekonomi baru terhadap Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak memiliki dasar dari PBB.",
-  "takeaway": "Sanksi ekonomi AS terhadap Iran relevan bagi pembaca karena berpotensi memengaruhi harga energi dan arus perdagangan global.",
-  "terbit": "2026-08-25T13:10:05+00:00"
- },
- {
-  "id": "s6X2aNbkM04",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp di Bali",
-  "category": "Energi",
-  "program": "Indonesia Terkini",
-  "summary": "Presiden Prabowo Subianto menggelar peluncuran dan groundbreaking program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari agenda transisi energi nasional.",
-  "takeaway": "Program energi surya berskala besar ini berpotensi menggerakkan investasi baru dan menjadi indikator kemajuan target bauran energi terbarukan Indonesia.",
-  "terbit": "2026-08-25T13:30:15+00:00"
- },
- {
-  "id": "u3IMZTSwJ-Q",
-  "title": "Presiden Prabowo Resmikan Pembangunan PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto meresmikan pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari program transisi energi nasional.",
-  "takeaway": "Proyek PLTS berskala besar ini relevan bagi pembaca ekonomi karena menyangkut arah investasi energi terbarukan dan bauran energi nasional ke depan.",
-  "terbit": "2026-08-25T11:00:29+00:00"
- },
- {
-  "id": "Zl5RCPsgvD0",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Kabupaten Jembrana, Bali.",
-  "takeaway": "Peluncuran ini menandai langkah pemerintah memperbesar porsi energi terbarukan dalam bauran energi nasional, hal yang relevan bagi investor dan pelaku industri energi.",
-  "terbit": "2026-08-25T09:18:07+00:00"
- },
- {
-  "id": "oQa6Z0LZ3QI",
-  "title": "Pidato Presiden Prabowo di Peluncuran PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
-  "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan.",
-  "terbit": "2026-08-25T08:58:33+00:00"
  }
 ];

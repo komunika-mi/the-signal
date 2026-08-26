@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
+  "category": "Bisnis",
+  "title": "IRSE 2026 Dibuka, Ritel Didorong Genjot [Teknologi]",
+  "deck": "Mendag Busan mengajak pelaku ritel memanfaatkan teknologi saat membuka IRSE 2026, di tengah konsumsi rumah tangga yang menyumbang 53,32 persen ekonomi nasional pada kuartal II 2026.",
+  "image": "assets/img/irse-2026-dibuka-ritel-didorong-genjot-teknologi.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T16:16:44.634Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ikut-buka-irse-2026-mendag-busan-teknologi-tingkatkan-pengalaman-belanja-konsumen",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ritel",
+   "IRSE 2026",
+   "konsumsi rumah tangga",
+   "QRIS"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso, yang akrab disapa Mendag Busan, membuka Indonesia Retail Summit and Expo (IRSE) 2026 di PIK Avenue, Jakarta Utara, Rabu (26/8), didampingi Menteri Koordinator Bidang Perekonomian Airlangga Hartarto. Dalam sambutannya, Mendag Busan meminta pelaku usaha ritel memperbanyak pemakaian teknologi agar bisa mengimbangi ekspektasi konsumen yang kian tinggi terhadap kemudahan berbelanja. Ia menyebut sektor ritel sebagai penghubung utama antara industri hulu dan konsumen, sekaligus cerminan kondisi ekonomi rumah tangga di Indonesia.",
+   "Airlangga menyampaikan bahwa konsumsi rumah tangga masih menjadi penopang utama pertumbuhan ekonomi nasional. Pada kuartal II 2026, ekonomi Indonesia tumbuh 5,06 persen dibanding periode yang sama tahun sebelumnya, dengan pengeluaran konsumsi rumah tangga menyumbang 53,32 persen dari total nilai ekonomi tersebut. Kepercayaan masyarakat terhadap kondisi ekonomi juga tercatat positif, terlihat dari Indeks Keyakinan Konsumen pada Juli 2026 yang berada di angka 116,8, di atas ambang 100 yang biasanya menandakan optimisme konsumen.",
+   "Untuk menjaga laju belanja masyarakat, pemerintah rutin menggandeng asosiasi ritel lewat program seperti Belanja di Indonesia Aja, Indonesia Shopping Festival, dan Friday Mubarak. Di sisi sistem pembayaran, layanan QRIS tercatat sudah dipakai 65,77 juta orang dan diterima oleh 44,86 juta pedagang, dengan 96,68 persen di antaranya merupakan pelaku usaha mikro, kecil, dan menengah.",
+   "IRSE 2026, yang digelar Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (HIPPINDO), menghadirkan 31 sesi konferensi, 55 pembicara, dan 93 peserta pameran dengan tema besar seputar ritel yang berorientasi pada konsumen. Ketua HIPPINDO Budihardjo Iduansjah mengingatkan peritel yang masih berjualan secara luring atau di toko fisik perlu beradaptasi dengan teknologi, termasuk kecerdasan buatan, agar tidak tertinggal. Dalam rangkaian acara ini juga diberikan penghargaan Harmoni Award 2026 kepada perusahaan ritel dan merek lokal terbaik, dengan Kementerian Perdagangan ikut menjadi salah satu juri."
+  ],
+  "fotoAdegan": "Customers using smartphones to make cashless payments at a busy retail store checkout counter, natural morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/mzZLc0nrJdWGPMzfF9oMQF7zKjBD4Th3ZPVx1wU3.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang mengemuka dari acara ini bukan aturan baru, melainkan ajakan pemerintah agar pelaku ritel mempercepat pemakaian teknologi, sementara data yang dikutip Menko Airlangga menunjukkan konsumsi rumah tangga menyumbang 53,32 persen dari ekonomi yang tumbuh 5,06 persen pada kuartal II 2026. Pihak yang paling disasar oleh ajakan ini adalah peritel yang masih mengandalkan toko fisik, karena Ketua HIPPINDO sendiri mengingatkan mereka perlu beradaptasi dengan teknologi seperti kecerdasan buatan, sementara pelaku usaha kecil ikut tersinggung lewat data QRIS yang mayoritas penggunanya adalah pedagang kecil. Yang belum terlihat dari forum ini adalah apakah ajakan tersebut akan diikuti insentif atau program konkret dari Kementerian Perdagangan untuk mendorong digitalisasi ritel, sebab yang disampaikan sejauh ini baru berupa imbauan dalam forum tahunan. Perlu dicermati apakah ada kebijakan pendukung digitalisasi ritel yang menyusul setelah forum ini, atau apakah ajakan ini akan berhenti sebagai seremoni tahunan seperti sebelumnya.",
+  "imageV": "mtaavl05"
+ },
+ {
   "slug": "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
   "category": "Energi",
   "title": "ESDM Kirim [48] Genset ke Tujuh Kabupaten NTT Terdampak Gempa",
@@ -1703,7 +1731,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

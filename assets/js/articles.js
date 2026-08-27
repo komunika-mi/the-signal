@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
+  "category": "Energi",
+  "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
+  "deck": "ESDM mulai membahas pembatasan pembeli LPG 3 kilogram bersubsidi berdasarkan data desil kesejahteraan bersama BPS dan Pertamina, menyusul arahan hasil pertemuan dengan Kementerian Keuangan.",
+  "image": "assets/img/lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T11:15:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462865-lpg-3-kg-tak-lagi-bebas-dibeli-esdm-siapkan-batas-penerima-berdasarkan-desil-kesejahteraan",
+  "tags": [
+   "LPG 3 kg",
+   "subsidi energi",
+   "ESDM",
+   "desil kesejahteraan"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral tengah menyiapkan aturan yang membatasi siapa saja yang boleh membeli LPG 3 kilogram bersubsidi. Dasar pembatasannya adalah desil kesejahteraan, yaitu pengelompokan rumah tangga berdasarkan tingkat ekonomi. Kalau diterapkan, ini mengubah kebiasaan lama di mana gas melon relatif bebas dibeli siapa pun tanpa syarat, menjadi diatur berdasarkan status ekonomi pembeli.",
+   "Direktur Jenderal Minyak dan Gas Bumi ESDM Laode Sulaeman mengatakan pengaturan ini diperlukan agar penyaluran LPG bersubsidi lebih tepat sasaran, sejalan dengan program konversi yang sedang digencarkan pemerintah. Ia menyebut, pembatasan berbasis desil nantinya tidak hanya berlaku untuk bahan bakar minyak, tapi juga untuk LPG. Pernyataan ini disampaikan Laode di Gedung DPR RI, Kamis, 27 Agustus 2026.",
+   "ESDM akan membahas penerapan data desil tersebut bersama Badan Pusat Statistik dan PT Pertamina. Pembahasan ini merupakan tindak lanjut dari pertemuan antara Menteri ESDM dan Menteri Keuangan sebelumnya, meski detail mekanisme dan batas desil yang akan dipakai belum diputuskan.",
+   "Langkah ini bukan satu-satunya upaya memperbaiki ketepatan sasaran subsidi LPG 3 kilogram. Sebelumnya, PT Pertamina Patra Niaga sudah meneken kerja sama dengan Direktorat Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri untuk memanfaatkan data kependudukan dalam penyalurannya."
+  ],
+  "fotoAdegan": "Woman carrying a small subsidized gas cylinder from a neighborhood kiosk, busy morning street market atmosphere.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/12/24/694bc745e74ac-pertamina-dan-pemda-aceh-kerja-sama-distribusikan-lpg-3-kg-ini-daftar-wilayah-operasi-pasarnya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru rencana, bukan aturan final: ESDM ingin memakai desil kesejahteraan, yaitu peringkat status ekonomi rumah tangga yang dibagi sepuluh kelompok dari yang termiskin sampai terkaya, sebagai syarat pembelian LPG 3 kilogram bersubsidi. Kalau jadi diterapkan, yang kena dampak adalah jutaan rumah tangga yang selama ini bebas membeli gas melon di warung tanpa syarat apa pun, terutama yang masuk kelompok menengah ke atas dan berpotensi tidak lagi kebagian jatah subsidi, serta Pertamina yang harus membangun sistem verifikasi pembeli baru. Bukti yang ada sekarang masih terlalu tipis untuk memastikan ke mana arah kebijakan ini, sebab ESDM sendiri mengaku baru akan membahas mekanismenya bersama BPS dan Pertamina, tanpa batas desil atau tanggal berlaku yang disebutkan. Yang perlu ditunggu adalah hasil pembahasan tiga pihak itu serta aturan turunan dari pertemuan Menteri ESDM dan Menteri Keuangan, karena di situ baru akan terlihat apakah pembatasannya longgar atau ketat.",
+  "imageV": "mtb0rsr7"
+ },
+ {
+  "slug": "ihsg-dibuka-melemah-tertekan-sentimen-minyak-dan-hormuz",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
+  "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T10:58:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
+  "tags": [
+   "IHSG",
+   "Selat Hormuz",
+   "harga minyak",
+   "bursa saham"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka melemah 15 poin atau 0,24 persen ke level 6.390 pada perdagangan Kamis, 27 Agustus 2026. Pelemahan ini terjadi di tengah sentimen pasar global terkait harga minyak dunia dan perkembangan situasi di Selat Hormuz, jalur pelayaran penting bagi perdagangan minyak dunia.",
+   "Head of Retail Research Analyst Fanny Suherman memperkirakan IHSG masih berpotensi melemah lebih lanjut menuju level 6.300 pada perdagangan hari ini. Menurutnya, jika indeks mampu bertahan di level tersebut, peluang IHSG untuk kembali menguat atau rebound masih terbuka.",
+   "Salah satu pemicu sentimen pasar adalah pembicaraan yang kembali dilakukan Iran dengan Oman terkait pengelolaan Selat Hormuz. Sebelum konflik mengganggu pasokan, sekitar seperlima perdagangan minyak dunia melewati selat tersebut, sehingga harapan jalur ini kembali dibuka turut menekan harga minyak dunia dan memengaruhi pergerakan bursa saham global, termasuk Indonesia.",
+   "Sebagai perbandingan, bursa saham Asia pada perdagangan Rabu, 26 Agustus 2026, justru menguat seiring penurunan harga minyak dan imbal hasil obligasi. Investor pasar Asia saat itu juga tengah menantikan laporan keuangan terbaru dari produsen chip Nvidia sebagai salah satu penggerak sentimen pasar global."
+  ],
+  "fotoAdegan": "Oil tanker docked at an Indonesian port with pipelines and cranes in the background, workers in hard hats nearby, overcast morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Pelemahan IHSG pagi ini sebenarnya sejalan dengan turunnya harga minyak dunia, bukan karena masalah dalam negeri. Harga minyak turun karena ada harapan Selat Hormuz, jalur laut yang biasa dilewati sekitar seperlima pasokan minyak dunia, kembali dibuka setelah Iran dan Oman membahas pengelolaannya. Ada dua kemungkinan arah dari sini: kalau pembicaraan Hormuz membuahkan hasil dan laporan keuangan Nvidia yang dinanti pasar Asia keluar bagus, IHSG berpeluang bertahan lalu rebound dari level 6.300 yang disebut analis sebagai batas penting. Sebaliknya, kalau ketegangan di Hormuz kembali memanas atau laporan Nvidia mengecewakan, tekanan jual di bursa saham termasuk IHSG berpotensi berlanjut. Investor di pasar saham domestik adalah pihak yang langsung merasakan naik turunnya sentimen ini, dan arah mana yang terjadi akan mulai terlihat dari pergerakan IHSG begitu hasil pembicaraan Hormuz dan laporan Nvidia diumumkan dalam waktu dekat.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
   "category": "Aksi Korporasi",
   "title": "PBSA Panggil RUPSLB, Bahas [Stock Split] Saham Rasio 1:2",
@@ -27,6 +81,32 @@ var ARTICLES = [
   "fotoAdegan": "Wide view of a road construction site with heavy machinery and workers in safety vests at dusk, city skyline in the distance",
   "takeaway": "Langkah ini bersifat netral bagi fundamental PBSA, karena stock split hanya memecah lembar saham tanpa menambah modal baru atau mengubah total ekuitas perseroan. Yang tersentuh adalah jumlah saham beredar, yang akan berlipat dua, sehingga laba per saham secara notasi akan mengecil meski laba riil perusahaan tidak berubah, dan harga saham per lembar di pasar juga akan otomatis terkoreksi mengikuti rasio pemecahan tanpa mengubah nilai kepemilikan investor secara keseluruhan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 September 2026, apakah rasio 1:2 ini disetujui sesuai usulan, serta tanggal efektif pelaksanaan stock split yang biasanya diumumkan Perseroan tak lama setelah rapat.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-rp27-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
+  "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
+  "image": "assets/img/emas-batangan.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T10:40:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun Rp27.000 per gram pada 27 Agustus 2026, berdasarkan data yang dipantau dari situs Logam Mulia. Harga jual yang sebelumnya Rp2.750.000 kini menjadi Rp2.723.000 per gram, angka yang jadi acuan harian bagi masyarakat yang hendak membeli atau menjual emas batangan.",
+   "Harga buyback, yaitu harga yang dibayarkan Antam kepada nasabah yang menjual kembali emasnya, juga ikut turun menjadi Rp2.583.000 per gram. Dengan begitu, selisih antara harga jual dan harga buyback tercatat Rp140.000 per gram, yang merupakan biaya yang otomatis ditanggung pembeli jika emasnya dijual kembali pada hari yang sama.",
+   "Antam mengingatkan bahwa harga emas batangan bersifat fluktuatif dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Daftar harga dasar untuk berbagai pecahan emas Antam dapat dipantau langsung melalui situs resmi Logam Mulia."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray inside a jewelry display case, soft lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah hari ini cuma satu angka jual turun Rp27.000 per gram ke Rp2.723.000, dan harga buyback, yaitu harga yang dibayar Antam kalau nasabah menjual balik emasnya, ikut turun ke Rp2.583.000 per gram. Ini langsung terasa bagi siapa saja yang berencana jual beli emas batangan Antam hari ini, karena acuan hariannya bergeser turun. Data ini cuma potret satu hari sehingga belum cukup untuk menyimpulkan apakah ini awal tren turun atau sekadar koreksi setelah harga naik sebelumnya. Yang perlu dipantau adalah pergerakan harga emas dunia dalam dolar dan nilai tukar rupiah dalam beberapa hari ke depan, karena dua faktor itu yang biasa menentukan naik turunnya harga emas Antam.",
+  "fotoDitolak": true
  },
  {
   "slug": "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
@@ -208,6 +288,60 @@ var ARTICLES = [
   "fotoAdegan": "Aerial view of a nickel ore mining site with reddish laterite soil, heavy excavators and haul trucks working under an overcast sky",
   "takeaway": "Perombakan ini bersifat netral bagi kinerja usaha, karena dokumen hanya memformalkan hasil keputusan pemegang saham di RUPSLB tanpa disertai perubahan rencana bisnis, suntikan dana, atau keterangan bahwa ada masalah yang memicu pergantian. Yang tersentuh bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan struktur pengambilan keputusan perusahaan, sebab Direksi dan Komisaris barulah yang nantinya menandatangani kontrak, menyetujui ekspansi tambang, dan menentukan kebijakan keuangan NICE ke depan. Dominasi nama asal Korea di jajaran Direksi dan Komisaris Utama mengindikasikan kendali pemegang saham pengendali tetap terjaga, sementara satu kursi Komisaris Independen tetap dipertahankan sesuai ketentuan tata kelola. Yang perlu dipantau selanjutnya adalah RUPS Tahunan 2028 sebagai batas akhir masa jabatan susunan pengurus baru ini, serta apakah akan ada keterbukaan informasi lanjutan soal arah strategi atau alasan di balik pergantian ini dalam waktu dekat.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "iapi-usulkan-satu-standar-asurans-keberlanjutan",
+  "category": "Pasar Modal",
+  "title": "IAPI Usulkan [Satu] Standar Asurans Keberlanjutan",
+  "deck": "IAPI mendorong satu standar internasional untuk audit laporan keberlanjutan di Indonesia, seiring OJK menyiapkan aturan wajib pengungkapannya.",
+  "image": "assets/img/iapi-usulkan-satu-standar-asurans-keberlanjutan.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T23:59:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462806-cegah-greenwashing-iapi-usulkan-satu-standar-asurans-keberlanjutan-di-indonesia",
+  "tags": [
+   "IAPI",
+   "asurans keberlanjutan",
+   "greenwashing",
+   "OJK"
+  ],
+  "body": [
+   "Institut Akuntan Publik Indonesia (IAPI) mengusulkan agar Indonesia memakai satu standar internasional saja sebagai acuan audit independen atas laporan keberlanjutan perusahaan, bukan beragam standar yang berbeda-beda antar auditor. Usulan ini disampaikan dalam Business Morning Forum di Jakarta, Rabu (26/8/2026), dan penting karena audit semacam ini nantinya akan menentukan apakah klaim ramah lingkungan sebuah perusahaan bisa dipercaya atau tidak.",
+   "IAPI meminta regulator memastikan infrastruktur pengawasan, mulai dari registrasi, sertifikasi, inspeksi, hingga penegakan aturan, sudah siap dan setara bagi seluruh penyedia jasa audit sebelum kewajiban ini mulai berlaku pada 2029. Usulan ini muncul saat Otoritas Jasa Keuangan (OJK) sedang merampungkan Rancangan Peraturan OJK tentang Penerapan Keuangan Berkelanjutan, yang akan mewajibkan pengungkapan informasi keberlanjutan bagi pelaku usaha sektor keuangan, emiten, dan perusahaan publik. IAPI sendiri sudah menerbitkan Draf Eksposur Standar Asurans Keberlanjutan (SAKb) 5000 pada 24 Juli 2026, hasil adopsi dari standar internasional ISSA 5000.",
+   "Menurut IAPI, ekosistem pelaporan keberlanjutan di Indonesia belum sematang pelaporan keuangan, sehingga rawan salah saji, bias, atau klaim keberlanjutan yang tidak sesuai kondisi sebenarnya alias greenwashing. Badan pengawas pasar modal dunia, IOSCO, juga menempatkan perlindungan investor dari greenwashing sebagai fokus global, karena IAPI menilai risikonya bukan cuma soal reputasi perusahaan, tapi bisa menjalar jadi risiko yang lebih luas bagi sistem keuangan.",
+   "Dari sejumlah opsi yang ada, IAPI mengusulkan SAKb 5000, adopsi dari ISSA 5000 milik Badan Federasi Akuntan Internasional (IFAC), sebagai satu-satunya standar resmi asurans keberlanjutan di Indonesia."
+  ],
+  "fotoAdegan": "Workers inspecting rows of solar panels on a factory rooftop in an Indonesian industrial area, hazy morning skyline",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8f19a67d8fa-institut-akuntan-publik-indonesia-iapi-usulkan-standar-tunggal-untuk-asurans-keberlanjutan-di-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah calon aturan main baru: laporan keberlanjutan perusahaan, yaitu klaim soal lingkungan dan sosial yang selama ini sering ditulis sendiri oleh perusahaan, akan diaudit independen seperti laporan keuangan, dan IAPI mengusulkan audit itu memakai satu standar saja agar hasilnya tidak berbeda tergantung auditor mana yang dipakai. Yang kena dampak adalah kantor akuntan publik yang akan menjalankan audit ini, serta lembaga jasa keuangan, emiten, dan perusahaan publik yang nantinya wajib melaporkan dan diaudit begitu aturan OJK rampung. Arahnya terlihat menuju laporan keberlanjutan yang statusnya makin mirip laporan keuangan, wajib dan diaudit, bukan sekadar dokumen sukarela seperti sekarang, dengan IAPI sendiri menyebut tenggat kesiapan infrastruktur pengawasan sebelum 2029. Yang akan memastikan arah ini adalah dua hal yang perlu dipantau: apakah Rancangan Peraturan OJK soal Penerapan Keuangan Berkelanjutan jadi mewajibkan asurans begitu difinalisasi, dan apakah SAKb 5000 benar disahkan sebagai satu-satunya standar atau malah ada beberapa standar yang dipakai berbarengan.",
+  "imageV": "mtb0rt8r"
+ },
+ {
+  "slug": "lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang",
+  "category": "Bisnis",
+  "title": "Lomba Lari [SEZ Industropolis Run] 2026 Digelar di KEK Batang",
+  "deck": "SEZ Industropolis Run 2026 digelar 6 Desember di KEK Batang, menyasar 2.626 pelari dengan lintasan tersertifikasi AIMS dan atlet nasional turut berkompetisi di kawasan industri tepi Laut Jawa.",
+  "image": "assets/img/lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang.jpg",
+  "date": "26 Agustus 2026",
+  "isoDate": "2026-08-26T23:38:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462801-sez-industropolis-run-2026-akan-digelar-suguhkan-pengalaman-lari-di-kawsan-industri-tepi-laut-jawa",
+  "tags": [
+   "KEK Industropolis Batang",
+   "SEZ Industropolis Run 2026",
+   "lari maraton",
+   "kawasan ekonomi khusus"
+  ],
+  "body": [
+   "Kawasan Ekonomi Khusus (KEK) Industropolis Batang kembali menggelar SEZ Industropolis Run untuk ketiga kalinya, kali ini dijadwalkan pada 6 Desember 2026. Ajang ini menyasar 2.626 pelari dan turut mengundang sejumlah atlet lari nasional untuk bertanding bersama peserta dari berbagai daerah, menandai pergeseran acara dari sekadar wisata olahraga menjadi kompetisi lari yang lebih serius.",
+   "Penyelenggara mengusung tema soal transisi dari sport tourism menuju panggung kompetisi atlet elite. Menurut M. Rizza Akbar, Kepala Departemen Corporate Office & Protocoler KEK Industropolis Batang, ajang ini diarahkan tidak hanya sebagai hiburan olahraga bagi masyarakat, tetapi juga wadah bagi atlet mengejar catatan waktu terbaik sekaligus merasakan pengalaman berlari di kawasan dengan karakter khas.",
+   "Lintasan lomba diklaim relatif datar dan sudah mengantongi sertifikasi AIMS dari Association of International Marathons and Distance Races, yang membuat catatan waktu peserta diakui secara internasional. Waktu tempuh peserta akan dicatat memakai sistem timing chip agar hasilnya lebih akurat, sementara jalur perlombaan ditutup dari kendaraan bermotor selama acara berlangsung.",
+   "Rute lari membentang dari kawasan industri modern, perkebunan karet, danau reservoir, hingga area dermaga di pesisir Laut Jawa, sehingga peserta melewati perpaduan antara aktivitas industri dan bentang alam Kabupaten Batang."
+  ],
+  "fotoAdegan": "Runners in athletic wear jogging along a flat coastal road past rubber plantations and industrial warehouses, soft morning light, Central Java.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/26/6a8f0ffc59077-sez-industropolis-run-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah skala penyelenggaraan: memasuki tahun ketiga, acara ini menaikkan target dari sekadar wisata olahraga menjadi ajang kompetisi resmi, dengan sasaran 2.626 pelari dan lintasan yang sudah bersertifikasi AIMS sehingga catatan waktu pelari diakui secara internasional. Yang terdampak langsung adalah pengelola KEK Industropolis Batang yang memakai ajang ini sebagai etalase kawasan, pelaku usaha lokal di Batang yang kebagian keramaian selama acara, serta komunitas lari dari berbagai daerah yang bersaing dengan atlet elite nasional. Arah dari strategi ini, apakah event tahunan semacam ini benar menarik minat investasi atau kunjungan ke kawasan industri tersebut, belum bisa dibaca karena berita ini tidak menyertakan data jumlah peserta tahun-tahun sebelumnya sebagai pembanding, maupun rincian nilai hadiah yang cuma disebut mencapai ratusan juta rupiah. Yang akan memastikan arahnya adalah data resmi jumlah peserta dan dampak ekonomi lokal begitu acara 6 Desember 2026 selesai digelar.",
+  "imageV": "mtb0rtp1"
  },
  {
   "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
@@ -1203,7 +1337,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -1335,7 +1469,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",
@@ -1702,7 +1836,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
+  "category": "Energi",
+  "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
+  "deck": "ESDM mulai membahas pembatasan pembeli LPG 3 kilogram bersubsidi berdasarkan data desil kesejahteraan bersama BPS dan Pertamina, menyusul arahan hasil pertemuan dengan Kementerian Keuangan.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan.jpg",
+  "imageV": "mtb0rsr7",
+  "tags": [
+   "LPG 3 kg",
+   "subsidi energi",
+   "ESDM",
+   "desil kesejahteraan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462865-lpg-3-kg-tak-lagi-bebas-dibeli-esdm-siapkan-batas-penerima-berdasarkan-desil-kesejahteraan"
+ },
+ {
+  "slug": "ihsg-dibuka-melemah-tertekan-sentimen-minyak-dan-hormuz",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
+  "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "IHSG",
+   "Selat Hormuz",
+   "harga minyak",
+   "bursa saham"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz"
+ },
+ {
   "slug": "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
   "category": "Aksi Korporasi",
   "title": "PBSA Panggil RUPSLB, Bahas [Stock Split] Saham Rasio 1:2",
@@ -19,6 +51,21 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cb6b5099d_1a993c73a3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-rp27-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
+  "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/emas-batangan.jpg",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "logam mulia"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun"
  },
  {
   "slug": "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
@@ -131,6 +178,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afae5e7a1f_549b500c05.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iapi-usulkan-satu-standar-asurans-keberlanjutan",
+  "category": "Pasar Modal",
+  "title": "IAPI Usulkan [Satu] Standar Asurans Keberlanjutan",
+  "deck": "IAPI mendorong satu standar internasional untuk audit laporan keberlanjutan di Indonesia, seiring OJK menyiapkan aturan wajib pengungkapannya.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/iapi-usulkan-satu-standar-asurans-keberlanjutan.jpg",
+  "imageV": "mtb0rt8r",
+  "tags": [
+   "IAPI",
+   "asurans keberlanjutan",
+   "greenwashing",
+   "OJK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462806-cegah-greenwashing-iapi-usulkan-satu-standar-asurans-keberlanjutan-di-indonesia"
+ },
+ {
+  "slug": "lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang",
+  "category": "Bisnis",
+  "title": "Lomba Lari [SEZ Industropolis Run] 2026 Digelar di KEK Batang",
+  "deck": "SEZ Industropolis Run 2026 digelar 6 Desember di KEK Batang, menyasar 2.626 pelari dengan lintasan tersertifikasi AIMS dan atlet nasional turut berkompetisi di kawasan industri tepi Laut Jawa.",
+  "date": "26 Agustus 2026",
+  "image": "assets/img/lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang.jpg",
+  "imageV": "mtb0rtp1",
+  "tags": [
+   "KEK Industropolis Batang",
+   "SEZ Industropolis Run 2026",
+   "lari maraton",
+   "kawasan ekonomi khusus"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462801-sez-industropolis-run-2026-akan-digelar-suguhkan-pengalaman-lari-di-kawsan-industri-tepi-laut-jawa"
  },
  {
   "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
@@ -751,7 +832,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -831,7 +912,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -1059,7 +1140,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6429,91 +6510,6 @@ var ARTICLES = [
    "fiber optic"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d2b74988e3_4b787fff56.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bassra-bantah-tolak-rencana-industri-di-bangkalan",
-  "category": "Industri",
-  "title": "BASSRA [Bantah] Tolak Rencana Industri di Bangkalan",
-  "deck": "Sekjen BASSRA KH Syafik Rofi'i menegaskan organisasi ulama pesantren Madura ini belum mengambil sikap resmi menolak rencana pembangunan industri di Bangkalan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/bassra-bantah-tolak-rencana-industri-di-bangkalan.jpg",
-  "imageV": "msxv4l5z",
-  "tags": [
-   "Bangkalan",
-   "Madura",
-   "BASSRA",
-   "Industrialisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460635-badan-silaturahmi-ulama-pesantren-madura-bassra-bersuara-soal-rencana-pembangunan-industri-di-bangkalan"
- },
- {
-  "slug": "etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru",
-  "category": "Aksi Korporasi",
-  "title": "ETF Emas Syariah XSGO Catat [Penambahan] 600.000 Unit Baru",
-  "deck": "Bursa mencatat penambahan 600.000 unit penyertaan ETF Sharia Gold Syailendra (XSGO), menambah total unit beredar dari 1,6 juta jadi 2,2 juta unit mulai 18 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/etf-emas-syariah-xsgo-catat-penambahan-600-000-unit-baru.jpg",
-  "imageV": "msy2r5v4",
-  "tags": [
-   "XSGO",
-   "ETF emas",
-   "reksa dana syariah",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6461b21e11_38f58859af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran",
-  "category": "Aksi Korporasi",
-  "title": "CYBR catat [konversi] 240.100 saham baru dari eksekusi waran",
-  "deck": "PT ITSEC Asia Tbk mencatatkan 240.100 saham baru hasil konversi Waran Seri I di BEI, sisa waran yang beredar turun jadi 425,5 juta lembar.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/cybr-catat-konversi-240-100-saham-baru-dari-eksekusi-waran.jpg",
-  "imageV": "msy7sr2o",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "waran",
-   "pencatatan saham BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a973e5468c_d09f6e0500.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta",
-  "category": "Aksi Korporasi",
-  "title": "XTRA Tambah [1 Juta] Unit ETF Emas Trimegah ke 110 Juta",
-  "deck": "BEI mencatat penambahan 1 juta unit penyertaan ETF Emas Trimegah, dari 109 juta menjadi 110 juta unit, efektif diperdagangkan mulai 18 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/xtra-tambah-1-juta-unit-etf-emas-trimegah-ke-110-juta.jpg",
-  "imageV": "msybse11",
-  "tags": [
-   "XTRA",
-   "ETF",
-   "Reksa Dana Emas",
-   "Trimegah Asset Management"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdcc4e2d5f_dca0d38c2d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "CYBR catat tambahan [900] saham dari eksekusi waran seri I",
-  "deck": "Bursa mencatat penambahan 900 saham baru PT ITSEC Asia Tbk (CYBR) hasil konversi 900 unit Waran Seri I, sehingga total saham beredar naik jadi 13,48 miliar lembar.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/cybr-catat-tambahan-900-saham-dari-eksekusi-waran-seri-i.jpg",
-  "imageV": "msy7takc",
-  "tags": [
-   "CYBR",
-   "waran",
-   "konversi saham",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4b9248500f_b9572d86a7.pdf",
   "sourceLabel": "IDX"
  }
 ];

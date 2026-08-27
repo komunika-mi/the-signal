@@ -2291,7 +2291,7 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
   const perayapAI = ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User', 'ClaudeBot',
     'Claude-Web', 'anthropic-ai', 'PerplexityBot', 'Perplexity-User',
     'Google-Extended', 'Applebot-Extended', 'CCBot', 'Amazonbot',
-    'meta-externalagent'];
+    'meta-externalagent', 'DuckAssistBot', 'Bytespider', 'cohere-ai'];
   const isi = ['User-agent: *', 'Allow: /', '']
     .concat(perayapAI.flatMap(p => ['User-agent: ' + p, 'Allow: /', '']))
     .concat([

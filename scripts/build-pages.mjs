@@ -10,6 +10,7 @@ import { PENANDA_IDX } from './assign-images.mjs';
 import { tanyaArtikel, pantauEmiten } from './telegram-cta.mjs';
 import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas, ID_ORGANISASI } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
+import { KANONIK_GANDA } from './kanonik-ganda.mjs';
 
 function muat(file) {
   const src = fs.readFileSync(path.join(ROOT, 'assets/js', file), 'utf8');
@@ -18,6 +19,24 @@ function muat(file) {
 }
 const ARTICLES = muat('articles.js');
 const VIDEOS = muat('videos.js');
+
+// Penjaga peta duplikat. Slug yang tidak ada berarti canonical menunjuk
+// halaman kosong; rantai (utama sebuah pasangan jadi duplikat pasangan
+// lain) berarti sinyalnya berpindah dua kali dan Google mengabaikannya.
+// Dua-duanya lebih baik menggagalkan build daripada terbit diam-diam.
+{
+  const adaSlug = new Set(ARTICLES.map(a => a.slug));
+  for (const [dup, utama] of Object.entries(KANONIK_GANDA)) {
+    if (!adaSlug.has(dup) || !adaSlug.has(utama)) {
+      console.error('GAGAL: KANONIK_GANDA menunjuk slug yang tidak ada di arsip: ' + (adaSlug.has(dup) ? utama : dup));
+      process.exit(1);
+    }
+    if (KANONIK_GANDA[utama]) {
+      console.error('GAGAL: KANONIK_GANDA berantai - ' + utama + ' adalah utama sekaligus duplikat.');
+      process.exit(1);
+    }
+  }
+}
 
 // Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
@@ -574,7 +593,7 @@ function head(o) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(o.title)} · The Signal</title>
 <meta name="description" content="${esc(ringkasDesc(o.desc))}">
-<link rel="canonical" href="${BASE}${o.url}">
+<link rel="canonical" href="${BASE}${o.canonical || o.url}">
 ${o.noindex ? '<meta name="robots" content="noindex, follow">' : ''}
 <link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="${BASE}/feed.xml">
 <link rel="alternate" type="application/rss+xml" title="Berita - The Signal" href="${BASE}/berita-feed.xml">
@@ -592,7 +611,7 @@ ${kepalaAnalitik()}
 <meta property="og:image:type" content="image/jpeg">
 ${o.imgW ? '<meta property="og:image:width" content="' + o.imgW + '">\n<meta property="og:image:height" content="' + o.imgH + '">' : ''}
 <meta property="og:image:alt" content="${esc(o.title)}">
-<meta property="og:url" content="${BASE}${o.url}">
+<meta property="og:url" content="${BASE}${o.canonical || o.url}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(o.title)}">
 <meta name="twitter:description" content="${esc(bagikanDenganKredit(o.desc))}">
@@ -761,6 +780,9 @@ ARTICLES.forEach(function (a) {
     title: plain(a.title),
     desc: a.deck,
     url: articleUrl(a),
+    // Artikel kembar: canonical dan og:url menunjuk versi utamanya.
+    // Halamannya sendiri tetap tayang dan tetap bisa dibaca.
+    ...(KANONIK_GANDA[a.slug] ? { canonical: '/berita/' + KANONIK_GANDA[a.slug] + '.html' } : {}),
     image: BASE + '/' + a.image,
     // Dimensi nyata, bukan angka tetap. Kalau berkasnya tak terbaca, medannya
     // dibiarkan kosong; menyebut ukuran yang salah lebih buruk daripada tidak
@@ -2130,7 +2152,8 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
   .map(u => ({ loc: u, lastmod: hariIniWIB, prio: prioStatis(u) }))
   // Artikel yang diralat BERUBAH, jadi lastmod-nya ikut tanggal ralat, bukan
   // tanggal terbit awal. Artikel baru (<=7 hari) prioritasnya lebih tinggi.
-  .concat(ARTICLES.map(a => ({
+  // Duplikat ber-canonical tidak ikut sitemap: sitemap berisi URL kanonik.
+  .concat(ARTICLES.filter(a => !KANONIK_GANDA[a.slug]).map(a => ({
     loc: articleUrl(a),
     lastmod: [tglWIB(a.isoDate), (a.ralat && a.ralat.tanggal) || ''].filter(Boolean).sort().pop(),
     prio: prioArtikel(a),
@@ -2173,6 +2196,7 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
   const NL = String.fromCharCode(10);
   const batas = Date.now() - 2 * 86400000;
   const baru = ARTICLES
+    .filter(a => !KANONIK_GANDA[a.slug])
     .filter(a => a.isoDate && new Date(waktuISO(a.isoDate)).getTime() > batas)
     .slice(0, 1000);
   const isi = baru.map(a =>
@@ -2397,7 +2421,7 @@ fs.writeFileSync(ROOT + '/berita-feed.xml',
   '  <description>Berita dan analisis ekonomi Indonesia dari The Signal: pasar modal, kebijakan moneter, dan aksi korporasi emiten Bursa Efek Indonesia.</description>\n' +
   '  <language>id-ID</language>\n' +
   '  <atom:link href="' + BASE + '/berita-feed.xml" rel="self" type="application/rss+xml"/>\n' +
-  ARTICLES.slice(0, FEED_ARTIKEL_MAKS).map(a =>
+  ARTICLES.filter(a => !KANONIK_GANDA[a.slug]).slice(0, FEED_ARTIKEL_MAKS).map(a =>
     '  <item>\n' +
     '    <title>' + esc(plain(a.title)) + '</title>\n' +
     '    <link>' + BASE + articleUrl(a) + '</link>\n' +

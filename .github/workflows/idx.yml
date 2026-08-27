@@ -220,3 +220,12 @@ jobs:
             git commit -m "Aksi korporasi IDX: total ${{ steps.periksa.outputs.artikel }} artikel ($(date -u +'%Y-%m-%d %H:%M') UTC)"
             git push
           fi
+
+      - name: Ping IndexNow
+        # Bing menyokong indeks ChatGPT Search dan Copilot; ping ini membuat
+        # artikel baru terlihat di mesin jawab dalam hitungan menit alih-alih
+        # menunggu giliran perayapan. Sumber URL-nya news-sitemap (48 jam
+        # terakhir), kuncinya publik by design dan di-commit di root.
+        timeout-minutes: 2
+        continue-on-error: true
+        run: node scripts/indexnow.mjs

@@ -44,7 +44,8 @@ Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 
 ## Mesin baca
 
-- [Feed RSS](https://the-signal.id/feed.xml)
+- [Feed RSS edisi](https://the-signal.id/feed.xml): rangkuman Signal Harian dan Mingguan.
+- [Feed RSS artikel](https://the-signal.id/berita-feed.xml): 50 artikel terbaru, cara termurah memantau kesegaran situs ini.
 - [Sitemap](https://the-signal.id/sitemap.xml)
 - [Sitemap berita](https://the-signal.id/news-sitemap.xml): artikel dua hari terakhir.
 

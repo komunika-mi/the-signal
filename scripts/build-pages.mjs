@@ -543,6 +543,29 @@ function kartuFaktaVideo(v) {
     '</aside>';
 }
 
+// Kapital tampilan untuk label yang tersimpan huruf kecil ("obligasi",
+// "dividen interim"). Audit 27 Agustus 2026: 29 dari 49 halaman topik
+// ber-title/h1 huruf kecil semua - di SERP terlihat seperti halaman tag
+// otomatis bermutu rendah. Hanya kata yang SELURUHNYA huruf kecil yang
+// dikapitalkan; akronim yang sudah benar (BEI, RUPSLB, OJK) tidak disentuh.
+// Ini kapital TAMPILAN saja - slug dan label data tidak berubah.
+function kapitalTampil(s) {
+  return String(s).split(' ')
+    .map(w => /^[a-z]/.test(w) ? w[0].toUpperCase() + w.slice(1) : w)
+    .join(' ');
+}
+
+// Meta description dipotong ~155 karakter pada batas kata. Audit: 342 dari
+// 760 description melebihi 160 karakter dan terpotong menggantung di SERP.
+// Hanya untuk meta name="description"; og:description dan isi halaman
+// tetap utuh (batas sosial lebih longgar dan deck memang ditulis penuh).
+function ringkasDesc(d) {
+  const s = String(d || '');
+  if (s.length <= 158) return s;
+  const p = s.slice(0, 155);
+  return p.slice(0, Math.max(p.lastIndexOf(' '), 100)) + '\u2026';
+}
+
 function head(o) {
   return `<!doctype html>
 <html lang="id">
@@ -550,15 +573,16 @@ function head(o) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(o.title)} · The Signal</title>
-<meta name="description" content="${esc(o.desc)}">
+<meta name="description" content="${esc(ringkasDesc(o.desc))}">
 <link rel="canonical" href="${BASE}${o.url}">
 ${o.noindex ? '<meta name="robots" content="noindex, follow">' : ''}
 <link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="${BASE}/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="Berita - The Signal" href="${BASE}/berita-feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 ${kepalaAnalitik()}
-<meta property="og:type" content="${o.ogType || 'website'}">
+<meta property="og:type" content="${o.ogType || 'website'}">${o.artikelMeta ? '\n<meta property="article:published_time" content="' + o.artikelMeta.published + '">' +'\n<meta property="article:modified_time" content="' + o.artikelMeta.modified + '">' +'\n<meta property="article:section" content="' + esc(o.artikelMeta.section || '') + '">' : ''}
 <meta property="og:site_name" content="The Signal">
 <meta property="og:locale" content="id_ID">
 <meta property="og:title" content="${esc(o.title)}">
@@ -566,8 +590,7 @@ ${kepalaAnalitik()}
 <meta property="og:image" content="${o.image}">
 <meta property="og:image:secure_url" content="${o.image}">
 <meta property="og:image:type" content="image/jpeg">
-<meta property="og:image:width" content="${o.imgW}">
-<meta property="og:image:height" content="${o.imgH}">
+${o.imgW ? '<meta property="og:image:width" content="' + o.imgW + '">\n<meta property="og:image:height" content="' + o.imgH + '">' : ''}
 <meta property="og:image:alt" content="${esc(o.title)}">
 <meta property="og:url" content="${BASE}${o.url}">
 <meta name="twitter:card" content="summary_large_image">
@@ -747,6 +770,14 @@ ARTICLES.forEach(function (a) {
       return u ? { imgW: u.w, imgH: u.h } : {};
     })(),
     ogType: 'article',
+    // Tanggal terbit versi Open Graph. JSON-LD sudah membawanya untuk
+    // Google; meta article:* dibaca WhatsApp/LinkedIn/agregator dan
+    // sebagian crawler AI sebagai sinyal kebaruan di luar JSON-LD.
+    artikelMeta: {
+      published: waktuISO(a.isoDate),
+      modified: waktuISO((a.ralat && (a.ralat.waktu || a.ralat.tanggal)) || a.isoDate),
+      section: a.category,
+    },
     jsonld: {
       '@context': 'https://schema.org', '@type': 'NewsArticle',
       headline: plain(a.title), description: a.deck,
@@ -769,6 +800,10 @@ ARTICLES.forEach(function (a) {
       author: [{ '@type': 'Organization', name: 'The Signal', url: BASE }],
       mainEntityOfPage: { '@type': 'WebPage', '@id': BASE + articleUrl(a) },
       articleSection: a.category, inLanguage: 'id-ID',
+      // Dua sinyal murah untuk situs baru: bukan paywall, dan kedalaman
+      // kontennya terukur - relevan karena banyak halaman pendek di arsip.
+      isAccessibleForFree: true,
+      wordCount: plain((a.body || []).join(' ')).split(/\s+/).filter(Boolean).length,
       // keywords memakai label yang SUDAH disatukan, jadi "BEI" dan "Bursa
       // Efek Indonesia" tidak lagi terbaca sebagai dua hal. about hanya diisi
       // label yang punya halaman topik, supaya url-nya benar-benar ada.
@@ -1176,11 +1211,19 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
     `</section>`;
   fs.writeFileSync(path.join(ROOT, 'emiten', kode + '.html'),
     head({
-      title: 'Sinyal ' + kode + (namaEmiten(kode) ? ' ' + namaEmiten(kode) : ''),
-      desc: 'Semua laporan keterbukaan informasi ' + kode +
-        (namaEmiten(kode) ? ' (' + namaEmiten(kode) + ')' : '') +
-        ' yang dibaca The Signal, lengkap dengan arah penilaiannya: ' +
-        arts.length + ' laporan, terakhir ' + arts[0].date + '.',
+      // "Saham KODE" karena itulah pola kueri bervolume terbesar untuk
+      // halaman emiten - audit menghitung 0 dari 259 title memuat kata
+      // "saham", dan pembuka lama "Sinyal" jargon internal tanpa volume.
+      // Kode TANPA nama adalah penerbit obligasi/ETF non-saham (ASDF,
+      // PPGD, X*) - untuk mereka kata "saham" justru salah, jadi tidak
+      // dipakai.
+      title: namaEmiten(kode)
+        ? 'Saham ' + kode + ' \u2014 ' + namaEmiten(kode)
+        : kode + ' \u2014 Sinyal Keterbukaan Informasi',
+      desc: (namaEmiten(kode)
+        ? 'Berita saham ' + kode + ' (' + namaEmiten(kode) + '): '
+        : kode + ': ') + arts.length +
+        ' laporan keterbukaan informasi Bursa Efek Indonesia yang dibaca The Signal, lengkap dengan arah penilaiannya. Terakhir ' + arts[0].date + '.',
       url: '/emiten/' + kode + '.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
@@ -1192,7 +1235,7 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
       // menebaknya dari HTML.
       jsonld: {
         '@context': 'https://schema.org', '@type': 'CollectionPage',
-        name: 'Sinyal ' + kode + (namaEmiten(kode) ? ' ' + namaEmiten(kode) : ''),
+        name: namaEmiten(kode) ? 'Saham ' + kode + ' \u2014 ' + namaEmiten(kode) : kode + ' \u2014 Sinyal Keterbukaan Informasi',
         description: 'Riwayat keterbukaan informasi ' + kode +
           (namaEmiten(kode) ? ' (' + namaEmiten(kode) + ')' : '') + ' yang dibaca The Signal.',
         // about memberi tahu mesin jawab bahwa halaman ini TENTANG perusahaan
@@ -1839,8 +1882,8 @@ for (const [nama, arts] of DAFTAR_RUBRIK) {
   fs.writeFileSync(path.join(ROOT, 'rubrik', slug + '.html'),
     head({
       title: nama,
-      desc: 'Semua artikel rubrik ' + nama + ' di The Signal: ' + arts.length +
-        ' artikel, terakhir ' + (arts[0].date || '') + '.',
+      desc: nama + ': ' + arts.length + ' artikel berita dan analisis The Signal, terakhir ' +
+        (arts[0].date || '') + ' \u2014 ' + plain(arts[0].title) + '.',
       url: '/rubrik/' + slug + '.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
@@ -1866,7 +1909,7 @@ for (const [nama, arts] of DAFTAR_TOPIK) {
     '<section class="rail" style="padding-top:2.2rem;">' +
     '<div class="harian-head">' +
     '<span class="harian-kicker">Topik</span>' +
-    '<h1 class="harian-judul">' + esc(nama) + '</h1>' +
+    '<h1 class="harian-judul">' + esc(kapitalTampil(nama)) + '</h1>' +
     '<p class="harian-tanggal num">' + arts.length + ' artikel &middot; terakhir ' +
     esc(arts[0].date || '') + '</p></div>' +
     barisSilang('Emiten dalam topik ini', emitenDariTopik(arts).map(kode => ({
@@ -1878,13 +1921,16 @@ for (const [nama, arts] of DAFTAR_TOPIK) {
     '</section>';
   fs.writeFileSync(path.join(ROOT, 'topik', slug + '.html'),
     head({
-      title: nama,
-      desc: 'Semua artikel The Signal yang menyangkut ' + nama + ': ' + arts.length +
-        ' artikel, terakhir ' + (arts[0].date || '') + '.',
+      title: kapitalTampil(nama) + ': Berita & Analisis Terbaru',
+      // Nama topik DI DEPAN, bukan boilerplate. Audit: 49/49 description
+      // topik berawalan kalimat identik sehingga di SERP semua halaman hub
+      // terlihat seragam; judul artikel terbaru dipinjam sebagai pembeda.
+      desc: kapitalTampil(nama) + ': ' + arts.length + ' artikel berita dan analisis The Signal, terakhir ' +
+        (arts[0].date || '') + ' \u2014 ' + plain(arts[0].title) + '.',
       url: '/topik/' + slug + '.html',
       image: BASE + '/assets/img/og-card.jpg', imgW: 1200, imgH: 630,
       jsonld: halamanKoleksi({
-        nama, url: '/topik/' + slug + '.html',
+        nama: kapitalTampil(nama), url: '/topik/' + slug + '.html',
         deskripsi: 'Artikel The Signal yang menyangkut ' + nama + '.',
         item: arts.map(x => ({ nama: plain(x.title), url: articleUrl(x) })),
       }),
@@ -2213,7 +2259,8 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
     '',
     '## Mesin baca',
     '',
-    '- [Feed RSS](' + BASE + '/feed.xml)',
+    '- [Feed RSS edisi](' + BASE + '/feed.xml): rangkuman Signal Harian dan Mingguan.',
+  '- [Feed RSS artikel](' + BASE + '/berita-feed.xml): 50 artikel terbaru, cara termurah memantau kesegaran situs ini.',
     '- [Sitemap](' + BASE + '/sitemap.xml)',
     '- [Sitemap berita](' + BASE + '/news-sitemap.xml): artikel dua hari terakhir.',
     '',
@@ -2330,6 +2377,37 @@ fs.writeFileSync(ROOT + '/feed.xml',
     '    <description><![CDATA[' + isiFeedPekanan(p) + ']]></description>\n' +
     '  </item>').join('\n') : '') +
   '\n</channel>\n</rss>\n', 'utf8');
+
+// ---------- berita-feed.xml: feed RSS artikel ----------
+//
+// TERPISAH dari feed.xml, dan itu wajib: Buttondown membaca feed.xml dan
+// memicu pengiriman email per guid baru. Item artikel di sana berarti tiap
+// artikel terkirim sebagai newsletter. Berkas ini tidak dilihat Buttondown.
+//
+// guid = permalink artikel, karena URL artikel di situs ini memang permanen
+// (kebijakan tanpa-hapus). pubDate memakai waktuISO supaya berzona; deck
+// jadi description karena ia rangkuman editorial yang memang ditulis untuk
+// dibaca di luar halaman.
+const FEED_ARTIKEL_MAKS = 50;
+fs.writeFileSync(ROOT + '/berita-feed.xml',
+  '<?xml version="1.0" encoding="UTF-8"?>\n' +
+  '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n' +
+  '  <title>Berita &#183; The Signal</title>\n' +
+  '  <link>' + BASE + '/berita.html</link>\n' +
+  '  <description>Berita dan analisis ekonomi Indonesia dari The Signal: pasar modal, kebijakan moneter, dan aksi korporasi emiten Bursa Efek Indonesia.</description>\n' +
+  '  <language>id-ID</language>\n' +
+  '  <atom:link href="' + BASE + '/berita-feed.xml" rel="self" type="application/rss+xml"/>\n' +
+  ARTICLES.slice(0, FEED_ARTIKEL_MAKS).map(a =>
+    '  <item>\n' +
+    '    <title>' + esc(plain(a.title)) + '</title>\n' +
+    '    <link>' + BASE + articleUrl(a) + '</link>\n' +
+    '    <guid isPermaLink="true">' + BASE + articleUrl(a) + '</guid>\n' +
+    '    <pubDate>' + new Date(waktuISO(a.isoDate)).toUTCString() + '</pubDate>\n' +
+    (a.category ? '    <category>' + esc(a.category) + '</category>\n' : '') +
+    '    <description><![CDATA[' + plain(a.deck || a.title) + ']]></description>\n' +
+    '  </item>').join('\n') +
+  '\n</channel>\n</rss>\n', 'utf8');
+console.log('feed artikel:', Math.min(ARTICLES.length, FEED_ARTIKEL_MAKS), 'item');
 
 // ---------- penjaga keutuhan foto ----------
 //

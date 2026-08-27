@@ -58,13 +58,21 @@ export function buatFoto(nama, isiPrompt) {
   if (!cocok) throw new Error('tidak ada result_url: ' + keluaran.slice(0, 160));
 
   execFileSync('curl', ['-sL', cocok[1], '-o', tmp + '.png'], { encoding: 'utf8' });
-  // 680px + q7 + metadata dibuang. Diukur pada foto yang sudah ada: 25% lebih
+  // 1200px, bukan 680 lagi. Audit 27 Agustus 2026: SEMUA 756 gambar artikel
+// 680px, di bawah ambang 1200px yang disyaratkan Google Discover dan Top
+// Stories untuk tampilan gambar besar - padahal situs berita berumur dua
+// minggu paling butuh permukaan itu. Ilustrasi AI di-scale ke 1200 (upscale
+// ringan dari ~1024 masih mulus untuk ilustrasi); foto sumber dipangkas
+// min(1200,iw) - foto jurnalistik TIDAK di-upscale. Ongkos bobot per
+// gambar naik ~3x dan itu ditukar sadar dengan kelayakan Discover.
+// Gambar lama 680px dibiarkan; upscale merusak, dan Discover menilai
+// artikel baru. Catatan lama 25% lebih ringan itu era 680:
   // ringan dari setelan lama (760px q6) tanpa artefak yang kelihatan.
   // Rasio tetap 4:3 karena kartu beranda dan thumbnail terkait memakai 4:3;
   // hanya hero artikel yang 16:9 dan itu memotong tengah, aman untuk foto
   // dokumenter. Kartu terbesar ~340px, jadi 680px cukup untuk layar 2x.
   execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', tmp + '.png',
-    '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
+    '-vf', 'scale=1200:-2', '-update', '1', '-q:v', '7',
     '-map_metadata', '-1', tujuan], { encoding: 'utf8' });
   fs.rmSync(tmp + '.png', { force: true });
 
@@ -116,7 +124,7 @@ export function unduhFoto(nama, url) {
     }
 
     execFileSync(wajibAlat('ffmpeg'), ['-y', '-loglevel', 'error', '-i', tmp,
-      '-vf', 'scale=680:-1', '-update', '1', '-q:v', '7',
+      '-vf', 'scale=' + String.raw`min(1200\,iw)` + ':-2', '-update', '1', '-q:v', '7',
       '-map_metadata', '-1', tujuan], { encoding: 'utf8' });
 
     const kb = Math.round(fs.statSync(tujuan).size / 1024);

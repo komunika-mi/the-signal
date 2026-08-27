@@ -53,6 +53,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026",
+  "category": "Energi",
+  "title": "Pertamina Kejar 332 Desa [Energi] Berdikari di Akhir 2026",
+  "deck": "Pertamina genjot Program Desa Energi Berdikari dari 269 jadi 332 lokasi hingga akhir 2026, memadukan panel surya, biogas, dan mikrohidro untuk ekonomi desa.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026.jpg",
+  "imageV": "mtbqd09s",
+  "tags": [
+   "Pertamina",
+   "energi terbarukan",
+   "desa energi berdikari",
+   "DEB"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463029-festival-deb-pertamina-2026-terus-perkuat-kolaborasi-dorong-energi-terbarukan-jadi-penggerak-ekonomi-desa"
+ },
+ {
   "slug": "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
   "category": "Aksi Korporasi",
   "title": "PGAS Kalah Sebagian di Arbitrase Lawan [Gunvor] di London",
@@ -67,6 +84,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c63e9284cd_56f7ef45a7.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur",
+  "category": "Pasar Modal",
+  "title": "Pegadaian Raih [Penghargaan] Sukuk Syariah di Kuala Lumpur",
+  "deck": "Pegadaian meraih penghargaan Best Sukuk-SME di The Asset Triple A Islamic Finance Awards 2026 di Kuala Lumpur, berkat penerbitan sukuk syariah Rp1,75 triliun untuk mendanai UMKM.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur.jpg",
+  "imageV": "mtbqd62p",
+  "tags": [
+   "Pegadaian",
+   "Sukuk Syariah",
+   "UMKM",
+   "Kuala Lumpur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463026-diakui-di-kancah-internasional-pegadaian-sabet-penghargaan-best-sukuk-sme-di-kuala-lumpur"
  },
  {
   "slug": "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
@@ -101,6 +135,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem",
+  "category": "UMKM",
+  "title": "Diskon Ongkos E-Commerce UMKM Tinggal Tunggu [Integrasi] Sistem",
+  "deck": "Menteri UMKM Maman Abdurrahman menyebut diskon 50 persen biaya layanan e-commerce bagi UMK sudah 95 persen siap, tinggal menunggu jadwal integrasi sistem Sapa UMKM.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem.jpg",
+  "imageV": "mtbqd72u",
+  "tags": [
+   "umkm",
+   "e-commerce",
+   "maman abdurrahman",
+   "sapa umkm"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462981-menteri-umkm-sebut-diskon-50-persen-biaya-e-commerce-bagi-umk-tunggu-jadwal-integrasi"
+ },
+ {
   "slug": "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
   "category": "Aksi Korporasi",
   "title": "BBRM [Batalkan] Kontrak Kapal PSV Senilai US$22 Juta",
@@ -133,6 +184,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan",
+  "category": "UMKM",
+  "title": "PNM Mekaar Bantu AO [Ubah] Nasib Keluarga Nelayan",
+  "deck": "Account Officer PNM Mekaar, Tika Wulandari, menyisihkan penghasilannya untuk keluarga hingga membelikan perahu bagi sang ayah, mantan buruh kapal orang lain.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan.jpg",
+  "imageV": "mtbqd7y9",
+  "tags": [
+   "PNM",
+   "UMKM",
+   "nelayan",
+   "lapangan kerja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462931-dari-penghasilan-menjadi-harapan-pnm-bantu-tika-gerakkan-ekonomi-keluarga-hingga-buka-lapangan-kerja"
+ },
+ {
+  "slug": "banggar-dpr-soroti-banyak-typo-rapbn-2027",
+  "category": "Makroekonomi",
+  "title": "Banggar DPR Soroti Banyak [Typo] RAPBN 2027",
+  "deck": "Banggar DPR temukan sejumlah kesalahan angka di dokumen RAPBN 2027, dari target pertumbuhan ekonomi hingga anggaran Makan Bergizi Gratis yang beda hingga Rp240 triliun.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/banggar-dpr-soroti-banyak-typo-rapbn-2027.jpg",
+  "imageV": "mtbqd8rz",
+  "tags": [
+   "RAPBN 2027",
+   "Banggar DPR",
+   "MBG",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462923-banggar-dpr-soroti-banyak-typo-rapbn-2027-dari-target-pertumbuhan-hingga-anggaran-mbg"
+ },
+ {
   "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
   "category": "Energi",
   "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
@@ -155,7 +240,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -960,7 +1045,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -6424,87 +6509,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c28956895b_de2653c73a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "lmpi-jawab-permintaan-bursa-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "LMPI Jawab Permintaan Bursa Soal [Volatilitas] Sahamnya",
-  "deck": "Menjawab surat resmi BEI soal pergerakan tak biasa sahamnya, Langgeng Makmur Industri menyatakan tidak mengetahui informasi material apa pun di balik volatilitas tersebut.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LMPI",
-   "Bursa Efek Indonesia",
-   "Volatilitas Saham",
-   "Keterbukaan Informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/267be7692d_8fce88d4c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 18 Agustus: Cabai Rawit [Termahal], Rp66.350/Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga cabai, telur, daging, beras, gula, dan minyak goreng eceran nasional pada 18 Agustus 2026, dengan cabai rawit merah termahal di Rp66.350 per kilogram.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/harga-pangan-18-agustus-cabai-rawit-termahal-rp66-350-kg.jpg",
-  "imageV": "msycsmze",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
- },
- {
-  "slug": "harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 18 Agustus, Telur Ayam [Rp28.200] per Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga eceran nasional 18 Agustus 2026, dari cabai rawit merah Rp66.350 per kilogram hingga minyak goreng curah Rp20.150 per liter.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/harga-pangan-18-agustus-telur-ayam-rp28-200-per-kg.jpg",
-  "imageV": "mt004r8r",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460690-harga-pangan-hari-ini-18-agustus-2026-telur-ayam-rp28200-per-gram-hingga-minyak-goreng-mulai-dari-rp20150-per-liter"
- },
- {
-  "slug": "utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar",
-  "category": "Makroekonomi",
-  "title": "Utang Luar Negeri RI [Naik] Tipis ke US$453,4 Miliar",
-  "deck": "Bank Indonesia mencatat utang luar negeri RI tumbuh 4,4 persen pada triwulan II 2026 menjadi US$453,4 miliar, ditopang aliran dana asing ke surat utang pemerintah dan bank sentral.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/utang-luar-negeri-ri-naik-tipis-ke-us-453-4-miliar.jpg",
-  "imageV": "msy4hscs",
-  "tags": [
-   "utang luar negeri",
-   "Bank Indonesia",
-   "SBN",
-   "SRBI"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi",
-  "category": "Pasar Modal",
-  "title": "IHSG [Naik] 1,21 Persen ke 6.479 di Awal Sesi",
-  "deck": "IHSG menguat 1,21 persen ke 6.479,178 pada pukul 09.05 WIB, Selasa 18 Agustus 2026, diikuti penguatan LQ45, IDX30, dan IDX80.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/ihsg-naik-1-21-persen-ke-6-479-di-awal-sesi.jpg",
-  "imageV": "msy7qjal",
-  "tags": [
-   "IHSG",
-   "Bursa Efek Indonesia",
-   "LQ45",
-   "Saham"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460667-ihsg-hari-ini-naik-121-persen-ke-6479-investor-mulai-serbu-bursa"
  }
 ];

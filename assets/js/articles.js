@@ -81,6 +81,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026",
+  "category": "Energi",
+  "title": "Pertamina Kejar 332 Desa [Energi] Berdikari di Akhir 2026",
+  "deck": "Pertamina genjot Program Desa Energi Berdikari dari 269 jadi 332 lokasi hingga akhir 2026, memadukan panel surya, biogas, dan mikrohidro untuk ekonomi desa.",
+  "image": "assets/img/pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T20:54:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463029-festival-deb-pertamina-2026-terus-perkuat-kolaborasi-dorong-energi-terbarukan-jadi-penggerak-ekonomi-desa",
+  "tags": [
+   "Pertamina",
+   "energi terbarukan",
+   "desa energi berdikari",
+   "DEB"
+  ],
+  "body": [
+   "PT Pertamina memperluas Program Desa Energi Berdikari (DEB) melalui festival tahunan yang digelar di Grha Pertamina, Jakarta, pada 27 hingga 28 Agustus 2026. Acara ini mempertemukan pemerintah, perguruan tinggi, inovator, dan penggerak masyarakat desa untuk memperluas kolaborasi serta mendorong pemakaian teknologi energi terbarukan yang sesuai kebutuhan desa. Program ini penting karena mengaitkan langsung pasokan energi bersih dengan penghidupan ekonomi warga desa, bukan sekadar proyek instalasi alat.",
+   "Hingga Agustus 2026, Pertamina telah menjalankan 269 program DEB di berbagai wilayah Indonesia, dengan rincian 166 program bertema ketahanan pangan, 58 program wisata energi, dan 45 program kawasan pesisir. Perusahaan menargetkan jumlah itu bertambah menjadi 332 lokasi pada akhir tahun 2026.",
+   "Secara teknis, program-program tersebut ditopang oleh 237 unit panel surya, 21 instalasi biogas dan metana, 8 unit mikrohidro, 2 unit biodiesel, serta 1 sistem hybrid. Total kapasitas energi terbarukan yang sudah dimanfaatkan mencapai sekitar 1,35 megawatt peak, dengan produksi biogas dan metana sebesar 959.302 meter kubik.",
+   "Menteri Pendidikan Tinggi, Sains, dan Teknologi Brian Yuliarto menyatakan perguruan tinggi memiliki sejumlah hasil riset yang bisa diterapkan di desa-desa program DEB, dan pihaknya akan membantu memetakan teknologi kampus yang siap diimplementasikan. Wakil Direktur Utama Pertamina Oki Muraza menjelaskan konsep DEB berjalan bertahap, mulai dari membangun kesadaran warga soal potensi energi terbarukan, mengenalkannya, melatih pemanfaatannya, hingga akhirnya memberi manfaat ekonomi bagi masyarakat."
+  ],
+  "fotoAdegan": "Solar panels installed at the edge of a rural rice field with a small biogas storage tank nearby, farmers working, bright morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/27/6a904113c32b3-jajaran-manajemen-pertamina-holding-subholding-berfoto-bersama-usai-penandatanganan-komitmen-saat-acara-festival-desa-energi-berdikari-pertamina-di-gedung-grha-pertamina-jakarta-kamis-278_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah target jumlah lokasi: dari 269 desa energi berdikari yang sudah berjalan sampai Agustus 2026, Pertamina mematok 332 lokasi pada akhir tahun, artinya perlu menambah sekitar 63 desa baru dalam waktu kurang dari lima bulan. Yang terdampak langsung adalah warga di 166 desa program ketahanan pangan, 58 desa wisata energi, dan 45 desa pesisir yang memakai panel surya, instalasi biogas, atau mikrohidro sebagai sumber energi untuk kegiatan produktif mereka. Kebutuhan menambah puluhan lokasi dalam waktu singkat menunjukkan program ini memasuki fase pengejaran target di penghujung tahun, berbeda dari pola penambahan bertahap yang biasanya berjalan sepanjang tahun. Yang akan memastikan apakah percepatan ini benar terjadi adalah angka realisasi akhir 2026 yang akan diumumkan Pertamina, yaitu apakah 332 lokasi benar-benar tercapai atau jumlahnya meleset dari target.",
+  "imageV": "mtbqd09s"
+ },
+ {
   "slug": "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
   "category": "Aksi Korporasi",
   "title": "PGAS Kalah Sebagian di Arbitrase Lawan [Gunvor] di London",
@@ -105,6 +132,33 @@ var ARTICLES = [
   "fotoAdegan": "Industrial gas pipelines and metering equipment at a distribution yard, technicians inspecting valves under overcast morning light",
   "takeaway": "Laporan ini condong negatif bagi PGN karena perseroan dinyatakan kalah dalam sengketa hukum internasional dan diwajibkan membayar kompensasi, meski nilai dan pokok perkaranya belum diungkap ke publik. Pos kinerja yang berpotensi tersentuh adalah arus kas dan kewajiban perseroan, yaitu uang tunai yang harus dikeluarkan atau utang yang harus diakui begitu proses eksekusi di pengadilan negeri Indonesia rampung dan nilai kompensasi jadi jelas. Pelaku pasar biasanya mencermati kasus seperti ini karena kewajiban membayar bisa membebani kas perusahaan meski besarannya di sini belum diketahui. Yang perlu dipantau berikutnya adalah hasil penelaahan menyeluruh yang sedang dilakukan manajemen PGN, langkah hukum lanjutan yang mungkin ditempuh atas putusan yang masih bersifat parsial ini, serta proses eksekusi putusan di pengadilan negeri Indonesia yang akan menentukan kapan dan berapa besar kewajiban itu benar-benar berlaku.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur",
+  "category": "Pasar Modal",
+  "title": "Pegadaian Raih [Penghargaan] Sukuk Syariah di Kuala Lumpur",
+  "deck": "Pegadaian meraih penghargaan Best Sukuk-SME di The Asset Triple A Islamic Finance Awards 2026 di Kuala Lumpur, berkat penerbitan sukuk syariah Rp1,75 triliun untuk mendanai UMKM.",
+  "image": "assets/img/pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T20:34:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463026-diakui-di-kancah-internasional-pegadaian-sabet-penghargaan-best-sukuk-sme-di-kuala-lumpur",
+  "tags": [
+   "Pegadaian",
+   "Sukuk Syariah",
+   "UMKM",
+   "Kuala Lumpur"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) meraih penghargaan Best Sukuk-SME dalam ajang The Asset Triple A Islamic Finance Awards 2026 yang berlangsung di Kuala Lumpur, Malaysia, Kamis (27/8). Penghargaan ini diberikan atas keberhasilan perusahaan pelat merah tersebut menghimpun dana lewat instrumen keuangan syariah untuk disalurkan ke sektor usaha mikro, kecil, dan menengah. Pengakuan dari lembaga penilai internasional ini menegaskan posisi Pegadaian di pasar keuangan syariah, sekaligus jadi sinyal bahwa skema pendanaannya dipandang layak dicontoh oleh korporasi lain yang ingin membiayai UMKM lewat pasar modal.",
+   "Penghargaan tersebut diterima oleh Kepala Divisi Treasuri Pegadaian, Luh Putu Andarini, dalam acara yang dihadiri pimpinan lembaga keuangan syariah dan pelaku pasar modal dari kawasan Asia Pasifik. Dasar penilaiannya adalah penerbitan Sukuk Mudharabah dalam dua seri sekaligus, atau dikenal dengan skema dual-tranche, dengan total dana yang terkumpul mencapai Rp1,75 triliun. Juri dari majalah The Asset menilai langkah ini berhasil menghubungkan dana besar di pasar modal dengan kebutuhan permodalan UMKM yang selama ini sulit dijangkau.",
+   "Skema dua seri ini memberi investor pilihan jangka waktu investasi yang lebih beragam, sehingga instrumen ini lebih mudah menyerap minat pasar. Di sisi lain, Pegadaian diuntungkan karena bisa menekan biaya yang harus dibayarkan untuk mendapatkan dana tersebut, di tengah kondisi pasar keuangan global yang masih berfluktuasi. Kombinasi keandalan instrumen komersial dan misi pemberdayaan UMKM inilah yang menurut juri layak dijadikan acuan bagi korporasi lain.",
+   "Direktur Keuangan dan Perencanaan Strategis Pegadaian, Ferdian Timur Satyagraha, mengatakan penghargaan ini mencerminkan kepercayaan investor global terhadap kinerja dan transparansi perusahaan. \"Penghargaan Best Sukuk-SME di tingkat internasional ini merupakan bentuk pengakuan atas tingginya kepercayaan investor global terhadap fundamental kinerja dan transparansi Pegadaian. Keberhasilan penerbitan Sukuk Rp1,75 Triliun ini bukan sekadar pencapaian finansial, melainkan bahan bakar bagi kami untuk terus mengalirkan permodalan syariah yang terjangkau bagi para pelaku UMKM agar mampu naik kelas dan berdaya saing global,\" ujar Ferdian."
+  ],
+  "fotoAdegan": "Teller weighing gold jewelry for a small business owner at a pawnshop service counter, indoor fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/27/6a903c1c2c160-pegadaian-kembali-mempertegas-dominasinya-di-sektor-keuangan-syariah-global-dengan-raih-penghargaan-bergengsi-best-sukuk-sme-small-and-medium-enterprise-pada-ajang-the-asset-triple-a-islamic-finance-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar penghargaannya, melainkan cara Pegadaian mendanai pembiayaan UMKM: mereka menghimpun Rp1,75 triliun dari pasar modal syariah lewat sukuk dua seri, bukan dari pinjaman bank atau setoran modal negara. Yang terdampak langsung adalah pelaku UMKM yang jadi sasaran penyaluran dana ini, serta investor institusi syariah yang membeli sukuk tersebut karena skema dua seri memberi pilihan jangka waktu. Dari kutipan direksi Pegadaian yang menyebut sukuk ini sebagai bahan bakar untuk terus mengalirkan modal syariah ke UMKM, arahnya terlihat jelas: pola pendanaan lewat pasar modal syariah kemungkinan berlanjut atau bahkan diperbesar, bukan cuma sekali jalan. Yang akan memastikan itu adalah apakah Pegadaian menerbitkan sukuk susulan dalam setahun ke depan, atau melaporkan secara konkret berapa banyak dana Rp1,75 triliun ini yang sudah benar-benar sampai ke pelaku UMKM.",
+  "imageV": "mtbqd62p"
  },
  {
   "slug": "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
@@ -159,6 +213,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem",
+  "category": "UMKM",
+  "title": "Diskon Ongkos E-Commerce UMKM Tinggal Tunggu [Integrasi] Sistem",
+  "deck": "Menteri UMKM Maman Abdurrahman menyebut diskon 50 persen biaya layanan e-commerce bagi UMK sudah 95 persen siap, tinggal menunggu jadwal integrasi sistem Sapa UMKM.",
+  "image": "assets/img/diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T17:36:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462981-menteri-umkm-sebut-diskon-50-persen-biaya-e-commerce-bagi-umk-tunggu-jadwal-integrasi",
+  "tags": [
+   "umkm",
+   "e-commerce",
+   "maman abdurrahman",
+   "sapa umkm"
+  ],
+  "body": [
+   "Pemerintah mengklaim persiapan kebijakan diskon 50 persen biaya layanan e-commerce bagi usaha mikro dan kecil (UMK) yang menjual produk dalam negeri sudah mencapai 95 persen. Menteri UMKM Maman Abdurrahman mengatakan sisa pekerjaan tinggal menyambungkan sistem dengan Sapa UMKM, basis data resmi pemerintah untuk pelaku usaha mikro dan kecil. Kebijakan ini penting karena menyangkut potongan biaya yang selama ini dibebankan platform belanja online kepada pedagang kecil, salah satu beban operasional yang kerap memberatkan mereka bersaing dengan produk impor.",
+   "Menurut Maman, yang tersisa dari 5 persen pekerjaan itu adalah soal jadwal pelaksanaan integrasi teknis, bukan lagi soal konsep atau aturan kebijakannya. Pernyataan itu disampaikan di Kementerian Perdagangan, Jakarta, Kamis, 27 Agustus 2026.",
+   "Maman menjelaskan, integrasi dengan Sapa UMKM dibutuhkan karena pemerintah ingin memantau perkembangan usaha mikro dan kecil yang berjualan lewat kanal digital. Data itu nantinya dipakai untuk menentukan bentuk dukungan dan insentif yang lebih tepat sasaran bagi pelaku UMK yang berjualan di e-commerce.",
+   "Dia menyebut proses integrasi sebelumnya sempat hampir mencapai tahap final, namun pemerintah masih meninjau ulang sejumlah hal terkait jadwal pelaksanaannya. Dengan progres yang ada, Maman menyatakan optimistis penyelesaian kebijakan ini tinggal menunggu rampungnya tahapan integrasi sistem."
+  ],
+  "fotoAdegan": "A home-based small business owner packing local snack products into cardboard boxes for online delivery, courier bags nearby, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/16/6a57c58771b7d-menteri-umkm-maman-abdurrahman_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakannya, karena diskon 50 persen biaya layanan e-commerce bagi UMK sudah diumumkan sebelumnya, melainkan tahap persiapannya yang menurut Maman sudah 95 persen dan tinggal menyambungkan data ke sistem pendataan bernama Sapa UMKM. Yang terdampak jelas pelaku usaha mikro dan kecil yang berjualan produk buatan dalam negeri lewat platform online, karena merekalah yang berhak atas potongan biaya layanan itu begitu sistemnya berjalan. Yang perlu dicermati, proses ini disebut sudah 'hampir final' sejak sebelumnya namun molor karena urusan jadwal, sehingga ada dua kemungkinan: kebijakan ini benar meluncur dalam waktu dekat karena tinggal soal administratif, atau kembali tertunda mengikuti pola sebelumnya kalau jadwal integrasi antarsistem belum juga disepakati. Yang akan memastikan arah mana yang terjadi adalah pengumuman resmi tanggal pemberlakuan diskon dari Kementerian UMKM atau Kementerian Perdagangan.",
+  "imageV": "mtbqd72u"
+ },
+ {
   "slug": "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
   "category": "Aksi Korporasi",
   "title": "BBRM [Batalkan] Kontrak Kapal PSV Senilai US$22 Juta",
@@ -211,6 +292,60 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan",
+  "category": "UMKM",
+  "title": "PNM Mekaar Bantu AO [Ubah] Nasib Keluarga Nelayan",
+  "deck": "Account Officer PNM Mekaar, Tika Wulandari, menyisihkan penghasilannya untuk keluarga hingga membelikan perahu bagi sang ayah, mantan buruh kapal orang lain.",
+  "image": "assets/img/pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T14:47:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462931-dari-penghasilan-menjadi-harapan-pnm-bantu-tika-gerakkan-ekonomi-keluarga-hingga-buka-lapangan-kerja",
+  "tags": [
+   "PNM",
+   "UMKM",
+   "nelayan",
+   "lapangan kerja"
+  ],
+  "body": [
+   "Seorang Account Officer (AO) program Mekaar milik PT Permodalan Nasional Madani (PNM), Tika Wulandari, membagikan kisah bagaimana pekerjaannya mendampingi nasabah usaha ultra mikro turut mengubah kondisi ekonomi keluarganya sendiri. Dari penghasilannya sebagai pendamping nasabah, ia berhasil membelikan perahu untuk ayahnya yang selama bertahun-tahun hanya menjadi awak kapal milik orang lain. Kisah ini menggambarkan sisi lain program pembiayaan mikro yang biasanya disorot dari sudut nasabah perempuan prasejahtera, yaitu dampaknya pada orang-orang yang bekerja mendampingi mereka.",
+   "Tika lahir dari keluarga nelayan dengan penghasilan tidak menentu, karena ayahnya bekerja mengikuti kapal milik orang lain. Sejak kecil ia terbiasa membantu orang tua, dan setelah lulus SMK ia memilih langsung bekerja agar tidak menambah beban keluarga. Pada 2019, ia bergabung sebagai AO Mekaar di PNM, tugas yang mempertemukannya dengan banyak ibu prasejahtera yang tengah merintis usaha kecil.",
+   "Dari gajinya sebagai pendamping nasabah, Tika mulai menyisihkan uang untuk kebutuhan keluarga, mulai dari membeli sepeda motor untuk menunjang mobilitas kerjanya hingga membantu ibunya membeli seekor sapi. Puncaknya pada 2022, ia berhasil membelikan perahu untuk sang ayah, yang sebelumnya bertahun-tahun hanya mengikuti kapal milik orang lain untuk melaut.",
+   "Perahu itu kini tidak hanya menjadi sumber penghasilan baru bagi keluarga Tika, tetapi juga membuka peluang kerja bagi orang lain yang ikut melaut bersama ayahnya. PNM mengangkat kisah ini sebagai salah satu contoh bagaimana program pembiayaan ultra mikro yang dijalankannya turut menggerakkan ekonomi keluarga, baik dari sisi nasabah maupun pendampingnya."
+  ],
+  "fotoAdegan": "Wooden fishing boats moored at a small harbor at dawn, fishermen preparing nets before heading out to sea",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/27/6a8feacebb482-bagi-tika-wulandari-profesinya-sebagai-account-officer-di-pnm-mekaar-bukan-sekadar-rutinitas-untuk-mencari-nafkah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini murni terjadi pada skala satu keluarga, seorang anak buruh kapal berhasil membelikan perahu untuk ayahnya sendiri pada 2022, dan perahu itu kini juga menjadi sumber kerja bagi orang lain yang ikut melaut. Yang terdampak langsung adalah keluarga Tika dan orang-orang di sekitarnya yang kini ikut bekerja di perahu tersebut, bukan komunitas yang lebih luas. Berita ini tidak menyebut berapa banyak Account Officer PNM Mekaar lain yang mengalami hal serupa, atau berapa total nasabah dan dana yang disalurkan program ini secara nasional, sehingga belum bisa dibaca apakah kisah Tika mencerminkan pola umum atau sekadar contoh yang dipilih untuk keperluan publikasi. Yang perlu dicari untuk menilai skala dampak sesungguhnya adalah data resmi PNM soal jumlah AO Mekaar dan nasabah binaan yang benar-benar naik kelas secara ekonomi, bukan hanya satu kisah personal.",
+  "imageV": "mtbqd7y9"
+ },
+ {
+  "slug": "banggar-dpr-soroti-banyak-typo-rapbn-2027",
+  "category": "Makroekonomi",
+  "title": "Banggar DPR Soroti Banyak [Typo] RAPBN 2027",
+  "deck": "Banggar DPR temukan sejumlah kesalahan angka di dokumen RAPBN 2027, dari target pertumbuhan ekonomi hingga anggaran Makan Bergizi Gratis yang beda hingga Rp240 triliun.",
+  "image": "assets/img/banggar-dpr-soroti-banyak-typo-rapbn-2027.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T14:34:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/462923-banggar-dpr-soroti-banyak-typo-rapbn-2027-dari-target-pertumbuhan-hingga-anggaran-mbg",
+  "tags": [
+   "RAPBN 2027",
+   "Banggar DPR",
+   "MBG",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "body": [
+   "Badan Anggaran (Banggar) DPR RI menemukan banyak kesalahan angka dalam dokumen resmi Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) 2027, mulai dari perkiraan pertumbuhan ekonomi sampai anggaran program Makan Bergizi Gratis. Temuan ini disampaikan dalam rapat kerja Banggar bersama Menteri Keuangan Purbaya Yudhi Sadewa dan Menteri PPN/Kepala Bappenas Rahmat Pambudy, Kamis (27/8/2026). Soal ini penting karena dokumen tersebut menjadi acuan utama DPR dan pemerintah saat membahas anggaran negara tahun depan.",
+   "Ketua Banggar DPR RI Said Abdullah menyebut ada sejumlah beda angka antara pidato kenegaraan Presiden Prabowo Subianto pada 14 Agustus 2026 dengan dokumen yang diterima DPR. Presiden menyebut target pertumbuhan ekonomi 6 persen, sementara di Nota Keuangan yang diterima DPR tertulis 5,9 persen. Anggaran program Makan Bergizi Gratis (MBG) juga berbeda jauh, disebut Rp480 triliun di satu bagian dokumen, tapi lampirannya hanya mencantumkan Rp240 triliun.",
+   "Selain kesalahan angka, Banggar juga menemukan sejumlah sasaran pembangunan yang belum dicantumkan dalam dokumen RAPBN 2027. Anggota Banggar dari Fraksi PDI Perjuangan, Dolfie Othniel Frederic Palit, menyebut data yang belum tercantum antara lain target tingkat kemiskinan ekstrem, penciptaan lapangan kerja baru, serta nilai tukar petani dan nelayan untuk 2027.",
+   "Said meminta pemerintah memastikan ulang ketepatan angka dan kelengkapan data dalam dokumen RAPBN 2027 sebelum pembahasan berlanjut, agar tidak menimbulkan kebingungan di antara pihak yang membahas anggaran. Pemerintah dalam rapat tersebut berjanji memperbaiki catatan-catatan yang disorot Banggar."
+  ],
+  "fotoAdegan": "Wide, distant shot of a formal government hearing hall, officials seated at long desks with stacked paper documents and microphones, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/09/24/68d3735fa31d4-menteri-keuangan-purbaya-yudhi-sadewa-kiri-menerima-laporan-hasil-pembahasan-dari-ketua-banggar-dpr-said-abdullah-kanan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan besar kecilnya anggaran, tapi keyakinan bahwa angka di dokumen RAPBN 2027 ini bisa langsung dipegang untuk pembahasan anggaran. Selisihnya tidak kecil, target pertumbuhan ekonomi versi pidato presiden 6 persen sementara di dokumen resmi tertulis 5,9 persen, dan anggaran program Makan Bergizi Gratis tertulis Rp480 triliun di satu bagian tapi cuma Rp240 triliun di lampiran lain, beda separuhnya. Yang kena dampak langsung adalah DPR sendiri sebagai pembahas anggaran, karena mereka perlu tahu angka mana yang dipakai sebelum menyetujui pos-pos belanja, termasuk program MBG yang menyasar jutaan penerima makan gratis. Kalau ini murni salah ketik, perbaikannya akan cepat dan angka final mendekati salah satu versi yang sudah beredar, tapi kalau selisih sebesar itu justru mencerminkan angka yang memang belum final, revisinya bisa mengubah alokasi program itu sendiri. Yang akan memastikan mana yang benar adalah dokumen perbaikan yang dijanjikan pemerintah untuk rapat kerja Banggar berikutnya.",
+  "imageV": "mtbqd8rz"
+ },
+ {
   "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
   "category": "Energi",
   "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
@@ -242,7 +377,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -1545,7 +1680,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",

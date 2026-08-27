@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Panggil RUPSLB, Bahas [Stock Split] Saham Rasio 1:2",
+  "deck": "RUPSLB PBSA pada 18 September 2026 akan membahas pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per saham dengan rasio 1:2, serta penyesuaian anggaran dasar terkait modal.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "RUPSLB",
+   "Paramita Bangun Sarana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cb6b5099d_1a993c73a3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "VICO Gelar RUPSLB, Bahas Pembagian [Dividen] Tunai",
+  "deck": "PT Victoria Investama Tbk (VICO) mengundang pemegang saham ke RUPSLB 18 September 2026 untuk menyetujui pembagian sebagian laba ditahan sebagai dividen tunai.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICO",
+   "RUPSLB",
+   "dividen",
+   "Victoria Investama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/baab9c4934_0e386963dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "peringkat-utang-ptpp-anjlok-ke-idbb-sebelum-rupo-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Peringkat Utang PTPP [Anjlok] ke idBB Sebelum RUPO Obligasi",
+  "deck": "Pefindo memangkas peringkat PTPP dari idBBB+ ke idBB dengan status CreditWatch negatif, menyusul rencana restrukturisasi kupon dan jatuh tempo obligasi serta sukuk yang masih beredar.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "Peringkat Utang",
+   "Restrukturisasi Obligasi",
+   "Pefindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/973a356dc2_f16e149cf7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pjhb-jawab-bursa-akui-tak-ada-info-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PJHB Jawab Bursa, Akui Tak Ada Info di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat BEI soal lonjakan transaksi sahamnya, PJHB menyatakan tidak ada informasi material yang belum diungkapkan dan pemegang saham pengendali tak berencana ubah kepemilikan.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PJHB",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/44d68e53e1_fd823a5dcd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-jadwalkan-delisting-20-waran-terstruktur-seri-t-33",
+  "category": "Aksi Korporasi",
+  "title": "DR Jadwalkan [Delisting] 20 Waran Terstruktur Seri T-33",
+  "deck": "RHB Sekuritas (DR) umumkan penghentian perdagangan, pelaksanaan otomatis, dan delisting 20 waran terstruktur penerbitan ke-33 pada 9-15 September 2026.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas Indonesia",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/571c9a883c_84a2188e78.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "part-konfirmasi-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "PART Konfirmasi Tak Ada Informasi Material di Balik [Volatilitas]",
+  "deck": "Menjawab permintaan BEI soal lonjakan volatilitas transaksi, PART menyatakan tidak ada info material dan pemegang saham utama tak berencana ubah kepemilikan.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PART",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cc77402c6_1e24425c6d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp2-49-triliun-pelunasan",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi Obligasi dan Sukuk Rp2,49 Triliun [Pelunasan]",
+  "deck": "Indah Kiat Pulp & Paper melunasi pokok obligasi dan sukuk mudharabah senilai total Rp2,49 triliun kepada pemegang efek pada 26 Agustus 2026.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/05a9f95dfb_ef45c8a4b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nice-ganti-susunan-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "NICE ganti susunan [Direksi] dan Komisaris usai RUPSLB",
+  "deck": "RUPSLB 26 Agustus 2026 menetapkan Chang Pyo Hong sebagai Direktur Utama baru dan merombak penuh susunan Direksi serta Dewan Komisaris NICE hingga RUPST 2028.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "Direksi",
+   "RUPSLB",
+   "Tambang Nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afae5e7a1f_549b500c05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
   "category": "Bisnis",
   "title": "IRSE 2026 Dibuka, Ritel Didorong Genjot [Teknologi]",
@@ -6386,143 +6514,6 @@ var ARTICLES = [
    "pencatatan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4b9248500f_b9572d86a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta",
-  "category": "Aksi Korporasi",
-  "title": "XTRA: Unit ETF Emas Trimegah [Bertambah] 85% jadi 109 Juta",
-  "deck": "Bursa mencatat penambahan 50 juta unit penyertaan Reksa Dana Syariah Trimegah Syariah ETF Emas (XTRA), sehingga total unit beredar naik jadi 109 juta per 14 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/xtra-unit-etf-emas-trimegah-bertambah-85-jadi-109-juta.jpg",
-  "imageV": "msy7tozc",
-  "tags": [
-   "XTRA",
-   "ETF Emas",
-   "Reksa Dana",
-   "Trimegah Asset Management"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87211d8a14_1dbd246566.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tays-direktur-benny-anwar-mundur-tunggu-rups",
-  "category": "Aksi Korporasi",
-  "title": "TAYS: Direktur Benny Anwar [Mundur], Tunggu RUPS",
-  "deck": "PT Jaya Swarasa Agung Tbk melaporkan pengunduran diri Benny Anwar dari kursi Direktur Perseroan, efektif setelah disetujui RUPS yang jadwalnya belum ditentukan.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/tays-direktur-benny-anwar-mundur-tunggu-rups.jpg",
-  "imageV": "msy2rral",
-  "tags": [
-   "TAYS",
-   "direksi",
-   "pengunduran diri",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/675361a014_a132e969a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus",
-  "category": "Aksi Korporasi",
-  "title": "UANG Jadwalkan RUPSLB 23 September, Batas Pemegang Saham [31 Agustus]",
-  "deck": "PT Pakuan Tbk mengumumkan rencana RUPSLB pada 23 September 2026 di Depok, dengan pemegang saham yang berhak hadir dicatat per 31 Agustus 2026.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/uang-jadwalkan-rupslb-23-september-batas-pemegang-saham-31-agustus.jpg",
-  "imageV": "msy2sbhg",
-  "tags": [
-   "UANG",
-   "RUPSLB",
-   "Pakuan",
-   "Rapat Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3bd6dc1854_32dc24e22b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "ENRG cetak laba bersih naik [27%] pada semester I 2026",
-  "deck": "Penjualan bersih, EBITDA, dan laba bersih Energi Mega Persada kompak tumbuh dua digit pada semester I 2026 dibanding periode sama tahun lalu.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/enrg-cetak-laba-bersih-naik-27-pada-semester-i-2026.jpg",
-  "imageV": "msxg06ff",
-  "tags": [
-   "ENRG",
-   "laporan keuangan",
-   "migas",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/497827dd25_6d9b88c669.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu",
-  "category": "Industri",
-  "title": "Insentif Motor Listrik Rp5 Juta [Tertahan], Tunggu Aturan Menkeu",
-  "deck": "Menperin Agus Gumiwang menyebut insentif Rp5 juta untuk motor listrik masih menunggu Peraturan Menteri Keuangan sebelum bisa dijalankan.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/insentif-motor-listrik-rp5-juta-tertahan-tunggu-aturan-menkeu.jpg",
-  "imageV": "msxe1pfi",
-  "tags": [
-   "motor listrik",
-   "insentif kendaraan listrik",
-   "Kementerian Keuangan",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460567-update-soal-insentif-motor-listrik-rp5-juta-menperin-tunggu-peraturan-menteri-keuangan"
- },
- {
-  "slug": "kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan",
-  "category": "Makroekonomi",
-  "title": "Kementerian PU: [Kedaulatan] Dijaga Lewat Sawah dan Jembatan",
-  "deck": "Kementerian PU menegaskan kedaulatan RI harus terasa lewat irigasi sawah, jalan desa, dan jembatan di pelosok negeri saat HUT ke-81 kemerdekaan.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/kementerian-pu-kedaulatan-dijaga-lewat-sawah-dan-jembatan.jpg",
-  "imageV": "msxe1px6",
-  "tags": [
-   "HUT RI ke-81",
-   "Kementerian PU",
-   "infrastruktur",
-   "Sapta Taruna"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460592-refleksi-hut-ke-81-ri-kementerian-pu-tegaskan-kedaulatan-dijaga-lewat-sawah-hingga-jembatan-di-pelosok-negeri"
- },
- {
-  "slug": "gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak",
-  "category": "UMKM",
-  "title": "Gempa NTT: Kemendag Beri Bantuan [Rp250] Juta, 4 Pasar Rusak",
-  "deck": "Kemendag menyalurkan bantuan Rp250 juta untuk korban gempa NTT dan mencatat empat pasar rusak, termasuk Pasar Inpres Ruteng yang ditutup sementara.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/gempa-ntt-kemendag-beri-bantuan-rp250-juta-4-pasar-rusak.jpg",
-  "imageV": "msxa9pga",
-  "tags": [
-   "Gempa NTT",
-   "Kemendag",
-   "Pasar Rakyat",
-   "Bantuan Bencana"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/solidaritas-dalam-hut-ke-81-ri-mendag-busan-serahkan-bantuan-kemendag-untuk-korban-gempa-ntt",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32",
-  "category": "Aksi Korporasi",
-  "title": "MEDS: Komisaris [Lepas] 3,5 Juta Saham, Suara ke 54,32%",
-  "deck": "Jemmy Kurniawan, Komisaris Hetzer Medical Indonesia, melepas 3,5 juta saham pada 14 Agustus 2026. Hak suaranya turun tipis dari 54,55% menjadi 54,32%.",
-  "date": "17 Agustus 2026",
-  "image": "assets/img/meds-komisaris-lepas-3-5-juta-saham-suara-ke-54-32.jpg",
-  "imageV": "msxg0jo7",
-  "tags": [
-   "MEDS",
-   "Kepemilikan Saham",
-   "Komisaris",
-   "Hetzer Medical Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17082026-6067-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

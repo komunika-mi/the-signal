@@ -3,6 +3,213 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
+  "category": "Aksi Korporasi",
+  "title": "PBSA Panggil RUPSLB, Bahas [Stock Split] Saham Rasio 1:2",
+  "deck": "RUPSLB PBSA pada 18 September 2026 akan membahas pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per saham dengan rasio 1:2, serta penyesuaian anggaran dasar terkait modal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T10:58:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cb6b5099d_1a993c73a3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBSA",
+  "tags": [
+   "PBSA",
+   "stock split",
+   "RUPSLB",
+   "Paramita Bangun Sarana"
+  ],
+  "body": [
+   "PT Paramita Bangun Sarana Tbk (PBSA) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 18 September 2026, pukul 10.00 WIB di Shanghai Meeting Room, Merlynn Park Hotel Jakarta. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 26 Agustus 2026, sampai penutupan perdagangan di Bursa Efek Indonesia.",
+   "Agenda utama rapat adalah persetujuan pemecahan nilai nominal saham atau stock split dengan rasio 1:2. Nilai nominal saham PBSA yang saat ini Rp50 per saham akan berubah menjadi Rp25 per saham, sehingga jumlah saham beredar akan bertambah dua kali lipat tanpa mengubah total modal perseroan. Manajemen menyebut tujuan langkah ini adalah meningkatkan likuiditas perdagangan saham PBSA di bursa dan membuat harga sahamnya lebih terjangkau bagi investor ritel.",
+   "Agenda kedua adalah persetujuan perubahan Pasal 4 Anggaran Dasar perseroan mengenai modal dasar, modal ditempatkan, dan modal disetor, sebagai konsekuensi teknis dari stock split untuk menyesuaikan jumlah lembar saham yang tercantum dalam anggaran dasar. Perseroan menunjuk PT Sinartama Gunita sebagai biro administrasi efek untuk menerima kuasa pemegang saham, baik secara elektronik melalui eASY.KSEI maupun secara tertulis paling lambat tiga hari kerja sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Wide view of a road construction site with heavy machinery and workers in safety vests at dusk, city skyline in the distance",
+  "takeaway": "Langkah ini bersifat netral bagi fundamental PBSA, karena stock split hanya memecah lembar saham tanpa menambah modal baru atau mengubah total ekuitas perseroan. Yang tersentuh adalah jumlah saham beredar, yang akan berlipat dua, sehingga laba per saham secara notasi akan mengecil meski laba riil perusahaan tidak berubah, dan harga saham per lembar di pasar juga akan otomatis terkoreksi mengikuti rasio pemecahan tanpa mengubah nilai kepemilikan investor secara keseluruhan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 September 2026, apakah rasio 1:2 ini disetujui sesuai usulan, serta tanggal efektif pelaksanaan stock split yang biasanya diumumkan Perseroan tak lama setelah rapat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
+  "category": "Aksi Korporasi",
+  "title": "VICO Gelar RUPSLB, Bahas Pembagian [Dividen] Tunai",
+  "deck": "PT Victoria Investama Tbk (VICO) mengundang pemegang saham ke RUPSLB 18 September 2026 untuk menyetujui pembagian sebagian laba ditahan sebagai dividen tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T10:32:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/baab9c4934_0e386963dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICO",
+  "tags": [
+   "VICO",
+   "RUPSLB",
+   "dividen",
+   "Victoria Investama"
+  ],
+  "body": [
+   "PT Victoria Investama Tbk (VICO) mengundang pemegang saham menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 18 September 2026 pukul 14.00 WIB di Graha BIP Lantai 3A, Jalan Jenderal Gatot Subroto Kavling 23, Jakarta Selatan. Satu-satunya agenda rapat adalah persetujuan penggunaan sebagian laba ditahan perseroan untuk dibagikan sebagai dividen tunai kepada pemegang saham. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham (recording date) hingga penutupan perdagangan bursa pada Rabu, 26 Agustus 2026 pukul 16.00 WIB.",
+   "Dalam penjelasan resmi pemanggilan rapat, manajemen menyebut usulan ini didasarkan pada saldo laba ditahan per 31 Desember 2025 yang tercatat dalam laporan keuangan konsolidasian perseroan. Laporan tersebut telah diaudit oleh Kantor Akuntan Publik Heliantono dan Rekan Parker Russell International, dengan nomor laporan 00400/2.0459/AU.1/09/0916-4/1/III/2026 tertanggal 27 Maret 2026. Dokumen pemanggilan tidak mencantumkan nominal dividen per saham maupun total dana yang akan dibagikan; besarannya baru akan diputuskan dalam RUPSLB.",
+   "Rapat akan digelar secara fisik maupun elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang ingin memberi suara elektronik wajib menyampaikan kehadiran, kuasa, atau pilihan suaranya paling lambat pukul 12.00 WIB satu hari kerja sebelum rapat. Surat pemanggilan ditandatangani Direktur Utama VICO, Aldo Jusuf Tjahaja, dan ditembuskan ke OJK, Bursa Efek Indonesia, KSEI, serta PT Sinartama Gunita selaku biro administrasi efek perseroan."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall inside a Jakarta office tower, soft morning light through glass windows",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham VICO, karena perseroan mengajukan persetujuan untuk membagikan sebagian labanya sebagai dividen tunai, memberi sinyal kepastian pengembalian nilai ke pemegang saham meski nominalnya belum diumumkan. Pos yang tersentuh adalah laba ditahan, yaitu bagian dari ekuitas atau modal sendiri perusahaan yang selama ini disimpan dan belum dibagikan; begitu sebagian dipakai membayar dividen tunai, ekuitas perseroan turun dan kas keluar saat pembayaran dilakukan, sehingga arus kas perusahaan ikut terpengaruh. Yang perlu dipantau adalah hasil RUPSLB pada 18 September 2026, termasuk berapa nominal dividen per saham yang akhirnya disetujui dan kapan jadwal pembayarannya, karena pemanggilan ini belum mencantumkan kedua angka tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "peringkat-utang-ptpp-anjlok-ke-idbb-sebelum-rupo-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Peringkat Utang PTPP [Anjlok] ke idBB Sebelum RUPO Obligasi",
+  "deck": "Pefindo memangkas peringkat PTPP dari idBBB+ ke idBB dengan status CreditWatch negatif, menyusul rencana restrukturisasi kupon dan jatuh tempo obligasi serta sukuk yang masih beredar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T09:55:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/973a356dc2_f16e149cf7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "Peringkat Utang",
+   "Restrukturisasi Obligasi",
+   "Pefindo"
+  ],
+  "body": [
+   "Pefindo pada 26 Agustus 2026 menurunkan peringkat kredit PT PP (Persero) Tbk (PTPP) dari idBBB+ menjadi idBB dengan status CreditWatch berimplikasi negatif. Bersamaan dengan itu, Pefindo juga menurunkan peringkat sejumlah surat utang PTPP, yaitu Obligasi Berkelanjutan III Tahap I 2021 Seri B senilai Rp650 miliar (jatuh tempo 2 Juli 2027), Tahap II 2022 Seri B senilai Rp404,5 miliar (jatuh tempo 22 April 2027), Tahap III 2023 senilai Rp503,725 miliar (jatuh tempo 11 April 2027), dan Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp434,62 miliar (jatuh tempo 28 Juni 2027) menjadi idBB, serta Sukuk Mudharabah Berkelanjutan I Tahap I 2021 Seri B senilai Rp100 miliar (jatuh tempo 2 Juli 2027), Tahap II 2022 Seri B senilai Rp305 miliar (jatuh tempo 22 April 2027), dan Tahap III 2023 senilai Rp126,754 miliar (jatuh tempo 11 April 2027) menjadi idBB(sy). Total nilai pokok surat utang yang terdampak mencapai sekitar Rp2,52 triliun, dengan masa berlaku peringkat baru ini berjalan dari 26 Agustus hingga 26 November 2026.",
+   "Pefindo menyebut penurunan peringkat ini merupakan dampak dari rencana PTPP mengadakan Rapat Umum Pemegang Obligasi (RUPO) dan Rapat Umum Pemegang Sukuk (RUPSu) untuk meminta persetujuan restrukturisasi kupon dan jatuh tempo atas obligasi serta sukuk yang masih beredar. Kupon terdekat yang jatuh tempo adalah pada 28 September 2026, dan menurut Pefindo, rencana restrukturisasi ini mencerminkan tekanan likuiditas yang akut serta profil kredit yang melemah secara material, akibat keterbatasan akses pendanaan dan tantangan pembiayaan ulang di tengah industri konstruksi domestik yang menantang. Pefindo bahkan memperingatkan, jika pemegang obligasi menyetujui restrukturisasi tersebut, peringkat PTPP berpotensi diturunkan lagi karena akan dipandang sebagai restrukturisasi utang bermasalah untuk menghindari gagal bayar, sementara kegagalan menyelesaikan agenda RUPO juga akan meningkatkan risiko gagal bayar kupon dalam waktu dekat.",
+   "Dalam suratnya ke Otoritas Jasa Keuangan, Direktur Keuangan PTPP Faizal Rahmad menyatakan perseroan menerima keputusan Pefindo tersebut. Ia menyebut pembayaran kupon terakhir yang telah dilunasi adalah untuk Obligasi Berkelanjutan III Tahap II 2022 Seri B senilai Rp7.837.187.500 dan Sukuk Mudharabah Berkelanjutan I Tahap II 2022 Seri B senilai Rp5.909.375.000, keduanya dibayarkan pada 22 Juli 2026. Kewajiban pembayaran kepada pemegang surat utang selanjutnya akan bergantung pada hasil RUPO dan RUPSu yang dijadwalkan berlangsung pada 1 September 2026. Laporan Pefindo turut mencatat ekuitas PTPP anjlok dari Rp14,98 triliun pada akhir 2024 menjadi Rp3,94 triliun pada akhir 2025 setelah perseroan membukukan rugi bersih Rp9,92 triliun sepanjang 2025, sementara rasio utang terhadap ekuitas naik menjadi 6,2 kali pada Juni 2026."
+  ],
+  "fotoAdegan": "Construction workers welding steel reinforcement bars at a high-rise building site in an Indonesian city, overcast afternoon light",
+  "takeaway": "Penurunan peringkat ini jelas bernada negatif bagi PTPP, sebab bukan sekadar downgrade rutin, melainkan respons langsung atas rencana perusahaan meminta perpanjangan jatuh tempo dan pemotongan kupon ke pemegang obligasi, tanda arus kas tidak lagi cukup menutup kewajiban utang tepat waktu. Yang tersentuh adalah modal sendiri perusahaan alias ekuitas, yang anjlok dari Rp14,98 triliun menjadi Rp3,94 triliun dalam setahun akibat kerugian besar, sehingga utang perusahaan kini enam kali lipat modalnya sendiri, sementara laba operasional yang dihasilkan hanya cukup menutup sekitar 60 persen beban bunga yang harus dibayar. Pelaku pasar mencermati rasio semacam ini karena makin tipis bantalan modal dan makin berat beban bunga dibanding pendapatan, makin besar peluang perusahaan telat atau gagal bayar utang. Yang perlu dipantau berikutnya adalah hasil rapat pemegang obligasi dan sukuk pada 1 September 2026, serta apakah PTPP mampu membayar kupon yang jatuh tempo pada 28 September 2026, karena Pefindo sudah menyatakan peringkat bisa turun lebih dalam lagi bila restrukturisasi ini gagal disetujui atau gagal dijalankan. Ini melanjutkan rentetan kabar restrukturisasi utang PTPP yang sudah bergulir sejak pertengahan Agustus, kali ini dengan konfirmasi konkret dari lembaga pemeringkat bahwa risikonya nyata secara finansial.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pjhb-jawab-bursa-akui-tak-ada-info-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "PJHB Jawab Bursa, Akui Tak Ada Info di Balik [Volatilitas] Saham",
+  "deck": "Menjawab surat BEI soal lonjakan transaksi sahamnya, PJHB menyatakan tidak ada informasi material yang belum diungkapkan dan pemegang saham pengendali tak berencana ubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T09:51:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/44d68e53e1_fd823a5dcd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PJHB",
+  "tags": [
+   "PJHB",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Pelayaran Jaya Hidup Baru Tbk (PJHB) mengirim surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi bursa bernomor S-11045/BEI.PP1/08-2026 tertanggal 26 Agustus 2026 terkait volatilitas transaksi efek perseroan. Surat balasan perseroan bernomor 003/JHB/08/2026 ditandatangani Direktur Utama Go Sioe Bie dan disampaikan ke bursa pada 27 Agustus 2026.",
+   "Dalam surat itu, PJHB menjawab enam pertanyaan standar bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik, baik yang diatur POJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pelaporan kepemilikan saham tertentu sesuai POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana aksi korporasi material dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa.",
+   "Poin yang relatif lebih substantif ada di jawaban keenam: setelah dikonfirmasi oleh Corporate Secretary, pemegang saham utama dan pengendali PJHB menyatakan tidak memiliki rencana mengubah kepemilikan sahamnya dalam waktu dekat. Perseroan menutup surat dengan menyatakan akan menyampaikan informasi lanjutan apabila di kemudian hari muncul perkembangan material."
+  ],
+  "fotoAdegan": "A tugboat pushing a barge along a wide brown river near a busy Kalimantan river port, overcast sky, distant dockworkers.",
+  "takeaway": "Laporan ini netral bagi PJHB karena isinya sepenuhnya penyangkalan rutin, tidak ada angka transaksi, perubahan modal, atau rencana korporasi baru yang bisa digeser ke arah positif atau negatif. Permintaan penjelasan seperti ini biasanya dikirim bursa ketika harga atau volume perdagangan suatu saham bergerak tidak wajar dibanding pola biasanya, dan surat ini adalah cara bursa memastikan lonjakan itu bukan akibat informasi orang dalam yang belum terbuka ke publik. Yang perlu dicermati pembaca adalah pergerakan harga PJHB dalam beberapa hari ke depan, sebab bursa bisa saja tetap memberi status pemantauan khusus jika volatilitasnya berlanjut meski perseroan sudah membantah punya informasi material. Perseroan sendiri berjanji akan mengirim keterbukaan baru kalau memang ada perkembangan material, jadi kepastian soal apa yang sebenarnya mendorong transaksi ini baru akan terjawab lewat pengumuman susulan tersebut, bila ada.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dr-jadwalkan-delisting-20-waran-terstruktur-seri-t-33",
+  "category": "Aksi Korporasi",
+  "title": "DR Jadwalkan [Delisting] 20 Waran Terstruktur Seri T-33",
+  "deck": "RHB Sekuritas (DR) umumkan penghentian perdagangan, pelaksanaan otomatis, dan delisting 20 waran terstruktur penerbitan ke-33 pada 9-15 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T09:38:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/571c9a883c_84a2188e78.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "RHB Sekuritas Indonesia",
+   "BEI"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia dengan kode emiten DR mengumumkan jadwal berakhirnya waran terstruktur penerbitan ke-33 yang tercatat sejak 2 April 2026. Perdagangan waran ini akan berhenti pada Rabu, 9 September 2026 pukul 16.00 WIB, dilanjutkan penghentian sementara mulai Kamis, 10 September 2026. Tanggal Pelaksanaan jatuh pada Senin, 14 September 2026 pukul 09.00 WIB, dan waran akan resmi didelisting dari Bursa Efek Indonesia pada Selasa, 15 September 2026 pukul 09.00 WIB.",
+   "Ada 20 waran terstruktur dengan saham acuan berbeda yang terkena jadwal ini, masing-masing dengan harga pelaksanaan dan rasio pelaksanaan sendiri: ACES (kode ACESDRCU6A) harga 502 rasio 2,7376; AMMN (AMMNDRCU6A) harga 7.500 rasio 40; ARTO (ARTODRCU6A) harga 2.000 rasio 30; BMRI (BMRIDRCU6A) harga 5.512 rasio 25,7203; BRMS (BRMSDRCU6A) harga 990 rasio 11; BSDE (BSDEDRCU6A) harga 950 rasio 4; BUKA (BUKADRCU6A) harga 148 rasio 4; CTRA (CTRADRCU6A) harga 843 rasio 6,5579; EMTK (EMTKDRCU6A) harga 1.150 rasio 10; ERAA (ERAADRCU6A) harga 419 rasio 3,7268; HEAL (HEALDRCU6A) harga 1.700 rasio 10; HRUM (HRUMDRCU6A) harga 1.450 rasio 12; INKP (INKPDRCU6A) harga 11.875 rasio 50; JSMR (JSMRDRCU6A) harga 4.174 rasio 18,9722; MAPA (MAPADRCU6A) harga 900 rasio 12; PANI (PANIDRCU6A) harga 14.000 rasio 80; PGEO (PGEODRCU6A) harga 1.522 rasio 9,5153; PNLF (PNLFDRCU6A) harga 320 rasio 5; SMRA (SMRADRCU6A) harga 408 rasio 4; dan WIFI (WIFIDRCU6A) harga 4.100 rasio 25.",
+   "Seluruh waran ini berjenis call warrant yang diselesaikan secara tunai, bukan dengan penyerahan saham. Jika pada Tanggal Pelaksanaan harga penyelesaian saham acuan berada di atas harga pelaksanaan, pemegang waran berhak atas selisihnya dikalikan jumlah waran yang dimiliki dan dibagi rasio pelaksanaan, dan RHB Sekuritas selaku penerbit wajib membayarkannya lewat KSEI paling lambat tiga hari bursa setelah Tanggal Pelaksanaan. Sebaliknya, jika harga penyelesaian sama dengan atau di bawah harga pelaksanaan, waran otomatis berakhir tanpa nilai dan pemegang tidak dikenai kewajiban membayar apa pun."
+  ],
+  "fotoAdegan": "Aerial view of Jakarta's Sudirman business district skyscrapers at dusk, illuminated office towers, light traffic on the avenue below",
+  "takeaway": "Laporan ini netral bagi RHB Sekuritas Indonesia (DR) karena jadwal kedaluwarsa dan pelaksanaan otomatis ini memang sudah diatur sejak penerbitan waran seri ke-33 pada April 2026, bukan keputusan korporasi baru yang mengubah kondisi keuangan perusahaan. Yang tersentuh adalah arus kas RHB Sekuritas selaku penerbit waran: jika pada Tanggal Pelaksanaan harga saham acuan seperti BMRI, AMMN, atau ACES berada di atas harga pelaksanaan yang sudah ditetapkan, RHB wajib membayar tunai ke pemegang waran sesuai selisih harga tersebut, tapi kalau harga acuan di bawah harga pelaksanaan, waran berakhir tanpa nilai dan RHB tidak berkewajiban membayar apa pun. Yang perlu dipantau berikutnya adalah harga penutupan saham-saham acuan itu pada Tanggal Pelaksanaan, Senin, 14 September 2026 pukul 09.00 WIB, karena harga itulah yang menentukan apakah pemegang waran menerima uang tunai atau warannya hangus, dengan dana yang cair baru didistribusikan KSEI paling lambat tiga hari bursa sesudahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "part-konfirmasi-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "PART Konfirmasi Tak Ada Informasi Material di Balik [Volatilitas]",
+  "deck": "Menjawab permintaan BEI soal lonjakan volatilitas transaksi, PART menyatakan tidak ada info material dan pemegang saham utama tak berencana ubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T08:58:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cc77402c6_1e24425c6d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PART",
+  "tags": [
+   "PART",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART) merilis penjelasan resmi setelah Bursa Efek Indonesia meminta klarifikasi atas volatilitas transaksi sahamnya melalui surat nomor S-11044/BEI.PP2/08-2026. Jawaban perusahaan disampaikan lewat surat nomor S-161/PART-DIR/08-2026 tertanggal 27 Agustus 2026, ditandatangani oleh Direktur Tjoeng Rino Saputra.",
+   "Dalam surat itu, PART menjawab enam poin pertanyaan standar dari Bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. PART juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya, serta tidak menyimpan informasi material lain yang belum diungkap ke publik.",
+   "Poin yang lebih konkret ada pada bagian keenam. Corporate Secretary PART mengonfirmasi telah menanyakan langsung kepada pemegang saham utama, PT Cipta Investama Lancar yang menguasai 52,48 persen saham perseroan, dan mendapat jawaban bahwa pemegang saham tersebut saat ini tidak memiliki rencana apa pun terkait kepemilikannya di PART."
+  ],
+  "fotoAdegan": "Traders quietly monitoring blurred stock price screens from an angle inside a busy Jakarta brokerage floor, natural daylight",
+  "takeaway": "Surat ini condong netral bagi PART karena isinya seluruhnya penyangkalan standar, tidak ada informasi baru yang mengubah prospek bisnis perusahaan, hanya menegaskan tidak ada aksi korporasi atau kejadian material yang disembunyikan. Yang tersentuh di sini bukan laporan keuangan, melainkan struktur pengendalian, sebab konfirmasi dari PT Cipta Investama Lancar yang menguasai 52,48 persen saham PART itu penting karena kalau pemegang saham mayoritas berencana melepas atau menambah porsinya, hak suara dan arah kendali perusahaan bisa ikut berubah. Pasar biasanya mencermati surat semacam ini untuk memastikan lonjakan harga atau volume tidak dipicu transaksi orang dalam yang belum diumumkan ke publik. Yang perlu dipantau berikutnya adalah pergerakan harga dan volume saham PART pada sesi-sesi berikutnya, karena jika volatilitas berlanjut, Bursa berpotensi mengambil langkah pemantauan lebih ketat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp2-49-triliun-pelunasan",
+  "category": "Aksi Korporasi",
+  "title": "INKP Lunasi Obligasi dan Sukuk Rp2,49 Triliun [Pelunasan]",
+  "deck": "Indah Kiat Pulp & Paper melunasi pokok obligasi dan sukuk mudharabah senilai total Rp2,49 triliun kepada pemegang efek pada 26 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T08:54:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/05a9f95dfb_ef45c8a4b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) melalui PT Kustodian Sentral Efek Indonesia (KSEI) telah melunasi pokok Obligasi Berkelanjutan IV Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B senilai Rp1.609.865.000.000 atau sekitar Rp1,61 triliun, serta Sukuk Mudharabah Berkelanjutan III Indah Kiat Pulp & Paper Tahap II Tahun 2023 Seri B senilai Rp878.975.000.000 atau sekitar Rp878,98 miliar. Pembayaran kepada seluruh pemegang obligasi dan sukuk dilakukan pada 26 Agustus 2026, sehingga total dana yang dikeluarkan perusahaan untuk pelunasan kedua instrumen ini mencapai sekitar Rp2,49 triliun.",
+   "Laporan keterbukaan informasi ini ditandatangani oleh Heri Santoso selaku Corporate Secretary INKP pada 27 Agustus 2026, dan dikirim sebagai tembusan kepada Otoritas Jasa Keuangan, Direksi PT Bursa Efek Indonesia, serta PT Bank KB Indonesia Tbk yang bertindak sebagai wali amanat obligasi dan sukuk tersebut. Dalam kolom dampak kejadian terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha, perusahaan tidak mencantumkan keterangan tambahan selain tanda strip, yang berarti perusahaan tidak menyebut adanya dampak khusus di luar pelunasan itu sendiri."
+  ],
+  "fotoAdegan": "Wide interior shot of a large pulp and paper mill production line with giant paper rolls, workers in hard hats monitoring machinery",
+  "takeaway": "Laporan ini bersifat netral bagi INKP karena pelunasan pokok obligasi dan sukuk yang jatuh tempo adalah kewajiban terjadwal, bukan langkah baru yang mencerminkan perubahan sikap atau kondisi keuangan perusahaan secara mendadak. Yang tersentuh dari sisi kinerja adalah liabilitas dan arus kas: utang perusahaan berkurang sekitar Rp2,49 triliun yang otomatis memangkas beban bunga, yaitu biaya rutin yang harus dibayar perusahaan atas utangnya, sementara di sisi lain kas perusahaan berkurang dalam jumlah yang sama untuk membayar pokoknya. Pelaku pasar biasanya mencermati pos ini karena penurunan utang bisa memperbaiki rasio keuangan jangka panjang, tapi juga perlu dipastikan tidak menekan likuiditas dalam jangka pendek. Yang perlu dipantau berikutnya adalah laporan keuangan periode berjalan INKP untuk melihat bagaimana posisi kas dan tingkat utang perusahaan berubah setelah pelunasan ini, termasuk apakah masih ada seri obligasi atau sukuk lain dari program yang sama yang belum jatuh tempo.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nice-ganti-susunan-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "NICE ganti susunan [Direksi] dan Komisaris usai RUPSLB",
+  "deck": "RUPSLB 26 Agustus 2026 menetapkan Chang Pyo Hong sebagai Direktur Utama baru dan merombak penuh susunan Direksi serta Dewan Komisaris NICE hingga RUPST 2028.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T08:48:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afae5e7a1f_549b500c05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "Direksi",
+   "RUPSLB",
+   "Tambang Nikel"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE), emiten tambang bijih nikel, menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 26 Agustus 2026, dengan salah satu agenda perubahan susunan Direksi. Mengacu pada Pasal 6 huruf i POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, perusahaan melaporkan bahwa susunan pengurus baru berlaku sejak penutupan rapat tersebut sampai penutupan RUPS Tahunan yang akan digelar pada 2028. Susunan Direksi yang baru adalah Chang Pyo Hong sebagai Direktur Utama, Jungchul Shin sebagai Wakil Direktur Utama, serta Jeongwoo Lee, Choi Min, Suhan Kim, Yeon Ho Choi, Soomin Lee, dan Kasidis Niamsiri masing-masing sebagai Direktur.",
+   "Di jajaran Dewan Komisaris, perusahaan menempatkan Sang Moo Lee sebagai Komisaris Utama, Pintarso Adijanto sebagai Komisaris Independen, dan Stevano Rizki Adranacus sebagai Komisaris. Dokumen yang ditandatangani oleh Direktur Yeon Ho Choi dan Soomin Lee ini tidak merinci siapa pejabat lama yang diganti pada masing-masing posisi, hanya menegaskan bahwa ini adalah susunan pengurus definitif untuk periode berjalan sampai RUPST 2028.",
+   "Perusahaan menyatakan bahwa perubahan susunan Direksi dan Dewan Komisaris ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Aerial view of a nickel ore mining site with reddish laterite soil, heavy excavators and haul trucks working under an overcast sky",
+  "takeaway": "Perombakan ini bersifat netral bagi kinerja usaha, karena dokumen hanya memformalkan hasil keputusan pemegang saham di RUPSLB tanpa disertai perubahan rencana bisnis, suntikan dana, atau keterangan bahwa ada masalah yang memicu pergantian. Yang tersentuh bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan struktur pengambilan keputusan perusahaan, sebab Direksi dan Komisaris barulah yang nantinya menandatangani kontrak, menyetujui ekspansi tambang, dan menentukan kebijakan keuangan NICE ke depan. Dominasi nama asal Korea di jajaran Direksi dan Komisaris Utama mengindikasikan kendali pemegang saham pengendali tetap terjaga, sementara satu kursi Komisaris Independen tetap dipertahankan sesuai ketentuan tata kelola. Yang perlu dipantau selanjutnya adalah RUPS Tahunan 2028 sebagai batas akhir masa jabatan susunan pengurus baru ini, serta apakah akan ada keterbukaan informasi lanjutan soal arah strategi atau alasan di balik pergantian ini dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
   "category": "Bisnis",
   "title": "IRSE 2026 Dibuka, Ritel Didorong Genjot [Teknologi]",

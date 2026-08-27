@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Aset Naik 30% Ditopang [Utang] Bank US$149 Juta",
+  "deck": "Laporan interim EMAS per Juni 2026: total aset naik jadi US$964,3 juta, ditopang utang bank jangka pendek baru US$149 juta seiring mulai beroperasinya anak usaha Pani Bersama Tambang.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "laporan keuangan interim",
+   "tambang emas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260827220001-64211-0/FinancialStatement-2026-II-EMAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-minta-dooh-gelar-public-expose-insidentil-bahas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BEI Minta DOOH Gelar Public Expose [Insidentil] Bahas Saham",
+  "deck": "PT Era Media Sejahtera Tbk (DOOH) akan menggelar Public Expose Insidentil pada 4 September 2026 atas permintaan Bursa Efek Indonesia, membahas kinerja keuangan hingga pergerakan harga sahamnya.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Era Media Sejahtera"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc5e89a44e_142eb6ae51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dild-pengadilan-tolak-gugatan-pkpu-bank-mayapada-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DILD: Pengadilan Tolak Gugatan [PKPU] Bank Mayapada ke Anak Usaha",
+  "deck": "Pengadilan Negeri Jakarta Pusat menolak permohonan PKPU yang diajukan Bank Mayapada terhadap PT Taman Harapan Indah, anak usaha Intiland Development (DILD).",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DILD",
+   "PKPU",
+   "Intiland Development",
+   "Taman Harapan Indah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4a3d9dd6a8_974059e233.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Kalah Sebagian di Arbitrase Lawan [Gunvor] di London",
+  "deck": "PGN menerima putusan arbitrase parsial LCIA yang mewajibkannya membayar kompensasi kepada Gunvor Singapore, namun jumlahnya belum diungkap.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "Gunvor",
+   "LCIA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c63e9284cd_56f7ef45a7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
+  "category": "Aksi Korporasi",
+  "title": "AGAR: Penjualan ke Satu Pelanggan Capai [75,9%] dari Total",
+  "deck": "AGAR menjawab permintaan penjelasan Bursa soal rencana pengambilalihan, kinerja keuangan, dan ketergantungan pada satu pelanggan besar.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGAR",
+   "pengambilalihan",
+   "arus kas",
+   "konsentrasi pelanggan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69c9f563a7_ae0100f573.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bpii-jelaskan-ke-bei-lonjakan-transaksi-saham-20-agustus",
+  "category": "Aksi Korporasi",
+  "title": "BPII Jelaskan ke BEI [Lonjakan] Transaksi Saham 20 Agustus",
+  "deck": "BPII menjawab permintaan penjelasan BEI setelah volume transaksi sahamnya melonjak lebih dari empat kali lipat dan harga naik 2,41 persen pada 20 Agustus 2026.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPII",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/344f84a595_1476b646a1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "BBRM [Batalkan] Kontrak Kapal PSV Senilai US$22 Juta",
+  "deck": "Perjanjian pembangunan satu kapal Platform Supply Vessel dengan galangan asal China dibatalkan karena syarat pendahuluan tak terpenuhi dalam 90 hari, sebelum ada dana yang dibayarkan.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRM",
+   "pelayaran",
+   "kapal PSV",
+   "shipping"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/37583a07c3_60df18944c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bkdp-masuk-daftar-pemantauan-khusus-bei-mulai-28-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "BKDP Masuk Daftar [Pemantauan Khusus] BEI Mulai 28 Agustus 2026",
+  "deck": "BEI menetapkan saham BKDP, Bukit Darmo Property Tbk, masuk kategori pemantauan khusus di Papan Pengembangan, efektif 28 Agustus 2026.",
+  "date": "27 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKDP",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus",
+   "watchlist saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c8d91b1687_76b1d37702.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
   "category": "Energi",
   "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
@@ -912,7 +1040,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -1140,7 +1268,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6378,138 +6506,5 @@ var ARTICLES = [
    "Saham"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460667-ihsg-hari-ini-naik-121-persen-ke-6479-investor-mulai-serbu-bursa"
- },
- {
-  "slug": "harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Rp18.000 Jadi Rp2.695.000/Gram",
-  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, sementara harga buyback ikut naik ke Rp2.555.000 per gram.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-naik-rp18-000-jadi-rp2-695-000-gram.jpg",
-  "imageV": "msy7r5kx",
-  "tags": [
-   "harga emas",
-   "emas antam",
-   "logam mulia",
-   "investasi emas"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460665-harga-emas-antam-hari-ini-18-agustus-2026-naik-rp18000-jadi-rp2695000-per-gram"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.847, BI Tetap Intervensi Jelang BI Rate",
-  "deck": "Kurs rupiah melemah 0,28 persen ke Rp17.847 per dolar AS pada Selasa pagi meski BI terus intervensi pasar NDF, jelang pengumuman BI Rate yang diperkirakan tetap di 5,75 persen pada Rabu (19/8).",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-847-bi-tetap-intervensi-jelang-bi-rate.jpg",
-  "imageV": "msy7rzt8",
-  "tags": [
-   "rupiah",
-   "BI Rate",
-   "kurs dolar",
-   "Bank Indonesia"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460664-rupiah-melemah-ke-rp17847-per-dolar-as-meski-bi-tetap-intervensi-pasar-ndf-jelang-pengumuman-bi-rate"
- },
- {
-  "slug": "harga-acuan-ekspor-emas-ri-naik-0-65-persen",
-  "category": "Bisnis",
-  "title": "Harga Acuan Ekspor Emas RI [Naik] 0,65 Persen",
-  "deck": "Kemendag menaikkan harga patokan ekspor dan referensi emas 0,65 persen untuk periode 15-31 Agustus 2026, didorong permintaan global yang menguat seiring suku bunga acuan dunia turun.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/harga-acuan-ekspor-emas-ri-naik-0-65-persen.jpg",
-  "imageV": "msy2o63g",
-  "tags": [
-   "harga emas",
-   "HPE emas",
-   "ekspor emas",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460661-harga-emas-acuan-ekspor-ri-naik-permintaan-global-jadi-pemicunya"
- },
- {
-  "slug": "mdia-bursa-ungkap-konsentrasi-saham-capai-94-31",
-  "category": "Aksi Korporasi",
-  "title": "MDIA: Bursa Ungkap [Konsentrasi] Saham Capai 94,31%",
-  "deck": "Bursa Efek Indonesia mengumumkan 94,31 persen saham MDIA dikuasai segelintir pemegang saham per 12 Agustus 2026, menyisakan porsi kecil yang benar-benar beredar bebas di pasar.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/mdia-bursa-ungkap-konsentrasi-saham-capai-94-31.jpg",
-  "imageV": "msy2oqrl",
-  "tags": [
-   "MDIA",
-   "kepemilikan saham",
-   "BEI",
-   "likuiditas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2cc75f068d_3ee22ec282.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia",
-  "category": "Aksi Korporasi",
-  "title": "BBTN Rampungkan [Pengalihan] Aset Pinjaman dari SMBC Indonesia",
-  "deck": "BTN merampungkan pembelian aset pinjaman pensiunan dan karyawan dari Bank SMBC Indonesia lewat akta cessie pada 14 Agustus 2026, menambah portofolio kredit perseroan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/bbtn-rampungkan-pengalihan-aset-pinjaman-dari-smbc-indonesia.jpg",
-  "imageV": "msy7scyy",
-  "tags": [
-   "BBTN",
-   "Bank Tabungan Negara",
-   "SMBC Indonesia",
-   "aset pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/87da6e7163_e74562d4b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian",
-  "category": "Aksi Korporasi",
-  "title": "SFAN Divestasi 51,95% Saham DPI ke SFC, Ubah [Pengendalian]",
-  "deck": "PT Surya Fajar Corpora, pemegang saham SFAN, berencana mengambil alih 51,95% saham anak usaha DPI dari SFAN sehingga pengendalian DPI beralih ke induk usaha.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/sfan-divestasi-51-95-saham-dpi-ke-sfc-ubah-pengendalian.jpg",
-  "imageV": "msy2pbt0",
-  "tags": [
-   "SFAN",
-   "PT Surya Fajar Capital",
-   "DPI",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fb0a235cee_d17e2fd305.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997",
-  "category": "Aksi Korporasi",
-  "title": "SFAN: DPI Suntik Rp2 Miliar ke BAI, Kuasai [99,997%]",
-  "deck": "Anak usaha SFAN, DPI, menambah modal Rp2 miliar ke BAI sehingga kepemilikannya naik dari 51,95 persen menjadi 99,997 persen, memenuhi ketentuan modal minimum OJK untuk layanan pendanaan bersama.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/sfan-dpi-suntik-rp2-miliar-ke-bai-kuasai-99-997.jpg",
-  "imageV": "msy2pvc7",
-  "tags": [
-   "SFAN",
-   "OJK",
-   "penambahan modal",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a5b1b87d55_c6ecb79c5c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank",
-  "category": "Aksi Korporasi",
-  "title": "PADA Kantongi Pinjaman [Rp5 Miliar] dari Bank Hibank",
-  "deck": "PADA meneken pinjaman modal kerja Rp5 miliar dari Bank Hibank Indonesia untuk proyek penarikan kabel fiber optic, bunga 10 persen dibayar sekaligus di akhir masa 12 bulan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/pada-kantongi-pinjaman-rp5-miliar-dari-bank-hibank.jpg",
-  "imageV": "msy2qhn9",
-  "tags": [
-   "PADA",
-   "pinjaman bank",
-   "Bank Hibank Indonesia",
-   "fiber optic"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d2b74988e3_4b787fff56.pdf",
-  "sourceLabel": "IDX"
  }
 ];

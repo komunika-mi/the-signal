@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS: Aset Naik 30% Ditopang [Utang] Bank US$149 Juta",
+  "deck": "Laporan interim EMAS per Juni 2026: total aset naik jadi US$964,3 juta, ditopang utang bank jangka pendek baru US$149 juta seiring mulai beroperasinya anak usaha Pani Bersama Tambang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T21:47:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260827220001-64211-0/FinancialStatement-2026-II-EMAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "laporan keuangan interim",
+   "tambang emas"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) menyampaikan laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, yang telah ditelaah secara terbatas oleh KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan dengan partner penanggung jawab Sutomo. Auditor menyatakan tidak menemukan hal yang membuat informasi keuangan konsolidasian interim ini tidak disajikan secara wajar. Total aset perusahaan tercatat US$964,33 juta per 30 Juni 2026, naik dari US$740,64 juta pada akhir Desember 2025, atau tumbuh sekitar 30 persen dalam enam bulan.",
+   "Dokumen ini juga merinci lima anak usaha EMAS, seluruhnya berbasis di Gorontalo. Yang terbesar adalah PT Pani Bersama Tambang, bergerak di industri pembuatan logam dasar mulia, yang baru mulai beroperasi komersial pada 2026 dengan aset US$618,94 juta dan kepemilikan EMAS 99,99 persen. Dua anak usaha lain sudah beroperasi lebih dulu, yaitu PT Merdeka Mining Indonesia sejak 2023 (aset US$96,32 juta, kepemilikan 99,99 persen) dan PT Mentari Alam Persada sejak 2025 (aset US$27,36 juta, kepemilikan 99,99 persen). Sementara PT Gorontalo Sejahtera Mining (aset US$290,61 juta, kepemilikan 99,99 persen) dan PT Pani Industri Jaya (aset US$145.640, kepemilikan 99,96 persen) belum beroperasi, menandakan masih ada kapasitas produksi tambahan yang akan menyusul.",
+   "Di sisi neraca, kas dan setara kas naik dari US$45,31 juta menjadi US$62,14 juta, sementara persediaan melonjak dari US$10,52 juta menjadi US$55,78 juta. Aset tetap tumbuh 47 persen dari US$317,19 juta menjadi US$465,47 juta, sedangkan properti pertambangan relatif stabil di kisaran US$301,28 juta. Di sisi liabilitas, utang bank jangka pendek muncul dari nol menjadi US$149,01 juta, dan beban akrual jangka pendek melonjak lebih dari tiga kali lipat dari US$32,59 juta menjadi US$110,07 juta. Utang usaha kepada pihak ketiga relatif stabil di US$19,33 juta."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit gold mine road winding through forested hills in Sulawesi, heavy dump trucks raising dust, overcast morning light",
+  "takeaway": "Laporan ini netral cenderung perlu diawasi bagi EMAS: aset perusahaan memang tumbuh sekitar 30 persen dalam enam bulan seiring mulai beroperasinya anak usaha pengolahan emas Pani Bersama Tambang, tapi pertumbuhan itu banyak dibiayai utang bank jangka pendek yang melonjak dari nol menjadi US$149 juta, sementara dokumen ini tidak memuat laporan laba rugi atau ekuitas yang bisa memastikan apakah ekspansi tersebut sudah menghasilkan pendapatan sepadan. Yang perlu dicermati adalah sifat utang itu: pinjaman bank jangka pendek berarti harus dilunasi atau diperpanjang dalam waktu kurang dari setahun, padahal dananya tampak dipakai membiayai aset jangka panjang seperti pabrik dan tambang yang baru menghasilkan uang bertahun-tahun ke depan, sehingga ada risiko perusahaan perlu mencari pendanaan baru saat jatuh tempo. Beban akrual jangka pendek, yaitu biaya yang sudah tercatat tapi belum dibayar tunai, juga melonjak lebih dari tiga kali lipat menjadi US$110 juta, menambah beban yang harus diselesaikan dalam waktu dekat. Yang perlu dipantau berikutnya adalah laporan laba rugi dan arus kas lengkap periode ini, yang menurut materi yang diterima redaksi belum tercakup dalam lampiran, serta kinerja produksi tahun pertama Pani Bersama Tambang yang akan menentukan apakah pendapatan dari tambang itu cukup untuk menutupi kewajiban utang barunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-minta-dooh-gelar-public-expose-insidentil-bahas-saham",
+  "category": "Aksi Korporasi",
+  "title": "BEI Minta DOOH Gelar Public Expose [Insidentil] Bahas Saham",
+  "deck": "PT Era Media Sejahtera Tbk (DOOH) akan menggelar Public Expose Insidentil pada 4 September 2026 atas permintaan Bursa Efek Indonesia, membahas kinerja keuangan hingga pergerakan harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T21:01:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc5e89a44e_142eb6ae51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Era Media Sejahtera"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) akan menyelenggarakan Public Expose Insidentil pada Jumat, 4 September 2026, pukul 15.00 WIB hingga selesai, secara daring melalui Zoom dengan meeting ID 826 7833 6401. Berbeda dari paparan publik tahunan yang bersifat sukarela, acara ini digelar atas permintaan Bursa Efek Indonesia, sebagaimana tertuang dalam surat referensi Peng-SPT-00142/BEI.WAS/08-2026 yang menindaklanjuti surat elektronik BEI kepada perseroan tertanggal 6 Agustus 2026.",
+   "Agenda paparan mencakup tiga hal: kondisi bisnis terkini dan kinerja keuangan perseroan, rencana bisnis ke depan, serta analisis manajemen terkait pergerakan harga saham perseroan. Pihak manajemen yang akan hadir adalah jajaran Direksi PT Era Media Sejahtera Tbk. Surat pemberitahuan ke bursa ditandatangani oleh Direktur Utama Vicktor Aritonang, dan perseroan menyatakan materi paparan akan disampaikan ke publik paling lambat Kamis, 3 September 2026, sehari sebelum acara berlangsung.",
+   "Poin ketiga dalam agenda, yakni analisis manajemen atas pergerakan harga saham perseroan, menjadi bagian yang paling menonjol karena pemicu utama diadakannya public expose insidentil ini datang dari bursa, bukan dari inisiatif perseroan sendiri."
+  ],
+  "fotoAdegan": "Technicians servicing a large outdoor digital billboard structure on a Jakarta street at dusk, screen blurred, traffic passing below",
+  "takeaway": "Laporan ini sendiri netral bagi fundamental DOOH karena isinya baru soal jadwal dan agenda, belum memuat satu pun angka kinerja keuangan. Yang patut digarisbawahi, public expose ini digelar atas permintaan Bursa Efek Indonesia dan salah satu agendanya secara eksplisit meminta manajemen menjelaskan pergerakan harga saham perseroan, sebuah sinyal bahwa sahamnya sempat bergerak tidak biasa sehingga otoritas bursa ingin penjelasan resmi ke publik. Pos yang sebenarnya menentukan penilaian investor adalah kondisi bisnis dan kinerja keuangan yang baru akan dipaparkan manajemen nanti, karena dari situ terlihat apakah pergerakan harga sahamnya didukung perbaikan bisnis atau tidak. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada Jumat, 4 September 2026 pukul 15.00 WIB secara daring, dengan materi presentasi yang wajib dipublikasikan paling lambat Kamis, 3 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dild-pengadilan-tolak-gugatan-pkpu-bank-mayapada-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DILD: Pengadilan Tolak Gugatan [PKPU] Bank Mayapada ke Anak Usaha",
+  "deck": "Pengadilan Negeri Jakarta Pusat menolak permohonan PKPU yang diajukan Bank Mayapada terhadap PT Taman Harapan Indah, anak usaha Intiland Development (DILD).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T20:58:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4a3d9dd6a8_974059e233.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DILD",
+  "tags": [
+   "DILD",
+   "PKPU",
+   "Intiland Development",
+   "Taman Harapan Indah"
+  ],
+  "body": [
+   "Pengadilan Negeri Jakarta Pusat menolak permohonan penundaan kewajiban pembayaran utang (PKPU) yang diajukan PT Bank Mayapada Internasional Tbk terhadap PT Taman Harapan Indah (THI), entitas anak PT Intiland Development Tbk (DILD). Putusan itu tertuang dalam perkara nomor 204/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst yang diketok majelis hakim pada 21 Agustus 2026, dan salinan putusannya baru diterima Intiland pada 27 Agustus 2026.",
+   "Selain menolak permohonan PKPU, majelis hakim membebankan biaya perkara kepada Bank Mayapada selaku pemohon, sejumlah Rp6,376 juta. Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Intiland, Theresia Rustandi, perseroan menyatakan putusan ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Kasus ini merupakan kelanjutan dari keterbukaan informasi sebelumnya pada 13 Juli 2026, saat Intiland pertama kali mengumumkan bahwa Bank Mayapada mengajukan permohonan PKPU terhadap THI. Perseroan menyatakan tetap meyakini THI mampu menyelesaikan seluruh kewajiban atau utangnya kepada semua kreditur, termasuk Bank Mayapada, melalui komunikasi dan koordinasi dengan pihak terkait."
+  ],
+  "fotoAdegan": "Rows of terraced houses under construction in a suburban Jakarta housing estate, cranes and scaffolding, daytime overcast sky.",
+  "takeaway": "Putusan ini positif bagi Intiland karena pengadilan menolak upaya salah satu kreditur memaksa anak usahanya, THI, masuk proses penundaan pembayaran utang, sehingga risiko hukum yang mengganjal sejak Juli 2026 kini mereda. PKPU sendiri adalah jalur hukum yang bisa dipakai kreditur untuk memaksa perusahaan yang menunggak utang merestrukturisasi kewajibannya atau bahkan berujung pailit; kalau permohonan itu dikabulkan, prosesnya bisa mengganggu arus kas dan operasional THI yang akhirnya ikut tercermin di laporan keuangan konsolidasi Intiland. Dengan permohonan ditolak, THI tidak perlu menjalani proses tersebut dan bisa melanjutkan penyelesaian utangnya secara normal. Yang perlu dipantau selanjutnya adalah apakah Bank Mayapada mengajukan upaya hukum lanjutan atas putusan ini, serta bagaimana THI merealisasikan penyelesaian kewajibannya kepada Bank Mayapada dan kreditur lain seperti yang dijanjikan perseroan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Kalah Sebagian di Arbitrase Lawan [Gunvor] di London",
+  "deck": "PGN menerima putusan arbitrase parsial LCIA yang mewajibkannya membayar kompensasi kepada Gunvor Singapore, namun jumlahnya belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T20:44:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c63e9284cd_56f7ef45a7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGAS",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "Gunvor",
+   "LCIA"
+  ],
+  "body": [
+   "PT Perusahaan Gas Negara (Persero) Tbk (PGAS) mengumumkan bahwa pada 26 Agustus 2026 pihaknya menerima Putusan Arbitrase Nomor 246358 dari The London Court of International Arbitration (LCIA) atas gugatan yang diajukan Gunvor Singapore Pte. Ltd. Putusan yang bersifat parsial itu memerintahkan PGN membayar kompensasi kepada Gunvor atas sengketa hukum antara keduanya. Perseroan tidak merinci nilai kompensasi yang harus dibayarkan maupun pokok perkara yang mendasari gugatan tersebut.",
+   "Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Fajriyah Usman, PGN menyatakan sedang melakukan penelaahan menyeluruh atas putusan tersebut beserta implikasinya bagi perseroan. Karena putusan arbitrase dijatuhkan oleh lembaga di London, eksekusinya di Indonesia harus melalui proses lebih lanjut di pengadilan negeri sesuai ketentuan hukum yang berlaku, artinya kewajiban membayar belum otomatis berlaku begitu putusan diterima. Manajemen menyebut akan menempuh langkah hukum lanjutan yang dipandang perlu dengan memperhatikan kepentingan terbaik perseroan.",
+   "Sifat putusan yang masih parsial berarti proses arbitrase antara PGN dan Gunvor belum sepenuhnya selesai. Bagian mana dari sengketa yang sudah diputus dan bagian mana yang masih menunggu keputusan lanjutan tidak dijelaskan dalam laporan ini."
+  ],
+  "fotoAdegan": "Industrial gas pipelines and metering equipment at a distribution yard, technicians inspecting valves under overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi PGN karena perseroan dinyatakan kalah dalam sengketa hukum internasional dan diwajibkan membayar kompensasi, meski nilai dan pokok perkaranya belum diungkap ke publik. Pos kinerja yang berpotensi tersentuh adalah arus kas dan kewajiban perseroan, yaitu uang tunai yang harus dikeluarkan atau utang yang harus diakui begitu proses eksekusi di pengadilan negeri Indonesia rampung dan nilai kompensasi jadi jelas. Pelaku pasar biasanya mencermati kasus seperti ini karena kewajiban membayar bisa membebani kas perusahaan meski besarannya di sini belum diketahui. Yang perlu dipantau berikutnya adalah hasil penelaahan menyeluruh yang sedang dilakukan manajemen PGN, langkah hukum lanjutan yang mungkin ditempuh atas putusan yang masih bersifat parsial ini, serta proses eksekusi putusan di pengadilan negeri Indonesia yang akan menentukan kapan dan berapa besar kewajiban itu benar-benar berlaku.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
+  "category": "Aksi Korporasi",
+  "title": "AGAR: Penjualan ke Satu Pelanggan Capai [75,9%] dari Total",
+  "deck": "AGAR menjawab permintaan penjelasan Bursa soal rencana pengambilalihan, kinerja keuangan, dan ketergantungan pada satu pelanggan besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T19:25:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69c9f563a7_ae0100f573.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGAR",
+  "tags": [
+   "AGAR",
+   "pengambilalihan",
+   "arus kas",
+   "konsentrasi pelanggan"
+  ],
+  "body": [
+   "PT Asia Sejahtera Mina Tbk (AGAR) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia Nomor S-10979/BEI.PP1/08-2026 tanggal 24 Agustus 2026, menyusul keterbukaan informasi rencana pengambilalihan perusahaan oleh Suprajitno Sutomo yang diumumkan 21 Juli 2026. Direktur Utama Indra Widyadharma menyatakan Suprajitno saat ini masih menjalani proses uji tuntas, dan perusahaan tidak mengetahui target waktu penyelesaian rencana pengambilalihan tersebut karena bergantung pada hasil uji tuntas dan negosiasi dengan pemegang saham penjual. Perusahaan juga mengaku tidak mengetahui perkembangan rencana pembelian tambahan sekurang-kurangnya 60 juta saham dari pemegang saham lain yang sebelumnya disebut dalam rencana transaksi.",
+   "Soal kinerja keuangan, AGAR menjelaskan penjualan per 30 Juni 2026 naik 59,5 persen secara tahunan, didorong kenaikan pesanan pelanggan seiring meningkatnya kebutuhan bahan baku rumput laut di pasar global. Laba bersih tercatat Rp1,02 miliar, berbalik dari rugi Rp4,07 miliar pada periode yang sama tahun lalu, yang menurut perusahaan ditopang oleh kenaikan pendapatan serta upaya efisiensi biaya dan perluasan jaringan pelanggan.",
+   "Bursa juga menyoroti konsentrasi penjualan AGAR kepada Greenwich Technology Development Ltd, yang mencapai Rp107,73 miliar atau 75,9 persen dari total penjualan per 30 Juni 2026, dengan piutang dari pelanggan yang sama sebesar Rp34,30 miliar. Perusahaan menyebut hubungan usaha itu masih berjalan dan pembayaran sesuai kesepakatan, serta mengklaim terus memantau kolektibilitas piutangnya. Di sisi lain, arus kas dari kegiatan operasi turun 57,3 persen, dari Rp27,26 miliar menjadi Rp11,65 miliar, akibat pembayaran ke pemasok yang naik dari Rp61,86 miliar menjadi Rp114,63 miliar. AGAR berjanji memperbaiki siklus konversi kas lewat percepatan penagihan piutang dan pengelolaan termin pembayaran. Perusahaan menegaskan tidak ada informasi material lain yang belum diungkapkan, dan akan menyampaikan keterbukaan informasi lanjutan jika ada perkembangan berarti dari rencana pengambilalihan."
+  ],
+  "fotoAdegan": "Workers stacking dried seaweed bales inside a large logistics warehouse, forklift nearby, tropical afternoon light",
+  "takeaway": "Laporan ini condong negatif karena dua sinyal berbenturan muncul bersamaan: laba bersih berbalik positif, tapi arus kas dari operasi malah anjlok 57,3 persen, dan tiga perempat penjualan bertumpu pada satu pelanggan tunggal. Arus kas operasi adalah uang tunai yang benar-benar masuk dari aktivitas jual beli sehari-hari, beda dengan laba akuntansi yang bisa tercatat naik meski kas yang diterima justru menyusut, sehingga pelaku pasar biasa memakainya untuk menguji apakah laba di atas kertas didukung uang tunai yang nyata; piutang besar dari satu pelanggan yang menyumbang 75,9 persen penjualan juga berarti perusahaan makin bergantung pada satu pihak untuk arus kasnya. Yang perlu dipantau berikutnya adalah kelanjutan uji tuntas oleh calon pengendali baru Suprajitno Sutomo yang belum punya target waktu, perkembangan rencana pembelian tambahan minimal 60 juta saham dari pemegang saham lain, serta apakah AGAR benar mampu mempercepat penagihan piutang dari Greenwich Technology Development Ltd pada laporan keuangan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bpii-jelaskan-ke-bei-lonjakan-transaksi-saham-20-agustus",
+  "category": "Aksi Korporasi",
+  "title": "BPII Jelaskan ke BEI [Lonjakan] Transaksi Saham 20 Agustus",
+  "deck": "BPII menjawab permintaan penjelasan BEI setelah volume transaksi sahamnya melonjak lebih dari empat kali lipat dan harga naik 2,41 persen pada 20 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T18:02:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/344f84a595_1476b646a1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BPII",
+  "tags": [
+   "BPII",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Batavia Prosperindo Internasional Tbk (BPII) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia (BEI) menyusul permintaan klarifikasi atas lonjakan aktivitas perdagangan sahamnya. Dalam surat BEI bernomor S-10947/BEI.PP2/08-2026 tanggal 24 Agustus 2026, otoritas bursa mencatat volume transaksi BPII pada 20 Agustus 2026 melonjak menjadi 622.500 saham dengan frekuensi 519 kali, dibandingkan hari bursa sebelumnya yang hanya 139.900 saham dengan frekuensi 188 kali. Harga saham BPII pada hari itu ditutup naik Rp12 atau 2,41 persen, dari Rp498 menjadi Rp510.",
+   "Menjawab permintaan itu, manajemen BPII menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham maupun keputusan investasi pemodal, baik menurut aturan keterbukaan informasi POJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan turut menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Corporate Secretary BPII, Bernadeta Dwi Novernia, telah mengonfirmasi langsung kepada pemegang saham utama perseroan, dan hasilnya pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya di BPII saat ini. Surat penjelasan ini ditandatangani jajaran direksi BPII, yakni Direktur Utama Rudi Setiadi Tjahjono dan Direktur Luo Xude, pada 26 Agustus 2026."
+  ],
+  "fotoAdegan": "Wide angle of Jakarta's Sudirman business district skyscrapers reflecting morning light, busy street traffic below",
+  "takeaway": "Laporan ini condong netral bagi BPII, karena isinya cuma konfirmasi rutin bahwa tidak ada informasi baru yang mendorong lonjakan transaksi, bukan pengumuman rencana bisnis atau perubahan kepemilikan. Pos kinerja perusahaan seperti ekuitas, arus kas, atau laba per saham tidak tersentuh sama sekali oleh lonjakan transaksi di pasar sekunder ini, karena BPII menegaskan pemegang saham utama tidak berencana mengubah kepemilikannya dan tidak ada rencana aksi korporasi yang memengaruhi status pencatatan sahamnya. Yang perlu dipantau adalah apakah lonjakan volume serupa berulang dalam beberapa bulan mendatang, sebab BPII menyatakan tidak ada rencana aksi korporasi setidaknya sampai akhir November 2026, sehingga jika harga kembali bergerak tak wajar sebelum tenggat itu, BEI kemungkinan akan kembali meminta penjelasan serupa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
+  "category": "Aksi Korporasi",
+  "title": "BBRM [Batalkan] Kontrak Kapal PSV Senilai US$22 Juta",
+  "deck": "Perjanjian pembangunan satu kapal Platform Supply Vessel dengan galangan asal China dibatalkan karena syarat pendahuluan tak terpenuhi dalam 90 hari, sebelum ada dana yang dibayarkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T17:19:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/37583a07c3_60df18944c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRM",
+  "tags": [
+   "BBRM",
+   "pelayaran",
+   "kapal PSV",
+   "shipping"
+  ],
+  "body": [
+   "Pelayaran Nasional Bina Buana Raya Tbk (BBRM) membatalkan perjanjian pembangunan satu unit kapal Platform Supply Vessel (PSV) berkapasitas 3.500 MT yang sebelumnya diteken pada 29 April 2026 dengan galangan kapal JiangXi New Jiangzhou Shipbuilding Heavy Industry Co., Ltd asal China. Pembatalan disepakati bersama kedua pihak dan berlaku efektif sejak 27 Agustus 2026. Nilai kontrak pembangunan kapal ini mencapai US$22.000.000, dengan kewajiban Perseroan membayar deposit 20 persen atau US$4.400.000 setelah menerima jaminan perusahaan atau corporate guarantee, sementara sisa pembayaran rencananya dicicil bertahap selama proses pembangunan. Kapal semula dijadwalkan diserahkan 18 bulan setelah pembayaran cicilan pertama.",
+   "Alasan pembatalan adalah tidak terpenuhinya sejumlah syarat pendahuluan dalam kontrak dalam tenggat 90 hari sejak penandatanganan, yaitu pelaksanaan sah oleh kedua pihak, penerimaan jaminan perusahaan yang dapat diterima pembeli beserta bank pembeli, dan penerimaan cicilan pertama oleh penjual. Hingga pembatalan ini disampaikan, BBRM belum memperoleh jaminan perusahaan tersebut dan belum membayar cicilan maupun jumlah lain apa pun kepada galangan kapal China itu. Perseroan menegaskan JiangXi New Jiangzhou bukan pihak terafiliasi sehingga transaksi ini bukan transaksi afiliasi menurut POJK 42/2020, dan sesuai kontrak, perjanjian otomatis batal dan tidak berkekuatan hukum begitu syarat pendahuluan tak terpenuhi.",
+   "BBRM menyatakan pembatalan ini tidak berdampak signifikan pada operasional, keuangan, hukum, maupun kelangsungan usaha, karena kapal yang batal dibeli belum pernah beroperasi maupun menjadi bagian armada, dan tidak ada kewajiban pengembalian dana karena memang belum ada uang yang keluar. Perseroan menyebut akan tetap menjalankan strategi bisnisnya dengan mengoptimalkan armada yang sudah tersedia saat ini."
+  ],
+  "fotoAdegan": "A large offshore supply vessel moored at an industrial shipyard, workers checking mooring cables on deck under an overcast sky",
+  "takeaway": "Pembatalan ini condong negatif secara strategis karena rencana penambahan armada offshore support vessel yang sudah disiapkan sejak April 2026 batal terealisasi, dengan alasan BBRM tidak kunjung memenuhi syarat pendahuluan kontrak, termasuk penerbitan jaminan perusahaan atau corporate guarantee, dalam tenggat 90 hari. Yang tersentuh di sini adalah arus kas, yaitu aliran uang masuk dan keluar perusahaan: karena deposit US$4,4 juta dan cicilan lain belum pernah dibayarkan, BBRM tidak kehilangan uang tunai dari pembatalan ini, tapi rencana investasi US$22 juta untuk menambah kapasitas armada juga urung terjadi. Pelaku pasar mencermati arus kas semacam ini karena dari situ terlihat apakah perusahaan punya kemampuan riil membiayai ekspansi tanpa mengganggu kas operasional. Yang perlu dipantau selanjutnya adalah apakah BBRM mengumumkan pengganti rencana pembelian kapal PSV ini atau skema pendanaan baru untuk ekspansi armada, karena dokumen ini tidak menyebutkan jadwal maupun agenda RUPS terkait rencana lanjutannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bkdp-masuk-daftar-pemantauan-khusus-bei-mulai-28-agustus-2026",
+  "category": "Aksi Korporasi",
+  "title": "BKDP Masuk Daftar [Pemantauan Khusus] BEI Mulai 28 Agustus 2026",
+  "deck": "BEI menetapkan saham BKDP, Bukit Darmo Property Tbk, masuk kategori pemantauan khusus di Papan Pengembangan, efektif 28 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 Agustus 2026",
+  "isoDate": "2026-08-27T16:39:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c8d91b1687_76b1d37702.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "BKDP",
+   "Bursa Efek Indonesia",
+   "pemantauan khusus",
+   "watchlist saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan saham BKDP, PT Bukit Darmo Property Tbk yang tercatat di Papan Pengembangan, masuk daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus. Status ini berlaku efektif mulai 28 Agustus 2026, berdasarkan pengumuman resmi bernomor Peng-PK-00061/BEI.PLP/08-2026 yang diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, Teuku Fahmi Ariandar, pada 27 Agustus 2026.",
+   "Dalam pengumuman itu, bursa menjelaskan bahwa status pemantauan khusus bisa dipicu oleh salah satu dari sebelas kondisi. Di antaranya harga saham di pasar reguler di bawah Rp51 disertai transaksi harian yang sangat sepi, yakni nilai kurang dari Rp5 juta dan volume di bawah 10.000 saham selama tiga bulan terakhir, opini disclaimer dari auditor atas laporan keuangan terakhir, tidak membukukan pendapatan atau tidak ada perubahan pendapatan dibanding laporan sebelumnya, ekuitas negatif, porsi saham publik atau free float yang tidak lagi memenuhi ketentuan Peraturan I-A dan I-V, permohonan penundaan kewajiban pembayaran utang atau pailit, penghentian sementara perdagangan saham lebih dari satu hari bursa, hingga kondisi lain yang ditetapkan bursa atas persetujuan OJK.",
+   "Pengumuman ini tidak merinci kriteria spesifik mana dari sebelas kondisi tersebut yang membuat BKDP masuk daftar, hanya menyatakan status \"Masuk / Enter\" yang berlaku otomatis sejak tanggal efektif. Bursa menyebutkan daftar lengkap efek dalam pemantauan khusus dapat dilihat melalui situs resmi idx.co.id dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "A half-finished multi-story building facade with construction scaffolding in a quiet Indonesian city, overcast afternoon light",
+  "takeaway": "Masuknya BKDP ke daftar pemantauan khusus ini condong negatif bagi emiten, sebab status tersebut baru disematkan bursa kalau saham memenuhi salah satu indikator masalah finansial atau likuiditas, mulai dari ekuitas negatif hingga opini disclaimer auditor. Dua indikator dalam kriteria itu langsung menyentuh kesehatan keuangan perusahaan, ekuitas negatif berarti total kewajiban sudah melebihi total aset sehingga modal pemegang saham secara akuntansi sudah minus, sementara opini disclaimer berarti akuntan publik menyatakan tidak bisa memberi pendapat atas kewajaran laporan keuangan karena keterbatasan bukti audit, dua sinyal yang biasa membuat investor institusi menjauh. Likuiditas saham yang disebut sebagai salah satu kriteria, yakni nilai dan volume transaksi harian yang sangat rendah, juga menyulitkan pemegang saham yang ingin keluar dari posisinya. Yang perlu dipantau selanjutnya adalah berlakunya status ini pada 28 Agustus 2026 dan penjelasan resmi manajemen BKDP ke bursa mengenai kriteria mana yang membuatnya masuk daftar, karena pengumuman ini sendiri tidak merincikannya.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
   "category": "Energi",
   "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
@@ -1469,7 +1677,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",
@@ -1836,7 +2044,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

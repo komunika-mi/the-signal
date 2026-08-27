@@ -9,8 +9,30 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-26T21:40:11.477+07:00",
+ "diperbarui": "2026-08-28T06:24:44.153+07:00",
  "entri": [
+  {
+   "id": "2026-08-27-2",
+   "edisi": "2026-08-27",
+   "benang": "BEI Perketat Pengawasan Saham Tanpa Pemicu Jelas",
+   "klaim": "Volatilitas harga saham yang memicu permintaan penjelasan BEI berturut-turut ini belum tentu bersandar pada perubahan fundamental emiten.",
+   "penanda": "Public expose insidentil DOOH",
+   "tenggat": "2026-09-04",
+   "tenggatLabel": "public expose DOOH pada 4 September nanti",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-27-1",
+   "edisi": "2026-08-27",
+   "benang": "Tekanan Arus Kas Meluas ke Berbagai Sektor Emiten",
+   "klaim": "Tekanan pembiayaan jangka pendek yang semula terpusat di BUMN Karya kini meluas ke berbagai sektor emiten lain di luar konstruksi.",
+   "penanda": "Hasil rapat pemegang obligasi PTPP yang menentukan skema restrukturisasi kupon dan jatuh tempo obligasi/sukuknya",
+   "tenggat": null,
+   "tenggatLabel": "hasil rapat pemegang obligasi PTPP yang menentukan skema restrukturisasi kupon dan jatuh temponya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-26-3",
    "edisi": "2026-08-26",

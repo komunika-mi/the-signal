@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "AGII Setop Sisa PUB Sukuk [Rp1,18 Triliun], Andalkan Sindikasi",
+  "deck": "Samator Indo Gas (AGII) menghentikan sisa plafon Rp1,18 triliun dari program sukuknya dan beralih memakai fasilitas pinjaman sindikasi yang sudah tersedia.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGII",
+   "Samator Indo Gas",
+   "Sukuk Ijarah",
+   "Pinjaman Sindikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d682dddbdd_c6186173f9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "safe-beri-penjelasan-usai-harga-melonjak-24-87-dalam-sehari",
+  "category": "Aksi Korporasi",
+  "title": "SAFE Beri Penjelasan usai Harga Melonjak [24,87%] dalam Sehari",
+  "deck": "Steady Safe menjawab permintaan penjelasan Bursa soal lonjakan harga dan volume transaksi pada 24 Agustus, dan menyatakan tidak ada informasi material di baliknya.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/beb890bc61_9fe43bf0ec.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elit-angkat-sandiaga-uno-jadi-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "ELIT Angkat [Sandiaga Uno] Jadi Komisaris Baru",
+  "deck": "RUPSLB ELIT pada 26 Agustus 2026 menyetujui pengangkatan Sandiaga Salahuddin Uno sebagai komisaris dan Meidyah Indreswari sebagai komisaris independen, masa jabatan lima tahun hingga 2031.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELIT",
+   "RUPSLB",
+   "komisaris",
+   "Sandiaga Uno"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c68937a2a1_c9e96d570d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
+  "category": "Aksi Korporasi",
+  "title": "TUFI siapkan [Rp817 miliar] bayar obligasi jatuh tempo September",
+  "deck": "TUFI menyatakan telah menyiapkan dana sekitar Rp817,24 miliar untuk membayar pokok dan bunga obligasi yang jatuh tempo 27 September 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TUFI",
+   "obligasi",
+   "Mandiri Tunas Finance",
+   "pembayaran utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bd41f3769e_39e4560d5e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtfn-catat-defisit-ekuitas-rp564-9-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Catat Defisit [Ekuitas] Rp564,9 Miliar per Juni 2026",
+  "deck": "Emiten migas Capitalinc Investment mencatat ekuitas negatif Rp564,9 miliar per Juni 2026, memburuk dari Rp538,7 miliar di akhir 2025, meski pendapatan naik 15 persen.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTFN",
+   "Capitalinc Investment",
+   "laporan keuangan interim",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110924-64255-0/FinancialStatement-2026-II-MTFN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oliv-utang-ke-pemegang-saham-turun-94-85-kas-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "OLIV: Utang ke Pemegang Saham [Turun] 94,85%, Kas Naik Tajam",
+  "deck": "Utang OLIV ke pemegang saham pengendali turun 94,85% dan kas naik tajam pada semester I 2026, meski total aset menyusut akibat penjualan persediaan.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OLIV",
+   "laporan keuangan",
+   "likuiditas",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110952-64254-0/FinancialStatement-2026-II-OLIV.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-rilis-pmthmetd-640-juta-saham-ke-afiliasi-rp320-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HATM Rilis [PMTHMETD] 640 Juta Saham ke Afiliasi Rp320 Miliar",
+  "deck": "HATM akan menerbitkan 640 juta saham baru senilai Rp320 miliar khusus untuk PT Multi Sarana Nasional, pemegang saham yang direksinya sama dengan direksi HATM, dengan dilusi hingga 6,87 persen.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51131230ba_0f20894f16.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
+  "category": "Aksi Korporasi",
+  "title": "MAYA panggil RUPSLB soal [pergantian] direksi-komisaris 24 Sep",
+  "deck": "Bank Mayapada Internasional (MAYA) mengundang pemegang saham ke RUPSLB 24 September 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAYA",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d87144cbf9_b59b20af76.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
   "category": "Aksi Korporasi",
   "title": "EMAS: Aset Naik 30% Ditopang [Utang] Bank US$149 Juta",
@@ -240,7 +368,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -1045,7 +1173,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -6372,142 +6500,6 @@ var ARTICLES = [
    "Robin Sunyoto"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-5041-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hais-panggil-rupslb-usai-direktur-mundur",
-  "category": "Aksi Korporasi",
-  "title": "HAIS Panggil RUPSLB usai Direktur [Mundur]",
-  "deck": "HAIS menggelar RUPSLB 9 September 2026 untuk menyetujui perubahan susunan direksi setelah Rahmad Pudjotomo mundur dari jabatan Direktur.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/hais-panggil-rupslb-usai-direktur-mundur.jpg",
-  "imageV": "msyg3xh6",
-  "tags": [
-   "HAIS",
-   "RUPSLB",
-   "Direksi",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bbb935920d_98aac7ddfb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar",
-  "category": "Makroekonomi",
-  "title": "Utang Luar Negeri RI [Naik] 4,4 Persen Jadi US$453,4 Miliar",
-  "deck": "Bank Indonesia mencatat utang luar negeri RI naik 4,4 persen secara tahunan jadi US$453,4 miliar pada triwulan II-2026, rasio terhadap PDB 30,6 persen.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/utang-luar-negeri-ri-naik-4-4-persen-jadi-us-453-4-miliar.jpg",
-  "imageV": "msycsm24",
-  "tags": [
-   "utang luar negeri",
-   "Bank Indonesia",
-   "SBN",
-   "SRBI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460712-utang-luar-negeri-indonesia-naik-44-persen-jadi-4534-miliar-dolar-as"
- },
- {
-  "slug": "bbkp-direksi-kunardy-darma-lie-beli-980-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "BBKP: [Direksi] Kunardy Darma Lie Beli 980.000 Saham",
-  "deck": "Direksi BBKP, Kunardy Darma Lie, membeli 980.000 saham secara tidak langsung seharga Rp51 per saham pada 10 Juli 2026, menaikkan hak suaranya menjadi 0,0005%.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/bbkp-direksi-kunardy-darma-lie-beli-980-000-saham.jpg",
-  "imageV": "msybrba5",
-  "tags": [
-   "BBKP",
-   "kepemilikan saham",
-   "direksi",
-   "Bank KB Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1634-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Jual Saham, [Restrukturisasi] Grup",
-  "deck": "Putrasakti Mandiri, pemegang saham dengan hak suara 34,86 persen di KDTN, melepas 1,63 juta saham senilai Rp376 per saham dalam rangka restrukturisasi kepemilikan di kelompok usaha.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/kdtn-putrasakti-mandiri-jual-saham-restrukturisasi-grup.jpg",
-  "imageV": "msy7ocof",
-  "tags": [
-   "KDTN",
-   "kepemilikan saham",
-   "pemegang saham",
-   "restrukturisasi grup usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-1660-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar",
-  "category": "Aksi Korporasi",
-  "title": "WGSH Rencanakan Terbitkan [Surat Utang] Rp20 Miliar",
-  "deck": "WGSH berencana menerbitkan surat utang senilai maksimal Rp20 miliar untuk modal kerja, dengan target imbal hasil proyek neto minimal 3 persen per bulan dan jaminan aset perusahaan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/wgsh-rencanakan-terbitkan-surat-utang-rp20-miliar.jpg",
-  "imageV": "msy7ourz",
-  "tags": [
-   "WGSH",
-   "surat utang",
-   "pendanaan korporasi",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84fac78b11_3685d07643.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Komisaris Hasmoro [Tambah] 1,3 Juta Saham Hermina",
-  "deck": "Dewan Komisaris DR Hasmoro membeli 1.319.000 saham HEAL secara tidak langsung seharga Rp757 per saham, menaikkan hak suaranya dari 5,03% jadi 5,04%.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/heal-komisaris-hasmoro-tambah-1-3-juta-saham-hermina.jpg",
-  "imageV": "msy7pc1d",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4319-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 200.000 Saham Rp102 Juta",
-  "deck": "Komisaris AKPI, Henry Liem, menjual 200.000 saham perseroan pada 14 Agustus 2026 seharga Rp510 per saham, mengurangi hak suaranya dari 1,8674% menjadi 1,8347%.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/akpi-komisaris-henry-liem-jual-200-000-saham-rp102-juta.jpg",
-  "imageV": "msy7q0w2",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "kepemilikan saham",
-   "dewan komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-4555-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur",
-  "category": "Aksi Korporasi",
-  "title": "BKSL Ganti [Ketua] Unit Internal Audit, Gantikan Daniel Karwur",
-  "deck": "Sentul City Tbk (BKSL) menunjuk Djaka T.I. sebagai Ketua Unit Internal Audit baru menggantikan Daniel Karwur, efektif 18 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/bksl-ganti-ketua-unit-internal-audit-gantikan-daniel-karwur.jpg",
-  "imageV": "msybrv2x",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "Internal Audit",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c28956895b_de2653c73a.pdf",
   "sourceLabel": "IDX"
  }
 ];

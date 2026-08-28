@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
+  "category": "Aksi Korporasi",
+  "title": "AGII Setop Sisa PUB Sukuk [Rp1,18 Triliun], Andalkan Sindikasi",
+  "deck": "Samator Indo Gas (AGII) menghentikan sisa plafon Rp1,18 triliun dari program sukuknya dan beralih memakai fasilitas pinjaman sindikasi yang sudah tersedia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T12:55:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d682dddbdd_c6186173f9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "Samator Indo Gas",
+   "Sukuk Ijarah",
+   "Pinjaman Sindikasi"
+  ],
+  "body": [
+   "PT Samator Indo Gas Tbk (AGII) mengumumkan bahwa direksi perseroan pada 28 Agustus 2026 memutuskan untuk tidak melanjutkan penghimpunan dana dari sisa plafon Penawaran Umum Berkelanjutan (PUB) Sukuk Ijarah Berkelanjutan III Samator Indo Gas Tahun 2023. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan melalui surat bernomor 187/SIG-VIII/2026 yang ditandatangani oleh Manager perseroan, Meyliana.",
+   "Berdasarkan dokumen, target awal penghimpunan dana dari program sukuk ini adalah Rp1,25 triliun. Namun sampai saat ini perseroan baru menghimpun Rp70 miliar, yang berasal dari Sukuk Ijarah Berkelanjutan III Tahap I Tahun 2023 Seri A dan Seri B. Dengan penghentian ini, sisa plafon sebesar Rp1,18 triliun yang sebelumnya punya masa berlaku sampai 28 September 2025 resmi tidak akan digunakan lagi.",
+   "Perseroan menjelaskan bahwa keputusan ini diambil karena tahun ini AGII berencana memanfaatkan fasilitas pinjaman sindikasi yang masih tersedia. Manajemen menilai fasilitas tersebut sudah cukup untuk membiayai kebutuhan ekspansi bisnis dan menjaga kecukupan likuiditas perseroan. Dalam surat itu, perseroan juga menyatakan bahwa keputusan ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha AGII."
+  ],
+  "fotoAdegan": "Workers inspecting large industrial gas cylinders and pipelines at a manufacturing plant, safety gear, daylight",
+  "takeaway": "Langkah ini netral bagi Samator Indo Gas, karena perseroan sebenarnya tidak sedang menambah beban utang baru, melainkan memilih meninggalkan sisa jatah penerbitan sukuk senilai Rp1,18 triliun dan menggantinya dengan fasilitas pinjaman sindikasi yang sudah tersedia. Yang tersentuh di sini adalah sisi pendanaan dan beban bunga ke depan, sebab sumber utang jangka panjang perusahaan kini bergantung pada bank sindikasi, bukan lagi pasar surat utang publik, sehingga arus kas untuk ekspansi bisnis lebih bergantung pada syarat dan bunga fasilitas bank tersebut. Yang perlu dipantau selanjutnya adalah realisasi penarikan fasilitas pinjaman sindikasi yang disebut perseroan, karena dokumen ini belum merinci besaran maupun jadwal pencairannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "safe-beri-penjelasan-usai-harga-melonjak-24-87-dalam-sehari",
+  "category": "Aksi Korporasi",
+  "title": "SAFE Beri Penjelasan usai Harga Melonjak [24,87%] dalam Sehari",
+  "deck": "Steady Safe menjawab permintaan penjelasan Bursa soal lonjakan harga dan volume transaksi pada 24 Agustus, dan menyatakan tidak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T12:04:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/beb890bc61_9fe43bf0ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Steady Safe",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Steady Safe Tbk (SAFE) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan BEI nomor S-11041/BEI.PP2/08-2026 tanggal 26 Agustus 2026 terkait volatilitas transaksi sahamnya. Dalam surat itu, BEI mencatat bahwa pada 24 Agustus 2026 volume transaksi saham SAFE melonjak menjadi 6.351.000 saham dengan frekuensi 2.146 kali transaksi, jauh di atas hari bursa sebelumnya yang hanya 94.800 saham dengan 50 kali transaksi. Harga penutupan saham pada hari itu juga naik Rp98 atau 24,87 persen, dari Rp394 menjadi Rp492.",
+   "Menjawab enam pertanyaan standar Bursa, manajemen Steady Safe yang ditandatangani Direktur Utama Pieter Sembiring dan disampaikan melalui Corporate Secretary Yogi Wibawa menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek perusahaan, baik menurut POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di Bursa.",
+   "Perseroan menambahkan bahwa tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan kepada publik, serta menegaskan bahwa pemegang saham utama sampai saat ini belum memiliki rencana apa pun terkait kepemilikan sahamnya di Steady Safe."
+  ],
+  "fotoAdegan": "Rows of parked passenger taxis in a company vehicle yard in East Jakarta, morning light, a driver inspecting a vehicle",
+  "takeaway": "Laporan ini netral bagi fundamental Steady Safe, karena isinya justru menegaskan bahwa tidak ada perubahan kinerja atau rencana korporasi apa pun di balik lonjakan itu, hanya konfirmasi rutin yang diwajibkan Bursa setiap kali terjadi pergerakan harga dan volume yang tidak wajar. Yang perlu digarisbawahi, dokumen ini sama sekali tidak menyinggung pos kinerja keuangan seperti laba, ekuitas, atau arus kas, sehingga lonjakan harga 24,87 persen dan volume transaksi yang naik lebih dari 60 kali lipat itu tidak didukung oleh berita bisnis baru apa pun dari perusahaan, pola yang biasanya membuat pelaku pasar menandai transaksi tersebut sebagai gerakan spekulatif jangka pendek. Yang perlu dipantau ke depan adalah apakah harga dan volume SAFE kembali stabil pada hari-hari perdagangan berikutnya, sebab tanpa informasi material yang mendasarinya, Bursa lazim akan terus mengawasi pergerakan saham ini dan berpotensi meminta klarifikasi ulang bila pola serupa terulang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "elit-angkat-sandiaga-uno-jadi-komisaris-baru",
+  "category": "Aksi Korporasi",
+  "title": "ELIT Angkat [Sandiaga Uno] Jadi Komisaris Baru",
+  "deck": "RUPSLB ELIT pada 26 Agustus 2026 menyetujui pengangkatan Sandiaga Salahuddin Uno sebagai komisaris dan Meidyah Indreswari sebagai komisaris independen, masa jabatan lima tahun hingga 2031.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T11:54:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c68937a2a1_c9e96d570d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELIT",
+  "tags": [
+   "ELIT",
+   "RUPSLB",
+   "komisaris",
+   "Sandiaga Uno"
+  ],
+  "body": [
+   "PT Data Sinergitama Jaya Tbk (ELIT) melaporkan ke Bursa Efek Indonesia bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 26 Agustus 2026 di Hotel Sheraton Grand Jakarta Gandaria City menyetujui perubahan susunan Dewan Komisaris perseroan. RUPSLB dihadiri pemegang saham yang mewakili 1.440.085.212 lembar saham, atau sekitar 71,29 persen dari total 2.031.643.057 saham perseroan tanpa memperhitungkan saham treasury. Rapat memutuskan mengangkat Sandiaga Salahuddin Uno sebagai Komisaris dan Meidyah Indreswari sebagai Komisaris Independen, masing-masing untuk masa jabatan lima tahun sejak tanggal pengangkatan hingga berakhir pada penutupan RUPS Tahunan kelima yang akan digelar pada 2031.",
+   "Dengan pengangkatan ini, susunan Dewan Komisaris ELIT menjadi Roestiandi Tsamanov sebagai Komisaris Utama, Sandiaga Salahuddin Uno dan Thomas Irawan Tjahjono sebagai Komisaris, serta Peter Djatmiko dan Meidyah Indreswari sebagai Komisaris Independen. Jajaran Direksi tidak berubah, tetap dipimpin Kresna Adiprawira sebagai Direktur Utama bersama Frans Sulandra, Audy Satria Wardhana, Ery Setyo Wibowo, Indra Dwiputra, dan Erwin Damar Prasetyo sebagai Direktur.",
+   "Selain perubahan pengurus, RUPSLB juga menyetujui perubahan Pasal 3 Anggaran Dasar perseroan untuk menyesuaikan maksud dan tujuan usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Kegiatan usaha utama ELIT tercatat mencakup perdagangan besar komputer dan perlengkapannya, konsultasi komputer dan manajemen fasilitas komputer, serta konsultasi manajemen dan bisnis, dengan sejumlah kegiatan usaha penunjang di bidang pengolahan data, keamanan siber, kecerdasan buatan, dan penyediaan infrastruktur komputasi awan."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking indicator lights in a dim data center corridor, technician walking past with a tablet",
+  "takeaway": "Laporan ini netral bagi kinerja keuangan ELIT karena penambahan dua komisaris tidak mengubah ekuitas, arus kas, beban bunga, atau jumlah saham beredar perseroan. Yang berubah hanya komposisi pengawas, komisaris independen bertambah dari satu menjadi dua orang, sehingga porsi pengawas independen di dewan komisaris naik dan itu biasanya dibaca pasar sebagai perbaikan tata kelola, bukan sinyal soal kesehatan keuangan perusahaan. Kehadiran Sandiaga Salahuddin Uno, mantan pejabat publik, sebagai komisaris berpotensi menambah jaringan relasi bisnis dan pemerintahan bagi ELIT meski dampaknya tidak bisa diukur dari dokumen ini. Yang perlu dipantau berikutnya adalah proses persetujuan perubahan Anggaran Dasar Pasal 3 oleh Kementerian Hukum dan HAM menyusul penyesuaian klasifikasi usaha ke KBLI 2025, serta efektivitas kerja susunan komisaris baru ini sampai masa jabatannya berakhir pada RUPS Tahunan 2031.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
+  "category": "Aksi Korporasi",
+  "title": "TUFI siapkan [Rp817 miliar] bayar obligasi jatuh tempo September",
+  "deck": "TUFI menyatakan telah menyiapkan dana sekitar Rp817,24 miliar untuk membayar pokok dan bunga obligasi yang jatuh tempo 27 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:56:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bd41f3769e_39e4560d5e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TUFI",
+  "tags": [
+   "TUFI",
+   "obligasi",
+   "Mandiri Tunas Finance",
+   "pembayaran utang"
+  ],
+  "body": [
+   "PT Mandiri Tunas Finance (TUFI) menyampaikan keterbukaan informasi ke Bursa Efek Indonesia bahwa Obligasi Berkelanjutan VI Tahap II Tahun 2023 Seri A senilai Rp804.175.000.000 akan jatuh tempo pada 27 September 2026. Laporan yang dikirim oleh Corporate Secretary Division Head Arief Aphrian Lambri itu menegaskan perusahaan telah menyiapkan dana untuk melunasi pokok obligasi tersebut.",
+   "Selain pokok utang, perusahaan juga menyiapkan dana pembayaran bunga ke-12 sebesar Rp13.067.843.750. Dengan begitu total dana yang disiapkan untuk kewajiban ini mencapai sekitar Rp817,24 miliar, yang akan disetorkan ke PT Kustodian Sentral Efek Indonesia (KSEI) paling lambat 27 September 2026 untuk selanjutnya diteruskan ke pemegang obligasi.",
+   "Surat pemberitahuan tertanggal 24 Agustus 2026 itu ditandatangani oleh Direktur Anggi Mutiara. Dokumen tidak menyebutkan sumber dana pembayaran, apakah dari kas internal, refinancing, atau kombinasi keduanya."
+  ],
+  "fotoAdegan": "Busy vehicle financing office counter in Jakarta with staff assisting customers, paperwork stacked, midday light through windows",
+  "takeaway": "Laporan ini condong positif bagi TUFI karena perusahaan menegaskan sudah punya dana penuh untuk melunasi utang obligasi yang jatuh tempo, sehingga risiko gagal bayar ke pemegang obligasi bisa dikesampingkan untuk seri ini. Yang tersentuh di sini adalah arus kas perusahaan, yaitu keluar masuknya uang tunai. Sekitar Rp817,24 miliar akan keluar dari kas TUFI dalam waktu dekat, dan setelah pembayaran itu beban utang obligasi seri ini otomatis lunas sehingga kewajiban perusahaan berkurang. Yang perlu dipantau selanjutnya adalah apakah dana itu benar-benar disetorkan ke KSEI tepat waktu pada atau sebelum 27 September 2026 sesuai janji dalam surat ini, karena kesiapan dana yang diumumkan hari ini baru jadi bukti nyata kalau pembayarannya benar-benar terlaksana pada tanggal tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mtfn-catat-defisit-ekuitas-rp564-9-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTFN Catat Defisit [Ekuitas] Rp564,9 Miliar per Juni 2026",
+  "deck": "Emiten migas Capitalinc Investment mencatat ekuitas negatif Rp564,9 miliar per Juni 2026, memburuk dari Rp538,7 miliar di akhir 2025, meski pendapatan naik 15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:51:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110924-64255-0/FinancialStatement-2026-II-MTFN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTFN",
+  "tags": [
+   "MTFN",
+   "Capitalinc Investment",
+   "laporan keuangan interim",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Capitalinc Investment Tbk (MTFN) menyampaikan laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, lewat surat bernomor 065/CI/Dir/VIII/2026 tertanggal 27 Agustus 2026. Laporan ini belum diaudit dan disusun untuk kuartal II 2026. Perseroan saat ini tidak memiliki pemegang saham pengendali, dan sahamnya tercatat di papan pemantauan khusus Bursa Efek Indonesia, kategori bagi emiten yang perlu pengawasan lebih ketat karena masalah kinerja atau kepatuhan.",
+   "Dari sisi laba rugi, penjualan dan pendapatan usaha Perseroan naik 15,4 persen menjadi Rp300,6 miliar pada semester I 2026, dari Rp260,4 miliar pada periode sama tahun lalu. Namun kenaikan pendapatan ini diimbangi oleh melonjaknya beban bahan baku dan barang habis pakai, dari Rp247,2 miliar menjadi Rp293,5 miliar, hampir menyamai seluruh pendapatan yang diperoleh. Perseroan juga mencatat kerugian lain-lain yang melebar tajam dari Rp581,5 juta menjadi Rp10,4 miliar, sementara beban eksplorasi naik dari Rp6,7 miliar menjadi Rp7,1 miliar.",
+   "Di neraca, total aset Perseroan naik tipis sekitar 1 persen menjadi Rp386,6 miliar per akhir Juni 2026, dibandingkan Rp382,9 miliar pada akhir 2025. Sebaliknya, total liabilitas naik lebih besar, dari Rp921,7 miliar menjadi Rp951,5 miliar. Akibatnya, jumlah ekuitas Perseroan yang sudah negatif sejak periode sebelumnya kembali memburuk, dari minus Rp538,7 miliar menjadi minus Rp564,9 miliar, dengan saldo rugi yang belum ditentukan penggunaannya mencapai Rp5.374,9 miliar. Kas dan setara kas ikut menyusut tajam, dari Rp9,7 miliar menjadi Rp6,0 miliar, sementara liabilitas yang terkait aset yang diklasifikasikan untuk dijual tercatat Rp210,3 miliar, jauh melampaui nilai aset dimaksud yang hanya Rp4,1 miliar."
+  ],
+  "fotoAdegan": "Oil and gas storage tanks and pipelines at an industrial facility yard, overcast sky, wide empty scene, no visible text",
+  "takeaway": "Laporan ini condong negatif bagi MTFN, karena meski pendapatan tumbuh dua digit, kenaikan itu habis terpakai oleh membengkaknya biaya bahan baku dan kerugian lain-lain, sehingga defisit ekuitas Perseroan justru melebar dari Rp538,7 miliar menjadi Rp564,9 miliar dalam enam bulan. Ekuitas negatif berarti total utang Perseroan sudah melampaui seluruh asetnya, sehingga secara teknis kekayaan bersihnya minus, kondisi yang membuat pelaku pasar mencermati kemampuan Perseroan membayar kewajiban ke depan. Kas yang tersedia juga menyusut 38 persen menjadi Rp6 miliar, jauh lebih tipis dibandingkan utang usaha yang mencapai Rp434 miliar, sehingga ruang gerak keuangan Perseroan semakin sempit. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, karena jika pola pembengkakan defisit ini berlanjut dua periode berturut-turut, hal itu akan memperkuat alasan Bursa mempertahankan MTFN di papan pemantauan khusus.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "oliv-utang-ke-pemegang-saham-turun-94-85-kas-naik-tajam",
+  "category": "Aksi Korporasi",
+  "title": "OLIV: Utang ke Pemegang Saham [Turun] 94,85%, Kas Naik Tajam",
+  "deck": "Utang OLIV ke pemegang saham pengendali turun 94,85% dan kas naik tajam pada semester I 2026, meski total aset menyusut akibat penjualan persediaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:49:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110952-64254-0/FinancialStatement-2026-II-OLIV.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OLIV",
+  "tags": [
+   "OLIV",
+   "laporan keuangan",
+   "likuiditas",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "PT Atlas Nexus Group Tbk (OLIV), dahulu bernama PT Oscar Mitra Sukses Sejahtera Tbk, menyampaikan laporan keuangan interim tidak diaudit untuk semester I 2026 yang berakhir 30 Juni 2026, disertai surat resmi ke Otoritas Jasa Keuangan yang menjelaskan sejumlah pos aset dan liabilitas yang berubah lebih dari 20 persen dibanding akhir 2025. Perseroan menyebut nama barunya dirancang oleh pengendali baru untuk merepresentasikan visi membangun grup usaha terdiversifikasi berorientasi internasional. Perusahaan tercatat di sektor consumer cyclicals, subsektor barang rumah tangga, dengan status pemegang saham pengendali sebagai perusahaan nasional dan asing.",
+   "Kas dan setara kas Perseroan melonjak dari Rp1,29 juta pada akhir 2025 menjadi Rp2,29 miliar pada akhir Juni 2026, atau naik lebih dari 177.000 persen. Kenaikan itu terutama berasal dari arus kas bersih aktivitas operasi sebesar Rp7,18 miliar, yang sebagian besar berasal dari penerimaan pembayaran pelanggan. Di sisi lain, persediaan turun Rp12,64 miliar atau 35,01 persen menjadi Rp23,47 miliar, yang menurut Perseroan berasal dari realisasi penjualan persediaan sebagai bagian program optimalisasi untuk meningkatkan likuiditas. Perseroan juga mencatat piutang usaha baru dari pihak ketiga sebesar Rp2,7 miliar yang masih dalam proses penagihan per akhir Juni, serta piutang lain-lain Rp1,16 miliar kepada PT Olive Power Invest selaku pemegang saham pengendali, tanpa bunga dan tanpa jaminan. Total aset Perseroan turun 15,04 persen menjadi Rp34,70 miliar dari sebelumnya Rp40,85 miliar.",
+   "Di sisi liabilitas, utang kepada pemegang saham merosot dari Rp3,5 miliar menjadi Rp180,18 juta, turun Rp3,32 miliar atau 94,85 persen, dengan sisa saldo utang tersebut seluruhnya kepada PT Olive Power Invest. Total liabilitas Perseroan turun 80,44 persen menjadi Rp732,11 juta dari Rp3,74 miliar. Perseroan juga mencatat utang usaha baru ke pihak ketiga Rp195,2 juta serta kenaikan utang pajak 82,07 persen menjadi Rp356,73 juta akibat kewajiban PPN dan PPh Unifikasi yang belum jatuh tempo. Laporan ini merupakan hasil review, bukan audit penuh, dan ditandatangani Direktur Wang Xiaoxuan pada 26 Agustus 2026."
+  ],
+  "fotoAdegan": "Warehouse workers stacking furniture and home goods boxes onto a delivery truck, sunlight through open loading dock doors",
+  "takeaway": "Laporan ini condong positif bagi OLIV: utang ke pemegang saham pengendali PT Olive Power Invest terpangkas 94,85 persen dan kas dari kegiatan operasional melonjak ke Rp2,29 miliar, tanda perusahaan makin longgar secara likuiditas setelah sebelumnya menanggung beban utang besar ke pemiliknya sendiri. Yang perlu diperhatikan adalah arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha, karena kenaikan besar di pos ini biasanya jadi sinyal kesehatan operasional yang lebih bisa dipercaya ketimbang laba di atas kertas. Di sisi lain, Perseroan juga mencatat piutang baru Rp1,16 miliar ke PT Olive Power Invest tanpa bunga dan tanpa jaminan, artinya OLIV meminjamkan uang ke pemegang saham pengendalinya sendiri tanpa imbal hasil, hal yang layak diawasi meski nilainya masih kecil dibanding total aset. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026 per 30 September, yang akan menunjukkan apakah piutang usaha pihak ketiga Rp2,7 miliar sudah tertagih seperti diyakini manajemen dan apakah sisa utang Rp180,18 juta ke pemegang saham pengendali sudah dilunasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hatm-rilis-pmthmetd-640-juta-saham-ke-afiliasi-rp320-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HATM Rilis [PMTHMETD] 640 Juta Saham ke Afiliasi Rp320 Miliar",
+  "deck": "HATM akan menerbitkan 640 juta saham baru senilai Rp320 miliar khusus untuk PT Multi Sarana Nasional, pemegang saham yang direksinya sama dengan direksi HATM, dengan dilusi hingga 6,87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:44:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51131230ba_0f20894f16.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) resmi mengungkapkan rincian rencana penambahan modal tanpa hak memesan efek terlebih dahulu atau private placement, setelah rencana ini disetujui pemegang saham dalam RUPSLB pada 21 Agustus 2026. Perseroan akan menerbitkan 640 juta saham baru dengan nilai nominal Rp50 per saham, setara 7,37 persen dari total 8,68 miliar saham yang sudah beredar. Harga pelaksanaan ditetapkan Rp500 per saham, atau 90,50 persen dari rata-rata harga penutupan saham HATM selama 25 hari perdagangan terakhir sebelum permohonan pencatatan ke Bursa Efek Indonesia.",
+   "Seluruh saham baru ini akan dibeli oleh PT Multi Sarana Nasional (MSN), yang sudah menjadi pemegang saham HATM sebelumnya. Kepemilikan MSN akan naik dari 20,11 persen menjadi 25,59 persen setelah transaksi ini rampung. MSN sendiri adalah perusahaan holding yang seluruh direksinya, yaitu Andrew Kam, Rita, dan Ian Morris Budiman, merangkap sebagai direksi HATM, sementara dua komisarisnya, Cosmas Kiardi dan Hasanul Arifin Hasibuan, juga menjabat komisaris di HATM. Pemegang saham pengendali HATM, PT Habco Primatama, tetap menjadi pengendali meski porsinya turun dari 66,34 persen menjadi 61,79 persen, sedangkan porsi publik berkurang dari 13,29 persen menjadi 12,38 persen.",
+   "Dari sisi dana, aksi ini diperkirakan menambah Rp320 miliar ke kas perseroan. Berdasarkan laporan keuangan per 31 Maret 2026 yang belum diaudit, aset lancar diproyeksikan naik dari Rp503 miliar menjadi Rp823 miliar, total aset dari Rp1,89 triliun menjadi Rp2,21 triliun, dan total ekuitas dari Rp1,61 triliun menjadi Rp1,93 triliun, sementara total liabilitas tidak berubah di angka Rp278,4 miliar. Dana hasil penambahan modal ini rencananya dipakai untuk belanja modal berupa penambahan armada kapal, atau untuk membayar pinjaman bank. Perseroan menyebut pemegang saham yang tidak ikut serta dalam aksi ini berpotensi mengalami dilusi kepemilikan sampai maksimal 6,87 persen.",
+   "Berdasarkan jadwal yang diumumkan, permohonan pencatatan ke BEI diajukan paling lambat 28 Agustus 2026, penyetoran modal dan distribusi saham baru dilakukan pada 4 September 2026, dan saham baru itu akan dicatatkan di bursa pada 7 September 2026. Perseroan wajib melaporkan hasil pelaksanaan paling lambat 6 September 2026, dengan keseluruhan proses PMTHMETD harus rampung paling lambat akhir Desember 2026 sesuai aturan OJK yang membatasi pelaksanaan aksi ini maksimal dua tahun sejak RUPSLB."
+  ],
+  "fotoAdegan": "A domestic cargo vessel docked at an Indonesian river port, workers loading crates, hazy tropical morning light",
+  "takeaway": "Penambahan modal ini saya nilai netral bagi HATM: modal segar Rp320 miliar memang memperkuat neraca, tapi seluruh saham baru mengalir ke satu pihak, PT Multi Sarana Nasional, yang jajaran direksinya sama persis dengan direksi HATM, sehingga bukan kesempatan yang terbuka bagi seluruh pemegang saham lewat mekanisme rights issue biasa. Yang tersentuh adalah ekuitas, yang naik dari Rp1,61 triliun menjadi Rp1,93 triliun tanpa tambahan utang, tapi jumlah saham beredar juga bertambah 7,37 persen sehingga laba per saham berpotensi terdilusi, dan pemegang saham yang tidak ikut serta bisa kehilangan proporsi kepemilikan sampai 6,87 persen. Yang perlu dipantau adalah penyetoran modal dan distribusi saham baru pada 4 September 2026 serta pencatatan di bursa pada 7 September 2026, karena di situlah rencana ini baru benar-benar terealisasi, dengan tenggat penyelesaian seluruh proses paling lambat akhir Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
+  "category": "Aksi Korporasi",
+  "title": "MAYA panggil RUPSLB soal [pergantian] direksi-komisaris 24 Sep",
+  "deck": "Bank Mayapada Internasional (MAYA) mengundang pemegang saham ke RUPSLB 24 September 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:30:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d87144cbf9_b59b20af76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAYA",
+  "tags": [
+   "MAYA",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Bank Mayapada Internasional Tbk (MAYA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 24 September 2026 pukul 14.00 WIB di Mayapada Tower 2 lantai 9, Jalan Jenderal Sudirman Kavling 27, Jakarta. Agendanya hanya satu, yaitu persetujuan perubahan susunan anggota Direksi dan Dewan Komisaris Perseroan. Pemanggilan ini diterbitkan lewat surat Nomor 329/DIR/VIII/2026 tanggal 28 Agustus 2026, menindaklanjuti surat sebelumnya Nomor 319/DIR/VIII/2026 tanggal 13 Agustus 2026 yang sudah lebih dulu memberi tahu rencana rapat ini.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham per Kamis, 27 Agustus 2026 hingga pukul 16.00 WIB. Bahan rapat sudah tersedia di kantor Perseroan di Mayapada Tower 1, Jalan Jenderal Sudirman Kavling 28, Jakarta, dan dapat diminta secara tertulis sejak tanggal pemanggilan hingga hari pelaksanaan rapat. Kehadiran bisa dilakukan secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas akhir penyampaian deklarasi kehadiran, pemberian kuasa, dan pilihan suara paling lambat pukul 12.00 WIB pada satu hari kerja sebelum rapat, yakni 23 September 2026.",
+   "Dokumen pemanggilan ini belum merinci nama-nama direksi atau komisaris yang akan diganti, ditambah, atau diusulkan, hanya menyebut agenda perubahan susunan secara umum. Surat pemanggilan ditandatangani oleh Corporate Secretary Kriss Budi Utomo."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower in Jakarta's financial district, taken from below at a dramatic angle, late afternoon light",
+  "takeaway": "Pemanggilan ini bersifat netral bagi penilaian fundamental karena isinya baru sebatas mengundang rapat, belum mengungkap siapa yang akan masuk atau keluar dari jajaran Direksi dan Dewan Komisaris. Perubahan susunan pengurus bank tidak langsung mengubah pos keuangan seperti modal, arus kas, atau laba per saham, tapi tetap dicermati pelaku pasar karena siapa yang memimpin bank berpengaruh pada arah strategi dan tingkat kepercayaan nasabah maupun investor terhadap manajemen. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 24 September 2026 dan pengumuman resmi hasil rapat yang akan menyebutkan nama-nama pengurus baru, serta batas akhir pemberian kuasa atau suara elektronik pada 23 September 2026 pukul 12.00 WIB bagi pemegang saham yang ingin ikut menentukan hasilnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
   "category": "Aksi Korporasi",
   "title": "EMAS: Aset Naik 30% Ditopang [Utang] Bank US$149 Juta",
@@ -377,7 +586,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -1680,7 +1889,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",

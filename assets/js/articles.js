@@ -1108,10 +1108,10 @@ var ARTICLES = [
    "Bagi warga seperti Kristian dan Maria, kebutuhan paling mendesak masih seputar keselamatan keluarga dan tempat tinggal yang aman selama masa tanggap darurat. Dukungan energi, kesehatan, dan logistik dari pemerintah menjadi bagian dari upaya bertahap sembari proses pemulihan di tujuh kabupaten terdampak berjalan."
   ],
   "fotoAdegan": "Workers unloading a portable generator near a health tent in a coastal disaster relief camp, cracked buildings in the background",
-  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan-mk8gv5x.jpeg",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan-97qk79m.jpeg",
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah konkret di sini adalah pengiriman 48 unit genset ke tujuh kabupaten NTT yang terdampak gempa dan tsunami, untuk menghidupkan listrik di tenda-tenda puskesmas darurat yang sebelumnya tidak punya sumber daya sendiri, ditambah sekitar 30 posko tanggap darurat yang sudah berdiri bersama pelaku usaha sektor energi. Yang paling terdampak adalah warga tujuh kabupaten itu, terutama mereka yang kini bergantung pada layanan kesehatan darurat karena rumahnya rusak atau mereka memilih mengungsi akibat takut gempa susulan. Berita ini belum menyebutkan berapa lama genset itu akan dipakai atau kapan jaringan listrik permanen di wilayah terdampak diperbaiki, jadi belum bisa dibaca apakah ini murni bantuan darurat sementara atau awal dari proyek pemulihan energi yang lebih panjang. Yang perlu dicermati selanjutnya adalah kabar soal berakhirnya status tanggap darurat NTT dan pembaruan dari PLN mengenai perbaikan jaringan listrik permanen di tujuh kabupaten tersebut.",
-  "imageV": "mta5wfir"
+  "imageV": "mtcquqmb"
  },
  {
   "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",

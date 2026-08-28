@@ -681,7 +681,7 @@ var ARTICLES = [
   "deck": "Kementerian ESDM mengirim 48 genset untuk fasilitas kesehatan darurat di tujuh kabupaten NTT yang terdampak gempa dan tsunami, sembari mendirikan sekitar 30 posko tanggap darurat.",
   "date": "26 Agustus 2026",
   "image": "assets/img/esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa.jpg",
-  "imageV": "mta5wfir",
+  "imageV": "mtcquqmb",
   "tags": [
    "ESDM",
    "gempa NTT",

@@ -3,6 +3,273 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
+  "category": "UMKM",
+  "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
+  "deck": "Pertamina kembali membuka program pembinaan UMK Academy 2026 dengan tambahan dua kelas baru, Go Green dan Go Aggregator. Pendaftaran online dibuka hingga 31 Agustus 2026.",
+  "image": "assets/img/pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T23:02:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463293-umk-academy-2026-pertamina-kembali-dibuka-kesempatan-lokal-naik-kelas-dan-perluas-pasar-hingga-global",
+  "tags": [
+   "UMK Academy",
+   "Pertamina",
+   "UMKM",
+   "pendaftaran UMK"
+  ],
+  "body": [
+   "PT Pertamina (Persero) kembali membuka program Pertamina UMK Academy 2026, yang ditujukan bagi pelaku usaha mikro dan kecil untuk meningkatkan kemampuan bisnis, memperkuat usaha, dan memperluas akses pasar. Pendaftaran berlangsung secara daring pada 21 hingga 31 Agustus 2026 melalui laman umkacademy.id/onboarding.",
+   "Program yang pertama kali digelar pada 2020 ini dirancang berjenjang mengikuti perkembangan usaha peserta, mulai dari pengelolaan bisnis, pengembangan produk, pemanfaatan teknologi, hingga strategi memperluas pasar. Selama mengikuti program, peserta didampingi oleh akselerator, mentor, dan coach profesional.",
+   "Pembinaan terbagi dalam dua tahap, yaitu regional dan nasional. Pada tahap regional, peserta mendapat penguatan dasar bisnis sesuai sektor usahanya, sebelum yang lolos melanjutkan ke tahap nasional yang dibagi menjadi enam kelas: Go Modern untuk penguatan pengelolaan usaha, Go Digital untuk pemanfaatan teknologi, Go Online untuk optimalisasi kanal penjualan daring, Go Global untuk persiapan masuk pasar business-to-business termasuk ekspor, serta dua kelas baru tahun ini, Go Green untuk praktik bisnis ramah lingkungan dan Go Aggregator untuk membangun kolaborasi antarpelaku UMK.",
+   "Vice President Corporate Communication Pertamina Muhammad Baron mengatakan program ini merupakan bagian dari komitmen perusahaan mendorong usaha lokal agar semakin kuat, adaptif, dan kompetitif. \"Melalui Pertamina UMK Academy, Pertamina tidak hanya memberikan pengetahuan, tetapi juga mendampingi pelaku UMK untuk menerapkan pembelajaran secara langsung dalam pengembangan usahanya. Peserta didorong memperkuat tata kelola, meningkatkan kualitas produk, memanfaatkan teknologi, berkolaborasi, serta memperluas akses pasar,\" ujar Baron, Jumat (28/8/2026)."
+  ],
+  "fotoAdegan": "Small business owner arranging handcrafted snack products on wooden shelves inside a compact home workshop, warm daylight through a window",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a91827db3b57-umk-academy-2026-kembali-dibuka_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret pada edisi 2026 ini adalah bertambahnya dua kelas baru, Go Green dan Go Aggregator, sehingga tahap nasional program kini punya enam kelas dari sebelumnya empat. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil yang berminat mendaftar, karena jendela pendaftarannya sempit, hanya sampai 31 Agustus 2026, tiga hari dari sekarang. Penambahan dua kelas itu menunjukkan arah program bergeser dari sekadar mendorong UMK go digital dan go global, menjadi juga mendorong mereka ramah lingkungan dan mau berkolaborasi dengan sesama pelaku usaha sejenis. Yang akan menegaskan apakah pergeseran ini serius atau sekadar tambahan nama kelas adalah data berapa banyak peserta yang benar-benar lolos seleksi regional dan masuk ke dua kelas baru tersebut saat tahap nasional dimulai.",
+  "imageV": "mtdcxesl"
+ },
+ {
+  "slug": "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
+  "category": "Industri",
+  "title": "PART Rambah Bisnis Non-[Otomotif], Incar Laba Rp44,16 M",
+  "deck": "Cipta Perdana Lancar (PART) memproyeksikan laba bersih 2026 naik 46,18 persen menjadi Rp44,16 miliar seiring perluasan bisnis fabrikasi mesin di luar otomotif.",
+  "image": "assets/img/part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T21:13:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463277-part-genjot-bisnis-non-otomotif-laba-bersih-2026-diproyeksi-tembus-rp4416-miliar",
+  "tags": [
+   "PART",
+   "otomotif",
+   "diversifikasi bisnis",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Cipta Perdana Lancar Tbk (PART), produsen komponen otomotif, memproyeksikan laba bersih tahun 2026 mencapai Rp44,16 miliar, naik 46,18 persen dari realisasi 2025 sebesar Rp30,21 miliar. Proyeksi ini penting karena kenaikan laba yang dibidik jauh lebih tinggi dibanding kenaikan pendapatan, sinyal bahwa perseroan mengandalkan bisnis baru di luar sektor otomotif untuk mengerek untung, bukan sekadar menjual lebih banyak barang.",
+   "Pendapatan 2026 diproyeksikan Rp413,62 miliar, tumbuh 11,91 persen dari Rp369,59 miliar pada 2025. Margin laba bersih diperkirakan naik dari 8,17 persen menjadi 10,68 persen, sementara margin laba usaha naik dari 10,99 persen menjadi 14,12 persen. Laba per saham, yaitu bagian laba yang secara hitungan menjadi milik setiap lembar saham yang beredar, diproyeksikan naik dari Rp11,29 menjadi Rp15,49.",
+   "Kenaikan margin itu ditopang diversifikasi bisnis yang mulai dijalankan sejak semester II 2025, yakni fabrikasi mesin dan peralatan di luar otomotif. Segmen baru ini mencakup pembuatan mesin untuk sektor pertanian, serta peralatan rumah tangga yang dipakai dalam program pemerintah maupun kegiatan swasta di bidang pertanian dan industri makanan-minuman. Perseroan menyebut langkah ini sebagai cara mengurangi ketergantungan pada satu segmen sekaligus memanfaatkan kapasitas pabrik fabrikasi yang selama ini dipakai untuk komponen otomotif.",
+   "Bisnis komponen otomotif tetap menjadi lini utama dan dinilai perseroan masih punya prospek pertumbuhan positif, sehingga diversifikasi diposisikan sebagai tambahan, bukan pengganti. PART memperkirakan kontribusi bisnis non-otomotif akan semakin terasa pada semester II 2026, dengan aktivitas meningkat di kuartal III dan berpotensi mencapai level tertinggi di kuartal IV."
+  ],
+  "fotoAdegan": "Factory workers assembling small metal agricultural machine parts on a workshop floor, tools and components scattered under industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a91803635719-ilustrasi-saham-pt-cipta-perdana-lancar-tbk-part_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar target laba, melainkan komposisinya: manajemen memproyeksikan laba bersih tumbuh 46,18 persen, jauh lebih cepat dari pendapatan yang hanya naik 11,91 persen, artinya perseroan memperkirakan setiap rupiah penjualan bakal menghasilkan untung lebih besar berkat bisnis fabrikasi mesin dan alat pertanian yang baru dirintis sejak pertengahan 2025. Pihak yang paling terdampak adalah pemegang saham PART, karena laba per saham diproyeksikan naik dari Rp11,29 menjadi Rp15,49, sementara segmen otomotif yang selama ini jadi andalan tetap dipertahankan sebagai lini utama. Perlu digarisbawahi, semua angka ini adalah proyeksi manajemen sendiri untuk tahun yang belum berakhir, bukan hasil yang sudah terealisasi. Ada dua kemungkinan ke depan: proyeksi ini terbukti akurat kalau kontribusi bisnis non-otomotif benar naik di kuartal III dan mencapai puncaknya di kuartal IV seperti disebutkan perseroan, atau meleset dari target seperti yang kerap terjadi pada proyeksi korporasi lain. Laporan keuangan kuartal III 2026, yang biasanya terbit sekitar Oktober-November, akan menjadi penanda pertama apakah tren ini benar berjalan sesuai perkiraan.",
+  "imageV": "mtdcxfcj"
+ },
+ {
+  "slug": "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
+  "category": "Perbankan",
+  "title": "bank bjb [Borong] Dua Penghargaan OJK di Hari Menabung",
+  "deck": "bank bjb meraih dua penghargaan OJK di Puncak Hari Indonesia Menabung 2026 atas program edukasi keuangan ke sekolah dan masyarakat.",
+  "image": "assets/img/bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:02:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463258-bank-bjb-borong-dua-penghargaan-ojk-di-puncak-hari-indonesia-menabung-2026",
+  "tags": [
+   "bank bjb",
+   "OJK",
+   "literasi keuangan",
+   "Hari Indonesia Menabung"
+  ],
+  "body": [
+   "bank bjb menerima dua penghargaan sekaligus dari Otoritas Jasa Keuangan (OJK) dalam ajang Puncak Hari Indonesia Menabung (HIM) Nasional 2026 yang digelar di Sekolah Rakyat Menengah Atas (SRMA) 13 Bekasi. Pengakuan ini menegaskan posisi bank bjb sebagai salah satu bank daerah yang aktif menjalankan program literasi dan inklusi keuangan, bukan sekadar menjual produk tabungan.",
+   "Penghargaan pertama diberikan sebagai Bank Teraktif dalam pelaksanaan program Bank Goes to School (BGTS), yakni inisiatif yang mendatangi sekolah-sekolah untuk mengenalkan kebiasaan menabung sejak dini kepada pelajar. Penghargaan kedua diberikan atas peran bank bjb dalam pembentukan Program OJK Peduli yang dinilai paling masif dibanding bank lain yang terlibat.",
+   "Acara berlangsung bersamaan dengan Puncak Hari Indonesia Menabung dan Bulan Literasi Keuangan 2026 pada Jumat, 28 Agustus 2026. Rangkaian kegiatan mencakup penampilan siswa Sekolah Rakyat, simbolis pembukaan dan top up rekening tabungan, pemberian KEJAR Award serta Financial Literacy Award, dan sesi Leader's Insight."
+  ],
+  "fotoAdegan": "Bank officer assisting a line of high school students opening savings passbooks at an outdoor school event table, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a9186264dd5d-komitmen-bank-bjb-dalam-memperluas-akses-serta-pemahaman-keuangan-di-tengah-masyarakat-kembali-mendapatkan-pengakuan-tingkat-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Inti berita ini adalah penghargaan seremonial, bukan kebijakan atau perubahan bisnis, jadi yang berubah cuma pengakuan OJK atas program edukasi keuangan bank bjb. Yang jelas terdampak adalah bank bjb sebagai penerima penghargaan, sementara sasaran program BGTS dan OJK Peduli, yaitu pelajar dan masyarakat umum, belum disertai angka konkret di sini, baik jumlah sekolah yang disambangi, jumlah rekening pelajar yang terbentuk, maupun besaran dana yang terkumpul. Karena itu belum bisa disimpulkan apakah program ini benar mendongkrak inklusi keuangan di Jawa Barat atau baru sebatas simbolis. Yang perlu ditunggu adalah data resmi OJK soal tingkat inklusi dan literasi keuangan nasional tahun ini, yang biasa dirilis setelah rangkaian Bulan Literasi Keuangan selesai.",
+  "imageV": "mtdcxfxt"
+ },
+ {
+  "slug": "pertamina-patra-niaga-raih-penghargaan-csr-bencana",
+  "category": "BUMN",
+  "title": "Pertamina Patra Niaga Raih [Penghargaan] CSR Bencana",
+  "deck": "Pertamina Patra Niaga meraih Impact Commitment Awards 2026 atas program CSR, termasuk respons bencana banjir Sumatera dan gempa NTT hingga ke daerah terpencil.",
+  "image": "assets/img/pertamina-patra-niaga-raih-penghargaan-csr-bencana.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T19:03:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463245-pertamina-patra-niaga-sabet-impact-commitment-awards-respons-bencana-sumatera-hingga-ntt-diapresiasi",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "CSR",
+   "bencana alam",
+   "NTT"
+  ],
+  "body": [
+   "Pertamina Patra Niaga meraih penghargaan Impact Commitment Awards dalam ajang Investortrust CSR Awards 2026 di Jakarta, Kamis (27/8/2026), atas program tanggung jawab sosial perusahaan yang dinilai memberi dampak nyata bagi masyarakat. Penghargaan ini mengapresiasi berbagai program mulai dari pemberdayaan ekonomi hingga respons cepat terhadap bencana alam di berbagai wilayah Indonesia.",
+   "Corporate Secretary Pertamina Patra Niaga Roberth MV Dumatubun mengatakan penghargaan tersebut menjadi pemacu semangat perusahaan untuk terus menjalankan program CSR yang dampaknya bertahan lama, bukan sekadar bantuan sesaat. Salah satu wujud komitmen itu terlihat saat banjir melanda Sumatera bagian utara, ketika perusahaan tidak hanya menyalurkan bahan bakar tetapi juga sembako dan layanan pengobatan bagi warga terdampak.",
+   "Bantuan serupa juga diberikan saat gempa mengguncang Nusa Tenggara Timur, termasuk layanan pemulihan psikologis awal yang lebih dikenal dengan istilah trauma healing bagi warga yang terguncang secara mental akibat bencana. Di NTT, bantuan perusahaan bahkan menjangkau Dusun Watu Hedok di Manggarai Timur, wilayah terpencil yang belum menerima bantuan apa pun sejak gempa mengguncang pada 15 Agustus 2026.",
+   "Selain dua bencana tersebut, Pertamina Patra Niaga turut membantu penanganan kebakaran hutan dan lahan di sejumlah wilayah Kalimantan dan Sumatera dengan menyalurkan masker, peralatan pemadaman, air bersih, vitamin, dan paket kesehatan bagi warga maupun relawan."
+  ],
+  "fotoAdegan": "Volunteers unloading relief supplies and water containers from a truck in a remote Indonesian hillside village.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a9175cb069eb-corporate-secretary-pertamina-patra-niaga-roberth-mv-dumatubun-dalam-investortrust-csr-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari berita ini adalah detail bantuan sampai ke Dusun Watu Hedok di Manggarai Timur, wilayah terpencil yang baru tersentuh bantuan setelah gempa NTT yang terjadi sejak 15 Agustus 2026, bukan sekadar klaim tanggung jawab sosial secara umum. Pihak yang jelas terdampak adalah warga korban banjir di Sumatera bagian utara dan korban gempa di NTT, terutama yang tinggal di daerah sulit dijangkau. Namun berita ini tidak menyebutkan nilai rupiah bantuan yang disalurkan atau jumlah keluarga yang menerima manfaat, sehingga sulit menakar seberapa besar komitmen ini dibandingkan program CSR perusahaan energi pelat merah lain atau dibandingkan tahun-tahun sebelumnya. Untuk melihat gambaran yang lebih utuh, publik perlu menunggu laporan keberlanjutan atau laporan tahunan Pertamina Patra Niaga yang biasanya memuat rincian anggaran dan capaian program CSR secara lebih rinci.",
+  "imageV": "mtdcxges"
+ },
+ {
+  "slug": "pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct",
+  "category": "Pasar Modal",
+  "title": "Pendapatan [BNBR] Naik 45,8% Usai Konsolidasi CCT",
+  "deck": "Pendapatan Bakrie & Brothers naik 45,84% menjadi Rp2,59 triliun pada semester I 2026, didorong konsolidasi penuh tol Cimanggis-Cibitung dan pertumbuhan anak usaha VKTR serta BMI.",
+  "image": "assets/img/pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T18:42:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463240-kinerja-bnbr-semester-i-2026-pendapatan-naik-4584-jadi-rp259-triliun-dan-laba-usaha-melonjak-283",
+  "tags": [
+   "BNBR",
+   "Bakrie & Brothers",
+   "VKTR",
+   "rights issue"
+  ],
+  "body": [
+   "PT Bakrie & Brothers Tbk (BNBR) membukukan kinerja keuangan yang menguat tajam pada semester I 2026. Pendapatan bersih perusahaan naik 45,84 persen menjadi Rp2,59 triliun, sementara laba usaha melonjak 283,21 persen. Capaian ini penting karena menandai pemulihan kinerja bagi salah satu grup usaha keluarga Bakrie yang beberapa waktu terakhir menghadapi tekanan di berbagai lini bisnisnya.",
+   "Pendapatan BNBR tercatat naik Rp814,69 miliar dibanding semester I 2025 yang sebesar Rp1,77 triliun. Laba usaha ikut melompat dari Rp78,68 miliar menjadi Rp301,53 miliar. EBITDA, yaitu laba dari kegiatan usaha sebelum dikurangi bunga utang, pajak, dan penyusutan nilai aset, tumbuh 230,93 persen atau naik Rp295,21 miliar menjadi Rp423,04 miliar.",
+   "Pendorong utama pertumbuhan datang dari tiga unit usaha. Pendapatan BIIN Group, lini infrastruktur BNBR, melonjak 256,1 persen atau bertambah Rp450,76 miliar menjadi Rp626,78 miliar, terutama karena konsolidasi penuh PT Cimanggis Cibitung Tollways (CCT) ke laporan keuangan BNBR. VKTR Teknologi Mobilitas Group, unit kendaraan listrik BNBR, mencatat tambahan pendapatan Rp232,58 miliar atau naik 56,2 persen, sementara Bakrie Metal Industries Group tumbuh lebih landai, naik 10,2 persen atau Rp120,96 miliar.",
+   "Di tengah penguatan kinerja ini, BNBR juga baru merampungkan aksi rights issue atau penambahan saham baru dengan hak beli lebih dulu bagi pemegang saham lama, pada akhir Juli 2026. Wakil Direktur Utama dan Co-CEO BNBR A. Ardiansyah Bakrie menyebut aksi tersebut berhasil menghimpun dana Rp4,76 triliun. Direktur Utama dan CEO BNBR Anindya N. Bakrie menyatakan pertumbuhan ini menjadi bukti strategi dan kerja tim perseroan mulai membuahkan hasil di tengah ketidakpastian ekonomi global."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll road under construction with cranes and concrete pillars, workers in safety vests, hazy morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/27/69a111da61f9d-bnbr-gaspol-right-issue-90-miliar-saham-strategi-bakrie-brothers-pangkas-utang-dan-perkuat-modal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka pendapatan naik 45,84 persen, tapi dari mana asalnya: lonjakan Rp450,76 miliar di unit infrastruktur BIIN sebagian besar berasal dari masuknya tol Cimanggis-Cibitung ke pembukuan BNBR secara penuh, bukan semata bisnis baru yang tumbuh dari nol. Yang terdampak langsung adalah pemegang saham BNBR, termasuk mereka yang baru menyuntikkan dana lewat rights issue senilai Rp4,76 triliun akhir Juli lalu. ada dua kemungkinan arah dari sini. Kalau dana segar itu dipakai memperkuat unit yang tumbuh lebih landai seperti VKTR dan BMI, lonjakan laba tahun ini bisa berlanjut sebagai pemulihan bisnis yang riil. Tapi kalau kenaikan besar ini sebagian besar cuma efek satu kali dari masuknya CCT ke laporan keuangan, kinerja semester berikutnya, begitu efek konsolidasi itu tidak lagi jadi pembeda dibanding tahun sebelumnya, akan lebih mencerminkan kekuatan bisnis yang sesungguhnya.",
+  "imageV": "mtdcxgvr"
+ },
+ {
+  "slug": "telin-gandeng-empat-mitra-global-di-batic-2026",
+  "category": "Teknologi",
+  "title": "Telin Gandeng [Empat] Mitra Global di BATIC 2026",
+  "deck": "Anak usaha Telkom ini menjalin empat kerja sama sekaligus di BATIC 2026, dari penguatan kabel bawah laut internasional hingga integrasi data center dengan Grup Djarum.",
+  "image": "assets/img/telin-gandeng-empat-mitra-global-di-batic-2026.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T18:03:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463228-melalui-empat-kemitraan-strategis-di-batic-2026-telin-perluas-jejak-ekosistem-digital-global",
+  "tags": [
+   "Telin",
+   "Telkom",
+   "BATIC 2026",
+   "kabel bawah laut"
+  ],
+  "body": [
+   "PT Telekomunikasi Indonesia International atau Telin, anak usaha PT Telkom Indonesia (Persero) Tbk, menandatangani empat kesepakatan kerja sama sekaligus dalam ajang Bali Annual Telkom International Conference (BATIC) 2026. Kerja sama ini mencakup penguatan jalur kabel bawah laut internasional, penerapan standar teknis terbuka antar operator digital, hingga integrasi layanan konektivitas dengan pusat data di dalam negeri. Langkah ini penting karena menyangkut kesiapan infrastruktur digital Indonesia untuk menampung lalu lintas data yang terus bertambah, baik dari dalam negeri maupun lintas negara.",
+   "Kesepakatan pertama adalah surat kesepakatan awal atau Letter of Intent (LOI) antara Telin di Singapura dan perusahaan kabel bawah laut PEACE Cable International Network. Lewat kerja sama ini, Telin menambah kapasitas jalur datanya sekitar 1,4 terabit per detik, ukuran kapasitas transmisi yang sangat besar, pada rute yang menghubungkan Asia, Afrika, dan Eropa. Penandatanganan dilakukan oleh CEO Telin Singapura Indarto dan CEO PEACE Sun Xiaohua, disaksikan SVP Business Development & Operation Telin Bernadus Wahyu Wijayanto serta Chief Commercial Officer PEACE, Lucus.",
+   "Telin juga menandatangani manifesto Open API dan Open Digital Architecture bersama TM Forum, forum standar industri telekomunikasi global, agar sistem dan layanan digital antar operator lebih mudah saling terhubung. Selain itu, Telin meneken nota kesepahaman dengan SM+ serta PT Graha Telekomunikasi Indonesia (GTI), yang merupakan bagian dari Remala Group di bawah Djarum Group, untuk memadukan layanan konektivitas dengan kapasitas pusat data di pasar domestik maupun internasional.",
+   "CEO Telin Abdul Rahman Ansyori menyampaikan bahwa membangun kapabilitas global perusahaan kini bukan lagi sekadar memperluas jaringan, melainkan menghubungkan berbagai teknologi, platform, dan pemain dalam satu ekosistem demi menambah pilihan dan nilai bagi pelanggan. Menurutnya, empat kerja sama yang diteken di BATIC 2026 mencerminkan pendekatan itu, sekaligus membuka ruang pertumbuhan baru bagi Telin, TelkomGroup, dan para mitranya."
+  ],
+  "fotoAdegan": "Technicians inspecting large spools of undersea fiber-optic cable at a coastal cable landing station, tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a916a475da3a-telin-dan-pt-graha-telekomunikasi-indonesia-gti-menandatangani-mou-bscs-fiber-pair-project-dalam-rangkaian-batic-2026-di-nusa-dua-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma jumlah mitra, tapi bentuk kerja samanya: Telin menambah jalur kabel bawah laut sebesar 1,4 terabit per detik, kapasitas besar yang bisa mengalirkan data dalam jumlah masif setiap detik, sekaligus mengikat kesepakatan standar teknis terbuka dan integrasi dengan pusat data domestik lewat GTI, bagian dari Djarum Group. Yang terdampak langsung adalah TelkomGroup sendiri yang mengandalkan Telin sebagai ujung tombak bisnis internasionalnya, juga pelaku data center dan operator digital yang butuh jalur data lintas negara lebih besar. Arahnya terlihat jelas: Telin bergerak dari sekadar penyedia jaringan menjadi penghubung ekosistem, memadukan infrastruktur kabel internasional dengan kapasitas data center di dalam negeri. Yang belum pasti adalah apakah LOI dengan PEACE Cable ini akan berlanjut jadi kontrak definitif dan kapan tambahan kapasitas 1,4 Tbps itu benar-benar mulai beroperasi, dua hal itu yang akan menentukan apakah strategi ini berjalan sesuai rencana atau berhenti di tahap kesepakatan awal.",
+  "imageV": "mtdcxhcl"
+ },
+ {
+  "slug": "injourney-tawarkan-promo-bundling-di-gatf-2026",
+  "category": "BUMN",
+  "title": "InJourney Tawarkan [Promo] Bundling di GATF 2026",
+  "deck": "InJourney Group menghadirkan promo bundling hotel, tiket, dan paket wisata di Garuda Indonesia Travel Fair 2026 yang berlangsung 28-30 Agustus di JICC Jakarta.",
+  "image": "assets/img/injourney-tawarkan-promo-bundling-di-gatf-2026.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T17:51:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463223-ramaikan-garuda-indonesia-travel-fair-2026-injourney-group-dorong-pengalaman-wisata-terintegrasi",
+  "tags": [
+   "InJourney",
+   "Garuda Indonesia Travel Fair",
+   "BUMN Pariwisata",
+   "Promo Wisata"
+  ],
+  "body": [
+   "InJourney, holding BUMN aviasi dan pariwisata, kembali ambil bagian di Garuda Indonesia Travel Fair (GATF) 2026 yang berlangsung 28 hingga 30 Agustus di Jakarta International Convention Center. Dalam pameran ini, InJourney Group menawarkan paket terintegrasi yang menggabungkan layanan bandara, hotel, destinasi wisata, dan retail dalam satu kesatuan, sehingga pengunjung bisa mendapat diskon lintas layanan BUMN pariwisata di satu tempat.",
+   "Promo dijual lewat tiga jalur, yaitu booth travel agent, booth PT Aero Globe Indonesia (AGI), dan booth InJourney sendiri. Lewat travel agent dan AGI, InJourney memberi harga khusus untuk hotel, paket wisata kunjungan candi, dan paket MotoGP. Sementara di booth InJourney, tersedia bundling paket wisata gabungan dari berbagai anak usaha InJourney Group.",
+   "Rincian promo paling konkret datang dari InJourney Hospitality, yang memberi tarif khusus mulai Rp400.000 nett per kamar per malam di 49 hotel yang tersebar di Bali, Yogyakarta, Labuan Bajo, Lombok, Bandung, dan sejumlah kota lain. Ada tambahan diskon 5 persen untuk paket menginap 3 hari 2 malam maupun 4 hari 3 malam, ditambah sejumlah privilese perjalanan eksklusif lainnya.",
+   "Direktur Komersial InJourney, Veronica H. Sisilia, mengatakan partisipasi di GATF 2026 ditujukan untuk mendorong penjualan dan transaksi sekaligus memperkuat brand dan sinergi antaranggota InJourney Group dalam mendukung pariwisata nasional."
+  ],
+  "fotoAdegan": "Poolside villas with palm trees at a tropical Indonesian beach resort, sun loungers arranged neatly in early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a9167556e89b-injourney-sebagai-holding-bumn-di-sektor-aviasi-dan-pariwisata-kembali-memperkuat-kehadirannya-dalam-ajang-garuda-indonesia-travel-fair-gatf-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara jual, bukan kebijakan baru. InJourney kembali membundel tiket, kamar hotel, dan paket wisata dari anak-anak usahanya jadi satu paket promo di pameran GATF, sesuatu yang memang rutin dilakukan sejak holding pariwisata BUMN ini terbentuk. Yang terdampak langsung adalah konsumen pemburu tiket dan kamar murah, serta jaringan hotel dan agen perjalanan seperti Aero Globe Indonesia yang jadi mitra penjualan. Berita ini tidak menyebut target atau hasil transaksi dari partisipasi GATF tahun-tahun sebelumnya, jadi belum bisa dibaca apakah strategi bundling lintas anak usaha ini benar-benar mendongkrak penjualan atau sekadar rutinitas promosi tahunan. Yang perlu dicermati adalah angka realisasi penjualan pascapameran yang biasanya baru diketahui setelah GATF 2026 selesai pada 30 Agustus.",
+  "imageV": "mtdcxhu9"
+ },
+ {
+  "slug": "danantara-gelar-expo-properti-di-nice-pik2-tangerang",
+  "category": "Bisnis",
+  "title": "Danantara Gelar Expo Properti di [NICE] PIK2 Tangerang",
+  "deck": "Danantara Indonesia menggelar Housing Expo 2026 di NICE, PIK2, Tangerang, 27-30 Agustus, menawarkan lebih dari 120.000 unit hunian dari 130 pengembang.",
+  "image": "assets/img/danantara-gelar-expo-properti-di-nice-pik2-tangerang.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T16:33:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463197-danantara-pilih-nice-untuk-penyelenggaraan-danantara-housing-expo-2026-perkuat-ekosistem-hunian-dan-properti-nasional",
+  "tags": [
+   "Danantara",
+   "properti",
+   "NICE",
+   "PIK2"
+  ],
+  "body": [
+   "Danantara Indonesia menggelar Danantara Housing Expo 2026 di Nusantara International Convention Exhibition (NICE), kawasan PIK2, Tangerang, pada 27 hingga 30 Agustus 2026. Pameran ini penting bagi calon pembeli rumah karena mengumpulkan lebih dari 120.000 unit hunian, mulai dari rumah tapak hingga apartemen, dari lebih dari 130 pengembang swasta maupun BUMN dalam satu lokasi.",
+   "Acara ini sekaligus menjadi ajang perkenalan NICE sebagai venue pameran skala besar milik PT Bangun Kosambi Sukses Tbk (CBDK), yang mulai beroperasi sejak Agustus 2025. CBDK sendiri tercatat mengantongi cadangan lahan atau land bank seluas 676 hektare di kawasan PIK2, Tangerang, Banten, dengan strategi membangun kawasan terintegrasi berbasis distrik bisnis yang menggabungkan fungsi hunian dan usaha dalam satu kawasan.",
+   "Untuk mempermudah transaksi, pengunjung expo bisa langsung mengurus pembiayaan rumah dari bank-bank anggota himpunan bank milik negara (Himbara) serta Bank Syariah Indonesia (BSI) yang turut hadir di lokasi pameran. Dengan begitu, proses melihat unit dan mengajukan kredit pemilikan rumah bisa dilakukan dalam satu rangkaian kunjungan tanpa perlu mendatangi kantor bank secara terpisah."
+  ],
+  "fotoAdegan": "Wide interior of a modern exhibition hall filled with small architectural models of houses and apartment blocks, visitors walking past, bright overhead lighting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a9155030bb45-danantara-pilih-nice-untuk-penyelenggaraan-danantara-housing-expo-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah NICE, gedung pameran milik CBDK yang mulai beroperasi sejak Agustus 2025, dipakai sebagai lokasi pameran perumahan skala nasional yang menggabungkan lebih dari 130 pengembang swasta dan BUMN plus opsi kredit dari bank-bank pelat merah anggota Himbara serta Bank Syariah Indonesia (BSI) dalam satu acara. Yang langsung terdampak adalah calon pembeli rumah yang bisa membandingkan lebih dari 120.000 unit sekaligus, para pengembang peserta pameran, dan CBDK selaku pengelola kawasan PIK2 dengan cadangan lahan 676 hektare. Yang belum bisa disimpulkan dari data ini adalah apakah kolaborasi Danantara dengan pengembang swasta semacam ini akan berlanjut jadi pola rutin untuk mendorong penjualan properti nasional, atau cuma dukungan sekali jalan untuk satu kawasan. Yang perlu dipantau adalah hasil transaksi setelah expo ditutup pada 30 Agustus, yaitu jumlah unit yang benar-benar terjual dan nilai kredit yang dicairkan lewat Himbara dan BSI, karena itu akan menunjukkan apakah format pameran gabungan seperti ini efektif mendongkrak penjualan properti dibanding pameran milik pengembang tunggal.",
+  "imageV": "mtdcxic6"
+ },
+ {
+  "slug": "kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg",
+  "category": "Industri",
+  "title": "Kadin Siapkan 4 Jurus Perkuat Pasokan [Protein] MBG",
+  "deck": "Kadin Indonesia mengusulkan empat program penguatan ekosistem protein, dari hilirisasi hingga digitalisasi rantai pasok, untuk mendukung program Makan Bergizi Gratis.",
+  "image": "assets/img/kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T14:30:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463145-dukung-mbg-kadin-siapkan-4-jurus-perkuat-pasokan-protein-dari-hulu-hingga-hilir",
+  "tags": [
+   "Kadin",
+   "MBG",
+   "Protein",
+   "Pertanian"
+  ],
+  "body": [
+   "Kadin Indonesia melalui Satuan Tugas Protein mengajukan empat program untuk memperkuat pasokan protein nasional yang mendukung program Makan Bergizi Gratis (MBG). Usulan ini disampaikan langsung kepada Menteri Pertanian Amran Sulaiman dalam audiensi pada Jumat, 28 Agustus 2026, mengingat MBG membutuhkan pasokan protein hewani yang stabil untuk jutaan penerima manfaat setiap harinya.",
+   "Ketua Satgas Protein Kadin, Cecep Muhammad Wahyudin, merinci empat program tersebut, yaitu hilirisasi produk pertanian dan peternakan yang berkaitan dengan protein, desentralisasi peternakan ayam petelur ke lebih banyak daerah, pengembangan kawasan sapi perah, serta digitalisasi sistem dari sektor hulu hingga hilir. Menurut Cecep, keempat program itu diarahkan untuk membangun ekosistem protein yang lebih terintegrasi dan melibatkan pelaku usaha di berbagai daerah.",
+   "Audiensi ini juga dihadiri Wakil Ketua Umum Bidang Pertanian Kadin Indonesia, Devi Erna Rachmawati, yang turut membahas agenda strategis penguatan ekosistem protein nasional bersama Kementerian Pertanian. Dalam pertemuan itu, Kadin menyampaikan sejumlah bentuk kerja sama yang dinilai bisa segera dikonkretkan dengan kementerian tersebut."
+  ],
+  "fotoAdegan": "Workers checking egg trays inside a modern poultry layer barn in rural Indonesia, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/10/6a50fceaadca9-ilustrasi-pegawai-sppg-menata-puluhan-ompreng-berisi-mbg-untuk-didistribusikan-ke-siswa-sekolah-di-kabupaten-sleman-di-yogyakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas usulan program, belum ada keputusan yang sudah berjalan. Kadin mengusulkan empat langkah, yaitu mengolah produk peternakan lebih lanjut sebelum dijual, menyebar peternakan ayam petelur ke lebih banyak daerah, membangun kawasan khusus sapi perah, dan mendigitalkan pencatatan rantai pasok dari peternak sampai ke penerima MBG. Pihak yang paling terdampak adalah peternak ayam dan sapi perah di daerah, karena merekalah yang akan diajak masuk ke ekosistem baru ini, sementara penerima manfaat akhirnya adalah siswa penerima MBG yang butuh pasokan protein stabil. Berita ini belum menyebut anggaran, target produksi, atau jadwal pelaksanaan, jadi arah kebijakannya masih sulit dibaca. Yang perlu ditunggu adalah hasil konkret dari kerja sama Kadin dan Kementerian Pertanian yang disebut akan segera direalisasikan, termasuk apakah nanti ada kesepakatan tertulis yang memuat angka dan target yang jelas.",
+  "imageV": "mtdcxj6k"
+ },
+ {
+  "slug": "pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026",
+  "category": "Bisnis",
+  "title": "PIK 2 Jadi Lokasi Pameran [Danantara] Housing Expo 2026",
+  "deck": "NICE di kawasan PIK 2 menjadi tuan rumah Danantara Housing Expo 2026 pada 27-30 Agustus, sekaligus menandai satu tahun operasional venue seluas sekitar 40 hektare itu.",
+  "image": "assets/img/pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T13:53:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463153-menjadi-tuan-rumah-danantara-housing-expo-2026-nice-pik-2-buktikan-kesiapan-fasilitas-skala-masif",
+  "tags": [
+   "NICE PIK 2",
+   "Danantara Housing Expo",
+   "MICE",
+   "pameran properti"
+  ],
+  "body": [
+   "Nusantara International Convention Exhibition (NICE) di kawasan PIK 2, Tangerang, resmi menjadi lokasi penyelenggaraan Danantara Housing Expo 2026 yang berlangsung pada 27 hingga 30 Agustus 2026. Pameran properti berskala besar ini sekaligus menjadi ujian bagi kesiapan NICE menampung acara dengan jumlah peserta dan pengunjung yang masif.",
+   "NICE diklaim sebagai pusat konvensi dan eksibisi terintegrasi terbesar di Asia Tenggara, berdiri di lahan sekitar 40 hektare dan dikelola oleh PT Industri Pameran Nusantara. Danantara Housing Expo 2026 disebut memobilisasi ribuan pengunjung dan ratusan pengembang properti dalam satu acara, sehingga menuntut pengaturan logistik dan tata ruang yang presisi selama empat hari pelaksanaan.",
+   "Managing Director NICE PIK 2, Ryan Adrian, menyebut penyelenggaraan expo ini bertepatan dengan satu tahun masa soft opening NICE. Ia mengatakan proses pematangan operasional selama setahun terakhir berjalan baik, sehingga fasilitas tersebut dinilai siap beroperasi pada kapasitas maksimal untuk menyelenggarakan pameran berskala besar ke depannya, termasuk mengelola pembangunan booth, arus logistik berat, dan kepadatan pengunjung.",
+   "Bagi NICE, penunjukan sebagai tuan rumah Danantara Housing Expo 2026 menjadi bagian dari upaya memperkuat posisi di industri MICE serta membangun kemitraan lintas sektor. Perusahaan menyebut fleksibilitas ruang pameran yang dimiliki memungkinkan penyelenggaraan acara dengan tingkat kerumitan tinggi, sekaligus menjadi modal untuk menarik penyelenggara acara besar lainnya di masa mendatang."
+  ],
+  "fotoAdegan": "Visitors walking between rows of housing developer exhibition booths inside a vast, brightly lit convention hall.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a912e6182cb3-nusantara-international-convention-exhibition-nice-di-kawasan-pik-2-tangerang_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini sebenarnya bukan soal pameran propertinya, melainkan soal venue-nya: NICE PIK 2 menandai satu tahun sejak soft opening dengan mengklaim sanggup menampung pameran skala besar, yakni ribuan pengunjung dan ratusan pengembang dalam satu acara selama empat hari. Yang terdampak langsung adalah pengembang properti yang berpameran dan calon pembeli rumah yang datang, karena mereka bergantung pada kelancaran logistik dan tata ruang pameran seluas itu. Klaim kesiapan fasilitas ini datang dari pengelola venue sendiri, tanpa angka independen soal jumlah pengunjung riil atau nilai transaksi yang benar-benar terjadi selama pameran berlangsung. Yang akan memastikan apakah klaim kapasitas maksimal ini terbukti, bukan sekadar promosi peluncuran venue, adalah data resmi pengunjung dan transaksi setelah expo ini selesai pada 30 Agustus, serta apakah NICE kemudian benar mendapat kontrak menyelenggarakan acara besar berikutnya.",
+  "imageV": "mtdcxjn8"
+ },
+ {
   "slug": "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
   "category": "Global",
   "title": "Indonesia-Maroko [Reaktivasi] Perundingan Dagang, Target 2027",
@@ -272,7 +539,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
   "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "28 Agustus 2026",
   "isoDate": "2026-08-28T10:31:41+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463111-ihsg-dibuka-hijau-di-653572-akankah-penguatan-berlanjut-dan-bikin-investor-happy",
@@ -748,7 +1015,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -2051,7 +2318,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -2786,7 +3053,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/galangan-kapal.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

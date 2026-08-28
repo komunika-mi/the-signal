@@ -5,6 +5,176 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
+  "category": "UMKM",
+  "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
+  "deck": "Pertamina kembali membuka program pembinaan UMK Academy 2026 dengan tambahan dua kelas baru, Go Green dan Go Aggregator. Pendaftaran online dibuka hingga 31 Agustus 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus.jpg",
+  "imageV": "mtdcxesl",
+  "tags": [
+   "UMK Academy",
+   "Pertamina",
+   "UMKM",
+   "pendaftaran UMK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463293-umk-academy-2026-pertamina-kembali-dibuka-kesempatan-lokal-naik-kelas-dan-perluas-pasar-hingga-global"
+ },
+ {
+  "slug": "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
+  "category": "Industri",
+  "title": "PART Rambah Bisnis Non-[Otomotif], Incar Laba Rp44,16 M",
+  "deck": "Cipta Perdana Lancar (PART) memproyeksikan laba bersih 2026 naik 46,18 persen menjadi Rp44,16 miliar seiring perluasan bisnis fabrikasi mesin di luar otomotif.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m.jpg",
+  "imageV": "mtdcxfcj",
+  "tags": [
+   "PART",
+   "otomotif",
+   "diversifikasi bisnis",
+   "laba bersih"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463277-part-genjot-bisnis-non-otomotif-laba-bersih-2026-diproyeksi-tembus-rp4416-miliar"
+ },
+ {
+  "slug": "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
+  "category": "Perbankan",
+  "title": "bank bjb [Borong] Dua Penghargaan OJK di Hari Menabung",
+  "deck": "bank bjb meraih dua penghargaan OJK di Puncak Hari Indonesia Menabung 2026 atas program edukasi keuangan ke sekolah dan masyarakat.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung.jpg",
+  "imageV": "mtdcxfxt",
+  "tags": [
+   "bank bjb",
+   "OJK",
+   "literasi keuangan",
+   "Hari Indonesia Menabung"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463258-bank-bjb-borong-dua-penghargaan-ojk-di-puncak-hari-indonesia-menabung-2026"
+ },
+ {
+  "slug": "pertamina-patra-niaga-raih-penghargaan-csr-bencana",
+  "category": "BUMN",
+  "title": "Pertamina Patra Niaga Raih [Penghargaan] CSR Bencana",
+  "deck": "Pertamina Patra Niaga meraih Impact Commitment Awards 2026 atas program CSR, termasuk respons bencana banjir Sumatera dan gempa NTT hingga ke daerah terpencil.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/pertamina-patra-niaga-raih-penghargaan-csr-bencana.jpg",
+  "imageV": "mtdcxges",
+  "tags": [
+   "Pertamina Patra Niaga",
+   "CSR",
+   "bencana alam",
+   "NTT"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463245-pertamina-patra-niaga-sabet-impact-commitment-awards-respons-bencana-sumatera-hingga-ntt-diapresiasi"
+ },
+ {
+  "slug": "pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct",
+  "category": "Pasar Modal",
+  "title": "Pendapatan [BNBR] Naik 45,8% Usai Konsolidasi CCT",
+  "deck": "Pendapatan Bakrie & Brothers naik 45,84% menjadi Rp2,59 triliun pada semester I 2026, didorong konsolidasi penuh tol Cimanggis-Cibitung dan pertumbuhan anak usaha VKTR serta BMI.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct.jpg",
+  "imageV": "mtdcxgvr",
+  "tags": [
+   "BNBR",
+   "Bakrie & Brothers",
+   "VKTR",
+   "rights issue"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463240-kinerja-bnbr-semester-i-2026-pendapatan-naik-4584-jadi-rp259-triliun-dan-laba-usaha-melonjak-283"
+ },
+ {
+  "slug": "telin-gandeng-empat-mitra-global-di-batic-2026",
+  "category": "Teknologi",
+  "title": "Telin Gandeng [Empat] Mitra Global di BATIC 2026",
+  "deck": "Anak usaha Telkom ini menjalin empat kerja sama sekaligus di BATIC 2026, dari penguatan kabel bawah laut internasional hingga integrasi data center dengan Grup Djarum.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/telin-gandeng-empat-mitra-global-di-batic-2026.jpg",
+  "imageV": "mtdcxhcl",
+  "tags": [
+   "Telin",
+   "Telkom",
+   "BATIC 2026",
+   "kabel bawah laut"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463228-melalui-empat-kemitraan-strategis-di-batic-2026-telin-perluas-jejak-ekosistem-digital-global"
+ },
+ {
+  "slug": "injourney-tawarkan-promo-bundling-di-gatf-2026",
+  "category": "BUMN",
+  "title": "InJourney Tawarkan [Promo] Bundling di GATF 2026",
+  "deck": "InJourney Group menghadirkan promo bundling hotel, tiket, dan paket wisata di Garuda Indonesia Travel Fair 2026 yang berlangsung 28-30 Agustus di JICC Jakarta.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/injourney-tawarkan-promo-bundling-di-gatf-2026.jpg",
+  "imageV": "mtdcxhu9",
+  "tags": [
+   "InJourney",
+   "Garuda Indonesia Travel Fair",
+   "BUMN Pariwisata",
+   "Promo Wisata"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463223-ramaikan-garuda-indonesia-travel-fair-2026-injourney-group-dorong-pengalaman-wisata-terintegrasi"
+ },
+ {
+  "slug": "danantara-gelar-expo-properti-di-nice-pik2-tangerang",
+  "category": "Bisnis",
+  "title": "Danantara Gelar Expo Properti di [NICE] PIK2 Tangerang",
+  "deck": "Danantara Indonesia menggelar Housing Expo 2026 di NICE, PIK2, Tangerang, 27-30 Agustus, menawarkan lebih dari 120.000 unit hunian dari 130 pengembang.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/danantara-gelar-expo-properti-di-nice-pik2-tangerang.jpg",
+  "imageV": "mtdcxic6",
+  "tags": [
+   "Danantara",
+   "properti",
+   "NICE",
+   "PIK2"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463197-danantara-pilih-nice-untuk-penyelenggaraan-danantara-housing-expo-2026-perkuat-ekosistem-hunian-dan-properti-nasional"
+ },
+ {
+  "slug": "kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg",
+  "category": "Industri",
+  "title": "Kadin Siapkan 4 Jurus Perkuat Pasokan [Protein] MBG",
+  "deck": "Kadin Indonesia mengusulkan empat program penguatan ekosistem protein, dari hilirisasi hingga digitalisasi rantai pasok, untuk mendukung program Makan Bergizi Gratis.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg.jpg",
+  "imageV": "mtdcxj6k",
+  "tags": [
+   "Kadin",
+   "MBG",
+   "Protein",
+   "Pertanian"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463145-dukung-mbg-kadin-siapkan-4-jurus-perkuat-pasokan-protein-dari-hulu-hingga-hilir"
+ },
+ {
+  "slug": "pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026",
+  "category": "Bisnis",
+  "title": "PIK 2 Jadi Lokasi Pameran [Danantara] Housing Expo 2026",
+  "deck": "NICE di kawasan PIK 2 menjadi tuan rumah Danantara Housing Expo 2026 pada 27-30 Agustus, sekaligus menandai satu tahun operasional venue seluas sekitar 40 hektare itu.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026.jpg",
+  "imageV": "mtdcxjn8",
+  "tags": [
+   "NICE PIK 2",
+   "Danantara Housing Expo",
+   "MICE",
+   "pameran properti"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463153-menjadi-tuan-rumah-danantara-housing-expo-2026-nice-pik-2-buktikan-kesiapan-fasilitas-skala-masif"
+ },
+ {
   "slug": "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
   "category": "Global",
   "title": "Indonesia-Maroko [Reaktivasi] Perundingan Dagang, Target 2027",
@@ -175,7 +345,7 @@ var ARTICLES = [
   "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
   "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
   "date": "28 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -470,7 +640,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -1275,7 +1445,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -1728,7 +1898,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/galangan-kapal.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6338,168 +6508,6 @@ var ARTICLES = [
    "peringkat kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9a9925245f_4903cf2666.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus",
-  "category": "Aksi Korporasi",
-  "title": "BAJA Masuk Daftar [Pemantauan Khusus] BEI Mulai 19 Agustus",
-  "deck": "Bursa Efek Indonesia memasukkan saham Saranacentral Bajatama (BAJA) ke daftar Efek Dalam Pemantauan Khusus, efektif 19 Agustus 2026, terkait riwayat suspensi perdagangan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/baja-masuk-daftar-pemantauan-khusus-bei-mulai-19-agustus.jpg",
-  "tags": [
-   "BAJA",
-   "Pemantauan Khusus",
-   "BEI",
-   "Saranacentral Bajatama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bdf97c5c2a_1f5adc96c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tama-pemegang-saham-jual-2-5-juta-saham-suara-ke-8-92",
-  "category": "Aksi Korporasi",
-  "title": "TAMA: Pemegang Saham Jual [2,5 Juta] Saham, Suara ke 8,92%",
-  "deck": "Pemegang saham TAMA, Verah Wahyudi S Wong, menjual 2,5 juta saham pada 13-14 Agustus 2026 seharga Rp276 dan Rp272 per saham, menurunkan hak suaranya dari 9,13% menjadi 8,92%.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMA",
-   "Lancartama Sejati",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-0721-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-tanggapi-permintaan-bei-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Tanggapi Permintaan BEI soal [Volatilitas] Sahamnya",
-  "deck": "Diminta penjelasan bursa atas gejolak transaksi sahamnya, Venteny Fortuna International menyatakan tidak mengetahui adanya informasi material yang memicunya.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a01fd2b7dd_ff42f94a29.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toba-modal-disetor-bertambah-usai-mesop-karyawan-dieksekusi",
-  "category": "Aksi Korporasi",
-  "title": "TOBA: Modal Disetor Bertambah usai [MESOP] Karyawan Dieksekusi",
-  "deck": "TBS Energi Utama menambah modal ditempatkan dan disetor setelah program kepemilikan saham manajemen dan karyawan yang digelar 21 Mei 2026 resmi diakui pemerintah pada 18 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOBA",
-   "MESOP",
-   "modal disetor",
-   "TBS Energi Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4012c60dc8_7b184af081.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.862, Ditekan Minyak dan Utang Luar Negeri",
-  "deck": "Rupiah ditutup melemah 64 poin ke Rp17.862 per dolar AS, tertekan kenaikan harga minyak dunia dan naiknya utang luar negeri Indonesia.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-862-ditekan-minyak-dan-utang-luar-negeri.jpg",
-  "imageV": "msykxs62",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "nilai tukar",
-   "utang luar negeri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460823-rupiah-ditutup-melemah-rp17862-ditekan-lonjakan-harga-minyak-dan-utang-luar-negeri-indonesia"
- },
- {
-  "slug": "avia-bukukan-laba-bersih-rp435-miliar-di-kuartal-ii-2026",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Bukukan Laba Bersih [Rp435 Miliar] di Kuartal II 2026",
-  "deck": "Penjualan AVIA naik 19,7 persen dan laba bersih melonjak 31,6 persen pada kuartal kedua 2026, ditopang dua kali kenaikan harga jual di tengah tekanan biaya bahan baku dan rupiah.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "earnings call",
-   "kinerja keuangan",
-   "industri cat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dfdcec109a_084f708dce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgka-direktur-jual-habis-100-saham-tidak-langsung",
-  "category": "Aksi Korporasi",
-  "title": "TGKA: Direktur Jual Habis 100 Saham [Tidak Langsung]",
-  "deck": "Direktur Tigaraksa Satria, Ketut Hendra Juliawan, melepas seluruh 100 saham TGKA yang dimilikinya secara tidak langsung senilai sekitar Rp502.500.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGKA",
-   "Tigaraksa Satria",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-3017-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-saham-kepemilikan",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama Tambah Saham [Kepemilikan]",
-  "deck": "Tunggal Jaya Investama membeli 1,6 juta saham IMPC pada 13 Agustus 2026 senilai Rp1.434 per lembar, namun hak suaranya tetap 37,12 persen.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "kepemilikan saham",
-   "pemegang saham",
-   "Impack Pratama Industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-3549-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elsa-panggil-rupslb-9-september-bahas-perombakan-pengurus",
-  "category": "Aksi Korporasi",
-  "title": "ELSA Panggil RUPSLB 9 September, Bahas [Perombakan] Pengurus",
-  "deck": "Pertamina Hulu Energi selaku pengendali dengan 51,103 persen saham meminta RUPSLB Elnusa membahas perubahan susunan direksi dan komisaris, digelar 9 September 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "RUPSLB",
-   "Pertamina Hulu Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/655b815286_ad0bb794ba.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober",
-  "category": "Aksi Korporasi",
-  "title": "TAFS Siapkan [Rp223,5 Miliar] untuk Lunasi Obligasi Oktober",
-  "deck": "PT Toyota Astra Financial Service (TAFS) menyatakan dana pelunasan pokok obligasi senilai Rp223,565 miliar yang jatuh tempo 3 Oktober 2026 sudah siap dari kas internal perusahaan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/tafs-siapkan-rp223-5-miliar-untuk-lunasi-obligasi-oktober.jpg",
-  "imageV": "msyfzbsp",
-  "tags": [
-   "TAFS",
-   "obligasi",
-   "pasar modal",
-   "pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4afa6aca9c_cfb8d42cb6.pdf",
   "sourceLabel": "IDX"
  }
 ];

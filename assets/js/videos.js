@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "qrtoWz74ZV4",
+  "title": "Kadin Indonesia Kunjungi PT VKTR Sakti Industries di Magelang",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia menggelar Go-See and Pitch Trip ke PT VKTR Sakti Industries di Magelang bersama Menteri Lingkungan Hidup Mohammad Jumhur Hidayat.",
+  "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menggambarkan upaya dunia usaha mendekatkan diri dengan pelaku industri manufaktur dalam negeri.",
+  "terbit": "2026-08-28T16:33:04+00:00"
+ },
+ {
   "id": "yM3shtnuhPc",
   "title": "BI Gelar Pameran UMKM Karya Kreatif Indonesia 2026",
   "category": "UMKM",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
   "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha.",
   "terbit": "2026-08-26T11:28:29+00:00"
- },
- {
-  "id": "SCpPAhkbsOQ",
-  "title": "Audiensi DPR RI dengan Serikat Buruh PT Pos Indonesia",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
-  "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional.",
-  "terbit": "2026-08-26T11:27:51+00:00"
  }
 ];

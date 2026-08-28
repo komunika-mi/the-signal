@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "yM3shtnuhPc",
+  "title": "BI Gelar Pameran UMKM Karya Kreatif Indonesia 2026",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Bank Indonesia menggelar pameran UMKM bertajuk Karya Kreatif Indonesia (KKI) 2026 yang membukukan total penjualan Rp177,21 miliar.",
+  "takeaway": "Angka penjualan ini menjadi indikator geliat UMKM binaan Bank Indonesia dalam mendorong perputaran ekonomi domestik.",
+  "terbit": "2026-08-28T06:25:31+00:00"
+ },
+ {
   "id": "GkxhMXx3UTA",
   "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
   "category": "Makroekonomi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
   "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional.",
   "terbit": "2026-08-26T11:27:51+00:00"
- },
- {
-  "id": "1KLQyv9o92A",
-  "title": "Pembangunan Fasilitas Pengolahan Sampah Jadi Listrik Dimulai",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
-  "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur.",
-  "terbit": "2026-08-26T09:06:24+00:00"
  }
 ];

@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
+  "category": "Global",
+  "title": "Indonesia-Maroko [Reaktivasi] Perundingan Dagang, Target 2027",
+  "deck": "Wamendag Roro mendorong percepatan perundingan dagang RI-Maroko dengan target rampung 2027, seiring nilai perdagangan bilateral yang tumbuh 37 persen pada awal 2026.",
+  "image": "assets/img/indonesia-maroko-reaktivasi-perundingan-dagang-target-2027.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T06:50:28.866Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/reaktivasi-perundingan-perdagangan-indonesia-maroko-wamendag-roro-dorong-negosiasi-tuntas-di-2027",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Indonesia-Maroko",
+   "perdagangan bilateral",
+   "Kementerian Perdagangan",
+   "ekspor"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri mendorong Indonesia dan Maroko mempercepat perundingan perjanjian dagang bilateral yang sempat terhenti, dengan target penyelesaian menyeluruh pada 2027. Hal ini disampaikan dalam pertemuan daring dengan Wakil Menteri Luar Negeri Bidang Perdagangan Luar Negeri Maroko, Omar Hejira, pada Kamis (27/8). Kesepakatan ini penting karena akan menentukan kepastian akses pasar dan aturan main bagi eksportir kedua negara.",
+   "Kerangka kerja yang disepakati mencakup penyusunan jadwal perundingan yang lebih realistis, kelanjutan negosiasi berdasarkan draf naskah yang sudah ada, serta penetapan target akses pasar yang seimbang bagi kedua pihak. Pihak Maroko mengusulkan pembentukan semacam gugus tugas bersama untuk mengawal pelaksanaan kesepakatan dan mempercepat tindak lanjut perundingan. Wamendag Roro juga mengundang pemerintah dan pelaku usaha Maroko untuk hadir dalam Trade Expo Indonesia 2026 yang berlangsung 14-18 Oktober di ICE BSD City, Tangerang.",
+   "Kementerian Perdagangan menyebut sejumlah komoditas Indonesia yang berpotensi besar tapi belum banyak terserap pasar Maroko, yaitu amonia anhidrat, minyak sawit mentah dan olahannya, besi dan baja setengah jadi, serta udang beku. Sebaliknya, Maroko menjadi salah satu pemasok penting pupuk dan alumunium bagi Indonesia. Kedua negara juga saling memosisikan diri sebagai pintu masuk ke kawasan masing-masing, Maroko ke pasar Afrika dan Eropa, Indonesia ke pasar ASEAN dan Indo-Pasifik.",
+   "Nilai perdagangan Indonesia-Maroko tercatat US$235 juta pada 2025, naik 33 persen dari tahun sebelumnya, dan berlanjut tumbuh 37 persen secara tahunan pada Januari-Mei 2026 menjadi US$180 juta. Ekspor Indonesia ke Maroko pada 2025 mencapai US$154,9 juta, didominasi kopi, ban pneumatik baru, lemak dan minyak nabati atau hewani, margarin dan olahan makanan, serta batu bara. Impor dari Maroko sebesar US$80,1 juta, terutama berupa pupuk mineral atau kimia, pupuk fosfat, alumunium mentah, dan pakaian wanita. Sepanjang 2021-2025, tren ekspor Indonesia ke Maroko tumbuh rata-rata 4,95 persen per tahun, dengan Maroko berada di posisi ke-74 sebagai tujuan ekspor Indonesia."
+  ],
+  "fotoAdegan": "Dock workers loading palm oil barrels and coffee sacks onto a cargo ship at a bustling Indonesian port, midday light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/jnWrhkq0479xfYU1HVsCzYa3NNG3wMqhYd0F6FDR.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini adalah perundingan dagang RI-Maroko yang sempat mandek kini diaktifkan kembali dengan target rampung pada 2027, lengkap dengan jadwal kerja dan draf naskah yang sudah ada sejak sebelumnya. Yang terdampak langsung adalah eksportir komoditas seperti amonia, minyak sawit, besi baja setengah jadi, dan udang beku yang selama ini belum banyak masuk pasar Maroko, serta importir pupuk dan alumunium asal Maroko. Ada dua kemungkinan arah dari sini, perundingan benar tuntas sesuai target dan membuka akses pasar yang lebih pasti bagi kedua sisi, atau tenggat 2027 ini bernasib seperti banyak target perundingan dagang lain yang molor karena rumitnya tawar-menawar akses pasar. Sinyal paling dekat untuk melihat arah ini ada pada kehadiran delegasi Maroko di Trade Expo Indonesia pada 14-18 Oktober 2026, serta apakah putaran perundingan formal berikutnya benar terjadwal setelah momentum itu.",
+  "imageV": "mtclk09z"
+ },
+ {
+  "slug": "ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun",
+  "category": "Industri",
+  "title": "Ekspor Kakao RI [Melonjak] Tiga Kali Lipat dalam Lima Tahun",
+  "deck": "Kemendag mencatat ekspor kakao Indonesia tembus US$3,6 miliar pada 2025, sembari mendorong standar keberlanjutan sawit dan kakao agar makin bersaing di pasar global.",
+  "image": "assets/img/ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T06:50:20.678Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hadiri-forum-kakao-dan-kelapa-sawit-mendag-budi-santoso-dorong-peningkatan-nilai-tambah-dan-keberlanjutan",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "kakao",
+   "kelapa sawit",
+   "perdagangan internasional",
+   "ekspor"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mendorong pelaku usaha kakao dan kelapa sawit untuk memperkuat ketertelusuran asal produk serta praktik produksi berkelanjutan, seiring makin ketatnya syarat yang dipasang pembeli internasional. Dalam forum regional tentang komoditas berkelanjutan di Jakarta, ia menyebut pembeli global kini tidak hanya mempertimbangkan harga, tetapi juga keamanan pangan dan keandalan rantai pasok. Ini penting bagi eksportir Indonesia karena akses ke pasar premium makin bergantung pada kemampuan memenuhi standar tersebut, bukan sekadar daya saing harga.",
+   "Kementerian Perdagangan mengklaim nilai ekspor kakao Indonesia mencapai US$3,6 miliar pada 2025, naik dari US$1,21 miliar pada 2021, dengan produk kakao olahan mendominasi. Indonesia juga telah diakui Organisasi Kakao Internasional (ICCO) sebagai produsen kakao bercita rasa khas, status yang menurut Kemendag membuka peluang masuk ke segmen pasar kakao premium.",
+   "Dari sisi perjanjian dagang, Kemendag mencatat 25 perjanjian internasional sudah berjalan, 2 sedang diratifikasi, dan 13 lainnya masih dalam perundingan. Kementerian ini menyebut tengah mempercepat penandatanganan kerja sama dengan Uni Eropa dan Amerika Serikat untuk membuka akses pasar sawit dan kakao. Untuk mendukung pelaku usaha memanfaatkan perjanjian yang sudah ada, Kemendag mengandalkan 46 kantor perwakilan dagang di 33 negara tujuan ekspor.",
+   "Sepanjang Januari-Juli 2026, Kemendag mengklaim telah memfasilitasi pertemuan bisnis yang melibatkan 1.021 pelaku usaha dengan potensi transaksi US$275,61 juta. Pada penyelenggaraan Trade Expo Indonesia 2025, total transaksi yang tercatat mencapai US$22,8 miliar, dengan US$474,7 juta di antaranya disumbang produk UMKM. Kemendag mengundang pelaku usaha kakao dan sawit mengikuti Trade Expo Indonesia ke-41 yang dijadwalkan berlangsung pada 14-18 Oktober 2026."
+  ],
+  "fotoAdegan": "Farmers spreading cocoa beans to dry on woven mats under the sun at a rural collection yard, morning light.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/xcqJGqvi5v5GO2czxJWJPfPxzN8zqfxCtHZJjgUF.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret adalah status perjanjian dagang Indonesia: dari sekitar 40 perjanjian yang disebut Kemendag, 25 sudah berjalan, 2 sedang diratifikasi, dan 13 masih dalam perundingan, termasuk dengan Uni Eropa dan Amerika Serikat, dua pasar besar yang menuntut standar keberlanjutan ketat untuk produk sawit dan kakao. Yang terdampak adalah petani dan eksportir kedua komoditas itu, karena akses ke pasar tersebut bergantung pada kemampuan memenuhi syarat ketertelusuran, yakni kewajiban menunjukkan asal usul dan proses produksi barang, bukan cuma soal harga bersaing. Pemerintah menyebut tengah mempercepat penandatanganan perjanjian dengan UE dan AS, tapi keduanya belum rampung, jadi ini masih berupa upaya, bukan hasil yang pasti. Yang akan menunjukkan apakah upaya ini membuahkan hasil adalah apakah perjanjian dengan UE dan AS benar ditandatangani, dan progresnya kemungkinan mulai terlihat saat Trade Expo Indonesia ke-41 digelar pada 14-18 Oktober 2026.",
+  "imageV": "mtclk6ib"
+ },
+ {
   "slug": "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
   "category": "Aksi Korporasi",
   "title": "AGII Setop Sisa PUB Sukuk [Rp1,18 Triliun], Andalkan Sindikasi",
@@ -79,6 +135,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of server racks with blinking indicator lights in a dim data center corridor, technician walking past with a tablet",
   "takeaway": "Laporan ini netral bagi kinerja keuangan ELIT karena penambahan dua komisaris tidak mengubah ekuitas, arus kas, beban bunga, atau jumlah saham beredar perseroan. Yang berubah hanya komposisi pengawas, komisaris independen bertambah dari satu menjadi dua orang, sehingga porsi pengawas independen di dewan komisaris naik dan itu biasanya dibaca pasar sebagai perbaikan tata kelola, bukan sinyal soal kesehatan keuangan perusahaan. Kehadiran Sandiaga Salahuddin Uno, mantan pejabat publik, sebagai komisaris berpotensi menambah jaringan relasi bisnis dan pemerintahan bagi ELIT meski dampaknya tidak bisa diukur dari dokumen ini. Yang perlu dipantau berikutnya adalah proses persetujuan perubahan Anggaran Dasar Pasal 3 oleh Kementerian Hukum dan HAM menyusul penyesuaian klasifikasi usaha ke KBLI 2025, serta efektivitas kerja susunan komisaris baru ini sampai masa jabatannya berakhir pada RUPS Tahunan 2031.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-pegadaian-turun-antam-rp2-759-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Pegadaian [Turun], Antam Rp2.759.000/Gram",
+  "deck": "Harga emas Galeri24, Antam, dan UBS di Pegadaian kompak turun pada Jumat, dengan penurunan UBS mencapai Rp25.000 per gram.",
+  "image": "assets/img/harga-emas-pegadaian-turun-antam-rp2-759-000-gram.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T11:01:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463116-harga-emas-pegadaian-jumat-turun-antam-rp2759-juta-dan-ubs-rp2729-juta-per-gram",
+  "tags": [
+   "harga emas",
+   "pegadaian",
+   "antam",
+   "ubs"
+  ],
+  "body": [
+   "Harga emas batangan yang dijual Pegadaian kompak turun pada Jumat, 28 Agustus 2026, untuk ketiga merek yang tersedia yaitu Galeri24, Antam, dan UBS. Penurunan ini penting diketahui masyarakat yang berencana membeli atau menjual emas dalam waktu dekat, karena bisa memengaruhi jumlah rupiah yang harus dikeluarkan atau diterima per gram.",
+   "Berdasarkan data di laman Pegadaian pukul 10.35 WIB, harga emas Galeri24 tercatat Rp2.657.000 per gram, turun Rp24.000 dari Rp2.681.000 sehari sebelumnya. Emas Antam berada di Rp2.759.000 per gram, turun Rp5.000 dari Rp2.764.000. Sementara harga emas UBS turun paling dalam, dari Rp2.754.000 menjadi Rp2.729.000 per gram atau berkurang Rp25.000.",
+   "Pegadaian menjual emas Galeri24 dalam pilihan ukuran mulai 0,5 gram hingga 1 kilogram, dengan harga ukuran 1 kilogram mencapai Rp2.574.156.000. Emas Antam tersedia dari ukuran 0,5 gram sampai 100 gram, di mana ukuran 100 gram dibanderol Rp270.003.000. Adapun emas UBS ditawarkan dalam ukuran 0,5 gram hingga 500 gram, dan Pegadaian mengingatkan bahwa seluruh harga ini dapat berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "Close-up of stacked small gold bars on a velvet tray under soft jewelry-counter lighting, blurred background, no visible text or price tags",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/14/691757f547533-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah harga jual emas batangan di Pegadaian untuk tiga merek, Galeri24, Antam, dan UBS, yang semuanya turun dibanding sehari sebelumnya, dengan penurunan UBS paling besar yakni Rp25.000 per gram dan Antam paling kecil hanya Rp5.000 per gram. Yang terdampak adalah masyarakat yang berencana membeli atau menjual emas batangan lewat Pegadaian dalam waktu dekat, karena selisih besaran penurunan antarmerek ini bisa memengaruhi pilihan mereka. Namun data satu hari belum cukup untuk menyimpulkan apakah ini awal tren pelemahan harga emas atau sekadar fluktuasi harian biasa, sebab harga emas Pegadaian mengikuti naik turun harga emas dunia yang bisa berbalik arah kapan saja. Yang perlu dipantau adalah harga emas Pegadaian pada hari-hari berikutnya, karena penurunan yang berlanjut beberapa hari berturut-turut baru bisa dibaca sebagai tren, bukan koreksi sehari.",
+  "imageV": "mtclk7ic"
  },
  {
   "slug": "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
@@ -186,6 +268,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ihsg-menguat-0-21-ke-6-535-sideways-jelang-akhir-pekan",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
+  "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
+  "image": "assets/img/bursa-layar.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:31:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463111-ihsg-dibuka-hijau-di-653572-akankah-penguatan-berlanjut-dan-bikin-investor-happy",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "The Fed"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) di Bursa Efek Indonesia membuka perdagangan Jumat, 28 Agustus 2026, dengan kenaikan 13,97 poin atau 0,21 persen ke level 6.535,72. Indeks LQ45, yang berisi 45 saham unggulan, ikut naik 1,99 poin atau 0,31 persen ke 643,06. Penguatan ini penting karena menjadi sinyal pertama redanya tekanan jual yang membayangi pasar saham domestik dalam beberapa hari terakhir.",
+   "Sebelum pembukaan hijau ini, investor sempat dibuat waswas oleh kekhawatiran terhadap stabilitas keamanan dan politik dalam negeri, yang membuat IHSG cenderung tertekan. Meredanya kekhawatiran tersebut pagi ini direspons positif oleh pelaku pasar, meski belum tentu cukup kuat untuk mengubah arah tren dalam beberapa hari ke depan.",
+   "Kepala Riset Phintraco Sekuritas Ratna Lim memperkirakan IHSG akan bergerak sideways, alias di rentang terbatas, yaitu 6.450 sampai 6.580, hingga penutupan pekan ini. Menurut Ratna, arah pasar turut ditentukan oleh pidato Chairman The Fed Kevin Warsh dalam simposium tahunan Jackson Hole, yang menjadi salah satu acuan investor global dalam membaca arah suku bunga Amerika Serikat.",
+   "Di dalam negeri, perhatian investor juga tertuju pada agenda legislasi, termasuk target DPR RI untuk mengesahkan Rancangan Undang-Undang Perampasan Aset menjadi undang-undang paling lambat 15 Desember 2026. Dengan proyeksi sideways tersebut, penguatan pada sesi pembukaan belum menjamin IHSG akan bertahan di zona hijau sampai penutupan perdagangan."
+  ],
+  "fotoAdegan": "Modern glass high-rise buildings of Jakarta's financial district reflecting morning sunlight, busy street traffic below, wide shot",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Penguatan pembukaan 0,21 persen ini datang setelah beberapa hari IHSG tertekan oleh kekhawatiran keamanan dan politik, tapi analis Phintraco sendiri memperkirakan indeks cuma bergerak sideways di kisaran 6.450 sampai 6.580, bukan tren naik yang meyakinkan. Yang paling terdampak adalah investor di saham-saham unggulan yang tergabung dalam indeks LQ45, karena kelompok ini biasanya paling cepat bereaksi terhadap sentimen risiko dalam negeri. Ada dua kemungkinan arah sampai penutupan sore ini, kalau redanya isu keamanan-politik berlanjut dan pidato Kevin Warsh di simposium Jackson Hole tidak mengejutkan pasar, IHSG berpeluang menutup hari di zona hijau, sebaliknya kalau isu domestik kembali memanas atau sinyal dari The Fed condong menahan suku bunga tinggi, tekanan jual bisa muncul lagi. Konfirmasinya akan terlihat dari harga penutupan IHSG sore ini serta isi pidato Warsh yang jadi sorotan pasar global hari ini.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
   "category": "Aksi Korporasi",
   "title": "MAYA panggil RUPSLB soal [pergantian] direksi-komisaris 24 Sep",
@@ -210,6 +319,59 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a modern glass office tower in Jakarta's financial district, taken from below at a dramatic angle, late afternoon light",
   "takeaway": "Pemanggilan ini bersifat netral bagi penilaian fundamental karena isinya baru sebatas mengundang rapat, belum mengungkap siapa yang akan masuk atau keluar dari jajaran Direksi dan Dewan Komisaris. Perubahan susunan pengurus bank tidak langsung mengubah pos keuangan seperti modal, arus kas, atau laba per saham, tapi tetap dicermati pelaku pasar karena siapa yang memimpin bank berpengaruh pada arah strategi dan tingkat kepercayaan nasabah maupun investor terhadap manajemen. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 24 September 2026 dan pengumuman resmi hasil rapat yang akan menyebutkan nama-nama pengurus baru, serta batas akhir pemberian kuasa atau suara elektronik pada 23 September 2026 pukul 12.00 WIB bagi pemegang saham yang ingin ikut menentukan hasilnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal",
+  "category": "Makroekonomi",
+  "title": "Purbaya Siapkan [Layer] Cukai Baru Tekan Rokok Ilegal",
+  "deck": "Menkeu Purbaya menyiapkan lapisan tarif cukai baru untuk menarik pedagang rokok ilegal masuk ke sistem legal, sementara yang bertahan ilegal akan ditindak tegas.",
+  "image": "assets/img/purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T10:24:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463107-purbaya-siapkan-layer-cukai-baru-pedagang-rokok-ilegal-diperingatkan-tak-bisa-lagi-main-main",
+  "tags": [
+   "cukai rokok",
+   "rokok ilegal",
+   "CHT",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan pemerintah tengah menyiapkan lapisan atau layer baru dalam struktur tarif cukai hasil tembakau (CHT) sebagai salah satu cara menekan peredaran rokok ilegal di Indonesia. Rokok ilegal adalah rokok yang beredar tanpa membayar cukai, sehingga merugikan penerimaan negara dan membuat rokok legal kalah bersaing dari sisi harga.",
+   "Menurut Purbaya, layer baru itu akan memberi ruang bagi pedagang dan produsen rokok yang selama ini beroperasi ilegal untuk masuk ke sistem resmi dengan membayar cukai sesuai tarif pada layer tersebut. Ia mengaku sudah bertemu langsung dengan sejumlah pedagang rokok ilegal dan menyampaikan tawaran itu, sekaligus peringatan bagi yang tetap memilih jalur ilegal. \"Yakin (efektif tekan rokok ilegal). Karena saya sudah ketemu para pedagang rokok ilegal itu. Saya bilang saya kasih ruang. Nanti kalau sudah jadi, masuk kita ke layer baru itu. Kalau anda masih main-main, saya sikat,\" kata Purbaya di DPR RI, Senayan, Jakarta, Kamis, 27 Agustus 2026.",
+   "Rencana ini masih dalam tahap awal dan belum dibahas bersama Komisi XI DPR RI, mitra kerja Kementerian Keuangan di bidang anggaran dan keuangan negara. Purbaya mengatakan pembahasan itu baru akan dimulai setelah pembahasan Rancangan APBN 2027 selesai. \"Kami masih belum ketemu DPR untuk hal itu, Komisi XI ya. Kita akan ketemu Komisi XI setelah anggaran diselesaikan,\" ujarnya."
+  ],
+  "fotoAdegan": "Workers sorting stacks of cigarette cartons in a warehouse loading area, forklift nearby, industrial lighting, labels blurred in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a68b471c4abb-rokok-ilegal-hasil-penindakan-satpol-pp-di-yogyakarta-bersama-instansi-terkait-selasa-2872026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan besaran tarif cukai yang sudah ada, melainkan rencana menambah satu lapisan atau layer baru dalam struktur tarif CHT, yang dirancang khusus untuk menjaring rokok yang selama ini beredar tanpa bayar cukai. Pihak yang langsung terdampak adalah pedagang dan produsen rokok ilegal, karena mereka ditawari opsi masuk ke sistem legal dengan membayar cukai sesuai layer baru itu, atau menghadapi tindakan tegas jika tetap bertahan di luar sistem. Arah kebijakan ini belum bisa disimpulkan karena berita ini belum menyebut besaran tarif layer baru maupun batas produksi yang membedakannya dari layer cukai yang sudah berlaku. Yang perlu ditunggu adalah hasil pembahasan dengan Komisi XI DPR, yang menurut Purbaya baru akan dimulai setelah Rancangan APBN 2027 disahkan.",
+  "imageV": "mtclk8kj"
+ },
+ {
+  "slug": "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi",
+  "category": "Energi",
+  "title": "Aspebindo Perkuat Ketahanan Energi Lewat [Bioenergi]",
+  "deck": "Aspebindo menggelar summit bioenergi dan meninjau pabrik pengolah sampah jadi bahan bakar di Jakarta Utara, bagian dari perluasan bisnis ke energi terbarukan.",
+  "image": "assets/img/aspebindo-perkuat-ketahanan-energi-lewat-bioenergi.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T01:37:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463068-aspebindo-sokong-ketahanan-energi-nasional-lewat-bioenergi",
+  "tags": [
+   "bioenergi",
+   "energi terbarukan",
+   "Aspebindo",
+   "RDF"
+  ],
+  "body": [
+   "Asosiasi Pemasok Energi, Mineral, dan Batubara Indonesia (Aspebindo) menggelar Aspebindo Bioenergy Business Summit 2026 di Jakarta pada Kamis, 27 Agustus 2026, mengusung tema percepatan ekosistem bioenergi untuk ketahanan energi nasional dan pertumbuhan ekonomi hijau. Forum ini menandai langkah asosiasi yang selama ini identik dengan bisnis mineral dan batu bara untuk memperluas cakupannya ke energi terbarukan, khususnya bioenergi.",
+   "Ketua Panitia Aspebindo Bioenergy Business Summit 2026, M. Hadi Nainggolan, mengatakan acara ini mempertemukan potensi sumber daya, kebutuhan industri, dukungan kebijakan, dan akses investasi. Ia menyebut summit akan diikuti rangkaian kegiatan lanjutan berupa forum kebijakan, business matching, penguatan kapasitas anggota, penjajakan proyek, dan pengembangan talenta, dengan tujuan menjadikan bioenergi bisnis yang layak dan terukur bagi ketahanan energi serta ekonomi daerah.",
+   "Rangkaian forum juga mencakup kunjungan lapangan ke pabrik Refuse Derived Fuel (RDF) di Rorotan, Jakarta Utara, yang mengolah sampah menjadi bahan bakar pengganti batu bara. Menurut Hadi, kunjungan ini memberi gambaran langsung soal proses pengolahan sampah tersebut dan kebutuhan operasional fasilitas energi berbasis limbah. Hasil summit selanjutnya akan ditindaklanjuti lewat komunikasi dengan pemerintah, pemerintah daerah, mitra industri, lembaga riset, perguruan tinggi, dan calon investor.",
+   "Ketua Umum DPP Aspebindo, Anggawira, menjelaskan bahwa perluasan arah bisnis organisasi ini didorong oleh perkembangan kebijakan energi dan bertambahnya peluang usaha di sektor energi terbarukan. Ia menilai pembangunan industri bioenergi membutuhkan ekosistem usaha yang saling terhubung, sehingga forum ini diarahkan untuk mempertemukan pengambil kebijakan dengan perusahaan yang akan menjalankan investasi dan operasional di lapangan."
+  ],
+  "fotoAdegan": "Workers sorting municipal waste into fuel pellets on a conveyor line at an industrial recycling plant, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/28/6a908309c356a-aspebindo-sokong-ketahanan-energi-nasional-lewat-bioenergi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan pemerintah, melainkan arah bisnis Aspebindo sendiri, dari asosiasi yang selama ini fokus di mineral dan batu bara, kini merambah ke bioenergi, termasuk lewat kunjungan ke pabrik RDF di Rorotan. RDF adalah singkatan dari refuse derived fuel, yaitu bahan bakar pengganti batu bara yang diolah dari sampah kota, sehingga sampah berpotensi menjadi sumber energi bagi industri. Yang terdampak langsung adalah anggota Aspebindo yang berpeluang mengalihkan sebagian usahanya ke bioenergi, serta pemerintah daerah dan calon investor yang diajak terlibat dalam proyek ke depan. Namun forum ini baru sebatas pertemuan dan komitmen komunikasi lanjutan, belum ada angka investasi, kapasitas proyek, atau aturan pemerintah yang diumumkan, sehingga arah sesungguhnya baru akan terlihat dari proyek atau kerja sama konkret yang lahir dari tindak lanjut summit ini.",
+  "imageV": "mtclk9i9"
  },
  {
   "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
@@ -586,7 +748,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -1889,7 +2051,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -2388,7 +2550,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

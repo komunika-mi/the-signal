@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
+  "category": "Global",
+  "title": "Indonesia-Maroko [Reaktivasi] Perundingan Dagang, Target 2027",
+  "deck": "Wamendag Roro mendorong percepatan perundingan dagang RI-Maroko dengan target rampung 2027, seiring nilai perdagangan bilateral yang tumbuh 37 persen pada awal 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/indonesia-maroko-reaktivasi-perundingan-dagang-target-2027.jpg",
+  "imageV": "mtclk09z",
+  "tags": [
+   "Indonesia-Maroko",
+   "perdagangan bilateral",
+   "Kementerian Perdagangan",
+   "ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/reaktivasi-perundingan-perdagangan-indonesia-maroko-wamendag-roro-dorong-negosiasi-tuntas-di-2027",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun",
+  "category": "Industri",
+  "title": "Ekspor Kakao RI [Melonjak] Tiga Kali Lipat dalam Lima Tahun",
+  "deck": "Kemendag mencatat ekspor kakao Indonesia tembus US$3,6 miliar pada 2025, sembari mendorong standar keberlanjutan sawit dan kakao agar makin bersaing di pasar global.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun.jpg",
+  "imageV": "mtclk6ib",
+  "tags": [
+   "kakao",
+   "kelapa sawit",
+   "perdagangan internasional",
+   "ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hadiri-forum-kakao-dan-kelapa-sawit-mendag-budi-santoso-dorong-peningkatan-nilai-tambah-dan-keberlanjutan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
   "category": "Aksi Korporasi",
   "title": "AGII Setop Sisa PUB Sukuk [Rp1,18 Triliun], Andalkan Sindikasi",
@@ -51,6 +87,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c68937a2a1_c9e96d570d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-pegadaian-turun-antam-rp2-759-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Pegadaian [Turun], Antam Rp2.759.000/Gram",
+  "deck": "Harga emas Galeri24, Antam, dan UBS di Pegadaian kompak turun pada Jumat, dengan penurunan UBS mencapai Rp25.000 per gram.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/harga-emas-pegadaian-turun-antam-rp2-759-000-gram.jpg",
+  "imageV": "mtclk7ic",
+  "tags": [
+   "harga emas",
+   "pegadaian",
+   "antam",
+   "ubs"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463116-harga-emas-pegadaian-jumat-turun-antam-rp2759-juta-dan-ubs-rp2729-juta-per-gram"
  },
  {
   "slug": "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
@@ -117,6 +170,21 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ihsg-menguat-0-21-ke-6-535-sideways-jelang-akhir-pekan",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
+  "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "LQ45",
+   "The Fed"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463111-ihsg-dibuka-hijau-di-653572-akankah-penguatan-berlanjut-dan-bikin-investor-happy"
+ },
+ {
   "slug": "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
   "category": "Aksi Korporasi",
   "title": "MAYA panggil RUPSLB soal [pergantian] direksi-komisaris 24 Sep",
@@ -131,6 +199,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d87144cbf9_b59b20af76.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal",
+  "category": "Makroekonomi",
+  "title": "Purbaya Siapkan [Layer] Cukai Baru Tekan Rokok Ilegal",
+  "deck": "Menkeu Purbaya menyiapkan lapisan tarif cukai baru untuk menarik pedagang rokok ilegal masuk ke sistem legal, sementara yang bertahan ilegal akan ditindak tegas.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal.jpg",
+  "imageV": "mtclk8kj",
+  "tags": [
+   "cukai rokok",
+   "rokok ilegal",
+   "CHT",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463107-purbaya-siapkan-layer-cukai-baru-pedagang-rokok-ilegal-diperingatkan-tak-bisa-lagi-main-main"
+ },
+ {
+  "slug": "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi",
+  "category": "Energi",
+  "title": "Aspebindo Perkuat Ketahanan Energi Lewat [Bioenergi]",
+  "deck": "Aspebindo menggelar summit bioenergi dan meninjau pabrik pengolah sampah jadi bahan bakar di Jakarta Utara, bagian dari perluasan bisnis ke energi terbarukan.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/aspebindo-perkuat-ketahanan-energi-lewat-bioenergi.jpg",
+  "imageV": "mtclk9i9",
+  "tags": [
+   "bioenergi",
+   "energi terbarukan",
+   "Aspebindo",
+   "RDF"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463068-aspebindo-sokong-ketahanan-energi-nasional-lewat-bioenergi"
  },
  {
   "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
@@ -368,7 +470,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -1173,7 +1275,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -1481,7 +1583,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6398,108 +6500,6 @@ var ARTICLES = [
    "pembiayaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4afa6aca9c_cfb8d42cb6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPO, Ajukan [Restrukturisasi] Obligasi IV",
-  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan IV Tahap I 2024 ke RUPO 1 September 2026 untuk menyetujui permohonan restrukturisasi demi penyehatan keuangan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/ptpp-panggil-rupo-ajukan-restrukturisasi-obligasi-iv.jpg",
-  "imageV": "msyfzu0w",
-  "tags": [
-   "PTPP",
-   "restrukturisasi utang",
-   "obligasi",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288d20205e_f1ed3aca85.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPS Pemegang Sukuk untuk [Restrukturisasi] Utang",
-  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Seri B ke RUPSu 1 September 2026 untuk meminta persetujuan restrukturisasi utang demi penyehatan keuangan perseroan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/ptpp-panggil-rups-pemegang-sukuk-untuk-restrukturisasi-utang.jpg",
-  "imageV": "msyg0gof",
-  "tags": [
-   "PTPP",
-   "sukuk",
-   "restrukturisasi utang",
-   "RUPSu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9af2e33be_9aa735ca5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPO Obligasi III, Ajukan [Restrukturisasi] Lagi",
-  "deck": "PTPP mengundang pemegang Obligasi Berkelanjutan III Tahap I 2021 Seri B ke RUPO 1 September 2026 untuk membahas permohonan restrukturisasi, instrumen utang ketiga yang direstrukturisasi hari ini.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/ptpp-panggil-rupo-obligasi-iii-ajukan-restrukturisasi-lagi.jpg",
-  "imageV": "msyg16xc",
-  "tags": [
-   "PTPP",
-   "obligasi",
-   "restrukturisasi",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2d7edd2cd3_1edebfdbdd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-direktur-dan-komisaris-kompak-mengundurkan-diri",
-  "category": "Aksi Korporasi",
-  "title": "SANF: [Direktur] dan Komisaris Kompak Mengundurkan Diri",
-  "deck": "SANF menerima surat pengunduran diri Direktur Handri Susanto dan Komisaris Arietta Adrianti pada 18 Agustus 2026, perusahaan menyebut tidak ada dampak ke operasional maupun keuangan.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/sanf-direktur-dan-komisaris-kompak-mengundurkan-diri.jpg",
-  "imageV": "msyg1nhh",
-  "tags": [
-   "SANF",
-   "direksi",
-   "komisaris",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06a0e52a59_f714c23c1a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-seluruh-direksi-mundur-imbas-ganti-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "MBSS: Seluruh Direksi Mundur Imbas [Ganti Pengendali]",
-  "deck": "Seluruh Direksi dan Komisaris MBSS mengundurkan diri serentak menyusul perubahan pengendali ke PT Wibowo Group Capital. RUPSLB penetapan pengurus baru digelar 17 September 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/mbss-seluruh-direksi-mundur-imbas-ganti-pengendali.jpg",
-  "imageV": "msyg28jt",
-  "tags": [
-   "MBSS",
-   "perubahan pengendali",
-   "pergantian direksi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0698c36867_0e1fdd3787.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hgii-direksi-robin-sunyoto-tambah-375-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "HGII: Direksi Robin Sunyoto [Tambah] 375.000 Saham",
-  "deck": "Direksi HGII Robin Sunyoto membeli 375.000 saham secara bertahap pada 10-14 Agustus 2026, senilai sekitar Rp44,8 juta, menaikkan hak suaranya dari 23 persen menjadi 24 persen.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/hgii-direksi-robin-sunyoto-tambah-375-000-saham.jpg",
-  "imageV": "msyg36al",
-  "tags": [
-   "HGII",
-   "kepemilikan saham",
-   "direksi",
-   "Robin Sunyoto"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-5041-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

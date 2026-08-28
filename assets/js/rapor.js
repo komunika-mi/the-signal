@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-28T06:24:44.153+07:00",
+ "diperbarui": "2026-08-29T06:21:33.062+07:00",
  "entri": [
+  {
+   "id": "2026-08-28-3",
+   "edisi": "2026-08-28",
+   "benang": "Bursa Bertahan di Rentang Sempit, Pengawasan Berlanjut",
+   "klaim": "Arah yang terlihat adalah pasar bertahan di rentang sempit, dengan IHSG diperkirakan tetap sideways di kisaran 6.450 sampai 6.580 hingga akhir pekan.",
+   "penanda": "Apakah IHSG keluar dari kisaran 6.450-6.580 sebelum penutupan pekan ini.",
+   "tenggat": "2026-08-28",
+   "tenggatLabel": "sebelum penutupan pekan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-28-2",
+   "edisi": "2026-08-28",
+   "benang": "Diplomasi Dagang Melebar ke Pasar dan Standar Baru",
+   "klaim": "Kedua berita ini mengarah ke hal yang sama, yaitu perluasan pasar ekspor ke luar tujuan tradisional sekaligus penyesuaian standar produk ke tingkat yang dituntut pasar maju.",
+   "penanda": "Rampungnya dua perjanjian yang sedang diratifikasi atau kemajuan konkret dalam perundingan dengan Uni Eropa dalam beberapa bulan ke depan.",
+   "tenggat": null,
+   "tenggatLabel": "beberapa bulan ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-28-1",
+   "edisi": "2026-08-28",
+   "benang": "Kas Emiten Kecil Kian Terbelah, Bukan Seragam",
+   "klaim": "Bukti yang ada saat ini condong ke arah kasus per emiten, bukan tren makro tunggal, karena TUFI dan OLIV membaik lewat pelunasan utang dan penjualan persediaan sementara tekanan MTFN berasal dari biaya bahan baku yang spesifik pada bisnis migasnya.",
+   "penanda": "Laporan keuangan kuartal III 2026 yang terbit Oktober-November 2026, apakah tekanan margin seperti MTFN meluas ke emiten migas dan komoditas lain atau tetap terbatas.",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "laporan keuangan kuartal III 2026 yang terbit Oktober-November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-27-2",
    "edisi": "2026-08-27",

@@ -1,46 +1,50 @@
 // Signal Harian. Dibuat otomatis oleh scripts/signal-harian.mjs.
 var HARIAN = {
- "tanggal": "2026-08-27",
- "tanggalLabel": "Kamis, 27 Agustus 2026",
- "judul": "Arus Kas Emiten Tertekan, BEI Perketat Pengawasan Saham",
- "ringkas": "Hari ini menegaskan dua pola yang mulai terlihat sejak awal pekan: tekanan arus kas yang kemarin terpusat di BUMN Karya kini melebar ke sektor lain, sementara Bursa Efek Indonesia terus meminta penjelasan atas sejumlah saham yang bergerak tak wajar tanpa informasi material baru.",
+ "tanggal": "2026-08-28",
+ "tanggalLabel": "Jumat, 28 Agustus 2026",
+ "judul": "Kas Emiten Terbelah, Dagang RI Melebar, Bursa Masih Waspada",
+ "ringkas": "Kesehatan kas emiten kecil semakin terbelah antara yang membaik dan yang memburuk, sementara diplomasi dagang membuka jalan ke pasar baru dan bursa saham masih bergerak di rentang sempit di tengah kewaspadaan yang berlanjut dari hari sebelumnya.",
  "benang": [
   {
-   "judul": "Tekanan Arus Kas Meluas ke Berbagai Sektor Emiten",
-   "isi": "Sinyal tekanan arus kas yang kemarin terpusat di BUMN Karya kini melebar ke sektor lain. Pefindo memangkas peringkat utang PTPP dari idBBB+ ke idBB dengan status pengawasan negatif, menyusul rencana restrukturisasi kupon dan jatuh tempo obligasi serta sukuk. Di saat yang sama, arus kas operasi AGAR anjlok 57,3 persen meski labanya positif, aset EMAS tumbuh 30 persen tapi ditopang utang bank baru US$149 juta yang sebelumnya nol, dan BBRM membatalkan kontrak kapal senilai US$22 juta karena gagal memenuhi syarat jaminan dalam tenggat 90 hari. BKDP pun mulai 28 Agustus masuk daftar pemantauan khusus bursa akibat indikator keuangan bermasalah. Pola ini mengarah pada meluasnya tekanan pembiayaan jangka pendek di luar konstruksi BUMN Karya, dan yang akan mempertegasnya adalah hasil rapat pemegang obligasi PTPP yang menentukan skema restrukturisasi kupon dan jatuh temponya."
+   "judul": "Kas Emiten Kecil Kian Terbelah, Bukan Seragam",
+   "isi": "TUFI menyatakan sudah menyiapkan Rp817,24 miliar untuk melunasi obligasi yang jatuh tempo 27 September, dan OLIV mencatat utang ke pemegang saham pengendali turun 94,85 persen sembari kas operasional naik ke Rp2,29 miliar pada semester I 2026. Di sisi lain, Capitalinc Investment (MTFN) mencatat defisit ekuitas yang melebar dari Rp538,7 miliar menjadi Rp564,9 miliar dalam periode yang sama, meski pendapatannya naik 15 persen, karena kenaikan itu habis oleh membengkaknya biaya bahan baku. Pola ini melanjutkan sekaligus mempertegas benang arus kas tertekan dari edisi kemarin, tapi hari ini terlihat lebih terbelah antara emiten yang membaik lewat aksi spesifik dan yang tertekan biaya produksi. Bukti yang ada saat ini condong ke arah kasus per emiten, bukan tren makro tunggal, karena TUFI dan OLIV membaik lewat pelunasan utang dan penjualan persediaan, sementara tekanan MTFN berasal dari biaya bahan baku yang spesifik pada bisnis migasnya. Pembedanya adalah struktur biaya dan sektor masing-masing perusahaan, dan itu akan terlihat dari laporan keuangan kuartal III 2026 yang terbit Oktober-November, apakah tekanan margin seperti MTFN meluas ke emiten migas dan komoditas lain atau tetap terbatas."
   },
   {
-   "judul": "BEI Perketat Pengawasan Saham Tanpa Pemicu Jelas",
-   "isi": "Permintaan penjelasan Bursa Efek Indonesia atas pergerakan saham tak wajar muncul berturut-turut hari ini. BPII melaporkan volume transaksinya melonjak lebih dari empat kali lipat dengan harga naik 2,41 persen pada 20 Agustus, sementara PJHB dan PART sama-sama menegaskan tidak ada informasi material di balik lonjakan transaksi mereka. DOOH bahkan diminta menggelar public expose insidentil pada 4 September untuk menjelaskan pergerakan harga sahamnya, dan BKDP masuk pemantauan khusus mulai 28 Agustus. Pola ini melanjutkan sinyal kemarin, yakni volatilitas pasar yang belum tentu bersandar pada perubahan fundamental. Yang akan menegaskan apakah ada informasi tersembunyi atau murni spekulasi adalah hasil public expose DOOH pada 4 September nanti."
+   "judul": "Diplomasi Dagang Melebar ke Pasar dan Standar Baru",
+   "isi": "Kemendag mengaktifkan kembali perundingan dagang dengan Maroko dengan target rampung 2027, didorong nilai perdagangan bilateral yang sudah tumbuh 37 persen pada awal 2026. Bersamaan dengan itu, ekspor kakao Indonesia tercatat tembus US$3,6 miliar pada 2025, melonjak tiga kali lipat dalam lima tahun, sembari mendorong standar keberlanjutan sawit dan kakao dari total sekitar 40 perjanjian dagang yang dimiliki Indonesia, 25 sudah berjalan, 2 sedang diratifikasi, dan 13 masih dalam perundingan termasuk dengan Uni Eropa dan Amerika Serikat. Kedua berita ini mengarah ke hal yang sama, yaitu perluasan pasar ekspor ke luar tujuan tradisional sekaligus penyesuaian standar produk ke tingkat yang dituntut pasar maju. Yang akan menguatkan arah ini adalah rampungnya dua perjanjian yang sedang diratifikasi atau kemajuan konkret dalam perundingan dengan Uni Eropa dalam beberapa bulan ke depan."
+  },
+  {
+   "judul": "Bursa Bertahan di Rentang Sempit, Pengawasan Berlanjut",
+   "isi": "IHSG resmi berada di 6.518,12 hari ini, turun tipis 0,06 persen, meski sempat dibuka menguat 0,21 persen ke 6.535,72 pagi tadi setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, dan analis Phintraco memperkirakan pergerakan tetap sideways di kisaran 6.450 sampai 6.580 hingga akhir pekan. Di saat yang sama, Steady Safe (SAFE) diminta penjelasan Bursa usai harganya melonjak 24,87 persen dalam sehari pada 24 Agustus, dan perseroan menegaskan tidak ada informasi material di baliknya. Dua hal ini melanjutkan benang dari edisi kemarin soal pengawasan Bursa yang diperketat tanpa pemicu jelas, menunjukkan pasar masih berhati-hati dan otoritas terus meminta klarifikasi setiap ada pergerakan harga tidak wajar. Arah yang terlihat adalah pasar bertahan di rentang sempit, dan yang akan mengujinya adalah apakah IHSG keluar dari kisaran 6.450-6.580 sebelum penutupan pekan ini."
   }
  ],
- "penutup": "Yang paling menentukan arah ke depan adalah hasil rapat pemegang obligasi PTPP soal skema restrukturisasi kupon dan jatuh tempo, serta apakah public expose DOOH pada 4 September nanti membuka informasi baru di balik pergerakan sahamnya.",
+ "penutup": "Yang paling menentukan besok adalah apakah IHSG bertahan di rentang 6.450-6.580 hingga penutupan pekan ini, dan bagaimana laporan keuangan kuartal III nanti menunjukkan apakah tekanan margin seperti pada MTFN tetap jadi kasus individual atau meluas.",
  "jumlahBahan": 24,
  "bahanSlug": [
-  "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
-  "bei-minta-dooh-gelar-public-expose-insidentil-bahas-saham",
-  "dild-pengadilan-tolak-gugatan-pkpu-bank-mayapada-ke-anak-usaha",
-  "pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026",
-  "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
-  "pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur",
-  "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
-  "bpii-jelaskan-ke-bei-lonjakan-transaksi-saham-20-agustus",
-  "diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem",
-  "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
-  "bkdp-masuk-daftar-pemantauan-khusus-bei-mulai-28-agustus-2026",
-  "pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan",
-  "banggar-dpr-soroti-banyak-typo-rapbn-2027",
-  "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
-  "ihsg-dibuka-melemah-tertekan-sentimen-minyak-dan-hormuz",
-  "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
-  "harga-emas-antam-hari-ini-turun-rp27-000-per-gram",
-  "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
-  "peringkat-utang-ptpp-anjlok-ke-idbb-sebelum-rupo-obligasi",
-  "pjhb-jawab-bursa-akui-tak-ada-info-di-balik-volatilitas-saham",
-  "dr-jadwalkan-delisting-20-waran-terstruktur-seri-t-33",
-  "part-konfirmasi-tak-ada-informasi-material-di-balik-volatilitas",
-  "inkp-lunasi-obligasi-dan-sukuk-rp2-49-triliun-pelunasan",
-  "nice-ganti-susunan-direksi-dan-komisaris-usai-rupslb"
+  "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
+  "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
+  "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
+  "pertamina-patra-niaga-raih-penghargaan-csr-bencana",
+  "pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct",
+  "telin-gandeng-empat-mitra-global-di-batic-2026",
+  "injourney-tawarkan-promo-bundling-di-gatf-2026",
+  "danantara-gelar-expo-properti-di-nice-pik2-tangerang",
+  "kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg",
+  "pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026",
+  "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
+  "ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun",
+  "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
+  "safe-beri-penjelasan-usai-harga-melonjak-24-87-dalam-sehari",
+  "elit-angkat-sandiaga-uno-jadi-komisaris-baru",
+  "harga-emas-pegadaian-turun-antam-rp2-759-000-gram",
+  "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
+  "mtfn-catat-defisit-ekuitas-rp564-9-miliar-per-juni-2026",
+  "oliv-utang-ke-pemegang-saham-turun-94-85-kas-naik-tajam",
+  "hatm-rilis-pmthmetd-640-juta-saham-ke-afiliasi-rp320-miliar",
+  "ihsg-menguat-0-21-ke-6-535-sideways-jelang-akhir-pekan",
+  "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
+  "purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal",
+  "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi"
  ],
- "dibuat": "2026-08-27T23:24:19.188Z"
+ "dibuat": "2026-08-28T23:20:48.720Z"
 };

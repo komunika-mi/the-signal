@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
+  "category": "Industri",
+  "title": "Ekspor Koral RI ke AS, Kalah Jauh dari [Jepang]",
+  "deck": "Mendag Busan melepas ekspor koral hidup senilai US$2.500 dari Banyuwangi ke AS, sementara ekspor koral nasional semester I 2026 hanya tumbuh 2,42 persen dan masih tertinggal jauh dari Jepang.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang.jpg",
+  "imageV": "mtdvipaq",
+  "tags": [
+   "ekspor koral",
+   "Kementerian Perdagangan",
+   "Banyuwangi",
+   "perikanan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tunjukkan-potensi-koral-budi-daya-di-pasar-global-mendag-busan-lepas-ekspor-koral-hidup-ke-as-1787916889",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi",
+  "category": "UMKM",
+  "title": "Kemendag Teken MoU [Campuspreneur] dengan Kampus di Banyuwangi",
+  "deck": "Kemendag menggandeng UNIDSOE Banyuwangi lewat program Campuspreneur untuk mencetak wirausaha ekspor baru, sementara program UMKM BISA Ekspor mencatat potensi transaksi US$333,68 juta pada Januari-Juli 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi.jpg",
+  "imageV": "mtdvj2du",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Campuspreneur",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-kuliah-umum-di-unidsoe-banyuwangi-mendag-busan-ajak-mahasiswa-coba-berwirausaha",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
   "category": "Aksi Korporasi",
   "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
@@ -6475,39 +6511,6 @@ var ARTICLES = [
    "insider"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-6979-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli",
-  "category": "UMKM",
-  "title": "UMKM Kerajinan Papua Rambah Pasar [Ekspor] Lewat BRI Peduli",
-  "deck": "PT MJEthnic Craft Indonesia asal Jayapura tumbuh dari toko daring kerajinan Papua menjadi distributor produk UMKM Nusantara setelah mengikuti Pelatihan Ekspor BRI Peduli.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/umkm-kerajinan-papua-rambah-pasar-ekspor-lewat-bri-peduli.jpg",
-  "imageV": "msypskwz",
-  "tags": [
-   "BRI Peduli",
-   "UMKM Papua",
-   "pelatihan ekspor",
-   "pemberdayaan UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460859-berkat-pelatihan-ekspor-bri-peduli-pt-mjethnic-craft-indonesia-dari-jayapura-angkat-budaya-lokal-menembus-pasar-internasional"
- },
- {
-  "slug": "giaa-jelaskan-ke-bursa-pemberhentian-sementara-direktur-niaga",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Jelaskan ke Bursa Pemberhentian Sementara [Direktur Niaga]",
-  "deck": "Garuda Indonesia menjawab permintaan penjelasan BEI soal pemberhentian sementara Direktur Niaga, termasuk aturan RUPS 90 hari dan siapa yang mengisi fungsi jabatan itu sementara ini.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/giaa-jelaskan-ke-bursa-pemberhentian-sementara-direktur-niaga.jpg",
-  "tags": [
-   "GIAA",
-   "Garuda Indonesia",
-   "Direktur Niaga",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
   "sourceLabel": "IDX"
  }
 ];

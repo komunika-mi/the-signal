@@ -3,6 +3,63 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
+  "category": "Industri",
+  "title": "Ekspor Koral RI ke AS, Kalah Jauh dari [Jepang]",
+  "deck": "Mendag Busan melepas ekspor koral hidup senilai US$2.500 dari Banyuwangi ke AS, sementara ekspor koral nasional semester I 2026 hanya tumbuh 2,42 persen dan masih tertinggal jauh dari Jepang.",
+  "image": "assets/img/ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T04:16:26.868Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tunjukkan-potensi-koral-budi-daya-di-pasar-global-mendag-busan-lepas-ekspor-koral-hidup-ke-as-1787916889",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor koral",
+   "Kementerian Perdagangan",
+   "Banyuwangi",
+   "perikanan"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso melepas ekspor koral hidup hasil budi daya PT Sri Kandi Aquarium dari Banyuwangi, Jawa Timur, ke Amerika Serikat pada Jumat (28/8). Nilai pengiriman itu tergolong kecil, hanya US$2.500 atau sekitar Rp41 juta, namun dijadikan momentum oleh Kementerian Perdagangan untuk mendorong pelaku usaha budi daya koral dan ikan hias memperluas pasar ekspornya.",
+   "PT Sri Kandi Aquarium bukan pemain baru di bisnis ini. Sepanjang 2025, perusahaan yang tergabung dalam Kelompok Pembudidaya Karang Hias Nusantara tersebut membukukan ekspor senilai US$450 ribu atau setara Rp7,8 miliar, dengan pengiriman rutin 6 hingga 15 kali sebulan ke AS, Uni Eropa, dan sejumlah negara Asia. Budi daya dilakukan langsung di perairan Selat Bali, dan perusahaan telah mengembangkan 27 jenis koral, di antaranya Acropora, Euphyllia, Alveopora, dan Montipora.",
+   "Secara nasional, nilai ekspor koral Indonesia pada Januari-Juni 2026 tercatat US$8,8 juta, naik 2,42 persen dibandingkan periode yang sama tahun sebelumnya sebesar US$8,5 juta. Pada 2025, Indonesia menempati posisi kedua eksportir koral dunia dengan pangsa 12,68 persen, di bawah Jepang yang menguasai 20,92 persen pasar. Total nilai ekspor koral Indonesia pada 2025 mencapai US$18,12 juta dengan volume 9,55 ton.",
+   "Pasar tujuan ekspor koral Indonesia pada 2025 didominasi Tiongkok senilai US$4,63 juta atau 25,57 persen dari total ekspor koral Indonesia ke dunia, disusul AS US$4,59 juta (25,37 persen), Vietnam US$1,78 juta (9,82 persen), Jerman US$863 ribu (4,76 persen), dan Inggris US$846 ribu (4,67 persen).",
+   "Kementerian Perdagangan menyebut memiliki 46 perwakilan perdagangan, terdiri atas atase perdagangan dan Indonesia Trade Promotion Center, di 33 negara yang bertugas mencari calon pembeli produk Indonesia di luar negeri, termasuk lewat penjajakan bisnis secara daring. Pemilik PT Sri Kandi Aquarium, I Ketut Sukandi, mengatakan proses ekspornya selama ini berjalan lancar, namun berharap perizinan antarkementerian dapat diintegrasikan secara otomatis agar administrasi ekspor lebih cepat."
+  ],
+  "fotoAdegan": "Underwater view of ornamental coral fragments mounted on frames in a shallow tropical strait, a diver inspecting coral growth nearby",
+  "fotoSumber": "https://www.kemendag.go.id/albums/BauPvQisDC9grnC8i8RnjFRCT0f0Yoh5W9yIannv.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari acara ini adalah data ekspor koral nasional yang disebut Kemendag: sepanjang Januari-Juni 2026 nilainya US$8,8 juta, naik tipis 2,42 persen dibanding periode sama tahun lalu. Pertumbuhan itu tergolong lambat mengingat Indonesia masih tertinggal jauh dari Jepang yang menguasai 20,92 persen pasar ekspor koral dunia pada 2025, hampir dua kali pangsa Indonesia yang 12,68 persen. Yang terdampak langsung adalah pembudi daya koral hias skala kecil dan menengah seperti PT Sri Kandi Aquarium dan kelompok pembudi daya di Banyuwangi, yang penghasilannya bergantung pada permintaan dari AS, Tiongkok, dan sejumlah negara Eropa. Pola ini mengarah pada strategi memperbanyak eksportir baru dan memperluas jaringan pasar lewat kantor dagang di luar negeri untuk mengejar ketertinggalan dari Jepang, ketimbang mengandalkan kenaikan volume dari eksportir yang sudah ada. Yang akan memastikan arah ini adalah data ekspor koral semester kedua 2026, yang akan menunjukkan apakah pertumbuhan tipis tersebut bisa dipercepat atau justru mandek.",
+  "imageV": "mtdvipaq"
+ },
+ {
+  "slug": "kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi",
+  "category": "UMKM",
+  "title": "Kemendag Teken MoU [Campuspreneur] dengan Kampus di Banyuwangi",
+  "deck": "Kemendag menggandeng UNIDSOE Banyuwangi lewat program Campuspreneur untuk mencetak wirausaha ekspor baru, sementara program UMKM BISA Ekspor mencatat potensi transaksi US$333,68 juta pada Januari-Juli 2026.",
+  "image": "assets/img/kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T04:16:16.836Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-kuliah-umum-di-unidsoe-banyuwangi-mendag-busan-ajak-mahasiswa-coba-berwirausaha",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Campuspreneur",
+   "Kemendag"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso menandatangani nota kesepahaman antara Kementerian Perdagangan dan Universitas Dr. Soekardjo (UNIDSOE) di Banyuwangi untuk menjalankan Program Campuspreneur, skema yang mendorong mahasiswa membangun usaha sendiri sejak kuliah. Penandatanganan ini berlangsung di sela kuliah umum bertema kebijakan perdagangan yang dihadiri Wakil Bupati Banyuwangi Mujiono dan Rektor UNIDSOE Soekardjo pada 28 Agustus 2026.",
+   "Lewat Campuspreneur, mahasiswa mendapat pelatihan pengembangan desain produk, akses pembiayaan, hingga strategi masuk pasar ekspor. Peserta yang lolos kurasi berkesempatan tampil di Trade Expo Indonesia 2026 pada 14-18 Oktober di Indonesia Convention Exhibition BSD City, Tangerang, lengkap dengan ruang promosi khusus dan fasilitasi pertemuan bisnis dengan calon pembeli asing.",
+   "Kemendag juga menjalankan program serupa untuk UMKM lewat skema UMKM BISA Ekspor, yang pada Januari-Juli 2026 mencatatkan pesanan pembelian dan potensi transaksi sekitar US$333,68 juta. Program ini didukung jaringan 46 kantor perwakilan dagang RI di 33 negara, dengan sebagian besar fasilitasi dilakukan secara daring agar pelaku UMKM di berbagai daerah tetap bisa bertemu calon pembeli mancanegara.",
+   "Di sisi lain, Kemendag menyebut penguatan pasar dalam negeri turut menjadi fokus, antara lain lewat kemitraan dengan ritel modern dan PT KAI, serta program Belanja di Indonesia (BINA) pada 10-16 Desember 2026 untuk mendorong konsumsi produk lokal. Perlindungan pasar domestik juga dijalankan lewat instrumen trade remedies dan tindakan pengamanan perdagangan atau safeguard, yang bisa diterapkan ketika lonjakan impor mengganggu industri dalam negeri."
+  ],
+  "fotoAdegan": "University students arranging small local craft and food products on a workbench inside a campus workshop, natural daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/NsBgXA8l4sD3xazLeRRMFfbi77cO4xyNzlUVG5RT.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret berubah dari acara ini adalah penandatanganan MoU Program Campuspreneur antara Kemendag dan UNIDSOE, yang memberi mahasiswa pelatihan produk dan akses ekspor, dengan peserta terpilih bisa tampil di Trade Expo Indonesia pada 14-18 Oktober 2026. Yang terdampak adalah mahasiswa dan calon pelaku UMKM di Banyuwangi, sementara program sejenis yang sudah berjalan lebih dulu, UMKM BISA Ekspor, tercatat membukukan pesanan dan potensi transaksi sekitar US$333,68 juta sepanjang Januari-Juli 2026 lewat 46 kantor dagang di 33 negara. Ini menunjukkan Kemendag sedang memperluas jalur pencetakan eksportir baru dari kampus daerah untuk menambah basis peserta program yang sudah ada, bukan membangun program dari nol. Yang akan menunjukkan apakah perluasan ini berdampak nyata adalah jumlah mahasiswa UNIDSOE yang benar-benar lolos kurasi untuk tampil di TEI Oktober mendatang, dan apakah realisasi UMKM BISA Ekspor pada semester kedua 2026 melanjutkan atau melambat dari capaian US$333,68 juta di semester pertama.",
+  "imageV": "mtdvj2du"
+ },
+ {
   "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
   "category": "Aksi Korporasi",
   "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",

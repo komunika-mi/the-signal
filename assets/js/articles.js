@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
+  "category": "Aksi Korporasi",
+  "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
+  "deck": "Pengendali baru Astra Agro Lestari menyerap 2,31 miliar saham dari target 12,34 miliar lewat tender wajib, menaikkan kepemilikannya jadi 67 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T10:30:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_AALI_E010_950d3115-f1c0-4fe1-9b53-8ab1786059ab-20260829103018.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AALI",
+  "tags": [
+   "AALI",
+   "tender wajib",
+   "pengendali saham",
+   "Astra Agro Lestari"
+  ],
+  "body": [
+   "Astra Agro Lestari Tbk (AALI) melaporkan hasil pelaksanaan penawaran tender wajib oleh pengendali baru perseroan kepada Bursa Efek Indonesia melalui surat bernomor E010/AALI/20260829 tertanggal 29 Agustus 2026. Penawaran tender berlangsung selama lima hari, dari 24 Agustus hingga 28 Agustus 2026, dengan tanggal penyelesaian transaksi jatuh pada 28 Agustus 2026.",
+   "Sesuai ketentuan, pengendali baru wajib membeli 12.342.142.421 saham AALI dari pemegang saham publik yang berminat melepas kepemilikannya. Namun dari jumlah tersebut, yang benar-benar terserap dalam pelaksanaan penawaran tender hanya 2.314.234.342 saham, atau sekitar 18,8 persen dari target yang wajib dibeli.",
+   "Perseroan turut melaporkan perubahan komposisi kepemilikan pengendali baru akibat transaksi ini. Sebelum penawaran tender, pengendali baru tercatat memegang 24.314.234.213 saham atau setara 34 persen dari total saham AALI. Sesudah penawaran tender rampung, kepemilikannya tercatat menjadi 322.341.422 saham dengan persentase 67 persen, menurut data yang disampaikan perseroan dalam laporan ini."
+  ],
+  "fotoAdegan": "Rows of oil palm fruit bunches stacked at a rural collection point, workers loading trucks, overcast tropical morning",
+  "takeaway": "Laporan ini bersifat netral bagi fundamental AALI, sebab penawaran tender wajib semacam ini hanya memindahkan kepemilikan saham dari satu pemegang ke pemegang lain, tanpa menambah dana segar ke kas perusahaan, mengubah utang, atau mengubah laba per saham. Yang tersentuh adalah komposisi kepemilikan dan porsi saham yang beredar bebas di pasar alias free float, karena pengendali baru kini memegang 67 persen saham AALI, naik dari 34 persen sebelumnya, sementara realisasi pembelian tender baru mencapai 2,31 miliar saham dari target 12,34 miliar saham. Pemegang saham publik AALI perlu mencermati apakah porsi saham yang beredar bebas di pasar masih memenuhi ketentuan minimum yang disyaratkan bursa, mengingat konsentrasi kepemilikan pengendali kini mendekati dua pertiga saham perseroan sejak penyelesaian transaksi pada 28 Agustus 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dire-bagikan-dividen-tunai-final-cum-dividen-29-agustus",
+  "category": "Aksi Korporasi",
+  "title": "DIRE bagikan [dividen] tunai final, cum dividen 29 Agustus",
+  "deck": "DIRE mengumumkan distribusi dividen tunai final dengan tanggal cum dividen 29 Agustus dan pembayaran dijadwalkan 2 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T09:55:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_DIRE_E062_9199cfd3-ac94-4fd6-9e28-3836041df10e-20260829095433.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIRE",
+  "tags": [
+   "DIRE",
+   "dividen",
+   "dana investasi real estat",
+   "pasar modal"
+  ],
+  "body": [
+   "DIRE mengumumkan rencana distribusi keuntungan berupa dividen tunai final, dengan keputusan yang diambil pada 29 Agustus 2026. Berdasarkan dokumen keterbukaan yang disampaikan ke Bursa Efek Indonesia, jumlah dividen yang akan dibagikan sebanyak-banyaknya Rp123.098, dengan dividen per unit penyertaan maksimum sebesar Rp918.203.",
+   "Jadwal pembagian dividen ditetapkan sebagai berikut. Tanggal cum dividen, yaitu batas terakhir investor bisa membeli unit penyertaan dan masih berhak atas dividen ini, jatuh pada 29 Agustus 2026 baik di pasar reguler maupun pasar negosiasi. Tanggal ex dividen, saat unit penyertaan sudah tidak lagi membawa hak atas dividen bagi pembelinya, ditetapkan 30 Agustus 2026 untuk pasar reguler dan negosiasi, serta 31 Agustus 2026 untuk pasar tunai.",
+   "Daftar pemegang unit penyertaan yang berhak menerima dividen akan ditutup pada 1 September 2026 pukul 09.55 WIB, dan pembayaran dividen kepada pemegang unit yang tercatat dijadwalkan pada 2 September 2026."
+  ],
+  "fotoAdegan": "Exterior view of a modern commercial high-rise building in a Jakarta business district, late afternoon light, low angle",
+  "takeaway": "Distribusi dividen ini bersifat netral karena dokumen tidak menyertakan pembanding, seperti besaran dividen periode sebelumnya atau nilai aset dana, sehingga besar kecilnya dampak bagi pemegang unit belum bisa dinilai hanya dari angka ini. Yang tersentuh adalah arus kas dan ekuitas dana: pembayaran dividen berarti uang tunai keluar dari kas DIRE ke rekening pemegang unit, dan nilai aset bersih per unit biasanya berkurang sebesar dividen yang dibagikan karena laba yang tadinya tercatat sebagai kekayaan dana kini berpindah ke investor. Bagi dana investasi real estat, pembagian rutin semacam ini memang jadi kewajiban karena aturan mengharuskan mayoritas pendapatan sewa disalurkan ke pemegang unit, jadi kemunculannya sendiri bukan hal luar biasa. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang unit yang berhak pada 1 September 2026 pukul 09.55 WIB dan tanggal pembayaran pada 2 September 2026, karena investor yang belum tercatat sebagai pemegang unit sebelum tanggal tersebut tidak akan menerima dividen periode ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smma-koreksi-laporan-interim-laba-melonjak-73-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Koreksi Laporan Interim, Laba [Melonjak] 73% Semester I 2026",
+  "deck": "SMMA menyampaikan koreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 73 persen menjadi Rp2,3 triliun dari periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T01:56:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829020021-64309-0/FinancialStatement-2026-II-SMMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "laporan keuangan",
+   "asuransi",
+   "Sinar Mas Multiartha"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, melalui surat nomor 146A/SMMA/VIII/2026. Laporan ini masih berstatus tidak diaudit, sebagaimana lazimnya penyampaian laporan kuartal kedua.",
+   "Dari sisi laba rugi, jumlah laba periode berjalan tercatat Rp2,30 triliun, naik 73 persen dibandingkan Rp1,33 triliun pada semester I 2025. Laba sebelum pajak naik dari Rp1,37 triliun menjadi Rp2,33 triliun. Kenaikan ini terjadi meski pendapatan dari premi asuransi turun 21 persen menjadi Rp9,75 triliun dari Rp12,33 triliun, karena beban klaim asuransi turun lebih dalam, 27 persen, menjadi Rp11,27 triliun dari Rp15,50 triliun. Perseroan juga membukukan keuntungan realisasi perdagangan aset keuangan Rp3,08 triliun, naik dari Rp1,92 triliun, meski di sisi lain mencatat kerugian belum direalisasi Rp1,44 triliun, berbalik dari keuntungan Rp324 miliar pada periode sama tahun lalu.",
+   "Di neraca, total aset naik menjadi Rp129,72 triliun per 30 Juni 2026 dari Rp120,39 triliun pada akhir 2025. Total ekuitas naik menjadi Rp28,48 triliun dari Rp25,91 triliun, dengan bagian yang menjadi hak pemilik entitas induk naik menjadi Rp26,72 triliun dari Rp23,53 triliun, sementara kepentingan non-pengendali justru turun menjadi Rp1,76 triliun dari Rp2,38 triliun. Total liabilitas naik menjadi Rp101,25 triliun dari Rp94,48 triliun, terutama didorong oleh liabilitas kontrak asuransi yang naik menjadi Rp28,05 triliun dari Rp25,87 triliun, provisi yang melonjak menjadi Rp3,29 triliun dari Rp567,54 miliar, dan munculnya kewajiban baru berupa efek yang dijual dengan janji dibeli kembali senilai Rp4,43 triliun yang sebelumnya nihil. Di sisi lain, utang obligasi turun menjadi Rp8,03 triliun dari Rp9,03 triliun."
+  ],
+  "fotoAdegan": "Wide shot of a modern high-rise office tower in Jakarta's financial district glowing at dusk, busy street traffic below",
+  "takeaway": "Laporan ini condong positif bagi SMMA, karena laba periode berjalan naik 73 persen dan modal yang menjadi hak pemegang saham utama bertambah lebih dari Rp3 triliun hanya dalam enam bulan. Kenaikan laba ini turut mendongkrak laba per saham, yaitu bagian keuntungan yang secara hitungan menjadi jatah tiap lembar saham, karena jumlah saham beredar SMMA tidak berubah dari tahun lalu. Yang perlu dicermati adalah lonjakan provisi, yakni dana cadangan yang disisihkan perusahaan untuk menutup potensi kerugian atau kewajiban yang belum pasti besarannya, yang naik hampir enam kali lipat menjadi Rp3,29 triliun dari Rp567,54 miliar, indikasi bahwa manajemen sedang mengantisipasi risiko yang lebih besar dari biasanya. Investor juga perlu mengingat bahwa angka ini masih berstatus tidak diaudit dan merupakan koreksi atas penyampaian sebelumnya, sehingga kepastiannya baru akan terkonfirmasi lewat laporan keuangan tahunan beraudit.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -539,7 +617,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
   "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "date": "28 Agustus 2026",
   "isoDate": "2026-08-28T10:31:41+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463111-ihsg-dibuka-hijau-di-653572-akankah-penguatan-berlanjut-dan-bikin-investor-happy",
@@ -1015,7 +1093,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -2318,7 +2396,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -2817,7 +2895,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",
@@ -3053,7 +3131,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/galangan-kapal.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

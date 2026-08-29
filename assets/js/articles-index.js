@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
+  "category": "Aksi Korporasi",
+  "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
+  "deck": "Pengendali baru Astra Agro Lestari menyerap 2,31 miliar saham dari target 12,34 miliar lewat tender wajib, menaikkan kepemilikannya jadi 67 persen.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AALI",
+   "tender wajib",
+   "pengendali saham",
+   "Astra Agro Lestari"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_AALI_E010_950d3115-f1c0-4fe1-9b53-8ab1786059ab-20260829103018.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dire-bagikan-dividen-tunai-final-cum-dividen-29-agustus",
+  "category": "Aksi Korporasi",
+  "title": "DIRE bagikan [dividen] tunai final, cum dividen 29 Agustus",
+  "deck": "DIRE mengumumkan distribusi dividen tunai final dengan tanggal cum dividen 29 Agustus dan pembayaran dijadwalkan 2 September 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIRE",
+   "dividen",
+   "dana investasi real estat",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_DIRE_E062_9199cfd3-ac94-4fd6-9e28-3836041df10e-20260829095433.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-koreksi-laporan-interim-laba-melonjak-73-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMA Koreksi Laporan Interim, Laba [Melonjak] 73% Semester I 2026",
+  "deck": "SMMA menyampaikan koreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 73 persen menjadi Rp2,3 triliun dari periode sama tahun lalu.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "laporan keuangan",
+   "asuransi",
+   "Sinar Mas Multiartha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829020021-64309-0/FinancialStatement-2026-II-SMMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -345,7 +393,7 @@ var ARTICLES = [
   "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
   "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
   "date": "28 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/bursa-layar.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -640,7 +688,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -1445,7 +1493,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -1753,7 +1801,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -1898,7 +1946,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/galangan-kapal.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6460,54 +6508,6 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7edd48d3a0_7335264dd9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Rencanakan [Rights Issue] hingga 12,39 Miliar Saham",
-  "deck": "Folago Global Nusantara berencana menerbitkan hingga 12,39 miliar saham baru lewat HMETD, disertai waran, untuk mendanai ekspansi. RUPSLB digelar 24 September 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/irsx-rencanakan-rights-issue-hingga-12-39-miliar-saham.jpg",
-  "tags": [
-   "IRSX",
-   "Folago Global Nusantara",
-   "rights issue",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2aea432f5a_1ff86d59bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Jadwalkan RUPSLB 24 September, [Catat] Tenggat Pentingnya",
-  "deck": "Folago Global Nusantara menjadwalkan RUPSLB pada 24 September 2026, dengan pencatatan pemegang saham 1 September dan batas usul agenda 26 Agustus 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/irsx-jadwalkan-rupslb-24-september-catat-tenggat-pentingnya.jpg",
-  "tags": [
-   "IRSX",
-   "RUPSLB",
-   "Folago Global Nusantara",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d0f4510359_458e01bac1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PPRO Kantongi Peringkat [idB] untuk Tiga Obligasi Rp375,4 Miliar",
-  "deck": "PEFINDO mempertahankan peringkat idB dengan outlook stabil untuk PT PP Properti Tbk dan tiga seri obligasinya senilai total Rp375,4 miliar, berlaku hingga 1 Agustus 2027.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/ppro-kantongi-peringkat-idb-untuk-tiga-obligasi-rp375-4-miliar.jpg",
-  "tags": [
-   "PPRO",
-   "PEFINDO",
-   "obligasi korporasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9a9925245f_4903cf2666.pdf",
   "sourceLabel": "IDX"
  }
 ];

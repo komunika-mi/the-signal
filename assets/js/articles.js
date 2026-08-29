@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan",
+  "category": "Makroekonomi",
+  "title": "Mendag Cek Pasar Banyuwangi, Ayam [Mendekati] Harga Acuan",
+  "deck": "Menteri Perdagangan memantau harga pangan di Pasar Rogojampi, Banyuwangi. Ayam ras mendekati harga acuan, sementara telur dan bawang merah masih jauh di bawahnya.",
+  "image": "assets/img/mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T11:51:20.093Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pantau-pasar-rogojampi-tegaskan-upaya-pemerintah-jaga-keseimbangan-harga-pasar",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "harga pangan",
+   "Kemendag",
+   "HET",
+   "Banyuwangi"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso memantau harga dan ketersediaan bahan pokok di Pasar Rogojampi, Kabupaten Banyuwangi, Jawa Timur, Sabtu (29/8/2026). Kunjungan ini untuk mengecek apakah harga di pasar sudah sesuai dengan Harga Eceran Tertinggi (HET) dan Harga Acuan (HA) yang ditetapkan pemerintah sebagai batas atas maupun batas bawah harga sejumlah bahan pokok. Pemantauan semacam ini penting karena harga pangan langsung memengaruhi daya beli warga sekaligus kelangsungan usaha peternak dan petani.",
+   "Berdasarkan pemantauan, harga daging ayam ras berada di kisaran Rp38.000-Rp40.000 per kilogram, mendekati harga acuan pemerintah sebesar Rp40.000 per kilogram, naik dari Rp32.000-Rp36.000 per kilogram saat periode liburan sekolah lalu. Harga beras medium tercatat Rp13.500 per kilogram dan beras premium Rp14.900 per kilogram, sesuai HET, sementara beras SPHP Bulog Rp11.500 per kilogram, lebih rendah dari HET Rp12.500 per kilogram. Minyak goreng curah dijual Rp19.000 per liter, MINYAKITA Rp15.700 per liter sesuai HET, minyak goreng kemasan premium Rp24.000 per liter, dan gula pasir Rp16.000 per kilogram, di bawah HET Rp17.500 per kilogram.",
+   "Untuk komoditas lain, harga daging sapi tercatat Rp140.000 per kilogram, telur ayam ras Rp24.000 per kilogram jauh di bawah harga acuan Rp30.000 per kilogram, bawang merah Rp28.000 per kilogram dengan acuan Rp36.500-Rp41.500 per kilogram, bawang putih Rp28.000 per kilogram dengan acuan Rp38.000 per kilogram, cabai merah besar Rp25.000 per kilogram, dan cabai rawit merah Rp55.000 per kilogram mendekati batas atas acuan Rp40.000-Rp57.000 per kilogram. Menurut Kementerian Perdagangan, penyerapan daging ayam turut terbantu program Makan Bergizi Gratis dan momentum Maulid Nabi bulan ini.",
+   "Kementerian Perdagangan menggunakan Sistem Pemantauan Pasar Kebutuhan Pokok (SP2KP) sebagai rujukan pemantauan harga di berbagai daerah sekaligus sebagai sistem peringatan dini jika terjadi gangguan pasokan. Sejumlah pedagang di Pasar Rogojampi menyebut harga bahan pokok relatif stabil menjelang Maulid Nabi, meski pedagang daging sapi mengaku permintaan meningkat menjelang perayaan tersebut."
+  ],
+  "fotoAdegan": "Vendors arranging fresh chicken, eggs, and red onions on wooden stalls in a busy East Java traditional market, morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/dQNmrzYtnZuUuAEzeVq0LBSkFYoiFgwFdsPjlSr8.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang disorot Kemendag dalam pemantauan ini adalah ayam ras, karena harganya naik mendekati harga acuan Rp40.000 per kilogram. Tapi data yang sama menunjukkan telur ayam dijual Rp24.000 per kilogram padahal acuannya Rp30.000, dan bawang merah Rp28.000 padahal acuannya bisa sampai Rp41.500, jarak yang jauh lebih lebar dari ayam. Mendag Busan sendiri menyebut harga yang terlalu rendah bisa menekan produsen dan mengurangi insentif berproduksi, logika yang sama semestinya berlaku untuk peternak telur dan petani bawang jika harga rendah ini bertahan. Yang perlu dipantau adalah apakah data SP2KP di pasar-pasar lain menunjukkan pola serupa, atau ini cuma gejala lokal di Rogojampi menjelang Maulid Nabi.",
+  "imageV": "mtebq3d7"
+ },
+ {
+  "slug": "mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag",
+  "category": "UMKM",
+  "title": "Mendag Ajak UMKM Banyuwangi Ikut Program [Ekspor] Kemendag",
+  "deck": "Mendag Budi Santoso mengajak UMKM Banyuwangi memakai program ekspor Kemendag dan Trade Expo Indonesia, saat mengunjungi produsen furnitur bersertifikat legalitas kayu.",
+  "image": "assets/img/mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T11:51:17.138Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-umkm-banyuwangi-manfaatkan-program-pengembangan-ekspor-kemendag",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Trade Expo Indonesia"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mendatangi Banyuwangi, Jawa Timur, pada 28 Agustus 2026 untuk berdialog dengan 50 pelaku usaha mikro, kecil, dan menengah yang tergabung dalam Asosiasi Pengusaha Nasyiatul Aisyiyah. Pertemuan itu membahas kendala UMKM setempat dalam memperluas pasar, baik di dalam negeri maupun ke luar negeri. Mendag mengajak peserta memanfaatkan program pemerintah bernama UMKM BISA Ekspor serta kemitraan dengan jaringan ritel modern.",
+   "Program UMKM BISA Ekspor menghubungkan pelaku usaha dengan 46 kantor perwakilan dagang Indonesia di 33 negara yang bertugas mencarikan calon pembeli. Untuk pasar dalam negeri, Kemendag memfasilitasi pertemuan bisnis antara UMKM dengan minimarket, ritel modern, dan department store. Kedua program ini berada di bawah payung besar bernama Dari Lokal untuk Global, yang juga mencakup Desa BISA Ekspor dan Campuspreneur, serta didukung layanan konsultasi desain kemasan gratis secara daring.",
+   "Sebagai sarana promosi tambahan, Kemendag mengarahkan UMKM ke pameran Trade Expo Indonesia ke-41 yang akan digelar 14 hingga 18 Oktober 2026. Pada penyelenggaraan tahun lalu, pameran ini mempertemukan 8.045 pembeli asing dengan total transaksi US$22,8 miliar, di mana US$474,7 juta di antaranya berasal dari produk UMKM. Diah Lestari, pemilik usaha makanan ringan Pawon Koe asal Banyuwangi, menjadi contoh nyata dalam dialog tersebut. Produknya sudah mendapat pesanan percobaan dari Singapura, tengah bernegosiasi dengan pembeli Taiwan, dan menjajaki pasar Korea Selatan meski masih perlu mengurus sertifikasi keamanan pangan bernama HACCP.",
+   "Pada hari yang sama, Mendag juga mengunjungi PT Warisan Eurindo, produsen furnitur asal Banyuwangi yang berdiri sejak 1989 dengan fasilitas produksi di Bali dan Banyuwangi. Perusahaan ini mempekerjakan sekitar 490 orang dan fasilitas di Banyuwangi berkapasitas produksi rata-rata 3.065 meter kubik per tahun, dengan bahan baku kayu jati dari Perum Perhutani yang sudah mengantongi Sertifikat Verifikasi Legalitas Kayu. Mendag menyebut sertifikat itu penting untuk menjaga daya saing furnitur Indonesia di pasar global, dan mengajak eksportir furnitur ikut serta dalam area pameran khusus furnitur pada Trade Expo Indonesia mendatang."
+  ],
+  "fotoAdegan": "Workers hand-finishing teak wood furniture pieces in a busy workshop, sawdust and wood shavings scattered on the floor",
+  "fotoSumber": "https://www.kemendag.go.id/albums/TYLqdlhmVBQyT1thtgnTVezVABRzlIJDT6DJgsfc.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah dari kunjungan ini bukan aturan baru, melainkan penekanan pemerintah pada sertifikasi sebagai syarat masuk pasar ekspor, seperti HACCP untuk makanan ke Korea Selatan dan SVLK untuk furnitur berbahan kayu. Yang terdampak adalah UMKM pangan dan produsen furnitur yang selama ini terkendala bukan oleh tarif, melainkan oleh standar teknis negara tujuan. Pola ini menunjukkan arah kebijakan ekspor UMKM bergeser dari sekadar mempertemukan penjual dan pembeli menjadi pendampingan memenuhi syarat sertifikasi, sebelum produk bisa menembus pasar. Yang akan menguji apakah pendekatan ini benar-benar berhasil adalah hasil transaksi UMKM di Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026, yang bisa dibandingkan dengan capaian tahun lalu sebesar US$474,7 juta.",
+  "imageV": "mtebqlch"
+ },
+ {
+  "slug": "ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi",
+  "category": "Global",
+  "title": "RI-Cili Perluas Akses Pasar, Cili Incar Impor [Daging] Sapi",
+  "deck": "Indonesia dan Cili membahas perluasan akses pasar dua arah, dari produk olahan RI hingga daging sapi dan susu Cili, seiring pemanfaatan IC-CEPA yang naik pada 2025.",
+  "image": "assets/img/ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T11:51:08.483Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-akses-pasar-dua-arah-kemendag-perkuat-perdagangan-indonesia-cili",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "IC-CEPA",
+   "Indonesia-Cili",
+   "ekspor kakao",
+   "impor daging sapi"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri bertemu Wakil Menteri Pertanian Cili Francesco Venezian di Jakarta pada Jumat, 28 Agustus 2026, untuk membahas perluasan perdagangan kedua negara. Fokus pembicaraan adalah akses pasar yang berjalan dua arah: Indonesia ingin produk unggulannya seperti kakao, kopi, alas kaki, dan otomotif lebih mudah masuk ke Cili, sementara Cili mendorong agar produk pertanian dan pangannya, termasuk daging sapi dan susu, mendapat akses lebih besar ke Indonesia. Arah pembicaraan ini penting karena menyangkut siapa yang diuntungkan lebih dulu dari perjanjian dagang yang sudah berjalan hampir enam tahun ini.",
+   "Pemanfaatan perjanjian dagang Indonesia-Cili (IC-CEPA) tercatat menyumbang 75,7 persen dari total ekspor Indonesia ke Cili pada 2025. Nilai pemanfaatan Surat Keterangan Asal, dokumen yang membuktikan barang berhak mendapat tarif nol persen, mencapai US$334,14 juta, naik 21,36 persen dari US$275,39 juta pada 2024. Produk yang paling banyak memakai fasilitas ini adalah kendaraan bermotor, alas kaki, pupuk, serta kertas dan karton. Contoh konkretnya, PT Mandala Prima Makmur berhasil mengekspor bubuk kakao ke perusahaan Cili Alimentos 4M SpA lewat program UMKM BISA Ekspor, dan tengah menjajaki transaksi baru dengan E-Cibo SpA senilai sekitar US$739.030 pada 2026.",
+   "Dari sisi Cili, pemerintahnya mendorong percepatan akses pasar untuk daging sapi dan produk susu ke Indonesia, sembari berkomitmen memenuhi syarat sertifikasi halal. Produk anggur segar Cili sudah lebih dulu menikmati tarif nol persen lewat IC-CEPA, dengan nilai impor Indonesia mencapai US$6,97 juta atau 1.887 ton pada 2025. Sebaliknya, Cili menyatakan pasarnya terbuka bagi tanaman hias asal Indonesia. Kedua pihak juga menyinggung potensi kerja sama di luar dagang, seperti penanganan kebakaran hutan dan pengembangan varietas tanaman yang tahan perubahan iklim.",
+   "Total perdagangan Indonesia-Cili pada 2025 mencapai US$534,9 juta, naik 12,26 persen dari tahun sebelumnya, dengan ekspor Indonesia US$440,8 juta dan impor US$94 juta sehingga Indonesia mencatat surplus US$346,8 juta. Sepanjang Januari-Juni 2026, total perdagangan sudah mencapai US$277,4 juta dengan surplus US$162,2 juta bagi Indonesia. Agenda lanjutan yang disepakati meliputi INA-LAC Business Mission di Santiago pada 1-2 Oktober 2026, Trade Expo Indonesia ke-41 di Tangerang pada 14-18 Oktober 2026, serta usulan pertemuan reviu kedua IC-CEPA di Santiago."
+  ],
+  "fotoAdegan": "Dock workers loading wooden crates of fresh grapes and sacks of cocoa powder onto a small cargo ship, morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/i8AmiVeihRb2aUYCXEZOXnIeCbIjTXxVliyZ0wT0.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang baru dari pertemuan ini adalah Cili secara terbuka meminta percepatan akses pasar untuk daging sapi dan produk susu ke Indonesia, sesuatu yang sebelumnya kalah menonjol dibanding pembahasan buah seperti anggur dan ceri. Jika akses ini benar terbuka, yang paling terdampak adalah peternak sapi perah dan sapi potong dalam negeri yang akan berhadapan dengan produk impor bertarif rendah lewat IC-CEPA, sementara eksportir kakao, kopi, dan alas kaki Indonesia berpeluang mendapat pasar Cili yang lebih luas. Berdasarkan pola yang sudah berjalan, seperti tarif nol persen untuk anggur Cili senilai US$6,97 juta pada 2025, arahnya tampak menuju pembukaan bertahap komoditas pangan Cili lainnya ke pasar Indonesia. Yang akan memastikan apakah arah ini benar terjadi adalah hasil pertemuan reviu kedua IC-CEPA yang diusulkan di Santiago dan kunjungan balasan Wamendag Roro ke Cili awal Oktober 2026, saat isu daging dan susu kemungkinan dibahas lebih rinci.",
+  "imageV": "mtebqumu"
+ },
+ {
   "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
   "category": "Aksi Korporasi",
   "title": "BEI [Delisting] Saham SPUSF Efektif 29 Agustus, Imbas OJK",
@@ -26,6 +110,86 @@ var ARTICLES = [
   "fotoAdegan": "A quiet, dimly lit stock exchange trading floor in Jakarta with rows of empty desks and blurred computer monitors in the background.",
   "takeaway": "Ini kabar negatif bagi pemegang saham SPUSF karena bursa mencabut paksa pencatatan sahamnya atas perintah OJK, bukan atas keputusan sukarela perusahaan sendiri. Yang tersentuh adalah likuiditas saham, yaitu kemudahan investor menjual atau membeli saham tersebut, sebab begitu delisting berlaku, saham itu tidak lagi bisa diperdagangkan di papan reguler bursa. Pengumuman ini tidak menjelaskan alasan spesifik di balik perintah OJK, sehingga penyebab sebenarnya belum diketahui publik. Yang perlu dipantau berikutnya adalah penjelasan resmi lanjutan dari OJK atau pihak terkait soal alasan pencabutan ini, mengingat tanggal efektif delisting, yaitu 29 Agustus 2026, sudah berlaku hari ini.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "ojk-usul-kepemilikan-asing-asuransi-naik-ke-99",
+  "category": "Bisnis",
+  "title": "OJK Usul Kepemilikan Asing Asuransi Naik ke [99%]",
+  "deck": "OJK mengusulkan batas kepemilikan asing di perusahaan asuransi naik dari 80 persen menjadi 99 persen agar modalnya lebih kuat menanggung risiko besar, menyamakan aturan dengan perbankan.",
+  "image": "assets/img/ojk-usul-kepemilikan-asing-asuransi-naik-ke-99.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T16:13:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463412-ojk-dorong-kepemilikan-asing-di-asuransi-jadi-99-ini-alasan-di-balik-usulannya",
+  "tags": [
+   "OJK",
+   "asuransi",
+   "kepemilikan asing",
+   "modal asuransi"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan mengusulkan agar batas kepemilikan saham asing di perusahaan asuransi diperluas dari 80 persen menjadi 99 persen. Usulan ini penting untuk dicermati karena berpotensi mengubah struktur permodalan industri asuransi nasional, membuka peluang lebih besar bagi investor asing untuk menyuntik modal sekaligus memegang kendali penuh atas perusahaan asuransi di Indonesia.",
+   "Kepala Eksekutif Pengawas Perasuransian, Penjaminan, dan Dana Pensiun OJK, Ogi Prastomiyono, menyebut alasan utamanya adalah memperkuat kapasitas modal perusahaan asuransi dalam menanggung risiko besar. Ia mencontohkan perusahaan dengan modal sekitar Rp250 miliar akan kesulitan menanggung nilai penjaminan yang jauh melampaui modalnya sendiri. Pernyataan itu disampaikan Ogi di Mataram, Nusa Tenggara Barat, Jumat (28/8/2026).",
+   "OJK sudah mengajukan usulan tersebut ke Kementerian Keuangan dengan alasan menyamakan aturan kepemilikan asing di sektor asuransi dengan sektor perbankan, yang sejak sebelumnya sudah membolehkan kepemilikan asing hingga 99 persen. Menurut Ogi, dari sisi karakter industri, sektor asuransi semestinya bisa lebih terbuka terhadap investor asing dibanding perbankan, namun kenyataannya aturan asuransi justru lebih ketat.",
+   "Usulan kenaikan batas kepemilikan asing ini menjadi salah satu argumen yang mendasari dorongan OJK agar pemerintah merevisi peraturan terkait penyelenggaraan usaha perasuransian."
+  ],
+  "fotoAdegan": "An insurance surveyor inspecting a dented car in an outdoor repair yard, clipboard in hand, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2023/01/06/63b82061c00b2-gedung-ojk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru usulan, bukan aturan yang sudah berlaku: OJK meminta batas maksimal saham asing di perusahaan asuransi dinaikkan dari 80 persen menjadi 99 persen, disamakan dengan bank yang sudah lebih dulu boleh dimiliki asing sampai hampir seluruhnya. Kalau usulan ini disetujui, yang paling terdampak adalah pemegang saham lokal perusahaan asuransi bermodal kecil, karena mereka jadi punya opsi menambah modal dari investor asing sampai porsi kepemilikan asing hampir penuh, sementara calon investor asing yang selama ini dibatasi porsinya akan punya ruang lebih besar untuk masuk. Arahnya jelas menuju pelonggaran kepemilikan asing di sektor asuransi mengikuti pola yang sudah lebih dulu terjadi di perbankan, tapi ini baru permintaan OJK ke Kementerian Keuangan dan belum ada revisi peraturan pemerintah yang mengubahnya secara resmi. Yang perlu dipantau adalah apakah Kementerian Keuangan benar-benar memasukkan perubahan batas kepemilikan asing ini ke revisi peraturan pemerintah tentang usaha perasuransian, sebab usulan semacam ini bisa saja berhenti di tahap wacana kalau tidak masuk agenda revisi berikutnya.",
+  "imageV": "mtebqvfo"
+ },
+ {
+  "slug": "cara-cek-desil-bansos-online-pakai-nik",
+  "category": "Makroekonomi",
+  "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
+  "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:45:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",
+  "tags": [
+   "desil bansos",
+   "DTSEN",
+   "Kemensos",
+   "NIK"
+  ],
+  "body": [
+   "Masyarakat yang menerima atau berpotensi menerima bantuan sosial kini dapat memeriksa sendiri posisi desil kesejahteraannya secara online, cukup dengan memasukkan Nomor Induk Kependudukan (NIK) yang tertera di KTP. Desil adalah kelompok yang membagi rumah tangga berdasarkan tingkat kesejahteraan ekonomi menjadi sepuluh tingkat, dan posisi inilah yang menjadi salah satu acuan penentuan siapa yang berhak menerima bansos. Kemudahan ini penting karena selama ini banyak penerima maupun calon penerima bansos tidak tahu persis di posisi mana data mereka tercatat, padahal itu ikut menentukan kelayakan mereka mendapat bantuan.",
+   "Ada dua kanal resmi yang bisa dipakai untuk mengecek. Pertama, laman cek bansos milik Kementerian Sosial (Kemensos), tempat masyarakat memasukkan data untuk mengetahui status bansosnya. Kedua, situs Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) yang dikelola Badan Pusat Statistik (BPS), yaitu basis data yang kini dipakai untuk memetakan kondisi sosial ekonomi penduduk secara nasional. Untuk mengecek lewat DTSEN, pengguna cukup memasukkan NIK, tanggal lahir, dan kode captcha yang tersedia di laman tersebut.",
+   "Selain mengecek posisi desil, warga juga bisa memperbarui datanya sendiri lewat situs DTSEN apabila kondisi ekonominya sudah berubah dari yang tercatat sebelumnya. Prosesnya dimulai dengan mengisi data identitas sebelum masuk ke tahap pembaruan data yang sebenarnya."
+  ],
+  "fotoAdegan": "A villager's hands holding an ID card beside a laptop keyboard on a wooden desk, soft window light, screen blurred in background.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah kemudahan aksesnya: warga tidak perlu lagi datang ke kantor desa atau dinas sosial untuk sekadar tahu posisi desil kesejahteraannya, cukup buka situs Kemensos atau DTSEN BPS dan masukkan NIK. Yang terdampak adalah penerima maupun calon penerima bansos, karena posisi desil itulah yang menentukan apakah sebuah rumah tangga tergolong berhak menerima bantuan atau tidak. Yang belum jelas dari informasi ini adalah bagaimana hasil pembaruan data lewat DTSEN itu ditindaklanjuti, misalnya berapa lama prosesnya sampai memengaruhi pencairan bansos berikutnya, dan desil berapa yang sebenarnya jadi batas kelayakan. Untuk mengetahui arah pastinya, publik perlu menunggu penjelasan resmi lanjutan dari Kemensos atau BPS soal mekanisme verifikasi setelah data diperbarui.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu",
+  "category": "Perbankan",
+  "title": "KUR Kopdes Merah Putih [Wajib] Lolos Cek Kredit Dulu",
+  "deck": "DPR meminta pencairan KUR untuk Kopdes Merah Putih tidak otomatis, pengurus koperasi wajib lolos pengecekan riwayat kredit SLIK OJK lebih dulu.",
+  "image": "assets/img/kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:45:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463400-kur-kdkmp-jangan-asal-cair-dpr-tegaskan-pengurus-kopdes-merah-putih-wajib-lolos-slik-ojk",
+  "tags": [
+   "KUR",
+   "Kopdes Merah Putih",
+   "SLIK OJK",
+   "BRI"
+  ],
+  "body": [
+   "DPR mendesak agar penyaluran Kredit Usaha Rakyat (KUR) untuk Koperasi Desa/Kelurahan Merah Putih (Kopdes Merah Putih) tidak dicairkan begitu saja. Anggota Komisi VI DPR Firnando H. Ganinduto meminta setiap pengurus koperasi lebih dulu lolos pengecekan riwayat kredit lewat Sistem Layanan Informasi Keuangan (SLIK) OJK, yang dulu dikenal sebagai BI Checking, sebelum dana KUR cair. Ketentuan ini penting karena menyangkut ribuan koperasi desa yang akan mengelola dana pinjaman rakyat di seluruh Indonesia.",
+   "Firnando menyampaikan hal ini setelah menanyakan langsung mekanisme pembiayaan kepada Direktur Mikro BRI, Ahmad, dalam kunjungan kerja Komisi VI DPR di Provinsi DIY, Jumat (28/8/2026). Ahmad menegaskan seluruh pengurus Kopdes Merah Putih harus melalui proses sesuai ketentuan dan bebas catatan kredit bermasalah agar KUR Koperasi bisa disetujui. Firnando menilai syarat ini penting untuk menjaga agar kredit dikelola secara bertanggung jawab dan bisa terus berputar.",
+   "Di sisi lain, pemerintah menargetkan pembentukan lebih dari 80 ribu unit Kopdes Merah Putih di berbagai daerah. Firnando mengingatkan bahwa target jumlah koperasi saja tidak cukup, program ini butuh kolaborasi banyak pihak agar berjalan optimal, terutama karena setiap pengurus koperasi harus lolos verifikasi kredit satu per satu.",
+   "Perwakilan Himpunan BMT Indonesia, Djoko, menambahkan bahwa tantangan sebenarnya justru muncul setelah koperasi resmi berdiri. Menurutnya, mendirikan 80 ribu koperasi di tingkat desa bukan perkara mudah, apalagi mengoperasikan bisnis dan unit usahanya sehari-hari, sehingga pelaksanaan program ini perlu dijalankan dengan hati-hati."
+  ],
+  "fotoAdegan": "Villagers queuing outside a modest rural cooperative office, a bank service motorbike parked nearby, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/17/6a0932cc90f6f-koperasi-desakelurahan-merah-putih-kdkmp-di-desa-dersalam-kecamatan-bae-kabupaten-kudus-jawa-tengah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah syarat pencairan KUR untuk Kopdes Merah Putih tidak lagi otomatis, tiap pengurus koperasi wajib lolos cek riwayat kredit di SLIK OJK, semacam catatan apakah pernah menunggak pinjaman, sebelum dana bisa cair. Yang terdampak langsung adalah calon pengurus koperasi desa yang pernah punya tunggakan kredit, karena mereka bisa tertahan atau harus diganti agar koperasinya bisa mengakses KUR, sementara BRI sebagai penyalur harus memverifikasi satu per satu dari target lebih dari 80 ribu unit koperasi. Arahnya terlihat menuju proses pencairan yang lebih bertahap dan selektif ketimbang pembentukan massal 80 ribu koperasi sekaligus, karena verifikasi individual semacam ini makan waktu. Yang akan memastikan pembacaan ini adalah data berapa dari target 80 ribu unit yang sudah benar-benar menerima pencairan KUR, bukan sekadar berapa yang sudah terbentuk secara administratif.",
+  "imageV": "mtebqwez"
  },
  {
   "slug": "xiif-bagikan-dividen-tunai-kik-cum-dividen-hari-ini",
@@ -155,6 +319,86 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty chairs facing a small stage in a corporate meeting hall, soft morning light through tall windows, no people",
   "takeaway": "Laporan ini kami nilai netral bagi fundamental HKMU, karena isinya murni soal pergantian struktur pengurus, tanpa menyentuh kas, utang, atau jumlah saham beredar perusahaan. Pergantian direksi dan komisaris memang tidak langsung mengubah pos keuangan seperti ekuitas atau arus kas, tapi pelaku pasar tetap memperhatikannya karena arah strategi dan kualitas pengawasan perusahaan bergantung pada siapa yang duduk di kursi-kursi itu. Perlu dicatat pula bahwa keputusan ini digolkan oleh pemegang saham yang hadir hanya 23 persen dari total hak suara, sehingga mencerminkan kontrol yang relatif terpusat. Yang perlu dipantau selanjutnya adalah masa jabatan yang menurut dokumen ini tergolong sangat pendek, yakni Wakil Direktur Utama berakhir 31 Agustus 2026 dan Presiden Komisaris pada 5 September 2026, sehingga publik perlu menunggu apakah akan ada RUPS lanjutan yang memperpanjang atau mengganti kembali susunan pengurus ini dalam waktu dekat.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari",
+  "category": "Makroekonomi",
+  "title": "DPR Desak Koreksi Data Bansos [DTSEN] Maksimal 14 Hari",
+  "deck": "DPR meminta pemerintah membatasi waktu koreksi DTSEN maksimal 14 hari kerja agar status desil tak lagi jadi satu-satunya penentu penerima bansos.",
+  "image": "assets/img/dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:15:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463397-dpr-desak-koreksi-dtsen-maksimal-14-hari-kerja-desil-tak-boleh-jadi-hakim-tunggal-penerima-bansos",
+  "tags": [
+   "DTSEN",
+   "bansos",
+   "DPR",
+   "desil"
+  ],
+  "body": [
+   "Anggota DPR RI Ateng Sutisna dari Fraksi PKS mendesak pemerintah memperbaiki mekanisme koreksi Data Tunggal Sosial dan Ekonomi Nasional (DTSEN), dengan meminta setiap pengaduan diverifikasi dan diselesaikan paling lama 14 hari kerja. Usulan ini penting karena keluarga yang kondisi ekonominya berubah drastis bisa terlanjur kehilangan akses bantuan sosial jika data statusnya tidak segera diperbarui.",
+   "Desakan itu muncul setelah Ateng menyerap aspirasi warga di Salagedang, Kabupaten Majalengka, pekan lalu. Sejumlah warga mengeluhkan status desil kesejahteraan yang dianggap tidak mencerminkan kondisi ekonomi mereka, misalnya buruh harian, petani kecil, janda lansia, dan penyandang disabilitas yang dianggap mampu hanya karena memiliki rumah warisan atau sepeda motor lama. Menurut Ateng, sistem desil semestinya menjadi alat bantu kebijakan, bukan satu-satunya penentu nasib penerima bantuan, terutama ketika terjadi kejadian mendadak seperti kehilangan pekerjaan, gagal panen, sakit berat, atau meninggalnya pencari nafkah utama.",
+   "Ateng juga meminta pemerintah mencegah dua jenis kesalahan penargetan. Pertama, exclusion error, yaitu warga yang sebenarnya membutuhkan bantuan tapi tidak terdaftar sebagai penerima. Kedua, inclusion error, yaitu keluarga yang relatif mampu namun masih tercatat menerima bantuan. Untuk mengatasi keduanya, ia mengusulkan layanan koreksi satu pintu dengan nomor pengaduan yang bisa dilacak, dilanjutkan verifikasi lapangan, hingga kepastian hasil keputusan.",
+   "Khusus untuk bantuan yang terkait kebutuhan dasar dan kesehatan, politikus PKS itu meminta pemerintah tidak buru-buru menghentikan penyaluran saat warga masih mengajukan keberatan atas status desilnya. Ia menilai proses penghentian bantuan perlu ditunda selama proses koreksi berlangsung, supaya keluarga yang keberatannya nanti terbukti benar tidak sempat kehilangan akses bantuan."
+  ],
+  "fotoAdegan": "Modest rural house with an old motorcycle parked outside, terraced rice fields and small farm plots in the background, soft midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/28/685fb21ad1bd4-ilustrasi-pemberian-bantuan-sosial-atau-bansos_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru usulan, bukan keputusan: DPR meminta pemerintah menetapkan batas waktu pasti, 14 hari kerja, untuk memverifikasi dan menyelesaikan pengaduan salah desil, disertai sistem satu pintu dengan nomor pengaduan yang bisa dilacak. Yang berpotensi terdampak adalah rumah tangga yang statusnya berubah gara-gara aset seperti rumah warisan atau motor lama padahal kondisi ekonominya sudah jatuh, seperti buruh harian, petani kecil, dan janda lansia yang mengeluh di Majalengka. Berita ini belum menyebut respons Kementerian Sosial atau Kementerian Koordinator PMK atas usulan tersebut, jadi belum jelas apakah batas 14 hari kerja ini akan masuk revisi petunjuk teknis DTSEN atau berhenti sebagai wacana di tingkat legislatif. Yang perlu ditunggu adalah tanggapan resmi Kemensos soal mekanisme koreksi DTSEN, karena itu yang akan menentukan apakah keluhan soal desil ini berujung pada perbaikan sistem atau sekadar catatan aspirasi.",
+  "imageV": "mtebqx85"
+ },
+ {
+  "slug": "plts-atap-surabaya-kurangi-715-ton-emisi-karbon",
+  "category": "Energi",
+  "title": "PLTS Atap Surabaya Kurangi [715] Ton Emisi Karbon",
+  "deck": "PLTS atap 586,95 kWp di Ciputra World Surabaya beroperasi, diproyeksikan hasilkan 795 MWh listrik dan tekan 715 ton emisi karbon pada tahun pertama.",
+  "image": "assets/img/plts-atap-surabaya-kurangi-715-ton-emisi-karbon.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T11:45:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463362-plts-atap-di-surabaya-kurangi-715-ton-emisi-karbon-setara-penanaman-15897-pohon",
+  "tags": [
+   "PLTS Atap",
+   "Surabaya",
+   "Energi Terbarukan",
+   "Zero-CAPEX"
+  ],
+  "body": [
+   "Pembangkit listrik tenaga surya (PLTS) atap berkapasitas 586,95 kWp mulai beroperasi di kawasan Ciputra World Surabaya, Jalan Mayjen Sungkono Nomor 87-89. Sistem ini diresmikan pada 30 Juli 2026 dan merupakan hasil kerja sama antara PT Pancaran Suara Citra selaku pengelola kawasan dan iForte Energi sebagai penyedia teknologi. Proyek ini menambah daftar kawasan komersial di kota besar yang memanfaatkan atap gedung untuk membangkitkan listrik dari energi matahari.",
+   "PLTS tersebut diproyeksikan menghasilkan 795 megawatt jam (MWh) listrik pada tahun pertama operasional. Direktur Utama PT Pancaran Suara Citra, Denpharanto Agung Krisprimandoyo, menyatakan pada 28 Agustus 2026 bahwa pengoperasian ini menekan emisi karbon hingga 715 ton CO2, setara dengan dampak lingkungan dari penanaman 15.897 pohon. Selain itu, energi yang dihasilkan diperkirakan menghemat konsumsi bahan bakar setara 337.817 liter bensin selama setahun pertama.",
+   "Kerja sama ini menggunakan skema Zero-CAPEX, di mana iForte Energi menanggung biaya instalasi PLTS, sementara PT Pancaran Suara Citra hanya menyediakan area atap sebagai lokasi pemasangan. Dengan skema ini, pengelola kawasan tidak perlu mengeluarkan belanja modal awal untuk memiliki sistem pembangkit tenaga surya. Penandatanganan kesepakatan kerja sama sebelumnya telah dilakukan oleh jajaran direksi kedua perusahaan."
+  ],
+  "fotoAdegan": "Rows of solar panels installed across a flat commercial rooftop, city skyline and cloudy sky in the background, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/29/6a92620149a0c-pembangkit-listrik-tenaga-surya-plts-atap-berkapasitas-58695-kwp-mulai-beroperasi-di-surabaya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar satu atap panel surya baru, melainkan cara pembiayaannya. Lewat skema Zero-CAPEX, iForte Energi yang menanggung biaya pemasangan, sementara pemilik gedung cukup menyediakan ruang atap tanpa perlu keluar uang di muka. Ini membuat pengelola properti komersial seperti mal dan perkantoran punya alasan lebih kuat untuk memasang PLTS atap, karena risiko modalnya dipindahkan ke penyedia jasa energi. Kalau model bisnis semacam ini terus dipakai, arahnya adalah makin banyak gedung komersial di kota besar beralih ke listrik surya tanpa investasi sendiri, dan yang akan memastikan apakah ini benar jadi tren atau tetap kasus tunggal adalah apakah iForte Energi mengumumkan proyek serupa di gedung atau kota lain dalam waktu dekat.",
+  "imageV": "mtebqxyg"
+ },
+ {
+  "slug": "bei-catat-7-perusahaan-antre-ipo-mayoritas-kesehatan",
+  "category": "Pasar Modal",
+  "title": "BEI Catat [7] Perusahaan Antre IPO, Mayoritas Kesehatan",
+  "deck": "BEI mencatat tujuh perusahaan masih mengantre pencatatan saham hingga 28 Agustus 2026, didominasi sektor kesehatan, sementara tujuh perusahaan lain sudah resmi melantai dan menghimpun Rp2,16 triliun.",
+  "image": "assets/img/pasar-modal.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T11:25:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463347-bei-ungkap-7-perusahaan-antre-ipo-4-dari-sektor-kesehatan",
+  "tags": [
+   "IPO",
+   "BEI",
+   "Pasar Modal",
+   "Sektor Kesehatan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengungkap masih ada tujuh perusahaan yang mengantre untuk mencatatkan saham perdana atau IPO di pasar modal Indonesia hingga 28 Agustus 2026. \"Hingga saat ini, terdapat tujuh perusahaan dalam pipeline pencatatan saham BEI,\" kata Direktur Penilaian Perusahaan BEI Saidu Solihin di Jakarta, Sabtu (29/8/2026).",
+   "Dari tujuh perusahaan tersebut, empat berasal dari sektor kesehatan, sementara masing-masing satu perusahaan berasal dari sektor barang konsumen primer, energi, dan industri. Berdasarkan skala aset sesuai Peraturan OJK Nomor 53/POJK.04/2017, tiga perusahaan tergolong beraset besar di atas Rp250 miliar, dua beraset menengah antara Rp50 miliar sampai Rp250 miliar, dan dua sisanya beraset kecil di bawah Rp50 miliar.",
+   "Di sisi lain, BEI mencatat tujuh perusahaan sudah resmi merealisasikan IPO hingga periode yang sama, dengan total dana yang berhasil dihimpun mencapai Rp2,16 triliun. Dengan tambahan tersebut, jumlah perusahaan yang tercatat di pasar modal Indonesia kini mencapai 963 perusahaan.",
+   "BEI turut mencatat aktivitas penerbitan surat utang, yakni 122 emisi dari 62 penerbit Efek Bersifat Utang dan Sukuk (EBUS) yang menghimpun dana Rp112 triliun, dengan 14 emisi dari sembilan penerbit lain masih dalam antrean penerbitan. Selain itu, 15 perusahaan telah melaksanakan rights issue atau penambahan saham baru dengan hak memesan efek terlebih dahulu bagi pemegang saham lama, mengumpulkan dana Rp15,85 triliun, sementara satu perusahaan dari sektor properti masih menunggu giliran."
+  ],
+  "fotoAdegan": "Wide shot of a stock exchange lobby in Jakarta with blurred digital ticker boards, professionals walking past glass doors, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Data BEI ini menunjukkan dari tujuh perusahaan yang masih menunggu giliran melantai di bursa, empat berasal dari sektor kesehatan seperti rumah sakit atau produsen alat kesehatan. Dari sisi ukuran, hanya tiga perusahaan yang tergolong beraset besar di atas Rp250 miliar, sehingga sisanya adalah perusahaan skala menengah dan kecil, pola yang mirip dengan tujuh perusahaan yang sudah lebih dulu IPO tahun ini dan rata-rata hanya menghimpun sekitar Rp300 miliar per perusahaan. Pola ini mengarah pada IPO 2026 yang lebih banyak diisi perusahaan skala menengah-kecil, terutama dari sektor kesehatan, bukan korporasi besar. Yang akan memastikan pola ini berlanjut adalah realisasi tujuh perusahaan yang masih dalam antrean serta besaran dana yang mereka himpun begitu resmi mencatatkan saham.",
+  "fotoDitolak": true
  },
  {
   "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
@@ -2607,7 +2851,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",

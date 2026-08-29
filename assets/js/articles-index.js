@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan",
+  "category": "Makroekonomi",
+  "title": "Mendag Cek Pasar Banyuwangi, Ayam [Mendekati] Harga Acuan",
+  "deck": "Menteri Perdagangan memantau harga pangan di Pasar Rogojampi, Banyuwangi. Ayam ras mendekati harga acuan, sementara telur dan bawang merah masih jauh di bawahnya.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan.jpg",
+  "imageV": "mtebq3d7",
+  "tags": [
+   "harga pangan",
+   "Kemendag",
+   "HET",
+   "Banyuwangi"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pantau-pasar-rogojampi-tegaskan-upaya-pemerintah-jaga-keseimbangan-harga-pasar",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag",
+  "category": "UMKM",
+  "title": "Mendag Ajak UMKM Banyuwangi Ikut Program [Ekspor] Kemendag",
+  "deck": "Mendag Budi Santoso mengajak UMKM Banyuwangi memakai program ekspor Kemendag dan Trade Expo Indonesia, saat mengunjungi produsen furnitur bersertifikat legalitas kayu.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag.jpg",
+  "imageV": "mtebqlch",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-umkm-banyuwangi-manfaatkan-program-pengembangan-ekspor-kemendag",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi",
+  "category": "Global",
+  "title": "RI-Cili Perluas Akses Pasar, Cili Incar Impor [Daging] Sapi",
+  "deck": "Indonesia dan Cili membahas perluasan akses pasar dua arah, dari produk olahan RI hingga daging sapi dan susu Cili, seiring pemanfaatan IC-CEPA yang naik pada 2025.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi.jpg",
+  "imageV": "mtebqumu",
+  "tags": [
+   "IC-CEPA",
+   "Indonesia-Cili",
+   "ekspor kakao",
+   "impor daging sapi"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-akses-pasar-dua-arah-kemendag-perkuat-perdagangan-indonesia-cili",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
   "category": "Aksi Korporasi",
   "title": "BEI [Delisting] Saham SPUSF Efektif 29 Agustus, Imbas OJK",
@@ -19,6 +73,55 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_SPUSF_B006_0c8e56df-0554-4aae-82f1-78deee6b59e6-20260829174954.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ojk-usul-kepemilikan-asing-asuransi-naik-ke-99",
+  "category": "Bisnis",
+  "title": "OJK Usul Kepemilikan Asing Asuransi Naik ke [99%]",
+  "deck": "OJK mengusulkan batas kepemilikan asing di perusahaan asuransi naik dari 80 persen menjadi 99 persen agar modalnya lebih kuat menanggung risiko besar, menyamakan aturan dengan perbankan.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/ojk-usul-kepemilikan-asing-asuransi-naik-ke-99.jpg",
+  "imageV": "mtebqvfo",
+  "tags": [
+   "OJK",
+   "asuransi",
+   "kepemilikan asing",
+   "modal asuransi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463412-ojk-dorong-kepemilikan-asing-di-asuransi-jadi-99-ini-alasan-di-balik-usulannya"
+ },
+ {
+  "slug": "cara-cek-desil-bansos-online-pakai-nik",
+  "category": "Makroekonomi",
+  "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
+  "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "desil bansos",
+   "DTSEN",
+   "Kemensos",
+   "NIK"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik"
+ },
+ {
+  "slug": "kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu",
+  "category": "Perbankan",
+  "title": "KUR Kopdes Merah Putih [Wajib] Lolos Cek Kredit Dulu",
+  "deck": "DPR meminta pencairan KUR untuk Kopdes Merah Putih tidak otomatis, pengurus koperasi wajib lolos pengecekan riwayat kredit SLIK OJK lebih dulu.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu.jpg",
+  "imageV": "mtebqwez",
+  "tags": [
+   "KUR",
+   "Kopdes Merah Putih",
+   "SLIK OJK",
+   "BRI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463400-kur-kdkmp-jangan-asal-cair-dpr-tegaskan-pengurus-kopdes-merah-putih-wajib-lolos-slik-ojk"
  },
  {
   "slug": "xiif-bagikan-dividen-tunai-kik-cum-dividen-hari-ini",
@@ -99,6 +202,55 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E013_15e9f9f1-db6b-4b61-8015-8d3f23b74549-20260829151921.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari",
+  "category": "Makroekonomi",
+  "title": "DPR Desak Koreksi Data Bansos [DTSEN] Maksimal 14 Hari",
+  "deck": "DPR meminta pemerintah membatasi waktu koreksi DTSEN maksimal 14 hari kerja agar status desil tak lagi jadi satu-satunya penentu penerima bansos.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari.jpg",
+  "imageV": "mtebqx85",
+  "tags": [
+   "DTSEN",
+   "bansos",
+   "DPR",
+   "desil"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463397-dpr-desak-koreksi-dtsen-maksimal-14-hari-kerja-desil-tak-boleh-jadi-hakim-tunggal-penerima-bansos"
+ },
+ {
+  "slug": "plts-atap-surabaya-kurangi-715-ton-emisi-karbon",
+  "category": "Energi",
+  "title": "PLTS Atap Surabaya Kurangi [715] Ton Emisi Karbon",
+  "deck": "PLTS atap 586,95 kWp di Ciputra World Surabaya beroperasi, diproyeksikan hasilkan 795 MWh listrik dan tekan 715 ton emisi karbon pada tahun pertama.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/plts-atap-surabaya-kurangi-715-ton-emisi-karbon.jpg",
+  "imageV": "mtebqxyg",
+  "tags": [
+   "PLTS Atap",
+   "Surabaya",
+   "Energi Terbarukan",
+   "Zero-CAPEX"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463362-plts-atap-di-surabaya-kurangi-715-ton-emisi-karbon-setara-penanaman-15897-pohon"
+ },
+ {
+  "slug": "bei-catat-7-perusahaan-antre-ipo-mayoritas-kesehatan",
+  "category": "Pasar Modal",
+  "title": "BEI Catat [7] Perusahaan Antre IPO, Mayoritas Kesehatan",
+  "deck": "BEI mencatat tujuh perusahaan masih mengantre pencatatan saham hingga 28 Agustus 2026, didominasi sektor kesehatan, sementara tujuh perusahaan lain sudah resmi melantai dan menghimpun Rp2,16 triliun.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "IPO",
+   "BEI",
+   "Pasar Modal",
+   "Sektor Kesehatan"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463347-bei-ungkap-7-perusahaan-antre-ipo-4-dari-sektor-kesehatan"
  },
  {
   "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
@@ -1625,7 +1777,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -6354,158 +6506,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e3fe8cf07f_cb5fef811b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPSU Sukuk 2022, [Restrukturisasi] Kelima",
-  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap II 2022 Seri B ke RUPSu 2 September 2026 untuk minta persetujuan restrukturisasi utang, panggilan restrukturisasi kelima dalam dua hari.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/ptpp-panggil-rupsu-sukuk-2022-restrukturisasi-kelima.jpg",
-  "imageV": "mszpoiq1",
-  "tags": [
-   "PTPP",
-   "restrukturisasi utang",
-   "sukuk",
-   "RUPSu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5674c1d5de_c966fd0d36.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lmpi-jadwalkan-rupslb-25-september-di-sidoarjo",
-  "category": "Aksi Korporasi",
-  "title": "LMPI Jadwalkan RUPSLB [25 September] di Sidoarjo",
-  "deck": "Langgeng Makmur Industri mengumumkan RUPSLB 25 September 2026, dengan pemegang saham per 2 September berhak hadir. Agenda rapat belum diungkap.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/lmpi-jadwalkan-rupslb-25-september-di-sidoarjo.jpg",
-  "imageV": "mszpp6kn",
-  "tags": [
-   "LMPI",
-   "RUPSLB",
-   "Langgeng Makmur Industri",
-   "Sidoarjo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a3af5403a4_2e09bbc2e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi",
-  "category": "Aksi Korporasi",
-  "title": "INTP: Direktur Anak Usaha MSS Diganti, Alasan [Restrukturisasi]",
-  "deck": "Indocement melaporkan pergantian satu direktur di anak usahanya, PT Mandiri Sejahtera Sentra, karena restrukturisasi organisasi, efektif 19 Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/intp-direktur-anak-usaha-mss-diganti-alasan-restrukturisasi.jpg",
-  "imageV": "mszvvp73",
-  "tags": [
-   "INTP",
-   "Indocement",
-   "direksi",
-   "entitas anak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4ca69155ab_87c47d1593.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta",
-  "category": "Aksi Korporasi",
-  "title": "APEX Kantongi Kontrak [Pengeboran] PHM Senilai US$74,3 Juta",
-  "deck": "Apexindo Pratama Duta mendapat kontrak pengeboran laut dari Pertamina Hulu Mahakam di Delta Mahakam, Kalimantan Timur, senilai US$74,3 juta untuk masa kerja dua tahun pasti dan opsi setahun tambahan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/apex-kantongi-kontrak-pengeboran-phm-senilai-us-74-3-juta.jpg",
-  "imageV": "mszrfmju",
-  "tags": [
-   "APEX",
-   "kontrak",
-   "Pertamina Hulu Mahakam",
-   "pengeboran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6079bb2669_e9a57a378b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 19 Agustus: Gula [Rp19.050], Telur Rp29.350/Kg",
-  "deck": "Bank Indonesia melalui PIHPS merilis harga eceran nasional pangan pada 19 Agustus 2026, dari gula pasir Rp19.050 hingga telur ayam Rp29.350 per kilogram.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/harga-pangan-19-agustus-gula-rp19-050-telur-rp29-350-kg.jpg",
-  "imageV": "mszh5qg3",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai rawit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460958-harga-pangan-hari-ini-19-agustus-2026-gula-pasir-mulai-dari-rp19050-per-kilogram-hingga-telur-ayam-rp29350-per-kilogram"
- },
- {
-  "slug": "ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan",
-  "category": "Industri",
-  "title": "Ricuh Timah di Babel, Yusril [Percepat] Perpres Pertimahan",
-  "deck": "Pemerintah mempercepat penyusunan Perpres Pertimahan usai kericuhan di Kantor PT Timah, Belitung Timur, akibat pembelian bijih timah rakyat yang tersendat.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/ricuh-timah-di-babel-yusril-percepat-perpres-pertimahan.jpg",
-  "imageV": "mszajs3a",
-  "tags": [
-   "timah",
-   "Bangka Belitung",
-   "PT Timah",
-   "Perpres Pertimahan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460943-menyusul-ricuh-pembelian-bijih-timah-rakyat-yusril-janjikan-pemerintah-percepat-penyusunan-perpres-pertimahan"
- },
- {
-  "slug": "wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Restrukturisasi] Obligasi, Jatuh Tempo Mundur Setahun",
-  "deck": "Pemegang obligasi dan sukuk WIKA menyetujui perpanjangan jatuh tempo beberapa seri surat utang hingga satu tahun serta penjadwalan ulang bunga, di tengah status Pemantauan Khusus emiten.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/wika-restrukturisasi-obligasi-jatuh-tempo-mundur-setahun.jpg",
-  "imageV": "mszrg1qy",
-  "tags": [
-   "WIKA",
-   "restrukturisasi obligasi",
-   "obligasi korporasi",
-   "BUMN karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6964055c02_aaf0c85abe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon",
-  "category": "Aksi Korporasi",
-  "title": "BEI Lanjutkan [Suspensi] Saham WIKA usai Gagal Bayar Kupon",
-  "deck": "Bursa melanjutkan suspensi saham WIKA di seluruh pasar setelah emiten menunda pembayaran bunga tiga seri obligasi dan bagi hasil tiga seri sukuk mudharabah yang jatuh tempo 18 Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bei-lanjutkan-suspensi-saham-wika-usai-gagal-bayar-kupon.jpg",
-  "imageV": "mszrgie8",
-  "tags": [
-   "WIKA",
-   "suspensi saham",
-   "gagal bayar obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b1193232d9_99912d3150.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman",
-  "category": "Bisnis",
-  "title": "Pusat Perbelanjaan RI Beralih ke Konsep [Pengalaman]",
-  "deck": "Pusat perbelanjaan di Indonesia bergeser dari sekadar tempat transaksi menjadi ruang pengalaman, seiring rebranding Star Maju Sentosa menjadi Joysparks Group.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/pusat-perbelanjaan-ri-beralih-ke-konsep-pengalaman.jpg",
-  "imageV": "mszajsj3",
-  "tags": [
-   "ritel",
-   "pusat perbelanjaan",
-   "Joysparks Group",
-   "CBRE"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460931-ritel-indonesia-hadapi-perubahan-besar-strategi-lama-mulai-ditinggalkan"
  }
 ];

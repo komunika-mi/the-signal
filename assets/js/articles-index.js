@@ -5,6 +5,89 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk",
+  "category": "Teknologi",
+  "title": "Indodana Raih [Penghargaan] Fintech Berkat Kepatuhan OJK",
+  "deck": "Indodana Fintech meraih predikat perusahaan fintech terbaik di ajang Infobank Award 2026, menegaskan kepatuhan OJK dan manajemen risiko sebagai fondasi pembiayaan digital.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk.jpg",
+  "imageV": "mtenhg7j",
+  "tags": [
+   "fintech lending",
+   "Indodana",
+   "OJK",
+   "manajemen risiko"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463538-indodana-fintech-dorong-pembiayaan-digital-yang-sehat-kepatuhan-ojk-jadi-kunci"
+ },
+ {
+  "slug": "tiket-modinity-warehouse-sale-ludes-dalam-24-jam",
+  "category": "Bisnis",
+  "title": "Tiket Modinity Warehouse Sale [Ludes] dalam 24 Jam",
+  "deck": "Tiket Modinity Warehouse Sale 2026 ludes kurang dari 24 jam. Acara meluas ke Indonesia dan Malaysia dengan batch kunjungan bertambah jadi 11 per hari.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/tiket-modinity-warehouse-sale-ludes-dalam-24-jam.jpg",
+  "imageV": "mtenhgrc",
+  "tags": [
+   "warehouse sale",
+   "belanja offline",
+   "fesyen",
+   "Modinity"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463528-gempuran-e-commerce-tak-menyurutkan-belanja-offline-konsumen-kembali-serbu-warehouse-sale"
+ },
+ {
+  "slug": "rupiah-menguat-tekan-dolar-as-ke-rp17-693",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
+  "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "kurs rupiah",
+   "nilai tukar"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693"
+ },
+ {
+  "slug": "kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan",
+  "category": "UMKM",
+  "title": "Kisah Astuti, Nasabah Mekaar Ubah Jamur Jadi [Camilan]",
+  "deck": "Astuti, nasabah pembiayaan ultra mikro PNM Mekaar, mengolah jamur tiram yang tak laku jual menjadi jamur krispi dan stik jamur agar tidak terbuang dan bernilai jual lebih tinggi.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan.jpg",
+  "imageV": "mtenhhbg",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "Jamur Tiram",
+   "Pembiayaan Ultra Mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463498-cerita-astuti-bangun-usaha-hingga-pimpin-bank-sampah-tak-ingin-jamur-terbuang"
+ },
+ {
+  "slug": "danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta",
+  "category": "BUMN",
+  "title": "Danantara Siapkan [141 Ribu] Rusun Subsidi di Meikarta",
+  "deck": "Danantara memamerkan dua tipe unit rusun subsidi untuk MBR di Meikarta, bagian dari rencana 141 ribu unit yang lahannya baru diterima sebagai hibah dari Kemenkeu.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta.jpg",
+  "imageV": "mtenhhth",
+  "tags": [
+   "rusun subsidi",
+   "Danantara",
+   "Meikarta",
+   "MBR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463455-141-ribu-rusun-subsidi-disiapkan-di-meikarta-ini-dua-tipe-hunian-yang-dipamerkan-danantara"
+ },
+ {
   "slug": "mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan",
   "category": "Makroekonomi",
   "title": "Mendag Cek Pasar Banyuwangi, Ayam [Mendekati] Harga Acuan",
@@ -1746,7 +1829,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
   "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "tags": [
    "rupiah",
    "kurs dolar",
@@ -2085,7 +2168,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -2230,7 +2313,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6420,91 +6503,6 @@ var ARTICLES = [
    "IDX"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/648dd7b63d_0cdc89f660.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen",
-  "category": "Makroekonomi",
-  "title": "RAPBN 2027 Bidik Pertumbuhan Ekonomi [6 Persen]",
-  "deck": "Pemerintah menargetkan ekonomi tumbuh 6 persen pada 2027 lewat RAPBN, dengan defisit anggaran ditekan ke 2,4 persen dari PDB serta dorongan investasi lewat Danantara.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/rapbn-2027-bidik-pertumbuhan-ekonomi-6-persen.jpg",
-  "imageV": "mszk6ant",
-  "tags": [
-   "RAPBN 2027",
-   "pertumbuhan ekonomi",
-   "Danantara",
-   "defisit anggaran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460975-wamenkeu-ungkap-strategi-prabowo-bidik-ekonomi-6-persen-di-rapbn-2027-target-tak-boleh-rendah"
- },
- {
-  "slug": "nely-copot-direktur-eduard-halomoan-lewat-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "NELY [Copot] Direktur Eduard Halomoan Lewat RUPSLB",
-  "deck": "RUPSLB NELY menyetujui pemberhentian Direktur Eduard Halomoan setelah dinonaktifkan sementara oleh Dewan Komisaris, sementara susunan direksi dan komisaris lain tidak berubah.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/nely-copot-direktur-eduard-halomoan-lewat-rupslb.jpg",
-  "imageV": "mszpmw8h",
-  "tags": [
-   "NELY",
-   "Perubahan Pengurus",
-   "RUPSLB",
-   "Pelayaran Nelly Dwi Putri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/75dd2ddba2_1646df6af3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "CRAB Jadwalkan [RUPST] dan RUPSLB pada 25 September 2026",
-  "deck": "CRAB menjadwalkan RUPST dan RUPSLB pada 25 September 2026 di Medan, dengan pemegang saham per 2 September 2026 yang berhak hadir dan tenggat usulan agenda 27 Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/crab-jadwalkan-rupst-dan-rupslb-pada-25-september-2026.jpg",
-  "imageV": "mszpnagg",
-  "tags": [
-   "CRAB",
-   "RUPS",
-   "Toba Surimi Industries",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d05847f0ad_199a6c5178.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Rp50.000 ke Rp2.645.000/Gram",
-  "deck": "Harga emas Antam turun Rp50.000 menjadi Rp2.645.000 per gram pada 19 Agustus 2026, harga buyback pun ikut merosot.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp50-000-ke-rp2-645-000-gram.jpg",
-  "imageV": "mszk6bcv",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460969-harga-emas-antam-hari-ini-19-agustus-2026-terpantau-turun-rp50000-jadi-rp2645000-per-gram"
- },
- {
-  "slug": "ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPSU Sukuk III 2023, [Restrukturisasi] Lagi",
-  "deck": "PTPP mengundang pemegang Sukuk Mudharabah Berkelanjutan I Tahap III 2023 ke RUPSU 2 September 2026 untuk meminta persetujuan restrukturisasi demi penyehatan keuangan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/ptpp-panggil-rupsu-sukuk-iii-2023-restrukturisasi-lagi.jpg",
-  "imageV": "mszpnwm2",
-  "tags": [
-   "PTPP",
-   "restrukturisasi",
-   "sukuk",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e3fe8cf07f_cb5fef811b.pdf",
   "sourceLabel": "IDX"
  }
 ];

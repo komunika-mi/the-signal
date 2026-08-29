@@ -3,6 +3,139 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk",
+  "category": "Teknologi",
+  "title": "Indodana Raih [Penghargaan] Fintech Berkat Kepatuhan OJK",
+  "deck": "Indodana Fintech meraih predikat perusahaan fintech terbaik di ajang Infobank Award 2026, menegaskan kepatuhan OJK dan manajemen risiko sebagai fondasi pembiayaan digital.",
+  "image": "assets/img/indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T23:58:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463538-indodana-fintech-dorong-pembiayaan-digital-yang-sehat-kepatuhan-ojk-jadi-kunci",
+  "tags": [
+   "fintech lending",
+   "Indodana",
+   "OJK",
+   "manajemen risiko"
+  ],
+  "body": [
+   "Indodana Fintech, yang beroperasi di bawah PT Artha Dana Teknologi, menegaskan bahwa kepatuhan terhadap aturan Otoritas Jasa Keuangan dan penerapan prinsip kehati-hatian menjadi fondasi utama menjaga bisnis pembiayaan digitalnya tetap sehat. Perusahaan menyebut pertumbuhan akses pembiayaan bagi masyarakat perlu berjalan beriringan dengan pengelolaan risiko yang bertanggung jawab, bukan sekadar mengejar jumlah pengguna.",
+   "Perusahaan menyatakan dana yang disalurkan tidak hanya untuk kebutuhan konsumtif, tetapi juga menopang pembiayaan produktif, modal usaha, dan pengelolaan keuangan keluarga. Sejauh ini Indodana telah melayani lebih dari 2,1 juta pengguna di Indonesia.",
+   "Atas kinerja tersebut, Indodana meraih predikat The Excellent Performance Financial Technology Company 2026 untuk kategori aset Rp100 miliar hingga di bawah Rp500 miliar dalam ajang Infobank Financial Technology Award 2026 yang digelar Infobank Media Group. Selain Indodana, ada 18 perusahaan fintech lain yang meraih predikat serupa dalam ajang tersebut.",
+   "Direktur Utama PT Artha Dana Teknologi, Ronny Wijaya, menyatakan penerapan manajemen risiko yang ketat penting untuk menjaga kepercayaan masyarakat sekaligus mempertahankan kinerja bisnis yang sehat. Menurutnya, penilaian dalam ajang ini tidak hanya melihat pertumbuhan bisnis, tetapi juga kualitas operasional dan keberlanjutan usaha perusahaan fintech peserta."
+  ],
+  "fotoAdegan": "A small business owner arranging goods at a modest shop counter with a smartphone resting nearby, warm morning light, Indonesia streetside",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/07/17/6878ad3e9f94c-indodana-finance_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan industri, bukan aturan main baru: Indodana meraih predikat perusahaan fintech berkinerja unggul kelas aset Rp100 miliar sampai di bawah Rp500 miliar, bersama 18 perusahaan sejenis lainnya di ajang yang sama. Yang terdampak langsung adalah citra perusahaan di mata calon nasabah baru, dari basis 2,1 juta pengguna yang sudah tercatat, karena penghargaan semacam ini lazim dipakai untuk meyakinkan pasar bahwa perusahaan taat aturan OJK. Namun berita ini belum menyertakan bukti keras soal kualitas pembiayaannya sendiri, seperti tingkat gagal bayar nasabah, yang jadi ukuran nyata apakah klaim kehati-hatian itu benar berjalan di lapangan. Yang perlu dicermati adalah data statistik fintech lending bulanan dari OJK, termasuk tingkat wanprestasi di atas 90 hari untuk industri ini, karena dari situ baru terlihat apakah klaim kepatuhan sejalan dengan kondisi riil penyaluran pembiayaan.",
+  "imageV": "mtenhg7j"
+ },
+ {
+  "slug": "tiket-modinity-warehouse-sale-ludes-dalam-24-jam",
+  "category": "Bisnis",
+  "title": "Tiket Modinity Warehouse Sale [Ludes] dalam 24 Jam",
+  "deck": "Tiket Modinity Warehouse Sale 2026 ludes kurang dari 24 jam. Acara meluas ke Indonesia dan Malaysia dengan batch kunjungan bertambah jadi 11 per hari.",
+  "image": "assets/img/tiket-modinity-warehouse-sale-ludes-dalam-24-jam.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T23:22:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463528-gempuran-e-commerce-tak-menyurutkan-belanja-offline-konsumen-kembali-serbu-warehouse-sale",
+  "tags": [
+   "warehouse sale",
+   "belanja offline",
+   "fesyen",
+   "Modinity"
+  ],
+  "body": [
+   "Minat masyarakat terhadap belanja fesyen secara langsung ternyata masih tinggi di tengah gempuran belanja daring. Tiket Modinity Warehouse Sale 2026 dilaporkan habis kurang dari 24 jam setelah dibuka, menandakan acara diskon fesyen berskala besar masih punya daya tarik meski konsumen kini punya banyak pilihan belanja lewat aplikasi.",
+   "Tahun ini Modinity memperluas acara ke dua negara sekaligus. Di Indonesia, acara digelar pada 27 sampai 30 Agustus 2026 di Hall 1-2 Indonesia Convention Exhibition, BSD City, Tangerang, sementara di Malaysia digelar di LaLaport Bukit Bintang City Centre, Kuala Lumpur.",
+   "Untuk menampung lonjakan minat pengunjung, jumlah sesi kunjungan harian ditambah dari delapan menjadi 11 batch. Penyelenggara juga memperluas area belanja menjadi satu hall penuh serta menambah fasilitas pendukung seperti area tunggu, tenant kuliner, dan kasir. CEO Modinity Group Linda Anggrea menyebut penambahan ini sebagai respons atas antusiasme pengunjung yang terus meningkat setiap tahun.",
+   "Acara ini melibatkan sejumlah merek dalam ekosistem Modinity, yaitu Buttonscarves, Buttonscarves Beauty, Benang Jarum, Nada Puspita, ZYTA, Calla The Label, dan RR by Rizman Ruzaini. Perluasan ke pasar Malaysia juga menunjukkan upaya pelaku industri fesyen lokal untuk menjangkau konsumen regional sekaligus bertemu langsung dengan pelanggannya."
+  ],
+  "fotoAdegan": "Crowded convention hall with long rows of clothing racks and shoppers browsing folded garments under bright fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/29/6a93069cbc7b2-modinity-warehouse-sale-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari tahun ke tahun cukup jelas dari angkanya: jumlah sesi kunjungan naik dari delapan menjadi 11 batch per hari, dan tiketnya ludes dalam kurang dari 24 jam. Yang terdampak langsung adalah merek-merek fesyen di bawah Modinity seperti Buttonscarves dan Calla The Label, juga penyelenggara acara belanja serupa di Indonesia dan Malaysia yang kini memperebutkan momen belanja offline yang sama. Tapi ini cerita dari satu penyelenggara saja, jadi belum cukup untuk menyimpulkan belanja langsung benar-benar menahan laju e-commerce secara luas, apalagi beritanya tidak menyebut total pengunjung atau nilai transaksi yang terjadi. Yang masih kurang adalah data pembanding semacam survei penjualan eceran Bank Indonesia yang terbit tiap bulan, untuk melihat apakah tren serupa juga terjadi di luar acara warehouse sale ini.",
+  "imageV": "mtenhgrc"
+ },
+ {
+  "slug": "rupiah-menguat-tekan-dolar-as-ke-rp17-693",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
+  "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T22:30:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "kurs rupiah",
+   "nilai tukar"
+  ],
+  "body": [
+   "Rupiah membukukan penguatan terhadap dolar Amerika Serikat pada perdagangan akhir pekan, Sabtu (29/8/2026). Berdasarkan data Bloomberg, dolar AS melemah 0,29% dan kembali bergerak di kisaran Rp17.600, tepatnya di level Rp17.693. Posisi ini lebih rendah Rp51 dibandingkan penutupan sehari sebelumnya di Rp17.744.",
+   "Meski menguat dalam sehari, posisi rupiah terhadap dolar AS sepanjang 2026 belum banyak berubah. Dolar Amerika Serikat masih mencatatkan penguatan 6,07% sejak awal tahun terhadap rupiah. Dalam 52 minggu terakhir, dolar AS bergerak pada rentang Rp16.296 hingga Rp18.209, sehingga level Rp17.693 saat ini masih berada dalam rentang pelemahan rupiah yang cukup lebar.",
+   "Pelemahan dolar AS pada perdagangan tersebut tidak hanya terjadi terhadap rupiah. Dolar AS juga melemah 0,58% terhadap euro, 0,40% terhadap pound sterling Inggris, dan 0,42% terhadap dolar Australia. Pergerakan ini menunjukkan tekanan terhadap dolar AS terjadi lebih luas terhadap sejumlah mata uang utama dunia, bukan hanya terhadap rupiah."
+  ],
+  "fotoAdegan": "Modern bank office towers in Jakarta's financial district reflecting golden sunset light, viewed from a busy street below.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah harga dolar AS turun Rp51 dalam sehari, dari Rp17.744 menjadi Rp17.693, setelah sepanjang tahun ini cenderung terus menguat. Dampaknya terasa bagi importir dan pelaku usaha yang punya utang dalam dolar, karena rupiah yang lebih kuat berarti mereka butuh uang rupiah lebih sedikit untuk membayar kewajiban dolarnya, meski dampak dari pelemahan satu hari ini masih kecil. Yang menarik, pada hari yang sama dolar AS juga melemah terhadap euro, pound Inggris, dan dolar Australia, sehingga pelemahan ini tampak lebih disebabkan oleh tekanan pada dolar AS secara global ketimbang penguatan khusus rupiah. Sepanjang 2026 dolar AS masih unggul 6,07% atas rupiah, jadi satu hari penguatan belum cukup membalik tren tersebut. Yang akan menentukan apakah ini awal pembalikan arah atau sekadar koreksi sesaat adalah pergerakan kurs pada pekan depan, yaitu apakah rupiah bisa bertahan di kisaran Rp17.600 atau kembali melemah ke atas Rp17.700.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan",
+  "category": "UMKM",
+  "title": "Kisah Astuti, Nasabah Mekaar Ubah Jamur Jadi [Camilan]",
+  "deck": "Astuti, nasabah pembiayaan ultra mikro PNM Mekaar, mengolah jamur tiram yang tak laku jual menjadi jamur krispi dan stik jamur agar tidak terbuang dan bernilai jual lebih tinggi.",
+  "image": "assets/img/kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T21:11:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463498-cerita-astuti-bangun-usaha-hingga-pimpin-bank-sampah-tak-ingin-jamur-terbuang",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "Jamur Tiram",
+   "Pembiayaan Ultra Mikro"
+  ],
+  "body": [
+   "Astuti, nasabah pembiayaan ultra mikro dari program PNM Mekaar, mengubah tantangan hasil panen jamur tiram yang tak seluruhnya terserap pasar menjadi peluang usaha baru. Dari dapur berukuran tiga kali tiga meter, ia mengolah jamur yang berisiko terbuang menjadi camilan kering bernama Jamur Krispi dan Stik Jamur. Kisah ini menggambarkan bagaimana pembiayaan mikro bisa mendorong pelaku usaha rumahan menemukan nilai tambah dari keterbatasan yang mereka hadapi.",
+   "Masalah yang dihadapi Astuti cukup umum di kalangan pembudidaya jamur tiram skala kecil. Jamur segar punya umur simpan pendek, sehingga kalau tidak habis terjual dalam waktu singkat, bahan pangan itu terbuang percuma. Alih-alih membatasi produksi, Astuti memilih mengolah kelebihan panennya menjadi produk kering yang tahan lebih lama sekaligus punya harga jual lebih tinggi dibanding jamur mentah, sehingga risiko kerugian berubah jadi sumber pendapatan tambahan.",
+   "Astuti mengaitkan perubahan cara berpikirnya dengan dukungan PNM Mekaar, yang tidak hanya memberi akses pembiayaan tetapi juga pendampingan usaha. Direktur Utama PNM, Kindaris, menyebut pembiayaan dan pemberdayaan perlu berjalan beriringan karena pelaku usaha ultra mikro butuh lebih dari sekadar modal, mereka juga perlu kemampuan mengembangkan usaha dan menghadapi tantangan di lapangan.",
+   "\"Dulu saya hanya berpikir bagaimana jamur yang tak habis terjual tidak terbuang. Sekarang saya tahu, dari sesuatu yang hampir terbuang itu, bisa tumbuh sebuah usaha, harapan untuk keluarga, bahkan manfaat untuk banyak orang,\" ujar Astuti."
+  ],
+  "fotoAdegan": "Woman frying oyster mushroom strips in a small home kitchen, baskets of fresh mushrooms and packaged crispy snacks nearby, warm morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/29/6a92e7a53711a-astuti-nasabah-pnm-mekaar_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dalam cerita ini adalah model usaha Astuti sendiri, dari sekadar menjual jamur tiram segar, ia beralih mengolahnya jadi camilan kering seperti jamur krispi dan stik jamur begitu pasar tidak menyerap seluruh panennya. Yang terdampak langsung adalah pelaku usaha ultra mikro seperti Astuti, kelompok yang disasar program pembiayaan PNM Mekaar berupa modal kecil disertai pendampingan usaha. Cerita ini disampaikan sebagai satu contoh kasus, tanpa angka berapa banyak nasabah Mekaar lain yang berhasil melakukan perubahan serupa atau seberapa besar pembiayaan yang mereka terima, sehingga belum bisa dibaca apakah ini pola yang meluas atau sekadar kisah pengecualian. Yang akan menjawabnya adalah data resmi PNM soal jumlah nasabah yang naik kelas usaha atau laporan kinerja program Mekaar berikutnya.",
+  "imageV": "mtenhhbg"
+ },
+ {
+  "slug": "danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta",
+  "category": "BUMN",
+  "title": "Danantara Siapkan [141 Ribu] Rusun Subsidi di Meikarta",
+  "deck": "Danantara memamerkan dua tipe unit rusun subsidi untuk MBR di Meikarta, bagian dari rencana 141 ribu unit yang lahannya baru diterima sebagai hibah dari Kemenkeu.",
+  "image": "assets/img/danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T19:30:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463455-141-ribu-rusun-subsidi-disiapkan-di-meikarta-ini-dua-tipe-hunian-yang-dipamerkan-danantara",
+  "tags": [
+   "rusun subsidi",
+   "Danantara",
+   "Meikarta",
+   "MBR"
+  ],
+  "body": [
+   "Badan Pengelola Investasi Daya Anagata Nusantara atau Danantara menyiapkan pembangunan 141 ribu rumah susun bersubsidi bagi masyarakat berpenghasilan rendah di kawasan Meikarta. Rencana ini penting karena menyangkut akses hunian terjangkau bagi kelompok yang selama ini paling sulit membeli rumah, dan proyeknya akan tersebar di tiga titik berbeda.",
+   "Dalam Danantara Housing Expo 2026 yang berlangsung hingga Minggu, 30 Agustus di NICE PIK, Banten, Chief Operating Officer Danantara Indonesia Dony Oskaria memamerkan langsung dua tipe unit yang akan ditawarkan. Tipe pertama adalah unit studio seluas 21,15 meter persegi dengan satu kamar tidur dan satu kamar mandi. Tipe kedua lebih luas, 37,05 meter persegi, dengan dua kamar tidur, ruang keluarga, dan satu kamar mandi.",
+   "Meski desain unit sudah diperkenalkan ke publik, proses pembangunan belum masuk tahap konstruksi. Dony menjelaskan, lahan yang akan dipakai untuk proyek ini saat ini masih berada di Kementerian Keuangan setelah diterima sebagai hibah, sehingga tahapan berikutnya masih harus dituntaskan sebelum rusun benar-benar dibangun."
+  ],
+  "fotoAdegan": "Scaffolding-covered high-rise apartment towers under construction against a hazy sky in West Java, Indonesia",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/23/6808ed52e6bfc-menteri-pkp-maruarar-sirait-saat-pertemuan-bos-lippo-group-dengan-korban-meikarta-di-gedung-kementerian-pkp-jakarta-rabu-2342025_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari sekadar wacana adalah kejelasan desainnya, dua tipe unit dengan ukuran 21,15 meter persegi dan 37,05 meter persegi kini sudah dipamerkan langsung ke publik, bukan lagi rencana di atas kertas. Yang terdampak jelas masyarakat berpenghasilan rendah calon penghuni, sementara Kementerian Keuangan sebagai pemilik lahan dan pengelola kawasan Meikarta juga terlibat dalam tahap berikutnya. Yang masih kurang untuk membaca ke mana arah proyek ini adalah kepastian soal lahan, sebab Danantara sendiri menyebut lahan itu baru diterima sebagai hibah dan belum sampai ke tahap konstruksi. Yang perlu dipantau adalah kapan proses serah terima lahan itu tuntas dan kapan groundbreaking pertama diumumkan, karena selama itu belum terjadi, angka 141 ribu unit masih berstatus rencana.",
+  "imageV": "mtenhhth"
+ },
+ {
   "slug": "mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan",
   "category": "Makroekonomi",
   "title": "Mendag Cek Pasar Banyuwangi, Ayam [Mendekati] Harga Acuan",
@@ -2799,7 +2932,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
   "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:10:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia",
@@ -3350,7 +3483,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",
@@ -3586,7 +3719,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/pesawat-bandara.jpg",
+  "image": "assets/img/menara-telko.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

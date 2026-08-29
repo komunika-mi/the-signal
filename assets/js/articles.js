@@ -3,6 +3,160 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Delisting] Saham SPUSF Efektif 29 Agustus, Imbas OJK",
+  "deck": "Bursa Efek Indonesia resmi mencabut pencatatan saham SPUSF mulai 29 Agustus 2026 atas perintah OJK, tanpa rincian alasan dalam pengumuman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T17:50:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_SPUSF_B006_0c8e56df-0554-4aae-82f1-78deee6b59e6-20260829174954.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPUSF",
+  "tags": [
+   "SPUSF",
+   "delisting",
+   "OJK",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) resmi mengumumkan penghapusan pencatatan atau delisting saham berkode SPUSF, berlaku efektif mulai 29 Agustus 2026. Dalam pengumuman bernomor TESTT-B006-29082026-1 yang diterbitkan pada 29 Agustus 2026 pukul 17.50 WIB, bursa menyatakan bahwa penyebab delisting ini adalah perintah dari Otoritas Jasa Keuangan (OJK), bukan pengajuan sukarela dari pihak emiten.",
+   "Pengumuman tersebut tidak merinci alasan di balik perintah OJK itu. Kolom keterangan tambahan dalam dokumen resmi bursa ini juga dibiarkan kosong, sehingga publik belum mengetahui pelanggaran atau kondisi apa yang mendasari keputusan pencabutan izin pencatatan saham SPUSF dari papan perdagangan bursa."
+  ],
+  "fotoAdegan": "A quiet, dimly lit stock exchange trading floor in Jakarta with rows of empty desks and blurred computer monitors in the background.",
+  "takeaway": "Ini kabar negatif bagi pemegang saham SPUSF karena bursa mencabut paksa pencatatan sahamnya atas perintah OJK, bukan atas keputusan sukarela perusahaan sendiri. Yang tersentuh adalah likuiditas saham, yaitu kemudahan investor menjual atau membeli saham tersebut, sebab begitu delisting berlaku, saham itu tidak lagi bisa diperdagangkan di papan reguler bursa. Pengumuman ini tidak menjelaskan alasan spesifik di balik perintah OJK, sehingga penyebab sebenarnya belum diketahui publik. Yang perlu dipantau berikutnya adalah penjelasan resmi lanjutan dari OJK atau pihak terkait soal alasan pencabutan ini, mengingat tanggal efektif delisting, yaitu 29 Agustus 2026, sudah berlaku hari ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "xiif-bagikan-dividen-tunai-kik-cum-dividen-hari-ini",
+  "category": "Aksi Korporasi",
+  "title": "XIIF Bagikan [Dividen] Tunai KIK, Cum Dividen Hari Ini",
+  "deck": "Pengelola KIK XIIF mengumumkan dividen tunai maksimum Rp81.723 per unit penyertaan, dengan pembayaran dijadwalkan 3 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:39:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_XIIF_E045_2f52d145-7fdd-4539-bda9-574adfab9dbd-20260829153852.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XIIF",
+  "tags": [
+   "XIIF",
+   "dividen",
+   "KIK",
+   "pasar modal"
+  ],
+  "body": [
+   "Pengelola Kontrak Investasi Kolektif (KIK) XIIF mengumumkan pembagian dividen tunai yang diputuskan pada 29 Agustus 2026. Berdasarkan keterbukaan informasi ke Bursa Efek Indonesia, jumlah dividen yang akan dibagikan sebanyak-banyaknya Rp1.294.871, dengan dividen per unit penyertaan maksimum sebesar Rp81.723.",
+   "Jadwal pembagian dividen sudah ditetapkan lengkap dengan tanggal cum dan ex dividen. Di pasar reguler dan negosiasi, cum dividen jatuh pada 29 Agustus 2026 dan ex dividen pada 30 Agustus 2026. Di pasar tunai, cum dividen berlaku 31 Agustus 2026 dan ex dividen 1 September 2026.",
+   "Pemegang unit penyertaan yang berhak menerima dividen ditentukan berdasarkan Daftar Pemegang Unit Penyertaan per 2 September 2026 pukul 15.39 WIB, dan dividen akan dibayarkan pada 3 September 2026."
+  ],
+  "fotoAdegan": "Jakarta financial district skyline with modern glass office towers reflecting late afternoon light",
+  "takeaway": "Pembagian dividen tunai ini condong positif bagi pemegang unit penyertaan XIIF, karena dana hasil investasi portofolio dikembalikan langsung sebagai kas ke investor. Yang tersentuh adalah arus kas pemegang unit dan nilai aktiva bersih per unit, sebab begitu masuk tanggal ex dividen, harga unit otomatis turun sebesar nilai dividen yang dibagikan karena kas tersebut sudah keluar dari portofolio KIK. Pemodal yang ingin memastikan haknya perlu mengecek posisi kepemilikannya sebelum tanggal cum dividen berakhir, karena yang tercatat di Daftar Pemegang Unit Penyertaan pada 2 September 2026 pukul 15.39 WIB itulah yang berhak menerima pembayaran. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada 3 September 2026, untuk memastikan dividen benar cair sesuai jadwal yang diumumkan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hkmu-reverse-stock-1-4-saham-beredar-susut-ke-12-978",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Reverse Stock 1:4, Saham Beredar [Susut] ke 12.978",
+  "deck": "RUPS HKMU menyetujui penggabungan saham dengan rasio 1:4, mengubah jumlah saham beredar dari 8.712.937 menjadi 12.978 lembar mulai 30 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:29:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_8663a346-fce7-48ab-b9f3-8ef3d194dbe6-20260829152845.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HKMU",
+  "tags": [
+   "HKMU",
+   "reverse stock",
+   "aksi korporasi",
+   "penggabungan saham"
+  ],
+  "body": [
+   "PT HK Metals Utama Tbk (HKMU) menyampaikan keterbukaan informasi mengenai reverse stock atau penggabungan nilai nominal saham, menyusul persetujuan RUPS pada 29 Agustus 2026. Rasio penggabungan ditetapkan 1:4, dengan nilai nominal saham berubah dari Rp12.387 menjadi Rp18.273 per saham. Sebagai konsekuensinya, jumlah saham beredar perusahaan berkurang dari 8.712.937 saham menjadi 12.978 saham.",
+   "Perdagangan saham dengan nilai nominal lama berakhir pada 29 Agustus 2026 di seluruh pasar. Saham dengan nilai nominal baru mulai diperdagangkan di pasar reguler dan negosiasi pada 30 Agustus 2026, sedangkan di pasar tunai baru berlaku mulai 31 Agustus 2026.",
+   "Bagi pemegang saham yang kepemilikannya tidak genap satu satuan perdagangan (lot) setelah penggabungan, disediakan pembeli siaga yang akan menyerap saham pecahan tersebut seharga Rp81.972 per saham. Periode pembelian saham pecahan itu berlangsung pada 1 hingga 2 September 2026, dengan jadwal penyelesaian pembelian saham yang tidak memenuhi satu lot ditetapkan pada 5 September 2026."
+  ],
+  "fotoAdegan": "Workers inspecting stacked metal ingots inside a warehouse at an industrial metal processing plant, dim overhead lighting",
+  "takeaway": "Aksi ini kami nilai netral bagi fundamental HKMU, karena penggabungan saham hanya mengubah denominasi dan jumlah lembar saham, bukan menambah kas perusahaan atau mengubah nilai kekayaan pemegang saham secara proporsional. Pos yang tersentuh adalah jumlah saham beredar, yang menyusut tajam dari 8.712.937 menjadi 12.978 saham, sehingga laba per saham dan nilai buku per lembar otomatis naik meski total ekuitas perusahaan tidak berubah; pelaku pasar mencermati ini karena mempengaruhi perhitungan valuasi per saham ke depan. Pemegang saham dengan sisa kepemilikan yang tidak genap satu lot baru akan dibeli paksa oleh pembeli siaga seharga Rp81.972 per saham pada 1 hingga 2 September 2026, sehingga perlu memastikan jumlah kepemilikannya sebelum periode itu. Yang perlu dipantau berikutnya adalah dimulainya perdagangan dengan nilai nominal baru pada 30 Agustus 2026 di pasar reguler dan negosiasi, 31 Agustus 2026 di pasar tunai, serta jadwal pembelian sisa saham pecahan pada 5 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hkmu-rilis-rights-issue-dilusi-saham-lewat-hmetd-dan-waran",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Rilis Rights Issue, [Dilusi] Saham Lewat HMETD dan Waran",
+  "deck": "RUPS HKMU menyetujui penambahan modal lewat HMETD dengan rasio 1:4 harga Rp1.823, disertai penerbitan waran dan obligasi wajib konversi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:28:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_db62d6da-bc3b-454a-b73b-6a763b5c7999-20260829152733.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HKMU",
+  "tags": [
+   "HKMU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT HK Metals Utama Tbk (HKMU) mengumumkan hasil Rapat Umum Pemegang Saham (RUPS) tanggal 29 Agustus 2026 yang menyetujui penambahan modal melalui skema Hak Memesan Efek Terlebih Dahulu (HMETD), yaitu hak bagi pemegang saham lama untuk membeli saham baru lebih dulu sebelum ditawarkan ke publik. Perseroan akan menerbitkan saham baru sebanyak-banyaknya 129.837 lembar dengan nilai nominal Rp12.947 per saham, dengan rasio HMETD 1 banding 4 dan harga pelaksanaan Rp1.823 per saham. Penerbitan HMETD ini disertai waran, yaitu hak membeli saham tambahan di kemudian hari, dengan rasio 2 banding 4 dan harga pelaksanaan Rp12.837 per waran.",
+   "Selain waran, hak yang diterbitkan juga bisa dikonversi menjadi saham lewat instrumen utang berupa obligasi wajib konversi (OWK). Pemegang saham lama akan menerima HMETD dengan rasio 2 banding 78, setiap HMETD memberi hak atas OWK dengan rasio 1 banding 2, dan setiap OWK dapat dikonversi menjadi 124.917 saham dengan harga pelaksanaan Rp19.283 per saham. Obligasi ini jatuh tempo pada 29 Agustus 2026, dengan masa konversi menjadi saham berlangsung pada 30 hingga 31 Agustus 2026, dan jika tidak dikonversi dalam periode tersebut obligasi otomatis dinyatakan jatuh tempo. Sebagian setoran modal juga dapat berupa aset selain uang tunai senilai 198.273, yang telah dinilai wajar oleh penilai independen pada 29 Agustus 2026.",
+   "Perseroan menetapkan jadwal HMETD sebagai berikut: tanggal efektif 1 September 2026, tanggal daftar pemegang saham yang berhak atas HMETD 2 September 2026, cum HMETD di pasar reguler dan negosiasi 3 September 2026, ex HMETD di pasar reguler dan negosiasi 4 September 2026, cum HMETD di pasar tunai 5 September 2026, ex HMETD di pasar tunai 6 September 2026, distribusi HMETD 7 September 2026, dan pencatatan efek di Bursa Efek Indonesia 8 September 2026. Perdagangan HMETD berlangsung 9 hingga 11 September 2026, pelaksanaan HMETD 10 hingga 12 September 2026, batas akhir pembayaran pesanan efek tambahan 13 September 2026, penyerahan efek 14 hingga 15 September 2026, penjatahan 16 September 2026, dan pengembalian kelebihan uang pesanan 17 September 2026."
+  ],
+  "fotoAdegan": "Workers monitoring molten metal being poured at an industrial metal processing plant, sparks and heat haze rising",
+  "takeaway": "Aksi ini kami nilai negatif bagi pemegang saham lama HKMU, karena jumlah saham baru yang bisa diterbitkan, hingga 129.837 lembar, jauh melampaui jumlah saham beredar saat ini yang baru saja menyusut menjadi 12.978 lembar akibat penggabungan saham sebelumnya, sehingga porsi kepemilikan investor yang tidak menebus haknya berisiko tergerus signifikan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena begitu saham baru dari HMETD, waran, dan obligasi konversi ini terbit satu per satu, laba bersih perusahaan akan dibagi ke lebih banyak lembar saham sehingga jatah laba tiap saham berpotensi mengecil, sementara dokumen ini tidak merinci untuk apa dana hasil penawaran akan dipakai. Investor perlu mengawal tanggal daftar pemegang saham pada 2 September 2026 untuk memastikan hak mereka tercatat, masa konversi obligasi (OWK) pada 30 hingga 31 Agustus 2026 karena obligasi itu jatuh tempo pada 29 Agustus 2026, serta periode pelaksanaan HMETD pada 10 hingga 12 September 2026 yang menentukan seberapa besar dilusi akhirnya terjadi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kuki-catatkan-obligasi-rp1-miliar-bunga-10-persen",
+  "category": "Aksi Korporasi",
+  "title": "KUKI Catatkan [Obligasi] Rp1 Miliar Bunga 10 Persen",
+  "deck": "BEI mulai mencatatkan Obligasi KUKI 2 2026 seri A senilai Rp1 miliar dengan bunga tetap 10 persen dan rating AA dari Pefindo, mulai 29 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:27:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_KUKI_B011_korporasi_b2335fd2-0e32-437b-a4c0-5306dc55a4c2-20260829152631.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KUKI",
+  "tags": [
+   "KUKI",
+   "obligasi korporasi",
+   "BEI",
+   "pencatatan obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan awal Obligasi KUKI 2 2026 milik emiten berkode KUKI, mulai berlaku 29 Agustus 2026. Pencatatan ini mengacu pada surat emiten dan surat BEI yang sama-sama tertanggal 28 Agustus 2026. Obligasi ini terdiri dari satu seri, yaitu Seri A dengan kode KUKI02A, diterbitkan dalam mata uang rupiah senilai Rp1 miliar, sesuai nilai emisi yang tercatat sebesar 1.000 juta rupiah.",
+   "Obligasi ini memberikan bunga tetap 10 persen per tahun kepada pemegangnya. Surat utang ini terbit pada 28 Agustus 2026 dan jatuh tempo tiga tahun kemudian, tepatnya pada 28 Agustus 2029. Lembaga pemeringkat Pefindo memberikan peringkat AA untuk obligasi ini, salah satu kategori layak investasi dengan risiko gagal bayar yang tergolong rendah. Dokumen pengumuman tidak mencantumkan nama wali amanat maupun bank kustodian yang menangani obligasi ini."
+  ],
+  "fotoAdegan": "Exterior of a modern high rise office tower in Jakarta's financial district, glass facade reflecting morning sky, light traffic below",
+  "takeaway": "Laporan ini netral bagi KUKI: penerbitan obligasi memang menambah dana segar bagi perusahaan, tapi nilai emisinya yang hanya Rp1 miliar tergolong sangat kecil untuk ukuran aksi pendanaan korporasi, sehingga dampaknya ke keuangan perusahaan diperkirakan terbatas. Yang tersentuh dari langkah ini adalah pos utang dan beban bunga, karena KUKI kini punya kewajiban membayar bunga 10 persen setahun kepada pemegang obligasi sampai jatuh tempo, sementara arus kas perusahaan akan menampung dana masuk dari penerbitan sekaligus menyisihkan dana keluar untuk cicilan bunga tiap periode. Rating AA dari Pefindo menunjukkan lembaga pemeringkat menilai risiko gagal bayar KUKI atas obligasi ini rendah, yang biasanya membuat investor obligasi merasa lebih aman menaruh dana di sana. Dokumen ini belum menjelaskan untuk apa dana hasil obligasi dipakai, jadi yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana yang wajib disampaikan emiten ke bursa serta jatuh tempo pembayaran pokok pada 28 Agustus 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hkmu-ganti-komisaris-dan-direksi-kuorum-rups-cuma-23",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Ganti [Komisaris] dan Direksi, Kuorum RUPS Cuma 23%",
+  "deck": "RUPS Tahunan HKMU yang dihadiri 23% pemegang saham menyetujui pergantian susunan direksi dan komisaris dengan masa jabatan yang tercatat sangat singkat di dokumen resmi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T15:20:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E013_15e9f9f1-db6b-4b61-8015-8d3f23b74549-20260829151921.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HKMU",
+  "tags": [
+   "HKMU",
+   "RUPS",
+   "Komisaris",
+   "Direksi"
+  ],
+  "body": [
+   "PT HK Metals Utama Tbk (HKMU) menggelar Rapat Umum Pemegang Saham Tahunan pada 29 Agustus 2026 yang dihadiri pemegang saham mewakili 1.823.987 lembar saham, atau setara 23 persen dari seluruh saham berhak suara yang telah diterbitkan perseroan. Satu-satunya agenda rapat, yaitu persetujuan pengangkatan kembali atau perubahan susunan Dewan Komisaris untuk tahun buku 2023, disetujui bulat oleh pemegang saham yang hadir tanpa ada suara menolak maupun abstain.",
+   "Dengan keputusan itu, susunan pengurus perseroan berubah. Di jajaran direksi, tercatat nama Lorem Nama menjabat sebagai Wakil Direktur Utama untuk periode pertama, dengan awal masa jabatan 29 Agustus 2026 dan berakhir 31 Agustus 2026. Di jajaran komisaris, Lorem Pengurus ditunjuk sebagai Presiden Komisaris merangkap Komisaris Independen untuk periode ketiga, dengan masa jabatan yang menurut dokumen berlangsung dari 29 Agustus 2026 hingga 5 September 2026.",
+   "Perseroan tidak merinci alasan pergantian maupun rencana kerja pengurus baru dalam ringkasan risalah ini. Hasil keputusan RUPS baik versi Indonesia maupun Inggris dalam dokumen juga tidak memuat penjelasan tambahan di luar persetujuan susunan pengurus tersebut."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a corporate meeting hall, soft morning light through tall windows, no people",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental HKMU, karena isinya murni soal pergantian struktur pengurus, tanpa menyentuh kas, utang, atau jumlah saham beredar perusahaan. Pergantian direksi dan komisaris memang tidak langsung mengubah pos keuangan seperti ekuitas atau arus kas, tapi pelaku pasar tetap memperhatikannya karena arah strategi dan kualitas pengawasan perusahaan bergantung pada siapa yang duduk di kursi-kursi itu. Perlu dicatat pula bahwa keputusan ini digolkan oleh pemegang saham yang hadir hanya 23 persen dari total hak suara, sehingga mencerminkan kontrol yang relatif terpusat. Yang perlu dipantau selanjutnya adalah masa jabatan yang menurut dokumen ini tergolong sangat pendek, yakni Wakil Direktur Utama berakhir 31 Agustus 2026 dan Presiden Komisaris pada 5 September 2026, sehingga publik perlu menunggu apakah akan ada RUPS lanjutan yang memperpanjang atau mengganti kembali susunan pengurus ini dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
   "category": "Industri",
   "title": "Ekspor Koral RI ke AS, Kalah Jauh dari [Jepang]",

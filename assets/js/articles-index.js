@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BEI [Delisting] Saham SPUSF Efektif 29 Agustus, Imbas OJK",
+  "deck": "Bursa Efek Indonesia resmi mencabut pencatatan saham SPUSF mulai 29 Agustus 2026 atas perintah OJK, tanpa rincian alasan dalam pengumuman.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPUSF",
+   "delisting",
+   "OJK",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_SPUSF_B006_0c8e56df-0554-4aae-82f1-78deee6b59e6-20260829174954.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xiif-bagikan-dividen-tunai-kik-cum-dividen-hari-ini",
+  "category": "Aksi Korporasi",
+  "title": "XIIF Bagikan [Dividen] Tunai KIK, Cum Dividen Hari Ini",
+  "deck": "Pengelola KIK XIIF mengumumkan dividen tunai maksimum Rp81.723 per unit penyertaan, dengan pembayaran dijadwalkan 3 September 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XIIF",
+   "dividen",
+   "KIK",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_XIIF_E045_2f52d145-7fdd-4539-bda9-574adfab9dbd-20260829153852.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hkmu-reverse-stock-1-4-saham-beredar-susut-ke-12-978",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Reverse Stock 1:4, Saham Beredar [Susut] ke 12.978",
+  "deck": "RUPS HKMU menyetujui penggabungan saham dengan rasio 1:4, mengubah jumlah saham beredar dari 8.712.937 menjadi 12.978 lembar mulai 30 Agustus 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HKMU",
+   "reverse stock",
+   "aksi korporasi",
+   "penggabungan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_8663a346-fce7-48ab-b9f3-8ef3d194dbe6-20260829152845.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hkmu-rilis-rights-issue-dilusi-saham-lewat-hmetd-dan-waran",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Rilis Rights Issue, [Dilusi] Saham Lewat HMETD dan Waran",
+  "deck": "RUPS HKMU menyetujui penambahan modal lewat HMETD dengan rasio 1:4 harga Rp1.823, disertai penerbitan waran dan obligasi wajib konversi.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HKMU",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_db62d6da-bc3b-454a-b73b-6a763b5c7999-20260829152733.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kuki-catatkan-obligasi-rp1-miliar-bunga-10-persen",
+  "category": "Aksi Korporasi",
+  "title": "KUKI Catatkan [Obligasi] Rp1 Miliar Bunga 10 Persen",
+  "deck": "BEI mulai mencatatkan Obligasi KUKI 2 2026 seri A senilai Rp1 miliar dengan bunga tetap 10 persen dan rating AA dari Pefindo, mulai 29 Agustus 2026.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KUKI",
+   "obligasi korporasi",
+   "BEI",
+   "pencatatan obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_KUKI_B011_korporasi_b2335fd2-0e32-437b-a4c0-5306dc55a4c2-20260829152631.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hkmu-ganti-komisaris-dan-direksi-kuorum-rups-cuma-23",
+  "category": "Aksi Korporasi",
+  "title": "HKMU Ganti [Komisaris] dan Direksi, Kuorum RUPS Cuma 23%",
+  "deck": "RUPS Tahunan HKMU yang dihadiri 23% pemegang saham menyetujui pergantian susunan direksi dan komisaris dengan masa jabatan yang tercatat sangat singkat di dokumen resmi.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HKMU",
+   "RUPS",
+   "Komisaris",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E013_15e9f9f1-db6b-4b61-8015-8d3f23b74549-20260829151921.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
   "category": "Industri",
   "title": "Ekspor Koral RI ke AS, Kalah Jauh dari [Jepang]",
@@ -6411,106 +6507,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/460931-ritel-indonesia-hadapi-perubahan-besar-strategi-lama-mulai-ditinggalkan"
- },
- {
-  "slug": "aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya",
-  "category": "Energi",
-  "title": "AESI Gelar Indosolar 2026, Dorong Ekosistem Energi [Surya]",
-  "deck": "AESI menggelar Indosolar 2026 pada 19-20 Agustus di Jakarta untuk memperkuat ekosistem energi surya, bersamaan dengan Indonesia Sustainable Energy Week 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/aesi-gelar-indosolar-2026-dorong-ekosistem-energi-surya.jpg",
-  "imageV": "mszajszx",
-  "tags": [
-   "Indosolar 2026",
-   "AESI",
-   "Energi Surya",
-   "EBT"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460926-indosolar-2026-digelar-ekosistem-energi-surya-indonesia-mau-terus-didorong-agar-semakin-kuat"
- },
- {
-  "slug": "hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "HDIT Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta HDIT menjelaskan lonjakan volatilitas sahamnya. Perseroan menyatakan tidak ada informasi material tersembunyi maupun rencana aksi korporasi dalam waktu dekat.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/hdit-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya.jpg",
-  "imageV": "mszrgwbi",
-  "tags": [
-   "HDIT",
-   "Hensel Davest Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/30bd4fe5a2_7240081a06.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "PYFA tunda [rights issue] II, rugi usaha susut 99% semester I",
-  "deck": "PYFA menunda pelaksanaan rights issue kedua karena kondisi pasar modal lemah, sembari melaporkan penjualan naik 17 persen dan rugi usaha nyaris impas pada semester I 2026.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/pyfa-tunda-rights-issue-ii-rugi-usaha-susut-99-semester-i.jpg",
-  "imageV": "mszvwar1",
-  "tags": [
-   "PYFA",
-   "farmasi",
-   "rights issue",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69f2579c43_2274d94491.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa",
-  "category": "BUMN",
-  "title": "BRI Peduli [Bangun] Tiga Posko Logistik di NTT Pascagempa",
-  "deck": "BRI mendirikan tiga posko logistik dan satu dapur umum di Manggarai Barat, Ngada, dan Nagekeo untuk mempercepat penyaluran bantuan bagi warga terdampak gempa Flores.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/bri-peduli-bangun-tiga-posko-logistik-di-ntt-pascagempa.jpg",
-  "imageV": "msytotvn",
-  "tags": [
-   "BRI Peduli",
-   "gempa Flores",
-   "BUMN",
-   "NTT"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460884-bri-peduli-bangun-3-posko-logistik-dan-1-dapur-umum-di-ntt-direksi-bri-terjun-langsung-tinjau-lokasi-gempa"
- },
- {
-  "slug": "pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi",
-  "category": "BUMN",
-  "title": "Pertamina Undi 25 Motor untuk Ojol, [BOOM] Sisakan 50 Unit Lagi",
-  "deck": "Pertamina Patra Niaga mengundi 25 motor Honda Vario 160 untuk mitra ojol lewat Program BOOM Periode 2, bertepatan HUT ke-81 RI. Masih ada 50 unit motor lagi yang akan diundi.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/pertamina-undi-25-motor-untuk-ojol-boom-sisakan-50-unit-lagi.jpg",
-  "imageV": "msytoujk",
-  "tags": [
-   "Pertamina Patra Niaga",
-   "BOOM",
-   "ojek online",
-   "MyPertamina"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460880-semarak-hut-kemerdekaan-pertamina-patra-niaga-undi-25-motor-untuk-ojol-lewat-boom-periode-2-masih-ada-50-unit"
- },
- {
-  "slug": "nick-direksi-beli-1-400-saham-senilai-rp2-juta",
-  "category": "Aksi Korporasi",
-  "title": "NICK: Direksi [Beli] 1.400 Saham Senilai Rp2 Juta",
-  "deck": "Nicholas Santoso, direksi Charnic Capital, melaporkan pembelian tidak langsung 1.400 saham pada 14 Agustus 2026, namun porsinya kecil dan hak suara tidak berubah.",
-  "date": "18 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "kepemilikan saham",
-   "insider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18082026-6979-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

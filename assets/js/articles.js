@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
+  "category": "Moneter",
+  "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
+  "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T02:00:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru",
+  "tags": [
+   "DHE SDA",
+   "Pasal 18A",
+   "eksportir tambang",
+   "bank devisa"
+  ],
+  "body": [
+   "Pemerintah mulai memberlakukan penyempurnaan aturan Devisa Hasil Ekspor (DHE) dari sektor sumber daya alam melalui Pasal 18A Peraturan Pemerintah Nomor 21 Tahun 2026, efektif 1 September 2026. Aturan ini membuka skema khusus bagi eksportir tambang yang memenuhi kriteria tertentu, berbeda dari kewajiban DHE SDA yang berlaku umum selama ini.",
+   "Kemenko Perekonomian menetapkan lima negara yang memenuhi ketentuan Pasal 18A, yaitu Amerika Serikat, Tiongkok, Hong Kong, Australia, dan Kanada. Pemilihan ini didasarkan pada dua hal, kelima negara tersebut merupakan sumber investasi terbesar di sektor pertambangan Indonesia, dan masing-masing memiliki perjanjian atau kesepakatan dagang bilateral dengan Indonesia sebagaimana disyaratkan pasal itu.",
+   "Kriteria eksportir yang bisa memakai skema ini diatur lewat Peraturan Menteri Keuangan Nomor 48 Tahun 2026. Eksportir harus berbentuk Perseroan Terbatas di sektor pertambangan, memiliki setidaknya satu pemegang saham yang berasal dari salah satu dari lima negara mitra tersebut, dan pemegang saham itu wajib menguasai saham minimal 10 persen.",
+   "Ketentuan ini disosialisasikan Kemenko Perekonomian pada 28 Agustus 2026 di Graha Sawala, Kantor Kemenko Perekonomian, dibuka oleh Sekretaris Kemenko Perekonomian Susiwijono Moegiarso dengan narasumber dari Kemenko Perekonomian, Kementerian Keuangan, dan Bank Indonesia. Forum yang dihadiri pelaku usaha tambang, perbankan, asosiasi usaha, dan kamar dagang asing itu sekaligus mengumumkan empat keputusan pelaksanaan, yakni penetapan negara, kriteria eksportir, penetapan bank devisa tempat penempatan DHE SDA, dan mekanisme pengaliran data eksportir yang memenuhi syarat."
+  ],
+  "fotoAdegan": "Workers guiding mined ore onto a conveyor belt at an open-pit mining site, heavy trucks in the background, daylight",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah mulai berlakunya Pasal 18A PP 21/2026 pada 1 September, yang membuka skema khusus devisa hasil ekspor SDA bagi eksportir tambang berbentuk PT yang memiliki pemegang saham dari lima negara mitra, yaitu Amerika Serikat, Tiongkok, Hong Kong, Australia, dan Kanada, dengan kepemilikan saham minimal 10 persen. Pihak yang langsung terdampak adalah eksportir tambang dengan struktur saham asing dari kelima negara itu, serta bank devisa yang ditunjuk menampung dana ekspor mereka. Yang belum bisa dibaca arahnya dari sosialisasi ini adalah isi konkret skema khusus tersebut, misalnya berapa lama devisa wajib ditahan atau kemudahan apa yang didapat eksportir yang memenuhi syarat, karena daftar 15 bank devisa dan 64 eksportir yang memenuhi kriteria belum diumumkan secara rinci ke publik. Yang perlu dipantau adalah aturan turunan atau pengumuman resmi berikutnya yang memuat daftar bank dan eksportir itu, karena dari situ baru terlihat seberapa luas cakupan skema ini benar-benar berjalan.",
+  "fotoDitolak": true
+ },
+ {
   "slug": "indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk",
   "category": "Teknologi",
   "title": "Indodana Raih [Penghargaan] Fintech Berkat Kepatuhan OJK",
@@ -3483,7 +3510,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",
@@ -3719,7 +3746,7 @@ var ARTICLES = [
   "category": "BUMN",
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "date": "24 Agustus 2026",
   "isoDate": "2026-08-24T21:06:50+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia",

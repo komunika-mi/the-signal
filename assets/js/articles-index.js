@@ -5,6 +5,21 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
+  "category": "Moneter",
+  "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
+  "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "DHE SDA",
+   "Pasal 18A",
+   "eksportir tambang",
+   "bank devisa"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru"
+ },
+ {
   "slug": "indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk",
   "category": "Teknologi",
   "title": "Indodana Raih [Penghargaan] Fintech Berkat Kepatuhan OJK",
@@ -2168,7 +2183,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -2313,7 +2328,7 @@ var ARTICLES = [
   "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
   "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
   "date": "24 Agustus 2026",
-  "image": "assets/img/menara-telko.jpg",
+  "image": "assets/img/pesawat-bandara.jpg",
   "tags": [
    "Danantara",
    "PT DSI",
@@ -6486,23 +6501,6 @@ var ARTICLES = [
    "Digital Edge Hong Kong"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6d0e21d368_9751050c13.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jelaskan ke Bursa Akuisisi 6 Anak Usaha [Terafiliasi]",
-  "deck": "BIKE menjawab surat Bursa soal rencana akuisisi enam anak usaha yang didanai fasilitas Rp1 triliun dari pihak yang terafiliasi dengan pengendali Perseroan sendiri.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bike-jelaskan-ke-bursa-akuisisi-6-anak-usaha-terafiliasi.jpg",
-  "imageV": "mszpma8d",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "pihak terafiliasi",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/648dd7b63d_0cdc89f660.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -319,6 +319,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463397-dpr-desak-koreksi-dtsen-maksimal-14-hari-kerja-desil-tak-boleh-jadi-hakim-tunggal-penerima-bansos"
  },
  {
+  "slug": "crab-liabilitas-toba-surimi-turun-38-75-ekuitas-naik",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Liabilitas Toba Surimi Turun 38,75%, [Ekuitas] Naik",
+  "deck": "Laporan keuangan tahunan CRAB mencatat total liabilitas turun 38,75 persen jadi Rp46,74 miliar, membuat ekuitas perusahaan naik sekitar Rp19,4 miliar.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "laporan keuangan",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260829122655-62602-0/FinancialStatement-2025-Tahunan-CRAB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "plts-atap-surabaya-kurangi-715-ton-emisi-karbon",
   "category": "Energi",
   "title": "PLTS Atap Surabaya Kurangi [715] Ton Emisi Karbon",
@@ -387,6 +403,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "adro-bukukan-laba-us-329-juta-liabilitas-naik-48",
+  "category": "Aksi Korporasi",
+  "title": "ADRO Bukukan Laba US$329 Juta, [Liabilitas] Naik 48%",
+  "deck": "Laba bersih Alamtri Resources melonjak 69 persen jadi US$329 juta pada semester I 2026, sementara liabilitas naik 48 persen untuk mendanai proyek smelter aluminium.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "laporan keuangan",
+   "smelter aluminium"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829110426-64311-0/FinancialStatement-2026-II-ADRO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
   "category": "Aksi Korporasi",
   "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
@@ -400,6 +432,22 @@ var ARTICLES = [
    "Astra Agro Lestari"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_AALI_E010_950d3115-f1c0-4fe1-9b53-8ab1786059ab-20260829103018.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "oils-laba-semester-i-melonjak-7-kali-lipat-jadi-rp21-4-m",
+  "category": "Aksi Korporasi",
+  "title": "OILS: Laba Semester I [Melonjak 7 Kali Lipat] jadi Rp21,4 M",
+  "deck": "Laba PT Indo Oil Perkasa Tbk naik hampir tujuh kali lipat menjadi Rp21,48 miliar pada semester I 2026, didukung penjualan yang tumbuh 56 persen.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OILS",
+   "laporan keuangan",
+   "laba bersih",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829103655-64261-0/FinancialStatement-2026-II-OILS.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -435,6 +483,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tays-rombak-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TAYS Rombak [Direksi] dan Komisaris Usai RUPSLB",
+  "deck": "RUPSLB TAYS pada 1 April 2026 menyetujui pergantian satu direktur dan satu komisaris independen, disahkan bulat oleh pemegang saham yang hadir.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAYS",
+   "Perubahan Pengurus",
+   "RUPSLB",
+   "Direksi Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e18c387dd1_5d1c0dea47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "antm-laba-semester-i-2026-melonjak-34-jadi-rp6-9-t-laba",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Laba Semester I 2026 Melonjak 34% jadi Rp6,9 T [Laba]",
+  "deck": "Pendapatan ANTM naik jadi Rp62,71 triliun dan laba bersih melonjak 34,4 persen menjadi Rp6,91 triliun pada semester I 2026, meski beban bunga dan persediaan ikut membengkak.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828233441-64266-0/FinancialStatement-2026-II-ANTM.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -450,6 +530,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463293-umk-academy-2026-pertamina-kembali-dibuka-kesempatan-lokal-naik-kelas-dan-perluas-pasar-hingga-global"
+ },
+ {
+  "slug": "wika-ekuitas-anjlok-ke-rp130-m-rugi-rp1-55-t-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Ekuitas [Anjlok] ke Rp130 M, Rugi Rp1,55 T di Semester I",
+  "deck": "Laporan keuangan interim WIKA per Juni 2026 menunjukkan ekuitas tergerus hingga tersisa Rp130 miliar dan rugi bersih Rp1,55 triliun, di tengah proses penundaan pembayaran sukuk yang sedang diajukan perseroan.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "laporan keuangan",
+   "sukuk",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828222418-64258-0/FinancialStatement-2026-II-WIKA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "refi-janji-rampungkan-laporan-keuangan-paling-lambat-30-september",
+  "category": "Aksi Korporasi",
+  "title": "REFI Janji Rampungkan Laporan Keuangan [Paling Lambat] 30 September",
+  "deck": "REFI menjawab peringatan tertulis pertama BEI soal telat laporan keuangan tengah tahun 2026, menyebut laporannya masih diaudit KAP dan berjanji terbit paling lambat 30 September 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REFI",
+   "Laporan Keuangan",
+   "Bursa Efek Indonesia",
+   "Sanksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5178a7b590_a2121d3e15.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-rugi-bersih-melonjak-ke-rp37-8-miliar-ekuitas-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CASH rugi bersih [melonjak] ke Rp37,8 miliar, ekuitas jadi negatif",
+  "deck": "Laporan keuangan interim semester I 2026 menunjukkan rugi bersih Cashlez Worldwide Indonesia melonjak ke Rp37,8 miliar dan ekuitas perusahaan berbalik menjadi negatif Rp37,6 miliar.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "penyedia jasa pembayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828214059-64235-0/FinancialStatement-2026-II-CASH.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
@@ -6369,138 +6497,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09344bdeed_2f6fc88d1d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Rinci Buyback Rp150 Miliar, Laba per Saham [Naik] ke Rp240",
-  "deck": "Prodia Widyahusada merinci rencana pembelian kembali saham hingga Rp150 miliar dari kas internal, tanpa perlu persetujuan RUPS, berlangsung 20 Agustus hingga 19 November 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/prda-rinci-buyback-rp150-miliar-laba-per-saham-naik-ke-rp240.jpg",
-  "imageV": "mszrf91r",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/47b5e742e1_524756ba2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-kembali-jual-saham-restrukturisasi-grup",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Kembali Jual Saham, [Restrukturisasi] Grup",
-  "deck": "Putrasakti Mandiri kembali melepas 1,17 juta saham KDTN senilai sekitar Rp428 juta pada 18 Agustus 2026, hak suaranya turun tipis dari 34,72% jadi 34,63%.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "Puri Sentul Permai",
-   "kepemilikan saham",
-   "restrukturisasi grup"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-9271-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan",
-  "category": "Pasar Modal",
-  "title": "Bayan Resources [Bantah] Rumor Haji Isam Ambil Alih BYAN",
-  "deck": "Manajemen BYAN menegaskan tidak mengetahui rencana Haji Isam mengambil alih 62,2 persen saham perseroan, di tengah lonjakan saham-saham terafiliasi Jhonlin Group.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bayan-resources-bantah-rumor-haji-isam-ambil-alih-byan.jpg",
-  "imageV": "msznq5g3",
-  "tags": [
-   "Bayan Resources",
-   "BYAN",
-   "Haji Isam",
-   "Jhonlin Group"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460995-bayan-resources-bantah-isu-haji-isam-bakal-ambil-alih-622-persen-saham-byan"
- },
- {
-  "slug": "npgf-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "NPGF Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan BEI soal pergerakan tak wajar sahamnya, NPGF menyatakan tidak ada informasi material tersembunyi dan pemegang saham utama belum berencana mengubah kepemilikan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/npgf-bantah-ada-info-material-di-balik-volatilitas-sahamnya.jpg",
-  "tags": [
-   "NPGF",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/31c1badcaf_54ea5e47f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-tertekan-0-65-persen-saham-bank-justru-menguat",
-  "category": "Pasar Modal",
-  "title": "IHSG [Tertekan] 0,65 Persen, Saham Bank Justru Menguat",
-  "deck": "IHSG dibuka turun ke 6.408,18 pada Rabu pagi, sementara sejumlah saham bank di LQ45 justru menguat di tengah tekanan jual yang masih terasa.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/ihsg-tertekan-0-65-persen-saham-bank-justru-menguat.jpg",
-  "imageV": "mszpk4li",
-  "tags": [
-   "IHSG",
-   "Saham Bank",
-   "LQ45",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/460987-ihsg-tertekan-065-persen-di-awal-perdagangan-saham-bank-mulai-menguat"
- },
- {
-  "slug": "direksi-tapg-jual-550-000-saham-senilai-rp998-juta",
-  "category": "Aksi Korporasi",
-  "title": "Direksi TAPG [Jual] 550.000 Saham Senilai Rp998 Juta",
-  "deck": "George Oetomo, Direksi Triputra Agro Persada (TAPG), melepas 550.000 saham secara tidak langsung pada 18 Agustus 2026 seharga Rp1.815 per lembar untuk tujuan divestasi.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-5987-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Jawab Bursa: Tender Wajib [Sinergi] Dijadwal Agustus-September",
-  "deck": "DOOH menjelaskan ke BEI bahwa pengendali baru SII akan menggelar tender wajib bagi pemegang saham publik akhir Agustus hingga akhir September 2026, tanpa rencana delisting.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/dooh-jawab-bursa-tender-wajib-sinergi-dijadwal-agustus-september.jpg",
-  "imageV": "mszpl30z",
-  "tags": [
-   "DOOH",
-   "Sinergi Internasional Investama",
-   "Tender Wajib",
-   "Pengambilalihan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c67d4d2226_0b4a654070.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-tender-saham-diperpanjang-lagi-ke-22-september",
-  "category": "Aksi Korporasi",
-  "title": "EDGE: Tender Saham [Diperpanjang] Lagi ke 22 September",
-  "deck": "Digital Edge (Hong Kong) Ltd memperpanjang untuk ketiga kalinya masa penawaran tender sukarela atas saham EDGE seharga Rp11.500 per lembar, hingga 22 September 2026, dengan pembayaran pada 2 Oktober 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/edge-tender-saham-diperpanjang-lagi-ke-22-september.jpg",
-  "imageV": "mszplp2j",
-  "tags": [
-   "EDGE",
-   "Indointernet",
-   "tender offer",
-   "Digital Edge Hong Kong"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6d0e21d368_9751050c13.pdf",
   "sourceLabel": "IDX"
  }
 ];

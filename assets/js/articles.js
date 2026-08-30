@@ -508,6 +508,32 @@ var ARTICLES = [
   "imageV": "mtebqx85"
  },
  {
+  "slug": "crab-liabilitas-toba-surimi-turun-38-75-ekuitas-naik",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Liabilitas Toba Surimi Turun 38,75%, [Ekuitas] Naik",
+  "deck": "Laporan keuangan tahunan CRAB mencatat total liabilitas turun 38,75 persen jadi Rp46,74 miliar, membuat ekuitas perusahaan naik sekitar Rp19,4 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T12:16:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260829122655-62602-0/FinancialStatement-2025-Tahunan-CRAB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "Toba Surimi Industries",
+   "laporan keuangan",
+   "liabilitas"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menyampaikan laporan keuangan tahunan auditan untuk periode yang berakhir 31 Desember 2025 kepada OJK dan Bursa Efek Indonesia. Auditor independen KAP Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan dan rekan, melalui partner penandatangan Yosef Kresna Budi, memberikan opini wajar tanpa modifikasian atas laporan tersebut pada 28 Agustus 2026. Auditor sebelumnya, KAP Kanaka Puradiredja Suhartono, memberi opini serupa untuk laporan tahun 2024.",
+   "Total aset perusahaan turun 3,44 persen dari Rp295,54 miliar menjadi Rp285,36 miliar. Penurunan yang jauh lebih besar terjadi pada total liabilitas, yaitu turun 38,75 persen dari Rp76,31 miliar menjadi Rp46,74 miliar. Dalam surat penjelasan terpisah kepada bursa, sesuai kewajiban keterbukaan atas perubahan pos neraca di atas 20 persen, Direktur Utama Gindra Tardy menyebut penurunan liabilitas ini terutama berasal dari berkurangnya utang bank sebesar Rp30,2 miliar. Neraca juga mencatat utang pihak berelasi jangka panjang yang sebelumnya Rp8,84 miliar menjadi nihil, sementara utang usaha pihak ketiga justru naik dari Rp16,75 miliar menjadi Rp39,99 miliar.",
+   "Laporan keuangan mencatat penjualan tahun 2025 sebesar Rp616,69 miliar, berasal dari penjualan ekspor dan domestik. Auditor menandai satu hal audit utama, yaitu perkara hukum perdata yang masih berjalan di Pengadilan Negeri Medan, sebagaimana diungkapkan dalam Catatan 13 dan 32 laporan keuangan, terkait dugaan pemalsuan tanda tangan pada cek perusahaan. Opini auditor tidak dimodifikasi terkait perkara ini, namun dicantumkan sebagai paragraf penekanan suatu hal."
+  ],
+  "fotoAdegan": "Workers sorting fresh fish catch on crates at a coastal seafood processing dock in North Sumatra, early morning",
+  "takeaway": "Laporan ini condong positif bagi CRAB, sebab penurunan liabilitas jauh lebih besar dari penurunan aset sehingga ekuitas perusahaan naik sekitar Rp19,4 miliar, atau sekitar 8,8 persen dibanding tahun sebelumnya. Yang tersentuh di sini adalah struktur permodalan: utang bank yang berkurang Rp30,2 miliar berarti beban bunga ke depan berpotensi lebih ringan, dan porsi modal sendiri terhadap total pendanaan membesar, yang biasanya dibaca sebagai bantalan risiko keuangan yang lebih tebal. Namun kenaikan utang usaha pihak ketiga dari Rp16,75 miliar menjadi Rp39,99 miliar berarti sebagian pendanaan operasional kini bergantung pada pemasok, bukan cuma kas sendiri. Yang perlu dipantau adalah perkembangan perkara hukum dugaan pemalsuan cek di Pengadilan Negeri Medan yang ditandai auditor sebagai hal audit utama, karena hasilnya belum pasti, serta laporan tahunan 2025 yang menurut auditor baru akan tersedia setelah tanggal laporan ini terbit.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "plts-atap-surabaya-kurangi-715-ton-emisi-karbon",
   "category": "Energi",
   "title": "PLTS Atap Surabaya Kurangi [715] Ton Emisi Karbon",
@@ -618,6 +644,32 @@ var ARTICLES = [
   "imageV": "mtdvj2du"
  },
  {
+  "slug": "adro-bukukan-laba-us-329-juta-liabilitas-naik-48",
+  "category": "Aksi Korporasi",
+  "title": "ADRO Bukukan Laba US$329 Juta, [Liabilitas] Naik 48%",
+  "deck": "Laba bersih Alamtri Resources melonjak 69 persen jadi US$329 juta pada semester I 2026, sementara liabilitas naik 48 persen untuk mendanai proyek smelter aluminium.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T10:51:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829110426-64311-0/FinancialStatement-2026-II-ADRO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADRO",
+  "tags": [
+   "ADRO",
+   "Alamtri Resources",
+   "laporan keuangan",
+   "smelter aluminium"
+  ],
+  "body": [
+   "PT Alamtri Resources Indonesia Tbk (ADRO) melaporkan laba periode berjalan sebesar US$329,2 juta untuk semester pertama 2026, naik 69 persen dibandingkan US$194,9 juta pada periode yang sama tahun lalu. Dari jumlah itu, US$309,4 juta menjadi bagian pemilik entitas induk, sehingga laba per saham naik hampir dua kali lipat dari US$0,00587 menjadi US$0,01074. Pendapatan usaha perseroan naik 16,5 persen menjadi US$999,2 juta, dengan laba usaha melonjak dari US$203,3 juta menjadi US$381,8 juta. Laporan keuangan interim ini telah direviu terbatas oleh KAP Rintis, Jumadi, Rianto & Rekan dengan partner Firman Sababalat, dan hasil reviu menyatakan tidak ada hal yang membuat laporan tidak wajar secara material.",
+   "Bersamaan dengan laporan keuangan, manajemen ADRO mengirim surat penjelasan kepada Bursa Efek Indonesia karena pos jumlah liabilitas naik lebih dari 20 persen, ambang yang mewajibkan penjelasan tertulis sesuai Peraturan I-E BEI. Total liabilitas perseroan naik US$864 juta atau 48 persen, dari US$1.813 juta pada akhir 2025 menjadi US$2.677 juta pada akhir Juni 2026. Kenaikan itu terutama berasal dari liabilitas sewa yang melonjak 892 persen, dari US$76 juta menjadi US$756 juta, karena perseroan menandatangani perjanjian sewa baru untuk bangunan dan peralatan. Utang bank juga naik 59 persen dari US$745 juta menjadi US$1.183 juta akibat penarikan tambahan fasilitas pinjaman untuk membiayai proyek smelter aluminium.",
+   "Di sisi aset, total aset perseroan naik 14 persen menjadi US$7.805 juta, didorong kenaikan aset tetap sebesar 26 persen menjadi US$2.984 juta karena penambahan aset hak guna, serta persediaan yang melonjak 336 persen dari US$116 juta menjadi US$505 juta akibat penumpukan persediaan aluminium ingot. Meski laba naik tajam, arus kas dari aktivitas operasi justru berbalik menjadi negatif US$42,9 juta pada semester ini, dari positif US$333,2 juta pada semester I 2025, seiring pembayaran kepada pemasok dan kontraktor yang melonjak dari US$339,9 juta menjadi US$803,8 juta. Perseroan juga mengurangi modal ditempatkan dan disetor dari 29.389.689.400 saham menjadi 28.800.494.200 saham melalui penghapusan saham treasuri, serta membayarkan dividen US$197,5 juta kepada pemilik entitas induk pada periode ini, lebih rendah dari US$300 juta pada semester I 2025."
+  ],
+  "fotoAdegan": "Large industrial smelter facility under construction with steel scaffolding and cranes, workers in hard hats, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi ADRO karena laba bersih dan laba per saham naik tajam, ditopang pendapatan yang tumbuh dua digit dan pengurangan jumlah saham beredar yang membuat laba per saham lebih besar bagi tiap pemegang saham. Namun ada catatan pada arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan operasional sehari-hari: arus kas ini berbalik menjadi negatif meski laba di atas kertas melonjak, karena perseroan membayar lebih banyak ke pemasok seiring pembangunan proyek smelter aluminium, dan kekurangan kas itu ditambal dengan sewa dan pinjaman bank baru sehingga beban bunga turut naik hampir tiga kali lipat. Kenaikan utang 48 persen memang dijelaskan manajemen sebagai konsekuensi ekspansi, bukan tanda kesulitan keuangan, tetapi porsi utang yang membesar berarti perseroan makin bergantung pada kelancaran proyek smelter untuk membayar kembali kewajiban itu. Yang perlu dipantau selanjutnya adalah realisasi proyek smelter aluminium yang mendorong penumpukan persediaan dan penarikan pinjaman ini, serta apakah arus kas operasi kembali positif pada laporan kuartal berikutnya sebagai penanda proyek mulai membuahkan hasil.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
   "category": "Aksi Korporasi",
   "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
@@ -642,6 +694,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of oil palm fruit bunches stacked at a rural collection point, workers loading trucks, overcast tropical morning",
   "takeaway": "Laporan ini bersifat netral bagi fundamental AALI, sebab penawaran tender wajib semacam ini hanya memindahkan kepemilikan saham dari satu pemegang ke pemegang lain, tanpa menambah dana segar ke kas perusahaan, mengubah utang, atau mengubah laba per saham. Yang tersentuh adalah komposisi kepemilikan dan porsi saham yang beredar bebas di pasar alias free float, karena pengendali baru kini memegang 67 persen saham AALI, naik dari 34 persen sebelumnya, sementara realisasi pembelian tender baru mencapai 2,31 miliar saham dari target 12,34 miliar saham. Pemegang saham publik AALI perlu mencermati apakah porsi saham yang beredar bebas di pasar masih memenuhi ketentuan minimum yang disyaratkan bursa, mengingat konsentrasi kepemilikan pengendali kini mendekati dua pertiga saham perseroan sejak penyelesaian transaksi pada 28 Agustus 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "oils-laba-semester-i-melonjak-7-kali-lipat-jadi-rp21-4-m",
+  "category": "Aksi Korporasi",
+  "title": "OILS: Laba Semester I [Melonjak 7 Kali Lipat] jadi Rp21,4 M",
+  "deck": "Laba PT Indo Oil Perkasa Tbk naik hampir tujuh kali lipat menjadi Rp21,48 miliar pada semester I 2026, didukung penjualan yang tumbuh 56 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T10:26:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829103655-64261-0/FinancialStatement-2026-II-OILS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "laporan keuangan",
+   "laba bersih",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS) menyampaikan laporan keuangan interim yang telah ditelaah secara terbatas untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia. Kantor Akuntan Publik Maurice Ganda Nainggolan dan Rekan, yang menandatangani laporan reviu pada 28 Agustus 2026, menyatakan tidak menemukan hal yang membuat informasi keuangan interim ini tidak disajikan secara wajar. Laba bersih perusahaan pada semester pertama 2026 tercatat Rp21,48 miliar, melonjak dari Rp3,14 miliar pada periode sama tahun lalu, seiring penjualan yang naik dari Rp468,49 miliar menjadi Rp732,34 miliar. Laba per saham dasar ikut naik dari Rp6,91 menjadi Rp47,30.",
+   "Total aset perusahaan per 30 Juni 2026 mencapai Rp319,97 miliar, naik 23,36 persen dari Rp259,38 miliar pada akhir 2025. Dalam surat penjelasan kepada bursa yang ditandatangani Corporate Secretary Peter Surya Prabowo pada 28 Agustus 2026, perusahaan menyebut kenaikan itu disebabkan oleh membesarnya piutang usaha pihak ketiga dari Rp27,50 miliar menjadi Rp67,15 miliar dan persediaan dari Rp146,01 miliar menjadi Rp152,40 miliar. Di sisi liabilitas, utang jangka pendek naik 24,31 persen dari Rp145,29 miliar menjadi Rp180,61 miliar, terutama karena utang usaha kepada pihak ketiga yang membengkak dari Rp35,98 miliar menjadi Rp61,74 miliar. Total ekuitas perusahaan naik menjadi Rp123,28 miliar dari Rp98,34 miliar, termasuk kepentingan non-pengendali sebesar Rp5,35 miliar yang mencerminkan kepemilikan pihak lain di entitas anak perusahaan.",
+   "Dari sisi arus kas, kas bersih yang diperoleh dari aktivitas operasi naik menjadi Rp18,68 miliar dari Rp7,20 miliar pada semester pertama tahun lalu. Perusahaan menggunakan kas Rp12,06 miliar untuk aktivitas investasi, termasuk Rp8,38 miliar untuk membeli aset tetap dan Rp2,15 miliar untuk penempatan investasi saham. Sementara itu, aktivitas pendanaan mencatat penggunaan kas bersih Rp1,45 miliar karena pembayaran utang bank lebih besar dari penerimaan baru, berbeda dari periode sama tahun lalu yang mencatat kas masuk bersih Rp1,35 miliar. Saldo kas dan bank perusahaan di akhir periode tercatat Rp14,45 miliar, naik dari Rp9,27 miliar pada awal tahun."
+  ],
+  "fotoAdegan": "Workers loading barrels of crude coconut oil onto a truck at a small refinery yard in rural East Java, midday light",
+  "takeaway": "Laporan ini condong positif bagi Indo Oil Perkasa karena laba bersihnya melonjak hampir tujuh kali lipat menjadi Rp21,48 miliar pada semester pertama 2026, didorong penjualan yang tumbuh 56 persen dan laba per saham yang naik dari Rp6,91 menjadi Rp47,30. Yang perlu diperhatikan investor adalah komposisi kenaikan aset: sebagian besar berasal dari piutang usaha yang melonjak dari Rp27,5 miliar menjadi Rp67,1 miliar dan persediaan yang membesar menjadi Rp152,4 miliar, bukan semata kas. Piutang usaha adalah uang dari penjualan yang belum dibayar pelanggan, jadi kenaikannya baru benar-benar menguntungkan kalau nanti tertagih, dan kalau terus menumpuk tanpa tertagih itu bisa jadi tanda pemberian tempo bayar yang longgar. Arus kas dari operasi perusahaan sendiri membaik signifikan menjadi Rp18,68 miliar dari Rp7,20 miliar, yang mengonfirmasi sebagian laba itu benar-benar berubah jadi uang tunai. Yang perlu dipantau selanjutnya adalah laporan kuartal berikutnya, untuk melihat apakah piutang usaha pihak ketiga yang membesar ini akhirnya tertagih atau malah terus menumpuk.",
+  "sentimen": "positif"
  },
  {
   "slug": "dire-bagikan-dividen-tunai-final-cum-dividen-29-agustus",
@@ -696,6 +774,58 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "tays-rombak-direksi-dan-komisaris-usai-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "TAYS Rombak [Direksi] dan Komisaris Usai RUPSLB",
+  "deck": "RUPSLB TAYS pada 1 April 2026 menyetujui pergantian satu direktur dan satu komisaris independen, disahkan bulat oleh pemegang saham yang hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T23:29:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e18c387dd1_5d1c0dea47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAYS",
+  "tags": [
+   "TAYS",
+   "Perubahan Pengurus",
+   "RUPSLB",
+   "Direksi Komisaris"
+  ],
+  "body": [
+   "PT Jaya Swarasa Agung Tbk (TAYS) melaporkan pergantian sebagian pengurusnya menyusul hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar 1 April 2026 di Gedung Supermarket Rezeki, Jakarta Pusat. Melania Halim mengundurkan diri dari jabatan Direktur dan digantikan oleh Benny Anwar, sementara Djoni Tatan mengundurkan diri dari jabatan Komisaris Independen dan digantikan oleh Jaya Yulianto. Alexander Anwar tetap menjabat Direktur Utama dan Anwar Tay tetap menjabat Komisaris Utama.",
+   "Kedua agenda, yakni perubahan susunan direksi dan perubahan susunan dewan komisaris, disetujui secara bulat oleh pemegang saham yang hadir dalam rapat, yaitu pemilik 600.508.900 saham atau setara 54,65 persen dari seluruh saham berhak suara Perseroan. Tidak ada suara menolak maupun abstain untuk kedua agenda tersebut. Dengan susunan baru ini, direksi TAYS terdiri dari Alexander Anwar sebagai Direktur Utama dan Benny Anwar sebagai Direktur, sedangkan dewan komisaris terdiri dari Anwar Tay sebagai Komisaris Utama dan Jaya Yulianto sebagai Komisaris Independen. Masa jabatan pengurus baru berlaku sejak penutupan RUPSLB hingga penutupan RUPS Tahunan kelima setelah tanggal pengangkatan mereka.",
+   "Perseroan turut melampirkan cover note dari notaris Sugih Haryati yang mencatat jalannya rapat tersebut. Meski RUPSLB digelar dan surat pemberitahuan ke OJK dibuat pada awal April 2026, laporan keterbukaan informasi ini baru disampaikan ke bursa pada 28 Agustus 2026, hampir lima bulan setelah keputusan diambil."
+  ],
+  "fotoAdegan": "Industrial bakery production floor with stainless steel trays of bread, workers in aprons under warm morning light",
+  "takeaway": "Laporan ini netral bagi TAYS, karena pergantian direktur dan komisaris independen ini murni rotasi kepengurusan biasa dan tidak mengubah struktur permodalan atau arah bisnis inti perusahaan. Yang berubah hanya pos tata kelola, yaitu siapa yang mengawasi dan menjalankan operasional sehari-hari, bukan pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar, sehingga dampaknya ke laba per saham praktis tidak ada. Perlu dicatat, Direktur Utama dan Komisaris Utama TAYS, Alexander Anwar dan Anwar Tay, berbagi marga yang sama, menandakan kepengurusan Perseroan masih kental nuansa keluarga, pola yang umum di banyak emiten skala menengah. Yang perlu dipantau selanjutnya adalah konsistensi kepatuhan pelaporan TAYS ke depan, mengingat keputusan RUPSLB 1 April 2026 ini baru disampaikan ke bursa pada 28 Agustus 2026, jauh melampaui tenggat keterbukaan informasi yang semestinya dipenuhi dalam hitungan hari kerja setelah keputusan diambil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "antm-laba-semester-i-2026-melonjak-34-jadi-rp6-9-t-laba",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Laba Semester I 2026 Melonjak 34% jadi Rp6,9 T [Laba]",
+  "deck": "Pendapatan ANTM naik jadi Rp62,71 triliun dan laba bersih melonjak 34,4 persen menjadi Rp6,91 triliun pada semester I 2026, meski beban bunga dan persediaan ikut membengkak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T23:24:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828233441-64266-0/FinancialStatement-2026-II-ANTM.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "laba bersih",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Antam (Persero) Tbk menyampaikan laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 28 Agustus 2026. Laporan ini telah direviu secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young, dengan partner penanggung jawab Chang Hartono. Hasil reviu menyimpulkan tidak ada hal yang membuat auditor meyakini laporan keuangan tersebut disajikan secara tidak wajar dalam hal yang material. Surat penyampaian ditandatangani oleh Corporate Secretary Division Head Wisnu Danandi Haryanto.",
+   "Dari sisi kinerja, pendapatan Antam pada semester I 2026 tercatat Rp62,71 triliun, naik dari Rp59,02 triliun pada periode yang sama tahun lalu. Laba bruto naik dari Rp8,24 triliun menjadi Rp10,85 triliun, dan laba usaha naik dari Rp6,14 triliun menjadi Rp8,44 triliun. Laba periode berjalan alias laba bersih mencapai Rp6,91 triliun, naik 34,4 persen dari Rp5,14 triliun pada semester I 2025. Namun beban keuangan perusahaan melonjak tajam dari Rp40,5 miliar menjadi Rp346,6 miliar.",
+   "Di neraca, total aset Antam naik dari Rp52,53 triliun pada akhir 2025 menjadi Rp61,27 triliun per 30 Juni 2026. Persediaan melonjak hampir dua kali lipat, dari Rp7,73 triliun menjadi Rp14,70 triliun. Total liabilitas naik dari Rp15,93 triliun menjadi Rp22,74 triliun, termasuk utang dividen baru sebesar Rp4,90 triliun yang sebelumnya nol, serta pinjaman bank jangka panjang yang naik dari Rp2,92 triliun menjadi Rp4,44 triliun. Total ekuitas naik tipis dari Rp36,60 triliun menjadi Rp38,53 triliun, dengan modal saham dan jumlah saham beredar tidak berubah."
+  ],
+  "fotoAdegan": "Mining haul trucks moving across a red laterite nickel pit under bright tropical daylight, dust rising behind the wheels.",
+  "takeaway": "Kinerja semester pertama ini condong positif bagi Antam, karena laba bersihnya melonjak 34,4 persen berkat kenaikan pendapatan dan perbaikan margin usaha, meski disertai lonjakan tajam beban bunga dan penumpukan persediaan yang layak dicermati. Ada tiga pos yang tersentuh di sini: laba bersih, yaitu keuntungan akhir setelah semua biaya dan pajak yang jadi tolok ukur utama investor menilai profitabilitas; persediaan, yaitu barang belum terjual seperti bijih nikel dan emas olahan, yang kalau menumpuk berarti uang perusahaan tertahan di gudang alih-alih menjadi kas; dan beban bunga, yaitu biaya atas pinjaman bank, yang di sini naik lebih dari delapan kali lipat seiring bertambahnya pinjaman bank jangka panjang menjadi Rp4,44 triliun. Ekuitas perusahaan juga naik meski tipis, ditopang laba ditahan yang terus bertambah. Yang perlu dipantau selanjutnya adalah realisasi pembayaran utang dividen Rp4,90 triliun yang sudah dicatat di neraca tapi belum dibayarkan, serta apakah kenaikan persediaan dan beban bunga ini berlanjut di laporan kuartal ketiga mendatang.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -721,6 +851,84 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret pada edisi 2026 ini adalah bertambahnya dua kelas baru, Go Green dan Go Aggregator, sehingga tahap nasional program kini punya enam kelas dari sebelumnya empat. Pihak yang langsung terdampak adalah pelaku usaha mikro dan kecil yang berminat mendaftar, karena jendela pendaftarannya sempit, hanya sampai 31 Agustus 2026, tiga hari dari sekarang. Penambahan dua kelas itu menunjukkan arah program bergeser dari sekadar mendorong UMK go digital dan go global, menjadi juga mendorong mereka ramah lingkungan dan mau berkolaborasi dengan sesama pelaku usaha sejenis. Yang akan menegaskan apakah pergeseran ini serius atau sekadar tambahan nama kelas adalah data berapa banyak peserta yang benar-benar lolos seleksi regional dan masuk ke dua kelas baru tersebut saat tahap nasional dimulai.",
   "imageV": "mtdcxesl"
+ },
+ {
+  "slug": "wika-ekuitas-anjlok-ke-rp130-m-rugi-rp1-55-t-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "WIKA: Ekuitas [Anjlok] ke Rp130 M, Rugi Rp1,55 T di Semester I",
+  "deck": "Laporan keuangan interim WIKA per Juni 2026 menunjukkan ekuitas tergerus hingga tersisa Rp130 miliar dan rugi bersih Rp1,55 triliun, di tengah proses penundaan pembayaran sukuk yang sedang diajukan perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T22:04:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828222418-64258-0/FinancialStatement-2026-II-WIKA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "laporan keuangan",
+   "sukuk",
+   "ekuitas"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk menyampaikan laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK pada 28 Agustus 2026. Laporan ini ditelaah secara terbatas oleh Kantor Akuntan Publik Slamet Riyanto, Aryanto & Rekan dengan partner penanggung jawab Slamet Riyanto, dan memperoleh opini wajar tanpa modifikasian tertanggal 27 Agustus 2026. Surat penyampaian ditandatangani oleh Corporate Secretary WIKA, Ngatemin.",
+   "Angka yang paling mencolok ada di ekuitas. Total ekuitas WIKA anjlok dari Rp1,69 triliun pada akhir Desember 2025 menjadi tinggal Rp130,16 miliar pada 30 Juni 2026, akibat rugi bersih Rp1,55 triliun sepanjang semester pertama. Rugi ini sebenarnya sedikit membaik dibanding periode sama tahun lalu yang minus Rp1,71 triliun, dan pendapatan bersih naik dari Rp5,86 triliun menjadi Rp6,28 triliun, dengan laba usaha melonjak dari Rp133,27 miliar menjadi Rp314,66 miliar. Namun kinerja operasional yang membaik itu tetap tertekan beban keuangan Rp1,31 triliun dan rugi bagian pengendalian bersama sebesar Rp721,41 miliar, naik dari Rp542,31 miliar tahun sebelumnya. Rugi per saham dasar tercatat Rp37,17, dari sebelumnya Rp41,71. Defisit akumulasi perseroan membengkak menjadi Rp20,77 triliun dari Rp19,29 triliun.",
+   "Struktur utang WIKA juga bergeser dari jangka pendek ke jangka panjang. Liabilitas jangka pendek turun dari Rp15,51 triliun menjadi Rp12,92 triliun, sementara liabilitas jangka panjang naik dari Rp32,95 triliun menjadi Rp35,90 triliun. Secara rinci, porsi obligasi jangka pendek turun tajam dari Rp1,44 triliun menjadi Rp197 miliar dan sukuk jangka pendek dari Rp1,12 triliun menjadi Rp91,5 miliar, sedangkan obligasi jangka panjang naik dari Rp6,55 triliun menjadi Rp7,79 triliun dan sukuk jangka panjang naik dari Rp1,15 triliun menjadi Rp2,18 triliun. Pergeseran ini sejalan dengan rangkaian RUPSU sukuk yang digelar WIKA pekan ini, saat perseroan meminta pemegang sukuk menyetujui penundaan jatuh tempo pembayaran."
+  ],
+  "fotoAdegan": "Construction workers pouring concrete at a toll road overpass project, cranes and rebar visible, late afternoon light",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena angka-angkanya mengonfirmasi dengan data keras apa yang selama ini disinggung dalam rangkaian RUPSU sukuk pekan ini, bahwa modal perseroan nyaris habis. Ekuitas, yaitu selisih antara total aset dan total utang yang berfungsi sebagai bantalan penyerap kerugian sebelum kreditur ikut menanggung risiko, tergerus dari Rp1,69 triliun menjadi tinggal Rp130 miliar hanya dalam enam bulan, sementara beban bunga utang tetap membebani Rp1,31 triliun meski pendapatan dan laba usaha sebenarnya membaik. Pergeseran utang dari jangka pendek ke jangka panjang pada pos obligasi dan sukuk memperkuat gambaran bahwa perseroan sedang menegosiasikan ulang jadwal pembayaran utangnya, bukan sekadar membayar sesuai jatuh tempo normal. Yang perlu dipantau berikutnya adalah hasil RUPSU sukuk pada 9 dan 15 September 2026, karena persetujuan pemegang sukuk atas usulan penundaan itulah yang akan menentukan apakah tekanan likuiditas WIKA mereda atau justru berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "refi-janji-rampungkan-laporan-keuangan-paling-lambat-30-september",
+  "category": "Aksi Korporasi",
+  "title": "REFI Janji Rampungkan Laporan Keuangan [Paling Lambat] 30 September",
+  "deck": "REFI menjawab peringatan tertulis pertama BEI soal telat laporan keuangan tengah tahun 2026, menyebut laporannya masih diaudit KAP dan berjanji terbit paling lambat 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T21:35:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5178a7b590_a2121d3e15.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REFI",
+  "tags": [
+   "REFI",
+   "Laporan Keuangan",
+   "Bursa Efek Indonesia",
+   "Sanksi"
+  ],
+  "body": [
+   "PT Usaha Pembiayaan Reliance Indonesia (REFI) mengirim surat penjelasan ke Bursa Efek Indonesia menyusul Peringatan Tertulis Pertama dari bursa bernomor S-10478/BEI.PLP/08-2026 tertanggal 11 Agustus 2026 atas keterlambatan penyampaian laporan keuangan tengah tahunan per 30 Juni 2026. Surat balasan REFI bernomor 166/UPRI/DIR/VIII/2026 tertanggal 28 Agustus 2026 ditandatangani Direktur Gwesley Griemaldy Kussoy, dan disampaikan secara elektronik oleh Corporate Secretary Hanindya Aryoputro.",
+   "Dalam surat itu, REFI menjelaskan bahwa laporan keuangan tengah tahunan posisi 30 Juni 2026 masih dalam proses audit oleh Kantor Akuntan Publik (KAP). Perseroan mengklaim sudah memberi tahu bursa lewat sistem elektronik IDXnet sebelum tenggat 31 Juli 2026 bahwa laporan tersebut sedang diaudit. Merujuk Pasal 6.c POJK Nomor 14/POJK.04/2022 dan Ketentuan IV.1.1.6.1 Peraturan Bursa Nomor I-E, REFI menyebut laporan keuangan interim yang disertai laporan akuntan publik boleh disampaikan paling lambat akhir bulan ketiga setelah tanggal laporan. Atas dasar itu, perseroan berjanji akan menyampaikan dan mengumumkan laporan keuangan tengah tahunan per 30 Juni 2026 paling lambat 30 September 2026.",
+   "Surat tersebut juga menyebutkan bahwa REFI merupakan bagian dari Reliance Group dan anak usaha PT Reliance Capital Management, dengan dukungan LeapFrog Investments sebagai investor strategis."
+  ],
+  "fotoAdegan": "Office workers walking into a glass-fronted high-rise office tower in Jakarta's business district on a busy morning, reflections of clouds on windows.",
+  "takeaway": "Laporan ini condong negatif bagi REFI karena inti masalahnya belum tuntas, perseroan masih berutang laporan keuangan resmi kepada pasar setelah lebih dulu menerima peringatan tertulis pertama dari bursa. Sampai laporan keuangan teraudit ini benar terbit, pemegang saham belum punya angka resmi soal ekuitas atau kekayaan bersih, arus kas, dan laba perusahaan untuk semester pertama 2026, sehingga kondisi keuangan REFI saat ini sulit dinilai secara utuh dari luar. Perseroan berdalih sudah memberi tahu bursa lewat IDXnet sebelum tenggat 31 Juli 2026, dan aturan OJK maupun bursa memang mengizinkan perpanjangan sampai akhir bulan ketiga setelah tanggal laporan, sehingga langkah ini tidak sepenuhnya melanggar aturan. Yang perlu dipantau berikutnya adalah apakah REFI benar menerbitkan laporan keuangan teraudit paling lambat 30 September 2026 seperti dijanjikan, sebab jika meleset lagi dari peringatan tertulis pertama ini, risikonya adalah sanksi lanjutan dari bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cash-rugi-bersih-melonjak-ke-rp37-8-miliar-ekuitas-jadi-negatif",
+  "category": "Aksi Korporasi",
+  "title": "CASH rugi bersih [melonjak] ke Rp37,8 miliar, ekuitas jadi negatif",
+  "deck": "Laporan keuangan interim semester I 2026 menunjukkan rugi bersih Cashlez Worldwide Indonesia melonjak ke Rp37,8 miliar dan ekuitas perusahaan berbalik menjadi negatif Rp37,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T21:33:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828214059-64235-0/FinancialStatement-2026-II-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "penyedia jasa pembayaran"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan laporan keuangan konsolidasian interim yang telah ditelaah secara terbatas untuk periode semester I 2026, berakhir 30 Juni 2026, kepada Otoritas Jasa Keuangan pada 28 Agustus 2026. Pendapatan perusahaan penyedia jasa pembayaran ini naik 44,7 persen menjadi Rp84,68 miliar, dari Rp58,53 miliar pada semester I 2025. Namun kenaikan pendapatan itu tidak cukup menutup beban operasional yang membengkak, rugi usaha melebar menjadi Rp16,95 miliar dari Rp10,14 miliar, dan rugi bersih yang bisa diatribusikan kepada pemegang saham induk mencapai Rp39,32 miliar, naik tajam dari Rp15,74 miliar pada periode yang sama tahun lalu. Rugi per saham ikut memburuk dari Rp11 menjadi Rp27,47.",
+   "Yang lebih mencolok, ekuitas perusahaan berbalik menjadi defisit. Pada akhir 2025, total ekuitas Cashlez masih negatif tipis sebesar Rp449,52 juta, tetapi per 30 Juni 2026 defisiensi modal ini melebar menjadi Rp37,61 miliar, artinya total liabilitas perusahaan kini lebih besar Rp37,61 miliar dibanding total asetnya. Total aset turun dari Rp209,15 miliar menjadi Rp192,87 miliar, sementara total liabilitas justru naik dari Rp209,60 miliar menjadi Rp230,49 miliar. Kas dan setara kas juga terkuras dari Rp71,90 miliar menjadi Rp24,21 miliar dalam enam bulan, turun sekitar 66 persen. Salah satu pos yang membesar adalah utang lain-lain jangka panjang, naik dari Rp91,48 miliar menjadi Rp116,38 miliar.",
+   "Akumulasi kerugian perusahaan kini mencapai Rp209,69 miliar, dibanding Rp170,37 miliar pada akhir 2025. Laporan ini ditelaah secara terbatas, bukan diaudit penuh, oleh Kantor Akuntan Publik Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan dengan partner penanggung jawab Heri Setianto. Dalam laporannya bertanggal 27 Agustus 2026, auditor menyatakan tidak menemukan hal yang membuat mereka yakin laporan keuangan ini tidak disajikan secara wajar, meski tinjauan terbatas ini memiliki cakupan lebih sempit dibanding audit penuh. Laporan ditandatangani Presiden Direktur Willy Chandry, yang juga membawahi bidang akuntansi dan keuangan perusahaan."
+  ],
+  "fotoAdegan": "A market vendor holding a small handheld card payment terminal while a customer taps to pay at a busy stall, daylight",
+  "takeaway": "Laporan ini condong negatif bagi Cashlez, karena meski pendapatan tumbuh, rugi bersihnya justru melonjak lebih dari dua kali lipat dan perusahaan kini masuk kondisi ekuitas negatif, alias liabilitas sudah melampaui asetnya. Ekuitas negatif ini penting dicermati karena berarti jika perusahaan dibubarkan hari ini, hasil penjualan asetnya tidak akan cukup melunasi semua utang, sinyal risiko keuangan yang biasanya membuat kreditur dan investor lebih waspada. Penyusutan kas hingga 66 persen dalam enam bulan juga berarti bantalan uang tunai perusahaan untuk membiayai operasional sehari-hari kian menipis, sementara utang kepada pihak berelasi justru bertambah, mengindikasikan perusahaan mulai bergantung pada suntikan dana dari pemegang saham atau afiliasinya untuk menutup arus kas. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal berikutnya yang wajib disampaikan sesuai jadwal pelaporan berkala OJK, untuk melihat apakah tren rugi dan defisiensi modal ini terus melebar atau mulai tertahan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",

@@ -37,14 +37,47 @@ import XLSX from 'xlsx';
 // alamat pada saat mengunduh.
 const HOST_KANONIK = 'https://www.idx.co.id';
 const HOST_AMBIL = process.env.IDX_HOST_AMBIL || 'https://www.idx.id';
+// Karakter yang TIDAK SAH di dalam URL dan membuat curl menolak alamatnya
+// seketika dengan kode keluar 3, tanpa satu pun paket dikirim.
+//
+// IDX menamai lampirannya apa adanya, termasuk memakai spasi: "OJK Checklist
+// ADRO 0626.pdf", "Lap Audit Crab Dec 31 2025.pdf". Dari 143 lampiran PDF
+// yang dihitung 30 Agustus 2026, 34 (24%) memuat spasi. Setiap satu di
+// antaranya dulu gagal instan lima kali beruntun dan membakar 25 detik jeda
+// percuma. Pada putaran 30 Agustus ada 27 kejadian, sekitar 11 menit hangus,
+// dan langkahnya menembus pagar 22 menit sampai job-nya merah.
+//
+// Yang paling lama menyembunyikan ini: curl dipanggil dengan -s, jadi
+// pesannya tidak ke mana-mana, dan sebabnya dicatat terpotong 60 karakter
+// sehingga log cuma memperlihatkan "Command failed: curl -s -L --compressed
+// --max-time 45 -A Moz". Tebakan yang wajar tapi keliru saat itu adalah
+// pemblokiran IP. Diuji dari runner GitHub: www.idx.id justru membalas 200
+// dan mengirim PDF-nya utuh, jadi jaringannya tidak pernah bermasalah.
+//
+// Kurung siku ikut disandikan karena curl memperlakukannya sebagai pola
+// rentang (globbing) dan menolaknya dengan galat "bad range" yang sama
+// instannya. Tanda ? dan # SENGAJA dibiarkan: keduanya sintaks URL yang sah
+// (query dan fragmen), dan menyandikannya justru mengubah arti alamat.
+//
+// Menyandikan HANYA karakter yang memang tidak sah, bukan seluruh jalur,
+// juga menutup risiko penyandian ganda: dari 192 alamat yang diperiksa, nol
+// yang sudah memuat tanda persen.
+const TAK_SAH_DI_URL = {
+  ' ': '%20', '"': '%22', '<': '%3C', '>': '%3E', '[': '%5B', ']': '%5D',
+  '{': '%7B', '}': '%7D', '|': '%7C', '\\': '%5C', '^': '%5E', '`': '%60',
+};
+
 // Ditulis eksplisit, bukan regex: alamatnya diganti HANYA kalau memang
 // diawali host kanonik, dan sisanya diteruskan apa adanya. Perbandingannya
 // tanpa peduli huruf besar kecil supaya varian penulisan tidak lolos diam-diam.
 const untukDiambil = (url) => {
   const u = String(url || '');
-  return u.toLowerCase().startsWith(HOST_KANONIK)
+  const dialihkan = u.toLowerCase().startsWith(HOST_KANONIK)
     ? HOST_AMBIL + u.slice(HOST_KANONIK.length)
     : u;
+  // Penyandian dilakukan DI SINI, di satu-satunya jalan menuju curl, supaya
+  // ambilIsiLampiran dan ambilIsiXlsx tidak bisa lagi terlewat sendiri-sendiri.
+  return dialihkan.replace(/[ "<>[\]{}|\\^`]/g, (c) => TAK_SAH_DI_URL[c]);
 };
 
 const API = HOST_AMBIL + '/primary/ListedCompany/GetAnnouncement';
@@ -274,7 +307,10 @@ export function ambilIsiLampiran(url, { maksKarakter = 20000, percobaan = 5, jej
       if (i > 0) tidurSebentar(2500 * i);   // 2,5s, 5s, 7,5s, 10s
       try {
         execFileSync('curl', [
-          '-s', '-L', '--compressed', '--max-time', '45',
+          // -S menemani -s: diam soal progres, tapi TETAP menyebutkan
+          // sebabnya kalau gagal. Tanpa itu stderr kosong dan kegagalan
+          // apa pun terlihat sama saja dari log.
+          '-s', '-S', '-L', '--compressed', '--max-time', '45',
           '-A', UA,
           '-H', 'Accept: application/pdf,*/*',
           '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
@@ -317,7 +353,23 @@ export function ambilIsiLampiran(url, { maksKarakter = 20000, percobaan = 5, jej
         if (jejak) jejak.sebab = 'terbaca';
         return teks;
       } catch (e) {
-        catat('galat', String(e.message).slice(0, 60));
+        // Yang dicatat kode keluar curl dan stderr-nya, BUKAN e.message.
+        //
+        // e.message selalu diawali baris perintah yang panjang, jadi
+        // memotongnya di 60 karakter menyisakan flag curl saja dan membuang
+        // justru bagian yang menerangkan. Itu yang menyembunyikan sebab
+        // kegagalan lampiran berminggu-minggu.
+        const keluar = e.status == null ? '?' : e.status;
+        const galat = String(e.stderr || '').replace(/\s+/g, ' ').trim();
+        catat('galat', 'curl keluar ' + keluar + (galat ? ': ' + galat : ''));
+        // Kode keluar 3 berarti curl menolak BENTUK alamatnya sebelum
+        // menyentuh jaringan. Mengulang alamat yang sama empat kali lagi
+        // sudah pasti memberi hasil yang sama, dan ongkosnya 25 detik jeda
+        // per lampiran. Seharusnya tidak pernah terjadi lagi sesudah
+        // untukDiambil menyandikan karakter tak sah, tapi kalau IDX suatu
+        // saat memakai karakter yang belum terdaftar di sana, biarlah
+        // gagalnya murah dan sebabnya kelihatan.
+        if (e.status === 3) break;
       }
     }
     log('  lampiran gagal dibaca setelah ' + percobaan + ' percobaan [' + sebab + ']: ' + alasan);
@@ -419,7 +471,7 @@ export function ambilIsiXlsx(url, { maksKarakter = 20000, percobaan = 3 } = {}) 
       if (i > 0) tidurSebentar(2500 * i);
       try {
         execFileSync('curl', [
-          '-s', '-L', '--compressed', '--max-time', '45',
+          '-s', '-S', '-L', '--compressed', '--max-time', '45',
           '-A', UA,
           '-H', 'Accept: */*',
           '-H', 'Referer: https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/',
@@ -443,7 +495,12 @@ export function ambilIsiXlsx(url, { maksKarakter = 20000, percobaan = 3 } = {}) 
         if (buku.SheetNames.length > 6) bagian.push('[' + (buku.SheetNames.length - 6) + ' sheet lagi tidak dibaca]');
         if (!bagian.length) return '';
         return bersihkanTeksPdf(bagian.join('\n\n'), maksKarakter);
-      } catch { /* coba lagi */ }
+      } catch (e) {
+        // Sama alasannya dengan di ambilIsiLampiran: alamat yang ditolak
+        // bentuknya (kode keluar 3) tidak akan membaik kalau diulang, jadi
+        // jangan bayar jeda 2,5 dan 5 detik untuk hasil yang sudah pasti.
+        if (e && e.status === 3) break;
+      }
     }
     return '';
   } finally {

@@ -22,9 +22,27 @@
 import { BASE, log } from './lib.mjs';
 import { GA4_ID, VERIFIKASI_GSC } from './analitik.mjs';
 
-// Google menolak entri news sitemap yang lebih tua dari 2 hari. Diberi
-// kelonggaran dua jam supaya perbedaan jam runner tidak bikin merah palsu.
-const BATAS_JAM_BERITA = 50;
+// Google menolak entri news sitemap yang lebih tua dari 2 hari.
+//
+// Angkanya BUKAN 48 + sedikit, dan alasannya sering terlewat: berkasnya
+// disaring saat BUILD, tapi diperiksa saat CEK. build-pages.mjs memasukkan
+// artikel sampai 48 jam pada saat ia berjalan, lalu berkas itu diam di
+// tempatnya sampai build berikutnya. Umur entri saat diperiksa karena itu
+// 48 jam DITAMBAH jarak ke build terakhir.
+//
+// Versi sebelumnya 50, dengan kelonggaran dua jam yang diniatkan untuk
+// selisih jam runner saja. Jarak antar-build tidak pernah ikut dihitung,
+// jadi setiap jeda build lebih dari dua jam menyalakan merah palsu. Itu
+// yang terjadi 30 Agustus 2026: idx.yml (yang biasa membangun ulang tiap
+// ~2 jam) mati seharian karena galat lampiran, build jadi jarang, dan
+// pemantau ikut merah untuk sesuatu yang tidak rusak.
+//
+// 62 = 48 (jendela generator) + 12 (jeda build terpanjang yang benar-benar
+// terjadi: 11,7 jam, diukur dari 599 commit dalam 21 hari) + 2 (selisih jam,
+// niat semula angka lama). Di atas itu memang ada yang salah: entah situsnya
+// berhenti dibangun setengah hari, entah penyaring generatornya rusak, dan
+// dua-duanya pantas merah.
+const BATAS_JAM_BERITA = 62;
 
 let gagal = 0;
 const baris = [];
@@ -141,19 +159,33 @@ async function periksaNewsSitemap(locUtama) {
     return;
   }
 
+  // Mulai dari sini daftar loc SELALU dikembalikan, merah atau tidak.
+  //
+  // Dulu tiap cabang merah mengembalikan undefined, dan itu menyeret
+  // pemeriksaan artikel ikut jatuh: tanpa daftar ini periksaArtikel memakai
+  // cadangannya, yaitu url TERAKHIR di sitemap utama, yang kebetulan artikel
+  // Juli tanpa jam. Hasilnya satu kerusakan tercetak sebagai dua, dan yang
+  // kedua menuding artikel yang sama sekali tidak bersalah. Persis jebakan
+  // yang sudah ditulis di komentar periksaArtikel, cuma lewat pintu lain.
+  //
+  // Isi berkasnya sendiri tetap sah dibaca meski salah satu entrinya basi:
+  // loc[0] tetap artikel TERBARU, dan itu yang memang mau diperiksa.
   const tanpaZona = tanggal.filter(t => !berzona(t));
   if (tanpaZona.length) {
-    return salah('news-sitemap.xml',
+    salah('news-sitemap.xml',
       tanpaZona.length + ' tanggal tanpa zona waktu, contoh: ' + tanpaZona[0]);
+    return loc;
   }
   const batas = Date.now() - BATAS_JAM_BERITA * 3600 * 1000;
   const basi = tanggal.filter(t => new Date(t).getTime() < batas);
   if (basi.length) {
-    return salah('news-sitemap.xml',
+    salah('news-sitemap.xml',
       basi.length + ' entri lebih tua dari ' + BATAS_JAM_BERITA + ' jam, Google menolaknya');
+    return loc;
   }
   if (judul.length !== tanggal.length) {
-    return salah('news-sitemap.xml', 'jumlah judul dan tanggal tidak sama');
+    salah('news-sitemap.xml', 'jumlah judul dan tanggal tidak sama');
+    return loc;
   }
   ok('news-sitemap.xml', tanggal.length + ' entri, semuanya dalam ' + BATAS_JAM_BERITA + ' jam');
   return loc;

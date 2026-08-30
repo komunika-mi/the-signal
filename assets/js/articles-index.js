@@ -73,6 +73,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463659-ai-bantu-nelayan-cilacap-membaca-laut-sebelum-berlayar-iwak-beri-informasi-cuaca-hingga-titik-ikan"
  },
  {
+  "slug": "crab-laba-anjlok-76-utang-bank-melonjak-di-kuartal-i",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Anjlok 76%, [Utang] Bank Melonjak di Kuartal I",
+  "deck": "Penjualan dan laba CRAB turun tajam pada kuartal I 2026, sementara utang bank jangka pendek melonjak dan laporan disampaikan telat dari tenggatnya.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "laporan keuangan",
+   "kuartal I 2026",
+   "Toba Surimi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830141856-64298-0/FinancialStatement-2026-I-CRAB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
@@ -127,7 +143,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -583,6 +599,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "area-bantah-ada-informasi-material-di-balik-gejolak-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "AREA Bantah Ada [Informasi Material] di Balik Gejolak Sahamnya",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, PT Dunia Virtual Online Tbk (AREA) menyatakan tidak mengetahui adanya informasi material di baliknya.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AREA",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3621f3d13b_4c55431646.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-ubah-jadwal-rupslb-jadi-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "UANG Ubah Jadwal [RUPSLB] Jadi 25 September 2026",
+  "deck": "PT Pakuan Tbk menggeser jadwal rapat pemegang saham luar biasa ke 25 September 2026, dengan pemegang saham per 2 September 2026 yang berhak hadir.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "PT Pakuan Tbk",
+   "jadwal rapat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8882d19cb_2e1ceac190.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -663,6 +711,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463277-part-genjot-bisnis-non-otomotif-laba-bersih-2026-diproyeksi-tembus-rp4416-miliar"
+ },
+ {
+  "slug": "kota-kas-anjlok-89-meski-defisit-menyusut-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "KOTA: kas [anjlok] 89% meski defisit menyusut semester I",
+  "deck": "Laporan keuangan interim auditan KOTA per Juni 2026 menunjukkan kas merosot tajam sementara akumulasi rugi menyusut sekitar Rp16 miliar.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "laporan keuangan",
+   "properti",
+   "hotel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828204051-64275-0/FinancialStatement-2026-II-KOTA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dpum-rama-indonesia-jadwalkan-ulang-tender-wajib-saham",
+  "category": "Aksi Korporasi",
+  "title": "DPUM: Rama Indonesia Jadwalkan Ulang [Tender Wajib] Saham",
+  "deck": "Rama Indonesia menjadwalkan ulang penawaran tender wajib atas saham DPUM menjadi 24 September-23 Oktober 2026, menyusul penundaan akibat kebakaran pabrik pada Juni 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DPUM",
+   "tender offer wajib",
+   "Rama Indonesia",
+   "pengambilalihan perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c917f1e1a_015b8744c7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rmko-jelaskan-lonjakan-piutang-dan-pendapatan-ke-afiliasi-rmuk",
+  "category": "Aksi Korporasi",
+  "title": "RMKO Jelaskan Lonjakan [Piutang] dan Pendapatan ke Afiliasi RMUK",
+  "deck": "BEI meminta RMKO menjelaskan lonjakan piutang, pendapatan diterima di muka, dan sejumlah pos neraca lain pada laporan keuangan tengah tahun 2026.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RMKO",
+   "piutang",
+   "pendapatan diterima di muka",
+   "pihak berelasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14d868b832_4a6b14e1f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bach-lakukan-pemecahan-saham-1-2000-arus-kas-operasi-minus",
+  "category": "Aksi Korporasi",
+  "title": "BACH Lakukan [Pemecahan Saham] 1:2000, Arus Kas Operasi Minus",
+  "deck": "Bach Multi Global (BACH) mencatat laba bersih naik 25 persen di semester I 2026, tetapi arus kas dari operasi berbalik minus Rp84,16 miliar seiring lonjakan utang bank dan piutang usaha.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BACH",
+   "laporan keuangan",
+   "pemecahan saham",
+   "utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828202303-64238-0/FinancialStatement-2026-II-BACH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "iata-rupsu-rupo-setujui-waiver-klausul-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "IATA: RUPSU-RUPO Setujui [Waiver] Klausul Pemegang Saham Utama",
+  "deck": "Pemegang sukuk dan obligasi Karya Pacific Energy menyetujui pelonggaran ketentuan perjanjian wali amanat yang terkait pemegang saham pengendali perseroan.",
+  "date": "28 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IATA",
+   "sukuk",
+   "obligasi",
+   "wali amanat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e1a680eb80_eca7e65d9b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
@@ -1297,7 +1425,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "tags": [
    "emas antam",
    "harga emas",
@@ -2151,7 +2279,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6364,139 +6492,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "humi-direktur-utama-ajukan-pengunduran-diri",
-  "category": "Aksi Korporasi",
-  "title": "HUMI: Direktur Utama Ajukan [Pengunduran] Diri",
-  "deck": "I Gusti Ngurah Askhara Danadiputra mundur dari kursi Direktur Utama HUMI, efektif setelah disahkan RUPSLB yang jadwalnya belum diumumkan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/humi-direktur-utama-ajukan-pengunduran-diri.jpg",
-  "tags": [
-   "HUMI",
-   "direksi",
-   "RUPSLB",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/aef620d48b_51eb97d8f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang",
-  "category": "Aksi Korporasi",
-  "title": "MREI Ganti [Direktur], Anwar Cipto Syamsul Gantikan Trinita Situmeang",
-  "deck": "RUPSLB 14 Agustus 2026 mengangkat Anwar Cipto Syamsul sebagai direktur baru MREI menggantikan Trinita Situmeang, efektif setelah lolos fit and proper test OJK.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/mrei-ganti-direktur-anwar-cipto-syamsul-gantikan-trinita-situmeang.jpg",
-  "imageV": "mszvs9y4",
-  "tags": [
-   "MREI",
-   "direksi",
-   "RUPSLB",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/27905cf970_6b826382b3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september",
-  "category": "Aksi Korporasi",
-  "title": "SMCB Jadwalkan [RUPSLB] 25 September, DPS Tutup 2 September",
-  "deck": "Solusi Bangun Indonesia akan menggelar RUPSLB pada 25 September 2026 di Jakarta Selatan, dengan pemegang saham yang berhak hadir dicatat per 2 September 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/smcb-jadwalkan-rupslb-25-september-dps-tutup-2-september.jpg",
-  "imageV": "mszvsttu",
-  "tags": [
-   "SMCB",
-   "RUPSLB",
-   "Solusi Bangun Indonesia",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ce9b332418_a4dfa2956e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "PPRE Kantongi Kontrak Baru [Rp1,5 Triliun] hingga Juni 2026",
-  "deck": "Kontrak baru PPRE tembus Rp1,5 triliun hingga semester I 2026, pendapatan naik 35% menjadi Rp2,2 triliun, dan rugi berjalan turun 93,4% menjadi Rp88,6 miliar.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/ppre-kantongi-kontrak-baru-rp1-5-triliun-hingga-juni-2026.jpg",
-  "imageV": "mszvtis0",
-  "tags": [
-   "PPRE",
-   "PP Presisi",
-   "kontrak baru",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/81f0f3d4ad_3286740f55.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbmd-direksi-beli-71-500-saham-lewat-remunerasi-variabel",
-  "category": "Aksi Korporasi",
-  "title": "BBMD: Direksi Beli 71.500 Saham lewat [Remunerasi Variabel]",
-  "deck": "Hendra Halim, direksi Bank Mestika Dharma, menambah 71.500 saham senilai sekitar Rp142,9 juta lewat skema remunerasi variabel, hak suaranya naik jadi 0,0209 persen.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBMD",
-   "Bank Mestika Dharma",
-   "kepemilikan saham",
-   "remunerasi direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-2807-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BEEF Rampungkan [Buyback]: 52,56 Juta Saham, Rp9,46 Miliar",
-  "deck": "Estika Tata Tiara (BEEF) membeli kembali 52,56 juta saham senilai Rp9,46 miliar sepanjang 19 Mei-18 Agustus 2026, baru 15,8 persen dari pagu maksimal 333,33 juta saham.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/beef-rampungkan-buyback-52-56-juta-saham-rp9-46-miliar.jpg",
-  "tags": [
-   "BEEF",
-   "buyback saham",
-   "saham treasuri",
-   "Estika Tata Tiara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e23e8146ba_de8727a358.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru",
-  "category": "Aksi Korporasi",
-  "title": "BLTZ [tutup] permanen bioskop CGV Studio Pekanbaru",
-  "deck": "Graha Layar Prima menutup permanen bioskop CGV Studio Pekanbaru menyusul keputusan pengelola Plaza Citra Pekanbaru, tanpa merinci dampak keuangannya.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bltz-tutup-permanen-bioskop-cgv-studio-pekanbaru.jpg",
-  "imageV": "mszvu2lk",
-  "tags": [
-   "BLTZ",
-   "CGV Cinemas",
-   "Pekanbaru",
-   "bioskop"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6078527a27_91cc7266f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-rencanakan-rights-issue-2-87-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Rencanakan [Rights Issue] 2,87 Miliar Saham Baru",
-  "deck": "Bank Kasikorn Indonesia (BMAS) mengoreksi jadwal rencana penambahan modal lewat HMETD IV, menerbitkan maksimal 2,87 miliar saham baru untuk modal kerja kredit, RUPSLB digelar 27 Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bmas-rencanakan-rights-issue-2-87-miliar-saham-baru.jpg",
-  "imageV": "mszvuhco",
-  "tags": [
-   "BMAS",
-   "rights issue",
-   "HMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6bd016d659_86451f3d7e.pdf",
   "sourceLabel": "IDX"
  }
 ];

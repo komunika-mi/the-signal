@@ -111,6 +111,32 @@ var ARTICLES = [
   "imageV": "mtfwfbge"
  },
  {
+  "slug": "crab-laba-anjlok-76-utang-bank-melonjak-di-kuartal-i",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Anjlok 76%, [Utang] Bank Melonjak di Kuartal I",
+  "deck": "Penjualan dan laba CRAB turun tajam pada kuartal I 2026, sementara utang bank jangka pendek melonjak dan laporan disampaikan telat dari tenggatnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T14:14:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830141856-64298-0/FinancialStatement-2026-I-CRAB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "laporan keuangan",
+   "kuartal I 2026",
+   "Toba Surimi"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode tiga bulan yang berakhir 31 Maret 2026. Penjualan bersih perusahaan produsen olahan ikan dan surimi asal Medan ini tercatat Rp104,66 miliar, turun 38,4 persen dibandingkan Rp169,90 miliar pada periode yang sama tahun lalu. Laba bruto ikut turun dari Rp16,53 miliar menjadi Rp8,69 miliar. Laba bersih periode berjalan anjlok 75,7 persen, dari Rp2,53 miliar pada Maret 2025 menjadi Rp614,09 juta pada Maret 2026, sehingga laba per saham dasar turun dari Rp1,30 menjadi Rp0,31.",
+   "Di sisi neraca, total aset perusahaan naik 27,91 persen menjadi Rp365,01 miliar per 31 Maret 2026, dari Rp285,36 miliar per akhir 2025. Dalam surat penjelasan yang ditandatangani Direktur Utama Gindra Tardy kepada Bursa Efek Indonesia, manajemen menyebut kenaikan itu terutama berasal dari saldo kas dan bank yang bertambah Rp76,46 miliar menjadi Rp120,22 miliar, serta uang muka dan biaya dibayar dimuka yang naik Rp10,39 miliar. Total liabilitas melonjak jauh lebih tajam, 169,08 persen menjadi Rp125,78 miliar, terutama karena penambahan utang bank jangka pendek sebesar Rp51,27 miliar dan kenaikan uang muka pelanggan Rp17,88 miliar. Akibatnya, ekuitas perusahaan nyaris tidak bergerak, dari Rp238,62 miliar menjadi Rp239,23 miliar, hanya bertambah sekitar Rp614 juta yang berasal dari laba periode berjalan.",
+   "Surat pernyataan direksi dalam laporan ini ditandatangani pada 28 Agustus 2026 dan surat pengantar oleh Corporate Secretary Mulyanti pada 30 Agustus 2026, jauh melewati tenggat penyampaian laporan keuangan interim kuartal I yang seharusnya paling lambat akhir April 2026. Susunan direksi tercatat terdiri dari Gindra Tardy sebagai Direktur Utama bersama Erman, Irsan Sudargo, Kok Kieng, dan Sia Leng Hong sebagai direktur, dengan jumlah karyawan tetap 634 orang, sama dengan posisi akhir 2025. Jumlah saham beredar perusahaan tidak berubah, tetap 1,95 miliar saham dengan nilai nominal Rp50 per saham."
+  ],
+  "fotoAdegan": "Workers in blue uniforms sorting frozen fish fillets on a stainless steel processing line inside a cold seafood factory",
+  "takeaway": "Laporan ini condong negatif bagi CRAB, karena penjualan dan laba bersih turun tajam sementara kenaikan aset justru datang dari utang baru, bukan dari kinerja operasional yang membaik. Yang tersentuh di sini adalah laba per saham, yaitu bagian laba yang jadi milik tiap lembar saham dan dipakai investor untuk mengukur profitabilitas, yang anjlok dari Rp1,30 menjadi Rp0,31, dan beban bunga ke depan berpotensi naik karena utang bank jangka pendek bertambah Rp51,27 miliar dalam tiga bulan. Ekuitas, yaitu selisih antara aset dan seluruh utang yang jadi hak pemegang saham, nyaris tidak bertambah meski total aset naik 27,91 persen, tanda bahwa pertumbuhan neraca ditopang utang, bukan laba ditahan. Patut dicermati juga bahwa laporan kuartal I ini baru disampaikan pada 30 Agustus 2026, sekitar empat bulan setelah tenggat akhir April 2026, keterlambatan yang sebaiknya dijelaskan lebih lanjut oleh manajemen. Pemegang saham perlu menunggu laporan kuartal II 2026 untuk melihat apakah penurunan penjualan ini berlanjut atau sekadar sementara.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
@@ -196,7 +222,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/rupiah-kurs.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
@@ -934,6 +960,57 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "area-bantah-ada-informasi-material-di-balik-gejolak-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "AREA Bantah Ada [Informasi Material] di Balik Gejolak Sahamnya",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, PT Dunia Virtual Online Tbk (AREA) menyatakan tidak mengetahui adanya informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T23:23:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3621f3d13b_4c55431646.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AREA",
+  "tags": [
+   "AREA",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Dunia Virtual Online Tbk (AREA) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, melalui surat resmi bernomor 029/DVO/ST-CORSEC/VIII/2026 tanggal 28 Agustus 2026, sebagai tanggapan atas surat Bursa bernomor S-11046/BEI.PP1/08-2026. Dalam surat yang ditandatangani Direktur Utama Michael Kurnia Wirawan Alifen itu, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga sahamnya, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun ketentuan Peraturan Bursa Nomor I-E soal pergerakan harga efek tercatat.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu yang seharusnya dilaporkan sesuai Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham perusahaan terbuka, dan memastikan tidak memiliki rencana aksi korporasi yang berdampak pada status pencatatan sahamnya di bursa, setidaknya dalam tiga bulan ke depan. Tidak ada pula informasi atau kejadian penting lain yang bersifat material dan belum diungkapkan ke publik, menurut surat tersebut.",
+   "Soal rencana pemegang saham utama, perseroan menegaskan bahwa pihak itu belum memiliki rencana apa pun terkait kepemilikan sahamnya di AREA. Jawaban ini didapat setelah Corporate Secretary menanyakan langsung kepada pemegang saham utama, sesuai prosedur yang diminta Bursa dalam suratnya."
+  ],
+  "fotoAdegan": "Rows of server racks in a modern data center hall, cool blue ambient lighting, a technician walking between aisles.",
+  "takeaway": "Surat ini condong netral karena isinya murni bantahan formal atas permintaan penjelasan Bursa, tanpa ada angka, transaksi, atau rencana baru yang mengubah penilaian atas emiten. Tidak ada pos kinerja yang tersentuh di sini, tidak ada perubahan ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena isinya memang klarifikasi administratif, bukan aksi korporasi. Pelaku pasar tetap memperhatikan surat semacam ini karena jadi penanda apakah lonjakan atau penurunan harga saham yang tidak wajar, yang oleh Bursa disebut sebagai aktivitas perdagangan tidak wajar, dipicu informasi nyata atau sekadar spekulasi. Yang perlu dipantau selanjutnya adalah apakah pernyataan perseroan soal tidak adanya rencana aksi korporasi bertahan hingga jangka waktu tiga bulan yang disebutkan, yakni sekitar akhir November 2026, karena jika ada aksi korporasi yang muncul lebih cepat dari itu, pernyataan hari ini akan jadi sorotan Bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "uang-ubah-jadwal-rupslb-jadi-25-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "UANG Ubah Jadwal [RUPSLB] Jadi 25 September 2026",
+  "deck": "PT Pakuan Tbk menggeser jadwal rapat pemegang saham luar biasa ke 25 September 2026, dengan pemegang saham per 2 September 2026 yang berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T23:14:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8882d19cb_2e1ceac190.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "PT Pakuan Tbk",
+   "jadwal rapat"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) mengumumkan perubahan jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) melalui surat bernomor 054/DIR-LGL/PAKUAN/VIII/2026 tertanggal 28 Agustus 2026, merujuk pada surat sebelumnya bernomor 053/DIR-LGL/PAKUAN/VIII/2026. Berdasarkan jadwal baru, rapat akan digelar pada Jumat, 25 September 2026 pukul 10.00 WIB, bertempat di Club House Shila Sawangan, Jalan Golf No. 7, Sawangan, Kecamatan Sawangan, Kota Depok.",
+   "Perseroan menetapkan 2 September 2026 sebagai tanggal daftar pemegang saham (DPS) yang berhak hadir dan memberikan suara dalam RUPSLB tersebut. Dokumen ini tidak menyebutkan agenda rapat maupun tanggal jadwal lama yang diganti. Surat pemberitahuan ditandatangani oleh Corporate Secretary PT Pakuan Tbk, Asa Nisi Siahaan."
+  ],
+  "fotoAdegan": "Empty ballroom chairs being arranged in rows inside a clubhouse hall, morning light through large windows, staff preparing the venue",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya murni menggeser jadwal rapat tanpa menyertakan perubahan agenda, struktur permodalan, atau angka keuangan apa pun. Yang perlu dipahami di sini adalah tanggal daftar pemegang saham atau DPS, yaitu batas waktu kepemilikan saham yang menentukan siapa yang berhak hadir dan memberi suara di rapat, dalam hal ini pemegang saham per 2 September 2026. Dokumen ini sendiri tidak menyentuh pos kinerja seperti ekuitas atau jumlah saham beredar, karena baru berisi jadwal, bukan keputusan rapat. Yang perlu dipantau selanjutnya adalah pelaksanaan RUPSLB pada Jumat, 25 September 2026, serta agenda yang akan diumumkan dan diputuskan dalam rapat tersebut, yang belum tercantum dalam pemberitahuan ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
   "category": "UMKM",
   "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
@@ -1064,6 +1141,138 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan sekadar target laba, melainkan komposisinya: manajemen memproyeksikan laba bersih tumbuh 46,18 persen, jauh lebih cepat dari pendapatan yang hanya naik 11,91 persen, artinya perseroan memperkirakan setiap rupiah penjualan bakal menghasilkan untung lebih besar berkat bisnis fabrikasi mesin dan alat pertanian yang baru dirintis sejak pertengahan 2025. Pihak yang paling terdampak adalah pemegang saham PART, karena laba per saham diproyeksikan naik dari Rp11,29 menjadi Rp15,49, sementara segmen otomotif yang selama ini jadi andalan tetap dipertahankan sebagai lini utama. Perlu digarisbawahi, semua angka ini adalah proyeksi manajemen sendiri untuk tahun yang belum berakhir, bukan hasil yang sudah terealisasi. Ada dua kemungkinan ke depan: proyeksi ini terbukti akurat kalau kontribusi bisnis non-otomotif benar naik di kuartal III dan mencapai puncaknya di kuartal IV seperti disebutkan perseroan, atau meleset dari target seperti yang kerap terjadi pada proyeksi korporasi lain. Laporan keuangan kuartal III 2026, yang biasanya terbit sekitar Oktober-November, akan menjadi penanda pertama apakah tren ini benar berjalan sesuai perkiraan.",
   "imageV": "mtdcxfcj"
+ },
+ {
+  "slug": "kota-kas-anjlok-89-meski-defisit-menyusut-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "KOTA: kas [anjlok] 89% meski defisit menyusut semester I",
+  "deck": "Laporan keuangan interim auditan KOTA per Juni 2026 menunjukkan kas merosot tajam sementara akumulasi rugi menyusut sekitar Rp16 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:33:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828204051-64275-0/FinancialStatement-2026-II-KOTA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "laporan keuangan",
+   "properti",
+   "hotel"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) menyampaikan laporan keuangan interim konsolidasian untuk periode enam bulan yang berakhir 30 Juni 2026, yang telah diaudit oleh Kantor Akuntan Publik Jonnardi, Jamaludin, Sukimto dan Rekan. Auditor memberikan opini wajar tanpa modifikasian, opini tertinggi dalam audit yang berarti laporan keuangan perusahaan dinilai disajikan secara wajar. Surat pernyataan direksi atas laporan ini diteken pada 21 Agustus 2026 oleh Direktur Utama Mohamad Prapanca dan Direktur Gema Pratama.",
+   "Pendapatan KOTA pada semester pertama 2026 tercatat Rp67,30 miliar, terdiri dari penjualan tanah Rp25,37 miliar dan pendapatan jasa hotel Rp41,93 miliar. Auditor menandai pengakuan pendapatan dan keterpulihan piutang usaha sebagai hal audit utama, mengingat perusahaan mencatat piutang usaha pihak ketiga senilai Rp141,80 miliar, naik dari Rp130,01 miliar pada akhir 2025. Untuk menilai area ini, auditor menguji sampel perjanjian penjualan, berita acara serah terima, serta riwayat pembayaran dan penerimaan kas dari pelanggan setelah tanggal pelaporan.",
+   "Dari sisi neraca, total aset KOTA turun menjadi Rp1,91 triliun per 30 Juni 2026, dari Rp1,97 triliun pada akhir 2025. Penurunan paling mencolok ada pada kas dan setara kas, yang merosot dari Rp69,53 miliar menjadi hanya Rp7,74 miliar, turun sekitar 89 persen dalam enam bulan. Di sisi lain, total liabilitas perusahaan turun dari Rp732,81 miliar menjadi Rp661,11 miliar, meski utang bank jangka panjang justru naik dari Rp417,23 miliar menjadi Rp426,75 miliar.",
+   "Akumulasi rugi yang belum ditentukan penggunaannya berkurang dari Rp51,22 miliar menjadi Rp35,18 miliar, selisih sekitar Rp16 miliar yang mengindikasikan perusahaan membukukan laba pada semester ini. Modal saham perusahaan tetap Rp1,05 triliun dan tambahan modal disetor tetap Rp229,10 miliar, tidak berubah dari akhir 2025."
+  ],
+  "fotoAdegan": "Housekeeping staff pushing a linen cart down a quiet hotel corridor, soft morning light, no visible signage",
+  "takeaway": "Sentimen laporan ini campuran sehingga dinilai netral: akumulasi rugi yang menyusut menandakan kinerja mulai membaik, tapi kas yang merosot hampir 90 persen dalam enam bulan patut dicermati sebagai sinyal tekanan likuiditas. Kas adalah pos paling cair di neraca, dana yang bisa langsung dipakai membayar utang atau biaya operasional, jadi penyusutan drastisnya berarti KOTA kini punya bantalan tunai jauh lebih tipis meski aset lancarnya masih di atas dua kali liabilitas jangka pendek. Berkurangnya akumulasi rugi sekitar Rp16 miliar berkaitan dengan ekuitas pemegang saham, karena laba yang terus terkumpul mengurangi defisit dan pelan-pelan memperbaiki fondasi permodalan perusahaan. Piutang usaha yang naik jadi Rp141,80 miliar, sampai ditandai auditor sebagai hal audit utama, juga perlu diperhatikan karena keterlambatan pembayaran pelanggan bisa menambah tekanan pada kas yang sudah menipis. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, untuk melihat apakah posisi kas mulai pulih atau penurunannya berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dpum-rama-indonesia-jadwalkan-ulang-tender-wajib-saham",
+  "category": "Aksi Korporasi",
+  "title": "DPUM: Rama Indonesia Jadwalkan Ulang [Tender Wajib] Saham",
+  "deck": "Rama Indonesia menjadwalkan ulang penawaran tender wajib atas saham DPUM menjadi 24 September-23 Oktober 2026, menyusul penundaan akibat kebakaran pabrik pada Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:20:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c917f1e1a_015b8744c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DPUM",
+  "tags": [
+   "DPUM",
+   "tender offer wajib",
+   "Rama Indonesia",
+   "pengambilalihan perusahaan"
+  ],
+  "body": [
+   "PT Rama Indonesia, pengendali baru PT Dua Putra Utama Makmur Tbk (DPUM), menyampaikan surat tindak lanjut bernomor S/038/RI-FIN-VIII-2026 pada 28 Agustus 2026 kepada DPUM perihal jadwal baru penawaran tender wajib atas saham perusahaan itu. Surat ini merupakan kelanjutan dari surat sebelumnya tertanggal 30 Juli 2026 yang memberitahukan penundaan pelaksanaan penawaran tender, serta hasil pertemuan daring antara Rama Indonesia dan Otoritas Jasa Keuangan (OJK) pada 12 Agustus 2026. Berdasarkan jadwal terbaru, periode penawaran tender wajib direncanakan berlangsung mulai 24 September hingga 23 Oktober 2026, dengan penyelesaian transaksi dan pembayaran pada 9 November 2026.",
+   "Rama Indonesia menjelaskan bahwa penundaan sebelumnya terjadi karena dana yang semula dialokasikan untuk penawaran tender dialihkan prioritasnya, menyusul insiden kebakaran di fasilitas pabrik DPUM pada Juni 2026. Dana itu kini lebih dulu digunakan untuk pemulihan fasilitas operasional, pengamanan aset, pemenuhan kewajiban kepada pihak ketiga yang terdampak, dan langkah mitigasi agar kegiatan usaha DPUM kembali berjalan normal. Rama Indonesia menegaskan penundaan ini bukan pembatalan, dan pihaknya tetap berkomitmen menuntaskan kewajiban penawaran tender wajib sesuai POJK Nomor 9/2018 tentang Pengambilalihan Perusahaan Terbuka.",
+   "Manajemen DPUM, melalui surat yang ditandatangani Direktur Utama Bambang Panca Putra Yudiono dan disampaikan oleh Corporate Secretary Mohammad Nur Hasan, menyatakan penyesuaian jadwal ini tidak menimbulkan dampak negatif material secara langsung terhadap operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan sejauh laporan ini disampaikan. Surat dari Rama Indonesia ditandatangani oleh Direktur Fransisda Marga Saputra, yang juga memberi kuasa kepada DPUM untuk mengumumkan keterbukaan informasi ini kepada pemegang saham publik. Kedua pihak menyatakan jadwal tersebut masih dapat berubah tergantung proses dan arahan OJK."
+  ],
+  "fotoAdegan": "Workers repairing machinery inside a coastal fish processing plant, scorched wall panels visible, industrial lighting, Central Java",
+  "takeaway": "Laporan ini condong netral karena isinya sebatas mengonfirmasi jadwal baru, bukan perubahan mendasar pada bisnis DPUM. Yang perlu dicermati justru konteksnya, dana yang tadinya disiapkan Rama Indonesia untuk membeli saham publik lewat penawaran tender kini dialihkan dulu untuk memulihkan pabrik DPUM yang terbakar pada Juni 2026, tanda bahwa kebutuhan pemulihan pabrik masih menekan arus kas pengendali baru. Penawaran tender wajib sendiri adalah mekanisme yang mengharuskan pemilik pengendali baru sebuah perusahaan terbuka membeli saham dari pemegang saham publik yang ingin keluar, jadi penundaannya berarti pemegang saham yang berniat melepas saham lewat skema ini harus menunggu lebih lama, meski jumlah saham beredar dan hak suara DPUM sendiri belum berubah oleh laporan ini. Yang perlu dipantau selanjutnya adalah apakah periode penawaran benar dimulai 24 September 2026, berakhir 23 Oktober 2026, dan pembayarannya cair pada 9 November 2026 sesuai jadwal terbaru ini, karena jadwal sebelumnya juga sudah pernah meleset.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rmko-jelaskan-lonjakan-piutang-dan-pendapatan-ke-afiliasi-rmuk",
+  "category": "Aksi Korporasi",
+  "title": "RMKO Jelaskan Lonjakan [Piutang] dan Pendapatan ke Afiliasi RMUK",
+  "deck": "BEI meminta RMKO menjelaskan lonjakan piutang, pendapatan diterima di muka, dan sejumlah pos neraca lain pada laporan keuangan tengah tahun 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:18:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14d868b832_4a6b14e1f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RMKO",
+  "tags": [
+   "RMKO",
+   "piutang",
+   "pendapatan diterima di muka",
+   "pihak berelasi"
+  ],
+  "body": [
+   "PT Royaltama Mulia Kontraktorindo Tbk (RMKO) menjawab permintaan penjelasan resmi Bursa Efek Indonesia menyusul penelaahan laporan keuangan tengah tahunan 2026 serta realisasi atas proyeksi yang disampaikan saat penawaran umum perseroan. Jawaban disampaikan lewat surat nomor 49/CS/RMKO/8/2026 tertanggal 28 Agustus 2026, merujuk surat BEI nomor S-11031/BEI.PP2/08-2026 yang diterima 26 Agustus 2026.",
+   "Soal piutang usaha, saldo pihak ketiga per 30 Juni 2026 tercatat Rp41,38 miliar, naik Rp23,04 miliar atau 125,7 persen dari Rp18,34 miliar per akhir 2025. Sebesar 94,85 persen dari kenaikan itu berasal dari satu pelanggan, PT Sahala Bara Lestari, yang saldonya naik dari Rp17,59 miliar menjadi Rp39,25 miliar. Perseroan menyebut sudah menerima pembayaran Rp38,86 miliar dari pelanggan tersebut pada Juli 2026, dan secara keseluruhan telah menagih Rp59,63 miliar dari total piutang usaha Rp59,92 miliar atau 99,52 persen sampai 28 Agustus 2026. Perseroan tidak membentuk cadangan kerugian kredit meski ada piutang lewat jatuh tempo 90 hari sebesar Rp34,33 miliar, dengan alasan tingkat pemulihan historis mencapai 93,57 persen.",
+   "Piutang lain-lain pihak ketiga melonjak dari Rp17,24 juta menjadi Rp4,64 miliar, hampir seluruhnya berasal dari tagihan restitusi pajak penghasilan badan tahun 2024 sebesar Rp4,62 miliar yang belum cair sampai 28 Agustus 2026. Persediaan naik 24,5 persen menjadi Rp46,82 miliar, didominasi suku cadang alat berat senilai Rp43,73 miliar atau 93,38 persen dari total. Biaya dibayar di muka dan uang muka naik 73,8 persen menjadi Rp11,34 miliar, termasuk Rp6,03 miliar uang muka jasa pihak ketiga untuk proyek konstruksi yang dikerjakan anak usaha RMKO, PT Royaltama Mulia Konstruksi (ROKT).",
+   "Pos yang melonjak paling tajam adalah pendapatan diterima di muka, naik 188,6 persen dari Rp61,26 miliar menjadi Rp176,78 miliar. Sebesar Rp121,12 miliar atau 68,5 persen dari saldo itu berasal dari satu proyek pembangunan fasilitas penunjang untuk PT Royaltama Mulia Kencana (RMUK), berdasarkan perjanjian tanggal 10 November 2025 dengan nilai pekerjaan total Rp286,09 miliar sesuai lampiran kontrak yang disertakan. Progres pekerjaan baru mencapai 69,70 persen per 30 Juni 2026 dan ditargetkan rampung 31 Desember 2026. Perjanjian itu diteken oleh Vincent Saputra selaku Direktur RMUK dan William Saputra selaku Direktur ROKT, dan kedua perusahaan tercatat beralamat sama di Wisma RMK, Jakarta Barat."
+  ],
+  "fotoAdegan": "Excavators and haul trucks working along an unpaved mining haul road under an overcast sky, dust rising",
+  "takeaway": "Laporan ini condong negatif bagi RMKO karena mengonfirmasi seberapa besar kinerja perseroan bertumpu pada satu proyek dengan pihak berelasi, PT Royaltama Mulia Kencana, yang berbagi alamat kantor dan nama keluarga direktur dengan anak usaha RMKO sendiri, senilai Rp121,12 miliar atau 68,5 persen dari total pendapatan diterima di muka Rp176,78 miliar. Pendapatan diterima di muka adalah uang yang sudah masuk kas tapi belum boleh dicatat sebagai laba karena pekerjaannya belum selesai, jadi lonjakan tajam pos ini menunjukkan ketergantungan pada satu proyek afiliasi, bukan pada basis pelanggan pihak ketiga yang lebih beragam. Sisi yang meredakan kekhawatiran adalah piutang usaha yang sempat melonjak 125,7 persen ternyata sudah tertagih 99,52 persen per 28 Agustus 2026, sehingga risiko gagal bayar dari pos itu relatif kecil. Yang perlu dipantau selanjutnya adalah penyelesaian proyek RMUK yang baru mencapai 69,70 persen per akhir Juni dan ditargetkan tuntas 31 Desember 2026, serta pencairan restitusi pajak Rp4,62 miliar yang sampai 28 Agustus 2026 masih belum diterima perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bach-lakukan-pemecahan-saham-1-2000-arus-kas-operasi-minus",
+  "category": "Aksi Korporasi",
+  "title": "BACH Lakukan [Pemecahan Saham] 1:2000, Arus Kas Operasi Minus",
+  "deck": "Bach Multi Global (BACH) mencatat laba bersih naik 25 persen di semester I 2026, tetapi arus kas dari operasi berbalik minus Rp84,16 miliar seiring lonjakan utang bank dan piutang usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:08:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828202303-64238-0/FinancialStatement-2026-II-BACH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BACH",
+  "tags": [
+   "BACH",
+   "laporan keuangan",
+   "pemecahan saham",
+   "utang"
+  ],
+  "body": [
+   "PT Bach Multi Global Tbk (BACH) menyampaikan laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, yang telah ditelaah secara terbatas oleh KAP Tjahjadi Tamara dengan partner penanggung jawab Riani, dan memperoleh opini wajar tanpa modifikasian. Bersamaan dengan laporan itu, perseroan mengirim surat penjelasan resmi kepada Bursa Efek Indonesia karena total aset dan total liabilitasnya berubah lebih dari 20 persen dibanding akhir 2025, sesuai kewajiban Peraturan I-E BEI.",
+   "Total aset BACH naik 56,50 persen, dari Rp1,23 triliun pada akhir 2025 menjadi Rp1,93 triliun pada 30 Juni 2026, atau bertambah Rp696,49 miliar. Perseroan menyebut kenaikan ini didorong oleh peningkatan aktivitas penjualan dan penyewaan genset, dengan piutang usaha bertambah Rp170,44 miliar, persediaan bertambah Rp193,74 miliar untuk persiapan proyek pembangkit listrik tenaga diesel (PLTD) sewa baru, aset tetap bertambah Rp174,13 miliar untuk aset yang disewakan, serta pekerjaan dalam pelaksanaan bertambah Rp115,79 miliar seiring proyek infrastruktur telekomunikasi. Di sisi lain, total liabilitas melonjak lebih tajam, yakni 88,91 persen dari Rp696,68 miliar menjadi Rp1,32 triliun, terutama karena utang usaha naik 125,54 persen atau bertambah Rp270,76 miliar dan utang bank bertambah Rp301,91 miliar atau naik 73,51 persen untuk membiayai stok dan ekspansi proyek sewa.",
+   "Dari sisi laba rugi, pendapatan neto BACH naik dari Rp734,18 miliar menjadi Rp897,42 miliar, dan laba bersih naik dari Rp62,02 miliar menjadi Rp77,69 miliar. Namun beban bunga melonjak dari Rp6,63 miliar menjadi Rp19,32 miliar, dan arus kas dari aktivitas operasi justru berbalik menjadi minus Rp84,16 miliar dari sebelumnya positif Rp129,99 miliar, karena penerimaan dari pelanggan sebesar Rp748,91 miliar tidak menutup pembayaran ke pemasok, karyawan, dan pajak. Perseroan juga memecah nilai nominal sahamnya dari Rp100.000 menjadi Rp50 per saham, sehingga jumlah saham beredar naik dari 1.734.715 lembar menjadi 3.469.430.000 lembar tanpa mengubah total modal disetor sebesar Rp173,47 miliar. Ekuitas perseroan naik dari Rp535,95 miliar menjadi Rp613,00 miliar, setelah memperhitungkan pencadangan laba ditahan Rp34,69 miliar sebagai cadangan wajib dan pelepasan satu entitas anak yang mengurangi ekuitas sekitar Rp869 juta."
+  ],
+  "fotoAdegan": "Technicians in orange safety vests inspecting a row of industrial diesel generators at an outdoor rental yard, midday light",
+  "takeaway": "Laporan ini condong negatif karena pertumbuhan laba yang terlihat bagus dibarengi lonjakan utang yang jauh lebih besar dan arus kas dari kegiatan usaha yang justru berbalik minus, tanda bahwa laba di atas kertas belum berubah jadi uang tunai. Yang tersentuh ada beberapa pos: arus kas operasi, yaitu uang tunai yang benar-benar masuk dari kegiatan sehari-hari, bukan sekadar dicatat di laporan laba rugi; beban bunga yang hampir tiga kali lipat karena utang bank membengkak; dan jumlah saham beredar yang melonjak 2.000 kali lipat akibat pemecahan saham, meski ini tidak mengubah nilai kepemilikan pemegang saham lama karena laba per saham ikut disesuaikan dan tetap naik. Ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, masih tumbuh 14,4 persen, jadi kenaikan utang belum sampai membahayakan struktur permodalan secara keseluruhan. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, untuk melihat apakah persediaan dan piutang yang menumpuk di semester I bisa segera cair jadi kas dan membalikkan arus kas operasi ke posisi positif, terutama terkait proyek PLTD sewa baru yang disebut jadi alasan utama penumpukan itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "iata-rupsu-rupo-setujui-waiver-klausul-pemegang-saham-utama",
+  "category": "Aksi Korporasi",
+  "title": "IATA: RUPSU-RUPO Setujui [Waiver] Klausul Pemegang Saham Utama",
+  "deck": "Pemegang sukuk dan obligasi Karya Pacific Energy menyetujui pelonggaran ketentuan perjanjian wali amanat yang terkait pemegang saham pengendali perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 Agustus 2026",
+  "isoDate": "2026-08-28T20:03:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e1a680eb80_eca7e65d9b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IATA",
+  "tags": [
+   "IATA",
+   "sukuk",
+   "obligasi",
+   "wali amanat"
+  ],
+  "body": [
+   "PT Karya Pacific Energy Tbk (IATA) menggelar dua rapat pemegang utang pada 27 Agustus 2026 di iNews Tower, MNC Center, Jakarta Pusat. Rapat pertama adalah Rapat Umum Pemegang Sukuk Wakalah (RUPSU) untuk Sukuk Wakalah Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023, dihadiri pemegang sukuk senilai Rp107,505 miliar atau 71,67 persen dari total pokok sukuk yang belum lunas sebesar Rp150 miliar. Rapat kedua adalah Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi Berkelanjutan I MNC Energy Investments Tahap I Tahun 2023, dihadiri pemegang obligasi senilai Rp232,395 miliar atau 92,96 persen dari pokok obligasi Rp250 miliar. Kedua rapat dipimpin oleh wali amanat PT Bank Rakyat Indonesia (Persero) Tbk, sementara perhitungan kuorum dan pemungutan suara dicatat notaris Aulia Taufani.",
+   "Di RUPSU, agenda disetujui oleh suara mewakili Rp90,765 miliar atau 84,43 persen dari sukuk yang hadir, sementara Rp16,74 miliar atau 15,57 persen menolak. Di RUPO, seluruh suara yang hadir, atau 100 persen dari Rp232,395 miliar, menyetujui agenda yang sama. Dua hal yang disetujui adalah pelepasan sekaligus perubahan Pasal 7.3 huruf c Perjanjian Perwaliamanatan yang mengatur soal pemegang saham utama perseroan selama sukuk dan obligasi ini masih berjalan, serta pelepasan kewajiban emiten untuk menyerahkan akta atau dokumen keputusan RUPS setiap kali terjadi perubahan anggaran dasar dan/atau perubahan pemegang saham utama, sebagaimana diatur Pasal 7.3 huruf k angka (iii).",
+   "Sebagai tindak lanjut, wali amanat bersama emiten diberi kuasa untuk menyusun dan menandatangani akta perubahan Perjanjian Perwaliamanatan di hadapan notaris, serta melakukan tindakan lain yang diperlukan untuk melaksanakan hasil rapat ini. Dokumen tidak mencantumkan tenggat waktu spesifik untuk penandatanganan akta tersebut."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a podium, glass windows overlooking a Jakarta office tower skyline, soft morning light",
+  "takeaway": "Bagi fundamental IATA, hasil rapat ini bersifat netral karena tidak mengubah satu pun angka di laporan keuangan perseroan, tapi patut dicermati karena isinya melonggarkan pagar pengaman kreditur. Klausul yang dilonggarkan adalah bagian dari perjanjian wali amanat, yakni kontrak antara emiten dan bank yang mewakili kepentingan pemegang sukuk dan obligasi, yang tadinya mengikat status pemegang saham utama perseroan selama utang ini belum lunas. Dengan dilepasnya klausul itu, emiten mendapat ruang gerak lebih bebas jika pemegang saham pengendalinya berganti, sementara pemegang sukuk dan obligasi kehilangan salah satu alat mereka untuk memantau perubahan itu, meski mereka sendiri yang menyetujuinya lewat suara mayoritas. Permintaan pelonggaran semacam ini lazimnya muncul saat emiten tengah menyiapkan atau mengantisipasi perubahan struktur pemegang saham utama, sehingga yang perlu dipantau berikutnya adalah penandatanganan akta perubahan Perjanjian Perwaliamanatan di hadapan notaris serta ada tidaknya pengumuman resmi soal perubahan pemegang saham utama IATA setelahnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
@@ -2077,7 +2286,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/emas-batangan.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:40:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun",
@@ -3459,7 +3668,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/grafik-laptop.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",

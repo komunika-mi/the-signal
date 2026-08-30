@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
+  "category": "UMKM",
+  "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
+  "deck": "LPDB Koperasi memuji rekam jejak KSP Balo'ta di Tana Toraja yang tak pernah gagal bayar dan kini mendampingi 40 koperasi desa Merah Putih di wilayah itu.",
+  "image": "assets/img/lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T21:01:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463695-lpdb-koperasi-apresiasi-ksp-balota-dampingi-40-kdkmp-di-tana-toraja",
+  "tags": [
+   "LPDB Koperasi",
+   "KSP Balo'ta",
+   "Koperasi Merah Putih",
+   "Tana Toraja"
+  ],
+  "body": [
+   "Lembaga Pengelola Dana Bergulir (LPDB) Koperasi, lembaga pemerintah yang menyalurkan pinjaman dana bergulir kepada koperasi, memberikan apresiasi kepada Koperasi Simpan Pinjam (KSP) Balo'ta di Tana Toraja, Sulawesi Selatan. Apresiasi itu diberikan karena rekam jejak pengelolaan pembiayaan KSP Balo'ta dinilai bersih dari catatan gagal bayar. Kunjungan ini penting karena menunjukkan bagaimana pemerintah mengevaluasi mitra pembiayaan lama sekaligus mempertimbangkan dukungan lanjutan bagi koperasi yang berkinerja baik.",
+   "Direktur Utama LPDB Koperasi Krisdianto menyebut KSP Balo'ta sebagai salah satu koperasi tertua di Tana Toraja yang selalu tepat mengembalikan pinjaman dan memanfaatkan dana sesuai tujuan program dana bergulir. Kunjungan langsung ke lokasi dilakukan untuk melihat kondisi koperasi sekaligus mencari peluang penguatan usaha ke depan. Ketua KSP Balo'ta, Dedi Bongga, menyebut hubungan pembiayaan koperasinya dengan LPDB sudah berjalan sekitar satu dekade.",
+   "Di luar urusan pembiayaan, KSP Balo'ta juga secara mandiri mendampingi sekitar 40 Koperasi Desa/Kelurahan Merah Putih (KDKMP), yakni koperasi desa yang dibentuk lewat program nasional, yang tersebar di dua kabupaten di Tana Toraja. Pendampingan itu menjangkau sekitar 200 pengurus KDKMP, dengan fokus pada tata kelola dan kemampuan manajerial pengurus koperasi. Krisdianto menyebut kontribusi ini menjadi salah satu pertimbangan LPDB untuk terus mendukung pengembangan usaha KSP Balo'ta.",
+   "Menurutnya, dukungan LPDB kepada KSP Balo'ta berpotensi tidak hanya memperkuat koperasi itu sendiri, tetapi juga memperluas manfaat pembiayaan kepada anggota dan koperasi lain di sekitarnya."
+  ],
+  "fotoAdegan": "Farmers and small shop owners gathered around a wooden table inside a modest cooperative hall in a highland Toraja village, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/30/6a94363ba6d09-menkop-ferry-juliantono-dalam-pesona-tenun-dan-budaya-toraja-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kunjungan ini bukan soal pembiayaan baru, melainkan pengakuan LPDB atas peran KSP Balo'ta yang meluas, dari sekadar penerima pinjaman dana bergulir menjadi pendamping mandiri bagi 40 Koperasi Desa/Kelurahan Merah Putih dengan sekitar 200 pengurus di dua kabupaten Tana Toraja. Yang terdampak langsung adalah pengurus dan anggota koperasi desa itu, serta KSP Balo'ta sendiri yang disebut berpeluang mendapat dukungan usaha lanjutan dari LPDB. Namun berita ini tidak menyebut berapa nilai pembiayaan yang sudah atau akan diberikan, dan tidak ada kepastian apakah dukungan tambahan itu berbentuk pinjaman baru, pelatihan, atau bentuk lain. Yang masih perlu dipantau adalah apakah LPDB benar merealisasikan dukungan konkret ke KSP Balo'ta setelah kunjungan ini, serta apakah pola menjadikan koperasi berkinerja baik sebagai pendamping koperasi desa ini akan direplikasi ke daerah lain di luar Tana Toraja.",
+  "imageV": "mtfwf9ix"
+ },
+ {
+  "slug": "rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan",
+  "category": "Moneter",
+  "title": "Rupiah Berpeluang ke Rp17.900, [Inflasi] Jadi Penentu Pekan Depan",
+  "deck": "Rupiah diproyeksi bergerak di rentang Rp17.600 hingga Rp17.900 per dolar AS pekan depan, menanti rilis data inflasi dan neraca perdagangan Juli.",
+  "image": "assets/img/rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T20:30:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463690-rupiah-bisa-tembus-rp17900-per-dolar-as-pekan-depan-inflasi-dan-the-fed-jadi-penentu",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "inflasi",
+   "kurs"
+  ],
+  "body": [
+   "Nilai tukar rupiah diperkirakan tetap bergerak terbatas pekan depan, dengan potensi melemah lebih jauh di tengah minimnya kepastian arah kebijakan moneter dan penantian sejumlah data ekonomi. Proyeksi ini penting bagi pelaku usaha dan importir karena rentang pergerakan yang diperkirakan cukup lebar, sehingga biaya impor maupun kebutuhan dolar bisa berubah cukup besar hanya dalam sepekan.",
+   "Pada penutupan perdagangan Jumat (28/8/2026), rupiah berada di level Rp17.693 per dolar AS, hanya menguat tipis 0,01 persen dibanding pekan sebelumnya. Kurs referensi resmi Bank Indonesia, JISDOR, juga nyaris tidak bergerak, dari Rp17.705 menjadi Rp17.703 per dolar AS. Stagnasi ini, menurut Pengamat Komoditas dan Pasar Uang Ibrahim Assuaibi, mencerminkan sikap pelaku pasar yang menahan diri sebelum ada kepastian dari data ekonomi yang akan terbit.",
+   "Ibrahim memperkirakan rupiah pekan depan akan bergerak di kisaran Rp17.600 hingga Rp17.900 per dolar AS, rentang yang cukup lebar untuk ukuran sepekan. Faktor utama yang ditunggu pasar adalah angka inflasi resmi, karena data ini akan menjadi salah satu pertimbangan Bank Indonesia dalam menentukan apakah suku bunga acuan bisa diturunkan lebih lanjut. Selama angka resmi itu belum keluar, investor cenderung menunda pengambilan posisi besar di pasar valuta asing.",
+   "Selain inflasi, pasar juga menanti data perdagangan Juli 2026 dari Badan Pusat Statistik. Data tersebut akan menunjukkan seberapa besar Indonesia bergantung pada pasokan pangan dan barang dari luar negeri, karena ketergantungan impor yang lebih tinggi berarti kebutuhan dolar AS untuk membayar barang tersebut ikut naik, yang pada akhirnya bisa menambah tekanan pada nilai tukar rupiah."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a large ship at a busy Indonesian seaport, cranes overhead, bright daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/04/6a21aa6439946-mata-uang-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan angka besar, rupiah cuma bergerak nyaris rata sepekan terakhir, tapi proyeksi pekan depan justru melebar ke rentang Rp17.600 sampai Rp17.900, artinya ruang pelemahan yang diperhitungkan lebih lebar daripada peluang penguatannya. Yang terdampak langsung adalah pelaku usaha yang bergantung pada barang impor, terutama pangan, karena kebutuhan dolar mereka bisa naik kalau rupiah bergerak ke ujung bawah rentang itu. Dari bukti yang ada, arahnya bisa dibaca dalam dua skenario: kalau inflasi Agustus terkendali, Bank Indonesia punya ruang menurunkan suku bunga lagi dan itu biasanya menenangkan rupiah, tapi kalau data perdagangan Juli menunjukkan impor pangan makin besar, permintaan dolar akan naik dan rupiah lebih mungkin tertekan ke arah Rp17.900. Kepastian skenario mana yang terjadi baru akan terlihat dari rilis inflasi dan data neraca perdagangan Juli yang sama-sama ditunggu pasar pekan depan.",
+  "imageV": "mtfwfa5y"
+ },
+ {
+  "slug": "harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Diproyeksi [Tertahan] Meski Emas Dunia Bergejolak",
+  "deck": "Analis memperkirakan emas dunia bergerak antara US$4.262 dan US$4.682 per troy ounce pekan ini, sementara ruang koreksi emas Antam dinilai terbatas.",
+  "image": "assets/img/harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T19:43:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463683-gonjang-ganjing-harga-emas-dunia-antam-berpotensi-melonjak-ke-rp281-juta-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "kurs rupiah"
+  ],
+  "body": [
+   "Harga emas dunia diperkirakan masih punya ruang menguat pada pekan yang dimulai Senin, 31 Agustus 2026, meski risiko koreksi di awal pekan tetap membayangi. Proyeksi ini disampaikan Pengamat Komoditas dan Pasar Uang Ibrahim Assuaibi, yang mencermati pergerakan emas dunia maupun emas batangan Antam di dalam negeri. Pergerakan ini penting bagi masyarakat yang menyimpan emas sebagai tabungan atau berencana membeli emas Antam, karena harga jual di dalam negeri biasanya mengikuti arah harga emas dunia.",
+   "Ibrahim mencatat harga emas dunia ditutup di US$4.454 per troy ounce pada Sabtu pagi. Jika terjadi koreksi pada perdagangan Senin, harga berpotensi turun ke batas bawah pertama US$4.381, dan bila tekanan jual berlanjut sepanjang pekan bisa turun lagi ke batas bawah kedua US$4.262 per troy ounce. Batas bawah ini adalah level yang menurut pola pergerakan sebelumnya cenderung menahan penurunan lebih jauh, sebelum harga berbalik naik. Sebaliknya, jika emas kembali mendapat momentum penguatan, harga berpeluang naik menembus batas atas pertama US$4.553, lalu berlanjut ke batas atas kedua US$4.682 per troy ounce, yaitu level yang biasanya jadi rintangan sebelum harga bisa naik lebih tinggi lagi.",
+   "Pergerakan emas dunia ini turut memengaruhi harga emas batangan Antam di pasar domestik, yang pada perdagangan sebelumnya ditutup di Rp2.711.000 per gram. Ibrahim memperkirakan jika terjadi koreksi, harga Antam bisa turun ke Rp2.688.000 per gram, dengan potensi tekanan lebih dalam membawanya ke Rp2.600.000 per gram. Meski begitu, ruang penurunan harga Antam diperkirakan tidak akan terlalu dalam.",
+   "Salah satu faktor yang bisa menahan harga emas Antam agar tidak turun terlalu jauh adalah potensi pelemahan nilai tukar rupiah terhadap dolar Amerika Serikat. Sebab harga emas batangan di dalam negeri dihitung dalam rupiah, sehingga jika rupiah melemah, harga emas versi rupiah cenderung tetap tinggi meskipun harga emas dunia dalam dolar sedang turun."
+  ],
+  "fotoAdegan": "Close-up of small gold bars stacked on a velvet tray at a jewelry counter, warm indoor lighting, Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/01/16/67886b1e170a0-ilustrasi-harga-emas-antam-hari-ini_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Proyeksi analis untuk pekan depan sebenarnya membuka dua kemungkinan yang sama-sama masuk akal. Skenario pertama, harga emas dunia terkoreksi dari US$4.454 menuju US$4.381 atau bahkan US$4.262 per troy ounce, yang biasanya turut menyeret harga emas Antam dari Rp2.711.000 menuju Rp2.688.000 atau Rp2.600.000 per gram. Skenario kedua, harga emas dunia melanjutkan penguatan hingga menembus US$4.553 atau US$4.682 per troy ounce. Yang membuat skenario penurunan tidak leluasa adalah potensi pelemahan rupiah terhadap dolar AS, sebab kurs yang melemah membuat harga emas versi rupiah cenderung bertahan tinggi meski harga emas dunia turun. Arah mana yang benar-benar terjadi baru akan terlihat dari pembukaan perdagangan dan pergerakan kurs rupiah pada Senin, 31 Agustus 2026.",
+  "imageV": "mtfwfate"
+ },
+ {
+  "slug": "ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca",
+  "category": "Teknologi",
+  "title": "[AI] Bantu Nelayan Cilacap Prediksi Ikan dan Cuaca",
+  "deck": "Aplikasi Iwak pakai AI dan data satelit membantu nelayan Cilacap menentukan waktu melaut, menekan kerugian dan menaikkan pendapatan hingga 68 persen.",
+  "image": "assets/img/ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T17:20:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463659-ai-bantu-nelayan-cilacap-membaca-laut-sebelum-berlayar-iwak-beri-informasi-cuaca-hingga-titik-ikan",
+  "tags": [
+   "AI",
+   "nelayan",
+   "Pertamina",
+   "Desa Energi Berdikari"
+  ],
+  "body": [
+   "Nelayan di Cilacap Selatan, Jawa Tengah, kini bisa memutuskan dari rumah apakah hari itu layak untuk melaut, berkat aplikasi berbasis kecerdasan buatan bernama Iwak. Ini penting karena melaut selama ini penuh untung-untungan: bahan bakar dan waktu sudah terpakai lebih dulu, sementara hasil tangkapan belum tentu cukup menutup biaya.",
+   "Masalah itu tergambar dari data MetaSeaco, startup pengembang Iwak yang lahir dari program Pertamuda Pertamina, yang mencatat 41 persen dari 6.806 perjalanan melaut nelayan Cilacap berakhir merugi. Iwak menggabungkan kecerdasan buatan dan data satelit untuk memperkirakan waktu terbaik melaut, jenis ikan yang berpeluang didapat, hingga titik koordinat penangkapan. \"Dari rumah, nelayan sudah bisa mengetahui apakah hari itu sebaiknya melaut atau tidak. Jika melaut, teknologi ini juga memberikan rekomendasi titik koordinat dan waktu terbaik untuk menangkap ikan,\" kata CEO MetaSeaco, Catur Prasetyo Nugroho.",
+   "Setelah dipakai di 15 perahu nelayan Cilacap, biaya operasional turun sekitar 23 persen dan pendapatan rata-rata nelayan naik 68 persen. Perjalanan melaut yang merugi berkurang dari 41 persen menjadi sekitar 30 persen. Akurasi prediksi lokasi ikan tercatat 91 persen untuk tenggiri batang, 85 persen untuk bawal putih, dan 70 persen untuk layur, dengan salah satu perjalanan yang mengikuti koordinat berskor tinggi membukukan pendapatan sekitar Rp3 juta.",
+   "Hasil ini kini didorong untuk menjangkau lebih banyak desa lewat kolaborasi Desa Energi Berdikari (DEB) Pertamina dengan program Pertamuda, sebagaimana dibahas dalam Festival Desa Energi Berdikari Pertamina 2026 di Grha Pertamina, Jakarta, Jumat (28/8/2026). Vice President CSR & SMEPP Management Pertamina, Rudi Ariffianto, menyebut Pertamina memiliki 269 Desa Energi Berdikari yang menjadi target penerapan teknologi semacam ini. Dalam acara yang sama, startup lain top 3 Pertamuda 2025 kategori Energy Future, Terangin, juga akan membawa teknologi laser otomatis pengusir burung ke DEB Juntinyuat, Indramayu, untuk membantu petani mengurangi gangguan hama."
+  ],
+  "fotoAdegan": "Traditional wooden fishing boats moored at a small Central Java harbor at dawn, fishermen loading nets and gear before departure",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/30/6a9402b97bb1e-festival-desa-energi-berdikari-pertamina-2026-di-grha-pertamina-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah hasil satu proyek kecil: 15 perahu nelayan di Cilacap yang memakai aplikasi Iwak berhasil menekan biaya operasional 23 persen dan menaikkan pendapatan rata-rata 68 persen, sementara perjalanan melaut yang merugi turun dari 41 persen menjadi sekitar 30 persen. Yang kena dampak langsung adalah nelayan di Cilacap Selatan, tapi Pertamina lewat program Desa Energi Berdikari mengarahkan hasil ini agar diterapkan juga di desa binaan lain, dari total 269 desa yang mereka miliki. Arah ini terlihat dari pola yang sama pada startup lain di acara yang sama, Terangin, yang teknologi pengusir burungnya sudah punya tujuan pasti yaitu Desa Energi Berdikari Juntinyuat di Indramayu, sementara perluasan Iwak sendiri baru disebut berpeluang tanpa lokasi atau jadwal pasti. Ini menunjukkan Pertamina sedang bergerak dari sekadar mendanai startup lewat Pertamuda menuju menjadikan Desa Energi Berdikari sebagai jalur penyebaran teknologi itu ke lapangan. Yang akan memastikan arah ini adalah apakah Iwak, seperti Terangin, nanti juga mendapat desa tujuan dan jadwal penerapan yang jelas setelah festival ini.",
+  "imageV": "mtfwfbge"
+ },
+ {
   "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
@@ -88,7 +196,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
@@ -1969,7 +2077,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:40:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun",
@@ -3351,7 +3459,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",

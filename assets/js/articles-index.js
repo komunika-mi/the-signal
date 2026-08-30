@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
+  "category": "UMKM",
+  "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
+  "deck": "LPDB Koperasi memuji rekam jejak KSP Balo'ta di Tana Toraja yang tak pernah gagal bayar dan kini mendampingi 40 koperasi desa Merah Putih di wilayah itu.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja.jpg",
+  "imageV": "mtfwf9ix",
+  "tags": [
+   "LPDB Koperasi",
+   "KSP Balo'ta",
+   "Koperasi Merah Putih",
+   "Tana Toraja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463695-lpdb-koperasi-apresiasi-ksp-balota-dampingi-40-kdkmp-di-tana-toraja"
+ },
+ {
+  "slug": "rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan",
+  "category": "Moneter",
+  "title": "Rupiah Berpeluang ke Rp17.900, [Inflasi] Jadi Penentu Pekan Depan",
+  "deck": "Rupiah diproyeksi bergerak di rentang Rp17.600 hingga Rp17.900 per dolar AS pekan depan, menanti rilis data inflasi dan neraca perdagangan Juli.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan.jpg",
+  "imageV": "mtfwfa5y",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "inflasi",
+   "kurs"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463690-rupiah-bisa-tembus-rp17900-per-dolar-as-pekan-depan-inflasi-dan-the-fed-jadi-penentu"
+ },
+ {
+  "slug": "harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Diproyeksi [Tertahan] Meski Emas Dunia Bergejolak",
+  "deck": "Analis memperkirakan emas dunia bergerak antara US$4.262 dan US$4.682 per troy ounce pekan ini, sementara ruang koreksi emas Antam dinilai terbatas.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak.jpg",
+  "imageV": "mtfwfate",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "kurs rupiah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463683-gonjang-ganjing-harga-emas-dunia-antam-berpotensi-melonjak-ke-rp281-juta-per-gram"
+ },
+ {
+  "slug": "ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca",
+  "category": "Teknologi",
+  "title": "[AI] Bantu Nelayan Cilacap Prediksi Ikan dan Cuaca",
+  "deck": "Aplikasi Iwak pakai AI dan data satelit membantu nelayan Cilacap menentukan waktu melaut, menekan kerugian dan menaikkan pendapatan hingga 68 persen.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca.jpg",
+  "imageV": "mtfwfbge",
+  "tags": [
+   "AI",
+   "nelayan",
+   "Pertamina",
+   "Desa Energi Berdikari"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463659-ai-bantu-nelayan-cilacap-membaca-laut-sebelum-berlayar-iwak-beri-informasi-cuaca-hingga-titik-ikan"
+ },
+ {
   "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
@@ -59,7 +127,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -1229,7 +1297,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
   "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "emas antam",
    "harga emas",
@@ -2083,7 +2151,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6429,74 +6497,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6bd016d659_86451f3d7e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026",
-  "category": "Aksi Korporasi",
-  "title": "PIPA Rencanakan [Akuisisi] Perusahaan Migas Lewat CSPA Agustus 2026",
-  "deck": "Oxala Energy International (dulu Multi Makmur Lemindo, kode PIPA) menjajaki akuisisi perusahaan pengolahan gas bumi bersama pengendali MCI, CSPA ditarget diteken Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/pipa-rencanakan-akuisisi-perusahaan-migas-lewat-cspa-agustus-2026.jpg",
-  "imageV": "mszrdid1",
-  "tags": [
-   "PIPA",
-   "akuisisi",
-   "gas bumi",
-   "CSPA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/58cec32eff_1e6edc1aae.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "UNIC Panggil RUPSLB, [Sesuaikan] KBLI 2025 di Anggaran Dasar",
-  "deck": "Unggul Indah Cahaya menggelar RUPSLB 10 September 2026 untuk menyesuaikan klasifikasi bidang usaha di anggaran dasar dengan KBLI 2025, bukan perubahan kegiatan usaha riil.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/unic-panggil-rupslb-sesuaikan-kbli-2025-di-anggaran-dasar.jpg",
-  "imageV": "mszvv38k",
-  "tags": [
-   "UNIC",
-   "RUPSLB",
-   "KBLI",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f3d9b23dbb_dd5c8e1106.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-manajemen-akui-lonjakan-saham-bukan-fundamental",
-  "category": "Aksi Korporasi",
-  "title": "TRUK: Manajemen Akui Lonjakan Saham Bukan [Fundamental]",
-  "deck": "Public expose insidentil TRUK mengungkap pendapatan dan ekuitas menurun tiga tahun terakhir, sementara manajemen menyebut lonjakan sahamnya murni spekulasi pasar, bukan perbaikan kinerja.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/truk-manajemen-akui-lonjakan-saham-bukan-fundamental.jpg",
-  "imageV": "mszre1os",
-  "tags": [
-   "TRUK",
-   "public expose",
-   "saham TRUK",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/10d18524e0_5d7533a396.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-siapkan-buyback-saham-hingga-rp150-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Siapkan [Buyback] Saham hingga Rp150 Miliar",
-  "deck": "Prodia menyiapkan dana hingga Rp150 miliar dari kas internal untuk membeli kembali sahamnya sendiri di bursa, mulai 20 Agustus hingga 19 November 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/prda-siapkan-buyback-saham-hingga-rp150-miliar.jpg",
-  "imageV": "mszren2x",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/09344bdeed_2f6fc88d1d.pdf",
   "sourceLabel": "IDX"
  }
 ];

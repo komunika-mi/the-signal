@@ -140,6 +140,23 @@ jobs:
       # Dijadikan langkah TERSENDIRI supaya kegagalan membaca PDF tidak
       # mengaburkan hasil uji jangkauannya sendiri, dan supaya pemasangan
       # poppler tidak lagi berdiri di depan pintu.
+      # Alamat lampiran diambil dari API www.idx.id, BUKAN /tmp/idx-api.txt.
+      #
+      # Versi sebelumnya membaca berkas itu dan menempelkan awalan
+      # 'https://www.idx.co.id' di depan FullSavePath. Dua-duanya keliru:
+      # berkas itu berisi halaman 403 Cloudflare (jadi tak pernah ada
+      # lampiran untuk diuji), dan FullSavePath sudah absolut sehingga
+      # penempelan itu menghasilkan alamat ganda. Akibatnya bagian 6 selalu
+      # mencetak "tidak ada lampiran PDF untuk diuji" dan tidak pernah
+      # benar-benar menguji apa pun.
+      #
+      # Yang ditanyakan di sini persis pertanyaan yang menjatuhkan idx.yml
+      # 30 Agustus 2026: unduhan lampiran gagal dengan sebab "galat" (curl
+      # keluar tidak nol), bukan "diblokir" (yang turun HTML). Karena itu
+      # flag curl-nya disamakan HURUF PER HURUF dengan ambilIsiLampiran di
+      # scripts/fetch-idx.mjs, dan yang dicetak adalah kode keluar serta
+      # stderr-nya - dua hal yang di skrip aslinya terpotong di 60 karakter
+      # dan justru menyembunyikan sebabnya.
       - name: Uji lampiran PDF
         if: always()
         timeout-minutes: 5
@@ -147,19 +164,45 @@ jobs:
           set +e
           UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
           REF='https://www.idx.co.id/id/perusahaan-tercatat/keterbukaan-informasi/'
-          echo "===== 6. Unduh satu lampiran PDF ====="
-          PDF=$(node -e "
-            try{
-              const j=JSON.parse(require('fs').readFileSync('/tmp/idx-api.txt','utf8'));
-              const a=(j.Replies||[]).flatMap(r=>r.attachments||[]).find(x=>/pdf\$/i.test(x.OriginalFilename||''));
-              console.log(a? 'https://www.idx.co.id'+a.FullSavePath : '');
-            }catch(e){ console.log(''); }
-          ")
-          if [ -n "$PDF" ]; then
-            curl -s -o /tmp/l.pdf --max-time 30 -A "$UA" -H "Referer: $REF" "$PDF"
-            echo "lampiran: $(wc -c < /tmp/l.pdf) byte, awalan: $(head -c 5 /tmp/l.pdf)"
-            pdftotext -raw -enc UTF-8 /tmp/l.pdf - 2>/dev/null | head -c 200
-          else
-            echo "tidak ada lampiran PDF untuk diuji (API mungkin diblokir)"
-          fi
+          Q='indexFrom=0&pageSize=10&dateFrom=&dateTo=&lang=id&keyword=&emitenType=*'
+
+          echo "===== 6. Cari alamat lampiran lewat www.idx.id ====="
+          curl -s -o /tmp/api-id.json --max-time 30 -A "$UA" \
+            -H 'Accept: application/json, text/plain, */*' \
+            "https://www.idx.id/primary/ListedCompany/GetAnnouncement?$Q"
+          ASLI=$(grep -oE '"FullSavePath":"[^"]*\.pdf"' /tmp/api-id.json \
+                 | head -1 | sed 's/"FullSavePath":"//; s/"$//')
+          echo "FullSavePath apa adanya : ${ASLI:-(tidak ada)}"
+          if [ -z "$ASLI" ]; then echo "API idx.id tidak memberi lampiran PDF"; exit 0; fi
+
+          # Penulisan ulang host yang sama dengan untukDiambil() di fetch-idx.mjs.
+          MIRROR=$(echo "$ASLI" | sed 's|^https://www\.idx\.co\.id|https://www.idx.id|')
+          echo "alamat yang dipakai skrip: $MIRROR"
+
+          echo
+          echo "===== 7. Unduh lampiran, flag PERSIS seperti fetch-idx.mjs ====="
+          for U in "$ASLI" "$MIRROR"; do
+            echo "--- $U"
+            curl -s -L --compressed --max-time 45 -A "$UA" \
+              -H 'Accept: application/pdf,*/*' \
+              -H 'Accept-Language: id-ID,id;q=0.9,en;q=0.8' \
+              -H "Referer: $REF" \
+              -o /tmp/l.pdf "$U" 2>/tmp/l.err
+            KODE=$?
+            echo "    curl keluar : $KODE"
+            echo "    stderr      : $(head -c 200 /tmp/l.err)"
+            if [ -f /tmp/l.pdf ]; then
+              echo "    ukuran      : $(wc -c < /tmp/l.pdf) byte"
+              echo "    awalan      : $(head -c 5 /tmp/l.pdf | tr -d '\0')"
+            else
+              echo "    berkas      : tidak terbentuk"
+            fi
+            echo
+          done
+
+          echo "===== 8. HTTP mentah tiap host untuk StaticData ====="
+          for H in www.idx.co.id www.idx.id; do
+            P=$(echo "$ASLI" | sed "s|^https://www\.idx\.co\.id|https://$H|")
+            echo "$H -> $(curl -s -o /dev/null -w 'HTTP %{http_code} %{size_download} byte' --max-time 30 -A "$UA" -H "Referer: $REF" "$P")"
+          done
           exit 0

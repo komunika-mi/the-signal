@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
+  "category": "Industri",
+  "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
+  "deck": "MIND ID menyebut pengolahan mineral dan batu bara di dalam negeri jadi fondasi penguatan ekonomi nasional, didukung penguasaan sekitar 42 persen cadangan nikel dunia.",
+  "image": "assets/img/mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T22:57:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463719-industrialisasi-pertambangan-jadi-modal-perkuat-ekonomi-nasional-indonesia",
+  "tags": [
+   "MIND ID",
+   "hilirisasi",
+   "mineral",
+   "batu bara"
+  ],
+  "body": [
+   "Holding pertambangan negara MIND ID kembali menegaskan bahwa kekayaan mineral dan batu bara Indonesia perlu diarahkan menjadi fondasi industrialisasi, bukan sekadar dijual dalam bentuk bahan mentah. Division Head of Institutional Relations MIND ID, Selly Adriatika, mengatakan pemerintah menugaskan perusahaan untuk memastikan proses tidak berhenti di tahap ekstraksi, melainkan berlanjut ke pengolahan dan pengembangan industri di dalam negeri. Arah ini penting bagi pembaca karena menyangkut bagaimana kekayaan tambang Indonesia, yang jumlahnya terbatas dan tidak bisa diperbarui, dikonversi jadi manfaat ekonomi jangka panjang.",
+   "Menurut Selly, mengandalkan penjualan komoditas mentah membuat manfaat ekonomi sangat bergantung pada naik turunnya harga di pasar global. Karena itu, pengembangan industri pertambangan diarahkan meluas ke penguatan pengolahan mineral dalam negeri, pembangunan industri hilir, integrasi rantai nilai mineral strategis, serta produksi bahan baku yang dibutuhkan industri nasional.",
+   "Data Badan Geologi menjadi dasar klaim ini: Indonesia memiliki sekitar 42 persen cadangan nikel dunia, ditambah posisi strategis pada cadangan timah, bauksit, emas, tembaga, dan batu bara. Selly menyebut besarnya sumber daya ini membuka peluang bagi Indonesia untuk berpindah peran, dari pemasok komoditas mentah menjadi negara industri berbasis sumber daya alam dengan nilai tambah yang lebih tinggi.",
+   "Transformasi itu, menurut Selly, juga membutuhkan kemitraan dengan pelaku industri dan investor internasional, terutama untuk mempercepat transfer teknologi dan memperluas akses pasar bagi produk hasil hilirisasi Indonesia."
+  ],
+  "fotoAdegan": "Heavy mining trucks loading nickel ore onto a conveyor belt at an open-pit mine, dust in the air, tropical daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/30/6a94523a84729-industrialisasi-pertambangan-jadi-modal-perkuat-ekonomi-nasional-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan di sini adalah penegasan arah kebijakan, bukan keputusan atau aturan baru: MIND ID mengulang komitmen mengubah tambang dari sekadar ekstraksi menjadi industri olahan, tanpa menyebut target investasi, tenggat waktu, atau aturan turunan yang konkret. Pihak yang jelas kena dampak arah ini adalah pelaku usaha di sektor nikel, timah, bauksit, emas, tembaga, dan batu bara, termasuk daerah penghasil tambang serta investor yang diajak bermitra untuk alih teknologi. Yang masih kurang dari pernyataan ini adalah angka realisasi, misalnya berapa besar investasi hilirisasi yang sudah berjalan atau proyek pengolahan baru yang sedang dibangun, sehingga sulit menilai seberapa jauh transformasi ini sudah bergerak dari sekadar wacana. Pembaca perlu menunggu laporan realisasi investasi hilirisasi dari MIND ID atau Kementerian ESDM untuk melihat apakah pernyataan ini diikuti angka dan proyek yang bisa diukur.",
+  "imageV": "mtg55uum"
+ },
+ {
   "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
   "category": "UMKM",
   "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",

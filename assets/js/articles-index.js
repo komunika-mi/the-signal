@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
+  "category": "Industri",
+  "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
+  "deck": "MIND ID menyebut pengolahan mineral dan batu bara di dalam negeri jadi fondasi penguatan ekonomi nasional, didukung penguasaan sekitar 42 persen cadangan nikel dunia.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri.jpg",
+  "imageV": "mtg55uum",
+  "tags": [
+   "MIND ID",
+   "hilirisasi",
+   "mineral",
+   "batu bara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463719-industrialisasi-pertambangan-jadi-modal-perkuat-ekonomi-nasional-indonesia"
+ },
+ {
   "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
   "category": "UMKM",
   "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
@@ -6476,22 +6493,6 @@ var ARTICLES = [
    "PMTHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-terbitkan-868-juta-saham-baru-untuk-afiliasi-msn",
-  "category": "Aksi Korporasi",
-  "title": "HATM Terbitkan 868 Juta Saham Baru untuk Afiliasi [MSN]",
-  "deck": "Perseroan berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu senilai Rp320 miliar kepada PT Multi Sarana Nasional, pemegang saham yang terafiliasi dengan direksi HATM.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/hatm-terbitkan-868-juta-saham-baru-untuk-afiliasi-msn.jpg",
-  "tags": [
-   "HATM",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7c4a93c170_831261bffb.pdf",
   "sourceLabel": "IDX"
  }
 ];

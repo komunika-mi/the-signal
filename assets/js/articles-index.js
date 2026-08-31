@@ -5,6 +5,53 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
+  "deck": "Harga emas Antam, UBS, dan Galeri24 di Pegadaian pada Senin (31/8/2026) berkisar Rp2,6 juta per gram, dengan Antam jadi yang termahal dan Galeri24 termurah.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "harga emas",
+   "Antam",
+   "Galeri24",
+   "Pegadaian"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463820-harga-emas-pegadaian-senin-31-agustus-2026-antam-ubs-galeri24-lengkap"
+ },
+ {
+  "slug": "rupiah-tembus-rp17-750-usai-the-fed-sinyalkan-kenaikan-bunga",
+  "category": "Moneter",
+  "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
+  "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "The Fed",
+   "suku bunga"
+  ],
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as"
+ },
+ {
+  "slug": "minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz",
+  "category": "Energi",
+  "title": "Minyak Dunia [Tembus] US$90 usai AS Serang Iran di Hormuz",
+  "deck": "Harga minyak Brent dan WTI melonjak lebih dari 2 persen setelah AS menyerang peluncur Iran di Selat Hormuz, memicu kekhawatiran gangguan pasokan minyak dunia.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz.jpg",
+  "imageV": "mtgsk6xj",
+  "tags": [
+   "harga minyak dunia",
+   "selat hormuz",
+   "serangan as iran",
+   "harga minyak brent"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463783-harga-minyak-dunia-mendadak-tembus-us90-serangan-as-ke-iran-bikin-pasar-ketar-ketir"
+ },
+ {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
   "category": "Industri",
   "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
@@ -192,7 +239,7 @@ var ARTICLES = [
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "rupiah",
    "dolar AS",
@@ -2588,7 +2635,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6443,54 +6490,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbdk-realisasikan-buyback-rp61-5-miliar-27-76-dari-target",
-  "category": "Aksi Korporasi",
-  "title": "CBDK Realisasikan Buyback Rp61,5 Miliar, [27,76%] dari Target",
-  "deck": "Dalam periode 20 Mei-19 Agustus 2026, CBDK membeli kembali 17,1 juta saham senilai Rp61,57 miliar dengan harga rata-rata Rp3.601, baru mencapai 27,76% dari rencana buyback Rp250 miliar.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/cbdk-realisasikan-buyback-rp61-5-miliar-27-76-dari-target.jpg",
-  "tags": [
-   "CBDK",
-   "buyback saham",
-   "pasar modal",
-   "emiten properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fbc73f0b13_a60a0a96b6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "isat-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "ISAT Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
-  "deck": "Menjawab surat permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Indosat menyatakan tidak ada informasi material tersembunyi dan tidak ada aksi korporasi dalam tiga bulan ke depan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/isat-jawab-permintaan-bei-soal-volatilitas-transaksi-saham.jpg",
-  "tags": [
-   "ISAT",
-   "Indosat",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/af2b77af4b_933f238ebd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat",
-  "category": "Aksi Korporasi",
-  "title": "TRJA Jelaskan ke BEI [Lonjakan] Transaksi Saham 30 Kali Lipat",
-  "deck": "TRJA menyatakan tak ada informasi material di balik lonjakan volume transaksi 30 kali lipat dan kenaikan harga saham 8,11 persen dalam sehari.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/trja-jelaskan-ke-bei-lonjakan-transaksi-saham-30-kali-lipat.jpg",
-  "tags": [
-   "TRJA",
-   "volatilitas saham",
-   "BEI",
-   "Samindo Resources"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
   "sourceLabel": "IDX"
  }
 ];

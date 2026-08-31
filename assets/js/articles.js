@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
+  "deck": "Harga emas Antam, UBS, dan Galeri24 di Pegadaian pada Senin (31/8/2026) berkisar Rp2,6 juta per gram, dengan Antam jadi yang termahal dan Galeri24 termurah.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T11:58:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463820-harga-emas-pegadaian-senin-31-agustus-2026-antam-ubs-galeri24-lengkap",
+  "tags": [
+   "harga emas",
+   "Antam",
+   "Galeri24",
+   "Pegadaian"
+  ],
+  "body": [
+   "Harga emas batangan yang dijual lewat Pegadaian untuk tiga jenama, Antam, UBS, dan Galeri24, kompak berada di kisaran Rp2,6 juta per gram pada Senin, 31 Agustus 2026. Informasi ini penting bagi masyarakat yang menabung emas sebagai instrumen investasi ritel, sebab Pegadaian menjadi salah satu kanal pembelian emas fisik yang paling banyak diakses di Indonesia.",
+   "Berdasarkan data di laman resmi Pegadaian yang dicatat pukul 10.42 WIB, emas Antam ukuran 1 gram dibanderol Rp2.711.000, sementara Galeri24 di ukuran yang sama dijual Rp2.606.000, atau selisih sekitar Rp105.000. Untuk ukuran 0,5 gram, harga Antam tercatat Rp1.406.000 dan Galeri24 Rp1.366.000. Harga emas UBS turut berada di kisaran yang sama, meski rincian per gramnya tidak disebutkan dalam data yang tersedia.",
+   "Ketiga jenama menawarkan pilihan ukuran yang berbeda. Galeri24 tersedia paling lengkap, mulai 0,5 gram hingga 1 kilogram, UBS mulai 0,5 gram hingga 500 gram, sedangkan Antam terbatas hingga 100 gram. Pegadaian menegaskan harga-harga ini bersifat dinamis dan dapat berubah sewaktu-waktu mengikuti pergerakan harga emas."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars and coins arranged on a velvet tray inside a pawnshop display case, soft indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Data hari ini hanya mencantumkan patokan harga di satu titik waktu, tanpa perbandingan dengan harga kemarin, sehingga belum bisa dibaca apakah harga emas Pegadaian sedang naik, turun, atau stagnan. Yang jelas terlihat adalah selisih harga antar jenama: emas Antam ukuran 1 gram (Rp2.711.000) lebih mahal Rp105.000 dari Galeri24 (Rp2.606.000), sementara UBS berada di kisaran serupa tanpa angka pasti yang tercatat. Selisih ini terutama relevan bagi pembeli ritel dan penabung emas fisik yang memilih jenama berdasarkan harga per gram serta pilihan ukuran, karena Galeri24 menyediakan pecahan mulai 0,5 gram sampai 1 kilogram, sedangkan Antam mentok di 100 gram. Untuk melihat ke arah mana harga bergerak, yang perlu dicek adalah update harga Pegadaian pada hari-hari berikutnya dibandingkan dengan angka hari ini.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "rupiah-tembus-rp17-750-usai-the-fed-sinyalkan-kenaikan-bunga",
+  "category": "Moneter",
+  "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
+  "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T09:40:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "The Fed",
+   "suku bunga"
+  ],
+  "body": [
+   "Nilai tukar rupiah kembali melemah pada pembukaan perdagangan Senin (31/8/2026), membalikkan penguatan yang sempat tercatat pada akhir pekan lalu. Pelemahan ini terjadi setelah bank sentral Amerika Serikat memberi sinyal baru soal arah suku bunga, yang membuat dolar AS kembali perkasa dan menekan mata uang di kawasan, termasuk rupiah.",
+   "Rupiah dibuka turun 57 poin, atau 0,32 persen, ke level Rp17.750 per dolar AS, dari posisi penutupan sebelumnya di Rp17.693. Data dari Refinitiv mencatat angka pelemahan yang sedikit berbeda, yaitu 0,23 persen ke Rp17.725 per dolar AS. Pelemahan pagi ini membalikkan arah dari Jumat lalu, saat rupiah justru ditutup menguat 0,17 persen ke Rp17.685 per dolar AS.",
+   "Penyebabnya adalah dolar AS yang masih kuat, meski indeks dolar atau DXY, yaitu alat ukur kekuatan dolar terhadap enam mata uang utama dunia, sedikit terkoreksi 0,08 persen ke 99,624 pada pukul 09.00 WIB. Sepanjang pekan lalu, dolar AS justru menguat hampir 0,9 persen, kenaikan mingguan tercepat dalam 10 pekan terakhir, bahkan sempat menyentuh 99,727, level tertinggi sejak 17 Agustus 2026.",
+   "Penguatan dolar tersebut tidak lepas dari pernyataan Ketua The Fed, Kevin Warsh, yang membuka peluang kenaikan suku bunga acuan AS apabila inflasi tidak kunjung bergerak menuju target 2 persen."
+  ],
+  "fotoAdegan": "Container ship docked at a busy Indonesian port at sunrise, cranes stacking cargo boxes, workers in safety vests nearby",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar rupiah melemah 57 poin ke Rp17.750 per dolar AS pagi ini, melainkan sinyal dari Ketua The Fed Kevin Warsh yang membuka peluang kenaikan suku bunga AS kalau inflasi tidak kunjung turun ke target 2 persen. Sinyal itu yang membuat dolar AS menguat hampir 0,9 persen dalam sepekan terakhir, kenaikan mingguan tercepat dalam 10 pekan, dan ikut menyeret rupiah tertekan. Pihak yang paling merasakan dampaknya adalah importir dan perusahaan dengan utang dalam dolar AS, karena barang impor dan cicilan utang jadi lebih mahal kalau dihitung dalam rupiah. Kalau sinyal dari The Fed ini terus berlanjut, tekanan ke rupiah berpotensi berulang setiap kali muncul data ekonomi AS yang kuat, dan Bank Indonesia kemungkinan akan menahan suku bunga acuannya agar selisihnya dengan suku bunga AS tidak melebar. Yang akan memastikan arah ini adalah data inflasi AS berikutnya dan pertemuan kebijakan The Fed mendatang, karena itu yang menentukan apakah kenaikan suku bunga benar terjadi atau cuma jadi wacana.",
+  "fotoDitolak": true
+ },
+ {
+  "slug": "minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz",
+  "category": "Energi",
+  "title": "Minyak Dunia [Tembus] US$90 usai AS Serang Iran di Hormuz",
+  "deck": "Harga minyak Brent dan WTI melonjak lebih dari 2 persen setelah AS menyerang peluncur Iran di Selat Hormuz, memicu kekhawatiran gangguan pasokan minyak dunia.",
+  "image": "assets/img/minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T09:22:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463783-harga-minyak-dunia-mendadak-tembus-us90-serangan-as-ke-iran-bikin-pasar-ketar-ketir",
+  "tags": [
+   "harga minyak dunia",
+   "selat hormuz",
+   "serangan as iran",
+   "harga minyak brent"
+  ],
+  "body": [
+   "Harga minyak dunia melonjak lebih dari 2 persen pada perdagangan Senin, setelah Amerika Serikat melancarkan serangan udara ke dua peluncur milik Iran di Pulau Larak, kawasan Selat Hormuz. Kenaikan ini penting diikuti karena Selat Hormuz merupakan jalur utama perdagangan minyak dunia, sehingga ancaman terhadap keamanannya biasanya langsung tercermin pada harga minyak global yang pada akhirnya bisa memengaruhi biaya energi di dalam negeri.",
+   "Berdasarkan data Reuters, harga minyak mentah Brent naik US$2,22 atau 2,52 persen menjadi US$90,32 per barel pada pukul 22.02 GMT, kembali menembus level US$90 per barel. Minyak mentah acuan Amerika Serikat, West Texas Intermediate atau WTI, turut menguat US$2,01 atau 2,41 persen menjadi US$85,41 per barel.",
+   "Serangan AS terhadap Iran ini tercatat sebagai gempuran langsung pertama sejak akhir Juli. Pejabat pertahanan AS menyebut aksi tersebut dilakukan karena pasukan Korps Garda Revolusi Islam Iran diketahui tengah bersiap meluncurkan roket berisi ranjau laut, yang dinilai dapat mengancam keamanan jalur pelayaran di Selat Hormuz.",
+   "Iran membalas serangan tersebut dengan menyasar pasukan AS yang bermarkas di Yordania, menurut laporan Fox News yang mengutip sumber internal AS. Eskalasi cepat antara kedua negara ini menjadi perhatian pasar energi karena berpotensi mengganggu kelancaran pasokan minyak mentah dunia."
+  ],
+  "fotoAdegan": "An oil tanker moving through a narrow strait at dusk, a naval patrol boat trailing nearby, hazy horizon lights",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/10/12/634632a4cd0e8-ilustrasi-harga-minyak-dunia-turun_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah lonjakan harga minyak dunia, dengan Brent naik 2,52 persen ke US$90,32 per barel dan WTI naik 2,41 persen ke US$85,41 per barel, dipicu serangan udara AS ke dua peluncur Iran di Selat Hormuz yang langsung dibalas Iran dengan menyasar pasukan AS di Yordania. Pihak yang langsung terdampak adalah negara pengimpor minyak seperti Indonesia, karena kenaikan harga minyak dunia menekan anggaran subsidi bahan bakar dan bisa mendorong ongkos energi dalam negeri kalau bertahan lama. Ada dua kemungkinan arah dari sini: kalau serangan dan balasan antara AS dan Iran terus berlanjut, kekhawatiran atas keamanan Selat Hormuz sebagai jalur minyak dunia bisa membuat harga bertahan tinggi, tapi kalau insiden ini berhenti di sini, lonjakan hari ini berpotensi mereda dengan cepat. Yang akan menentukan arahnya adalah ada tidaknya serangan susulan dari kedua pihak dalam beberapa hari ke depan, sehingga perkembangan di Selat Hormuz dan respons AS atas serangan balasan Iran ke Yordania patut dipantau.",
+  "imageV": "mtgsk6xj"
+ },
+ {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
   "category": "Industri",
   "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
@@ -300,7 +380,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
@@ -4165,7 +4245,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

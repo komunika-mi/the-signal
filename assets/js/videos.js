@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "hpu08C2Bg8c",
+  "title": "Polemik Data Desil dalam DTSEN",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "Polemik data desil dalam DTSEN mencuat karena banyak warga kurang mampu tercatat berstatus kesejahteraan tinggi sehingga terancam kehilangan bantuan sosial.",
+  "takeaway": "Akurasi data kesejahteraan menentukan tepat sasaran tidaknya anggaran bantuan sosial pemerintah.",
+  "terbit": "2026-08-31T04:22:01+00:00"
+ },
+ {
+  "id": "0FUJczk9K2E",
+  "title": "Data Pemerintah Tak Tepat Sasaran, Bansos Terdepak",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "Pembaruan data kesejahteraan dengan sistem desil membuat sejumlah warga miskin tercoret dari daftar penerima bantuan sosial.",
+  "takeaway": "Menyoroti risiko kesalahan data dalam penyaluran anggaran perlindungan sosial negara.",
+  "terbit": "2026-08-31T04:20:09+00:00"
+ },
+ {
+  "id": "aLk2OevJFUQ",
+  "title": "BPS Buka Suara soal Ketimpangan Data Desil",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "BPS menyatakan ketimpangan data desil dalam DTSEN dipicu berbagai faktor kesalahan data kependudukan dan sosial ekonomi.",
+  "takeaway": "Klarifikasi lembaga statistik resmi penting untuk menjaga kredibilitas data yang mendasari kebijakan ekonomi.",
+  "terbit": "2026-08-31T04:11:45+00:00"
+ },
+ {
   "id": "qrtoWz74ZV4",
   "title": "Kadin Indonesia Kunjungi PT VKTR Sakti Industries di Magelang",
   "category": "Industri",
@@ -81,32 +108,5 @@ var VIDEOS = [
   "summary": "Pimpinan DPR dan Komisi VI menggelar audiensi dengan serikat buruh PT Pos Indonesia membahas persoalan ketenagakerjaan di perusahaan pelat merah itu.",
   "takeaway": "Audiensi ini menyangkut nasib pekerja BUMN logistik nasional yang tengah menghadapi tantangan bisnis.",
   "terbit": "2026-08-26T14:52:36+00:00"
- },
- {
-  "id": "9elIydie_0A",
-  "title": "Presiden AS Ancam Mitra Dagang Iran dengan Sanksi",
-  "category": "Global",
-  "program": "tvOneNews",
-  "summary": "Pemerintah Amerika Serikat memberlakukan sanksi ekonomi terhadap mitra dagang Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak berdasar pada resolusi PBB.",
-  "takeaway": "Sanksi dagang AS terhadap mitra Iran berpotensi mengganggu arus perdagangan dan pasar energi global yang relevan bagi pelaku bisnis.",
-  "terbit": "2026-08-26T13:38:59+00:00"
- },
- {
-  "id": "FsmWpvfeIds",
-  "title": "DPR Terima Audiensi Pekerja PT Pos Soal Gaji Telat",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "Perwakilan karyawan PT Pos Indonesia mengadukan keterlambatan pembayaran gaji 31.000 pegawai kepada pimpinan DPR RI dalam audiensi yang digelar bersama Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
-  "takeaway": "Persoalan gaji telat di BUMN logistik ini menyoroti tekanan keuangan PT Pos Indonesia yang berdampak langsung pada puluhan ribu pekerja.",
-  "terbit": "2026-08-26T13:30:01+00:00"
- },
- {
-  "id": "O7NBqds3AqA",
-  "title": "Destry Damayanti Paparkan Visi Misi di Uji Kelayakan Calon Gubernur BI",
-  "category": "Moneter",
-  "program": "Kabar Petang",
-  "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
-  "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha.",
-  "terbit": "2026-08-26T11:28:29+00:00"
  }
 ];

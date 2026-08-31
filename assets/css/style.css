@@ -151,6 +151,17 @@ img { max-width: 100%; display: block; }
   font-size: 13px; color: #cfcbc0;
 }
 .ticker-track span.sep { color: var(--red); }
+/* Judul di ticker kini tautan. Warnanya DIWARISI supaya tampilannya persis
+   seperti waktu masih <span>: yang berubah cuma bisa diklik, bukan rupanya. */
+.ticker-track a { color: inherit; text-decoration: none; }
+.ticker-track a:hover { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+.ticker-track a:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; border-radius: 2px; }
+/* Animasinya BERHENTI saat disentuh atau saat salah satu tautannya menerima
+   fokus keyboard. Tanpa ini tautannya secara teknis bisa diklik tapi praktis
+   tidak: sasarannya bergeser terus, dan meleset berarti pembaca dibawa ke
+   artikel yang salah. */
+.ticker-mask:hover .ticker-track,
+.ticker-mask:focus-within .ticker-track { animation-play-state: paused; }
 @keyframes scroll-left { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
 

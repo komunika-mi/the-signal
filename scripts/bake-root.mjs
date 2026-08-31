@@ -176,13 +176,27 @@ function heroHtml(a) {
       : '');
 }
 
+// Ticker: enam artikel terbaru, dan sejak 31 Agustus 2026 BISA DIKLIK.
+//
+// Sebelumnya judulnya cuma <span>. Isinya artikel sungguhan yang memang ada
+// halamannya, jadi menampilkannya sebagai teks mati berarti pembaca membaca
+// judul yang menarik lalu harus mencarinya sendiri di daftar berita.
+//
+// Deretnya digandakan dua kali karena animasinya menggeser -50% lalu
+// mengulang; tanpa salinan kedua akan ada celah kosong tiap putaran. Salinan
+// kedua itu MURNI HIASAN, jadi ia aria-hidden dan tabindex -1: tanpa itu
+// pembaca layar membacakan enam judul yang sama dua kali, dan Tab berhenti
+// dua belas kali untuk enam tujuan.
 function tickerHtml(ARTICLES) {
-  const judul = ARTICLES.slice(0, 6).map(a => plain(a.title));
+  const item = ARTICLES.slice(0, 6);
   let track = '';
   for (let r = 0; r < 2; r++) {
-    judul.forEach((t, i) => {
-      track += '<span>' + esc(t) + '</span>';
-      if (i < judul.length - 1 || r === 0) track += '<span class="sep">&bull;</span>';
+    const kembar = r === 1;
+    item.forEach((a, i) => {
+      track += '<a href="' + esc(urlArtikel(a)) + '"' +
+        (kembar ? ' aria-hidden="true" tabindex="-1"' : '') + '>' +
+        esc(plain(a.title)) + '</a>';
+      if (i < item.length - 1 || r === 0) track += '<span class="sep">&bull;</span>';
     });
   }
   return track;

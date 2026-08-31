@@ -1,0 +1,30 @@
+Ticker beranda bisa diklik menuju artikelnya
+
+Isi ticker selama ini enam artikel TERBARU dari arsip, disegarkan tiap build,
+dan semuanya artikel sungguhan yang punya halaman sendiri. Tapi judulnya
+dicetak sebagai <span> mati. Jadi pembaca melihat judul yang menarik lalu
+harus mencarinya sendiri di daftar berita - jalur paling wajar dari beranda
+ke artikel justru buntu.
+
+Sekarang tiap judul jadi tautan ke halamannya.
+
+ANIMASINYA BERHENTI saat ticker disentuh atau saat salah satu tautannya
+menerima fokus keyboard. Ini bukan hiasan: tanpa itu tautannya secara teknis
+bisa diklik tapi praktis tidak, karena sasarannya bergeser terus dan meleset
+berarti pembaca dibawa ke artikel yang salah.
+
+Deretnya digandakan dua kali karena animasinya menggeser -50% lalu mengulang,
+dan tanpa salinan kedua ada celah kosong tiap putaran. Salinan itu murni
+hiasan, jadi diberi aria-hidden dan tabindex -1: tanpa itu pembaca layar
+membacakan enam judul yang sama dua kali, dan Tab berhenti dua belas kali
+untuk enam tujuan.
+
+Warna tautan DIWARISI dari induknya supaya rupanya persis seperti waktu masih
+<span>; yang berubah cuma bisa diklik. Garis bawah dan warna terang hanya
+muncul saat disentuh, plus cincin fokus untuk keyboard.
+
+Diverifikasi di peramban atas halaman yang sudah dibangun: 12 tautan, 6
+tujuan unik, 6 salinan ber-aria-hidden, hanya 6 yang bisa di-Tab, warna
+tautan identik dengan warna induknya, dan animasi berpindah running -> paused
+-> running saat fokus masuk dan keluar. Keenam tujuannya dibalas HTTP 200,
+baik dari server lokal maupun dari situs produksi.

@@ -104,6 +104,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "smgr-laba-semester-i-2026-melonjak-ke-rp207-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Laba Semester I 2026 [Melonjak] ke Rp207 Miliar",
+  "deck": "Laba bersih Semen Indonesia naik lebih dari lima kali lipat menjadi Rp207 miliar pada semester I 2026, sementara utang bank dan obligasi jatuh tempo dilunasi.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831224736-64215-0/FinancialStatement-2026-II-SMGR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
   "category": "Aksi Korporasi",
   "title": "AISA Tanggapi Bursa, Ungkap Nasib Dana [KPK] Rp150 Miliar",
@@ -269,6 +285,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "obmd-bukukan-rugi-operasi-meski-laba-bersih-masih-positif",
+  "category": "Aksi Korporasi",
+  "title": "OBMD Bukukan [Rugi Operasi] Meski Laba Bersih Masih Positif",
+  "deck": "Penjualan OBM Drilchem anjlok 46 persen pada semester I 2026 hingga usaha intinya merugi, laba bersih hanya tertolong pendapatan di luar usaha utama.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OBMD",
+   "laporan keuangan",
+   "kinerja emiten",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831203249-64317-0/FinancialStatement-2026-II-OBMD.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-direktur-baru-efektif-presiden-komisaris-tunggu-fpt",
+  "category": "Aksi Korporasi",
+  "title": "SANF: Direktur Baru Efektif, Presiden Komisaris [Tunggu FPT]",
+  "deck": "Perusahaan pembiayaan SANF menegaskan pengangkatan Maria Inawati Bernard sebagai Direktur telah efektif, sementara dua pejabat komisaris masih menunggu kelulusan uji kepatutan OJK.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "pergantian direksi",
+   "komisaris",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/270835f938_1f35aedc02.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
   "category": "UMKM",
   "title": "Summarecon Gelar Festival Kuliner [Serentak] di 4 Kota",
@@ -284,6 +332,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463944-22-tahun-merawat-rasa-festival-kuliner-summarecon-hadir-serentak-di-empat-kota"
+ },
+ {
+  "slug": "silo-gelar-rupslb-akuisisi-rumah-sakit-senilai-rp6-9-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SILO Gelar RUPSLB, [Akuisisi] Rumah Sakit Senilai Rp6,9 Triliun",
+  "deck": "SILO memanggil RUPSLB 22 September 2026 untuk meminta persetujuan akuisisi rumah sakit senilai hingga Rp9 triliun dan penjaminan aset sebagai jaminan pendanaan.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SILO",
+   "RUPSLB",
+   "akuisisi rumah sakit",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2b6aa49c2f_92876f9bdf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pool-tunda-rupslb-agendakan-audit-empat-tahun-sekaligus",
+  "category": "Aksi Korporasi",
+  "title": "POOL Tunda RUPSLB, Agendakan Audit [Empat Tahun] Sekaligus",
+  "deck": "Pool Advista Indonesia (POOL) menggeser RUPSLB dari 3 menjadi 22 September 2026, dengan agenda penunjukan akuntan publik untuk mengaudit laporan keuangan empat tahun buku sekaligus, 2023-2026.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POOL",
+   "RUPSLB",
+   "audit laporan keuangan",
+   "Pool Advista"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/366a2f7e34_13edbdddf7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "towr-tegaskan-tak-ada-informasi-material-di-balik-gejolak-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Tegaskan Tak Ada [Informasi Material] di Balik Gejolak Saham",
+  "deck": "Sarana Menara Nusantara menjawab permintaan penjelasan BEI atas volatilitas transaksi saham TOWR, menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a14e65995f_cbc9b8eadd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soho-rombak-direksi-harry-salam-jadi-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Rombak [Direksi], Harry Salam Jadi Presiden Direktur",
+  "deck": "RUPSLB SOHO menyetujui Ery Yunasri turun dari Presiden Direktur ke Komisaris, digantikan Harry Salam yang sebelumnya Komisaris Independen, efektif 31 Agustus 2026.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOHO",
+   "Direksi",
+   "Komisaris",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/534bf1e89d_47fb92c447.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wbsa-laba-semester-i-anjlok-95-saham-beredar-naik-26",
+  "category": "Aksi Korporasi",
+  "title": "WBSA: Laba Semester I [Anjlok] 95%, Saham Beredar Naik 26%",
+  "deck": "Laba bersih WBSA anjlok 95 persen menjadi Rp1,02 miliar pada semester I 2026 meski pendapatan naik, sementara saham beredar bertambah 26 persen usai penggabungan entitas anak.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WBSA",
+   "laporan keuangan",
+   "laba bersih",
+   "penggabungan usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/63cb3f2c6d_e456a28f84.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",
@@ -6384,135 +6512,6 @@ var ARTICLES = [
    "buyback"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/78f4abdb14_1f0341c556.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yupi-bagikan-dividen-interim-rp17-01-per-saham-cair-10-september",
-  "category": "Aksi Korporasi",
-  "title": "YUPI Bagikan [Dividen] Interim Rp17,01 per Saham, Cair 10 September",
-  "deck": "YUPI menetapkan dividen interim tahun buku 2026 sebesar Rp17,01 per saham, total Rp145,38 miliar, dengan pembayaran pada 10 September 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/yupi-bagikan-dividen-interim-rp17-01-per-saham-cair-10-september.jpg",
-  "tags": [
-   "YUPI",
-   "dividen",
-   "dividen interim",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/61d28a830f_93fa578d13.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmtr-siapkan-rp10-6-miliar-untuk-pelunasan-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "BMTR Siapkan Rp10,6 Miliar untuk [Pelunasan] Obligasi dan Sukuk",
-  "deck": "Global Mediacom melaporkan kesiapan dana untuk melunasi obligasi dan sukuk ijarah seri C senilai total Rp10,6 miliar yang jatuh tempo 14 September 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/bmtr-siapkan-rp10-6-miliar-untuk-pelunasan-obligasi-dan-sukuk.jpg",
-  "tags": [
-   "BMTR",
-   "Global Mediacom",
-   "obligasi",
-   "sukuk ijarah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/53065d53fc_1c96fef652.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmas-bantah-info-material-di-balik-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "DMAS Bantah Info Material di Balik [Volatilitas] Transaksi Saham",
-  "deck": "DMAS menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, membantah ada informasi material tersembunyi dan memastikan RUPSLB digelar 22 September 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/dmas-bantah-info-material-di-balik-volatilitas-transaksi-saham.jpg",
-  "tags": [
-   "DMAS",
-   "Puradelta Lestari",
-   "RUPSLB",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0dd9e928f7_5b2f89f6fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-nsss-lepas-214-8-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "Direksi [NSSS] Lepas 214,8 Juta Saham Lewat Repo",
-  "deck": "Direksi Samuel Sekuritas Indonesia melepas 214,79 juta saham NSSS senilai Rp705 per saham lewat pencairan repo, menurunkan hak suaranya dari 24,96% jadi 24,06%.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/direksi-nsss-lepas-214-8-juta-saham-lewat-repo.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6898-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dnar-tunjuk-ok-data-system-urus-it-security-rp64-juta",
-  "category": "Aksi Korporasi",
-  "title": "DNAR Tunjuk OK Data System Urus IT Security, [Rp64 Juta]",
-  "deck": "PT Bank Oke Indonesia Tbk menunjuk OK Data System, perusahaan terafiliasi lewat OK Next Co., Ltd, sebagai penyedia jasa IT security senilai Rp63,9 juta.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/dnar-tunjuk-ok-data-system-urus-it-security-rp64-juta.jpg",
-  "tags": [
-   "DNAR",
-   "Bank Oke Indonesia",
-   "transaksi afiliasi",
-   "OK Data System"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/27bb9b5a7a_a03ee6efc3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-pakai-rp196-8-miliar-dana-obligasi-untuk-lunasi-utang-retj",
-  "category": "Aksi Korporasi",
-  "title": "RATU Pakai Rp196,8 Miliar Dana Obligasi untuk [Lunasi] Utang RETJ",
-  "deck": "RATU melaporkan perbaikan realisasi dana sukuk dan obligasi Rp800 miliar per 30 Juni 2026, sebagian besar dipakai melunasi utang bank RETJ dan cash call ke dua anak usaha.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/ratu-pakai-rp196-8-miliar-dana-obligasi-untuk-lunasi-utang-retj.jpg",
-  "tags": [
-   "RATU",
-   "obligasi",
-   "sukuk",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06c1789af8_f11ea58ff4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5",
-  "category": "Moneter",
-  "title": "Rupiah Menguat ke Rp17.748, Kuota BBM Subsidi Dipangkas [58,5%]",
-  "deck": "Rupiah ditutup menguat 92 poin ke Rp17.748 per dolar AS, seiring sinyal pemerintah memangkas kuota BBM subsidi 58,5 persen mulai 2027.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/rupiah-menguat-ke-rp17-748-kuota-bbm-subsidi-dipangkas-58-5.jpg",
-  "imageV": "mt5yrsbi",
-  "tags": [
-   "rupiah",
-   "BBM subsidi",
-   "kuota BBM 2027",
-   "kurs rupiah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461314-rupiah-ditutup-menguat-rp17748-tapi-kuota-bbm-subsidi-dipangkas-585-persen"
- },
- {
-  "slug": "dr-sesuaikan-rasio-waran-bbca-usai-dividen-rp25-saham",
-  "category": "Aksi Korporasi",
-  "title": "DR Sesuaikan [Rasio] Waran BBCA usai Dividen Rp25/Saham",
-  "deck": "RHB Sekuritas Indonesia (DR) menyesuaikan rasio dan harga pelaksanaan waran terstruktur BBCA menyusul rencana dividen tunai Rp25 per saham yang dibayar BBCA pada 16 September 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/dr-sesuaikan-rasio-waran-bbca-usai-dividen-rp25-saham.jpg",
-  "tags": [
-   "DR",
-   "BBCA",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9116efcbd0_859175345a.pdf",
   "sourceLabel": "IDX"
  }
 ];

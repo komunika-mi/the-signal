@@ -163,6 +163,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "smgr-laba-semester-i-2026-melonjak-ke-rp207-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Laba Semester I 2026 [Melonjak] ke Rp207 Miliar",
+  "deck": "Laba bersih Semen Indonesia naik lebih dari lima kali lipat menjadi Rp207 miliar pada semester I 2026, sementara utang bank dan obligasi jatuh tempo dilunasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T22:35:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831224736-64215-0/FinancialStatement-2026-II-SMGR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGR",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Semen Indonesia (Persero) Tbk (SMGR) menyampaikan laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia, sesuai kewajiban pelaporan berkala emiten. Laporan yang telah ditelaah secara terbatas oleh KAP Liana Ramon Xenia dengan partner penanggung jawab Muhammad Irfan ini mencatat pendapatan Rp17,65 triliun, naik dari Rp15,61 triliun pada semester I 2025. Laba bersih periode berjalan melonjak dari Rp37,92 miliar menjadi Rp207,01 miliar, sehingga laba per saham naik dari Rp6 menjadi Rp34. Surat pengantar ditandatangani Corporate Secretary Vita Mahreyni pada 31 Agustus 2026, sedangkan pernyataan tanggung jawab direksi diteken Direktur Utama Indrieffouny Indra dan Direktur Keuangan dan Manajemen Risiko Sigit Prastowo.",
+   "Secara rinci, laba kotor naik dari Rp3,14 triliun menjadi Rp3,80 triliun dan laba usaha naik dari Rp509,43 miliar menjadi Rp626,73 miliar. Total penghasilan komprehensif berbalik dari rugi Rp39,16 miliar pada semester I 2025 menjadi laba Rp413,19 miliar pada periode ini, didorong antara lain oleh keuntungan pengukuran kembali liabilitas imbalan kerja karyawan sebesar Rp176,98 miliar dan selisih kurs penjabaran usaha luar negeri Rp66,92 miliar. Dari total laba bersih Rp207,01 miliar, Rp228,26 miliar menjadi bagian pemilik entitas induk sementara kepentingan non-pengendali justru mencatat rugi Rp21,24 miliar, lebih besar dari rugi Rp2,05 miliar pada periode yang sama tahun lalu.",
+   "Dari sisi neraca, total aset turun dari Rp76,57 triliun menjadi Rp74,62 triliun, sedangkan total liabilitas turun dari Rp27,15 triliun menjadi Rp25,24 triliun. Penurunan liabilitas ini ditopang oleh pelunasan pinjaman bank jangka pendek dari Rp983,90 miliar menjadi Rp630,49 miliar, pinjaman bank jangka panjang dari Rp3,37 triliun menjadi Rp2,09 triliun, serta pelunasan penuh obligasi jatuh tempo senilai Rp713,79 miliar yang tersisa dari akhir 2025. Kas dan setara kas ikut menyusut dari Rp4,64 triliun menjadi Rp3,64 triliun, antara lain karena digunakan membayar dividen Rp253,55 miliar pada semester ini, jauh lebih kecil dari Rp716,47 miliar yang dibayarkan pada semester I 2025. Ekuitas perseroan naik tipis menjadi Rp47,88 triliun dari Rp47,72 triliun. Perseroan juga melaporkan struktur anak usaha yang mencakup produsen semen seperti Semen Padang, Semen Tonasa, Semen Gresik, Semen Baturaja, PT Solusi Bangun Indonesia Tbk, serta Thang Long Cement di Vietnam."
+  ],
+  "fotoAdegan": "Cement factory workers in hard hats monitoring a conveyor belt loaded with gray cement bags under industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Semen Indonesia karena laba bersihnya melonjak lebih dari lima kali lipat dibanding periode yang sama tahun lalu, sementara perseroan juga memangkas utang bank jangka pendek maupun jangka panjang dan melunasi seluruh obligasi yang jatuh tempo. Pos yang tersentuh adalah laba per saham, yakni bagian keuntungan yang secara matematis menjadi milik tiap lembar saham beredar, yang naik dari Rp6 menjadi Rp34, serta kas perseroan yang justru menyusut dari Rp4,64 triliun menjadi Rp3,64 triliun karena dipakai membayar utang dan dividen. Perlu dicatat, kenaikan laba komprehensif turut ditopang keuntungan pengukuran ulang liabilitas imbalan kerja, pos akuntansi yang mencatat selisih asumsi kewajiban pensiun karyawan dan bukan berasal dari kegiatan inti penjualan semen. Yang perlu dipantau berikutnya adalah apakah perbaikan kinerja ini berlanjut di laporan kuartal III 2026, mengingat rasio EBITDA terhadap pendapatan, yang menggambarkan seberapa besar laba operasional murni dibanding penjualan, justru turun dari 14,07 persen menjadi 12,45 persen pada periode ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
   "category": "Aksi Korporasi",
   "title": "AISA Tanggapi Bursa, Ungkap Nasib Dana [KPK] Rp150 Miliar",
@@ -430,6 +456,59 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "obmd-bukukan-rugi-operasi-meski-laba-bersih-masih-positif",
+  "category": "Aksi Korporasi",
+  "title": "OBMD Bukukan [Rugi Operasi] Meski Laba Bersih Masih Positif",
+  "deck": "Penjualan OBM Drilchem anjlok 46 persen pada semester I 2026 hingga usaha intinya merugi, laba bersih hanya tertolong pendapatan di luar usaha utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:20:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831203249-64317-0/FinancialStatement-2026-II-OBMD.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OBMD",
+  "tags": [
+   "OBMD",
+   "laporan keuangan",
+   "kinerja emiten",
+   "arus kas"
+  ],
+  "body": [
+   "PT OBM Drilchem Tbk (OBMD) menyampaikan laporan keuangan interim yang telah ditelaah secara terbatas untuk periode enam bulan yang berakhir 30 Juni 2026 ke Bursa Efek Indonesia pada 31 Agustus 2026. Perusahaan bahan kimia khusus pemboran atau lumpur bor ini membukukan penjualan bersih Rp45,12 miliar pada semester I 2026, turun 46 persen dari Rp83,44 miliar pada periode yang sama tahun lalu. Akibat penurunan penjualan yang tidak diimbangi penurunan beban usaha, terutama beban administrasi dan umum yang justru naik menjadi Rp42,96 miliar dari Rp41,44 miliar, OBMD mencatat rugi usaha Rp4,59 miliar, berbalik dari laba usaha Rp26,11 miliar pada semester I 2025.",
+   "Meski merugi di level operasional, OBMD masih membukukan laba bersih Rp3,26 miliar pada semester I 2026, turun 85 persen dari Rp21,36 miliar setahun sebelumnya. Penyelamatnya adalah pendapatan lain-lain bersih, yakni pendapatan di luar kegiatan usaha utama, yang melonjak menjadi Rp9,10 miliar dari hanya Rp897,76 juta, sehingga laba sebelum pajak tercatat Rp4,66 miliar dibanding Rp27,28 miliar tahun lalu. Laba bersih per saham ikut turun menjadi Rp4,04 dari Rp26,50 pada semester I 2025.",
+   "Dari sisi arus kas, kegiatan operasi perusahaan justru menyedot kas Rp19,35 miliar pada semester I 2026, berbalik dari yang sebelumnya menghasilkan kas Rp26,06 miliar. Kas dan setara kas OBMD turun menjadi Rp100,76 miliar per 30 Juni 2026 dari Rp121,04 miliar per akhir Desember 2025. Di sisi lain, total liabilitas perusahaan turun 27 persen menjadi Rp14,77 miliar dari Rp20,19 miliar, terutama karena utang pajak yang menyusut dari Rp9,60 miliar menjadi Rp4,72 miliar, sementara ekuitas naik tipis menjadi Rp211,79 miliar dari Rp208,54 miliar.",
+   "Laporan keuangan ini direviu secara terbatas oleh Kantor Akuntan Publik Moch. Zainuddin, Sukmadi & Rekan dengan partner penanggung jawab Moch. Zainuddin, yang sudah dua tahun menjadi partner penandatangan laporan OBMD. Dalam kesimpulan tertanggal 28 Agustus 2026, akuntan publik menyatakan tidak menemukan hal yang membuat mereka meyakini laporan keuangan interim ini tidak disajikan secara wajar."
+  ],
+  "fotoAdegan": "Workers checking rows of stacked chemical drums inside an industrial warehouse, a forklift nearby, hazy afternoon light through high skylights",
+  "takeaway": "Laporan ini condong negatif karena bisnis inti OBM Drilchem justru menciut, penjualan anjlok 46 persen dan usaha yang biasanya untung malah merugi Rp4,59 miliar di level operasional, sementara laba bersih yang tetap positif hanya tertolong pendapatan di luar usaha utama sebesar Rp9,1 miliar. Yang paling perlu dicermati adalah arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar keluar masuk dari jual beli sehari-hari, karena pos ini berbalik menjadi minus Rp19,35 miliar dari sebelumnya positif Rp26,06 miliar, artinya di atas kertas perusahaan masih untung tapi kegiatan usahanya sendiri menyedot kas, bukan menghasilkan kas, sehingga kas perusahaan menyusut hampir Rp20,3 miliar hanya dalam enam bulan. Laba per saham, jatah laba yang secara teoritis menjadi hak tiap lembar saham, ikut anjlok 85 persen menjadi Rp4,04 dari Rp26,50 pada periode yang sama tahun lalu. Yang perlu dipantau berikutnya adalah apakah penurunan penjualan ini berlanjut atau membaik di laporan kuartal III 2026, dan apakah pendapatan di luar usaha utama yang menyelamatkan laba bersih semester ini bersifat berulang atau cuma kejadian satu kali.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sanf-direktur-baru-efektif-presiden-komisaris-tunggu-fpt",
+  "category": "Aksi Korporasi",
+  "title": "SANF: Direktur Baru Efektif, Presiden Komisaris [Tunggu FPT]",
+  "deck": "Perusahaan pembiayaan SANF menegaskan pengangkatan Maria Inawati Bernard sebagai Direktur telah efektif, sementara dua pejabat komisaris masih menunggu kelulusan uji kepatutan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:19:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/270835f938_1f35aedc02.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "pergantian direksi",
+   "komisaris",
+   "OJK"
+  ],
+  "body": [
+   "PT Surya Artha Nusantara Finance (SANF), perusahaan pembiayaan anggota grup Astra Financial, mengumumkan bahwa pengangkatan Maria Inawati Bernard sebagai Direktur perseroan resmi berlaku efektif setelah yang bersangkutan lulus uji kepatutan dan kelayakan (fit and proper test) yang disyaratkan Otoritas Jasa Keuangan. Kelulusan itu tertuang dalam surat keputusan OJK Nomor KEP-162/PL.02/2026 tanggal 4 Agustus 2026. Penegasan ini dituangkan dalam Akta Pernyataan Keputusan Rapat Nomor 73 tanggal 26 Agustus 2026 yang dibuat di hadapan notaris Wiwik Condro, S.H. Dengan penegasan ini, susunan Direksi SANF untuk masa jabatan sampai penutupan RUPST 2028 (tahun buku 2027) adalah Wempy Kunto Wiambodo sebagai Presiden Direktur, serta Handri Susanto, Maria Inawati Bernard, dan Kiyoshi Kuribara sebagai Direktur.",
+   "Untuk jajaran Dewan Komisaris dengan masa jabatan yang sama, susunannya adalah Hamdani Dzulkarnaen S. sebagai Presiden Komisaris, Arietta Adrianti dan Takashi Araki sebagai Komisaris, serta Buntoro Muljono dan Handoko Pranoto sebagai Komisaris Independen. Namun perseroan menegaskan bahwa seluruh fungsi, tugas, dan wewenang Hamdani Dzulkarnaen S. sebagai Presiden Komisaris dan Takashi Araki sebagai Komisaris baru akan berlaku efektif sejak tanggal surat yang menyatakan mereka lulus fit and proper test OJK. Artinya, per laporan ini, keduanya tercatat dalam susunan namun belum resmi menjalankan wewenangnya.",
+   "Laporan bertanggal 28 Agustus 2026 ini merupakan tindak lanjut dari surat sebelumnya tertanggal 13 April 2026 yang pertama kali mengumumkan hasil RUPST 16 Maret 2026. Surat ditujukan baik ke OJK maupun ke Bursa Efek Indonesia bagian Penilaian Perusahaan Surat Hutang, karena SANF berstatus penerbit surat utang (obligasi) yang tercatat di bursa, bukan penerbit saham publik. Dokumen ditandatangani oleh Corporate Secretary SANF, Davin Susanto, dan dipublikasikan pada 31 Agustus 2026 pukul 20.19 WIB."
+  ],
+  "fotoAdegan": "Modern glass office tower lobby in a Jakarta business district, professionals in formal attire walking through, soft morning light",
+  "takeaway": "Laporan ini netral bagi kondisi fundamental perusahaan karena sifatnya administratif, mengikuti keputusan RUPST yang sudah diambil sejak Maret 2026, tanpa ada dampak finansial baru. Karena SANF adalah penerbit obligasi yang tercatat di bursa, bukan perusahaan dengan saham publik, pos yang tersentuh bukan laba per saham melainkan tata kelola dan pengawasan, yaitu siapa yang berwenang mengawasi manajemen risiko dan kepatuhan perseroan dalam memenuhi kewajiban kepada pemegang obligasi. Yang perlu dipantau selanjutnya adalah terbitnya surat keputusan OJK yang menyatakan Hamdani Dzulkarnaen S. dan Takashi Araki lulus fit and proper test, karena baru pada tanggal itu keduanya resmi menjalankan wewenang sebagai Presiden Komisaris dan Komisaris, sementara laporan ini belum menyebut kapan tanggal tersebut akan terbit.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
   "category": "UMKM",
   "title": "Summarecon Gelar Festival Kuliner [Serentak] di 4 Kota",
@@ -455,6 +534,137 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari edisi tahun ini adalah polanya, empat festival kuliner di Kelapa Gading, Serpong, Bekasi, dan Bandung digelar serentak sepanjang Agustus sampai September 2026, meneruskan tradisi yang dimulai Summarecon sejak 2004 bersama Pemprov DKI Jakarta. Pihak yang jelas terdampak adalah pelaku usaha kuliner dan UMKM di keempat kawasan itu, karena festival ini jadi salah satu panggung jualan musiman bagi mereka, selain warga sekitar yang datang sebagai pengunjung. Berita ini belum menyebut berapa jumlah pedagang yang ikut, target pengunjung, atau nilai transaksi yang diharapkan, jadi belum bisa disimpulkan apakah skala tahun ini lebih besar, sama, atau lebih kecil dibanding edisi-edisi sebelumnya. Yang perlu dicek untuk melihat arahnya adalah data resmi Summarecon soal jumlah tenant dan jumlah pengunjung setelah festival berlangsung di masing-masing kota.",
   "imageV": "mthi41p7"
+ },
+ {
+  "slug": "silo-gelar-rupslb-akuisisi-rumah-sakit-senilai-rp6-9-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SILO Gelar RUPSLB, [Akuisisi] Rumah Sakit Senilai Rp6,9 Triliun",
+  "deck": "SILO memanggil RUPSLB 22 September 2026 untuk meminta persetujuan akuisisi rumah sakit senilai hingga Rp9 triliun dan penjaminan aset sebagai jaminan pendanaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T19:52:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2b6aa49c2f_92876f9bdf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "RUPSLB",
+   "akuisisi rumah sakit",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 22 September 2026 pukul 09.00 WIB di Mochtar Riady Institute for Nanotechnology (MRIN) Hall, Lippo Village, Tangerang. Pemegang saham yang tercatat pada 28 Agustus 2026 berhak hadir, baik secara fisik maupun elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia.",
+   "Rapat membawa tiga agenda. Yang pertama adalah amendemen Pasal 3 Anggaran Dasar soal maksud dan kegiatan usaha, semata menyesuaikan kode klasifikasi usaha (KBLI) perseroan dengan aturan pemerintah yang baru, tanpa menambah lini bisnis baru maupun berdampak pada operasional dan keuangan perseroan. Agenda kedua adalah inti rapat, yaitu persetujuan rencana SILO mengambil alih saham di sejumlah perusahaan pemegang portofolio aset rumah sakit dan penunjangnya, baik lewat pembelian saham maupun hak opsi saham. Rencana ini sudah diungkapkan sejak 1 April 2026. Nilai transaksi berdasarkan nilai properti yang disetujui terdiri dari tahap pertama Rp5,12 triliun dan tahap kedua Rp3,88 triliun, atau total Rp9 triliun. Setelah dikurangi penyesuaian nilai aset neto dan sisa komitmen belanja modal sebesar Rp2,09 triliun, estimasi nilai transaksi menjadi Rp6,91 triliun, setara 67,57 persen dari ekuitas perseroan sebesar Rp10,22 triliun per 31 Maret 2026. Karena melebihi 50 persen ekuitas, transaksi ini tergolong transaksi material yang wajib mendapat restu pemegang saham, dan SILO menunjuk KJPP Budi, Edy, Saptono, dan Rekan (KJPP BEST) untuk menilai kewajaran harganya.",
+   "Agenda ketiga meminta persetujuan pemegang saham atas rencana penjaminan aset dan/atau harta kekayaan perseroan dengan nilai lebih dari 50 persen ekuitas, sebagai jaminan untuk memperoleh pendanaan bagi SILO maupun anak usahanya guna membiayai akuisisi tersebut. Surat pemanggilan rapat ini ditandatangani oleh Corporate Secretary SILO, Lewi Aga Basoeki."
+  ],
+  "fotoAdegan": "Medical staff walking through a modern Indonesian hospital corridor lined with equipment carts, soft morning light",
+  "takeaway": "Laporan ini netral cenderung perlu diwaspadai, karena rencana akuisisi portofolio rumah sakit senilai hampir Rp6,91 triliun ini memperluas kapasitas SILO, tapi dibiayai dengan menjaminkan aset perseroan senilai lebih dari separuh ekuitasnya, sehingga menambah beban utang secara signifikan. Yang tersentuh adalah ekuitas dan arus kas SILO, sebab nilai transaksi yang mencapai 67,57 persen dari ekuitas berarti perseroan mengerahkan sumber daya dalam skala besar dibanding ukurannya saat ini, sementara penjaminan aset di atas 50 persen ekuitas untuk pendanaan berarti utang berbunga bertambah dan sebagian aset perseroan terikat sebagai jaminan sampai kewajiban itu lunas. Yang perlu dipantau adalah hasil pemungutan suara RUPSLB pada 22 September 2026, terutama untuk agenda transaksi material dan penjaminan aset, serta pendapat kewajaran dari KJPP Budi, Edy, Saptono, dan Rekan yang akan menentukan apakah harga akuisisi ini wajar bagi pemegang saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pool-tunda-rupslb-agendakan-audit-empat-tahun-sekaligus",
+  "category": "Aksi Korporasi",
+  "title": "POOL Tunda RUPSLB, Agendakan Audit [Empat Tahun] Sekaligus",
+  "deck": "Pool Advista Indonesia (POOL) menggeser RUPSLB dari 3 menjadi 22 September 2026, dengan agenda penunjukan akuntan publik untuk mengaudit laporan keuangan empat tahun buku sekaligus, 2023-2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T19:52:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/366a2f7e34_13edbdddf7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POOL",
+  "tags": [
+   "POOL",
+   "RUPSLB",
+   "audit laporan keuangan",
+   "Pool Advista"
+  ],
+  "body": [
+   "PT Pool Advista Indonesia Tbk (POOL) mengumumkan ralat pemanggilan sekaligus pemanggilan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Rapat yang semula dijadwalkan Kamis, 3 September 2026 pukul 14.00-15.30 WIB diundur menjadi Selasa, 22 September 2026 pada jam yang sama. Lokasi tidak berubah, yaitu Aula Kantor PT Pool Advista Indonesia Tbk Lantai 2, Jl. Letjen Soepono Blok CC6 No. 9-10, Arteri Permata Hijau, Kebayoran Lama, Jakarta Selatan. Tanggal Daftar Pemegang Saham (DPS) yang berhak hadir tetap pada 28 Agustus 2026, dan seluruh mata acara rapat tidak berubah. Pemberitahuan ini ditandatangani oleh Ferdiansyah Siregar selaku Direktur Perseroan pada 31 Agustus 2026.",
+   "Agenda pertama RUPSLB adalah persetujuan pemberian kewenangan kepada Dewan Komisaris untuk menunjuk Kantor Akuntan Publik independen yang akan mengaudit laporan keuangan Perseroan untuk tahun buku yang berakhir 31 Desember 2023, 2024, 2025, dan 2026, sekaligus periode-periode lain dalam rentang tahun buku 2023-2026. Dewan Komisaris juga diberi wewenang menetapkan besaran honorarium akuntan publik tersebut. Agenda kedua adalah persetujuan pengangkatan kembali atau perubahan susunan Dewan Komisaris dan Direksi Perseroan.",
+   "Perseroan mengimbau pemegang saham yang sahamnya berada dalam penitipan kolektif KSEI untuk memberikan kuasa dan suara secara elektronik lewat sistem eASY.KSEI melalui partisipan biro administrasi efek PT Adimitra Jasa Korpora. Bagi pemegang saham yang hadir langsung, Perseroan meminta membawa fotokopi identitas atau surat kuasa yang sah sebelum memasuki ruang rapat."
+  ],
+  "fotoAdegan": "Auditors reviewing stacks of financial binders on a conference table in a modern Jakarta office, documents angled away from camera",
+  "takeaway": "Laporan ini condong negatif karena substansinya bukan cuma pergeseran tanggal rapat, melainkan permintaan otorisasi untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan Pool Advista untuk empat tahun buku sekaligus, 2023 sampai 2026, padahal lazimnya audit selesai setahun sekali. Yang tersentuh di sini adalah laporan keuangan teraudit, dokumen yang jadi pegangan utama investor untuk menilai aset, utang, dan laba perusahaan; kalau baru sekarang mau ditunjuk auditornya untuk empat tahun ke belakang, berarti selama ini pasar tidak punya angka resmi yang sudah diverifikasi akuntan independen untuk periode-periode tersebut. Rencana perubahan susunan Direksi dan Dewan Komisaris yang juga masuk agenda menambah ketidakpastian arah pengurus ke depan. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 22 September 2026, kantor akuntan publik mana yang akhirnya ditunjuk, dan seberapa cepat laporan keuangan empat tahun itu benar-benar terbit setelah rapat.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "towr-tegaskan-tak-ada-informasi-material-di-balik-gejolak-saham",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Tegaskan Tak Ada [Informasi Material] di Balik Gejolak Saham",
+  "deck": "Sarana Menara Nusantara menjawab permintaan penjelasan BEI atas volatilitas transaksi saham TOWR, menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T19:39:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a14e65995f_cbc9b8eadd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sarana Menara Nusantara Tbk (TOWR) mengirim surat bernomor 126/CS-BEI/SMN/VIII/26 tertanggal 31 Agustus 2026 kepada Bursa Efek Indonesia, menanggapi surat permintaan penjelasan BEI No. S-11092/BEI.PP2/08-2026 tertanggal 27 Agustus 2026 mengenai volatilitas transaksi efek perusahaan. Surat itu ditandatangani oleh Corporate Secretary TOWR, Monalisa Irawan. Perusahaan menyatakan sampai dengan tanggal surat tersebut tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material maupun Peraturan Nomor I-E BEI.",
+   "Terkait aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham Perusahaan Terbuka, TOWR menyebut bahwa satu-satunya aktivitas yang diketahuinya adalah laporan kepemilikan atau perubahan kepemilikan saham yang telah disampaikan direksi dan komisaris perusahaan melalui sistem AKSes KSEI dan dipublikasikan di situs BEI pada 28 Agustus 2026. Di luar itu, perusahaan mengaku tidak mengetahui adanya transaksi yang dilakukan pemegang saham lain.",
+   "Perusahaan juga menegaskan tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang akan berdampak pada pencatatan saham TOWR di bursa, dan menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material serta memengaruhi harga efek maupun kelangsungan usaha yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Telecom tower technicians inspecting antenna equipment atop a tall steel tower against a golden dusk sky in rural Indonesia",
+  "takeaway": "Surat ini netral bagi TOWR: isinya hanya penegasan bahwa tidak ada informasi rahasia yang memicu gejolak harga sahamnya, tanpa angka, rencana baru, atau perubahan kondisi keuangan yang diumumkan. Permintaan penjelasan semacam ini biasanya dikirim bursa saat harga atau volume perdagangan sebuah saham bergerak di luar kebiasaan, dan bursa ingin memastikan tidak ada perubahan tersembunyi pada pos-pos seperti ekuitas, utang, atau rencana korporasi yang menjelaskan pergerakan itu; jawaban TOWR kali ini tidak menyebut perubahan pada pos-pos tersebut. Yang perlu dipantau selanjutnya adalah laporan kepemilikan saham direksi dan komisaris TOWR yang telah dipublikasikan BEI pada 28 Agustus 2026 melalui AKSes KSEI, karena rincian pihak dan volume transaksi yang bisa berkaitan dengan gejolak itu ada di sana, bukan di surat konfirmasi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "soho-rombak-direksi-harry-salam-jadi-presiden-direktur",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Rombak [Direksi], Harry Salam Jadi Presiden Direktur",
+  "deck": "RUPSLB SOHO menyetujui Ery Yunasri turun dari Presiden Direktur ke Komisaris, digantikan Harry Salam yang sebelumnya Komisaris Independen, efektif 31 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T19:30:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/534bf1e89d_47fb92c447.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOHO",
+  "tags": [
+   "SOHO",
+   "Direksi",
+   "Komisaris",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Soho Global Health Tbk (SOHO) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Senin, 31 Agustus 2026, pukul 10.30 hingga 11.07 WIB di kantor pusat perseroan di Pulogadung, Jakarta Timur. Rapat dihadiri pemegang saham yang mewakili 10.333.340.910 saham atau 81,41 persen dari total 12.691.682.390 saham perseroan, dan seluruh keputusan disetujui bulat 100 persen tanpa suara menolak maupun abstain.",
+   "Di jajaran direksi, perseroan menerima pengunduran diri Piero Brambati dari kursi Direktur, berlaku efektif sejak penutupan rapat, lebih cepat dari masa tenggang normal 90 hari sesuai Pasal 18 ayat 16 Anggaran Dasar. Ery Yunasri diberhentikan dengan hormat dari jabatan Presiden Direktur. Sebagai gantinya, Harry Salam, yang sebelumnya menjabat Komisaris Independen, diangkat menjadi Presiden Direktur, sementara Lucky Setiawan diangkat sebagai Direktur baru, keduanya untuk masa jabatan lima tahun hingga 31 Agustus 2031. Susunan direksi baru menjadi: Presiden Direktur Harry Salam, serta Direktur Yuliana (hingga 27 Juni 2029), Pandy Harianto dan Lim Chern Han (masing-masing hingga 15 September 2030), Richard Kidarsa (hingga 15 September 2030), dan Lucky Setiawan (hingga 31 Agustus 2031).",
+   "Di jajaran komisaris, Harry Salam diberhentikan dari posisi Komisaris Independen seiring pindah ke direksi, dan Eng Liang Tan diberhentikan dari posisi Komisaris. Perseroan mengangkat Steven Hairul Tjhoea sebagai Komisaris Independen baru dan Ery Yunasri, mantan Presiden Direktur, sebagai Komisaris baru, keduanya untuk masa jabatan lima tahun hingga 31 Agustus 2031. Susunan dewan komisaris baru adalah Ignasius Jonan sebagai Presiden Komisaris merangkap Komisaris Independen (hingga 23 Februari 2031), Andy Nugroho Purwohardono sebagai Komisaris (hingga 27 Juni 2029), Ery Yunasri sebagai Komisaris (hingga 31 Agustus 2031), dan Steven Hairul Tjhoea sebagai Komisaris Independen (hingga 31 Agustus 2031). Seluruh pejabat yang lengser, baik di direksi maupun komisaris, diberikan pembebasan dan pelunasan tanggung jawab penuh atas masa jabatannya."
+  ],
+  "fotoAdegan": "Modern office boardroom with a polished wood table, empty leather chairs, and floor-to-ceiling windows overlooking a Jakarta skyline",
+  "takeaway": "Perubahan pengurus ini kami nilai netral bagi fundamental SOHO, karena pola pergantiannya terlihat sebagai rotasi terencana, bukan pergantian akibat masalah kinerja atau sengketa, terlihat dari pembebasan tanggung jawab penuh yang diberikan kepada seluruh pejabat yang lengser dan persetujuan bulat 100 persen dari pemegang saham yang hadir. Laporan ini tidak mengubah pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar, tapi pergantian pucuk pimpinan tetap layak dicermati investor karena Presiden Direktur adalah pengambil keputusan strategis utama perusahaan yang bisa memengaruhi arah bisnis distribusi farmasi ini ke depan. Menariknya, Ery Yunasri tidak sepenuhnya keluar dari perseroan, melainkan pindah dari kursi Presiden Direktur ke kursi Komisaris, sementara Harry Salam bergerak sebaliknya dari Komisaris Independen ke Presiden Direktur, pola rotasi silang yang biasanya menandakan kesinambungan kepemimpinan, bukan gejolak. Yang perlu dipantau berikutnya adalah penyelesaian akta notaris resmi atas keputusan rapat ini, nomor 273 tertanggal 31 Agustus 2026 yang menurut dokumen masih dalam proses, serta pemberitahuan resminya ke Kementerian Hukum RI, sebelum susunan pengurus baru ini berlaku penuh secara hukum.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wbsa-laba-semester-i-anjlok-95-saham-beredar-naik-26",
+  "category": "Aksi Korporasi",
+  "title": "WBSA: Laba Semester I [Anjlok] 95%, Saham Beredar Naik 26%",
+  "deck": "Laba bersih WBSA anjlok 95 persen menjadi Rp1,02 miliar pada semester I 2026 meski pendapatan naik, sementara saham beredar bertambah 26 persen usai penggabungan entitas anak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T19:06:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/63cb3f2c6d_e456a28f84.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WBSA",
+  "tags": [
+   "WBSA",
+   "laporan keuangan",
+   "laba bersih",
+   "penggabungan usaha"
+  ],
+  "body": [
+   "PT BSA Logistics Indonesia Tbk (WBSA) menyampaikan laporan keuangan konsolidasian interim yang tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026. Laporan ini telah direviu secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young Global, dengan kesimpulan wajar tanpa pengecualian yang diterbitkan pada 28 Agustus 2026.",
+   "Pendapatan neto perseroan naik dari Rp1,37 triliun pada semester I 2025 menjadi Rp1,95 triliun pada semester I 2026. Namun laba kotor justru turun dari Rp176,32 miliar menjadi Rp139,74 miliar, dan laba usaha turun dari Rp53,20 miliar menjadi Rp34,67 miliar. Beban keuangan naik dari Rp20,31 miliar menjadi Rp23,95 miliar. Akibatnya, laba tahun berjalan anjlok dari Rp22,44 miliar menjadi hanya Rp1,02 miliar, turun sekitar 95 persen dibanding periode yang sama tahun lalu.",
+   "Di sisi permodalan, jumlah saham beredar WBSA bertambah dari 6,875 miliar lembar menjadi 8,675 miliar lembar dengan nilai nominal tetap Rp40 per saham, sehingga nilai modal saham naik dari Rp275 miliar menjadi Rp347 miliar. Tambahan modal disetor melonjak dari Rp1,14 miliar menjadi Rp176,05 miliar. Pos ekuitas entitas yang bergabung, yang tercatat Rp187,07 miliar per akhir 2025, kini menjadi nol, menandakan proses penggabungan entitas anak ke struktur permodalan induk telah dituntaskan dan direklasifikasi menjadi modal saham serta tambahan modal disetor. Total ekuitas perseroan naik dari Rp538,68 miliar menjadi Rp617,85 miliar.",
+   "Total aset WBSA tercatat naik dari Rp1,60 triliun menjadi Rp1,72 triliun, dengan kas dan bank bertambah dari Rp149,91 miliar menjadi Rp231,04 miliar. Di sisi liabilitas, pinjaman bank jangka pendek turun tajam dari Rp146,97 miliar menjadi Rp20,96 miliar, namun muncul pos pinjaman jangka panjang baru senilai Rp134,78 miliar."
+  ],
+  "fotoAdegan": "Warehouse workers moving pallets of goods with forklifts inside a large refrigerated cold storage facility, cool mist in the air",
+  "takeaway": "Laporan ini condong negatif bagi WBSA karena laba bersih anjlok hampir 95 persen meski pendapatan tumbuh dua digit, dan penambahan 1,8 miliar saham baru membuat laba yang tersisa terbagi ke basis saham yang jauh lebih besar. Yang tersentuh adalah laba bersih, beban bunga, dan jumlah saham beredar, tiga pos yang menentukan laba per saham, yaitu bagian keuntungan perusahaan yang secara teoritis menjadi hak tiap lembar saham. Beban bunga yang naik ke Rp23,95 miliar ikut menggerus laba usaha, sementara kenaikan ekuitas berasal dari suntikan modal lewat penggabungan entitas anak, bukan dari hasil operasi, sehingga tidak serta merta mencerminkan perbaikan kinerja bisnis inti. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, untuk melihat apakah beban bunga yang meningkat dan dilusi dari saham baru mulai tertutupi oleh pertumbuhan pendapatan atau justru terus menekan laba bersih perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",

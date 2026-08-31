@@ -36,8 +36,13 @@ on:
     # angka indikatif di bilah atas, dan situs ini memang tidak menjanjikan
     # harga waktu-nyata. Yang penting janjinya jujur, karena itu kalimat
     # "diperbarui tiap 30 menit" sudah dihapus dari halaman.
-    - cron: "*/30 2-9 * * 1-5"
-    - cron: "0 10,12,14,16,18,20,22,0 * * *"      # tiap 2 jam di luar jam bursa
+    # Menit 9 dan 39, bukan 0 dan 30. Alasan menghindari menit 0 ada di
+    # daily.yml. Menit 39 dipilih supaya selesai sebelum idx.yml mulai di
+    # menit 43 - alur ini pendek (~1,5 menit) tapi berbagi grup concurrency
+    # the-signal-tulis dengan daily dan idx, jadi tumpang tindih berarti salah
+    # satu mengantre dan berisiko dibatalkan.
+    - cron: "9,39 2-9 * * 1-5"
+    - cron: "9 10,12,14,16,18,20,22,0 * * *"      # tiap 2 jam di luar jam bursa
   workflow_dispatch:
 
 # Jangan bentrok dengan job harian maupun push dari penjadwal IDX di laptop.

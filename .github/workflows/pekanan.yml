@@ -19,7 +19,13 @@ name: Signal Mingguan
 # dan edisinya batal terbit. Pukul 12.00 UTC tidak ditempati siapa pun.
 on:
   schedule:
-    - cron: "0 12 * * 0"
+    # Menit 25, bukan 0; alasan menghindari menit 0 ada di daily.yml. Menit 7
+    # sempat dipakai dan ditolak simulasi 24 jam: pasar.yml jalan di menit 9,
+    # tepat di tengah edisi ini, padahal berbagi grup concurrency
+    # the-signal-tulis. Menit 25 jatuh di sela kosong antara pasar :09 dan
+    # idx :43. Catatan di atas soal "pukul 12.00 UTC tidak ditempati siapa
+    # pun" masih berlaku: yang berubah cuma menitnya.
+    - cron: "25 12 * * 0"
   workflow_dispatch:
     inputs:
       hanya_kirim:

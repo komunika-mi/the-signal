@@ -41,7 +41,15 @@ on:
     # berarti membaca dua pertiga hari lalu menyebutnya kesimpulan hari itu.
     # Konsekuensinya email tiba malam, dan itu justru cocok: pembacanya
     # pengambil keputusan yang menyiapkan langkah besok pagi.
-    - cron: "0 14 * * 1-5"
+    # Menit 25, bukan 0; alasan menghindari menit 0 ada di daily.yml.
+    #
+    # Menitnya dipilih dengan mensimulasikan 24 jam seluruh alur lebih dulu.
+    # Menit 7 sempat dipakai dan ditolak simulasi itu: pasar.yml jalan di
+    # menit 9, jadi ia mulai TEPAT DI TENGAH edisi ini (~8 menit) padahal
+    # keduanya berbagi grup concurrency the-signal-tulis. Menit 25 menaruhnya
+    # di sela yang benar-benar kosong: pasar :09 sudah selesai, idx :43 belum
+    # mulai.
+    - cron: "25 14 * * 1-5"
   workflow_dispatch:
 
 concurrency:

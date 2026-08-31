@@ -25,7 +25,11 @@ on:
     # 08.00, 14.00, dan 21.00 WIB. Tiga kali sehari cukup: yang diukur di sini
     # kerusakan berskala jam sampai hari, bukan detik. Lebih sering justru
     # melatih orang mengabaikan pemberitahuannya.
-    - cron: "0 1,7,14 * * *"
+    # Menit 23, bukan 0; alasannya di daily.yml. Sengaja jauh dari menit 17
+    # (daily) dan 43 (idx) supaya pemeriksaan tidak berjalan tepat saat situs
+    # sedang dibangun ulang - hasil pemeriksaan atas berkas setengah terbit
+    # akan merah tanpa ada yang benar-benar rusak.
+    - cron: "23 1,7,14 * * *"
   workflow_dispatch:
 
 permissions:

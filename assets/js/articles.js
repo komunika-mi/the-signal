@@ -3,6 +3,248 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
+  "category": "BUMN",
+  "title": "PGN Lewat BerandaMAS Kenalkan Hunian Berbasis [Energi]",
+  "deck": "PGNMAS, anak usaha PGN, memperkenalkan BerandaMAS, kawasan hunian berbasis gas bumi dan panel surya, dalam Danantara Housing Expo 2026 di PIK 2, Tangerang.",
+  "image": "assets/img/pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T22:19:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463967-kenalkan-hunian-berbasis-energi-di-danantara-housing-expo-2026-begini-konsep-smart-home-berandamas",
+  "tags": [
+   "BerandaMAS",
+   "PGN",
+   "PGNMAS",
+   "Danantara Housing Expo"
+  ],
+  "body": [
+   "PT Permata Graha Nusantara (PGNMAS), anak usaha PT Perusahaan Gas Negara (Persero) Tbk (PGN), memperkenalkan kawasan hunian bertajuk BerandaMAS dalam Danantara Housing Expo 2026 yang berlangsung di NICE, PIK 2, Tangerang, pada 27 hingga 30 Agustus 2026. Konsep ini diklaim sebagai kawasan hunian pertama di Indonesia yang dibangun berbasis energi. Pameran tersebut diikuti sekitar 130 pengembang dengan total lebih dari 120.000 unit hunian yang dipasarkan.",
+   "Keunggulan utama BerandaMAS terletak pada integrasi energi di setiap rumah. Tiap unit tersambung ke jaringan gas bumi PGN yang dirancang mengalir 24 jam sehari, ditambah panel surya berkapasitas 1.300 watt peak, satuan daya maksimal panel surya dalam kondisi ideal. Penggunaan gas bumi untuk kebutuhan rumah tangga diklaim bisa menekan biaya energi bulanan hingga sekitar 50 persen dibanding sumber energi konvensional.",
+   "Selain energi, kawasan ini juga dilengkapi internet fiber optik berkecepatan hingga 10 Mbps dari PT Telemedia Dinamika Sarana atau Gasnet, yang merupakan afiliasi PGN, serta fitur smart home dan kamera pengawas berbasis internet di tiap rumah. Fasilitas kawasan mencakup lapangan padel, lapangan bulu tangkis, jalan yang luas, taman, dan ruang terbuka hijau. Tata letak bangunan sengaja dirancang berjarak agar cahaya dan udara alami masuk ke rumah sekaligus mengurangi risiko api merambat antarbangunan, dengan konsep arsitektur digarap oleh Andra Matin.",
+   "Pada tahap pertama, BerandaMAS telah membangun 154 unit rumah, dan 26 unit di antaranya sudah siap huni atau berstatus ready stock."
+  ],
+  "fotoAdegan": "Rows of newly built single-story houses with small rooftop solar panels under bright morning daylight on a quiet suburban street",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9599e3ca6bf-berandamas-kenalkan-konsep-smart-home-di-danantara-housing-expo-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah PGN, lewat anak usahanya PGNMAS, mulai menjual jaringan gas dan internetnya bukan cuma ke pabrik atau kantor, tapi langsung ke rumah tangga dalam bentuk kawasan perumahan yang diklaim bisa memangkas biaya energi bulanan hingga separuh. Yang terdampak pertama adalah calon pembeli rumah di kawasan ini, yang mendapat gas rumah tangga, panel surya, dan internet fiber optik dalam satu paket beli rumah, dan yang kedua adalah PGN sendiri yang membuka saluran bisnis baru di luar penjualan gas industri selama ini. Ini terlihat sebagai bagian dari upaya PGN memperluas pasar gas bumi ke segmen properti, sekaligus memanfaatkan posisinya di bawah Danantara sebagai holding investasi negara yang menaungi ajang pameran ini. Skalanya masih kecil, baru 154 unit di tahap pertama dengan 26 unit siap huni, sehingga arah ini baru akan terkonfirmasi kalau PGNMAS benar melanjutkan ke tahap kedua pembangunan atau mereplikasi konsep serupa di kawasan lain.",
+  "imageV": "mthi3zj8"
+ },
+ {
+  "slug": "pertamina-gandeng-ibc-bangun-ekosistem-baterai",
+  "category": "Energi",
+  "title": "Pertamina Gandeng IBC Bangun Ekosistem [Baterai]",
+  "deck": "Pertamina teken MoU dengan IBC untuk menjajaki ekosistem baterai terintegrasi, dari BESS hingga daur ulang baterai, sebagai bagian ekspansi bisnis rendah karbon.",
+  "image": "assets/img/pertamina-gandeng-ibc-bangun-ekosistem-baterai.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:52:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463963-perluas-peluang-bisnis-rendah-karbon-pertamina-teken-sinergi-pengembangan-ekosistem-baterai-dengan-pt-ibc",
+  "tags": [
+   "Pertamina",
+   "IBC",
+   "baterai",
+   "rendah karbon"
+  ],
+  "body": [
+   "PT Pertamina (Persero) menandatangani nota kesepahaman dengan PT Industri Baterai Indonesia (IBC) untuk menjajaki pengembangan ekosistem industri baterai terintegrasi. Penandatanganan berlangsung di fasilitas PT Contemporary Amperex Technology Indonesia Battery (CATIB) di Karawang, Jawa Barat, Senin (31/8). Kerja sama ini menjadi bagian dari strategi Dual Growth Pertamina, yakni memperkuat bisnis migas yang sudah berjalan sambil membangun lini usaha baru di sektor rendah karbon. Langkah ini menandakan perusahaan migas pelat merah mulai merambah rantai pasok baterai kendaraan listrik, salah satu sektor kunci transisi energi Indonesia.",
+   "Sejumlah bidang yang akan dijajaki mencakup pengembangan Battery Energy Storage System (BESS) dalam dua bentuk, yaitu Portable Power Station dan Stationary Power Station, yang berfungsi menyimpan energi listrik untuk dipakai belakangan. Selain itu, kedua perusahaan akan menjajaki daur ulang dan pemanfaatan ulang baterai bekas, pengembangan teknologi baterai generasi mendatang, serta optimalisasi fasilitas riset dan laboratorium baterai yang terintegrasi. Pertamina juga membuka peluang memanfaatkan material turunan minyak dan gas miliknya untuk mendukung rantai pasok bahan baku baterai.",
+   "SVP Technology Innovation & Implementation Pertamina, Hana Timoti, menyebut ekosistem baterai dan kendaraan listrik sebagai salah satu pilar Dual Growth Strategy perusahaan, dengan peluang komersialisasi mulai dari BESS hingga daur ulang baterai. Direktur Pengembangan Bisnis IBC, Niko Chandra, mengatakan kolaborasi ini merupakan langkah strategis untuk memadukan kekuatan dua perusahaan nasional dalam membangun ekosistem baterai yang berkelanjutan.",
+   "Kesepahaman ini masih berupa tahap penjajakan awal untuk mengidentifikasi peluang teknologi dan kelayakan bisnis, belum sampai pada komitmen investasi atau proyek definitif. Pertamina dan IBC akan mempelajari kelayakan komersial dari masing-masing peluang tersebut sebelum menindaklanjutinya ke tahap implementasi."
+  ],
+  "fotoAdegan": "Rows of large battery cells on an assembly line inside a battery factory, workers in uniform inspecting units under industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a95943c1eb67-pertamina-teken-sinergi-pengembangan-bisnis-rendah-karbon-dengan-pt-industri-baterai-indonesia-ibc_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah baru sebatas nota kesepahaman yang tidak mengikat, mencakup penjajakan Battery Energy Storage System atau sistem penyimpanan energi listrik skala besar, daur ulang baterai bekas, riset material baterai, dan potensi penggunaan produk turunan minyak dan gas Pertamina untuk rantai pasok baterai. Pihak yang langsung terdampak adalah Pertamina dan IBC sendiri sebagai dua perusahaan pelat merah, sementara dampak yang lebih luas ke industri kendaraan listrik dan penyimpanan energi nasional baru akan terasa kalau penjajakan ini berlanjut ke kerja sama komersial. MoU ini belum menyebut nilai investasi, kapasitas produksi, atau tenggat waktu, jadi belum bisa dipastikan proyek mana yang benar-benar akan berjalan. Yang perlu ditunggu adalah apakah penjajakan ini berlanjut ke perjanjian definitif atau kerja sama bisnis yang lebih konkret antara Pertamina dan IBC.",
+  "imageV": "mthi3zxo"
+ },
+ {
+  "slug": "pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026",
+  "category": "BUMN",
+  "title": "PAM JAYA Pastikan Air Baku Jatiluhur [Aman] hingga 2026",
+  "deck": "PAM JAYA menyatakan pasokan air baku dari Waduk Jatiluhur masih aman untuk Jakarta hingga akhir 2026, meski muka air turun akibat kemarau.",
+  "image": "assets/img/pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:48:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463962-hadapi-musim-kemarau-pam-jaya-pastikan-air-baku-dari-waduk-jatiluhur-aman-hingga-akhir-2026",
+  "tags": [
+   "PAM JAYA",
+   "Waduk Jatiluhur",
+   "air baku",
+   "kemarau"
+  ],
+  "body": [
+   "PAM JAYA memastikan pasokan air baku dari Waduk Jatiluhur di Purwakarta, Jawa Barat, tetap aman untuk melayani kebutuhan air bersih warga Jakarta hingga akhir 2026, kendati muka air waduk turun akibat musim kemarau. Kepastian itu disampaikan Direktur Utama PAM JAYA Arief Nasrudin setelah meninjau langsung kondisi waduk pada Senin, 31 Agustus 2026.",
+   "Berdasarkan data dari pengelola waduk, Perum Jasa Tirta II (PJT II), muka air Jatiluhur saat ini tercatat 96,34 meter di atas permukaan laut. Angka itu turun dibanding kondisi normal, namun masih 8,84 meter di atas batas bawah operasi sebesar 87,5 meter, yakni ambang minimal agar waduk tetap bisa menyalurkan air. Arief menyebut PJT II telah menyiapkan sejumlah langkah mitigasi untuk menjaga ketersediaan air hingga akhir tahun.",
+   "Kunjungan tersebut turut diikuti Direktur Usaha PJT II Didik Permadi Yoffana dan General Manager Wilayah IV Anom Soal Herudjito. Didik menjelaskan bahwa tampungan Waduk Jatiluhur saat ini masih mencukupi tidak hanya untuk air baku, tapi juga kebutuhan irigasi dan industri hingga akhir 2026.",
+   "Arief menegaskan pihaknya bersama PJT II akan terus memantau kondisi waduk dan perkembangan pasokan air secara berkala selama musim kemarau masih berlangsung, mengingat muka air berpotensi terus turun."
+  ],
+  "fotoAdegan": "A wide freshwater reservoir with exposed dry shoreline banks under a bright dry-season sky, a concrete water intake tower visible in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a959380712ce-direktur-utama-pam-jaya-arief-nasrudin-melakukan-kunjungan-kerja-dan-peninjauan-langsung-ke-waduk-jatiluhur_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah angka muka air Waduk Jatiluhur, yaitu ketinggian permukaan air waduk yang diukur dari permukaan laut, yang tercatat 96,34 meter, turun dari kondisi normal tapi masih 8,84 meter di atas ambang minimal operasi sebesar 87,5 meter. Yang terdampak langsung adalah pelanggan air bersih PAM JAYA di Jakarta, serta petani dan pelaku industri di sekitar Purwakarta yang sama-sama bergantung pada waduk ini untuk irigasi dan kebutuhan produksi. Berita ini belum menyebut seberapa cepat muka air turun tiap bulan atau berapa lama musim kemarau diperkirakan berlangsung, jadi belum bisa dipastikan apakah selisih 8,84 meter itu benar-benar cukup sampai akhir tahun atau justru menipis lebih cepat dari perkiraan. Yang perlu ditunggu adalah hasil pemantauan berkala PAM JAYA dan PJT II selanjutnya, terutama jika musim kemarau berlangsung lebih panjang dari biasanya.",
+  "imageV": "mthi40cc"
+ },
+ {
+  "slug": "scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri",
+  "category": "Teknologi",
+  "title": "ScaleOcean Rilis ERP [Atlas] yang Ikuti Alur Kerja Industri",
+  "deck": "ScaleOcean meluncurkan Atlas, platform ERP yang dikonfigurasi mengikuti alur kerja masing-masing industri seperti manufaktur, distribusi, logistik, dan konstruksi, alih-alih memakai template baku.",
+  "image": "assets/img/scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:44:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463961-scaleocean-meluncurkan-scaleocean-atlas-erp-yang-mengikuti-cara-kerja-setiap-industri",
+  "tags": [
+   "ScaleOcean",
+   "ERP",
+   "software bisnis",
+   "digitalisasi industri"
+  ],
+  "body": [
+   "Perusahaan teknologi ScaleOcean meluncurkan produk barunya, ScaleOcean Atlas, sebuah sistem ERP atau perangkat lunak pengelolaan operasional perusahaan yang disusun berbeda dari kebanyakan produk sejenis. Alih-alih menjual satu sistem baku untuk semua jenis usaha, Atlas dikonfigurasi mengikuti proses kerja yang memang sudah berjalan di masing-masing perusahaan. Ini menjawab keluhan umum pengguna ERP, yaitu sistem generik yang justru butuh penyesuaian mahal dan sering gagal dipakai karena memaksa cara kerja seragam ke lapangan yang kondisinya berbeda-beda.",
+   "Alasan pendekatan ini, menurut ScaleOcean, karena alur kerja tiap sektor usaha memang tidak bisa disamakan satu sama lain. Perusahaan manufaktur punya kebutuhan yang jauh berbeda dari perusahaan logistik, begitu pula sektor konstruksi yang tidak bisa memakai logika bisnis distribusi barang. Perbedaan mendasar semacam ini yang dijadikan alasan mengapa sistem perlu dibangun spesifik per industri, bukan satu format untuk semua.",
+   "Dalam praktiknya, Atlas menyediakan rangkaian modul berbeda untuk tiap sektor. Untuk manufaktur, sistem menyambungkan perencanaan permintaan, proses produksi, kontrol kualitas, hingga perhitungan biaya dalam satu tempat. Untuk bisnis distribusi, modulnya menyelaraskan pengadaan barang, pengelolaan banyak gudang, dan pencatatan keuangan secara otomatis. Sektor logistik mendapat modul pengelolaan armada hingga penagihan biaya angkut, sementara sektor konstruksi mendapat modul manajemen proyek, subkontraktor, dan kontrol anggaran. Seluruh data dari berbagai modul ini tersimpan dalam satu sistem terpusat, sehingga manajemen bisa memantau kondisi perusahaan secara real time, sementara tiap divisi tetap memiliki akses sesuai kewenangannya masing-masing.",
+   "CEO ScaleOcean, Christopher Linkoln, mengatakan perusahaan besar membutuhkan lebih dari sekadar sistem yang lengkap fiturnya. Ia menyebut kebutuhan itu adalah teknologi yang memahami cara kerja industri penggunanya, bisa mengantisipasi kendala sebelum mengganggu operasional, dan mengubah data harian menjadi informasi yang bisa langsung dipakai untuk mengambil keputusan. Menurutnya, Atlas dibangun sebagai satu platform terintegrasi yang bisa terus disesuaikan dengan proses, skala, dan arah bisnis penggunanya, bukan perangkat lunak kaku yang memaksa bisnis menyesuaikan diri dengan sistem."
+  ],
+  "fotoAdegan": "Warehouse workers checking shelved inventory with handheld scanners while a forklift moves pallets nearby, industrial lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9591f0cc5b8-scaleocean-meluncurkan-scaleocean-atlas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah ScaleOcean merilis versi baru sistem ERP-nya bernama Atlas, dengan cara kerja yang dibalik dari kebiasaan umum: bukan perusahaan yang menyesuaikan diri dengan sistem, tapi sistem yang disusun mengikuti alur kerja yang sudah berjalan, dengan modul berbeda untuk empat sektor yang disebutkan, yaitu manufaktur, distribusi, logistik, dan konstruksi. Pihak yang berpotensi terdampak adalah perusahaan menengah-besar di keempat sektor itu yang sedang mempertimbangkan ganti atau upgrade sistem pengelolaan bisnisnya, mengingat investasi ERP biasanya menyangkut komitmen jangka panjang dan proses migrasi data yang tidak sebentar. Yang belum bisa disimpulkan dari pengumuman ini adalah seberapa besar sistem tersebut benar-benar terpakai di lapangan, sebab tidak ada angka jumlah klien, nilai kontrak, atau nama perusahaan pengguna yang disebutkan, semuanya masih berupa klaim peluncuran produk. Untuk menilai apakah pendekatan spesifik industri ini benar-benar diminati pasar, yang perlu ditunggu adalah kabar implementasi nyata atau klien yang mengumumkan penggunaan Atlas ke depannya.",
+  "imageV": "mthi40w2"
+ },
+ {
+  "slug": "ri-mulai-ekspor-beras-perdana-ke-malaysia",
+  "category": "Makroekonomi",
+  "title": "RI Mulai [Ekspor] Beras Perdana ke Malaysia",
+  "deck": "Indonesia mengirim 1.000 ton beras premium perdana ke Malaysia, dengan potensi diperluas hingga 200.000 ton senilai Rp3,4 triliun.",
+  "image": "assets/img/ri-mulai-ekspor-beras-perdana-ke-malaysia.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:27:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463957-ri-ekspor-beras-perdana-ke-malaysia-qodari-beberkan-nilai-fantastis-indonesia-semakin-berdaulat-dalam-pangan",
+  "tags": [
+   "ekspor beras",
+   "Malaysia",
+   "ketahanan pangan",
+   "Bakom"
+  ],
+  "body": [
+   "Indonesia menandatangani nota kesepahaman dengan Malaysia untuk mengekspor 1.000 ton beras premium sebagai tahap awal, dengan peluang diperluas hingga 200.000 ton bernilai sekitar Rp3,4 triliun. Kepala Badan Komunikasi Pemerintah (Bakom) RI, Muhammad Qodari, menyebut langkah ini sebagai perkembangan positif bagi sektor pangan nasional karena bertepatan dengan momentum peningkatan produksi dalam negeri.",
+   "Qodari menjelaskan, kenaikan produksi beras domestik menjadi dasar bagi Indonesia untuk mulai menjajaki pasar ekspor secara terukur. Ia mengutip proyeksi Organisasi Pangan dan Pertanian PBB (FAO) yang memperkirakan produksi beras Indonesia pada musim 2026/2027 mencapai 38,6 juta ton, naik 4,6 juta ton dibanding 34 juta ton pada 2024/2025. Dengan perkiraan konsumsi domestik sekitar 31 juta ton pada 2026, FAO juga menempatkan Indonesia sebagai produsen beras terbesar keempat dunia setelah India, Tiongkok, dan Bangladesh.",
+   "Pemerintah menegaskan ekspor ke Malaysia tidak akan mengganggu pemenuhan kebutuhan beras masyarakat Indonesia. Stok beras nasional saat ini tercatat sekitar 5,2 juta ton, jumlah yang menurut pemerintah cukup untuk menjaga ketersediaan hingga Mei 2027.",
+   "Meski begitu, Qodari mengingatkan bahwa peluang ekspor ini bukan tujuan akhir. Ia menyebut yang lebih penting adalah menjaga produktivitas berkelanjutan, memastikan harga dan pasokan tetap terjangkau bagi masyarakat, memperluas akses pasar, serta memastikan capaian ini benar-benar meningkatkan kesejahteraan petani."
+  ],
+  "fotoAdegan": "Warehouse workers stacking sacks of milled rice onto pallets near a cargo ship at an Indonesian port, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a8569744a311-kepala-bakom-muhammad-qodari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret baru pengiriman awal 1.000 ton beras premium ke Malaysia, sementara potensi hingga 200.000 ton senilai Rp3,4 triliun itu masih berupa peluang, bukan komitmen yang sudah pasti. Pihak yang langsung terkait adalah petani dan pelaku usaha penggilingan beras yang berharap ekspor ini jadi pasar tambahan, sementara pemerintah menjamin ekspor tidak akan mengurangi jatah konsumen dalam negeri karena stok nasional 5,2 juta ton diklaim cukup sampai Mei 2027. Ke depan ada dua kemungkinan arah, kalau produksi padi benar-benar naik sesuai perkiraan FAO menjadi 38,6 juta ton pada musim 2026/2027, ekspor berpeluang diperluas bertahap mendekati batas 200.000 ton, tapi kalau hasil panen sebenarnya meleset dari perkiraan itu atau kebutuhan dalam negeri ikut naik, ekspor kemungkinan besar tetap seukuran simbolis seperti pengiriman perdana ini. Yang akan menentukan mana yang terjadi adalah data realisasi produksi padi pada musim panen mendatang, serta ada tidaknya pengiriman lanjutan ke Malaysia setelah tahap 1.000 ton ini.",
+  "imageV": "mthi41ae"
+ },
+ {
+  "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
+  "category": "UMKM",
+  "title": "Summarecon Gelar Festival Kuliner [Serentak] di 4 Kota",
+  "deck": "Summarecon menggelar festival kuliner serentak di Kelapa Gading, Serpong, Bekasi, dan Bandung pada Agustus-September 2026, meneruskan tradisi 22 tahun yang juga jadi ajang bagi pelaku UMKM.",
+  "image": "assets/img/summarecon-gelar-festival-kuliner-serentak-di-4-kota.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:02:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463944-22-tahun-merawat-rasa-festival-kuliner-summarecon-hadir-serentak-di-empat-kota",
+  "tags": [
+   "Summarecon",
+   "Festival Kuliner",
+   "UMKM",
+   "Bekasi"
+  ],
+  "body": [
+   "Summarecon kembali menggelar festival kuliner tahunannya secara serentak di empat kota, yaitu Kelapa Gading, Serpong, Bekasi, dan Bandung, mulai Agustus hingga September 2026. Perhelatan ini meneruskan tradisi yang sudah berjalan 22 tahun dan kini dianggap relevan karena festival kuliner telah bergeser dari sekadar tempat makan menjadi bagian dari gaya hidup dan hiburan keluarga.",
+   "Tradisi ini bermula pada 2004 di Kelapa Gading, saat Summarecon berkolaborasi dengan Pemerintah Provinsi DKI Jakarta menggelar Festival Kuliner pertama. Konsep tersebut kemudian diperluas ke Serpong, Bekasi, dan Bandung dengan format serupa, yakni menggabungkan kuliner, hiburan, dan unsur budaya dalam satu lokasi.",
+   "Direktur Summarecon Soegianto Nagaria menyebut kuliner bukan sekadar soal rasa, melainkan juga menyimpan cerita dan identitas budaya masyarakat Indonesia. Ia berharap kekayaan kuliner itu tetap terjaga lintas generasi, sekaligus memberi ruang bagi pelaku usaha kuliner dan UMKM untuk mengembangkan bisnisnya lewat festival semacam ini.",
+   "Soegianto menambahkan, konsistensi penyelenggaraan selama lebih dari dua dekade ini diharapkan terus memberi manfaat, baik bagi masyarakat yang datang berkunjung maupun bagi pelaku usaha kuliner yang mengisi festival di keempat kota tersebut."
+  ],
+  "fotoAdegan": "Rows of open-air food stalls with grilled skewers and steaming pots at an evening culinary festival, visitors walking between tables",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9579cf5f5f9-summarecon-kembali-menghadirkan-festival-kuliner-secara-bersamaan-di-wilayah-kelapa-gading-serpong-bekasi-dan-bandung_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari edisi tahun ini adalah polanya, empat festival kuliner di Kelapa Gading, Serpong, Bekasi, dan Bandung digelar serentak sepanjang Agustus sampai September 2026, meneruskan tradisi yang dimulai Summarecon sejak 2004 bersama Pemprov DKI Jakarta. Pihak yang jelas terdampak adalah pelaku usaha kuliner dan UMKM di keempat kawasan itu, karena festival ini jadi salah satu panggung jualan musiman bagi mereka, selain warga sekitar yang datang sebagai pengunjung. Berita ini belum menyebut berapa jumlah pedagang yang ikut, target pengunjung, atau nilai transaksi yang diharapkan, jadi belum bisa disimpulkan apakah skala tahun ini lebih besar, sama, atau lebih kecil dibanding edisi-edisi sebelumnya. Yang perlu dicek untuk melihat arahnya adalah data resmi Summarecon soal jumlah tenant dan jumlah pengunjung setelah festival berlangsung di masing-masing kota.",
+  "imageV": "mthi41p7"
+ },
+ {
+  "slug": "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",
+  "category": "BUMN",
+  "title": "Telkom Solution [Bidik] Ekspansi B2B ICT ke Asia Pasifik",
+  "deck": "Telkom Solution memperkuat layanan B2B ICT terintegrasi, dari konektivitas hingga AI, untuk menyasar pelanggan korporat dan memperluas bisnis ke kawasan Asia Pasifik.",
+  "image": "assets/img/telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T18:44:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463938-telkom-solution-terus-perkuat-b2b-ict-bidik-pertumbuhan-bisnis-enterprise-di-kawasan-asia-pasifik",
+  "tags": [
+   "Telkom",
+   "AI",
+   "Teknologi",
+   "Enterprise"
+  ],
+  "body": [
+   "Telkom Solution, unit solusi digital milik PT Telkom Indonesia (Persero) Tbk, memperkuat lini bisnis teknologi informasi dan komunikasi (ICT) untuk pelanggan korporat atau business-to-business (B2B), dengan target memperluas pasar hingga ke kawasan Asia Pasifik. Langkah ini penting dicermati karena menandai upaya salah satu BUMN terbesar Indonesia bergeser dari sekadar penyedia jaringan telekomunikasi menjadi pemain solusi digital terintegrasi yang bersaing di pasar regional.",
+   "Direktur Enterprise & Business Service Telkom, Veranita Yosephine, menyebut Telkom Solution disiapkan menjadi pemain utama B2B ICT dari Indonesia ke Asia Tenggara dan Asia Pasifik. Layanan yang ditawarkan mencakup konektivitas jaringan, komputasi awan dan pusat data, keamanan siber, kecerdasan buatan, hingga solusi digital yang disesuaikan kebutuhan tiap sektor industri, yang digabungkan menjadi satu paket layanan menyeluruh alih-alih dijual terpisah.",
+   "Rencana ekspansi ini diperkenalkan dalam ajang Bali Annual Telkom International Conference (BATIC) 2026, lewat forum dan pameran bertajuk ignitePRO yang mempertemukan pelaku industri digital dan perusahaan dari berbagai negara. Ajang tersebut menjadi sarana Telkom Solution membuka peluang kerja sama bisnis dengan pelaku industri di kawasan, sekaligus memamerkan portofolio layanan yang sudah dikembangkan bersama TelkomGroup."
+  ],
+  "fotoAdegan": "Data center technicians in uniform inspecting server racks and cable trays, blue status lights glowing, angled away from camera",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9568a784855-telkom-solution-sebagai-penyedia-solusi-digital-terpadu-dari-pt-telkom-indonesia-persero-tbk-telkom-terus-mempertajam-kapabilitas-dan-ragam-layanannya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Telkom Solution mengemas ulang layanannya, dari sekadar jaringan internet dan telekomunikasi menjadi satu paket solusi digital yang mencakup komputasi awan, keamanan siber, dan kecerdasan buatan sekaligus, lalu memakainya untuk menyasar pelanggan korporat di luar Indonesia. Yang kena dampak langsung adalah pelanggan bisnis atau perusahaan yang selama ini memakai layanan Telkom, karena mereka akan ditawari paket layanan yang lebih terintegrasi dibanding sebelumnya. Berita ini belum menyebut angka konkret seperti target pendapatan, nilai kontrak, atau berapa persen pertumbuhan yang dibidik dari segmen ini, sehingga belum bisa dipastikan seberapa besar skala ekspansi yang sebenarnya dijalankan. Yang perlu ditunggu adalah apakah muncul pengumuman kerja sama bisnis konkret setelah ajang BATIC 2026 di Bali, atau angka kontribusi bisnis digital dan enterprise pada laporan keuangan Telkom berikutnya, karena itu yang akan menunjukkan apakah rencana ini benar berjalan atau baru sebatas pernyataan strategi.",
+  "imageV": "mthi424e"
+ },
+ {
+  "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
+  "category": "Pasar Modal",
+  "title": "IHSG [Turun] Tipis ke 6.509,77, Bank Besar Justru Menguat",
+  "deck": "IHSG ditutup melemah 0,13 persen ke 6.509,77 mengekor bursa Wall Street yang tertekan, tapi saham BBCA, BMRI, dan BBRI justru naik.",
+  "image": "assets/img/ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T16:32:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463905-ihsg-ditutup-merah-di-650977-saham-bank-besar-bergerak-beragam",
+  "tags": [
+   "IHSG",
+   "BBCA",
+   "Bursa Saham",
+   "Bank Besar"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup melemah 0,13 persen ke level 6.509,77 pada perdagangan Senin, 31 Agustus 2026. Pelemahan ini melanjutkan tren negatif yang sudah terlihat sejak sesi pertama, ketika indeks juga ditutup turun tipis 0,01 persen di 6.517,23, sehingga sepanjang hari IHSG gagal keluar dari zona merah.",
+   "Berdasarkan pergerakan grafik, IHSG bahkan sempat jatuh di bawah level 6.500 pada pagi hari sebelum berangsur naik menjelang siang. Namun pemulihan itu tidak cukup kuat untuk membawa indeks bertahan di teritori positif hingga penutupan. Tekanan turut datang dari bursa Amerika Serikat yang mayoritas melemah, dengan Dow Jones turun 0,018 persen, S&P 500 turun 0,25 persen, Nasdaq Composite turun 0,52 persen, dan Russell 2000 anjlok paling dalam sebesar 1,39 persen.",
+   "Di tengah pelemahan indeks secara keseluruhan, sejumlah saham berkapitalisasi besar justru menguat. Saham BBCA naik 75 poin ke Rp6.475, BMRI naik 40 poin ke Rp4.250, dan BBRI naik 40 poin ke Rp3.190. Penguatan juga terjadi pada EMAS yang naik 175 poin ke Rp9.300 dan DSSA yang naik 5 poin ke Rp1.145. Sebaliknya, BUMI turun 4 poin ke Rp190, CUAN turun 5 poin ke Rp810, INET turun 10 poin ke Rp340, dan KIJA turun 8 poin ke Rp210.",
+   "Pergerakan yang beragam ini menunjukkan pasar yang masih selektif, di mana penguatan saham-saham unggulan belum cukup mengangkat IHSG secara keseluruhan. Pelemahan awal pekan ini juga terjadi setelah periode rebalancing indeks MSCI yang sebelumnya sempat meningkatkan volatilitas pasar."
+  ],
+  "fotoAdegan": "Exterior of a modern bank branch tower in Jakarta's business district with commuters walking past, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/15/6a2fa9551b0c5-pengunjung-memotret-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan IHSG kali ini tergolong tipis, hanya 0,13 persen dan melanjutkan penurunan kecil di sesi pertama, meski bursa Amerika Serikat yang jadi acuan global tertekan lebih dalam, terutama saham-saham kecil di Russell 2000 yang turun 1,39 persen. Yang terdampak langsung adalah investor yang memegang portofolio saham secara luas, sementara pemegang saham bank besar seperti BBCA, BMRI, dan BBRI relatif diuntungkan karena ketiganya justru naik di tengah indeks yang merah. Ada dua kemungkinan arah memasuki September, pelemahan berlanjut karena tekanan dari bursa global masih berlangsung, atau justru mereda karena minat beli mulai kembali ke saham-saham bank besar seperti yang terlihat hari ini. Yang akan menentukan arah mana yang benar adalah pergerakan IHSG pada hari-hari awal September, terutama apakah level 6.500 masih bisa dipertahankan sebagai batas bawah setelah sempat ditembus pada sesi pagi ini.",
+  "imageV": "mthi42m8"
+ },
+ {
+  "slug": "telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt",
+  "category": "BUMN",
+  "title": "Telkom Akses Kerahkan [150] Teknisi Pulihkan Jaringan NTT",
+  "deck": "Pascagempa NTT, Telkom Akses menurunkan lebih dari 150 teknisi dan memulihkan jaringan telekomunikasi penuh dalam tiga hari di tengah medan rawan longsor.",
+  "image": "assets/img/telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T16:26:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463903-telkom-akses-terjunkan-150-teknisi-untuk-pulihkan-jaringan-pascagempa-ntt-layanan-siaga-24-jam",
+  "tags": [
+   "Telkom Akses",
+   "TelkomGroup",
+   "Gempa NTT",
+   "Pemulihan Jaringan"
+  ],
+  "body": [
+   "Sesaat setelah gempa mengguncang Nusa Tenggara Timur, PT Telkom Akses, anak usaha PT Telkom Indonesia Tbk, mengerahkan lebih dari 150 teknisi untuk memperbaiki infrastruktur jaringan telekomunikasi di wilayah terdampak. Langkah cepat ini penting karena akses komunikasi menjadi kebutuhan mendesak bagi warga saat situasi darurat pascabencana.",
+   "TelkomGroup menyatakan jaringan dan layanan digital di NTT berhasil pulih sepenuhnya hanya dalam tiga hari. Selama proses itu, tim teknisi harus menelusuri sumber gangguan sekaligus menghadapi medan yang berubah-ubah, akses jalan yang terbatas, dan potensi bahaya di sekitar lokasi kerja.",
+   "Tantangan paling berat ditemui di Ende, tempat sejumlah titik perbaikan berada di kawasan rawan longsor dan berdekatan dengan jurang. Sebelum menarik atau menyambung kabel, tim lebih dulu memeriksa kondisi lingkungan dan menentukan langkah kerja yang paling aman, mengikuti prinsip keselamatan kerja atau Health, Safety, and Environment yang mencakup pemakaian alat pelindung diri dan koordinasi antarpersonel.",
+   "Direktur Utama Telkom Akses Irphan Wijaya menyebut bahwa dalam kondisi bencana, konektivitas bukan lagi sekadar layanan tambahan melainkan kebutuhan penting bagi masyarakat. Ia menambahkan bahwa kecepatan pemulihan bergantung pada kesiapan personel, koordinasi operasional, dan kemampuan teknisi beradaptasi dengan kondisi lapangan yang terus berubah."
+  ],
+  "fotoAdegan": "Telecom technicians in high-visibility vests splicing fiber cables on a utility pole along a hillside road near a ravine, cloudy sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a95479482255-telkom-akses-terjunkan-150-teknisi-untuk-memulihkan-jaringan-pascagempa-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari peristiwa ini adalah kecepatan pemulihan: lebih dari 150 teknisi diturunkan dan jaringan telekomunikasi di NTT kembali normal dalam tiga hari, termasuk di titik sulit seperti Ende yang berada dekat jurang rawan longsor. Yang terdampak langsung adalah warga NTT yang sempat kehilangan akses komunikasi saat gempa, serta para teknisi lapangan yang bekerja di medan berbahaya dengan protokol keselamatan ketat. Berita ini belum menyebutkan skala kerusakan secara rinci, seperti berapa titik jaringan yang rusak atau berapa pelanggan yang sempat terputus, sehingga belum bisa dipastikan apakah respons secepat ini adalah standar baku TelkomGroup untuk setiap bencana atau penanganan khusus untuk kasus NTT. Yang perlu dicermati adalah apakah TelkomGroup nantinya merilis evaluasi kesiapan jaringan di daerah rawan bencana lain, karena itu akan menunjukkan apakah pola tanggap darurat semacam ini bergerak menjadi kebijakan tetap perusahaan.",
+  "imageV": "mthi430y"
+ },
+ {
   "slug": "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
   "category": "Moneter",
   "title": "BI dan Singapura [Aktifkan] Transaksi Rupiah-Dolar Singapura",
@@ -29,6 +271,32 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Yang berubah secara konkret adalah bank-bank yang ditunjuk Bank Indonesia dan MAS sekarang boleh menyelesaikan transaksi dagang dan investasi antara Indonesia dan Singapura langsung memakai rupiah dan dolar Singapura, tanpa harus mengonversi dulu ke dolar Amerika. Yang terdampak adalah eksportir, importir, dan investor yang bertransaksi dengan mitra di Singapura, karena mereka berpotensi menghemat biaya konversi ganda dan mengurangi paparan terhadap naik turunnya kurs dolar. Perjanjian ini diteken sejak Agustus 2022 tapi baru berjalan sekarang, empat tahun kemudian, sejalan dengan pola Bank Indonesia yang bertahap memperluas jaringan transaksi mata uang lokal dengan mitra dagang utama. Yang masih perlu dipantau adalah daftar lengkap bank pelaksana serta data seberapa banyak transaksi yang benar-benar berpindah dari dolar AS ke rupiah-dolar Singapura, karena kerangka serupa dengan negara lain tidak selalu langsung ramai dipakai pelaku usaha.",
   "imageV": "mth1cpu4"
+ },
+ {
+  "slug": "kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni",
+  "category": "Energi",
+  "title": "Kejagung [Sita] Rp401 M dalam Kasus Korupsi Nikel CNI",
+  "deck": "Penyidik Kejagung memeriksa 116 saksi dan 3 ahli, menyita 143 dokumen, serta mengamankan uang Rp401,65 miliar dalam kasus tata kelola nikel PT CNI.",
+  "image": "assets/img/kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T16:17:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463901-kejagung-periksa-116-saksi-dan-3-ahli-di-kasus-dugaan-korupsi-tata-kelola-nikel-pt-cni",
+  "tags": [
+   "Kejagung",
+   "PT CNI",
+   "korupsi nikel",
+   "Sulawesi Tenggara"
+  ],
+  "body": [
+   "Kejaksaan Agung mengungkap perkembangan penyidikan dugaan korupsi tata kelola komoditas nikel di PT Ceria Nugraha Indotama (CNI). Direktur Penyidikan Jampidsus Kejagung, Saiful Bahri Siregar, menyampaikan bahwa tim penyidik telah memeriksa 116 saksi dan 3 ahli dalam konferensi pers di Kejagung, Jakarta Selatan, Senin (31/8/2026).",
+   "Selain memeriksa saksi dan ahli, penyidik juga menyita 143 dokumen serta menggeledah sejumlah lokasi di Sulawesi Tenggara, Sulawesi Selatan, dan DKI Jakarta. Dari penyidikan ini, penyidik turut mengamankan uang senilai Rp401.653.737.496,69, atau setara Rp401,65 triliun rupiah dalam hitungan kasar publik namun secara resmi disebut Rp401,65 miliar oleh Kejagung.",
+   "Saiful menyebut angka tersebut sejalan dengan hasil perhitungan kerugian keuangan negara yang dikeluarkan Badan Pemeriksa Keuangan (BPK) terkait pengelolaan nikel di PT CNI. Kejagung belum menjelaskan lebih rinci status hukum pihak-pihak yang diperiksa dalam kasus ini."
+  ],
+  "fotoAdegan": "Wide shot of a nickel mine excavation site with heavy haul trucks moving red laterite soil under an overcast sky in Southeast Sulawesi",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9545ce2c33b-kejagung-gelar-konferensi-pers-kasus-dugaan-tipikor-pada-pt-cni-di-kantor-kejagung-jakarta-selatan-senin-3182026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari penyidikan ini adalah skalanya membesar: 116 saksi dan 3 ahli sudah diperiksa, 143 dokumen disita, dan uang Rp401,65 miliar, yakni jumlah yang menurut penghitungan Badan Pemeriksa Keuangan setara dengan kerugian negara akibat pengelolaan nikel di PT CNI, sudah diamankan penyidik. Pihak yang jelas terdampak adalah PT Ceria Nugraha Indotama beserta orang-orang di Sulawesi Tenggara, Sulawesi Selatan, dan Jakarta yang lokasinya digeledah dan yang diperiksa sebagai saksi. Kejagung sejauh ini belum mengumumkan siapa yang berstatus tersangka atau pasal apa yang disangkakan, jadi belum bisa dibaca apakah kasus ini akan berhenti di level korporasi atau menyeret individu tertentu. Yang perlu ditunggu adalah konferensi pers Kejagung berikutnya, karena penetapan tersangka di situlah yang akan menentukan ke mana arah kasus ini berikutnya.",
+  "imageV": "mthi447v"
  },
  {
   "slug": "anggaran-kemhan-2027-naik-jadi-rp189-triliun",

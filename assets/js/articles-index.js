@@ -5,6 +5,159 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
+  "category": "BUMN",
+  "title": "PGN Lewat BerandaMAS Kenalkan Hunian Berbasis [Energi]",
+  "deck": "PGNMAS, anak usaha PGN, memperkenalkan BerandaMAS, kawasan hunian berbasis gas bumi dan panel surya, dalam Danantara Housing Expo 2026 di PIK 2, Tangerang.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi.jpg",
+  "imageV": "mthi3zj8",
+  "tags": [
+   "BerandaMAS",
+   "PGN",
+   "PGNMAS",
+   "Danantara Housing Expo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463967-kenalkan-hunian-berbasis-energi-di-danantara-housing-expo-2026-begini-konsep-smart-home-berandamas"
+ },
+ {
+  "slug": "pertamina-gandeng-ibc-bangun-ekosistem-baterai",
+  "category": "Energi",
+  "title": "Pertamina Gandeng IBC Bangun Ekosistem [Baterai]",
+  "deck": "Pertamina teken MoU dengan IBC untuk menjajaki ekosistem baterai terintegrasi, dari BESS hingga daur ulang baterai, sebagai bagian ekspansi bisnis rendah karbon.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/pertamina-gandeng-ibc-bangun-ekosistem-baterai.jpg",
+  "imageV": "mthi3zxo",
+  "tags": [
+   "Pertamina",
+   "IBC",
+   "baterai",
+   "rendah karbon"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463963-perluas-peluang-bisnis-rendah-karbon-pertamina-teken-sinergi-pengembangan-ekosistem-baterai-dengan-pt-ibc"
+ },
+ {
+  "slug": "pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026",
+  "category": "BUMN",
+  "title": "PAM JAYA Pastikan Air Baku Jatiluhur [Aman] hingga 2026",
+  "deck": "PAM JAYA menyatakan pasokan air baku dari Waduk Jatiluhur masih aman untuk Jakarta hingga akhir 2026, meski muka air turun akibat kemarau.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026.jpg",
+  "imageV": "mthi40cc",
+  "tags": [
+   "PAM JAYA",
+   "Waduk Jatiluhur",
+   "air baku",
+   "kemarau"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463962-hadapi-musim-kemarau-pam-jaya-pastikan-air-baku-dari-waduk-jatiluhur-aman-hingga-akhir-2026"
+ },
+ {
+  "slug": "scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri",
+  "category": "Teknologi",
+  "title": "ScaleOcean Rilis ERP [Atlas] yang Ikuti Alur Kerja Industri",
+  "deck": "ScaleOcean meluncurkan Atlas, platform ERP yang dikonfigurasi mengikuti alur kerja masing-masing industri seperti manufaktur, distribusi, logistik, dan konstruksi, alih-alih memakai template baku.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri.jpg",
+  "imageV": "mthi40w2",
+  "tags": [
+   "ScaleOcean",
+   "ERP",
+   "software bisnis",
+   "digitalisasi industri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463961-scaleocean-meluncurkan-scaleocean-atlas-erp-yang-mengikuti-cara-kerja-setiap-industri"
+ },
+ {
+  "slug": "ri-mulai-ekspor-beras-perdana-ke-malaysia",
+  "category": "Makroekonomi",
+  "title": "RI Mulai [Ekspor] Beras Perdana ke Malaysia",
+  "deck": "Indonesia mengirim 1.000 ton beras premium perdana ke Malaysia, dengan potensi diperluas hingga 200.000 ton senilai Rp3,4 triliun.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/ri-mulai-ekspor-beras-perdana-ke-malaysia.jpg",
+  "imageV": "mthi41ae",
+  "tags": [
+   "ekspor beras",
+   "Malaysia",
+   "ketahanan pangan",
+   "Bakom"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463957-ri-ekspor-beras-perdana-ke-malaysia-qodari-beberkan-nilai-fantastis-indonesia-semakin-berdaulat-dalam-pangan"
+ },
+ {
+  "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
+  "category": "UMKM",
+  "title": "Summarecon Gelar Festival Kuliner [Serentak] di 4 Kota",
+  "deck": "Summarecon menggelar festival kuliner serentak di Kelapa Gading, Serpong, Bekasi, dan Bandung pada Agustus-September 2026, meneruskan tradisi 22 tahun yang juga jadi ajang bagi pelaku UMKM.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/summarecon-gelar-festival-kuliner-serentak-di-4-kota.jpg",
+  "imageV": "mthi41p7",
+  "tags": [
+   "Summarecon",
+   "Festival Kuliner",
+   "UMKM",
+   "Bekasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463944-22-tahun-merawat-rasa-festival-kuliner-summarecon-hadir-serentak-di-empat-kota"
+ },
+ {
+  "slug": "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",
+  "category": "BUMN",
+  "title": "Telkom Solution [Bidik] Ekspansi B2B ICT ke Asia Pasifik",
+  "deck": "Telkom Solution memperkuat layanan B2B ICT terintegrasi, dari konektivitas hingga AI, untuk menyasar pelanggan korporat dan memperluas bisnis ke kawasan Asia Pasifik.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik.jpg",
+  "imageV": "mthi424e",
+  "tags": [
+   "Telkom",
+   "AI",
+   "Teknologi",
+   "Enterprise"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463938-telkom-solution-terus-perkuat-b2b-ict-bidik-pertumbuhan-bisnis-enterprise-di-kawasan-asia-pasifik"
+ },
+ {
+  "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
+  "category": "Pasar Modal",
+  "title": "IHSG [Turun] Tipis ke 6.509,77, Bank Besar Justru Menguat",
+  "deck": "IHSG ditutup melemah 0,13 persen ke 6.509,77 mengekor bursa Wall Street yang tertekan, tapi saham BBCA, BMRI, dan BBRI justru naik.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat.jpg",
+  "imageV": "mthi42m8",
+  "tags": [
+   "IHSG",
+   "BBCA",
+   "Bursa Saham",
+   "Bank Besar"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463905-ihsg-ditutup-merah-di-650977-saham-bank-besar-bergerak-beragam"
+ },
+ {
+  "slug": "telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt",
+  "category": "BUMN",
+  "title": "Telkom Akses Kerahkan [150] Teknisi Pulihkan Jaringan NTT",
+  "deck": "Pascagempa NTT, Telkom Akses menurunkan lebih dari 150 teknisi dan memulihkan jaringan telekomunikasi penuh dalam tiga hari di tengah medan rawan longsor.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt.jpg",
+  "imageV": "mthi430y",
+  "tags": [
+   "Telkom Akses",
+   "TelkomGroup",
+   "Gempa NTT",
+   "Pemulihan Jaringan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463903-telkom-akses-terjunkan-150-teknisi-untuk-pulihkan-jaringan-pascagempa-ntt-layanan-siaga-24-jam"
+ },
+ {
   "slug": "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
   "category": "Moneter",
   "title": "BI dan Singapura [Aktifkan] Transaksi Rupiah-Dolar Singapura",
@@ -21,6 +174,23 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817526.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni",
+  "category": "Energi",
+  "title": "Kejagung [Sita] Rp401 M dalam Kasus Korupsi Nikel CNI",
+  "deck": "Penyidik Kejagung memeriksa 116 saksi dan 3 ahli, menyita 143 dokumen, serta mengamankan uang Rp401,65 miliar dalam kasus tata kelola nikel PT CNI.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni.jpg",
+  "imageV": "mthi447v",
+  "tags": [
+   "Kejagung",
+   "PT CNI",
+   "korupsi nikel",
+   "Sulawesi Tenggara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463901-kejagung-periksa-116-saksi-dan-3-ahli-di-kasus-dugaan-korupsi-tata-kelola-nikel-pt-cni"
  },
  {
   "slug": "anggaran-kemhan-2027-naik-jadi-rp189-triliun",
@@ -6340,166 +6510,6 @@ var ARTICLES = [
    "transaksi insider"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6111-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arti-tanggapi-bursa-soal-gugatan-beruntun-derek-prabu-maras",
-  "category": "Aksi Korporasi",
-  "title": "ARTI Tanggapi Bursa Soal [Gugatan] Beruntun Derek Prabu Maras",
-  "deck": "Ratu Prabu Energi (ARTI) menjawab permintaan penjelasan Bursa terkait rentetan gugatan Derek Prabu Maras, termasuk satu permohonan pailit yang masih berjalan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTI",
-   "Ratu Prabu Energi",
-   "gugatan hukum",
-   "pailit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a781501f8_bb3be5d5dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-jadwalkan-rupslb-pada-28-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "DGWG Jadwalkan [RUPSLB] pada 28 September 2026",
-  "deck": "Delta Giri Wacana Tbk mengumumkan rencana RUPSLB pada 28 September 2026, dengan daftar pemegang saham berhak hadir ditutup 3 September 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "RUPSLB",
-   "Delta Giri Wacana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14f8f39197_af483c4a69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrei-beber-dampak-insiden-siber-ke-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "MREI Beber Dampak Insiden Siber ke Laporan [Keuangan]",
-  "deck": "Dalam public expose, MREI mengungkap insiden siber akhir 2025 menambah biaya digital forensik dan capex TI, serta memaksa penyusunan ulang laporan keuangan auditan 2025.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MREI",
-   "asuransi",
-   "insiden siber",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/288008132d_0e2e716dcf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jgle-gelar-rupslb-ketiga-usai-dua-kali-gagal-kuorum",
-  "category": "Aksi Korporasi",
-  "title": "JGLE Gelar RUPSLB Ketiga usai Dua Kali Gagal [Kuorum]",
-  "deck": "RUPSLB ketiga JGLE dijadwalkan 1 September 2026 setelah dua rapat sebelumnya gagal capai kuorum, dengan agenda tunggal penyesuaian klasifikasi usaha ke KBLI 2025.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JGLE",
-   "RUPSLB",
-   "KBLI 2025",
-   "kuorum"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e10c119c26_dd2a1a1a74.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "good-komisaris-sudhamek-tambah-6-79-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "GOOD: Komisaris Sudhamek [Tambah] 6,79 Juta Saham",
-  "deck": "Komisaris Garudafood, Sudhamek Agoeng Waspodo, menambah 6,79 juta saham GOOD senilai sekitar Rp2,72 miliar pada 13 Agustus 2026, menaikkan hak suaranya tipis dari 8,83 persen menjadi 8,85 persen.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOOD",
-   "Garudafood",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-4297-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-ubah-jadwal-rupslb-jadi-23-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Ubah Jadwal [RUPSLB] Jadi 23 September 2026",
-  "deck": "Solusi Sinergi Digital menunda RUPSLB dari 11 menjadi 23 September 2026, dengan batas pencatatan pemegang saham yang berhak hadir pada 31 Agustus 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "RUPSLB",
-   "jadwal rapat",
-   "Solusi Sinergi Digital"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9d1237cc57_e8bd840faf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekad-jawab-bursa-tak-ada-kabar-baru-selain-loi-akuisisi",
-  "category": "Aksi Korporasi",
-  "title": "EKAD Jawab Bursa: Tak Ada Kabar Baru Selain LOI [Akuisisi]",
-  "deck": "EKAD menegaskan ke Bursa bahwa volatilitas transaksi terkait LOI akuisisi ekuitas yang sudah diumumkan 12 Agustus, dan tak ada aksi korporasi baru dalam tiga bulan ke depan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EKAD",
-   "Ekadharma International",
-   "akuisisi ekuitas",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f5beed1b2_36196314e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meja-bantah-simpan-info-material-soal-gejolak-saham",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Bantah Simpan Info Material soal [Gejolak] Saham",
-  "deck": "MEJA menjawab permintaan BEI soal volatilitas sahamnya, menegaskan tidak ada fakta material tersembunyi dan rencana akuisisi Trimata Coal Perkasa masih sesuai pengumuman sebelumnya.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "akuisisi tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7251677d1c_2174c27336.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pege-hak-suara-pemegang-saham-turun-ke-6-8-usai-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "PEGE: Hak Suara Pemegang Saham Turun ke 6,8% Usai [Rights Issue]",
-  "deck": "PT Mandiri Terang Harapan melaporkan hak suaranya di PEGE turun dari 9,06% menjadi 6,80% setelah rights issue menambah saham beredar, meski jumlah saham yang dipegangnya tidak berubah.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEGE",
-   "Panca Global Kapital",
-   "rights issue",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-5966-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "best-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BEST Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Bekasi Fajar Industrial Estate menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material maupun rencana aksi korporasi yang belum diungkap.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEST",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ca2ba171f2_9603b16cd4.pdf",
   "sourceLabel": "IDX"
  }
 ];

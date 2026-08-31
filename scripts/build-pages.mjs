@@ -1543,7 +1543,7 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
 }
 
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA });
+bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------

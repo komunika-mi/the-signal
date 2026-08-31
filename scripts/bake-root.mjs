@@ -319,7 +319,8 @@ function stripBps(BPS) {
   return sel.join('');
 }
 
-// Panel Signal Harian di puncak beranda.
+// Panel edisi di puncak beranda: Signal Harian ATAU Signal Mingguan, mana
+// pun yang paling baru.
 //
 // Isinya pembacaan arah, dan itu yang membedakan situs ini dari portal berita
 // mana pun. Sebelumnya cuma tertaut dari menu, sehingga pengunjung beranda
@@ -329,18 +330,65 @@ function stripBps(BPS) {
 // edisi terakhir LENGKAP DENGAN TANGGALNYA. Menyembunyikannya sampai sore
 // berarti separuh hari beranda kehilangan bagian terpentingnya, dan tanggal
 // yang jujur lebih baik daripada kekosongan.
-function panelHarian(HARIAN) {
-  if (!HARIAN || !HARIAN.judul) return '';
-  const benang = (HARIAN.benang || []).slice(0, 3);
-  return '<a class="sinyal-panel" href="/signal-harian.html">' +
+//
+// Panel ini dulu SELALU Signal Harian, dan itu bocor tiap akhir pekan. Signal
+// Harian ditulis pada hari bursa saja, jadi sejak Sabtu sampai Senin siang
+// yang terpampang di puncak beranda adalah edisi Jumat. Diperiksa 31 Agustus
+// 2026 pukul 12.10 WIB: beranda memajang "Jumat, 28 Agustus 2026" padahal
+// Signal Mingguan 30 Agustus sudah terbit dan justru edisi yang paling pas
+// dibaca pada hari Senin. Datanya sudah ada di assets/js/pekanan.js sejak
+// lama; yang tidak ada cuma jalannya ke sini, karena bakeRoot tidak pernah
+// dioper PEKANAN.
+//
+// Aturannya sengaja "yang paling baru menang", bukan "mingguan pada akhir
+// pekan". Aturan berbasis hari akan salah tiap kali salah satu pipeline
+// telat atau bolong, sedangkan tanggal edisi selalu berkata jujur: begitu
+// Signal Harian hari ini terbit, ia otomatis mengambil alih lagi.
+function panelEdisi(HARIAN, PEKANAN) {
+  // Dua bentuk data yang beda nama field disatukan di sini, bukan di dua
+  // fungsi kembar: tampilannya memang harus identik, dan menduplikasi
+  // markup-nya berarti dua tempat yang bisa berbeda diam-diam.
+  const calon = [];
+  if (HARIAN && HARIAN.judul) {
+    calon.push({
+      tag: 'Signal Harian', tuju: '/signal-harian.html',
+      tanggal: HARIAN.tanggal || '', dibuat: HARIAN.dibuat || '',
+      label: HARIAN.tanggalLabel || '',
+      judul: HARIAN.judul, ringkas: HARIAN.ringkas || '',
+      butir: HARIAN.benang || [],
+    });
+  }
+  if (PEKANAN && PEKANAN.judul) {
+    calon.push({
+      tag: 'Signal Mingguan', tuju: '/signal-mingguan.html',
+      tanggal: PEKANAN.tanggal || '', dibuat: PEKANAN.dibuat || '',
+      // Mingguan menyebut rentang, bukan satu hari, dan itu memang yang
+      // benar untuk dibaca: "24 Agustus - 30 Agustus 2026".
+      label: PEKANAN.rentangLabel || '',
+      judul: PEKANAN.judul, ringkas: PEKANAN.ringkas || '',
+      butir: PEKANAN.pola || [],
+    });
+  }
+  if (!calon.length) return '';
+
+  // Tanggal edisi lebih dulu karena itu yang dilihat pembaca. `dibuat` cuma
+  // pemutus kalau tanggalnya sama persis, keadaan yang belum pernah terjadi
+  // (harian ditulis pada hari bursa, mingguan pada Sabtu) tapi murah dijaga.
+  calon.sort((a, b) =>
+    (b.tanggal || '').localeCompare(a.tanggal || '') ||
+    (b.dibuat || '').localeCompare(a.dibuat || ''));
+  const e = calon[0];
+
+  const butir = (e.butir || []).slice(0, 3);
+  return '<a class="sinyal-panel" href="' + e.tuju + '">' +
     '<div class="sinyal-kepala">' +
-      '<span class="sinyal-tag">Signal Harian</span>' +
-      '<span class="sinyal-tanggal num">' + esc(HARIAN.tanggalLabel || '') + '</span>' +
+      '<span class="sinyal-tag">' + esc(e.tag) + '</span>' +
+      '<span class="sinyal-tanggal num">' + esc(e.label) + '</span>' +
     '</div>' +
-    '<h2 class="sinyal-judul">' + esc(plain(HARIAN.judul)) + '</h2>' +
-    '<p class="sinyal-ringkas">' + esc(HARIAN.ringkas || '') + '</p>' +
-    (benang.length
-      ? '<ul class="sinyal-benang">' + benang.map((b, i) =>
+    '<h2 class="sinyal-judul">' + esc(plain(e.judul)) + '</h2>' +
+    '<p class="sinyal-ringkas">' + esc(e.ringkas) + '</p>' +
+    (butir.length
+      ? '<ul class="sinyal-benang">' + butir.map((b, i) =>
           '<li><span class="num">' + String(i + 1).padStart(2, '0') + '</span>' +
           esc(b.judul) + '</li>').join('') + '</ul>'
       : '') +
@@ -376,7 +424,7 @@ function jsonLdSitus(...tambahan) {
     .join(String.fromCharCode(10));
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
+export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -422,8 +470,10 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, AGENDA }) {
       '<a class="video-more" href="video.html">Lihat semua video &rarr;</a>' +
     '</div>', 'index.html');
 
-  const harian = panelHarian(HARIAN);
-  if (harian) idx = ganti(idx, 'harian', harian, 'index.html');
+  // Penanda di index.html tetap bernama 'harian' supaya berkasnya tidak perlu
+  // ikut diubah; isinya kini bisa harian atau mingguan, mana yang lebih baru.
+  const edisi = panelEdisi(HARIAN, PEKANAN);
+  if (edisi) idx = ganti(idx, 'harian', edisi, 'index.html');
 
   const strip = stripBps(BPS);
   if (strip) idx = ganti(idx, 'bpsstrip', strip, 'index.html');

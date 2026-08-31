@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22",
+  "category": "Aksi Korporasi",
+  "title": "PSAB: Laba [Melonjak] Usai Lepas Anak Usaha, Aset Turun 22%",
+  "deck": "Laba PSAB melonjak pada semester I 2026 setelah mencatat untung pelepasan anak usaha US$298,6 juta, sementara total aset turun 22 persen dan total utang turun 45 persen dibanding akhir 2025.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "laporan keuangan",
+   "pertambangan emas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/375ef73ba5_f4070dfcdb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCI: Laba Bersih [Melonjak] Tiga Kali Lipat di Semester I 2026",
+  "deck": "Laba bersih Intanwijaya Internasional naik dari Rp8,5 miliar menjadi Rp27,8 miliar pada semester I 2026, meski utang usaha turut melonjak lebih dari 20 persen dipicu kenaikan pembelian bahan baku.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCI",
+   "Intanwijaya Internasional",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901000424-64332-0/FinancialStatement-2026-II-INCI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tama-catat-ekuitas-negatif-usai-rugi-rp96-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TAMA Catat Ekuitas [Negatif] Usai Rugi Rp96,6 Miliar",
+  "deck": "Ekuitas TAMA berbalik negatif Rp61,98 miliar pada semester I 2026 setelah rugi bersih melonjak jadi Rp96,64 miliar, dipicu beban lain-lain dan penurunan nilai properti investasi.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMA",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dee9c52fc9_ef5836dc7d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AISA Tanggapi Bursa, Ungkap Nasib Dana [KPK] Rp150 Miliar",
+  "deck": "FKS Food Sejahtera (AISA) menjawab permintaan penjelasan BEI soal kuasi reorganisasi, lonjakan piutang dan persediaan, dana Rp150 miliar di rekening KPK, hingga covenant utang bank sindikasi.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AISA",
+   "FKS Food Sejahtera",
+   "Bursa Efek Indonesia",
+   "Kuasi Reorganisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99d015ba68_0498c38a3b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
   "category": "BUMN",
   "title": "PGN Lewat BerandaMAS Kenalkan Hunian Berbasis [Energi]",
@@ -73,6 +137,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463961-scaleocean-meluncurkan-scaleocean-atlas-erp-yang-mengikuti-cara-kerja-setiap-industri"
  },
  {
+  "slug": "laba-dooh-melonjak-9-5-kali-ditopang-pos-nonoperasional",
+  "category": "Aksi Korporasi",
+  "title": "Laba DOOH [Melonjak] 9,5 Kali, Ditopang Pos Nonoperasional",
+  "deck": "Laba bersih DOOH naik jadi Rp63,3 miliar pada semester I 2026, tapi operasi inti justru merugi Rp12,7 miliar akibat beban pokok pendapatan yang melonjak.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "Era Media Sejahtera",
+   "pelepasan anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831215015-64248-0/FinancialStatement-2026-II-DOOH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-mulai-ekspor-beras-perdana-ke-malaysia",
   "category": "Makroekonomi",
   "title": "RI Mulai [Ekspor] Beras Perdana ke Malaysia",
@@ -88,6 +168,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463957-ri-ekspor-beras-perdana-ke-malaysia-qodari-beberkan-nilai-fantastis-indonesia-semakin-berdaulat-dalam-pangan"
+ },
+ {
+  "slug": "untr-laba-semester-i-2026-anjlok-91-persen-jadi-rp742-miliar",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Semester I 2026 [Anjlok] 91 Persen jadi Rp742 Miliar",
+  "deck": "United Tractors membukukan laba bersih Rp742 miliar pada semester I 2026, anjlok dari Rp8,37 triliun tahun lalu akibat kerugian penurunan nilai investasi.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "laba bersih",
+   "laporan keuangan",
+   "United Tractors"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831213953-64286-0/FinancialStatement-2026-II-UNTR.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham KMDS. Manajemen menjawab tidak ada informasi atau rencana korporasi material yang belum diungkapkan.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KMDS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7937a4ea43_66711afe97.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cash-koreksi-laporan-keuangan-ekuitas-negatif-rp449-juta",
+  "category": "Aksi Korporasi",
+  "title": "CASH koreksi laporan keuangan, ekuitas [negatif] Rp449 juta",
+  "deck": "Cashlez merevisi laporan keuangan audited 2025, mengungkap rugi Rp56,6 miliar dan ekuitas negatif Rp449,5 juta akibat liabilitas yang melonjak 86 persen.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "Cashlez Worldwide Indonesia",
+   "laporan keuangan",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260831203125-64344-0/FinancialStatement-2025-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
@@ -6382,134 +6510,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-7047-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-nyatakan-siap-bayar-pokok-obligasi-rp600-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SMII Nyatakan [Siap] Bayar Pokok Obligasi Rp600 Miliar",
-  "deck": "PT Sarana Multi Infrastruktur (SMII) menyatakan kesiapan dana Rp600 miliar untuk melunasi pokok Obligasi Berkelanjutan III Tahap IV Seri B yang jatuh tempo 14 Desember 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/smii-nyatakan-siap-bayar-pokok-obligasi-rp600-miliar.jpg",
-  "tags": [
-   "SMII",
-   "obligasi korporasi",
-   "Sarana Multi Infrastruktur",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f77dd72333_db3c579161.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beer-bantah-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BEER Bantah Ada [Informasi Material] di Balik Volatilitas Saham",
-  "deck": "BEER menjawab surat BEI soal lonjakan volatilitas transaksi sahamnya, menyatakan tidak ada informasi material tersembunyi dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/beer-bantah-ada-informasi-material-di-balik-volatilitas-saham.jpg",
-  "tags": [
-   "BEER",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/65871e8533_867ace482d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smii-siap-bayar-obligasi-rp2-5-triliun-jatuh-tempo-desember",
-  "category": "Aksi Korporasi",
-  "title": "SMII Siap Bayar [Obligasi] Rp2,5 Triliun Jatuh Tempo Desember",
-  "deck": "SMII menyatakan kesiapan dana melunasi obligasi Rp800 miliar dan sukuk mudharabah Rp1,7 triliun, total Rp2,5 triliun, jatuh tempo 7 Desember 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/smii-siap-bayar-obligasi-rp2-5-triliun-jatuh-tempo-desember.jpg",
-  "tags": [
-   "SMII",
-   "obligasi",
-   "sukuk mudharabah",
-   "BUMN infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7a7f2c109b_c34cd3abc8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "port-balas-surat-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "PORT Balas Surat BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "BEI meminta penjelasan PORT atas lonjakan transaksi saham pada 18 Agustus 2026. Perseroan menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/port-balas-surat-bei-soal-volatilitas-transaksi-saham.jpg",
-  "tags": [
-   "PORT",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/47bc119270_a3ba09e535.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-asia-intrainvesta-jual-750-juta-saham-hak-suara-ke-27-69",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ: Asia Intrainvesta [jual] 750 juta saham, hak suara ke 27,69%",
-  "deck": "Asia Intrainvesta melepas 750 juta saham NAYZ ke Saiko senilai Rp17,6 miliar pada 19 Agustus 2026, memangkas hak suaranya dari 57,10% menjadi 27,69% dan melepas status pengendali.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/nayz-asia-intrainvesta-jual-750-juta-saham-hak-suara-ke-27-69.jpg",
-  "tags": [
-   "NAYZ",
-   "kepemilikan saham",
-   "Asia Intrainvesta",
-   "perubahan pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-4519-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "swat-panggil-rups-tahunan-agenda-cuma-satu-item",
-  "category": "Aksi Korporasi",
-  "title": "SWAT Panggil RUPS Tahunan, [Agenda] Cuma Satu Item",
-  "deck": "Direksi SWAT mengundang RUPS Tahunan pada 11 September 2026 di Solo, dengan agenda tunggal pengesahan laporan tahunan dan keuangan 2025 serta pembebasan tanggung jawab direksi-komisaris.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWAT",
-   "RUPS Tahunan",
-   "laporan keuangan",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4939aa1bf1_56a6e6e93f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sola-konfirmasi-margin-laba-kotor-terus-tergerus-hingga-2027",
-  "category": "Aksi Korporasi",
-  "title": "SOLA Konfirmasi Margin Laba Kotor Terus [Tergerus] hingga 2027",
-  "deck": "SOLA menjawab permintaan penjelasan BEI soal piutang naik 86,96%, margin laba yang terus tergerus, rugi bersih, dan utang jangka pendek Rp22 miliar akibat pelanggan besar telat bayar.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/sola-konfirmasi-margin-laba-kotor-terus-tergerus-hingga-2027.jpg",
-  "tags": [
-   "SOLA",
-   "Xolare RCR Energy",
-   "keterbukaan informasi",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d4b4a9fb61_6bc03336a5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trja-direksi-jual-nyaris-separuh-sahamnya-di-tengah-sorotan-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TRJA: Direksi [Jual] Nyaris Separuh Sahamnya di Tengah Sorotan Bursa",
-  "deck": "Direksi TRJA R Hesthi Sambodo melepas 500.000 saham secara tidak langsung pada 11 Agustus, memangkas kepemilikannya hampir separuh menjadi 453.800 lembar saham.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/trja-direksi-jual-nyaris-separuh-sahamnya-di-tengah-sorotan-bursa.jpg",
-  "tags": [
-   "TRJA",
-   "Transkon Jaya",
-   "kepemilikan saham direksi",
-   "transaksi insider"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6111-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

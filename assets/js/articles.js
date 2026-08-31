@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22",
+  "category": "Aksi Korporasi",
+  "title": "PSAB: Laba [Melonjak] Usai Lepas Anak Usaha, Aset Turun 22%",
+  "deck": "Laba PSAB melonjak pada semester I 2026 setelah mencatat untung pelepasan anak usaha US$298,6 juta, sementara total aset turun 22 persen dan total utang turun 45 persen dibanding akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T00:05:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/375ef73ba5_f4070dfcdb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "laporan keuangan",
+   "pertambangan emas"
+  ],
+  "body": [
+   "J Resources Asia Pasifik Tbk (PSAB) menyampaikan laporan keuangan konsolidasian interim untuk semester I 2026 yang telah ditelaah secara terbatas oleh Kantor Akuntan Publik Mirawati Sensi Idris, anggota jaringan Moore Global. Laporan ditandatangani secara elektronik oleh Corporate Secretary Edi Permadi dan diserahkan ke Bursa Efek Indonesia pada 1 September 2026. Penjualan perusahaan tercatat US$160,6 juta pada semester I 2026, naik dari US$140,3 juta pada periode yang sama tahun lalu, sementara total ekuitas per 30 Juni 2026 sebesar US$435,5 juta.",
+   "Laba kotor PSAB naik menjadi US$141,7 juta dari US$88 juta. Kenaikan laba bersih yang jauh lebih besar, dari US$29,4 juta menjadi US$186,6 juta, terutama didorong oleh keuntungan satu kali dari pelepasan salah satu entitas anak senilai US$298,6 juta. Laba per saham pun melonjak menjadi US$0,0067 dari US$0,0007. Namun di sisi lain, perusahaan juga mencatat beban penurunan nilai sebesar US$25 juta pada properti pertambangan dan US$59,6 juta pada aset tetap, serta beban amortisasi dan penghapusan aset yang melonjak menjadi US$105,6 juta dari US$7,5 juta pada periode yang sama tahun lalu.",
+   "Dalam surat terpisah tertanggal 31 Agustus 2026 kepada BEI, PSAB menjelaskan perubahan lebih dari 20 persen pada total aset dan liabilitasnya sesuai Peraturan BEI Nomor I-E. Total liabilitas turun 45 persen dari US$367 juta menjadi US$201,4 juta karena pelunasan sebagian besar utang jangka panjang, termasuk pinjaman bank jangka panjang yang menyusut dari US$95,9 juta menjadi US$10,6 juta dan pinjaman dari pihak berelasi sebesar US$38,2 juta yang kini lunas seluruhnya. Total aset turun 22 persen dari US$821,6 juta menjadi US$636,9 juta, yang menurut perusahaan disebabkan oleh pelepasan salah satu anak usaha, pembayaran utang, pembagian dividen tunai, dan penyesuaian nilai aset tidak lancar. Posisi kas dan setara kas perusahaan juga menyusut dari US$26,4 juta menjadi US$17,1 juta, sementara pos investasi melonjak dari US$3,3 juta menjadi US$195,4 juta."
+  ],
+  "fotoAdegan": "Heavy excavators loading gold ore onto haul trucks at a dusty open-pit mine under bright daylight",
+  "takeaway": "Laporan ini condong netral dengan nuansa campuran: lonjakan laba PSAB yang tampak besar sebagian besar berasal dari untung satu kali pelepasan anak usaha senilai US$298,6 juta, bukan perbaikan penjualan atau efisiensi operasional, sehingga tidak bisa dibaca sebagai sinyal perbaikan kinerja inti yang berkelanjutan. Yang tersentuh di sini adalah ekuitas, laba per saham, dan beban penurunan nilai aset atau impairment, yaitu pencatatan akuntansi ketika nilai suatu aset dinilai lebih rendah dari nilai bukunya; PSAB membukukan penurunan nilai gabungan sekitar US$84,6 juta pada properti pertambangan dan aset tetap, yang membuat ekuitas totalnya nyaris tidak bergerak meski ada untung besar dari pelepasan anak usaha. Di sisi positif, penurunan utang sebesar 45 persen mengurangi beban bunga dan risiko keuangan perusahaan ke depan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah penjualan dan laba kotor PSAB bisa terus tumbuh tanpa bantuan pos-pos tidak berulang seperti pada semester ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "INCI: Laba Bersih [Melonjak] Tiga Kali Lipat di Semester I 2026",
+  "deck": "Laba bersih Intanwijaya Internasional naik dari Rp8,5 miliar menjadi Rp27,8 miliar pada semester I 2026, meski utang usaha turut melonjak lebih dari 20 persen dipicu kenaikan pembelian bahan baku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T23:53:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901000424-64332-0/FinancialStatement-2026-II-INCI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCI",
+  "tags": [
+   "INCI",
+   "Intanwijaya Internasional",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Intanwijaya Internasional Tbk (INCI) menyampaikan laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan. Laporan ini telah direviu secara terbatas oleh Kantor Akuntan Publik Arman Eddy Ferdinand dan Rekan, dengan partner penanggung jawab Eddy Pianto Simon, dan hasilnya adalah kesimpulan reviu tanpa modifikasian alias tidak ditemukan hal yang membuat akuntan meragukan kewajaran laporan. Total aset perusahaan naik dari Rp559,13 miliar pada akhir 2025 menjadi Rp603,56 miliar per 30 Juni 2026.",
+   "Perusahaan juga mengirim surat khusus ke bursa dan OJK karena total liabilitasnya naik lebih dari 20 persen, ambang batas yang mewajibkan penjelasan tambahan sesuai Peraturan Nomor 1-E. Total liabilitas tercatat Rp99,98 miliar per 30 Juni 2026, naik Rp19,32 miliar atau 23,95 persen dari Rp80,67 miliar per akhir 2025. Manajemen menjelaskan kenaikan itu terutama berasal dari utang usaha ke pihak ketiga yang naik dari Rp62,18 miliar menjadi Rp82,86 miliar, atau bertambah Rp20,75 miliar setara 33,41 persen, karena fluktuasi harga bahan baku dan pembelian yang mendekati tanggal cut off pelaporan.",
+   "Di sisi kinerja usaha, penjualan neto naik dari Rp169,12 miliar pada semester I 2025 menjadi Rp235,20 miliar pada semester I 2026, mendorong laba kotor naik dari Rp33,44 miliar menjadi Rp50,27 miliar. Laba bersih yang menjadi hak pemilik perusahaan melonjak dari Rp8,54 miliar menjadi Rp27,78 miliar, dengan laba per saham dasar naik dari Rp41 menjadi Rp134. Ekuitas perusahaan bertambah dari Rp478,46 miliar menjadi Rp503,58 miliar, sementara kas dan setara kas menyusut dari Rp172,84 miliar menjadi Rp149,04 miliar pada periode yang sama."
+  ],
+  "fotoAdegan": "Technicians in protective gear checking pipes and valves at a basic chemicals processing plant, steam rising, industrial morning light",
+  "takeaway": "Laporan ini condong positif bagi Intanwijaya karena laba bersihnya melonjak lebih dari tiga kali lipat, sementara kenaikan utang usaha yang memicu surat penjelasan 20 persen ke bursa ternyata berasal dari aktivitas pembelian bahan baku biasa, bukan pinjaman baru yang membebani perusahaan. Pos yang tersentuh adalah laba per saham, yaitu bagian laba yang secara hitungan dibagi rata ke tiap lembar saham beredar, yang naik dari Rp41 menjadi Rp134, serta beban bunga yang justru turun dari Rp136 juta menjadi Rp80,6 juta karena perusahaan tidak banyak menambah utang berbunga. Kas memang menyusut dari Rp172,84 miliar menjadi Rp149,04 miliar, tapi itu wajar terjadi ketika penjualan tumbuh 39 persen dan sebagian kas terserap untuk mendanai persediaan serta piutang usaha. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, karena manajemen sendiri menyebut kenaikan utang usaha ini bisa berbalik turun tergantung pergerakan harga bahan baku dan waktu pembayaran tagihan menjelang akhir periode berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tama-catat-ekuitas-negatif-usai-rugi-rp96-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TAMA Catat Ekuitas [Negatif] Usai Rugi Rp96,6 Miliar",
+  "deck": "Ekuitas TAMA berbalik negatif Rp61,98 miliar pada semester I 2026 setelah rugi bersih melonjak jadi Rp96,64 miliar, dipicu beban lain-lain dan penurunan nilai properti investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T23:20:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dee9c52fc9_ef5836dc7d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Lancartama Sejati Tbk (TAMA) melaporkan rugi bersih Rp96,64 miliar untuk semester I 2026, melonjak tajam dari rugi Rp4,36 miliar pada periode yang sama tahun lalu. Pendapatan perusahaan yang bergerak di jasa konstruksi serta penyewaan ruang kantor dan hunian turun dari Rp14,05 miliar menjadi Rp5,85 miliar, selisih Rp8,2 miliar. Akibatnya, ekuitas perusahaan berbalik menjadi negatif Rp61,98 miliar per 30 Juni 2026, dari posisi positif Rp34,66 miliar pada akhir 2025. Rugi per saham dasar ikut melebar menjadi Rp80,53 dari Rp3,63 pada periode yang sama tahun lalu.",
+   "Pembengkakan rugi terutama berasal dari pos pendapatan (beban) lain-lain bersih yang tercatat minus Rp91,64 miliar, dibanding hanya Rp2,05 juta pada semester I 2025. Angka ini sejalan dengan turunnya nilai properti investasi bersih perusahaan, dari Rp169,20 miliar pada akhir 2025 menjadi Rp77,56 miliar per 30 Juni 2026, penurunan sekitar Rp91,64 miliar dalam enam bulan. Beban keuangan justru turun tipis menjadi Rp5,29 miliar dari Rp6,88 miliar seiring pelunasan pinjaman bank.",
+   "Di sisi pendanaan, TAMA melunasi seluruh utang bank jangka pendek Rp35,57 miliar dan utang bank jangka panjang sekitar Rp101,58 miliar selama semester ini, sehingga saldo utang bank menjadi nol per 30 Juni 2026 dari sebelumnya sekitar Rp137,15 miliar. Sebagai gantinya, muncul utang pemegang saham baru senilai Rp140,00 miliar yang tercatat sebagai liabilitas jangka panjang, seiring penerimaan dana dari pihak berelasi dengan jumlah yang sama menurut laporan arus kas. Laporan keuangan interim ini telah direviu terbatas oleh kantor akuntan publik Kanaka Puradiredja, Suhartono melalui akuntan Tan Siddharta, dengan kesimpulan tidak ditemukan hal yang membuat laporan ini tidak disajikan secara wajar sesuai standar akuntansi keuangan di Indonesia. Laporan disampaikan ke bursa oleh Corporate Secretary Destry Sianturi pada 31 Agustus 2026."
+  ],
+  "fotoAdegan": "Empty office rental building exterior in Jakarta with scaffolding on one side, overcast afternoon light, no signage visible.",
+  "takeaway": "Laporan ini condong negatif bagi TAMA karena ekuitasnya berbalik menjadi minus Rp61,98 miliar, tanda bahwa secara pembukuan total utang perusahaan kini melebihi total asetnya, dipicu rugi bersih yang melonjak lebih dari 20 kali lipat dibanding periode sama tahun lalu. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih pemegang saham, serta laba per saham, yaitu rugi yang dibagi rata ke tiap lembar saham beredar, yang di sini melebar jadi Rp80,53 per saham dari Rp3,63. Penurunan nilai properti investasi senilai Rp91,64 miliar menjadi pemicu utama, sementara di sisi lain perusahaan berhasil melunasi seluruh utang banknya dengan menggantinya lewat pinjaman baru dari pemegang saham senilai Rp140 miliar, yang mengurangi ketergantungan pada bank tapi memindahkan beban itu ke pemilik perusahaan sendiri. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah penurunan nilai aset ini berlanjut atau hanya penyesuaian satu kali, sekaligus bagaimana perusahaan mengelola kewajiban dari utang pemegang saham barunya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AISA Tanggapi Bursa, Ungkap Nasib Dana [KPK] Rp150 Miliar",
+  "deck": "FKS Food Sejahtera (AISA) menjawab permintaan penjelasan BEI soal kuasi reorganisasi, lonjakan piutang dan persediaan, dana Rp150 miliar di rekening KPK, hingga covenant utang bank sindikasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T22:21:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99d015ba68_0498c38a3b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AISA",
+  "tags": [
+   "AISA",
+   "FKS Food Sejahtera",
+   "Bursa Efek Indonesia",
+   "Kuasi Reorganisasi"
+  ],
+  "body": [
+   "PT FKS Food Sejahtera Tbk (AISA) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia bernomor S-11063/BEI.PPI/08-2026 tertanggal 27 Agustus 2026. Surat tanggapan bernomor 042/FFS/CORSEC/VIII/2026 itu ditandatangani Corporate Secretary Ivan Gunawan dan disampaikan ke bursa pada 31 Agustus 2026 pukul 22.21 WIB. Salah satu poin utama yang ditanyakan bursa adalah strategi Perseroan menjaga kinerja operasional setelah pelaksanaan kuasi reorganisasi, yaitu proses akuntansi yang sudah mendapat persetujuan Kementerian Hukum dan HAM untuk menghapus saldo rugi masa lalu agar Perseroan berpeluang membagikan dividen di kemudian hari. Perseroan menjawab akan fokus pada pertumbuhan penjualan yang sehat, efisiensi biaya, dan penguatan arus kas agar saldo laba tetap positif secara berkelanjutan.",
+   "Di sisi neraca, kas dan setara kas Perseroan naik 16,87 persen dari Rp133,4 miliar pada akhir 2025 menjadi Rp155,9 miliar per 30 Juni 2026, dengan sekitar Rp120,6 miliar di antaranya ditempatkan dalam deposito berjangka pendek di bawah tiga bulan berdenominasi dolar Amerika Serikat dengan bunga 3,5 sampai 3,8 persen. Piutang usaha neto naik 17,9 persen menjadi Rp376,4 miliar, namun penyisihan piutang macet pihak ketiga masih mencapai Rp122,9 miliar dari piutang kotor Rp206,0 miliar, dan Perseroan mengakui proses kajian keuangan maupun hukum atas piutang bermasalah itu masih berjalan. Piutang dari pihak berelasi juga melonjak menjadi Rp293,3 miliar, yang menurut Perseroan punya riwayat pembayaran baik. Persediaan melonjak 48,9 persen menjadi Rp169,0 miliar akibat penambahan bahan baku dan kemasan untuk menjaga kelangsungan produksi, dan dari jumlah itu Rp99 miliar, terdiri dari Rp47 miliar dan Rp52 miliar, sudah dijaminkan ke bank.",
+   "Bursa juga menyoroti pos aset keuangan lainnya yang sempat melonjak 2.050 persen pada 2025 menjadi Rp153,5 miliar, sebagian besar berasal dari dana sekitar Rp150 miliar yang tersimpan di rekening penampungan Komisi Pemberantasan Korupsi. Perseroan menyatakan proses hukum atas dana itu masih berjalan dan belum ada putusan final, sehingga Perseroan mengaku belum memiliki dasar untuk menilai risiko maupun melakukan uji penurunan nilai atas dana tersebut. Di pos perpajakan, tagihan pajak penghasilan naik 45,3 persen menjadi Rp25,2 miliar dan utang pajak naik 84,4 persen menjadi Rp18,8 miliar. Perseroan juga menjelaskan sisa rugi fiskal 2022 sebesar Rp32,9 miliar sudah habis dipakai untuk mengompensasi laba fiskal 2025 senilai sama, sementara laba fiskal 2026 sebesar Rp12,3 miliar dikompensasi dengan sisa rugi fiskal 2023 senilai Rp85,9 miliar.",
+   "Utang usaha naik 28,8 persen menjadi Rp241,4 miliar, sejalan dengan kenaikan persediaan, termasuk utang kepada pihak berelasi PT Bungasari Flour Mills Indonesia sebesar Rp35,4 miliar dan PT Tereos FKS Indonesia sebesar Rp18,8 miliar. Utang bank naik 8,03 persen menjadi Rp225,4 miliar, terutama karena penarikan sisa pinjaman sindikasi senilai Rp1.615,5 miliar yang akan jatuh tempo akhir Juni 2026, dengan dana dipakai untuk pemeliharaan aset produktif dan rencana ekspansi bisnis. Perseroan terikat sejumlah rasio keuangan ke bank, di antaranya rasio utang terhadap modal maksimal 1,5 kali untuk Bank DBS dan 2,5 kali untuk Bank CIMB, serta rasio laba operasional terhadap beban bunga minimal 1,5 kali untuk Bank DBS dan 1,25 kali untuk Bank CIMB. Sementara itu, tambahan modal disetor turun Rp2,06 miliar akibat transaksi restrukturisasi antar entitas sepengendali terkait ESTCL, yang menurut Perseroan melibatkan akuisisi 100 persen kepemilikan pada entitas terkait, meski rincian nilai transaksinya tidak dijelaskan lebih lanjut dalam dokumen yang diterima."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of packaged food products near a forklift, tall industrial shelving under dim light",
+  "takeaway": "Tanggapan ini condong netral bagi FKS Food Sejahtera. Sebagian besar jawaban menegaskan tidak ada masalah baru, tapi dua celah belum tertutup, yaitu dana Rp150 miliar di rekening penampungan Komisi Pemberantasan Korupsi yang masih berperkara di pengadilan, dan penyisihan piutang Rp122,9 miliar yang menurut Perseroan sendiri masih dikaji tanpa batas waktu jelas. Pos yang tersentuh ada di arus kas karena persediaan dan piutang usaha yang tumbuh menahan lebih banyak uang di modal kerja, di ekuitas karena tambahan modal disetor turun akibat restrukturisasi ESTCL, dan di beban bunga karena penarikan pinjaman sindikasi Rp1.615,5 miliar menambah utang berbunga yang harus dijaga di bawah batas rasio utang terhadap laba operasional yang disepakati dengan bank DBS dan CIMB, sehingga kalau rasio ini terlampaui bank berhak menagih pelunasan lebih cepat dari jadwal. Yang perlu dipantau berikutnya adalah kelanjutan proses hukum dana KPK Rp150 miliar dan hasil kajian keuangan maupun hukum atas piutang yang sudah disisihkan besar-besaran, karena Perseroan sendiri mengaku belum punya dasar untuk memastikan keduanya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
   "category": "BUMN",
   "title": "PGN Lewat BerandaMAS Kenalkan Hunian Berbasis [Energi]",
@@ -111,6 +216,32 @@ var ARTICLES = [
   "imageV": "mthi40w2"
  },
  {
+  "slug": "laba-dooh-melonjak-9-5-kali-ditopang-pos-nonoperasional",
+  "category": "Aksi Korporasi",
+  "title": "Laba DOOH [Melonjak] 9,5 Kali, Ditopang Pos Nonoperasional",
+  "deck": "Laba bersih DOOH naik jadi Rp63,3 miliar pada semester I 2026, tapi operasi inti justru merugi Rp12,7 miliar akibat beban pokok pendapatan yang melonjak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:38:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831215015-64248-0/FinancialStatement-2026-II-DOOH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "Era Media Sejahtera",
+   "pelepasan anak usaha"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) melaporkan pendapatan neto Rp84,27 miliar untuk semester pertama 2026, naik 14,7 persen dari Rp73,49 miliar pada periode yang sama tahun lalu. Namun beban pokok pendapatan melonjak lebih tajam, dari Rp46,64 miliar menjadi Rp73,48 miliar, sehingga laba bruto perusahaan justru menyusut dari Rp26,84 miliar menjadi Rp10,79 miliar. Akibatnya, bisnis inti perusahaan media luar ruang ini mencatat rugi dari operasi sebesar Rp12,65 miliar, berbalik dari laba operasi Rp8,32 miliar pada semester I 2025.",
+   "Meski demikian, laba bersih DOOH justru melonjak menjadi Rp63,28 miliar, naik hampir 9,5 kali lipat dari Rp6,63 miliar setahun sebelumnya. Kenaikan ini ditopang oleh pos pendapatan lain-lain neto yang melompat dari hanya Rp4 juta menjadi Rp93,65 miliar, seiring perusahaan melepas kepemilikan di salah satu entitas anak. Laporan perubahan ekuitas mencatat dampak pelepasan itu membuat kepentingan nonpengendali anjlok dari Rp7,32 miliar menjadi tinggal Rp4,88 juta, dan laba per saham dasar naik dari Rp0,81 menjadi Rp8,75.",
+   "Dari sisi arus kas, perusahaan menerima Rp35,6 miliar dari pelepasan entitas anak dan Rp16,52 miliar dari penjualan aset tetap, yang turut membuat kas dan setara kas naik dari Rp136,87 miliar menjadi Rp227,13 miliar per 30 Juni 2026. Total aset naik menjadi Rp406,51 miliar dan total ekuitas naik menjadi Rp309,54 miliar, sementara total liabilitas relatif stabil di Rp96,97 miliar setelah perusahaan melunasi seluruh utang bank jangka pendek senilai Rp8 miliar. Laporan keuangan interim ini telah direviu secara terbatas oleh KAP Anwar & Rekan dengan partner penanggung jawab Patricia, sesuai laporan bertanggal 26 Agustus 2026."
+  ],
+  "fotoAdegan": "Technicians on a lift installing a large outdoor digital screen frame on a city building facade, blurred billboard, evening traffic below",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental DOOH: laba bersih yang melonjak sembilan kali lipat sebetulnya bukan cerminan bisnis inti yang membaik, melainkan didorong oleh keuntungan sekali jalan dari pelepasan anak usaha dan pos pendapatan lain-lain. Yang perlu diperhatikan investor adalah dua pos yang berlawanan arah: laba dari operasi, yaitu selisih pendapatan dan biaya dari bisnis reklame sehari-hari, justru berbalik jadi rugi Rp12,65 miliar, sementara ekuitas dan kas perusahaan malah menebal karena dana hasil pelepasan aset masuk ke kas. Laba per saham yang naik ke Rp8,75 memang menggembirakan di atas kertas, tapi asalnya dari kejadian yang tidak berulang tiap kuartal, bukan dari penjualan iklan yang tumbuh. Yang perlu dipantau selanjutnya adalah laporan Kuartal III 2026, untuk melihat apakah rugi operasi ini berlanjut atau justru bisnis inti DOOH kembali mencetak laba setelah pelepasan anak usaha ini rampung.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ri-mulai-ekspor-beras-perdana-ke-malaysia",
   "category": "Makroekonomi",
   "title": "RI Mulai [Ekspor] Beras Perdana ke Malaysia",
@@ -136,6 +267,85 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret baru pengiriman awal 1.000 ton beras premium ke Malaysia, sementara potensi hingga 200.000 ton senilai Rp3,4 triliun itu masih berupa peluang, bukan komitmen yang sudah pasti. Pihak yang langsung terkait adalah petani dan pelaku usaha penggilingan beras yang berharap ekspor ini jadi pasar tambahan, sementara pemerintah menjamin ekspor tidak akan mengurangi jatah konsumen dalam negeri karena stok nasional 5,2 juta ton diklaim cukup sampai Mei 2027. Ke depan ada dua kemungkinan arah, kalau produksi padi benar-benar naik sesuai perkiraan FAO menjadi 38,6 juta ton pada musim 2026/2027, ekspor berpeluang diperluas bertahap mendekati batas 200.000 ton, tapi kalau hasil panen sebenarnya meleset dari perkiraan itu atau kebutuhan dalam negeri ikut naik, ekspor kemungkinan besar tetap seukuran simbolis seperti pengiriman perdana ini. Yang akan menentukan mana yang terjadi adalah data realisasi produksi padi pada musim panen mendatang, serta ada tidaknya pengiriman lanjutan ke Malaysia setelah tahap 1.000 ton ini.",
   "imageV": "mthi41ae"
+ },
+ {
+  "slug": "untr-laba-semester-i-2026-anjlok-91-persen-jadi-rp742-miliar",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Semester I 2026 [Anjlok] 91 Persen jadi Rp742 Miliar",
+  "deck": "United Tractors membukukan laba bersih Rp742 miliar pada semester I 2026, anjlok dari Rp8,37 triliun tahun lalu akibat kerugian penurunan nilai investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T21:27:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831213953-64286-0/FinancialStatement-2026-II-UNTR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "laba bersih",
+   "laporan keuangan",
+   "United Tractors"
+  ],
+  "body": [
+   "United Tractors Tbk (UNTR) melaporkan laba bersih konsolidasian sebesar Rp742,22 miliar untuk semester I 2026, anjlok 91 persen dibandingkan Rp8,37 triliun pada periode yang sama tahun lalu. Laba yang menjadi hak pemegang saham utama, tidak termasuk pemegang saham minoritas di anak usaha, turun dari Rp8,13 triliun menjadi Rp956,28 miliar, sehingga laba per saham ikut merosot dari Rp2.239 menjadi Rp271. Pendapatan bersih perseroan juga menyusut dari Rp68,53 triliun menjadi Rp58,29 triliun, sementara laba kotor turun dari Rp15,01 triliun menjadi Rp10,51 triliun.",
+   "Penyebab utama anjloknya laba adalah kerugian penurunan nilai investasi pada ventura bersama dan piutang non-usaha senilai Rp2,75 triliun yang tercatat pada semester I 2026, pos yang tidak ada di laporan periode sebelumnya. Beban umum dan administrasi juga naik dari Rp2,85 triliun menjadi Rp3,92 triliun, sedangkan beban penjualan naik dari Rp484,34 miliar menjadi Rp858,42 miliar. Beban pajak penghasilan tercatat Rp1,26 triliun, jauh lebih rendah dari Rp2,64 triliun tahun lalu, sejalan dengan laba sebelum pajak yang turun dari Rp11,01 triliun menjadi Rp2 triliun.",
+   "Dari sisi neraca, kas dan setara kas perseroan turun dari Rp26,57 triliun pada akhir 2025 menjadi Rp18,65 triliun per 30 Juni 2026. Dalam periode yang sama, UNTR tetap membagikan dividen tunai final tahun buku 2025 senilai total Rp4,16 triliun kepada seluruh pemegang saham, termasuk pemegang saham nonpengendali, serta membeli kembali saham sendiri senilai Rp2,22 triliun sehingga saldo saham treasuri membengkak dari Rp4,90 triliun menjadi Rp7,12 triliun. Pinjaman bank jangka pendek naik dari Rp560 miliar menjadi Rp902,42 miliar, dan bagian pinjaman bank jangka panjang yang jatuh tempo dalam satu tahun naik dari Rp9,68 triliun menjadi Rp14,14 triliun. Total ekuitas perseroan sedikit menyusut dari Rp103,14 triliun menjadi Rp101,75 triliun.",
+   "Laporan yang disampaikan ke Bursa Efek Indonesia pada 31 Agustus 2026 ini merupakan koreksi atas laporan keuangan interim yang sebelumnya sudah dipublikasikan, dan telah ditelaah secara terbatas oleh auditor, bukan diaudit penuh."
+  ],
+  "fotoAdegan": "Workers inspecting a large yellow mining haul truck at an open-pit equipment yard, dusty daylight, heavy machinery in background",
+  "takeaway": "Laporan ini condong negatif bagi United Tractors karena laba bersihnya anjlok 91 persen, dan penyebab utamanya bukan sekadar penjualan yang melambat, melainkan kerugian penurunan nilai investasi dan piutang senilai Rp2,75 triliun yang baru muncul tahun ini. Yang tersentuh adalah laba bersih dan laba per saham, yaitu bagian keuntungan yang jatuh ke setiap lembar saham beredar, yang turun dari Rp2.239 menjadi Rp271, angka yang dicermati investor karena mengukur seberapa produktif modal mereka dikelola. Arus kas perusahaan juga menipis, terlihat dari kas dan setara kas yang turun dari Rp26,57 triliun menjadi Rp18,65 triliun, sementara di periode yang sama perseroan tetap membagikan dividen tunai Rp4,16 triliun dan membeli kembali saham sendiri senilai Rp2,22 triliun sehingga cadangan kasnya makin tergerus. Yang perlu dipantau berikutnya adalah apakah UNTR menerbitkan penjelasan resmi ke bursa soal rincian kerugian penurunan nilai investasi tersebut, serta apakah tren pelemahan laba ini berlanjut di laporan kuartal III yang biasanya terbit akhir Oktober.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "KMDS Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham KMDS. Manajemen menjawab tidak ada informasi atau rencana korporasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:47:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7937a4ea43_66711afe97.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KMDS",
+  "tags": [
+   "KMDS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Kurniamitra Duta Sentosa Tbk. (KMDS) memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-11123/BEI.PP2/08-2026 tertanggal 28 Agustus 2026 terkait volatilitas transaksi efek perseroan. Jawaban disampaikan melalui surat nomor 039/KMDS/CORSEC/VIII/2026 pada 31 Agustus 2026 pukul 20.47 WIB, ditandatangani oleh Direktur Keuangan Dewi Irianty Wijaya.",
+   "Dalam surat itu, KMDS menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efeknya, baik menurut ketentuan POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa.",
+   "Perseroan menambahkan bahwa tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik. Terkait rencana pemegang saham utama, Corporate Secretary KMDS menyatakan telah menanyakan langsung kepada pemegang saham utama, dan jawabannya adalah belum ada rencana apa pun terhadap kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta financial district office tower reflecting the morning sky, pedestrians crossing below",
+  "takeaway": "Tanggapan ini netral bagi fundamental KMDS karena isinya seluruhnya penegasan bahwa tidak ada perubahan berarti dan tidak ada informasi baru yang bisa mengubah penilaian atas perusahaan. Pelaku pasar biasanya mencermati balasan semacam ini untuk mengecek apakah ada pemicu tersembunyi di balik pergerakan harga yang tidak wajar, misalnya rencana aksi korporasi yang bisa menambah jumlah saham beredar dan mengencerkan laba per saham, tetapi di sini perseroan menegaskan tidak ada agenda semacam itu dalam tiga bulan mendatang, dan pemegang saham utama pun belum berencana mengubah kepemilikannya. Karena tidak ada pos kinerja seperti ekuitas, arus kas, atau struktur kepemilikan yang tersentuh, gerakan harga saham KMDS belakangan ini lebih mungkin didorong oleh dinamika jual beli di pasar ketimbang perubahan kondisi bisnis perusahaan. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia mengambil langkah lanjutan, seperti notasi khusus, bila pola transaksi tidak wajar ini terus berlanjut, serta apakah perseroan akan menerbitkan keterbukaan informasi baru bila memang muncul kejadian material di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cash-koreksi-laporan-keuangan-ekuitas-negatif-rp449-juta",
+  "category": "Aksi Korporasi",
+  "title": "CASH koreksi laporan keuangan, ekuitas [negatif] Rp449 juta",
+  "deck": "Cashlez merevisi laporan keuangan audited 2025, mengungkap rugi Rp56,6 miliar dan ekuitas negatif Rp449,5 juta akibat liabilitas yang melonjak 86 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:20:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260831203125-64344-0/FinancialStatement-2025-Tahunan-CASH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "Cashlez Worldwide Indonesia",
+   "laporan keuangan",
+   "rights issue"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) menyampaikan kembali laporan keuangan konsolidasian auditan untuk posisi 31 Desember 2025, ditandatangani Presiden Direktur Willy Chandry pada 9 Agustus 2026. Ini penyajian ulang kedua: laporan awal terbit 16 Februari 2026, sudah dikoreksi sekali pada 7 April 2026, dan kini disampaikan kembali untuk memuat pengungkapan tambahan terkait rencana Penawaran Umum Terbatas I (PUT I) dengan Hak Memesan Efek Terlebih Dahulu alias rights issue, yang baru muncul setelah tanggal laporan posisi keuangan.",
+   "Total aset perseroan naik 24 persen menjadi Rp209,1 miliar dari Rp167,4 miliar pada akhir 2024, didorong penarikan pinjaman dari PT Bara Alam Utama. Namun total liabilitas melonjak lebih tajam, 86 persen menjadi Rp209,6 miliar dari Rp112,5 miliar, karena pinjaman dari pihak yang sama ditambah uang muka penjualan dari pelanggan yang naik dari Rp1,6 miliar menjadi Rp52,7 miliar. Karena liabilitas kini melampaui aset, ekuitas perseroan per akhir 2025 tercatat defisit Rp449,5 juta.",
+   "Rugi tahun berjalan grup tercatat Rp56,6 miliar, dengan bagian yang diatribusikan ke pemilik entitas induk sebesar Rp59 miliar, naik dari Rp24 miliar pada 2024, sehingga saldo akumulasi defisit dalam ekuitas membengkak 53 persen menjadi Rp170 miliar. Auditor KAP Paul Hadiwinata, Hidajat, Arsono, Retno, Palilingan & Rekan memberi opini wajar tanpa modifikasian, tetapi menambahkan penekanan soal ketidakpastian material atas kelangsungan usaha akibat rugi dan defisiensi modal tersebut, serta penekanan atas penyajian kembali aset takberwujud yang dikoreksi turun 3 persen menjadi Rp17,1 miliar. Di sisi lain, beban pokok pendapatan turun 27 persen menjadi Rp78 miliar dari Rp108 miliar, faktor yang menahan laju kerugian agar tidak makin dalam."
+  ],
+  "fotoAdegan": "A market vendor in Jakarta accepting a tap payment on a small wireless terminal, screen angled away, morning light",
+  "takeaway": "Laporan ini negatif bagi Cashlez karena penyajian ulang justru membesarkan angka kerugian dibanding yang pertama kali diumumkan dan meresmikan kondisi ekuitas negatif dalam bentuk pernyataan tertulis auditor. Pos yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, yang kini minus, artinya seluruh aset perusahaan jika dijual saat ini belum cukup menutup utangnya, sementara rugi berjalan yang terus membesar menggerus modal pemegang saham lebih jauh. Auditor bahkan menuliskan penekanan soal ketidakpastian material atas kelangsungan usaha, sinyal bahwa kemampuan perusahaan bertahan sebagai bisnis yang berjalan sedang dipertanyakan secara formal. Yang perlu dipantau selanjutnya adalah realisasi Penawaran Umum Terbatas I dengan hak memesan efek terlebih dahulu yang menjadi alasan penyajian ulang ini, karena dana segar dari rights issue itulah yang bisa menambal defisiensi modal, sementara jadwal dan harga pelaksanaannya belum diumumkan dalam dokumen ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",

@@ -83,6 +83,213 @@ var ARTICLES = [
   "imageV": "mtgsk6xj"
  },
  {
+  "slug": "life-tanggapi-bursa-ungkap-progres-spin-off-unit-syariah-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Tanggapi Bursa, Ungkap Progres [Spin-off] Unit Syariah ke OJK",
+  "deck": "MSIG Life Insurance Indonesia menyatakan tidak ada informasi material di balik volatilitas sahamnya, namun mengungkap proses pengalihan portofolio unit syariah dan sikap pemegang saham pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T04:50:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f17cc6b7e_c944a3305b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance",
+   "spin-off syariah",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait volatilitas transaksi saham perseroan, menyusul surat bursa nomor S-11097/BEI.PP3/08-2026 tanggal 27 Agustus 2026. Dalam surat balasan bernomor 053/MSL-CSEC/VIII/2026 tertanggal 28 Agustus 2026 yang ditandatangani Deputy President Director Tomoyuki Monden, perseroan menegaskan tidak memiliki informasi atau fakta material yang dapat memengaruhi nilai maupun harga efek LIFE sebagaimana diatur POJK 31/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya perubahan kepemilikan saham atau aktivitas penjaminan saham oleh pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024.",
+   "Soal rencana aksi korporasi, LIFE menyatakan tidak ada tindakan yang akan berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan ke depan. Namun perseroan mengungkap bahwa proses pemisahan (spin-off) Unit Usaha Syariah, yang sebelumnya sudah disetujui Otoritas Jasa Keuangan dan diumumkan ke publik melalui pendirian PT MSIG Sharia Life Insurance Indonesia, kini memasuki tahap baru. Perseroan tengah mengajukan izin kepada OJK untuk mengalihkan portofolio Unit Usaha Syariah ke entitas baru tersebut, dan menegaskan proses ini tidak akan memengaruhi status pencatatan saham LIFE di bursa.",
+   "Perseroan turut mengonfirmasi tidak ada informasi atau kejadian penting lain yang material dan belum diungkap ke publik. Terkait rencana pemegang saham utama, LIFE menyatakan telah menghubungi langsung pemegang saham pengendalinya, Mitsui Sumitomo Insurance Co., Ltd, yang menguasai 80 persen saham LIFE. Mitsui Sumitomo menyatakan saat ini tidak memiliki rencana untuk membeli maupun menjual saham LIFE."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's central business district at dusk, wide street-level view, no signage visible",
+  "takeaway": "Tanggapan ini netral bagi LIFE karena isinya menegaskan tidak ada informasi baru yang mengubah gambaran fundamental perusahaan, sekadar konfirmasi rutin atas permintaan bursa terkait pergerakan sahamnya. Yang tersentuh di sini adalah proses pemisahan unit usaha syariah, yaitu langkah memindahkan bisnis asuransi jiwa syariah LIFE ke perusahaan baru bernama PT MSIG Sharia Life Insurance Indonesia, yang begitu portofolionya benar-benar berpindah bisa mengubah komposisi pendapatan premi perseroan meski tidak berdampak pada pencatatan sahamnya. Konfirmasi dari Mitsui Sumitomo Insurance selaku pemegang 80 persen saham LIFE bahwa mereka tidak berencana membeli atau menjual saham juga berarti struktur kepemilikan dan hak suara pengendali tidak berubah dalam waktu dekat. Yang perlu dipantau selanjutnya adalah terbitnya izin Otoritas Jasa Keuangan atas pengalihan portofolio unit syariah ke entitas barunya, karena itu menjadi penanda kapan proses spin-off ini benar-benar rampung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dewi-utang-bank-jangka-pendek-melonjak-509-laba-naik-43",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Utang Bank [Jangka Pendek] Melonjak 509%, Laba Naik 43%",
+  "deck": "Total liabilitas DEWI naik 64,4 persen dalam enam bulan karena utang bank jangka pendek melonjak dan utang jangka panjang lunas, sementara penjualan dan laba naik lebih dari 40 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T04:18:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831042919-64274-0/FinancialStatement-2026-II-DEWI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DEWI",
+  "tags": [
+   "DEWI",
+   "laporan keuangan",
+   "utang bank",
+   "peternakan ayam"
+  ],
+  "body": [
+   "PT Dewi Shri Farmindo Tbk (DEWI) menyampaikan laporan keuangan interim tidak diaudit yang ditelaah secara terbatas untuk periode enam bulan yang berakhir 30 Juni 2026, sekaligus surat penjelasan kepada OJK dan Bursa Efek Indonesia soal perubahan lebih dari 20 persen pada pos total liabilitas. Total liabilitas Perseroan naik 64,40 persen dari Rp19,42 miliar per 31 Desember 2025 menjadi Rp31,92 miliar per 30 Juni 2026. Kenaikan itu terutama berasal dari utang bank jangka pendek yang melonjak 509,43 persen, dari Rp4,56 miliar menjadi Rp27,76 miliar, sementara utang bank jangka panjang justru lunas seluruhnya dari Rp10,62 miliar menjadi nol.",
+   "Direktur Utama Aditiya Fajar Junus, dalam surat bertanggal 27 Agustus 2026, menyatakan pergeseran pendanaan itu merupakan bagian dari strategi untuk mendukung peningkatan aktivitas operasional dan ekspansi usaha. Penjualan Perseroan pada semester I 2026 tercatat Rp37,10 miliar, naik 44,88 persen dari Rp25,61 miliar pada semester I 2025, sedangkan laba bersih naik 42,61 persen dari Rp1,86 miliar menjadi Rp2,65 miliar. Laba per saham dasar ikut naik dari Rp0,93 menjadi Rp1,33 per lembar. Manajemen menegaskan kenaikan liabilitas tersebut tidak berdampak negatif material terhadap kelangsungan usaha karena diikuti pertumbuhan kinerja dan kemampuan membayar kewajiban.",
+   "Laporan ini juga mencatat total ekuitas Perseroan naik dari Rp163,01 miliar menjadi Rp165,66 miliar, dengan opini reviu wajar tanpa modifikasian dari KAP Jojo Sunarjo & Rekan lewat partner Mario Zulfa Nasution, tahun pertama menandatangani laporan Perseroan, menggantikan KAP Ramdany. Dalam catatan atas laporan keuangan disebutkan pula bahwa RUPS Tahunan pada 26 Juni 2026 menyetujui pengunduran diri Ferry Saputra dari jabatan Direktur dan mengangkatnya sebagai Komisaris Utama, serta peralihan 780.000.000 lembar saham atau senilai nominal Rp39 miliar milik almarhumah Greta Dewi Halim kepada ahli warisnya, Aditiya Fajar Junus, yang tercatat sebagai pemegang saham pengendali Perseroan."
+  ],
+  "fotoAdegan": "Workers inspecting rows of broiler chickens inside a spacious poultry farm shed, soft morning light through vents",
+  "takeaway": "Laporan ini kami nilai netral: pertumbuhan penjualan dan laba yang kuat membuat kenaikan utang belum jadi alarm, tapi pergeseran seluruh utang bank jangka panjang menjadi utang jangka pendek tetap mengubah profil risiko pembayaran Perseroan dan patut dicermati. Yang tersentuh adalah struktur utang dan laba per saham, karena utang bank jangka pendek naik hampir enam kali lipat sementara utang jangka panjang lunas total, artinya seluruh pinjaman bank kini harus dilunasi atau diperpanjang dalam kurang dari setahun, bukan dicicil bertahun-tahun seperti sebelumnya. Di sisi lain laba bersih dan laba per saham naik sekitar 43 persen, dan aset lancar Perseroan yang mencapai Rp111,77 miliar masih jauh lebih besar dari total liabilitas jangka pendeknya sebesar Rp31,22 miliar, sehingga kemampuan bayar jangka pendek tampak masih aman. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, terutama apakah utang bank jangka pendek yang baru ini diperpanjang lagi atau mulai dicicil, karena itu akan menentukan apakah pergeseran ke pendanaan jangka pendek ini sekadar strategi ekspansi sementara atau mulai membebani arus kas Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bwpt-kaji-bagi-dividen-usai-kuasi-reorganisasi-rampung",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Kaji Bagi [Dividen] Usai Kuasi Reorganisasi Rampung",
+  "deck": "Eagle High Plantations memaparkan hasil public expose insidentil, termasuk rencana dividen, peringkat kredit baru, dan target perluasan kebun plasma hingga 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T04:07:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8688c1653b_18d856259c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "dividen",
+   "kuasi reorganisasi",
+   "kelapa sawit"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menggelar public expose insidentil pada 27 Agustus 2026 yang dihadiri 72 peserta eksternal di luar manajemen dan karyawan perseroan. Manajemen yang hadir adalah Direktur Choong Kam Loong, Direktur Andrew Haryono, dan Head of Investor Relations Melvina, sebagaimana disampaikan perseroan dalam laporan ke Bursa Efek Indonesia.",
+   "Dalam sesi tanya jawab, manajemen memaparkan rencana belanja modal sekitar 3 sampai 5 persen dari total pendapatan tahunan atau sekitar Rp300 miliar per tahun, yang sebagian besar dialokasikan untuk perawatan infrastruktur dan keandalan aset. Perseroan juga menyiapkan investasi sekitar Rp100 miliar untuk pembangunan pabrik pengolahan inti sawit (KCP) baru yang ditargetkan mulai beroperasi pada kuartal pertama 2027, dengan kemungkinan penambahan KCP lain di masa depan. Soal dividen, Direktur Choong Kam Loong menyatakan perseroan sedang mengkaji pembagian dividen sebagai bentuk apresiasi kepada pemegang saham setelah sebelumnya mengantongi status kuasi reorganisasi, namun besaran dan waktu pembagiannya akan diumumkan kemudian.",
+   "Perseroan juga mengungkapkan telah mempertahankan peringkat kredit A- dari PEFINDO selama tiga tahun berturut-turut, dan baru memperoleh peringkat A dengan outlook stabil dari PT Kredit Rating Indonesia, di tengah rencana penerbitan Penawaran Umum Berkelanjutan. Untuk program kemitraan petani Plasma Mandiri, perseroan menargetkan penambahan lahan sekitar 5.000 hektare per tahun hingga mencapai sekitar 40.000 hektare pada 2030. Manajemen turut menjelaskan harga solar saat ini sekitar Rp23.000 per liter, turun dari puncaknya Rp28.000 per liter meski masih di atas harga tahun lalu sekitar Rp15.000 per liter, sementara harga pupuk mulai menormalisasi setelah sebelumnya sempat naik dua kali lipat. Terkait cuaca kering akibat El Nino, Direktur Andrew Haryono menyebut operasional perseroan masih berjalan normal berkat deteksi dini lewat citra satelit, menara pemantau api, dan drone."
+  ],
+  "fotoAdegan": "Workers loading fresh oil palm fruit bunches onto a truck at a rural plantation collection yard, tropical morning light",
+  "takeaway": "Laporan ini condong positif bagi BWPT karena manajemen membuka opsi pembagian dividen setelah kuasi reorganisasi rampung, dan perseroan baru mengantongi peringkat kredit tambahan dari lembaga pemeringkat lain. Kuasi reorganisasi menyangkut pos ekuitas, sebab langkah ini menghapus defisit akumulasi di neraca sehingga laba ditahan bisa kembali positif dan pembagian dividen menjadi memungkinkan secara hukum, sementara peringkat kredit yang terjaga berkaitan dengan beban bunga karena rating yang baik biasanya membuat biaya pinjaman perseroan lebih murah. Rencana kapasitas baru lewat KCP dan perluasan Plasma Mandiri juga menyentuh arus kas ke depan karena menambah beban belanja modal sebelum kontribusinya ke pendapatan terasa. Yang perlu dipantau selanjutnya adalah pengumuman resmi soal besaran dan waktu pembagian dividen yang dijanjikan menyusul, serta kesiapan operasional KCP baru yang ditargetkan mulai berproduksi pada kuartal pertama 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "auto-asii-ajukan-tender-sukarela-beli-saham-rp3-600",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: ASII Ajukan [Tender Sukarela] Beli Saham Rp3.600",
+  "deck": "ASII, pemegang 80% saham Astra Otoparts, menawarkan tender sukarela membeli hingga 238,4 juta saham publik (4,95%) di harga Rp3.600 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T03:36:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84f1333bdc_b7d35f61d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AUTO",
+  "tags": [
+   "AUTO",
+   "ASII",
+   "tender sukarela",
+   "Astra Otoparts"
+  ],
+  "body": [
+   "Astra Otoparts Tbk (AUTO) melaporkan ke Otoritas Jasa Keuangan bahwa pada 31 Agustus 2026 perseroan menerima surat dari induk usahanya, Astra International Tbk (ASII), yang memberitahukan telah mengumumkan Pernyataan Penawaran Tender Sukarela atas saham AUTO. Pengumuman itu dimuat di harian Investor Daily dan Bisnis Indonesia pada tanggal yang sama, mengacu pada Peraturan OJK No. 54/POJK.04/2015 tentang Penawaran Tender Sukarela. Dalam penawaran ini, ASII berniat membeli sebanyak-banyaknya 238.442.293 saham AUTO, setara sekitar 4,947 persen dari total modal yang sudah diterbitkan dan disetor penuh perseroan, dengan harga penawaran Rp3.600 per saham.",
+   "Jika seluruh saham yang menjadi target penawaran tender ini berhasil dibeli, kepemilikan ASII di AUTO akan naik dari saat ini 80 persen menjadi maksimal 84,947 persen. Pelaksanaan penawaran ini masih bergantung pada pernyataan efektif dari OJK, artinya transaksi belum bisa berjalan sebelum regulator memberi lampu hijau. Dalam laporannya, manajemen AUTO menyatakan bahwa informasi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Laporan ini ditandatangani secara elektronik oleh Sophie Handili selaku Direktur sekaligus Corporate Secretary AUTO, dan turut ditembuskan ke PT Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Technicians inspecting automotive spare parts on a production line inside a component factory, fluorescent industrial lighting overhead.",
+  "takeaway": "Laporan ini netral bagi fundamental Astra Otoparts, sebab transaksinya terjadi antar pemegang saham, yaitu ASII membeli dari pemegang saham publik, dan tidak mengalirkan dana segar atau mengubah utang maupun modal perseroan itu sendiri. Karena ASII membeli saham yang sudah beredar, bukan saham baru terbitan perseroan, jumlah total saham AUTO tidak bertambah sehingga laba per saham perseroan tidak otomatis berubah, yang bergeser hanyalah porsi saham yang dipegang publik berpindah ke tangan ASII. Pergeseran ini tetap layak dicermati karena kepemilikan publik yang mengecil bisa memengaruhi keleluasaan investor ritel memperjualbelikan saham ini di pasar reguler ke depannya. Yang perlu dipantau berikutnya adalah pernyataan efektif dari OJK atas penawaran tender ini, karena tanpa itu transaksi belum bisa dijalankan, serta jadwal periode penawaran yang biasanya baru diumumkan setelah pernyataan efektif tersebut terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jsky-laporkan-progres-pemulihan-baru-bayar-utang-13",
+  "category": "Aksi Korporasi",
+  "title": "JSKY Laporkan Progres Pemulihan, Baru Bayar Utang [13%]",
+  "deck": "Sky Energy Indonesia melaporkan progres pemulihan penyebab suspensi ke BEI, termasuk negosiasi akhir skema cessie dengan calon investor dan pembayaran utang homologasi yang baru mencapai 13 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T03:28:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3673ee6471_91127fc21c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSKY",
+  "tags": [
+   "JSKY",
+   "suspensi saham",
+   "PKPU",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Sky Energy Indonesia Tbk (JSKY) melaporkan perkembangan realisasi rencana pemulihan kondisi penyebab suspensi saham per akhir Agustus 2026 kepada Bursa Efek Indonesia. Laporan ditandatangani Corporate Secretary Yusuf Woro Widhi Firmanto dan Jackson Tandiono selaku Pelaksana Tugas Direktur Utama. Perseroan menegaskan proses pemulihan masih berlangsung sehingga suspensi perdagangan saham JSKY tetap berlaku hingga saat ini.",
+   "Dalam laporan itu, penyelesaian Laporan Keuangan Tahun Buku 2023 tercatat baru mencapai progres 75 persen dan masih dalam proses audit oleh Kantor Akuntan Publik, dengan target rampung September 2026. Laporan Keuangan 2024 sudah 100 persen selesai audit internal dengan target Oktober 2026, sementara Laporan Keuangan 2025 baru 50 persen dalam audit internal dengan target waktu yang sama. Untuk pembayaran cicilan utang sesuai Putusan Homologasi dalam perkara PKPU, progresnya baru 13 persen dari target penyelesaian pada September 2030. Adapun persiapan penyelenggaraan RUPST tahunan, yang mensyaratkan laporan pertanggungjawaban serta rampungnya audit laporan keuangan, baru mencapai progres 25 persen.",
+   "Perseroan menjelaskan, setelah masa tenggang PKPU berakhir berdasarkan putusan Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat Nomor 308/Pdt.Sus-PKPU/2022/PN.Niaga.Jkt.Pst tanggal 18 September 2023, kondisi keuangan Sky Energy masih tertekan dan menurun sehingga kewajiban dalam Putusan Homologasi belum bisa dilunasi dari dana internal. Sebagai jalan keluar, manajemen sedang bernegosiasi dengan calon investor untuk menyelesaikan kewajiban tersebut lewat mekanisme cessie atau pengalihan piutang, dan proses ini disebut sudah memasuki tahap negosiasi akhir. Perseroan menyatakan akan menyampaikan informasi lebih lanjut ke bursa dan publik jika ada perkembangan material dari proses tersebut."
+  ],
+  "fotoAdegan": "Technicians inspecting large diesel generator units inside an industrial manufacturing plant, overhead cranes and metal parts nearby, daytime work light.",
+  "takeaway": "Laporan ini condong negatif bagi JSKY karena mengonfirmasi kondisi keuangan perusahaan masih tertekan dan menurun, sehingga kewajiban utang hasil homologasi PKPU belum bisa dibayar dari kas internal dan baru terealisasi 13 persen menjelang tenggat 2030. Yang tersentuh adalah arus kas dan kemampuan bayar utang perseroan, sebab dana pelunasan digantungkan pada masuknya investor baru lewat skema cessie, yaitu pengalihan hak tagih piutang ke pihak lain, bukan dari hasil operasional perusahaan sendiri. Molornya penyelesaian laporan keuangan 2023 hingga 2025 juga membuat pemegang saham belum punya gambaran utuh soal kondisi keuangan terkini emiten ini, padahal itu salah satu syarat pencabutan suspensi. Yang perlu dipantau selanjutnya adalah hasil negosiasi akhir dengan calon investor terkait skema cessie serta apakah target rampungnya Laporan Keuangan 2023 pada September 2026 dan Laporan Keuangan 2024-2025 pada Oktober 2026 bisa terpenuhi, karena keduanya jadi syarat sebelum RUPST tahunan bisa digelar dan suspensi saham berpeluang dicabut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inkp-tawarkan-obligasi-dan-sukuk-baru-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Tawarkan Obligasi dan Sukuk Baru [Rp3,5 Triliun]",
+  "deck": "Indah Kiat Pulp & Paper merilis rincian penawaran obligasi, sukuk mudharabah, dan obligasi dolar tahap baru dengan total target Rp3,5 triliun plus US$25 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T02:27:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c62198c777_37d63da294.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) menyampaikan perbaikan dan tambahan atas dokumen Informasi Tambahan Ringkas untuk tiga instrumen utang yang ditawarkan bersamaan mulai 31 Agustus 2026: Obligasi Berkelanjutan VI Tahap III, Sukuk Mudharabah Berkelanjutan V Tahap III, dan Obligasi USD Berkelanjutan III Tahap II. Obligasi rupiah ditargetkan sebanyak-banyaknya Rp2 triliun, sukuk mudharabah sebanyak-banyaknya Rp1,5 triliun, dan obligasi dolar sebanyak-banyaknya US$25 juta. Ketiganya merupakan bagian dari program penawaran umum berkelanjutan yang sudah efektif sejak 13 Maret 2026, setelah perseroan sebelumnya menerbitkan obligasi Tahap I senilai Rp628,095 miliar dan Tahap II senilai Rp2,275960 triliun.",
+   "Untuk obligasi rupiah, Rp1,590895 triliun dijamin dengan kesanggupan penuh dari penjamin emisi, terbagi dalam Seri A senilai Rp1,376725 triliun berbunga tetap 10 persen per tahun selama 3 tahun, dan Seri B senilai Rp214,17 miliar berbunga 10,5 persen per tahun selama 5 tahun. Sisanya, sebanyak-banyaknya Rp409,105 miliar, hanya dijamin dengan kesanggupan terbaik, artinya jika tidak laku terjual perseroan tidak wajib menerbitkannya. Skema serupa berlaku untuk sukuk mudharabah, dengan Rp1,17022 triliun dijamin penuh: Seri A senilai Rp443,03 miliar dengan nisbah bagi hasil pemegang sukuk 45,71 persen setara indikasi 10 persen per tahun selama 3 tahun, dan Seri B senilai Rp727,19 miliar dengan nisbah 48 persen setara 10,5 persen per tahun selama 5 tahun. Sisa Rp329,78 miliar dijamin kesanggupan terbaik.",
+   "Obligasi dalam denominasi dolar Amerika Serikat ditawarkan sebanyak-banyaknya US$25 juta, dengan US$9,5505 juta dijamin penuh melalui Seri A senilai US$8,1335 juta berbunga 6,75 persen per tahun selama 3 tahun, dan Seri B senilai US$1,417 juta berbunga 7,25 persen per tahun selama 5 tahun. Sisa US$15,4495 juta dijamin kesanggupan terbaik. Perseroan telah mengantongi peringkat idA+ dari Pefindo dan irAA dari PT Kredit Rating Indonesia untuk obligasi dan obligasi dolar, serta idA+(sy) dan irAA(sy) untuk sukuk mudharabah. Penjatahan dijadwalkan 1 September 2026, distribusi elektronik 3 September 2026, dan pencatatan di Bursa Efek Indonesia pada 4 September 2026, dengan PT Bank KB Indonesia Tbk bertindak sebagai wali amanat."
+  ],
+  "fotoAdegan": "Stacks of large industrial paper rolls inside a pulp and paper mill, forklift moving between them, workers in hard hats and vests",
+  "takeaway": "Laporan ini netral bagi INKP karena sekadar menjalankan tahap lanjutan dari program penerbitan utang yang sudah efektif sejak Maret 2026, bukan langkah baru yang mengubah arah bisnis atau struktur pemilik perusahaan. Yang tersentuh adalah beban bunga dan arus kas: dana dari obligasi dan sukuk baru ini akan masuk sebagai kas pada awal September, tetapi perseroan juga terikat membayar bunga dan bagi hasil setiap tiga bulan sampai jatuh tempo di 2029 dan 2031, sehingga total kewajiban bunga perseroan bertambah selama instrumen ini beredar. Yang perlu dipantau adalah tanggal penjatahan pada 1 September 2026, yang menentukan berapa besar porsi obligasi dan sukuk yang benar-benar terserap pasar, terutama untuk porsi yang hanya dijamin kesanggupan terbaik dan berisiko tidak terbit penuh, serta pencatatan resmi di Bursa Efek Indonesia pada 4 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "admf-komisaris-theresia-widjaja-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "ADMF: Komisaris Theresia Widjaja Ajukan [Pengunduran Diri]",
+  "deck": "Komisaris ADMF, Theresia Adriana Widjaja, mengajukan pengunduran diri lewat surat tertanggal 28 Agustus 2026. Keputusan final soal jabatannya akan diambil dalam RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T01:49:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0f3a0fa10c_61783c22cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADMF",
+  "tags": [
+   "ADMF",
+   "Komisaris",
+   "RUPS",
+   "Adira Dinamika Multi Finance"
+  ],
+  "body": [
+   "PT Adira Dinamika Multi Finance Tbk (ADMF) mengumumkan bahwa Theresia Adriana Widjaja mengundurkan diri dari jabatan Komisaris Perseroan. Surat pengunduran diri tertanggal 28 Agustus 2026 diterima perusahaan pada tanggal yang sama. Pengumuman ini disampaikan Corporate Secretary ADMF, Veronika Dyah Puspitaningrum, kepada Otoritas Jasa Keuangan (OJK) dan Direktur Penilaian Perusahaan Bursa Efek Indonesia (BEI) pada 31 Agustus 2026, sesuai kewajiban keterbukaan informasi berdasarkan Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Perusahaan menegaskan bahwa keputusan atas permohonan pengunduran diri tersebut tidak diambil sepihak oleh manajemen, melainkan akan diputuskan dalam Rapat Umum Pemegang Saham (RUPS), mengacu pada pasal 8 ayat 3 POJK 33/2014 dan pasal 14 ayat 6 Anggaran Dasar Perseroan. Dengan kata lain, jabatan Theresia sebagai Komisaris secara formal belum berakhir sampai para pemegang saham menyetujui pengunduran dirinya dalam forum RUPS tersebut. Dokumen ini tidak menyebutkan alasan pengunduran diri, nama calon pengganti, maupun tanggal RUPS yang dimaksud."
+  ],
+  "fotoAdegan": "Modern high-rise office tower in Jakarta's financial district viewed from street level, glass facade reflecting the sky, midday light",
+  "takeaway": "Laporan ini netral bagi ADMF, karena yang terjadi adalah pergantian personel di jajaran pengawas perusahaan, bukan peristiwa yang mengubah kondisi keuangan atau arah bisnis perusahaan. Pengunduran diri seorang komisaris tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar, tapi pelaku pasar tetap mencermati komposisi dewan komisaris karena merekalah yang mengawasi kinerja direksi dan menjaga kepentingan pemegang saham. Yang perlu dipantau selanjutnya adalah RUPS yang akan mengesahkan atau menolak pengunduran diri ini, sebab dokumen belum mencantumkan tanggal pelaksanaannya, sekaligus apakah perusahaan akan mengumumkan calon pengganti sebelum forum tersebut digelar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asii-ajukan-tender-sukarela-beli-saham-auto-rp858-4-m",
+  "category": "Aksi Korporasi",
+  "title": "ASII Ajukan [Tender] Sukarela Beli Saham AUTO Rp858,4 M",
+  "deck": "ASII mengajukan penawaran tender sukarela untuk membeli hingga 4,947% saham AUTO senilai maksimum Rp858,4 miliar, menambah kepemilikannya menjadi 84,947%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T01:21:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/38b75aa4c8_8b716ca046.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASII",
+  "tags": [
+   "ASII",
+   "AUTO",
+   "tender sukarela",
+   "Astra Otoparts"
+  ],
+  "body": [
+   "Astra International Tbk (ASII) mengumumkan Pernyataan Penawaran Tender Sukarela atas saham PT Astra Otoparts Tbk (AUTO) pada 31 Agustus 2026 melalui surat kabar Investor Daily dan Bisnis Indonesia, sesuai ketentuan POJK No. 54/POJK.04/2015 tentang Penawaran Tender Sukarela. Saat ini ASII sudah memegang 3.855.786.337 saham AUTO, setara 80 persen dari modal ditempatkan dan disetor perusahaan komponen otomotif tersebut.",
+   "Melalui penawaran ini, ASII berniat membeli sebanyak-banyaknya 238.442.293 saham AUTO, atau sekitar 4,947 persen dari modal ditempatkan dan disetor, dengan harga Rp3.600 per saham. Total nilai transaksi maksimum mencapai Rp858.392.254.800, setara Rp858,4 miliar. Jika seluruh saham yang ditawar berhasil diperoleh, kepemilikan ASII di AUTO akan naik menjadi maksimal 4.094.228.630 saham atau sekitar 84,947 persen.",
+   "ASII menyatakan memiliki dana yang cukup untuk membayar penuh transaksi ini, dengan sumber dana dari kas internal perusahaan, bukan pinjaman. Perusahaan juga menegaskan bahwa informasi ini tidak berdampak material terhadap kelangsungan usahanya, dan pelaksanaan penawaran tender ini masih menunggu pernyataan efektif dari Otoritas Jasa Keuangan (OJK)."
+  ],
+  "fotoAdegan": "Workers inspecting automotive spare parts on an assembly line inside a components factory, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi ASII, karena perusahaan memakai kas internal, bukan utang, untuk menambah kepemilikan di anak usaha yang sudah menguntungkan dan sudah dikonsolidasi ke laporan keuangannya. Yang tersentuh adalah arus kas, karena hingga Rp858,4 miliar kas internal akan terpakai, dan potensi laba per saham ASII, sebab kenaikan kepemilikan dari 80 persen menjadi maksimal 84,947 persen berarti porsi laba AUTO yang harus disisihkan untuk pemegang saham minoritas AUTO akan mengecil, sehingga bagian laba yang jadi hak ASII bertambah. Transaksi ini tidak menambah jumlah saham ASII yang beredar, sehingga tidak ada risiko dilusi bagi pemegang saham ASII sendiri. Yang perlu dipantau berikutnya adalah terbitnya pernyataan efektif dari OJK, karena pelaksanaan penawaran tender ini baru bisa berjalan setelah syarat itu dipenuhi, dan dokumen ini belum mencantumkan jadwal pasti periode penawarannya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
   "category": "Industri",
   "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
@@ -4245,7 +4452,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

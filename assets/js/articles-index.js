@@ -54,6 +54,134 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463783-harga-minyak-dunia-mendadak-tembus-us90-serangan-as-ke-iran-bikin-pasar-ketar-ketir"
  },
  {
+  "slug": "life-tanggapi-bursa-ungkap-progres-spin-off-unit-syariah-ke-ojk",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Tanggapi Bursa, Ungkap Progres [Spin-off] Unit Syariah ke OJK",
+  "deck": "MSIG Life Insurance Indonesia menyatakan tidak ada informasi material di balik volatilitas sahamnya, namun mengungkap proses pengalihan portofolio unit syariah dan sikap pemegang saham pengendali.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance",
+   "spin-off syariah",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f17cc6b7e_c944a3305b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dewi-utang-bank-jangka-pendek-melonjak-509-laba-naik-43",
+  "category": "Aksi Korporasi",
+  "title": "DEWI: Utang Bank [Jangka Pendek] Melonjak 509%, Laba Naik 43%",
+  "deck": "Total liabilitas DEWI naik 64,4 persen dalam enam bulan karena utang bank jangka pendek melonjak dan utang jangka panjang lunas, sementara penjualan dan laba naik lebih dari 40 persen.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DEWI",
+   "laporan keuangan",
+   "utang bank",
+   "peternakan ayam"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831042919-64274-0/FinancialStatement-2026-II-DEWI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-kaji-bagi-dividen-usai-kuasi-reorganisasi-rampung",
+  "category": "Aksi Korporasi",
+  "title": "BWPT Kaji Bagi [Dividen] Usai Kuasi Reorganisasi Rampung",
+  "deck": "Eagle High Plantations memaparkan hasil public expose insidentil, termasuk rencana dividen, peringkat kredit baru, dan target perluasan kebun plasma hingga 2030.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "dividen",
+   "kuasi reorganisasi",
+   "kelapa sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8688c1653b_18d856259c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "auto-asii-ajukan-tender-sukarela-beli-saham-rp3-600",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: ASII Ajukan [Tender Sukarela] Beli Saham Rp3.600",
+  "deck": "ASII, pemegang 80% saham Astra Otoparts, menawarkan tender sukarela membeli hingga 238,4 juta saham publik (4,95%) di harga Rp3.600 per saham.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "ASII",
+   "tender sukarela",
+   "Astra Otoparts"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84f1333bdc_b7d35f61d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsky-laporkan-progres-pemulihan-baru-bayar-utang-13",
+  "category": "Aksi Korporasi",
+  "title": "JSKY Laporkan Progres Pemulihan, Baru Bayar Utang [13%]",
+  "deck": "Sky Energy Indonesia melaporkan progres pemulihan penyebab suspensi ke BEI, termasuk negosiasi akhir skema cessie dengan calon investor dan pembayaran utang homologasi yang baru mencapai 13 persen.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSKY",
+   "suspensi saham",
+   "PKPU",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3673ee6471_91127fc21c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-tawarkan-obligasi-dan-sukuk-baru-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Tawarkan Obligasi dan Sukuk Baru [Rp3,5 Triliun]",
+  "deck": "Indah Kiat Pulp & Paper merilis rincian penawaran obligasi, sukuk mudharabah, dan obligasi dolar tahap baru dengan total target Rp3,5 triliun plus US$25 juta.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c62198c777_37d63da294.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "admf-komisaris-theresia-widjaja-ajukan-pengunduran-diri",
+  "category": "Aksi Korporasi",
+  "title": "ADMF: Komisaris Theresia Widjaja Ajukan [Pengunduran Diri]",
+  "deck": "Komisaris ADMF, Theresia Adriana Widjaja, mengajukan pengunduran diri lewat surat tertanggal 28 Agustus 2026. Keputusan final soal jabatannya akan diambil dalam RUPS.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADMF",
+   "Komisaris",
+   "RUPS",
+   "Adira Dinamika Multi Finance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0f3a0fa10c_61783c22cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-ajukan-tender-sukarela-beli-saham-auto-rp858-4-m",
+  "category": "Aksi Korporasi",
+  "title": "ASII Ajukan [Tender] Sukarela Beli Saham AUTO Rp858,4 M",
+  "deck": "ASII mengajukan penawaran tender sukarela untuk membeli hingga 4,947% saham AUTO senilai maksimum Rp858,4 miliar, menambah kepemilikannya menjadi 84,947%.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "AUTO",
+   "tender sukarela",
+   "Astra Otoparts"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/38b75aa4c8_8b716ca046.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
   "category": "Industri",
   "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
@@ -2637,7 +2765,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/wisatawan-kopi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6364,134 +6492,6 @@ var ARTICLES = [
    "Anggaran Dasar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnba-gelar-rupslb-ganti-presiden-direktur-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "BNBA Gelar [RUPSLB], Ganti Presiden Direktur dan Komisaris",
-  "deck": "Bank Bumi Arta memanggil RUPSLB 10 September 2026 untuk mengganti presiden direktur dan lima kursi komisaris, menyusul RUPST Juni yang gagal mencapai kesepakatan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bnba-gelar-rupslb-ganti-presiden-direktur-dan-komisaris.jpg",
-  "tags": [
-   "BNBA",
-   "RUPSLB",
-   "Bank Bumi Arta",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e7592fe4d_ac5234081c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-komisaris-lagi-lepas-10-5-juta-saham-suara-ke-53-65",
-  "category": "Aksi Korporasi",
-  "title": "MEDS: Komisaris [Lagi] Lepas 10,5 Juta Saham, Suara ke 53,65%",
-  "deck": "Komisaris Hetzer Medical Indonesia melepas 10,5 juta saham senilai sekitar Rp756,6 juta dalam lima transaksi pada 18 Agustus 2026, penjualan ketiga berturut-turut sejak pekan lalu.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "Komisaris",
-   "Kepemilikan Saham",
-   "Hetzer Medical Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19082026-1867-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57",
-  "category": "Aksi Korporasi",
-  "title": "CBDK Siapkan [Buyback] Rp250 Miliar usai Saham Turun 57%",
-  "deck": "Bangun Kosambi Sukses (CBDK) berencana membeli kembali saham senilai maksimal Rp250 miliar pada 20 Agustus hingga 19 November 2026, merespons harga saham yang anjlok 57 persen sepanjang tahun ini.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/cbdk-siapkan-buyback-rp250-miliar-usai-saham-turun-57.jpg",
-  "tags": [
-   "CBDK",
-   "buyback saham",
-   "pasar modal",
-   "Bangun Kosambi Sukses"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d44342c0e8_73713a588e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpns-kena-sanksi-bei-denda-rp50-juta-lk-triwulan-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "DPNS Kena [Sanksi] BEI, Denda Rp50 Juta LK Triwulan I 2026",
-  "deck": "Bursa Efek Indonesia menjatuhkan sanksi Peringatan Tertulis II dan denda Rp50 juta kepada DPNS karena belum menyerahkan laporan keuangan triwulan I 2026 yang diaudit hingga 30 Juli 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/dpns-kena-sanksi-bei-denda-rp50-juta-lk-triwulan-i-2026.jpg",
-  "tags": [
-   "DPNS",
-   "sanksi BEI",
-   "laporan keuangan",
-   "Duta Pertiwi Nusantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7afaed5a3_188cda1898.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inru-tanggapi-dugaan-korupsi-transfer-pricing-rp2-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INRU Tanggapi Dugaan Korupsi [Transfer Pricing] Rp2 Triliun",
-  "deck": "Toba Pulp Lestari merespons permintaan penjelasan BEI soal pemberitaan dugaan korupsi transfer pricing Ditjen Pajak senilai Rp2 triliun yang disebut melibatkan perusahaan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/inru-tanggapi-dugaan-korupsi-transfer-pricing-rp2-triliun.jpg",
-  "tags": [
-   "INRU",
-   "Toba Pulp Lestari",
-   "korupsi",
-   "transfer pricing"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1fd338212c_4ff0cba4be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-rencanakan-pmthmetd-hingga-10-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Rencanakan [PMTHMETD] hingga 10% Saham Baru",
-  "deck": "BIPP berencana menerbitkan hingga 502,8 juta saham baru tanpa HMETD, mendilusi pemegang saham lama hingga 9,09 persen, untuk disetujui dalam RUPSLB 25 September 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bipp-rencanakan-pmthmetd-hingga-10-saham-baru.jpg",
-  "tags": [
-   "BIPP",
-   "penambahan modal",
-   "dilusi saham",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8bc2c670d7_605f73bcc0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbca-bagikan-dividen-interim-rp25-saham-total-rp3-07-t",
-  "category": "Aksi Korporasi",
-  "title": "BBCA Bagikan [Dividen] Interim Rp25/Saham, Total Rp3,07 T",
-  "deck": "BCA akan membagikan dividen interim Rp25 per saham senilai total Rp3,07 triliun untuk periode Januari-Juni 2026, dengan pembayaran pada 16 September 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBCA",
-   "dividen",
-   "perbankan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c3076472a8_e5ca870b61.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-terbitkan-pmthmetd-10-saham-baru-dilusi-maksimal-9-09",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Terbitkan [PMTHMETD] 10% Saham Baru, Dilusi Maksimal 9,09%",
-  "deck": "BIPP berencana menerbitkan sebanyak-banyaknya 502,9 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai ekspansi usaha, RUPSLB digelar 25 September 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bipp-terbitkan-pmthmetd-10-saham-baru-dilusi-maksimal-9-09.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0319fed249_7253b8a6e1.pdf",
   "sourceLabel": "IDX"
  }
 ];

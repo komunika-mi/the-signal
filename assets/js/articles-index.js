@@ -5,6 +5,126 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
+  "category": "Moneter",
+  "title": "BI dan Singapura [Aktifkan] Transaksi Rupiah-Dolar Singapura",
+  "deck": "Bank Indonesia dan otoritas moneter Singapura mulai menjalankan skema penyelesaian transaksi bilateral memakai rupiah dan dolar Singapura langsung, mulai 31 Agustus 2026.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura.jpg",
+  "imageV": "mth1cpu4",
+  "tags": [
+   "Bank Indonesia",
+   "MAS Singapura",
+   "Transaksi Mata Uang Lokal",
+   "Rupiah"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "anggaran-kemhan-2027-naik-jadi-rp189-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran Kemhan 2027 Naik Jadi [Rp189 Triliun]",
+  "deck": "Komisi I DPR mengungkap anggaran Kementerian Pertahanan untuk 2027 naik menjadi Rp189 triliun, bertambah Rp50 triliun dari pagu indikatif sebelumnya.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/anggaran-kemhan-2027-naik-jadi-rp189-triliun.jpg",
+  "imageV": "mth1cqi3",
+  "tags": [
+   "Kemhan",
+   "APBN 2027",
+   "Anggaran Pertahanan",
+   "DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463891-komisi-i-dpr-ungkap-kemhan-dapat-anggaran-rp189-triliun-di-2027"
+ },
+ {
+  "slug": "kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni",
+  "category": "Industri",
+  "title": "Kejagung Bongkar Dugaan [Manipulasi] Ekspor Nikel PT CNI",
+  "deck": "Kejaksaan Agung menyita Rp401,65 miliar diduga hasil manipulasi dokumen dan kadar ekspor nikel PT CNI periode 2017-2020.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni.jpg",
+  "imageV": "mth1cqyf",
+  "tags": [
+   "Kejagung",
+   "PT CNI",
+   "Ekspor Nikel",
+   "Korupsi Tambang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463876-kejagung-ungkap-pt-cni-diduga-manipulasi-dokumen-ekspor-komoditas-nikel"
+ },
+ {
+  "slug": "presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Janji [Pinjaman Lunak] Ganti Rentenir",
+  "deck": "Presiden Prabowo Subianto menjanjikan pinjaman lunak dari sumber daya dalam negeri agar masyarakat tidak lagi bergantung pada rentenir, namun mekanisme dan jadwalnya belum diumumkan.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir.jpg",
+  "imageV": "mth1crd7",
+  "tags": [
+   "pinjaman lunak",
+   "rentenir",
+   "kesejahteraan rakyat",
+   "kemiskinan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463868-prabowo-siapkan-pinjaman-lunak-untuk-rakyat-tak-perlu-lagi-berutang-ke-rentenir"
+ },
+ {
+  "slug": "dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027",
+  "category": "Makroekonomi",
+  "title": "DPR Panggil Menkeu Cs Bahas Target Ekonomi [6%] 2027",
+  "deck": "DPR memanggil lima pejabat ekonomi kunci untuk membahas sinergi kebijakan menuju target pertumbuhan 6 persen dan investasi Rp1.200 triliun pada 2027.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027.jpg",
+  "imageV": "mth1crsz",
+  "tags": [
+   "DPR",
+   "APBN 2027",
+   "pertumbuhan ekonomi",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463851-bos-bos-keuangan-dipanggil-dpr-hari-ini-bahas-target-ekonomi-6-dan-investasi-rp1200-triliun"
+ },
+ {
+  "slug": "danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city",
+  "category": "BUMN",
+  "title": "Danantara Siapkan [Rp456 Miliar] untuk Proyek LRT City",
+  "deck": "Danantara dan Adhi Karya menyusun skema percepatan penyelesaian proyek hunian LRT City yang berdampak pada 2.400 konsumen.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city.jpg",
+  "imageV": "mth1cs6v",
+  "tags": [
+   "danantara",
+   "lrt city",
+   "adhi karya",
+   "adcp"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463845-danantara-siapkan-rp456-miliar-proyek-lrt-city-dikebut-demi-2400-konsumen"
+ },
+ {
+  "slug": "dolar-as-kembali-perkasa-yen-dekati-160",
+  "category": "Global",
+  "title": "Dolar AS Kembali [Perkasa], Yen Dekati 160",
+  "deck": "Yen mendekati 160 per dolar dan harga minyak melonjak akibat konflik AS-Iran, sementara peluang kenaikan bunga Fed naik ke 57 persen.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/dolar-as-kembali-perkasa-yen-dekati-160.jpg",
+  "imageV": "mth1csm7",
+  "tags": [
+   "dolar AS",
+   "yen jepang",
+   "harga minyak",
+   "suku bunga Fed"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463828-dolar-as-kembali-jadi-raja-yen-tertekan-dekati-160-dan-harga-minyak-melesat"
+ },
+ {
   "slug": "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
   "category": "Bisnis",
   "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
@@ -180,6 +300,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/38b75aa4c8_8b716ca046.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "backlog-rumah-turun-ke-12-39-persen-masih-9-29-juta-keluarga",
+  "category": "Makroekonomi",
+  "title": "Backlog Rumah Turun ke [12,39] Persen, Masih 9,29 Juta Keluarga",
+  "deck": "BPS mencatat penurunan angka backlog perumahan pada 2026, tapi 9,29 juta keluarga masih belum punya rumah sendiri dan 18,01 juta keluarga menghuni rumah tak layak.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/konstruksi-perumahan.jpg",
+  "tags": [
+   "backlog perumahan",
+   "BPS",
+   "rumah layak huni",
+   "perumahan"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2651",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
@@ -6364,134 +6500,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ca2ba171f2_9603b16cd4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beef-jadwalkan-public-expose-buntut-suspensi-cooling-down",
-  "category": "Aksi Korporasi",
-  "title": "BEEF Jadwalkan Public Expose Buntut [Suspensi] Cooling Down",
-  "deck": "Perseroan menjadwalkan paparan publik insidentil pada 24 Agustus 2026 untuk menjelaskan suspensi cooling down atas sahamnya yang berlaku sejak 19 Agustus 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "suspensi saham",
-   "public expose",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20edc84d62_cdb05d04fd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-jual-492-800-saham-senilai-rp250-juta",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris [Jual] 492.800 Saham Senilai Rp250 Juta",
-  "deck": "Komisaris AKPI Henry Liem melepas 492.800 saham dalam tiga transaksi pada 18 Agustus 2026 senilai sekitar Rp250,4 juta, hak suaranya turun tipis menjadi 1,75 persen.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-6804-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-panggil-rupslb-tunjuk-komisaris-baru",
-  "category": "Aksi Korporasi",
-  "title": "TCPI Panggil RUPSLB, Tunjuk [Komisaris] Baru",
-  "deck": "PT Transcoal Pacific Tbk mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui penambahan satu anggota Dewan Komisaris baru.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Transcoal Pacific"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/df9de56d93_c69a0a7812.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BAJA raih laba Rp21,3 miliar, utang [berelasi] Rp349 M jatuh tempo",
-  "deck": "SCB catat laba bersih Rp21,33 miliar semester I 2026 dan siapkan PMHMETD untuk menata utang ke pihak berelasi Rp348,86 miliar yang jatuh tempo setahun ke depan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/baja-raih-laba-rp21-3-miliar-utang-berelasi-rp349-m-jatuh-tempo.jpg",
-  "tags": [
-   "BAJA",
-   "suspensi saham",
-   "PMHMETD",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ba2189153e_e56a5f6170.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmf-sahkan-rupst-lewat-keputusan-sirkuler-pemegang-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMMF Sahkan RUPST Lewat [Keputusan Sirkuler] Pemegang Saham",
-  "deck": "RUPST PT Sinar Mas Multifinance disahkan lewat keputusan sirkuler pada 19 Agustus 2026, disetujui penuh oleh dua pemegang saham yang menguasai seluruh 1,55 juta saham perseroan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/smmf-sahkan-rupst-lewat-keputusan-sirkuler-pemegang-saham.jpg",
-  "tags": [
-   "SMMF",
-   "RUPST",
-   "Sinar Mas Multifinance",
-   "Multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c9c793e798_567da91da4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-ganti-pengendali-saiko-kuasai-29-41-saham",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ ganti [pengendali], Saiko kuasai 29,41% saham",
-  "deck": "Saiko Consultancy Pte. Ltd. resmi menjadi pengendali baru NAYZ usai membeli 750 juta saham senilai Rp17,6 miliar dari PT Asia Intrainvesta.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/nayz-ganti-pengendali-saiko-kuasai-29-41-saham.jpg",
-  "tags": [
-   "NAYZ",
-   "perubahan pengendali",
-   "akuisisi",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e8de72d99b_e3116db65b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-kantongi-dividen-interim-rp100-miliar-dari-tirta",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Kantongi [Dividen] Interim Rp100 Miliar dari Tirta",
-  "deck": "PT Avia Avian Tbk menerima dividen interim sebesar Rp99,99 miliar dari anak usahanya, PT Tirtakencana Tatawarna, pada 19 Agustus 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/avia-kantongi-dividen-interim-rp100-miliar-dari-tirta.jpg",
-  "tags": [
-   "AVIA",
-   "dividen interim",
-   "Avia Avian",
-   "Tirtakencana Tatawarna"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96da3b2970_a5de55c464.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mine-batalkan-rupslb-agenda-pergantian-direksi-molor",
-  "category": "Aksi Korporasi",
-  "title": "MINE [Batalkan] RUPSLB, Agenda Pergantian Direksi Molor",
-  "deck": "RUPSLB PT Sinar Terang Mandiri Tbk yang dijadwalkan 31 Agustus 2026 batal digelar tanpa jadwal pengganti, agenda pergantian direksi dan perubahan anggaran dasar ikut tertunda.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/mine-batalkan-rupslb-agenda-pergantian-direksi-molor.jpg",
-  "tags": [
-   "MINE",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/45ff5ecdcc_c1ef1988c2.pdf",
   "sourceLabel": "IDX"
  }
 ];

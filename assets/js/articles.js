@@ -3,6 +3,194 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
+  "category": "Moneter",
+  "title": "BI dan Singapura [Aktifkan] Transaksi Rupiah-Dolar Singapura",
+  "deck": "Bank Indonesia dan otoritas moneter Singapura mulai menjalankan skema penyelesaian transaksi bilateral memakai rupiah dan dolar Singapura langsung, mulai 31 Agustus 2026.",
+  "image": "assets/img/bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T09:24:04.234Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817526.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "MAS Singapura",
+   "Transaksi Mata Uang Lokal",
+   "Rupiah"
+  ],
+  "body": [
+   "Bank Indonesia dan Monetary Authority of Singapore resmi mengoperasionalkan kerangka penyelesaian transaksi bilateral menggunakan mata uang lokal, atau Local Currency Transaction (LCT), mulai 31 Agustus 2026. Perkembangan ini penting karena mulai sekarang perusahaan yang bertransaksi dengan mitra di Singapura bisa menyelesaikan pembayaran langsung dalam rupiah atau dolar Singapura, tanpa lebih dulu mengonversinya ke dolar Amerika Serikat seperti kebiasaan selama ini.",
+   "Skema ini merupakan tindak lanjut dari nota kesepahaman yang diteken kedua bank sentral pada Agustus 2022, serta pedoman operasional yang baru disepakati April 2026. Ketentuan pelaksanaannya dituangkan dalam Peraturan Anggota Dewan Gubernur Bank Indonesia Nomor 25 Tahun 2026 tentang Penyelesaian Transaksi Bilateral antara Indonesia dan Singapura Menggunakan Rupiah dan Dolar Singapura melalui Bank. Bank yang ditunjuk sebagai Appointed Cross Currency Dealer di kedua negara akan memfasilitasi penyelesaian transaksi berjalan, investasi langsung, dan pembayaran lintas negara dalam rupiah-dolar Singapura.",
+   "Bank Indonesia dan MAS menyebut kerangka ini diharapkan memberi fleksibilitas lebih besar bagi pelaku usaha, sekaligus mengurangi risiko nilai tukar dan biaya transaksi karena tidak perlu lagi konversi ganda lewat dolar AS. Fitur utamanya mencakup kuotasi langsung rupiah terhadap dolar Singapura, serta relaksasi sejumlah ketentuan untuk mendorong pemakaian mata uang lokal dalam transaksi intra-ASEAN.",
+   "Kedua bank sentral menyatakan telah menunjuk sejumlah bank pelaksana di Indonesia dan Singapura untuk memfasilitasi transaksi ini, meski daftar lengkapnya belum diumumkan secara rinci dalam siaran pers tersebut."
+  ],
+  "fotoAdegan": "Container ships docked at a busy Southeast Asian port with gantry cranes loading cargo, workers in hard hats nearby, daylight",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp_2817526.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah secara konkret adalah bank-bank yang ditunjuk Bank Indonesia dan MAS sekarang boleh menyelesaikan transaksi dagang dan investasi antara Indonesia dan Singapura langsung memakai rupiah dan dolar Singapura, tanpa harus mengonversi dulu ke dolar Amerika. Yang terdampak adalah eksportir, importir, dan investor yang bertransaksi dengan mitra di Singapura, karena mereka berpotensi menghemat biaya konversi ganda dan mengurangi paparan terhadap naik turunnya kurs dolar. Perjanjian ini diteken sejak Agustus 2022 tapi baru berjalan sekarang, empat tahun kemudian, sejalan dengan pola Bank Indonesia yang bertahap memperluas jaringan transaksi mata uang lokal dengan mitra dagang utama. Yang masih perlu dipantau adalah daftar lengkap bank pelaksana serta data seberapa banyak transaksi yang benar-benar berpindah dari dolar AS ke rupiah-dolar Singapura, karena kerangka serupa dengan negara lain tidak selalu langsung ramai dipakai pelaku usaha.",
+  "imageV": "mth1cpu4"
+ },
+ {
+  "slug": "anggaran-kemhan-2027-naik-jadi-rp189-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran Kemhan 2027 Naik Jadi [Rp189 Triliun]",
+  "deck": "Komisi I DPR mengungkap anggaran Kementerian Pertahanan untuk 2027 naik menjadi Rp189 triliun, bertambah Rp50 triliun dari pagu indikatif sebelumnya.",
+  "image": "assets/img/anggaran-kemhan-2027-naik-jadi-rp189-triliun.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T15:55:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463891-komisi-i-dpr-ungkap-kemhan-dapat-anggaran-rp189-triliun-di-2027",
+  "tags": [
+   "Kemhan",
+   "APBN 2027",
+   "Anggaran Pertahanan",
+   "DPR"
+  ],
+  "body": [
+   "Ketua Komisi I DPR RI Utut Adianto mengungkapkan Kementerian Pertahanan akan menerima anggaran sebesar Rp189 triliun pada tahun anggaran 2027. Angka ini bertambah sekitar Rp50 triliun dari jatah awal yang sebelumnya diusulkan sebesar Rp139 triliun.",
+   "Utut menyampaikan hal itu usai rapat bersama Kemhan di Gedung DPR, Jakarta Pusat, Senin, 31 Agustus 2026. Ia menegaskan angka Rp189 triliun tersebut merupakan hasil pembahasan APBN 2027 untuk pos anggaran Kemhan.",
+   "Menteri Pertahanan Sjafrie Sjamsoeddin mengatakan dana tersebut akan dipakai semaksimal mungkin untuk tugas-tugas pertahanan negara sekaligus pemulihan bencana alam. Dalam rapat yang sama, Kemhan juga melaporkan penanganan kebakaran hutan dan lahan yang melibatkan seluruh kemampuan Kemhan dan TNI.",
+   "Sjafrie menambahkan pemerintah telah menerima bantuan dari negara sahabat, termasuk Jepang yang mengirimkan pesawat untuk membantu pemadaman api. Ia menyebut bantuan ini sebagai bentuk kerja sama pertahanan antar negara."
+  ],
+  "fotoAdegan": "A firefighting aircraft flying low over smoky forest terrain to drop water during a wildfire response, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5ded741b2eb-ketua-komisi-i-dpr-ri-utut-adianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah jumlahnya sendiri: anggaran Kemhan untuk 2027 naik menjadi Rp189 triliun, bertambah Rp50 triliun dari angka awal yang disebut pagu indikatif sebesar Rp139 triliun, yaitu jatah sementara sebelum dibahas dan disahkan DPR. Kenaikan ini menunjukkan pembahasan anggaran bergerak ke arah penambahan, bukan pemangkasan. Yang terdampak langsung adalah Kemhan dan TNI, karena Menhan Sjafrie menyebut dana itu dipakai bukan hanya untuk tugas pertahanan biasa, tapi juga penanganan bencana seperti kebakaran hutan dan lahan. Pola ini mengarah ke perluasan peran Kemhan dan TNI ke tugas non tempur seperti penanggulangan bencana, sejalan dengan keterlibatan mereka menangani karhutla bersama bantuan pesawat dari Jepang. Yang akan memastikan apakah tambahan Rp50 triliun ini benar-benar cair sesuai rencana adalah pengesahan resmi RAPBN 2027 oleh DPR, yang biasanya baru final menjelang akhir tahun.",
+  "imageV": "mth1cqi3"
+ },
+ {
+  "slug": "kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni",
+  "category": "Industri",
+  "title": "Kejagung Bongkar Dugaan [Manipulasi] Ekspor Nikel PT CNI",
+  "deck": "Kejaksaan Agung menyita Rp401,65 miliar diduga hasil manipulasi dokumen dan kadar ekspor nikel PT CNI periode 2017-2020.",
+  "image": "assets/img/kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T15:04:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463876-kejagung-ungkap-pt-cni-diduga-manipulasi-dokumen-ekspor-komoditas-nikel",
+  "tags": [
+   "Kejagung",
+   "PT CNI",
+   "Ekspor Nikel",
+   "Korupsi Tambang"
+  ],
+  "body": [
+   "Kejaksaan Agung menyita uang senilai Rp401,65 miliar dalam penyidikan dugaan korupsi tata kelola komoditas nikel di PT Ceria Nugraha Indotama (CNI) untuk periode 2017 sampai 2020. Direktur Penyidikan Jaksa Agung Muda Tindak Pidana Khusus, Saiful Bahri Siregar, menyebut penyitaan ini terkait dugaan manipulasi dokumen ekspor nikel oleh perusahaan tersebut. Kasus ini menyangkut potensi kerugian negara dari praktik ekspor mineral yang seharusnya diatur ketat lewat izin dan uji kadar.",
+   "Menurut Saiful, penyidik menemukan bahwa PT CNI melakukan ekspor nikel meski belum mengantongi Rencana Kerja dan Anggaran Biaya (RKAB), yaitu dokumen izin yang memuat rencana produksi dan penjualan tambang yang wajib dimiliki sebelum mengirim barang ke luar negeri. Ia menyebut PT CNI diduga bekerja sama dengan pihak penyelenggara negara mengatur hasil uji kadar nikel sehingga tercatat di bawah 1,7 persen, angka yang disebut sebagai ambang syarat ekspor. Dokumen hasil uji yang sudah diatur itu kemudian dipakai sebagai dasar pengiriman nikel ke luar negeri.",
+   "Saiful menyebut rangkaian manipulasi dokumen dan kadar nikel itulah yang menyebabkan kerugian keuangan negara, yang menjadi dasar penyitaan uang Rp401,65 miliar oleh Kejagung. Keterangan ini disampaikan Saiful di kantor Kejagung, Jakarta Selatan, Senin (31/8/2026)."
+  ],
+  "fotoAdegan": "Nickel ore stockpiles beside a loading conveyor at a tropical mining port, workers in hard hats monitoring the process.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a952f33de937-kejagung-sita-rp40165-miliar-kasus-dugaan-korupsi-tata-kelola-nikel-di-pt-cni_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Kejaksaan Agung resmi menyita uang senilai Rp401,65 miliar yang diduga menjadi kerugian negara dari dugaan manipulasi dokumen dan kadar nikel dalam ekspor PT Ceria Nugraha Indotama sepanjang 2017 sampai 2020. Yang kena dampak langsung adalah manajemen PT CNI serta pihak penyelenggara negara yang disebut ikut mengatur hasil uji kadar nikel supaya lolos syarat ekspor, meski identitas resminya belum diumumkan dalam keterangan ini. Berita ini baru sampai tahap pengungkapan modus oleh penyidik, belum menyebut siapa yang sudah berstatus tersangka atau bagaimana uang sitaan itu akan diproses lebih lanjut. Yang perlu ditunggu adalah keterangan Kejagung berikutnya soal penetapan tersangka dan rincian pihak penyelenggara negara yang dimaksud, karena itu yang akan menentukan apakah kasus ini berhenti di satu perusahaan atau melebar ke pihak lain dalam rantai perizinan ekspor nikel.",
+  "imageV": "mth1cqyf"
+ },
+ {
+  "slug": "presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Janji [Pinjaman Lunak] Ganti Rentenir",
+  "deck": "Presiden Prabowo Subianto menjanjikan pinjaman lunak dari sumber daya dalam negeri agar masyarakat tidak lagi bergantung pada rentenir, namun mekanisme dan jadwalnya belum diumumkan.",
+  "image": "assets/img/presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T14:37:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463868-prabowo-siapkan-pinjaman-lunak-untuk-rakyat-tak-perlu-lagi-berutang-ke-rentenir",
+  "tags": [
+   "pinjaman lunak",
+   "rentenir",
+   "kesejahteraan rakyat",
+   "kemiskinan"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menegaskan pemerintah akan memastikan seluruh rakyat Indonesia bisa hidup dengan penghasilan yang layak, termasuk lewat penyediaan pinjaman berbunga rendah agar masyarakat tidak lagi bergantung pada rentenir. Pernyataan itu disampaikan Presiden Prabowo dalam sambutan penutupan Muktamar ke-35 Nahdlatul Ulama di Jombang, Senin (31/8/2026). Janji ini penting bagi warga yang selama ini terpaksa meminjam ke rentenir atau tengkulak saat butuh dana mendesak, karena akses kredit formal masih sulit dijangkau.",
+   "Presiden Prabowo mengatakan negara akan hadir membantu masyarakat memenuhi kebutuhan pokok seperti pangan dan tempat tinggal yang layak, sekaligus penghasilan bulanan yang mencukupi. Pinjaman lunak yang dijanjikan pemerintah akan dibiayai dari kekuatan dan kekayaan dalam negeri sendiri, bukan dari utang luar negeri. \"Negara akan hadir di tengah-tengah rakyat, sehingga rakyat kalau perlu dia dapat pinjaman lunak dari kekuatan kita sendiri. Tidak usah lagi ke tengkulak-tengkulak atau kepada siapa pun,\" kata Presiden Prabowo, seraya menyebut strategi ini akan diwujudkan dalam waktu dekat.",
+   "Selain soal akses pembiayaan, Presiden Prabowo juga menyinggung komitmen pemerintah menekan angka kemiskinan dengan memastikan setiap rupiah anggaran negara memberi manfaat langsung bagi masyarakat. Namun dalam pernyataannya, Presiden Prabowo belum merinci besaran anggaran, lembaga penyalur, maupun jadwal peluncuran program pinjaman lunak tersebut."
+  ],
+  "fotoAdegan": "Traditional market vendors arranging fresh produce at wooden stalls in an Indonesian morning market, natural light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9501c08771c-presiden-prabowo-subianto-di-muktamar-ke-35-nu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pernyataan ini adalah janji pemerintah menyediakan pinjaman berbunga rendah yang dibiayai dari sumber daya dalam negeri, sebagai alternatif bagi warga yang selama ini terpaksa meminjam ke rentenir atau tengkulak dengan bunga tinggi. Yang berpotensi terdampak adalah masyarakat berpenghasilan rendah dan pelaku usaha kecil yang selama ini sulit mengakses kredit bank karena tidak punya jaminan atau riwayat kredit. Presiden Prabowo belum menyebut lembaga penyalur, besaran bunga, plafon pinjaman, atau syarat penerima, sehingga program ini masih berupa rencana ketimbang kebijakan yang siap dijalankan. Yang perlu dipantau adalah aturan teknis atau peluncuran resminya, karena Presiden hanya menyebut akan diwujudkan \"dalam waktu dekat\" tanpa tanggal pasti.",
+  "imageV": "mth1crd7"
+ },
+ {
+  "slug": "dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027",
+  "category": "Makroekonomi",
+  "title": "DPR Panggil Menkeu Cs Bahas Target Ekonomi [6%] 2027",
+  "deck": "DPR memanggil lima pejabat ekonomi kunci untuk membahas sinergi kebijakan menuju target pertumbuhan 6 persen dan investasi Rp1.200 triliun pada 2027.",
+  "image": "assets/img/dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T13:34:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463851-bos-bos-keuangan-dipanggil-dpr-hari-ini-bahas-target-ekonomi-6-dan-investasi-rp1200-triliun",
+  "tags": [
+   "DPR",
+   "APBN 2027",
+   "pertumbuhan ekonomi",
+   "investasi"
+  ],
+  "body": [
+   "DPR RI memanggil sejumlah pejabat ekonomi papan atas ke Kompleks Parlemen, Jakarta, Senin (31/8/2026), untuk membahas arah kebijakan ekonomi Indonesia pada 2027, termasuk target pertumbuhan 6 persen dan rencana investasi Rp1.200 triliun. Pertemuan ini penting karena hasil koordinasi antar-kementerian pada tahap awal ini akan menjadi dasar pembahasan anggaran negara tahun depan, yang pada akhirnya memengaruhi belanja pemerintah, defisit anggaran, dan iklim investasi yang dirasakan pelaku usaha.",
+   "Rapat koordinasi dan konsultasi tersebut digelar bersama pimpinan DPR RI dan pimpinan Komisi XI DPR RI, dipimpin Wakil Ketua DPR RI Sari Yuliati. Dari pihak pemerintah, hadir Menteri Keuangan Purbaya Yudhi Sadewa, Gubernur Bank Indonesia terpilih Destry Damayanti, Ketua Dewan Komisioner Otoritas Jasa Keuangan Friderica Widyasari Dewi, Menteri Perencanaan Pembangunan Nasional sekaligus Kepala Bappenas Rachmat Pambudy, serta Chief Operating Officer BPI Danantara Donny Oskaria.",
+   "Wakil Ketua Komisi XI DPR RI Fauzi menjelaskan, rapat ini bertujuan menyelaraskan kebijakan antar-kementerian dan lembaga agar sejalan dengan target tumbuh lebih tinggi dan sejahtera lebih cepat. \"Kita ingin melakukan koordinasi dan konsultasi antara satu kementerian dengan kementerian yang lain supaya bersinergi, sesuai dengan tema untuk mewujudkan tumbuh lebih tinggi, sejahtera lebih cepat,\" kata Fauzi di Kompleks Gedung DPR RI, Jakarta, Senin (31/8/2026).",
+   "Selain target pertumbuhan ekonomi, forum ini turut membahas sejumlah asumsi dasar ekonomi makro untuk 2027, meliputi proyeksi belanja negara, defisit APBN, dan investasi sebagai salah satu penopang pertumbuhan. Pembahasan ini menjadi tahap awal sebelum asumsi-asumsi tersebut dibawa ke pembahasan teknis anggaran negara 2027 yang lebih mendalam."
+  ],
+  "fotoAdegan": "Empty formal hearing room with rows of chairs, table microphones, and an Indonesian flag stand, soft morning light through tall windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a848b02a70ee-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan angka baru, melainkan tahapannya: DPR mengumpulkan lima pejabat ekonomi utama, dari Menteri Keuangan sampai calon Gubernur Bank Indonesia, dalam satu rapat koordinasi sebelum pembahasan detail anggaran 2027 dimulai. Yang terdampak langsung lebih dulu adalah kementerian dan lembaga itu sendiri, karena mereka dituntut menyamakan angka sebelum rencana belanja negara dan target investasi tahun depan dibawa ke rapat kerja teknis. Bagi masyarakat luas, dampaknya baru terasa belakangan lewat APBN 2027, karena besaran belanja negara dan defisit anggaran, yaitu selisih ketika pengeluaran pemerintah lebih besar dari pendapatannya, yang dibahas di sini ikut menentukan berapa banyak uang negara yang bisa dipakai untuk subsidi, infrastruktur, atau bantuan sosial tahun depan. Karena rapat ini baru tahap penyelarasan awal, belum bisa dipastikan apakah target pertumbuhan 6 persen dan investasi Rp1.200 triliun itu akan bertahan utuh atau dikoreksi saat masuk pembahasan teknis. Yang akan memastikannya adalah rapat kerja lanjutan Komisi XI dengan pemerintah soal asumsi makro dan RAPBN 2027, sampai angka final disepakati sebelum undang-undang anggarannya disahkan.",
+  "imageV": "mth1crsz"
+ },
+ {
+  "slug": "danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city",
+  "category": "BUMN",
+  "title": "Danantara Siapkan [Rp456 Miliar] untuk Proyek LRT City",
+  "deck": "Danantara dan Adhi Karya menyusun skema percepatan penyelesaian proyek hunian LRT City yang berdampak pada 2.400 konsumen.",
+  "image": "assets/img/danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T13:25:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463845-danantara-siapkan-rp456-miliar-proyek-lrt-city-dikebut-demi-2400-konsumen",
+  "tags": [
+   "danantara",
+   "lrt city",
+   "adhi karya",
+   "adcp"
+  ],
+  "body": [
+   "Danantara Indonesia tengah menyusun rencana kerja bersama PT Adhi Karya (Persero) Tbk untuk mempercepat penyelesaian persoalan proyek hunian LRT City, dengan target skema penyelesaian rampung pada Agustus 2026. Percepatan ini penting karena menyangkut kepastian bagi sekitar 2.400 konsumen yang unit huniannya masih tertahan.",
+   "Chief Operating Officer Danantara Indonesia, Dony Oskaria, mengatakan pihaknya masih mematangkan bentuk dukungan pendanaan untuk Adhi Karya. \"Saya sedang menyiapkan rencana kerja mereka karena mereka kan itu Tbk ya. Jadi setiap pemasukan harus ada keputusan RUPS mereka. Apakah bentuknya nanti equity, otomatis pemegang sahamnya terdilusi atau kita bentuknya shareholder loan. Ya, ini sedang kita lihat. Tapi itu akan segera dibereskan dalam bulan ini,\" kata Dony saat ditemui di Kompleks Parlemen, Jakarta, Senin (31/8/2026).",
+   "Danantara sebelumnya telah menyiapkan dana sebesar Rp456 miliar untuk membantu penyelesaian persoalan proyek yang dikembangkan oleh PT Adhi Commuter Properti Tbk (ADCP), anak usaha Adhi Karya. Dana tersebut disiapkan untuk menangani dampak yang dirasakan sekitar 2.400 konsumen hunian LRT City.",
+   "Dony menyebut Danantara dan Adhi Karya akan membahas opsi penyelesaian secara lebih rinci pada pekan ini, termasuk kemungkinan pemindahan unit bagi konsumen terdampak. \"Ini mereka (Adhi Karya) sedang paparan, baru paparan pertama sama saya. Jadi kita akan pilih mana yang paling cepat. Tentu nanti akan ada, apakah pemindahan unit dan lain sebagainya. Kita akan ketemu dengan Adhi Karya lebih detail lagi minggu ini,\" jelasnya."
+  ],
+  "fotoAdegan": "Unfinished mid-rise apartment blocks under construction beside an elevated light rail track, cranes and scaffolding, overcast late afternoon",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/21/6a880fefecb95-kepala-bp-bumn-sekaligus-coo-danantara-dony-oskaria_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya sedang diputuskan bukan soal proyeknya, melainkan bagaimana caranya Danantara memasukkan dana Rp456 miliar itu ke Adhi Karya. Kalau lewat suntikan modal, persentase kepemilikan pemegang saham Adhi Karya dan anak usahanya ADCP akan mengecil karena jumlah saham beredar bertambah. Kalau lewat pinjaman pemegang saham, Danantara hanya jadi pemberi utang dan komposisi saham tidak berubah, tapi Adhi Karya menanggung beban cicilan baru. Yang jelas kena dampak adalah 2.400 konsumen yang menunggu kejelasan unit huniannya, dan karena Adhi Karya perusahaan publik, skema mana pun harus lebih dulu disetujui pemegang sahamnya lewat rapat resmi. Arahnya akan mulai terlihat dari pertemuan rinci Danantara dan Adhi Karya pekan ini, serta kepastian skema yang dijanjikan Dony Oskaria rampung sebelum akhir Agustus 2026.",
+  "imageV": "mth1cs6v"
+ },
+ {
+  "slug": "dolar-as-kembali-perkasa-yen-dekati-160",
+  "category": "Global",
+  "title": "Dolar AS Kembali [Perkasa], Yen Dekati 160",
+  "deck": "Yen mendekati 160 per dolar dan harga minyak melonjak akibat konflik AS-Iran, sementara peluang kenaikan bunga Fed naik ke 57 persen.",
+  "image": "assets/img/dolar-as-kembali-perkasa-yen-dekati-160.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T12:30:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463828-dolar-as-kembali-jadi-raja-yen-tertekan-dekati-160-dan-harga-minyak-melesat",
+  "tags": [
+   "dolar AS",
+   "yen jepang",
+   "harga minyak",
+   "suku bunga Fed"
+  ],
+  "body": [
+   "Dolar Amerika Serikat menguat terhadap mata uang-mata uang Asia pada awal pekan, sementara yen Jepang kembali mendekati level psikologis 160 per dolar. Pergerakan ini penting bagi pembaca karena ikut menentukan harga barang impor, termasuk bahan baku industri di kawasan Asia yang banyak dibeli dengan dolar. Pemicunya adalah sinyal bunga acuan Amerika Serikat yang berpotensi naik lagi bulan depan, ditambah harga minyak dunia yang melonjak akibat memanasnya konflik Amerika Serikat dan Iran.",
+   "Ketua Federal Reserve Kevin Warsh melontarkan pernyataan yang condong ke arah pengetatan kebijakan, sehingga pasar kini menilai peluang kenaikan suku bunga Amerika Serikat sebesar 0,25 persen pada September naik menjadi sekitar 57 persen. Sejalan dengan itu, bunga surat utang pemerintah Amerika Serikat bertenor dua tahun naik ke 4,33 persen, level tertinggi dalam lebih dari sebulan, tanda investor memperkirakan bunga tinggi akan bertahan lebih lama. Indeks Dolar AS, ukuran kekuatan dolar terhadap sekeranjang mata uang utama dunia, berada di sekitar 99,60 setelah menguat 0,6 persen pada Jumat pekan lalu.",
+   "Sorotan terbesar jatuh pada yen Jepang, yang diperdagangkan di sekitar 159,83 per dolar, sangat dekat dengan level 160 yang sempat ditembus pada Jumat. Level ini menjadi perhatian karena jika yen melemah lebih jauh, otoritas Jepang dinilai berpotensi kembali turun tangan membeli yen di pasar untuk menahan pelemahannya, seperti yang pernah dilakukan bersama Amerika Serikat pada akhir Juli. Menteri Keuangan AS Scott Bessent menyebut pergerakan yen saat ini masih cukup terkendali dan berencana bertemu Gubernur Bank of Japan Kazuo Ueda dalam pertemuan G20 di North Carolina.",
+   "Eskalasi konflik Amerika Serikat dan Iran turut mendorong harga minyak dunia naik, memperkuat kecenderungan investor menghindari aset berisiko di pasar Asia. Kombinasi kenaikan harga minyak dan penguatan dolar ini menambah tekanan bagi mata uang regional yang sejak awal pekan sudah bergerak beragam."
+  ],
+  "fotoAdegan": "Oil tanker moving across open sea near a busy Southeast Asian port at dusk, industrial cranes silhouetted in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/04/6a21ab73df11f-mata-uang-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Ada dua perubahan konkret yang perlu dicatat, peluang kenaikan suku bunga Amerika Serikat naik ke sekitar 57 persen untuk September, dan yen kembali mendekati batas 160 per dolar setelah sempat ditembus Jumat lalu. Yang terdampak langsung adalah pelaku pasar mata uang di Asia dan otoritas keuangan Jepang, karena pelemahan yen lebih jauh bisa memaksa mereka membeli yen di pasar seperti akhir Juli lalu, sementara pelaku usaha Asia yang bergantung pada dolar untuk impor ikut menanggung biaya lebih mahal. Ke depan ada dua kemungkinan, jika Fed benar menaikkan bunga pada September dan yen terus melemah melewati 160, dolar berpotensi menguat lebih jauh dan mendorong Jepang kembali berintervensi bersama Amerika Serikat, tapi jika pergerakan yen tetap seperti yang digambarkan Menteri Keuangan Bessent sebagai terkendali, intervensi bisa tertunda. Yang akan memastikan arah mana yang terjadi adalah keputusan resmi Fed pada pertemuan September dan hasil pertemuan Bessent dengan Gubernur BOJ Kazuo Ueda di G20 North Carolina.",
+  "imageV": "mth1csm7"
+ },
+ {
   "slug": "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
   "category": "Bisnis",
   "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
@@ -288,6 +476,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers inspecting automotive spare parts on an assembly line inside a components factory, industrial lighting",
   "takeaway": "Laporan ini condong positif bagi ASII, karena perusahaan memakai kas internal, bukan utang, untuk menambah kepemilikan di anak usaha yang sudah menguntungkan dan sudah dikonsolidasi ke laporan keuangannya. Yang tersentuh adalah arus kas, karena hingga Rp858,4 miliar kas internal akan terpakai, dan potensi laba per saham ASII, sebab kenaikan kepemilikan dari 80 persen menjadi maksimal 84,947 persen berarti porsi laba AUTO yang harus disisihkan untuk pemegang saham minoritas AUTO akan mengecil, sehingga bagian laba yang jadi hak ASII bertambah. Transaksi ini tidak menambah jumlah saham ASII yang beredar, sehingga tidak ada risiko dilusi bagi pemegang saham ASII sendiri. Yang perlu dipantau berikutnya adalah terbitnya pernyataan efektif dari OJK, karena pelaksanaan penawaran tender ini baru bisa berjalan setelah syarat itu dipenuhi, dan dokumen ini belum mencantumkan jadwal pasti periode penawarannya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "backlog-rumah-turun-ke-12-39-persen-masih-9-29-juta-keluarga",
+  "category": "Makroekonomi",
+  "title": "Backlog Rumah Turun ke [12,39] Persen, Masih 9,29 Juta Keluarga",
+  "deck": "BPS mencatat penurunan angka backlog perumahan pada 2026, tapi 9,29 juta keluarga masih belum punya rumah sendiri dan 18,01 juta keluarga menghuni rumah tak layak.",
+  "image": "assets/img/konstruksi-perumahan.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-30T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2651",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "backlog perumahan",
+   "BPS",
+   "rumah layak huni",
+   "perumahan"
+  ],
+  "body": [
+   "Badan Pusat Statistik merilis data terbaru soal backlog perumahan, ukuran yang menunjukkan seberapa jauh kebutuhan rumah penduduk Indonesia belum terpenuhi. Pada 2026, dua indikator utamanya sama-sama turun dibanding 2025: rumah tangga yang belum memiliki rumah sendiri berkurang dari 13,00 persen menjadi 12,39 persen, sementara rumah tangga yang tinggal di rumah tak layak huni berkurang dari 25,33 persen menjadi 24,03 persen. Angka ini penting karena backlog perumahan selama ini jadi salah satu tolok ukur utama ketersediaan papan bagi penduduk.",
+   "Dalam jumlah rumah tangga, backlog kepemilikan turun dari 9,64 juta menjadi 9,29 juta rumah tangga, sedangkan backlog kelayakhunian turun dari 18,77 juta menjadi 18,01 juta rumah tangga. Backlog kepemilikan menghitung rumah tangga yang belum punya rumah sendiri, misalnya masih mengontrak, menyewa, atau menumpang di rumah orang lain. Backlog kelayakhunian menghitung rumah tangga yang rumahnya, baik milik sendiri maupun bukan, belum memenuhi syarat layak huni.",
+   "BPS juga mencatat persentase rumah tangga yang punya akses ke rumah layak huni naik dari 68,40 persen pada 2025 menjadi 70,30 persen pada 2026. Kenaikan ini ditopang oleh empat komponen yang dipakai BPS untuk menilai kelayakan rumah, yaitu ketahanan bangunan yang naik dari 87,10 persen menjadi 87,52 persen, kecukupan luas lantai per orang dari 94,66 persen menjadi 94,91 persen, akses air minum layak dari 93,22 persen menjadi 93,71 persen, dan akses sanitasi layak dari 85,37 persen menjadi 86,73 persen.",
+   "Meski seluruh indikator bergerak ke arah perbaikan, angkanya tetap menunjukkan jutaan rumah tangga di Indonesia masih berada dalam kondisi backlog, baik karena belum punya rumah sendiri maupun karena rumah yang dihuni belum memenuhi standar layak huni."
+  ],
+  "fotoAdegan": "Rows of small single-story houses in a modest residential complex on a city outskirt, unpaved lane, soft morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari data ini adalah proporsi rumah tangga tanpa rumah sendiri turun dari 13,00 persen jadi 12,39 persen, dan proporsi rumah tangga yang rumahnya belum layak huni turun dari 25,33 persen jadi 24,03 persen, keduanya bergerak kurang dari satu setengah poin persen dalam setahun. Yang terdampak adalah rumah tangga berpenghasilan rendah, sebab kelompok inilah yang biasanya masuk kategori backlog, entah karena belum sanggup memiliki rumah sendiri atau karena rumahnya kekurangan luas lantai, air bersih, atau sanitasi layak. Penurunan yang tercatat masih tipis dan baru dibandingkan dengan satu tahun sebelumnya, jadi belum bisa dipastikan apakah ini awal perbaikan yang stabil atau sekadar fluktuasi tahunan. Yang akan menjawabnya adalah rilis data BPS berikutnya, apakah penurunan dengan besaran serupa berulang atau justru berhenti."
  },
  {
   "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",

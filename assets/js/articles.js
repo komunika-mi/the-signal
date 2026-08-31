@@ -7,7 +7,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
   "deck": "Harga emas Antam, UBS, dan Galeri24 di Pegadaian pada Senin (31/8/2026) berkisar Rp2,6 juta per gram, dengan Antam jadi yang termahal dan Galeri24 termurah.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram.jpg",
   "date": "31 Agustus 2026",
   "isoDate": "2026-08-31T11:58:31+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463820-harga-emas-pegadaian-senin-31-agustus-2026-antam-ubs-galeri24-lengkap",
@@ -23,10 +23,10 @@ var ARTICLES = [
    "Ketiga jenama menawarkan pilihan ukuran yang berbeda. Galeri24 tersedia paling lengkap, mulai 0,5 gram hingga 1 kilogram, UBS mulai 0,5 gram hingga 500 gram, sedangkan Antam terbatas hingga 100 gram. Pegadaian menegaskan harga-harga ini bersifat dinamis dan dapat berubah sewaktu-waktu mengikuti pergerakan harga emas."
   ],
   "fotoAdegan": "Close-up of small gold bullion bars and coins arranged on a velvet tray inside a pawnshop display case, soft indoor lighting",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/02/6980118c97aa7-ilustrasi-emas-antam_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
   "takeaway": "Data hari ini hanya mencantumkan patokan harga di satu titik waktu, tanpa perbandingan dengan harga kemarin, sehingga belum bisa dibaca apakah harga emas Pegadaian sedang naik, turun, atau stagnan. Yang jelas terlihat adalah selisih harga antar jenama: emas Antam ukuran 1 gram (Rp2.711.000) lebih mahal Rp105.000 dari Galeri24 (Rp2.606.000), sementara UBS berada di kisaran serupa tanpa angka pasti yang tercatat. Selisih ini terutama relevan bagi pembeli ritel dan penabung emas fisik yang memilih jenama berdasarkan harga per gram serta pilihan ukuran, karena Galeri24 menyediakan pecahan mulai 0,5 gram sampai 1 kilogram, sedangkan Antam mentok di 100 gram. Untuk melihat ke arah mana harga bergerak, yang perlu dicek adalah update harga Pegadaian pada hari-hari berikutnya dibandingkan dengan angka hari ini.",
-  "fotoDitolak": true
+  "imageV": "mtgux8qt"
  },
  {
   "slug": "rupiah-tembus-rp17-750-usai-the-fed-sinyalkan-kenaikan-bunga",

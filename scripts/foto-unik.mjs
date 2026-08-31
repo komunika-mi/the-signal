@@ -80,7 +80,27 @@ export function urlTerpakai(artikel, kecuali = null) {
 //
 // Sekarang berkas lama dipindahkan ke berkas cadangan dulu, dan dikembalikan
 // pada SETIAP jalur keluar yang tidak menghasilkan gambar baru.
-export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
+// `izinkanKembar` mematikan KEDUA saringan kembar, dan itu keputusan pemilik
+// situs 31 Agustus 2026: "kalau ambilnya dari tvOne, pakai saja dari tvOne
+// meski sama".
+//
+// Latarnya: tvOne memakai satu foto stok yang sama untuk seluruh seri berita
+// berulang - satu berkas "ilustrasi-emas-antam" untuk tiap artikel harga emas
+// harian. Aturan unik lama menolak yang kedua dan seterusnya, mencabut
+// kreditnya, lalu menjatuhkannya ke gambar kolam. Hasilnya justru lebih buruk
+// daripada pengulangan yang dihindari: berita harga emas terbit dengan foto
+// wisatawan minum kopi, karena pustaka kolam cuma punya SATU gambar emas dan
+// gambar itu sudah dipakai artikel emas lain.
+//
+// Yang berubah cuma untuk FOTO SUMBER. Gambar kolam tetap tunduk aturan unik,
+// dan di situlah aturan itu memang berlaku: gambar kolam adalah hiasan, jadi
+// mengulangnya membuat situs terlihat seperti blog otomatis. Foto sumber lain
+// perkaranya - ia dokumentasi yang memang dipakai medianya sendiri berulang
+// kali, kreditnya benar, dan menolaknya tidak membuat situs lebih jujur.
+//
+// Berkasnya tetap satu per artikel (bernama slug), jadi yang berulang isinya,
+// bukan alamatnya.
+export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log, izinkanKembar = false }) {
   const tujuan = path.join(IMG_DIR, slug + '.jpg');
   const cadangan = tujuan + '.lama';
   const adaLama = fs.existsSync(tujuan);
@@ -113,7 +133,7 @@ export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
   let alasan = 'nihil';
   try {
     for (const url of kandidat) {
-      if (terpakai.has(url)) {
+      if (!izinkanKembar && terpakai.has(url)) {
         log && log('  lewati (alamat foto sudah dipakai artikel lain)');
         alasan = 'kembar';
         continue;
@@ -129,14 +149,18 @@ export function pasangFotoUnik(slug, kandidat, { peta, terpakai, unduh, log }) {
 
       const s = sidik(tujuan);
       const pemilik = peta.get(s);
-      if (pemilik) {
+      if (pemilik && !izinkanKembar) {
         log && log('  lewati (gambar identik dengan ' + pemilik.slice(0, 38) + ')');
         fs.rmSync(tujuan, { force: true });
         alasan = 'kembar';
         continue;
       }
+      if (pemilik) log && log('  sama dengan ' + pemilik.slice(0, 34) + ', tetap dipakai (foto sumber)');
 
-      peta.set(s, slug);
+      // Pemilik pertama dipertahankan. Menimpanya akan membuat peta menunjuk
+      // artikel terakhir, dan penjaga di build-pages ikut menunjuk yang salah
+      // saat melaporkan kelompok foto identik.
+      if (!pemilik) peta.set(s, slug);
       terpakai.add(url);
       buangCadangan();
       return { url, alasan: '' };

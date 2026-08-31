@@ -40,6 +40,17 @@ for (const a of artikel) {
   // Penanda keterbukaan IDX dipakai bersama dengan sengaja, bukan cacat.
   if (a.image === 'assets/img/penanda-keterbukaan-bursa.jpg') continue;
   if (!a.image) continue;
+  // FOTO SUMBER JUGA DILEWATI, sejak 31 Agustus 2026.
+  //
+  // Pemilik situs memutuskan foto dari tvOne dipakai apa adanya meski
+  // medianya memakai berkas stok yang sama untuk seluruh seri berita
+  // berulang. Tanpa pengecualian ini, alat perbaikan ini justru MEMBATALKAN
+  // keputusan itu: ia mencabut kredit artikel kedua dan seterusnya lalu
+  // menjatuhkannya ke ilustrasi, persis keadaan yang mau ditinggalkan.
+  //
+  // Yang tersisa untuk dibereskan alat ini tinggal gambar KOLAM yang kembar,
+  // dan di situ aturan unik memang masih berlaku penuh.
+  if (a.kreditFoto && a.image === 'assets/img/' + a.slug + '.jpg') continue;
   const p = path.join(ROOT, a.image);
   if (!fs.existsSync(p)) continue;
   const h = sidik(p);

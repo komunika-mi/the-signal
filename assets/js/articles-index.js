@@ -10,13 +10,15 @@ var ARTICLES = [
   "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
   "deck": "Harga emas Antam, UBS, dan Galeri24 di Pegadaian pada Senin (31/8/2026) berkisar Rp2,6 juta per gram, dengan Antam jadi yang termahal dan Galeri24 termurah.",
   "date": "31 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram.jpg",
+  "imageV": "mtgux8qt",
   "tags": [
    "harga emas",
    "Antam",
    "Galeri24",
    "Pegadaian"
   ],
+  "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463820-harga-emas-pegadaian-senin-31-agustus-2026-antam-ubs-galeri24-lengkap"
  },
  {

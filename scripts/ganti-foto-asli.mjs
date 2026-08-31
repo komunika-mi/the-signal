@@ -63,8 +63,13 @@ for (const a of layak) {
     const utama = cariFotoUtama(html, { asal: a.sourceUrl });
     if (!utama) { nihil++; continue; }
 
+    // izinkanKembar: alat ini memasang FOTO SUMBER, dan sejak 31 Agustus 2026
+    // foto sumber boleh sama dengan artikel lain atas keputusan pemilik situs.
+    // Tanpa ini, alat perbaikan justru akan menolak foto yang benar hanya
+    // karena medianya memakai berkas stok yang sama - persis yang tidak
+    // diinginkan. Alasan lengkapnya di pasangFotoUnik.
     const { url: foto, alasan } = pasangFotoUnik(a.slug, [utama],
-      { peta, terpakai, unduh: unduhFoto, log });
+      { peta, terpakai, unduh: unduhFoto, log, izinkanKembar: true });
     if (!foto) {
       // HANYA "kembar" yang permanen. Kegagalan unduh itu sementara, dan
       // menandainya permanen berarti satu gangguan jaringan atau satu paket

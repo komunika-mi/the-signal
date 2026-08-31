@@ -2495,6 +2495,14 @@ if (fotoHilang.length) {
     // Kalau ikut dihitung, satu kelompok raksasa akan menenggelamkan
     // duplikat yang sungguhan dan laporannya jadi tidak berguna.
     if (a.image === 'assets/img/' + PENANDA_IDX + '.jpg') continue;
+    // Foto SUMBER berkredit juga dilewati, dengan alasan yang sama seperti
+    // penanda IDX: sejak 31 Agustus 2026 pengulangannya DISENGAJA. tvOne
+    // memakai satu berkas stok untuk seluruh seri berita berulang, dan
+    // pemilik situs memutuskan foto sumber dipakai apa adanya. Kalau ikut
+    // dihitung, tiap seri harga emas dan harga BBM akan muncul sebagai
+    // "kelompok berfoto identik" pada tiap build, dan peringatan yang selalu
+    // menyala persis cara duplikat yang SUNGGUHAN jadi tak terlihat.
+    if (a.kreditFoto && a.image === 'assets/img/' + a.slug + '.jpg') continue;
     const p = path.join(ROOT, a.image);
     if (!fs.existsSync(p)) continue;
     const h = crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex');
@@ -2503,7 +2511,7 @@ if (fotoHilang.length) {
   }
   const kembar = [...sidik.values()].filter(v => v.length > 1);
   if (kembar.length) {
-    console.warn('PERINGATAN: ' + kembar.length + ' kelompok artikel berfoto identik.');
+    console.warn('PERINGATAN: ' + kembar.length + ' kelompok artikel berfoto identik (di luar foto sumber).');
     kembar.slice(0, 5).forEach(g => console.warn('  ' + g.join('  =  ')));
     console.warn('  Perbaiki: node scripts/foto-kembar.mjs');
   }

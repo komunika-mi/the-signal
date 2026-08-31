@@ -259,8 +259,11 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
     // dipakai kalau sumbernya memang tidak berfoto, seperti IDX yang
     // lampirannya PDF, atau Bank Indonesia dan BPS.
     if (a.fotoSumber) {
+      // izinkanKembar: foto SUMBER dipakai apa adanya, sekalipun medianya
+      // memakai berkas yang sama untuk beberapa berita. Keputusan pemilik
+      // situs 31 Agustus 2026; alasan lengkapnya di pasangFotoUnik.
       const { url: dipakai } = pasangFotoUnik(a.slug, [a.fotoSumber],
-        { peta, terpakai, unduh: unduhFoto, log });
+        { peta, terpakai, unduh: unduhFoto, log, izinkanKembar: true });
       if (dipakai) {
         a.image = fotoSendiri(a.slug);
         a.fotoSumber = dipakai;
@@ -268,10 +271,10 @@ export async function pastikanFotoArtikel(artikel, { maksBaru = 40 } = {}) {
         diunduh++;
         continue;
       }
-      // Fotonya kembar dengan artikel lain, atau gagal diunduh. Kreditnya
-      // WAJIB dicabut,
-      // kalau tidak artikel mengaku memakai foto sumber padahal yang tampil
-      // ilustrasi buatan, dan itu salah atribusi.
+      // Sampai di sini artinya unduhannya GAGAL - jalur "kembar" sudah tidak
+      // ada lagi untuk foto sumber. Kreditnya tetap WAJIB dicabut: kalau
+      // tidak, artikel mengaku memakai foto sumber padahal yang tampil gambar
+      // kolam, dan itu salah atribusi.
       kembar++;
       a.kreditFoto = '';
       a.fotoSumber = '';

@@ -74,12 +74,20 @@ jobs:
     # Sekarang tiap langkah punya pagarnya sendiri, berjumlah 67 menit.
     # Jatah job ditaruh di atas jumlah itu supaya ia benar-benar jadi jaring
     # terakhir: yang mati langkahnya, tercatat "failure", dan emailnya sampai.
-    # 70 -> 76. Jumlah pagar langkah kini 69 menit
-    # (4+4+10+16+8+8+6+2+2+4+5), dan jatah job WAJIB di atas jumlah itu
+    # 70 -> 76 -> 84. Jumlah pagar langkah kini 80 menit
+    # (4+2+4+10+16+8+8+6+2+2+4+12+2), dihitung ulang dari berkas ini bukan
+    # disalin dari catatan lama - angka 69 yang tertulis di sini sebelumnya
+    # sudah usang, langkahnya bertambah tanpa catatannya ikut diperbarui.
+    # Jatah job WAJIB di atas jumlah itu
     # supaya yang jatuh duluan selalu langkahnya. Job yang ditebas berakhir
     # "cancelled" dan GitHub TIDAK mengirim email untuk itu - persis yang
     # menyembunyikan kerusakan 19 Agustus 2026 selama tiga hari.
-    timeout-minutes: 76
+    #
+    # Naik lagi ke 84 pada 31 Agustus 2026 karena "Pastikan benar-benar
+    # terbit" dinaikkan 5 -> 12. Kalau angka ini dibiarkan 76 ia jadi SAMA
+    # dengan jumlah pagar langkah, dan jatah job bisa menang balapan - persis
+    # keadaan yang seluruh catatan di atas ini berusaha hindari.
+    timeout-minutes: 84
 
     steps:
       - uses: actions/checkout@v4
@@ -442,15 +450,36 @@ jobs:
       # MEMBUKTIKAN dan menggagalkan workflow kalau tidak terbit. Deploy
       # ulangnya dilakukan manual atau lewat jalankan-idx.ps1 yang memang
       # sudah terautentikasi di mesin lokal.
+      # PAGARNYA 12 MENIT, LOOP-NYA 10 MENIT. Dulu dua-duanya 5, dan itu
+      # keliru dua kali.
+      #
+      # Pertama, keduanya bertabrakan: loop 20 x 15 detik = tepat 5 menit,
+      # sama persis dengan timeout-minutes, jadi pagar langkah bisa menebas
+      # loop sebelum putaran terakhirnya sempat jalan. Pesan galat yang sudah
+      # disiapkan di bawah bahkan tidak pernah tercetak - yang muncul cuma
+      # "has timed out after 5 minutes", tanpa keterangan apa pun.
+      #
+      # Kedua, dan ini yang sebenarnya menjatuhkan putaran 31 Agustus 2026
+      # 09.29 UTC: 5 menit MEMANG TIDAK CUKUP untuk commit besar. Putaran itu
+      # mendorong pembaruan 867 artikel yang menyentuh ~1.200 berkas, dan
+      # Vercel baru selesai menayangkannya sekitar 10 menit kemudian. Jadi
+      # langkah ini merah, emailnya terkirim, dan sempat terbaca sebagai
+      # "webhook Vercel putus" - padahal tidak: push pipeline berikutnya
+      # (pasar, 09.43) ditayangkan Vercel dalam waktu wajar. Yang salah cuma
+      # kesabaran langkah ini.
+      #
+      # 10 menit menampung commit besar, dan 12 menit memberi pagar itu
+      # kelonggaran di atas loop-nya supaya pesan galatnya benar-benar sempat
+      # tercetak kalau memang gagal.
       - name: Pastikan benar-benar terbit
-        timeout-minutes: 5
+        timeout-minutes: 12
         if: steps.kirim.outputs.berubah == 'ya'
         run: |
           # Alamat diambil dari situs.mjs, satu-satunya tempat yang menuliskannya.
           SITUS=$(node -e "import('./scripts/situs.mjs').then(m=>console.log(m.SITUS))")
           URL="$SITUS/berita/${{ steps.kirim.outputs.slug }}.html"
           echo "menunggu: $URL"
-          for i in $(seq 1 20); do
+          for i in $(seq 1 40); do
             KODE=$(curl -s -o /dev/null -w '%{http_code}' "$URL" || echo 000)
             if [ "$KODE" = "200" ]; then
               echo "terbit setelah ~$((i*15)) detik"
@@ -458,7 +487,7 @@ jobs:
             fi
             sleep 15
           done
-          echo "::error::Push sukses tapi $URL masih belum bisa diakses setelah 5 menit."
+          echo "::error::Push sukses tapi $URL masih belum bisa diakses setelah 10 menit."
           echo "::error::Vercel kemungkinan tidak menerima webhook. Jalankan: npx vercel deploy --prod"
           exit 1
 

@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-08-29T06:21:33.062+07:00",
+ "diperbarui": "2026-09-01T03:18:11.899+07:00",
  "entri": [
+  {
+   "id": "2026-08-31-3",
+   "edisi": "2026-08-31",
+   "benang": "Anggaran 2027 Melebar dari Pertahanan ke Infrastruktur",
+   "klaim": "Belanja dan target investasi negara untuk 2027 sudah bergerak ke atas sebelum pembahasan resmi dimulai, dan kenaikan pagu indikatif ini akan bertahan sampai pengesahan akhir.",
+   "penanda": "Pembahasan RAPBN 2027 di DPR",
+   "tenggat": null,
+   "tenggatLabel": "dalam beberapa pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-31-2",
+   "edisi": "2026-08-31",
+   "benang": "Musim Laporan Semester I: Laba Kop, Inti Retak",
+   "klaim": "Pola laba besar yang menutupi keretakan bisnis inti dan struktur utang, seperti terlihat pada DOOH, UNTR, TAMA, CASH, dan DEWI, akan makin meluas di kalangan emiten.",
+   "penanda": "Sisa laporan keuangan emiten lain yang belum rilis serta tindak lanjut Bursa Efek Indonesia atas emiten yang sudah diminta penjelasan seperti KMDS dan LIFE",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-08-31-1",
+   "edisi": "2026-08-31",
+   "benang": "Dolar dan Minyak Menekan, Rupiah Sempat Pulih",
+   "klaim": "Tekanan dolar dan minyak terhadap rupiah lebih mungkin berlanjut daripada mereda, kecuali inflasi AS turun mendekati target 2 persen sebelum rapat FOMC September atau serangan balasan di Hormuz berhenti.",
+   "penanda": "Data inflasi AS dan perkembangan konflik AS-Iran di Selat Hormuz",
+   "tenggat": "2026-09-30",
+   "tenggatLabel": "sebelum rapat FOMC September / dalam beberapa pekan mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-28-3",
    "edisi": "2026-08-28",
@@ -19,8 +52,13 @@ var RAPOR = {
    "penanda": "Apakah IHSG keluar dari kisaran 6.450-6.580 sebelum penutupan pekan ini.",
    "tenggat": "2026-08-28",
    "tenggatLabel": "sebelum penutupan pekan ini",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
+    "judul": "IHSG Turun Tipis ke 6.509,77, Bank Besar Justru Menguat",
+    "tanggal": "31 Agustus 2026",
+    "alasan": "Artikel ini mencatat IHSG di 6.509,77 (turun tipis 0,13%), masih berada dalam kisaran 6.450-6.580 yang diklaim, tanpa tanda keluar dari rentang tersebut."
+   }
   },
   {
    "id": "2026-08-28-2",

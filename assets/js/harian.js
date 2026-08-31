@@ -1,50 +1,61 @@
 // Signal Harian. Dibuat otomatis oleh scripts/signal-harian.mjs.
 var HARIAN = {
- "tanggal": "2026-08-28",
- "tanggalLabel": "Jumat, 28 Agustus 2026",
- "judul": "Kas Emiten Terbelah, Dagang RI Melebar, Bursa Masih Waspada",
- "ringkas": "Kesehatan kas emiten kecil semakin terbelah antara yang membaik dan yang memburuk, sementara diplomasi dagang membuka jalan ke pasar baru dan bursa saham masih bergerak di rentang sempit di tengah kewaspadaan yang berlanjut dari hari sebelumnya.",
+ "tanggal": "2026-08-31",
+ "tanggalLabel": "Senin, 31 Agustus 2026",
+ "judul": "Dolar Menguat, Laba Emiten Terbelah, Anggaran 2027 Membesar",
+ "ringkas": "Tekanan dari penguatan dolar AS dan lonjakan harga minyak akibat konflik AS-Iran mewarnai pembukaan pekan ini, sementara musim laporan keuangan semester I menyingkap kualitas laba yang beragam di sejumlah emiten dan sinyal anggaran 2027 sama-sama mengarah ke penambahan.",
  "benang": [
   {
-   "judul": "Kas Emiten Kecil Kian Terbelah, Bukan Seragam",
-   "isi": "TUFI menyatakan sudah menyiapkan Rp817,24 miliar untuk melunasi obligasi yang jatuh tempo 27 September, dan OLIV mencatat utang ke pemegang saham pengendali turun 94,85 persen sembari kas operasional naik ke Rp2,29 miliar pada semester I 2026. Di sisi lain, Capitalinc Investment (MTFN) mencatat defisit ekuitas yang melebar dari Rp538,7 miliar menjadi Rp564,9 miliar dalam periode yang sama, meski pendapatannya naik 15 persen, karena kenaikan itu habis oleh membengkaknya biaya bahan baku. Pola ini melanjutkan sekaligus mempertegas benang arus kas tertekan dari edisi kemarin, tapi hari ini terlihat lebih terbelah antara emiten yang membaik lewat aksi spesifik dan yang tertekan biaya produksi. Bukti yang ada saat ini condong ke arah kasus per emiten, bukan tren makro tunggal, karena TUFI dan OLIV membaik lewat pelunasan utang dan penjualan persediaan, sementara tekanan MTFN berasal dari biaya bahan baku yang spesifik pada bisnis migasnya. Pembedanya adalah struktur biaya dan sektor masing-masing perusahaan, dan itu akan terlihat dari laporan keuangan kuartal III 2026 yang terbit Oktober-November, apakah tekanan margin seperti MTFN meluas ke emiten migas dan komoditas lain atau tetap terbatas."
+   "judul": "Dolar dan Minyak Menekan, Rupiah Sempat Pulih",
+   "isi": "Sinyal Ketua The Fed Kevin Warsh yang membuka peluang kenaikan suku bunga mendorong dolar AS menguat, dengan peluang kenaikan bunga September naik ke 57 persen, membuat rupiah sempat melemah 0,32 persen ke Rp17.750 dan yen mendekati 160 per dolar. Harga minyak dunia ikut melonjak setelah serangan AS ke peluncur Iran di Selat Hormuz, Brent naik 2,52 persen ke US$90,32 per barel dan WTI naik 2,41 persen ke US$85,41 per barel. Menjelang penutupan, rupiah membaik ke Rp17.741 dan IHSG naik tipis 0,11 persen ke 6.525,48, tanda tekanan pagi belum sepenuhnya menular ke pasar domestik. Dari sini ada dua kemungkinan, tekanan berlanjut atau mereda. Yang lebih mungkin adalah berlanjut, sebab peluang kenaikan bunga The Fed sudah di atas separuh dan konflik AS-Iran di Hormuz belum mereda, sementara skenario mereda baru berlaku kalau inflasi AS turun mendekati target 2 persen sebelum rapat FOMC September atau serangan balasan di Hormuz berhenti. Kedua sinyal itu, data inflasi AS dan perkembangan di Hormuz, akan menentukan arah dalam beberapa pekan mendatang."
   },
   {
-   "judul": "Diplomasi Dagang Melebar ke Pasar dan Standar Baru",
-   "isi": "Kemendag mengaktifkan kembali perundingan dagang dengan Maroko dengan target rampung 2027, didorong nilai perdagangan bilateral yang sudah tumbuh 37 persen pada awal 2026. Bersamaan dengan itu, ekspor kakao Indonesia tercatat tembus US$3,6 miliar pada 2025, melonjak tiga kali lipat dalam lima tahun, sembari mendorong standar keberlanjutan sawit dan kakao dari total sekitar 40 perjanjian dagang yang dimiliki Indonesia, 25 sudah berjalan, 2 sedang diratifikasi, dan 13 masih dalam perundingan termasuk dengan Uni Eropa dan Amerika Serikat. Kedua berita ini mengarah ke hal yang sama, yaitu perluasan pasar ekspor ke luar tujuan tradisional sekaligus penyesuaian standar produk ke tingkat yang dituntut pasar maju. Yang akan menguatkan arah ini adalah rampungnya dua perjanjian yang sedang diratifikasi atau kemajuan konkret dalam perundingan dengan Uni Eropa dalam beberapa bulan ke depan."
+   "judul": "Musim Laporan Semester I: Laba Kop, Inti Retak",
+   "isi": "Pola yang muncul di beberapa laporan keuangan semester I 2026 menunjukkan laba besar tidak selalu berarti bisnis inti membaik. Laba DOOH melonjak 9,5 kali menjadi Rp63,3 miliar, tapi operasi intinya justru rugi Rp12,7 miliar, sementara laba UNTR anjlok 91 persen menjadi Rp742 miliar akibat kerugian penurunan nilai investasi Rp2,75 triliun. Di sisi lain, TAMA mencatat ekuitas negatif Rp61,98 miliar setelah rugi melonjak jadi Rp96,64 miliar, dan CASH mengoreksi laporan keuangannya sehingga ekuitas ikut menjadi negatif Rp449,5 juta dengan liabilitas naik 86 persen. DEWI mencatat laba naik 43 persen, tapi utang bank jangka pendeknya melonjak 509 persen seiring pelunasan utang jangka panjang. Arahnya makin jelas, semakin banyak emiten yang laporannya perlu dibaca sampai ke struktur utang dan pos nonoperasional, bukan sekadar angka laba di baris atas, dan sisa laporan emiten lain yang belum rilis serta tindak lanjut Bursa Efek Indonesia atas emiten yang sudah diminta penjelasan seperti KMDS dan LIFE akan menunjukkan apakah pola ini meluas."
   },
   {
-   "judul": "Bursa Bertahan di Rentang Sempit, Pengawasan Berlanjut",
-   "isi": "IHSG resmi berada di 6.518,12 hari ini, turun tipis 0,06 persen, meski sempat dibuka menguat 0,21 persen ke 6.535,72 pagi tadi setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, dan analis Phintraco memperkirakan pergerakan tetap sideways di kisaran 6.450 sampai 6.580 hingga akhir pekan. Di saat yang sama, Steady Safe (SAFE) diminta penjelasan Bursa usai harganya melonjak 24,87 persen dalam sehari pada 24 Agustus, dan perseroan menegaskan tidak ada informasi material di baliknya. Dua hal ini melanjutkan benang dari edisi kemarin soal pengawasan Bursa yang diperketat tanpa pemicu jelas, menunjukkan pasar masih berhati-hati dan otoritas terus meminta klarifikasi setiap ada pergerakan harga tidak wajar. Arah yang terlihat adalah pasar bertahan di rentang sempit, dan yang akan mengujinya adalah apakah IHSG keluar dari kisaran 6.450-6.580 sebelum penutupan pekan ini."
+   "judul": "Anggaran 2027 Melebar dari Pertahanan ke Infrastruktur",
+   "isi": "Beberapa sinyal anggaran untuk 2027 sama-sama mengarah ke penambahan. Anggaran Kementerian Pertahanan untuk 2027 naik menjadi Rp189 triliun, bertambah Rp50 triliun dari pagu indikatif awal Rp139 triliun. DPR memanggil lima pejabat ekonomi kunci, dari Menteri Keuangan hingga calon Gubernur Bank Indonesia, untuk membahas sinergi kebijakan menuju target pertumbuhan 6 persen dan investasi Rp1.200 triliun pada 2027. Danantara juga menyiapkan Rp456 miliar bersama Adhi Karya untuk mempercepat proyek hunian LRT City yang berdampak pada 2.400 konsumen. Arahnya sudah terlihat, belanja dan target investasi negara untuk 2027 bergerak ke atas sebelum pembahasan resmi dimulai. Pembahasan RAPBN 2027 di DPR dalam beberapa pekan mendatang akan menunjukkan apakah kenaikan pagu indikatif ini bertahan sampai pengesahan akhir."
   }
  ],
- "penutup": "Yang paling menentukan besok adalah apakah IHSG bertahan di rentang 6.450-6.580 hingga penutupan pekan ini, dan bagaimana laporan keuangan kuartal III nanti menunjukkan apakah tekanan margin seperti pada MTFN tetap jadi kasus individual atau meluas.",
- "jumlahBahan": 24,
+ "penutup": "Yang paling menentukan langkah selanjutnya adalah perkembangan konflik AS-Iran di Selat Hormuz dan data inflasi AS jelang keputusan The Fed, karena keduanya akan menentukan apakah tekanan dolar dan minyak hari ini menjadi tren atau sekadar riak sesaat.",
+ "jumlahBahan": 35,
  "bahanSlug": [
-  "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
-  "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
-  "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
-  "pertamina-patra-niaga-raih-penghargaan-csr-bencana",
-  "pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct",
-  "telin-gandeng-empat-mitra-global-di-batic-2026",
-  "injourney-tawarkan-promo-bundling-di-gatf-2026",
-  "danantara-gelar-expo-properti-di-nice-pik2-tangerang",
-  "kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg",
-  "pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026",
-  "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
-  "ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun",
-  "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
-  "safe-beri-penjelasan-usai-harga-melonjak-24-87-dalam-sehari",
-  "elit-angkat-sandiaga-uno-jadi-komisaris-baru",
-  "harga-emas-pegadaian-turun-antam-rp2-759-000-gram",
-  "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
-  "mtfn-catat-defisit-ekuitas-rp564-9-miliar-per-juni-2026",
-  "oliv-utang-ke-pemegang-saham-turun-94-85-kas-naik-tajam",
-  "hatm-rilis-pmthmetd-640-juta-saham-ke-afiliasi-rp320-miliar",
-  "ihsg-menguat-0-21-ke-6-535-sideways-jelang-akhir-pekan",
-  "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
-  "purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal",
-  "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi"
+  "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
+  "tama-catat-ekuitas-negatif-usai-rugi-rp96-6-miliar",
+  "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
+  "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
+  "pertamina-gandeng-ibc-bangun-ekosistem-baterai",
+  "pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026",
+  "scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri",
+  "laba-dooh-melonjak-9-5-kali-ditopang-pos-nonoperasional",
+  "ri-mulai-ekspor-beras-perdana-ke-malaysia",
+  "untr-laba-semester-i-2026-anjlok-91-persen-jadi-rp742-miliar",
+  "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "cash-koreksi-laporan-keuangan-ekuitas-negatif-rp449-juta",
+  "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
+  "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",
+  "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
+  "telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt",
+  "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
+  "kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni",
+  "anggaran-kemhan-2027-naik-jadi-rp189-triliun",
+  "kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni",
+  "presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir",
+  "dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027",
+  "danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city",
+  "dolar-as-kembali-perkasa-yen-dekati-160",
+  "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
+  "rupiah-tembus-rp17-750-usai-the-fed-sinyalkan-kenaikan-bunga",
+  "minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz",
+  "life-tanggapi-bursa-ungkap-progres-spin-off-unit-syariah-ke-ojk",
+  "dewi-utang-bank-jangka-pendek-melonjak-509-laba-naik-43",
+  "bwpt-kaji-bagi-dividen-usai-kuasi-reorganisasi-rampung",
+  "auto-asii-ajukan-tender-sukarela-beli-saham-rp3-600",
+  "jsky-laporkan-progres-pemulihan-baru-bayar-utang-13",
+  "inkp-tawarkan-obligasi-dan-sukuk-baru-rp3-5-triliun",
+  "admf-komisaris-theresia-widjaja-ajukan-pengunduran-diri",
+  "asii-ajukan-tender-sukarela-beli-saham-auto-rp858-4-m"
  ],
- "dibuat": "2026-08-28T23:20:48.720Z"
+ "dibuat": "2026-08-31T20:16:57.510Z"
 };

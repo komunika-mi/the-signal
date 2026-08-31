@@ -30,6 +30,31 @@ var ARTICLES = [
   "imageV": "mtg55uum"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-16-25-juta-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang saham lepas [16,25 juta] lembar saham",
+  "deck": "Pemenang Nusantara Internasional menjual 16,25 juta saham WINR pada 21 Agustus 2026, hak suaranya turun tipis dari 49,36% menjadi 49,05%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T22:41:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30082026-0878-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "pemegang saham",
+   "free float"
+  ],
+  "body": [
+   "PT Winner Nusantara Jaya Tbk (WINR) menerima laporan keterbukaan informasi dari pemegang sahamnya, Pemenang Nusantara Internasional, yang bukan berasal dari jajaran direksi atau komisaris perusahaan. Dalam laporan bernomor LK/30082026/0001/1 yang disampaikan pada 30 Agustus 2026, pihak tersebut melaporkan penjualan 16.251.800 lembar saham WINR secara tidak langsung pada 21 Agustus 2026, dengan harga Rp22 per saham.",
+   "Sebelum transaksi, Pemenang Nusantara Internasional menggenggam 2.584.152.200 lembar saham WINR yang setara 49,36% hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 2.567.900.400 lembar dengan hak suara 49,05%. Dalam dokumen tersebut, tujuan transaksi dicatat sebagai upaya menambah saham free float, yakni porsi saham yang beredar bebas dan bisa diperdagangkan publik."
+  ],
+  "fotoAdegan": "Traders in blazers walking briskly through a busy stock exchange atrium, motion blur, wide angle, daytime light",
+  "takeaway": "Laporan ini netral bagi WINR, karena saham yang dilepas hanya sekitar 0,63% dari kepemilikan pelapor sendiri, terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap perusahaan. Yang tersentuh di sini adalah struktur hak suara dan free float, yaitu porsi saham yang beredar bebas di pasar dan tidak dikuasai pemegang saham besar. Karena hak suara pelapor tetap berada tepat di ambang 49%, hampir separuh kendali perusahaan, penjualan lanjutan dari pihak yang sama patut dipantau lewat laporan kepemilikan berikutnya, terutama bila terus mendekati atau menembus batas 50% yang bisa mengubah status pengendaliannya atas WINR.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
   "category": "UMKM",
   "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
@@ -109,6 +134,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Proyeksi analis untuk pekan depan sebenarnya membuka dua kemungkinan yang sama-sama masuk akal. Skenario pertama, harga emas dunia terkoreksi dari US$4.454 menuju US$4.381 atau bahkan US$4.262 per troy ounce, yang biasanya turut menyeret harga emas Antam dari Rp2.711.000 menuju Rp2.688.000 atau Rp2.600.000 per gram. Skenario kedua, harga emas dunia melanjutkan penguatan hingga menembus US$4.553 atau US$4.682 per troy ounce. Yang membuat skenario penurunan tidak leluasa adalah potensi pelemahan rupiah terhadap dolar AS, sebab kurs yang melemah membuat harga emas versi rupiah cenderung bertahan tinggi meski harga emas dunia turun. Arah mana yang benar-benar terjadi baru akan terlihat dari pembukaan perdagangan dan pergerakan kurs rupiah pada Senin, 31 Agustus 2026.",
   "imageV": "mtfwfate"
+ },
+ {
+  "slug": "crab-laba-semester-i-turun-53-utang-bank-naik-168",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Semester I Turun 53%, [Utang] Bank Naik 168%",
+  "deck": "Laba bersih Toba Surimi turun dari Rp8,43 miliar jadi Rp3,94 miliar pada semester I 2026, tertekan beban bunga yang melonjak seiring liabilitas naik 167,91 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "30 Agustus 2026",
+  "isoDate": "2026-08-30T17:52:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830180329-64318-0/FinancialStatement-2026-II-CRAB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CRAB",
+  "tags": [
+   "CRAB",
+   "laporan keuangan interim",
+   "beban bunga",
+   "utang bank"
+  ],
+  "body": [
+   "PT Toba Surimi Industries Tbk (CRAB) menyampaikan laporan keuangan interim tidak diaudit untuk periode enam bulan yang berakhir 30 Juni 2026, ditandatangani Direktur Utama Gindra Tardy pada 28 Agustus 2026 dan disampaikan Corporate Secretary Mulyanti sesuai surat No. 024/TSI/CORSEC/VIII/26. Total aset perusahaan tercatat Rp367,79 miliar per akhir Juni 2026, naik Rp82,43 miliar atau 28,88 persen dibanding akhir 2025 yang sebesar Rp285,36 miliar. Total liabilitas melonjak jauh lebih tajam, dari Rp46,74 miliar menjadi Rp125,23 miliar, naik 167,91 persen atau Rp78,49 miliar. Sementara itu ekuitas hanya naik tipis dari Rp238,62 miliar menjadi Rp242,56 miliar.",
+   "Karena kenaikan aset dan liabilitas sama-sama melewati ambang 20 persen, manajemen mengirim surat penjelasan terpisah kepada Direktur Penilaian Perusahaan BEI tertanggal 28 Agustus 2026, sesuai kewajiban dalam Peraturan I-E. Dalam surat itu dijelaskan, kenaikan total aset terutama berasal dari kas dan setara kas yang bertambah Rp85,16 miliar serta uang muka dan biaya dibayar dimuka yang naik Rp13,35 miliar. Adapun kenaikan liabilitas didorong oleh utang bank yang bertambah Rp31,47 miliar dan utang usaha yang naik Rp35,54 miliar.",
+   "Dari sisi laba rugi, penjualan bersih CRAB naik sekitar 8 persen menjadi Rp322,14 miliar dari Rp298,29 miliar pada semester I 2025. Namun laba bruto justru turun dari Rp36,33 miliar menjadi Rp19,98 miliar karena harga pokok penjualan naik lebih cepat. Beban keuangan melonjak dari Rp191,79 juta menjadi Rp2,11 miliar, sejalan dengan bertambahnya utang bank, sementara pendapatan keuangan justru turun dari Rp464 juta menjadi Rp80,65 juta. Akibatnya laba bersih tahun berjalan turun dari Rp8,43 miliar menjadi Rp3,94 miliar, dan laba per saham dasar turun dari Rp4,32 menjadi Rp2,02. Di sisi lain, kas bersih dari aktivitas operasi justru menguat dari Rp21,68 miliar menjadi Rp87,18 miliar."
+  ],
+  "fotoAdegan": "Workers processing frozen fish fillets on a stainless steel line inside an Indonesian seafood processing plant, cold storage steam visible",
+  "takeaway": "Laporan ini condong negatif bagi CRAB, karena laba bersih semester pertama 2026 anjlok hampir separuh dibanding periode yang sama tahun lalu, dan penyebabnya bukan penjualan yang sebenarnya masih tumbuh, melainkan beban bunga yang melonjak lebih dari sepuluh kali lipat seiring bertambahnya utang bank baru. Yang tersentuh ada tiga pos: ekuitas atau modal pemegang saham hanya naik tipis 1,6 persen meski total aset melompat 28,88 persen, artinya pertumbuhan aset itu dibiayai utang baru, bukan dari laba yang ditahan perusahaan; laba per saham, yakni bagian laba yang secara teori jadi milik setiap lembar saham, turun dari Rp4,32 menjadi Rp2,02; sementara arus kas dari kegiatan operasi, yaitu uang tunai asli yang masuk dari jualan dan produksi sehari-hari, justru menguat empat kali lipat menjadi Rp87,18 miliar, tanda bisnis intinya sebenarnya makin sehat secara tunai meski labanya di atas kertas mengecil. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026 yang biasanya disampaikan akhir Oktober, untuk melihat apakah beban bunga terus membengkak mengikuti kenaikan utang bank Rp31,47 miliar dan utang usaha Rp35,54 miliar yang tercatat pada semester ini.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca",
@@ -298,6 +349,32 @@ var ARTICLES = [
   "imageV": "mtenhhbg"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-16-49-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 16,49 Juta Saham demi [Free Float]",
+  "deck": "Pemegang saham nonpengendali WINR menjual 16,49 juta saham seharga Rp23 per lembar pada 20 Agustus 2026, hak suaranya turun tipis jadi 49,36 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T20:49:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4241-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "body": [
+   "PEMENANG NUSANTARA INTERNASIONAL, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan berstatus direksi maupun komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya menjual 16.492.100 lembar saham biasa WINR secara tidak langsung. Transaksi dilakukan pada 20 Agustus 2026 dengan harga Rp23 per saham, berjenis Repurchase Agreement, dengan tujuan yang disebutkan eksplisit dalam laporan yaitu menambah saham free float alias porsi saham yang beredar bebas di pasar.",
+   "Sebelum transaksi, pelapor memegang 2.600.644.300 lembar saham WINR dengan hak suara 49,68 persen. Setelah penjualan tersebut, kepemilikannya menjadi 2.584.152.200 lembar dengan hak suara turun menjadi 49,36 persen. Selisihnya adalah 16.492.100 lembar, atau sekitar 0,63 persen dari total kepemilikan pelapor sebelum transaksi. Laporan resmi disampaikan ke OJK pada 29 Agustus 2026 dengan nomor referensi LK/29082026/0002/1.",
+   "Ini merupakan laporan kedua dalam sepekan terakhir dari pelapor yang sama dengan pola serupa. Sebelumnya, media ini mencatat penjualan sekitar 16,25 juta lembar saham WINR oleh pihak yang sama, sehingga total saham yang dilepas dalam dua laporan berturut-turut ini diperkirakan mencapai sekitar 32,7 juta lembar."
+  ],
+  "fotoAdegan": "Financial district skyscrapers reflecting sunset light in Jakarta's business district, traffic passing on the street below.",
+  "takeaway": "Laporan ini netral bagi WINR, sebab porsi yang dilepas hanya 0,63 persen dari kepemilikan pelapor dan hak suaranya cuma turun tipis dari 49,68 persen menjadi 49,36 persen, sehingga belum mencerminkan perubahan sikap besar terhadap saham ini. Yang bergeser di sini adalah jumlah saham beredar bebas di pasar atau free float, karena tujuan transaksi memang disebutkan untuk menambahnya, sementara porsi kepemilikan pelapor besar ini berkurang sedikit demi sedikit tanpa mengubah statusnya sebagai pemegang saham nonpengendali. Ini sudah laporan kedua dalam sepekan terakhir dari pelapor yang sama dengan pola serupa, sehingga total saham yang terjual dalam dua laporan itu diperkirakan sudah mencapai sekitar 32,7 juta lembar. Yang perlu dipantau adalah apakah pola penjualan mingguan ini berlanjut pada laporan-laporan berikutnya, sebab jika hak suara pelapor terus turun signifikan di bawah level saat ini, barulah itu pantas dibaca sebagai sinyal pengurangan pengaruh yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta",
   "category": "BUMN",
   "title": "Danantara Siapkan [141 Ribu] Rusun Subsidi di Meikarta",
@@ -406,6 +483,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang baru dari pertemuan ini adalah Cili secara terbuka meminta percepatan akses pasar untuk daging sapi dan produk susu ke Indonesia, sesuatu yang sebelumnya kalah menonjol dibanding pembahasan buah seperti anggur dan ceri. Jika akses ini benar terbuka, yang paling terdampak adalah peternak sapi perah dan sapi potong dalam negeri yang akan berhadapan dengan produk impor bertarif rendah lewat IC-CEPA, sementara eksportir kakao, kopi, dan alas kaki Indonesia berpeluang mendapat pasar Cili yang lebih luas. Berdasarkan pola yang sudah berjalan, seperti tarif nol persen untuk anggur Cili senilai US$6,97 juta pada 2025, arahnya tampak menuju pembukaan bertahap komoditas pangan Cili lainnya ke pasar Indonesia. Yang akan memastikan apakah arah ini benar terjadi adalah hasil pertemuan reviu kedua IC-CEPA yang diusulkan di Santiago dan kunjungan balasan Wamendag Roro ke Cili awal Oktober 2026, saat isu daging dan susu kemungkinan dibahas lebih rinci.",
   "imageV": "mtebqumu"
+ },
+ {
+  "slug": "tapg-direksi-jual-lagi-850-ribu-saham-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Jual] Lagi 850 Ribu Saham dalam Sepekan",
+  "deck": "George Oetomo, direksi TAPG, melepas 850.000 saham pada 27 Agustus 2026, penjualan kedua dalam kurang dari dua pekan setelah pelepasan 2,35 juta saham sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "29 Agustus 2026",
+  "isoDate": "2026-08-29T17:55:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4500-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "transaksi saham direksi",
+   "divestasi"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan penjualan saham oleh George Oetomo, anggota Direksi perseroan, kepada Otoritas Jasa Keuangan pada 29 Agustus 2026. Berdasarkan laporan tersebut, Oetomo menjual 850.000 saham TAPG secara tidak langsung pada 27 Agustus 2026 dengan harga Rp2.010 per saham, dengan tujuan transaksi tercatat sebagai divestasi. Nilai transaksi ini sekitar Rp1,71 miliar.",
+   "Dengan penjualan ini, kepemilikan saham Oetomo di TAPG berkurang dari 53.556.100 lembar menjadi 52.706.100 lembar, setara penurunan 1,59 persen dari total kepemilikannya sebelum transaksi. Hak suaranya di perseroan turun tipis dari 0,2698 persen menjadi 0,2655 persen.",
+   "Ini merupakan transaksi penjualan kedua yang dilaporkan Oetomo dalam waktu kurang dari dua pekan. Pada 24 Agustus 2026, ia sebelumnya melaporkan penjualan 2,35 juta saham senilai sekitar Rp4,48 miliar. Digabungkan, total saham yang dilepas Oetomo dalam periode ini mencapai sekitar 3,2 juta lembar dengan nilai gabungan sekitar Rp6,19 miliar."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches on a plantation, loading them onto a truck bed, tropical morning light",
+  "takeaway": "Laporan ini condong negatif dari sisi sinyal insider, karena ini adalah penjualan kedua oleh Direksi George Oetomo dalam kurang dari dua pekan, sehingga total pelepasannya kini mencapai sekitar 3,2 juta saham senilai kira-kira Rp6,19 miliar, meski secara individual transaksi kali ini hanya memangkas 1,59 persen dari kepemilikannya dan hak suaranya nyaris tidak bergeser di kisaran 0,26 persen. Yang tersentuh di sini adalah komposisi kepemilikan saham oleh orang dalam perusahaan, bukan pos keuangan seperti laba atau kas TAPG, tapi pelaku pasar tetap memperhatikan pola jual berulang semacam ini karena bisa mencerminkan pandangan direksi terhadap prospek jangka pendek perseroan, walau porsinya masih terlalu kecil untuk mengubah peta pengendalian. Yang perlu dipantau berikutnya adalah apakah Oetomo kembali melaporkan penjualan lanjutan dalam waktu dekat, mengingat dua transaksi pelepasan sudah terjadi berturut-turut sejak pertengahan Agustus 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",

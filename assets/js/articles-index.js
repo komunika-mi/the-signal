@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463719-industrialisasi-pertambangan-jadi-modal-perkuat-ekonomi-nasional-indonesia"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-16-25-juta-lembar-saham",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang saham lepas [16,25 juta] lembar saham",
+  "deck": "Pemenang Nusantara Internasional menjual 16,25 juta saham WINR pada 21 Agustus 2026, hak suaranya turun tipis dari 49,36% menjadi 49,05%.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "pemegang saham",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30082026-0878-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
   "category": "UMKM",
   "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
@@ -71,6 +87,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463683-gonjang-ganjing-harga-emas-dunia-antam-berpotensi-melonjak-ke-rp281-juta-per-gram"
+ },
+ {
+  "slug": "crab-laba-semester-i-turun-53-utang-bank-naik-168",
+  "category": "Aksi Korporasi",
+  "title": "CRAB: Laba Semester I Turun 53%, [Utang] Bank Naik 168%",
+  "deck": "Laba bersih Toba Surimi turun dari Rp8,43 miliar jadi Rp3,94 miliar pada semester I 2026, tertekan beban bunga yang melonjak seiring liabilitas naik 167,91 persen.",
+  "date": "30 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "laporan keuangan interim",
+   "beban bunga",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830180329-64318-0/FinancialStatement-2026-II-CRAB.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca",
@@ -187,6 +219,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463498-cerita-astuti-bangun-usaha-hingga-pimpin-bank-sampah-tak-ingin-jamur-terbuang"
  },
  {
+  "slug": "winr-pemegang-saham-lepas-16-49-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 16,49 Juta Saham demi [Free Float]",
+  "deck": "Pemegang saham nonpengendali WINR menjual 16,49 juta saham seharga Rp23 per lembar pada 20 Agustus 2026, hak suaranya turun tipis jadi 49,36 persen.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4241-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta",
   "category": "BUMN",
   "title": "Danantara Siapkan [141 Ribu] Rusun Subsidi di Meikarta",
@@ -256,6 +304,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-akses-pasar-dua-arah-kemendag-perkuat-perdagangan-indonesia-cili",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "tapg-direksi-jual-lagi-850-ribu-saham-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Direksi [Jual] Lagi 850 Ribu Saham dalam Sepekan",
+  "deck": "George Oetomo, direksi TAPG, melepas 850.000 saham pada 27 Agustus 2026, penjualan kedua dalam kurang dari dua pekan setelah pelepasan 2,35 juta saham sebelumnya.",
+  "date": "29 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Triputra Agro Persada",
+   "transaksi saham direksi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4500-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
@@ -6427,72 +6491,6 @@ var ARTICLES = [
    "Samindo Resources"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9887e116f3_e4f45ec23a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-panggil-rupslb-bahas-perubahan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "RANS Panggil RUPSLB, Bahas [Perubahan] Susunan Direksi",
-  "deck": "RANS mengundang pemegang saham ke RUPSLB 10 September 2026 untuk menyetujui perubahan susunan Direksi, dengan rapat hybrid dan kehadiran fisik dibatasi 10 orang.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/rans-panggil-rupslb-bahas-perubahan-susunan-direksi.jpg",
-  "imageV": "mszy2k1z",
-  "tags": [
-   "RANS",
-   "RUPSLB",
-   "Direksi",
-   "Rans Entertainment"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c34701187_065c7d15a3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Kena Pangkas Peringkat ke idB, PEFINDO Soroti [Gagal Bayar]",
-  "deck": "PEFINDO menurunkan peringkat ADHI dan tiga obligasinya dari idBB ke idB dengan status CreditWatch negatif, menyusul risiko gagal bayar kupon jatuh tempo 24 Agustus 2026.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/adhi-kena-pangkas-peringkat-ke-idb-pefindo-soroti-gagal-bayar.jpg",
-  "imageV": "mt0048v7",
-  "tags": [
-   "ADHI",
-   "peringkat obligasi",
-   "PEFINDO",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afc5329482_ee553e4011.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "byan-jelaskan-ke-bursa-soal-volatilitas-harga-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BYAN Jelaskan ke Bursa soal [Volatilitas] Harga Sahamnya",
-  "deck": "Bayan Resources menjawab permintaan BEI terkait pergerakan harga sahamnya yang tidak biasa, menyatakan tidak ada informasi material yang disembunyikan.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BYAN",
-   "Bayan Resources",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d5b3ac14de_16768422c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-jadwalkan-rupslb-pada-25-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Jadwalkan [RUPSLB] pada 25 September 2026",
-  "deck": "BIPP menjadwalkan RUPSLB pada 25 September 2026, dengan recording date 2 September, menyusul rencana penambahan modal tanpa hak memesan efek yang sudah diumumkan lebih dulu.",
-  "date": "19 Agustus 2026",
-  "image": "assets/img/bipp-jadwalkan-rupslb-pada-25-september-2026.jpg",
-  "tags": [
-   "BIPP",
-   "RUPSLB",
-   "Bhuwanatala Indah Permai",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/06029f4d4c_6629ac1d9f.pdf",
   "sourceLabel": "IDX"
  }
 ];

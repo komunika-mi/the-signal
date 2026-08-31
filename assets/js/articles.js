@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim",
+  "category": "Energi",
+  "title": "ESDM Mulai Proyek [Gasifikasi] Batubara Jadi Metanol di Kaltim",
+  "deck": "Proyek gasifikasi batubara di Kutai Timur ditargetkan hasilkan 2 juta ton metanol per tahun untuk menekan impor yang tahun lalu mencapai Rp7,1 triliun.",
+  "image": "assets/img/esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T21:57:14.644Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-jalan-hilirisasi-di-kutai-timur-wamen-esdm-resmikan-proyek-gasifikasi-batubara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "gasifikasi batubara",
+   "metanol",
+   "Kutai Timur",
+   "hilirisasi"
+  ],
+  "body": [
+   "Pemerintah memulai pembangunan pabrik pengolah batubara kalori rendah menjadi metanol, bahan kimia dasar yang selama ini banyak diimpor Indonesia. Peletakan batu pertama proyek ini dilakukan Wakil Menteri ESDM Yuliot di kawasan Batuta Chemical Industrial Park, Kecamatan Bengalon, Kabupaten Kutai Timur, Kalimantan Timur, Senin (31/8). Proyek ini penting karena mengubah batubara berkalori rendah yang nilai jualnya rendah menjadi produk industri yang selama ini harus dibeli dari luar negeri.",
+   "Proyek berstatus Proyek Strategis Nasional ini dikembangkan oleh PT Bumi Etam Chemical, perusahaan patungan PT Arutmin Indonesia dan PT Kaltim Prima Coal, di atas lahan sekitar 93 hektare. Pabrik ini dirancang mengolah 7,70 hingga 7,78 juta ton batubara berkalori 3.400 kkal per kilogram setiap tahun, lalu mengubahnya menjadi sekitar 2 juta ton metanol per tahun sesuai standar mutu internasional. Sebagai pembanding, pada 2025 Indonesia masih mengimpor 1,3 juta ton metanol senilai Rp7,1 triliun, sehingga produksi dalam negeri ini berpotensi menggantikan sebagian besar kebutuhan impor tersebut.",
+   "Pabrik akan dilengkapi fasilitas gasifikasi, reaktor sintesis, pembangkit listrik sendiri, pengolahan air, dan terminal pelabuhan, dengan teknologi yang terintegrasi sistem penangkap dan penyimpan emisi karbon atau Carbon Capture and Storage. Metanol yang dihasilkan rencananya dipasok ke industri petrokimia dan formaldehida, serta mendukung bahan baku biodiesel FAME dan program campuran bahan bakar B50. Perusahaan menyebut tahap rekayasa teknis dan perjanjian kerangka konstruksi bersama PT Istana Karang Laut dan perusahaan asal China, China National Chemical Engineering, sudah berjalan sejak 29 Juli 2026, dengan target pabrik mulai beroperasi penuh pada 2029.",
+   "Yuliot menyebut proyek ini sebagai bagian dari agenda hilirisasi dan ketahanan energi yang menjadi prioritas Presiden Prabowo Subianto dalam program Asta Cita, dan berharap model ini bisa ditiru perusahaan tambang batubara lain di Kalimantan dan Sumatera yang juga memiliki cadangan batubara kalori rendah."
+  ],
+  "fotoAdegan": "Bulldozers clearing land beside stacked steel pipes for a chemical plant construction site, tropical hillside in background",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-buka-jalan-hilirisasi-di-kutai-timur-wamen-esdm-resmikan-proyek-gasifikasi-batubara-kxiv3b4.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Proyek ini baru sampai tahap peletakan batu pertama, jadi masih jauh dari selesai. Perjanjian rekayasa teknis dan kontrak konstruksi dengan mitra dari China baru diteken akhir Juli 2026, dan pabriknya ditargetkan baru beroperasi penuh pada 2029. Yang terdampak langsung adalah PT Bumi Etam Chemical, gabungan dua perusahaan tambang batubara besar Arutmin dan Kaltim Prima Coal, serta industri petrokimia dan program biodiesel B50 yang selama ini bergantung pada metanol impor. Klaim penghematan devisa Rp7,1 triliun per tahun baru akan terbukti kalau pabrik ini rampung dan berproduksi sesuai target, sehingga hal paling konkret untuk dipantau adalah progres konstruksinya menuju tenggat commissioning 2029 itu.",
+  "imageV": "mths8emx"
+ },
+ {
+  "slug": "harga-patokan-ekspor-emas-naik-7-87-persen-per-september",
+  "category": "Industri",
+  "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
+  "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T21:56:54.150Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "emas",
+   "HPE",
+   "Kemendag",
+   "bea keluar"
+  ],
+  "body": [
+   "Kementerian Perdagangan menetapkan kenaikan Harga Patokan Ekspor (HPE) emas menjadi US$142.154,10 per kilogram untuk periode 1 hingga 14 September 2026, naik 7,87 persen dari US$131.777,67 per kilogram pada periode sebelumnya. Kenaikan ini penting bagi pelaku usaha karena HPE menjadi dasar perhitungan bea keluar, yaitu pajak yang dikenakan atas pengiriman emas ke luar negeri, sehingga biaya ekspor emas dari Indonesia ikut naik mengikuti patokan baru ini.",
+   "Ketentuan ini tertuang dalam Keputusan Menteri Perdagangan Nomor 1776 Tahun 2026 tentang Harga Patokan Ekspor dan Harga Referensi atas Produk Pertambangan yang Dikenakan Bea Keluar, yang berlaku mulai 1 hingga 14 September 2026. Selain HPE, Harga Referensi (HR) emas turut naik menjadi US$4.421,49 per troy ounce dari sebelumnya US$4.098,75 per troy ounce. Kedua angka ini disusun berdasarkan data dan masukan teknis Kementerian ESDM yang mengacu pada publikasi London Bullion Market Association (LBMA), lembaga acuan harga emas dan perak global.",
+   "Direktur Jenderal Perdagangan Luar Negeri Kementerian Perdagangan, Tommy Andana, menyebut kenaikan HPE dan HR mengikuti tren harga emas dunia yang naik akibat permintaan yang meningkat di tengah pasokan yang terbatas. Menurut Tommy, faktor lain yang turut mendorong kenaikan harga emas adalah melemahnya nilai tukar sejumlah mata uang utama dunia, turunnya imbal hasil obligasi internasional, serta wacana pemangkasan suku bunga acuan oleh beberapa bank sentral global. Kondisi itu, menurut Tommy, membuat investor mengalihkan dana ke emas sebagai instrumen yang dianggap lebih stabil di tengah ketidakpastian pasar keuangan.",
+   "Tommy menambahkan, penetapan HPE dan HR emas melibatkan koordinasi lintas kementerian, yakni Kementerian Koordinator Bidang Perekonomian, Kementerian ESDM, Kementerian Keuangan, dan Kementerian Perindustrian."
+  ],
+  "fotoAdegan": "Gold bars being stacked and inspected inside a secured vault, workers wearing gloves under bright industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah patokan harga ekspor emas yang naik 7,87 persen menjadi US$142.154,10 per kilogram, dan ini bukan sekadar angka statistik karena patokan itulah yang jadi dasar hitung bea keluar, yakni pajak yang dibayar perusahaan saat mengirim emas ke luar negeri. Artinya, semakin tinggi patokannya, semakin besar pula pajak ekspor yang harus ditanggung perusahaan tambang emas yang beroperasi di Indonesia. Kenaikan ini mengikuti harga emas dunia yang terus naik karena investor mengalihkan dana ke emas sebagai aset aman, didorong ekspektasi bank sentral global akan memangkas suku bunga acuan. Karena penetapan HPE dilakukan tiap dua minggu mengikuti pergerakan harga pasar, arah yang paling mungkin adalah bea keluar emas RI akan terus naik selama sentimen pemangkasan suku bunga dan pencarian aset aman itu bertahan. Yang akan memastikan apakah tren ini berlanjut atau berbalik adalah penetapan HPE periode kedua September 2026, yang biasanya terbit pertengahan bulan."
+ },
+ {
+  "slug": "pertamax-turbo-dan-dex-series-naik-mulai-1-september",
+  "category": "Energi",
+  "title": "Pertamax Turbo dan Dex Series [Naik] Mulai 1 September",
+  "deck": "Pertamina menaikkan harga Pertamax Turbo, Pertamina Dex, dan Dexlite mulai 1 September 2026, sementara Pertamax 92 dan Pertamax Green 95 tetap.",
+  "image": "assets/img/pertamax-turbo-dan-dex-series-naik-mulai-1-september.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T00:38:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463985-simak-harga-bbm-pertamina-1-september-2026-pertamax-turbo-dan-dex-series-naik",
+  "tags": [
+   "BBM",
+   "Pertamina",
+   "Harga BBM",
+   "Pertamax Turbo"
+  ],
+  "body": [
+   "Pertamina Patra Niaga kembali menyesuaikan harga bahan bakar minyak non-subsidi. Mulai 1 September 2026 pukul 00.00 WIB, tiga produk yaitu Pertamax Turbo, Pertamina Dex, dan Dexlite naik harga. Kenaikan ini penting bagi pemilik kendaraan yang memakai bahan bakar tersebut, karena biaya isi BBM mereka bertambah mulai hari ini.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menjelaskan bahwa penyesuaian mengikuti formula yang ditetapkan pemerintah. Formula itu memperhitungkan harga minyak mentah dunia, nilai tukar rupiah terhadap dolar, pajak, dan daya beli masyarakat pengguna. Sebagai contoh, harga Pertamax Turbo, BBM beroktan 98 alias RON 98, naik dari Rp18.300 menjadi Rp19.600 per liter, atau bertambah Rp1.300 per liter.",
+   "Namun kenaikan ini tidak berlaku merata. Pertamax 92 dan Pertamax Green 95, dua produk non-subsidi yang lebih banyak dipakai kendaraan biasa, tidak mengalami perubahan harga. Kitty mengatakan keputusan ini mempertimbangkan keekonomian, daya beli, dan kondisi sosial masyarakat, agar penyesuaian tidak membebani pengguna BBM massal.",
+   "Pertamina Patra Niaga menegaskan penyesuaian harga tidak mengubah komitmen menjaga kualitas produk dan layanan. Perusahaan juga mengimbau masyarakat membeli BBM sesuai kebutuhan dan memakai produk yang sesuai spesifikasi kendaraan. Informasi harga terbaru dapat diakses lewat Pertamina Contact Center 135 atau situs resmi perusahaan."
+  ],
+  "fotoAdegan": "Gas station attendant holding a fuel nozzle at a car's tank, pump islands and canopy in soft evening light, Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a95b6f9e20a3-ilustrasi-spbu-pertamina_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret hanya harga Pertamax Turbo yang tercatat naik dari Rp18.300 menjadi Rp19.600 per liter, sekitar Rp1.300 atau naik 7 persen, sementara Pertamina Dex dan Dexlite disebut naik tanpa rincian angka dalam keterangan resmi yang beredar. Yang kena dampak adalah pengguna kendaraan yang butuh bahan bakar oktan tinggi atau mesin diesel performa tinggi, biasanya kendaraan menengah ke atas, sementara pengguna Pertamax 92 dan Pertamax Green 95 yang jumlahnya jauh lebih banyak tidak terpengaruh. Pola ini menunjukkan Pertamina cenderung menyesuaikan harga produk premium mengikuti pergerakan harga minyak dunia sambil menahan harga produk arus utama, kemungkinan untuk melindungi daya beli mayoritas konsumen. Yang akan memastikan apakah pola pemisahan ini konsisten adalah penyesuaian harga bulan berikutnya, Oktober 2026, dan apakah Pertamax 92 tetap ditahan atau ikut disesuaikan.",
+  "imageV": "mths8f6c"
+ },
+ {
   "slug": "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22",
   "category": "Aksi Korporasi",
   "title": "PSAB: Laba [Melonjak] Usai Lepas Anak Usaha, Aset Turun 22%",

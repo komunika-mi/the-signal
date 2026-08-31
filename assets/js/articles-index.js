@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim",
+  "category": "Energi",
+  "title": "ESDM Mulai Proyek [Gasifikasi] Batubara Jadi Metanol di Kaltim",
+  "deck": "Proyek gasifikasi batubara di Kutai Timur ditargetkan hasilkan 2 juta ton metanol per tahun untuk menekan impor yang tahun lalu mencapai Rp7,1 triliun.",
+  "date": "1 September 2026",
+  "image": "assets/img/esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim.jpg",
+  "imageV": "mths8emx",
+  "tags": [
+   "gasifikasi batubara",
+   "metanol",
+   "Kutai Timur",
+   "hilirisasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-jalan-hilirisasi-di-kutai-timur-wamen-esdm-resmikan-proyek-gasifikasi-batubara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "harga-patokan-ekspor-emas-naik-7-87-persen-per-september",
+  "category": "Industri",
+  "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
+  "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
+  "date": "1 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "emas",
+   "HPE",
+   "Kemendag",
+   "bea keluar"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertamax-turbo-dan-dex-series-naik-mulai-1-september",
+  "category": "Energi",
+  "title": "Pertamax Turbo dan Dex Series [Naik] Mulai 1 September",
+  "deck": "Pertamina menaikkan harga Pertamax Turbo, Pertamina Dex, dan Dexlite mulai 1 September 2026, sementara Pertamax 92 dan Pertamax Green 95 tetap.",
+  "date": "1 September 2026",
+  "image": "assets/img/pertamax-turbo-dan-dex-series-naik-mulai-1-september.jpg",
+  "imageV": "mths8f6c",
+  "tags": [
+   "BBM",
+   "Pertamina",
+   "Harga BBM",
+   "Pertamax Turbo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/463985-simak-harga-bbm-pertamina-1-september-2026-pertamax-turbo-dan-dex-series-naik"
+ },
+ {
   "slug": "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22",
   "category": "Aksi Korporasi",
   "title": "PSAB: Laba [Melonjak] Usai Lepas Anak Usaha, Aset Turun 22%",
@@ -6462,54 +6513,6 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9116efcbd0_859175345a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-doni-mora-jual-100-000-saham-hak-suara-tetap",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi Doni Mora [jual] 100.000 saham, hak suara tetap",
-  "deck": "Direksi ITSEC Asia (CYBR), Doni Mora, menjual 100.000 saham perusahaan pada 19 Agustus 2026 senilai sekitar Rp56 juta, namun hak suaranya di perseroan tetap 0,035 persen.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/cybr-direksi-doni-mora-jual-100-000-saham-hak-suara-tetap.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-7517-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-keluar-dari-pemantauan-khusus-bei-efektif-21-agustus",
-  "category": "Aksi Korporasi",
-  "title": "RGAS [Keluar] dari Pemantauan Khusus BEI Efektif 21 Agustus",
-  "deck": "Bursa mencabut status pemantauan khusus saham RGAS milik PT Kian Santang Muliatama Tbk dan mengembalikannya ke Papan Pengembangan mulai 21 Agustus 2026.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/rgas-keluar-dari-pemantauan-khusus-bei-efektif-21-agustus.jpg",
-  "tags": [
-   "RGAS",
-   "BEI",
-   "pemantauan khusus",
-   "Papan Pengembangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc856c4ebf_4d6d9e4c73.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meds-komisaris-lepas-3-juta-saham-lagi-suara-ke-53-46",
-  "category": "Aksi Korporasi",
-  "title": "MEDS: Komisaris Lepas 3 Juta Saham Lagi, Suara ke [53,46%]",
-  "deck": "Komisaris Jemmy Kurniawan kembali menjual 3 juta saham Hetzer Medical Indonesia pada 19 Agustus, transaksi keempat dalam sepekan, hak suaranya turun ke 53,46 persen.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/meds-komisaris-lepas-3-juta-saham-lagi-suara-ke-53-46.jpg",
-  "tags": [
-   "MEDS",
-   "Hetzer Medical Indonesia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-7047-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

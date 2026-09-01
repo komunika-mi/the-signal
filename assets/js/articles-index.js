@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CASH akan [tambah] tiga lini usaha baru, RUPSLB 8 Oktober",
+  "deck": "Cashlez berencana menyesuaikan enam kode usaha dan menambah tiga bidang bisnis baru, sekaligus mengubah alokasi dana hasil IPO, lewat RUPSLB yang dijadwalkan 8 Oktober 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "KBLI",
+   "Cashlez"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac4eb55f7f_3f22984fe1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vktr-jajaki-pendanaan-rp2-triliun-dari-danantara-non-binding",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Jajaki Pendanaan Rp2 Triliun dari Danantara [Non-Binding]",
+  "deck": "VKTR menandatangani indicative non-binding term sheet dengan Danantara Investment Management dan Bakrie & Brothers untuk pendanaan hingga Rp2 triliun.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "Danantara Investment Management",
+   "Bakrie & Brothers",
+   "pendanaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538ddc143e_5b1574b315.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-rights-issue-dilusi-bisa-capai-72-22-persen",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Rights Issue: [Dilusi] Bisa Capai 72,22 Persen",
+  "deck": "CBRE menawarkan rights issue hingga Rp1,27 triliun dengan dilusi maksimal 72,22 persen. Pemegang saham utama OIH melepas seluruh haknya, dibayar lewat konversi utang oleh empat investor baru.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99fb68166b_957a60ce24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgas-jelaskan-ke-bursa-isi-putusan-parsial-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Jelaskan ke Bursa Isi Putusan [Parsial] Arbitrase Gunvor",
+  "deck": "PGN merinci ke Bursa Efek Indonesia isi putusan arbitrase London yang menyatakan penolakan force majeure dan mewajibkan kompensasi ke Gunvor, namun nilainya belum diungkap.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "Gunvor",
+   "LNG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3955ead1_ea2641e3d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "chek-jawab-bursa-utang-bank-baru-rp28-m-pendapatan-30",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Jawab Bursa: [Utang Bank] Baru Rp28 M, Pendapatan +30%",
+  "deck": "CHEK menjawab permintaan penjelasan Bursa soal proyeksi keuangan dan laporan keuangan 2025-2026, mencakup kenaikan utang bank, beban usaha, dan persediaan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEK",
+   "Diastika Biotekindo",
+   "keterbukaan informasi",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a37306994_50f66f7bef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-batalkan-rupsu-sukuk-tahap-ii-jadwal-17-september",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Batalkan] RUPSU Sukuk Tahap II, Jadwal 17 September",
+  "deck": "WIKA membatalkan rapat pemegang Sukuk Tahap II yang dijadwalkan 17 September 2026, tanpa menjelaskan alasan, di tengah rentetan permintaan penundaan pembayaran sukuk emiten ini.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1744138978_31bbc714a9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wika-batalkan-rupsu-sukuk-tahap-i-belum-ada-jadwal-baru",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Batalkan RUPSU Sukuk Tahap I, [Belum] Ada Jadwal Baru",
+  "deck": "WIKA dan wali amanat PT Bank Mega membatalkan RUPSU Sukuk Tahap I yang semula dijadwalkan 15 September 2026, tanpa menyebut tanggal pengganti maupun alasan pembatalan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b4bf18cb60_eecfe78764.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-realisasikan-86-dana-rights-issue-untuk-proyek-tol",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Realisasikan 86% Dana Rights Issue untuk [Proyek Tol]",
+  "deck": "Realisasi penggunaan dana rights issue 2022 ADHI capai Rp2,27 triliun per Juni 2026, sisa Rp378,69 miliar ditargetkan tuntas Desember 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "rights issue",
+   "penggunaan dana",
+   "jalan tol"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76b4f6b432_18d848b8e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
   "category": "Energi",
   "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
@@ -6400,133 +6528,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d1dda49e67_40e55ff746.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "taxi-gelar-rupst-ketiga-usai-kuorum-gagal-dua-kali",
-  "category": "Aksi Korporasi",
-  "title": "TAXI Gelar RUPST Ketiga usai [Kuorum] Gagal Dua Kali",
-  "deck": "Setelah RUPST kedua gagal kuorum pada 17 Juli 2026, Express Transindo Utama menggelar RUPST ketiga pada 9 September 2026 berdasarkan penetapan kuorum khusus dari OJK.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAXI",
-   "RUPST",
-   "Express Transindo Utama",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/609c92964f_deacd32112.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inco-direktur-sustainability-budiawansyah-mundur",
-  "category": "Aksi Korporasi",
-  "title": "INCO: Direktur [Sustainability] Budiawansyah Mundur",
-  "deck": "Direktur sekaligus Chief Sustainability and Corporate Affairs Officer Vale Indonesia, Budiawansyah, mengajukan pengunduran diri karena alasan keluarga, menunggu persetujuan RUPS.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCO",
-   "Vale Indonesia",
-   "direksi",
-   "pengunduran diri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/79cd5a66f8_dd8b666d58.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-ke-rp17-694-bi-rate-tetap-5-75-persen",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] ke Rp17.694, BI Rate Tetap 5,75 Persen",
-  "deck": "Rupiah ditutup menguat 54 poin ke Rp17.694 per dolar AS, ditopang keputusan BI menahan suku bunga acuan sementara arah suku bunga The Fed masih belum jelas.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/rupiah-menguat-ke-rp17-694-bi-rate-tetap-5-75-persen.jpg",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "BI Rate",
-   "FOMC"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461519-rupiah-menguat-54-poin-ke-rp17694-per-dolar-as-didukung-bi-rate-575-persen"
- },
- {
-  "slug": "zp-sesuaikan-harga-pelaksanaan-waran-bbca-usai-dividen-interim",
-  "category": "Aksi Korporasi",
-  "title": "ZP Sesuaikan [Harga Pelaksanaan] Waran BBCA Usai Dividen Interim",
-  "deck": "Maybank Sekuritas (ZP) menyesuaikan harga pelaksanaan dan rasio konversi waran BBCAZPCZ6A dan BBCAZPCH7A menyusul dividen interim BCA Rp25 per saham, efektif 31 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "waran terstruktur",
-   "BBCA",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/688d17eb79_7568564872.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-rilis-materi-public-expose-laba-bersih-naik-16-di-h1-2026",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Rilis Materi Public Expose, [Laba Bersih] Naik 16% di H1 2026",
-  "deck": "Eagle High Plantations (BWPT) memaparkan materi Public Expose semester I 2026 kepada BEI, menunjukkan laba bersih dan pendapatan tumbuh dua digit serta rasio utang yang terus menyusut.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "Eagle High Plantations",
-   "Public Expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a2ef4165e5_866c605506.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-10-anak-usaha-bagi-dividen-interim-rp762-66-m",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: 10 Anak Usaha Bagi Dividen Interim [Rp762,66 M]",
-  "deck": "Sepuluh anak usaha Triputra Agro Persada membagikan dividen interim senilai Rp762,66 miliar kepada PT Agro Multi Persada, perusahaan induk yang 94,93 persen sahamnya dimiliki TAPG.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "dividen interim",
-   "transaksi afiliasi",
-   "Triputra Agro Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c33e36585_157e9a7cb6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-berpotensi-tunda-bayar-bunga-obligasi-rp60-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Berpotensi [Tunda] Bayar Bunga Obligasi Rp60,8 Miliar",
-  "deck": "ADHI menyatakan berpotensi menunda pembayaran bunga obligasi ke-17 senilai Rp60,82 miliar yang jatuh tempo 24 Agustus 2026, setelah rapat pemegang obligasi gagal capai kuorum.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "obligasi",
-   "gagal bayar",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/050a5f0e0a_2cade5c43d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga",
-  "category": "BUMN",
-  "title": "Pegadaian Tawarkan [Cicilan] Emas Redam Gejolak Harga",
-  "deck": "Pegadaian meluncurkan skema cicilan tabungan emas dengan harga terkunci sejak akad, agar cicilan tak berubah meski harga emas pasar naik.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/pegadaian-tawarkan-cicilan-emas-redam-gejolak-harga.jpg",
-  "imageV": "mt5v302g",
-  "tags": [
-   "Pegadaian",
-   "emas",
-   "investasi emas",
-   "cicilan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461512-pegadaian-hadirkan-solusi-cicil-tabungan-emas-untuk-atasi-fluktuasi-harga-emas"
  }
 ];

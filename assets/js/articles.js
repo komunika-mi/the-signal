@@ -3,6 +3,217 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
+  "category": "Aksi Korporasi",
+  "title": "CASH akan [tambah] tiga lini usaha baru, RUPSLB 8 Oktober",
+  "deck": "Cashlez berencana menyesuaikan enam kode usaha dan menambah tiga bidang bisnis baru, sekaligus mengubah alokasi dana hasil IPO, lewat RUPSLB yang dijadwalkan 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T23:15:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac4eb55f7f_3f22984fe1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASH",
+  "tags": [
+   "CASH",
+   "RUPSLB",
+   "KBLI",
+   "Cashlez"
+  ],
+  "body": [
+   "PT Cashlez Worldwide Indonesia Tbk (CASH) mengumumkan rencana penyesuaian dan penambahan kegiatan usaha mengikuti klasifikasi KBLI 2025, sekaligus rencana mengubah alokasi penggunaan dana hasil penawaran umum. Kedua rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 8 Oktober 2026 pukul 10.00 WIB di Ruang Brass Ballroom, Thamrin Nine Complex, Jakarta Pusat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 15 September 2026 pukul 16.00 WIB.",
+   "Enam kode usaha yang disesuaikan adalah 47414 menjadi 46523 (Perdagangan Besar Peralatan Telekomunikasi), 47793 menjadi 46591 (Perdagangan Besar Mesin Kantor dan Industri Pengolahan, Suku Cadang, dan Perlengkapannya), 58200 menjadi 58290 (Penerbitan Perangkat Lunak Lainnya), 66411 menjadi 66141 (Penyediaan Jasa Pembayaran), 66413 menjadi 66143 (Penyelenggaraan Penunjang Sistem Pembayaran), dan 62012 menjadi 62199 (Aktivitas Pemrograman Komputer Lainnya YTDL). Tiga bidang usaha baru yang ditambahkan adalah 95101 (Reparasi dan Pemeliharaan Komputer/Peralatan Komunikasi), 66199 (Aktivitas Penunjang Jasa Keuangan Lainnya YTDL, Kecuali Asuransi dan Dana Pensiun), dan 77394 (Penyewaan dan Sewa Guna Usaha Mesin dan Peralatan Kantor).",
+   "Perseroan menunjuk KJPP Ferdinand, Danar, Ichsan dan Rekan untuk menyusun studi kelayakan atas rencana ini. Hasilnya, rencana perubahan kegiatan usaha membutuhkan biaya investasi Rp34.518.304.021, dengan proyeksi Net Present Value Rp86.496.379.884, Internal Rate of Return 26,61 persen (di atas tingkat diskonto yang dipakai sebesar 10,40 persen), Profitability Index 1,25 kali, dan masa pengembalian modal (payback period) 7 tahun. Berdasarkan angka-angka itu, penilai independen menyimpulkan rencana perubahan usaha ini layak dijalankan.",
+   "Dokumen ini juga menyebut rencana Perseroan mengubah alokasi penggunaan dana hasil penawaran umum perdana, tanpa merinci pos alokasi baru yang dimaksud. Sesuai jadwal, panggilan resmi RUPSLB berikut mata acara akan dimuat di situs Cashlez, situs Bursa Efek Indonesia, dan situs KSEI pada 16 September 2026. Pemegang saham yang tidak hadir fisik dapat memberi kuasa elektronik lewat sistem eASY.KSEI hingga 7 Oktober 2026, sehari sebelum rapat berlangsung."
+  ],
+  "fotoAdegan": "Close-up of a handheld card payment terminal at a small retail counter, cashier processing a transaction, warm shop lighting",
+  "takeaway": "Laporan ini netral bagi Cashlez, karena penyesuaian kode usaha dan penambahan tiga lini bisnis baru bukan transaksi besar yang langsung mengubah keuangan perusahaan, melainkan syarat administratif sebelum Cashlez bisa mulai menjalankan bisnis tambahan itu, apalagi ekuitas Cashlez sudah negatif Rp37,6 miliar per Juni 2026 seperti yang pernah diberitakan sebelumnya. Yang tersentuh adalah rencana penggunaan sisa dana hasil penawaran umum perdana Rp87,5 miliar yang terkumpul saat Cashlez melantai di bursa pada 2020, karena Perseroan berniat mengubah pos-pos alokasinya sesuai kondisi bisnis terkini meski rincian pos barunya belum diungkap di dokumen ini. Studi kelayakannya sendiri memakai proyeksi nilai sekarang dari perkiraan keuntungan masa depan (Net Present Value) sebesar Rp86,5 miliar dan perkiraan tingkat imbal hasil investasi (Internal Rate of Return) 26,61 persen untuk menilai kelayakan investasi tambahan Rp34,5 miliar pada lini usaha baru, tapi ini proyeksi penilai independen, bukan pendapatan yang sudah pasti terjadi. Yang perlu dipantau adalah persetujuan pemegang saham dalam RUPSLB pada 8 Oktober 2026, karena rencana penyesuaian usaha maupun perubahan alokasi dana baru sah dijalankan jika disetujui dalam rapat itu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "vktr-jajaki-pendanaan-rp2-triliun-dari-danantara-non-binding",
+  "category": "Aksi Korporasi",
+  "title": "VKTR Jajaki Pendanaan Rp2 Triliun dari Danantara [Non-Binding]",
+  "deck": "VKTR menandatangani indicative non-binding term sheet dengan Danantara Investment Management dan Bakrie & Brothers untuk pendanaan hingga Rp2 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T22:48:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538ddc143e_5b1574b315.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "Danantara Investment Management",
+   "Bakrie & Brothers",
+   "pendanaan"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk menandatangani indicative non-binding term sheet pada 28 Agustus 2026 bersama PT Danantara Investment Management (DIM) sebagai calon investor dan PT Bakrie & Brothers Tbk (BNBR) sebagai penanggung. Penandatanganan ini merupakan bagian dari penjajakan awal ketiga pihak terkait rencana pendanaan untuk mendukung pengembangan dan ekspansi bisnis mobility-as-a-service (MaaS) milik VKTR. Berdasarkan indikasi awal dalam term sheet, jumlah pokok pendanaan yang dijajaki sebanyak-banyaknya Rp2 triliun, dengan hak opsi konversi yang rinciannya baru akan ditentukan dalam dokumen definitif.",
+   "VKTR menyebut rencana dana tersebut akan dipakai antara lain untuk membiayai pengadaan bus listrik dan/atau truk listrik, serta tujuan lain yang masih akan disepakati para pihak di dokumen definitif. Perusahaan menegaskan term sheet ini masih bersifat non-binding, artinya baru mencerminkan pembahasan awal dan belum menimbulkan kewajiban yang mengikat bagi ketiga pihak.",
+   "Perusahaan juga menyatakan bahwa begitu dokumen definitif nanti ditandatangani dan menimbulkan hak serta kewajiban yang mengikat, VKTR akan mengikuti ketentuan transaksi afiliasi dan benturan kepentingan sesuai POJK No. 42/2020, serta ketentuan transaksi material sesuai POJK No. 17/2020 sebagaimana relevan. Ini mengindikasikan BNBR berpotensi berstatus pihak terafiliasi dengan VKTR. Laporan ditandatangani oleh Indah Permatasari Saugi, Direktur sekaligus Sekretaris Perusahaan VKTR, dan disampaikan ke OJK pada 1 September 2026."
+  ],
+  "fotoAdegan": "Electric buses parked in a depot yard at dawn, workers checking charging cables between vehicles, industrial setting",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena angka Rp2 triliun yang disebut baru indikasi awal dari term sheet yang tidak mengikat, jadi belum ada kepastian dana benar-benar cair dalam jumlah maupun bentuk itu. Yang perlu diperhatikan adalah hak opsi konversi pada rencana pendanaan ini, sebab kalau nanti dikonversi jadi saham, jumlah saham beredar VKTR bertambah dan laba per saham pemegang lama bisa terdilusi. Perlu dicermati juga bahwa BNBR berperan sebagai penanggung sekaligus disebut berpotensi menjadi pihak terafiliasi, sehingga transaksi ini masuk kategori yang diawasi ketat lewat aturan benturan kepentingan. Yang perlu dipantau selanjutnya adalah penandatanganan dokumen definitif antara VKTR, Danantara Investment Management, dan Bakrie & Brothers, karena baru di titik itu syarat pendanaan, termasuk skema konversi dan kewajiban afiliasi, akan terkunci dan mengikat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbre-rights-issue-dilusi-bisa-capai-72-22-persen",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Rights Issue: [Dilusi] Bisa Capai 72,22 Persen",
+  "deck": "CBRE menawarkan rights issue hingga Rp1,27 triliun dengan dilusi maksimal 72,22 persen. Pemegang saham utama OIH melepas seluruh haknya, dibayar lewat konversi utang oleh empat investor baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T21:33:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99fb68166b_957a60ce24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) menerbitkan prospektus ringkas penawaran umum terbatas dengan hak memesan efek terlebih dahulu (PMHMETD I). Perseroan menawarkan sebanyak-banyaknya 11.798.975.345 saham baru dengan nilai nominal Rp25 per saham, setara 72,22 persen dari modal ditempatkan dan disetor penuh setelah aksi ini rampung. Setiap pemegang 100 saham lama yang tercatat pada 4 November 2026 pukul 16.00 WIB berhak atas 260 HMETD, dan setiap satu HMETD bisa ditukar satu saham baru dengan harga pelaksanaan Rp108 per saham. Jika seluruh saham terserap, dana yang masuk ke kas perseroan mencapai maksimal Rp1,27 triliun. Pemegang saham lama yang tidak menggunakan haknya akan terdilusi hingga 72,22 persen, sebagaimana ditegaskan sendiri oleh perseroan dalam prospektus.",
+   "Dua pemegang saham utama menyatakan tidak akan melaksanakan haknya sendiri. PT Omudas Investment Holdco (OIH), pemilik 2,774 miliar saham atau 61,13 persen, berhak atas 7,2124 miliar HMETD namun mengalihkannya ke empat pihak: PT Garuda Nusantara Mineral (GNM) sebanyak 2,845 miliar HMETD, PT Saga Investama Sedaya (SIS) 1,778 miliar HMETD, Yafin Tandiono Tan 1,565 miliar HMETD, dan Hilong Shipping Holding Limited (HSIL) 711,3 juta HMETD. PT Republik Capital Indonesia (RCI), pemilik 422,2 juta saham atau 9,30 persen dan berhak atas 1,098 miliar HMETD, juga mengalihkan sebagian haknya ke empat pihak yang sama dengan porsi yang lebih kecil.",
+   "Keempat penerima pengalihan itu sudah menyatakan komitmen tertulis untuk melaksanakan seluruh HMETD yang mereka terima, tetapi pembayarannya bukan dalam bentuk uang tunai baru, melainkan konversi piutang berdasarkan perjanjian pinjaman 31 Oktober 2025. GNM akan melaksanakan 3,278 miliar HMETD senilai Rp354,06 miliar (setara US$20 juta), SIS 2,049 miliar HMETD senilai Rp221,29 miliar (US$12,5 juta), Yafin 1,803 miliar HMETD senilai Rp194,73 miliar (US$11 juta), dan HSIL 819,6 juta HMETD senilai Rp88,52 miliar (US$5 juta), dengan kurs acuan Rp17.703 per dolar Amerika Serikat. Total piutang yang dikonversi menjadi saham mencapai sekitar Rp858,6 miliar, setara US$48,5 juta.",
+   "RUPSLB yang menyetujui aksi ini sudah digelar pada 18 Desember 2025, dengan tanggal efektif pernyataan pendaftaran pada 23 Oktober 2026. Periode perdagangan dan pelaksanaan HMETD berlangsung 6 hingga 12 November 2026, dengan batas akhir pembayaran pesanan saham tambahan pada 16 November 2026 dan penjatahan pada 17 November 2026. Perseroan menyebut risiko utama yang dihadapi adalah fluktuasi permintaan jasa pelayaran dan offshore, sesuai lini bisnis angkutan laut dalam dan luar negeri yang digelutinya."
+  ],
+  "fotoAdegan": "Cargo ships and tugboats anchored near a busy Indonesian seaport, containers stacked on the dock, early morning haze.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik CBRE karena dilusi kepemilikan bisa mencapai 72,22 persen, dan pemegang saham pengendali lama, Omudas Investment Holdco, justru melepas seluruh haknya sehingga kendali perusahaan berpotensi berpindah ke Garuda Nusantara Mineral yang setelah aksi ini bisa menjadi pemegang saham tunggal terbesar. Yang tersentuh di sini adalah jumlah saham beredar CBRE, yang berpotensi melonjak dari sekitar 4,5 miliar menjadi sekitar 16,3 miliar lembar, sehingga laba per saham ke depan terbagi ke basis yang jauh lebih besar. Di sisi lain ada nilai positifnya, sekitar Rp858,6 miliar utang perseroan berubah menjadi modal lewat konversi piutang, yang berarti beban bunga dan kewajiban bayar utang itu hilang dari neraca. Yang perlu dipantau berikutnya adalah pelaksanaan HMETD pada 6 sampai 12 November 2026 dan realisasi pembayaran pemesanan saham tambahan paling lambat 16 November 2026, karena dari situ baru terlihat berapa besar dana tunai riil, di luar konversi utang, yang benar-benar masuk ke kas perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pgas-jelaskan-ke-bursa-isi-putusan-parsial-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Jelaskan ke Bursa Isi Putusan [Parsial] Arbitrase Gunvor",
+  "deck": "PGN merinci ke Bursa Efek Indonesia isi putusan arbitrase London yang menyatakan penolakan force majeure dan mewajibkan kompensasi ke Gunvor, namun nilainya belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T21:30:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3955ead1_ea2641e3d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGAS",
+  "tags": [
+   "PGAS",
+   "arbitrase",
+   "Gunvor",
+   "LNG"
+  ],
+  "body": [
+   "PT Perusahaan Gas Negara (Persero) Tbk menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-11118/BEI.PP2/08-2026 tanggal 28 Agustus 2026 terkait putusan arbitrase melawan Gunvor. Dalam surat tanggapan tertanggal 1 September 2026 yang ditandatangani Corporate Secretary Fajriyah Usman, PGN menjelaskan bahwa sengketa berasal dari klaim Gunvor atas sembilan kargo LNG, yaitu kargo ke-4 sampai ke-8 tahun 2024 dan kargo ke-1 sampai ke-4 tahun 2025. Majelis Arbiter LCIA menolak deklarasi force majeure yang diajukan PGN pada 3 November 2023, dan memutuskan PGN wajib membayar kompensasi kepada Gunvor atas klaim sembilan kargo tersebut. Nilai kompensasi tidak disebutkan dalam surat ini.",
+   "PGN menegaskan bahwa putusan yang diterima bersifat parsial, artinya baru menyelesaikan sebagian dari total klaim yang diajukan Gunvor lewat permohonan arbitrase yang mencakup periode kontrak 2024 sampai 2027. Sisa klaim atas sebagian kargo tahun 2025 serta seluruh kargo tahun 2026 dan 2027 belum diputus, dan LCIA tetap mencadangkan yurisdiksinya untuk memeriksa sisa klaim itu jika Gunvor melanjutkan proses arbitrase. PGN juga menyebut bahwa untuk mengeksekusi putusan yang sudah ada, Gunvor lebih dulu harus mengajukan permohonan eksekusi ke Pengadilan Negeri Jakarta Pusat.",
+   "Soal dampaknya, PGN menyatakan tidak ada dampak operasional. Dari sisi hukum, perusahaan mengaku masih menelaah putusan bersama konsultan hukum dan berkonsultasi dengan instansi terkait untuk menentukan langkah hukum lanjutan. Dari sisi keuangan, PGN menyebut perhitungan dampaknya masih dalam proses dan akan masuk dalam reviu Kantor Akuntan Publik atas laporan keuangan konsolidasian perseroan per 30 Juni 2026. PGN berjanji akan menyampaikan keterbukaan informasi lanjutan apabila ada perkembangan baru dalam perkara ini."
+  ],
+  "fotoAdegan": "LNG tanker docked at an industrial gas terminal, pipelines and cranes under an overcast sky, workers in hard hats nearby",
+  "takeaway": "Laporan ini condong negatif bagi PGN karena Majelis Arbiter internasional menolak alasan force majeure perusahaan dan memastikan PGN harus membayar kompensasi ke Gunvor, sementara klaim yang belum diputus untuk kargo 2026 dan 2027 berarti total risiko keuangan perusahaan sebenarnya lebih besar dari yang sudah diputuskan sejauh ini. Kompensasi yang wajib dibayar ini akan tercermin sebagai kewajiban atau beban baru dalam laporan keuangan, dan kalau benar dibayarkan akan mengurangi kas perusahaan, dua pos yang biasa diawasi ketat oleh investor karena langsung memengaruhi kesehatan neraca. Nilai rupiah dari kompensasi itu sendiri belum diungkap PGN, sehingga besar kecilnya dampak nyata belum bisa dipastikan dari dokumen ini. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian PGN per 30 Juni 2026, karena di situlah kantor akuntan publik akan memasukkan hasil reviu dampak keuangan putusan ini, serta kelanjutan proses arbitrase untuk sisa klaim kargo 2025 hingga 2027 yang masih menunggu keputusan LCIA.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "chek-jawab-bursa-utang-bank-baru-rp28-m-pendapatan-30",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Jawab Bursa: [Utang Bank] Baru Rp28 M, Pendapatan +30%",
+  "deck": "CHEK menjawab permintaan penjelasan Bursa soal proyeksi keuangan dan laporan keuangan 2025-2026, mencakup kenaikan utang bank, beban usaha, dan persediaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T21:21:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a37306994_50f66f7bef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEK",
+  "tags": [
+   "CHEK",
+   "Diastika Biotekindo",
+   "keterbukaan informasi",
+   "utang bank"
+  ],
+  "body": [
+   "PT Diastika Biotekindo Tbk (CHEK) menyampaikan jawaban resmi atas surat permintaan penjelasan Bursa Efek Indonesia nomor S-11102/BEI.PP1/08-2026 tertanggal 28 Agustus 2026. Surat balasan ditandatangani Direktur Utama Franciscus Xaverius Yoshua R pada 1 September 2026, menjawab pertanyaan Bursa atas dokumen proyeksi keuangan serta laporan keuangan periode 31 Desember 2025 dan 30 Juni 2026.",
+   "Dari sisi kinerja, perseroan mengonfirmasi pendapatan naik 30,05 persen menjadi Rp201,30 miliar pada 2025 dari Rp154,79 miliar pada 2024. Namun tidak ada lagi pendapatan dari PT Fajar Mas Murni yang sebelumnya menyumbang Rp11,25 miliar pada 2024, karena sifatnya proyek yang sudah selesai. Di sisi beban, biaya umum dan administrasi melonjak 44,01 persen menjadi sekitar Rp48,51 miliar, terutama karena kenaikan biaya konsultan, pajak, dan imbalan kerja. Perseroan juga menambah utang bank baru, yaitu Rp18,08 miliar dari PT Bank Pan Indonesia Tbk pada 2025 dan Rp10 miliar dari PT Bank UOB Indonesia Tbk pada Juni 2026, keduanya untuk modal kerja.",
+   "Di neraca, persediaan naik dari Rp50,8 miliar menjadi Rp116,48 miliar, yang menurut manajemen untuk menjaga ketersediaan produk dan mengamankan proyek tender pemerintah. Uang muka pembelian juga terus membesar, dari Rp846,43 juta pada 2024 menjadi Rp2,63 miliar pada 2025 dan Rp4,81 miliar pada Juni 2026. Perseroan menambah utang pembiayaan konsumen Rp807,81 juta untuk kendaraan operasional, sementara piutang dari PT Etana Biotechnologies Indonesia dan utang ke PT UBC Medical Indonesia Tbk, keduanya pihak berelasi, sudah lunas masing-masing pada awal 2025 dan 7 Februari 2025.",
+   "Dalam rincian uang muka, tercatat dana sebesar Rp1.012.134.563 yang disalurkan ke Lotus Andalan Sekuritas untuk keperluan buyback saham CHEK, dengan target realisasi pada kuartal III atau September 2026. Ada pula jaminan pelaksanaan senilai Rp133,2 juta kepada Deputi Bidang Infrastruktur Riset dan Inovasi BRIN yang juga ditargetkan rampung pada periode yang sama."
+  ],
+  "fotoAdegan": "Warehouse workers in gloves stacking boxes of medical supplies on pallets under fluorescent industrial lighting",
+  "takeaway": "Secara keseluruhan penjelasan ini netral bagi CHEK: pendapatan memang tumbuh 30 persen sepanjang 2025, tapi beban umum dan administrasi tumbuh lebih cepat lagi, 44 persen, dan perseroan baru menambah utang bank sekitar Rp28 miliar dari dua bank berbeda untuk modal kerja. Yang tersentuh di sini adalah beban usaha dan utang berbunga, dua pos yang menentukan berapa banyak keuntungan yang tersisa buat pemegang saham setelah pendapatan dikurangi biaya operasional dan bunga pinjaman, karena kalau beban naik lebih cepat dari penjualan, laba per lembar saham bisa tergerus meski omzet naik. Persediaan yang melonjak lebih dari dua kali lipat menjadi Rp116,48 miliar juga berarti lebih banyak uang perusahaan yang tertahan dalam bentuk barang di gudang, bukan uang tunai yang siap dipakai. Yang perlu dipantau berikutnya adalah realisasi rencana buyback saham senilai sekitar Rp1 miliar yang ditargetkan selesai pada kuartal III 2026, serta kemampuan Diastika membayar cicilan dan bunga dari dua utang bank barunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wika-batalkan-rupsu-sukuk-tahap-ii-jadwal-17-september",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Batalkan] RUPSU Sukuk Tahap II, Jadwal 17 September",
+  "deck": "WIKA membatalkan rapat pemegang Sukuk Tahap II yang dijadwalkan 17 September 2026, tanpa menjelaskan alasan, di tengah rentetan permintaan penundaan pembayaran sukuk emiten ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:27:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1744138978_31bbc714a9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk, melalui Corporate Secretary Mahendra Vijaya, mengumumkan pembatalan Rapat Umum Pemegang Sukuk (RUPSU) Mudharabah Berkelanjutan I Wijaya Karya Tahap II Tahun 2021 yang sedianya digelar Kamis, 17 September 2026. Pemberitahuan disampaikan lewat surat nomor SE.01.00/A.CORSEC.00294/2026 tertanggal 1 September 2026 pukul 20.27 WIB, tanpa menyebutkan alasan pembatalan selain frasa umum karena satu dan lain hal.",
+   "PT Bank Mega Tbk, selaku wali amanat sukuk berdasarkan Akta Perjanjian Perwaliamanatan Nomor 14 tanggal 8 Februari 2021 yang dibuat di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H., turut menandatangani pengumuman pembatalan ini. Wali amanat menyatakan pengumuman RUPSU yang sebelumnya sudah dimuat di harian Terbit pada 14 Agustus 2026 ikut dibatalkan bersamaan dengan pembatalan rapatnya.",
+   "RUPSU Sukuk Tahap II ini sebelumnya dipanggil sebagai bagian dari rangkaian permintaan WIKA kepada pemegang surat utang syariahnya untuk menyetujui penundaan jatuh tempo pokok, menyusul RUPSU tranche lain yang masih terjadwal pada 9 dan 15 September 2026 untuk permintaan serupa atas tenor sukuk yang berbeda."
+  ],
+  "fotoAdegan": "Construction workers walking past cranes and steel beams at a large infrastructure project site, overcast afternoon light.",
+  "takeaway": "Pembatalan ini condong negatif bagi WIKA, karena yang dibatalkan justru forum yang mestinya memutuskan penundaan jatuh tempo pokok Sukuk Tahap II, sehingga menyisakan ketidakpastian soal bagaimana kewajiban itu akan diselesaikan, apalagi ekuitas perseroan sudah anjlok ke sekitar Rp130 miliar dengan rugi Rp1,55 triliun pada semester I. RUPSU sukuk adalah forum bagi pemegang surat utang syariah untuk menyetujui perubahan syarat pembayaran, dan tanpa forum pengganti, kewajiban pokok serta bagi hasil sukuk tetap mengikuti jadwal awal sehingga menambah tekanan pada arus kas perseroan yang memang sedang tipis. Pemegang saham dan pemegang sukuk perlu memantau apakah WIKA menjadwalkan ulang RUPSU Tahap II atau menempuh kesepakatan lain dengan pemegang sukuk sebelum kewajiban jatuh tempo, serta hasil dua RUPSU tranche lain yang masih terjadwal 9 dan 15 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wika-batalkan-rupsu-sukuk-tahap-i-belum-ada-jadwal-baru",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Batalkan RUPSU Sukuk Tahap I, [Belum] Ada Jadwal Baru",
+  "deck": "WIKA dan wali amanat PT Bank Mega membatalkan RUPSU Sukuk Tahap I yang semula dijadwalkan 15 September 2026, tanpa menyebut tanggal pengganti maupun alasan pembatalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:26:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b4bf18cb60_eecfe78764.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "RUPSU",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk melalui corporate secretary Mahendra Vijaya mengumumkan pembatalan Rapat Umum Pemegang Sukuk (RUPSU) untuk Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022. Rapat yang semula dijadwalkan pada Selasa, 15 September 2026, dinyatakan batal dilaksanakan. Pengumuman tertanggal 1 September 2026 ini ditandatangani bersama oleh PT Bank Mega Tbk selaku wali amanat, sesuai Perjanjian Perwaliamanatan berdasarkan Akta No. 47 tanggal 20 Juli 2022 di hadapan notaris Ir. Nanette Cahyanie Handari Adi Warsito, S.H.",
+   "Sebagai konsekuensi pembatalan, pengumuman dan pemanggilan RUPSU kepada pemegang sukuk yang sebelumnya sudah dimuat di surat kabar Harian Terbit pada 12 dan 26 Agustus 2026 turut dibatalkan. Dokumen tidak mencantumkan alasan pembatalan, kolom alasan hanya diisi tanda strip, dan tidak ada tanggal pengganti untuk RUPSU Tahap I ini.",
+   "Pembatalan ini menyusul rangkaian panggilan RUPSU WIKA untuk berbagai tahap sukuknya sepanjang Agustus 2026, yang meminta penundaan pembayaran bagi hasil sekaligus perubahan jatuh tempo pokok. Pada hari yang sama, perseroan juga membatalkan RUPSU untuk Sukuk Tahap II namun sekaligus menjadwalkan ulang ke 17 September 2026, sedangkan RUPSU Tahap I ini dibatalkan tanpa kepastian jadwal baru."
+  ],
+  "fotoAdegan": "Idle construction cranes and stacked steel beams at a quiet building site under an overcast sky",
+  "takeaway": "Pembatalan ini condong negatif bagi WIKA, karena forum yang seharusnya memutuskan nasib permintaan penundaan jatuh tempo pokok Sukuk Tahap I malah batal digelar dan tidak diberi jadwal pengganti, berbeda dari Sukuk Tahap II yang setidaknya sudah dijadwalkan ulang ke 17 September 2026. Yang tersentuh di sini adalah kepastian arus kas, yaitu aliran uang masuk dan keluar perseroan, karena pemegang sukuk, yaitu investor yang meminjamkan dana lewat surat utang berbasis bagi hasil syariah, masih menunggu keputusan soal kapan dan bagaimana pokok utang ini akan dibayar, sementara ekuitas WIKA sudah tercatat negatif menurut laporan keuangan semester pertama tahun ini. Yang perlu dipantau berikutnya adalah apakah WIKA dan PT Bank Mega Tbk selaku wali amanat akan segera mengumumkan tanggal RUPSU pengganti untuk Tahap I, mengingat ketidakpastian soal pembayaran pokok sukuk ini belum juga menemukan titik terang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "adhi-realisasikan-86-dana-rights-issue-untuk-proyek-tol",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Realisasikan 86% Dana Rights Issue untuk [Proyek Tol]",
+  "deck": "Realisasi penggunaan dana rights issue 2022 ADHI capai Rp2,27 triliun per Juni 2026, sisa Rp378,69 miliar ditargetkan tuntas Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:23:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76b4f6b432_18d848b8e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "rights issue",
+   "penggunaan dana",
+   "jalan tol"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum terbatas II (rights issue) tahun 2022 kepada Otoritas Jasa Keuangan, untuk periode sampai dengan 30 Juni 2026. Laporan ditandatangani Corporate Secretary Siswanto dan diserahkan 1 September 2026. Dari total dana yang terkumpul Rp2,67 triliun, setelah dipotong biaya penawaran umum Rp14,22 miliar sehingga hasil bersihnya Rp2,65 triliun, ADHI sudah merealisasikan Rp2,27 triliun atau 86 persen. Sisanya, Rp378,69 miliar atau 14 persen, menurut jadwal perseroan akan habis terpakai paling lambat 18 Desember 2026.",
+   "Dana yang sudah dicairkan itu terbagi ke empat pos. Setoran modal ke PT Jasamarga Jogja Solo untuk pembiayaan Tol Solo-Yogyakarta-YIA Kulon Progo mendapat porsi terbesar, Rp1,68 triliun atau 74 persen dari total realisasi. Menyusul setoran ke PT Jasamarga Jogja Bawen untuk Tol Yogyakarta-Bawen sebesar Rp532,19 miliar (23 persen), ke PT Jalintim Adhi Abipraya Rp54,32 miliar (2 persen), dan untuk investasi di bidang pengolahan limbah serta jalan tol Rp2,69 miliar (1 persen). Alokasi ini mengikuti rencana awal di prospektus, yang menetapkan porsi masing-masing 76 persen, 20 persen, 3 persen, dan 2 persen dari total dana Rp2,65 triliun.",
+   "Sisa dana yang belum terpakai ditempatkan sebagai giro on demand di empat bank yang seluruhnya bukan pihak afiliasi ADHI: Bank BNI Rp13,11 miliar dengan bunga 2 persen per tahun, Bank BRI Rp211,37 miliar dengan bunga 4 persen, Bank Mandiri Rp106,95 miliar dengan bunga 4 persen, dan Bank BTN Rp59,29 miliar dengan bunga 1 persen."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting concrete pillars of an elevated toll road under construction in Java, cranes overhead, midday light",
+  "takeaway": "Laporan ini netral bagi ADHI karena isinya menegaskan penggunaan dana rights issue 2022 berjalan sesuai rencana yang sudah diumumkan sejak awal, tanpa realokasi atau penyimpangan berarti dari porsi di prospektus. Yang tersentuh adalah pos investasi pada entitas asosiasi dan arus kas perseroan, setoran modal ke tiga anak usaha jalan tol tercatat menambah penyertaan saham ADHI di proyek-proyek tersebut, sementara kas hasil rights issue terus berkurang seiring pencairan dana ke proyek. Konteksnya perlu dibaca berdampingan dengan laporan ADHI pekan ini soal penundaan pembayaran kupon obligasi, yang menunjukkan tekanan arus kas perseroan justru datang dari sisi utang, bukan dari penyaluran dana rights issue yang tercatat berjalan lancar. Yang perlu dipantau selanjutnya adalah realisasi sisa dana Rp378,69 miliar untuk setoran modal investasi pengolahan limbah dan jalan tol, yang menurut jadwal perseroan harus tuntas paling lambat 18 Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
   "category": "Energi",
   "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",

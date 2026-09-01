@@ -1,7 +1,7 @@
 // Angka indikator ekonomi dari WebAPI BPS (webapi.bps.go.id).
 // Ditarik otomatis oleh scripts/bps-artikel.mjs - jangan diedit manual.
 var BPS = {
- "diperbarui": "2026-09-01T01:54:26.680Z",
+ "diperbarui": "2026-09-01T08:53:26.738Z",
  "indikator": {
   "inflasi": {
    "nama": "Inflasi bulanan",
@@ -199,6 +199,12 @@ var BPS = {
      "periode": "Juli",
      "urut": 7,
      "nilai": -0.14
+    },
+    {
+     "tahun": 2026,
+     "periode": "Agustus",
+     "urut": 8,
+     "nilai": 0.21
     }
    ]
   },
@@ -465,6 +471,12 @@ var BPS = {
      "periode": "Juni",
      "urut": 6,
      "nilai": 25458.7
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 26216.7
     }
    ]
   },
@@ -658,6 +670,12 @@ var BPS = {
      "periode": "Juni",
      "urut": 6,
      "nilai": 25909.2
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 26094.8
     }
    ]
   },
@@ -851,6 +869,12 @@ var BPS = {
      "periode": "Juni",
      "urut": 6,
      "nilai": -450.5
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 121.9
     }
    ]
   },
@@ -1130,6 +1154,12 @@ var BPS = {
      "periode": "Juni",
      "urut": 6,
      "nilai": 1386575
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 1525037
     }
    ]
   },
@@ -1516,6 +1546,12 @@ var BPS = {
      "periode": "Juni",
      "urut": 6,
      "nilai": 49541
+    },
+    {
+     "tahun": 2026,
+     "periode": "Juli",
+     "urut": 7,
+     "nilai": 52123
     }
    ]
   }

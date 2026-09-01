@@ -3,6 +3,429 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
+  "category": "Bisnis",
+  "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
+  "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:55:59.053Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "bps",
+   "kereta api",
+   "transportasi",
+   "penumpang"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) melaporkan jumlah penumpang kereta api pada Juli 2026 mencapai 52,12 juta orang. Angka ini menunjukkan berapa banyak orang yang naik kereta api dalam sebulan terakhir di seluruh Indonesia.",
+   "Dibanding Juni 2026 yang tercatat 49,54 juta orang, jumlah penumpang naik 2,58 juta orang atau 5,21%. Jika dibandingkan dengan Juli 2025 yang sebesar 50,11 juta orang, kenaikannya mencapai 2,02 juta orang atau 4,03%.",
+   "Melihat data enam bulan terakhir, jumlah penumpang kereta api sempat turun dari 48,28 juta orang pada April 2026 menjadi 46,96 juta orang pada Mei 2026. Setelah itu, angkanya naik dua bulan berturut-turut, dari 49,54 juta orang pada Juni menjadi 52,12 juta orang pada Juli 2026.",
+   "Dengan demikian, angka Juli 2026 menjadi yang tertinggi dalam rentang Februari hingga Juli 2026, mengungguli titik terendah pada Februari 2026 yang sebesar 43,27 juta orang."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan jumlah penumpang kereta api ini menggambarkan makin banyak orang yang bepergian menggunakan moda transportasi ini dibanding bulan sebelumnya maupun periode sama tahun lalu.",
+  "bpsIndikator": "kereta"
+ },
+ {
+  "slug": "turis-asing-juli-1-53-juta-naik-4-bulan-beruntun",
+  "category": "Bisnis",
+  "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
+  "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
+  "image": "assets/img/warung-makan.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:55:46.858Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "bps",
+   "wisatawan",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) merilis data kunjungan wisatawan mancanegara (wisman) periode Juli 2026 yang tercatat sebesar 1,53 juta orang. Angka ini menunjukkan jumlah kedatangan turis asing ke Indonesia sepanjang bulan tersebut.",
+   "Dibanding Juni 2026 yang tercatat 1,39 juta orang, jumlah wisman Juli 2026 naik 138.462 orang atau setara 9,99%. Kenaikan ini menjadi yang tertinggi dalam beberapa bulan terakhir.",
+   "Jika dibandingkan dengan periode yang sama tahun lalu, Juli 2025 yang mencatat 1,48 juta orang, kunjungan wisman Juli 2026 naik 43.691 orang atau 2,95%.",
+   "Melihat data enam bulan terakhir, kunjungan wisman sempat turun dari 1,16 juta orang pada Februari 2026 menjadi 1,09 juta orang pada Maret 2026. Setelah itu, angkanya terus naik empat bulan berturut-turut yakni April (1,25 juta), Mei (1,38 juta), Juni (1,39 juta), hingga Juli 2026 yang mencapai 1,53 juta orang."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Angka ini menggambarkan seberapa banyak turis asing yang masuk ke Indonesia pada suatu bulan, indikator yang biasa dipakai untuk melihat aktivitas sektor pariwisata seperti hotel, restoran, dan transportasi.",
+  "bpsIndikator": "wisman"
+ },
+ {
+  "slug": "neraca-dagang-juli-surplus-tipis-0-12-miliar-dolar",
+  "category": "Perdagangan",
+  "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
+  "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
+  "image": "assets/img/pasar-modal.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:55:18.059Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "neraca-dagang",
+   "bps",
+   "ekspor-impor",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat neraca perdagangan Indonesia pada Juli 2026 surplus 0,12 miliar dolar AS. Neraca perdagangan adalah selisih antara nilai ekspor dan impor barang ke luar negeri, di mana angka positif berarti nilai barang yang dijual ke luar negeri lebih besar dibanding yang dibeli dari luar negeri.",
+   "Surplus ini naik dibanding Juni 2026 yang justru mengalami defisit 0,45 miliar dolar AS. Kenaikan sebesar 0,57 miliar dolar AS atau 127,06% ini membuat neraca perdagangan kembali ke posisi surplus setelah dua bulan berturut-turut berada di zona negatif.",
+   "Meski demikian, surplus Juli 2026 ini jauh lebih kecil dibanding periode sama tahun lalu. Pada Juli 2025, neraca perdagangan tercatat surplus 4,18 miliar dolar AS, sehingga capaian tahun ini turun 4,06 miliar dolar AS atau 97,08%.",
+   "Dalam enam bulan terakhir, neraca perdagangan Indonesia berfluktuasi tajam. Setelah sempat mencapai 3,32 miliar dolar AS pada Maret 2026, surplus terus menyusut hingga berbalik menjadi defisit 1,61 miliar dolar AS pada Mei dan 0,45 miliar dolar AS pada Juni, sebelum kembali tipis ke angka positif pada Juli."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Surplus yang menipis drastis dibanding tahun lalu menandakan kinerja perdagangan luar negeri Indonesia sedang melemah, meski belum sampai kembali defisit besar.",
+  "bpsIndikator": "neraca"
+ },
+ {
+  "slug": "impor-ri-juli-2026-tembus-us-26-1-m-naik-27",
+  "category": "Perdagangan",
+  "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
+  "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
+  "image": "assets/img/moneter-bi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:54:49.314Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "impor",
+   "bps",
+   "neraca dagang",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) merilis data nilai impor Indonesia periode Juli 2026 sebesar 26,1 miliar dolar AS. Angka ini naik 0,19 miliar dolar AS atau 0,72% dibanding Juni 2026 yang tercatat 25,9 miliar dolar AS.",
+   "Jika dibandingkan dengan Juli 2025 yang senilai 20,5 miliar dolar AS, nilai impor Juli 2026 naik jauh lebih besar, yaitu 5,55 miliar dolar AS atau 27,02%. Nilai impor sendiri menggambarkan total nilai barang yang dibeli Indonesia dari luar negeri dalam satu bulan.",
+   "Data enam bulan terakhir menunjukkan pergerakan yang naik turun. Setelah berada di 20,9 miliar dolar AS pada Februari 2026, nilai impor sempat turun ke 19,2 miliar dolar AS pada Maret, lalu melonjak ke 25,2 miliar dolar AS pada April.",
+   "Nilai impor kemudian turun tipis ke 24,8 miliar dolar AS pada Mei, sebelum kembali naik dua bulan berturut-turut menjadi 25,9 miliar dolar AS pada Juni dan 26,1 miliar dolar AS pada Juli 2026, yang merupakan level tertinggi dalam enam bulan terakhir."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan angka ini berarti nilai barang yang masuk dari luar negeri ke Indonesia pada Juli 2026 lebih besar dibanding bulan sebelumnya maupun periode yang sama tahun lalu.",
+  "bpsIndikator": "impor"
+ },
+ {
+  "slug": "ekspor-ri-juli-2026-naik-jadi-us-26-2-m",
+  "category": "Perdagangan",
+  "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
+  "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
+  "image": "assets/img/industri-tekstil.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:54:17.834Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "ekspor",
+   "bps",
+   "perdagangan"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) melaporkan nilai ekspor Indonesia pada Juli 2026 mencapai 26,2 miliar dolar AS. Angka ini menggambarkan total nilai barang yang dijual Indonesia ke luar negeri sepanjang bulan tersebut.",
+   "Dibanding Juni 2026 yang sebesar 25,5 miliar dolar AS, nilai ekspor Juli naik 0,76 miliar dolar AS atau 2,98 persen. Jika dibandingkan dengan Juli 2025 yang tercatat 24,7 miliar dolar AS, kenaikannya lebih besar lagi yaitu 1,49 miliar dolar AS atau 6,05 persen.",
+   "Data enam bulan terakhir menunjukkan pergerakan naik turun sebelum akhirnya mencapai titik tertinggi di Juli 2026. Nilai ekspor sempat turun dari 25,3 miliar dolar AS pada April menjadi 23,2 miliar dolar AS pada Mei, sebelum kembali naik dua bulan berturut-turut pada Juni dan Juli.",
+   "Dengan capaian 26,2 miliar dolar AS, nilai ekspor Juli 2026 menjadi yang tertinggi dalam enam bulan terakhir, melampaui angka Februari sebesar 22,2 miliar dolar AS dan Maret sebesar 22,5 miliar dolar AS."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan nilai ekspor ini menunjukkan permintaan barang dari Indonesia ke luar negeri sedang menguat dibanding bulan-bulan sebelumnya.",
+  "bpsIndikator": "ekspor"
+ },
+ {
+  "slug": "bps-inflasi-agustus-2026-0-21-naik-dari-deflasi-juli",
+  "category": "Makroekonomi",
+  "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
+  "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:54:04.592Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "inflasi",
+   "bps",
+   "harga konsumen",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat inflasi bulanan pada Agustus 2026 sebesar 0,21%. Angka ini menunjukkan harga barang dan jasa yang dipantau BPS secara rata-rata naik 0,21% dibanding bulan sebelumnya. Inflasi bulanan menjadi acuan untuk melihat pergerakan harga dalam jangka pendek, termasuk kebutuhan sehari-hari.",
+   "Realisasi Agustus ini naik dibanding Juli 2026 yang justru mencatat deflasi 0,14%, atau kenaikan 0,35 poin dari bulan sebelumnya. Dengan begitu, harga kembali berada di zona inflasi setelah sempat turun pada Juli.",
+   "Dibanding periode yang sama tahun lalu, inflasi Agustus 2026 juga lebih tinggi. Pada Agustus 2025, BPS mencatat deflasi 0,08%, sehingga terjadi kenaikan 0,29 poin untuk periode Agustus secara tahunan.",
+   "Dalam enam bulan terakhir, angka inflasi bulanan berfluktuasi tanpa arah yang konsisten. Setelah 0,41% pada Maret, angka melandai ke 0,13% pada April, lalu naik lagi ke 0,28% pada Mei dan 0,44% pada Juni. Juli menjadi satu-satunya bulan dengan deflasi, yaitu 0,14%, sebelum kembali positif 0,21% pada Agustus."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan harga 0,21% ini berarti biaya belanja bulanan sedikit lebih mahal dibanding Juli, meski masih lebih rendah dibanding kenaikan pada Maret hingga Juni.",
+  "bpsIndikator": "inflasi"
+ },
+ {
+  "slug": "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI Juli Menipis, [Migas] Jadi Beban Utama",
+  "deck": "BPS mencatat surplus neraca dagang Juli 2026 hanya US$0,12 miliar, setelah defisit migas menggerus sebagian besar surplus nonmigas.",
+  "image": "assets/img/surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T15:09:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464129-neraca-dagang-ri-surplus-us370-miliar-tapi-defisit-dengan-china-tembus-us1695-miliar",
+  "tags": [
+   "neraca perdagangan",
+   "BPS",
+   "surplus",
+   "migas"
+  ],
+  "body": [
+   "Neraca perdagangan barang Indonesia pada Juli 2026 masih mencatat surplus, tetapi angkanya menipis drastis menjadi hanya US$0,12 miliar. Badan Pusat Statistik (BPS) menyebut penyusutan ini terjadi karena defisit di sektor minyak dan gas (migas) hampir menghabiskan surplus dari perdagangan nonmigas. Kondisi ini penting bagi pembaca karena menunjukkan kinerja ekspor-impor Indonesia makin rentan terhadap gejolak harga dan volume minyak dunia.",
+   "Deputi Bidang Statistik Distribusi dan Jasa BPS Ateng Hartono menjelaskan, surplus nonmigas Juli 2026 mencapai US$3,10 miliar, ditopang ekspor lemak dan minyak hewani nabati atau kelapa sawit (HS 15), bahan bakar mineral seperti batu bara (HS 27), serta besi dan baja (HS 72). Namun surplus itu langsung tergerus defisit migas sebesar US$2,98 miliar, yang menurut Ateng terutama berasal dari impor hasil minyak dan minyak mentah.",
+   "Secara kumulatif Januari-Juli 2026, neraca dagang Indonesia masih surplus US$3,70 miliar. Namun di baliknya, surplus nonmigas yang mencapai US$22,45 miliar harus menanggung defisit migas sebesar US$18,75 miliar, sehingga sebagian besar keuntungan dari ekspor komoditas nonmigas habis untuk menutup biaya impor energi."
+  ],
+  "fotoAdegan": "Container cranes loading cargo ship at a busy Indonesian seaport, stacked shipping containers in foreground, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a9675e0f0e5f-deputi-bidang-statistik-distribusi-dan-jasa-bps-ateng-hartono_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma angka surplus yang menipis, tapi komposisinya: pada Juli 2026 defisit migas US$2,98 miliar nyaris menghabiskan surplus nonmigas US$3,10 miliar, hingga total surplus tersisa tipis di US$0,12 miliar. Pola yang sama terlihat lebih jelas secara kumulatif, karena dari Januari sampai Juli defisit migas US$18,75 miliar sudah memakan sekitar 84 persen dari surplus nonmigas US$22,45 miliar. Pihak yang paling terdampak adalah eksportir sawit, batu bara, dan besi baja yang selama ini menopang surplus, sementara kebutuhan impor minyak mentah dan hasil minyak terus membebani sisi lain neraca. Arahnya mengarah ke neraca dagang yang makin bergantung pada kekuatan sektor nonmigas untuk menutup lubang migas yang tampak permanen, dan hal ini akan teruji lagi saat BPS merilis data Agustus 2026 bulan depan, apakah surplus nonmigas masih cukup besar atau defisit migas justru membalik neraca ke zona negatif.",
+  "imageV": "mtifhp0f"
+ },
+ {
+  "slug": "purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027",
+  "category": "Makroekonomi",
+  "title": "Purbaya Ungkap Strategi Kejar Pertumbuhan [6 Persen] pada 2027",
+  "deck": "Pemerintah menargetkan pertumbuhan ekonomi 6 persen pada 2027 lewat sinergi kebijakan fiskal, moneter, investasi, dan peran Danantara.",
+  "image": "assets/img/purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T15:05:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464128-purbaya-ungkap-jurus-kejar-ekonomi-6-pada-2027-investasi-jadi-kunci-utama-pemerintah",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "APBN 2027",
+   "Danantara",
+   "pertumbuhan ekonomi"
+  ],
+  "body": [
+   "Pemerintah menetapkan target pertumbuhan ekonomi nasional sebesar 6 persen pada 2027, dengan investasi menjadi salah satu tumpuan utama strategi tersebut. Menteri Keuangan Purbaya Yudhi Sadewa menyampaikan hal ini dalam rapat kerja bersama Komisi XI DPR RI membahas asumsi dasar APBN 2027 di Kompleks Parlemen, Jakarta, Selasa (1/9/2026). Target ini penting karena akan menjadi salah satu dasar penyusunan anggaran negara tahun depan, termasuk besaran belanja dan arah kebijakan pemerintah.",
+   "Purbaya mengatakan pencapaian target itu membutuhkan sinergi empat unsur, yakni kebijakan fiskal pemerintah, kebijakan moneter Bank Indonesia, sektor keuangan, dan sektor swasta, termasuk lewat Danantara Indonesia selaku lembaga pengelola investasi milik negara. Ia menegaskan kebijakan fiskal akan diarahkan menjadi pendorong pertumbuhan tanpa mengorbankan kesehatan anggaran yang menurutnya saat ini masih terjaga. Belanja dalam APBN 2027 juga dirancang tidak sekadar memenuhi kebutuhan dasar masyarakat, tetapi juga berfungsi sebagai stimulus bagi aktivitas ekonomi.",
+   "Pemerintah berencana mendorong pelaku usaha swasta mengambil peran lebih besar dalam mempercepat pertumbuhan ekonomi, dengan harapan belanja negara dapat memicu partisipasi swasta yang lebih luas. Di sisi moneter, Purbaya menyatakan kebijakan pemerintah akan diselaraskan dengan langkah Bank Indonesia dalam menjaga stabilitas sekaligus mendorong pertumbuhan, sambil tetap menghormati independensi bank sentral dalam mengambil keputusan."
+  ],
+  "fotoAdegan": "Construction workers assembling steel framework at a large infrastructure project site, cranes overhead, hazy afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a848b02a70ee-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah penegasan resmi bahwa target pertumbuhan 6 persen pada 2027 dijadikan bagian dari asumsi dasar penyusunan APBN 2027, disampaikan langsung oleh Menteri Keuangan dalam rapat bersama Komisi XI DPR RI. Yang terdampak adalah proses penyusunan anggaran negara tahun depan, karena target ini akan memengaruhi seberapa besar belanja dan defisit yang dianggap wajar, serta pelaku usaha swasta dan Danantara Indonesia yang diminta mengambil peran lebih besar sebagai motor investasi. Yang masih kurang dari paparan ini adalah angka konkret, seperti berapa besar belanja yang direncanakan, target defisit, atau porsi investasi yang diharapkan dari Danantara dan swasta, sehingga belum bisa dibaca apakah target 6 persen ini realistis dibanding capaian pertumbuhan tahun-tahun sebelumnya. Yang perlu ditunggu adalah rincian asumsi makro APBN 2027 yang biasanya diumumkan menyusul pembahasan awal ini, termasuk target belanja, defisit, dan proyeksi pertumbuhan tahunan menuju 2027.",
+  "imageV": "mtifhpmw"
+ },
+ {
+  "slug": "plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit",
+  "category": "Energi",
+  "title": "PLTS PLN Ganti Diesel, Listrik [24 Jam] di Pulau Rengit",
+  "deck": "PLN mengganti pembangkit diesel dengan PLTS 78 kWp di Pulau Rengit, Belitung, memberi listrik 24 jam kepada 44 keluarga di bawah program surya nasional.",
+  "image": "assets/img/plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T15:02:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464126-plts-pln-bawa-harapan-baru-ke-pulau-rengit-belitung",
+  "tags": [
+   "PLN",
+   "PLTS",
+   "Belitung",
+   "Energi Terbarukan"
+  ],
+  "body": [
+   "PT PLN (Persero) mengganti pembangkit listrik tenaga diesel di Pulau Rengit, Kabupaten Belitung, dengan pembangkit listrik tenaga surya berkapasitas 78 kilowatt peak. Hasilnya, 44 keluarga atau sekitar 200 jiwa di pulau kecil itu kini menikmati listrik selama 24 jam penuh, setelah sebelumnya hanya mendapat pasokan listrik dari mesin diesel sekitar 12 jam sehari.",
+   "Proyek ini merupakan bagian dari Program PLTS 100 gigawatt peak yang diluncurkan Presiden Prabowo Subianto pada Selasa, 25 Agustus 2026. Program tersebut mencakup 14 proyek pembangkit surya tahap awal dengan total kapasitas 5.300 megawatt peak yang tersebar di berbagai wilayah Indonesia, dan Pulau Rengit menjadi salah satu lokasi yang lebih dulu merasakan manfaatnya.",
+   "Bagi warga, listrik yang menyala sepanjang hari membuka peluang usaha baru. Hendra, nelayan kepiting rajungan, kini bisa membeli freezer untuk mengawetkan hasil tangkapannya, berbeda dari sebelumnya ketika ia harus segera membawa rajungan ke Tanjung Pandan begitu listrik padam. Itam Ali, pembuat kapal kayu, mengaku bisa memakai peralatan listriknya di siang hari sehingga pekerjaannya lebih produktif, sementara warga lain, Sofyan, turut merasakan kenyamanan dari listrik yang tidak lagi terputus."
+  ],
+  "fotoAdegan": "Rows of solar panels installed on a small tropical island near a fishing village, wooden boats docked at the shoreline in soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96822728646-petugas-pln-memantau-kinerja-plts-dan-battery-energy-storage-system-bess-di-pulau-rengit-kabupaten-belitung-kepulauan-bangka-belitung_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: pembangkit diesel yang dulu hanya menyala 12 jam sehari di Pulau Rengit kini diganti panel surya 78 kilowatt peak, sehingga 44 keluarga punya listrik penuh 24 jam. Proyek ini cuma satu dari 14 proyek yang mulai berjalan dalam tahap awal Program PLTS 100 gigawatt peak, sementara tahap awal itu sendiri baru mencakup 5.300 megawatt peak, atau sekitar 5 persen dari target akhirnya. Yang terdampak paling langsung adalah warga pulau-pulau kecil terpencil yang selama ini bergantung pada mesin diesel, termasuk nelayan dan pengrajin kecil yang usahanya langsung terbantu begitu listrik menyala tanpa putus, seperti nelayan rajungan yang kini bisa memakai freezer untuk mengawetkan tangkapannya. Arahnya terlihat menuju elektrifikasi bertahap pulau-pulau terpencil dengan energi surya menggantikan diesel, tapi jarak antara 5.300 megawatt peak tahap awal dan target 100 gigawatt peak menunjukkan ini baru langkah kecil dari rencana jangka panjang. Yang akan memastikan seberapa cepat arah ini berlanjut adalah progres pembangunan 13 proyek lain dalam tahap awal tersebut serta jadwal tahap berikutnya menuju target 100 gigawatt peak.",
+  "imageV": "mtifhq1q"
+ },
+ {
+  "slug": "27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81",
+  "category": "Makroekonomi",
+  "title": "27 Provinsi [Inflasi] Agustus, Babel-Maluku Tertinggi 0,81%",
+  "deck": "BPS mencatat 27 provinsi alami inflasi bulanan Agustus 2026, 11 provinsi deflasi. Bangka Belitung dan Maluku catat kenaikan harga tertinggi, masing-masing 0,81 persen.",
+  "image": "assets/img/27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T14:41:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464124-27-provinsi-dilanda-inflasi-bangka-belitung-dan-maluku-tertinggi-hingga-081-persen",
+  "tags": [
+   "inflasi",
+   "bps",
+   "deflasi",
+   "harga pangan"
+  ],
+  "body": [
+   "Badan Pusat Statistik mencatat tekanan harga pada Agustus 2026 tidak merata di seluruh Indonesia. Sebanyak 27 provinsi mengalami kenaikan harga secara bulanan, sementara 11 provinsi lainnya justru mencatat penurunan harga. Secara nasional, inflasi bulanan Agustus 2026 tercatat sebesar 0,21 persen.",
+   "Deputi Bidang Statistik Distribusi dan Jasa BPS Ateng Hartono menyebut kenaikan harga tertinggi terjadi di Kepulauan Bangka Belitung dan Maluku, yang sama-sama mencatat inflasi 0,81 persen bulan ini. Sebaliknya, penurunan harga paling dalam terjadi di Papua Pegunungan, dengan deflasi mencapai 1,27 persen.",
+   "Dari sisi komponen, kenaikan harga nasional bulan ini terutama didorong oleh kelompok harga bergejolak, yaitu bahan pangan dan barang yang harganya gampang naik turun mengikuti musim dan pasokan. Komponen ini naik 0,88 persen pada Agustus dan menyumbang 0,15 poin persentase terhadap inflasi nasional 0,21 persen, porsi terbesar dibanding komponen lain. Ateng mengatakan komponen inti turut mengalami inflasi, sementara komponen harga yang diatur pemerintah, seperti tarif dan harga yang ditetapkan negara, justru mengalami deflasi."
+  ],
+  "fotoAdegan": "Vendors arranging fresh vegetables and fish at a bustling traditional market stall in a coastal town, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/03/69cf63ba74211-ilustrasi-inflasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka yang patut digarisbawahi adalah kontribusi komponen bergejolak, yaitu harga pangan dan barang yang gampang naik turun, terhadap inflasi Agustus. Dari total kenaikan harga 0,21 persen, 0,15 poin di antaranya datang dari komponen ini saja, sementara harga yang diatur pemerintah seperti tarif publik justru turun. Ini berarti tekanan harga bulan ini lebih banyak dipicu gejolak pasokan pangan ketimbang kebijakan harga negara, dan dampaknya paling terasa di Kepulauan Bangka Belitung serta Maluku yang mencatat kenaikan tertinggi, sementara warga Papua Pegunungan menghadapi penurunan harga tajam yang bisa menandakan lemahnya permintaan atau menumpuknya pasokan di sana. Data BPS kali ini baru potret satu bulan tanpa pembanding tren bulan-bulan sebelumnya, jadi belum bisa dipastikan apakah lonjakan harga pangan di provinsi-provinsi tertinggi itu sementara atau berlanjut. Yang perlu ditunggu adalah rilis inflasi BPS bulan September 2026, terutama apakah komponen bergejolak di Bangka Belitung dan Maluku mereda atau justru terus naik.",
+  "imageV": "mtifhqgs"
+ },
+ {
+  "slug": "bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800",
+  "category": "Makroekonomi",
+  "title": "BI Ramal Ekonomi RI [Tumbuh] 6% di 2027, Rupiah Rp17.300-17.800",
+  "deck": "BI memproyeksikan ekonomi Indonesia tumbuh 5,2-6 persen pada 2027, naik dari 4,9-5,7 persen tahun ini, dengan rupiah di kisaran Rp17.300-Rp17.800 per dolar AS.",
+  "image": "assets/img/bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T14:35:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464122-bi-ramal-ekonomi-ri-bisa-tumbuh-6-pada-2027-rupiah-dipatok-rp17300-rp17800-per-dolar-as",
+  "tags": [
+   "Bank Indonesia",
+   "Pertumbuhan Ekonomi",
+   "Rupiah",
+   "2027"
+  ],
+  "body": [
+   "Bank Indonesia memperkirakan perekonomian nasional mampu tumbuh lebih tinggi pada 2027 dibandingkan tahun ini, meski ketidakpastian ekonomi global masih membayangi. Proyeksi ini disampaikan Pejabat Sementara Gubernur BI Destry Damayanti dalam rapat kerja bersama Komisi XI DPR RI di Jakarta, Selasa (1/9/2026). Bagi pelaku usaha dan pemerintah, sinyal ini menjadi salah satu acuan awal dalam menyusun rencana bisnis dan asumsi makro anggaran negara untuk tahun-tahun mendatang.",
+   "BI memproyeksikan ekonomi Indonesia tumbuh di kisaran 5,2 hingga 6 persen pada 2027, naik dari perkiraan 4,9 hingga 5,7 persen pada 2026. Inflasi diperkirakan terjaga di rentang 1,5 hingga 3,5 persen, sementara nilai tukar rupiah diproyeksikan berada di kisaran Rp17.300 hingga Rp17.800 per dolar AS sepanjang 2027.",
+   "Di sisi lain, Destry menyoroti ekonomi global yang masih lemah, dengan pertumbuhan dunia pada 2026 diperkirakan hanya 3 persen. Perlambatan terjadi baik di negara berkembang, yang turun ke 3,9 persen, maupun negara maju yang hanya tumbuh 1,7 persen. Salah satu pemicunya adalah memanasnya kembali ketegangan Amerika Serikat dan Iran pada awal Juli 2026, yang mengancam kelangsungan interim deal atau kesepakatan sementara yang dicapai kedua negara pada pertengahan Juni 2026."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's business district skyline with office towers and busy street traffic below, early morning haze",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/20/6a867cbae9920-ilustrasi-bank-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah proyeksi resmi BI untuk 2027: pertumbuhan ekonomi dipatok naik ke kisaran 5,2-6 persen dari perkiraan 4,9-5,7 persen tahun ini, sementara kurs rupiah diperkirakan berada di rentang Rp17.300-17.800 per dolar AS sepanjang tahun itu. Yang terdampak adalah pelaku usaha dan pemerintah yang memakai angka ini sebagai patokan menyusun rencana bisnis dan asumsi anggaran negara, karena rentang kurs itu jadi dasar hitung biaya barang impor dan pembayaran utang luar negeri. Optimisme kenaikan pertumbuhan domestik ini muncul justru ketika BI sendiri mengakui ekonomi dunia melemah ke 3 persen pada 2026 akibat memanasnya kembali ketegangan Amerika Serikat dan Iran, sehingga proyeksi 2027 ini bertumpu pada asumsi bahwa tekanan global tersebut mereda, bukan berlanjut. Yang akan menguji apakah proyeksi ini bertahan adalah asumsi makro RAPBN 2027 yang akan dibahas pemerintah bersama DPR dalam beberapa bulan ke depan, serta data realisasi pertumbuhan ekonomi kuartalan sepanjang 2026 sebagai basis perbandingannya.",
+  "imageV": "mtifhqwa"
+ },
+ {
+  "slug": "impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri",
+  "category": "Makroekonomi",
+  "title": "Impor Mesin dan Elektronik [Naik], Kuasai 37,88% Nonmigas RI",
+  "deck": "BPS mencatat impor mesin, peralatan elektrik, dan plastik menyumbang 37,88 persen dari total impor nonmigas RI sepanjang Januari-Juli 2026.",
+  "image": "assets/img/impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T14:30:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464120-impor-mesin-dan-elektronik-melonjak-tembus-3788-persen-dari-total-impor-nonmigas-ri",
+  "tags": [
+   "impor",
+   "BPS",
+   "nonmigas",
+   "manufaktur"
+  ],
+  "body": [
+   "Badan Pusat Statistik melaporkan bahwa impor nonmigas Indonesia sepanjang Januari hingga Juli 2026 didominasi oleh tiga kelompok komoditas industri, yaitu mesin dan peralatan mekanik, mesin dan perlengkapan elektrik, serta plastik dan barang dari plastik. Ketiganya bersama-sama menyumbang 37,88 persen dari total impor nonmigas, yakni impor barang di luar minyak dan gas bumi. Angka ini penting karena menunjukkan seberapa besar industri dalam negeri masih bergantung pada mesin dan bahan baku dari luar negeri untuk terus berproduksi.",
+   "Deputi Bidang Statistik Distribusi dan Jasa BPS Ateng Hartono menjelaskan, kenaikan impor ketiga komoditas itu terjadi baik dari sisi nilai, yaitu jumlah uang yang dibayarkan, maupun volume, yaitu jumlah fisik barang yang masuk, dibandingkan periode yang sama tahun sebelumnya. Artinya lonjakan ini bukan sekadar akibat harga barang impor yang naik, melainkan memang lebih banyak unit barang yang benar-benar masuk ke Indonesia.",
+   "Mesin dan peralatan mekanik mencatat kenaikan nilai impor 16,31 persen dengan volume tumbuh 9,02 persen. Mesin dan perlengkapan elektrik naik lebih tajam, nilainya melonjak 22,38 persen sementara volumenya melompat 51,16 persen, jauh di atas kenaikan nilainya. Plastik dan barang dari plastik mencatat kenaikan nilai 21,10 persen dengan volume tumbuh 14,99 persen."
+  ],
+  "fotoAdegan": "Cargo containers and crated machinery being unloaded by crane at a busy Indonesian seaport, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a9675e0f0e5f-deputi-bidang-statistik-distribusi-dan-jasa-bps-ateng-hartono_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan cuma nilai impor, tapi juga jumlah barang yang masuk, dan itu beda arti. Pada mesin elektrik misalnya, volumenya melompat 51,16 persen jauh di atas kenaikan nilainya yang 22,38 persen, tanda harga rata-rata per unit justru turun sementara jumlah barangnya membanjir. Pola naik bareng antara nilai dan volume di ketiga komoditas ini lebih mencerminkan kebutuhan riil industri manufaktur dan elektronik dalam negeri akan mesin serta bahan baku plastik, ketimbang sekadar efek harga dunia. Pembaca yang bergantung pada rantai pasok ini, mulai dari importir mesin sampai industri pengolahan plastik, perlu memantau apakah pola ini berlanjut di data neraca dagang Agustus 2026 yang akan dirilis BPS bulan depan, karena itu yang akan menentukan apakah kenaikan ini tanda ekspansi produksi atau cuma lonjakan sesaat.",
+  "imageV": "mtifhr1c"
+ },
+ {
+  "slug": "pln-dukung-target-plts-100-gwp-untuk-swasembada-energi",
+  "category": "Energi",
+  "title": "PLN Dukung Target PLTS [100] GWp untuk Swasembada Energi",
+  "deck": "PLN menyatakan siap mengakselerasi pembangunan PLTS usai Presiden Prabowo Subianto meluncurkan program 100 gigawatt peak, dengan tahap awal 14 proyek berkapasitas 5.300 megawatt peak.",
+  "image": "assets/img/pln-dukung-target-plts-100-gwp-untuk-swasembada-energi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T14:19:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464117-dukung-plts-100-gwp-pln-siap-akselerasi-pengembangan-ebt-menuju-swasembada-energi",
+  "tags": [
+   "PLTS",
+   "energi terbarukan",
+   "PLN",
+   "swasembada energi"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto meluncurkan program pembangkit listrik tenaga surya berkapasitas total 100 gigawatt peak di Gilimanuk, Bali, pada 25 Agustus lalu. PLN menyatakan siap mendukung penuh program tersebut sebagai bagian dari upaya pemerintah mewujudkan swasembada energi dan hilirisasi nasional. Program ini menyasar pengurangan ketergantungan pada sumber energi dari luar negeri dengan mengandalkan potensi sinar matahari dalam negeri.",
+   "Pada tahap awal, program ini mencakup 14 proyek pembangkit listrik tenaga surya dengan kapasitas gabungan 5.300 megawatt peak yang tersebar di berbagai wilayah Indonesia. PLTS Gilimanuk menjadi lokasi peluncuran resmi program, sementara PLTS Pulau Rengit di Bangka Belitung sudah rampung dibangun dan mulai beroperasi. Menteri ESDM Bahlil Lahadalia mengatakan pengembangan energi surya akan memakai beragam skema, mulai dari PLTS skala besar, PLTS terapung, PLTS atap, hingga PLTS untuk kawasan industri.",
+   "\"Hari ini adalah hari yang penting, kita launching listrik dari tenaga surya 100 GW untuk bangsa Indonesia. Dengan Program PLTS 100 GW, kita akan benar-benar menjadi bangsa yang berdiri di atas kaki kita sendiri,\" kata Presiden Prabowo Subianto dalam peluncuran tersebut.",
+   "Bahlil menyebut langkah ini sebagai tindak lanjut arahan Presiden Prabowo untuk mempercepat kedaulatan energi nasional. \"Hari ini kita mengambil satu langkah besar untuk mewujudkan apa yang selalu Bapak Presiden arahkan kepada kami, yaitu swasembada dan kedaulatan energi nasional,\" ujarnya, seraya menyebut Indonesia memiliki sumber daya melimpah baik di darat maupun dari sinar matahari."
+  ],
+  "fotoAdegan": "Workers installing rows of solar panels in an open field near a coastline, tropical hills in the background, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a967a40a116a-kunjungan-presiden-prabowo-bersama-sejumlah-menteri-hingga-dirut-pln-ke-plts-gilimanuk-yang-dilengkapi-battery-energy-storage-system-bess-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebagian kecil dari target besar yang diumumkan: pemerintah mematok 100 gigawatt tenaga surya, tapi proyek yang benar-benar mulai jalan pada tahap ini cuma 14 proyek dengan kapasitas 5.300 megawatt, atau sekitar 5 persen dari target akhir. Yang terdampak langsung adalah PLN sebagai pelaksana, pengembang pembangkit surya yang akan digandeng ke depan, serta daerah lokasi proyek seperti Bali dan Bangka Belitung yang pembangkitnya sudah beroperasi. Dengan porsi awal yang masih kecil dibanding target keseluruhan, program ini kemungkinan berjalan bertahap lewat gelombang proyek susulan, bukan langsung mengejar 100 gigawatt dalam waktu dekat. Yang akan memastikan pembacaan ini adalah jadwal proyek-proyek lanjutan yang belum diumumkan rinci dalam peluncuran ini, sehingga patut ditunggu apakah pemerintah atau PLN merilis peta jalan dengan tenggat yang lebih jelas.",
+  "imageV": "mtifhrhd"
+ },
+ {
+  "slug": "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
+  "category": "Makroekonomi",
+  "title": "Impor RI Tembus US$163,33 M, Bahan Baku [Melonjak]",
+  "deck": "BPS mencatat impor Indonesia naik 19,94 persen jadi US$163,33 miliar sepanjang Januari-Juli 2026, didorong lonjakan bahan baku industri dan migas.",
+  "image": "assets/img/impor-ri-tembus-us-163-33-m-bahan-baku-melonjak.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:54:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464105-impor-indonesia-tembus-us16333-miliar-bahan-baku-jadi-primadona-utama",
+  "tags": [
+   "impor",
+   "BPS",
+   "bahan baku",
+   "migas"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat nilai impor Indonesia sepanjang Januari hingga Juli 2026 mencapai US$163,33 miliar, naik 19,94 persen dibandingkan periode yang sama tahun sebelumnya. Kenaikan ini penting dicermati karena impor yang deras bisa menekan neraca perdagangan jika tidak diimbangi kenaikan ekspor setara, sekaligus jadi penanda seberapa besar industri dalam negeri masih bergantung pada pasokan dari luar negeri.",
+   "Deputi Bidang Statistik Distribusi dan Jasa BPS, Ateng Hartono, menjelaskan bahwa kenaikan terjadi di semua golongan penggunaan barang impor. Impor migas tercatat US$25,77 miliar, melonjak 40,24 persen, sementara impor nonmigas mencapai US$137,56 miliar atau tumbuh 16,78 persen. Bahan baku dan barang penolong menjadi penyumbang terbesar kenaikan impor secara keseluruhan, dengan nilai US$116,70 miliar atau naik 20,42 persen, dan menyumbang 14,53 persen dari total peningkatan impor.",
+   "Menurut Ateng, kenaikan impor bahan baku dan penolong terutama berasal dari tiga kelompok komoditas, yaitu bahan bakar mineral, mesin dan perlengkapan elektrik beserta bagiannya, serta garam, belerang, batu, dan semen. Ketiganya menjadi input yang banyak dibutuhkan sektor energi, elektronik, dan konstruksi dalam negeri.",
+   "Data ini disampaikan Ateng dalam konferensi pers BPS pada Selasa, 1 September 2026. BPS belum merinci dalam paparan ini bagaimana posisi ekspor pada periode yang sama, sehingga dampak lonjakan impor terhadap neraca perdagangan Indonesia secara keseluruhan belum bisa disimpulkan dari data ini saja."
+  ],
+  "fotoAdegan": "Cargo cranes unloading shipping containers and bulk raw materials at a busy Indonesian seaport, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/02/16/65cef28ad15a8-ilustrasi-impor_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah komposisi impor: bahan baku dan penolong naik 20,42 persen jadi US$116,70 miliar dan jadi penyumbang terbesar kenaikan impor, sementara impor migas melonjak paling tajam, 40,24 persen. Pelaku industri dalam negeri, terutama sektor energi, elektronik, dan konstruksi, yang paling terdampak karena merekalah pemakai utama tiga komoditas pendorong kenaikan itu, yaitu bahan bakar mineral, komponen elektrik, dan bahan tambang seperti garam serta semen. Angka ini bisa dibaca dua arah, bisa berarti produksi dalam negeri sedang menggeliat sehingga butuh lebih banyak bahan baku, atau justru ketergantungan impor energi yang membengkak, dan data yang dipaparkan BPS kali ini belum cukup untuk memilih salah satunya. Yang masih kurang untuk memastikan arahnya adalah angka ekspor dan neraca perdagangan Januari-Juli 2026 pada periode yang sama, yang biasanya dirilis BPS berdekatan dengan data impor ini.",
+  "imageV": "mtifhrx0"
+ },
+ {
+  "slug": "pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat",
+  "category": "UMKM",
+  "title": "Pendaftar UMK Academy Pertamina [Tembus] 4.000, Naik 2 Kali Lipat",
+  "deck": "Pendaftaran program pembinaan UMKM binaan Pertamina ditutup 31 Agustus 2026 dengan lebih dari 4.000 pelaku usaha mendaftar, hampir dua kali lipat dibanding tahun sebelumnya.",
+  "image": "assets/img/pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:52:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464104-pendaftaran-ditutup-lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "UMK Academy",
+   "TJSL"
+  ],
+  "body": [
+   "Pendaftaran Pertamina UMK Academy 2026 resmi ditutup pada 31 Agustus 2026 setelah dibuka selama sepuluh hari sejak 21 Agustus. Lebih dari 4.000 pelaku usaha mikro, kecil, dan menengah dari berbagai wilayah Indonesia mendaftarkan diri untuk mengikuti program pembinaan usaha lokal yang digelar PT Pertamina (Persero). Program ini penting bagi pelaku UMKM karena menjadi salah satu jalur nonformal untuk menambah kapasitas usaha di luar akses pembiayaan perbankan.",
+   "Jumlah pendaftar tahun ini disebut meningkat hampir dua kali lipat dibanding pelaksanaan program pada 2025, meski angka pasti pendaftar tahun lalu tidak disebutkan dalam pengumuman ini. Pertamina UMK Academy pertama kali digelar pada 2020 dan sejak itu menjadi salah satu program tanggung jawab sosial dan lingkungan (TJSL) andalan perseroan yang berfokus mengembangkan komunitas usaha lokal. Vice President Corporate Communication Pertamina, Muhammad Baron, menyebut lonjakan pendaftar mencerminkan besarnya minat pelaku UMKM untuk belajar dan meningkatkan daya saing usahanya.",
+   "Seluruh pendaftar akan melalui proses kurasi dan verifikasi administrasi sesuai persyaratan yang ditentukan sebelum ditetapkan sebagai peserta resmi. Pembinaan berjalan dua tahap, yaitu tahap regional yang berisi penguatan dasar pengelolaan bisnis sesuai sektor usaha dengan pemantauan tim akselerator dan mentor secara berkala, serta tahap nasional bagi UMK yang lolos kurasi. Pada tahap nasional, peserta mendapat pembelajaran lebih intensif melalui empat kelas yaitu Go Modern, Go Digital, Go Online, dan Go Global, ditambah dua materi khusus yaitu Go Green dan Go Aggregator."
+  ],
+  "fotoAdegan": "A small business owner arranging handmade batik textiles on a wooden shelf inside a modest home workshop, morning light through a window",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96756fdb008-lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah jumlah pendaftar program pembinaan UMKM Pertamina yang menembus 4.000 orang selama sepuluh hari masa pendaftaran, naik hampir dua kali lipat dibanding tahun sebelumnya. Yang terdampak langsung adalah pelaku usaha mikro dan kecil pendaftar, terutama yang nanti lolos verifikasi administrasi dan kurasi untuk masuk pembinaan tahap regional lalu tahap nasional. Namun pengumuman ini belum menyebut berapa kuota final peserta yang akan diterima, berapa anggaran program tahun ini, atau bagaimana hasil UMK binaan Pertamina pada periode-periode sebelumnya, misalnya berapa yang berhasil naik kelas atau menembus pasar lebih luas setelah dibina. Tanpa angka-angka itu, belum bisa disimpulkan apakah lonjakan pendaftar ini akan diikuti perluasan kapasitas program atau justru membuat seleksi masuk makin ketat karena kuota tetap terbatas. Yang perlu dipantau adalah pengumuman hasil kurasi dan jumlah peserta yang akhirnya ditetapkan lolos ke tahap nasional.",
+  "imageV": "mtifhscq"
+ },
+ {
+  "slug": "pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun",
+  "category": "Energi",
+  "title": "PLN Serap Listrik Sampah Bekasi, [223.584] MWh per Tahun",
+  "deck": "PLN teken kesepakatan menyerap listrik dari PSEL Kota Bekasi sebanyak 223.584 MWh per tahun, seiring pemerintah memangkas aturan proyek sampah jadi energi dari ratusan menjadi tiga.",
+  "image": "assets/img/pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:50:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464102-bekasi-siap-produksi-listrik-dari-sampah-pln-akan-serap-dan-salurkan-223584-mwh-per-tahun",
+  "tags": [
+   "pln",
+   "psel bekasi",
+   "sampah jadi listrik",
+   "energi"
+  ],
+  "body": [
+   "PT PLN (Persero) menegaskan komitmennya menyerap listrik dari Pengolahan Sampah menjadi Energi Listrik (PSEL) Kota Bekasi. Komitmen itu dituangkan lewat penandatanganan Perjanjian Jual Beli Tenaga Listrik, yakni kesepakatan pembelian listrik jangka panjang, serta Sponsors Agreement atau perjanjian dukungan pendanaan proyek, pada peresmian pembangunan fasilitas tersebut, Rabu (26/8) lalu. Direktur Utama PLN Darmawan Prasodjo menyatakan listrik yang dihasilkan PSEL Bekasi akan disalurkan kembali untuk memenuhi kebutuhan listrik warga di wilayah tersebut, dengan target serapan 223.584 megawatt jam per tahun.",
+   "Menteri Koordinator Bidang Pangan Zulkifli Hasan mengungkapkan bahwa pengembangan proyek pengolahan sampah menjadi listrik selama ini tersendat oleh tumpukan aturan, dengan ratusan regulasi yang tumpang tindih. Akibatnya, dalam 11 tahun terakhir baru ada dua proyek serupa yang berjalan, satu di antaranya mangkrak dan satu lagi kerap berhenti beroperasi karena rumitnya perizinan. Ia menyebut pemerintah kini telah merampingkan aturan tersebut hingga tersisa tiga regulasi saja.",
+   "Gubernur Jawa Barat Dedi Mulyadi menilai pembangunan PSEL Bekasi menjadi langkah penting mempercepat penanganan sampah di wilayahnya. Namun ia mengingatkan keberhasilannya juga bergantung pada perubahan kebiasaan warga, khususnya menghentikan kebiasaan membuang sampah sembarangan. Chief Investment Officer Danantara Indonesia Pandu Sjahrir menyebut proyek ini sebagai bagian dari kolaborasi berbagai pihak, termasuk lembaga pengelola investasi negara, dalam mempercepat penanganan sampah nasional."
+  ],
+  "fotoAdegan": "Garbage trucks unloading waste into a large pit at a modern waste-to-energy plant, crane arm lifting debris, industrial facility under overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96742e8c960-suasana-peresmian-pembangunan-pengolahan-sampah-menjadi-energi-listrik-psel-kota-bekasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma satu pabrik baru, tapi jumlah aturan yang menghambat proyek sampah jadi listrik dipangkas dari ratusan menjadi tinggal tiga. Itu penting karena selama 11 tahun terakhir baru dua proyek serupa yang jalan, dan salah satunya bahkan sering mati hidup karena rumitnya izin. Yang kena dampak langsung adalah warga Bekasi, karena listrik yang dihasilkan PSEL ini rencananya dipakai memenuhi kebutuhan listrik di wilayah mereka sendiri, sementara PLN berperan sebagai pembeli tetap sebanyak 223.584 megawatt jam listrik per tahun. Kombinasi pemangkasan aturan dan komitmen pembelian jangka panjang ini mengarah ke upaya mempercepat proyek serupa di kota-kota lain, bukan sekadar proyek tunggal di Bekasi. Yang akan memastikan arah ini benar adalah apakah tiga aturan yang tersisa itu benar-benar terbit dan apakah PSEL Bekasi mulai beroperasi sesuai target penyerapan listriknya.",
+  "imageV": "mtifhstx"
+ },
+ {
   "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
   "category": "Aksi Korporasi",
   "title": "TMPO Jelaskan Saham Melonjak, Pendapatan Turun Rugi [Menyempit]",
@@ -241,6 +664,32 @@ var ARTICLES = [
   "fotoAdegan": "Heavy excavators loading gold ore onto haul trucks at a dusty open-pit mine under bright daylight",
   "takeaway": "Laporan ini condong netral dengan nuansa campuran: lonjakan laba PSAB yang tampak besar sebagian besar berasal dari untung satu kali pelepasan anak usaha senilai US$298,6 juta, bukan perbaikan penjualan atau efisiensi operasional, sehingga tidak bisa dibaca sebagai sinyal perbaikan kinerja inti yang berkelanjutan. Yang tersentuh di sini adalah ekuitas, laba per saham, dan beban penurunan nilai aset atau impairment, yaitu pencatatan akuntansi ketika nilai suatu aset dinilai lebih rendah dari nilai bukunya; PSAB membukukan penurunan nilai gabungan sekitar US$84,6 juta pada properti pertambangan dan aset tetap, yang membuat ekuitas totalnya nyaris tidak bergerak meski ada untung besar dari pelepasan anak usaha. Di sisi positif, penurunan utang sebesar 45 persen mengurangi beban bunga dan risiko keuangan perusahaan ke depan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah penjualan dan laba kotor PSAB bisa terus tumbuh tanpa bantuan pos-pos tidak berulang seperti pada semester ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "laju-impor-ri-kalahkan-ekspor-surplus-dagang-menipis",
+  "category": "Makroekonomi",
+  "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
+  "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "ekspor-impor",
+   "neraca dagang",
+   "BPS",
+   "migas"
+  ],
+  "body": [
+   "Badan Pusat Statistik mencatat nilai ekspor Indonesia pada Juli 2026 mencapai US$26,22 miliar, naik 6,05 persen dibandingkan Juli tahun lalu. Namun kenaikan itu kalah cepat dibanding impor, yang melonjak 27,02 persen menjadi US$26,09 miliar pada bulan yang sama. Akibatnya, nilai ekspor dan impor Indonesia bulan Juli nyaris berimbang, padahal biasanya ekspor unggul cukup jauh dari impor. Ini penting karena laju impor yang jauh lebih kencang dari ekspor berpotensi menggerus surplus perdagangan yang selama ini menopang neraca ekonomi Indonesia.",
+   "Secara kumulatif Januari sampai Juli 2026, ekspor Indonesia tercatat US$167,03 miliar, naik 4,43 persen dibanding periode sama tahun lalu. Ekspor di luar minyak dan gas, yang biasa disebut nonmigas, tumbuh lebih tinggi yaitu 5,21 persen menjadi US$160,01 miliar. Di sisi impor, nilainya mencapai US$163,33 miliar sepanjang tujuh bulan pertama tahun ini, melonjak 19,94 persen, jauh di atas laju pertumbuhan ekspor. Impor nonmigas ikut naik 16,78 persen menjadi US$137,56 miliar.",
+   "Selisih antara ekspor dan impor sepanjang Januari-Juli 2026 menghasilkan surplus US$3,70 miliar. Namun angka ini jauh lebih kecil dari surplus sektor nonmigas yang sebenarnya mencapai US$22,45 miliar, karena tergerus defisit sektor minyak dan gas sebesar US$18,75 miliar. Dengan kata lain, Indonesia masih mengimpor jauh lebih banyak minyak dan gas ketimbang yang diekspor, dan defisit itulah yang memangkas sebagian besar surplus perdagangan di luar migas."
+  ],
+  "fotoAdegan": "Cargo ships and stacked shipping containers at a busy Indonesian seaport, cranes loading cargo at dusk",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bulan ini adalah kecepatan impor yang jauh melampaui ekspor, terutama pada Juli sendiri ketika impor melonjak 27,02 persen sementara ekspor cuma naik 6,05 persen. Karena itu, surplus dagang total sepanjang Januari-Juli, US$3,70 miliar, jauh lebih tipis dari surplus dagang di luar minyak dan gas yang sebenarnya mencapai US$22,45 miliar, sebab tergerus defisit minyak dan gas sebesar US$18,75 miliar. Yang paling merasakan dampaknya adalah industri nonmigas yang sebetulnya berkinerja solid, tapi kinerjanya tertutup oleh besarnya kebutuhan impor energi. Kalau pola impor tumbuh lebih cepat dari ekspor ini berlanjut, surplus dagang total berisiko terus menyempit bahkan bisa berbalik jadi defisit. Yang akan memastikan arah ini adalah data neraca dagang Agustus 2026 yang biasanya dirilis BPS awal bulan depan, terutama apakah defisit migas kembali melebar atau mulai mengecil."
  },
  {
   "slug": "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
@@ -2050,7 +2499,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",
@@ -2311,7 +2760,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "BEI Catat [7] Perusahaan Antre IPO, Mayoritas Kesehatan",
   "deck": "BEI mencatat tujuh perusahaan masih mengantre pencatatan saham hingga 28 Agustus 2026, didominasi sektor kesehatan, sementara tujuh perusahaan lain sudah resmi melantai dan menghimpun Rp2,16 triliun.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T11:25:01+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463347-bei-ungkap-7-perusahaan-antre-ipo-4-dari-sektor-kesehatan",
@@ -3846,7 +4295,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "date": "27 Agustus 2026",
   "isoDate": "2026-08-27T10:58:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz",
@@ -5149,7 +5598,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:02:51+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan",
@@ -5281,7 +5730,7 @@ var ARTICLES = [
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T09:24:32+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram",
@@ -5648,7 +6097,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

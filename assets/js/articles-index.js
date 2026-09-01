@@ -5,6 +5,271 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
+  "category": "Bisnis",
+  "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
+  "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
+  "date": "1 September 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "bps",
+   "kereta api",
+   "transportasi",
+   "penumpang"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "turis-asing-juli-1-53-juta-naik-4-bulan-beruntun",
+  "category": "Bisnis",
+  "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
+  "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
+  "date": "1 September 2026",
+  "image": "assets/img/warung-makan.jpg",
+  "tags": [
+   "bps",
+   "wisatawan",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "neraca-dagang-juli-surplus-tipis-0-12-miliar-dolar",
+  "category": "Perdagangan",
+  "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
+  "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
+  "date": "1 September 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "neraca-dagang",
+   "bps",
+   "ekspor-impor",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "impor-ri-juli-2026-tembus-us-26-1-m-naik-27",
+  "category": "Perdagangan",
+  "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
+  "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
+  "date": "1 September 2026",
+  "image": "assets/img/moneter-bi.jpg",
+  "tags": [
+   "impor",
+   "bps",
+   "neraca dagang",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ekspor-ri-juli-2026-naik-jadi-us-26-2-m",
+  "category": "Perdagangan",
+  "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
+  "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
+  "date": "1 September 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "ekspor",
+   "bps",
+   "perdagangan"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "bps-inflasi-agustus-2026-0-21-naik-dari-deflasi-juli",
+  "category": "Makroekonomi",
+  "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
+  "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
+  "date": "1 September 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "inflasi",
+   "bps",
+   "harga konsumen",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI Juli Menipis, [Migas] Jadi Beban Utama",
+  "deck": "BPS mencatat surplus neraca dagang Juli 2026 hanya US$0,12 miliar, setelah defisit migas menggerus sebagian besar surplus nonmigas.",
+  "date": "1 September 2026",
+  "image": "assets/img/surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama.jpg",
+  "imageV": "mtifhp0f",
+  "tags": [
+   "neraca perdagangan",
+   "BPS",
+   "surplus",
+   "migas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464129-neraca-dagang-ri-surplus-us370-miliar-tapi-defisit-dengan-china-tembus-us1695-miliar"
+ },
+ {
+  "slug": "purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027",
+  "category": "Makroekonomi",
+  "title": "Purbaya Ungkap Strategi Kejar Pertumbuhan [6 Persen] pada 2027",
+  "deck": "Pemerintah menargetkan pertumbuhan ekonomi 6 persen pada 2027 lewat sinergi kebijakan fiskal, moneter, investasi, dan peran Danantara.",
+  "date": "1 September 2026",
+  "image": "assets/img/purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027.jpg",
+  "imageV": "mtifhpmw",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "APBN 2027",
+   "Danantara",
+   "pertumbuhan ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464128-purbaya-ungkap-jurus-kejar-ekonomi-6-pada-2027-investasi-jadi-kunci-utama-pemerintah"
+ },
+ {
+  "slug": "plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit",
+  "category": "Energi",
+  "title": "PLTS PLN Ganti Diesel, Listrik [24 Jam] di Pulau Rengit",
+  "deck": "PLN mengganti pembangkit diesel dengan PLTS 78 kWp di Pulau Rengit, Belitung, memberi listrik 24 jam kepada 44 keluarga di bawah program surya nasional.",
+  "date": "1 September 2026",
+  "image": "assets/img/plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit.jpg",
+  "imageV": "mtifhq1q",
+  "tags": [
+   "PLN",
+   "PLTS",
+   "Belitung",
+   "Energi Terbarukan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464126-plts-pln-bawa-harapan-baru-ke-pulau-rengit-belitung"
+ },
+ {
+  "slug": "27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81",
+  "category": "Makroekonomi",
+  "title": "27 Provinsi [Inflasi] Agustus, Babel-Maluku Tertinggi 0,81%",
+  "deck": "BPS mencatat 27 provinsi alami inflasi bulanan Agustus 2026, 11 provinsi deflasi. Bangka Belitung dan Maluku catat kenaikan harga tertinggi, masing-masing 0,81 persen.",
+  "date": "1 September 2026",
+  "image": "assets/img/27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81.jpg",
+  "imageV": "mtifhqgs",
+  "tags": [
+   "inflasi",
+   "bps",
+   "deflasi",
+   "harga pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464124-27-provinsi-dilanda-inflasi-bangka-belitung-dan-maluku-tertinggi-hingga-081-persen"
+ },
+ {
+  "slug": "bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800",
+  "category": "Makroekonomi",
+  "title": "BI Ramal Ekonomi RI [Tumbuh] 6% di 2027, Rupiah Rp17.300-17.800",
+  "deck": "BI memproyeksikan ekonomi Indonesia tumbuh 5,2-6 persen pada 2027, naik dari 4,9-5,7 persen tahun ini, dengan rupiah di kisaran Rp17.300-Rp17.800 per dolar AS.",
+  "date": "1 September 2026",
+  "image": "assets/img/bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800.jpg",
+  "imageV": "mtifhqwa",
+  "tags": [
+   "Bank Indonesia",
+   "Pertumbuhan Ekonomi",
+   "Rupiah",
+   "2027"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464122-bi-ramal-ekonomi-ri-bisa-tumbuh-6-pada-2027-rupiah-dipatok-rp17300-rp17800-per-dolar-as"
+ },
+ {
+  "slug": "impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri",
+  "category": "Makroekonomi",
+  "title": "Impor Mesin dan Elektronik [Naik], Kuasai 37,88% Nonmigas RI",
+  "deck": "BPS mencatat impor mesin, peralatan elektrik, dan plastik menyumbang 37,88 persen dari total impor nonmigas RI sepanjang Januari-Juli 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri.jpg",
+  "imageV": "mtifhr1c",
+  "tags": [
+   "impor",
+   "BPS",
+   "nonmigas",
+   "manufaktur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464120-impor-mesin-dan-elektronik-melonjak-tembus-3788-persen-dari-total-impor-nonmigas-ri"
+ },
+ {
+  "slug": "pln-dukung-target-plts-100-gwp-untuk-swasembada-energi",
+  "category": "Energi",
+  "title": "PLN Dukung Target PLTS [100] GWp untuk Swasembada Energi",
+  "deck": "PLN menyatakan siap mengakselerasi pembangunan PLTS usai Presiden Prabowo Subianto meluncurkan program 100 gigawatt peak, dengan tahap awal 14 proyek berkapasitas 5.300 megawatt peak.",
+  "date": "1 September 2026",
+  "image": "assets/img/pln-dukung-target-plts-100-gwp-untuk-swasembada-energi.jpg",
+  "imageV": "mtifhrhd",
+  "tags": [
+   "PLTS",
+   "energi terbarukan",
+   "PLN",
+   "swasembada energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464117-dukung-plts-100-gwp-pln-siap-akselerasi-pengembangan-ebt-menuju-swasembada-energi"
+ },
+ {
+  "slug": "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
+  "category": "Makroekonomi",
+  "title": "Impor RI Tembus US$163,33 M, Bahan Baku [Melonjak]",
+  "deck": "BPS mencatat impor Indonesia naik 19,94 persen jadi US$163,33 miliar sepanjang Januari-Juli 2026, didorong lonjakan bahan baku industri dan migas.",
+  "date": "1 September 2026",
+  "image": "assets/img/impor-ri-tembus-us-163-33-m-bahan-baku-melonjak.jpg",
+  "imageV": "mtifhrx0",
+  "tags": [
+   "impor",
+   "BPS",
+   "bahan baku",
+   "migas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464105-impor-indonesia-tembus-us16333-miliar-bahan-baku-jadi-primadona-utama"
+ },
+ {
+  "slug": "pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat",
+  "category": "UMKM",
+  "title": "Pendaftar UMK Academy Pertamina [Tembus] 4.000, Naik 2 Kali Lipat",
+  "deck": "Pendaftaran program pembinaan UMKM binaan Pertamina ditutup 31 Agustus 2026 dengan lebih dari 4.000 pelaku usaha mendaftar, hampir dua kali lipat dibanding tahun sebelumnya.",
+  "date": "1 September 2026",
+  "image": "assets/img/pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat.jpg",
+  "imageV": "mtifhscq",
+  "tags": [
+   "Pertamina",
+   "UMKM",
+   "UMK Academy",
+   "TJSL"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464104-pendaftaran-ditutup-lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026"
+ },
+ {
+  "slug": "pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun",
+  "category": "Energi",
+  "title": "PLN Serap Listrik Sampah Bekasi, [223.584] MWh per Tahun",
+  "deck": "PLN teken kesepakatan menyerap listrik dari PSEL Kota Bekasi sebanyak 223.584 MWh per tahun, seiring pemerintah memangkas aturan proyek sampah jadi energi dari ratusan menjadi tiga.",
+  "date": "1 September 2026",
+  "image": "assets/img/pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun.jpg",
+  "imageV": "mtifhstx",
+  "tags": [
+   "pln",
+   "psel bekasi",
+   "sampah jadi listrik",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464102-bekasi-siap-produksi-listrik-dari-sampah-pln-akan-serap-dan-salurkan-223584-mwh-per-tahun"
+ },
+ {
   "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
   "category": "Aksi Korporasi",
   "title": "TMPO Jelaskan Saham Melonjak, Pendapatan Turun Rugi [Menyempit]",
@@ -150,6 +415,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/375ef73ba5_f4070dfcdb.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laju-impor-ri-kalahkan-ekspor-surplus-dagang-menipis",
+  "category": "Makroekonomi",
+  "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
+  "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
+  "date": "1 September 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "ekspor-impor",
+   "neraca dagang",
+   "BPS",
+   "migas"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
+  "sourceLabel": "Badan Pusat Statistik"
  },
  {
   "slug": "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
@@ -1278,7 +1559,7 @@ var ARTICLES = [
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "desil bansos",
    "DTSEN",
@@ -1440,7 +1721,7 @@ var ARTICLES = [
   "title": "BEI Catat [7] Perusahaan Antre IPO, Mayoritas Kesehatan",
   "deck": "BEI mencatat tujuh perusahaan masih mengantre pencatatan saham hingga 28 Agustus 2026, didominasi sektor kesehatan, sementara tujuh perusahaan lain sudah resmi melantai dan menghimpun Rp2,16 triliun.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/lantai-bursa-sepi.jpg",
   "tags": [
    "IPO",
    "BEI",
@@ -2393,7 +2674,7 @@ var ARTICLES = [
   "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
   "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
   "date": "27 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
+  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
   "tags": [
    "IHSG",
    "Selat Hormuz",
@@ -3198,7 +3479,7 @@ var ARTICLES = [
   "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
   "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "IHSG",
    "Bursa Efek Indonesia",
@@ -3278,7 +3559,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
   "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
   "date": "26 Agustus 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
+  "image": "assets/img/grafik-laptop.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -3506,7 +3787,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6239,279 +6520,6 @@ var ARTICLES = [
    "obligasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1cc960ec19_fa83590e20.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton",
-  "category": "Perbankan",
-  "title": "Presiden Prabowo Soroti Bank Emas, BRI Kelola [153] Ton",
-  "deck": "Presiden Prabowo menyoroti potensi Bank Emas Indonesia, sementara BRI Group melalui Holding Ultra Mikro sudah mengelola ekosistem emas senilai 153 ton.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/presiden-prabowo-soroti-bank-emas-bri-kelola-153-ton.jpg",
-  "imageV": "mt5v31sf",
-  "tags": [
-   "Bank Emas",
-   "BRI",
-   "Pegadaian",
-   "Holding Ultra Mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461433-presiden-prabowo-ungkap-potensi-bank-emas-bri-group-kelola-ekosistem-emas-153-ton-melalui-ekosistem-ultra-mikro"
- },
- {
-  "slug": "cash-sandra-angela-tambah-saham-hak-suara-ke-8-07",
-  "category": "Aksi Korporasi",
-  "title": "CASH: Sandra Angela [Tambah] Saham, Hak Suara ke 8,07%",
-  "deck": "Pemegang saham Sandra Angela menambah 2.987.700 saham Cashlez lewat pembelian tidak langsung, mengangkat hak suaranya dari 7,95% menjadi 8,07%.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/cash-sandra-angela-tambah-saham-hak-suara-ke-8-07.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez Worldwide Indonesia",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-6924-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru",
-  "category": "Perbankan",
-  "title": "Direktur Pegadaian Jadi Ketua Umum [IBMA], Asosiasi Emas Baru",
-  "deck": "Indonesia Bullion Market Association resmi terbentuk untuk menyatukan pelaku industri emas nasional, dipimpin Direktur Pegadaian Selfie Dewiyanti sebagai ketua umum pertama.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/direktur-pegadaian-jadi-ketua-umum-ibma-asosiasi-emas-baru.jpg",
-  "imageV": "mt5v326r",
-  "tags": [
-   "IBMA",
-   "bank emas",
-   "Pegadaian",
-   "BSI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461432-dorong-pembangunan-ekosistem-emas-berstandar-internasional-direktur-pegadaian-resmi-jadi-ketua-umum-indonesia-bullion-market-association"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-jual-saham-lagi-untuk-restrukturisasi-grup",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Jual Saham Lagi untuk [Restrukturisasi] Grup",
-  "deck": "Putrasakti Mandiri menjual 900.000 saham KDTN pada 19 Agustus 2026 seharga Rp361, memangkas hak suaranya dari 34,63 persen menjadi 34,56 persen sebagai bagian restrukturisasi kepemilikan grup.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/kdtn-putrasakti-mandiri-jual-saham-lagi-untuk-restrukturisasi-grup.jpg",
-  "tags": [
-   "KDTN",
-   "Puri Sentul Permai",
-   "kepemilikan saham",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-6054-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bexi-koreksi-susunan-direksi-komisaris-eximbank",
-  "category": "Aksi Korporasi",
-  "title": "BEXI [Koreksi] Susunan Direksi-Komisaris Eximbank",
-  "deck": "LPEI mengoreksi laporan sehari sebelumnya soal pergantian direksi dan dewan direktur, merinci nama lama dan baru beserta tanggal efektif tiap jabatan.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEXI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9565ce14a3_a1c8eb6e41.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pngo-gelar-rupslb-14-september-revisi-anggaran-dasar-dan-kbli",
-  "category": "Aksi Korporasi",
-  "title": "PNGO Gelar RUPSLB 14 September, Revisi [Anggaran Dasar] dan KBLI",
-  "deck": "Perseroan memanggil RUPSLB pada 14 September 2026 untuk mengubah anggaran dasar terkait klasifikasi usaha, kewenangan direksi, dan penyesuaian daftar pemegang saham.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/pngo-gelar-rupslb-14-september-revisi-anggaran-dasar-dan-kbli.jpg",
-  "tags": [
-   "PNGO",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "AEP Pinago Plantations"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/86fe94729b_3bfbdd0440.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgun-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "PGUN Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
-  "deck": "PGUN merespons permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap ke publik.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGUN",
-   "volatilitas transaksi",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9d348a5136_c7374c90ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nick-direksi-beli-tambahan-500-saham-rp732-ribu",
-  "category": "Aksi Korporasi",
-  "title": "NICK: Direksi [Beli] Tambahan 500 Saham Rp732 Ribu",
-  "deck": "Nicholas Santoso, direksi Charnic Capital, melaporkan pembelian 500 saham baru pada 18 Agustus 2026, menambah kepemilikannya menjadi 167.000 lembar.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/nick-direksi-beli-tambahan-500-saham-rp732-ribu.jpg",
-  "tags": [
-   "NICK",
-   "Charnic Capital",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-1464-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpia-akuisisi-bisnis-otomotif-cycle-carriage",
-  "category": "Aksi Korporasi",
-  "title": "TPIA Akuisisi Bisnis Otomotif [Cycle & Carriage]",
-  "deck": "Chandra Asri Group menandatangani perjanjian bersyarat untuk mengakuisisi bisnis otomotif Cycle & Carriage di Singapura dan Malaysia, memperluas platform mobilitas regionalnya.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/tpia-akuisisi-bisnis-otomotif-cycle-carriage.jpg",
-  "tags": [
-   "TPIA",
-   "Chandra Asri",
-   "akuisisi",
-   "otomotif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b144b134ab_8f499fbf88.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang",
-  "category": "Pasar Modal",
-  "title": "Laba Asuransi Umum LGI [Tumbuh] di Tengah Ekonomi Menantang",
-  "deck": "PT Lippo General Insurance Tbk membukukan kenaikan pendapatan dan laba sebelum pajak pada semester I 2026, melanjutkan tren kinerja rekor di tengah ekonomi yang masih menantang.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/laba-asuransi-umum-lgi-tumbuh-di-tengah-ekonomi-menantang.jpg",
-  "imageV": "mt5v32l3",
-  "tags": [
-   "asuransi",
-   "Lippo General Insurance",
-   "laporan keuangan",
-   "IFRS 17"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461401-di-tengah-ekonomi-menantang-pendapatan-asuransi-umum-tumbuh-hingga-339-persen"
- },
- {
-  "slug": "laba-indonesia-re-melonjak-544-persen-di-2025",
-  "category": "BUMN",
-  "title": "Laba Indonesia Re [Melonjak] 544 Persen di 2025",
-  "deck": "Laba bersih Indonesia Re naik ke Rp176,96 miliar pada 2025, didorong penerapan standar akuntansi baru dan perbaikan hasil investasi perusahaan reasuransi pelat merah ini.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/laba-indonesia-re-melonjak-544-persen-di-2025.jpg",
-  "imageV": "mt5yrrpa",
-  "tags": [
-   "Indonesia Re",
-   "reasuransi",
-   "BUMN",
-   "PSAK 117"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461398-investasi-tumbuh-signifikan-laba-perusahaan-reasuransi-melonjak-544-persen"
- },
- {
-  "slug": "mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Konversi Utang Rp823 M Jadi Saham, [Dilusi] Nyaris 100%",
-  "deck": "MKNT mengubah harga pelaksanaan saham baru PMTHMETD jadi Rp1 per saham, menerbitkan 1,02 triliun lembar saham baru atau 99,46% dari saham beredar saat ini.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/mknt-konversi-utang-rp823-m-jadi-saham-dilusi-nyaris-100.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "dilusi saham",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2f596abf5a_ae47c93fdd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apln-sangkal-info-material-usai-saham-melonjak-volume-3-kali-lipat",
-  "category": "Aksi Korporasi",
-  "title": "APLN Sangkal Info Material Usai Saham Melonjak [Volume] 3 Kali Lipat",
-  "deck": "APLN menjawab permintaan penjelasan BEI usai volume sahamnya melonjak hampir tiga kali lipat dan harga naik 5,84 persen pada 19 Agustus 2026, namun menyatakan tak ada info material yang diketahui.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/apln-sangkal-info-material-usai-saham-melonjak-volume-3-kali-lipat.jpg",
-  "tags": [
-   "APLN",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1106c8c2ab_796e05f063.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-koreksi-rencana-jual-saham-treasuri-mulai-31-agustus",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Koreksi Rencana Jual Saham Treasuri Mulai [31 Agustus]",
-  "deck": "BWPT mengoreksi surat sebelumnya, menegaskan penjualan hingga 402,9 juta saham treasuri (1,28% saham) mulai 31 Agustus 2026 lewat PT Samuel Sekuritas Indonesia.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/bwpt-koreksi-rencana-jual-saham-treasuri-mulai-31-agustus.jpg",
-  "tags": [
-   "BWPT",
-   "Eagle High Plantations",
-   "saham treasuri",
-   "buyback"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cc38094a11_e836110562.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "peha-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PEHA jawab permintaan BEI soal [volatilitas] transaksi sahamnya",
-  "deck": "Bursa Efek Indonesia meminta Phapros menjelaskan volatilitas transaksi sahamnya. Manajemen menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/peha-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya.jpg",
-  "tags": [
-   "PEHA",
-   "Phapros",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4543b549db_19c4eb0588.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "post-ajukan-rups-sukuk-minta-restrukturisasi-dan-waiver",
-  "category": "Aksi Korporasi",
-  "title": "POST Ajukan RUPS Sukuk, Minta [Restrukturisasi] dan Waiver",
-  "deck": "PT Pos Indonesia (kode POST) memanggil pemegang Sukuk Ijarah Berkelanjutan I Tahap II 2025 ke rapat 4 September 2026, meminta persetujuan restrukturisasi utang dan waiver kovenan keuangan.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/post-ajukan-rups-sukuk-minta-restrukturisasi-dan-waiver.jpg",
-  "tags": [
-   "POST",
-   "Pos Indonesia",
-   "Sukuk",
-   "Restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bcae2c7b42_135bf71988.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kepemilikan-mice-siwie-honoris-tambah-saham-jadi-969-200-unit",
-  "category": "Aksi Korporasi",
-  "title": "[Kepemilikan] MICE: Siwie Honoris tambah saham jadi 969.200 unit",
-  "deck": "Siwie Honoris menambah kepemilikan saham MICE sebanyak 20.200 lembar lewat dua pembelian tidak langsung pada 14 dan 18 Agustus, hak suara naik jadi 0,1615%.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/kepemilikan-mice-siwie-honoris-tambah-saham-jadi-969-200-unit.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-3015-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -186,6 +186,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cnma-tanggapi-bei-kas-turun-rp421-5-m-piutang-macet-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Tanggapi BEI, Kas Turun Rp421,5 M, [Piutang] Macet Melonjak",
+  "deck": "PT Nusantara Sejahtera Raya Tbk (CNMA) merinci ke BEI penyebab turunnya kas Rp421,5 miliar dan melonjaknya piutang lewat jatuh tempo pada semester I 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CNMA",
+   "bursa efek indonesia",
+   "laporan keuangan",
+   "piutang usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f750dcecf_adf5e765e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgjo-bukukan-laba-rp4-69-miliar-aset-melonjak-394",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Bukukan Laba Rp4,69 Miliar, Aset Melonjak [394%]",
+  "deck": "PGJO, dulu Tourindo Guide Indonesia, cetak laba Rp4,69 miliar semester I 2026 usai beralih ke bisnis pelayaran dan tambang, tapi utang ke pihak berelasi melonjak jadi Rp88,11 miliar.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "laporan keuangan interim",
+   "utang pihak berelasi",
+   "pelayaran dan tambang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901202434-64149-0/FinancialStatement-2026-II-PGJO.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
   "category": "Energi",
   "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
@@ -203,6 +235,86 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464219-wacana-pembatasan-bbm-pertalite-untuk-warga-desil-9-10-bahlil-ungkap-tunggu-validasi-data"
  },
  {
+  "slug": "isat-lunasi-obligasi-dan-sukuk-rp255-miliar-2-september",
+  "category": "Aksi Korporasi",
+  "title": "ISAT [Lunasi] Obligasi dan Sukuk Rp255 Miliar 2 September",
+  "deck": "Indosat menyiapkan dana Rp255 miliar untuk melunasi obligasi Seri E dan sukuk ijarah Seri D yang jatuh tempo 2 September 2026, setelah itu kedua efek ini berhenti diperdagangkan di bursa.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISAT",
+   "obligasi korporasi",
+   "sukuk ijarah",
+   "jatuh tempo obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eece3316fa_f8398ba3d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bino-lewati-tenggat-free-float-pengendali-minta-perpanjangan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BINO Lewati Tenggat [Free Float], Pengendali Minta Perpanjangan OJK",
+  "deck": "Pengendali PT Perma Plasindo Tbk belum memenuhi kewajiban pelepasan 5,68% saham ke publik yang jatuh tempo 31 Agustus 2026 dan akan meminta perpanjangan waktu ke OJK.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BINO",
+   "free float",
+   "OJK",
+   "pengendali saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c2ba9a2c6_71e2eaf74c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-catatkan-obligasi-rp2-34-triliun-di-bei-bunga-9-10-5",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Catatkan [Obligasi] Rp2,34 Triliun di BEI, Bunga 9-10,5%",
+  "deck": "Merdeka Battery Materials mencatatkan Obligasi Berkelanjutan I Tahap V senilai Rp2,34 triliun di BEI mulai 2 September 2026, terbagi tiga seri dengan bunga 9-10,5 persen dan tenor hingga lima tahun.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "obligasi korporasi",
+   "pasar modal",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11fa7c8504_8371b18b3a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-tunda-rups-akuisisi-nextier-ojk-minta-penjelasan-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Tunda] RUPS Akuisisi Nextier, OJK Minta Penjelasan Tambahan",
+  "deck": "RUPS Luar Biasa dan RUPS Independen MGLV yang semula digelar 3 September ditunda ke 7 September 2026, menyusul permintaan penjelasan tambahan dari OJK atas rencana akuisisi anak usaha Nextier.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "RUPS",
+   "OJK",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0a30ad698_ce52f62d6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-klarifikasi-ke-bei-siap-terbitkan-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INET Klarifikasi ke BEI, Siap Terbitkan [Obligasi] dan Sukuk",
+  "deck": "INET menjawab permintaan BEI soal volatilitas transaksi sahamnya, mengungkap rencana penerbitan obligasi dan sukuk 2026, serta memastikan pengendali AKUN tak berencana kurangi kepemilikan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "volatilitas saham",
+   "obligasi berkelanjutan",
+   "sukuk ijarah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/394f198dd5_7c8dae314a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
   "category": "Teknologi",
   "title": "Telkom Kukuhkan Indonesia jadi [Hub] Digital Asia Pasifik",
@@ -218,6 +330,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464203-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik"
+ },
+ {
+  "slug": "pgas-batalkan-public-expose-2026-tunggu-putusan-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Batalkan Public Expose 2026, Tunggu Putusan [Arbitrase] Gunvor",
+  "deck": "PGN membatalkan partisipasi pada Public Expose Live BEI yang dijadwalkan 9 September 2026 karena masih menelaah putusan arbitrase Gunvor yang membuat laporan keuangan interim berpotensi telat.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGAS",
+   "Public Expose",
+   "Arbitrase Gunvor",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2387ac1f71_b4fcdff4ec.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",
@@ -6406,135 +6534,6 @@ var ARTICLES = [
    "pencatatan saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c13e7bf63_604b62fc18.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-obligasi-sukuk-rp2-47-triliun-dipangkas-pefindo-ke-d",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Obligasi-Sukuk Rp2,47 Triliun Dipangkas Pefindo ke [D]",
-  "deck": "Pefindo menurunkan peringkat obligasi dan sukuk mudharabah WIKA senilai total Rp2,47 triliun dari idCCC menjadi idD, menyusul penangguhan pembayaran kupon yang jatuh tempo 18 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/wika-obligasi-sukuk-rp2-47-triliun-dipangkas-pefindo-ke-d.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "gagal bayar",
-   "Pefindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f76d559150_d02612837d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbld-tambah-fasilitas-kredit-rp100-miliar-dari-bank-victoria",
-  "category": "Aksi Korporasi",
-  "title": "BBLD Tambah [Fasilitas Kredit] Rp100 Miliar dari Bank Victoria",
-  "deck": "Buana Finance menambah fasilitas kredit Rp100 miliar dari Bank Victoria International, total pinjaman naik jadi Rp554,16 miliar atau 39,38 persen dari ekuitas per akhir 2025.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/bbld-tambah-fasilitas-kredit-rp100-miliar-dari-bank-victoria.jpg",
-  "tags": [
-   "BBLD",
-   "Buana Finance",
-   "transaksi material",
-   "Bank Victoria International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1e0d2e8fea_9b3c9c964d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-pastikan-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Pastikan Tak Ada Aksi Korporasi di Balik [Volatilitas] Saham",
-  "deck": "BWPT menjawab permintaan penjelasan volatilitas dari BEI: tidak ada informasi material tersembunyi, tanpa rencana aksi korporasi, dan pemegang saham utama belum berencana ubah kepemilikan.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/bwpt-pastikan-tak-ada-aksi-korporasi-di-balik-volatilitas-saham.jpg",
-  "tags": [
-   "BWPT",
-   "Eagle High Plantations",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4e6c64fc27_a14e13ca34.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-kucurkan-pinjaman-rp1-18-triliun-ke-anak-usaha-tambang",
-  "category": "Aksi Korporasi",
-  "title": "SINI Kucurkan [Pinjaman] Rp1,18 Triliun ke Anak Usaha Tambang",
-  "deck": "Singaraja Putra mengucurkan pinjaman modal kerja Rp1,18 triliun ke anak usaha tambang batu bara PKP dan PBP, bunga 10,95 persen per tahun, sebagai realisasi dana hasil penambahan modal (rights issue).",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/sini-kucurkan-pinjaman-rp1-18-triliun-ke-anak-usaha-tambang.jpg",
-  "tags": [
-   "SINI",
-   "rights issue",
-   "tambang batu bara",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b483c6e1e6_9c4d82a16f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pelni-pelindo-buka-posko-bantuan-gempa-ntt-di-priok",
-  "category": "BUMN",
-  "title": "PELNI-Pelindo Buka Posko [Bantuan] Gempa NTT di Priok",
-  "deck": "PELNI dan Pelindo, didukung Kementerian Perhubungan, membuka posko bantuan kemanusiaan di Tanjung Priok untuk korban gempa NTT, disertai potongan tarif muatan 100 persen di kapal PELNI.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/pelni-pelindo-buka-posko-bantuan-gempa-ntt-di-priok.jpg",
-  "imageV": "mt5sb6dt",
-  "tags": [
-   "PELNI",
-   "Pelindo",
-   "gempa NTT",
-   "Tanjung Priok"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461544-bersama-kemenhub-pelni-dan-pelindo-buka-posko-bantuan-kemanusiaan-gempa-ntt-di-tanjung-priok"
- },
- {
-  "slug": "nsss-direksi-geser-37-5-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Geser 37,5 Juta Saham Lewat [Repo]",
-  "deck": "Seorang direksi NSSS mencatatkan transaksi jual dan beli saham lewat skema gadai saham (repo) pada 21 Agustus 2026, membuat kepemilikannya berkurang bersih 37,5 juta lembar.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/nsss-direksi-geser-37-5-juta-saham-lewat-repo.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-5712-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-kepemilikan-direksi-naik-ke-6-05-lewat-skema-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Kepemilikan [Direksi] Naik ke 6,05% Lewat Skema Repo",
-  "deck": "Samuel Sekuritas Indonesia, pelapor berjabatan direksi di RLCO, menambah 34,3 juta saham lewat dua transaksi repo, mengerek hak suaranya dari 4,95 persen menjadi 6,05 persen.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/rlco-kepemilikan-direksi-naik-ke-6-05-lewat-skema-repo.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-5044-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-tarik-pinjaman-afiliasi-us-55-juta-dari-kbank",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Tarik Pinjaman [Afiliasi] US$55 Juta dari KBank",
-  "deck": "BMAS menarik pinjaman bilateral pertama US$55 juta dari KBank, pemegang saham pengendalinya, dari total fasilitas US$341 juta untuk mendukung likuiditas dan kredit.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "transaksi afiliasi",
-   "pinjaman bilateral",
-   "KBank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc15a9d8d9_728fc54dbc.pdf",
   "sourceLabel": "IDX"
  }
 ];

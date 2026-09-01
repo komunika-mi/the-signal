@@ -296,6 +296,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cnma-tanggapi-bei-kas-turun-rp421-5-m-piutang-macet-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "CNMA Tanggapi BEI, Kas Turun Rp421,5 M, [Piutang] Macet Melonjak",
+  "deck": "PT Nusantara Sejahtera Raya Tbk (CNMA) merinci ke BEI penyebab turunnya kas Rp421,5 miliar dan melonjaknya piutang lewat jatuh tempo pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:13:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f750dcecf_adf5e765e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CNMA",
+  "tags": [
+   "CNMA",
+   "bursa efek indonesia",
+   "laporan keuangan",
+   "piutang usaha"
+  ],
+  "body": [
+   "PT Nusantara Sejahtera Raya Tbk (CNMA) menyampaikan surat tanggapan tertanggal 1 September 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan BEI No. S-11132/BEI.PP2/08-2026 tanggal 28 Agustus 2026 atas laporan keuangan per 30 Juni 2026. Surat yang ditandatangani Head of Corporate Legal Indah Tri Wahyuni ini merinci enam pos yang diminta penjelasan bursa, mulai dari kas, piutang, aset tetap, utang usaha, hingga perpajakan.",
+   "Soal kas, perseroan menjelaskan saldo kas dan setara kas turun Rp421,50 miliar (23,27 persen) dari Rp1,81 triliun menjadi Rp1,39 triliun, akibat pembayaran dividen tahun buku 2025 sebesar Rp615,83 miliar, belanja modal Rp218,99 miliar, dan pembayaran liabilitas sewa Rp120,89 miliar, yang hanya sebagian tertutup oleh kas dari aktivitas operasi sebesar Rp531,64 miliar. Perseroan juga mengalihkan sebagian dana dari rekening giro, yang turun 42,53 persen menjadi Rp966,55 miliar, ke deposito berjangka yang naik 271,40 persen menjadi Rp403,54 miliar, termasuk penempatan baru di Bank Maybank Indonesia Rp300,04 miliar dan Bank Permata Rp312,00 miliar untuk mengejar bunga lebih tinggi. Meski begitu, penghasilan bunga malah turun 47,14 persen menjadi Rp21,49 miliar karena suku bunga deposito melandai dari maksimal 7,25 persen menjadi 5,5 persen dan rata-rata saldo kas turun 28 persen.",
+   "Piutang usaha dan piutang lainnya justru naik 21,88 persen menjadi Rp128,17 miliar meski pendapatan perseroan turun 8,59 persen. Penyebabnya adalah pendapatan iklan yang melonjak 212 persen atau Rp65 miliar dari kontrak dengan satu agensi iklan untuk periode 1 Januari 2026 sampai 31 Maret 2027, yang sebagian masih dalam proses penagihan. Piutang yang telah lewat jatuh tempo mencapai 51,03 persen dari total piutang atau Rp65,40 miliar, dengan kelompok umur 31-180 hari melonjak dari Rp7,15 miliar menjadi Rp35,25 miliar. Perseroan tidak membentuk pencadangan kerugian kredit ekspektasian meski ada piutang lewat jatuh tempo lebih dari 360 hari senilai Rp2,53 miliar, dengan alasan risiko gagal bayar dinilai sangat rendah. Sampai 25 Agustus 2026, perseroan telah menerima pembayaran Rp57,9 miliar atau 45,2 persen dari saldo piutang per 30 Juni 2026.",
+   "Total aset anak usaha PT Nusantara Elang Sejahtera turun 27,46 persen menjadi Rp104,25 miliar, karena utang usaha ke pemilik bioskop yang membengkak saat puncak penjualan tiket lewat TIX.ID akhir 2025 sudah dibayar, dari Rp71,14 miliar menjadi Rp26,13 miliar. Aset tetap turun 4,49 persen menjadi Rp4,24 triliun karena penambahan aset tetap semester I 2026 hanya Rp198,71 miliar, kurang dari separuh beban penyusutan Rp399,18 miliar, yang menurut perseroan mencerminkan sikap konservatif dalam ekspansi di tengah kondisi ekonomi saat ini. Kendati begitu, perseroan tetap membuka 2 bioskop baru dengan 7 layar sesuai rencana tanpa ada penutupan. Di sisi lain, utang usaha ke pihak berelasi naik 96,44 persen menjadi Rp47,48 miliar, terbesar ke PT Megatech Engineering Rp17,18 miliar untuk renovasi dan perawatan studio serta PT Delta Raya Sejahtera Rp16,02 miliar untuk kebutuhan makanan dan minuman, seiring musim liburan sekolah Juni."
+  ],
+  "fotoAdegan": "Empty modern cinema lobby with a popcorn counter and drink dispensers, warm ambient lighting, inside an Indonesian shopping mall",
+  "takeaway": "Tanggapan ini condong negatif karena mengonfirmasi pendapatan tiket dan makanan-minuman turun 10,64 persen pada semester I 2026 sekaligus arus kas dari aktivitas operasi turun 30,39 persen menjadi Rp531,64 miliar, sementara lebih dari separuh piutang usaha kini lewat jatuh tempo tanpa ada pencadangan kerugian kredit. Yang tersentuh adalah arus kas operasional, yaitu uang tunai yang benar-benar dihasilkan dari bisnis inti sebelum dipakai bayar utang atau belanja modal, dan kualitas piutang usaha, yaitu seberapa besar tagihan ke pelanggan yang berisiko tidak terbayar. Pelaku pasar mencermati keduanya karena arus kas operasi yang menyusut membatasi ruang gerak perseroan, sementara piutang macet yang membesar tanpa cadangan bisa membebani laba di kemudian hari bila ternyata tak seluruhnya tertagih. Yang perlu dipantau berikutnya adalah realisasi penagihan sisa piutang dari kontrak iklan yang berjalan sampai Maret 2027 serta hasil pemeriksaan pajak empat entitas anak yang saat ini masih berjalan, karena keduanya bisa mengubah gambaran arus kas dan potensi kewajiban perseroan pada laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pgjo-bukukan-laba-rp4-69-miliar-aset-melonjak-394",
+  "category": "Aksi Korporasi",
+  "title": "PGJO Bukukan Laba Rp4,69 Miliar, Aset Melonjak [394%]",
+  "deck": "PGJO, dulu Tourindo Guide Indonesia, cetak laba Rp4,69 miliar semester I 2026 usai beralih ke bisnis pelayaran dan tambang, tapi utang ke pihak berelasi melonjak jadi Rp88,11 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:11:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901202434-64149-0/FinancialStatement-2026-II-PGJO.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGJO",
+  "tags": [
+   "PGJO",
+   "laporan keuangan interim",
+   "utang pihak berelasi",
+   "pelayaran dan tambang"
+  ],
+  "body": [
+   "PT Bahtera Bumi Raya Tbk (PGJO), yang sebelumnya bernama PT Tourindo Guide Indonesia Tbk, menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Auditor KAP Mirawati Sensi Idris memberikan opini wajar tanpa modifikasian atas laporan ini. Perseroan membukukan pendapatan bersih Rp144,71 miliar pada semester pertama 2026, melonjak drastis dari Rp314,74 juta pada periode yang sama tahun lalu, dan mencatat laba bersih Rp4,69 miliar, berbalik dari rugi Rp1,93 miliar pada semester I 2025. Laba per saham dasar tercatat Rp5,89, dibandingkan rugi Rp2,43 per saham setahun sebelumnya.",
+   "Total aset Perseroan melonjak 394,20 persen menjadi Rp150,22 miliar per 30 Juni 2026, dari Rp30,40 miliar per akhir 2025. Total liabilitas juga naik 355,19 persen menjadi Rp147,47 miliar. Dalam surat penjelasan kepada bursa, manajemen menyebut kenaikan aset terutama berasal dari kas dan bank yang naik menjadi Rp53,74 miliar, uang muka pembelian aset tetap sebesar Rp32,41 miliar, dan piutang usaha pihak ketiga yang naik menjadi Rp43,88 miliar. Kenaikan liabilitas terutama berasal dari utang lain-lain jangka panjang kepada pihak berelasi yang mencapai Rp88,11 miliar, dari sebelumnya tidak ada, serta utang usaha pihak ketiga yang naik menjadi Rp43,84 miliar. Dengan tambahan laba periode berjalan, ekuitas Perseroan berbalik dari defisiensi modal minus Rp2,00 miliar per akhir 2025 menjadi ekuitas positif Rp2,75 miliar per 30 Juni 2026.",
+   "Transformasi bisnis Perseroan tercermin dari daftar entitas anak yang dilaporkan. PT Pigijo Travelindo Sakti, bisnis agen perjalanan dan tur yang menjadi cikal bakal nama lama Perseroan, kini tercatat tanpa aset. Sebagai gantinya, Perseroan menguasai 99,999 persen PT Mega Mitra Marine, perusahaan manajemen logistik terpadu dengan aset Rp74,47 miliar, dan 99,999 persen PT Samudera Sejahtera Shipping, perusahaan angkutan laut untuk muatan umum, khusus, dan pelayaran perintis ke wilayah terpencil, dengan aset Rp73,95 miliar. Perseroan juga menguasai 99,999 persen PT Panca Pertiwi Tambang, kontraktor pertambangan nikel, batu bara, emas, dan mineral lain, dengan aset Rp2,78 miliar. Tiga entitas anak lain, yaitu PT Niaga Batu Raya dan PT Niaga Nikel Raya, masing-masing dengan kepemilikan 99,99 persen, serta PT Bahana Enegi Persada dengan kepemilikan 99,996 persen, tercatat belum beroperasi. Laporan laba rugi turut mencatat keuntungan Rp3,45 miliar dari penjualan salah satu entitas anak pada periode ini."
+  ],
+  "fotoAdegan": "Tugboat guiding a bulk cargo ship along a loading dock at an Indonesian port, workers in hard hats nearby, midday light",
+  "takeaway": "Laporan ini kami nilai netral, condong perlu diwaspadai: pendapatan dan laba memang melonjak tajam, tapi lonjakan itu datang dari konsolidasi bisnis pelayaran dan tambang yang baru dikuasai, sementara ekuitas Perseroan hanya Rp2,75 miliar, jauh lebih kecil dari total utangnya yang mencapai Rp147,47 miliar, termasuk utang jangka panjang Rp88,11 miliar ke pihak berelasi yang baru muncul tahun ini. Ekuitas adalah modal bersih pemegang saham setelah dikurangi semua utang, jadi kalau angkanya jauh lebih kecil dari utang, bantalan keamanan Perseroan terhadap risiko gagal bayar sangat tipis, apalagi sebagian besar dana yang masuk berasal dari utang ke pihak berelasi, bukan modal sendiri atau pinjaman bank yang biasanya punya syarat lebih transparan. Laba per saham yang berbalik dari rugi Rp2,43 menjadi laba Rp5,89 memang kabar baik bagi pemegang saham, tapi sebagian, yaitu Rp3,45 miliar, berasal dari keuntungan sekali jalan atas penjualan entitas anak, bukan dari operasi inti yang berulang. Perseroan pun masih berstatus Pemantauan Khusus di bursa, artinya otoritas masih menganggap ada hal yang perlu terus diawasi. Yang perlu dipantau berikutnya adalah bagaimana utang jangka panjang Rp88,11 miliar ke pihak berelasi ini akan dilunasi atau diperpanjang, serta apakah tiga entitas anak yang belum beroperasi, yaitu PT Niaga Batu Raya, PT Niaga Nikel Raya, dan PT Bahana Enegi Persada, mulai menghasilkan pendapatan pada laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
   "category": "Energi",
   "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
@@ -323,6 +376,137 @@ var ARTICLES = [
   "imageV": "mtir851w"
  },
  {
+  "slug": "isat-lunasi-obligasi-dan-sukuk-rp255-miliar-2-september",
+  "category": "Aksi Korporasi",
+  "title": "ISAT [Lunasi] Obligasi dan Sukuk Rp255 Miliar 2 September",
+  "deck": "Indosat menyiapkan dana Rp255 miliar untuk melunasi obligasi Seri E dan sukuk ijarah Seri D yang jatuh tempo 2 September 2026, setelah itu kedua efek ini berhenti diperdagangkan di bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:58:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eece3316fa_f8398ba3d0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISAT",
+  "tags": [
+   "ISAT",
+   "obligasi korporasi",
+   "sukuk ijarah",
+   "jatuh tempo obligasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan I Indosat Tahap IV Tahun 2016 Seri E senilai Rp201 miliar dan Sukuk Ijarah Berkelanjutan I Indosat Tahap IV Tahun 2016 Seri D senilai Rp54 miliar akan jatuh tempo pada 2 September 2026. Mulai tanggal tersebut, kedua efek utang PT Indosat Tbk (ISAT) ini tidak lagi tercatat dan tidak dapat diperdagangkan di bursa.",
+   "Dalam surat tertanggal 10 Agustus 2026 kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto, Direktur sekaligus Chief Legal & Regulatory Officer yang juga menjabat Corporate Secretary Indosat, Reski Damayanti, menyatakan perseroan telah menyiapkan dana untuk melunasi pokok kedua instrumen tersebut, totalnya Rp255 miliar, pada tanggal jatuh tempo. Obligasi Seri E diterbitkan dengan bunga tetap 9,15 persen per tahun untuk tenor 10 tahun, sedangkan Sukuk Ijarah Seri D memberikan cicilan imbalan ijarah Rp4,941 miliar per tahun dengan tenor yang sama.",
+   "Kedua instrumen ini merupakan bagian dari penawaran umum berkelanjutan obligasi dan sukuk ijarah tahap IV yang diterbitkan Indosat pada 2 September 2016, dengan PT Bank Rakyat Indonesia (Persero) Tbk bertindak sebagai wali amanat. Saat diterbitkan, kedua efek ini mendapat peringkat tertinggi AAA dari Fitch Ratings Indonesia dan Pefindo."
+  ],
+  "fotoAdegan": "Telecommunications technicians inspecting equipment at the base of a network tower against a Jakarta skyline at dusk",
+  "takeaway": "Laporan ini netral bagi Indosat, sebab pelunasan ini sudah dijadwalkan sejak penerbitan pada 2016 dan bukan langkah pendanaan baru atau tanda tekanan keuangan mendadak. Yang tersentuh adalah arus kas dan total utang perusahaan, begitu dana Rp255 miliar dibayarkan pada tanggal jatuh tempo, kas Indosat berkurang sebesar itu tetapi beban utang jangka panjangnya ikut menyusut, sehingga secara neto memperbaiki posisi utangnya meski dalam jumlah kecil dibanding total obligasi berkelanjutan I yang pernah diterbitkan perseroan senilai Rp9 triliun. Yang perlu dipantau adalah eksekusi pembayaran pada 2 September 2026 itu sendiri, serta apakah Indosat akan menerbitkan obligasi dan sukuk ijarah berkelanjutan tahap berikutnya, yang menurut dokumen ini baru akan ditentukan kemudian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bino-lewati-tenggat-free-float-pengendali-minta-perpanjangan-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BINO Lewati Tenggat [Free Float], Pengendali Minta Perpanjangan OJK",
+  "deck": "Pengendali PT Perma Plasindo Tbk belum memenuhi kewajiban pelepasan 5,68% saham ke publik yang jatuh tempo 31 Agustus 2026 dan akan meminta perpanjangan waktu ke OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:56:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c2ba9a2c6_71e2eaf74c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BINO",
+  "tags": [
+   "BINO",
+   "free float",
+   "OJK",
+   "pengendali saham"
+  ],
+  "body": [
+   "PT Perma Plasindo Tbk (BINO) menjelaskan kepada Bursa Efek Indonesia bahwa pemegang saham pengendali perusahaan belum menuntaskan kewajiban melepas kembali sahamnya ke publik sebagaimana diatur Peraturan OJK Nomor 9/POJK.04/2018. Dalam surat tertanggal 1 September 2026 yang merupakan jawaban atas surat permintaan penjelasan Bursa Nomor S-11091/BEI.PP3/08-2026 tanggal 28 Agustus 2026, Perseroan menyebut jumlah saham yang wajib dialihkan kembali ke publik sebesar 5,68 persen, setara 129.237.955 lembar saham berdasarkan laporan biro administrasi efek per Juli 2026. Tenggat pemenuhan kewajiban itu, sesuai Pasal 21 ayat 1 POJK 9/POJK.04/2018, jatuh sebelum 31 Agustus 2026, yang berarti sudah terlewati saat surat ini diterbitkan.",
+   "Perseroan mengakui kepemilikan saham publik BINO memang naik dari 2,37 persen menjadi 6,67 persen lewat sejumlah aksi korporasi dan penyesuaian struktural, tetapi itu masih menyisakan kekurangan 13,43 persen dari syarat minimum kepemilikan publik 20 persen yang diwajibkan aturan bursa. Pengendali menyebut dua kendala utama, yaitu kedalaman pasar sekunder BINO yang dinilai belum cukup untuk menyerap pelepasan saham dalam jumlah besar tanpa menekan harga secara signifikan, serta harga saham BINO di pasar saat ini yang berada di bawah harga akuisisi lewat penawaran tender wajib yang dulu dibayarkan pengendali, sehingga pelepasan besar-besaran pada harga sekarang berpotensi menimbulkan kerugian bagi pengendali.",
+   "Untuk mengatasi hal ini, pengendali berencana mengajukan surat permohonan perpanjangan tenggat kepada OJK dalam waktu dekat, disertai peta jalan bertahap. Fase pertama, dari Maret 2026 hingga Juni 2027, menargetkan pelepasan 0,33 persen saham lewat transaksi blok di pasar reguler. Fase kedua, Juli 2027 hingga Maret 2028, menargetkan pelepasan sekitar 2 persen lewat distribusi bertahap di pasar sekunder melalui perantara pedagang efek independen yang disesuaikan dengan volume perdagangan harian. Fase ketiga, April 2028 hingga September 2028, menargetkan penempatan privat sekitar 6 persen saham kepada investor institusional utama.",
+   "Total tambahan pelepasan yang ditargetkan dalam peta jalan ini adalah 8,33 persen, yang jika tercapai akan membawa kepemilikan saham publik BINO ke 15 persen pada akhir 2028, masih di bawah syarat minimum 20 persen yang diwajibkan aturan bursa. Perseroan juga menyatakan akan mulai menyampaikan laporan berkala ke OJK mengenai perkembangan kewajiban ini mulai periode per 30 September 2026."
+  ],
+  "fotoAdegan": "Workers monitoring rows of plastic packaging film machines on an industrial factory floor, coiled material, overhead lighting",
+  "takeaway": "Laporan ini negatif bagi profil kepatuhan BINO karena pengendali perusahaan telah melewati tenggat wajib 31 Agustus 2026 untuk melepas 5,68 persen sahamnya ke publik, dan bahkan peta jalan yang mereka ajukan sendiri hanya menjanjikan kepemilikan publik mencapai 15 persen pada 2028, masih di bawah syarat minimum 20 persen yang ditetapkan regulator. Yang tersentuh adalah komposisi pemegang saham publik alias free float, yaitu porsi saham yang beredar bebas di luar genggaman pengendali. Pasar memperhatikan angka ini karena free float yang terlalu kecil membuat saham sulit diperjualbelikan dan membuat perusahaan berisiko kena sanksi administratif dari bursa bila kewajiban ini terus tidak terpenuhi. Yang perlu dipantau berikutnya adalah surat permohonan perpanjangan tenggat yang akan diajukan pengendali ke OJK dalam waktu dekat, laporan berkala pertama BINO ke OJK untuk periode per 30 September 2026, serta realisasi Fase I peta jalan pelepasan 0,33 persen saham yang dijadwalkan berjalan dari Maret 2026 hingga Juni 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mbma-catatkan-obligasi-rp2-34-triliun-di-bei-bunga-9-10-5",
+  "category": "Aksi Korporasi",
+  "title": "MBMA Catatkan [Obligasi] Rp2,34 Triliun di BEI, Bunga 9-10,5%",
+  "deck": "Merdeka Battery Materials mencatatkan Obligasi Berkelanjutan I Tahap V senilai Rp2,34 triliun di BEI mulai 2 September 2026, terbagi tiga seri dengan bunga 9-10,5 persen dan tenor hingga lima tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:43:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11fa7c8504_8371b18b3a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "obligasi korporasi",
+   "pasar modal",
+   "BEI"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) mencatatkan Obligasi Berkelanjutan I Tahap V Tahun 2026 di Bursa Efek Indonesia mulai 2 September 2026, dengan jumlah pokok total Rp2.336.893.000.000. Obligasi ini terbagi tiga seri. Seri A senilai Rp1.711.584.000.000 berbunga tetap 9 persen per tahun dengan tenor 367 hari kalender, jatuh tempo 8 September 2027. Seri B senilai Rp529.974.000.000 berbunga 10 persen per tahun bertenor tiga tahun, jatuh tempo 1 September 2029. Seri C senilai Rp95.335.000.000 berbunga 10,5 persen per tahun bertenor lima tahun, jatuh tempo 1 September 2031. Wali amanat obligasi ini adalah PT Bank Rakyat Indonesia (Persero) Tbk, dan lembaga pemeringkat PEFINDO memberi rating idA (Single A) untuk seluruh emisi.",
+   "Penerbitan tahap V ini merupakan bagian dari Penawaran Umum Berkelanjutan Obligasi Berkelanjutan I MBMA dengan target dana total Rp16 triliun, yang efektif di OJK sejak 30 Juni 2025. Sebelum tahap ini, perseroan telah menerbitkan obligasi senilai Rp11.163.326.000.000 pada tahap-tahap sebelumnya, sehingga dengan tambahan Rp2,34 triliun dari Tahap V, total obligasi yang beredar dalam program ini mencapai sekitar Rp13,5 triliun. Bunga dibayarkan setiap triwulan, dengan pembayaran bunga pertama pada 1 Desember 2026, sedangkan pelunasan pokok masing-masing seri dilakukan penuh sekaligus (bullet payment) pada tanggal jatuh temponya. Obligasi ini tidak dijamin dengan aset khusus, melainkan dijamin dengan seluruh harta kekayaan perseroan secara umum dan berkedudukan pari passu dengan kreditur lain.",
+   "Penjamin pelaksana emisi obligasi ini adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, dan PT Mandiri Sekuritas. Dokumen informasi tambahan juga mencantumkan bahwa perseroan berhak melakukan pembelian kembali (buyback) sebagian atau seluruh obligasi satu tahun setelah tanggal penjatahan, yaitu setelah 28 Agustus 2027, sebelum jatuh tempo masing-masing seri."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting steel pipelines at a nickel processing plant, steam rising, humid tropical morning light",
+  "takeaway": "Laporan ini netral bagi MBMA karena penerbitan Tahap V ini hanya menjalankan jatah dari program obligasi berkelanjutan yang sudah disetujui OJK sejak Juni 2025, bukan utang baru di luar rencana. Yang perlu diperhatikan adalah beban bunga perusahaan, sebab pokok Rp2,34 triliun ini dikenai bunga tetap 9 sampai 10,5 persen per tahun yang dibayar setiap tiga bulan, sehingga menambah pengeluaran kas rutin MBMA setiap kuartal. Total obligasi yang sudah diterbitkan MBMA lewat program ini kini mencapai sekitar Rp13,5 triliun dari target Rp16 triliun, dan karena perseroan adalah perusahaan induk yang bergantung pada setoran dividen dari anak usaha tambang nikelnya untuk membayar kewajiban, kelancaran pembayaran bunga dan pokok ke depan turut ditentukan oleh seberapa lancar dividen itu mengalir dari anak usaha. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 1 Desember 2026 serta jatuh tempo Seri A pada 8 September 2027, karena seri ini bertenor pendek, hanya 367 hari, dan pokoknya harus dilunasi penuh sekaligus saat itu juga.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mglv-tunda-rups-akuisisi-nextier-ojk-minta-penjelasan-tambahan",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Tunda] RUPS Akuisisi Nextier, OJK Minta Penjelasan Tambahan",
+  "deck": "RUPS Luar Biasa dan RUPS Independen MGLV yang semula digelar 3 September ditunda ke 7 September 2026, menyusul permintaan penjelasan tambahan dari OJK atas rencana akuisisi anak usaha Nextier.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:30:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0a30ad698_ce52f62d6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "RUPS",
+   "OJK",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menunda Rapat Umum Pemegang Saham Luar Biasa dan RUPS Independen yang sedianya digelar Kamis, 3 September 2026. Dalam pengumuman bertanggal 1 September 2026 yang diteken Corporate Secretary Putra Harianto Bate'e, perseroan menyebut penundaan terjadi karena masih ada tambahan permintaan penjelasan dari Otoritas Jasa Keuangan. Rapat dijadwalkan ulang menjadi Senin, 7 September 2026, pukul 14.00 WIB di Function Hall Pacific Century Place Lantai B1 Ruang B dan C, Jakarta Selatan.",
+   "Agenda RUPS Luar Biasa mencakup persetujuan perubahan dan/atau penambahan kegiatan usaha utama, persetujuan penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue, serta tiga agenda terpisah soal persetujuan rencana transaksi material di atas 50 persen dari aset perseroan.",
+   "Sementara itu, RUPS Independen memuat dua agenda transaksi berstatus transaksi afiliasi menurut POJK 17/2020 dan POJK 42/2020. Agenda pertama adalah persetujuan pengambilalihan saham PT Nextier Askara Center dan PT Nextier GenAi Center, sekaligus piutang kedua perusahaan itu, dari PT Nextier Datamate Center yang merupakan salah satu pemegang saham MGLV sendiri. Agenda kedua adalah persetujuan penerimaan pinjaman dari pemegang saham yang sama, yaitu PT Nextier Datamate Center. Dokumen ini tidak merinci nilai nominal dari transaksi-transaksi tersebut."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a podium in a corporate function hall, natural light through floor to ceiling windows",
+  "takeaway": "Laporan ini condong negatif bagi MGLV karena penundaan terjadi bukan soal teknis biasa, melainkan karena OJK masih meminta penjelasan tambahan atas rencana transaksi dengan pihak terafiliasi, yaitu perseroan membeli dua anak usaha sekaligus menerima pinjaman dari pemegang sahamnya sendiri. Yang tersentuh di sini adalah struktur permodalan dan utang perseroan: rencana rights issue akan menambah jumlah saham beredar sehingga laba per saham berpotensi terdilusi, sementara pinjaman baru dari pemegang saham menambah beban bunga dan kewajiban di neraca. Transaksi afiliasi seperti ini memang wajib mendapat persetujuan pemegang saham independen justru karena berpotensi menimbulkan benturan kepentingan antara perseroan dan pengendalinya. Yang perlu dipantau selanjutnya adalah apakah RUPS benar terlaksana pada 7 September 2026 sesuai jadwal baru, atau tertunda lagi jika OJK belum puas dengan penjelasan yang diberikan perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inet-klarifikasi-ke-bei-siap-terbitkan-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "INET Klarifikasi ke BEI, Siap Terbitkan [Obligasi] dan Sukuk",
+  "deck": "INET menjawab permintaan BEI soal volatilitas transaksi sahamnya, mengungkap rencana penerbitan obligasi dan sukuk 2026, serta memastikan pengendali AKUN tak berencana kurangi kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:29:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/394f198dd5_7c8dae314a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "volatilitas saham",
+   "obligasi berkelanjutan",
+   "sukuk ijarah"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat BEI Nomor S-11122/BEI.PP2/08-2026 tanggal 28 Agustus 2026 yang meminta klarifikasi atas volatilitas transaksi saham perseroan. Balasan bernomor 161/INET/CORSEC/IX/2026 tertanggal 1 September 2026 itu ditandatangani Arki Rifazka, Senior Vice President Corporate Secretary INET. Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik sebagaimana diatur POJK 31/2015 dan ketentuan III.2.1 Peraturan I-E BEI, serta tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham.",
+   "Soal rencana aksi korporasi dalam tiga bulan ke depan, INET mengonfirmasi tengah menyiapkan Penerbitan Obligasi Berkelanjutan I dan Sukuk Ijarah Berkelanjutan I pada tahun 2026. Surat tersebut belum merinci nilai emisi maupun jadwal penerbitan kedua instrumen utang itu. Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usaha yang belum diungkapkan kepada publik.",
+   "Terkait sikap pemegang saham utama, INET menjelaskan bahwa berdasarkan keterangan dari pemegang saham pengendali, PT Abadi Kreasi Unggul Nusantara (AKUN), investasi AKUN di saham INET bersifat jangka panjang. Sampai tanggal surat disampaikan, AKUN tidak berencana mengurangi kepemilikannya di perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise office tower in Jakarta's Kuningan business district under late afternoon light",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya pada dasarnya adalah bantahan rutin bahwa tidak ada informasi tersembunyi, namun dua detail di dalamnya tetap berguna bagi pemegang saham. Rencana penerbitan obligasi dan sukuk ijarah berarti INET akan menambah utang berbunga baru, yang nantinya akan menambah beban bunga perseroan dan memengaruhi arus kas dari aktivitas pendanaan begitu diterbitkan, meski nilai dan jadwalnya belum diumumkan. Pernyataan pemegang saham pengendali AKUN bahwa investasinya bersifat jangka panjang dan tidak berencana melepas saham juga relevan karena hak suara dan struktur kendali perseroan tidak berubah. Yang perlu dipantau selanjutnya adalah pengumuman resmi jadwal dan nilai penerbitan obligasi serta sukuk tersebut, termasuk kemungkinan permintaan RUPS untuk menyetujui aksi korporasi ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
   "category": "Teknologi",
   "title": "Telkom Kukuhkan Indonesia jadi [Hub] Digital Asia Pasifik",
@@ -348,6 +532,31 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan produk atau harga, melainkan cara Telkom memosisikan dirinya: lewat BATIC 2026, perusahaan pelat merah ini menjadikan Bali sebagai etalase untuk menunjukkan bahwa bisnisnya tidak lagi sekadar menyediakan sambungan telepon dan internet, tapi merambah cloud dan kecerdasan buatan. Pihak yang paling terdampak adalah Telkom Group dan anak usahanya Telin, karena strategi ini menentukan ke mana pendapatan perusahaan akan digantungkan ke depan, sementara ribuan mitra bisnis dari 67 negara yang hadir berpeluang menjalin kerja sama lewat lebih dari 4.500 pertemuan yang difasilitasi acara ini. Arahnya terlihat dari strategi TLKM 30 yang disebut Dian Siswarini, dengan empat fokus yaitu merapikan operasional, memangkas biaya lewat efisiensi, mencari sumber pendapatan baru, dan mengubah cara kerja perusahaan, tanda bahwa Telkom sedang bergeser dari bisnis telekomunikasi tradisional ke ekosistem digital yang lebih luas. Yang akan menunjukkan apakah pergeseran ini membuahkan hasil adalah laporan keuangan Telkom pada kuartal-kuartal mendatang, khususnya seberapa besar pendapatan dari layanan digital dan korporat dibanding bisnis seluler yang selama ini jadi andalan.",
   "imageV": "mtir85ix"
+ },
+ {
+  "slug": "pgas-batalkan-public-expose-2026-tunggu-putusan-arbitrase-gunvor",
+  "category": "Aksi Korporasi",
+  "title": "PGAS Batalkan Public Expose 2026, Tunggu Putusan [Arbitrase] Gunvor",
+  "deck": "PGN membatalkan partisipasi pada Public Expose Live BEI yang dijadwalkan 9 September 2026 karena masih menelaah putusan arbitrase Gunvor yang membuat laporan keuangan interim berpotensi telat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:17:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2387ac1f71_b4fcdff4ec.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGAS",
+  "tags": [
+   "PGAS",
+   "Public Expose",
+   "Arbitrase Gunvor",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Perusahaan Gas Negara (Persero) Tbk membatalkan rencana keikutsertaan pada Public Expose Live 2026 yang diselenggarakan Bursa Efek Indonesia, yang semula dijadwalkan Rabu, 9 September 2026 pukul 15.00 hingga 16.00 WIB. Dalam surat bernomor 053300.S/KU.06.01/COS/2026 yang diteken Corporate Secretary Fajriyah Usman, PGN menyatakan pembatalan ini merujuk pada suratnya sebelumnya tanggal 28 Agustus 2026 perihal penyampaian laporan keuangan konsolidasian per 30 Juni 2026 yang masih dalam tahap reviu.",
+   "Alasan utamanya, perseroan disebut masih melakukan penelaahan menyeluruh terhadap putusan arbitrase dalam perkara yang diajukan Gunvor Singapore Pte. Ltd., sehingga laporan keuangan interim tersebut diperkirakan tidak dapat disampaikan sesuai tata waktu yang berlaku. PGN meminta maaf atas ketidaknyamanan akibat pembatalan ini dan menyatakan akan menyelenggarakan Public Expose Tahunan secara mandiri setelah laporan keuangan interim terbit sesuai peraturan. Surat tembusan dikirim ke Kepala Eksekutif Pengawasan Pasar Modal Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Industrial gas pipeline valves and metering equipment at a distribution yard, technicians in safety vests inspecting fittings under overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi PGN, sebab pembatalan bukan sekadar urusan jadwal, melainkan akibat langsung dari kekalahan sebagian perusahaan dalam sengketa arbitrase melawan Gunvor yang membuat laporan keuangan interim per Juni 2026 molor dari jadwal semestinya. Yang tersentuh di sini adalah ketepatan waktu pelaporan keuangan dan potensi arus kas perusahaan, karena putusan arbitrase itu mewajibkan PGN membayar kompensasi ke Gunvor yang besarannya belum diumumkan, dan keterlambatan laporan keuangan berisiko menjadi sorotan kepatuhan dari OJK maupun bursa. Yang perlu dipantau berikutnya adalah kapan PGN akhirnya menerbitkan laporan keuangan interim itu, sebab dari situ baru akan dijadwalkan ulang Public Expose Tahunan secara mandiri, serta perkembangan nilai kompensasi yang harus dibayarkan PGN pasca putusan arbitrase di London.",
+  "sentimen": "negatif"
  },
  {
   "slug": "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",

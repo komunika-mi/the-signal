@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Jelaskan Saham Melonjak, Pendapatan Turun Rugi [Menyempit]",
+  "deck": "Setelah sahamnya disetop bursa akibat lonjakan harga, Tempo Inti Media memaparkan kinerja semester I 2026: pendapatan turun 3,96 persen tapi rugi bersih menyempit 7,47 persen jadi Rp6,58 miliar.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810af7b132_fca403b369.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psab-lunasi-sebagian-besar-utang-liabilitas-turun-45",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Lunasi Sebagian Besar Utang, Liabilitas Turun [45%]",
+  "deck": "Surat penjelasan J Resources Asia Pasifik ke BEI mengungkap total liabilitas turun 45 persen dan total aset turun 22 persen per Juni 2026, dipicu pelunasan utang dan pelepasan anak usaha.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "laporan keuangan",
+   "liabilitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901110410-63247-0/FinancialStatement-2026-II-PSAB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asbi-kuak-penggelapan-gaji-divisi-sdm-rupslb-copot-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Kuak [Penggelapan] Gaji Divisi SDM, RUPSLB Copot Direksi",
+  "deck": "ASBI ungkap skema penggelapan gaji oleh divisi SDM senilai sekitar Rp400 juta per bulan selama 2,5 tahun, lapor polisi dan OJK, RUPSLB 30 September ganti direksi.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "penggelapan",
+   "asuransi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f6edd8ba1_501b867691.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SIPD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham Sreeya Sewu Indonesia. Perseroan menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIPD",
+   "Sreeya Sewu Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e567a4864_f6761b754f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Emisi [Obligasi] Rp3,5 Triliun dan USD13,76 Juta",
+  "deck": "Indah Kiat Pulp & Paper menuntaskan penerbitan obligasi, sukuk mudharabah, dan obligasi dolar AS dengan total setara Rp3,5 triliun ditambah US$13,76 juta, bunga 6,75-10,5 persen per tahun.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa292f4567_f2313e1046.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim",
   "category": "Energi",
   "title": "ESDM Mulai Proyek [Gasifikasi] Batubara Jadi Metanol di Kaltim",
@@ -253,6 +333,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "smcb-bukukan-laba-naik-4-3-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Bukukan Laba [Naik] 4,3% di Semester I 2026",
+  "deck": "Pendapatan Solusi Bangun Indonesia naik 10,6 persen jadi Rp5,50 triliun di semester I 2026, tapi laba operasi inti tergerus lonjakan beban distribusi 44 persen sebelum bunga bank turun.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMCB",
+   "laporan keuangan",
+   "industri semen",
+   "Solusi Bangun Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831205924-64263-0/FinancialStatement-2026-II-SMCB.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "KMDS Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
@@ -429,6 +525,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463938-telkom-solution-terus-perkuat-b2b-ict-bidik-pertumbuhan-bisnis-enterprise-di-kawasan-asia-pasifik"
+ },
+ {
+  "slug": "meds-jelaskan-ke-bursa-soal-kas-menyusut-67-persen-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "MEDS jelaskan ke bursa soal [kas] menyusut 67 persen semester I",
+  "deck": "Hetzer Medical Indonesia menjawab permintaan penjelasan BEI soal koreksi laporan keuangan kuartal I 2026 dan kas yang turun dari Rp779,02 juta menjadi Rp252,69 juta per Juni 2026.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDS",
+   "keterbukaan informasi",
+   "laporan keuangan",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/137fe4c670_e8c2685589.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smbr-laba-semester-i-2026-anjlok-72-jadi-rp21-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMBR: Laba Semester I 2026 [Anjlok] 72% Jadi Rp21,2 Miliar",
+  "deck": "Laba bersih PT Semen Baturaja turun 72,4 persen menjadi Rp21,2 miliar pada semester I 2026, sementara pendapatan hanya turun 12,2 persen akibat kenaikan beban penjualan dan tekanan margin.",
+  "date": "31 Agustus 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "laporan keuangan",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831182144-64342-0/FinancialStatement-2026-II-SMBR.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
@@ -6384,134 +6512,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20082026-3015-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smga-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMGA Jawab Permintaan BEI soal [Volatilitas] Transaksi Saham",
-  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham SMGA. Perseroan menyatakan tidak ada informasi material yang mempengaruhi harga sahamnya.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMGA",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bfe2bc2c8a_cda9b58fd2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wege-digugat-pkpu-oleh-pt-pratama-widya-tbk",
-  "category": "Aksi Korporasi",
-  "title": "WEGE Digugat [PKPU] oleh PT Pratama Widya Tbk",
-  "deck": "Pengadilan Niaga Jakarta Pusat mencatat permohonan PKPU terhadap WEGE dengan PT Pratama Widya Tbk sebagai pemohon. Perseroan akan memverifikasi klaim sebelum menanggapi.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/wege-digugat-pkpu-oleh-pt-pratama-widya-tbk.jpg",
-  "tags": [
-   "WEGE",
-   "PKPU",
-   "Pratama Widya",
-   "konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/066b750dd8_9536cb2973.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-tanggapi-bei-volatilitas-transaksi-pengendali-tetap-70-24",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Tanggapi BEI: [Volatilitas] Transaksi, Pengendali Tetap 70,24%",
-  "deck": "GRPH menjawab permintaan penjelasan BEI soal volatilitas transaksi sahamnya. Pemegang saham utama, PT Mulia Jaya Palma, memastikan tidak ada rencana mengubah kepemilikan 70,24 persen sahamnya.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/grph-tanggapi-bei-volatilitas-transaksi-pengendali-tetap-70-24.jpg",
-  "tags": [
-   "GRPH",
-   "volatilitas saham",
-   "pemegang saham utama",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14749f5738_3d750b7ab5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "real-bentuk-anak-usaha-baru-untuk-garap-data-center",
-  "category": "Aksi Korporasi",
-  "title": "REAL Bentuk Anak Usaha Baru untuk Garap [Data Center]",
-  "deck": "Repower Asia Indonesia mendirikan PT Repower Global Sinergitama dengan modal disetor Rp250 juta, membuka jalan ke bisnis pusat data properti.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REAL",
-   "anak usaha",
-   "data center",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/12fda7d3ef_e91feef0dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bexi-indonesia-eximbank-rombak-direksi-dan-dewan-direktur",
-  "category": "Aksi Korporasi",
-  "title": "BEXI: Indonesia Eximbank Rombak [Direksi] dan Dewan Direktur",
-  "deck": "Indonesia Eximbank mengganti lima direktur pelaksana dan enam anggota Dewan Direktur, dengan Sukatmo Padmosukarso naik jadi Ketua Dewan Direktur efektif akhir Desember 2025.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/bexi-indonesia-eximbank-rombak-direksi-dan-dewan-direktur.jpg",
-  "tags": [
-   "BEXI",
-   "Indonesia Eximbank",
-   "Dewan Direktur",
-   "Perubahan Pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dfa16bb142_ba0ab1f098.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-lpkr-11-september-bahas-penurunan-modal-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB LPKR 11 September Bahas [Penurunan] Modal dan Komisaris",
-  "deck": "Lippo Karawaci mengundang pemegang saham ke RUPSLB 11 September 2026 untuk menyetujui perubahan susunan komisaris dan penurunan modal lewat pembatalan saham treasuri.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/rupslb-lpkr-11-september-bahas-penurunan-modal-dan-komisaris.jpg",
-  "tags": [
-   "LPKR",
-   "RUPSLB",
-   "Lippo Karawaci",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d36059d75d_3b4c887d83.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpck-gelar-rupslb-komisaris-charles-rigoux-mundur",
-  "category": "Aksi Korporasi",
-  "title": "LPCK Gelar RUPSLB, Komisaris [Charles Rigoux] Mundur",
-  "deck": "Lippo Cikarang menggelar RUPSLB pada 11 September 2026 untuk menyetujui pengunduran diri Komisaris Charles Rigoux, susunan pengurus baru berlaku sampai 2029.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/lpck-gelar-rupslb-komisaris-charles-rigoux-mundur.jpg",
-  "tags": [
-   "LPCK",
-   "RUPSLB",
-   "Lippo Cikarang",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/52a75df702_9e9938e406.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-akan-jual-saham-treasuri-mulai-28-agustus-2026",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Akan Jual [Saham Treasuri] Mulai 28 Agustus 2026",
-  "deck": "Eagle High Plantations berencana mengalihkan hingga 402,9 juta saham hasil buyback lewat BEI mulai 28 Agustus 2026, memenuhi kewajiban POJK 29/2023.",
-  "date": "20 Agustus 2026",
-  "image": "assets/img/bwpt-akan-jual-saham-treasuri-mulai-28-agustus-2026.jpg",
-  "tags": [
-   "BWPT",
-   "Eagle High Plantations",
-   "saham treasuri",
-   "buyback"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/78f4abdb14_1f0341c556.pdf",
   "sourceLabel": "IDX"
  }
 ];

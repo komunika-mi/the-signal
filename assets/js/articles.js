@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Jelaskan Saham Melonjak, Pendapatan Turun Rugi [Menyempit]",
+  "deck": "Setelah sahamnya disetop bursa akibat lonjakan harga, Tempo Inti Media memaparkan kinerja semester I 2026: pendapatan turun 3,96 persen tapi rugi bersih menyempit 7,47 persen jadi Rp6,58 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T11:40:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810af7b132_fca403b369.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMPO",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Tempo Inti Media Tbk (TMPO) menggelar Paparan Publik Insidental pada 2 September 2026 sebagai tindak lanjut permintaan Bursa Efek Indonesia. Permintaan itu muncul setelah BEI menghentikan sementara perdagangan saham TMPO mulai 26 Agustus 2026 lewat Pengumuman Nomor Peng-SPT-00155/BEI.WAS/08-2026, menyusul kenaikan harga saham yang dinilai signifikan secara kumulatif. Perdagangan saham TMPO kembali dibuka pada 27 Agustus 2026, dan materi paparan disampaikan ke bursa pada 1 September 2026 pukul 11.40 WIB oleh Corporate Legal Perseroan, Yudianto Sri Wicaksono.",
+   "Dalam materi tersebut, Perseroan melaporkan pendapatan usaha semester I 2026 sebesar Rp79,73 miliar, turun dari Rp83,01 miliar pada periode sama tahun sebelumnya, atau selisih sekitar Rp3,28 miliar. Laba kotor ikut turun dari Rp31,50 miliar menjadi Rp27,69 miliar. Rugi usaha relatif stabil di angka Rp6,36 miliar, sementara rugi bersih tercatat Rp6,58 miliar, membaik 7,47 persen dibandingkan rugi bersih Rp7,11 miliar pada semester I 2025. Perseroan menyebut penurunan pendapatan terutama berasal dari pendapatan iklan, sirkulasi, dan pelatihan, dipengaruhi kehati-hatian belanja iklan pemerintah serta sejumlah proyek besar tahun 2025 yang tidak berulang tahun ini.",
+   "Di luar angka keuangan, Perseroan memaparkan sejumlah agenda transformasi, mulai dari penerapan login wall gratis di Tempo.co sejak 1 Agustus 2026, target rasio konversi pelanggan digital hingga 25 persen, dan target jumlah pelanggan digital naik dari 46.345 pada akhir 2025 menjadi 100.000 pada atau sebelum 2028. Perseroan juga mengembangkan Data Asset Management lewat anak usaha PT Info Media Digital dan unit bisnis baru Business and Political Intelligence, serta menyiapkan film Laut Bercerita, adaptasi novel Leila S. Chudori garapan anak usaha PT Layar Berkembang Senantiasa (Pal8 Pictures), yang dijadwalkan tayang di bioskop pada 29 Oktober 2026. Perseroan menegaskan tidak menyatakan satu faktor tunggal sebagai penyebab kenaikan harga sahamnya, karena pergerakan harga dipengaruhi banyak faktor termasuk kondisi pasar secara umum."
+  ],
+  "fotoAdegan": "Journalists working at their desks in a busy newsroom, screens softly blurred in the background, natural window light in Jakarta.",
+  "takeaway": "Laporan ini netral cenderung hati-hati: rugi bersih memang menyempit 7,47 persen, tapi itu terjadi karena penghematan biaya, bukan karena pendapatan tumbuh, sehingga tidak serta merta membenarkan lonjakan harga saham yang memicu penghentian perdagangan itu. Pos yang tersentuh adalah laba kotor, yaitu selisih pendapatan dengan biaya produksi konten dan operasional inti, yang turun sekitar 12 persen; investor memantau laba kotor karena itu menunjukkan apakah bisnis utama masih menghasilkan margin sebelum dikurangi beban lain, dan penurunannya berarti tekanan pendapatan iklan dan sirkulasi belum tertutup efisiensi. Perseroan sendiri mengakui membaiknya rugi bersih ditopang disiplin biaya, bukan pemulihan penjualan. Yang perlu dipantau berikutnya adalah hasil paparan publik pada 2 September 2026 itu sendiri, serta apakah target pemulihan pendapatan semester II 2026 dan peluncuran film Laut Bercerita pada 29 Oktober 2026 benar-benar memberi tambahan pendapatan baru bagi Perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "psab-lunasi-sebagian-besar-utang-liabilitas-turun-45",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Lunasi Sebagian Besar Utang, Liabilitas Turun [45%]",
+  "deck": "Surat penjelasan J Resources Asia Pasifik ke BEI mengungkap total liabilitas turun 45 persen dan total aset turun 22 persen per Juni 2026, dipicu pelunasan utang dan pelepasan anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T10:50:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901110410-63247-0/FinancialStatement-2026-II-PSAB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "J Resources Asia Pasifik",
+   "laporan keuangan",
+   "liabilitas"
+  ],
+  "body": [
+   "PT J Resources Asia Pasifik Tbk (PSAB) menyampaikan surat penjelasan kepada Bursa Efek Indonesia atas perubahan lebih dari 20 persen pada total aset dan liabilitasnya, sebagaimana diwajibkan Peraturan BEI Nomor I-E butir III.1.1.4. Berdasarkan laporan keuangan interim yang ditelaah terbatas oleh KAP Mirawati Sensi Idris per 30 Juni 2026, total liabilitas perusahaan turun menjadi US$201,36 juta dari US$367,04 juta pada akhir 2025, atau berkurang US$165,68 juta setara 45 persen. Perusahaan menyebut penurunan ini terutama karena pelunasan sebagian besar utang jangka panjang: pinjaman dari pihak berelasi yang sebelumnya US$38,17 juta kini nol, sementara sisa pinjaman bank jangka panjang turun dari US$95,92 juta menjadi US$10,56 juta.",
+   "Di sisi aset, total aset PSAB turun menjadi US$636,87 juta dari US$821,57 juta, berkurang US$184,70 juta atau 22 persen. Perusahaan menjelaskan penyebabnya adalah pelepasan salah satu anak usaha, pembayaran utang, pembagian dividen tunai, dan penyesuaian nilai aset tidak lancar. Dalam neraca, aset tetap turun dari US$205,75 juta menjadi US$164,50 juta dan properti pertambangan turun tajam dari US$240,74 juta menjadi US$109,08 juta. Pos aset senilai US$234,36 juta yang tercatat sebagai 'dimiliki untuk dijual' pada akhir 2025 sudah tidak muncul lagi di neraca Juni 2026, menandakan transaksi pelepasan anak usaha tersebut telah rampung pada semester pertama tahun ini.",
+   "Laporan laba rugi interim mencatat laba periode berjalan melonjak menjadi US$186,57 juta dari US$29,42 juta pada semester I 2025, dengan laba per saham naik dari 0,0007 menjadi 0,0067 dolar AS. Namun di dalam angka itu terselip keuntungan satu kali dari pelepasan anak usaha senilai US$298,6 juta, sementara pada periode yang sama perusahaan juga mencatat kerugian penurunan nilai properti pertambangan US$25,02 juta, kerugian penurunan nilai aset tetap US$59,58 juta, serta beban amortisasi dan penghapusan US$105,57 juta. Kepentingan nonpengendali di neraca, yang mencerminkan porsi pemegang saham minoritas di anak usaha, susut drastis dari US$115,17 juta menjadi hanya US$11.359, sejalan dengan lepasnya anak usaha yang sebelumnya dikonsolidasikan dengan kepemilikan minoritas signifikan."
+  ],
+  "fotoAdegan": "Heavy excavators loading ore onto haul trucks at an open-pit gold mine in North Sulawesi, dusty roads, overcast morning light",
+  "takeaway": "Laporan ini netral bagi PSAB: pelunasan utang jangka panjang yang memangkas liabilitas hingga 45 persen memang memperkuat neraca, tapi lonjakan laba yang dilaporkan sebagian besar berasal dari keuntungan satu kali pelepasan anak usaha senilai US$298,6 juta, bukan dari membaiknya kinerja tambang yang berjalan, jadi tidak bisa dibaca sebagai perbaikan profitabilitas inti. Yang berubah di sini adalah struktur permodalan perusahaan, yaitu perbandingan antara utang dan aset yang dimilikinya. Utang yang lebih kecil berarti perusahaan tidak perlu menyisihkan uang tunai sebesar sebelumnya untuk membayar bunga setiap tahun, tapi aset perusahaan juga ikut menyusut karena satu anak usaha sudah tidak lagi masuk hitungan, sehingga kapasitas produksi ke depan turut berkurang. Yang perlu dipantau adalah laporan keuangan kuartal berikutnya, untuk melihat apakah laba dari operasi tambang yang sebenarnya, tanpa sokongan keuntungan pelepasan anak usaha, benar-benar membaik, mengingat semester ini masih mencatat kerugian penurunan nilai aset tetap dan properti pertambangan dalam jumlah besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asbi-kuak-penggelapan-gaji-divisi-sdm-rupslb-copot-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Kuak [Penggelapan] Gaji Divisi SDM, RUPSLB Copot Direksi",
+  "deck": "ASBI ungkap skema penggelapan gaji oleh divisi SDM senilai sekitar Rp400 juta per bulan selama 2,5 tahun, lapor polisi dan OJK, RUPSLB 30 September ganti direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T10:39:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f6edd8ba1_501b867691.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "penggelapan",
+   "asuransi",
+   "RUPSLB"
+  ],
+  "body": [
+   "Asuransi Bintang Tbk (ASBI) menyampaikan laporan perkembangan kedua atas dugaan tindak pidana penggelapan uang dan investasi yang pertama kali diungkap lewat surat 11 Agustus 2026. Dalam pemeriksaan lanjutan, perusahaan menemukan indikasi kejahatan kolektif yang terstruktur dan dijalankan oleh divisi Human Resources, di bawah kendali pelaku pada kasus utama. Modusnya berupa penggelapan dana perusahaan secara sistematis melalui pembayaran gaji bulanan sekitar Rp400 juta selama sedikitnya 2,5 tahun, yang jika dijumlahkan sepanjang periode tersebut bisa mencapai lebih dari Rp12 miliar.",
+   "Perusahaan melaporkan temuan ini ke kepolisian pada 31 Agustus 2026 dengan Surat Tanda Penerimaan Laporan nomor LP/3454/VIII/2026/SPKT/POLRES METRO JAKSEL/POLDA METRO JAYA, atas dugaan penggelapan dalam jabatan dan tindak pidana pencucian uang terhadap tiga terlapor berinisial JCM, HCP, dan SAA. Pada saat bersamaan, ASBI juga melaporkan dugaan fraud ini ke Otoritas Jasa Keuangan lewat sistem pelaporan online APOLO.",
+   "Terkait dampak keuangan, ASBI melaporkan ke OJK posisi kesehatan keuangan per 31 Juli 2026 setelah membebankan penuh nilai aset investasi yang digelapkan. Rasio pencapaian modal minimum atau RBC tercatat 140,77 persen, rasio kecukupan investasi 178,76 persen, rasio likuiditas 101,78 persen, dan rasio pemenuhan surat berharga negara 3,28 persen. Ekuitas perusahaan berada di angka Rp403 miliar, belum diaudit, mengikuti standar PSAK 117. Dalam hitungan proforma aturan RBC baru yang masih berbentuk draf, modal yang tersedia tercatat Rp371,8 miliar berbanding modal wajib Rp177,9 miliar, sehingga rasio solvabilitasnya mencapai 209 persen.",
+   "Untuk mengatasi likuiditas yang ketat, ASBI mempercepat rencana pelepasan aset properti di Surabaya dan Jakarta, dibantu suntikan dana talangan dari pemegang saham pengendali. Perusahaan juga menyiapkan Rapat Umum Pemegang Saham Luar Biasa pada 30 September 2026 dengan agenda utama penggantian pengurus perseroan dan persetujuan pelepasan aset, sejalan dengan ketentuan Undang-Undang Perseroan Terbatas soal pemberhentian direksi di luar RUPS."
+  ],
+  "fotoAdegan": "Exterior view of a modern high-rise office building in Jakarta's central business district, taxis passing below, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi ASBI karena bukan sekadar pembaruan administratif, melainkan pengungkapan bahwa penggelapan ternyata melibatkan satu divisi penuh secara terstruktur, bukan cuma oknum tunggal, dan perusahaan sampai membutuhkan dana talangan dari pemegang saham pengendali untuk menutup lubang kasnya. Yang tersentuh adalah ekuitas dan rasio kecukupan modal atau RBC, yaitu ukuran seberapa besar bantalan modal perusahaan asuransi dibanding risiko yang ditanggungnya. RBC 140,77 persen itu sudah memperhitungkan kerugian akibat penggelapan dan masih di atas batas minimum yang lazim disyaratkan regulator, tetapi rasio likuiditas 101,78 persen menunjukkan bantalan kas cair perusahaan tipis, sehingga topangan dana dari pemegang saham pengendali menjadi penentu apakah arus kas perusahaan tetap aman. Yang perlu dipantau berikutnya adalah RUPSLB pada 30 September 2026, yang akan menentukan susunan pengurus baru perusahaan dan apakah pelepasan aset properti di Surabaya dan Jakarta benar terlaksana untuk menambal likuiditas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "SIPD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham Sreeya Sewu Indonesia. Perseroan menyatakan tidak ada informasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T09:26:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e567a4864_f6761b754f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIPD",
+  "tags": [
+   "SIPD",
+   "Sreeya Sewu Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Sreeya Sewu Indonesia Tbk (SIPD) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) menyusul surat permintaan penjelasan bernomor S-11127/BEI.PP1/08-2026 yang diterima perseroan pada 28 Agustus 2026, terkait volatilitas transaksi efek sahamnya. Surat tanggapan bernomor 061/Corp-CS-K/VIII/26 tertanggal 31 Agustus 2026 itu ditandatangani oleh Natanael Yuyun Suryadi, Direktur sekaligus Sekretaris Perusahaan SIPD.",
+   "Dalam tanggapannya, perseroan menjawab enam pertanyaan standar yang biasa diajukan bursa saat ada pergerakan transaksi tidak wajar. SIPD menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E, serta tidak mengetahui adanya aktivitas pemegang saham tertentu yang belum dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham.",
+   "Perseroan juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa, dan operasional bisnisnya berjalan normal. Corporate Secretary turut mengonfirmasi langsung kepada pemegang saham utama dan pengendali perseroan, yang menyatakan tidak memiliki rencana tertentu terkait kepemilikan sahamnya yang bisa memengaruhi harga efek atau status pencatatan SIPD di bursa.",
+   "Isi lengkap dokumen tidak mencantumkan berapa besar volatilitas harga atau volume transaksi yang memicu permintaan penjelasan tersebut."
+  ],
+  "fotoAdegan": "Workers in blue uniforms inspecting rows of poultry cages inside a large modern chicken farm, soft morning light",
+  "takeaway": "Tanggapan ini netral bagi pemegang saham SIPD, sebab isinya adalah bantahan standar tanpa informasi baru: perseroan hanya menegaskan tidak ada yang perlu diungkapkan, tanpa data tambahan soal kondisi keuangan atau bisnisnya. Surat semacam ini keluar karena bursa mendeteksi pergerakan transaksi saham yang tidak wajar, dikenal sebagai Unusual Market Activity, dan meminta emiten mengonfirmasi apakah ada penyebab fundamental di baliknya; jawaban SIPD tidak menyentuh pos kinerja apa pun seperti laba, arus kas, atau jumlah saham beredar, karena memang tidak ada aksi korporasi yang diumumkan. Yang perlu dipantau berikutnya adalah apakah pergerakan harga saham SIPD mereda atau justru berlanjut dalam beberapa waktu ke depan, serta apakah bursa mengambil langkah lanjutan seperti notasi khusus jika pola transaksi tidak wajar itu berulang, mengingat perseroan sendiri menyatakan tidak ada rencana korporasi hingga sekitar akhir November 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
+  "category": "Aksi Korporasi",
+  "title": "INKP Rampungkan Emisi [Obligasi] Rp3,5 Triliun dan USD13,76 Juta",
+  "deck": "Indah Kiat Pulp & Paper menuntaskan penerbitan obligasi, sukuk mudharabah, dan obligasi dolar AS dengan total setara Rp3,5 triliun ditambah US$13,76 juta, bunga 6,75-10,5 persen per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:14:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa292f4567_f2313e1046.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "pasar modal"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) mengumumkan rampungnya proses penawaran umum berkelanjutan tiga instrumen utang pada 31 Agustus 2026. Obligasi Berkelanjutan VI Tahap III diterbitkan senilai Rp2 triliun, terdiri dari Seri A Rp1,714 triliun berbunga tetap 10 persen per tahun bertenor 3 tahun, dan Seri B Rp285,53 miliar berbunga 10,5 persen bertenor 5 tahun. Sukuk Mudharabah Berkelanjutan V Tahap III diterbitkan Rp1,5 triliun, dengan Seri A Rp766,865 miliar memberi nisbah bagi hasil 45,71 persen (setara imbal hasil 10 persen) dan Seri B Rp733,135 miliar dengan nisbah 48 persen (setara 10,5 persen). Perusahaan juga menerbitkan Obligasi USD Berkelanjutan III Tahap II senilai total US$13.760.500, dengan Seri A US$10.962.500 berbunga 6,75 persen bertenor 3 tahun dan Seri B US$2.798.000 berbunga 7,25 persen bertenor 5 tahun.",
+   "Seluruh pokok obligasi dan sukuk dibayar penuh saat jatuh tempo (bullet payment), sementara bunga dan bagi hasil dibayarkan setiap tiga bulan. Pembayaran pertama untuk ketiga instrumen jatuh pada 3 Desember 2026, dan pelunasan terakhir sekaligus jatuh tempo adalah 3 September 2029 untuk seri bertenor 3 tahun serta 3 September 2031 untuk seri bertenor 5 tahun. Penjaminan emisi rupiah dipimpin PT BCA Sekuritas untuk obligasi (21,28 persen porsi) dan PT Aldiracita Sekuritas Indonesia untuk sukuk mudharabah (32,67 persen), sedangkan penjaminan obligasi dolar AS didominasi PT Aldiracita Sekuritas Indonesia dengan porsi 57,41 persen. Wali amanat untuk seluruh instrumen adalah PT Bank KB Indonesia Tbk, dan ketiganya akan dicatatkan di Bursa Efek Indonesia.",
+   "Dokumen yang disampaikan hari ini merupakan perbaikan dan tambahan atas Informasi Tambahan Ringkas yang sudah lebih dulu dipublikasikan di situs perusahaan pada tanggal yang sama, sesuai kewajiban keterbukaan dalam POJK Nomor 36/POJK.04/2014 tentang Penawaran Umum Berkelanjutan Efek Bersifat Utang dan/atau Sukuk."
+  ],
+  "fotoAdegan": "Workers loading large rolls of paper onto trucks at a busy pulp and paper mill loading dock in Indonesia.",
+  "takeaway": "Laporan ini netral bagi INKP karena merupakan penyelesaian dari program obligasi berkelanjutan yang memang sudah efektif sejak awal tahun, bukan keputusan pendanaan baru yang mengubah arah bisnis secara mendadak. Yang tersentuh adalah pos utang dan beban bunga perusahaan: total pinjaman baru sekitar Rp3,5 triliun ditambah setara Rp225 miliar dalam dolar AS akan menambah kewajiban bunga tahunan 6,75 sampai 10,5 persen tergantung serinya, dan pembayarannya setiap tiga bulan akan memengaruhi arus kas keluar perusahaan mulai Desember 2026. Penerbitan ini juga tampak menggantikan sebagian utang lama, mengingat INKP baru saja melunasi obligasi dan sukuk senilai Rp2,49 triliun yang jatuh tempo pada 27 Agustus 2026. Yang perlu dipantau selanjutnya adalah realisasi penggunaan dana hasil penerbitan yang wajib dilaporkan ke bursa, serta jatuh tempo pertama pada 3 September 2029 untuk seri bertenor tiga tahun.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim",
   "category": "Energi",
   "title": "ESDM Mulai Proyek [Gasifikasi] Batubara Jadi Metanol di Kaltim",
@@ -404,6 +536,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "smcb-bukukan-laba-naik-4-3-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMCB Bukukan Laba [Naik] 4,3% di Semester I 2026",
+  "deck": "Pendapatan Solusi Bangun Indonesia naik 10,6 persen jadi Rp5,50 triliun di semester I 2026, tapi laba operasi inti tergerus lonjakan beban distribusi 44 persen sebelum bunga bank turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T20:48:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831205924-64263-0/FinancialStatement-2026-II-SMCB.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "laporan keuangan",
+   "industri semen",
+   "Solusi Bangun Indonesia"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) menyampaikan laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026, yang telah ditelaah secara terbatas oleh Kantor Akuntan Publik Liana Ramon Xenia & Rekan dengan partner penanggung jawab Yusuf Ismail Abdul Karim, tertanggal 28 Agustus 2026. Surat pernyataan direksi ditandatangani Direktur Utama Rizki Kresno Edhie Hambali dan Direktur Keuangan & Manajemen Risiko Asruddin, sementara surat pengantar ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia ditandatangani Sekretaris Perusahaan Andika Lukmana.",
+   "Pendapatan perseroan tercatat Rp5,50 triliun pada semester I 2026, naik 10,6 persen dari Rp4,97 triliun pada periode sama tahun lalu. Laba kotor naik menjadi Rp1,20 triliun dari Rp1,04 triliun. Namun beban distribusi dan penjualan melonjak 44 persen menjadi Rp619,85 miliar dari Rp430,20 miliar, sehingga laba sebelum bunga dan pajak justru turun tipis menjadi Rp437,04 miliar dari Rp443,72 miliar. Beban keuangan turun signifikan menjadi Rp51,71 miliar dari Rp87,79 miliar setelah perseroan melunasi seluruh pinjaman bank jangka pendeknya. Dengan begitu, laba bersih periode berjalan naik 4,3 persen menjadi Rp278,01 miliar dari Rp266,53 miliar, dengan laba per saham Rp31 dibandingkan Rp30 pada semester I 2025.",
+   "Total aset perseroan per 30 Juni 2026 sebesar Rp20,42 triliun, sementara total ekuitas turun tipis menjadi Rp13,17 triliun dari Rp13,20 triliun karena dividen yang dibayarkan sebesar Rp329,37 miliar melebihi laba periode berjalan. Arus kas bersih dari aktivitas operasi melonjak menjadi Rp1,05 triliun dari Rp332,41 miliar pada semester I 2025, dan dana ini dipakai antara lain untuk melunasi pinjaman bank jangka pendek Rp400 miliar, membayar cicilan pinjaman jangka panjang Rp100 miliar, serta dividen Rp328,64 miliar. Akibatnya kas dan setara kas di akhir periode turun menjadi Rp177,26 miliar dari Rp215,22 miliar di awal periode. Di sisi lain, utang usaha kepada pihak ketiga naik 25 persen menjadi Rp2,33 triliun dan piutang usaha kepada pihak berelasi naik menjadi Rp2,12 triliun dari Rp1,91 triliun. Jumlah karyawan Grup tercatat 1.674 orang per 30 Juni 2026, berkurang dari 1.750 orang di akhir 2025. Dokumen ini juga mencantumkan bahwa saham SMCB saat ini tercatat pada Papan Pemantauan Khusus di Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Cement mixer trucks queued at a quarry loading dock, dust hanging in the air, workers in hard hats and vests nearby, late afternoon light",
+  "takeaway": "Laporan ini netral bagi pemegang saham SMCB karena sinyalnya campuran, kenaikan laba bersih 4,3 persen sebenarnya lebih banyak didorong oleh turunnya beban bunga setelah perseroan melunasi seluruh pinjaman bank jangka pendeknya, bukan oleh perbaikan kinerja usaha inti. Laba sebelum bunga dan pajak, yaitu keuntungan murni dari operasi sebelum dikurangi biaya pinjaman dan pajak, justru turun tipis meski pendapatan naik 10,6 persen, karena beban distribusi dan penjualan melonjak 44 persen. Di sisi lain, arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari bukan sekadar angka di atas kertas, melonjak hampir tiga kali lipat menjadi Rp1,05 triliun, dan itu yang memungkinkan perseroan melunasi utang bank jangka pendek serta membayar dividen tanpa menambah pinjaman baru. Yang perlu dicermati adalah apakah lonjakan beban distribusi ini berlanjut di laporan kuartal III 2026, sebab jika berulang, tekanan pada margin operasi bisa makin terlihat meski penjualan tumbuh. Piutang usaha ke pihak berelasi yang membesar jadi Rp2,12 triliun, setara sekitar 10 persen dari total aset perseroan, juga pantas ditelusuri lebih lanjut karena porsinya cukup besar untuk transaksi antar perusahaan terafiliasi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "KMDS Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
@@ -691,6 +849,59 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah Telkom Solution mengemas ulang layanannya, dari sekadar jaringan internet dan telekomunikasi menjadi satu paket solusi digital yang mencakup komputasi awan, keamanan siber, dan kecerdasan buatan sekaligus, lalu memakainya untuk menyasar pelanggan korporat di luar Indonesia. Yang kena dampak langsung adalah pelanggan bisnis atau perusahaan yang selama ini memakai layanan Telkom, karena mereka akan ditawari paket layanan yang lebih terintegrasi dibanding sebelumnya. Berita ini belum menyebut angka konkret seperti target pendapatan, nilai kontrak, atau berapa persen pertumbuhan yang dibidik dari segmen ini, sehingga belum bisa dipastikan seberapa besar skala ekspansi yang sebenarnya dijalankan. Yang perlu ditunggu adalah apakah muncul pengumuman kerja sama bisnis konkret setelah ajang BATIC 2026 di Bali, atau angka kontribusi bisnis digital dan enterprise pada laporan keuangan Telkom berikutnya, karena itu yang akan menunjukkan apakah rencana ini benar berjalan atau baru sebatas pernyataan strategi.",
   "imageV": "mthi424e"
+ },
+ {
+  "slug": "meds-jelaskan-ke-bursa-soal-kas-menyusut-67-persen-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "MEDS jelaskan ke bursa soal [kas] menyusut 67 persen semester I",
+  "deck": "Hetzer Medical Indonesia menjawab permintaan penjelasan BEI soal koreksi laporan keuangan kuartal I 2026 dan kas yang turun dari Rp779,02 juta menjadi Rp252,69 juta per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T18:35:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/137fe4c670_e8c2685589.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "keterbukaan informasi",
+   "laporan keuangan",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Hetzer Medical Indonesia Tbk (MEDS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-11057/BEI.PP3/08-2026 tertanggal 26 Agustus 2026. Surat itu mempertanyakan dua hal, yaitu koreksi laporan keuangan periode 31 Maret 2026 yang baru disampaikan perusahaan pada 29 Juli 2026, serta penurunan tajam saldo kas dan bank pada laporan keuangan per 30 Juni 2026. Tanggapan ditandatangani oleh Direktur Utama dr. Yenny Marlina pada 31 Agustus 2026.",
+   "Soal koreksi laporan keuangan, perusahaan menjelaskan bahwa pendapatan jasa machining senilai Rp662.033.000 dipindahkan dari pos Pendapatan Lain-lain ke Pendapatan Utama, atas masukan Kantor Akuntan Publik agar mencerminkan kegiatan usaha yang sebenarnya. Perubahan ini juga mengoreksi nilai persediaan dari Rp14.169.778.825 menjadi Rp13.945.642.923, karena beban pokok pendapatan jasa machining dialokasikan secara proporsional berdasarkan persentase pemakaian mesin produksi yang sama dengan yang dipakai untuk membuat stetoskop dan tensimeter. Perusahaan beralasan koreksi baru disampaikan menjelang laporan kuartal II karena mempertimbangkan arahan OJK soal penyampaian laporan keuangan dalam dua bahasa.",
+   "Mengenai kas, saldo kas dan bank perusahaan tercatat Rp252,69 juta per 30 Juni 2026, turun dari Rp779,02 juta pada akhir Desember 2025. Perusahaan menyebut penurunan itu akibat naiknya aktivitas operasional dan produksi seiring pertumbuhan penjualan, yang berimbas pada pembayaran ke pemasok bahan baku, cicilan pembelian mesin produksi, upah tenaga kerja, dan biaya perkakas mesin pabrik. Rata-rata saldo kas dan bank bulanan perusahaan tercatat Rp350.065.360, sementara piutang usaha per 30 Juni 2026 meningkat lebih dari empat kali lipat dibanding akhir 2025, dengan rata-rata masa penagihan 60 hari. Perusahaan juga mengonfirmasi sudah tidak lagi menyimpan dana di PT Bank Mandiri (Persero) Tbk dan PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, dan memusatkan seluruh transaksi ke PT Bank Central Asia Tbk untuk menekan biaya administrasi antarbank.",
+   "Terkait piutang, perusahaan menyatakan tidak membukukan tambahan cadangan kerugian penurunan nilai (CKPN) meski piutang naik, dengan alasan belum ada piutang macet. Perusahaan secara spesifik menyebut piutang dari PT Buana Inti Prima Usaha belum berubah karena belum ada pembayaran, yang menurut penjelasan MEDS disebabkan kesulitan likuiditas pihak tersebut akibat belum menerima pelunasan dari pelanggannya, termasuk rumah sakit pemerintah."
+  ],
+  "fotoAdegan": "Factory workers assembling stethoscopes and blood pressure monitors on a production line in an industrial workshop, focused hands, machinery nearby",
+  "takeaway": "Laporan ini condong negatif bagi MEDS, karena bursa sampai perlu meminta penjelasan atas dua hal sekaligus, koreksi laporan keuangan dan kas yang menipis, dan jawaban perusahaan menunjukkan tekanan arus kas yang nyata meski dibingkai sebagai efek pertumbuhan usaha. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar tersedia untuk operasional, yang turun 67 persen dalam enam bulan menjadi Rp252,69 juta, sementara piutang usaha, yaitu uang penjualan yang belum dibayar pelanggan, justru naik lebih dari empat kali lipat. Pola ini penting diperhatikan pasar karena berarti pendapatan yang tercatat di laporan laba rugi belum tentu sudah jadi uang tunai di rekening perusahaan, sehingga perusahaan bergantung pada kelancaran penagihan piutang untuk membiayai operasionalnya sendiri. Koreksi laporan keuangan kuartal I, meski dijelaskan sebagai reklasifikasi pendapatan, juga menambah catatan tentang keakuratan pelaporan perusahaan pada periode sebelumnya. Yang perlu dipantau berikutnya adalah apakah piutang dari PT Buana Inti Prima Usaha, yang tertahan karena pelanggannya termasuk rumah sakit pemerintah belum membayar, akhirnya cair, serta apakah laporan keuangan kuartal III 2026 menunjukkan saldo kas sudah pulih.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "smbr-laba-semester-i-2026-anjlok-72-jadi-rp21-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMBR: Laba Semester I 2026 [Anjlok] 72% Jadi Rp21,2 Miliar",
+  "deck": "Laba bersih PT Semen Baturaja turun 72,4 persen menjadi Rp21,2 miliar pada semester I 2026, sementara pendapatan hanya turun 12,2 persen akibat kenaikan beban penjualan dan tekanan margin.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "31 Agustus 2026",
+  "isoDate": "2026-08-31T18:13:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831182144-64342-0/FinancialStatement-2026-II-SMBR.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "laporan keuangan",
+   "BUMN"
+  ],
+  "body": [
+   "PT Semen Baturaja (Persero) Tbk (SMBR) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk semester I 2026 yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia. Berdasarkan laporan yang ditelaah secara terbatas oleh Kantor Akuntan Publik Liana Ramon Xenia & Rekan dengan partner Yusuf Ismail Abdul Karim, pendapatan perusahaan tercatat Rp960,12 miliar pada semester I 2026, turun 12,2 persen dari Rp1,09 triliun pada periode yang sama tahun lalu.",
+   "Penurunan pendapatan diikuti tekanan margin yang lebih besar. Laba kotor turun 18,1 persen menjadi Rp265,01 miliar, sementara laba usaha anjlok 57,7 persen menjadi Rp55,43 miliar. Beban penjualan justru naik 17,7 persen menjadi Rp123,62 miliar meski pendapatan turun, sedangkan beban umum dan administrasi relatif stabil di Rp98,84 miliar. Dengan EBITDA turun 38,5 persen menjadi Rp145,26 miliar, laba bersih yang dapat diatribusikan kepada pemilik entitas induk terpangkas 72,4 persen menjadi Rp21,21 miliar dari Rp76,93 miliar, sehingga laba per saham turun dari Rp8 menjadi Rp2.",
+   "Di sisi neraca, perusahaan mengurangi total pinjaman bank dari Rp405,79 miliar pada akhir 2025 menjadi Rp300,16 miliar pada akhir Juni 2026, termasuk pembayaran pokok pinjaman bank Rp110 miliar selama semester tersebut. Beban keuangan pun ikut turun 39 persen menjadi Rp18,80 miliar seiring berkurangnya utang. Perusahaan juga membayarkan dividen Rp34,38 miliar pada periode ini, naik dari Rp25,85 miliar tahun sebelumnya. Kas dan setara kas berada di Rp58,71 miliar per akhir Juni 2026, sedikit turun dari Rp60,85 miliar pada akhir 2025, sementara arus kas bersih dari aktivitas operasi justru meningkat menjadi Rp179,74 miliar dari Rp136,51 miliar pada semester I 2025."
+  ],
+  "fotoAdegan": "Industrial cement plant with tall storage silos and conveyor belts, workers in hard hats and safety vests, dusty daylight haze.",
+  "takeaway": "Laporan ini condong negatif bagi SMBR karena laba bersihnya anjlok jauh lebih dalam, 72,4 persen, dibandingkan penurunan pendapatan yang hanya 12,2 persen, tanda bahwa biaya perusahaan tidak ikut menyusut sebanding dengan penjualan. Yang paling terdampak adalah laba per saham, yaitu bagian keuntungan yang secara teoritis menjadi hak tiap lembar saham, yang turun dari Rp8 menjadi Rp2, serta margin usaha yang tergerus karena beban penjualan justru naik 17,7 persen di tengah pendapatan yang melemah. Ada sisi yang meringankan, perusahaan memangkas pinjaman bank sekitar 26 persen dalam enam bulan sehingga beban bunga ikut turun 39 persen, yang mengurangi tekanan pada arus kas ke depan meski labanya susut. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah penurunan laba ini berlanjut atau mulai membaik menjelang akhir tahun.",
+  "sentimen": "negatif"
  },
  {
   "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",

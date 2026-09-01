@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "gHPBLC9HNa4",
+  "title": "Kuota FLPP Naik Jadi 350 Ribu Unit, Perluas Akses Rumah Subsidi",
+  "category": "Perbankan",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah menaikkan kuota Fasilitas Likuiditas Pembiayaan Perumahan tahun 2026 menjadi 350 ribu unit untuk memperluas akses masyarakat terhadap rumah subsidi.",
+  "takeaway": "Kenaikan kuota FLPP relevan bagi pembaca karena berdampak langsung pada sektor pembiayaan perumahan dan daya beli masyarakat berpenghasilan rendah.",
+  "terbit": "2026-09-01T01:31:39+00:00"
+ },
+ {
   "id": "hpu08C2Bg8c",
   "title": "Polemik Data Desil dalam DTSEN",
   "category": "Makroekonomi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
   "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time.",
   "terbit": "2026-08-26T12:33:12+00:00"
- },
- {
-  "id": "H4C5Fei2534",
-  "title": "DPR Terima Audiensi Serikat Buruh PT Pos Indonesia",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "Pimpinan DPR dan Komisi VI menggelar audiensi dengan serikat buruh PT Pos Indonesia membahas persoalan ketenagakerjaan di perusahaan pelat merah itu.",
-  "takeaway": "Audiensi ini menyangkut nasib pekerja BUMN logistik nasional yang tengah menghadapi tantangan bisnis.",
-  "terbit": "2026-08-26T14:52:36+00:00"
  }
 ];

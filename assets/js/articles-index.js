@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Gelar RUPSLB 8 Oktober, Agenda [Pergantian] Pengurus",
+  "deck": "PT Humpuss Maritim Internasional Tbk menjadwalkan RUPSLB pada 8 Oktober 2026 dengan agenda tunggal persetujuan perubahan pengurus perseroan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "Humpuss Maritim Internasional",
+   "pergantian pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29b86127c0_6bb83e46ef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnii-rampungkan-pengambilalihan-saham-msi-dan-mam",
+  "category": "Aksi Korporasi",
+  "title": "BNII Rampungkan [Pengambilalihan] Saham MSI dan MAM",
+  "deck": "Bank Maybank Indonesia merampungkan pengambilalihan saham di dua anak usaha, PT Maybank Sekuritas Indonesia dan PT Maybank Asset Management, per Agustus 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNII",
+   "Maybank Indonesia",
+   "akuisisi",
+   "Maybank Sekuritas Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9c625e2eb_08dfbafc6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "supa-revisi-laporan-dana-ipo-belanja-modal-baru-terserap-3-7",
+  "category": "Aksi Korporasi",
+  "title": "SUPA Revisi Laporan Dana IPO: [Belanja Modal] Baru Terserap 3,7%",
+  "deck": "Revisi laporan dana IPO SUPA menambah persentase deviasi: belanja modal baru terealisasi 3,7% dari target 30%, sisa dana Rp719,2 miliar disimpan di deposit BI.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPA",
+   "penggunaan dana IPO",
+   "belanja modal",
+   "Super Bank Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b5ea392ff_bb69c0cbed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nice-jelaskan-lonjakan-harga-saham-14-12-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "NICE Jelaskan Lonjakan [Harga] Saham 14,12% ke BEI",
+  "deck": "PT Adhi Kartiko Pratama Tbk menegaskan tidak ada informasi material di balik lonjakan harga sahamnya 14,12 persen pada 27 Agustus 2026, sesuai permintaan penjelasan Bursa Efek Indonesia.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef41e71c22_82da023f64.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tris-bagikan-dividen-interim-rp2-27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Bagikan [Dividen] Interim Rp2,27 per Saham",
+  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dengan pembayaran pada 23 September 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIS",
+   "dividen interim",
+   "Trisula International",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2fee03129_8f84c44ccf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bwpt-likuiditas-ketat-rp500-m-mengendap-di-obligasi-2",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: [Likuiditas] Ketat, Rp500 M Mengendap di Obligasi 2%",
+  "deck": "Dalam tanggapan ke Bursa, Eagle High Plantations mengungkap rasio lancar 0,67 kali dan Rp500 miliar dana ditempatkan di obligasi Danantara berkupon 2% per tahun, sementara utang bank masih besar.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "likuiditas",
+   "obligasi Danantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69cc60f983_ffd69591b7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nfcx-jelaskan-volatilitas-pemegang-saham-utama-tambah-saham",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Jelaskan Volatilitas, Pemegang Saham Utama [Tambah] Saham",
+  "deck": "NFCX menjawab permintaan BEI soal volatilitas transaksi, mengungkap pembelian saham oleh PT 1 Inti Dot Com dan rencana penambahan modal yang belum dijadwalkan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NFCX",
+   "volatilitas saham",
+   "PMTHMETD",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/74493ac8d4_19dbaba655.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tris-bagi-dividen-interim-rp2-27-saham-cair-23-september-dividen",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Bagi Dividen Interim Rp2,27/Saham, Cair 23 September [dividen]",
+  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dibayarkan 23 September kepada pemegang saham yang tercatat 11 September.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIS",
+   "dividen interim",
+   "Trisula International",
+   "emiten tekstil"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b8ad1e57d_db9f6b3b88.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
   "category": "Bisnis",
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
@@ -6392,134 +6520,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/19de197cbb_9abf8f9472.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-direksi-jual-9-35-juta-saham-suara-tetap-mayoritas",
-  "category": "Aksi Korporasi",
-  "title": "INPS: Direksi [Jual] 9,35 Juta Saham, Suara Tetap Mayoritas",
-  "deck": "Direksi Graha Inti Guna Persada melepas 9,35 juta saham INPS senilai sekitar Rp3,27 miliar pada 20 Agustus 2026, hak suaranya turun tipis jadi 80,62 persen.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "kepemilikan saham",
-   "direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-1389-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-ekuitas-positif-rp3-59-triliun-usai-rights-issue",
-  "category": "Aksi Korporasi",
-  "title": "SINI: Ekuitas [Positif] Rp3,59 Triliun Usai Rights Issue",
-  "deck": "Laporan keuangan per 31 Juli 2026 menunjukkan ekuitas SINI berbalik positif jadi Rp3,59 triliun dari defisit Rp687,4 miliar, usai rampungnya penawaran umum terbatas.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "rights issue",
-   "ekuitas",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5edda94582_4633c5250a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supr-protelindo-perpanjang-tender-offer-hingga-23-september",
-  "category": "Aksi Korporasi",
-  "title": "SUPR: Protelindo perpanjang [tender offer] hingga 23 September",
-  "deck": "Protelindo memperpanjang masa penawaran tender sukarela atas saham SUPR selama 30 hari dengan harga tetap Rp45.000 per saham, hingga 23 September 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "tender offer",
-   "go private",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ba017ca88c_c2d77c158a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-perpanjang-tender-saham-solusi-tunas-pratama-tbk",
-  "category": "Aksi Korporasi",
-  "title": "PRTL [perpanjang] tender saham Solusi Tunas Pratama Tbk",
-  "deck": "Protelindo memperpanjang masa penawaran tender sukarela atas saham Solusi Tunas Pratama Tbk selama 30 hari hingga 23 September 2026, dengan harga tetap Rp45.000 per saham.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "tender offer",
-   "Solusi Tunas Pratama",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/64ff399ea5_1e38c3a7ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmf-rombak-direksi-dan-komisaris-lynn-ramli-jadi-dirut",
-  "category": "Aksi Korporasi",
-  "title": "SMMF Rombak [Direksi] dan Komisaris, Lynn Ramli Jadi Dirut",
-  "deck": "Pemegang saham SMMF mengganti direktur utama dan komisaris utama lewat keputusan sirkuler RUPST, efektif menjabat setelah lolos uji kelayakan OJK.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMF",
-   "pergantian direksi",
-   "komisaris",
-   "Sinar Mas Multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3d7755d64a_d681e5a3f2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmf-ubah-anggaran-dasar-perluas-lini-usaha-pembiayaan",
-  "category": "Aksi Korporasi",
-  "title": "SMMF Ubah Anggaran Dasar, Perluas [Lini Usaha] Pembiayaan",
-  "deck": "SMMF mengesahkan perubahan anggaran dasar lewat keputusan sirkuler pemegang saham, memperluas izin usaha ke pembiayaan infrastruktur dan perdagangan internasional sesuai KBLI 2025.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMF",
-   "anggaran dasar",
-   "RUPST",
-   "multifinance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fdb2fb4500_9c1eb4d921.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tspc-bogamulia-nagadi-tambah-2-1-juta-saham-kepemilikan-91-04",
-  "category": "Aksi Korporasi",
-  "title": "TSPC: Bogamulia Nagadi tambah [2,1 juta] saham, kepemilikan 91,04%",
-  "deck": "Bogamulia Nagadi, pemegang saham utama TSPC, membeli 2.114.200 saham pada 19 Agustus 2026, menaikkan kepemilikan menjadi 91,04 persen.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TSPC",
-   "kepemilikan saham",
-   "Tempo Scan Pacific",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-3277-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bslt-fitch-afirmasi-rating-a-idn-outlook-stabil",
-  "category": "Aksi Korporasi",
-  "title": "BSLT: Fitch afirmasi rating A(idn), outlook [stabil]",
-  "deck": "Fitch Ratings Indonesia mempertahankan peringkat nasional Bank SulutGo di A(idn) dengan outlook stabil, sepekan sebelum obligasi Rp750 miliar jatuh tempo 7 September 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSLT",
-   "Bank SulutGo",
-   "Fitch Ratings",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1cc960ec19_fa83590e20.pdf",
   "sourceLabel": "IDX"
  }
 ];

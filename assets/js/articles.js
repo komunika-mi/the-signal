@@ -3,6 +3,217 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
+  "category": "Aksi Korporasi",
+  "title": "HUMI Gelar RUPSLB 8 Oktober, Agenda [Pergantian] Pengurus",
+  "deck": "PT Humpuss Maritim Internasional Tbk menjadwalkan RUPSLB pada 8 Oktober 2026 dengan agenda tunggal persetujuan perubahan pengurus perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T18:15:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29b86127c0_6bb83e46ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "RUPSLB",
+   "Humpuss Maritim Internasional",
+   "pergantian pengurus"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 8 Oktober 2026 pukul 14.30 hingga 15.30 WIB, bertempat di Mangkuluhur City Tower One, Meeting Room lantai 26, Jalan Gatot Subroto Kav. 1-3, Jakarta Selatan. Berdasarkan dokumen yang diserahkan ke KSEI, agenda tunggal rapat ini adalah persetujuan perubahan pengurus Perseroan, dengan kuorum minimum kehadiran sebesar 9.031.335.797 saham agar keputusan bisa sah, dari total 148.063.771.579 saham yang beredar. Dokumen belum merinci nama pengurus yang akan diganti maupun jabatan penggantinya.",
+   "Pemegang saham yang berhak hadir atau memberikan suara dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Selasa, 15 September 2026 pukul 16.00 WIB. Surat panggilan resmi beserta mata acara lengkap rapat baru akan diumumkan melalui situs web Perseroan, situs Bursa Efek Indonesia, dan sistem eASY.KSEI pada Rabu, 16 September 2026. Perseroan juga mengimbau pemegang saham memanfaatkan fasilitas kuasa elektronik atau e-Proxy melalui eASY.KSEI, yang tersedia sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB digelar.",
+   "Sesuai Anggaran Dasar Perseroan dan POJK No. 15/2020, pemegang saham yang mewakili minimal satu per dua puluh atau 5 persen dari seluruh saham dengan hak suara sah berhak mengusulkan mata acara tambahan. Usulan tersebut, lengkap dengan alasan dan bahan pendukungnya, harus sudah diterima Direksi Perseroan paling lambat tujuh hari sebelum tanggal pemanggilan rapat, atau sekitar 9 September 2026. Surat pemberitahuan ini ditandatangani Direktur Utama I Gusti Ngurah Askarara Wanadiputra dan disampaikan kepada Otoritas Jasa Keuangan pada 1 September 2026."
+  ],
+  "fotoAdegan": "Empty corporate conference room with rows of chairs facing a podium, large windows overlooking a city skyline, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi HUMI karena baru memberitahukan rencana rapat, belum merinci siapa pengurus yang akan diganti, digantikan oleh siapa, atau alasan penggantiannya, sehingga pasar belum punya dasar untuk menilai dampaknya. Yang tersentuh di sini adalah mekanisme kuorum dan hak suara pemegang saham, yaitu jumlah minimum saham yang harus hadir atau diwakili agar keputusan rapat sah secara hukum. Untuk agenda perubahan pengurus ini, ambang kuorumnya sekitar 9,03 miliar saham dari total 148,06 miliar saham beredar Perseroan, dan yang berhak memberi suara hanya pemegang saham yang tercatat per 15 September 2026. Investor perlu memantau surat pemanggilan resmi pada 16 September 2026, yang biasanya baru memuat detail lengkap termasuk nama calon pengurus baru, serta hasil RUPSLB itu sendiri pada 8 Oktober 2026 yang akan menentukan susunan direksi dan atau komisaris Perseroan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bnii-rampungkan-pengambilalihan-saham-msi-dan-mam",
+  "category": "Aksi Korporasi",
+  "title": "BNII Rampungkan [Pengambilalihan] Saham MSI dan MAM",
+  "deck": "Bank Maybank Indonesia merampungkan pengambilalihan saham di dua anak usaha, PT Maybank Sekuritas Indonesia dan PT Maybank Asset Management, per Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T18:11:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9c625e2eb_08dfbafc6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNII",
+  "tags": [
+   "BNII",
+   "Maybank Indonesia",
+   "akuisisi",
+   "Maybank Sekuritas Indonesia"
+  ],
+  "body": [
+   "PT Bank Maybank Indonesia Tbk (BNII) bersama direksi PT Maybank Sekuritas Indonesia (MSI) dan PT Maybank Asset Management (MAM) mengumumkan di harian Neraca pada 1 September 2026 bahwa proses pengambilalihan saham di kedua anak usaha tersebut telah rampung. Pengumuman ini merupakan kewajiban keterbukaan pasca akuisisi sesuai Pasal 133 Undang-Undang Perseroan Terbatas.",
+   "Di PT MSI, BNII mengambil alih 36.367.000 saham yang sebelumnya dimiliki Maybank IBG Holdings Limited, entitas Maybank di luar negeri, sekaligus mengambil bagian atas 219.660.000 saham baru yang diterbitkan MSI. Transaksi ini tercatat dalam akta pernyataan keputusan pemegang saham tertanggal 4 Agustus 2026 Nomor 17 yang dibuat di hadapan notaris Aulia Taufani di Jakarta Selatan, dan sudah mendapat surat penerimaan perubahan data perseroan dari Kementerian Hukum pada 18 Agustus 2026 dengan nomor AHU-AH.01.09-0391014.",
+   "Di PT MAM, BNII mengambil alih 36.000 saham milik Maybank Asset Management Sdn Bhd asal Malaysia dan 720 saham milik Koperasi Jasa Mitra Anugerah Makmur. Perpindahan kepemilikan ini tertuang dalam akta Nomor 14 tertanggal 4 Agustus 2026 di hadapan notaris yang sama, dan telah mendapat persetujuan Kementerian Hukum pada 19 Agustus 2026 dengan nomor AHU-AH.01.09-0391949.",
+   "Dalam laporannya ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, BNII menyatakan pengambilalihan ini tidak berdampak material terhadap kegiatan operasional maupun kelangsungan usaha perseroan. Perseroan tidak merinci nilai transaksi atau harga saham dalam kedua akuisisi tersebut."
+  ],
+  "fotoAdegan": "Glass-fronted office tower lobby in Jakarta's financial district, employees walking past reception desk, soft morning light",
+  "takeaway": "Laporan ini tergolong netral bagi BNII karena dokumen sendiri menegaskan tidak ada dampak material terhadap operasional maupun keuangan, sementara nilai transaksi dan harga per saham tidak diungkapkan sehingga besaran dana yang dikeluarkan bank untuk mengambil bagian atas 219,66 juta saham baru MSI tidak bisa dihitung publik. Yang tersentuh di sini adalah pos investasi dan permodalan anak usaha, BNII kini memegang langsung saham MSI yang sebelumnya berada di tangan entitas Maybank di luar negeri, sekaligus menyuntik modal baru ke MSI lewat penyertaan saham baru, dan mengambil alih kepemilikan MAM dari entitas Maybank Malaysia serta sebuah koperasi karyawan. Konsolidasi semacam ini lazim dipakai bank untuk merapikan struktur kepemilikan grup di bawah satu bendera, tapi belum tentu langsung menambah laba BNII dalam waktu dekat karena sifatnya adalah pemindahan dan penyertaan kepemilikan, bukan transaksi yang menghasilkan pendapatan baru. Dokumen ini tidak mencantumkan tenggat atau agenda RUPS lanjutan, sehingga yang perlu dipantau adalah laporan keuangan BNII periode berikutnya untuk melihat apakah konsolidasi MSI dan MAM tercermin dalam angka investasi atau ekuitas perusahaan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "supa-revisi-laporan-dana-ipo-belanja-modal-baru-terserap-3-7",
+  "category": "Aksi Korporasi",
+  "title": "SUPA Revisi Laporan Dana IPO: [Belanja Modal] Baru Terserap 3,7%",
+  "deck": "Revisi laporan dana IPO SUPA menambah persentase deviasi: belanja modal baru terealisasi 3,7% dari target 30%, sisa dana Rp719,2 miliar disimpan di deposit BI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T18:04:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b5ea392ff_bb69c0cbed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPA",
+  "tags": [
+   "SUPA",
+   "penggunaan dana IPO",
+   "belanja modal",
+   "Super Bank Indonesia"
+  ],
+  "body": [
+   "PT Super Bank Indonesia Tbk (SUPA) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum per 30 Juni 2026, mengoreksi surat sebelumnya bernomor 055/DIR-KEP/SBI/VII/2026 tanggal 9 Juli 2026. Perubahan yang ditambahkan adalah kolom persentase deviasi antara rencana dan realisasi penggunaan dana. Surat ditandatangani Direktur Melisa Hendrawati dan Direktur Amalia Pratantara, tertanggal 31 Agustus 2026, dan disampaikan kepada Otoritas Jasa Keuangan serta Bursa Efek Indonesia.",
+   "Dari penawaran umum perdana saham yang efektif 17 Desember 2025, SUPA meraih dana kotor Rp2,798 triliun. Setelah dipotong biaya penawaran umum Rp67,43 miliar atau 2,192 persen, yang terdiri dari biaya penjaminan, biaya penyelenggaraan, biaya penjualan, biaya profesi dan lembaga penunjang pasar modal, serta biaya lain-lain, dana bersih yang diterima perseroan tercatat Rp2,7307 triliun.",
+   "Sesuai prospektus, dana bersih itu direncanakan dipakai 70 persen atau Rp1,9115 triliun untuk modal kerja dan 30 persen atau Rp819,23 miliar untuk belanja modal. Per 30 Juni 2026, modal kerja sudah terserap penuh sesuai rencana. Namun belanja modal baru terealisasi Rp100 miliar, setara 3,7 persen dari total dana bersih, jauh di bawah target 30 persen, sehingga muncul deviasi 26,3 persen. Total realisasi penggunaan dana mencapai 73,7 persen, menyisakan dana Rp719,23 miliar atau 26,3 persen dari hasil penawaran umum.",
+   "Sisa dana tersebut ditempatkan di Fasilitas Simpanan Bank Indonesia (FASBI) dengan skema deposit semalam berbunga 3,75 persen. Perseroan mencatat target waktu penggunaan seluruh dana hasil penawaran umum hingga Desember 2030, dengan pos penggunaan mencakup kredit yang diberikan dan aset tidak berwujud."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks in a bank data center, blue indicator lights, glass office tower visible at dusk in Jakarta.",
+  "takeaway": "Laporan ini condong negatif bagi SUPA karena belanja modal, yaitu dana untuk investasi aset dan infrastruktur perusahaan, baru terserap 3,7 persen dari target 30 persen meski dana modal kerja sudah habis terpakai sesuai rencana, sehingga tercipta deviasi 26,3 persen dari rencana awal di prospektus. Pos yang tersentuh adalah belanja modal dan arus kas perusahaan, sebab dana Rp719,23 miliar yang belum terpakai untuk sementara hanya disimpan semalam di Bank Indonesia dengan imbal hasil 3,75 persen, jauh di bawah potensi hasil dari investasi produktif yang semula direncanakan. Pelaku pasar biasanya membaca kesenjangan sebesar ini sebagai tanda bahwa rencana ekspansi infrastruktur atau teknologi perusahaan berjalan lebih lambat dari jadwal semula, meski hal itu tidak selalu berarti buruk kalau perusahaan memang berhati-hati mengatur waktu belanjanya. Yang perlu dipantau berikutnya adalah laporan realisasi periode mendatang untuk melihat apakah penyerapan belanja modal mulai mengejar rencana, mengingat target akhir penggunaan seluruh dana ditetapkan hingga Desember 2030.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nice-jelaskan-lonjakan-harga-saham-14-12-ke-bei",
+  "category": "Aksi Korporasi",
+  "title": "NICE Jelaskan Lonjakan [Harga] Saham 14,12% ke BEI",
+  "deck": "PT Adhi Kartiko Pratama Tbk menegaskan tidak ada informasi material di balik lonjakan harga sahamnya 14,12 persen pada 27 Agustus 2026, sesuai permintaan penjelasan Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:55:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef41e71c22_82da023f64.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "nikel"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) menjawab surat Bursa Efek Indonesia bernomor S-11126/BEI.PP2/08-2026 tanggal 28 Agustus 2026 yang meminta penjelasan atas lonjakan transaksi sahamnya. BEI mencatat pada 27 Agustus 2026 volume transaksi saham NICE melonjak menjadi 59.766.400 lembar dengan frekuensi 9.918 kali, dibandingkan hari bursa sebelumnya yang hanya 16.680.600 lembar dengan frekuensi 1.960 kali. Harga saham ditutup naik Rp48 atau 14,12 persen, dari Rp340 menjadi Rp388.",
+   "Dalam suratnya yang ditandatangani Direktur Yeon Ho Choi dan Direktur Soomin Lee, tertanggal 1 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diumumkan ke publik. Satu-satunya laporan yang baru disampaikan adalah laporan keuangan interim per 30 Juni 2026 yang telah ditelaah secara terbatas, dikirim ke OJK dan BEI pada 24 Agustus 2026. Perseroan juga menyatakan tidak mengetahui aktivitas khusus dari pemegang saham tertentu, dan tidak punya rencana aksi korporasi yang berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan ke depan.",
+   "Soal rencana pemegang saham utama, PT Adhi Kartiko Pratama menyampaikan bahwa pemegang saham mayoritasnya, PT Energy Battery Indonesia (EBI), menyatakan berniat mempertahankan kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Laterite ore haul trucks moving along a red dirt mining road through tropical hills in Southeast Sulawesi, midday haze",
+  "takeaway": "Laporan ini netral bagi emiten, karena isinya sepenuhnya defensif: perseroan menegaskan tidak ada informasi tersembunyi dan tidak ada rencana aksi korporasi, sehingga lonjakan harga 14,12 persen dalam sehari itu tidak didukung oleh perubahan fundamental apa pun yang diungkap di sini. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh oleh laporan ini, karena lonjakan yang dimaksud murni soal aktivitas jual beli di pasar, yakni volume saham yang berpindah tangan dan frekuensi transaksi yang melonjak drastis dari hari sebelumnya, bukan soal kinerja usaha. Yang lebih relevan untuk menilai kondisi perseroan sebenarnya adalah laporan keuangan interim per 30 Juni 2026 yang sudah disetor ke OJK dan BEI pada 24 Agustus 2026, sehingga investor perlu memeriksa isi laporan itu untuk melihat kondisi keuangan riil. Yang perlu dipantau selanjutnya adalah apakah dalam tiga bulan ke depan, sebagaimana dijanjikan dalam surat ini, perseroan benar tidak mengambil aksi korporasi yang mengubah status pencatatan sahamnya di bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tris-bagikan-dividen-interim-rp2-27-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Bagikan [Dividen] Interim Rp2,27 per Saham",
+  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dengan pembayaran pada 23 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:54:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2fee03129_8f84c44ccf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIS",
+  "tags": [
+   "TRIS",
+   "dividen interim",
+   "Trisula International",
+   "IDX"
+  ],
+  "body": [
+   "Direksi Trisula International Tbk (TRIS) yang keputusannya telah disetujui Dewan Komisaris pada 28 Agustus 2026 memutuskan membagikan dividen interim tunai untuk tahun buku 2026 senilai total Rp7.018.283.693, atau setara Rp2,27 per saham.",
+   "Pengumuman jadwal disampaikan ke Bursa Efek Indonesia pada 1 September 2026. Cum dividen di pasar reguler dan negosiasi jatuh pada 9 September 2026, dengan ex dividen sehari setelahnya pada 10 September 2026. Untuk pasar tunai, cum dividen berlangsung pada 11 September 2026 dan ex dividen pada 14 September 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam Daftar Pemegang Saham per 11 September 2026 pukul 16.00 WIB, dan dividen akan dibayarkan paling lambat pada 23 September 2026, disalurkan melalui KSEI ke rekening dana nasabah bagi saham dalam penitipan kolektif.",
+   "Pembagian dividen ini didasarkan pada data keuangan per 30 Juni 2026, di mana laba bersih yang diatribusikan kepada pemegang saham induk tercatat Rp28,65 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp182,67 miliar, dan total ekuitas perusahaan Rp857,05 miliar. Pemegang saham berbentuk badan hukum dalam negeri yang belum menyerahkan NPWP wajib melaporkannya ke KSEI melalui perusahaan efek atau bank kustodian paling lambat 11 September 2026 pukul 16.00 WIB, sementara pemegang saham asing yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda harus melengkapi dokumen DGT/SKD, jika tidak dividen akan dipotong PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers sewing garments on an industrial production line inside a textile factory, rows of sewing machines, bright fluorescent lighting",
+  "takeaway": "Kabar ini condong positif bagi pemegang saham TRIS karena perusahaan membagikan sebagian labanya secara tunai tanpa perlu menambah utang atau menerbitkan saham baru. Dividen senilai Rp7,02 miliar ini hanya sekitar seperempat dari laba bersih semester pertama sebesar Rp28,65 miliar dan kurang dari 1 persen dari total ekuitas Rp857,05 miliar, sehingga pembayarannya tidak akan mengganggu kas atau modal perusahaan secara berarti, sementara dividen per saham Rp2,27 langsung menambah pendapatan yang diterima setiap pemegang saham. Yang perlu dipantau adalah tanggal pencatatan pemegang saham pada 11 September 2026 pukul 16.00 WIB, yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 23 September 2026 sebagai konfirmasi bahwa rencana ini benar-benar terealisasi.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bwpt-likuiditas-ketat-rp500-m-mengendap-di-obligasi-2",
+  "category": "Aksi Korporasi",
+  "title": "BWPT: [Likuiditas] Ketat, Rp500 M Mengendap di Obligasi 2%",
+  "deck": "Dalam tanggapan ke Bursa, Eagle High Plantations mengungkap rasio lancar 0,67 kali dan Rp500 miliar dana ditempatkan di obligasi Danantara berkupon 2% per tahun, sementara utang bank masih besar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:53:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69cc60f983_ffd69591b7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "likuiditas",
+   "obligasi Danantara"
+  ],
+  "body": [
+   "PT Eagle High Plantations Tbk (BWPT) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia Nomor S-10797/BEI.PP1/08-2026 tanggal 18 Agustus 2026, yang menyoroti sejumlah pos dalam laporan keuangan 2025 dan kuartal I 2026. Surat tanggapan bernomor 068/BWPT/Corsec/IX/2026 ini ditandatangani Corporate Secretary Rizka Dewi Sulistyorini pada 1 September 2026.",
+   "Soal piutang usaha, perusahaan merinci piutang yang jatuh tempo di bawah 30 hari sebesar Rp35.667 juta, dengan porsi terbesar dari PT Sinar Mas Agro Resources and Technology Tbk (Rp19.237 juta) dan PT Sinar Alam (Rp15.088 juta). Piutang yang sudah menunggak lebih dari 90 hari tercatat Rp8.048 juta, terbesar dari PT Perkebunan Nusantara II (Persero) sebesar Rp5.048 juta. Di sisi lain, cadangan kerugian penurunan nilai piutang justru turun dari Rp8.377 juta pada 2024 menjadi Rp7.401 juta pada 2025, meski saldo piutang usaha membesar. BWPT beralasan sebagian besar piutang itu belum jatuh tempo dan sebagian sudah tertagih setelah tanggal pelaporan.",
+   "Perusahaan juga menjelaskan pembelian dua seri Surat Utang Jangka Panjang senilai total Rp500 miliar yang diterbitkan PT Danantara Investment Management (Persero) pada 20 Oktober 2025, masing-masing Rp250 miliar dengan kupon tetap 2% per tahun. Seri A jatuh tempo 22 Oktober 2030 dan Seri B jatuh tempo 21 Oktober 2032. BWPT menyatakan dana tersebut adalah kas yang belum dibutuhkan untuk operasional, dan menegaskan rasio lancar 0,67 kali serta modal kerja neto yang negatif per 31 Desember 2025 tidak mengganggu kemampuan membayar kewajiban, dengan menyebut EBITDA 2025 sekitar Rp1,67 triliun sebagai penopang.",
+   "Terkait konsentrasi pelanggan, BWPT mengonfirmasi penjualan ke PT Sinar Mas Agro Resources and Technology Tbk dan PT Sari Dumai Sejati masing-masing menyumbang sekitar 42% dan 28% dari total pendapatan 2025, atau gabungan 70%. Perusahaan menilai hal ini tidak menimbulkan ketergantungan eksklusif karena CPO diperdagangkan luas, dan menyebut diversifikasi basis pelanggan sebagai langkah mitigasi jika salah satu mitra menghentikan transaksi."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches at a plantation and loading them onto a truck, tropical morning light",
+  "takeaway": "Laporan ini condong negatif bagi BWPT karena justru mengonfirmasi tekanan likuiditas yang nyata: rasio lancar hanya 0,67 kali, artinya aset yang bisa dicairkan dalam waktu dekat lebih kecil dari utang yang harus dibayar dalam waktu dekat, dan modal kerja bersihnya negatif. Yang membuatnya lebih mencolok, perusahaan tetap menaruh Rp500 miliar kas di obligasi berbunga tetap hanya 2 persen per tahun untuk jangka lima sampai tujuh tahun, bukan dipakai mengurangi utang bank yang menurut dokumen ini masih besar. Rasio lancar dan modal kerja adalah ukuran yang dipantau kreditur dan investor untuk menilai apakah perusahaan bisa membayar utang jatuh tempo tanpa harus buru-buru mencari pinjaman baru, sehingga posisi di bawah 1 kali biasanya jadi perhatian, ditambah cadangan kerugian piutang yang justru menyusut walau piutang usaha membesar. Ke depan, pasar perlu memantau laporan keuangan kuartal berikutnya untuk melihat apakah rasio lancar membaik, serta bagaimana Bursa menindaklanjuti penjelasan ini setelah surat permintaan penjelasan tertanggal 18 Agustus 2026 tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nfcx-jelaskan-volatilitas-pemegang-saham-utama-tambah-saham",
+  "category": "Aksi Korporasi",
+  "title": "NFCX Jelaskan Volatilitas, Pemegang Saham Utama [Tambah] Saham",
+  "deck": "NFCX menjawab permintaan BEI soal volatilitas transaksi, mengungkap pembelian saham oleh PT 1 Inti Dot Com dan rencana penambahan modal yang belum dijadwalkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:49:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/74493ac8d4_19dbaba655.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NFCX",
+  "tags": [
+   "NFCX",
+   "volatilitas saham",
+   "PMTHMETD",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT NFC Indonesia Tbk (NFCX) menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat nomor S-11125/BEI.PP2/08-2026 yang diterima perseroan pada 28 Agustus 2026, terkait volatilitas transaksi efeknya. Dalam tanggapan yang ditandatangani Corporate Secretary Inda Ayu Susanty pada 1 September 2026, NFCX menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik sebagaimana diatur POJK Nomor 31/POJK.04/2015 maupun Peraturan I-E BEI, yang bisa memengaruhi nilai efek atau keputusan investasi pemodal.",
+   "Meski begitu, perseroan mengonfirmasi adanya aktivitas pemegang saham yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024, yaitu pembelian saham NFCX oleh PT 1 Inti Dot Com selaku pemegang saham dengan kepemilikan lebih dari 5 persen. Transaksi itu dilakukan pada 2 Juni 2026 dan telah dilaporkan secara elektronik pada 4 Juni 2026. Surat tersebut tidak mencantumkan jumlah saham maupun nilai transaksi pembelian itu.",
+   "NFCX juga menegaskan masih memegang persetujuan RUPSLB tanggal 18 Juni 2025 untuk melaksanakan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yakni penerbitan saham baru tanpa menawarkannya lebih dulu ke pemegang saham lama. Sampai surat ini terbit, perseroan belum menetapkan jadwal pelaksanaan rencana tersebut dalam tiga bulan ke depan, dan berjanji akan menyampaikan keterbukaan informasi lanjutan begitu ada kepastian."
+  ],
+  "fotoAdegan": "A customer tapping a smartphone against a contactless payment terminal at a busy convenience store checkout, morning light",
+  "takeaway": "Laporan ini netral bagi fundamental NFCX, karena pembelian saham oleh pemegang saham utama PT 1 Inti Dot Com tidak disertai angka jumlah atau nilai transaksi sehingga besarannya tidak bisa dibaca sebagai sinyal kuat, sementara rencana penambahan modal juga masih sebatas potensi yang belum dijadwalkan. Yang berpotensi tersentuh adalah jumlah saham beredar dan laba per saham, sebab PMTHMETD berarti penerbitan saham baru tanpa ditawarkan dulu ke pemegang saham lama, sehingga proporsi kepemilikan pemegang saham lama dan laba per saham bisa terdilusi kalau rencana ini benar dijalankan. Yang perlu dipantau selanjutnya adalah kapan perseroan menetapkan jadwal pelaksanaan PMTHMETD tersebut, mengingat persetujuan RUPSLB sudah dikantongi sejak 18 Juni 2025 namun realisasinya belum juga ditetapkan lebih dari setahun kemudian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tris-bagi-dividen-interim-rp2-27-saham-cair-23-september-dividen",
+  "category": "Aksi Korporasi",
+  "title": "TRIS Bagi Dividen Interim Rp2,27/Saham, Cair 23 September [dividen]",
+  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dibayarkan 23 September kepada pemegang saham yang tercatat 11 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:46:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b8ad1e57d_db9f6b3b88.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIS",
+  "tags": [
+   "TRIS",
+   "dividen interim",
+   "Trisula International",
+   "emiten tekstil"
+  ],
+  "body": [
+   "Direksi Trisula International Tbk (TRIS) memutuskan membagikan dividen interim tunai untuk tahun buku 2026 sebesar Rp7.018.283.693, atau Rp2,27 per saham. Keputusan ini tertuang dalam surat keputusan direksi tertanggal 28 Agustus 2026 yang ditandatangani Direktur Utama Widjaya Djohan dan Direktur Marcus Harianto B, dan disetujui pada hari yang sama oleh Dewan Komisaris yang diwakili Komisaris Utama Tjhoi Lisa Tjahjadi dan Komisaris Independen Fendy Sutanto. Perseroan menyatakan dividen ini belum dipotong pajak sesuai ketentuan yang berlaku dan tidak membawa dampak material terhadap kegiatan operasional maupun kondisi keuangan perusahaan.",
+   "Pemegang saham yang berhak menerima dividen adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan pada 11 September 2026, dengan pembayaran dijadwalkan pada 23 September 2026. Pembagian ini merupakan kelanjutan dari kebijakan dividen TRIS setahun terakhir, setelah Perseroan membagikan dividen interim tahun buku 2025 senilai Rp7 miliar pada September 2025 dan dividen final senilai Rp24 miliar pada 29 Mei 2026.",
+   "Perseroan mengaitkan rencana dividen ini dengan capaian laba bersih semester pertama 2026 sebesar Rp57,9 miliar, tumbuh 12,2 persen dibanding periode sama tahun lalu dan melampaui target internal. Kinerja ini ditopang penjualan ekspor yang mencapai Rp530,5 miliar sepanjang semester I 2026, naik 20,3 persen secara tahunan, dengan kontribusi pasar ekspor mencapai 60 persen dari total penjualan Perseroan. \"Capaian laba bersih sepanjang semester pertama tahun ini yang melampaui ekspektasi tidak terlepas dari strategi diversifikasi pasar ekspor yang kami jalankan,\" kata Direktur Utama TRIS, Widjaya Djohan."
+  ],
+  "fotoAdegan": "Workers stitching fabric at rows of sewing machines in a garment factory, folded textile bundles nearby, bright industrial lighting",
+  "takeaway": "Kabar ini condong positif bagi TRIS karena dividen interim Rp7,02 miliar ini dibayar dari laba yang memang tumbuh, bukan dari kas cadangan yang menipis, terlihat dari laba bersih semester pertama 2026 sebesar Rp57,9 miliar yang naik 12,2 persen berkat penjualan ekspor yang melonjak 20,3 persen menjadi Rp530,5 miliar. Pos yang tersentuh adalah kas dan ekuitas perusahaan, yang akan berkurang senilai dana yang dibagikan begitu dicairkan, sementara laba per saham tidak berubah karena pembagian dividen tidak menambah jumlah saham beredar. Yang perlu dipantau berikutnya adalah kepastian pemegang saham yang tercatat di Daftar Pemegang Saham pada 11 September 2026, karena hanya mereka yang berhak menerima dana yang akan dicairkan pada 23 September 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
   "category": "Bisnis",
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",

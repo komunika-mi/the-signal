@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "sn-PhvAmsCI",
+  "title": "Moskow Perkuat Kerja Sama Pariwisata dengan Indonesia",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Komite Pariwisata Kota Moskow menggelar misi bisnis di Jakarta untuk memperluas hubungan pariwisata sekaligus memperkuat kerja sama dengan Indonesia.",
+  "takeaway": "Misi bisnis lintas negara ini penting disimak karena berpotensi membuka peluang kerja sama dagang dan investasi di sektor pariwisata kedua negara.",
+  "terbit": "2026-09-01T16:54:53+00:00"
+ },
+ {
   "id": "gHPBLC9HNa4",
   "title": "Kuota FLPP Naik Jadi 350 Ribu Unit, Perluas Akses Rumah Subsidi",
   "category": "Perbankan",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Fitra Eri mengulas fenomena penjualan mobil yang justru meningkat di tengah sinyal pelemahan daya beli masyarakat Indonesia.",
   "takeaway": "Anomali ini penting dicermati karena bisa mengubah asumsi umum soal hubungan daya beli dan konsumsi barang tahan lama.",
   "terbit": "2026-08-26T15:28:21+00:00"
- },
- {
-  "id": "T65tlKy2bRc",
-  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
-  "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time.",
-  "terbit": "2026-08-26T12:33:12+00:00"
  }
 ];

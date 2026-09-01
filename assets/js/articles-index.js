@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inflasi-agustus-2026-3-19-masih-di-kisaran-target",
+  "category": "Makroekonomi",
+  "title": "Inflasi Agustus 2026 [3,19%], Masih di Kisaran Target",
+  "deck": "Inflasi Agustus 2026 mencapai 3,19 persen secara tahunan, didorong lonjakan harga pangan seperti ayam dan cabai rawit, namun masih berada dalam kisaran sasaran Bank Indonesia.",
+  "date": "2 September 2026",
+  "image": "assets/img/inflasi-agustus-2026-3-19-masih-di-kisaran-target.jpg",
+  "imageV": "mtj0lwh2",
+  "tags": [
+   "inflasi",
+   "IHK",
+   "Bank Indonesia",
+   "pangan"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli",
+  "category": "Makroekonomi",
+  "title": "Neraca Dagang RI Kembali [Surplus] US$0,12 Miliar di Juli",
+  "deck": "Setelah defisit US$0,45 miliar pada Juni, neraca dagang Juli 2026 surplus tipis US$0,12 miliar, ditopang ekspor nonmigas dan penurunan defisit migas.",
+  "date": "2 September 2026",
+  "image": "assets/img/neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli.jpg",
+  "imageV": "mtj0lz55",
+  "tags": [
+   "neraca dagang",
+   "ekspor nonmigas",
+   "BPS",
+   "impor migas"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pertamax-green-95-naik-rp2-550-per-liter",
+  "category": "Energi",
+  "title": "Pertamax Green 95 [Naik] Rp2.550 per Liter",
+  "deck": "Pertamina Patra Niaga menaikkan harga Pertamax Green 95 dari Rp16.600 menjadi Rp19.150 per liter mulai 2 September 2026, menyusul kenaikan BBM nonsubsidi lain sehari sebelumnya.",
+  "date": "2 September 2026",
+  "image": "assets/img/pertamax-green-95-naik-rp2-550-per-liter.jpg",
+  "imageV": "mtj0lzmp",
+  "tags": [
+   "harga BBM",
+   "Pertamina",
+   "BBM nonsubsidi",
+   "Pertamax Green 95"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464270-berlaku-2-september-2026-pertamina-patra-niaga-sesuaikan-harga-pertamax-green-95"
+ },
+ {
   "slug": "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
   "category": "Aksi Korporasi",
   "title": "CASH akan [tambah] tiga lini usaha baru, RUPSLB 8 Oktober",
@@ -744,6 +797,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis ke Rp17.715 di Tengah Harga Energi Naik",
+  "deck": "Rupiah menguat tipis ke Rp17.715 per dolar AS saat harga energi global melonjak akibat memanasnya kembali ketegangan Iran-AS, sementara subsidi energi mendekati Rp233 triliun.",
+  "date": "1 September 2026",
+  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik.jpg",
+  "imageV": "mtj0m0bb",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "subsidi energi",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464038-rupiah-menguat-ke-rp17715-per-dolar-as-di-tengah-lonjakan-harga-energi-imbas-kembali-memanasnya-perang-iran-as"
+ },
+ {
   "slug": "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "SIPD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
@@ -758,6 +828,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e567a4864_f6761b754f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-664-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.664.000/Gram",
+  "deck": "Harga emas Antam turun Rp6.000 menjadi Rp2.664.000 per gram pada 1 September 2026, sementara harga buyback turun ke Rp2.517.000 per gram.",
+  "date": "1 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-664-000-gram.jpg",
+  "imageV": "mtj0m0pu",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464035-harga-emas-antam-hari-ini-1-september-2026-turun-tipis-rp6000-jadi-rp2664000-per-gram"
+ },
+ {
+  "slug": "ekonom-nilai-ri-perlu-geser-neraca-ke-investasi",
+  "category": "Makroekonomi",
+  "title": "Ekonom Nilai RI Perlu Geser Neraca ke [Investasi]",
+  "deck": "Ekonom Trimegah Fakhrul Fulvian mendukung arah Presiden Prabowo Subianto mengurangi ketergantungan utang, namun menilai perlu perubahan struktur pembiayaan neraca pembayaran.",
+  "date": "1 September 2026",
+  "image": "assets/img/ekonom-nilai-ri-perlu-geser-neraca-ke-investasi.jpg",
+  "imageV": "mtj0m165",
+  "tags": [
+   "neraca pembayaran",
+   "investasi asing",
+   "utang negara",
+   "SBN SRBI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464031-kurangi-ketergantungan-utang-indonesia-dinilai-perlu-ubah-struktur-neraca-pembayaran-jadi-investment-driven"
  },
  {
   "slug": "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
@@ -843,12 +947,60 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "penumpang-angkutan-laut-juli-naik-8-21-persen-udara-ikut-naik",
+  "category": "Makroekonomi",
+  "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
+  "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
+  "date": "1 September 2026",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "tags": [
+   "BPS",
+   "Transportasi",
+   "Angkutan Laut",
+   "Angkutan Udara"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "harga-impor-ri-naik-lebih-cepat-dari-ekspor-triwulan-ii-2026",
+  "category": "Makroekonomi",
+  "title": "Harga Impor RI [Naik] Lebih Cepat dari Ekspor Triwulan II-2026",
+  "deck": "BPS mencatat indeks harga ekspor dan impor Indonesia sama-sama naik pada triwulan II-2026, tapi kenaikan harga impor lebih tinggi, terutama untuk kelompok migas.",
+  "date": "1 September 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "BPS",
+   "ekspor-impor",
+   "migas",
+   "triwulan II-2026"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2613",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "nilai-tukar-petani-naik-1-05-persen-ke-129-19",
+  "category": "Makroekonomi",
+  "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
+  "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
+  "date": "1 September 2026",
+  "image": "assets/img/pasar-beras.jpg",
+  "tags": [
+   "NTP",
+   "Petani",
+   "BPS",
+   "Harga Beras"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2612",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
   "slug": "laju-impor-ri-kalahkan-ekspor-surplus-dagang-menipis",
   "category": "Makroekonomi",
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
   "date": "1 September 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "ekspor-impor",
    "neraca dagang",
@@ -1985,7 +2137,7 @@ var ARTICLES = [
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "desil bansos",
    "DTSEN",
@@ -6383,150 +6535,6 @@ var ARTICLES = [
    "KBank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc15a9d8d9_728fc54dbc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-lepas-83-7-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi Lepas 83,7 Juta Saham lewat [Repo]",
-  "deck": "Seorang anggota direksi MD Entertainment melepas 83,7 juta saham FILM lewat pencairan perjanjian repo, hak suaranya turun dari 7,55 persen menjadi 6,78 persen.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/film-direksi-lepas-83-7-juta-saham-lewat-repo.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-4176-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-investama-tambah-8-3-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Investama Tambah [8,3 Juta] Saham",
-  "deck": "Tunggal Jaya Investama menambah 8,3 juta saham IMPC pada 19-20 Agustus 2026, menaikkan hak suaranya tipis menjadi 37,14 persen.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/impc-tunggal-jaya-investama-tambah-8-3-juta-saham.jpg",
-  "tags": [
-   "IMPC",
-   "kepemilikan saham",
-   "Tunggal Jaya Investama",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-4743-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bkdp-butuh-rp222-miliar-danai-proyek-hotel-hyatt",
-  "category": "Aksi Korporasi",
-  "title": "BKDP Butuh [Rp222 Miliar] Danai Proyek Hotel Hyatt",
-  "deck": "BKDP menjawab permintaan penjelasan lanjutan Bursa: penutupan tiga anak usaha, kebutuhan dana Rp222 miliar untuk hotel Hyatt Centric, dan piutang macet dari penyewa yang sudah tutup.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKDP",
-   "Bukit Darmo Property",
-   "properti",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3d6d8cf532_bbcd9979dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-lelang-aset-cetakan-senilai-rp478-6-juta",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Lelang [Aset] Cetakan Senilai Rp478,6 Juta",
-  "deck": "WSBP melelang 177 set cetakan non-produktif di Plant Cibitung senilai Rp478,6 juta lewat KPKNL Bekasi, bagian dari implementasi Perjanjian Perdamaian restrukturisasi utang.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/wsbp-lelang-aset-cetakan-senilai-rp478-6-juta.jpg",
-  "tags": [
-   "WSBP",
-   "lelang aset",
-   "restrukturisasi utang",
-   "Waskita Beton Precast"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50e9c23480_cbe191db17.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-fpni-meroket-24-42-manajemen-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "Saham FPNI Meroket 24,42%, Manajemen: Tak Ada [Info Material]",
-  "deck": "Bursa meminta penjelasan usai transaksi saham FPNI melonjak drastis pada 19 Agustus 2026, dan Lotte Chemical Titan menyatakan tidak ada informasi material di baliknya.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/saham-fpni-meroket-24-42-manajemen-tak-ada-info-material.jpg",
-  "tags": [
-   "FPNI",
-   "volatilitas saham",
-   "Lotte Chemical Titan",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/58fb1e9a00_c5cd92e9a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "real-harmoni-harum-propertindo-lepas-76-1-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "REAL: Harmoni Harum Propertindo [Lepas] 76,1 Juta Saham",
-  "deck": "Pemegang saham Harmoni Harum Propertindo menjual 76,1 juta saham REAL pada 20 Agustus 2026, menurunkan hak suaranya dari 15,83% menjadi 14,68%.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/real-harmoni-harum-propertindo-lepas-76-1-juta-saham.jpg",
-  "tags": [
-   "REAL",
-   "kepemilikan saham",
-   "Harmoni Harum Propertindo",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-3312-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-raih-proyek-lanjutan-terminal-1a-bandara-soetta",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Raih Proyek [Lanjutan] Terminal 1A Bandara Soetta",
-  "deck": "PTPP meraih proyek lanjutan revitalisasi Terminal 1A Bandara Soekarno-Hatta senilai Rp1,19 triliun, dikerjakan selama 365 hari mulai 21 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/ptpp-raih-proyek-lanjutan-terminal-1a-bandara-soetta.jpg",
-  "tags": [
-   "PTPP",
-   "konstruksi",
-   "bandara",
-   "kontrak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8d5434474b_72b6fae572.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hd-waran-terstruktur-bbca-disesuaikan-usai-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "HD: Waran Terstruktur [BBCA] Disesuaikan Usai Dividen Tunai",
-  "deck": "KGI Sekuritas (HD) menyesuaikan harga pelaksanaan dan rasio tiga waran terstruktur BBCA menyusul dividen tunai BBCA, efektif 31 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HD",
-   "BBCA",
-   "waran terstruktur",
-   "KGI Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d63b88d435_1e773c30c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-mdia-masuk-papan-pemantauan-khusus-bei-24-agustus",
-  "category": "Aksi Korporasi",
-  "title": "Saham [MDIA] Masuk Papan Pemantauan Khusus BEI 24 Agustus",
-  "deck": "BEI memasukkan saham MDIA ke Papan Pemantauan Khusus mulai 24 Agustus 2026, menyusul penghentian sementara perdagangan lebih dari sehari akibat aktivitas transaksi.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDIA",
-   "Papan Pemantauan Khusus",
-   "BEI",
-   "Intermedia Capital"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d1dda49e67_40e55ff746.pdf",
   "sourceLabel": "IDX"
  }
 ];

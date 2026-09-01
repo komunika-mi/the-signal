@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inflasi-agustus-2026-3-19-masih-di-kisaran-target",
+  "category": "Makroekonomi",
+  "title": "Inflasi Agustus 2026 [3,19%], Masih di Kisaran Target",
+  "deck": "Inflasi Agustus 2026 mencapai 3,19 persen secara tahunan, didorong lonjakan harga pangan seperti ayam dan cabai rawit, namun masih berada dalam kisaran sasaran Bank Indonesia.",
+  "image": "assets/img/inflasi-agustus-2026-3-19-masih-di-kisaran-target.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-01T18:36:32.801Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817626.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "inflasi",
+   "IHK",
+   "Bank Indonesia",
+   "pangan"
+  ],
+  "body": [
+   "Inflasi Indonesia pada Agustus 2026 tercatat 0,21 persen dibanding bulan sebelumnya, membawa laju inflasi tahunan ke 3,19 persen. Bank Indonesia menyatakan angka ini masih berada dalam kisaran sasaran yang ditetapkan, yaitu 2,5 persen plus minus 1 poin persentase, atau rentang 1,5 hingga 3,5 persen. Bagi masyarakat, ini berarti kenaikan harga barang dan jasa secara umum masih tergolong terkendali, meski beberapa kelompok harga mulai bergerak lebih cepat dari bulan-bulan sebelumnya.",
+   "Kelompok harga inti, yaitu harga barang dan jasa yang relatif stabil dan tidak terlalu dipengaruhi cuaca atau kebijakan pemerintah, naik 0,21 persen dibanding bulan sebelumnya, sedikit lebih tinggi dari 0,14 persen pada Juli. Secara tahunan, inflasi inti mencapai 2,92 persen, naik dari 2,76 persen bulan sebelumnya. Kenaikan ini terutama didorong oleh harga emas perhiasan, yang mengikuti tren kenaikan harga emas di pasar global.",
+   "Kelompok pangan bergejolak, yaitu harga bahan pangan yang gampang naik turun karena panen, cuaca, atau pasokan, berbalik arah. Setelah harganya turun 1,68 persen pada Juli, kelompok ini justru naik 0,88 persen pada Agustus, dipicu terutama oleh harga daging ayam ras, cabai rawit, dan beras. Secara tahunan, inflasi pangan bergejolak melonjak dari 2,52 persen menjadi 4,06 persen, kenaikan tahunan terbesar di antara semua kelompok.",
+   "Sebaliknya, kelompok harga yang diatur pemerintah, seperti tarif transportasi dan harga bahan bakar minyak, justru mencatat penurunan harga 0,33 persen pada Agustus, setelah naik 0,25 persen pada Juli. Penurunan ini terutama disumbang oleh turunnya tarif angkutan udara dan harga bensin nonsubsidi jenis Pertamax dan Pertamax Turbo, seiring turunnya harga avtur dan BBM di pasar. Secara tahunan, kelompok ini masih mencatat inflasi 3,32 persen, meski melambat dari 3,58 persen bulan sebelumnya. Bank Indonesia menyatakan optimistis inflasi akan tetap berada dalam kisaran sasaran 2,5 plus minus 1 persen sepanjang 2026 dan 2027."
+  ],
+  "fotoAdegan": "Vendors arranging fresh red chilies, whole chickens, and sacks of rice at a busy traditional wet market stall, morning light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2526623/Publishing_Image_Statistik.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah signifikan bulan ini adalah kelompok pangan bergejolak, harga bahan pangan seperti ayam, cabai rawit, dan beras, yang berbalik dari turun 1,68 persen pada Juli menjadi naik 0,88 persen pada Agustus, sehingga inflasi tahunannya melompat dari 2,52 persen ke 4,06 persen. Kenaikan ini langsung terasa oleh rumah tangga yang belanja harian, sementara turunnya tarif pesawat dan harga Pertamax justru meringankan pengeluaran penumpang dan pengguna kendaraan pribadi. Dua arah yang berlawanan ini, pangan naik sementara harga yang diatur pemerintah turun, membuat inflasi total tetap berada di tengah kisaran sasaran, tapi itu berarti kestabilannya ditopang oleh dua faktor yang kebetulan saling menutupi, bukan oleh redanya tekanan harga pangan itu sendiri. Yang perlu dicermati adalah data inflasi September, terutama apakah harga ayam dan cabai rawit terus naik atau mereda, sebab kalau berlanjut sementara harga BBM tidak lagi turun, inflasi tahunan berisiko mendekati batas atas kisaran sasaran di 3,5 persen.",
+  "imageV": "mtj0lwh2"
+ },
+ {
+  "slug": "neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli",
+  "category": "Makroekonomi",
+  "title": "Neraca Dagang RI Kembali [Surplus] US$0,12 Miliar di Juli",
+  "deck": "Setelah defisit US$0,45 miliar pada Juni, neraca dagang Juli 2026 surplus tipis US$0,12 miliar, ditopang ekspor nonmigas dan penurunan defisit migas.",
+  "image": "assets/img/neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-01T18:36:22.353Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817726.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "neraca dagang",
+   "ekspor nonmigas",
+   "BPS",
+   "impor migas"
+  ],
+  "body": [
+   "Neraca perdagangan Indonesia kembali mencatat surplus pada Juli 2026 sebesar US$0,12 miliar, berbalik dari defisit US$0,45 miliar pada Juni, menurut data Badan Pusat Statistik yang dikutip Bank Indonesia. Angka ini penting karena neraca dagang menunjukkan apakah aliran dolar dari ekspor cukup menutupi kebutuhan impor, yang pada gilirannya ikut memengaruhi pasokan dolar di dalam negeri dan pergerakan nilai tukar rupiah.",
+   "Secara kumulatif sepanjang Januari-Juli 2026, neraca dagang Indonesia masih mencatat surplus US$3,70 miliar. Perbaikan pada Juli ditopang oleh dua faktor, surplus perdagangan nonmigas naik tipis dari US$3,04 miliar menjadi US$3,10 miliar, sementara defisit perdagangan migas menyusut dari US$3,49 miliar menjadi US$2,98 miliar karena penurunan impor migas lebih besar dibanding penurunan ekspornya.",
+   "Kenaikan surplus nonmigas didorong oleh ekspor yang naik menjadi US$25,43 miliar, terutama dari penjualan bahan bakar mineral serta produk manufaktur seperti besi dan baja, juga mesin dan peralatan listrik beserta bagiannya. Tiongkok, Amerika Serikat, dan India tetap menjadi tujuan utama ekspor nonmigas Indonesia pada periode ini."
+  ],
+  "fotoAdegan": "Cargo cranes loading steel coils and machinery crates onto a container ship at a busy Indonesian seaport, midday light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2726325/Rilis-Neraca-Perdagangan.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Surplus Juli ini datang setelah Juni sempat defisit, jadi ayunan bulanan neraca dagang masih cukup lebar dan belum tentu jadi tren yang stabil. Yang menarik, defisit migas menyusut bukan karena ekspor migas naik, melainkan karena impor migas turun lebih dalam, dan itu bisa dibaca dua arah, harga atau volume BBM impor yang melunak di pasar global, atau tanda permintaan bahan bakar domestik yang ikut melambat seiring aktivitas ekonomi. Pihak yang langsung terkait adalah importir migas dan eksportir nonmigas yang menjual ke Tiongkok, Amerika Serikat, dan India, karena tiga negara itu tetap jadi penopang utama devisa ekspor Indonesia. Arah mana yang lebih tepat akan lebih jelas dari data neraca dagang Agustus 2026 yang biasanya dirilis BPS awal bulan berikutnya, kalau defisit migas kembali melebar saat impor pulih, itu tanda pelemahan Juli lebih terkait harga atau musiman ketimbang permintaan domestik yang benar-benar turun.",
+  "imageV": "mtj0lz55"
+ },
+ {
+  "slug": "pertamax-green-95-naik-rp2-550-per-liter",
+  "category": "Energi",
+  "title": "Pertamax Green 95 [Naik] Rp2.550 per Liter",
+  "deck": "Pertamina Patra Niaga menaikkan harga Pertamax Green 95 dari Rp16.600 menjadi Rp19.150 per liter mulai 2 September 2026, menyusul kenaikan BBM nonsubsidi lain sehari sebelumnya.",
+  "image": "assets/img/pertamax-green-95-naik-rp2-550-per-liter.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T00:04:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464270-berlaku-2-september-2026-pertamina-patra-niaga-sesuaikan-harga-pertamax-green-95",
+  "tags": [
+   "harga BBM",
+   "Pertamina",
+   "BBM nonsubsidi",
+   "Pertamax Green 95"
+  ],
+  "body": [
+   "Pertamina Patra Niaga kembali menyesuaikan harga bahan bakar nonsubsidi, kali ini giliran Pertamax Green 95 yang berlaku mulai 2 September 2026 pukul 00.00 WIB. BBM beroktan 95 dengan campuran bioetanol ini banyak dipakai konsumen yang memilih naik kelas dari BBM bersubsidi, sehingga kenaikan harganya langsung berpengaruh pada biaya bahan bakar harian mereka.",
+   "Harga Pertamax Green 95 naik dari Rp16.600 menjadi Rp19.150 per liter, atau bertambah Rp2.550 per liter. Kenaikan ini menyusul penyesuaian sejumlah produk nonsubsidi lain yang sudah berlaku sehari sebelumnya, 1 September 2026, termasuk Pertamax Turbo beroktan 98 yang naik dari Rp18.300 menjadi Rp19.600 per liter.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, mengatakan penyesuaian ini merupakan bagian dari penataan harga produk BBM nonsubsidi secara keseluruhan. \"Mulai 2 September 2026, Pertamina Patra Niaga menyesuaikan harga Pertamax Green 95. Penyesuaian ini mengikuti harga sejumlah produk BBM Non Subsidi yang telah dilakukan sebelumnya,\" ujar Kitty. Ia menegaskan penyesuaian harga tidak mengubah komitmen perusahaan menjaga kualitas produk dan layanan kepada konsumen.",
+   "Pertamina Patra Niaga mengimbau masyarakat menggunakan BBM sesuai spesifikasi kendaraan agar performa mesin tetap optimal. Informasi lebih lanjut mengenai harga dan layanan bisa diakses melalui Pertamina Contact Center 135 atau situs resmi perusahaan."
+  ],
+  "fotoAdegan": "Gas station attendant refueling a sedan at an outdoor forecourt in Indonesia, green fuel nozzle in hand, late afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a970244133bd-ilustrasi-pompa-bensin-di-spbu-pertamina_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan harga Pertamax Green 95 ini melengkapi rangkaian penyesuaian harga BBM nonsubsidi Pertamina yang berlangsung berurutan hanya dalam dua hari, setelah Pertamax Turbo, Pertamina Dex, dan Dexlite lebih dulu naik pada 1 September, disusul Green 95 pada 2 September. Yang terdampak langsung adalah konsumen BBM RON 95 nonsubsidi, termasuk yang memilih Green 95 karena campuran bioetanolnya, sebab kenaikan Rp2.550 per liter itu setara sekitar 15 persen dari harga sebelumnya, cukup terasa di pengeluaran bahan bakar bulanan. Pola kenaikan yang hampir serentak untuk seluruh lini nonsubsidi dalam rentang waktu berdekatan ini mengarah ke penataan ulang harga secara menyeluruh, bukan penyesuaian satu produk yang berdiri sendiri. Yang akan menegaskan apakah pola berurutan ini akan berulang adalah apakah Pertamina kembali mengumumkan penyesuaian harga BBM nonsubsidi pada awal Oktober 2026, mengikuti pola dua pengumuman berurutan di awal September ini.",
+  "imageV": "mtj0lzmp"
+ },
+ {
   "slug": "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
   "category": "Aksi Korporasi",
   "title": "CASH akan [tambah] tiga lini usaha baru, RUPSLB 8 Oktober",
@@ -1194,6 +1276,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] Tipis ke Rp17.715 di Tengah Harga Energi Naik",
+  "deck": "Rupiah menguat tipis ke Rp17.715 per dolar AS saat harga energi global melonjak akibat memanasnya kembali ketegangan Iran-AS, sementara subsidi energi mendekati Rp233 triliun.",
+  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T09:32:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464038-rupiah-menguat-ke-rp17715-per-dolar-as-di-tengah-lonjakan-harga-energi-imbas-kembali-memanasnya-perang-iran-as",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "subsidi energi",
+   "APBN"
+  ],
+  "body": [
+   "Rupiah menguat tipis ke Rp17.715 per dolar Amerika Serikat pada Selasa, 1 September 2026, naik 7 poin atau 0,04 persen dibandingkan posisi sehari sebelumnya di Rp17.722. Penguatan kecil ini terjadi di tengah kembali memanasnya ketegangan antara Iran dan Amerika Serikat, yang memicu lonjakan harga energi di pasar global. Pergerakan rupiah ini penting dicermati karena Indonesia masih bergantung pada impor energi, sehingga nilai tukar ikut menentukan seberapa besar beban subsidi yang harus ditanggung anggaran negara.",
+   "Sehari sebelumnya, kurs referensi resmi Bank Indonesia atau Jisdor mencatat rupiah berada di Rp17.746 per dolar AS pada Senin, 31 Agustus 2026, melemah 43 poin dari Rp17.703 pada Jumat, 28 Agustus 2026. Artinya, sebelum menguat tipis pada Selasa, rupiah sempat tertekan lebih dulu akibat sentimen geopolitik yang sama.",
+   "Pengamat ekonomi dan pasar uang, Ibrahim Assuaibi, menilai ketidakpastian geopolitik dan kenaikan harga energi berpotensi menambah beban anggaran negara, sehingga kondisi ini bisa menjadi momentum bagi pemerintah untuk mengubah skema subsidi dan kompensasi energi. Menurutnya, realisasi subsidi dan kompensasi energi hingga akhir Juni 2026 sudah mencapai sekitar Rp233 triliun, dan angka ini diperkirakan terus bertambah hingga akhir tahun serta berpotensi menambah tekanan pada keuangan negara di tahun 2027.",
+   "Besaran subsidi energi Indonesia ditentukan oleh tiga hal utama, yaitu harga energi di pasar global, nilai tukar rupiah terhadap dolar AS, dan tingkat konsumsi energi di dalam negeri. Ketika rupiah melemah, biaya untuk membeli dan mengangkut energi dari luar negeri otomatis menjadi lebih mahal dalam hitungan rupiah, sehingga pelemahan kurs dan lonjakan harga energi global yang terjadi bersamaan bisa saling memperberat beban subsidi."
+  ],
+  "fotoAdegan": "Fuel tanker trucks queued at a refinery loading terminal under an overcast sky, workers in safety vests nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bde417d9667-ilustrasi-dolas-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma angka kurs yang naik turun tipis, melainkan sinyal bahwa dua tekanan datang bersamaan, yaitu harga energi dunia naik karena perang Iran-AS memanas lagi, dan dana subsidi energi yang sudah dipakai pemerintah sampai akhir Juni 2026 saja sudah sekitar Rp233 triliun, alias uang negara yang dipakai supaya harga BBM dan listrik tidak naik ke masyarakat. Yang kena dampak langsung adalah anggaran negara atau APBN, karena tagihan subsidi ini dibayar dari situ, dan bisa berimbas ke konsumen kalau pemerintah akhirnya memilih menyesuaikan harga energi bersubsidi. Arahnya, sesuai yang disampaikan pengamat pasar uang, kombinasi kurs yang belum stabil dan biaya energi yang terus naik membuka peluang pemerintah mengubah cara menghitung atau membagi subsidi energi, bukan sekadar menambah anggarannya tiap tahun. Yang akan memastikan benar tidaknya arah ini adalah angka realisasi subsidi energi sampai akhir 2026 dan postur anggaran subsidi energi dalam APBN 2027 yang biasanya diumumkan pemerintah menjelang akhir tahun.",
+  "imageV": "mtj0m0bb"
+ },
+ {
   "slug": "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
   "category": "Aksi Korporasi",
   "title": "SIPD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
@@ -1219,6 +1328,59 @@ var ARTICLES = [
   "fotoAdegan": "Workers in blue uniforms inspecting rows of poultry cages inside a large modern chicken farm, soft morning light",
   "takeaway": "Tanggapan ini netral bagi pemegang saham SIPD, sebab isinya adalah bantahan standar tanpa informasi baru: perseroan hanya menegaskan tidak ada yang perlu diungkapkan, tanpa data tambahan soal kondisi keuangan atau bisnisnya. Surat semacam ini keluar karena bursa mendeteksi pergerakan transaksi saham yang tidak wajar, dikenal sebagai Unusual Market Activity, dan meminta emiten mengonfirmasi apakah ada penyebab fundamental di baliknya; jawaban SIPD tidak menyentuh pos kinerja apa pun seperti laba, arus kas, atau jumlah saham beredar, karena memang tidak ada aksi korporasi yang diumumkan. Yang perlu dipantau berikutnya adalah apakah pergerakan harga saham SIPD mereda atau justru berlanjut dalam beberapa waktu ke depan, serta apakah bursa mengambil langkah lanjutan seperti notasi khusus jika pola transaksi tidak wajar itu berulang, mengingat perseroan sendiri menyatakan tidak ada rencana korporasi hingga sekitar akhir November 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-664-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.664.000/Gram",
+  "deck": "Harga emas Antam turun Rp6.000 menjadi Rp2.664.000 per gram pada 1 September 2026, sementara harga buyback turun ke Rp2.517.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-664-000-gram.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T09:20:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464035-harga-emas-antam-hari-ini-1-september-2026-turun-tipis-rp6000-jadi-rp2664000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam yang diperdagangkan melalui laman Logam Mulia turun tipis pada Selasa, 1 September 2026. Penurunan sebesar Rp6.000 per gram ini membuat harga jual eceran emas kini berada di Rp2.664.000 per gram, turun dari posisi sehari sebelumnya di Rp2.670.000 per gram. Pergerakan harga emas Antam kerap dijadikan acuan oleh masyarakat yang menyimpan emas sebagai instrumen investasi harian maupun tabungan jangka panjang.",
+   "Selain harga jual, harga beli kembali atau buyback emas Antam turut melemah ke Rp2.517.000 per gram. Artinya, pemilik emas yang hendak menjual kembali batangannya ke Antam akan menerima nilai yang sedikit lebih rendah dibandingkan hari sebelumnya. Selisih antara harga jual dan harga buyback berada di kisaran Rp147.000 per gram, mencerminkan margin yang biasa diterapkan Antam pada transaksi harian.",
+   "Antam mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Ada pula ketentuan pajak yang perlu diperhitungkan: pembelian emas dikenakan pajak sebesar 0,25 persen dari harga dasar yang tertera di laman resmi, sementara transaksi buyback dengan nilai di atas Rp10.000.000 dikenai pajak 1,5 persen yang langsung dipotong dari nilai transaksi saat pencairan."
+  ],
+  "fotoAdegan": "A jeweler's gloved hands arranging small stacked gold bars on a velvet-lined tray inside a bright display counter.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data hari ini hanya mencatat pergerakan satu hari, yakni penurunan tipis Rp6.000 per gram, sehingga belum cukup untuk menyimpulkan apakah ini awal tren turun atau sekadar fluktuasi biasa. Yang jelas terdampak adalah dua kelompok dengan kepentingan berlawanan, calon pembeli emas mendapat harga sedikit lebih murah, sementara pemilik emas yang berencana buyback akan menerima uang sedikit lebih kecil dibanding kemarin. Ketentuan pajak buyback 1,5 persen untuk transaksi di atas Rp10 juta juga berarti bagi pemegang emas dalam jumlah besar, potongan pajak itu bisa memangkas hasil penjualan lebih besar daripada penurunan harga itu sendiri. Untuk melihat apakah pelemahan ini berlanjut atau berbalik arah, yang perlu dipantau adalah harga emas Antam dalam beberapa hari mendatang, karena data satu hari belum cukup menunjukkan tren.",
+  "imageV": "mtj0m0pu"
+ },
+ {
+  "slug": "ekonom-nilai-ri-perlu-geser-neraca-ke-investasi",
+  "category": "Makroekonomi",
+  "title": "Ekonom Nilai RI Perlu Geser Neraca ke [Investasi]",
+  "deck": "Ekonom Trimegah Fakhrul Fulvian mendukung arah Presiden Prabowo Subianto mengurangi ketergantungan utang, namun menilai perlu perubahan struktur pembiayaan neraca pembayaran.",
+  "image": "assets/img/ekonom-nilai-ri-perlu-geser-neraca-ke-investasi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T08:54:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464031-kurangi-ketergantungan-utang-indonesia-dinilai-perlu-ubah-struktur-neraca-pembayaran-jadi-investment-driven",
+  "tags": [
+   "neraca pembayaran",
+   "investasi asing",
+   "utang negara",
+   "SBN SRBI"
+  ],
+  "body": [
+   "Kepala Ekonom Trimegah Sekuritas Indonesia, Fakhrul Fulvian, menilai arah kebijakan Presiden Prabowo Subianto yang ingin mengurangi ketergantungan Indonesia pada utang luar negeri dan lebih mengutamakan investasi sudah tepat. \"Saya sependapat dengan arah yang disampaikan Presiden. Kalau Indonesia mempunyai pilihan antara terus menambah ketergantungan terhadap utang atau memperbesar investasi produktif, kita harus semakin menggeser struktur pembiayaan menuju investasi,\" kata Fakhrul, Selasa (1/9/2026). Menurutnya, mewujudkan arah tersebut perlu perubahan pada struktur pembiayaan dan neraca pembayaran, yaitu catatan seluruh transaksi keuangan Indonesia dengan pihak luar negeri.",
+   "Fakhrul menjelaskan bahwa utang dan investasi punya karakter berbeda. Utang membawa kewajiban membayar kembali pokok plus bunga, sedangkan investasi produktif, terutama yang berorientasi ekspor, bisa menciptakan kapasitas produksi baru, lapangan kerja, alih teknologi, dan sumber devisa atau mata uang asing yang baru. Ia mengingatkan bahwa selama pembiayaan neraca pembayaran Indonesia masih didominasi penerbitan Surat Berharga Negara (SBN) dan Sekuritas Rupiah Bank Indonesia (SRBI), beban bunga yang harus ditanggung akan terus membesar.",
+   "Menurut Fakhrul, mengurangi arus dana berbasis utang tidak cukup dilakukan sendirian, harus dibarengi kenaikan arus dana berbasis investasi sebagai penggantinya. Salah satu syaratnya adalah memperbaiki persepsi pasar modal Indonesia, termasuk menuntaskan sejumlah persoalan yang menjadi perhatian lembaga penyusun indeks global MSCI, karena hal ini ikut menentukan minat investor global menanamkan dana langsung ke Indonesia.",
+   "Data yang dipaparkan Fakhrul menunjukkan investasi asing langsung neto atau net FDI Indonesia dalam beberapa tahun terakhir hanya berkisar 0,8 sampai 1,7 persen terhadap produk domestik bruto (PDB), angka yang menurutnya belum cukup besar untuk mengubah komposisi pembiayaan eksternal secara struktural. Ia menambahkan bahwa investasi kotor Indonesia sebenarnya besar, tetapi angka neto lebih relevan karena perusahaan Indonesia juga makin banyak berinvestasi ke luar negeri, sehingga net FDI perlu didorong naik secara struktural agar Indonesia memperoleh investasi yang menghasilkan ekspor, substitusi impor, dan kemampuan menghasilkan devisa."
+  ],
+  "fotoAdegan": "Container ships being loaded at a busy Indonesian port terminal, cranes stacking cargo under hazy afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/04/69f872df80086-ilustrasi-ekspor-impor-ri-yang-tergambar-dari-suasana-di-terminal-petikemas-pelabuhan-tanjung-priok-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas arah pemikiran, bukan aturan baku: pemerintah ingin lebih mengandalkan investasi asing langsung ketimbang menerbitkan surat utang untuk menutup kebutuhan dolar negara. Yang kena dampak adalah investor di pasar modal dan pada akhirnya anggaran negara, karena SBN dan SRBI, yaitu surat utang pemerintah dan Bank Indonesia yang dibeli investor, selama ini jadi andalan menutup kebutuhan devisa, dan makin banyak diterbitkan, makin besar pula bunga yang harus dibayar. Datanya sendiri menunjukkan dua arah yang berlawanan: niat mengurangi utang sudah disuarakan, tapi investasi asing langsung yang benar-benar masuk ke Indonesia selama ini cuma 0,8 sampai 1,7 persen dari total pendapatan nasional, jumlah yang menurut ekonom belum cukup menggantikan peran utang. Arah mana yang menang baru bisa dibaca kalau ada langkah konkret menaikkan angka itu, misalnya perbaikan penilaian lembaga indeks global MSCI terhadap pasar modal Indonesia, atau kalau data neraca pembayaran Bank Indonesia pada kuartal berikutnya masih menunjukkan net FDI stagnan di kisaran lama.",
+  "imageV": "mtj0m165"
  },
  {
   "slug": "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
@@ -1355,11 +1517,91 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "penumpang-angkutan-laut-juli-naik-8-21-persen-udara-ikut-naik",
+  "category": "Makroekonomi",
+  "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
+  "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "BPS",
+   "Transportasi",
+   "Angkutan Laut",
+   "Angkutan Udara"
+  ],
+  "body": [
+   "Badan Pusat Statistik mencatat sebagian besar moda transportasi umum tumbuh pada Juli 2026 dibanding bulan sebelumnya, dipimpin kenaikan penumpang angkutan laut domestik sebesar 8,21 persen menjadi 3,2 juta orang. Data ini menjadi salah satu indikator mobilitas masyarakat dan aktivitas ekonomi domestik, karena mencakup hampir seluruh moda transportasi umum di dalam negeri.",
+   "Selain penumpangnya, jumlah barang yang diangkut kapal laut domestik juga naik 6,71 persen menjadi 46,0 juta ton. Di sektor udara, penumpang domestik naik 6,91 persen menjadi 5,0 juta orang dan penumpang internasional naik 6,00 persen menjadi 1,8 juta orang, sementara barang yang diangkut pesawat domestik naik 8,02 persen menjadi 48,5 ribu ton.",
+   "Angkutan kereta api turut tumbuh dengan penumpang naik 5,21 persen menjadi 52,1 juta orang dan barang naik 1,46 persen menjadi 6,5 juta ton. Satu-satunya moda yang turun pada Juli adalah angkutan sungai, danau, dan penyeberangan, dengan penumpang turun 6,81 persen menjadi 4,6 juta orang.",
+   "Jika dilihat secara kumulatif Januari-Juli 2026, gambarannya berbeda. Penumpang angkutan laut naik 2,50 persen dan barangnya naik 4,72 persen, penumpang kereta naik 7,85 persen, dan penumpang penyeberangan naik 7,16 persen meski sempat turun di Juli. Sebaliknya, angkutan udara domestik justru masih tercatat turun 3,35 persen untuk penumpang, 0,74 persen untuk penumpang internasional, dan 13,22 persen untuk barang dibanding periode yang sama tahun sebelumnya."
+  ],
+  "fotoAdegan": "Passengers boarding a domestic ferry at a busy Indonesian seaport, dock workers handling cargo crates nearby, hazy morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang menarik dari data ini bukan cuma kenaikan Juli, tapi bedanya dengan tren sepanjang tahun. Angkutan laut dan kereta sama-sama tumbuh baik di Juli maupun secara kumulatif Januari-Juli, tapi angkutan udara berbeda: penumpang domestik naik 6,91 persen di Juli, namun dihitung dari awal tahun jumlahnya masih turun 3,35 persen dibanding periode yang sama tahun lalu, dan barang yang diangkut pesawat domestik malah turun tajam 13,22 persen. Artinya kenaikan Juli untuk angkutan udara lebih terlihat seperti pemulihan sebagian ketimbang tren naik yang sudah mapan, sementara laut dan kereta memang sedang tumbuh berkelanjutan. Yang kena dampak langsung adalah penumpang harian dan pelaku usaha logistik yang mengandalkan kargo udara, karena penurunan tajam kargo biasanya berbarengan dengan permintaan pengiriman yang melambat. Juli juga bersamaan dengan musim libur sekolah, jadi lonjakan penumpang bisa saja musiman, dan data Agustus 2026 akan menunjukkan apakah kenaikan ini bertahan atau cuma efek libur yang segera surut."
+ },
+ {
+  "slug": "harga-impor-ri-naik-lebih-cepat-dari-ekspor-triwulan-ii-2026",
+  "category": "Makroekonomi",
+  "title": "Harga Impor RI [Naik] Lebih Cepat dari Ekspor Triwulan II-2026",
+  "deck": "BPS mencatat indeks harga ekspor dan impor Indonesia sama-sama naik pada triwulan II-2026, tapi kenaikan harga impor lebih tinggi, terutama untuk kelompok migas.",
+  "image": "assets/img/pasar-ikan.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2613",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "BPS",
+   "ekspor-impor",
+   "migas",
+   "triwulan II-2026"
+  ],
+  "body": [
+   "Badan Pusat Statistik melaporkan indeks harga ekspor dan indeks harga impor Indonesia sama-sama naik pada triwulan II-2026, tetapi kenaikan harga impor lebih besar. Indeks ini adalah ukuran BPS untuk rata-rata perubahan harga barang yang dijual ke luar negeri dan yang dibeli dari luar negeri, terlepas dari berapa banyak volumenya. Bagi pembaca awam, artinya barang yang dibeli Indonesia dari luar negeri kini lebih mahal, dan kenaikan itu lebih tajam dibanding harga yang didapat Indonesia dari hasil ekspornya sendiri.",
+   "Dibanding triwulan sebelumnya, indeks harga ekspor naik 10,92 persen, sementara indeks harga impor naik 14,19 persen. Dibanding periode yang sama tahun lalu, kenaikannya juga tinggi, masing-masing 24,94 persen untuk ekspor dan 25,45 persen untuk impor. Kenaikan paling mencolok ada di kelompok migas: harga ekspor migas naik 23,47 persen dari kuartal sebelumnya, tapi harga impor migas melonjak jauh lebih tinggi, 40,30 persen.",
+   "Sementara itu, kelompok nonmigas relatif lebih seimbang. Harga ekspor nonmigas naik 10,29 persen dari kuartal sebelumnya, sedikit di atas kenaikan harga impor nonmigas yang 9,91 persen. Pola ini menunjukkan bahwa tekanan kenaikan harga impor secara keseluruhan banyak didorong oleh melonjaknya harga barang dan energi terkait migas, bukan oleh barang nonmigas."
+  ],
+  "fotoAdegan": "Container ship being loaded by cranes at a busy Indonesian seaport, workers in vests directing operations, late afternoon light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar dua indeks yang sama-sama naik, melainkan arah selisihnya: di kelompok migas, harga impor melonjak 40,30 persen dari kuartal sebelumnya, jauh melampaui kenaikan harga ekspor migas yang 23,47 persen. Di kelompok nonmigas justru sebaliknya, kenaikan harga ekspor sedikit lebih tinggi dari impor, sehingga tekanan utama datang dari sisi energi dan barang terkait migas, bukan dari barang dagangan umum. Pihak yang paling merasakan dampaknya adalah pelaku usaha yang bergantung pada barang impor migas, seperti importir bahan bakar dan industri yang memakainya sebagai bahan baku, karena biaya belanja mereka naik lebih cepat daripada harga jual barang Indonesia ke luar negeri. Kalau selisih ini terus melebar, itu bisa membebani neraca dagang Indonesia, yaitu selisih antara nilai barang yang diekspor dan diimpor. Yang akan memastikan apakah ini tren berkelanjutan atau lonjakan sesaat adalah rilis indeks harga ekspor-impor triwulan III-2026 dari BPS, terutama apakah jarak antara harga ekspor dan impor migas tetap lebar atau mulai menyempit."
+ },
+ {
+  "slug": "nilai-tukar-petani-naik-1-05-persen-ke-129-19",
+  "category": "Makroekonomi",
+  "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
+  "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
+  "image": "assets/img/pasar-beras.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-08-31T17:00:00.000Z",
+  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2612",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "NTP",
+   "Petani",
+   "BPS",
+   "Harga Beras"
+  ],
+  "body": [
+   "Nilai Tukar Petani (NTP) nasional pada Agustus 2026 tercatat 129,19, naik 1,05 persen dibanding bulan sebelumnya, menurut data Badan Pusat Statistik. NTP adalah indikator yang membandingkan harga yang diterima petani dari hasil panen dengan harga yang harus mereka bayar untuk kebutuhan sehari-hari dan biaya produksi. Semakin tinggi indeksnya, semakin baik daya beli petani dibanding biaya yang mereka tanggung.",
+   "Kenaikan NTP bulan ini terjadi karena harga yang diterima petani dari hasil pertanian naik 1,14 persen, jauh lebih cepat dibanding kenaikan harga yang harus dibayar petani yang hanya 0,09 persen. Adapun Indeks Konsumsi Rumah Tangga petani, yaitu biaya kebutuhan sehari-hari seperti makanan, sandang, dan jasa, naik tipis 0,06 persen, dengan kenaikan tertinggi pada kelompok perawatan pribadi dan jasa lainnya.",
+   "Selain NTP, BPS juga mencatat Nilai Tukar Usaha Pertanian (NTUP), yaitu perbandingan harga hasil produksi dengan biaya produksi usaha tani saja tanpa memperhitungkan konsumsi rumah tangga petani, sebesar 133,33 atau naik 0,98 persen dibanding bulan sebelumnya.",
+   "Dari sisi harga pangan, rata-rata harga beras kualitas premium di tingkat penggilingan pada Agustus 2026 sebesar Rp15.062 per kilogram, naik 1,22 persen dari bulan sebelumnya. Harga beras kualitas medium tercatat Rp13.897 per kilogram, naik 1,48 persen."
+  ],
+  "fotoAdegan": "Farmers harvesting rice in a green paddy field, carrying baskets of grain, early morning light in rural Indonesia",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan NTP 1,05 persen ke 129,19 berarti harga yang diterima petani dari hasil panen naik 1,14 persen, lebih cepat dibanding biaya hidup dan produksi yang mereka tanggung, yang cuma naik 0,09 persen. Petani produsen pangan adalah pihak yang langsung diuntungkan, sementara di sisi lain harga beras di tingkat penggilingan juga naik, premium 1,22 persen dan medium 1,48 persen, yang berpotensi ikut menaikkan harga beras di tingkat konsumen. Data ini hanya potret satu bulan sehingga belum bisa dipastikan apakah kenaikan kesejahteraan petani ini tren berkelanjutan atau sekadar fluktuasi musim panen. Yang perlu dipantau adalah rilis NTP bulan berikutnya serta rincian per subsektor pertanian seperti tanaman pangan, hortikultura, perkebunan, peternakan, dan perikanan, yang biasanya dipecah BPS dan bisa bergerak berbeda arah."
+ },
+ {
   "slug": "laju-impor-ri-kalahkan-ekspor-surplus-dagang-menipis",
   "category": "Makroekonomi",
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
@@ -3188,7 +3430,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",

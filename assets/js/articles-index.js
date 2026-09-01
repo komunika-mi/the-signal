@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
+  "category": "Industri",
+  "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
+  "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
+  "date": "2 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "CPO",
+   "biji kakao",
+   "bea keluar",
+   "harga ekspor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai",
+  "category": "Moneter",
+  "title": "Gempa NTT: BI Kirim [32,5] Ton Bantuan, Amankan Uang Tunai",
+  "deck": "Bank Indonesia mengirim 32,5 ton bantuan bagi korban gempa di NTT dalam tiga tahap, sekaligus menjaga pasokan uang tunai dan stabilitas harga pangan di wilayah terdampak.",
+  "date": "2 September 2026",
+  "image": "assets/img/gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai.jpg",
+  "imageV": "mtj7dc1r",
+  "tags": [
+   "Bank Indonesia",
+   "Gempa NTT",
+   "Ekspedisi Rupiah Berdaulat",
+   "Inflasi Daerah"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "inflasi-agustus-2026-3-19-masih-di-kisaran-target",
   "category": "Makroekonomi",
   "title": "Inflasi Agustus 2026 [3,19%], Masih di Kisaran Target",
@@ -1031,7 +1065,7 @@ var ARTICLES = [
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
   "date": "1 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "emas",
    "HPE",
@@ -6502,38 +6536,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0396750d57_fa88a653da.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-catatkan-133-487-saham-baru-dari-konversi-waran-seri-ii",
-  "category": "Aksi Korporasi",
-  "title": "INET Catatkan 133.487 Saham Baru dari [Konversi] Waran Seri II",
-  "deck": "BEI mencatat tambahan 133.487 saham INET hasil konversi Waran Seri II, sehingga total saham beredar naik menjadi 22.375.536.318 lembar mulai 24 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/inet-catatkan-133-487-saham-baru-dari-konversi-waran-seri-ii.jpg",
-  "tags": [
-   "INET",
-   "Waran Seri II",
-   "Pencatatan Saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0057122704_485b7e5c0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-catat-konversi-200-saham-dari-eksekusi-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "CYBR catat konversi 200 saham dari eksekusi [waran] Seri I",
-  "deck": "ITSEC Asia mencatatkan 200 saham baru hasil konversi 200 waran seri I, saham beredar naik jadi 13.483.357.705 lembar per 24 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "waran seri I",
-   "pencatatan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c13e7bf63_604b62fc18.pdf",
   "sourceLabel": "IDX"
  }
 ];

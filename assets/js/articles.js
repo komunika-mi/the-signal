@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
+  "category": "Industri",
+  "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
+  "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-01T21:48:22.453Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "CPO",
+   "biji kakao",
+   "bea keluar",
+   "harga ekspor"
+  ],
+  "body": [
+   "Kementerian Perdagangan menetapkan kenaikan harga acuan ekspor untuk sejumlah komoditas perkebunan dan kehutanan pada September 2026, dengan kenaikan paling mencolok terjadi pada biji kakao. Perubahan ini penting karena harga acuan tersebut menjadi dasar perhitungan bea keluar dan pungutan ekspor yang dibayar eksportir, sehingga ikut memengaruhi biaya produksi industri sawit, kakao, dan kayu olahan dalam negeri.",
+   "Harga Referensi (HR) minyak sawit mentah untuk September ditetapkan USD 1.007,51 per ton, naik USD 10,99 atau 1,1 persen dari Agustus yang sebesar USD 996,52 per ton. Angka ini dihitung dari rata-rata harga di bursa CPO Indonesia dan Malaysia selama periode 20 Juli hingga 19 Agustus, setelah satu dari tiga sumber harga dikeluarkan dari perhitungan karena selisihnya melebihi USD 40 dari median. Dari harga referensi ini, pemerintah menarik bea keluar USD 148 per ton dan pungutan ekspor 12,5 persen atau setara USD 125,94 per ton, yang menjadi beban tambahan bagi eksportir sawit. Untuk minyak goreng kemasan bermerek dengan berat maksimal 25 kilogram, bea keluarnya ditetapkan USD 33 per ton.",
+   "Harga Referensi biji kakao untuk September ditetapkan USD 5.635,76 per ton, naik USD 210,79 atau 3,89 persen dari bulan sebelumnya. Kenaikan ini mendorong Harga Patokan Ekspor (HPE) biji kakao naik lebih tajam lagi, yaitu USD 206 atau 4,07 persen, menjadi USD 5.271 per ton. Menurut Kementerian Perdagangan, penyebabnya adalah turunnya produksi kakao akibat serangan hama dan cuaca buruk terkait El Nino di Afrika Barat, kawasan penghasil kakao terbesar dunia. Bea keluar biji kakao sendiri tetap di angka 7,5 persen dari HPE.",
+   "Harga patokan ekspor produk kulit pada September tidak berubah dari bulan sebelumnya, begitu juga sejumlah produk kayu tertentu seperti keping kayu (chipwood) serta kayu olahan jenis sungkai dan merbau tertentu. Getah pinus justru naik USD 39 atau 3,85 persen menjadi USD 1.052 per ton, seiring kenaikan pada kayu veneer dari hutan alam dan beberapa jenis kayu olahan seperti meranti, rimba campuran, jati, dan pinus dari hutan tanaman. Sebaliknya, harga patokan turun untuk kayu veneer dari hutan tanaman, kayu lapis untuk kotak kemasan, serta kayu olahan jenis merbau, eboni, dan karet dari hutan tanaman. Seluruh ketentuan ini tertuang dalam Kepmendag Nomor 1777 Tahun 2026, sementara daftar merek minyak goreng kemasan yang kena bea keluar khusus diatur dalam Kepmendag Nomor 1778 Tahun 2026."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Kenaikan HR CPO yang cuma 1,1 persen kali ini jauh lebih kecil dibanding lonjakan HR dan HPE biji kakao yang mendekati 4 persen, dan penyebabnya beda. CPO mengikuti pergerakan harga di bursa Indonesia dan Malaysia, sementara kakao terdorong masalah pasokan di Afrika Barat akibat hama dan cuaca buruk yang sudah berlangsung beberapa musim. Yang langsung kena adalah eksportir sawit yang bea keluar dan pungutan ekspornya naik mengikuti harga referensi, serta industri pengolahan kakao dan cokelat dalam negeri yang bahan bakunya makin mahal karena harga acuan ekspor ikut terangkat. Karena akar masalah kakao ada di kebun Afrika Barat, bukan kebijakan dalam negeri, arahnya kemungkinan besar harga acuan kakao tetap tertekan naik selama produksi di sana belum pulih, dan penetapan HR-HPE Oktober 2026 akan menunjukkan apakah kenaikan kali ini sesaat atau bagian dari tren yang berlanjut."
+ },
+ {
+  "slug": "gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai",
+  "category": "Moneter",
+  "title": "Gempa NTT: BI Kirim [32,5] Ton Bantuan, Amankan Uang Tunai",
+  "deck": "Bank Indonesia mengirim 32,5 ton bantuan bagi korban gempa di NTT dalam tiga tahap, sekaligus menjaga pasokan uang tunai dan stabilitas harga pangan di wilayah terdampak.",
+  "image": "assets/img/gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-01T21:48:06.206Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Gempa NTT",
+   "Ekspedisi Rupiah Berdaulat",
+   "Inflasi Daerah"
+  ],
+  "body": [
+   "Bank Indonesia mengirimkan total 32,5 ton bantuan kemanusiaan untuk korban gempa bumi di Nusa Tenggara Timur, mencakup warga di Pulau Palue serta Kabupaten Sikka, Ende, dan Nagekeo. Bantuan disalurkan lewat jalur udara bekerja sama dengan Badan Nasional Penanggulangan Bencana dan TNI Angkatan Udara. Selain urusan kemanusiaan, langkah ini terkait fungsi Bank Indonesia menjaga peredaran uang tunai dan harga pangan tetap stabil di daerah yang jalur distribusinya terganggu bencana.",
+   "Penyaluran dilakukan bertahap mengikuti kebutuhan di lapangan. Tahap pertama pada 24 Agustus sebanyak 8,5 ton berisi obat-obatan, air mineral, makanan siap saji, dan perlengkapan kebersihan. Tahap kedua pada 27 Agustus sebanyak 9,7 ton berupa bahan pangan pokok dan air mineral, sementara tahap ketiga pada 31 Agustus sebanyak 14,3 ton berisi tenda, tempat tidur lipat, genset, tambahan obat, dan makanan siap saji.",
+   "Di sisi lain, kantor perwakilan Bank Indonesia di NTT memastikan bank-bank di wilayah terdampak tetap punya cukup uang tunai, termasuk lewat kas titipan atau simpanan uang yang dititipkan ke bank setempat agar tidak perlu bolak-balik ke kantor pusat daerah. Bank Indonesia juga menggandeng TNI Angkatan Laut lewat program Ekspedisi Rupiah Berdaulat untuk mengirim uang layak edar ke pulau-pulau yang sulit dijangkau, yaitu Kupang, Pulau Riung, Pulau Palue, Pulau Pamana, Pulau Waiwerang, dan Pulau Lamalera.",
+   "Bank Indonesia turut berkoordinasi dengan pemerintah daerah untuk mencegah lonjakan harga pangan pascabencana, dengan fokus menjaga pasokan komoditas strategis. Ke depan, bantuan akan berlanjut ke program pemulihan pascabencana dan pemberdayaan masyarakat, yang menurut Bank Indonesia sejalan dengan mandat Undang-Undang Pengembangan dan Penguatan Sektor Keuangan."
+  ],
+  "fotoAdegan": "Volunteers stacking boxes of tents and emergency supplies beside a cargo plane on an airport tarmac, overcast tropical sky",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2817426/Cover-sp_2817426.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah bukan sekadar bantuan logistik: Bank Indonesia menjalankan Ekspedisi Rupiah Berdaulat bersama TNI Angkatan Laut agar pulau-pulau terpencil seperti Riung, Palue, Pamana, Waiwerang, dan Lamalera tetap punya uang tunai layak pakai, plus menitipkan kas ke bank-bank setempat supaya kebutuhan uang warga tidak macet saat jalur distribusi normal terganggu gempa. Yang kena dampak langsung adalah warga Pulau Palue, Sikka, Ende, dan Nagekeo, serta perbankan lokal yang bergantung pada pasokan uang tunai dari Bank Indonesia. Bank Indonesia juga menyebut akan lanjut ke program pemulihan dan pemberdayaan masyarakat sesuai mandat UU P2SK, yang memang mewajibkan bank sentral menjalankan program pemberdayaan selain mengatur uang beredar dan suku bunga. Arahnya terlihat bergeser dari respons darurat ke keterlibatan jangka lebih panjang di pemulihan ekonomi daerah bencana, tapi itu baru akan jelas lewat bentuk konkret program pemberdayaan yang dijanjikan serta data inflasi NTT pada bulan-bulan mendatang.",
+  "imageV": "mtj7dc1r"
+ },
+ {
   "slug": "inflasi-agustus-2026-3-19-masih-di-kisaran-target",
   "category": "Makroekonomi",
   "title": "Inflasi Agustus 2026 [3,19%], Masih di Kisaran Target",
@@ -1650,7 +1705,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T21:56:54.150Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",

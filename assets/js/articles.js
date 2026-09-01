@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
+  "category": "Energi",
+  "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 masih menunggu validasi data agar subsidi BBM tepat sasaran.",
+  "image": "assets/img/pembatasan-pertalite-desil-9-10-tunggu-validasi-data.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T20:00:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464219-wacana-pembatasan-bbm-pertalite-untuk-warga-desil-9-10-bahlil-ungkap-tunggu-validasi-data",
+  "tags": [
+   "bbm",
+   "pertalite",
+   "desil",
+   "bahlil lahadalia"
+  ],
+  "body": [
+   "Pemerintah masih mengkaji rencana pembatasan pembelian BBM bersubsidi jenis Pertalite untuk masyarakat yang masuk kelompok desil 9 dan 10, yakni sekitar 20 persen penduduk dengan tingkat pengeluaran tertinggi. Menteri ESDM Bahlil Lahadalia menyebut kebijakan itu belum bisa diterapkan karena pemerintah masih menunggu validitas data agar subsidi benar-benar jatuh ke kelompok yang berhak. Rencana ini menyangkut siapa yang masih bisa membeli Pertalite dengan harga bersubsidi dan siapa yang nantinya harus beralih ke BBM nonsubsidi.",
+   "Bahlil menyampaikan hal itu setelah rapat kerja dengan Komisi XII DPR RI di Kompleks Parlemen Senayan, Jakarta. \"Masih dikaji. Karena apa? Kami ingin subsidi itu harus tepat sasaran. Nah, salah satu cara untuk membuat tepat sasaran, data kami harus valid,\" kata Bahlil. Ia menambahkan pemerintah sedang memeriksa akurasi pembagian masyarakat ke dalam kelompok desil tersebut, sebab data yang keliru bisa membuat kebijakan pembatasan berjalan tidak sesuai tujuan. \"Jangan sampai harapan kami baik, tetapi ternyata dalam implementasinya, karena datanya tidak valid, membuat sesuatu yang tidak sesuai dengan harapan kami,\" ujarnya.",
+   "Dalam APBN 2026, pemerintah mengalokasikan anggaran subsidi energi sebesar Rp210,1 triliun, setara 65,87 persen dari total anggaran subsidi negara yang mencapai Rp318,9 triliun. Jika ditambah anggaran kompensasi untuk badan usaha penyalur energi, total dana yang disiapkan pemerintah untuk mendukung ketahanan energi mencapai Rp381,3 triliun.",
+   "Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya menyebut pembatasan subsidi BBM khusus untuk desil 10 berpotensi menghemat sekitar 10 persen dari anggaran subsidi energi. Menurut Purbaya, langkah ini merupakan bagian dari upaya memperbaiki ketepatan sasaran penyaluran subsidi BBM dan akan dilakukan secara bertahap. Ia menilai sistem yang dimiliki Pertamina sudah cukup memadai untuk mendukung penerapan pembatasan tersebut."
+  ],
+  "fotoAdegan": "A fuel attendant filling a motorcycle's tank at a busy gas station pump, queue of vehicles waiting, daytime light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/18/6a33924a2b1b2-ilustrasi-pengisian-bbm-di-spbu_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan kebijakannya, melainkan tahapnya: rencana pembatasan Pertalite untuk desil 9-10 belum jalan karena Kementerian ESDM masih memvalidasi data pembagian desil, sementara Kementerian Keuangan sudah menghitung potensi penghematan sekitar 10 persen dari anggaran subsidi energi kalau pembatasan diterapkan khusus desil 10. Yang terdampak adalah rumah tangga di kelompok pengeluaran tertinggi, sekitar 20 persen penduduk paling mampu, yang selama ini masih bisa membeli Pertalite dengan harga subsidi, serta Pertamina yang perlu menyiapkan sistem verifikasi pembeli di lapangan. Ada sedikit perbedaan sinyal antara dua kementerian, Purbaya menyebut sistem Pertamina sudah memadai dan pembatasan akan bertahap, sementara Bahlil masih menahan kebijakan itu sampai data desil benar-benar valid. Ini bisa mengarah ke dua kemungkinan, pembatasan mulai berjalan begitu ESDM menuntaskan validasi data dalam waktu dekat, atau tertunda lagi seperti sejumlah rencana pembatasan BBM subsidi sebelumnya. Yang akan memastikan arahnya adalah kapan Kementerian ESDM mengumumkan hasil validasi data desil tersebut dan apakah disertai tenggat penerapan yang jelas.",
+  "imageV": "mtir851w"
+ },
+ {
+  "slug": "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
+  "category": "Teknologi",
+  "title": "Telkom Kukuhkan Indonesia jadi [Hub] Digital Asia Pasifik",
+  "deck": "BATIC 2026 di Bali menghadirkan lebih dari 2.700 delegasi dari 67 negara, jadi ajang Telkom lewat Telin menegaskan pergeseran bisnisnya ke ekosistem digital, cloud, dan AI di Asia Pasifik.",
+  "image": "assets/img/telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T19:25:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464203-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik",
+  "tags": [
+   "Telkom",
+   "Telin",
+   "BATIC 2026",
+   "Digital"
+  ],
+  "body": [
+   "PT Telekomunikasi Indonesia International atau Telin, anak usaha PT Telkom Indonesia (Persero) Tbk, menggelar Bali Annual Telkom International Conference (BATIC) 2026 di Bali pada 24 hingga 28 Agustus 2026. Acara ini mempertemukan pelaku industri digital dari berbagai negara untuk membahas arah pengembangan infrastruktur jaringan, layanan cloud, dan kecerdasan buatan di kawasan Asia Pasifik. Bagi Indonesia, ajang ini menjadi cara untuk menegaskan posisinya sebagai tempat pertemuan bisnis digital lintas negara, bukan sekadar pasar bagi produk digital dari luar.",
+   "Konferensi bertema 'Uniting Ecosystem to Drive Connected Progress' ini diikuti lebih dari 2.700 delegasi dari lebih dari 760 perusahaan asal 67 negara, dengan 72 sponsor dan exhibitor yang membuka booth pameran. Melalui aplikasi resmi BATIC, tercatat lebih dari 4.500 pertemuan bisnis terjadwal antar-peserta selama acara berlangsung, menunjukkan skala jejaring yang terbentuk dari kegiatan ini.",
+   "Hari pertama konferensi dibuka oleh Senior Managing Director Teneo, Sam Evans, yang membahas peran jaringan generasi berikutnya bagi pertumbuhan ekonomi dan masyarakat. Direktur Utama Telkom Dian Siswarini kemudian menyampaikan keynote bertajuk 'Empowering the Digital Future: Connectivity, Innovation, and Growth', yang menekankan pentingnya jaringan canggih, otomatisasi berbasis AI, serta infrastruktur digital untuk membuka peluang pertumbuhan baru. 'Membangun masa depan digital mengharuskan kita untuk memperkuat fondasi, mengadopsi kecerdasan, dan berkolaborasi di seluruh ekosistem. Melalui berbagai upaya tersebut, kita dapat mentransformasi konektivitas menjadi inovasi yang lebih besar, peluang ekonomi, dan pertumbuhan digital yang berkelanjutan,' ujar Dian.",
+   "Dian juga memaparkan strategi transformasi bernama TLKM 30 yang dijalankan TelkomGroup agar tetap relevan di tengah perubahan lanskap industri telekomunikasi. Strategi ini terdiri dari empat pilar yang berjalan bersamaan, yaitu operational and service excellence, streamlining, unlock value, dan modus-operandi shift."
+  ],
+  "fotoAdegan": "Wide conference hall in Bali with attendees networking near exhibition booths, tropical daylight streaming through tall windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96c38c57e94-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan produk atau harga, melainkan cara Telkom memosisikan dirinya: lewat BATIC 2026, perusahaan pelat merah ini menjadikan Bali sebagai etalase untuk menunjukkan bahwa bisnisnya tidak lagi sekadar menyediakan sambungan telepon dan internet, tapi merambah cloud dan kecerdasan buatan. Pihak yang paling terdampak adalah Telkom Group dan anak usahanya Telin, karena strategi ini menentukan ke mana pendapatan perusahaan akan digantungkan ke depan, sementara ribuan mitra bisnis dari 67 negara yang hadir berpeluang menjalin kerja sama lewat lebih dari 4.500 pertemuan yang difasilitasi acara ini. Arahnya terlihat dari strategi TLKM 30 yang disebut Dian Siswarini, dengan empat fokus yaitu merapikan operasional, memangkas biaya lewat efisiensi, mencari sumber pendapatan baru, dan mengubah cara kerja perusahaan, tanda bahwa Telkom sedang bergeser dari bisnis telekomunikasi tradisional ke ekosistem digital yang lebih luas. Yang akan menunjukkan apakah pergeseran ini membuahkan hasil adalah laporan keuangan Telkom pada kuartal-kuartal mendatang, khususnya seberapa besar pendapatan dari layanan digital dan korporat dibanding bisnis seluler yang selama ini jadi andalan.",
+  "imageV": "mtir85ix"
+ },
+ {
+  "slug": "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",
+  "category": "Pasar Modal",
+  "title": "Modal Asing [Rp140,6 T] Masuk RI hingga Agustus 2026",
+  "deck": "Menkeu Purbaya Yudhi Sadewa sebut modal asing Rp140,6 triliun masuk RI hingga 28 Agustus 2026, seiring yield SBN turun dari puncak 7,39 persen Juni ke sekitar 7 persen.",
+  "image": "assets/img/modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T18:40:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464183-purbaya-sebut-modal-asing-rp1406-triliun-masuk-ri-kepercayaan-investor-global-masih-kuat",
+  "tags": [
+   "modal asing",
+   "yield SBN",
+   "rupiah",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa melaporkan modal asing yang masuk ke Indonesia mencapai Rp140,6 triliun hingga 28 Agustus 2026. Angka ini disampaikan dalam rapat kerja dengan Komisi XI DPR RI di Kompleks Parlemen, Senayan, Selasa (1/9/2026). Bagi pembaca awam, derasnya modal asing yang masuk berarti investor luar negeri masih percaya menaruh uangnya di aset Indonesia, meski situasi ekonomi global sedang tidak menentu.",
+   "Purbaya menyebut tiga indikator utama yang menunjukkan sentimen positif itu, yaitu nilai tukar rupiah yang menguat, Indeks Harga Saham Gabungan (IHSG) yang naik, dan imbal hasil Surat Berharga Negara (SBN) yang bergerak kondusif. Imbal hasil atau yield SBN tenor 10 tahun, yaitu bunga yang harus dibayar pemerintah saat berutang lewat surat utang negara, kini berada di kisaran 7 persen. Level itu turun dari titik tertingginya tahun ini sebesar 7,39 persen yang tercatat pada 11 Juni 2026.",
+   "Menurut Purbaya, tren yield yang menurun ini berjalan seiring dengan aliran modal asing yang terus tercatat masuk hingga akhir Agustus. Ia menilai kondisi tersebut mencerminkan stabilitas perekonomian nasional yang tetap terjaga, sebuah faktor yang menurutnya semakin penting di tengah ketidakpastian ekonomi global yang masih tinggi."
+  ],
+  "fotoAdegan": "Pedestrians and office workers walking past modern glass office towers in Jakarta's financial district at midday",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82bb19ac828-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yield SBN tenor 10 tahun, yaitu tingkat bunga yang harus dibayar pemerintah saat menerbitkan surat utang, turun dari puncaknya 7,39 persen pada 11 Juni 2026 ke sekitar 7 persen sekarang. Penurunan ini berjalan bersamaan dengan modal asing Rp140,6 triliun yang masuk ke pasar keuangan domestik hingga akhir Agustus, dana yang sebagian dipakai investor asing untuk membeli SBN dan saham. Pihak yang paling terdampak adalah pemerintah, karena biaya utang yang lebih murah membuat penerbitan SBN berikutnya lebih ringan, sementara investor pemegang SBN dan saham ikut menikmati penguatan harga. Arah yang terlihat sejauh ini adalah pelonggaran biaya utang pemerintah selama modal asing terus mengalir masuk, dan itu akan lebih jelas terkonfirmasi dari data mingguan aliran modal Bank Indonesia atau hasil lelang SBN dalam beberapa minggu mendatang.",
+  "imageV": "mtir85yv"
+ },
+ {
   "slug": "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
   "category": "Aksi Korporasi",
   "title": "HUMI Gelar RUPSLB 8 Oktober, Agenda [Pergantian] Pengurus",
@@ -212,6 +292,59 @@ var ARTICLES = [
   "fotoAdegan": "Workers stitching fabric at rows of sewing machines in a garment factory, folded textile bundles nearby, bright industrial lighting",
   "takeaway": "Kabar ini condong positif bagi TRIS karena dividen interim Rp7,02 miliar ini dibayar dari laba yang memang tumbuh, bukan dari kas cadangan yang menipis, terlihat dari laba bersih semester pertama 2026 sebesar Rp57,9 miliar yang naik 12,2 persen berkat penjualan ekspor yang melonjak 20,3 persen menjadi Rp530,5 miliar. Pos yang tersentuh adalah kas dan ekuitas perusahaan, yang akan berkurang senilai dana yang dibagikan begitu dicairkan, sementara laba per saham tidak berubah karena pembagian dividen tidak menambah jumlah saham beredar. Yang perlu dipantau berikutnya adalah kepastian pemegang saham yang tercatat di Daftar Pemegang Saham pada 11 September 2026, karena hanya mereka yang berhak menerima dana yang akan dicairkan pada 23 September 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi",
+  "category": "Makroekonomi",
+  "title": "Data Desil DTSEN Keliru? Pemerintah Buka Jalur [Koreksi]",
+  "deck": "Kementerian Sosial memastikan status desil DTSEN yang dianggap warga tidak sesuai kondisi ekonomi bisa dikoreksi lewat Command Center, WhatsApp, aplikasi Cek Bansos, atau kantor kelurahan.",
+  "image": "assets/img/data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T17:29:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464166-desil-dtsen-bisa-salah-gus-ipul-buka-pintu-koreksi-data-bahlil-singgung-nasib-pembatasan-pertalite",
+  "tags": [
+   "DTSEN",
+   "Desil",
+   "Bantuan Sosial",
+   "Kemensos"
+  ],
+  "body": [
+   "Menteri Sosial Saifullah Yusuf, yang akrab disapa Gus Ipul, menegaskan status desil dalam Data Tunggal Sosial dan Ekonomi Nasional (DTSEN) bukan sesuatu yang final. Jika ditemukan kekeliruan atau data tidak mencerminkan kondisi ekonomi warga yang sebenarnya, pemerintah akan memperbaikinya. Pernyataan ini merespons banyaknya keluhan masyarakat yang merasa posisi desil mereka tidak sesuai kondisi ekonomi riil, sementara desil menjadi acuan utama penentuan penerima berbagai program bantuan pemerintah.",
+   "Gus Ipul menyampaikan hal itu di Kompleks Parlemen, Senayan, Jakarta, Senin (31/8/2026). Ia menyebut pemerintah terbuka menerima masukan dan koreksi data setiap kali ada laporan ketidaktepatan sasaran. Untuk mengajukan koreksi, masyarakat bisa memakai Command Center Kementerian Sosial, nomor WhatsApp pengaduan, atau aplikasi Cek Bansos. Warga juga bisa datang langsung ke kantor kelurahan atau balai desa untuk memperbarui data lewat operator yang sudah disiapkan di sana.",
+   "Sistem desil membagi masyarakat ke dalam sepuluh kelompok berdasarkan kemampuan sosial ekonomi. Desil 1 adalah 10 persen kelompok dengan kondisi ekonomi paling rendah, sementara desil 10 adalah kelompok masyarakat paling mampu, dengan delapan kelompok lain tersebar di antaranya. Menurut Gus Ipul, pembagian berjenjang ini dibuat agar penyaluran program bantuan pemerintah lebih tepat sasaran."
+  ],
+  "fotoAdegan": "A village administration officer assisting a resident with paperwork at a community service counter, other people waiting in line, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/31/6a9502d5794f4-saifullah-yusuf-atau-gus-ipul_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah dibukanya kanal resmi untuk mengoreksi status desil DTSEN, yaitu Command Center, nomor WhatsApp, aplikasi Cek Bansos, atau datang langsung ke kelurahan dan balai desa, setelah muncul banyak keluhan warga. Pihak yang langsung terdampak adalah rumah tangga yang merasa posisi desilnya, dari 1 sampai 10, tidak sesuai kondisi ekonomi mereka, sebab desil itulah yang menentukan siapa berhak menerima program bantuan pemerintah. Yang belum diungkap Gus Ipul adalah berapa banyak pengaduan yang sudah masuk sejak DTSEN dipakai dan berapa lama proses verifikasi ulang di kelurahan biasanya berjalan, sehingga belum jelas apakah pembukaan kanal ini akan benar-benar mengubah komposisi penerima bantuan atau sekadar menampung keluhan. Yang perlu dipantau selanjutnya adalah data resmi dari Kementerian Sosial soal jumlah pengaduan desil yang sudah diproses dan hasil perbaikannya.",
+  "imageV": "mtir86i4"
+ },
+ {
+  "slug": "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Naik] 1,14% ke 6.599,94, Ditopang Energi-Teknologi",
+  "deck": "IHSG ditutup menguat 1,14 persen ke 6.599,94 pada Selasa, ditopang lonjakan sektor perindustrian, teknologi, dan energi.",
+  "image": "assets/img/ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T16:39:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464151-ihsg-tancap-gas-di-akhir-perdagangan-naik-114-ke-659994-saham-energi-dan-teknologi-jadi-penopang",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "saham energi",
+   "saham teknologi"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup menguat 74,46 poin atau 1,14 persen ke level 6.599,94 pada perdagangan Selasa, 1 September 2026. Penguatan ini terjadi karena mayoritas saham dan hampir seluruh sektor bergerak kompak ke zona hijau, menandakan sentimen beli yang merata di pasar hari itu.",
+   "Dari 11 indeks sektoral yang tercatat di Bursa Efek Indonesia, sembilan di antaranya ditutup menguat. Sektor perindustrian mencatat kenaikan paling tajam sebesar 3,71 persen, disusul sektor teknologi yang naik 2,90 persen dan sektor energi yang menguat 2,39 persen. Sementara itu, sektor barang baku melemah 0,56 persen dan sektor infrastruktur turun tipis 0,12 persen, menjadi dua sektor yang tertinggal dari tren penguatan hari itu.",
+   "Dominasi saham penguat juga terlihat dari jumlahnya. Pada penutupan sesi kedua, sebanyak 420 saham naik harga, 233 saham turun, dan 310 saham lainnya tidak berubah. Aktivitas perdagangan tercatat ramai dengan volume 51,72 miliar lembar saham berpindah tangan, nilai transaksi mencapai Rp20,02 triliun, dan frekuensi transaksi tembus 2,61 juta kali. Kapitalisasi pasar seluruh saham di BEI pada hari itu tercatat Rp11.531 triliun.",
+   "Sejumlah saham yang tergabung dalam indeks LQ45, kelompok 45 saham dengan nilai perdagangan dan ukuran perusahaan terbesar di bursa, turut mencatat kenaikan harga yang cukup tinggi pada perdagangan Selasa tersebut."
+  ],
+  "fotoAdegan": "Workers operating heavy machinery on an industrial factory production line, sparks flying, hard hats visible, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data yang tersedia hanya mencatat angka pergerakan harian tanpa menjelaskan pemicu di balik lonjakan sektor perindustrian, teknologi, dan energi, entah itu aksi beli spekulatif, sentimen dari luar negeri, atau kabar dari emiten tertentu. Yang jelas terdampak langsung adalah investor yang memegang saham di tiga sektor tersebut, karena kenaikannya jauh di atas rata-rata pasar, sementara pemegang saham di sektor barang baku dan infrastruktur menghadapi pelemahan tipis. Untuk membaca apakah penguatan 1,14 persen ini awal dari tren atau sekadar lonjakan satu hari, perlu dilihat apakah sektor energi dan teknologi tetap menguat pada perdagangan berikutnya, karena itu akan menunjukkan apakah ada faktor pendorong yang bertahan atau cuma reli sesaat.",
+  "imageV": "mtir86y7"
  },
  {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
@@ -635,6 +768,140 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan cuma satu pabrik baru, tapi jumlah aturan yang menghambat proyek sampah jadi listrik dipangkas dari ratusan menjadi tinggal tiga. Itu penting karena selama 11 tahun terakhir baru dua proyek serupa yang jalan, dan salah satunya bahkan sering mati hidup karena rumitnya izin. Yang kena dampak langsung adalah warga Bekasi, karena listrik yang dihasilkan PSEL ini rencananya dipakai memenuhi kebutuhan listrik di wilayah mereka sendiri, sementara PLN berperan sebagai pembeli tetap sebanyak 223.584 megawatt jam listrik per tahun. Kombinasi pemangkasan aturan dan komitmen pembelian jangka panjang ini mengarah ke upaya mempercepat proyek serupa di kota-kota lain, bukan sekadar proyek tunggal di Bekasi. Yang akan memastikan arah ini benar adalah apakah tiga aturan yang tersisa itu benar-benar terbit dan apakah PSEL Bekasi mulai beroperasi sesuai target penyerapan listriknya.",
   "imageV": "mtifhstx"
+ },
+ {
+  "slug": "pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september",
+  "category": "BUMN",
+  "title": "Pertamina [Gabungkan] PET ke Patra Niaga, Berlaku September",
+  "deck": "Pertamina resmi meleburkan PT Pertamina Energy Terminal ke PT Pertamina Patra Niaga sebagai tahap kedua restrukturisasi bisnis hilir, efektif 1 September 2026.",
+  "image": "assets/img/pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:46:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464099-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua",
+  "tags": [
+   "Pertamina",
+   "Pertamina Patra Niaga",
+   "restrukturisasi BUMN",
+   "Danantara"
+  ],
+  "body": [
+   "Pertamina resmi menggabungkan anak usahanya, PT Pertamina Energy Terminal (PET), ke dalam PT Pertamina Patra Niaga (PPN) yang berperan sebagai Subholding Downstream atau unit usaha hilir Pertamina Group. Penandatanganan akta penggabungan berlangsung di Kantor Pusat Pertamina, Jakarta, Senin 31 Agustus 2026, dan penggabungan itu resmi berlaku sejak 1 September 2026. Dalam skema ini, PPN tetap berdiri sebagai badan usaha, sementara seluruh usaha dan aset PET melebur ke dalamnya.",
+   "Langkah ini merupakan bagian dari Restrukturisasi Bisnis Hilir Tahap Kedua yang dijalankan Pertamina Group, menandakan sudah ada tahap penggabungan serupa sebelumnya. Dua dokumen ditandatangani dalam acara tersebut, yakni akta penggabungan oleh Direktur Utama PPN Mars Ega Legowo Putra bersama Direktur Utama PET Bayu Prostiyono, serta akta perubahan anggaran dasar PPN yang diteken Mars Ega Legowo Putra, disaksikan notaris Jose Dima.",
+   "Direktur Utama Pertamina, Simon Aloysius Mantiri, menyebut penggabungan ini bukan sekadar pemenuhan syarat hukum, melainkan bagian dari upaya membangun bisnis hilir yang terintegrasi secara struktur, andal, dan kompetitif. Ia menegaskan operasional bisnis hilir tidak boleh terganggu selama masa transisi, karena pelayanan energi ke masyarakat tetap menjadi prioritas utama Pertamina.",
+   "Simon juga mengaitkan penggabungan ini dengan arahan Danantara, lembaga pengelola investasi milik negara yang menaungi BUMN, agar perusahaan pelat merah menjadi lebih adaptif, lincah, dan kompetitif. Ia meminta seluruh jajaran menjaga konsistensi arah serta memastikan transisi berjalan tanpa mengganggu pelayanan energi kepada masyarakat."
+  ],
+  "fotoAdegan": "Rows of large fuel storage tanks and pipelines at an oil terminal near a harbor, workers in safety vests inspecting valves, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96740882b79-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah struktur perusahaan, PT Pertamina Energy Terminal dileburkan ke PT Pertamina Patra Niaga dan berhenti berdiri sendiri, sementara Patra Niaga tetap ada sebagai entitas yang menampung usahanya, efektif 1 September 2026. Yang terdampak langsung adalah karyawan dan operasional PET serta tata kelola internal Pertamina Group, bukan harga BBM atau energi yang dibayar konsumen karena berita ini tidak menyebut perubahan tarif atau pasokan. Penyebutan bahwa ini adalah tahap kedua restrukturisasi menunjukkan Pertamina sedang menjalankan pola berkelanjutan memangkas jumlah anak usaha di segmen hilir menjadi lebih sedikit entitas besar, sejalan dengan arahan Danantara agar BUMN lebih ramping dan lincah. Yang akan memastikan apakah pola ini terus berlanjut adalah ada tidaknya pengumuman tahap ketiga restrukturisasi atau penggabungan entitas hilir lain setelah ini.",
+  "imageV": "mtir87k0"
+ },
+ {
+  "slug": "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
+  "category": "Makroekonomi",
+  "title": "China, AS, India Kuasai [44,25%] Ekspor Nonmigas RI",
+  "deck": "BPS mencatat ekspor nonmigas Indonesia Januari-Juli 2026 terkonsentrasi pada China, Amerika Serikat, dan India, dengan besi baja, CPO, dan batu bara sebagai komoditas andalan.",
+  "image": "assets/img/china-as-india-kuasai-44-25-ekspor-nonmigas-ri.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:44:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464097-bps-sebut-china-as-dan-india-kuasai-4425-persen-ekspor-nonmigas-indonesia",
+  "tags": [
+   "ekspor nonmigas",
+   "BPS",
+   "China",
+   "CPO"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat bahwa ekspor nonmigas Indonesia sepanjang Januari-Juli 2026 masih sangat bergantung pada segelintir negara tujuan. Tiongkok, Amerika Serikat, dan India bersama-sama menyerap 44,25 persen dari total nilai ekspor nonmigas RI pada periode tersebut. Angka ini penting dicermati karena berarti hampir separuh pendapatan ekspor nonmigas Indonesia bertumpu pada permintaan dari hanya tiga negara.",
+   "Tiongkok menjadi mitra dagang terbesar dengan nilai ekspor nonmigas mencapai US$40,62 miliar sepanjang Januari-Juli 2026. Deputi Bidang Statistik Distribusi dan Jasa BPS, Ateng Hartono, memaparkan data ini dalam konferensi pers pada Selasa (1/9/2026) sebagai bagian dari laporan rutin kinerja ekspor komoditas unggulan Indonesia.",
+   "Dari sisi komoditas, tiga produk yaitu besi dan baja, minyak sawit mentah (CPO) beserta turunannya, dan batu bara menyumbang 28,62 persen dari total ekspor nonmigas. Ketiganya mencatat kenaikan nilai ekspor secara kumulatif hingga Juli 2026, yaitu besi dan baja naik 2,77 persen, CPO dan turunannya naik 5,49 persen, serta batu bara naik 4,75 persen."
+  ],
+  "fotoAdegan": "A loaded coal barge and tugboat moving along a wide brown river toward distant cargo ships, overcast tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96719e1215c-deputi-bidang-statistik-distribusi-dan-jasa-bps-ateng-hartono-dalam-konferensi-pers-secara-daring-selasa-192026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah gambaran konsentrasi pasar ekspor nonmigas Indonesia, yakni 44,25 persen nilainya bertumpu pada tiga negara saja, dengan Tiongkok sendirian menyerap US$40,62 miliar sepanjang Januari-Juli 2026, sementara besi baja, CPO, dan batu bara menyumbang 28,62 persen dari total ekspor dan ketiganya masih tumbuh 2,77 sampai 5,49 persen. Yang terdampak langsung adalah eksportir dan daerah sentra produksi besi baja, sawit, dan batu bara, karena rezeki mereka sangat bergantung pada permintaan dari Tiongkok, Amerika Serikat, dan India. Data yang dipaparkan BPS kali ini hanya potret satu periode, tanpa angka pembanding pangsa tiga negara ini pada periode-periode sebelumnya, sehingga belum bisa dipastikan apakah ketergantungan ini sedang menguat, stabil, atau justru mengendur. Yang perlu ditunggu adalah rilis data ekspor BPS bulan berikutnya, yakni data Agustus 2026 yang biasanya diumumkan awal Oktober, untuk melihat apakah pangsa 44,25 persen ini bergerak naik atau turun.",
+  "imageV": "mtir880u"
+ },
+ {
+  "slug": "pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp",
+  "category": "Energi",
+  "title": "PLN dan Bali Teken Kerja Sama [Percepat] PLTS 100 GWp",
+  "deck": "PLN dan Pemprov Bali menandatangani kerja sama percepatan infrastruktur energi terbarukan sebagai bagian dari program PLTS 100 GWp nasional.",
+  "image": "assets/img/pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:41:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464093-pln-dan-pemprov-bali-kolaborasi-percepat-pengembangan-infrastruktur-energi-bersih-dukung-program-plts-100-gwp",
+  "tags": [
+   "PLTS",
+   "PLN",
+   "Bali",
+   "energi terbarukan"
+  ],
+  "body": [
+   "PT PLN (Persero) dan Pemerintah Provinsi Bali menandatangani perjanjian kerja sama untuk mempercepat pembangunan infrastruktur ketenagalistrikan berbasis energi terbarukan di Bali. Kerja sama ini menjadi bagian dari program nasional Pembangkit Listrik Tenaga Surya atau PLTS berkapasitas 100 Gigawatt peak, singkatan yang menunjukkan kapasitas puncak pembangkit listrik tenaga surya secara keseluruhan.",
+   "Penandatanganan dilakukan oleh Direktur Utama PLN Darmawan Prasodjo dan Gubernur Bali I Wayan Koster pada Selasa, 25 Agustus 2026, di Jembrana, Bali. Program pengembangan energi bersih di Bali sebenarnya sudah punya dasar hukum sejak 2019 lewat Peraturan Gubernur Bali Nomor 45 Tahun 2019, namun sempat tertahan karena pandemi Covid-19 dan baru mendapat momentum lagi sekarang setelah didukung pemerintah pusat dan Kementerian ESDM.",
+   "Gubernur Koster menyebut pengembangan PLTS di Bali tidak hanya untuk memenuhi kebutuhan listrik daerah, tetapi juga untuk menjaga citra Bali sebagai destinasi wisata dunia yang mengedepankan kelestarian lingkungan. Ia menyebut program ini sebagai bagian dari visi Bali Mandiri Energi dengan Energi Bersih.",
+   "Darmawan Prasodjo menyatakan PLN siap mempercepat pelaksanaan proyek, termasuk proses pembebasan lahan dan pembangunan fisik pembangkit, sebagai bentuk dukungan terhadap target swasembada dan ketahanan energi nasional melalui optimalisasi sumber energi dalam negeri."
+  ],
+  "fotoAdegan": "Workers installing rows of solar panels on an open field with Balinese hills and palm trees in the distance, midday sun",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a967246e3ae6-tampak-udara-plts-terapung-muara-nusa-dua-berkapasitas-100-kilowatt-peak-kwp-di-denpasar-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan target baru, melainkan percepatan pelaksanaan program yang sebenarnya sudah punya payung hukum sejak 2019 lewat Peraturan Gubernur Bali Nomor 45/2019, setelah sempat mandek karena pandemi. Pihak yang terdampak langsung adalah PLN sebagai pelaksana proyek dan Pemprov Bali yang mengejar target energi bersih untuk menopang sektor pariwisata, sementara warga dan pelaku usaha di Bali berpotensi ikut merasakan dampaknya lewat pasokan listrik dari sumber terbarukan. Berita ini belum menyebut berapa kapasitas PLTS yang akan dibangun di Bali secara spesifik, berapa nilai investasinya, atau kapan proyek ditargetkan rampung, padahal itu yang menentukan apakah percepatan ini benar-benar signifikan atau baru sebatas kerangka kerja sama di atas kertas. Yang perlu ditunggu adalah rincian proyek dari PLN dan Pemprov Bali pascapenandatanganan ini, termasuk lokasi, kapasitas pembangkit, dan jadwal pembangunannya.",
+  "imageV": "mtir88h6"
+ },
+ {
+  "slug": "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",
+  "category": "Makroekonomi",
+  "title": "BPS: Ekspor RI Tembus [US$167,03] Miliar, Migas Melemah",
+  "deck": "Ekspor Indonesia Januari-Juli 2026 naik 4,43 persen jadi US$167,03 miliar, ditopang nonmigas yang menguat sementara ekspor migas turun 10,63 persen.",
+  "image": "assets/img/bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:14:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464084-ekspor-indonesia-tembus-us16703-miliar-industri-pengolahan-jadi-penyumbang-utama",
+  "tags": [
+   "ekspor",
+   "BPS",
+   "migas",
+   "nikel"
+  ],
+  "body": [
+   "Kinerja ekspor Indonesia sepanjang Januari hingga Juli 2026 masih tumbuh, meski sektor minyak dan gas tertekan. Badan Pusat Statistik mencatat total ekspor pada periode itu mencapai US$167,03 miliar, naik 4,43 persen dibandingkan periode yang sama tahun lalu. Angka ini penting karena menunjukkan mesin ekspor nasional masih berjalan di tengah pelemahan salah satu sektor andalannya.",
+   "Deputi Bidang Statistik Distribusi dan Jasa BPS Ateng Hartono menjelaskan, pertumbuhan itu ditopang ekspor di luar minyak dan gas yang mencapai US$160,01 miliar, naik 5,21 persen. Sebaliknya, ekspor minyak dan gas hanya US$7,02 miliar, turun 10,63 persen dibanding tahun sebelumnya. Ateng menyampaikan data ini dalam konferensi pers pada Selasa, 1 September 2026.",
+   "Penopang utama ekspor di luar migas adalah nikel dan produk turunannya, bahan bakar mineral seperti batu bara, serta lemak dan minyak nabati maupun hewani termasuk sawit. Ketiga kelompok komoditas ini menjadi andalan baru di saat penerimaan dari migas menyusut.",
+   "Dari sisi sektor, industri pengolahan tercatat sebagai penyumbang terbesar kenaikan ekspor nonmigas, dengan pertumbuhan 7,16 persen sepanjang Januari-Juli 2026. BPS menyebut sektor ini sebagai motor utama di balik penguatan ekspor nonmigas secara kumulatif."
+  ],
+  "fotoAdegan": "Workers monitoring molten metal flow at a nickel smelting plant, industrial furnaces glowing, protective gear visible",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a965f99c02f6-deputi-bidang-statistik-distribusi-dan-jasa-bps-ateng-hartono_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data BPS ini memperlihatkan komposisi ekspor Indonesia yang bergeser: ekspor nonmigas tumbuh 5,21 persen jadi US$160,01 miliar, sementara ekspor migas turun 10,63 persen jadi cuma US$7,02 miliar dalam tujuh bulan pertama 2026. Yang menopang kenaikan itu adalah nikel dan produk turunannya, bahan bakar mineral seperti batu bara, dan minyak sawit beserta produk sejenisnya, dengan sektor industri pengolahan tumbuh paling kencang, 7,16 persen. Artinya pelaku usaha pengolahan nikel dan eksportir sawit menikmati permintaan yang masih kuat, sementara industri migas dalam negeri makin tertekan. Kalau pola ini berlanjut, ekonomi Indonesia makin mengandalkan hasil tambang olahan dan sawit untuk devisa ekspor, dan yang akan memastikan arah ini adalah rilis data ekspor Agustus 2026 dari BPS bulan depan.",
+  "imageV": "mtir88ww"
+ },
+ {
+  "slug": "inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam",
+  "category": "Makroekonomi",
+  "title": "Inflasi Agustus Tembus [3,19] Persen, Dipicu Harga Ayam",
+  "deck": "BPS mencatat inflasi Agustus 2026 sebesar 0,21 persen bulanan dan 3,19 persen tahunan, dengan kenaikan harga daging ayam ras jadi pendorong utama.",
+  "image": "assets/img/inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T12:30:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464070-inflasi-agustus-2026-tembus-319-persen-harga-ayam-hingga-emas-jadi-biang-kerok",
+  "tags": [
+   "inflasi",
+   "BPS",
+   "harga pangan",
+   "daging ayam"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mengumumkan inflasi Agustus 2026 sebesar 0,21 persen dibanding bulan sebelumnya, sehingga secara tahunan kenaikan harga barang dan jasa mencapai 3,19 persen. Deputi Bidang Statistik Distribusi dan Jasa BPS Ateng Hartono menyampaikan hal ini dalam konferensi pers, Selasa (1/9/2026). Angka ini penting karena jadi ukuran seberapa cepat harga kebutuhan sehari-hari naik, yang langsung memengaruhi daya beli masyarakat dan menjadi salah satu pertimbangan Bank Indonesia dalam menentukan kebijakan suku bunga.",
+   "Kenaikan harga bulan Agustus tercermin dari Indeks Harga Konsumen, yaitu ukuran rata-rata harga barang dan jasa yang dibeli rumah tangga, yang naik dari 111,73 pada Juli menjadi 111,97 pada Agustus. Secara tahun kalender atau sejak Januari, inflasi baru mencapai 1,86 persen. Kelompok makanan, minuman, dan tembakau menjadi penyumbang terbesar dengan kenaikan harga 0,57 persen dan porsi sumbangan, atau andil, sebesar 0,17 persen terhadap inflasi bulan ini, atau sekitar 81 persen dari total kenaikan harga Agustus.",
+   "Di dalam kelompok tersebut, kenaikan harga daging ayam ras menjadi penyumbang tunggal terbesar dengan andil 0,17 persen, persis sama dengan total andil seluruh kelompok makanan, minuman, dan tembakau. Ini berarti lonjakan harga ayam praktis menjadi penggerak utama inflasi Agustus, sementara komoditas pangan lain di kelompok yang sama saling menyeimbangkan sehingga tidak menambah andil secara keseluruhan.",
+   "Selain daging ayam ras, kenaikan harga juga tercatat pada cabai rawit, ikan segar, dan beras, yang masing-masing menyumbang andil 0,02 persen terhadap inflasi. Kacang panjang, buncis, jagung manis, ketimun, semangka, rokok kretek mesin, dan rokok putih mesin masing-masing menyumbang andil 0,01 persen."
+  ],
+  "fotoAdegan": "Traditional wet market vendor arranging fresh whole chickens on a stall counter, shoppers browsing in the morning crowd",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a965f99c02f6-deputi-bidang-statistik-distribusi-dan-jasa-bps-ateng-hartono_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Dari kenaikan harga 0,21 persen bulan ini, porsi sebesar 0,17 persen disumbang sendirian oleh harga daging ayam ras, hampir menyamai total andil seluruh kelompok pangan. Artinya inflasi Agustus bukan gejala kenaikan harga yang merata di banyak barang, melainkan didorong satu komoditas pangan yang harganya memang mudah bergejolak. Konsumen rumah tangga yang rutin membeli ayam potong paling merasakan dampaknya, sementara peternak dan pedagang unggas justru diuntungkan oleh harga jual yang lebih tinggi. Pola semacam ini biasanya bersifat musiman, jadi yang perlu dicermati adalah rilis inflasi September, apakah harga ayam ras kembali turun atau justru berlanjut naik yang bisa menandakan ada persoalan pasokan yang lebih panjang.",
+  "imageV": "mtir893j"
  },
  {
   "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",

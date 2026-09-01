@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
+  "category": "Energi",
+  "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
+  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 masih menunggu validasi data agar subsidi BBM tepat sasaran.",
+  "date": "1 September 2026",
+  "image": "assets/img/pembatasan-pertalite-desil-9-10-tunggu-validasi-data.jpg",
+  "imageV": "mtir851w",
+  "tags": [
+   "bbm",
+   "pertalite",
+   "desil",
+   "bahlil lahadalia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464219-wacana-pembatasan-bbm-pertalite-untuk-warga-desil-9-10-bahlil-ungkap-tunggu-validasi-data"
+ },
+ {
+  "slug": "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
+  "category": "Teknologi",
+  "title": "Telkom Kukuhkan Indonesia jadi [Hub] Digital Asia Pasifik",
+  "deck": "BATIC 2026 di Bali menghadirkan lebih dari 2.700 delegasi dari 67 negara, jadi ajang Telkom lewat Telin menegaskan pergeseran bisnisnya ke ekosistem digital, cloud, dan AI di Asia Pasifik.",
+  "date": "1 September 2026",
+  "image": "assets/img/telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik.jpg",
+  "imageV": "mtir85ix",
+  "tags": [
+   "Telkom",
+   "Telin",
+   "BATIC 2026",
+   "Digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464203-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik"
+ },
+ {
+  "slug": "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",
+  "category": "Pasar Modal",
+  "title": "Modal Asing [Rp140,6 T] Masuk RI hingga Agustus 2026",
+  "deck": "Menkeu Purbaya Yudhi Sadewa sebut modal asing Rp140,6 triliun masuk RI hingga 28 Agustus 2026, seiring yield SBN turun dari puncak 7,39 persen Juni ke sekitar 7 persen.",
+  "date": "1 September 2026",
+  "image": "assets/img/modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026.jpg",
+  "imageV": "mtir85yv",
+  "tags": [
+   "modal asing",
+   "yield SBN",
+   "rupiah",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464183-purbaya-sebut-modal-asing-rp1406-triliun-masuk-ri-kepercayaan-investor-global-masih-kuat"
+ },
+ {
   "slug": "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
   "category": "Aksi Korporasi",
   "title": "HUMI Gelar RUPSLB 8 Oktober, Agenda [Pergantian] Pengurus",
@@ -131,6 +182,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b8ad1e57d_db9f6b3b88.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi",
+  "category": "Makroekonomi",
+  "title": "Data Desil DTSEN Keliru? Pemerintah Buka Jalur [Koreksi]",
+  "deck": "Kementerian Sosial memastikan status desil DTSEN yang dianggap warga tidak sesuai kondisi ekonomi bisa dikoreksi lewat Command Center, WhatsApp, aplikasi Cek Bansos, atau kantor kelurahan.",
+  "date": "1 September 2026",
+  "image": "assets/img/data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi.jpg",
+  "imageV": "mtir86i4",
+  "tags": [
+   "DTSEN",
+   "Desil",
+   "Bantuan Sosial",
+   "Kemensos"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464166-desil-dtsen-bisa-salah-gus-ipul-buka-pintu-koreksi-data-bahlil-singgung-nasib-pembatasan-pertalite"
+ },
+ {
+  "slug": "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
+  "category": "Pasar Modal",
+  "title": "IHSG [Naik] 1,14% ke 6.599,94, Ditopang Energi-Teknologi",
+  "deck": "IHSG ditutup menguat 1,14 persen ke 6.599,94 pada Selasa, ditopang lonjakan sektor perindustrian, teknologi, dan energi.",
+  "date": "1 September 2026",
+  "image": "assets/img/ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi.jpg",
+  "imageV": "mtir86y7",
+  "tags": [
+   "IHSG",
+   "Bursa Efek Indonesia",
+   "saham energi",
+   "saham teknologi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464151-ihsg-tancap-gas-di-akhir-perdagangan-naik-114-ke-659994-saham-energi-dan-teknologi-jadi-penopang"
  },
  {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
@@ -396,6 +481,91 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464102-bekasi-siap-produksi-listrik-dari-sampah-pln-akan-serap-dan-salurkan-223584-mwh-per-tahun"
+ },
+ {
+  "slug": "pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september",
+  "category": "BUMN",
+  "title": "Pertamina [Gabungkan] PET ke Patra Niaga, Berlaku September",
+  "deck": "Pertamina resmi meleburkan PT Pertamina Energy Terminal ke PT Pertamina Patra Niaga sebagai tahap kedua restrukturisasi bisnis hilir, efektif 1 September 2026.",
+  "date": "1 September 2026",
+  "image": "assets/img/pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september.jpg",
+  "imageV": "mtir87k0",
+  "tags": [
+   "Pertamina",
+   "Pertamina Patra Niaga",
+   "restrukturisasi BUMN",
+   "Danantara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464099-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua"
+ },
+ {
+  "slug": "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
+  "category": "Makroekonomi",
+  "title": "China, AS, India Kuasai [44,25%] Ekspor Nonmigas RI",
+  "deck": "BPS mencatat ekspor nonmigas Indonesia Januari-Juli 2026 terkonsentrasi pada China, Amerika Serikat, dan India, dengan besi baja, CPO, dan batu bara sebagai komoditas andalan.",
+  "date": "1 September 2026",
+  "image": "assets/img/china-as-india-kuasai-44-25-ekspor-nonmigas-ri.jpg",
+  "imageV": "mtir880u",
+  "tags": [
+   "ekspor nonmigas",
+   "BPS",
+   "China",
+   "CPO"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464097-bps-sebut-china-as-dan-india-kuasai-4425-persen-ekspor-nonmigas-indonesia"
+ },
+ {
+  "slug": "pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp",
+  "category": "Energi",
+  "title": "PLN dan Bali Teken Kerja Sama [Percepat] PLTS 100 GWp",
+  "deck": "PLN dan Pemprov Bali menandatangani kerja sama percepatan infrastruktur energi terbarukan sebagai bagian dari program PLTS 100 GWp nasional.",
+  "date": "1 September 2026",
+  "image": "assets/img/pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp.jpg",
+  "imageV": "mtir88h6",
+  "tags": [
+   "PLTS",
+   "PLN",
+   "Bali",
+   "energi terbarukan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464093-pln-dan-pemprov-bali-kolaborasi-percepat-pengembangan-infrastruktur-energi-bersih-dukung-program-plts-100-gwp"
+ },
+ {
+  "slug": "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",
+  "category": "Makroekonomi",
+  "title": "BPS: Ekspor RI Tembus [US$167,03] Miliar, Migas Melemah",
+  "deck": "Ekspor Indonesia Januari-Juli 2026 naik 4,43 persen jadi US$167,03 miliar, ditopang nonmigas yang menguat sementara ekspor migas turun 10,63 persen.",
+  "date": "1 September 2026",
+  "image": "assets/img/bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah.jpg",
+  "imageV": "mtir88ww",
+  "tags": [
+   "ekspor",
+   "BPS",
+   "migas",
+   "nikel"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464084-ekspor-indonesia-tembus-us16703-miliar-industri-pengolahan-jadi-penyumbang-utama"
+ },
+ {
+  "slug": "inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam",
+  "category": "Makroekonomi",
+  "title": "Inflasi Agustus Tembus [3,19] Persen, Dipicu Harga Ayam",
+  "deck": "BPS mencatat inflasi Agustus 2026 sebesar 0,21 persen bulanan dan 3,19 persen tahunan, dengan kenaikan harga daging ayam ras jadi pendorong utama.",
+  "date": "1 September 2026",
+  "image": "assets/img/inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam.jpg",
+  "imageV": "mtir893j",
+  "tags": [
+   "inflasi",
+   "BPS",
+   "harga pangan",
+   "daging ayam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464070-inflasi-agustus-2026-tembus-319-persen-harga-ayam-hingga-emas-jadi-biang-kerok"
  },
  {
   "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
@@ -6358,168 +6528,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461512-pegadaian-hadirkan-solusi-cicil-tabungan-emas-untuk-atasi-fluktuasi-harga-emas"
- },
- {
-  "slug": "danantara-kebut-merger-dan-restrukturisasi-pt-pp",
-  "category": "BUMN",
-  "title": "Danantara Kebut [Merger] dan Restrukturisasi PT PP",
-  "deck": "Danantara menyiapkan skema merger PT PP sebelum restrukturisasi, menekankan proses harus tuntas tanpa penundaan agar struktur bisnis lebih fokus pada bisnis inti.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/danantara-kebut-merger-dan-restrukturisasi-pt-pp.jpg",
-  "imageV": "mt5v30nd",
-  "tags": [
-   "PT PP",
-   "Danantara",
-   "BUMN Karya",
-   "Merger BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461508-disiapkan-skema-merger-dan-restrukturisasi-pt-pp-danantara-harus-tuntas"
- },
- {
-  "slug": "bri-group-sabet-enam-penghargaan-finance-asia",
-  "category": "Perbankan",
-  "title": "BRI Group Sabet [Enam] Penghargaan Finance Asia",
-  "deck": "BRI Group meraih enam penghargaan di ajang Asia's Best Companies dan Finance Asia Awards 2026, termasuk gelar Best CEO untuk Dirut Hery Gunardi.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/bri-group-sabet-enam-penghargaan-finance-asia.jpg",
-  "imageV": "mt5v310e",
-  "tags": [
-   "BRI",
-   "Finance Asia",
-   "penghargaan",
-   "perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461506-bri-group-sabet-enam-penghargaan-internasional-dari-finance-asia-perkuat-posisi-sebagai-institusi-keuangan-berkelas-dunia"
- },
- {
-  "slug": "aspr-total-liabilitas-melonjak-21-69-jadi-rp183-17-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ASPR: Total [Liabilitas] Melonjak 21,69% Jadi Rp183,17 Miliar",
-  "deck": "ASPR melaporkan total liabilitas naik 21,69% jadi Rp183,17 miliar per Juni 2026, didorong pemakaian fasilitas kredit rekening koran dan kenaikan utang usaha akibat pembelian yang meningkat.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPR",
-   "liabilitas",
-   "utang bank",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/784738c7a4_030f06073b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "danantara-awasi-ketat-restrukturisasi-wika",
-  "category": "BUMN",
-  "title": "Danantara [Awasi] Ketat Restrukturisasi WIKA",
-  "deck": "Danantara menuntut laporan keuangan WIKA disusun sesuai kondisi riil sebagai dasar restrukturisasi, bukan rekayasa angka di atas kertas.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/danantara-awasi-ketat-restrukturisasi-wika.jpg",
-  "imageV": "mt5v31ea",
-  "tags": [
-   "WIKA",
-   "Danantara",
-   "restrukturisasi BUMN",
-   "Dony Oskaria"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461499-restrukturisasi-wika-dalam-kawalan-ketat-danantara"
- },
- {
-  "slug": "direksi-cybr-borong-4-57-juta-saham-itsec-asia",
-  "category": "Aksi Korporasi",
-  "title": "Direksi [CYBR] Borong 4,57 Juta Saham ITSEC Asia",
-  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 4,57 juta saham CYBR secara tidak langsung dalam 19 transaksi sepanjang 11-19 Agustus 2026, menaikkan hak suaranya menjadi 0,64%.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-8719-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abmm-direktur-haris-mustarto-mundur-rups-maks-90-hari",
-  "category": "Aksi Korporasi",
-  "title": "ABMM: Direktur Haris Mustarto [Mundur], RUPS Maks 90 Hari",
-  "deck": "Direktur ABM Investama Haris Mustarto mengundurkan diri efektif 19 Agustus 2026. Perseroan wajib menggelar RUPS paling lambat 90 hari kemudian.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABMM",
-   "ABM Investama",
-   "direksi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/75ab29f653_5f864f257a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baik-komisaris-borong-saham-rp1-42-miliar-naik-146",
-  "category": "Aksi Korporasi",
-  "title": "BAIK: Komisaris [Borong] Saham Rp1,42 Miliar, Naik 146%",
-  "deck": "Komisaris BAIK, Yeni Isnawati, membeli 5 juta saham pada 19 Agustus 2026 seharga Rp284 per lembar, menaikkan kepemilikannya dari 3,42 juta menjadi 8,42 juta saham.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "kepemilikan saham",
-   "komisaris",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21082026-9817-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obmd-jadwalkan-rupslb-29-september-2026-dps-4-september",
-  "category": "Aksi Korporasi",
-  "title": "OBMD Jadwalkan RUPSLB [29 September 2026], DPS 4 September",
-  "deck": "PT OBM Drilchem Tbk (OBMD) mengumumkan rencana RUPSLB yang digelar elektronik pada 29 September 2026, dengan pemegang saham per 4 September 2026 yang berhak hadir.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OBMD",
-   "RUPSLB",
-   "OBM Drilchem",
-   "Rapat Umum Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d12856d285_87c39e33c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrat-bantah-punya-info-material-di-balik-lonjakan-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MRAT Bantah Punya Info Material di Balik [Lonjakan] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta penjelasan MRAT setelah harga dan volume sahamnya melonjak pada 18 Agustus 2026; manajemen menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MRAT",
-   "Mustika Ratu",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1a30892e54_bbfc28f5a5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "untr-jadwalkan-public-expose-tahunan-pada-7-september",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Jadwalkan [Public Expose] Tahunan pada 7 September",
-  "deck": "United Tractors akan memaparkan kinerja tahun buku 2026 secara daring pada 7 September 2026, dengan tujuh direksi dijadwalkan hadir.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "United Tractors",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/19de197cbb_9abf8f9472.pdf",
-  "sourceLabel": "IDX"
  }
 ];

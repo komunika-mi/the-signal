@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-01T03:18:11.899+07:00",
+ "diperbarui": "2026-09-02T00:57:03.199+07:00",
  "entri": [
+  {
+   "id": "2026-09-01-3",
+   "edisi": "2026-09-01",
+   "benang": "Sejumlah Emiten Tunjukkan Tekanan Utang dan Tata Kelola",
+   "klaim": "Pola tekanan likuiditas dan kepatuhan keterbukaan yang muncul bersamaan di berbagai sektor, konstruksi, properti, dan perkebunan, akan semakin sering berulang.",
+   "penanda": "Jadwal ulang RUPSU sukuk WIKA Tahap I dan hasil rights issue CBRE",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-01-2",
+   "edisi": "2026-09-01",
+   "benang": "Defisit Migas Terus Menggerus Surplus Dagang",
+   "klaim": "Tekanan defisit migas terhadap neraca dagang kemungkinan akan berlanjut dalam jangka pendek karena skala substitusi energi domestik lewat program PLTS masih kecil.",
+   "penanda": "Data ekspor-impor Agustus dari BPS",
+   "tenggat": "2026-10-05",
+   "tenggatLabel": "awal Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-01-1",
+   "edisi": "2026-09-01",
+   "benang": "Dana Asing Masuk, Pasar Merespons Positif",
+   "klaim": "Sentimen makro Indonesia sedang menuju penguatan, tecermin dari derasnya dana asing masuk, turunnya yield SBN, menguatnya IHSG dan rupiah, serta naiknya proyeksi pertumbuhan BI, dan pola ini akan diuji oleh keputusan suku bunga acuan berikutnya.",
+   "penanda": "Keputusan suku bunga acuan pada rapat dewan gubernur BI berikutnya",
+   "tenggat": "2026-09-15",
+   "tenggatLabel": "rapat dewan gubernur BI berikutnya di pertengahan September",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-08-31-3",
    "edisi": "2026-08-31",

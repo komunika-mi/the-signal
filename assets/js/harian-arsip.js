@@ -2,6 +2,80 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-01",
+  "tanggalLabel": "Selasa, 1 September 2026",
+  "judul": "Modal Asing Masuk, Defisit Migas Bayangi, Emiten Tertekan",
+  "ringkas": "Sentimen makro Selasa ini bergerak dua arah berlawanan: dana asing terus masuk dan pasar saham menguat, sementara defisit migas kembali menggerus neraca dagang dan sejumlah emiten menunjukkan tekanan utang yang makin nyata.",
+  "benang": [
+   {
+    "judul": "Dana Asing Masuk, Pasar Merespons Positif",
+    "isi": "Modal asing yang masuk ke Indonesia mencapai Rp140,6 triliun hingga 28 Agustus, seiring yield SBN tenor 10 tahun turun dari puncaknya 7,39 persen pada Juni ke sekitar 7 persen. IHSG mengikuti dengan menguat 1,14 persen ke 6.599,94 dan rupiah sedikit menguat ke Rp17.722 per dolar AS. Bank Indonesia menaikkan proyeksi pertumbuhan 2027 ke kisaran 5,2-6 persen dari perkiraan 4,9-5,7 persen tahun ini, sejalan dengan target 6 persen yang sudah dimasukkan pemerintah ke asumsi dasar APBN 2027. Arahnya jelas menuju sentimen makro yang menguat. Yang akan menguatkan atau mematahkan pola ini adalah keputusan suku bunga acuan pada rapat dewan gubernur BI berikutnya di pertengahan September."
+   },
+   {
+    "judul": "Defisit Migas Terus Menggerus Surplus Dagang",
+    "isi": "Surplus dagang Juli tersisa tipis 0,12 miliar dolar AS, turun 97,08 persen dibanding Juli tahun lalu, karena defisit migas 2,98 miliar dolar nyaris menghabiskan surplus nonmigas 3,10 miliar dolar. Impor migas sepanjang Januari-Juli melonjak 40,24 persen, sementara total impor naik 19,94 persen menjadi US$163,33 miliar. Di sisi lain, program PLTS 100 gigawatt peak yang diluncurkan Presiden Prabowo Subianto baru berjalan pada tahap awal 14 proyek berkapasitas 5.300 megawatt peak, atau sekitar 5 persen dari target akhir. Dengan skala substitusi energi domestik yang masih kecil, tekanan defisit migas terhadap neraca dagang kemungkinan berlanjut dalam jangka pendek. Data ekspor-impor Agustus dari BPS awal Oktober akan menjadi penanda apakah pola ini masih berulang."
+   },
+   {
+    "judul": "Sejumlah Emiten Tunjukkan Tekanan Utang dan Tata Kelola",
+    "isi": "WIKA membatalkan dua rapat pemegang sukuk sekaligus, Tahap I dan Tahap II, di tengah ekuitas yang anjlok ke sekitar Rp130 miliar dan rugi Rp1,55 triliun, dengan Tahap I bahkan belum mendapat jadwal pengganti. CBRE menawarkan rights issue Rp1,27 triliun dengan potensi dilusi hingga 72,22 persen, sementara pemegang saham pengendali lamanya melepas seluruh hak. BWPT melaporkan rasio lancar hanya 0,67 kali dengan Rp500 miliar dananya mengendap di obligasi berkupon rendah 2 persen, dan SUPA baru merealisasikan 3,7 persen dari target belanja modal 30 persen. Pola yang berulang di berbagai sektor, konstruksi, properti, dan perkebunan, ini menunjukkan tekanan likuiditas dan kepatuhan keterbukaan yang makin sering muncul bersamaan. Jadwal ulang RUPSU sukuk WIKA Tahap I dan hasil rights issue CBRE akan jadi penanda berikutnya."
+   }
+  ],
+  "penutup": "Yang paling menentukan arah besok adalah apakah tekanan defisit migas dan tekanan utang emiten mulai meredam optimisme pasar yang selama ini ditopang derasnya modal asing.",
+  "jumlahBahan": 49,
+  "bahanSlug": [
+   "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
+   "vktr-jajaki-pendanaan-rp2-triliun-dari-danantara-non-binding",
+   "cbre-rights-issue-dilusi-bisa-capai-72-22-persen",
+   "pgas-jelaskan-ke-bursa-isi-putusan-parsial-arbitrase-gunvor",
+   "chek-jawab-bursa-utang-bank-baru-rp28-m-pendapatan-30",
+   "wika-batalkan-rupsu-sukuk-tahap-ii-jadwal-17-september",
+   "wika-batalkan-rupsu-sukuk-tahap-i-belum-ada-jadwal-baru",
+   "adhi-realisasikan-86-dana-rights-issue-untuk-proyek-tol",
+   "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
+   "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
+   "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",
+   "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
+   "bnii-rampungkan-pengambilalihan-saham-msi-dan-mam",
+   "supa-revisi-laporan-dana-ipo-belanja-modal-baru-terserap-3-7",
+   "nice-jelaskan-lonjakan-harga-saham-14-12-ke-bei",
+   "tris-bagikan-dividen-interim-rp2-27-per-saham",
+   "bwpt-likuiditas-ketat-rp500-m-mengendap-di-obligasi-2",
+   "nfcx-jelaskan-volatilitas-pemegang-saham-utama-tambah-saham",
+   "tris-bagi-dividen-interim-rp2-27-saham-cair-23-september-dividen",
+   "data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi",
+   "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
+   "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
+   "turis-asing-juli-1-53-juta-naik-4-bulan-beruntun",
+   "neraca-dagang-juli-surplus-tipis-0-12-miliar-dolar",
+   "impor-ri-juli-2026-tembus-us-26-1-m-naik-27",
+   "ekspor-ri-juli-2026-naik-jadi-us-26-2-m",
+   "bps-inflasi-agustus-2026-0-21-naik-dari-deflasi-juli",
+   "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
+   "purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027",
+   "plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit",
+   "27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81",
+   "bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800",
+   "impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri",
+   "pln-dukung-target-plts-100-gwp-untuk-swasembada-energi",
+   "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
+   "pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat",
+   "pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun",
+   "pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september",
+   "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
+   "pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp",
+   "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",
+   "inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam",
+   "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
+   "psab-lunasi-sebagian-besar-utang-liabilitas-turun-45",
+   "asbi-kuak-penggelapan-gaji-divisi-sdm-rupslb-copot-direksi",
+   "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+   "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
+   "pertamax-turbo-dan-dex-series-naik-mulai-1-september",
+   "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22"
+  ],
+  "dibuat": "2026-09-01T17:56:06.741Z"
+ },
+ {
   "tanggal": "2026-08-31",
   "tanggalLabel": "Senin, 31 Agustus 2026",
   "judul": "Dolar Menguat, Laba Emiten Terbelah, Anggaran 2027 Membesar",

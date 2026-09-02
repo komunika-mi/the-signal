@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
+  "category": "Energi",
+  "title": "Pemerintah Targetkan [42,6] GW Pembangkit EBT dalam RUPTL 2034",
+  "deck": "Pemerintah menargetkan 42,6 gigawatt pembangkit energi terbarukan dalam RUPTL 2025-2034, sekaligus mendorong integrasi rantai pasok energi bersih dalam negeri.",
+  "date": "3 September 2026",
+  "image": "assets/img/pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034.jpg",
+  "imageV": "mtkqcawr",
+  "tags": [
+   "EBTKE",
+   "RUPTL",
+   "energi terbarukan",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-indoebtke-conex-2026-pemerintah-perkuat-ekosistem-energi-bersih-untuk-kemandirian-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan",
+  "category": "Ketenagakerjaan",
+  "title": "Kemendag Bentuk [Trade CorpU] untuk Latih ASN Perdagangan",
+  "deck": "Kemendag meluncurkan cetak biru SDM 2026-2045 dan lembaga pelatihan internal Trade CorpU berbasis Permendag No 4/2026, untuk membekali ASN perdagangan menghadapi tantangan global.",
+  "date": "3 September 2026",
+  "image": "assets/img/kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan.jpg",
+  "imageV": "mtkqckgr",
+  "tags": [
+   "Kemendag",
+   "Trade CorpU",
+   "ASN",
+   "SDM Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-perdagangan-untuk-jawab-tantangan-global",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "surplus-dagang-ri-juli-menipis-ke-us-0-12-miliar",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
+  "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
+  "date": "3 September 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "neraca dagang",
+   "ekspor impor",
+   "Kemendag",
+   "migas"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ketahanan-ekspor-nonmigas-indonesia-topang-surplus-neraca-perdagangan-juli-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "destry-damayanti-dilantik-jadi-gubernur-bank-indonesia",
+  "category": "Moneter",
+  "title": "Destry Damayanti Dilantik Jadi [Gubernur] Bank Indonesia",
+  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur Bank Indonesia bersama Aida S. Budiman dan Solikin M. Juhro untuk masa jabatan lima tahun.",
+  "date": "3 September 2026",
+  "image": "assets/img/destry-damayanti-dilantik-jadi-gubernur-bank-indonesia.jpg",
+  "imageV": "mtkqcm6p",
+  "tags": [
+   "Bank Indonesia",
+   "Dewan Gubernur",
+   "Destry Damayanti",
+   "Moneter"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817826.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "palm-obligasi-rp50-miliar-jatuh-tempo-delisting-dari-bei",
   "category": "Aksi Korporasi",
   "title": "PALM: Obligasi Rp50 Miliar [Jatuh Tempo], Delisting dari BEI",
@@ -429,6 +499,40 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464384-proyek-industri-garam-raksasa-di-rote-ndao-pemerintah-bidik-produksi-5-juta-ton-di-2029"
+ },
+ {
+  "slug": "infranexia-lintasarta-perkuat-konektivitas-sumatra-batam",
+  "category": "Teknologi",
+  "title": "InfraNexia-Lintasarta [Perkuat] Konektivitas Sumatra-Batam",
+  "deck": "InfraNexia dan Lintasarta sepakat memakai teknologi DWDM untuk memperkuat jaringan berkapasitas tinggi di rute Medan-Batam dan Padang-Batam.",
+  "date": "2 September 2026",
+  "image": "assets/img/infranexia-lintasarta-perkuat-konektivitas-sumatra-batam.jpg",
+  "imageV": "mtkqcmp2",
+  "tags": [
+   "DWDM",
+   "InfraNexia",
+   "Lintasarta",
+   "Telkom"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464368-gunakan-layanan-dwdm-kolaborasi-infranexia-dan-lintasarta-perkuat-konektivitas-medan-batam-dan-padang"
+ },
+ {
+  "slug": "investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut",
+  "category": "Industri",
+  "title": "Investasi Rp7,2 Triliun Tambak Udang di Sumba Timur [Dikebut]",
+  "deck": "Pemerintah menggelontorkan Rp7,2 triliun untuk tambak udang terintegrasi seluas 2.150 hektare di Sumba Timur, NTT, guna mendorong ekonomi dan menekan kemiskinan.",
+  "date": "2 September 2026",
+  "image": "assets/img/investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut.jpg",
+  "imageV": "mtkqcn4s",
+  "tags": [
+   "tambak",
+   "udang",
+   "ntt",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464363-investasi-rp72-triliun-digelontorkan-bangun-tambak-udang-2150-hektare-di-sumba-timur"
  },
  {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
@@ -1298,7 +1402,7 @@ var ARTICLES = [
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
   "date": "1 September 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -1847,7 +1951,7 @@ var ARTICLES = [
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
   "date": "1 September 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "BPS",
    "Transportasi",
@@ -1879,7 +1983,7 @@ var ARTICLES = [
   "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
   "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
   "date": "1 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "NTP",
    "Petani",
@@ -3032,7 +3136,7 @@ var ARTICLES = [
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "desil bansos",
    "DTSEN",
@@ -6423,109 +6527,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/067a1cd1e7_8d223a9f0f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-jadwalkan-rupslb-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Jadwalkan [RUPSLB] 30 September 2026",
-  "deck": "Asuransi Bintang mengumumkan rencana RUPS Luar Biasa pada 30 September, pemegang saham per 7 September berhak hadir. Agenda resmi baru terbit lewat pemanggilan 8 September.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "RUPSLB",
-   "Asuransi Bintang",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6ddc2781d8_ef049a5698.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-jerman-perkuat-investasi-energi-terbarukan",
-  "category": "Energi",
-  "title": "Indonesia-Jerman [Perkuat] Investasi Energi Terbarukan",
-  "deck": "Indonesia dan Jerman memperluas kerja sama investasi energi terbarukan dan jaringan listrik, di tengah target bauran EBT 18-21 persen pada 2026 yang realisasinya baru sekitar 0,5 persen.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/indonesia-jerman-perkuat-investasi-energi-terbarukan.jpg",
-  "imageV": "mt6fva1h",
-  "tags": [
-   "Energi Terbarukan",
-   "Indonesia-Jerman",
-   "Biofuel B-50",
-   "Jaringan Listrik"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/perkuat-ketahanan-energi-indonesia-jerman-percepat-investasi-ebt-dan-jaringan-listrik",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap",
-  "category": "Energi",
-  "title": "Potensi Panas Bumi RI Nomor Satu Dunia, Baru 11,6% [Tergarap]",
-  "deck": "Kementerian ESDM menyiapkan revisi aturan dan insentif pajak untuk mempercepat pengembangan panas bumi, sekaligus meminta pengembang tak menahan konsesi yang sudah didapat.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/potensi-panas-bumi-ri-nomor-satu-dunia-baru-11-6-tergarap.jpg",
-  "imageV": "mt6fvckd",
-  "tags": [
-   "panas bumi",
-   "ESDM",
-   "energi terbarukan",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kejar-potensi-panas-bumi-nomor-satu-dunia-bahlil-minta-pengembang-tak-tahan-konsesi",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur",
-  "category": "UMKM",
-  "title": "Kemendag Ajak Kampus Genjot Ekspor Lewat [Campuspreneur]",
-  "deck": "Kementerian Perdagangan mengajak kampus dan mahasiswa bergabung dalam program Campuspreneur untuk belajar berwirausaha dan menembus pasar ekspor.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/kemendag-ajak-kampus-genjot-ekspor-lewat-campuspreneur.jpg",
-  "imageV": "mt6fvr4j",
-  "tags": [
-   "Campuspreneur",
-   "UMKM",
-   "ekspor",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-beri-kuliah-umum-di-univet-bantara-sukoharjo-dorong-mahasiswa-rintis-usaha-dan-jadi-eksportir",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris",
-  "category": "UMKM",
-  "title": "Kopi Jawa Barat Tembus Ekspor [Rp2,64 Miliar] ke Inggris",
-  "deck": "Kemendag dan Pemprov Jabar melepas ekspor 10 ton biji kopi mentah Java Halu Coffee senilai Rp2,64 miliar ke Inggris, bagian dari perluasan pasar sejak 2019.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/kopi-jawa-barat-tembus-ekspor-rp2-64-miliar-ke-inggris.jpg",
-  "tags": [
-   "ekspor kopi",
-   "Jawa Barat",
-   "UMKM",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-kolaborasi-ekspor-dengan-pemerintah-daerah-lepas-ekspor-kopi-jawa-barat-senilai-rp264-miliar-ke-inggris",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar",
-  "category": "UMKM",
-  "title": "Transaksi UMKM di KKI 2026 [Tembus] Rp144,2 Miliar",
-  "deck": "Bank Indonesia menutup KKI 2026 dengan penjualan sementara Rp144,2 miliar dan pembiayaan UMKM Rp285 miliar, naik dari capaian tahun sebelumnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/transaksi-umkm-di-kki-2026-tembus-rp144-2-miliar.jpg",
-  "imageV": "mt6fvxmv",
-  "tags": [
-   "UMKM",
-   "Bank Indonesia",
-   "KKI 2026",
-   "Ekspor UMKM"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817226.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

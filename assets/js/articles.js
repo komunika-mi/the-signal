@@ -3,6 +3,118 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
+  "category": "Energi",
+  "title": "Pemerintah Targetkan [42,6] GW Pembangkit EBT dalam RUPTL 2034",
+  "deck": "Pemerintah menargetkan 42,6 gigawatt pembangkit energi terbarukan dalam RUPTL 2025-2034, sekaligus mendorong integrasi rantai pasok energi bersih dalam negeri.",
+  "image": "assets/img/pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-02T23:24:23.510Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-indoebtke-conex-2026-pemerintah-perkuat-ekosistem-energi-bersih-untuk-kemandirian-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "EBTKE",
+   "RUPTL",
+   "energi terbarukan",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah melalui Kementerian ESDM membuka forum IndoEBTKE Convention and Exhibition (ConEx) 2026 di Jakarta, Rabu (2/9), sebagai upaya memperkuat pengembangan energi baru dan terbarukan di tengah tekanan rantai pasok global yang berpotensi mendorong kenaikan harga energi dan beban subsidi. Forum yang kembali digelar setelah tiga tahun vakum ini mempertemukan pelaku usaha, akademisi, dan pemangku kepentingan untuk membahas hambatan regulasi, teknologi, infrastruktur, hingga permodalan di sektor energi bersih.",
+   "Wakil Menteri ESDM Yuliot menyampaikan pemerintah menargetkan 42,6 gigawatt dari total sekitar 70 gigawatt tambahan kapasitas pembangkit listrik dalam Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034 berasal dari energi baru dan terbarukan, atau sekitar 62 persen dari total tambahan kapasitas. Selain pembangkit listrik, pemerintah juga mendorong penggunaan bahan bakar nabati lewat program B50, perluasan kendaraan listrik, jaringan gas kota, dan substitusi elpiji dengan gas alam terkompresi (CNG).",
+   "Pengelolaan sampah kota turut menjadi bagian dari strategi ini. Dari total timbulan sampah nasional 2025 yang mencapai 52,6 juta ton atau sekitar 145 ribu ton per hari, pemerintah mencatat baru sekitar 25 persen yang terkelola, sehingga teknologi pengolahan sampah menjadi energi dinilai berpotensi menambah pasokan listrik sekaligus mengurangi pencemaran.",
+   "Yuliot mengakui tantangan utama pengembangan energi bersih terletak pada rantai pasok yang belum terintegrasi, mulai dari bahan baku, pabrik manufaktur, teknologi, hingga sumber daya manusia. Ia menyebut Indonesia memiliki modal berupa cadangan bauksit, nikel, silika, dan tembaga yang berpotensi mendukung industri panel surya dan baterai dalam negeri, asalkan penguasaan teknologi dan industri manufaktur nasional turut diperkuat agar tidak menciptakan ketergantungan baru pada teknologi impor."
+  ],
+  "fotoAdegan": "Rows of solar panels being installed in an open field in Indonesia, workers in safety vests connecting cables under bright daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-buka-indoebtke-conex-2026-pemerintah-perkuat-ekosistem-energi-bersih-untuk-kemandirian-energi-nasional-2at8xv0.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah dari acara ini bukan aturan baru, melainkan penegasan ulang target dalam RUPTL 2025-2034: dari sekitar 70 gigawatt tambahan kapasitas pembangkit listrik yang direncanakan, 42,6 gigawatt atau 62 persen di antaranya dipatok dari energi baru dan terbarukan. Yang terdampak adalah pengembang pembangkit EBT, calon investor manufaktur panel surya dan baterai dalam negeri yang mengandalkan bauksit, nikel, silika, dan tembaga lokal, serta pengelola sampah kota jika program pengolahan sampah menjadi energi benar direalisasikan, mengingat baru 25 persen dari 52,6 juta ton sampah nasional yang terkelola tahun ini. Yang masih kurang dari pernyataan pemerintah adalah kebijakan konkret untuk merangkai bahan baku, pabrik manufaktur, teknologi, dan sumber daya manusia menjadi satu rantai pasok utuh, sesuatu yang baru disebut sebagai tantangan, bukan solusi dengan tenggat atau aturan turunan. Yang perlu dipantau adalah apakah pemerintah menerbitkan aturan turunan atau insentif khusus untuk industri manufaktur EBT dalam negeri, sebab tanpa itu target 42,6 gigawatt pada 2034 baru sebatas rencana di atas kertas.",
+  "imageV": "mtkqcawr"
+ },
+ {
+  "slug": "kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan",
+  "category": "Ketenagakerjaan",
+  "title": "Kemendag Bentuk [Trade CorpU] untuk Latih ASN Perdagangan",
+  "deck": "Kemendag meluncurkan cetak biru SDM 2026-2045 dan lembaga pelatihan internal Trade CorpU berbasis Permendag No 4/2026, untuk membekali ASN perdagangan menghadapi tantangan global.",
+  "image": "assets/img/kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-02T23:24:06.166Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-perdagangan-untuk-jawab-tantangan-global",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Trade CorpU",
+   "ASN",
+   "SDM Perdagangan"
+  ],
+  "body": [
+   "Kementerian Perdagangan meluncurkan dua instrumen baru untuk mengembangkan kompetensi aparatur sipil negara (ASN) di sektor perdagangan, yaitu \"Cetak Biru Pengembangan SDM Perdagangan Menuju Indonesia Emas 2045\" dan lembaga pelatihan internal bernama Trade Corporate University atau Trade CorpU. Peluncuran berlangsung di kantor Kemendag, Jakarta, Rabu (2/9), dipimpin Menteri Perdagangan Budi Santoso. Kemendag menyebut kedua instrumen ini disiapkan agar ASN di bidang perdagangan punya kompetensi yang sejalan dengan kebutuhan kebijakan perdagangan di tengah perubahan global.",
+   "Cetak biru ini berfungsi sebagai peta jalan 20 tahun yang dibagi dalam tiga fase, yakni penguatan fondasi dan ekosistem pada 2026-2035, akselerasi daya saing dan inovasi pada 2036-2040, serta konsolidasi kepemimpinan perdagangan global pada 2041-2045. Dokumennya memuat delapan agenda, mulai dari kerangka kompetensi, arsitektur pembelajaran, ekosistem pembelajaran digital, sertifikasi, infrastruktur pelatihan, kemitraan, modernisasi organisasi, hingga tata kelola SDM aparatur. Trade CorpU menjadi wadah pelaksanaan program-program tersebut, dengan payung hukum Peraturan Menteri Perdagangan Nomor 4 Tahun 2026 tentang Pengembangan Kompetensi melalui Sistem Pembelajaran Terintegrasi di Bidang Perdagangan.",
+   "Aturan itu mengatur sistem pembelajaran terintegrasi mulai dari diagnosis kebutuhan pelatihan hingga penjaminan mutu, mencakup kompetensi teknis, manajerial, dan sosial-kultural pegawai. Trade CorpU juga akan memanfaatkan teknologi pembelajaran serta mengakui pengalaman kerja sebelumnya sebagai pengganti pelatihan formal, dan disebut akan disesuaikan dengan kebutuhan spesifik tiap unit kerja, bukan format seragam untuk semua bagian di Kemendag.",
+   "Dalam acara yang sama, Kemendag juga meneken kerja sama dengan Kamar Dagang dan Industri (KADIN) Indonesia yang diwakili Wakil Ketua Umum Koordinator Bidang Pengembangan Ekspor Juan Permata Adoe, serta memberikan penghargaan Niaga Werdhitama kepada sejumlah pemerintah daerah, lembaga keuangan, dan perguruan tinggi yang dinilai mendukung pengembangan SDM perdagangan."
+  ],
+  "fotoAdegan": "Indonesian civil servants in batik attire seated around a conference table during a workshop, instructor gesturing, bright modern government meeting room",
+  "fotoSumber": "https://www.kemendag.go.id/albums/38sZzTFSA4j6nId1b0jZoczb7u0dsHex8z6gqQKF.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang benar-benar baru di sini adalah payung hukumnya, Peraturan Menteri Perdagangan Nomor 4 Tahun 2026, dan peta jalan 20 tahun yang membagi pengembangan SDM Kemendag ke dalam tiga fase hingga 2045. Yang terdampak langsung adalah aparatur sipil negara di lingkungan Kemendag, dan secara tidak langsung unit-unit yang menjalankan program pengamanan pasar dalam negeri serta perluasan ekspor, karena Trade CorpU disebut jadi bagian dari persiapan SDM untuk program tersebut. Siaran pers ini belum menyebut berapa anggaran yang dialokasikan, berapa jumlah ASN yang ditargetkan mengikuti pelatihan, atau ukuran keberhasilan yang dipakai untuk menilai program ini berjalan atau tidak. Karena itu belum bisa disimpulkan apakah Trade CorpU akan mengubah cara kerja Kemendag secara nyata atau sekadar mengganti nama pelatihan yang sudah ada, dan itu baru akan terlihat dari laporan implementasi atau alokasi anggaran pada 2027 yang menjadi tahun pertama penuh program ini berjalan.",
+  "imageV": "mtkqckgr"
+ },
+ {
+  "slug": "surplus-dagang-ri-juli-menipis-ke-us-0-12-miliar",
+  "category": "Makroekonomi",
+  "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
+  "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-02T23:23:57.814Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ketahanan-ekspor-nonmigas-indonesia-topang-surplus-neraca-perdagangan-juli-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "neraca dagang",
+   "ekspor impor",
+   "Kemendag",
+   "migas"
+  ],
+  "body": [
+   "Neraca perdagangan Indonesia pada Juli 2026 mencatat surplus tipis US$0,12 miliar, menurut data yang dirilis Kementerian Perdagangan. Angka ini penting karena mengonfirmasi bahwa penopang utama surplus, yaitu perdagangan nonmigas atau produk di luar minyak dan gas, mulai tergerus oleh defisit sektor migas yang melebar. Dengan kata lain, bantalan surplus dagang RI kini jauh lebih tipis dibanding kondisi rata-rata sepanjang tahun ini.",
+   "Surplus nonmigas Juli tercatat US$3,10 miliar, tapi hampir seluruhnya terpakai untuk menutup defisit migas sebesar US$2,98 miliar, sehingga sisa surplus total hanya US$0,12 miliar. Secara kumulatif Januari-Juli 2026, Indonesia masih membukukan surplus US$3,70 miliar, yang berasal dari surplus nonmigas US$22,45 miliar dikurangi defisit migas US$18,75 miliar.",
+   "Nilai ekspor Juli 2026 mencapai US$26,22 miliar, naik 2,98 persen dibanding Juni dan 6,05 persen dibanding Juli tahun lalu. Ekspor nonmigas menjadi penopang utama dengan nilai US$25,43 miliar, naik 4,25 persen dari bulan sebelumnya. Kenaikan bulanan terbesar berasal dari mesin dan peralatan mekanis yang naik 23,05 persen, tembaga dan barang turunannya naik 21,20 persen, serta pakaian bukan rajutan naik 20,65 persen. Sebaliknya, ekspor logam mulia dan perhiasan turun 45,07 persen, nikel turun 38,25 persen, dan lemak-minyak hewani nabati turun 6,21 persen dibanding Juni.",
+   "Secara kumulatif Januari-Juli 2026, ekspor Indonesia mencapai US$167,03 miliar, tumbuh 4,43 persen dibanding periode sama tahun lalu, dengan ekspor nonmigas naik 5,21 persen menjadi US$160,01 miliar. Industri pengolahan menjadi penopang utama dengan kontribusi 82,18 persen dari total ekspor dan pertumbuhan 7,16 persen, disusul sektor pertambangan 11,73 persen, migas 4,20 persen, dan pertanian 1,89 persen. Tiongkok masih menjadi pasar ekspor nonmigas terbesar, diikuti Amerika Serikat dan India, sementara pertumbuhan ekspor tertinggi terjadi ke Hong Kong (36,79 persen), Turki (30,58 persen), dan Thailand (21,92 persen). Sebaliknya, ekspor ke Singapura turun 11,41 persen, Pakistan turun 4,32 persen, dan Australia turun 3,44 persen dibanding periode yang sama tahun lalu.",
+   "Di sisi lain, nilai impor Juli 2026 mencapai US$26,09 miliar, naik tipis 0,72 persen dibanding Juni tapi melonjak 27,02 persen dibanding Juli tahun lalu. Impor nonmigas naik 4,57 persen menjadi US$22,33 miliar, sementara impor migas turun 17,33 persen menjadi US$3,77 miliar. Kenaikan impor bulanan terutama berasal dari serealia yang naik 78,38 persen, garam-belerang-batu-semen naik 64,53 persen, dan ampas industri makanan naik 31,88 persen, dengan lonjakan impor asal Uni Emirat Arab mencapai 213,23 persen. Secara kumulatif Januari-Juli, impor Indonesia mencapai US$163,33 miliar, melonjak 19,94 persen dibanding tahun lalu, dengan bahan baku dan barang penolong menyumbang 71,45 persen dari total impor dan barang modal 19,88 persen.",
+   "Berdasarkan negara mitra, surplus nonmigas terbesar Januari-Juli 2026 disumbang Amerika Serikat US$12,81 miliar, India US$7,96 miliar, Filipina US$4,72 miliar, Malaysia US$3,39 miliar, dan Vietnam US$2,95 miliar. Sebaliknya, defisit nonmigas terdalam tercatat dengan Tiongkok US$17,67 miliar, Australia US$4,41 miliar, Prancis US$1,72 miliar, Kanada US$1,08 miliar, dan Rusia US$1,00 miliar. Dari sisi komoditas, surplus nonmigas kumulatif terutama berasal dari lemak dan minyak hewani nabati US$20,96 miliar, bahan bakar mineral US$16,39 miliar, serta besi dan baja US$10,32 miliar."
+  ],
+  "fotoAdegan": "Cargo cranes loading stacked shipping containers onto a container ship at a busy Indonesian seaport at midday.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah: surplus neraca dagang Juli tergerus tajam menjadi hanya US$0,12 miliar, dari rata-rata sekitar US$0,53 miliar per bulan selama Januari-Juli, karena defisit sektor migas US$2,98 miliar nyaris menghabiskan surplus nonmigas US$3,10 miliar. Yang terdampak adalah eksportir manufaktur nonmigas yang menopang seluruh surplus, serta industri pengguna bahan baku dan barang modal impor yang porsinya mencapai 91,33 persen dari total impor Indonesia. Ke depan ada dua kemungkinan: kalau penipisan ini cuma imbas sementara naiknya defisit migas, surplus bisa melebar lagi bulan berikutnya, tapi kalau pola sekarang bertahan, yakni impor tumbuh 27,02 persen dibanding tahun lalu sementara ekspor cuma naik 6,05 persen, surplus dagang berisiko terus menipis bahkan berbalik jadi defisit. Yang akan menjawab arah mana yang benar adalah data neraca dagang Agustus 2026, yang biasanya dirilis awal Oktober."
+ },
+ {
+  "slug": "destry-damayanti-dilantik-jadi-gubernur-bank-indonesia",
+  "category": "Moneter",
+  "title": "Destry Damayanti Dilantik Jadi [Gubernur] Bank Indonesia",
+  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur Bank Indonesia bersama Aida S. Budiman dan Solikin M. Juhro untuk masa jabatan lima tahun.",
+  "image": "assets/img/destry-damayanti-dilantik-jadi-gubernur-bank-indonesia.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-02T23:23:44.377Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817826.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Dewan Gubernur",
+   "Destry Damayanti",
+   "Moneter"
+  ],
+  "body": [
+   "Pada Rabu, 2 September 2026, Ketua Mahkamah Agung Prof. Dr. H. Sunarto melantik tiga pejabat baru Dewan Gubernur Bank Indonesia: Destry Damayanti sebagai Gubernur, Aida S. Budiman sebagai Deputi Gubernur Senior, dan Solikin M. Juhro sebagai Deputi Gubernur. Pelantikan ini menentukan siapa yang akan memimpin bank sentral dalam mengatur suku bunga, nilai tukar rupiah, dan stabilitas sistem keuangan Indonesia selama lima tahun ke depan.",
+   "Pelantikan tersebut merujuk pada Keputusan Presiden Nomor 92/P Tahun 2026 tanggal 1 September 2026 tentang Pemberhentian dan Pengangkatan Dewan Gubernur Bank Indonesia. Dengan keputusan itu, susunan Dewan Gubernur Bank Indonesia resmi berganti, dengan Destry Damayanti menempati posisi Gubernur, didampingi Aida S. Budiman sebagai Deputi Gubernur Senior dan Solikin M. Juhro sebagai Deputi Gubernur.",
+   "Bank Indonesia menyebut pergantian ini menandai keberlanjutan pelaksanaan tugas bank sentral sesuai amanat undang-undang, dan menyatakan akan terus bersinergi dengan pemerintah dan otoritas terkait dalam menjaga stabilitas ekonomi. Namun pernyataan itu adalah klaim Bank Indonesia sendiri, sebab siaran pers ini belum merinci agenda atau sikap kebijakan konkret dari susunan Dewan Gubernur yang baru."
+  ],
+  "fotoAdegan": "Exterior of a formal government building facade with an Indonesian flag fluttering, clear morning sky, low-angle documentary shot.",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2817826/Cover-sp_2817826.JPG",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Yang berubah di sini murni soal orang: kursi Gubernur, Deputi Gubernur Senior, dan satu kursi Deputi Gubernur di Bank Indonesia berpindah tangan lewat Keputusan Presiden yang terbit sehari sebelum pelantikan, dengan masa jabatan lima tahun. Yang terdampak adalah pelaku pasar keuangan, perbankan, dan dunia usaha yang bergantung pada kebijakan suku bunga dan nilai tukar rupiah, karena merekalah yang biasanya paling cepat merasakan setiap pergeseran arah kebijakan moneter. Siaran pers ini belum menyebut prioritas atau sikap kebijakan dari Dewan Gubernur yang baru, sehingga belum ada dasar untuk menyimpulkan apakah arah kebijakan Bank Indonesia akan berubah atau tetap seperti sebelumnya. Yang perlu dipantau adalah pernyataan publik pertama Destry Damayanti sebagai Gubernur serta hasil Rapat Dewan Gubernur berikutnya, karena di situlah sinyal soal suku bunga dan stabilitas rupiah ke depan biasanya mulai terlihat.",
+  "imageV": "mtkqcm6p"
+ },
+ {
   "slug": "palm-obligasi-rp50-miliar-jatuh-tempo-delisting-dari-bei",
   "category": "Aksi Korporasi",
   "title": "PALM: Obligasi Rp50 Miliar [Jatuh Tempo], Delisting dari BEI",
@@ -686,6 +798,60 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret di sini adalah progres fisik proyek, dari target 2.000 hektare yang digarap Kementerian Kelautan dan Perikanan, 616 hektare sudah rampung dan mulai uji coba produksi, sementara 751 hektare lagi masih dikerjakan. Yang terdampak langsung adalah warga Rote Ndao, karena sebagian lahan itu memakai skema kerja sama dengan tanah milik masyarakat, bukan pengambilalihan lahan oleh negara. Arahnya adalah pembangunan bertahap, bukan langsung menggarap seluruh 10.764 hektare yang ditetapkan sebagai kawasan prioritas, sebab baru sekitar seperlima dari luasan itu yang punya target dan jadwal jelas. Yang akan menentukan apakah proyek ini berlanjut ke skala lebih besar adalah hasil panen perdana yang dijadwalkan November 2026 dari lahan 616 hektare tahap pertama, karena itu jadi bukti pertama apakah target produksi bisa tercapai sebelum sisa lahan digarap.",
   "imageV": "mtkiro2r"
+ },
+ {
+  "slug": "infranexia-lintasarta-perkuat-konektivitas-sumatra-batam",
+  "category": "Teknologi",
+  "title": "InfraNexia-Lintasarta [Perkuat] Konektivitas Sumatra-Batam",
+  "deck": "InfraNexia dan Lintasarta sepakat memakai teknologi DWDM untuk memperkuat jaringan berkapasitas tinggi di rute Medan-Batam dan Padang-Batam.",
+  "image": "assets/img/infranexia-lintasarta-perkuat-konektivitas-sumatra-batam.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T13:54:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464368-gunakan-layanan-dwdm-kolaborasi-infranexia-dan-lintasarta-perkuat-konektivitas-medan-batam-dan-padang",
+  "tags": [
+   "DWDM",
+   "InfraNexia",
+   "Lintasarta",
+   "Telkom"
+  ],
+  "body": [
+   "PT Telkom Infrastruktur Indonesia atau InfraNexia, anak usaha PT Telkom Indonesia (Persero) Tbk, menjalin kerja sama dengan PT Aplikanusa Lintasarta untuk memperkuat jaringan internet berkapasitas besar di jalur Medan-Batam dan Padang-Batam. Kesepakatan ini penting karena jalur tersebut menghubungkan Sumatra dengan Batam, salah satu pusat aktivitas bisnis dan data di kawasan barat Indonesia. Kerja sama diteken lewat penandatanganan Berita Acara Kesepakatan di sela acara Bali Annual Telkom International Conference 2026 di Nusa Dua, Bali, pada 26 Agustus lalu.",
+   "Teknologi yang dipakai bernama Dense Wavelength Division Multiplexing atau DWDM, yaitu cara mengirim banyak jalur data sekaligus dalam satu kabel serat optik. Bayangkan satu jalan tol yang biasanya dilalui satu jalur mobil, lalu dibuat mampu menampung banyak jalur kendaraan sekaligus tanpa membangun jalan baru. Teknologi ini dibutuhkan karena permintaan konektivitas dari perusahaan besar, layanan komputasi awan, dan pusat data terus naik, dan mereka butuh koneksi yang cepat, stabil, serta bisa ditambah kapasitasnya sewaktu-waktu.",
+   "Direktur Utama InfraNexia Lukman Hakim Abd. Rauf mengatakan kolaborasi ini bagian dari strategi perusahaan memperluas pemanfaatan infrastruktur dengan pendekatan terbuka. Ia menyebut penguatan koridor Medan-Batam dan Padang-Batam sebagai fondasi untuk mendukung pertambahan trafik data dan kebutuhan digital baru ke depan. Lukman juga menegaskan InfraNexia memposisikan diri sebagai penyedia infrastruktur telekomunikasi dengan prinsip akses terbuka atau open access, yang berarti jaringannya bisa dipakai berbagai pelaku industri sesuai kebutuhan masing-masing.",
+   "Direktur Utama Lintasarta Armand Hermawan menambahkan bahwa konektivitas berkapasitas tinggi menjadi salah satu fondasi utama untuk mendukung transformasi digital yang terus berkembang."
+  ],
+  "fotoAdegan": "Technicians inspecting fiber-optic cable trays inside a telecom data center rack room, focused work lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97c58664bcd-prosesi-penandatanganan-berita-acara-kesepakatan-bak-antara-infranexia-dan-lintasarta-di-sela-penyelenggaraan-bali-annual-telkom-international-conference-batic-2026-di-nusa-dua-bali-268_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah InfraNexia dan Lintasarta menandatangani kesepakatan pemakaian bersama jaringan DWDM di dua rute, Medan-Batam dan Padang-Batam, bukan membangun infrastruktur baru dari nol. Pihak yang langsung terdampak adalah pelanggan korporasi, penyedia layanan cloud, dan pusat data di sepanjang koridor Sumatra-Batam yang butuh koneksi internet besar dan stabil. Arah yang ditegaskan InfraNexia sendiri dalam pernyataannya adalah menjadi penyedia infrastruktur terbuka yang bisa disewa banyak pemain industri, bukan cuma dipakai internal Telkom Group. Yang belum diungkap dalam kesepakatan ini adalah nilai kontrak, besaran kapasitas dalam Gbps, dan target waktu operasional penuh, sehingga belum bisa dinilai seberapa besar dampaknya dibanding kerja sama serupa InfraNexia dengan pihak lain. Yang perlu dipantau adalah apakah InfraNexia mengumumkan kesepakatan open access serupa dengan operator lain, karena itu akan menunjukkan apakah strategi ini berjalan konsisten atau baru sebatas satu kasus.",
+  "imageV": "mtkqcmp2"
+ },
+ {
+  "slug": "investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut",
+  "category": "Industri",
+  "title": "Investasi Rp7,2 Triliun Tambak Udang di Sumba Timur [Dikebut]",
+  "deck": "Pemerintah menggelontorkan Rp7,2 triliun untuk tambak udang terintegrasi seluas 2.150 hektare di Sumba Timur, NTT, guna mendorong ekonomi dan menekan kemiskinan.",
+  "image": "assets/img/investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T13:42:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464363-investasi-rp72-triliun-digelontorkan-bangun-tambak-udang-2150-hektare-di-sumba-timur",
+  "tags": [
+   "tambak",
+   "udang",
+   "ntt",
+   "investasi"
+  ],
+  "body": [
+   "Pemerintah menjadikan pembangunan kawasan tambak udang terintegrasi Integrated Shrimp Farming (ISF) Waingapu di Sumba Timur, Nusa Tenggara Timur, sebagai salah satu proyek andalan untuk mendongkrak ekonomi sekaligus menekan kemiskinan di wilayah tersebut. Investasi yang digelontorkan mencapai sekitar US$500 juta atau setara Rp7,2 triliun, dengan kawasan ini dirancang bukan sekadar tambak berskala besar, melainkan sebagai pusat industri yang menyambungkan seluruh rantai produksi udang dari hulu sampai hilir.",
+   "Kepala Badan Komunikasi Pemerintah, Muhammad Qodari, mengatakan proyek ini disiapkan untuk memberi dampak ekonomi langsung bagi warga NTT, wilayah yang masih menghadapi tantangan kemiskinan cukup besar. Ia menyebut ISF Waingapu diharapkan mendorong pertumbuhan ekonomi, membuka lapangan kerja, dan membantu pengentasan kemiskinan di kawasan tersebut.",
+   "Proyek ini dibangun di lahan seluas 2.150 hektare di Desa Palakahembi dan Kelurahan Watumbaka, Kecamatan Waingapu, Kabupaten Sumba Timur. Sekitar 1.361 hektare di antaranya akan dipakai untuk kolam budidaya dan fasilitas pendukung seperti tandon air, instalasi pengolahan air limbah klaster, jaringan intake, fasilitas karantina, jalan produksi, serta instalasi pengolahan air limbah utama.",
+   "Hingga 29 Juli 2026, progres pembangunan fisik baru mencapai sekitar 10 persen, dikerjakan dengan dukungan lebih dari 300 unit alat berat. Pemerintah menargetkan konstruksi rampung pada akhir 2027 sehingga ISF Waingapu bisa mulai beroperasi awal 2028, dengan target produksi sekitar 52.800 ton udang per tahun untuk memperkuat pasokan di pasar domestik maupun ekspor."
+  ],
+  "fotoAdegan": "Heavy excavators dredging large earthen shrimp ponds on a rural coastal construction site, cloudy tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a85486b2d5e5-kepala-bakom-muhammad-qodari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah pemerintah resmi mendorong pembangunan kawasan tambak udang seluas 2.150 hektare di Sumba Timur dengan dana investasi Rp7,2 triliun, salah satu proyek infrastruktur terbesar yang pernah masuk ke wilayah ini. Yang terdampak adalah warga Sumba Timur, khususnya penduduk di sekitar Desa Palakahembi dan Kelurahan Watumbaka yang diharapkan mendapat lapangan kerja baru, serta pelaku usaha di rantai pasok udang nasional yang kelak menerima tambahan pasokan besar begitu tambak ini beroperasi penuh. Namun progres konstruksi baru mencapai 10 persen per akhir Juli, sementara pemerintah menargetkan proyek ini rampung akhir 2027 dan beroperasi awal 2028, artinya dalam waktu kurang dari satu setengah tahun kecepatan pembangunan harus naik jauh dari capaian sekarang. Yang akan memastikan apakah jadwal itu bisa dikejar adalah laporan progres konstruksi berikutnya, karena jarak dari 10 persen menuju rampung penuh masih sangat jauh untuk sisa waktu yang tersedia.",
+  "imageV": "mtkqcn4s"
  },
  {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
@@ -2094,7 +2260,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:04.592Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -2968,7 +3134,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
@@ -3021,7 +3187,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
   "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2612",
@@ -4877,7 +5043,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",

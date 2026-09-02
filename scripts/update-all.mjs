@@ -58,7 +58,22 @@ const TARGET_GOV = Number(process.env.SIGNAL_GOV || 8);
 const BATAS_MENIT = Number(process.env.SIGNAL_MENIT || 10);
 const MULAI = Date.now();
 const lewatBatas = () => (Date.now() - MULAI) > BATAS_MENIT * 60000;
-const MAKS_GOV_PER_SUMBER = 4;
+// 4 -> 2, diturunkan 2 September 2026 bersamaan dengan bertambahnya kanal
+// pemerintah dari 4 menjadi 20.
+//
+// Angka ini dikalikan JUMLAH SUMBER, dan hasilnya adalah unduhan halaman
+// artikel yang dilakukan SEBELUM satu pun artikel ditulis. Dibiarkan 4, dua
+// puluh sumber berarti 80 unduhan per putaran; ongkos itu dibayar penuh
+// walau TARGET_GOV cuma memakai 8 di antaranya, dan ia memakan jatah waktu
+// yang seharusnya dipakai menulis.
+//
+// 2 x 20 = 40 kandidat untuk 8 slot, masih lima kali lipat pasokan yang
+// dibutuhkan. Kehilangan kedalaman per sumber juga kecil karena daily.yml
+// kini berjalan 12 kali sehari: sumber yang menerbitkan lebih dari dua
+// tulisan sehari tetap terkejar pada putaran berikutnya.
+//
+// Diukur: seluruh pengambilan DAFTAR untuk 20 sumber makan 23,5 detik.
+const MAKS_GOV_PER_SUMBER = 2;
 
 function tanggalWIB() {
   const H = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];

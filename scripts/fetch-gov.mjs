@@ -67,6 +67,159 @@ const SUMBER = [
     asal: 'https://www.esdm.go.id',
     pola: /href="((?:https:\/\/www\.esdm\.go\.id)?\/id\/media-center\/arsip-berita\/[a-z0-9-]+)"/g,
   },
+
+  // ---------- gelombang kedua, 2 September 2026 ----------
+  //
+  // Ditemukan lewat sapuan 40 kandidat (kementerian, regulator, BUMN,
+  // asosiasi, lembaga data) yang masing-masing DIUJI SUNGGUHAN dengan curl:
+  // status HTTP, bukti dirender server, regex dijalankan atas HTML aslinya,
+  // lalu satu artikel diambil untuk memastikan isinya ekonomi dan segar.
+  // 18 kandidat gagar dan tercatat di daftar JANGAN-DICOBA-LAGI di bawah.
+  //
+  // KETERBATASAN YANG HARUS DIKETAHUI: dari 19 yang lolos uji, baru DJP yang
+  // sempat melewati pemeriksaan adversarial (agen yang tugasnya MENOLAK).
+  // 18 pemeriksa lainnya mati kena batas sesi. Uji tekniknya kuat, tapi
+  // lapisan yang biasanya menangkap cacat isi belum jalan untuk mereka - dan
+  // lapisan itu terbukti berguna, lihat catatan DJP.
+  //
+  // Yang menahan ongkos: TARGET_GOV di update-all.mjs membatasi artikel
+  // pemerintah per putaran, jadi menambah sumber memperluas PILIHAN redaksi,
+  // bukan menambah jumlah artikel.
+  {
+    nama: 'Kemenko Perekonomian',
+    lembaga: 'Kementerian Koordinator Bidang Perekonomian',
+    daftar: 'https://ekon.go.id/publikasi/1/siaran-pers',
+    asal: 'https://ekon.go.id',
+    pola: /href="(\/publikasi\/detail\/\d+\/[^"]+)"/g,
+    // Vonis lama di berkas ini menyatakan ekon.go.id "gagal tersambung".
+    // Diuji ulang 2 September 2026: HTTP 200 dan 6 tautan siaran pers, jadi
+    // vonis itu sudah kedaluwarsa. Catatan lama dibiarkan di bawah sebagai
+    // riwayat, bukan sebagai larangan.
+  },
+  {
+    nama: 'BKPM',
+    lembaga: 'Kementerian Investasi dan Hilirisasi/BKPM',
+    daftar: 'https://bkpm.go.id/id/info/siaran-pers',
+    asal: 'https://bkpm.go.id',
+    // Jalurnya /info/, BUKAN /publikasi/ - yang terakhir dibalas 404.
+    pola: /href="(https:\/\/bkpm\.go\.id\/id\/info\/siaran-pers\/[a-z0-9-]+)"/g,
+  },
+  {
+    nama: 'DJP',
+    lembaga: 'Direktorat Jenderal Pajak',
+    daftar: 'https://pajak.go.id/id/siaran-pers-page',
+    // GARIS MIRING DI UJUNG WAJIB. Pola di bawah sengaja TIDAK menangkap
+    // garis miring pembuka, jadi tanpa ini semua URL jadi "pajak.go.idid/...".
+    asal: 'https://pajak.go.id/',
+    // "/index.php" sengaja DIBUANG dari capture group. Situs DJP menyajikan
+    // artikel yang sama di dua alamat (dengan dan tanpa /index.php), dan
+    // halaman daftarnya merender sebagian baris dalam bentuk satu, sebagian
+    // dalam bentuk lain. Dedup di ambilTautan() berbasis kecocokan string,
+    // jadi tanpa penyeragaman ini artikel yang sama bisa terbit dua kali.
+    pola: /href="\/(?:index\.php\/)?(id\/siaran-pers\/[^"?#]+)"/g,
+    // AWAS: judul DJP tidak bisa dipercaya. Ditemukan saat verifikasi, satu
+    // artikel berjudul "...Penerimaan Pajak NTT..." isinya justru NTB
+    // (dateline Mataram). Redaksi wajib membaca badan artikelnya.
+    // Terbitannya juga menggumpal: bisa sepi berhari-hari lalu 20 sekaligus.
+  },
+  {
+    nama: 'KSEI',
+    lembaga: 'PT Kustodian Sentral Efek Indonesia',
+    daftar: 'https://www.ksei.co.id/id/publikasi/siaran-pers',
+    asal: 'https://www.ksei.co.id',
+    pola: /href="(\/id\/publikasi\/siaran-pers\/[^"?#]+)"/g,
+  },
+  {
+    nama: 'KPPU',
+    lembaga: 'Komisi Pengawas Persaingan Usaha',
+    daftar: 'https://kppu.go.id/berita',
+    asal: 'https://kppu.go.id',
+    pola: /href="(https:\/\/kppu\.go\.id\/berita\/[a-z0-9-]+)"/g,
+  },
+  {
+    nama: 'BP BUMN',
+    lembaga: 'Badan Pengelola Badan Usaha Milik Negara',
+    daftar: 'https://bumn.go.id/publikasi/berita/rilis',
+    asal: 'https://bumn.go.id',
+    pola: /href="(https:\/\/bumn\.go\.id\/publikasi\/berita\/rilis\/detail\/[^"]+)"/g,
+  },
+  {
+    nama: 'Bappenas',
+    lembaga: 'Kementerian Perencanaan Pembangunan Nasional/Bappenas',
+    // Halaman depannya yang memuat daftar berita; /berita sendiri tidak.
+    daftar: 'https://www.bappenas.go.id/',
+    asal: 'https://www.bappenas.go.id',
+    pola: /href="(https:\/\/www\.bappenas\.go\.id\/id\/berita\/[^"#?]+)"/g,
+  },
+  {
+    nama: 'Kemnaker',
+    lembaga: 'Kementerian Ketenagakerjaan',
+    daftar: 'https://kemnaker.go.id/news',
+    asal: 'https://kemnaker.go.id',
+    pola: /href="(\/news\/detail\/[a-z0-9-]+)"/g,
+  },
+  {
+    nama: 'Kementan',
+    lembaga: 'Kementerian Pertanian',
+    daftar: 'https://www.pertanian.go.id/?show=news&act=view_all',
+    // Garis miring di ujung wajib: capture group diawali "?".
+    asal: 'https://www.pertanian.go.id/',
+    pola: /href="(\?show=news&act=view&id=\d+)"/g,
+  },
+  {
+    nama: 'KKP',
+    lembaga: 'Kementerian Kelautan dan Perikanan',
+    daftar: 'https://kkp.go.id/news.html',
+    // Garis miring di ujung wajib: capture group tanpa garis miring pembuka.
+    asal: 'https://kkp.go.id/',
+    pola: /href="(news\/news-detail\/[a-zA-Z0-9-]+\.html)"/g,
+  },
+  {
+    nama: 'PU',
+    lembaga: 'Kementerian Pekerjaan Umum',
+    daftar: 'https://pu.go.id/berita/kanal',
+    asal: 'https://pu.go.id',
+    // Halaman kanal, kategori, dan tag disaring supaya tidak ikut tertangkap.
+    pola: /href="(https:\/\/pu\.go\.id\/berita\/(?!kanal\b|kategori\/|tag\b)[a-z0-9][a-z0-9-]*)"/g,
+  },
+  {
+    nama: 'PPATK',
+    lembaga: 'Pusat Pelaporan dan Analisis Transaksi Keuangan',
+    daftar: 'https://www.ppatk.go.id/siaran_pers/lists/1.html',
+    asal: 'https://www.ppatk.go.id',
+    pola: /href="([^"]*\/siaran_pers\/read\/\d+\/[^"]+\.html)"/g,
+  },
+  {
+    nama: 'Bulog',
+    lembaga: 'Perum BULOG',
+    daftar: 'https://www.bulog.co.id/pojok-media/siaran-pers/',
+    asal: 'https://www.bulog.co.id',
+    pola: /href="(https:\/\/www\.bulog\.co\.id\/20\d{2}\/\d{2}\/\d{2}\/[^"]+\/)"/g,
+  },
+  {
+    nama: 'Pupuk Indonesia',
+    lembaga: 'PT Pupuk Indonesia (Persero)',
+    daftar: 'https://www.pupuk-indonesia.com/media-info',
+    asal: 'https://www.pupuk-indonesia.com',
+    pola: /href="(https:\/\/www\.pupuk-indonesia\.com\/media-info\/detail\/\d+\/[^"]+)"/g,
+  },
+  // Dua asosiasi industri. Keduanya menerbitkan ANGKA yang jadi indikator
+  // ekonomi rutin dan tidak ada di kanal pemerintah mana pun: penjualan mobil
+  // bulanan (GAIKINDO) dan ekspor sawit bulanan (GAPKI).
+  {
+    nama: 'GAIKINDO',
+    lembaga: 'Gabungan Industri Kendaraan Bermotor Indonesia',
+    daftar: 'https://www.gaikindo.or.id/category/berita/',
+    asal: 'https://www.gaikindo.or.id',
+    pola: /wp-block-post-title[^>]*><a\s+href="(https:\/\/www\.gaikindo\.or\.id\/[^"/]+\/)"/g,
+  },
+  {
+    nama: 'GAPKI',
+    lembaga: 'Gabungan Pengusaha Kelapa Sawit Indonesia',
+    daftar: 'https://gapki.id/siaran-pers/',
+    asal: 'https://gapki.id',
+    pola: /bdp-post-title"[^>]*>\s*<a href="(https:\/\/gapki\.id\/news\/[^"]+)"/g,
+  },
 ];
 
 // Sumber yang SUDAH DICOBA dan tidak bisa diambil, supaya tidak dicoba lagi
@@ -83,10 +236,39 @@ const SUMBER = [
 // Ketiganya baru bisa masuk kalau ada API resmi, RSS, atau perayapan yang
 // menjalankan JavaScript. Menambah perayap berbasis browser ke pipeline ini
 // terlalu berat untuk tiga sumber, jadi ditunda sampai ada kebutuhan jelas.
+//
+// CATATAN: vonis "Kemenko Perekonomian gagal tersambung" di atas sudah
+// KEDALUWARSA. Diuji ulang 2 September 2026, ekon.go.id membalas 200 dan kini
+// terdaftar di SUMBER. Vonis lama dibiarkan tertulis sebagai riwayat.
+//
+// ---------- gagal pada sapuan 2 September 2026, jangan diulang ----------
+// Semuanya diuji sungguhan dengan curl, bukan ditebak:
+//
+//   Kerangka JavaScript (tidak ada tautan artikel di HTML mentah):
+//     PLN (Nuxt SPA), BPKP (Next.js App Router), DJPPR (Angular SPA),
+//     Bank Dunia halaman Indonesia, Panel Harga Bapanas.
+//   Tidak bisa dijangkau dari sini:
+//     Dephub dan LPS (TCP tidak pernah tersambung, bukan blokir HTTP),
+//     PIHPS hargapangan.id (server asal mati), Satu Data ESDM (NXDOMAIN),
+//     IMF (seluruh domain memblokir curl), Bea Cukai, Pertamina, Komdigi.
+//   Terjangkau tapi tidak layak:
+//     Perbanas dan AISI (isinya basi, bukan masalah teknis),
+//     AAJI (halaman artikel tanpa badan teks),
+//     Bappebti (daftar terbaca, artikelnya tidak),
+//     Satu Data Kemendag (portal data, bukan siaran pers).
+//
+// Dua yang LOLOS uji tapi sengaja TIDAK dipasang: Telkom (siaran pers satu
+// perusahaan, terlalu promosi untuk kanal ekonomi) dan ADB (berbahasa
+// Inggris, butuh lapisan terjemahan yang belum ada).
 
 // Pengumuman lelang, seleksi vendor, dan lowongan bukan berita ekonomi.
 // Kemenperin banyak memuat ini di halaman siaran persnya.
-const BUKAN_BERITA = /pengumuman (seleksi|pemenang|lelang|pengadaan)|rekrutmen|lowongan|cpns|tender/i;
+// "sayembara" ditambahkan 2 September 2026. Ketahuan dari keluaran uji
+// sendiri: "Kemenperin: PENGUMUMAN SAYEMBARA CALON LEMBAGA PELAKSANA
+// VERIFIKASI..." lolos saringan lama karena kata sesudah "pengumuman" tidak
+// terdaftar. Bentuknya sama dengan lelang dan seleksi - pengumuman
+// administratif, bukan berita ekonomi.
+const BUKAN_BERITA = /pengumuman (seleksi|pemenang|lelang|pengadaan|sayembara)|sayembara|rekrutmen|lowongan|cpns|tender/i;
 
 function ambilTautan(html, sumber) {
   const keluar = [];

@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s",
+  "category": "Moneter",
+  "title": "Destry Damayanti [Resmi] Pimpin BI, Usung Prinsip 3I+S",
+  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur BI periode 2026-2031, bersama Aida S. Budiman dan Solikin M. Juhro. Ia perkenalkan prinsip 3I+S sebagai arah kebijakan bank sentral.",
+  "image": "assets/img/destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T21:30:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464475-destry-damayanti-resmi-pimpin-bi-ungkap-jurus-3is-hadapi-tantangan-ekonomi-global",
+  "tags": [
+   "Destry Damayanti",
+   "Bank Indonesia",
+   "Gubernur BI",
+   "3I+S"
+  ],
+  "body": [
+   "Destry Damayanti resmi dilantik sebagai Gubernur Bank Indonesia untuk periode 2026-2031. Pelantikan berlangsung di Mahkamah Agung, Jakarta Pusat, Rabu (2/9/2026), bersamaan dengan pelantikan Aida S. Budiman sebagai Deputi Gubernur Senior dan Solikin M. Juhro sebagai Deputi Gubernur BI. Pergantian pucuk pimpinan ini penting karena BI adalah otoritas yang menentukan kebijakan suku bunga, nilai tukar, dan stabilitas harga yang berdampak langsung ke biaya hidup dan dunia usaha.",
+   "Usai pengambilan sumpah, Destry menyampaikan kebijakan BI ke depan akan berpijak pada prinsip yang ia sebut 3I+S. Tiga unsur pertama adalah impactful, yakni kebijakan yang memberi dampak nyata, inklusif yang menjangkau berbagai lapisan masyarakat, dan integratif yang membuat kebijakan saling terhubung antar bidang, bukan berjalan sendiri-sendiri. Unsur keempat, S, merujuk pada sinergi merah putih, yaitu penguatan koordinasi BI dengan berbagai lembaga negara untuk mendukung perekonomian nasional.",
+   "Destry juga menekankan pentingnya stabilitas ekonomi sebagai syarat bagi pertumbuhan. Menurutnya, semakin stabil kondisi ekonomi, semakin luas pula ruang yang tersedia bagi perekonomian untuk tumbuh. Pernyataan ini disampaikannya langsung kepada wartawan usai acara pelantikan di Mahkamah Agung."
+  ],
+  "fotoAdegan": "Wide exterior view of a grand government courthouse facade with Indonesian flags fluttering in early morning light, no readable signage",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/28/6a6806f29e140-pjs-gubernur-bi-destry-damayanti_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini baru soal pucuk pimpinan: Destry Damayanti resmi memegang jabatan Gubernur BI untuk lima tahun ke depan, didampingi Aida S. Budiman dan Solikin M. Juhro, dengan kerangka kebijakan baru bernama 3I+S, yakni berdampak nyata, menjangkau banyak kalangan, saling terhubung, dan ditambah sinergi antarlembaga. Yang langsung terdampak adalah cara BI berkoordinasi dengan pemerintah dan otoritas lain dalam merumuskan kebijakan, sementara dampak ke pelaku usaha dan masyarakat luas baru akan terasa lewat keputusan konkret yang belum diumumkan. Pelantikan ini belum memuat keputusan kebijakan apa pun, misalnya soal suku bunga atau nilai tukar, sehingga 3I+S untuk sekarang masih berupa kerangka besar, bukan langkah teknis. Yang perlu dipantau adalah keputusan Rapat Dewan Gubernur BI berikutnya, karena di situ akan terlihat apakah prinsip ini diterjemahkan jadi kebijakan yang lebih longgar mendorong pertumbuhan atau tetap berhati-hati menjaga stabilitas rupiah.",
+  "imageV": "mtkiriyf"
+ },
+ {
+  "slug": "kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa",
+  "category": "Industri",
+  "title": "KEK Industropolis Batang Kembangkan [Wisata] di Tepi Laut Jawa",
+  "deck": "Amphitheater KEK Industropolis Batang berpemandangan Laut Jawa menarik lebih dari 10 ribu pengunjung dalam pergelaran tari gratis, menandai upaya kawasan industri merambah sektor pariwisata.",
+  "image": "assets/img/kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T21:20:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464501-kek-industropolis-batang-padukan-kawasan-industri-dan-pesona-laut-jawa-jadi-potensi-wisata-10-ribu-orang-tumpah",
+  "tags": [
+   "KEK Industropolis Batang",
+   "Laut Jawa",
+   "kawasan industri",
+   "pariwisata"
+  ],
+  "body": [
+   "Kawasan Ekonomi Khusus (KEK) Industropolis Batang mulai menambah fungsi baru di luar aktivitas manufaktur, yaitu ruang publik untuk seni dan budaya. Fasilitas bernama Amphitheater yang menghadap panorama Laut Jawa dan dilengkapi helipad kini dipakai untuk pertunjukan yang terbuka bagi masyarakat umum, bukan hanya kalangan industri di dalam kawasan.",
+   "Pemanfaatan fasilitas ini terlihat saat Pagelaran Tari Nusantara digelar sebagai puncak acara TENANT FESTA #2 belum lama ini. Acara yang digratiskan itu berhasil menarik lebih dari 10 ribu pengunjung yang datang menyaksikan pertunjukan sekaligus menikmati suasana kawasan dengan latar laut. Pertunjukan mengangkat tema Seni, Tradisi, Budaya, Warisan untuk Masa Depan, dengan menampilkan Tari Kongkorongok, Tari Merak, Tari Mardika Nusantara, serta penampilan musik Kusuma Wijaya oleh Pawestri.",
+   "Kepala Divisi Corporate Secretary KEK Industropolis Batang, M. Burhan Murtaki, mengatakan pemanfaatan Amphitheater merupakan bagian dari pengembangan kawasan secara keseluruhan. “KEK Industropolis Batang tidak hanya menjadi kawasan untuk aktivitas industri, tetapi juga memiliki ruang yang dapat dimanfaatkan untuk berbagai kegiatan,” ujarnya dalam keterangan tertulis, Rabu (2/9/2026). Ia menambahkan bahwa fasilitas ini diharapkan memberi pengalaman berbeda sekaligus memperkenalkan potensi kawasan kepada masyarakat dan pengunjung.",
+   "Manajemen kawasan menyebut animo pengunjung ini sebagai bukti bahwa pengembangan kawasan industri bisa berjalan beriringan dengan penyediaan ruang publik untuk seni dan budaya."
+  ],
+  "fotoAdegan": "Traditional Indonesian dancers performing on an open-air amphitheater stage with a sea view backdrop, industrial rooftops visible in the distance, dusk lighting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a982dc2d311d-pagelaran-tari-nusantara-di-amphitheater-kek-industropolis-batang_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah KEK Industropolis Batang membuka fasilitas non-industri, Amphitheater bertema pemandangan Laut Jawa, sebagai ruang publik untuk seni budaya, dan animo publiknya terbukti lewat lebih dari 10 ribu pengunjung yang datang dalam satu acara gratis. Yang terdampak adalah masyarakat sekitar Batang yang mendapat ruang publik baru secara cuma-cuma, para pelaku seni lokal yang tampil, serta calon tenant dan investor kawasan yang jadi sasaran promosi bahwa KEK ini punya nilai tambah di luar fungsi pabrik. Berita ini belum menyebut angka investasi untuk membangun fasilitas tersebut, jumlah tenant industri yang sudah beroperasi di kawasan, atau apakah acara serupa akan digelar rutin, sehingga belum bisa dipastikan apakah ini bagian dari strategi jangka panjang menaikkan daya tarik kawasan atau sekadar acara seremonial sekali jalan. Yang perlu dicermati selanjutnya adalah laporan realisasi investasi dan penambahan tenant KEK Industropolis Batang pada periode mendatang, karena dari situ baru terlihat apakah pengembangan ruang publik ini benar berkorelasi dengan minat investor masuk kawasan.",
+  "imageV": "mtkirjmm"
+ },
+ {
+  "slug": "dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga",
+  "category": "Makroekonomi",
+  "title": "DPR Desak BPS [Perbaiki] Data Desil Sesuai Kondisi Warga",
+  "deck": "Komisi X DPR memberi BPS tenggat dua minggu untuk memutakhirkan data desil yang salah, karena kekeliruan itu membuat sejumlah warga gagal menerima bansos dan beasiswa KIP Kuliah.",
+  "image": "assets/img/dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T19:29:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464464-banyak-warga-protes-tak-sesuai-desil-dpr-desak-bps-perbaiki-data-dan-beri-penjelasan-ke-publik",
+  "tags": [
+   "desil",
+   "bps",
+   "bansos",
+   "kip kuliah"
+  ],
+  "body": [
+   "Komisi X DPR RI meminta Badan Pusat Statistik (BPS) segera membenahi data desil, yakni klasifikasi tingkat kesejahteraan rumah tangga yang menjadi acuan pemerintah untuk menentukan siapa berhak menerima bantuan sosial dan beasiswa. Permintaan ini muncul setelah banyak warga mengeluhkan desil yang mereka terima tidak sesuai dengan kondisi ekonomi mereka yang sebenarnya. Wakil Ketua Komisi X DPR RI Lalu Hadrian Irfani mengatakan persoalan ini dibahas dalam rapat dengan BPS di Gedung DPR, Jakarta Pusat, Rabu (2/9/2026).",
+   "Menurut Lalu, Komisi X menekankan agar BPS melakukan pemutakhiran data serta menjelaskan kepada publik faktor-faktor yang menentukan seseorang masuk ke kelompok desil tertentu. DPR juga meminta BPS membuka jalur sanggah desil, yaitu mekanisme bagi warga untuk mengajukan koreksi apabila desil yang tercatat tidak sesuai dengan kondisi mereka di lapangan.",
+   "Komisi X memberi tenggat waktu dua minggu bagi BPS untuk menuntaskan perbaikan data tersebut, dan menurut Lalu, BPS telah menyetujui target itu. Percepatan ini diminta karena kesalahan desil berdampak langsung pada penyaluran bantuan sosial serta akses warga terhadap beasiswa, termasuk Program Indonesia Pintar Perguruan Tinggi atau yang dikenal sebagai KIP Kuliah."
+  ],
+  "fotoAdegan": "Residents queuing outside a small neighborhood administration office to register for social assistance, overcast morning light in a rural area.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a98143024577-lalu-hadrian-irfani_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan metode penghitungan desil, melainkan proses koreksinya: DPR memberi BPS tenggat dua minggu untuk memutakhirkan data dan mewajibkan pembukaan jalur sanggah desil bagi warga yang keberatan. Yang langsung terdampak adalah rumah tangga penerima bantuan sosial yang selama ini tidak menerima bantuan karena desilnya tercatat keliru, serta calon penerima beasiswa KIP Kuliah yang kelayakannya juga ditentukan dari desil yang sama. Pola ini mengarah ke perbaikan administratif jangka pendek, bukan perombakan cara BPS menyusun desil, sebab DPR hanya meminta pemutakhiran data dan transparansi kriteria, bukan mengubah metodologinya. Yang akan menentukan apakah perbaikan ini benar terealisasi atau cuma janji rapat adalah kepatuhan pada tenggat dua minggu itu, yakni sekitar pertengahan September 2026, dan apakah warga yang mengajukan sanggah desil benar melihat perubahan pada status mereka.",
+  "imageV": "mtkirkg8"
+ },
+ {
   "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
   "category": "Aksi Korporasi",
   "title": "ERAA Rampungkan [Buyback] Rp99,86 Miliar, Treasuri 601,6 Juta Saham",
@@ -29,6 +108,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "rupslb-bei-ditunda-ojk-baru-bahas-4-september",
+  "category": "Pasar Modal",
+  "title": "RUPSLB BEI [Ditunda], OJK Baru Bahas 4 September",
+  "deck": "RUPSLB BEI yang sedianya digelar 15 September 2026 ditunda tanpa jadwal baru, menunggu terbitnya aturan OJK soal demutualisasi bursa.",
+  "image": "assets/img/rupslb-bei-ditunda-ojk-baru-bahas-4-september.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T18:28:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464452-rupslb-bei-mendadak-ditunda-ojk-baru-bahas-kendalanya-pada-4-september",
+  "tags": [
+   "BEI",
+   "OJK",
+   "RUPSLB",
+   "demutualisasi"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Bursa Efek Indonesia yang semula dijadwalkan 15 September 2026 batal digelar sesuai rencana. Manajemen BEI menunda agenda tersebut tanpa menetapkan tanggal pengganti, dan Otoritas Jasa Keuangan mengonfirmasi bahwa pembahasan soal kendala di balik penundaan itu belum dilakukan.",
+   "Ketua Dewan Komisioner OJK Friderica Widyasari Dewi mengatakan pembahasan baru akan berlangsung pada Jumat, 4 September 2026. 'Hari Jumat kita baru mau akan ada pembahasan,' ujarnya saat ditemui di Gedung DPR RI, Jakarta, Rabu (2/9/2026).",
+   "Direktur Utama BEI Jeffrey Hendrik menjelaskan penundaan itu terkait dengan Peraturan OJK (POJK) tentang demutualisasi bursa yang belum terbit. Ia menyebut BEI akan mempelajari aturan tersebut begitu resmi keluar, baru kemudian menentukan jadwal baru RUPSLB. 'Diundur sampai dengan POJK (demutualisasi) terbit, kami akan mempelajarinya setelah POJK-nya terbit,' kata Jeffrey saat ditemui di Gedung BEI, Selasa (1/9/2026).",
+   "Rencana RUPSLB ini sebelumnya diumumkan BEI pada 14 Agustus 2026, sebelum akhirnya direksi mengeluarkan ralat yang menyatakan agenda tersebut ditunda. Hingga kini, baik OJK maupun BEI belum memberi kepastian kapan rapat pemegang saham itu akan dijadwalkan ulang."
+  ],
+  "fotoAdegan": "Exterior of a glass office tower in Jakarta's central business district, pedestrians and taxis on the street, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini soal waktu, bukan soal isi kebijakan: rapat pemegang saham BEI yang tadinya dijadwalkan 15 September 2026 mundur tanpa tanggal pengganti, karena aturan resmi OJK soal demutualisasi (perubahan struktur kepemilikan bursa) belum juga terbit. Yang terdampak langsung adalah BEI sendiri sebagai penyelenggara pasar modal, karena agenda strategis soal masa depan struktur bursa ikut tertahan sampai payung hukumnya jelas. Pola yang terlihat mengarah ke molornya proses demutualisasi, bukan pembatalan, sebab baik BEI maupun OJK sama-sama menyebut alasannya menunggu aturan turun, bukan ada keberatan substansi. Yang akan menegaskan arah ini adalah hasil pembahasan OJK pada 4 September 2026 dan kapan POJK demutualisasi itu akhirnya diterbitkan.",
+  "imageV": "mtkirl3j"
+ },
+ {
   "slug": "mglv-jadwalkan-rups-7-september-bahas-akuisisi-nextier",
   "category": "Aksi Korporasi",
   "title": "MGLV Jadwalkan RUPS 7 September, Bahas [Akuisisi] Nextier",
@@ -53,6 +159,33 @@ var ARTICLES = [
   "fotoAdegan": "Rows of empty conference chairs facing a stage in a modern corporate event hall, soft morning light through tall windows",
   "takeaway": "Agenda RUPS Independen ini condong netral untuk saat ini karena baru berstatus usulan yang menunggu keputusan pemegang saham, bukan transaksi yang sudah rampung, tetapi isinya penuh transaksi dengan pihak berelasi yang layak diawasi ketat. Tiga dari lima agenda, yaitu pengambilalihan saham Nextier Askara Center dan Nextier GenAI Center, pengalihan piutang, serta pinjaman pemegang saham, semuanya melibatkan Nextier Datamate Center yang juga pemegang saham utama MGLV, sehingga menyentuh ekuitas dan arus kas perseroan lewat transaksi yang berpotensi membenturkan kepentingan pengendali dengan pemegang saham publik. Agenda penambahan modal lewat rights issue turut berarti jumlah saham beredar akan bertambah, yang bisa menekan laba per saham pemegang lama jika mereka tidak ikut menyerap saham baru. Yang perlu dipantau adalah hasil pemungutan suara pada RUPS 7 September 2026, terutama apakah pemegang saham independen menyetujui rangkaian transaksi afiliasi tersebut, mengingat rapat ini sempat tertunda karena OJK meminta penjelasan tambahan atas rencana akuisisi Nextier.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027",
+  "category": "Makroekonomi",
+  "title": "BP Batam Siapkan Anggaran Rp2,4 Triliun Tanpa [APBN] 2027",
+  "deck": "BP Batam menyiapkan anggaran sekitar Rp2,4 triliun untuk pembangunan 2027 tanpa tambahan APBN, mengandalkan optimalisasi PNBP agar anggaran negara bisa dialihkan ke daerah lain.",
+  "image": "assets/img/bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:46:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464439-tak-mau-bergantung-apbn-bp-batam-siapkan-anggaran-rp24-triliun-untuk-pembangunan-2027",
+  "tags": [
+   "BP Batam",
+   "APBN",
+   "PNBP",
+   "Anggaran 2027"
+  ],
+  "body": [
+   "Badan Pengusahaan (BP) Batam menyiapkan anggaran sekitar Rp2,4 triliun untuk membiayai pembangunan kawasan pada 2027 tanpa meminta tambahan dana dari Anggaran Pendapatan dan Belanja Negara (APBN). Sumber pembiayaannya akan dioptimalkan dari Penerimaan Negara Bukan Pajak (PNBP), yakni pendapatan negara di luar pajak yang selama ini masuk dari kegiatan usaha di kawasan Batam. Rencana ini penting karena menyangkut cara sebuah kawasan strategis nasional membiayai dirinya sendiri di tengah keterbatasan ruang fiskal pemerintah pusat.",
+   "Komitmen tersebut disampaikan Kepala BP Batam Amsakar Achmad bersama Wakil Kepala BP Batam Li Claudia Chandra dalam Rapat Dengar Pendapat bersama Komisi VI DPR RI pada Senin, 31 Agustus 2026. Li Claudia menegaskan bahwa langkah ini bukan penolakan terhadap APBN, melainkan pilihan agar Batam tidak mengambil porsi anggaran yang menurutnya lebih dibutuhkan daerah lain. 'Batam tidak menolak APBN. Batam memilih untuk tidak bergantung pada APBN,' ujarnya.",
+   "Menurut Li Claudia, kemandirian yang dimaksud bukan sekadar kemampuan membangun sendiri, melainkan kemampuan membiayai pembangunan dari pendapatan yang dihasilkan Batam sendiri. Amsakar menambahkan bahwa pilihan ini juga mempertimbangkan kebutuhan fiskal pemerintah pusat yang meningkat, termasuk untuk daerah yang menghadapi bencana atau kondisi luar biasa. 'Ketika Batam mampu membiayai pembangunan dengan pendapatannya sendiri, maka kami memilih tidak mengambil porsi anggaran yang mungkin lebih dibutuhkan oleh daerah lain,' kata Amsakar.",
+   "Li Claudia menyebut rencana anggaran Rp2,4 triliun untuk 2027 itu menjadi bagian dari upaya membangun kawasan Batam yang lebih mandiri, efisien, dan berkelanjutan."
+  ],
+  "fotoAdegan": "Container ships docked at a busy free-trade zone port in Batam, cranes loading cargo under morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97f8017e336-kepala-bp-batam-amsakar-achmad-kanan-dan-wakil-kepala-bp-batam-li-claudia-chandra-dalam-rdp-bersama-komisi-vi-dpr-ri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah sikap resmi BP Batam yang menyiapkan anggaran sekitar Rp2,4 triliun untuk 2027 dan menyatakan tidak akan meminta tambahan APBN, dengan mengandalkan PNBP, yaitu pendapatan dari kegiatan usaha di kawasan Batam sendiri. Yang terdampak langsung adalah BP Batam sebagai pengelola kawasan, pelaku usaha yang beroperasi di Batam yang bergantung pada kelancaran pembangunan infrastrukturnya, serta pemerintah pusat yang mendapat ruang fiskal lebih longgar untuk daerah lain, termasuk yang tertimpa bencana. Arahnya menunjukkan BP Batam ingin memposisikan diri sebagai kawasan yang membiayai dirinya sendiri, sejalan dengan tekanan agar belanja negara lebih selektif. Namun RDP ini baru berupa pernyataan komitmen, bukan rincian anggaran yang sudah disahkan, sehingga yang masih perlu dipantau adalah apakah Komisi VI DPR menyetujui usulan tersebut sebagai rencana kerja anggaran definitif, dan apakah realisasi PNBP BP Batam pada tahun-tahun berjalan benar-benar cukup menutupi angka Rp2,4 triliun itu.",
+  "imageV": "mtkirlow"
  },
  {
   "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
@@ -133,6 +266,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm",
+  "category": "UMKM",
+  "title": "RUU Kadin Dibahas DPR, Anindya Bakrie Dorong Penguatan [UMKM]",
+  "deck": "Kadin Indonesia mengusulkan penguatan UMKM dan koperasi daerah dalam pembahasan revisi UU Kadin 1987 bersama Komisi VI DPR.",
+  "image": "assets/img/ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:02:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464427-ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm-di-daerah-agar-naik-kelas",
+  "tags": [
+   "RUU Kadin",
+   "UMKM",
+   "Kadin Indonesia",
+   "DPR"
+  ],
+  "body": [
+   "Panitia Kerja penyusun revisi Undang-Undang Kadin mulai membuka pembahasan perubahan atas Undang-Undang Nomor 1 Tahun 1987 tentang Kamar Dagang dan Industri. Rapat dengar pendapat ini digelar bersama jajaran Kadin Indonesia yang dipimpin Ketua Umum Anindya Bakrie di Komisi VI DPR RI, Rabu (2/9/2026). Dalam forum itu, Anindya mendorong agar revisi undang-undang turut memperkuat posisi usaha mikro, kecil, dan menengah beserta koperasi di daerah.",
+   "Anindya mengutip data bahwa 92 persen produk domestik bruto berasal dari dunia usaha, dan sekitar 95 persen dari total unit usaha di Indonesia berstatus UMKM. Angka ini menjadi dasar argumennya agar UMKM mendapat perhatian lebih besar dalam kerangka hukum yang baru. Ia menegaskan Kadin tetap ingin menjalankan perannya dengan berlandaskan Pancasila dan Undang-Undang Dasar 1945, sambil mempertahankan independensi organisasi.",
+   "Anindya menyebut UMKM di daerah membutuhkan perhatian lebih agar bisa naik kelas dan maju bersama, dengan mencontohkan laporan dari Kadin provinsi mengenai kondisi di lapangan. Ia memastikan, sekalipun Kadin nantinya diberi kewenangan khusus lewat undang-undang ini, organisasi tersebut tidak akan menggunakan anggaran pemerintah. Yang dibutuhkan, menurutnya, adalah kerja sama erat untuk sertifikasi, pelatihan, pembinaan, dan akreditasi bagi asosiasi, himpunan, dan pelaku usaha.",
+   "Anindya menegaskan bahwa revisi UU Kadin ini diarahkan untuk membuat Indonesia lebih kompetitif dan keluar dari jebakan negara berpendapatan menengah, dengan dunia usaha didorong menjadi motor utama dalam proses tersebut."
+  ],
+  "fotoAdegan": "A small workshop owner arranging handmade craft goods on wooden shelves inside a modest storefront, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97f1a38e2b0-ketum-kadin-anindya-bakrie-di-gedung-dpr-ri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru tahap awal, DPR lewat panitia kerjanya mulai mendengarkan masukan Kadin untuk merevisi undang-undang tahun 1987 yang mengatur organisasi ini. Anindya Bakrie mengusulkan agar Kadin diberi peran resmi mengurus sertifikasi, pelatihan, dan akreditasi UMKM serta koperasi di daerah, sambil menegaskan Kadin tidak akan memakai anggaran pemerintah untuk itu. Yang berpotensi terdampak adalah UMKM dan koperasi daerah, karena kalau usulan ini masuk undang-undang, merekalah yang akan lebih banyak berurusan dengan Kadin untuk bisa naik kelas. Namun data yang ada baru berupa pendapat Kadin dalam rapat dengar pendapat, belum ada draf pasal yang disepakati atau jadwal pengesahan RUU ini, jadi belum bisa dipastikan apakah usulan kewenangan khusus itu akan diadopsi DPR. Yang perlu dipantau adalah hasil pembahasan Panja berikutnya dan draf RUU Kadin yang dirumuskan setelah rangkaian rapat dengar pendapat ini rampung.",
+  "imageV": "mtkirm82"
+ },
+ {
   "slug": "elsa-cetak-laba-bersih-rp435-miliar-di-semester-i-2026-naik-29-2",
   "category": "Aksi Korporasi",
   "title": "ELSA Cetak [Laba] Bersih Rp435 Miliar di Semester I 2026, Naik 29,2%",
@@ -210,6 +370,114 @@ var ARTICLES = [
   "fotoAdegan": "A freight train loaded with coal wagons crossing rural terrain near a coal stockpile, workers in high-visibility vests, overcast sky",
   "takeaway": "Materi ini condong positif bagi PTBA karena menunjukkan pemulihan produksi yang cepat pada kuartal kedua serta efisiensi tambang yang sudah melampaui target tahunan, di luar kenaikan laba yang sudah dilaporkan sebelumnya. Nisbah kupas, yaitu perbandingan volume tanah yang harus dipindahkan untuk mendapatkan satu ton batu bara, turun dari 6,17 kali menjadi 5,26 kali dan sudah lebih baik dari target akhir tahun 5,63 kali, artinya PTBA mengeluarkan lebih sedikit biaya operasional untuk jumlah batu bara yang sama. EBITDA, yaitu laba operasional sebelum dipotong bunga, pajak, depresiasi, dan amortisasi, melonjak 94 persen menjadi Rp4,27 triliun, menandakan kas dari kegiatan inti perusahaan menebal signifikan. Yang perlu dipantau berikutnya adalah penyelesaian jalur kereta Tanjung Enim-Keramasan yang progresnya sudah 93,45 persen per akhir Juli 2026 dan ditargetkan beroperasi semester kedua 2026, karena jalur ini akan menambah kapasitas angkutan batu bara 20 juta ton per tahun begitu rampung.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt",
+  "category": "Bisnis",
+  "title": "Freeport Salurkan Bantuan [Rp2,5 M] untuk Gempa NTT",
+  "deck": "PTFI menyerahkan bantuan kemanusiaan Rp2,5 miliar bagi korban gempa M7,7 di NTT, mencakup 700 paket kebutuhan dasar, lima hunian sementara, dan empat sekolah darurat.",
+  "image": "assets/img/freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:23:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464417-freeport-salurkan-bantuan-kemanusiaan-rp25-miliar-untuk-masyarakat-terdampak-gempa-ntt",
+  "tags": [
+   "Freeport",
+   "PTFI",
+   "Gempa NTT",
+   "Bantuan Kemanusiaan"
+  ],
+  "body": [
+   "PT Freeport Indonesia (PTFI) menyalurkan bantuan kemanusiaan senilai Rp2,5 miliar untuk masyarakat terdampak gempa bumi bermagnitudo 7,7 yang mengguncang Nusa Tenggara Timur pada 15 Agustus 2026. Bantuan itu diserahkan secara simbolis oleh Presiden Direktur PTFI Tony Wenas kepada Gubernur NTT Melki Laka Lena di Kantor Gubernur, Kupang, pada Selasa, 1 September 2026.",
+   "Sebagian bantuan seberat 1,5 ton dibawa langsung oleh Tony Wenas bersama perwakilan karyawan PTFI asal NTT menggunakan pesawat. Distribusinya akan menjangkau Kecamatan Mbeliling, Kabupaten Nagekeo, Kabupaten Manggarai, dan Kabupaten Manggarai Timur. Bantuan yang disalurkan melalui lembaga kemanusiaan Human Initiative ini terdiri dari 700 paket berisi perlengkapan tidur, kebutuhan kebersihan pribadi, dan perlengkapan tenda darurat, ditambah pembangunan lima hunian sementara dan empat sekolah darurat.",
+   "Selain kontribusi perusahaan, karyawan PTFI dari berbagai lokasi kerja, yaitu Tembagapura, Kuala Kencana, Nabire, Gresik, dan Jakarta, menggalang donasi lewat gerakan bertajuk PTFI Peduli NTT. Perusahaan melipatgandakan dua kali nilai donasi karyawan tersebut sebagai bentuk dukungan tambahan.",
+   "PTFI merespons bencana ini sejak fase awal dengan mengirimkan tim tanggap darurat, dokter, dan tenaga paramedis dari Timika untuk bergabung bersama tim Siaga Bencana Kementerian ESDM. Tony Wenas menyebut kedekatan geografis dan kekerabatan sebagai alasan perusahaan bergerak cepat membantu NTT, sementara Gubernur Melki Laka Lena menyatakan dukungan dunia usaha sangat dibutuhkan agar proses pemulihan berjalan lebih cepat."
+  ],
+  "fotoAdegan": "Workers carrying bundles of tents and blankets from a small cargo plane onto a rural airstrip in hilly terrain, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97e952807f0-pengiriman-bantuan-kemanusiaan-pt-freeport-indonesia-ptfi-untuk-masyarakat-terdampak-gempa-ntt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma jumlah bantuan, tapi tahapannya: begitu gempa terjadi pertengahan Agustus, PTFI lebih dulu mengirim tim tanggap darurat dan tenaga medis, dan sebulan kemudian sudah masuk ke pembangunan lima hunian sementara serta empat sekolah darurat. Ini pola bantuan yang bergerak dari fase penyelamatan ke fase pemulihan jangka menengah, bukan sekadar kirim barang lalu selesai. Yang merasakan dampak langsung adalah warga di Kecamatan Mbeliling, Kabupaten Nagekeo, Manggarai, dan Manggarai Timur, tempat 700 paket kebutuhan dasar itu akan dibagikan. Yang masih perlu dipantau adalah apakah dukungan berlanjut setelah masa huntara berakhir, misalnya lewat program rekonstruksi permanen begitu status tanggap darurat resmi dicabut oleh pemerintah daerah.",
+  "imageV": "mtkirmos"
+ },
+ {
+  "slug": "ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern",
+  "category": "Industri",
+  "title": "RI Butuh Rp125,5 T Bangun 4.582 [Kapal] Ikan Modern",
+  "deck": "Pemerintah menyiapkan investasi Rp125,5 triliun untuk 4.582 kapal ikan modern hingga 2029, menargetkan penyerapan hingga 89.000 tenaga kerja.",
+  "image": "assets/img/ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:00:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464398-butuh-rp1255-triliun-pemerintah-mau-bangun-4582-kapal-ikan-modern-yang-bisa-serap-89000-tenaga-kerja",
+  "tags": [
+   "kapal ikan",
+   "investasi",
+   "KKP",
+   "galangan kapal"
+  ],
+  "body": [
+   "Pemerintah berencana membangun 4.582 kapal ikan modern dengan kebutuhan investasi sekitar Rp125,5 triliun, sebagai bagian dari upaya memperkuat industri perikanan tangkap nasional. Kepala Badan Komunikasi Pemerintah RI, Muhammad Qodari, menyampaikan hal ini dalam konferensi pers di Jakarta Pusat, Rabu (2/9/2026). Pembangunan armada akan melibatkan industri galangan kapal, yakni perusahaan pembuat kapal dalam negeri, sehingga belanja besar ini diharapkan tidak hanya menghasilkan kapal, tetapi juga menggerakkan ekonomi di dalam negeri.",
+   "Proyek modernisasi kapal ikan ini akan berjalan bertahap sepanjang 2026 hingga 2029. Armada baru ini disiapkan agar nelayan Indonesia mampu memanfaatkan potensi ikan di laut lepas secara lebih optimal, sekaligus membuka ruang bagi peningkatan kapasitas teknologi galangan kapal dalam negeri lewat alih teknologi dari luar negeri.",
+   "Dari sisi tenaga kerja, program ini ditargetkan menyerap hingga 89.000 orang. Sebanyak 55.000 di antaranya disiapkan untuk mengisi posisi awak kapal perikanan, seperti nakhoda, perwira, kepala kamar mesin, dan anak buah kapal. Sisanya akan ditempatkan sebagai operator kapal, tenaga administrasi, hingga pengurus dokumen kapal.",
+   "Pemerintah menyebut dampak proyek ini tidak berhenti pada jumlah kapal yang terbangun atau tenaga kerja yang terserap. Modernisasi armada juga ditargetkan mendongkrak produksi perikanan tangkap, menaikkan pendapatan nelayan, sekaligus menambah penerimaan negara."
+  ],
+  "fotoAdegan": "Shipyard workers welding steel hulls of mid-sized fishing vessels under construction, sparks flying, coastal warehouse in the background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/19/6a856b433143f-kepala-badan-komunikasi-bakom-pemerintah-ri-muhammad-qodari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pemerintah menetapkan target yang cukup rinci, yakni 4.582 kapal ikan baru senilai Rp125,5 triliun dalam empat tahun, dengan janji dikerjakan galangan kapal dalam negeri, bukan beli kapal jadi dari luar negeri. Pihak yang langsung kena dampak adalah perusahaan pembuat kapal lokal yang berpotensi kebagian order besar ini, serta puluhan ribu calon pekerja, terutama 55.000 orang yang disiapkan sebagai awak kapal seperti nakhoda dan anak buah kapal. Yang belum dijelaskan dalam paparan ini adalah dari mana Rp125,5 triliun itu akan didanai, apakah dari anggaran negara, pinjaman, atau campuran dengan galangan swasta, serta galangan mana saja yang akan kebagian proyek. Kejelasan itu baru akan terlihat lewat rincian skema pendanaan atau kontrak KKP dengan galangan kapal yang biasanya menyusul setelah pengumuman semacam ini, dan itu yang perlu dipantau untuk tahu apakah target 2026-2029 tersebut punya jalur pembiayaan yang konkret.",
+  "imageV": "mtkirn61"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.750 per Dolar AS Imbas Konflik AS-Iran",
+  "deck": "Rupiah ditutup melemah 0,31% ke Rp17.750 per dolar AS pada Rabu (2/9/2026), tertekan gejolak global akibat memanasnya konflik AS-Iran.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:18:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464399-rupiah-makin-tertekan-ditutup-rp17750-per-dolar-as-di-tengah-gejolak-global",
+  "tags": [
+   "rupiah",
+   "kurs rupiah",
+   "dolar AS",
+   "DXY"
+  ],
+  "body": [
+   "Nilai tukar rupiah kembali melemah terhadap dolar Amerika Serikat. Berdasarkan data Refinitiv, rupiah ditutup turun 0,31% ke level Rp17.750 per dolar AS pada perdagangan Rabu (2/9/2026), turun 40 poin dibandingkan penutupan sehari sebelumnya di Rp17.710. Pelemahan ini penting bagi pembaca karena terjadi di tengah gejolak pasar global yang lebih luas, bukan sekadar fluktuasi harian biasa.",
+   "Sepanjang perdagangan Rabu, rupiah bergerak konsisten di zona pelemahan, berada dalam rentang Rp17.755 hingga Rp17.780 per dolar AS. Indeks dolar AS atau DXY, yang mengukur kekuatan dolar terhadap enam mata uang utama dunia, ikut naik 0,08% ke level 99,759, melanjutkan penguatan 0,25% pada hari sebelumnya. Penguatan dolar ini terjadi karena investor global memburu aset yang dianggap paling aman di tengah ketegangan geopolitik.",
+   "Pemicu utamanya adalah eskalasi konflik AS-Iran. Amerika Serikat kembali melancarkan serangan udara ke sejumlah target di Iran pada Selasa waktu setempat, dan langkah ini membuat harga minyak dunia melonjak lebih dari 4%. Kenaikan harga minyak tersebut memunculkan kekhawatiran baru soal inflasi global, yang bisa memengaruhi kebijakan suku bunga bank sentral di berbagai negara.",
+   "Gejolak juga merembet ke pasar surat utang pemerintah. Imbal hasil obligasi pemerintah AS tenor 10 tahun menyentuh level tertinggi sejak Januari 2025, sementara imbal hasil obligasi Jepang dengan tenor yang sama mencapai 3%, level tertinggi dalam 30 tahun terakhir."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with containers at a busy Indonesian port, cranes in motion, workers in high-visibility vests, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/04/6a21ab1713e3e-mata-uang-rupiah-dan-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan rupiah kali ini murni dipicu faktor dari luar negeri, bukan masalah dalam negeri: konflik AS-Iran membuat investor global memburu dolar sebagai aset paling aman, dan kenaikan bunga surat utang pemerintah AS serta Jepang membuat dana asing lebih tertarik parkir di sana ketimbang di negara berkembang seperti Indonesia. Yang langsung kena dampak adalah importir dan perusahaan yang punya utang dalam dolar, karena biaya mereka membengkak setiap kali kurs melemah, dan ujungnya bisa terasa juga oleh konsumen lewat harga barang impor yang naik. Ada dua kemungkinan arah dari sini: kalau ketegangan AS-Iran terus berlanjut, rupiah kemungkinan masih tertekan mengikuti kenaikan harga minyak dan perburuan dolar, tapi kalau situasi mereda, tekanan ini bisa mengendur karena sifatnya sementara. Yang perlu dipantau dalam beberapa hari ke depan adalah pergerakan harga minyak dan indeks dolar AS, karena dua indikator itu yang akan menentukan apakah pelemahan rupiah berlanjut atau berbalik arah.",
+  "imageV": "mtkirnl6"
+ },
+ {
+  "slug": "kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026",
+  "category": "Industri",
+  "title": "Kawasan Garam Rote Ndao Digarap, Panen Perdana [November] 2026",
+  "deck": "Pemerintah mengembangkan Kawasan Sentra Industri Garam Nasional seluas 10.764 hektare di Rote Ndao, NTT, untuk mendukung swasembada garam dan pemerataan ekonomi daerah.",
+  "image": "assets/img/kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T14:44:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464384-proyek-industri-garam-raksasa-di-rote-ndao-pemerintah-bidik-produksi-5-juta-ton-di-2029",
+  "tags": [
+   "Rote Ndao",
+   "garam",
+   "KSIGN",
+   "NTT"
+  ],
+  "body": [
+   "Pemerintah menjadikan Rote Ndao, Nusa Tenggara Timur, sebagai salah satu andalan untuk mengejar swasembada garam nasional, yaitu target agar kebutuhan garam dalam negeri bisa dipenuhi sendiri tanpa impor. Proyek ini disebut Kawasan Sentra Industri Garam Nasional atau KSIGN, dengan total area yang ditetapkan mencapai 10.764 hektare. Selain untuk menambah produksi garam, proyek ini juga diarahkan sebagai instrumen pemerataan pembangunan di NTT lewat penciptaan lapangan kerja dan penggerak ekonomi lokal.",
+   "Kepala Badan Komunikasi Pemerintah RI Muhammad Qodari menyampaikan bahwa pengembangan KSIGN Rote Ndao merupakan bagian dari program prioritas nasional untuk memperluas pusat pertumbuhan ekonomi di NTT. Dalam konferensi pers di Kantor Bakom, Jakarta Pusat, Rabu (2/9/2026), ia menjelaskan bahwa dari target 2.000 hektare yang digarap Kementerian Kelautan dan Perikanan (KKP), pembangunan tahap pertama seluas 616 hektare di Kabupaten Rote Ndao sudah rampung. Tahap kedua seluas 751 hektare kini masih dalam proses pengerjaan.",
+   "Lahan tahap pertama yang sudah selesai dibangun saat ini memasuki masa uji coba produksi. Pemerintah menargetkan panen perdana dari lahan seluas 616 hektare tersebut bisa dilakukan pada November 2026.",
+   "Dari total kawasan seluas 10.764 hektare yang masuk program kerja prioritas nasional, pemerintah tidak mengambil alih seluruh lahan untuk dikelola sendiri. Sekitar 2.000 hektare yang digarap KKP akan dikembangkan lewat skema kerja sama pemanfaatan lahan milik masyarakat setempat."
+  ],
+  "fotoAdegan": "Workers raking mounds of freshly harvested sea salt across wide shallow coastal evaporation ponds under bright tropical morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a97d22f21c50-kepala-badan-komunikasi-bakom-pemerintah-ri-muhammad-qodari_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah progres fisik proyek, dari target 2.000 hektare yang digarap Kementerian Kelautan dan Perikanan, 616 hektare sudah rampung dan mulai uji coba produksi, sementara 751 hektare lagi masih dikerjakan. Yang terdampak langsung adalah warga Rote Ndao, karena sebagian lahan itu memakai skema kerja sama dengan tanah milik masyarakat, bukan pengambilalihan lahan oleh negara. Arahnya adalah pembangunan bertahap, bukan langsung menggarap seluruh 10.764 hektare yang ditetapkan sebagai kawasan prioritas, sebab baru sekitar seperlima dari luasan itu yang punya target dan jadwal jelas. Yang akan menentukan apakah proyek ini berlanjut ke skala lebih besar adalah hasil panen perdana yang dijadwalkan November 2026 dari lahan 616 hektare tahap pertama, karena itu jadi bukti pertama apakah target produksi bisa tercapai sebelum sisa lahan digarap.",
+  "imageV": "mtkiro2r"
  },
  {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",

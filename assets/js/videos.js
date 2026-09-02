@@ -2,6 +2,60 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "zlNoRcPSzO0",
+  "title": "Polemik Desil: Data, Kebijakan, dan Realita di Lapangan",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Forum diskusi membahas penggunaan data desil sebagai acuan penyaluran bantuan pemerintah, di tengah keluhan warga soal akurasi data di lapangan.",
+  "takeaway": "Relevan karena data desil menentukan sasaran subsidi dan bantuan sosial yang berdampak pada alokasi anggaran negara.",
+  "terbit": "2026-09-02T19:18:58+00:00"
+ },
+ {
+  "id": "9NYqbPoMvag",
+  "title": "Destry Damayanti Resmi Dilantik Jadi Gubernur BI",
+  "category": "Moneter",
+  "program": "Kabar Hari Ini",
+  "summary": "Destry Damayanti dilantik sebagai Gubernur Bank Indonesia periode 2026-2031 dalam upacara di Gedung Mahkamah Agung, Jakarta, dipimpin Ketua MA.",
+  "takeaway": "Pergantian pucuk pimpinan bank sentral berpengaruh langsung terhadap arah kebijakan moneter dan stabilitas rupiah.",
+  "terbit": "2026-09-02T17:00:25+00:00"
+ },
+ {
+  "id": "Guxj9iKyfrY",
+  "title": "Program SMK Go Global Buka Pendaftaran Batch Baru",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Pendaftaran Program SMK Go Global Batch I Gelombang III dibuka pada 1-11 September 2026 untuk menyiapkan lulusan SMK bekerja resmi di luar negeri.",
+  "takeaway": "Program ini mencerminkan upaya penyerapan tenaga kerja Indonesia di pasar kerja global.",
+  "terbit": "2026-09-02T16:55:33+00:00"
+ },
+ {
+  "id": "hWQi-yCY24k",
+  "title": "Kadin dan SBF Perkuat Kerja Sama Dagang Berbasis AI",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Federasi Bisnis Singapura dan Kadin Indonesia memperdalam kerja sama dagang berbasis kecerdasan buatan untuk membantu pelaku UMKM menangkap peluang pasar.",
+  "takeaway": "Kolaborasi ini berpotensi membuka akses pasar baru bagi pelaku UMKM Indonesia melalui teknologi digital.",
+  "terbit": "2026-09-02T16:43:00+00:00"
+ },
+ {
+  "id": "sy-twhywXj8",
+  "title": "Polemik Desil: Antara Data, Kebijakan, dan Realita",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi lanjutan soal data desil yang menjadi acuan penyaluran bantuan pemerintah, sementara masyarakat mengeluhkan ketidaksesuaian data dengan kondisi riil.",
+  "takeaway": "Isu ini penting untuk memahami efektivitas penargetan program bantuan sosial berbasis data.",
+  "terbit": "2026-09-02T15:43:38+00:00"
+ },
+ {
+  "id": "BgSIOz2ROMk",
+  "title": "Ekonom: Polemik Desil Harus Diredam, Bukan Dipicu",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
+  "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat.",
+  "terbit": "2026-09-02T15:24:44+00:00"
+ },
+ {
   "id": "sn-PhvAmsCI",
   "title": "Moskow Perkuat Kerja Sama Pariwisata dengan Indonesia",
   "category": "Bisnis",
@@ -54,59 +108,5 @@ var VIDEOS = [
   "summary": "Kadin Indonesia menggelar Go-See and Pitch Trip ke PT VKTR Sakti Industries di Magelang bersama Menteri Lingkungan Hidup Mohammad Jumhur Hidayat.",
   "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menggambarkan upaya dunia usaha mendekatkan diri dengan pelaku industri manufaktur dalam negeri.",
   "terbit": "2026-08-28T16:33:04+00:00"
- },
- {
-  "id": "yM3shtnuhPc",
-  "title": "BI Gelar Pameran UMKM Karya Kreatif Indonesia 2026",
-  "category": "UMKM",
-  "program": "Kabar Siang",
-  "summary": "Bank Indonesia menggelar pameran UMKM bertajuk Karya Kreatif Indonesia (KKI) 2026 yang membukukan total penjualan Rp177,21 miliar.",
-  "takeaway": "Angka penjualan ini menjadi indikator geliat UMKM binaan Bank Indonesia dalam mendorong perputaran ekonomi domestik.",
-  "terbit": "2026-08-28T06:25:31+00:00"
- },
- {
-  "id": "GkxhMXx3UTA",
-  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Kenaikan penjualan mobil disorot sebagai indikator pemulihan aktivitas ekonomi Indonesia di tengah dinamika daya beli masyarakat.",
-  "takeaway": "Data penjualan otomotif kerap dipakai sebagai proksi kesehatan ekonomi domestik, sehingga tren ini relevan bagi pembaca yang memantau arah pemulihan.",
-  "terbit": "2026-08-26T16:00:10+00:00"
- },
- {
-  "id": "bjOCQiKbqtk",
-  "title": "Kemenperin Jelaskan Wacana Mobil Nasional",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Kementerian Perindustrian memberi penjelasan soal wacana pengembangan mobil nasional di tengah sorotan terhadap kinerja industri otomotif dalam negeri.",
-  "takeaway": "Kebijakan mobil nasional menyangkut arah investasi dan daya saing industri manufaktur otomotif Indonesia.",
-  "terbit": "2026-08-26T15:50:09+00:00"
- },
- {
-  "id": "rNODfrvnFgg",
-  "title": "GAIKINDO dan Fitra Eri Soroti Pajak Mobil Baru",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Sekjen GAIKINDO bersama pengamat otomotif Fitra Eri membahas dampak kebijakan pajak kendaraan baru terhadap penjualan mobil di Indonesia.",
-  "takeaway": "Kebijakan pajak kendaraan bermotor berpengaruh langsung pada harga jual dan daya beli konsumen otomotif.",
-  "terbit": "2026-08-26T15:41:49+00:00"
- },
- {
-  "id": "NmEOqz-HfJY",
-  "title": "Mobil Listrik vs BBM, Ini Perbandingan Biayanya",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Suryo Pratomo membandingkan harga dan biaya operasional mobil listrik dengan mobil berbahan bakar minyak di tengah pergeseran pasar otomotif.",
-  "takeaway": "Perbandingan biaya ini membantu pembaca menilai arah transisi pasar kendaraan dan dampaknya bagi industri energi.",
-  "terbit": "2026-08-26T15:40:16+00:00"
- },
- {
-  "id": "R3OrofgvMEM",
-  "title": "Anomali Penjualan Mobil Naik di Tengah Daya Beli Lemah",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Fitra Eri mengulas fenomena penjualan mobil yang justru meningkat di tengah sinyal pelemahan daya beli masyarakat Indonesia.",
-  "takeaway": "Anomali ini penting dicermati karena bisa mengubah asumsi umum soal hubungan daya beli dan konsumsi barang tahan lama.",
-  "terbit": "2026-08-26T15:28:21+00:00"
  }
 ];

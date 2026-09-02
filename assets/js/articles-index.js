@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s",
+  "category": "Moneter",
+  "title": "Destry Damayanti [Resmi] Pimpin BI, Usung Prinsip 3I+S",
+  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur BI periode 2026-2031, bersama Aida S. Budiman dan Solikin M. Juhro. Ia perkenalkan prinsip 3I+S sebagai arah kebijakan bank sentral.",
+  "date": "2 September 2026",
+  "image": "assets/img/destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s.jpg",
+  "imageV": "mtkiriyf",
+  "tags": [
+   "Destry Damayanti",
+   "Bank Indonesia",
+   "Gubernur BI",
+   "3I+S"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464475-destry-damayanti-resmi-pimpin-bi-ungkap-jurus-3is-hadapi-tantangan-ekonomi-global"
+ },
+ {
+  "slug": "kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa",
+  "category": "Industri",
+  "title": "KEK Industropolis Batang Kembangkan [Wisata] di Tepi Laut Jawa",
+  "deck": "Amphitheater KEK Industropolis Batang berpemandangan Laut Jawa menarik lebih dari 10 ribu pengunjung dalam pergelaran tari gratis, menandai upaya kawasan industri merambah sektor pariwisata.",
+  "date": "2 September 2026",
+  "image": "assets/img/kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa.jpg",
+  "imageV": "mtkirjmm",
+  "tags": [
+   "KEK Industropolis Batang",
+   "Laut Jawa",
+   "kawasan industri",
+   "pariwisata"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464501-kek-industropolis-batang-padukan-kawasan-industri-dan-pesona-laut-jawa-jadi-potensi-wisata-10-ribu-orang-tumpah"
+ },
+ {
+  "slug": "dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga",
+  "category": "Makroekonomi",
+  "title": "DPR Desak BPS [Perbaiki] Data Desil Sesuai Kondisi Warga",
+  "deck": "Komisi X DPR memberi BPS tenggat dua minggu untuk memutakhirkan data desil yang salah, karena kekeliruan itu membuat sejumlah warga gagal menerima bansos dan beasiswa KIP Kuliah.",
+  "date": "2 September 2026",
+  "image": "assets/img/dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga.jpg",
+  "imageV": "mtkirkg8",
+  "tags": [
+   "desil",
+   "bps",
+   "bansos",
+   "kip kuliah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464464-banyak-warga-protes-tak-sesuai-desil-dpr-desak-bps-perbaiki-data-dan-beri-penjelasan-ke-publik"
+ },
+ {
   "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
   "category": "Aksi Korporasi",
   "title": "ERAA Rampungkan [Buyback] Rp99,86 Miliar, Treasuri 601,6 Juta Saham",
@@ -21,6 +72,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupslb-bei-ditunda-ojk-baru-bahas-4-september",
+  "category": "Pasar Modal",
+  "title": "RUPSLB BEI [Ditunda], OJK Baru Bahas 4 September",
+  "deck": "RUPSLB BEI yang sedianya digelar 15 September 2026 ditunda tanpa jadwal baru, menunggu terbitnya aturan OJK soal demutualisasi bursa.",
+  "date": "2 September 2026",
+  "image": "assets/img/rupslb-bei-ditunda-ojk-baru-bahas-4-september.jpg",
+  "imageV": "mtkirl3j",
+  "tags": [
+   "BEI",
+   "OJK",
+   "RUPSLB",
+   "demutualisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464452-rupslb-bei-mendadak-ditunda-ojk-baru-bahas-kendalanya-pada-4-september"
+ },
+ {
   "slug": "mglv-jadwalkan-rups-7-september-bahas-akuisisi-nextier",
   "category": "Aksi Korporasi",
   "title": "MGLV Jadwalkan RUPS 7 September, Bahas [Akuisisi] Nextier",
@@ -35,6 +103,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff2c0ac24_60a9c62c5c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027",
+  "category": "Makroekonomi",
+  "title": "BP Batam Siapkan Anggaran Rp2,4 Triliun Tanpa [APBN] 2027",
+  "deck": "BP Batam menyiapkan anggaran sekitar Rp2,4 triliun untuk pembangunan 2027 tanpa tambahan APBN, mengandalkan optimalisasi PNBP agar anggaran negara bisa dialihkan ke daerah lain.",
+  "date": "2 September 2026",
+  "image": "assets/img/bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027.jpg",
+  "imageV": "mtkirlow",
+  "tags": [
+   "BP Batam",
+   "APBN",
+   "PNBP",
+   "Anggaran 2027"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464439-tak-mau-bergantung-apbn-bp-batam-siapkan-anggaran-rp24-triliun-untuk-pembangunan-2027"
  },
  {
   "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
@@ -85,6 +170,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm",
+  "category": "UMKM",
+  "title": "RUU Kadin Dibahas DPR, Anindya Bakrie Dorong Penguatan [UMKM]",
+  "deck": "Kadin Indonesia mengusulkan penguatan UMKM dan koperasi daerah dalam pembahasan revisi UU Kadin 1987 bersama Komisi VI DPR.",
+  "date": "2 September 2026",
+  "image": "assets/img/ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm.jpg",
+  "imageV": "mtkirm82",
+  "tags": [
+   "RUU Kadin",
+   "UMKM",
+   "Kadin Indonesia",
+   "DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464427-ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm-di-daerah-agar-naik-kelas"
+ },
+ {
   "slug": "elsa-cetak-laba-bersih-rp435-miliar-di-semester-i-2026-naik-29-2",
   "category": "Aksi Korporasi",
   "title": "ELSA Cetak [Laba] Bersih Rp435 Miliar di Semester I 2026, Naik 29,2%",
@@ -131,6 +233,74 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4d14ec5d1_27e91adf70.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt",
+  "category": "Bisnis",
+  "title": "Freeport Salurkan Bantuan [Rp2,5 M] untuk Gempa NTT",
+  "deck": "PTFI menyerahkan bantuan kemanusiaan Rp2,5 miliar bagi korban gempa M7,7 di NTT, mencakup 700 paket kebutuhan dasar, lima hunian sementara, dan empat sekolah darurat.",
+  "date": "2 September 2026",
+  "image": "assets/img/freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt.jpg",
+  "imageV": "mtkirmos",
+  "tags": [
+   "Freeport",
+   "PTFI",
+   "Gempa NTT",
+   "Bantuan Kemanusiaan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464417-freeport-salurkan-bantuan-kemanusiaan-rp25-miliar-untuk-masyarakat-terdampak-gempa-ntt"
+ },
+ {
+  "slug": "ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern",
+  "category": "Industri",
+  "title": "RI Butuh Rp125,5 T Bangun 4.582 [Kapal] Ikan Modern",
+  "deck": "Pemerintah menyiapkan investasi Rp125,5 triliun untuk 4.582 kapal ikan modern hingga 2029, menargetkan penyerapan hingga 89.000 tenaga kerja.",
+  "date": "2 September 2026",
+  "image": "assets/img/ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern.jpg",
+  "imageV": "mtkirn61",
+  "tags": [
+   "kapal ikan",
+   "investasi",
+   "KKP",
+   "galangan kapal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464398-butuh-rp1255-triliun-pemerintah-mau-bangun-4582-kapal-ikan-modern-yang-bisa-serap-89000-tenaga-kerja"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.750 per Dolar AS Imbas Konflik AS-Iran",
+  "deck": "Rupiah ditutup melemah 0,31% ke Rp17.750 per dolar AS pada Rabu (2/9/2026), tertekan gejolak global akibat memanasnya konflik AS-Iran.",
+  "date": "2 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran.jpg",
+  "imageV": "mtkirnl6",
+  "tags": [
+   "rupiah",
+   "kurs rupiah",
+   "dolar AS",
+   "DXY"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464399-rupiah-makin-tertekan-ditutup-rp17750-per-dolar-as-di-tengah-gejolak-global"
+ },
+ {
+  "slug": "kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026",
+  "category": "Industri",
+  "title": "Kawasan Garam Rote Ndao Digarap, Panen Perdana [November] 2026",
+  "deck": "Pemerintah mengembangkan Kawasan Sentra Industri Garam Nasional seluas 10.764 hektare di Rote Ndao, NTT, untuk mendukung swasembada garam dan pemerataan ekonomi daerah.",
+  "date": "2 September 2026",
+  "image": "assets/img/kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026.jpg",
+  "imageV": "mtkiro2r",
+  "tags": [
+   "Rote Ndao",
+   "garam",
+   "KSIGN",
+   "NTT"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464384-proyek-industri-garam-raksasa-di-rote-ndao-pemerintah-bidik-produksi-5-juta-ton-di-2029"
  },
  {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
@@ -6365,174 +6535,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/175222eb51_b744acb7eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tugu-jadwalkan-rupslb-pada-29-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "TUGU Jadwalkan [RUPSLB] pada 29 September 2026",
-  "deck": "Asuransi Tugu Pratama Indonesia akan menggelar RUPSLB secara elektronik pada 29 September 2026, dengan pemegang saham per 4 September 2026 yang berhak hadir.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/tugu-jadwalkan-rupslb-pada-29-september-2026.jpg",
-  "tags": [
-   "TUGU",
-   "RUPSLB",
-   "Asuransi Tugu Pratama",
-   "rapat pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/357d8c6df1_70affc5afe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "temui-wang-yi-luhut-buka-kerja-sama-ke-industri-baru",
-  "category": "Global",
-  "title": "Temui Wang Yi, Luhut Buka Kerja Sama ke [Industri Baru]",
-  "deck": "Menlu China Wang Yi dan Ketua DEN Luhut Binsar Panjaitan membahas investasi perusahaan China di Indonesia, termasuk perluasan ke energi hijau, AI, ekonomi digital, dan bioteknologi.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/temui-wang-yi-luhut-buka-kerja-sama-ke-industri-baru.jpg",
-  "imageV": "mt5sb3qt",
-  "tags": [
-   "Wang Yi",
-   "Luhut Binsar Panjaitan",
-   "investasi China",
-   "Indonesia-China"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461869-bicarakan-investasi-menlu-china-wang-yi-bertemu-luhut"
- },
- {
-  "slug": "mice-buana-graha-utama-tambah-3-300-saham",
-  "category": "Aksi Korporasi",
-  "title": "MICE: Buana Graha Utama Tambah [3.300] Saham",
-  "deck": "Pemegang saham utama Multi Indocitra, Buana Graha Utama, membeli tambahan 3.300 saham MICE pada 19-20 Agustus 2026, menaikkan hak suaranya tipis dari 48,4217 persen menjadi 48,4222 persen.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/mice-buana-graha-utama-tambah-3-300-saham.jpg",
-  "tags": [
-   "MICE",
-   "Multi Indocitra",
-   "kepemilikan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23082026-8833-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-fasilitasi-pembiayaan-umkm-rp285-miliar-di-kki-2026",
-  "category": "UMKM",
-  "title": "BI Fasilitasi Pembiayaan UMKM [Rp285 Miliar] di KKI 2026",
-  "deck": "Delapan bank menandatangani kesepakatan pembiayaan dengan UMKM mitra, hasil fasilitasi business matching Bank Indonesia yang mencapai Rp285 miliar hingga Juli 2026.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/bi-fasilitasi-pembiayaan-umkm-rp285-miliar-di-kki-2026.jpg",
-  "imageV": "mt4n802i",
-  "tags": [
-   "UMKM",
-   "Bank Indonesia",
-   "KUR",
-   "Pembiayaan"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2816926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bi-dampingi-580-umkm-wastra-muda-lewat-kompetisi-citra-nusa",
-  "category": "UMKM",
-  "title": "BI Dampingi [580] UMKM Wastra Muda Lewat Kompetisi Citra Nusa",
-  "deck": "Bank Indonesia menggandeng 580 UMKM wastra, mayoritas wirausaha muda, lewat kompetisi Citra Nusa dan melatih 2.156 UMKM lain memasarkan produk demi regenerasi UMKM budaya.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/bi-dampingi-580-umkm-wastra-muda-lewat-kompetisi-citra-nusa.jpg",
-  "imageV": "mt4n83dv",
-  "tags": [
-   "UMKM",
-   "Ekonomi Kreatif",
-   "Bank Indonesia",
-   "Wastra"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "umkm-ubi-madu-bakar-karawang-diklaim-beromzet-rp300-juta",
-  "category": "UMKM",
-  "title": "UMKM Ubi Madu Bakar Karawang Diklaim [Beromzet] Rp300 Juta",
-  "deck": "UMKM Ubi Madu Bakar Mba Boled asal Karawang tumbuh dari satu toko jadi sekitar 20 outlet setelah menjadi UMKM binaan Pertamina sejak 2018, dengan omzet yang diklaim mencapai Rp300 juta per bulan.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/umkm-ubi-madu-bakar-karawang-diklaim-beromzet-rp300-juta.jpg",
-  "imageV": "mt4n83ws",
-  "tags": [
-   "umkm",
-   "ubi madu bakar",
-   "pertamina",
-   "karawang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461780-kisah-ubi-madu-bakar-asal-karawang-umkm-binaan-yang-diklaim-beromzet-hingga-rp300-juta"
- },
- {
-  "slug": "rumah-bumn-bri-dampingi-umkm-keripik-pisang-naik-kelas",
-  "category": "UMKM",
-  "title": "Rumah BUMN BRI Dampingi UMKM Keripik Pisang [Naik Kelas]",
-  "deck": "Program Rumah BUMN BRI mendampingi UMKM keripik pisang asal Sidoarjo mengembangkan usaha dari dapur rumah menjadi produk olahan bernilai tambah.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/rumah-bumn-bri-dampingi-umkm-keripik-pisang-naik-kelas.jpg",
-  "imageV": "mt4n84bi",
-  "tags": [
-   "BRI",
-   "UMKM",
-   "Rumah BUMN",
-   "ekonomi kerakyatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461778-sentuhan-rumah-bumn-bri-antar-keripik-pisang-lokal-tembus-malaysia-dan-hong-kong"
- },
- {
-  "slug": "pertamina-sumbang-meja-kursi-baru-ke-sdn-manggarai-barat",
-  "category": "BUMN",
-  "title": "Pertamina [Sumbang] Meja Kursi Baru ke SDN Manggarai Barat",
-  "deck": "PT Pertamina menyerahkan 39 meja dan 70 kursi lewat program TJSL untuk SDN Batu Cermin di Manggarai Barat, NTT, menggantikan perabot lama yang sudah rusak.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/pertamina-sumbang-meja-kursi-baru-ke-sdn-manggarai-barat.jpg",
-  "imageV": "mt4n84uz",
-  "tags": [
-   "Pertamina",
-   "TJSL",
-   "Manggarai Barat",
-   "NTT"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461757-dari-meja-dan-kursi-baru-tumbuh-semangat-belajar-siswa-sdn-batu-cermin"
- },
- {
-  "slug": "asbi-laporkan-dugaan-penggelapan-dana-ke-bareskrim-polri",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Laporkan Dugaan [Penggelapan] Dana ke Bareskrim Polri",
-  "deck": "Asuransi Bintang resmi melaporkan dugaan penggelapan uang dan investasi ke Bareskrim Polri dengan enam pihak terlapor, dan menyebut dampaknya berupa berkurangnya investasi SBN serta kas perusahaan.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/asbi-laporkan-dugaan-penggelapan-dana-ke-bareskrim-polri.jpg",
-  "tags": [
-   "ASBI",
-   "Asuransi Bintang",
-   "Bareskrim Polri",
-   "penggelapan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1a06aebc59_db2741480e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nasi-investor-tambah-500-000-saham-hak-suara-jadi-5-87",
-  "category": "Aksi Korporasi",
-  "title": "NASI: Investor tambah [500.000] saham, hak suara jadi 5,87%",
-  "deck": "Hartarto Ciputra melaporkan pembelian tidak langsung 500.000 saham NASI seharga Rp140 per lembar pada 21 Agustus 2026, hak suaranya naik dari 5,81% menjadi 5,87%.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/nasi-investor-tambah-500-000-saham-hak-suara-jadi-5-87.jpg",
-  "tags": [
-   "NASI",
-   "kepemilikan saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22082026-7519-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

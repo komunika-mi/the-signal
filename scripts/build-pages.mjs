@@ -1249,6 +1249,28 @@ for (const [kode, arts] of DAFTAR_EMITEN) {
       url: '/emiten/' + kode + '.html',
       image: BASE + '/assets/img/og-card.jpg',
       imgW: 1200, imgH: 630,
+      // HALAMAN SATU-LAPORAN TIDAK DIINDEKS, dan itu bukan menyembunyikan.
+      //
+      // Diukur 2 September 2026: 187 dari 317 halaman emiten (59%) cuma
+      // memuat SATU laporan, dan 83% memuat dua atau kurang. Isi unik halaman
+      // satu-laporan sekitar 60 kata, dan sebagian besarnya kutipan dari
+      // artikel yang ditautkannya sendiri - jadi bagi mesin pencari ia
+      // nyaris duplikat artikel itu, bukan halaman baru.
+      //
+      // 187 halaman tipis di sitemap berisi 1.441 URL bukan sekadar boros
+      // jatah rayapan. Bagi situs yang baru berumur sebulan, sekumpulan besar
+      // halaman nyaris-duplikat adalah sinyal mutu tingkat SITUS, dan itu
+      // menyeret halaman yang benar-benar layak ikut turun.
+      //
+      // Halamannya TETAP TAYANG, tetap bisa dibaca, tetap ditautkan dari
+      // artikel dan indeks emiten. follow (bukan nofollow) supaya tautan ke
+      // artikelnya tetap mengalir. Dan ambangnya menyembuhkan diri sendiri:
+      // begitu emiten itu punya laporan kedua, halamannya masuk indeks lagi
+      // pada build berikutnya tanpa ada yang perlu mengurusnya.
+      //
+      // Ambangnya sengaja 1, bukan 2. Halaman dua laporan sudah benar-benar
+      // mengumpulkan sesuatu yang tidak ada di tempat lain.
+      noindex: arts.length < 2,
       // Halaman emiten adalah bentuk paling mungkin dikutip mesin jawab dari
       // situs ini: pertanyaan seperti "aksi korporasi ADHI terbaru apa"
       // dijawab persis oleh satu halaman ini. CollectionPage memberi tahu
@@ -2159,8 +2181,15 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
     prio: prioArtikel(a),
   })))
   .concat(VIDEOS.map(v => ({ loc: videoUrl(v), lastmod: tglWIB(v.terbit) || undefined, prio: '0.4' })))
-  // Emiten HUB (>=3 laporan) 0.6; tipis (1-2) 0.3. Inti konsentrasinya.
-  .concat(DAFTAR_EMITEN.map(([k, arts]) =>
+  // Emiten HUB (>=3 laporan) 0.6; tipis (2) 0.3. Inti konsentrasinya.
+  //
+  // Yang cuma SATU laporan tidak masuk sitemap sama sekali, karena halamannya
+  // ber-noindex sejak 2 September 2026 (alasannya di pemanggilan head() untuk
+  // halaman emiten). Sitemap yang memuat URL ber-noindex bukan sekadar
+  // mubazir - Google melaporkannya sebagai pertentangan, dan itu menambah
+  // kebisingan pada laporan yang justru dipakai memantau kesehatan indeks.
+  // Saringan ini WAJIB memakai ambang yang sama persis dengan noindex-nya.
+  .concat(DAFTAR_EMITEN.filter(([, arts]) => arts.length >= 2).map(([k, arts]) =>
     ({ loc: '/emiten/' + k + '.html', lastmod: tglWIB(arts[0].isoDate),
        prio: arts.length >= 3 ? '0.6' : '0.3' })))
   .concat(KELOMPOK_TEMA.map(t =>

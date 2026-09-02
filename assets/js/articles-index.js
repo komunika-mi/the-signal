@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "palm-obligasi-rp50-miliar-jatuh-tempo-delisting-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "PALM: Obligasi Rp50 Miliar [Jatuh Tempo], Delisting dari BEI",
+  "deck": "Obligasi Berkelanjutan II Tahap V Seri A milik PT Provident Investasi Bersama Tbk senilai Rp50 miliar jatuh tempo dan didelisting dari Bursa Efek Indonesia mulai 3 September 2026.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PALM",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/56a56774eb_84d8874eff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buka-bantah-punya-info-material-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUKA Bantah Punya Info Material Soal [Volatilitas] Transaksi Saham",
+  "deck": "Bukalapak menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKA",
+   "Bukalapak",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ba2f951f8_b54bca53a0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s",
   "category": "Moneter",
   "title": "Destry Damayanti [Resmi] Pimpin BI, Usung Prinsip 3I+S",
@@ -39,6 +71,54 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464501-kek-industropolis-batang-padukan-kawasan-industri-dan-pesona-laut-jawa-jadi-potensi-wisata-10-ribu-orang-tumpah"
  },
  {
+  "slug": "arto-jawab-bei-sebut-jadwal-mesop-muncul-november",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Jawab BEI, Sebut Jadwal [MESOP] Muncul November",
+  "deck": "Bank Jago menjelaskan volatilitas transaksi sahamnya ke BEI dan menyebut jadwal pelaksanaan dua program opsi saham karyawan akan diumumkan November-Desember 2026.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "MESOP",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d7913e65f_ac12fbae72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-catat-laba-bersih-rp10-6-triliun-di-semester-i-2026-naik-1-4",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Catat Laba Bersih Rp10,6 Triliun di Semester I 2026, [Naik] 1,4%",
+  "deck": "Materi Public Expose Tahunan Telkom memuat kinerja keuangan 1H26, ekspansi spektrum ke 265 MHz, dan progres monetisasi aset InfraNexia senilai Rp35,8 triliun.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "kinerja keuangan",
+   "InfraNexia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fff6e0435_cb545ee9bf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-menang-pengadilan-tolak-pkpu-dari-burda-contraco",
+  "category": "Aksi Korporasi",
+  "title": "ADCP [menang]: pengadilan tolak PKPU dari Burda Contraco",
+  "deck": "Pengadilan Niaga Jakarta Pusat menolak permohonan PKPU terhadap ADCP yang diajukan kontraktor PT Burda Contraco terkait utang proyek Adhi City Sentul.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "PKPU",
+   "Adhi City Sentul",
+   "pengadilan niaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/85fd1c7c6c_4d55de3548.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga",
   "category": "Makroekonomi",
   "title": "DPR Desak BPS [Perbaiki] Data Desil Sesuai Kondisi Warga",
@@ -54,6 +134,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464464-banyak-warga-protes-tak-sesuai-desil-dpr-desak-bps-perbaiki-data-dan-beri-penjelasan-ke-publik"
+ },
+ {
+  "slug": "untr-balik-jadi-utang-bersih-rp9-4-triliun-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Balik Jadi Utang Bersih Rp9,4 Triliun di [Public Expose]",
+  "deck": "Materi Public Expose UNTR menunjukkan laba bersih semester I 2026 anjlok 88% jadi Rp956 miliar, sementara posisi keuangan berbalik dari kas bersih menjadi utang bersih Rp9,4 triliun.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "United Tractors",
+   "Public Expose",
+   "utang bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66228b7e74_2ae6bdd349.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sger-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "SGER Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "SGER menjawab surat Bursa Efek Indonesia soal lonjakan volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material maupun rencana korporasi yang mendasarinya.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SGER",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2599619_2f3b743392.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
@@ -232,6 +344,22 @@ var ARTICLES = [
    "hilirisasi batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4d14ec5d1_27e91adf70.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PGJO dan MDIA [Keluar] dari Pemantauan Khusus BEI",
+  "deck": "Bursa mencabut status pemantauan khusus dua emiten, PGJO dan MDIA, efektif 3 September 2026, seiring perubahan papan pencatatan keduanya.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "MDIA",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/246d167468_ba5e6d70e7.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6399,142 +6527,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817226.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026",
-  "category": "Bisnis",
-  "title": "IAPI Soroti Etika Auditor di Era [AI] Lewat CPA Days 2026",
-  "deck": "IAPI dan BINUS University menggelar seminar CPA Days 2026, menyoroti tantangan etika dan professional judgment akuntan publik saat AI masuk ke praktik audit.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/iapi-soroti-etika-auditor-di-era-ai-lewat-cpa-days-2026.jpg",
-  "imageV": "mt6fvy5v",
-  "tags": [
-   "audit",
-   "AI",
-   "IAPI",
-   "akuntan publik"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462024-praktik-audit-dan-assurance-masuk-era-ai-iapi-dan-binus-university-sorot-persoalan-etika-dan-professional-judgment"
- },
- {
-  "slug": "ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026",
-  "category": "Global",
-  "title": "RI-Uni Eropa Matangkan CEPA, [Teken] Ditarget Oktober 2026",
-  "deck": "Indonesia dan Uni Eropa mematangkan persiapan implementasi CEPA yang membebaskan 98 persen pos tarif kedua pihak, dengan penandatanganan ditargetkan Oktober 2026.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/ri-uni-eropa-matangkan-cepa-teken-ditarget-oktober-2026.jpg",
-  "imageV": "mt5yrnsx",
-  "tags": [
-   "I-EU CEPA",
-   "Uni Eropa",
-   "Perdagangan Internasional",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/optimalkan-akses-pasar-ke-eropa-mendag-busan-turut-siapkan-implementasi-i-eu-cepa",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah",
-  "category": "UMKM",
-  "title": "DKI [Wajibkan] Pilah Sampah 4 Kategori, BI Dorong UMKM Olah Limbah",
-  "deck": "SIPSN mencatat 65 persen dari 24,8 juta ton sampah tahunan RI belum terkelola layak. DKI Jakarta kini mewajibkan pemilahan sampah 4 kategori, sementara BI dorong UMKM masuk rantai ekonomi sirkular.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/dki-wajibkan-pilah-sampah-4-kategori-bi-dorong-umkm-olah-limbah.jpg",
-  "imageV": "mt5yrqxf",
-  "tags": [
-   "ekonomi sirkular",
-   "UMKM",
-   "pengelolaan sampah",
-   "DKI Jakarta"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali",
-  "category": "Energi",
-  "title": "DPR Dorong RUU Migas [Pangkas] Birokrasi agar Investor Kembali",
-  "deck": "DPR mendorong RUU Migas memangkas birokrasi perizinan agar investor kembali masuk dan mendongkrak lifting minyak nasional.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/dpr-dorong-ruu-migas-pangkas-birokrasi-agar-investor-kembali.jpg",
-  "imageV": "mt5v2yts",
-  "tags": [
-   "RUU Migas",
-   "Lifting Minyak",
-   "Investasi Migas",
-   "DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461998-dorong-ruu-migas-agar-investor-kembali-dongkrak-lifting-minyak-dpr-soroti-birokrasi-yang-berbelit"
- },
- {
-  "slug": "pnm-satukan-58-cabang-lewat-grand-final-porseni-2026",
-  "category": "BUMN",
-  "title": "PNM Satukan 58 Cabang lewat Grand Final [PORSENI] 2026",
-  "deck": "PNM menggelar Grand Final PORSENI 2026 di BRILiaN Stadium, mempertemukan insan dari 58 cabang, kantor pusat, dan anak usaha se-Indonesia dalam ajang olahraga dan seni tahunan.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/pnm-satukan-58-cabang-lewat-grand-final-porseni-2026.jpg",
-  "imageV": "mt6fvyls",
-  "tags": [
-   "PNM",
-   "PORSENI 2026",
-   "BUMN",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461925-pnm-asah-daya-juang-karyawan-melalui-grand-final-porseni-2026"
- },
- {
-  "slug": "umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan",
-  "category": "UMKM",
-  "title": "UMKM Perempuan Capai 64,5 Persen, BI Soroti Akses [Keuangan]",
-  "deck": "Data BPS 2025 menunjukkan 64,5 persen UMKM Indonesia dipimpin perempuan, namun akses ke layanan keuangan formal masih jadi pekerjaan rumah dalam ajang KKI 2026.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/umkm-perempuan-capai-64-5-persen-bi-soroti-akses-keuangan.jpg",
-  "imageV": "mt5sb2s6",
-  "tags": [
-   "UMKM",
-   "Perempuan",
-   "Bank Indonesia",
-   "KKI 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461922-645-persen-umkm-dipimpin-perempuan-kki-2026-soroti-kekuatan-ekonomi-kaum-hawa"
- },
- {
-  "slug": "bri-raih-anugerah-esg-2026-berkat-obligasi-sosial",
-  "category": "Perbankan",
-  "title": "BRI Raih Anugerah ESG 2026 Berkat [Obligasi Sosial]",
-  "deck": "BRI meraih Anugerah Utama IDX Channel Anugerah ESG 2026 atas penerbitan obligasi sosial yang mendanai KUR Mikro bagi puluhan ribu nasabah baru.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/bri-raih-anugerah-esg-2026-berkat-obligasi-sosial.jpg",
-  "imageV": "mt5sb3aw",
-  "tags": [
-   "BRI",
-   "obligasi sosial",
-   "ESG",
-   "KUR Mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461878-dorong-pembiayaan-inklusif-obligasi-sosial-berkelanjutan-bri-raih-idx-channel-anugerah-esg-2026"
- },
- {
-  "slug": "tugu-rp72-6-miliar-dana-ipo-tersisa-ditaruh-deposito-bri",
-  "category": "Aksi Korporasi",
-  "title": "TUGU: [Rp72,6 Miliar] Dana IPO Tersisa, Ditaruh Deposito BRI",
-  "deck": "TUGU melaporkan realisasi penggunaan dana IPO 2018 per akhir Juni 2026: 88,98 persen dana sudah terpakai, sisa Rp72,61 miliar disimpan sebagai deposito berbunga di bank afiliasi.",
-  "date": "23 Agustus 2026",
-  "image": "assets/img/tugu-rp72-6-miliar-dana-ipo-tersisa-ditaruh-deposito-bri.jpg",
-  "tags": [
-   "TUGU",
-   "IPO",
-   "penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/175222eb51_b744acb7eb.pdf",
-  "sourceLabel": "IDX"
  }
 ];

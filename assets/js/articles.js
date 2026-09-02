@@ -3,6 +3,57 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "palm-obligasi-rp50-miliar-jatuh-tempo-delisting-dari-bei",
+  "category": "Aksi Korporasi",
+  "title": "PALM: Obligasi Rp50 Miliar [Jatuh Tempo], Delisting dari BEI",
+  "deck": "Obligasi Berkelanjutan II Tahap V Seri A milik PT Provident Investasi Bersama Tbk senilai Rp50 miliar jatuh tempo dan didelisting dari Bursa Efek Indonesia mulai 3 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T22:22:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/56a56774eb_84d8874eff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PALM",
+  "tags": [
+   "PALM",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa Obligasi Berkelanjutan II Provident Investasi Bersama Tahap V Tahun 2025 Seri A dengan kode PALM02ACN5 tidak lagi tercatat dan tidak dapat diperdagangkan di bursa mulai 3 September 2026 karena telah jatuh tempo. Obligasi milik PT Provident Investasi Bersama Tbk (PALM) ini bernilai pokok Rp50 miliar, diterbitkan 26 Agustus 2025 dengan bunga tetap 7,50 persen per tahun untuk jangka waktu 367 hari kalender. Pelunasan pokok dilakukan penuh sekaligus (bullet payment) bersamaan dengan pembayaran bunga triwulan terakhir pada tanggal jatuh tempo, disalurkan melalui PT Kustodian Sentral Efek Indonesia selaku agen pembayaran kepada pemegang obligasi.",
+   "Seri A ini merupakan satu dari dua seri Obligasi Berkelanjutan II Tahap V senilai total Rp420 miliar, bagian dari program Obligasi Berkelanjutan II dengan target dana Rp5 triliun, yang hingga tahap ini sudah menerbitkan Rp2,545 triliun. Seri B dari tahap yang sama senilai Rp370 miliar, dengan bunga 9,00 persen per tahun, baru jatuh tempo 26 Agustus 2028. Dana yang terkumpul dari penerbitan Tahap V ini sebelumnya digunakan untuk mendanai sebagian pelunasan pokok Obligasi Berkelanjutan II Tahap III Seri A senilai Rp512,3 miliar berbunga 8,00 persen yang jatuh tempo 25 September 2025. Obligasi ini juga tercatat memperoleh peringkat idA (single A) dari Pefindo untuk periode 4 Agustus 2025 hingga 1 Agustus 2026."
+  ],
+  "fotoAdegan": "Wide street-level view of glass office towers in Jakarta's Rasuna Epicentrum business district at dusk, lit windows, light traffic below",
+  "takeaway": "Ini pelunasan obligasi yang berjalan sesuai jadwal sejak awal penerbitan, jadi condong netral bagi emiten, bukan sinyal gagal bayar atau kejutan bagi pasar. Yang tersentuh adalah arus kas Provident Investasi Bersama, karena perusahaan wajib menyiapkan dana Rp50 miliar plus bunga kuartal terakhir untuk pelunasan pokok pada 3 September 2026, dan rekam jejaknya menunjukkan perusahaan cenderung membiayai pelunasan obligasi lama dengan menerbitkan seri obligasi baru, seperti saat dana Tahap V ini dipakai untuk membayar sebagian dari Rp512,3 miliar obligasi Tahap III yang jatuh tempo September 2025. Pola menerbitkan utang baru untuk melunasi utang lama ini lazim dilakukan emiten, tapi berarti perusahaan tetap bergantung pada akses pasar obligasi untuk menjaga arus kasnya tetap sehat. Yang perlu dipantau berikutnya adalah nasib Seri B senilai Rp370 miliar yang baru jatuh tempo 26 Agustus 2028, serta apakah Pefindo memperbarui peringkat idA yang masa berlakunya berakhir 1 Agustus 2026, karena peringkat itu jadi salah satu acuan kepercayaan pasar terhadap kemampuan bayar Provident Investasi Bersama ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "buka-bantah-punya-info-material-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "BUKA Bantah Punya Info Material Soal [Volatilitas] Transaksi Saham",
+  "deck": "Bukalapak menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T22:13:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ba2f951f8_b54bca53a0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUKA",
+  "tags": [
+   "BUKA",
+   "Bukalapak",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bukalapak.com Tbk (BUKA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11196/BEI.PP2/09-2026 tertanggal 2 September 2026 terkait volatilitas transaksi efek perseroan. Tanggapan dikirim lewat surat nomor 1054/BL/CORSEC/SURAT/IX/2026 yang ditandatangani Corporate Secretary BUKA, Victor Putra Lesmana, pada 2 September 2026 pukul 22.13 WIB.",
+   "Dalam tanggapannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan ketentuan III.2.1 Peraturan I-E BEI. BUKA juga menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berpotensi memengaruhi status pencatatan sahamnya di bursa, serta tidak memiliki informasi penting lain yang material dan belum diungkapkan ke publik hingga tanggal tanggapan ini disampaikan.",
+   "Soal aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024, BUKA hanya merujuk pada laporan kepemilikan yang sudah disampaikan sesuai ketentuan berlaku, tanpa merinci aktivitas spesifik. BEI secara khusus juga meminta perseroan mengonfirmasi kepada pemegang saham mayoritas soal kemungkinan adanya transaksi tertentu yang akan dilakukan. Menanggapi permintaan itu, BUKA menyampaikan bahwa pemegang saham utamanya telah mengonfirmasi akan senantiasa mematuhi peraturan perundang-undangan, termasuk memenuhi kewajiban keterbukaan informasi secara tepat waktu."
+  ],
+  "fotoAdegan": "Warehouse workers sorting cardboard parcels on a conveyor belt inside a busy e-commerce fulfillment center, morning light",
+  "takeaway": "Tanggapan ini netral bagi fundamental BUKA karena isinya hanya bantahan standar, tanpa angka transaksi atau rencana korporasi baru yang bisa mengubah penilaian pasar terhadap perusahaan. Surat permintaan penjelasan seperti ini biasanya dikirim bursa ketika harga atau volume perdagangan suatu saham bergerak tidak wajar dalam periode tertentu, sehingga otoritas ingin memastikan tidak ada informasi tersembunyi yang mendorong pergerakan itu. Yang menarik, bursa secara khusus meminta BUKA mengonfirmasi kepada pemegang saham mayoritasnya soal kemungkinan transaksi tertentu, yang mengindikasikan ada spekulasi pasar seputar langkah pemegang saham utama yang belum terkonfirmasi. Yang perlu dipantau selanjutnya adalah apakah pemegang saham mayoritas BUKA benar benar mengumumkan transaksi resmi sesuai kewajiban keterbukaan informasi, serta apakah pola perdagangan sahamnya kembali normal dalam hari hari mendatang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s",
   "category": "Moneter",
   "title": "Destry Damayanti [Resmi] Pimpin BI, Usung Prinsip 3I+S",
@@ -56,6 +107,85 @@ var ARTICLES = [
   "imageV": "mtkirjmm"
  },
  {
+  "slug": "arto-jawab-bei-sebut-jadwal-mesop-muncul-november",
+  "category": "Aksi Korporasi",
+  "title": "ARTO Jawab BEI, Sebut Jadwal [MESOP] Muncul November",
+  "deck": "Bank Jago menjelaskan volatilitas transaksi sahamnya ke BEI dan menyebut jadwal pelaksanaan dua program opsi saham karyawan akan diumumkan November-Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T21:19:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d7913e65f_ac12fbae72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "MESOP",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Bank Jago Tbk (ARTO) mengirim surat penjelasan kepada Bursa Efek Indonesia menanggapi permintaan penjelasan atas volatilitas transaksi efeknya, melalui surat BEI bernomor S-11203/BEI.PP3/09-2026 tanggal 1 September 2026. Dalam surat balasan bernomor S.543/JAGO-COMP/IX/2026 tertanggal 2 September 2026, Corporate Secretary sekaligus Direktur Kepatuhan Tjit Siat Fun menyatakan perusahaan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi harga saham maupun keputusan investasi pemodal, sesuai ketentuan keterbukaan informasi dalam POJK Nomor 31/2015 dan Peraturan Bursa Nomor I-E.",
+   "Bank Jago juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham. Berdasarkan konfirmasi dari pemegang saham pengendali perseroan, tidak ada rencana transaksi atau penyesuaian kepemilikan saham. Pemegang saham utama perseroan, saat dikonfirmasi oleh Corporate Secretary, juga menyatakan tidak memiliki rencana perubahan kepemilikan saham di ARTO.",
+   "Perseroan menyatakan tidak berencana melakukan tindakan korporasi yang berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan ke depan. Namun, dokumen ini menyebutkan bahwa pada November dan Desember 2026, Bank Jago akan mengumumkan jadwal pelaksanaan dua program opsi saham karyawan, yaitu Program MESOP 2023-2028 dan Program MESOP 2025-2030, yang menurut perseroan berpotensi memberikan dampak terhadap pencatatan saham perseroan di bursa."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's Kuningan business district, taxis passing by in early evening light",
+  "takeaway": "Laporan ini netral bagi ARTO. BEI meminta penjelasan karena transaksi sahamnya bergerak tidak biasa, tetapi jawaban resmi Bank Jago dan konfirmasi dari pemegang saham pengendali maupun pemegang saham utama sama-sama menyatakan tidak ada informasi material baru atau rencana perubahan kepemilikan saham, sehingga tidak ada alasan fundamental baru untuk membaca volatilitas itu sebagai sinyal. Yang perlu dicermati adalah singgungan soal MESOP, program pemberian opsi saham kepada karyawan dan direksi. Kalau opsi itu nanti dieksekusi, jumlah saham beredar perusahaan bertambah, sehingga laba yang dihasilkan perusahaan harus dibagi ke lebih banyak lembar saham dan laba per saham bisa terdilusi, meski dokumen ini belum menyebut berapa banyak saham baru yang akan diterbitkan. Yang perlu dipantau selanjutnya adalah pengumuman jadwal pelaksanaan Program MESOP 2023-2028 dan Program MESOP 2025-2030 yang menurut perseroan akan disampaikan pada November dan Desember 2026, karena di situ baru akan terlihat besaran dampaknya terhadap jumlah saham beredar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tlkm-catat-laba-bersih-rp10-6-triliun-di-semester-i-2026-naik-1-4",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Catat Laba Bersih Rp10,6 Triliun di Semester I 2026, [Naik] 1,4%",
+  "deck": "Materi Public Expose Tahunan Telkom memuat kinerja keuangan 1H26, ekspansi spektrum ke 265 MHz, dan progres monetisasi aset InfraNexia senilai Rp35,8 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T20:32:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fff6e0435_cb545ee9bf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "kinerja keuangan",
+   "InfraNexia"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, menjelang sesi Public Expose Live yang dijadwalkan 7 September 2026. Materi tersebut memuat kinerja keuangan semester I 2026: pendapatan konsolidasian Rp75,9 triliun, naik 3,9 persen dibanding periode sama tahun lalu. EBITDA tercatat Rp37,5 triliun, naik 3,8 persen, dengan margin EBITDA membaik 90 basis poin menjadi 49,4 persen. Laba bersih yang diatribusikan ke pemilik entitas induk mencapai Rp10,6 triliun, naik 1,4 persen, sementara laba bersih yang dinormalisasi, yakni setelah mengeluarkan dampak kerugian investasi di GOTO dan sejumlah pos non-tunai lain, tumbuh lebih tinggi yaitu 6,2 persen menjadi Rp11,3 triliun. Anak usaha Telkomsel, sebelum eliminasi transaksi antar-segmen, membukukan pendapatan Rp55,6 triliun (naik 3,3 persen), EBITDA Rp26,1 triliun (naik 8,6 persen) dengan margin 46,9 persen, dan laba bersih Rp10,4 triliun (naik 8,3 persen).",
+   "Berdasarkan pelaporan berbasis segmen yang baru diterapkan perusahaan, pendapatan eksternal per lini bisnis pada semester I 2026 tercatat: B2C Rp54,7 triliun (naik 4,8 persen), B2B Infrastructure Rp4,7 triliun (naik 4,9 persen), B2B ICT Rp7,3 triliun (turun 1,3 persen), International Rp5,7 triliun (turun 1,5 persen), dan Others/Ancillary Businesses Rp3,5 triliun (naik 10,4 persen). Jika dihitung dari total pendapatan kotor sebelum eliminasi transaksi antar-segmen, B2B Infrastructure justru melonjak 19 persen menjadi Rp33,1 triliun, pertumbuhan tercepat di antara semua segmen karena banyaknya transaksi antar-unit dalam Grup Telkom, sementara B2B ICT turun 5,4 persen menjadi Rp8,8 triliun.",
+   "Di sisi jaringan, Telkomsel menambah 100 MHz spektrum baru dari lelang terbaru, sehingga total spektrum yang dikuasai naik dari 165 MHz menjadi 265 MHz, tersebar di pita 700MHz, 900MHz, 1800MHz, 2100MHz, 2300MHz, dan 2600MHz, dengan total biaya spektrum tahunan sekitar Rp1 triliun. Pada lini monetisasi infrastruktur, proyek InfraNexia tahap pertama, yaitu pemindahan lebih dari separuh aset dan bisnis fiber terpilih ke entitas baru, telah rampung pada Desember 2025 dengan nilai transaksi Rp35,8 triliun. Tahap kedua yang mencakup pemindahan sisa aset dan kontrak masih berlangsung dan ditargetkan selesai pada semester II 2026, termasuk peluang ekspansi ke Singapura. Di bisnis pusat data, kapasitas efektif Telkom mencapai 49,9 MW ditambah 3.060 rak neuCentrIX per semester I 2026, dengan pendapatan segmen data center Rp867 miliar, naik 11 persen dibanding tahun lalu.",
+   "Untuk keseluruhan tahun 2026, manajemen menargetkan pertumbuhan pendapatan normalized 1 hingga 3 persen, margin EBITDA normalized di atas 50 persen, dan rasio belanja modal terhadap pendapatan sekitar 17 hingga 19 persen. Realisasi semester I 2026 menunjukkan pertumbuhan pendapatan 3,9 persen dan margin EBITDA 49,4 persen, keduanya sudah mendekati atau melampaui target tahunan, sementara rasio belanja modal baru 14,2 persen, masih di bawah kisaran target. Laba bersih yang belum disesuaikan tertahan oleh kerugian belum terealisasi dari investasi di saham GOTO, yang harganya turun dari Rp58 per lembar pada akhir semester I 2025 menjadi Rp50 per lembar pada akhir semester I 2026."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting a telecommunications tower and fiber optic cables at a network site in Indonesia, late afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi Telkom. Pendapatan konsolidasian, EBITDA, dan laba bersih yang dinormalisasi sama-sama tumbuh pada semester pertama 2026, dan margin EBITDA membaik ke 49,4 persen, hampir menyentuh target tahunan perusahaan di atas 50 persen. Laba bersih murni cuma naik tipis 1,4 persen karena ada kerugian belum terealisasi dari investasi di GOTO, akibat harga sahamnya turun dari Rp58 ke Rp50 per lembar dalam setahun, sehingga nilai investasi itu tercatat lebih rendah di pembukuan meski bukan kerugian tunai. Rasio belanja modal terhadap pendapatan baru 14,2 persen, di bawah target tahunan 17-19 persen, artinya perusahaan masih punya ruang menambah investasi jaringan dan pusat data pada paruh kedua tahun tanpa melebihi anggaran. Yang perlu dipantau berikutnya adalah penyelesaian tahap kedua pengalihan aset InfraNexia yang ditargetkan rampung pada semester II 2026, serta materi lengkap yang akan dipaparkan dalam sesi Public Expose Live pada 7 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "adcp-menang-pengadilan-tolak-pkpu-dari-burda-contraco",
+  "category": "Aksi Korporasi",
+  "title": "ADCP [menang]: pengadilan tolak PKPU dari Burda Contraco",
+  "deck": "Pengadilan Niaga Jakarta Pusat menolak permohonan PKPU terhadap ADCP yang diajukan kontraktor PT Burda Contraco terkait utang proyek Adhi City Sentul.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T19:58:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/85fd1c7c6c_4d55de3548.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "PKPU",
+   "Adhi City Sentul",
+   "pengadilan niaga"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) melaporkan hasil permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan PT Burda Contraco, kontraktor yang mengerjakan Pekerjaan Jembatan Akses Tahap 2 dan Jasa Pelaksana Rumah di proyek Adhi City Sentul. Permohonan itu terdaftar dengan Register Perkara Nomor 237/Pdt.Sus-PKPU/2026/PN.Niaga.Jak.Pst di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat, setelah relaas panggilan sidang diterima ADCP pada 6 Agustus 2026. Burda Contraco mendalilkan ADCP masih memiliki utang atau kewajiban yang belum diselesaikan atas dua pekerjaan tersebut.",
+   "Berdasarkan putusan yang dipublikasikan melalui Sistem Informasi Penelusuran Perkara (SIPP) pada 28 Agustus 2026, Majelis Hakim menolak permohonan PKPU dari Burda Contraco dan menghukum pemohon membayar biaya perkara sebesar Rp2.312.000. Sampai laporan ini disampaikan, ADCP mengaku belum menerima salinan resmi putusan dari Pengadilan Niaga, sehingga informasi yang dilaporkan masih bersumber dari akses ADCP ke platform e-Court dan SIPP.",
+   "ADCP menyatakan penolakan PKPU ini tidak berdampak signifikan terhadap kinerja keuangan maupun kegiatan operasional perusahaan, dan tidak menimbulkan kondisi gagal bayar (default) atas perjanjian pembiayaan seperti Obligasi II dan Obligasi III maupun Sukuk Ijarah. Laporan ditembuskan kepada Dewan Komisaris ADCP, Bursa Efek Indonesia, PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk selaku wali amanat obligasi, serta PT Bank Syariah Indonesia Tbk selaku agen pemantau dan agen jaminan sukuk."
+  ],
+  "fotoAdegan": "Access bridge under construction beside a housing development site, workers in hard hats and steel scaffolding, overcast afternoon light",
+  "takeaway": "Laporan ini condong positif bagi ADCP karena Pengadilan Niaga menolak permohonan PKPU yang diajukan PT Burda Contraco, sehingga perusahaan terhindar dari proses penundaan pembayaran utang yang berisiko berujung pailit jika gagal mencapai kesepakatan damai dengan kreditur. PKPU sendiri adalah jalur hukum yang bisa dipakai kreditur untuk memaksa debitur merundingkan ulang utangnya di bawah pengawasan pengadilan, dan kalau dikabulkan bisa memicu klausul gagal bayar pada surat utang yang diterbitkan perusahaan, karena itu penolakan ini turut menjaga status pembayaran Obligasi II, Obligasi III, dan Sukuk Ijarah ADCP tetap normal. Yang perlu dipantau berikutnya adalah salinan resmi putusan dari Pengadilan Niaga yang belum diterima ADCP, serta kemungkinan PT Burda Contraco menempuh jalur hukum lain seperti gugatan wanprestasi biasa untuk menagih utang proyek Jembatan Akses Tahap 2 dan Rumah Adhi City Sentul yang menjadi dasar sengketa ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga",
   "category": "Makroekonomi",
   "title": "DPR Desak BPS [Perbaiki] Data Desil Sesuai Kondisi Warga",
@@ -80,6 +210,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan metode penghitungan desil, melainkan proses koreksinya: DPR memberi BPS tenggat dua minggu untuk memutakhirkan data dan mewajibkan pembukaan jalur sanggah desil bagi warga yang keberatan. Yang langsung terdampak adalah rumah tangga penerima bantuan sosial yang selama ini tidak menerima bantuan karena desilnya tercatat keliru, serta calon penerima beasiswa KIP Kuliah yang kelayakannya juga ditentukan dari desil yang sama. Pola ini mengarah ke perbaikan administratif jangka pendek, bukan perombakan cara BPS menyusun desil, sebab DPR hanya meminta pemutakhiran data dan transparansi kriteria, bukan mengubah metodologinya. Yang akan menentukan apakah perbaikan ini benar terealisasi atau cuma janji rapat adalah kepatuhan pada tenggat dua minggu itu, yakni sekitar pertengahan September 2026, dan apakah warga yang mengajukan sanggah desil benar melihat perubahan pada status mereka.",
   "imageV": "mtkirkg8"
+ },
+ {
+  "slug": "untr-balik-jadi-utang-bersih-rp9-4-triliun-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "UNTR Balik Jadi Utang Bersih Rp9,4 Triliun di [Public Expose]",
+  "deck": "Materi Public Expose UNTR menunjukkan laba bersih semester I 2026 anjlok 88% jadi Rp956 miliar, sementara posisi keuangan berbalik dari kas bersih menjadi utang bersih Rp9,4 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T18:57:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66228b7e74_2ae6bdd349.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "United Tractors",
+   "Public Expose",
+   "utang bersih"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, menyusul rencana penyelenggaraan public expose yang sudah diumumkan lewat surat tertanggal 21 Agustus 2026. Sesuai jadwal pada materi tersebut, acara public expose akan berlangsung 7 September 2026. Materi ini memuat kondisi bisnis dan kinerja keuangan Perseroan hingga semester pertama 2026, termasuk komposisi pemegang saham: Astra International menguasai 59,5%, saham tresuri 6,9%, dan sisanya 33,6% dimiliki publik, dengan kapitalisasi pasar Rp89 triliun per akhir Juli 2026.",
+   "Pendapatan bersih UNTR pada semester pertama 2026 turun 15% menjadi Rp58,29 triliun dibandingkan Rp68,53 triliun pada periode sama tahun lalu. Penurunan terbesar terjadi di segmen pertambangan emas dan mineral lainnya yang anjlok 66% menjadi Rp2,36 triliun, disusul segmen alat berat yang turun 28% menjadi Rp14,97 triliun. Sebaliknya, segmen kontraktor penambangan justru tumbuh 4% menjadi Rp27,16 triliun. Setelah memperhitungkan kerugian dari pos non-recurring senilai Rp3,3 triliun, laba bersih Perseroan anjlok 88% menjadi Rp956 miliar dari Rp8,13 triliun, sehingga laba per saham turut merosot 88% menjadi Rp271 dari Rp2.239.",
+   "Materi ini juga mengungkap perubahan posisi keuangan Perseroan: per 30 Juni 2026, UNTR mencatat utang bersih Rp9,4 triliun dengan rasio gearing 8,5%, berbalik dari posisi kas bersih Rp7,7 triliun pada akhir 2025. Perseroan menyebut perubahan ini terutama berasal dari akuisisi perusahaan pertambangan emas, termasuk tambang baru Doup yang melengkapi Tambang Emas Martabe dan Sumbawa Jutaraya, serta program pembelian kembali saham yang sedang berjalan. Di lini produk, UNTR bersama Komatsu juga menyerahkan unit perdana dump truck kelas 70 ton Komatsu HW70-1 kepada mitra usaha pada Mei 2026, dilengkapi fitur KOMTRAX untuk memantau lokasi dan kinerja unit dari jarak jauh."
+  ],
+  "fotoAdegan": "Heavy mining dump trucks and excavators working along an open-pit coal mine haul road under overcast sky",
+  "takeaway": "Materi ini condong negatif bagi United Tractors, karena selain menegaskan laba bersih semester pertama yang ambrol 88%, Perseroan kini juga tercatat berutang bersih, padahal enam bulan sebelumnya masih mengantongi kas bersih. Pos yang tersentuh adalah struktur utang dan kas, tercermin dari rasio gearing, yaitu perbandingan utang terhadap modal sendiri, yang berbalik dari posisi kas bersih ke level 8,5%; pasar mencermati ini karena utang yang membesar berarti beban bunga ke depan berpotensi naik dan ruang gerak keuangan menyempit. Laba per saham, bagian laba bersih yang secara teoritis menjadi hak tiap lembar saham, juga tergerus tajam dari Rp2.239 menjadi Rp271, tanda nilai yang dihasilkan Perseroan untuk tiap pemegang saham menyusut jauh. Yang perlu dipantau berikutnya adalah paparan publik pada 7 September 2026, saat manajemen kemungkinan menjelaskan langsung ke investor soal strategi menambah utang untuk ekspansi tambang emas sekaligus menjalankan buyback saham secara bersamaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sger-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
+  "category": "Aksi Korporasi",
+  "title": "SGER Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
+  "deck": "SGER menjawab surat Bursa Efek Indonesia soal lonjakan volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material maupun rencana korporasi yang mendasarinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T18:40:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2599619_2f3b743392.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SGER",
+  "tags": [
+   "SGER",
+   "volatilitas transaksi",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sumber Global Energy Tbk (SGER) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11180/BEI.PP3/09-2026 tanggal 1 September 2026, yang menanyakan sebab volatilitas transaksi efek perseroan. Melalui surat balasan bernomor 356/SGE/IX/2026 tanggal 2 September 2026 yang ditandatangani Corporate Secretary Michael Harold H, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat mempengaruhi nilai efek atau keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun ketentuan III.2.1 Peraturan Nomor I-E Bursa Efek Indonesia.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham perusahaan terbuka, serta belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang dapat berakibat pada status pencatatan sahamnya di bursa. Perseroan menyatakan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan kepada publik.",
+   "Untuk pertanyaan keenam soal rencana pemegang saham utama terkait kepemilikan sahamnya, Corporate Secretary menyatakan sudah menanyakan langsung kepada pemegang saham utama tersebut, dan jawabannya adalah belum ada rencana apa pun terkait kepemilikan sahamnya di SGER. Presiden Direktur Welly Thomas turut tercatat sebagai pengirim dalam salinan pengumuman elektronik atas laporan ini."
+  ],
+  "fotoAdegan": "Coal loading conveyor belt at a busy river port in Kalimantan, workers in hard hats, hazy tropical daylight",
+  "takeaway": "Laporan ini netral, karena isinya semata penegasan bahwa manajemen tidak menemukan alasan fundamental di balik pergerakan transaksi sahamnya yang tidak biasa, bukan kabar baik atau buruk soal kinerja perusahaan. Permintaan penjelasan semacam ini muncul ketika Bursa mendeteksi volatilitas transaksi, yakni harga atau volume perdagangan saham yang bergerak jauh di luar kebiasaan, sehingga otoritas ingin memastikan lonjakan itu bukan dipicu informasi orang dalam yang belum terbuka ke publik. Poin soal rencana pemegang saham utama juga penting diperhatikan pemodal, karena kalau pemegang saham besar diam diam mengubah kepemilikannya, itu bisa mengubah siapa yang mengendalikan perusahaan, dan di sini perseroan memastikan belum ada rencana semacam itu. Yang perlu dipantau selanjutnya adalah apakah harga dan volume transaksi saham SGER kembali normal setelah klarifikasi ini, atau apakah Bursa akan mengambil langkah lanjutan seperti penghentian sementara perdagangan jika volatilitas berlanjut tanpa penjelasan baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
@@ -369,6 +551,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A freight train loaded with coal wagons crossing rural terrain near a coal stockpile, workers in high-visibility vests, overcast sky",
   "takeaway": "Materi ini condong positif bagi PTBA karena menunjukkan pemulihan produksi yang cepat pada kuartal kedua serta efisiensi tambang yang sudah melampaui target tahunan, di luar kenaikan laba yang sudah dilaporkan sebelumnya. Nisbah kupas, yaitu perbandingan volume tanah yang harus dipindahkan untuk mendapatkan satu ton batu bara, turun dari 6,17 kali menjadi 5,26 kali dan sudah lebih baik dari target akhir tahun 5,63 kali, artinya PTBA mengeluarkan lebih sedikit biaya operasional untuk jumlah batu bara yang sama. EBITDA, yaitu laba operasional sebelum dipotong bunga, pajak, depresiasi, dan amortisasi, melonjak 94 persen menjadi Rp4,27 triliun, menandakan kas dari kegiatan inti perusahaan menebal signifikan. Yang perlu dipantau berikutnya adalah penyelesaian jalur kereta Tanjung Enim-Keramasan yang progresnya sudah 93,45 persen per akhir Juli 2026 dan ditargetkan beroperasi semester kedua 2026, karena jalur ini akan menambah kapasitas angkutan batu bara 20 juta ton per tahun begitu rampung.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PGJO dan MDIA [Keluar] dari Pemantauan Khusus BEI",
+  "deck": "Bursa mencabut status pemantauan khusus dua emiten, PGJO dan MDIA, efektif 3 September 2026, seiring perubahan papan pencatatan keduanya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:33:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/246d167468_ba5e6d70e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "PGJO",
+   "MDIA",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencabutan status pemantauan khusus atas saham dua emiten, yakni PGJO (PT Bahtera Bumi Raya Tbk) dan MDIA (PT Intermedia Capital Tbk), yang berlaku efektif mulai 3 September 2026. Sesuai pengumuman bernomor Peng-CK-00067/BEI.PLP/09-2026, papan pencatatan PGJO berubah dari papan pemantauan khusus menjadi Papan Akselerasi, sementara MDIA berpindah ke Papan Pengembangan.",
+   "Dalam dokumen tersebut disebutkan kriteria yang sebelumnya membuat masing-masing saham masuk pemantauan khusus. PGJO tercatat karena memenuhi kriteria nomor 5, yaitu memiliki ekuitas negatif pada laporan keuangan terakhirnya. Adapun MDIA masuk kategori itu karena memenuhi kriteria nomor 10, yaitu pernah dikenakan penghentian sementara perdagangan efek selama lebih dari satu hari bursa akibat aktivitas perdagangan sahamnya.",
+   "Bursa menjelaskan bahwa daftar pemantauan khusus mencakup 11 kriteria, mulai dari harga saham yang terlalu rendah disertai likuiditas rendah, opini disclaimer dari auditor, ekuitas negatif, hingga status pailit atau PKPU. Keluarnya PGJO dan MDIA dari daftar ini berarti kondisi yang sebelumnya membuat keduanya masuk kategori tersebut sudah tidak lagi terpenuhi menurut penilaian bursa."
+  ],
+  "fotoAdegan": "Modern glass skyscrapers in Jakarta's central business district reflecting afternoon sunlight, busy street traffic passing below",
+  "takeaway": "Pencabutan status pemantauan khusus untuk PGJO dan MDIA condong positif bagi kedua emiten, karena menandakan syarat yang tadinya membuat saham mereka dianggap bermasalah oleh bursa kini sudah tidak lagi terpenuhi. PGJO sebelumnya masuk kategori itu karena tercatat memiliki ekuitas negatif, yaitu kondisi ketika total utang perusahaan melebihi total asetnya sehingga modal pemegang saham secara akuntansi menjadi minus, sedangkan MDIA masuk karena sahamnya pernah disetop perdagangan lebih dari satu hari bursa akibat pola transaksi yang dianggap tidak wajar. Perubahan papan pencatatan ini efektif mulai 3 September 2026, dan pelaku pasar perlu mencermati apakah kedua emiten mampu menjaga kondisi tersebut, sebab bursa dapat memasukkan kembali saham ke pemantauan khusus apabila salah satu dari sebelas kriteria itu kembali terpenuhi di kemudian hari.",
   "sentimen": "positif"
  },
  {

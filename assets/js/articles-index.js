@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mora-peroleh-tambahan-kredit-rp4-triliun-dari-bca",
+  "category": "Aksi Korporasi",
+  "title": "MORA Peroleh Tambahan Kredit [Rp4 Triliun] dari BCA",
+  "deck": "MORA menambah fasilitas kredit investasi hingga Rp4 triliun dari BCA, setara 50,54 persen ekuitas, untuk membiayai perluasan jaringan homepass MyRepublic Indonesia.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MORA",
+   "BCA",
+   "MyRepublic Indonesia",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5df236df34_076591ea64.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-iforte-perpanjang-lagi-penawaran-tender-saham-ke-2-okt",
+  "category": "Aksi Korporasi",
+  "title": "IBST: Iforte Perpanjang Lagi Penawaran [Tender] Saham ke 2 Okt",
+  "deck": "Iforte Solusi Infotek memperpanjang lagi masa penawaran tender saham IBST hingga 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "Iforte",
+   "tender offer",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a2888db99_cebb4b8ff2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nato-bantah-info-material-jajaki-penerbitan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "NATO Bantah Info Material, Jajaki Penerbitan [Obligasi]",
+  "deck": "NATO menyatakan tak ada informasi material tersembunyi soal volatilitas sahamnya, tapi mengaku tengah menjajaki penerbitan obligasi sebagai alternatif pendanaan yang belum final.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NATO",
+   "volatilitas transaksi",
+   "obligasi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c531231b9_950388f75a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "towr-iforte-perpanjang-tender-saham-ibst-ke-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Iforte Perpanjang Tender Saham [IBST] ke 2 Oktober",
+  "deck": "Anak usaha TOWR, Iforte Solusi Infotek, memperpanjang tender sukarela saham IBST sampai 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "IBST",
+   "tender offer",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a4fe9f9f5_fc901dce0d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tmpo-gelar-public-expose-insidentil-atas-permintaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Gelar [Public Expose] Insidentil atas Permintaan Bursa",
+  "deck": "Tempo Inti Media (TMPO) menggelar public expose insidentil pada 2 September 2026 atas permintaan Bursa Efek Indonesia, mengoreksi surat sebelumnya tertanggal 31 Agustus 2026.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMPO",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Tempo Inti Media"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1776dc13f_e7251a6946.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-bukukan-laba-rp496-8-m-melonjak-118-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Bukukan Laba Rp496,8 M, [Melonjak] 118% Semester I 2026",
+  "deck": "Materi Public Expose WIFI paparkan pendapatan naik 206% dan laba 118% pada semester I 2026, dengan rasio utang bersih terhadap EBITDA rendah di 0,85 kali.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "public expose",
+   "kinerja keuangan",
+   "broadband"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f52ef74b23_08ae7f269c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-saham-crab-dicabut-bei-setelah-penuhi-kewajiban",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi Saham [CRAB] Dicabut BEI Setelah Penuhi Kewajiban",
+  "deck": "BEI mencabut suspensi perdagangan saham Toba Surimi Industries (CRAB) mulai pra-pembukaan Rabu, 2 September 2026, setelah dua kewajiban pelaporan keuangan yang tertunda dipenuhi.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CRAB",
+   "suspensi saham",
+   "BEI",
+   "Toba Surimi Industries"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/914182f000_0bfd7bbc27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asjt-koreksi-laporan-realisasi-dana-right-issue-rp98-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASJT Koreksi Laporan [Realisasi] Dana Right Issue Rp98,2 Miliar",
+  "deck": "Asuransi Jasa Tania mengoreksi laporan realisasi dana rights issue 2021 senilai Rp98,2 miliar. Realisasi mencapai 99,19 persen, sisa Rp797 juta ditempatkan di deposito.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASJT",
+   "rights issue",
+   "asuransi",
+   "realisasi dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/613bc8ceda_357f02d390.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
   "category": "Industri",
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
@@ -6403,138 +6531,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/969e07726d_bad18d8729.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "hotl-masuk-papan-pemantauan-khusus-usai-anak-usaha-kena-pkpu",
-  "category": "Aksi Korporasi",
-  "title": "HOTL Masuk Papan [Pemantauan Khusus] Usai Anak Usaha Kena PKPU",
-  "deck": "BEI memindahkan saham HOTL, Saraswati Griya Lestari Tbk, ke Papan Pemantauan Khusus setelah anak usahanya yang pendapatannya material dimohonkan PKPU, pailit, atau pembatalan perdamaian.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/hotl-masuk-papan-pemantauan-khusus-usai-anak-usaha-kena-pkpu.jpg",
-  "tags": [
-   "HOTL",
-   "Pemantauan Khusus",
-   "PKPU",
-   "Saraswati Griya Lestari"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76e2417f94_777d4e5464.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpns-masuk-papan-pemantauan-khusus-bei-imbas-pendapatan-stagnan",
-  "category": "Aksi Korporasi",
-  "title": "DPNS Masuk Papan Pemantauan [Khusus] BEI Imbas Pendapatan Stagnan",
-  "deck": "Bursa Efek Indonesia memasukkan saham Duta Pertiwi Nusantara (DPNS) ke daftar pemantauan khusus mulai 22 Agustus 2026 karena tidak ada perubahan pendapatan di laporan keuangan terakhir.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/dpns-masuk-papan-pemantauan-khusus-bei-imbas-pendapatan-stagnan.jpg",
-  "tags": [
-   "DPNS",
-   "Duta Pertiwi Nusantara",
-   "pemantauan khusus",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ee7f537f8d_b265ad6ef2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hipmi-investasi-rp1-010-t-dorong-pengusaha-jadi-pemasok",
-  "category": "Industri",
-  "title": "HIPMI: Investasi Rp1.010 T, Dorong Pengusaha Jadi [Pemasok]",
-  "deck": "HIPMI mengapresiasi realisasi investasi semester I 2026 senilai Rp1.010,6 triliun dan mendorong pengusaha nasional ikut jadi pemasok dalam ekosistem hilirisasi.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/hipmi-investasi-rp1-010-t-dorong-pengusaha-jadi-pemasok.jpg",
-  "imageV": "mt4n859j",
-  "tags": [
-   "investasi",
-   "hipmi",
-   "hilirisasi",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461662-investasi-tembus-rp1010-triliun-hipmi-dorong-pengusaha-nasional-jadi-bagian-utama-industrialisasi"
- },
- {
-  "slug": "meja-setujui-peningkatan-modal-dasar-via-saham-bonus",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Setujui Peningkatan Modal Dasar via [Saham Bonus]",
-  "deck": "RUPSLB Ketiga MEJA menyetujui kenaikan modal dasar menjadi Rp208,65 miliar dan penerbitan 372,58 juta saham bonus dari kapitalisasi agio saham.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/meja-setujui-peningkatan-modal-dasar-via-saham-bonus.jpg",
-  "tags": [
-   "MEJA",
-   "RUPSLB",
-   "saham bonus",
-   "modal dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8622af9af3_d2e4531a6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bri-raih-tiga-penghargaan-alpha-southeast-asia-2026",
-  "category": "Perbankan",
-  "title": "BRI Raih [Tiga] Penghargaan Alpha Southeast Asia 2026",
-  "deck": "BRI meraih tiga penghargaan dari Alpha Southeast Asia 2026 untuk platform transaksi digital QLola, layanan cash management, dan inklusi keuangan.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/bri-raih-tiga-penghargaan-alpha-southeast-asia-2026.jpg",
-  "imageV": "mt5sb493",
-  "tags": [
-   "BRI",
-   "BBRI",
-   "Alpha Southeast Asia",
-   "QLola"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461652-bri-raih-tiga-penghargaan-bergengsi-alpha-southeast-asia-2026-kukuhkan-kepemimpinan-dalam-layanan-transaction-banking"
- },
- {
-  "slug": "pertamina-salurkan-9-600-paket-sembako-ke-korban-gempa-flores",
-  "category": "BUMN",
-  "title": "Pertamina Salurkan [9.600] Paket Sembako ke Korban Gempa Flores",
-  "deck": "Pertamina terus mendampingi warga terdampak gempa di Manggarai, NTT, lewat bantuan sembako, gas, dan pemulihan trauma bagi anak-anak.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/pertamina-salurkan-9-600-paket-sembako-ke-korban-gempa-flores.jpg",
-  "imageV": "mt5sb4uw",
-  "tags": [
-   "Pertamina",
-   "Gempa Flores",
-   "NTT",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461651-pertamina-hadir-dampingi-warga-terdampak-gempa-flores"
- },
- {
-  "slug": "pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo",
-  "category": "BUMN",
-  "title": "Pertamina Buka [Posko Kesehatan] Gratis untuk Pengungsi Gempa Reo",
-  "deck": "Pertamina Patra Niaga membuka posko kesehatan gratis bagi pengungsi gempa di Reo, Manggarai, NTT, melayani pemeriksaan kesehatan, tekanan darah, dan pemberian obat serta vitamin.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-gempa-reo.jpg",
-  "imageV": "mt5v2zfu",
-  "tags": [
-   "Pertamina",
-   "Gempa Manggarai",
-   "NTT",
-   "Posko Pertamina Peduli"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461649-pertamina-buka-posko-kesehatan-gratis-untuk-pengungsi-di-reo"
- },
- {
-  "slug": "pertamina-kejar-ekspansi-panas-bumi-lewat-pge",
-  "category": "Energi",
-  "title": "Pertamina Kejar Ekspansi [Panas Bumi] Lewat PGE",
-  "deck": "PGE menandatangani dua nota kesepahaman dengan PLN untuk unit tambahan PLTP Ulubelu dan Lahendong, serta menerima penugasan eksplorasi panas bumi baru dari pemerintah.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/pertamina-kejar-ekspansi-panas-bumi-lewat-pge.jpg",
-  "imageV": "mt5sb5d2",
-  "tags": [
-   "Pertamina",
-   "panas bumi",
-   "PGE",
-   "energi terbarukan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461620-pertamina-terus-dorong-ekspansi-panas-bumi-nasional-di-iigce-2026"
  }
 ];

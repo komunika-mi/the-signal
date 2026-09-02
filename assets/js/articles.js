@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mora-peroleh-tambahan-kredit-rp4-triliun-dari-bca",
+  "category": "Aksi Korporasi",
+  "title": "MORA Peroleh Tambahan Kredit [Rp4 Triliun] dari BCA",
+  "deck": "MORA menambah fasilitas kredit investasi hingga Rp4 triliun dari BCA, setara 50,54 persen ekuitas, untuk membiayai perluasan jaringan homepass MyRepublic Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T11:48:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5df236df34_076591ea64.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MORA",
+  "tags": [
+   "MORA",
+   "BCA",
+   "MyRepublic Indonesia",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Ekamas Mora Republik Tbk (MORA), perusahaan yang menaungi layanan internet MyRepublic Indonesia, menandatangani Akta Perubahan Pertama atas Perjanjian Kredit dengan PT Bank Central Asia Tbk (BCA) pada 31 Agustus 2026. Melalui perubahan ini, MORA memperoleh tambahan fasilitas kredit investasi dengan pokok hingga Rp4 triliun, setara 50,54 persen dari ekuitas perseroan yang tercatat Rp7,91 triliun per 31 Desember 2025. Karena nilainya melebihi separuh ekuitas, transaksi ini masuk kategori transaksi material menurut aturan OJK, namun dikecualikan dari kewajiban meminta persetujuan RUPS karena tergolong pinjaman langsung dari bank.",
+   "Dana tambahan ini akan dipakai untuk membiayai belanja modal pembangunan homepass, yaitu jaringan kabel yang menghubungkan ke rumah pelanggan, berikut perangkat pelanggan (CPE) dan sarana pendukung lain. Perseroan menegaskan dana ini tidak mencakup pembangunan jaringan untuk layanan internet nirkabel tetap (FWA). Fasilitas ini bertenor maksimal tujuh tahun sejak penandatanganan, termasuk masa tenggang pembayaran pokok maksimal satu tahun. Sebagai jaminan, perseroan menyerahkan hak fidusia atas aset homepass yang dibiayai berikut klaim asuransinya, masing-masing dengan nilai jaminan minimal 125 persen dari pokok pinjaman, serta menggadaikan sejumlah rekening banknya di BCA.",
+   "Selama masa perjanjian berlaku, MORA dilarang melakukan merger, akuisisi, atau pembubaran, mengajukan pailit atau penundaan kewajiban pembayaran utang, dan menjual atau mengalihkan hak penggunaan merek \"MyRepublic Indonesia\" kepada pihak lain. Perseroan juga telah mengantongi persetujuan tertulis dari kreditur lain, yaitu wali amanat dua seri sukuk ijarah berkelanjutan Moratelindo tahap I 2023 dan tahap II 2024, untuk melaksanakan tambahan pinjaman ini. Direksi dan dewan komisaris menyatakan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Telecom technician splicing fiber optic cables at a utility pole in a Jakarta residential street, midday light.",
+  "takeaway": "Laporan ini netral bagi kondisi keuangan MORA: tambahan utang Rp4 triliun memang besar dibanding ekuitasnya, tapi dananya untuk membangun jaringan homepass yang jadi tulang punggung bisnis MyRepublic Indonesia, bukan menambal defisit operasional. Yang perlu diawasi adalah beban bunga, yaitu biaya yang harus dibayar perseroan atas pinjaman ini, karena tambahan utang sebesar ini otomatis menaikkan rasio utang terhadap ekuitas dan berpotensi menggerus laba bersih dalam beberapa tahun ke depan. Jaminan berupa aset homepass dan sejumlah rekening bank di BCA juga berarti aset-aset itu terikat selama masa pinjaman, sehingga ruang gerak perseroan mencari pendanaan lain dari aset yang sama jadi terbatas. Yang perlu dipantau berikutnya adalah realisasi pembangunan homepass yang dibiayai fasilitas ini serta laporan keuangan kuartal mendatang, untuk melihat apakah tambahan utang ini benar-benar terserap jadi kapasitas jaringan baru, bukan sekadar menambah beban.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ibst-iforte-perpanjang-lagi-penawaran-tender-saham-ke-2-okt",
+  "category": "Aksi Korporasi",
+  "title": "IBST: Iforte Perpanjang Lagi Penawaran [Tender] Saham ke 2 Okt",
+  "deck": "Iforte Solusi Infotek memperpanjang lagi masa penawaran tender saham IBST hingga 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T11:06:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a2888db99_cebb4b8ff2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBST",
+  "tags": [
+   "IBST",
+   "Iforte",
+   "tender offer",
+   "delisting"
+  ],
+  "body": [
+   "PT Iforte Solusi Infotek mengumumkan perpanjangan kedua atas masa penawaran tender sukarela terhadap saham PT Inti Bangun Sejahtera Tbk (IBST). Perpanjangan seharusnya berlangsung 30 hari sejak 4 September 2026 pukul 08.30 WIB hingga 3 Oktober 2026, tetapi karena 3 Oktober bukan hari kerja bagi Biro Administrasi Efek dan perusahaan efek yang ditunjuk, periode ini efektif berakhir pada 2 Oktober 2026 pukul 16.00 WIB. Harga penawaran tidak berubah, tetap Rp5.400 per lembar saham, dengan syarat dan prosedur yang sama seperti yang diumumkan sejak 3 Juli 2026.",
+   "Pemegang saham publik yang ingin ikut serta pada periode perpanjangan ini wajib melengkapi dan menandatangani seluruh dokumen yang disyaratkan, lalu menyerahkannya ke perusahaan sekuritas atau bank kustodian masing-masing paling lambat 2 Oktober 2026 pukul 16.00 WIB. Iforte akan membayar harga penawaran kepada peserta paling lambat 14 Oktober 2026. Per 1 September 2026 pukul 16.00 WIB, tercatat 113 pemegang saham publik telah berpartisipasi dengan total 480.110 lembar saham, setara 73,77 persen dari seluruh saham publik IBST.",
+   "Penawaran tender ini merupakan bagian dari perlindungan hak pemegang saham publik sesuai POJK 45/2024, sehubungan dengan rencana IBST untuk go private dan delisting dari bursa. Jika rencana itu nantinya mendapat persetujuan OJK dan Bursa Efek Indonesia, pemegang saham publik yang tidak ikut serta dalam tender ini akan tetap menjadi pemegang saham, namun atas perusahaan yang sudah tidak lagi tercatat di bursa. Pemegang saham yang belum memiliki formulir penawaran tender atau butuh informasi tambahan dapat menghubungi Biro Administrasi Efek PT Raya Saham Registra atau perusahaan efek PT Bahana Sekuritas."
+  ],
+  "fotoAdegan": "Technicians inspecting a telecommunications tower at dawn in rural Indonesia, cables and antennas visible, safety harnesses in use",
+  "takeaway": "Perpanjangan ini netral bagi IBST karena hanya mengubah jangka waktu, bukan harga maupun syarat penawaran, dan partisipasi pemegang saham publik sudah mencapai 73,77 persen sebelum perpanjangan diumumkan. Yang tersentuh di sini bukan laba atau arus kas perusahaan, melainkan struktur kepemilikan sahamnya di publik. Kalau rencana go private dan delisting IBST nanti disetujui OJK dan BEI, pemegang saham yang tidak menyerahkan sahamnya lewat tender ini akan tetap menjadi pemilik, tetapi sahamnya tidak lagi bisa diperjualbelikan di bursa sehingga sulit dicairkan. Yang perlu dipantau adalah batas akhir penyerahan dokumen tender pada 2 Oktober 2026 pukul 16.00 WIB, pembayaran kepada peserta paling lambat 14 Oktober 2026, serta proses persetujuan OJK dan BEI atas rencana go private dan delisting IBST selanjutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "nato-bantah-info-material-jajaki-penerbitan-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "NATO Bantah Info Material, Jajaki Penerbitan [Obligasi]",
+  "deck": "NATO menyatakan tak ada informasi material tersembunyi soal volatilitas sahamnya, tapi mengaku tengah menjajaki penerbitan obligasi sebagai alternatif pendanaan yang belum final.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T10:52:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c531231b9_950388f75a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NATO",
+  "tags": [
+   "NATO",
+   "volatilitas transaksi",
+   "obligasi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Olympus Strategic Indonesia Tbk (NATO) menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, yang disampaikan lewat surat nomor S-11204/BEI.PP3/09-2026 tanggal 1 September 2026. Dalam surat balasan bernomor 061/DIR-NATO/IX/2026 yang ditandatangani Direktur Utama Mauritz Nainggolan, perseroan menegaskan tidak memiliki informasi atau fakta material yang belum terungkap dan dapat mempengaruhi harga saham maupun keputusan investasi pemodal, baik menurut POJK 31/POJK.04/2015 maupun Peraturan I-E Bursa Efek Indonesia. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan pemegang saham pengendali maupun utama disebut tidak memiliki rencana apa pun terkait kepemilikan sahamnya.",
+   "Satu poin yang menonjol dari jawaban standar ini muncul saat perseroan ditanya soal rencana tindakan korporasi dalam tiga bulan ke depan. NATO mengakui sedang membahas dan menjajaki kemungkinan penerbitan obligasi sebagai salah satu alternatif sumber pendanaan. Namun perseroan buru-buru menambahkan bahwa rencana ini masih sebatas kajian internal, belum ada keputusan final soal pelaksanaan, jumlah dana yang akan dihimpun, maupun waktu penerbitannya. Di luar itu, perseroan menyatakan tidak ada rencana tindakan korporasi lain yang berdampak pada status pencatatan sahamnya di bursa dalam waktu dekat, dan belum ada informasi penting lain yang material bagi kelangsungan usahanya yang belum diungkap ke publik."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise office building in a Jakarta business district, overcast sky, midday light",
+  "takeaway": "Laporan ini netral bagi emiten, karena hampir seluruh isinya adalah bantahan rutin bahwa tidak ada informasi tersembunyi, dan satu-satunya hal baru, yakni penjajakan obligasi, masih sebatas wacana tanpa angka atau jadwal pasti. Obligasi adalah surat utang yang diterbitkan perusahaan untuk mendapat dana segar dari investor. Kalau nanti benar diterbitkan, ia akan menambah utang perseroan dan menimbulkan beban bunga baru yang bisa menggerus laba bersih, tapi juga bisa jadi sumber dana tanpa mengurangi porsi kepemilikan pemegang saham lama seperti halnya jika perseroan menerbitkan saham baru. Karena belum ada kepastian jumlah maupun waktu, dampaknya ke arus kas dan beban bunga belum bisa dihitung. Yang perlu dipantau berikutnya adalah apakah kajian obligasi ini berlanjut menjadi keputusan resmi, karena begitu ada kepastian nilai dan jadwalnya, perseroan wajib mengumumkannya lagi ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "towr-iforte-perpanjang-tender-saham-ibst-ke-2-oktober",
+  "category": "Aksi Korporasi",
+  "title": "TOWR: Iforte Perpanjang Tender Saham [IBST] ke 2 Oktober",
+  "deck": "Anak usaha TOWR, Iforte Solusi Infotek, memperpanjang tender sukarela saham IBST sampai 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T10:45:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a4fe9f9f5_fc901dce0d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "IBST",
+   "tender offer",
+   "go private"
+  ],
+  "body": [
+   "Sarana Menara Nusantara Tbk (TOWR) melaporkan bahwa anak usahanya, PT Iforte Solusi Infotek, memperpanjang untuk kedua kalinya masa penawaran tender sukarela atas saham PT Inti Bangun Sejahtera Tbk (IBST). Perpanjangan berlaku 30 hari, dimulai 4 September 2026 pukul 08.30 WIB. Karena 3 Oktober 2026 bukan hari kerja bagi Biro Administrasi Efek dan perusahaan efek yang ditunjuk, periode ini efektif berakhir pada 2 Oktober 2026 pukul 16.00 WIB. Harga penawaran tidak berubah dari sebelumnya, yaitu Rp5.400 per saham.",
+   "Pemegang saham publik IBST yang ingin ikut serta wajib melengkapi dan menyerahkan dokumen ke perusahaan sekuritas atau bank kustodian masing-masing, paling lambat 2 Oktober 2026 pukul 16.00 WIB. Pembayaran kepada peserta yang berpartisipasi dalam periode perpanjangan ini akan dilakukan paling lambat 14 Oktober 2026. Sampai dengan 1 September 2026 pukul 16.00 WIB, tercatat 113 pemegang saham publik yang telah berpartisipasi, mewakili 480.110 lembar saham atau setara 73,77 persen dari total saham publik IBST.",
+   "Iforte menyebut penawaran tender ini sebagai bentuk perlindungan hak pemegang saham publik sesuai POJK 45/2024, sekaligus berkaitan dengan rencana go private dan delisting IBST dari bursa. Jika IBST kelak memenuhi syarat dan memperoleh persetujuan OJK serta Bursa Efek Indonesia untuk go private, pemegang saham publik yang tidak ikut serta dalam penawaran ini akan tetap menjadi pemegang saham di perusahaan yang sudah tidak lagi tercatat di bursa."
+  ],
+  "fotoAdegan": "Telecommunication towers rising above a hillside at dusk, technicians inspecting equipment near the tower base under fading light.",
+  "takeaway": "Perpanjangan kedua ini netral bagi TOWR karena harga dan syarat penawaran tender tidak berubah, yang bertambah hanya jangka waktunya selama 30 hari lantaran belum semua pemegang saham publik IBST menentukan sikap. Yang tersentuh dari transaksi ini adalah arus kas kelompok usaha TOWR, karena Iforte harus menyiapkan dana tunai untuk membayar setiap pemegang saham publik IBST yang ikut serta sebesar Rp5.400 per saham, dan bila proses ini tuntas, kepemilikan IBST akan terkonsolidasi lebih penuh ke dalam grup sehingga porsi pemegang saham minoritas di laporan keuangan gabungan mengecil. Yang perlu dipantau berikutnya adalah tenggat baru penyerahan dokumen partisipasi pada 2 Oktober 2026 pukul 16.00 WIB, pembayaran kepada peserta paling lambat 14 Oktober 2026, dan apakah tingkat partisipasi yang sudah mencapai 73,77 persen dari saham publik itu akhirnya cukup untuk memenuhi syarat rencana go private dan delisting IBST dari bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tmpo-gelar-public-expose-insidentil-atas-permintaan-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Gelar [Public Expose] Insidentil atas Permintaan Bursa",
+  "deck": "Tempo Inti Media (TMPO) menggelar public expose insidentil pada 2 September 2026 atas permintaan Bursa Efek Indonesia, mengoreksi surat sebelumnya tertanggal 31 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T10:44:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1776dc13f_e7251a6946.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMPO",
+  "tags": [
+   "TMPO",
+   "Public Expose",
+   "Bursa Efek Indonesia",
+   "Tempo Inti Media"
+  ],
+  "body": [
+   "Tempo Inti Media Tbk (TMPO) mengirim surat koreksi bernomor 045/EXT-Corsec/E/R1/TIM/VIII/26 tertanggal 2 September 2026, yang membetulkan surat sebelumnya nomor 045/EXT-Corsec/E/TIM/VIII/26 tertanggal 31 Agustus 2026 perihal rencana public expose insidentil. Surat ditandatangani oleh Yudianto Sri Wicaksono selaku Corporate Legal perseroan.",
+   "Public expose insidentil ini digelar bukan atas inisiatif sukarela perseroan, melainkan atas permintaan Bursa Efek Indonesia, dengan mengacu pada surat referensi bernomor Peng-SPT-00155/BEI.WAS/08-2026 dari unit pengawasan bursa. Acara berlangsung pada Rabu, 2 September 2026 pukul 14.00 WIB, bertempat di Gedung Tempo, Jalan Palmerah Barat No. 8, Jakarta, dengan agenda pembukaan, paparan manajemen, sesi tanya jawab, dan penutup. Perseroan menyiarkan acara ini secara langsung agar bisa diikuti publik dari luar lokasi.",
+   "Permintaan public expose oleh bursa seperti ini lazimnya menyusul perhatian otoritas terhadap pergerakan harga saham suatu emiten. Sehari sebelumnya, TMPO telah menjelaskan ke publik bahwa harga sahamnya melonjak di tengah pendapatan yang turun, meski rugi bersih perseroan menyempit karena penghematan biaya."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a corporate briefing room, morning light through tall windows, Jakarta office building.",
+  "takeaway": "Laporan ini netral bagi fundamental TMPO karena isinya prosedural, sekadar mengoreksi jadwal dan tidak mengubah angka keuangan apa pun. Dokumen ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham, tetapi tetap penting diketahui karena public expose ini digelar atas permintaan langsung unit pengawasan Bursa Efek Indonesia, bukan atas kemauan sendiri perseroan, yang biasanya berarti otoritas ingin manajemen menjelaskan sesuatu ke publik secara terbuka. Yang perlu dipantau adalah paparan dan sesi tanya jawab pada acara Rabu ini pukul 14.00 WIB, terutama apakah manajemen akan menyinggung lonjakan harga saham yang sudah dijelaskan perseroan sehari sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-bukukan-laba-rp496-8-m-melonjak-118-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Bukukan Laba Rp496,8 M, [Melonjak] 118% Semester I 2026",
+  "deck": "Materi Public Expose WIFI paparkan pendapatan naik 206% dan laba 118% pada semester I 2026, dengan rasio utang bersih terhadap EBITDA rendah di 0,85 kali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T10:41:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f52ef74b23_08ae7f269c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "public expose",
+   "kinerja keuangan",
+   "broadband"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) menyampaikan materi Public Expose Tahunan ke Bursa Efek Indonesia, menjelang acara publik yang akan digelar Senin, 7 September 2026. Materi tersebut memuat kinerja keuangan semester I 2026 yang belum diaudit: pendapatan Rp1,57 triliun, naik 206 persen dibanding periode sama tahun lalu, didorong pendapatan telekomunikasi Rp1,28 triliun yang tumbuh 357 persen dan kini menyumbang 82 persen dari total pendapatan perseroan. Laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) tercatat Rp948,9 miliar, naik 117 persen, dengan margin 60,4 persen. Laba bersih konsolidasi mencapai Rp496,8 miliar, naik 118 persen, sementara laba yang menjadi hak pemegang saham entitas induk hanya naik 45 persen.",
+   "Dari sisi pelanggan, jumlah pelanggan broadband tembus 2,3 juta, naik 518 persen dibanding tahun lalu. Rinciannya, pelanggan fiber optik Starlite (FTTH) mencapai 1,85 juta atau naik 377 persen, dan pelanggan internet rumah nirkabel IRA (5G FWA) sebanyak 513 ribu pada kuartal penuh pertamanya beroperasi, dengan tingkat pelanggan berhenti berlangganan di bawah 0,1 persen per bulan untuk lini FTTH. Jumlah lokasi pemancar FWA mencapai lebih dari 1.500 unit per 31 Agustus 2026, naik dari 1.104 unit lima minggu sebelumnya, tersebar di delapan provinsi termasuk Jawa, Maluku, dan Papua, dengan target 5.500 lokasi pada akhir 2026. Untuk jaringan fiber, jumlah rumah yang sudah terjangkau kabel (homes passed) mencapai 3 juta, menuju target 3,5 juta pada akhir tahun.",
+   "Dari sisi pendanaan, kas dan setara kas perseroan tercatat Rp8,29 triliun, dengan rasio utang bersih terhadap EBITDA sebesar 0,85 kali dan kemampuan membayar bunga (EBITDA dibanding beban bunga) sebesar 3,5 kali. Sepanjang semester I 2026, perseroan menerbitkan obligasi dan sukuk senilai sekitar Rp5 triliun, ditambah pinjaman sindikasi Rp1,7 triliun yang sudah dicairkan. Anak usaha WEAVE, yang 51 persen dimiliki WIFI dan 49 persen oleh NTT East asal Jepang, menerbitkan obligasi Samurai perdana senilai 21,4 miliar yen atau sekitar Rp2,4 triliun pada Juli 2026, dengan peringkat layak investasi BBB+ dari Japan Credit Rating Agency. Total aset per 30 Juni 2026 tercatat Rp20,9 triliun, dengan ekuitas Rp9 triliun dan utang berbunga Rp9,8 triliun, sementara realisasi belanja modal semester I 2026 lebih dari Rp1 triliun untuk pembangunan lokasi FWA, jaringan fiber, dan perangkat pelanggan.",
+   "Untuk keseluruhan 2026, perseroan menargetkan lebih dari 3 juta pelanggan gabungan FWA dan FTTH, 5.500 lokasi FWA, 3,5 juta rumah terjangkau fiber, serta margin EBITDA di kisaran 50 sampai 60 persen. Sesi Public Expose Live akan digelar secara daring pada Senin, 7 September 2026, dengan sesi tanya jawab bersama jajaran direksi perseroan."
+  ],
+  "fotoAdegan": "A telecom technician on a ladder splicing fiber-optic cables at a utility pole in a residential Jakarta street, midday",
+  "takeaway": "Laporan ini condong positif bagi fundamental WIFI: pendapatan dan laba operasionalnya tumbuh tiga digit dalam setahun, sementara utangnya masih jauh di bawah kasnya sehingga risiko keuangan tergolong rendah untuk perusahaan yang sedang membangun jaringan besar-besaran. Yang perlu digarisbawahi, laba bersih konsolidasi Rp496,8 miliar yang naik 118 persen itu berbeda dari laba yang benar-benar menjadi hak pemegang saham publik WIFI, yang cuma naik 45 persen, karena mitra asing NTT East memiliki 49 persen saham di anak usaha WEAVE sehingga sebagian laba grup mengalir ke mitra itu, bukan ke pemegang saham WIFI, dan inilah angka yang lebih relevan untuk menilai laba per saham. Rasio utang bersih terhadap EBITDA sebesar 0,85 kali berarti seandainya seluruh laba operasional dipakai melunasi utang bersih, waktunya kurang dari setahun, jadi beban utangnya masih ringan meski perseroan tengah menggenjot belanja modal lebih dari Rp1 triliun dalam enam bulan. Yang perlu dipantau selanjutnya adalah apakah target akhir 2026, yaitu 5.500 lokasi FWA dan 3,5 juta rumah terjangkau fiber, benar-benar tercapai, serta hasil sesi tanya jawab bersama direksi dalam Public Expose Live pada Senin, 7 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "suspensi-saham-crab-dicabut-bei-setelah-penuhi-kewajiban",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi Saham [CRAB] Dicabut BEI Setelah Penuhi Kewajiban",
+  "deck": "BEI mencabut suspensi perdagangan saham Toba Surimi Industries (CRAB) mulai pra-pembukaan Rabu, 2 September 2026, setelah dua kewajiban pelaporan keuangan yang tertunda dipenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T09:18:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/914182f000_0bfd7bbc27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CRAB",
+   "suspensi saham",
+   "BEI",
+   "Toba Surimi Industries"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) mencabut suspensi perdagangan saham PT Toba Surimi Industries Tbk (CRAB) di Pasar Reguler dan Pasar Tunai, efektif sejak pra-pembukaan perdagangan pada Rabu, 2 September 2026. Pencabutan ini tertuang dalam pengumuman bernomor Peng-UPT-00017/BEI.PLP/09-2026 yang ditandatangani Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat Teuku Fahmi Ariandar dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A.",
+   "Saham CRAB, yang tercatat di Papan Pengembangan, sebelumnya disuspensi dua kali oleh BEI dalam kurun waktu dua bulan. Suspensi pertama dijatuhkan pada 30 Juni 2026 melalui pengumuman Peng-S-00020/BEI.PLP/06-2026 karena perseroan terlambat menyampaikan laporan keuangan auditan tahunan per 31 Desember 2025. Suspensi kedua menyusul pada 30 Juli 2026 lewat pengumuman Peng-S-00024/BEI.PLP/07-2026, terkait keterlambatan penyampaian laporan keuangan interim per 31 Maret 2026.",
+   "Bursa menyatakan pencabutan dilakukan karena CRAB telah memenuhi seluruh kewajiban yang menjadi penyebab penghentian perdagangan tersebut dan tidak ada kondisi lain yang mengharuskan sahamnya tetap disuspensi. BEI meminta seluruh pihak yang berkepentingan untuk terus mencermati keterbukaan informasi yang akan disampaikan perseroan ke depan."
+  ],
+  "fotoAdegan": "Workers processing frozen surimi fish paste blocks on a production line inside an Indonesian seafood processing plant, cold storage lighting",
+  "takeaway": "Pencabutan suspensi ini condong positif bagi CRAB karena menandakan perseroan akhirnya melunasi kewajiban administratif yang sempat membekukan sahamnya selama hampir dua bulan, sehingga investor kini bisa kembali memperjualbelikan saham ini di pasar reguler dan tunai. Yang tersentuh di sini bukan angka di laporan keuangan, melainkan likuiditas saham, yakni kemudahan investor menjual atau membeli sahamnya kapan saja, karena selama suspensi dana pemegang saham CRAB praktis terkunci sebab tidak bisa ditransaksikan di bursa. Meski begitu, riwayat dua suspensi beruntun akibat keterlambatan laporan keuangan tahunan dan interim tetap jadi catatan soal disiplin pelaporan perseroan yang perlu diperbaiki. Yang perlu dipantau selanjutnya adalah apakah CRAB bisa menyampaikan laporan keuangan berikutnya tepat waktu, karena BEI secara eksplisit meminta investor terus mencermati keterbukaan informasi yang akan disampaikan perseroan setelah ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "asjt-koreksi-laporan-realisasi-dana-right-issue-rp98-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ASJT Koreksi Laporan [Realisasi] Dana Right Issue Rp98,2 Miliar",
+  "deck": "Asuransi Jasa Tania mengoreksi laporan realisasi dana rights issue 2021 senilai Rp98,2 miliar. Realisasi mencapai 99,19 persen, sisa Rp797 juta ditempatkan di deposito.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T09:18:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/613bc8ceda_357f02d390.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASJT",
+  "tags": [
+   "ASJT",
+   "rights issue",
+   "asuransi",
+   "realisasi dana"
+  ],
+  "body": [
+   "PT Asuransi Jasa Tania Tbk (ASJT) menyampaikan surat koreksi bernomor 165/DU/IX/2026 tanggal 2 September 2026 atas laporan penggunaan dana hasil penawaran umum yang sebelumnya terbit pertengahan Juli 2026. Koreksi ini menyangkut laporan realisasi dana hasil rights issue (HMETD) yang efektif sejak 2 Agustus 2021, dengan total dana yang terkumpul Rp100 miliar, biaya penawaran umum Rp1.799.512.000, sehingga hasil bersih yang bisa dipakai perusahaan adalah Rp98.200.488.000.",
+   "Menurut prospektus, dana bersih itu direncanakan dibagi tiga: 50 persen atau Rp49.100.244.000 untuk modal kerja dalam bentuk deposito, 40 persen atau Rp39.280.195.200 untuk modal kerja dalam bentuk obligasi, dan 10 persen atau Rp9.820.048.800 untuk pengembangan teknologi informasi dan sumber daya manusia. Per posisi 30 Juni 2026, pos deposito dan obligasi sudah terealisasi penuh, masing-masing sesuai rencana awal, sementara pos pengembangan TI dan SDM baru terpakai Rp9.023.270.921 atau 91,89 persen dari anggarannya. Secara total, realisasi penggunaan dana mencapai Rp97.403.710.121 atau 99,19 persen dari dana bersih yang tersedia.",
+   "Sisa dana sebesar Rp796.777.879, setara 0,81 persen dari total dana bersih, saat ini ditempatkan dalam deposito berjangka satu bulan di Bank Raya Indonesia dengan bunga 5,25 persen per tahun. Bank tersebut berstatus pihak ketiga yang tidak berafiliasi dengan ASJT. Laporan ditandatangani secara elektronik oleh Corporate Secretary ASJT, Dani Rediansyah, dan diserahkan ke bursa pada 2 September 2026 pukul 09.18 WIB."
+  ],
+  "fotoAdegan": "Bank teller counter inside a busy Jakarta branch, staff counting cash trays, customers waiting quietly, bright interior lighting",
+  "takeaway": "Laporan ini condong netral karena secara keseluruhan dana rights issue sudah dipakai sesuai rencana, dengan sisa yang belum terserap tergolong kecil. Yang tersentuh adalah arus kas dan likuiditas ASJT, sebab dana ini dipakai sebagai modal kerja yang ditaruh di deposito bank dan obligasi atau surat utang, yang berarti perusahaan memiliki dana cadangan yang bisa cepat dicairkan bila dibutuhkan untuk operasional asuransi. Realisasi pos deposito dan obligasi sudah 100 persen, tapi pos pengembangan teknologi informasi dan sumber daya manusia baru terpakai 91,89 persen dari anggaran Rp9,82 miliar, sehingga masih ada Rp797 juta yang mengendap di deposito berbunga 5,25 persen per tahun. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya, untuk melihat apakah sisa dana itu akhirnya benar dipakai untuk pengembangan TI dan SDM seperti dijanjikan di prospektus, terlebih laporan ini sendiri merupakan koreksi atas laporan yang sebelumnya terbit pertengahan Juli 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
   "category": "Industri",
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",

@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan [Buyback] Rp99,86 Miliar, Treasuri 601,6 Juta Saham",
+  "deck": "Erajaya Swasembada merampungkan pembelian kembali 236,27 juta saham senilai Rp99,86 miliar per 2 September 2026, hampir menghabiskan anggaran buyback Rp100 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T18:31:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a918bbd1dc_bbfbe20696.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "Erajaya Swasembada",
+   "saham treasuri"
+  ],
+  "body": [
+   "PT Erajaya Swasembada Tbk (ERAA) melaporkan telah merampungkan pembelian kembali (buyback) sebanyak 236.270.400 lembar saham dengan total nilai Rp99.858.096.000 per 2 September 2026. Harga rata-rata pembelian adalah Rp422,64 per lembar saham. Laporan ini merujuk pada keterbukaan informasi sebelumnya bernomor 044/ERAA/CS/V/2026 tanggal 29 Mei 2026 yang mengumumkan rencana buyback tersebut.",
+   "Transaksi dilakukan bertahap sejak 5 Juni 2026 hingga 26 Agustus 2026, dengan harga beli bergerak dari sekitar Rp320 di awal periode naik menjadi kisaran Rp450 hingga Rp478 pada Agustus. Dengan tambahan pembelian ini, total saham treasuri yang kini dipegang Erajaya mencapai 601.587.822 lembar. Perusahaan menyebut sisa anggaran buyback yang belum terpakai tinggal Rp141.904.000, dari total anggaran yang tampak sebesar Rp100 miliar, artinya program ini sudah hampir seluruhnya terealisasi.",
+   "Perseroan menyatakan dampak dari aksi ini adalah bertambahnya jumlah saham treasuri. Program buyback ini dijalankan berdasarkan Peraturan OJK Nomor 13 Tahun 2023 dan Surat Edaran OJK Nomor 10/D.04/2026, yaitu aturan yang memberi keleluasaan bagi perusahaan terbuka untuk membeli kembali sahamnya sendiri saat kondisi pasar modal berfluktuasi signifikan, tanpa melalui proses persetujuan pemegang saham yang biasanya lebih panjang."
+  ],
+  "fotoAdegan": "Workers in a mobile phone distribution warehouse packing smartphone boxes onto shelves, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi Erajaya karena perusahaan merealisasikan hampir seluruh anggaran buyback senilai Rp100 miliar, sinyal bahwa manajemen cukup yakin untuk menyerap kembali sahamnya sendiri di pasar selama tiga bulan terakhir. Aksi ini menyentuh dua pos yang biasa diawasi pelaku pasar, yaitu ekuitas dan jumlah saham beredar. Kas yang dipakai untuk membeli saham akan mengurangi ekuitas perusahaan, sementara saham yang ditarik ke treasuri (601,6 juta lembar) tidak lagi dihitung sebagai saham beredar, sehingga laba per lembar saham berpotensi terdilusi lebih kecil pembaginya alias bisa naik meski laba total tidak berubah. Yang perlu dipantau berikutnya adalah kelanjutan program ini, sebab sisa anggaran yang tercatat hanya Rp141,9 juta, sehingga tinggal menunggu apakah Erajaya mengumumkan program buyback baru atau memutuskan menghentikan pembelian di titik ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mglv-jadwalkan-rups-7-september-bahas-akuisisi-nextier",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Jadwalkan RUPS 7 September, Bahas [Akuisisi] Nextier",
+  "deck": "MGLV mengubah jadwal RUPSLB dan RUPS Independen ke 7 September 2026, dengan agenda rights issue, penjualan anak usaha, dan akuisisi dari pemegang saham utama Nextier.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:47:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff2c0ac24_60a9c62c5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "RUPS Independen",
+   "akuisisi Nextier",
+   "rights issue"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) mengumumkan perubahan jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dan RUPS Independen, merujuk pada surat sebelumnya bernomor 006/NexAI/Corsec/IX/2026 tertanggal 1 September 2026. Rapat akan digelar pada 7 September 2026 pukul 14.00 WIB di Function Hall Pacific Century Place, Lantai B1 Ruang B dan C, Jalan Jenderal Sudirman Kavling 52-53, Senayan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat pada recording date 11 Agustus 2026.",
+   "Dalam RUPSLB, agenda yang diajukan hanya satu, yaitu persetujuan pengangkatan kembali atau perubahan susunan Dewan Komisaris perseroan.",
+   "RUPS Independen membawa lima agenda yang lebih substansial. Pertama, perubahan Pasal 3 ayat 1 dan 2 anggaran dasar soal maksud, tujuan, dan kegiatan usaha perseroan, sehubungan dengan rencana perubahan lini bisnis sesuai POJK 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Kedua, rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) melalui penawaran umum terbatas sesuai POJK 32/2015. Ketiga, rencana penjualan anak usaha perseroan kepada pihak ketiga serta pengalihan aset dan liabilitas, yang dikategorikan sebagai transaksi material. Keempat, pengambilalihan saham PT Nextier Askara Center dan PT Nextier GenAI Center dari pemegang saham utama perseroan, PT Nextier Datamate Center, sekaligus pengalihan piutang Nextier Datamate Center terhadap kedua perusahaan tersebut, yang berstatus transaksi material sekaligus transaksi afiliasi sesuai POJK 42/2020. Kelima, persetujuan penerimaan pinjaman pemegang saham dari PT Nextier Datamate Center, yang juga berstatus transaksi material dan afiliasi."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a stage in a modern corporate event hall, soft morning light through tall windows",
+  "takeaway": "Agenda RUPS Independen ini condong netral untuk saat ini karena baru berstatus usulan yang menunggu keputusan pemegang saham, bukan transaksi yang sudah rampung, tetapi isinya penuh transaksi dengan pihak berelasi yang layak diawasi ketat. Tiga dari lima agenda, yaitu pengambilalihan saham Nextier Askara Center dan Nextier GenAI Center, pengalihan piutang, serta pinjaman pemegang saham, semuanya melibatkan Nextier Datamate Center yang juga pemegang saham utama MGLV, sehingga menyentuh ekuitas dan arus kas perseroan lewat transaksi yang berpotensi membenturkan kepentingan pengendali dengan pemegang saham publik. Agenda penambahan modal lewat rights issue turut berarti jumlah saham beredar akan bertambah, yang bisa menekan laba per saham pemegang lama jika mereka tidak ikut menyerap saham baru. Yang perlu dipantau adalah hasil pemungutan suara pada RUPS 7 September 2026, terutama apakah pemegang saham independen menyetujui rangkaian transaksi afiliasi tersebut, mengingat rapat ini sempat tertunda karena OJK meminta penjelasan tambahan atas rencana akuisisi Nextier.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Siapkan Buyback Saham [Rp300 Miliar] hingga Desember",
+  "deck": "Allo Bank Indonesia (BBHI) akan membeli kembali sahamnya sendiri senilai maksimal Rp300 miliar pada 3 September-2 Desember 2026 untuk menstabilkan harga di tengah pasar yang bergejolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:45:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d00973675_7fdad62f35.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBHI",
+  "tags": [
+   "BBHI",
+   "buyback saham",
+   "Allo Bank Indonesia",
+   "saham treasuri"
+  ],
+  "body": [
+   "PT Allo Bank Indonesia Tbk (BBHI) menyampaikan keterbukaan informasi bahwa perseroan berencana membeli kembali sahamnya sendiri yang beredar di Bursa Efek Indonesia. Program ini merujuk pada aturan OJK soal pembelian kembali saham dalam kondisi pasar yang berfluktuasi signifikan, sehingga bisa dilakukan tanpa persetujuan Rapat Umum Pemegang Saham (RUPS) terlebih dahulu. Pemberitahuan rencana ini disampaikan ke OJK dan Bursa Efek Indonesia pada 2 September 2026, dengan perkiraan periode pembelian berlangsung 3 September hingga 2 Desember 2026 melalui satu anggota bursa.",
+   "Dana yang disiapkan untuk buyback ini berasal dari saldo laba ditahan perseroan, dengan nilai maksimal Rp300 miliar atau setara 1,93 persen dari total aset perseroan per 30 Juni 2026. Perseroan tidak menetapkan batas harga pembelian secara spesifik, hanya menyebut akan membeli pada harga yang dianggap baik dan wajar oleh manajemen sesuai ketentuan yang berlaku. Saham yang dibeli kembali akan disimpan sebagai saham treasuri untuk jangka waktu yang diatur dalam POJK 29/2023.",
+   "Dalam proforma yang disertakan, jika seluruh dana Rp300 miliar terpakai, total aset perseroan turun dari Rp15,57 triliun menjadi Rp15,27 triliun, dan ekuitas turun dari Rp7,34 triliun menjadi Rp7,04 triliun per posisi 30 Juni 2026. Laba bersih diperkirakan turun dari Rp233,67 miliar menjadi Rp227,67 miliar akibat hilangnya potensi bunga dari dana yang dipakai untuk buyback, sehingga laba per saham turun tipis dari Rp21,51 menjadi Rp21,33. Rasio kecukupan modal (CAR) diperkirakan turun dari 66,35 persen menjadi sekitar 63,58 persen, sementara return on equity (ROE) justru naik dari 6,31 persen menjadi 6,41 persen. Surat ini ditandatangani Ari Yanuanto Asah selaku Pelaksana Tugas Direktur Utama, dengan Corporate Secretary Stacey Aryadi Suryoputro sebagai pengirim laporan ke OJK dan BEI."
+  ],
+  "fotoAdegan": "Modern glass bank tower in a busy Jakarta financial district, street-level view during golden hour, no signage visible",
+  "takeaway": "Laporan ini netral bagi fundamental BBHI, karena skalanya kecil, hanya 1,93 persen dari total aset, dan dibiayai dari kas internal tanpa menambah utang. Yang tersentuh langsung adalah ekuitas dan rasio kecukupan modal atau CAR, yaitu ukuran seberapa besar bantalan modal bank dibanding risiko kreditnya, yang menurut proyeksi perseroan turun dari 66,35 persen ke 63,58 persen namun masih jauh di atas batas minimum yang diwajibkan regulator. Laba per saham juga tergerus tipis karena bank kehilangan potensi bunga dari kas yang dipakai membeli sahamnya sendiri, meski menurut hitungan perseroan efeknya tidak material terhadap kinerja keseluruhan. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 3 September sampai 2 Desember 2026, yakni berapa dari Rp300 miliar yang benar-benar terpakai dan bagaimana pergerakan harga saham BBHI selama program ini berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dyan-ungkap-pembelian-saham-oleh-pemegang-saham-mondial",
+  "category": "Aksi Korporasi",
+  "title": "DYAN Ungkap Pembelian Saham oleh Pemegang Saham [Mondial]",
+  "deck": "DYAN menjelaskan ke BEI bahwa lonjakan transaksi sahamnya terkait pembelian oleh pemegang saham di atas 5%, PT Mondial Investama Indonesia, pada 31 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:13:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4841727199_5755314fef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DYAN",
+  "tags": [
+   "DYAN",
+   "Dyandra Media International",
+   "pemegang saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Dyandra Media International Tbk (DYAN) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11197/BEI.PP2/09-2026 tertanggal 1 September 2026 terkait volatilitas transaksi efek perseroan. Tanggapan ini dikirim pada 2 September 2026 pukul 17.12 WIB, ditandatangani oleh Corporate Secretary Mirna Gozal, dan ditujukan kepada Adi Pratomo Aryanto selaku Kepala Divisi Penilaian Perusahaan 2 BEI.",
+   "Dalam suratnya, manajemen menyatakan tidak ada informasi atau fakta material yang belum diungkapkan ke OJK, BEI, dan publik sesuai POJK Nomor 31/2015 maupun Peraturan BEI Nomor I-E. Namun perseroan mengakui baru mengetahui adanya transaksi pembelian saham DYAN pada 31 Agustus 2026 oleh PT Mondial Investama Indonesia, pemegang saham dengan kepemilikan di atas 5 persen. Perseroan menyebut sudah melaporkan perubahan kepemilikan tersebut melalui sistem AKSES KSEI pada hari yang sama dengan surat ini, 2 September 2026, sesuai kewajiban dalam POJK Nomor 4 Tahun 2024. Dokumen ini tidak mencantumkan jumlah lembar saham, harga, maupun persentase kepemilikan Mondial Investama sebelum dan sesudah transaksi.",
+   "Perseroan juga menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi material lain yang perlu diungkapkan kepada publik saat ini."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, pedestrians walking past at midday, soft reflections on the facade",
+  "takeaway": "Laporan ini netral bagi fundamental DYAN karena hanya mengonfirmasi adanya pembelian saham oleh pemegang saham besar, tanpa angka jumlah lembar, harga, atau perubahan persentase kepemilikan yang bisa dipakai menilai seberapa besar dampaknya. Yang tersentuh di sini adalah peta pemegang saham perseroan, sebab pembelian oleh pihak yang sudah menguasai lebih dari 5 persen saham bisa menggeser peta kendali dan hak suara, tapi tanpa rincian angka, pasar belum bisa menakar apakah ini penambahan kecil atau langkah menuju kendali yang lebih besar. Yang perlu dipantau berikutnya adalah laporan kepemilikan resmi PT Mondial Investama Indonesia di KSEI yang akan memuat detail jumlah dan persentase saham pasca transaksi 31 Agustus 2026, serta kemungkinan BEI meminta penjelasan lanjutan jika volatilitas transaksi saham DYAN berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-pzza-melonjak-11-48-persen-manajemen-beri-penjelasan",
+  "category": "Aksi Korporasi",
+  "title": "Saham PZZA Melonjak 11,48 Persen, Manajemen Beri [Penjelasan]",
+  "deck": "Sarimelati Kencana (PZZA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga sahamnya 11,48 persen pada 31 Agustus 2026 tidak dipicu informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T17:05:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/232a481934_29e93c924b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PZZA",
+  "tags": [
+   "PZZA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "Sarimelati Kencana"
+  ],
+  "body": [
+   "PT Sarimelati Kencana Tbk (PZZA), pemegang lisensi Pizza Hut di Indonesia, menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi sahamnya. Dalam surat bernomor S-11206/BEI.PP1/09-2026 tertanggal 1 September 2026, bursa mencatat bahwa pada 31 Agustus 2026 volume perdagangan saham PZZA melonjak menjadi 5.419.100 saham dengan frekuensi 301 kali transaksi, naik tajam dibandingkan hari bursa sebelumnya yang hanya 1.157.000 saham dengan 117 kali transaksi. Harga saham juga ditutup naik Rp21 atau 11,48 persen, dari Rp183 menjadi Rp204.",
+   "Menjawab enam pertanyaan standar yang diajukan bursa, Corporate Secretary PZZA Andromeda Tristanto menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta tidak memiliki rencana tindakan korporasi yang bisa memengaruhi status pencatatan sahamnya di bursa dalam tiga bulan ke depan.",
+   "Terkait rencana pemegang saham utama dan pengendali, perseroan menyampaikan bahwa berdasarkan informasi terbaru yang diterimanya, tidak ada rencana perubahan kepemilikan saham yang berdampak material terhadap struktur kepemilikan. Surat tanggapan ini ditandatangani pada 2 September 2026, sehari setelah surat permintaan penjelasan dari bursa diterbitkan."
+  ],
+  "fotoAdegan": "Cooks in a busy pizza restaurant kitchen sliding a fresh pizza out of a large oven, steam rising, evening rush hour",
+  "takeaway": "Tanggapan ini netral bagi fundamental Sarimelati Kencana karena isinya sebatas bantahan bahwa ada informasi material yang belum diungkap, tanpa angka baru soal kinerja atau aksi korporasi. Tak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, sebab lonjakan harga dan volume pada 31 Agustus lebih mencerminkan aktivitas jual beli di pasar sekunder ketimbang perubahan pada bisnis perseroan, dan pelaku pasar biasanya mencermati surat semacam ini untuk memastikan tidak ada kabar tersembunyi di balik pergerakan harga yang tak biasa. Yang perlu dipantau berikutnya adalah apakah harga saham PZZA kembali bergerak tak wajar dalam waktu dekat, karena pernyataan perseroan soal tidak adanya rencana aksi korporasi ini hanya berlaku sampai sekitar awal Desember 2026, tiga bulan sejak surat ini terbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "elsa-cetak-laba-bersih-rp435-miliar-di-semester-i-2026-naik-29-2",
+  "category": "Aksi Korporasi",
+  "title": "ELSA Cetak [Laba] Bersih Rp435 Miliar di Semester I 2026, Naik 29,2%",
+  "deck": "Elnusa menyampaikan materi public expose tahunan ke BEI, memuat kinerja keuangan semester I 2026 yang tumbuh di hampir semua pos utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:48:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32afa8e1bd_6fa49412cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Elnusa Tbk (ELSA) menyampaikan materi presentasi public expose tahunan kepada Bursa Efek Indonesia, merujuk pada surat sebelumnya tanggal 21 Agustus 2026 mengenai rencana penyelenggaraan acara tersebut. Perseroan menyatakan presentasi akan digelar secara virtual pada 7 September 2026 pukul 15.00 WIB, tergabung dalam rangkaian Public Expose Live 2026 yang diselenggarakan BEI. Surat pengantar dikirim oleh Sevy Liana, Manager Corporate Governance & BOD Support Elnusa, sementara materi presentasi turut mencantumkan nama Sekretaris Perusahaan Elnusa, Rustam Aji.",
+   "Materi yang dilampirkan memuat kinerja keuangan semester I 2026. Pendapatan Elnusa tercatat Rp7,58 triliun, naik 8,9 persen dibanding periode sama tahun sebelumnya. Laba bersih melonjak lebih tajam, yakni 29,2 persen menjadi Rp435 miliar, sementara EBITDA (laba sebelum bunga, pajak, dan penyusutan, ukuran kasar kemampuan bisnis inti menghasilkan uang) naik 16,2 persen menjadi Rp862 miliar. Total aset perusahaan tercatat Rp11,40 triliun, naik 8,1 persen, dengan kas dan setara kas Rp2,88 triliun, relatif stabil dengan kenaikan tipis 1 persen dibanding tahun lalu.",
+   "Dari sisi kontrak, Elnusa membukukan kontrak baru senilai total sekitar Rp11,6 triliun sepanjang semester I 2026 di tiga lini bisnis, sehingga nilai kontrak yang masih akan dikerjakan (carry forward) mencapai Rp18,8 triliun per akhir Juni 2026. Realisasi belanja modal (capex) baru mencapai sekitar 35 persen dari target tahun ini sebesar Rp602 miliar, dialokasikan antara lain untuk unit navigasi survei seismik, unit coiled tubing, dan armada truk tangki bahan bakar. Materi itu juga mencantumkan riwayat dividen per saham empat tahun terakhir, dari Rp25,90 pada 2022 menjadi Rp44,29 pada 2025, dengan rasio pembayaran dividen naik dari 40 persen menjadi 45 persen dari laba bersih."
+  ],
+  "fotoAdegan": "Oilfield service technicians in coveralls inspecting a wireline logging unit at an onshore drilling site, daylight",
+  "takeaway": "Laporan ini condong positif bagi Elnusa karena pertumbuhan terjadi merata di hampir semua pos utama, dengan laba bersih tumbuh jauh lebih cepat dibanding pendapatan, tanda efisiensi biaya turut mendongkrak hasil akhir, bukan sekadar kenaikan volume bisnis. Yang perlu dicermati adalah arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar masuk dari bisnis inti, yang naik 16 persen menjadi Rp761 miliar, karena angka ini menunjukkan kualitas laba yang didukung uang riil, bukan sekadar pencatatan akuntansi. Nilai kontrak yang masih harus dikerjakan sebesar Rp18,8 triliun juga memberi gambaran pendapatan yang relatif terjaga untuk beberapa waktu ke depan. Yang perlu dipantau selanjutnya adalah paparan publik virtual pada 7 September 2026 pukul 15.00 WIB, di mana manajemen biasanya membuka sesi tanya jawab dengan investor, serta kelanjutan realisasi belanja modal yang baru mencapai 35 persen dari target tahunan hingga pertengahan tahun.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "zp-bank-maybank-indonesia-kuasai-41-32-saham-maybank-sekuritas",
+  "category": "Aksi Korporasi",
+  "title": "ZP: Bank Maybank Indonesia Kuasai [41,32%] Saham Maybank Sekuritas",
+  "deck": "PT Maybank Sekuritas Indonesia (ZP) rampungkan pengambilalihan saham dengan suntikan modal Rp219,66 miliar, menjadikan PT Bank Maybank Indonesia Tbk pemegang saham berporsi 41,32%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:46:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed2786b837_b086e606d4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas Indonesia",
+   "waran terstruktur",
+   "akuisisi saham"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit waran terstruktur berkode ZP, mengumumkan bahwa proses pengambilalihan sahamnya oleh PT Bank Maybank Indonesia Tbk telah rampung. Berdasarkan Akta Pernyataan Keputusan Pemegang Saham Nomor 17 tanggal 4 Agustus 2026 yang dibuat di hadapan notaris Aulia Taufani, S.H. di Jakarta Selatan, dan telah disetujui Kementerian Hukum Republik Indonesia pada 18 Agustus 2026, transaksi ini terdiri dari dua bagian. Pertama, pengalihan 36.367.000 saham yang sudah beredar dari Maybank IBG Holdings Limited kepada PT Bank Maybank Indonesia Tbk. Kedua, penerbitan dan pengambilan bagian atas 219.660.000 saham baru oleh perseroan.",
+   "Dengan penambahan 219.660.000 saham baru itu, modal ditempatkan dan disetor Maybank Sekuritas Indonesia naik dari sekitar Rp400 miliar menjadi Rp619,66 miliar, atau bertambah Rp219,66 miliar. Modal dasar perseroan tercatat Rp1 triliun yang terbagi atas 1 miliar saham dengan nilai nominal Rp1.000 per saham. Susunan pemegang saham setelah transaksi ini adalah Maybank IBG Holdings Limited dengan 303.633.000 saham atau 49,00 persen, PT Bank Maybank Indonesia Tbk dengan 256.027.000 saham atau 41,32 persen, dan PT Maybank Indonesia Finance dengan 60.000.000 saham atau 9,68 persen, dari total 619.660.000 saham.",
+   "Pembaruan ini merupakan revisi atas Prospektus Waran Terstruktur Perseroan tertanggal 11 April 2026, sesuai kewajiban Peraturan OJK Nomor 8/POJK.04/2021 tentang Waran Terstruktur dan Keputusan Direksi Bursa Efek Indonesia Nomor Kep-00088/BEI/12-2025. Pengumuman ini ditujukan kepada pemegang waran terstruktur seri ZP karena perubahan pemegang saham dan struktur permodalan penerbit termasuk informasi wajib yang harus mereka ketahui."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, morning light, pedestrians and cars passing below.",
+  "takeaway": "Restrukturisasi ini condong positif bagi Maybank Sekuritas Indonesia, karena bukan sekadar pengalihan kepemilikan internal, melainkan disertai suntikan modal baru sekitar Rp219,66 miliar dari pemegang sahamnya. Pos yang tersentuh di sini adalah ekuitas atau modal disetor perusahaan, yang berfungsi sebagai bantalan keuangan penerbit waran untuk menutup kewajibannya saat waran jatuh tempo, sehingga modal yang lebih tebal berarti daya tahan yang lebih kuat. Perubahan ini juga membuat PT Bank Maybank Indonesia Tbk resmi menjadi pemegang saham langsung dengan porsi 41,32 persen, mempererat keterkaitan antara bank dan unit sekuritasnya di Indonesia. Yang perlu dipantau berikutnya adalah bagaimana penambahan modal ini tercermin pada laporan keuangan Maybank Sekuritas Indonesia mendatang serta kapasitas penerbitan seri waran terstrukturnya, sebab dokumen ini sendiri tidak mencantumkan agenda atau tenggat lanjutan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptba-paparkan-progres-proyek-rel-tanjung-enim-keramasan-93",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Paparkan Progres Proyek [Rel] Tanjung Enim-Keramasan 93%",
+  "deck": "Materi public expose tahunan PTBA memuat progres proyek rel Tanjung Enim-Keramasan 93,45%, ekspansi pelabuhan, dan proyek hilirisasi batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:42:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4d14ec5d1_27e91adf70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "Public Expose",
+   "hilirisasi batu bara"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) menyampaikan Materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat bernomor B/803/111000/KS.03/IX/2026 tertanggal 2 September 2026. Penyampaian ini merupakan tindak lanjut dari rencana public expose yang sudah diberitahukan PTBA sejak 21 Agustus 2026, dan materinya akan dipaparkan bersamaan dengan acara Public Expose Live 2026 yang digelar BEI. Dokumen ditandatangani secara elektronik oleh Eko Prayitno, Corporate Secretary Division Head PTBA.",
+   "Materi tersebut memuat kinerja operasional semester I 2026. Produksi batu bara PTBA tercatat 19,45 juta ton, turun 10 persen dibanding periode sama tahun lalu akibat curah hujan tinggi pada kuartal pertama, namun melonjak 94 persen secara kuartalan pada kuartal kedua seiring pemulihan operasi. Nisbah kupas, yaitu volume tanah yang harus dipindahkan untuk mengambil satu ton batu bara, membaik dari 6,17 kali menjadi 5,26 kali, sudah lebih baik dari target perusahaan sepanjang 2026 sebesar 5,63 kali. Penjualan tercatat 21,10 juta ton, sementara pendapatan naik 8 persen menjadi Rp22,03 triliun didorong kenaikan harga jual rata-rata batu bara acuan ICI-3 sebesar 15 persen dan indeks NCI sebesar 25 persen secara tahunan.",
+   "Dari sisi pasar ekspor, lima negara tujuan penjualan terbesar PTBA pada semester I 2026 adalah Vietnam sebesar 12 persen, Bangladesh 10 persen, India 7 persen, Kamboja 6 persen dari total penjualan, sementara sisanya sebesar 51 persen tersebar ke Thailand, Korea Selatan, China, Malaysia, Filipina, Taiwan, Pakistan, dan Jepang. Secara komposisi, penjualan ekspor menyumbang 49 persen dari total penjualan, disusul penjualan domestik ke PLN 37 persen, penjualan domestik mulut tambang 9 persen, dan penjualan domestik lainnya 5 persen. PTBA menyebut tengah menjajaki perluasan pangsa pasar seiring perbaikan harga batu bara, dengan Pakistan disebut sebagai salah satu pasar baru yang dibidik.",
+   "Untuk proyek strategis, PTBA melaporkan progres pembangunan jalur kereta api angkutan batu bara Tanjung Enim-Keramasan sepanjang 158 kilometer dengan kapasitas 20 juta ton per tahun sudah mencapai 93,45 persen per akhir Juli 2026, digarap bersama PT KAI dan PT Kereta Api Logistik, dengan target beroperasi pada semester kedua 2026. Perusahaan juga akan menambah kapasitas Pelabuhan Tarahan dari 27,5 juta ton menjadi 28,0 juta ton dan Pelabuhan Kertapati dari 8,0 juta ton menjadi 15,3 juta ton per tahun. Di sisi hilirisasi, PTBA menargetkan proyek batu bara menjadi gas alam sintetis berkapasitas 6,9 juta ton batu bara per tahun beroperasi pada kuartal IV 2030 bersama Danantara dan Pertamina, serta proyek batu bara menjadi dimetil eter berkapasitas 9,78 juta ton batu bara per tahun ditargetkan beroperasi pada kuartal I 2032 bersama Pertamina Gas Negara. Proyek ekstraksi batu bara kalori rendah menjadi kalium humat untuk mendukung sektor pertanian ditargetkan berproduksi 173 ton per tahun pada fase pertama tahun 2026 dan meningkat menjadi 10.000 ton per tahun pada fase kedua tahun 2028, bekerja sama dengan Universitas Gadjah Mada."
+  ],
+  "fotoAdegan": "A freight train loaded with coal wagons crossing rural terrain near a coal stockpile, workers in high-visibility vests, overcast sky",
+  "takeaway": "Materi ini condong positif bagi PTBA karena menunjukkan pemulihan produksi yang cepat pada kuartal kedua serta efisiensi tambang yang sudah melampaui target tahunan, di luar kenaikan laba yang sudah dilaporkan sebelumnya. Nisbah kupas, yaitu perbandingan volume tanah yang harus dipindahkan untuk mendapatkan satu ton batu bara, turun dari 6,17 kali menjadi 5,26 kali dan sudah lebih baik dari target akhir tahun 5,63 kali, artinya PTBA mengeluarkan lebih sedikit biaya operasional untuk jumlah batu bara yang sama. EBITDA, yaitu laba operasional sebelum dipotong bunga, pajak, depresiasi, dan amortisasi, melonjak 94 persen menjadi Rp4,27 triliun, menandakan kas dari kegiatan inti perusahaan menebal signifikan. Yang perlu dipantau berikutnya adalah penyelesaian jalur kereta Tanjung Enim-Keramasan yang progresnya sudah 93,45 persen per akhir Juli 2026 dan ditargetkan beroperasi semester kedua 2026, karena jalur ini akan menambah kapasitas angkutan batu bara 20 juta ton per tahun begitu rampung.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
   "category": "Bisnis",
   "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",

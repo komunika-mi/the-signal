@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rampungkan [Buyback] Rp99,86 Miliar, Treasuri 601,6 Juta Saham",
+  "deck": "Erajaya Swasembada merampungkan pembelian kembali 236,27 juta saham senilai Rp99,86 miliar per 2 September 2026, hampir menghabiskan anggaran buyback Rp100 miliar.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "Erajaya Swasembada",
+   "saham treasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a918bbd1dc_bbfbe20696.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-jadwalkan-rups-7-september-bahas-akuisisi-nextier",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Jadwalkan RUPS 7 September, Bahas [Akuisisi] Nextier",
+  "deck": "MGLV mengubah jadwal RUPSLB dan RUPS Independen ke 7 September 2026, dengan agenda rights issue, penjualan anak usaha, dan akuisisi dari pemegang saham utama Nextier.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "RUPS Independen",
+   "akuisisi Nextier",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff2c0ac24_60a9c62c5c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "BBHI Siapkan Buyback Saham [Rp300 Miliar] hingga Desember",
+  "deck": "Allo Bank Indonesia (BBHI) akan membeli kembali sahamnya sendiri senilai maksimal Rp300 miliar pada 3 September-2 Desember 2026 untuk menstabilkan harga di tengah pasar yang bergejolak.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBHI",
+   "buyback saham",
+   "Allo Bank Indonesia",
+   "saham treasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d00973675_7fdad62f35.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dyan-ungkap-pembelian-saham-oleh-pemegang-saham-mondial",
+  "category": "Aksi Korporasi",
+  "title": "DYAN Ungkap Pembelian Saham oleh Pemegang Saham [Mondial]",
+  "deck": "DYAN menjelaskan ke BEI bahwa lonjakan transaksi sahamnya terkait pembelian oleh pemegang saham di atas 5%, PT Mondial Investama Indonesia, pada 31 Agustus 2026.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DYAN",
+   "Dyandra Media International",
+   "pemegang saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4841727199_5755314fef.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-pzza-melonjak-11-48-persen-manajemen-beri-penjelasan",
+  "category": "Aksi Korporasi",
+  "title": "Saham PZZA Melonjak 11,48 Persen, Manajemen Beri [Penjelasan]",
+  "deck": "Sarimelati Kencana (PZZA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga sahamnya 11,48 persen pada 31 Agustus 2026 tidak dipicu informasi material yang belum diungkap ke publik.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PZZA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "Sarimelati Kencana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/232a481934_29e93c924b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "elsa-cetak-laba-bersih-rp435-miliar-di-semester-i-2026-naik-29-2",
+  "category": "Aksi Korporasi",
+  "title": "ELSA Cetak [Laba] Bersih Rp435 Miliar di Semester I 2026, Naik 29,2%",
+  "deck": "Elnusa menyampaikan materi public expose tahunan ke BEI, memuat kinerja keuangan semester I 2026 yang tumbuh di hampir semua pos utama.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32afa8e1bd_6fa49412cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-bank-maybank-indonesia-kuasai-41-32-saham-maybank-sekuritas",
+  "category": "Aksi Korporasi",
+  "title": "ZP: Bank Maybank Indonesia Kuasai [41,32%] Saham Maybank Sekuritas",
+  "deck": "PT Maybank Sekuritas Indonesia (ZP) rampungkan pengambilalihan saham dengan suntikan modal Rp219,66 miliar, menjadikan PT Bank Maybank Indonesia Tbk pemegang saham berporsi 41,32%.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas Indonesia",
+   "waran terstruktur",
+   "akuisisi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed2786b837_b086e606d4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptba-paparkan-progres-proyek-rel-tanjung-enim-keramasan-93",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Paparkan Progres Proyek [Rel] Tanjung Enim-Keramasan 93%",
+  "deck": "Materi public expose tahunan PTBA memuat progres proyek rel Tanjung Enim-Keramasan 93,45%, ekspansi pelabuhan, dan proyek hilirisasi batu bara.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "Public Expose",
+   "hilirisasi batu bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4d14ec5d1_27e91adf70.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
   "category": "Bisnis",
   "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
@@ -6405,134 +6533,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22082026-7519-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kuki-ungkap-transaksi-material-senilai-213-130-tanpa-rups",
-  "category": "Aksi Korporasi",
-  "title": "KUKI Ungkap Transaksi [Material] Senilai 213.130 Tanpa RUPS",
-  "deck": "KUKI melaporkan transaksi material senilai 213.130, setara 25 persen ekuitas perusahaan, untuk objek gedung, tanpa memerlukan persetujuan RUPS.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/kuki-ungkap-transaksi-material-senilai-213-130-tanpa-rups.jpg",
-  "tags": [
-   "KUKI",
-   "transaksi material",
-   "keterbukaan informasi",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_KUKI_E025B_c74994e7-b794-45fd-ae77-070735b5ce3a-20260822161903.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xiif-bagikan-dividen-tunai-kik-simak-jadwalnya",
-  "category": "Aksi Korporasi",
-  "title": "XIIF Bagikan Dividen Tunai KIK, Simak [Jadwalnya]",
-  "deck": "KIK XIIF membagikan dividen tunai paling banyak Rp123.978, dengan dividen per unit penyertaan hingga Rp81.726. Pembayaran dijadwalkan 27 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/xiif-bagikan-dividen-tunai-kik-simak-jadwalnya.jpg",
-  "tags": [
-   "XIIF",
-   "dividen",
-   "KIK",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_XIIF_E045_7fbcfa2f-a12f-42b8-b976-c71982e7b2bf-20260822153955.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-pecah-saham-rasio-1-4-lewat-stock-split",
-  "category": "Aksi Korporasi",
-  "title": "AADI Pecah Saham Rasio 1:4 lewat [Stock Split]",
-  "deck": "RUPS AADI menyetujui pemecahan saham rasio 1:4, jumlah saham beredar naik dari 9.283 menjadi 182.973 lembar. BEI sudah beri persetujuan prinsip pada 22 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-pecah-saham-rasio-1-4-lewat-stock-split.jpg",
-  "tags": [
-   "AADI",
-   "stock split",
-   "pemecahan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X3_7880c9f5-584f-4ccb-8d9d-6853cfccbc44-20260822152357.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-lakukan-reverse-stock-dengan-rasio-2-43",
-  "category": "Aksi Korporasi",
-  "title": "AADI Lakukan [Reverse Stock] dengan Rasio 2:43",
-  "deck": "PT Adaro Andalan Indonesia Tbk (AADI) menggabungkan sahamnya dengan rasio 2:43, mengubah nilai nominal dan jumlah saham beredar mulai 23 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-lakukan-reverse-stock-dengan-rasio-2-43.jpg",
-  "tags": [
-   "AADI",
-   "reverse stock",
-   "aksi korporasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X3_ad85a90b-9ccd-4d05-9534-a765dea22f66-20260822152211.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rups-aadi-setujui-penambahan-modal-lewat-hmetd",
-  "category": "Aksi Korporasi",
-  "title": "RUPS AADI Setujui Penambahan Modal Lewat [HMETD]",
-  "deck": "RUPS AADI menyetujui penambahan modal dengan skema HMETD rasio 1:23 seharga Rp91.823 per saham, disertai penerbitan waran dan obligasi konversi.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/rups-aadi-setujui-penambahan-modal-lewat-hmetd.jpg",
-  "tags": [
-   "AADI",
-   "HMETD",
-   "rights issue",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X3_bf9bc64f-b786-4a83-b33d-daca2564805a-20260822152112.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-bagikan-dividen-saham-rasio-1-10-rups-24-agustus",
-  "category": "Aksi Korporasi",
-  "title": "AADI Bagikan [Dividen Saham] Rasio 1:10, RUPS 24 Agustus",
-  "deck": "AADI mengumumkan rencana dividen saham tahun buku 2026 dengan rasio 1 banding 10, total 1.239.879 saham baru, menanti persetujuan RUPS pada 24 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-bagikan-dividen-saham-rasio-1-10-rups-24-agustus.jpg",
-  "tags": [
-   "AADI",
-   "dividen saham",
-   "RUPS",
-   "Adaro Andalan Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X3_5fe97756-b11a-4f7e-a491-dc2f7cc94f10-20260822151202.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-rombak-direksi-komisaris-rups-setujui-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "AADI Rombak Direksi-Komisaris, RUPS Setujui [PMTHMETD]",
-  "deck": "RUPS AADI 11 Agustus 2026 menyetujui pergantian seluruh direksi dan komisaris serta rencana penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-rombak-direksi-komisaris-rups-setujui-pmthmetd.jpg",
-  "tags": [
-   "AADI",
-   "RUPS",
-   "PMTHMETD",
-   "pergantian direksi-komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E013_8e98e557-4bf7-432e-a5d4-db5e99a0c0cf-20260822151017.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-siapkan-penambahan-modal-lewat-hmetd-rups-besok",
-  "category": "Aksi Korporasi",
-  "title": "AADI Siapkan Penambahan Modal Lewat [HMETD], RUPS Besok",
-  "deck": "AADI mengumumkan rencana penambahan modal dengan HMETD, RUPS digelar 23 Agustus 2026 dan keterbukaan informasi lengkap menyusul sehari kemudian.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-siapkan-penambahan-modal-lewat-hmetd-rups-besok.jpg",
-  "tags": [
-   "AADI",
-   "HMETD",
-   "penambahan modal",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X1_81f73bc6-4ec6-43f0-9053-7b788e002d2e-20260822150501.pdf",
   "sourceLabel": "IDX"
  }
 ];

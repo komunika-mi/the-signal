@@ -877,6 +877,32 @@ var ARTICLES = [
   "imageV": "mtir86i4"
  },
  {
+  "slug": "dooh-koreksi-laporan-realisasi-dana-ipo-sisa-rp41-8-m",
+  "category": "Aksi Korporasi",
+  "title": "DOOH [Koreksi] Laporan Realisasi Dana IPO, Sisa Rp41,8 M",
+  "deck": "Era Media Sejahtera mengoreksi laporan realisasi dana IPO 2023: Rp110,85 miliar sudah terpakai, Rp41,77 miliar masih mengendap di giro Bank DKI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T16:51:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7b9b5ece7_6565396f73.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "IPO",
+   "penggunaan dana",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil penawaran umum yang sebelumnya dikirim pada 16 Juli 2026. Surat koreksi bernomor 025/CORSEC/EMS/LRPD/IX/2026 ini ditandatangani Direktur Utama Vicktor Aritonang dan Direktur Devi Nisa Suhartono. Dana berasal dari IPO saham perdana pada 28 April 2023 sebanyak 1.547.500.000 lembar saham, nilai nominal Rp10 per saham, dilepas pada harga pelaksanaan Rp100 per saham, sehingga total dana terkumpul Rp154,75 miliar. Setelah dipotong biaya penawaran umum Rp2,13 miliar, hasil bersih yang diterima perseroan adalah Rp152,62 miliar.",
+   "Sesuai prospektus, dana tersebut direncanakan dipakai untuk belanja modal perseroan sebesar Rp12,99 miliar atau 8,5 persen, dan sisanya Rp139,63 miliar atau 91,5 persen untuk modal kerja. Per 31 Desember 2025, realisasi belanja modal sudah mencapai Rp12,99 miliar, sama persis dengan rencana awal, atau setara 11,72 persen dari total dana yang sudah dipakai. Modal kerja sudah terealisasi Rp97,86 miliar atau 88,28 persen dari total realisasi, sehingga total dana yang sudah digunakan perseroan mencapai Rp110,85 miliar.",
+   "Dengan demikian masih ada sisa dana Rp41,77 miliar yang belum digunakan per 31 Desember 2025. Dana ini ditempatkan dalam bentuk giro di PT Bank DKI dengan bunga 0,25 persen, jangka waktu penempatan satu bulan yang diperpanjang otomatis atau rollover, baik untuk pokok maupun bunganya. Bank DKI disebutkan sebagai pihak ketiga tanpa hubungan afiliasi dengan perseroan."
+  ],
+  "fotoAdegan": "Technicians on a lift installing a large digital billboard frame on a Jakarta building facade, street traffic below, daytime",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental DOOH, sebab isinya sekadar pembaruan rutin soal progres pemakaian dana IPO tanpa kabar baru yang mengubah gambaran bisnis perseroan. Yang tersentuh adalah arus kas dan modal kerja, karena dana Rp41,77 miliar yang masih mengendap di giro bank belum ikut membiayai operasional atau ekspansi perseroan, sementara jatah belanja modal sudah terserap penuh sesuai rencana sejak awal. Perlu dicatat ini adalah versi koreksi dari laporan yang sama yang pernah dikirim 16 Juli 2026, namun dokumen tidak merinci apa yang berubah dari versi sebelumnya. Pemegang saham sebaiknya memantau laporan realisasi dana berikutnya, karena sesuai POJK 30/2015 perseroan wajib terus melaporkan progres pemakaian sisa dana sampai seluruhnya terserap untuk modal kerja dan belanja modal.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
   "category": "Pasar Modal",
   "title": "IHSG [Naik] 1,14% ke 6.599,94, Ditopang Energi-Teknologi",
@@ -902,6 +928,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Data yang tersedia hanya mencatat angka pergerakan harian tanpa menjelaskan pemicu di balik lonjakan sektor perindustrian, teknologi, dan energi, entah itu aksi beli spekulatif, sentimen dari luar negeri, atau kabar dari emiten tertentu. Yang jelas terdampak langsung adalah investor yang memegang saham di tiga sektor tersebut, karena kenaikannya jauh di atas rata-rata pasar, sementara pemegang saham di sektor barang baku dan infrastruktur menghadapi pelemahan tipis. Untuk membaca apakah penguatan 1,14 persen ini awal dari tren atau sekadar lonjakan satu hari, perlu dilihat apakah sektor energi dan teknologi tetap menguat pada perdagangan berikutnya, karena itu akan menunjukkan apakah ada faktor pendorong yang bertahan atau cuma reli sesaat.",
   "imageV": "mtir86y7"
+ },
+ {
+  "slug": "luck-gelar-rupslb-alihkan-saham-investor-asing-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Gelar RUPSLB, [Alihkan] Saham Investor Asing ke Publik",
+  "deck": "Sentral Mitra Informatika memanggil RUPSLB pada 23 September 2026 untuk mengubah anggaran dasar sesuai KBLI 2025 dan menegaskan status kepemilikan Serial System Internasional Pte Ltd menjadi milik publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T16:35:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ced4b0c9c6_6cbdf5473c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LUCK",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Sentral Mitra Informatika",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Sentral Mitra Informatika Tbk (LUCK) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 23 September 2026, pukul 10.00 WIB, di kantor Perseroan, Graha Mas Fatmawati Blok A No. 27-29, Jalan RS Fatmawati No. 71, Kebayoran Baru, Jakarta Selatan. Pemanggilan ini sekaligus berlaku sebagai undangan resmi karena Perseroan tidak mengirimkan undangan terpisah kepada pemegang saham.",
+   "Rapat membawa dua agenda. Agenda pertama adalah perubahan Pasal 3 Anggaran Dasar Perseroan, yaitu menyesuaikan kode klasifikasi bidang usaha atau KBLI yang selama ini masih memakai versi tahun 2017 menjadi versi terbaru tahun 2025.",
+   "Agenda kedua adalah penegasan ulang susunan pemegang saham Perseroan. Dalam dokumen pemanggilan disebutkan, karena LUCK berstatus sebagai perusahaan penanaman modal dalam negeri (PMDN), nama Serial System Internasional Pte Ltd yang selama ini tercatat dalam susunan kepemilikan saham harus dialihkan pencatatannya menjadi kategori Masyarakat, sebab kepemilikan Serial System Internasional Pte Ltd di LUCK sifatnya hanya sebagai investor, bukan pemegang saham yang memenuhi syarat sebagai entitas asing dalam struktur PMDN.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Bursa Efek Indonesia pada Senin, 31 Agustus 2026. Bahan rapat tersedia di kantor Perseroan sejak 1 September hingga 23 September 2026. Pemegang saham bisa hadir secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu pemberian kuasa atau suara elektronik paling lambat pukul 12.00 WIB pada satu hari kerja sebelum rapat, yaitu 22 September 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a modern Jakarta office meeting hall, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi LUCK, karena isinya adalah langkah administratif tata kelola, penyesuaian klasifikasi usaha ke KBLI 2025 dan pembenahan catatan kepemilikan saham, bukan transaksi jual beli saham dengan nilai tertentu. Tidak ada pos kinerja keuangan yang tersentuh di sini, jumlah saham beredar tidak berubah dan laba per saham tidak terdilusi, karena yang terjadi hanya reklasifikasi status pencatatan pemegang saham dari nama Serial System Internasional Pte Ltd menjadi kategori Masyarakat, bukan pengalihan kepemilikan lewat jual beli. Yang perlu dipantau adalah hasil RUPSLB pada 23 September 2026, khususnya apakah kedua agenda disetujui, serta batas waktu pemberian suara elektronik pada 22 September 2026 pukul 12.00 WIB bagi pemegang saham yang ingin ikut menentukan keputusan tanpa hadir fisik.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "intp-wakil-direktur-utama-baru-resmi-menjabat",
+  "category": "Aksi Korporasi",
+  "title": "INTP: [Wakil Direktur Utama] Baru Resmi Menjabat",
+  "deck": "Jose Maria Magrina Vadillo resmi menjabat Wakil Direktur Utama Indocement sejak 1 September 2026, merealisasikan keputusan RUPST Mei lalu, dengan masa jabatan hingga 2029.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T15:59:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4efd462111_55063f81f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTP",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "Direksi",
+   "Wakil Direktur Utama"
+  ],
+  "body": [
+   "PT Indocement Tunggal Prakarsa Tbk mengumumkan bahwa Jose Maria Magrina Vadillo efektif menjabat sebagai Wakil Direktur Utama perseroan terhitung sejak 1 September 2026. Masa jabatannya berlangsung hingga penutupan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku 2028, yang akan digelar pada 2029. Perseroan menyatakan penunjukan ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha.",
+   "Penunjukan ini merupakan realisasi dari keputusan RUPST yang digelar 21 Mei 2026 dan telah diumumkan sejak 22 Mei 2026, khususnya mata acara keempat soal perubahan susunan pengurus perseroan. Saat RUPST berlangsung, susunan Direksi yang hadir masih terdiri dari Direktur Utama Christian Kartawijaya bersama Direktur Hasan Imer, Troy Dartojo Soputro, Oey Marcos, Holger Mørch, dan Sunnira Ly, tanpa Jose Maria Magrina Vadillo. Posisi Wakil Direktur Utama yang kini diisinya baru berlaku efektif empat bulan setelah RUPST tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a large cement plant with tall kiln towers and conveyor belts, morning haze over the industrial complex, workers in hard hats",
+  "takeaway": "Laporan ini netral bagi Indocement karena hanya merealisasikan keputusan yang sudah disetujui pemegang saham sejak RUPST Mei lalu, bukan perubahan mendadak yang mengubah arah bisnis perseroan. Pergantian atau penambahan pos direksi seperti ini tetap dipantau pasar karena pemimpin baru bisa memengaruhi kecepatan eksekusi strategi perusahaan, meski tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas. Perseroan sendiri menegaskan tidak ada dampak terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat penunjukan ini. Yang perlu dipantau selanjutnya adalah kinerja Jose Maria Magrina Vadillo selama masa jabatannya, yang baru berakhir pada penutupan RUPST tahun buku 2028 yang akan digelar tahun 2029.",
+  "sentimen": "netral"
  },
  {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
@@ -1063,6 +1141,32 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Kenaikan harga 0,21% ini berarti biaya belanja bulanan sedikit lebih mahal dibanding Juli, meski masih lebih rendah dibanding kenaikan pada Maret hingga Juni.",
   "bpsIndikator": "inflasi"
+ },
+ {
+  "slug": "ipcm-panggil-rupslb-agendakan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "IPCM Panggil RUPSLB, Agendakan [Perubahan] Direksi",
+  "deck": "RUPSLB IPCM digelar 23 September 2026, bahas perubahan anggaran dasar, penetapan remunerasi pengurus, dan perubahan susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T15:51:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d104a2caa7_7b97361d9e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCM",
+  "tags": [
+   "IPCM",
+   "RUPSLB",
+   "Jasa Armada Indonesia",
+   "Pelindo"
+  ],
+  "body": [
+   "PT Jasa Armada Indonesia Tbk (IPCM) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 23 September 2026 pukul 16.00 WIB di Museum Maritim Indonesia Lantai 2, Jalan Raya Pelabuhan No. 9, Tanjung Priok, Jakarta Utara. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 31 Agustus 2026 pukul 16.00 WIB. Surat pemanggilan bernomor SK.03/1/9/4/KGC/SPR/JAI-26 ini ditandatangani Sekretaris Perusahaan Eddy Haristiani pada 1 September 2026.",
+   "Ada tiga agenda dalam rapat ini. Pertama, perubahan dan pernyataan kembali Anggaran Dasar Perseroan, yang menurut penjelasan perusahaan dilakukan dalam rangka standardisasi Anggaran Dasar yang tengah dijalankan oleh PT Pelabuhan Indonesia (Persero) selaku induk usaha. Kedua, penetapan gaji, honorarium, dan tantiem atau bonus kinerja, berikut fasilitas dan tunjangan untuk tahun buku 2026, serta remunerasi atas kinerja tahun buku 2025 bagi direksi dan komisaris, sesuai Pasal 16 ayat 17 dan Pasal 19 ayat 19 Anggaran Dasar serta Pasal 96 dan 113 UU Perseroan Terbatas. Ketiga, perubahan susunan pengurus perseroan, yakni jajaran direksi dan/atau komisaris, sesuai Pasal 16 ayat 10 dan 13 Anggaran Dasar juncto Pasal 3 POJK 33/2014 tentang Direksi dan Dewan Komisaris Emiten. Dokumen tidak menyebutkan nama calon pengurus baru.",
+   "Perseroan menyediakan tiga cara bagi pemegang saham untuk berpartisipasi: hadir elektronik lewat Aplikasi eASY.KSEI, hadir fisik di lokasi rapat, atau memberi kuasa. Pemberian kuasa elektronik (e-proxy) kepada PT EDI Indonesia selaku Biro Administrasi Efek dapat dilakukan sejak tanggal pemanggilan sampai 22 September 2026 pukul 12.00 WIB melalui sistem eASY.KSEI, sedangkan e-voting dilakukan lewat sistem AKSes.KSEI. Bagi yang memakai surat kuasa fisik, dokumen asli wajib diterima PT EDI Indonesia di Wisma SMR Lantai 10, Jalan Yos Sudarso Kav. 89, Jakarta, paling lambat 18 September 2026, atau tiga hari kerja sebelum rapat. Registrasi pemegang saham yang hadir fisik di lokasi rapat dibuka mulai pukul 09.00 WIB pada hari pelaksanaan."
+  ],
+  "fotoAdegan": "Tugboats and pilot vessels docked at a busy Indonesian port terminal, cranes in the background, early morning light",
+  "takeaway": "Laporan ini netral bagi kinerja fundamental IPCM, sebab isinya murni prosedur tata kelola menjelang RUPSLB tanpa ada angka transaksi keuangan baru yang diungkap. Pos yang tersentuh adalah beban operasional lewat agenda penetapan tantiem, yaitu bonus kinerja untuk direksi dan komisaris, yang bisa mengurangi laba bersih perseroan jika disetujui dalam jumlah besar, sementara agenda perubahan susunan pengurus berpotensi mengubah arah strategis perusahaan meski nama calon penggantinya belum diungkap di dokumen ini. Pemegang saham perlu memantau hasil RUPSLB pada 23 September 2026, khususnya besaran remunerasi yang disahkan dan siapa direksi atau komisaris yang berganti, karena keduanya baru akan diketahui saat rapat berlangsung. Bagi yang ingin memberi suara lewat kuasa, tenggatnya adalah 22 September 2026 pukul 12.00 WIB untuk kuasa elektronik dan 18 September 2026 untuk kuasa fisik.",
+  "sentimen": "netral"
  },
  {
   "slug": "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
@@ -1248,6 +1352,33 @@ var ARTICLES = [
   "imageV": "mtifhrhd"
  },
  {
+  "slug": "ptba-cetak-laba-rp2-65-triliun-di-semester-i-2026-naik-218",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Cetak Laba [Rp2,65 Triliun] di Semester I 2026, Naik 218%",
+  "deck": "Laba bersih PT Bukit Asam melonjak 218 persen menjadi Rp2,65 triliun pada semester I 2026, didorong kenaikan harga jual batu bara meski volume produksi turun 10 persen dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T14:07:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d60fece20c_e4bd2c1539.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "batu bara",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) membukukan laba bersih Rp2,65 triliun pada semester I 2026, melonjak 218 persen dibandingkan periode yang sama tahun lalu sebesar Rp833,04 miliar. Pendapatan usaha naik 8 persen menjadi Rp22,03 triliun, sementara EBITDA, yaitu laba sebelum bunga, pajak, depresiasi, dan amortisasi yang mencerminkan kemampuan perusahaan menghasilkan kas dari operasional inti, naik 94 persen menjadi Rp4,27 triliun. Margin laba bersih tercatat 12 persen dan margin EBITDA 19 persen, sementara laba per saham naik dari Rp72 menjadi Rp230.",
+   "Volume produksi batu bara PTBA pada semester I 2026 tercatat 19,45 juta ton, turun 10 persen dibandingkan periode yang sama tahun lalu, dan volume penjualan turun 2 persen menjadi 21,10 juta ton. Meski begitu, penjualan ekspor naik 5 persen menjadi 10,33 juta ton, sementara penjualan domestik turun 9 persen menjadi 10,77 juta ton, sehingga porsi ekspor mencapai 49 persen dari total penjualan semester ini. Lima negara tujuan ekspor terbesar adalah Vietnam, Bangladesh, Kamboja, India, dan Thailand. Kenaikan harga acuan batu bara global, indeks Newcastle naik 25 persen dan indeks ICI-3 naik 15 persen dibandingkan tahun lalu, mendorong harga jual rata-rata PTBA naik 10 persen sehingga mampu mengimbangi penurunan volume produksi dan penjualan.",
+   "Dari sisi neraca, total aset PTBA per 30 Juni 2026 tercatat Rp48,10 triliun, naik 10 persen dari akhir 2025. Total ekuitas naik 12 persen menjadi Rp25,34 triliun, sementara kas dan setara kas melonjak 52 persen menjadi Rp6,88 triliun. Pinjaman bank di sisi lain turun 25 persen menjadi Rp2,42 triliun. Arus kas dari aktivitas operasi naik 108 persen menjadi Rp4,63 triliun, terutama karena kenaikan penerimaan dari pelanggan. Belanja modal terealisasi Rp1,09 triliun atau 30 persen dari target tahunan Rp3,64 triliun, dengan mayoritas dana dipakai untuk pengembangan jalur angkutan batu bara Tanjung Enim-Kramasan.",
+   "Kenaikan harga bahan bakar minyak turut menekan biaya operasional PTBA. Akibat konflik di Selat Hormuz pada akhir Februari 2026, harga BBM per liter yang dipakai perusahaan naik 34 persen menjadi Rp19.503 hingga akhir Juni 2026, yang berimbas pada biaya jasa penambangan dan angkutan kereta api. Meski begitu, beban pokok pendapatan perusahaan justru turun 2 persen menjadi Rp17,78 triliun, sejalan dengan turunnya volume produksi dan membaiknya rasio kupas atau stripping ratio, yakni perbandingan volume tanah yang harus dikupas untuk mendapatkan batu bara, menjadi 5,26 kali dari 6,17 kali. Di luar itu, beban operasional lain naik 13 persen atau Rp184,84 miliar, terutama karena kenaikan beban umum dan administrasi."
+  ],
+  "fotoAdegan": "Heavy dump trucks hauling coal at an open-pit mine in South Sumatra, dust rising under a hazy midday sky, workers in reflective vests nearby.",
+  "takeaway": "Laporan ini condong positif bagi PTBA karena laba bersihnya melonjak lebih dari tiga kali lipat berkat kenaikan harga jual batu bara global, sementara kas perusahaan menebal jauh meski volume produksinya justru turun. Yang ikut terdongkrak adalah ekuitas atau modal pemilik perusahaan yang naik 12 persen menjadi Rp25,34 triliun, arus kas dari operasi yang nyaris dua kali lipat menjadi Rp4,63 triliun sehingga perusahaan punya lebih banyak dana tunai untuk membayar utang atau membagi dividen, serta beban bunga pinjaman yang turun seiring pelunasan sebagian utang bank, tanda beban keuangan perusahaan mengecil. Laba per saham, yaitu bagian laba yang secara teoretis jadi milik setiap lembar saham beredar, ikut melonjak dari Rp72 menjadi Rp230 karena laba tumbuh jauh lebih cepat daripada jumlah saham yang beredar. Yang perlu dipantau selanjutnya adalah apakah PTBA bisa mengejar target produksi tahunan 49,55 juta ton dan realisasi belanja modal Rp3,64 triliun hingga akhir 2026, mengingat belanja modal baru terealisasi 30 persen pada semester pertama dan volume produksi semester ini masih di bawah capaian tahun lalu.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
   "category": "Makroekonomi",
   "title": "Impor RI Tembus US$163,33 M, Bahan Baku [Melonjak]",
@@ -1354,6 +1485,32 @@ var ARTICLES = [
   "imageV": "mtir87k0"
  },
  {
+  "slug": "bgtg-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BGTG Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BGTG menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:45:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e7a91a83a_d309b2f6cd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BGTG",
+  "tags": [
+   "BGTG",
+   "Bank Ganesha",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bank Ganesha Tbk (BGTG) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-11170/BEI.PP2/09-2026 tanggal 1 September 2026 terkait volatilitas transaksi efek perseroan. Jawaban perusahaan disampaikan pada hari yang sama melalui surat nomor 053/CRP/IX/2026, ditandatangani secara elektronik oleh Robert Halim selaku Corporate Secretary pukul 13.45 WIB.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi Material maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham perusahaan terbuka.",
+   "Perusahaan menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi penting lain yang material bagi harga saham maupun kelangsungan usaha yang belum diungkapkan ke publik. Terkait rencana pemegang saham utama atas kepemilikannya, manajemen menyatakan sampai saat ini tidak ada rencana yang disampaikan setelah dikonfirmasi kepada pemegang saham utama tersebut."
+  ],
+  "fotoAdegan": "Modern bank office towers in Jakarta's central business district under midday sun, busy street traffic passing below, wide angle",
+  "takeaway": "Laporan ini netral bagi Bank Ganesha karena isinya murni bantahan formal atas permintaan bursa, tanpa ada angka keuangan baru, transaksi, atau rencana korporasi yang mengubah penilaian atas perusahaan. Tidak ada pos kinerja yang tersentuh, ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham tetap seperti sebelumnya, sebab surat ini sekadar jawaban administratif, bukan aksi korporasi. Yang perlu dipantau adalah apakah harga dan volume transaksi saham BGTG masih bergejolak dalam beberapa hari ke depan, karena bursa biasanya mengirim permintaan serupa lagi kalau volatilitasnya berlanjut, sementara perseroan sendiri sudah menyatakan tidak berencana melakukan aksi korporasi apa pun setidaknya hingga awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
   "category": "Makroekonomi",
   "title": "China, AS, India Kuasai [44,25%] Ekspor Nonmigas RI",
@@ -1405,6 +1562,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan target baru, melainkan percepatan pelaksanaan program yang sebenarnya sudah punya payung hukum sejak 2019 lewat Peraturan Gubernur Bali Nomor 45/2019, setelah sempat mandek karena pandemi. Pihak yang terdampak langsung adalah PLN sebagai pelaksana proyek dan Pemprov Bali yang mengejar target energi bersih untuk menopang sektor pariwisata, sementara warga dan pelaku usaha di Bali berpotensi ikut merasakan dampaknya lewat pasokan listrik dari sumber terbarukan. Berita ini belum menyebut berapa kapasitas PLTS yang akan dibangun di Bali secara spesifik, berapa nilai investasinya, atau kapan proyek ditargetkan rampung, padahal itu yang menentukan apakah percepatan ini benar-benar signifikan atau baru sebatas kerangka kerja sama di atas kertas. Yang perlu ditunggu adalah rincian proyek dari PLN dan Pemprov Bali pascapenandatanganan ini, termasuk lokasi, kapasitas pembangkit, dan jadwal pembangunannya.",
   "imageV": "mtir88h6"
+ },
+ {
+  "slug": "bmas-laba-semester-i-anjlok-74-utang-afiliasi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "BMAS: Laba Semester I [Anjlok] 74%, Utang Afiliasi Melonjak",
+  "deck": "Laba bersih BMAS anjlok 74 persen menjadi Rp6,39 miliar pada semester I 2026, sementara pinjaman dari pemegang saham pengendali melonjak 335 persen jadi Rp5,81 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:31:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901134145-64220-0/FinancialStatement-2026-II-BMAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "Bank Kasikorn Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS), yang sebelumnya bernama PT Bank Maspion Indonesia Tbk, menyampaikan laporan keuangan interim auditan untuk periode enam bulan yang berakhir 30 Juni 2026 kepada OJK dan Bursa Efek Indonesia pada 1 September 2026. Auditor independen dari KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan, dengan partner penanggung jawab Sutomo, memberikan opini wajar tanpa modifikasian, namun menyoroti satu hal audit utama, yaitu kompleksitas perhitungan cadangan kerugian penurunan nilai atas kredit yang diberikan, yang nilainya mencapai Rp330,73 miliar per 30 Juni 2026. Total aset bank tercatat Rp26,60 triliun, naik 18,7 persen dari Rp22,42 triliun pada akhir 2025, sementara total liabilitas naik lebih tajam, 26,28 persen menjadi Rp20,10 triliun.",
+   "Dalam surat terpisah yang mengacu pada aturan Bursa Efek Indonesia soal kewajiban menjelaskan perubahan lebih dari 20 persen pada pos aset atau liabilitas, Direktur BMAS Irawan Rukmanto menjelaskan bahwa kenaikan liabilitas terutama didorong oleh lonjakan pinjaman yang diterima dari pihak berelasi, yaitu pemegang saham pengendali. Pinjaman ini melonjak 335,61 persen, dari Rp1,33 triliun pada akhir 2025 menjadi Rp5,81 triliun pada 30 Juni 2026, atau bertambah Rp4,48 triliun. Dana ini turut menopang ekspansi penyaluran kredit yang naik dari Rp17,34 triliun menjadi Rp19,25 triliun, serta penambahan portofolio efek-efek dari Rp1,81 triliun menjadi Rp2,94 triliun.",
+   "Di sisi laba rugi, BMAS mencatat laba bersih semester I 2026 sebesar Rp6,39 miliar, anjlok 74,5 persen dibandingkan Rp25,03 miliar pada semester I 2025, meski pendapatan bunga bersihnya relatif stabil di Rp338,63 miliar. Laba per saham dasar turun dari Rp1,38 menjadi Rp0,35. Sejumlah rasio keuangan juga melemah: return on asset turun dari 0,21 persen menjadi 0,09 persen, return on equity dari 0,51 persen menjadi 0,21 persen, dan marjin bunga bersih dari 3,45 persen menjadi 3,21 persen, sementara rasio beban operasional terhadap pendapatan operasional naik dari 97,15 persen menjadi 98,90 persen. Rasio kredit bermasalah kotor naik tipis dari 2,26 persen menjadi 2,31 persen, sedangkan rasio kecukupan modal masih tebal di 48,22 persen, naik dari 45,76 persen pada akhir 2025."
+  ],
+  "fotoAdegan": "Bank teller counters inside a modern Indonesian branch office, customers queueing quietly, soft indoor lighting, background blurred",
+  "takeaway": "Laporan ini condong negatif bagi kinerja BMAS, karena laba bersihnya anjlok 74,5 persen di tengah beban operasional yang nyaris menghabiskan seluruh pendapatannya. Yang tersentuh adalah laba per saham, yang turun dari Rp1,38 menjadi Rp0,35, serta rasio BOPO, yaitu perbandingan beban operasional terhadap pendapatan operasional, yang naik ke 98,90 persen, artinya nyaris semua pendapatan bank habis untuk menutup biaya sehingga ruang labanya menyempit. Pelaku pasar juga perlu mencermati lonjakan pinjaman dari pemegang saham pengendali sebesar Rp4,48 triliun, karena dana ini menambah beban utang bank sekaligus menopang penyaluran kredit yang tumbuh ke Rp19,25 triliun, sehingga dampaknya baru akan terlihat dari kualitas kredit yang dihasilkan ke depan. Modal bank sendiri masih tebal dengan rasio kecukupan modal 48,22 persen, jauh di atas syarat minimum, sehingga ada bantalan untuk menyerap tekanan laba ini. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 yang wajib disampaikan BMAS ke OJK dan BEI, untuk melihat apakah tekanan pada laba dan rasio efisiensi ini berlanjut atau mulai membaik.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tcid-pemegang-66-48-saham-berpindah-ke-entitas-baru-jepang",
+  "category": "Aksi Korporasi",
+  "title": "TCID: Pemegang 66,48% Saham [Berpindah] ke Entitas Baru Jepang",
+  "deck": "Mandom Corporation Jepang mengalihkan 267,3 juta saham TCID (66,48%) ke entitas hasil merger dan pemisahan usaha internal, tanpa mengubah pengendali Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "1 September 2026",
+  "isoDate": "2026-09-01T13:30:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e3649c2217_2b625d7014.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCID",
+  "tags": [
+   "TCID",
+   "Mandom Indonesia",
+   "pemegang saham",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Mandom Indonesia Tbk (TCID) melaporkan perubahan pemegang saham langsung atas 267.330.074 saham, setara 66,48 persen dari modal ditempatkan dan disetor perseroan, efektif 1 September 2026. Saham tersebut sebelumnya dipegang oleh Mandom Corporation di Jepang, dan kini beralih ke entitas baru bernama Kalon Midco Holdings Co., Ltd. sebagai akibat restrukturisasi internal grup di Jepang, tanpa mengubah pihak yang mengendalikan TCID.",
+   "Prosesnya berlangsung dua tahap yang berlaku efektif bersamaan. Berdasarkan perjanjian penggabungan usaha tertanggal 24 Juli 2026, Mandom Corporation lama digabungkan ke Kalon Holdings Co., Ltd. dan bubar, sehingga kepemilikan saham TCID berpindah seluruhnya ke Kalon Holdings. Pada saat yang sama, berdasarkan perjanjian pemisahan usaha yang juga diteken 24 Juli 2026, Kalon Holdings memisahkan kepemilikan saham TCID tersebut kepada Kalon Midco Holdings Co., Ltd. Kalon Midco kemudian mengganti namanya menjadi Mandom Corporation efektif 1 September 2026, tetapi dokumen registrasi resmi dari otoritas hukum Jepang yang mencatat perubahan nama itu baru diperkirakan terbit sekitar November 2026. Sampai dokumen itu tersedia, pemegang saham TCID untuk sementara masih tercatat atas nama Kalon Midco Holdings Co., Ltd.",
+   "Perseroan menegaskan restrukturisasi ini tidak melibatkan penerbitan saham baru maupun transaksi dengan pemegang saham publik, sehingga jumlah saham beredar, modal ditempatkan dan disetor, serta persentase kepemilikan publik TCID tidak berubah. Laporan ditandatangani oleh Hideki Nakamura selaku Wakil Direktur atau Senior Executive Officer Mandom Indonesia."
+  ],
+  "fotoAdegan": "Workers inspecting cosmetic bottles on a production line inside a cosmetics factory in Indonesia, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi TCID, karena yang berubah hanya nama badan hukum pemegang saham pengendali di Jepang, sementara pengendali akhir dan seluruh angka keuangan perseroan tetap sama. Tidak ada pos kinerja seperti ekuitas, jumlah saham beredar, atau laba per saham yang tersentuh, karena ini bukan jual beli saham maupun aksi korporasi yang menambah atau mengurangi modal, jadi tidak ada dilusi atau suntikan dana yang perlu diperhitungkan investor. Kejelasan siapa pemegang saham pengendali tetap penting diumumkan karena itu menentukan siapa yang punya suara terbesar dalam RUPS dan arah kebijakan perseroan. Yang perlu dipantau berikutnya adalah terbitnya dokumen registrasi resmi dari otoritas hukum Jepang, yang diperkirakan tersedia sekitar November 2026, saat nama pemegang saham TCID akan resmi tercatat sebagai Mandom Corporation yang baru.",
+  "sentimen": "netral"
  },
  {
   "slug": "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",

@@ -544,6 +544,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464166-desil-dtsen-bisa-salah-gus-ipul-buka-pintu-koreksi-data-bahlil-singgung-nasib-pembatasan-pertalite"
  },
  {
+  "slug": "dooh-koreksi-laporan-realisasi-dana-ipo-sisa-rp41-8-m",
+  "category": "Aksi Korporasi",
+  "title": "DOOH [Koreksi] Laporan Realisasi Dana IPO, Sisa Rp41,8 M",
+  "deck": "Era Media Sejahtera mengoreksi laporan realisasi dana IPO 2023: Rp110,85 miliar sudah terpakai, Rp41,77 miliar masih mengendap di giro Bank DKI.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "IPO",
+   "penggunaan dana",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7b9b5ece7_6565396f73.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
   "category": "Pasar Modal",
   "title": "IHSG [Naik] 1,14% ke 6.599,94, Ditopang Energi-Teknologi",
@@ -559,6 +575,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464151-ihsg-tancap-gas-di-akhir-perdagangan-naik-114-ke-659994-saham-energi-dan-teknologi-jadi-penopang"
+ },
+ {
+  "slug": "luck-gelar-rupslb-alihkan-saham-investor-asing-ke-publik",
+  "category": "Aksi Korporasi",
+  "title": "LUCK Gelar RUPSLB, [Alihkan] Saham Investor Asing ke Publik",
+  "deck": "Sentral Mitra Informatika memanggil RUPSLB pada 23 September 2026 untuk mengubah anggaran dasar sesuai KBLI 2025 dan menegaskan status kepemilikan Serial System Internasional Pte Ltd menjadi milik publik.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LUCK",
+   "RUPSLB",
+   "Sentral Mitra Informatika",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ced4b0c9c6_6cbdf5473c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intp-wakil-direktur-utama-baru-resmi-menjabat",
+  "category": "Aksi Korporasi",
+  "title": "INTP: [Wakil Direktur Utama] Baru Resmi Menjabat",
+  "deck": "Jose Maria Magrina Vadillo resmi menjabat Wakil Direktur Utama Indocement sejak 1 September 2026, merealisasikan keputusan RUPST Mei lalu, dengan masa jabatan hingga 2029.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTP",
+   "Indocement",
+   "Direksi",
+   "Wakil Direktur Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4efd462111_55063f81f0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
@@ -654,6 +702,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "ipcm-panggil-rupslb-agendakan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "IPCM Panggil RUPSLB, Agendakan [Perubahan] Direksi",
+  "deck": "RUPSLB IPCM digelar 23 September 2026, bahas perubahan anggaran dasar, penetapan remunerasi pengurus, dan perubahan susunan direksi-komisaris.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCM",
+   "RUPSLB",
+   "Jasa Armada Indonesia",
+   "Pelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d104a2caa7_7b97361d9e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
@@ -775,6 +839,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464117-dukung-plts-100-gwp-pln-siap-akselerasi-pengembangan-ebt-menuju-swasembada-energi"
  },
  {
+  "slug": "ptba-cetak-laba-rp2-65-triliun-di-semester-i-2026-naik-218",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Cetak Laba [Rp2,65 Triliun] di Semester I 2026, Naik 218%",
+  "deck": "Laba bersih PT Bukit Asam melonjak 218 persen menjadi Rp2,65 triliun pada semester I 2026, didorong kenaikan harga jual batu bara meski volume produksi turun 10 persen dibanding tahun lalu.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "batu bara",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d60fece20c_e4bd2c1539.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
   "category": "Makroekonomi",
   "title": "Impor RI Tembus US$163,33 M, Bahan Baku [Melonjak]",
@@ -843,6 +923,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464099-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua"
  },
  {
+  "slug": "bgtg-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "BGTG Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "BGTG menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BGTG",
+   "Bank Ganesha",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e7a91a83a_d309b2f6cd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
   "category": "Makroekonomi",
   "title": "China, AS, India Kuasai [44,25%] Ekspor Nonmigas RI",
@@ -875,6 +971,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464093-pln-dan-pemprov-bali-kolaborasi-percepat-pengembangan-infrastruktur-energi-bersih-dukung-program-plts-100-gwp"
+ },
+ {
+  "slug": "bmas-laba-semester-i-anjlok-74-utang-afiliasi-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "BMAS: Laba Semester I [Anjlok] 74%, Utang Afiliasi Melonjak",
+  "deck": "Laba bersih BMAS anjlok 74 persen menjadi Rp6,39 miliar pada semester I 2026, sementara pinjaman dari pemegang saham pengendali melonjak 335 persen jadi Rp5,81 triliun.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "Bank Kasikorn Indonesia",
+   "laporan keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901134145-64220-0/FinancialStatement-2026-II-BMAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcid-pemegang-66-48-saham-berpindah-ke-entitas-baru-jepang",
+  "category": "Aksi Korporasi",
+  "title": "TCID: Pemegang 66,48% Saham [Berpindah] ke Entitas Baru Jepang",
+  "deck": "Mandom Corporation Jepang mengalihkan 267,3 juta saham TCID (66,48%) ke entitas hasil merger dan pemisahan usaha internal, tanpa mengubah pengendali Perseroan.",
+  "date": "1 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCID",
+   "Mandom Indonesia",
+   "pemegang saham",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e3649c2217_2b625d7014.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",
@@ -6408,134 +6536,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/461620-pertamina-terus-dorong-ekspansi-panas-bumi-nasional-di-iigce-2026"
- },
- {
-  "slug": "pico-teken-mou-pasokan-baja-crc-dengan-posco-korea",
-  "category": "Aksi Korporasi",
-  "title": "PICO Teken [MoU] Pasokan Baja CRC dengan POSCO Korea",
-  "deck": "PICO menandatangani MoU dengan POSCO untuk menjamin pasokan baja CRC bagi lini produksi drum bajanya, namun perusahaan menegaskan belum ada dampak keuangan yang bisa diukur.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/pico-teken-mou-pasokan-baja-crc-dengan-posco-korea.jpg",
-  "tags": [
-   "PICO",
-   "POSCO",
-   "MoU",
-   "industri baja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4964351229_b66a506030.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-gelar-rupslb-14-september-ubah-nama-jadi-remitra-global",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Gelar RUPSLB 14 September, Ubah Nama Jadi [Remitra Global]",
-  "deck": "RUPSLB 14 September 2026 akan memutuskan konversi utang jadi saham, ganti pengendali dan nama menjadi Remitra Global International, serta ekspansi ke manufaktur baja dan tambak udang.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/mknt-gelar-rupslb-14-september-ubah-nama-jadi-remitra-global.jpg",
-  "tags": [
-   "MKNT",
-   "RUPSLB",
-   "PMTHMETD",
-   "Remitra Global"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1bcfa7a113_350f684afa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-meja-ungkap-rincian-pemegang-saham-usai-saham-bonus",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB MEJA Ungkap Rincian [Pemegang Saham] Usai Saham Bonus",
-  "deck": "RUPSLB Ketiga MEJA menyetujui 99,99% suara untuk menaikkan modal dasar dan modal disetor lewat saham bonus, sekaligus mengonfirmasi susunan pemegang saham baru dengan total 2,608 miliar lembar saham.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/rupslb-meja-ungkap-rincian-pemegang-saham-usai-saham-bonus.jpg",
-  "tags": [
-   "MEJA",
-   "RUPSLB",
-   "saham bonus",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c151277aca_7e5e431170.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgeo-teken-loi-pltp-ulubelu-lahendong-garap-cubadak-panti",
-  "category": "Aksi Korporasi",
-  "title": "PGEO Teken LoI PLTP Ulubelu-Lahendong, Garap [Cubadak Panti]",
-  "deck": "PGE menandatangani dua Letter of Intent dengan PLN dan PLN Indonesia Power untuk PLTP Ulubelu dan Lahendong Bottoming Unit, serta menerima mandat eksplorasi panas bumi Cubadak Panti di Sumatra Barat.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGEO",
-   "panas bumi",
-   "PLTP Ulubelu",
-   "PLN Indonesia Power"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ab297f5e8d_71ae011b3b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-sambal-sumut-binaan-bri-tembus-pasar-singapura",
-  "category": "UMKM",
-  "title": "UMKM Sambal Sumut Binaan BRI Tembus Pasar [Singapura]",
-  "deck": "Quinn Kitchen, UMKM sambal binaan BRI asal Medan, memperkenalkan produknya di pameran Singapura setelah memanfaatkan pembiayaan dan layanan digital bank tersebut sejak 2014.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/umkm-sambal-sumut-binaan-bri-tembus-pasar-singapura.jpg",
-  "imageV": "mt5sb5xi",
-  "tags": [
-   "UMKM",
-   "BRI",
-   "Singapura",
-   "Sumatera Utara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/461582-produk-umkm-asal-sumut-perluas-dampak-bersama-pemberdayaan-bri-pikat-pembeli-dari-singapura-hingga-belanda"
- },
- {
-  "slug": "xmgb-catat-pengurangan-unit-penyertaan-jadi-84-juta",
-  "category": "Aksi Korporasi",
-  "title": "XMGB Catat [Pengurangan] Unit Penyertaan Jadi 84 Juta",
-  "deck": "Unit penyertaan ETF XMGB berkurang 10 juta unit menjadi 84 juta per 20 Agustus 2026, pencatatan baru berlaku mulai 24 Agustus 2026.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/xmgb-catat-pengurangan-unit-penyertaan-jadi-84-juta.jpg",
-  "tags": [
-   "XMGB",
-   "ETF",
-   "Majoris Asset Management",
-   "reksa dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6dbad1b495_fded32c894.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgd-lunasi-obligasi-dan-sukuk-rp463-miliar-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "PPGD [Lunasi] Obligasi dan Sukuk Rp463 Miliar Jatuh Tempo",
-  "deck": "Obligasi Rp228,025 miliar dan sukuk Rp235,04 miliar milik PPGD jatuh tempo 24 Agustus 2026; perusahaan menyatakan siap melunasinya dari fasilitas pinjaman bank.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/ppgd-lunasi-obligasi-dan-sukuk-rp463-miliar-jatuh-tempo.jpg",
-  "tags": [
-   "PPGD",
-   "obligasi",
-   "sukuk",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a31d4faf6a_07f0eb8b2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-okas-melonjak-manajemen-sebut-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "Saham OKAS Melonjak, Manajemen Sebut Tak Ada Info [Material]",
-  "deck": "Volume transaksi OKAS melonjak lebih dari 20 kali dan harga naik 8,47% pada 19 Agustus 2026, memicu permintaan penjelasan dari Bursa Efek Indonesia.",
-  "date": "21 Agustus 2026",
-  "image": "assets/img/saham-okas-melonjak-manajemen-sebut-tak-ada-info-material.jpg",
-  "tags": [
-   "OKAS",
-   "Ancora Indonesia Resources",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0396750d57_fa88a653da.pdf",
-  "sourceLabel": "IDX"
  }
 ];

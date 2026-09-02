@@ -113,15 +113,45 @@ function bersihkanEntitas(s) {
 // justru berisi nama berkas halaman ("sp_2815526") sementara judul aslinya
 // ("Survei Penjualan Eceran Juli 2026...") ada di <title>. Kalau h1
 // didahulukan, semua berita BI terbit dengan judul berupa kode.
-function ambilJudul(html) {
+// Pembuang embel-embel nama situs di ujung <title>.
+//
+// Dulu daftarnya ditulis tangan (Bank Indonesia|Kementerian ...|Kemendag|
+// Kemenperin), dan itu tidak bisa bertahan: tiap sumber baru yang ditambahkan
+// ke SUMBER akan menerbitkan judul berbuntut " | Nama Situs" sampai ada yang
+// ingat menambahkan namanya ke regex ini. Kesalahan yang senyap, karena
+// artikelnya tetap terbit, cuma judulnya jelek.
+//
+// Sekarang buntutnya diturunkan dari sumbernya sendiri: nama pendek dan nama
+// lembaganya. Menambah sumber cukup di SUMBER, tidak ada tempat kedua yang
+// harus diingat.
+//
+// Panjangnya dibatasi 48 karakter supaya judul yang KEBETULAN memuat tanda
+// pemisah di tengah tidak ikut terpotong.
+function buntutSitus(sumber) {
+  const nama = [sumber && sumber.nama, sumber && sumber.lembaga]
+    .filter(Boolean)
+    .map(s => String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .sort((a, b) => b.length - a.length);   // yang terpanjang dicoba lebih dulu
+  if (!nama.length) return null;
+  return new RegExp('\\s*[|\\-–—]\\s*(?:' + nama.join('|') + ')\\s*$', 'i');
+}
+
+function ambilJudul(html, sumber) {
   const og = html.match(/<meta\s+property="og:title"\s+content="([^"]+)"/i);
   if (og && og[1].trim()) return bersihkanEntitas(stripTags(og[1]));
 
   const t = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
   if (t) {
-    // buang embel-embel nama situs di ujung judul
-    const judul = bersihkanEntitas(stripTags(t[1]))
-      .replace(/\s*[|\-–]\s*(Bank Indonesia|Kementerian [^|\-–]+|Kemendag|Kemenperin)\s*$/i, '');
+    let judul = bersihkanEntitas(stripTags(t[1]));
+    const buntut = buntutSitus(sumber);
+    if (buntut) {
+      const dipangkas = judul.replace(buntut, '');
+      if (dipangkas.length > 12) judul = dipangkas;
+    }
+    // Jaring lama tetap dipasang untuk buntut yang tidak sama persis dengan
+    // nama sumbernya, misalnya "- Kementerian Perindustrian RI".
+    const lagi = judul.replace(/\s*[|\-–—]\s*(Bank Indonesia|Kementerian [^|\-–—]{0,48}|Kemendag|Kemenperin)\s*$/i, '');
+    if (lagi.length > 12) judul = lagi;
     if (judul.length > 12) return judul;
   }
 
@@ -222,7 +252,7 @@ export async function ambilBeritaPemerintah({ perSumber = 6 } = {}) {
     for (const url of tautan) {
       try {
         const html = await retry(() => get(url, { timeout: 30000 }));
-        const judul = ambilJudul(html);
+        const judul = ambilJudul(html, s);
         const isi = ambilIsi(html);
         if (!judul || isi.length < 300) continue;      // terlalu tipis, lewati
         if (BUKAN_BERITA.test(judul)) continue;

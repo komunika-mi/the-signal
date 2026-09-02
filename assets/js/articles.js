@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
+  "category": "Bisnis",
+  "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
+  "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T05:56:55.112Z",
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik",
+  "tags": [
+   "bps",
+   "hotel",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "body": [
+   "Badan Pusat Statistik (BPS) mencatat Tingkat Penghunian Kamar (TPK) hotel bintang secara nasional pada Juli 2026 sebesar 54,54%. Angka ini menunjukkan rata-rata separuh lebih kamar hotel berbintang di Indonesia terisi tamu sepanjang bulan tersebut.",
+   "Dibanding Juni 2026 yang tercatat 54,28%, TPK Juli 2026 naik 0,26 poin atau setara kenaikan 0,48%. Jika dibandingkan Juli 2025 yang sebesar 52,79%, kenaikannya lebih besar yaitu 1,75 poin atau 3,32%.",
+   "Dalam enam bulan terakhir, TPK hotel bintang sempat turun dari 44,89% pada Februari 2026 menjadi 42,78% pada Maret 2026. Setelah itu, angkanya naik empat bulan berturut-turut yaitu 48,83% (April), 50,76% (Mei), 54,28% (Juni), hingga 54,54% pada Juli 2026.",
+   "TPK adalah indikator yang menggambarkan seberapa banyak kamar hotel bintang yang benar-benar ditempati tamu dibanding total kamar yang tersedia. Semakin tinggi angkanya, semakin banyak kamar yang terisi pada periode tersebut."
+  ],
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Bagi orang awam, naiknya angka ini berarti makin banyak kamar hotel bintang yang terisi tamu dibanding bulan-bulan sebelumnya.",
+  "bpsIndikator": "hotel"
+ },
+ {
+  "slug": "esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo",
+  "category": "Energi",
+  "title": "ESDM Klarifikasi Proyek Panas Bumi Dekat [Gedong Songo]",
+  "deck": "Kementerian ESDM menyatakan pengembangan PLTP Gunung Ungaran di Jawa Tengah masih tahap eksplorasi, dengan target 55 MW pada 2031 dan perhatian khusus pada kawasan Candi Gedong Songo.",
+  "image": "assets/img/esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T05:52:37.244Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-pengembangan-panas-bumi-gunung-ungaran-dilakukan-bertahap-dan-berbasis-kajian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "panas bumi",
+   "ESDM",
+   "Gunung Ungaran",
+   "Candi Gedong Songo"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral menegaskan bahwa pengembangan Pembangkit Listrik Tenaga Panas Bumi di Gunung Ungaran, yang mencakup wilayah Kabupaten Semarang dan Kabupaten Kendal, Jawa Tengah, masih berada pada tahap eksplorasi dan studi kelayakan. Pernyataan ini penting karena proyek berlokasi di sekitar kawasan Candi Gedong Songo, sehingga menyangkut kekhawatiran soal potensi dampak terhadap situs cagar budaya tersebut.",
+   "Berdasarkan Rencana Usaha Penyediaan Tenaga Listrik 2025-2034, PLTP Ungaran direncanakan berkapasitas sekitar 55 megawatt dengan target mulai beroperasi pada 2031. Juru Bicara ESDM Dwi Anggia menjelaskan bahwa lokasi titik pengeboran di permukaan tidak harus persis di atas sumber panas bumi, karena teknologi pengeboran berarah memungkinkan sumur diarahkan menuju target reservoir di bawah permukaan berdasarkan kajian geologi dan geofisika.",
+   "Soal pelestarian cagar budaya, ESDM merujuk pada kajian pemetaan sosial Universitas Diponegoro tahun 2019 yang membagi kawasan menjadi zona inti, penyangga, dan pengembangan, dan pembangunan panas bumi harus mengikuti batas zonasi tersebut. Kementerian juga menyebut bahwa dari total luas wilayah kerja panas bumi, lahan yang dipakai untuk pembangkit berkapasitas 55 MW hanya kurang dari 1 persen, dengan kebutuhan lahan tahap pengeboran pun disebut relatif terbatas.",
+   "Wilayah kerja panas bumi Gunung Ungaran sendiri sudah ditetapkan sejak 2007, dan sejak itu prosesnya berjalan melalui tahapan penelitian, penentuan lokasi sumur, perizinan, hingga rencana pengeboran eksplorasi. ESDM turut membandingkan dengan pengalaman kawasan panas bumi Dieng, yang menurut mereka bisa berjalan berdampingan dengan aktivitas pariwisata, budaya, dan pertanian warga sekitar."
+  ],
+  "fotoAdegan": "Steam vents rising near a small geothermal drilling rig on a misty forested volcanic slope in Central Java",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-esdm-pengembangan-panas-bumi-gunung-ungaran-dilakukan-bertahap-dan-berbasis-kajian-d4uddgf.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Pernyataan ini tampak sebagai klarifikasi resmi, kemungkinan menanggapi kekhawatiran publik soal risiko proyek panas bumi terhadap kawasan cagar budaya Candi Gedong Songo. Yang terdampak langsung adalah warga Kabupaten Semarang dan Kendal, pengelola kawasan candi, serta sektor wisata di sekitarnya, sementara pengembang proyek masih harus melewati uji kelayakan sebelum bisa membangun pembangkit. Wilayah kerja ini sudah ditetapkan sejak 2007, tapi target operasi baru dipatok pada 2031, artinya proses kajian dan perizinan bertahap ini berfungsi sebagai pengereman alami, bukan sekadar formalitas administratif. ESDM juga mengutip pengalaman Dieng, tempat fasilitas panas bumi berjalan berdampingan dengan wisata dan pertanian, sebagai rujukan bahwa proyek kemungkinan tetap dilanjutkan dengan syarat mitigasi ketimbang dibatalkan. Yang akan memastikan arah ini adalah hasil studi kelayakan dan proses perizinan lingkungan, yang menjadi syarat sebelum proyek bisa masuk ke tahap konstruksi.",
+  "imageV": "mtjoljuu"
+ },
+ {
   "slug": "mora-peroleh-tambahan-kredit-rp4-triliun-dari-bca",
   "category": "Aksi Korporasi",
   "title": "MORA Peroleh Tambahan Kredit [Rp4 Triliun] dari BCA",
@@ -209,6 +264,32 @@ var ARTICLES = [
   "fotoAdegan": "Bank teller counter inside a busy Jakarta branch, staff counting cash trays, customers waiting quietly, bright interior lighting",
   "takeaway": "Laporan ini condong netral karena secara keseluruhan dana rights issue sudah dipakai sesuai rencana, dengan sisa yang belum terserap tergolong kecil. Yang tersentuh adalah arus kas dan likuiditas ASJT, sebab dana ini dipakai sebagai modal kerja yang ditaruh di deposito bank dan obligasi atau surat utang, yang berarti perusahaan memiliki dana cadangan yang bisa cepat dicairkan bila dibutuhkan untuk operasional asuransi. Realisasi pos deposito dan obligasi sudah 100 persen, tapi pos pengembangan teknologi informasi dan sumber daya manusia baru terpakai 91,89 persen dari anggaran Rp9,82 miliar, sehingga masih ada Rp797 juta yang mengendap di deposito berbunga 5,25 persen per tahun. Yang perlu dipantau berikutnya adalah laporan realisasi periode selanjutnya, untuk melihat apakah sisa dana itu akhirnya benar dipakai untuk pengembangan TI dan SDM seperti dijanjikan di prospektus, terlebih laporan ini sendiri merupakan koreksi atas laporan yang sebelumnya terbit pertengahan Juli 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp40-000-jadi-rp2-624-000",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp40.000 Jadi Rp2.624.000",
+  "deck": "Harga emas Antam turun Rp40.000 per gram menjadi Rp2.624.000, sementara harga buyback ikut melemah ke Rp2.477.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-rp40-000-jadi-rp2-624-000.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T09:16:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464312-harga-emas-antam-hari-ini-2-september-2026-anjlok-rp40000-kini-jadi-rp2624000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun Rp40.000 per gram pada Rabu, 2 September 2026, berdasarkan pemantauan di laman resmi Logam Mulia. Dari sebelumnya Rp2.664.000, harga kini tercatat Rp2.624.000 per gram. Penurunan ini relevan bagi masyarakat yang menyimpan emas sebagai instrumen investasi maupun yang berencana membeli logam mulia dalam waktu dekat.",
+   "Harga buyback, yaitu harga saat Antam membeli kembali emas dari masyarakat, juga ikut melemah menjadi Rp2.477.000 per gram. Artinya, pemegang emas Antam yang ingin menjualnya kembali hari ini akan menerima nilai lebih rendah dibanding sebelumnya. Baik harga jual maupun harga buyback emas Antam memang dapat berubah sewaktu-waktu mengikuti pergerakan pasar.",
+   "Antam juga mengenakan pajak dalam setiap transaksi emasnya. Untuk transaksi buyback di atas Rp10.000.000, pemerintah memungut PPh Pasal 22 sebesar 1,5 persen yang langsung dipotong dari nilai transaksi saat itu juga. Sementara itu, pembelian emas dikenakan PPh sebesar 0,25 persen dari harga dasar yang tercantum di laman resmi."
+  ],
+  "fotoAdegan": "Rows of small gold bars displayed inside a glass showcase at a bullion trading counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/01/17/65a7365561c69-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini cuma satu angka konkret: harga emas Antam turun Rp40.000 per gram, dari Rp2.664.000 ke Rp2.624.000, atau sekitar 1,5 persen, dan harga buyback ikut turun ke Rp2.477.000. Yang kena dampak langsung adalah pemilik emas Antam yang berniat menjualnya kembali hari ini, karena nilai yang diterima lebih rendah dibanding kemarin, sementara calon pembeli justru diuntungkan oleh harga yang lebih murah. Laporan ini tidak menyebut pergerakan harga emas dunia atau nilai tukar dolar, padahal keduanya biasanya yang menggerakkan harga emas Antam, sehingga belum bisa dipastikan apakah penurunan ini awal tren turun atau sekadar koreksi satu hari. Yang perlu dipantau adalah harga emas Antam pada hari-hari berikutnya untuk melihat apakah pelemahan ini berlanjut atau berbalik arah.",
+  "imageV": "mtjolkee"
  },
  {
   "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
@@ -1194,7 +1275,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
   "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:59.053Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -1221,7 +1302,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
   "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:46.858Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -7709,7 +7790,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

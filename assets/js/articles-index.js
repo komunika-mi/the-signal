@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
+  "category": "Bisnis",
+  "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
+  "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
+  "date": "2 September 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "bps",
+   "hotel",
+   "pariwisata",
+   "ekonomi"
+  ],
+  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
+  "sourceLabel": "Badan Pusat Statistik"
+ },
+ {
+  "slug": "esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo",
+  "category": "Energi",
+  "title": "ESDM Klarifikasi Proyek Panas Bumi Dekat [Gedong Songo]",
+  "deck": "Kementerian ESDM menyatakan pengembangan PLTP Gunung Ungaran di Jawa Tengah masih tahap eksplorasi, dengan target 55 MW pada 2031 dan perhatian khusus pada kawasan Candi Gedong Songo.",
+  "date": "2 September 2026",
+  "image": "assets/img/esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo.jpg",
+  "imageV": "mtjoljuu",
+  "tags": [
+   "panas bumi",
+   "ESDM",
+   "Gunung Ungaran",
+   "Candi Gedong Songo"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-pengembangan-panas-bumi-gunung-ungaran-dilakukan-bertahap-dan-berbasis-kajian",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "mora-peroleh-tambahan-kredit-rp4-triliun-dari-bca",
   "category": "Aksi Korporasi",
   "title": "MORA Peroleh Tambahan Kredit [Rp4 Triliun] dari BCA",
@@ -131,6 +165,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/613bc8ceda_357f02d390.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp40-000-jadi-rp2-624-000",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Rp40.000 Jadi Rp2.624.000",
+  "deck": "Harga emas Antam turun Rp40.000 per gram menjadi Rp2.624.000, sementara harga buyback ikut melemah ke Rp2.477.000 per gram.",
+  "date": "2 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp40-000-jadi-rp2-624-000.jpg",
+  "imageV": "mtjolkee",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464312-harga-emas-antam-hari-ini-2-september-2026-anjlok-rp40000-kini-jadi-rp2624000-per-gram"
  },
  {
   "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
@@ -742,7 +793,7 @@ var ARTICLES = [
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
   "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
   "date": "1 September 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "bps",
    "kereta api",
@@ -758,7 +809,7 @@ var ARTICLES = [
   "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
   "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
   "date": "1 September 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "bps",
    "wisatawan",
@@ -4783,7 +4834,7 @@ var ARTICLES = [
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
   "date": "25 Agustus 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "emas",
    "harga emas",
@@ -6482,54 +6533,6 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X1_81f73bc6-4ec6-43f0-9053-7b788e002d2e-20260822150501.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-rencanakan-reverse-stock-rasio-2-54-rups-besok",
-  "category": "Aksi Korporasi",
-  "title": "AADI Rencanakan [Reverse Stock] Rasio 2:54, RUPS Besok",
-  "deck": "AADI mengumumkan rencana penggabungan saham (reverse stock) rasio 2:54, sudah disetujui prinsip oleh BEI, RUPS digelar 23 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-rencanakan-reverse-stock-rasio-2-54-rups-besok.jpg",
-  "tags": [
-   "AADI",
-   "reverse stock",
-   "aksi korporasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X1_5b892b13-0a1a-4ee0-b4fb-4c34a94b95ea-20260822145627.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-rencanakan-dividen-saham-rasio-1-12-rups-24-agustus",
-  "category": "Aksi Korporasi",
-  "title": "AADI Rencanakan [Dividen] Saham Rasio 1:12, RUPS 24 Agustus",
-  "deck": "AADI mengajukan dividen saham rasio 1 banding 12 senilai Rp92.839 ke RUPS 24 Agustus 2026, menambah 12.938.098 saham baru dari saldo laba.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/aadi-rencanakan-dividen-saham-rasio-1-12-rups-24-agustus.jpg",
-  "tags": [
-   "AADI",
-   "dividen saham",
-   "RUPS",
-   "Adaro Andalan Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260822_AADI_E0X1_0788417c-1118-4fde-a50b-28df67c7de3a-20260822145205.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-cabut-mapb-dari-papan-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "BEI Cabut [MAPB] dari Papan Pemantauan Khusus",
-  "deck": "Bursa Efek Indonesia mencabut status pemantauan khusus saham Map Boga Adiperkasa (MAPB) dan memindahkannya ke Papan Pengembangan, efektif 22 Agustus 2026.",
-  "date": "22 Agustus 2026",
-  "image": "assets/img/bei-cabut-mapb-dari-papan-pemantauan-khusus.jpg",
-  "tags": [
-   "MAPB",
-   "pemantauan khusus",
-   "BEI",
-   "papan pengembangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/969e07726d_bad18d8729.pdf",
   "sourceLabel": "IDX"
  }
 ];

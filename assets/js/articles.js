@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
+  "category": "BUMN",
+  "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
+  "deck": "Pupuk Indonesia membukukan laba bersih Rp8,51 triliun pada Januari-Juni 2026, naik 253% dari periode sama tahun lalu, didorong kenaikan volume produksi dan efisiensi biaya.",
+  "image": "assets/img/laba-pupuk-indonesia-melonjak-253-di-semester-i-2026.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T05:56:25.571Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/877/pertumbuhan-pupuk-indonesia-untuk-swasembada-pangan-nasional",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "BUMN",
+   "Laporan Keuangan",
+   "Pupuk Subsidi"
+  ],
+  "body": [
+   "Pupuk Indonesia, badan usaha milik negara yang memproduksi dan mendistribusikan pupuk termasuk pupuk bersubsidi, membukukan kenaikan laba yang tajam pada semester pertama 2026. Kinerja ini penting untuk dipantau karena perusahaan berperan sebagai penyalur utama pupuk bersubsidi bagi petani di seluruh Indonesia, sehingga kesehatan keuangannya turut memengaruhi kemampuan negara menjaga pasokan pupuk nasional.",
+   "Sepanjang Januari hingga Juni 2026, pendapatan perusahaan mencapai Rp59,67 triliun, naik 51 persen dibanding periode yang sama tahun sebelumnya. EBITDA, yaitu laba operasional inti perusahaan sebelum dikurangi bunga, pajak, dan penyusutan aset, melonjak 140 persen menjadi Rp14,28 triliun. Laba bersih naik lebih tajam lagi, 253 persen, menjadi Rp8,51 triliun.",
+   "Menurut Pupuk Indonesia, kenaikan tersebut ditopang oleh naiknya volume produksi pupuk dan efisiensi biaya operasional sebagai bagian dari transformasi bisnis perusahaan, bukan semata-mata kenaikan harga jual. Perusahaan menyebut kekuatan keuangan ini sebagai modal untuk menjalankan tugasnya sebagai produsen dan distributor pupuk bersubsidi bagi jutaan petani. Klaim tersebut berasal dari siaran pers perusahaan sendiri dan belum disertai laporan keuangan auditan yang dipublikasikan secara terpisah."
+  ],
+  "fotoAdegan": "Workers stacking fertilizer sacks onto a truck at a rural warehouse, farmland stretching into the background, early morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/assets/img/danantara.png",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah adalah laba bersih Pupuk Indonesia yang naik tajam ke Rp8,51 triliun pada semester pertama 2026, dengan perusahaan mengklaim kenaikan itu berasal dari volume produksi yang lebih tinggi, bukan cuma dari harga jual. Yang terdampak adalah negara selaku pemegang saham, karena performa BUMN pupuk ini berkaitan dengan potensi setoran dividen ke kas negara sekaligus kemampuan perusahaan menjalankan penugasan pupuk bersubsidi bagi petani. Yang belum jelas dari siaran pers ini adalah rincian sumber kenaikan laba tersebut, apakah dari harga jual, volume produksi, atau efisiensi biaya bahan baku gas, sebab angka yang disampaikan baru berupa ringkasan tanpa laporan keuangan auditan. Untuk membaca ke mana arah kinerja ini bergerak, perlu ditunggu laporan keuangan resmi yang diaudit serta rincian anggaran subsidi pupuk pemerintah untuk tahun 2026, yang akan menunjukkan apakah lonjakan laba ini bersifat berkelanjutan atau sementara.",
+  "imageV": "mtl4cgc0"
+ },
+ {
+  "slug": "judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun",
+  "category": "Perbankan",
+  "title": "Judi Online Bajak Piala Dunia, Deposit Tembus [Rp1,02 Triliun]",
+  "deck": "PPATK mencatat deposit judi online bertema Piala Dunia 2026 tembus Rp1,02 triliun dalam sebulan, sementara QRIS mendominasi saluran deposit sepanjang semester ini.",
+  "image": "assets/img/judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T05:55:46.667Z",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1642/judi-online-membajak-piala-dunia-2026-deposit-tembus-rp-1-triliun.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "tags": [
+   "Judi Online",
+   "PPATK",
+   "QRIS",
+   "Piala Dunia 2026"
+  ],
+  "body": [
+   "Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) menemukan bahwa momentum Piala Dunia 2026 dimanfaatkan jaringan judi online untuk mendongkrak taruhan sepak bola. Sepanjang pertengahan Juni hingga Juli 2026, lembaga itu mengidentifikasi deposit judi bertema Piala Dunia senilai Rp1,02 triliun yang tersebar dalam lebih dari 6 juta transaksi. Sebagai respons, PPATK menghentikan sementara transaksi pada 2.815 rekening dengan total saldo Rp325,43 miliar. Temuan ini menunjukkan betapa cepat jaringan judi online menempel pada isu yang sedang ramai dibicarakan publik, termasuk ajang olahraga besar.",
+   "Data itu merupakan bagian dari catatan PPATK atas transaksi judi online sepanjang Semester I 2026. Pada periode Januari hingga Juni 2026, total perputaran dana judi online tercatat Rp86,82 triliun dari 467,32 juta transaksi, sementara nilai deposit mencapai Rp22,05 triliun dari 226,76 juta transaksi yang melalui rekening bank, dompet elektronik, dan QRIS.",
+   "Dibandingkan periode yang sama tahun 2025, total perputaran dana judi online justru turun 12,9 persen, dari Rp99,68 triliun menjadi Rp86,82 triliun. Namun jumlah transaksinya melonjak 167,2 persen, dari 174,90 juta menjadi 467,32 juta. Pola serupa terlihat pada deposit, nilainya naik 26 persen menjadi Rp22,05 triliun, sementara frekuensinya melonjak hampir 140 persen menjadi 226,76 juta transaksi. Artinya, uang taruhan kini lebih sering dipindahkan dalam nominal yang lebih kecil dan lebih sering, sebuah pola yang menurut PPATK juga dipengaruhi oleh kemampuan deteksi transaksi mencurigakan yang membaik.",
+   "QRIS menjadi saluran deposit paling dominan dengan nilai Rp12,36 triliun atau 56,04 persen dari total nominal deposit sepanjang Semester I 2026, dari 198,77 juta transaksi yang setara 87,66 persen dari seluruh transaksi deposit. Sisanya, Rp9,69 triliun, mengalir lewat rekening bank dan dompet elektronik dalam 27,99 juta transaksi. PPATK menegaskan persoalannya bukan pada QRIS sebagai alat pembayaran, melainkan pada penyalahgunaan identitas merchant dan tujuan transaksi oleh jaringan judi online."
+  ],
+  "fotoAdegan": "A blurred smartphone screen showing a football broadcast beside a small shop's digital payment terminal, dim evening lighting",
+  "fotoSumber": "https://www.ppatk.go.id//backend/assets/images/berita_utama/1785891597_1642.jpeg",
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "takeaway": "Yang berubah bukan cuma soal Piala Dunia, tapi pola transaksinya sendiri. Total uang yang diputar judi online turun 12,9 persen dibanding tahun lalu, tapi jumlah transaksinya justru naik lebih dari dua kali lipat, tanda setoran taruhan makin sering dipecah jadi nominal-nominal kecil lewat kode pembayaran QRIS yang biasa dipakai untuk belanja sehari-hari. Yang terdampak langsung adalah pemilik 2.815 rekening yang dibekukan PPATK, tapi juga merchant QRIS dan penyedia jasa pembayaran yang kemungkinan besar akan menghadapi verifikasi lebih ketat karena kanal mereka dipakai menyamarkan setoran judi. Bagi orang biasa yang memakai QRIS untuk belanja di warung atau toko, belum ada pembatasan, tapi arah kebijakannya mengarah ke pengetatan pendaftaran dan pengawasan merchant, bukan pembatasan QRIS itu sendiri. Yang akan menentukan apakah pola pemecahan transaksi ini bisa ditekan adalah data Semester II 2026 dan aturan turunan Bank Indonesia soal verifikasi merchant yang disinggung PPATK, karena kalau jumlah transaksi tetap melonjak meski pengawasan diperketat, itu tanda jaringan judi online masih menemukan celah baru.",
+  "imageV": "mtl4cj22"
+ },
+ {
+  "slug": "anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen",
+  "category": "Makroekonomi",
+  "title": "Anggaran PPATK Naik 100%, Dana Judi Online [Turun] 20 Persen",
+  "deck": "PPATK melaporkan anggarannya digandakan lebih dari 100 persen dan perputaran dana judi online turun 20,3 persen pada 2025, seiring penguatan lembaga menjelang usia ke-24.",
+  "image": "assets/img/anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T05:55:46.433Z",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1650/dukungan-presiden-prabowo-subianto-kerja-nyata-ppatk-menjaga-indonesia.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "tags": [
+   "PPATK",
+   "Judi Online",
+   "Pencucian Uang",
+   "Anggaran Negara"
+  ],
+  "body": [
+   "Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) mendapat tambahan anggaran lebih dari 100 persen atas perintah Presiden Prabowo Subianto, menjelang usia lembaga ini yang genap 24 tahun. Penambahan dana tersebut, menurut PPATK, ditujukan untuk memperkuat fungsi intelijen keuangan dalam mencegah dan menindak pencucian uang, pendanaan terorisme, serta kejahatan lain yang merugikan negara.",
+   "Salah satu fokus utamanya adalah judi online. PPATK mencatat perputaran dana judi online turun dari sekitar Rp359,81 triliun pada 2024 menjadi Rp286,84 triliun pada 2025, atau turun 20,3 persen. Sementara itu, jumlah setoran ke rekening judi online justru naik dari Rp34 triliun pada 2024 menjadi Rp51,3 triliun pada 2025, sebelum tercatat sekitar Rp22 triliun pada semester pertama 2026. PPATK juga menghentikan transaksi pada 5.762 rekening bandar judi online dan menyita Rp588,62 miliar dana judi online berdasarkan putusan pengadilan yang sudah berkekuatan hukum tetap, di luar dana yang masih diblokir penyidik atau belum diputus pengadilan.",
+   "Sepanjang 2025 hingga semester pertama 2026, PPATK menyerahkan 1.479 Hasil Analisis, yakni laporan hasil penelusuran transaksi mencurigakan, kepada aparat penegak hukum, ditambah 17 Hasil Pemeriksaan sebagai bagian dari dukungan penanganan berbagai tindak pidana.",
+   "PPATK juga merilis data indikasi nilai transaksi pada berbagai jenis kejahatan selama periode yang sama. Indikasi transaksi korupsi tercatat sekitar Rp195,77 triliun, narkotika Rp7,72 triliun, kejahatan perbankan Rp25,15 triliun, dan pasar modal Rp1,52 triliun. Di sektor sumber daya alam, indikasi transaksi pertambangan mencapai Rp684,71 triliun, kejahatan lingkungan hidup Rp198,87 triliun, dan kehutanan Rp360 miliar. Untuk kejahatan yang bersentuhan langsung dengan masyarakat, indikasi transaksi penipuan tercatat Rp33,78 triliun dan perdagangan orang Rp417 miliar. PPATK sendiri menegaskan seluruh angka ini adalah indikasi hasil olahan data, bukan nilai kerugian negara atau hasil kejahatan yang sudah disita.",
+   "Di luar itu, PPATK mengklaim kerja lembaganya turut menyumbang penerimaan negara sebesar Rp20,27 triliun sepanjang 2020 hingga Juni 2026. PPATK juga mencatat untuk pertama kalinya pegawainya mendapat penugasan di FATF, badan antipencucian uang global yang bermarkas di Paris, dengan persetujuan presiden."
+  ],
+  "fotoAdegan": "Bundles of confiscated rupiah cash and sealed evidence bags stacked on a table inside a dim government office, blurred paperwork nearby",
+  "fotoSumber": "https://www.ppatk.go.id//backend/assets/images/berita_utama/1787737153_1650.jpeg",
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "takeaway": "Yang konkret berubah di sini adalah anggaran PPATK yang digandakan lebih dari dua kali lipat atas perintah Presiden Prabowo Subianto, bersamaan dengan makin besarnya angka transaksi mencurigakan yang dilaporkan lembaga ini, dari korupsi Rp195,77 triliun sampai pertambangan Rp684,71 triliun. Angka-angka besar itu perlu dibaca hati-hati karena PPATK sendiri menyebutnya sekadar indikasi hasil olahan data, bukan kerugian negara yang sudah terbukti di pengadilan. Sebagai pembanding, dana yang benar-benar berhasil disita dari judi online baru Rp588,62 miliar, jauh di bawah skala triliunan yang disebut sebagai indikasi. Pihak yang terdampak langsung adalah bandar judi online yang rekeningnya diblokir serta pihak-pihak yang laporan analisisnya diteruskan ke polisi atau kejaksaan, sementara arah yang terlihat dari data ini adalah penguatan kapasitas pelaporan dan intelijen keuangan, bukan percepatan penindakan. Yang akan menentukan apakah anggaran yang lebih besar ini benar-benar berujung pada lebih banyak penyitaan dan vonis adalah tindak lanjut dari 1.479 Hasil Analisis yang sudah diserahkan ke aparat penegak hukum sepanjang 2025 hingga semester pertama 2026.",
+  "imageV": "mtl4cl6s"
+ },
+ {
   "slug": "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
   "category": "Aksi Korporasi",
   "title": "WINR Rencana Naikkan Kepemilikan di Laxo Global Jadi [90%]",
@@ -105,6 +189,33 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse workers stacking cardboard boxes of household goods onto pallets inside a large distribution center, forklift nearby",
   "takeaway": "Tanggapan ini netral bagi fundamental UNVR karena isinya seluruhnya penyangkalan standar, tidak ada informasi baru yang mengubah pandangan atas kinerja perusahaan. Surat semacam ini biasanya muncul ketika Bursa mendeteksi pergerakan harga atau volume transaksi saham yang di luar kebiasaan dan meminta emiten mengonfirmasi ada tidaknya alasan di baliknya, sehingga isinya tidak menyentuh pos-pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar. Karena tidak ada angka finansial yang berubah dari surat ini, tanggapan tersebut tidak boleh dibaca sebagai sinyal baik atau buruk atas kondisi keuangan Unilever Indonesia. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi sahamnya berlanjut hingga Bursa kembali meminta penjelasan, serta apakah pernyataan UNVR bahwa belum ada rencana aksi korporasi dalam tiga bulan ke depan ini masih bertahan hingga awal Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Cabai Rawit Merah [Melonjak] ke Rp82.700 per Kg",
+  "deck": "Seluruh jenis cabai naik signifikan pada Kamis (3/9), dipimpin cabai rawit merah yang melonjak 11,76 persen menjadi Rp82.700 per kilogram, sementara beras, bawang, dan ayam relatif stabil.",
+  "image": "assets/img/harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:33:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464575-harga-pangan-hari-ini-3-september-2026-emak-emak-gigit-jari-cabai-rawit-merah-tembus-rp82700-per-kilogram",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
+  "body": [
+   "Harga cabai di pasar tradisional melonjak tajam pada Kamis, 3 September 2026, sementara sebagian besar bahan pangan pokok lain bergerak stabil atau bahkan turun tipis. Kenaikan ini penting bagi konsumen karena cabai adalah bumbu yang dipakai hampir setiap hari, sehingga lonjakan harganya langsung terasa di dapur rumah tangga maupun warung makan.",
+   "Berdasarkan data Pusat Informasi Harga Pangan Strategis (PIHPS) Bank Indonesia yang diakses pukul 10.00 WIB, cabai rawit merah mencatat kenaikan paling tajam, yaitu 11,76 persen atau Rp8.700, sehingga harganya kini Rp82.700 per kilogram. Cabai merah keriting naik 7,96 persen atau Rp4.200 menjadi Rp56.950 per kilogram. Cabai rawit hijau naik 5,52 persen atau Rp3.250 menjadi Rp62.100 per kilogram. Cabai merah besar naik 4,5 persen atau Rp2.250 menjadi Rp52.200 per kilogram.",
+   "Di luar cabai, harga bawang merah justru turun 0,65 persen atau Rp250 menjadi Rp38.450 per kilogram, dan bawang putih turun 1,13 persen atau Rp450 menjadi Rp39.450 per kilogram. Harga beras relatif tertahan, beras kualitas bawah I dan II masing-masing bertahan di Rp14.850 dan Rp14.650 per kilogram, sementara beras super I dan II juga tidak berubah di Rp17.800 dan Rp17.300 per kilogram. Hanya beras medium yang naik tipis, medium I naik 0,3 persen menjadi Rp16.550 per kilogram dan medium II naik 0,31 persen menjadi Rp16.350 per kilogram.",
+   "Di sisi protein hewani, harga daging ayam ras segar naik tipis 0,35 persen atau Rp150 menjadi Rp42.600 per kilogram. Kenaikannya jauh lebih kecil dibanding cabai, sejalan dengan pola hari ini di mana tekanan harga terpusat pada komoditas cabai, bukan menyebar ke seluruh bahan pangan pokok."
+  ],
+  "fotoAdegan": "Piles of fresh red chili peppers in woven baskets at a traditional wet market stall, vendor arranging produce, morning crowd blurred",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/19/6996c4e6e156c-ilustrasi-cabai-merah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini adalah lonjakan tajam pada seluruh jenis cabai, dengan cabai rawit merah naik lebih dari 11 persen dalam sehari, sementara bahan pokok lain seperti beras, bawang, dan ayam nyaris tidak bergerak. Kenaikan ini paling terasa bagi pedagang warung makan dan ibu rumah tangga yang memakai cabai setiap hari, karena meski porsinya kecil dalam belanja bulanan, harga cabai adalah yang paling sering berubah drastis dibanding bahan pokok lain. Data PIHPS hari ini baru potret satu hari, jadi belum bisa dipastikan apakah ini awal tren kenaikan yang berlanjut atau lonjakan sesaat akibat gangguan pasokan, yang memang lazim terjadi pada cabai karena masa panennya pendek dan gampang terganggu cuaca. Yang perlu dipantau adalah data harga PIHPS pada hari-hari berikutnya, karena cabai dikenal bisa turun secepat dia naik begitu pasokan dari sentra produksi kembali normal.",
+  "imageV": "mtl4clt2"
  },
  {
   "slug": "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
@@ -210,6 +321,32 @@ var ARTICLES = [
   "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, morning sunlight reflecting off the windows",
   "takeaway": "Laporan ini netral bagi GTBO: pencabutan suspensi bukan sinyal perbaikan kinerja usaha, melainkan konfirmasi bahwa emiten akhirnya menyerahkan dua laporan keuangan yang sempat telat selama lebih dari dua bulan. Yang tersentuh di sini bukan pos kinerja seperti laba atau utang, melainkan likuiditas perdagangan sahamnya sendiri, yakni kemampuan investor untuk membeli dan menjual saham GTBO di bursa, yang sebelumnya terkunci total sejak akhir Juni 2026. Investor yang memegang saham ini perlu mencermati bahwa status Papan Pemantauan Khusus belum dicabut, yang berarti BEI masih mengawasi lebih ketat, dan kepatuhan GTBO pada jadwal pelaporan keuangan berikutnya akan jadi penentu apakah saham ini kembali disuspensi atau tidak.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp15.000 jadi Rp2.639.000/Gram",
+  "deck": "Harga emas Antam hari ini naik Rp15.000 menjadi Rp2.639.000 per gram, sementara harga buyback ikut naik ke Rp2.492.000 per gram.",
+  "image": "assets/img/harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T09:31:44+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464569-harga-emas-antam-hari-ini-3-september-2026-naik-rp15000-ke-angka-rp2639000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada 3 September 2026 naik Rp15.000 per gram, dari Rp2.624.000 menjadi Rp2.639.000 per gram, menurut data resmi di laman Logam Mulia. Kenaikan ini langsung terasa bagi masyarakat yang berencana membeli emas hari ini, karena mereka perlu merogoh kocek lebih dalam dibanding sehari sebelumnya.",
+   "Harga buyback, yaitu harga yang dibayarkan Antam kepada nasabah yang menjual kembali emasnya, juga ikut naik ke angka Rp2.492.000 per gram. Artinya pemegang emas Antam yang ingin mencairkan simpanannya hari ini akan menerima nilai lebih tinggi dibanding hari sebelumnya.",
+   "Ada ketentuan pajak yang perlu diperhatikan dalam transaksi ini. Untuk penjualan kembali atau buyback dengan nilai di atas Rp10 juta, pemerintah memungut PPh Pasal 22 sebesar 1,5 persen yang langsung dipotong dari total nilai transaksi saat itu juga. Sementara untuk pembelian emas, dikenakan PPh sebesar 0,25 persen dari harga dasar.",
+   "Antam menegaskan bahwa harga emas batangan ini sifatnya fluktuatif dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray at a jewelry counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2023/12/28/658cd9423a90a-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret hari ini cuma satu titik data, harga jual naik Rp15.000 jadi Rp2.639.000 per gram dan harga buyback naik jadi Rp2.492.000 per gram. Yang langsung kena adalah pembeli ritel yang harus membayar lebih mahal, serta nasabah yang menjual kembali emasnya, terutama yang nilai transaksinya di atas Rp10 juta karena akan dipotong pajak 1,5 persen dari total nilai jual. Data satu hari ini belum cukup untuk membaca apakah ini awal tren kenaikan atau sekadar fluktuasi harian, sebab Antam sendiri menyebut harga bisa berubah sewaktu-waktu. Yang perlu dipantau adalah pergerakan harga emas Antam dalam beberapa hari ke depan, karena pola kenaikan atau penurunan yang konsisten baru terlihat dari rangkaian data, bukan dari satu hari saja.",
+  "imageV": "mtl4cm78"
  },
  {
   "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
@@ -347,7 +484,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan terbukanya alasan kenapa Jawa Barat cuma kebagian Rp1,2 triliun dana bagi hasil pajak sementara DKI Jakarta dapat Rp22,4 triliun, padahal dana bagi hasil ini adalah uang pajak yang dikumpulkan pusat lalu dibagikan kembali ke daerah. Penyebabnya terletak pada aturan bahwa pajak penghasilan karyawan dihitung dari lokasi kantor pemberi kerja terdaftar, bukan tempat karyawan itu benar-benar bekerja, sehingga daerah seperti Jawa Barat yang banyak pabrik dan pekerjanya bisa kalah dari Jakarta yang jadi basis kantor pusat perusahaan besar. Pihak yang terdampak jelas pemerintah daerah dengan basis industri serupa Jawa Barat, karena kapasitas anggaran mereka ikut tersandera oleh aturan lokasi pendaftaran ini. Ada dua kemungkinan arah dari kajian ini: bisa berujung usulan mengubah basis penghitungan supaya daerah dengan banyak tenaga kerja mendapat bagian lebih besar, atau berhenti jadi bahan pemahaman internal saja karena mekanismenya sudah terikat ketat pada Peraturan Menteri Keuangan Nomor 35 Tahun 2026. Yang akan memastikan arah mana yang terjadi adalah hasil akhir kajian Pemprov Jawa Barat dan BRIN, yang belum disebutkan tenggat penyelesaiannya dalam pertemuan ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun",
@@ -375,7 +512,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah kepastian aturan pajak saat BUMN digabung atau dipecah dalam program perampingan dari 1.074 badan usaha menjadi sekitar 300 entitas. Lewat fasilitas nilai buku, pajak atas aset yang dipindah antarperusahaan BUMN tidak dihapus, hanya ditunda sampai aset itu benar-benar dijual ke pihak luar grup, asalkan tidak dipindahtangankan lagi dalam dua tahun. Yang terdampak langsung adalah BUMN yang sedang direstrukturisasi seperti PLN dan Pelindo, juga konsultan atau kuasa wajib pajak yang kini harus mengantongi sertifikat kompetensi resmi. Arahnya tampak menuju pelonggaran administrasi lebih lanjut, sebab pemerintah sedang menyiapkan aturan turunan lewat RPP Danantara yang akan mengizinkan restrukturisasi bertahap tetap mendapat fasilitas ini, sesuatu yang selama ini terganjal batas dua tahun tadi. Yang akan memastikan arah ini adalah kapan RPP Danantara tersebut terbit dan seberapa jauh ia melonggarkan batas waktu yang berlaku sekarang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
@@ -1565,6 +1702,33 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of a modern glass high-rise office building in a Jakarta business district, overcast sky, midday light",
   "takeaway": "Laporan ini netral bagi emiten, karena hampir seluruh isinya adalah bantahan rutin bahwa tidak ada informasi tersembunyi, dan satu-satunya hal baru, yakni penjajakan obligasi, masih sebatas wacana tanpa angka atau jadwal pasti. Obligasi adalah surat utang yang diterbitkan perusahaan untuk mendapat dana segar dari investor. Kalau nanti benar diterbitkan, ia akan menambah utang perseroan dan menimbulkan beban bunga baru yang bisa menggerus laba bersih, tapi juga bisa jadi sumber dana tanpa mengurangi porsi kepemilikan pemegang saham lama seperti halnya jika perseroan menerbitkan saham baru. Karena belum ada kepastian jumlah maupun waktu, dampaknya ke arus kas dan beban bunga belum bisa dihitung. Yang perlu dipantau berikutnya adalah apakah kajian obligasi ini berlanjut menjadi keputusan resmi, karena begitu ada kepastian nilai dan jadwalnya, perseroan wajib mengumumkannya lagi ke bursa.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026",
+  "category": "Makroekonomi",
+  "title": "Neraca Dagang Jabar [Surplus] US$16,63 Miliar Jan-Jul 2026",
+  "deck": "Ekspor Jawa Barat naik 6,43 persen jadi US$23,58 miliar, impor turun 1,45 persen jadi US$6,95 miliar, sehingga surplus dagang Januari-Juli 2026 mencapai US$16,63 miliar.",
+  "image": "assets/img/neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T10:48:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464580-neraca-perdagangan-jabar-periode-januari-juli-2026-surplus-usd-1663-miliar",
+  "tags": [
+   "neraca perdagangan",
+   "Jawa Barat",
+   "ekspor",
+   "impor"
+  ],
+  "body": [
+   "Neraca perdagangan Jawa Barat mencatat surplus US$16,63 miliar sepanjang Januari-Juli 2026, ditopang oleh nilai ekspor yang jauh melampaui impor. Menurut data Badan Pusat Statistik (BPS) Jawa Barat yang dirilis 1 September 2026, ekspor provinsi ini mencapai US$23,58 miliar, naik 6,43 persen dibanding periode yang sama tahun lalu, sementara impor tercatat US$6,95 miliar, turun 1,45 persen. Surplus yang melebar ini penting karena mencerminkan kekuatan basis manufaktur dan ekspor Jawa Barat, salah satu provinsi dengan kontribusi ekspor terbesar di Indonesia.",
+   "Dari sisi ekspor, kenaikan terjadi di hampir semua sektor. Ekspor nonmigas, yaitu di luar minyak dan gas, naik 6,35 persen menjadi US$23,40 miliar, sementara ekspor migas naik lebih tinggi secara persentase, 16,85 persen, menjadi US$178,27 juta meski nilainya jauh lebih kecil. Sektor pertanian mencatat kenaikan ekspor tertinggi sebesar 18,51 persen, disusul industri pengolahan 6,29 persen, sementara sektor pertambangan menjadi satu-satunya yang ekspornya turun, minus 3,31 persen. Di level komoditas, kelompok mesin dan peralatan mekanis jadi penopang utama dengan kenaikan US$418,86 juta atau 23,94 persen, sedangkan kelompok karet dan barang dari karet mengalami penurunan terbesar, US$114,86 juta atau 12,72 persen.",
+   "Amerika Serikat tetap jadi tujuan ekspor nonmigas terbesar Jawa Barat dengan nilai US$3,98 miliar, diikuti Filipina US$2,07 miliar dan Jepang US$1,69 miliar, tiga negara ini menyumbang 33,09 persen dari total ekspor nonmigas. Kawasan ASEAN menyerap ekspor senilai US$6,27 miliar, sementara pasar Amerika dan Eropa secara gabungan mencapai US$8,87 miliar.",
+   "Di sisi impor, penurunan justru didorong oleh anjloknya impor migas sebesar 56,80 persen menjadi US$376,54 juta, sementara impor nonmigas malah naik 6,35 persen menjadi US$6,58 miliar. Komoditas impor nonmigas yang turun paling dalam adalah mesin dan peralatan mekanis, senilai US$138,48 juta atau 22,23 persen, sejalan dengan kenaikan ekspor komoditas yang sama."
+  ],
+  "fotoAdegan": "Workers loading crates of machine parts into shipping containers at a busy industrial port in West Java, cranes overhead, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/07/26/66a37363e557c-ilustrasi-gedung-sate-bandung-jawa-barat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya ada di komposisi surplus: ekspor Jabar naik 6,43 persen jadi US$23,58 miliar, sementara impor malah turun 1,45 persen jadi US$6,95 miliar, dan penurunan impor ini hampir seluruhnya berasal dari anjloknya pembelian minyak dan gas dari luar negeri sebesar 56,80 persen. Yang paling merasakan dampaknya adalah pelaku usaha mesin dan peralatan, sebab kelompok ini sekaligus jadi andalan ekspor yang naik 23,94 persen dan jadi kelompok impor yang turun paling tajam, 22,23 persen, pertanda produsen di Jabar makin mengandalkan mesin buatan sendiri ketimbang mesin impor. Sebaliknya pelaku usaha karet dan tambang tertekan, karena ekspor karet turun 12,72 persen dan pertambangan jadi satu-satunya sektor yang total ekspornya menyusut. Arahnya mengarah ke surplus dagang yang makin ditopang manufaktur, tapi penurunan tajam impor minyak dan gas ini perlu dicek apakah memang tren jangka panjang atau cuma efek harga minyak dunia yang lebih rendah dibanding awal 2025, dan itu akan lebih jelas dari data neraca dagang Jabar periode Agustus 2026 yang biasanya dirilis BPS awal bulan depan.",
+  "imageV": "mtl4cmmw"
  },
  {
   "slug": "towr-iforte-perpanjang-tender-saham-ibst-ke-2-oktober",

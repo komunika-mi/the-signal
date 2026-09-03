@@ -5,6 +5,60 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
+  "category": "BUMN",
+  "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
+  "deck": "Pupuk Indonesia membukukan laba bersih Rp8,51 triliun pada Januari-Juni 2026, naik 253% dari periode sama tahun lalu, didorong kenaikan volume produksi dan efisiensi biaya.",
+  "date": "3 September 2026",
+  "image": "assets/img/laba-pupuk-indonesia-melonjak-253-di-semester-i-2026.jpg",
+  "imageV": "mtl4cgc0",
+  "tags": [
+   "Pupuk Indonesia",
+   "BUMN",
+   "Laporan Keuangan",
+   "Pupuk Subsidi"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/877/pertumbuhan-pupuk-indonesia-untuk-swasembada-pangan-nasional",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun",
+  "category": "Perbankan",
+  "title": "Judi Online Bajak Piala Dunia, Deposit Tembus [Rp1,02 Triliun]",
+  "deck": "PPATK mencatat deposit judi online bertema Piala Dunia 2026 tembus Rp1,02 triliun dalam sebulan, sementara QRIS mendominasi saluran deposit sepanjang semester ini.",
+  "date": "3 September 2026",
+  "image": "assets/img/judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun.jpg",
+  "imageV": "mtl4cj22",
+  "tags": [
+   "Judi Online",
+   "PPATK",
+   "QRIS",
+   "Piala Dunia 2026"
+  ],
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1642/judi-online-membajak-piala-dunia-2026-deposit-tembus-rp-1-triliun.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+ },
+ {
+  "slug": "anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen",
+  "category": "Makroekonomi",
+  "title": "Anggaran PPATK Naik 100%, Dana Judi Online [Turun] 20 Persen",
+  "deck": "PPATK melaporkan anggarannya digandakan lebih dari 100 persen dan perputaran dana judi online turun 20,3 persen pada 2025, seiring penguatan lembaga menjelang usia ke-24.",
+  "date": "3 September 2026",
+  "image": "assets/img/anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen.jpg",
+  "imageV": "mtl4cl6s",
+  "tags": [
+   "PPATK",
+   "Judi Online",
+   "Pencucian Uang",
+   "Anggaran Negara"
+  ],
+  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1650/dukungan-presiden-prabowo-subianto-kerja-nyata-ppatk-menjaga-indonesia.html",
+  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
+ },
+ {
   "slug": "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
   "category": "Aksi Korporasi",
   "title": "WINR Rencana Naikkan Kepemilikan di Laxo Global Jadi [90%]",
@@ -69,6 +123,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg",
+  "category": "Makroekonomi",
+  "title": "Harga Cabai Rawit Merah [Melonjak] ke Rp82.700 per Kg",
+  "deck": "Seluruh jenis cabai naik signifikan pada Kamis (3/9), dipimpin cabai rawit merah yang melonjak 11,76 persen menjadi Rp82.700 per kilogram, sementara beras, bawang, dan ayam relatif stabil.",
+  "date": "3 September 2026",
+  "image": "assets/img/harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg.jpg",
+  "imageV": "mtl4clt2",
+  "tags": [
+   "harga pangan",
+   "PIHPS",
+   "Bank Indonesia",
+   "cabai"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464575-harga-pangan-hari-ini-3-september-2026-emak-emak-gigit-jari-cabai-rawit-merah-tembus-rp82700-per-kilogram"
+ },
+ {
   "slug": "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
   "category": "Aksi Korporasi",
   "title": "ERAA Rencanakan [Buyback] Rp500 Miliar, Berlaku hingga Desember",
@@ -131,6 +202,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/741d472172_e9979c800f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Naik] Rp15.000 jadi Rp2.639.000/Gram",
+  "deck": "Harga emas Antam hari ini naik Rp15.000 menjadi Rp2.639.000 per gram, sementara harga buyback ikut naik ke Rp2.492.000 per gram.",
+  "date": "3 September 2026",
+  "image": "assets/img/harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram.jpg",
+  "imageV": "mtl4cm78",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464569-harga-emas-antam-hari-ini-3-september-2026-naik-rp15000-ke-angka-rp2639000-per-gram"
  },
  {
   "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
@@ -970,6 +1057,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c531231b9_950388f75a.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026",
+  "category": "Makroekonomi",
+  "title": "Neraca Dagang Jabar [Surplus] US$16,63 Miliar Jan-Jul 2026",
+  "deck": "Ekspor Jawa Barat naik 6,43 persen jadi US$23,58 miliar, impor turun 1,45 persen jadi US$6,95 miliar, sehingga surplus dagang Januari-Juli 2026 mencapai US$16,63 miliar.",
+  "date": "2 September 2026",
+  "image": "assets/img/neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026.jpg",
+  "imageV": "mtl4cmmw",
+  "tags": [
+   "neraca perdagangan",
+   "Jawa Barat",
+   "ekspor",
+   "impor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464580-neraca-perdagangan-jabar-periode-januari-juli-2026-surplus-usd-1663-miliar"
  },
  {
   "slug": "towr-iforte-perpanjang-tender-saham-ibst-ke-2-oktober",
@@ -6434,102 +6538,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8293b78a41_fba9b9dba4.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "xdes-bri-mi-ganti-pengendali-rencana-gabung-ke-mandiri-mi",
-  "category": "Aksi Korporasi",
-  "title": "XDES: BRI-MI Ganti [Pengendali], Rencana Gabung ke Mandiri MI",
-  "deck": "PT Danantara Asset Management mengambil alih saham BRI Manajemen Investasi dari BRI dan Danareksa, sebelum BRIMI digabung ke Mandiri Manajemen Investasi pada 1 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDES",
-   "BRIMI",
-   "Danantara Asset Management",
-   "Merger Manajer Investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/feb3e70b44_021867da8e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "xdif-pengendali-brimi-berganti-merger-ke-mandiri-mi-1-sept",
-  "category": "Aksi Korporasi",
-  "title": "XDIF: Pengendali BRIMI Berganti, [Merger] ke Mandiri MI 1 Sept",
-  "deck": "Manajer investasi ETF XDIF diambil alih Danantara Asset Management dan akan bergabung dengan BNI AM serta PNM IM ke Mandiri Manajemen Investasi mulai 1 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XDIF",
-   "BRIMI",
-   "Danantara Asset Management",
-   "merger manajer investasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a6d85a2607_b33376081c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bq-sesuaikan-waran-terstruktur-bbca-usai-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "BQ Sesuaikan [Waran Terstruktur] BBCA Usai Dividen Tunai",
-  "deck": "PT Korea Investment and Sekuritas Indonesia mengubah rasio dan harga pelaksanaan waran BBCABQCU6A dan BBCABQCX6A menyusul dividen tunai BBCA Rp50 per saham yang dibayar 16 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BQ",
-   "BBCA",
-   "waran terstruktur",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/ec4b3d4917_a97d335541.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmbl-pemegang-saham-lepas-43-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "BMBL: Pemegang Saham Lepas [43 Juta] Saham Lewat Repo",
-  "deck": "AMMAR AL AMANAH melepas 43 juta saham BMBL senilai sekitar Rp1,21 miliar lewat empat transaksi repurchase agreement, memangkas hak suaranya dari 23,19% menjadi 19,02%.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMBL",
-   "kepemilikan saham",
-   "repurchase agreement",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2952-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tnca-undang-rupslb-16-september-agenda-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "TNCA Undang RUPSLB 16 September, Agenda [Perubahan] Direksi",
-  "deck": "Trimuda Nuansa Citra (TNCA) memanggil RUPSLB pada 16 September 2026 dengan agenda perubahan anggaran dasar dan susunan direksi atau komisaris.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TNCA",
-   "RUPSLB",
-   "Direksi dan Komisaris",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0731fb0f7_b1909ee09d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pengusaha-minta-stabilitas-dijaga-demi-investasi",
-  "category": "Bisnis",
-  "title": "Pengusaha Minta Stabilitas Dijaga demi [Investasi]",
-  "deck": "HIPMI menyerukan dinamika penyampaian aspirasi di berbagai daerah tidak mengganggu aktivitas ekonomi, investasi, dan lapangan kerja yang tengah dibangun.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/pengusaha-minta-stabilitas-dijaga-demi-investasi.jpg",
-  "imageV": "mt6ycq08",
-  "tags": [
-   "HIPMI",
-   "investasi",
-   "stabilitas ekonomi",
-   "dunia usaha"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462131-dunia-usaha-serukan-kondusivitas-jaga-momentum-investasi-dan-aktivitas-ekonomi"
  }
 ];

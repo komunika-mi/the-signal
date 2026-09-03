@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-02T00:57:03.199+07:00",
+ "diperbarui": "2026-09-04T00:59:15.476+07:00",
  "entri": [
+  {
+   "id": "2026-09-03-3",
+   "edisi": "2026-09-03",
+   "benang": "Ekspansi Emiten, Ditopang Utang atau Mulai Berbuah",
+   "klaim": "Tekanan neraca akibat ekspansi emiten seperti BLOG, HEAL, dan MGLV lebih mungkin berlanjut dulu sebelum membaik, karena ekspansi BLOG dan HEAL masih tahap awal beroperasi dan rights issue MGLV baru berupa rencana.",
+   "penanda": "Apakah lokasi cold storage baru BLOG dan rumah sakit baru HEAL sudah mulai berkontribusi penuh ke pendapatan.",
+   "tenggat": "2026-09-08",
+   "tenggatLabel": "rangkaian public expose semester satu 2026 yang dijadwalkan 8 September 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-03-2",
+   "edisi": "2026-09-03",
+   "benang": "APBN Ditekan dari Sisi Belanja dan Penerimaan",
+   "klaim": "Belanja APBN ditekan lewat efisiensi anggaran Makan Bergizi Gratis sementara pengumpulan pajak diperketat lewat pembersihan internal Ditjen Pajak dan Bea Cukai, dua front yang bergerak bersamaan menjelang tutup tahun anggaran.",
+   "penanda": "Realisasi anggaran MBG akhir tahun dibandingkan target di bawah Rp200 triliun, dan capaian penerimaan Ditjen Pajak terhadap target Rp806 triliun.",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "menjelang tutup tahun anggaran / akhir tahun",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-03-1",
+   "edisi": "2026-09-03",
+   "benang": "Likuiditas Perbankan Makin Terkoordinasi",
+   "klaim": "Otoritas likuiditas perbankan bergerak dari sekadar menambah ruang likuiditas ke penataan jadwal dan pencarian investor yang lebih terencana.",
+   "penanda": "Kecepatan penyerapan insentif KLM baru mendekati batas 6,0 persen dari DPK, dan keberhasilan kerja sama LPS-Kadin DKI Jakarta mempertemukan investor nyata untuk BPR/BPRS bermasalah.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-01-3",
    "edisi": "2026-09-01",
@@ -123,8 +156,13 @@ var RAPOR = {
    "penanda": "Public expose insidentil DOOH",
    "tenggat": "2026-09-04",
    "tenggatLabel": "public expose DOOH pada 4 September nanti",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "dooh-paparkan-visi-jadi-holding-ekosistem-ai-usai-sii-masuk",
+    "judul": "DOOH Paparkan Visi Jadi Holding Ekosistem AI Usai SII Masuk",
+    "tanggal": "3 September 2026",
+    "alasan": "Public expose insidentil DOOH didominasi visi besar dan proyeksi pasar pihak ketiga, tanpa langkah bisnis konkret, sehingga tidak mencerminkan perubahan fundamental emiten."
+   }
   },
   {
    "id": "2026-08-27-1",

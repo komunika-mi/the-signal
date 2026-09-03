@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "mSLsH2CJlH4",
+  "title": "Presiden Prabowo dan Presiden Putin Bahas Kerja Sama Bisnis",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto bertemu Presiden Rusia Vladimir Putin di sela Eastern Economic Forum ke-11 di Vladivostok dalam format business breakfast untuk membahas penguatan kerja sama bilateral kedua negara.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena berlangsung di forum ekonomi internasional dan berpotensi membuka peluang kerja sama dagang serta investasi antara Indonesia dan Rusia.",
+  "terbit": "2026-09-03T11:32:59+00:00"
+ },
+ {
   "id": "iSPeZH9NzP0",
   "title": "Bea Cukai Siapkan Strategi Atasi Kemacetan Arus Barang di Pelabuhan",
   "category": "Bisnis",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Polemik data desil dalam DTSEN mencuat karena banyak warga kurang mampu tercatat berstatus kesejahteraan tinggi sehingga terancam kehilangan bantuan sosial.",
   "takeaway": "Akurasi data kesejahteraan menentukan tepat sasaran tidaknya anggaran bantuan sosial pemerintah.",
   "terbit": "2026-08-31T04:22:01+00:00"
- },
- {
-  "id": "0FUJczk9K2E",
-  "title": "Data Pemerintah Tak Tepat Sasaran, Bansos Terdepak",
-  "category": "Makroekonomi",
-  "program": "Pagi-pagi Seru",
-  "summary": "Pembaruan data kesejahteraan dengan sistem desil membuat sejumlah warga miskin tercoret dari daftar penerima bantuan sosial.",
-  "takeaway": "Menyoroti risiko kesalahan data dalam penyaluran anggaran perlindungan sosial negara.",
-  "terbit": "2026-08-31T04:20:09+00:00"
  }
 ];

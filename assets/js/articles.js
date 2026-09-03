@@ -212,6 +212,217 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
+  "category": "Global",
+  "title": "Presiden Prabowo Tawarkan [Formula ASEAN] ke Rusia",
+  "deck": "Presiden Prabowo menawarkan pengalaman ASEAN membangun kerja sama lewat dialog kepada Rusia dan Uni Ekonomi Eurasia dalam pidato di Eastern Economic Forum, Vladivostok.",
+  "image": "assets/img/presiden-prabowo-tawarkan-formula-asean-ke-rusia.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:30:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464675-di-hadapan-putin-prabowo-tawarkan-formula-asean-untuk-perluas-kerja-sama-rusia-ke-asia-tenggara",
+  "tags": [
+   "ASEAN",
+   "Rusia",
+   "EAEU",
+   "Eastern Economic Forum"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menawarkan pengalaman ASEAN sebagai contoh bagi Rusia dan negara-negara anggota Uni Ekonomi Eurasia (EAEU) untuk memperluas kerja sama dengan Asia Tenggara. Tawaran ini disampaikan dalam pidato Presiden Prabowo Subianto di Eastern Economic Forum ke-11 di Vladivostok, Rusia, Kamis, 3 September 2026, forum yang turut dihadiri langsung oleh Presiden Rusia Vladimir Putin. Ajakan ini penting karena menempatkan Indonesia sebagai pihak yang mendorong jalur kerja sama ekonomi baru antara kawasan Asia Tenggara dan blok ekonomi pimpinan Rusia tersebut.",
+   "Dalam pidatonya, Presiden Prabowo Subianto menceritakan perjalanan ASEAN selama hampir enam dekade yang tidak selalu berjalan mulus. Ia menyebut kawasan ini pernah mengalami konflik, ketegangan, dan perbedaan mendalam antarnegara anggota. Namun para pemimpin ASEAN akhirnya menyadari bahwa persoalan seperti kemiskinan, keterbatasan layanan kesehatan dan pendidikan, infrastruktur yang belum memadai, serta kebutuhan menciptakan lapangan kerja terlalu besar untuk diselesaikan satu negara sendirian.",
+   "Kesadaran itulah yang membuat ASEAN memilih jalur konsultasi ketimbang konfrontasi, dan kerja sama ketimbang perpecahan, dalam membangun hubungan antarnegara di kawasan. Presiden Prabowo Subianto menyebut pilihan ini menghasilkan apa yang ia sebut sebagai dividen perdamaian selama hampir enam dekade, yang pada gilirannya membuka ruang bagi kegiatan ekonomi dan sosial untuk tumbuh di Asia Tenggara.",
+   "Pengalaman itulah yang ditawarkan Presiden Prabowo Subianto kepada Rusia dan EAEU sebagai formula untuk memperluas kerja sama dengan Asia Tenggara, tanpa merinci mekanisme atau bentuk kerja sama konkret yang akan ditempuh."
+  ],
+  "fotoAdegan": "Cargo ships and container cranes at a busy far-east Russian port, overcast sky, dock workers in high-visibility vests nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a9941007d145-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pidato ini adalah tawaran terbuka Presiden Prabowo Subianto kepada Rusia dan Uni Ekonomi Eurasia, yaitu kelompok negara bekas Uni Soviet yang dipimpin Rusia, untuk mencontoh cara ASEAN membangun kerja sama lewat dialog ketimbang konfrontasi. Pihak yang berpotensi terdampak adalah pemerintah dan pelaku usaha negara ASEAN, termasuk Indonesia, yang selama ini hubungan dagangnya dengan Rusia dan negara-negara di sekitarnya masih jauh lebih kecil dibanding dengan mitra dagang utama seperti China atau Amerika Serikat. Pidato ini belum disertai angka atau kesepakatan konkret apa pun, seperti target nilai perdagangan atau nota kesepahaman resmi antara ASEAN dan EAEU, sehingga masih terlalu dini untuk menyimpulkan apakah ajakan ini akan berlanjut menjadi kerja sama nyata. Yang perlu dipantau adalah apakah ada tindak lanjut resmi, misalnya pertemuan teknis atau kesepakatan tertulis antara ASEAN dan EAEU, setelah rangkaian Eastern Economic Forum ini berakhir.",
+  "imageV": "mtlhty96"
+ },
+ {
+  "slug": "telkom-perkuat-kolaborasi-digital-di-universitas",
+  "category": "Teknologi",
+  "title": "Telkom Perkuat Kolaborasi Digital di [Universitas]",
+  "deck": "Telkom hadir dalam forum CIO pendidikan tinggi 2026 di ITB untuk memperkuat kolaborasi tata kelola data, jaringan riset, dan keamanan siber kampus se-Indonesia.",
+  "image": "assets/img/telkom-perkuat-kolaborasi-digital-di-universitas.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T16:53:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464669-persiapkan-kedaulatan-digital-di-universitas-telkom-perkuat-kolaborasi-pentahelix",
+  "tags": [
+   "Telkom",
+   "PDDikti",
+   "IDREN",
+   "Pendidikan Tinggi"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk turut ambil bagian dalam Indonesia Higher Education CIO Forum 2026, forum yang mempertemukan rektor, kepala teknologi informasi, dan pengelola sistem digital dari puluhan universitas se-Indonesia. Acara ini berlangsung di Aula Barat Institut Teknologi Bandung pada 31 Agustus hingga 1 September 2026, dan turut dihadiri delegasi pimpinan universitas dari sejumlah negara. Kehadiran Telkom dalam forum ini menyangkut arah pembangunan infrastruktur digital di sektor pendidikan tinggi, sektor yang selama ini menghadapi masalah keamanan data dan ketimpangan akses teknologi antar kampus.",
+   "Forum ini digagas oleh Pusat Data dan Teknologi Informasi Kementerian Pendidikan Tinggi, Sains, dan Teknologi bersama Indonesia Research and Education Network (IDREN), jaringan yang menghubungkan sistem teknologi informasi kampus-kampus di Indonesia untuk keperluan riset dan pendidikan. Tujuannya memperkuat Pangkalan Data Pendidikan Tinggi (PDDikti), basis data resmi yang menjadi acuan pelaporan mutu pendidikan tinggi nasional. Empat topik utama yang dibahas adalah tata kelola teknologi informasi kampus, penguatan jaringan internet riset dan pendidikan, ketahanan terhadap serangan siber, serta pemanfaatan kecerdasan buatan yang aman di lingkungan akademik.",
+   "Direktur Strategic Business Development and Portfolio Telkom, Seno Soemadji, menyampaikan bahwa transformasi digital di perguruan tinggi kini mendesak dilakukan seiring munculnya teknologi komputasi kuantum dan berbagai potensi disrupsi lain. Ia menekankan bahwa tidak ada satu kampus pun yang bisa membangun infrastruktur digital sendirian, sehingga diperlukan kolaborasi lintas pihak yang disebutnya sebagai kolaborasi pentahelix, yakni kerja sama antara pemerintah, kalangan akademik, dunia usaha, komunitas, dan media. Menurut Seno, kolaborasi semacam itu membuat pembangunan sistem digital kampus menjadi lebih murah, lebih cepat, dan lebih aman dibandingkan jika setiap kampus bergerak sendiri-sendiri."
+  ],
+  "fotoAdegan": "IT technicians inspecting network server racks in a university data center, cables and blinking indicator lights, focused work",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a9942b90aba8-direktur-strategic-business-development-portfolio-telkom-seno-soemadji-menyampaikan-paparan-dalam-indonesia-higher-education-cio-forum-2026-di-institut-teknologi-bandung_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari forum ini adalah Telkom memperkuat posisinya sebagai penyedia infrastruktur bagi basis data PDDikti dan jaringan IDREN, tapi belum ada angka investasi, nilai kontrak, atau target waktu konkret yang diumumkan dari partisipasi ini. Pihak yang langsung terdampak adalah kampus-kampus anggota IDREN dan pengelola teknologi informasi di dalamnya, karena merekalah yang akan bergantung pada infrastruktur digital yang dibangun lewat kolaborasi semacam ini. Arah dari pertemuan ini belum bisa dipastikan, apakah akan berlanjut ke kerja sama komersial resmi antara Telkom dan Kemendiktisaintek atau IDREN, sebab yang disampaikan baru berupa komitmen dan pernyataan dukungan, bukan kesepakatan tertulis. Yang perlu ditunggu adalah apakah forum ini menghasilkan nota kesepahaman atau kontrak kerja sama resmi, serta apakah PDDikti benar-benar mendapat pembaruan sistem dalam waktu dekat sebagai tindak lanjut dari empat pilar yang dibahas.",
+  "imageV": "mtlhtyp2"
+ },
+ {
+  "slug": "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
+  "category": "Global",
+  "title": "Presiden Prabowo Tantang Rusia [Gandakan] Nilai Dagang RI",
+  "deck": "Presiden Prabowo Subianto menantang Rusia menggandakan nilai perdagangan bilateral dari sekitar US$5 miliar, disampaikan dalam forum ekonomi di Vladivostok, Rusia.",
+  "image": "assets/img/presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T16:14:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464657-prabowo-tantang-rusia-gandakan-dagang-ri-bidik-tembus-dua-kali-lipat",
+  "tags": [
+   "Rusia",
+   "Presiden Prabowo Subianto",
+   "perdagangan bilateral",
+   "Eastern Economic Forum"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menantang Rusia untuk menggandakan nilai perdagangan bilateral kedua negara. Tantangan itu disampaikan dalam forum Eastern Economic Forum ke-11 di Vladivostok, Rusia, Kamis (3/9/2026). Pernyataan ini menandai upaya pemerintah memperluas pasar ekspor sekaligus sumber pasokan di luar mitra dagang utama Indonesia selama ini.",
+   "Presiden Prabowo Subianto menilai perbedaan struktur ekonomi Indonesia dan Rusia justru bisa menjadi kekuatan, bukan penghalang. Ia menyebut Rusia unggul dalam gandum, pupuk, energi, serta ilmu pengetahuan dan rekayasa. Indonesia, menurutnya, punya kekuatan pada sawit, perikanan, kopi, karet, tekstil, furnitur, barang konsumsi, dan tenaga kerja muda. Ia mengaitkan pertanyaan besar forum tersebut, yaitu bagaimana kekayaan suatu kawasan bisa diterjemahkan menjadi kehidupan yang lebih baik bagi warganya, dengan pertanyaan serupa yang kerap diajukan masyarakat Indonesia kepadanya.",
+   "Nilai perdagangan Indonesia dan Rusia pada 2025 tercatat mendekati US$5 miliar, dan angka itu menjadi dasar tantangan Presiden Prabowo Subianto untuk melipatgandakannya. Jika tercapai, target tersebut berarti nilai perdagangan kedua negara bisa mendekati US$10 miliar, meski Presiden Prabowo Subianto tidak menyebutkan tenggat waktu atau mekanisme untuk mencapainya."
+  ],
+  "fotoAdegan": "Dock workers loading sacks of coffee and crates of palm oil products onto a cargo ship at a busy Indonesian port, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a99310455691-presiden-ri-prabowo-subianto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah munculnya angka target yang jelas, dari perdagangan sekitar US$5 miliar pada 2025 menjadi kira-kira dua kali lipatnya, tanpa disertai tenggat waktu atau cara mencapainya. Pihak yang berpotensi terdampak adalah pelaku usaha ekspor sawit, perikanan, kopi, karet, tekstil, dan furnitur ke Rusia, serta importir gandum, pupuk, dan energi dari sana. Pernyataan ini disampaikan sebagai tantangan di forum internasional, bukan sebagai kesepakatan dagang yang sudah diteken, sehingga belum bisa dipastikan apakah target ini akan dituangkan jadi perjanjian konkret atau berhenti sebagai pernyataan politik. Yang perlu dipantau adalah apakah ada nota kesepahaman atau peta jalan kerja sama lanjutan setelah forum ini, serta data realisasi perdagangan Indonesia-Rusia pada laporan berikutnya, karena keduanya yang akan menunjukkan apakah tantangan ini bergerak jadi kebijakan atau sekadar retorika diplomatik.",
+  "imageV": "mtlhtz7b"
+ },
+ {
+  "slug": "pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Penghargaan] Tata Kelola Terbaik 2026",
+  "deck": "PT Pegadaian meraih penghargaan Indonesia Best Corporate Secretary for Governance Excellence 2026 dari Majalah SWA atas konsistensi tata kelola perusahaan.",
+  "image": "assets/img/pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T16:05:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464655-pegadaian-raih-penghargaan-corporate-secretary-champion-2026-komitmen-perkuat-tata-kelola-dan-reputasi-perusahaan",
+  "tags": [
+   "pegadaian",
+   "penghargaan",
+   "tata kelola",
+   "bumn"
+  ],
+  "body": [
+   "PT Pegadaian menerima penghargaan sebagai pemenang kategori Indonesia Best Corporate Secretary for Governance Excellence 2026 dalam ajang Corporate Secretary Champion 2026 yang digelar Majalah SWA di Jakarta pada 1 September 2026. Penghargaan ini mengapresiasi kinerja fungsi sekretaris perusahaan pelat merah tersebut dalam menjaga standar tata kelola yang baik atau Good Corporate Governance.",
+   "Proses penjurian berlangsung pada 7 sampai 9 Juli 2026 dengan menilai enam aspek, yaitu kepatuhan terhadap aturan, hubungan dengan investor, hubungan dengan pemerintah, hubungan media dan masyarakat, program tanggung jawab sosial perusahaan, serta penanganan situasi krisis. Fungsi Corporate Secretary Pegadaian saat ini dipimpin oleh Dwi Hadi Atmaka, yang dinilai berhasil membangun komunikasi yang terbuka dengan seluruh pemangku kepentingan perusahaan.",
+   "Dwi Hadi Atmaka mengatakan pencapaian ini menjadi dorongan bagi Pegadaian untuk terus memperbaiki kualitas tata kelola dan komunikasi korporasi secara profesional. Ia menyebut hubungan yang erat dan transparan dengan para pemangku kepentingan sebagai kunci utama menjalankan fungsi kesekretariatan sekaligus memperkuat reputasi perusahaan."
+  ],
+  "fotoAdegan": "A pegadaian teller carefully weighing a customer's gold jewelry at a service counter, warm indoor afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a99377129fad-pegadaian-raih-penghargaan-corporate-secretary-champion-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau angka bisnis, melainkan sebuah pengakuan dari luar: dewan juri ajang Corporate Secretary Champion 2026 menilai Pegadaian unggul di enam aspek, mulai dari kepatuhan aturan sampai penanganan krisis, berdasarkan penjurian awal Juli lalu. Yang terdampak langsung adalah citra dan reputasi Pegadaian sebagai badan usaha milik negara, bukan produk gadai atau pembiayaan yang dipakai nasabah sehari-hari. Berita ini belum menjelaskan apakah penghargaan ini berkaitan dengan perubahan konkret, misalnya hasil asesmen tata kelola dari Kementerian BUMN atau OJK, atau rencana bisnis seperti ekspansi layanan. Supaya jelas ke arah mana capaian ini bergerak, perlu dicek apakah predikat serupa juga muncul di penilaian resmi seperti laporan GCG tahunan Pegadaian berikutnya atau Annual Report Award.",
+  "imageV": "mtlhtzrw"
+ },
+ {
+  "slug": "purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah",
+  "category": "Makroekonomi",
+  "title": "Purbaya [Rumahkan] 3 Pegawai Pajak Diduga Bermasalah",
+  "deck": "Menkeu Purbaya Yudhi Sadewa merombak jajaran pejabat Ditjen Pajak dan Bea Cukai, menonaktifkan pegawai yang diduga bermain-main dalam pengelolaan pajak tertentu.",
+  "image": "assets/img/purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T15:30:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464640-purbaya-bongkar-cara-bersihkan-pajak-dan-bea-cukai-5-pegawai-bermasalah-bisa-langsung-ditindak",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Ditjen Pajak",
+   "Bea Cukai",
+   "Kementerian Keuangan"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa memaparkan langkah-langkah pembenahan internal di Direktorat Jenderal Pajak (DJP) dan Direktorat Jenderal Bea dan Cukai (DJBC). Ia menegaskan pegawai yang terbukti melanggar aturan akan ditindak, dan mengaku sudah memetakan pejabat yang terindikasi melakukan penyimpangan.",
+   "Salah satu caranya adalah membuat peringkat pegawai yang paling dicurigai bermasalah dalam penanganan pajak tertentu. Dari hasil pemetaan itu, Purbaya menyebut ada lima pegawai yang masuk daftar teratas, dan tiga di antaranya sudah dinonaktifkan dari tugasnya. \"Untuk beberapa kasus, misalnya saya lihat curiga, hal tertentu ya, mereka masih main, untuk pajak tertentu saya ranking 5 orang terbesar siapa yang dianggap main-main, terus mungkin 3 orang saya rumahkan. Itu memberi pesan ke pegawai pajak bahwa kita serius memperbaiki kualitas pengumpulan pajak,\" kata Purbaya.",
+   "Selain menindak individu, Kementerian Keuangan juga merombak susunan pejabat di berbagai tingkatan struktur DJP, mulai dari eselon dua hingga eselon empat. Pegawai dengan kinerja kurang baik dipindahkan ke kantor pajak daerah, sementara yang dinilai berkinerja baik ditempatkan di kantor pajak besar dengan potensi penerimaan tinggi.",
+   "\"Kan masyarakat sudah tahu sering bocor sana-sini. Misalnya saya periksa lah kira-kira pejabat mana yang sering mengerjakan hal-hal yang negatif, saya reorganize. Hampir semua orang pajak, eselon 2, eselon 3, eselon 4 saya kocok ulang, saya pindahin yang kurang baik ke daerah, yang baik ke pusat-pusat yang pengumpulan pajaknya besar, kantor-kantor pajak besar,\" jelas Purbaya."
+  ],
+  "fotoAdegan": "Rows of clerks and officers working at desks inside a busy Indonesian tax service office, soft morning light through blinds",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a848b02a70ee-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar imbauan, melainkan tindakan konkret: lima pegawai diperingkat sebagai yang paling dicurigai bermain dalam pengelolaan pajak tertentu, tiga di antaranya langsung dinonaktifkan dari jabatan, dan hampir seluruh pejabat DJP di tiga tingkatan jabatan dirotasi berdasarkan penilaian kinerja. Yang terdampak langsung adalah pegawai dan pejabat di lingkungan DJP dan DJBC, sementara dampak lanjutannya baru terasa oleh wajib pajak jika perbaikan tata kelola ini benar-benar mengubah cara kantor pajak melayani dan mengawasi setoran mereka. Pola yang terlihat adalah pendekatan dua jalur sekaligus, yaitu menindak orang per orang yang dicurigai sambil merombak struktur organisasi, bukan cuma salah satunya. Yang akan menentukan apakah ini pembersihan serius atau langkah simbolis adalah dua hal yang belum disebut dalam keterangan Purbaya, yakni apakah status \"dirumahkan\" itu berlanjut ke pemecatan atau proses hukum, dan apakah rotasi pejabat ini berdampak pada angka realisasi penerimaan pajak pada laporan APBN periode berikutnya.",
+  "imageV": "mtlhu08p"
+ },
+ {
+  "slug": "telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar",
+  "category": "BUMN",
+  "title": "Telkom Gelar AI Camp untuk 350 Pelajar di [Makassar]",
+  "deck": "Telkom memulai program AI Camp berbasis kesejahteraan mental di Makassar, melibatkan 300 siswa dan 50 guru dari 10 SMA dan SMK.",
+  "image": "assets/img/telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T15:10:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464643-telkom-hadirkan-edumind-wellbeing-dan-ai-camp-di-makassar-diikuti-350-peserta",
+  "tags": [
+   "Telkom",
+   "AI Camp",
+   "Makassar",
+   "TJSL"
+  ],
+  "body": [
+   "PT Telkom Indonesia meluncurkan program pendidikan berbasis kecerdasan buatan bernama BISA PandAI, dengan salah satu bagiannya, BISA Vokasi, memulai kegiatan perdananya di Makassar lewat acara EduMind Wellbeing & AI Camp. Kegiatan ini diikuti 350 orang, terdiri dari 300 siswa dan 50 guru pendamping yang berasal dari 10 SMA dan SMK di kota tersebut. Program ini menggabungkan pelatihan pemanfaatan AI dengan perhatian pada kesehatan mental pelajar, sebuah kombinasi yang jadi penting seiring makin banyaknya sekolah yang mengandalkan teknologi digital dalam proses belajar.",
+   "Kementerian Komunikasi dan Digital mencatat tingkat pemakaian AI di Indonesia pada 2026 sudah mencapai 92 persen, angka yang menurut Telkom menunjukkan perlunya pendampingan agar pemanfaatan teknologi ini di sekolah berjalan bertanggung jawab. Untuk para guru, Telkom menyediakan platform bernama EduMind yang punya fitur pemeriksaan suasana hati siswa setiap minggu, pemantauan kondisi psikologis berbantuan AI, dan sistem pelaporan, sehingga sekolah bisa memantau kondisi siswa secara berkelanjutan. Sementara itu, para siswa dibekali cara memakai AI secara kreatif dan produktif untuk mendukung pembelajaran mereka.",
+   "Senior General Manager Social Responsibility Telkom, Hery Susanto, mengatakan transformasi digital di sekolah perlu berjalan bersamaan dengan penjagaan kesehatan mental pelajar agar mereka tumbuh menjadi generasi yang cerdas dan adaptif. Ia menambahkan bahwa Telkom akan terus memperkuat kerja sama dengan sekolah, guru, dan pemangku kepentingan lain untuk membangun lingkungan belajar yang inklusif dan sehat. Program di Makassar ini merupakan bagian dari kegiatan tanggung jawab sosial dan lingkungan (TJSL) TelkomGroup di sektor pendidikan."
+  ],
+  "fotoAdegan": "Teenage students clustered around laptops in a bright school hall during a workshop, a teacher guiding them closely",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a9929d458eca-pt-telkom-indonesia-menghadirkan-bisa-pandai-dengan-program-bisa-vokasi-yang-berfokus-dalam-penerapan-teknologi-kecerdasan-buatan-artificial-intelligenceai_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Telkom mulai menjalankan program literasi AI sekaligus pemantauan kesehatan mental untuk 300 siswa dan 50 guru dari 10 sekolah, lewat platform yang bisa mencatat suasana hati siswa tiap minggu. Yang terdampak langsung adalah siswa dan guru SMA/SMK di Makassar, tapi kata 'diawali' dalam pemberitaan ini menyiratkan Makassar hanya jadi kota pertama dari program yang lebih luas. Dengan tingkat pemakaian AI di Indonesia sudah mencapai 92 persen menurut Kementerian Komunikasi dan Digital, arah yang masuk akal adalah program semacam ini akan direplikasi ke kota-kota lain sebagai bagian strategi tanggung jawab sosial Telkom di sektor pendidikan digital. Yang akan memastikan pembacaan ini adalah ada tidaknya pengumuman kota berikutnya atau perluasan jumlah sekolah peserta dalam beberapa bulan ke depan.",
+  "imageV": "mtlhu0rb"
+ },
+ {
+  "slug": "bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank",
+  "category": "Perbankan",
+  "title": "BI dan Kemenkeu Siapkan [Jadwal] Jaga Likuiditas Bank",
+  "deck": "Gubernur BI Destry Damayanti memastikan BI dan Kementerian Keuangan sudah punya jadwal bersama soal penempatan dan penarikan dana pemerintah di bank Himbara.",
+  "image": "assets/img/bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T15:00:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464632-destry-pastikan-likuiditas-perbankan-aman-bi-dan-purbaya-siapkan-langkah-antisipasi",
+  "tags": [
+   "likuiditas perbankan",
+   "Bank Indonesia",
+   "Himbara",
+   "Kementerian Keuangan"
+  ],
+  "body": [
+   "Gubernur Bank Indonesia Destry Damayanti memastikan bank sentral dan pemerintah memperkuat koordinasi untuk menjaga ketersediaan dana tunai di perbankan serta stabilitas sistem keuangan nasional. Pernyataan itu disampaikan dalam acara Sarasehan 100 Ekonom Indonesia 2026 di kawasan Tanah Abang, Jakarta Pusat, Kamis, 3 September 2026.",
+   "Menurut Destry, sinergi dilakukan lewat perpaduan kebijakan moneter BI dan kebijakan fiskal Kementerian Keuangan yang dipimpin Menteri Keuangan Purbaya Yudhi Sadewa. Koordinasi ini mencakup langkah-langkah intervensi likuiditas di sektor keuangan, dengan tujuan utama mencegah kembali terjadinya kekeringan dana tunai yang bisa mengganggu operasional bank.",
+   "Salah satu bentuk konkretnya adalah jadwal bersama, atau time table, mengenai kapan Kementerian Keuangan menempatkan dan menarik dana pemerintah di bank-bank Himpunan Bank Milik Negara (Himbara). \"Misalnya dalam hal koordinasi soal kapan Kementerian Keuangan akan menempatkan dana di bank-bank Himbara, dan kapan akan ditariknya, itu sudah ada time table-nya,\" kata Destry.",
+   "Destry menyebut kondisi likuiditas sistem keuangan sebagai pekerjaan rumah bersama antara otoritas moneter dan fiskal. BI, kata dia, menyambut baik berbagai upaya yang telah dilakukan Purbaya dalam menjaga kondisi sistem keuangan."
+  ],
+  "fotoAdegan": "Interior of a busy Indonesian state-owned bank branch, tellers serving customers at counters, morning light through glass doors",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/25/6a642ec127af8-deputi-gubernur-senior-bank-indonesia-destry-damayanti_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar janji koordinasi, tapi adanya jadwal tetap kapan Kementerian Keuangan menaruh dan menarik dana pemerintah dari bank-bank Himbara, yaitu BRI, BNI, Mandiri, dan BTN. Selama ini penarikan dana pemerintah dari bank secara mendadak, misalnya saat pajak besar dikumpulkan atau belanja negara dikebut, bisa membuat bank kekurangan dana yang siap dipinjamkan. Bank-bank Himbara jadi pihak yang paling langsung merasakan mekanisme baru ini, dan secara tidak langsung nasabah serta pelaku usaha yang bergantung pada kredit ikut terkena dampaknya lewat ketersediaan pinjaman. Arahnya adalah koordinasi fiskal-moneter yang lebih terjadwal dan mencegah masalah lebih dini, bukan lagi menambal setelah likuiditas seret terjadi. Yang perlu dicermati adalah apakah likuiditas perbankan tetap stabil saat periode penarikan pajak besar atau realisasi belanja akhir tahun 2026, karena di situlah jadwal ini akan benar-benar diuji.",
+  "imageV": "mtlhu17v"
+ },
+ {
+  "slug": "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran MBG Berpeluang [Ditekan] di Bawah Rp200 Triliun",
+  "deck": "Menkeu Purbaya Yudhi Sadewa menyebut anggaran Makan Bergizi Gratis tahun ini berpeluang ditekan di bawah Rp200 triliun lewat efisiensi dan teknologi, setelah dipangkas bertahap dari Rp330 triliun.",
+  "image": "assets/img/anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T14:00:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464617-purbaya-beri-sinyal-anggaran-mbg-bisa-dipangkas-di-bawah-rp200-triliun-ini-alasannya",
+  "tags": [
+   "MBG",
+   "Anggaran MBG",
+   "Purbaya Yudhi Sadewa",
+   "BGN"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengatakan anggaran program Makan Bergizi Gratis (MBG) tahun ini masih berpeluang dipangkas hingga di bawah Rp200 triliun. Sinyal ini disampaikan dalam acara Sarasehan 100 Ekonom Indonesia 2026 di Hotel Kempinski, Jakarta Pusat, Kamis (3/9/2026). Pernyataan ini penting karena MBG merupakan salah satu program prioritas Presiden Prabowo Subianto dengan alokasi anggaran terbesar, sehingga pemangkasannya berpengaruh langsung pada ruang fiskal pemerintah tahun ini.",
+   "Anggaran MBG sempat ditetapkan Rp330 triliun di awal tahun ini, lalu dipangkas bertahap menjadi sekitar Rp260 triliun, kemudian turun lagi ke kisaran Rp240 triliun. Purbaya menyebut, berdasarkan pembicaraannya dengan Kepala Badan Gizi Nasional (BGN) yang baru, Sudaryono, anggaran itu masih bisa ditekan lebih jauh hingga di bawah Rp200 triliun tanpa menghentikan pelaksanaan program.",
+   "Untuk tahun depan, pemerintah sudah mengalokasikan sekitar Rp240 triliun untuk MBG. Purbaya menilai angka itu berpotensi ditekan lagi lewat langkah efisiensi dan pemanfaatan teknologi dalam pelaksanaan program di lapangan."
+  ],
+  "fotoAdegan": "Kitchen workers in a school meal program packing rice and side dishes into stacked metal trays, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82bb19ac828-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pernyataan Purbaya bukan sekadar angka anggaran MBG, melainkan pola pemangkasannya. Dari Rp330 triliun di awal tahun, anggaran ini sudah tiga kali direvisi turun ke Rp260 triliun lalu Rp240 triliun, dan sekarang disebut bisa turun lagi ke bawah Rp200 triliun, sementara anggaran tahun depan yang sudah dipatok Rp240 triliun pun disebut masih akan ditekan. Pola berulang ini paling terasa bagi Badan Gizi Nasional selaku pelaksana program, karena merekalah yang harus menjaga jangkauan penerima MBG dengan anggaran yang terus menyusut, dan bagi pengelolaan anggaran negara secara keseluruhan karena MBG adalah salah satu pos belanja terbesar tahun ini. Polanya menunjukkan efisiensi MBG bergerak sebagai proses bertahap dan berkelanjutan, bukan pemangkasan satu kali yang berhenti di angka tertentu. Yang akan memastikan arah ini adalah revisi anggaran resmi dari pemerintah atau laporan akhir tahun soal berapa anggaran MBG yang benar-benar terpakai, yang akan menunjukkan apakah angka di bawah Rp200 triliun itu benar-benar tercapai atau baru sebatas proyeksi.",
+  "imageV": "mtlhu297"
+ },
+ {
   "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
   "category": "BUMN",
   "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
@@ -672,7 +883,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Jabar Selidiki Sebab DBH Pajak Tertinggal dari [Jakarta]",
   "deck": "Pemprov Jawa Barat dan BRIN mengkaji penyebab dana bagi hasil pajak provinsi ini jauh di bawah DKI Jakarta, sembari menelusuri aturan baru pembagian DBH PPh yang berlaku tahun ini.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:16.364Z",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/optimalkan-dbh-pemerintah-provinsi-jawa-barat-dan-brin-dalami-potensi-penerimaan-pajak",
@@ -690,17 +901,17 @@ var ARTICLES = [
    "Total alokasi DBH sendiri terdiri dari 90 persen berdasarkan formula tetap dan 10 persen berdasarkan kinerja daerah, seperti kepatuhan pelaporan pajak tahunan dan kerja sama pemungutan pajak pusat-daerah. Untuk melengkapi kajian, BRIN meminta data tambahan dari DJP berupa jumlah wajib pajak yang harus lapor SPT tahunan dan jumlah yang benar-benar sudah melapor, guna menganalisis basis pajak dan tingkat kepatuhan di Jawa Barat. DJP Jawa Barat sendiri terbagi dalam tiga wilayah kerja kantor wilayah dengan karakteristik ekonomi yang berbeda-beda."
   ],
   "fotoAdegan": "Rows of factory workers assembling products on a production line inside an industrial park, daylight through high windows",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-08/KJB28225_3840.jpg?itok=0-BH-gO-",
+  "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan terbukanya alasan kenapa Jawa Barat cuma kebagian Rp1,2 triliun dana bagi hasil pajak sementara DKI Jakarta dapat Rp22,4 triliun, padahal dana bagi hasil ini adalah uang pajak yang dikumpulkan pusat lalu dibagikan kembali ke daerah. Penyebabnya terletak pada aturan bahwa pajak penghasilan karyawan dihitung dari lokasi kantor pemberi kerja terdaftar, bukan tempat karyawan itu benar-benar bekerja, sehingga daerah seperti Jawa Barat yang banyak pabrik dan pekerjanya bisa kalah dari Jakarta yang jadi basis kantor pusat perusahaan besar. Pihak yang terdampak jelas pemerintah daerah dengan basis industri serupa Jawa Barat, karena kapasitas anggaran mereka ikut tersandera oleh aturan lokasi pendaftaran ini. Ada dua kemungkinan arah dari kajian ini: bisa berujung usulan mengubah basis penghitungan supaya daerah dengan banyak tenaga kerja mendapat bagian lebih besar, atau berhenti jadi bahan pemahaman internal saja karena mekanismenya sudah terikat ketat pada Peraturan Menteri Keuangan Nomor 35 Tahun 2026. Yang akan memastikan arah mana yang terjadi adalah hasil akhir kajian Pemprov Jawa Barat dan BRIN, yang belum disebutkan tenggat penyelesaiannya dalam pertemuan ini.",
-  "fotoGagal": 2
+  "imageV": "mtlhuf8p"
  },
  {
   "slug": "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun",
   "category": "BUMN",
   "title": "DJP Perjelas Pajak untuk [Restrukturisasi] BUMN Rp806 Triliun",
   "deck": "DJP Wajib Pajak Besar menjelaskan fasilitas pajak baru bagi restrukturisasi BUMN kepada 55 pimpinan perusahaan, di tengah target penerimaan Rp806 triliun tahun ini.",
-  "image": "assets/img/truk-logistik-gudang.jpg",
+  "image": "assets/img/djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:15.456Z",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/kawal-restrukturisasi-bumn-kanwil-djp-wajib-pajak-besar-berusaha-realisasikan-target",
@@ -718,10 +929,10 @@ var ARTICLES = [
    "Dalam sesi tanya jawab, perwakilan Pelindo mempertanyakan aturan larangan pemindahtanganan aset dalam dua tahun, yang berpotensi menghambat restrukturisasi bertahap dalam satu tahun pajak. Penyuluh DJP menjelaskan bahwa berdasarkan aturan saat ini, pengalihan sebelum dua tahun bisa membatalkan fasilitas pajak kecuali untuk efisiensi yang disetujui. Namun pemerintah tengah menyusun Rancangan Peraturan Pemerintah tentang Danantara yang akan mengakomodasi skema restrukturisasi berjenjang agar tetap bisa memakai fasilitas nilai buku."
   ],
   "fotoAdegan": "Container cranes loading stacked cargo boxes onto a large ship at a busy Indonesian seaport, workers in vests, midday light",
-  "fotoSumber": "",
-  "kreditFoto": "",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-08/Sambutan%20Kakanwil%20LTO_Dasto%20Ledyanto%20di%20acara%20Forum%20Konsultasi%20Publik%202026_1.jpeg?itok=wkbv3uwa",
+  "kreditFoto": "Direktorat Jenderal Pajak",
   "takeaway": "Yang berubah di sini adalah kepastian aturan pajak saat BUMN digabung atau dipecah dalam program perampingan dari 1.074 badan usaha menjadi sekitar 300 entitas. Lewat fasilitas nilai buku, pajak atas aset yang dipindah antarperusahaan BUMN tidak dihapus, hanya ditunda sampai aset itu benar-benar dijual ke pihak luar grup, asalkan tidak dipindahtangankan lagi dalam dua tahun. Yang terdampak langsung adalah BUMN yang sedang direstrukturisasi seperti PLN dan Pelindo, juga konsultan atau kuasa wajib pajak yang kini harus mengantongi sertifikat kompetensi resmi. Arahnya tampak menuju pelonggaran administrasi lebih lanjut, sebab pemerintah sedang menyiapkan aturan turunan lewat RPP Danantara yang akan mengizinkan restrukturisasi bertahap tetap mendapat fasilitas ini, sesuatu yang selama ini terganjal batas dua tahun tadi. Yang akan memastikan arah ini adalah kapan RPP Danantara tersebut terbit dan seberapa jauh ia melonggarkan batas waktu yang berlaku sekarang.",
-  "fotoGagal": 2
+  "imageV": "mtlhukqe"
  },
  {
   "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",

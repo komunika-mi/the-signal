@@ -133,6 +133,142 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
+  "category": "Global",
+  "title": "Presiden Prabowo Tawarkan [Formula ASEAN] ke Rusia",
+  "deck": "Presiden Prabowo menawarkan pengalaman ASEAN membangun kerja sama lewat dialog kepada Rusia dan Uni Ekonomi Eurasia dalam pidato di Eastern Economic Forum, Vladivostok.",
+  "date": "3 September 2026",
+  "image": "assets/img/presiden-prabowo-tawarkan-formula-asean-ke-rusia.jpg",
+  "imageV": "mtlhty96",
+  "tags": [
+   "ASEAN",
+   "Rusia",
+   "EAEU",
+   "Eastern Economic Forum"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464675-di-hadapan-putin-prabowo-tawarkan-formula-asean-untuk-perluas-kerja-sama-rusia-ke-asia-tenggara"
+ },
+ {
+  "slug": "telkom-perkuat-kolaborasi-digital-di-universitas",
+  "category": "Teknologi",
+  "title": "Telkom Perkuat Kolaborasi Digital di [Universitas]",
+  "deck": "Telkom hadir dalam forum CIO pendidikan tinggi 2026 di ITB untuk memperkuat kolaborasi tata kelola data, jaringan riset, dan keamanan siber kampus se-Indonesia.",
+  "date": "3 September 2026",
+  "image": "assets/img/telkom-perkuat-kolaborasi-digital-di-universitas.jpg",
+  "imageV": "mtlhtyp2",
+  "tags": [
+   "Telkom",
+   "PDDikti",
+   "IDREN",
+   "Pendidikan Tinggi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464669-persiapkan-kedaulatan-digital-di-universitas-telkom-perkuat-kolaborasi-pentahelix"
+ },
+ {
+  "slug": "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
+  "category": "Global",
+  "title": "Presiden Prabowo Tantang Rusia [Gandakan] Nilai Dagang RI",
+  "deck": "Presiden Prabowo Subianto menantang Rusia menggandakan nilai perdagangan bilateral dari sekitar US$5 miliar, disampaikan dalam forum ekonomi di Vladivostok, Rusia.",
+  "date": "3 September 2026",
+  "image": "assets/img/presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri.jpg",
+  "imageV": "mtlhtz7b",
+  "tags": [
+   "Rusia",
+   "Presiden Prabowo Subianto",
+   "perdagangan bilateral",
+   "Eastern Economic Forum"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464657-prabowo-tantang-rusia-gandakan-dagang-ri-bidik-tembus-dua-kali-lipat"
+ },
+ {
+  "slug": "pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026",
+  "category": "BUMN",
+  "title": "Pegadaian Sabet [Penghargaan] Tata Kelola Terbaik 2026",
+  "deck": "PT Pegadaian meraih penghargaan Indonesia Best Corporate Secretary for Governance Excellence 2026 dari Majalah SWA atas konsistensi tata kelola perusahaan.",
+  "date": "3 September 2026",
+  "image": "assets/img/pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026.jpg",
+  "imageV": "mtlhtzrw",
+  "tags": [
+   "pegadaian",
+   "penghargaan",
+   "tata kelola",
+   "bumn"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464655-pegadaian-raih-penghargaan-corporate-secretary-champion-2026-komitmen-perkuat-tata-kelola-dan-reputasi-perusahaan"
+ },
+ {
+  "slug": "purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah",
+  "category": "Makroekonomi",
+  "title": "Purbaya [Rumahkan] 3 Pegawai Pajak Diduga Bermasalah",
+  "deck": "Menkeu Purbaya Yudhi Sadewa merombak jajaran pejabat Ditjen Pajak dan Bea Cukai, menonaktifkan pegawai yang diduga bermain-main dalam pengelolaan pajak tertentu.",
+  "date": "3 September 2026",
+  "image": "assets/img/purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah.jpg",
+  "imageV": "mtlhu08p",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Ditjen Pajak",
+   "Bea Cukai",
+   "Kementerian Keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464640-purbaya-bongkar-cara-bersihkan-pajak-dan-bea-cukai-5-pegawai-bermasalah-bisa-langsung-ditindak"
+ },
+ {
+  "slug": "telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar",
+  "category": "BUMN",
+  "title": "Telkom Gelar AI Camp untuk 350 Pelajar di [Makassar]",
+  "deck": "Telkom memulai program AI Camp berbasis kesejahteraan mental di Makassar, melibatkan 300 siswa dan 50 guru dari 10 SMA dan SMK.",
+  "date": "3 September 2026",
+  "image": "assets/img/telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar.jpg",
+  "imageV": "mtlhu0rb",
+  "tags": [
+   "Telkom",
+   "AI Camp",
+   "Makassar",
+   "TJSL"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464643-telkom-hadirkan-edumind-wellbeing-dan-ai-camp-di-makassar-diikuti-350-peserta"
+ },
+ {
+  "slug": "bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank",
+  "category": "Perbankan",
+  "title": "BI dan Kemenkeu Siapkan [Jadwal] Jaga Likuiditas Bank",
+  "deck": "Gubernur BI Destry Damayanti memastikan BI dan Kementerian Keuangan sudah punya jadwal bersama soal penempatan dan penarikan dana pemerintah di bank Himbara.",
+  "date": "3 September 2026",
+  "image": "assets/img/bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank.jpg",
+  "imageV": "mtlhu17v",
+  "tags": [
+   "likuiditas perbankan",
+   "Bank Indonesia",
+   "Himbara",
+   "Kementerian Keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464632-destry-pastikan-likuiditas-perbankan-aman-bi-dan-purbaya-siapkan-langkah-antisipasi"
+ },
+ {
+  "slug": "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran MBG Berpeluang [Ditekan] di Bawah Rp200 Triliun",
+  "deck": "Menkeu Purbaya Yudhi Sadewa menyebut anggaran Makan Bergizi Gratis tahun ini berpeluang ditekan di bawah Rp200 triliun lewat efisiensi dan teknologi, setelah dipangkas bertahap dari Rp330 triliun.",
+  "date": "3 September 2026",
+  "image": "assets/img/anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun.jpg",
+  "imageV": "mtlhu297",
+  "tags": [
+   "MBG",
+   "Anggaran MBG",
+   "Purbaya Yudhi Sadewa",
+   "BGN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464617-purbaya-beri-sinyal-anggaran-mbg-bisa-dipangkas-di-bawah-rp200-triliun-ini-alasannya"
+ },
+ {
   "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
   "category": "BUMN",
   "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
@@ -423,13 +559,15 @@ var ARTICLES = [
   "title": "Jabar Selidiki Sebab DBH Pajak Tertinggal dari [Jakarta]",
   "deck": "Pemprov Jawa Barat dan BRIN mengkaji penyebab dana bagi hasil pajak provinsi ini jauh di bawah DKI Jakarta, sembari menelusuri aturan baru pembagian DBH PPh yang berlaku tahun ini.",
   "date": "3 September 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta.jpg",
+  "imageV": "mtlhuf8p",
   "tags": [
    "DBH",
    "Pajak Daerah",
    "Jawa Barat",
    "DJP"
   ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/optimalkan-dbh-pemerintah-provinsi-jawa-barat-dan-brin-dalami-potensi-penerimaan-pajak",
   "sourceLabel": "Direktorat Jenderal Pajak"
  },
@@ -439,13 +577,15 @@ var ARTICLES = [
   "title": "DJP Perjelas Pajak untuk [Restrukturisasi] BUMN Rp806 Triliun",
   "deck": "DJP Wajib Pajak Besar menjelaskan fasilitas pajak baru bagi restrukturisasi BUMN kepada 55 pimpinan perusahaan, di tengah target penerimaan Rp806 triliun tahun ini.",
   "date": "3 September 2026",
-  "image": "assets/img/truk-logistik-gudang.jpg",
+  "image": "assets/img/djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun.jpg",
+  "imageV": "mtlhukqe",
   "tags": [
    "DJP",
    "BUMN",
    "Pajak",
    "Restrukturisasi"
   ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
   "sourceUrl": "https://pajak.go.id/id/siaran-pers/kawal-restrukturisasi-bumn-kanwil-djp-wajib-pajak-besar-berusaha-realisasikan-target",
   "sourceLabel": "Direktorat Jenderal Pajak"
  },
@@ -6407,135 +6547,6 @@ var ARTICLES = [
    "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/98867da036_7d282aa5a4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "refi-kena-sanksi-bursa-akibat-telat-laporan-keuangan",
-  "category": "Aksi Korporasi",
-  "title": "REFI Kena [Sanksi] Bursa akibat Telat Laporan Keuangan",
-  "deck": "Bursa Efek Indonesia menjatuhkan Peringatan Tertulis I ke REFI karena belum menyampaikan laporan keuangan tengah tahunan per 30 Juni 2026 hingga batas waktu 31 Juli 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REFI",
-   "sanksi BEI",
-   "laporan keuangan",
-   "keterlambatan pelaporan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c42684598_4291bba54c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-dirikan-anak-usaha-garap-energi-surya",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Dirikan Anak Usaha Garap [Energi Surya]",
-  "deck": "Anak usaha ARKO, PT Arkora Tenaga Matahari, mendirikan PT Endorshine Energi Matahari. ARKO memegang kepemilikan tidak langsung 99 persen di perusahaan baru itu.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "energi surya",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4976446fc8_7379c767c8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-gtbo-masuk-papan-pemantauan-khusus-bei-26-agustus",
-  "category": "Aksi Korporasi",
-  "title": "Saham GTBO [Masuk] Papan Pemantauan Khusus BEI 26 Agustus",
-  "deck": "Bursa Efek Indonesia memasukkan saham Garda Tujuh Buana (GTBO) ke daftar Efek Dalam Pemantauan Khusus, efektif 26 Agustus 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "Bursa Efek Indonesia",
-   "pemantauan khusus",
-   "Garda Tujuh Buana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/548f364f19_57853e8d24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brrc-bantah-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BRRC Bantah Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "PT Raja Roti Cemerlang Tbk (BRRC) menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRRC",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/905023e38a_6026afe09b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt",
-  "category": "BUMN",
-  "title": "TelkomGroup Salurkan [Bantuan] Rp1,3 M ke Korban Gempa NTT",
-  "deck": "TelkomGroup menyalurkan bantuan kemanusiaan Rp1,3 miliar ke lebih dari 10 wilayah NTT terdampak gempa, termasuk kawasan terisolir yang dijangkau lewat jalur laut.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/telkomgroup-salurkan-bantuan-rp1-3-m-ke-korban-gempa-ntt.jpg",
-  "imageV": "mt727tr7",
-  "tags": [
-   "Telkom",
-   "TelkomGroup",
-   "Gempa NTT",
-   "Bantuan Kemanusiaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462189-telkomgroup-salurkan-bantuan-kemanusiaan-rp13-miliar-untuk-masyarakat-terdampak-gempa-ntt"
- },
- {
-  "slug": "sido-jadwalkan-public-expose-tahunan-9-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "SIDO Jadwalkan [Public Expose] Tahunan 9 September 2026",
-  "deck": "Sido Muncul akan menggelar paparan publik tahunan secara virtual pada 9 September 2026, membahas kinerja semester I dan strategi bisnis.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIDO",
-   "Sido Muncul",
-   "public expose",
-   "kinerja semester I"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2ca366e094_5f94a8a707.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmnd-jadwalkan-rupslb-pada-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "DMND Jadwalkan RUPSLB pada [30 September] 2026",
-  "deck": "PT Diamond Food Indonesia Tbk (DMND) akan menggelar RUPSLB pada 30 September 2026, dengan batas pencatatan pemegang saham pada 7 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMND",
-   "RUPSLB",
-   "Diamond Food Indonesia",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9675bde900_46766e28e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-jual-2-35-juta-saham-divestasi-rp4-48-m",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi Jual 2,35 Juta Saham, [Divestasi] Rp4,48 M",
-  "deck": "George Oetomo, direksi TAPG, melepas 2,35 juta saham dalam dua transaksi pada 20-21 Agustus, hanya lima hari setelah penjualan sebelumnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4169-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

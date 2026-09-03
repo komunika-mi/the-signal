@@ -795,6 +795,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "life-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Gelar [Public Expose] Insidentil usai Diminta Bursa",
+  "deck": "LIFE akan menggelar Public Expose Insidentil pada 10 September 2026 atas permintaan Bursa Efek Indonesia, memaparkan kinerja, laporan keuangan terkini, dan rencana usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:34:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cb9c915f_1b2ae1debe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "public expose",
+   "MSIG Life",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) mengumumkan rencana penyelenggaraan Public Expose Insidentil yang digelar bukan atas inisiatif sendiri, melainkan atas permintaan Bursa Efek Indonesia, merujuk surat Peng-SPT-00161/BEI.WAS/09-2026 tanggal 1 September 2026 dan email bursa tanggal 2 September 2026. Acara akan berlangsung Kamis, 10 September 2026, pukul 14.00 WIB melalui Zoom, dengan tiga agenda: pemaparan kinerja dan operasional perusahaan, ringkasan laporan keuangan terkini, dan rencana usaha perusahaan. Jajaran direksi beserta perwakilan perusahaan lainnya dijadwalkan hadir.",
+   "Perseroan menyebutkan materi presentasi akan disampaikan ke publik paling lambat satu hari bursa sebelum acara berlangsung, yakni sekitar 9 September 2026. Surat pemberitahuan ini ditandatangani oleh Tomoyuki Monden selaku Deputy President Director, sementara laporan keterbukaan informasinya disampaikan oleh Leony Samosir selaku Corporate Secretary LIFE.",
+   "Permintaan public expose insidentil ini muncul kurang dari dua minggu setelah LIFE juga menanggapi permintaan bursa terkait progres spin-off unit usaha syariah ke OJK pada 31 Agustus 2026. Beruntunnya dua komunikasi dengan bursa dalam waktu berdekatan menunjukkan LIFE tengah menjadi perhatian khusus otoritas bursa, meski dokumen ini sendiri tidak menjelaskan alasan spesifik di balik permintaan tersebut."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's central business district at midday, wide street-level angle, clear sky.",
+  "takeaway": "Laporan ini netral bagi fundamental LIFE karena isinya cuma jadwal pertemuan, tidak ada angka keuangan baru, perubahan kepemilikan, atau transaksi yang tertulis di dalamnya. Yang perlu dipahami investor, bursa biasanya meminta public expose insidentil semacam ini ketika ada pergerakan harga saham yang dianggap tidak wajar, sehingga perusahaan wajib menjelaskan langsung kondisi kinerja dan rencana usahanya ke publik agar tidak ada informasi simpang siur di pasar. Karena ini permintaan kedua bursa ke LIFE dalam waktu berdekatan, setelah soal progres spin-off unit syariah akhir Agustus lalu, pola ini sendiri pantas dicermati meski belum tentu berarti ada masalah fundamental. Yang perlu dipantau selanjutnya adalah materi presentasi yang wajib dirilis paling lambat 9 September 2026, serta isi pemaparan pada 10 September 2026 pukul 14.00 WIB, terutama apakah ada penjelasan baru soal kinerja keuangan atau rencana usaha yang belum terungkap sebelumnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
   "category": "Global",
   "title": "Presiden Prabowo Tawarkan [Formula ASEAN] ke Rusia",
@@ -822,6 +848,138 @@ var ARTICLES = [
   "imageV": "mtlhty96"
  },
  {
+  "slug": "asbi-bantah-ada-info-material-usai-saham-anjlok-6-16",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Bantah Ada Info Material Usai Saham Anjlok [6,16%]",
+  "deck": "Bursa meminta penjelasan setelah saham ASBI anjlok 6,16% disertai lonjakan transaksi drastis pada 1 September; perseroan menyangkal ada info material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:30:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0e609273f2_1e685fe6ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Asuransi Bintang Tbk (ASBI) memberikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi sahamnya melalui surat nomor S-11172/BEI.PP2/09-2026. Dalam surat balasan bernomor 260/SK/PDIR-HW/IX/2026 yang ditandatangani Presiden Direktur Hastanto Sri Margi Widodo, perseroan mengonfirmasi bahwa pada 1 September 2026 volume transaksi saham ASBI melonjak menjadi 3.015.900 saham dengan frekuensi 1.966 kali, dibandingkan hari bursa sebelumnya yang hanya 1.700 saham dengan frekuensi 12 kali. Harga saham ditutup turun Rp26 atau 6,16 persen, dari Rp422 menjadi Rp396.",
+   "Menjawab enam poin pertanyaan standar bursa, ASBI menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, tidak mengetahui aktivitas pemegang saham tertentu, dan tidak memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa. Perseroan juga menyebut telah mengirim surat konfirmasi kepada pemegang saham mayoritas untuk mengantisipasi kemungkinan transaksi saham oleh mereka, dan berjanji akan menyampaikan hasil konfirmasi itu begitu diterima.",
+   "Dua pemegang saham utama telah membalas surat konfirmasi tersebut. PT Warisan Kasih Bunda, melalui Direktur Utama Andree Nugroho Saragih, menyatakan tidak mengetahui informasi atau kejadian yang dapat memengaruhi frekuensi transaksi saham ASBI, dan menegaskan tidak ada rencana, kebijakan, atau transaksi tertentu atas saham perseroan yang sedang atau akan dilakukan. PT Ngrumat Bondo Utomo, melalui Direktur Bani M. Mulia, memberikan jawaban senada, yaitu tidak memiliki informasi material maupun rencana tindakan korporasi yang perlu disampaikan.",
+   "Lonjakan transaksi dan penurunan harga ini terjadi persis pada hari yang sama dengan terbitnya kabar dari perseroan mengenai dugaan penggelapan gaji di divisi SDM ASBI yang berujung pada pencopotan direksi lewat RUPSLB, sebagaimana sebelumnya diberitakan media ini pada 1 September 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, overcast sky reflected on the facade, wide angle",
+  "takeaway": "Laporan ini condong negatif bagi ASBI, karena lonjakan volume dan anjloknya harga 6,16 persen terjadi tepat di hari yang sama dengan terungkapnya skandal penggelapan gaji di divisi SDM dan pencopotan direksi lewat RUPSLB, sehingga penjelasan formal yang menyangkal adanya informasi material terkesan tidak selaras dengan gejolak yang sedang dihadapi perseroan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba, melainkan kepercayaan pasar, yang tercermin dari melonjaknya frekuensi transaksi dari 12 kali menjadi 1.966 kali dalam sehari, sebuah tanda bahwa banyak investor bereaksi serentak terhadap kabar yang beredar meski belum ada aksi korporasi baru yang diumumkan. Pelaku pasar mencermati pola semacam ini karena biasanya menunjukkan reaksi terhadap informasi yang sudah beredar di publik, bukan sinyal fundamental baru dari perseroan. Yang perlu dipantau selanjutnya adalah hasil konfirmasi dari pemegang saham mayoritas soal rencana kepemilikan mereka, yang menurut surat ini akan disampaikan begitu diterima tanpa tenggat waktu pasti, serta perkembangan lanjutan dari kasus penggelapan dan pergantian direksi yang sudah lebih dulu diberitakan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "silo-jelaskan-ke-bei-beban-bunga-naik-383-usai-akuisisi-rs",
+  "category": "Aksi Korporasi",
+  "title": "SILO Jelaskan ke BEI, Beban Bunga Naik [383%] usai Akuisisi RS",
+  "deck": "SILO merinci ke BEI rencana akuisisi 14 rumah sakit senilai Rp6,9 triliun dari First REIT, yang mayoritas dibiayai utang sindikasi hingga Rp14,5 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:28:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18338363bf_c2e8c2a4a1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SILO",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "First REIT",
+   "utang sindikasi"
+  ],
+  "body": [
+   "PT Siloam International Hospitals Tbk (SILO) mengirim surat tanggapan bernomor 125/Corsec-SIH/IX/2026 kepada Bursa Efek Indonesia pada 3 September 2026, menjawab permintaan penjelasan BEI yang diterima perseroan pada 31 Agustus 2026. Surat yang ditandatangani Corporate Secretary Lewi Aga Basoeki ini merinci rencana pengambilalihan 14 perusahaan sasaran pemilik properti rumah sakit yang selama ini disewa SILO dari entitas anak First REIT.",
+   "Transaksi dibagi dua tahap. Tahap pertama mencakup 8 perusahaan sasaran, terdiri dari 5 perusahaan yang ditargetkan rampung pada atau sebelum 28 September 2026 dan 3 perusahaan lagi paling lambat Oktober 2026, dengan batas akhir Long Stop Date pada 1 Desember 2026. Tahap kedua mencakup 6 perusahaan sasaran melalui opsi jual yang bisa dieksekusi penjual hingga 31 Maret 2027, dan bila dilaksanakan harus selesai paling lambat 12 bulan sejak persetujuan RUPSLB yang dijadwalkan 22 September 2026. Total nilai transaksi tercatat Rp6,9 triliun, terdiri dari Rp4,1 triliun untuk tahap pertama dan Rp2,8 triliun untuk tahap kedua, atau setara 67,57 persen dari ekuitas perseroan per 31 Maret 2026 yang sebesar Rp10,22 triliun.",
+   "Pendanaan berasal dari fasilitas pinjaman sindikasi bernilai hingga Rp14,5 triliun yang disediakan sindikasi bank dipimpin PT Bank Negara Indonesia (Persero) Tbk sebagai agen fasilitas dan agen jaminan, bersama PT Bank CIMB Niaga Tbk, PT Bank Central Asia Tbk, PT Bank DBS Indonesia, MUFG Bank Jakarta, dan HSBC Singapura sebagai penjamin emisi utama. Dari total fasilitas itu, sekitar Rp9,0 triliun dipakai untuk membiayai transaksi, Rp2,0 triliun untuk membayar kembali pinjaman jembatan dan utang bank jangka panjang lama, dan sisa Rp3,5 triliun untuk kebutuhan pendanaan lain termasuk akuisisi dan pembelian alat medis. Fasilitas ini belum ditarik sama sekali dan baru akan digunakan menjelang penyelesaian tahap pertama. Dalam laporan keuangan proforma per 31 Maret 2026, penambahan utang bank jangka panjang tercatat Rp8,8 triliun, membuat beban bunga perseroan naik hingga 383 persen. Manajemen menyebut EBITDA Rp2,9 triliun dan arus kas operasi Rp2,4 triliun sepanjang 2025 dinilai cukup menutup kewajiban itu.",
+   "Penilai independen KJPP BEST menaksir nilai pasar 100 persen saham perusahaan sasaran sebesar Rp6,6 triliun, sehingga selisihnya dengan nilai transaksi Rp6,9 triliun sebesar 4,40 persen, masih di bawah batas toleransi 7,5 persen yang membuat transaksi dinilai wajar. SILO menyebut setelah pengambilalihan rampung, kewajiban membayar sewa ke-14 rumah sakit yang selama ini sekitar Rp560 miliar per tahun akan berakhir. Dua perusahaan sasaran, PT Buton Bangun Cipta dan PT Yogya Central Terpadu, tercatat rugi bersih per 31 Maret 2026 akibat beban bunga, kerugian selisih kurs, dan penurunan nilai wajar properti investasi, yang menurut SILO akan diperbaiki lewat optimalisasi struktur permodalan dan integrasi biaya pasca transaksi. Seluruh aset properti 14 perusahaan sasaran juga akan dijaminkan untuk fasilitas sindikasi tersebut, dan persetujuan penjaminan ini turut menjadi salah satu agenda RUPSLB."
+  ],
+  "fotoAdegan": "Exterior of a modern multi-story hospital building in Indonesia, ambulance parked near the entrance, soft midday light",
+  "takeaway": "Laporan ini condong negatif bagi SILO, karena akuisisi senilai Rp6,9 triliun ini setara 67,6 persen ekuitas perusahaan dan sebagian besar dibiayai utang bank baru, sehingga beban bunga yang harus dibayar melonjak hingga 383 persen. Yang tersentuh adalah utang jangka panjang, yang bertambah Rp8,8 triliun dalam laporan keuangan proforma, dan beban bunga itu sendiri, yakni bunga pinjaman yang wajib dibayar perusahaan tiap periode, karena keduanya menentukan seberapa besar laba perusahaan yang habis untuk membayar utang sebelum sampai ke pemegang saham. Sebagai penyeimbang, SILO tidak lagi perlu membayar sewa sekitar Rp560 miliar per tahun begitu memiliki sendiri ke-14 rumah sakit itu, dan manajemen mengklaim arus kas operasi Rp2,4 triliun serta EBITDA Rp2,9 triliun pada 2025 cukup menutup kewajiban utang barunya. Yang perlu dipantau adalah RUPSLB pada 22 September 2026 yang memutuskan persetujuan pemegang saham, penyelesaian lima perusahaan sasaran tahap pertama pada atau sebelum 28 September 2026, dan batas akhir Long Stop Date pada 1 Desember 2026 untuk seluruh transaksi tahap pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-jelaskan-opini-audit-wdp-atas-laporan-keuangan-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jelaskan Opini Audit [WDP] atas Laporan Keuangan Juni 2026",
+  "deck": "Venteny Fortuna International menerima opini wajar dengan pengecualian karena laporan keuangan dua anak usaha di Singapura dan Jepang belum diaudit auditor independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:21:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66aad722a7_d369d976be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "laporan keuangan",
+   "Venteny Fortuna International"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan penjelasan resmi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia terkait opini Wajar Dengan Pengecualian (WDP) yang diterima atas laporan keuangan perseroan untuk periode yang berakhir 30 Juni 2026. Opini tersebut diberikan oleh Kantor Akuntan Publik Andi Ruswandi Wisnu & Rekan. Penyebabnya, laporan keuangan dua entitas anak, yaitu Venteny Pte. Ltd. di Singapura dan Venteny G.K. di Jepang, tidak diaudit oleh auditor independen, sehingga auditor tidak bisa memperoleh bukti audit yang cukup dan tepat atas informasi keuangan kedua entitas tersebut, padahal keduanya digabungkan ke dalam laporan keuangan konsolidasian perseroan.",
+   "Peristiwa ini tercatat terjadi pada 5 Agustus 2026 dan dilaporkan ke otoritas melalui Corporate Secretary VTNY, Zasa Pinkan Kinanti, pada 3 September 2026. Dalam suratnya, manajemen menyatakan bahwa opini WDP ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perseroan juga menegaskan tidak ada keterangan tambahan lain yang perlu disampaikan terkait hal ini.",
+   "Penjelasan ini terbit sehari setelah VTNY merilis materi paparan publik yang menunjukkan laba bersih perseroan turun 25,3 persen pada semester I 2026, sehingga kedua laporan sama-sama menyoroti keandalan angka keuangan perseroan pada periode yang sama."
+  ],
+  "fotoAdegan": "Close-up of an accountant's hands stacking blurred financial ledger pages beside a calculator on a wooden desk, soft office light",
+  "takeaway": "Laporan ini condong negatif bagi VTNY, karena opini Wajar Dengan Pengecualian berarti auditor independen tidak bisa memastikan keakuratan sebagian angka yang masuk ke laporan keuangan gabungan perseroan, bukan sekadar catatan administratif. Yang tersentuh di sini adalah keandalan laporan keuangan konsolidasian, yaitu gabungan angka pendapatan, laba, dan aset dari seluruh anak usaha; kalau dua anak usaha di luar negeri tidak diaudit secara independen, investor tidak punya jaminan penuh bahwa kontribusi keduanya terhadap angka grup itu sudah benar, ini yang membuat pelaku pasar biasanya lebih hati hati membaca laporan keuangan perseroan sampai persoalan ini selesai. Kekhawatiran ini bertambah karena penjelasan ini muncul persis sehari setelah VTNY melaporkan laba bersihnya anjlok 25,3 persen di semester I 2026, sehingga dua sinyal negatif ini datang berbarengan. Yang perlu dipantau selanjutnya adalah apakah Venteny Pte. Ltd. dan Venteny G.K. akan diaudit oleh auditor independen pada laporan keuangan tahunan 2026, karena bila tidak, opini serupa berpotensi berulang dan terus membayangi kualitas laporan keuangan perseroan ke depan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "uang-panggil-rupslb-agenda-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "UANG Panggil RUPSLB, Agenda [Perubahan] Susunan Direksi",
+  "deck": "PT Pakuan Tbk memanggil pemegang saham untuk RUPSLB 25 September 2026 dengan agenda persetujuan pengangkatan kembali atau perubahan susunan direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:10:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d1f713f47_0234ab8505.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "Direksi",
+   "Pakuan"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) resmi mengirimkan surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 25 September 2026 pukul 10.00 WIB di Club House Shila Sawangan, Jl. Golf No. 7, Sawangan, Kota Depok, Jawa Barat. Pemanggilan ini merupakan tindak lanjut dari surat sebelumnya tertanggal 28 Agustus 2026 yang baru mengumumkan jadwal rapat tanpa merinci agenda. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam daftar pemegang saham per 2 September 2026, yang menjadi batas waktu pendataan (recording date).",
+   "Dalam surat bernomor 055/DIR-LGL/PAKUAN/IX/2026 ini, Pakuan akhirnya mengungkap agenda RUPSLB, yaitu persetujuan pengangkatan kembali atau perubahan susunan Direksi perseroan. Dokumen tidak menyebutkan nama calon direksi, alasan pergantian, maupun apakah ini perpanjangan masa jabatan direksi yang ada atau pergantian ke figur baru. Surat pemanggilan ditandatangani oleh Corporate Secretary Asa Nisi Siahaan pada 3 September 2026."
+  ],
+  "fotoAdegan": "Manicured golf course fairway with a modern clubhouse building in the background under soft morning light, Indonesia",
+  "takeaway": "Laporan ini netral karena baru mengumumkan agenda rapat, belum ada nama calon direksi atau alasan pergantian yang bisa dibaca arahnya. Yang tersentuh di sini adalah susunan direksi, yaitu siapa yang mengambil keputusan operasional dan strategi harian perusahaan, sehingga pergantian di kursi pimpinan biasa dicermati pasar meski tidak langsung mengubah angka di laporan keuangan. Pemegang saham yang tercatat per 2 September 2026 yang berhak memberi suara dalam rapat ini. Yang perlu dipantau adalah hasil RUPSLB pada 25 September 2026, khususnya apakah direksi lama dipertahankan atau ada nama baru yang masuk, karena itu yang akan menentukan arah kepengurusan Pakuan ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ltls-laba-bersih-semester-i-2026-melonjak-55-jadi-rp124-m",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: laba bersih semester I 2026 [melonjak] 55% jadi Rp124 M",
+  "deck": "Materi public expose LTLS menunjukkan laba bersih semester I 2026 naik 55 persen jadi Rp124 miliar, ditopang margin kotor yang melebar dan rasio utang yang membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:09:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f616b44779_049165c4c4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk (LTLS) menyerahkan materi public expose tahunan ke Bursa Efek Indonesia menjelang paparan publik yang akan digelar Selasa, 8 September 2026 pukul 10.00 sampai 11.00 WIB secara daring lewat platform Public Expose Live milik BEI di pubexlive.idx.co.id. Acara akan dihadiri jajaran direksi perseroan yang dipimpin Presiden Direktur Indrawan Masrin, didampingi lima direktur lain termasuk Elly M. Tansil yang menandatangani surat pengantar laporan ini selaku direktur.",
+   "Dalam materi tersebut, perseroan memaparkan pendapatan konsolidasi semester I 2026 sebesar Rp5,11 triliun, naik sekitar 21 persen dari Rp4,22 triliun pada semester I 2025. Margin laba kotor ikut melebar dari 15,7 persen menjadi 19,2 persen. Laba bersih tercatat Rp124 miliar, naik 55 persen dari Rp80 miliar pada periode yang sama tahun lalu, sementara EBITDA naik dari Rp278 miliar menjadi Rp411 miliar. Dari sisi segmen, distribusi menyumbang 50 persen pendapatan, manufaktur 44 persen, dan pendukung serta jasa 6 persen.",
+   "Per akhir Juni 2026, total aset perseroan tercatat Rp7,65 triliun, total utang Rp4,06 triliun, dan ekuitas Rp3,59 triliun. Rasio utang bersih terhadap ekuitas berada di 0,32 kali dan kemampuan membayar bunga, yaitu EBITDA dibagi beban bunga bersih, naik menjadi 7,44 kali dari 5,10 kali pada semester I 2025. Perseroan juga mencatat dua obligasi berjalan: Obligasi Berkelanjutan III Tahap II Seri B senilai Rp135 miliar dengan bunga 9,75 persen per tahun yang jatuh tempo 12 November 2026, dan Obligasi Berkelanjutan IV Tahap I senilai Rp285,5 miliar dengan bunga 8,75 persen per tahun yang jatuh tempo 4 Juli 2027.",
+   "Dari sisi kepemilikan saham, PT Caturkarsa Megatunggal masih menjadi pengendali dengan 56,59 persen saham, disusul publik 36,11 persen, saham treasuri 6,11 persen, dan manajemen 1,19 persen. Materi ini juga menyebutkan LTLS konsisten membagikan dividen sejak 2008 dengan rasio pembayaran sekitar 30 persen dari laba bersih yang menjadi hak pemegang saham induk."
+  ],
+  "fotoAdegan": "Warehouse workers guiding a forklift stacked with chemical drums across a large industrial storage floor, morning light through high windows",
+  "takeaway": "Laporan ini condong positif bagi Lautan Luas karena laba bersih semester I 2026 naik 55 persen menjadi Rp124 miliar dan margin kotor melebar dari 15,7 persen menjadi 19,2 persen, tanda biaya produksi lebih terkendali di tengah kenaikan pendapatan 21 persen. Pos yang tersentuh adalah kemampuan hasilkan kas dari bisnis inti, EBITDA naik dari Rp278 miliar jadi Rp411 miliar, dan beban utang: rasio utang bersih terhadap ekuitas turun ke 0,32 kali serta kemampuan membayar bunga naik ke 7,44 kali dari 5,10 kali, yang berarti perseroan makin longgar menutup kewajiban bunganya dari laba usaha. Yang perlu dipantau berikutnya adalah paparan publik pada 8 September 2026, tempat manajemen biasanya menjelaskan proyeksi sisa tahun, serta jatuh tempo obligasi seri B senilai Rp135 miliar pada 12 November 2026 yang akan menguji kesiapan kas perseroan membayar pokok utang tersebut.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "telkom-perkuat-kolaborasi-digital-di-universitas",
   "category": "Teknologi",
   "title": "Telkom Perkuat Kolaborasi Digital di [Universitas]",
@@ -846,6 +1004,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari forum ini adalah Telkom memperkuat posisinya sebagai penyedia infrastruktur bagi basis data PDDikti dan jaringan IDREN, tapi belum ada angka investasi, nilai kontrak, atau target waktu konkret yang diumumkan dari partisipasi ini. Pihak yang langsung terdampak adalah kampus-kampus anggota IDREN dan pengelola teknologi informasi di dalamnya, karena merekalah yang akan bergantung pada infrastruktur digital yang dibangun lewat kolaborasi semacam ini. Arah dari pertemuan ini belum bisa dipastikan, apakah akan berlanjut ke kerja sama komersial resmi antara Telkom dan Kemendiktisaintek atau IDREN, sebab yang disampaikan baru berupa komitmen dan pernyataan dukungan, bukan kesepakatan tertulis. Yang perlu ditunggu adalah apakah forum ini menghasilkan nota kesepahaman atau kontrak kerja sama resmi, serta apakah PDDikti benar-benar mendapat pembaruan sistem dalam waktu dekat sebagai tindak lanjut dari empat pilar yang dibahas.",
   "imageV": "mtlhtyp2"
+ },
+ {
+  "slug": "mdiy-tembus-1-400-toko-ekspansi-2026-sesuai-target",
+  "category": "Aksi Korporasi",
+  "title": "MDIY Tembus [1.400] Toko, Ekspansi 2026 Sesuai Target",
+  "deck": "MR.D.I.Y. Indonesia (MDIY) resmi membuka toko ke-1.400. Realisasi 177 dari target 270 toko baru tahun ini sudah tercapai hingga Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T16:43:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e036cd1608_05ab121b42.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDIY",
+  "tags": [
+   "MDIY",
+   "ritel",
+   "ekspansi toko",
+   "MR.D.I.Y."
+  ],
+  "body": [
+   "PT Daya Intiguna Yasa Tbk (MDIY), operator jaringan ritel MR.D.I.Y. Indonesia, mengumumkan telah resmi membuka toko ke-1.400 di Indonesia pada 3 September 2026, bertepatan dengan momentum Hari Pelanggan Nasional yang jatuh pada 4 September. Perseroan menyebut pencapaian ini mengukuhkan posisinya sebagai peritel perlengkapan rumah tangga terbesar di Indonesia, dengan jaringan toko yang menjual sekitar 18.000 jenis produk kebutuhan sehari-hari.",
+   "Dalam laporan ke Bursa Efek Indonesia, perseroan merinci bahwa dari target pembukaan minimal 270 toko baru sepanjang 2026, sebanyak 177 toko baru sudah dibuka hingga Agustus 2026. Jaringan MR.D.I.Y. kini menjangkau 445 dari 514 kota dan kabupaten di 37 dari 38 provinsi di Indonesia, termasuk wilayah tier 3 seperti Kabupaten Sorong Selatan dan Kabupaten Buton Tengah. Sepanjang Juli dan Agustus 2026 saja, 27 dari toko baru yang dibuka berada di luar Pulau Jawa. Dari total jaringan, 80 persen berupa toko berdiri sendiri (standalone) dan sisanya berlokasi di pusat perbelanjaan.",
+   "Perseroan juga menyampaikan bahwa laporan ini tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Sebagai bagian dari perayaan Hari Pelanggan Nasional, MR.D.I.Y. Indonesia turut menawarkan diskon hingga 52 persen untuk lebih dari 800 produk pilihan. Direktur Utama MR.D.I.Y. Indonesia, Edwin Cheah, menyatakan perseroan akan terus memperluas jaringan sembari mendalami pola pembelian dan kebutuhan pelanggan di berbagai wilayah."
+  ],
+  "fotoAdegan": "Customers browsing tightly packed aisles of colorful household goods and plastic housewares inside a budget retail store, bright lighting",
+  "takeaway": "Laporan ini condong positif bagi MDIY, karena capaian 177 dari target 270 toko baru hingga Agustus menunjukkan rencana ekspansi 2026 berjalan sesuai jadwal tanpa disertai sinyal masalah operasional atau keuangan. Yang tersentuh di sini adalah kapasitas penjualan perseroan, karena setiap toko baru menambah titik penjualan yang berpotensi mendongkrak pendapatan, meski dokumen ini tidak memuat angka pendapatan atau laba sehingga dampaknya ke laba per saham belum bisa dihitung dari laporan ini saja. Perlu dicermati bahwa sisa target sekitar 93 toko baru harus dibuka dalam empat bulan tersisa tahun ini, lebih cepat dari laju rata-rata Januari-Agustus, sehingga laporan keuangan kuartal ketiga dan keempat 2026 menjadi penanda apakah target 270 toko benar-benar tercapai.",
+  "sentimen": "positif"
  },
  {
   "slug": "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
@@ -978,6 +1162,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan sekadar janji koordinasi, tapi adanya jadwal tetap kapan Kementerian Keuangan menaruh dan menarik dana pemerintah dari bank-bank Himbara, yaitu BRI, BNI, Mandiri, dan BTN. Selama ini penarikan dana pemerintah dari bank secara mendadak, misalnya saat pajak besar dikumpulkan atau belanja negara dikebut, bisa membuat bank kekurangan dana yang siap dipinjamkan. Bank-bank Himbara jadi pihak yang paling langsung merasakan mekanisme baru ini, dan secara tidak langsung nasabah serta pelaku usaha yang bergantung pada kredit ikut terkena dampaknya lewat ketersediaan pinjaman. Arahnya adalah koordinasi fiskal-moneter yang lebih terjadwal dan mencegah masalah lebih dini, bukan lagi menambal setelah likuiditas seret terjadi. Yang perlu dicermati adalah apakah likuiditas perbankan tetap stabil saat periode penarikan pajak besar atau realisasi belanja akhir tahun 2026, karena di situlah jadwal ini akan benar-benar diuji.",
   "imageV": "mtlhu17v"
+ },
+ {
+  "slug": "rans-gelar-rupslb-10-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Gelar RUPSLB 10 September, Bahas [Perubahan] Direksi",
+  "deck": "Perseroan mengoreksi pemanggilan RUPSLB sebelumnya dan menegaskan rapat digelar 10 September 2026 dengan agenda tunggal perubahan susunan direksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T14:39:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79f26bb35d_f4d3fb3015.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "direksi",
+   "corporate action"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) menerbitkan koreksi atas surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya disampaikan pada 19 Agustus 2026. Berdasarkan pemanggilan yang dikoreksi ini, RUPSLB akan digelar Kamis, 10 September 2026 pukul 11.00 WIB di RANS Office Building, Bumi Serpong Damai, Tangerang Selatan. Agenda rapat hanya satu, yaitu persetujuan perubahan susunan anggota Direksi Perseroan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 18 Agustus 2026 pukul 16.00 WIB.",
+   "Dalam penjelasan agenda, perseroan menyebutkan perubahan direksi ini merujuk pada Pasal 94 UU Perseroan Terbatas dan POJK 33/2014 tentang Direksi dan Dewan Komisaris. Masa jabatan direksi hasil rapat nanti akan berlaku sampai penutupan RUPS Tahunan berikutnya, meski pemegang saham tetap punya hak memberhentikan direksi sewaktu-waktu sesuai Pasal 105 UUPT. Dokumen tidak menyebutkan nama calon direksi yang akan diangkat atau diberhentikan.",
+   "Rapat digelar secara hybrid melalui kehadiran fisik terbatas dan fasilitas elektronik eASY.KSEI. Bagi pemegang saham yang ingin memberi kuasa elektronik (e-Proxy), batas waktunya Rabu, 9 September 2026 pukul 12.00 WIB. Sementara surat kuasa konvensional beserta salinan identitas pemberi dan penerima kuasa harus sudah diterima PT Adimitra Jasa Korpora selaku biro administrasi efek paling lambat 10 September 2026 pukul 09.00 WIB. Perseroan juga menegaskan tidak akan menyediakan materi rapat cetak maupun konsumsi di lokasi karena kapasitas kehadiran fisik dibatasi."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a modern glass-walled corporate boardroom, soft morning light, office park exterior visible outside",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya murni prosedur pemanggilan rapat, tanpa nama calon direksi, tanpa angka keuangan, dan tanpa indikasi arah kebijakan baru yang bisa dinilai. Perubahan susunan direksi memang bisa memengaruhi arah strategi perusahaan ke depan, tapi pemanggilan RUPS ini sendiri tidak mengubah pos-pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar, sehingga belum ada dasar untuk menilai dampaknya ke kinerja. Yang perlu dipantau adalah hasil keputusan RUPSLB pada 10 September 2026, termasuk siapa yang akhirnya masuk atau keluar dari jajaran direksi, serta batas waktu pemberian kuasa elektronik pada 9 September pukul 12.00 WIB bagi pemegang saham yang tidak bisa hadir langsung.",
+  "sentimen": "netral"
  },
  {
   "slug": "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",

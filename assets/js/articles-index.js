@@ -495,6 +495,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "life-gelar-public-expose-insidentil-usai-diminta-bursa",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Gelar [Public Expose] Insidentil usai Diminta Bursa",
+  "deck": "LIFE akan menggelar Public Expose Insidentil pada 10 September 2026 atas permintaan Bursa Efek Indonesia, memaparkan kinerja, laporan keuangan terkini, dan rencana usaha.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "public expose",
+   "MSIG Life",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cb9c915f_1b2ae1debe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
   "category": "Global",
   "title": "Presiden Prabowo Tawarkan [Formula ASEAN] ke Rusia",
@@ -512,6 +528,86 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464675-di-hadapan-putin-prabowo-tawarkan-formula-asean-untuk-perluas-kerja-sama-rusia-ke-asia-tenggara"
  },
  {
+  "slug": "asbi-bantah-ada-info-material-usai-saham-anjlok-6-16",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Bantah Ada Info Material Usai Saham Anjlok [6,16%]",
+  "deck": "Bursa meminta penjelasan setelah saham ASBI anjlok 6,16% disertai lonjakan transaksi drastis pada 1 September; perseroan menyangkal ada info material.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0e609273f2_1e685fe6ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-jelaskan-ke-bei-beban-bunga-naik-383-usai-akuisisi-rs",
+  "category": "Aksi Korporasi",
+  "title": "SILO Jelaskan ke BEI, Beban Bunga Naik [383%] usai Akuisisi RS",
+  "deck": "SILO merinci ke BEI rencana akuisisi 14 rumah sakit senilai Rp6,9 triliun dari First REIT, yang mayoritas dibiayai utang sindikasi hingga Rp14,5 triliun.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SILO",
+   "akuisisi rumah sakit",
+   "First REIT",
+   "utang sindikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18338363bf_c2e8c2a4a1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-jelaskan-opini-audit-wdp-atas-laporan-keuangan-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Jelaskan Opini Audit [WDP] atas Laporan Keuangan Juni 2026",
+  "deck": "Venteny Fortuna International menerima opini wajar dengan pengecualian karena laporan keuangan dua anak usaha di Singapura dan Jepang belum diaudit auditor independen.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "opini audit",
+   "laporan keuangan",
+   "Venteny Fortuna International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66aad722a7_d369d976be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-panggil-rupslb-agenda-perubahan-susunan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "UANG Panggil RUPSLB, Agenda [Perubahan] Susunan Direksi",
+  "deck": "PT Pakuan Tbk memanggil pemegang saham untuk RUPSLB 25 September 2026 dengan agenda persetujuan pengangkatan kembali atau perubahan susunan direksi.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "RUPSLB",
+   "Direksi",
+   "Pakuan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d1f713f47_0234ab8505.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-laba-bersih-semester-i-2026-melonjak-55-jadi-rp124-m",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: laba bersih semester I 2026 [melonjak] 55% jadi Rp124 M",
+  "deck": "Materi public expose LTLS menunjukkan laba bersih semester I 2026 naik 55 persen jadi Rp124 miliar, ditopang margin kotor yang melebar dan rasio utang yang membaik.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f616b44779_049165c4c4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-perkuat-kolaborasi-digital-di-universitas",
   "category": "Teknologi",
   "title": "Telkom Perkuat Kolaborasi Digital di [Universitas]",
@@ -527,6 +623,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464669-persiapkan-kedaulatan-digital-di-universitas-telkom-perkuat-kolaborasi-pentahelix"
+ },
+ {
+  "slug": "mdiy-tembus-1-400-toko-ekspansi-2026-sesuai-target",
+  "category": "Aksi Korporasi",
+  "title": "MDIY Tembus [1.400] Toko, Ekspansi 2026 Sesuai Target",
+  "deck": "MR.D.I.Y. Indonesia (MDIY) resmi membuka toko ke-1.400. Realisasi 177 dari target 270 toko baru tahun ini sudah tercapai hingga Agustus 2026.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDIY",
+   "ritel",
+   "ekspansi toko",
+   "MR.D.I.Y."
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e036cd1608_05ab121b42.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
@@ -612,6 +724,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464632-destry-pastikan-likuiditas-perbankan-aman-bi-dan-purbaya-siapkan-langkah-antisipasi"
+ },
+ {
+  "slug": "rans-gelar-rupslb-10-september-bahas-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RANS Gelar RUPSLB 10 September, Bahas [Perubahan] Direksi",
+  "deck": "Perseroan mengoreksi pemanggilan RUPSLB sebelumnya dan menegaskan rapat digelar 10 September 2026 dengan agenda tunggal perubahan susunan direksi.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "direksi",
+   "corporate action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79f26bb35d_f4d3fb3015.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",
@@ -6429,134 +6557,6 @@ var ARTICLES = [
    "Komisaris Utama"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9cd126697_994f8d0e24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-tanggapi-suspensi-saham-rupo-obligasi-gagal-kuorum",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Tanggapi [Suspensi] Saham, RUPO Obligasi Gagal Kuorum",
-  "deck": "ADHI menghormati suspensi saham oleh BEI akibat gagal bayar bunga obligasi Rp60,8 miliar. RUPO 6 Agustus untuk menunda pembayaran belum mencapai kuorum, rapat lanjutan digelar 11 September 2026.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "obligasi",
-   "suspensi saham",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/fa1ece8178_7c638e5ee5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-lagi-jadi-rp2-768-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
-  "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram"
- },
- {
-  "slug": "umkm-sawit-didorong-tembus-pasar-ekspor",
-  "category": "UMKM",
-  "title": "UMKM Sawit Didorong [Tembus] Pasar Ekspor",
-  "deck": "INDEF menilai hilirisasi kelapa sawit membuka peluang UMKM naik kelas ke pasar ekspor, yang kontribusinya masih tertahan di sekitar 15 persen.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/umkm-sawit-didorong-tembus-pasar-ekspor.jpg",
-  "imageV": "mt81u6c2",
-  "tags": [
-   "kelapa sawit",
-   "UMKM",
-   "ekspor",
-   "hilirisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462302-indef-dorong-produk-sawit-indonesia-tembus-pasar-ekspor"
- },
- {
-  "slug": "avia-kantongi-peringkat-esg-1-dari-sustainalytics-di-antara-peer",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Kantongi Peringkat [ESG] #1 dari Sustainalytics di Antara Peer",
-  "deck": "Avia Avian mencatat ESG Risk Rating 16,9 per 30 Juni 2026, turun dari 21,3 pada September 2025, dan menempati peringkat pertama di antara emiten sekelas kapitalisasi pasar.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "ESG",
-   "Sustainalytics",
-   "Avian Brands"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9e824d5796_e6b03b6691.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "komunitas-trader-indonesia-kumpul-di-tradependence-day-2026",
-  "category": "Pasar Modal",
-  "title": "Komunitas [Trader] Indonesia Kumpul di Tradependence Day 2026",
-  "deck": "JUNO dan Minerva Media Markets menggelar Tradependence Day 2026 di Jakarta, menyatukan trader ritel dan sembilan komunitas trading di bawah tema \"No Random Move\".",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/komunitas-trader-indonesia-kumpul-di-tradependence-day-2026.jpg",
-  "imageV": "mt81u70v",
-  "tags": [
-   "trading",
-   "JUNO",
-   "komunitas trader",
-   "Tradependence Day"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462270-bukan-cuma-soal-profit-ini-tantangan-baru-yang-dihadapi-trader-di-pasar-yang-makin-cepat"
- },
- {
-  "slug": "visi-ubah-bisnis-jadi-holding-rencana-kuasai-72-91-saham-hmbc",
-  "category": "Aksi Korporasi",
-  "title": "VISI Ubah Bisnis Jadi Holding, Rencana Kuasai 72,91% Saham [HMBC]",
-  "deck": "VISI menandatangani perjanjian bersyarat untuk mengambil alih 72,91% saham rumah sakit di Cirebon, HMBC, sekaligus mengubah kegiatan usaha menjadi perusahaan induk.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "akuisisi",
-   "HMBC",
-   "rumah sakit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/792f051fc3_971a93e39f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-siapkan-private-placement-10-saham-untuk-masuk-kesehatan",
-  "category": "Aksi Korporasi",
-  "title": "VISI Siapkan Private Placement 10% Saham untuk Masuk [Kesehatan]",
-  "deck": "Satu Visi Putra berencana menerbitkan hingga 307,5 juta saham baru tanpa hak memesan efek terlebih dahulu untuk memperkuat modal sekaligus menjadi holding perusahaan sektor kesehatan.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "private placement",
-   "PMTHMETD",
-   "sektor kesehatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8576b1c05_342fd0ce28.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "visi-jadwalkan-rups-independen-pada-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "VISI Jadwalkan RUPS [Independen] pada 30 September 2026",
-  "deck": "Satu Visi Putra menjadwalkan RUPSLB dan RUPS Independen pada 30 September 2026, dengan pendaftaran pemegang saham ditutup 7 September dan pemanggilan resmi 8 September 2026.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "RUPS Independen",
-   "Satu Visi Putra",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c528e5f292_23487cdd41.pdf",
   "sourceLabel": "IDX"
  }
 ];

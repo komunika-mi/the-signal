@@ -11,7 +11,7 @@ var ARTICLES = [
   "deck": "Pupuk Indonesia membukukan laba bersih Rp8,51 triliun pada Januari-Juni 2026, naik 253% dari periode sama tahun lalu, didorong kenaikan volume produksi dan efisiensi biaya.",
   "date": "3 September 2026",
   "image": "assets/img/laba-pupuk-indonesia-melonjak-253-di-semester-i-2026.jpg",
-  "imageV": "mtl4cgc0",
+  "imageV": "mtl9os42",
   "tags": [
    "Pupuk Indonesia",
    "BUMN",

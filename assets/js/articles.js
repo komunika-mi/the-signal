@@ -24,10 +24,10 @@ var ARTICLES = [
    "Menurut Pupuk Indonesia, kenaikan tersebut ditopang oleh naiknya volume produksi pupuk dan efisiensi biaya operasional sebagai bagian dari transformasi bisnis perusahaan, bukan semata-mata kenaikan harga jual. Perusahaan menyebut kekuatan keuangan ini sebagai modal untuk menjalankan tugasnya sebagai produsen dan distributor pupuk bersubsidi bagi jutaan petani. Klaim tersebut berasal dari siaran pers perusahaan sendiri dan belum disertai laporan keuangan auditan yang dipublikasikan secara terpisah."
   ],
   "fotoAdegan": "Workers stacking fertilizer sacks onto a truck at a rural warehouse, farmland stretching into the background, early morning light",
-  "fotoSumber": "https://www.pupuk-indonesia.com/assets/img/danantara.png",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1832/conversions/IMG_0011-thumb.jpg",
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "takeaway": "Yang berubah adalah laba bersih Pupuk Indonesia yang naik tajam ke Rp8,51 triliun pada semester pertama 2026, dengan perusahaan mengklaim kenaikan itu berasal dari volume produksi yang lebih tinggi, bukan cuma dari harga jual. Yang terdampak adalah negara selaku pemegang saham, karena performa BUMN pupuk ini berkaitan dengan potensi setoran dividen ke kas negara sekaligus kemampuan perusahaan menjalankan penugasan pupuk bersubsidi bagi petani. Yang belum jelas dari siaran pers ini adalah rincian sumber kenaikan laba tersebut, apakah dari harga jual, volume produksi, atau efisiensi biaya bahan baku gas, sebab angka yang disampaikan baru berupa ringkasan tanpa laporan keuangan auditan. Untuk membaca ke mana arah kinerja ini bergerak, perlu ditunggu laporan keuangan resmi yang diaudit serta rincian anggaran subsidi pupuk pemerintah untuk tahun 2026, yang akan menunjukkan apakah lonjakan laba ini bersifat berkelanjutan atau sementara.",
-  "imageV": "mtl4cgc0"
+  "imageV": "mtl9os42"
  },
  {
   "slug": "judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun",

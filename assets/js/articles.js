@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
+  "category": "Aksi Korporasi",
+  "title": "WINR Rencana Naikkan Kepemilikan di Laxo Global Jadi [90%]",
+  "deck": "PT Winner Nusantara Jaya menandatangani addendum akuisisi yang menaikkan target kepemilikan saham di ISP Laxo Global Akses dari 60% menjadi 90%, dari kepemilikan saat ini 8,5%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T11:50:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2a8a6d092_8d04070471.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "akuisisi",
+   "ISP",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Winner Nusantara Jaya Tbk (WINR) menandatangani addendum atas Kesepakatan Akuisisi Saham PT Laxo Global Akses pada 2 September 2026. Addendum ini menaikkan target kepemilikan saham WINR di Laxo Global Akses dari yang sebelumnya disepakati sebesar 60% menjadi 90%. Saat ini kepemilikan WINR di Laxo Global Akses baru sebesar 8,5%, dan rencana peningkatan menjadi 90% akan dilakukan melalui penambahan setoran modal. Perseroan menyatakan transaksi ini digolongkan sebagai transaksi afiliasi sehingga akan tunduk pada ketentuan yang berlaku untuk transaksi semacam itu.",
+   "PT Laxo Global Akses adalah perusahaan penyedia layanan internet (Internet Service Provider) yang berkantor pusat di Komplek Ruko Harco Mangga Dua Blok G Nomor 9, Jakarta Pusat. Perusahaan ini saat ini beroperasi di 30 kota besar di Indonesia dan menargetkan perluasan ke kota-kota lain. Basis pelanggannya sudah mencakup lebih dari 100 pelanggan korporasi dan instansi pemerintah, ditambah lebih dari 10.000 pelanggan ritel.",
+   "WINR menyebut alasan di balik rencana ini adalah sinergi bisnis: dengan mengendalikan penyedia akses internet, Perseroan bisa menawarkan paket bundling atau fasilitas smart connectivity di proyek-proyek propertinya, sekaligus membangun sumber pendapatan berulang di tengah kondisi sektor properti yang fluktuatif. Laporan ini ditandatangani secara elektronik oleh Sekretaris Perusahaan Briantu Manurung, sementara surat resmi ke OJK ditandatangani oleh Direktur Utama Liu Yut Men."
+  ],
+  "fotoAdegan": "Technician inspecting fiber-optic cable racks inside a small internet service provider server room, cool blue lighting",
+  "takeaway": "Laporan ini netral bagi WINR. Rencana menaikkan kepemilikan di Laxo Global Akses dari 8,5% menjadi 90% menunjukkan komitmen strategis yang besar, tapi dokumen ini tidak menyebutkan berapa nilai setoran modal yang akan dikeluarkan sehingga dampaknya ke kas perusahaan belum bisa dinilai. Yang tersentuh adalah arus kas WINR, karena menambah kepemilikan lewat setoran modal berarti uang tunai keluar dari kas perusahaan, dan begitu kepemilikan tembus 90% WINR kemungkinan wajib menggabungkan laporan keuangan Laxo ke laporan keuangannya sendiri sehingga aset dan pendapatan gabungan bisa berubah signifikan. Karena ini digolongkan sebagai transaksi afiliasi, yakni transaksi dengan pihak yang punya hubungan istimewa dengan Perseroan, aturan OJK biasanya mewajibkan keterbukaan tambahan seperti penilaian independen sebelum transaksi rampung. Yang perlu dipantau berikutnya adalah pengumuman nilai transaksi setoran modal dan kelengkapan dokumen transaksi afiliasi yang dijanjikan Perseroan akan dipenuhi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "excl-umumkan-rencana-rupslb-pada-12-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "EXCL Umumkan Rencana [RUPSLB] pada 12 Oktober 2026",
+  "deck": "XLSmart Telecom menjadwalkan RUPSLB pada 12 Oktober 2026, dengan pemegang saham per 17 September 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:49:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ead5eeed9_ab47c1df3b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "RUPSLB",
+   "XLSmart Telecom",
+   "pasar modal"
+  ],
+  "body": [
+   "PT XLSmart Telecom Sejahtera Tbk (EXCL) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) di XLSMART Tower, Jalan H.R. Rasuna Said Blok X5 Kav. 11-12, Jakarta Selatan, pada Senin, 12 Oktober 2026 pukul 09.00 WIB. Perseroan menetapkan 17 September 2026 sebagai tanggal pencatatan pemegang saham: siapa pun yang namanya tercatat dalam daftar pemegang saham perseroan paling lambat pukul 16.00 WIB pada tanggal itu, atau tercatat di sub rekening efek KSEI setelah penutupan perdagangan di hari yang sama, berhak hadir atau diwakili kuasanya untuk memberikan suara. Surat pemanggilan resmi yang memuat agenda rapat baru akan diumumkan melalui situs web perseroan, situs Bursa Efek Indonesia, dan situs KSEI pada 18 September 2026, sehingga isi agenda RUPSLB ini belum diungkapkan dalam pemberitahuan awal ini.",
+   "Rapat akan digelar secara hybrid. Kehadiran fisik diwakilkan kepada PT Datindo Entrycom selaku Biro Administrasi Efek perseroan, yang bertindak sebagai penerima kuasa pemegang saham. Sementara itu, pemegang saham dapat hadir dan memberikan suara secara elektronik melalui sistem e-RUPS yang dikelola KSEI lewat aplikasi eASY.KSEI, memberikan kuasa elektronik lewat mekanisme e-Proxy di platform yang sama, atau memberikan kuasa konvensional memakai formulir yang bisa diunduh dari situs perseroan sejak tanggal pemanggilan rapat.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat. Syaratnya, usulan harus diajukan tertulis oleh satu pemegang saham atau lebih yang bersama-sama mewakili sedikitnya 1/20 atau 5 persen dari seluruh saham dengan hak suara sah, dan harus sudah diterima direksi paling lambat 7 hari kalender sebelum tanggal pemanggilan rapat, yaitu 11 September 2026. Usulan itu wajib diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan yang berlaku maupun anggaran dasar perseroan."
+  ],
+  "fotoAdegan": "Technicians servicing a telecom base station antenna on an urban rooftop with the Jakarta skyline behind them, midday light",
+  "takeaway": "Pemberitahuan ini bersifat netral bagi EXCL karena baru mengumumkan jadwal dan mekanisme rapat, belum satu pun agenda substantif yang diungkap ke publik. Karena agenda belum terbuka, belum bisa dipastikan pos kinerja mana yang akan tersentuh, bisa saja menyangkut jumlah saham beredar, struktur permodalan, atau perubahan pengurus, tergantung apa yang nanti diajukan direksi dalam surat panggilan resmi. Sebagai perusahaan hasil merger XL Axiata dan Smartfren, keputusan dalam RUPSLB semacam ini kerap menyangkut hal-hal yang tidak rutin, sehingga pelaku pasar biasanya menunggu detailnya. Yang perlu dipantau selanjutnya adalah surat pemanggilan resmi pada 18 September 2026 yang akan memuat agenda lengkap rapat, serta tenggat 11 September 2026 bagi pemegang saham yang ingin mengusulkan mata acara tambahan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "yelo-tanggapi-permintaan-bei-pemegang-saham-utama-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "YELO Tanggapi Permintaan BEI, Pemegang Saham Utama [Bertahan]",
+  "deck": "BEI meminta YELO menjelaskan volatilitas transaksi sahamnya. Perseroan mengaku tak ada informasi material tersembunyi, dan pengendali ASN pastikan tidak berencana mengurangi kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:49:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f6dad4f139_7a29cba384.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk. (YELO) menjawab permintaan penjelasan dari Bursa Efek Indonesia soal volatilitas transaksi sahamnya, menyusul surat BEI nomor S-11199/BEI.PP2/09-2026 tertanggal 1 September 2026. Jawaban resmi perseroan tertuang dalam surat nomor 51/YLO-BEI/IX/2026 tertanggal 3 September 2026, ditandatangani Direktur Utama Wewy Suwanto dan disampaikan ke bursa melalui Corporate Secretary Rosi Diani.",
+   "Dalam surat itu, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi emiten. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+   "Poin yang lebih konkret ada pada bagian keenam surat, yaitu konfirmasi dari pemegang saham pengendali, PT Artalindo Semesta Nusantara (ASN). Menurut keterangan yang diperoleh Corporate Secretary dari ASN, investasi mereka di YELO bersifat jangka panjang dan sampai surat ini disampaikan, ASN tidak berencana mengurangi kepemilikannya di perseroan."
+  ],
+  "fotoAdegan": "Traders on a stock exchange floor in Jakarta glancing at distant blurred digital ticker screens, brisk morning activity",
+  "takeaway": "Laporan ini condong netral bagi YELO, karena isinya adalah konfirmasi rutin bahwa tidak ada informasi tersembunyi di balik lonjakan harga sahamnya, bukan pengumuman aksi korporasi baru. Yang tersentuh di sini bukan pos kinerja seperti laba atau arus kas, melainkan kepastian soal struktur kendali, yakni pernyataan PT Artalindo Semesta Nusantara bahwa kepemilikannya di YELO tetap dan tidak akan dikurangi dalam waktu dekat, sehingga hak suara pemegang saham pengendali tidak berubah. Pelaku pasar memperhatikan pernyataan semacam ini karena pelepasan saham besar oleh pemegang saham pengendali biasanya menambah pasokan saham di pasar yang bisa menekan harga, sehingga kepastian bertahan ini mengurangi salah satu sumber kekhawatiran. Yang perlu dipantau berikutnya adalah apakah volatilitas transaksi YELO berlanjut setelah surat tertanggal 3 September 2026 ini, sebab BEI berpotensi mengirim permintaan penjelasan susulan jika pola pergerakan harga yang tidak wajar itu kembali muncul.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "unvr-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "UNVR menanggapi permintaan Bursa soal volatilitas transaksi sahamnya, menyatakan tidak ada info material tersembunyi dan pemegang saham utama belum berencana ubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:47:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412a4283e4_0faf4606fa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNVR",
+  "tags": [
+   "UNVR",
+   "Unilever Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Unilever Indonesia Tbk (UNVR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul permintaan penjelasan atas volatilitas transaksi saham perusahaan. Melalui surat nomor 01/UNVR/IX/2026 tertanggal 3 September 2026, perusahaan merespons surat BEI nomor S-11202/BEI.PP3/09-2026 tertanggal 1 September 2026. Surat tanggapan ditandatangani Direktur Neeraj Lal, sementara pengumuman keterbukaan informasinya disampaikan oleh Corporate Secretary Mario Abdi Amrillah.",
+   "Dalam surat tersebut, UNVR menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek perusahaan maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan menegaskan belum memiliki rencana aksi korporasi yang berdampak pada pencatatan sahamnya di Bursa dalam tiga bulan mendatang.",
+   "Terkait pemegang saham utama, UNVR menyatakan bahwa berdasarkan informasi yang diperoleh sejauh ini, pemegang saham utama belum memiliki rencana terkait kepemilikan sahamnya di perusahaan. UNVR menambahkan bahwa apabila ke depan muncul rencana aksi korporasi, baik dari perusahaan maupun dari pemegang saham utamanya, pihaknya akan mengumumkannya sesuai ketentuan keterbukaan informasi yang berlaku."
+  ],
+  "fotoAdegan": "Warehouse workers stacking cardboard boxes of household goods onto pallets inside a large distribution center, forklift nearby",
+  "takeaway": "Tanggapan ini netral bagi fundamental UNVR karena isinya seluruhnya penyangkalan standar, tidak ada informasi baru yang mengubah pandangan atas kinerja perusahaan. Surat semacam ini biasanya muncul ketika Bursa mendeteksi pergerakan harga atau volume transaksi saham yang di luar kebiasaan dan meminta emiten mengonfirmasi ada tidaknya alasan di baliknya, sehingga isinya tidak menyentuh pos-pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar. Karena tidak ada angka finansial yang berubah dari surat ini, tanggapan tersebut tidak boleh dibaca sebagai sinyal baik atau buruk atas kondisi keuangan Unilever Indonesia. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi sahamnya berlanjut hingga Bursa kembali meminta penjelasan, serta apakah pernyataan UNVR bahwa belum ada rencana aksi korporasi dalam tiga bulan ke depan ini masih bertahan hingga awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rencanakan [Buyback] Rp500 Miliar, Berlaku hingga Desember",
+  "deck": "Erajaya Swasembada mengumumkan rencana pembelian kembali saham hingga Rp500 miliar selama tiga bulan mulai 4 September 2026, memakai skema OJK untuk kondisi pasar berfluktuasi signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:29:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba7edbe79b_6b7f2b961a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "Erajaya Swasembada",
+   "pasar modal"
+  ],
+  "body": [
+   "Erajaya Swasembada Tbk (ERAA) mengumumkan rencana pembelian kembali saham dengan dana maksimal Rp500 miliar, merujuk pada POJK Nomor 13 Tahun 2023 dan Surat Edaran OJK No. S-10/D.04/2026 tentang kebijakan buyback saat pasar berfluktuasi signifikan, yang berlaku sampai enam bulan sejak tanggal 13 Maret 2026. Jumlah saham yang akan dibeli maksimal 797.500.000 lembar atau setara 5 persen dari saham beredar, dilaksanakan bertahap melalui Bursa Efek Indonesia selama periode 4 September sampai 4 Desember 2026. Perseroan menunjuk PT Ciptadana Sekuritas Asia sebagai pelaksana transaksi, dengan dana bersumber dari kas internal perusahaan.",
+   "Dalam proforma laporan keuangan per 31 Desember 2025 yang disertakan, total aset perusahaan akan turun dari Rp28,86 triliun menjadi Rp28,36 triliun dan ekuitas turun dari Rp10,18 triliun menjadi Rp9,68 triliun jika seluruh anggaran Rp500 miliar terpakai. Laba bersih tetap di angka Rp1,2 triliun dan laba per saham tidak berubah di Rp75,68, karena perhitungan ini masih berbasis pada laporan keuangan 2025 sebelum saham hasil buyback benar-benar ditarik dari peredaran. Perusahaan menyatakan buyback ini tidak akan berdampak material terhadap kegiatan usaha karena modal dan arus kas dinilai memadai.",
+   "Selama periode buyback, komisaris, direktur, pegawai, pemegang saham utama, serta pihak yang punya akses informasi orang dalam dilarang bertransaksi atas saham ERAA. Rencana ini menyusul delapan periode pembelian kembali saham yang sudah dilaporkan Erajaya sejak Maret 2020, termasuk buyback senilai Rp99,86 miliar yang baru rampung dilaporkan pada 2 September 2026 dengan akumulasi saham treasuri mencapai 601.587.822 lembar."
+  ],
+  "fotoAdegan": "Rows of smartphones and accessories on display shelves inside a busy mobile phone retail store, staff assisting customers, evening light",
+  "takeaway": "Laporan ini condong positif bagi Erajaya karena perusahaan memakai kas internal untuk mendukung harga saham di tengah gejolak pasar tanpa mengganggu proyeksi laba maupun laba per saham, sesuai proforma yang mereka sertakan sendiri. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih milik pemegang saham, yang menurut hitungan proforma bisa turun dari Rp10,18 triliun menjadi Rp9,68 triliun kalau seluruh anggaran Rp500 miliar terpakai habis, sementara laba bersih dan laba per saham diperkirakan tetap. Pelaku pasar memperhatikan ekuitas karena penyusutannya berarti bantalan modal perusahaan mengecil, meski dalam kasus ini porsinya tergolong kecil dibanding total ekuitas yang ada. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang periode 4 September sampai 4 Desember 2026, mengikuti pola delapan periode buyback sebelumnya sejak 2020 yang seluruhnya terealisasi, termasuk yang baru rampung dilaporkan 2 September 2026 dengan akumulasi 601,6 juta saham treasuri.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mdla-bukukan-laba-rp226-miliar-naik-12-6-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MDLA Bukukan Laba Rp226 Miliar, [Naik] 12,6% Semester I 2026",
+  "deck": "Medela Potentia (MDLA) mencatat pendapatan Rp8,2 triliun dan laba bersih Rp226 miliar pada semester I 2026, naik masing-masing 10,1% dan 12,6% dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T10:09:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cc7910a964_5dbdb6b4c5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Medela Potentia Tbk (MDLA) menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia pada 3 September 2026, merujuk pada surat rencana public expose yang sebelumnya dikirim pada 27 Agustus 2026. Dokumen ditandatangani secara elektronik oleh Direktur Edbert Orotodan dan berisi paparan kinerja perusahaan distribusi farmasi dan alat kesehatan ini sepanjang semester I 2026.",
+   "Materi tersebut menunjukkan pendapatan bersih perusahaan naik 10,1% dari Rp7,42 triliun pada semester I 2025 menjadi Rp8,17 triliun pada semester I 2026. Laba bersih tumbuh lebih cepat, naik 12,6% dari Rp200 miliar menjadi Rp226 miliar, sementara EBITDA naik 11,2% dari Rp292 miliar menjadi Rp325 miliar. Laba kotor naik 6,8% menjadi Rp762 miliar, tetapi margin laba kotor terhadap penjualan justru turun dari 9,6% menjadi 9,3%, yang menurut perusahaan disebabkan oleh perubahan komposisi produk dan prinsipal yang didistribusikan. Di sisi lain, proporsi EBITDA terhadap penjualan naik tipis dari 3,9% menjadi 4,0% dan proporsi laba bersih terhadap penjualan naik dari 2,7% menjadi 2,8%.",
+   "Dari sisi operasional, perusahaan mendapat sembilan prinsipal baru sepanjang semester I 2026, terdiri dari lima di segmen obat resep (ethical pharma), satu di produk kesehatan konsumen, dan tiga di alat kesehatan. Lini produk alat kesehatan buatan sendiri dengan merek Stardec mencatat kenaikan penjualan 34% dan cakupan rumah sakit naik 12%, dengan ekspor perdana ke Kamboja pada 5 Agustus 2025 dan rencana ekspor ulang pada kuartal III 2026 serta penjajakan pasar ASEAN dan Afrika. Bisnis digital business-to-business perusahaan mencatat kenaikan penjualan 20% dan cakupan mitra 15%, bekerja sama dengan 18 prinsipal dan 40 merek.",
+   "Di sisi infrastruktur, perusahaan sedang membangun gudang baru di Medan dengan progres konstruksi 95% dan ditargetkan beroperasi pada kuartal IV 2026, serta menyiapkan lahan pusat distribusi nasional baru seluas 2,7 hektare di Jababeka untuk fasilitas gudang berpendingin, dengan konstruksi direncanakan mulai April 2026 dan beroperasi pada kuartal II 2027."
+  ],
+  "fotoAdegan": "Warehouse staff in uniform stacking boxes of medical supplies onto pallets inside a large pharmaceutical distribution warehouse",
+  "takeaway": "Laporan ini condong positif bagi MDLA. Pendapatan naik 10,1%, laba bersih naik 12,6%, dan EBITDA, yaitu laba operasional sebelum bunga, pajak, dan penyusutan yang jadi ukuran kasar kemampuan bisnis inti menghasilkan kas, naik 11,2%, semuanya tumbuh dua digit dibanding semester yang sama tahun lalu. Yang perlu dicermati adalah margin laba kotor yang justru turun dari 9,6% menjadi 9,3% karena komposisi produk dan prinsipal yang didistribusikan berubah, artinya sebagian pertumbuhan penjualan datang dari produk dengan keuntungan lebih tipis per rupiah penjualan. Meski begitu, proporsi EBITDA dan laba bersih terhadap penjualan sama-sama naik tipis, tanda efisiensi operasional tetap membaik walau marjin kotor menyusut. Yang perlu dipantau berikutnya adalah realisasi ekspor ulang ke Kamboja yang direncanakan pada kuartal III 2026 serta mulai beroperasinya gudang baru di Medan pada kuartal IV 2026 dan pusat distribusi baru di Jababeka pada kuartal II 2027, tiga proyek yang jadi tumpuan apakah momentum pertumbuhan berlanjut di semester kedua.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "dkft-jadwalkan-dividen-interim-rp30-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DKFT Jadwalkan [Dividen] Interim Rp30 per Saham",
+  "deck": "Central Omega Resources (DKFT) akan membagikan dividen tunai interim Rp30 per saham, total maksimal Rp169,15 miliar, dibayar 21 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T09:45:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7070e921d0_a16e13d46b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DKFT",
+  "tags": [
+   "DKFT",
+   "dividen interim",
+   "Central Omega Resources",
+   "pasar modal"
+  ],
+  "body": [
+   "Central Omega Resources Tbk (DKFT) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp30 per saham, dengan total nilai maksimal Rp169.147.398.000. Rencana ini diputuskan Direksi lewat Surat Keputusan No. 245/KEP-DIR/IX/2026 tanggal 1 September 2026, dan disetujui Dewan Komisaris lewat Surat Keputusan No. 246/KEP-DEKOM/IX/2026 tanggal 2 September 2026.",
+   "Jadwalnya, periode cum dividen atau batas terakhir membeli saham untuk mendapat hak dividen berakhir 11 September 2026 di pasar reguler dan negosiasi, sedangkan di pasar tunai berakhir 15 September 2026. Setelah itu masuk periode ex dividen mulai 14 September (pasar reguler dan negosiasi) dan 16 September (pasar tunai), saat saham diperdagangkan tanpa hak dividen lagi. Daftar pemegang saham yang berhak atas dividen ditutup pada 15 September 2026 pukul 16.00 WIB, dan pembayaran dividen dijadwalkan paling lambat 21 September 2026.",
+   "Dasar pembagian dividen ini adalah laporan keuangan interim per 30 Juni 2026. Laba bersih yang menjadi hak pemegang saham induk tercatat Rp406.244.325.704, sementara bagian laba milik pemegang saham minoritas di anak usaha justru minus Rp3.216.178.137. Saldo laba ditahan yang bebas dipakai perseroan tercatat Rp517.840.784.004, ditambah laba ditahan yang sudah dialokasikan khusus sebesar Rp12 miliar, dengan total ekuitas perseroan mencapai Rp1,53 triliun. Direksi menyebut kinerja keuangan semester pertama 2026 yang positif menjadi alasan pembagian dividen interim ini tanpa mengganggu kelangsungan usaha."
+  ],
+  "fotoAdegan": "Aerial view of a nickel ore stockpile beside a loading conveyor at a tropical Indonesian mining port, overcast sky",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi DKFT karena didasarkan pada laba bersih semester satu 2026 yang cukup besar, Rp406,2 miliar, sehingga perusahaan masih leluasa membagi Rp169,15 miliar tunai ke pemegang saham tanpa mengganggu modal usahanya. Yang tersentuh adalah pos ekuitas dan laba ditahan, yaitu akumulasi keuntungan tahun-tahun sebelumnya yang belum dibagikan; saldo laba ditahan bebas Rp517,84 miliar akan berkurang sekitar sepertiga setelah dividen ini cair, sehingga pelaku pasar biasanya mencermati apakah bantalan modal perusahaan masih cukup untuk kebutuhan operasional dan ekspansi ke depan. Satu catatan kecil, bagian laba milik pemegang saham minoritas di anak usaha justru minus Rp3,22 miliar, menandakan ada anak usaha yang masih merugi meski laba di tingkat induk besar. Yang perlu dipantau berikutnya, investor harus sudah memegang saham sebelum 11 September 2026 di pasar reguler dan negosiasi untuk masuk daftar pemegang saham berhak yang ditutup 15 September pukul 16.00 WIB, sebelum dividen dibayarkan paling lambat 21 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gtbo-kembali-diperdagangkan-usai-suspensi-dicabut-bei",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Kembali Diperdagangkan Usai [Suspensi] Dicabut BEI",
+  "deck": "BEI mencabut suspensi saham GTBO mulai 3 September 2026 setelah emiten memenuhi kewajiban yang sempat membuatnya disetop dua kali sejak Juni.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T09:40:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/741d472172_e9979c800f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "GTBO",
+   "suspensi saham",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mencabut suspensi perdagangan saham PT Garda Tujuh Buana Tbk (GTBO) di Pasar Reguler dan Pasar Tunai, efektif sejak Sesi 1 Periodic Call Auction pada Kamis, 3 September 2026. Menurut pengumuman bernomor Peng-UPT-00018/BEI.PLP/09-2026 yang diteken Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat Teuku Fahmi Ariandar dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A., pencabutan ini dilakukan karena GTBO telah memenuhi seluruh kewajiban yang menjadi penyebab suspensinya dan tidak ada kondisi lain yang menghalangi.",
+   "Saham GTBO sebelumnya disetop perdagangannya dua kali secara berurutan. Suspensi pertama dijatuhkan lewat pengumuman Peng-S-00020/BEI.PLP/06-2026 pada 30 Juni 2026 sebagai sanksi atas keterlambatan penyampaian laporan keuangan auditan tahunan per 31 Desember 2025. Sebulan kemudian, lewat pengumuman Peng-S-00024/BEI.PLP/07-2026 pada 30 Juli 2026, BEI kembali menyuspensi saham ini karena GTBO juga terlambat menyampaikan laporan keuangan interim per 31 Maret 2026. Praktis, saham GTBO tidak bisa diperdagangkan sejak akhir Juni hingga awal September 2026.",
+   "BEI menegaskan GTBO tetap tercatat di Papan Pemantauan Khusus, papan bagi emiten dengan kondisi tertentu yang memerlukan pengawasan lebih ketat dari bursa. Bursa juga meminta seluruh pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan perusahaan ke depannya."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, morning sunlight reflecting off the windows",
+  "takeaway": "Laporan ini netral bagi GTBO: pencabutan suspensi bukan sinyal perbaikan kinerja usaha, melainkan konfirmasi bahwa emiten akhirnya menyerahkan dua laporan keuangan yang sempat telat selama lebih dari dua bulan. Yang tersentuh di sini bukan pos kinerja seperti laba atau utang, melainkan likuiditas perdagangan sahamnya sendiri, yakni kemampuan investor untuk membeli dan menjual saham GTBO di bursa, yang sebelumnya terkunci total sejak akhir Juni 2026. Investor yang memegang saham ini perlu mencermati bahwa status Papan Pemantauan Khusus belum dicabut, yang berarti BEI masih mengawasi lebih ketat, dan kepatuhan GTBO pada jadwal pelaporan keuangan berikutnya akan jadi penentu apakah saham ini kembali disuspensi atau tidak.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
   "category": "Ketenagakerjaan",
   "title": "ABK KM El Malika [Ditemukan] Selamat Usai 13 Hari Hilang",

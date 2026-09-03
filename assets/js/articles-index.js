@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
+  "category": "Aksi Korporasi",
+  "title": "WINR Rencana Naikkan Kepemilikan di Laxo Global Jadi [90%]",
+  "deck": "PT Winner Nusantara Jaya menandatangani addendum akuisisi yang menaikkan target kepemilikan saham di ISP Laxo Global Akses dari 60% menjadi 90%, dari kepemilikan saat ini 8,5%.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "akuisisi",
+   "ISP",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2a8a6d092_8d04070471.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "excl-umumkan-rencana-rupslb-pada-12-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "EXCL Umumkan Rencana [RUPSLB] pada 12 Oktober 2026",
+  "deck": "XLSmart Telecom menjadwalkan RUPSLB pada 12 Oktober 2026, dengan pemegang saham per 17 September 2026 yang berhak hadir dan memberi suara.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EXCL",
+   "RUPSLB",
+   "XLSmart Telecom",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ead5eeed9_ab47c1df3b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yelo-tanggapi-permintaan-bei-pemegang-saham-utama-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "YELO Tanggapi Permintaan BEI, Pemegang Saham Utama [Bertahan]",
+  "deck": "BEI meminta YELO menjelaskan volatilitas transaksi sahamnya. Perseroan mengaku tak ada informasi material tersembunyi, dan pengendali ASN pastikan tidak berencana mengurangi kepemilikan.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f6dad4f139_7a29cba384.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "unvr-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UNVR Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "UNVR menanggapi permintaan Bursa soal volatilitas transaksi sahamnya, menyatakan tidak ada info material tersembunyi dan pemegang saham utama belum berencana ubah kepemilikan.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNVR",
+   "Unilever Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412a4283e4_0faf4606fa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Rencanakan [Buyback] Rp500 Miliar, Berlaku hingga Desember",
+  "deck": "Erajaya Swasembada mengumumkan rencana pembelian kembali saham hingga Rp500 miliar selama tiga bulan mulai 4 September 2026, memakai skema OJK untuk kondisi pasar berfluktuasi signifikan.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "Erajaya Swasembada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba7edbe79b_6b7f2b961a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-bukukan-laba-rp226-miliar-naik-12-6-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MDLA Bukukan Laba Rp226 Miliar, [Naik] 12,6% Semester I 2026",
+  "deck": "Medela Potentia (MDLA) mencatat pendapatan Rp8,2 triliun dan laba bersih Rp226 miliar pada semester I 2026, naik masing-masing 10,1% dan 12,6% dibanding tahun lalu.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cc7910a964_5dbdb6b4c5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dkft-jadwalkan-dividen-interim-rp30-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DKFT Jadwalkan [Dividen] Interim Rp30 per Saham",
+  "deck": "Central Omega Resources (DKFT) akan membagikan dividen tunai interim Rp30 per saham, total maksimal Rp169,15 miliar, dibayar 21 September 2026.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DKFT",
+   "dividen interim",
+   "Central Omega Resources",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7070e921d0_a16e13d46b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gtbo-kembali-diperdagangkan-usai-suspensi-dicabut-bei",
+  "category": "Aksi Korporasi",
+  "title": "GTBO Kembali Diperdagangkan Usai [Suspensi] Dicabut BEI",
+  "deck": "BEI mencabut suspensi saham GTBO mulai 3 September 2026 setelah emiten memenuhi kewajiban yang sempat membuatnya disetop dua kali sejak Juni.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "suspensi saham",
+   "BEI",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/741d472172_e9979c800f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
   "category": "Ketenagakerjaan",
   "title": "ABK KM El Malika [Ditemukan] Selamat Usai 13 Hari Hilang",
@@ -6403,133 +6531,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462131-dunia-usaha-serukan-kondusivitas-jaga-momentum-investasi-dan-aktivitas-ekonomi"
- },
- {
-  "slug": "scpi-direktur-yeap-xin-yi-mundur-direksi-berubah",
-  "category": "Aksi Korporasi",
-  "title": "SCPI: Direktur Yeap Xin Yi Mundur, Direksi [Berubah]",
-  "deck": "RUPSLB Organon Pharma Indonesia menyetujui pengunduran diri Direktur Yeap Xin Yi dan menetapkan susunan Direksi baru beranggotakan tiga orang.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCPI",
-   "Organon Pharma Indonesia",
-   "RUPSLB",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/6aea9c17b0_d2bc7cdacb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psab-jawab-bursa-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "PSAB Jawab Bursa soal [Volatilitas] Transaksi Saham",
-  "deck": "J Resources Asia Pasifik (PSAB) menegaskan tidak ada informasi material tersembunyi maupun rencana aksi korporasi terkait lonjakan volatilitas transaksi sahamnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "J Resources Asia Pasifik",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2a87fc023c_fe5ad1a90a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emtk-lepas-99-99-saham-anak-usaha-aca-ke-yuslinda-nasution",
-  "category": "Aksi Korporasi",
-  "title": "EMTK [Lepas] 99,99% Saham Anak Usaha ACA ke Yuslinda Nasution",
-  "deck": "Elang Mahkota Teknologi menjual seluruh sahamnya di PT Abhimata Citra Abadi, mengalihkan pengendalian dan menghentikan konsolidasi laporan keuangan anak usaha itu.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMTK",
-   "divestasi anak usaha",
-   "ACA",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4bc7831137_6cdf75fbf1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trus-bantah-ada-informasi-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "TRUS Bantah Ada Informasi Material soal [Volatilitas] Saham",
-  "deck": "Menjawab surat klarifikasi Bursa Efek Indonesia, Trust Finance Indonesia (TRUS) menyatakan tidak ada informasi material di balik pergerakan volatile transaksi sahamnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUS",
-   "Bursa Efek Indonesia",
-   "Volatilitas Saham",
-   "Keterbukaan Informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96f3338378_41a8ee3985.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-suspensi-saham-dicabut-bei-usai-4-bulan",
-  "category": "Aksi Korporasi",
-  "title": "BIKE [Suspensi] Saham Dicabut BEI Usai 4 Bulan",
-  "deck": "Bursa mencabut penghentian sementara perdagangan saham BIKE mulai 24 Agustus 2026, setelah suspensi sejak akhir April terkait perubahan pengendalian perusahaan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "suspensi saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4c1076b851_5b24bb5e5a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goto-rafly-umarsyah-tambah-kepemilikan-saham-jadi-2-200-unit",
-  "category": "Aksi Korporasi",
-  "title": "GOTO: Rafly Umarsyah Tambah [Kepemilikan] Saham Jadi 2.200 Unit",
-  "deck": "Pelapor non-direksi/komisaris GOTO menambah 1.900 unit saham lewat pembelian tidak langsung, dari 300 menjadi 2.200 unit, hak suara tetap 0,00%.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOTO",
-   "kepemilikan saham",
-   "hak suara multiple",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2380-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-600-saham-rp309-ribu",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 600 Saham Rp309 Ribu",
-  "deck": "Komisaris AKPI, Henry Liem, melepas 600 saham senilai Rp309.000 pada 21 Agustus 2026, transaksi terkecil dalam rangkaian penjualan sahamnya pekan ini.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "komisaris",
-   "transaksi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2341-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "apli-tegaskan-tak-ada-info-material-soal-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "APLI Tegaskan Tak Ada Info Material soal [Volatilitas] Sahamnya",
-  "deck": "Menjawab permintaan Bursa Efek Indonesia, manajemen Asiaplast Industries (APLI) menyatakan tidak mengetahui informasi material di balik pergerakan transaksi sahamnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APLI",
-   "Asiaplast Industries",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/373e78a71b_59dc0d7a68.pdf",
-  "sourceLabel": "IDX"
  }
 ];

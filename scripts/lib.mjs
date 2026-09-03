@@ -191,7 +191,26 @@ export function wajibAlat(nama) {
 //   NAMA    - kata kunci hanya dihitung kalau berada di AWAL nama berkas
 // Sisanya diserahkan ke penyaring ukuran saat unduh, yang tidak bisa dibohongi
 // nama berkas apa pun.
-const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/_layouts\/|\/assets\/(imgs?|images)\/(part|theme|ui|bg)\/|\/img\/(ui|bg|icon)/i;
+//
+// Tiga folder ditambahkan 3 September 2026, masing-masing dari satu kejadian
+// nyata di gelombang kedua sumber pemerintah:
+//   /assets/img/              Pupuk Indonesia menaruh logo Danantara (1920x1080!)
+//                             di sini, dan itu yang terbit sebagai "Foto: PT
+//                             Pupuk Indonesia" - foto artikelnya ada di /storage/.
+//   /assets/frontend/images/  BP BUMN: spanduk HUT RI 8170x4855.
+//   /front_assets/            Bappenas: blank.gif, logo, lencana kampanye.
+// Ketiganya SEMPIT dengan sengaja. Jangan pernah memblokir /assets/ secara
+// buta: ESDM menyimpan fotonya di /assets/imagecache/ dan PU di
+// /assets/front/img/blogs/, dua-duanya foto sungguhan.
+const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/_layouts\/|\/assets\/(imgs?|images)\/(part|theme|ui|bg)\/|\/img\/(ui|bg|icon)|\/assets\/img\/|\/assets\/frontend\/images\/|\/front_assets\//i;
+
+// Host layanan gambar contoh. og:image yang menunjuk ke sini adalah template
+// yang lupa diisi, bukan foto. KSEI menyisakan https://picsum.photos/1200/630
+// di tiap halamannya; picsum membalas JPEG SUNGGUHAN berukuran besar dan acak,
+// jadi ia lolos gerbang ukuran di unduhFoto dan akan terbit sebagai "Foto: PT
+// Kustodian Sentral Efek Indonesia" - foto karangan. Satu-satunya cara
+// mencegatnya adalah lewat host-nya, sebelum diunduh.
+const HOST_CONTOH = /(^|\.)(picsum\.photos|placehold\.(co|it)|placeholder\.com|dummyimage\.com|unsplash\.it|lorempixel\.com|placekitten\.com|loremflickr\.com)$/i;
 
 // Jalur tempat tiap sumber MENYIMPAN foto beritanya.
 //
@@ -204,8 +223,37 @@ const FOLDER_PERABOT = /\/(appasset|static|icons?|theme|template|layout)\/|\/_la
 // SharePoint /_layouts/15/images/spcommon.png (271x268, ditolak penjaga
 // ukuran), sementara foto aslinya menunggu di /PublishingImages/ dengan
 // ukuran 1280x853 sampai 6768x4500.
-const JALUR_ISI = /\/PublishingImages\/|\/albums?\/|\/download\/|\/imagecache\/|thumbs?\.tvonenews\.com|\/media-center\/|\/uploads?\//i;
-const NAMA_PERABOT = /^(logo|icon|favicon|avatar|banner|flag|share|sprite|placeholder|spinner|bahasa|english|watermark|default)[-_.]?/i;
+//
+// Ditambah 3 September 2026 dari gelombang kedua sumber, tiap jalur DIUKUR
+// menghasilkan foto sungguhan (lebar dalam kurung):
+//   /storage/             Pupuk Indonesia (782, Laravel Media Library),
+//                         KSEI (1080), BKPM (4608), KKP
+//   /wp-content/uploads/  Bulog (1280), GAIKINDO (1589, avif)
+//   /sites/default/files/ DJP (Drupal; lihat penulisan ulang styles/ di bawah)
+//   /image/               Kemenko Perekonomian (1028)
+//   /berita_utama/        PPATK (1279x1600)
+//   /dir-site/uploads/    GAPKI
+//   /blogs/               PU (600, di bawah /assets/front/img/ - sebab lain
+//                         kenapa /assets/ tidak boleh diblokir buta)
+const JALUR_ISI = /\/PublishingImages\/|\/albums?\/|\/download\/|\/imagecache\/|thumbs?\.tvonenews\.com|\/media-center\/|\/uploads?\/|\/storage\/|\/wp-content\/uploads\/|\/sites\/default\/files\/|\/image\/|\/berita_utama\/|\/dir-site\/uploads\/|\/blogs\//i;
+// bendera, blank, dan nama jejaring sosial ditambah 3 September 2026:
+// KPPU memasang bendera-id.PNG 856x636 di header (lolos gerbang lebar 400),
+// Bappenas memakai blank.gif sebagai placeholder, dan Pupuk Indonesia memuat
+// tiktok.png di dalam badan halaman. Semua berada di AWAL nama berkas.
+// footer, header, sidebar, widget ditambah pada hari yang sama, dari uji live
+// sesudah /storage/ masuk JALUR_ISI: BP BUMN menaruh gambar kaki halaman di
+// /storage/portal/footer_1661499789.png, dan jalur /storage/ yang baru
+// dipercaya itu langsung memungutnya. Nama berkasnya sendiri sudah mengaku.
+//
+// "whatsapp" SENGAJA TIDAK ADA di daftar ini, dan jangan ditambahkan lagi.
+// Sempat masuk bersama nama jejaring sosial lain, lalu uji offline
+// menjatuhkannya: foto rilis Bulog bernama WhatsApp-Image-2026-09-03-at-
+// 10.15.30.jpeg - itu nama baku berkas yang diekspor dari WhatsApp, dan
+// persis begitulah humas di Indonesia menamai foto siaran persnya. Ikon
+// WhatsApp sendiri hampir selalu .svg (sudah ditolak bukanBentukFoto) atau
+// terlalu kecil (ditolak gerbang lebar 400), jadi aturan nama untuknya tidak
+// pernah dibutuhkan dan ongkos salah tangkapnya nyata.
+const NAMA_PERABOT = /^(logo|icon|favicon|avatar|banner|flag|bendera|blank|share|sprite|placeholder|spinner|bahasa|english|watermark|default|footer|header|sidebar|widget|tiktok|facebook|twitter|instagram|youtube|linkedin|telegram)[-_.]?/i;
 
 function perabotHalaman(u) {
   if (FOLDER_PERABOT.test(u)) return true;
@@ -245,7 +293,11 @@ export function cariFotoUtama(html, opsi = {}) {
   // semua artikel, jadi memakainya buta berarti semua berita berfoto sama.
   const og = html.match(/property=["']og:image["'][^>]*content=["']([^"']+)["']/i)
     || html.match(/content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
-  if (og) kandidat.push(og[1]);
+  // og:image TIDAK lagi dilempar ke daftar kandidat umum. Ia diperiksa sendiri
+  // di bawah, dengan syarat yang tidak berlaku untuk gambar badan halaman:
+  // host-nya harus satu domain induk dengan halaman sumbernya. Alasannya di
+  // komentar tingkat 0.
+  const ogUrl = og ? og[1] : '';
 
   // SYARAT EKSTENSI DICABUT, dan alamat relatif ikut diterima.
   //
@@ -275,8 +327,25 @@ export function cariFotoUtama(html, opsi = {}) {
     // berisi placeholder dan alamat aslinya justru di data-src.
     const m = atribut.match(/\b(?:data-src|data-original|data-lazy-src|data-echo)=["']([^"'\s]+)["']/i)
       || atribut.match(/\bsrc=["']([^"'\s]+)["']/i);
-    if (m) kandidat.push(m[1]);
+    // Posisi byte-nya ikut disimpan: dipakai tingkat 1 untuk mendahulukan
+    // gambar yang berada di antara paragraf isi (lihat di bawah).
+    if (m) kandidat.push({ u: m[1], pos: tag.index });
   }
+
+  // Rentang paragraf isi: dari <p> bermakna pertama sampai terakhir (>=60
+  // huruf sesudah tag dibuang, ambang yang sama dengan ambilIsi di
+  // fetch-gov.mjs). Bukan pagar, cuma pemutus seri di tingkat 1: gambar di
+  // dalam rentang ini didahulukan atas gambar di luar rentang.
+  //
+  // Diukur pada Bulog 3 September 2026: foto rilisnya di
+  // /wp-content/uploads/2026/09/ berada DI DALAM rentang, sedangkan belasan
+  // logo mitra di /wp-content/uploads/20xx/ (ISO, JPL, GMM, Mutu) semuanya
+  // SESUDAH rentang - jalur yang sama persis, posisi yang membedakan.
+  const paragraf = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .filter(p => p[1].replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim().length >= 60);
+  const isiAwal = paragraf.length ? paragraf[0].index : -1;
+  const isiAkhir = paragraf.length ? paragraf[paragraf.length - 1].index + paragraf[paragraf.length - 1][0].length : -1;
+  const diDalamIsi = (k) => isiAwal >= 0 && k.pos >= isiAwal && k.pos <= isiAkhir;
 
   // Alamat data: dan svg dibuang di sini, bukan lewat BUKAN_FOTO, karena
   // keduanya soal BENTUK alamat bukan soal nama berkas. data: itu gambar
@@ -284,29 +353,138 @@ export function cariFotoUtama(html, opsi = {}) {
   // selalu ikon atau logo.
   const bukanBentukFoto = (u) => /^data:/i.test(u) || /\.svg(\?|$)/i.test(u);
 
-  // Kandidat yang berada di jalur penyimpanan foto berita didahulukan, dengan
-  // urutan aslinya dipertahankan di dalam tiap kelompok supaya og:image tetap
-  // menang atas gambar badan halaman.
-  const urut = [
-    ...kandidat.filter(u => u && JALUR_ISI.test(u)),
-    ...kandidat.filter(u => u && !JALUR_ISI.test(u)),
-  ];
+  // ---------- pemilihan bertingkat, 3 September 2026 ----------
+  //
+  // Versi lama: kandidat JALUR_ISI dulu, lalu SEMUA sisanya menurut urutan
+  // halaman, dan gambar pertama yang lolos saringan nama menang. Cacatnya
+  // ketahuan dari satu laporan pemilik situs: artikel Pupuk Indonesia terbit
+  // dengan logo Danantara berkredit "Foto: PT Pupuk Indonesia". Halaman itu
+  // tidak punya og:image, foto aslinya di /storage/ (belum dikenal JALUR_ISI),
+  // dan logo itu gambar kedua di halaman - 1920x1080, jadi gerbang ukuran pun
+  // tidak menolongnya.
+  //
+  // Diukur ulang atas 20 sumber. Empat memungut perabot dengan cara yang
+  // sama (Pupuk: logo, KPPU: bendera 856x636, BP BUMN: spanduk 8170x4855,
+  // Bappenas: blank.gif), satu memercayai og:image palsu (KSEI: picsum), dan
+  // pada SETIAP kasus itu gambar yang salah adalah "gambar pertama yang lolos
+  // saringan nama". Tingkat cadangan itu ternyata tidak pernah benar, jadi
+  // DIHAPUS. Yang tersisa tiga tingkat, dan kalau ketiganya kosong jawabannya
+  // memang kosong: artikel turun ke ilustrasi, bukan ke perabot.
+  //
+  // Pembatasan ke wadah <article>/<main> sempat dipertimbangkan dan ditolak
+  // setelah diukur: Pupuk, BP BUMN, dan Kemnaker tidak memakai satu pun tag
+  // semantik. Kedekatan nama berkas dengan URL sumbernya yang bekerja.
 
-  for (let u of urut) {
-    if (!u || bukanBentukFoto(u) || perabotHalaman(u)) continue;
-
-    // Alamat relatif dibereskan terhadap halaman sumbernya.
+  const bereskan = (u) => {
     if (!/^https?:\/\//i.test(u)) {
-      if (!opsi.asal) continue;            // tanpa asal, relatif tidak bisa dipakai
-      try { u = new URL(u, opsi.asal).href; } catch { continue; }
+      if (!opsi.asal) return '';          // tanpa asal, relatif tidak bisa dipakai
+      try { u = new URL(u, opsi.asal).href; } catch { return ''; }
     }
-
+    // Drupal menyajikan turunan kecil di /styles/<gaya>/public/. DJP menaruh
+    // 207x220 di sana - ditolak gerbang lebar 400 padahal berkas aslinya
+    // 1923x2048 ada di jalur yang sama tanpa segmen styles. Diuji: HTTP 200.
+    u = u.replace(/\/sites\/default\/files\/styles\/[^/]+\/public\//i, '/sites/default/files/');
     // thumbs.tvonenews.com menyajikan beberapa ukuran lewat akhiran nama
     // berkas. Yang tertanam di halaman cuma 412x232, terlalu kecil untuk
     // kartu 680px, padahal versi 1200x675 tersedia di alamat yang sama.
-    u = u.replace(/_\d{2,4}_\d{2,4}(\.(?:jpg|jpeg|webp))$/i, '_1200_675$1');
-    return u;
+    return u.replace(/_\d{2,4}_\d{2,4}(\.(?:jpg|jpeg|webp))$/i, '_1200_675$1');
+  };
+
+  const hostDari = (u) => { try { return new URL(u).hostname.toLowerCase(); } catch { return ''; } };
+  // Domain induk: dua label terakhir, KECUALI akhiran dua tingkat Indonesia
+  // (.go.id, .co.id, ...) yang butuh tiga - kalau tidak, semua situs
+  // pemerintah tampak satu domain "go.id". Diuji atas 14 host sumber nyata.
+  const domainInduk = (h) => {
+    const p = h.split('.');
+    return (/\.(go|co|or|ac|sch|web|my)\.id$/.test(h) ? p.slice(-3) : p.slice(-2)).join('.');
+  };
+
+  // Kedekatan dengan URL SUMBER (bukan slug kita, yang saat ini belum ada):
+  // token >=6 huruf dari segmen akhir path sumber, atau angka >=3 digit dari
+  // path+query sumber, muncul di path+query kandidat. Kenapa path dan bukan
+  // URL utuh: "indonesia" di slug Pupuk cocok dengan HOST pupuk-indonesia.com
+  // dan meloloskan logonya lagi. Kenapa id dari path+query: Kementan menaruh
+  // id artikelnya di ?id=8113 dan fotonya di img_viewer.php?...&id=8113.
+  // Kata umum yang tidak membawa identitas foto dikecualikan; kata topikal
+  // (rupiah, prabowo, pertamina) SENGAJA tidak, karena justru itu identitasnya.
+  const KATA_UMUM = new Set(('indonesia jakarta pemerintah kementerian menteri nasional presiden ' +
+    'republik berita artikel siaran detail storage upload uploads images image assets ' +
+    'content default files public styles thumbnail conversions perusahaan keterangan ' +
+    'tentang dengan untuk dalam pada yang dari hingga dorong ungkap tembus perkuat').split(' '));
+  let tokenSumber = [], idSumber = [];
+  try {
+    const s = new URL(opsi.asal);
+    const akhir = (s.pathname.split('/').filter(Boolean).pop() || '').toLowerCase();
+    tokenSumber = akhir.split(/[^a-z0-9]+/).filter(t => t.length >= 6 && !KATA_UMUM.has(t) && !/^\d+$/.test(t));
+    idSumber = ((s.pathname + s.search).match(/\d{3,}/g) || []);
+  } catch { /* tanpa asal, kedekatan tidak bisa dihitung */ }
+  const dekatDenganSumber = (u) => {
+    let pq = ''; try { const x = new URL(u); pq = (x.pathname + x.search).toLowerCase(); } catch { return false; }
+    return tokenSumber.some(t => pq.includes(t)) || idSumber.some(i => pq.includes(i));
+  };
+
+  const lolosSaringan = (u) => u && !bukanBentukFoto(u) && !perabotHalaman(u);
+
+  // TINGKAT 0: og:image, dengan syarat tambahan satu domain induk.
+  //
+  // og:image adalah pernyataan penerbit tentang foto utamanya, jadi ia tetap
+  // yang paling dipercaya - TAPI hanya kalau menunjuk ke situsnya sendiri.
+  // Yang menunjuk ke luar hampir pasti template yang lupa diisi: KSEI
+  // menyisakan picsum.photos, dan picsum membalas JPEG sungguhan berukuran
+  // besar yang lolos gerbang lebar 400. Satu-satunya pengecualian yang sah
+  // dari 381 artikel berfoto di arsip adalah tvonenews.com -> thumbs.
+  // tvonenews.com, dan itu satu domain induk, jadi tidak perlu dikecualikan.
+  // og:image yang isinya bukan URL (ESDM menulis "image/jpeg") atau perabot
+  // (Kementan: /img/logo.png, Kemendag: /assets/imgs/part/about.png) gugur
+  // di sini dan pencarian lanjut ke badan halaman, seperti sebelumnya.
+  //
+  // og:image WAJIB alamat absolut (spek Open Graph memang mensyaratkannya).
+  // Ini bukan kerapian: ESDM mengisi og:image dengan teks "image/jpeg", dan
+  // tanpa syarat ini teks itu dibereskan sebagai path relatif menjadi
+  // https://www.esdm.go.id/id/media-center/arsip-berita/image/jpeg - satu
+  // host, lolos saringan nama, dan DITERIMA di tingkat ini. Ketahuan dari uji
+  // offline sebelum sempat tayang. Yang absolut lewat, yang lain jatuh ke
+  // badan halaman seperti sebelumnya.
+  if (/^(https?:)?\/\//i.test(ogUrl) && lolosSaringan(ogUrl)) {
+    const u = bereskan(ogUrl.replace(/^\/\//, 'https://'));
+    const h = hostDari(u), hAsal = hostDari(opsi.asal || '');
+    if (u && h && !HOST_CONTOH.test(h) && (!hAsal || domainInduk(h) === domainInduk(hAsal))) return u;
   }
+
+  // Penyaring tambahan KHUSUS tingkat badan (1 dan 2), tidak untuk og:image:
+  //   - "logo" di MANA PUN dalam nama berkas. Di badan halaman itu logo mitra
+  //     (Bulog: Mutu-International-Logo-1-1024x745.jpeg, 1024 lebar, lolos
+  //     gerbang ukuran). Tidak diterapkan ke og:image karena dua kasus di
+  //     arsip adalah foto tvOne TENTANG logo ("...-logo-bank-indonesia-..."),
+  //     dan og:image adalah pernyataan penerbit, bukan tebakan kita.
+  //   - sufiks ukuran WordPress -NNNxNN (lebar <=3 digit): thumbnail sidebar
+  //     dan kaki halaman (JPL-300x137, wbs-300x79). Varian -1024x... lolos.
+  // Diperiksa atas 381 foto arsip: nol yang kena di tingkat badan.
+  const perabotBadan = (u) => {
+    const nama = (u.split('?')[0].split('/').pop() || '');
+    return perabotHalaman(u) || /logo/i.test(nama) || /-\d{1,3}x\d{1,3}\.(?:png|jpe?g|webp|avif)$/i.test(nama);
+  };
+  const lolosBadan = (k) => k && k.u && !bukanBentukFoto(k.u) && !perabotBadan(k.u);
+  // Di dalam tiap tingkat: yang berada di antara paragraf isi lebih dulu,
+  // lalu sisanya; urutan halaman dipertahankan di dalam masing-masing.
+  const isiDulu = (xs) => [...xs.filter(diDalamIsi), ...xs.filter(k => !diDalamIsi(k))];
+
+  // TINGKAT 1: gambar di jalur penyimpanan foto berita.
+  for (const k of isiDulu(kandidat.filter(k => lolosBadan(k) && JALUR_ISI.test(k.u)))) {
+    const u = bereskan(k.u);
+    if (u && !HOST_CONTOH.test(hostDari(u))) return u;
+  }
+
+  // TINGKAT 2: gambar yang namanya dekat dengan URL sumbernya.
+  // Menangkap PU (/assets/front/img/blogs/<slug>-<uuid>.jpg), Bappenas
+  // (/berita/<slug>-<hash>.jpg), dan Kementan (img_viewer.php?...&id=<id>).
+  for (const k of isiDulu(kandidat.filter(lolosBadan))) {
+    const u = bereskan(k.u);
+    if (u && !HOST_CONTOH.test(hostDari(u)) && dekatDenganSumber(u)) return u;
+  }
+
+  // Tidak ada tingkat "gambar pertama apa pun". Semua yang dulu ditangkapnya
+  // adalah perabot, dan perabot berkredit lebih buruk daripada ilustrasi.
   return '';
 }
 

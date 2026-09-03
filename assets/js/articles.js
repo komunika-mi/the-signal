@@ -3,6 +3,172 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
+  "category": "Ketenagakerjaan",
+  "title": "ABK KM El Malika [Ditemukan] Selamat Usai 13 Hari Hilang",
+  "deck": "KKP mengawal kepulangan awak kapal perikanan yang ditemukan selamat di Palau usai 13 hari hilang kontak di laut, sekaligus mengimbau standar keselamatan kapal ikan.",
+  "image": "assets/img/abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:16:15.364Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-pemulangan-awak-km-el-malika-usai-13-hari-hilang-kontak-di-laut-z7Oy.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "ABK",
+   "KKP",
+   "keselamatan laut",
+   "perikanan tangkap"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan (KKP) mengawal proses pemulangan Rahmad Labada, awak kapal perikanan asal Minahasa Utara yang bekerja di KM El Malika berbendera Palau, setelah ia ditemukan selamat pada 20 Agustus 2026 usai 13 hari hilang kontak di laut. Kasus ini relevan bagi pekerja sektor perikanan tangkap Indonesia karena menunjukkan risiko keselamatan yang dihadapi awak kapal yang beroperasi jauh dari daratan, termasuk yang direkrut untuk kapal berbendera asing.",
+   "Rahmad dilaporkan hilang kontak sejak 7 Agustus 2026 ketika perahu bantu yang ia gunakan untuk menangkap ikan terpisah dari kapal induk akibat gelombang tinggi dan hanyut. Ia ditemukan di Pulau Peleliu, Palau, lalu menjalani perawatan medis hingga 27 Agustus 2026 sebelum dinyatakan cukup sehat untuk melakukan perjalanan pulang.",
+   "Untuk memastikan kepulangan yang aman, KKP berkoordinasi dengan Kementerian Luar Negeri, KBRI Manila, Konsulat Kehormatan RI di Palau, Syahbandar Perikanan PPS Bitung, pemerintah daerah, dan pemilik kapal, mencakup pengurusan dokumen perjalanan, transportasi, dan pendampingan. Rahmad berangkat dari Koror menuju Manila pada 28 Agustus, tiba di Bandara Soekarno-Hatta pada 29 Agustus pukul 23.55 WIB, dan dijadwalkan melanjutkan perjalanan ke Manado pada 1 September sebelum diantar pulang ke Minahasa Utara.",
+   "Direktur Jenderal Perikanan Tangkap KKP Lotharia Latif menyebut kasus ini sebagai pengingat pentingnya kesiapsiagaan keselamatan di laut. Ia mengimbau pemilik kapal dan nakhoda memastikan kelaikan kapal serta perahu bantu, ketersediaan alat komunikasi dan perlengkapan keselamatan, dan kepatuhan pada prosedur sebelum berlayar, sekaligus mendorong setiap awak kapal memahami prosedur keadaan darurat agar pertolongan bisa lebih cepat jika terjadi kondisi membahayakan."
+  ],
+  "fotoAdegan": "Small wooden fishing support boat moored beside a larger trawler at a tropical harbor, fishermen checking life jackets, hazy morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-kawal-pemulangan-awak-km-el-malika-usai-13-hari-hilang-kontak-di-laut-z7Oy.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah dari kasus ini bukan aturan baru, sebab KKP hanya mengeluarkan imbauan kepada pemilik kapal dan nakhoda soal kelaikan kapal, alat komunikasi, dan perlengkapan keselamatan, bukan kewajiban yang mengikat secara hukum. Pihak yang paling terdampak adalah awak kapal perikanan yang bekerja jauh dari pantai, termasuk mereka yang direkrut untuk kapal berbendera asing seperti KM El Malika, karena merekalah yang menanggung risiko langsung saat kecelakaan terjadi di laut lepas. Berita ini hanya memuat satu kasus tanpa data berapa banyak insiden serupa dialami awak kapal perikanan Indonesia sepanjang tahun ini, sehingga belum bisa dibaca apakah ini kejadian langka atau bagian dari pola yang berulang. Yang masih perlu dipantau adalah apakah KKP menindaklanjuti imbauan ini dengan aturan wajib soal standar keselamatan perahu bantu dan alat komunikasi di kapal perikanan, atau kasus ini berhenti sebagai catatan insiden tunggal.",
+  "imageV": "mtkuhnoc"
+ },
+ {
+  "slug": "dpr-apresiasi-klaim-swasembada-8-komoditas-pangan",
+  "category": "Makroekonomi",
+  "title": "DPR Apresiasi Klaim [Swasembada] 8 Komoditas Pangan",
+  "deck": "Komisi IV DPR memberi apresiasi kepada Kementerian Pertanian atas klaim swasembada delapan komoditas pangan, mengacu pada neraca produksi 2026 yang diklaim melampaui kebutuhan nasional.",
+  "image": "assets/img/dpr-apresiasi-klaim-swasembada-8-komoditas-pangan.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:16:09.711Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8112",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "Kementerian Pertanian",
+   "Swasembada Pangan",
+   "DPR",
+   "Neraca Pangan"
+  ],
+  "body": [
+   "Komisi IV DPR RI memberikan apresiasi kepada Menteri Pertanian Andi Amran Sulaiman dalam rapat kerja, Selasa (1/9), atas klaim pemerintah bahwa Indonesia telah mencapai swasembada delapan komoditas pangan strategis. Klaim ini menegaskan pernyataan Presiden Prabowo Subianto dalam pidato kenegaraan di depan Sidang Tahunan MPR pertengahan Agustus lalu, yang menyebut capaian tersebut terjadi lebih cepat dari target awal pemerintah.",
+   "Berdasarkan neraca pangan 2026 yang menjadi rujukan klaim tersebut, produksi beras diproyeksikan mencapai 34,77 juta ton, di atas kebutuhan nasional sebesar 31,10 juta ton. Jagung diproyeksikan berproduksi 18 juta ton berbanding kebutuhan 16,44 juta ton, sementara gula konsumsi diproyeksikan 3,04 juta ton berbanding kebutuhan 2,84 juta ton. Di sektor peternakan, produksi daging ayam ras diperkirakan 4,90 juta ton dengan kebutuhan sekitar 4,02 juta ton, dan telur ayam ras diproyeksikan 6,99 juta ton berbanding kebutuhan 6,47 juta ton.",
+   "Kelompok hortikultura juga tercatat surplus menurut proyeksi yang sama. Produksi cabai besar diperkirakan mencapai 1,52 juta ton, jauh di atas kebutuhan 929 ribu ton, sedangkan cabai rawit diproyeksikan 1,51 juta ton berbanding kebutuhan 914 ribu ton. Bawang merah diproyeksikan berproduksi 1,32 juta ton, sedikit di atas kebutuhan nasional yang berkisar 1,25 juta ton. Secara total, produksi delapan komoditas tersebut diproyeksikan mencapai 72,91 juta ton, sementara kebutuhan nasional sekitar 68,22 juta ton, sehingga tercatat surplus sekitar 4,69 juta ton.",
+   "Ketua Komisi IV DPR RI Siti Hediati Hariyadi, yang akrab disapa Titiek Soeharto, menyampaikan apresiasi itu dalam rapat kerja bersama Kementerian Pertanian. Menteri Pertanian Andi Amran Sulaiman membalas dengan menyebut capaian tersebut sebagai hasil kerja bersama pemerintah pusat, DPR, pemerintah daerah, petani, dan penyuluh pertanian, dan menyebut delapan dari sebelas komoditas pangan strategis yang dipantau kini berstatus swasembada menurut catatan Kementerian Pertanian."
+  ],
+  "fotoAdegan": "Farmers harvesting rice in a green paddy field, sacks of grain loaded onto a small truck, midday light",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8112",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah bukan kebijakan baru, melainkan klaim resmi bahwa produksi delapan komoditas pangan, dari beras sampai cabai, sudah melampaui kebutuhan nasional sepanjang 2026, dengan total surplus sekitar 4,69 juta ton. Klaim ini pertama disampaikan Presiden Prabowo Subianto pertengahan Agustus lalu, dan kali ini mendapat dukungan politik dari Komisi IV DPR yang membidangi pertanian, tanpa ada catatan kritis dalam pernyataan yang dikutip. Pihak yang terdampak adalah petani produsen komoditas tersebut, yang hasil kerjanya jadi dasar klaim ini, serta pembuat kebijakan pangan yang bisa memakai angka surplus tadi sebagai alasan menahan impor atau membangun cadangan pangan menghadapi gejolak global. Yang perlu digarisbawahi, angka-angka produksi dan kebutuhan di atas masih berstatus proyeksi neraca pangan 2026, bukan hasil panen yang sudah final dihitung. Kepastian arah kebijakan pangan ke depan, apakah benar mengarah pada penguatan cadangan atau sekadar target di atas kertas, baru akan terlihat saat data realisasi produksi resmi untuk tahun 2026 dirilis.",
+  "imageV": "mtkuhv66"
+ },
+ {
+  "slug": "dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "DPR Setujui Anggaran Kementan [Rp28,02 Triliun] untuk 2027",
+  "deck": "Komisi IV DPR menyetujui anggaran Kementan Rp28,02 triliun untuk 2027, dengan porsi terbesar bagi penguatan padi, hortikultura, dan bawang putih.",
+  "image": "assets/img/dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:16:08.690Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8113",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "Kementan",
+   "Anggaran 2027",
+   "Swasembada Pangan",
+   "Bawang Putih"
+  ],
+  "body": [
+   "Komisi IV DPR RI menyetujui pagu anggaran Kementerian Pertanian tahun 2027 sebesar Rp28,02 triliun, sekaligus mencatat usulan tambahan Rp5 triliun yang akan dibahas lebih lanjut di Badan Anggaran DPR. Anggaran ini menjadi penanda arah kebijakan pangan tahun depan, karena lebih dari separuh total pagu, sekitar Rp16,6 triliun, dikhususkan untuk penguatan padi, sejumlah komoditas yang dibatasi impornya, hortikultura, serta hilirisasi perkebunan dan peternakan. Bagi masyarakat, alokasi ini penting karena menentukan komoditas mana yang akan didorong produksinya dan komoditas mana yang masih akan bergantung pada pasokan luar negeri dalam beberapa tahun ke depan.",
+   "Porsi terbesar, Rp9,6 triliun, dialokasikan untuk padi dengan target peningkatan produktivitas menjadi 10 hingga 12 ton per hektare. Sebanyak Rp1,9 triliun disiapkan untuk jagung, kedelai, dan ubi kayu, tiga komoditas yang masuk kategori dibatasi impornya. Sektor hortikultura mendapat sekitar Rp2 triliun untuk pengembangan bawang putih, cabai, bawang merah, dan program pekarangan pangan bergizi, dengan target produksi bawang putih sebesar 40,63 ribu ton pada 2027.",
+   "Hilirisasi perkebunan mendapat alokasi Rp2,3 triliun untuk kelapa, kakao, kopi, pala, lada, dan tebu, sementara hilirisasi peternakan yang mencakup daging sapi dan kerbau, telur, serta susu mendapat Rp798 miliar. Kementerian Pertanian juga mengusulkan tambahan Rp5 triliun yang akan difokuskan pada percepatan pengembangan komoditas perkebunan strategis, termasuan kelapa, lada, pala, tebu, kopi, kakao, dan jambu mete, serta bantuan traktor untuk budi daya tebu.",
+   "Menteri Pertanian Andi Amran Sulaiman menyampaikan bahwa delapan komoditas, yaitu beras, jagung, gula konsumsi, daging ayam, telur ayam, bawang merah, cabai besar, dan cabai rawit, diklaim telah mencapai swasembada, dengan proyeksi produksi 72,91 juta ton berbanding kebutuhan nasional 68,22 juta ton. Menurut Kementan, capaian itu menjadi dasar untuk mengalihkan sebagian anggaran pada komoditas yang belum mandiri seperti bawang putih, sekaligus membangun infrastruktur pascapanen seperti gudang pendingin agar harga di tingkat petani tidak anjlok saat panen raya."
+  ],
+  "fotoAdegan": "Farmers tending flooded rice paddies on terraced fields, wearing conical hats, working under soft morning light in rural Java.",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8113",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah konkret di sini adalah pembagian anggaran Rp28,02 triliun Kementan untuk 2027: porsi terbesar, Rp9,6 triliun, tetap ke padi, sementara anggaran hortikultura dinaikkan signifikan dengan target produksi bawang putih 40.630 ton, komoditas yang menurut Kementan sendiri masih paling bergantung pada pasokan impor. Yang terkena dampak langsung adalah petani padi, petani jagung-kedelai-singkong yang mendapat porsi Rp1,9 triliun, serta petani hortikultura dan pekebun kelapa-kakao-kopi-lada-pala-tebu yang jadi sasaran program hilirisasi. Pola penganggaran bergilir, fokus satu-dua komoditas per tahap alih-alih membagi rata ke semua sektor, menunjukkan bawang putih tampak jadi giliran berikutnya setelah delapan komoditas lain diklaim swasembada. Yang akan memastikan apakah prioritas ini benar-benar berjalan adalah persetujuan akhir Badan Anggaran DPR atas usulan tambahan Rp5 triliun, serta apakah realisasi produksi bawang putih pada 2027 mendekati target 40.630 ton tersebut.",
+  "imageV": "mtkuhz82"
+ },
+ {
+  "slug": "kemnaker-siapkan-kompetensi-pekerja-untuk-green-jobs",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
+  "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:15:59.061Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "green jobs",
+   "Kemnaker",
+   "ketenagakerjaan",
+   "transisi energi"
+  ],
+  "body": [
+   "Kementerian Ketenagakerjaan (Kemnaker) tengah menyiapkan kompetensi tenaga kerja untuk menghadapi peluang lapangan kerja hijau atau green jobs, yang diproyeksikan mencapai 5,3 juta hingga 9 juta posisi baru dalam 5 sampai 10 tahun mendatang. Ini penting bagi angkatan kerja Indonesia karena sektor yang tumbuh seiring transisi energi bersih ini membutuhkan keterampilan yang berbeda dari pekerjaan konvensional, sehingga pekerja perlu bersiap lebih awal agar tidak tertinggal.",
+   "Menteri Ketenagakerjaan Yassierli menyampaikan hal ini saat menghadiri Indonesia's Green Jobs Conference 2026 yang digelar Kementerian PPN/Bappenas di Jakarta, Rabu (2/9/2026). Ia menyebut green jobs menjadi perhatian global, bukan hanya Indonesia, dan pemerintah sudah membahas peta jalan (roadmap) khusus untuk isu ini, meski tantangan berikutnya adalah menerjemahkan peta jalan tersebut menjadi langkah nyata di lapangan.",
+   "Menurut Yassierli, peran Kemnaker adalah menyiapkan modalitas pendukung, mulai dari tempat pelatihan untuk keterampilan siap kerja, penyusunan kurikulum, penyiapan instruktur dan fasilitas, hingga sertifikasi dan pengakuan (rekognisi) kompetensi terkait green jobs. Ia menekankan upaya ini membutuhkan kerja sama lintas pihak dan harus disiapkan sejak dini, sejalan dengan semangat transisi energi yang inklusif agar tidak ada pekerja yang tertinggal dalam prosesnya."
+  ],
+  "fotoAdegan": "Vocational trainees in coveralls practicing solar panel wiring at an open-air training yard, midday sun, Indonesia.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini baru sebatas arah kebijakan: Kemnaker mulai menyiapkan infrastruktur pelatihan, seperti kurikulum, instruktur, dan sertifikasi, untuk sektor kerja hijau, dengan mengacu pada proyeksi 5,3 sampai 9 juta lapangan kerja baru dalam 5 sampai 10 tahun. Yang berpotensi terdampak adalah pencari kerja dan pekerja yang perlu mengasah ulang keterampilannya, lembaga pelatihan vokasi, serta sektor energi terbarukan yang butuh tenaga terampil. Yang masih kurang untuk membaca ke mana arah kebijakan ini bergerak adalah dokumen peta jalan resmi itu sendiri, karena belum ada tenggat kapan kurikulum atau skema sertifikasi ini akan rampung, dan tidak disebut anggaran maupun target jumlah pekerja yang akan dilatih. Yang perlu dipantau selanjutnya adalah apakah Kemnaker dan Bappenas akan merilis peta jalan green jobs secara resmi beserta program pelatihan konkret, atau pernyataan ini berhenti sebagai wacana di forum konferensi."
+ },
+ {
+  "slug": "jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta",
+  "category": "Makroekonomi",
+  "title": "Jabar Selidiki Sebab DBH Pajak Tertinggal dari [Jakarta]",
+  "deck": "Pemprov Jawa Barat dan BRIN mengkaji penyebab dana bagi hasil pajak provinsi ini jauh di bawah DKI Jakarta, sembari menelusuri aturan baru pembagian DBH PPh yang berlaku tahun ini.",
+  "image": "assets/img/sidang-dpr.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:15:16.364Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/optimalkan-dbh-pemerintah-provinsi-jawa-barat-dan-brin-dalami-potensi-penerimaan-pajak",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "DBH",
+   "Pajak Daerah",
+   "Jawa Barat",
+   "DJP"
+  ],
+  "body": [
+   "Pemerintah Provinsi Jawa Barat bersama Badan Riset dan Inovasi Nasional (BRIN) mendatangi Kantor Wilayah Direktorat Jenderal Pajak (DJP) Jawa Barat II pada 13 Agustus 2026 untuk menelusuri sebab penerimaan dana bagi hasil (DBH) pajak provinsi ini jauh tertinggal dari DKI Jakarta. Kunjungan ini bagian dari kajian bersama yang ingin mencari celah menambah pendapatan daerah dari pos pajak yang selama ini dianggap belum optimal.",
+   "Data yang dipaparkan dalam pertemuan menunjukkan DKI Jakarta menerima DBH pajak sekitar Rp22,4 triliun, jauh di atas Jawa Barat yang hanya kebagian sekitar Rp1,2 triliun meski berada di posisi kedua tertinggi secara nasional. Kajian ini menyoroti dua jenis pajak penghasilan (PPh): PPh Pasal 21 yang dipotong dari gaji karyawan, dan PPh Pasal 25/29 yang dibayar badan usaha. Salah satu pertanyaan yang diajukan BRIN adalah bagaimana penerimaan PPh 21 dihitung ketika karyawan bekerja di satu daerah tetapi kantor pusat perusahaannya terdaftar di daerah lain.",
+   "DJP menjelaskan bahwa mekanisme ini sudah diatur dalam Peraturan Menteri Keuangan Nomor 35 Tahun 2026 tentang Pengalokasian DBH PPh. Aturan itu menyebutkan penerimaan PPh Pasal 21 dihitung berdasarkan tempat kegiatan usaha pemberi kerja terdaftar, bukan tempat karyawan bekerja sehari-hari. Setiap tahun, paling lambat 15 Juli, DJP mengirim data realisasi PPh 21, PPh 25/29 tahun sebelumnya, serta indikator kinerja daerah kepada Direktorat Jenderal Perimbangan Keuangan sebagai dasar penghitungan.",
+   "Total alokasi DBH sendiri terdiri dari 90 persen berdasarkan formula tetap dan 10 persen berdasarkan kinerja daerah, seperti kepatuhan pelaporan pajak tahunan dan kerja sama pemungutan pajak pusat-daerah. Untuk melengkapi kajian, BRIN meminta data tambahan dari DJP berupa jumlah wajib pajak yang harus lapor SPT tahunan dan jumlah yang benar-benar sudah melapor, guna menganalisis basis pajak dan tingkat kepatuhan di Jawa Barat. DJP Jawa Barat sendiri terbagi dalam tiga wilayah kerja kantor wilayah dengan karakteristik ekonomi yang berbeda-beda."
+  ],
+  "fotoAdegan": "Rows of factory workers assembling products on a production line inside an industrial park, daylight through high windows",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan terbukanya alasan kenapa Jawa Barat cuma kebagian Rp1,2 triliun dana bagi hasil pajak sementara DKI Jakarta dapat Rp22,4 triliun, padahal dana bagi hasil ini adalah uang pajak yang dikumpulkan pusat lalu dibagikan kembali ke daerah. Penyebabnya terletak pada aturan bahwa pajak penghasilan karyawan dihitung dari lokasi kantor pemberi kerja terdaftar, bukan tempat karyawan itu benar-benar bekerja, sehingga daerah seperti Jawa Barat yang banyak pabrik dan pekerjanya bisa kalah dari Jakarta yang jadi basis kantor pusat perusahaan besar. Pihak yang terdampak jelas pemerintah daerah dengan basis industri serupa Jawa Barat, karena kapasitas anggaran mereka ikut tersandera oleh aturan lokasi pendaftaran ini. Ada dua kemungkinan arah dari kajian ini: bisa berujung usulan mengubah basis penghitungan supaya daerah dengan banyak tenaga kerja mendapat bagian lebih besar, atau berhenti jadi bahan pemahaman internal saja karena mekanismenya sudah terikat ketat pada Peraturan Menteri Keuangan Nomor 35 Tahun 2026. Yang akan memastikan arah mana yang terjadi adalah hasil akhir kajian Pemprov Jawa Barat dan BRIN, yang belum disebutkan tenggat penyelesaiannya dalam pertemuan ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun",
+  "category": "BUMN",
+  "title": "DJP Perjelas Pajak untuk [Restrukturisasi] BUMN Rp806 Triliun",
+  "deck": "DJP Wajib Pajak Besar menjelaskan fasilitas pajak baru bagi restrukturisasi BUMN kepada 55 pimpinan perusahaan, di tengah target penerimaan Rp806 triliun tahun ini.",
+  "image": "assets/img/truk-logistik-gudang.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T01:15:15.456Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kawal-restrukturisasi-bumn-kanwil-djp-wajib-pajak-besar-berusaha-realisasikan-target",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "DJP",
+   "BUMN",
+   "Pajak",
+   "Restrukturisasi"
+  ],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak Wajib Pajak Besar menggelar forum konsultasi publik pada 19 Agustus 2026 di Jakarta, mengundang 55 pimpinan perusahaan BUMN strategis serta perwakilan konsultan pajak dan media, untuk menjelaskan dua aturan pajak baru yang mengatur proses restrukturisasi perusahaan dan perwakilan wajib pajak. Forum ini digelar di tengah program pemerintah merampingkan jumlah BUMN dari 1.074 entitas menjadi sekitar 300-an, sekaligus saat kantor wilayah tersebut mengemban target penerimaan pajak Rp806 triliun atau 34,4 persen dari target penerimaan pajak nasional tahun ini.",
+   "Materi utama forum adalah PMK Nomor 1 Tahun 2026 yang mengatur fasilitas nilai buku untuk restrukturisasi BUMN. Lewat fasilitas ini, pajak atas pengalihan aset dalam proses merger atau pemisahan usaha tidak dihapuskan, melainkan ditunda pembayarannya sampai aset tersebut dijual ke luar grup usaha. Syaratnya, transaksi harus lolos uji tujuan bisnis dan aset tidak boleh dipindahtangankan dalam waktu dua tahun. Materi kedua adalah PMK Nomor 44 Tahun 2026 tentang Kuasa Wajib Pajak, yang mewajibkan pihak non-konsultan yang mewakili wajib pajak mengantongi Surat Keterangan Terdaftar setelah lulus uji kompetensi di Badan Pendidikan dan Pelatihan Keuangan.",
+   "Sebagai gambaran skala restrukturisasi yang memakai fasilitas ini, Pelindo tercatat menyusut dari 71 entitas menjadi 24 entitas sejak merger pada 2021, sementara PLN membentuk struktur holding dan sub-holding pada 2023 dengan memindahkan aset pembangkit dalam jumlah besar antarperusahaan. Kepala Kanwil DJP Wajib Pajak Besar, Dasto Ledianto, mengatakan pihaknya akan mengejar target penerimaan lewat pendekatan yang disebut cooperative compliance, yakni tidak memeriksa berulang wajib pajak yang tingkat kepatuhannya sudah tinggi. Pendekatan ini ditopang oleh penerapan Tax Control Framework, sistem yang mengintegrasikan pencatatan pajak perusahaan dengan sistem pengendalian internal agar laporan keuangan dan surat pemberitahuan pajak lebih sinkron.",
+   "Dalam sesi tanya jawab, perwakilan Pelindo mempertanyakan aturan larangan pemindahtanganan aset dalam dua tahun, yang berpotensi menghambat restrukturisasi bertahap dalam satu tahun pajak. Penyuluh DJP menjelaskan bahwa berdasarkan aturan saat ini, pengalihan sebelum dua tahun bisa membatalkan fasilitas pajak kecuali untuk efisiensi yang disetujui. Namun pemerintah tengah menyusun Rancangan Peraturan Pemerintah tentang Danantara yang akan mengakomodasi skema restrukturisasi berjenjang agar tetap bisa memakai fasilitas nilai buku."
+  ],
+  "fotoAdegan": "Container cranes loading stacked cargo boxes onto a large ship at a busy Indonesian seaport, workers in vests, midday light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah kepastian aturan pajak saat BUMN digabung atau dipecah dalam program perampingan dari 1.074 badan usaha menjadi sekitar 300 entitas. Lewat fasilitas nilai buku, pajak atas aset yang dipindah antarperusahaan BUMN tidak dihapus, hanya ditunda sampai aset itu benar-benar dijual ke pihak luar grup, asalkan tidak dipindahtangankan lagi dalam dua tahun. Yang terdampak langsung adalah BUMN yang sedang direstrukturisasi seperti PLN dan Pelindo, juga konsultan atau kuasa wajib pajak yang kini harus mengantongi sertifikat kompetensi resmi. Arahnya tampak menuju pelonggaran administrasi lebih lanjut, sebab pemerintah sedang menyiapkan aturan turunan lewat RPP Danantara yang akan mengizinkan restrukturisasi bertahap tetap mendapat fasilitas ini, sesuatu yang selama ini terganjal batas dua tahun tadi. Yang akan memastikan arah ini adalah kapan RPP Danantara tersebut terbit dan seberapa jauh ia melonggarkan batas waktu yang berlaku sekarang.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
   "category": "Energi",
   "title": "Pemerintah Targetkan [42,6] GW Pembangkit EBT dalam RUPTL 2034",
@@ -63,7 +229,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
   "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-02T23:23:57.814Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ketahanan-ekspor-nonmigas-indonesia-topang-surplus-neraca-perdagangan-juli-2026",
@@ -2466,7 +2632,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:04.592Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -3340,7 +3506,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
@@ -3420,7 +3586,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
@@ -5249,7 +5415,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",

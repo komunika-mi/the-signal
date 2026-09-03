@@ -5,6 +5,108 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
+  "category": "Ketenagakerjaan",
+  "title": "ABK KM El Malika [Ditemukan] Selamat Usai 13 Hari Hilang",
+  "deck": "KKP mengawal kepulangan awak kapal perikanan yang ditemukan selamat di Palau usai 13 hari hilang kontak di laut, sekaligus mengimbau standar keselamatan kapal ikan.",
+  "date": "3 September 2026",
+  "image": "assets/img/abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang.jpg",
+  "imageV": "mtkuhnoc",
+  "tags": [
+   "ABK",
+   "KKP",
+   "keselamatan laut",
+   "perikanan tangkap"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-pemulangan-awak-km-el-malika-usai-13-hari-hilang-kontak-di-laut-z7Oy.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "dpr-apresiasi-klaim-swasembada-8-komoditas-pangan",
+  "category": "Makroekonomi",
+  "title": "DPR Apresiasi Klaim [Swasembada] 8 Komoditas Pangan",
+  "deck": "Komisi IV DPR memberi apresiasi kepada Kementerian Pertanian atas klaim swasembada delapan komoditas pangan, mengacu pada neraca produksi 2026 yang diklaim melampaui kebutuhan nasional.",
+  "date": "3 September 2026",
+  "image": "assets/img/dpr-apresiasi-klaim-swasembada-8-komoditas-pangan.jpg",
+  "imageV": "mtkuhv66",
+  "tags": [
+   "Kementerian Pertanian",
+   "Swasembada Pangan",
+   "DPR",
+   "Neraca Pangan"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8112",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "DPR Setujui Anggaran Kementan [Rp28,02 Triliun] untuk 2027",
+  "deck": "Komisi IV DPR menyetujui anggaran Kementan Rp28,02 triliun untuk 2027, dengan porsi terbesar bagi penguatan padi, hortikultura, dan bawang putih.",
+  "date": "3 September 2026",
+  "image": "assets/img/dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027.jpg",
+  "imageV": "mtkuhz82",
+  "tags": [
+   "Kementan",
+   "Anggaran 2027",
+   "Swasembada Pangan",
+   "Bawang Putih"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8113",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "kemnaker-siapkan-kompetensi-pekerja-untuk-green-jobs",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
+  "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
+  "date": "3 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "green jobs",
+   "Kemnaker",
+   "ketenagakerjaan",
+   "transisi energi"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta",
+  "category": "Makroekonomi",
+  "title": "Jabar Selidiki Sebab DBH Pajak Tertinggal dari [Jakarta]",
+  "deck": "Pemprov Jawa Barat dan BRIN mengkaji penyebab dana bagi hasil pajak provinsi ini jauh di bawah DKI Jakarta, sembari menelusuri aturan baru pembagian DBH PPh yang berlaku tahun ini.",
+  "date": "3 September 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "DBH",
+   "Pajak Daerah",
+   "Jawa Barat",
+   "DJP"
+  ],
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/optimalkan-dbh-pemerintah-provinsi-jawa-barat-dan-brin-dalami-potensi-penerimaan-pajak",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun",
+  "category": "BUMN",
+  "title": "DJP Perjelas Pajak untuk [Restrukturisasi] BUMN Rp806 Triliun",
+  "deck": "DJP Wajib Pajak Besar menjelaskan fasilitas pajak baru bagi restrukturisasi BUMN kepada 55 pimpinan perusahaan, di tengah target penerimaan Rp806 triliun tahun ini.",
+  "date": "3 September 2026",
+  "image": "assets/img/truk-logistik-gudang.jpg",
+  "tags": [
+   "DJP",
+   "BUMN",
+   "Pajak",
+   "Restrukturisasi"
+  ],
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kawal-restrukturisasi-bumn-kanwil-djp-wajib-pajak-besar-berusaha-realisasikan-target",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
   "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
   "category": "Energi",
   "title": "Pemerintah Targetkan [42,6] GW Pembangkit EBT dalam RUPTL 2034",
@@ -46,7 +148,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
   "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
   "date": "3 September 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -1527,7 +1629,7 @@ var ARTICLES = [
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
   "date": "1 September 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -2076,7 +2178,7 @@ var ARTICLES = [
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
   "date": "1 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "BPS",
    "Transportasi",
@@ -2124,7 +2226,7 @@ var ARTICLES = [
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
   "date": "1 September 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "ekspor-impor",
    "neraca dagang",
@@ -3261,7 +3363,7 @@ var ARTICLES = [
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "desil bansos",
    "DTSEN",
@@ -6428,102 +6530,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/373e78a71b_59dc0d7a68.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-wna-borong-5-62-juta-saham-itsec-asia",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi WNA [borong] 5,62 juta saham ITSEC Asia",
-  "deck": "Direksi ITSEC Asia menambah kepemilikan saham 6,83 persen lewat lima transaksi pembelian tidak langsung pada 21 Agustus 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-3406-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btel-profesional-telekomunikasi-indonesia-kuasai-10-86-saham",
-  "category": "Aksi Korporasi",
-  "title": "BTEL: Profesional Telekomunikasi Indonesia Kuasai [10,86%] Saham",
-  "deck": "PT Profesional Telekomunikasi Indonesia mengantongi 4,85 miliar saham baru BTEL, setara 10,86% hak suara, hasil konversi Obligasi Wajib Konversi pada harga Rp200 per saham.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTEL",
-   "Bakrie Telecom",
-   "konversi obligasi",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2726-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "excl-fitch-pertahankan-rating-aa-ruang-gerak-menyempit",
-  "category": "Aksi Korporasi",
-  "title": "EXCL: Fitch pertahankan rating [AA+], ruang gerak menyempit",
-  "deck": "Fitch Ratings mengafirmasi peringkat EXCL di AA+(idn) outlook stabil, tapi menyebut ruang kenaikan leverage sudah nyaris habis akibat konsolidasi dengan Smartfren.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EXCL",
-   "Fitch Ratings",
-   "peringkat obligasi",
-   "XLSMART"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/414ca42131_c221dd0b2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-pemegang-saham-setujui-pmthmetd-868-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "HATM: Pemegang Saham Setujui [PMTHMETD] 868 Juta Saham",
-  "deck": "RUPS Luar Biasa HATM menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu hingga 868 juta saham untuk PT Multi Sarana Nasional, disetujui 100 persen tanpa penolakan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "RUPS",
-   "PMTHMETD",
-   "Multi Sarana Nasional"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1255696e96_648a2f3e27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "assa-tambah-fasilitas-kredit-cimb-niaga-jadi-rp100-m-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "ASSA Tambah Fasilitas Kredit CIMB Niaga jadi Rp100 M [Modal Kerja]",
-  "deck": "ASSA menambah fasilitas pinjaman tetap dari CIMB Niaga sebesar Rp40 miliar, sehingga total pokok kredit naik dari Rp60 miliar menjadi Rp100 miliar untuk modal kerja pembelian armada kendaraan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASSA",
-   "kredit bank",
-   "CIMB Niaga",
-   "modal kerja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b2ae580d3a_a001065a69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heal-komisaris-hasmoro-beli-lagi-737-700-saham-hermina",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Komisaris Hasmoro Beli [Lagi] 737.700 Saham Hermina",
-  "deck": "Komisaris Medikaloka Hermina, DR Hasmoro, membeli 737.700 saham HEAL senilai sekitar Rp680 per lembar dalam tiga transaksi 19-21 Agustus, melanjutkan pembelian pekan sebelumnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-1158-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

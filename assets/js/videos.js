@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "iSPeZH9NzP0",
+  "title": "Bea Cukai Siapkan Strategi Atasi Kemacetan Arus Barang di Pelabuhan",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menyiapkan langkah baru untuk memperlancar arus barang di pelabuhan sekaligus menekan dwelling time dan biaya logistik.",
+  "takeaway": "Kebijakan ini relevan bagi pelaku usaha karena dwelling time dan biaya logistik pelabuhan berpengaruh langsung pada daya saing perdagangan nasional.",
+  "terbit": "2026-09-03T01:20:23+00:00"
+ },
+ {
+  "id": "GF044yQHWCM",
+  "title": "Serikat Buruh Temui Menaker Bahas RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Serikat buruh menemui Menteri Ketenagakerjaan Yassierli untuk menyampaikan kekecewaan atas draf RUU Ketenagakerjaan yang dinilai belum mengakomodasi usulan mereka.",
+  "takeaway": "Perkembangan RUU Ketenagakerjaan penting diikuti karena berdampak pada hubungan industrial serta kepastian hukum bagi pekerja dan dunia usaha.",
+  "terbit": "2026-09-03T01:15:21+00:00"
+ },
+ {
   "id": "zlNoRcPSzO0",
   "title": "Polemik Desil: Data, Kebijakan, dan Realita di Lapangan",
   "category": "Makroekonomi",
@@ -90,23 +108,5 @@ var VIDEOS = [
   "summary": "Pembaruan data kesejahteraan dengan sistem desil membuat sejumlah warga miskin tercoret dari daftar penerima bantuan sosial.",
   "takeaway": "Menyoroti risiko kesalahan data dalam penyaluran anggaran perlindungan sosial negara.",
   "terbit": "2026-08-31T04:20:09+00:00"
- },
- {
-  "id": "aLk2OevJFUQ",
-  "title": "BPS Buka Suara soal Ketimpangan Data Desil",
-  "category": "Makroekonomi",
-  "program": "Pagi-pagi Seru",
-  "summary": "BPS menyatakan ketimpangan data desil dalam DTSEN dipicu berbagai faktor kesalahan data kependudukan dan sosial ekonomi.",
-  "takeaway": "Klarifikasi lembaga statistik resmi penting untuk menjaga kredibilitas data yang mendasari kebijakan ekonomi.",
-  "terbit": "2026-08-31T04:11:45+00:00"
- },
- {
-  "id": "qrtoWz74ZV4",
-  "title": "Kadin Indonesia Kunjungi PT VKTR Sakti Industries di Magelang",
-  "category": "Industri",
-  "program": "Kabar Hari Ini",
-  "summary": "Kadin Indonesia menggelar Go-See and Pitch Trip ke PT VKTR Sakti Industries di Magelang bersama Menteri Lingkungan Hidup Mohammad Jumhur Hidayat.",
-  "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menggambarkan upaya dunia usaha mendekatkan diri dengan pelaku industri manufaktur dalam negeri.",
-  "terbit": "2026-08-28T16:33:04+00:00"
  }
 ];

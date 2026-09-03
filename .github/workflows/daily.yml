@@ -74,10 +74,16 @@ jobs:
     # Sekarang tiap langkah punya pagarnya sendiri, berjumlah 67 menit.
     # Jatah job ditaruh di atas jumlah itu supaya ia benar-benar jadi jaring
     # terakhir: yang mati langkahnya, tercatat "failure", dan emailnya sampai.
-    # 70 -> 76 -> 84 -> 92. Jumlah pagar langkah kini 84 menit
-    # (4+2+4+10+16+8+8+6+2+2+4+12+2), dihitung ulang dari berkas ini bukan
+    # 70 -> 76 -> 84 -> 92. Jumlah pagar langkah kini 86 menit
+    # (4+2+4+10+20+8+8+8+2+2+4+12+2), dihitung ulang dari berkas ini bukan
     # disalin dari catatan lama - angka 69 yang tertulis di sini sebelumnya
     # sudah usang, langkahnya bertambah tanpa catatannya ikut diperbarui.
+    # (Deretan ini pun sempat usang lagi: menulis 16 untuk "Ambil berita" yang
+    # sudah 20, dan 6 untuk langkah foto yang kini 8. Selalu hitung ulang dari
+    # nilai timeout-minutes di berkas ini, jangan percaya deretannya.)
+    # 3 September 2026: langkah foto 6 -> 8 (menyamai pemantau.yml; penjaga
+    # waktu skripnya 420 detik). Jumlah jadi 86, jatah 92 tetap di atasnya,
+    # tidak perlu dinaikkan.
     # Jatah job WAJIB di atas jumlah itu
     # supaya yang jatuh duluan selalu langkahnya. Job yang ditebas berakhir
     # "cancelled" dan GitHub TIDAK mengirim email untuk itu - persis yang
@@ -303,8 +309,17 @@ jobs:
             node scripts/build-pages.mjs
           }
 
+      # 6 -> 8 pada 3 September 2026, disamakan dengan langkah yang sama di
+      # pemantau.yml. Skripnya punya penjaga waktu sendiri di TENGGAT (6 menit)
+      # + 60 detik = 420 detik, dan kasus terburuknya mencetak laporan pada
+      # sekitar 416 detik. Pagar 6 menit berarti runner yang lambat membunuh
+      # langkah ini SEBELUM laporannya sendiri sempat tercetak, jadi yang
+      # tersisa cuma "timed out" tanpa satu pun angka - padahal seluruh isi
+      # skrip itu dirancang supaya selalu ada laporan. Jumlah artikel (25 di
+      # sini, 15 di pemantau) tidak mengubah batasnya, karena TENGGAT yang
+      # membatasi putaran utama, bukan jumlah artikelnya.
       - name: Periksa foto terhadap sumbernya
-        timeout-minutes: 6
+        timeout-minutes: 8
         run: |
           # Pemeriksaan yang selama ini DIKERJAKAN MANUSIA.
           #

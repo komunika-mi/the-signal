@@ -44,7 +44,21 @@ const MAKS_VIDEO = 12;
 // sumber jadi lima (BI, Kemendag, Kemenperin, BPS, ESDM): dengan jatah lama 4
 // artikel per putaran, satu sumber yang sedang ramai bisa menghabiskan seluruh
 // jatah dan sumber lain tidak pernah kebagian.
-const TARGET_GOV = Number(process.env.SIGNAL_GOV || 8);
+//
+// 8 -> 20 pada 2 September 2026, bersamaan dengan kanal naik dari 4 ke 20
+// lembaga. Menambah sumber tanpa menaikkan angka ini tidak ada gunanya:
+// pasokan kandidat naik dari sekitar 8 menjadi 38 per putaran, dan angka 8
+// berubah dari batas yang jarang tersentuh menjadi sumbat yang mengikat tiap
+// putaran. Situs tetap terbit sebanyak sebelumnya, dan seluruh kerja menambah
+// sumber tidak terlihat di halaman.
+//
+// Angka 20 sengaja lebih besar daripada yang biasanya sempat ditulis dalam
+// satu putaran. Yang menjadi pengatur sesungguhnya BATAS_MENIT di bawah: ia
+// berhenti sendiri saat waktu habis dan tetap menyimpan yang sudah jadi.
+// Membiarkan waktu yang mengatur lebih baik daripada angka tetap, karena
+// putaran yang sepi jadi cepat selesai dan putaran yang ramai memakai seluruh
+// jatahnya.
+const TARGET_GOV = Number(process.env.SIGNAL_GOV || 20);
 
 // Batas waktu putaran, SENGAJA lebih ketat daripada pagar langkah GitHub.
 //
@@ -55,7 +69,16 @@ const TARGET_GOV = Number(process.env.SIGNAL_GOV || 8);
 // membuat putaran berhenti SENDIRI selagi masih sempat menyimpan.
 //
 // Naikkan hanya bersama pagar langkah di daily.yml, jangan sendirian.
-const BATAS_MENIT = Number(process.env.SIGNAL_MENIT || 10);
+//
+// 10 -> 13 pada 2 September 2026. Inilah yang sebenarnya menentukan berapa
+// artikel terbit tiap putaran, jadi menaikkan TARGET_GOV tanpa menaikkan ini
+// cuma memindahkan sumbat, bukan membukanya.
+//
+// Pagar langkahnya ikut naik 16 -> 20 di daily.yml pada commit yang sama,
+// menjaga jarak yang sudah tertulis di sana: batas ini, ditambah satu artikel
+// yang terlanjur mulai, ditambah tahap simpan-dan-bangun, harus tetap muat di
+// dalam pagar langkah. 13 + ~1,5 + ~2 = ~16,5 di dalam 20.
+const BATAS_MENIT = Number(process.env.SIGNAL_MENIT || 13);
 const MULAI = Date.now();
 const lewatBatas = () => (Date.now() - MULAI) > BATAS_MENIT * 60000;
 // 4 -> 2, diturunkan 2 September 2026 bersamaan dengan bertambahnya kanal

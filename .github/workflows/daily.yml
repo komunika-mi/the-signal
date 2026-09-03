@@ -74,7 +74,7 @@ jobs:
     # Sekarang tiap langkah punya pagarnya sendiri, berjumlah 67 menit.
     # Jatah job ditaruh di atas jumlah itu supaya ia benar-benar jadi jaring
     # terakhir: yang mati langkahnya, tercatat "failure", dan emailnya sampai.
-    # 70 -> 76 -> 84. Jumlah pagar langkah kini 80 menit
+    # 70 -> 76 -> 84 -> 92. Jumlah pagar langkah kini 84 menit
     # (4+2+4+10+16+8+8+6+2+2+4+12+2), dihitung ulang dari berkas ini bukan
     # disalin dari catatan lama - angka 69 yang tertulis di sini sebelumnya
     # sudah usang, langkahnya bertambah tanpa catatannya ikut diperbarui.
@@ -87,7 +87,10 @@ jobs:
     # terbit" dinaikkan 5 -> 12. Kalau angka ini dibiarkan 76 ia jadi SAMA
     # dengan jumlah pagar langkah, dan jatah job bisa menang balapan - persis
     # keadaan yang seluruh catatan di atas ini berusaha hindari.
-    timeout-minutes: 84
+    #
+    # Naik lagi ke 92 pada 2 September 2026 karena "Ambil berita" dinaikkan
+    # 16 -> 20. Jarak 8 menit di atas jumlah pagar langkah dipertahankan.
+    timeout-minutes: 92
 
     steps:
       - uses: actions/checkout@v4
@@ -206,12 +209,17 @@ jobs:
           ffprobe -version | head -1
 
       - name: Ambil berita, video, dan data pasar
-        # 14 -> 16. Yang menjaga langkah ini sekarang BUKAN pagar ini,
-        # melainkan SIGNAL_MENIT di bawah: skripnya berhenti sendiri di
-        # menit 10 lalu menyimpan hasilnya. Pagar ini tinggal jaring
-        # terakhir, dan diberi jarak supaya artikel yang terlanjur mulai
-        # plus tahap simpan-dan-bangun tetap kebagian waktu.
-        timeout-minutes: 16
+        # 14 -> 16 -> 20. Yang menjaga langkah ini BUKAN pagar ini, melainkan
+        # SIGNAL_MENIT di bawah: skripnya berhenti sendiri lalu menyimpan
+        # hasilnya. Pagar ini tinggal jaring terakhir, dan diberi jarak supaya
+        # artikel yang terlanjur mulai plus tahap simpan-dan-bangun tetap
+        # kebagian waktu: 13 + ~1,5 + ~2 = ~16,5 di dalam 20.
+        #
+        # Naik ke 20 pada 2 September 2026 bersama SIGNAL_MENIT 10 -> 13,
+        # supaya kanal pemerintah yang kini 20 lembaga benar-benar sempat
+        # ditulis. Menaikkan kuota artikel tanpa menaikkan jatah waktu cuma
+        # memindahkan sumbatnya.
+        timeout-minutes: 20
         env:
           # Mesin AI: pakai token langganan Claude (tanpa biaya API tambahan).
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -226,7 +234,7 @@ jobs:
           # timeout-minutes di atas. Ditulis di sini, bukan cuma sebagai
           # bawaan di kode, supaya hubungan kedua angka itu terlihat
           # sekaligus dan tidak ada yang menaikkan salah satunya sendirian.
-          SIGNAL_MENIT: ${{ inputs.menit || '10' }}
+          SIGNAL_MENIT: ${{ inputs.menit || '13' }}
         run: npm run update
 
       - name: Ambil foto asli dari sumber

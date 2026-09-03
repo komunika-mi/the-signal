@@ -58,6 +58,59 @@ var ARTICLES = [
   "imageV": "mtlsfzmc"
  },
  {
+  "slug": "diva-rugi-rp31-97-miliar-pendapatan-turun-19-9",
+  "category": "Aksi Korporasi",
+  "title": "DIVA [Rugi] Rp31,97 Miliar, Pendapatan Turun 19,9%",
+  "deck": "Menjawab permintaan penjelasan BEI, DIVA mengungkap rugi bersih Rp31,97 miliar per Juni 2026, pendapatan turun 19,9%, dan utang bank jangka pendek melonjak ke Rp40,59 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T23:45:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03355453c3_53a697aa70.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIVA",
+  "tags": [
+   "DIVA",
+   "rugi bersih",
+   "keterbukaan informasi BEI",
+   "utang bank"
+  ],
+  "body": [
+   "PT Distribusi Voucher Nusantara Tbk (DIVA) menyampaikan tanggapan tertulis atas surat permintaan penjelasan Bursa Efek Indonesia nomor S-11167/BEI.PP2/09-2026 tanggal 1 September 2026, yang menyoroti sejumlah pos dalam laporan keuangan per 30 Juni 2026. Perusahaan mengonfirmasi bahwa laba bersih tahun lalu sebesar Rp22,38 miliar berbalik menjadi rugi bersih Rp31,97 miliar pada semester pertama 2026, seiring pendapatan yang turun Rp349,36 miliar atau 19,9 persen menjadi Rp1,41 triliun. Manajemen menyebut kondisi makro ekonomi yang belum stabil dan rasio kredit macet UMKM yang naik dari 4,0 persen menjadi 4,6 persen sebagai penyebab utama, sementara pendapatan dari pihak berelasi turun tajam dari Rp341,64 miliar menjadi Rp111,06 miliar.",
+   "Total liabilitas perusahaan naik Rp42,94 miliar atau 126,9 persen menjadi Rp76,79 miliar, terutama karena utang bank jangka pendek yang melonjak dari Rp2,47 miliar menjadi Rp40,59 miliar. Kenaikan ini berasal dari fasilitas kredit baru ke PT Berkah Karunia Kreasi sebesar Rp23,02 miliar dan penambahan fasilitas ke PT Berkah Trijaya Indonesia menjadi Rp17,56 miliar, dengan tujuan membiayai pembelian produk digital telekomunikasi dari Telkomsel dan XLSmart. DIVA juga mengalihkan sebagian fasilitas dari Bank Permata berbunga 9,75 persen, yang lunas November 2025, ke BCA dengan bunga lebih rendah 8,25 persen. Perusahaan mengklaim rasio liabilitas terhadap ekuitas masih di bawah 0,2 kali, rasio EBITDA terhadap beban bunga 10,8 kali, dan pemakaian plafon kredit baru mencapai 64 persen dari total Rp63,3 miliar.",
+   "Di sisi aset, persediaan produk digital naik Rp19,95 miliar menjadi Rp154,08 miliar, sementara nilai investasi saham TFAS, MCAS, NFCX, dan DMMX yang dicatat sebagai efek diperdagangkan turun Rp37,02 miliar menjadi Rp62,24 miliar akibat kerugian yang belum terealisasi. Perusahaan juga mengonfirmasi eksposur aset ke pihak berelasi, mencakup piutang, pinjaman, obligasi konversi, dan saham afiliasi, mencapai Rp389,12 miliar atau 51,96 persen dari total aset konsolidasian Rp748,86 miliar. Salah satu komponen eksposur itu adalah obligasi konversi senilai Rp68 miliar dengan PT Qerja Manfaat Bangsa yang akan jatuh tempo 31 Desember 2026, dan DIVA menyatakan belum berencana mengonversinya menjadi saham saat jatuh tempo."
+  ],
+  "fotoAdegan": "Warehouse workers scanning stacked cardboard boxes with handheld scanners inside a busy distribution center, forklifts in the background",
+  "takeaway": "Laporan ini condong negatif bagi DIVA, karena inti soalnya bukan penjelasan administratif melainkan konfirmasi bahwa perusahaan berbalik rugi Rp31,97 miliar dari laba Rp22,38 miliar setahun sebelumnya, sambil pendapatan susut hampir seperlima dan liabilitas melonjak lebih dari dua kali lipat. Yang tersentuh di sini adalah laba bersih dan ekuitas, karena rugi terus menerus akan mengikis modal pemegang saham, ditambah beban bunga yang harus dibandingkan dengan kemampuan bayar perusahaan meski manajemen mengklaim rasio utangnya masih rendah. Penjelasan manajemen soal refinancing bunga lebih murah dan risiko persediaan digital yang rendah memang masuk akal, tapi itu tidak mengubah fakta bahwa bisnis inti sedang menyusut. Yang perlu dipantau selanjutnya adalah jatuh tempo obligasi konversi Rp68 miliar dengan PT Qerja Manfaat Bangsa pada 31 Desember 2026, serta apakah DIVA bisa memenuhi target margin laba kotor di atas 4 persen dan mempertahankan laba usaha positif sampai akhir tahun ini seperti yang mereka janjikan sendiri ke bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mknt-ubah-utang-rp822-9-miliar-jadi-saham-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "MKNT ubah utang Rp822,9 miliar jadi saham [PMTHMETD]",
+  "deck": "MKNT menjawab pertanyaan Bursa soal rencana PMTHMETD, termasuk konversi utang Rp822,9 miliar ke saham baru dan RUPSLB 14 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T23:43:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64d76259fb_d466108f22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) menyampaikan jawaban resmi kepada Bursa Efek Indonesia pada 3 September 2026, menanggapi surat permintaan penjelasan BEI bernomor S-11169/BEI.PP1/09-2026 tanggal 1 September 2026 terkait rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Surat yang ditandatangani Corporate Secretary Jefri Junaedi itu menjawab tujuh pertanyaan bursa, mulai dari selisih angka laporan keuangan, syarat restrukturisasi utang, kondisi keuangan perseroan, hingga jadwal pelaksanaan aksi korporasi.",
+   "Inti dari PMTHMETD ini adalah konversi utang perseroan kepada PT Headwell Bintang Energi Hijau (HBEH) sebesar Rp668 miliar dan kepada PT Mantra Capital Persada (MCP) sebesar Rp154,93 miliar, total Rp822,9 miliar, menjadi saham baru Seri B bernilai nominal Rp1 per saham. Kedua utang ini adalah pinjaman pokok tanpa bunga dan tanpa jaminan, dan kesepakatan konversinya dituangkan dalam amandemen perjanjian pinjaman tertanggal 29 Mei 2026. Perseroan menyebut konversi ini akan menghapus liabilitas Rp822,9 miliar, menambah modal disetor dengan jumlah yang sama, memulihkan ekuitas dari negatif menjadi positif, sekaligus mengalihkan kendali perseroan kepada HBEH.",
+   "Perseroan juga menjelaskan mengapa PMTHMETD ini diperlukan. Berdasarkan laporan keuangan per 31 Maret 2026, aset lancar perseroan hanya Rp2,49 miliar sementara liabilitas jangka pendek mencapai Rp834,41 miliar, sehingga modal kerja bersih negatif Rp831,92 miliar. Total liabilitas Rp835,23 miliar juga sudah melebihi total aset Rp826,09 miliar, dengan rasio liabilitas terhadap aset 101,11 persen, jauh di atas ambang 80 persen yang diatur POJK No. 14/2019. Akibatnya ekuitas perseroan negatif Rp9,14 miliar, kondisi yang menurut perseroan dipicu oleh rendahnya kas serta terhentinya kegiatan operasional sehingga tidak ada arus kas untuk menutup kewajiban.",
+   "Soal jadwal, RUPSLB untuk menyetujui peningkatan modal dasar dan penerbitan Saham Seri B dijadwalkan 14 September 2026, diikuti permohonan pencatatan ke BEI dan instruksi distribusi ke KSEI pada 16 September, persetujuan penerbitan saham dari BEI pada 23 September, distribusi dan penyetoran pada 24 September, serta pencatatan saham baru di BEI pada 25 September 2026. Perseroan juga mengonfirmasi utang kepada HBEH dan MCP yang semula jatuh tempo 31 Agustus 2026 sudah disepakati diperpanjang menjadi 31 Desember 2026. Selain itu, sisa pembayaran akuisisi PT Radja Udang Malingping (RUM) sebesar Rp1,56 miliar, dari total harga Rp156,49 miliar, jatuh tempo paling lambat 7 hari setelah RUPSLB. Perseroan turut mengklarifikasi bahwa pemilik manfaat HBEH yang tercatat berbeda antara data Ditjen AHU (Kong Cho Wo) dan keterbukaan informasi (Handoyo Setiawan) disebabkan pergantian direktur dan pemilik manfaat di badan usaha induk HBEH, dan keduanya disebut sebagai rekan usaha."
+  ],
+  "fotoAdegan": "Stacks of closed document folders and a fountain pen on a notary's wooden desk, soft afternoon light through an office window",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena mengonfirmasi kondisi keuangan MKNT yang benar-benar tertekan: modal kerja negatif Rp831,92 miliar, kewajiban sudah melebihi aset dengan rasio 101,11 persen, dan ekuitas negatif Rp9,14 miliar akibat operasional perseroan yang sudah berhenti. Skema penyelamatannya, yaitu mengubah utang Rp822,9 miliar kepada HBEH dan MCP menjadi saham baru, memang bisa membalik ekuitas dari negatif ke positif, tapi konsekuensinya jumlah saham beredar akan melonjak sangat besar sehingga laba per saham pemegang lama berpotensi terdilusi tajam dan kendali perseroan berpindah ke HBEH. Yang perlu dicermati adalah RUPSLB pada 14 September 2026 yang akan memutuskan persetujuan penambahan modal dasar dan penerbitan Saham Seri B ini, sebab jika disetujui, prosesnya berlanjut cepat hingga pencatatan saham baru di BEI pada 25 September 2026, dan sisa pelunasan akuisisi RUM sebesar Rp1,56 miliar juga jatuh tempo 7 hari setelah RUPSLB tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
   "category": "Aksi Korporasi",
   "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
@@ -320,6 +373,110 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "mglv-divestasi-13-anak-usaha-ambil-pinjaman-rp4-triliun-dari-ndc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Divestasi 13 Anak Usaha, Ambil Pinjaman [Rp4 Triliun] dari NDC",
+  "deck": "Rencana transaksi mencapai 563,59 persen dari ekuitas Perseroan, mencakup divestasi 13 anak usaha dan pinjaman pemegang saham hingga Rp4 triliun dari NDC jelang RUPS 7 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:03:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c20a300955_77184e1ed6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "transaksi material",
+   "data center",
+   "NDC"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV), dahulu bernama PT Panca Anugrah Wisesa Tbk, menerbitkan perubahan keterbukaan informasi yang melengkapi dokumen serupa tertanggal 28 Juli 2026, menjelang RUPS pada 7 September 2026. Dokumen ini merinci lima rencana transaksi sekaligus: penjualan seluruh saham Perseroan di 13 anak usaha kepada PT Trijaya Wisesa Makmur (TWM) senilai Rp121.473.879.000, pengalihan sejumlah aset dan kewajiban ke TWM senilai Rp1.908.852.979, pengambilalihan PT Nextier Askara Center (NAC) dan PT Nextier GenAi Center (NGC) dari PT Nextier Datamate Center (NDC) senilai Rp1.998.000.000, pengalihan piutang NDC ke Perseroan senilai Rp668.607.000.000, serta fasilitas pinjaman pemegang saham dari NDC dengan nilai maksimal Rp4.000.000.000.000.",
+   "Berdasarkan laporan keuangan konsolidasian per 30 April 2026 yang diaudit Kantor Akuntan Publik Doli, Bambang, Sulistiyanto, Dadang & Ali, ekuitas Grup Perseroan tercatat Rp118.988.346.004, total aset Rp181.412.886.581, dan perusahaan masih merugi Rp9.350.545.928 dengan pendapatan usaha Rp24.122.429.354. Dari basis itu, Perseroan menghitung total nilai seluruh rencana transaksi mencapai 563,59 persen dari ekuitas, 1.099,29 persen dari total aset, 81,61 persen dari laba bersih, dan 95,61 persen dari pendapatan usaha, sehingga masuk kategori transaksi material yang wajib mendapat persetujuan RUPS sesuai POJK 17/2020. NDC sendiri adalah pemegang saham pengendali Perseroan sejak pengambilalihan pada Februari 2026, yang kemudian mengarahkan transformasi usaha Perseroan dari perdagangan besar peralatan rumah tangga menjadi penyedia data center.",
+   "Dokumen ini juga mengungkap bahwa NAC telah beroperasi komersial dengan kapasitas 6 megawatt dan mulai mencetak pendapatan sejak Mei 2026 sebesar Rp11.837.980.000, yang naik menjadi Rp36.334.823.306 pada Juni 2026 berdasarkan laporan keuangan belum diaudit. Penilaian kewajaran transaksi dilakukan oleh Mochammad Ichsan Suud dari KJPP Ferdinand Danar Ichsan & Rekan dengan tanggal penilaian 28 Agustus 2026, sementara rencana divestasi anak usaha dinilai oleh KJPP Yufrizal Deny Kamal & Rekan. Jadwal pelaksanaan disusun berurutan, penandatanganan akta jual beli NAC dan NGC pada 7 September 2026 setelah RUPS menyetujui, disusul akta jual beli 13 anak usaha dengan TWM dan akta pengalihan aset serta kewajiban Perseroan pada 8 September 2026."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks inside a spacious data center hall, cool blue lighting, cables bundled overhead",
+  "takeaway": "Rencana transaksi ini condong negatif bagi pemegang saham publik karena skalanya jauh melampaui ukuran Perseroan sendiri, nilai totalnya mencapai 563,59 persen dari ekuitas dan sebagian besar pendanaannya bergantung pada pinjaman hingga Rp4 triliun dari NDC yang juga berstatus pemegang saham pengendali. Yang tersentuh adalah ekuitas, yaitu modal bersih milik pemegang saham setelah dikurangi seluruh utang, yang per akhir April 2026 baru sekitar Rp119 miliar, jauh lebih kecil dari pinjaman baru yang akan diterima sehingga beban utang perusahaan berpotensi melonjak tajam begitu fasilitas ini dicairkan. Ada juga sisi yang perlu diakui, anak usaha data center yang diakuisisi, NAC, sudah mulai menghasilkan pendapatan sejak Mei dan naik dari Rp11,8 miliar menjadi Rp36,3 miliar pada Juni, jadi bisnis barunya bukan sekadar rencana di atas kertas. Yang perlu dipantau berikutnya adalah hasil RUPS pada 7 September 2026, sebab seluruh rencana transaksi ini baru bisa dieksekusi jika disetujui pemegang saham, disusul penandatanganan akta jual beli dengan TWM dan pengalihan aset yang dijadwalkan sehari setelahnya pada 8 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "edge-jamin-fasilitas-kredit-us-530-2-juta-untuk-data-center-dge",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Jamin Fasilitas Kredit [US$530,2 Juta] untuk Data Center DGE",
+  "deck": "Anak usaha EDGE, PT Digital Gayana Ekaprana, mendapat kredit US$530,2 juta dari 11 bank untuk proyek data center, dijamin saham EDGE dan Ekagrata Data Gemilang di DGE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T19:55:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee28316f16_da808554c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "transaksi material",
+   "data center",
+   "fasilitas kredit"
+  ],
+  "body": [
+   "PT Indointernet Tbk (EDGE) mengumumkan bahwa anak usaha terkendalinya, PT Digital Gayana Ekaprana (DGE), memperoleh fasilitas kredit dengan nilai komitmen US$530,2 juta dari sebelas lembaga keuangan, yaitu Bangkok Bank, Bank of China (Hong Kong) cabang Jakarta, Clifford Capital Credit Solutions, First Abu Dhabi Bank cabang Singapura, MUFG Bank cabang Jakarta, MUFG Bank cabang Singapura, Bank BNP Paribas Indonesia, Bank CIMB Niaga, Bank DBS Indonesia, Bank Permata, dan Bank OCBC NISP. Transaksi diteken pada 2 September 2026 dan diumumkan sehari setelahnya. Dana ini akan dipakai DGE untuk mengembangkan proyek pusat data (data center) miliknya, dengan tenor sampai lima tahun sejak penarikan pertama dan bunga mengikuti acuan SOFR ditambah margin 2,50 persen sampai 2,60 persen.",
+   "Fasilitas ini dijamin dengan proyek pusat data DGE serta saham milik EDGE dan PT Ekagrata Data Gemilang (EDG) di DGE, sehingga EDGE dan EDG berstatus penjamin (guarantor), bukan sekadar pemegang saham. Perjanjian kredit juga memuat sejumlah pembatasan bagi DGE selama fasilitas berjalan, antara lain dilarang memberi pinjaman atau jaminan ke pihak lain, bertransaksi di luar kegiatan usaha normal, menjual atau mengalihkan aset, melakukan merger atau joint venture, mendirikan atau mengakuisisi anak usaha, dan mengubah kegiatan usaha utama, kecuali diizinkan pemberi kredit.",
+   "Berdasarkan laporan keuangan Perseroan per 31 Desember 2025, ekuitas EDGE tercatat Rp1.829.546.178.628, sehingga nilai transaksi ini setara 515 persen dari ekuitas tersebut dan tergolong transaksi material menurut POJK 17/2020. Karena berbentuk pinjaman langsung dari lembaga keuangan dan pemberian jaminan kepada lembaga keuangan, transaksi ini dikecualikan dari kewajiban memakai penilai independen maupun meminta persetujuan RUPS, meski tetap wajib diumumkan ke publik dan dilaporkan ke OJK. Transaksi ini juga tergolong transaksi afiliasi karena EDGE adalah pengendali DGE dan EDG, namun Perseroan menyatakan tidak ada unsur benturan kepentingan. EDGE menyebut tidak ada dampak material terhadap kondisi keuangannya sendiri, selain kewajiban DGE membayar bunga dan pokok pinjaman secara berkala."
+  ],
+  "fotoAdegan": "Workers installing server racks and cooling ducts inside an unfinished data center hall, exposed cabling, industrial lighting, Indonesia.",
+  "takeaway": "Bagi neraca EDGE sendiri laporan ini netral, karena utangnya tercatat di DGE, bukan langsung di perusahaan induk, tapi ukurannya membuat laporan ini tidak bisa dianggap remeh: EDGE dan EDG ikut menjamin fasilitas yang nilainya lebih dari lima kali ekuitas EDGE. Jaminan seperti ini disebut kewajiban kontinjensi, yaitu utang yang belum masuk neraca sekarang tapi bisa berubah jadi tagihan nyata kalau DGE gagal bayar, dan karena agunannya termasuk saham EDGE dan EDG di DGE, gagal bayar juga berisiko mengurangi kendali EDGE atas proyek pusat data itu sendiri. Yang perlu dipantau berikutnya adalah kepatuhan DGE terhadap pembatasan dalam perjanjian kredit, seperti larangan menjual aset atau mengubah kegiatan usaha tanpa izin kreditur, karena pelanggaran itu bisa memicu gagal bayar sebelum tenor lima tahun sejak penarikan pertama berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "reli-laba-semester-i-2026-anjlok-43-58-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "RELI: Laba Semester I 2026 Anjlok [43,58%] di Public Expose",
+  "deck": "Materi public expose RELI menunjukkan laba bersih semester I 2026 turun 43,58 persen menjadi Rp2,73 miliar, meski pendapatan segmen transaksi bursa tumbuh 31,22 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T19:08:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e650045b13_d95bcb92e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RELI",
+  "tags": [
+   "RELI",
+   "Reliance Sekuritas",
+   "sekuritas",
+   "public expose"
+  ],
+  "body": [
+   "PT Reliance Sekuritas Indonesia Tbk (RELI) menyampaikan materi Public Expose Tahunan yang dipresentasikan pada 8 September 2026. Dokumen dikirim ke Bursa Efek Indonesia melalui surat bernomor 543/RSI/IX/2026 yang ditandatangani Corporate Secretary Nurwati Tunggal pada 3 September 2026, merujuk pada pengumuman rencana public expose sebelumnya. Materi berisi profil perusahaan, kegiatan usaha, kinerja keuangan, serta sasaran dan strategi Perseroan.",
+   "Dari sisi kinerja, pendapatan usaha RELI pada semester I 2026 tercatat Rp15,49 miliar, turun 5,96 persen dibanding periode sama tahun sebelumnya. Laba bersihnya turun lebih dalam, anjlok 43,58 persen menjadi Rp2,73 miliar. Meski begitu, rasio margin masih terjaga dengan EBITDA margin 26,90 persen, NIM 19,44 persen, OPM 17,63 persen, dan GPM 3,12 persen. Pendapatan dari segmen transaksi bursa justru naik 31,22 persen menjadi Rp8,74 miliar, sementara transaksi obligasi melonjak menjadi Rp152,95 miliar dari Rp55,87 miliar pada semester I 2025, dengan frekuensi transaksi naik dari 92 kali menjadi 144 kali.",
+   "Dari sisi permodalan, posisi Modal Kerja Bersih Disesuaikan (MKBD) Perseroan per akhir Desember 2025 tercatat Rp216 miliar, 49 persen di atas ketentuan dan naik year on year, kemudian bertambah menjadi Rp256 miliar per Juni 2026 atau naik 18,16 persen sejak awal tahun. Total nilai transaksi sepanjang 2025 mencapai Rp12 triliun, naik 16,84 persen, dan pada semester I 2026 tercatat Rp5,4 triliun, naik 15,27 persen. Struktur pemegang saham RELI per dokumen ini terdiri dari PT Reliance Capital Management yang menguasai 1.556.887.135 saham atau 84,99 persen, dan publik sebesar 243.112.865 saham atau 15,01 persen, dari total 1.800.000.000 saham. Anak usaha Reliance Manajer Investasi mengelola dana kelolaan Rp355,62 miliar per 30 Juni 2026, dan produk DIRE RCCR yang dikelolanya berencana dicatatkan di Bursa Efek Indonesia pada 2026."
+  ],
+  "fotoAdegan": "Financial staff reviewing paperwork at a desk inside a modern Jakarta brokerage office, blurred computer screens, soft daylight.",
+  "takeaway": "Laporan ini condong negatif bagi RELI karena laba bersih semester I 2026 anjlok 43,58 persen menjadi Rp2,73 miliar, jauh lebih dalam dibanding penurunan pendapatan yang cuma 5,96 persen, tanda ada tekanan pada biaya atau margin usaha. Yang tersentuh adalah laba bersih dan rasio margin, sebab penurunan laba yang lebih tajam dari pendapatan berarti beban operasional RELI naik relatif terhadap pendapatannya, dan ini langsung memengaruhi laba per saham yang jadi acuan investor menilai kinerja perusahaan. Ada penopang di sisi lain, pendapatan dari segmen transaksi bursa naik 31,22 persen dan modal kerja bersih disesuaikan atau MKBD, yaitu dana milik sendiri yang wajib dijaga perusahaan sekuritas sebagai bantalan risiko, naik 18,16 persen sejak awal tahun menjadi Rp256 miliar per Juni 2026, jauh di atas ketentuan minimum OJK. Yang perlu dipantau berikutnya adalah laporan kinerja penuh tahun 2026 serta perkembangan rencana pencatatan unit DIRE RCCR, produk reksa dana properti kelolaan anak usahanya, di Bursa Efek Indonesia yang ditargetkan rampung tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akra-paparkan-kinerja-semester-i-jelang-public-expose-8-sept",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Paparkan [Kinerja] Semester I Jelang Public Expose 8 Sept",
+  "deck": "AKR Corporindo merilis materi Public Expose Tahunan berisi kinerja semester I 2026, termasuk pergeseran kontribusi segmen kawasan industri dan progres proyek LNG di JIIPE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:43:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1166aa0556_2353a6d197.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKRA",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "Public Expose",
+   "JIIPE"
+  ],
+  "body": [
+   "PT AKR Corporindo Tbk menyampaikan materi Public Expose Tahunan yang akan digelar 8 September 2026 melalui IDX Public Expose Live, menyusul pengumuman rencana acara pada 24 Agustus 2026. Materi tersebut memuat profil bisnis, prospek usaha, kinerja keuangan semester I 2026, serta pencapaian ESG dan tata kelola perusahaan.",
+   "Dari sisi keuangan, kontribusi laba kotor segmen Kawasan Industri naik dari 19 persen pada semester I 2025 menjadi 26 persen pada semester I 2026, sementara segmen Perdagangan dan Distribusi turun dari 74 persen menjadi 68 persen. Pendapatan dari sektor utilitas JIIPE tumbuh 37 persen secara tahunan meski ada penundaan operasional di pabrik smelter tembaga yang beroperasi di kawasan tersebut. Pada semester ini juga tercatat transaksi penjualan tanah kepada perusahaan kimia asal Tiongkok, perusahaan manufaktur kaca asal Tiongkok, dan perusahaan pengolahan gandum dalam negeri. Perusahaan mencatat ROE di kisaran 20-22 persen dan ROA 7-8 persen, dengan rasio utang terhadap ekuitas 0,3 kali dan posisi kas bersih atau net gearing -0,24 kali.",
+   "Di lini infrastruktur energi, AKR menyebutkan total kapasitas tangki penyimpanan akan mencapai 860.400 kiloliter mulai kuartal IV 2026. Untuk proyek LNG, perusahaan pada 2026 meneken perjanjian usaha patungan dengan BW FSRU VII, anak perusahaan tidak langsung BW LNG, serta kontrak pembangunan kapal FSRU berkapasitas 170.000 meter kubik dengan HD Hyundai Heavy Industries di Ulsan, Korea Selatan. Terminal LNG ditargetkan beroperasi dengan kapasitas 4 MTPA pada semester kedua 2029. Di segmen ritel, AKR mengoperasikan 107 SPBU AKR dan 75 SPBU bp AKR, dengan sebaran terbanyak di Bodetabek sebanyak 35 unit dan Jakarta 23 unit."
+  ],
+  "fotoAdegan": "Tanker trucks lined up beside large fuel storage tanks at a busy industrial port terminal in Indonesia, overcast morning light.",
+  "takeaway": "Materi ini condong positif bagi AKR Corporindo karena kontribusi laba kotor dari segmen kawasan industri naik dari 19 persen menjadi 26 persen pada semester I 2026, sementara posisi kas perusahaan tetap bersih dengan rasio utang terhadap ekuitas hanya 0,3 kali. Pergeseran ini penting karena segmen kawasan industri biasanya punya margin lebih tebal dibanding perdagangan bahan bakar, sehingga kalau proporsinya membesar, laba perusahaan bisa lebih tahan banting saat harga bahan bakar dan kimia berfluktuasi. Return on equity di kisaran 20-22 persen menunjukkan seberapa efisien perusahaan memutar modal pemegang saham menjadi laba, dan angka itu bertahan meski ada penundaan operasional di pabrik smelter tembaga yang menjadi salah satu penyewa kawasan JIIPE. Yang perlu dipantau berikutnya adalah paparan publik langsung pada 8 September 2026, serta progres proyek terminal LNG yang menargetkan kapasitas 4 MTPA beroperasi pada semester kedua 2029.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
@@ -527,6 +684,59 @@ var ARTICLES = [
   "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district, morning light, pedestrians walking below.",
   "takeaway": "Laporan ini netral bagi EMAS karena isinya sebatas bantahan formal atas permintaan penjelasan bursa, tanpa angka atau rencana konkret yang mengubah gambaran keuangan perusahaan. Yang disinggung di sini adalah komposisi pemegang saham, sebab aktivitas MDKA atas sahamnya di EMAS, entah menambah atau mengurangi kepemilikan, bisa memengaruhi persepsi pasar terhadap komitmen pemegang saham utama, meski dokumen ini tidak merinci jenis maupun jumlah transaksinya. Pelaku pasar perlu menunggu laporan kepemilikan saham resmi dari MDKA untuk tahu persis apa yang terjadi, karena surat ini hanya mengonfirmasi laporan itu sudah disampaikan sesuai POJK 4/2024 tanpa membeberkan isinya. Yang perlu dipantau berikutnya adalah apakah dalam tiga bulan ke depan, sebagaimana disebut dalam surat ini, muncul tindakan korporasi yang berdampak pada pencatatan saham EMAS di bursa, serta apakah laporan kepemilikan saham MDKA berikutnya mengungkap detail yang lebih jelas.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "tapg-tanggapi-bei-pemegang-saham-utama-rencana-sell-down",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Tanggapi BEI, Pemegang Saham Utama Rencana [Sell Down]",
+  "deck": "TAPG menyatakan tidak ada informasi material yang belum diungkap ke publik, namun pemegang saham utama berencana melepas sebagian saham demi memenuhi ketentuan free float bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:42:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2e82f3a_283586f767.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "CPO",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk. (TAPG) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia Nomor S-11260/BEI.PP2/09-2026 tertanggal 2 September 2026 terkait volatilitas transaksi efek perseroan. Dalam surat bernomor 076/TAP/S-CORSEC-HO/IX/2026 yang ditandatangani Corporate Secretary Joni Tjeng, perseroan menyatakan tidak memiliki atau mengetahui informasi maupun fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, dan belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa.",
+   "Poin yang lebih konkret muncul pada bagian keenam surat, mengenai rencana pemegang saham utama. Setelah dikonfirmasi langsung oleh Corporate Secretary, pemegang saham utama TAPG menyatakan tidak memiliki rencana perubahan kepemilikan saham, kecuali rencana sell down atau pelepasan sebagian saham ke publik, yang bertujuan meningkatkan jumlah saham beredar bebas (free float) agar sesuai dengan ketentuan Bursa Efek Indonesia. Perseroan tidak menyebutkan jumlah saham maupun jadwal pelaksanaan sell down tersebut dalam surat ini.",
+   "Perseroan turut melampirkan penjelasan tambahan mengenai tren kenaikan harga sahamnya, yang dikaitkan dengan penguatan harga CPO futures di Malaysia dan kinerja ekspor sawit Indonesia. Harga CPO futures Malaysia tercatat di kisaran RM4.816 hingga RM4.958 per ton pada periode 26 Agustus sampai 1 September 2026, naik lebih dari 5 persen dari akhir Juli 2026, dan sempat menyentuh level tertinggi tahun ini di RM5.018 per ton pada 20 Agustus 2026. Perseroan juga mengutip data BPS periode Januari-Juni 2026 yang menunjukkan nilai ekspor produk sawit Indonesia mencapai US$19,45 miliar, tumbuh 12,57 persen dibanding periode sama tahun 2025 sebesar US$17,28 miliar, dengan volume ekspor 16,59 juta ton atau naik 5,79 persen dari 15,68 juta ton, serta harga rata-rata US$1.132 per ton CIF Rotterdam dibanding US$1.088 per ton pada semester satu 2025."
+  ],
+  "fotoAdegan": "Workers loading palm oil fresh fruit bunches onto a truck at a rural plantation collection point, overcast morning light",
+  "takeaway": "Isi surat ini cenderung netral bagi fundamental TAPG, karena inti jawabannya adalah penegasan bahwa tidak ada informasi material yang disembunyikan, sementara kenaikan harga sahamnya dijelaskan lewat faktor eksternal berupa reli harga CPO dan pertumbuhan ekspor sawit nasional, bukan perubahan kinerja internal perseroan. Yang perlu dicermati adalah pengakuan bahwa pemegang saham utama berencana melakukan sell down, yakni melepas sebagian sahamnya ke publik, demi memenuhi syarat jumlah saham beredar bebas atau free float yang ditetapkan bursa; langkah ini menambah pasokan saham yang diperdagangkan di pasar tapi tidak mengubah total saham beredar perseroan maupun laba per saham. Rencana ini muncul tak lama setelah dua kali penjualan saham oleh jajaran direksi TAPG dalam waktu kurang dari dua pekan, sehingga pola pelepasan saham dari kalangan insider dan pemegang saham utama patut terus diikuti. Investor perlu menunggu pengumuman lanjutan soal jumlah saham dan jadwal pelaksanaan sell down tersebut, karena besarannya yang akan menentukan apakah ini sekadar langkah kepatuhan administratif atau pelepasan dalam skala yang lebih berarti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "towr-bukukan-laba-rp1-86-triliun-naik-12-4-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Bukukan Laba Rp1,86 Triliun, Naik [12,4%] di Semester I 2026",
+  "deck": "Materi Public Expose TOWR paruh pertama 2026: laba bersih naik 12,4 persen meski margin EBITDA menipis akibat penyesuaian harga sewa menara pasca merger XL Axiata dan Smartfren.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:40:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ce43226e3_6443bde092.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "Public Expose",
+   "Menara Telekomunikasi"
+  ],
+  "body": [
+   "Sarana Menara Nusantara Tbk (TOWR) menyampaikan surat kepada Bursa Efek Indonesia perihal materi Public Expose Tahunan 2026, ditandatangani Corporate Secretary Monalisa Irawan pada 3 September 2026. Merujuk surat sebelumnya tertanggal 24 Agustus 2026, paparan publik ini dijadwalkan berlangsung Selasa, 8 September 2026, pukul 09.00 sampai 10.00 WIB, sebagai bagian dari program Public Expose Live 2026 yang diselenggarakan BEI dengan pendaftaran peserta melalui situs idx.co.id.",
+   "Materi presentasi menunjukkan pendapatan TOWR pada semester I 2026 naik 12,7 persen secara tahunan menjadi Rp7,206 triliun dari Rp6,394 triliun pada periode sama tahun lalu. Laba bersih yang menjadi hak pemegang saham induk tumbuh 12,4 persen menjadi Rp1,857 triliun dari Rp1,652 triliun. Sementara itu EBITDA, yaitu laba usaha sebelum dipotong bunga, pajak, dan penyusutan, hanya naik 4,8 persen menjadi Rp5,579 triliun dari Rp5,324 triliun, sehingga marginnya terhadap pendapatan turun dari sekitar 83 persen menjadi 77 persen. Berdasarkan segmen, pendapatan dari bisnis menara justru turun 3,3 persen akibat penyesuaian ulang harga sewa dengan PT XLSmart Telecom Sejahtera Tbk menyusul penggabungan usaha PT XL Axiata Tbk dan PT Smartfren Telecom Tbk, meski total pendapatan terkontrak tetap naik karena reset masa kontrak dan tidak ada menara yang berhenti sewa akibat merger tersebut. Pendapatan segmen connectivity tumbuh paling tinggi sebesar 33,8 persen, sedangkan pendapatan dari bisnis adjacent melonjak lebih dari 100 persen setelah konsolidasi PT Bach Multi Global menyusul perubahan status pengendali perusahaan itu pada awal 2026.",
+   "Per semester I 2026, TOWR mengoperasikan 36.892 menara telekomunikasi, naik 3,0 persen dari 35.825 menara pada periode sama tahun lalu, dengan 61.038 penyewaan aktif atau rasio tenant 1,65 kali. Jaringan serat optik perseroan mencapai sekitar 182.600 kilometer, dengan layanan Fiber-to-the-Home menjangkau 1.857.328 rumah yang bisa dilayani dan 376.461 di antaranya sudah berlangganan, setara tingkat penetrasi 20 persen, naik dari 12 persen pada semester I 2025.",
+   "Total pendapatan terkontrak jangka panjang perseroan mencapai Rp100,1 triliun hingga semester I 2026, hampir dua kali lipat dari Rp52,2 triliun pada 2020, dengan 74 persen berasal dari segmen menara dan sisanya Rp26,0 triliun dari bisnis non menara. Rasio utang bersih terhadap EBITDA tercatat 3,94 kali dengan utang bersih Rp44,1 triliun, didukung peringkat layak investasi BBB- dari S&P serta BBB dan AAA dari Fitch untuk skala global dan nasional. Arus kas operasi perseroan mencatat surplus Rp4,9 triliun, yang dialokasikan untuk belanja modal dan investasi sekitar Rp2,69 triliun, pembayaran bunga dan cicilan pokok utang sekitar Rp1,55 triliun, serta pembagian dividen Rp403 miliar kepada pemegang saham."
+  ],
+  "fotoAdegan": "Telecommunication towers standing among green rice fields at golden hour, a technician climbing a safety ladder in the distance",
+  "takeaway": "Materi ini secara keseluruhan condong positif bagi TOWR karena pendapatan dan laba bersih semester I 2026 tumbuh dua digit, meski ada satu sinyal yang perlu diwaspadai: EBITDA, ukuran laba dari kegiatan usaha inti sebelum dipotong bunga, pajak, dan penyusutan, hanya tumbuh 4,8 persen sehingga marginnya terhadap pendapatan turun dari sekitar 83 persen menjadi 77 persen. Turunnya margin ini sejalan dengan turunnya pendapatan segmen menara akibat penyesuaian harga sewa pasca merger XL Axiata dan Smartfren, serta masuknya bisnis adjacent yang biasanya bermargin lebih tipis ke dalam konsolidasi. Yang menopang keyakinan investor adalah arus kas operasi, yaitu uang tunai riil yang dihasilkan dari bisnis sehari hari, yang surplus Rp4,9 triliun sehingga cukup membiayai belanja modal, cicilan utang, sekaligus tetap membagikan dividen Rp403 miliar, ditopang rasio utang bersih terhadap EBITDA 3,94 kali yang masih tergolong aman untuk bisnis infrastruktur menara. Yang perlu dipantau selanjutnya adalah paparan publik pada Selasa, 8 September 2026, serta apakah tren penurunan pendapatan segmen menara akibat repricing kontrak dengan XLSmart masih berlanjut pada laporan keuangan semester berikutnya.",
+  "sentimen": "positif"
  },
  {
   "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",

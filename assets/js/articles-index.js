@@ -41,6 +41,38 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "diva-rugi-rp31-97-miliar-pendapatan-turun-19-9",
+  "category": "Aksi Korporasi",
+  "title": "DIVA [Rugi] Rp31,97 Miliar, Pendapatan Turun 19,9%",
+  "deck": "Menjawab permintaan penjelasan BEI, DIVA mengungkap rugi bersih Rp31,97 miliar per Juni 2026, pendapatan turun 19,9%, dan utang bank jangka pendek melonjak ke Rp40,59 miliar.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIVA",
+   "rugi bersih",
+   "keterbukaan informasi BEI",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03355453c3_53a697aa70.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-ubah-utang-rp822-9-miliar-jadi-saham-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "MKNT ubah utang Rp822,9 miliar jadi saham [PMTHMETD]",
+  "deck": "MKNT menjawab pertanyaan Bursa soal rencana PMTHMETD, termasuk konversi utang Rp822,9 miliar ke saham baru dan RUPSLB 14 September 2026.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "restrukturisasi utang",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64d76259fb_d466108f22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
   "category": "Aksi Korporasi",
   "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
@@ -203,6 +235,70 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mglv-divestasi-13-anak-usaha-ambil-pinjaman-rp4-triliun-dari-ndc",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Divestasi 13 Anak Usaha, Ambil Pinjaman [Rp4 Triliun] dari NDC",
+  "deck": "Rencana transaksi mencapai 563,59 persen dari ekuitas Perseroan, mencakup divestasi 13 anak usaha dan pinjaman pemegang saham hingga Rp4 triliun dari NDC jelang RUPS 7 September.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "transaksi material",
+   "data center",
+   "NDC"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c20a300955_77184e1ed6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-jamin-fasilitas-kredit-us-530-2-juta-untuk-data-center-dge",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Jamin Fasilitas Kredit [US$530,2 Juta] untuk Data Center DGE",
+  "deck": "Anak usaha EDGE, PT Digital Gayana Ekaprana, mendapat kredit US$530,2 juta dari 11 bank untuk proyek data center, dijamin saham EDGE dan Ekagrata Data Gemilang di DGE.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "transaksi material",
+   "data center",
+   "fasilitas kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee28316f16_da808554c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "reli-laba-semester-i-2026-anjlok-43-58-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "RELI: Laba Semester I 2026 Anjlok [43,58%] di Public Expose",
+  "deck": "Materi public expose RELI menunjukkan laba bersih semester I 2026 turun 43,58 persen menjadi Rp2,73 miliar, meski pendapatan segmen transaksi bursa tumbuh 31,22 persen.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RELI",
+   "Reliance Sekuritas",
+   "sekuritas",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e650045b13_d95bcb92e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akra-paparkan-kinerja-semester-i-jelang-public-expose-8-sept",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Paparkan [Kinerja] Semester I Jelang Public Expose 8 Sept",
+  "deck": "AKR Corporindo merilis materi Public Expose Tahunan berisi kinerja semester I 2026, termasuk pergeseran kontribusi segmen kawasan industri dan progres proyek LNG di JIIPE.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "Public Expose",
+   "JIIPE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1166aa0556_2353a6d197.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
@@ -328,6 +424,38 @@ var ARTICLES = [
    "volatilitas saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/256d4957cb_32c1844e31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-tanggapi-bei-pemegang-saham-utama-rencana-sell-down",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Tanggapi BEI, Pemegang Saham Utama Rencana [Sell Down]",
+  "deck": "TAPG menyatakan tidak ada informasi material yang belum diungkap ke publik, namun pemegang saham utama berencana melepas sebagian saham demi memenuhi ketentuan free float bursa.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "CPO",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2e82f3a_283586f767.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "towr-bukukan-laba-rp1-86-triliun-naik-12-4-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Bukukan Laba Rp1,86 Triliun, Naik [12,4%] di Semester I 2026",
+  "deck": "Materi Public Expose TOWR paruh pertama 2026: laba bersih naik 12,4 persen meski margin EBITDA menipis akibat penyesuaian harga sewa menara pasca merger XL Axiata dan Smartfren.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "Public Expose",
+   "Menara Telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ce43226e3_6443bde092.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6426,133 +6554,6 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2468fdfb8e_a0106f0da3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "danantara-rilis-direksi-dsi-bos-freeport-jadi-komisaris",
-  "category": "BUMN",
-  "title": "Danantara Rilis Direksi [DSI], Bos Freeport Jadi Komisaris",
-  "deck": "Danantara resmi mengumumkan direksi dan komisaris PT Danantara Sumber Daya Indonesia (DSI), entitas baru pengawas tata kelola ekspor batu bara, sawit, dan ferro alloy hingga akhir 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/pesawat-bandara.jpg",
-  "tags": [
-   "Danantara",
-   "PT DSI",
-   "ekspor SDA",
-   "Freeport Indonesia"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462232-danantara-umumkan-daftar-direksi-dan-komisaris-dsi-ada-bos-freeport-indonesia"
- },
- {
-  "slug": "emas-komisaris-xinyu-wang-jual-500-000-saham-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "EMAS: Komisaris Xinyu Wang Jual 500.000 Saham [Divestasi]",
-  "deck": "Komisaris EMAS Xinyu Wang melepas 500.000 saham senilai sekitar Rp3,94 miliar pada 20 Agustus 2026, setara 34 persen dari kepemilikannya sebelumnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "kepemilikan saham",
-   "komisaris",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-9163-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-anak-usaha-teken-perjanjian-peralatan-dengan-vision-green",
-  "category": "Aksi Korporasi",
-  "title": "EMAS: Anak Usaha Teken Perjanjian [Peralatan] dengan Vision Green",
-  "deck": "Anak usaha EMAS, PT Pani Industri Nusantara, menandatangani perjanjian jual beli peralatan dan jasa konsultasi dengan perusahaan Tiongkok Vision Green Energy, efektif 21 Agustus 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "Transaksi Material",
-   "Pani Gold Project",
-   "Vision Green Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/42bab47906_f3a55220f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kras-jadwal-rupslb-diundur-ke-7-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "KRAS [Jadwal] RUPSLB Diundur ke 7 September 2026",
-  "deck": "Krakatau Steel menunda RUPSLB dari 26 Agustus ke 7 September 2026, dengan agenda perubahan aturan dana pensiun, anggaran dasar, dan susunan pengurus.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRAS",
-   "RUPSLB",
-   "Krakatau Steel",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba2d32c91_71d936f3fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-jadwalkan-rupslb-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Jadwalkan RUPSLB [30 September 2026]",
-  "deck": "PT Adhi Karya menjadwalkan RUPSLB pada 30 September 2026 pukul 14.00 WIB di Jakarta; mata acara resmi baru diumumkan 8 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "RUPSLB",
-   "Adhi Karya",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/68acf1f28b_a19eb9bf98.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psgo-tanggapi-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PSGO Tanggapi Bursa soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Palma Serasih menyatakan tak mengetahui informasi material apa pun yang menjelaskan pergerakan tak biasa sahamnya, menyusul permintaan penjelasan dari Bursa Efek Indonesia.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "Palma Serasih",
-   "Bursa Efek Indonesia",
-   "Volatilitas Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/490b923537_44a83c3280.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-koreksi-rupslb-ekspansi-ke-bisnis-baja-dan-tambak-udang",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Koreksi RUPSLB, [Ekspansi] ke Bisnis Baja dan Tambak Udang",
-  "deck": "Selain merevisi tanggal pencatatan pemegang saham, koreksi panggilan RUPSLB MKNT menambahkan agenda baru: perluasan usaha jadi holding yang menaungi perusahaan baja dan tambak udang.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "RUPSLB",
-   "PMTHMETD",
-   "holding"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7cdadd91b9_18caeb2c91.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupo-adhi-setujui-penundaan-bunga-obligasi-ke-juli-2027",
-  "category": "Aksi Korporasi",
-  "title": "RUPO ADHI Setujui [Penundaan] Bunga Obligasi ke Juli 2027",
-  "deck": "Pemegang obligasi ADHI menyetujui penundaan dua kali pembayaran bunga Obligasi Berkelanjutan IV Tahap I 2024 ke tanggal jatuh tempo, menyusul gagal bayar kupon seri lain.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "obligasi",
-   "restrukturisasi utang",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7260a9b26_696f039ea2.pdf",
   "sourceLabel": "IDX"
  }
 ];

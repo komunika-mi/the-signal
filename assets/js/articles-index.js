@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
+  "category": "Industri",
+  "title": "Pengunjung GIIAS Surabaya 2026 [Rekor], Naik 40 Persen",
+  "deck": "GIIAS Surabaya 2026 ditutup dengan 45.763 pengunjung, naik lebih dari 40 persen dari tahun lalu, didukung 37 merek kendaraan dan area pameran seluas 15.000 meter persegi.",
+  "date": "4 September 2026",
+  "image": "assets/img/pengunjung-giias-surabaya-2026-rekor-naik-40-persen.jpg",
+  "imageV": "mtlyek5v",
+  "tags": [
+   "GIIAS",
+   "GAIKINDO",
+   "Otomotif",
+   "Jawa Timur"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-surabaya-2026-cetak-rekor-jumlah-pengunjung-tertinggi/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut",
+  "category": "Industri",
+  "title": "GIIAS Bandung Digelar 9-13 September, [19] Merek Otomotif Ikut",
+  "deck": "GIIAS the Series 2026 singgah di Bandung pada 9-13 September dengan 19 merek kendaraan, menyasar pasar Jawa Barat yang menyumbang 15,1 persen penjualan mobil nasional hingga April 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut.jpg",
+  "imageV": "mtlyelg3",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "Jawa Barat",
+   "GAIKINDO"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/bandung-menjadi-tuan-rumah-giias-2026-dari-9-hingga-13-september-2026/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
   "category": "Bisnis",
   "title": "Ekspor Pala Naik ke US$133 Juta, tapi 25 Kali [Ditolak]",
@@ -6521,39 +6557,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c528e5f292_23487cdd41.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pendapatan-finpay-danantara-melesat-41-3-persen",
-  "category": "BUMN",
-  "title": "Pendapatan Finpay Danantara [Melesat] 41,3 Persen",
-  "deck": "PT Finnet Indonesia (Finpay) mencatat pendapatan eksternal Rp914,5 miliar pada semester I 2026, naik 41,3 persen dibanding tahun sebelumnya di tengah sinergi dengan Danantara Indonesia.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/pendapatan-finpay-danantara-melesat-41-3-persen.jpg",
-  "imageV": "mt7vg0zr",
-  "tags": [
-   "Finpay",
-   "Danantara Indonesia",
-   "BUMN",
-   "Fintech"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462247-pertumbuhan-melesat-finpay-komitmen-akselerasi-bersama-danantara-indonesia"
- },
- {
-  "slug": "beef-klarifikasi-lonjakan-saham-bantah-rumor-akuisisi-korea",
-  "category": "Aksi Korporasi",
-  "title": "BEEF Klarifikasi Lonjakan Saham, Bantah Rumor [Akuisisi] Korea",
-  "deck": "Public expose insidentil BEEF usai suspensi cooling down BEI: manajemen bantah ada informasi material tersembunyi, juga bantah rumor akuisisi oleh perusahaan Korea.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEEF",
-   "suspensi saham",
-   "rumor akuisisi",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2468fdfb8e_a0106f0da3.pdf",
   "sourceLabel": "IDX"
  }
 ];

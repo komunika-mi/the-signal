@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
+  "category": "Industri",
+  "title": "Pengunjung GIIAS Surabaya 2026 [Rekor], Naik 40 Persen",
+  "deck": "GIIAS Surabaya 2026 ditutup dengan 45.763 pengunjung, naik lebih dari 40 persen dari tahun lalu, didukung 37 merek kendaraan dan area pameran seluas 15.000 meter persegi.",
+  "image": "assets/img/pengunjung-giias-surabaya-2026-rekor-naik-40-persen.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-03T19:55:06.197Z",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-surabaya-2026-cetak-rekor-jumlah-pengunjung-tertinggi/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS",
+   "GAIKINDO",
+   "Otomotif",
+   "Jawa Timur"
+  ],
+  "body": [
+   "Pameran otomotif GIIAS Surabaya 2026 resmi ditutup pada Minggu, 30 Agustus 2026, dengan jumlah pengunjung tertinggi sepanjang sebelas tahun penyelenggaraannya di kota itu. Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO) mencatat 45.763 orang mendatangi pameran yang berlangsung lima hari di Grand City Convention Exhibition (Convex), Surabaya, naik lebih dari 40 persen dibanding tahun sebelumnya. Lonjakan ini menjadi penanda bahwa minat masyarakat Jawa Timur terhadap kendaraan bermotor masih tinggi, di tengah semakin banyaknya pameran serupa yang digelar di berbagai kota.",
+   "Tahun ini panitia memperluas area pameran menjadi 15.000 meter persegi, diisi oleh 37 merek kendaraan bermotor dan 25 merek dari industri pendukung otomotif. Untuk kendaraan penumpang, terdapat 26 merek yang berpartisipasi, yakni BAIC, BYD Group, Changan, Chery, Citroen, Daihatsu, GAC AION, Geely, GWM, Honda, Hyundai, iCAR, Jaecoo, JEEP, JETOUR, KIA, Leap Motor, Lepas, Mazda, Mitsubishi Motors, Polytron, Suzuki, Toyota, Vinfast, Wuling, dan X-PENG, ditambah satu merek kendaraan komersial yaitu Foton. Kategori sepeda motor diisi 10 merek: Aprilia, Kuprum, Moto Guzzi, Piaggio, Polytron, QJ Motor, Royal Enfield, Scomadi, Triumph, dan Vespa. Sebanyak 14 di antara seluruh peserta merupakan merek baru atau merek yang kembali berpartisipasi setelah sebelumnya absen.",
+   "Pameran ini dibuka oleh Wakil Menteri Perindustrian Faisol Riza, didampingi Pelaksana Tugas Kepala Dinas Perindustrian dan Perdagangan Provinsi Jawa Timur Iwan yang mewakili Gubernur Jawa Timur, serta jajaran pengurus GAIKINDO. Sponsor pameran antara lain Astra Credit Companies dan Toyota Astra Finance sebagai mitra pembiayaan, serta PLN Mobile untuk ekosistem kendaraan listrik.",
+   "Setelah Surabaya, rangkaian GIIAS The Series 2026 berlanjut ke Bandung pada 9-13 September di Sudirman Grand Ballroom, kemudian Semarang pada 30 September hingga 4 Oktober di Muladi Dome, dan ditutup di Makassar pada 28 Oktober hingga 1 November di Summarecon Mutiara Makassar. GAIKINDO juga akan menambah satu kota baru untuk pertama kalinya, yakni GIIAS Bali yang dijadwalkan pada 27-31 Januari 2027 di The Meru Sanur, memperluas jangkauan pameran ke Indonesia bagian timur."
+  ],
+  "fotoAdegan": "Crowded exhibition hall floor with rows of new cars and motorcycles on display stands, visitors walking between vehicles under bright hall lighting",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/giias-surabaya-2026-dipadati-pengunjung-akhir-pekan.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah bukan cuma jumlah pengunjung Surabaya yang naik 40 persen menjadi rekor 45.763 orang, tapi juga skala rangkaian pameran GAIKINDO yang terus melebar: setelah Bandung, Semarang, dan Makassar tahun ini, GAIKINDO menambah kota kelima, Bali, mulai Januari 2027. Yang terdampak langsung adalah diler dan agen pemegang merek di kota-kota tujuan pameran, termasuk pelaku industri pendukung otomotif yang ikut memamerkan produk, karena pameran semacam ini biasanya menjadi ajang transaksi dan pemesanan kendaraan baru di luar Jabodetabek. Pola perluasan ke lebih banyak kota, ditambah lonjakan pengunjung di Surabaya, mengarah pada strategi GAIKINDO menggeser sebagian perhatian penjualan otomotif dari pameran besar di Jakarta ke pasar daerah yang selama ini kurang tergarap. Namun angka ini baru soal jumlah pengunjung, bukan jumlah transaksi atau pemesanan kendaraan yang benar-benar terjadi selama pameran, jadi belum bisa dipastikan apakah minat sebesar itu berlanjut ke penjualan riil. Yang akan menguatkan atau mematahkan pembacaan ini adalah data penjualan wholesale GAIKINDO untuk wilayah Jawa Timur pada bulan-bulan mendatang, serta apakah GIIAS Bandung pada 9-13 September ini mencatat lonjakan pengunjung serupa.",
+  "imageV": "mtlyek5v"
+ },
+ {
+  "slug": "giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut",
+  "category": "Industri",
+  "title": "GIIAS Bandung Digelar 9-13 September, [19] Merek Otomotif Ikut",
+  "deck": "GIIAS the Series 2026 singgah di Bandung pada 9-13 September dengan 19 merek kendaraan, menyasar pasar Jawa Barat yang menyumbang 15,1 persen penjualan mobil nasional hingga April 2026.",
+  "image": "assets/img/giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-03T19:55:05.743Z",
+  "sourceUrl": "https://www.gaikindo.or.id/bandung-menjadi-tuan-rumah-giias-2026-dari-9-hingga-13-september-2026/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "Jawa Barat",
+   "GAIKINDO"
+  ],
+  "body": [
+   "Pameran otomotif GIIAS the Series 2026 akan digelar di Bandung pada 9 hingga 13 September 2026 bertempat di Sudirman Grand Ballroom, menjadikan kota ini kota ketiga dalam rangkaian pameran setelah sebelumnya singgah di Tangerang dan Surabaya. Ajang ini menjadi cara GAIKINDO memperkenalkan model dan teknologi kendaraan terbaru langsung ke pasar daerah, bukan hanya berpusat di Jakarta.",
+   "Sekretaris Umum GAIKINDO Kukuh Kumara menyebut pemilihan Bandung tidak lepas dari besarnya pasar otomotif Jawa Barat. Provinsi ini konsisten berada di peringkat kedua penjualan kendaraan nasional dengan 42.080 unit, setara 15,1 persen dari total penjualan nasional hingga April 2026. Kukuh juga mengutip data Kementerian Investasi yang mencatat realisasi investasi di Jawa Barat sepanjang 2025 mencapai Rp296,8 triliun, tertinggi secara nasional, dengan kawasan industri di Bekasi, Karawang, Subang, dan Purwakarta sebagai penggerak utamanya.",
+   "GIIAS Bandung 2026 menghadirkan total 19 merek kendaraan. Untuk kategori kendaraan penumpang, 16 merek yang berpartisipasi adalah Mazda, Honda, Wuling, Jetour, KIA, Vinfast, GAC AION, Changan, BYD, Daihatsu, Omoda Jaecoo, iCar, Chery, Suzuki, Toyota, dan BAIC. Untuk kategori roda dua, tiga merek yang hadir adalah Triumph, Royal Enfield, dan Scomadi. Dari jumlah tersebut, lima merek berstatus baru atau kembali hadir, yaitu Jetour, KIA, Changan, iCar, dan Triumph.",
+   "Bagi pengunjung, tiket presale kedua dijual pada 2 hingga 4 September 2026 melalui aplikasi Auto360 dengan promo beli satu dapat dua seharga Rp15 ribu, berlaku untuk hari kerja maupun akhir pekan. Tiket juga bisa dibeli langsung di lokasi pameran seharga Rp20 ribu untuk hari kerja dan Rp30 ribu untuk akhir pekan. Astra Credit Companies dan Toyota Astra Finance kembali menjadi mitra pembiayaan platinum, didampingi PLN Mobile sebagai penggerak ekosistem kendaraan listrik serta sponsor lain, Superchallenge dan Berkah Event."
+  ],
+  "fotoAdegan": "Rows of new passenger cars and motorcycles displayed under bright lighting inside a large exhibition hall, visitors walking between the vehicles",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/BDG.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Dari 16 merek mobil penumpang yang tampil di GIIAS Bandung 2026, delapan di antaranya adalah merek asal China seperti BYD, Chery, Changan, GAC AION, dan Omoda Jaecoo, hampir menyamai lima merek Jepang yang selama ini mendominasi pasar Indonesia yaitu Toyota, Honda, Daihatsu, Suzuki, dan Mazda. Ini pergeseran yang konkret, karena tiga dari lima merek baru atau yang kembali hadir tahun ini, yaitu Jetour, Changan, dan iCar, juga berasal dari China. Yang terdampak adalah konsumen Jawa Barat yang mendapat lebih banyak pilihan harga dan model, sekaligus pabrikan Jepang yang kini harus bersaing lebih ketat di provinsi yang menurut GAIKINDO menyumbang 15,1 persen penjualan mobil nasional. Arahnya mengarah ke persaingan multi-merek yang makin ramai, terutama di kendaraan listrik, dan yang akan memastikan apakah tren ini bertahan adalah data penjualan riil per merek pada semester kedua 2026, bukan sekadar banyaknya merek yang dipajang di pameran.",
+  "imageV": "mtlyelg3"
+ },
+ {
   "slug": "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
   "category": "Bisnis",
   "title": "Ekspor Pala Naik ke US$133 Juta, tapi 25 Kali [Ditolak]",

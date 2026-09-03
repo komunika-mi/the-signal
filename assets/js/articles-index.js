@@ -157,6 +157,19 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "srsn-jawab-bursa-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRSN Jawab Bursa: Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Indo Acidatama menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang melatarbelakanginya.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRSN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/880149e214_987c51cdf3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tlkm-catat-laba-bersih-rp10-6-triliun-di-semester-i-2026-naik-1-4",
   "category": "Aksi Korporasi",
   "title": "TLKM Catat Laba Bersih Rp10,6 Triliun di Semester I 2026, [Naik] 1,4%",
@@ -433,6 +446,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "alka-agar-tama-masuk-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA, AGAR, TAMA Masuk [Pemantauan Khusus] BEI",
+  "deck": "BEI memasukkan tiga saham, ALKA, AGAR, dan TAMA, ke papan pemantauan khusus mulai 3 September 2026 akibat suspensi perdagangan panjang dan ekuitas negatif.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALKA",
+   "AGAR",
+   "TAMA",
+   "pemantauan khusus BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec618acb50_49acaa3a53.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt",
   "category": "Bisnis",
   "title": "Freeport Salurkan Bantuan [Rp2,5 M] untuk Gempa NTT",
@@ -450,6 +479,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464417-freeport-salurkan-bantuan-kemanusiaan-rp25-miliar-untuk-masyarakat-terdampak-gempa-ntt"
  },
  {
+  "slug": "bipp-tanggapi-bursa-investor-pmthmetd-masih-dirahasiakan",
+  "category": "Aksi Korporasi",
+  "title": "BIPP tanggapi bursa: investor PMTHMETD masih [dirahasiakan]",
+  "deck": "BIPP menjawab permintaan penjelasan BEI soal penambahan modal tanpa HMETD, namun investor dan rasio free float pasca aksi ini belum dipastikan.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "free float",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0b9b0b162_18b020a5b2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern",
   "category": "Industri",
   "title": "RI Butuh Rp125,5 T Bangun 4.582 [Kapal] Ikan Modern",
@@ -465,6 +510,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464398-butuh-rp1255-triliun-pemerintah-mau-bangun-4582-kapal-ikan-modern-yang-bisa-serap-89000-tenaga-kerja"
+ },
+ {
+  "slug": "bbri-bukukan-laba-bersih-rp31-2-triliun-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Bukukan Laba Bersih [Rp31,2 Triliun] Semester I 2026",
+  "deck": "Laba bersih BRI naik 17,5 persen menjadi Rp31,2 triliun pada semester I 2026, ditopang pertumbuhan kredit 16,2 persen dan perbaikan kualitas aset.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRI",
+   "laba bersih",
+   "kinerja keuangan",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4dc8a5fa4_4ca2e7d091.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-panggil-rupslb-ajukan-right-issue-12-39-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Panggil RUPSLB, Ajukan [Right Issue] 12,39 Miliar Saham Baru",
+  "deck": "IRSX memanggil RUPSLB pada 24 September 2026 untuk menyetujui perubahan direksi/komisaris serta menegaskan rencana rights issue hingga 12,39 miliar saham baru dan 1,86 miliar Waran Seri II.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD I"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e29bfe5a9_63559e1629.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-catat-laba-rp655-miliar-pembiayaan-tumbuh-9-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Catat Laba Rp655 Miliar, [Pembiayaan] Tumbuh 9% Semester I",
+  "deck": "BTPS memaparkan kinerja semester I 2026: laba bersih naik tipis 2% menjadi Rp655 miliar, sementara rasio biaya terhadap pendapatan naik ke 52%.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "perbankan syariah",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b402d86f1_48aed63580.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mora-jelaskan-lonjakan-saham-8-6-kali-usai-kredit-bca",
+  "category": "Aksi Korporasi",
+  "title": "MORA Jelaskan Lonjakan Saham 8,6 Kali usai [Kredit BCA]",
+  "deck": "MORA menjelaskan ke BEI bahwa lonjakan transaksi sahamnya pada 28 Agustus 2026 murni mekanisme pasar, bersamaan dengan penandatanganan perjanjian kredit baru dengan BCA.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MORA",
+   "volatilitas saham",
+   "BEI",
+   "kredit BCA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd704abe1b_3e8b1311ac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssia-catat-lonjakan-ebitda-semester-i-2026-ke-rp693-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Catat Lonjakan [EBITDA] Semester I 2026 ke Rp693 Miliar",
+  "deck": "Materi public expose SSIA menunjukkan EBITDA semester I 2026 melompat ke Rp693 miliar berkat penjualan lahan Subang Smartpolitan, disertai dividen dan persetujuan MESOP.",
+  "date": "2 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSIA",
+   "Surya Semesta Internusa",
+   "EBITDA",
+   "Subang Smartpolitan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4316048000_5aa954f5d1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran",
@@ -6399,133 +6524,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-1158-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vrna-jawab-permintaan-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "VRNA Jawab Permintaan BEI Soal [Volatilitas] Transaksi Saham",
-  "deck": "Mizuho Leasing Indonesia menyatakan tidak memiliki informasi material yang menjelaskan pergerakan transaksi sahamnya setelah ditegur bursa.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VRNA",
-   "Mizuho Leasing Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f9315cec94_27fc5ff050.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "klbf-komisaris-tambah-kepemilikan-saham-50-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "KLBF: Komisaris Tambah [Kepemilikan] Saham 50.000 Lembar",
-  "deck": "Ferdinand Aryanto, Komisaris Kalbe Farma, membeli 50.000 saham KLBF secara tidak langsung pada 21 Agustus 2026, menambah kepemilikannya menjadi 410.000 lembar.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KLBF",
-   "Kalbe Farma",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4295-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asdf-fitch-afirmasi-peringkat-aaa-untuk-tujuh-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "ASDF: Fitch Afirmasi Peringkat [AAA] untuk Tujuh Obligasi",
-  "deck": "Fitch Ratings Indonesia mempertahankan peringkat AAA(idn) stabil untuk PT Astra Sedaya Finance dan tujuh seri obligasinya senilai total sekitar Rp4,78 triliun.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASDF",
-   "peringkat kredit",
-   "obligasi",
-   "Fitch Ratings"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/67e3d4bb17_5e9a6a8ee7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-suspensi-saham-adhi-usai-gagal-bayar-kupon-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "BEI [Suspensi] Saham ADHI usai Gagal Bayar Kupon Obligasi",
-  "deck": "BEI menghentikan sementara perdagangan saham ADHI di seluruh pasar mulai Senin, setelah perseroan menunda pembayaran bunga ke-17 obligasi seri B dan C yang jatuh tempo 24 Agustus 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "suspensi saham",
-   "gagal bayar obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d25fe7ed76_3279be7350.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar",
-  "category": "Moneter",
-  "title": "[Rupiah] Melemah ke Rp17.697 usai CAD Kuartal II Melebar",
-  "deck": "Rupiah melemah tipis ke Rp17.697 per dolar AS, tertekan sentimen defisit transaksi berjalan kuartal II-2026 yang melebar signifikan meski kredit perbankan Juli masih tumbuh solid.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-697-usai-cad-kuartal-ii-melebar.jpg",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "neraca transaksi berjalan",
-   "kredit perbankan"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462084-rupiah-melemah-ke-rp17697-per-dolar-as-usai-laporan-soal-defisit-neraca-transaksi-dan-kredit-perbankan-juli-2026"
- },
- {
-  "slug": "harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 24 Agustus: Beras [Rp14.800], Telur Rp29.250 per Kg",
-  "deck": "PIHPS Bank Indonesia mencatat harga sejumlah bahan pangan pokok di tingkat pedagang eceran nasional pada 24 Agustus 2026, dari beras, gula, minyak goreng, hingga cabai dan bawang.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/harga-pangan-24-agustus-beras-rp14-800-telur-rp29-250-per-kg.jpg",
-  "imageV": "mt6phar8",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "beras"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462077-harga-pangan-hari-ini-24-agustus-2026-beras-mulai-rp14800-per-kilogram-hingga-telur-ayam-rp29250-per-kilogram"
- },
- {
-  "slug": "harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] Rp10.000, Kini Rp2.750.000/Gram",
-  "deck": "Harga emas Antam hari ini naik Rp10.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut naik ke Rp2.610.000 per gram.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-naik-rp10-000-kini-rp2-750-000-gram.jpg",
-  "tags": [
-   "emas",
-   "harga emas",
-   "Antam",
-   "investasi"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462075-harga-emas-antam-hari-ini-24-agustus-2026-naik-rp10000-jadi-rp2750000-per-gram"
- },
- {
-  "slug": "kkgi-panggil-rupslb-bahas-dividen-tunai-dan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "KKGI Panggil RUPSLB, Bahas [Dividen] Tunai dan Direksi",
-  "deck": "Resource Alam Indonesia mengundang pemegang saham ke RUPSLB 15 September 2026 untuk membahas dividen tunai dari laba ditahan 2025 dan perubahan susunan direksi.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "RUPSLB",
-   "dividen",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/067a1cd1e7_8d223a9f0f.pdf",
   "sourceLabel": "IDX"
  }
 ];

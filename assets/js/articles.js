@@ -245,6 +245,29 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "srsn-jawab-bursa-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRSN Jawab Bursa: Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Indo Acidatama menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang melatarbelakanginya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T21:14:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/880149e214_987c51cdf3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRSN",
+  "tags": [
+   "SRSN"
+  ],
+  "body": [
+   "PT Indo Acidatama Tbk (SRSN) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-11200/BEI.PP3/09-2026 tertanggal 1 September 2026 perihal volatilitas transaksi efek perseroan. Tanggapan bernomor SEC/LTR/26/IX/1351 itu disampaikan pada 2 September 2026 dan ditandatangani oleh Corporate Secretary Indo Acidatama, Bram Andika Cahya Gumilang.",
+   "Dalam suratnya, manajemen menjawab lima pertanyaan standar yang biasa diajukan bursa saat harga atau volume saham bergerak tidak wajar. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Selain itu, manajemen menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa setidaknya untuk tiga bulan ke depan. Perseroan juga menyatakan belum ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usahanya, yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi fundamental Indo Acidatama, sebab isinya murni jawaban standar berisi lima bantahan tanpa satu pun angka atau fakta baru yang mengubah kondisi keuangan perseroan. Surat semacam ini tidak menyentuh pos kinerja apa pun, tidak ada perubahan ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang diungkap, karena memang isinya hanya konfirmasi kepatuhan atas permintaan bursa. Yang justru perlu dicermati adalah pemicunya: permintaan penjelasan ini muncul karena BEI mendeteksi pergerakan transaksi saham SRSN yang di luar kebiasaan, sehingga meski perseroan membantah tahu penyebabnya, pola perdagangan yang tidak wajar itu sendiri layak diwaspadai investor. Yang perlu dipantau selanjutnya adalah apakah bursa akan menaikkan status pengawasan seperti notasi khusus atau pengumuman Unusual Market Activity, serta apakah ada aksi korporasi baru yang muncul dalam beberapa bulan mendatang meski saat ini perseroan menyatakan belum memilikinya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "tlkm-catat-laba-bersih-rp10-6-triliun-di-semester-i-2026-naik-1-4",
   "category": "Aksi Korporasi",
   "title": "TLKM Catat Laba Bersih Rp10,6 Triliun di Semester I 2026, [Naik] 1,4%",
@@ -692,6 +715,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "alka-agar-tama-masuk-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA, AGAR, TAMA Masuk [Pemantauan Khusus] BEI",
+  "deck": "BEI memasukkan tiga saham, ALKA, AGAR, dan TAMA, ke papan pemantauan khusus mulai 3 September 2026 akibat suspensi perdagangan panjang dan ekuitas negatif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:32:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec618acb50_49acaa3a53.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "ALKA",
+   "AGAR",
+   "TAMA",
+   "pemantauan khusus BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan tiga saham masuk daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus melalui surat No. Peng-PK-00063/BEI.PLP/09-2026 tertanggal 2 September 2026, yang ditandatangani Kadiv Peraturan dan Layanan Perusahaan Tercatat, Teuku Fahmi Ariandar. Ketiganya, ALKA (Alakasa Industrindo Tbk), AGAR (PT Asia Sejahtera Mina Tbk), dan TAMA (PT Lancartama Sejati Tbk), tercatat di Papan Pengembangan dan status barunya berlaku efektif 3 September 2026.",
+   "BEI merinci alasan berbeda untuk tiap saham berdasarkan nomor kriteria yang tercantum di pengumuman. ALKA dan AGAR masuk pemantauan khusus karena memenuhi kriteria nomor 10, yaitu pernah dikenakan penghentian sementara perdagangan efek selama lebih dari satu hari bursa akibat aktivitas perdagangan sahamnya sendiri. TAMA masuk karena kriteria nomor 5, yaitu memiliki ekuitas negatif pada laporan keuangan terakhirnya, yang berarti total kewajiban perusahaan sudah melebihi total asetnya.",
+   "Dalam kolom keterangan tambahan soal saham dengan hak suara multipel, AGAR dan TAMA tercatat 'Tidak', sementara data untuk ALKA pada kolom itu tidak dicantumkan dalam dokumen. BEI menyebut pengumuman lengkap bisa diakses melalui laman resmi idx.co.id dengan kata kunci Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district, seen from a busy street at midday",
+  "takeaway": "Kabar ini condong negatif bagi ketiga emiten, terutama TAMA, karena masuk papan pemantauan khusus BEI menandakan ada masalah nyata, bukan sekadar status administratif. Yang paling berat adalah ekuitas negatif TAMA, artinya total utang perusahaan itu sudah melampaui total hartanya sehingga secara akuntansi modal pemegang saham sudah minus, kondisi yang membuat kreditur dan investor biasanya lebih waspada. Untuk ALKA dan AGAR, pemicunya beda, yaitu riwayat sahamnya pernah disetop perdagangannya lebih dari sehari akibat pergerakan transaksi yang tidak wajar, bukan soal keuangan perusahaan secara langsung. Status ini efektif berlaku sejak 3 September 2026, dan yang perlu dipantau selanjutnya adalah apakah TAMA bisa memperbaiki posisi ekuitasnya pada laporan keuangan berikutnya, serta apakah pola perdagangan ALKA dan AGAR kembali stabil sehingga bisa keluar dari daftar pemantauan khusus ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt",
   "category": "Bisnis",
   "title": "Freeport Salurkan Bantuan [Rp2,5 M] untuk Gempa NTT",
@@ -719,6 +768,32 @@ var ARTICLES = [
   "imageV": "mtkirmos"
  },
  {
+  "slug": "bipp-tanggapi-bursa-investor-pmthmetd-masih-dirahasiakan",
+  "category": "Aksi Korporasi",
+  "title": "BIPP tanggapi bursa: investor PMTHMETD masih [dirahasiakan]",
+  "deck": "BIPP menjawab permintaan penjelasan BEI soal penambahan modal tanpa HMETD, namun investor dan rasio free float pasca aksi ini belum dipastikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T16:15:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0b9b0b162_18b020a5b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "PMTHMETD",
+   "free float",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengirim surat tanggapan kepada Bursa Efek Indonesia pada 2 September 2026, menjawab permintaan penjelasan BEI bernomor S-1113/BEI.PP1/08-2026 tanggal 26 Agustus 2026 yang diterima perseroan pada 31 Agustus 2026. Surat itu terkait rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) yang sebelumnya diumumkan BIPP. Tanggapan ditandatangani Arianto Sjarief selaku Presiden Direktur sekaligus Corporate Secretary perseroan.",
+   "Soal penggunaan dana, BIPP menyatakan belum memiliki estimasi perolehan dana maupun rincian realisasinya. Dana rencananya dipakai untuk memperkuat struktur permodalan serta kebutuhan modal kerja perseroan dan entitas anak, termasuk belanja modal dan operasional, tanpa menyebut proyek spesifik yang krusial. Mengenai investor strategis, perseroan mengaku masih bernegosiasi dengan beberapa calon, baik pihak ketiga maupun pihak berelasi, termasuk kemungkinan pemegang saham pengendali Safire Capital Pte. Ltd dan PT Victoria Investama Tbk. Karena negosiasi belum tuntas, BIPP menolak membuka identitas, struktur kepemilikan, maupun pemilik manfaat dari calon investor tersebut. Perseroan hanya memastikan pelaksanaan PMTHMETD akan berlangsung maksimal dua tahun sejak RUPSLB menyetujui aksi ini, sesuai ketentuan POJK.",
+   "Dari sisi struktur saham, jumlah saham tercatat BIPP akan naik dari 5.028.669.376 lembar menjadi 5.531.536.313 lembar setelah PMTHMETD, atau tambahan sekitar 502,87 juta saham baru. Saat ini saham free float atau saham yang beredar bebas di publik tercatat 906.688.726 lembar, setara 18,03 persen dari total saham, namun BIPP menulis rasio free float setelah PMTHMETD sebagai TBA alias belum ditentukan, padahal BEI secara spesifik memintanya. Perseroan juga menegaskan tidak ada program kepemilikan saham karyawan (ESOP/MESOP) yang masih berjalan, dan perubahan Pasal 3 Anggaran Dasar terkait maksud dan tujuan usaha hanya penyesuaian kode KBLI 2025, bukan perubahan lini bisnis yang substantif."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding renovating a mid-rise office building facade in Jakarta, cranes visible, late afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham BIPP, karena rencana penambahan modal justru dijawab dengan ketidakpastian: investor belum punya nama, penggunaan dana belum punya angka, dan rasio saham beredar publik setelah aksi ini pun ditulis TBA oleh perseroan sendiri. Yang tersentuh di sini adalah jumlah saham beredar, dari 5,03 miliar menjadi 5,53 miliar lembar, tambahan sekitar 503 juta saham baru yang otomatis mengecilkan porsi kepemilikan pemegang saham lama dan berpotensi menggerus laba per saham karena laba yang sama harus dibagi ke lebih banyak lembar saham. Free float saat ini 18,03 persen dari total saham, dan BEI secara khusus meminta angka setelah PMTHMETD karena rasio saham publik yang beredar bebas ini menentukan kelayakan pencatatan di bursa, tapi BIPP belum bisa menjawabnya. Yang perlu dipantau berikutnya adalah kepastian identitas investor strategis begitu negosiasi rampung, tanggal RUPSLB yang akan mengesahkan aksi ini sekaligus jadi acuan batas waktu dua tahun pelaksanaan sesuai POJK, serta konfirmasi rasio free float pasca penambahan modal yang belum disampaikan perseroan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern",
   "category": "Industri",
   "title": "RI Butuh Rp125,5 T Bangun 4.582 [Kapal] Ikan Modern",
@@ -744,6 +819,137 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah pemerintah menetapkan target yang cukup rinci, yakni 4.582 kapal ikan baru senilai Rp125,5 triliun dalam empat tahun, dengan janji dikerjakan galangan kapal dalam negeri, bukan beli kapal jadi dari luar negeri. Pihak yang langsung kena dampak adalah perusahaan pembuat kapal lokal yang berpotensi kebagian order besar ini, serta puluhan ribu calon pekerja, terutama 55.000 orang yang disiapkan sebagai awak kapal seperti nakhoda dan anak buah kapal. Yang belum dijelaskan dalam paparan ini adalah dari mana Rp125,5 triliun itu akan didanai, apakah dari anggaran negara, pinjaman, atau campuran dengan galangan swasta, serta galangan mana saja yang akan kebagian proyek. Kejelasan itu baru akan terlihat lewat rincian skema pendanaan atau kontrak KKP dengan galangan kapal yang biasanya menyusul setelah pengumuman semacam ini, dan itu yang perlu dipantau untuk tahu apakah target 2026-2029 tersebut punya jalur pembiayaan yang konkret.",
   "imageV": "mtkirn61"
+ },
+ {
+  "slug": "bbri-bukukan-laba-bersih-rp31-2-triliun-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBRI Bukukan Laba Bersih [Rp31,2 Triliun] Semester I 2026",
+  "deck": "Laba bersih BRI naik 17,5 persen menjadi Rp31,2 triliun pada semester I 2026, ditopang pertumbuhan kredit 16,2 persen dan perbaikan kualitas aset.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:59:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4dc8a5fa4_4ca2e7d091.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRI",
+  "tags": [
+   "BBRI",
+   "laba bersih",
+   "kinerja keuangan",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk melaporkan laba bersih konsolidasi Rp31,2 triliun pada semester I 2026, naik 17,5 persen dibandingkan Rp26,5 triliun pada periode yang sama tahun sebelumnya. Angka ini disampaikan manajemen dalam pemaparan kinerja keuangan kepada analis dan investor pada 31 Agustus 2026. Laba operasional sebelum pencadangan atau PPOP turut naik 12,8 persen menjadi Rp65,7 triliun dari Rp58,3 triliun, ditopang pendapatan bunga bersih yang tumbuh 9,9 persen menjadi Rp80,5 triliun.",
+   "Pertumbuhan laba ditopang ekspansi kredit yang melampaui rata-rata industri. Total penyaluran kredit dan pembiayaan BRI naik 16,2 persen menjadi Rp1.646 triliun dari Rp1.417 triliun setahun sebelumnya. Total aset perusahaan naik 11,7 persen menjadi Rp2.352 triliun, sementara total simpanan nasabah tercatat Rp1.574,6 triliun. Dana murah berupa simpanan giro dan tabungan (CASA) tumbuh 10,1 persen menjadi Rp1.608 triliun, sehingga biaya dana yang harus dibayar bank ke nasabah turun 69 basis poin menjadi 2,4 persen.",
+   "Dari sisi kualitas kredit, rasio kredit berisiko atau loan at risk turun dari 10,8 persen menjadi 9,1 persen, biaya pencadangan kredit bermasalah (cost of credit) turun dari 3,4 persen menjadi 3,1 persen, dan rasio kredit macet baru di segmen mikro turun dari 5,9 persen menjadi 4,5 persen. Imbal hasil atas modal pemegang saham (ROE) naik dari 16,6 persen menjadi 18,8 persen. Di sisi digital, jumlah pengguna aktif aplikasi BRImo naik dari 42,7 juta menjadi 49,7 juta pengguna atau tumbuh 16,5 persen. Pemaparan ini dihadiri 125 peserta analis dan investor, disampaikan oleh Group CEO Hery Gunardi bersama enam direktur lainnya."
+  ],
+  "fotoAdegan": "Bank teller assisting a customer at a busy branch counter, modern interior, soft morning light through large windows",
+  "takeaway": "Laporan ini positif bagi BRI karena tiga hal terjadi bersamaan: laba tumbuh dua digit, kualitas kredit membaik, dan biaya dana justru turun, kombinasi yang tidak selalu ditemukan dalam satu periode pelaporan. Kenaikan ROE dari 16,6 persen ke 18,8 persen berarti setiap rupiah modal pemegang saham menghasilkan laba lebih besar, sementara turunnya rasio kredit berisiko dari 10,8 persen ke 9,1 persen menandakan bank makin jarang menemukan debitur yang telat bayar, sehingga beban pencadangan ke depan berpotensi lebih ringan. Karena kredit tumbuh lebih cepat daripada simpanan, rasio kredit terhadap simpanan ikut naik, sehingga pasar biasanya mencermati apakah likuiditas bank tetap longgar jika tren ini berlanjut. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, terutama apakah perbaikan kualitas kredit mikro yang menurut manajemen baru mulai terlihat pada semester ini benar-benar berlanjut atau sekadar pola musiman.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "irsx-panggil-rupslb-ajukan-right-issue-12-39-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Panggil RUPSLB, Ajukan [Right Issue] 12,39 Miliar Saham Baru",
+  "deck": "IRSX memanggil RUPSLB pada 24 September 2026 untuk menyetujui perubahan direksi/komisaris serta menegaskan rencana rights issue hingga 12,39 miliar saham baru dan 1,86 miliar Waran Seri II.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:51:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e29bfe5a9_63559e1629.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "RUPSLB",
+   "rights issue",
+   "PMHMETD I"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Kamis, 24 September 2026, pukul 14.00 WIB di Pergudangan Taman Tekno 2 Blok H8 No. 15-16, BSD, Tangerang Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa pada Selasa, 1 September 2026. Batas waktu mendaftarkan kehadiran atau memberi kuasa suara secara elektronik lewat aplikasi eASY.KSEI adalah pukul 12.00 WIB, satu hari kerja sebelum rapat.",
+   "Rapat ini membawa dua agenda. Agenda pertama adalah persetujuan perubahan susunan Direksi dan/atau Dewan Komisaris perseroan, tanpa menyebutkan nama pengurus yang akan diganti dalam surat pemanggilan ini. Agenda kedua adalah penegasan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I atau rights issue), yaitu penerbitan saham baru sebanyak-banyaknya 12.390.094.754 lembar, bersamaan dengan penerbitan Waran Seri II sebanyak-banyaknya 1.858.514.214 unit.",
+   "Dalam agenda kedua ini, pemegang saham juga diminta memberi kuasa kepada Direksi untuk menentukan sendiri jumlah pasti saham dan waran yang ditawarkan, menetapkan harga pelaksanaan PMHMETD I maupun harga pelaksanaan Waran Seri II, serta menaikkan modal dasar, modal ditempatkan, dan modal disetor perseroan setelah kedua aksi korporasi itu rampung. Dengan kata lain, detail harga dan jumlah final rights issue ini baru akan ditetapkan Direksi setelah RUPSLB menyetujui kerangka besarnya. Pemanggilan ini merupakan tindak lanjut dari surat perseroan tertanggal 18 Agustus 2026 yang sebelumnya sudah mengumumkan rencana penyelenggaraan RUPS ini."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a corporate meeting hall being prepared for a shareholders meeting, morning light, no signage visible.",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama karena kuota penerbitan saham barunya sangat besar, sampai 12,39 miliar lembar, sementara harga dan jumlah pastinya belum ditentukan dan sepenuhnya diserahkan ke Direksi. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham: kalau seluruh jatah rights issue dan waran ini terbit, porsi kepemilikan pemegang saham yang tidak ikut menyerap haknya bisa menyusut, dan laba perusahaan harus dibagi ke jumlah saham yang jauh lebih banyak. Perubahan susunan direksi dan komisaris yang diagendakan di rapat yang sama menambah ketidakpastian karena publik belum tahu wajah baru pengurus perseroan maupun alasan pergantiannya. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 24 September 2026, apakah kedua agenda ini disetujui, serta pengumuman harga pelaksanaan PMHMETD I dan Waran Seri II yang baru akan menyusul setelah itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "btps-catat-laba-rp655-miliar-pembiayaan-tumbuh-9-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Catat Laba Rp655 Miliar, [Pembiayaan] Tumbuh 9% Semester I",
+  "deck": "BTPS memaparkan kinerja semester I 2026: laba bersih naik tipis 2% menjadi Rp655 miliar, sementara rasio biaya terhadap pendapatan naik ke 52%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:49:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b402d86f1_48aed63580.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "perbankan syariah",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menggelar public expose tahunan pada 7 September 2026 dengan memaparkan kinerja keuangan konsolidasi per akhir Juni 2026. Total aset perseroan tercatat Rp23.302 miliar, naik 8 persen dibanding periode sama tahun lalu, ditopang pembiayaan bruto yang tumbuh 9 persen menjadi Rp11.032 miliar. Ekuitas ikut naik 6 persen menjadi Rp10.258 miliar, sementara total dana pihak ketiga tumbuh 6 persen menjadi Rp12.180 miliar. Meski neraca membesar, laba bersih setelah pajak semester I 2026 hanya naik tipis 2 persen menjadi Rp655 miliar, dibanding Rp644 miliar pada periode yang sama tahun sebelumnya.",
+   "Dari sisi rasio, kecukupan modal (CAR) BTPS tercatat sangat tebal di 58,7 persen, jauh di atas rata-rata bank umum syariah lain yang menurut data Statistik Perbankan Indonesia per Mei 2026 hanya 23,7 persen. Kualitas pembiayaan juga membaik, dengan rasio pembiayaan bermasalah (NPF) turun dari 3,34 persen pada Juni 2025 menjadi 2,74 persen pada Juni 2026, dan NPF net nyaris nol karena pencadangan kerugian yang besar. Namun rasio biaya terhadap pendapatan (cost to income) naik dari 48 persen menjadi 52 persen, sementara imbal hasil terhadap ekuitas (ROE) turun dari 14,2 persen menjadi 13,5 persen dan imbal hasil terhadap aset (ROA) turun dari 7,6 persen menjadi 7,2 persen dibanding semester I tahun lalu.",
+   "Untuk sisa tahun 2026, manajemen menargetkan pertumbuhan laba bersih setelah pajak di kisaran belasan persen tinggi (mid double digit), jauh di atas pertumbuhan 2 persen yang tercapai di semester pertama. Strategi yang disiapkan antara lain memperluas skema pembiayaan kelompok dengan jaminan lunak (soft collateral) dari 10 wilayah menjadi 60 lokasi mulai semester kedua 2026, dengan prioritas di Sumatera, Jawa, dan Sulawesi Selatan. Perseroan juga memperluas pembiayaan individu (Individual Financing) yang per Juni 2026 outstanding-nya mencapai Rp59,7 miliar dari 4.368 nasabah dengan tingkat pembayaran tepat waktu 97,2 persen, serta menyalurkan pembiayaan ke lembaga keuangan nonbank meliputi Pegadaian, CIMB Niaga Auto Finance, Sarana Multi Infrastruktur, dan Sarana Multigriya Financial. Di sisi produk kekayaan (wealth management), BTPS mencatat dana kelolaan sukuk Rp16,9 miliar, produk bancassurance bersama Allianz Syariah Rp1,5 miliar, dan Cash Waqf Linked Deposit Rp3,7 miliar."
+  ],
+  "fotoAdegan": "Indonesian women vendors gathered in a village courtyard for a community lending group meeting, morning light, no signage visible",
+  "takeaway": "Laporan ini condong netral bagi BTPS: neraca dan kualitas pembiayaan membaik, tetapi profitabilitas justru menipis di tengah target pertumbuhan laba yang ambisius untuk tahun ini. Laba bersih semester pertama 2026 hanya naik 2 persen menjadi Rp655 miliar, jauh dari panduan manajemen yang menargetkan pertumbuhan laba bersih setelah pajak di kisaran belasan persen tinggi untuk sepanjang 2026, sehingga semester kedua harus bekerja jauh lebih keras untuk mengejarnya. Yang tersentuh di sini adalah rasio biaya terhadap pendapatan, yang naik dari 48 persen menjadi 52 persen, serta imbal hasil terhadap ekuitas dan aset yang masing-masing turun dari 14,2 persen ke 13,5 persen dan dari 7,6 persen ke 7,2 persen, dua ukuran yang dipakai pelaku pasar untuk melihat seberapa efisien bank mengubah modal dan asetnya jadi laba. Kabar baiknya, kualitas pembiayaan membaik dan permodalan sangat tebal, jadi bantalan risikonya kuat meski mesin labanya melambat. Yang perlu dipantau berikutnya adalah realisasi ekspansi pembiayaan kelompok ke 60 lokasi mulai semester kedua 2026 dan apakah laba semester kedua bisa melonjak cukup besar untuk memenuhi target pertumbuhan laba double digit yang dicanangkan manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mora-jelaskan-lonjakan-saham-8-6-kali-usai-kredit-bca",
+  "category": "Aksi Korporasi",
+  "title": "MORA Jelaskan Lonjakan Saham 8,6 Kali usai [Kredit BCA]",
+  "deck": "MORA menjelaskan ke BEI bahwa lonjakan transaksi sahamnya pada 28 Agustus 2026 murni mekanisme pasar, bersamaan dengan penandatanganan perjanjian kredit baru dengan BCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:45:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd704abe1b_3e8b1311ac.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MORA",
+  "tags": [
+   "MORA",
+   "volatilitas saham",
+   "BEI",
+   "kredit BCA"
+  ],
+  "body": [
+   "PT Ekamas Mora Republik Tbk (MORA) menjawab permintaan penjelasan Bursa Efek Indonesia soal lonjakan transaksi sahamnya, menyusul surat BEI nomor S-11173/BEI.PP2/09-2026 tanggal 1 September 2026. Dalam surat balasan tertanggal 2 September 2026, perusahaan menyebut volume transaksi pada 28 Agustus 2026 melonjak menjadi 3.789.700 saham dengan frekuensi 3.940 kali, dibandingkan hari bursa sebelumnya yang hanya 441.900 saham dengan frekuensi 583 kali. Harga saham ikut naik Rp300 pada hari itu, dari penutupan Rp5.300 menjadi Rp5.600, atau sekitar 5,66 persen. Perseroan menegaskan lonjakan itu semata mengikuti mekanisme pasar dan tidak ada informasi material yang belum diungkap.",
+   "MORA mengaitkan aktivitas transaksi tersebut dengan penandatanganan Akta Perubahan Pertama atas Perjanjian Kredit antara perusahaan dan PT Bank Central Asia Tbk pada 31 Agustus 2026. Informasi soal perjanjian kredit itu sudah lebih dulu disampaikan lewat keterbukaan informasi terpisah pada 2 September 2026, sesuai kewajiban Peraturan OJK Nomor 17/2020 tentang Transaksi Material dan Peraturan OJK Nomor 31/2015 tentang Keterbukaan Informasi.",
+   "Dalam surat yang sama, MORA menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sesuai Peraturan OJK Nomor 4 Tahun 2024, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa. Perusahaan juga menyebut pemegang saham utamanya, PT Innovate Mas Utama, sampai saat ini belum punya rencana terkait kepemilikan sahamnya di MORA. Surat ditandatangani oleh Resi Yuki Bramani selaku Direktur sekaligus Sekretaris Perusahaan."
+  ],
+  "fotoAdegan": "Telecom technicians installing fiber optic cable on a utility pole along a residential Jakarta street, midday sunlight.",
+  "takeaway": "Laporan ini netral bagi profil MORA karena isi utamanya adalah konfirmasi kepatuhan, bukan kabar bisnis baru, lonjakan harga dan volume transaksi disebut murni mekanisme pasar, dan satu-satunya informasi substantif di dalamnya, yakni tambahan kredit dari BCA, sudah lebih dulu diumumkan lewat keterbukaan informasi terpisah pada hari yang sama. Yang perlu diperhatikan investor adalah beban bunga dari perjanjian kredit baru itu, karena utang tambahan akan membebani arus kas MORA ke depan meski tujuannya untuk perluasan jaringan. Volume transaksi yang melonjak 8,6 kali lipat dan harga yang naik 5,66 persen dalam sehari tetap layak dicatat karena menandakan minat pasar yang tiba-tiba membesar, meski BEI sendiri hanya memakainya sebagai pemicu permintaan penjelasan, bukan bukti ada masalah. Yang perlu dipantau selanjutnya adalah realisasi penggunaan dana kredit BCA tersebut dan apakah BEI akan meminta penjelasan lanjutan jika volatilitas transaksi saham MORA berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ssia-catat-lonjakan-ebitda-semester-i-2026-ke-rp693-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SSIA Catat Lonjakan [EBITDA] Semester I 2026 ke Rp693 Miliar",
+  "deck": "Materi public expose SSIA menunjukkan EBITDA semester I 2026 melompat ke Rp693 miliar berkat penjualan lahan Subang Smartpolitan, disertai dividen dan persetujuan MESOP.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T15:33:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4316048000_5aa954f5d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSIA",
+  "tags": [
+   "SSIA",
+   "Surya Semesta Internusa",
+   "EBITDA",
+   "Subang Smartpolitan"
+  ],
+  "body": [
+   "PT Surya Semesta Internusa Tbk (SSIA) menyampaikan materi public expose tahunan yang memuat kinerja hingga semester I 2026. Perusahaan mencatat total ekuitas Rp8,482 triliun dan EBITDA (laba usaha sebelum bunga, pajak, penyusutan, dan amortisasi) sebesar Rp693 miliar hanya dalam enam bulan pertama 2026, jauh melampaui EBITDA sepanjang tahun 2025 yang tercatat Rp248 miliar. Per 30 Juni 2026, kapitalisasi pasar SSIA tercatat Rp7,0 triliun dengan 4.705 juta saham beredar. Pemegang saham utama adalah PT Henan Putihrai Asset Management 13,0 persen, PT Dwimuria Investama Andalan 10,2 persen, PT Arman Investments Utama 8,5 persen, Intrepid Investments Limited 8,2 persen, PT Persada Capital Investama 7,9 persen, jajaran direksi 0,5 persen, dan sisanya 51,7 persen dimiliki publik.",
+   "Lonjakan EBITDA itu terutama berasal dari penjualan lahan di segmen properti. Nilai penjualan lahan secara akuntansi pada semester I 2026 mencapai Rp1.076 triliun, naik tajam dari Rp167 miliar pada semester I 2025 dan Rp310 miliar sepanjang tahun 2025. Penjualan didorong oleh Subang Smartpolitan yang terjual 52,1 hektare pada semester I 2026, dibanding hanya 1,4 hektare sepanjang 2025. Total pendapatan segmen properti pada semester I 2026 mencapai Rp1.267 triliun, hampir dua kali lipat pendapatan sepanjang tahun 2025 sebesar Rp665 miliar.",
+   "Dalam RUPST dan RUPSLB pada 19 Juni 2026, SSIA membagikan dividen Rp23,5 miliar dan mengangkat Fentony Sudjono sebagai komisaris baru. RUPSLB juga menyetujui program MESOP (pemberian saham kepada manajemen dan karyawan) dengan penerbitan saham baru kurang dari 5 persen dari jumlah saham beredar saat ini. Di segmen konstruksi, anak usaha PT Nusa Raya Cipta Tbk memperoleh kontrak baru senilai Rp1.371 triliun pada semester I 2026, dengan kontrak dalam tangan tersisa Rp2.483 triliun di akhir periode. Pada 10 Desember 2025, NRCA bersama PT Adhi Karya Tbk ditunjuk membangun ruas pertama Tol Akses Patimban sepanjang total 14,11 kilometer, mulai dikerjakan kuartal I 2026 dengan masa konstruksi 16 bulan, yang akan terhubung ke Subang Smartpolitan lewat Interchange Cipeundeuy. Sejak 21 Agustus 2026, akses tol sementara di KM 87+950 Tol Cipali yang langsung menghubungkan ke Subang Smartpolitan juga mulai beroperasi, hasil kolaborasi dengan Pemerintah Provinsi Jawa Barat, PT Lintas Marga Sedaya, dan Kementerian Pekerjaan Umum.",
+   "Di segmen properti residensial, anak usaha TCP Internusa meluncurkan proyek rumah tapak Edenhaus Serpong pada 22 Agustus 2026, terdiri dari 9 unit ruko seharga Rp1,8 miliar per unit dan 113 unit rumah dengan harga Rp1,4 miliar hingga Rp2,2 miliar per unit, dengan total perkiraan pendapatan proyek Rp240 miliar. Di segmen hotel, Melia Bali Hotel resmi berganti nama menjadi Paradisus by Melia Bali sejak 1 Februari 2026 dengan 492 kamar, dari sebelumnya 495 kamar, seiring penambahan paket layanan all-inclusive."
+  ],
+  "fotoAdegan": "Aerial view of a sprawling industrial estate under development beside a new toll road interchange, cranes and cleared land, daylight",
+  "takeaway": "Laporan ini condong positif bagi SSIA, karena lonjakan penjualan lahan di Subang Smartpolitan mendongkrak EBITDA semester I 2026 hingga melampaui capaian sepanjang tahun 2025, didukung pembukaan akses tol baru yang mempercepat konektivitas kawasan industri tersebut. Angka yang perlu dicermati investor adalah EBITDA, ukuran laba operasional sebelum dipotong bunga, pajak, dan penyusutan yang mencerminkan kemampuan bisnis inti menghasilkan uang tunai, karena lonjakannya kali ini banyak ditopang penjualan lahan yang sifatnya tidak rutin, bukan pendapatan berulang seperti sewa atau hotel. Persetujuan program MESOP, yaitu pemberian saham kepada manajemen dan karyawan, akan menambah jumlah saham beredar kurang dari 5 persen sehingga berpotensi sedikit mendilusi laba per saham pemegang saham lama. Yang perlu dipantau berikutnya adalah realisasi penerbitan saham MESOP pascapersetujuan RUPSLB 19 Juni 2026, serta progres pembangunan ruas pertama Tol Akses Patimban yang mulai dikerjakan kuartal I 2026 dengan target rampung sekitar 16 bulan kemudian.",
+  "sentimen": "positif"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran",

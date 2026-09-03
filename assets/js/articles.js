@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
+  "category": "Bisnis",
+  "title": "Ekspor Pala Naik ke US$133 Juta, tapi 25 Kali [Ditolak]",
+  "deck": "Nilai ekspor pala RI naik ke US$133 juta pada 2025 dan menguasai 53 persen pasar dunia, namun cemaran jamur menyebabkan 25 kasus penolakan produk di Jepang dan Uni Eropa sejak 2024.",
+  "image": "assets/img/ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-03T17:07:28.926Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kuasai-separuh-pasokan-dunia-indonesia-dongkrak-mutu-pala-untuk-tembus-pasar-ekspor-premium",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Ekspor Pala",
+   "Kemendag",
+   "Uni Eropa",
+   "Jepang"
+  ],
+  "body": [
+   "Kementerian Perdagangan mendorong pelaku usaha pala untuk memperbaiki mutu dan memenuhi standar keamanan pangan internasional, agar komoditas rempah ini bisa menembus pasar ekspor bernilai tinggi seperti Uni Eropa dan Jepang. Dorongan ini disampaikan dalam webinar Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga (PKTN) Kemendag pada Kamis, 3 September 2026, yang diikuti 297 peserta dari kalangan UMKM, eksportir, dan pemerintah daerah. Isu ini penting karena posisi dominan Indonesia di pasar pala dunia ternyata belum otomatis membuka jalan ke pasar-pasar premium yang menerapkan aturan keamanan pangan ketat.",
+   "Berdasarkan data BPS yang diolah Kemendag, nilai ekspor pala Indonesia naik dari US$111,36 juta pada 2024 menjadi US$133,01 juta pada 2025, dengan pangsa pasar global mencapai 53,41 persen. Tiongkok dan Vietnam masih menjadi pembeli terbesar, sementara pasar bernilai tinggi seperti Uni Eropa, lewat jalur distribusi Belanda, dan Jepang dinilai masih punya ruang besar untuk digarap.",
+   "Namun peluang di pasar kelas atas itu berbanding lurus dengan ketatnya aturan keamanan pangan, terutama soal cemaran jamur aflatoksin dan okratoksin A yang bisa muncul jika pala disimpan dalam kondisi lembap. Sepanjang 2024 hingga Juli 2026, otoritas Jepang mencatat 4 kali penolakan produk pala asal Indonesia, sementara Uni Eropa melalui sistem peringatan dini pangan RASFF mencatat 21 kali penolakan.",
+   "Untuk menekan risiko itu, Kemendag memperkuat kapasitas Balai Pengujian Mutu Barang (BPMB) agar bisa memastikan produk pala yang diekspor sudah lolos standar sebelum dikirim, serta menyediakan portal LAMANSITU bagi pelaku usaha untuk memahami persyaratan pasar tujuan sejak awal. Perwakilan Badan Pangan Nasional dan Atase Perdagangan RI di Den Haag turut membahas pembinaan keamanan pangan dari hulu serta perkembangan regulasi Uni Eropa dalam acara tersebut."
+  ],
+  "fotoAdegan": "Workers sorting whole nutmeg seeds and mace on woven bamboo trays inside a rural spice drying warehouse, tropical morning light.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/iQLnNT3YlA8vsEjwwi4dNC7XBBU4pWJF8eslWS25.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Angka intinya: nilai ekspor pala naik dari US$111,36 juta pada 2024 menjadi US$133,01 juta pada 2025, tapi di periode yang sama Jepang dan Uni Eropa mencatat total 25 kali penolakan produk pala Indonesia gara-gara cemaran jamur beracun, aflatoksin dan okratoksin A, yang biasanya muncul kalau rempah disimpan dalam kondisi lembap. Yang kena dampak langsung adalah eksportir dan UMKM pala yang ingin masuk ke pasar bernilai tinggi seperti Belanda dan Jepang, karena standar keamanan pangan di sana jauh lebih ketat dibanding pembeli utama saat ini, Tiongkok dan Vietnam. Ini mengarah ke pergeseran strategi dari sekadar mengejar volume ekspor menjadi membenahi rantai pasok agar lolos uji cemaran, lewat penguatan laboratorium pengujian BPMB dan portal informasi standar LAMANSITU. Yang akan membuktikan apakah pergeseran ini berhasil adalah apakah jumlah kasus penolakan di Jepang dan Uni Eropa menurun pada laporan periode berikutnya, mengingat data yang dipakai saat ini baru sampai Juli 2026.",
+  "imageV": "mtlsfsda"
+ },
+ {
+  "slug": "bi-naikkan-insentif-likuiditas-bank-ke-6-persen",
+  "category": "Perbankan",
+  "title": "BI Naikkan Insentif Likuiditas Bank ke [6] Persen",
+  "deck": "Bank Indonesia menaikkan batas insentif KLM dari 5,5 ke 6,0 persen dari dana nasabah mulai September 2026, agar likuiditas bank lebih banyak mengalir ke UMKM.",
+  "image": "assets/img/bi-naikkan-insentif-likuiditas-bank-ke-6-persen.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-03T17:07:12.381Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "KLM",
+   "likuiditas perbankan",
+   "UMKM"
+  ],
+  "body": [
+   "Bank Indonesia menaikkan batas insentif Kebijakan Insentif Likuiditas Makroprudensial (KLM) dari 5,5 persen menjadi 6,0 persen dari total dana pihak ketiga (DPK), mulai berlaku September 2026. KLM adalah skema insentif likuiditas bagi bank yang menyalurkan kredit ke UMKM dan sektor prioritas lain, makin besar penyaluran kreditnya, makin besar pula dana tambahan yang bisa didapat bank dari BI. Kebijakan ini penting bagi pelaku usaha kecil karena ikut menentukan seberapa longgar bank dalam memberi pinjaman ke sektor yang selama ini sering kesulitan mengakses kredit.",
+   "Per awal Agustus 2026, sebelum aturan baru berlaku, total insentif yang sudah diterima perbankan dari skema KLM mencapai Rp446,5 triliun, setara 5,02 persen dari DPK, hampir mendekati batas lama 5,5 persen. Gubernur BI Destry Damayanti menyampaikan penguatan intermediasi perbankan juga perlu didukung sisi permintaan, karena masih ada undisbursed loan dalam jumlah besar, yakni kredit yang sudah disetujui bank tapi belum dicairkan ke nasabah, yang menurutnya bisa menjadi ruang tambahan bagi pertumbuhan kredit ke depan.",
+   "Ketua Dewan Komisioner OJK Friderica Widyasari Dewi menyebut pertumbuhan kredit saat ini terjadi baik di bank milik negara (Himbara) maupun bank swasta, namun tantangan ke depan adalah memastikan dana itu lebih banyak mengalir ke sektor produktif dan UMKM. Ketua Dewan Komisioner LPS Anggito Abimanyu menyebut kondisi perbankan nasional tetap sehat dengan permodalan kuat dan risiko kredit rendah, seraya menegaskan pihaknya menjaga suku bunga penjaminan simpanan agar bergerak mengikuti suku bunga pasar sehingga biaya dana bank tidak melonjak."
+  ],
+  "fotoAdegan": "A bank loan officer talking with a small workshop owner among sewing machines, discussing financing under natural daylight",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2818026/Cover-sp_2818026.jpeg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Perubahan konkretnya adalah batas insentif KLM naik dari 5,5 persen menjadi 6,0 persen dari total dana nasabah di bank (DPK), berlaku mulai September 2026. Yang menarik, insentif versi lama saja sudah terpakai Rp446,5 triliun atau 5,02 persen dari DPK per awal Agustus 2026, nyaris menyentuh batas 5,5 persen sebelum aturan baru itu berlaku. Pola ini mengarah ke pelonggaran likuiditas bank secara bertahap, BI menaikkan plafon begitu insentif sebelumnya hampir habis terpakai, bukan sekali lompatan besar. Yang kena dampak langsung adalah bank yang aktif menyalurkan kredit ke UMKM dan sektor prioritas, sementara pelaku UMKM adalah pihak yang diharapkan mendapat aliran kredit tambahan dari insentif ini. Yang akan memastikan arah ini adalah data pemanfaatan KLM dan realisasi kredit UMKM pada laporan BI berikutnya, apakah batas baru 6,0 persen juga cepat terisi seperti sebelumnya.",
+  "imageV": "mtlsfzmc"
+ },
+ {
   "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
   "category": "Aksi Korporasi",
   "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
@@ -81,6 +136,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "lps-gandeng-kadin-cari-investor-aset-bpr-bprs",
+  "category": "Perbankan",
+  "title": "LPS Gandeng Kadin Cari [Investor] Aset BPR-BPRS",
+  "deck": "LPS menjajaki kerja sama dengan Kadin DKI Jakarta untuk mempertemukan investor dengan BPR-BPRS yang tengah disehatkan, dengan harapan meluas ke Kadin daerah lain.",
+  "image": "assets/img/lps-gandeng-kadin-cari-investor-aset-bpr-bprs.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T21:21:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464727-lps-gandeng-kadin-cari-investor-untuk-aset-bpr-bprs-dalam-proses-likuidari-sebesar-rp2-triliun",
+  "tags": [
+   "LPS",
+   "Kadin",
+   "BPR-BPRS",
+   "investor perbankan"
+  ],
+  "body": [
+   "Lembaga Penjamin Simpanan (LPS) menjajaki kerja sama dengan Kamar Dagang dan Industri (Kadin) DKI Jakarta untuk mempertemukan calon investor dengan bank penerima, yaitu bank kecil yang tengah diselamatkan lewat penyertaan modal baru. Langkah ini menyasar Bank Perekonomian Rakyat (BPR) dan Bank Perekonomian Rakyat Syariah (BPRS) yang butuh suntikan modal agar tetap sehat. Bagi nasabah bank-bank kecil ini, masuknya investor baru berarti peluang lebih besar bagi bank tempat mereka menyimpan uang untuk tetap beroperasi normal.",
+   "Anggota Dewan Komisioner LPS Bidang Penjaminan Simpanan dan Resolusi Bank, Doddy Zulverdi, mengatakan kerja sama ini diharapkan tidak berhenti di Jakarta. LPS berharap Kadin Indonesia turut mendukung sehingga jaringan pencarian investor bisa diperluas ke Kadin di berbagai daerah. Semakin luas jejaring itu, semakin besar peluang munculnya pengusaha yang bersedia menyuntikkan dana ke BPR-BPRS yang membutuhkan.",
+   "Ketua Umum Kadin Indonesia Anindya Bakrie menilai kerja sama ini penting karena LPS punya tugas menyehatkan BPR-BPRS, dan menurutnya kestabilan ekonomi dimulai dari kestabilan sektor keuangan. Ia menyebut Kadin memiliki ekosistem pengusaha dan rantai pasok yang luas, sehingga kerja sama dengan lembaga seperti LPS dinilai bisa melengkapi upaya menaikkan kelas usaha para anggotanya.",
+   "Anindya menambahkan, skema ini membuka peluang bagi anggota Kadin untuk menjadi investor di bank kecil, sekaligus memberi mereka jalan untuk membantu pengusaha lain dalam ekosistem mereka berkembang lewat akses pembiayaan dari bank tersebut."
+  ],
+  "fotoAdegan": "Exterior of a small community bank branch with customers arriving, motorbikes parked outside, midday street scene in an Indonesian town",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/03/6a9976b8a6d0a-lembaga-penjamin-simpanan-lps-bersama-kamar-dagang-dan-industri-kadin-dki-jakarta-menjajaki-kerja-sama-untuk-mempertemukan-calon-investor-dengan-bank-penerima-dalam-rangka-memperkuat-industri-perbankan-nasional_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal dana yang sudah cair, melainkan cara LPS mencari pembeli untuk bank kecil bermasalah: LPS kini menggandeng jaringan pengusaha Kadin, bukan hanya mengandalkan jalur investor perbankan biasa. Yang berpotensi terdampak adalah BPR dan BPRS berstatus bank penerima, yakni bank kecil yang sedang diselamatkan lewat suntikan modal baru, sekaligus pengusaha anggota Kadin yang kini punya peluang masuk sebagai pemilik bank. Arahnya tampak menuju pelibatan pengusaha daerah dan sektor riil sebagai investor bank kecil, bukan cuma investor keuangan besar, karena LPS berharap kerja sama ini meluas dari Kadin DKI Jakarta ke Kadin Indonesia dan cabang-cabang daerah. Yang masih kurang untuk memastikan arah ini adalah angka konkret: berapa BPR-BPRS yang masuk skema ini, berapa investor yang sudah berminat, dan kapan kerja sama dengan Kadin Indonesia benar-benar diteken.",
+  "imageV": "mtlsg074"
+ },
+ {
   "slug": "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
   "category": "Aksi Korporasi",
   "title": "CBRE Tanggapi Gugatan [Wanprestasi], Klaim Utang Vendor Lunas",
@@ -105,6 +187,33 @@ var ARTICLES = [
   "fotoAdegan": "Maintenance workers servicing engine parts on the deck of a docked cargo ship at an Indonesian port, early morning light",
   "takeaway": "Laporan ini netral bagi CBRE: perseroan memang menghadapi gugatan hukum, tapi utang pokok yang menjadi pemicunya sudah dilunasi sebelum keterbukaan ini terbit, sehingga risiko finansialnya sudah berkurang lebih dulu. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang keluar untuk melunasi tagihan vendor, bukan ekuitas atau laba per saham, sehingga dampaknya ke laporan keuangan relatif terbatas dan bersifat satu kali. Pelaku pasar tetap perlu mencermati proses hukumnya karena pelunasan utang tidak otomatis menghentikan gugatan yang sudah masuk ke pengadilan. Yang perlu dipantau berikutnya adalah hasil negosiasi dan mediasi dengan kuasa hukum Navios Control Services, termasuk apakah gugatan itu benar-benar dicabut, karena dokumen ini belum menyebut tanggal sidang atau tenggat penyelesaian yang pasti. Perlu dicatat juga bahwa CBRE dalam sepekan terakhir tercatat menghadapi isu dilusi besar dari rencana rights issue, sehingga sorotan terhadap tata kelola dan kondisi keuangan perseroan sedang tinggi.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "umkm-bisa-naik-kelas-lewat-pemanfaatan-ai",
+  "category": "UMKM",
+  "title": "UMKM Bisa [Naik Kelas] Lewat Pemanfaatan AI",
+  "deck": "AI bisa membantu UMKM tingkatkan pemasaran, layanan pelanggan, dan efisiensi operasional tanpa perlu teknologi mahal atau tenaga tambahan.",
+  "image": "assets/img/umkm-bisa-naik-kelas-lewat-pemanfaatan-ai.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:59:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464723-strategi-umkm-naik-kelas-di-era-ai-mulai-dari-marketing-hingga-akses-modal",
+  "tags": [
+   "UMKM",
+   "AI",
+   "Digitalisasi",
+   "Pemasaran Digital"
+  ],
+  "body": [
+   "Pemanfaatan kecerdasan buatan atau AI kini disebut bisa menjadi salah satu jalan bagi pelaku usaha mikro, kecil, dan menengah untuk naik kelas. Ini penting karena keterbatasan modal dan sumber daya manusia selama ini kerap jadi kendala utama UMKM untuk berkembang, sementara alat AI yang dibutuhkan tidak harus mahal atau rumit dan bisa dipakai untuk kebutuhan sehari-hari seperti promosi, layanan pelanggan, hingga pencatatan keuangan.",
+   "Di sisi pemasaran, pelaku usaha bisa memakai AI generatif seperti ChatGPT, Claude, atau Gemini untuk membuat teks promosi, skrip video pendek, dan deskripsi produk di lapak daring. Untuk kebutuhan visual, aplikasi seperti Canva AI, Midjourney, dan Photoroom memungkinkan pembuatan foto produk yang terlihat profesional tanpa harus menyewa jasa fotografer. Chatbot berbasis AI juga bisa dipakai menjawab pertanyaan pembeli, memproses pesanan, dan menampung masukan pelanggan secara otomatis sehingga layanan berjalan lebih cepat.",
+   "Di sisi operasional, sistem kasir digital yang bisa membaca data penjualan membantu pelaku usaha melihat produk paling laku, menentukan waktu belanja stok baru, dan memahami pola permintaan pembeli agar barang tidak menumpuk atau justru habis. AI juga bisa membantu pekerjaan administratif seperti mencatat transaksi, merapikan invoice, dan menyusun laporan keuangan sederhana.",
+   "Dengan bagian pemasaran dan administrasi terbantu alat otomatis, pelaku UMKM disebut punya lebih banyak waktu untuk fokus mengembangkan produk dan strategi penjualan ketimbang terjebak pada pekerjaan rutin."
+  ],
+  "fotoAdegan": "A small clothing stall owner photographing folded garments with a smartphone for online sale, cluttered organized shop interior, daytime light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a84782339032-ilustrasi-umkm_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau kebijakan, melainkan cara kerja: UMKM didorong memakai alat AI gratis atau murah, seperti chatbot untuk melayani pembeli, aplikasi pembuat foto produk, dan kasir digital yang bisa membaca pola penjualan, untuk menggantikan pekerjaan yang selama ini butuh tenaga tambahan seperti fotografer atau admin toko. Yang kena dampak paling langsung adalah pelaku usaha kecil dengan modal dan karyawan terbatas, karena merekalah yang paling diuntungkan kalau waktu untuk promosi dan pencatatan bisa dipangkas. Tapi berita ini tidak menyebut berapa banyak UMKM yang sudah benar-benar memakai cara ini, seperti apa hasilnya, atau ada tidaknya program pemerintah maupun lembaga yang mendorong adopsinya. Tanpa data pemakaian atau contoh nyata dari lapangan, belum bisa dipastikan apakah ini benar mengubah skala usaha kebanyakan UMKM atau baru sebatas anjuran umum yang belum banyak dipraktikkan.",
+  "imageV": "mtlsg0n4"
  },
  {
   "slug": "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",

@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
+  "category": "Bisnis",
+  "title": "Ekspor Pala Naik ke US$133 Juta, tapi 25 Kali [Ditolak]",
+  "deck": "Nilai ekspor pala RI naik ke US$133 juta pada 2025 dan menguasai 53 persen pasar dunia, namun cemaran jamur menyebabkan 25 kasus penolakan produk di Jepang dan Uni Eropa sejak 2024.",
+  "date": "4 September 2026",
+  "image": "assets/img/ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak.jpg",
+  "imageV": "mtlsfsda",
+  "tags": [
+   "Ekspor Pala",
+   "Kemendag",
+   "Uni Eropa",
+   "Jepang"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kuasai-separuh-pasokan-dunia-indonesia-dongkrak-mutu-pala-untuk-tembus-pasar-ekspor-premium",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-naikkan-insentif-likuiditas-bank-ke-6-persen",
+  "category": "Perbankan",
+  "title": "BI Naikkan Insentif Likuiditas Bank ke [6] Persen",
+  "deck": "Bank Indonesia menaikkan batas insentif KLM dari 5,5 ke 6,0 persen dari dana nasabah mulai September 2026, agar likuiditas bank lebih banyak mengalir ke UMKM.",
+  "date": "4 September 2026",
+  "image": "assets/img/bi-naikkan-insentif-likuiditas-bank-ke-6-persen.jpg",
+  "imageV": "mtlsfzmc",
+  "tags": [
+   "Bank Indonesia",
+   "KLM",
+   "likuiditas perbankan",
+   "UMKM"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
   "category": "Aksi Korporasi",
   "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
@@ -53,6 +89,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "lps-gandeng-kadin-cari-investor-aset-bpr-bprs",
+  "category": "Perbankan",
+  "title": "LPS Gandeng Kadin Cari [Investor] Aset BPR-BPRS",
+  "deck": "LPS menjajaki kerja sama dengan Kadin DKI Jakarta untuk mempertemukan investor dengan BPR-BPRS yang tengah disehatkan, dengan harapan meluas ke Kadin daerah lain.",
+  "date": "3 September 2026",
+  "image": "assets/img/lps-gandeng-kadin-cari-investor-aset-bpr-bprs.jpg",
+  "imageV": "mtlsg074",
+  "tags": [
+   "LPS",
+   "Kadin",
+   "BPR-BPRS",
+   "investor perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464727-lps-gandeng-kadin-cari-investor-untuk-aset-bpr-bprs-dalam-proses-likuidari-sebesar-rp2-triliun"
+ },
+ {
   "slug": "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
   "category": "Aksi Korporasi",
   "title": "CBRE Tanggapi Gugatan [Wanprestasi], Klaim Utang Vendor Lunas",
@@ -67,6 +120,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca2d4d8625_fdce5abe6b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "umkm-bisa-naik-kelas-lewat-pemanfaatan-ai",
+  "category": "UMKM",
+  "title": "UMKM Bisa [Naik Kelas] Lewat Pemanfaatan AI",
+  "deck": "AI bisa membantu UMKM tingkatkan pemasaran, layanan pelanggan, dan efisiensi operasional tanpa perlu teknologi mahal atau tenaga tambahan.",
+  "date": "3 September 2026",
+  "image": "assets/img/umkm-bisa-naik-kelas-lewat-pemanfaatan-ai.jpg",
+  "imageV": "mtlsg0n4",
+  "tags": [
+   "UMKM",
+   "AI",
+   "Digitalisasi",
+   "Pemasaran Digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464723-strategi-umkm-naik-kelas-di-era-ai-mulai-dari-marketing-hingga-akses-modal"
  },
  {
   "slug": "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",
@@ -6483,70 +6553,6 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e7260a9b26_696f039ea2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpii-peroleh-kredit-rp80-miliar-dari-cimb-niaga",
-  "category": "Aksi Korporasi",
-  "title": "BPII Peroleh [Kredit] Rp80 Miliar dari CIMB Niaga",
-  "deck": "Batavia Prosperindo Internasional menandatangani fasilitas kredit revolving maksimum Rp80 miliar dengan Bank CIMB Niaga untuk pembiayaan modal kerja, bertenor 12 bulan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BPII",
-   "kredit perbankan",
-   "CIMB Niaga",
-   "modal kerja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e787a4fa11_1b736ca0db.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbsi-rupslb-gagal-kuorum-perubahan-direksi-batal-dibahas",
-  "category": "Aksi Korporasi",
-  "title": "BBSI: RUPSLB [Gagal] Kuorum, Perubahan Direksi Batal Dibahas",
-  "deck": "RUPSLB Krom Bank Indonesia batal membahas perubahan direksi, remunerasi, dan anggaran dasar karena kuorum kehadiran cuma 9,84 persen dari syarat minimal dua pertiga saham.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBSI",
-   "Krom Bank Indonesia",
-   "RUPSLB",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a42996fc21_3758ebf503.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-rombak-lini-usaha-rambah-holding-dan-pembiayaan",
-  "category": "Aksi Korporasi",
-  "title": "SOFA Rombak Lini Usaha, Rambah [Holding] dan Pembiayaan",
-  "deck": "SOFA akan meminta persetujuan pemegang saham lewat RUPSLB 30 September 2026 untuk menambah usaha holding dan pembiayaan conduit, di tengah kerugian yang terus membesar.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "perubahan kegiatan usaha",
-   "RUPSLB",
-   "holding"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/9fa6a50b5f_0b0eba4bca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-gelar-rupslb-atas-permintaan-pemegang-saham",
-  "category": "Aksi Korporasi",
-  "title": "SOFA Gelar [RUPSLB] atas Permintaan Pemegang Saham",
-  "deck": "PT Solusi Environment Asia Tbk akan menggelar RUPSLB pada 30 September 2026, yang menurut pengumuman perseroan digelar atas permintaan pemegang saham, bukan inisiatif direksi.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "RUPSLB",
-   "Solusi Environment Asia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3981f955e3_a53e999535.pdf",
   "sourceLabel": "IDX"
  }
 ];

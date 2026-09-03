@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "4ucEzZa-yPU",
+  "title": "Pemerintah dan Kadin Tekankan Ketahanan Pangan di Tengah El Nino",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah bersama Kadin Indonesia menekankan pentingnya memperkuat ketahanan pangan nasional di tengah ancaman El Nino yang dinilai berdampak signifikan terhadap produksi.",
+  "takeaway": "Ancaman El Nino terhadap produksi pangan relevan bagi pembaca ekonomi karena berpotensi memengaruhi stabilitas harga dan rantai pasok nasional.",
+  "terbit": "2026-09-03T16:37:27+00:00"
+ },
+ {
   "id": "mSLsH2CJlH4",
   "title": "Presiden Prabowo dan Presiden Putin Bahas Kerja Sama Bisnis",
   "category": "Global",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Pemerintah menaikkan kuota Fasilitas Likuiditas Pembiayaan Perumahan tahun 2026 menjadi 350 ribu unit untuk memperluas akses masyarakat terhadap rumah subsidi.",
   "takeaway": "Kenaikan kuota FLPP relevan bagi pembaca karena berdampak langsung pada sektor pembiayaan perumahan dan daya beli masyarakat berpenghasilan rendah.",
   "terbit": "2026-09-01T01:31:39+00:00"
- },
- {
-  "id": "hpu08C2Bg8c",
-  "title": "Polemik Data Desil dalam DTSEN",
-  "category": "Makroekonomi",
-  "program": "Pagi-pagi Seru",
-  "summary": "Polemik data desil dalam DTSEN mencuat karena banyak warga kurang mampu tercatat berstatus kesejahteraan tinggi sehingga terancam kehilangan bantuan sosial.",
-  "takeaway": "Akurasi data kesejahteraan menentukan tepat sasaran tidaknya anggaran bantuan sosial pemerintah.",
-  "terbit": "2026-08-31T04:22:01+00:00"
  }
 ];

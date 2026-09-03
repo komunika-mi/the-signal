@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
+  "deck": "Bhuwanatala Indah Permai mengundang pemegang saham ke RUPSLB 25 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4691b1101c_b00b12740b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hdfa-cetak-laba-rp1-53-miliar-bangkit-dari-rugi-2025",
+  "category": "Aksi Korporasi",
+  "title": "HDFA Cetak Laba Rp1,53 Miliar, [Bangkit] dari Rugi 2025",
+  "deck": "Radana Bhaskara Finance (HDFA) membukukan laba bersih Rp1,53 miliar pada semester I 2026, berbalik dari rugi Rp82 miliar sepanjang 2025.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HDFA",
+   "multifinance",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79ea3c4bba_a6f0440120.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dooh-paparkan-visi-jadi-holding-ekosistem-ai-usai-sii-masuk",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Paparkan Visi Jadi Holding [Ekosistem AI] Usai SII Masuk",
+  "deck": "DOOH memaparkan materi public expose insidentil yang diminta bursa, memuat visi jadi holding ekosistem AI setelah SII masuk sebagai pengendali baru.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Sinergi Internasional Investama",
+   "Ekosistem AI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9703141db0_6342f2b625.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "krya-tanggapi-bei-soal-volatilitas-transaksi-kaji-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "KRYA Tanggapi BEI soal [Volatilitas] Transaksi, Kaji Aksi Korporasi",
+  "deck": "KRYA menjawab surat BEI terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru namun mengaku tengah mengkaji kemungkinan aksi korporasi.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRYA",
+   "volatilitas saham",
+   "BEI",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3756911af_aa002fb9dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heal-laba-semester-i-2026-turun-13-8-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "[HEAL] Laba Semester I 2026 Turun 13,8% Meski Pendapatan Naik",
+  "deck": "Materi public expose tahunan HEAL menunjukkan pendapatan semester I 2026 naik 6,5% jadi Rp3,61 triliun, sementara laba bersih turun 13,8% akibat ekspansi rumah sakit baru.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a246f5e783_7af0fa3db0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-bukukan-kontrak-baru-rp8-3-triliun-naik-118-yoy",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Bukukan Kontrak Baru [Rp8,3 Triliun], Naik 118% YoY",
+  "deck": "Perolehan kontrak baru ADHI Karya melonjak 118,4 persen secara tahunan menjadi Rp8,3 triliun hingga Juli 2026, didominasi proyek infrastruktur pemerintah.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "kontrak baru",
+   "konstruksi",
+   "infrastruktur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af9a3b0ad5_56b827947f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipcc-rombak-direksi-wing-megantoro-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "IPCC Rombak Direksi, [Wing Megantoro] Jadi Direktur Utama",
+  "deck": "RUPSLB IPCC menyetujui pergantian direksi pada 3 September 2026: Wing Megantoro jadi Direktur Utama menggantikan Sugeng Mulyadi, posisi Direktur Komersial kosong.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPCC",
+   "direksi",
+   "RUPSLB",
+   "pergantian pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/788d8078b6_2614520113.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "EMAS menjawab surat Bursa soal volatilitas sahamnya: tak ada info material baru, meski pemegang saham MDKA disebut sempat beraktivitas atas kepemilikannya.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "MDKA",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/256d4957cb_32c1844e31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
   "category": "BUMN",
   "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
@@ -6408,135 +6536,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-4169-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elsa-direktur-sdm-hera-handayani-mundur-tunggu-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "ELSA: Direktur SDM Hera Handayani [Mundur], Tunggu RUPSLB",
-  "deck": "Direktur Sumber Daya Manusia dan Umum Elnusa, Hera Handayani, mengajukan pengunduran diri pada 20 Agustus 2026, efektif setelah disetujui RUPS berikutnya.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "direksi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/65f00c7421_0ca25078c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-terima-rp746-7-m-dari-dividen-interim-amp",
-  "category": "Aksi Korporasi",
-  "title": "TAPG Terima Rp746,7 M dari [Dividen] Interim AMP",
-  "deck": "AMP, anak usaha yang 94,93 persen sahamnya dimiliki TAPG, membagikan dividen interim Rp786,6 miliar. Bagian TAPG diperkirakan sekitar Rp746,7 miliar.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "dividen interim",
-   "transaksi afiliasi",
-   "Agro Multi Persada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eb69ac6855_cd3001c90a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smkm-jawab-bursa-siapkan-rights-issue-dalam-3-bulan",
-  "category": "Aksi Korporasi",
-  "title": "SMKM Jawab Bursa, Siapkan [Rights Issue] dalam 3 Bulan",
-  "deck": "Menjawab permintaan penjelasan BEI soal volatilitas transaksi, SMKM membantah punya info material tapi mengungkap rencana rights issue dalam waktu dekat.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMKM",
-   "rights issue",
-   "PMHMETD",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/cbfe541260_8f2bb2a5f5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fwct-umumkan-rencana-rupslb-pada-1-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "FWCT Umumkan Rencana [RUPSLB] pada 1 Oktober 2026",
-  "deck": "PT Wijaya Cahaya Timber Tbk akan menggelar RUPS Luar Biasa pada 1 Oktober 2026, dengan pemegang saham per 8 September 2026 berhak hadir dan memberi suara.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FWCT",
-   "RUPSLB",
-   "RUPS",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f4fc1efeff_de923e1b63.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari",
-  "category": "Bisnis",
-  "title": "BPJS Buka [Cicilan] Iuran Mulai Rp10.000 per Hari",
-  "deck": "Program REHAB 3.0 BPJS Kesehatan memberi peserta mandiri opsi mencicil tunggakan iuran JKN mulai Rp10.000 per hari agar kepesertaan tetap aktif.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/bpjs-buka-cicilan-iuran-mulai-rp10-000-per-hari.jpg",
-  "imageV": "mt75t3n7",
-  "tags": [
-   "BPJS Kesehatan",
-   "REHAB 3.0",
-   "JKN",
-   "cicilan iuran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462162-program-rehab-30-buka-pilihan-cicilan-sesuai-kemampuan"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-jual-lagi-4-juta-saham-hak-suara-34-24",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Jual Lagi 4 Juta Saham, Hak Suara [34,24%]",
-  "deck": "Putrasakti Mandiri kembali menjual 4 juta saham KDTN pada 21 Agustus 2026 seharga Rp355 per saham untuk restrukturisasi kepemilikan dalam grup usaha, hak suaranya turun ke 34,24 persen.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "Puri Sentul Permai",
-   "kepemilikan saham",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-2921-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amar-jadwalkan-rupslb-pada-30-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "AMAR Jadwalkan [RUPSLB] pada 30 September 2026",
-  "deck": "Bank Amar Indonesia menjadwalkan RUPSLB pada 30 September 2026, sementara pemanggilan resmi berisi agenda rapat baru akan diumumkan 8 September 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAR",
-   "RUPSLB",
-   "Bank Amar Indonesia",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50b9dabeaa_caf20655e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-rupslb-setujui-komisaris-joyce-soeryadjaya-kerr-mundur",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: RUPSLB Setujui [Komisaris] Joyce Soeryadjaya Kerr Mundur",
-  "deck": "RUPSLB Saratoga 21 Agustus menyetujui pengunduran diri Komisaris Joyce Soeryadjaya Kerr dan penyesuaian anggaran dasar.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Saratoga Investama Sedaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8293b78a41_fba9b9dba4.pdf",
   "sourceLabel": "IDX"
  }
 ];

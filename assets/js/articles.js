@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
+  "deck": "Bhuwanatala Indah Permai mengundang pemegang saham ke RUPSLB 25 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:27:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4691b1101c_b00b12740b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPP",
+  "tags": [
+   "BIPP",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bhuwanatala Indah Permai Tbk (BIPP) mengundang pemegang saham menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 25 September 2026 pukul 15.00 WIB di Graha BIP lantai 11, Jalan Jenderal Gatot Subroto Kavling 23, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa tanggal 2 September 2026. Pemanggilan ini merupakan tindak lanjut dari surat pemberitahuan rencana RUPS bernomor 071/BIPP/OJK/08-2026 tertanggal 19 Agustus 2026.",
+   "Ada tiga agenda yang akan dimintakan persetujuan pemegang saham. Pertama, rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dari modal ditempatkan dan disetor penuh, yang menurut penjelasan perseroan ditujukan untuk memperkuat struktur permodalan serta memenuhi kebutuhan pendanaan dan modal kerja perseroan dan/atau entitas anak, termasuk belanja modal dan pengeluaran operasional. Kedua, perubahan anggaran dasar terkait peningkatan modal ditempatkan dan disetor sehubungan dengan PMTHMETD tersebut. Ketiga, penyesuaian Pasal 3 anggaran dasar tentang maksud, tujuan, dan kegiatan usaha agar sejalan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang berlaku sejak 18 Desember 2025, tanpa mengubah substansi kegiatan usaha utama perseroan.",
+   "Surat pemanggilan ditandatangani oleh Corporate Secretary BIPP, Arianto Sjarief, pada 3 September 2026. Bahan rapat tersedia bagi pemegang saham sejak tanggal pemanggilan hingga hari pelaksanaan RUPSLB. Dalam dokumen pemanggilan ini, perseroan belum mengungkapkan siapa calon investor maupun berapa jumlah dan harga saham baru yang akan diterbitkan lewat PMTHMETD."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a stage in a modern conference hall inside a Jakarta office tower, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena jadwal RUPSLB sudah ditetapkan untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu, namun BIPP masih belum mengungkapkan siapa investor yang akan menyerap saham baru maupun berapa jumlah dan harga sahamnya. PMTHMETD berarti perseroan menerbitkan saham baru tanpa menawarkannya lebih dulu secara proporsional ke pemegang saham lama, sehingga porsi kepemilikan dan laba per saham pemegang lama berpotensi tergerus begitu saham baru itu terbit, sementara jumlah saham beredar bertambah dan ekuitas mestinya naik jika dana yang terkumpul benar masuk ke kas perseroan. Yang perlu dipantau adalah keputusan dan penjelasan tambahan pada RUPSLB tanggal 25 September 2026, terutama apakah perseroan akhirnya mengumumkan nama investor, jumlah saham baru, dan harga pelaksanaannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hdfa-cetak-laba-rp1-53-miliar-bangkit-dari-rugi-2025",
+  "category": "Aksi Korporasi",
+  "title": "HDFA Cetak Laba Rp1,53 Miliar, [Bangkit] dari Rugi 2025",
+  "deck": "Radana Bhaskara Finance (HDFA) membukukan laba bersih Rp1,53 miliar pada semester I 2026, berbalik dari rugi Rp82 miliar sepanjang 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:10:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79ea3c4bba_a6f0440120.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HDFA",
+  "tags": [
+   "HDFA",
+   "multifinance",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "body": [
+   "PT Radana Bhaskara Finance Tbk (HDFA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, menindaklanjuti rencana yang sudah diumumkan lewat surat tertanggal 24 Agustus 2026. Paparan publik itu sendiri dijadwalkan berlangsung pada 8 September 2026 di Jakarta. Dalam materi tersebut, perusahaan pembiayaan yang fokus pada pembiayaan alat berat dan modal kerja ini mengungkap kinerja keuangannya hingga semester I 2026: laba bersih Rp1,53 miliar, berbalik dari rugi bersih Rp82 miliar yang dibukukan sepanjang tahun 2025. Pendapatan pada semester tersebut tercatat Rp200 miliar dengan beban operasional Rp199 miliar.",
+   "Dari sisi neraca, total aset Radana Finance per semester I 2026 mencapai Rp2,99 triliun, dengan total liabilitas atau utang Rp2,50 triliun dan ekuitas atau modal sendiri Rp493 miliar. Perusahaan menyalurkan pembiayaan baru senilai Rp1,64 triliun pada semester tersebut, terdiri dari factoring atau anjak piutang 54,88 persen, pembiayaan berbasis aset (ABF) 34,15 persen, dan pembiayaan modal kerja (FMU) 10,98 persen. Piutang pembiayaan yang masih berjalan tercatat sekitar Rp2,6 triliun. Rasio kredit bermasalah bersih, atau NPF-Net, membaik menjadi 2,62 persen per Juni 2026, turun 68 basis poin dibanding posisi akhir 2025 yang sebesar 3,30 persen.",
+   "Komposisi pemegang saham Radana Finance yang disampaikan dalam materi ini terdiri dari Rubicon Investments Holding Pte Ltd sebagai pengendali dengan 55,2 persen saham, PT Tiara Marga Trakindo 37,2 persen, dan publik 7,6 persen. Untuk setahun penuh 2026, manajemen memproyeksikan pembiayaan baru Rp4,15 triliun, laba bersih Rp8 miliar, dan total aset Rp3,63 triliun. Strategi yang disebutkan untuk mencapai target itu antara lain memperluas kerja sama dengan dealer eksisting dan baru, menawarkan pembiayaan modal kerja ke debitur lama lewat cross-selling, serta memperluas akses pendanaan dari bank domestik dan internasional dengan bunga yang kompetitif."
+  ],
+  "fotoAdegan": "Rows of yellow heavy excavators parked at an equipment dealer yard, a worker inspecting machinery in early morning light",
+  "takeaway": "Laporan ini netral bagi HDFA: pembalikan dari rugi ke laba dan perbaikan kualitas kredit adalah kabar baik, tapi labanya masih sangat tipis dan ekuitas belum pulih ke level sebelum masa sulit. Yang tersentuh di sini adalah ekuitas dan laba bersih: ekuitas, yaitu modal sendiri perusahaan yang jadi bantalan kalau bisnis rugi, tercatat Rp493 miliar pada semester I 2026, jauh di bawah Rp616 miliar pada 2023, sementara utangnya mencapai Rp2,50 triliun atau sekitar lima kali lipat ekuitasnya, wajar untuk perusahaan pembiayaan tapi tetap membuatnya rentan kalau kualitas kreditnya memburuk lagi. Rasio kredit bermasalah alias NPF membaik ke 2,62 persen dari 3,30 persen pada akhir 2025, tanda perusahaan makin selektif memilih debitur atau makin berhasil menagih piutang macet. Yang perlu dipantau adalah paparan publik pada 8 September 2026, saat manajemen akan menjelaskan langsung kepada investor apakah perbaikan semester pertama ini bisa berlanjut, mengingat proyeksi manajemen sendiri untuk laba bersih setahun penuh 2026 hanya sekitar Rp8 miliar, tipis dibanding aset Rp3,63 triliun yang diproyeksikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dooh-paparkan-visi-jadi-holding-ekosistem-ai-usai-sii-masuk",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Paparkan Visi Jadi Holding [Ekosistem AI] Usai SII Masuk",
+  "deck": "DOOH memaparkan materi public expose insidentil yang diminta bursa, memuat visi jadi holding ekosistem AI setelah SII masuk sebagai pengendali baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:04:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9703141db0_6342f2b625.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Sinergi Internasional Investama",
+   "Ekosistem AI"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan materi Public Expose Insidentil kepada Bursa Efek Indonesia pada Kamis, 3 September 2026, memenuhi permintaan otoritas bursa untuk menjelaskan perkembangan perseroan setelah masuknya pengendali baru, PT Sinergi Internasional Investama (SII). Paparan publik dijadwalkan Jumat, 4 September 2026 pukul 15.00 WIB melalui Zoom, dengan jajaran direksi perseroan sebagai pembicara. Materi memuat empat pokok bahasan sesuai permintaan bursa: perjalanan bisnis perseroan, kinerja keuangan interim, visi dan misi baru, serta arah pengembangan usaha.",
+   "Berdasarkan laporan keuangan konsolidasian interim per 30 Juni 2026 yang belum diaudit, total aset perseroan naik dari Rp345,97 miliar pada akhir 2025 menjadi Rp406,51 miliar. Total ekuitas bertambah dari Rp241,49 miliar menjadi Rp309,53 miliar. Pendapatan semester pertama 2026 tercatat Rp84,27 miliar, naik dari Rp73,49 miliar pada periode sama tahun lalu, sementara laba periode berjalan melonjak dari Rp6,63 miliar menjadi Rp63,99 miliar. Di bawah pengendali baru SII, DOOH mengusung visi menjadi ekosistem AI terlengkap di Indonesia lewat lima pilar infrastruktur: pusat data, internet cepat, jaringan serat optik, kabel laut, dan energi hijau berbasis pembangkit listrik tenaga surya.",
+   "Manajemen memaparkan rencana perseroan bertransformasi menjadi perusahaan induk yang menaungi bisnis-bisnis baru sesuai lima pilar tersebut, baik lewat pengembangan organik atas aset yang sudah dimiliki maupun penyertaan atau akuisisi pada perusahaan yang sejalan dengan visi itu. Sebagai pendukung argumen, perseroan mengutip proyeksi pasar dari sejumlah lembaga riset, antara lain perkiraan kapasitas pusat data Indonesia tumbuh sekitar 2,5 kali dalam lima tahun serta program PLTS nasional 100 gigawatt yang disebut membuka potensi investasi sekitar US$73 miliar. Manajemen menegaskan rincian aksi korporasi yang mendukung ekspansi ini akan diumumkan lebih lanjut melalui keterbukaan informasi sesuai ketentuan OJK dan BEI, dan seluruh rencana masih tunduk pada kajian kelayakan serta persetujuan korporasi yang dipersyaratkan."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks with blinking indicator lights inside a modern data center hall, fiber optic cables bundled along the floor",
+  "takeaway": "Paparan ini kami nilai netral bagi fundamental DOOH: isinya didominasi visi besar dan proyeksi pasar pihak ketiga soal AI dan energi hijau, sementara langkah bisnis konkret milik perseroan sendiri, termasuk sumber dana dan target waktu, belum diumumkan. Yang bergerak justru pos ekuitas, yaitu total modal pemegang saham, yang naik dari Rp241,49 miliar menjadi Rp309,53 miliar pada semester pertama 2026, dan modal inilah yang menentukan seberapa besar kapasitas perseroan membiayai ekspansi tanpa banyak berutang atau menerbitkan saham baru. Lonjakan laba periode berjalan menjadi Rp63,99 miliar juga perlu dibaca hati-hati sebab, seperti pernah kami laporkan, kenaikan itu ditopang pos nonoperasional, bukan cerminan membaiknya bisnis periklanan inti perseroan. Yang perlu dipantau berikutnya adalah sesi paparan publik itu sendiri pada Jumat, 4 September 2026 pukul 15.00 WIB, serta keterbukaan informasi lanjutan soal aksi korporasi konkret seperti akuisisi atau penyertaan modal, yang menurut manajemen baru akan diumumkan terpisah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "krya-tanggapi-bei-soal-volatilitas-transaksi-kaji-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "KRYA Tanggapi BEI soal [Volatilitas] Transaksi, Kaji Aksi Korporasi",
+  "deck": "KRYA menjawab surat BEI terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru namun mengaku tengah mengkaji kemungkinan aksi korporasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:04:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3756911af_aa002fb9dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRYA",
+  "tags": [
+   "KRYA",
+   "volatilitas saham",
+   "BEI",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Bangun Karya Perkasa Jaya Tbk (KRYA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11178/BEI.PP3/09-2026 tertanggal 1 September 2026, yang meminta perseroan menjelaskan volatilitas transaksi efeknya. Tanggapan itu disampaikan melalui surat bernomor 0080/CORSEC/BKPJ/IX/2026 tertanggal 3 September 2026, ditandatangani secara elektronik oleh Direktur KRYA, Nadira Zatina Kamil.",
+   "Dalam surat itu, KRYA menegaskan sampai dengan 3 September 2026 tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga efek perseroan, sebagaimana diatur dalam POJK 31/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu terkait perubahan kepemilikan atau penjaminan saham sesuai POJK 4/2024, dan pemegang saham utama disebut tidak memiliki rencana mengubah kepemilikan sahamnya di KRYA.",
+   "Meski begitu, perseroan mengakui sedang mempelajari dan mempertimbangkan kemungkinan aksi korporasi, tanpa merinci bentuknya, dan berjanji akan menyampaikan keterbukaan informasi lanjutan begitu ada keputusan final. Surat tanggapan yang dilampirkan turut mencantumkan tanda tangan William Teng selaku Presiden Direktur, sementara pelaporan ke sistem BEI dikirimkan oleh Direktur Nadira Zatina Kamil."
+  ],
+  "fotoAdegan": "Steel construction workers welding structural beams at a building site, sparks flying, hard hats, late afternoon light",
+  "takeaway": "Tanggapan ini condong netral bagi KRYA karena tidak ada fakta material baru yang diungkap, hanya konfirmasi rutin bahwa manajemen tidak mengetahui penyebab pergerakan harga sahamnya. Yang perlu dicermati adalah pengakuan bahwa perseroan tengah mempelajari kemungkinan aksi korporasi, semacam langkah besar seperti penerbitan saham baru atau perubahan struktur permodalan, yang jika terealisasi bisa menambah jumlah saham beredar sehingga laba per saham pemegang saham lama berpotensi terdilusi, atau sebaliknya membawa dana segar bagi perseroan tergantung bentuknya. Investor perlu memantau apakah KRYA akan menerbitkan keterbukaan informasi lanjutan begitu ada keputusan final soal aksi korporasi ini, sebab surat tanggapan tidak mencantumkan tenggat waktu pastinya. Volatilitas harga saham yang memicu surat permintaan BEI ini juga layak terus diawasi, karena permintaan penjelasan semacam ini biasanya muncul setelah pergerakan harga atau volume transaksi yang tidak wajar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "heal-laba-semester-i-2026-turun-13-8-meski-pendapatan-naik",
+  "category": "Aksi Korporasi",
+  "title": "[HEAL] Laba Semester I 2026 Turun 13,8% Meski Pendapatan Naik",
+  "deck": "Materi public expose tahunan HEAL menunjukkan pendapatan semester I 2026 naik 6,5% jadi Rp3,61 triliun, sementara laba bersih turun 13,8% akibat ekspansi rumah sakit baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:04:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a246f5e783_7af0fa3db0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) menyampaikan materi Public Expose Tahunan melalui surat No. 468/DIR/MH/IX/2026 yang ditandatangani Direktur Perusahaan Yulisar Khiat, sebagai tindak lanjut dari rencana public expose yang sebelumnya diumumkan lewat surat No. 450/DIR/MH/VIII/2026. Materi bertajuk 'Kinerja Semester 1 2026' ini memaparkan kondisi operasional perseroan yang kini mengoperasikan 54 rumah sakit dengan 9.019 tempat tidur di 37 kota dan 17 provinsi, serta kinerja keuangan perusahaan pada semester I 2026 (6M26).",
+   "Dari sisi keuangan, pendapatan perseroan naik 6,5 persen menjadi Rp3.609 miliar dari Rp3.389 miliar pada periode sama tahun lalu. EBITDA hanya naik tipis 0,1 persen menjadi Rp940 miliar, dengan margin EBITDA turun dari 28,83 persen menjadi 25,83 persen. Laba kotor naik 3,4 persen menjadi Rp1.236 miliar, tetapi laba bersih setelah pajak (PAT) turun 13,8 persen menjadi Rp249 miliar, dan laba bersih yang menjadi hak pemilik entitas induk (PATMI) turun 12,2 persen menjadi Rp193 miliar. Pendapatan rawat inap tumbuh 11,62 persen menjadi Rp2.251 miliar, sementara pendapatan rawat jalan BPJS dan non-BPJS masing-masing naik 7,09 persen dan 6,50 persen.",
+   "Perseroan membuka dua rumah sakit baru sepanjang 2026: RS Hermina Badung Bali, rumah sakit ke-53, yang diresmikan oleh Direktur Utama PT Medikaloka Hermina Badung Brigadir Jenderal (Purn.) dr. Hasmoro bersama Direktur Utama HEAL dr. Yulisar Khiat dan Bupati Badung I Wayan Adi Arnawa; serta RS Hermina Kepanjen di Kabupaten Malang dengan kapasitas awal 100 tempat tidur tipe C yang ditargetkan mulai beroperasi tahun ini. Perseroan menyebut ekspansi ini menekan laba secara temporer karena biaya operasional rumah sakit baru belum sebanding dengan pendapatannya.",
+   "Di sisi pendanaan, PEFINDO kembali menegaskan peringkat kredit AA untuk HEAL pada Mei 2026 dengan prospek stabil. Setelah melunasi obligasi Rp58 miliar pada Juli dan September 2025, total obligasi yang masih beredar per Juni 2026 tercatat Rp63 miliar. Total utang perseroan per Juni 2026 mencapai Rp3.652 miliar dengan utang bersih Rp2.808 miliar dan rasio utang bersih terhadap EBITDA 1,49 kali, sementara arus kas dari kegiatan operasi naik 15,6 persen menjadi Rp520,3 miliar dengan kas dan setara kas akhir periode sebesar Rp571,8 miliar."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding building an upper floor extension onto a hospital block under bright tropical daylight",
+  "takeaway": "Laporan ini netral bagi Medikaloka Hermina: pendapatan dan volume pasien tumbuh sehat, tetapi laba bersih turun dua digit karena beban pembukaan rumah sakit baru, sehingga belum bisa dibaca sebagai sinyal jelas ke satu arah. Yang tersentuh adalah margin EBITDA, yaitu perbandingan laba operasional kotor terhadap pendapatan sebelum dipotong bunga, pajak, dan penyusutan, yang turun dari 28,8 persen menjadi 25,8 persen karena biaya karyawan dan operasional rumah sakit baru belum sebanding dengan pendapatan yang dihasilkannya. Di sisi lain, uang kas yang benar-benar masuk dari kegiatan usaha justru naik 15,6 persen, tanda bahwa penurunan laba akuntansi belum tentu berarti bisnis intinya melemah. Yang perlu dipantau berikutnya adalah penyelenggaraan Public Expose Tahunan pada 24 September 2026, serta apakah margin laba membaik pada kuartal-kuartal berikutnya setelah RS Kepanjen dan RS Badung Bali beroperasi penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-bukukan-kontrak-baru-rp8-3-triliun-naik-118-yoy",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Bukukan Kontrak Baru [Rp8,3 Triliun], Naik 118% YoY",
+  "deck": "Perolehan kontrak baru ADHI Karya melonjak 118,4 persen secara tahunan menjadi Rp8,3 triliun hingga Juli 2026, didominasi proyek infrastruktur pemerintah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T18:03:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af9a3b0ad5_56b827947f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "kontrak baru",
+   "konstruksi",
+   "infrastruktur"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) melaporkan perolehan kontrak baru sebesar Rp8,3 triliun hingga Juli 2026, naik 118,4 persen dibandingkan periode yang sama tahun lalu yang tercatat Rp3,8 triliun. Perusahaan menyampaikan capaian ini dalam keterbukaan informasi ke Bursa Efek Indonesia pada 3 September 2026, dengan tanggal kejadian per 31 Juli 2026.",
+   "Dari total kontrak baru tersebut, Rp5,27 triliun berasal dari proyek yang dikerjakan sendiri oleh ADHI atau non-joint operation, sedangkan Rp2,99 triliun berasal dari proyek kerja sama operasi dengan mitra atau joint operation. Berdasarkan lini bisnis, 92 persen kontrak baru berasal dari lini Engineering & Construction, disusul Property & Hospitality dan Manufacture yang masing-masing menyumbang 3 persen, serta Investment sebesar 2 persen. Dilihat dari jenis pekerjaan, 80 persen merupakan proyek infrastruktur, 14 persen proyek gedung, dan 5 persen pekerjaan lain. Dari sisi pemberi kerja, proyek pemerintah menyumbang 70 persen, BUMN dan BUMD 29 persen, serta swasta hanya 1 persen.",
+   "Sejumlah proyek strategis yang diperoleh ADHI hingga Juli 2026 antara lain Proyek Tanggap Darurat Sumatera Utara, Proyek Tambak Udang Waingapu, Estate Management IKN, Sekolah Rakyat Provinsi Jawa Tengah 2, Bandara Sentani, serta Sekolah Rakyat Tahap 3 Papua. Corporate Secretary ADHI, Siswanto, mengatakan capaian ini merupakan bagian dari strategi perusahaan menjaga kualitas pertumbuhan melalui penguatan bisnis inti, peningkatan kualitas operasional, serta selektivitas dalam memperoleh proyek."
+  ],
+  "fotoAdegan": "Construction workers assembling steel rebar at a large infrastructure site, cranes and scaffolding rising behind them under an overcast sky",
+  "takeaway": "Laporan ini positif bagi ADHI karena kenaikan kontrak baru 118,4 persen secara tahunan menunjukkan permintaan proyek jauh lebih kuat dibanding tahun lalu, dan dominasi proyek pemerintah serta BUMN menandakan aliran pekerjaan yang relatif stabil ke depan. Kontrak baru ini adalah nilai proyek yang baru ditandatangani dan belum sepenuhnya menjadi pendapatan, sebab pendapatan konstruksi baru diakui secara bertahap seiring progres pengerjaan proyek, sehingga angka ini lebih mencerminkan potensi pendapatan ke depan atau yang biasa disebut order book, bukan kas yang sudah diterima perusahaan saat ini. Yang perlu dipantau selanjutnya adalah laporan perolehan kontrak baru periode berikutnya, untuk melihat apakah tren kenaikan ini masih bertahan hingga akhir 2026 atau hanya efek dari basis pembanding tahun lalu yang rendah.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ipcc-rombak-direksi-wing-megantoro-jadi-direktur-utama",
+  "category": "Aksi Korporasi",
+  "title": "IPCC Rombak Direksi, [Wing Megantoro] Jadi Direktur Utama",
+  "deck": "RUPSLB IPCC menyetujui pergantian direksi pada 3 September 2026: Wing Megantoro jadi Direktur Utama menggantikan Sugeng Mulyadi, posisi Direktur Komersial kosong.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:57:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/788d8078b6_2614520113.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCC",
+  "tags": [
+   "IPCC",
+   "direksi",
+   "RUPSLB",
+   "pergantian pengurus"
+  ],
+  "body": [
+   "PT Indonesia Kendaraan Terminal Tbk. (IPCC) mengumumkan perubahan susunan direksi dan dewan komisaris menyusul keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar pada 3 September 2026. Keputusan ini tertuang dalam Ringkasan Risalah RUPSLB yang dikeluarkan oleh Notaris Aulia Taufani, S.H. di Jakarta Selatan dengan nomor surat 06/IX/2026 tertanggal sama.",
+   "Di jajaran direksi, Wing Megantoro naik menjadi Direktur Utama menggantikan Sugeng Mulyadi yang sebelumnya menjabat posisi tersebut. Wing sendiri sebelumnya menjabat Direktur Keuangan, SDM dan Manajemen Risiko, kursi yang kini diisi oleh Bagus Dwipoyono. Sementara posisi yang ditinggalkan Bagus Dwipoyono, yaitu Direktur Operasi dan Teknik, kini dijabat oleh Donny Yuniarto. Satu kursi, yaitu Direktur Komersial dan Pengembangan Bisnis, dinyatakan lowong tanpa pengganti.",
+   "Di jajaran komisaris, tidak ada pergantian orang. RUPSLB mengukuhkan kembali M. Said Bakhri sebagai Komisaris Utama, serta Herry Ardianto dan Tri Hidayat sebagai Komisaris Independen, dengan tanggal pengangkatan efektif masing-masing 17 Juni 2025 untuk M. Said Bakhri dan Herry Ardianto, dan 17 Juni 2026 untuk Tri Hidayat. Dalam laporannya kepada Otoritas Jasa Keuangan, manajemen IPCC menyatakan perubahan susunan pengurus ini tidak berdampak material terhadap operasional maupun keuangan perusahaan."
+  ],
+  "fotoAdegan": "Rows of new cars parked at a large port vehicle terminal, workers in safety vests walking between vehicles under an overcast sky",
+  "takeaway": "Perubahan direksi ini bersifat netral bagi fundamental IPCC, karena murni rotasi jabatan tanpa disertai suntikan modal, perubahan utang, atau kontrak bisnis baru yang bisa langsung memengaruhi kinerja keuangan. Yang tersentuh dari perubahan ini adalah sisi tata kelola dan arah eksekusi strategi, terutama karena posisi Direktur Komersial dan Pengembangan Bisnis yang mengurus pengembangan pendapatan usaha kini kosong, sehingga ada risiko jeda dalam pengambilan keputusan komersial sampai posisi itu terisi. Susunan komisaris tidak berubah personelnya, hanya dikukuhkan ulang lewat RUPSLB, sehingga fungsi pengawasan terhadap manajemen relatif tetap sama. Yang perlu dipantau selanjutnya adalah kapan dan siapa yang akan mengisi kursi kosong Direktur Komersial dan Pengembangan Bisnis, serta bagaimana direksi baru di bawah Wing Megantoro menjalankan program kerja ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "emas-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "EMAS menjawab surat Bursa soal volatilitas sahamnya: tak ada info material baru, meski pemegang saham MDKA disebut sempat beraktivitas atas kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T17:56:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/256d4957cb_32c1844e31.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "Merdeka Gold Resources",
+   "MDKA",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) mengirimkan surat penjelasan kepada Bursa Efek Indonesia (BEI) pada 3 September 2026 pukul 17.56 WIB, menanggapi permintaan penjelasan BEI melalui surat nomor S-11207/BEI.PP1/09-2026 terkait volatilitas transaksi saham perseroan. Surat balasan bernomor 119/EMAS-JKT/CORSEC/IX/2026 itu ditandatangani Corporate Secretary EMAS, Adi Adriansyah Sjoekri.",
+   "Dalam surat itu, EMAS menyatakan sampai saat penjelasan dikirim, perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya, baik menurut POJK 31/2015 tentang keterbukaan informasi maupun Peraturan I-E BEI. Perseroan juga menyebut belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang bisa berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi penting lain yang belum diungkapkan ke publik.",
+   "Soal aktivitas pemegang saham, EMAS mengonfirmasi bahwa PT Merdeka Copper Gold Tbk (MDKA), salah satu pemegang sahamnya, telah melakukan aktivitas terkait kepemilikan sahamnya di EMAS dan telah melaporkannya sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham perusahaan terbuka. Surat ini tidak merinci bentuk maupun jumlah aktivitas tersebut. Perseroan menambahkan, berdasarkan informasi yang diterima, pemegang saham utama dan pengendali EMAS saat ini tidak atau belum memiliki rencana khusus terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Exterior of modern glass office towers in Jakarta's SCBD business district, morning light, pedestrians walking below.",
+  "takeaway": "Laporan ini netral bagi EMAS karena isinya sebatas bantahan formal atas permintaan penjelasan bursa, tanpa angka atau rencana konkret yang mengubah gambaran keuangan perusahaan. Yang disinggung di sini adalah komposisi pemegang saham, sebab aktivitas MDKA atas sahamnya di EMAS, entah menambah atau mengurangi kepemilikan, bisa memengaruhi persepsi pasar terhadap komitmen pemegang saham utama, meski dokumen ini tidak merinci jenis maupun jumlah transaksinya. Pelaku pasar perlu menunggu laporan kepemilikan saham resmi dari MDKA untuk tahu persis apa yang terjadi, karena surat ini hanya mengonfirmasi laporan itu sudah disampaikan sesuai POJK 4/2024 tanpa membeberkan isinya. Yang perlu dipantau berikutnya adalah apakah dalam tiga bulan ke depan, sebagaimana disebut dalam surat ini, muncul tindakan korporasi yang berdampak pada pencatatan saham EMAS di bursa, serta apakah laporan kepemilikan saham MDKA berikutnya mengungkap detail yang lebih jelas.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
   "category": "BUMN",
   "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",

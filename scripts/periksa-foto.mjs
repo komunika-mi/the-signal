@@ -24,8 +24,30 @@
 //   node scripts/periksa-foto.mjs --semua   periksa seluruh arsip
 import fs from 'node:fs';
 import path from 'node:path';
-import { execFileSync } from 'node:child_process';
+import { execFileSync, execFile } from 'node:child_process';
 import { ROOT, log, readData, get, retry, cariFotoUtama, UA } from './lib.mjs';
+
+// Menjalankan proses anak TANPA memblokir event loop.
+//
+// Dulu curl dan ffmpeg dipanggil lewat execFileSync. Di skrip berurutan itu
+// tidak masalah; di skrip ini, yang menjalankan SERENTAK pekerja async di
+// SATU event loop, satu execFileSync membekukan keempat pekerja sekaligus.
+// Akibatnya bukan sekadar lambat: pewaktu berbatas() milik pekerja LAIN terus
+// berjalan selama pembekuan itu, jadi artikel yang cuma sedang antre ikut
+// "kalah lomba 45 detik" padahal jaringannya sendiri baik-baik saja, lalu
+// dicatat sebagai yatim dan akhirnya "menggantung". Terlihat 3 September 2026:
+// dua putaran berturut menggantungkan slug tvOne yang sama, yang dari koneksi
+// lain terunduh dalam 0,09 detik.
+//
+// Tidak melempar: mengembalikan {ok, stderr} supaya pemanggil tetap bisa
+// memakai pola "return null" seperti semula. Batas waktu proses dipasang
+// eksplisit supaya ffmpeg yang tersangkut pun tidak bisa menggantung selamanya.
+function jalankan(cmd, args, timeoutMs) {
+  return new Promise((selesai) => {
+    execFile(cmd, args, { encoding: 'utf8', timeout: timeoutMs, killSignal: 'SIGKILL', maxBuffer: 8 * 1024 * 1024 },
+      (err, stdout, stderr) => selesai({ ok: !err, stdout: stdout || '', stderr: String(stderr || (err && err.message) || '') }));
+  });
+}
 
 const IMG_DIR = path.join(ROOT, 'assets/img');
 const TMP = process.env.TEMP || process.env.TMPDIR || '/tmp';
@@ -47,11 +69,15 @@ const berkasSementara = (awalan, akhiran) =>
 // 680px dan dikompresi ulang, jadi byte-nya pasti berbeda dari berkas asli di
 // server sumber meski gambarnya sama persis. MD5 akan melaporkan semuanya
 // berbeda dan penjaganya jadi tidak berguna.
-function sidikPersepsi(berkas) {
+async function sidikPersepsi(berkas) {
   const keluar = berkasSementara('sidik', '.pgm');
   try {
-    execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', berkas,
-      '-vf', 'scale=16:16,format=gray', '-frames:v', '1', keluar], { encoding: 'utf8' });
+    // ffmpeg dijalankan async (lihat jalankan() di atas). Hasil sidiknya
+    // identik dengan versi sinkron - yang berubah hanya event loop tidak lagi
+    // dibekukan selama ffmpeg bekerja.
+    const r = await jalankan('ffmpeg', ['-y', '-loglevel', 'error', '-i', berkas,
+      '-vf', 'scale=16:16,format=gray', '-frames:v', '1', keluar], 20000);
+    if (!r.ok) return null;
     const buf = fs.readFileSync(keluar);
     // PGM biner: header "P5\n16 16\n255\n" lalu 256 byte data.
     const data = buf.subarray(buf.length - 256);
@@ -73,10 +99,13 @@ const jarak = (a, b) => {
   return d;
 };
 
-function unduhSementara(url) {
+async function unduhSementara(url) {
   const tujuan = berkasSementara('periksa', '.img');
   try {
-    execFileSync('curl', ['-sL', '--max-time', '15', '-A', UA, '-o', tujuan, url], { encoding: 'utf8' });
+    // curl dijalankan async; --max-time 15 tetap jadi batas jaringannya,
+    // batas proses 20 detik cuma jaring kalau curl sendiri yang tersangkut.
+    const r = await jalankan('curl', ['-sL', '--max-time', '15', '-A', UA, '-o', tujuan, url], 20000);
+    if (!r.ok) return null;
     if (!fs.existsSync(tujuan) || fs.statSync(tujuan).size < 2000) return null;
     return tujuan;
   } catch { return null; }
@@ -174,11 +203,12 @@ async function periksaSatu(a) {
     // Sumber tidak bisa diambil sekarang: jatuh ke alamat yang tersimpan.
   }
 
-  const unduhan = unduhSementara(fotoSumberKini);
+  const unduhan = await unduhSementara(fotoSumberKini);
   if (!unduhan) { takTerperiksa++; return; }
 
-  const sKita = sidikPersepsi(berkasKita);
-  const sSumber = sidikPersepsi(unduhan);
+  // Dua sidik dihitung berbarengan: keduanya cuma menunggu ffmpeg, tidak
+  // saling bergantung, dan sekarang tidak ada lagi yang membekukan event loop.
+  const [sKita, sSumber] = await Promise.all([sidikPersepsi(berkasKita), sidikPersepsi(unduhan)]);
   fs.rmSync(unduhan, { force: true });
 
   if (!sKita || !sSumber) { takTerperiksa++; return; }
@@ -206,6 +236,17 @@ async function periksaSatu(a) {
 //
 // Jadi yang dilepas dicatat, ditunggu sebentar, dan kalau tetap belum selesai
 // saat laporan disusun, hasilnya TIDAK boleh disebut bersih.
+//
+// KENAPA DULU BANYAK YANG KALAH LOMBA PADAHAL SUMBERNYA SEHAT (3 September
+// 2026). curl dan ffmpeg dipanggil sinkron di dalam pekerja async: satu
+// execFileSync membekukan event loop, jadi pewaktu berbatas() milik tiga
+// pekerja lain terus berjalan sementara pekerjaan mereka tidak bisa maju.
+// Artikel yang cuma antre ikut "lewat batas 45 detik", dilepas jadi yatim,
+// dan tenggang 20 detik ikut beku selama yatim itu memanggil curl. Buktinya:
+// dua putaran pemantau berturut menggantungkan slug tvOne yang sama, yang dari
+// koneksi lain terunduh 0,09 detik, dan pola yang sama sudah tercatat sehari
+// sebelumnya. Sekarang keduanya async (jalankan() di atas), pekerja
+// benar-benar paralel, dan tenggang di bawah benar-benar menunggu.
 const yatim = [];
 let kursor = 0;
 async function pekerja() {
@@ -232,12 +273,36 @@ await Promise.all(Array.from({ length: SERENTAK }, () => pekerja()));
 
 // Masa tenggang untuk yang dilepas. Kalau mereka sempat selesai, temuannya
 // ikut terhitung; kalau tidak, jumlahnya dilaporkan dan hasilnya tidak bersih.
-const TENGGANG_YATIM_MS = Number(process.env.PERIKSA_FOTO_TENGGANG_MS || 20000);
+//
+// 20 -> 40 detik, dan DIBATASI sisa anggaran penjaga waktu (3 September 2026).
+//
+// Ekor terpanjang satu pemeriksaan yang dilepas, diukur dari kodenya sendiri:
+// get() satu percobaan 12 detik (retry(...,1) = tanpa ulang) + curl
+// --max-time 15 + dua ffmpeg sekejap = sekitar 30 detik. Tenggang 20 detik
+// berarti yatim yang sedang sehat pun kehabisan waktu kalau ia dilepas tepat
+// di awal ekornya. 40 menutup ekor itu dengan sisa.
+//
+// Batasnya bukan angka tetap: penjaga waktu di atas menembak pada TENGGAT +
+// 60 detik dan langkah workflow-nya sendiri berpagar 8 menit. Kalau putaran
+// utama sudah memakan hampir seluruh tenggat, tenggang mengecil sendiri
+// supaya laporan tetap sempat dicetak. Yang dicetak adalah laporan, bukan
+// "MACET" dari penjaga waktu - itu satu-satunya cara membedakan "sumber
+// lambat" dari "alatnya rusak".
+//
+// Tenggang ini baru berarti sesudah curl dan ffmpeg dibuat async: dulu
+// jajak 250 ms di bawah ikut beku selama execFileSync milik yatim berjalan.
+const TENGGANG_YATIM_MS = Number(process.env.PERIKSA_FOTO_TENGGANG_MS || 40000);
 if (yatim.length) {
-  const batasTunggu = Date.now() + TENGGANG_YATIM_MS;
+  const sisaAnggaran = (TENGGAT_MS + 60000) - (Date.now() - mulai) - 5000;
+  const tenggang = Math.max(0, Math.min(TENGGANG_YATIM_MS, sisaAnggaran));
+  const awalTunggu = Date.now();
+  const batasTunggu = awalTunggu + tenggang;
   while (yatim.some(y => !y.selesai) && Date.now() < batasTunggu) {
     await new Promise(r => setTimeout(r, 250));
   }
+  log('yatim: ' + yatim.length + ' dilepas dari lomba, ditunggu ' +
+    Math.round((Date.now() - awalTunggu) / 1000) + ' detik (tenggang ' + Math.round(tenggang / 1000) +
+    '), ' + yatim.filter(y => y.selesai).length + ' selesai dalam tenggang');
 }
 const yatimMenggantung = yatim.filter(y => !y.selesai);
 takTerperiksa += yatimMenggantung.length;

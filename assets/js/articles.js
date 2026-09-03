@@ -3,6 +3,214 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
+  "category": "Aksi Korporasi",
+  "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
+  "deck": "SMDR mengoreksi laporan realisasi dana sukuk Rp700 miliar menanggapi telaah OJK. Dana bersih Rp694,23 miliar tercatat masih 100 persen belum terpakai per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T22:41:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ff93d4acc1_491190cf92.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "sukuk",
+   "OJK"
+  ],
+  "body": [
+   "Samudera Indonesia Tbk (SMDR) mengirim surat koreksi kepada Otoritas Jasa Keuangan atas laporan realisasi penggunaan dana hasil penerbitan Sukuk Ijarah Berkelanjutan I Tahap III Tahun 2026 senilai Rp700 miliar, untuk posisi laporan per 30 Juni 2026. Koreksi ini merupakan tanggapan atas surat hasil penelaahan OJK bernomor S-1529/PM.221/2026 terhadap laporan sebelumnya yang disampaikan pada 15 Juli 2026. Sukuk tersebut efektif diterbitkan pada 13 Mei 2026. Surat koreksi ditandatangani Corporate Secretary Idaman Putri Erwin dan dikirim ke OJK pada 2 September 2026.",
+   "Dari dana yang terkumpul Rp700 miliar, sebesar Rp5,77 miliar terpakai untuk biaya penawaran umum, terdiri dari biaya penjaminan Rp350 juta, biaya penyelenggaraan Rp3,5 miliar, biaya penjualan Rp350 juta, biaya profesi penunjang pasar modal Rp415,2 juta, biaya lembaga penunjang pasar modal Rp647 juta, biaya konsultasi keuangan Rp40 juta, dan biaya lain-lain Rp467,7 juta. Hasil bersih Rp694,23 miliar direncanakan dipakai untuk dua proyek: Rp238,05 miliar atau 34,29 persen untuk pembangunan satu unit kapal kontainer beserta biaya pra-operasi peluncurannya, dan Rp456,18 miliar atau 65,71 persen untuk pembiayaan kepada anak usaha PT Samudera Pekapalan Indonesia guna pembangunan dua unit kapal tanker kimia.",
+   "Namun hingga periode laporan 30 Juni 2026, seluruh dana Rp694,23 miliar itu tercatat belum terpakai sama sekali untuk kedua proyek tersebut. Seluruh dana masih ditempatkan di rekening giro rupiah syariah pada Bank Syariah Indonesia atas nama Samudera Indonesia Tbk, dengan imbal hasil penempatan 4,25 persen per tahun. Bank tersebut berstatus pihak ketiga yang tidak berafiliasi dengan perusahaan."
+  ],
+  "fotoAdegan": "Shipyard workers welding steel plates on an unfinished cargo ship hull, harbor cranes and dry dock in the background, overcast sky",
+  "takeaway": "Laporan ini netral bagi Samudera Indonesia karena sifatnya koreksi administratif menanggapi telaah OJK, bukan perubahan pada rencana penggunaan dana maupun nilai proyek dua kapal yang dibiayai. Yang tersentuh adalah arus kas perusahaan, sebab sukuk ijarah ini instrumen utang berbasis syariah yang mewajibkan Samudera Indonesia membayar imbal hasil berkala mirip bunga obligasi, sementara ekuitas dan jumlah saham beredar tidak berubah karena ini bukan penerbitan saham baru. Yang perlu dicermati, hingga akhir Juni 2026 seluruh dana Rp694,23 miliar belum terpakai sama sekali untuk pembangunan kapal kontainer maupun kapal tanker kimia meski sukuk sudah efektif sejak 13 Mei 2026, sehingga laporan realisasi periode berikutnya perlu dipantau untuk melihat apakah pencairan dana ke kedua proyek kapal itu sudah mulai berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-jawab-bursa-ungkap-rencana-akuisisi-senilai-rp23-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa, Ungkap Rencana [Akuisisi] Senilai Rp23 Triliun",
+  "deck": "BIKE merespons permintaan penjelasan Bursa soal volatilitas transaksi dan mengungkap rencana RUPS untuk modal Rp1 triliun serta akuisisi dua anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T22:01:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00f4d2926e_d980953634.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "RUPS",
+   "akuisisi",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) merespons surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11175/BEI.PP3/09-2026 terkait volatilitas transaksi sahamnya. Dalam surat balasan yang diteken Direktur Winston Mulyadi pada 3 September 2026, BIKE menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga sahamnya, dan tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu. Perseroan juga menyebut bahwa pemegang saham utamanya berencana tidak menjual kepemilikan sahamnya di BIKE selama 10 tahun ke depan.",
+   "Meski begitu, BIKE mengungkapkan sejumlah rencana aksi korporasi dalam tiga bulan ke depan. Perseroan akan menggelar Rapat Umum Pemegang Saham dengan agenda perubahan kedudukan dan alamat kantor, penyesuaian jumlah pemegang saham berdasarkan data per 31 Agustus 2026, penambahan bidang usaha baru, serta persetujuan transaksi afiliasi berupa penambahan modal senilai Rp1 triliun dari PT Penajam Makmur Jaya.",
+   "Selain itu, BIKE berencana mengakuisisi dua perusahaan sebagai anak usaha baru. Yang pertama adalah PT Karya Bersinar Indonesia yang disebut telah mengantongi kontrak senilai Rp3,8 triliun, dan yang kedua PT Fahreza Duta Perkasa yang disebut telah mendapatkan izin sedimentasi pasir laut senilai Rp23 triliun. Surat BIKE tidak mencantumkan tanggal pelaksanaan RUPS maupun rincian lebih lanjut soal dua rencana akuisisi tersebut."
+  ],
+  "fotoAdegan": "A large dredging vessel pumping sand near a tropical coastline under an overcast sky, no people visible up close",
+  "takeaway": "Laporan ini netral bagi emiten, karena rencana ekspansi yang disebutkan, mulai dari suntikan modal Rp1 triliun sampai akuisisi dua anak usaha baru, masih berupa agenda yang menunggu persetujuan RUPS dan belum disertai kontrak final yang bisa diverifikasi. Kalau suntikan modal itu terealisasi lewat penerbitan saham baru, jumlah saham beredar BIKE akan bertambah sehingga laba per saham berpotensi terdilusi, sementara ekuitas perusahaan membesar karena tambahan modal tersebut. Nilai kontrak dan izin dua calon anak usaha yang disebutkan, yaitu Rp3,8 triliun dan Rp23 triliun, jauh lebih besar dari skala umum perusahaan seukuran BIKE sehingga dokumen transaksi resminya perlu dicermati begitu tersedia. Yang perlu dipantau selanjutnya adalah tanggal RUPS yang belum diumumkan dalam surat ini, serta apakah transaksi afiliasi penambahan modal dan dua rencana akuisisi tersebut benar terealisasi sesuai agenda yang diajukan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "blog-bukukan-laba-rp78-m-di-1h26-liabilitas-melonjak-24",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Bukukan Laba Rp78 M di 1H26, [Liabilitas] Melonjak 24%",
+  "deck": "Pendapatan BLOG naik 17 persen di semester satu 2026, tapi ekspansi 16 lokasi cold storage lebih banyak dibiayai utang baru dibanding modal sendiri, sementara margin laba menipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T21:36:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8bce249e2_443cc17f94.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "logistik",
+   "cold chain",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat bernomor 41/SK/CLI/TTP/IX/2026 tertanggal 3 September 2026, ditandatangani Wanny Wijaya selaku Direktur merangkap Corporate Secretary. Materi ini melengkapi rencana public expose yang sebelumnya diumumkan lewat surat No 40/SK/CLI/TTP/VIII/2026 tanggal 24 Agustus 2026, dengan acara paparan publik dijadwalkan berlangsung pada 8 September 2026.",
+   "Perusahaan yang beroperasi dengan merek B-LOG ini berdiri pada 2009 sebagai penyewaan kendaraan niaga, bertransformasi menjadi perusahaan logistik pada 2017, mendirikan anak usaha pergudangan dan cold storage pada 2022, lalu mencatatkan saham di BEI pada 2025. Sampai semester satu 2026, jaringan operasional BLOG mencapai lebih dari 130 titik di lebih dari 50 kota dan 25 provinsi, dengan armada lebih dari 3.500 unit dan 16 jaringan gudang, naik dari 126 titik operasional, 47 kota, 23 provinsi, 3.400 armada, dan 15 gudang pada akhir 2025. Sepanjang 2026 perusahaan membangun fasilitas cold storage baru di 16 lokasi: Bandung, Palembang, Pekanbaru, Medan, Tangerang, Boyolali, Lombok, Banjarmasin, Pontianak, Makassar, Manado, Kotabumi, Tegal, Batam, Sidoarjo, dan Bali.",
+   "Dari sisi keuangan, pendapatan semester satu 2026 tercatat Rp733 miliar, naik 17 persen dari Rp626 miliar pada periode sama 2025, sementara laba bersih naik 9 persen dari Rp71 miliar menjadi Rp78 miliar, membuat margin laba bersih turun dari 11 persen menjadi 10,6 persen. Total aset naik dari Rp1.032 miliar per akhir 2025 menjadi Rp1.138 miliar per semester satu 2026, liabilitas naik dari Rp411 miliar menjadi Rp511 miliar, sedangkan ekuitas hanya naik tipis dari Rp621 miliar menjadi Rp627 miliar. Sepanjang 2022 hingga 2025, pendapatan BLOG tumbuh dengan CAGR 16 persen dan laba bersih dengan CAGR 11 persen, dari Rp800 miliar pendapatan dan Rp90 miliar laba bersih pada 2022 menjadi Rp1.328 miliar pendapatan dan Rp144 miliar laba bersih pada 2025."
+  ],
+  "fotoAdegan": "Refrigerated delivery trucks parked beside a large cold storage warehouse at dawn, workers loading pallets with forklifts",
+  "takeaway": "Laporan ini condong netral: pendapatan BLOG tumbuh dua digit dan jaringan cold storage terus berekspansi ke 16 lokasi baru, tapi kenaikan aset sepanjang semester ini nyaris seluruhnya dibiayai utang baru, bukan modal sendiri, sementara margin laba justru menyusut. Liabilitas naik dari Rp411 miliar menjadi Rp511 miliar sedangkan ekuitas, yaitu modal milik pemegang saham, cuma naik dari Rp621 miliar ke Rp627 miliar, sehingga rasio utang terhadap modal naik dari sekitar 0,66 kali menjadi 0,82 kali. Rasio ini penting karena semakin besar utang dibanding modal sendiri, semakin besar pula beban bunga yang harus dibayar perusahaan meski pendapatan sedang melambat. Margin laba bersih, yaitu porsi pendapatan yang benar-benar menjadi laba, juga turun dari 11 persen di semester satu 2025 menjadi 10,6 persen di semester satu 2026, tanda biaya operasional tumbuh lebih cepat dari penjualan. Yang perlu dipantau adalah acara paparan publik pada 8 September 2026, saat investor bisa menanyakan langsung ke manajemen soal sumber pendanaan ekspansi 16 gudang cold storage dan apakah tambahan utang ini akan berlanjut pada semester kedua.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Tanggapi Gugatan [Wanprestasi], Klaim Utang Vendor Lunas",
+  "deck": "CBRE menjawab gugatan wanprestasi soal tagihan perawatan kapal, mengaku sudah melunasi seluruh tagihan ke vendor dan tengah bernegosiasi mediasi dengan Navios Control Services.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T21:14:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca2d4d8625_fdce5abe6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBRE",
+  "tags": [
+   "CBRE",
+   "gugatan wanprestasi",
+   "keterbukaan informasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Cakra Buana Resources Energi Tbk (CBRE) menyampaikan tanggapan resmi atas gugatan wanprestasi yang diajukan ke Pengadilan Negeri Jakarta Pusat. Dalam keterbukaan informasi yang diteken Direktur Utama Suminto Husin Giman pada 3 September 2026, perseroan mengonfirmasi telah menerima surat panggilan sidang pada 2 September 2026 terkait tagihan yang belum terbayar atas jasa pemeliharaan kapal. Jasa tersebut sebelumnya dikelola melalui perusahaan ship management pihak ketiga.",
+   "Menurut dokumen yang ditandatangani Direktur dan Sekretaris Perusahaan Amanda Octania, CBRE telah melakukan rekonsiliasi dan verifikasi atas tagihan tersebut, lalu melunasi seluruh outstanding invoice langsung kepada vendor. Perseroan mengklaim saat ini tidak ada lagi kewajiban pembayaran yang tersisa terkait perkara ini. CBRE juga sedang berkomunikasi dan bernegosiasi dengan kuasa hukum Navios Control Services Pte. Ltd. untuk mencari penyelesaian secara musyawarah, termasuk lewat jalur mediasi dan upaya pencabutan gugatan.",
+   "Perseroan menyatakan gugatan ini tidak berdampak pada kegiatan operasionalnya dan tidak diperkirakan memberi dampak material terhadap kondisi keuangan maupun kelangsungan usaha, karena pokok utang yang menjadi dasar gugatan sudah dilunasi. CBRE menambahkan bahwa klarifikasi publik terkait pemberitaan gugatan ini sudah lebih dulu diunggah di situs resminya pada 2 September 2026."
+  ],
+  "fotoAdegan": "Maintenance workers servicing engine parts on the deck of a docked cargo ship at an Indonesian port, early morning light",
+  "takeaway": "Laporan ini netral bagi CBRE: perseroan memang menghadapi gugatan hukum, tapi utang pokok yang menjadi pemicunya sudah dilunasi sebelum keterbukaan ini terbit, sehingga risiko finansialnya sudah berkurang lebih dulu. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang keluar untuk melunasi tagihan vendor, bukan ekuitas atau laba per saham, sehingga dampaknya ke laporan keuangan relatif terbatas dan bersifat satu kali. Pelaku pasar tetap perlu mencermati proses hukumnya karena pelunasan utang tidak otomatis menghentikan gugatan yang sudah masuk ke pengadilan. Yang perlu dipantau berikutnya adalah hasil negosiasi dan mediasi dengan kuasa hukum Navios Control Services, termasuk apakah gugatan itu benar-benar dicabut, karena dokumen ini belum menyebut tanggal sidang atau tenggat penyelesaian yang pasti. Perlu dicatat juga bahwa CBRE dalam sepekan terakhir tercatat menghadapi isu dilusi besar dari rencana rights issue, sehingga sorotan terhadap tata kelola dan kondisi keuangan perseroan sedang tinggi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Bayar Obligasi Rp714,5 Miliar yang [Jatuh Tempo]",
+  "deck": "Indonesia Eximbank memastikan dana Rp714,5 miliar sudah siap untuk melunasi pokok obligasi BEXI04DCN6 yang jatuh tempo 3 September 2026 dan dihapus dari pencatatan BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:52:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2ed31c68_6cf4c33c43.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEXI",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "Indonesia Eximbank",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan Indonesia Eximbank IV Tahap VI Tahun 2019 Seri D dengan kode BEXI04DCN6 tidak lagi tercatat dan tidak bisa diperdagangkan di bursa mulai 3 September 2026. Obligasi milik Indonesia Eximbank (BEXI) ini bernilai pokok Rp714,5 miliar, diterbitkan pada 3 September 2019, dan jatuh tempo tepat tujuh tahun kemudian pada 3 September 2026.",
+   "Sebelum tanggal jatuh tempo itu, Lembaga Pembiayaan Ekspor Indonesia (LPEI) atau Indonesia Eximbank mengirim surat tertanggal 3 Agustus 2026 kepada Direktur Penilaian Perusahaan BEI, yang ditandatangani Lianawaty Mihardja, Kepala Divisi Pendanaan dan Tresuri. Surat itu menyatakan dana pelunasan pokok sebesar Rp714,5 miliar sudah disediakan penuh dan ditempatkan pada instrumen keuangan likuid, di antaranya penempatan pada bank, sehingga siap dicairkan begitu obligasi jatuh tempo. Manajemen menegaskan pemenuhan kewajiban tepat waktu dan tepat jumlah sebagai komitmen mereka.",
+   "Surat kesiapan pembayaran itu ditembuskan kepada Otoritas Jasa Keuangan dan kepada PT Bank Mandiri (Persero) Tbk. selaku wali amanat, yaitu pihak yang bertugas mewakili kepentingan seluruh pemegang obligasi dalam transaksi ini."
+  ],
+  "fotoAdegan": "Cargo ships loading export containers at a busy Indonesian port, tall cranes against a hazy morning sky",
+  "takeaway": "Laporan ini condong positif bagi Indonesia Eximbank karena menunjukkan dana pelunasan sudah disiapkan penuh jauh sebelum jatuh tempo, tanpa tanda kesulitan likuiditas. Pos yang tersentuh adalah utang dan arus kas: begitu pokok Rp714,5 miliar dibayarkan, kewajiban obligasi seri ini lunas dan beban bunga tahunan atasnya hilang dari pembukuan, sementara kas perusahaan berkurang sebesar nilai yang dibayarkan. Ketepatan waktu pelunasan pokok jadi perhatian pelaku pasar surat utang karena itu indikator utama kesehatan keuangan penerbit obligasi, terlebih LPEI kerap menerbitkan seri obligasi baru untuk mendanai pembiayaan ekspor nasional. Yang perlu dipantau berikutnya adalah konfirmasi realisasi pembayaran kepada Bank Mandiri selaku wali amanat pada tanggal jatuh tempo, 3 September 2026, serta apakah Indonesia Eximbank akan menerbitkan obligasi pengganti untuk kebutuhan pendanaan berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smgr-paparkan-kinerja-1h26-laba-melonjak-445-utang-turun",
+  "category": "Aksi Korporasi",
+  "title": "SMGR Paparkan Kinerja 1H26: Laba [Melonjak] 445%, Utang Turun",
+  "deck": "SMGR memaparkan materi public expose ke bursa: laba bersih 1H26 melonjak 445,9 persen dan utang berbunga menyusut, menjelang paparan publik 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:42:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7788c629df_f99a84099c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGR",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Semen Indonesia (Persero) Tbk (SMGR) menyampaikan materi public expose tahunan ke Bursa Efek Indonesia, menjelang paparan langsung yang menurut jadwal dalam surat perusahaan akan digelar pada 8 September 2026 pukul 14.00 sampai 14.45 WIB melalui laman resmi IDX. Materi tersebut memuat performa keuangan semester pertama 2026: pendapatan naik 13,1 persen dari Rp15,61 triliun menjadi Rp17,65 triliun, sementara laba bersih melonjak 445,9 persen dari Rp38 miliar menjadi Rp207 miliar. EBITDA relatif stabil, naik 2,6 persen menjadi Rp2,15 triliun, meski marginnya turun dari 13,5 persen menjadi 12,2 persen akibat tekanan biaya yang masih berlanjut.",
+   "Dari sisi operasional, total volume penjualan semen SIG pada kuartal kedua 2026 tumbuh 9,5 persen dibanding periode sama tahun lalu menjadi 9,56 juta ton, dengan penjualan domestik naik lebih tinggi lagi, 13,7 persen, menjadi 7,65 juta ton. Penjualan semen kantong atau ritel naik 11,4 persen menjadi 5,46 juta ton, sementara semen curah untuk proyek melonjak 19,5 persen menjadi 2,19 juta ton, didorong pemulihan aktivitas konstruksi dan investasi swasta. Perseroan mencatat pangsa pasar domestik 46,9 persen sepanjang 2025, unggul dari pesaing terdekat Indocement yang menguasai 28,4 persen, di tengah empat pemain utama yang bersama-sama menguasai sekitar 93 persen pasar semen nasional.",
+   "Posisi keuangan SIG juga membaik. Utang berbunga turun dari Rp11,38 triliun pada semester pertama 2025 menjadi Rp8,07 triliun pada semester pertama 2026, sehingga rasio utang terhadap ekuitas turun dari 0,26 kali menjadi 0,18 kali dan rasio utang terhadap EBITDA turun dari 2,42 kali menjadi 1,77 kali. Arus kas dari aktivitas operasi naik dari Rp1,92 triliun menjadi Rp2,53 triliun. Lembaga pemeringkat Pefindo menegaskan peringkat idAAA dengan prospek stabil untuk SIG dan Obligasi Berkelanjutan II pada 2026, dan perseroan juga meraih ESG Award 2026 dari Yayasan KEHATI. Di sisi produk, SIG meluncurkan kembali merek Semen Kujang di Jawa Barat, termasuk kerja sama sebagai mitra semen resmi klub sepak bola Persib Bandung untuk memperkuat pasar ritel di wilayah tersebut."
+  ],
+  "fotoAdegan": "Wide view of a cement plant with tall silos and conveyor belts, workers in hard hats inspecting machinery under daylight",
+  "takeaway": "Laporan ini condong positif bagi Semen Indonesia karena hampir semua indikator utama membaik bersamaan, laba melonjak, utang menyusut, dan arus kas menguat, bukan cuma satu pos yang terangkat sementara yang lain memburuk. Rasio utang terhadap ekuitas yang turun dari 0,26 kali menjadi 0,18 kali menunjukkan porsi utang dibanding modal sendiri perusahaan makin kecil, sementara kemampuan membayar bunga utang dari labanya, yang naik dari 4,88 kali menjadi 6,70 kali, berarti bantalan keuangan SIG untuk menghadapi kewajiban utang makin tebal. Arus kas dari kegiatan operasional yang naik ke Rp2,53 triliun juga berarti perusahaan makin leluasa mendanai belanja modal dan membayar utang tanpa harus menambah pinjaman baru. Yang perlu dipantau berikutnya adalah paparan publik langsung pada 8 September 2026, saat manajemen kemungkinan menjelaskan lebih rinci proses streamlining struktur grup SIG yang disebut mulai berjalan tahun ini beserta dampaknya terhadap anak-anak usaha.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mglv-rencanakan-rights-issue-rp2-4-triliun-dilusi-13",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rencanakan [Rights Issue] Rp2,4 Triliun, Dilusi 13%",
+  "deck": "MGLV berencana menerbitkan hingga 285,7 juta saham baru lewat rights issue senilai sekitar Rp2,4 triliun untuk membayar piutang ke NAC dan NGC serta modal kerja bisnis pusat data.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:15:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51d4af8220_dac8d153c6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "HMETD",
+   "data center"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV), dahulu bernama PT Panca Anugrah Wisesa Tbk, mengubah dan menambah keterbukaan informasi soal rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD) atau yang lazim disebut rights issue, yang pertama kali diumumkan 28 Juli 2026. Perseroan berencana menerbitkan sebanyak-banyaknya 285.732.512 saham baru dengan nilai nominal Rp20 per saham. Dalam simulasi yang dipakai perusahaan, harga pelaksanaan diasumsikan Rp8.400 per saham, sehingga jika seluruh pemegang saham menebus haknya, dana yang terkumpul mencapai Rp2.400.153.100.800. Harga final baru akan ditetapkan dalam prospektus yang terbit setelah Rapat Umum Pemegang Saham (RUPS) pada 7 September 2026 menyetujui rencana ini dan Otoritas Jasa Keuangan (OJK) menyatakan efektif pernyataan pendaftarannya.",
+   "Dana hasil rights issue akan dipakai untuk dua hal. Prioritas pertama adalah membayar pengambilalihan piutang dari PT Nextier Datamate Center (NDC), pemegang saham pengendali MGLV, kepada PT Nextier Askara Center (NAC) dan PT Nextier GenAI Center (NGC). Sisanya, kalau ada, dipakai untuk modal kerja, belanja modal, pengembangan bisnis, dan pembayaran utang usaha di lini bisnis pusat data (data center) Perseroan dan anak usahanya. Jika hanya pemegang saham pengendali yang menebus haknya, prioritas pembayaran piutang ke NAC dan NGC tetap didahulukan sebelum sisa dana dipakai untuk keperluan operasional. Berdasarkan tabel proforma di dokumen, kepemilikan NDC tidak berubah di 74,06 persen baik sebelum maupun sesudah rights issue karena NDC ikut menyetor proporsional, sementara pemegang saham publik yang tidak ikut menebus haknya berisiko terdilusi hingga maksimum 13,04 persen dari porsi kepemilikannya.",
+   "Dokumen ini juga mengoreksi pengungkapan sebelumnya soal pemilik manfaat akhir Perseroan. Berdasarkan data yang dilaporkan ke Kementerian Hukum pada 27 Februari 2026, pemilik manfaat MGLV adalah Glenn T Sugita, Suriyanto, dan Sugito Walujo. Perseroan kini menyatakan ketiganya merupakan kelompok yang terorganisasi karena pengendalian mereka dilakukan lewat satu entitas yang sama, yaitu NDC, mengoreksi keterbukaan informasi penawaran tender wajib pada 13 April 2026 yang sebelumnya menyebut ketiganya bukan kelompok terorganisasi. Persetujuan RUPS untuk rencana ini harus didapat dari pemegang saham independen, bukan dari NDC selaku pengendali, dengan syarat kuorum kehadiran dan persetujuan lebih dari separuh saham berhak suara milik pemegang saham independen."
+  ],
+  "fotoAdegan": "Rows of server racks in a modern data center corridor, technicians in uniform inspecting cables, cool blue ambient lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik karena porsi terbesar dana rights issue justru dipakai membayar piutang ke NAC dan NGC, dua perusahaan yang berada dalam kendali kelompok pemilik manfaat yang sama dengan NDC selaku pengendali MGLV, sehingga terkesan dana publik ikut membiayai transaksi antar perusahaan terafiliasi, apalagi OJK sebelumnya sempat meminta penjelasan tambahan atas rencana akuisisi Nextier ini. Rights issue menambah jumlah saham beredar sekitar 15 persen dari 1,9 miliar menjadi 2,19 miliar lembar, sehingga laba per saham berpotensi terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar; pemegang saham publik yang tidak ikut menyetor modal baru bisa kehilangan porsi kepemilikannya hingga 13,04 persen, sementara porsi NDC selaku pengendali tetap 74,06 persen karena ikut menyetor proporsional. Di sisi lain, dana segar sekitar Rp2,4 triliun memang akan menambah kas dan ekuitas Perseroan, memperkuat modal untuk lini bisnis pusat data yang sedang dikembangkan. Yang perlu dipantau berikutnya adalah hasil RUPS pemegang saham independen pada 7 September 2026 yang menentukan disetujui tidaknya rencana ini, serta pernyataan efektif dari OJK atas pendaftaran rights issue yang menjadi syarat pelaksanaannya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "vtny-rilis-materi-pubex-laba-bersih-turun-25-3-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Rilis Materi Pubex, [Laba Bersih] Turun 25,3% di 1H26",
+  "deck": "VTNY menyerahkan materi Public Expose Tahunan yang digelar 8 September 2026, memuat kinerja semester I 2026: laba bersih turun 25,3 persen meski pendapatan naik tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "3 September 2026",
+  "isoDate": "2026-09-03T20:12:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/574c191597_5949c1b433.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan materi Public Expose Tahunan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 3 September 2026, sesuai kewajiban Peraturan Bursa Nomor I-E. Penyampaian ini merujuk pada pengumuman sebelumnya tanggal 24 Agustus 2026 dan ditandatangani oleh Sekretaris Perusahaan Zasa Pinkan Kinanti. Acara Public Expose Live akan digelar di Jakarta pada 8 September 2026, menyajikan gambaran bisnis VTNY yang bergerak di pembiayaan bisnis (B2B) dan aplikasi kesejahteraan karyawan (B2B2E) di Indonesia, Singapura, Filipina, dan Jepang.",
+   "Materi tersebut memuat kinerja keuangan semester I 2026 yang berakhir 30 Juni 2026. Pendapatan tercatat Rp105.852 juta, naik 1,8 persen dari Rp104.012 juta pada semester I 2025. Laba kotor naik 4,4 persen menjadi Rp36.637 juta dari Rp35.077 juta. Namun laba bersih justru anjlok 25,3 persen menjadi Rp5.483 juta, dari sebelumnya Rp7.338 juta pada periode yang sama tahun lalu.",
+   "Berdasarkan segmen, pendapatan dari lini pembiayaan bisnis (B2B Financial Services) naik 8,1 persen menjadi Rp60,9 miliar dari Rp56,3 miliar, menjadi penyumbang terbesar. Sebaliknya, pendapatan dari aplikasi kesejahteraan karyawan (B2B2E Employee Super App), yang mencakup layanan penarikan gaji lebih awal dan pinjaman karyawan, turun 5,8 persen menjadi Rp44,9 miliar dari Rp47,7 miliar. Materi juga mencatat lini baru bernama System Development senilai Rp11,7 juta yang belum tercatat pada periode sama tahun lalu. Adapun total aset per 30 Juni 2026 tercatat sekitar Rp1,489 miliar, liabilitas Rp1,070 miliar, dan ekuitas Rp418 miliar."
+  ],
+  "fotoAdegan": "Small shop owners and motorbike couriers exchanging goods at a busy Jakarta market stall, warm morning light",
+  "takeaway": "Laporan ini condong negatif bagi VTNY, karena di tengah pendapatan dan laba kotor yang masih tumbuh tipis, laba bersih perseroan justru anjlok 25,3 persen pada semester I 2026. Laba bersih adalah sisa keuntungan setelah semua biaya operasional dan bunga dikurangi, jadi penurunannya menandakan beban perusahaan tumbuh lebih cepat daripada pendapatannya, yang berarti marjin keuntungan menipis, hal yang biasanya diperhatikan pemodal karena berkaitan langsung dengan kemampuan perusahaan membagikan keuntungan ke pemegang saham. Pergeseran komposisi pendapatan juga terlihat, lini pembiayaan bisnis (B2B) tumbuh sementara lini aplikasi karyawan (B2B2E) menyusut, yang berarti mesin pertumbuhan utama VTNY sedang berubah arah. Yang perlu dipantau selanjutnya adalah paparan publik yang dijadwalkan berlangsung di Jakarta pada 8 September 2026, saat manajemen kemungkinan akan menjelaskan langsung penyebab tergerusnya laba bersih ini kepada investor dan analis.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
@@ -995,7 +1203,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
   "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-02T23:23:57.814Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ketahanan-ekspor-nonmigas-indonesia-topang-surplus-neraca-perdagangan-juli-2026",
@@ -3425,7 +3633,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:04.592Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -4299,7 +4507,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
@@ -4379,7 +4587,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
@@ -6208,7 +6416,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",

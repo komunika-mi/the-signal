@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
+  "category": "Aksi Korporasi",
+  "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
+  "deck": "SMDR mengoreksi laporan realisasi dana sukuk Rp700 miliar menanggapi telaah OJK. Dana bersih Rp694,23 miliar tercatat masih 100 persen belum terpakai per 30 Juni 2026.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "sukuk",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ff93d4acc1_491190cf92.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jawab-bursa-ungkap-rencana-akuisisi-senilai-rp23-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa, Ungkap Rencana [Akuisisi] Senilai Rp23 Triliun",
+  "deck": "BIKE merespons permintaan penjelasan Bursa soal volatilitas transaksi dan mengungkap rencana RUPS untuk modal Rp1 triliun serta akuisisi dua anak usaha.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "RUPS",
+   "akuisisi",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00f4d2926e_d980953634.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blog-bukukan-laba-rp78-m-di-1h26-liabilitas-melonjak-24",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Bukukan Laba Rp78 M di 1H26, [Liabilitas] Melonjak 24%",
+  "deck": "Pendapatan BLOG naik 17 persen di semester satu 2026, tapi ekspansi 16 lokasi cold storage lebih banyak dibiayai utang baru dibanding modal sendiri, sementara margin laba menipis.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "logistik",
+   "cold chain",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8bce249e2_443cc17f94.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
+  "category": "Aksi Korporasi",
+  "title": "CBRE Tanggapi Gugatan [Wanprestasi], Klaim Utang Vendor Lunas",
+  "deck": "CBRE menjawab gugatan wanprestasi soal tagihan perawatan kapal, mengaku sudah melunasi seluruh tagihan ke vendor dan tengah bernegosiasi mediasi dengan Navios Control Services.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBRE",
+   "gugatan wanprestasi",
+   "keterbukaan informasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca2d4d8625_fdce5abe6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BEXI Bayar Obligasi Rp714,5 Miliar yang [Jatuh Tempo]",
+  "deck": "Indonesia Eximbank memastikan dana Rp714,5 miliar sudah siap untuk melunasi pokok obligasi BEXI04DCN6 yang jatuh tempo 3 September 2026 dan dihapus dari pencatatan BEI.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEXI",
+   "obligasi",
+   "Indonesia Eximbank",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2ed31c68_6cf4c33c43.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smgr-paparkan-kinerja-1h26-laba-melonjak-445-utang-turun",
+  "category": "Aksi Korporasi",
+  "title": "SMGR Paparkan Kinerja 1H26: Laba [Melonjak] 445%, Utang Turun",
+  "deck": "SMGR memaparkan materi public expose ke bursa: laba bersih 1H26 melonjak 445,9 persen dan utang berbunga menyusut, menjelang paparan publik 8 September 2026.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7788c629df_f99a84099c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-rencanakan-rights-issue-rp2-4-triliun-dilusi-13",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rencanakan [Rights Issue] Rp2,4 Triliun, Dilusi 13%",
+  "deck": "MGLV berencana menerbitkan hingga 285,7 juta saham baru lewat rights issue senilai sekitar Rp2,4 triliun untuk membayar piutang ke NAC dan NGC serta modal kerja bisnis pusat data.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "HMETD",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51d4af8220_dac8d153c6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vtny-rilis-materi-pubex-laba-bersih-turun-25-3-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "VTNY Rilis Materi Pubex, [Laba Bersih] Turun 25,3% di 1H26",
+  "deck": "VTNY menyerahkan materi Public Expose Tahunan yang digelar 8 September 2026, memuat kinerja semester I 2026: laba bersih turun 25,3 persen meski pendapatan naik tipis.",
+  "date": "3 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/574c191597_5949c1b433.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
@@ -631,7 +759,7 @@ var ARTICLES = [
   "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
   "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
   "date": "3 September 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "tags": [
    "neraca dagang",
    "ekspor impor",
@@ -2129,7 +2257,7 @@ var ARTICLES = [
   "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
   "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
   "date": "1 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi",
    "bps",
@@ -2678,7 +2806,7 @@ var ARTICLES = [
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
   "date": "1 September 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "BPS",
    "Transportasi",
@@ -2726,7 +2854,7 @@ var ARTICLES = [
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
   "date": "1 September 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "ekspor-impor",
    "neraca dagang",
@@ -3863,7 +3991,7 @@ var ARTICLES = [
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
   "date": "29 Agustus 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "desil bansos",
    "DTSEN",
@@ -6419,134 +6547,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3981f955e3_a53e999535.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-komisaris-andri-hutama-putra-jual-1-76-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Komisaris Andri Hutama Putra [jual] 1,76 juta saham",
-  "deck": "Andri Hutama Putra melepas 1,76 juta saham ITSEC Asia lewat 14 transaksi sejak 23 Juni hingga 11 Agustus 2026, hak suaranya turun tipis dari 0,242% menjadi 0,228%.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-24082026-8635-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrme-rombak-susunan-komite-nominasi-dan-remunerasi",
-  "category": "Aksi Korporasi",
-  "title": "HRME Rombak Susunan [Komite] Nominasi dan Remunerasi",
-  "deck": "Menteng Heritage Realty mengganti satu anggota Komite Nominasi dan Remunerasi menyusul pengunduran diri Sri Rejeki Suryaningrum, posisinya diisi Harri Rinaldiawan.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRME",
-   "Komite Nominasi dan Remunerasi",
-   "Menteng Heritage Realty",
-   "Tata Kelola Perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c07a863b07_9794ed69c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wton-ubah-susunan-komite-audit-andrianto-jadi-anggota-baru",
-  "category": "Aksi Korporasi",
-  "title": "WTON Ubah Susunan [Komite Audit], Andrianto Jadi Anggota Baru",
-  "deck": "Wijaya Karya Beton menambah Andrianto sebagai anggota Komite Audit menyusul perubahan Dewan Komisaris hasil RUPSLB Juli 2026, efektif 20 Agustus 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WTON",
-   "Komite Audit",
-   "Wijaya Karya Beton",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76540d3e4e_a6b9807aa2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wton-rombak-komite-nominasi-remunerasi-andrianto-ketua-baru",
-  "category": "Aksi Korporasi",
-  "title": "WTON Rombak Komite Nominasi-Remunerasi, [Andrianto] Ketua Baru",
-  "deck": "Wijaya Karya Beton mengganti susunan Komite Nominasi, Remunerasi, dan Pemantau Risiko menyusul pergantian Dewan Komisaris hasil RUPSLB Juli 2026.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WTON",
-   "Wijaya Karya Beton",
-   "Komite Nominasi dan Remunerasi",
-   "Tata Kelola Korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/445783a102_2656808f44.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soci-beri-jaminan-pinjaman-us-54-9-juta-ke-anak-usaha-eom",
-  "category": "Aksi Korporasi",
-  "title": "SOCI Beri [Jaminan] Pinjaman US$54,9 Juta ke Anak Usaha EOM",
-  "deck": "Soechi Lines menjamin fasilitas pinjaman berjangka anak usahanya, Eternity Ocean Maritime, senilai AS$54,9 juta dari Bank Mandiri cabang Singapura.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOCI",
-   "Soechi Lines",
-   "corporate guarantee",
-   "Bank Mandiri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/992a708585_f7d9f14841.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcor-undur-rupslb-pergantian-direksi-ke-15-september",
-  "category": "Aksi Korporasi",
-  "title": "MCOR Undur RUPSLB Pergantian Direksi ke [15 September]",
-  "deck": "Bank China Construction Bank Indonesia (MCOR) menunda RUPSLB dari 4 menjadi 15 September 2026, agenda tunggalnya tetap perubahan susunan direksi dan komisaris.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOR",
-   "RUPSLB",
-   "Bank China Construction Bank Indonesia",
-   "pergantian pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b8047642f9_f71fdaa7b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-panggil-rupslb-15-september-ajukan-restrukturisasi-total",
-  "category": "Aksi Korporasi",
-  "title": "PTPP Panggil RUPSLB 15 September, Ajukan [Restrukturisasi] Total",
-  "deck": "PTPP memanggil RUPSLB pada 15 September 2026 untuk meminta persetujuan pemegang saham atas restrukturisasi menyeluruh, termasuk konversi pinjaman bank dan non-bank jangka pendek menjadi jangka panjang.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "RUPSLB",
-   "restrukturisasi utang",
-   "BUMN karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/866d56b8d7_3bb3caaf14.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "padi-djoko-joelijanto-resmi-jadi-pengendali-perusahaan",
-  "category": "Aksi Korporasi",
-  "title": "PADI: Djoko Joelijanto Resmi Jadi [Pengendali] Perusahaan",
-  "deck": "RUPSLB kedua Minna Padi Investama Sekuritas menetapkan Djoko Joelijanto sebagai pengendali dan pemilik manfaat akhir, sekaligus mengangkat direktur baru.",
-  "date": "24 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PADI",
-   "RUPSLB",
-   "Minna Padi Sekuritas",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/98867da036_7d282aa5a4.pdf",
   "sourceLabel": "IDX"
  }
 ];

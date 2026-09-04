@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-koreksi-arus-kas-usai-permintaan-penjelasan-bei",
+  "category": "Aksi Korporasi",
+  "title": "DOOH [Koreksi] Arus Kas Usai Permintaan Penjelasan BEI",
+  "deck": "DOOH mengoreksi laporan arus kas kuartal I 2026 setelah BEI mempertanyakan penerimaan Rp16,52 miliar dari penjualan modem yang salah dicatat sebagai kas operasi, seharusnya kas investasi.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "arus kas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57148b5e22_53bc028327.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi",
   "category": "BUMN",
   "title": "Penyaluran Pupuk Subsidi Garut Baru [55] Persen dari Alokasi",
@@ -39,6 +55,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "hasil-pubex-dooh-opsi-rights-issue-danai-ambisi-ai",
+  "category": "Aksi Korporasi",
+  "title": "Hasil Pubex DOOH: Opsi [Rights Issue] Danai Ambisi AI",
+  "deck": "Manajemen DOOH mengaku mempertimbangkan rights issue untuk mendanai rencana investasi ekosistem AI senilai puluhan miliar dolar AS, jauh di atas aset perseroan sekitar Rp406 miliar.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Rights Issue",
+   "Data Center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b62ab88a0_feca62fccf.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
@@ -186,6 +218,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-perdagangan-jasa-pariwisata-kdei-taipei-gelar-misi-penjualan-paket-wisata-ke-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "fitt-jawab-bursa-pastikan-tak-ada-informasi-material-tersembunyi",
+  "category": "Aksi Korporasi",
+  "title": "FITT Jawab Bursa, Pastikan Tak Ada [Informasi Material] Tersembunyi",
+  "deck": "FITT menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkapkan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FITT",
+   "volatilitas transaksi",
+   "keterbukaan informasi",
+   "akuisisi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c401516b_edd749540c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "safe-bei-umumkan-kepemilikan-saham-terkonsentrasi-98-14",
@@ -411,6 +459,86 @@ var ARTICLES = [
    "Sukuk Wakalah"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b0e0e2b_95d9d4b0f8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-siapkan-buyback-saham-rp1-triliun-rupslb-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Siapkan [Buyback] Saham Rp1 Triliun, RUPSLB 13 Oktober",
+  "deck": "BTPN Syariah berencana membeli kembali saham senilai maksimal Rp1 triliun atau hingga 10 persen saham beredar, menunggu persetujuan RUPSLB pada 13 Oktober 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "Bank BTPN Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abb99709fd_d0c62fbc08.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "prda-beli-kembali-5-02-juta-saham-rp13-1-m-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Beli Kembali [5,02 Juta] Saham, Rp13,1 M Terpakai",
+  "deck": "Prodia Widyahusada merampungkan 11 hari transaksi buyback sejak 20 Agustus, membeli 5,02 juta saham di kisaran Rp2.474-Rp2.783, dengan sisa dana Rp136,89 miliar per 4 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cace431214_81571856cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akku-gelar-paparan-publik-insidentil-bahas-suspensi-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik Insidentil Bahas [Suspensi] Saham",
+  "deck": "AKKU akan menggelar Public Expose Insidentil pada 18 September 2026 di Bandung untuk menjelaskan suspensi perdagangan sahamnya kepada publik.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d13c571926_a851b94b47.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csmi-jawab-bursa-kas-rp237-65-juta-utang-afiliasi-rp25-1-m",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Jawab Bursa: Kas Rp237,65 Juta, Utang [Afiliasi] Rp25,1 M",
+  "deck": "CSMI menjawab permintaan penjelasan Bursa soal kas yang menipis ke Rp237,65 juta dan utang ke perusahaan afiliasi Rp25,1 miliar, di tengah rugi bersih yang masih berlanjut per Juni 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "likuiditas",
+   "keterbukaan informasi",
+   "NWS Chicken"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2987bcc802_d2eec255eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suni-menangkan-tender-pengadaan-casing-dari-pertamina-ep",
+  "category": "Aksi Korporasi",
+  "title": "SUNI Menangkan [Tender] Pengadaan Casing dari Pertamina EP",
+  "deck": "SUNI ditetapkan sebagai pemenang tender pengadaan casing oleh Pertamina EP senilai US$3,19 juta dengan masa kerja sekitar delapan bulan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUNI",
+   "Pertamina EP",
+   "tender",
+   "kontrak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/330b37a9cf_aaabcbd8ad.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6442,135 +6570,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "wsbp-ratifikasi-tambah-plafon-konversi-utang-rp6-1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "WSBP [Ratifikasi] Tambah Plafon Konversi Utang Rp6,1 Miliar",
-  "deck": "WSBP mengajukan ratifikasi RUPS untuk menambah plafon konversi utang menjadi saham, menampung tagihan tambahan Rp6,1 miliar dari tiga kreditur dagang baru yang baru terverifikasi.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "PMTHMETD",
-   "restrukturisasi utang",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5d1d1c0d91_11c644a0d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-jadwalkan-rupslb-pada-2-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Jadwalkan [RUPSLB] pada 2 Oktober 2026",
-  "deck": "Waskita Beton Precast mengumumkan RUPSLB digelar 2 Oktober 2026 di Jakarta, agenda lengkapnya baru akan diumumkan pertengahan September.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "RUPSLB",
-   "Waskita Beton Precast",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/faa6f36c73_25d5251123.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau",
-  "category": "BUMN",
-  "title": "Pertamina Eco RunFest 2026 Usung [Tujuh] Inisiatif Hijau",
-  "deck": "Pertamina kembali menggelar Eco RunFest tahun ke-13 dengan tujuh inisiatif keberlanjutan, dan seluruh keuntungan tiket didonasikan penuh untuk program lingkungan.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/pertamina-eco-runfest-2026-usung-tujuh-inisiatif-hijau.jpg",
-  "imageV": "mta5wg8b",
-  "tags": [
-   "Pertamina",
-   "lingkungan",
-   "sampah",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462746-pertamina-eco-runfest-2026-kembali-digelar-hadirkan-tujuh-inisiatif-keberlanjutan-lingkungan"
- },
- {
-  "slug": "komdigi-sinar-mas-perluas-hub-digital-ke-10-kota",
-  "category": "Teknologi",
-  "title": "Komdigi-Sinar Mas [Perluas] Hub Digital ke 10 Kota",
-  "deck": "Komdigi dan Sinar Mas Land memperluas Garuda Spark Innovation Hub ke 10 kota lewat skema kerja sama pemerintah-swasta untuk ekosistem digital.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/komdigi-sinar-mas-perluas-hub-digital-ke-10-kota.jpg",
-  "imageV": "mta5wgwi",
-  "tags": [
-   "GSIH",
-   "Komdigi",
-   "Sinar Mas Land",
-   "ekosistem digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462737-garuda-spark-innovation-hub-gsih-diperluas-ke-10-kota-sinar-mas-siap-dukung-ekosistem-digital-indonesia"
- },
- {
-  "slug": "bbsi-panggil-rupslb-kedua-usul-komisaris-baru",
-  "category": "Aksi Korporasi",
-  "title": "BBSI Panggil RUPSLB Kedua, Usul [Komisaris] Baru",
-  "deck": "Krom Bank (BBSI) menggelar RUPSLB kedua pada 3 September 2026 setelah rapat pertama gagal kuorum, mengusulkan dua calon komisaris baru dan perubahan anggaran dasar.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBSI",
-   "RUPSLB",
-   "Krom Bank",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/96d51fd2fd_62a6b8e594.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbss-panggil-rupslb-tegaskan-pemilik-baru-dan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "MBSS Panggil RUPSLB, Tegaskan [Pemilik] Baru dan Direksi",
-  "deck": "MBSS mengundang RUPSLB 17 September 2026 untuk membahas pergantian direksi-komisaris, penegasan pemegang saham baru PT Wibowo Group Capital, dan perubahan alamat kantor pusat.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBSS",
-   "RUPSLB",
-   "Pergantian Direksi",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7f3d446d91_752aeff95e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "CMRY Bagikan [Dividen] Interim Rp100 per Saham",
-  "deck": "Direksi Cisarua Mountain Dairy menetapkan dividen interim tunai Rp100 per saham untuk tahun buku 2026, dengan pembayaran dijadwalkan 18 September 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMRY",
-   "dividen interim",
-   "Cimory",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0374a36ff6_89b055f8a4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmry-bagikan-dividen-interim-rp100-per-saham-rp793-miliar",
-  "category": "Aksi Korporasi",
-  "title": "CMRY Bagikan Dividen Interim [Rp100] per Saham, Rp793 Miliar",
-  "deck": "Direksi Cimory memutuskan membagikan dividen interim tahun buku 2026 senilai total Rp793,47 miliar, dibayarkan mulai 18 September 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMRY",
-   "dividen interim",
-   "Cimory",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/26fdb8e915_2120070314.pdf",
-  "sourceLabel": "IDX"
  }
 ];

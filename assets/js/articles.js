@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-koreksi-arus-kas-usai-permintaan-penjelasan-bei",
+  "category": "Aksi Korporasi",
+  "title": "DOOH [Koreksi] Arus Kas Usai Permintaan Penjelasan BEI",
+  "deck": "DOOH mengoreksi laporan arus kas kuartal I 2026 setelah BEI mempertanyakan penerimaan Rp16,52 miliar dari penjualan modem yang salah dicatat sebagai kas operasi, seharusnya kas investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T00:20:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57148b5e22_53bc028327.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "arus kas",
+   "BEI"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan tanggapan kedua kepada Bursa Efek Indonesia atas permintaan penjelasan terkait laporan keuangan interim kuartal I 2026. Dalam surat bernomor 028/CORSEC/EMS/SRT/IX/2026 tertanggal 4 September 2026 yang ditandatangani Direktur Utama Vicktor Aritonang, perseroan mengakui kesalahan klasifikasi dalam laporan arus kas. Penerimaan kas Rp16,52 miliar dari penjualan perangkat modem CPE Wireless Tipe C200 kepada PT Lintas Daya Andalan, berdasarkan perjanjian tanggal 20 Februari 2026, sebelumnya tercatat sebagai penerimaan dari aktivitas operasi. Perseroan mengonfirmasi seharusnya pos itu masuk arus kas investasi karena berasal dari penjualan aset tetap, dengan keuntungan penjualan yang diakui sebesar Rp2,065 miliar, dan koreksi itu sudah disampaikan dalam laporan keuangan yang telah disesuaikan ke BEI.",
+   "Perseroan juga merinci komponen pos penerimaan dan pembayaran kas untuk aktivitas operasi lainnya periode tiga bulan hingga 31 Maret 2026 senilai Rp8,74 miliar net kas keluar. Rinciannya terdiri dari penurunan piutang lain-lain pihak ketiga Rp721,47 juta, penurunan biaya dibayar di muka Rp2,65 miliar, kenaikan pajak dibayar di muka Rp8,99 miliar yang mengurangi kas, kenaikan utang pajak Rp4,78 miliar yang menambah kas, penurunan beban akrual Rp5,26 miliar yang mengurangi kas, serta dampak beban usaha neto dan pelepasan entitas anak PT Konsultan Strategi Penjualan (KSP), yang tidak lagi dikonsolidasi sejak Maret 2026, senilai Rp2,63 miliar.",
+   "Soal beban bunga Rp657,8 juta yang tercatat per 31 Desember 2025 atas pinjaman dari PT Prambanan Investasi Sukses, pemegang saham perseroan, DOOH menjelaskan itu bukan bunga tunai yang dibayarkan. Karena pinjaman diberikan dengan bunga di bawah suku bunga pasar, perseroan mengakui selisih nilai nominal dan nilai wajar sebesar Rp2,81 miliar sebagai keuntungan awal yang lalu diamortisasi bertahap, dan porsi Rp657,8 juta itu yang masuk sebagai beban bunga akuntansi tahun 2025. Tidak ada skema pembayaran bunga berkala, dan seluruh pokok pinjaman wajib dilunasi sekaligus paling lambat 31 Desember 2027, dengan opsi pelunasan dipercepat. Perseroan turut merinci penurunan piutang usaha pihak ketiga dari Rp106,60 miliar per akhir 2025 menjadi Rp44,90 miliar per Maret 2026, setara penurunan kas Rp57,72 miliar setelah dikurangi penyesuaian nonkas Rp3,97 miliar terkait pelepasan KSP, serta penurunan pendapatan diterima di muka dari Rp1,46 miliar menjadi Rp4,2 juta yang mencerminkan realisasi pendapatan jasa berjalan.",
+   "Perseroan juga mengoreksi inkonsistensi data antara Catatan atas Laporan Keuangan nomor 17 dan Laporan Posisi Keuangan, serta melengkapi pengungkapan transaksi nonkas pada catatan nomor 35, sesuai permintaan BEI."
+  ],
+  "fotoAdegan": "Technician's hands connecting cables to a wireless network router mounted in an equipment rack, dim room lighting",
+  "takeaway": "Laporan ini condong negatif bagi DOOH, karena mengonfirmasi bahwa arus kas dari aktivitas operasi pada laporan kuartal I 2026 sempat tercampur penerimaan sekali jalan dari penjualan aset, dan BEI perlu berulang kali meminta rincian sebelum koreksi ini tuntas. Arus kas operasi seharusnya mencerminkan murni kemampuan bisnis inti menghasilkan uang tunai sehari-hari, tanpa penjualan aset atau suntikan dana pihak lain; kalau tercampur transaksi non-operasional seperti ini, pelaku pasar bisa salah menilai seberapa kuat operasional DOOH sebenarnya menghasilkan kas. Beban bunga Rp657,8 juta yang disebut dalam laporan pun bukan bunga tunai sungguhan, melainkan pos akuntansi dari pinjaman pemegang saham berbunga di bawah pasar, sehingga tidak menguras kas perseroan pada tahun ini. Yang perlu dipantau selanjutnya adalah pelunasan pokok pinjaman dari PT Prambanan Investasi Sukses yang jatuh tempo sekaligus paling lambat 31 Desember 2027, serta apakah laporan keuangan hasil koreksi final ini sudah menjawab tuntas seluruh permintaan BEI tanpa surat susulan lagi.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi",
   "category": "BUMN",
   "title": "Penyaluran Pupuk Subsidi Garut Baru [55] Persen dari Alokasi",
@@ -57,6 +84,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah adalah pengerahan konkret 58 tim dari 82 perusahaan subsektor mineral dan batu bara ke posko di Manggarai Timur, Manggarai, dan Nagekeo, berjalan sejak program ESDM Siaga Bencana dimulai 16 Agustus 2026. Yang terdampak langsung adalah warga tiga kabupaten itu yang menerima layanan kesehatan, pertolongan, dan logistik, serta perusahaan tambang yang mengalokasikan personel dan sumber dayanya untuk merespons bencana di luar wilayah operasi mereka. Siaran pers ini belum menyebut berapa lama pengerahan akan berlangsung, berapa banyak warga yang sudah terbantu, atau berapa nilai bantuan logistik yang disalurkan, sehingga belum bisa dipastikan apakah skema ini akan jadi pola tetap ESDM setiap kali bencana atau hanya respons satu kali untuk gempa NTT. Yang perlu ditunggu adalah laporan evaluasi Kementerian ESDM setelah masa tanggap darurat berakhir dan proses beralih ke tahap pemulihan pascabencana.",
   "imageV": "mtn7j7md"
+ },
+ {
+  "slug": "hasil-pubex-dooh-opsi-rights-issue-danai-ambisi-ai",
+  "category": "Aksi Korporasi",
+  "title": "Hasil Pubex DOOH: Opsi [Rights Issue] Danai Ambisi AI",
+  "deck": "Manajemen DOOH mengaku mempertimbangkan rights issue untuk mendanai rencana investasi ekosistem AI senilai puluhan miliar dolar AS, jauh di atas aset perseroan sekitar Rp406 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T23:46:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b62ab88a0_feca62fccf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "Public Expose",
+   "Rights Issue",
+   "Data Center"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menggelar Public Expose Insidentil pada Jumat, 4 September 2026, pukul 15.00 WIB melalui aplikasi Zoom, dihadiri 230 peserta di luar jajaran komisaris dan direksi. Perseroan diwakili oleh Komisaris Independen Mohamad Ikhsan, Direktur Utama Vicktor Aritonang, dan Direktur Devi Nisa Suhartono. Tiga materi yang dipaparkan adalah gambaran umum perseroan, rencana kegiatan usaha, dan kinerja keuangan.",
+   "Sesi tanya jawab memunculkan pertanyaan tajam dari analis bernama Daniel, yang mempertanyakan skema pendanaan rencana investasi DOOH, apakah lewat penerbitan saham baru, utang, atau joint venture, mengingat nilai rencana investasi disebut mencapai puluhan miliar dolar Amerika Serikat, sementara total aset perseroan saat ini baru sekitar Rp406 miliar. Daniel juga mempertanyakan potensi dilusi bagi pemegang saham publik. Vicktor Aritonang menjawab bahwa perseroan masih mendiskusikan opsi aksi korporasi yang paling optimal, termasuk salah satunya pendanaan bersifat ekuitas seperti rights issue, dan berjanji akan mengikuti ketentuan keterbukaan informasi begitu keputusan diambil.",
+   "Dalam sesi yang sama, manajemen memaparkan bahwa DOOH akan berperan sebagai perusahaan induk dengan lima pilar bisnis anak usaha, yaitu Data Center, High Speed Internet, Fiber Optic, Submarine Cable, dan PLTS atau energi hijau. Ekspansi ke lima bidang itu akan ditempuh lewat tiga jalur sekaligus, yakni akuisisi non organik, pertumbuhan organik, dan aksi korporasi, dengan penekanan bahwa lini bisnis yang sudah berjalan saat ini tetap akan dipertahankan berdampingan dengan lini bisnis baru."
+  ],
+  "fotoAdegan": "Technicians walking through a corridor of server racks with blue indicator lights inside a data center facility",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham DOOH, karena manajemen sendiri mengonfirmasi tengah mempertimbangkan pendanaan lewat rights issue untuk membiayai rencana investasi yang disebut bernilai puluhan miliar dolar AS, jauh melampaui aset perseroan saat ini yang baru sekitar Rp406 miliar. Rights issue adalah penerbitan saham baru yang ditawarkan lebih dulu kepada pemegang saham lama; kalau tidak semua pemegang saham lama menyerap jatah barunya, jumlah saham beredar membengkak dan laba per saham berpotensi terdilusi karena keuntungan perseroan harus dibagi ke lebih banyak lembar saham. Kesenjangan antara skala rencana investasi dan aset yang ada saat ini tergolong sangat lebar, sehingga risiko dilusi ini bukan sekadar wacana jika opsi tersebut benar-benar dipilih. Yang perlu dipantau berikutnya adalah keterbukaan informasi resmi soal skema pendanaan final, apakah saham baru, utang, atau joint venture, yang menurut manajemen akan diumumkan begitu keputusan diambil, mengingat sampai laporan ini terbit belum ada tanggal maupun nilai transaksi yang dipatok.",
+  "sentimen": "negatif"
  },
  {
   "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
@@ -297,6 +350,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah bukan cuma soal promosi, ada infrastruktur baru: maskapai STARLUX membuka penerbangan langsung Taipei-Denpasar mulai 1 Oktober 2026, lima kali seminggu, jalur yang sebelumnya belum ada. Yang menarik, jumlah pembeli dari Taiwan yang datang ke acara ini, 49 orang, jauh lebih banyak dibanding 21 penjual jasa wisata dari Indonesia, yang menurut Kepala KDEI Taipei menandakan permintaan wisata ke Indonesia dari Taiwan belum terlayani penuh. Yang kena dampak langsung adalah pelaku usaha pariwisata di Bali karena rute baru itu, sekaligus daerah lain seperti Yogyakarta, Surabaya, dan Labuan Bajo yang coba ditawarkan pemerintah sebagai alternatif dari Bali. Arahnya terlihat menuju upaya menyebar wisatawan Taiwan ke luar Bali lewat produk khusus seperti wisata bahari dan kebugaran, tapi ini baru niat lewat satu acara pertemuan bisnis. Yang akan membuktikan apakah arah ini benar-benar jalan adalah data jumlah wisatawan Taiwan pada semester kedua 2026, setelah rute penerbangan baru itu beroperasi dan bisa dibandingkan dengan capaian 108.989 kunjungan pada semester pertama.",
   "imageV": "mtmxcgrf"
+ },
+ {
+  "slug": "fitt-jawab-bursa-pastikan-tak-ada-informasi-material-tersembunyi",
+  "category": "Aksi Korporasi",
+  "title": "FITT Jawab Bursa, Pastikan Tak Ada [Informasi Material] Tersembunyi",
+  "deck": "FITT menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:43:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c401516b_edd749540c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FITT",
+  "tags": [
+   "FITT",
+   "volatilitas transaksi",
+   "keterbukaan informasi",
+   "akuisisi saham"
+  ],
+  "body": [
+   "PT Fortune Resources Investment Tbk (FITT) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan nomor S-11333/BEI.PP1/09-2026 tanggal 3 September 2026 terkait volatilitas transaksi efek perseroan. Dalam surat bernomor 010/FITT/IX/2026 yang diteken Direktur Utama Gao Shufang, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga sahamnya dan belum diungkapkan ke publik.",
+   "Perseroan menyebut bahwa seluruh informasi material yang dimilikinya sudah pernah diumumkan, yaitu rencana pengambilalihan saham PT Venturi Tambang Perkasa, rencana divestasi entitas anak di bidang perhotelan, serta perubahan kegiatan usaha utama perseroan. Ketiga rencana itu telah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa pada 26 Juni 2026, dan saat ini perseroan berada pada tahap penyelesaian administratif berupa perubahan nama, anggaran dasar, dan klasifikasi bidang usaha.",
+   "Terkait permintaan Bursa agar perseroan mengantisipasi kemungkinan transaksi oleh pemegang saham mayoritas, FITT menyatakan telah mengonfirmasi langsung ke pemegang saham pengendali dan pemegang saham utama. Hasilnya, tidak ada rencana transaksi saham yang perlu diumumkan ke publik selain yang sudah pernah disampaikan, dan pemegang saham mayoritas menyatakan tidak berencana melakukan transaksi tertentu atas sahamnya."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's business district under soft morning light, street traffic below",
+  "takeaway": "Isi surat ini netral bagi emiten: tidak ada informasi baru yang mengubah penilaian atas FITT, hanya konfirmasi bahwa tidak ada yang disembunyikan dari publik. Yang tersentuh di sini bukan angka keuangan, melainkan arah bisnis perseroan, karena FITT sedang dalam proses mengubah kegiatan usaha utamanya lewat akuisisi saham Venturi Tambang Perkasa dan pelepasan unit perhotelan, sementara kepastian bahwa pemegang saham pengendali dan mayoritas tidak berencana melepas saham mengurangi risiko perubahan struktur kepemilikan dalam waktu dekat. Yang perlu dipantau selanjutnya adalah penyelesaian aspek administratif perubahan nama, anggaran dasar, dan klasifikasi bidang usaha perseroan menyusul persetujuan RUPS Luar Biasa 26 Juni 2026, karena baru setelah proses itu rampung arah bisnis baru FITT benar-benar berlaku efektif.",
+  "sentimen": "netral"
  },
  {
   "slug": "safe-bei-umumkan-kepemilikan-saham-terkonsentrasi-98-14",
@@ -668,6 +747,137 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of a modern bank office tower facade in Jakarta's financial district with commuters and cars passing below, late afternoon light.",
   "takeaway": "Tanggapan ini condong netral bagi BANK: perseroan menyangkal punya informasi material yang menjelaskan lonjakan volatilitas harga sahamnya, dan satu-satunya aksi korporasi yang diungkap, yakni rencana penerbitan sukuk wakalah tahap kedua, adalah kelanjutan program pembiayaan yang sudah berjalan, bukan kejutan baru. Penerbitan sukuk semacam ini nantinya menambah arus kas masuk perseroan dari dana pemodal profesional, tapi di sisi lain juga menambah beban imbal hasil rutin yang harus dibayar bank ke pemegang sukuk secara berkala, semacam bunga pada produk konvensional, sehingga pelaku pasar biasa mencermati apakah tambahan dana itu sepadan dengan beban baru tersebut. Yang perlu dipantau selanjutnya adalah realisasi Penawaran Umum Berkelanjutan Sukuk Wakalah Tahap II ini pada triwulan IV 2026, termasuk besaran dana yang berhasil diserap, serta apakah Bursa Efek Indonesia masih memandang perlu pemantauan lanjutan atas transaksi saham BANK setelah penjelasan ini disampaikan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "btps-siapkan-buyback-saham-rp1-triliun-rupslb-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Siapkan [Buyback] Saham Rp1 Triliun, RUPSLB 13 Oktober",
+  "deck": "BTPN Syariah berencana membeli kembali saham senilai maksimal Rp1 triliun atau hingga 10 persen saham beredar, menunggu persetujuan RUPSLB pada 13 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:11:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abb99709fd_d0c62fbc08.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "Bank BTPN Syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) mengungkapkan rencana pembelian kembali (buyback) sahamnya sendiri, sebagaimana tercantum dalam materi Paparan Publik Tahunan 2026 yang dikirim ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 4 September 2026. Rencana ini masih memerlukan persetujuan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 13 Oktober 2026. Dana yang dialokasikan untuk buyback ini maksimal Rp1,0 triliun, termasuk biaya-biaya terkait, dengan batas jumlah saham yang boleh dibeli kembali maksimal 10 persen dari total saham beredar sesuai ketentuan yang berlaku.",
+   "Jika disetujui, pelaksanaan buyback direncanakan berlangsung selama 12 bulan sejak 14 Oktober 2026. Perseroan menyatakan seluruh dana buyback berasal dari ekuitas internal, mencakup saldo laba ditahan dan arus kas, tanpa melibatkan pinjaman baru, dan menyebut kapasitas keuangannya cukup untuk membiayai buyback sekaligus operasional bisnis yang berjalan. Aksi ini mengacu pada Peraturan OJK Nomor 29/2023 dan ditujukan untuk meningkatkan likuiditas perdagangan saham BTPS serta membuat harga saham lebih mencerminkan kondisi fundamental bank.",
+   "Rencana ini muncul di tengah kondisi keuangan BTPS yang masih solid. Per akhir Juni 2026, ekuitas perseroan tercatat Rp10,26 triliun, naik 6 persen dibanding setahun sebelumnya, dengan rasio kecukupan modal atau CAR mencapai 58,7 persen, jauh di atas ambang minimum yang diwajibkan regulator. Laba bersih semester pertama 2026 tercatat Rp655 miliar, naik 2 persen dibanding periode sama tahun lalu, sementara pembiayaan yang disalurkan tumbuh 9 persen menjadi Rp11,03 triliun. Materi ini merupakan versi koreksi bilingual dari paparan publik yang sebelumnya disampaikan BTPS pada 2 September 2026, ditandatangani oleh Corporate Secretary and General Counsel Head Yunita C. Haerani."
+  ],
+  "fotoAdegan": "Bank teller helping a customer at a service counter inside a modern branch, natural light through glass windows, midday",
+  "takeaway": "Rencana buyback ini condong positif bagi pemegang saham BTPS karena seluruhnya didanai dari ekuitas internal, bukan utang baru, dan menunjukkan bank punya kelebihan modal jauh di atas kebutuhan operasionalnya. Buyback berarti bank membeli kembali sahamnya sendiri dari pasar sehingga jumlah saham yang beredar berkurang, dan kalau laba bersihnya tetap, laba per saham otomatis naik karena dibagi dengan jumlah saham yang lebih sedikit, itu sebabnya aksi semacam ini biasa dibaca pasar sebagai sinyal kepercayaan diri manajemen. Perlu dicatat, dana sampai Rp1 triliun ini setara sekitar 10 persen dari ekuitas BTPS per Juni 2026 yang tercatat Rp10,26 triliun, jadi bukan angka kecil meski rasio kecukupan modal bank masih sangat tebal di 58,7 persen. Yang dipantau berikutnya adalah hasil RUPSLB pada 13 Oktober 2026, karena rencana ini baru bisa berjalan kalau disetujui pemegang saham, dengan periode pelaksanaan dijadwalkan mulai 14 Oktober 2026 selama 12 bulan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "prda-beli-kembali-5-02-juta-saham-rp13-1-m-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "PRDA Beli Kembali [5,02 Juta] Saham, Rp13,1 M Terpakai",
+  "deck": "Prodia Widyahusada merampungkan 11 hari transaksi buyback sejak 20 Agustus, membeli 5,02 juta saham di kisaran Rp2.474-Rp2.783, dengan sisa dana Rp136,89 miliar per 4 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:55:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cace431214_81571856cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali saham (buyback) per 4 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, menyusul keterbukaan informasi 19 Agustus 2026 tentang rencana buyback dalam kondisi pasar yang berfluktuasi signifikan, sesuai Pasal 12 ayat (1) Peraturan OJK Nomor 13 Tahun 2023. Laporan yang ditandatangani Corporate Secretary Marina Eka Amalia ini merinci transaksi pembelian saham perseroan sendiri selama 11 hari bursa sejak 20 Agustus hingga 4 September 2026.",
+   "Rincian transaksi harian menunjukkan pembelian pada 20 Agustus sebanyak 595.900 saham di harga rata-rata Rp2.548, 21 Agustus 187.900 saham di Rp2.552, 24 Agustus 136.200 saham di Rp2.482, 26 Agustus 388.200 saham di Rp2.474, 27 Agustus 660.100 saham di Rp2.553, 28 Agustus 1.331.700 saham di Rp2.591, 31 Agustus 305.000 saham di Rp2.602, 1 September 270.200 saham di Rp2.652, 2 September 168.600 saham di Rp2.657, 3 September 196.200 saham di Rp2.700, dan 4 September 781.700 saham di Rp2.783.",
+   "Secara keseluruhan, Prodia telah membeli kembali 5.021.700 saham, setara 0,52 persen dari total saham yang tercatat di BEI, dengan harga transaksi berkisar antara Rp2.474 dan Rp2.783 per saham. Dana yang terpakai untuk seluruh transaksi ini sekitar Rp13,1 miliar, sehingga sisa dana untuk pembelian kembali saham yang masih bisa digunakan perseroan tercatat Rp136.886.305.450 per 4 September 2026."
+  ],
+  "fotoAdegan": "Laboratory technicians in blue scrubs processing blood sample tubes on an automated diagnostic analyzer, bright clinical lighting",
+  "takeaway": "Laporan ini netral bagi kinerja Prodia: perusahaan memang konsisten membeli kembali sahamnya setiap hari bursa selama dua pekan terakhir, tapi jumlahnya baru 0,52 persen dari total saham beredar sehingga belum mengubah struktur pemegang saham secara berarti. Yang tersentuh adalah kas perusahaan dan jumlah saham beredar, sebab setiap saham yang dibeli balik mengurangi kas sekitar Rp13,1 miliar sejauh ini dan sedikit memperkecil jumlah saham beredar, yang secara teori bisa membuat laba per saham naik tipis karena pembaginya mengecil, meski efeknya masih kecil pada tahap ini. Yang perlu dipantau berikutnya adalah kelanjutan realisasi ini, karena dari dana yang tampaknya dialokasikan sekitar Rp150 miliar, Prodia baru memakai Rp13,1 miliar dan masih menyisakan Rp136,89 miliar per 4 September 2026, sehingga laporan-laporan harian berikutnya akan menunjukkan apakah pembelian terus berlanjut dengan kecepatan yang sama atau melambat seiring pasar yang lebih stabil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akku-gelar-paparan-publik-insidentil-bahas-suspensi-saham",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Gelar Paparan Publik Insidentil Bahas [Suspensi] Saham",
+  "deck": "AKKU akan menggelar Public Expose Insidentil pada 18 September 2026 di Bandung untuk menjelaskan suspensi perdagangan sahamnya kepada publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:43:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d13c571926_a851b94b47.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) mengumumkan rencana penyelenggaraan Public Expose Insidentil pada Jumat, 18 September 2026, pukul 10.30 WIB sampai selesai, bertempat di Apartemen Grand Asia Afrika, Jl. Karapitan No. 1, Paledang, Kecamatan Lengkong, Kota Bandung, Jawa Barat 40261. Agenda tunggal pertemuan ini adalah keterbukaan informasi terkait suspensi, yakni penghentian sementara perdagangan, saham Perseroan di bursa.",
+   "Penyelenggaraan paparan publik ini merupakan kewajiban berdasarkan Peraturan Bursa Efek Indonesia Nomor 00015/BEI/01-2021 Pasal III.3 tentang Perubahan Peraturan Nomor I-E mengenai Kewajiban Penyampaian Informasi, khususnya kewajiban public expose. Pengumuman resmi ditandatangani oleh Irwan Suryadi selaku Direktur Utama AKKU pada 4 September 2026 di Bandung, sementara laporan elektronik ke sistem keterbukaan informasi bursa dikirimkan oleh Irwan Suryadi yang dalam dokumen itu tercatat menjabat Corporate Secretary Perseroan.",
+   "Dokumen ini tidak merinci penyebab suspensi saham AKKU. Perseroan menyatakan penjelasan lengkap baru akan disampaikan langsung dalam forum paparan publik tersebut kepada pemegang saham, otoritas, dan masyarakat."
+  ],
+  "fotoAdegan": "Modern apartment and commercial complex exterior in Bandung, tropical trees along the driveway, late afternoon sunlight, no signage visible.",
+  "takeaway": "Laporan ini condong negatif bagi AKKU, sebab intinya mengonfirmasi bahwa perdagangan saham Perseroan tengah dihentikan sementara oleh bursa dan perusahaan baru akan menjelaskan alasannya dua pekan kemudian. Suspensi menahan likuiditas saham AKKU, artinya pemegang saham untuk sementara tidak bisa menjual atau membeli saham ini di pasar reguler sampai penghentian itu dicabut, sehingga dana yang tertanam di saham ini ikut tertahan. Yang perlu dipantau adalah paparan publik itu sendiri pada 18 September 2026 pukul 10.30 WIB di Bandung, saat AKKU wajib mengungkap alasan suspensi kepada BEI, OJK, dan publik. Kelanjutan status perdagangan saham AKKU akan sangat bergantung pada isi penjelasan yang disampaikan dalam forum tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "csmi-jawab-bursa-kas-rp237-65-juta-utang-afiliasi-rp25-1-m",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Jawab Bursa: Kas Rp237,65 Juta, Utang [Afiliasi] Rp25,1 M",
+  "deck": "CSMI menjawab permintaan penjelasan Bursa soal kas yang menipis ke Rp237,65 juta dan utang ke perusahaan afiliasi Rp25,1 miliar, di tengah rugi bersih yang masih berlanjut per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:10:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2987bcc802_d2eec255eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSMI",
+  "tags": [
+   "CSMI",
+   "likuiditas",
+   "keterbukaan informasi",
+   "NWS Chicken"
+  ],
+  "body": [
+   "PT Cipta Selera Murni Tbk. (CSMI) menyampaikan jawaban resmi atas Surat Bursa No. S-11268/BEI.PP2/09-2026 tanggal 2 September 2026, yang meminta penjelasan soal kegiatan usaha dan kinerja keuangan perseroan per 30 Juni 2026. Jawaban bernomor 001/OL/CSM-DIR/IX/2026 itu ditandatangani Radino Miharjo selaku Direktur Utama dan disampaikan ke bursa pada 4 September 2026 pukul 16.10. Dalam surat itu, perseroan menjelaskan bahwa saat ini hanya mengoperasikan 4 outlet di wilayah Jawa dan Sumatera di bawah merek NWS Chicken, dengan rencana pembukaan outlet baru untuk 2026 belum ditetapkan karena masih menunggu evaluasi kinerja outlet yang sudah berjalan dan kelayakan lokasi.",
+   "Bursa secara spesifik mempertanyakan apakah operasional perseroan dapat tetap berjalan dengan kas dan setara kas yang hanya sebesar Rp237,65 juta per 30 Juni 2026. CSMI menjawab bahwa operasional dipastikan tetap berjalan lewat pengaturan arus kas yang ketat, didukung penerimaan rutin dari piutang usaha dan penjualan harian. Perseroan menyebut pendapatan periode Januari-Juni 2026 naik dibanding periode sama tahun sebelumnya, didorong pertumbuhan volume penjualan, pemasaran yang lebih tepat sasaran, dan perbaikan daya beli konsumen. Namun perseroan tetap membukukan rugi usaha dan rugi bersih, yang menurut manajemen disebabkan oleh tingginya beban operasional, penyesuaian biaya bahan dan jasa, serta investasi ekspansi yang belum sepenuhnya terkompensasi oleh pendapatan.",
+   "Dari sisi kewajiban, CSMI mencatat utang usaha Rp1,7 miliar per 30 Juni 2026 yang disebut sebagai bagian normal dari siklus bisnis dengan umur sesuai termin pembayaran ke pemasok. Yang jauh lebih besar adalah utang lain-lain kepada PT Cipta Swadaya Murni, pihak berelasi, senilai Rp25,1 miliar, yang menurut perseroan digunakan sebagai tambahan modal kerja dan akan dilunasi dari arus kas operasional masa depan atau lewat pendanaan ulang. Perseroan juga mencatat beban akrual gaji, insentif, dan tunjangan karyawan sebesar Rp5,7 miliar yang akan dibayar dari kas operasional sesuai siklus penggajian rutin. Untuk mitigasi risiko likuiditas, perseroan menyebut strategi mempercepat penagihan piutang, negosiasi ulang jadwal pembayaran dengan pemasok, dan menyiapkan opsi fasilitas pendanaan dari lembaga keuangan bila diperlukan.",
+   "Perseroan juga mengungkapkan bahwa pendaftaran merek NWS Chicken di Direktorat Jenderal Kekayaan Intelektual masih dalam proses, terkendala isu kesamaan nama dengan merek lain meski di bidang usaha berbeda. CSMI menyatakan tidak ada kontrak, sumber pendapatan baru, perkara hukum, atau informasi material lain yang bersifat signifikan dan belum diungkapkan ke publik, serta menilai pergerakan harga sahamnya murni akibat mekanisme pasar dan sentimen makroekonomi."
+  ],
+  "fotoAdegan": "Cooks frying chicken pieces behind a fast food counter, stainless steel kitchen equipment, warm overhead lighting, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi CSMI, karena bursa sendiri mempertanyakan kelangsungan operasional saat kas perusahaan cuma Rp237,65 juta, sementara utang ke perusahaan afiliasi saja sudah Rp25,1 miliar, jauh melampaui kas yang tersedia. Pos yang tersentuh di sini adalah arus kas dan struktur utang, kas adalah uang tunai yang bisa langsung dipakai untuk kebutuhan sehari-hari, dan kalau jumlahnya sekecil ini dibanding kewajiban yang harus dibayar, perusahaan jadi bergantung pada penagihan piutang harian atau pinjaman baru supaya tetap bisa beroperasi. Rugi usaha dan rugi bersih yang masih dibukukan per Juni 2026 juga berarti laba per saham, yakni bagian keuntungan yang secara teori jadi hak tiap lembar saham, masih negatif alias belum ada yang bisa dinikmati pemegang saham. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat apakah posisi kas membaik atau utang ke PT Cipta Swadaya Murni justru bertambah, serta kelanjutan pendaftaran merek NWS Chicken yang sampai sekarang belum tuntas karena benturan nama dengan merek lain.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "suni-menangkan-tender-pengadaan-casing-dari-pertamina-ep",
+  "category": "Aksi Korporasi",
+  "title": "SUNI Menangkan [Tender] Pengadaan Casing dari Pertamina EP",
+  "deck": "SUNI ditetapkan sebagai pemenang tender pengadaan casing oleh Pertamina EP senilai US$3,19 juta dengan masa kerja sekitar delapan bulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:53:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/330b37a9cf_aaabcbd8ad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUNI",
+  "tags": [
+   "SUNI",
+   "Pertamina EP",
+   "tender",
+   "kontrak"
+  ],
+  "body": [
+   "PT Sunindo Pratama Tbk (SUNI) mengumumkan bahwa perseroan ditetapkan sebagai pemenang tender oleh PT Pertamina EP pada Jumat, 4 September 2026. Penetapan ini tertuang dalam Surat Penunjukan Pemenang Tender No. 1126/PHR70510/2026-S0, untuk tender bernomor GX10064375A.",
+   "Tender yang dimenangkan SUNI adalah pengadaan casing atau pipa selubung sumur bor berukuran 13 3/8 inci kelas Low Grade untuk kebutuhan wilayah Regional 1 Pertamina EP, melalui skema TFC. Nilai kontraknya US$3.193.417,50, dengan jangka waktu pengerjaan 6 bulan ditambah 50 hari kalender, atau sekitar delapan bulan sejak tanggal penunjukan.",
+   "Dalam dokumen yang ditandatangani Corporate Secretary SUNI, Freddy Soejandy, perseroan menyatakan kemenangan tender ini diharapkan berdampak positif terhadap kegiatan operasional lewat penambahan proyek yang dikerjakan, serta berpotensi meningkatkan pendapatan dan profitabilitas perseroan pada 2027. Perseroan juga menyebut keberhasilan ini diharapkan memperkuat posisinya untuk memperoleh proyek-proyek berikutnya dari klien yang sama."
+  ],
+  "fotoAdegan": "Stacked steel well casing pipes at an oilfield equipment yard, workers in safety vests inspecting them, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi SUNI karena berarti ada kontrak baru senilai lebih dari US$3 juta dari klien besar seperti Pertamina EP, meski perseroan sendiri menyebut dampaknya baru terasa pada pendapatan dan profitabilitas tahun 2027, bukan langsung tahun ini. Pos kinerja yang tersentuh adalah pendapatan dan laba perseroan, karena kontrak pengadaan seperti ini akan tercatat sebagai penjualan begitu barang dikirim dan dibayar, sehingga pelaku pasar biasanya mencermati apakah kontrak semacam ini cukup besar untuk mengubah angka penjualan tahunan perseroan secara berarti. Yang perlu dipantau berikutnya adalah realisasi pengerjaan kontrak selama masa kerja sekitar delapan bulan sejak 4 September 2026, serta apakah kontribusinya benar-benar muncul dalam laporan keuangan 2027 seperti yang disebutkan perseroan sendiri.",
+  "sentimen": "positif"
  },
  {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",

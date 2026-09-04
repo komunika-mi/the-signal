@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
+  "category": "BUMN",
+  "title": "Realisasi Pupuk Subsidi Takalar Baru [48] Persen dari Alokasi",
+  "deck": "PT Pupuk Indonesia dan Kementan menggelar evaluasi tata kelola pupuk bersubsidi di Takalar, saat realisasi penebusan baru mencapai 48 persen dari alokasi 31.776 ton hingga Agustus 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi.jpg",
+  "imageV": "mtmxc6mj",
+  "tags": [],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/880/perkuat-tata-kelola-dan-pengawasan-pupuk-indonesia-dorong-penyaluran-pupuk-bersubsidi-tepat-sasaran-di-takalar",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks",
+  "category": "UMKM",
+  "title": "UMKM Klaten Tembus Ekspor, Pemasok [900] Gerai Starbucks",
+  "deck": "Usaha kayu asal Klaten, Citra Fajar Utama, tumbuh dari penggergajian sewaan 1998 jadi eksportir ke Asia, Eropa, Afrika, dan pemasok hampir 900 gerai kopi di dalam negeri.",
+  "date": "4 September 2026",
+  "image": "assets/img/umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks.jpg",
+  "imageV": "mtmxc9df",
+  "tags": [
+   "ekspor",
+   "UMKM kayu",
+   "Klaten",
+   "Starbucks"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kisah-cfu-asal-klaten-menembus-pasar-lokal-dan-global-dari-penggergajian-sederhana-ke-pemasok-perlengkapan-900-gerai-kopi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri",
+  "category": "Bisnis",
+  "title": "STARLUX Buka Rute [Langsung] Taipei-Bali, Sasar Wisatawan RI",
+  "deck": "KDEI Taipei dan Kemenpar menggelar misi penjualan paket wisata ke Indonesia di Taipei, sementara STARLUX Airlines membuka rute langsung Taipei-Denpasar mulai Oktober 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri.jpg",
+  "imageV": "mtmxcgrf",
+  "tags": [
+   "pariwisata",
+   "Taiwan",
+   "KDEI Taipei",
+   "penerbangan langsung"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-perdagangan-jasa-pariwisata-kdei-taipei-gelar-misi-penjualan-paket-wisata-ke-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
+  "category": "Ketenagakerjaan",
+  "title": "BPJS Ketenagakerjaan Perkuat Layanan Pekerja [Informal] Pekalongan",
+  "deck": "BPJS Ketenagakerjaan mendekatkan layanan ke Pekalongan lewat kunjungan langsung manajemen, santunan bagi ahli waris, dan kolaborasi mahasiswa menjaring pekerja informal.",
+  "date": "4 September 2026",
+  "image": "assets/img/bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan.jpg",
+  "imageV": "mtmxchal",
+  "tags": [
+   "BPJS Ketenagakerjaan",
+   "Pekalongan",
+   "pekerja informal",
+   "Harpelnas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464909-rayakan-harpelnas-2026-bpjs-ketenagakerjaan-perkuat-layanan-perlindungan-dan-pemberdayaan-pekerja-di-kota-pekalongan"
+ },
+ {
   "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
   "category": "Aksi Korporasi",
   "title": "WTON Ungkap Kontrak Baru Rp2,27 T, tapi [Laba Per Saham] Anjlok",
@@ -99,6 +165,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce18433a87_d4159772a0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta",
+  "category": "BUMN",
+  "title": "PAM JAYA Beri Toren dan Sambungan [Gratis] ke Warga Jakarta",
+  "deck": "PAM JAYA menegaskan komitmennya di Hari Pelanggan lewat sambungan rumah gratis untuk warga miskin, toren gratis, dan mesin air siap minum di ruang publik Jakarta.",
+  "date": "4 September 2026",
+  "image": "assets/img/pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta.jpg",
+  "imageV": "mtmxchsk",
+  "tags": [
+   "PAM JAYA",
+   "air bersih",
+   "Jakarta",
+   "Hari Pelanggan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464898-hari-pelanggan-pam-jaya-bongkar-beragam-program-untuk-permudah-akses-air-perpipaan-warga-jakarta"
  },
  {
   "slug": "peve-akui-salah-saji-laporan-kas-tersisa-rp7-5-miliar",
@@ -6479,88 +6562,6 @@ var ARTICLES = [
    "Cipta Selera Murni"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c24680a3f9_07d1cf76ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpr-soroti-gaji-31-000-karyawan-pos-indonesia",
-  "category": "BUMN",
-  "title": "DPR Soroti [Gaji] 31.000 Karyawan Pos Indonesia",
-  "deck": "DPR menerima audiensi PT Pos Indonesia soal kepastian gaji 31.000 karyawan yang jatuh tempo 1 September, di tengah keuangan perusahaan yang terpuruk dan tagihan Kemensos yang belum cair.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/dpr-soroti-gaji-31-000-karyawan-pos-indonesia.jpg",
-  "imageV": "mt9sq4cy",
-  "tags": [
-   "PT Pos Indonesia",
-   "DPR",
-   "BUMN",
-   "gaji karyawan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462650-pimpinan-dpr-gelar-audiensi-bahas-nasib-pt-pos-indonesia-soroti-kepastian-gaji-31000-karyawan"
- },
- {
-  "slug": "purbaya-pastikan-anggaran-karhutla-siap-cair",
-  "category": "Makroekonomi",
-  "title": "Purbaya Pastikan Anggaran Karhutla [Siap] Cair",
-  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa memastikan dana tambahan penanganan karhutla siap cair begitu BNPB mengajukan rincian kebutuhan biaya.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/purbaya-pastikan-anggaran-karhutla-siap-cair.jpg",
-  "imageV": "mt9sq526",
-  "tags": [
-   "karhutla",
-   "BNPB",
-   "Kemenkeu",
-   "anggaran bencana"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462648-purbaya-pastikan-siap-tambah-dana-untuk-atasi-karhutla"
- },
- {
-  "slug": "wege-raih-kontrak-baru-rp775-miliar-naik-568-yoy",
-  "category": "Aksi Korporasi",
-  "title": "WEGE Raih [Kontrak] Baru Rp775 Miliar, Naik 568% YoY",
-  "deck": "Kontrak baru WEGE per Agustus 2026 melonjak jadi Rp775 miliar, didominasi proyek pemerintah, di tengah rencana divestasi aset lebih dari Rp1 triliun untuk memperkuat likuiditas.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WEGE",
-   "kontrak konstruksi",
-   "BUMN karya",
-   "divestasi aset"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a1d0310bfa_1cd8551fd3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbni-jadwalkan-public-expose-9-september-bahas-kinerja-q2",
-  "category": "Aksi Korporasi",
-  "title": "BBNI Jadwalkan [Public Expose] 9 September, Bahas Kinerja Q2",
-  "deck": "Bank BNI akan menggelar Public Expose Live 2026 pada 9 September membahas kinerja kuartal II dan strategi perusahaan, dengan dua pejabat sebagai pembicara.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "Bank BNI",
-   "Public Expose",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50a5040c66_957425e3eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-gelar-public-expose-tahunan-9-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Gelar [Public Expose] Tahunan 9 September 2026",
-  "deck": "Adhi Karya akan memaparkan kinerja semester I 2026 dan strategi usaha dalam Public Expose Live pada 9 September 2026, di tengah sorotan gagal bayar kupon obligasi.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "Adhi Karya",
-   "Public Expose",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/793357ec76_b1b9c075ab.pdf",
   "sourceLabel": "IDX"
  }
 ];

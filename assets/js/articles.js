@@ -3,6 +3,113 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
+  "category": "BUMN",
+  "title": "Realisasi Pupuk Subsidi Takalar Baru [48] Persen dari Alokasi",
+  "deck": "PT Pupuk Indonesia dan Kementan menggelar evaluasi tata kelola pupuk bersubsidi di Takalar, saat realisasi penebusan baru mencapai 48 persen dari alokasi 31.776 ton hingga Agustus 2026.",
+  "image": "assets/img/realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:13:10.047Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/880/perkuat-tata-kelola-dan-pengawasan-pupuk-indonesia-dorong-penyaluran-pupuk-bersubsidi-tepat-sasaran-di-takalar",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [],
+  "body": [
+   "PT Pupuk Indonesia bersama Kementerian Pertanian menggelar evaluasi administrasi sekaligus sosialisasi aturan penyaluran pupuk bersubsidi di Kabupaten Takalar, Sulawesi Selatan, pada 27 Agustus 2026. Kegiatan ini menyasar ketepatan data penerima, mekanisme penebusan, dan pengawasan distribusi, mengacu pada dua aturan teknis baru Kementerian Pertanian tahun 2026 soal penyaluran pupuk dari titik serah ke petani.",
+   "Berdasarkan data hingga Agustus 2026, Kabupaten Takalar mendapat alokasi pupuk bersubsidi 31.776 ton, dan baru 15.286 ton atau sekitar 48 persen yang sudah ditebus petani. Regional CEO 4 Pupuk Indonesia, Wisnu Ramadhani, menyebut penyaluran harus memenuhi prinsip tujuh tepat, yaitu tepat penerima, jenis, jumlah, waktu, harga, tempat, dan mutu.",
+   "Dalam sosialisasi itu, Pupuk Indonesia memetakan sejumlah potensi penyimpangan yang jadi sasaran pengawasan, antara lain penebusan yang melebihi alokasi, penebusan oleh pihak yang tidak terdaftar dalam sistem, harga yang tidak sesuai ketentuan, serta penyaluran ke luar wilayah yang ditetapkan.",
+   "Kementerian Pertanian turut hadir melalui Muhammad Aditya Hamzah Arfahmi, Tim Kerja Administrasi Pupuk Bersubsidi sekaligus penanggung jawab wilayah Sulawesi Selatan, yang memberikan penjelasan kebijakan kepada pemangku kepentingan di daerah. Kehadiran ini dimaksudkan untuk menyamakan pemahaman antara pemerintah pusat, pemerintah daerah, Pupuk Indonesia, dan pelaku distribusi di lapangan."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1835/conversions/WhatsApp-Image-2026-09-04-at-13.43.16-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah di sini bukan alokasi atau harga pupuk, melainkan aturan mainnya: Kementerian Pertanian menerbitkan dua ketentuan teknis baru tahun 2026 yang merinci cara pupuk bersubsidi berpindah dari titik serah ke tangan petani, dan Pupuk Indonesia memakai forum di Takalar ini untuk menyosialisasikannya. Yang terdampak langsung adalah petani terdaftar yang berhak menebus pupuk, serta kios dan distributor resmi yang kini harus lebih tertib mencatat setiap transaksi karena empat celah penyimpangan sudah dipetakan, yakni penebusan melebihi alokasi, penebusan oleh pihak tak terdaftar, harga tidak sesuai, dan penyaluran ke luar wilayah. Soal angka realisasi 48 persen dari alokasi tahunan per Agustus, datanya belum cukup untuk disimpulkan itu lambat atau normal, karena bisa saja penyerapan memang menumpuk di musim tanam berikutnya. Yang akan menjawabnya adalah angka realisasi di akhir tahun anggaran 2026 dan apakah kabupaten lain di Sulawesi Selatan menunjukkan pola penyerapan yang sama.",
+  "imageV": "mtmxc6mj"
+ },
+ {
+  "slug": "umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks",
+  "category": "UMKM",
+  "title": "UMKM Klaten Tembus Ekspor, Pemasok [900] Gerai Starbucks",
+  "deck": "Usaha kayu asal Klaten, Citra Fajar Utama, tumbuh dari penggergajian sewaan 1998 jadi eksportir ke Asia, Eropa, Afrika, dan pemasok hampir 900 gerai kopi di dalam negeri.",
+  "image": "assets/img/umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:11:00.230Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kisah-cfu-asal-klaten-menembus-pasar-lokal-dan-global-dari-penggergajian-sederhana-ke-pemasok-perlengkapan-900-gerai-kopi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "ekspor",
+   "UMKM kayu",
+   "Klaten",
+   "Starbucks"
+  ],
+  "body": [
+   "Sebuah usaha pengolahan kayu di Kabupaten Klaten, Jawa Tengah, bernama Citra Fajar Utama (CFU) tumbuh dari bengkel penggergajian yang disewa pemiliknya, Doddik Sulistiono, pada 1998 menjadi eksportir produk kayu ke sejumlah negara di Asia, Eropa, dan Afrika. Selain menembus pasar luar negeri, CFU kini juga menjadi pemasok perlengkapan interior untuk hampir 900 gerai kopi Starbucks di Indonesia. Kisah ini menunjukkan bahwa usaha kecil di daerah punya peluang masuk ke rantai pasok internasional maupun rantai pasok perusahaan multinasional, asal mampu menjaga standar kualitas produk.",
+   "Doddik memulai usahanya dengan menyewa tempat penggergajian di Klaten pada 1998, lalu baru mampu membeli lahan dan membangun pabrik sendiri pada 2012. Ekspor perdana CFU justru terjadi lebih awal, yaitu pada 2005, berupa produk lantai kayu (flooring) yang dikirim ke Taiwan. Dari sana, pasar ekspornya meluas ke Tiongkok dan Eropa, yang kini menjadi pasar terbesar CFU, ditambah satu proyek di Ghana. Perusahaan ini juga tengah menjajaki pasar baru di Eropa Timur, Amerika Serikat, dan Amerika Latin, dengan produk yang makin beragam mulai dari kerajinan kayu, furnitur berbahan kayu jati, hingga finger-joint laminated board.",
+   "Hubungan CFU dengan gerai-gerai kopi bermula dari sebuah pameran domestik pada 2015, ketika perusahaan ini menawarkan bahan finger-joint laminated board. Peluang itu berlanjut pada 2016, saat CFU mendapat pesanan membuat meja untuk sebuah gerai Starbucks di kawasan Menteng, Jakarta, dengan masa uji coba enam bulan untuk memastikan produknya tidak mudah rusak. Doddik dan timnya memperkuat kualitas lem serta keterampilan pekerja agar lolos uji tersebut, dan setelah berhasil, CFU dipercaya mengerjakan kebutuhan gerai Starbucks lain hingga totalnya kini mencapai hampir 900 gerai.",
+   "Doddik menyebut perjalanan menembus pasar ekspor tidak selalu mulus, salah satunya karena perubahan regulasi yang bisa memengaruhi biaya dan waktu pengiriman. Ia berharap Kementerian Perdagangan menyederhanakan aturan ekspor serta memperbanyak pelatihan yang sesuai kebutuhan industri kayu, mengingat pengembangan sektor ini melibatkan sinergi berbagai kementerian. Di luar capaian ekspornya, Doddik menyebut sebagian besar tenaga kerja CFU berasal dari warga sekitar pabrik di Klaten, sehingga pertumbuhan usahanya juga membuka lapangan kerja di daerah tersebut."
+  ],
+  "fotoAdegan": "Workers sanding wooden furniture panels in a small factory workshop, sawdust in the air, warm daylight through open doors",
+  "fotoSumber": "https://www.kemendag.go.id/albums/9aDvC8PT2RmLlPiIfVU0WZ4ipOBVSCeIyhRtPc11.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan pemerintah, melainkan skala satu usaha kayu di Klaten yang naik dari bengkel sewaan pada 1998 menjadi eksportir ke belasan negara dan pemasok hampir 900 gerai kopi di dalam negeri. Yang langsung terdampak adalah pekerja lokal di sekitar pabrik Klaten serta sesama pelaku UMKM kayu dan furnitur yang bisa melihat CFU sebagai salah satu jalur naik kelas ke pasar ekspor. Doddik menyinggung keluhan lama pelaku ekspor, yaitu regulasi yang sering berubah membebani biaya dan waktu, serta meminta lebih banyak pelatihan lintas kementerian, tapi siaran pers ini tidak menyebut rencana atau tenggat konkret dari Kementerian Perdagangan untuk merespons permintaan itu. Karena ini kisah satu perusahaan yang dipilih sebagai contoh sukses, belum bisa disimpulkan apakah lonjakan ekspornya mencerminkan tren industri kayu dan furnitur nasional secara luas, sehingga yang perlu ditunggu adalah data ekspor industri kayu olahan nasional dan kelanjutan janji penyederhanaan regulasi yang diminta pelaku usaha.",
+  "imageV": "mtmxc9df"
+ },
+ {
+  "slug": "starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri",
+  "category": "Bisnis",
+  "title": "STARLUX Buka Rute [Langsung] Taipei-Bali, Sasar Wisatawan RI",
+  "deck": "KDEI Taipei dan Kemenpar menggelar misi penjualan paket wisata ke Indonesia di Taipei, sementara STARLUX Airlines membuka rute langsung Taipei-Denpasar mulai Oktober 2026.",
+  "image": "assets/img/starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:10:53.199Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-perdagangan-jasa-pariwisata-kdei-taipei-gelar-misi-penjualan-paket-wisata-ke-indonesia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "pariwisata",
+   "Taiwan",
+   "KDEI Taipei",
+   "penerbangan langsung"
+  ],
+  "body": [
+   "Kantor Dagang dan Ekonomi Indonesia (KDEI) Taipei bersama Kementerian Pariwisata menggelar misi penjualan paket wisata bertajuk Wonderful Indonesia Sales Mission di kantor KDEI Taipei pada 2 September 2026. Acara ini mempertemukan penjual jasa pariwisata dari Indonesia dengan calon pembeli dari Taiwan, mulai dari paket perjalanan, akomodasi hotel, hingga wisata pelayaran, yang bisa langsung ditransaksikan di tempat. Langkah ini bersamaan dengan pembukaan rute penerbangan langsung baru yang menghubungkan Taipei dan Bali.",
+   "Sebanyak 21 pelaku industri pariwisata Indonesia mengikuti acara ini, terdiri dari 14 agen perjalanan dan penyelenggara tur, yaitu ARSAwisata Tours, Panorama Destination, Floressa Bali Tours, Java Traveller Indonesia, Bali Megah Wisata (BMW), TJTS-Bali, PT Anugerahjaya Sukses Lestari, Travel Hangar, PT Yorker Holidays DMC, Elior Tour, Monas Tours & Travel, STAT Indonesia Tours, The Saku Travel, dan Zada Liveaboard. Tujuh peserta lain berasal dari sektor akomodasi, yaitu Impiana Private Villas Seminyak, Louvre Hotels Group South East Asia, Hotel Kimaya Sudirman Yogyakarta by HARRIS, Hotel MaxOne Ubud, Tijili Benoa Hotel, PHM Hotels, dan Lereng Bromo Hotel. Di sisi pembeli jumlahnya lebih banyak, yakni 49 pelaku industri pariwisata asal Taiwan, sebagian sudah menjual paket wisata ke Indonesia dan sebagian baru berminat menjajaki.",
+   "Kepala KDEI Taipei, Arif Sulistiyo, mengatakan pasar Taiwan masih punya ruang tumbuh besar bagi jasa pariwisata Indonesia, dan mendorong promosi destinasi di luar Bali seperti Jakarta, Yogyakarta, Pasuruan, Surabaya, dan Labuan Bajo. Menurutnya destinasi-destinasi itu punya produk wisata minat khusus yang diminati wisatawan Taiwan, seperti wisata bahari, wisata kebugaran, wisata kuliner, hingga eksplorasi budaya dan alam. Deputi Bidang Pemasaran Kementerian Pariwisata, Ni Made Ayu Marthini, menyebut kegiatan ini sebagai bagian dari program quality tourism yang mengutamakan produk wisata bernilai tinggi ketimbang sekadar mengejar jumlah kunjungan.",
+   "Momentum ini juga dipakai untuk memperkenalkan rute penerbangan langsung baru dari maskapai STARLUX Airlines, yang akan melayani Taipei-Denpasar mulai 1 Oktober 2026 dengan frekuensi lima kali sepekan, yaitu setiap Senin, Selasa, Kamis, Sabtu, dan Minggu, mendarat di Bandara Internasional I Gusti Ngurah Rai. Kegiatan ini turut melibatkan Indonesia Inbound Tour Operators Association (IINTOA) dan Taipei Association of Travel Agents (TATA).",
+   "Berdasarkan data Badan Pusat Statistik, wisatawan asal Taiwan yang berkunjung ke Indonesia pada Januari-Juni 2026 tercatat 108.989 kunjungan, menempatkan Taiwan sebagai sumber wisatawan mancanegara terbesar ke-13 bagi Indonesia pada semester pertama tahun ini."
+  ],
+  "fotoAdegan": "A commercial airliner taxiing on the tarmac at a tropical Indonesian airport, palm trees and volcanic hills in the distance, midday light.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/9h6FLceweXUEG7jdScfXVD8Fy2V0efvjrdSrC8y9.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan cuma soal promosi, ada infrastruktur baru: maskapai STARLUX membuka penerbangan langsung Taipei-Denpasar mulai 1 Oktober 2026, lima kali seminggu, jalur yang sebelumnya belum ada. Yang menarik, jumlah pembeli dari Taiwan yang datang ke acara ini, 49 orang, jauh lebih banyak dibanding 21 penjual jasa wisata dari Indonesia, yang menurut Kepala KDEI Taipei menandakan permintaan wisata ke Indonesia dari Taiwan belum terlayani penuh. Yang kena dampak langsung adalah pelaku usaha pariwisata di Bali karena rute baru itu, sekaligus daerah lain seperti Yogyakarta, Surabaya, dan Labuan Bajo yang coba ditawarkan pemerintah sebagai alternatif dari Bali. Arahnya terlihat menuju upaya menyebar wisatawan Taiwan ke luar Bali lewat produk khusus seperti wisata bahari dan kebugaran, tapi ini baru niat lewat satu acara pertemuan bisnis. Yang akan membuktikan apakah arah ini benar-benar jalan adalah data jumlah wisatawan Taiwan pada semester kedua 2026, setelah rute penerbangan baru itu beroperasi dan bisa dibandingkan dengan capaian 108.989 kunjungan pada semester pertama.",
+  "imageV": "mtmxcgrf"
+ },
+ {
+  "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
+  "category": "Ketenagakerjaan",
+  "title": "BPJS Ketenagakerjaan Perkuat Layanan Pekerja [Informal] Pekalongan",
+  "deck": "BPJS Ketenagakerjaan mendekatkan layanan ke Pekalongan lewat kunjungan langsung manajemen, santunan bagi ahli waris, dan kolaborasi mahasiswa menjaring pekerja informal.",
+  "image": "assets/img/bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:27:02+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464909-rayakan-harpelnas-2026-bpjs-ketenagakerjaan-perkuat-layanan-perlindungan-dan-pemberdayaan-pekerja-di-kota-pekalongan",
+  "tags": [
+   "BPJS Ketenagakerjaan",
+   "Pekalongan",
+   "pekerja informal",
+   "Harpelnas"
+  ],
+  "body": [
+   "BPJS Ketenagakerjaan memperingati Hari Pelanggan Nasional 2026 dengan cara yang berbeda dari sekadar seremoni kantor. Direktur Kepesertaan Agung Nugroho turun langsung ke Kantor Cabang Pekalongan untuk melayani peserta, menyerahkan santunan kepada ahli waris peserta yang meninggal dunia, dan meninjau program pemberdayaan bagi penerima manfaat. Langkah ini penting karena menyasar salah satu titik lemah jaminan sosial di Indonesia, yaitu rendahnya perlindungan bagi pekerja informal yang selama ini sering luput dari program semacam ini.",
+   "Di kantor cabang, Agung berdialog langsung dengan peserta yang sedang mengurus klaim, baik yang datang tatap muka maupun yang memakai layanan digital. Tujuannya memastikan kedua jalur layanan itu sama-sama cepat dan tidak menyulitkan peserta, sekaligus menampung keluhan yang selama ini mungkin tidak sampai ke pengambil kebijakan di pusat.",
+   "Bagian yang lebih berdampak jangka panjang adalah kolaborasi dengan mahasiswa Pusat Pengabdian kepada Masyarakat UIN K.H. Abdurrahman Wahid Pekalongan. Bersama Sekretaris Daerah Pekalongan Nur Priyantomo, Agung menyerahkan kartu kepesertaan secara simbolis kepada warga yang proses edukasi dan pendaftarannya didampingi mahasiswa tersebut. Menurut Agung, mahasiswa berperan mengedukasi sekaligus mengajak masyarakat mendaftar, terutama pekerja informal yang selama ini belum terlindungi.",
+   "Sekretaris Daerah Pekalongan Nur Priyantomo menyampaikan apresiasi atas pendekatan proaktif ini. Namun berita ini tidak menyebutkan berapa banyak warga yang baru terdaftar lewat program pendampingan mahasiswa, maupun nilai santunan yang diserahkan kepada ahli waris, sehingga besar dampaknya bagi cakupan pekerja informal di Pekalongan belum bisa diukur dari sini."
+  ],
+  "fotoAdegan": "Service counter staff helping visitors with paperwork inside a modest public office lobby in a Central Java town, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a9aa9f3316dd-bpjs-ketenagakerjaan-mengusung-konsep-layanan-yang-lebih-personal-dengan-menghadirkan-jajaran-manajemen-langsung-di-tengah-tengah-masyarakat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau tarif iuran, melainkan cara BPJS Ketenagakerjaan menjangkau peserta, yakni lewat kunjungan langsung pejabat pusat ke kantor cabang dan kerja sama dengan mahasiswa untuk mendaftarkan pekerja informal seperti pedagang kecil atau buruh lepas yang selama ini jarang punya jaminan kecelakaan kerja atau kematian. Yang terdampak jelas dari beritanya, yaitu warga Pekalongan yang baru terdaftar lewat pendampingan mahasiswa, ahli waris peserta yang menerima santunan, dan pekerja informal di kota itu yang jadi target perluasan kepesertaan. Tapi berita ini tidak menyebut satu angka pun, tidak ada jumlah peserta baru, tidak ada nilai santunan, tidak ada target cakupan pekerja informal, sehingga belum bisa disimpulkan apakah kolaborasi kampus semacam ini benar-benar mendongkrak jumlah kepesertaan atau sekadar simbolis. Yang perlu ditunggu adalah data realisasi kepesertaan BPJS Ketenagakerjaan di Pekalongan pada laporan berikutnya, khususnya porsi pekerja informal, untuk melihat apakah pendekatan lewat mahasiswa ini berlanjut ke kota lain atau berhenti di satu kunjungan seremonial.",
+  "imageV": "mtmxchal"
+ },
+ {
   "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
   "category": "Aksi Korporasi",
   "title": "WTON Ungkap Kontrak Baru Rp2,27 T, tapi [Laba Per Saham] Anjlok",
@@ -162,6 +269,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide angled shot of a modern bank branch lobby with rows of ATM machines, customers queuing quietly, warm interior lighting",
   "takeaway": "Data ini condong netral: laba BCA memang masih tumbuh, tapi kenaikannya cuma 1,8 persen padahal kredit dan aset tumbuh dua kali lipat lebih cepat, tanda bahwa margin bank ini sedang tertekan. Yang tersentuh adalah margin bunga bersih atau selisih antara bunga yang diterima dari kredit dan bunga yang dibayar ke nasabah, yang turun dari 5,8 persen ke 5,3 persen, sejalan dengan imbal hasil bagi pemegang saham atau ROE yang turun dari 25,2 persen ke 24,1 persen. Di sisi lain kualitas kredit membaik, rasio kredit bermasalah turun dari 2,2 persen ke 1,9 persen, dan penyangga modal bank kalau terjadi kerugian atau CAR masih sangat tebal di 26,8 persen meski turun dari 28,4 persen tahun lalu. Yang perlu dipantau adalah paparan publik BCA yang dijadwalkan berlangsung 9 September 2026, saat manajemen kemungkinan menjelaskan lebih jauh strategi menahan tekanan margin ini pada semester kedua tahun ini.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta",
+  "category": "BUMN",
+  "title": "PAM JAYA Beri Toren dan Sambungan [Gratis] ke Warga Jakarta",
+  "deck": "PAM JAYA menegaskan komitmennya di Hari Pelanggan lewat sambungan rumah gratis untuk warga miskin, toren gratis, dan mesin air siap minum di ruang publik Jakarta.",
+  "image": "assets/img/pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:29:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464898-hari-pelanggan-pam-jaya-bongkar-beragam-program-untuk-permudah-akses-air-perpipaan-warga-jakarta",
+  "tags": [
+   "PAM JAYA",
+   "air bersih",
+   "Jakarta",
+   "Hari Pelanggan"
+  ],
+  "body": [
+   "PAM JAYA memperingati Hari Pelanggan dengan memaparkan sejumlah program yang selama ini dijalankan untuk mempermudah warga Jakarta mendapatkan akses air perpipaan. Momentum ini digunakan perusahaan air minum milik Pemprov DKI Jakarta itu untuk menegaskan kembali komitmennya menyediakan air minum yang berkualitas, terjangkau, dan mudah dijangkau masyarakat.",
+   "Salah satu program andalannya adalah pemasangan sambungan rumah gratis bagi rumah tangga dengan kategori sangat sederhana (2A1) dan sederhana (2A2), sehingga warga tidak perlu menanggung biaya pemasangan baru. Program ini sekaligus menjadi cara PAM JAYA memperluas jangkauan layanannya, yang hingga Juni 2026 tercatat sudah menjangkau sekitar 82 persen wilayah Jakarta.",
+   "Untuk wilayah dengan pasokan air perpipaan yang masih terbatas atau tidak stabil, PAM JAYA membagikan toren air gratis berkapasitas 300 liter bekerja sama dengan Tim Penggerak PKK DKI Jakarta. Toren ini berfungsi sebagai wadah penyimpanan sehingga warga tetap punya cadangan air untuk kebutuhan sehari-hari, dan hingga Juli 2026 sudah ada 1.500 unit yang dibagikan.",
+   "PAM JAYA juga memasang mesin Water Purifier di sejumlah fasilitas sosial dan fasilitas umum di Jakarta agar warga bisa mengakses air siap minum langsung dari sana. Teknologi ini digunakan untuk mendekatkan akses air layak minum ke masyarakat sekaligus mendorong pemanfaatan air perpipaan secara lebih luas."
+  ],
+  "fotoAdegan": "A plumber connecting a new pipe fitting to a household water meter outside a modest Jakarta home, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a9a9cdc987a7-hari-pelanggan-pam-jaya-bongkar-beragam-program-untuk-permudah-akses-air-perpipaan-warga-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari sisi kebijakan adalah PAM JAYA memperluas program sosialnya: sambungan pipa gratis untuk rumah tangga miskin dan sederhana yang masuk kategori 2A1 dan 2A2, toren gratis 300 liter untuk wilayah yang pasokan airnya belum stabil, dan mesin air siap minum di fasilitas umum. Yang paling merasakan dampaknya adalah rumah tangga di dua kategori itu, yang sebelumnya harus menanggung sendiri biaya pemasangan sambungan baru, serta warga di kawasan dengan suplai air perpipaan yang masih terbatas. Ke depan, langkah-langkah ini mengarah pada perluasan bertahap cakupan air perpipaan Jakarta yang kini baru menyentuh 82 persen wilayah, namun berita ini tidak menyebut target akhir atau tenggat kapan seluruh warga Jakarta dijanjikan bisa terhubung ke jaringan pipa. Yang perlu dipantau adalah angka cakupan PAM JAYA pada periode berikutnya, untuk melihat apakah kenaikannya konsisten atau melambat setelah menyentuh angka 82 persen ini.",
+  "imageV": "mtmxchsk"
  },
  {
   "slug": "peve-akui-salah-saji-laporan-kas-tersisa-rp7-5-miliar",

@@ -106,9 +106,28 @@ jobs:
           node-version: "22"
           cache: "npm"
 
+      # --prefer-offline: pakai cache npm, jangan bolak-balik ke registry.
+      # Di situlah waktunya habis, bukan di pemasangannya.
+      #
+      # Diukur 4 September 2026 dengan lock yang sama, dua kali berdampingan:
+      # npm ci polos 321 detik, dengan flag ini 13 detik, dan pohon
+      # node_modules-nya IDENTIK - 5.800 berkas, md5 daftar berkas sama
+      # persis. Tidak ada yang berubah soal APA yang dipasang: npm ci tetap
+      # mengikuti package-lock.json.
+      #
+      # Pemicunya putaran 3 September 23.16 UTC yang mati di sini: npm ci
+      # menggantung lalu ditebas pagar 4 menit, padahal cache 181 MB sudah
+      # pulih dan package-lock.json tidak berubah sejak 14 Agustus. Dan bukan
+      # sekali - idx tercatat 84 dan 109 detik, pemantau 145 detik, sementara
+      # normalnya 4-11 detik. Repo ini cuma punya 2 dependensi dan 119 paket,
+      # jadi angka segitu tidak mungkin datang dari pemasangan.
+      #
+      # --no-audit membuang satu round-trip registry lagi yang hasilnya tidak
+      # dipakai siapa pun di sini. Pagar 4 -> 6 menit sebagai jarak aman,
+      # bukan sebagai obat: obatnya flag di atas.
       - name: Pasang dependensi
-        timeout-minutes: 4
-        run: npm ci
+        timeout-minutes: 6
+        run: npm ci --prefer-offline --no-audit --no-fund
 
       - name: Selaraskan dengan origin sebelum membangun
         # WAJIB sebelum langkah apa pun yang membangkitkan berkas.

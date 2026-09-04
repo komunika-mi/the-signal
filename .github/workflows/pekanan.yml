@@ -51,8 +51,15 @@ jobs:
     # yang mengirim email ke pelanggan, gagal tanpa kabar berarti pembaca tidak
     # menerima edisinya dan tidak ada seorang pun yang tahu.
     #
-    # Sekarang tiap langkah berpagar, berjumlah 37 menit.
-    timeout-minutes: 42
+    # Sekarang tiap langkah berpagar, berjumlah 41 menit (dihitung ulang dari
+    # nilai timeout-minutes di berkas ini, bukan disalin dari catatan lama -
+    # angka 37 yang tertulis di sini sebelumnya sudah usang).
+    #
+    # 42 -> 45 pada 4 September 2026, mengikuti "Pasang dependensi" 4 -> 6.
+    # Tanpa ini jaraknya tinggal 1 menit, dan jarak setipis itu membuat
+    # jaminan di atas rapuh: satu langkah tambahan di kemudian hari langsung
+    # membalik urutan jatuhnya tanpa ada yang sadar.
+    timeout-minutes: 45
 
     steps:
       - uses: actions/checkout@v4
@@ -62,9 +69,12 @@ jobs:
           node-version: "22"
           cache: "npm"
 
+      # --prefer-offline: waktunya habis di registry, bukan di pemasangan.
+      # Diukur 4 September 2026: npm ci polos 321 detik, dengan flag ini 13
+      # detik, pohon node_modules identik. Alasan lengkapnya di daily.yml.
       - name: Pasang dependensi
-        timeout-minutes: 4
-        run: npm ci
+        timeout-minutes: 6
+        run: npm ci --prefer-offline --no-audit --no-fund
 
       # Mode kirim-ulang. Dipakai kalau edisinya sudah ada dan benar tapi
       # pengirimannya gagal atau tertinggal, misalnya jadwal Minggu terlewat

@@ -69,9 +69,14 @@ jobs:
           node-version: "22"
           cache: "npm"
 
+      # --prefer-offline: waktunya habis di registry, bukan di pemasangan.
+      # Alur ini yang paling sering kena: 84 dan 109 detik pada 3-4 September
+      # 2026, sementara normalnya 4-11 detik. Diukur: npm ci polos 321 detik,
+      # dengan flag ini 13 detik, pohon node_modules identik. Alasan
+      # lengkapnya di daily.yml.
       - name: Pasang dependensi
-        timeout-minutes: 5
-        run: npm ci
+        timeout-minutes: 6
+        run: npm ci --prefer-offline --no-audit --no-fund
 
       # Alat baca dokumen, yang selama ini TIDAK PERNAH dipasang di sini.
       #

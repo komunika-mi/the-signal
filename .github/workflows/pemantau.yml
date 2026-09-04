@@ -55,7 +55,14 @@ jobs:
           node-version: "22"
           cache: "npm"
 
-      - run: npm ci
+      # --prefer-offline: waktunya habis di registry, bukan di pemasangan.
+      # Alur ini tercatat 145 detik pada 4 September 2026, normalnya 5-6.
+      # Diukur: npm ci polos 321 detik, dengan flag ini 13 detik, pohon
+      # node_modules identik. Alasan lengkapnya di daily.yml.
+      #
+      # Langkah ini SENGAJA tanpa pagar sendiri, mengikuti gaya berkas ini
+      # yang menyerahkannya ke jatah job.
+      - run: npm ci --prefer-offline --no-audit --no-fund
 
       - name: Kesegaran tiap kanal berita
         id: kanal

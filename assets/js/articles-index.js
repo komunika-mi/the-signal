@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi",
+  "category": "BUMN",
+  "title": "Penyaluran Pupuk Subsidi Garut Baru [55] Persen dari Alokasi",
+  "deck": "Realisasi pupuk bersubsidi di Garut baru 55,21 persen dari alokasi per 27 Agustus, sembari Pupuk Indonesia memperketat administrasi kios penyalur.",
+  "date": "4 September 2026",
+  "image": "assets/img/penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi.jpg",
+  "imageV": "mtn7j55x",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Garut",
+   "Kementerian Pertanian"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/879/pilar-tani-ajang-kolaborasi-pupuk-indonesia-percepat-penyaluran-pupuk-subsidi-di-garut",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt",
+  "category": "Energi",
+  "title": "Sektor Minerba Kerahkan [58] Tim Bantu Korban Gempa NTT",
+  "deck": "Kementerian ESDM dan 82 perusahaan tambang menurunkan 58 tim tanggap darurat ke Manggarai Timur, Manggarai, dan Nagekeo untuk membantu warga terdampak gempa NTT.",
+  "date": "4 September 2026",
+  "image": "assets/img/sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt.jpg",
+  "imageV": "mtn7j7md",
+  "tags": [
+   "Gempa NTT",
+   "ESDM",
+   "Minerba",
+   "Tanggap Darurat"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
   "category": "Aksi Korporasi",
   "title": "SMMT: Tak Ada [Informasi Material] di Balik Lonjakan Saham",
@@ -37,6 +73,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya",
+  "category": "BUMN",
+  "title": "TelkomProperty [Optimalkan] Separuh dari 3.010 Aset Propertinya",
+  "deck": "TelkomProperty telah mengoptimalkan sekitar separuh dari 3.010 aset yang dikelolanya dan membuka peluang sewa gedung, termasuk Graha Merah Putih, bagi mitra eksternal lewat skema bisnis ke bisnis.",
+  "date": "4 September 2026",
+  "image": "assets/img/telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya.jpg",
+  "imageV": "mtn7j875",
+  "tags": [
+   "telkomproperty",
+   "aset properti",
+   "telkom",
+   "graha merah putih"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464922-telkomproperty-pastikan-optimalisasi-aset-properti-tetap-berjalan-sesuai-tata-kelola-dan-memenuhi-prinsip-value-creation"
+ },
+ {
   "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
@@ -67,6 +120,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23b227121a_0bfb850936.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026",
+  "category": "Perbankan",
+  "title": "bank bjb Turunkan Direksi [Layani] Nasabah di Harpelnas 2026",
+  "deck": "bank bjb menandai Hari Pelanggan Nasional 2026 dengan menurunkan direksi dan komisaris ke banking hall di seluruh kantor cabang untuk melayani nasabah langsung.",
+  "date": "4 September 2026",
+  "image": "assets/img/bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026.jpg",
+  "imageV": "mtn7j8oc",
+  "tags": [
+   "bank bjb",
+   "Harpelnas 2026",
+   "perbankan",
+   "layanan nasabah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464914-hari-pelanggan-nasional-2026-bank-bjb-hadir-beri-pelayanan-yang-setara-dan-berkelanjutan"
  },
  {
   "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
@@ -6501,70 +6571,6 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/26fdb8e915_2120070314.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-saiko-pastikan-cuma-jalankan-tender-wajib-tak-ubah-saham",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ: Saiko Pastikan Cuma Jalankan [Tender] Wajib, Tak Ubah Saham",
-  "deck": "NAYZ menjawab permintaan BEI: tak ada info material baru selain perubahan pengendali, dan Saiko Consultancy tak berencana ubah kepemilikan saham kecuali penuhi penawaran tender wajib.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "volatilitas transaksi",
-   "penawaran tender wajib",
-   "Saiko Consultancy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3ace940e09_82befe1f2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gelar-rupsu-minta-penundaan-bayar-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Gelar RUPSU, Minta [Penundaan] Bayar Sukuk",
-  "deck": "WIKA mengundang pemegang sukuknya ke RUPSU 15 September 2026 untuk menyetujui penundaan jatuh tempo dan pembayaran bagi hasil, serta pengesampingan gagal bayar bagi hasil ke-14.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7464230e2f_eb1b4c2f86.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-panggil-rupsu-15-september-ajukan-penundaan-jatuh-tempo-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Panggil RUPSU 15 September, Ajukan [Penundaan] Jatuh Tempo Sukuk",
-  "deck": "WIKA memanggil RUPSU pada 15 September 2026 untuk meminta persetujuan pemegang sukuk mengubah jadwal jatuh tempo pokok dan menunda pembayaran bagi hasil seri B dan C.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/573f173c0b_3d30d38f79.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-gelar-rupsu-sukuk-tahap-ii-minta-penundaan-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Gelar RUPSU Sukuk Tahap II, Minta [Penundaan] Jatuh Tempo",
-  "deck": "WIKA memanggil RUPSU pemegang Sukuk Tahap II pada 10 September 2026, minta penundaan jatuh tempo dan bagi hasil serta pengesampingan gagal bayar bagi hasil ke-14.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0a319778c4_aebaad234a.pdf",
   "sourceLabel": "IDX"
  }
 ];

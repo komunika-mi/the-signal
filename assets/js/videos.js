@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "21IcJMXQE-Y",
+  "title": "Danantara Jadi Jembatan Kerja Sama Bilateral RI-Rusia",
+  "category": "Global",
+  "program": "Kabar Hari Ini",
+  "summary": "Badan Pengelola Investasi Danantara disebut menjadi penghubung kerja sama bilateral antara Indonesia dan Rusia, menyusul kunjungan Presiden Prabowo Subianto ke Rusia.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut peran lembaga investasi negara dalam memperluas kerja sama bisnis dengan mitra dagang luar negeri.",
+  "terbit": "2026-09-04T16:53:25+00:00"
+ },
+ {
   "id": "4ucEzZa-yPU",
   "title": "Pemerintah dan Kadin Tekankan Ketahanan Pangan di Tengah El Nino",
   "category": "Makroekonomi",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Komite Pariwisata Kota Moskow menggelar misi bisnis di Jakarta untuk memperluas hubungan pariwisata sekaligus memperkuat kerja sama dengan Indonesia.",
   "takeaway": "Misi bisnis lintas negara ini penting disimak karena berpotensi membuka peluang kerja sama dagang dan investasi di sektor pariwisata kedua negara.",
   "terbit": "2026-09-01T16:54:53+00:00"
- },
- {
-  "id": "gHPBLC9HNa4",
-  "title": "Kuota FLPP Naik Jadi 350 Ribu Unit, Perluas Akses Rumah Subsidi",
-  "category": "Perbankan",
-  "program": "Kabar Pagi",
-  "summary": "Pemerintah menaikkan kuota Fasilitas Likuiditas Pembiayaan Perumahan tahun 2026 menjadi 350 ribu unit untuk memperluas akses masyarakat terhadap rumah subsidi.",
-  "takeaway": "Kenaikan kuota FLPP relevan bagi pembaca karena berdampak langsung pada sektor pembiayaan perumahan dan daya beli masyarakat berpenghasilan rendah.",
-  "terbit": "2026-09-01T01:31:39+00:00"
  }
 ];

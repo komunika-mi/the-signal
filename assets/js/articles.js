@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi",
+  "category": "BUMN",
+  "title": "Penyaluran Pupuk Subsidi Garut Baru [55] Persen dari Alokasi",
+  "deck": "Realisasi pupuk bersubsidi di Garut baru 55,21 persen dari alokasi per 27 Agustus, sembari Pupuk Indonesia memperketat administrasi kios penyalur.",
+  "image": "assets/img/penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:59:12.809Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/879/pilar-tani-ajang-kolaborasi-pupuk-indonesia-percepat-penyaluran-pupuk-subsidi-di-garut",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Garut",
+   "Kementerian Pertanian"
+  ],
+  "body": [
+   "PT Pupuk Indonesia bersama Kementerian Pertanian dan pemerintah Kabupaten Garut menggelar forum evaluasi bertajuk Pilar Tani di Garut, Jumat (28/8/2026), untuk membahas administrasi dan kebijakan penyaluran pupuk bersubsidi. Forum ini menyasar kios pengecer pupuk bersubsidi atau PPTS sebagai ujung tombak distribusi ke petani, sekaligus menegaskan bahwa kesalahan administrasi di tingkat kios bisa berujung tanggung jawab bagi pengelolanya. Hal ini penting karena kelancaran penyaluran di level kios menentukan apakah petani penerima subsidi benar-benar mendapat pupuk sesuai jadwal tanam.",
+   "Direktur Supply Chain Pupuk Indonesia, Robby Setiabudi Madjid, menyebutkan realisasi penyaluran pupuk bersubsidi di Garut per 27 Agustus 2026 mencapai 64.551,75 ton, setara 55,21 persen dari total alokasi 116.941,70 ton untuk tahun ini. Rinciannya, Urea tersalur 26.249,65 ton, NPK 38.261,50 ton, dan pupuk organik 40,60 ton, sementara NPK Kakao belum tersalur sama sekali. Sebagai pembanding, alokasi penuh Garut tahun ini adalah Urea 59.302 ton, NPK Phonska 56.960 ton, NPK Kakao 4,7 ton, dan pupuk organik 675 ton.",
+   "Selain data realisasi, forum ini mengevaluasi hasil verifikasi transaksi lewat sistem i-Pubers sepanjang Januari-Juli 2026, yaitu sistem pencatatan yang memastikan penyaluran pupuk tercatat sesuai aturan. Robby mengingatkan bahwa berdasarkan Surat Perjanjian Jual Beli atau SPJB, kelalaian administrasi dalam penyaluran menjadi tanggung jawab PPTS, sehingga ketelitian dokumen di tingkat kios perlu ditingkatkan. Direktur Pupuk Kementerian Pertanian, Syamsuddin, menambahkan bahwa Garut memiliki 11 PUD atau distributor dan 283 PPTS atau kios pengecer yang menopang distribusi ini, dan menekankan penyaluran harus mengikuti prinsip 7 Tepat agar produktivitas pertanian meningkat.",
+   "Robby juga menyampaikan bahwa penyaluran pupuk bersubsidi secara nasional, menurutnya, berjalan baik, didukung penyederhanaan aturan dan penurunan harga tebus yang disebutnya mendorong penyerapan. Sementara itu, Dinas Pertanian Kabupaten Garut mencatat penyaluran di daerah itu relatif lancar karena ketersediaan stok yang terjaga di setiap kios PPTS."
+  ],
+  "fotoAdegan": "Sacks of subsidized fertilizer stacked inside a small rural supply shop, workers loading them onto a motorbike cart, morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1834/conversions/WhatsApp-Image-2026-09-04-at-13.42.41-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah di sini bukan besaran atau harga subsidi, melainkan siapa yang menanggung risiko kalau ada kesalahan administrasi: forum Pilar Tani menegaskan bahwa berdasarkan kontrak SPJB, kios PPTS sendiri yang harus bertanggung jawab atas kelalaian pencatatan penyaluran, bukan Pupuk Indonesia. Pihak yang langsung terdampak adalah 283 PPTS dan 11 PUD di Garut, karena merekalah yang mengoperasikan sistem verifikasi i-Pubers dan menanggung konsekuensi kalau datanya keliru, sementara petani terdampak secara tidak langsung lewat lancar-tidaknya penyaluran di kios. Data realisasi menunjukkan penyerapan pupuk di Garut baru 55,21 persen dari alokasi setahun per akhir Agustus, dan khusus NPK Kakao realisasinya masih nol dari alokasi 4,7 ton, sehingga belum jelas apakah sisa alokasi bisa terserap sebelum tahun berakhir. Arahnya tampak menuju pengetatan tanggung jawab administrasi di level kios ketimbang perubahan pada volume atau harga subsidi, dan yang akan mengonfirmasinya adalah hasil evaluasi verifikasi i-Pubers periode Januari-Juli yang disebut dalam forum ini serta angka realisasi Garut pada akhir tahun 2026.",
+  "imageV": "mtn7j55x"
+ },
+ {
+  "slug": "sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt",
+  "category": "Energi",
+  "title": "Sektor Minerba Kerahkan [58] Tim Bantu Korban Gempa NTT",
+  "deck": "Kementerian ESDM dan 82 perusahaan tambang menurunkan 58 tim tanggap darurat ke Manggarai Timur, Manggarai, dan Nagekeo untuk membantu warga terdampak gempa NTT.",
+  "image": "assets/img/sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:56:57.257Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Gempa NTT",
+   "ESDM",
+   "Minerba",
+   "Tanggap Darurat"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral mengerahkan 58 tim tanggap darurat dari 82 perusahaan subsektor mineral dan batu bara untuk membantu warga terdampak gempa yang melanda Nusa Tenggara Timur pertengahan Agustus lalu. Direktur Jenderal Mineral dan Batu Bara ESDM Tri Winarno mengatakan pengerahan ini merupakan bagian dari dukungan pelaku usaha sektor tambang bagi penanganan bencana di wilayah itu.",
+   "Posko tanggap darurat didirikan di tiga kabupaten, yaitu Manggarai Timur, Manggarai, dan Nagekeo. Di setiap posko disiagakan tenaga kesehatan, personel penyelamatan, dan petugas logistik, sementara Inspektur Tambang provinsi ditempatkan untuk berkoordinasi dengan pemerintah daerah dan instansi terkait.",
+   "Pengerahan ini berjalan lewat Program ESDM Siaga Bencana yang mulai berlaku sejak 16 Agustus 2026. Di lapangan, tim menjalankan pencarian dan pertolongan, layanan kesehatan, serta distribusi bantuan logistik untuk memenuhi kebutuhan dasar warga selama masa tanggap darurat hingga tahap pemulihan pascabencana.",
+   "Tri menyebut perusahaan yang terlibat berasal dari sekitar wilayah terdampak maupun dari daerah lain. Menurutnya, kolaborasi antara pemerintah, dunia usaha, relawan, dan masyarakat menjadi bagian penting dalam penanganan bencana di NTT."
+  ],
+  "fotoAdegan": "Volunteers in safety vests unloading humanitarian aid crates from a truck in a rural Indonesian village after an earthquake, overcast daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt-lfhnkeu.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah pengerahan konkret 58 tim dari 82 perusahaan subsektor mineral dan batu bara ke posko di Manggarai Timur, Manggarai, dan Nagekeo, berjalan sejak program ESDM Siaga Bencana dimulai 16 Agustus 2026. Yang terdampak langsung adalah warga tiga kabupaten itu yang menerima layanan kesehatan, pertolongan, dan logistik, serta perusahaan tambang yang mengalokasikan personel dan sumber dayanya untuk merespons bencana di luar wilayah operasi mereka. Siaran pers ini belum menyebut berapa lama pengerahan akan berlangsung, berapa banyak warga yang sudah terbantu, atau berapa nilai bantuan logistik yang disalurkan, sehingga belum bisa dipastikan apakah skema ini akan jadi pola tetap ESDM setiap kali bencana atau hanya respons satu kali untuk gempa NTT. Yang perlu ditunggu adalah laporan evaluasi Kementerian ESDM setelah masa tanggap darurat berakhir dan proses beralih ke tahap pemulihan pascabencana.",
+  "imageV": "mtn7j7md"
+ },
+ {
   "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
   "category": "Aksi Korporasi",
   "title": "SMMT: Tak Ada [Informasi Material] di Balik Lonjakan Saham",
@@ -56,6 +112,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya",
+  "category": "BUMN",
+  "title": "TelkomProperty [Optimalkan] Separuh dari 3.010 Aset Propertinya",
+  "deck": "TelkomProperty telah mengoptimalkan sekitar separuh dari 3.010 aset yang dikelolanya dan membuka peluang sewa gedung, termasuk Graha Merah Putih, bagi mitra eksternal lewat skema bisnis ke bisnis.",
+  "image": "assets/img/telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T20:05:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464922-telkomproperty-pastikan-optimalisasi-aset-properti-tetap-berjalan-sesuai-tata-kelola-dan-memenuhi-prinsip-value-creation",
+  "tags": [
+   "telkomproperty",
+   "aset properti",
+   "telkom",
+   "graha merah putih"
+  ],
+  "body": [
+   "TelkomProperty, entitas pengelola aset milik Telkom yang beroperasi di bawah nama PT Graha Sarana Duta, menegaskan komitmennya mendukung agenda transformasi dan penyederhanaan bisnis TelkomGroup lewat optimalisasi aset. Langkah ini penting karena menyangkut produktivitas ribuan aset milik grup telekomunikasi pelat merah tersebut, sekaligus potensi pendapatan tambahan dari pihak luar grup.",
+   "Direktur Utama TelkomProperty Didit Sulistyo menyebut perusahaan saat ini menggarap 3.010 aset di berbagai lokasi, dan sekitar separuhnya sudah berhasil dioptimalkan. Pemanfaatan aset ini juga dibuka untuk mitra eksternal lewat skema bisnis ke bisnis yang tetap mengacu pada aturan tata kelola perusahaan.",
+   "Sejalan dengan langkah itu, Telkom Landmark Tower (TLT), anak usaha TelkomProperty yang mengelola gedung Graha Merah Putih (GMP), turut mendorong penyewaan ruang oleh mitra dari luar TelkomGroup. Direktur Utama TLT Suratman mengatakan optimalisasi aset menjadi bagian dari proses bisnis perusahaan untuk melayani kebutuhan internal grup maupun tenant eksternal.",
+   "Didit menambahkan bahwa rencana pemanfaatan ruang di GMP masih dalam tahap negosiasi dan koordinasi dengan pihak terkait. Ia menegaskan perusahaan berkomitmen menjaga kepastian dan kelangsungan operasional tenant yang sudah lebih dulu berada di gedung tersebut, dengan proses yang dijalankan secara tertib dan terukur."
+  ],
+  "fotoAdegan": "Wide view of a modern glass office tower facade in a Jakarta business district, street level, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a9ac1648865e-telkomproperty-sebagai-pengelola-aset-telkom-terus-mendukung-langkah-transformasi-telkomgroup-dalam-melakukan-streamlining-dengan-salah-satunya-yaitu-optimalisasi-dan-leveraging-asset_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah arah pengelolaan aset TelkomProperty, dari sekadar dipakai internal TelkomGroup menjadi dibuka untuk disewa pihak luar lewat skema bisnis ke bisnis. Sejauh ini sekitar separuh dari 3.010 aset yang dikelola sudah dioptimalkan, sementara sisanya masih menunggu giliran. Pihak yang terdampak langsung adalah calon mitra atau perusahaan luar yang bisa menyewa ruang di gedung-gedung Telkom, termasuk Graha Merah Putih yang dikelola Telkom Landmark Tower, sekaligus penyewa lama yang sudah lebih dulu menempati gedung itu. Arahnya tampak menuju komersialisasi aset properti yang lebih terbuka ke luar grup, bukan sekadar dipakai sendiri, dan yang akan memastikan arah ini adalah hasil negosiasi penyewaan ruang di Graha Merah Putih yang menurut manajemen masih berlangsung dan belum tuntas.",
+  "imageV": "mtn7j875"
+ },
+ {
   "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
@@ -107,6 +190,33 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in hard hats inspecting fiber optic cables at the base of a telecommunications tower, overcast sky",
   "takeaway": "Materi ini condong positif bagi Telkom, karena hampir seluruh pos utama, pendapatan, EBITDA, laba bersih, dan arus kas, sama-sama tumbuh pada semester pertama 2026 dibanding tahun sebelumnya. Yang tersentuh di sini adalah arus kas operasi dan arus kas bebas ke perusahaan, yaitu uang tunai yang benar-benar dihasilkan dari kegiatan usaha setelah dikurangi belanja modal, karena angka ini menunjukkan seberapa leluasa perusahaan membiayai ekspansi atau dividen tanpa harus menambah utang. Realisasi rasio belanja modal baru 14,2 persen dari target tahunan 17-19 persen, jadi belanja investasi Telkom kemungkinan masih akan naik pada semester kedua. Yang perlu dipantau berikutnya adalah forum Public Expose Live pada 7 September 2026 sendiri, karena manajemen biasanya menjawab pertanyaan investor secara langsung di sana, serta penyelesaian Tahap-2 pemisahan aset fiber InfraNexia yang ditargetkan rampung pada semester kedua 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026",
+  "category": "Perbankan",
+  "title": "bank bjb Turunkan Direksi [Layani] Nasabah di Harpelnas 2026",
+  "deck": "bank bjb menandai Hari Pelanggan Nasional 2026 dengan menurunkan direksi dan komisaris ke banking hall di seluruh kantor cabang untuk melayani nasabah langsung.",
+  "image": "assets/img/bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T19:14:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464914-hari-pelanggan-nasional-2026-bank-bjb-hadir-beri-pelayanan-yang-setara-dan-berkelanjutan",
+  "tags": [
+   "bank bjb",
+   "Harpelnas 2026",
+   "perbankan",
+   "layanan nasabah"
+  ],
+  "body": [
+   "bank bjb memperingati Hari Pelanggan Nasional (Harpelnas) 2026 dengan mengangkat tema 'Setara dalam Layanan, Berkelanjutan dalam Kepercayaan'. Momentum ini dipakai perusahaan untuk menegaskan bahwa kepercayaan nasabah menjadi dasar arah bisnisnya, sekaligus dorongan untuk terus menghadirkan layanan dan produk keuangan yang relevan dengan kebutuhan masyarakat saat ini.",
+   "Perayaan tahun ini digelar serentak di seluruh jaringan kantor bank bjb. Di setiap lokasi, jajaran direksi dan dewan komisaris turun langsung ke area banking hall untuk ikut melayani nasabah, sebuah cara perusahaan menunjukkan bahwa manajemen puncak juga terlibat dalam lini pelayanan sehari-hari.",
+   "Pelaksanaannya melibatkan beragam profil nasabah, mulai dari nasabah prioritas, aparatur sipil negara dan pegawai pemerintah daerah, pensiunan, hingga nasabah penyandang disabilitas. Sejumlah kepala daerah turut hadir dalam acara tersebut, yang oleh bank bjb dimaknai sebagai bukti bahwa semangat layanan setara menjangkau kelompok nasabah dengan kebutuhan yang berbeda-beda.",
+   "Bank bjb menyebut perubahan gaya hidup, kemajuan teknologi, dan tuntutan layanan yang lebih cepat sebagai alasan perusahaan terus mendorong inovasi di sektor pelayanan. Namun acara ini pada dasarnya bersifat seremonial tahunan, tanpa disertai perubahan produk, biaya, atau kebijakan layanan yang diumumkan bersamaan."
+  ],
+  "fotoAdegan": "Bank teller in uniform assisting an elderly customer at a counter inside a busy banking hall, queue waiting, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a9ab546cf819-peringatan-hari-pelanggan-nasional-harpelnas-2026-dimanfaatkan-oleh-bank-bjb-untuk-menegaskan-kembali-dedikasinya-dalam-memberikan-pelayanan-perbankan-yang-lebih-prima-bagi-setiap-nasabahnya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari acara ini sebatas simbolis, direksi dan komisaris bank bjb turun ke loket pelayanan selama sehari, bukan perubahan produk, biaya, atau aturan yang langsung terasa oleh nasabah. Pihak yang disebut terlibat cukup luas, dari nasabah prioritas, ASN dan pegawai pemda, pensiunan, nasabah disabilitas, sampai kepala daerah setempat, tapi berita ini tidak menyebut berapa banyak cabang atau nasabah yang benar-benar dilayani. Karena tidak ada angka soal jumlah nasabah, target kepuasan, atau tindak lanjut konkret setelah acara ini, belum bisa dibaca apakah komitmen 'layanan setara' ini berhenti jadi seremoni tahunan atau berlanjut jadi perubahan nyata di layanan sehari-hari. Yang perlu dipantau adalah laporan kinerja bank bjb berikutnya, misalnya skor kepuasan nasabah atau tren jumlah pengaduan, untuk melihat apakah acara semacam ini membekas pada kualitas layanan.",
+  "imageV": "mtn7j8oc"
  },
  {
   "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",

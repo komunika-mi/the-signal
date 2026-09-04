@@ -3,6 +3,220 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ungkap Kontrak Baru Rp2,27 T, tapi [Laba Per Saham] Anjlok",
+  "deck": "WIKA Beton (WTON) memaparkan kontrak baru Rp2,27 triliun dan pendapatan Rp1,48 triliun jelang Public Expose 9 September 2026, di tengah tren laba per saham yang terus menyusut sejak 2015.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:03:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3bb0d270f4_d522492d7e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WTON",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Public Expose",
+   "BUMN Konstruksi"
+  ],
+  "body": [
+   "PT Wijaya Karya Beton Tbk (WTON) menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia pada 4 September 2026, ditandatangani secara elektronik oleh Sekretaris Perusahaan Ignatius Harry Sumartono. Materi ini disiapkan untuk acara Public Expose Live yang dijadwalkan berlangsung 9 September 2026 dan disiarkan langsung melalui IDX Channel, berisi presentasi perusahaan dan siaran pers resmi.",
+   "Dalam materi tersebut, WIKA Beton melaporkan perolehan kontrak baru sebesar Rp2,27 triliun hingga Juli 2026, dengan sektor infrastruktur menyumbang 58,83 persen, disusul industri 17,18 persen dan properti 8,49 persen. Dari sisi sumber dana, swasta menyumbang 37,70 persen, pemerintah 32,21 persen, BUMN 23,53 persen, dan luar negeri 6,56 persen. Sepuluh pelanggan terbesar berdasarkan kontrak baru meliputi PT Perusahaan Listrik Negara (9,25%), PT OKI Pulp & Paper Mills (5,75%), KSO Hutama-Abipraya (4,40%), PT Mustika Indah Permai (3,28%), PT Pembangunan Perumahan Tbk (3,12%), KSO WIKA-PP-KMK-HKI (2,73%), KSO WIKA-PMJ (2,63%), KSO HK-WIKA-BAP (2,36%), PT Total Persada Indonesia (2,19%), dan PT Wijaya Karya Rekayasa Konstruksi (2,10%). Untuk pendapatan usaha kuartal kedua 2026, perusahaan membukukan Rp1,48 triliun, dengan kontribusi terbesar dari beton putar (47,91%), beton non-putar (34,44%), konstruksi (13,27%), dan jasa (4,37%), yang tersebar di Jawa (62%), Sumatera (21,61%), Kalimantan (9,36%), serta Sulawesi, Maluku, dan Papua (7,03%).",
+   "Materi juga memuat data historis dividen dan laba per saham sejak 2015. Rasio pembayaran dividen dipangkas bertahap dari 30 persen laba bersih pada 2015-2019 menjadi 20 persen pada 2020-2023, lalu 10 persen pada 2024-2025. Sejalan dengan itu, dividen tunai yang dibagikan turun dari Rp52,2 miliar pada 2015 menjadi hanya Rp4 miliar pada 2025, dividen per saham turun dari Rp6,26 menjadi Rp0,46, dan laba per saham (EPS) merosot dari Rp19,95 menjadi Rp4,59 pada periode yang sama. Per 31 Juli 2026, struktur pemegang saham WTON terdiri dari PT Wijaya Karya (Persero) Tbk sebagai pengendali dengan 60 persen, Koperasi KKMS 3,96 persen, Yayasan Wijaya Karya 0,99 persen, publik dalam negeri 33,92 persen, dan publik luar negeri 1,13 persen.",
+   "Untuk strategi ke depan, manajemen yang dipimpin Direktur Utama Kuntjara dan Komisaris Utama Yudha Permana Jayadikarta mengusung tagline 'Bring Back Our Glory' yang berfokus pada penguatan tata kelola, pengendalian risiko bisnis, dan ekspansi ke pasar global, termasuk keterlibatan pada proyek Metro Manila Subway di Filipina. Perusahaan juga mencatatkan skor ESG 71 dari S&P Global dan telah menerapkan Sistem Manajemen Anti Penyuapan (SMAP) berstandar ISO 37001:2025."
+  ],
+  "fotoAdegan": "Workers inspecting rows of large precast concrete piles stacked in an open-air factory yard, overcast sky, gantry crane in background",
+  "takeaway": "Materi ini netral bagi WIKA Beton: sebagian besar berisi pemaparan rutin kinerja dan strategi tanpa transaksi baru yang mengubah struktur permodalan atau kepemilikan. Yang patut dicermati adalah data historis laba per saham (EPS), yaitu keuntungan yang menjadi jatah tiap lembar saham, yang merosot dari Rp19,95 pada 2015 menjadi hanya Rp4,59 pada 2025, sejalan dengan rasio pembayaran dividen yang dipangkas dari 30 persen menjadi 10 persen laba bersih. Pelaku pasar memperhatikan EPS karena angka itu mencerminkan seberapa besar keuntungan riil yang benar-benar sampai ke pemegang saham, bukan sekadar total laba di atas kertas. Yang perlu dipantau selanjutnya adalah acara Public Expose Live pada 9 September 2026 yang disiarkan via IDX Channel, tempat manajemen kemungkinan menjelaskan lebih jauh strategi 'Bring Back Our Glory' untuk membalikkan tren tersebut. Laporan kontrak baru dan pendapatan pada kuartal-kuartal berikutnya juga akan menentukan apakah capaian Rp2,27 triliun dan Rp1,48 triliun yang dipaparkan kali ini berlanjut atau justru melambat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lrna-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi sahamnya, LRNA menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:57:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ad1e6b632_48499cfa9d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LRNA",
+  "tags": [
+   "LRNA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Eka Sari Lorena Transport Tbk. (LRNA) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya. Permintaan itu disampaikan BEI melalui surat nomor S-11326/BEI.PP3/09-2026 tertanggal 3 September 2026. LRNA membalas keesokan harinya, 4 September 2026, lewat surat nomor 046/LRNA/CORSEC/IX/2026 yang ditandatangani Corporate Secretary Herlisa Dessy H Silalahi.",
+   "Dalam surat itu, perseroan menjawab \"tidak\" atas lima dari enam pertanyaan standar BEI. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal sesuai POJK 31/2015, tidak ada rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan saham di bursa, serta tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham.",
+   "Untuk pertanyaan terakhir soal rencana pemegang saham utama atas kepemilikan sahamnya, jawaban LRNA sedikit berbeda: \"untuk saat ini pemegang saham utama belum memiliki rencana.\" Frasa \"untuk saat ini\" itu membuka kemungkinan sikap tersebut berubah di kemudian hari, meski perseroan tidak merinci lebih jauh."
+  ],
+  "fotoAdegan": "Rows of intercity buses parked at a terminal in Jakarta at dawn, drivers checking tires and mirrors before departure",
+  "takeaway": "Netral bagi fundamental LRNA, karena seluruh isi surat ini adalah penyangkalan administratif atas permintaan BEI, tanpa satu pun informasi baru soal kinerja atau rencana korporasi perusahaan. Laporan ini tidak menyentuh pos-pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena memang bukan itu isinya, melainkan konfirmasi bahwa lonjakan aktivitas transaksi sahamnya bukan dipicu aksi korporasi yang diketahui manajemen. Pelaku pasar tetap memperhatikan surat semacam ini karena permintaan penjelasan volatilitas dari BEI biasanya muncul saat harga atau volume saham bergerak jauh dari kebiasaan, sering kali didorong spekulasi jangka pendek yang tidak berbasis fundamental. Yang perlu dipantau selanjutnya adalah apakah BEI melanjutkan pemantauan khusus atas saham LRNA jika volatilitas berlanjut, serta apakah pernyataan \"untuk saat ini belum ada rencana\" dari pemegang saham utama berubah lewat keterbukaan informasi berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pngo-jawab-bursa-free-float-tinggal-0-52-refloat-belum-pasti",
+  "category": "Aksi Korporasi",
+  "title": "PNGO Jawab Bursa: Free Float Tinggal 0,52%, [Refloat] Belum Pasti",
+  "deck": "Usai tender wajib, pengendali baru AEP Pinago Plantations kuasai 99,48% saham dan menyisakan free float 0,52%. Jadwal serta jumlah saham refloat ke publik belum ditentukan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:55:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c32dff408_fbf2fe94c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNGO",
+  "tags": [
+   "PNGO",
+   "free float",
+   "refloat",
+   "tender offer wajib"
+  ],
+  "body": [
+   "PT AEP Pinago Plantations Tbk (PNGO) menjawab surat permintaan penjelasan Bursa Efek Indonesia bernomor S-11236/BEI.PP2/08-2026 lewat surat bertanggal 4 September 2026 yang ditandatangani Wandy selaku Corporate Secretary. Bursa mempertanyakan kondisi kepemilikan saham perusahaan setelah pelaksanaan Penawaran Tender Wajib (Mandatory Tender Offer/MTO), di mana kepemilikan AEP Nusantara Holdings Limited selaku Pengendali Baru naik dari 98,26 persen setelah pengambilalihan menjadi 99,48 persen setelah MTO rampung. Akibatnya, saham yang beredar bebas di publik atau free float PNGO kini tersisa 4.100.400 lembar, setara 0,52 persen dari total saham perusahaan.",
+   "Dalam jawabannya, PNGO merujuk Pasal 21 POJK Nomor 9/POJK.04/2018 yang mewajibkan Pengendali Baru mengalihkan kembali saham ke masyarakat dengan jumlah sekurang-kurangnya sama dengan persentase saham yang diperoleh selama Tender Wajib, dan kewajiban itu harus tuntas paling lama dua tahun sejak Tender Wajib selesai. Perusahaan juga mengutip Peraturan Bursa Nomor I-A yang berlaku efektif 31 Maret 2026, yang mewajibkan PNGO mempertahankan free float minimal 15 persen paling lambat pada 31 Maret 2029.",
+   "Soal rencana pelaksanaannya, PNGO menyatakan Pengendali Baru masih dalam tahap mengidentifikasi dan menjajaki komunikasi dengan calon investor yang berminat membeli saham sebagai bagian dari proses refloat. Mekanisme pengalihan, jumlah saham pada setiap tahap, dan target waktu pelaksanaan belum difinalisasi, dan akan ditentukan berdasarkan diskusi dengan calon investor, kondisi pasar, serta ketentuan hukum yang berlaku. Perusahaan hanya menegaskan komitmen menuntaskan kewajiban itu dalam batas waktu dua tahun sejak tender wajib selesai, dan akan melakukan keterbukaan informasi lebih lanjut saat pelaksanaannya berjalan.",
+   "Laporan ini juga melampirkan daftar 12 perkara hukum yang sedang berjalan. Sebelas di antaranya adalah banding pajak yang diajukan entitas anak, PT Sriwijaya Nusantara Sejahtera, terhadap Direktorat Jenderal Pajak di Pengadilan Pajak Jakarta, mencakup sengketa PPN masa April sampai Desember 2019, PPH 21 masa April-Desember 2019 senilai Rp1.246.310.304, dan PPH Badan tahun pajak 2019 senilai Rp4.404.061.572, dengan total nilai sengketa sebelas perkara itu sekitar Rp6,18 miliar. Satu perkara lain adalah banding gugatan perbuatan melawan hukum di Pengadilan Tinggi Palembang terkait sengketa lahan kebun karet seluas 6 hektare di Musi Banyuasin, dengan PT Pinago Utama Tbk sebagai tergugat, M. Yunus Abusali sebagai penggugat, dan nilai gugatan Rp7.367.500.000."
+  ],
+  "fotoAdegan": "Rows of oil palm trees on a plantation with workers collecting fresh fruit bunches, tropical morning light",
+  "takeaway": "Jawaban ini condong negatif bagi pemegang saham publik PNGO karena menegaskan porsi saham yang bisa diperjualbelikan bebas di pasar cuma tersisa 0,52 persen, sementara pengendali baru belum memberi kepastian kapan dan berapa banyak saham yang akan dilepas kembali. Yang tersentuh di sini adalah jumlah saham beredar bebas alias free float, karena makin kecil porsi ini, makin tipis pula transaksi harian saham PNGO dan makin rentan harganya bergerak tajam hanya dari order kecil. Pengendali baru memang berjanji menuntaskan pengalihan saham dalam dua tahun sejak tender wajib rampung, tapi mekanisme, jumlah per tahap, dan jadwalnya masih menunggu diskusi dengan calon investor sehingga belum ada kepastian konkret. Yang perlu dipantau selanjutnya adalah pengumuman rencana refloat yang lebih rinci serta batas akhir pemenuhan free float minimal 15 persen yang ditetapkan Bursa pada 31 Maret 2029.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "incf-grup-defisit-auditor-soroti-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "INCF: Grup Defisit, Auditor Soroti [Going Concern]",
+  "deck": "Auditor menyoroti defisit Rp50,86 miliar dan utang bank Rp253,35 miliar Grup INCF, setelah anak usahanya gagal memenuhi rasio utang dalam perjanjian kredit ke bank BCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:38:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260904174522-64359-0/FinancialStatement-2025-Tahunan-INCF.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCF",
+  "tags": [
+   "INCF",
+   "laporan keuangan tahunan",
+   "going concern",
+   "utang bank"
+  ],
+  "body": [
+   "PT Indo Komoditi Korpora Tbk (INCF) menyampaikan laporan keuangan tahunan konsolidasian untuk periode yang berakhir 31 Desember 2025, yang diaudit oleh KAP Suganda Akna Suhri & Rekan dengan partner penanggung jawab Dody Hapsoro. Auditor memberi opini wajar tanpa modifikasian, tetapi menyertakan paragraf penekanan mengenai ketidakpastian material atas kelangsungan usaha Grup. Auditor mencatat Grup mengalami defisit sebesar Rp50,86 miliar dan memiliki utang bank yang signifikan, yakni Rp253,35 miliar per akhir 2025.",
+   "Penyebab utama sorotan itu adalah entitas anak PT Sampit International (SI), yang per 31 Desember 2025 tidak dapat memenuhi rasio kemampuan bayar utang (DSCR) yang menjadi syarat dalam perjanjian fasilitas kredit dengan Bank BCA. Sampai tanggal laporan, SI belum menerima pernyataan gagal bayar (event of default) dari BCA, dan manajemen INCF menyatakan keyakinan bahwa ketentuan pinjaman itu bisa dipenuhi kembali sepanjang tahun 2026.",
+   "Dari sisi neraca, total aset Grup turun dari Rp437,70 miliar pada akhir 2024 menjadi Rp411,80 miliar pada akhir 2025. Kas dan setara kas menyusut tajam dari Rp6,31 miliar menjadi Rp3,54 miliar, sementara piutang usaha pihak ketiga turun dari Rp97,15 miliar menjadi Rp72,42 miliar, terdiri dari piutang kotor Rp79,05 miliar dikurangi cadangan penurunan nilai Rp6,63 miliar yang setara 18 persen dari total aset Grup. Persediaan justru naik dari Rp80,78 miliar menjadi Rp84,13 miliar, dengan cadangan penurunan nilai Rp3,47 miliar. Di sisi liabilitas, utang bank jangka pendek naik tipis dari Rp216,64 miliar menjadi Rp219,99 miliar, meski total liabilitas jangka pendek Grup secara keseluruhan turun dari Rp279,65 miliar menjadi Rp254,57 miliar. Sepanjang 2025, Grup membukukan pendapatan penjualan bersih Rp128,97 miliar.",
+   "Auditor juga menandai tiga hal audit utama, yaitu penyisihan cadangan kerugian piutang usaha, penilaian persediaan, dan saat pengakuan pendapatan dari penjualan bersih, karena ketiganya melibatkan pertimbangan dan estimasi signifikan dari manajemen. Sebagai informasi tambahan, laporan keuangan tahun 2024 sebelumnya diaudit oleh kantor akuntan publik yang berbeda, yang juga memberikan opini tanpa modifikasian pada 7 April 2025."
+  ],
+  "fotoAdegan": "Stacks of raw timber logs at a rural sawmill yard, workers checking inventory, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi INCF karena auditor secara eksplisit meragukan kemampuan Grup mempertahankan kelangsungan usahanya, sinyal yang jarang muncul dan tergolong serius dalam laporan keuangan emiten. Yang tersentuh adalah ekuitas Grup, yang tergerus hingga defisit Rp50,86 miliar, artinya total kewajiban sudah melebihi total aset bersihnya, sementara kas yang bisa dipakai sehari-hari menyusut dari Rp6,31 miliar menjadi Rp3,54 miliar di tengah beban utang bank Rp253,35 miliar, kombinasi yang membuat pelaku pasar mencermati kemampuan bayar Grup ke depan. Anak usaha PT Sampit International pun sudah melanggar syarat rasio kemampuan bayar utang atau DSCR dalam perjanjian kreditnya dengan BCA, meski bank belum menyatakan gagal bayar dan manajemen menargetkan syarat itu terpenuhi lagi sepanjang 2026. Yang perlu dipantau berikutnya adalah apakah BCA akhirnya mengeluarkan pernyataan wanprestasi atas fasilitas kredit Sampit International, dan apakah laporan keuangan periode 2026 menunjukkan defisit Grup mulai menyusut atau justru melebar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "indy-rencanakan-pengalihan-saham-treasuri-mulai-18-september",
+  "category": "Aksi Korporasi",
+  "title": "INDY Rencanakan Pengalihan [Saham Treasuri] Mulai 18 September",
+  "deck": "Indika Energy melanjutkan penjualan 7,5 juta saham treasuri yang belum tuntas pada periode Mei-Juli 2026, penjualan lanjutan dimulai 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:36:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0cc49058bf_3e9905835c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDY",
+  "tags": [
+   "INDY",
+   "saham treasuri",
+   "buyback",
+   "Indika Energy"
+  ],
+  "body": [
+   "Indika Energy Tbk (INDY) melaporkan hasil sekaligus rencana lanjutan pengalihan saham treasuri kepada pemegang saham. Saham treasuri ini berasal dari pembelian kembali (buyback) yang dilakukan perseroan pada 2, 3, dan 6 Juli 2020, masing-masing sebanyak 2,3 juta, 2,4 juta, dan 2,8 juta saham, dengan total 7,5 juta saham. Hingga tanggal keterbukaan informasi ini, 4 September 2026, seluruh 7,5 juta saham tersebut masih tercatat sebagai saham treasuri milik perseroan.",
+   "Perseroan sebenarnya sudah mencoba mengalihkan saham treasuri itu selama Periode Pengalihan Juli 2026, yaitu 11 Mei sampai 5 Juli 2026, mengacu pada POJK 30/2017. Namun sepanjang periode itu, rata-rata harga saham INDY selama 90 hari selalu lebih tinggi dari harga penutupan sehari sebelum tanggal penjualan. Karena aturan OJK melarang harga jual saham treasuri lebih rendah dari harga yang lebih tinggi di antara keduanya, perseroan tidak berhasil menuntaskan pengalihan seluruh saham dalam periode tersebut. Batas waktu kewajiban pengalihan diperpanjang dengan memperhitungkan akumulasi Periode Relaksasi yang berlaku 54 bulan berdasarkan sejumlah aturan OJK, termasuk POJK 13/2023 dan surat-surat OJK terbaru hingga Maret 2026.",
+   "Perseroan akan melanjutkan penjualan sisa saham treasuri melalui Bursa Efek Indonesia maupun di luar bursa, dengan mekanisme harga yang sama seperti periode sebelumnya, yaitu tidak boleh lebih rendah dari harga penutupan sehari sebelumnya atau rata-rata 90 hari, mana yang lebih tinggi. Penjualan dijadwalkan mulai 18 September 2026, yakni 14 hari setelah tanggal keterbukaan informasi ini, dan akan berlanjut selama sisa masa pengalihan yang tersedia. Perseroan akan menunjuk perusahaan sekuritas anggota bursa untuk mengeksekusi transaksi penjualan.",
+   "Dalam skenario proforma, jika seluruh 7,5 juta saham treasuri berpindah ke publik, jumlah saham beredar perseroan naik dari 5.202.692.000 menjadi 5.210.192.000 lembar. Porsi kepemilikan PT Indika Inti Investindo turun tipis dari 37,84 persen menjadi 37,79 persen, PT Teladan Resources dari 28,12 persen menjadi 28,08 persen, dan Pandri Prabono-Moelyo dari 5,10 persen menjadi 5,09 persen. Porsi Direksi dan Dewan Komisaris tetap 0,34 persen, PT Indika Mitra Holdiko tetap mendekati nol persen, sementara porsi publik naik dari 28,60 persen menjadi 28,70 persen, dengan jumlah saham publik bertambah dari 1.487.700.220 menjadi 1.495.200.220 lembar."
+  ],
+  "fotoAdegan": "Exterior of glass corporate office towers along a busy Jakarta business district street, morning light and passing traffic",
+  "takeaway": "Laporan ini bersifat netral bagi INDY, karena 7,5 juta saham treasuri yang dialihkan hanya sekitar 0,14 persen dari total saham beredar perseroan, terlalu kecil untuk mengubah peta kendali di antara tiga pemegang saham utamanya. Yang tersentuh dari aksi ini adalah jumlah saham beredar dan laba per saham, yaitu laba bersih perseroan yang dibagi rata ke setiap lembar saham. Begitu seluruh saham treasuri lepas ke publik, jumlah lembar saham beredar bertambah sedikit sehingga laba per saham bisa terdilusi tipis, meski besarannya kecil karena porsi saham yang dialihkan memang minim. Menariknya, gagalnya perseroan menuntaskan penjualan pada periode Mei-Juli 2026 justru karena aturan OJK mengunci harga jual minimum agar tidak di bawah harga pasar wajar, sehingga pemegang saham tidak dirugikan oleh pelepasan saham murah. Yang perlu dipantau selanjutnya adalah realisasi penjualan lanjutan yang dimulai 18 September 2026, serta apakah pergerakan harga saham INDY di pasar cukup mendukung agar sisa saham treasuri benar-benar terjual sebelum batas waktu perpanjangan berakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbca-bukukan-laba-rp29-5-triliun-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Bukukan [Laba] Rp29,5 Triliun di Semester I 2026",
+  "deck": "Materi public expose tahunan BBCA menunjukkan laba bersih semester I 2026 naik tipis 1,8 persen menjadi Rp29,5 triliun, sementara margin bunga bersih menyusut ke 5,3 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:33:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce18433a87_d4159772a0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBCA",
+  "tags": [
+   "BBCA",
+   "Bank Central Asia",
+   "public expose",
+   "kinerja perbankan"
+  ],
+  "body": [
+   "PT Bank Central Asia Tbk (BBCA) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 4 September 2026, sebagai kelanjutan dari pemberitahuan penyelenggaraan public expose yang dikirim perseroan pada 26 Agustus 2026. Keterbukaan informasi ini ditandatangani oleh Corporate Secretary BCA, Rudy Budiardjo, dan memuat paparan kinerja keuangan konsolidasi hingga Juni 2026.",
+   "Total aset BCA tercatat Rp1.661 triliun per Juni 2026, naik 10,4 persen dibanding Juni 2025. Penyaluran kredit mencapai Rp1.036 triliun, tumbuh 8,0 persen secara tahunan, sementara dana pihak ketiga naik 7,9 persen menjadi Rp1.284 triliun. Dana murah atau CASA tumbuh lebih cepat, 10,2 persen menjadi Rp1.082 triliun, ditopang giro yang melonjak 15,3 persen menjadi Rp444 triliun, sedangkan deposito berjangka justru turun 2,8 persen menjadi Rp202 triliun. Ekuitas perseroan naik 3,4 persen secara tahunan menjadi Rp270 triliun, meski turun 3,9 persen dibanding akhir 2025.",
+   "Dari sisi laba, BCA membukukan laba bersih konsolidasi Rp29,5 triliun pada semester I 2026, naik 1,8 persen dibanding periode sama tahun lalu. Laba operasional sebelum pencadangan (PPOP) naik 2,5 persen menjadi Rp38,4 triliun, ditopang pendapatan komisi dan fee yang tumbuh 11,2 persen menjadi Rp11 triliun. Sejumlah rasio utama justru melemah: margin bunga bersih turun dari 5,8 persen menjadi 5,3 persen, imbal hasil ekuitas (ROE) turun dari 25,2 persen menjadi 24,1 persen, dan rasio kecukupan modal (CAR) turun dari 28,4 persen menjadi 26,8 persen. Di sisi lain, kualitas kredit membaik, dengan rasio kredit bermasalah (NPL) turun dari 2,2 persen menjadi 1,9 persen dan rasio kredit berisiko (LAR) turun dari 5,7 persen menjadi 4,9 persen.",
+   "Dari segmen kredit, kredit korporasi tumbuh paling kencang, 13,6 persen menjadi Rp513,4 triliun, terutama ditopang kredit investasi yang naik 21 persen. Sebaliknya, kredit konsumer menyusut 2,4 persen menjadi Rp221 triliun, akibat kredit kendaraan bermotor yang anjlok 21,5 persen, meski kredit pemilikan rumah masih tumbuh 4,8 persen. Pembiayaan syariah tumbuh 20,5 persen menjadi Rp13,6 triliun. Perseroan juga melaporkan portofolio pembiayaan berkelanjutan naik 11,4 persen secara tahunan menjadi Rp267 triliun per Juni 2026."
+  ],
+  "fotoAdegan": "Wide angled shot of a modern bank branch lobby with rows of ATM machines, customers queuing quietly, warm interior lighting",
+  "takeaway": "Data ini condong netral: laba BCA memang masih tumbuh, tapi kenaikannya cuma 1,8 persen padahal kredit dan aset tumbuh dua kali lipat lebih cepat, tanda bahwa margin bank ini sedang tertekan. Yang tersentuh adalah margin bunga bersih atau selisih antara bunga yang diterima dari kredit dan bunga yang dibayar ke nasabah, yang turun dari 5,8 persen ke 5,3 persen, sejalan dengan imbal hasil bagi pemegang saham atau ROE yang turun dari 25,2 persen ke 24,1 persen. Di sisi lain kualitas kredit membaik, rasio kredit bermasalah turun dari 2,2 persen ke 1,9 persen, dan penyangga modal bank kalau terjadi kerugian atau CAR masih sangat tebal di 26,8 persen meski turun dari 28,4 persen tahun lalu. Yang perlu dipantau adalah paparan publik BCA yang dijadwalkan berlangsung 9 September 2026, saat manajemen kemungkinan menjelaskan lebih jauh strategi menahan tekanan margin ini pada semester kedua tahun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "peve-akui-salah-saji-laporan-kas-tersisa-rp7-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PEVE Akui [Salah Saji] Laporan, Kas Tersisa Rp7,5 Miliar",
+  "deck": "PEVE menjawab permintaan penjelasan BEI atas laporan keuangan Semester I 2026, mengungkap arus kas operasi masih minus Rp99,44 miliar dan mengakui salah saji sejumlah pos keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:26:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76824cb70f_bf4d5d8d16.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PEVE",
+  "tags": [
+   "PEVE",
+   "laporan keuangan",
+   "arus kas",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Penta Valent Tbk (PEVE) menyampaikan tanggapan resmi atas daftar pertanyaan Bursa Efek Indonesia terkait laporan keuangan per 30 Juni 2026. Salah satu sorotan bursa adalah tiga entitas anak, yaitu PT Mega Depo Gemilang (kepemilikan 99,95 persen), PT Natural Organik Bahagia (70 persen), dan PT Probylab Sehat Indonesia (51 persen), yang bersama-sama hanya menyumbang aset Rp7,38 miliar atau 0,51 persen dari total aset konsolidasian, namun membukukan rugi sebelum pajak Rp1,62 miliar pada semester I 2026. Secara rinci, Mega Depo Gemilang merugi Rp87,87 juta dari pendapatan Rp1,48 miliar, Natural Organik Bahagia merugi Rp835,99 juta dari pendapatan Rp277,71 juta, dan Probylab Sehat Indonesia merugi Rp691,40 juta dari pendapatan Rp1,35 miliar. Akibatnya, kepentingan non-pengendali turun Rp589,63 juta atau 54,79 persen menjadi Rp486,48 miliar. Manajemen menyatakan belum ada rencana suntikan modal eksternal maupun penghentian usaha bagi ketiga anak perusahaan tersebut.",
+   "Di sisi arus kas, perusahaan mencatat arus kas operasi negatif Rp99,44 miliar pada semester I 2026, membaik dibandingkan minus Rp154,42 miliar pada periode sama tahun lalu, namun tetap ditutup dengan penarikan utang bank neto Rp94,05 miliar. Kas dan setara kas turun Rp5,66 miliar atau 42,94 persen menjadi hanya Rp7,52 miliar, setara 0,52 persen dari total aset dan hanya 0,73 persen dari liabilitas jangka pendek Rp1,03 triliun yang mencakup utang bank Rp420,66 miliar dan utang usaha Rp605,84 miliar. Manajemen menjelaskan penyebabnya adalah maraknya penjualan kredit ke rumah sakit pemerintah yang menunggu pencairan anggaran, tercermin dari days sales outstanding 66,14 hari, jauh di atas target kredit 40 hari yang ditetapkan perusahaan sendiri. Dari piutang usaha bruto Rp675,17 miliar, sebesar Rp231,58 miliar atau 34,30 persen sudah lewat jatuh tempo, dengan Rp40,43 miliar di antaranya menunggak lebih dari 90 hari, sementara cadangan kerugian kredit yang dibentuk hanya Rp9,50 miliar. Perusahaan melaporkan realisasi penagihan piutang sejak 30 Juni sampai 31 Agustus 2026 sebesar Rp26,12 miliar atau 43,18 persen dari piutang yang dimaksud.",
+   "Perusahaan juga mengakui adanya kesalahan penyajian di beberapa pos laporan keuangan interim yang akan diperbaiki pada laporan berikutnya. Di antaranya, perolehan aset tetap secara kas seharusnya tercatat minus Rp208,62 juta bukan Rp152,49 juta, total liabilitas sewa seharusnya Rp2,51 miliar (jangka pendek Rp2,32 miliar dan jangka panjang Rp192,94 juta), pembayaran liabilitas sewa seharusnya tercatat sebagai arus kas keluar Rp236,11 juta bukan arus kas masuk Rp2,28 miliar, serta perolehan aset hak-guna seharusnya Rp1,72 miliar bukan Rp2,52 miliar. Selain itu, piutang lain-lain berupa klaim ke pemasok naik 29,38 persen menjadi Rp122,96 miliar tanpa dibentuk cadangan kerugian, dengan realisasi penerimaan sampai 31 Agustus 2026 mencapai Rp86,41 miliar atau 70,47 persen dari saldo tersebut. Perusahaan turut mengungkap bahwa persediaan dan piutang usaha senilai Rp600 miliar telah diikat sebagai jaminan fidusia kepada bank."
+  ],
+  "fotoAdegan": "Warehouse workers stacking pharmaceutical cardboard boxes onto pallets inside a busy distribution warehouse, forklift passing by, fluorescent lighting overhead",
+  "takeaway": "Laporan ini condong negatif bagi PEVE, karena arus kas operasi kembali minus untuk periode kedua berturut-turut dan kas perusahaan tersisa amat tipis, sementara beberapa pos di laporan keuangan ternyata salah saji dan baru akan diperbaiki belakangan. Yang tersentuh adalah arus kas dan modal kerja: kas dan setara kas cuma Rp7,52 miliar, hanya 0,73 persen dari total utang jangka pendek Rp1,03 triliun, sehingga perusahaan menambal selisihnya dengan menarik utang bank baru neto Rp94,05 miliar, bukan dari hasil penjualan tunai. Pasar mencermati rasio kas serendah ini karena kalau bank sewaktu-waktu memperketat plafon kredit, ruang gerak keuangan perusahaan bisa cepat menyempit. Piutang dari rumah sakit pemerintah yang menunggu pencairan anggaran menahan uang masuk sekaligus mendorong waktu penagihan rata-rata jadi 66 hari, jauh dari target 40 hari yang ditetapkan perusahaan sendiri, sehingga konsistensi penagihan pada semester kedua 2026 layak dipantau. Yang perlu ditunggu berikutnya adalah laporan keuangan kuartal III 2026, karena di situlah perusahaan berjanji memperbaiki kesalahan penyajian arus kas dan liabilitas sewa yang baru diakui lewat surat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
+  "category": "Aksi Korporasi",
+  "title": "BATR Jelaskan ke Bursa [Arus Kas] Operasi Minus Rp9,9 M",
+  "deck": "BATR menjelaskan ke BEI arus kas operasi minus Rp9,9 miliar dan kas di BRI yang susut dari Rp16,1 miliar jadi Rp2 miliar, di tengah lonjakan pendapatan 49,3 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:21:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6cc8c37a2_fb4d9cabfb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BATR",
+  "tags": [
+   "BATR",
+   "laporan keuangan",
+   "arus kas",
+   "BEI"
+  ],
+  "body": [
+   "PT Benteng Api Technic Tbk (BATR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat penelaahan bernomor S-11267/BEI.PP2/09-2026 tanggal 2 September 2026 terkait laporan keuangan tengah tahun per 30 Juni 2026. Tanggapan yang ditandatangani Direktur BATR, Aswin Asmantono, tertanggal 4 September 2026 ini menjawab 14 pertanyaan bursa seputar arus kas, piutang, persediaan, aset tetap, dan utang perusahaan.",
+   "Poin utama yang disorot bursa adalah arus kas dari aktivitas operasional yang mencatat kas keluar Rp9,9 miliar per Juni 2026, memburuk dibandingkan periode sama tahun lalu yang minus Rp1,4 miliar. Perseroan menjelaskan pembayaran kas ke pemasok melonjak menjadi Rp52,78 miliar dari Rp28,87 miliar, sejalan dengan kenaikan pendapatan usaha menjadi Rp81,37 miliar dari Rp54,50 miliar, naik 49,3 persen, serta beban pokok pendapatan yang naik menjadi Rp59,08 miliar dari Rp41,02 miliar. Manajemen berjanji mempercepat penagihan piutang, mengoptimalkan persediaan, mengatur ulang jadwal pembayaran ke pemasok, dan menunda pengeluaran yang tidak mendesak hingga akhir 2026 untuk memperbaiki arus kas.",
+   "Saldo kas perusahaan di Bank Rakyat Indonesia turun dari Rp16,1 miliar per akhir Desember 2025 menjadi sekitar Rp2 miliar per Juni 2026, penurunan Rp14,1 miliar yang menurut manajemen dipakai untuk kebutuhan operasional dan modal kerja. Dari total piutang usaha Rp45 miliar, senilai Rp16,3 miliar sudah berumur di atas 90 hari akibat keterlambatan pembayaran pelanggan, sehingga cadangan kerugian nilai piutang naik menjadi Rp15,4 miliar. Perseroan juga tengah membangun gedung kantor pusat baru melalui kontrak dengan PT Refindo Sentral Teknik senilai Rp2.024.381.600 dan CV Multi Jaya Teknik Abadi senilai Rp214.030.517, ditargetkan rampung Desember 2026.",
+   "Pada pos lain, utang lain-lain kepada pihak ketiga naik 94,5 persen menjadi Rp823,7 juta dari Rp423,5 juta, terutama karena kewajiban baru kepada PT Alam Global Samudra sebesar Rp466,8 juta dan kenaikan kewajiban ke PT Central Jasatama Indonesia menjadi Rp288,9 juta dari Rp34,1 juta, meski utang ke PT JAT Securindo Service senilai Rp214,5 juta dan PT Refindo Sentral Teknik senilai Rp130,2 juta sudah lunas. Perseroan juga melepas sejumlah kendaraan lama, termasuk sebuah mobil Fortuner tahun 2016, dengan total nilai buku Rp598,1 juta karena dinilai tidak produktif namun tetap membebani biaya pajak dan perawatan, lalu menjualnya seharga Rp313 juta."
+  ],
+  "fotoAdegan": "Workers moving stacked pallets of finished industrial materials across a warehouse loading area, forklift nearby, morning light through high windows",
+  "takeaway": "Penjelasan BATR ini condong negatif bagi kinerja jangka pendek karena arus kas operasional justru memburuk, dari minus Rp1,4 miliar menjadi minus Rp9,9 miliar, dan kas inti perusahaan di Bank Rakyat Indonesia menyusut tajam dari Rp16,1 miliar menjadi Rp2 miliar hanya dalam enam bulan. Yang tersentuh adalah arus kas dari kegiatan operasional sehari-hari dan piutang usaha, dua pos yang dicermati pelaku pasar karena keduanya menunjukkan apakah penjualan yang tercatat di atas kertas benar-benar berubah jadi uang tunai di kas perusahaan. Cadangan kerugian piutang juga naik jadi Rp15,4 miliar seiring piutang berumur di atas 90 hari mencapai Rp16,3 miliar, tanda sebagian pelanggan belum membayar tepat waktu. Manajemen berdalih kondisi ini wajar karena sejalan dengan lonjakan penjualan 49,3 persen menjadi Rp81,3 miliar, namun klaim itu baru teruji kalau arus kas benar membaik pada laporan berikutnya. Yang perlu dipantau adalah realisasi janji mempercepat penagihan piutang dan mengatur pembayaran ke pemasok hingga akhir 2026, serta penyelesaian gedung kantor pusat baru yang ditargetkan rampung Desember 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
   "category": "Aksi Korporasi",
   "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",

@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ungkap Kontrak Baru Rp2,27 T, tapi [Laba Per Saham] Anjlok",
+  "deck": "WIKA Beton (WTON) memaparkan kontrak baru Rp2,27 triliun dan pendapatan Rp1,48 triliun jelang Public Expose 9 September 2026, di tengah tren laba per saham yang terus menyusut sejak 2015.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Public Expose",
+   "BUMN Konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3bb0d270f4_d522492d7e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lrna-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi sahamnya, LRNA menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LRNA",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ad1e6b632_48499cfa9d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pngo-jawab-bursa-free-float-tinggal-0-52-refloat-belum-pasti",
+  "category": "Aksi Korporasi",
+  "title": "PNGO Jawab Bursa: Free Float Tinggal 0,52%, [Refloat] Belum Pasti",
+  "deck": "Usai tender wajib, pengendali baru AEP Pinago Plantations kuasai 99,48% saham dan menyisakan free float 0,52%. Jadwal serta jumlah saham refloat ke publik belum ditentukan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNGO",
+   "free float",
+   "refloat",
+   "tender offer wajib"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c32dff408_fbf2fe94c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "incf-grup-defisit-auditor-soroti-going-concern",
+  "category": "Aksi Korporasi",
+  "title": "INCF: Grup Defisit, Auditor Soroti [Going Concern]",
+  "deck": "Auditor menyoroti defisit Rp50,86 miliar dan utang bank Rp253,35 miliar Grup INCF, setelah anak usahanya gagal memenuhi rasio utang dalam perjanjian kredit ke bank BCA.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCF",
+   "laporan keuangan tahunan",
+   "going concern",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260904174522-64359-0/FinancialStatement-2025-Tahunan-INCF.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indy-rencanakan-pengalihan-saham-treasuri-mulai-18-september",
+  "category": "Aksi Korporasi",
+  "title": "INDY Rencanakan Pengalihan [Saham Treasuri] Mulai 18 September",
+  "deck": "Indika Energy melanjutkan penjualan 7,5 juta saham treasuri yang belum tuntas pada periode Mei-Juli 2026, penjualan lanjutan dimulai 18 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDY",
+   "saham treasuri",
+   "buyback",
+   "Indika Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0cc49058bf_3e9905835c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbca-bukukan-laba-rp29-5-triliun-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "BBCA Bukukan [Laba] Rp29,5 Triliun di Semester I 2026",
+  "deck": "Materi public expose tahunan BBCA menunjukkan laba bersih semester I 2026 naik tipis 1,8 persen menjadi Rp29,5 triliun, sementara margin bunga bersih menyusut ke 5,3 persen.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBCA",
+   "Bank Central Asia",
+   "public expose",
+   "kinerja perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce18433a87_d4159772a0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "peve-akui-salah-saji-laporan-kas-tersisa-rp7-5-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PEVE Akui [Salah Saji] Laporan, Kas Tersisa Rp7,5 Miliar",
+  "deck": "PEVE menjawab permintaan penjelasan BEI atas laporan keuangan Semester I 2026, mengungkap arus kas operasi masih minus Rp99,44 miliar dan mengakui salah saji sejumlah pos keuangan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEVE",
+   "laporan keuangan",
+   "arus kas",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76824cb70f_bf4d5d8d16.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
+  "category": "Aksi Korporasi",
+  "title": "BATR Jelaskan ke Bursa [Arus Kas] Operasi Minus Rp9,9 M",
+  "deck": "BATR menjelaskan ke BEI arus kas operasi minus Rp9,9 miliar dan kas di BRI yang susut dari Rp16,1 miliar jadi Rp2 miliar, di tengah lonjakan pendapatan 49,3 persen.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BATR",
+   "laporan keuangan",
+   "arus kas",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6cc8c37a2_fb4d9cabfb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
   "category": "Aksi Korporasi",
   "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",
@@ -6433,135 +6561,6 @@ var ARTICLES = [
    "obligasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/793357ec76_b1b9c075ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ypas-gelar-public-expose-insidentil-usai-diminta-bursa",
-  "category": "Aksi Korporasi",
-  "title": "YPAS Gelar [Public Expose] Insidentil usai Diminta Bursa",
-  "deck": "Yanaprima Hastapersada akan menggelar public expose insidentil secara daring pada 28 Agustus 2026 setelah menerima surat dari unit pengawasan Bursa Efek Indonesia.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YPAS",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "Yanaprima Hastapersada"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c4f6df74eb_60de163d51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "beer-jadwalkan-rupslb-pada-2-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "BEER Jadwalkan [RUPSLB] pada 2 Oktober 2026",
-  "deck": "PT Jobubu Jarum Minahasa Tbk (BEER) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemegang saham per 9 September 2026 yang berhak hadir dan memberi suara.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEER",
-   "RUPSLB",
-   "pasar modal",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bddbfbb9a7_65a48cfe91.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-jadwalkan-rupslb-pada-2-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ Jadwalkan [RUPSLB] pada 2 Oktober 2026",
-  "deck": "PT Hassana Boga Sejahtera Tbk (NAYZ) akan menggelar RUPSLB pada 2 Oktober 2026, dengan pemanggilan resmi berisi agenda lengkap terbit 10 September 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "RUPSLB",
-   "Hassana Boga Sejahtera",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/76c83356de_9dbe9969eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cek-desil-kemensos-untuk-pastikan-status-bansos-anda",
-  "category": "Makroekonomi",
-  "title": "Cek [Desil] Kemensos untuk Pastikan Status Bansos Anda",
-  "deck": "Desil dalam data DTSEN menentukan siapa berhak menerima PKH dan BPNT. Jika data dianggap tidak sesuai kondisi terkini, warga bisa mengajukan sanggah.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/cek-desil-kemensos-untuk-pastikan-status-bansos-anda.jpg",
-  "imageV": "mt9o4a5m",
-  "tags": [
-   "bansos",
-   "Kemensos",
-   "DTSEN",
-   "PKH"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462618-cek-desil-kemensos-untuk-tahu-dapat-bansos-atau-tidak-begini-cara-sanggah-jika-data-tidak-sesuai"
- },
- {
-  "slug": "cars-jelaskan-ke-bei-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "CARS Jelaskan ke BEI Soal [Volatilitas] Transaksi Saham",
-  "deck": "CARS menjawab permintaan penjelasan BEI atas lonjakan transaksi sahamnya, menegaskan tidak ada informasi material dan belum ada pemegang saham pengendali per 31 Juli 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CARS",
-   "Bintraco Dharma",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c127e4780f_c6b8f02659.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aegs-bantah-punya-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "AEGS Bantah Punya Info Material di Balik [Volatilitas] Saham",
-  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, AEGS menyatakan tidak mengetahui fakta material di balik pergerakan harga sahamnya dan belum berencana melakukan aksi korporasi.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AEGS",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1ba3a23722_f7ee070276.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wins-beri-jaminan-perusahaan-us-12-juta-untuk-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "WINS Beri [Jaminan] Perusahaan US$12 Juta untuk Anak Usaha",
-  "deck": "Wintermar Offshore Marine (WINS) menjamin fasilitas kredit US$12 juta dari Bank Shinhan Indonesia untuk anak usahanya, PT Wintermar, guna refinancing kapal dan modal kerja.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINS",
-   "Wintermar Offshore Marine",
-   "jaminan perusahaan",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/62a5a299ee_385a4bcd2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-mcor-junianto-tambah-kepemilikan-500-200-saham",
-  "category": "Aksi Korporasi",
-  "title": "[Direksi] MCOR: Junianto Tambah Kepemilikan 500.200 Saham",
-  "deck": "Direksi MCOR, Junianto, menambah kepemilikan 500.200 saham secara tidak langsung seharga Rp68 per lembar untuk memenuhi ketentuan OJK bagi pengurus bank.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOR",
-   "kepemilikan saham",
-   "direksi bank",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-4227-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

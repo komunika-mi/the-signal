@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
+  "category": "Industri",
+  "title": "Ekspor Sawit RI [Melonjak] 64% pada Juni 2026",
+  "deck": "GAPKI mencatat ekspor sawit Juni 2026 naik 64% dari Mei menjadi 3,27 juta ton, sementara harga rata-rata CPO justru turun mengikuti pelemahan pasar acuan.",
+  "image": "assets/img/ekspor-sawit-ri-melonjak-64-pada-juni-2026.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T01:07:54.717Z",
+  "sourceUrl": "https://gapki.id/news/2026/08/26/ekspor-sawit-indonesia-melonjak-64-pada-juni-2026-produksi-dan-konsumsi-ikut-naik/",
+  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "tags": [
+   "Sawit",
+   "Ekspor CPO",
+   "GAPKI",
+   "Harga CPO"
+  ],
+  "body": [
+   "Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI) merilis data kinerja industri sawit periode Juni 2026 yang menunjukkan produksi minyak sawit mentah (CPO) dan minyak inti sawit (PKO) naik dari bulan sebelumnya, namun kenaikan konsumsi dalam negeri dan ekspor jauh lebih besar sehingga stok akhir bulan ikut tergerus. Data ini relevan karena sawit merupakan salah satu penyumbang devisa terbesar Indonesia, sehingga naik turunnya volume dan harga jualnya memengaruhi pendapatan petani, perusahaan perkebunan, dan penerimaan ekspor negara.",
+   "Produksi CPO Juni tercatat 4.823 ribu ton, naik 8,59 persen dari Mei yang sebesar 4.165 ribu ton, sementara produksi PKO naik menjadi 449 ribu ton dari 387 ribu ton. Total produksi CPO dan PKO Juni mencapai 5.277 ribu ton, dan secara kumulatif Januari-Juni 2026 produksi mencapai 30.284 ribu ton, naik 15,82 persen dibanding periode sama 2025 yang sebesar 27.889 ribu ton. Konsumsi dalam negeri Juni naik 5,92 persen menjadi 2.201 ribu ton, dengan kenaikan terutama pada biodiesel yang mencapai 1.131 ribu ton, disusul konsumsi pangan 878 ribu ton dan oleokimia 192 ribu ton. Secara kumulatif, konsumsi domestik Januari-Juni mencapai 12.994 ribu ton, naik 5,48 persen dari tahun lalu.",
+   "Ekspor produk sawit Juni 2026 melonjak 64,08 persen menjadi 3.275 ribu ton dari 1.996 ribu ton di Mei. Kenaikan terbesar terjadi pada ekspor CPO yang melompat hampir sepuluh kali lipat menjadi 335 ribu ton dari 31 ribu ton, disusul ekspor produk olahan minyak sawit yang naik 66 persen menjadi 2.357 ribu ton, dan olahan minyak inti sawit yang naik 110 persen menjadi 116 ribu ton. Secara kumulatif Januari-Juni, total ekspor mencapai 16.595 ribu ton, naik 5,79 persen dari tahun sebelumnya. Nilai ekspor Juni mencapai US$3,92 miliar, naik 57,45 persen dari US$2,49 miliar di Mei, meski harga rata-rata ekspor CPO justru turun 4,32 persen menjadi US$1.174 per ton mengikuti pelemahan harga acuan di bursa Malaysia. Secara kumulatif, nilai ekspor Januari-Juni mencapai US$19,45 miliar, naik 12,57 persen dari 2025, dengan harga rata-rata ekspor CPO US$1.132 per ton dibanding US$1.088 per ton pada periode sama tahun lalu.",
+   "Berdasarkan negara tujuan, kenaikan ekspor Juni dibanding Mei tercatat untuk India sebesar 328 ribu ton (+396 persen), China 256 ribu ton (+67 persen), Pakistan 132 ribu ton (+88 persen), Malaysia 129 ribu ton (+149 persen), Afrika 114 ribu ton (+45 persen), Bangladesh 98 ribu ton (+133 persen), dan Amerika Serikat 85 ribu ton (+64 persen). Sebaliknya, ekspor ke Rusia turun 25 ribu ton (-20 persen) dan ke Uni Eropa turun 4 ribu ton (-2 persen). Namun secara kumulatif Januari-Juni, polanya berbeda: ekspor ke China naik 31 persen dari 2025, Malaysia naik 13 persen, Rusia naik 7 persen, Afrika naik 4 persen, dan Bangladesh naik 4 persen, sementara ekspor ke Amerika Serikat turun 8 persen, India turun 7 persen, Pakistan turun 7 persen, dan Uni Eropa turun 1 persen dibanding tahun lalu.",
+   "Dengan stok awal tahun sebesar 2.068 ribu ton, ditambah produksi 30.284 ribu ton dan impor 32 ribu ton, dikurangi konsumsi domestik 12.994 ribu ton dan ekspor 16.595 ribu ton sepanjang Januari-Juni 2026, GAPKI mencatat stok akhir Juni berada di angka 2.844 ribu ton."
+  ],
+  "fotoAdegan": "Workers stacking fresh palm fruit bunches onto a truck at a rural plantation collection point, hazy tropical morning light",
+  "fotoSumber": "https://gapki.id/dir-site/uploads/2026/08/palmoil_tanker_cpo_gapki.id___.jpg",
+  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "takeaway": "Yang berubah nyata di sini adalah lonjakan ekspor sawit Juni sebesar 64 persen dibanding Mei, tapi angka itu perlu dibaca hati-hati karena sebagian besar berasal dari ekspor CPO mentah yang melompat hampir sepuluh kali lipat dari titik yang memang sangat rendah di Mei, yakni cuma 31 ribu ton, bukan dari lonjakan permintaan yang benar-benar baru. Sementara volume ekspor naik, harga jual rata-rata CPO ke luar negeri justru turun 4,3 persen mengikuti pelemahan harga di pasar acuan Malaysia, jadi pendapatan pengusaha sawit naik karena barang yang terjual makin banyak, bukan karena harganya makin mahal. Yang terdampak adalah eksportir dan petani sawit yang pendapatannya bergantung pada harga jual, serta pola pembeli di luar negeri yang mulai bergeser: secara kumulatif Januari-Juni, ekspor ke China naik 31 persen dan ke Malaysia naik 13 persen, sementara ke India, Pakistan, dan Amerika Serikat masing-masing turun sekitar 7-8 persen. Kalau pola ini berlanjut, arahnya adalah pasar ekspor sawit Indonesia makin condong ke China dan Malaysia, menjauh dari India dan Pakistan yang selama ini jadi pembeli besar. Yang akan memastikan apakah ini tren jangka panjang atau sekadar fluktuasi bulanan adalah data ekspor Juli dan Agustus 2026 dari GAPKI, terutama apakah volume ke India dan Pakistan kembali naik atau terus tertinggal.",
+  "imageV": "mtm9lqsf"
+ },
+ {
+  "slug": "giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom",
+  "category": "Industri",
+  "title": "GIIAS [Bandung] 2026 Digelar 9-13 September di Sudirman Ballroom",
+  "deck": "Pameran otomotif GIIAS lanjut ke Bandung pada 9-13 September 2026 di Sudirman Grand Ballroom, setelah sebelumnya digelar di Tangerang dan Surabaya.",
+  "image": "assets/img/giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T01:07:49.820Z",
+  "sourceUrl": "https://www.gaikindo.or.id/pameran-otomotif-giias-bandung-2026-jadwal-lokasi-harga-dan-cara-beli-tiket/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "GAIKINDO",
+   "Bandung"
+  ],
+  "body": [
+   "GAIKINDO Indonesia International Auto Show (GIIAS) singgah di Bandung pada 9 hingga 13 September 2026, menyusul rangkaian GIIAS the Series yang sebelumnya digelar di Tangerang dan Surabaya. Bagi warga Jawa Barat, ini jadi kesempatan melihat kendaraan dan teknologi otomotif terbaru tanpa perlu ke pameran utama, tapi perlu dicatat lokasinya bukan di ICE BSD yang menjadi tempat GIIAS utama pada 30 Juli sampai 9 Agustus lalu.",
+   "Untuk GIIAS Bandung, lokasinya adalah Sudirman Grand Ballroom di Jalan Jenderal Sudirman No. 620, Dungus Cariang, Kecamatan Andir, Kota Bandung. Ini merupakan kota ketiga dalam rangkaian setelah GIIAS Surabaya berlangsung 26-30 Agustus di Grand City Convex. Setelah Bandung, rangkaian berlanjut ke GIIAS Semarang pada 30 September-4 Oktober di Muladi Dome, lalu GIIAS Makassar pada 28 Oktober-1 November di Summarecon Mutiara Makassar.",
+   "Tiket dijual daring lewat aplikasi Auto360, dengan pengunjung memilih tanggal kunjungan sebelum membayar. Sebagai gambaran, tiket presale GIIAS 2026 sebelumnya ditawarkan mulai Rp25 ribu untuk hari kerja dan Rp50 ribu untuk akhir pekan, meski harga presale bisa berbeda tergantung periode dan kuota yang tersedia. Calon pengunjung disarankan mengecek harga dan ketersediaan tiket khusus Bandung lebih dulu sebelum membeli, karena rincian harga reguler untuk seri Bandung tidak disebutkan detail dalam siaran ini."
+  ],
+  "fotoAdegan": "Visitors walking between rows of new cars displayed under bright lights inside a spacious convention hall.",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/bdg-1.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah dari siaran ini sebenarnya soal jadwal dan lokasi: setelah pameran utama di ICE BSD dan seri Surabaya, GAIKINDO memperluas roadshow GIIAS ke Bandung, lalu berlanjut ke Semarang akhir September dan Makassar akhir Oktober. Yang terdampak jelas diler dan agen pemegang merek yang ikut pameran di kota-kota itu, serta calon pembeli mobil di Jawa Barat, Jawa Tengah, dan Sulawesi Selatan yang jadi sasaran baru selain Jabodetabek dan Surabaya. Siaran ini tidak menyebut berapa jumlah pengunjung atau nilai transaksi dari seri Tangerang maupun Surabaya yang sudah selesai, jadi belum bisa dibaca apakah perluasan ke kota-kota kedua ini benar mendongkrak penjualan mobil di daerah atau sekadar rutinitas promosi tahunan GAIKINDO. Yang perlu ditunggu adalah rekap resmi jumlah pengunjung dan transaksi GIIAS 2026 yang biasanya dirilis GAIKINDO setelah seluruh rangkaian kota selesai awal November.",
+  "imageV": "mtm9lr3q"
+ },
+ {
   "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
   "category": "Industri",
   "title": "Pengunjung GIIAS Surabaya 2026 [Rekor], Naik 40 Persen",

@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
+  "category": "Industri",
+  "title": "Ekspor Sawit RI [Melonjak] 64% pada Juni 2026",
+  "deck": "GAPKI mencatat ekspor sawit Juni 2026 naik 64% dari Mei menjadi 3,27 juta ton, sementara harga rata-rata CPO justru turun mengikuti pelemahan pasar acuan.",
+  "date": "4 September 2026",
+  "image": "assets/img/ekspor-sawit-ri-melonjak-64-pada-juni-2026.jpg",
+  "imageV": "mtm9lqsf",
+  "tags": [
+   "Sawit",
+   "Ekspor CPO",
+   "GAPKI",
+   "Harga CPO"
+  ],
+  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "sourceUrl": "https://gapki.id/news/2026/08/26/ekspor-sawit-indonesia-melonjak-64-pada-juni-2026-produksi-dan-konsumsi-ikut-naik/",
+  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
+ },
+ {
+  "slug": "giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom",
+  "category": "Industri",
+  "title": "GIIAS [Bandung] 2026 Digelar 9-13 September di Sudirman Ballroom",
+  "deck": "Pameran otomotif GIIAS lanjut ke Bandung pada 9-13 September 2026 di Sudirman Grand Ballroom, setelah sebelumnya digelar di Tangerang dan Surabaya.",
+  "date": "4 September 2026",
+  "image": "assets/img/giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom.jpg",
+  "imageV": "mtm9lr3q",
+  "tags": [
+   "GIIAS",
+   "Otomotif",
+   "GAIKINDO",
+   "Bandung"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/pameran-otomotif-giias-bandung-2026-jadwal-lokasi-harga-dan-cara-beli-tiket/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
   "category": "Industri",
   "title": "Pengunjung GIIAS Surabaya 2026 [Rekor], Naik 40 Persen",
@@ -6526,37 +6562,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462441-bahlil-klaim-bisa-hemat-rp739-triliun-dan-buka-552-juta-lapangan-kerja-lewat-plts-100-gwp"
- },
- {
-  "slug": "arko-rampungkan-akuisisi-100-saham-endorshine-energy",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Rampungkan [Akuisisi] 100% Saham Endorshine Energy",
-  "deck": "Dua anak usaha Arkora Hydro, PT Arkora Tenaga Matahari dan PT Arjuna Hidro, resmi menguasai 100% saham PT Endorshine Energy Solution setelah mendapat persetujuan Kementerian Hukum.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "akuisisi",
-   "Arkora Hydro",
-   "energi terbarukan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/50c8be6b31_d31059f7b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jpfa-komisaris-utama-syamsir-siregar-wafat",
-  "category": "Aksi Korporasi",
-  "title": "JPFA: Komisaris Utama Syamsir Siregar [Wafat]",
-  "deck": "JAPFA Comfeed melaporkan wafatnya Komisaris Utama H. Syamsir Siregar pada 25 Agustus 2026; susunan baru Dewan Komisaris akan ditetapkan di RUPS terdekat.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JPFA",
-   "JAPFA Comfeed",
-   "Dewan Komisaris",
-   "Komisaris Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b9cd126697_994f8d0e24.pdf",
-  "sourceLabel": "IDX"
  }
 ];

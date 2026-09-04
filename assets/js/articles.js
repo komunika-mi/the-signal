@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "delapan-umkm-surakarta-siap-tampil-di-tei-2026",
+  "category": "UMKM",
+  "title": "Delapan UMKM Surakarta Siap Tampil di [TEI] 2026",
+  "deck": "Kemendag memastikan delapan UMKM asal Surakarta, didominasi produk batik, tampil di Trade Expo Indonesia 2026, menyusul kunjungan ke sentra rotan dan batik setempat.",
+  "image": "assets/img/delapan-umkm-surakarta-siap-tampil-di-tei-2026.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-04T23:04:05.990Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-ekspor-rotan-dan-batik-surakarta-wamendag-roro-pantau-kesiapan-umkm-jelang-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Batik Surakarta",
+   "Trade Expo Indonesia"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri meninjau kesiapan pelaku usaha mikro, kecil, dan menengah (UMKM) di Sukoharjo dan Surakarta, Jawa Tengah, Jumat (4/9), menjelang keikutsertaan mereka di Trade Expo Indonesia (TEI) 2026. Kunjungan itu menyasar sentra kerajinan rotan di Desa Trangsan, Sukoharjo, serta kampung batik Laweyan dan Kauman di Surakarta. Wakil Wali Kota Surakarta Astrid Widayani menyebut delapan UMKM dari kotanya akan tampil di TEI 2026, dengan produk yang didominasi batik tulis.",
+   "Salah satu yang dikunjungi adalah Reka Design, produsen furnitur rotan di Desa Trangsan yang dikenal sebagai Desa Devisa Rotan, sebutan untuk desa yang produksinya menopang ekspor daerah. Produk mereka sudah menembus pasar Eropa dan Amerika Serikat, dengan proses produksi melibatkan ratusan perajin di desa tersebut. Pemiliknya, Suryanto, berencana kembali ikut TEI 2026 bersama HIPMI Surakarta dan berminat memakai pendampingan desain dari Indonesia Design Development Center (IDDC) milik Kemendag.",
+   "Di Kampung Batik Laweyan, pemilik Toko Sudagaran, Hapsari Chandra Dewi, mengatakan usahanya sedang menyiapkan jenama baru bernama Kultur Jawa, yang menyasar pembeli muda dengan warna lebih cerah dan model lebih kasual, sebagai pelengkap lini batik tulis premium yang sudah mereka jual. Kemendag menyebut TEI 2025 mencatat kehadiran 8.045 pembeli dari berbagai negara, dan tahun ini pemerintah akan melibatkan Atase Perdagangan serta Indonesian Trade Promotion Center (ITPC) untuk mempertemukan pelaku usaha lokal dengan calon pembeli lewat sesi business matching."
+  ],
+  "fotoAdegan": "A batik craftsperson leaning over cotton cloth, drawing wax patterns with a canting pen, dye pots and drying racks in a courtyard workshop",
+  "fotoSumber": "https://www.kemendag.go.id/albums/foGJPCZ5ZVjySnI5gWLilxLYCDMI75NEgMRsyZ8D.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari kunjungan ini adalah kepastian delapan UMKM asal Surakarta ikut Trade Expo Indonesia 2026, dan mayoritas produknya batik tulis, bukan rotan yang selama ini jadi andalan daerah tetangganya di Sukoharjo. Yang terdampak jelas ratusan perajin rotan di Desa Trangsan yang produknya sudah lebih dulu tembus pasar Eropa dan Amerika, serta pelaku usaha batik di Laweyan dan Kauman yang kini didorong menempuh jalan ekspor serupa lewat pameran dagang tahunan itu. Arahnya terlihat dua lapis, pemerintah memakai kisah sukses rotan sebagai contoh untuk mendorong batik naik kelas jadi komoditas ekspor, sementara pelaku usaha batik sendiri mulai memecah pasar dengan membuat lini produk lebih murah dan kasual seperti Kultur Jawa untuk menjangkau pembeli muda, selain tetap menjual batik tulis premium yang harganya lebih tinggi. Yang akan menunjukkan apakah strategi ini berhasil adalah jumlah pembeli dan nilai transaksi TEI 2026 nanti, dibandingkan dengan capaian 8.045 pembeli asing pada TEI 2025.",
+  "imageV": "mtnkkzse"
+ },
+ {
   "slug": "dooh-koreksi-arus-kas-usai-permintaan-penjelasan-bei",
   "category": "Aksi Korporasi",
   "title": "DOOH [Koreksi] Arus Kas Usai Permintaan Penjelasan BEI",

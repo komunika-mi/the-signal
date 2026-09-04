@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "delapan-umkm-surakarta-siap-tampil-di-tei-2026",
+  "category": "UMKM",
+  "title": "Delapan UMKM Surakarta Siap Tampil di [TEI] 2026",
+  "deck": "Kemendag memastikan delapan UMKM asal Surakarta, didominasi produk batik, tampil di Trade Expo Indonesia 2026, menyusul kunjungan ke sentra rotan dan batik setempat.",
+  "date": "5 September 2026",
+  "image": "assets/img/delapan-umkm-surakarta-siap-tampil-di-tei-2026.jpg",
+  "imageV": "mtnkkzse",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Batik Surakarta",
+   "Trade Expo Indonesia"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-ekspor-rotan-dan-batik-surakarta-wamendag-roro-pantau-kesiapan-umkm-jelang-tei-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "dooh-koreksi-arus-kas-usai-permintaan-penjelasan-bei",
   "category": "Aksi Korporasi",
   "title": "DOOH [Koreksi] Arus Kas Usai Permintaan Penjelasan BEI",
@@ -6551,23 +6569,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462801-sez-industropolis-run-2026-akan-digelar-suguhkan-pengalaman-lari-di-kawsan-industri-tepi-laut-jawa"
- },
- {
-  "slug": "irse-2026-dibuka-ritel-didorong-genjot-teknologi",
-  "category": "Bisnis",
-  "title": "IRSE 2026 Dibuka, Ritel Didorong Genjot [Teknologi]",
-  "deck": "Mendag Busan mengajak pelaku ritel memanfaatkan teknologi saat membuka IRSE 2026, di tengah konsumsi rumah tangga yang menyumbang 53,32 persen ekonomi nasional pada kuartal II 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/irse-2026-dibuka-ritel-didorong-genjot-teknologi.jpg",
-  "imageV": "mtaavl05",
-  "tags": [
-   "ritel",
-   "IRSE 2026",
-   "konsumsi rumah tangga",
-   "QRIS"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ikut-buka-irse-2026-mendag-busan-teknologi-tingkatkan-pengalaman-belanja-konsumen",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

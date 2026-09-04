@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
+  "category": "Aksi Korporasi",
+  "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",
+  "deck": "Raharja Energi Cepu bakal menerbitkan hingga 271,5 juta saham baru tanpa hak memesan efek terlebih dahulu, RUPSLB digelar 8 September 2026 untuk persetujuan pemegang saham independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:27:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3684f18dd8_1f894169fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) berencana menambah modal tanpa memberikan hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan sebanyak-banyaknya 271.505.380 lembar saham baru, atau maksimal 10 persen dari jumlah saham yang beredar saat ini. Jika seluruhnya terealisasi, jumlah saham Perseroan akan bertambah dari 2.715.053.800 lembar menjadi 2.986.559.180 lembar, dengan nilai nominal tetap Rp10 per saham. Rencana ini akan dimintakan persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada 8 September 2026.",
+   "Harga pelaksanaan saham baru belum ditentukan. Perseroan hanya menyebut harga tersebut nantinya paling sedikit 90 persen dari rata-rata harga penutupan saham RATU selama 25 hari bursa berturut-turut sebelum permohonan pencatatan saham baru diajukan ke Bursa Efek Indonesia. Dana hasil penerbitan saham akan dipakai untuk modal kerja dan pengembangan usaha Perseroan beserta grupnya, termasuk kemungkinan pembelian aset, pembelian saham perusahaan lain, atau pemberian pinjaman pada bisnis yang sejalan dengan sektor holding, konsultasi manajemen, serta pertambangan minyak dan gas milik Perseroan. Proses penerbitan harus rampung paling lambat 31 Januari 2028, mengikuti batas dua tahun sejak RUPSLB menyetujui rencana ini.",
+   "Dari sisi kepemilikan, porsi PT Rukun Raharja Tbk selaku pengendali RATU (melalui Bapak Hapsoro) akan turun dari 68,677 persen menjadi 62,434 persen setelah penambahan modal, namun status pengendali tidak berubah. Kepemilikan publik atau masyarakat juga akan terdilusi dari 31,317 persen menjadi 28,470 persen. Sampai laporan ini diterbitkan, Perseroan menyatakan belum ada calon investor yang menyatakan minat mengambil saham baru tersebut, sehingga informasi soal identitas maupun kemungkinan hubungan afiliasi calon investor belum bisa diungkapkan."
+  ],
+  "fotoAdegan": "Wide view of an onshore oil and gas processing facility with pipelines and storage tanks, early morning haze over the plant",
+  "takeaway": "Rencana ini condong netral bagi RATU: dana segar dari penerbitan saham baru bisa memperkuat modal untuk ekspansi usaha, tapi di sisi lain otomatis mengecilkan porsi kepemilikan pemegang saham lama sampai maksimum 9,09 persen, sementara harga jual sahamnya sendiri belum ditentukan sehingga sulit dinilai apakah transaksi ini nantinya menguntungkan pemegang saham lama atau tidak. Yang tersentuh langsung adalah jumlah saham beredar dan laba per saham, karena begitu saham baru terbit, laba bersih Perseroan harus dibagi ke lebih banyak lembar saham sehingga laba per saham berpotensi mengecil selama dana hasil penerbitan belum menghasilkan tambahan laba yang sepadan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 8 September 2026, karena pelaksanaan PMTHMETD baru bisa berjalan jika disetujui pemegang saham independen, disusul penentuan harga pelaksanaan dan identitas investor yang membeli saham baru tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-rinci-harga-penerbitan-saham-baru-pmthmetd-dilusi-9-09",
+  "category": "Aksi Korporasi",
+  "title": "RATU Rinci [Harga] Penerbitan Saham Baru PMTHMETD, Dilusi 9,09%",
+  "deck": "RATU akan menerbitkan maksimal 271,5 juta saham baru (10%) tanpa hak memesan efek terlebih dahulu, dengan harga minimal 90% rata-rata harga penutupan 25 hari bursa, dilusi maksimal 9,09%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:26:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6243e8665f_f874591590.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) merinci rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) lewat tambahan keterbukaan informasi yang terbit 3 September 2026. Perseroan akan menerbitkan sebanyak-banyaknya 271.505.380 lembar saham baru, atau maksimal 10 persen dari total saham beredar, sehingga jumlah saham RATU berpotensi naik dari 2.715.053.800 menjadi maksimal 2.986.559.180 lembar. Rencana pelaksanaan dijadwalkan pada 8 September 2026, dan seluruh proses penerbitan wajib rampung paling lambat 7 Mei 2027, mengikuti batas waktu dua tahun sejak RUPSLB menyetujui rencana ini pada 30 Juli 2026.",
+   "Harga pelaksanaan saham baru ditetapkan paling sedikit 90 persen dari rata-rata harga penutupan saham RATU selama 25 hari bursa berturut-turut sebelum permohonan pencatatan saham baru diajukan ke Bursa Efek Indonesia. Perseroan belum mengumumkan calon investor yang akan menyerap saham baru ini, sehingga status hubungan afiliasinya baru akan diungkapkan belakangan sesuai Pasal 43A POJK 14/2019. Jika seluruh jatah saham baru terserap, porsi kepemilikan PT Rukun Raharja Tbk, pengendali RATU melalui Hapsoro, akan turun dari 68,677 persen menjadi 62,434 persen, sedangkan porsi milik masyarakat turun dari 31,317 persen menjadi 28,470 persen. Status pengendali sendiri tidak berubah karena PT Rukun Raharja Tbk masih memegang mayoritas jauh di atas ambang 50 persen.",
+   "Dana hasil PMTHMETD rencananya dipakai untuk modal kerja dan pengembangan usaha Perseroan maupun grup usahanya, termasuk kemungkinan pembelian aset, pembelian saham, atau pemberian pinjaman kepada perusahaan yang bergerak di industri sejalan dengan bisnis RATU di sektor hulu minyak dan gas bumi. Jika transaksi penggunaan dana nanti tergolong transaksi afiliasi, transaksi benturan kepentingan, atau transaksi material, Perseroan menyatakan akan tunduk pada aturan OJK terkait dua hal tersebut."
+  ],
+  "fotoAdegan": "Onshore oil and gas processing facility with pipelines, storage tanks and a flare stack under a golden late afternoon sky in Indonesia.",
+  "takeaway": "Rencana ini tetap condong netral bagi RATU. Dokumen tambahan ini tidak mengubah gambaran dasarnya, hanya merinci mekanismenya, sehingga dana segar untuk ekspansi tetap harus ditimbang terhadap dilusi kepemilikan hingga 9,09 persen dan pengendali yang tidak berganti. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan yang dibagi ke tiap lembar saham, karena begitu saham baru terbit, keuntungan yang sama harus dibagi ke lebih banyak lembar sehingga jatah per saham bisa mengecil, sementara di sisi lain modal atau ekuitas perusahaan bertambah karena ada dana masuk dari investor baru. Yang perlu dipantau berikutnya adalah siapa calon investor yang akhirnya menyerap saham baru ini dan apakah dia berafiliasi dengan pengendali RATU, karena Perseroan belum mengungkapkannya dan wajib mengumumkannya ke OJK serta BEI paling lambat 5 hari kerja sebelum pelaksanaan, dengan tenggat akhir seluruh proses pada 7 Mei 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-panggil-rupslb-independen-soal-pmthmetd-pada-8-september",
+  "category": "Aksi Korporasi",
+  "title": "RATU Panggil RUPSLB Independen soal [PMTHMETD] pada 8 September",
+  "deck": "RATU memanggil pemegang saham independen untuk RUPSLB 8 September 2026, membahas persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:17:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97fcc82ead_a9b59152fb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "Raharja Energi Cepu"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) resmi mengirimkan surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang khusus diperuntukkan bagi pemegang saham independen. Rapat akan digelar Selasa, 8 September 2026 pukul 10.00 WIB di Cityloog Hotel Tebet, Jakarta Selatan, dan juga bisa diikuti secara elektronik lewat sistem eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 13 Agustus 2026 pukul 16.00 WIB.",
+   "Ada dua agenda dalam rapat ini. Pertama, persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) melalui penerbitan saham baru sesuai POJK No. 14/2019. Kedua, persetujuan perubahan Pasal 4 ayat (2) Anggaran Dasar Perseroan terkait modal ditempatkan dan disetor, sebagai konsekuensi dari penerbitan saham baru tersebut. Karena berstatus RUPS independen, suara direktur, komisaris, atau pihak terafiliasi dengan Perseroan yang bertindak sebagai kuasa tidak dihitung dalam pemungutan suara.",
+   "Perseroan menetapkan sejumlah tenggat bagi pemegang saham yang ingin memberikan kuasa. Surat kuasa fisik beserta dokumen pendukung harus sudah diterima Biro Administrasi Efek, PT Ficomindo Buana Registrar, paling lambat Rabu, 2 September 2026 pukul 16.00 WIB. Bagi yang memakai e-Proxy lewat eASY.KSEI, batas waktunya Senin, 7 September 2026 pukul 12.00 WIB, satu hari kerja sebelum rapat. Rencana PMTHMETD ini sebelumnya sudah diberitakan, termasuk dilusi kepemilikan sebesar 9,09 persen dan rincian harga penerbitan saham barunya."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a podium in a hotel ballroom, prepared for a corporate shareholders meeting, soft morning light.",
+  "takeaway": "Pemanggilan ini sendiri netral bagi RATU, karena hanya menetapkan jadwal dan tata cara RUPSLB tanpa mengubah angka dilusi 9,09 persen atau harga saham baru yang sudah diumumkan sebelumnya. Yang perlu dicermati adalah status RUPS independen pada rapat ini, artinya suara pemegang saham pengendali atau pihak terafiliasi tidak dihitung dalam pemungutan suara, sehingga keputusan soal penambahan jumlah saham beredar benar-benar bergantung pada persetujuan pemegang saham minoritas. Mekanisme semacam ini biasanya dipakai untuk transaksi yang berpotensi menguntungkan pihak tertentu, sehingga suara independen menjadi penyeimbang agar penerbitan saham baru tidak sekadar mengencerkan porsi pemegang saham lama tanpa persetujuan mereka. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 8 September 2026, serta batas akhir pemberian e-Proxy lewat eASY.KSEI pada 7 September 2026 pukul 12.00 WIB, karena itu menentukan apakah kuorum pemegang saham independen tercapai untuk mengesahkan rencana ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-jadwalkan-pelaksanaan-pmthmetd-tenggat-mei-2027",
+  "category": "Aksi Korporasi",
+  "title": "RATU Jadwalkan Pelaksanaan PMTHMETD, Tenggat [Mei 2027]",
+  "deck": "RATU menetapkan RUPSLB persetujuan penambahan modal tanpa HMETD pada 8 September 2026, dengan tenggat pelaksanaan saham baru paling lambat 7 Mei 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:13:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5c6a8f6ac_f577cd49a4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "RUPSLB",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) menerbitkan keterbukaan informasi mengenai rencana pelaksanaan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), yang diteken Corporate Secretary & Legal Supriyanti Priandini pada 4 September 2026. Dokumen menegaskan Rapat Umum Pemegang Saham Luar Biasa untuk meminta persetujuan pemegang saham independen digelar 8 September 2026. Jumlah saham beredar Perseroan saat ini 2.715.053.800 lembar akan bertambah maksimal 271.505.380 lembar, setara 10 persen, menjadi 2.986.559.180 lembar, dengan tenggat pelaksanaan penambahan modal paling lambat 7 Mei 2027.",
+   "Harga pelaksanaan saham baru belum ditetapkan dalam dokumen ini. Sesuai Peraturan I-A milik Bursa Efek Indonesia, harganya akan mengacu pada minimal 90 persen dari rata-rata harga penutupan saham RATU selama 25 hari bursa berturut-turut sebelum permohonan pencatatan saham baru diajukan ke BEI. Dana yang terkumpul rencananya dipakai untuk modal kerja Perseroan dan grup usahanya, termasuk biaya karyawan, jasa profesional, dan kewajiban pajak, serta untuk ekspansi usaha lewat belanja modal, pembelian saham atau aset, maupun penyertaan modal pada perusahaan yang sejalan dengan bisnis holding dan pertambangan minyak serta gas bumi RATU.",
+   "Tidak ada perubahan pengendali dari rencana ini. PT Rukun Raharja Tbk, yang dikendalikan Hapsoro, tetap menjadi pemegang saham utama meski porsinya turun dari 68,68 persen menjadi 62,43 persen setelah penambahan modal maksimal dilaksanakan. Porsi publik ikut turun dari 31,32 persen menjadi 28,47 persen. Sampai tanggal laporan ini terbit, Perseroan menyatakan belum ada calon investor yang mengajukan minat atas saham baru tersebut, sehingga hubungan afiliasi calon investor dengan Perseroan juga belum dapat diungkapkan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting valves on an onshore oil pipeline at an East Java oilfield, early morning light",
+  "takeaway": "Laporan ini netral bagi RATU, karena hanya mengonfirmasi jadwal pelaksanaan dari rencana penambahan modal yang sudah diumumkan sebelumnya, tanpa mengubah angka dilusi 9,09 persen yang sudah diketahui pasar. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba Perseroan akan dibagi ke basis saham yang lebih besar sehingga bagian laba per lembar berpotensi mengecil meski laba totalnya sendiri tidak berubah. Di sisi lain, dana segar dari penerbitan ini menambah modal kerja tanpa menambah utang berbunga, yang biasanya dipandang lebih ringan bagi arus kas dibanding pendanaan lewat pinjaman. Yang perlu dipantau berikutnya adalah hasil RUPSLB pemegang saham independen pada 8 September 2026, karena persetujuan itu jadi syarat mutlak sebelum PMTHMETD bisa berjalan, serta siapa yang akhirnya menjadi investor pembeli saham baru sebelum tenggat pelaksanaan 7 Mei 2027, sebab sampai laporan ini terbit belum ada calon investor yang mengajukan minat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mtsm-ganti-direktur-sukardi-digantikan-wilson-maruli",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Ganti [Direktur], Sukardi Digantikan Wilson Maruli",
+  "deck": "RUPST Metro Realty Tbk menetapkan Wilson Maruli sebagai direktur baru menggantikan Sukardi, sementara jajaran komisaris dan presiden direktur tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:11:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39e09130fa_62a31eedc0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTSM",
+  "tags": [
+   "MTSM",
+   "Metro Realty",
+   "pergantian direksi",
+   "RUPST"
+  ],
+  "body": [
+   "Metro Realty Tbk (MTSM) melaporkan ke Bursa Efek Indonesia perubahan susunan direksi dan dewan komisaris yang diputuskan dalam Rapat Umum Pemegang Saham Tahunan (RUPST) pada 12 Juni 2026 di Gedung Metro Pasar Baru, Jakarta Pusat. Rapat dihadiri pemegang saham yang mewakili 197.657.896 saham atau 84,88 persen dari total 232.848.000 saham dengan hak suara sah, sehingga kuorum terpenuhi. Pada agenda keempat, rapat secara aklamasi menyetujui pengangkatan direksi dan dewan komisaris baru yang berlaku efektif sejak penutupan rapat.",
+   "Di jajaran direksi, Rose Merry Maruli tetap menjabat sebagai presiden direktur seperti sebelumnya. Perubahan konkret terjadi pada kursi direktur, yang sebelumnya dijabat Sukardi kini beralih ke Wilson Maruli. Sukardi sendiri belakangan tercatat menjabat sebagai sekretaris perusahaan, posisi yang tertera dalam laporan keterbukaan informasi ini yang ia tandatangani sendiri pada 4 September 2026.",
+   "Di jajaran dewan komisaris, tidak ada pergantian orang. Robert Maruli tetap menjabat presiden komisaris, Ramli Yang Lie tetap sebagai komisaris berstatus independen, dan Sani Juli Maruli tetap sebagai komisaris. Perubahan susunan pengurus ini telah dituangkan dalam akta notaris Nomor 09 tanggal 12 Juni 2026 yang dibuat oleh notaris Eko Putranto di Jakarta, dan telah diterima Kementerian Hukum Republik Indonesia melalui surat Nomor AHU-AH.01.09-0375573 tertanggal 9 Juli 2026."
+  ],
+  "fotoAdegan": "Exterior of an aging multi-story commercial building in central Jakarta, pedestrians walking past shopfronts, midday sunlight.",
+  "takeaway": "Perubahan pengurus ini bersifat netral bagi fundamental Metro Realty, karena sebagian besar posisi hanya perpanjangan jabatan orang yang sama dan cuma ada satu pergeseran konkret, yaitu Sukardi yang turun dari kursi direktur digantikan Wilson Maruli sementara ia beralih menjadi sekretaris perusahaan. Pergantian direksi seperti ini tidak langsung mengubah ekuitas, arus kas, atau laba per saham perusahaan, karena yang berubah adalah orang yang mengambil keputusan, bukan angka di laporan keuangan. Yang perlu dicermati investor adalah bahwa hampir seluruh jajaran direksi dan komisaris berasal dari keluarga besar Maruli, sehingga pergantian ini tidak mengubah pola kendali keluarga atas perusahaan. Hal lain yang layak dipantau adalah jeda waktu pelaporan, sebab keputusan RUPST sudah berlaku efektif sejak 12 Juni 2026 namun baru diumumkan ke publik pada 4 September 2026, hampir tiga bulan kemudian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bei-buka-sementara-perdagangan-supr-untuk-crossing-vto",
+  "category": "Aksi Korporasi",
+  "title": "BEI Buka Sementara Perdagangan SUPR untuk [Crossing] VTO",
+  "deck": "BEI membuka sementara perdagangan saham SUPR di Pasar Negosiasi pukul 14.00-14.15 WIB pada Jumat, khusus untuk transaksi crossing saham hasil tender offer Protelindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:56:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72a39e4ead_9d874764cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUPR",
+  "tags": [
+   "SUPR",
+   "delisting",
+   "tender offer",
+   "Protelindo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) membuka sementara penghentian perdagangan saham PT Solusi Tunas Pratama Tbk (SUPR) yang sejak 2 April 2026 berstatus suspensi di papan Pemantauan Khusus. Pembukaan ini bersifat terbatas, hanya berlaku di Pasar Negosiasi, dan semata untuk memfasilitasi transaksi crossing atas saham hasil Penawaran Tender Sukarela (VTO) yang dilakukan PT Profesional Telekomunikasi Indonesia atau Protelindo. Permintaan pembukaan suspensi ini diajukan langsung oleh manajemen SUPR melalui surat bernomor 079/DIR-STP/IX/2026 tertanggal 1 September 2026, dan transaksi crossing dieksekusi oleh PT Bahana Sekuritas selaku perusahaan efek yang ditunjuk perseroan.",
+   "Berdasarkan pengumuman bernomor Peng-UPT-00005/BEI.PP2/09-2026, BEI menetapkan jendela waktu yang sangat spesifik: suspensi dibuka mulai Sesi II perdagangan pada Jumat, 4 September 2026, pukul 14.00 WIB, dan hanya untuk transaksi crossing tersebut, tidak ada jenis transaksi lain yang diizinkan selama periode ini. Begitu transaksi pengalihan saham selesai, atau paling lambat pukul 14.15 WIB, BEI akan langsung menghentikan kembali perdagangan saham SUPR di seluruh pasar, bukan hanya Pasar Negosiasi.",
+   "Transaksi crossing ini merupakan bagian dari proses go private dan voluntary delisting SUPR yang sebelumnya sudah diumumkan lewat suspensi 2 April 2026. Dengan crossing ini, saham-saham yang sebelumnya ditawar lewat VTO oleh Protelindo resmi berpindah tangan, sebuah langkah konkret menuju penyelesaian proses pengambilalihan saham publik SUPR."
+  ],
+  "fotoAdegan": "Telecommunication towers rising across a hilly Indonesian landscape in late afternoon light, a technician inspecting equipment at the tower base",
+  "takeaway": "Kabar ini netral bagi fundamental SUPR karena sifatnya prosedural, mengeksekusi kesepakatan tender offer yang sudah diumumkan sebelumnya, bukan informasi baru soal kinerja perusahaan. Yang tersentuh di sini adalah komposisi pemegang saham dan jumlah saham yang beredar di tangan publik, karena saham yang tadinya dipegang investor publik kini berpindah ke Protelindo lewat mekanisme crossing, sementara jumlah total saham perusahaan tidak berubah sehingga laba per saham tidak langsung terpengaruh. Yang perlu dipantau berikutnya adalah penghentian suspensi kembali di seluruh pasar pada hari yang sama, paling lambat pukul 14.15 WIB, serta pengumuman resmi BEI selanjutnya soal tahap akhir proses voluntary delisting SUPR menyusul rampungnya pengalihan saham ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-buka-suspensi-sementara-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Buka Suspensi Sementara untuk [Crossing] Saham Go Private",
+  "deck": "Bursa membuka sementara suspensi saham EDGE khusus Pasar Negosiasi pada Jumat sore untuk transaksi crossing pengalihan saham hasil buyback dalam proses go private dan delisting sukarela.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:55:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84a2c4c36c_bcf1777798.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "go private",
+   "delisting saham",
+   "suspensi perdagangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut sementara penghentian perdagangan (suspensi) saham PT Indointernet Tbk (EDGE) khusus di Pasar Negosiasi, berlaku mulai Sesi II perdagangan pada Jumat, 4 September 2026 pukul 14.30 WIB. Pembukaan ini ditujukan untuk memfasilitasi transaksi crossing pengalihan saham hasil pembelian kembali (buyback) EDGE, yang pelaksanaannya dilakukan oleh PT Indo Premier Sekuritas selaku pihak yang ditunjuk perseroan, dalam rangka rencana go private dan pencatatan saham sukarela (voluntary delisting) EDGE.",
+   "Menurut pengumuman bursa, langkah ini merupakan tindak lanjut dari surat permohonan EDGE bernomor 048/Indonet-Corsec/Srt/VIII/2026 tertanggal 27 Agustus 2026, terkait penyelesaian Penawaran Tender Sukarela Tahap II perseroan. Setelah transaksi pengalihan saham tersebut rampung, atau paling lambat pukul 14.45 WIB pada hari yang sama, bursa akan kembali menghentikan sementara perdagangan saham EDGE di seluruh pasar, sebagaimana kondisi suspensi yang sudah berlaku sejak 10 Februari 2026. Bursa menegaskan tidak ada transaksi lain yang diperbolehkan selama masa pembukaan suspensi singkat ini, selain transaksi crossing yang dimaksud.",
+   "Pembukaan kali ini bukan yang pertama untuk keperluan serupa. Pada 5 Agustus 2026, bursa sempat membuka suspensi khusus Pasar Negosiasi EDGE dengan tujuan yang sama, menandakan proses go private EDGE berjalan bertahap seiring penyelesaian penawaran tender sukarela dalam beberapa tahap."
+  ],
+  "fotoAdegan": "Modern glass office tower exterior in Jakarta's financial district, people walking below in late Friday afternoon light.",
+  "takeaway": "Laporan ini netral bagi kinerja keuangan EDGE karena isinya sekadar mengatur jadwal teknis buka tutup perdagangan, tapi maknanya penting karena menandai proses go private dan delisting sukarela perusahaan sudah memasuki penyelesaian tahap kedua penawaran tender sukarela. Yang tersentuh adalah jumlah saham beredar di publik, sebab saham hasil buyback yang dipindahkan lewat transaksi crossing ini akan mengurangi porsi saham EDGE yang bisa diperdagangkan bebas, sampai akhirnya perusahaan keluar dari bursa. Bagi investor yang belum melepas sahamnya lewat tender, proses ini berarti jendela untuk bertransaksi di pasar reguler semakin sempit karena saham kembali disuspensi begitu crossing selesai. Yang perlu dipantau berikutnya adalah pengumuman resmi bursa soal kelanjutan delisting EDGE, termasuk apakah suspensi total yang diberlakukan kembali paling lambat pukul 14.45 WIB pada 4 September 2026 ini bersifat permanen menjelang penghapusan pencatatan saham.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bjtm-laba-konsolidasi-naik-53-aset-bank-induk-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "BJTM: Laba Konsolidasi Naik 53%, Aset Bank Induk [Menyusut]",
+  "deck": "Bank Jatim (BJTM) menyampaikan materi public expose tahunan ke bursa: laba konsolidasi grup usaha bank melonjak, tapi aset dan simpanan nasabah di Bank Jatim sendiri justru menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:50:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c83b9e4888_db3f9c22d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BJTM",
+  "tags": [
+   "BJTM",
+   "Bank Jatim",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Bank Pembangunan Daerah Jawa Timur Tbk (BJTM) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 4 September 2026, menindaklanjuti surat pemberitahuan penyelenggaraan acara yang dikirim 24 Agustus 2026. Dokumen ditandatangani Corporate Secretary Fenty Rischana K. Secara konsolidasi bersama seluruh anggota Kelompok Usaha Bank (KUB), aset Bank Jatim per semester I 2026 tercatat Rp162,06 triliun, naik 37,16 persen dibanding periode sama tahun lalu. Dana pihak ketiga konsolidasi naik 31,47 persen menjadi Rp120,43 triliun, kredit yang disalurkan naik 41,68 persen menjadi Rp111,29 triliun, dan ekuitas naik 3,94 persen menjadi Rp13,06 triliun. Laba bersih konsolidasi melonjak 53,49 persen menjadi Rp1.245 miliar, tetapi porsi laba yang menjadi hak pemegang saham entitas induk hanya naik 3,05 persen menjadi Rp729 miliar, menandakan sebagian besar kenaikan laba dinikmati bank-bank anggota KUB, bukan Bank Jatim sendiri.",
+   "Gambaran berbeda muncul dari kinerja Bank Jatim sebagai entitas tunggal (bank only). Per Juli 2026, asetnya justru turun 6,62 persen menjadi Rp98,09 triliun dibanding Juli 2025, dan dana pihak ketiga turun 10,65 persen menjadi Rp72,97 triliun, dengan giro anjlok 14,94 persen dan deposito berjangka turun 16,04 persen. Laba bersih bank only untuk periode tujuh bulan tetap naik tipis 1,76 persen menjadi Rp802 miliar. Dari sisi rasio, kredit bermasalah (NPL) naik dari 3,88 persen di akhir 2025 menjadi 4,24 persen per Juli 2026, sementara rasio pencadangan atau coverage ratio turun dari 102,12 persen menjadi 94,34 persen dalam periode yang sama. Marjin bunga bersih (NIM) melandai dari 6,15 persen menjadi 5,93 persen, rasio biaya operasional terhadap pendapatan (BOPO) naik dari 79,92 persen menjadi 82,15 persen, dan return on equity (ROE) turun dari 13,35 persen menjadi 11,19 persen.",
+   "Dari sisi digital banking, jumlah pengguna Jconnect Mobile mencapai 1.021.998 orang, naik 13,34 persen dibanding tahun lalu, dengan nilai transaksi Rp44,01 triliun atau naik 11,43 persen. Pengguna QRIS BJTM tercatat 224.686 orang, naik 17,09 persen, meski nilai transaksinya justru turun tipis 0,74 persen menjadi Rp3,23 triliun. Materi ini juga memaparkan penguatan sinergi bisnis KUB melalui kerja sama international banking, layanan custody dan bank notes, integrasi sistem pembayaran digital untuk rumah sakit daerah, serta pembiayaan khusus bagi aparatur sipil negara.",
+   "Di bagian keberlanjutan, portofolio kredit berkelanjutan Bank Jatim per akhir 2025 mencapai Rp5,40 triliun, dengan porsi terbesar untuk efisiensi energi (34 persen) dan pengelolaan sumber daya alam hayati serta lahan berkelanjutan (25 persen). Skor ESG Risk Rating dari Sustainalytics per 3 Agustus 2026 berada di angka 22,45 dengan kategori risiko menengah atau medium risk."
+  ],
+  "fotoAdegan": "Teller counter inside a regional bank branch in East Java, customers queuing patiently, warm morning light through the entrance",
+  "takeaway": "Materi ini pantas dibaca netral cenderung waspada, bukan sekadar dirayakan sebagai kabar baik, karena performa gemilang di angka konsolidasi grup usaha bank ternyata tidak mencerminkan kondisi Bank Jatim sendiri, yang justru kehilangan aset dan simpanan nasabah sepanjang setahun terakhir. Yang tersentuh adalah dana pihak ketiga atau DPK, yakni total simpanan nasabah yang jadi sumber utama bank untuk disalurkan sebagai kredit, yang di level bank saja turun 10,65 persen; rasio kredit bermasalah atau NPL yang naik dari 3,88 persen menjadi 4,24 persen; serta rasio pencadangan atau coverage ratio, yaitu bantalan dana yang disiapkan bank untuk menutup kerugian kredit macet, yang menipis dari 102,12 persen menjadi 94,34 persen sehingga daya serapnya terhadap kredit macet baru berkurang. Efisiensi juga melonggar, terlihat dari BOPO yang naik dari 79,92 persen menjadi 82,15 persen dan ROE atau imbal hasil terhadap modal pemegang saham yang turun dari 13,35 persen menjadi 11,19 persen. Yang perlu dipantau berikutnya adalah laporan kinerja kuartal III 2026, untuk melihat apakah penyusutan aset dan DPK di level bank saja berlanjut atau mulai membalik, serta apakah kontribusi bank-bank anggota Kelompok Usaha Bank tetap menopang laba konsolidasi seperti pada semester pertama tahun ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton",
   "category": "Industri",
   "title": "Ekspor Sawit [Turun] 28%, Stok CPO Nasional Naik ke 3,04 Juta Ton",

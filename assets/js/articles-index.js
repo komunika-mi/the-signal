@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
+  "category": "Aksi Korporasi",
+  "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",
+  "deck": "Raharja Energi Cepu bakal menerbitkan hingga 271,5 juta saham baru tanpa hak memesan efek terlebih dahulu, RUPSLB digelar 8 September 2026 untuk persetujuan pemegang saham independen.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3684f18dd8_1f894169fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-rinci-harga-penerbitan-saham-baru-pmthmetd-dilusi-9-09",
+  "category": "Aksi Korporasi",
+  "title": "RATU Rinci [Harga] Penerbitan Saham Baru PMTHMETD, Dilusi 9,09%",
+  "deck": "RATU akan menerbitkan maksimal 271,5 juta saham baru (10%) tanpa hak memesan efek terlebih dahulu, dengan harga minimal 90% rata-rata harga penutupan 25 hari bursa, dilusi maksimal 9,09%.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6243e8665f_f874591590.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-panggil-rupslb-independen-soal-pmthmetd-pada-8-september",
+  "category": "Aksi Korporasi",
+  "title": "RATU Panggil RUPSLB Independen soal [PMTHMETD] pada 8 September",
+  "deck": "RATU memanggil pemegang saham independen untuk RUPSLB 8 September 2026, membahas persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "Raharja Energi Cepu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97fcc82ead_a9b59152fb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-jadwalkan-pelaksanaan-pmthmetd-tenggat-mei-2027",
+  "category": "Aksi Korporasi",
+  "title": "RATU Jadwalkan Pelaksanaan PMTHMETD, Tenggat [Mei 2027]",
+  "deck": "RATU menetapkan RUPSLB persetujuan penambahan modal tanpa HMETD pada 8 September 2026, dengan tenggat pelaksanaan saham baru paling lambat 7 Mei 2027.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "PMTHMETD",
+   "RUPSLB",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5c6a8f6ac_f577cd49a4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtsm-ganti-direktur-sukardi-digantikan-wilson-maruli",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Ganti [Direktur], Sukardi Digantikan Wilson Maruli",
+  "deck": "RUPST Metro Realty Tbk menetapkan Wilson Maruli sebagai direktur baru menggantikan Sukardi, sementara jajaran komisaris dan presiden direktur tidak berubah.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTSM",
+   "Metro Realty",
+   "pergantian direksi",
+   "RUPST"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39e09130fa_62a31eedc0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-buka-sementara-perdagangan-supr-untuk-crossing-vto",
+  "category": "Aksi Korporasi",
+  "title": "BEI Buka Sementara Perdagangan SUPR untuk [Crossing] VTO",
+  "deck": "BEI membuka sementara perdagangan saham SUPR di Pasar Negosiasi pukul 14.00-14.15 WIB pada Jumat, khusus untuk transaksi crossing saham hasil tender offer Protelindo.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUPR",
+   "delisting",
+   "tender offer",
+   "Protelindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72a39e4ead_9d874764cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-buka-suspensi-sementara-untuk-crossing-saham-go-private",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Buka Suspensi Sementara untuk [Crossing] Saham Go Private",
+  "deck": "Bursa membuka sementara suspensi saham EDGE khusus Pasar Negosiasi pada Jumat sore untuk transaksi crossing pengalihan saham hasil buyback dalam proses go private dan delisting sukarela.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "go private",
+   "delisting saham",
+   "suspensi perdagangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84a2c4c36c_bcf1777798.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bjtm-laba-konsolidasi-naik-53-aset-bank-induk-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "BJTM: Laba Konsolidasi Naik 53%, Aset Bank Induk [Menyusut]",
+  "deck": "Bank Jatim (BJTM) menyampaikan materi public expose tahunan ke bursa: laba konsolidasi grup usaha bank melonjak, tapi aset dan simpanan nasabah di Bank Jatim sendiri justru menyusut.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BJTM",
+   "Bank Jatim",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c83b9e4888_db3f9c22d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton",
   "category": "Industri",
   "title": "Ekspor Sawit [Turun] 28%, Stok CPO Nasional Naik ke 3,04 Juta Ton",
@@ -6434,133 +6562,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-4227-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-vto-diperpanjang-partisipasi-publik-4-7",
-  "category": "Aksi Korporasi",
-  "title": "EDGE: VTO Diperpanjang, Partisipasi Publik [4,7%]",
-  "deck": "Digital Edge Hong Kong memperpanjang tender saham EDGE hingga 22 September 2026, sementara hasil sementara dua periode pertama menunjukkan baru 4,7 persen saham publik yang ikut serta.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "Indointernet",
-   "VTO",
-   "Digital Edge Hong Kong"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5ec4779748_2386f08b9c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-tipis-ke-rp17-695-ikuti-asia",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
-  "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
-  "tags": [
-   "rupiah",
-   "kurs dolar",
-   "mata uang asia",
-   "nilai tukar"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia"
- },
- {
-  "slug": "adhi-koreksi-penundaan-bunga-obligasi-kupon-menumpuk-juli-2027",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Koreksi Penundaan Bunga Obligasi, [Kupon] Menumpuk Juli 2027",
-  "deck": "BEI mengoreksi pengumuman restrukturisasi obligasi ADHI, menegaskan hasil RUPO 6 Agustus 2026 untuk seri ADHI04CN1 senilai Rp102,715 miliar, dengan dua jadwal kupon bergeser ke 9 Juli 2027.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "obligasi",
-   "restrukturisasi utang",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2acab768c2_d8b3f14977.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-tembus-6-500-langsung-ambruk-1-dalam-4-menit",
-  "category": "Pasar Modal",
-  "title": "IHSG Tembus 6.500, Langsung [Ambruk] 1% dalam 4 Menit",
-  "deck": "IHSG dibuka menguat tipis ke 6.507, namun anjlok 1,05% hanya empat menit kemudian di tengah mayoritas saham yang melemah.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
-  "tags": [
-   "IHSG",
-   "Bursa Efek Indonesia",
-   "LQ45",
-   "Pasar Saham"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462591-ihsg-kembali-ke-6500-tapi-langsung-ambruk-1-di-awal-perdagangan"
- },
- {
-  "slug": "mglv-pemegang-mayoritas-lepas-69-juta-saham-rp500-m",
-  "category": "Aksi Korporasi",
-  "title": "MGLV: Pemegang Mayoritas [Lepas] 69 Juta Saham Rp500 M",
-  "deck": "Putra Batee melepas 68,99 juta lembar saham PT Panca Anugrah Wisesa (MGLV) senilai sekitar Rp500,16 miliar, hak suaranya turun dari 71,28% menjadi 67,66% namun tetap mayoritas.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "kepemilikan saham",
-   "pemegang saham mayoritas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-26082026-0345-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kuas-bantah-ada-informasi-material-di-balik-volatilitas-transaksi",
-  "category": "Aksi Korporasi",
-  "title": "KUAS Bantah Ada Informasi Material di Balik [Volatilitas] Transaksi",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, PT Ace Oldfields Tbk menyatakan tidak ada informasi material maupun rencana aksi korporasi yang memicu volatilitas transaksi sahamnya belakangan ini.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KUAS",
-   "Ace Oldfields",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/823c5d6b05_041fddd940.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Pangan 26 Agustus, Daging Sapi [Rp152.650] per Kg",
-  "deck": "PIHPS Bank Indonesia merilis harga pangan nasional 26 Agustus 2026, dari daging sapi, cabai, beras, hingga minyak goreng.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/harga-pangan-26-agustus-daging-sapi-rp152-650-per-kg.jpg",
-  "imageV": "mt9o4awv",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "daging sapi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462585-harga-pangan-hari-ini-26-agustus-2026-daging-sapi-mulai-rp152650-per-kilogram-hingga-telur-rp28800-per-kilogram"
- },
- {
-  "slug": "alto-kena-sanksi-bei-telat-serahkan-laporan-keuangan-q2",
-  "category": "Aksi Korporasi",
-  "title": "ALTO Kena [Sanksi] BEI, Telat Serahkan Laporan Keuangan Q2",
-  "deck": "Tri Banyan Tirta belum menyampaikan laporan keuangan interim per 30 Juni 2026 hingga tenggat 31 Juli 2026 dan dikenai Peringatan Tertulis I oleh BEI.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALTO",
-   "sanksi BEI",
-   "laporan keuangan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a991dde158_0db0619a5a.pdf",
   "sourceLabel": "IDX"
  }
 ];

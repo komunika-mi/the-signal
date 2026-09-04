@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "baik-gelar-public-expose-usai-saham-kena-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Gelar Public Expose Usai Saham Kena [Suspensi]",
+  "deck": "BAIK memaparkan kinerja usai sahamnya disuspensi bursa karena penurunan harga kumulatif; penjualan dan laba usaha kuartal II turun dua digit.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "Suspensi Saham",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4fef1ae562_384ff8d172.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cuan-negosiasi-pengambilalihan-sini-kuasai-27-78-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Negosiasi [Pengambilalihan] SINI, Kuasai 27,78% Saham",
+  "deck": "CUAN, melalui dua anak usahanya, kini menguasai 27,78% saham SINI dan tengah bernegosiasi untuk mengambil alih pengendalian perusahaan tambang itu.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CUAN",
+   "SINI",
+   "akuisisi",
+   "pertambangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/183a73b163_2e996ca10d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sido-laba-bersih-turun-44-jadi-rp334-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SIDO: Laba Bersih Turun 44% Jadi [Rp334 Miliar] di Semester I 2026",
+  "deck": "Sido Muncul memaparkan materi public expose tahunan yang menunjukkan pendapatan dan laba bersih semester I 2026 anjlok akibat normalisasi persediaan Tolak Angin di distributor.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51bce25d28_44e0b156fa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "moli-bantah-ada-info-material-di-balik-lonjakan-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Bantah Ada Info Material di Balik [Lonjakan] Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, Madusari Murni Indah (MOLI) menyatakan tidak ada informasi material di balik kenaikan harga dan aktivitas sahamnya pada 31 Agustus 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MOLI",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47319ca8c9_d6c55faf46.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gema-jawab-bei-tak-ada-info-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Jawab BEI, Tak Ada Info di Balik [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan GEMA soal volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana aksi korporasi yang disembunyikan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/784f292ec2_07a712664d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smbr-jawab-bursa-ungkap-rencana-streamlining-dengan-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Jawab Bursa, Ungkap Rencana [Streamlining] dengan Anak Usaha",
+  "deck": "Semen Baturaja menjelaskan lonjakan transaksi sahamnya ke BEI dan membuka rencana restrukturisasi dengan entitas anak usaha yang masih dikaji, bagian dari perampingan grup Semen Indonesia atas arahan Danantara.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "Danantara",
+   "Semen Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308481bdf7_47157eda5b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsmr-catat-ebitda-tumbuh-8-1-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Catat EBITDA [Tumbuh] 8,1% pada Semester I 2026",
+  "deck": "Materi public expose JSMR menunjukkan pendapatan naik 7,6% dan EBITDA naik 8,1% secara tahunan pada semester I 2026, menjelang paparan publik pada 9 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbd4a01627_a02dca93f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itmg-catat-laba-bersih-us-109-5-juta-naik-17-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ITMG catat [laba bersih] US$109,5 juta, naik 17% di semester I 2026",
+  "deck": "Materi paparan publik tahunan ITMG memperlihatkan laba bersih dan pendapatan naik dua digit pada semester I 2026, meski volume produksi batu bara justru turun 5 persen.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMG",
+   "Indo Tambangraya Megah",
+   "batu bara",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1ad59ed13_020febd7d1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
   "category": "Industri",
   "title": "Ekspor Sawit RI [Melonjak] 64% pada Juni 2026",
@@ -6430,137 +6558,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462576-askrindo-dukung-512-proyek-strategis-dan-perkuat-umkm-nasional"
- },
- {
-  "slug": "swid-perkuat-bisnis-hospitality-di-yogyakarta",
-  "category": "Aksi Korporasi",
-  "title": "SWID Perkuat Bisnis [Hospitality] di Yogyakarta",
-  "deck": "SWID membuka hotel bintang lima The Royal Alana dan memulai pembangunan ballroom INNSiDE by Meliá di Yogyakarta, dengan proyeksi pendapatan gabungan naik hingga 50 persen dari kondisi saat ini.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SWID",
-   "hospitality",
-   "Yogyakarta",
-   "MICE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/35ebe7bd6f_88a604965b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-proyeksikan-laba-melonjak-dari-akuisisi-gas-skema-belum-final",
-  "category": "Aksi Korporasi",
-  "title": "PIPA Proyeksikan Laba [Melonjak] dari Akuisisi Gas, Skema Belum Final",
-  "deck": "Oxala Energy International (PIPA) mengklaim laba bersihnya bakal melonjak dari rencana akuisisi perusahaan pengolahan gas alam, meski skema, nilai transaksi, dan identitas target belum diungkap.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "akuisisi",
-   "gas alam",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/b31c16e316_ae3c50ed6d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "meja-siapkan-right-issue-untuk-akuisisi-trimata-coal-perkasa",
-  "category": "Aksi Korporasi",
-  "title": "MEJA Siapkan [Right Issue] untuk Akuisisi Trimata Coal Perkasa",
-  "deck": "RUPSLB MEJA menaikkan modal dasar ke Rp208,6 miliar, membuka jalan bagi rencana jadi holding company dan akuisisi tambang batu bara TCP lewat right issue.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "right issue",
-   "akuisisi tambang",
-   "holding company"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/050302a857_92cbe58be4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hexa-gelar-rupst-lb-17-september-ubah-pasal-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "HEXA Gelar RUPST-LB 17 September, [Ubah] Pasal Anggaran Dasar",
-  "deck": "Hexindo Adiperkasa mengundang pemegang saham ke RUPST dan RUPSLB pada 17 September 2026, salah satu agendanya mengubah Pasal 3 Anggaran Dasar mengikuti KBLI 2025.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEXA",
-   "RUPS",
-   "Hexindo Adiperkasa",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/043562b9a1_246d4457c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prtl-klarifikasi-akuisisi-10-86-saham-btel",
-  "category": "Aksi Korporasi",
-  "title": "PRTL Klarifikasi Akuisisi [10,86%] Saham BTEL",
-  "deck": "Protelindo menegaskan kepemilikan saham Bakrie Telecom berasal dari konversi obligasi wajib konversi 2014, bukan pembelian kembali seperti disebut media.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "BTEL",
-   "Klarifikasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/eec024f060_95767b7df7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-12-6-gw-listrik-ri-masih-pakai-solar",
-  "category": "Energi",
-  "title": "Bahlil: 12,6 GW Listrik RI Masih Pakai [Solar]",
-  "deck": "Menteri ESDM Bahlil Lahadalia ungkap 12,6 GW pembangkit listrik nasional masih berbahan bakar solar, pemerintah percepat PLTS 100 GWp untuk tekan impor BBM.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/bahlil-12-6-gw-listrik-ri-masih-pakai-solar.jpg",
-  "imageV": "mt8q7mn1",
-  "tags": [
-   "PLTS",
-   "solar",
-   "ESDM",
-   "Bahlil Lahadalia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462484-gaspol-plts-100-gwp-bahlil-ungkap-126-gw-listrik-indonesia-masih-pakai-solar"
- },
- {
-  "slug": "pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi",
-  "category": "Energi",
-  "title": "Pemerintah Luncurkan Tahap Awal [PLTS] 100 GWp di 6 Provinsi",
-  "deck": "Program PLTS 100 GWp dimulai dengan 14 proyek berkapasitas 5,3 GWp di enam provinsi, dari Bali hingga pulau terpencil di Bangka Belitung.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/pemerintah-luncurkan-tahap-awal-plts-100-gwp-di-6-provinsi.jpg",
-  "imageV": "mt8l5ku9",
-  "tags": [
-   "PLTS",
-   "energi surya",
-   "ESDM",
-   "Bali"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-gilimanuk-hingga-pulau-rengit-program-plts-100-gwp-dorong-kemandirian-energi-nasional",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja",
-  "category": "Energi",
-  "title": "Bahlil Klaim PLTS 100 GWp Buka [5,52 Juta] Lapangan Kerja",
-  "deck": "Menteri ESDM Bahlil Lahadalia mengklaim proyek PLTS 100 GWp bisa menghemat subsidi energi Rp73,9 triliun per tahun dan membuka 5,52 juta lapangan kerja.",
-  "date": "25 Agustus 2026",
-  "image": "assets/img/bahlil-klaim-plts-100-gwp-buka-5-52-juta-lapangan-kerja.jpg",
-  "imageV": "mt8l5lie",
-  "tags": [
-   "PLTS",
-   "Bahlil Lahadalia",
-   "subsidi energi",
-   "lapangan kerja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462441-bahlil-klaim-bisa-hemat-rp739-triliun-dan-buka-552-juta-lapangan-kerja-lewat-plts-100-gwp"
  }
 ];

@@ -3,6 +3,218 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "baik-gelar-public-expose-usai-saham-kena-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Gelar Public Expose Usai Saham Kena [Suspensi]",
+  "deck": "BAIK memaparkan kinerja usai sahamnya disuspensi bursa karena penurunan harga kumulatif; penjualan dan laba usaha kuartal II turun dua digit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:02:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4fef1ae562_384ff8d172.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "Suspensi Saham",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk (BAIK), perusahaan asal Malang yang bergerak di bisnis rumah makan serta distribusi sembako dan makanan beku untuk pasar hotel, restoran, dan katering (HOREKA), akan menggelar Public Expose Insidentil pada Senin, 7 September 2026 pukul 10.30 WIB secara daring lewat Zoom. Paparan ini digelar menyusul penghentian sementara perdagangan (suspensi) saham BAIK oleh Bursa Efek Indonesia sejak 24 Agustus 2026, sebagaimana tertuang dalam pengumuman bursa Nomor Peng-SPT-00152/BEI.WAS/08-2026 terkait penurunan harga saham kumulatif. Agenda utama pertemuan adalah penjelasan kinerja perseroan untuk triwulan II tahun buku 2026, dengan tiga direktur sebagai panelis: Direktur Utama Nanang Suherman, Direktur Ubaidillah, dan Direktur Afanin Nur Raudhah. Pemegang saham dan pihak yang ingin mengikuti wajib mendaftar paling lambat 6 September 2026.",
+   "Dalam materi yang diserahkan ke bursa, BAIK memaparkan sejumlah perubahan kinerja keuangan. Penjualan tercatat turun 13,08 persen dan laba usaha turun lebih dalam, yakni 24,26 persen. Di sisi lain, laba bersih perusahaan justru naik 6,69 persen, sebuah pola yang menunjukkan kenaikan itu belum tentu berasal dari kegiatan usaha inti. Neraca perusahaan juga menyusut signifikan: aset lancar turun 46,33 persen dan aset tidak lancar turun 44,47 persen. Liabilitas jangka pendek turun tipis 1,39 persen, sementara liabilitas jangka panjang justru naik 9,91 persen.",
+   "Perseroan juga memaparkan rencana ke depan, antara lain penguatan jaringan distribusi nasional, pengembangan produk, efisiensi operasional dan tata kelola, optimalisasi kinerja penjualan, penguatan kemitraan dengan pemasok, serta penguatan kinerja anak usaha dan brand. BAIK menegaskan tidak ada informasi atau fakta material lain yang belum disampaikan ke publik selain yang sudah diungkapkan."
+  ],
+  "fotoAdegan": "Workers loading crates of frozen food and dry groceries onto a delivery van outside a warehouse in East Java, early morning light.",
+  "takeaway": "Laporan ini condong negatif bagi fundamental BAIK, karena di balik kenaikan laba bersih 6,69 persen, mesin bisnis utamanya justru melemah: penjualan turun 13,08 persen dan laba usaha anjlok 24,26 persen, sehingga kenaikan laba bersih patut diduga berasal dari pos di luar kegiatan usaha inti, bukan dari perbaikan penjualan atau efisiensi. Yang lebih perlu dicermati adalah aset lancar, yaitu kas dan aset yang bisa segera dicairkan untuk operasional sehari-hari, serta aset tidak lancar seperti properti dan peralatan jangka panjang, yang sama-sama menyusut tajam di atas 44 persen, sementara utang jangka panjang malah naik 9,91 persen, kombinasi yang menandakan modal perusahaan menipis sementara beban utang jangka panjangnya bertambah. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada Senin, 7 September 2026 pukul 10.30 WIB, saat manajemen dijadwalkan menjelaskan penyebab penurunan harga saham kepada bursa dan pemegang saham, serta keputusan bursa soal kelanjutan status suspensi setelah paparan tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cuan-negosiasi-pengambilalihan-sini-kuasai-27-78-saham",
+  "category": "Aksi Korporasi",
+  "title": "CUAN Negosiasi [Pengambilalihan] SINI, Kuasai 27,78% Saham",
+  "deck": "CUAN, melalui dua anak usahanya, kini menguasai 27,78% saham SINI dan tengah bernegosiasi untuk mengambil alih pengendalian perusahaan tambang itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:00:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/183a73b163_2e996ca10d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CUAN",
+  "tags": [
+   "CUAN",
+   "SINI",
+   "akuisisi",
+   "pertambangan"
+  ],
+  "body": [
+   "PT Petrindo Jaya Kreasi Tbk (CUAN) mengumumkan sedang bernegosiasi untuk mengambil alih PT Singaraja Putra Tbk (SINI), sesuai kewajiban keterbukaan informasi berdasarkan Pasal 4 ayat (1) Peraturan OJK Nomor 9/2018 tentang Pengambilalihan Perusahaan Terbuka. Per 4 September 2026, CUAN melalui dua anak usahanya, PT Kreasi Jasa Persada dan PT Petrosea Tbk, telah memiliki secara langsung maupun tidak langsung 27,78 persen dari modal ditempatkan dan disetor SINI. Perseroan tengah berunding dengan pemegang saham SINI untuk membahas mekanisme, harga, dan waktu penyelesaian transaksi.",
+   "Jika negosiasi ini rampung dan seluruh syarat serta persetujuan yang diperlukan terpenuhi, CUAN melalui anak usahanya akan menjadi pemegang saham terbesar di SINI sekaligus memegang kendali atas arah, kebijakan, dan manajemen perusahaan tersebut. Sesuai ketentuan POJK 9/2018, sebagai calon pengendali baru, CUAN wajib melaksanakan atau menunjuk perusahaan terkendalinya untuk melaksanakan penawaran tender wajib kepada pemegang saham publik SINI setelah pengambilalihan selesai.",
+   "Perseroan menyebut tujuan rencana ini antara lain menambah aset grup, memperluas jaringan usaha, dan menjadi bagian dari rencana jangka panjang CUAN untuk membangun perusahaan pertambangan dan jasa pertambangan yang terintegrasi. CUAN juga menegaskan bahwa proses ini dijalankan dengan mematuhi peraturan yang berlaku, termasuk POJK 9/2018.",
+   "Sebagai catatan tambahan, CUAN pernah mengumumkan negosiasi serupa pada 29 Desember 2025, namun para pihak sepakat menghentikan pembahasan dan mengakhiri proses transaksi tersebut. Perseroan menegaskan bahwa rencana pengambilalihan yang diumumkan kali ini adalah transaksi baru dan bukan kelanjutan dari negosiasi terdahulu."
+  ],
+  "fotoAdegan": "Heavy excavators loading coal onto haul trucks at an open-pit mine in Indonesia, dusty daylight, hills in the distance",
+  "takeaway": "Laporan ini netral bagi CUAN untuk saat ini, karena baru tahap negosiasi tanpa harga atau nilai transaksi yang disebutkan, meski arah strategisnya jelas yaitu memperbesar kendali dari 27,78 persen kepemilikan saat ini menjadi pemegang saham pengendali SINI. Yang perlu diperhatikan adalah arus kas CUAN ke depan, yaitu aliran uang masuk dan keluar dari kas perusahaan, karena penawaran tender wajib yang harus dilakukan setelah akuisisi rampung akan membutuhkan dana tunai dalam jumlah signifikan, dan jika dibiayai utang maka beban bunga yang ditanggung perusahaan juga berpotensi naik. Investor perlu menunggu hasil akhir negosiasi harga dan mekanisme transaksi, sebab riwayat sebelumnya menunjukkan proses semacam ini bisa saja batal seperti yang terjadi pada transaksi serupa Desember 2025. Yang dipantau berikutnya adalah pengumuman lanjutan soal kesepakatan harga dan skema pembayaran, serta pelaksanaan penawaran tender wajib kepada pemegang saham publik SINI setelah pengambilalihan resmi rampung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sido-laba-bersih-turun-44-jadi-rp334-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "SIDO: Laba Bersih Turun 44% Jadi [Rp334 Miliar] di Semester I 2026",
+  "deck": "Sido Muncul memaparkan materi public expose tahunan yang menunjukkan pendapatan dan laba bersih semester I 2026 anjlok akibat normalisasi persediaan Tolak Angin di distributor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T11:43:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51bce25d28_44e0b156fa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIDO",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "body": [
+   "PT Industri Jamu Dan Farmasi Sido Muncul Tbk (SIDO) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia menjelang acara Public Expose Live 2026 yang akan digelar Rabu, 9 September 2026, pukul 14.00 hingga 15.00 WIB melalui situs idx.co.id. Materi tersebut memuat kinerja keuangan perseroan pada semester I 2026 sekaligus proyeksi bisnis untuk sisa tahun ini.",
+   "SIDO melaporkan pendapatan semester I 2026 sebesar Rp1,467 triliun, turun 20 persen dari Rp1,829 triliun pada semester I 2025. Laba usaha turun 43 persen menjadi Rp423 miliar dengan margin 29 persen, sementara laba bersih turun 44 persen menjadi Rp334 miliar dengan margin 23 persen, dibandingkan Rp600 miliar pada periode yang sama tahun lalu. Perseroan menyebut penurunan ini disebabkan normalisasi persediaan produk Tolak Angin di tingkat distributor yang berlangsung selama empat bulan hingga Mei 2026, sementara penjualan ke konsumen akhir disebut tetap kuat dengan pangsa pasar Tolak Angin stabil di 71 persen.",
+   "Berdasarkan segmen usaha, penjualan Herbal dan Suplemen turun 41 persen menjadi Rp639 miliar dengan margin kotor turun dari 66 persen menjadi 60 persen. Sebaliknya, segmen Makanan dan Minuman tumbuh 11 persen menjadi Rp760 miliar didorong produk C+Collagen dan varian baru Alang Sari, sedangkan segmen Farmasi tumbuh 7 persen menjadi Rp67 miliar dengan margin naik dari 33 persen menjadi 37 persen. Bisnis internasional inti tumbuh 28 persen secara tahunan di luar minyak atsiri, dengan kontribusinya terhadap total penjualan naik menjadi 13 persen dari operasi di 34 negara, termasuk Filipina, Malaysia, dan Nigeria.",
+   "Di sisi neraca, kas dan setara kas SIDO tercatat Rp476 miliar pada semester I 2026, naik dari Rp463 miliar pada akhir 2025, meski perseroan telah menyalurkan sekitar Rp1,41 triliun kepada pemegang saham melalui dua pembayaran dividen dan pembelian kembali saham, dengan neraca yang tetap tanpa utang. Untuk tahun buku 2025, SIDO membagikan dividen Rp1,11 triliun atau sekitar 90 persen dari laba, setara Rp37 per saham, melanjutkan catatan pembayaran dividen 13 tahun berturut-turut dengan rasio rata-rata di atas 92 persen sejak pencatatan saham pada 2013. Anggaran belanja modal 2026 ditetapkan Rp120 miliar hingga Rp150 miliar, sementara proyeksi penjualan tahun ini direvisi turun sekitar 10 persen dengan pemulihan bertahap diperkirakan terjadi pada semester kedua 2026."
+  ],
+  "fotoAdegan": "Workers monitoring bottling machines filling small herbal tonic sachets on a factory production line, bright industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi kinerja Sido Muncul dalam jangka pendek, karena pendapatan turun 20 persen dan laba bersih anjlok 44 persen pada semester I 2026, meski manajemen menyebutnya sebagai dampak sementara dari normalisasi persediaan Tolak Angin di gudang distributor. Yang tersentuh adalah laba usaha dan margin laba, alat ukur berapa besar bagian dari penjualan yang benar-benar menjadi keuntungan setelah dikurangi biaya produksi dan operasional, yang keduanya menyusut tajam sehingga dari setiap Rp100 penjualan yang dulu tersisa Rp33 sebagai laba bersih kini tinggal Rp23. Kas perusahaan tetap positif di Rp476 miliar tanpa utang, dan perseroan masih membagikan dividen serta melakukan pembelian kembali saham senilai lebih dari Rp1,4 triliun, sehingga bantalan keuangannya masih terjaga meski laba turun. Yang perlu dipantau selanjutnya adalah paparan publik langsung pada 9 September 2026 pukul 14.00 WIB, saat manajemen kemungkinan menjelaskan lebih rinci soal proyeksi pemulihan penjualan di semester kedua 2026 setelah target penjualan tahun ini direvisi turun sekitar 10 persen.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "moli-bantah-ada-info-material-di-balik-lonjakan-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MOLI Bantah Ada Info Material di Balik [Lonjakan] Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, Madusari Murni Indah (MOLI) menyatakan tidak ada informasi material di balik kenaikan harga dan aktivitas sahamnya pada 31 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T11:22:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47319ca8c9_d6c55faf46.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MOLI",
+  "tags": [
+   "MOLI",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Madusari Murni Indah Tbk (MOLI) mengirim surat bernomor 037/MMI/EXT/JT/IX/2026 tertanggal 4 September 2026 kepada Bursa Efek Indonesia, menanggapi permintaan penjelasan bernomor S-11198/BEI.PP2/09-2026 yang dikirim BEI dua hari sebelumnya, 2 September 2026. Permintaan itu terkait volatilitas transaksi efek MOLI, dan dalam suratnya perseroan mengakui memang terjadi peningkatan harga dan aktivitas perdagangan sahamnya pada 31 Agustus 2026.",
+   "Menjawab enam poin pertanyaan standar BEI, MOLI menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga efeknya, baik menurut aturan POJK 31/2015 tentang keterbukaan informasi maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas khusus dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi harga saham. Perseroan menambahkan tidak ada informasi maupun kejadian penting lain yang material dan belum diungkapkan ke publik.",
+   "Untuk poin terakhir, Corporate Secretary menyatakan telah menanyakan langsung kepada para pemegang saham utama, dan mereka mengonfirmasi tidak punya rencana mengubah kepemilikan sahamnya secara signifikan dalam waktu dekat. Surat ini ditandatangani oleh Direktur Utama yang merangkap Sekretaris Perusahaan pada 4 September 2026 pukul 11.22 WIB, dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI."
+  ],
+  "fotoAdegan": "Steel storage tanks and pipelines at a molasses-based ethanol distillery in East Java, workers checking valves in daylight",
+  "takeaway": "Laporan ini netral bagi fundamental MOLI, karena isinya murni konfirmasi bahwa tidak ada informasi material di balik lonjakan harga dan aktivitas saham pada 31 Agustus 2026, tanpa rencana aksi korporasi atau perubahan kepemilikan yang diketahui perseroan. Surat semacam ini terbit karena bursa mendeteksi pergerakan harga atau volume transaksi yang tidak biasa dan meminta emiten memastikan tidak ada informasi tersembunyi di baliknya. Karena tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, dampaknya terhadap kinerja perusahaan sendiri nihil, tetapi tetap jadi rambu bagi investor bahwa pergerakan harga saat itu murni faktor pasar, bukan aksi korporasi. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia menindaklanjuti dengan notasi khusus atau pengawasan tambahan atas perdagangan saham MOLI setelah surat konfirmasi ini, serta apakah pola transaksi tidak biasa itu berulang pada sesi-sesi perdagangan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "gema-jawab-bei-tak-ada-info-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "GEMA Jawab BEI, Tak Ada Info di Balik [Volatilitas] Saham",
+  "deck": "Bursa Efek Indonesia meminta penjelasan GEMA soal volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana aksi korporasi yang disembunyikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T11:18:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/784f292ec2_07a712664d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GEMA",
+  "tags": [
+   "GEMA",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Gema Grahasarana Tbk (GEMA) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi efeknya, melalui surat bernomor S-050/S-CORSEC/GEMA/IX/2026 yang ditandatangani Corporate Secretary Ferlina Sutandi pada 4 September 2026. Surat ini merespons permintaan BEI bernomor S-11262/BEI.PP2/09-2026 yang meminta perseroan mengklarifikasi apakah ada informasi tersembunyi di balik pergerakan harga sahamnya yang tidak wajar.",
+   "Dalam jawabannya, GEMA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham, dan menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi pencatatan sahamnya di bursa.",
+   "Soal pemegang saham utama, GEMA menyampaikan bahwa setelah dikonfirmasi, pihak tersebut menyatakan bertindak sebagai investor jangka panjang dan tidak berencana melakukan perubahan signifikan atas kepemilikan sahamnya dalam waktu dekat. Perseroan juga menegaskan tidak ada informasi atau kejadian material lain terkait kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers assembling modern office furniture pieces inside a spacious manufacturing showroom, warm daylight, Indonesia factory floor.",
+  "takeaway": "Penilaian saya netral, sebab isi surat ini murni bantahan standar tanpa angka atau rencana baru yang mengubah kondisi keuangan perusahaan. Permintaan BEI semacam ini muncul ketika sistem bursa mendeteksi transaksi saham yang bergerak tidak wajar dibanding kebiasaannya, dan jawaban seperti ini tidak menyentuh pos kinerja apa pun seperti ekuitas atau laba, melainkan sekadar konfirmasi bahwa tidak ada informasi tersembunyi atau rencana aksi korporasi di baliknya. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi saham GEMA berlanjut dalam beberapa hari ke depan, karena jika BEI kembali meminta penjelasan atau menemukan indikasi lain, itu bisa memicu tindakan pengawasan lebih lanjut seperti penghentian sementara perdagangan (suspensi).",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smbr-jawab-bursa-ungkap-rencana-streamlining-dengan-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMBR Jawab Bursa, Ungkap Rencana [Streamlining] dengan Anak Usaha",
+  "deck": "Semen Baturaja menjelaskan lonjakan transaksi sahamnya ke BEI dan membuka rencana restrukturisasi dengan entitas anak usaha yang masih dikaji, bagian dari perampingan grup Semen Indonesia atas arahan Danantara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T10:49:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308481bdf7_47157eda5b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "Danantara",
+   "Semen Indonesia"
+  ],
+  "body": [
+   "PT Semen Baturaja (Persero) Tbk (SMBR) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul surat permintaan klarifikasi nomor S-11258/BEI.PP3/09-2026 tanggal 3 September 2026 perihal volatilitas transaksi efek perseroan. Dalam suratnya yang diteken Corporate Secretary Hari Liandu pada 4 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, dan tidak mengetahui aktivitas pemegang saham tertentu yang berkaitan dengan kenaikan aktivitas maupun harga sahamnya.",
+   "Meski begitu, perseroan mengonfirmasi memiliki rencana aksi korporasi berupa streamlining atau perampingan sekaligus penguatan struktur usaha bersama entitas anak usahanya. Rencana ini disebut masih dalam tahap kajian internal dan merupakan bagian dari rencana perampingan entitas di bawah PT Semen Indonesia (Persero) Tbk, yang diamanatkan oleh PT Danantara Asset Management selaku pengelola aset negara. Perseroan tidak merinci lebih lanjut bentuk, nilai, maupun jadwal dari rencana tersebut.",
+   "Terkait kepemilikan saham, perseroan juga mengonfirmasi telah menanyakan langsung kepada pemegang saham utamanya, PT Semen Indonesia (Persero) Tbk, dan hasilnya menyatakan belum ada rencana perubahan atas saham yang dimiliki di SMBR saat ini."
+  ],
+  "fotoAdegan": "Cement plant silos and conveyor systems under an overcast sky, workers in hard hats inspecting pipelines, South Sumatra",
+  "takeaway": "Laporan ini netral bagi SMBR karena tidak ada indikasi negatif atau positif yang konkret, hanya konfirmasi bahwa lonjakan transaksi sahamnya bukan dipicu informasi tersembunyi yang seharusnya sudah diumumkan. Yang perlu dicermati adalah rencana streamlining dengan anak usaha yang disinggung di poin keempat, karena kalau nanti terealisasi dalam bentuk merger atau pengalihan aset antarentitas grup Semen Indonesia, itu bisa mengubah struktur ekuitas dan konsolidasi keuangan SMBR, hal yang biasa diawasi pemegang saham karena berkaitan langsung dengan nilai buku perusahaan. Perseroan sendiri belum membuka detail bentuk maupun waktu rencana itu, sehingga sejauh ini masih sebatas rencana yang dikaji secara internal. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari SMBR begitu kajian streamlining ini rampung dan resmi diajukan ke Bursa, mengingat rencana tersebut merupakan bagian dari agenda perampingan yang lebih besar di tingkat grup Semen Indonesia atas arahan Danantara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jsmr-catat-ebitda-tumbuh-8-1-pada-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Catat EBITDA [Tumbuh] 8,1% pada Semester I 2026",
+  "deck": "Materi public expose JSMR menunjukkan pendapatan naik 7,6% dan EBITDA naik 8,1% secara tahunan pada semester I 2026, menjelang paparan publik pada 9 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T10:47:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbd4a01627_a02dca93f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk (JSMR) resmi menyampaikan materi Public Expose Live 2026 kepada Bursa Efek Indonesia pada 4 September 2026. Surat pengantar ditandatangani Corporate Secretary & Chief Administration Officer Trias Andriyanto, merujuk pada jadwal yang sebelumnya diumumkan lewat surat tertanggal 24 Agustus 2026. Paparan publik tahunan ini akan digelar Rabu, 9 September 2026, secara digital melalui webinar.",
+   "Dalam materi tersebut, Jasa Marga memaparkan kinerja keuangan semester I 2026 yang tumbuh dibandingkan periode sama tahun sebelumnya. Pendapatan usaha di luar pendapatan konstruksi naik 7,6 persen secara tahunan menjadi Rp6,99 triliun, EBITDA naik 8,1 persen menjadi Rp10,31 triliun dengan margin EBITDA stabil di 67,8 persen, dan laba bersih yang menjadi hak pemegang saham induk naik 2,0 persen menjadi Rp1,91 triliun. Volume lalu lintas kendaraan di jalan tol Jasa Marga pada semester I 2026 tercatat 647,48 juta kendaraan, naik 1,70 persen dari 636,63 juta kendaraan pada periode yang sama tahun lalu, didorong antara lain oleh penyesuaian tarif di ruas Ngawi-Kertosono sebesar 4,08 persen, Semarang-Batang 29,5 persen, Solo-Ngawi 24,98 persen, dan Prof. Dr. Ir. Sedyatmo 4,19 persen.",
+   "Rasio utang berbunga terhadap ekuitas atau gearing ratio perusahaan tercatat 1,23 kali pada semester I 2026, naik tipis dari 1,20 kali di akhir 2025 namun masih di bawah batas maksimal internal 1,5 kali. Rasio kemampuan membayar bunga atau interest coverage ratio membaik dari 3,69 kali menjadi 3,90 kali, di atas syarat minimal 2,5 kali. Perusahaan memiliki 36 konsesi jalan tol sepanjang 1.736 kilometer dengan 1.294 kilometer sudah beroperasi, dan menargetkan tambahan sekitar 5 kilometer ruas baru beroperasi hingga akhir 2026 di ruas Jogja-Bawen, serta sekitar 62 kilometer tambahan pada kuartal pertama 2027 di ruas Probolinggo-Banyuwangi, Jogja-Bawen, dan Jogja-Solo. Progres konstruksi per 31 Agustus 2026 menunjukkan sejumlah seksi sudah mencapai pembebasan lahan dan konstruksi di atas 90 persen, seperti seksi Ambarawa-Bawen yang ditargetkan beroperasi pada kuartal IV 2026.",
+   "Materi tersebut juga mencantumkan profil dasar perusahaan, yakni komposisi pemegang saham yang terdiri atas Pemerintah Indonesia sebesar 70 persen dan publik 30 persen, kapitalisasi pasar sekitar Rp19,7 triliun pada harga saham Rp2.710 per lembar, jumlah karyawan 7.833 orang per akhir 2025, serta peringkat kredit perusahaan di level idAA dengan outlook stabil untuk sejumlah obligasi berkelanjutan yang telah diterbitkan."
+  ],
+  "fotoAdegan": "Wide view of an elevated toll road busy with cars and trucks under a hazy morning sky in Indonesia",
+  "takeaway": "Materi ini condong positif bagi Jasa Marga karena hampir seluruh indikator utama tumbuh melampaui target internal 2026, pendapatan di luar konstruksi naik 7,6 persen dan EBITDA naik 8,1 persen secara tahunan, sementara target perusahaan sendiri untuk kedua pos itu hanya 4 sampai 6 persen. Yang tersentuh adalah profitabilitas usaha lewat EBITDA, yaitu laba operasional sebelum bunga, pajak, dan penyusutan, serta rasio utang terhadap ekuitas atau gearing ratio yang naik tipis dari 1,20 kali menjadi 1,23 kali tapi masih jauh di bawah batas aman 1,5 kali, dan rasio kemampuan membayar bunga yang membaik dari 3,69 kali menjadi 3,90 kali, jauh di atas syarat minimal 2,5 kali. Laba bersih yang mengalir ke pemegang saham hanya naik tipis 2,0 persen, jadi pertumbuhan di level pendapatan dan EBITDA belum sepenuhnya turun ke laba bersih, kemungkinan karena beban bunga atau pos non operasional lain menahan lajunya. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada Rabu, 9 September 2026 secara daring, serta penyelesaian sejumlah ruas tol baru yang ditargetkan mulai beroperasi pada kuartal keempat 2026 dan awal 2027, seperti ruas Jogja-Bawen dan Probolinggo-Banyuwangi, karena penambahan ruas itulah yang akan menambah pendapatan tol ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "itmg-catat-laba-bersih-us-109-5-juta-naik-17-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ITMG catat [laba bersih] US$109,5 juta, naik 17% di semester I 2026",
+  "deck": "Materi paparan publik tahunan ITMG memperlihatkan laba bersih dan pendapatan naik dua digit pada semester I 2026, meski volume produksi batu bara justru turun 5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T10:34:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1ad59ed13_020febd7d1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMG",
+  "tags": [
+   "ITMG",
+   "Indo Tambangraya Megah",
+   "batu bara",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Indo Tambangraya Megah Tbk (ITMG) menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia pada 4 September 2026, menjelang acara paparan publik yang dijadwalkan berlangsung 9 September 2026. Surat disampaikan oleh Corporate Secretary Monika Ida Krisnamurti, merujuk pada pemberitahuan sebelumnya bernomor 2705/L/ITM/CorSec/8/2026 tanggal 27 Agustus 2026. Materi ini memuat kinerja keuangan dan operasional perusahaan untuk semester pertama 2026.",
+   "Dari sisi keuangan, ITMG membukukan pendapatan bersih sekitar US$1.000,5 juta pada semester I 2026, naik 9 persen dibandingkan periode sama tahun lalu yang sebesar US$919,4 juta. Laba kotor naik 14 persen menjadi US$256,5 juta, laba operasional naik 14 persen menjadi US$142,2 juta, dan EBITDA naik 11 persen menjadi US$181,2 juta. Laba bersih tercatat US$109,5 juta, naik 17 persen dari US$94,0 juta, dengan marjin laba bersih naik dari 10 persen menjadi 11 persen. Kenaikan ini ditopang harga jual batu bara rata-rata yang naik dari US$78,1 menjadi US$81,0 per ton.",
+   "Di sisi operasional, produksi batu bara ITMG pada semester I 2026 justru turun 5 persen menjadi 9,9 juta ton, sementara volume penjualan naik 5 persen menjadi 12,3 juta ton. Penjualan tersebut mengalir ke Tiongkok (28 persen), Indonesia (27 persen), Jepang (19 persen), Filipina (9 persen), Thailand dan India (masing-masing 4 persen), dan negara lain (9 persen), dengan 9 persen volume 6M26 masih belum terjual. Sebanyak 67 persen volume penjualan sudah memakai skema harga tetap dan 24 persen mengikuti indeks harga acuan. Perusahaan menargetkan penjualan penuh tahun 2026 sebesar 26,9 hingga 27,5 juta ton dan produksi 22,0 hingga 22,9 juta ton, dengan tambang Indominco Mandiri menargetkan 7,1 juta ton dan Bharinto Ekatama 8,0 juta ton sebagai dua penyumbang produksi terbesar.",
+   "Neraca keuangan ITMG per 30 Juni 2026 menunjukkan total aset US$2.417 juta, ekuitas US$1.908 juta, dan kas US$808 juta, dibandingkan aset US$2.406 juta dan ekuitas US$1.910 juta pada akhir 2025. Pinjaman perusahaan naik dari US$18 juta menjadi US$39 juta, namun rasio utang terhadap ekuitas tetap sangat rendah di 0,01 kali dengan posisi net gearing negatif 37 persen, yang berarti kas perusahaan lebih besar dari total utangnya. Realisasi belanja modal pada semester I 2026 tercatat US$21 juta, turun dari US$32 juta pada periode sama tahun lalu."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine in East Kalimantan with heavy haul trucks moving along terraced benches under hazy daylight.",
+  "takeaway": "Laporan ini condong positif bagi ITMG karena laba bersih dan marjinnya membaik cukup tajam meski volume produksi batu baranya justru turun 5 persen, sebuah kombinasi yang menunjukkan perusahaan mengandalkan kenaikan harga jual dan penjualan dari stok, bukan pertumbuhan volume tambang. Yang tersentuh di sini adalah struktur permodalan dan arus kas: belanja modal turun dari US$32 juta menjadi US$21 juta, dan rasio utang terhadap ekuitas hanya 0,01 kali dengan kas jauh melebihi utang, jadi pelaku pasar biasanya membaca ini sebagai bantalan keuangan yang tebal untuk menghadapi fluktuasi harga batu bara ke depan. Perlu dicermati apakah belanja modal yang menyusut ini sekadar penundaan proyek atau memang sinyal perlambatan ekspansi. Yang dipantau berikutnya adalah paparan publik tahunan pada 9 September 2026, serta realisasi target produksi 22,0 hingga 22,9 juta ton dan penjualan 26,9 hingga 27,5 juta ton untuk sepanjang 2026, termasuk target produksi kuartal ketiga sebesar 5,9 juta ton.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
   "category": "Industri",
   "title": "Ekspor Sawit RI [Melonjak] 64% pada Juni 2026",

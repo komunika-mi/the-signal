@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton",
+  "category": "Industri",
+  "title": "Ekspor Sawit [Turun] 28%, Stok CPO Nasional Naik ke 3,04 Juta Ton",
+  "deck": "Ekspor sawit Indonesia turun 28,14 persen pada Mei 2026, sementara stok CPO nasional naik ke 3,04 juta ton karena produksi dan konsumsi ikut melambat.",
+  "image": "assets/img/ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T06:01:39.036Z",
+  "sourceUrl": "https://gapki.id/news/2026/07/15/ekspor-sawit-turun-28-stok-cpo-nasional-capai-304-juta-ton/",
+  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "tags": [
+   "sawit",
+   "CPO",
+   "ekspor",
+   "GAPKI"
+  ],
+  "body": [
+   "Ekspor produk sawit Indonesia anjlok 28,14 persen pada Mei 2026 dibandingkan April, dari 2,78 juta ton menjadi hanya 1,99 juta ton. Penurunan ini membuat stok minyak sawit mentah (CPO) nasional menumpuk hingga 3,04 juta ton, menurut data Gabungan Pengusaha Kelapa Sawit Indonesia (GAPKI). Kondisi ini penting diperhatikan karena sawit adalah salah satu andalan devisa ekspor Indonesia, dan penumpukan stok berpotensi menekan harga di tingkat petani maupun pabrik jika berlanjut.",
+   "Produksi CPO pada Mei tercatat 4,17 juta ton, turun 7,01 persen dari April, sementara produksi minyak inti sawit (PKO) turun menjadi 387 ribu ton. Konsumsi dalam negeri ikut turun 2,98 persen menjadi 2,08 juta ton, terutama karena penyerapan untuk biodiesel yang turun dari 1,14 juta ton menjadi 1,04 juta ton, meski konsumsi untuk pangan dan oleokimia justru naik tipis. Karena penurunan ekspor jauh lebih dalam ketimbang penurunan produksi dan konsumsi, stok akhirnya bertambah.",
+   "Penurunan ekspor terjadi hampir merata ke berbagai negara tujuan: ke China turun 164 ribu ton (30 persen), India turun 124 ribu ton (60 persen), Afrika turun 140 ribu ton (36 persen), Amerika Serikat turun 78 ribu ton (37 persen), Malaysia turun 49 ribu ton (36 persen), dan Uni Eropa turun 26 ribu ton (5 persen). Satu-satunya kenaikan tercatat untuk tujuan Rusia, naik 216 persen menjadi 86 ribu ton. Nilai ekspor sawit pada Mei turun 26,3 persen menjadi US$2,49 miliar, sejalan dengan harga rata-rata CPO di pasar Rotterdam yang melemah 7,2 persen menjadi US$1.453 per ton.",
+   "Meski merosot dalam sebulan terakhir, kinerja kumulatif Januari-Mei 2026 masih tumbuh dibandingkan periode sama tahun lalu. Produksi naik 10,68 persen menjadi 25,01 juta ton, konsumsi dalam negeri naik 5,33 persen menjadi 10,74 juta ton, dan ekspor naik 10,26 persen menjadi 13,32 juta ton dengan nilai US$15,53 miliar, naik 13,82 persen dari tahun sebelumnya. Rata-rata harga CPO di Rotterdam sepanjang lima bulan pertama tahun ini juga lebih tinggi, yakni US$1.417 per ton dibandingkan US$1.186 per ton pada periode yang sama tahun 2025."
+  ],
+  "fotoAdegan": "Palm oil storage tanks and pipelines at a busy export terminal, a cargo ship docked alongside, overcast tropical sky.",
+  "fotoSumber": "https://gapki.id/dir-site/uploads/2026/07/kinerja_14_7_2026___.jpg",
+  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "takeaway": "Yang berubah adalah arah pergerakan stok: setelah stok awal tahun berada di 2,068 juta ton, per akhir Mei 2026 stok CPO nasional naik jadi 3,04 juta ton, karena ekspor bulan itu turun jauh lebih dalam (28 persen) dibanding penurunan produksi (7 persen), sehingga minyak sawit yang biasanya dikirim ke luar negeri jadi menumpuk di dalam negeri. Yang terdampak langsung adalah pelaku usaha sawit yang mengandalkan ekspor, terutama yang mengirim ke China, India, dan Afrika, tiga tujuan dengan penurunan terbesar bulan itu. Tapi buktinya masih terbelah: secara kumulatif Januari-Mei, ekspor tetap tumbuh 10,26 persen dibanding tahun lalu, jadi belum jelas apakah pelemahan Mei ini cuma koreksi sesaat atau awal tren melambat. Yang akan menjawabnya adalah data kinerja industri sawit dari GAPKI untuk bulan Juni 2026, kalau ekspor kembali naik berarti Mei cuma anomali, kalau masih tertekan berarti sinyal pelemahan permintaan mulai nyata.",
+  "imageV": "mtmjzzv3"
+ },
+ {
+  "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
+  "category": "Ketenagakerjaan",
+  "title": "Magang Nasional Buka Lagi, Kuota [50 Ribu] Peserta",
+  "deck": "Kemnaker membuka pendaftaran MagangHub Batch 2 Angkatan II 2026 pada 3-8 September, bagian dari total kuota tahun ini yang naik jadi 150 ribu peserta.",
+  "image": "assets/img/magang-nasional-buka-lagi-kuota-50-ribu-peserta.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:02:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464814-program-magang-nasional-kembali-dibuka-kuota-50-ribu-catat-jadwalnya",
+  "tags": [
+   "MagangHub",
+   "Kemnaker",
+   "Magang Nasional",
+   "Yassierli"
+  ],
+  "body": [
+   "Kementerian Ketenagakerjaan membuka kembali pendaftaran program magang nasional MagangHub Batch 2 Angkatan II 2026 mulai 3 hingga 8 September, dengan kuota 50.000 peserta. Program ini penting bagi lulusan baru jenjang diploma dan sarjana karena menawarkan pengalaman kerja yang diakui relevan dengan kebutuhan dunia usaha, sekaligus uang saku setara upah minimum provinsi atau kabupaten/kota.",
+   "Menteri Ketenagakerjaan Yassierli menyebut total kuota magang nasional sepanjang 2026 mencapai 150.000 peserta, naik dari 100.000 peserta pada 2025. Setelah pendaftaran ditutup, tahap seleksi berlangsung 9-15 September, pengumuman peserta yang lolos pada 18 September, dan pelaksanaan magang dimulai 21 September 2026.",
+   "Yassierli menegaskan program ini tidak sekadar mengejar jumlah peserta, melainkan juga menitikberatkan mutu pelaksanaan agar pengalaman yang diperoleh sesuai kebutuhan dunia usaha, dunia industri, dan instansi pemerintah. Ia menyebut seluruh proses, mulai dari pendaftaran hingga penempatan, akan berjalan transparan dan diawasi ketat agar dapat dipertanggungjawabkan.",
+   "Kemnaker menyiapkan aturan teknis yang lengkap sebagai pedoman bagi peserta maupun penyelenggara selama program berlangsung. Yassierli mengajak calon peserta memanfaatkan kesempatan ini untuk menambah pengalaman profesional dan mengenal langsung lingkungan kerja sebelum benar-benar terjun ke dunia kerja."
+  ],
+  "fotoAdegan": "Group of young Indonesian graduates in office attire walking through a modern corporate lobby during morning hours.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5ded72b774d-menteri-ketenagakerjaan-yassierli_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini adalah kuota, dari 100.000 peserta pada 2025 menjadi 150.000 peserta sepanjang 2026, naik sekitar 50 persen, dengan batch kali ini saja membuka 50.000 kursi untuk pendaftaran 3-8 September. Yang terdampak langsung adalah lulusan baru diploma dan sarjana yang belum bekerja, karena mereka mendapat uang saku setara UMP/UMK selama magang, tapi statusnya tetap magang, bukan pekerjaan tetap. Pola kenaikan kuota tahun ke tahun ini mengarah ke penggunaan magang bersubsidi sebagai instrumen andalan pemerintah untuk menampung lulusan baru di tengah lapangan kerja yang terbatas, ketimbang penciptaan lapangan kerja permanen secara langsung. Yang akan menguji apakah arah ini berlanjut adalah apakah kuota tahun 2027 kembali dinaikkan, serta data resmi Kemnaker soal berapa persen peserta magang 2025 yang akhirnya diserap bekerja oleh perusahaan atau instansi penyelenggara.",
+  "imageV": "mtmk00as"
+ },
+ {
   "slug": "baik-gelar-public-expose-usai-saham-kena-suspensi",
   "category": "Aksi Korporasi",
   "title": "BAIK Gelar Public Expose Usai Saham Kena [Suspensi]",
@@ -213,6 +268,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of an open-pit coal mine in East Kalimantan with heavy haul trucks moving along terraced benches under hazy daylight.",
   "takeaway": "Laporan ini condong positif bagi ITMG karena laba bersih dan marjinnya membaik cukup tajam meski volume produksi batu baranya justru turun 5 persen, sebuah kombinasi yang menunjukkan perusahaan mengandalkan kenaikan harga jual dan penjualan dari stok, bukan pertumbuhan volume tambang. Yang tersentuh di sini adalah struktur permodalan dan arus kas: belanja modal turun dari US$32 juta menjadi US$21 juta, dan rasio utang terhadap ekuitas hanya 0,01 kali dengan kas jauh melebihi utang, jadi pelaku pasar biasanya membaca ini sebagai bantalan keuangan yang tebal untuk menghadapi fluktuasi harga batu bara ke depan. Perlu dicermati apakah belanja modal yang menyusut ini sekadar penundaan proyek atau memang sinyal perlambatan ekspansi. Yang dipantau berikutnya adalah paparan publik tahunan pada 9 September 2026, serta realisasi target produksi 22,0 hingga 22,9 juta ton dan penjualan 26,9 hingga 27,5 juta ton untuk sepanjang 2026, termasuk target produksi kuartal ketiga sebesar 5,9 juta ton.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih",
+  "category": "BUMN",
+  "title": "RI-Rusia Jajaki [Pabrik] Pupuk Urea dan Kapal Canggih",
+  "deck": "Danantara dan Pupuk Indonesia menandatangani studi bersama untuk potensi pabrik urea di Vladivostok, sementara Rusia menawarkan kapal canggih pengolah ikan kepada Indonesia.",
+  "image": "assets/img/ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T08:35:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464784-bukan-cuma-perdagangan-rusia-tawarkan-kapal-canggih-hingga-pabrik-pupuk-ke-indonesia",
+  "tags": [
+   "rusia",
+   "pupuk indonesia",
+   "danantara",
+   "prabowo subianto"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto bertemu Presiden Rusia Vladimir Putin di Vladivostok pada Kamis, 3 September 2026. Dari pertemuan itu muncul sejumlah rencana kerja sama konkret, mulai dari penjajakan investasi pabrik pupuk hingga tawaran teknologi kapal canggih dari pihak Rusia.",
+   "Menteri Investasi dan Hilirisasi yang juga CEO Danantara, Rosan Roeslani, mengatakan Pupuk Indonesia menandatangani studi bersama dengan pihak Rusia untuk mengkaji kemungkinan membangun pabrik pupuk urea di Vladivostok. Ia menyebut kinerja Pupuk Indonesia yang makin efisien membuka peluang ekspansi ke luar negeri, sekaligus dinilai bisa memperkuat ketahanan bahan baku dan industri dalam negeri.",
+   "Direktur Utama Pupuk Indonesia Rahmad Pribadi menjelaskan rencana ini sejalan dengan arahan Danantara agar perusahaan berperan memperkuat ketahanan nasional sambil memperluas pasar global. Ia menilai Vladivostok strategis karena menghadap langsung ke kawasan Pasifik, yang selama ini menjadi pasar utama Pupuk Indonesia.",
+   "Di luar sektor pupuk, Presiden Putin turut menawarkan teknologi perkapalan mutakhir kepada Indonesia berupa kapal sepanjang lebih dari 102 meter yang mampu mengolah hasil tangkapan ikan langsung di atas kapal. Skema ini disebut berpotensi meningkatkan kualitas ikan tangkapan Indonesia sebelum masuk ke rantai distribusi."
+  ],
+  "fotoAdegan": "Fishing boats unloading fresh catch at a bustling Indonesian harbor, workers sorting fish crates, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/04/6a9a1fa5f216d-presiden-prabowo-subianto-dan-presiden-rusia-vladmir-putin_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret baru sebatas penandatanganan studi bersama, bukan keputusan investasi. Pupuk Indonesia dan Danantara baru menjajaki kemungkinan membangun pabrik urea di Vladivostok, sementara tawaran kapal pengolah ikan dari Rusia juga masih sebatas penawaran tanpa nilai transaksi yang disebutkan. Pihak yang berkepentingan adalah Pupuk Indonesia sebagai BUMN pupuk, Danantara selaku pengelola investasi negara, dan pelaku usaha perikanan bila kapal itu benar direalisasikan. Yang masih kurang untuk membaca arah kerja sama ini adalah nilai investasi, kapasitas pabrik, dan tenggat waktu studi tersebut rampung, jadi baru bisa dinilai lebih jauh setelah salah satu rencana ini naik status menjadi kesepakatan resmi.",
+  "imageV": "mtmk00rv"
  },
  {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",

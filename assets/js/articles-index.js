@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton",
+  "category": "Industri",
+  "title": "Ekspor Sawit [Turun] 28%, Stok CPO Nasional Naik ke 3,04 Juta Ton",
+  "deck": "Ekspor sawit Indonesia turun 28,14 persen pada Mei 2026, sementara stok CPO nasional naik ke 3,04 juta ton karena produksi dan konsumsi ikut melambat.",
+  "date": "4 September 2026",
+  "image": "assets/img/ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton.jpg",
+  "imageV": "mtmjzzv3",
+  "tags": [
+   "sawit",
+   "CPO",
+   "ekspor",
+   "GAPKI"
+  ],
+  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
+  "sourceUrl": "https://gapki.id/news/2026/07/15/ekspor-sawit-turun-28-stok-cpo-nasional-capai-304-juta-ton/",
+  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
+ },
+ {
+  "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
+  "category": "Ketenagakerjaan",
+  "title": "Magang Nasional Buka Lagi, Kuota [50 Ribu] Peserta",
+  "deck": "Kemnaker membuka pendaftaran MagangHub Batch 2 Angkatan II 2026 pada 3-8 September, bagian dari total kuota tahun ini yang naik jadi 150 ribu peserta.",
+  "date": "4 September 2026",
+  "image": "assets/img/magang-nasional-buka-lagi-kuota-50-ribu-peserta.jpg",
+  "imageV": "mtmk00as",
+  "tags": [
+   "MagangHub",
+   "Kemnaker",
+   "Magang Nasional",
+   "Yassierli"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464814-program-magang-nasional-kembali-dibuka-kuota-50-ribu-catat-jadwalnya"
+ },
+ {
   "slug": "baik-gelar-public-expose-usai-saham-kena-suspensi",
   "category": "Aksi Korporasi",
   "title": "BAIK Gelar Public Expose Usai Saham Kena [Suspensi]",
@@ -131,6 +166,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1ad59ed13_020febd7d1.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih",
+  "category": "BUMN",
+  "title": "RI-Rusia Jajaki [Pabrik] Pupuk Urea dan Kapal Canggih",
+  "deck": "Danantara dan Pupuk Indonesia menandatangani studi bersama untuk potensi pabrik urea di Vladivostok, sementara Rusia menawarkan kapal canggih pengolah ikan kepada Indonesia.",
+  "date": "4 September 2026",
+  "image": "assets/img/ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih.jpg",
+  "imageV": "mtmk00rv",
+  "tags": [
+   "rusia",
+   "pupuk indonesia",
+   "danantara",
+   "prabowo subianto"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464784-bukan-cuma-perdagangan-rusia-tawarkan-kapal-canggih-hingga-pabrik-pupuk-ke-indonesia"
  },
  {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
@@ -6510,53 +6562,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a991dde158_0db0619a5a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp18-000-ke-rp2-750-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Rp18.000 ke Rp2.750.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp18.000 menjadi Rp2.750.000 per gram, sementara harga buyback ikut melemah ke Rp2.610.000 per gram.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/grafik-laptop.jpg",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462577-harga-emas-antam-hari-ini-26-agustus-2026-terpantau-turun-rp18000-jadi-rp2750000-per-gram"
- },
- {
-  "slug": "ketr-tender-sukarela-rp523-diperpanjang-hingga-18-september",
-  "category": "Aksi Korporasi",
-  "title": "KETR: Tender Sukarela [Rp523] Diperpanjang hingga 18 September",
-  "deck": "IMBS memperpanjang tender sukarela saham KETR periode ketiga hingga 18 September 2026 di harga Rp523, setelah belum ada saham yang ditawarkan untuk dijual.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "tender offer",
-   "Ketrosden Triasmitra",
-   "IMBS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c0c152cbf2_0308708b69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "askrindo-jamin-512-proyek-strategis-rp261-9-triliun",
-  "category": "BUMN",
-  "title": "Askrindo Jamin [512] Proyek Strategis Rp261,9 Triliun",
-  "deck": "Askrindo mencatat dukungan asuransi dan penjaminan untuk 512 proyek strategis dan keamanan nasional senilai Rp261,9 triliun per Desember 2025, termasuk 16 proyek PSN.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/askrindo-jamin-512-proyek-strategis-rp261-9-triliun.jpg",
-  "imageV": "mt9hfype",
-  "tags": [
-   "Askrindo",
-   "PSN",
-   "UMKM",
-   "KUR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462576-askrindo-dukung-512-proyek-strategis-dan-perkuat-umkm-nasional"
  }
 ];

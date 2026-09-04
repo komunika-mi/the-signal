@@ -3,6 +3,112 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Tak Ada [Informasi Material] di Balik Lonjakan Saham",
+  "deck": "Golden Eagle Energy (SMMT) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya pada 3 September 2026, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T21:38:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3743ab72dd_a8c7738df0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "Golden Eagle Energy",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Golden Eagle Energy Tbk (SMMT) mengirim surat resmi kepada Bursa Efek Indonesia untuk menjelaskan volatilitas transaksi saham perseroan pada 3 September 2026. Surat bernomor 036/SMMT-CS/2026 ini merupakan jawaban atas permintaan penjelasan BEI nomor S-11350/BEI.PP1/09-2026 tertanggal 4 September 2026, dan ditandatangani oleh Corporate Secretary Susanti Nilam serta Direktur Yuliana.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan OJK soal keterbukaan informasi maupun peraturan pencatatan BEI. Perseroan juga mengaku tidak mengetahui dan tidak menerima informasi mengenai aktivitas pemegang saham tertentu sebagaimana diatur dalam ketentuan pelaporan kepemilikan saham OJK. Untuk rencana ke depan, perseroan menegaskan tidak memiliki rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi penting lain yang material namun belum diungkapkan ke publik.",
+   "Soal kemungkinan pemegang saham utama melepas atau menambah kepemilikannya, Corporate Secretary menyatakan telah menanyakan langsung kepada pemegang saham utama dan pengendali perseroan. Jawabannya, pemegang saham utama saat ini tidak memiliki rencana transaksi tertentu atas kepemilikan sahamnya di SMMT."
+  ],
+  "fotoAdegan": "Open-pit coal mining haul road with heavy dump trucks and excavators under an overcast sky in Indonesia",
+  "takeaway": "Isi surat ini netral bagi fundamental SMMT, karena perseroan hanya membantah adanya informasi atau rencana korporasi apa pun di balik pergerakan harga sahamnya, tanpa mengungkap fakta baru yang mengubah kondisi bisnis. Permintaan penjelasan seperti ini rutin dikirim BEI saat transaksi suatu saham bergerak tidak wajar, semacam lonjakan volume atau harga yang mencolok dibanding hari biasa, dan biasanya tidak berkaitan langsung dengan pos kinerja seperti ekuitas atau arus kas perusahaan, melainkan soal transparansi ke pasar. Yang perlu dicermati investor adalah apakah pola transaksi tidak biasa ini berulang di hari-hari berikutnya, sebab jika berlanjut, BEI berwenang meningkatkan pengawasan lebih lanjut terhadap perdagangan saham SMMT.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adhi-beber-rincian-kontrak-lrt-dan-ekspansi-ke-filipina-pubex",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Beber Rincian Kontrak LRT dan Ekspansi ke Filipina [Pubex]",
+  "deck": "Materi public expose ADHI mengungkap progres kontrak LRT Jabodebek, proyek kereta baru di Filipina senilai Rp3,9 triliun didanai ADB, dan divestasi 11 anak usaha hingga 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T21:24:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/70a2c68586_5b4556f7c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Public Expose",
+   "LRT Jabodebek",
+   "Ekspansi Filipina"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk. (ADHI) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat Nomor 372/SP-IX/2026 tanggal 4 September 2026, merujuk pada rencana public expose yang sebelumnya diumumkan lewat surat Nomor 347/SP-VIII/2026 tanggal 26 Agustus 2026. Surat ditandatangani secara elektronik oleh Corporate Secretary ADHI, Siswanto, dan dilengkapi lampiran materi presentasi berjudul Upload_Materi PUBEX 2026_ADHI.pdf.",
+   "Materi tersebut memaparkan struktur kepemilikan saham ADHI, yakni 63,7 persen dikuasai pemerintah, 35,7 persen dimiliki publik, dan 0,6 persen berupa saham Seri A Dwiwarna atau saham khusus milik negara. ADHI juga memaparkan struktur grup usahanya yang terdiri dari empat lini bisnis, yaitu Engineering & Construction, Property & Hospitality, Manufacture, serta Investment & Concessions, dengan 13 special purpose vehicle atau perusahaan proyek yang dimilikinya. Dari jumlah itu, 11 perusahaan proyek direncanakan dilepas atau didivestasi secara bertahap hingga 2027, sementara sisanya dipertahankan hingga masa konsesinya berakhir.",
+   "Soal proyek berjalan, materi ini mengungkap bahwa proyek LRT Jabodebek dengan nilai kontrak total Rp25,5 triliun sudah diserahterimakan ke pemiliknya, dan ADHI telah menerima pembayaran sebesar Rp23,2 triliun, menyisakan sekitar Rp2,3 triliun yang belum dibayarkan. Untuk proyek MRT Jakarta Fase 2A yang dikerjakan lewat kerja sama Shimizu ADHI Joint Venture, progres pembangunan per Juni 2026 mencapai 93,5 persen untuk paket CP201 (Bundaran HI-Harmoni) dan 67 persen untuk paket CP202 (Harmoni-Mangga Besar).",
+   "ADHI juga mengumumkan perluasan bisnis ke Filipina lewat akuisisi proyek Malolos-Clark Railway, perpanjangan Blumentritt, paket CP S-01, dan South Commuter Railway paket CP S-03C, dengan nilai kontrak Rp3,9 triliun yang sumber pendanaannya berasal dari pinjaman Asian Development Bank (ADB). Proyek kereta lain, North-South Railway Project, dikerjakan dalam konsorsium dengan PTPP, dengan porsi ADHI sebesar 51 persen dan PTPP 49 persen."
+  ],
+  "fotoAdegan": "Workers welding elevated railway girders at a light rail construction site in Jakarta, cranes overhead, hazy afternoon sky",
+  "takeaway": "Laporan ini condong positif bagi ADHI karena menunjukkan proyek-proyek besarnya berjalan dan ekspansi barunya dibiayai dari luar kantong perusahaan sendiri, yakni pinjaman Asian Development Bank untuk proyek kereta di Filipina senilai Rp3,9 triliun. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar masuk ke rekening perusahaan: dari total kontrak LRT Jabodebek Rp25,5 triliun, ADHI baru mengantongi Rp23,2 triliun meski proyeknya sudah diserahterimakan ke pemilik, menyisakan sekitar Rp2,3 triliun piutang yang belum cair. Rencana melepas 11 dari 13 perusahaan patungannya secara bertahap hingga 2027 juga berpotensi menambah kas dari hasil penjualan aset, meski nilai dan jadwal pasti tiap pelepasan belum diungkap di materi ini. Yang perlu dipantau berikutnya adalah realisasi pencairan sisa piutang LRT Jabodebek dan progres pelaksanaan divestasi 11 anak usaha tersebut hingga tenggat 2027, termasuk kelanjutan penyelesaian paket CP202 MRT Jakarta Fase 2A yang baru mencapai 67 persen per Juni 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
+  "deck": "Ekuitas TGRA anjlok 83% jadi Rp51,4 miliar akibat rugi Rp259,5 miliar dan impairment proyek PLTA/PLTMH. Auditor menyoroti ketidakpastian kelangsungan usaha Grup.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T19:51:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef6e18c87a_4cbea9bff7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "PLTA"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) menyampaikan laporan keuangan tahunan 2025 yang telah diaudit oleh KAP Irwanto dan Rekan dengan partner penanggung jawab Nino Berlianto. Auditor memberikan opini wajar tanpa pengecualian, tetapi secara khusus mencantumkan paragraf ketidakpastian material terkait kelangsungan usaha. Grup mencatat rugi bersih Rp259.517.560.260 sepanjang 2025, jauh lebih besar dari rugi Rp23.698.805.720 pada 2024, dengan saldo defisit (akumulasi rugi) mencapai Rp272.407.947.388 per akhir tahun.",
+   "Dalam surat penjelasan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia yang ditandatangani Direktur Daniel Tagu Dedo, perseroan melaporkan total ekuitas turun dari Rp310.714.901.637 pada 2024 menjadi Rp51.418.396.896 pada 2025, atau anjlok 83,45%. Penyebab utamanya adalah rugi komprehensif Rp259.296.504.741 yang berasal dari penurunan nilai aset dalam pembangunan sebesar Rp177.367.458.536 akibat tertundanya proyek pembangkit listrik tenaga air (PLTA) dan mini hidro (PLTMH), penurunan nilai goodwill Rp45.496.175.938 dari proyek yang belum beroperasi, beban pajak Rp10.156.443.746, serta kerugian Rp8.289.552.960 dari klaim bank garansi oleh PT PLN (Persero) atas kegagalan pencapaian tanggal operasi komersial (COD) proyek PLTM.",
+   "Total aset Grup juga turun dari Rp458.585.036.546 menjadi Rp206.453.987.755, atau susut 54,98%. Selain penurunan nilai aset dalam pembangunan, penurunan aset dipicu oleh deposito yang dibatasi penggunaannya sebagai jaminan bank garansi turun Rp8.291.052.960, goodwill turun Rp45.496.175.938, serta aset lancar lainnya turun Rp11.606.000.000 setelah bank garansi dari Carbon Resilience Pte Ltd Singapura di UOB Bank Jakarta habis masa penjaminannya. Auditor mencatat aset dalam pembangunan senilai Rp177.704.743.864 atau 86,07% dari total aset Grup terkait proyek PLTMH dan PLTA berkapasitas hingga 510,8 megawatt, di mana lima PLTMH sudah memiliki perjanjian jual beli listrik dan dua PLTA baru mengantongi izin prinsip dan izin lokasi, sementara Grup masih mengupayakan pendanaan dari pihak ketiga.",
+   "Rugi per saham dasar melebar dari Rp8,60 pada 2024 menjadi Rp94,29 pada 2025. Grup tidak mencatat pendapatan usaha pada kedua tahun tersebut, dan jumlah liabilitas jangka pendek per akhir 2025 telah melampaui aset lancarnya sebesar Rp150.403.183.483."
+  ],
+  "fotoAdegan": "A partially built hydroelectric dam structure sitting idle in a forested Indonesian valley, scaffolding and concrete pillars, misty overcast morning light.",
+  "takeaway": "Laporan ini jelas negatif bagi TGRA, ekuitas menciut 83% dan auditor secara eksplisit meragukan kemampuan perusahaan mempertahankan kelangsungan usahanya, bukan sekadar catatan rutin. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi bantalan bagi pemegang saham, dan bantalan itu nyaris habis akibat rugi besar dari penurunan nilai proyek PLTA dan PLTMH yang tertunda serta klaim bank garansi oleh PLN. Rugi per saham melebar dari Rp8,6 menjadi Rp94,3, tanda bahwa kerugian menggerus nilai tiap lembar saham yang beredar. Kondisi diperberat karena utang jangka pendek Grup sudah melampaui aset lancarnya sebesar Rp150,4 miliar, sementara perusahaan belum memperoleh pendapatan usaha sama sekali dalam dua tahun terakhir. Yang perlu dipantau berikutnya adalah apakah Grup berhasil mendapatkan pendanaan pihak ketiga untuk melanjutkan proyek PLTMH dan PLTA yang disebut dalam laporan ini, karena tanpa pendanaan itu risiko penurunan nilai aset serupa bisa terulang pada laporan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tlkm-rilis-materi-public-expose-kinerja-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Rilis Materi [Public Expose] Kinerja Semester I 2026",
+  "deck": "Telkom mengoreksi surat sebelumnya dan merilis materi Public Expose Live 2026 pada 7 September, memuat kinerja 1H26, panduan tahun ini, dan progres InfraNexia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T19:45:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23b227121a_0bfb850936.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk mengoreksi suratnya kepada Bursa Efek Indonesia tertanggal 2 September 2026 perihal Penyampaian Materi Public Expose Tahunan. Surat koreksi ini ditandatangani AVP Shareholder Relation Telkom, Limiati Purnomo, pada 4 September 2026, dan melampirkan ulang materi presentasi untuk Public Expose Live 2026 yang akan digelar 7 September 2026. Materi tersebut memaparkan kinerja semester I 2026 (1H26) dengan lima narasumber, yaitu Direktur Utama Dian Siswarini, Direktur Keuangan dan Manajemen Risiko Telkom Indonesia Arthur Angelo Syailendra, Direktur Keuangan dan Manajemen Risiko Telkomsel Daru Mulyawan, Direktur Wholesale dan International Service Budi Satria Dharma Purba, serta Direktur Enterprise dan Business Service Veranita Yosephine.",
+   "Dari sisi keuangan, pendapatan konsolidasian Telkom pada 1H26 tercatat Rp75,9 triliun, naik 3,9 persen dibanding periode sama tahun lalu. EBITDA naik 3,8 persen menjadi Rp37,5 triliun dengan margin 49,4 persen, sementara laba bersih naik 1,4 persen menjadi Rp10,6 triliun dengan margin 14 persen. Jika dampak kerugian investasi di GOTO dikeluarkan dari perhitungan, harga saham GOTO turun dari Rp58 per lembar pada akhir 1H25 menjadi Rp50 per lembar pada akhir 1H26, laba bersih ternormalisasi Telkom mencapai Rp11,3 triliun, naik 6,2 persen. Anak usaha Telkomsel, sebelum eliminasi antar-segmen, membukukan pendapatan Rp55,6 triliun (naik 3,3 persen) dan EBITDA Rp26,1 triliun (naik 8,6 persen) dengan margin 46,9 persen. Berdasarkan segmen bisnis, pendapatan konsolidasian B2C tercatat Rp54,7 triliun (naik 4,8 persen), B2B Infra Rp4,66 triliun (naik 4,9 persen), B2B ICT Rp7,28 triliun (turun 1,3 persen), International Rp5,74 triliun (turun 1,5 persen), dan segmen lainnya Rp3,47 triliun (naik 10,4 persen).",
+   "Untuk panduan tahun 2026, Telkom menargetkan pertumbuhan pendapatan 1-3 persen, margin EBITDA di atas 50 persen, dan rasio belanja modal terhadap pendapatan 17-19 persen. Realisasi hingga 1H26 sudah mencatat pertumbuhan pendapatan 3,9 persen dan margin EBITDA 49,4 persen, sementara rasio belanja modal baru 14,2 persen. Perseroan juga memenangkan lelang tambahan 100 MHz spektrum sehingga total spektrum yang dikuasai naik dari 165 MHz menjadi 265 MHz, dengan biaya tahunan spektrum sekitar Rp1 triliun. Proyek pemisahan aset fiber InfraNexia Tahap-1 telah rampung Desember 2025, mencakup lebih dari 50 persen aset fiber terpilih dengan nilai transaksi Rp35,8 triliun, dan Tahap-2 ditargetkan selesai pada semester kedua 2026. Di bisnis pusat data, kapasitas efektif tercatat 49,9 MW ditambah 3.060 rak neuCentrIX, dengan pendapatan Rp867 miliar, naik 11 persen dibanding tahun lalu. Telkom juga menyelesaikan divestasi AdMedika dan TelkoMedika dengan dana tunai sekitar Rp880 miliar dan keuntungan sebelum pajak sekitar Rp530 miliar."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting fiber optic cables at the base of a telecommunications tower, overcast sky",
+  "takeaway": "Materi ini condong positif bagi Telkom, karena hampir seluruh pos utama, pendapatan, EBITDA, laba bersih, dan arus kas, sama-sama tumbuh pada semester pertama 2026 dibanding tahun sebelumnya. Yang tersentuh di sini adalah arus kas operasi dan arus kas bebas ke perusahaan, yaitu uang tunai yang benar-benar dihasilkan dari kegiatan usaha setelah dikurangi belanja modal, karena angka ini menunjukkan seberapa leluasa perusahaan membiayai ekspansi atau dividen tanpa harus menambah utang. Realisasi rasio belanja modal baru 14,2 persen dari target tahunan 17-19 persen, jadi belanja investasi Telkom kemungkinan masih akan naik pada semester kedua. Yang perlu dipantau berikutnya adalah forum Public Expose Live pada 7 September 2026 sendiri, karena manajemen biasanya menjawab pertanyaan investor secara langsung di sana, serta penyelesaian Tahap-2 pemisahan aset fiber InfraNexia yang ditargetkan rampung pada semester kedua 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
   "category": "BUMN",
   "title": "Realisasi Pupuk Subsidi Takalar Baru [48] Persen dari Alokasi",
@@ -81,6 +187,31 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah bukan cuma soal promosi, ada infrastruktur baru: maskapai STARLUX membuka penerbangan langsung Taipei-Denpasar mulai 1 Oktober 2026, lima kali seminggu, jalur yang sebelumnya belum ada. Yang menarik, jumlah pembeli dari Taiwan yang datang ke acara ini, 49 orang, jauh lebih banyak dibanding 21 penjual jasa wisata dari Indonesia, yang menurut Kepala KDEI Taipei menandakan permintaan wisata ke Indonesia dari Taiwan belum terlayani penuh. Yang kena dampak langsung adalah pelaku usaha pariwisata di Bali karena rute baru itu, sekaligus daerah lain seperti Yogyakarta, Surabaya, dan Labuan Bajo yang coba ditawarkan pemerintah sebagai alternatif dari Bali. Arahnya terlihat menuju upaya menyebar wisatawan Taiwan ke luar Bali lewat produk khusus seperti wisata bahari dan kebugaran, tapi ini baru niat lewat satu acara pertemuan bisnis. Yang akan membuktikan apakah arah ini benar-benar jalan adalah data jumlah wisatawan Taiwan pada semester kedua 2026, setelah rute penerbangan baru itu beroperasi dan bisa dibandingkan dengan capaian 108.989 kunjungan pada semester pertama.",
   "imageV": "mtmxcgrf"
+ },
+ {
+  "slug": "safe-bei-umumkan-kepemilikan-saham-terkonsentrasi-98-14",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: BEI Umumkan Kepemilikan Saham [Terkonsentrasi] 98,14%",
+  "deck": "BEI menyatakan 98,14% saham Steady Safe Tbk (SAFE) dikuasai sejumlah kecil pemegang saham per 2 September 2026, menyisakan porsi saham beredar bebas yang sangat tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:41:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c4bf5809_18e8c88735.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Steady Safe Tbk",
+   "BEI",
+   "free float"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) bersama PT Kustodian Sentral Efek Indonesia (KSEI) mengumumkan bahwa kepemilikan saham PT Steady Safe Tbk (SAFE) tergolong terkonsentrasi tinggi. Berdasarkan metodologi penentuan Kepemilikan Saham Terkonsentrasi Tinggi atas struktur saham dalam bentuk warkat dan tanpa warkat per 2 September 2026, sejumlah pemegang saham dalam jumlah terbatas secara agregat menguasai 98,14 persen dari total saham SAFE. Pengumuman bernomor Peng-HSC-00060/BEI.WAS/09-2026 ini diterbitkan pada 4 September 2026 dan ditandatangani oleh Direktur BEI Yulianto Aji Sadono serta Direktur KSEI Eqy Essiqy.",
+   "Saham SAFE tercatat di Papan Pengembangan bursa. Dalam pengumumannya, BEI menegaskan bahwa status kepemilikan terkonsentrasi ini tidak serta merta menunjukkan adanya pelanggaran terhadap peraturan perundang-undangan di bidang pasar modal. Namun, angka 98,14 persen itu berarti hanya sekitar 1,86 persen saham SAFE yang tersebar di luar kelompok pemegang saham tersebut, menyisakan porsi saham beredar bebas atau free float yang sangat tipis."
+  ],
+  "fotoAdegan": "Rows of parked passenger vans at a quiet transportation company depot in Jakarta, overcast morning light, no signage visible",
+  "takeaway": "Pengumuman ini condong negatif bagi pemegang saham publik SAFE, karena mengonfirmasi bahwa kepemilikan saham nyaris seluruhnya digenggam kelompok terbatas dan hanya menyisakan sekitar 1,86 persen saham yang benar-benar tersebar bebas di pasar. Yang tersentuh di sini bukan laba atau arus kas, melainkan likuiditas saham, yaitu seberapa mudah saham itu diperjualbelikan tanpa mengguncang harganya. Kalau porsi saham beredar bebas setipis ini, transaksi kecil saja bisa membuat harga melompat naik atau turun tajam, dan investor publik jadi lebih rentan dipermainkan oleh sekelompok kecil pemegang saham besar. Yang perlu dipantau selanjutnya adalah apakah BEI akan menindaklanjuti temuan ini dengan permintaan penjelasan resmi kepada manajemen SAFE atau langkah pengawasan tambahan, mengingat dokumen ini sendiri belum menyebut tenggat atau tindakan wajib bagi perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
@@ -349,6 +480,84 @@ var ARTICLES = [
   "fotoAdegan": "Workers moving stacked pallets of finished industrial materials across a warehouse loading area, forklift nearby, morning light through high windows",
   "takeaway": "Penjelasan BATR ini condong negatif bagi kinerja jangka pendek karena arus kas operasional justru memburuk, dari minus Rp1,4 miliar menjadi minus Rp9,9 miliar, dan kas inti perusahaan di Bank Rakyat Indonesia menyusut tajam dari Rp16,1 miliar menjadi Rp2 miliar hanya dalam enam bulan. Yang tersentuh adalah arus kas dari kegiatan operasional sehari-hari dan piutang usaha, dua pos yang dicermati pelaku pasar karena keduanya menunjukkan apakah penjualan yang tercatat di atas kertas benar-benar berubah jadi uang tunai di kas perusahaan. Cadangan kerugian piutang juga naik jadi Rp15,4 miliar seiring piutang berumur di atas 90 hari mencapai Rp16,3 miliar, tanda sebagian pelanggan belum membayar tepat waktu. Manajemen berdalih kondisi ini wajar karena sejalan dengan lonjakan penjualan 49,3 persen menjadi Rp81,3 miliar, namun klaim itu baru teruji kalau arus kas benar membaik pada laporan berikutnya. Yang perlu dipantau adalah realisasi janji mempercepat penagihan piutang dan mengatur pembayaran ke pemasok hingga akhir 2026, serta penyelesaian gedung kantor pusat baru yang ditargetkan rampung Desember 2026.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "zata-ganti-komisaris-independen-usai-rupst",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Ganti [Komisaris Independen] Usai RUPST",
+  "deck": "PT Bersama Zatta Jaya Tbk menunjuk Slamet Pribadi sebagai komisaris independen baru menggantikan Imron Rosyadi, sementara direksi dan komisaris lain diangkat kembali usai RUPST 2 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:21:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bdeb45d78d_3d0a5b7f67.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZATA",
+  "tags": [
+   "ZATA",
+   "RUPST",
+   "komisaris independen",
+   "perubahan pengurus"
+  ],
+  "body": [
+   "PT Bersama Zatta Jaya Tbk (ZATA) melaporkan kepada Otoritas Jasa Keuangan bahwa Rapat Umum Pemegang Saham Tahunan yang digelar Rabu, 2 September 2026, di Bandung, menetapkan susunan pengurus baru perseroan. Sebagian besar posisi diisi kembali oleh orang yang sama: Elidawati tetap menjabat Direktur Utama, Ronny Soleh Pahlevi tetap sebagai Wakil Direktur Utama, dan Indrasyah tetap sebagai Direktur. Di jajaran komisaris, Manudin Hasan tetap menjabat Komisaris Utama dan Henda Roshenda Noor tetap menjabat Komisaris.",
+   "Satu-satunya pergantian nama terjadi di kursi komisaris independen. Imron Rosyadi yang sebelumnya menempati posisi tersebut digantikan oleh Slamet Pribadi, efektif sejak keputusan RUPST pada 2 September 2026. Perubahan ini disampaikan perseroan melalui surat bernomor 043/CORSEC/ZATA/IX/2026 tertanggal 4 September 2026 yang ditandatangani Direktur Utama Elidawati.",
+   "Dengan susunan baru ini, komposisi pengurus ZATA tetap terdiri atas tiga direktur dan tiga komisaris, dengan satu dari tiga komisaris berstatus independen."
+  ],
+  "fotoAdegan": "Employees folding modest fashion garments on display racks inside a bright Indonesian clothing store, morning light",
+  "takeaway": "Penggantian ini condong netral bagi ZATA, karena hanya satu dari enam kursi pengurus yang berpindah tangan sementara posisi kunci seperti direktur utama dan komisaris utama tidak berubah. Pos yang tersentuh bukan angka keuangan seperti ekuitas atau arus kas, melainkan struktur pengawasan internal, sebab komisaris independen bertugas mengawasi kinerja direksi secara bebas dari kepentingan pemegang saham mayoritas sehingga pelaku pasar biasanya mencermati rekam jejak orang yang mengisi posisi ini. Yang perlu dipantau selanjutnya adalah risalah resmi RUPST 2 September 2026 yang lazim memuat rincian hasil pemungutan suara pemegang saham atas keputusan ini, serta profil dan pernyataan independensi Slamet Pribadi yang biasanya diungkap dalam laporan tahunan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbri-pefindo-tegaskan-rating-idaaa-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "BBRI: PEFINDO Tegaskan Rating [idAAA], Outlook Positif",
+  "deck": "PEFINDO mempertahankan peringkat idAAA untuk mayoritas obligasi BRI dengan outlook positif, sinyal potensi kenaikan peringkat pada evaluasi berikutnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:18:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a08ffca866_2553d8825b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRI",
+  "tags": [
+   "BBRI",
+   "PEFINDO",
+   "obligasi",
+   "rating kredit"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) melaporkan kepada Otoritas Jasa Keuangan hasil pemeringkatan tahunan atas seluruh surat utangnya oleh PT Pemeringkat Efek Indonesia (PEFINDO), sesuai surat yang diteken Corporate Secretary Dhanny pada 4 September 2026. Hasil pemantauan yang diputuskan Komite Pemeringkatan PEFINDO pada 1 September 2026 itu mempertahankan peringkat idAAA, level tertinggi yang diberikan PEFINDO, untuk mayoritas obligasi BRI, sementara Obligasi Subordinasi IV Tahun 2023 bertahan di idAA dan Surat Berharga Komersial Berkelanjutan I bertahan di idA1+, peringkat tertinggi untuk utang jangka pendek. Hampir seluruh instrumen itu disertai outlook Positive untuk periode 1 September 2026 sampai 1 September 2027.",
+   "Rincian obligasi yang dipantau meliputi Obligasi Berkelanjutan II Tahap I 2016 Seri E senilai Rp2,35 triliun jatuh tempo 1 Desember 2026, Obligasi Berkelanjutan II Tahap II 2017 Seri D senilai Rp1,3 triliun jatuh tempo 11 April 2027, dan Obligasi Subordinasi IV Tahun 2023 senilai Rp500 miliar jatuh tempo 6 Juli 2028. Tiga seri Obligasi Berwawasan Lingkungan Berkelanjutan I juga dipantau: Tahap I 2022 Seri C Rp500 miliar jatuh tempo 20 Juli 2027, Tahap II 2023 Seri C Rp500 miliar jatuh tempo 17 Oktober 2026, dan Tahap III 2024 Seri C Rp382,9 miliar jatuh tempo 20 Maret 2027. Adapun Obligasi Berwawasan Sosial Berkelanjutan I terdiri atas enam seri, yaitu Tahap I 2025 Seri A Rp1,56 triliun jatuh tempo Juni 2027, Seri B Rp2,11 triliun jatuh tempo Juni 2028, Seri C Rp1,33 triliun jatuh tempo Juni 2030, serta Tahap II 2026 Seri A Rp1,24 triliun jatuh tempo Maret 2027, Seri B Rp2,67 triliun jatuh tempo Maret 2029, dan Seri C Rp1,1 triliun jatuh tempo Maret 2031.",
+   "Selain obligasi, PEFINDO juga memantau Surat Berharga Komersial Berkelanjutan I Tahun 2025 dengan nilai maksimum Rp1 triliun yang tetap di peringkat idA1+, kategori tertinggi untuk efek utang jangka pendek, mencerminkan kemampuan BRI memenuhi kewajiban jangka pendeknya dinilai superior dibanding emiten Indonesia lain. Laporan pemeringkatan tahunan ini disampaikan BRI ke OJK sesuai kewajiban dalam POJK Nomor 49/2020 tentang Pemeringkatan Efek Bersifat Utang dan/atau Sukuk."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's Sudirman business district skyline with bank office towers, afternoon light, traffic on the avenue below",
+  "takeaway": "Laporan ini condong positif bagi BRI, karena PEFINDO mempertahankan peringkat tertinggi idAAA untuk hampir seluruh obligasinya dan memberi outlook Positive, sinyal bahwa lembaga pemeringkat melihat peluang perbaikan peringkat ke depan jika kinerja BRI terus terjaga. Peringkat kredit seperti ini penting karena berkaitan langsung dengan beban bunga, sebab makin tinggi peringkat sebuah obligasi, makin rendah kupon yang biasanya diminta investor, sehingga biaya dana BRI saat menerbitkan utang baru berpotensi lebih murah. Outlook Positive berbeda dari peringkat itu sendiri, ia menunjukkan arah ke depan dan biasanya jadi indikasi awal sebelum peringkat benar-benar dinaikkan pada evaluasi berikutnya. Yang perlu dipantau selanjutnya adalah jatuh tempo terdekat dari deretan surat utang ini, yakni Surat Berharga Komersial Tahap I Seri D pada 1 November 2026 dan Obligasi Berkelanjutan II Tahap I 2016 Seri E pada 1 Desember 2026, serta pemeringkatan ulang berikutnya sebelum periode rating ini berakhir pada 1 September 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bank-tanggapi-permintaan-bursa-soal-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "BANK tanggapi permintaan bursa soal [volatilitas] transaksi",
+  "deck": "Bank Aladin Syariah (BANK) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, sekaligus mengungkap rencana penerbitan sukuk pada kuartal IV 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:13:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b0e0e2b_95d9d4b0f8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BANK",
+  "tags": [
+   "BANK",
+   "UMA",
+   "Bank Aladin Syariah",
+   "Sukuk Wakalah"
+  ],
+  "body": [
+   "PT Bank Aladin Syariah Tbk (BANK) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-11325/BEI.PP3/09-2026 tertanggal 3 September 2026 terkait volatilitas transaksi saham perseroan. Dalam surat balasan bernomor S.001.CORSEC/9.2026 yang diteken Corporate Secretary Ratna Wahyuni pada 4 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan OJK soal keterbukaan informasi maupun ketentuan Bursa Efek Indonesia mengenai pergerakan harga saham tercatat.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas transaksi tertentu dari pemegang saham, sebagaimana diatur dalam ketentuan OJK tentang laporan kepemilikan saham perusahaan terbuka. Meski begitu, BANK mengonfirmasi tengah menyiapkan aksi korporasi dalam waktu dekat, yaitu Penawaran Umum Berkelanjutan Sukuk Wakalah Berkelanjutan Bank Aladin Syariah Tahap II Tahun 2026 yang ditujukan kepada pemodal profesional. Penawaran ini direncanakan berlangsung pada triwulan keempat 2026, dan rencana tersebut disebutkan sudah disampaikan lebih dulu kepada Bursa Efek Indonesia.",
+   "Selain itu, perseroan menyatakan tidak memiliki informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, serta belum mengetahui adanya rencana khusus dari pemegang saham utama terkait kepemilikan sahamnya di BANK."
+  ],
+  "fotoAdegan": "Wide shot of a modern bank office tower facade in Jakarta's financial district with commuters and cars passing below, late afternoon light.",
+  "takeaway": "Tanggapan ini condong netral bagi BANK: perseroan menyangkal punya informasi material yang menjelaskan lonjakan volatilitas harga sahamnya, dan satu-satunya aksi korporasi yang diungkap, yakni rencana penerbitan sukuk wakalah tahap kedua, adalah kelanjutan program pembiayaan yang sudah berjalan, bukan kejutan baru. Penerbitan sukuk semacam ini nantinya menambah arus kas masuk perseroan dari dana pemodal profesional, tapi di sisi lain juga menambah beban imbal hasil rutin yang harus dibayar bank ke pemegang sukuk secara berkala, semacam bunga pada produk konvensional, sehingga pelaku pasar biasa mencermati apakah tambahan dana itu sepadan dengan beban baru tersebut. Yang perlu dipantau selanjutnya adalah realisasi Penawaran Umum Berkelanjutan Sukuk Wakalah Tahap II ini pada triwulan IV 2026, termasuk besaran dana yang berhasil diserap, serta apakah Bursa Efek Indonesia masih memandang perlu pemantauan lanjutan atas transaksi saham BANK setelah penjelasan ini disampaikan.",
+  "sentimen": "netral"
  },
  {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",

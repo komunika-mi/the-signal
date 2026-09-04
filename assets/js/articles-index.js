@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMMT: Tak Ada [Informasi Material] di Balik Lonjakan Saham",
+  "deck": "Golden Eagle Energy (SMMT) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya pada 3 September 2026, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "Golden Eagle Energy",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3743ab72dd_a8c7738df0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-beber-rincian-kontrak-lrt-dan-ekspansi-ke-filipina-pubex",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Beber Rincian Kontrak LRT dan Ekspansi ke Filipina [Pubex]",
+  "deck": "Materi public expose ADHI mengungkap progres kontrak LRT Jabodebek, proyek kereta baru di Filipina senilai Rp3,9 triliun didanai ADB, dan divestasi 11 anak usaha hingga 2027.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "Public Expose",
+   "LRT Jabodebek",
+   "Ekspansi Filipina"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/70a2c68586_5b4556f7c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
+  "deck": "Ekuitas TGRA anjlok 83% jadi Rp51,4 miliar akibat rugi Rp259,5 miliar dan impairment proyek PLTA/PLTMH. Auditor menyoroti ketidakpastian kelangsungan usaha Grup.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "PLTA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef6e18c87a_4cbea9bff7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-rilis-materi-public-expose-kinerja-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Rilis Materi [Public Expose] Kinerja Semester I 2026",
+  "deck": "Telkom mengoreksi surat sebelumnya dan merilis materi Public Expose Live 2026 pada 7 September, memuat kinerja 1H26, panduan tahun ini, dan progres InfraNexia.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23b227121a_0bfb850936.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
   "category": "BUMN",
   "title": "Realisasi Pupuk Subsidi Takalar Baru [48] Persen dari Alokasi",
@@ -52,6 +116,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-perdagangan-jasa-pariwisata-kdei-taipei-gelar-misi-penjualan-paket-wisata-ke-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "safe-bei-umumkan-kepemilikan-saham-terkonsentrasi-98-14",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: BEI Umumkan Kepemilikan Saham [Terkonsentrasi] 98,14%",
+  "deck": "BEI menyatakan 98,14% saham Steady Safe Tbk (SAFE) dikuasai sejumlah kecil pemegang saham per 2 September 2026, menyisakan porsi saham beredar bebas yang sangat tipis.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Steady Safe Tbk",
+   "BEI",
+   "free float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c4bf5809_18e8c88735.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
@@ -213,6 +293,54 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6cc8c37a2_fb4d9cabfb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zata-ganti-komisaris-independen-usai-rupst",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Ganti [Komisaris Independen] Usai RUPST",
+  "deck": "PT Bersama Zatta Jaya Tbk menunjuk Slamet Pribadi sebagai komisaris independen baru menggantikan Imron Rosyadi, sementara direksi dan komisaris lain diangkat kembali usai RUPST 2 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZATA",
+   "RUPST",
+   "komisaris independen",
+   "perubahan pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bdeb45d78d_3d0a5b7f67.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbri-pefindo-tegaskan-rating-idaaa-outlook-positif",
+  "category": "Aksi Korporasi",
+  "title": "BBRI: PEFINDO Tegaskan Rating [idAAA], Outlook Positif",
+  "deck": "PEFINDO mempertahankan peringkat idAAA untuk mayoritas obligasi BRI dengan outlook positif, sinyal potensi kenaikan peringkat pada evaluasi berikutnya.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRI",
+   "PEFINDO",
+   "obligasi",
+   "rating kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a08ffca866_2553d8825b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-tanggapi-permintaan-bursa-soal-volatilitas-transaksi",
+  "category": "Aksi Korporasi",
+  "title": "BANK tanggapi permintaan bursa soal [volatilitas] transaksi",
+  "deck": "Bank Aladin Syariah (BANK) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, sekaligus mengungkap rencana penerbitan sukuk pada kuartal IV 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BANK",
+   "UMA",
+   "Bank Aladin Syariah",
+   "Sukuk Wakalah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b0e0e2b_95d9d4b0f8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6437,131 +6565,6 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0a319778c4_aebaad234a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-lagi-ajukan-penundaan-bayar-sukuk-rupsu-9-september",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Lagi] Ajukan Penundaan Bayar Sukuk, RUPSU 9 September",
-  "deck": "WIKA memanggil RUPSU untuk sukuk Berkelanjutan II Tahap I, meminta penundaan bagi hasil periode ke-20 dan ke-21 sekaligus perubahan jatuh tempo pokok.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/566d05e612_d4bfae210e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "excl-komisaris-vivek-sood-ajukan-pengunduran-diri",
-  "category": "Aksi Korporasi",
-  "title": "EXCL: Komisaris Vivek Sood Ajukan [Pengunduran Diri]",
-  "deck": "Vivek Sood mundur dari kursi Komisaris XLSMART Telecom Sejahtera, efektif setelah disetujui RUPS terdekat.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EXCL"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be42b5f638_6fe95a5f61.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mcor-ralat-rupslb-recording-date-jadi-21-agustus",
-  "category": "Aksi Korporasi",
-  "title": "MCOR Ralat RUPSLB: Recording Date Jadi [21 Agustus]",
-  "deck": "MCOR mengoreksi surat sebelumnya: pemegang saham yang berhak hadir di RUPSLB 15 September 2026 ditetapkan berdasarkan catatan kepemilikan per 21 Agustus 2026.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MCOR",
-   "RUPSLB",
-   "Bank CCB Indonesia",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/f226a7df27_a8b7e7fdf9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdln-mayoritas-pemegang-notes-setujui-skema-restrukturisasi",
-  "category": "Aksi Korporasi",
-  "title": "MDLN: Mayoritas Pemegang Notes Setujui [Skema] Restrukturisasi",
-  "deck": "PT Modernland Realty melaporkan skema restrukturisasi Notes disetujui mayoritas pemegang surat utang, tinggal menunggu persetujuan Pengadilan Tinggi Singapura.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLN",
-   "restrukturisasi utang",
-   "obligasi",
-   "Modernland Realty"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51045156a3_9694e9d2df.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "euro-rombak-komite-audit-darren-nathaniel-tandra-jadi-ketua",
-  "category": "Aksi Korporasi",
-  "title": "EURO Rombak [Komite Audit], Darren Nathaniel Tandra Jadi Ketua",
-  "deck": "Komite Audit EURO berganti ketua efektif 26 Agustus 2026: Darren Nathaniel Tandra menggantikan Andi Kurniawan Josdaan, sementara dua anggota lain tetap menjabat periode kedua.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EURO",
-   "komite audit",
-   "tata kelola perusahaan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/56d44943eb_07d4019716.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "baut-terima-pinjaman-tanpa-bunga-rp44-79-miliar-dari-naf",
-  "category": "Aksi Korporasi",
-  "title": "BAUT Terima [Pinjaman] Tanpa Bunga Rp44,79 Miliar dari NAF",
-  "deck": "Pemegang saham utama BAUT, NA Fasteners Pte Ltd, mengucurkan pinjaman US$2,5 juta tanpa bunga dan tanpa jaminan untuk modal kerja, setara 26 persen dari ekuitas perusahaan.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAUT",
-   "transaksi afiliasi",
-   "pinjaman pemegang saham",
-   "NA Fasteners"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a50fe72ee5_6da96d59ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sdmu-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "SDMU Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "SDMU menjawab surat BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada info material atau rencana aksi korporasi yang belum diungkap.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SDMU",
-   "Sidomulyo Selaras",
-   "BEI",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/be24f14895_86d598a021.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-jadwalkan-public-expose-insidentil-pada-28-agustus",
-  "category": "Aksi Korporasi",
-  "title": "CSMI Jadwalkan Public Expose [Insidentil] pada 28 Agustus",
-  "deck": "PT Cipta Selera Murni Tbk (CSMI) menggelar public expose insidentil secara daring pada 28 Agustus 2026, membahas kinerja keuangan, rencana bisnis, dan pergerakan harga sahamnya.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "public expose",
-   "pergerakan saham",
-   "Cipta Selera Murni"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c24680a3f9_07d1cf76ad.pdf",
   "sourceLabel": "IDX"
  }
 ];

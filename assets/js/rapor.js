@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-04T00:59:15.476+07:00",
+ "diperbarui": "2026-09-05T00:43:48.149+07:00",
  "entri": [
+  {
+   "id": "2026-09-04-3",
+   "edisi": "2026-09-04",
+   "benang": "Kas dan solvabilitas emiten kecil mulai retak",
+   "klaim": "Arah tekanan solvabilitas pada emiten-emiten kecil seperti TGRA, INCF, PEVE, dan BATR sudah cukup jelas dan berpotensi berlanjut.",
+   "penanda": "Apakah INCF dan PEVE mendapat suntikan dana atau restrukturisasi utang sebelum laporan keuangan kuartal III terbit",
+   "tenggat": null,
+   "tenggatLabel": "sebelum laporan keuangan kuartal III terbit",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-04-2",
+   "edisi": "2026-09-04",
+   "benang": "Saham beredar bebas terus menyempit",
+   "klaim": "Porsi saham publik yang beredar bebas di sejumlah emiten kecil hingga menengah terus mengecil lewat mekanisme tender offer, seperti terlihat pada PNGO, SAFE, SUPR, dan EDGE.",
+   "penanda": "Kepastian jadwal dan jumlah refloat PNGO, atau tuntasnya proses delisting EDGE",
+   "tenggat": null,
+   "tenggatLabel": "kepastian jadwal dan jumlah refloat PNGO, atau tuntasnya proses delisting EDGE",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-04-1",
+   "edisi": "2026-09-04",
+   "benang": "Margin dan pendanaan bank mulai terasa tertekan",
+   "klaim": "Tekanan pendanaan perbankan sedang meluas ke banyak bank, bukan cuma isu satu bank, seperti terlihat dari susutnya margin bunga bersih BBCA dan menyusutnya aset serta simpanan nasabah di entitas induk Bank Jatim.",
+   "penanda": "Data pertumbuhan kredit dan dana pihak ketiga perbankan nasional pada rilis BI berikutnya",
+   "tenggat": null,
+   "tenggatLabel": "rilis BI berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-03-3",
    "edisi": "2026-09-03",

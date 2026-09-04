@@ -2142,6 +2142,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cara-aman-atur-tenor-pinjaman-online-berbunga-rendah",
+  "category": "Perbankan",
+  "title": "Cara Aman Atur Tenor [Pinjaman Online] Berbunga Rendah",
+  "deck": "Memilih tenor pinjaman online bukan sekadar soal cicilan ringan, tapi soal total bunga yang harus dibayar sampai lunas.",
+  "date": "2 September 2026",
+  "image": "assets/img/cara-aman-atur-tenor-pinjaman-online-berbunga-rendah.jpg",
+  "imageV": "mtnd9b4y",
+  "tags": [
+   "pinjaman online",
+   "fintech lending",
+   "keuangan pribadi",
+   "OJK"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464473-6-cara-atur-tenor-panjang-pinjaman-online-bunga-rendah-agar-tetap-aman"
+ },
+ {
   "slug": "adcp-menang-pengadilan-tolak-pkpu-dari-burda-contraco",
   "category": "Aksi Korporasi",
   "title": "ADCP [menang]: pengadilan tolak PKPU dari Burda Contraco",
@@ -6552,23 +6569,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ikut-buka-irse-2026-mendag-busan-teknologi-tingkatkan-pengalaman-belanja-konsumen",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa",
-  "category": "Energi",
-  "title": "ESDM Kirim [48] Genset ke Tujuh Kabupaten NTT Terdampak Gempa",
-  "deck": "Kementerian ESDM mengirim 48 genset untuk fasilitas kesehatan darurat di tujuh kabupaten NTT yang terdampak gempa dan tsunami, sembari mendirikan sekitar 30 posko tanggap darurat.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/esdm-kirim-48-genset-ke-tujuh-kabupaten-ntt-terdampak-gempa.jpg",
-  "imageV": "mtcquqmb",
-  "tags": [
-   "ESDM",
-   "gempa NTT",
-   "genset",
-   "tanggap darurat"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dukungan-esdm-terus-mengalir-ke-ntt-48-genset-disiapkan-untuk-fasilitas-kesehatan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

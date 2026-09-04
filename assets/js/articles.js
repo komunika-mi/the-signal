@@ -3456,6 +3456,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "cara-aman-atur-tenor-pinjaman-online-berbunga-rendah",
+  "category": "Perbankan",
+  "title": "Cara Aman Atur Tenor [Pinjaman Online] Berbunga Rendah",
+  "deck": "Memilih tenor pinjaman online bukan sekadar soal cicilan ringan, tapi soal total bunga yang harus dibayar sampai lunas.",
+  "image": "assets/img/cara-aman-atur-tenor-pinjaman-online-berbunga-rendah.jpg",
+  "date": "2 September 2026",
+  "isoDate": "2026-09-02T20:11:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/464473-6-cara-atur-tenor-panjang-pinjaman-online-bunga-rendah-agar-tetap-aman",
+  "tags": [
+   "pinjaman online",
+   "fintech lending",
+   "keuangan pribadi",
+   "OJK"
+  ],
+  "body": [
+   "Pinjaman online kian diminati karena proses cepat dan syarat yang mudah. Namun memilih tenor panjang dengan bunga rendah tetap perlu kehati-hatian, sebab godaan mengambil cicilan bulanan sekecil mungkin bisa berujung pada beban utang yang membengkak di kemudian hari.",
+   "Langkah pertama adalah menyesuaikan tenor dengan sisa penghasilan setelah kebutuhan pokok bulanan terpenuhi, bukan mengambil limit pinjaman maksimal yang ditawarkan penyedia. Limit yang disetujui platform sebenarnya tidak wajib diambil penuh, sehingga peminjam bisa mengajukan jumlah pinjaman sesuai kemampuan bayar agar tenor panjang tidak menekan keuangan bulanan.",
+   "Langkah kedua, bandingkan total biaya yang harus dibayar sampai lunas untuk beberapa pilihan tenor. Cicilan bulanan yang lebih ringan pada tenor panjang berarti bunga dibebankan dalam jangka waktu lebih lama, sehingga total bunga yang terbayar bisa lebih besar dibanding tenor pendek. Sebagai gambaran, platform seperti Tunaiku menyediakan pilihan tenor dari 6 hingga 30 bulan, sehingga peminjam bisa menguji beberapa skenario pembayaran sebelum menentukan pilihan yang paling efisien."
+  ],
+  "fotoAdegan": "Hands using a calculator and pen over a notebook filled with loan repayment figures, a smartphone lying face down nearby, warm home lighting.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a981f6230c69-ilustrasi-pinjaman-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang perlu digarisbawahi dari panduan ini bukan aturan baru, melainkan cara menghitung yang benar: tenor pinjaman online sebaiknya dinilai dari total bunga yang terbayar sampai lunas, bukan hanya dari besar cicilan bulanan. Pihak yang paling perlu berhati-hati adalah peminjam dengan penghasilan pas-pasan setelah kebutuhan pokok, karena tenor panjang membuat bunga menumpuk lebih lama meski angsuran per bulan terasa ringan. Simulasi semacam ini baru mencontohkan satu platform dengan rentang tenor 6 sampai 30 bulan, sehingga yang masih kurang bagi pembaca adalah membandingkan bunga efektif antar penyedia pinjaman online legal berizin OJK sebelum memutuskan tenor mana yang sebenarnya paling murah secara total.",
+  "imageV": "mtnd9b4y"
+ },
+ {
   "slug": "adcp-menang-pengadilan-tolak-pkpu-dari-burda-contraco",
   "category": "Aksi Korporasi",
   "title": "ADCP [menang]: pengadilan tolak PKPU dari Burda Contraco",

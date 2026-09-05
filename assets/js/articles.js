@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
+  "deck": "Auditor menyatakan ketidakpastian material atas kelangsungan usaha MKNT, dengan defisiensi ekuitas Rp9,14 miliar dan kas tersisa hanya Rp1,13 juta per akhir Maret 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T22:34:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905224932-64352-0/FinancialStatement-2026-I-MKNT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "kelangsungan usaha",
+   "laporan keuangan",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT), yang sahamnya berstatus Pemantauan Khusus di Bursa Efek Indonesia, menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode tiga bulan yang berakhir 31 Maret 2026 kepada OJK. Auditor independen KAP Gideon Adi dan Rekan, dengan partner penandatangan Gideon Adi Siallagan, memberi opini wajar tanpa modifikasian, tetapi menyertakan paragraf penekanan bahwa ada ketidakpastian material atas kelangsungan usaha perusahaan. Per akhir Maret 2026, Grup mencatat defisit akumulasi Rp153,61 miliar dan defisiensi ekuitas Rp9,14 miliar, sementara liabilitas jangka pendek melebihi aset lancar sebesar Rp831,92 miliar.",
+   "Kas dan setara kas Grup turun dari Rp4,35 juta pada akhir Desember 2025 menjadi hanya Rp1,13 juta pada akhir Maret 2026, jumlah yang sangat kecil dibanding total aset perusahaan sebesar Rp826,09 miliar. Hampir seluruh aset itu, tepatnya 99,62 persen atau Rp822,93 miliar, berbentuk uang muka penyertaan saham yang oleh auditor dijadikan hal audit utama. Uang muka ini berasal dari perjanjian pengikatan jual beli saham dengan pihak ketiga yang dokumen legal dan pemenuhan syarat regulasinya belum rampung, sehingga kepastian pencairannya masih bergantung pada penyelesaian proses tersebut. Di sisi liabilitas, utang lainnya kepada pihak ketiga naik dari Rp828,47 miliar menjadi Rp828,89 miliar dalam tiga bulan.",
+   "Laporan ini secara eksplisit disebut hanya untuk dilampirkan dalam prospektus terkait rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), yaitu mekanisme penerbitan saham baru tanpa menawarkan lebih dulu ke pemegang saham lama, yang sebelumnya dipakai MKNT mengonversi sebagian utang menjadi saham. Auditor juga menyoroti piutang lain-lain neto sebesar Rp2,49 miliar, yang berasal dari piutang kotor Rp44,61 miliar dikurangi cadangan kerugian kredit ekspektasian Rp42,13 miliar, artinya sebagian besar tagihan itu sudah dianggap kemungkinan besar tidak akan tertagih."
+  ],
+  "fotoAdegan": "Empty rows of steel shelving in a dim consumer electronics warehouse, a few unopened cardboard boxes stacked in one corner",
+  "takeaway": "Laporan koreksi ini condong negatif bagi pemegang saham MKNT, karena auditor independen sendiri menyebut ada ketidakpastian material atas kelangsungan usaha perusahaan, bukan sekadar catatan administratif. Yang tersentuh adalah ekuitas perusahaan yang minus alias kewajiban sudah melebihi aset bersihnya, ditambah posisi kas yang nyaris kosong sehingga kemampuan membayar kewajiban jangka pendek sangat terbatas, sementara aset terbesarnya, uang muka pembelian saham senilai Rp822,93 miliar, bukan uang tunai yang bisa langsung dipakai melainkan tagihan yang pencairannya masih bergantung pada kelengkapan dokumen hukum dan izin. Yang perlu dipantau berikutnya adalah penyelesaian perjanjian jual beli saham pihak ketiga yang mendasari uang muka tersebut, serta kelanjutan proses penambahan modal tanpa hak memesan efek terlebih dahulu yang menurut laporan sebelumnya dipakai mengonversi utang menjadi saham. Laporan keuangan berikutnya akan jadi ukuran apakah defisiensi ekuitas dan keraguan atas kelangsungan usaha ini membaik atau justru melebar.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het",
   "category": "Makroekonomi",
   "title": "Tinjau Pasar Solo, Wamendag: Beras dan Gula [Masih] di Atas HET",
@@ -617,6 +643,32 @@ var ARTICLES = [
   "fotoAdegan": "Empty stock brokerage office with rows of desks and softly blurred, unreadable monitor glow, dim evening light",
   "takeaway": "Laporan ini condong negatif bagi TESTSBKD, karena suspensi dagang akibat opini disclaimer dua tahun beruntun menandakan auditor sendiri tidak bisa memastikan angka-angka di laporan keuangan perusahaan itu benar. Yang tersentuh langsung adalah kepercayaan atas seluruh pos kinerja, mulai dari ekuitas, arus kas, sampai laba, sebab tanpa opini audit yang jelas pelaku pasar tidak punya pegangan untuk menilai kesehatan keuangan perusahaan secara wajar. Investor yang sudah memegang saham ini juga langsung merasakan dampak nyata karena sahamnya untuk sementara tidak bisa dijual atau dibeli di bursa. Yang perlu dipantau berikutnya adalah penjelasan resmi dari manajemen TESTSBKD kepada bursa soal penyebab opini disclaimer tersebut serta rencana perbaikannya, karena itulah yang akan menentukan kapan suspensi per 4 September 2026 ini bisa dicabut.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "winr-pemegang-saham-lepas-20-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 20 Juta Saham demi [Free Float]",
+  "deck": "Pemenang Nusantara Internasional melepas 20 juta saham WINR seharga Rp20 per lembar untuk menambah porsi saham beredar bebas (free float).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T20:26:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8961-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pemegang saham"
+  ],
+  "body": [
+   "Pemenang Nusantara Internasional, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan anggota direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan perubahan kepemilikan sahamnya pada 4 September 2026. Sebelum transaksi, pelapor berkewarganegaraan Indonesia ini memegang 2.518.476.700 saham WINR dengan hak suara 48,11 persen. Setelah transaksi, kepemilikannya turun menjadi 2.498.476.700 saham dengan hak suara 47,72 persen.",
+   "Perubahan itu berasal dari penjualan langsung 20.000.000 saham biasa pada 1 September 2026 dengan harga Rp20 per saham, atau senilai sekitar Rp400 juta. Transaksi ini bukan bagian dari perjanjian pembelian kembali (repurchase agreement), dan tujuannya secara eksplisit disebutkan dalam dokumen sebagai menambah saham free float, yakni porsi saham yang beredar bebas dan bisa diperdagangkan publik di luar genggaman pemegang saham besar.",
+   "Laporan ini menyusul dua laporan serupa dari pemegang saham WINR lainnya pada 29 dan 30 Agustus 2026, yang masing-masing melepas 16,49 juta dan 16,25 juta saham dengan tujuan yang sama, yakni menambah free float."
+  ],
+  "fotoAdegan": "Wide shot of glass office towers in Jakarta's financial district at late afternoon, hazy skyline, busy street below",
+  "takeaway": "Laporan ini netral bagi WINR, sebab 20 juta saham yang dilepas hanya sekitar 0,79 persen dari kepemilikan pelapor sendiri, dan hak suaranya cuma turun tipis dari 48,11 persen ke 47,72 persen, jadi terlalu kecil untuk dibaca sebagai sinyal perubahan sikap terhadap perusahaan. Yang tersentuh adalah porsi saham beredar bebas alias free float, yakni saham yang bisa diperjualbelikan publik di luar genggaman pemegang saham besar, dan pelaku pasar memperhatikannya karena free float yang lebih besar biasanya membuat saham lebih mudah ditransaksikan investor ritel. Ini juga laporan ketiga dengan tujuan serupa dari WINR dalam sepekan terakhir, sehingga jumlah saham yang dilepas ke publik dari beberapa pemegang saham sudah terakumulasi cukup besar meski tiap transaksi sendiri kecil. Yang perlu dipantau berikutnya adalah apakah pola pelepasan saham kecil ini berlanjut dari pemegang saham lain, serta kelanjutan rencana WINR menaikkan kepemilikan di Laxo Global Akses dari 8,5 persen menjadi 90 persen yang sebelumnya sudah diumumkan.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya",
@@ -1988,6 +2040,59 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "csis-revisi-laporan-dana-rights-issue-baru-5-33-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Revisi Laporan Dana Rights Issue, Baru [5,33%] Terealisasi",
+  "deck": "PT Cahayasakti Investindo Sukses Tbk merevisi laporan realisasi dana rights issue Rp196,7 miliar per Juni 2026, baru 5,33 persen terpakai untuk proyek infrastruktur di kawasan industri Cikembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:33:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d36fc6e9c0_1a421b3c8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CSIS",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "realisasi penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Cahayasakti Investindo Sukses Tbk (CSIS) menyampaikan revisi atas laporan realisasi penggunaan dana hasil penawaran umum bernomor 060/DIRUT-CSIS/EKS/VII/2026 tanggal 15 Juli 2026. Revisi bernomor 069/DIRUT-CSIS/EKS/IX/2026 ini memuat perkembangan penggunaan dana hasil rights issue per posisi 30 Juni 2026, ditandatangani Direktur Utama Tjoea Aubintoro di Bogor pada 4 September 2026 dan dikirim kepada Otoritas Jasa Keuangan.",
+   "Rights issue CSIS-R yang efektif 11 Desember 2025 menghasilkan dana kotor Rp198.664.000.000. Setelah dipotong biaya penawaran umum Rp1.932.968.726, antara lain biaya jasa penilai publik Rp305 juta, biaya konsultan hukum Rp255 juta, dan biaya lain-lain Rp974 juta, dana bersih yang diterima perseroan adalah Rp196.731.031.274. Dana ini rencananya dipakai untuk lima pos: infrastruktur Kawasan Industri Cikembar (KIC) Rp93 miliar atau 47,27 persen, pembebasan lahan Rp83,7 miliar atau 42,54 persen, infrastruktur Panenjoan Rp10 miliar atau 5,08 persen, pembangunan gudang KIS Rp7 miliar atau 3,56 persen, dan operasional kantor Rp3,04 miliar atau 1,54 persen.",
+   "Sampai akhir Juni 2026, realisasi penggunaan dana baru mencapai Rp10.493.693.000 atau 5,33 persen dari total, dan semuanya masuk pos infrastruktur KIC untuk lima pekerjaan: jalan beton tahap II di area Gate 3 dan bundaran menuju perempatan Gracia senilai Rp2,17 miliar, jalan beton tahap 1 seluas 3.000 meter persegi di area depan Hungfu hingga perempatan Gracia senilai Rp1,09 miliar, pekerjaan cut and fill blok K-N1 senilai Rp2,01 miliar, cut and fill blok N1 tahap 2 senilai Rp3,21 miliar, dan pemasangan sheetpile W350 sepanjang 266 meter senilai Rp2,02 miliar. Empat pos lain, yaitu pembebasan lahan, infrastruktur Panenjoan, pembangunan gudang KIS, dan operasional kantor, realisasinya masih nol rupiah. Sisa dana Rp186.237.338.274 atau 94,67 persen dari total kini disimpan dalam bentuk giro di IBK Bank Indonesia, dengan Rp184.204.725.987 atas nama PT Cahayasakti Investindo Sukses Tbk berbunga 0,1 persen per tahun, dan Rp2.032.612.287 atas nama pihak tidak berafiliasi, PT Bogorindo Cemerlang, berbunga 3 persen per tahun.",
+   "Perseroan menjelaskan bahwa keterlambatan realisasi ini terjadi karena dana hasil rights issue baru bisa dipakai sejak Mei 2026, mundur dari rencana awal Desember 2025, setelah mendapat persetujuan Rapat Umum Pemegang Saham Independen. Perseroan juga menyebut turut mempertimbangkan kondisi makroekonomi dan dinamika industri dalam menentukan waktu penggunaan dana agar optimal. Batas akhir penggunaan seluruh dana ditetapkan hingga Desember 2028."
+  ],
+  "fotoAdegan": "Excavators and dump trucks grading red soil at an industrial estate construction site, workers in hard hats, overcast West Java sky.",
+  "takeaway": "Laporan ini condong netral bagi fundamental CSIS: tidak ada perubahan jumlah saham beredar atau tambahan utang, tapi datanya menunjukkan baru 5,33 persen dari Rp196,7 miliar dana rights issue yang benar-benar dipakai per akhir Juni 2026, sementara porsi terbesar sisanya diparkir sebagai giro berbunga sangat rendah, hanya 0,1 persen per tahun. Yang tersentuh di sini adalah arus kas perusahaan, yakni seberapa produktif dana yang sudah disetor pemegang saham lewat rights issue benar-benar bekerja untuk kegiatan riil seperti pembangunan infrastruktur dan pembebasan lahan, bukan sekadar mengendap di bank dengan imbal hasil minim. Perseroan beralasan keterlambatan ini karena dana baru bisa dipakai sejak Mei 2026 setelah mendapat persetujuan RUPS Independen, sehingga jadwalnya mundur dari rencana awal Desember 2025. Yang perlu dipantau berikutnya adalah laporan realisasi periode mendatang, untuk melihat apakah empat pos yang masih nol, terutama pembebasan lahan senilai Rp83,7 miliar, mulai bergerak, mengingat perseroan punya batas waktu hingga Desember 2028 untuk menghabiskan seluruh dana tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ufoe-bantah-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UFOE Bantah Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "PT Damai Sejahtera Abadi Tbk merespons permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:30:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cc2894bf9_d2a21732a8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UFOE",
+  "tags": [
+   "UFOE",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Damai Sejahtera Abadi Tbk (UFOE) mengirimkan surat penjelasan resmi kepada Bursa Efek Indonesia menanggapi permintaan klarifikasi bernomor S-11330/BEI.PP1/09-2026 tertanggal 3 September 2026 terkait volatilitas transaksi efek perusahaan. Tanggapan perusahaan tertuang dalam surat nomor 01/Corsec-DSA/IX/2026 tertanggal 4 September 2026, ditandatangani oleh Tedy Suronoto selaku Corporate Secretary, dan dilaporkan ke sistem keterbukaan informasi bursa oleh Cindy Harianto Poedji yang menjabat Manager di perusahaan tersebut.",
+   "Dalam surat itu, manajemen UFOE menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi emiten maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perusahaan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham, termasuk aktivitas penjaminan saham. Selain itu, UFOE menegaskan belum memiliki rencana tindakan korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan ke depan, serta tidak memiliki informasi penting lain yang material dan belum diungkapkan ke publik.",
+   "Terkait rencana pemegang saham utama, manajemen menyebutkan telah berkomunikasi langsung dengan pemegang saham utama perusahaan. Berdasarkan komunikasi tersebut, tidak ada rencana perubahan kepemilikan saham utama dalam waktu dekat. Perusahaan berjanji akan menyampaikan keterbukaan informasi sesuai ketentuan yang berlaku apabila di kemudian hari terjadi perubahan kepemilikan tersebut."
+  ],
+  "fotoAdegan": "Warehouse shelves stocked with boxed home electronics, a worker scanning inventory with a handheld device, fluorescent lighting",
+  "takeaway": "Surat ini condong netral bagi UFOE karena isinya murni bantahan dan konfirmasi status quo, tanpa satu pun angka atau fakta baru yang mengubah gambaran perusahaan. Tidak ada pos kinerja yang tersentuh di sini, bukan ekuitas atau modal perusahaan, bukan arus kas, bukan beban bunga, bukan jumlah saham beredar, dan bukan laba per saham, sehingga volatilitas transaksi yang memicu surat ini lebih mencerminkan gejolak di pasar atau spekulasi pelaku transaksi ketimbang perubahan fundamental di tubuh perusahaan. Pelaku pasar tetap memperhatikan surat semacam ini karena berfungsi sebagai jaminan bahwa tidak ada informasi orang dalam yang disembunyikan saat harga saham bergerak tidak biasa. Yang perlu dipantau selanjutnya adalah konsistensi pernyataan ini, yakni apakah UFOE benar tidak mengambil tindakan korporasi hingga sekitar awal Desember 2026 sesuai jendela tiga bulan yang disebutkan, dan apakah pemegang saham utama benar tidak mengubah kepemilikannya seperti yang dijanjikan akan diungkap jika terjadi perubahan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
   "category": "Ketenagakerjaan",
   "title": "Magang Nasional Buka Lagi, Kuota [50 Ribu] Peserta",
@@ -2227,6 +2332,84 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "bull-cetak-laba-us-58-4-juta-opini-auditor-tetap-dikecualikan",
+  "category": "Aksi Korporasi",
+  "title": "BULL cetak laba US$58,4 juta, opini auditor tetap [dikecualikan]",
+  "deck": "Buana Lintas Lautan (BULL) membukukan laba US$58,4 juta pada semester I 2026 dan aset naik 25 persen, namun auditor tetap memberi opini wajar dengan pengecualian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T09:38:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904095023-64163-0/FinancialStatement-2026-II-BULL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BULL",
+  "tags": [
+   "BULL",
+   "laporan keuangan",
+   "opini audit",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Buana Lintas Lautan Tbk (BULL) melaporkan laporan keuangan konsolidasian interim auditan untuk enam bulan yang berakhir 30 Juni 2026. Grup membukukan laba US$58.412.062 pada periode ini, jauh lebih tinggi dibanding laba US$6.958.337 pada semester I 2025, sehingga defisit akumulasi perusahaan berkurang dari US$217.923.482 menjadi US$158.163.265. Total aset naik 25,02 persen dari US$369.007.328 pada akhir 2025 menjadi US$461.338.663 pada 30 Juni 2026, sementara total liabilitas naik 20,36 persen menjadi sekitar US$199,49 juta. Perusahaan menyebut kenaikan aset terutama berasal dari arus kas operasi, penambahan armada kapal yang sudah diserahterimakan maupun yang baru dibayar uang muka, serta investasi baru di lini jasa dan infrastruktur lepas pantai senilai US$51,86 juta.",
+   "Auditor KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan, dengan partner penandatangan Bambang Subagyo, kembali memberikan opini wajar dengan pengecualian atas laporan ini. Dasarnya adalah piutang dalam rekonsiliasi neto sebesar US$7.968.000 kepada lima kreditur lembaga keuangan non-bank, yang timbul dari selisih antara hasil pelepasan kapal jaminan oleh kreditur dengan saldo pinjaman anak usaha BULL. Auditor menyatakan tidak bisa memastikan kelengkapan dan keakuratan nilai piutang tersebut karena belum ada rekonsiliasi final dengan kelima kreditur itu. Auditor juga mencantumkan catatan tambahan bahwa liabilitas jangka pendek Grup melebihi total aset lancarnya sebesar US$6.751.026, kondisi yang bersama hal lain menimbulkan ketidakpastian material atas kemampuan Grup melanjutkan kelangsungan usaha, meski opini auditor tidak dimodifikasi khusus untuk hal ini.",
+   "Dalam surat penjelasan terpisah kepada Bursa Efek Indonesia, manajemen BULL menyebut pendapatan usaha semester I 2026 tumbuh 84,02 persen dibanding periode sama tahun lalu, seiring realisasi tiga dari empat pilar strategi usaha yaitu ekspansi armada kapal tanker minyak, kapal tanker LNG, dan pengembangan jasa infrastruktur lepas pantai. Arus kas neto dari aktivitas operasi naik menjadi US$31.700.256 dari US$8.223.603 setahun sebelumnya, sementara kas dan setara kas akhir periode mencapai US$18.849.632 dibanding US$5.327.209 di awal tahun. Ekspansi armada ini turut didanai pinjaman jangka panjang baru sebesar US$55.949.560, sehingga rasio utang terhadap ekuitas perusahaan naik tipis dari 56,21 persen pada akhir 2025 menjadi 59,65 persen pada 30 Juni 2026."
+  ],
+  "fotoAdegan": "Oil tanker ship docked at a busy Indonesian port, cargo cranes in the background, overcast morning light, wide angle",
+  "takeaway": "Laporan ini condong positif bagi kinerja fundamental BULL karena laba melonjak tajam dan pendapatan usaha tumbuh 84 persen, meski auditor tetap memberi opini wajar dengan pengecualian dan mencantumkan catatan ketidakpastian soal kelangsungan usaha. Yang tersentuh adalah ekuitas dan arus kas, dua ukuran yang biasa dipakai investor menilai kesehatan keuangan perusahaan: ekuitas naik dari US$203,3 juta menjadi US$261,9 juta dalam enam bulan berkat laba yang terus mengikis defisit lama, dan arus kas dari operasi, yaitu uang tunai riil yang masuk dari kegiatan usaha sehari-hari, melonjak jadi US$31,7 juta dari US$8,2 juta, tanda bisnis inti benar-benar menghasilkan kas, bukan sekadar laba di atas kertas. Namun rasio utang terhadap modal naik tipis ke 59,65 persen karena ekspansi armada banyak dibiayai pinjaman, dan liabilitas jangka pendek perusahaan masih lebih besar US$6,75 juta dibanding aset lancarnya, yang jadi dasar auditor mencantumkan catatan kelangsungan usaha tadi. Yang perlu dipantau berikutnya adalah penyelesaian sengketa piutang senilai US$7,97 juta dengan lima kreditur lembaga keuangan non-bank terkait pelepasan kapal jaminan, sebab selama itu belum tuntas, opini auditor kemungkinan tetap berstatus wajar dengan pengecualian pada laporan-laporan berikutnya, termasuk laporan tahunan penuh 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "wskt-rupo-setujui-restrukturisasi-obligasi-hingga-2034",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: RUPO Setujui [Restrukturisasi] Obligasi hingga 2034",
+  "deck": "Pemegang obligasi Waskita Karya menyetujui restrukturisasi Obligasi Berkelanjutan III Tahap IV 2019, termasuk perpanjangan tenor hingga 2034 dan penurunan kupon menjadi 5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T09:01:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f76b4496a8_72773d4bad.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "RUPO"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk menggelar Rapat Umum Pemegang Obligasi (RUPO) pada 3 September 2026 untuk membahas restrukturisasi Obligasi Berkelanjutan III Waskita Karya Tahap IV Tahun 2019. Sesuai Perjanjian Perwaliamanatan Akta No. 53 tanggal 26 April 2019 di hadapan notaris Fathiah Helmi, keputusan yang sah memerlukan persetujuan minimal 75 persen dari pemegang obligasi yang hadir. Hasil pemungutan suara menunjukkan 97,14 persen pemegang obligasi yang hadir menyetujui penjelasan gagal bayar dan usulan restrukturisasi, sementara 2,86 persen menolak. Dengan kuorum terpenuhi, RUPO resmi menyetujui seluruh usulan restrukturisasi.",
+   "Ada enam poin utama yang disetujui. Pertama, jatuh tempo obligasi diperpanjang hingga 31 Desember 2034. Kedua, kupon diturunkan menjadi 5 persen per tahun setelah perubahan perjanjian berlaku efektif. Ketiga, selama masa peralihan, bunga ditetapkan 9,75 persen sejak tanggal emisi hingga 16 Mei 2024, lalu turun menjadi 5 persen sejak 17 Mei 2024 sampai perubahan perjanjian berlaku efektif. Keempat, denda akibat gagal bayar atau keterlambatan pembayaran dihapuskan. Kelima, perjanjian menambahkan sejumlah klausul baru, antara lain kewajiban Waskita menyediakan dana pembayaran paling lambat satu hari kerja sebelum jatuh tempo, kewajiban melaporkan rencana dan realisasi divestasi aset ruas tol atau saham perusahaan jalan tol kepada wali amanat, syarat rasio kemampuan membayar bunga minimal 1,00 kali mulai tahun buku 2027, serta jaminan bahwa anggaran perusahaan sudah mencakup seluruh kewajiban yang jatuh tempo dalam 12 bulan ke depan. Keenam, RUPO mengesampingkan seluruh kelalaian atau gagal bayar yang terjadi sebelum perubahan perjanjian ini berlaku efektif.",
+   "Restrukturisasi ini melanjutkan proses perbaikan struktur keuangan Waskita yang sebelumnya juga menuntaskan Master Restructuring Agreement bersama 21 bank. Direktur Keuangan Waskita Karya, Wiwi Suprihatno, menyebutkan sejak akhir 2023 perusahaan telah menurunkan total utang 20,8 persen, dari sekitar Rp84 triliun menjadi Rp66,5 triliun. Utang ke vendor yang telah lewat jatuh tempo juga turun 97,1 persen menjadi Rp48 miliar per semester I 2026 dari sebelumnya Rp2,13 triliun pada 2022, sementara seluruh utang pajak yang lewat jatuh tempo telah lunas sejak 2024. Pada semester I 2026, pendapatan usaha Waskita tercatat Rp4,92 triliun, naik 58,49 persen dibanding periode sama tahun sebelumnya, didorong proyek Sekolah Rakyat dan jaringan irigasi Kementerian Pekerjaan Umum, dengan nilai kontrak baru hingga Juni 2026 mencapai Rp5,1 triliun."
+  ],
+  "fotoAdegan": "Aerial view of an elevated toll road construction site with concrete pillars and cranes under an overcast sky in Indonesia",
+  "takeaway": "Restrukturisasi ini condong positif bagi kondisi keuangan Waskita, karena bunga utang yang tadinya 9,75 persen turun menjadi 5 persen dan jatuh tempo mundur hingga 2034, sementara seluruh denda dan catatan gagal bayar sebelumnya dihapuskan sekaligus. Yang tersentuh langsung adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utangnya, yang otomatis mengecil dan meringankan laporan laba rugi, sementara arus kas, yaitu uang tunai yang keluar masuk perusahaan, juga lebih longgar karena kewajiban melunasi pokok utang tertunda bertahun tahun. Di sisi lain, persetujuan ini juga menegaskan bahwa Waskita sempat gagal memenuhi kewajiban pembayaran sesuai jadwal awal, sehingga kemampuan perusahaan menjaga arus kasnya ke depan tetap perlu dicermati. Yang perlu dipantau berikutnya adalah tanggal efektif perubahan perjanjian perwaliamanatan yang belum diumumkan, serta syarat rasio kemampuan bayar bunga minimal 1,00 kali yang mulai berlaku sejak tahun buku 2027. Perusahaan juga menyebut peluang pencabutan suspensi saham WSKT semakin terbuka setelah RUPO ini, sehingga keputusan bursa soal status saham tersebut layak ditunggu.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmri-bagikan-dividen-interim-rp66-per-saham-rp6-16-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI bagikan [dividen] interim Rp66 per saham, Rp6,16 triliun",
+  "deck": "Bank Mandiri akan membagikan dividen interim Rp66 per saham untuk tahun buku 2026, senilai sekitar Rp6,16 triliun. Jadwal pembayaran menyusul.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T08:43:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69c58eb3ee_21bddc12c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "dividen interim",
+   "Bank Mandiri",
+   "perbankan"
+  ],
+  "body": [
+   "Bank Mandiri (BMRI) mengumumkan pembagian dividen interim untuk tahun buku 2026 setelah keputusan Direksi disetujui Dewan Komisaris pada 3 September 2026. Dividen ditetapkan sebesar Rp66 per saham, atau senilai kisaran Rp6,16 triliun, dihitung dari total saham beredar perseroan sebanyak 93.333.333.332 lembar.",
+   "Perseroan menyatakan jadwal pembagian dividen interim ini akan diumumkan secara terpisah, mengikuti ketentuan Surat Keputusan Direksi Bursa Efek Indonesia No. Kep-00077/01-2021 tentang pelaksanaan pembagian dividen saham, saham bonus, dan dividen interim. Jadwal itu nantinya memuat tanggal cum dividen, ex dividen, serta tanggal pembayaran kepada pemegang saham.",
+   "Dalam laporan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, Corporate Secretary Bank Mandiri Adhika Vista menyatakan pembagian dividen interim ini tidak memberikan dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Customers queuing at a modern bank branch counter in Jakarta, tellers assisting them, bright interior lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi Bank Mandiri, karena menunjukkan bank memiliki laba dan kas yang cukup kuat untuk membagikan Rp6,16 triliun kepada pemegang saham tanpa menunggu rapat tahunan. Yang tersentuh adalah ekuitas, yaitu total modal sendiri perseroan di neraca, sebab setiap rupiah dividen yang dibagikan mengurangi laba ditahan yang seharusnya menambah modal, dan pelaku pasar bank biasanya memeriksa apakah pengurangan ini masih wajar dibanding modal bank yang mencapai ratusan triliun rupiah, mengingat bank butuh modal tebal untuk menyerap risiko kredit. Perseroan sendiri menegaskan pembagian ini tidak berdampak material terhadap kondisi keuangannya, sehingga besarannya tergolong wajar untuk ukuran Bank Mandiri. Yang perlu dipantau berikutnya adalah pengumuman jadwal resmi pembagian dividen ini, termasuk tanggal cum dividen dan tanggal pembayaran, yang menurut laporan akan menyusul sesuai aturan Bursa Efek Indonesia.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih",
   "category": "BUMN",
   "title": "RI-Rusia Jajaki [Pabrik] Pupuk Urea dan Kapal Canggih",
@@ -2252,6 +2435,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret baru sebatas penandatanganan studi bersama, bukan keputusan investasi. Pupuk Indonesia dan Danantara baru menjajaki kemungkinan membangun pabrik urea di Vladivostok, sementara tawaran kapal pengolah ikan dari Rusia juga masih sebatas penawaran tanpa nilai transaksi yang disebutkan. Pihak yang berkepentingan adalah Pupuk Indonesia sebagai BUMN pupuk, Danantara selaku pengelola investasi negara, dan pelaku usaha perikanan bila kapal itu benar direalisasikan. Yang masih kurang untuk membaca arah kerja sama ini adalah nilai investasi, kapasitas pabrik, dan tenggat waktu studi tersebut rampung, jadi baru bisa dinilai lebih jauh setelah salah satu rencana ini naik status menjadi kesepakatan resmi.",
   "imageV": "mtmk00rv"
+ },
+ {
+  "slug": "jawa-tak-ada-informasi-material-di-balik-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "JAWA: Tak Ada Informasi [Material] di Balik Lonjakan Saham",
+  "deck": "Bursa minta JAWA jelaskan lonjakan harga dan volume sahamnya. Perusahaan menyatakan tak ada informasi material tersembunyi dan tak tahu pasti penyebab kenaikan tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T08:31:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce38cfe917_86820cad69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAWA",
+  "tags": [
+   "JAWA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Jaya Agra Wattie Tbk (JAWA) merespons permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi saham perseroan, menyusul surat BEI bernomor S-11329/BEI.PP1/09-2026 tertanggal 3 September 2026. Dalam surat balasan bernomor 035/JAW/CORSEC/IX/2026 yang ditandatangani Sekretaris Perusahaan Harli Wijayadi pada 4 September 2026, JAWA menegaskan tidak memiliki informasi atau fakta material yang belum diungkapkan ke publik yang dapat menjelaskan kenaikan harga dan volume perdagangan sahamnya.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam aturan pelaporan kepemilikan saham perusahaan terbuka, serta belum memiliki rencana aksi korporasi apa pun dalam tiga bulan ke depan, termasuk yang berpotensi memengaruhi status pencatatan sahamnya di bursa. Terkait dugaan penyebab lonjakan transaksi, JAWA menyebut kemungkinan hal itu semata disebabkan oleh mekanisme pasar, tanpa ada pemicu dari internal perusahaan.",
+   "Untuk poin mengenai rencana pemegang saham utama atas kepemilikan sahamnya, Corporate Secretary menyampaikan bahwa pemegang saham utama belum memberikan informasi apa pun mengenai rencana tindakan korporasi yang akan dilakukan terhadap perseroan. Dengan demikian, seluruh enam pertanyaan yang diajukan bursa dijawab dengan penegasan bahwa tidak ada informasi tersembunyi maupun rencana korporasi yang mendasari pergerakan harga saham JAWA belakangan ini."
+  ],
+  "fotoAdegan": "Plantation workers collecting rubber latex into buckets among rows of trees on a Javanese estate, early morning mist.",
+  "takeaway": "Laporan ini netral bagi fundamental JAWA, karena isinya murni klarifikasi kepatuhan yang menegaskan tidak ada aksi korporasi atau informasi baru, bukan transaksi keuangan yang mengubah kondisi perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh dalam surat ini, sehingga pelaku pasar sebaiknya membaca lonjakan harga dan volume saham JAWA sebagai gejala aktivitas perdagangan di bursa, bukan cerminan perubahan kinerja perusahaan. Yang perlu dipantau selanjutnya adalah apakah pemegang saham utama akhirnya menyampaikan rencana terkait kepemilikannya, serta apakah situasi berubah dalam jendela tiga bulan ke depan yang disebut perseroan sebagai periode tanpa rencana aksi korporasi, yakni hingga sekitar awal Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",

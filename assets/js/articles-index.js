@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
+  "deck": "Auditor menyatakan ketidakpastian material atas kelangsungan usaha MKNT, dengan defisiensi ekuitas Rp9,14 miliar dan kas tersisa hanya Rp1,13 juta per akhir Maret 2026.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "kelangsungan usaha",
+   "laporan keuangan",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905224932-64352-0/FinancialStatement-2026-I-MKNT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het",
   "category": "Makroekonomi",
   "title": "Tinjau Pasar Solo, Wamendag: Beras dan Gula [Masih] di Atas HET",
@@ -387,6 +403,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_B007_4dd398db-65f2-4a55-8c32-3c0321d501da-20260905091430.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "winr-pemegang-saham-lepas-20-juta-saham-demi-free-float",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemegang Saham Lepas 20 Juta Saham demi [Free Float]",
+  "deck": "Pemenang Nusantara Internasional melepas 20 juta saham WINR seharga Rp20 per lembar untuk menambah porsi saham beredar bebas (free float).",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8961-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1229,6 +1261,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "csis-revisi-laporan-dana-rights-issue-baru-5-33-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "CSIS Revisi Laporan Dana Rights Issue, Baru [5,33%] Terealisasi",
+  "deck": "PT Cahayasakti Investindo Sukses Tbk merevisi laporan realisasi dana rights issue Rp196,7 miliar per Juni 2026, baru 5,33 persen terpakai untuk proyek infrastruktur di kawasan industri Cikembar.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSIS",
+   "rights issue",
+   "realisasi penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d36fc6e9c0_1a421b3c8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ufoe-bantah-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "UFOE Bantah Ada [Informasi Material] di Balik Volatilitas Saham",
+  "deck": "PT Damai Sejahtera Abadi Tbk merespons permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UFOE",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cc2894bf9_d2a21732a8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
   "category": "Ketenagakerjaan",
   "title": "Magang Nasional Buka Lagi, Kuota [50 Ribu] Peserta",
@@ -1374,6 +1438,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bull-cetak-laba-us-58-4-juta-opini-auditor-tetap-dikecualikan",
+  "category": "Aksi Korporasi",
+  "title": "BULL cetak laba US$58,4 juta, opini auditor tetap [dikecualikan]",
+  "deck": "Buana Lintas Lautan (BULL) membukukan laba US$58,4 juta pada semester I 2026 dan aset naik 25 persen, namun auditor tetap memberi opini wajar dengan pengecualian.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BULL",
+   "laporan keuangan",
+   "opini audit",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904095023-64163-0/FinancialStatement-2026-II-BULL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-rupo-setujui-restrukturisasi-obligasi-hingga-2034",
+  "category": "Aksi Korporasi",
+  "title": "WSKT: RUPO Setujui [Restrukturisasi] Obligasi hingga 2034",
+  "deck": "Pemegang obligasi Waskita Karya menyetujui restrukturisasi Obligasi Berkelanjutan III Tahap IV 2019, termasuk perpanjangan tenor hingga 2034 dan penurunan kupon menjadi 5 persen.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f76b4496a8_72773d4bad.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-bagikan-dividen-interim-rp66-per-saham-rp6-16-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BMRI bagikan [dividen] interim Rp66 per saham, Rp6,16 triliun",
+  "deck": "Bank Mandiri akan membagikan dividen interim Rp66 per saham untuk tahun buku 2026, senilai sekitar Rp6,16 triliun. Jadwal pembayaran menyusul.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "dividen interim",
+   "Bank Mandiri",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69c58eb3ee_21bddc12c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih",
   "category": "BUMN",
   "title": "RI-Rusia Jajaki [Pabrik] Pupuk Urea dan Kapal Canggih",
@@ -1389,6 +1501,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464784-bukan-cuma-perdagangan-rusia-tawarkan-kapal-canggih-hingga-pabrik-pupuk-ke-indonesia"
+ },
+ {
+  "slug": "jawa-tak-ada-informasi-material-di-balik-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "JAWA: Tak Ada Informasi [Material] di Balik Lonjakan Saham",
+  "deck": "Bursa minta JAWA jelaskan lonjakan harga dan volume sahamnya. Perusahaan menyatakan tak ada informasi material tersembunyi dan tak tahu pasti penyebab kenaikan tersebut.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAWA",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce38cfe917_86820cad69.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
@@ -6440,138 +6568,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463153-menjadi-tuan-rumah-danantara-housing-expo-2026-nice-pik-2-buktikan-kesiapan-fasilitas-skala-masif"
- },
- {
-  "slug": "indonesia-maroko-reaktivasi-perundingan-dagang-target-2027",
-  "category": "Global",
-  "title": "Indonesia-Maroko [Reaktivasi] Perundingan Dagang, Target 2027",
-  "deck": "Wamendag Roro mendorong percepatan perundingan dagang RI-Maroko dengan target rampung 2027, seiring nilai perdagangan bilateral yang tumbuh 37 persen pada awal 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/indonesia-maroko-reaktivasi-perundingan-dagang-target-2027.jpg",
-  "imageV": "mtclk09z",
-  "tags": [
-   "Indonesia-Maroko",
-   "perdagangan bilateral",
-   "Kementerian Perdagangan",
-   "ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/reaktivasi-perundingan-perdagangan-indonesia-maroko-wamendag-roro-dorong-negosiasi-tuntas-di-2027",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun",
-  "category": "Industri",
-  "title": "Ekspor Kakao RI [Melonjak] Tiga Kali Lipat dalam Lima Tahun",
-  "deck": "Kemendag mencatat ekspor kakao Indonesia tembus US$3,6 miliar pada 2025, sembari mendorong standar keberlanjutan sawit dan kakao agar makin bersaing di pasar global.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/ekspor-kakao-ri-melonjak-tiga-kali-lipat-dalam-lima-tahun.jpg",
-  "imageV": "mtclk6ib",
-  "tags": [
-   "kakao",
-   "kelapa sawit",
-   "perdagangan internasional",
-   "ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hadiri-forum-kakao-dan-kelapa-sawit-mendag-budi-santoso-dorong-peningkatan-nilai-tambah-dan-keberlanjutan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "agii-setop-sisa-pub-sukuk-rp1-18-triliun-andalkan-sindikasi",
-  "category": "Aksi Korporasi",
-  "title": "AGII Setop Sisa PUB Sukuk [Rp1,18 Triliun], Andalkan Sindikasi",
-  "deck": "Samator Indo Gas (AGII) menghentikan sisa plafon Rp1,18 triliun dari program sukuknya dan beralih memakai fasilitas pinjaman sindikasi yang sudah tersedia.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGII",
-   "Samator Indo Gas",
-   "Sukuk Ijarah",
-   "Pinjaman Sindikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d682dddbdd_c6186173f9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "safe-beri-penjelasan-usai-harga-melonjak-24-87-dalam-sehari",
-  "category": "Aksi Korporasi",
-  "title": "SAFE Beri Penjelasan usai Harga Melonjak [24,87%] dalam Sehari",
-  "deck": "Steady Safe menjawab permintaan penjelasan Bursa soal lonjakan harga dan volume transaksi pada 24 Agustus, dan menyatakan tidak ada informasi material di baliknya.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/beb890bc61_9fe43bf0ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elit-angkat-sandiaga-uno-jadi-komisaris-baru",
-  "category": "Aksi Korporasi",
-  "title": "ELIT Angkat [Sandiaga Uno] Jadi Komisaris Baru",
-  "deck": "RUPSLB ELIT pada 26 Agustus 2026 menyetujui pengangkatan Sandiaga Salahuddin Uno sebagai komisaris dan Meidyah Indreswari sebagai komisaris independen, masa jabatan lima tahun hingga 2031.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELIT",
-   "RUPSLB",
-   "komisaris",
-   "Sandiaga Uno"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c68937a2a1_c9e96d570d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-pegadaian-turun-antam-rp2-759-000-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Pegadaian [Turun], Antam Rp2.759.000/Gram",
-  "deck": "Harga emas Galeri24, Antam, dan UBS di Pegadaian kompak turun pada Jumat, dengan penurunan UBS mencapai Rp25.000 per gram.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/harga-emas-pegadaian-turun-antam-rp2-759-000-gram.jpg",
-  "imageV": "mtclk7ic",
-  "tags": [
-   "harga emas",
-   "pegadaian",
-   "antam",
-   "ubs"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463116-harga-emas-pegadaian-jumat-turun-antam-rp2759-juta-dan-ubs-rp2729-juta-per-gram"
- },
- {
-  "slug": "tufi-siapkan-rp817-miliar-bayar-obligasi-jatuh-tempo-september",
-  "category": "Aksi Korporasi",
-  "title": "TUFI siapkan [Rp817 miliar] bayar obligasi jatuh tempo September",
-  "deck": "TUFI menyatakan telah menyiapkan dana sekitar Rp817,24 miliar untuk membayar pokok dan bunga obligasi yang jatuh tempo 27 September 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TUFI",
-   "obligasi",
-   "Mandiri Tunas Finance",
-   "pembayaran utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/bd41f3769e_39e4560d5e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-catat-defisit-ekuitas-rp564-9-miliar-per-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Catat Defisit [Ekuitas] Rp564,9 Miliar per Juni 2026",
-  "deck": "Emiten migas Capitalinc Investment mencatat ekuitas negatif Rp564,9 miliar per Juni 2026, memburuk dari Rp538,7 miliar di akhir 2025, meski pendapatan naik 15 persen.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "Capitalinc Investment",
-   "laporan keuangan interim",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110924-64255-0/FinancialStatement-2026-II-MTFN.pdf",
-  "sourceLabel": "IDX"
  }
 ];

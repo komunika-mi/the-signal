@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kuki-panggil-rupslb-bahas-dividen-saham-30-september",
+  "category": "Aksi Korporasi",
+  "title": "KUKI Panggil RUPSLB, Bahas [Dividen] Saham 30 September",
+  "deck": "KUKI akan menggelar RUPS Luar Biasa pada 30 September 2026 untuk meminta persetujuan pemegang saham atas rencana pembagian dividen dalam bentuk saham untuk tahun buku 2026.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KUKI",
+   "RUPSLB",
+   "dividen saham",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905_KUKI_E049_32f0e4d7-d598-4d2c-b264-517b58f6e636-20260905170904.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-koreksi-laporan-keuangan-kas-anjlok-90-persen",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Koreksi Laporan Keuangan, Kas [Anjlok] 90 Persen",
+  "deck": "Koreksi laporan keuangan interim semester I 2025 menunjukkan kas TGRA tersisa Rp77 juta dan laba ditahan berbalik jadi defisit, sementara ekuitas cuma turun tipis 1,8 persen.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "koreksi laporan",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-7c20726d-1d42-4e1e-af36-356530a95c9f-1/FinancialStatement-2025-II-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtwi-cetak-laba-rp12-2-miliar-2024-berbalik-dari-rugi",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Cetak [Laba] Rp12,2 Miliar 2024, Berbalik dari Rugi",
+  "deck": "Laporan keuangan tahunan auditan MTWI menunjukkan laba bersih Rp12,2 miliar pada 2024, berbalik dari rugi tahun sebelumnya, didukung kenaikan pendapatan premi 57,8 persen.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-170a304c-429f-4d6e-a64e-1610eb59c810-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
@@ -152,6 +200,22 @@ var ARTICLES = [
    "Ekspansi Filipina"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/70a2c68586_5b4556f7c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "testsbkd-disuspensi-bei-usai-opini-audit-disclaimer-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "TESTSBKD [Disuspensi] BEI Usai Opini Audit Disclaimer 2 Tahun",
+  "deck": "Bursa menghentikan sementara perdagangan saham TESTSBKD di seluruh pasar mulai 4 September 2026 setelah laporan keuangan auditannya mendapat opini disclaimer dua tahun berturut-turut.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTSBKD",
+   "suspensi saham",
+   "opini disclaimer",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_B007_4dd398db-65f2-4a55-8c32-3c0321d501da-20260905091430.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6500,70 +6564,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463029-festival-deb-pertamina-2026-terus-perkuat-kolaborasi-dorong-energi-terbarukan-jadi-penggerak-ekonomi-desa"
- },
- {
-  "slug": "pgas-kalah-sebagian-di-arbitrase-lawan-gunvor-di-london",
-  "category": "Aksi Korporasi",
-  "title": "PGAS Kalah Sebagian di Arbitrase Lawan [Gunvor] di London",
-  "deck": "PGN menerima putusan arbitrase parsial LCIA yang mewajibkannya membayar kompensasi kepada Gunvor Singapore, namun jumlahnya belum diungkap.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGAS",
-   "arbitrase",
-   "Gunvor",
-   "LCIA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c63e9284cd_56f7ef45a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur",
-  "category": "Pasar Modal",
-  "title": "Pegadaian Raih [Penghargaan] Sukuk Syariah di Kuala Lumpur",
-  "deck": "Pegadaian meraih penghargaan Best Sukuk-SME di The Asset Triple A Islamic Finance Awards 2026 di Kuala Lumpur, berkat penerbitan sukuk syariah Rp1,75 triliun untuk mendanai UMKM.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/pegadaian-raih-penghargaan-sukuk-syariah-di-kuala-lumpur.jpg",
-  "imageV": "mtbqd62p",
-  "tags": [
-   "Pegadaian",
-   "Sukuk Syariah",
-   "UMKM",
-   "Kuala Lumpur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463026-diakui-di-kancah-internasional-pegadaian-sabet-penghargaan-best-sukuk-sme-di-kuala-lumpur"
- },
- {
-  "slug": "agar-penjualan-ke-satu-pelanggan-capai-75-9-dari-total",
-  "category": "Aksi Korporasi",
-  "title": "AGAR: Penjualan ke Satu Pelanggan Capai [75,9%] dari Total",
-  "deck": "AGAR menjawab permintaan penjelasan Bursa soal rencana pengambilalihan, kinerja keuangan, dan ketergantungan pada satu pelanggan besar.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGAR",
-   "pengambilalihan",
-   "arus kas",
-   "konsentrasi pelanggan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/69c9f563a7_ae0100f573.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpii-jelaskan-ke-bei-lonjakan-transaksi-saham-20-agustus",
-  "category": "Aksi Korporasi",
-  "title": "BPII Jelaskan ke BEI [Lonjakan] Transaksi Saham 20 Agustus",
-  "deck": "BPII menjawab permintaan penjelasan BEI setelah volume transaksi sahamnya melonjak lebih dari empat kali lipat dan harga naik 2,41 persen pada 20 Agustus 2026.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BPII",
-   "volatilitas saham",
-   "BEI",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/344f84a595_1476b646a1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

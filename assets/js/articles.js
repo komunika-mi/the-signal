@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kuki-panggil-rupslb-bahas-dividen-saham-30-september",
+  "category": "Aksi Korporasi",
+  "title": "KUKI Panggil RUPSLB, Bahas [Dividen] Saham 30 September",
+  "deck": "KUKI akan menggelar RUPS Luar Biasa pada 30 September 2026 untuk meminta persetujuan pemegang saham atas rencana pembagian dividen dalam bentuk saham untuk tahun buku 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T17:09:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905_KUKI_E049_32f0e4d7-d598-4d2c-b264-517b58f6e636-20260905170904.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KUKI",
+  "tags": [
+   "KUKI",
+   "RUPSLB",
+   "dividen saham",
+   "aksi korporasi"
+  ],
+  "body": [
+   "Emiten berkode KUKI mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 30 September 2026 pukul 15.00 WIB. Surat panggilan rapat disampaikan ke Bursa Efek Indonesia pada 5 September 2026, setelah pengumuman awal rencana rapat ini dirilis lebih dulu pada 15 Agustus 2026. Rapat akan berlangsung memakai sarana elektronik Easy KSEI dengan fasilitas e-Proxy dan e-Voting, yang berarti pemegang saham bisa memberi kuasa dan menyalurkan suaranya secara daring tanpa perlu datang langsung ke lokasi rapat.",
+   "Agenda tunggal RUPSLB ini adalah meminta persetujuan pemegang saham atas rencana pembagian dividen saham untuk tahun buku 2026. Berbeda dari dividen tunai yang dibayar berupa uang, dividen saham dibayarkan dalam bentuk saham baru yang dibagikan ke pemegang saham. Cara ini tidak menguras kas perusahaan, tapi menambah jumlah saham yang beredar di pasar.",
+   "Dokumen pemberitahuan ini belum mencantumkan rasio pembagian atau berapa banyak saham baru yang akan diterbitkan. Angka itu baru akan ditentukan dan disahkan dalam RUPSLB pada 30 September 2026, sehingga besar kecilnya dampak pembagian dividen saham ini terhadap komposisi kepemilikan pemegang saham lama belum bisa dipastikan sampai rapat tersebut berlangsung."
+  ],
+  "fotoAdegan": "Close-up of hands typing on a laptop keyboard during a remote video call, blurred modern office background, soft daylight",
+  "takeaway": "Laporan ini netral bagi KUKI karena baru sebatas pemberitahuan agenda rapat, sementara angka rasio pembagian dividen sahamnya sendiri belum diungkapkan sehingga besar dampaknya belum bisa dinilai. Yang tersentuh dari aksi ini nantinya adalah jumlah saham beredar dan laba per saham, sebab dividen saham menambah jumlah saham yang beredar tanpa menyerap kas perusahaan, sehingga kalau rasionya besar, laba per saham bisa terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah jalannya RUPSLB pada 30 September 2026 pukul 15.00 WIB, karena di situlah rasio pembagian dividen saham yang sebenarnya baru akan diputuskan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tgra-koreksi-laporan-keuangan-kas-anjlok-90-persen",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Koreksi Laporan Keuangan, Kas [Anjlok] 90 Persen",
+  "deck": "Koreksi laporan keuangan interim semester I 2025 menunjukkan kas TGRA tersisa Rp77 juta dan laba ditahan berbalik jadi defisit, sementara ekuitas cuma turun tipis 1,8 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T15:23:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-7c20726d-1d42-4e1e-af36-356530a95c9f-1/FinancialStatement-2025-II-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "koreksi laporan",
+   "watchlist"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) menyampaikan koreksi atas laporan keuangan interim untuk periode Januari-Juni 2025 (semester I 2025). Laporan ini berstatus tidak diaudit dan perseroan mencantumkan bahwa penyajiannya belum memenuhi ketentuan OJK Nomor 75/POJK.04/2017 tentang tanggung jawab direksi atas laporan keuangan. TGRA sendiri tercatat di papan Pemantauan Khusus (watchlist) Bursa Efek Indonesia, kategori bagi emiten yang dipandang berisiko tinggi oleh otoritas bursa.",
+   "Dari sisi kas, saldo kas dan setara kas TGRA merosot tajam dari Rp747,99 juta pada akhir 2024 menjadi Rp76,95 juta pada 30 Juni 2025, turun 89,7 persen. Sementara itu total aset justru naik dari Rp472,01 miliar menjadi Rp495,77 miliar, terutama ditopang kenaikan dana yang dibatasi penggunaannya jangka panjang dari Rp16,36 miliar menjadi Rp39,57 miliar. Total liabilitas naik 21,7 persen dari Rp137,63 miliar menjadi Rp167,51 miliar, didorong oleh utang kepada pihak berelasi jangka panjang yang membengkak dari Rp84,28 miliar menjadi Rp100,89 miliar dan kontrak liabilitas jangka panjang yang naik lebih dari dua kali lipat, dari Rp11,48 miliar menjadi Rp23,83 miliar.",
+   "Di sisi ekuitas, saldo laba yang belum ditentukan penggunaannya berbalik dari surplus Rp2,04 miliar pada akhir 2024 menjadi defisit Rp3,80 miliar pada 30 Juni 2025, mengindikasikan perseroan mencatat rugi pada semester berjalan. Ekuitas yang diatribusikan kepada pemilik entitas induk turun dari Rp312,99 miliar menjadi Rp307,15 miliar, sementara total ekuitas termasuk kepentingan non-pengendali turun tipis dari Rp334,38 miliar menjadi Rp328,26 miliar, atau sekitar 1,8 persen. Angka penurunan ekuitas dalam versi koreksi ini jauh lebih kecil dibanding klaim ekuitas anjlok 83 persen yang sempat diberitakan dari laporan sebelumnya, sehingga ada selisih signifikan antara data yang sebelumnya beredar dan data dalam dokumen koreksi ini."
+  ],
+  "fotoAdegan": "Electricity transmission towers and power lines crossing a quiet rural Indonesian landscape under an overcast sky",
+  "takeaway": "Laporan koreksi ini condong negatif bagi TGRA, karena kas yang tersisa menipis drastis dan saldo laba berbalik menjadi defisit, tanda bahwa perusahaan merugi pada semester pertama 2025. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar dipegang perusahaan untuk operasional, dan beban bunga, yaitu biaya yang harus dibayar atas utang: kas yang cuma tersisa Rp77 juta membuat ruang gerak keuangan sangat sempit, sementara utang ke pihak berelasi yang terus membengkak berpotensi menambah beban bunga dan menekan laba ke depan. Menariknya, koreksi ini juga mengubah gambaran soal ekuitas, penurunannya cuma 1,8 persen, jauh dari klaim anjlok 83 persen yang sempat kami laporkan dari data sebelumnya, sehingga pembaca perlu mencermati data mana yang menjadi acuan resmi berikutnya. Yang perlu dipantau selanjutnya adalah apakah TGRA akan menerbitkan laporan keuangan versi teraudit untuk semester ini, mengingat dokumen ini sendiri mengaku belum memenuhi ketentuan OJK Nomor 75/POJK.04/2017 soal tanggung jawab direksi atas laporan keuangan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mtwi-cetak-laba-rp12-2-miliar-2024-berbalik-dari-rugi",
+  "category": "Aksi Korporasi",
+  "title": "MTWI Cetak [Laba] Rp12,2 Miliar 2024, Berbalik dari Rugi",
+  "deck": "Laporan keuangan tahunan auditan MTWI menunjukkan laba bersih Rp12,2 miliar pada 2024, berbalik dari rugi tahun sebelumnya, didukung kenaikan pendapatan premi 57,8 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T15:04:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-170a304c-429f-4d6e-a64e-1610eb59c810-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTWI",
+  "tags": [
+   "MTWI",
+   "laporan keuangan",
+   "asuransi",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Malacca Trust Wuwungan Insurance Tbk (MTWI) menyampaikan laporan keuangan tahunan auditan untuk tahun buku yang berakhir 31 Desember 2024. Auditor memberikan opini wajar tanpa modifikasian, opini tertinggi dalam audit yang berarti laporan keuangan perusahaan dinilai disajikan secara wajar tanpa catatan pengecualian. Perusahaan membukukan laba bersih Rp12,24 miliar pada 2024, berbalik dari rugi Rp8,37 miliar pada 2023.",
+   "Pendapatan dari premi asuransi naik 57,8 persen menjadi Rp1,01 triliun dari Rp641,2 miliar tahun sebelumnya. Total aset perusahaan melonjak 64,4 persen menjadi Rp1,63 triliun, sementara total liabilitas naik lebih cepat, 79,6 persen, menjadi Rp1,35 triliun. Ekuitas naik 16,9 persen menjadi Rp280,7 miliar, salah satunya didorong penambahan modal saham biasa dari Rp264,7 miliar menjadi Rp292,4 miliar.",
+   "Auditor menyoroti dua hal audit utama. Pertama, aset reasuransi yang mencapai Rp678,4 miliar atau 41,69 persen dari total aset, yang nilainya bergantung pada perhitungan cadangan teknis asuransi memakai estimasi aktuaria. Kedua, penilaian investasi efek senilai Rp310 miliar, yang diverifikasi auditor lewat konfirmasi langsung ke bank kustodian dan pengujian ulang perhitungan pendapatan investasi.",
+   "Laporan ini juga mencatat pergantian akuntan publik. Auditor tahun berjalan adalah KAP Hendrawinata Hanny Erwin Sumargo dengan partner penandatangan Welly Adrianto, menggantikan KAP Kosasih, Nurdiyaman, Tjahjo Rekan dengan partner Juninho Widjaja yang mengaudit laporan tahun sebelumnya. Ini adalah tahun pertama Welly Adrianto menandatangani laporan keuangan MTWI."
+  ],
+  "fotoAdegan": "Office workers stacking closed claim folders on a busy desk at a Jakarta insurance office, fluorescent lighting overhead.",
+  "takeaway": "Laporan ini condong positif bagi MTWI karena perusahaan berhasil membalikkan kerugian Rp8,4 miliar pada 2023 menjadi laba Rp12,2 miliar pada 2024, sejalan dengan kenaikan pendapatan premi 57,8 persen dan opini audit wajar tanpa modifikasian. Yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih milik pemegang saham yang berfungsi sebagai bantalan modal perusahaan asuransi untuk menyerap risiko klaim, yang naik 16,9 persen menjadi Rp280,7 miliar berkat tambahan modal saham dan laba ditahan yang membaik, tapi kenaikan liabilitas yang lebih cepat yaitu 79,6 persen membuat bantalan itu relatif menipis dibanding total kewajiban. Beban bunga turun lebih dari separuh menjadi Rp565 juta dari Rp1,19 miliar, tanda biaya utang mengecil. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Tahunan yang wajib digelar paling lambat akhir Juni 2025 sesuai aturan OJK untuk mengesahkan laporan ini dan menentukan penggunaan laba, serta konsistensi penilaian auditor baru atas aset reasuransi senilai Rp678,4 miliar yang jadi sorotan utama pemeriksaan tahun ini.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
@@ -243,6 +322,31 @@ var ARTICLES = [
   "fotoAdegan": "Workers welding elevated railway girders at a light rail construction site in Jakarta, cranes overhead, hazy afternoon sky",
   "takeaway": "Laporan ini condong positif bagi ADHI karena menunjukkan proyek-proyek besarnya berjalan dan ekspansi barunya dibiayai dari luar kantong perusahaan sendiri, yakni pinjaman Asian Development Bank untuk proyek kereta di Filipina senilai Rp3,9 triliun. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar masuk ke rekening perusahaan: dari total kontrak LRT Jabodebek Rp25,5 triliun, ADHI baru mengantongi Rp23,2 triliun meski proyeknya sudah diserahterimakan ke pemilik, menyisakan sekitar Rp2,3 triliun piutang yang belum cair. Rencana melepas 11 dari 13 perusahaan patungannya secara bertahap hingga 2027 juga berpotensi menambah kas dari hasil penjualan aset, meski nilai dan jadwal pasti tiap pelepasan belum diungkap di materi ini. Yang perlu dipantau berikutnya adalah realisasi pencairan sisa piutang LRT Jabodebek dan progres pelaksanaan divestasi 11 anak usaha tersebut hingga tenggat 2027, termasuk kelanjutan penyelesaian paket CP202 MRT Jakarta Fase 2A yang baru mencapai 67 persen per Juni 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "testsbkd-disuspensi-bei-usai-opini-audit-disclaimer-2-tahun",
+  "category": "Aksi Korporasi",
+  "title": "TESTSBKD [Disuspensi] BEI Usai Opini Audit Disclaimer 2 Tahun",
+  "deck": "Bursa menghentikan sementara perdagangan saham TESTSBKD di seluruh pasar mulai 4 September 2026 setelah laporan keuangan auditannya mendapat opini disclaimer dua tahun berturut-turut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T20:54:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_B007_4dd398db-65f2-4a55-8c32-3c0321d501da-20260905091430.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTSBKD",
+  "tags": [
+   "TESTSBKD",
+   "suspensi saham",
+   "opini disclaimer",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan penghentian sementara atau suspensi perdagangan saham TESTSBKD melalui surat bernomor BXS/09/004/025/2026-test023. Suspensi berlaku sejak 4 September 2026, dimulai dari sesi II perdagangan dengan mekanisme continuous auction, dan mencakup seluruh jenis pasar sehingga saham ini untuk sementara tidak bisa diperjualbelikan di semua papan perdagangan.",
+   "Penyebab yang dicantumkan bursa adalah opini laporan keuangan auditan disclaimer sebanyak dua kali berturut-turut. Opini disclaimer berarti auditor independen menyatakan tidak dapat memberikan pendapat atas kewajaran laporan keuangan perusahaan, biasanya karena data atau bukti yang diperiksa tidak cukup meyakinkan. Terjadinya hal ini dua tahun berturut-turut menjadi pemicu otomatis bagi bursa untuk menghentikan perdagangan saham demi melindungi investor dari transaksi berdasarkan informasi keuangan yang keandalannya diragukan."
+  ],
+  "fotoAdegan": "Empty stock brokerage office with rows of desks and softly blurred, unreadable monitor glow, dim evening light",
+  "takeaway": "Laporan ini condong negatif bagi TESTSBKD, karena suspensi dagang akibat opini disclaimer dua tahun beruntun menandakan auditor sendiri tidak bisa memastikan angka-angka di laporan keuangan perusahaan itu benar. Yang tersentuh langsung adalah kepercayaan atas seluruh pos kinerja, mulai dari ekuitas, arus kas, sampai laba, sebab tanpa opini audit yang jelas pelaku pasar tidak punya pegangan untuk menilai kesehatan keuangan perusahaan secara wajar. Investor yang sudah memegang saham ini juga langsung merasakan dampak nyata karena sahamnya untuk sementara tidak bisa dijual atau dibeli di bursa. Yang perlu dipantau berikutnya adalah penjelasan resmi dari manajemen TESTSBKD kepada bursa soal penyebab opini disclaimer tersebut serta rencana perbaikannya, karena itulah yang akan menentukan kapan suspensi per 4 September 2026 ini bisa dicabut.",
+  "sentimen": "negatif"
  },
  {
   "slug": "telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya",

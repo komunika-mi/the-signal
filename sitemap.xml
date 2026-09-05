@@ -15,6 +15,7 @@
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-09-05</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-09-05</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/berita/tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/bulog-usul-dmo-minyakita-100-lewat-bumn-pangan.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/kuki-panggil-rupslb-bahas-dividen-saham-30-september.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
@@ -357,7 +358,7 @@
   <url><loc>https://the-signal.id/berita/tiket-modinity-warehouse-sale-ludes-dalam-24-jam.html</loc><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/rupiah-menguat-tekan-dolar-as-ke-rp17-693.html</loc><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan.html</loc><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/winr-pemegang-saham-lepas-16-49-juta-saham-demi-free-float.html</loc><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/winr-pemegang-saham-lepas-16-49-juta-saham-demi-free-float.html</loc><lastmod>2026-08-29</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta.html</loc><lastmod>2026-08-29</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan.html</loc><lastmod>2026-08-29</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag.html</loc><lastmod>2026-08-29</lastmod><priority>0.6</priority></url>
@@ -1352,8 +1353,8 @@
   <url><loc>https://the-signal.id/rubrik/aksi-korporasi.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/makroekonomi.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/energi.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/rubrik/bumn.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/umkm.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/rubrik/bumn.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/pasar-modal.html</loc><lastmod>2026-09-03</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/moneter.html</loc><lastmod>2026-09-03</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/rubrik/perbankan.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
@@ -1405,9 +1406,9 @@
   <url><loc>https://the-signal.id/topik/emas.html</loc><lastmod>2026-09-03</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/pemegang-saham.html</loc><lastmod>2026-09-02</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bri.html</loc><lastmod>2026-08-29</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/kemendag.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/ekspor.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/sukuk.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/kemendag.html</loc><lastmod>2026-09-05</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/suspensi-saham.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/penambahan-modal.html</loc><lastmod>2026-09-04</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/restrukturisasi-utang.html</loc><lastmod>2026-09-03</lastmod><priority>0.7</priority></url>

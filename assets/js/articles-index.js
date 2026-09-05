@@ -23,6 +23,23 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "bulog-usul-dmo-minyakita-100-lewat-bumn-pangan",
+  "category": "BUMN",
+  "title": "Bulog Usul DMO Minyakita [100%] Lewat BUMN Pangan",
+  "deck": "Bulog menunggu restu Kemendag atas usulan menaikkan penyaluran DMO Minyakita lewat BUMN pangan dari 35 persen menjadi 100 persen.",
+  "date": "5 September 2026",
+  "image": "assets/img/bulog-usul-dmo-minyakita-100-lewat-bumn-pangan.jpg",
+  "imageV": "mtogdig5",
+  "tags": [
+   "Minyakita",
+   "Bulog",
+   "DMO",
+   "Kemendag"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465090-masih-tunggu-restu-kemendag-bulog-buka-suara-soal-usulan-dmo-minyakita-100-lewat-bumn-pangan"
+ },
+ {
   "slug": "kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda",
   "category": "Makroekonomi",
   "title": "Kemendagri Minta Intervensi Ekonomi Daerah [Berbeda-beda]",
@@ -6555,22 +6572,6 @@ var ARTICLES = [
    "ekuitas negatif"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110924-64255-0/FinancialStatement-2026-II-MTFN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oliv-utang-ke-pemegang-saham-turun-94-85-kas-naik-tajam",
-  "category": "Aksi Korporasi",
-  "title": "OLIV: Utang ke Pemegang Saham [Turun] 94,85%, Kas Naik Tajam",
-  "deck": "Utang OLIV ke pemegang saham pengendali turun 94,85% dan kas naik tajam pada semester I 2026, meski total aset menyusut akibat penjualan persediaan.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OLIV",
-   "laporan keuangan",
-   "likuiditas",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110952-64254-0/FinancialStatement-2026-II-OLIV.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -31,6 +31,33 @@ var ARTICLES = [
   "imageV": "mtoaypej"
  },
  {
+  "slug": "bulog-usul-dmo-minyakita-100-lewat-bumn-pangan",
+  "category": "BUMN",
+  "title": "Bulog Usul DMO Minyakita [100%] Lewat BUMN Pangan",
+  "deck": "Bulog menunggu restu Kemendag atas usulan menaikkan penyaluran DMO Minyakita lewat BUMN pangan dari 35 persen menjadi 100 persen.",
+  "image": "assets/img/bulog-usul-dmo-minyakita-100-lewat-bumn-pangan.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T17:56:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465090-masih-tunggu-restu-kemendag-bulog-buka-suara-soal-usulan-dmo-minyakita-100-lewat-bumn-pangan",
+  "tags": [
+   "Minyakita",
+   "Bulog",
+   "DMO",
+   "Kemendag"
+  ],
+  "body": [
+   "Perum Bulog masih menunggu keputusan Kementerian Perdagangan atas usulan menaikkan porsi penyaluran Minyakita lewat badan usaha milik negara pangan menjadi 100 persen dari kewajiban domestic market obligation atau DMO. Usulan ini penting bagi masyarakat karena menyangkut jalur distribusi minyak goreng bersubsidi yang selama ini jadi andalan warga berpenghasilan menengah ke bawah.",
+   "Direktur Utama Bulog Ahmad Rizal Ramdhani mengatakan usulan tersebut sudah diajukan secara tertulis kepada Menteri Perdagangan Budi Santoso, mengikuti arahan Menteri Pertanian Andi Amran Sulaiman. Menurutnya, memperbesar porsi BUMN pangan diharapkan memperkuat pasokan Minyakita di pasar nasional sekaligus menjaga ketersediaannya tetap stabil.",
+   "Aturan yang berlaku saat ini, sesuai Permendag Nomor 43 Tahun 2025 yang diubah lewat Permendag Nomor 20 Tahun 2026, mewajibkan produsen menyalurkan minimal 35 persen dari kewajiban DMO mereka lewat BUMN pangan. Ketentuan itu mulai berlaku sejak 4 Agustus 2026, dan hingga tanggal tersebut realisasi penyaluran lewat BUMN pangan sudah mencapai 413.256 ton, atau sekitar 49,9 persen dari total kewajiban produsen.",
+   "Dari jumlah itu, Bulog menerima pasokan 308.057 ton dan ID FOOD 105.199 ton. Kewenangan menetapkan perubahan porsi DMO sepenuhnya berada di tangan Kementerian Perdagangan, sehingga Bulog kini tinggal menunggu keputusan resmi soal usulan tersebut."
+  ],
+  "fotoAdegan": "Forklift moving pallets of bottled cooking oil inside a busy state logistics warehouse, workers in the background, distant blurred labels.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/15/67d502067ea92-minyakita_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah porsi minimal penyaluran Minyakita lewat Bulog dan ID FOOD, dua BUMN pangan yang jadi jalur distribusi minyak goreng bersubsidi ke pasar. Aturan sejak 4 Agustus 2026 mewajibkan produsen menyalurkan minimal 35 persen dari DMO, yaitu jumlah minyak goreng yang wajib mereka jual sebagai Minyakita di dalam negeri, lewat kedua BUMN itu, dan Bulog mengusulkan angka itu dinaikkan jadi 100 persen alias seluruhnya lewat BUMN. Yang kena dampak paling langsung adalah produsen minyak goreng, karena jalur mereka menjual sendiri ke pasar akan makin sempit, sementara konsumen berharap pasokan Minyakita lebih terjamin dan merata sampai ke daerah yang selama ini sering kosong stok. Soal arahnya, data sampai 4 Agustus menunjukkan realisasi lewat BUMN sudah 49,9 persen, jauh di atas syarat minimal 35 persen, jadi praktik di lapangan sebenarnya sudah condong ke dominasi BUMN sebelum aturannya resmi diubah. Yang akan memastikan apakah tren ini berlanjut adalah keputusan resmi Kementerian Perdagangan atas usulan tersebut, ditambah angka realisasi DMO pada periode berikutnya.",
+  "imageV": "mtogdig5"
+ },
+ {
   "slug": "kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda",
   "category": "Makroekonomi",
   "title": "Kemendagri Minta Intervensi Ekonomi Daerah [Berbeda-beda]",

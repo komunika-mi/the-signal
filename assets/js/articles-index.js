@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het",
+  "category": "Makroekonomi",
+  "title": "Tinjau Pasar Solo, Wamendag: Beras dan Gula [Masih] di Atas HET",
+  "deck": "Wamendag Dyah Roro Esti mengecek harga di Pasar Nusukan, Surakarta: MINYAKITA sesuai HET, tapi beras, gula pasir, dan daging sapi masih di atas harga acuan pemerintah secara nasional.",
+  "date": "5 September 2026",
+  "image": "assets/img/tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het.jpg",
+  "imageV": "mtoaypej",
+  "tags": [
+   "MINYAKITA",
+   "harga pangan",
+   "Kemendag",
+   "Surakarta"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pasar-nusukan-bersama-wali-kota-surakarta-wamendag-pastikan-pasokan-bapok-aman-dan-harga-minyakita-sesuai-het",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda",
+  "category": "Makroekonomi",
+  "title": "Kemendagri Minta Intervensi Ekonomi Daerah [Berbeda-beda]",
+  "deck": "Sekjen Kemendagri Tomsi Tohir meminta tim pemantauan menemukan akar masalah pertumbuhan ekonomi tiap daerah, bukan sekadar mengumpulkan data, demi target pertumbuhan 8 persen.",
+  "date": "5 September 2026",
+  "image": "assets/img/kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda.jpg",
+  "imageV": "mtoaypu4",
+  "tags": [
+   "Kemendagri",
+   "pertumbuhan ekonomi daerah",
+   "APBD APBN",
+   "target 8 persen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465085-sekjen-kemendagri-minta-tim-pemantauan-temukan-akar-masalah-pertumbuhan-ekonomi-daerah-intervensinya-berbeda-beda"
+ },
+ {
+  "slug": "pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah",
+  "category": "Energi",
+  "title": "Pertamina Kenalkan Bahan Bakar Pesawat dari [Jelantah]",
+  "deck": "Pertamina kenalkan SAF berbahan minyak jelantah ke generasi muda di IdeaFest 2026, bahan bakar yang sudah dipakai penerbangan Pelita Air rute Jakarta-Bali.",
+  "date": "5 September 2026",
+  "image": "assets/img/pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah.jpg",
+  "imageV": "mtoayqpt",
+  "tags": [
+   "sustainable aviation fuel",
+   "minyak jelantah",
+   "Pertamina",
+   "Pelita Air"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465084-kembangkan-jelantah-jadi-bahan-bakar-pesawat-pertamina-kenalkan-transisi-energi-ke-anak-muda-di-ideafest-2026"
+ },
+ {
   "slug": "kuki-panggil-rupslb-bahas-dividen-saham-30-september",
   "category": "Aksi Korporasi",
   "title": "KUKI Panggil RUPSLB, Bahas [Dividen] Saham 30 September",
@@ -19,6 +71,91 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905_KUKI_E049_32f0e4d7-d598-4d2c-b264-517b58f6e636-20260905170904.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi",
+  "category": "UMKM",
+  "title": "KDKMP Diarahkan Jadi [Pusat] Ekonomi Desa Terintegrasi",
+  "deck": "Wamendagri Bima Arya menyebut Koperasi Desa/Kelurahan Merah Putih bakal jadi kanal tunggal distribusi subsidi dan bantuan sosial di desa, bukan sekadar toko ritel biasa.",
+  "date": "5 September 2026",
+  "image": "assets/img/kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi.jpg",
+  "imageV": "mtoayr46",
+  "tags": [
+   "KDKMP",
+   "Koperasi Merah Putih",
+   "Bima Arya",
+   "ekonomi desa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465082-kdkmp-harus-jadi-pusat-layanan-ekonomi-desa-terintegrasi-wamendagri-bima-arya-ujung-tombaknya-pemda"
+ },
+ {
+  "slug": "pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest",
+  "category": "Energi",
+  "title": "Pertamina Kenalkan Strategi [Pertumbuhan Ganda] di IdeaFest",
+  "deck": "Pertamina memperkenalkan Dual Growth Strategy di IdeaFest 2026, memadukan bisnis migas yang ada dengan pengembangan energi rendah karbon seperti SAF dari minyak jelantah.",
+  "date": "5 September 2026",
+  "image": "assets/img/pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest.jpg",
+  "imageV": "mtoayrj6",
+  "tags": [
+   "Pertamina",
+   "SAF",
+   "energi bersih",
+   "IdeaFest 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465079-pertamina-kenalkan-strategi-pertumbuhan-ganda-ke-generasi-muda-energi-bersih-jadi-andalan-baru"
+ },
+ {
+  "slug": "skema-transfer-tunai-bansos-diuji-coba-awal-2027",
+  "category": "Makroekonomi",
+  "title": "Skema [Transfer Tunai] Bansos Diuji Coba Awal 2027",
+  "deck": "Ketua DEN Luhut Binsar Pandjaitan menyebut bansos akan disalurkan tunai sekitar Rp5,4 juta per keluarga, dengan uji coba dimulai kuartal I-II 2027.",
+  "date": "5 September 2026",
+  "image": "assets/img/skema-transfer-tunai-bansos-diuji-coba-awal-2027.jpg",
+  "imageV": "mtoayrxw",
+  "tags": [
+   "bansos",
+   "transfer tunai",
+   "Luhut Binsar Pandjaitan",
+   "Dewan Ekonomi Nasional"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465077-luhut-ungkap-skema-baru-bansos-lewat-transfer-tunai-diuji-coba-mulai-kuartal-i-ii-2027"
+ },
+ {
+  "slug": "luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10",
+  "category": "Makroekonomi",
+  "title": "Luhut: GovTech Tekan Bansos Salah Sasaran ke Bawah [10%]",
+  "deck": "Ketua Dewan Ekonomi Nasional Luhut Binsar Pandjaitan mengklaim integrasi data GovTech menekan bansos salah sasaran dari 77,6 persen menjadi di bawah 10 persen.",
+  "date": "5 September 2026",
+  "image": "assets/img/luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10.jpg",
+  "imageV": "mtoaysc0",
+  "tags": [
+   "bansos",
+   "GovTech",
+   "Luhut Binsar Pandjaitan",
+   "digitalisasi data"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465073-luhut-klaim-govtech-tekan-bansos-salah-sasaran-dari-776-jadi-di-bawah-10-tutup-kebocoran-sana-sini"
+ },
+ {
+  "slug": "pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi",
+  "category": "Energi",
+  "title": "Pertamina Tindak 31 SPBU di Sumbar soal BBM [Subsidi]",
+  "deck": "Pertamina Patra Niaga menyanksi 31 SPBU di Sumatera Barat pada Januari-Agustus 2026 akibat pelanggaran penyaluran BBM bersubsidi, dari kendaraan tak sesuai hingga QR Code dipakai berulang.",
+  "date": "5 September 2026",
+  "image": "assets/img/pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi.jpg",
+  "imageV": "mtoayt0n",
+  "tags": [
+   "BBM subsidi",
+   "Pertamina Patra Niaga",
+   "SPBU",
+   "Sumatera Barat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465065-31-spbu-ditindak-pertamina-patra-niaga-perketat-pengawasan-bbm-subsidi-di-sumatera-barat"
  },
  {
   "slug": "tgra-koreksi-laporan-keuangan-kas-anjlok-90-persen",
@@ -51,6 +188,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-170a304c-429f-4d6e-a64e-1610eb59c810-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "strategi-branding-bertingkat-untuk-wirausaha-gen-z",
+  "category": "UMKM",
+  "title": "Strategi Branding Bertingkat untuk Wirausaha [Gen Z]",
+  "deck": "Forum wirausaha Gen Z di Jakarta membahas tiga lapis strategi membangun merek, sekaligus program pemerintah yang mendorong UMKM naik kelas ke usaha formal.",
+  "date": "5 September 2026",
+  "image": "assets/img/strategi-branding-bertingkat-untuk-wirausaha-gen-z.jpg",
+  "imageV": "mtoaytkk",
+  "tags": [
+   "UMKM",
+   "Gen Z",
+   "branding",
+   "Kementerian UMKM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465029-jangan-asal-promosi-ini-3-strategi-pemasaran-untuk-pengusaha-gen-z"
  },
  {
   "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
@@ -6418,151 +6572,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828110952-64254-0/FinancialStatement-2026-II-OLIV.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-rilis-pmthmetd-640-juta-saham-ke-afiliasi-rp320-miliar",
-  "category": "Aksi Korporasi",
-  "title": "HATM Rilis [PMTHMETD] 640 Juta Saham ke Afiliasi Rp320 Miliar",
-  "deck": "HATM akan menerbitkan 640 juta saham baru senilai Rp320 miliar khusus untuk PT Multi Sarana Nasional, pemegang saham yang direksinya sama dengan direksi HATM, dengan dilusi hingga 6,87 persen.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "PMTHMETD",
-   "penambahan modal",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/51131230ba_0f20894f16.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-menguat-0-21-ke-6-535-sideways-jelang-akhir-pekan",
-  "category": "Pasar Modal",
-  "title": "IHSG [Menguat] 0,21% ke 6.535, Sideways Jelang Akhir Pekan",
-  "deck": "IHSG dibuka naik 0,21 persen ke 6.535,72 setelah beberapa hari tertekan kekhawatiran keamanan dan politik dalam negeri, tapi analis memperkirakan pergerakan sideways hingga akhir pekan.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/bursa-layar.jpg",
-  "tags": [
-   "IHSG",
-   "Bursa Efek Indonesia",
-   "LQ45",
-   "The Fed"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463111-ihsg-dibuka-hijau-di-653572-akankah-penguatan-berlanjut-dan-bikin-investor-happy"
- },
- {
-  "slug": "maya-panggil-rupslb-soal-pergantian-direksi-komisaris-24-sep",
-  "category": "Aksi Korporasi",
-  "title": "MAYA panggil RUPSLB soal [pergantian] direksi-komisaris 24 Sep",
-  "deck": "Bank Mayapada Internasional (MAYA) mengundang pemegang saham ke RUPSLB 24 September 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MAYA",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d87144cbf9_b59b20af76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal",
-  "category": "Makroekonomi",
-  "title": "Purbaya Siapkan [Layer] Cukai Baru Tekan Rokok Ilegal",
-  "deck": "Menkeu Purbaya menyiapkan lapisan tarif cukai baru untuk menarik pedagang rokok ilegal masuk ke sistem legal, sementara yang bertahan ilegal akan ditindak tegas.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/purbaya-siapkan-layer-cukai-baru-tekan-rokok-ilegal.jpg",
-  "imageV": "mtclk8kj",
-  "tags": [
-   "cukai rokok",
-   "rokok ilegal",
-   "CHT",
-   "Purbaya Yudhi Sadewa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463107-purbaya-siapkan-layer-cukai-baru-pedagang-rokok-ilegal-diperingatkan-tak-bisa-lagi-main-main"
- },
- {
-  "slug": "aspebindo-perkuat-ketahanan-energi-lewat-bioenergi",
-  "category": "Energi",
-  "title": "Aspebindo Perkuat Ketahanan Energi Lewat [Bioenergi]",
-  "deck": "Aspebindo menggelar summit bioenergi dan meninjau pabrik pengolah sampah jadi bahan bakar di Jakarta Utara, bagian dari perluasan bisnis ke energi terbarukan.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/aspebindo-perkuat-ketahanan-energi-lewat-bioenergi.jpg",
-  "imageV": "mtclk9i9",
-  "tags": [
-   "bioenergi",
-   "energi terbarukan",
-   "Aspebindo",
-   "RDF"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463068-aspebindo-sokong-ketahanan-energi-nasional-lewat-bioenergi"
- },
- {
-  "slug": "emas-aset-naik-30-ditopang-utang-bank-us-149-juta",
-  "category": "Aksi Korporasi",
-  "title": "EMAS: Aset Naik 30% Ditopang [Utang] Bank US$149 Juta",
-  "deck": "Laporan interim EMAS per Juni 2026: total aset naik jadi US$964,3 juta, ditopang utang bank jangka pendek baru US$149 juta seiring mulai beroperasinya anak usaha Pani Bersama Tambang.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "Merdeka Gold Resources",
-   "laporan keuangan interim",
-   "tambang emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260827220001-64211-0/FinancialStatement-2026-II-EMAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-minta-dooh-gelar-public-expose-insidentil-bahas-saham",
-  "category": "Aksi Korporasi",
-  "title": "BEI Minta DOOH Gelar Public Expose [Insidentil] Bahas Saham",
-  "deck": "PT Era Media Sejahtera Tbk (DOOH) akan menggelar Public Expose Insidentil pada 4 September 2026 atas permintaan Bursa Efek Indonesia, membahas kinerja keuangan hingga pergerakan harga sahamnya.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "Era Media Sejahtera"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dc5e89a44e_142eb6ae51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dild-pengadilan-tolak-gugatan-pkpu-bank-mayapada-ke-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "DILD: Pengadilan Tolak Gugatan [PKPU] Bank Mayapada ke Anak Usaha",
-  "deck": "Pengadilan Negeri Jakarta Pusat menolak permohonan PKPU yang diajukan Bank Mayapada terhadap PT Taman Harapan Indah, anak usaha Intiland Development (DILD).",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DILD",
-   "PKPU",
-   "Intiland Development",
-   "Taman Harapan Indah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/4a3d9dd6a8_974059e233.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026",
-  "category": "Energi",
-  "title": "Pertamina Kejar 332 Desa [Energi] Berdikari di Akhir 2026",
-  "deck": "Pertamina genjot Program Desa Energi Berdikari dari 269 jadi 332 lokasi hingga akhir 2026, memadukan panel surya, biogas, dan mikrohidro untuk ekonomi desa.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/pertamina-kejar-332-desa-energi-berdikari-di-akhir-2026.jpg",
-  "imageV": "mtbqd09s",
-  "tags": [
-   "Pertamina",
-   "energi terbarukan",
-   "desa energi berdikari",
-   "DEB"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463029-festival-deb-pertamina-2026-terus-perkuat-kolaborasi-dorong-energi-terbarukan-jadi-penggerak-ekonomi-desa"
  }
 ];

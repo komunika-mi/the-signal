@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "jN_RLe9_BPU",
+  "title": "Danantara Jadi Jembatan Investasi Indonesia-Rusia",
+  "category": "BUMN",
+  "program": "Kabar Petang",
+  "summary": "Danantara disebut menjadi jembatan kerja sama dan investasi strategis antara Indonesia dan Rusia.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena menyangkut peran lembaga pengelola investasi negara dalam menjaring modal dari mitra asing.",
+  "terbit": "2026-09-05T10:59:40+00:00"
+ },
+ {
   "id": "21IcJMXQE-Y",
   "title": "Danantara Jadi Jembatan Kerja Sama Bilateral RI-Rusia",
   "category": "Global",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
   "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat.",
   "terbit": "2026-09-02T15:24:44+00:00"
- },
- {
-  "id": "sn-PhvAmsCI",
-  "title": "Moskow Perkuat Kerja Sama Pariwisata dengan Indonesia",
-  "category": "Bisnis",
-  "program": "Kabar Hari Ini",
-  "summary": "Komite Pariwisata Kota Moskow menggelar misi bisnis di Jakarta untuk memperluas hubungan pariwisata sekaligus memperkuat kerja sama dengan Indonesia.",
-  "takeaway": "Misi bisnis lintas negara ini penting disimak karena berpotensi membuka peluang kerja sama dagang dan investasi di sektor pariwisata kedua negara.",
-  "terbit": "2026-09-01T16:54:53+00:00"
  }
 ];

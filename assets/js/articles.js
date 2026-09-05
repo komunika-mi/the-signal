@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het",
+  "category": "Makroekonomi",
+  "title": "Tinjau Pasar Solo, Wamendag: Beras dan Gula [Masih] di Atas HET",
+  "deck": "Wamendag Dyah Roro Esti mengecek harga di Pasar Nusukan, Surakarta: MINYAKITA sesuai HET, tapi beras, gula pasir, dan daging sapi masih di atas harga acuan pemerintah secara nasional.",
+  "image": "assets/img/tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T11:26:07.020Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pasar-nusukan-bersama-wali-kota-surakarta-wamendag-pastikan-pasokan-bapok-aman-dan-harga-minyakita-sesuai-het",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "MINYAKITA",
+   "harga pangan",
+   "Kemendag",
+   "Surakarta"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri turun ke Pasar Nusukan, Surakarta, Sabtu pagi (5/9), bersama Wali Kota Surakarta Respati Achmad Ardianto untuk mengecek pasokan dan harga bahan pokok, terutama minyak goreng bersubsidi MINYAKITA yang menjadi salah satu fokus pengawasan Kementerian Perdagangan. Kunjungan ini turut melibatkan Badan Pangan Nasional, Satgas Pangan, Perum BULOG, dan ID Food.",
+   "Roro menyampaikan harga MINYAKITA di pasar tersebut tercatat Rp15.700 per liter, sesuai batas harga eceran tertinggi (HET) yang ditetapkan pemerintah. Sebagai perbandingan, minyak goreng curah dijual Rp18.400 per liter dan minyak goreng kemasan premium Rp24.000 per liter, sementara gula pasir Rp18.000 per kilogram, sedikit di atas harga acuan pemerintah Rp17.500 per kilogram.",
+   "Harga komoditas lain yang dipantau: daging sapi Rp145.000 per kilogram (acuan Rp140.000), daging ayam ras Rp40.000 per kilogram (sesuai acuan), telur ayam ras Rp24.000 per kilogram (acuan Rp30.000), bawang merah Rp28.000 per kilogram (acuan Rp36.500-Rp41.500), bawang putih Rp36.000 per kilogram (acuan Rp38.000), cabai merah besar Rp38.000 per kilogram, cabai merah keriting Rp35.000 per kilogram (acuan Rp37.000-Rp55.000), dan cabai rawit merah Rp55.000 per kilogram (acuan Rp40.000-Rp57.000, mendekati batas atas kisaran). Kementerian Perdagangan mencatat secara nasional beras, gula pasir, dan daging sapi masih berada di atas HET atau harga acuan, sehingga BULOG bersama BUMN pangan lain seperti PT Berdikari dan PT PPI terus menyalurkan beras program Stabilisasi Pasokan dan Harga Pangan serta daging langsung ke pedagang pasar rakyat.",
+   "Dalam dialog dengan pedagang, Bagus Nova yang berjualan beras di Pasar Nusukan meminta agar pasokan beras premium kemasan lima kilogram dari distributor kembali rutin masuk ke pasar tradisional dengan harga sesuai HET. Wali Kota Respati Achmad Ardianto menambahkan, Pemkot Surakarta menggelar rapat koordinasi Tim Pengendalian Inflasi Daerah setiap minggu bersama kepolisian untuk mencegah penimbunan dan merespons cepat bila terjadi lonjakan harga atau gangguan pasokan. Kementerian Perdagangan menyebut pemantauan harga juga berjalan lewat Sistem Pemantauan Pasar dan Kebutuhan Pokok untuk mendeteksi lonjakan harga tak wajar di berbagai daerah."
+  ],
+  "fotoAdegan": "A produce vendor arranging bottled cooking oil, rice sacks, and fresh vegetables at a bustling Indonesian traditional market stall in early morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/F8ayqvAq5AxNujX0pOTrdEGmG8pKF1sTFCgkChjK.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Hal yang lebih penting dari kunjungan ini bukan MINYAKITA, yang harganya memang sudah pas di batas atas resmi Rp15.700 per liter, melainkan pengakuan bahwa beras, gula pasir, dan daging sapi secara nasional masih dijual di atas batas harga yang ditetapkan pemerintah. Di Pasar Nusukan sendiri gula pasir sudah Rp18.000 per kilogram, padahal batas atasnya Rp17.500, dan daging sapi Rp145.000 per kilogram, padahal batas atasnya Rp140.000. Konsumen di pasar tradisional yang paling merasakan selisih ini setiap kali belanja, sementara pedagang beras seperti Bagus Nova punya keluhan berbeda, yaitu beras premium kemasan lima kilogram yang pasokannya sering seret. Pemerintah mengatasinya dengan menyalurkan beras dan daging langsung lewat BULOG, Berdikari, dan PPI ke pedagang pasar, cara yang menambal pasokan saat itu juga tapi belum tentu menurunkan harga secara permanen. Arah ini akan lebih jelas kalau pada kunjungan pemantauan berikutnya harga beras dan daging sapi di pasar-pasar lain terbukti turun mendekati batas resmi, bukan sekadar bertahan tinggi seperti sekarang.",
+  "imageV": "mtoaypej"
+ },
+ {
+  "slug": "kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda",
+  "category": "Makroekonomi",
+  "title": "Kemendagri Minta Intervensi Ekonomi Daerah [Berbeda-beda]",
+  "deck": "Sekjen Kemendagri Tomsi Tohir meminta tim pemantauan menemukan akar masalah pertumbuhan ekonomi tiap daerah, bukan sekadar mengumpulkan data, demi target pertumbuhan 8 persen.",
+  "image": "assets/img/kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T17:18:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465085-sekjen-kemendagri-minta-tim-pemantauan-temukan-akar-masalah-pertumbuhan-ekonomi-daerah-intervensinya-berbeda-beda",
+  "tags": [
+   "Kemendagri",
+   "pertumbuhan ekonomi daerah",
+   "APBD APBN",
+   "target 8 persen"
+  ],
+  "body": [
+   "Sekretaris Jenderal Kementerian Dalam Negeri Tomsi Tohir meminta Tim Pemantauan Percepatan Pertumbuhan Ekonomi di Daerah tidak berhenti pada tugas mengumpulkan data. Tim diminta menelusuri akar persoalan yang menghambat pertumbuhan ekonomi di masing-masing daerah, menentukan langkah penyelesaian yang tepat, lalu mengawal pelaksanaannya sampai tuntas.",
+   "Arahan itu disampaikan Tomsi dalam Rapat Penyusunan dan Pemaparan Rencana Kerja tim tersebut di Mercure Convention Center, Ancol, Jakarta, Jumat 4 September 2026. Rapat ini menjadi bagian dari upaya mengejar target pertumbuhan ekonomi nasional sebesar 8 persen. Setiap tim memegang wilayah tanggung jawab dari tingkat provinsi hingga kabupaten dan kota, dengan tugas mengoordinasikan pemantauan, mengumpulkan data, memverifikasi laporan pemerintah daerah, dan menyusun analisis sebagai bahan pertimbangan pimpinan.",
+   "Kemendagri menetapkan sembilan langkah konkret yang harus dikawal pelaksanaannya di daerah, yaitu percepatan realisasi APBD, percepatan realisasi APBN, percepatan proyek infrastruktur pemerintah, pengendalian harga bahan pokok, pencegahan ekspor dan impor ilegal, perluasan kesempatan kerja, peningkatan produksi pertanian, perikanan, dan peternakan sesuai potensi lokal, peningkatan output industri manufaktur sesuai potensi lokal, serta kemudahan perizinan perusahaan. Dari sembilan langkah itu, setiap daerah wajib memilih sedikitnya tiga yang dinilai paling menentukan bagi kondisi ekonominya sendiri.",
+   "Tomsi menegaskan pendekatan terhadap setiap daerah tidak bisa disamaratakan karena karakteristik, potensi, dan persoalan tiap wilayah berbeda. \"Tidak semua daerah membutuhkan obat yang sama. Diagnosis pasti berbeda, maka intervensinya juga harus berbeda-beda. Kalau kita tidak tajam menganalisanya, penyakitnya enggak dapat secara rinci,\" ujarnya."
+  ],
+  "fotoAdegan": "Workers paving a rural road under midday sun, small trucks loaded with construction materials parked nearby, dusty open landscape",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9beb4b95871-sekjen-kemendagri-tomsi-tohir-dalam-rapat-penyusunan-dan-pemaparan-rencana-kerja-tim-pemantauan-percepatan-pertumbuhan-ekonomi-di-daerah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan anggaran atau aturan baru, melainkan cara kerja: tim pemantau pusat kini diwajibkan mencari akar masalah di tiap daerah, bukan sekadar menyetor laporan, dan setiap daerah harus memilih minimal tiga dari sembilan langkah prioritas sesuai persoalannya sendiri, mulai dari percepatan pencairan anggaran daerah dan pusat sampai kemudahan izin usaha. Yang terdampak langsung adalah pemerintah daerah yang kini dituntut punya diagnosis spesifik, sementara dampak akhirnya menyasar pekerja lewat perluasan lapangan kerja, petani dan nelayan lewat dorongan produksi, serta pelaku usaha yang menunggu izin lebih cepat. Arahnya menunjukkan pemerintah pusat mulai bergeser dari target pertumbuhan 8 persen yang seragam secara nasional menuju pendekatan yang disesuaikan per daerah, tapi belum ada tenggat kapan tim harus melaporkan hasil diagnosisnya atau daerah mana saja yang sudah dievaluasi. Yang perlu ditunggu adalah laporan pertama dari tim pemantauan ini, atau data soal seberapa besar anggaran daerah dan anggaran pusat yang benar-benar sudah dicairkan tiap triwulan, karena itu yang akan menunjukkan apakah sembilan langkah ini benar dijalankan atau berhenti sebagai arahan administratif.",
+  "imageV": "mtoaypu4"
+ },
+ {
+  "slug": "pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah",
+  "category": "Energi",
+  "title": "Pertamina Kenalkan Bahan Bakar Pesawat dari [Jelantah]",
+  "deck": "Pertamina kenalkan SAF berbahan minyak jelantah ke generasi muda di IdeaFest 2026, bahan bakar yang sudah dipakai penerbangan Pelita Air rute Jakarta-Bali.",
+  "image": "assets/img/pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T17:12:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465084-kembangkan-jelantah-jadi-bahan-bakar-pesawat-pertamina-kenalkan-transisi-energi-ke-anak-muda-di-ideafest-2026",
+  "tags": [
+   "sustainable aviation fuel",
+   "minyak jelantah",
+   "Pertamina",
+   "Pelita Air"
+  ],
+  "body": [
+   "Minyak jelantah dari dapur rumah tangga kini punya jalan lain selain dibuang: menjadi bahan baku bahan bakar pesawat. Pertamina memperkenalkan hal itu lewat booth-nya di IdeaFest 2026, Jakarta Convention Center, dengan target khusus generasi muda yang mendominasi pengunjung acara tersebut. Pesannya sederhana, aktivitas rumah tangga sehari-hari bisa ikut ambil bagian dalam upaya menekan emisi karbon di sektor penerbangan.",
+   "Produk yang dipamerkan adalah Sustainable Aviation Fuel atau SAF, bahan bakar pesawat yang salah satu bahannya berasal dari minyak jelantah bekas menggoreng, yang dalam istilah industri disebut Used Cooking Oil. Corporate Secretary Pertamina Arya Dwi Paramita mengatakan riset bahan bakar ini sudah dimulai sejak 2015, lalu diuji coba secara ketat dari 2021 hingga 2025 sebelum dianggap layak pakai. SAF ini disebutnya sebagai salah satu langkah nyata Pertamina dalam transisi energi sekaligus memperkuat kemandirian energi nasional.",
+   "Bahan bakar ini bukan lagi sekadar riset di atas kertas. SAF berbasis minyak jelantah tersebut sudah digunakan pada penerbangan Pelita Air, anak usaha Pertamina, untuk rute Jakarta-Bali. SAF Project Commercial Pertamina Patra Niaga, Ibrahim Akbar, mengatakan topik minyak jelantah ini yang paling banyak ditanyakan pengunjung IdeaFest, menandakan ada rasa ingin tahu yang besar dari masyarakat muda soal asal-usul bahan bakar ramah lingkungan.",
+   "Pertamina berharap edukasi semacam ini mendorong lebih banyak orang ikut mengumpulkan minyak jelantah dari rumah masing-masing sebagai bahan baku. Semakin banyak jelantah yang terkumpul, semakin besar pula pasokan bahan baku yang tersedia untuk produksi SAF ke depan."
+  ],
+  "fotoAdegan": "Workers pouring used cooking oil from plastic jerry cans into a large collection tank at a small recycling facility, morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9bea3a9e162-saf-project-commercial-pt-pertamina-patra-niaga-ibrahim-akbar-berbicara-di-booth-pertamina-dalam-acara-ideafest-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari berita ini bukan soal produksi, melainkan soal ajakan. Pertamina mendorong masyarakat mengumpulkan minyak jelantah bekas menggoreng sebagai bahan baku bahan bakar pesawat, setelah teknologinya diuji sejak 2015 dan sudah dipakai di penerbangan Jakarta-Bali. Yang terdampak langsung adalah rumah tangga yang selama ini membuang minyak jelantah begitu saja, karena limbah itu kini berpotensi punya nilai kalau dikumpulkan lewat program semacam ini. Berita ini belum menyebutkan berapa banyak minyak jelantah yang sudah terkumpul, berapa target volumenya, atau apakah bahan bakar ini akan diperluas ke rute penerbangan lain selain Jakarta-Bali, dan angka-angka itulah yang menentukan apakah program ini akan tetap jadi proyek percontohan kecil atau berkembang jadi sumber bahan bakar pesawat yang benar-benar signifikan.",
+  "imageV": "mtoayqpt"
+ },
+ {
   "slug": "kuki-panggil-rupslb-bahas-dividen-saham-30-september",
   "category": "Aksi Korporasi",
   "title": "KUKI Panggil RUPSLB, Bahas [Dividen] Saham 30 September",
@@ -27,6 +109,141 @@ var ARTICLES = [
   "fotoAdegan": "Close-up of hands typing on a laptop keyboard during a remote video call, blurred modern office background, soft daylight",
   "takeaway": "Laporan ini netral bagi KUKI karena baru sebatas pemberitahuan agenda rapat, sementara angka rasio pembagian dividen sahamnya sendiri belum diungkapkan sehingga besar dampaknya belum bisa dinilai. Yang tersentuh dari aksi ini nantinya adalah jumlah saham beredar dan laba per saham, sebab dividen saham menambah jumlah saham yang beredar tanpa menyerap kas perusahaan, sehingga kalau rasionya besar, laba per saham bisa terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah jalannya RUPSLB pada 30 September 2026 pukul 15.00 WIB, karena di situlah rasio pembagian dividen saham yang sebenarnya baru akan diputuskan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi",
+  "category": "UMKM",
+  "title": "KDKMP Diarahkan Jadi [Pusat] Ekonomi Desa Terintegrasi",
+  "deck": "Wamendagri Bima Arya menyebut Koperasi Desa/Kelurahan Merah Putih bakal jadi kanal tunggal distribusi subsidi dan bantuan sosial di desa, bukan sekadar toko ritel biasa.",
+  "image": "assets/img/kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T17:08:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465082-kdkmp-harus-jadi-pusat-layanan-ekonomi-desa-terintegrasi-wamendagri-bima-arya-ujung-tombaknya-pemda",
+  "tags": [
+   "KDKMP",
+   "Koperasi Merah Putih",
+   "Bima Arya",
+   "ekonomi desa"
+  ],
+  "body": [
+   "Wakil Menteri Dalam Negeri Bima Arya menegaskan Koperasi Desa/Kelurahan Merah Putih (KDKMP) harus dikembangkan sebagai pusat pelayanan ekonomi desa yang terintegrasi, bukan sekadar unit usaha retail seperti toko biasa. Pernyataan ini disampaikan dalam Seminar Nasional KDKMP di Kantor Wali Kota Bandar Lampung, Jumat, 4 September 2026.",
+   "Menurutnya, koperasi ini dirancang menggabungkan tiga fungsi sekaligus, yaitu memenuhi kebutuhan sehari-hari warga, menjadi saluran layanan pemerintah, dan menjalankan unit usaha bisnis lewat kemitraan. Simpan pinjam hanya salah satu layanan di dalamnya, sementara di lokasi yang sama bisa ada toko sembako, apotek, hingga penyaluran barang bersubsidi secara resmi.",
+   "Bima menekankan KDKMP tidak boleh dianggap sekadar pesaing minimarket. Ia menyebut koperasi ini berpotensi memotong rantai pasok dan mengurangi peran perantara, sehingga harga di tingkat petani bisa naik sementara harga di tangan konsumen bisa ditekan, sekaligus diharapkan membantu pengendalian inflasi dan membuka lapangan kerja di desa.",
+   "Dalam praktiknya, KDKMP diarahkan mendukung penyaluran bantuan sosial dan Bantuan Langsung Tunai, beras Stabilisasi Pasokan dan Harga Pangan, pupuk, serta gas LPG bersubsidi, termasuk membangun ekosistem bersama program Makan Bergizi Gratis. Pengelolaan koperasi saat ini masih dalam masa transisi sekitar dua tahun, dengan PT Agrinas Pangan Nusantara menempatkan personel dan memberikan pelatihan sambil menyerap masukan dari kepala desa dan lurah, sebelum aset KDKMP resmi dialihkan menjadi milik desa atau kelurahan."
+  ],
+  "fotoAdegan": "Rural cooperative storefront with sacks of subsidized rice and stacked LPG gas cylinders, villagers queuing outside, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9be8a36412d-wamendagri-bima-arya-dalam-seminar-nasional-kdkmp-bertema-koperasi-desakelurahan-merah-putih-untuk-mewujudkan-kedaulatan-ekonomi-rakyat-di-kantor-wali-kota-bandar-lampung-jumat-492026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar rebranding, koperasi desa ini diarahkan menjadi satu pintu yang menyalurkan bantuan sosial, BLT, beras subsidi, pupuk, dan gas LPG bersubsidi, sekaligus terhubung ke program Makan Bergizi Gratis. Yang kena dampak langsung adalah warga desa penerima bantuan itu, karena jalur pengambilan bantuannya kemungkinan berpindah ke koperasi ini, juga petani yang menurut Wamendagri bisa menikmati harga lebih baik kalau rantai pasok lewat perantara benar dipangkas. Arahnya mengarah ke satu kanal terpusat untuk distribusi bantuan negara di tingkat desa, dengan PT Agrinas Pangan Nusantara memegang kendali operasional lebih dulu selama masa transisi sekitar dua tahun, sebelum koperasi ini resmi jadi milik desa atau kelurahan. Yang akan menentukan apakah konsolidasi ini benar mempercepat penyaluran bantuan atau malah menambah satu tahap birokrasi baru adalah bagaimana proses pengalihan aset dari Agrinas ke desa berjalan saat masa transisi itu berakhir.",
+  "imageV": "mtoayr46"
+ },
+ {
+  "slug": "pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest",
+  "category": "Energi",
+  "title": "Pertamina Kenalkan Strategi [Pertumbuhan Ganda] di IdeaFest",
+  "deck": "Pertamina memperkenalkan Dual Growth Strategy di IdeaFest 2026, memadukan bisnis migas yang ada dengan pengembangan energi rendah karbon seperti SAF dari minyak jelantah.",
+  "image": "assets/img/pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T16:57:57+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465079-pertamina-kenalkan-strategi-pertumbuhan-ganda-ke-generasi-muda-energi-bersih-jadi-andalan-baru",
+  "tags": [
+   "Pertamina",
+   "SAF",
+   "energi bersih",
+   "IdeaFest 2026"
+  ],
+  "body": [
+   "PT Pertamina (Persero) memperkenalkan strategi bisnis bertajuk Dual Growth Strategy di ajang IdeaFest 2026, forum kreatif yang banyak dihadiri anak muda, di Jakarta Convention Center pada Jumat, 4 September 2026. Strategi ini menggabungkan dua arah sekaligus, yakni menjaga pasokan energi dari bisnis migas yang sudah berjalan dan membangun bisnis rendah karbon sebagai sumber pertumbuhan baru perusahaan.",
+   "Corporate Secretary Pertamina Arya Dwi Paramita menjelaskan bahwa langkah ini merespons kondisi konsumsi energi nasional yang masih lebih tinggi dibanding produksi dalam negeri, sehingga sebagian kebutuhan migas harus dipenuhi lewat impor. Menurutnya, kondisi ini membuat Pertamina harus tetap menjaga produksi BBM untuk masyarakat, sambil di saat yang sama merintis sumber energi baru agar ketergantungan pada pasokan luar negeri tidak terus membesar.",
+   "Pada sisi bisnis rendah karbon, Pertamina menyebut sejumlah bidang yang sedang dikembangkan, yaitu panas bumi, energi surya, dan bahan bakar penerbangan berkelanjutan atau Sustainable Aviation Fuel (SAF). Salah satu inovasi yang sudah berjalan adalah pengolahan minyak jelantah bekas pakai menjadi bahan baku SAF, yang diproses di Kilang Pertamina Cilacap bersama bahan baku pendukung lainnya hingga menjadi bahan bakar pesawat rendah karbon.",
+   "Pertamina menjadikan forum seperti IdeaFest sebagai ruang untuk memperkenalkan tantangan energi ini kepada generasi muda, dengan harapan turut memantik gagasan dan inovasi baru untuk menjawab kebutuhan energi Indonesia ke depan."
+  ],
+  "fotoAdegan": "Workers transferring drums of used cooking oil at an industrial collection yard, refinery towers visible in the distance, overcast morning sky.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9be4bab0a49-ideafest-2026-di-jakarta-convention-center-jcc-senayan-jakarta-jumat-492026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara Pertamina membingkai arah bisnisnya secara resmi menjadi dua jalur berjalan bersama, yaitu mempertahankan pasokan BBM harian sambil merintis bisnis energi rendah karbon seperti panas bumi, tenaga surya, dan bahan bakar pesawat dari minyak jelantah yang diolah di Kilang Cilacap. Pihak yang paling terkait dengan isu ini adalah konsumen BBM dalam negeri, karena Pertamina sendiri mengakui konsumsi nasional masih lebih tinggi dari produksi sehingga sebagian pasokan tetap bergantung pada impor migas. Untuk melihat ke mana arah strategi ini sebenarnya bergerak, berita ini belum menyebut angka konkret seperti berapa kapasitas produksi SAF dari minyak jelantah, berapa volume yang ditargetkan diserap, atau kapan bahan bakar ini mulai dipakai secara komersial oleh maskapai. Yang perlu ditunggu adalah rincian kapasitas dan jadwal komersialisasi SAF dari Kilang Cilacap, karena dari situ baru terlihat apakah strategi ini sudah punya target terukur atau masih tahap sosialisasi ke publik.",
+  "imageV": "mtoayrj6"
+ },
+ {
+  "slug": "skema-transfer-tunai-bansos-diuji-coba-awal-2027",
+  "category": "Makroekonomi",
+  "title": "Skema [Transfer Tunai] Bansos Diuji Coba Awal 2027",
+  "deck": "Ketua DEN Luhut Binsar Pandjaitan menyebut bansos akan disalurkan tunai sekitar Rp5,4 juta per keluarga, dengan uji coba dimulai kuartal I-II 2027.",
+  "image": "assets/img/skema-transfer-tunai-bansos-diuji-coba-awal-2027.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T16:44:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465077-luhut-ungkap-skema-baru-bansos-lewat-transfer-tunai-diuji-coba-mulai-kuartal-i-ii-2027",
+  "tags": [
+   "bansos",
+   "transfer tunai",
+   "Luhut Binsar Pandjaitan",
+   "Dewan Ekonomi Nasional"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan skema baru penyaluran bantuan sosial berupa transfer tunai langsung kepada keluarga penerima. Ketua Dewan Ekonomi Nasional (DEN) Luhut Binsar Pandjaitan mengatakan uji coba skema ini ditargetkan berjalan pada kuartal pertama hingga kedua 2027. Perubahan ini penting karena akan mengubah cara jutaan keluarga penerima bansos menerima bantuan negara, dari bentuk barang atau program tertentu menjadi uang tunai.",
+   "Sebelum uji coba dimulai, pemerintah lebih dulu merampungkan pengolahan dan pemutakhiran data penerima agar bantuan jatuh ke tangan yang benar-benar berhak. Luhut menargetkan proses ini selesai pada akhir tahun ini, sehingga uji coba transfer tunai bisa dimulai awal 2027. Ia menjelaskan penyaluran nantinya berbentuk uang tunai, namun penggunaannya tetap dibatasi lewat semacam kupon agar tidak disalahgunakan. “Bansos itu nanti pada ujungnya akan kita berikan cash. Mungkin pakai kupon, supaya penggunaannya benar. Tidak boleh untuk judol, minuman keras, tapi mungkin telur, ayam, dan sebagainya,” kata Luhut di Jakarta, Sabtu (5/9/2026).",
+   "Soal besaran, pemerintah sedang menghitung nilai bantuan sekitar Rp5,4 juta untuk setiap keluarga. Namun angka itu belum final karena keputusan akhir ada di tangan Presiden Prabowo Subianto. Luhut bahkan menyebut total anggaran program ini berpotensi mencapai Rp1.200 triliun apabila perhitungan penghematan anggaran pemerintah terwujud, meski ia menekankan hal itu masih bergantung pada arahan Presiden Prabowo Subianto.",
+   "Selain menyiapkan mekanisme transfer tunai, pemerintah juga mengembangkan sistem digital untuk memperbaiki akurasi data penerima bansos. Sistem ini akan diintegrasikan dengan data Direktorat Jenderal Kependudukan dan Pencatatan Sipil (Dukcapil) Kementerian Dalam Negeri. Proses verifikasi penerima juga direncanakan memanfaatkan teknologi pengenalan wajah untuk memastikan identitas penerima sesuai data kependudukan."
+  ],
+  "fotoAdegan": "Vendors arranging trays of eggs and live chickens at a busy traditional market stall in Indonesia, early morning.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/04/01/67eb695f2273b-ilustrasi-bansos-pkh-dan-bpnt_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari rencana ini adalah bentuk penyaluran bansos, dari program bantuan biasa menjadi transfer uang tunai langsung ke keluarga penerima, dengan nilai yang sedang dihitung sekitar Rp5,4 juta per keluarga dan pembatasan penggunaan lewat semacam kupon agar tidak dipakai untuk judi online atau minuman keras. Yang terdampak langsung adalah keluarga penerima bansos, karena mereka harus melalui pemutakhiran data ulang, termasuk verifikasi wajah, sebelum bisa ikut uji coba. Arah kebijakan ini masih terbelah antara dua kemungkinan, uji coba berskala terbatas mengikuti angka Rp5,4 juta per keluarga seperti yang sudah dihitung, atau program berskala jauh lebih besar jika hitungan penghematan anggaran yang disebut Luhut sampai Rp1.200 triliun itu benar terwujud. Bukti yang ada sekarang lebih condong ke skenario pertama karena baru itu yang punya angka pasti, sementara angka Rp1.200 triliun masih bersyarat pada hasil penghematan. Yang akan memastikan arahnya adalah keputusan final Presiden Prabowo Subianto soal besaran bansos dan kepastian rampungnya pemutakhiran data penerima yang ditargetkan akhir tahun ini, sebelum uji coba kuartal I-II 2027 dimulai.",
+  "imageV": "mtoayrxw"
+ },
+ {
+  "slug": "luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10",
+  "category": "Makroekonomi",
+  "title": "Luhut: GovTech Tekan Bansos Salah Sasaran ke Bawah [10%]",
+  "deck": "Ketua Dewan Ekonomi Nasional Luhut Binsar Pandjaitan mengklaim integrasi data GovTech menekan bansos salah sasaran dari 77,6 persen menjadi di bawah 10 persen.",
+  "image": "assets/img/luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T16:26:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465073-luhut-klaim-govtech-tekan-bansos-salah-sasaran-dari-776-jadi-di-bawah-10-tutup-kebocoran-sana-sini",
+  "tags": [
+   "bansos",
+   "GovTech",
+   "Luhut Binsar Pandjaitan",
+   "digitalisasi data"
+  ],
+  "body": [
+   "Ketua Dewan Ekonomi Nasional (DEN) Luhut Binsar Pandjaitan mengklaim sistem integrasi data pemerintah, yang disebut government technology atau GovTech, mulai membuahkan hasil dalam penyaluran bantuan sosial. Ia menyebut porsi bansos yang salah sasaran turun drastis, dari 77,6 persen menjadi di bawah 10 persen. Klaim ini penting karena menyangkut anggaran negara untuk kelompok miskin yang selama ini sering dikeluhkan tidak sampai ke penerima yang seharusnya berhak.",
+   "Menurut Luhut, angka itu berasal dari uji coba program di Banyuwangi, yang menurutnya membongkar banyak masalah dalam pendataan penerima bansos sebelum akhirnya diperbaiki. Pemerintah, katanya, terus menyambungkan data dari berbagai kementerian dan lembaga, lalu mengolahnya dengan bantuan kecerdasan buatan untuk menyaring siapa yang benar-benar berhak menerima bantuan. Ia menyebut progres pembangunan GovTech kini sudah mencapai sekitar 80 persen, dengan target peluncuran resmi oleh Presiden Prabowo Subianto pada Oktober 2026.",
+   "Luhut menambahkan, seluruh data pemerintah ditargetkan sudah memakai satu nomor identitas yang sama untuk setiap warga pada akhir 2026, sehingga berbagai instansi tidak lagi punya data yang terpisah-pisah dan saling bertentangan. Ia mengklaim langkah ini berpotensi menghemat anggaran negara lebih dari Rp1.200 triliun dengan menutup celah kebocoran serta memaksa birokrasi menjadi lebih transparan dan efisien. Pernyataan ini disampaikan Luhut dalam acara Reuni Akbar Institut Teknologi Del di Jakarta, Sabtu (5/9/2026).",
+   "Ia menilai transformasi digital di pemerintahan semacam ini bisa menjadi salah satu pendorong pertumbuhan ekonomi Indonesia dalam jangka panjang."
+  ],
+  "fotoAdegan": "A technician checking cables among rows of server racks glowing with blue indicator lights in a data center",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/04/6a71f83c3ff60-luhut-binsar-pandjaitan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Klaim penurunan bansos salah sasaran dari 77,6 persen ke di bawah 10 persen ini berasal dari uji coba di satu daerah, Banyuwangi, dan disampaikan langsung oleh pejabat yang menggagas programnya, bukan dari hasil audit pihak independen. Yang langsung terdampak adalah penerima bansos di seluruh Indonesia, karena penyaringan otomatis lewat data yang disambungkan antar-instansi bisa saja mencoret nama yang sebenarnya berhak kalau data dasarnya belum rapi, dan juga kementerian serta pemerintah daerah yang harus menyerahkan data mereka ke satu sistem bersama. Arahnya jelas menuju satu identitas data tunggal untuk setiap warga yang ditargetkan rampung akhir 2026, dengan sistem GovTech itu sendiri dijadwalkan diluncurkan Presiden Prabowo Subianto pada Oktober 2026. Peluncuran nasional itulah yang akan jadi ujian sesungguhnya, apakah hasil sebaik uji coba di Banyuwangi bisa terulang ketika sistem dipakai untuk mendata seluruh penerima bansos di Tanah Air.",
+  "imageV": "mtoaysc0"
+ },
+ {
+  "slug": "pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi",
+  "category": "Energi",
+  "title": "Pertamina Tindak 31 SPBU di Sumbar soal BBM [Subsidi]",
+  "deck": "Pertamina Patra Niaga menyanksi 31 SPBU di Sumatera Barat pada Januari-Agustus 2026 akibat pelanggaran penyaluran BBM bersubsidi, dari kendaraan tak sesuai hingga QR Code dipakai berulang.",
+  "image": "assets/img/pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T15:42:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465065-31-spbu-ditindak-pertamina-patra-niaga-perketat-pengawasan-bbm-subsidi-di-sumatera-barat",
+  "tags": [
+   "BBM subsidi",
+   "Pertamina Patra Niaga",
+   "SPBU",
+   "Sumatera Barat"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga menindak 31 stasiun pengisian bahan bakar umum (SPBU) di Sumatera Barat sepanjang Januari hingga Agustus 2026 karena berbagai pelanggaran dalam penyaluran BBM bersubsidi. Langkah ini penting bagi masyarakat karena menyangkut jatah BBM subsidi yang bisa berkurang jaminannya kalau ada penyelewengan di lapangan.",
+   "Pelanggaran yang ditemukan Pertamina Patra Niaga Regional Sumbagut antara lain pengisian BBM untuk kendaraan yang tidak sesuai peruntukan, penggunaan kode QR yang tidak cocok dengan kendaraan terdaftar, serta transaksi dengan kode QR yang sama dipakai berulang kali. Atas temuan tersebut, pengelola SPBU yang terlibat diberi pembinaan sekaligus sanksi sesuai ketentuan yang berlaku.",
+   "Vice President Corporate Communication PT Pertamina Patra Niaga, Kitty Andhora, mengatakan pengawasan distribusi BBM bersubsidi dilakukan secara berkelanjutan agar penyalurannya tetap tepat sasaran. “Setiap temuan kami tindak lanjuti melalui pemeriksaan, pembinaan, maupun sanksi sesuai ketentuan. Kami ingin memastikan tidak ada praktik yang tidak sesuai yang pada akhirnya mengurangi hak masyarakat yang berhak menerima BBM Subsidi,” kata Kitty, Sabtu (5/9/2026).",
+   "Selain menindak pelanggaran, Pertamina Patra Niaga juga memperkuat tata kelola SPBU dan pengawasan lewat program Subsidi Tepat berbasis kode QR, sebagai bagian dari evaluasi berkelanjutan untuk menjaga kepatuhan penyalur sekaligus kualitas layanan energi bagi masyarakat."
+  ],
+  "fotoAdegan": "A fuel station attendant filling a motorcycle tank at the pump nozzle, midday queue building at a busy Indonesian gas station forecourt.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9bd4eeae23b-ilustrasi-operasional-spbu-di-sumatera-barat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah angka penindakan: sepanjang Januari-Agustus 2026, Pertamina Patra Niaga memberi pembinaan atau sanksi ke 31 SPBU di Sumatera Barat karena penyelewengan seperti kode QR yang dipakai berulang untuk transaksi yang sama, kode QR yang tidak cocok dengan kendaraannya, atau BBM bersubsidi yang mengalir ke kendaraan yang sebenarnya tidak berhak. Yang langsung terdampak adalah pengelola SPBU yang ditegur atau disanksi, sementara pihak yang seharusnya dilindungi adalah masyarakat pemilik kendaraan yang memang berhak atas BBM bersubsidi. Berita ini tidak menyebutkan apakah 31 SPBU itu lebih banyak atau lebih sedikit dibanding penindakan periode yang sama pada tahun-tahun sebelumnya, jadi belum jelas apakah pelanggaran di lapangan memang meningkat atau sistem kode QR dalam program Subsidi Tepat cuma makin efektif menangkap penyimpangan yang sebelumnya lolos. Yang perlu dicermati adalah apakah Pertamina merilis data pembanding, baik dari provinsi lain maupun dari tahun sebelumnya, karena dari situ baru kelihatan apakah pengawasan BBM subsidi ini memang mengetat secara meluas atau sekadar temuan rutin di satu provinsi.",
+  "imageV": "mtoayt0n"
  },
  {
   "slug": "tgra-koreksi-laporan-keuangan-kas-anjlok-90-persen",
@@ -80,6 +297,32 @@ var ARTICLES = [
   "fotoAdegan": "Office workers stacking closed claim folders on a busy desk at a Jakarta insurance office, fluorescent lighting overhead.",
   "takeaway": "Laporan ini condong positif bagi MTWI karena perusahaan berhasil membalikkan kerugian Rp8,4 miliar pada 2023 menjadi laba Rp12,2 miliar pada 2024, sejalan dengan kenaikan pendapatan premi 57,8 persen dan opini audit wajar tanpa modifikasian. Yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih milik pemegang saham yang berfungsi sebagai bantalan modal perusahaan asuransi untuk menyerap risiko klaim, yang naik 16,9 persen menjadi Rp280,7 miliar berkat tambahan modal saham dan laba ditahan yang membaik, tapi kenaikan liabilitas yang lebih cepat yaitu 79,6 persen membuat bantalan itu relatif menipis dibanding total kewajiban. Beban bunga turun lebih dari separuh menjadi Rp565 juta dari Rp1,19 miliar, tanda biaya utang mengecil. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Saham Tahunan yang wajib digelar paling lambat akhir Juni 2025 sesuai aturan OJK untuk mengesahkan laporan ini dan menentukan penggunaan laba, serta konsistensi penilaian auditor baru atas aset reasuransi senilai Rp678,4 miliar yang jadi sorotan utama pemeriksaan tahun ini.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "strategi-branding-bertingkat-untuk-wirausaha-gen-z",
+  "category": "UMKM",
+  "title": "Strategi Branding Bertingkat untuk Wirausaha [Gen Z]",
+  "deck": "Forum wirausaha Gen Z di Jakarta membahas tiga lapis strategi membangun merek, sekaligus program pemerintah yang mendorong UMKM naik kelas ke usaha formal.",
+  "image": "assets/img/strategi-branding-bertingkat-untuk-wirausaha-gen-z.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T13:07:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465029-jangan-asal-promosi-ini-3-strategi-pemasaran-untuk-pengusaha-gen-z",
+  "tags": [
+   "UMKM",
+   "Gen Z",
+   "branding",
+   "Kementerian UMKM"
+  ],
+  "body": [
+   "Forum bisnis untuk wirausahawan generasi Z di Jakarta membahas cara membangun merek usaha secara bertahap, sekaligus memaparkan program pemerintah yang mendorong pelaku usaha kecil beralih dari sektor informal ke formal. Acara yang digelar Sabtu, 5 September 2026, di Balai Penjaminan Mutu Pendidikan DKI Jakarta ini menghadirkan pendiri Kasisolusi Deryansha Azhari serta perwakilan Kementerian UMKM, Muhammad Subkhan Subkhi. Forum semacam ini menyasar generasi muda yang makin banyak merintis usaha lewat media sosial, namun sering langsung berjualan tanpa strategi merek yang jelas.",
+   "Deryansha memaparkan bahwa strategi pemasaran perlu dipisah dalam tiga lapis, yaitu membangun reputasi pribadi pemilik usaha seperti Steve Jobs atau Nadiem Makarim, mengangkat keunggulan produk seperti yang dilakukan Gojek atau Indomie, dan memperkuat nama besar perusahaan induk seperti Apple atau GoTo. Ia juga menekankan urutan konten yang perlu dibangun sebelum berjualan, mulai dari edukasi, inspirasi, hiburan, ruang diskusi, hingga kedekatan emosional dengan calon pembeli. Menurutnya kesalahan paling umum pengusaha pemula adalah langsung mempromosikan produk tanpa melewati tahap-tahap itu, padahal transaksi akan lebih mudah terjadi begitu kepercayaan konsumen sudah terbentuk.",
+   "Dari sisi kebijakan, Kementerian UMKM melalui Subkhan mendorong pelaku usaha Gen Z berani beralih dari usaha informal menjadi pelaku ekonomi formal yang lebih berdaya saing. Pemerintah menyediakan layanan satu pintu lewat platform SAPA UMKM dan program PRO-KESRA Produktif, yang mencakup pengurusan Nomor Induk Berusaha, pendaftaran merek, sertifikasi halal, hingga pendampingan inkubasi usaha. Layanan ini ditujukan untuk menekan risiko kegagalan bisnis pada fase awal, saat usaha rintisan baru justru paling rentan tutup."
+  ],
+  "fotoAdegan": "A young entrepreneur photographing handmade snack products with a smartphone on a ring light stand in a small home workshop",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/05/6a9bb0fe85712-jangan-asal-promosi-ini-3-strategi-pemasaran-untuk-pengusaha-gen-z_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Berita ini sebetulnya bukan soal kebijakan baru, melainkan forum edukasi yang mengulang dua program pemerintah yang sudah berjalan, yaitu SAPA UMKM dan PRO-KESRA Produktif, layanan satu pintu untuk mengurus izin usaha, pendaftaran merek, dan sertifikasi halal bagi pelaku usaha kecil. Yang kena dampaknya adalah pelaku usaha muda yang masih berjualan tanpa izin resmi, karena merekalah sasaran ajakan pemerintah untuk naik kelas menjadi usaha formal. Belum ada di berita ini angka berapa banyak UMKM yang sudah memakai kedua layanan tersebut atau target yang ingin dicapai, jadi belum bisa dipastikan apakah ajakan semacam ini benar-benar mendorong banyak usaha berpindah status. Yang perlu ditunggu adalah data jumlah pengguna SAPA UMKM dari Kementerian UMKM atau evaluasi hasil program PRO-KESRA Produktif, karena dari situ baru terlihat apakah dorongan formalisasi ini berjalan atau sekadar imbauan di forum-forum seperti ini.",
+  "imageV": "mtoaytkk"
  },
  {
   "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",

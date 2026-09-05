@@ -560,6 +560,134 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "btps-rinci-jadwal-buyback-rp1-triliun-rupslb-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rinci Jadwal Buyback [Rp1 Triliun], RUPSLB 13 Oktober",
+  "deck": "Bank BTPN Syariah membuka jadwal lengkap pembelian kembali saham senilai maksimal Rp1 triliun, dari RUPSLB 13 Oktober hingga proforma dampaknya ke laba per saham.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "Bank BTPN Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c28f77a5ec_5457bebb72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hais-paparkan-kinerja-laba-bersih-turun-44-8",
+  "category": "Aksi Korporasi",
+  "title": "HAIS Paparkan Kinerja, Laba Bersih [Turun] 44,8%",
+  "deck": "Materi public expose HAIS memperlihatkan laba bersih semester I 2026 turun 44,8 persen jadi Rp18,81 miliar, sementara proyek pelabuhan apung sudah 75 persen rampung.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAIS",
+   "public expose",
+   "kinerja keuangan",
+   "pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62496a454d_f53a05f5cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-peroleh-rating-iraa-stabil-untuk-obligasi-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Peroleh Rating irAA [Stabil] untuk Obligasi Rp3,5 Triliun",
+  "deck": "PT Kredit Rating Indonesia menegaskan peringkat irAA dan irAAsy dengan outlook stabil untuk obligasi, sukuk, dan obligasi dolar terbaru Indah Kiat Pulp & Paper.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "Indah Kiat Pulp Paper",
+   "rating obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/affe76d0b2_d7111b9868.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fapa-pastikan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Pastikan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PT FAP Agri Tbk merespons surat Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAPA",
+   "PT FAP Agri Tbk",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c435ce7c4_d82019adda.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sofa-ekuitas-susut-14-6-auditor-ragukan-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SOFA: Ekuitas Susut 14,6%, Auditor Ragukan [Kelangsungan Usaha]",
+  "deck": "Laporan keuangan interim semester I 2026 SOFA mencatat rugi tahun berjalan yang membengkakkan akumulasi defisit menjadi Rp16,01 miliar, sementara aset dan ekuitas perseroan sama-sama menyusut.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "laporan keuangan interim",
+   "going concern",
+   "emiten furnitur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904153632-64354-0/FinancialStatement-2026-II-SOFA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-paparkan-laba-naik-282-dan-ekspansi-ke-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Paparkan Laba Naik 282% dan Ekspansi ke [Malaysia]",
+  "deck": "Materi Public Expose Tahunan MEDC memuat lonjakan laba bersih 282 persen, penurunan rasio utang, dan rencana ekspansi ke ladang minyak Malaysia.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "Public Expose",
+   "Laba Bersih",
+   "Ekspansi Malaysia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2999d91_9c1190ccf8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ekad-jelaskan-suspensi-cooling-down-saham-lewat-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Jelaskan [Suspensi Cooling Down] Saham lewat Public Expose",
+  "deck": "EKAD akan menggelar public expose insidentil pada 8 September 2026 untuk menjelaskan suspensi cooling down atas sahamnya, sesuai permintaan Bursa.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EKAD",
+   "public expose",
+   "suspensi saham",
+   "cooling down"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d469a9649a_08251a4423.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cbut-catat-laba-melonjak-jadi-rp169-66-miliar-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "CBUT catat laba [melonjak] jadi Rp169,66 miliar di semester I",
+  "deck": "Aset dan liabilitas CBUT sama-sama melonjak lebih dari 40 persen imbas aturan baru penempatan devisa hasil ekspor, sementara laba semester I naik empat kali lipat jadi Rp169,66 miliar.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBUT",
+   "laporan keuangan interim",
+   "devisa hasil ekspor",
+   "sawit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904145435-64357-0/FinancialStatement-2026-II-CBUT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
   "category": "Aksi Korporasi",
   "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",
@@ -6439,135 +6567,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/baab9c4934_0e386963dc.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "peringkat-utang-ptpp-anjlok-ke-idbb-sebelum-rupo-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "Peringkat Utang PTPP [Anjlok] ke idBB Sebelum RUPO Obligasi",
-  "deck": "Pefindo memangkas peringkat PTPP dari idBBB+ ke idBB dengan status CreditWatch negatif, menyusul rencana restrukturisasi kupon dan jatuh tempo obligasi serta sukuk yang masih beredar.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "Peringkat Utang",
-   "Restrukturisasi Obligasi",
-   "Pefindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/973a356dc2_f16e149cf7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pjhb-jawab-bursa-akui-tak-ada-info-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "PJHB Jawab Bursa, Akui Tak Ada Info di Balik [Volatilitas] Saham",
-  "deck": "Menjawab surat BEI soal lonjakan transaksi sahamnya, PJHB menyatakan tidak ada informasi material yang belum diungkapkan dan pemegang saham pengendali tak berencana ubah kepemilikan.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PJHB",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/44d68e53e1_fd823a5dcd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-jadwalkan-delisting-20-waran-terstruktur-seri-t-33",
-  "category": "Aksi Korporasi",
-  "title": "DR Jadwalkan [Delisting] 20 Waran Terstruktur Seri T-33",
-  "deck": "RHB Sekuritas (DR) umumkan penghentian perdagangan, pelaksanaan otomatis, dan delisting 20 waran terstruktur penerbitan ke-33 pada 9-15 September 2026.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas Indonesia",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/571c9a883c_84a2188e78.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-konfirmasi-tak-ada-informasi-material-di-balik-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "PART Konfirmasi Tak Ada Informasi Material di Balik [Volatilitas]",
-  "deck": "Menjawab permintaan BEI soal lonjakan volatilitas transaksi, PART menyatakan tidak ada info material dan pemegang saham utama tak berencana ubah kepemilikan.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cc77402c6_1e24425c6d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-lunasi-obligasi-dan-sukuk-rp2-49-triliun-pelunasan",
-  "category": "Aksi Korporasi",
-  "title": "INKP Lunasi Obligasi dan Sukuk Rp2,49 Triliun [Pelunasan]",
-  "deck": "Indah Kiat Pulp & Paper melunasi pokok obligasi dan sukuk mudharabah senilai total Rp2,49 triliun kepada pemegang efek pada 26 Agustus 2026.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi",
-   "sukuk mudharabah",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/05a9f95dfb_ef45c8a4b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nice-ganti-susunan-direksi-dan-komisaris-usai-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "NICE ganti susunan [Direksi] dan Komisaris usai RUPSLB",
-  "deck": "RUPSLB 26 Agustus 2026 menetapkan Chang Pyo Hong sebagai Direktur Utama baru dan merombak penuh susunan Direksi serta Dewan Komisaris NICE hingga RUPST 2028.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "Direksi",
-   "RUPSLB",
-   "Tambang Nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/afae5e7a1f_549b500c05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iapi-usulkan-satu-standar-asurans-keberlanjutan",
-  "category": "Pasar Modal",
-  "title": "IAPI Usulkan [Satu] Standar Asurans Keberlanjutan",
-  "deck": "IAPI mendorong satu standar internasional untuk audit laporan keberlanjutan di Indonesia, seiring OJK menyiapkan aturan wajib pengungkapannya.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/iapi-usulkan-satu-standar-asurans-keberlanjutan.jpg",
-  "imageV": "mtb0rt8r",
-  "tags": [
-   "IAPI",
-   "asurans keberlanjutan",
-   "greenwashing",
-   "OJK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462806-cegah-greenwashing-iapi-usulkan-satu-standar-asurans-keberlanjutan-di-indonesia"
- },
- {
-  "slug": "lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang",
-  "category": "Bisnis",
-  "title": "Lomba Lari [SEZ Industropolis Run] 2026 Digelar di KEK Batang",
-  "deck": "SEZ Industropolis Run 2026 digelar 6 Desember di KEK Batang, menyasar 2.626 pelari dengan lintasan tersertifikasi AIMS dan atlet nasional turut berkompetisi di kawasan industri tepi Laut Jawa.",
-  "date": "26 Agustus 2026",
-  "image": "assets/img/lomba-lari-sez-industropolis-run-2026-digelar-di-kek-batang.jpg",
-  "imageV": "mtb0rtp1",
-  "tags": [
-   "KEK Industropolis Batang",
-   "SEZ Industropolis Run 2026",
-   "lari maraton",
-   "kawasan ekonomi khusus"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462801-sez-industropolis-run-2026-akan-digelar-suguhkan-pengalaman-lari-di-kawsan-industri-tepi-laut-jawa"
  }
 ];

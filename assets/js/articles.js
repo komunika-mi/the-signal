@@ -907,6 +907,216 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "btps-rinci-jadwal-buyback-rp1-triliun-rupslb-13-oktober",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rinci Jadwal Buyback [Rp1 Triliun], RUPSLB 13 Oktober",
+  "deck": "Bank BTPN Syariah membuka jadwal lengkap pembelian kembali saham senilai maksimal Rp1 triliun, dari RUPSLB 13 Oktober hingga proforma dampaknya ke laba per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:49:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c28f77a5ec_5457bebb72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "buyback saham",
+   "RUPSLB",
+   "Bank BTPN Syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 13 Oktober 2026, dengan salah satu agenda meminta restu pemegang saham untuk rencana pembelian kembali saham (buyback) yang telah beredar di bursa. Sesuai POJK Nomor 29/2023, jumlah saham yang bisa dibeli kembali dibatasi maksimal 10 persen dari modal ditempatkan perseroan, dan aksi ini tidak boleh membuat kekayaan bersih perusahaan turun sampai di bawah modal ditempatkan ditambah cadangan wajib. Per 30 Juni 2026, BTPS belum memiliki saham treasuri sama sekali.",
+   "Jadwalnya sudah dipatok rinci: pengumuman RUPSLB dan keterbukaan informasi ini disebar sejak 4 September 2026, pemanggilan resmi RUPSLB pada 21 September 2026, rapat digelar 13 Oktober 2026, dan jika disetujui, periode pembelian saham berlangsung 12 bulan sejak 14 Oktober 2026. Ringkasan risalah RUPSLB akan diumumkan sehari setelah rapat, yaitu 15 Oktober 2026. Perkiraan biaya buyback dipatok maksimal Rp1 triliun, sudah termasuk komisi pialang, dan seluruh dananya berasal dari ekuitas perseroan, bukan pinjaman.",
+   "Manajemen menyertakan simulasi dampak buyback terhadap laporan keuangan per 30 Juni 2026. Total aset diperkirakan turun dari Rp23,30 triliun menjadi Rp22,30 triliun, sejalan dengan kas yang terpakai untuk membeli saham sendiri. Laba tahun berjalan diperkirakan turun tipis dari Rp655,49 miliar menjadi Rp650,16 miliar, dan ekuitas turun dari Rp10,26 triliun menjadi Rp9,26 triliun. Namun laba per saham dasar justru naik dari Rp85,09 menjadi Rp94,54, karena jumlah saham yang beredar berkurang lebih besar proporsinya dibanding penurunan laba."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, pedestrians walking past at midday, soft reflections on the facade",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham BTPS, karena buyback dibiayai penuh dari ekuitas internal tanpa utang baru, dan simulasi resminya menunjukkan laba per saham naik meski laba absolut sedikit tergerus. Yang tersentuh di sini adalah ekuitas dan laba per saham: ekuitas turun karena sebagian kas perusahaan dipakai untuk membeli sahamnya sendiri, sementara laba per saham naik karena rumusnya adalah laba dibagi jumlah saham beredar, jadi walau labanya turun tipis, pembaginya mengecil lebih cepat sehingga hasil baginya justru membesar, itu sebabnya pasar biasanya menganggap buyback menguntungkan pemegang saham yang bertahan. Perlu diingat, kenaikan laba per saham di atas kertas ini baru terjadi kalau seluruh anggaran Rp1 triliun benar-benar terpakai, bukan jaminan otomatis. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 21 September 2026 dan hasil persetujuan pada RUPSLB 13 Oktober 2026, sebab tanpa restu pemegang saham di rapat itu, realisasi pembelian yang dijadwalkan mulai 14 Oktober 2026 tidak bisa jalan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hais-paparkan-kinerja-laba-bersih-turun-44-8",
+  "category": "Aksi Korporasi",
+  "title": "HAIS Paparkan Kinerja, Laba Bersih [Turun] 44,8%",
+  "deck": "Materi public expose HAIS memperlihatkan laba bersih semester I 2026 turun 44,8 persen jadi Rp18,81 miliar, sementara proyek pelabuhan apung sudah 75 persen rampung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:40:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62496a454d_f53a05f5cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAIS",
+  "tags": [
+   "HAIS",
+   "public expose",
+   "kinerja keuangan",
+   "pelayaran"
+  ],
+  "body": [
+   "PT Hasnur Internasional Shipping Tbk (HAIS) menyampaikan materi Paparan Publik (Public Expose) Tahunan ke Bursa Efek Indonesia lewat surat bernomor 322/HIS-JKT/CORSEC-UM06/IX/2026 yang ditandatangani Corporate Secretary Rengga Temenggung. Acara paparan publik dijadwalkan berlangsung Rabu, 9 September 2026, pukul 09.30 WIB hingga selesai, melalui video conference Zoom, dan akan dihadiri jajaran direksi perusahaan.",
+   "Materi yang dilampirkan memuat kinerja keuangan semester I 2026. Pendapatan perusahaan turun 14,4 persen secara tahunan menjadi Rp372,35 miliar dari Rp434,86 miliar pada semester I 2025. Laba bersih turun lebih tajam, anjlok 44,8 persen menjadi Rp18,81 miliar dari Rp34,1 miliar. Laba kotor tercatat Rp71,66 miliar, turun 25,7 persen, sementara EBITDA turun 11 persen menjadi Rp96,32 miliar meski margin EBITDA justru naik tipis ke 25,9 persen dari 24,9 persen. Volume kargo yang diangkut turun 14,3 persen menjadi 4,3 juta metrik ton dibanding 5,1 juta ton pada periode sama tahun lalu. Namun secara kuartalan performa membaik, pendapatan kuartal II 2026 naik 28,6 persen dari kuartal I, dan laba bersih melonjak dari Rp3,14 miliar menjadi Rp15,67 miliar.",
+   "Dari sisi neraca, total aset perusahaan per Juni 2026 naik menjadi Rp1,58 triliun dari Rp1,53 triliun di akhir 2025. Liabilitas naik menjadi Rp747,99 miliar dari Rp695,58 miliar, didorong kenaikan pinjaman berbunga menjadi Rp551,41 miliar dari Rp519,52 miliar. Kas dan bank menyusut menjadi Rp84,32 miliar dari Rp122,85 miliar, sementara ekuitas relatif stabil di Rp831,55 miliar dibanding Rp838,86 miliar sebelumnya.",
+   "Materi tersebut juga memuat pembaruan proyek Floating Loading Facility (FLF) yang dikerjakan lewat perusahaan patungan baru, PT Hasnur Multi Sinergi, dimiliki PT Hasnur Resources Terminal sebesar 55 persen dan PT Multi Guna Maritim 45 persen. Fasilitas berkapasitas 30.000 metrik ton per hari ini bernilai investasi Rp420 miliar hingga Rp500 miliar dan berlokasi di Kalimantan Selatan. Progres konstruksi per Juni 2026 sudah mencapai 75,25 persen, dengan target commencement of operation pada kuartal I 2027."
+  ],
+  "fotoAdegan": "A tugboat pushing a heavily loaded coal barge along a wide brown river in South Kalimantan, overcast sky",
+  "takeaway": "Materi ini condong negatif bagi HAIS: laba bersih semester I 2026 anjlok 44,8 persen secara tahunan dan kas perusahaan menyusut signifikan, meski ada perbaikan performa dari kuartal ke kuartal. Pos yang tersentuh adalah arus kas dan struktur utang, kas turun dari Rp122,85 miliar menjadi Rp84,32 miliar dalam enam bulan sementara pinjaman berbunga justru naik jadi Rp551,41 miliar, kombinasi yang membuat pelaku pasar mencermati kemampuan perusahaan membiayai operasional tanpa terlalu bergantung pada utang baru. Sisi yang menahan penilaian agar tidak sepenuhnya negatif adalah margin EBITDA yang justru sedikit membaik ke 25,9 persen, tanda efisiensi operasional masih terjaga di tengah tekanan pendapatan. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada Rabu, 9 September 2026 pukul 09.30 WIB, saat manajemen dijadwalkan menjelaskan langsung penyebab penurunan kinerja ini, serta kelanjutan proyek pelabuhan apung yang ditargetkan mulai beroperasi pada kuartal I 2027.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "inkp-peroleh-rating-iraa-stabil-untuk-obligasi-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Peroleh Rating irAA [Stabil] untuk Obligasi Rp3,5 Triliun",
+  "deck": "PT Kredit Rating Indonesia menegaskan peringkat irAA dan irAAsy dengan outlook stabil untuk obligasi, sukuk, dan obligasi dolar terbaru Indah Kiat Pulp & Paper.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:24:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/affe76d0b2_d7111b9868.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "Indah Kiat Pulp Paper",
+   "rating obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "PT Kredit Rating Indonesia (KRI) menerbitkan surat keterangan peringkat bernomor RTG-001/KRI-DIR/VIII/2026 tanggal 13 Agustus 2026 yang menegaskan rating untuk sejumlah instrumen utang terbaru Indah Kiat Pulp & Paper (INKP). Obligasi Berkelanjutan VI Tahap III Tahun 2026 Seri A senilai Rp1,71 triliun yang jatuh tempo 3 September 2029, dan Seri B senilai Rp285,53 miliar yang jatuh tempo 3 September 2031, keduanya diberi rating irAA dengan outlook stabil. Kedua seri ini merupakan bagian dari program obligasi payung senilai maksimal Rp10 triliun.",
+   "Untuk instrumen syariah, Sukuk Mudharabah Berkelanjutan V Tahap III Seri A senilai Rp766,87 miliar (jatuh tempo 3 September 2029) dan Seri B senilai Rp733,14 miliar (jatuh tempo 3 September 2031) mendapat rating irAAsy dengan outlook stabil. Adapun Obligasi USD Berkelanjutan III Tahap II Seri A senilai US$10,96 juta dan Seri B senilai US$2,8 juta, yang jatuh tempo pada tanggal yang sama dengan seri rupiahnya, memperoleh rating irAA stabil. Total nilai obligasi rupiah pada tahap ini Rp2 triliun dan sukuk Rp1,5 triliun, sejalan dengan penerbitan senilai gabungan Rp3,5 triliun dan sekitar US$13,76 juta yang sebelumnya sudah rampung diterbitkan INKP.",
+   "Rating tersebut mengacu pada sertifikat pemeringkatan sebelumnya, RC-004/KRI-DIR/XII/2025 tanggal 12 Desember 2025, yang juga menetapkan rating korporasi INKP di rAA dengan outlook stabil serta mempertahankan rating Obligasi USD Berkelanjutan I Tahun 2023 senilai maksimal US$300 juta di level rAA. Peringkat ini berlaku untuk periode 11 Desember 2025 sampai 1 Desember 2026, dan surat keterangan peringkat sebelumnya yang terbit 29 Juli 2026 dinyatakan tidak berlaku lagi sejak surat baru ini terbit. Laporan ditandatangani Corporate Secretary INKP, Heri Santoso, dan disampaikan kepada Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Stacks of large paper rolls in an industrial pulp and paper mill warehouse, forklift moving between them, workers in safety vests",
+  "takeaway": "Netral, karena laporan ini hanya menegaskan status quo, bukan perubahan arah risiko: peringkat kredit INKP tetap di level yang sama seperti sertifikat Desember 2025, sekadar diperluas mencakup seri obligasi dan sukuk baru yang penerbitannya sudah lebih dulu diberitakan. Yang tersentuh adalah beban bunga dan kemampuan bayar utang, karena rating kredit semacam ini adalah nilai rapor yang menunjukkan seberapa yakin lembaga pemeringkat bahwa INKP bisa membayar bunga dan pokok utangnya tepat waktu, dan biasanya makin tinggi peringkatnya makin murah bunga yang harus ditanggung perusahaan saat menerbitkan utang baru. Yang perlu dicermati, rating ini hanya berlaku sampai 1 Desember 2026 sehingga investor obligasi perlu menunggu hasil pemeringkatan tahunan berikutnya sekitar akhir tahun ini, sementara jatuh tempo pertama dari seri-seri ini baru jatuh pada 3 September 2029.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fapa-pastikan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "FAPA Pastikan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "PT FAP Agri Tbk merespons surat Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:23:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c435ce7c4_d82019adda.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAPA",
+  "tags": [
+   "FAPA",
+   "PT FAP Agri Tbk",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT FAP Agri Tbk (FAPA) menjawab permintaan penjelasan dari Bursa Efek Indonesia atas volatilitas transaksi efeknya, sebagaimana diminta lewat surat bursa nomor S-11259/BEI.PP3/09-2026. Jawaban perusahaan disampaikan melalui surat nomor 035/IX-CORSEC/2026 tertanggal 4 September 2026, ditandatangani Direktur Utama Ricky Tjandra.",
+   "Dalam surat itu, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan keterbukaan informasi OJK maupun ketentuan Peraturan I-E Bursa. Terkait aktivitas pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, perseroan menyebut belum memiliki rencana tindakan korporasi dalam waktu dekat. Perseroan juga menegaskan secara terpisah bahwa tidak ada rencana aksi korporasi yang akan berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan ke depan, serta tidak ada informasi penting lain yang material dan belum diungkapkan ke publik.",
+   "Soal rencana pemegang saham utama dan pengendali, perseroan menyatakan sampai tanggapan ini disampaikan belum ada rencana tertentu dari pemegang saham utama baru terkait kepemilikan sahamnya di perseroan. Penyebutan pemegang saham utama baru ini mengindikasikan adanya perubahan komposisi pemegang saham utama yang relatif belum lama terjadi, meski perseroan tidak merinci lebih jauh identitas maupun besaran kepemilikannya dalam surat ini."
+  ],
+  "fotoAdegan": "Workers loading fresh palm oil fruit bunches onto trucks at a rural mill yard, tropical morning light",
+  "takeaway": "Penjelasan ini condong netral bagi FAPA karena manajemen menegaskan tidak ada informasi atau fakta material yang menjelaskan pergerakan harga sahamnya, sehingga tidak ada sinyal fundamental baru yang bisa dibaca investor dari surat ini. Surat semacam ini rutin diminta bursa saat harga atau volume transaksi saham bergerak tidak wajar, dan jawaban 'tidak ada' pada seluruh poin berarti perseroan tidak sedang menyembunyikan aksi korporasi, perubahan pengendalian, atau kejadian penting yang lazim menggerakkan ekuitas maupun arus kas perusahaan. Yang tetap perlu dicatat adalah pengakuan soal pemegang saham utama yang tergolong baru, meski perseroan menyebut belum ada rencana tertentu darinya soal kepemilikan saham. Pembaca perlu memantau apakah pemegang saham utama baru itu nantinya melaporkan perubahan kepemilikan sesuai kewajiban OJK, serta apakah pernyataan 'tidak ada rencana aksi korporasi' untuk tiga bulan ke depan itu bertahan atau justru berubah lebih cepat dari perkiraan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "sofa-ekuitas-susut-14-6-auditor-ragukan-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SOFA: Ekuitas Susut 14,6%, Auditor Ragukan [Kelangsungan Usaha]",
+  "deck": "Laporan keuangan interim semester I 2026 SOFA mencatat rugi tahun berjalan yang membengkakkan akumulasi defisit menjadi Rp16,01 miliar, sementara aset dan ekuitas perseroan sama-sama menyusut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:15:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904153632-64354-0/FinancialStatement-2026-II-SOFA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "laporan keuangan interim",
+   "going concern",
+   "emiten furnitur"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA), emiten furnitur yang dulu bernama PT Boston Furniture Industries Tbk, menyampaikan koreksi laporan keuangan interim untuk semester pertama 2026 yang berakhir 30 Juni 2026. Laporan ini diaudit oleh KAP Doli, Bambang, Sulistiyanto, Dadang & Ali dengan opini wajar tanpa modifikasian, tetapi auditor menyelipkan paragraf penekanan mengenai ketidakpastian material atas kelangsungan usaha perseroan. Penyebabnya adalah akumulasi kerugian yang tembus Rp16,01 miliar per 30 Juni 2026, naik dari Rp10,32 miliar pada akhir 2025, seiring rugi periode berjalan sekitar Rp5,69 miliar dalam enam bulan terakhir. Auditor juga mencatat pengakuan penjualan sebagai hal audit utama, mengingat nilai penjualan neto semester ini mencapai Rp21,38 miliar dan proses pengakuannya dinilai cukup kompleks.",
+   "Bersamaan dengan laporan keuangan, manajemen SOFA lewat surat yang ditandatangani Direktur Dimas Adiyasa Wiryaatmaja pada 21 Agustus 2026 menjelaskan ke Bursa Efek Indonesia soal perubahan lebih dari 20 persen pada tiga pos utama. Total aset turun 10,34 persen menjadi Rp46,62 miliar dari sebelumnya Rp51,99 miliar, atau berkurang Rp5,38 miliar. Penyebab utamanya adalah kas dan setara kas yang menyusut 28 persen menjadi Rp2,18 miliar karena perseroan mempercepat pembayaran ke pemasok, serta persediaan yang turun 29 persen menjadi Rp13,42 miliar akibat cuci gudang atas barang yang sudah lama tidak laku. Di sisi lain, uang muka pembelian naik 74 persen menjadi Rp4,76 miliar karena barang pesanan dari pemasok belum diterima, dan aset pajak tangguhan melonjak 153 persen menjadi Rp2,50 miliar.",
+   "Total ekuitas perseroan turun lebih dalam, yakni 14,56 persen menjadi Rp33,35 miliar dari Rp39,04 miliar, seluruhnya berasal dari pembengkakan defisit akibat rugi berjalan. Sementara itu total liabilitas justru naik tipis 2,36 persen menjadi Rp13,27 miliar. Utang usaha ke pemasok anjlok 96 persen menjadi hanya Rp56,28 juta karena sudah dilunasi, tetapi muncul utang baru kepada pihak berelasi senilai Rp3,35 miliar yang menurut penjelasan manajemen merupakan pinjaman dari pemegang saham. Beban akrual juga melonjak 308 persen menjadi Rp1,27 miliar, sementara uang muka penjualan dari pelanggan turun 20 persen menjadi Rp8,05 miliar seiring pengiriman barang sejumlah proyek."
+  ],
+  "fotoAdegan": "Workers moving stacked wooden furniture across a dusty warehouse floor during an inventory clearance, forklift in the background, dim industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi SOFA karena auditor secara eksplisit menyatakan ada ketidakpastian material atas kemampuan perusahaan mempertahankan kelangsungan usahanya, dipicu kerugian yang terus menumpuk hingga akumulasi defisit tembus Rp16,01 miliar. Yang tersentuh adalah ekuitas, yaitu bantalan modal pemegang saham yang susut 14,6 persen dalam enam bulan karena rugi berjalan terus menggerusnya, ditambah kas perusahaan yang ikut menipis 28 persen karena dipakai mempercepat pembayaran ke pemasok. Yang perlu dipantau berikutnya adalah apakah tren kerugian ini berlanjut atau mereda pada laporan kuartal ketiga 2026, serta bagaimana manajemen menindaklanjuti catatan going concern dari auditor yang tertuang dalam Catatan 34 laporan keuangan ini, termasuk keberlanjutan pinjaman baru senilai Rp3,35 miliar dari pemegang saham yang mulai menopang kas perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "medc-paparkan-laba-naik-282-dan-ekspansi-ke-malaysia",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Paparkan Laba Naik 282% dan Ekspansi ke [Malaysia]",
+  "deck": "Materi Public Expose Tahunan MEDC memuat lonjakan laba bersih 282 persen, penurunan rasio utang, dan rencana ekspansi ke ladang minyak Malaysia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:10:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2999d91_9c1190ccf8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "Public Expose",
+   "Laba Bersih",
+   "Ekspansi Malaysia"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia pada 4 September 2026 melalui surat bernomor EXT-001/LEGC/INA/MEDC/IX/2026, ditandatangani Corporate Secretary Siendy K. Wisandana. Materi ini merujuk pada pengumuman rencana Public Expose Tahunan yang sebelumnya disampaikan lewat surat 26 Agustus 2026, dan berisi paparan kinerja keuangan kuartal I 2026 serta rencana strategis perusahaan sepanjang tahun.",
+   "Dalam materi tersebut, MEDC melaporkan pendapatan konsolidasi kuartal I 2026 sebesar US$668,3 juta, naik 19,2 persen dibanding periode sama tahun lalu yang sebesar US$560,5 juta. EBITDA naik 5,7 persen menjadi US$351,1 juta, sementara laba bersih melonjak 282,3 persen menjadi US$67,4 juta dari US$17,6 juta setahun sebelumnya. Lonjakan laba ini banyak ditopang kontribusi US$33,5 juta dari Amman Mineral, perusahaan tambang tembaga dan emas yang sekitar 21 persen sahamnya dipegang Medco. Produksi minyak dan gas rata-rata mencapai 169 ribu barel setara minyak per hari, naik 18,1 persen dari tahun lalu dan masih sejalan dengan target produksi 2026 di kisaran 165.000 hingga 170.000 barel per hari.",
+   "Dari sisi neraca, MEDC memangkas utang bruto konsolidasi sebesar US$126 juta dibanding akhir 2025, terutama karena pelunasan US$108 juta atas obligasi yang jatuh tempo 2027. Rasio utang bersih grup terbatas (Restricted Group) terhadap EBITDA membaik dari 2,0 kali menjadi 1,7 kali, sementara arus kas dari kegiatan operasi naik 29,7 persen. Perusahaan juga masih memiliki fasilitas pinjaman senilai US$1,8 miliar yang sudah disetujui bank namun belum ditarik.",
+   "Materi ini juga mengungkap rencana perluasan operasi ke Malaysia, dengan geologi yang disebut mirip Blok B Natuna Selatan, mencakup empat lapangan produksi yaitu Cendor, East Cendor, West Desaru, dan Irama, dengan produksi saat ini sekitar 7.000 barel minyak per hari dan Medco bertindak sebagai operator dengan kepemilikan 50 persen. Untuk sisa 2026, perusahaan menargetkan proyek Bualuang Fase 1 mulai berproduksi pada kuartal II, melanjutkan pembayaran dividen dan pelunasan utang, serta menetapkan target belanja modal sebesar US$400-430 juta."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform standing in calm sea water with a supply vessel docked alongside under bright daylight",
+  "takeaway": "Materi ini secara keseluruhan condong positif bagi MEDC, karena hampir semua indikator utama membaik dibanding tahun lalu, yaitu pendapatan, laba bersih, dan arus kas operasi naik, sementara beban utang justru berkurang. Yang paling menonjol adalah turunnya rasio utang bersih terhadap EBITDA, yakni ukuran seberapa berat beban utang dibanding kemampuan perusahaan menghasilkan laba operasional, dari 2,0 kali menjadi 1,7 kali, yang berarti Medco punya ruang lebih longgar untuk membayar utang atau membiayai ekspansi baru. Perlu dicatat, sebagian besar lonjakan laba bersih berasal dari kontribusi Amman Mineral, perusahaan tambang tembaga dan emas yang sahamnya dipegang Medco, sehingga kinerja Medco ke depan juga makin terikat pada naik turunnya harga komoditas tambang, bukan cuma migas. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose itu sendiri pada 9 September 2026, realisasi target produksi Bualuang Fase 1 pada kuartal II 2026, serta apakah rencana ekspansi ke Malaysia berjalan sesuai jadwal yang dipaparkan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ekad-jelaskan-suspensi-cooling-down-saham-lewat-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Jelaskan [Suspensi Cooling Down] Saham lewat Public Expose",
+  "deck": "EKAD akan menggelar public expose insidentil pada 8 September 2026 untuk menjelaskan suspensi cooling down atas sahamnya, sesuai permintaan Bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:51:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d469a9649a_08251a4423.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EKAD",
+  "tags": [
+   "EKAD",
+   "public expose",
+   "suspensi saham",
+   "cooling down"
+  ],
+  "body": [
+   "PT Ekadharma International Tbk (EKAD) melaporkan ke Bursa Efek Indonesia rencana penyelenggaraan public expose insidentil, menyusul permintaan Bursa yang disampaikan lewat surat elektronik pada 27 Agustus 2026. Agenda utama acara ini adalah keterbukaan informasi terkait adanya suspensi cooling down atas saham Perseroan. Acara akan berlangsung Selasa, 8 September 2026, pukul 10.30 WIB sampai selesai, melalui aplikasi Zoom Meeting Online, dengan jajaran anggota Direksi Perseroan sebagai perwakilan manajemen yang hadir.",
+   "Perseroan menetapkan tata cara pendaftaran bagi peserta yang ingin mengikuti acara ini. Calon peserta wajib mengirimkan konfirmasi ke email contact@tng.ekadharma.com dengan mencantumkan nama lengkap, nama institusi, dan nomor telepon genggam. Pendaftaran ditutup satu hari kerja sebelum acara, yakni pada 7 September 2026, setelah itu tautan Zoom akan dikirim ke alamat email yang terdaftar. Identitas peserta saat login ke Zoom wajib sesuai dengan data yang didaftarkan. Materi paparan publik sendiri akan disampaikan Perseroan pada Senin, 7 September 2026.",
+   "Pelaksanaan public expose ini merujuk pada Keputusan Bursa No. Kep-00066/BEI/09-2022 tentang perubahan Peraturan Nomor I-E mengenai Kewajiban Penyampaian Informasi, serta Surat Edaran Bursa No. SE-00003/BEI/05-2020 tentang tata cara pelaksanaan public expose secara elektronik. Surat pemberitahuan bernomor LP-EI/045/IX/2026 ini ditandatangani oleh Corporate Secretary EKAD, Lie Phing."
+  ],
+  "fotoAdegan": "Rolls of adhesive tape stacked on pallets in a factory warehouse, workers moving materials, industrial lighting",
+  "takeaway": "Laporan ini bersifat netral bagi gambaran fundamental EKAD karena isinya baru sebatas jadwal sesi penjelasan wajib, belum ada angka keuangan baru yang berubah. Yang tersentuh sebenarnya bukan pos laporan keuangan seperti ekuitas atau laba per saham, melainkan mekanisme perdagangan: suspensi cooling down adalah langkah Bursa menghentikan sementara transaksi saham yang bergerak tidak wajar dalam waktu singkat, agar investor tidak ikut arus sebelum ada penjelasan resmi. Pelaku pasar akan menunggu isi paparan itu untuk menilai apakah pergerakan harga saham EKAD belakangan ini punya dasar kinerja usaha atau sekadar spekulasi jangka pendek. Yang perlu dipantau adalah pelaksanaan public expose pada Selasa, 8 September 2026 pukul 10.30 WIB, dengan materi yang baru akan disampaikan Perseroan sehari sebelumnya, 7 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cbut-catat-laba-melonjak-jadi-rp169-66-miliar-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "CBUT catat laba [melonjak] jadi Rp169,66 miliar di semester I",
+  "deck": "Aset dan liabilitas CBUT sama-sama melonjak lebih dari 40 persen imbas aturan baru penempatan devisa hasil ekspor, sementara laba semester I naik empat kali lipat jadi Rp169,66 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:43:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904145435-64357-0/FinancialStatement-2026-II-CBUT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBUT",
+  "tags": [
+   "CBUT",
+   "laporan keuangan interim",
+   "devisa hasil ekspor",
+   "sawit"
+  ],
+  "body": [
+   "PT Citra Borneo Utama Tbk (CBUT) menyampaikan koreksi laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, sekaligus surat penjelasan wajib ke Bursa Efek Indonesia karena pos aset dan liabilitasnya berubah lebih dari 20 persen. Total aset perusahaan naik 43,44 persen menjadi Rp5,91 triliun per 30 Juni 2026, dari sebelumnya Rp4,12 triliun pada akhir 2025. Kenaikan ini terutama berasal dari dana sebesar Rp866,97 miliar yang kini wajib ditempatkan di rekening khusus, menyusul berlakunya Peraturan Pemerintah No. 21 Tahun 2026 yang mengharuskan eksportir menaruh seluruh devisa hasil ekspor dalam mata uang asing di rekening tersebut selama 12 bulan. Kenaikan piutang usaha sebesar Rp888,53 miliar seiring naiknya penjualan ekspor turut menambah aset.",
+   "Di sisi lain, total liabilitas naik lebih tajam, yakni 52,87 persen menjadi Rp4,60 triliun dari Rp3,01 triliun. Pemicu utamanya adalah pinjaman bank jangka pendek yang bertambah Rp1,51 triliun, termasuk fasilitas Kredit Agunan Tunai Devisa Hasil Ekspor senilai Rp887,71 miliar yang diperoleh lewat perjanjian kredit tertanggal 10 Juni 2026. Fasilitas ini dijamin dengan dana devisa hasil ekspor yang sama yang tertahan di rekening khusus tadi. Manajemen CBUT menyatakan kenaikan aset dan liabilitas ini saling terkait dan terjadi bersamaan, sehingga tidak berdampak negatif terhadap kinerja keuangan perusahaan tahun berjalan.",
+   "Dari sisi kinerja, pendapatan CBUT untuk semester I 2026 naik menjadi Rp9,27 triliun dari Rp6,66 triliun pada periode yang sama tahun lalu. Laba periode berjalan melonjak menjadi Rp169,66 miliar dari Rp42,21 miliar, sementara laba per saham dasar naik dari Rp13,5 menjadi Rp54,3. Ekuitas perusahaan turut naik menjadi Rp1,31 triliun dari Rp1,11 triliun. Laporan ini telah direviu secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young, dengan partner penanggung jawab Daniel, dan surat penjelasan ke bursa ditandatangani oleh Direktur Ronny Hertantyo Raharjo pada 21 Agustus 2026 di Pangkalan Bun."
+  ],
+  "fotoAdegan": "Trucks unloading fresh palm fruit bunches at a crude palm oil mill, workers in helmets, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif bagi CBUT, karena lonjakan laba jauh melampaui kenaikan utang, dan tambahan liabilitas justru berasal dari kebutuhan menaruh dana ekspor di rekening khusus, bukan dari pembengkakan utang untuk menambal kas yang seret. Pos yang tersentuh adalah ekuitas dan laba per saham, karena laba bersih yang naik empat kali lipat langsung menambah saldo laba perusahaan sehingga ekuitas ikut naik menjadi Rp1,31 triliun, dan porsi laba yang bisa diklaim tiap lembar saham pun naik dari Rp13,5 menjadi Rp54,3. Kenaikan utang bank jangka pendek tetap perlu dicermati karena berpotensi menambah beban bunga ke depan, meski dalam kasus ini utang tersebut dijamin oleh dana ekspor yang memang sedang dikunci pemerintah selama setahun. Yang perlu dipantau berikutnya adalah nasib dana devisa hasil ekspor senilai Rp866,97 miliar itu setelah masa penempatan wajib 12 bulan berakhir sekitar pertengahan 2027, serta apakah kenaikan laba pada semester I ini masih berlanjut di laporan kuartal III 2026.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
   "category": "Aksi Korporasi",
   "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",

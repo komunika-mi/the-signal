@@ -698,6 +698,57 @@ var ARTICLES = [
   "imageV": "mtn7j875"
  },
  {
+  "slug": "jarr-direksi-temmy-iskandar-beli-11-000-saham-perdana",
+  "category": "Aksi Korporasi",
+  "title": "JARR: Direksi Temmy Iskandar [Beli] 11.000 Saham Perdana",
+  "deck": "Direksi Jhonlin Agro Raya, Temmy Iskandar, membeli 11.000 saham JARR pada 28 Agustus 2026 seharga Rp3.310 per lembar, kepemilikan pertamanya di emiten ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T20:03:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5463-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JARR",
+  "tags": [
+   "JARR",
+   "kepemilikan saham",
+   "direksi",
+   "Jhonlin Agro Raya"
+  ],
+  "body": [
+   "Temmy Iskandar, anggota direksi PT Jhonlin Agro Raya Tbk (JARR), melaporkan pembelian 11.000 lembar saham perusahaan pada 28 Agustus 2026 dengan harga Rp3.310 per saham. Sebelum transaksi ini, Temmy tidak memegang satu pun saham JARR. Setelah transaksi, ia tercatat memiliki 11.000 lembar saham biasa yang dibeli secara langsung, dengan tujuan transaksi yang dicantumkan sebagai investasi.",
+   "Total nilai pembelian tersebut sekitar Rp36,4 juta, jumlah yang sangat kecil dibandingkan skala perusahaan. Laporan yang disampaikan ke Otoritas Jasa Keuangan mencatat hak suara Temmy di JARR tetap 0,00 persen, baik sebelum maupun sesudah pembelian, karena porsi sahamnya belum cukup besar untuk mengubah persentase kepemilikan.",
+   "Pelaporan ini merupakan kewajiban rutin sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap anggota direksi dan komisaris melaporkan perubahan kepemilikan saham di perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading fresh fruit bunches onto a truck, rows of trees in humid morning haze",
+  "takeaway": "Pembelian ini netral bagi fundamental JARR karena nilainya sangat kecil, sekitar Rp36,4 juta, dan tidak mengubah hak suara Temmy Iskandar di perusahaan. Transaksi semacam ini menyentuh pos kepemilikan insider dan jumlah saham beredar, yang biasa diperhatikan pelaku pasar sebagai penanda keyakinan direksi terhadap prospek perusahaannya sendiri, namun dalam kasus ini porsinya terlalu kecil untuk dibaca sebagai pernyataan sikap yang serius. Yang perlu dicermati selanjutnya adalah apakah Temmy atau direksi JARR lainnya menambah kepemilikan mereka dalam laporan-laporan berikutnya, karena pola pembelian yang berulang biasanya baru menjadi sinyal yang lebih berarti dibanding satu transaksi kecil seperti ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asli-maybank-sekuritas-lepas-saham-7-03-usai-revisi-repo",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: Maybank Sekuritas lepas saham [7,03%] usai revisi repo",
+  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikannya di ASLI turun dari 1,38 miliar lembar (7,03% hak suara) jadi nol lewat revisi repo tertanggal 12 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T19:53:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-0850-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "kepemilikan saham",
+   "Maybank Sekuritas",
+   "repo"
+  ],
+  "body": [
+   "Maybank Sekuritas Indonesia melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya atas saham PT Asri Karya Lestari Tbk (ASLI) turun dari 1.380.609.900 lembar menjadi nol lembar. Akibatnya, hak suara Maybank Sekuritas di ASLI yang sebelumnya sebesar 7,03 persen kini menjadi 0 persen. Laporan bertanggal 4 September 2026 ini disampaikan sesuai kewajiban pelaporan kepemilikan saham perusahaan terbuka berdasarkan POJK Nomor 4/2024, mengingat Maybank Sekuritas bukan anggota direksi maupun dewan komisaris ASLI.",
+   "Dalam laporan itu, jenis transaksi yang tercatat adalah repurchase agreement atau repo, dengan tanggal transaksi 12 Agustus 2026 dan tujuan yang disebutkan sebagai revisi atas transaksi repo sebelumnya. Saham yang menjadi objek transaksi berjumlah 1.380.609.900 lembar dari kelas saham dengan hak suara multipel, berstatus kepemilikan tidak langsung yang tercatat atas nama PT Manunggal Prime Development. Dokumen tidak mencantumkan harga transaksi maupun batas akhir periode pelaksanaan untuk transaksi ini."
+  ],
+  "fotoAdegan": "Exterior view of a stock exchange building in Jakarta's financial district with pedestrians and taxis passing at dusk",
+  "takeaway": "Laporan ini condong negatif bagi ASLI karena salah satu pemegang hak suara yang sebelumnya cukup besar, yakni Maybank Sekuritas Indonesia dengan 7,03 persen, kini tercatat kehilangan seluruh hak suaranya, meski dokumen menyebutnya sebagai revisi transaksi repo, bukan penjualan langsung di pasar. Yang tersentuh adalah struktur hak suara pemegang saham, bukan kas atau laba perusahaan, sebab repo pada dasarnya adalah skema pinjam meminjam dengan saham sebagai jaminan sehingga kepemilikan bisa berpindah tanpa jual beli biasa di bursa. Saham yang terlibat juga berjenis hak suara multipel, yaitu kelas saham yang biasanya diberikan kepada pendiri atau pemegang saham pengendali dengan bobot suara lebih besar dari saham biasa, sehingga perpindahannya berpotensi mengubah peta kendali perusahaan lebih dari yang tercermin dari jumlah lembarnya saja. Yang perlu dipantau selanjutnya adalah apakah PT Manunggal Prime Development, pihak yang tercatat sebagai pemilik tidak langsung dalam laporan ini, akan menerbitkan laporan keterbukaan lanjutan yang menjelaskan latar belakang revisi transaksi repo tertanggal 12 Agustus 2026 tersebut.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
@@ -749,6 +800,31 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in hard hats inspecting fiber optic cables at the base of a telecommunications tower, overcast sky",
   "takeaway": "Materi ini condong positif bagi Telkom, karena hampir seluruh pos utama, pendapatan, EBITDA, laba bersih, dan arus kas, sama-sama tumbuh pada semester pertama 2026 dibanding tahun sebelumnya. Yang tersentuh di sini adalah arus kas operasi dan arus kas bebas ke perusahaan, yaitu uang tunai yang benar-benar dihasilkan dari kegiatan usaha setelah dikurangi belanja modal, karena angka ini menunjukkan seberapa leluasa perusahaan membiayai ekspansi atau dividen tanpa harus menambah utang. Realisasi rasio belanja modal baru 14,2 persen dari target tahunan 17-19 persen, jadi belanja investasi Telkom kemungkinan masih akan naik pada semester kedua. Yang perlu dipantau berikutnya adalah forum Public Expose Live pada 7 September 2026 sendiri, karena manajemen biasanya menjawab pertanyaan investor secara langsung di sana, serta penyelesaian Tahap-2 pemisahan aset fiber InfraNexia yang ditargetkan rampung pada semester kedua 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "tama-verah-wahyudi-lepas-3-1-juta-saham-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Verah Wahyudi Lepas 3,1 Juta Saham [Divestasi]",
+  "deck": "Pemegang saham non-direksi TAMA melepas 3,1 juta saham senilai sekitar Rp642 juta, hak suara turun tipis dari 9,93% menjadi 9,67%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T19:17:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-3247-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "kepemilikan saham",
+   "divestasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Lancartama Sejati Tbk (TAMA) menerima laporan perubahan kepemilikan saham dari Verah Wahyudi S Wong, seorang pemegang saham yang bukan anggota direksi maupun dewan komisaris perusahaan, berkewarganegaraan Indonesia. Dalam laporan bertanggal 4 September 2026 itu, yang bersangkutan melaporkan penjualan tidak langsung sebanyak 3.118.600 saham biasa TAMA pada harga Rp206 per saham, dengan mekanisme repurchase agreement dan tujuan transaksi yang tercatat sebagai divestasi.",
+   "Sebelum transaksi, Verah Wahyudi memegang 119.136.500 saham TAMA atau setara 9,93 persen hak suara di perusahaan. Setelah penjualan, jumlah sahamnya berkurang menjadi 116.017.900 saham, dengan hak suara turun menjadi 9,67 persen. Nilai transaksi penjualan ini, berdasarkan harga yang dilaporkan, sekitar Rp642,4 juta."
+  ],
+  "fotoAdegan": "Financial district office workers walking past modern glass office towers in Jakarta at dusk, motion blur",
+  "takeaway": "Laporan ini netral bagi TAMA karena saham yang dilepas hanya sekitar 2,6 persen dari kepemilikan pelapor sendiri, dan hak suaranya di perusahaan cuma turun tipis dari 9,93 persen menjadi 9,67 persen, jauh dari titik yang bisa mengubah peta kendali perusahaan. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, yaitu porsi suara yang bisa dipakai seorang pemegang saham dalam rapat perusahaan, sesuatu yang dipantau pasar untuk melihat apakah ada investor besar yang mulai menjauh dari perusahaan. Konteksnya perlu dicatat, penjualan ini terjadi tak lama setelah TAMA melaporkan ekuitas negatif Rp61,98 miliar akibat rugi Rp96,6 miliar pada 31 Agustus 2026, jadi meski transaksi ini sendiri kecil, pola penjualan lanjutan oleh pemegang saham yang sama patut dicermati. Yang perlu dipantau berikutnya adalah apakah Verah Wahyudi mengurangi kepemilikannya lebih jauh dalam laporan susulan, mengingat kondisi keuangan TAMA yang sedang tertekan.",
+  "sentimen": "netral"
  },
  {
   "slug": "bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026",
@@ -858,6 +934,32 @@ var ARTICLES = [
   "imageV": "mtmxcgrf"
  },
  {
+  "slug": "uvcr-trimegah-sumber-mas-lepas-300-juta-saham-hak-suara-ke-16-18",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Trimegah Sumber Mas [lepas] 300 juta saham, hak suara ke 16,18%",
+  "deck": "Pemegang saham Trimegah Sumber Mas menjual 300 juta saham UVCR seharga Rp141 per saham pada 2 September 2026, memangkas hak suaranya dari 31,18% menjadi 16,18%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:45:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8909-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "kepemilikan saham",
+   "hak suara",
+   "Trimegah Karya Pratama"
+  ],
+  "body": [
+   "Trimegah Sumber Mas, pemegang saham PT Trimegah Karya Pratama Tbk (UVCR) yang bukan berasal dari jajaran direksi atau komisaris, melaporkan perubahan kepemilikan sahamnya kepada Otoritas Jasa Keuangan pada 4 September 2026. Sebelum transaksi, pelapor memegang 623.557.467 saham UVCR dengan hak suara 31,18 persen. Setelah transaksi, kepemilikannya tersisa 323.557.467 saham dengan hak suara 16,18 persen, atau berkurang 300.000.000 saham, setara 48,11 persen dari kepemilikannya semula.",
+   "Pengurangan itu tercatat dalam dua transaksi penjualan tidak langsung yang sama-sama terjadi pada 2 September 2026, masing-masing sebanyak 21.000.000 saham dan 279.000.000 saham biasa, dengan harga sama, Rp141 per saham. Total nilai kedua transaksi tersebut mencapai sekitar Rp42,3 miliar. Dalam dokumen, tujuan transaksi ditulis sebagai keperluan investasi dan internal perusahaan, tanpa keterangan lebih rinci mengenai pihak pembeli.",
+   "Laporan ini disampaikan sesuai kewajiban Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham melaporkan perubahan kepemilikannya kepada regulator dan bursa."
+  ],
+  "fotoAdegan": "Wide view of glass skyscrapers in Jakarta's central business district at dusk, streets busy with traffic below, warm city lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi UVCR sebab Trimegah Sumber Mas melepas hampir separuh sahamnya sekaligus, sehingga hak suaranya turun tajam dari 31,18 persen menjadi 16,18 persen hanya dalam satu hari transaksi. Hak suara menentukan seberapa besar pengaruh seorang pemegang saham ketika perusahaan mengambil keputusan lewat rapat pemegang saham, jadi penurunan sebesar ini berarti Trimegah Sumber Mas kehilangan sebagian besar pengaruhnya di UVCR. Dokumen hanya menyebut tujuan transaksi sebagai keperluan investasi dan internal perusahaan, tanpa merinci siapa pihak yang membeli saham tersebut. Yang perlu dipantau berikutnya adalah apakah pengurangan kepemilikan ini berlanjut di laporan-laporan mendatang, dan apakah UVCR akan memberi penjelasan tambahan kepada bursa terkait pergeseran struktur pemegang saham ini menyusul transaksi 2 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "fitt-jawab-bursa-pastikan-tak-ada-informasi-material-tersembunyi",
   "category": "Aksi Korporasi",
   "title": "FITT Jawab Bursa, Pastikan Tak Ada [Informasi Material] Tersembunyi",
@@ -960,6 +1062,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan atau tarif iuran, melainkan cara BPJS Ketenagakerjaan menjangkau peserta, yakni lewat kunjungan langsung pejabat pusat ke kantor cabang dan kerja sama dengan mahasiswa untuk mendaftarkan pekerja informal seperti pedagang kecil atau buruh lepas yang selama ini jarang punya jaminan kecelakaan kerja atau kematian. Yang terdampak jelas dari beritanya, yaitu warga Pekalongan yang baru terdaftar lewat pendampingan mahasiswa, ahli waris peserta yang menerima santunan, dan pekerja informal di kota itu yang jadi target perluasan kepesertaan. Tapi berita ini tidak menyebut satu angka pun, tidak ada jumlah peserta baru, tidak ada nilai santunan, tidak ada target cakupan pekerja informal, sehingga belum bisa disimpulkan apakah kolaborasi kampus semacam ini benar-benar mendongkrak jumlah kepesertaan atau sekadar simbolis. Yang perlu ditunggu adalah data realisasi kepesertaan BPJS Ketenagakerjaan di Pekalongan pada laporan berikutnya, khususnya porsi pekerja informal, untuk melihat apakah pendekatan lewat mahasiswa ini berlanjut ke kota lain atau berhenti di satu kunjungan seremonial.",
   "imageV": "mtmxchal"
+ },
+ {
+  "slug": "dild-komisaris-lepas-97-sahamnya-rp3-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DILD: Komisaris [Lepas] 97% Sahamnya, Rp3,8 Miliar",
+  "deck": "Komisaris Intiland Development, Sinarto Dharmawan Ir, menjual 32,88 juta saham DILD pada 21 Agustus 2026 seharga Rp116 per saham, menyisakan hanya 0,01% kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:06:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-7107-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DILD",
+  "tags": [
+   "DILD",
+   "Intiland Development",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Anggota Dewan Komisaris PT Intiland Development Tbk (DILD), Sinarto Dharmawan Ir, melaporkan penjualan 32.883.780 saham DILD secara tidak langsung kepada Otoritas Jasa Keuangan. Transaksi dilakukan pada 21 Agustus 2026 dengan harga Rp116 per saham dan tujuan yang tercatat sebagai penjualan biasa, sesuai laporan bernomor LK/04092026/0004/1 yang disampaikan 4 September 2026.",
+   "Sebelum transaksi, Sinarto memegang 33.883.830 saham DILD atau setara 0,33% hak suara perusahaan. Setelah penjualan tersebut, kepemilikannya tersisa 1.000.050 saham dengan hak suara turun menjadi 0,01%. Dengan harga Rp116 per saham, nilai transaksi ini sekitar Rp3,81 miliar, dan jumlah yang dilepas setara 97 persen dari saham yang sebelumnya ia miliki.",
+   "Laporan ini merupakan kewajiban pelaporan kepemilikan saham perusahaan terbuka sesuai POJK Nomor 4/2024, yang mengharuskan direksi dan komisaris melaporkan setiap perubahan kepemilikan saham emiten tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Aerial view of modern apartment and office towers under construction in a Jakarta business district at dusk",
+  "takeaway": "Pelepasan ini condong negatif dari sisi sinyal internal, karena Sinarto tidak sekadar merapikan portofolio tapi melepas 97 persen dari saham DILD yang sebelumnya ia pegang, hingga kepemilikannya nyaris habis. Yang tersentuh di sini bukan pos keuangan Intiland seperti ekuitas atau laba per saham, sebab ini transaksi jual beli saham lama di pasar sekunder, bukan penerbitan saham baru, tapi pergeseran kepemilikan komisaris tetap diperhatikan pelaku pasar karena bisa mencerminkan pandangan orang dalam terhadap prospek perusahaan. Porsi saham Intiland yang dipegang Sinarto memang kecil secara keseluruhan, hanya 0,33% sebelum transaksi, sehingga dampaknya terhadap struktur pengendalian perusahaan minim. Yang perlu dipantau selanjutnya adalah apakah sisa 1.000.050 saham yang masih digenggamnya juga akan dilepas dalam laporan susulan, mengingat pola penjualan kali ini nyaris menuntaskan seluruh kepemilikannya.",
+  "sentimen": "negatif"
  },
  {
   "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
@@ -1648,6 +1776,31 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-2-25-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 2,25 juta saham",
+  "deck": "Edwin Soeryadjaya membeli 2,25 juta saham SRTG senilai sekitar Rp4,07 miliar dalam dua transaksi awal September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T14:55:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-2426-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "Edwin Soeryadjaya"
+  ],
+  "body": [
+   "Edwin Soeryadjaya, Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), melaporkan pembelian saham perseroan kepada Otoritas Jasa Keuangan pada 4 September 2026. Transaksi dilakukan secara tidak langsung dalam dua tahap: 840.000 lembar pada 2 September 2026 di harga Rp1.823 per saham, dan 1.410.000 lembar pada 3 September 2026 di harga Rp1.802 per saham. Kedua transaksi disebutkan bertujuan investasi, dengan total nilai sekitar Rp4,07 miliar.",
+   "Dengan tambahan 2.250.000 lembar tersebut, kepemilikan saham Edwin Soeryadjaya di SRTG naik dari 4.867.505.690 unit menjadi 4.869.755.690 unit. Hak suaranya di perseroan bergerak tipis dari 35,8833 persen menjadi 35,8999 persen. Laporan ini merupakan kewajiban rutin sesuai POJK 4/2024 tentang pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka."
+  ],
+  "fotoAdegan": "Wide view of modern glass office towers in Jakarta's financial district at dusk, city lights beginning to glow",
+  "takeaway": "Transaksi ini netral bagi penilaian fundamental SRTG karena ukurannya sangat kecil dibanding total kepemilikan Edwin Soeryadjaya, hanya menambah 0,0462 persen dari sahamnya, dan tidak mengubah posisinya sebagai pemegang saham mayoritas pengendali. Yang tersentuh di sini hanya komposisi pemegang saham dan hak suara, bukan pos kinerja keuangan perseroan seperti arus kas atau laba, sehingga dampaknya ke operasional SRTG praktis tidak ada. Pelaku pasar biasanya tetap mencatat pembelian oleh komisaris sebagai indikasi keyakinan pribadi terhadap perusahaan, tapi dengan porsi sekecil ini tidak bisa dibaca sebagai pernyataan sikap yang berarti. Yang perlu dipantau selanjutnya adalah apakah pola pembelian kecil semacam ini berlanjut dan terakumulasi dalam laporan-laporan berikutnya, karena baru pada skala yang lebih besar sinyalnya akan relevan bagi pemegang saham publik.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ekad-jelaskan-suspensi-cooling-down-saham-lewat-public-expose",
   "category": "Aksi Korporasi",
   "title": "EKAD Jelaskan [Suspensi Cooling Down] Saham lewat Public Expose",
@@ -1958,6 +2111,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers sorting stacks of smartphone boxes inside a busy wholesale distribution warehouse, forklift and shelving in the background",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham karena meski pendapatan melonjak tajam, ekuitas perusahaan tetap negatif dan justru memburuk, sementara kewajiban jangka pendek jauh melampaui aset lancar yang tersedia. Ekuitas adalah selisih antara aset dan utang perusahaan, kalau angkanya minus berarti utang sudah melebihi seluruh harta yang dimiliki, dan rugi per saham yang melebar dari Rp0,48 menjadi Rp0,75 menunjukkan beban kerugian yang makin besar bagi tiap pemegang saham. Pinjaman bank jangka pendek baru senilai Rp281,56 miliar juga menambah beban bunga tetap yang harus dibayar perusahaan ke depan. Yang perlu dipantau adalah apakah lonjakan pendapatan dari bisnis smartphone dan pulsa ini bisa berlanjut cukup besar untuk menutup defisit ekuitas, terutama pada laporan keuangan kuartal III 2026 mendatang, sekaligus bagaimana dampak konversi utang menjadi saham senilai Rp822,9 miliar yang baru diumumkan pekan lalu terhadap posisi permodalan perusahaan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "akpi-komisaris-jual-114-200-saham-rp61-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris [Jual] 114.200 Saham, Rp61,2 Juta",
+  "deck": "Komisaris AKPI Henry Liem melepas 114.200 saham senilai sekitar Rp61,2 juta pada 3 September 2026, kepemilikannya turun jadi 8.070.459 lembar atau 1,32 persen hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:19:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5351-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima Industry",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan penjualan saham perusahaan kepada Otoritas Jasa Keuangan pada 4 September 2026. Berdasarkan dokumen keterbukaan, penjualan dilakukan dalam dua transaksi tidak langsung pada 3 September 2026, yaitu 14.200 lembar saham biasa seharga Rp545 per saham dan 100.000 lembar saham biasa seharga Rp535 per saham. Tujuan transaksi yang tercatat dalam laporan adalah jual saham, dengan total 114.200 lembar terjual senilai sekitar Rp61,24 juta.",
+   "Sebelum transaksi, Henry memegang 8.184.659 lembar saham AKPI atau setara 1,3368 persen hak suara perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 8.070.459 lembar, setara 1,3182 persen hak suara.",
+   "Penjualan ini setara sekitar 1,4 persen dari total saham yang dipegang Henry Liem sebelum transaksi. Laporan semacam ini wajib disampaikan setiap direksi dan komisaris perusahaan terbuka setiap kali terjadi perubahan kepemilikan saham, sesuai Pasal 2 Ayat 1 Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Exterior view of modern office towers in Jakarta's financial district at dusk, illuminated windows, blurred traffic below",
+  "takeaway": "Penjualan ini netral bagi AKPI, sebab yang dilepas hanya sekitar 1,4 persen dari kepemilikan Henry Liem sendiri dan tidak mengubah statusnya di perusahaan. Yang tersentuh cuma hak suaranya secara pribadi, dari 1,3368 persen menjadi 1,3182 persen, hak suara ini menunjukkan seberapa besar bobot suaranya kalau pemegang saham memberikan keputusan lewat rapat umum pemegang saham. Karena penurunannya kurang dari 0,02 poin persentase, pengaruhnya dalam pengambilan keputusan perusahaan praktis tidak berubah, dan jumlah saham beredar AKPI juga tidak terpengaruh karena ini transaksi jual beli di pasar sekunder, bukan penerbitan saham baru. Yang perlu dipantau ke depan adalah apakah Henry Liem kembali melaporkan penjualan dalam waktu dekat, sebab rentetan pelepasan kecil yang berulang oleh komisaris bisa mengubah pembacaan pasar dibanding transaksi satu kali seperti ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "dgwg-panggil-rupslb-soal-perubahan-anggaran-dasar",
@@ -2461,6 +2640,33 @@ var ARTICLES = [
   "fotoAdegan": "Plantation workers collecting rubber latex into buckets among rows of trees on a Javanese estate, early morning mist.",
   "takeaway": "Laporan ini netral bagi fundamental JAWA, karena isinya murni klarifikasi kepatuhan yang menegaskan tidak ada aksi korporasi atau informasi baru, bukan transaksi keuangan yang mengubah kondisi perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh dalam surat ini, sehingga pelaku pasar sebaiknya membaca lonjakan harga dan volume saham JAWA sebagai gejala aktivitas perdagangan di bursa, bukan cerminan perubahan kinerja perusahaan. Yang perlu dipantau selanjutnya adalah apakah pemegang saham utama akhirnya menyampaikan rencana terkait kepemilikannya, serta apakah situasi berubah dalam jendela tiga bulan ke depan yang disebut perseroan sebagai periode tanpa rencana aksi korporasi, yakni hingga sekitar awal Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "wskt-rampungkan-restrukturisasi-obligasi-bunga-turun-ke-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Rampungkan [Restrukturisasi] Obligasi, Bunga Turun ke 5%",
+  "deck": "RUPO Waskita Karya menyetujui restrukturisasi obligasi dengan 97,14 persen suara: bunga turun ke 5 persen, jatuh tempo mundur ke 2034, dan denda gagal bayar dihapuskan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T08:15:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4709cfa4b_b5450ff54d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "RUPO"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk menggelar Rapat Umum Pemegang Obligasi (RUPO) pada 3 September 2026 untuk membahas enam usulan restrukturisasi atas Obligasi Berkelanjutan III Tahap IV Tahun 2019. Berdasarkan laporan keterbukaan informasi yang ditandatangani Sekretaris Perusahaan Steven Subianto, dari pemegang obligasi yang hadir, 97,14 persen menyatakan setuju atas penjelasan kelalaian dan usulan restrukturisasi, sedangkan 2,86 persen menolak. Ketentuan Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal 75 persen suara yang hadir agar keputusan sah dan mengikat, sehingga kuorum RUPO ini terpenuhi.",
+   "Enam usulan yang disetujui mencakup perpanjangan jatuh tempo obligasi menjadi 31 Desember 2034, serta penurunan bunga menjadi 5 persen per tahun setelah perubahan Perjanjian Perwaliamanatan berlaku efektif. Selama masa peralihan, bunga standstill ditetapkan 9,75 persen sejak tanggal emisi hingga 16 Mei 2024, lalu turun ke 5 persen sejak 17 Mei 2024 sampai sehari sebelum perubahan perjanjian berlaku efektif. RUPO juga menyetujui penghapusan denda akibat gagal bayar atau keterlambatan, serta pengesampingan seluruh cidera janji yang sudah terjadi sampai perubahan perjanjian berlaku efektif. Sebagai gantinya, Waskita menerima sejumlah kewajiban baru: memastikan dana pembayaran tersedia paling lambat satu hari kerja sebelum jatuh tempo, melaporkan setiap rencana dan realisasi divestasi aset ruas tol atau saham perusahaan pengelola jalan tol (BUJT) kepada wali amanat, memberi tahu wali amanat bila ada perubahan pengaturan kas dan rekening perusahaan, menjamin anggaran mencakup seluruh kewajiban jatuh tempo dalam 12 bulan ke depan, serta menjaga rasio kemampuan membayar bunga (ISCR) minimal 1,00 kali mulai tahun buku yang berakhir 31 Desember 2027.",
+   "Dalam siaran pers terpisah, Direktur Keuangan Waskita Karya Wiwi Suprihatno menyebutkan bahwa sejak akhir 2023 perusahaan telah menurunkan total utang 20,8 persen menjadi Rp66,5 triliun dari sekitar Rp84 triliun. Utang ke vendor yang telah lewat jatuh tempo (past due) juga turun 97,1 persen, dari Rp2,13 triliun pada 2022 menjadi Rp48 miliar per semester pertama 2026, sementara seluruh utang pajak past due telah lunas 100 persen sejak 2024. Dari sisi pendapatan, Waskita mencatatkan pendapatan usaha semester pertama 2026 sebesar Rp4,92 triliun, naik 58,49 persen dibanding periode sama tahun sebelumnya yang sebesar Rp3,1 triliun, didorong proyek Sekolah Rakyat dan jaringan irigasi dari Kementerian Pekerjaan Umum.",
+   "Wiwi juga menyebutkan nilai kontrak baru yang terkumpul sampai Juni 2026 mencapai Rp5,1 triliun, didominasi pekerjaan konektivitas sebesar 45,6 persen dan infrastruktur air 21,7 persen. Perseroan saat ini masih mengerjakan sejumlah proyek strategis seperti LRT Jakarta Fase 1B, bendungan, rumah sakit, dan Bandara Internasional Presidente Nicolau Lobato di Timor Leste, serta terus berkomunikasi dengan Daya Anagata Nusantara (Danantara) terkait optimalisasi aset jalan tol dan konsolidasi BUMN Konstruksi."
+  ],
+  "fotoAdegan": "Construction workers operating heavy machinery on an elevated toll road project under construction, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi Waskita karena RUPO menyetujui pemangkasan bunga obligasi dari 9,75 persen menjadi 5 persen, penghapusan denda keterlambatan, dan pengesampingan gagal bayar yang sudah terjadi, sehingga tekanan kas jangka pendek berkurang. Pos yang tersentuh adalah beban bunga, yang otomatis turun karena kupon lebih rendah, dan arus kas perusahaan karena jatuh tempo pembayaran pokok mundur sampai 2034 sehingga ada waktu lebih panjang untuk membayar. Restrukturisasi ini juga menambah syarat baru berupa rasio kemampuan bayar bunga minimal 1 kali mulai tahun buku 2027, artinya Waskita wajib menjaga labanya cukup besar dibanding beban bunganya atau berisiko dianggap lalai lagi. Yang perlu dipantau berikutnya adalah tanggal efektif perubahan perjanjian perwaliamanatan, yang menentukan kapan bunga baru 5 persen benar benar berlaku, serta kemungkinan pencabutan suspensi perdagangan saham WSKT yang disinggung dalam siaran pers perusahaan.",
+  "sentimen": "positif"
  },
  {
   "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",

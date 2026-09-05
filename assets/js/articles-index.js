@@ -439,6 +439,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464922-telkomproperty-pastikan-optimalisasi-aset-properti-tetap-berjalan-sesuai-tata-kelola-dan-memenuhi-prinsip-value-creation"
  },
  {
+  "slug": "jarr-direksi-temmy-iskandar-beli-11-000-saham-perdana",
+  "category": "Aksi Korporasi",
+  "title": "JARR: Direksi Temmy Iskandar [Beli] 11.000 Saham Perdana",
+  "deck": "Direksi Jhonlin Agro Raya, Temmy Iskandar, membeli 11.000 saham JARR pada 28 Agustus 2026 seharga Rp3.310 per lembar, kepemilikan pertamanya di emiten ini.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JARR",
+   "kepemilikan saham",
+   "direksi",
+   "Jhonlin Agro Raya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5463-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asli-maybank-sekuritas-lepas-saham-7-03-usai-revisi-repo",
+  "category": "Aksi Korporasi",
+  "title": "ASLI: Maybank Sekuritas lepas saham [7,03%] usai revisi repo",
+  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikannya di ASLI turun dari 1,38 miliar lembar (7,03% hak suara) jadi nol lewat revisi repo tertanggal 12 Agustus 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "kepemilikan saham",
+   "Maybank Sekuritas",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-0850-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
@@ -468,6 +500,22 @@ var ARTICLES = [
    "Kinerja Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23b227121a_0bfb850936.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tama-verah-wahyudi-lepas-3-1-juta-saham-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Verah Wahyudi Lepas 3,1 Juta Saham [Divestasi]",
+  "deck": "Pemegang saham non-direksi TAMA melepas 3,1 juta saham senilai sekitar Rp642 juta, hak suara turun tipis dari 9,93% menjadi 9,67%.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMA",
+   "kepemilikan saham",
+   "divestasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-3247-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -537,6 +585,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "uvcr-trimegah-sumber-mas-lepas-300-juta-saham-hak-suara-ke-16-18",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Trimegah Sumber Mas [lepas] 300 juta saham, hak suara ke 16,18%",
+  "deck": "Pemegang saham Trimegah Sumber Mas menjual 300 juta saham UVCR seharga Rp141 per saham pada 2 September 2026, memangkas hak suaranya dari 31,18% menjadi 16,18%.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "kepemilikan saham",
+   "hak suara",
+   "Trimegah Karya Pratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8909-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "fitt-jawab-bursa-pastikan-tak-ada-informasi-material-tersembunyi",
   "category": "Aksi Korporasi",
   "title": "FITT Jawab Bursa, Pastikan Tak Ada [Informasi Material] Tersembunyi",
@@ -600,6 +664,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464909-rayakan-harpelnas-2026-bpjs-ketenagakerjaan-perkuat-layanan-perlindungan-dan-pemberdayaan-pekerja-di-kota-pekalongan"
+ },
+ {
+  "slug": "dild-komisaris-lepas-97-sahamnya-rp3-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "DILD: Komisaris [Lepas] 97% Sahamnya, Rp3,8 Miliar",
+  "deck": "Komisaris Intiland Development, Sinarto Dharmawan Ir, menjual 32,88 juta saham DILD pada 21 Agustus 2026 seharga Rp116 per saham, menyisakan hanya 0,01% kepemilikan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DILD",
+   "Intiland Development",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-7107-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
@@ -1019,6 +1099,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-2-25-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 2,25 juta saham",
+  "deck": "Edwin Soeryadjaya membeli 2,25 juta saham SRTG senilai sekitar Rp4,07 miliar dalam dua transaksi awal September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "kepemilikan saham",
+   "Edwin Soeryadjaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-2426-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekad-jelaskan-suspensi-cooling-down-saham-lewat-public-expose",
   "category": "Aksi Korporasi",
   "title": "EKAD Jelaskan [Suspensi Cooling Down] Saham lewat Public Expose",
@@ -1208,6 +1304,22 @@ var ARTICLES = [
    "smartphone"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412f444943_589d630f9a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-jual-114-200-saham-rp61-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris [Jual] 114.200 Saham, Rp61,2 Juta",
+  "deck": "Komisaris AKPI Henry Liem melepas 114.200 saham senilai sekitar Rp61,2 juta pada 3 September 2026, kepemilikannya turun jadi 8.070.459 lembar atau 1,32 persen hak suara.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Argha Karya Prima Industry",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5351-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1516,6 +1628,22 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce38cfe917_86820cad69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wskt-rampungkan-restrukturisasi-obligasi-bunga-turun-ke-5",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Rampungkan [Restrukturisasi] Obligasi, Bunga Turun ke 5%",
+  "deck": "RUPO Waskita Karya menyetujui restrukturisasi obligasi dengan 97,14 persen suara: bunga turun ke 5 persen, jatuh tempo mundur ke 2034, dan denda gagal bayar dihapuskan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "restrukturisasi obligasi",
+   "Waskita Karya",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4709cfa4b_b5450ff54d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6432,141 +6560,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e1a680eb80_eca7e65d9b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung",
-  "category": "Perbankan",
-  "title": "bank bjb [Borong] Dua Penghargaan OJK di Hari Menabung",
-  "deck": "bank bjb meraih dua penghargaan OJK di Puncak Hari Indonesia Menabung 2026 atas program edukasi keuangan ke sekolah dan masyarakat.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/bank-bjb-borong-dua-penghargaan-ojk-di-hari-menabung.jpg",
-  "imageV": "mtdcxfxt",
-  "tags": [
-   "bank bjb",
-   "OJK",
-   "literasi keuangan",
-   "Hari Indonesia Menabung"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463258-bank-bjb-borong-dua-penghargaan-ojk-di-puncak-hari-indonesia-menabung-2026"
- },
- {
-  "slug": "pertamina-patra-niaga-raih-penghargaan-csr-bencana",
-  "category": "BUMN",
-  "title": "Pertamina Patra Niaga Raih [Penghargaan] CSR Bencana",
-  "deck": "Pertamina Patra Niaga meraih Impact Commitment Awards 2026 atas program CSR, termasuk respons bencana banjir Sumatera dan gempa NTT hingga ke daerah terpencil.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/pertamina-patra-niaga-raih-penghargaan-csr-bencana.jpg",
-  "imageV": "mtdcxges",
-  "tags": [
-   "Pertamina Patra Niaga",
-   "CSR",
-   "bencana alam",
-   "NTT"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463245-pertamina-patra-niaga-sabet-impact-commitment-awards-respons-bencana-sumatera-hingga-ntt-diapresiasi"
- },
- {
-  "slug": "pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct",
-  "category": "Pasar Modal",
-  "title": "Pendapatan [BNBR] Naik 45,8% Usai Konsolidasi CCT",
-  "deck": "Pendapatan Bakrie & Brothers naik 45,84% menjadi Rp2,59 triliun pada semester I 2026, didorong konsolidasi penuh tol Cimanggis-Cibitung dan pertumbuhan anak usaha VKTR serta BMI.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/pendapatan-bnbr-naik-45-8-usai-konsolidasi-cct.jpg",
-  "imageV": "mtdcxgvr",
-  "tags": [
-   "BNBR",
-   "Bakrie & Brothers",
-   "VKTR",
-   "rights issue"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463240-kinerja-bnbr-semester-i-2026-pendapatan-naik-4584-jadi-rp259-triliun-dan-laba-usaha-melonjak-283"
- },
- {
-  "slug": "telin-gandeng-empat-mitra-global-di-batic-2026",
-  "category": "Teknologi",
-  "title": "Telin Gandeng [Empat] Mitra Global di BATIC 2026",
-  "deck": "Anak usaha Telkom ini menjalin empat kerja sama sekaligus di BATIC 2026, dari penguatan kabel bawah laut internasional hingga integrasi data center dengan Grup Djarum.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/telin-gandeng-empat-mitra-global-di-batic-2026.jpg",
-  "imageV": "mtdcxhcl",
-  "tags": [
-   "Telin",
-   "Telkom",
-   "BATIC 2026",
-   "kabel bawah laut"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463228-melalui-empat-kemitraan-strategis-di-batic-2026-telin-perluas-jejak-ekosistem-digital-global"
- },
- {
-  "slug": "injourney-tawarkan-promo-bundling-di-gatf-2026",
-  "category": "BUMN",
-  "title": "InJourney Tawarkan [Promo] Bundling di GATF 2026",
-  "deck": "InJourney Group menghadirkan promo bundling hotel, tiket, dan paket wisata di Garuda Indonesia Travel Fair 2026 yang berlangsung 28-30 Agustus di JICC Jakarta.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/injourney-tawarkan-promo-bundling-di-gatf-2026.jpg",
-  "imageV": "mtdcxhu9",
-  "tags": [
-   "InJourney",
-   "Garuda Indonesia Travel Fair",
-   "BUMN Pariwisata",
-   "Promo Wisata"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463223-ramaikan-garuda-indonesia-travel-fair-2026-injourney-group-dorong-pengalaman-wisata-terintegrasi"
- },
- {
-  "slug": "danantara-gelar-expo-properti-di-nice-pik2-tangerang",
-  "category": "Bisnis",
-  "title": "Danantara Gelar Expo Properti di [NICE] PIK2 Tangerang",
-  "deck": "Danantara Indonesia menggelar Housing Expo 2026 di NICE, PIK2, Tangerang, 27-30 Agustus, menawarkan lebih dari 120.000 unit hunian dari 130 pengembang.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/danantara-gelar-expo-properti-di-nice-pik2-tangerang.jpg",
-  "imageV": "mtdcxic6",
-  "tags": [
-   "Danantara",
-   "properti",
-   "NICE",
-   "PIK2"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463197-danantara-pilih-nice-untuk-penyelenggaraan-danantara-housing-expo-2026-perkuat-ekosistem-hunian-dan-properti-nasional"
- },
- {
-  "slug": "kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg",
-  "category": "Industri",
-  "title": "Kadin Siapkan 4 Jurus Perkuat Pasokan [Protein] MBG",
-  "deck": "Kadin Indonesia mengusulkan empat program penguatan ekosistem protein, dari hilirisasi hingga digitalisasi rantai pasok, untuk mendukung program Makan Bergizi Gratis.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/kadin-siapkan-4-jurus-perkuat-pasokan-protein-mbg.jpg",
-  "imageV": "mtdcxj6k",
-  "tags": [
-   "Kadin",
-   "MBG",
-   "Protein",
-   "Pertanian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463145-dukung-mbg-kadin-siapkan-4-jurus-perkuat-pasokan-protein-dari-hulu-hingga-hilir"
- },
- {
-  "slug": "pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026",
-  "category": "Bisnis",
-  "title": "PIK 2 Jadi Lokasi Pameran [Danantara] Housing Expo 2026",
-  "deck": "NICE di kawasan PIK 2 menjadi tuan rumah Danantara Housing Expo 2026 pada 27-30 Agustus, sekaligus menandai satu tahun operasional venue seluas sekitar 40 hektare itu.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/pik-2-jadi-lokasi-pameran-danantara-housing-expo-2026.jpg",
-  "imageV": "mtdcxjn8",
-  "tags": [
-   "NICE PIK 2",
-   "Danantara Housing Expo",
-   "MICE",
-   "pameran properti"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463153-menjadi-tuan-rumah-danantara-housing-expo-2026-nice-pik-2-buktikan-kesiapan-fasilitas-skala-masif"
  }
 ];

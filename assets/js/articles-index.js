@@ -270,6 +270,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "testsbkd-ganti-direktur-utama-dan-satu-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "TESTSBKD [Ganti] Direktur Utama dan Satu Komisaris",
+  "deck": "RUPS TESTSBKD pada 4 September 2026 menetapkan direktur utama baru menggantikan Bima, sekaligus mengganti satu kursi komisaris yang sebelumnya dijabat Siti.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTSBKD",
+   "direksi",
+   "komisaris",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_E036_d3cacc7a-e617-49b6-93ab-219b8cc15583-20260905092544.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
   "category": "Ketenagakerjaan",
   "title": "BPJS Ketenagakerjaan Perkuat Layanan Pekerja [Informal] Pekalongan",
@@ -316,6 +332,22 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ad1e6b632_48499cfa9d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-pefindo-afirmasi-idaaa-outlook-obligasi-jadi-positif",
+  "category": "Aksi Korporasi",
+  "title": "BMRI: Pefindo afirmasi idAAA, outlook obligasi jadi [positif]",
+  "deck": "Pefindo mempertahankan peringkat tertinggi idAAA untuk delapan seri obligasi Bank Mandiri dan menaikkan outlooknya menjadi positif, sinyal potensi kenaikan peringkat setahun ke depan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Pefindo",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1b8547b05_df4df77c5e.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -413,6 +445,22 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76824cb70f_bf4d5d8d16.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asgr-jawab-bei-tegaskan-tak-ada-aksi-korporasi-dalam-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Jawab BEI, Tegaskan Tak Ada [Aksi Korporasi] dalam 3 Bulan",
+  "deck": "Astra Graphia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tak ada informasi material dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "Astra Graphia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b528e7014_5ec4ecc1b4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -640,6 +688,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "btps-tetapkan-batas-pencatatan-pemegang-saham-rupslb-18-september",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Tetapkan Batas Pencatatan Pemegang Saham RUPSLB [18 September]",
+  "deck": "Bank BTPN Syariah menjadwalkan RUPSLB pada 13 Oktober 2026 untuk memutuskan rencana buyback saham, dengan batas pencatatan pemegang saham pada 18 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "Bank BTPN Syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86d2c53bf7_97ed4edbeb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "medc-paparkan-laba-naik-282-dan-ekspansi-ke-malaysia",
   "category": "Aksi Korporasi",
   "title": "MEDC Paparkan Laba Naik 282% dan Ekspansi ke [Malaysia]",
@@ -800,6 +864,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ratu-umumkan-lokasi-dan-tanggal-dps-rupslb-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "RATU Umumkan Lokasi dan Tanggal DPS RUPSLB [PMTHMETD]",
+  "deck": "RATU menetapkan Cityloog Hotel Tebet sebagai lokasi RUPSLB 8 September 2026 dan 13 Agustus 2026 sebagai batas kepemilikan saham yang berhak memberi suara.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0222554ff9_e4dc7ed2d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bjtm-laba-konsolidasi-naik-53-aset-bank-induk-menyusut",
   "category": "Aksi Korporasi",
   "title": "BJTM: Laba Konsolidasi Naik 53%, Aset Bank Induk [Menyusut]",
@@ -813,6 +893,38 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c83b9e4888_db3f9c22d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ekuitas-mknt-minus-rp13-66-miliar-meski-pendapatan-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Ekuitas MKNT [minus] Rp13,66 miliar meski pendapatan melonjak",
+  "deck": "Laporan keuangan audited semester I 2026 MKNT menunjukkan ekuitas masih negatif Rp13,66 miliar, memburuk dari Rp7,35 miliar di akhir 2025, meski pendapatan melonjak ke Rp75,88 miliar.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "smartphone"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412f444943_589d630f9a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-panggil-rupslb-soal-perubahan-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Panggil RUPSLB soal [Perubahan] Anggaran Dasar",
+  "deck": "DGWG mengundang pemegang saham ke RUPSLB 28 September 2026 untuk menyetujui perubahan Pasal 3 Anggaran Dasar agar sesuai klasifikasi usaha KBLI 2025.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "KBLI 2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf13a118f_dd6c282d76.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -832,6 +944,22 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
   "sourceUrl": "https://gapki.id/news/2026/07/15/ekspor-sawit-turun-28-stok-cpo-nasional-capai-304-juta-ton/",
   "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
+ },
+ {
+  "slug": "bbni-kinerja-laba-1h26-naik-7-jadi-rp10-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BBNI [Kinerja]: Laba 1H26 Naik 7% Jadi Rp10,8 Triliun",
+  "deck": "BNI memaparkan kinerja semester I 2026 dalam materi Public Expose Tahunan: laba bersih naik 7% menjadi Rp10,8 triliun, kredit tumbuh 24,4%, dan kualitas aset membaik.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "Bank Negara Indonesia",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6503bc751e_64e2e5b849.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
@@ -6437,135 +6565,6 @@ var ARTICLES = [
    "shipping"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/37583a07c3_60df18944c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bkdp-masuk-daftar-pemantauan-khusus-bei-mulai-28-agustus-2026",
-  "category": "Aksi Korporasi",
-  "title": "BKDP Masuk Daftar [Pemantauan Khusus] BEI Mulai 28 Agustus 2026",
-  "deck": "BEI menetapkan saham BKDP, Bukit Darmo Property Tbk, masuk kategori pemantauan khusus di Papan Pengembangan, efektif 28 Agustus 2026.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKDP",
-   "Bursa Efek Indonesia",
-   "pemantauan khusus",
-   "watchlist saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c8d91b1687_76b1d37702.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan",
-  "category": "UMKM",
-  "title": "PNM Mekaar Bantu AO [Ubah] Nasib Keluarga Nelayan",
-  "deck": "Account Officer PNM Mekaar, Tika Wulandari, menyisihkan penghasilannya untuk keluarga hingga membelikan perahu bagi sang ayah, mantan buruh kapal orang lain.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/pnm-mekaar-bantu-ao-ubah-nasib-keluarga-nelayan.jpg",
-  "imageV": "mtbqd7y9",
-  "tags": [
-   "PNM",
-   "UMKM",
-   "nelayan",
-   "lapangan kerja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462931-dari-penghasilan-menjadi-harapan-pnm-bantu-tika-gerakkan-ekonomi-keluarga-hingga-buka-lapangan-kerja"
- },
- {
-  "slug": "banggar-dpr-soroti-banyak-typo-rapbn-2027",
-  "category": "Makroekonomi",
-  "title": "Banggar DPR Soroti Banyak [Typo] RAPBN 2027",
-  "deck": "Banggar DPR temukan sejumlah kesalahan angka di dokumen RAPBN 2027, dari target pertumbuhan ekonomi hingga anggaran Makan Bergizi Gratis yang beda hingga Rp240 triliun.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/banggar-dpr-soroti-banyak-typo-rapbn-2027.jpg",
-  "imageV": "mtbqd8rz",
-  "tags": [
-   "RAPBN 2027",
-   "Banggar DPR",
-   "MBG",
-   "Purbaya Yudhi Sadewa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462923-banggar-dpr-soroti-banyak-typo-rapbn-2027-dari-target-pertumbuhan-hingga-anggaran-mbg"
- },
- {
-  "slug": "lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan",
-  "category": "Energi",
-  "title": "LPG 3 Kg Bakal Dibatasi Berdasarkan [Desil] Kesejahteraan",
-  "deck": "ESDM mulai membahas pembatasan pembeli LPG 3 kilogram bersubsidi berdasarkan data desil kesejahteraan bersama BPS dan Pertamina, menyusul arahan hasil pertemuan dengan Kementerian Keuangan.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/lpg-3-kg-bakal-dibatasi-berdasarkan-desil-kesejahteraan.jpg",
-  "imageV": "mtb0rsr7",
-  "tags": [
-   "LPG 3 kg",
-   "subsidi energi",
-   "ESDM",
-   "desil kesejahteraan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462865-lpg-3-kg-tak-lagi-bebas-dibeli-esdm-siapkan-batas-penerima-berdasarkan-desil-kesejahteraan"
- },
- {
-  "slug": "ihsg-dibuka-melemah-tertekan-sentimen-minyak-dan-hormuz",
-  "category": "Pasar Modal",
-  "title": "IHSG Dibuka [Melemah], Tertekan Sentimen Minyak dan Hormuz",
-  "deck": "IHSG dibuka turun 15 poin ke 6.390 pada Kamis, tertekan sentimen harga minyak dan perkembangan Selat Hormuz, sementara pasar juga menanti laporan keuangan Nvidia.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/ruang-rapat-kaca-bursa.jpg",
-  "tags": [
-   "IHSG",
-   "Selat Hormuz",
-   "harga minyak",
-   "bursa saham"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462866-ihsg-dibuka-merah-investor-dibayangi-harga-minyak-hingga-ketegangan-selat-hormuz"
- },
- {
-  "slug": "pbsa-panggil-rupslb-bahas-stock-split-saham-rasio-1-2",
-  "category": "Aksi Korporasi",
-  "title": "PBSA Panggil RUPSLB, Bahas [Stock Split] Saham Rasio 1:2",
-  "deck": "RUPSLB PBSA pada 18 September 2026 akan membahas pemecahan nilai nominal saham dari Rp50 menjadi Rp25 per saham dengan rasio 1:2, serta penyesuaian anggaran dasar terkait modal.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PBSA",
-   "stock split",
-   "RUPSLB",
-   "Paramita Bangun Sarana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5cb6b5099d_1a993c73a3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-hari-ini-turun-rp27-000-per-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam Hari Ini [Turun] Rp27.000 per Gram",
-  "deck": "Harga jual emas batangan Antam turun ke Rp2.723.000 per gram pada 27 Agustus 2026, harga buyback ikut melemah ke Rp2.583.000 per gram.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/emas-batangan.jpg",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "buyback emas",
-   "logam mulia"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462860-harga-emas-antam-hari-ini-27-agustus-2026-merosot-rp27000-buyback-ikut-turun"
- },
- {
-  "slug": "vico-gelar-rupslb-bahas-pembagian-dividen-tunai",
-  "category": "Aksi Korporasi",
-  "title": "VICO Gelar RUPSLB, Bahas Pembagian [Dividen] Tunai",
-  "deck": "PT Victoria Investama Tbk (VICO) mengundang pemegang saham ke RUPSLB 18 September 2026 untuk menyetujui pembagian sebagian laba ditahan sebagai dividen tunai.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VICO",
-   "RUPSLB",
-   "dividen",
-   "Victoria Investama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/baab9c4934_0e386963dc.pdf",
   "sourceLabel": "IDX"
  }
 ];

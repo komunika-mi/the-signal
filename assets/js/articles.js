@@ -430,6 +430,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "testsbkd-ganti-direktur-utama-dan-satu-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "TESTSBKD [Ganti] Direktur Utama dan Satu Komisaris",
+  "deck": "RUPS TESTSBKD pada 4 September 2026 menetapkan direktur utama baru menggantikan Bima, sekaligus mengganti satu kursi komisaris yang sebelumnya dijabat Siti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:35:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_E036_d3cacc7a-e617-49b6-93ab-219b8cc15583-20260905092544.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTSBKD",
+  "tags": [
+   "TESTSBKD",
+   "direksi",
+   "komisaris",
+   "RUPS"
+  ],
+  "body": [
+   "TESTSBKD melaporkan perubahan susunan direksi dan dewan komisaris menyusul Rapat Umum Pemegang Saham (RUPS) yang digelar pada 4 September 2026, sebagaimana tercantum dalam keterbukaan informasi ke Bursa Efek Indonesia. Bapak qweqweq diangkat sebagai Direktur Utama baru perseroan menggantikan Bapak Bima yang sebelumnya memegang posisi tersebut, dengan masa jabatan efektif sejak tanggal RUPS itu juga.",
+   "Dokumen juga mencatat bahwa qweqweq merangkap jabatan sebagai Direktur Utama di PT Bina Tbk, emiten lain, dan hubungan ini ditandai sebagai afiliasi dalam laporan. Di jajaran dewan komisaris, kursi dengan nomor urut 10 berpindah dari Ibu Siti, yang sebelumnya menjabat Komisaris Utama, kepada Bapak weqwe. Kolom jabatan weqwe saat ini tertulis 'tidak ada' tanpa rincian gelar barunya, namun statusnya tercatat sebagai afiliasi sekaligus komisaris independen.",
+   "Laporan ini tidak menyertakan data kinerja keuangan, nilai transaksi, atau rencana strategis apa pun. Isinya murni pemberitahuan administratif atas hasil RUPS terkait pergantian pengurus perseroan."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long table, leather chairs, and floor-to-ceiling windows overlooking a city skyline, soft daylight.",
+  "takeaway": "Perubahan pengurus ini bersifat netral bagi TESTSBKD karena hanya mengganti posisi kepemimpinan tanpa disertai data kinerja atau rencana bisnis baru yang bisa dinilai dampaknya. Yang patut dicermati investor adalah rangkap jabatan Direktur Utama baru di PT Bina Tbk, yang oleh dokumen ditandai sebagai hubungan afiliasi, semacam label yang menunjukkan ada keterkaitan bisnis atau kepemilikan antara kedua perusahaan sehingga berpotensi memunculkan benturan kepentingan dalam pengambilan keputusan direksi. Perubahan pengurus semacam ini tidak menyentuh pos keuangan seperti ekuitas atau laba per saham secara langsung, tapi berpengaruh pada arah kebijakan dan tata kelola perusahaan ke depan. Yang perlu dipantau selanjutnya adalah apakah TESTSBKD akan menerbitkan penjelasan tambahan ke bursa terkait rangkap jabatan dan status afiliasi tersebut, mengingat dokumen ini sendiri tidak mencantumkan tenggat waktu keterbukaan lanjutan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
   "category": "Ketenagakerjaan",
   "title": "BPJS Ketenagakerjaan Perkuat Layanan Pekerja [Informal] Pekalongan",
@@ -508,6 +534,32 @@ var ARTICLES = [
   "fotoAdegan": "Rows of intercity buses parked at a terminal in Jakarta at dawn, drivers checking tires and mirrors before departure",
   "takeaway": "Netral bagi fundamental LRNA, karena seluruh isi surat ini adalah penyangkalan administratif atas permintaan BEI, tanpa satu pun informasi baru soal kinerja atau rencana korporasi perusahaan. Laporan ini tidak menyentuh pos-pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena memang bukan itu isinya, melainkan konfirmasi bahwa lonjakan aktivitas transaksi sahamnya bukan dipicu aksi korporasi yang diketahui manajemen. Pelaku pasar tetap memperhatikan surat semacam ini karena permintaan penjelasan volatilitas dari BEI biasanya muncul saat harga atau volume saham bergerak jauh dari kebiasaan, sering kali didorong spekulasi jangka pendek yang tidak berbasis fundamental. Yang perlu dipantau selanjutnya adalah apakah BEI melanjutkan pemantauan khusus atas saham LRNA jika volatilitas berlanjut, serta apakah pernyataan \"untuk saat ini belum ada rencana\" dari pemegang saham utama berubah lewat keterbukaan informasi berikutnya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bmri-pefindo-afirmasi-idaaa-outlook-obligasi-jadi-positif",
+  "category": "Aksi Korporasi",
+  "title": "BMRI: Pefindo afirmasi idAAA, outlook obligasi jadi [positif]",
+  "deck": "Pefindo mempertahankan peringkat tertinggi idAAA untuk delapan seri obligasi Bank Mandiri dan menaikkan outlooknya menjadi positif, sinyal potensi kenaikan peringkat setahun ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:56:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1b8547b05_df4df77c5e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Pefindo",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk melaporkan hasil pemeringkatan tahunan dari PT Pemeringkat Efek Indonesia (Pefindo) melalui surat yang diteken Corporate Secretary Adhika Vista pada 4 September 2026. Pefindo mempertahankan peringkat perusahaan pada level idAAA (Triple A) dengan outlook stabil untuk periode 1 September 2026 sampai 1 September 2027, peringkat tertinggi yang bisa diberikan lembaga pemeringkat ini. Keputusan ini diambil dalam rapat komite pemeringkatan pada 1 September 2026 dan diterima Bank Mandiri sehari kemudian.",
+   "Delapan seri obligasi Bank Mandiri turut mendapat peringkat idAAA, namun dengan outlook positif untuk periode yang sama. Rinciannya: Obligasi Berkelanjutan I Tahap II Tahun 2017 Seri C senilai Rp1 triliun yang jatuh tempo 15 Juni 2027; Obligasi Berkelanjutan II Tahap I Tahun 2020 Seri B senilai Rp650 miliar yang jatuh tempo 12 Mei 2027; Obligasi Berkelanjutan I Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun yang jatuh tempo 30 September 2026; Obligasi Berwawasan Lingkungan Berkelanjutan I Tahap I Tahun 2023 Seri B senilai Rp3,05 triliun yang jatuh tempo 4 Juli 2028; Obligasi Berwawasan Lingkungan Berkelanjutan I Tahap II Tahun 2025 Seri B senilai Rp4,5 triliun yang jatuh tempo 25 Maret 2028; serta tiga seri Obligasi Keberlanjutan Berkelanjutan I Tahap I Tahun 2025, yaitu Seri A senilai Rp1 triliun jatuh tempo 29 Desember 2026, Seri B senilai Rp2 triliun jatuh tempo 19 Desember 2028, dan Seri C senilai Rp2 triliun jatuh tempo 19 Desember 2030.",
+   "Dokumen ini juga menyebut program Obligasi Berlandaskan Keberlanjutan (Sustainability Bond) I Bank Mandiri Tahun 2025 senilai maksimum Rp20 triliun yang bisa diterbitkan bertahap hingga 12 Desember 2027, dengan peringkat idAAA. Sementara itu, menurut bagian dokumen hasil pindaian yang perlu dibaca hati-hati, Medium Term Notes Subordinasi II Tahun 2023 mendapat peringkat satu tingkat di bawahnya, yaitu idAA. Pefindo meminta Bank Mandiri memberi tanggapan atas draf ringkasan pemeringkatan paling lambat sehari setelah surat terbit, serta melaporkan setiap fakta material yang bisa memengaruhi peringkat dalam waktu maksimal dua hari kerja sejak kejadian tersebut."
+  ],
+  "fotoAdegan": "Reflective glass skyscrapers of Jakarta's financial district glowing in early morning sunlight, viewed from a busy street corner.",
+  "takeaway": "Afirmasi peringkat tertinggi idAAA plus kenaikan outlook menjadi positif untuk delapan seri obligasi ini condong positif bagi Bank Mandiri, sebab menunjukkan Pefindo melihat peluang kenaikan peringkat, bukan ancaman penurunan, dalam setahun ke depan. Peringkat semacam ini menyoroti dua hal yang diperhatikan investor: beban bunga, yaitu biaya yang harus dibayar bank setiap kali menerbitkan surat utang baru, dan arus kas, yaitu kemampuan bank menghasilkan uang tunai untuk membayar kupon serta pokok utang tepat waktu, karena semakin tinggi peringkat dan semakin baik outlooknya, biasanya semakin murah biaya bunga yang diminta investor. Yang perlu dipantau berikutnya adalah masa berlaku peringkat ini sampai 1 September 2027, saat Pefindo akan melakukan pemantauan tahunan berikutnya, serta apakah outlook positif ini nantinya benar-benar berubah jadi kenaikan peringkat atau justru kembali ke stabil.",
+  "sentimen": "positif"
  },
  {
   "slug": "pngo-jawab-bursa-free-float-tinggal-0-52-refloat-belum-pasti",
@@ -669,6 +721,32 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse workers stacking pharmaceutical cardboard boxes onto pallets inside a busy distribution warehouse, forklift passing by, fluorescent lighting overhead",
   "takeaway": "Laporan ini condong negatif bagi PEVE, karena arus kas operasi kembali minus untuk periode kedua berturut-turut dan kas perusahaan tersisa amat tipis, sementara beberapa pos di laporan keuangan ternyata salah saji dan baru akan diperbaiki belakangan. Yang tersentuh adalah arus kas dan modal kerja: kas dan setara kas cuma Rp7,52 miliar, hanya 0,73 persen dari total utang jangka pendek Rp1,03 triliun, sehingga perusahaan menambal selisihnya dengan menarik utang bank baru neto Rp94,05 miliar, bukan dari hasil penjualan tunai. Pasar mencermati rasio kas serendah ini karena kalau bank sewaktu-waktu memperketat plafon kredit, ruang gerak keuangan perusahaan bisa cepat menyempit. Piutang dari rumah sakit pemerintah yang menunggu pencairan anggaran menahan uang masuk sekaligus mendorong waktu penagihan rata-rata jadi 66 hari, jauh dari target 40 hari yang ditetapkan perusahaan sendiri, sehingga konsistensi penagihan pada semester kedua 2026 layak dipantau. Yang perlu ditunggu berikutnya adalah laporan keuangan kuartal III 2026, karena di situlah perusahaan berjanji memperbaiki kesalahan penyajian arus kas dan liabilitas sewa yang baru diakui lewat surat ini.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "asgr-jawab-bei-tegaskan-tak-ada-aksi-korporasi-dalam-3-bulan",
+  "category": "Aksi Korporasi",
+  "title": "ASGR Jawab BEI, Tegaskan Tak Ada [Aksi Korporasi] dalam 3 Bulan",
+  "deck": "Astra Graphia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tak ada informasi material dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:24:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b528e7014_5ec4ecc1b4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "Astra Graphia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Astra Graphia Tbk (ASGR) memberikan penjelasan resmi kepada Bursa Efek Indonesia (BEI) setelah menerima surat permintaan klarifikasi bernomor S-11256/BEI.PP1/09-2026 terkait volatilitas transaksi efeknya. Surat BEI itu diterima perseroan pada 2 September 2026, dan jawaban dikirim dua hari kemudian, 4 September 2026, melalui surat bernomor CSL/AG-067-IX-2026 yang ditandatangani Corporate Secretary Trivena Nalsalita.",
+   "Dalam jawabannya, ASGR menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun ketentuan III.2.1 Peraturan BEI Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, dan tidak memiliki rencana aksi korporasi dalam waktu dekat, setidaknya untuk tiga bulan ke depan, yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Poin lain yang disampaikan, Corporate Secretary ASGR telah lebih dulu mengonfirmasi kepada Pemegang Saham Utama (PSU) perseroan, dan PSU menyatakan saat ini tidak memiliki rencana terkait kepemilikan sahamnya di ASGR. Perseroan menutup surat dengan menegaskan seluruh informasi material yang dapat memengaruhi harga sahamnya telah disampaikan ke publik."
+  ],
+  "fotoAdegan": "Office employees reviewing printed documents beside multifunction printers in a modern Jakarta corporate office, daylight through large windows",
+  "takeaway": "Penjelasan ini netral bagi ASGR, karena isinya adalah jawaban standar berupa penyangkalan atas adanya informasi tersembunyi, bukan pengumuman rencana atau langkah baru yang mengubah kondisi perusahaan. Permintaan klarifikasi seperti ini muncul ketika BEI melihat volume atau harga transaksi saham bergerak tidak wajar dibanding kebiasaannya, sehingga bursa meminta emiten memastikan ke publik apakah ada informasi tersembunyi di balik pergerakan itu, dan jawaban ASGR menyatakan tidak ada. Tidak ada pos kinerja keuangan seperti ekuitas atau laba per saham yang tersentuh langsung oleh dokumen ini. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga dan volume saham ASGR mereda setelah klarifikasi ini, serta apakah pernyataan tidak ada aksi korporasi dalam tiga bulan ke depan, yakni hingga awal Desember 2026, benar-benar terjaga atau justru ada perubahan mendadak sebelum tenggat itu.",
+  "sentimen": "netral"
  },
  {
   "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
@@ -1038,6 +1116,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "btps-tetapkan-batas-pencatatan-pemegang-saham-rupslb-18-september",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Tetapkan Batas Pencatatan Pemegang Saham RUPSLB [18 September]",
+  "deck": "Bank BTPN Syariah menjadwalkan RUPSLB pada 13 Oktober 2026 untuk memutuskan rencana buyback saham, dengan batas pencatatan pemegang saham pada 18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:13:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86d2c53bf7_97ed4edbeb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "RUPSLB",
+   "buyback saham",
+   "Bank BTPN Syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menyampaikan surat bernomor S.341/DIR/CSGC/IX/2026 tertanggal 4 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, menegaskan bahwa pengumuman Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tahun 2026 sudah dipublikasikan di situs perusahaan, BEI, dan PT Kustodian Sentral Efek Indonesia (KSEI) sejak 4 September 2026. Surat ini merujuk pada surat sebelumnya, S.336/DIR/CSGC/VIII/2026, yang memuat rencana pembelian kembali (buyback) saham perusahaan. RUPSLB dijadwalkan berlangsung Selasa, 13 Oktober 2026 pukul 10.00 WIB di Menara SMBC Lantai 16, dengan opsi kehadiran fisik maupun elektronik melalui fasilitas eASY.KSEI. Dokumen ditandatangani oleh Yunita C. Haerani selaku Corporate Secretary and General Counsel Head, serta Arief Ismail selaku Direktur Kepatuhan dan Fachmy Achmad selaku Direktur.",
+   "Pemegang saham yang berhak hadir dan memberikan suara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perusahaan atau tercatat di sub rekening efek KSEI pada penutupan perdagangan Jumat, 18 September 2026 pukul 16.00 WIB. Surat pemanggilan resmi yang memuat mata acara rapat akan diumumkan dalam bahasa Indonesia dan Inggris pada Senin, 21 September 2026. Perusahaan juga membuka peluang bagi pemegang saham yang mewakili minimal 1/20 dari total saham beredar untuk mengusulkan mata acara tambahan, dengan syarat usulan diterima Direksi paling lambat tujuh hari sebelum tanggal pemanggilan.",
+   "Bagi pemegang saham yang ingin diwakilkan, perusahaan menetapkan dua jalur kuasa dengan tenggat berbeda. Surat kuasa konvensional harus diserahkan ke biro administrasi efek, PT Datindo Entrycom, paling lambat tiga hari kerja sebelum rapat, yaitu Kamis, 8 Oktober 2026. Sementara kuasa elektronik (e-Proxy) melalui eASY.KSEI bisa disampaikan hingga satu hari kerja sebelum rapat, yaitu Senin, 12 Oktober 2026. Perusahaan menyebut kemungkinan membatasi jumlah kehadiran fisik demi kenyamanan pemegang saham, dan akan beralih sepenuhnya ke format elektronik jika rapat fisik tidak memungkinkan, dengan pemberitahuan lebih dulu kepada pemegang saham."
+  ],
+  "fotoAdegan": "Modern glass bank office tower in a Jakarta business district, viewed from street level in daytime with light traffic blur in foreground",
+  "takeaway": "Laporan ini netral bagi pemegang saham BTPS, karena isinya murni jadwal dan mekanisme RUPSLB, bukan informasi keuangan baru. Yang sebenarnya penting bukan surat ini sendiri, melainkan agenda yang akan diputuskan dalam rapat itu, yaitu rencana pembelian kembali saham senilai Rp1 triliun yang sebelumnya dinilai positif karena berpotensi mengurangi jumlah saham beredar dan menaikkan laba per saham. Jadwal di sini menentukan siapa yang berhak ikut memutuskan itu, yakni pemegang saham yang tercatat per 18 September 2026. Yang perlu dipantau selanjutnya adalah surat pemanggilan resmi pada 21 September 2026 yang akan memuat detail mata acara, dan hasil keputusan RUPSLB pada Selasa, 13 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "medc-paparkan-laba-naik-282-dan-ekspansi-ke-malaysia",
   "category": "Aksi Korporasi",
   "title": "MEDC Paparkan Laba Naik 282% dan Ekspansi ke [Malaysia]",
@@ -1299,6 +1403,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ratu-umumkan-lokasi-dan-tanggal-dps-rupslb-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "RATU Umumkan Lokasi dan Tanggal DPS RUPSLB [PMTHMETD]",
+  "deck": "RATU menetapkan Cityloog Hotel Tebet sebagai lokasi RUPSLB 8 September 2026 dan 13 Agustus 2026 sebagai batas kepemilikan saham yang berhak memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:50:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0222554ff9_e4dc7ed2d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "RUPSLB",
+   "PMTHMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) resmi mengumumkan lokasi dan waktu penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 8 September 2026 pukul 10.00 WIB di Cityloog Hotel Tebet, Jalan Dr. Saharjo No. 191, Manggarai Selatan, Tebet, Jakarta. Pengumuman disampaikan oleh Supriyanti Priandini selaku Corporate Secretary & Legal Perseroan melalui surat resmi kepada Bursa Efek Indonesia pada 4 September 2026.",
+   "Perseroan juga menetapkan 13 Agustus 2026 sebagai tanggal Daftar Pemegang Saham (DPS), yakni batas kepemilikan saham yang menentukan siapa saja pemegang saham yang berhak hadir dan memberikan suara dalam RUPSLB tersebut. Rapat ini akan meminta persetujuan pemegang saham independen atas rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), yaitu penerbitan saham baru sebanyak-banyaknya 271.505.380 lembar atau maksimum 10 persen dari modal disetor, yang sebelumnya sudah diumumkan berpotensi mendilusi kepemilikan pemegang saham lama hingga 9,09 persen."
+  ],
+  "fotoAdegan": "Empty hotel ballroom being arranged with rows of chairs and a podium ahead of a corporate shareholders meeting, soft morning light",
+  "takeaway": "Pengumuman lokasi dan tanggal DPS ini netral bagi RATU karena hanya melengkapi mekanisme RUPSLB yang sudah diumumkan sebelumnya, tanpa mengubah substansi rencana penambahan modal maupun angka dilusi 9,09 persen. Yang tersentuh dari rencana ini adalah jumlah saham beredar, karena RUPSLB akan memutuskan penerbitan hingga 271,5 juta saham baru yang otomatis menambah jumlah saham beredar dan bisa menipiskan laba per saham kalau laba perusahaan tidak tumbuh sebanding. Hanya pemegang saham yang tercatat di Daftar Pemegang Saham per 13 Agustus 2026 yang berhak hadir dan memberi suara pada rapat ini. Yang perlu dipantau berikutnya adalah hasil RUPSLB itu sendiri pada Selasa, 8 September 2026 pukul 10.00, karena persetujuan pemegang saham independen adalah syarat mutlak sebelum penerbitan saham baru bisa berjalan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bjtm-laba-konsolidasi-naik-53-aset-bank-induk-menyusut",
   "category": "Aksi Korporasi",
   "title": "BJTM: Laba Konsolidasi Naik 53%, Aset Bank Induk [Menyusut]",
@@ -1323,6 +1452,58 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Teller counter inside a regional bank branch in East Java, customers queuing patiently, warm morning light through the entrance",
   "takeaway": "Materi ini pantas dibaca netral cenderung waspada, bukan sekadar dirayakan sebagai kabar baik, karena performa gemilang di angka konsolidasi grup usaha bank ternyata tidak mencerminkan kondisi Bank Jatim sendiri, yang justru kehilangan aset dan simpanan nasabah sepanjang setahun terakhir. Yang tersentuh adalah dana pihak ketiga atau DPK, yakni total simpanan nasabah yang jadi sumber utama bank untuk disalurkan sebagai kredit, yang di level bank saja turun 10,65 persen; rasio kredit bermasalah atau NPL yang naik dari 3,88 persen menjadi 4,24 persen; serta rasio pencadangan atau coverage ratio, yaitu bantalan dana yang disiapkan bank untuk menutup kerugian kredit macet, yang menipis dari 102,12 persen menjadi 94,34 persen sehingga daya serapnya terhadap kredit macet baru berkurang. Efisiensi juga melonggar, terlihat dari BOPO yang naik dari 79,92 persen menjadi 82,15 persen dan ROE atau imbal hasil terhadap modal pemegang saham yang turun dari 13,35 persen menjadi 11,19 persen. Yang perlu dipantau berikutnya adalah laporan kinerja kuartal III 2026, untuk melihat apakah penyusutan aset dan DPK di level bank saja berlanjut atau mulai membalik, serta apakah kontribusi bank-bank anggota Kelompok Usaha Bank tetap menopang laba konsolidasi seperti pada semester pertama tahun ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ekuitas-mknt-minus-rp13-66-miliar-meski-pendapatan-melonjak",
+  "category": "Aksi Korporasi",
+  "title": "Ekuitas MKNT [minus] Rp13,66 miliar meski pendapatan melonjak",
+  "deck": "Laporan keuangan audited semester I 2026 MKNT menunjukkan ekuitas masih negatif Rp13,66 miliar, memburuk dari Rp7,35 miliar di akhir 2025, meski pendapatan melonjak ke Rp75,88 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:19:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412f444943_589d630f9a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "laporan keuangan",
+   "ekuitas negatif",
+   "smartphone"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk (MKNT) menyampaikan laporan keuangan konsolidasian audited untuk periode enam bulan yang berakhir 30 Juni 2026 kepada Otoritas Jasa Keuangan pada 4 September 2026. Laporan yang ditandatangani Direktur Utama sekaligus Corporate Secretary Jefri Junaedi ini memperoleh opini wajar tanpa pengecualian dari auditor independen. Perusahaan tercatat bergerak di bidang perdagangan smartphone, gadget, dan pulsa isi ulang, bisnis yang baru terlihat menghasilkan pendapatan signifikan pada periode ini.",
+   "Penjualan bersih melonjak dari Rp1,15 miliar pada semester I 2025 menjadi Rp75,88 miliar pada semester I 2026, naik Rp74,74 miliar. Laba bruto pun berbalik positif menjadi Rp15,72 miliar, dari sebelumnya rugi bruto Rp1,7 miliar. Namun rugi tahun berjalan justru melebar menjadi Rp4,14 miliar dari Rp2,66 miliar setahun sebelumnya, dengan rugi per saham membesar dari Rp0,48 menjadi Rp0,75. Muncul pula beban keuangan baru sebesar Rp573,08 juta yang sebelumnya tidak ada, seiring perusahaan mulai menanggung bunga pinjaman bank.",
+   "Dari sisi neraca, total aset melonjak dari Rp826,09 miliar di akhir 2025 menjadi Rp1,452 triliun per Juni 2026, didorong oleh persediaan Rp649,26 miliar, piutang usaha Rp107,19 miliar, dan aset tetap Rp436,33 miliar yang sebelumnya nyaris nol. Tetapi total liabilitas juga melonjak dari Rp833,44 miliar menjadi Rp1,466 triliun, termasuk pinjaman bank jangka pendek baru Rp281,56 miliar dan utang usaha Rp152,15 miliar. Liabilitas jangka pendek sebesar Rp1,399 triliun jauh melampaui aset lancar yang hanya Rp822,57 miliar. Akibatnya jumlah ekuitas perusahaan tetap negatif Rp13,66 miliar, memburuk dari defisit Rp7,35 miliar di akhir 2025."
+  ],
+  "fotoAdegan": "Workers sorting stacks of smartphone boxes inside a busy wholesale distribution warehouse, forklift and shelving in the background",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena meski pendapatan melonjak tajam, ekuitas perusahaan tetap negatif dan justru memburuk, sementara kewajiban jangka pendek jauh melampaui aset lancar yang tersedia. Ekuitas adalah selisih antara aset dan utang perusahaan, kalau angkanya minus berarti utang sudah melebihi seluruh harta yang dimiliki, dan rugi per saham yang melebar dari Rp0,48 menjadi Rp0,75 menunjukkan beban kerugian yang makin besar bagi tiap pemegang saham. Pinjaman bank jangka pendek baru senilai Rp281,56 miliar juga menambah beban bunga tetap yang harus dibayar perusahaan ke depan. Yang perlu dipantau adalah apakah lonjakan pendapatan dari bisnis smartphone dan pulsa ini bisa berlanjut cukup besar untuk menutup defisit ekuitas, terutama pada laporan keuangan kuartal III 2026 mendatang, sekaligus bagaimana dampak konversi utang menjadi saham senilai Rp822,9 miliar yang baru diumumkan pekan lalu terhadap posisi permodalan perusahaan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "dgwg-panggil-rupslb-soal-perubahan-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Panggil RUPSLB soal [Perubahan] Anggaran Dasar",
+  "deck": "DGWG mengundang pemegang saham ke RUPSLB 28 September 2026 untuk menyetujui perubahan Pasal 3 Anggaran Dasar agar sesuai klasifikasi usaha KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T13:18:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf13a118f_dd6c282d76.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "KBLI 2025"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG), produsen pupuk dan produk agrokimia yang menaungi DGW Group, memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 28 September 2026 pukul 09.30 WIB di Meeting Room Crystal 1-3, Hotel Ibis Sunter. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 3 September 2026 pukul 16.00 WIB. Rapat digelar secara elektronik lewat aplikasi eASY.KSEI, dengan batas maksimal kehadiran fisik di lokasi sebanyak 100 orang.",
+   "Agenda tunggal RUPSLB ini adalah perubahan Pasal 3 Anggaran Dasar Perseroan mengenai maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Dalam surat pemanggilan, manajemen menegaskan bahwa perubahan ini murni penyesuaian administratif kode klasifikasi usaha dan tidak termasuk perubahan kegiatan usaha Perseroan sebagaimana diatur dalam POJK No. 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
+   "Perseroan menetapkan sejumlah tenggat prosedural bagi pemegang saham yang ingin memberi kuasa. Pemegang saham yang menggunakan aplikasi eASY.KSEI wajib menyampaikan kehadiran, kuasa, atau pilihan suara paling lambat pukul 12.00 WIB pada satu hari kerja sebelum rapat. Bagi yang memakai formulir kuasa manual, asli surat kuasa wajib disampaikan langsung atau lewat surat tercatat ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, di Kelapa Gading, Jakarta Utara, paling lambat 27 September 2026 pukul 16.00 WIB. Perseroan tidak menyediakan materi rapat cetak, sehingga pemegang saham harus mengunduhnya dari situs web perusahaan."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a hotel meeting room, soft morning light through curtains, before a shareholder gathering",
+  "takeaway": "Laporan ini netral bagi fundamental DGWG karena agenda RUPSLB hanya menyesuaikan kode klasifikasi usaha, bukan mengubah lini bisnis, model pendapatan, atau struktur permodalan perusahaan. Perubahan anggaran dasar soal kegiatan usaha kadang jadi sinyal ekspansi ke bisnis baru yang bisa mengubah arah pendapatan perusahaan, tapi di sini manajemen sendiri menegaskan ini cuma penyesuaian administratif sesuai aturan OJK, sehingga tidak menyentuh ekuitas, arus kas, maupun laba per saham. Yang perlu dipantau selanjutnya adalah hasil pemungutan suara pada RUPSLB tanggal 28 September 2026, serta apakah ada perubahan tata cara pelaksanaan rapat yang bisa diumumkan Perseroan lewat situs webnya sebelum tanggal tersebut.",
   "sentimen": "netral"
  },
  {
@@ -1352,6 +1533,32 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
   "takeaway": "Yang berubah adalah arah pergerakan stok: setelah stok awal tahun berada di 2,068 juta ton, per akhir Mei 2026 stok CPO nasional naik jadi 3,04 juta ton, karena ekspor bulan itu turun jauh lebih dalam (28 persen) dibanding penurunan produksi (7 persen), sehingga minyak sawit yang biasanya dikirim ke luar negeri jadi menumpuk di dalam negeri. Yang terdampak langsung adalah pelaku usaha sawit yang mengandalkan ekspor, terutama yang mengirim ke China, India, dan Afrika, tiga tujuan dengan penurunan terbesar bulan itu. Tapi buktinya masih terbelah: secara kumulatif Januari-Mei, ekspor tetap tumbuh 10,26 persen dibanding tahun lalu, jadi belum jelas apakah pelemahan Mei ini cuma koreksi sesaat atau awal tren melambat. Yang akan menjawabnya adalah data kinerja industri sawit dari GAPKI untuk bulan Juni 2026, kalau ekspor kembali naik berarti Mei cuma anomali, kalau masih tertekan berarti sinyal pelemahan permintaan mulai nyata.",
   "imageV": "mtmjzzv3"
+ },
+ {
+  "slug": "bbni-kinerja-laba-1h26-naik-7-jadi-rp10-8-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BBNI [Kinerja]: Laba 1H26 Naik 7% Jadi Rp10,8 Triliun",
+  "deck": "BNI memaparkan kinerja semester I 2026 dalam materi Public Expose Tahunan: laba bersih naik 7% menjadi Rp10,8 triliun, kredit tumbuh 24,4%, dan kualitas aset membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T12:44:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6503bc751e_64e2e5b849.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "Bank Negara Indonesia",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menyampaikan materi Public Expose Tahunan kepada Bursa Efek Indonesia, terkait dengan acara Public Expose Live yang dijadwalkan pada 9 September 2026. Materi presentasi memuat kinerja keuangan konsolidasi semester I 2026: laba bersih naik dari Rp10,1 triliun pada semester I 2025 menjadi Rp10,8 triliun, tumbuh 7 persen secara tahunan. Laba inti sebelum pencadangan (PPOP) tercatat Rp18,5 triliun, tumbuh 14,5 persen secara tahunan dan menjadi capaian semester pertama tertinggi dalam lima tahun terakhir, ditopang pertumbuhan pendapatan bunga dan pendapatan berbasis komisi yang berimbang.",
+   "Dari sisi pembiayaan, total kredit BNI naik dari Rp778,7 triliun pada Juni 2025 menjadi Rp968,5 triliun pada Juni 2026, tumbuh 24,4 persen atau bertambah sekitar Rp190 triliun, dengan segmen wholesale atau korporasi besar sebagai penopang utama. Dana pihak ketiga turut tumbuh 22 persen secara tahunan dengan tambahan Rp200,3 triliun. Kualitas kredit membaik, tercermin dari rasio kredit berisiko atau loan at risk yang turun dari 11,0 persen menjadi 8,1 persen dalam setahun, sementara rasio kredit bermasalah atau NPL stabil di 1,9 persen, lebih rendah dari rata rata industri 3,8 persen. Permodalan tetap kuat dengan rasio kecukupan modal 18,1 persen, jauh di atas ketentuan minimum regulator 14,5 persen, sedangkan rasio kredit terhadap simpanan berada di 87,7 persen.",
+   "Di sisi digital, jumlah pengguna aplikasi wondr mencapai 15,1 juta hingga Juni 2026, tumbuh 76 persen secara tahunan atau bertambah 6,5 juta pengguna baru, dengan volume transaksi 789 juta kali senilai Rp6.039 triliun sepanjang semester I 2026, naik 14 persen dibanding tahun sebelumnya. BNI juga menyelesaikan implementasi nasional program transformasi cabang bernama BRAVE pada Juli 2026, setelah uji coba di dua kantor wilayah sejak Oktober 2025. Dari sisi pembiayaan berkelanjutan, portofolio hijau dan sosial BNI mencapai Rp195,7 triliun atau 20,5 persen dari total kredit bank only, terdiri atas pembiayaan sosial ekonomi Rp120,4 triliun dan pembiayaan hijau Rp75,4 triliun. Manajemen juga memaparkan bahwa 78 persen analis merekomendasikan beli atas saham BBNI, dengan realisasi laba bersih semester I 2026 mencapai 51 persen dari konsensus laba bersih setahun penuh 2026 sebesar Rp21,3 triliun, serta rasio pembayaran dividen tahun buku 2025 sebesar 65 persen."
+  ],
+  "fotoAdegan": "Bank customer service staff assisting a client at a modern branch counter, soft indoor lighting, blurred digital screens in the background",
+  "takeaway": "Laporan ini condong positif bagi BNI, karena data yang dipaparkan menunjukkan pertumbuhan laba dan kredit yang solid, kualitas aset yang membaik, dan permodalan yang tetap kuat, bukan sekadar klaim tanpa bukti angka. Yang tersentuh adalah pos permodalan dan kualitas kredit: rasio kecukupan modal mengukur seberapa besar bantalan modal bank untuk menyerap potensi kerugian, dan angka 18,1 persen yang jauh di atas syarat minimum 14,5 persen berarti BNI masih punya ruang lebar untuk terus menyalurkan kredit tanpa buru buru mencari modal tambahan. Penurunan rasio kredit berisiko dari 11 persen ke 8,1 persen juga penting karena menandakan makin sedikit kredit yang berpotensi bermasalah di masa depan, bukan cuma yang sudah macet sekarang. Yang perlu dipantau berikutnya adalah acara Public Expose Live pada 9 September 2026, ketika manajemen akan menjawab langsung pertanyaan investor, serta apakah realisasi laba bersih hingga akhir 2026 benar benar mendekati konsensus analis Rp21,3 triliun setelah semester pertama baru terealisasi 51 persen.",
+  "sentimen": "positif"
  },
  {
   "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",

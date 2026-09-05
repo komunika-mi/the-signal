@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
+  "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T05:48:41.275Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kunci-wirausaha-bukan-sekadar-dapat-pelanggan-tapi-menjaga-hubungan",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "Kemnaker",
+   "TKM",
+   "Bantuan UMKM",
+   "Wirausaha"
+  ],
+  "body": [
+   "Menteri Ketenagakerjaan Yassierli membuka program pembekalan dan penyaluran bantuan modal usaha bagi kelompok Tenaga Kerja Mandiri (TKM) di Bandung Barat, Jawa Barat, Jumat (4/9/2026). Acara ini penting bagi pembaca karena menyangkut dana negara yang langsung disalurkan ke tangan pelaku usaha mikro dan pemula sebagai modal pengembangan usaha.",
+   "Dalam kick off tersebut, Kemnaker menyerahkan bantuan kepada 1.000 penerima kategori TKM Lanjutan, masing-masing sebesar Rp15 juta, serta 8.731 penerima kategori TKM Pemula dengan nilai Rp5 juta per orang. Jika ditotal, dana yang digelontorkan untuk kedua kelompok ini mencapai sekitar Rp58,7 miliar. Yassierli menegaskan bahwa dana tersebut berasal dari uang rakyat lewat APBN, sehingga penerima diminta menjaga dan mengelolanya dengan hati-hati.",
+   "Selain bantuan modal, peserta TKM juga mendapat pembekalan seputar pematangan ide bisnis, kemasan produk, pemasaran daring, dan cara menjaga kualitas produk. Yassierli menyebut program bantuan TKM ini sudah berjalan selama enam tahun dan menurut catatan Kemnaker telah melahirkan banyak wirausaha baru yang sukses.",
+   "Dalam arahannya, Yassierli juga menekankan pentingnya menjaga hubungan dengan pelanggan lama, bukan hanya mengejar pelanggan baru, sebagai salah satu kunci usaha bisa terus tumbuh. Ia mencontohkan praktik menghubungi kembali pelanggan setelah bertransaksi, seperti yang lazim dilakukan di layanan kesehatan, sebagai bentuk pengelolaan hubungan pelanggan yang bisa ditiru pelaku usaha kecil."
+  ],
+  "fotoAdegan": "Small-scale entrepreneurs arranging packaged local products on tables inside a vocational training center in West Java, morning light.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Bantuan ini dibagi dua kelompok: yang baru merintis usaha (TKM Pemula) mendapat Rp5 juta, sementara yang usahanya sudah berjalan dan naik level (TKM Lanjutan) mendapat Rp15 juta, dengan total dana dari anggaran negara sekitar Rp58,7 miliar untuk 9.731 penerima. Yang terdampak langsung adalah pelaku usaha mikro dan pemula, termasuk peserta yang ikut pembekalan di Bandung Barat ini. Kemnaker menyebut program ini sudah berjalan enam tahun dan mengklaim sudah melahirkan banyak wirausaha sukses, tetapi berita ini tidak menyebutkan data berapa persen penerima tahun-tahun sebelumnya yang usahanya benar-benar masih bertahan atau berkembang. Permintaan menteri agar penerima menjaga uang bantuan karena berasal dari kas negara juga menunjukkan ada perhatian soal pertanggungjawaban penggunaan dana. Yang perlu ditunggu adalah laporan evaluasi resmi Kemnaker soal tingkat keberhasilan usaha dari angkatan-angkatan TKM sebelumnya, karena data itu yang bisa menjawab apakah program ini benar-benar mencetak wirausaha baru atau sekadar rutin menyalurkan dana setiap tahun."
+ },
+ {
+  "slug": "kemnaker-buka-pendaftaran-pelatihan-vokasi-batch-5",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Buka Pendaftaran [Pelatihan Vokasi] Batch 5",
+  "deck": "Kemnaker membuka pendaftaran Pelatihan Vokasi Nasional Batch 5 pada 27 Agustus-16 September 2026, menyasar pencari kerja, korban PHK, dan lulusan SMA/SMK.",
+  "image": "assets/img/pelatihan-vokasi.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T05:48:36.358Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-buka-pelatihan-vokasi-nasional-batch-5-untuk-akselerasi-keterampilan-tenaga-kerja",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "Kemnaker",
+   "Pelatihan Vokasi",
+   "PHK",
+   "SMK"
+  ],
+  "body": [
+   "Kementerian Ketenagakerjaan (Kemnaker) membuka pendaftaran gelombang kelima program pelatihan vokasi nasional, PVN Batch 5, yang bisa diakses lewat platform Skillhub Kemnaker di skillhub.kemnaker.go.id mulai 27 Agustus sampai 16 September 2026. Program ini relevan bagi pencari kerja dan korban PHK karena menawarkan bekal keterampilan praktis, sekaligus menjadi salah satu jalur pemerintah untuk mendorong daya saing tenaga kerja di tengah kebutuhan industri yang terus berubah.",
+   "Menteri Ketenagakerjaan Yassierli mengatakan pesatnya perubahan lanskap industri membuat pekerja perlu terus memperbarui atau menambah keterampilan, baik lewat upskilling, yaitu menaikkan level kemampuan yang sudah dimiliki, maupun reskilling, yaitu mempelajari keterampilan baru yang berbeda dari sebelumnya. Ia menyebut seluruh program dirancang berbasis kompetensi, sehingga peserta tidak hanya mendapat teori tetapi juga keterampilan terapan yang bisa langsung dipakai bekerja.",
+   "Kemnaker memprioritaskan peserta dari kalangan pencari kerja, korban pemutusan hubungan kerja, dan calon wirausaha, terutama lulusan SMA/SMK sederajat. Tahapannya berjenjang: pendaftaran sekaligus pengisian asesmen Siap Latih dibuka sampai 16 September 2026, dilanjutkan wawancara bagi peserta yang lolos seleksi awal pada 17 hingga 23 September 2026, dan pengumuman kelulusan PVN Batch 5 dijadwalkan pada 24 September 2026."
+  ],
+  "fotoAdegan": "Young adults in a vocational training workshop practicing hands-on machine repair skills while an instructor supervises, bright industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah dibukanya gelombang kelima pelatihan vokasi ini dengan jadwal yang jelas: pendaftaran sampai 16 September, wawancara sampai 23 September, dan pengumuman kelulusan pada 24 September 2026. Yang terdampak adalah pencari kerja, korban PHK, calon wirausaha, dan terutama lulusan SMA/SMK yang butuh bekal keterampilan tambahan. Fakta bahwa ini sudah batch kelima menunjukkan program ini berjalan rutin, bukan sekali jalan, tetapi siaran pers ini tidak menyebut berapa peserta dari batch-batch sebelumnya yang benar-benar terserap kerja atau membuka usaha setelah pelatihan. Tanpa data itu, arah program ini baru bisa dibaca lebih jelas kalau Kemnaker merilis angka penempatan kerja lulusan batch sebelumnya."
+ },
+ {
   "slug": "delapan-umkm-surakarta-siap-tampil-di-tei-2026",
   "category": "UMKM",
   "title": "Delapan UMKM Surakarta Siap Tampil di [TEI] 2026",
@@ -3530,7 +3583,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:59.061Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",

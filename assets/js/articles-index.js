@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
+  "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
+  "date": "5 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "Kemnaker",
+   "TKM",
+   "Bantuan UMKM",
+   "Wirausaha"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kunci-wirausaha-bukan-sekadar-dapat-pelanggan-tapi-menjaga-hubungan",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "kemnaker-buka-pendaftaran-pelatihan-vokasi-batch-5",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Buka Pendaftaran [Pelatihan Vokasi] Batch 5",
+  "deck": "Kemnaker membuka pendaftaran Pelatihan Vokasi Nasional Batch 5 pada 27 Agustus-16 September 2026, menyasar pencari kerja, korban PHK, dan lulusan SMA/SMK.",
+  "date": "5 September 2026",
+  "image": "assets/img/pelatihan-vokasi.jpg",
+  "tags": [
+   "Kemnaker",
+   "Pelatihan Vokasi",
+   "PHK",
+   "SMK"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-buka-pelatihan-vokasi-nasional-batch-5-untuk-akselerasi-keterampilan-tenaga-kerja",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "delapan-umkm-surakarta-siap-tampil-di-tei-2026",
   "category": "UMKM",
   "title": "Delapan UMKM Surakarta Siap Tampil di [TEI] 2026",
@@ -2188,7 +2220,7 @@ var ARTICLES = [
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
   "date": "3 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "green jobs",
    "Kemnaker",
@@ -6532,39 +6564,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/344f84a595_1476b646a1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem",
-  "category": "UMKM",
-  "title": "Diskon Ongkos E-Commerce UMKM Tinggal Tunggu [Integrasi] Sistem",
-  "deck": "Menteri UMKM Maman Abdurrahman menyebut diskon 50 persen biaya layanan e-commerce bagi UMK sudah 95 persen siap, tinggal menunggu jadwal integrasi sistem Sapa UMKM.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/diskon-ongkos-e-commerce-umkm-tinggal-tunggu-integrasi-sistem.jpg",
-  "imageV": "mtbqd72u",
-  "tags": [
-   "umkm",
-   "e-commerce",
-   "maman abdurrahman",
-   "sapa umkm"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/462981-menteri-umkm-sebut-diskon-50-persen-biaya-e-commerce-bagi-umk-tunggu-jadwal-integrasi"
- },
- {
-  "slug": "bbrm-batalkan-kontrak-kapal-psv-senilai-us-22-juta",
-  "category": "Aksi Korporasi",
-  "title": "BBRM [Batalkan] Kontrak Kapal PSV Senilai US$22 Juta",
-  "deck": "Perjanjian pembangunan satu kapal Platform Supply Vessel dengan galangan asal China dibatalkan karena syarat pendahuluan tak terpenuhi dalam 90 hari, sebelum ada dana yang dibayarkan.",
-  "date": "27 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRM",
-   "pelayaran",
-   "kapal PSV",
-   "shipping"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/37583a07c3_60df18944c.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,52 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
+  "category": "Pasar Modal",
+  "title": "Bitcoin [Tertahan] di US$78.000, Pasar Tunggu Sinyal The Fed",
+  "deck": "Bitcoin bertahan di sekitar US$78.000 usai gagal menembus US$80.000, sementara arus dana ETF dan sinyal The Fed jadi penentu arah berikutnya.",
+  "date": "6 September 2026",
+  "image": "assets/img/bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed.jpg",
+  "imageV": "mtpr4g5k",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465289-bitcoin-tertahan-di-us78000-pasar-cermati-sinyal-etf-dan-kebijakan-the-fed"
+ },
+ {
+  "slug": "avrist-group-satukan-empat-entitas-lewat-sinergi-baru",
+  "category": "Bisnis",
+  "title": "Avrist Group Satukan Empat Entitas Lewat [Sinergi] Baru",
+  "deck": "Avrist Group meresmikan One Avrist Synergy untuk menyatukan layanan asuransi jiwa, asuransi umum, manajer investasi, dan dana pensiun dalam satu sistem terintegrasi.",
+  "date": "6 September 2026",
+  "image": "assets/img/avrist-group-satukan-empat-entitas-lewat-sinergi-baru.jpg",
+  "imageV": "mtpr4gmv",
+  "tags": [
+   "Avrist Group",
+   "asuransi",
+   "dana pensiun",
+   "layanan keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465273-empat-pilar-avrist-group-disatukan-solusi-keuangan-terintegrasi-jadi-fokus-baru"
+ },
+ {
+  "slug": "diskon-pbb-p2-jakarta-5-berakhir-30-september",
+  "category": "Makroekonomi",
+  "title": "Diskon PBB-P2 Jakarta [5%] Berakhir 30 September",
+  "deck": "Bapenda DKI Jakarta mengingatkan batas akhir pembayaran PBB-P2 2026 pada 30 September, sebelum keringanan pokok 5 persen berakhir dan denda keterlambatan mulai berlaku.",
+  "date": "6 September 2026",
+  "image": "assets/img/diskon-pbb-p2-jakarta-5-berakhir-30-september.jpg",
+  "imageV": "mtpr4h1a",
+  "tags": [
+   "PBB-P2",
+   "Bapenda DKI Jakarta",
+   "pajak daerah",
+   "Jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465244-jangan-lewat-jatuh-tempo-keringanan-pbb-p2-5-masih-berlaku-hingga-akhir-september"
+ },
+ {
   "slug": "dooh-rilis-ulang-kuartal-i-laba-usaha-berbalik-rugi",
   "category": "Aksi Korporasi",
   "title": "DOOH Rilis Ulang Kuartal I, [Laba Usaha] Berbalik Rugi",
@@ -19,6 +65,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906145112-64368-0/FinancialStatement-2026-I-DOOH.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp",
+  "category": "Makroekonomi",
+  "title": "Cara Cek [Desil] Bansos Lewat HP dengan NIK KTP",
+  "deck": "Kemensos membuka layanan mandiri di cekbansos.kemensos.go.id untuk mengecek status desil kesejahteraan keluarga hanya dengan memasukkan NIK lewat ponsel.",
+  "date": "6 September 2026",
+  "image": "assets/img/cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp.jpg",
+  "imageV": "mtpr4hlb",
+  "tags": [
+   "desil",
+   "bansos",
+   "DTSEN",
+   "cekbansos"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465207-cara-cek-desil-lewat-hp-di-laman-cekbansoskemensosgoid-bisa-ikuti-empat-langkah-ini"
  },
  {
   "slug": "pmui-perpanjang-term-sheet-penjualan-saham-grpm-ke-desember-2026",
@@ -6491,73 +6554,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260829122655-62602-0/FinancialStatement-2025-Tahunan-CRAB.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "plts-atap-surabaya-kurangi-715-ton-emisi-karbon",
-  "category": "Energi",
-  "title": "PLTS Atap Surabaya Kurangi [715] Ton Emisi Karbon",
-  "deck": "PLTS atap 586,95 kWp di Ciputra World Surabaya beroperasi, diproyeksikan hasilkan 795 MWh listrik dan tekan 715 ton emisi karbon pada tahun pertama.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/plts-atap-surabaya-kurangi-715-ton-emisi-karbon.jpg",
-  "imageV": "mtebqxyg",
-  "tags": [
-   "PLTS Atap",
-   "Surabaya",
-   "Energi Terbarukan",
-   "Zero-CAPEX"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463362-plts-atap-di-surabaya-kurangi-715-ton-emisi-karbon-setara-penanaman-15897-pohon"
- },
- {
-  "slug": "bei-catat-7-perusahaan-antre-ipo-mayoritas-kesehatan",
-  "category": "Pasar Modal",
-  "title": "BEI Catat [7] Perusahaan Antre IPO, Mayoritas Kesehatan",
-  "deck": "BEI mencatat tujuh perusahaan masih mengantre pencatatan saham hingga 28 Agustus 2026, didominasi sektor kesehatan, sementara tujuh perusahaan lain sudah resmi melantai dan menghimpun Rp2,16 triliun.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/lantai-bursa-sepi.jpg",
-  "tags": [
-   "IPO",
-   "BEI",
-   "Pasar Modal",
-   "Sektor Kesehatan"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463347-bei-ungkap-7-perusahaan-antre-ipo-4-dari-sektor-kesehatan"
- },
- {
-  "slug": "ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang",
-  "category": "Industri",
-  "title": "Ekspor Koral RI ke AS, Kalah Jauh dari [Jepang]",
-  "deck": "Mendag Busan melepas ekspor koral hidup senilai US$2.500 dari Banyuwangi ke AS, sementara ekspor koral nasional semester I 2026 hanya tumbuh 2,42 persen dan masih tertinggal jauh dari Jepang.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/ekspor-koral-ri-ke-as-kalah-jauh-dari-jepang.jpg",
-  "imageV": "mtdvipaq",
-  "tags": [
-   "ekspor koral",
-   "Kementerian Perdagangan",
-   "Banyuwangi",
-   "perikanan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tunjukkan-potensi-koral-budi-daya-di-pasar-global-mendag-busan-lepas-ekspor-koral-hidup-ke-as-1787916889",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi",
-  "category": "UMKM",
-  "title": "Kemendag Teken MoU [Campuspreneur] dengan Kampus di Banyuwangi",
-  "deck": "Kemendag menggandeng UNIDSOE Banyuwangi lewat program Campuspreneur untuk mencetak wirausaha ekspor baru, sementara program UMKM BISA Ekspor mencatat potensi transaksi US$333,68 juta pada Januari-Juli 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/kemendag-teken-mou-campuspreneur-dengan-kampus-di-banyuwangi.jpg",
-  "imageV": "mtdvj2du",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Campuspreneur",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-kuliah-umum-di-unidsoe-banyuwangi-mendag-busan-ajak-mahasiswa-coba-berwirausaha",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

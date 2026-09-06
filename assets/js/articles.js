@@ -3,6 +3,80 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
+  "category": "Pasar Modal",
+  "title": "Bitcoin [Tertahan] di US$78.000, Pasar Tunggu Sinyal The Fed",
+  "deck": "Bitcoin bertahan di sekitar US$78.000 usai gagal menembus US$80.000, sementara arus dana ETF dan sinyal The Fed jadi penentu arah berikutnya.",
+  "image": "assets/img/bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T17:29:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465289-bitcoin-tertahan-di-us78000-pasar-cermati-sinyal-etf-dan-kebijakan-the-fed",
+  "tags": [],
+  "body": [
+   "Harga Bitcoin tertahan di kisaran US$78.000 setelah gagal mempertahankan posisinya di atas level US$80.000 yang selama ini jadi patokan psikologis pelaku pasar. Kondisi ini membuat investor kripto menunggu sejumlah data yang bisa menentukan arah selanjutnya, mulai dari arus dana ETF, angka inflasi, data tenaga kerja AS, hingga sikap Bank Sentral Amerika Serikat atau The Fed soal suku bunga.",
+   "Sebelum tertahan, Bitcoin sempat melesat sekitar 26 persen dari US$62.700 ke level tertinggi US$81.235 sepanjang Agustus. Kenaikan itu kemudian terkoreksi dan membawa harga kembali turun ke bawah US$80.000. CEO dan Founder platform investasi kripto FLOQ, Yudhono Rawis, menyebut penurunan ini belum mengubah prospek Bitcoin secara keseluruhan, namun pasar kini masuk fase pembuktian untuk menguji seberapa kuat permintaan investor usai reli tersebut.",
+   "Yudhono menekankan bahwa dua hal patut dicermati ke depan, yaitu permintaan pembelian langsung di pasar spot dan besarnya dana yang masuk dari investor institusional. Kedua indikator itu dianggap bisa menggambarkan apakah minat terhadap Bitcoin masih kuat setelah kenaikan tajam kemarin, atau justru mulai melemah.",
+   "Data arus dana menunjukkan sinyal yang belum searah. Pada pekan yang berakhir 24 Agustus, ETF Bitcoin dan Ethereum di AS mencatat aliran dana masuk bersih sekitar US$2,71 miliar, dengan ETF Bitcoin menyumbang porsi terbesar sekitar US$1,92 miliar. Namun menurut data Farside Investors, situasi berbalik pada 28 Agustus ketika ETF Bitcoin spot justru mencatat dana keluar bersih sekitar US$201,9 juta, setelah sebelumnya beberapa hari berturut-turut mencatat aliran masuk."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/03/683e7dac5a649-ilustrasi-bitcoin_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah arah aliran dana ETF Bitcoin di AS. Setelah mencatat dana masuk bersih US$2,71 miliar untuk ETF Bitcoin dan Ethereum pada pekan yang berakhir 24 Agustus, arus itu berbalik jadi dana keluar sekitar US$201,9 juta pada 28 Agustus. Yang langsung terdampak adalah investor institusional pemegang produk ETF Bitcoin, sekaligus investor kripto ritel yang biasanya mengikuti arah pergerakan dana besar tersebut. Ada dua kemungkinan arah dari sini: pertama, dana keluar ini cuma jeda sesaat setelah harga naik tajam 26 persen dalam sebulan, sehingga permintaan bisa kembali begitu data inflasi dan tenaga kerja AS keluar sesuai perkiraan pasar; kedua, ini pertanda minat institusional mulai surut usai gagal menembus US$80.000, yang berarti tekanan turun bisa berlanjut. Yang akan memastikan mana yang terjadi adalah data arus dana ETF harian berikutnya dari Farside Investors serta arah kebijakan suku bunga yang diambil The Fed dalam waktu dekat.",
+  "imageV": "mtpr4g5k"
+ },
+ {
+  "slug": "avrist-group-satukan-empat-entitas-lewat-sinergi-baru",
+  "category": "Bisnis",
+  "title": "Avrist Group Satukan Empat Entitas Lewat [Sinergi] Baru",
+  "deck": "Avrist Group meresmikan One Avrist Synergy untuk menyatukan layanan asuransi jiwa, asuransi umum, manajer investasi, dan dana pensiun dalam satu sistem terintegrasi.",
+  "image": "assets/img/avrist-group-satukan-empat-entitas-lewat-sinergi-baru.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T16:32:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465273-empat-pilar-avrist-group-disatukan-solusi-keuangan-terintegrasi-jadi-fokus-baru",
+  "tags": [
+   "Avrist Group",
+   "asuransi",
+   "dana pensiun",
+   "layanan keuangan"
+  ],
+  "body": [
+   "Avrist Group meresmikan inisiatif bernama One Avrist Synergy pada 3 September 2026 di Jakarta, menyatukan empat lini bisnisnya, yaitu asuransi jiwa, asuransi umum, manajer investasi, dan dana pensiun, di bawah satu pendekatan layanan bertajuk 'One Avrist, One Solution'. Bagi nasabah, ini berarti kebutuhan proteksi, investasi, dan pensiun bisa diakses lewat sistem data yang saling terhubung, alih-alih berurusan terpisah dengan tiap entitas.",
+   "Empat entitas yang disatukan adalah Avrist Assurance yang menangani asuransi jiwa, Avrist General Insurance untuk asuransi umum, Avrist Asset Management sebagai pengelola investasi, dan DPLK Avrist yang mengelola dana pensiun karyawan. Pengukuhan dilakukan secara simbolis oleh jajaran direksi masing-masing entitas, yaitu Direktur dan Pjs Presiden Direktur Avrist Assurance Agus Setiawan, Direktur Avrist Assurance Aldi Rinaldi, Direktur Utama Avrist General Insurance Dwi Wahyuni, Direktur Avrist Asset Management Agus Sugianto, dan Ketua Pengurus DPLK Avrist Firmansyah.",
+   "Agus Setiawan menjelaskan bahwa integrasi layanan dan basis data antarentitas ditujukan agar kebutuhan nasabah bisa dipahami lebih menyeluruh, sehingga pengalaman berinteraksi dengan keempat lini bisnis menjadi lebih konsisten di setiap titik layanan. Menurutnya, langkah ini juga diharapkan memberi nilai tambah bukan hanya bagi nasabah, tetapi juga mitra bisnis, karyawan, dan pemegang saham Avrist Group."
+  ],
+  "fotoAdegan": "Financial advisor shaking hands with a client in a modern insurance company office lobby, Jakarta, daytime light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/06/6a9d32b496fc2-empat-pilar-avrist-group-disatukan-solusi-keuangan-terintegrasi-jadi-fokus-baru_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan penggabungan badan hukum atau modal, melainkan penyatuan sistem data dan layanan dari empat lini bisnis Avrist, yaitu asuransi jiwa, asuransi umum, pengelola investasi, dan pengelola dana pensiun karyawan, ke dalam satu ekosistem. Pihak yang terdampak langsung adalah nasabah yang sudah punya produk di salah satu entitas Avrist, karena data mereka kini bisa saling terhubung antar layanan, serta mitra bisnis dan karyawan yang disebut ikut menerima manfaat dari integrasi ini. Beritanya belum menyebut angka konkret, seperti jumlah nasabah yang terdampak, nilai dana yang dikelola gabungan, atau target pertumbuhan setelah sinergi ini berjalan, sehingga belum bisa dipastikan apakah langkah ini sekadar penyeragaman layanan atau akan diikuti produk baru yang benar-benar menggabungkan proteksi, investasi, dan pensiun dalam satu paket. Yang perlu ditunggu adalah apakah Avrist Group merilis produk gabungan atau angka kinerja pasca sinergi dalam pengumuman berikutnya, karena itu yang akan menunjukkan apakah integrasi ini baru sebatas komunikasi atau benar-benar mengubah cara nasabah bertransaksi.",
+  "imageV": "mtpr4gmv"
+ },
+ {
+  "slug": "diskon-pbb-p2-jakarta-5-berakhir-30-september",
+  "category": "Makroekonomi",
+  "title": "Diskon PBB-P2 Jakarta [5%] Berakhir 30 September",
+  "deck": "Bapenda DKI Jakarta mengingatkan batas akhir pembayaran PBB-P2 2026 pada 30 September, sebelum keringanan pokok 5 persen berakhir dan denda keterlambatan mulai berlaku.",
+  "image": "assets/img/diskon-pbb-p2-jakarta-5-berakhir-30-september.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T15:16:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465244-jangan-lewat-jatuh-tempo-keringanan-pbb-p2-5-masih-berlaku-hingga-akhir-september",
+  "tags": [
+   "PBB-P2",
+   "Bapenda DKI Jakarta",
+   "pajak daerah",
+   "Jakarta"
+  ],
+  "body": [
+   "Badan Pendapatan Daerah (Bapenda) DKI Jakarta mengingatkan warga bahwa batas akhir pembayaran Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) tahun 2026 jatuh pada 30 September 2026. Bagi pemilik tanah dan bangunan di Jakarta, tanggal ini penting karena menentukan apakah mereka masih bisa membayar lebih murah atau justru kena tambahan denda.",
+   "Pemprov DKI memberikan keringanan pokok pajak sebesar 5 persen bagi wajib pajak yang membayar dalam periode 1 Agustus hingga 30 September 2026, dan potongan ini otomatis diterapkan saat pembayaran dilakukan tanpa perlu pengajuan khusus. Sebaliknya, pembayaran yang dilakukan setelah 30 September akan dikenai sanksi keterlambatan sebesar 1 persen dari nilai pajak untuk setiap bulan tertunda.",
+   "Keringanan ini juga terbuka bagi wajib pajak yang masih memiliki tunggakan PBB-P2 dari tahun 2021 hingga 2025, dengan ketentuan yang bisa dicek lewat kanal resmi Bapenda DKI Jakarta. Untuk mempermudah pembayaran, Pemprov DKI menyediakan berbagai kanal digital seperti e-commerce dan internet banking yang sudah bekerja sama dengan pemerintah daerah."
+  ],
+  "fotoAdegan": "Dense rows of Jakarta shophouses and residential rooftops under midday sun, viewed from an elevated street corner.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/06/6a9d205f81c03-pajak-bumi-dan-bangunan-perdesaan-dan-perkotaan-pbb-p2_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan aturannya, melainkan tenggatnya: potongan pokok PBB-P2 2026 sebesar 5 persen hanya berlaku sampai 30 September, setelah itu telat bayar dikenai denda 1 persen dari nilai pajak untuk tiap bulan keterlambatan. Yang terdampak adalah seluruh pemilik tanah dan bangunan di Jakarta yang belum membayar, termasuk yang masih menunggak sejak 2021 sampai 2025 karena mereka bisa memakai skema keringanan tunggakan terpisah. Pola ini menunjukkan Bapenda DKI memakai kombinasi potongan di depan dan denda di belakang untuk mendorong kepatuhan bayar pajak sebelum tenggat, cara yang juga dipakai pada tahun-tahun sebelumnya. Yang akan menunjukkan apakah cara ini efektif adalah angka realisasi penerimaan PBB-P2 Jakarta 2026 setelah masa keringanan ini ditutup, yang biasanya muncul dalam laporan realisasi pajak daerah Bapenda.",
+  "imageV": "mtpr4h1a"
+ },
+ {
   "slug": "dooh-rilis-ulang-kuartal-i-laba-usaha-berbalik-rugi",
   "category": "Aksi Korporasi",
   "title": "DOOH Rilis Ulang Kuartal I, [Laba Usaha] Berbalik Rugi",
@@ -27,6 +101,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide dusk view of digital advertising screens on city building facades, blurred and unreadable, traffic streaming below.",
   "takeaway": "Laporan koreksi ini condong negatif bagi fundamental DOOH, sebab di balik laba bersih yang naik, bisnis inti perseroan justru berbalik rugi usaha Rp6,01 miliar dari sebelumnya untung Rp1,87 miliar, tanda tekanan margin yang nyata pada kuartal I 2026. Yang menahan laba bersih tetap positif adalah pos pendapatan lain-lain senilai Rp10,94 miliar, jauh di luar kegiatan periklanan sehari-hari, sehingga kenaikan laba per saham menjadi Rp0,98 tidak mencerminkan perbaikan operasional yang bisa diandalkan berulang tiap kuartal. Pelunasan utang bank jangka pendek Rp8 miliar dan penurunan utang ke pihak berelasi memang memperbaiki posisi neraca, tapi itu ditopang oleh pengumpulan piutang usaha yang deras dari Rp106,60 miliar menjadi Rp44,90 miliar, bukan dari arus kas operasi yang membaik. Yang perlu dipantau berikutnya adalah apakah rugi usaha ini berlanjut di laporan kuartal II 2026, terutama di tengah rencana investasi ekosistem AI yang menurut paparan publik awal September 2026 masih mempertimbangkan pendanaan lewat rights issue.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp",
+  "category": "Makroekonomi",
+  "title": "Cara Cek [Desil] Bansos Lewat HP dengan NIK KTP",
+  "deck": "Kemensos membuka layanan mandiri di cekbansos.kemensos.go.id untuk mengecek status desil kesejahteraan keluarga hanya dengan memasukkan NIK lewat ponsel.",
+  "image": "assets/img/cara-cek-desil-bansos-lewat-hp-dengan-nik-ktp.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T12:36:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465207-cara-cek-desil-lewat-hp-di-laman-cekbansoskemensosgoid-bisa-ikuti-empat-langkah-ini",
+  "tags": [
+   "desil",
+   "bansos",
+   "DTSEN",
+   "cekbansos"
+  ],
+  "body": [
+   "Kementerian Sosial menyediakan layanan pengecekan mandiri di laman cekbansos.kemensos.go.id yang memungkinkan warga memeriksa status desil kesejahteraan keluarganya hanya lewat ponsel. Caranya cukup memasukkan Nomor Induk Kependudukan sesuai KTP, lalu sistem akan menampilkan data penerima manfaat, status bantuan sosial, dan kelompok desil yang berlaku bagi keluarga tersebut.",
+   "Agar proses pengecekan berjalan lancar, warga diimbau memastikan NIK yang diinput sama persis dengan KTP, memakai koneksi internet yang stabil, dan tidak membagikan data pribadi kepada pihak yang tidak resmi. Warga juga diminta memperbarui data ke petugas terkait apabila terjadi perubahan kondisi keluarga, misalnya bertambah atau berkurangnya anggota keluarga maupun perubahan kondisi ekonomi.",
+   "Desil sendiri adalah pengelompokan tingkat kesejahteraan keluarga yang bersumber dari Data Tunggal Sosial dan Ekonomi Nasional atau DTSEN, basis data yang merangkum sejumlah indikator sosial ekonomi penduduk. Sistem ini membagi keluarga di Indonesia ke dalam 10 kelompok desil yang masing-masing berisi 10 persen populasi, dengan desil 1 menaungi kelompok keluarga paling tidak sejahtera dan desil 10 menaungi kelompok dengan kesejahteraan tertinggi.",
+   "Posisi desil inilah yang lalu dipakai pemerintah sebagai salah satu dasar menentukan sasaran program bantuan sosial, sehingga akurasi data di DTSEN berkaitan langsung dengan siapa yang berhak menerima bantuan."
+  ],
+  "fotoAdegan": "A person at a kitchen table checking a smartphone held at an angle, blurred ID card nearby, soft morning light through a curtain.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/06/6a9cfb4b2185a-cara-cek-desil-lewat-hp-di-laman-cekbansoskemensosgoid_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau anggaran baru, melainkan makin terbukanya akses warga untuk mengecek sendiri posisi desil kesejahteraannya lewat NIK, tanpa harus mendatangi kantor desa atau dinas sosial. Yang terdampak adalah rumah tangga penerima maupun calon penerima bantuan sosial, karena kelompok desil mereka di DTSEN itulah yang menentukan apakah mereka masuk sasaran program seperti bantuan pangan atau bantuan tunai. Berita ini belum menyebut seberapa banyak data keluarga yang sudah dimutakhirkan di DTSEN atau seberapa akurat pemadanannya dengan kondisi riil di lapangan, padahal itu yang menentukan apakah kemudahan cek mandiri ini benar-benar berujung pada penyaluran bantuan yang tepat sasaran. Yang perlu ditunggu adalah evaluasi resmi Kemensos atas akurasi DTSEN dibandingkan basis data kesejahteraan sebelumnya, karena di situlah baru terlihat apakah sistem desil ini memperbaiki sasaran bansos atau sekadar mengganti nama basis data lama.",
+  "imageV": "mtpr4hlb"
  },
  {
   "slug": "pmui-perpanjang-term-sheet-penjualan-saham-grpm-ke-desember-2026",

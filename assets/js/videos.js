@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VhlzqIvVtl4",
+  "title": "BPH Migas Perkuat Pengawasan Distribusi BBM Subsidi",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "BPH Migas meninjau sejumlah SPBU dan memperkuat pengawasan distribusi BBM subsidi di wilayah Sulawesi Tenggara agar penyalurannya berjalan lancar.",
+  "takeaway": "Menyangkut kelancaran pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat di daerah.",
+  "terbit": "2026-09-06T00:57:05+00:00"
+ },
+ {
   "id": "jN_RLe9_BPU",
   "title": "Danantara Jadi Jembatan Investasi Indonesia-Rusia",
   "category": "BUMN",
@@ -99,14 +108,5 @@ var VIDEOS = [
   "summary": "Diskusi lanjutan soal data desil yang menjadi acuan penyaluran bantuan pemerintah, sementara masyarakat mengeluhkan ketidaksesuaian data dengan kondisi riil.",
   "takeaway": "Isu ini penting untuk memahami efektivitas penargetan program bantuan sosial berbasis data.",
   "terbit": "2026-09-02T15:43:38+00:00"
- },
- {
-  "id": "BgSIOz2ROMk",
-  "title": "Ekonom: Polemik Desil Harus Diredam, Bukan Dipicu",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
-  "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat.",
-  "terbit": "2026-09-02T15:24:44+00:00"
  }
 ];

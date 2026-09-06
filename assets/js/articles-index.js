@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "flmc-ekuitas-negatif-rp2-59-miliar-rugi-naik-8-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "FLMC: Ekuitas [Negatif] Rp2,59 Miliar, Rugi Naik 8 Kali Lipat",
+  "deck": "Ekuitas Falmaco Nonwoven (FLMC) berbalik negatif Rp2,59 miliar per Juni 2026 setelah rugi bersih melonjak jadi Rp23,27 miliar, hampir delapan kali lipat dibanding tahun lalu.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "laporan keuangan interim",
+   "ekuitas negatif",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906113748-64367-0/FinancialStatement-2026-II-FLMC.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hatm-rampungkan-pmthmetd-saham-beredar-naik-ke-9-32-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HATM Rampungkan [PMTHMETD], Saham Beredar Naik ke 9,32 Miliar",
+  "deck": "HATM menerbitkan 640 juta saham baru seharga Rp500 per saham, seluruhnya diserap PT Multi Sarana Nasional, menambah modal sekitar Rp320 miliar.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d42f5a6476_274ce0aa1e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
   "category": "Aksi Korporasi",
   "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
@@ -1019,6 +1051,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "grph-tanggapi-uma-bei-akui-tak-tahu-penyebab-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Tanggapi [UMA] BEI, Akui Tak Tahu Penyebab Lonjakan Saham",
+  "deck": "Direktur Utama GRPH Edwin Leonardo menyebut kenaikan harga saham di luar kebiasaan murni mekanisme pasar dan tidak berdampak pada operasional maupun keuangan perusahaan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRPH",
+   "UMA",
+   "Bursa Efek Indonesia",
+   "saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cebb16d93_7bf6ce026b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prda-beli-kembali-5-02-juta-saham-rp13-1-m-terpakai",
   "category": "Aksi Korporasi",
   "title": "PRDA Beli Kembali [5,02 Juta] Saham, Rp13,1 M Terpakai",
@@ -1067,6 +1115,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "lapd-direktur-bambang-rahardja-burhan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LAPD: Direktur Bambang Rahardja Burhan [Mundur]",
+  "deck": "Leyand International (LAPD) menerima surat pengunduran diri Direktur Bambang Rahardja Burhan. RUPSLB digelar 20 Oktober 2026 untuk meminta persetujuan pemegang saham.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95b1a9a486_6b8138d218.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tosk-jawab-bei-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "TOSK Jawab BEI: Tak Ada Informasi Material di Balik [Volatilitas]",
+  "deck": "TOSK menegaskan tidak mengetahui informasi material yang memicu pergerakan harga sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi efeknya.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOSK",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50a83b104b_aa7c1fdcdb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "csmi-jawab-bursa-kas-rp237-65-juta-utang-afiliasi-rp25-1-m",
   "category": "Aksi Korporasi",
   "title": "CSMI Jawab Bursa: Kas Rp237,65 Juta, Utang [Afiliasi] Rp25,1 M",
@@ -1080,6 +1160,22 @@ var ARTICLES = [
    "NWS Chicken"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2987bcc802_d2eec255eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asbi-bebastugaskan-direktur-keuangan-buntut-dugaan-tppu",
+  "category": "Aksi Korporasi",
+  "title": "ASBI [Bebastugaskan] Direktur Keuangan Buntut Dugaan TPPU",
+  "deck": "Dewan Komisaris ASBI membebastugaskan sementara Direktur Keuangan dan Layanan menyusul laporan polisi baru soal dugaan penggelapan dan pencucian uang.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "Direksi",
+   "TPPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e1ead3cd3b_4a1a0ee225.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1128,6 +1224,22 @@ var ARTICLES = [
    "pelayaran"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62496a454d_f53a05f5cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soho-rombak-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "SOHO [Rombak] Komite Nominasi dan Remunerasi",
+  "deck": "SOHO mengganti dua anggota Komite Nominasi dan Remunerasi menyusul perombakan direksi dan komisaris, efektif 4 September 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOHO",
+   "Soho Global Health",
+   "Komite Nominasi dan Remunerasi",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0989eb759b_a7a8d8d60d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6445,119 +6557,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_DIRE_E062_9199cfd3-ac94-4fd6-9e28-3836041df10e-20260829095433.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-koreksi-laporan-interim-laba-melonjak-73-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMMA Koreksi Laporan Interim, Laba [Melonjak] 73% Semester I 2026",
-  "deck": "SMMA menyampaikan koreksi laporan keuangan interim semester I 2026, dengan laba bersih naik 73 persen menjadi Rp2,3 triliun dari periode sama tahun lalu.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "laporan keuangan",
-   "asuransi",
-   "Sinar Mas Multiartha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829020021-64309-0/FinancialStatement-2026-II-SMMA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tays-rombak-direksi-dan-komisaris-usai-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "TAYS Rombak [Direksi] dan Komisaris Usai RUPSLB",
-  "deck": "RUPSLB TAYS pada 1 April 2026 menyetujui pergantian satu direktur dan satu komisaris independen, disahkan bulat oleh pemegang saham yang hadir.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAYS",
-   "Perubahan Pengurus",
-   "RUPSLB",
-   "Direksi Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e18c387dd1_5d1c0dea47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "antm-laba-semester-i-2026-melonjak-34-jadi-rp6-9-t-laba",
-  "category": "Aksi Korporasi",
-  "title": "ANTM: Laba Semester I 2026 Melonjak 34% jadi Rp6,9 T [Laba]",
-  "deck": "Pendapatan ANTM naik jadi Rp62,71 triliun dan laba bersih melonjak 34,4 persen menjadi Rp6,91 triliun pada semester I 2026, meski beban bunga dan persediaan ikut membengkak.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "Antam",
-   "laba bersih",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828233441-64266-0/FinancialStatement-2026-II-ANTM.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "area-bantah-ada-informasi-material-di-balik-gejolak-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "AREA Bantah Ada [Informasi Material] di Balik Gejolak Sahamnya",
-  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, PT Dunia Virtual Online Tbk (AREA) menyatakan tidak mengetahui adanya informasi material di baliknya.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AREA",
-   "Bursa Efek Indonesia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3621f3d13b_4c55431646.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-ubah-jadwal-rupslb-jadi-25-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "UANG Ubah Jadwal [RUPSLB] Jadi 25 September 2026",
-  "deck": "PT Pakuan Tbk menggeser jadwal rapat pemegang saham luar biasa ke 25 September 2026, dengan pemegang saham per 2 September 2026 yang berhak hadir.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "RUPSLB",
-   "PT Pakuan Tbk",
-   "jadwal rapat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/d8882d19cb_2e1ceac190.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus",
-  "category": "UMKM",
-  "title": "Pertamina Buka Pendaftaran [UMK Academy] 2026 sampai 31 Agustus",
-  "deck": "Pertamina kembali membuka program pembinaan UMK Academy 2026 dengan tambahan dua kelas baru, Go Green dan Go Aggregator. Pendaftaran online dibuka hingga 31 Agustus 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/pertamina-buka-pendaftaran-umk-academy-2026-sampai-31-agustus.jpg",
-  "imageV": "mtdcxesl",
-  "tags": [
-   "UMK Academy",
-   "Pertamina",
-   "UMKM",
-   "pendaftaran UMK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463293-umk-academy-2026-pertamina-kembali-dibuka-kesempatan-lokal-naik-kelas-dan-perluas-pasar-hingga-global"
- },
- {
-  "slug": "wika-ekuitas-anjlok-ke-rp130-m-rugi-rp1-55-t-di-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: Ekuitas [Anjlok] ke Rp130 M, Rugi Rp1,55 T di Semester I",
-  "deck": "Laporan keuangan interim WIKA per Juni 2026 menunjukkan ekuitas tergerus hingga tersisa Rp130 miliar dan rugi bersih Rp1,55 triliun, di tengah proses penundaan pembayaran sukuk yang sedang diajukan perseroan.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "laporan keuangan",
-   "sukuk",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828222418-64258-0/FinancialStatement-2026-II-WIKA.pdf",
   "sourceLabel": "IDX"
  }
 ];

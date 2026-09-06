@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "flmc-ekuitas-negatif-rp2-59-miliar-rugi-naik-8-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "FLMC: Ekuitas [Negatif] Rp2,59 Miliar, Rugi Naik 8 Kali Lipat",
+  "deck": "Ekuitas Falmaco Nonwoven (FLMC) berbalik negatif Rp2,59 miliar per Juni 2026 setelah rugi bersih melonjak jadi Rp23,27 miliar, hampir delapan kali lipat dibanding tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T11:25:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906113748-64367-0/FinancialStatement-2026-II-FLMC.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "laporan keuangan interim",
+   "ekuitas negatif",
+   "going concern"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menyampaikan koreksi laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026, diaudit oleh KAP Heru Saleh Marzuki & Rekan dengan opini wajar tanpa modifikasian tertanggal 30 Juli 2026. Pendapatan bersih perusahaan naik tipis menjadi Rp10,08 miliar dari Rp9,13 miliar pada semester I 2025, namun beban pokok pendapatan melonjak dari Rp12,01 miliar menjadi Rp21,53 miliar. Akibatnya perusahaan mencatat rugi kotor Rp11,46 miliar, jauh lebih dalam dari rugi kotor Rp2,88 miliar setahun sebelumnya, dan rugi bersih membengkak dari Rp2,99 miliar menjadi Rp23,27 miliar. Rugi bersih per saham dasar naik dari Rp3,83 menjadi Rp29,79 per lembar.",
+   "Dari sisi neraca, total aset FLMC turun dari Rp55,13 miliar pada akhir 2025 menjadi Rp37,14 miliar per 30 Juni 2026, sementara total liabilitas justru naik dari Rp34,47 miliar menjadi Rp39,73 miliar. Kombinasi ini membuat total ekuitas perusahaan berbalik dari posisi positif Rp20,66 miliar pada akhir 2025 menjadi defisiensi modal atau ekuitas negatif Rp2,59 miliar per Juni 2026. Kas dan bank tercatat naik dari Rp82,92 juta menjadi Rp324,92 juta, sementara jumlah karyawan tetap bertambah dari 44 menjadi 52 orang.",
+   "Dalam catatan atas laporan keuangan, manajemen mengungkapkan rencana menjual tanah dan bangunan bersertifikat SHGB No. 10/Cimareme seluas 245 meter persegi dan No. 5/Cipeundeuy seluas 18.045 meter persegi untuk melunasi utang kepada Handoyo Guntoro, serta rencana menyewa lahan di Boyolali guna menjaga keberlangsungan usaha. Perseroan juga mencatat perubahan susunan Dewan Komisaris berdasarkan RUPST 11 Juni 2026, dengan jabatan Komisaris Independen beralih dari Sari Rahmawati kepada Donny Hartanto, yang otomatis menjadi Ketua Komite Audit menggantikan posisi sebelumnya."
+  ],
+  "fotoAdegan": "Workers inspecting large rolls of white nonwoven fabric on a textile factory production line, industrial machinery in the background",
+  "takeaway": "Laporan ini condong negatif bagi FLMC, karena ekuitas perusahaan berbalik menjadi minus Rp2,59 miliar dan rugi bersih membengkak hampir delapan kali lipat dalam setahun. Ekuitas adalah selisih antara harta perusahaan dan seluruh utangnya, jadi kalau angkanya sudah negatif berarti utang FLMC sudah melebihi total asetnya, kondisi yang lazim disebut defisiensi modal dan biasa memicu kekhawatiran soal kemampuan perusahaan bertahan (going concern). Rugi per saham yang naik dari Rp3,83 menjadi Rp29,79 juga berarti beban kerugian yang ditanggung tiap lembar saham pemegang saham semakin besar. Yang perlu dipantau selanjutnya adalah realisasi rencana perseroan menjual dua bidang tanah dan bangunannya di Cimareme dan Cipeundeuy untuk melunasi utang kepada Handoyo Guntoro, serta rencana sewa lahan pengganti di Boyolali yang disebut manajemen sebagai upaya menjaga keberlangsungan usaha.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hatm-rampungkan-pmthmetd-saham-beredar-naik-ke-9-32-miliar",
+  "category": "Aksi Korporasi",
+  "title": "HATM Rampungkan [PMTHMETD], Saham Beredar Naik ke 9,32 Miliar",
+  "deck": "HATM menerbitkan 640 juta saham baru seharga Rp500 per saham, seluruhnya diserap PT Multi Sarana Nasional, menambah modal sekitar Rp320 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T10:44:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d42f5a6476_274ce0aa1e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "PMTHMETD",
+   "penambahan modal",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) melaporkan telah merampungkan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) pada 4 September 2026, berdasarkan persetujuan Rapat Umum Pemegang Saham Luar Biasa tanggal 21 Agustus 2026 dan restu pencatatan dari Bursa Efek Indonesia tertanggal 2 September 2026. Perseroan menerbitkan 640.000.000 saham baru dengan nilai nominal Rp50 per saham pada harga pelaksanaan Rp500 per saham, sehingga total dana yang masuk ke kas perusahaan sekitar Rp320 miliar. Seluruh saham baru ini diserap oleh satu pihak, yaitu PT Multi Sarana Nasional, yang sebelumnya sudah menjadi pemegang saham HATM.",
+   "Dengan penerbitan ini, jumlah saham ditempatkan dan disetor penuh HATM naik dari 8.680.000.000 menjadi 9.320.000.000 lembar. Kepemilikan PT Multi Sarana Nasional melonjak dari 1.745.409.861 saham (20,11 persen) menjadi 2.385.409.861 saham (25,59 persen). Sebaliknya, porsi PT Habco Primatama, pemegang saham pengendali, turun dari 66,34 persen menjadi 61,79 persen meski jumlah lembarnya tetap 5.758.706.000 saham. Porsi pemegang saham lain seperti Benny, Cosmas Kiardi, Hasanul Arifin Hasibuan, dan publik (Masyarakat) juga ikut terdilusi, dengan Masyarakat turun dari 13,29 persen menjadi 12,38 persen. Perseroan menyatakan tidak ada perubahan pemegang saham pengendali, namun dilusi kepemilikan bagi pemegang saham yang tidak ikut serta mencapai sebanyak-banyaknya 6,87 persen.",
+   "Perseroan menyebutkan seluruh dana hasil PMTHMETD, setelah dikurangi biaya-biaya terkait, akan digunakan untuk belanja modal berupa penambahan armada kapal, atau untuk pembayaran pinjaman bank. HATM juga menyatakan bahwa aset lancar berupa kas dan setara kas, total aset, serta total ekuitas perusahaan meningkat sebagai dampak dari transaksi ini."
+  ],
+  "fotoAdegan": "Cargo ship being loaded at a river port dock in Sumatra, workers securing ropes, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi HATM: dana segar sekitar Rp320 miliar dari penambahan modal ini nyata, tetapi kepemilikan pemegang saham lama ikut tergerus hingga 6,87 persen karena seluruh saham baru diserap satu pihak, PT Multi Sarana Nasional. Yang tersentuh adalah ekuitas, yakni nilai kekayaan bersih milik pemegang saham, yang naik karena ada setoran tunai baru masuk ke kas perusahaan, sekaligus jumlah saham beredar yang membengkak sehingga laba perusahaan ke depan berpotensi harus dibagi ke lebih banyak lembar saham per pemegang. Sisi baiknya, dana ini disebut akan dipakai untuk hal produktif, yaitu menambah armada kapal atau melunasi pinjaman bank, dua hal yang bisa memperkuat bisnis inti angkutan laut HATM. Pemegang saham pengendali, PT Habco Primatama, tidak berganti meski porsinya turun dari 66,34 persen menjadi 61,79 persen. Yang perlu dipantau selanjutnya adalah laporan realisasi penggunaan dana hasil PMTHMETD ini, yang biasanya wajib disampaikan Habco secara berkala ke otoritas bursa, untuk memastikan dana benar-benar terpakai sesuai rencana pembelian kapal atau pelunasan utang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
   "category": "Aksi Korporasi",
   "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
@@ -1642,6 +1694,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "grph-tanggapi-uma-bei-akui-tak-tahu-penyebab-lonjakan-saham",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Tanggapi [UMA] BEI, Akui Tak Tahu Penyebab Lonjakan Saham",
+  "deck": "Direktur Utama GRPH Edwin Leonardo menyebut kenaikan harga saham di luar kebiasaan murni mekanisme pasar dan tidak berdampak pada operasional maupun keuangan perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:10:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cebb16d93_7bf6ce026b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPH",
+  "tags": [
+   "GRPH",
+   "UMA",
+   "Bursa Efek Indonesia",
+   "saham"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia (BEI) menerbitkan pengumuman Unusual Market Activity (UMA) untuk saham PT Griptha Putra Persada Tbk (GRPH) dengan nomor Peng-UMA-00277/BEI.WAS/09-2026 tertanggal 3 September 2026, menyusul kenaikan harga saham perseroan yang dinilai di luar kebiasaan. Menanggapi hal itu, GRPH mengirim surat resmi bernomor 039/GPP/DIR/SPb/IX/2026 tertanggal 4 September 2026 yang ditandatangani Direktur Utama Edwin Leonardo.",
+   "Dalam surat tersebut, manajemen GRPH menyatakan bahwa perseroan hanya berfokus pada fundamental operasional perusahaan agar bisa menghasilkan keuntungan bagi pemegang saham. Terkait kenaikan harga saham yang dipersoalkan BEI, perusahaan menegaskan bahwa pergerakan itu murni mekanisme pasar dan pihaknya tidak mengetahui penyebabnya.",
+   "GRPH juga menyampaikan dalam laporan keterbukaan informasi resminya bahwa pengumuman UMA tersebut tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perusahaan yang bergerak di bidang hotel berbintang, restoran, dan MICE ini berkantor pusat di Kudus, Jawa Tengah."
+  ],
+  "fotoAdegan": "Facade of a modest star-rated hotel with tropical plants at the entrance in a small Central Java town, afternoon light",
+  "takeaway": "Laporan ini netral bagi fundamental Griptha Putra Persada, sebab isinya hanya tanggapan formal atas surat UMA BEI dan tidak membawa angka keuangan baru. Yang tersentuh bukan pos kinerja seperti ekuitas, arus kas, atau laba per saham, melainkan soal kepercayaan pasar, karena UMA adalah tanda peringatan BEI bahwa harga saham bergerak di luar kebiasaan tanpa penjelasan fundamental yang jelas, dan perseroan sendiri mengaku tidak tahu penyebabnya. Investor perlu mencermati apakah pola transaksi tidak wajar ini masih berlanjut pada hari-hari perdagangan berikutnya, karena bila berlanjut, BEI berwenang mengambil langkah lanjutan seperti penghentian sementara perdagangan saham GRPH.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "prda-beli-kembali-5-02-juta-saham-rp13-1-m-terpakai",
   "category": "Aksi Korporasi",
   "title": "PRDA Beli Kembali [5,02 Juta] Saham, Rp13,1 M Terpakai",
@@ -1720,6 +1798,58 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "lapd-direktur-bambang-rahardja-burhan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "LAPD: Direktur Bambang Rahardja Burhan [Mundur]",
+  "deck": "Leyand International (LAPD) menerima surat pengunduran diri Direktur Bambang Rahardja Burhan. RUPSLB digelar 20 Oktober 2026 untuk meminta persetujuan pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:39:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95b1a9a486_6b8138d218.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "Leyand International",
+   "direksi",
+   "RUPSLB"
+  ],
+  "body": [
+   "Leyand International Tbk (LAPD) menyampaikan keterbukaan informasi bahwa perseroan telah menerima surat pengunduran diri dari Bambang Rahardja Burhan yang menjabat sebagai Direktur. Peristiwa ini tercatat terjadi pada 3 September 2026, dan laporan resminya disampaikan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada 4 September 2026 pukul 16.39 WIB, ditandatangani oleh Direktur Utama Jamal Abdul Nasir Bamadhaj.",
+   "Sehubungan dengan pengunduran diri tersebut, perseroan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 20 Oktober 2026. Salah satu agenda RUPSLB adalah meminta persetujuan pemegang saham atas pengunduran diri Bambang Rahardja Burhan sebagai Direktur, berdampingan dengan agenda lain yang akan ditentukan sesuai kebutuhan perseroan dan ketentuan peraturan yang berlaku.",
+   "Dalam keterbukaan informasi itu, perseroan menyatakan bahwa pengunduran diri ini pada saat ini tidak menimbulkan dampak material terhadap kegiatan operasional, kondisi hukum, kondisi keuangan, maupun kelangsungan usaha Leyand International."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a long table and leather chairs, glass windows overlooking a Jakarta office skyline, soft morning light",
+  "takeaway": "Pengunduran diri satu direktur ini tergolong netral bagi Leyand International, sebab perseroan sendiri menegaskan tidak ada dampak material terhadap operasional maupun keuangan, dan yang berubah hanya satu kursi dari jajaran direksi, bukan seluruh kepemimpinan. Perubahan ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, beban bunga, atau laba per saham, yang berubah adalah susunan pengambil keputusan di direksi, dan pelaku pasar tetap memperhatikan pergantian pengurus karena bisa memengaruhi kesinambungan strategi perusahaan meski efeknya tidak langsung terbaca di laporan keuangan. Yang perlu dipantau berikutnya adalah RUPSLB pada 20 Oktober 2026, saat pemegang saham diminta memberi persetujuan resmi atas pengunduran diri Bambang Rahardja Burhan sekaligus agenda lain yang mungkin diumumkan menjelang rapat tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tosk-jawab-bei-tak-ada-informasi-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "TOSK Jawab BEI: Tak Ada Informasi Material di Balik [Volatilitas]",
+  "deck": "TOSK menegaskan tidak mengetahui informasi material yang memicu pergerakan harga sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi efeknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:31:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50a83b104b_aa7c1fdcdb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOSK",
+  "tags": [
+   "TOSK",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Topindo Solusi Komunika Tbk. (TOSK) menjawab surat Bursa Efek Indonesia nomor S-11327/BEI.PP3/09-2026 tertanggal 3 September 2026 yang meminta penjelasan atas volatilitas transaksi efek perusahaan. Jawaban disampaikan melalui surat nomor 11.006/TOSK-SB/IX/2026 tertanggal 4 September 2026, ditandatangani Chief Financial Officer Mutsabbit Firas.",
+   "Dalam surat itu, TOSK menjawab tidak untuk seluruh enam poin pertanyaan bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik sesuai POJK Nomor 31/POJK.04/2015, maupun informasi lain yang dapat memengaruhi harga efek sesuai Peraturan BEI Nomor I-E. Berdasarkan pemantauan Daftar Pemegang Saham (DPS) dan laporan kepemilikan yang diterima, perseroan juga menyatakan tidak ada aktivitas atau perubahan kepemilikan saham tertentu di luar mekanisme pelaporan POJK Nomor 4 Tahun 2024.",
+   "TOSK menambahkan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian material lain yang belum diumumkan. Pemegang saham pengendali dan/atau pemegang saham utama, setelah dikonfirmasi oleh Corporate Secretary, juga menyatakan tidak memiliki rencana tertentu terkait kepemilikan sahamnya di perseroan sampai tanggal surat tersebut. Perseroan menutup surat dengan komitmen akan segera menyampaikan keterbukaan informasi jika di kemudian hari muncul fakta material yang wajib diungkapkan."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses inspecting a telecommunications tower against a partly cloudy sky in a small Indonesian town",
+  "takeaway": "Jawaban ini condong netral bagi TOSK karena isinya adalah penegasan rutin bahwa tidak ada fakta baru, bukan pengungkapan informasi yang mengubah gambaran fundamental perusahaan. Surat semacam ini terbit karena bursa memantau pergerakan harga saham yang dianggap tidak wajar dalam waktu singkat, lalu meminta emiten memastikan tidak ada bocoran informasi yang mendorong investor bertransaksi berdasarkan hal yang belum diumumkan ke publik; di sini TOSK menyatakan struktur kepemilikan dan hak suara pemegang saham pengendali maupun utama belum bergeser, dan tidak ada rencana aksi korporasi yang tengah disiapkan. Yang perlu dipantau berikutnya adalah apakah pergerakan harga saham TOSK mereda setelah penjelasan ini terbit pada 4 September 2026, serta apakah benar tidak muncul aksi korporasi dalam tiga bulan ke depan, hingga sekitar awal Desember 2026, sebagaimana dijanjikan perseroan kepada bursa.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "csmi-jawab-bursa-kas-rp237-65-juta-utang-afiliasi-rp25-1-m",
   "category": "Aksi Korporasi",
   "title": "CSMI Jawab Bursa: Kas Rp237,65 Juta, Utang [Afiliasi] Rp25,1 M",
@@ -1744,6 +1874,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Cooks frying chicken pieces behind a fast food counter, stainless steel kitchen equipment, warm overhead lighting, Indonesia",
   "takeaway": "Laporan ini condong negatif bagi CSMI, karena bursa sendiri mempertanyakan kelangsungan operasional saat kas perusahaan cuma Rp237,65 juta, sementara utang ke perusahaan afiliasi saja sudah Rp25,1 miliar, jauh melampaui kas yang tersedia. Pos yang tersentuh di sini adalah arus kas dan struktur utang, kas adalah uang tunai yang bisa langsung dipakai untuk kebutuhan sehari-hari, dan kalau jumlahnya sekecil ini dibanding kewajiban yang harus dibayar, perusahaan jadi bergantung pada penagihan piutang harian atau pinjaman baru supaya tetap bisa beroperasi. Rugi usaha dan rugi bersih yang masih dibukukan per Juni 2026 juga berarti laba per saham, yakni bagian keuntungan yang secara teori jadi hak tiap lembar saham, masih negatif alias belum ada yang bisa dinikmati pemegang saham. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat apakah posisi kas membaik atau utang ke PT Cipta Swadaya Murni justru bertambah, serta kelanjutan pendaftaran merek NWS Chicken yang sampai sekarang belum tuntas karena benturan nama dengan merek lain.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "asbi-bebastugaskan-direktur-keuangan-buntut-dugaan-tppu",
+  "category": "Aksi Korporasi",
+  "title": "ASBI [Bebastugaskan] Direktur Keuangan Buntut Dugaan TPPU",
+  "deck": "Dewan Komisaris ASBI membebastugaskan sementara Direktur Keuangan dan Layanan menyusul laporan polisi baru soal dugaan penggelapan dan pencucian uang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:08:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e1ead3cd3b_4a1a0ee225.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "Asuransi Bintang",
+   "Direksi",
+   "TPPU"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) resmi membebastugaskan sementara Jenry Cardo Manurung dari jabatan Direktur Keuangan dan Layanan, terhitung mulai 8 September 2026. Keputusan ini tertuang dalam Surat Keputusan Dewan Komisaris No. 024/S.Kep/P.Kom-Rw/VIII/2026 tertanggal 26 Agustus 2026, dengan merujuk Pasal 106 ayat (1) sampai (4) Undang-Undang No. 40 Tahun 2007 tentang Perseroan Terbatas, pasal yang memang mengatur wewenang komisaris memberhentikan sementara anggota direksi.",
+   "Pembebastugasan ini berkaitan dengan dua laporan polisi. Yang pertama adalah dugaan penggelapan uang dan investasi yang sebelumnya sudah diungkap lewat laporan keterbukaan informasi 11 Agustus 2026, dan telah dilaporkan ke Bareskrim Polri dengan nomor LP/B/386/VIII/2026/SPKT/BARESKRIM POLRI tertanggal 21 Agustus 2026. Perkembangan barunya, perusahaan juga melaporkan dugaan penggelapan dalam jabatan sekaligus tindak pidana pencucian uang ke Polres Metro Jakarta Selatan dengan nomor LP/3454/VIII/2026/SPKT/POLRES METRO JAKSEL/POLDA METRO JAYA tertanggal 31 Agustus 2026.",
+   "Selama masa pembebastugasan berlangsung, Jenry Cardo Manurung dilarang melakukan tindakan pengurusan perusahaan serta dilarang menggunakan fasilitas maupun menjalankan kewenangan yang melekat pada jabatannya sebagai Direktur Keuangan dan Layanan. Surat keterbukaan informasi ini ditandatangani oleh Presiden Direktur Hastanto Sri Margi Widodo."
+  ],
+  "fotoAdegan": "An empty leather chair at the head of a corporate boardroom table, blinds casting soft shadows in the afternoon",
+  "takeaway": "Laporan ini condong negatif bagi ASBI, karena skandal yang semula tampak sebatas penggelapan gaji di divisi SDM kini merembet ke tuduhan pencucian uang yang menyeret langsung direktur keuangan perusahaan, level yang jauh lebih tinggi dan lebih berat konsekuensi hukumnya. Pos yang tersentuh adalah kas dan dana investasi perusahaan, sebab dua laporan polisi ini sama-sama menyebut dugaan penggelapan uang dan investasi, dan kalau terbukti benar, itu berarti ada aset perusahaan yang sempat disalahgunakan sebelum sempat diketahui pemegang saham. Biaya hukum dan risiko reputasi yang menyertai proses pidana ini juga berpotensi membebani biaya operasional ke depan. Yang perlu dipantau, sesuai UU Perseroan Terbatas, perusahaan wajib menggelar Rapat Umum Pemegang Saham dalam waktu 90 hari sejak tanggal keputusan komisaris (26 Agustus 2026) untuk memutuskan apakah pembebastugasan ini menjadi pemberhentian tetap atau direktur tersebut dipulihkan jabatannya, selain tentu saja perkembangan penyidikan di Bareskrim Polri dan Polres Metro Jakarta Selatan.",
   "sentimen": "negatif"
  },
  {
@@ -1824,6 +1980,32 @@ var ARTICLES = [
   "fotoAdegan": "A tugboat pushing a heavily loaded coal barge along a wide brown river in South Kalimantan, overcast sky",
   "takeaway": "Materi ini condong negatif bagi HAIS: laba bersih semester I 2026 anjlok 44,8 persen secara tahunan dan kas perusahaan menyusut signifikan, meski ada perbaikan performa dari kuartal ke kuartal. Pos yang tersentuh adalah arus kas dan struktur utang, kas turun dari Rp122,85 miliar menjadi Rp84,32 miliar dalam enam bulan sementara pinjaman berbunga justru naik jadi Rp551,41 miliar, kombinasi yang membuat pelaku pasar mencermati kemampuan perusahaan membiayai operasional tanpa terlalu bergantung pada utang baru. Sisi yang menahan penilaian agar tidak sepenuhnya negatif adalah margin EBITDA yang justru sedikit membaik ke 25,9 persen, tanda efisiensi operasional masih terjaga di tengah tekanan pendapatan. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada Rabu, 9 September 2026 pukul 09.30 WIB, saat manajemen dijadwalkan menjelaskan langsung penyebab penurunan kinerja ini, serta kelanjutan proyek pelabuhan apung yang ditargetkan mulai beroperasi pada kuartal I 2027.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "soho-rombak-komite-nominasi-dan-remunerasi",
+  "category": "Aksi Korporasi",
+  "title": "SOHO [Rombak] Komite Nominasi dan Remunerasi",
+  "deck": "SOHO mengganti dua anggota Komite Nominasi dan Remunerasi menyusul perombakan direksi dan komisaris, efektif 4 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:35:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0989eb759b_a7a8d8d60d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOHO",
+  "tags": [
+   "SOHO",
+   "Soho Global Health",
+   "Komite Nominasi dan Remunerasi",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Soho Global Health Tbk (SOHO) mengumumkan perubahan susunan Komite Nominasi dan Remunerasi melalui Surat Keputusan Dewan Komisaris Nomor 569/SK-Dekom/SGH/IX/2026 tertanggal 4 September 2026. Dewan Komisaris memberhentikan dengan hormat Harry Salam dari jabatan Ketua Komite dan Eng Liang Tan dari jabatan Anggota Komite, keduanya efektif 4 September 2026. Sebagai pengganti, Steven Hairul Tjhoea ditunjuk sebagai Ketua Komite dan Ery Yunasri sebagai Anggota Komite, melanjutkan sisa masa jabatan hingga 18 Juni 2030.",
+   "Perubahan ini merupakan tindak lanjut dari restrukturisasi jajaran direksi dan komisaris SOHO yang berlaku efektif sejak 31 Agustus 2026. Dalam restrukturisasi itu, Harry Salam yang sebelumnya menjabat Komisaris Independen sekaligus Ketua Komite Nominasi dan Remunerasi, dipindahkan menjadi Presiden Direktur Perseroan. Sementara itu, Steven Hairul Tjhoea diangkat sebagai Komisaris Independen baru dan Ery Yunasri sebagai Komisaris baru. Perseroan menyebut penyesuaian komite ini dilakukan untuk memenuhi ketentuan POJK Nomor 34/POJK.04/2014 tentang Komite Nominasi dan Remunerasi Emiten atau Perusahaan Publik.",
+   "Dengan perubahan ini, susunan Komite Nominasi dan Remunerasi SOHO kini terdiri dari Steven Hairul Tjhoea sebagai Ketua, Ery Yunasri sebagai Anggota, dan Rumiris F. Simaremare yang tetap menjabat Anggota Komite mewakili unsur manajerial di bidang sumber daya manusia sejak 19 Juni 2025. Surat keputusan ini ditandatangani oleh empat anggota Dewan Komisaris, yaitu Ignasius Jonan selaku Presiden Komisaris dan Komisaris Independen, Steven Hairul Tjhoea, Andy Nugroho Purwohardono, dan Ery Yunasri, keduanya sebagai Komisaris."
+  ],
+  "fotoAdegan": "Exterior of a modern pharmaceutical distribution warehouse with delivery trucks parked at loading docks, daytime",
+  "takeaway": "Perubahan ini kami nilai netral bagi fundamental SOHO, karena sifatnya murni penyesuaian struktur pengawasan menyusul rotasi direksi dan komisaris yang sudah diumumkan sebelumnya, bukan sinyal masalah kinerja atau sengketa internal. Komite Nominasi dan Remunerasi tidak menyentuh pos keuangan seperti ekuitas atau arus kas, tugasnya mengawasi proses pengangkatan dan penetapan gaji direksi serta komisaris, sehingga pelaku pasar biasanya membacanya sebagai indikator tata kelola perusahaan, bukan angka bisnis. Yang perlu dicermati, Ketua komite yang baru, Steven Hairul Tjhoea, baru menjabat Komisaris Independen sejak 31 Agustus 2026, sehingga efektivitas pengawasannya baru bisa dinilai setelah komite ini berjalan beberapa bulan ke depan. Masa jabatan seluruh anggota komite baru ini berlaku sampai 18 Juni 2030 mengikuti sisa periode pejabat yang digantikan, sehingga tidak ada tenggat atau agenda RUPSLB baru yang muncul dari perubahan ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "inkp-peroleh-rating-iraa-stabil-untuk-obligasi-rp3-5-triliun",

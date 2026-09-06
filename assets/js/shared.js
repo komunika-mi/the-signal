@@ -367,3 +367,20 @@
   };
 
 })();
+
+/* ---------------------------------------------------------------------------
+   Widget AI Sales Pet (AMM). Disuntik dari sini, bukan ditempel di tiap berkas
+   HTML, karena situs ini punya lebih dari 1.700 halaman dan semuanya memuat
+   shared.js. Satu tempat, satu kali, berlaku untuk semuanya.
+
+   Loader mencari tag-nya lewat querySelector('script[data-tenant]') kalau
+   document.currentScript kosong, jadi penyuntikan seperti ini tetap terbaca.
+   --------------------------------------------------------------------------- */
+(function () {
+  if (document.querySelector('script[data-tenant="the-signal"]')) return;
+  var s = document.createElement('script');
+  s.src = 'https://amm-sales-pet.vercel.app/v1/loader.js';
+  s.setAttribute('data-tenant', 'the-signal');
+  s.async = true;
+  (document.body || document.documentElement).appendChild(s);
+})();

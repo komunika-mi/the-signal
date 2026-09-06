@@ -174,6 +174,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465073-luhut-klaim-govtech-tekan-bansos-salah-sasaran-dari-776-jadi-di-bawah-10-tutup-kebocoran-sana-sini"
  },
  {
+  "slug": "mtdl-pacu-agentic-ai-data-ai-tumbuh-52-yoy-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "MTDL Pacu [Agentic AI], Data & AI Tumbuh 52% YoY di 1H26",
+  "deck": "Metrodata percepat adopsi agentic AI lewat Knowgen.AI dan Megarock, sembari bisnis Data & AI tumbuh 52 persen dan Hybrid AI 171 persen pada semester I 2026.",
+  "date": "5 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTDL",
+   "Agentic AI",
+   "Data & AI",
+   "Metrodata Electronics"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98c044a5b1_2a63884968.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi",
   "category": "Energi",
   "title": "Pertamina Tindak 31 SPBU di Sumbar soal BBM [Subsidi]",
@@ -355,6 +371,22 @@ var ARTICLES = [
    "Data Center"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b62ab88a0_feca62fccf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ricy-tak-bagi-dividen-komisaris-berkurang-jadi-dua-orang",
+  "category": "Aksi Korporasi",
+  "title": "RICY Tak Bagi Dividen, [Komisaris] Berkurang Jadi Dua Orang",
+  "deck": "RUPST dan RUPSLB RICY sepakat tidak bagi dividen tunai 2025, terima pengunduran diri satu komisaris, dan tetapkan remunerasi direksi-komisaris Rp2,87 miliar hingga akhir 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RICY",
+   "RUPST",
+   "dividen",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65a0f9f9e5_8a79e93c48.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -585,6 +617,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "edge-lanjutkan-suspensi-saham-usai-crossing-go-private",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Lanjutkan [Suspensi] Saham usai Crossing Go Private",
+  "deck": "BEI melanjutkan penghentian sementara perdagangan saham Indointernet (EDGE) di pasar negosiasi setelah transaksi crossing rampung, bagian dari proses go private.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "suspensi saham",
+   "go private",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b286eba85_c1a98b57aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "uvcr-trimegah-sumber-mas-lepas-300-juta-saham-hak-suara-ke-16-18",
   "category": "Aksi Korporasi",
   "title": "UVCR: Trimegah Sumber Mas [lepas] 300 juta saham, hak suara ke 16,18%",
@@ -664,6 +712,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464909-rayakan-harpelnas-2026-bpjs-ketenagakerjaan-perkuat-layanan-perlindungan-dan-pemberdayaan-pekerja-di-kota-pekalongan"
+ },
+ {
+  "slug": "enak-rombak-susunan-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "ENAK Rombak Susunan [Direksi] dan Komisaris",
+  "deck": "RUPSLB Champ Resto Indonesia menyetujui pengunduran tiga pengurus lama, pengangkatan komisaris independen baru, dan perpindahan Sjariful Haq dari komisaris ke direktur.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENAK",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris Independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/165be55b9e_a2c7d5c25b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dild-komisaris-lepas-97-sahamnya-rp3-8-miliar",
@@ -843,6 +907,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dmas-cetak-prapenjualan-rp1-15-triliun-data-center-jadi-andalan",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Cetak Prapenjualan Rp1,15 Triliun, [Data Center] Jadi Andalan",
+  "deck": "Puradelta Lestari membukukan prapenjualan Rp1,15 triliun pada semester I 2026, atau 55 persen dari target setahun, ditopang permintaan lahan dari sektor data center.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMAS",
+   "Puradelta Lestari",
+   "data center",
+   "kawasan industri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11544c4f77_4a77e18fe6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
   "category": "Aksi Korporasi",
   "title": "BATR Jelaskan ke Bursa [Arus Kas] Operasi Minus Rp9,9 M",
@@ -891,6 +971,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "zata-tak-bagi-dividen-laba-2025-dipakai-tutup-defisit",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Tak Bagi [Dividen], Laba 2025 Dipakai Tutup Defisit",
+  "deck": "RUPST ZATA memutuskan seluruh laba bersih Rp2,04 miliar tahun 2025 dipakai menutup defisit, bukan dibagi dividen. Komisaris independen juga berganti.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZATA",
+   "RUPST",
+   "dividen",
+   "komisaris independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49c3650bfe_e27d3a2443.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bank-tanggapi-permintaan-bursa-soal-volatilitas-transaksi",
   "category": "Aksi Korporasi",
   "title": "BANK tanggapi permintaan bursa soal [volatilitas] transaksi",
@@ -936,6 +1032,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cace431214_81571856cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rlco-ganti-kepala-audit-internal-yusnita-mundur",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Ganti Kepala Audit Internal, Yusnita [Mundur]",
+  "deck": "RLCO menunjuk Teruna Eka Farma sebagai Kepala Unit Audit Internal baru menggantikan Yusnita Kristanti yang mengundurkan diri, efektif 1 Agustus 2026.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "audit internal",
+   "tata kelola perusahaan",
+   "pergantian pejabat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98d0f9d39e_9386312249.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1681,6 +1793,22 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "sourceUrl": "https://www.gaikindo.or.id/pameran-otomotif-giias-bandung-2026-jadwal-lokasi-harga-dan-cara-beli-tiket/",
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "fwct-saham-direksi-turun-hak-suara-susut-ke-80",
+  "category": "Aksi Korporasi",
+  "title": "FWCT: Saham Direksi Turun, [Hak Suara] Susut ke 80%",
+  "deck": "Direksi FWCT Indra Satriawan melaporkan sahamnya turun dari 88 jadi 85 lembar, sementara hak suaranya anjlok dari 100% menjadi 80% lewat eksekusi saham yang dijaminkan.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FWCT",
+   "kepemilikan saham",
+   "direksi",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8642-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
@@ -6430,135 +6558,6 @@ var ARTICLES = [
    "ekuitas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828222418-64258-0/FinancialStatement-2026-II-WIKA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "refi-janji-rampungkan-laporan-keuangan-paling-lambat-30-september",
-  "category": "Aksi Korporasi",
-  "title": "REFI Janji Rampungkan Laporan Keuangan [Paling Lambat] 30 September",
-  "deck": "REFI menjawab peringatan tertulis pertama BEI soal telat laporan keuangan tengah tahun 2026, menyebut laporannya masih diaudit KAP dan berjanji terbit paling lambat 30 September 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "REFI",
-   "Laporan Keuangan",
-   "Bursa Efek Indonesia",
-   "Sanksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/5178a7b590_a2121d3e15.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-rugi-bersih-melonjak-ke-rp37-8-miliar-ekuitas-jadi-negatif",
-  "category": "Aksi Korporasi",
-  "title": "CASH rugi bersih [melonjak] ke Rp37,8 miliar, ekuitas jadi negatif",
-  "deck": "Laporan keuangan interim semester I 2026 menunjukkan rugi bersih Cashlez Worldwide Indonesia melonjak ke Rp37,8 miliar dan ekuitas perusahaan berbalik menjadi negatif Rp37,6 miliar.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "penyedia jasa pembayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828214059-64235-0/FinancialStatement-2026-II-CASH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m",
-  "category": "Industri",
-  "title": "PART Rambah Bisnis Non-[Otomotif], Incar Laba Rp44,16 M",
-  "deck": "Cipta Perdana Lancar (PART) memproyeksikan laba bersih 2026 naik 46,18 persen menjadi Rp44,16 miliar seiring perluasan bisnis fabrikasi mesin di luar otomotif.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/part-rambah-bisnis-non-otomotif-incar-laba-rp44-16-m.jpg",
-  "imageV": "mtdcxfcj",
-  "tags": [
-   "PART",
-   "otomotif",
-   "diversifikasi bisnis",
-   "laba bersih"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463277-part-genjot-bisnis-non-otomotif-laba-bersih-2026-diproyeksi-tembus-rp4416-miliar"
- },
- {
-  "slug": "kota-kas-anjlok-89-meski-defisit-menyusut-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "KOTA: kas [anjlok] 89% meski defisit menyusut semester I",
-  "deck": "Laporan keuangan interim auditan KOTA per Juni 2026 menunjukkan kas merosot tajam sementara akumulasi rugi menyusut sekitar Rp16 miliar.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "laporan keuangan",
-   "properti",
-   "hotel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828204051-64275-0/FinancialStatement-2026-II-KOTA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpum-rama-indonesia-jadwalkan-ulang-tender-wajib-saham",
-  "category": "Aksi Korporasi",
-  "title": "DPUM: Rama Indonesia Jadwalkan Ulang [Tender Wajib] Saham",
-  "deck": "Rama Indonesia menjadwalkan ulang penawaran tender wajib atas saham DPUM menjadi 24 September-23 Oktober 2026, menyusul penundaan akibat kebakaran pabrik pada Juni 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DPUM",
-   "tender offer wajib",
-   "Rama Indonesia",
-   "pengambilalihan perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3c917f1e1a_015b8744c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rmko-jelaskan-lonjakan-piutang-dan-pendapatan-ke-afiliasi-rmuk",
-  "category": "Aksi Korporasi",
-  "title": "RMKO Jelaskan Lonjakan [Piutang] dan Pendapatan ke Afiliasi RMUK",
-  "deck": "BEI meminta RMKO menjelaskan lonjakan piutang, pendapatan diterima di muka, dan sejumlah pos neraca lain pada laporan keuangan tengah tahun 2026.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RMKO",
-   "piutang",
-   "pendapatan diterima di muka",
-   "pihak berelasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/14d868b832_4a6b14e1f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bach-lakukan-pemecahan-saham-1-2000-arus-kas-operasi-minus",
-  "category": "Aksi Korporasi",
-  "title": "BACH Lakukan [Pemecahan Saham] 1:2000, Arus Kas Operasi Minus",
-  "deck": "Bach Multi Global (BACH) mencatat laba bersih naik 25 persen di semester I 2026, tetapi arus kas dari operasi berbalik minus Rp84,16 miliar seiring lonjakan utang bank dan piutang usaha.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BACH",
-   "laporan keuangan",
-   "pemecahan saham",
-   "utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260828202303-64238-0/FinancialStatement-2026-II-BACH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iata-rupsu-rupo-setujui-waiver-klausul-pemegang-saham-utama",
-  "category": "Aksi Korporasi",
-  "title": "IATA: RUPSU-RUPO Setujui [Waiver] Klausul Pemegang Saham Utama",
-  "deck": "Pemegang sukuk dan obligasi Karya Pacific Energy menyetujui pelonggaran ketentuan perjanjian wali amanat yang terkait pemegang saham pengendali perseroan.",
-  "date": "28 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IATA",
-   "sukuk",
-   "obligasi",
-   "wali amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/e1a680eb80_eca7e65d9b.pdf",
   "sourceLabel": "IDX"
  }
 ];

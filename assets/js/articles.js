@@ -272,6 +272,32 @@ var ARTICLES = [
   "imageV": "mtoaysc0"
  },
  {
+  "slug": "mtdl-pacu-agentic-ai-data-ai-tumbuh-52-yoy-di-1h26",
+  "category": "Aksi Korporasi",
+  "title": "MTDL Pacu [Agentic AI], Data & AI Tumbuh 52% YoY di 1H26",
+  "deck": "Metrodata percepat adopsi agentic AI lewat Knowgen.AI dan Megarock, sembari bisnis Data & AI tumbuh 52 persen dan Hybrid AI 171 persen pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "5 September 2026",
+  "isoDate": "2026-09-05T16:23:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98c044a5b1_2a63884968.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTDL",
+  "tags": [
+   "MTDL",
+   "Agentic AI",
+   "Data & AI",
+   "Metrodata Electronics"
+  ],
+  "body": [
+   "PT Metrodata Electronics Tbk (MTDL) mengumumkan percepatan adopsi agentic AI, yaitu sistem kecerdasan buatan otonom yang bisa merencanakan, mengambil keputusan, dan mengeksekusi tugas sendiri tanpa terus menerus menunggu perintah manusia, untuk memperkuat bisnis AI perusahaan. Perseroan kini memiliki lebih dari 100 use case, sebagian sudah mengadopsi agentic AI. Pada semester I 2026, bisnis Data & AI tumbuh 52 persen dibanding periode sama tahun sebelumnya, sementara Hybrid AI atau Hybrid IT & Infrastructure tumbuh 171 persen.",
+   "Presiden Direktur MTDL Susanto Djaja mengatakan kontribusi kedua segmen tersebut terhadap total pendapatan unit Solusi dan Konsultasi Digital masih di bawah 10 persen, tapi pertumbuhannya lebih agresif dibanding sejumlah lini bisnis lain. Ia menyebut bisnis AI berpotensi menjadi salah satu growth engine Metrodata dalam 3 sampai 5 tahun mendatang, seiring makin banyak use case yang masuk tahap produksi dan dampak bisnisnya makin jelas.",
+   "Saat ini MTDL memiliki dua model agentic AI. Knowgen.AI ditujukan untuk membantu efisiensi kerja satu unit tertentu dengan target perusahaan kecil dan menengah. Megarock menyasar kebutuhan bisnis yang lebih spesifik dan luas, dengan lima solusi unggulan yaitu Megabots.AI untuk chatbot, Megadocs untuk pemrosesan dokumen cerdas, Megaque sebagai asisten kode AI dan peringkas dokumen, Megacast untuk peramalan permintaan, serta Megafactory untuk inspeksi kualitas otomatis dan pemeliharaan prediktif. Percepatan adopsi ini juga digalang lewat ajang tahunan Metrodata Solution Day 2026, yang menekankan pemilihan model AI fleksibel lewat delapan pilar solusi perusahaan yaitu Cloud Services, Data & AI, Hybrid IT & Infrastructure, Cybersecurity, Business Application, Digital Business Platform, Consulting & Advisory Services, dan Managed Services."
+  ],
+  "fotoAdegan": "Technicians inspecting server racks with blinking indicator lights in a modern data center corridor in Jakarta",
+  "takeaway": "Laporan ini condong netral karena isinya siaran pers strategi bisnis, bukan transaksi atau perubahan struktur keuangan, dan perusahaan sendiri menyatakan dampaknya NA. Pos yang tersentuh di sini adalah potensi pendapatan dari segmen Data & AI dan Hybrid IT, dua lini yang tumbuh kencang secara persentase tapi kontribusinya ke total pendapatan unit Solusi dan Konsultasi Digital masih di bawah 10 persen, sehingga belum banyak mengubah laba perusahaan secara keseluruhan saat ini. Yang perlu dipantau pemegang saham adalah apakah tren pertumbuhan dua segmen ini berlanjut di laporan keuangan kuartal III 2026, mengingat manajemen sendiri menyebut potensi menjadi growth engine baru itu baru akan terlihat jelas dalam 3 sampai 5 tahun ke depan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi",
   "category": "Energi",
   "title": "Pertamina Tindak 31 SPBU di Sumbar soal BBM [Subsidi]",
@@ -565,6 +591,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians walking through a corridor of server racks with blue indicator lights inside a data center facility",
   "takeaway": "Laporan ini condong negatif bagi pemegang saham DOOH, karena manajemen sendiri mengonfirmasi tengah mempertimbangkan pendanaan lewat rights issue untuk membiayai rencana investasi yang disebut bernilai puluhan miliar dolar AS, jauh melampaui aset perseroan saat ini yang baru sekitar Rp406 miliar. Rights issue adalah penerbitan saham baru yang ditawarkan lebih dulu kepada pemegang saham lama; kalau tidak semua pemegang saham lama menyerap jatah barunya, jumlah saham beredar membengkak dan laba per saham berpotensi terdilusi karena keuntungan perseroan harus dibagi ke lebih banyak lembar saham. Kesenjangan antara skala rencana investasi dan aset yang ada saat ini tergolong sangat lebar, sehingga risiko dilusi ini bukan sekadar wacana jika opsi tersebut benar-benar dipilih. Yang perlu dipantau berikutnya adalah keterbukaan informasi resmi soal skema pendanaan final, apakah saham baru, utang, atau joint venture, yang menurut manajemen akan diumumkan begitu keputusan diambil, mengingat sampai laporan ini terbit belum ada tanggal maupun nilai transaksi yang dipatok.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "ricy-tak-bagi-dividen-komisaris-berkurang-jadi-dua-orang",
+  "category": "Aksi Korporasi",
+  "title": "RICY Tak Bagi Dividen, [Komisaris] Berkurang Jadi Dua Orang",
+  "deck": "RUPST dan RUPSLB RICY sepakat tidak bagi dividen tunai 2025, terima pengunduran diri satu komisaris, dan tetapkan remunerasi direksi-komisaris Rp2,87 miliar hingga akhir 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T21:52:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65a0f9f9e5_8a79e93c48.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RICY",
+  "tags": [
+   "RICY",
+   "RUPST",
+   "dividen",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Ricky Putra Globalindo Tbk (RICY) menggelar Rapat Umum Pemegang Saham Tahunan (RUPST) pada 2 September 2026 di Hotel Aston Pluit, Jakarta Utara, dihadiri pemegang saham yang mewakili 390.666.700 saham atau 60,8783 persen dari total saham berhak suara. Rapat menyetujui keterlambatan penyelenggaraan RUPST untuk tahun buku 2025 serta mengesahkan laporan tahunan dan laporan keuangan 2025 yang diaudit akuntan Joachim Sulistyo dari Kantor Akuntan Poltak, Piter Henri & Rekan dengan opini wajar tanpa pengecualian. Persetujuan laporan keuangan ini hanya didukung 98,5 persen suara, dengan 5.850.100 saham atau 1,5 persen menyatakan tidak setuju, mewakili satu pemegang saham yang sebelumnya mengajukan pertanyaan pada agenda laporan tahunan dan remunerasi. Untuk tahun buku 2025, RUPST memutuskan tidak ada dividen tunai maupun penyisihan dana cadangan.",
+   "Pemegang saham juga memberi kuasa kepada Dewan Komisaris untuk menunjuk Kantor Akuntan Publik yang akan mengaudit laporan keuangan tahun buku 2026, sekaligus menetapkan honorariumnya. Total remunerasi seluruh anggota Direksi dan Dewan Komisaris disepakati sebesar Rp2.869.801.626 sebelum pajak, berlaku sampai akhir 2026. Rapat turut menerima pengunduran diri Viktor Richard Franziskus dari jabatan Komisaris, efektif sejak penutupan rapat, sehingga susunan Dewan Komisaris menyusut dari tiga menjadi dua orang hingga RUPST tahun 2029, yaitu Della Putri Gunawan sebagai Komisaris Utama dan Subandi Sihman sebagai Komisaris Independen.",
+   "Pada hari yang sama, Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dihadiri pemegang saham mewakili 450.781.200 saham atau 70,246 persen dari total saham berhak suara menyetujui perubahan Pasal 3 Anggaran Dasar Perseroan. Perubahan ini menyesuaikan maksud, tujuan, dan kegiatan usaha Perseroan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia, dan akan dituangkan dalam akta notaris."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a podium in a hotel ballroom set up for a shareholders meeting, soft morning light, Jakarta interior.",
+  "takeaway": "Secara keseluruhan laporan ini netral bagi RICY, karena keputusan RUPST dan RUPSLB bersifat rutin dan menyangkut tata kelola, tanpa sinyal jelas yang mengarah membaik atau memburuk bagi bisnis perusahaan. Tidak adanya dividen tunai untuk tahun buku 2025 berarti laba yang ada, jika ada, tetap ditahan di dalam perusahaan sebagai modal sendiri alih-alih dibagikan tunai ke pemegang saham, yang menambah kas internal perusahaan tapi berarti investor tidak menerima uang tunai tahun ini. Penyusutan Dewan Komisaris dari tiga menjadi dua orang, menyusul mundurnya Viktor Richard Franziskus, tidak mengubah jumlah saham beredar maupun hak suara pemegang saham, sehingga dampaknya ada di sisi pengawasan perusahaan, bukan di angka keuangan. Yang perlu dipantau berikutnya adalah laporan keuangan tahun buku 2026, karena anggaran remunerasi direksi dan komisaris sebesar Rp2,87 miliar serta penunjukan akuntan publik baru berlaku sampai akhir tahun itu, sementara evaluasi ulang susunan Dewan Komisaris baru akan dibahas lagi pada RUPST tahun 2029.",
+  "sentimen": "netral"
  },
  {
   "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
@@ -934,6 +986,31 @@ var ARTICLES = [
   "imageV": "mtmxcgrf"
  },
  {
+  "slug": "edge-lanjutkan-suspensi-saham-usai-crossing-go-private",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Lanjutkan [Suspensi] Saham usai Crossing Go Private",
+  "deck": "BEI melanjutkan penghentian sementara perdagangan saham Indointernet (EDGE) di pasar negosiasi setelah transaksi crossing rampung, bagian dari proses go private.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:49:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b286eba85_c1a98b57aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "suspensi saham",
+   "go private",
+   "delisting"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menerbitkan pengumuman Peng-SPT-00002/BEI.PP2/02-2026 yang menyatakan perdagangan saham PT Indointernet Tbk. (EDGE) kembali dihentikan sementara mulai 4 September 2026, sesi II pasar negosiasi. Keterangan resmi menyebut penghentian ini adalah lanjutan suspensi setelah transaksi crossing saham selesai dilakukan, dengan alasan dasar tetap sama seperti sebelumnya, yaitu proses voluntary delisting atau penghapusan pencatatan saham secara sukarela dan rencana perusahaan menjadi perusahaan tertutup alias go private.",
+   "Pengumuman ini melanjutkan langkah BEI sehari sebelumnya yang sempat membuka kembali perdagangan EDGE secara terbatas khusus untuk memfasilitasi crossing, yaitu transaksi jual beli saham dalam jumlah besar yang disepakati dua pihak di pasar negosiasi. Setelah crossing itu selesai, bursa menutup kembali akses perdagangan saham EDGE di pasar reguler maupun negosiasi sebagai bagian dari tahapan menuju delisting."
+  ],
+  "fotoAdegan": "Rows of server racks with faint blue indicator lights in a quiet data center corridor, technician walking away in the distance",
+  "takeaway": "Penilaian kami netral bagi fundamental EDGE, karena ini murni langkah administratif bursa yang mengikuti jadwal proses go private yang memang sudah berjalan, bukan sinyal baru soal kondisi keuangan perusahaan. Yang tersentuh di sini bukan laporan keuangan, melainkan likuiditas saham publik, karena investor ritel yang masih memegang saham EDGE untuk sementara tidak bisa menjual atau membelinya di bursa selain lewat mekanisme crossing yang sudah difasilitasi. Kejadian ini menegaskan bahwa transaksi crossing, yaitu jual beli saham dalam jumlah besar yang disepakati langsung antara penjual dan pembeli, telah rampung dilaksanakan sebagai salah satu syarat proses delisting. Yang perlu dipantau selanjutnya adalah pengumuman resmi BEI berikutnya mengenai tanggal efektif penghapusan pencatatan saham EDGE dari bursa, karena dokumen ini belum mencantumkan tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "uvcr-trimegah-sumber-mas-lepas-300-juta-saham-hak-suara-ke-16-18",
   "category": "Aksi Korporasi",
   "title": "UVCR: Trimegah Sumber Mas [lepas] 300 juta saham, hak suara ke 16,18%",
@@ -1062,6 +1139,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan atau tarif iuran, melainkan cara BPJS Ketenagakerjaan menjangkau peserta, yakni lewat kunjungan langsung pejabat pusat ke kantor cabang dan kerja sama dengan mahasiswa untuk mendaftarkan pekerja informal seperti pedagang kecil atau buruh lepas yang selama ini jarang punya jaminan kecelakaan kerja atau kematian. Yang terdampak jelas dari beritanya, yaitu warga Pekalongan yang baru terdaftar lewat pendampingan mahasiswa, ahli waris peserta yang menerima santunan, dan pekerja informal di kota itu yang jadi target perluasan kepesertaan. Tapi berita ini tidak menyebut satu angka pun, tidak ada jumlah peserta baru, tidak ada nilai santunan, tidak ada target cakupan pekerja informal, sehingga belum bisa disimpulkan apakah kolaborasi kampus semacam ini benar-benar mendongkrak jumlah kepesertaan atau sekadar simbolis. Yang perlu ditunggu adalah data realisasi kepesertaan BPJS Ketenagakerjaan di Pekalongan pada laporan berikutnya, khususnya porsi pekerja informal, untuk melihat apakah pendekatan lewat mahasiswa ini berlanjut ke kota lain atau berhenti di satu kunjungan seremonial.",
   "imageV": "mtmxchal"
+ },
+ {
+  "slug": "enak-rombak-susunan-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "ENAK Rombak Susunan [Direksi] dan Komisaris",
+  "deck": "RUPSLB Champ Resto Indonesia menyetujui pengunduran tiga pengurus lama, pengangkatan komisaris independen baru, dan perpindahan Sjariful Haq dari komisaris ke direktur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T18:10:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/165be55b9e_a2c7d5c25b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENAK",
+  "tags": [
+   "ENAK",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris Independen"
+  ],
+  "body": [
+   "PT Champ Resto Indonesia Tbk (ENAK) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Rabu, 2 September 2026, di Ruang Anggrek, Sampoerna Strategic Square, Jakarta Selatan. Rapat dihadiri pemegang saham dan kuasanya yang mewakili 1.208.248.200 saham atau 55,7653 persen dari total 2.166.666.800 saham perseroan, sehingga kuorum kehadiran terpenuhi. Dalam pemungutan suara satu-satunya agenda rapat, yaitu perubahan susunan Dewan Komisaris dan Direksi, sebanyak 98,797 persen suara yang hadir menyatakan setuju, tidak ada yang menyatakan tidak setuju, dan 1,203 persen memilih abstain.",
+   "Rapat menyetujui pengunduran diri Christopher Supit dari jabatan Direktur, serta Agustina Supriyani Kardono dan Bambang Ismawan dari jabatan Komisaris Independen, berlaku sejak penutupan rapat. Ketiganya mendapat pembebasan dan pelunasan tanggung jawab (acquit et de charge) atas tugas mereka selama menjabat, kecuali jika di kemudian hari terbukti ada penggelapan, penipuan, atau tindak pidana lain. Di saat bersamaan, Sjariful Haq yang sebelumnya menjabat Komisaris diberhentikan dengan hormat dari posisi itu dan langsung diangkat menjadi Direktur perseroan. Rapat juga mengangkat Dr. Suwarno, S.I.P., M.Sc. sebagai Komisaris Independen baru, sementara Christian Sugiarto, M. Noor Rachman Soejoeti, Ridwan Budijono, dan Hendrik Alexander Wanggur Mboi ditetapkan kembali pada posisi masing-masing hingga penutupan Rapat Umum Pemegang Saham Tahunan yang akan digelar pada 2029.",
+   "Dengan keputusan ini, susunan Dewan Komisaris Champ Resto Indonesia menjadi Christian Sugiarto sebagai Komisaris Utama, serta M. Noor Rachman Soejoeti dan Dr. Suwarno sebagai Komisaris Independen. Direksi perseroan terdiri dari Ridwan Budijono sebagai Direktur Utama, Hendrik Alexander Wanggur Mboi sebagai Wakil Direktur Utama merangkap CEO, dan Sjariful Haq sebagai Direktur. Notaris Aulia Taufani mencatat keputusan ini dalam akta berita acara rapat tertanggal 2 September 2026, yang salinannya masih dalam proses penyelesaian di kantor notaris."
+  ],
+  "fotoAdegan": "Empty formal boardroom with a long polished table and rows of chairs, floor to ceiling windows overlooking a Jakarta business district, soft morning light",
+  "takeaway": "Pergantian pengurus ini bersifat netral bagi fundamental Champ Resto Indonesia karena murni rotasi jabatan yang disetujui hampir bulat oleh pemegang saham, tanpa disertai suntikan dana, perubahan utang, atau angka keuangan lain yang memengaruhi kinerja perseroan. Yang berubah adalah struktur pengawasan perusahaan, jumlah anggota Dewan Komisaris menyusut dari lima menjadi tiga orang dan komisaris independen berkurang dari tiga menjadi dua, sementara Sjariful Haq berpindah dari kursi pengawas ke kursi pengurus harian sebagai Direktur, pergeseran yang biasa dicermati pasar karena menyangkut siapa yang mengawasi kebijakan direksi. Pemegang saham juga memberikan pembebasan tanggung jawab penuh kepada tiga pengurus lama yang mengundurkan diri, sehingga mereka tidak lagi bisa dimintai pertanggungjawaban atas kebijakan lama kecuali kelak terbukti ada penipuan atau tindak pidana lain. Yang perlu dipantau selanjutnya adalah penyelesaian akta notaris resmi atas hasil rapat ini serta kinerja susunan pengurus baru hingga masa jabatannya berakhir pada Rapat Umum Pemegang Saham Tahunan 2029.",
+  "sentimen": "netral"
  },
  {
   "slug": "dild-komisaris-lepas-97-sahamnya-rp3-8-miliar",
@@ -1356,6 +1459,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "dmas-cetak-prapenjualan-rp1-15-triliun-data-center-jadi-andalan",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Cetak Prapenjualan Rp1,15 Triliun, [Data Center] Jadi Andalan",
+  "deck": "Puradelta Lestari membukukan prapenjualan Rp1,15 triliun pada semester I 2026, atau 55 persen dari target setahun, ditopang permintaan lahan dari sektor data center.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:23:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11544c4f77_4a77e18fe6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "Puradelta Lestari",
+   "data center",
+   "kawasan industri"
+  ],
+  "body": [
+   "PT Puradelta Lestari Tbk (DMAS), pengembang kawasan Kota Deltamas di Cikarang, mencatat prapenjualan senilai Rp1,15 triliun sepanjang semester pertama 2026. Menurut Tondy Suwanto, Direktur sekaligus Sekretaris Perusahaan, capaian ini setara 55 persen dari target prapenjualan yang dipatok perseroan untuk sepanjang tahun 2026. Ia menyebut hasil semester ini didominasi oleh sektor industri, terutama permintaan dari pelaku usaha data center.",
+   "Total permintaan lahan industri yang masuk mencapai sekitar 85 hektare, dan 75 persen di antaranya berasal dari sektor data center. Perseroan menyebut minat ini didukung oleh fasilitas yang mereka sediakan, antara lain pasokan listrik dengan layanan premium, instalasi serat optik dengan tingkat redundansi yang andal, sistem sirkulasi air bersih dan air daur ulang, serta pusat komando data dan keamanan kawasan.",
+   "Kota Deltamas dikembangkan di atas area seluas sekitar 3.200 hektare di Cikarang Pusat dan mencakup zona industri, hunian, serta komersial. Pemegang saham pengendali DMAS adalah PT Sumber Arusmulia dengan kepemilikan 57,28 persen, yang merupakan bagian dari grup Sinar Mas Land, dan Sojitz Corporation asal Jepang dengan kepemilikan 25,00 persen."
+  ],
+  "fotoAdegan": "Wide view of a cleared industrial estate plot with access roads and utility trenches under construction, workers and heavy equipment, daytime",
+  "takeaway": "Laporan ini condong positif bagi DMAS, sebab prapenjualan yang sudah mencapai 55 persen dari target tahunan hanya dalam enam bulan menunjukkan permintaan lahan industri, khususnya dari sektor data center, masih kuat. Angka prapenjualan ini penting dicermati karena mencerminkan potensi pendapatan yang akan dibukukan bertahap ke laporan keuangan setelah transaksi lahan rampung secara hukum dan administratif, bukan pendapatan yang sudah pasti diterima tunai saat ini. Yang perlu dipantau berikutnya adalah apakah tren permintaan ini bertahan di semester kedua sehingga perseroan bisa memenuhi atau melampaui target prapenjualan setahun penuh, terutama dari realisasi transaksi atas 85 hektare permintaan lahan yang sebagian besar berasal dari sektor data center.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
   "category": "Aksi Korporasi",
   "title": "BATR Jelaskan ke Bursa [Arus Kas] Operasi Minus Rp9,9 M",
@@ -1435,6 +1564,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "zata-tak-bagi-dividen-laba-2025-dipakai-tutup-defisit",
+  "category": "Aksi Korporasi",
+  "title": "ZATA Tak Bagi [Dividen], Laba 2025 Dipakai Tutup Defisit",
+  "deck": "RUPST ZATA memutuskan seluruh laba bersih Rp2,04 miliar tahun 2025 dipakai menutup defisit, bukan dibagi dividen. Komisaris independen juga berganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T17:17:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49c3650bfe_e27d3a2443.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZATA",
+  "tags": [
+   "ZATA",
+   "RUPST",
+   "dividen",
+   "komisaris independen"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Tahunan (RUPST) PT Bersama Zatta Jaya Tbk (ZATA) digelar pada 2 September 2026 di Belviu Hotel Bandung, dihadiri dan/atau diwakili pemegang 6.506.519.922 saham atau 76,58 persen dari total 8.496.000.000 saham beredar. Rapat menyetujui laporan tahunan dan laporan keuangan tahun buku 2025 yang telah diaudit oleh Kantor Akuntan Publik Jojo Sunarjo dan Rekan dengan opini wajar tanpa pengecualian, tertuang dalam laporan auditor independen bernomor 00176/3.0408/AU.1/05/1180-1/1/VI/2026 tertanggal 29 Juni 2026. Persetujuan ini disahkan dengan 99,99 persen suara setuju, sementara 600.100 saham menyatakan tidak setuju dan 100 saham abstain.",
+   "Untuk penggunaan laba, RUPST menetapkan seluruh laba bersih tahun buku 2025 sebesar Rp2.036.833.660 dialokasikan 100 persen untuk mengurangi akumulasi saldo defisit Perseroan. Tidak ada penyisihan dana cadangan maupun pembagian dividen kepada pemegang saham. Perseroan mengutip Pasal 70 ayat (1) dan Pasal 71 ayat (3) UU Nomor 40 Tahun 2007 tentang Perseroan Terbatas, yang mensyaratkan saldo laba positif sebelum perusahaan boleh menyisihkan cadangan atau membagi dividen, artinya saldo laba ZATA saat ini masih minus meski tahun 2025 dicatat untung.",
+   "Di agenda susunan pengurus, RUPST menerima pengunduran diri Imron Rosyadi dari jabatan Komisaris Independen sesuai surat pengunduran diri tertanggal 5 Agustus 2026, dan mengangkat Slamet Pribadi sebagai penggantinya. Lima jabatan lain diperpanjang untuk periode lima tahun ke depan, terhitung sejak 2 September 2026 hingga 2 September 2031: Manudin Hasan tetap Komisaris Utama, Henda Roshenda Noor tetap Komisaris, Elidawati tetap Direktur Utama, Ronny Soleh Pahlevi tetap Wakil Direktur Utama, dan Indrasyah tetap Direktur. RUPST juga memberi wewenang kepada Dewan Komisaris untuk menunjuk Kantor Akuntan Publik pengaudit tahun buku 2026 serta menetapkan honorarium direksi dan komisaris untuk tahun yang sama."
+  ],
+  "fotoAdegan": "Rows of shareholders raising voting cards inside a hotel conference room during a formal annual meeting, soft morning light",
+  "takeaway": "Keputusan RUPST ini condong netral karena kabar utamanya, yaitu tidak ada dividen, sebenarnya wajib secara hukum: perusahaan tidak boleh membagi laba selama saldo labanya masih minus, jadi ini bukan pilihan manajemen menahan uang pemegang saham. Yang tersentuh adalah pos ekuitas dan laba per saham, yakni keuntungan bersih yang jadi jatah tiap lembar saham: seluruh laba bersih Rp2,04 miliar dipakai menambal defisit akumulasi sehingga ekuitas Perseroan membaik sedikit, tapi dengan 8,496 miliar lembar saham beredar, laba per lembarnya cuma sekitar Rp0,24, angka yang menunjukkan skala labanya masih sangat kecil dibanding jumlah saham yang beredar. Pergantian komisaris independen dari Imron Rosyadi ke Slamet Pribadi tidak mengubah peta kendali karena lima dari enam kursi pengurus lain tetap diisi orang yang sama untuk periode lima tahun ke depan. Yang perlu dipantau berikutnya adalah laporan tahun buku 2026, yaitu apakah defisit akumulasi Perseroan akhirnya tertutup penuh, serta pengumuman resmi Kantor Akuntan Publik baru yang akan ditunjuk Dewan Komisaris untuk mengaudit tahun buku tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bank-tanggapi-permintaan-bursa-soal-volatilitas-transaksi",
   "category": "Aksi Korporasi",
   "title": "BANK tanggapi permintaan bursa soal [volatilitas] transaksi",
@@ -1510,6 +1665,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Laboratory technicians in blue scrubs processing blood sample tubes on an automated diagnostic analyzer, bright clinical lighting",
   "takeaway": "Laporan ini netral bagi kinerja Prodia: perusahaan memang konsisten membeli kembali sahamnya setiap hari bursa selama dua pekan terakhir, tapi jumlahnya baru 0,52 persen dari total saham beredar sehingga belum mengubah struktur pemegang saham secara berarti. Yang tersentuh adalah kas perusahaan dan jumlah saham beredar, sebab setiap saham yang dibeli balik mengurangi kas sekitar Rp13,1 miliar sejauh ini dan sedikit memperkecil jumlah saham beredar, yang secara teori bisa membuat laba per saham naik tipis karena pembaginya mengecil, meski efeknya masih kecil pada tahap ini. Yang perlu dipantau berikutnya adalah kelanjutan realisasi ini, karena dari dana yang tampaknya dialokasikan sekitar Rp150 miliar, Prodia baru memakai Rp13,1 miliar dan masih menyisakan Rp136,89 miliar per 4 September 2026, sehingga laporan-laporan harian berikutnya akan menunjukkan apakah pembelian terus berlanjut dengan kecepatan yang sama atau melambat seiring pasar yang lebih stabil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rlco-ganti-kepala-audit-internal-yusnita-mundur",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Ganti Kepala Audit Internal, Yusnita [Mundur]",
+  "deck": "RLCO menunjuk Teruna Eka Farma sebagai Kepala Unit Audit Internal baru menggantikan Yusnita Kristanti yang mengundurkan diri, efektif 1 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T16:48:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98d0f9d39e_9386312249.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "audit internal",
+   "tata kelola perusahaan",
+   "pergantian pejabat"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) mengumumkan pergantian Kepala Unit Audit Internal perseroan. Yusnita Kristanti, yang sebelumnya menjabat posisi tersebut, mengundurkan diri terhitung 31 Juli 2026. Sebagai penggantinya, perseroan mengangkat Teruna Eka Farma yang efektif menjabat sejak 1 Agustus 2026.",
+   "Pengangkatan ini didasarkan pada Keputusan Direksi PT Abadi Lestari Indonesia Tbk Nomor 10/SK/ALI/VII/2026 tanggal 23 Juli 2026, yang ditandatangani Direktur Utama Edwin Pranata dan disetujui Komisaris Utama Achmad Baiguni. Masa jabatan Teruna Eka Farma berlaku dari 1 Agustus 2026 hingga 31 Juli 2027, mengikuti perjanjian kerja Nomor 027/VII/26/PK/HRD/ALI. Keputusan tersebut juga menegaskan bahwa Kepala Unit Audit Internal yang baru tidak memiliki hubungan afiliasi dengan Dewan Komisaris, anggota Direksi, maupun pemegang saham utama perseroan, sesuai ketentuan POJK Nomor 56/POJK.04/2015 tentang Pembentukan dan Pedoman Penyusunan Piagam Unit Audit Internal.",
+   "Dalam surat keputusan itu disebutkan pula tugas pokok Kepala Unit Audit Internal, antara lain menyusun rencana audit tahunan, menguji efektivitas pengendalian internal dan manajemen risiko perseroan, serta melaporkan hasil audit kepada Direktur Utama dan Dewan Komisaris. Perseroan menyatakan perubahan ini dilaporkan kepada Otoritas Jasa Keuangan sebagai bagian dari kewajiban keterbukaan informasi."
+  ],
+  "fotoAdegan": "An accountant flipping through binder folders in a modest company office in a small East Java town, morning light",
+  "takeaway": "Pergantian ini bersifat netral bagi RLCO, karena hanya menyangkut posisi kepala fungsi pengawasan internal, bukan direksi atau komisaris, dan dokumen tidak menyebut sebab lain selain pengunduran diri biasa. Unit audit internal bertugas mengecek kepatuhan dan keandalan laporan keuangan perusahaan dari dalam, jadi pergantian pemimpinnya tidak langsung mengubah angka seperti ekuitas, arus kas, atau laba per saham, tapi berpengaruh pada kualitas pengawasan yang mendasari keandalan laporan keuangan ke depan. Yang perlu dicermati investor adalah kinerja unit audit di bawah kepemimpinan baru pada laporan tahunan RLCO berikutnya, mengingat masa jabatan Teruna Eka Farma ditetapkan berlaku hingga 31 Juli 2027.",
   "sentimen": "netral"
  },
  {
@@ -2723,6 +2904,32 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "takeaway": "Yang berubah dari siaran ini sebenarnya soal jadwal dan lokasi: setelah pameran utama di ICE BSD dan seri Surabaya, GAIKINDO memperluas roadshow GIIAS ke Bandung, lalu berlanjut ke Semarang akhir September dan Makassar akhir Oktober. Yang terdampak jelas diler dan agen pemegang merek yang ikut pameran di kota-kota itu, serta calon pembeli mobil di Jawa Barat, Jawa Tengah, dan Sulawesi Selatan yang jadi sasaran baru selain Jabodetabek dan Surabaya. Siaran ini tidak menyebut berapa jumlah pengunjung atau nilai transaksi dari seri Tangerang maupun Surabaya yang sudah selesai, jadi belum bisa dibaca apakah perluasan ke kota-kota kedua ini benar mendongkrak penjualan mobil di daerah atau sekadar rutinitas promosi tahunan GAIKINDO. Yang perlu ditunggu adalah rekap resmi jumlah pengunjung dan transaksi GIIAS 2026 yang biasanya dirilis GAIKINDO setelah seluruh rangkaian kota selesai awal November.",
   "imageV": "mtm9lr3q"
+ },
+ {
+  "slug": "fwct-saham-direksi-turun-hak-suara-susut-ke-80",
+  "category": "Aksi Korporasi",
+  "title": "FWCT: Saham Direksi Turun, [Hak Suara] Susut ke 80%",
+  "deck": "Direksi FWCT Indra Satriawan melaporkan sahamnya turun dari 88 jadi 85 lembar, sementara hak suaranya anjlok dari 100% menjadi 80% lewat eksekusi saham yang dijaminkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T05:25:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8642-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FWCT",
+  "tags": [
+   "FWCT",
+   "kepemilikan saham",
+   "direksi",
+   "hak suara"
+  ],
+  "body": [
+   "Direktur PT Wijaya Cahaya Timber Tbk (FWCT), Indra Satriawan, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di perseroan berkurang dari 88 lembar menjadi 85 lembar per 4 September 2026. Penurunan tiga lembar itu setara sekitar 3,4 persen dari saham yang sebelumnya ia pegang. Yang lebih mencolok, hak suaranya di perseroan turun dari 100 persen menjadi 80 persen akibat transaksi ini.",
+   "Dokumen laporan mencatat transaksi ini sebagai eksekusi atas saham perusahaan terbuka yang sebelumnya dijaminkan, dilakukan melalui skema perjanjian pembelian kembali atau repurchase agreement. Ada dua tujuan transaksi yang tercantum, yaitu pengalihan saham dan pembagian dividen, masing masing tercatat dengan nilai Rp300 juta dan melibatkan pihak bernama Indra Jaya. Transaksi berlangsung pada 4 September 2026, dengan batas akhir periode pelaksanaan gadai saham tersebut jatuh sehari setelahnya, pada 5 September 2026.",
+   "Dengan perubahan ini, Indra Satriawan tetap menjadi pemegang saham mayoritas di posisi jabatannya dengan hak suara 80 persen, meski tidak lagi menguasai seluruhnya seperti sebelum transaksi. Laporan disampaikan sesuai kewajiban keterbukaan informasi bagi direksi dan komisaris perusahaan terbuka berdasarkan POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham."
+  ],
+  "fotoAdegan": "Stacks of freshly sawn timber logs at an outdoor sawmill yard, forklift moving nearby under bright tropical daylight",
+  "takeaway": "Laporan ini condong negatif bagi persepsi tata kelola FWCT karena hak suara Indra Satriawan turun tajam dari 100 persen menjadi 80 persen, meski saham yang berpindah tangan hanya tiga lembar dari total 88 lembar miliknya. Yang tersentuh di sini adalah hak suara, yakni porsi suara seorang pemegang saham dalam rapat pengambilan keputusan perusahaan, dan pasar memperhatikannya karena penurunannya bisa mengurangi kendali seorang direksi atas keputusan strategis meski dia masih memegang mayoritas. Transaksinya sendiri berbentuk eksekusi atas saham yang sebelumnya dijadikan jaminan, dengan batas akhir pelaksanaan pada 5 September 2026, sehingga yang perlu dicermati berikutnya adalah apakah muncul laporan serupa dari direksi atau komisaris lain terkait saham yang juga dijaminkan, yang bisa menunjukkan pola pelepasan jaminan yang lebih luas di internal perseroan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",

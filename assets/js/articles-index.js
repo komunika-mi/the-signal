@@ -217,6 +217,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "hatm-terbitkan-640-juta-saham-baru-multi-sarana-kuasai-25-59",
+  "category": "Aksi Korporasi",
+  "title": "HATM Terbitkan 640 Juta Saham Baru, [Multi Sarana] Kuasai 25,59%",
+  "deck": "PT Multi Sarana Nasional menyerap seluruh 640 juta saham baru HATM seharga Rp500 per saham, menaikkan porsinya jadi 25,59 persen dan mendilusi pemegang saham lama hingga 6,87 persen.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HATM",
+   "penambahan modal",
+   "dilusi saham",
+   "PT Multi Sarana Nasional"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecc3999bfc_d2a15b7de7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-dunia-diproyeksi-volatil-pekan-depan",
   "category": "Pasar Modal",
   "title": "Harga Emas Dunia Diproyeksi [Volatil] Pekan Depan",
@@ -6541,22 +6557,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_XIIF_E045_2f52d145-7fdd-4539-bda9-574adfab9dbd-20260829153852.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hkmu-reverse-stock-1-4-saham-beredar-susut-ke-12-978",
-  "category": "Aksi Korporasi",
-  "title": "HKMU Reverse Stock 1:4, Saham Beredar [Susut] ke 12.978",
-  "deck": "RUPS HKMU menyetujui penggabungan saham dengan rasio 1:4, mengubah jumlah saham beredar dari 8.712.937 menjadi 12.978 lembar mulai 30 Agustus 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HKMU",
-   "reverse stock",
-   "aksi korporasi",
-   "penggabungan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_8663a346-fce7-48ab-b9f3-8ef3d194dbe6-20260829152845.pdf",
   "sourceLabel": "IDX"
  }
 ];

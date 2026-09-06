@@ -342,6 +342,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "hatm-terbitkan-640-juta-saham-baru-multi-sarana-kuasai-25-59",
+  "category": "Aksi Korporasi",
+  "title": "HATM Terbitkan 640 Juta Saham Baru, [Multi Sarana] Kuasai 25,59%",
+  "deck": "PT Multi Sarana Nasional menyerap seluruh 640 juta saham baru HATM seharga Rp500 per saham, menaikkan porsinya jadi 25,59 persen dan mendilusi pemegang saham lama hingga 6,87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T10:30:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecc3999bfc_d2a15b7de7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HATM",
+  "tags": [
+   "HATM",
+   "penambahan modal",
+   "dilusi saham",
+   "PT Multi Sarana Nasional"
+  ],
+  "body": [
+   "PT Habco Trans Maritima Tbk (HATM) melaporkan rampungnya pelaksanaan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) pada 4 September 2026, berdasarkan keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 21 Agustus 2026 yang tertuang dalam akta notaris Rini Yulianti, dan setelah mendapat persetujuan pencatatan dari Bursa Efek Indonesia melalui surat tertanggal 2 September 2026. Perseroan menerbitkan 640 juta saham baru dengan nilai nominal Rp50 per saham pada harga pelaksanaan Rp500 per saham. Seluruh saham baru itu diserap oleh satu pihak, yaitu PT Multi Sarana Nasional, sehingga dana yang masuk ke kas perseroan sebelum dipotong biaya-biaya PMTHMETD mencapai sekitar Rp320 miliar.",
+   "Transaksi ini mengubah struktur permodalan HATM. Modal ditempatkan dan disetor penuh naik dari 8,68 miliar saham menjadi 9,32 miliar saham, atau dari Rp434 miliar menjadi Rp466 miliar. PT Habco Primatama, pemegang saham pengendali, tetap memegang 5.758.706.000 saham tanpa penambahan, tetapi porsinya turun dari 66,34 persen menjadi 61,79 persen karena basis saham beredar membesar. Sebaliknya, PT Multi Sarana Nasional yang menyetor seluruh saham baru melihat kepemilikannya naik dari 1.745.409.861 saham (20,11 persen) menjadi 2.385.409.861 saham (25,59 persen). Tiga pemegang saham individu, Benny, Cosmas Kiardi, dan Hasanul Arifin Hasibuan, serta pemegang saham publik dengan total 1.153.484.139 saham, tidak menambah kepemilikan sehingga porsi mereka ikut turun, misalnya publik dari 13,29 persen menjadi 12,38 persen. Perseroan menegaskan tidak ada perubahan pengendali, meski pemegang saham lama mengalami dilusi maksimal 6,87 persen.",
+   "Perseroan menyatakan dana hasil PMTHMETD, setelah dikurangi biaya-biaya terkait, akan dipakai untuk belanja modal berupa penambahan armada kapal atau untuk membayar pinjaman bank, tanpa merinci porsi masing-masing penggunaan."
+  ],
+  "fotoAdegan": "Cargo ship being loaded at a busy Indonesian port dock, cranes moving containers, workers in safety vests, hazy morning light",
+  "takeaway": "Laporan ini netral bagi HATM: dana sekitar Rp320 miliar yang masuk dari penempatan saham baru ini nyata dan bisa dipakai menambah kapal atau melunasi utang bank, tapi porsi kepemilikan pemegang saham lama, termasuk publik, ikut tergerus karena basis saham beredar bertambah 640 juta lembar. Yang tersentuh adalah jumlah saham beredar, yang naik dari 8,68 miliar menjadi 9,32 miliar lembar, sehingga laba bersih yang sama harus dibagi ke lebih banyak saham dan laba per saham berpotensi mengecil, sementara di sisi lain ekuitas perseroan bertambah dan kalau dana dipakai melunasi pinjaman bank, beban bunga ke depan bisa berkurang. Yang perlu dipantau berikutnya adalah laporan realisasi penggunaan dana, karena dokumen ini baru menyebut rencana memakainya untuk armada kapal atau bayar utang bank tanpa kepastian porsi masing-masing, sekaligus posisi PT Multi Sarana Nasional yang kini menguasai 25,59 persen saham HATM setelah menyerap seluruh saham baru.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-dunia-diproyeksi-volatil-pekan-depan",
   "category": "Pasar Modal",
   "title": "Harga Emas Dunia Diproyeksi [Volatil] Pekan Depan",

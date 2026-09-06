@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
+  "category": "Aksi Korporasi",
+  "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
+  "deck": "Laporan bulanan registrasi pemegang saham HILL periode Agustus 2026 menunjukkan tiga pemegang saham utama dan seluruh direksi tak berubah, sementara pemegang saham ritel di bawah 5 persen berkurang 11 akun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T20:12:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6335d073eb_fc45ce231f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HILL",
+  "tags": [
+   "HILL",
+   "pemegang saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Hillcon Tbk (HILL) melalui biro administrasi efek PT Bima Registra menyampaikan Laporan Bulanan Registrasi Pemegang Efek untuk periode yang berakhir 31 Agustus 2026. Tiga pemegang saham dengan kepemilikan 5 persen atau lebih tercatat tidak mengalami perubahan jumlah maupun persentase dibanding bulan sebelumnya: PT Hillcon Equity Management memegang 5.472.759.400 saham (37,12 persen), PT Bukit Persada Indonesia memegang 2.380.700.000 saham (16,15 persen), dan rekening nasabah di PT CGS International Sekuritas Indonesia memegang 2.365.646.700 saham (16,05 persen). Ketiganya menguasai total 10.219.106.100 saham atau 69,32 persen dari 14.741.500.000 total saham HILL yang beredar.",
+   "Seluruh direksi dan komisaris, yaitu Komisaris Utama Tan Tjoe Liang, Komisaris Caecilia Sulistiowati, Direktur Utama Hersan Qiu, Direktur Operasional Hermansyah, Direktur Investasi Jaya Angdika, dan Direktur Teknologi Stanley Qiu, tercatat tidak memiliki satu pun saham HILL, sama seperti bulan sebelumnya. Yang berubah hanya jumlah pemegang saham dengan porsi di bawah 5 persen, dari 18.680 investor pada Juli menjadi 18.669 investor pada Agustus, berkurang 11 investor. Meski jumlah investornya berkurang, total saham yang mereka pegang tetap 4.522.393.900 lembar atau 30,68 persen dari seluruh saham beredar, sehingga porsi saham free float perusahaan juga tetap di angka 4.842.363.418 saham atau 30,68 persen.",
+   "Dari sisi sebaran, pemodal nasional menguasai 96,31 persen saham HILL atau 14.197.497.800 lembar, sementara pemodal asing memegang 3,69 persen atau 544.002.200 lembar. Secara geografis, pemegang saham di DKI Jakarta mendominasi dengan 12.026.931.000 saham atau 81,59 persen dari total, jauh di atas provinsi lain seperti Jawa Barat yang hanya menguasai 2,57 persen."
+  ],
+  "fotoAdegan": "Heavy excavators loading coal onto a line of mining dump trucks at an open pit site, dusty daylight, Kalimantan landscape",
+  "takeaway": "Laporan ini netral bagi HILL karena tidak ada perubahan sama sekali pada kepemilikan pengendali, direksi, maupun komisaris dibanding bulan sebelumnya. Satu-satunya pergerakan adalah berkurangnya 11 investor ritel pemegang saham di bawah 5 persen, tapi total saham yang mereka pegang dan porsi saham beredar yang bebas diperdagangkan publik, atau free float, tetap sama di 30,68 persen, sehingga struktur hak suara perusahaan tidak tersentuh. Free float ini layak dipantau karena HILL saat ini berstatus di Papan Pemantauan Khusus Bursa Efek Indonesia, dan porsi saham publik yang stabil berarti belum ada perubahan berarti pada basis pemegang saham yang bisa memengaruhi likuiditas perdagangan sahamnya. Yang perlu dicermati berikutnya adalah laporan registrasi periode September 2026, terutama apakah penyusutan jumlah investor ritel ini berlanjut dan apakah ada perkembangan terkait status HILL di papan pemantauan khusus tersebut.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
   "category": "Pasar Modal",
   "title": "Bitcoin [Tertahan] di US$78.000, Pasar Tunggu Sinyal The Fed",

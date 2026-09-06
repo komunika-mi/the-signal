@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
+  "category": "Aksi Korporasi",
+  "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
+  "deck": "Laporan bulanan registrasi pemegang saham HILL periode Agustus 2026 menunjukkan tiga pemegang saham utama dan seluruh direksi tak berubah, sementara pemegang saham ritel di bawah 5 persen berkurang 11 akun.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HILL",
+   "pemegang saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6335d073eb_fc45ce231f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
   "category": "Pasar Modal",
   "title": "Bitcoin [Tertahan] di US$78.000, Pasar Tunggu Sinyal The Fed",
@@ -6538,21 +6554,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463397-dpr-desak-koreksi-dtsen-maksimal-14-hari-kerja-desil-tak-boleh-jadi-hakim-tunggal-penerima-bansos"
- },
- {
-  "slug": "crab-liabilitas-toba-surimi-turun-38-75-ekuitas-naik",
-  "category": "Aksi Korporasi",
-  "title": "CRAB: Liabilitas Toba Surimi Turun 38,75%, [Ekuitas] Naik",
-  "deck": "Laporan keuangan tahunan CRAB mencatat total liabilitas turun 38,75 persen jadi Rp46,74 miliar, membuat ekuitas perusahaan naik sekitar Rp19,4 miliar.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "Toba Surimi Industries",
-   "laporan keuangan",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260829122655-62602-0/FinancialStatement-2025-Tahunan-CRAB.pdf",
-  "sourceLabel": "IDX"
  }
 ];

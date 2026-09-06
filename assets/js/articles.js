@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa",
+  "category": "UMKM",
+  "title": "Keramik Daur Ulang UMKM Surabaya [Tembus] Ekspor ke Eropa",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mengunjungi UMKM keramik Lumosh Living di Surabaya yang mengolah limbah produksi jadi alat makan ekspor ke Belanda dan Spanyol.",
+  "image": "assets/img/keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T16:23:14.516Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kunjungi-lumosh-living-di-surabaya-wamendag-apresiasi-inovasi-umkm-keramik-lokal-tembus-pasar-ekspor",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "keramik",
+   "ekonomi sirkular"
+  ],
+  "body": [
+   "Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri mengunjungi Lumosh Living, produsen alat makan keramik di Surabaya, Sabtu (6/9). Kunjungan ini menyoroti UMKM yang sudah menembus pasar ekspor lewat produk keramik daur ulang, sekaligus dijadikan contoh oleh Kementerian Perdagangan untuk program pendampingan UMKM berorientasi ekspor. Bagi pelaku usaha kecil sejenis, kasus ini menunjukkan jalur konkret menuju pasar internasional lewat kombinasi inovasi produk dan jaringan perwakilan dagang di luar negeri.",
+   "Lumosh Living, yang berdiri sejak 2016 dan berproduksi di Probolinggo, Jawa Timur, mengusung lini reclay tableware yang dibuat dari pecahan keramik retur konsumen dan produk gagal produksi. Menurut co-founder Raymon Tjiadi, produk ini memakai 40 persen limbah keramik dan 10 persen pasir besi, sehingga memangkas kebutuhan bahan baku murni hingga 50 persen. Raymon mengeklaim proses ini juga meningkatkan kepadatan dan ketahanan produk sekitar 20 persen, menekan emisi karbon sekitar 30 persen, serta menghasilkan keramik bebas timbal dan kadmium dengan kualitas yang menurutnya setara 99 persen dengan keramik baru.",
+   "Produk Lumosh Living telah menembus pasar Belanda dan Spanyol serta meraih penghargaan Good Design Award Jepang pada 2025. Produk mereka juga dipajang di rak produk Indonesia pada Indonesian Trade Promotion Center Jeddah, hasil fasilitasi perwakilan perdagangan Kemendag di luar negeri. Setelah mengikuti Trade Expo Indonesia 2025, Lumosh Living bersiap tampil lagi di TEI 2026 dengan target memperluas ekspor ke Rusia dan memperkuat citra di pasar Jepang untuk kategori perlengkapan rumah tangga.",
+   "Di luar jalur ekspor formal, Lumosh Living juga mengandalkan pemasaran berbasis cerita personal tentang pekerja di balik produknya, termasuk pernah menggarap edisi khusus bersama pemengaruh kuliner dan kini menyiapkan pop-up store di Bali bekerja sama dengan UMKM cokelat Korte. Kementerian Perdagangan menyatakan akan terus mendampingi UMKM semacam ini lewat akses pameran internasional dan fasilitasi promosi ekspor oleh perwakilan dagang."
+  ],
+  "fotoAdegan": "Handmade ceramic bowls and cups drying on wooden shelves in a small pottery workshop, morning light streaming in",
+  "fotoSumber": "https://www.kemendag.go.id/albums/2ef534U20LLNEPhITHHtA978YC1gx5zvZRtINOlL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret di sini adalah klaim satu UMKM: Lumosh Living mengaku memakai 40 persen limbah keramik dan 10 persen pasir besi untuk lini reclay tableware, sehingga menurut co-foundernya bisa memangkas separuh kebutuhan bahan baku baru sekaligus menekan emisi karbon hingga 30 persen. Yang terdampak langsung adalah UMKM kerajinan keramik yang mengandalkan ekspor dan pameran dagang seperti Trade Expo Indonesia, karena Kemendag memosisikan kunjungan ini sebagai contoh keberhasilan program fasilitasi lewat perwakilan dagang di luar negeri. Yang belum bisa disimpulkan dari berita ini adalah seberapa luas program fasilitasi itu benar-benar menjangkau UMKM lain, sebab yang ditampilkan hanya satu kasus tanpa angka jumlah UMKM yang dibantu atau anggaran programnya. Yang perlu dipantau adalah keikutsertaan UMKM keramik pada Trade Expo Indonesia 2026 dan apakah target perluasan pasar ke Rusia yang disebutkan Lumosh Living benar terealisasi setelah pameran tersebut.",
+  "imageV": "mtq13lpg"
+ },
+ {
+  "slug": "roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi",
+  "category": "Bisnis",
+  "title": "ROI [Marketing] Rendah Meski Adopsi AI Perusahaan Tinggi",
+  "deck": "Survei 114 perusahaan menunjukkan mayoritas sudah pakai data dan AI untuk pemasaran, tapi ROI marketingnya masih rendah.",
+  "image": "assets/img/roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T21:58:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465342-marketing-makin-canggih-tapi-belum-tentu-bikin-penjualan-naik-kok-bisa",
+  "tags": [
+   "marketing",
+   "roi marketing",
+   "ai marketing",
+   "cmo"
+  ],
+  "body": [
+   "Pengeluaran besar untuk pemasaran digital dan kecerdasan buatan (AI) ternyata tidak otomatis mendongkrak penjualan perusahaan. Riset Warta Ekonomi terhadap 114 perusahaan mengungkap kesenjangan itu, sekaligus menandakan tekanan baru bagi direktur pemasaran atau Chief Marketing Officer (CMO) untuk membuktikan bahwa setiap rupiah anggaran pemasaran benar-benar berdampak pada omzet.",
+   "Survei tersebut mencatat 96,49 persen perusahaan aktif menjalankan kampanye pemasaran dalam setahun terakhir, dan 86,84 persen telah memakai teknologi digital, data, dan/atau AI untuk memperkuat pengalaman pelanggan. Sebanyak 94,74 persen dinilai sudah melakukan ekspansi atau inovasi dan mendapat pengakuan eksternal atas kekuatan mereknya. Meski adopsi teknologinya tinggi, itu belum tentu membuahkan hasil finansial yang sepadan.",
+   "Sebanyak 61,11 persen perusahaan mencatat ROI pemasaran, yaitu perbandingan antara hasil penjualan tambahan dengan biaya yang dikeluarkan untuk pemasaran, masih di bawah 10 persen. Sementara itu, di antara perusahaan yang memiliki data pertumbuhan pendapatan yang bisa diverifikasi, 61,54 persen tumbuh di atas angka tengah atau median 7,4 persen. Data ini menegaskan bahwa ukuran keberhasilan pemasaran kini bukan lagi soal besar kecilnya anggaran, melainkan seberapa besar pertumbuhan tambahan yang dihasilkan dari investasi tersebut.",
+   "Ketua Umum Asosiasi Pengusaha Indonesia (APINDO) Shinta Kamdani menegaskan besarnya investasi pemasaran dan teknologi tidak otomatis memudahkan perusahaan menciptakan pertumbuhan. Menurutnya, CMO dituntut mampu membaca sinyal pasar, mengubah data menjadi wawasan, mengalokasikan sumber daya, dan mengaitkan aktivitas pemasaran dengan hasil bisnis nyata, termasuk dalam keputusan segmentasi pelanggan, pemilihan kanal, hingga portofolio produk. Ia juga mengingatkan agar AI tidak dijadikan strategi utama. \"AI bukan strategi, decision advantage adalah strateginya. AI hanyalah enabler untuk meningkatkan speed of insight, precision of targeting, prediction capability, personalization, dan decision velocity,\" katanya."
+  ],
+  "fotoAdegan": "Cashier scanning products at a busy convenience store counter while customers wait in line, urban Jakarta setting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/11/05/672a08cc96cc7-ilustrasi-kegiatan-jual-beli-barang-saat-melakukan-transaksi-uang-mirip-riba_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan besaran anggaran pemasaran, melainkan tolok ukurnya, dari sekadar besar dana yang dikeluarkan menjadi berapa penjualan tambahan yang dihasilkan dari tiap rupiah itu. Data survei ini memperlihatkan kesenjangannya, sebab 86,84 persen perusahaan sudah memakai teknologi digital, data, dan AI untuk mendekati pelanggan, tapi 61,11 persen di antaranya mencatat ROI pemasaran, yakni perbandingan hasil penjualan tambahan dengan biaya yang dikeluarkan, masih di bawah 10 persen. Yang langsung terdampak adalah direktur pemasaran atau CMO di berbagai perusahaan, karena kini mereka dituntut mempertanggungjawabkan hasil investasi teknologi itu, bukan sekadar menjalankannya. Arah yang terlihat adalah pergeseran cara menilai kinerja pemasaran dari ukuran belanja ke ukuran hasil, dan itu akan makin nyata kalau perusahaan mulai terbuka membagikan angka ROI pemasarannya atau kalau survei serupa tahun depan menunjukkan ROI membaik seiring makin lamanya pengalaman perusahaan memakai AI.",
+  "imageV": "mtq13m88"
+ },
+ {
+  "slug": "ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026",
+  "category": "Ketenagakerjaan",
+  "title": "OJK dan TASPEN [Luncurkan] Bulan Dana Pensiun 2026",
+  "deck": "OJK bersama TASPEN dan lembaga dana pensiun mencanangkan Bulan Dana Pensiun Indonesia 2026 di tiga kota untuk mendorong perencanaan pensiun sejak usia produktif.",
+  "image": "assets/img/ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T21:17:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465332-ojk-bersama-taspen-dan-lembaga-sektor-dana-pensiun-lainnya-selenggarakan-kick-off-event-bulan-dana-pensiun",
+  "tags": [
+   "TASPEN",
+   "OJK",
+   "dana pensiun",
+   "Bulan Dana Pensiun"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan bersama PT TASPEN (Persero) dan sejumlah lembaga sektor dana pensiun resmi mencanangkan Bulan Dana Pensiun Indonesia 2026. Pencanangan ditandai dengan kick off event di Area Pedestrian FX Sudirman, Jakarta, pada Minggu, 6 September 2026, dan digelar serentak di Bandung serta Semarang. Mengusung tema Muda Berkarya, Tua Bahagia, kampanye ini menyasar masyarakat usia produktif agar mulai memikirkan dana pensiun sejak masih bekerja, bukan menjelang masa kerja berakhir.",
+   "Acara pembukaan dihadiri Menteri Ketenagakerjaan Yassierli, Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Rini Widyantini, Ketua Dewan Komisioner OJK Friderica Widyasari Dewi, serta jajaran direksi TASPEN yakni Direktur Operasional Tribuna Phitera Djaja, Direktur Perencanaan dan Aktuaria Ibnu Hasyim, dan Direktur Keuangan Elamber Sinaga. Turut hadir perwakilan PT ASABRI, BPJS Ketenagakerjaan, Asosiasi Dana Pensiun Indonesia, dan Asosiasi Dana Pensiun Lembaga Keuangan. Kegiatan di Jakarta ini diikuti lebih dari 500 peserta, dengan rangkaian acara berupa senam bersama, aneka booth edukasi dari TASPEN Group, OJK, ASABRI, dan BPJS Ketenagakerjaan, talkshow bertema perencanaan pensiun, kuis, hingga pembagian doorprize.",
+   "Corporate Secretary TASPEN, Henra, mengatakan perencanaan pensiun semestinya menjadi bagian dari perencanaan hidup yang dimulai sejak usia produktif, bukan baru dipikirkan setelah masa kerja selesai. Ia menyebut persiapan yang dilakukan lebih awal memberi ruang lebih luas bagi masyarakat untuk menyusun rencana pensiun yang lebih matang, dan berharap kampanye ini mendorong masyarakat mulai menyiapkan masa depan sejak sekarang."
+  ],
+  "fotoAdegan": "A large crowd doing an outdoor group workout on a city pedestrian plaza, high-rise buildings in the background, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/06/6a9d751ce3a3b-ojk-bersama-taspen-dan-lembaga-sektor-dana-pensiun-lainnya-selenggarakan-kick-off-event-bulan-dana-pensiun_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah kampanye, bukan aturan baru: OJK dan TASPEN membuka Bulan Dana Pensiun Indonesia 2026 serentak di Jakarta, Bandung, dan Semarang, dengan sasaran mengajak masyarakat usia produktif lebih aktif menyiapkan dana pensiun. Yang langsung terkait adalah peserta program pensiun yang sudah berjalan, yaitu pegawai negeri lewat TASPEN, purnawirawan lewat ASABRI, pekerja formal lewat BPJS Ketenagakerjaan, serta nasabah dana pensiun lembaga keuangan di bawah ADPI dan ADPLK, karena merekalah yang didorong lebih memanfaatkan produk yang sudah tersedia. Berita ini belum memuat angka target kampanye, misalnya berapa peserta baru yang ingin dijaring atau seberapa rendah tingkat kepesertaan dana pensiun di Indonesia saat ini, sehingga belum bisa dibaca apakah acara ini akan mengubah kebiasaan menabung masyarakat atau berhenti sebagai seremoni tahunan. Yang perlu dipantau adalah apakah OJK merilis data cakupan atau indeks literasi dana pensiun setelah Bulan Dana Pensiun 2026 berakhir, karena itu yang akan menunjukkan apakah kampanye semacam ini benar-benar mendongkrak jumlah peserta baru.",
+  "imageV": "mtq13mrl"
+ },
+ {
   "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
   "category": "Aksi Korporasi",
   "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
@@ -27,6 +108,33 @@ var ARTICLES = [
   "fotoAdegan": "Heavy excavators loading coal onto a line of mining dump trucks at an open pit site, dusty daylight, Kalimantan landscape",
   "takeaway": "Laporan ini netral bagi HILL karena tidak ada perubahan sama sekali pada kepemilikan pengendali, direksi, maupun komisaris dibanding bulan sebelumnya. Satu-satunya pergerakan adalah berkurangnya 11 investor ritel pemegang saham di bawah 5 persen, tapi total saham yang mereka pegang dan porsi saham beredar yang bebas diperdagangkan publik, atau free float, tetap sama di 30,68 persen, sehingga struktur hak suara perusahaan tidak tersentuh. Free float ini layak dipantau karena HILL saat ini berstatus di Papan Pemantauan Khusus Bursa Efek Indonesia, dan porsi saham publik yang stabil berarti belum ada perubahan berarti pada basis pemegang saham yang bisa memengaruhi likuiditas perdagangan sahamnya. Yang perlu dicermati berikutnya adalah laporan registrasi periode September 2026, terutama apakah penyusutan jumlah investor ritel ini berlanjut dan apakah ada perkembangan terkait status HILL di papan pemantauan khusus tersebut.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung",
+  "category": "Industri",
+  "title": "Erupsi Anak Krakatau, Kerugian Penerbangan [Belum] Dihitung",
+  "deck": "Enam bandara ditutup sejak dini hari akibat erupsi Gunung Anak Krakatau. Menhub sebut kerugian maskapai belum dihitung karena fokus masih ke penumpang.",
+  "image": "assets/img/erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T18:54:33+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465306-kerugian-penerbangan-akibat-erupsi-gunung-anak-krakatau-belum-dihitung-menhub-bilang-begini",
+  "tags": [
+   "Anak Krakatau",
+   "penerbangan",
+   "Kemenhub",
+   "bandara ditutup"
+  ],
+  "body": [
+   "Erupsi Gunung Anak Krakatau memaksa otoritas menutup sementara enam bandara di Indonesia sejak dini hari Minggu, 6 September 2026. Menteri Perhubungan Dudy Purwagandhi mengatakan pemerintah belum menghitung kerugian yang ditanggung maskapai maupun pemangku kepentingan penerbangan lain akibat penutupan tersebut. Hal ini penting karena menyangkut penumpang yang tertahan dan operasional maskapai yang mendadak terganggu.",
+   "Letusan disertai semburan lava pijar terjadi pada Sabtu petang, 5 September 2026, sebelum penutupan bandara diberlakukan keesokan harinya. Dudy menjelaskan penutupan baru berjalan sejak dini hari hingga siang, sehingga maskapai dan seluruh pemangku kepentingan penerbangan masih memprioritaskan penanganan penumpang terdampak ketimbang menghitung dampak keuangan.",
+   "Kementerian Perhubungan menyatakan masih berkoordinasi dengan berbagai pihak untuk memastikan kebutuhan penumpang tetap terpenuhi selama bandara ditutup. Penghitungan dampak ekonomi pun belum menjadi fokus utama pemerintah saat ini.",
+   "Dudy menegaskan pemerintah akan terus memantau perkembangan aktivitas Gunung Anak Krakatau untuk menentukan apakah penutupan bandara perlu diperpanjang. Keselamatan penerbangan menjadi pertimbangan utama, dan penerbangan tidak akan dipaksakan kembali beroperasi sebelum kondisi ruang udara dinilai aman."
+  ],
+  "fotoAdegan": "Empty airport tarmac with a parked passenger jet under a hazy sky, distant volcanic ash plume rising above the sea horizon",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/03/19/69bbae3a94ebf-dok-keadaaan-terminal-3-bandara-soetta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah status operasional, bukan sekadar imbauan: enam bandara resmi ditutup sejak dini hari Minggu karena erupsi dan lava pijar Gunung Anak Krakatau dianggap membahayakan penerbangan. Pihak yang langsung kena adalah maskapai yang jadwalnya batal dan penumpang yang tertahan, sementara dampak ke kas perusahaan penerbangan belum bisa dihitung karena penutupan baru berjalan beberapa jam. Berita ini belum cukup untuk menyimpulkan apakah penutupan ini akan singkat atau berlarut, sebab belum disebutkan nama bandara yang ditutup maupun target waktu evaluasi ulang. Yang perlu ditunggu adalah pembaruan status aktivitas gunung dan pengumuman resmi Kemenhub soal perpanjangan atau pencabutan penutupan ruang udara pada hari-hari berikutnya.",
+  "imageV": "mtq13ncc"
  },
  {
   "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",

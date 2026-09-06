@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa",
+  "category": "UMKM",
+  "title": "Keramik Daur Ulang UMKM Surabaya [Tembus] Ekspor ke Eropa",
+  "deck": "Wakil Menteri Perdagangan Dyah Roro Esti mengunjungi UMKM keramik Lumosh Living di Surabaya yang mengolah limbah produksi jadi alat makan ekspor ke Belanda dan Spanyol.",
+  "date": "6 September 2026",
+  "image": "assets/img/keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa.jpg",
+  "imageV": "mtq13lpg",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "keramik",
+   "ekonomi sirkular"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kunjungi-lumosh-living-di-surabaya-wamendag-apresiasi-inovasi-umkm-keramik-lokal-tembus-pasar-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi",
+  "category": "Bisnis",
+  "title": "ROI [Marketing] Rendah Meski Adopsi AI Perusahaan Tinggi",
+  "deck": "Survei 114 perusahaan menunjukkan mayoritas sudah pakai data dan AI untuk pemasaran, tapi ROI marketingnya masih rendah.",
+  "date": "6 September 2026",
+  "image": "assets/img/roi-marketing-rendah-meski-adopsi-ai-perusahaan-tinggi.jpg",
+  "imageV": "mtq13m88",
+  "tags": [
+   "marketing",
+   "roi marketing",
+   "ai marketing",
+   "cmo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465342-marketing-makin-canggih-tapi-belum-tentu-bikin-penjualan-naik-kok-bisa"
+ },
+ {
+  "slug": "ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026",
+  "category": "Ketenagakerjaan",
+  "title": "OJK dan TASPEN [Luncurkan] Bulan Dana Pensiun 2026",
+  "deck": "OJK bersama TASPEN dan lembaga dana pensiun mencanangkan Bulan Dana Pensiun Indonesia 2026 di tiga kota untuk mendorong perencanaan pensiun sejak usia produktif.",
+  "date": "6 September 2026",
+  "image": "assets/img/ojk-dan-taspen-luncurkan-bulan-dana-pensiun-2026.jpg",
+  "imageV": "mtq13mrl",
+  "tags": [
+   "TASPEN",
+   "OJK",
+   "dana pensiun",
+   "Bulan Dana Pensiun"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465332-ojk-bersama-taspen-dan-lembaga-sektor-dana-pensiun-lainnya-selenggarakan-kick-off-event-bulan-dana-pensiun"
+ },
+ {
   "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
   "category": "Aksi Korporasi",
   "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
@@ -19,6 +71,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6335d073eb_fc45ce231f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung",
+  "category": "Industri",
+  "title": "Erupsi Anak Krakatau, Kerugian Penerbangan [Belum] Dihitung",
+  "deck": "Enam bandara ditutup sejak dini hari akibat erupsi Gunung Anak Krakatau. Menhub sebut kerugian maskapai belum dihitung karena fokus masih ke penumpang.",
+  "date": "6 September 2026",
+  "image": "assets/img/erupsi-anak-krakatau-kerugian-penerbangan-belum-dihitung.jpg",
+  "imageV": "mtq13ncc",
+  "tags": [
+   "Anak Krakatau",
+   "penerbangan",
+   "Kemenhub",
+   "bandara ditutup"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465306-kerugian-penerbangan-akibat-erupsi-gunung-anak-krakatau-belum-dihitung-menhub-bilang-begini"
  },
  {
   "slug": "bitcoin-tertahan-di-us-78-000-pasar-tunggu-sinyal-the-fed",
@@ -6489,70 +6558,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_8663a346-fce7-48ab-b9f3-8ef3d194dbe6-20260829152845.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "hkmu-rilis-rights-issue-dilusi-saham-lewat-hmetd-dan-waran",
-  "category": "Aksi Korporasi",
-  "title": "HKMU Rilis Rights Issue, [Dilusi] Saham Lewat HMETD dan Waran",
-  "deck": "RUPS HKMU menyetujui penambahan modal lewat HMETD dengan rasio 1:4 harga Rp1.823, disertai penerbitan waran dan obligasi wajib konversi.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HKMU",
-   "rights issue",
-   "HMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E0X3_db62d6da-bc3b-454a-b73b-6a763b5c7999-20260829152733.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kuki-catatkan-obligasi-rp1-miliar-bunga-10-persen",
-  "category": "Aksi Korporasi",
-  "title": "KUKI Catatkan [Obligasi] Rp1 Miliar Bunga 10 Persen",
-  "deck": "BEI mulai mencatatkan Obligasi KUKI 2 2026 seri A senilai Rp1 miliar dengan bunga tetap 10 persen dan rating AA dari Pefindo, mulai 29 Agustus 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KUKI",
-   "obligasi korporasi",
-   "BEI",
-   "pencatatan obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_KUKI_B011_korporasi_b2335fd2-0e32-437b-a4c0-5306dc55a4c2-20260829152631.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hkmu-ganti-komisaris-dan-direksi-kuorum-rups-cuma-23",
-  "category": "Aksi Korporasi",
-  "title": "HKMU Ganti [Komisaris] dan Direksi, Kuorum RUPS Cuma 23%",
-  "deck": "RUPS Tahunan HKMU yang dihadiri 23% pemegang saham menyetujui pergantian susunan direksi dan komisaris dengan masa jabatan yang tercatat sangat singkat di dokumen resmi.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HKMU",
-   "RUPS",
-   "Komisaris",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_HKMU_E013_15e9f9f1-db6b-4b61-8015-8d3f23b74549-20260829151921.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari",
-  "category": "Makroekonomi",
-  "title": "DPR Desak Koreksi Data Bansos [DTSEN] Maksimal 14 Hari",
-  "deck": "DPR meminta pemerintah membatasi waktu koreksi DTSEN maksimal 14 hari kerja agar status desil tak lagi jadi satu-satunya penentu penerima bansos.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/dpr-desak-koreksi-data-bansos-dtsen-maksimal-14-hari.jpg",
-  "imageV": "mtebqx85",
-  "tags": [
-   "DTSEN",
-   "bansos",
-   "DPR",
-   "desil"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463397-dpr-desak-koreksi-dtsen-maksimal-14-hari-kerja-desil-tak-boleh-jadi-hakim-tunggal-penerima-bansos"
  }
 ];

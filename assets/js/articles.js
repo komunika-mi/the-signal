@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dooh-rilis-ulang-kuartal-i-laba-usaha-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rilis Ulang Kuartal I, [Laba Usaha] Berbalik Rugi",
+  "deck": "Laporan keuangan interim kuartal I 2026 yang dikoreksi menunjukkan DOOH sebenarnya rugi usaha Rp6,01 miliar, sementara laba bersih ditopang pendapatan nonoperasional Rp10,94 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T14:36:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906145112-64368-0/FinancialStatement-2026-I-DOOH.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "Era Media Sejahtera",
+   "rugi usaha"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk (DOOH) menyampaikan koreksi atas laporan keuangan interim konsolidasian untuk periode tiga bulan yang berakhir 31 Maret 2026, lewat surat bernomor 063/SK/CORP/DOOH-BEI/IX/2026 tertanggal 6 September 2026. Laporan tidak diaudit ini ditandatangani Vicktor Aritonang selaku Direktur Utama dan Devi Nisa Suhartono selaku Direktur. Pendapatan neto kuartal I 2026 tercatat Rp30,75 miliar, nyaris flat dari Rp30,82 miliar pada periode sama 2025, namun beban pokok pendapatan naik jadi Rp23,82 miliar dari Rp19,21 miliar sehingga laba bruto tergerus jadi Rp6,93 miliar dari Rp11,61 miliar. Ditambah beban umum dan administrasi yang naik jadi Rp12,94 miliar dari Rp9,74 miliar, perseroan mencatat rugi usaha Rp6,01 miliar, berbalik dari laba usaha Rp1,87 miliar setahun sebelumnya.",
+   "Meski bisnis inti merugi, laba bersih perseroan justru naik jadi Rp4,32 miliar dari Rp1,25 miliar, dengan laba per saham dasar Rp0,98 dari Rp0,15 pada kuartal I 2025. Pendorongnya adalah pos pendapatan lain-lain neto yang melonjak jadi Rp10,94 miliar dari hanya Rp67,26 juta. Laporan perubahan ekuitas turut mencatat item bernama 'efek pelepasan entitas anak' senilai Rp1,60 miliar yang mengurangi kepentingan nonpengendali dari Rp7,32 miliar jadi Rp6,35 miliar, mengindikasikan bagian dari lonjakan laba tersebut terkait pelepasan salah satu anak perusahaan, bukan dari operasi periklanan yang menjadi bisnis utama DOOH.",
+   "Di sisi neraca, total aset turun jadi Rp311,17 miliar dari Rp345,97 miliar per akhir Desember 2025, terutama karena piutang usaha pihak ketiga yang tertagih drastis jadi Rp44,90 miliar dari Rp106,60 miliar. Total liabilitas nyaris terpangkas separuh jadi Rp56,12 miliar dari Rp97,53 miliar, setelah perseroan melunasi seluruh utang bank jangka pendek yang sebelumnya Rp8 miliar dan memangkas utang jangka panjang ke pihak berelasi jadi Rp22,69 miliar dari Rp35,37 miliar. Total ekuitas naik tipis jadi Rp255,05 miliar dari Rp248,44 miliar, dengan kas dan setara kas relatif stabil di Rp131,23 miliar dari Rp136,87 miliar."
+  ],
+  "fotoAdegan": "Wide dusk view of digital advertising screens on city building facades, blurred and unreadable, traffic streaming below.",
+  "takeaway": "Laporan koreksi ini condong negatif bagi fundamental DOOH, sebab di balik laba bersih yang naik, bisnis inti perseroan justru berbalik rugi usaha Rp6,01 miliar dari sebelumnya untung Rp1,87 miliar, tanda tekanan margin yang nyata pada kuartal I 2026. Yang menahan laba bersih tetap positif adalah pos pendapatan lain-lain senilai Rp10,94 miliar, jauh di luar kegiatan periklanan sehari-hari, sehingga kenaikan laba per saham menjadi Rp0,98 tidak mencerminkan perbaikan operasional yang bisa diandalkan berulang tiap kuartal. Pelunasan utang bank jangka pendek Rp8 miliar dan penurunan utang ke pihak berelasi memang memperbaiki posisi neraca, tapi itu ditopang oleh pengumpulan piutang usaha yang deras dari Rp106,60 miliar menjadi Rp44,90 miliar, bukan dari arus kas operasi yang membaik. Yang perlu dipantau berikutnya adalah apakah rugi usaha ini berlanjut di laporan kuartal II 2026, terutama di tengah rencana investasi ekosistem AI yang menurut paparan publik awal September 2026 masih mempertimbangkan pendanaan lewat rights issue.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pmui-perpanjang-term-sheet-penjualan-saham-grpm-ke-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PMUI [Perpanjang] Term Sheet Penjualan Saham GRPM ke Desember 2026",
+  "deck": "PMUI dan Agus Susanto sepakat memperpanjang tenggat negosiasi penjualan saham PT Graha Prima Mentari Tbk kepada PT Tunas Binatama Lestari hingga 31 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T12:07:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58e198759e_3d0812e0db.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PMUI",
+  "tags": [
+   "PMUI",
+   "GRPM",
+   "term sheet",
+   "divestasi saham"
+  ],
+  "body": [
+   "PT Prima Multi Usaha Indonesia Tbk (PMUI) mengoreksi laporan keterbukaan informasinya tertanggal 3 September 2026 dan menegaskan bahwa rencana penjualan saham PT Graha Prima Mentari Tbk (GRPM) masih berlanjut. Rencana ini pertama kali diumumkan lewat penandatanganan Term Sheet pada Februari 2026 antara PMUI bersama Agus Susanto sebagai penjual, dengan PT Tunas Binatama Lestari sebagai calon pembeli. Dalam laporan yang diteken Direktur Utama PMUI, Agus Susanto, pada 6 September 2026, disebutkan bahwa para pihak sepakat memperpanjang masa berlaku Term Sheet tersebut sampai dengan 31 Desember 2026.",
+   "Perusahaan menjelaskan bahwa perpanjangan ini dilakukan karena pembahasan dan negosiasi soal rencana transaksi penjualan saham GRPM masih berlangsung, dan tambahan waktu diberikan agar para pihak bisa menuntaskan diskusi. Menurut salinan addendum yang dilampirkan, Term Sheet awal mencakup tiga rencana sekaligus, yaitu pengambilalihan saham GRPM oleh pembeli, pembelian kembali aset dan bisnis oleh pihak penjual, serta injeksi aset dan bisnis dari pembeli. Seluruh ketentuan dalam Term Sheet lama tetap berlaku sampai akhir tahun ini, kecuali jika para pihak sepakat mengubahnya secara tertulis.",
+   "Addendum itu juga mencantumkan klausul batas waktu yang tegas: jika sampai 31 Desember 2026 rencana transaksi penjualan saham GRPM belum terlaksana, Term Sheet akan berakhir dengan sendirinya. PMUI menyatakan bahwa informasi perpanjangan ini belum berdampak material terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan saat ini."
+  ],
+  "fotoAdegan": "Two business delegations shaking hands across a conference table in a small Indonesian office, documents blurred, soft morning light through windows.",
+  "takeaway": "Laporan ini netral bagi PMUI karena isinya hanya memperpanjang jangka waktu negosiasi, bukan menyelesaikan atau membatalkan rencana penjualan saham GRPM, dan tidak ada nilai transaksi atau jumlah saham baru yang diungkapkan. Kalau transaksi ini nanti benar terjadi, pos yang tersentuh adalah ekuitas dan arus kas PMUI karena perusahaan akan melepas kepemilikan di GRPM sekaligus menerima aset dari pembeli sesuai skema Term Sheet, sementara Term Sheet sendiri cuma perjanjian awal yang memuat garis besar kesepakatan sebelum kontrak final diteken, jadi belum mengikat penuh. Yang perlu dipantau adalah tenggat baru pada 31 Desember 2026, sebab addendum ini menegaskan bahwa jika sampai tanggal itu transaksi belum tuntas, Term Sheet otomatis berakhir dan rencana penjualan saham GRPM bisa buyar begitu saja.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "flmc-ekuitas-negatif-rp2-59-miliar-rugi-naik-8-kali-lipat",
   "category": "Aksi Korporasi",
   "title": "FLMC: Ekuitas [Negatif] Rp2,59 Miliar, Rugi Naik 8 Kali Lipat",
@@ -2032,6 +2084,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Exterior of a modern pharmaceutical distribution warehouse with delivery trucks parked at loading docks, daytime",
   "takeaway": "Perubahan ini kami nilai netral bagi fundamental SOHO, karena sifatnya murni penyesuaian struktur pengawasan menyusul rotasi direksi dan komisaris yang sudah diumumkan sebelumnya, bukan sinyal masalah kinerja atau sengketa internal. Komite Nominasi dan Remunerasi tidak menyentuh pos keuangan seperti ekuitas atau arus kas, tugasnya mengawasi proses pengangkatan dan penetapan gaji direksi serta komisaris, sehingga pelaku pasar biasanya membacanya sebagai indikator tata kelola perusahaan, bukan angka bisnis. Yang perlu dicermati, Ketua komite yang baru, Steven Hairul Tjhoea, baru menjabat Komisaris Independen sejak 31 Agustus 2026, sehingga efektivitas pengawasannya baru bisa dinilai setelah komite ini berjalan beberapa bulan ke depan. Masa jabatan seluruh anggota komite baru ini berlaku sampai 18 Juni 2030 mengikuti sisa periode pejabat yang digantikan, sehingga tidak ada tenggat atau agenda RUPSLB baru yang muncul dari perubahan ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inkp-pertahankan-rating-ida-siapkan-obligasi-baru-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Pertahankan Rating [idA+], Siapkan Obligasi Baru Rp3,5 Triliun",
+  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk obligasi lama INKP senilai Rp3,5 triliun dan mengonfirmasi rating sama untuk tahap baru obligasi serta sukuk senilai total Rp3,5 triliun plus US$25 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "4 September 2026",
+  "isoDate": "2026-09-04T15:30:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a461885_7e39e9a75b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "PEFINDO",
+   "obligasi",
+   "pemeringkatan"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper (INKP) melaporkan hasil pemeringkatan tahunan dari PEFINDO. Obligasi Berkelanjutan I INKP Tahap I Seri A Tahun 2020, yang terbagi dalam enam seri jatuh tempo 2029 dan 2031 termasuk dua seri syariah, dengan total pokok sekitar Rp3,5 triliun, dipertahankan pada peringkat idA+ (Single A Plus) dengan outlook stabil. Peringkat ini berlaku untuk periode 12 Desember 2025 sampai 1 Desember 2026, dihitung berdasarkan laporan keuangan audit INKP per 30 September 2025. PEFINDO menjelaskan bahwa peringkat idA menandakan kemampuan emiten membayar utang jangka panjang dinilai kuat dibanding emiten lain di Indonesia, meski lebih rentan terhadap perubahan kondisi ekonomi buruk dibanding emiten dengan peringkat lebih tinggi.",
+   "Selain itu, PEFINDO menerbitkan surat penegasan bernomor RTG-296/PEF-DIR/VIII/2026 tertanggal 13 Agustus 2026 yang mengonfirmasi peringkat idA+ berlaku juga untuk tiga instrumen baru: Obligasi Berkelanjutan VI Tahap III senilai maksimum Rp2 triliun, Obligasi USD Berkelanjutan III Tahap II senilai maksimum US$25 juta, dan Sukuk Mudharabah Berkelanjutan V Tahap III senilai maksimum Rp1,5 triliun yang mendapat peringkat idA+(sy). Ketiga instrumen ini merupakan bagian dari program penawaran umum berkelanjutan yang jauh lebih besar, dengan total plafon rencana masing-masing mencapai Rp10 triliun untuk obligasi rupiah, US$100 juta untuk obligasi dolar, dan Rp10 triliun untuk sukuk. Surat penegasan ini sekaligus membatalkan surat penegasan sebelumnya nomor RTG-274/PEF-DIR/VII/2026 tertanggal 28 Juli 2026.",
+   "Laporan yang ditandatangani Corporate Secretary INKP, Heri Santoso, pada 4 September 2026 ini juga mencantumkan salinan sertifikat pemeringkatan asli PEFINDO nomor RC-1499, RC-1500, dan RC-1501 yang seluruhnya diterbitkan 12 Desember 2025 dan berlaku sampai 1 Desember 2026."
+  ],
+  "fotoAdegan": "Forklift moving large rolls of paper stock across a warehouse floor inside an Indonesian pulp and paper mill, morning light",
+  "takeaway": "Laporan ini netral bagi INKP karena PEFINDO hanya menegaskan ulang peringkat idA+ dengan outlook stabil, persis sama dengan periode sebelumnya, sehingga tidak ada perubahan penilaian risiko kredit perusahaan. Pos yang tersentuh adalah beban bunga dan kapasitas utang: rating yang dipertahankan berarti biaya pinjaman INKP untuk obligasi dan sukuk barunya kemungkinan tidak berubah signifikan, sementara plafon total program yang mencapai Rp10 triliun untuk obligasi rupiah, Rp10 triliun untuk sukuk, dan US$100 juta untuk obligasi dolar menunjukkan perusahaan masih punya ruang besar menambah utang baru secara bertahap ke depan. Yang perlu dipantau adalah realisasi tahap-tahap berikutnya dari plafon besar ini serta tinjauan ulang peringkat oleh PEFINDO sebelum periode saat ini berakhir pada 1 Desember 2026, karena penurunan peringkat atau outlook pada titik itu akan langsung berdampak pada biaya pendanaan perusahaan.",
   "sentimen": "netral"
  },
  {

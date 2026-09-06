@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dooh-rilis-ulang-kuartal-i-laba-usaha-berbalik-rugi",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Rilis Ulang Kuartal I, [Laba Usaha] Berbalik Rugi",
+  "deck": "Laporan keuangan interim kuartal I 2026 yang dikoreksi menunjukkan DOOH sebenarnya rugi usaha Rp6,01 miliar, sementara laba bersih ditopang pendapatan nonoperasional Rp10,94 miliar.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "laporan keuangan",
+   "Era Media Sejahtera",
+   "rugi usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906145112-64368-0/FinancialStatement-2026-I-DOOH.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pmui-perpanjang-term-sheet-penjualan-saham-grpm-ke-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "PMUI [Perpanjang] Term Sheet Penjualan Saham GRPM ke Desember 2026",
+  "deck": "PMUI dan Agus Susanto sepakat memperpanjang tenggat negosiasi penjualan saham PT Graha Prima Mentari Tbk kepada PT Tunas Binatama Lestari hingga 31 Desember 2026.",
+  "date": "6 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PMUI",
+   "GRPM",
+   "term sheet",
+   "divestasi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58e198759e_3d0812e0db.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "flmc-ekuitas-negatif-rp2-59-miliar-rugi-naik-8-kali-lipat",
   "category": "Aksi Korporasi",
   "title": "FLMC: Ekuitas [Negatif] Rp2,59 Miliar, Rugi Naik 8 Kali Lipat",
@@ -1257,6 +1289,22 @@ var ARTICLES = [
    "tata kelola perusahaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0989eb759b_a7a8d8d60d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inkp-pertahankan-rating-ida-siapkan-obligasi-baru-rp3-5-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INKP Pertahankan Rating [idA+], Siapkan Obligasi Baru Rp3,5 Triliun",
+  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk obligasi lama INKP senilai Rp3,5 triliun dan mengonfirmasi rating sama untuk tahap baru obligasi serta sukuk senilai total Rp3,5 triliun plus US$25 juta.",
+  "date": "4 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "PEFINDO",
+   "obligasi",
+   "pemeringkatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a461885_7e39e9a75b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6511,53 +6559,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/beri-kuliah-umum-di-unidsoe-banyuwangi-mendag-busan-ajak-mahasiswa-coba-berwirausaha",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "adro-bukukan-laba-us-329-juta-liabilitas-naik-48",
-  "category": "Aksi Korporasi",
-  "title": "ADRO Bukukan Laba US$329 Juta, [Liabilitas] Naik 48%",
-  "deck": "Laba bersih Alamtri Resources melonjak 69 persen jadi US$329 juta pada semester I 2026, sementara liabilitas naik 48 persen untuk mendanai proyek smelter aluminium.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADRO",
-   "Alamtri Resources",
-   "laporan keuangan",
-   "smelter aluminium"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829110426-64311-0/FinancialStatement-2026-II-ADRO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aali-pengendali-baru-rampungkan-tender-wajib-kuasai-67",
-  "category": "Aksi Korporasi",
-  "title": "AALI: Pengendali Baru Rampungkan [Tender] Wajib, Kuasai 67%",
-  "deck": "Pengendali baru Astra Agro Lestari menyerap 2,31 miliar saham dari target 12,34 miliar lewat tender wajib, menaikkan kepemilikannya jadi 67 persen.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AALI",
-   "tender wajib",
-   "pengendali saham",
-   "Astra Agro Lestari"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_AALI_E010_950d3115-f1c0-4fe1-9b53-8ab1786059ab-20260829103018.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oils-laba-semester-i-melonjak-7-kali-lipat-jadi-rp21-4-m",
-  "category": "Aksi Korporasi",
-  "title": "OILS: Laba Semester I [Melonjak 7 Kali Lipat] jadi Rp21,4 M",
-  "deck": "Laba PT Indo Oil Perkasa Tbk naik hampir tujuh kali lipat menjadi Rp21,48 miliar pada semester I 2026, didukung penjualan yang tumbuh 56 persen.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OILS",
-   "laporan keuangan",
-   "laba bersih",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829103655-64261-0/FinancialStatement-2026-II-OILS.pdf",
-  "sourceLabel": "IDX"
  }
 ];

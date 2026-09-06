@@ -84,6 +84,32 @@ var ARTICLES = [
   "imageV": "mtq13mrl"
  },
  {
+  "slug": "pegadaian-rayakan-hari-pelanggan-lewat-tring",
+  "category": "BUMN",
+  "title": "Pegadaian Rayakan Hari Pelanggan Lewat [Tring!]",
+  "deck": "Pegadaian menggelar makan malam apresiasi untuk nasabah prioritas di Hari Pelanggan Nasional, sambil mempromosikan platform digital Tring! untuk layanan emas dan gadai.",
+  "image": "assets/img/pegadaian-rayakan-hari-pelanggan-lewat-tring.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T20:22:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465321-hari-pelanggan-nasional-pegadaian-hadirkan-an-evening-with-pegadaian-dan-semangat-tenang-saja-bersama-tring",
+  "tags": [
+   "Pegadaian",
+   "Tring!",
+   "Hari Pelanggan Nasional",
+   "BUMN"
+  ],
+  "body": [
+   "PT Pegadaian (Persero) menggelar acara makan malam bertajuk \"An Evening with Pegadaian: Celebrating Our Valued Customer\" di Pegadaian Tower Jakarta pada Jumat, 4 September 2026, sebagai bagian dari peringatan Hari Pelanggan Nasional. Acara ini ditujukan khusus untuk nasabah terpilih dan prioritas dari berbagai wilayah Indonesia, sekaligus menjadi ajang perusahaan mendengar langsung pengalaman mereka menggunakan layanan Pegadaian.",
+   "Dalam acara tersebut, Pegadaian mengangkat tema \"Tenang Saja\" yang melekat pada Tring!, platform digital perusahaan untuk mengakses layanan emas dan gadai dalam satu aplikasi. Wakil Direktur Utama Pegadaian, Budi Wahju Soesilo, menyebut kepercayaan nasabah sebagai bagian penting perjalanan perusahaan dan menjadi alasan Pegadaian terus menghadirkan layanan yang relevan dengan kebutuhan masyarakat.",
+   "Direktur Pemasaran, Penjualan dan Pengembangan Produk Pegadaian, Selfie Dewiyanti, menjelaskan bahwa Tring! dirancang agar nasabah lebih mudah mengakses solusi Pegadaian, baik untuk kebutuhan mendesak, membeli emas, maupun merencanakan keuangan masa depan. Menurutnya, semangat \"Tenang Saja\" adalah cara Pegadaian menyampaikan bahwa masyarakat punya pilihan layanan yang praktis tanpa harus repot."
+  ],
+  "fotoAdegan": "Customer service counter at a pawnshop with gold jewelry being weighed on a scale, warm evening interior lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/06/6a9d6861ae93f-pegadaian-menggelar-intimate-dinner-bertajuk-an-evening-with-pegadaian-celebrating-our-valued-customer_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret dari acara ini adalah dorongan Pegadaian mengarahkan nasabah loyalnya untuk beralih ke Tring!, aplikasi yang menyatukan layanan emas dan gadai dalam satu platform digital. Pihak yang paling terdampak adalah nasabah prioritas Pegadaian yang diundang langsung, serta pengguna layanan gadai dan emas secara umum jika dorongan digitalisasi ini diperluas ke basis nasabah yang lebih luas. Rilis ini tidak menyertakan angka konkret seperti jumlah pengguna Tring!, volume transaksi, atau target adopsi, sehingga belum bisa dipastikan apakah ini sekadar acara seremonial atau bagian dari pergeseran nyata strategi bisnis Pegadaian ke kanal digital. Yang perlu dipantau adalah laporan kinerja Pegadaian berikutnya, khususnya data kontribusi transaksi digital terhadap bisnis gadai dan emas perusahaan.",
+  "imageV": "mtqbtcrj"
+ },
+ {
   "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
   "category": "Aksi Korporasi",
   "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",

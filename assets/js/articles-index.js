@@ -57,6 +57,23 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465332-ojk-bersama-taspen-dan-lembaga-sektor-dana-pensiun-lainnya-selenggarakan-kick-off-event-bulan-dana-pensiun"
  },
  {
+  "slug": "pegadaian-rayakan-hari-pelanggan-lewat-tring",
+  "category": "BUMN",
+  "title": "Pegadaian Rayakan Hari Pelanggan Lewat [Tring!]",
+  "deck": "Pegadaian menggelar makan malam apresiasi untuk nasabah prioritas di Hari Pelanggan Nasional, sambil mempromosikan platform digital Tring! untuk layanan emas dan gadai.",
+  "date": "6 September 2026",
+  "image": "assets/img/pegadaian-rayakan-hari-pelanggan-lewat-tring.jpg",
+  "imageV": "mtqbtcrj",
+  "tags": [
+   "Pegadaian",
+   "Tring!",
+   "Hari Pelanggan Nasional",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465321-hari-pelanggan-nasional-pegadaian-hadirkan-an-evening-with-pegadaian-dan-semangat-tenang-saja-bersama-tring"
+ },
+ {
   "slug": "hill-pemegang-saham-stabil-free-float-tetap-30-68",
   "category": "Aksi Korporasi",
   "title": "HILL: Pemegang Saham Stabil, [Free Float] Tetap 30,68%",
@@ -6542,21 +6559,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463400-kur-kdkmp-jangan-asal-cair-dpr-tegaskan-pengurus-kopdes-merah-putih-wajib-lolos-slik-ojk"
- },
- {
-  "slug": "xiif-bagikan-dividen-tunai-kik-cum-dividen-hari-ini",
-  "category": "Aksi Korporasi",
-  "title": "XIIF Bagikan [Dividen] Tunai KIK, Cum Dividen Hari Ini",
-  "deck": "Pengelola KIK XIIF mengumumkan dividen tunai maksimum Rp81.723 per unit penyertaan, dengan pembayaran dijadwalkan 3 September 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "XIIF",
-   "dividen",
-   "KIK",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_XIIF_E045_2f52d145-7fdd-4539-bda9-574adfab9dbd-20260829153852.pdf",
-  "sourceLabel": "IDX"
  }
 ];

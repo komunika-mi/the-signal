@@ -1,56 +1,56 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-08-30",
+ "tanggal": "2026-09-06",
  "rentang": {
-  "mulai": "2026-08-24",
-  "selesai": "2026-08-30"
+  "mulai": "2026-08-31",
+  "selesai": "2026-09-06"
  },
- "rentangLabel": "24 Agustus - 30 Agustus 2026",
- "judul": "BUMN Karya Melebar ke Pos Indonesia, Bursa dari Tegur ke Delisting",
- "ringkas": "Sepekan ini menegaskan dua arah yang menguat sejak Senin: distres utang BUMN karya tidak mereda, malah merembet dari ADHI dan PTPP ke WIKA dan akhirnya Pos Indonesia, sementara Bursa Efek Indonesia terus menaikkan level responsnya dari surat teguran rutin sampai delisting paksa satu emiten. Di sisi lain, klaim awal pekan bahwa tekanan kredit masih terkurung di sektor konstruksi pelat merah mulai terbantah begitu sinyal serupa muncul di emiten migas, pelayaran, dan pembayaran digital menjelang akhir pekan.",
+ "rentangLabel": "31 Agustus - 6 September 2026",
+ "judul": "Rupiah Berbalik Menguat, Retak Neraca Emiten Kecil Meluas",
+ "ringkas": "Pekan ini dibuka dengan tekanan dolar dan risiko geopolitik yang sempat menekan rupiah, tapi arahnya berbalik ketika modal asing deras masuk dan mendorong rupiah serta IHSG menguat hingga akhir pekan. Di saat sama, retak kas dan solvabilitas emiten kecil yang mulai terlihat di awal pekan meluas menjadi opini auditor yang eksplisit meragukan kelangsungan usaha beberapa perusahaan pada akhir pekan. Penataan likuiditas yang dimulai otoritas juga mulai terasa di angka margin bank besar.",
  "pola": [
   {
-   "judul": "Distres BUMN Karya Menajam, Merembet ke Pos Indonesia",
-   "isi": "Rentetan sepekan menunjukkan tekanan utang BUMN konstruksi terus menajam sekaligus melebar ke luar sektor karya. Senin, ADHI disuspensi BEI di seluruh pasar setelah gagal membayar bunga ke-17 obligasi seri B dan C senilai Rp60,8 miliar yang jatuh tempo 24 Agustus, sementara PTPP memanggil RUPSLB 15 September untuk restrukturisasi lewat Master Restructuring Agreement. Selasa, RUPO ADHI gagal mencapai kuorum sehingga rapat lanjutan digeser ke 11 September. Rabu, WIKA memanggil pemegang sukuk ke empat RUPSU berbeda pada 9-15 September sekaligus memohon pengesampingan gagal bayar bagi hasil ke-14, sementara BEI mengoreksi jadwal kupon ADHI yang justru menumpuk dua kewajiban ke tanggal yang sama. Kamis, Pefindo memangkas peringkat utang PTPP dari idBBB+ ke idBB dengan status pengawasan negatif. Menutup pekan, laporan keuangan WIKA mengonfirmasi ekuitas anjlok ke Rp130 miliar dengan rugi Rp1,55 triliun semester I, dan Pos Indonesia resmi mengajukan permintaan restrukturisasi serta waiver ke pemegang sukuknya, tanda tekanan ini mulai menjalar dari konstruksi ke logistik pelat merah. Arah pekan depan akan ditentukan oleh hasil RUPO dan RUPSU PTPP awal September serta RUPSU sukuk Pos Indonesia pada 4 September, yang menentukan apakah restrukturisasi berjalan tertib atau berujung gagal bayar resmi."
+   "judul": "Rupiah dan IHSG Berbalik Menguat Ditopang Modal Asing",
+   "isi": "Senin, sinyal Ketua The Fed Kevin Warsh yang membuka peluang kenaikan suku bunga serta lonjakan harga minyak akibat serangan AS ke Iran di Selat Hormuz sempat melemahkan rupiah 0,32 persen ke Rp17.750, dengan Brent naik ke US$90,32 per barel. Selasa, arah berbalik ketika modal asing yang masuk mencapai Rp140,6 triliun hingga 28 Agustus, yield SBN 10 tahun turun dari puncaknya 7,39 persen ke sekitar 7 persen, IHSG naik 1,14 persen ke 6.599,94, dan rupiah menguat ke Rp17.722. Data resmi menjelang akhir pekan mengonfirmasi arah ini bertahan, rupiah di Rp17.633 per dolar AS, lebih kuat dibanding awal pekan, dan IHSG di 6.636,48, meski pada pencatatan terakhir sempat turun tipis 0,47 persen dalam sehari. Pemicu pembalikan itu adalah derasnya modal asing dan turunnya yield SBN, bukan redanya risiko dari sisi The Fed atau Hormuz yang mewarnai awal pekan. Yang akan menguji apakah penguatan ini bertahan adalah keputusan suku bunga acuan Bank Indonesia pertengahan September serta data inflasi AS menjelang rapat FOMC."
   },
   {
-   "judul": "Bursa Naik Level dari Tegur ke Delisting Nyata",
-   "isi": "Sepanjang pekan, Bursa Efek Indonesia konsisten menaikkan level respons atas pergerakan saham tak wajar, dari sekadar meminta penjelasan menjadi sanksi konkret. Senin, enam emiten menjawab surat volatilitas dengan jawaban serupa, tidak ada informasi material, sementara REFI menerima Peringatan Tertulis I karena telat menyampaikan laporan keuangan dan GTBO masuk Papan Pemantauan Khusus. Rabu dan Kamis pola berulang, empat emiten lain menjawab surat serupa, CSMI dan YPAS diwajibkan menggelar public expose insidentil 28 Agustus, DOOH diminta public expose 4 September, dan BKDP masuk Papan Pemantauan Khusus mulai 28 Agustus. Jumat giliran SAFE ditegur setelah harganya melonjak 24,87 persen dalam sehari, sementara IHSG bertahan di rentang sempit dan ditutup pekan di 6.518,12. Puncaknya, BEI resmi mendelisting paksa saham SPUSF pada 29 Agustus atas perintah OJK, langkah yang jauh lebih tegas dibanding sekadar surat teguran di awal pekan. Arahnya jelas menguat ke pengawasan yang lebih ketat, dan yang akan mengujinya adalah public expose DOOH pada 4 September serta apakah REFI menepati janji merampungkan laporan keuangannya sebelum tenggat 30 September agar tidak naik ke Peringatan Tertulis II."
+   "judul": "Retak Kas Emiten Kecil Meluas ke Opini Going Concern",
+   "isi": "Senin, TAMA dan CASH sudah mencatat ekuitas negatif akibat rugi dan koreksi laporan keuangan. Kamis dan Jumat pola ini meluas ke BLOG, HEAL, TGRA, INCF, PEVE, dan BATR, dengan auditor secara eksplisit menyoroti kelangsungan usaha TGRA yang ekuitasnya anjlok 83 persen menjadi Rp51,4 miliar dan INCF yang gagal memenuhi rasio utang ke BCA dengan utang bank Rp253,35 miliar. Pola ini tidak berhenti di hari kerja terakhir, akhir pekan MKNT dilaporkan diragukan auditor soal kelangsungan usaha dengan kas nyaris habis, FLMC mencatat ekuitas minus Rp2,59 miliar dengan rugi naik hampir delapan kali lipat, dan TGRA kembali mengoreksi laporan dengan kas anjlok 90 persen. Arahnya konsisten menguat sepanjang pekan, dari kasus tersebar di berbagai sektor menjadi opini auditor eksplisit soal going concern di makin banyak emiten kecil. Yang akan menentukan apakah pola ini mereda atau terus meluas adalah apakah INCF dan PEVE mendapat suntikan dana atau restrukturisasi utang sebelum laporan kuartal III terbit, serta apakah Bursa Efek Indonesia menindaklanjuti emiten lain yang sudah diminta penjelasan seperti KMDS dan LIFE."
   },
   {
-   "judul": "Klaim Kredit Aman Awal Pekan Mulai Terbantah",
-   "isi": "Senin, edisi harian sempat mencatat bahwa tekanan utang masih terkonsentrasi di BUMN karya sementara kredit korporasi lain berjalan normal, seperti kredit modal kerja Rp80 miliar untuk Batavia Prosperindo dari CIMB Niaga, tambahan fasilitas ASSA jadi Rp100 miliar, dan afirmasi peringkat AAA Fitch untuk tujuh obligasi Astra Sedaya senilai Rp4,78 triliun. Namun sinyal itu mulai terbantah pada Kamis, ketika arus kas operasi AGAR anjlok 57,3 persen meski laba positif, aset EMAS tumbuh 30 persen namun ditopang utang bank baru US$149 juta yang sebelumnya nol, dan BBRM membatalkan kontrak kapal senilai US$22 juta karena gagal memenuhi syarat jaminan. Jumat memperlihatkan pola yang makin terbelah, TUFI dan OLIV membaik lewat pelunasan obligasi dan penurunan utang ke pemegang saham pengendali, sementara defisit ekuitas Capitalinc Investment melebar dari Rp538,7 miliar menjadi Rp564,9 miliar akibat kenaikan biaya bahan baku. Menutup pekan, Cashlez melaporkan rugi bersih melonjak ke Rp37,8 miliar dengan ekuitas yang kini negatif. Rangkaian ini menunjukkan tekanan arus kas tidak lagi murni soal BUMN karya, meski polanya masih tampak kasus per kasus ketimbang tren makro tunggal, dan laporan keuangan kuartal III yang terbit Oktober-November akan menegaskan apakah ini benar meluas atau tetap terbatas."
+   "judul": "Tekanan Margin Bank Mulai Terlihat di Angka Nyata",
+   "isi": "Kamis, Bank Indonesia menaikkan batas insentif KLM dari 5,5 persen ke 6,0 persen dari dana pihak ketiga, menyusul penyerapan insentif lama yang sudah mencapai Rp446,5 triliun, sementara BI dan Kementerian Keuangan memastikan jadwal tetap penempatan dan penarikan dana pemerintah di bank Himbara. Jumat, dampaknya mulai terlihat di angka bank individual, laba bersih BBCA semester I 2026 naik hanya 1,8 persen menjadi Rp29,5 triliun padahal kredit dan aset tumbuh dua kali lebih cepat, membuat margin bunga bersih menyusut ke 5,3 persen, sementara Bank Jatim mencatat laba konsolidasi grup melonjak 53 persen tapi aset dan simpanan nasabah di entitas induknya sendiri justru menyusut. Arahnya mengarah ke tekanan pendanaan yang mulai meluas di sektor perbankan, bukan sekadar isu satu bank. Yang akan menguatkan atau mematahkan pola ini adalah data pertumbuhan kredit dan dana pihak ketiga perbankan nasional pada rilis Bank Indonesia berikutnya, serta paparan publik bank-bank besar pada pekan depan."
   }
  ],
  "menanti": [
   {
-   "tanggal": "2026-09-01",
-   "apa": "Tenggat gaji 31.000 karyawan Pos Indonesia",
-   "kenapa": "Menguji apakah tagihan Kemensos yang menunggak benar cair tepat waktu, atau proses administratif kembali menunda pembayaran seperti pola yang disorot pekan ini."
+   "tanggal": "2026-09-09",
+   "apa": "RUPSU sukuk WIKA Tahap I, disusul Tahap II 10 September",
+   "kenapa": "Menentukan apakah pemegang sukuk menyetujui penundaan jatuh tempo di tengah ekuitas WIKA yang sudah anjlok ke sekitar Rp130 miliar, penanda apakah tekanan utang BUMN karya mereda atau menjalar ke instrumen berikutnya."
   },
   {
-   "tanggal": "2026-09-01",
-   "apa": "Hasil RUPO dan RUPSU obligasi-sukuk PTPP setelah rating anjlok ke idBB",
-   "kenapa": "Menentukan apakah restrukturisasi utang PTPP yang sudah menjalar ke banyak instrumen berjalan tertib atau berujung gagal bayar resmi."
+   "tanggal": "2026-09-08",
+   "apa": "Public expose BLOG usai ekspansi 16 lokasi cold storage",
+   "kenapa": "Menguji klaim redaksi pekan lalu bahwa lokasi baru BLOG belum berkontribusi penuh ke pendapatan sementara liabilitasnya sudah naik 24 persen, jawaban manajemen akan menunjukkan apakah tekanan neraca ekspansi mereda atau berlanjut."
   },
   {
-   "tanggal": "2026-09-01 (perkiraan)",
-   "apa": "Rilis inflasi Agustus dari BPS",
-   "kenapa": "Angka ini ikut menentukan ruang gerak rupiah yang diproyeksikan melebar ke Rp17.600-17.900 pekan depan, sekaligus sinyal daya beli bagi pelaku usaha."
+   "tanggal": "2026-09-09",
+   "apa": "Public expose BBCA dan BBNI semester I 2026",
+   "kenapa": "Jadi ukuran apakah tekanan margin bunga bersih yang mulai terlihat di BBCA pekan ini adalah gejala yang lebih luas di sektor perbankan atau sekadar kasus satu bank, sekaligus indikasi arah biaya kredit bagi pelaku usaha."
   },
   {
-   "tanggal": "2026-09-04",
-   "apa": "Hasil RUPSU sukuk Pos Indonesia soal restrukturisasi dan waiver",
-   "kenapa": "Jadi penanda apakah tekanan utang BUMN benar melebar dari konstruksi ke sektor logistik pelat merah."
+   "tanggal": "2026-09-09",
+   "apa": "Public expose insidentil LIFE usai diminta Bursa Efek",
+   "kenapa": "Menagih tindak lanjut bursa terhadap emiten yang diminta penjelasan soal kualitas laporan keuangan, hasilnya menunjukkan apakah pengawasan atas pola retak neraca emiten kecil pekan ini makin ketat."
   },
   {
-   "tanggal": "2026-09-04",
-   "apa": "Public expose insidentil DOOH",
-   "kenapa": "Akan menunjukkan apakah lonjakan saham yang memicu deretan teguran BEI pekan ini murni arus jual beli jangka pendek atau ada informasi fundamental yang belum terungkap."
+   "tanggal": "2026-09-07",
+   "apa": "RUPS independen MGLV soal rights issue Rp2,4 triliun",
+   "kenapa": "Menentukan apakah pemegang saham menyetujui pendanaan lewat rights issue dan pinjaman Rp4 triliun dari NDC di tengah rencana divestasi 13 anak usaha, arah yang memengaruhi struktur utang perusahaan ke depan."
   }
  ],
- "penutup": "Hasil pemungutan suara pemegang obligasi dan sukuk PTPP serta Pos Indonesia awal September menjadi penentu utama, apakah rentetan restrukturisasi BUMN pekan ini berakhir tertib atau meningkat jadi gagal bayar resmi di lebih banyak instrumen.",
- "jumlahEdisi": 5,
- "jumlahBerita": 219,
- "dibuat": "2026-08-30T15:57:54.023Z"
+ "penutup": "Arah pekan depan akan banyak ditentukan oleh apakah pemegang sukuk WIKA menyetujui penundaan pembayaran dan apakah public expose bank-bank besar mengonfirmasi tekanan margin yang mulai terlihat pekan ini, dua penanda yang akan menunjukkan apakah tekanan neraca yang muncul pekan ini mereda atau menjalar lebih jauh.",
+ "jumlahEdisi": 4,
+ "jumlahBerita": 369,
+ "dibuat": "2026-09-06T15:36:18.503Z"
 };

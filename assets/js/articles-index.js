@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-dunia-diproyeksi-volatil-pekan-depan",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Dunia Diproyeksi [Volatil] Pekan Depan",
+  "deck": "Analis memperkirakan emas dunia bergerak di US$4.276-US$4.668 per troy ons, dan emas batangan domestik di Rp2,5 juta-Rp2,754 juta per gram pekan depan.",
+  "date": "6 September 2026",
+  "image": "assets/img/harga-emas-dunia-diproyeksi-volatil-pekan-depan.jpg",
+  "imageV": "mtpex89x",
+  "tags": [
+   "harga emas",
+   "emas dunia",
+   "logam mulia",
+   "geopolitik Timur Tengah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465182-harga-emas-dunia-dan-logam-mulia-diprediksi-turun-pada-perdagangan-pekan-depan"
+ },
+ {
   "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
   "category": "Aksi Korporasi",
   "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
@@ -6541,22 +6558,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829103655-64261-0/FinancialStatement-2026-II-OILS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dire-bagikan-dividen-tunai-final-cum-dividen-29-agustus",
-  "category": "Aksi Korporasi",
-  "title": "DIRE bagikan [dividen] tunai final, cum dividen 29 Agustus",
-  "deck": "DIRE mengumumkan distribusi dividen tunai final dengan tanggal cum dividen 29 Agustus dan pembayaran dijadwalkan 2 September 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DIRE",
-   "dividen",
-   "dana investasi real estat",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_DIRE_E062_9199cfd3-ac94-4fd6-9e28-3836041df10e-20260829095433.pdf",
   "sourceLabel": "IDX"
  }
 ];

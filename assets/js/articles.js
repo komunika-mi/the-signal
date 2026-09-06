@@ -55,6 +55,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "harga-emas-dunia-diproyeksi-volatil-pekan-depan",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Dunia Diproyeksi [Volatil] Pekan Depan",
+  "deck": "Analis memperkirakan emas dunia bergerak di US$4.276-US$4.668 per troy ons, dan emas batangan domestik di Rp2,5 juta-Rp2,754 juta per gram pekan depan.",
+  "image": "assets/img/harga-emas-dunia-diproyeksi-volatil-pekan-depan.jpg",
+  "date": "6 September 2026",
+  "isoDate": "2026-09-06T09:44:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465182-harga-emas-dunia-dan-logam-mulia-diprediksi-turun-pada-perdagangan-pekan-depan",
+  "tags": [
+   "harga emas",
+   "emas dunia",
+   "logam mulia",
+   "geopolitik Timur Tengah"
+  ],
+  "body": [
+   "Pengamat mata uang dan komoditas Ibrahim Assuaibi memperkirakan harga emas dunia pekan depan akan bergerak dalam rentang US$4.276 hingga US$4.668 per troy ons, satuan berat standar yang lazim dipakai untuk memperdagangkan emas dan logam mulia lain. Proyeksi ini penting bagi siapa saja yang berencana membeli atau menjual emas dalam waktu dekat, karena menunjukkan seberapa jauh harga bisa bergerak dari posisi penutupan Jumat (4/9/2026) di US$4.431 per troy ons.",
+   "Ibrahim menjabarkan level-level teknikal yang menjadi acuannya. Jika harga tertekan, batas pertama yang perlu diperhatikan ada di US$4.393, dan jika tekanan jual berlanjut, harga berpotensi turun lebih dalam ke US$4.276 per troy ons. Sebaliknya, jika harga emas menguat, batas atas pertama diperkirakan US$4.518, dengan potensi lanjutan ke US$4.668 per troy ons.",
+   "Pergerakan emas dunia biasanya diikuti oleh harga emas batangan di dalam negeri. Setelah ditutup di Rp2.634.000 per gram pada Sabtu (5/9/2026), logam mulia diperkirakan bisa bergerak antara Rp2.500.000 hingga Rp2.754.000 per gram pekan depan, selisih Rp254.000 per gram yang oleh Ibrahim disebut cukup lebar dan mencerminkan ketidakpastian pasar yang masih tinggi.",
+   "Ibrahim mengaitkan lebarnya rentang harga ini dengan ketegangan geopolitik di Timur Tengah yang belum mereda. Situasi tersebut ikut mengerek harga minyak dunia, yang kemudian merembet ke harga bahan bakar di Amerika Serikat, dengan harga gasolin kini rata-rata US$5,85 per galon."
+  ],
+  "fotoAdegan": "Close-up of stacked small gold bars and ingots on a velvet-lined display counter inside a bullion trading shop, soft lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2021/06/08/60bea51d7439b-harga-emas-telah-melonjak-ke-rekor-tertinggi_tvonenews_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disampaikan di sini adalah proyeksi teknikal mingguan dari analis pasar, bukan kebijakan pemerintah: emas dunia diproyeksikan bisa bergerak antara US$4.276 sampai US$4.668 per troy ons, dan emas batangan domestik antara Rp2.500.000 sampai Rp2.754.000 per gram, dengan selisih Rp254.000 yang oleh analisnya sendiri disebut cukup lebar. Rentang selebar itu paling relevan bagi orang yang berencana membeli atau menjual emas fisik pekan ini, karena kapan transaksi dilakukan bisa memengaruhi harga yang didapat. Ibrahim mengaitkan lebarnya rentang ini dengan ketegangan di Timur Tengah yang belum mereda, yang sudah mendorong harga minyak dunia dan membuat harga bahan bakar di Amerika Serikat naik ke rata-rata US$5,85 per galon, sebab emas biasanya jadi tempat berlindung dana ketika situasi geopolitik memanas. Yang paling layak dipantau pekan depan karena itu bukan angka emasnya sendiri, melainkan perkembangan konflik Timur Tengah dan pergerakan harga minyak dunia, sebab keduanya adalah variabel yang menurut analis ini paling menentukan lebar-sempitnya pergerakan harga emas berikutnya.",
+  "imageV": "mtpex89x"
+ },
+ {
   "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
   "category": "Aksi Korporasi",
   "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",

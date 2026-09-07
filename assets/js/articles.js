@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
+  "category": "Energi",
+  "title": "Usai Erupsi 25 Jam, Anak Krakatau Tetap Level [Siaga]",
+  "deck": "PVMBG memastikan status Siaga Gunung Anak Krakatau tetap berlaku usai episode erupsi menerus 25 jam berhenti, dengan potensi letusan susulan masih tinggi.",
+  "image": "assets/img/usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T01:02:21.510Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-terus-dipantau-pvmbg-pastikan-status-siaga-tetap-berlaku-usai-erupsi-menerus-25-jam",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Gunung Anak Krakatau",
+   "PVMBG",
+   "Status Siaga",
+   "Selat Sunda"
+  ],
+  "body": [
+   "Gunung Anak Krakatau di Selat Sunda kembali jadi sorotan setelah mengalami erupsi menerus selama sekitar 25 jam, dari Jumat malam, 4 September 2026, hingga dini hari Minggu, 6 September 2026. Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) di bawah Badan Geologi Kementerian ESDM memastikan episode erupsi panjang itu sudah berhenti, namun status aktivitas gunung tetap dipertahankan di Level III atau Siaga. Ini penting bagi warga di sekitar Selat Sunda, termasuk pesisir Banten dan Lampung, karena status itu membawa sejumlah pembatasan aktivitas dan menjadi acuan resmi di tengah beredarnya kabar simpang siur soal potensi tsunami.",
+   "Menurut Kepala PVMBG Siti Sumilah Rita Susilawati, rekaman instrumental menunjukkan getaran erupsi menerus mulai terekam pukul 23.07 WIB pada 4 September dan baru berhenti pukul 00.04 WIB pada 6 September. Setelah itu, tercatat satu kali erupsi susulan bertipe strombolian, yakni letusan eksplosif pendek, pada pukul 03.53 WIB yang berlangsung sekitar 30 detik, dan letusan inilah yang untuk sementara dianggap menandai berakhirnya rangkaian erupsi menerus tersebut. Selama masa pengamatan itu, kamera pemantau menangkap kolom erupsi berwarna merah menyala pada malam hari serta kepulan abu kehitaman yang membubung tinggi pada siang hari.",
+   "Data instrumental turut memberi gambaran arah aktivitas gunung setelah erupsi menerus berakhir. Ukuran energi getaran vulkanik sempat naik pada 5 September lalu menurun pada 6 September, sementara alat pengukur perubahan bentuk tubuh gunung di Stasiun Tanjung masih mencatat tanda mengembang sejak awal Agustus 2026, tanda yang lazim dikaitkan dengan tekanan magma yang terus terbentuk. PVMBG menilai potensi letusan susulan masih tergolong tinggi, dengan bahaya lontaran batu pijar, hujan abu lebat, hingga kemungkinan aliran lava bila erupsi menerus terulang, sehingga masyarakat, wisatawan, dan pendaki diminta tidak beraktivitas dalam radius 3 kilometer dari pusat letusan.",
+   "PVMBG juga meminta warga pesisir Banten dan Lampung tetap tenang dan tidak mempercayai informasi hoaks soal potensi tsunami akibat erupsi ini, sembari tetap menjalankan aktivitas normal mengikuti arahan BPBD setempat. Status Level III dan seluruh rekomendasinya akan tetap berlaku sampai ada hasil evaluasi berkala berikutnya, dan masyarakat disarankan memantau perkembangan melalui aplikasi Magma Indonesia atau situs resmi Badan Geologi."
+  ],
+  "fotoAdegan": "A volcanic island venting a dark ash plume over a calm strait, small wooden fishing boats anchored near a rocky coastline at dusk",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-aktivitas-anak-krakatau-terus-dipantau-pvmbg-pastikan-status-siaga-tetap-berlaku-usai-erupsi-menerus-25-jam-wkequzi.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah bukan status gunungnya, karena Level III Siaga tetap sama, melainkan konfirmasi bahwa episode erupsi menerus 25 jam itu sudah berhenti. Yang terdampak langsung adalah warga, wisatawan, dan pendaki yang dilarang beraktivitas dalam radius 3 kilometer dari kawah, serta warga pesisir Banten dan Lampung yang jadi sasaran utama imbauan agar tidak termakan kabar bohong soal tsunami. Sinyal yang layak dicermati ada pada alat pengukur perubahan bentuk tubuh gunung di Stasiun Tanjung, yang sejak awal Agustus terus menunjukkan tanda mengembang, biasanya pertanda tekanan magma yang masih terbentuk di bawah permukaan. Selama tren mengembang ini belum berbalik turun, arahnya lebih ke status Siaga yang bertahan lama ketimbang segera diturunkan, dan itu akan terkonfirmasi lewat laporan evaluasi berkala PVMBG berikutnya.",
+  "imageV": "mtqjnz0q"
+ },
+ {
   "slug": "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
   "category": "Aksi Korporasi",
   "title": "BUMI [Akuisisi] Loyal Metals Rp1 Triliun via Anak Usaha Australia",

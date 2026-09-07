@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
+  "category": "Energi",
+  "title": "Usai Erupsi 25 Jam, Anak Krakatau Tetap Level [Siaga]",
+  "deck": "PVMBG memastikan status Siaga Gunung Anak Krakatau tetap berlaku usai episode erupsi menerus 25 jam berhenti, dengan potensi letusan susulan masih tinggi.",
+  "date": "7 September 2026",
+  "image": "assets/img/usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga.jpg",
+  "imageV": "mtqjnz0q",
+  "tags": [
+   "Gunung Anak Krakatau",
+   "PVMBG",
+   "Status Siaga",
+   "Selat Sunda"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/aktivitas-anak-krakatau-terus-dipantau-pvmbg-pastikan-status-siaga-tetap-berlaku-usai-erupsi-menerus-25-jam",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
   "category": "Aksi Korporasi",
   "title": "BUMI [Akuisisi] Loyal Metals Rp1 Triliun via Anak Usaha Australia",
@@ -6542,22 +6560,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_SPUSF_B006_0c8e56df-0554-4aae-82f1-78deee6b59e6-20260829174954.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ojk-usul-kepemilikan-asing-asuransi-naik-ke-99",
-  "category": "Bisnis",
-  "title": "OJK Usul Kepemilikan Asing Asuransi Naik ke [99%]",
-  "deck": "OJK mengusulkan batas kepemilikan asing di perusahaan asuransi naik dari 80 persen menjadi 99 persen agar modalnya lebih kuat menanggung risiko besar, menyamakan aturan dengan perbankan.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/ojk-usul-kepemilikan-asing-asuransi-naik-ke-99.jpg",
-  "imageV": "mtebqvfo",
-  "tags": [
-   "OJK",
-   "asuransi",
-   "kepemilikan asing",
-   "modal asuransi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463412-ojk-dorong-kepemilikan-asing-di-asuransi-jadi-99-ini-alasan-di-balik-usulannya"
  }
 ];

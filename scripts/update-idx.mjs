@@ -10,8 +10,51 @@ import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 import { pastikanFotoArtikel } from './foto-artikel.mjs';
 
-const TARGET = Number(process.env.IDX_TARGET || 8);      // aksi korporasi per putaran
+// TARGET SEKARANG MENGIKUTI TUNGGAKAN, tidak lagi dipaku di 8.
+//
+// Sebabnya bukan ambisi volume, melainkan pengukuran: LEBIH DARI SEPARUH
+// putaran terjadwal tidak pernah dibuat GitHub. Dihitung 7 September 2026
+// untuk 1-7 September, idx.yml menjadwalkan 78 putaran dan yang benar-benar
+// terjadi 34 (44%); daily.yml 37 dari 78. Nol di antaranya berstatus
+// cancelled - entri putarannya memang tidak pernah ada.
+//
+// Dua dugaan lama sudah GUGUR, diperiksa hari itu juga:
+//   - Bukan kuota Actions. Repo ini sekarang PUBLIK, dan timing API menjawab
+//     billable.UBUNTU.total_ms = 0 untuk putaran berdurasi 19,5 menit.
+//   - Bukan rebutan grup concurrency. Dari 37 slot daily yang hilang, 37-nya
+//     terjadi saat TIDAK ADA putaran lain yang sedang jalan.
+//
+// Jadi putaran yang hilang tidak bisa dikejar dengan mengatur jadwal. Yang
+// bisa dikejar HASILNYA: putaran yang berhasil jalan mengambil sisa
+// tunggakan, bukan tetap delapan seolah-olah jedanya masih dua jam.
+//
+// Terlihat langsung di log empat putaran terakhir - kandidat segar sesudah
+// dedup: 21, 3, 2, 2. Yang 21 itu putaran pertama sesudah jeda semalam, dan
+// dengan batas 8 ia membuang 13 laporan yang sudah siap.
+//
+// Yang benar-benar menahan bukan angka ini, melainkan waktu, dan itu dijaga
+// BATAS_MENIT di bawah.
+const TARGET = Number(process.env.IDX_TARGET || 8);          // lantai, bukan langit-langit
+const TARGET_MAKS = Number(process.env.IDX_TARGET_MAKS || 22);
 const MAKS_KANDIDAT = Number(process.env.IDX_KANDIDAT || 25);
+
+// PAGAR WAKTU DI DALAM SKRIP, bukan cuma di workflow.
+//
+// Sebelum ini update-idx.mjs sama sekali tidak punya batas waktu sendiri:
+// satu-satunya penahan adalah timeout-minutes langkahnya. Kalau pagar itu
+// yang kena, langkahnya DITEBAS di tengah jalan dan SELURUH hasil putaran
+// hilang - nol artikel tersimpan, karena penulisan berkas baru terjadi
+// sesudah loop. Sudah terjadi 5 September 2026 pada menit 22,7.
+//
+// Dengan batas di dalam skrip, putaran yang kehabisan waktu berhenti menulis
+// artikel BARU lalu tetap lanjut menyimpan, membangun, dan commit apa yang
+// sudah jadi. Sisanya diambil putaran berikutnya.
+//
+// 18 menit terhadap pagar langkah 30: menyisakan 12 menit untuk foto artikel,
+// build-pages, dan commit, yang bersama-sama terukur 5-8 menit.
+const BATAS_MENIT = Number(process.env.IDX_MENIT || 18);
+const MULAI = Date.now();
+const lewatBatas = () => (Date.now() - MULAI) > BATAS_MENIT * 60000;
 // TIDAK ADA LAGI PEMANGKASAN ARSIP.
 //
 // Dulu di sini ada .slice(0, MAKS_ARSIP) yang membuang artikel tertua tiap
@@ -120,11 +163,25 @@ async function main() {
 
   log('kandidat setelah buang yang sudah ada: ' + kandidat.length);
 
+  // Sasaran putaran ini mengikuti tunggakan yang benar-benar ada, dibatasi
+  // TARGET_MAKS. Kalau kandidatnya cuma dua, ya dua; kalau menumpuk 21 karena
+  // putaran sebelumnya tidak pernah dibuat, ambil sebanyak yang muat.
+  const sasaran = Math.min(TARGET_MAKS, Math.max(TARGET, kandidat.length));
+  if (sasaran > TARGET) {
+    log('tunggakan ' + kandidat.length + ' kandidat, sasaran putaran ini dinaikkan ' +
+      TARGET + ' -> ' + sasaran + ' (batas atas ' + TARGET_MAKS + ')');
+  }
+
   const baru = [];
   let gagalError = 0, ditolak = 0, dilewatiDokumen = 0, errorTerakhir = '';
+  let dipotongWaktu = false;
 
   for (const k of kandidat) {
-    if (baru.length >= TARGET) break;
+    if (baru.length >= sasaran) break;
+    // Diperiksa SEBELUM laporan berikutnya dibaca, bukan sesudah: satu
+    // laporan bisa makan beberapa menit (unduh PDF, OCR, panggil Claude),
+    // dan memulainya saat waktu hampir habis berarti membuangnya percuma.
+    if (lewatBatas()) { dipotongWaktu = true; break; }
     try {
       // Baca isi PDF-nya. Kalau GAGAL, laporan ini DILEWATI, bukan ditulis
       // tipis dari judul saja.
@@ -223,6 +280,17 @@ async function main() {
       errorTerakhir = e.message.slice(0, 200);
       log('  GAGAL: ' + (k.emiten || '----') + ' -> ' + e.message.slice(0, 70));
     }
+  }
+
+  // Dibedakan dari "kandidatnya memang habis", persis seperti di update-all:
+  // yang satu keadaan normal, yang satu menyisakan tunggakan, dan pembaca log
+  // perlu tahu bedanya sebelum menyimpulkan sumbernya sepi.
+  if (dipotongWaktu) {
+    log('BATAS WAKTU: putaran dipotong di menit ' + BATAS_MENIT + ' dengan ' +
+      baru.length + ' laporan SUDAH DISIMPAN. Sisanya diambil putaran berikutnya.');
+  } else if (baru.length >= sasaran && kandidat.length > sasaran) {
+    log('CATATAN: sasaran ' + sasaran + ' tercapai, masih ada ' +
+      (kandidat.length - sasaran) + ' kandidat menunggu putaran berikutnya.');
   }
 
   // Jangan biarkan kegagalan teknis lolos jadi "sukses" (lihat catatan di update-all.mjs)

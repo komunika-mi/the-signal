@@ -522,11 +522,79 @@ function ambilLewatCurl(url, timeoutDetik = 30) {
   ]);
 }
 
+// Jawaban dianggap sah hanya kalau statusnya 2xx DAN badannya berisi. Halaman
+// blokir WAF juga punya badan (diukur 7 September 2026: bumn.go.id, bappenas,
+// dan kppu semuanya membalas 403 dengan badan 5,6-5,9 KB), jadi panjang badan
+// sendirian tidak pernah cukup jadi bukti berhasil.
+const curlBerhasil = (r) => r && r.status >= 200 && r.status < 300 &&
+  r.badan && r.badan.length > 500;
+
+// SITUS DENGAN RANTAI SERTIFIKAT RUSAK.
+//
+// Daftar ini SENGAJA berisi nama host satu per satu, bukan pola. Isinya
+// keputusan keamanan kecil yang harus tetap terlihat: untuk host di sini,
+// dan HANYA untuk host di sini, verifikasi sertifikat dilewati sebagai
+// USAHA TERAKHIR sesudah semua cara normal gagal.
+//
+// Kenapa perlu. Diukur di runner GitHub 7 September 2026 lewat
+// scripts/probe-gov.mjs, enam strategi per host:
+//
+//   ekon.go.id    fetch Node, curl biasa, --ipv4, --http1.1, header peramban
+//                 penuh: SEMUA gagal menyambung. curl -k: 200, 40.039 byte.
+//   bkpm.go.id    sama persis. curl -k: 200, 252.979 byte.
+//
+// Dari koneksi rumah kedua situs itu normal, jadi bukan situsnya yang mati -
+// rantai sertifikatnya tidak lengkap dan hanya toko sertifikat tertentu yang
+// memaafkannya.
+//
+// Risikonya, dan kenapa tetap dianggap sepadan: tanpa verifikasi, isi yang
+// diambil bisa dipalsukan pihak yang menguasai jalur jaringan, lalu terbit
+// seolah-olah siaran pers resmi. Yang diambil di sini siaran pers PUBLIK,
+// bukan kredensial dan bukan data pribadi, dan jalurnya runner GitHub ke
+// server kementerian. Kalau pemilik situs menilai itu tidak sepadan,
+// KOSONGKAN saja Set ini: kedua kanal kembali diam, tidak ada yang lain
+// terpengaruh.
+const HOST_TLS_RUSAK = new Set(['ekon.go.id', 'bkpm.go.id']);
+
+function bolehAbaiTLS(url) {
+  try { return HOST_TLS_RUSAK.has(new URL(url).hostname.replace(/^www\./, '')); }
+  catch { return false; }
+}
+
+function ambilAbaiTLS(url, timeoutDetik) {
+  return curlBerstatus(url, timeoutDetik, [
+    '-sLk',
+    '-H', 'Accept: text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+    '-H', 'Accept-Language: id-ID,id;q=0.9,en;q=0.8',
+  ]);
+}
+
 export async function get(url, { timeout = 25000, headers = {} } = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeout);
+  const detik = Math.ceil(timeout / 1000) + 5;
   try {
-    const r = await fetch(url, { signal: ctrl.signal, headers: { 'User-Agent': UA, ...headers } });
+    let r;
+    try {
+      r = await fetch(url, { signal: ctrl.signal, headers: { 'User-Agent': UA, ...headers } });
+    } catch (e) {
+      // KONEKSI GAGAL SEBELUM ADA STATUS, dan sampai 7 September 2026 itu
+      // berarti langsung menyerah: cadangan curl di bawah cuma dipicu oleh
+      // r.status === 403, sedangkan fetch yang MELEMPAR tidak punya status
+      // untuk diperiksa. Jadi seluruh kelas kegagalan ini tidak pernah
+      // mendapat kesempatan kedua.
+      //
+      // Terukur pada KSEI di runner hari itu: fetch Node "fetch failed",
+      // curl dengan header yang sama persis 200 dengan 202.620 byte. Kanal
+      // itu memang kadang jalan kadang tidak, dan inilah sebabnya.
+      const lewatCurl = ambilLewatCurl(url, detik);
+      if (curlBerhasil(lewatCurl)) return lewatCurl.badan;
+      if (bolehAbaiTLS(url)) {
+        const abai = ambilAbaiTLS(url, detik);
+        if (curlBerhasil(abai)) return abai.badan;
+      }
+      throw e;
+    }
 
     // HTTP 403 dicoba ulang lewat curl sebelum menyerah.
     //
@@ -540,13 +608,14 @@ export async function get(url, { timeout = 25000, headers = {} } = {}) {
     // lewat peramban.
     if (r.status === 403) {
       try {
-        const lewatCurl = ambilLewatCurl(url, Math.ceil(timeout / 1000) + 5);
         // Syaratnya status 2xx, BUKAN sekadar "badannya panjang". Sebelumnya
         // panjang > 500 dianggap cukup, dan halaman blokir 4.544 byte lolos
         // mentah-mentah lalu diserahkan ke pemanggil seolah-olah isi artikel.
-        if (lewatCurl.status >= 200 && lewatCurl.status < 300 &&
-            lewatCurl.badan && lewatCurl.badan.length > 500) {
-          return lewatCurl.badan;
+        const lewatCurl = ambilLewatCurl(url, detik);
+        if (curlBerhasil(lewatCurl)) return lewatCurl.badan;
+        if (bolehAbaiTLS(url)) {
+          const abai = ambilAbaiTLS(url, detik);
+          if (curlBerhasil(abai)) return abai.badan;
         }
       } catch { /* jatuh ke error 403 asli di bawah */ }
     }

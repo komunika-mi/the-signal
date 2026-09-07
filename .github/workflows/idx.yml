@@ -59,7 +59,13 @@ jobs:
     # langkahnya, dan itu persis keadaan yang ingin dihindari: job yang
     # ditebas berakhir "cancelled" tanpa email, sedangkan langkah yang
     # ditebas berakhir "failure" yang mengirim email.
-    timeout-minutes: 45
+    #
+    # 45 -> 62 pada 7 September 2026, mengikuti pagar langkah ambil yang naik
+    # 22 -> 30. DIHITUNG ULANG, jangan percaya deretan angka di komentar lama:
+    # 6 (npm) + 2 (selaras) + 10 (alat) + 30 (ambil) + 2 (IndexNow) = 50.
+    # Sisa 12 menit untuk langkah tak berpagar: checkout, setup-node, periksa
+    # hasil, commit. Sebelum kenaikan ini selisihnya cuma 3 menit.
+    timeout-minutes: 62
 
     steps:
       - uses: actions/checkout@v4
@@ -131,7 +137,18 @@ jobs:
         # Dipagari sendiri supaya kalau ia menggantung, yang mati langkahnya
         # dan run jadi MERAH (pemilik dapat email), bukan seluruh job yang
         # ditebas jatah waktunya dan berakhir "cancelled" tanpa kabar.
-        timeout-minutes: 22
+        #
+        # 22 -> 30 pada 7 September 2026. Bukan karena langkahnya melambat,
+        # tapi karena sasarannya kini mengikuti tunggakan (lihat catatan
+        # panjang di scripts/update-idx.mjs). Dengan batas lama 8 laporan,
+        # dua belas putaran terakhir tercatat median 14,1 menit dan maksimum
+        # 21,2 - hanya 0,8 menit dari pagarnya, dan satu putaran memang sudah
+        # gagal di 22,7 menit pada 5 September.
+        #
+        # Yang menahan sebenarnya sekarang BATAS_MENIT=18 di dalam skrip.
+        # Pagar 30 ini tinggal jaring pengaman: skrip berhenti menulis di
+        # menit 18, lalu 12 menit sisanya untuk foto, build, dan commit.
+        timeout-minutes: 30
         run: npm run update:idx
 
       - name: Periksa hasil sebelum commit

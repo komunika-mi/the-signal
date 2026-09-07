@@ -22,6 +22,34 @@
 //   OJK     - membalas 699 byte, diblokir
 //   Setkab  - 7,6 KB tanpa isi
 //   Kemenkeu- punya sitemap tapi isinya halaman profil, bukan berita
+//
+// ---------------------------------------------------------------------------
+// LIMA KANAL DI BAWAH DIBLOKIR DARI RUNNER GITHUB, BUKAN DARI MANA-MANA.
+//
+// Ini penting dibedakan, karena dari mesin pemilik situs kelimanya membalas
+// 200 dan mengembalikan siaran pers segar. Menguji ulang dari laptop akan
+// bilang "tidak ada masalah", dan itu kesimpulan yang salah.
+//
+// Diukur di runner 7 September 2026 oleh scripts/probe-gov.mjs, enam strategi
+// per host (fetch Node, curl biasa, --ipv4, --http1.1, header peramban penuh,
+// dan -k):
+//
+//   bumn.go.id       403 pada keenam-enamnya, badan 5,7 KB (halaman blokir)
+//   bappenas.go.id   403 pada keenam-enamnya, badan 5,7 KB
+//   kppu.go.id       403 pada keenam-enamnya, badan 5,7 KB
+//   pu.go.id         403 pada keenam-enamnya, badan 134 byte
+//   bulog.co.id      koneksi gagal pada keenam-enamnya
+//
+// Badan 403 yang seragam 5,6-5,9 KB di tiga host berbeda itu tanda WAF yang
+// sama, dan penyaringnya alamat IP, bukan header. Tidak ada header, versi
+// HTTP, atau opsi TLS yang bisa menembusnya. Menembusnya butuh keluar dari
+// rentang IP GitHub, misalnya lewat proxy, dan itu keputusan pemilik situs
+// karena menyangkut layanan pihak ketiga dan kredensialnya.
+//
+// Entrinya SENGAJA dibiarkan terpasang: kalau blokirnya dicabut, kanalnya
+// hidup sendiri tanpa ada yang perlu ingat menambahkannya lagi. Ongkosnya
+// kecil karena keempat yang 403 menjawab di bawah satu detik.
+// ---------------------------------------------------------------------------
 import { get, getJSON, retry, stripTags, log, cariFotoUtama, dijalankanLangsung } from './lib.mjs';
 
 const SUMBER = [

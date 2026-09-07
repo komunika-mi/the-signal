@@ -32,3 +32,16 @@ jobs:
       - name: Uji tiap kanal dengan beberapa strategi
         timeout-minutes: 8
         run: node scripts/probe-gov.mjs
+
+      # Menguji JALUR SEBENARNYA, bukan cuma strategi HTTP-nya. Probe di atas
+      # menjawab "strategi mana yang lolos"; langkah ini menjawab "apakah
+      # get() di lib.mjs benar-benar memakai strategi itu dan menghasilkan
+      # kandidat". Dua pertanyaan berbeda, dan yang kedua yang menentukan
+      # apakah artikelnya terbit.
+      #
+      # if: always() supaya tetap jalan walau probe di atas merah - keduanya
+      # mengukur hal berbeda dan tidak saling menggantikan.
+      - name: Jalankan fetch-gov.mjs sungguhan
+        if: always()
+        timeout-minutes: 8
+        run: node scripts/fetch-gov.mjs

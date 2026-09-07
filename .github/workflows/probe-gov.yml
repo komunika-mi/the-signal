@@ -1,0 +1,34 @@
+name: Probe kanal lembaga
+
+# Alat ukur, bukan bagian penerbitan. Tidak menulis apa pun, tidak commit,
+# tidak menyentuh situs. Hanya dijalankan tangan (workflow_dispatch).
+#
+# Tujuannya menjawab satu pertanyaan yang TIDAK BISA dijawab dari mesin
+# pemilik situs: tujuh kanal lembaga gagal di runner GitHub tapi berhasil dari
+# koneksi rumah, jadi strategi pengambilan mana yang lolos HARUS diukur di
+# tempat ia gagal. Alasan lengkapnya di scripts/probe-gov.mjs.
+#
+# TIDAK punya jadwal cron dengan sengaja: kanal terjadwal di repo ini sudah
+# padat, dan pengukuran sekali jalan tidak perlu ikut berebut.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Tanpa npm ci: probe ini cuma memakai fetch bawaan Node dan curl.
+      - name: Uji tiap kanal dengan beberapa strategi
+        timeout-minutes: 8
+        run: node scripts/probe-gov.mjs

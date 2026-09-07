@@ -587,11 +587,29 @@ export async function get(url, { timeout = 25000, headers = {} } = {}) {
       // Terukur pada KSEI di runner hari itu: fetch Node "fetch failed",
       // curl dengan header yang sama persis 200 dengan 202.620 byte. Kanal
       // itu memang kadang jalan kadang tidak, dan inilah sebabnya.
-      const lewatCurl = ambilLewatCurl(url, detik);
-      if (curlBerhasil(lewatCurl)) return lewatCurl.badan;
-      if (bolehAbaiTLS(url)) {
-        const abai = ambilAbaiTLS(url, detik);
-        if (curlBerhasil(abai)) return abai.badan;
+      //
+      // TIAP percobaan dibungkus try-nya SENDIRI, dan itu bukan kehati-hatian
+      // berlebihan. curlBerstatus() memakai execFileSync, yang MELEMPAR kalau
+      // curl keluar dengan kode bukan nol - dan kegagalan TLS memang keluar
+      // dengan kode 60, bukan mengembalikan status HTTP. Versi pertama
+      // perbaikan ini memanggil keduanya tanpa pembungkus, jadi lemparan curl
+      // pertama kabur keluar dan percobaan -k tidak pernah dijalankan.
+      // Terlihat di runner 7 September 2026: ekon.go.id dan bkpm.go.id tetap
+      // gagal dengan pesan "Command failed: curl ..." padahal probe sudah
+      // membuktikan -k berhasil untuk keduanya.
+      //
+      // Jatah waktunya dipendekkan jadi 15 detik, bukan mengikuti timeout
+      // penuh. Kalau host-nya masih hidup, curl menyambung cepat (KSEI
+      // menarik 202 KB tanpa menunggu lama); kalau mati, memberi 35 detik
+      // per percobaan cuma memindahkan kemacetan. Bulog yang memang diblokir
+      // tercatat memakan 2 menit 23 detik sendirian pada percobaan pertama.
+      const cepat = Math.min(detik, 15);
+      for (const coba of [() => ambilLewatCurl(url, cepat),
+                          ...(bolehAbaiTLS(url) ? [() => ambilAbaiTLS(url, cepat)] : [])]) {
+        try {
+          const hasil = coba();
+          if (curlBerhasil(hasil)) return hasil.badan;
+        } catch { /* lanjut ke percobaan berikutnya */ }
       }
       throw e;
     }
@@ -607,17 +625,20 @@ export async function get(url, { timeout = 25000, headers = {} } = {}) {
     // artikelnya jatuh ke ilustrasi, padahal halamannya bisa dibaca siapa pun
     // lewat peramban.
     if (r.status === 403) {
-      try {
-        // Syaratnya status 2xx, BUKAN sekadar "badannya panjang". Sebelumnya
-        // panjang > 500 dianggap cukup, dan halaman blokir 4.544 byte lolos
-        // mentah-mentah lalu diserahkan ke pemanggil seolah-olah isi artikel.
-        const lewatCurl = ambilLewatCurl(url, detik);
-        if (curlBerhasil(lewatCurl)) return lewatCurl.badan;
-        if (bolehAbaiTLS(url)) {
-          const abai = ambilAbaiTLS(url, detik);
-          if (curlBerhasil(abai)) return abai.badan;
-        }
-      } catch { /* jatuh ke error 403 asli di bawah */ }
+      // Syaratnya status 2xx, BUKAN sekadar "badannya panjang". Sebelumnya
+      // panjang > 500 dianggap cukup, dan halaman blokir 4.544 byte lolos
+      // mentah-mentah lalu diserahkan ke pemanggil seolah-olah isi artikel.
+      //
+      // Dibungkus per percobaan, alasannya sama dengan di jalur koneksi gagal
+      // di atas: satu try untuk keduanya berarti lemparan curl pertama
+      // membatalkan percobaan kedua.
+      for (const coba of [() => ambilLewatCurl(url, detik),
+                          ...(bolehAbaiTLS(url) ? [() => ambilAbaiTLS(url, detik)] : [])]) {
+        try {
+          const hasil = coba();
+          if (curlBerhasil(hasil)) return hasil.badan;
+        } catch { /* jatuh ke error 403 asli di bawah */ }
+      }
     }
 
     if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + url);

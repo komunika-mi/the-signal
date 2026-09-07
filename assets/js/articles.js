@@ -3,6 +3,144 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",
+  "category": "Industri",
+  "title": "Uji Lab Sebut 90 Persen Beras Fortifikasi [Melanggar]",
+  "deck": "Kementerian Pertanian menemukan sekitar 90 persen sampel beras berlabel fortifikasi tak sesuai klaim gizinya, dengan selisih harga capai Rp22.000 per kilogram dari beras biasa.",
+  "image": "assets/img/uji-lab-sebut-90-persen-beras-fortifikasi-melanggar.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:12:02.781Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8122",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "beras fortifikasi",
+   "Kementerian Pertanian",
+   "harga pangan",
+   "perlindungan konsumen"
+  ],
+  "body": [
+   "Menteri Pertanian Andi Amran Sulaiman mengungkapkan hasil uji laboratorium terhadap sejumlah merek beras yang diklaim diperkaya vitamin dan mineral tambahan, atau dikenal sebagai beras fortifikasi. Dari sampel yang diperiksa, sekitar 90 persen ditemukan tidak memenuhi kandungan yang dijanjikan pada labelnya. Temuan ini penting bagi konsumen karena beras berlabel fortifikasi biasanya dijual jauh lebih mahal dengan alasan nilai gizi tambahan tersebut.",
+   "Amran menyebut selisih harga antara beras fortifikasi dan beras biasa bisa mencapai Rp20.000 hingga Rp22.000 per kilogram. Menurutnya, jika kandungan tambahan yang dijanjikan ternyata tidak ada, selisih harga sebesar itu bukan lagi keuntungan wajar melainkan merugikan konsumen. Ia juga menilai persoalan ini turut menjadi salah satu pendorong kenaikan harga pangan. Kementerian Pertanian menyatakan masih mendalami temuan tersebut, termasuk memastikan merek mana saja yang bermasalah.",
+   "Koalisi Fortifikasi Indonesia (KFI) menyampaikan pandangan soal manfaat program fortifikasi beras. Direktur Yayasan Kegizian Pengembangan Fortifikasi Pangan Indonesia, Nina Sardjunani, menyebut fortifikasi sebagai cara yang efektif dan murah untuk memenuhi kebutuhan zat gizi mikro masyarakat, mengingat beras dikonsumsi oleh mayoritas penduduk Indonesia. Kekurangan zat gizi mikro, menurutnya, dapat memicu anemia hingga menurunkan produktivitas dan kecerdasan anak. KFI memperkirakan tambahan biaya fortifikasi hanya sekitar Rp1.000 per kilogram, atau rata-rata Rp15.900 per orang per tahun.",
+   "Kementerian Pertanian menegaskan bahwa pengawasan terhadap beras fortifikasi bukan dimaksudkan untuk menghambat industri, melainkan memastikan produk yang benar-benar sesuai standar tetap punya ruang berkembang, sementara konsumen terlindungi dari klaim yang menyesatkan."
+  ],
+  "fotoAdegan": "Close-up of a scoop of white rice grains containing a few visibly different pale kernels at a market stall, natural light",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8122",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah di sini adalah temuan uji laboratorium Kementerian Pertanian yang menyebut sekitar 90 persen sampel beras berlabel fortifikasi tidak memenuhi klaim kandungan gizi tambahannya, dengan selisih harga terhadap beras biasa yang disebut Menteri Pertanian bisa mencapai Rp20.000 sampai Rp22.000 per kilogram. Yang kena dampak adalah konsumen yang selama ini membayar lebih mahal untuk beras yang diklaim mengandung vitamin tambahan padahal kandungannya tidak sesuai janji, sekaligus produsen beras fortifikasi yang benar-benar memenuhi standar dan ikut terseret nama baiknya. Kementerian Pertanian sendiri mengaku masih mendalami temuan ini, belum menyebut merek mana saja yang bermasalah, dan belum ada kepastian soal sanksi atau penarikan produk dari pasaran. Arah kebijakan ini baru bisa dibaca lebih jelas setelah pemerintah mengumumkan hasil pendalaman tersebut, termasuk apakah akan ada daftar merek yang ditindak atau sekadar imbauan kepada konsumen.",
+  "imageV": "mtqurstx"
+ },
+ {
+  "slug": "60-persen-angkatan-kerja-ri-berada-di-sektor-informal",
+  "category": "Ketenagakerjaan",
+  "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
+  "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:12:01.145Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-60-persen-angkatan-kerja-bekerja-di-sektor-informal-perlindungan-hari-tua-jadi-perhatian",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "dana pensiun",
+   "sektor informal",
+   "OJK",
+   "Kemnaker"
+  ],
+  "body": [
+   "Menteri Ketenagakerjaan Yassierli menghadiri sekaligus mendukung acara Kick-Off dan Pencanangan Bulan Dana Pensiun 2026 yang digelar Otoritas Jasa Keuangan (OJK) di Jakarta, Minggu (6/9/2026). Ia mengaitkan acara tersebut dengan upaya pemerintah memperluas perlindungan sosial bagi seluruh angkatan kerja, termasuk jutaan pekerja yang selama ini belum tersentuh jaminan hari tua.",
+   "Yassierli mengatakan sekitar 60 persen dari 155 juta angkatan kerja Indonesia saat ini bekerja di sektor informal, kelompok yang umumnya tidak mendapat jaminan pensiun dari tempat kerja. Ia menyebut kondisi itu jadi perhatian pemerintah, karena setiap warga negara berhak atas perlindungan sosial, termasuk saat memasuki masa tua meski bekerja di luar hubungan kerja formal.",
+   "Yassierli juga mengingatkan bahwa Indonesia masih menikmati bonus demografi, namun secara bertahap akan menghadapi periode penuaan penduduk. Menurutnya, kesiapan perlindungan sosial perlu disiapkan sejak sekarang agar masyarakat yang telah melewati usia produktif tetap bisa hidup mandiri tanpa bergantung pada generasi pekerja yang masih aktif.",
+   "Ketua Dewan Komisioner OJK Friderica Widyasari Dewi menyebut indeks literasi dana pensiun masyarakat Indonesia baru mencapai 22 persen, atau berarti tidak sampai seperempat masyarakat yang benar-benar paham pentingnya menyiapkan dana pensiun sejak awal bekerja. Ia menyebut hal ini jadi pekerjaan rumah bersama OJK, DPR, pemerintah, asosiasi dana pensiun, dan perusahaan dana pensiun untuk meningkatkan pemahaman masyarakat, termasuk mereka yang bekerja mandiri di luar sektor formal."
+  ],
+  "fotoAdegan": "An elderly street vendor arranging goods at a small stall in a crowded Jakarta market at dusk",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari acara ini bukan aturan baru, melainkan penegasan bahwa mayoritas pekerja Indonesia, sekitar 60 persen dari total 155 juta angkatan kerja, bekerja di sektor informal seperti pedagang kecil atau buruh lepas yang umumnya tidak punya jaminan pensiun dari kantor. OJK juga mengungkap bahwa baru 22 dari 100 orang Indonesia yang paham pentingnya menyiapkan dana pensiun sendiri. Pihak yang paling terdampak adalah pekerja informal itu sendiri, karena tanpa program pensiun formal, kesejahteraan mereka di hari tua bergantung sepenuhnya pada tabungan pribadi yang jarang disiapkan sejak dini. Yang masih kurang dari pengumuman ini adalah program atau insentif konkret untuk mendorong pekerja informal ikut skema dana pensiun, sehingga perlu dipantau apakah rangkaian acara Bulan Dana Pensiun sepanjang September ini akan menghasilkan langkah nyata seperti kemudahan pendaftaran atau subsidi iuran, bukan sekadar sosialisasi."
+ },
+ {
+  "slug": "ekspor-pet-food-ri-tumbuh-pangsa-pasar-global-cuma-0-03",
+  "category": "Industri",
+  "title": "Ekspor Pet Food RI Tumbuh, Pangsa Pasar Global Cuma [0,03]%",
+  "deck": "Ekspor pakan hewan peliharaan Indonesia tumbuh 31,98 persen dalam lima tahun terakhir, namun pangsa pasar globalnya baru 0,03 persen dan berada di peringkat ke-59 dunia.",
+  "image": "assets/img/ekspor-pet-food-ri-tumbuh-pangsa-pasar-global-cuma-0-03.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:10:33.883Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pacu-pet-food-lokal-untuk-kuasai-pasar-domestik-mendag-busan-ajak-produsen-terus-tingkatkan-daya-saing",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "pakan hewan peliharaan",
+   "ekspor",
+   "Kemendag",
+   "IIPE 2026"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengajak produsen pakan hewan peliharaan (pet food) lokal untuk meningkatkan nilai tambah dan daya saing produknya. Ajakan ini disampaikan saat ia menghadiri peluncuran merek pakan kucing premium Cat's Favour oleh EVO Group, dalam rangkaian Indonesia International Pet Expo (IIPE) 2026 di ICE BSD, Tangerang, yang berlangsung 4-6 September 2026. Menurut Kementerian Perdagangan, pasar dalam negeri untuk pakan hewan peliharaan tergolong besar, tetapi produk lokal masih harus bersaing ketat dengan produk impor.",
+   "Data Kementerian Perdagangan menunjukkan ekspor pakan hewan peliharaan Indonesia tumbuh 31,98 persen sepanjang periode 2021-2025, dengan nilai ekspor pada 2025 mencapai US$8,66 juta. India menjadi tujuan ekspor terbesar dengan pangsa 53,60 persen, disusul Malaysia 18,50 persen, Jepang 8,96 persen, Filipina 7,88 persen, dan Hong Kong 4,77 persen. Pada Januari-Juni 2026, nilai ekspor sektor ini tercatat US$3,43 juta.",
+   "Meski tumbuh, posisi Indonesia di pasar ekspor dunia masih kecil. Indonesia berada di peringkat ke-59 sebagai pemasok pakan hewan peliharaan global dengan pangsa pasar hanya 0,03 persen, jauh di bawah Jerman (12,18 persen), Thailand (10,24 persen), Polandia (9,46 persen), Amerika Serikat (8,68 persen), dan Prancis (8,63 persen). Kementerian Perdagangan menyebut perjanjian dagang seperti Indonesia-Uni Eropa Comprehensive Economic Partnership Agreement (I-EU CEPA), yang rencananya ditandatangani tahun ini, berpotensi membuka akses pasar ekspor baru bagi produk pakan hewan peliharaan Indonesia.",
+   "Cat's Favour sendiri merupakan produk segmen premium yang akan didistribusikan oleh PT Evo Continental Trade, dengan formulasi nutrisi mengacu pada panduan European Pet Food Industry Federation (FEDIAF) dan Association of American Feed Control Officials (AAFCO). Dalam rangkaian expo yang sama, EVO Group juga menargetkan pemecahan rekor Guinness World Records untuk kategori penjualan pakan hewan bersertifikat halal terbanyak dalam delapan jam, dengan target sekitar 10.000 kemasan kepada 5.000 pengunjung."
+  ],
+  "fotoAdegan": "Automated packaging line filling foil pouches with pet food, motion blur, bright industrial lighting inside a modern Indonesian factory.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/MrvezBeQAK3WLKPiQSPBUBcbcNlHqVtjstEIM3l4.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan dorongan pemerintah agar produsen pakan hewan peliharaan lokal makin kompetitif, sementara data ekspornya memang menunjukkan tren naik, tumbuh sekitar 32 persen dalam lima tahun terakhir dan tembus US$8,66 juta pada 2025. Yang terdampak adalah produsen lokal seperti EVO Group dan pelaku usaha sejenis yang bersaing dengan produk impor di pasar dalam negeri yang besar, sekaligus mengincar peluang ekspor. Tapi angka lain di data yang sama menunjukkan skala persoalannya: pangsa Indonesia di pasar ekspor pakan hewan peliharaan dunia, yaitu porsi penjualan dibanding total ekspor sedunia, cuma 0,03 persen alias peringkat ke-59, jauh di bawah Jerman atau Thailand yang masing-masing menguasai lebih dari 10 persen pasar global. Ini mengarah ke penguatan bertahap daya saing di dalam negeri dulu, ketimbang lompatan cepat menjadi pemain ekspor besar. Penanda yang perlu dipantau adalah apakah perjanjian dagang dengan Uni Eropa (I-EU CEPA) benar ditandatangani tahun ini seperti dijanjikan Kementerian Perdagangan, karena itu disebut sebagai salah satu jalur pembuka pasar ekspor baru.",
+  "imageV": "mtqurvvc"
+ },
+ {
+  "slug": "cadangan-devisa-ri-naik-jadi-us-146-5-miliar-agustus-2026",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Naik] jadi US$146,5 Miliar Agustus 2026",
+  "deck": "Cadangan devisa Indonesia naik menjadi US$146,5 miliar pada akhir Agustus 2026, dari US$145,3 miliar sebulan sebelumnya, menurut Bank Indonesia.",
+  "image": "assets/img/cadangan-devisa-ri-naik-jadi-us-146-5-miliar-agustus-2026.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:10:21.521Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818126.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "cadangan devisa",
+   "Bank Indonesia",
+   "rupiah",
+   "neraca pembayaran"
+  ],
+  "body": [
+   "Posisi cadangan devisa Indonesia per akhir Agustus 2026 tercatat US$146,5 miliar, naik dari US$145,3 miliar pada akhir Juli, menurut data Bank Indonesia. Cadangan devisa adalah simpanan dolar dan aset luar negeri lain yang dipegang BI sebagai bantalan negara untuk membayar impor dan utang luar negeri saat kondisi pasar keuangan global bergejolak, sehingga pergerakannya jadi salah satu indikator ketahanan ekonomi Indonesia terhadap tekanan dari luar.",
+   "Menurut BI, kenaikan bulan lalu ditopang oleh penerimaan pajak dan jasa serta penarikan pinjaman luar negeri pemerintah. Di sisi lain, ada faktor yang menahan kenaikan itu, yaitu pembayaran utang luar negeri pemerintah dan intervensi BI di pasar untuk menjaga nilai tukar rupiah, yang menurut bank sentral dilakukan karena ketidakpastian pasar keuangan global masih tinggi.",
+   "Dengan posisi tersebut, cadangan devisa Agustus 2026 setara dengan pembiayaan 5,4 bulan impor, atau 5,3 bulan jika ditambah kewajiban membayar utang luar negeri pemerintah. Angka ini berada di atas standar kecukupan internasional yang umumnya dipatok sekitar 3 bulan impor, yang berarti Indonesia secara teknis punya ruang lebih dari cukup untuk membiayai kebutuhan impor dan utang luar negeri dalam beberapa bulan ke depan tanpa harus menambah cadangan.",
+   "BI menyatakan optimistis ketahanan sektor eksternal akan tetap terjaga ke depan, didukung oleh cadangan devisa yang memadai dan aliran masuk modal asing yang menurut bank sentral sejalan dengan persepsi positif investor terhadap prospek ekonomi nasional. BI juga menyebut akan terus memperkuat sinergi dengan pemerintah untuk menjaga stabilitas ekonomi."
+  ],
+  "fotoAdegan": "Cargo ships anchored near loading cranes at a busy Indonesian seaport, hazy morning light, illustrating import trade flows",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2613324/SP_2613324_Cover.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Kenaikan cadangan devisa ke US$146,5 miliar ini terjadi bersamaan dengan BI yang masih turun tangan menjaga kurs rupiah, jadi kenaikannya bukan tanda BI berhenti membelanjakan cadangan untuk stabilisasi. Sebagian tambahan cadangan berasal dari penarikan utang luar negeri pemerintah, bukan semata dari penerimaan ekspor atau investasi asing baru, sehingga sebagian dari angka ini sebenarnya dana pinjaman yang kelak harus dibayar kembali. Yang paling terdampak adalah kemampuan negara membiayai impor dan membayar utang luar negeri saat pasar global bergejolak, bukan harga barang sehari-hari secara langsung. Arah yang perlu dipantau adalah apakah kenaikan ini berlanjut pada rilis cadangan devisa September 2026 yang biasanya diumumkan BI awal Oktober, terutama jika ketidakpastian pasar global yang disebut BI tetap tinggi memaksa intervensi rupiah yang lebih besar.",
+  "imageV": "mtqus2bb"
+ },
+ {
+  "slug": "pertumbuhan-uang-primer-bi-melambat-ke-16-3-agustus",
+  "category": "Moneter",
+  "title": "Pertumbuhan Uang Primer BI [Melambat] ke 16,3% Agustus",
+  "deck": "Bank Indonesia mencatat pertumbuhan uang primer adjusted melambat ke 16,3 persen tahunan pada Agustus 2026, dari 17,1 persen bulan sebelumnya, dengan total Rp2.281,5 triliun.",
+  "image": "assets/img/pertumbuhan-uang-primer-bi-melambat-ke-16-3-agustus.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:10:20.399Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818226.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Uang Primer",
+   "Moneter",
+   "Likuiditas"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan uang primer atau M0 versi yang disesuaikan tumbuh 16,3 persen secara tahunan pada Agustus 2026, melambat dari 17,1 persen pada Juli. Uang primer adalah dasar dari peredaran uang di ekonomi, mencakup uang tunai yang dipegang masyarakat dan simpanan bank-bank di Bank Indonesia, sehingga pertumbuhannya jadi salah satu penanda seberapa banyak likuiditas atau dana segar yang tersedia bagi perbankan.",
+   "Nilai uang primer adjusted pada Agustus tercatat Rp2.281,5 triliun. Kenaikan itu ditopang oleh simpanan bank-bank umum di Bank Indonesia yang tumbuh 19,0 persen dibanding tahun sebelumnya, serta uang tunai yang beredar di masyarakat yang naik 12,9 persen pada periode sama.",
+   "Angka ini sudah disesuaikan atau 'adjusted', artinya Bank Indonesia mengeluarkan dulu efek dari insentif likuiditas yang mereka berikan ke bank-bank, supaya angka pertumbuhan yang dilaporkan mencerminkan kondisi uang beredar yang sebenarnya, bukan terdistorsi oleh kebijakan itu sendiri. Penyesuaian metode perhitungan ini berlaku sejak Januari 2025."
+  ],
+  "fotoAdegan": "Exterior of a modern bank branch illuminated at dusk, glowing ATM lobby, pedestrians walking past on a busy street",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/sp__2713625.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Pertumbuhan uang primer melambat dari 17,1 persen menjadi 16,3 persen dalam sebulan. Uang primer ini semacam bahan dasar peredaran uang, gabungan uang tunai masyarakat dan simpanan bank-bank di Bank Indonesia, jadi kalau pertumbuhannya melambat, pasokan dana yang bisa disalurkan bank sebagai kredit juga berpotensi tumbuh lebih pelan. Pihak yang paling terkait adalah perbankan, dan pada gilirannya pelaku usaha serta konsumen yang mengandalkan kredit bank. Satu bulan perlambatan belum cukup untuk menyimpulkan arah tren karena data bulanan seperti ini wajar berfluktuasi, sehingga perlu dicermati apakah rilis data uang primer bulan September nanti menunjukkan perlambatan berlanjut atau hanya sementara.",
+  "imageV": "mtqus4as"
+ },
+ {
   "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
   "category": "Aksi Korporasi",
   "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
@@ -161,6 +299,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "ihsg-dibuka-menguat-0-24-persen-ke-level-6-652",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Menguat] 0,24 Persen ke Level 6.652",
+  "deck": "IHSG dibuka menguat 15 poin ke 6.652 pada Senin, seiring penguatan bursa Asia dan prediksi analis pasar bergerak mendatar cenderung menguat.",
+  "image": "assets/img/ihsg-dibuka-menguat-0-24-persen-ke-level-6-652.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T10:27:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465408-ihsg-dibuka-menghijau-pada-perdagangan-7-september-2026-berpotensi-datar-saat-bursa-asia-menguat-dan-wall-street-lesu",
+  "tags": [
+   "IHSG",
+   "Bursa Asia",
+   "The Fed",
+   "Saham Perbankan"
+  ],
+  "body": [
+   "IHSG dibuka menguat 15 poin atau 0,24 persen ke level 6.652 pada perdagangan Senin, 7 September 2026. Penguatan ini terjadi di tengah sentimen positif dari bursa saham Asia dan proyeksi analis bahwa indeks akan bergerak mendatar cenderung menguat sepanjang hari ini.",
+   "Menurut riset harian Head of Retail Research Analyst Fanny Suherman, IHSG berpotensi sideways cenderung menguat pada perdagangan hari ini. Saham-saham perbankan berkapitalisasi besar tercatat menjadi penopang utama penguatan indeks pada pembukaan perdagangan.",
+   "Bursa Asia kompak menguat pada perdagangan Jumat, 4 September 2026. Indeks MSCI Emerging Asia naik 1,6 persen, sementara Nikkei 225 dan Topix Jepang masing-masing naik 1,3 persen dan 0,03 persen. Bursa Korea Selatan dan Taiwan yang banyak diisi saham teknologi menguat 1,6 persen dan 1,5 persen, Hang Seng Hong Kong melesat 1,7 persen, dan STI Singapura naik 0,9 persen. Sementara itu ASX 200 Australia turun 0,16 persen dan KLCI Malaysia melemah 0,4 persen.",
+   "Penguatan bursa Asia terjadi setelah Gubernur The Fed Christopher Waller menyatakan lebih memilih mempertahankan suku bunga apabila data inflasi mendatang kembali menunjukkan tanda disinflasi atau perlambatan kenaikan harga. Di sisi lain, indeks utama Wall Street justru ditutup melemah pada hari yang sama karena laporan tenaga kerja yang kuat meningkatkan kemungkinan The Fed menaikkan suku bunga acuan pada pertemuan kebijakan bulan ini. Dow Jones Industrial Average turun 0,51 persen, S&P 500 melemah 0,38 persen, dan Nasdaq Composite turun 0,29 persen."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at counters inside a modern Jakarta bank branch, soft morning light, blurred background screens",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ce896aa6-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang menonjol dari pembukaan IHSG hari ini adalah sinyal yang bercabang dari pasar global. Bursa Asia menguat karena investor menangkap sinyal Gubernur The Fed Christopher Waller yang cenderung memilih menahan suku bunga bila inflasi terus melandai, sementara Wall Street justru melemah karena data lapangan kerja yang kuat membuat pasar AS memperhitungkan kemungkinan The Fed malah menaikkan suku bunga bulan ini. Dua pembacaan ini belum bertemu, kalau skenario Waller yang menang, saham perbankan yang menopang IHSG pagi ini berpotensi terus terbantu ekspektasi bunga rendah, tapi kalau data tenaga kerja AS yang lebih menentukan arah The Fed, tekanan bisa berbalik ke bursa Asia termasuk Indonesia. Pihak yang paling langsung terdampak adalah investor di pasar modal dalam negeri, terutama pemegang saham perbankan. Yang akan menjawab arah sebenarnya adalah keputusan resmi The Fed pada pertemuan kebijakan moneter bulan ini.",
+  "imageV": "mtqus4ss"
+ },
+ {
   "slug": "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
   "category": "Aksi Korporasi",
   "title": "REFI Tunda Lapkeu Kuartal II, Audit demi [Obligasi] II",
@@ -184,6 +349,59 @@ var ARTICLES = [
   "fotoAdegan": "Rows of new motorcycles parked inside a bright dealership showroom, morning sunlight through tall windows, bare clean walls.",
   "takeaway": "Laporan ini netral bagi REFI, karena isinya sebatas penundaan prosedural penyampaian laporan interim, bukan sinyal soal kondisi keuangan perusahaan itu sendiri. Yang perlu diperhatikan adalah kaitannya dengan rencana penerbitan Obligasi II REFI, yaitu penerbitan surat utang baru yang akan menambah beban bunga dan kewajiban pembayaran perusahaan ke depan, sehingga laporan keuangan yang diaudit nantinya penting untuk menilai kemampuan REFI menanggung utang tambahan tersebut. Laporan keuangan yang diaudit oleh akuntan publik independen biasanya dianggap lebih bisa dipercaya investor dibanding laporan interim yang belum diperiksa, karena sudah melalui verifikasi angka oleh pihak ketiga. Yang perlu dipantau selanjutnya adalah kapan REFI benar-benar merilis laporan keuangan audit Juni 2026 tersebut serta jadwal dan besaran resmi penerbitan Obligasi II REFI, karena dokumen ini belum mencantumkan nilai maupun tanggal pastinya.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram",
+  "category": "Makroekonomi",
+  "title": "Harga Emas Antam Hari Ini [Turun] Tipis Jadi Rp2.637.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp3.000 pada 7 September 2026, kini di Rp2.637.000 per gram, sementara harga buyback juga ikut melemah.",
+  "image": "assets/img/harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T10:02:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465405-harga-emas-antam-hari-ini-7-september-2026-turun-tipis-rp3000-kini-di-angka-rp2637000-per-gram",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam turun tipis Rp3.000 pada Senin, 7 September 2026, dari Rp2.640.000 menjadi Rp2.637.000 per gram. Pergerakan ini penting bagi masyarakat yang biasa memantau harga emas Antam sebagai patokan jual beli harian, baik untuk menabung maupun sekadar mengecek nilai simpanan mereka.",
+   "Selain harga jual, harga buyback atau harga beli kembali, yaitu harga yang dibayar Antam kepada masyarakat yang ingin menjual balik emas batangannya, juga ikut turun ke angka Rp2.490.000 per gram. Selisih antara harga jual dan harga buyback ini mencerminkan biaya yang harus ditanggung pemilik emas jika sewaktu-waktu ingin mencairkannya kembali menjadi uang tunai.",
+   "Logam Mulia sebagai penerbit resmi emas Antam menegaskan bahwa harga emas batangan bisa berubah sewaktu-waktu mengikuti pergerakan pasar, sehingga angka pada hari tertentu tidak selalu bertahan di hari berikutnya. Perubahan Rp3.000 kali ini tergolong tipis dibanding fluktuasi harga emas yang kadang bisa mencapai puluhan ribu rupiah dalam sehari."
+  ],
+  "fotoAdegan": "Gold bars and small ingots displayed under glass at a jewelry counter, warm indoor lighting, shallow focus",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/06/05/665fc52aebfa1-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya angka harga, turun Rp3.000 di sisi jual menjadi Rp2.637.000 per gram dan turun juga di sisi buyback menjadi Rp2.490.000 per gram. Yang langsung terdampak adalah masyarakat yang bertransaksi emas Antam hari itu juga, baik yang berencana membeli maupun yang ingin mencairkan simpanan emasnya. Data yang tersedia belum menyebutkan pemicu di baliknya, misalnya pergerakan harga emas dunia atau nilai tukar rupiah, sehingga penurunan tipis ini belum bisa dibaca sebagai awal tren turun atau sekadar koreksi sesaat. Yang perlu dipantau adalah harga emas Antam dalam beberapa hari ke depan untuk melihat apakah pergerakannya konsisten satu arah atau naik turun tanpa pola jelas.",
+  "imageV": "mtqus5bz"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.650, Sorotan ke Kelas Menengah",
+  "deck": "Rupiah melemah tipis ke Rp17.650 per dolar AS pada Senin pagi, sementara pengamat menyoroti pendapatan kelas menengah yang tertekan karena tak kebagian subsidi pemerintah.",
+  "image": "assets/img/rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T09:21:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465401-rupiah-melemah-ke-rp17650-di-tengah-anjloknya-pendapatan-kelas-menengah",
+  "tags": [
+   "rupiah",
+   "kurs dolar",
+   "kelas menengah",
+   "pertumbuhan ekonomi"
+  ],
+  "body": [
+   "Nilai tukar rupiah terhadap dolar Amerika Serikat melemah tipis ke posisi Rp17.650 per dolar AS pada perdagangan pasar spot Senin pagi, 7 September 2026, turun 8 poin atau 0,05 persen dari posisi sebelumnya di Rp17.642. Pelemahan kecil ini menjadi pembuka pekan setelah kurs rupiah sempat menguat pada akhir pekan lalu.",
+   "Berdasarkan kurs referensi Jakarta Interbank Spot Dollar Rate (Jisdor) yang dikeluarkan Bank Indonesia, rupiah berada di Rp17.636 per dolar AS pada Jumat, 4 September 2026, menguat 53 poin dari Rp17.689 pada Kamis, 3 September 2026. Pergerakan rupiah dalam beberapa hari terakhir relatif berada di rentang sempit, naik turun tipis tanpa arah yang tegas.",
+   "Di luar pergerakan kurs, pengamat ekonomi dan pasar uang Ibrahim Assuaibi menyoroti kondisi kelas menengah yang belum mendapat dukungan sebesar kelompok masyarakat kurang mampu. Menurutnya, pemerintah telah menggelontorkan anggaran besar untuk membantu masyarakat yang membutuhkan, namun kelas menengah tidak mendapatkan subsidi tersebut sehingga pendapatan mereka justru turun.",
+   "Ibrahim menilai kunci mengangkat kembali kondisi kelas menengah adalah mendorong pertumbuhan ekonomi ke atas 6 sampai 6,5 persen, karena pertumbuhan yang selama ini rata-rata masih di kisaran 5 persen dinilai belum cukup untuk mendorong industrialisasi dan membuka lapangan kerja formal dalam jumlah besar. Investasi asing disebut sebagai faktor penting untuk membangun infrastruktur dan lapangan kerja baru. Namun para ekonom menilai target pertumbuhan 6 persen pada 2027 tidak mudah dicapai di tengah tren suku bunga yang kembali naik dan tensi geopolitik global yang belum tentu mereda tahun depan."
+  ],
+  "fotoAdegan": "Small shopkeeper arranging goods on shelves inside a compact neighborhood store, morning sunlight from the entrance, busy street outside",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/10/31/67229f6c67edc-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pelemahan rupiah hari ini tergolong kecil, hanya 8 poin, dan bahkan berbalik dari penguatan 53 poin pada kurs referensi Bank Indonesia di akhir pekan lalu, jadi belum bisa dibaca sebagai tren pelemahan yang kuat. Yang lebih berarti untuk dicermati adalah sorotan soal pendapatan kelas menengah, yang menurut pengamat tertekan karena kelompok ini tidak kebagian subsidi yang selama ini disalurkan pemerintah ke masyarakat kurang mampu. Ke depan ada dua kemungkinan arah, pertumbuhan ekonomi terdorong ke atas 6 persen kalau investasi asing benar masuk membangun infrastruktur dan lapangan kerja baru, atau tetap tertahan di kisaran 5 persen seperti tren selama ini kalau suku bunga terus naik dan investor menahan diri. Kelas menengah menjadi pihak yang paling terdampak dari dua arah tersebut, karena lapangan kerja formal yang mereka butuhkan bergantung pada skenario mana yang terjadi. Yang akan memastikan arah mana yang berlaku adalah data realisasi investasi asing dan angka pertumbuhan ekonomi pada periode-periode mendatang menjelang target tahun 2027.",
+  "imageV": "mtqus5tc"
  },
  {
   "slug": "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
@@ -1115,7 +1333,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
   "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "date": "5 September 2026",
   "isoDate": "2026-09-05T05:48:41.275Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kunci-wirausaha-bukan-sekadar-dapat-pelanggan-tapi-menjaga-hubungan",

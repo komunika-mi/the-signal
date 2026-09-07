@@ -5,6 +5,94 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",
+  "category": "Industri",
+  "title": "Uji Lab Sebut 90 Persen Beras Fortifikasi [Melanggar]",
+  "deck": "Kementerian Pertanian menemukan sekitar 90 persen sampel beras berlabel fortifikasi tak sesuai klaim gizinya, dengan selisih harga capai Rp22.000 per kilogram dari beras biasa.",
+  "date": "7 September 2026",
+  "image": "assets/img/uji-lab-sebut-90-persen-beras-fortifikasi-melanggar.jpg",
+  "imageV": "mtqurstx",
+  "tags": [
+   "beras fortifikasi",
+   "Kementerian Pertanian",
+   "harga pangan",
+   "perlindungan konsumen"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8122",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "60-persen-angkatan-kerja-ri-berada-di-sektor-informal",
+  "category": "Ketenagakerjaan",
+  "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
+  "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
+  "date": "7 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "dana pensiun",
+   "sektor informal",
+   "OJK",
+   "Kemnaker"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-60-persen-angkatan-kerja-bekerja-di-sektor-informal-perlindungan-hari-tua-jadi-perhatian",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "ekspor-pet-food-ri-tumbuh-pangsa-pasar-global-cuma-0-03",
+  "category": "Industri",
+  "title": "Ekspor Pet Food RI Tumbuh, Pangsa Pasar Global Cuma [0,03]%",
+  "deck": "Ekspor pakan hewan peliharaan Indonesia tumbuh 31,98 persen dalam lima tahun terakhir, namun pangsa pasar globalnya baru 0,03 persen dan berada di peringkat ke-59 dunia.",
+  "date": "7 September 2026",
+  "image": "assets/img/ekspor-pet-food-ri-tumbuh-pangsa-pasar-global-cuma-0-03.jpg",
+  "imageV": "mtqurvvc",
+  "tags": [
+   "pakan hewan peliharaan",
+   "ekspor",
+   "Kemendag",
+   "IIPE 2026"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pacu-pet-food-lokal-untuk-kuasai-pasar-domestik-mendag-busan-ajak-produsen-terus-tingkatkan-daya-saing",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "cadangan-devisa-ri-naik-jadi-us-146-5-miliar-agustus-2026",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Naik] jadi US$146,5 Miliar Agustus 2026",
+  "deck": "Cadangan devisa Indonesia naik menjadi US$146,5 miliar pada akhir Agustus 2026, dari US$145,3 miliar sebulan sebelumnya, menurut Bank Indonesia.",
+  "date": "7 September 2026",
+  "image": "assets/img/cadangan-devisa-ri-naik-jadi-us-146-5-miliar-agustus-2026.jpg",
+  "imageV": "mtqus2bb",
+  "tags": [
+   "cadangan devisa",
+   "Bank Indonesia",
+   "rupiah",
+   "neraca pembayaran"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "pertumbuhan-uang-primer-bi-melambat-ke-16-3-agustus",
+  "category": "Moneter",
+  "title": "Pertumbuhan Uang Primer BI [Melambat] ke 16,3% Agustus",
+  "deck": "Bank Indonesia mencatat pertumbuhan uang primer adjusted melambat ke 16,3 persen tahunan pada Agustus 2026, dari 17,1 persen bulan sebelumnya, dengan total Rp2.281,5 triliun.",
+  "date": "7 September 2026",
+  "image": "assets/img/pertumbuhan-uang-primer-bi-melambat-ke-16-3-agustus.jpg",
+  "imageV": "mtqus4as",
+  "tags": [
+   "Bank Indonesia",
+   "Uang Primer",
+   "Moneter",
+   "Likuiditas"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818226.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
   "category": "Aksi Korporasi",
   "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
@@ -101,6 +189,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ihsg-dibuka-menguat-0-24-persen-ke-level-6-652",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Menguat] 0,24 Persen ke Level 6.652",
+  "deck": "IHSG dibuka menguat 15 poin ke 6.652 pada Senin, seiring penguatan bursa Asia dan prediksi analis pasar bergerak mendatar cenderung menguat.",
+  "date": "7 September 2026",
+  "image": "assets/img/ihsg-dibuka-menguat-0-24-persen-ke-level-6-652.jpg",
+  "imageV": "mtqus4ss",
+  "tags": [
+   "IHSG",
+   "Bursa Asia",
+   "The Fed",
+   "Saham Perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465408-ihsg-dibuka-menghijau-pada-perdagangan-7-september-2026-berpotensi-datar-saat-bursa-asia-menguat-dan-wall-street-lesu"
+ },
+ {
   "slug": "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
   "category": "Aksi Korporasi",
   "title": "REFI Tunda Lapkeu Kuartal II, Audit demi [Obligasi] II",
@@ -115,6 +220,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/16fe256439_90ee4c5c6e.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram",
+  "category": "Makroekonomi",
+  "title": "Harga Emas Antam Hari Ini [Turun] Tipis Jadi Rp2.637.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp3.000 pada 7 September 2026, kini di Rp2.637.000 per gram, sementara harga buyback juga ikut melemah.",
+  "date": "7 September 2026",
+  "image": "assets/img/harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram.jpg",
+  "imageV": "mtqus5bz",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465405-harga-emas-antam-hari-ini-7-september-2026-turun-tipis-rp3000-kini-di-angka-rp2637000-per-gram"
+ },
+ {
+  "slug": "rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] ke Rp17.650, Sorotan ke Kelas Menengah",
+  "deck": "Rupiah melemah tipis ke Rp17.650 per dolar AS pada Senin pagi, sementara pengamat menyoroti pendapatan kelas menengah yang tertekan karena tak kebagian subsidi pemerintah.",
+  "date": "7 September 2026",
+  "image": "assets/img/rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah.jpg",
+  "imageV": "mtqus5tc",
+  "tags": [
+   "rupiah",
+   "kurs dolar",
+   "kelas menengah",
+   "pertumbuhan ekonomi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465401-rupiah-melemah-ke-rp17650-di-tengah-anjloknya-pendapatan-kelas-menengah"
  },
  {
   "slug": "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
@@ -701,7 +840,7 @@ var ARTICLES = [
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
   "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
   "date": "5 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "Kemnaker",
    "TKM",
@@ -6422,135 +6561,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463690-rupiah-bisa-tembus-rp17900-per-dolar-as-pekan-depan-inflasi-dan-the-fed-jadi-penentu"
- },
- {
-  "slug": "harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam Diproyeksi [Tertahan] Meski Emas Dunia Bergejolak",
-  "deck": "Analis memperkirakan emas dunia bergerak antara US$4.262 dan US$4.682 per troy ounce pekan ini, sementara ruang koreksi emas Antam dinilai terbatas.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/harga-emas-antam-diproyeksi-tertahan-meski-emas-dunia-bergejolak.jpg",
-  "imageV": "mtfwfate",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "kurs rupiah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463683-gonjang-ganjing-harga-emas-dunia-antam-berpotensi-melonjak-ke-rp281-juta-per-gram"
- },
- {
-  "slug": "crab-laba-semester-i-turun-53-utang-bank-naik-168",
-  "category": "Aksi Korporasi",
-  "title": "CRAB: Laba Semester I Turun 53%, [Utang] Bank Naik 168%",
-  "deck": "Laba bersih Toba Surimi turun dari Rp8,43 miliar jadi Rp3,94 miliar pada semester I 2026, tertekan beban bunga yang melonjak seiring liabilitas naik 167,91 persen.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "laporan keuangan interim",
-   "beban bunga",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830180329-64318-0/FinancialStatement-2026-II-CRAB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca",
-  "category": "Teknologi",
-  "title": "[AI] Bantu Nelayan Cilacap Prediksi Ikan dan Cuaca",
-  "deck": "Aplikasi Iwak pakai AI dan data satelit membantu nelayan Cilacap menentukan waktu melaut, menekan kerugian dan menaikkan pendapatan hingga 68 persen.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/ai-bantu-nelayan-cilacap-prediksi-ikan-dan-cuaca.jpg",
-  "imageV": "mtfwfbge",
-  "tags": [
-   "AI",
-   "nelayan",
-   "Pertamina",
-   "Desa Energi Berdikari"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463659-ai-bantu-nelayan-cilacap-membaca-laut-sebelum-berlayar-iwak-beri-informasi-cuaca-hingga-titik-ikan"
- },
- {
-  "slug": "crab-laba-anjlok-76-utang-bank-melonjak-di-kuartal-i",
-  "category": "Aksi Korporasi",
-  "title": "CRAB: Laba Anjlok 76%, [Utang] Bank Melonjak di Kuartal I",
-  "deck": "Penjualan dan laba CRAB turun tajam pada kuartal I 2026, sementara utang bank jangka pendek melonjak dan laporan disampaikan telat dari tenggatnya.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "laporan keuangan",
-   "kuartal I 2026",
-   "Toba Surimi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260830141856-64298-0/FinancialStatement-2026-I-CRAB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aturan-baru-dhe-sda-berlaku-1-september-ini-kriterianya",
-  "category": "Moneter",
-  "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
-  "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/konpers-bank.jpg",
-  "tags": [
-   "DHE SDA",
-   "Pasal 18A",
-   "eksportir tambang",
-   "bank devisa"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru"
- },
- {
-  "slug": "indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk",
-  "category": "Teknologi",
-  "title": "Indodana Raih [Penghargaan] Fintech Berkat Kepatuhan OJK",
-  "deck": "Indodana Fintech meraih predikat perusahaan fintech terbaik di ajang Infobank Award 2026, menegaskan kepatuhan OJK dan manajemen risiko sebagai fondasi pembiayaan digital.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/indodana-raih-penghargaan-fintech-berkat-kepatuhan-ojk.jpg",
-  "imageV": "mtenhg7j",
-  "tags": [
-   "fintech lending",
-   "Indodana",
-   "OJK",
-   "manajemen risiko"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463538-indodana-fintech-dorong-pembiayaan-digital-yang-sehat-kepatuhan-ojk-jadi-kunci"
- },
- {
-  "slug": "tiket-modinity-warehouse-sale-ludes-dalam-24-jam",
-  "category": "Bisnis",
-  "title": "Tiket Modinity Warehouse Sale [Ludes] dalam 24 Jam",
-  "deck": "Tiket Modinity Warehouse Sale 2026 ludes kurang dari 24 jam. Acara meluas ke Indonesia dan Malaysia dengan batch kunjungan bertambah jadi 11 per hari.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/tiket-modinity-warehouse-sale-ludes-dalam-24-jam.jpg",
-  "imageV": "mtenhgrc",
-  "tags": [
-   "warehouse sale",
-   "belanja offline",
-   "fesyen",
-   "Modinity"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463528-gempuran-e-commerce-tak-menyurutkan-belanja-offline-konsumen-kembali-serbu-warehouse-sale"
- },
- {
-  "slug": "rupiah-menguat-tekan-dolar-as-ke-rp17-693",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
-  "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/gedung-bi.jpg",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "kurs rupiah",
-   "nilai tukar"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693"
  }
 ];

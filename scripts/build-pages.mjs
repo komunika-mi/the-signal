@@ -41,7 +41,7 @@ const VIDEOS = muat('videos.js');
 // Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
 import {
-  tulisIndeksArtikel, tulisIndeksVideo, bakeRoot,
+  tulisIndeksArtikel, tulisIndeksVideo, bakeRoot, versiAset,
   PER_HALAMAN_ARSIP, jumlahHalamanArsip, urlHalamanArsip, barisArsip,
   PER_HALAMAN_TAYANGAN, jumlahHalamanTayangan, urlHalamanTayangan, navTayangan,
 } from './bake-root.mjs';
@@ -212,21 +212,16 @@ const EMITEN = (() => {
   return m;
 })();
 
-import crypto from 'node:crypto';
-function hashAset() {
-  const berkas = ['assets/css/style.css', 'assets/js/shared.js',
-    'assets/js/articles.js', 'assets/js/articles-index.js',
-    'assets/js/videos.js', 'assets/js/videos-index.js',
-    'assets/js/market.js', 'assets/js/bps.js', 'assets/js/harian.js',
-    'assets/js/harian-arsip.js', 'assets/js/pekanan.js', 'assets/js/pekanan-arsip.js'];
-  const h = crypto.createHash('md5');
-  for (const f of berkas) {
-    const fp = path.join(ROOT, f);
-    if (fs.existsSync(fp)) h.update(fs.readFileSync(fp));
-  }
-  return h.digest('hex').slice(0, 8);
-}
-const VER = hashAset();
+// hashAset() yang dulu di sini SUDAH DIBUANG, jangan dihidupkan lagi.
+//
+// Ia menghitung SATU md5 gabungan dua belas berkas lalu memakainya sebagai
+// ?v= untuk semua aset. Dua di antaranya - articles.js dan market.js -
+// berubah tiap build, jadi style.css yang isinya tidak tersentuh
+// berminggu-minggu tetap mendapat alamat baru tiap build juga.
+//
+// Penggantinya versiAset() di bake-root.mjs: satu hash per berkas, diingat
+// setelah pembacaan pertama. Alasan lengkap dan angka pengukurannya ada di
+// sana.
 
 
 function esc(s) {
@@ -619,7 +614,7 @@ ${o.imgW ? '<meta property="og:image:width" content="' + o.imgW + '">\n<meta pro
 <meta name="twitter:title" content="${esc(o.title)}">
 <meta name="twitter:description" content="${esc(bagikanDenganKredit(o.desc))}">
 <meta name="twitter:image" content="${o.image}">
-<link rel="stylesheet" href="/assets/css/style.css?v=${VER}">
+<link rel="stylesheet" href="/assets/css/style.css?v=${versiAset('assets/css/style.css')}">
 ${[].concat(NODE_IDENTITAS, o.jsonld || [], o.jsonldTambahan || []).map(j => '<script type="application/ld+json">' + JSON.stringify(j) + '</script>').join('')}
 </head>
 <body>
@@ -743,7 +738,7 @@ const FOOT = `
   </div>
 </div>
 
-<script src="/assets/js/shared.js?v=${VER}"></script>
+<script src="/assets/js/shared.js?v=${versiAset('assets/js/shared.js')}"></script>
 <script>TS.initModal();</script>
 </body>
 </html>
@@ -1568,7 +1563,7 @@ if (RAPOR && Array.isArray(RAPOR.entri) && RAPOR.entri.length) {
 }
 
 // ---------- panggang beranda + arsip ----------
-bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA });
+bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA });
 console.log('bake beranda + arsip: ok');
 
 // ---------- Signal Harian ----------
@@ -1607,7 +1602,7 @@ if (HARIAN) {
     // tanpa penjelasan, seolah tautannya rusak. Arsipnya sudah ada di
     // harian-arsip.js (30 edisi), tinggal dirender. Markup hasil rendernya
     // KEMBAR dengan cetakan di atas; kalau mengubah salah satu, ubah keduanya.
-    `<script src="/assets/js/harian-arsip.js?v=${VER}" defer></script>` +
+    `<script src="/assets/js/harian-arsip.js?v=${versiAset('assets/js/harian-arsip.js')}" defer></script>` +
     `<script>
 document.addEventListener('DOMContentLoaded', function () {
   var m = location.search.match(/[?&]edisi=(\\d{4}-\\d{2}-\\d{2})/);
@@ -1734,7 +1729,7 @@ if (PEKANAN && PEKANAN.judul) {
     //
     // Markup hasil rendernya KEMBAR dengan cetakan di atas. Kalau mengubah
     // salah satu, ubah keduanya.
-    `<script src="/assets/js/pekanan-arsip.js?v=${VER}" defer></script>` +
+    `<script src="/assets/js/pekanan-arsip.js?v=${versiAset('assets/js/pekanan-arsip.js')}" defer></script>` +
     `<script>
 document.addEventListener('DOMContentLoaded', function () {
   var m = location.search.match(/[?&]edisi=([0-9]{4}-[0-9]{2}-[0-9]{2})/);
@@ -1856,7 +1851,11 @@ function selaraskanHalamanRoot() {
     if (!fs.existsSync(p)) continue;
     let h = fs.readFileSync(p, 'utf8');
     const sebelum = h;
-    h = h.replace(/(assets\/(?:css|js)\/[a-z-]+\.(?:css|js))(\?v=[a-f0-9]+)?/g, '$1?v=' + VER);
+    // Pola nama disamakan dengan stempelVersi() di bake-root.mjs: [a-z0-9-]+
+    // supaya videos-index.js dan articles-index.js ikut tertangkap, dan
+    // [a-z0-9]+ untuk nilai ?v= supaya stempel lama apa pun ikut diperbarui.
+    h = h.replace(/(assets\/(?:css|js)\/[a-z0-9-]+\.(?:css|js))(\?v=[a-z0-9]+)?/g,
+      (_, jalur) => jalur + '?v=' + versiAset(jalur));
     h = h.replace(HOST_LAMA, BASE);
     if (h !== sebelum) fs.writeFileSync(p, h, 'utf8');
   }

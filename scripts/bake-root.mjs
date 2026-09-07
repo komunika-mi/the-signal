@@ -22,6 +22,7 @@
 // atau kartu akan berubah bentuk begitu pembaca menyentuh filter.
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { nilaiRingkas } from './bps-grafik.mjs';
 import { kepalaAnalitik } from './analitik.mjs';
@@ -339,16 +340,60 @@ function ganti(html, nama, konten, berkas) {
   return html.replace(re, (_, buka, tutup) => buka + konten + tutup);
 }
 
+// ---------- versi aset: SATU HASH PER BERKAS ----------
+//
+// Dulu di sini ada SATU hash global (hashAset() di build-pages.mjs): md5
+// gabungan dua belas berkas, dipakai untuk ?v= semua aset sekaligus. Dua di
+// antaranya berubah tiap build - articles.js dan market.js - jadi hash
+// gabungannya ikut berubah tiap build, dan style.css yang isinya tidak
+// tersentuh berminggu-minggu tetap mendapat alamat baru.
+//
+// Buat Googlebot, alamat baru itu URL baru yang harus diambil ulang.
+//
+// Diukur 7 September 2026 dari riwayat git, 14 hari terakhir:
+//
+//     berkas          isinya berubah      dapat ?v= baru
+//     style.css                    2x                238x
+//     shared.js                    1x                238x
+//
+// terpasang di ~1.900 halaman. Crawl Stats Search Console pada hari yang sama:
+// CSS 13% + JavaScript 14% = 27% seluruh permintaan rayapan, sementara HTML
+// cuma 44%. Padahal saat itu 260 halaman berstatus "Discovered - currently
+// not indexed", artinya Google KEHABISAN jatah sebelum sempat mengambil
+// halaman beritanya.
+//
+// Sekarang tiap berkas dihash sendiri. style.css berganti alamat kalau
+// style.css berganti isi, titik. Cache-busting-nya sama benarnya, malah lebih
+// tepat, karena versi berubah persis saat isinya berubah.
+//
+// Dibaca sekali per berkas lalu diingat: fungsi ini dipanggil sekali untuk
+// tiap halaman, dan halamannya lebih dari seribu.
+const CACHE_VERSI = new Map();
+export function versiAset(berkas) {
+  const kunci = String(berkas).replace(/^\//, '');
+  if (CACHE_VERSI.has(kunci)) return CACHE_VERSI.get(kunci);
+  const fp = path.join(ROOT, kunci);
+  // Berkas yang tidak ada memang tidak punya versi. '0' lebih jujur daripada
+  // hash karangan, dan tetap stabil antar build sehingga tidak ikut memboroskan
+  // jatah rayapan. Halaman yang merujuk aset hilang toh sudah rusak dengan
+  // atau tanpa ?v=.
+  const v = fs.existsSync(fp)
+    ? crypto.createHash('md5').update(fs.readFileSync(fp)).digest('hex').slice(0, 8)
+    : '0';
+  CACHE_VERSI.set(kunci, v);
+  return v;
+}
+
 // Stempel ulang ?v= di SEMUA rujukan aset css/js halaman root.
 //
 // Wajib sejak aset di-cache immutable setahun (13 Agustus 2026): halaman
-// generate sudah memakai ?v=hash yang berganti tiap build, tapi tiga halaman
-// tulisan tangan membawa ?v tulisan tangan yang tidak pernah berubah. Tanpa
-// stempel ini, sekali pengunjung menyimpan style.css versi lama, beranda
-// memakainya setahun penuh meski berkasnya sudah berganti berkali-kali.
-function stempelVersi(html, VER) {
+// generate sudah memakai ?v=hash isi berkasnya, tapi tiga halaman tulisan
+// tangan membawa ?v tulisan tangan yang tidak pernah berubah. Tanpa stempel
+// ini, sekali pengunjung menyimpan style.css versi lama, beranda memakainya
+// setahun penuh meski berkasnya sudah berganti berkali-kali.
+function stempelVersi(html) {
   return html.replace(/((?:\/)?assets\/(?:css|js)\/[a-z0-9-]+\.(?:css|js))\?v=[a-z0-9]+/g,
-    '$1?v=' + VER);
+    (_, jalur) => jalur + '?v=' + versiAset(jalur));
 }
 
 // Strip angka ekonomi di rail beranda.
@@ -496,7 +541,7 @@ function jsonLdSitus(...tambahan) {
     .join(String.fromCharCode(10));
 }
 
-export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }) {
+export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA }) {
   // ---- index.html ----
   const pIndex = path.join(ROOT, 'index.html');
   let idx = fs.readFileSync(pIndex, 'utf8');
@@ -556,7 +601,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }
   const sumber = sumberRingkas(ARTICLES);
   if (sumber) idx = ganti(idx, 'sumber', esc(sumber), 'index.html');
 
-  fs.writeFileSync(pIndex, stempelVersi(idx, VER), 'utf8');
+  fs.writeFileSync(pIndex, stempelVersi(idx), 'utf8');
 
   // ---- berita.html: chip + halaman pertama grid, supaya crawler dan pembaca
   // tanpa JavaScript melihat daftar berita sungguhan, bukan kulit kosong.
@@ -610,7 +655,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }
       '<a class="arsip-lanjut" href="' + urlHalamanArsip(2) + '">Halaman berikutnya &rarr;</a>' +
       '</nav>'
     : '', 'berita.html');
-  fs.writeFileSync(pBerita, stempelVersi(brt, VER), 'utf8');
+  fs.writeFileSync(pBerita, stempelVersi(brt), 'utf8');
 
   // ---- video.html: tidak ada bagian panggang selain kepala, tapi stempel
   // versinya wajib. Halaman ini sempat TERLEWAT saat verifikasi Search Console
@@ -644,5 +689,5 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }
     esc(plain(v.title)) + '" loading="lazy" width="480" height="360">' +
     '<h3>' + esc(plain(v.title)) + '</h3></a></article>').join(''), 'video.html');
   vid = ganti(vid, 'videonav', navTayangan(1, totalHalVideo, VIDEOS.length), 'video.html');
-  fs.writeFileSync(pVideo, stempelVersi(vid, VER), 'utf8');
+  fs.writeFileSync(pVideo, stempelVersi(vid), 'utf8');
 }

@@ -1,7 +1,5 @@
 // Video ekonomi dari kanal YouTube resmi tvOneNews, dikurasi otomatis.
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
-// JANGAN memuat berkas ini dari halaman mana pun: ia tumbuh mengikuti
-// arsip dan cuma dibaca saat build. Peramban memakai videos-index.js.
 var VIDEOS = [
  {
   "id": "VhlzqIvVtl4",

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
+  "category": "Perbankan",
+  "title": "OJK Minta Blokir [38.375] Rekening Judi Online",
+  "deck": "OJK meminta perbankan memeriksa atau memblokir 38.375 rekening terindikasi judi online hingga Juli 2026, naik dari 36.735 rekening sebelumnya.",
+  "image": "assets/img/ojk-minta-blokir-38-375-rekening-judi-online.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T20:05:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465547-ojk-perketat-rekening-judi-online-38375-rekening-diminta-diblokir-hingga-juli-2026",
+  "tags": [
+   "ojk",
+   "judi online",
+   "perbankan",
+   "pemblokiran rekening"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan meminta perbankan melakukan pemeriksaan mendalam atau pemblokiran terhadap 38.375 rekening yang terindikasi dipakai untuk aktivitas judi online, hingga Juli 2026. Langkah ini penting bagi pembaca karena menunjukkan aliran dana judi online masih mengalir lewat rekening bank biasa, sehingga rekening siapa pun berisiko ikut diperiksa kalau tercatat berhubungan dengan transaksi mencurigakan itu.",
+   "Jumlah rekening yang kena tindakan ini naik dibanding periode sebelumnya yang tercatat 36.735 rekening. Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae mengatakan data rekening itu berasal dari Kementerian Komunikasi dan Digital, yang kemudian diteruskan ke OJK sebagai dasar meminta bank bertindak. Hal ini disampaikan Dian dalam konferensi pers Rapat Dewan Komisioner OJK, Senin (7/9/2026).",
+   "Tindakan yang diminta OJK ada dua jenis, yaitu enhanced due diligence dan pemblokiran. Enhanced due diligence adalah pemeriksaan lebih mendalam terhadap identitas nasabah dan pola transaksinya, biasanya dipakai untuk rekening yang dianggap berisiko tapi buktinya belum cukup kuat untuk langsung diblokir.",
+   "OJK menyebut pengawasan ini tidak berhenti hanya pada data yang sudah masuk sekarang, artinya daftar rekening berpotensi terus bertambah seiring data baru dari Kementerian Komunikasi dan Digital. OJK menyebut langkah ini sebagai bagian dari upaya pemberantasan judi online yang dinilai berdampak pada aspek sosial dan ekonomi."
+  ],
+  "fotoAdegan": "Bank operations staff monitoring digital transactions at workstations in an office, computer screens blurred, focused lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/16/6a58c0e4d328c-ilustrasi-daftar-5-wilayah-dengan-korban-judi-online-terbanyak-di-indonesia-jawa-barat-peringkat-pertama_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah jumlah rekening yang diminta bank untuk diperiksa lebih dalam atau langsung diblokir karena terindikasi dipakai untuk judi online, naik dari 36.735 menjadi 38.375 rekening, atau naik sekitar 4,5 persen dari periode sebelumnya. Yang kena dampak langsung adalah bank, yang wajib menelusuri dan memblokir rekening nasabahnya berdasarkan data dari Kementerian Komunikasi dan Digital, sekaligus pemilik rekening yang datanya masuk daftar itu. Kenaikan angka ini dari satu periode ke periode berikutnya menunjukkan arah pengawasan yang terus melebar, bukan operasi sekali jalan yang lalu berhenti, karena OJK terus menerima data baru dan memperbarui daftar rekening bermasalah. Yang akan memastikan apakah tren ini terus naik atau mulai melandai adalah angka rekening pada laporan Rapat Dewan Komisioner OJK bulan berikutnya.",
+  "imageV": "mtralauj"
+ },
+ {
   "slug": "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
   "category": "Aksi Korporasi",
   "title": "MEDC Koreksi Laporan, Dana Obligasi Rp990 M [Belum Terpakai]",
@@ -53,6 +80,33 @@ var ARTICLES = [
   "fotoAdegan": "Wide shot of heavy dump trucks hauling coal at an open-pit mine in Kalimantan, dust haze, workers in safety vests, midday light",
   "takeaway": "Laporan ini netral bagi ARMA karena progres penggunaan dana sukuk sudah 92,26 persen sesuai rencana yang dijanjikan ke investor saat penerbitan, tanpa indikasi penyimpangan alokasi. Yang perlu dipahami, DHPB atau Dana Hasil Produksi Batubara adalah kewajiban setor yang wajib dibayar perusahaan tambang batubara ke pemerintah, dan seberapa lancar kewajiban ini dipenuhi mencerminkan kesehatan arus kas operasional perusahaan, sementara bagi hasil 0,5 persen dari dana yang belum terpakai dan ditempatkan di rekening afiliasi juga bagian dari cara perusahaan mengelola kas menganggurnya. Yang menarik dicermati, laporan ini terbit sebagai revisi atas tanggapan surat OJK tertanggal 28 Agustus 2026, sehingga laporan realisasi berikutnya patut dipantau untuk melihat apakah sisa dana Rp140,74 miliar, terutama untuk pembayaran DHPB dan pajak serta kontraktor pertambangan yang masih menyisakan porsi belum terealisasi, sudah tersalurkan penuh.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober",
+  "category": "Makroekonomi",
+  "title": "SPHP Berganti Nama Jadi [Beras Kita], Meluncur 20 Oktober",
+  "deck": "Pemerintah mengganti nama beras SPHP menjadi Beras Kita Medium, mulai dipasarkan 20 Oktober 2026, sejalan dengan Minyakita dan ManisKita.",
+  "image": "assets/img/sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:35:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465546-beras-sphp-punya-nama-baru-pemerintah-luncurkan-beras-kita-20-oktober-2026",
+  "tags": [
+   "Beras Kita",
+   "SPHP",
+   "Bulog",
+   "Zulkifli Hasan"
+  ],
+  "body": [
+   "Pemerintah resmi mengganti nama produk beras Stabilisasi Pasokan dan Harga Pangan (SPHP) menjadi Beras Kita Medium, dengan kemasan baru yang dijadwalkan mulai dijual 20 Oktober 2026. Perubahan ini diumumkan Menteri Koordinator Bidang Pangan Zulkifli Hasan dalam konferensi pers di Jakarta, Senin (7/9/2026). Ini berarti produk beras yang selama ini akrab disebut beras SPHP akan tampil dengan label baru, meski program dan mekanismenya di baliknya tetap sama.",
+   "Zulkifli menjelaskan penggantian nama dilakukan agar masyarakat lebih mudah mengenali produk beras yang dipasarkan pemerintah, sementara identitas program SPHP tetap dipertahankan dalam produk tersebut. Selain kelas medium, pemerintah juga menyiapkan Beras Kita Premium untuk lini beras premium yang dikeluarkan Perum Bulog. Dengan begitu, Beras Kita akan menjadi merek tunggal untuk seluruh beras pemerintah yang disalurkan lewat Bulog.",
+   "Meski nama berganti, beras berkemasan lama dengan label SPHP tidak langsung ditarik dari pasar. Kemasan lama akan tetap dijual sampai stok yang sudah beredar habis, sehingga masa transisi ke merek baru berlangsung bertahap, bukan serentak.",
+   "Direktur Utama Perum Bulog Ahmad Rizal Ramali menjelaskan pemilihan nama Beras Kita dibuat agar selaras dengan produk pangan pemerintah lain yang sudah lebih dulu memakai kata Kita, yaitu Minyakita untuk minyak goreng dan ManisKita untuk gula. Menurutnya, kesamaan penamaan ini dimaksudkan agar masyarakat lebih mudah mengenali produk pangan bersubsidi milik pemerintah secara umum."
+  ],
+  "fotoAdegan": "Workers stacking plain rice sacks on wooden pallets inside a large government warehouse, forklift nearby, morning light through high windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/07/12/687289888421b-beras-sphp_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini murni soal nama dan kemasan, bukan harga atau mekanisme penyaluran, beras SPHP menjadi Beras Kita Medium, ditambah lini baru Beras Kita Premium, meluncur 20 Oktober 2026. Yang kena dampak adalah konsumen pembeli beras subsidi dan pedagang yang selama ini menjual beras berlabel SPHP, karena kemasan lama dan baru akan beredar bersamaan sampai stok lama habis. Alasan pemerintah memakai nama Kita, disamakan dengan Minyakita dan ManisKita, menunjukkan ini bagian dari penyeragaman merek untuk seluruh produk pangan bersubsidi pemerintah, kemungkinan agar lebih mudah dikenali sebagai satu keluarga produk. Yang akan menentukan apakah ini sekadar ganti kemasan atau langkah awal perubahan lebih besar adalah peluncuran 20 Oktober nanti, terutama apakah harga eceran tertinggi ikut disesuaikan atau tetap seperti beras SPHP sebelumnya.",
+  "imageV": "mtralbax"
  },
  {
   "slug": "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
@@ -161,6 +215,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026",
+  "category": "Makroekonomi",
+  "title": "Bea Cukai Sita Barang [Rp11,25 Triliun] hingga Agustus 2026",
+  "deck": "DJBC mencatat 20.643 penindakan senilai Rp11,25 triliun sepanjang Januari-Agustus 2026, dengan rokok ilegal sebagai kasus terbanyak.",
+  "image": "assets/img/bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:05:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465542-bea-cukai-sita-barang-rp1125-triliun-hingga-agustus-2026-rokok-ilegal-mendominasi",
+  "tags": [
+   "bea cukai",
+   "rokok ilegal",
+   "DJBC",
+   "penindakan"
+  ],
+  "body": [
+   "Direktorat Jenderal Bea dan Cukai (DJBC) melaporkan telah melakukan 20.643 penindakan sepanjang Januari hingga Agustus 2026, dengan total nilai barang yang diamankan mencapai Rp11,25 triliun. Angka ini disampaikan Direktur Jenderal Bea dan Cukai Djaka Budhi Utama dalam rapat dengar pendapat bersama Komisi XI DPR RI di Jakarta, Senin (7/9/2026). Rokok ilegal menjadi sasaran penindakan terbanyak, di samping pengawasan terhadap ekspor, impor, dan peredaran narkotika.",
+   "Dari total penindakan tersebut, sektor rokok ilegal menyumbang 12.617 kasus dengan barang bukti 1,123 miliar batang rokok. Capaian delapan bulan ini sudah mendekati hasil sepanjang 2025, yang tercatat 20.102 penindakan dengan barang bukti 1,404 miliar batang rokok ilegal. Bahkan dari sisi jumlah kasus, total penindakan DJBC hingga Agustus 2026 sudah melampaui total penindakan sepanjang setahun 2025.",
+   "Di sektor perdagangan luar negeri, DJBC mencatat 325 kasus penindakan ekspor dengan nilai barang Rp1,82 triliun. Penindakan di sektor impor disebut jauh lebih banyak dibanding ekspor, meski rincian jumlah kasus dan nilainya belum dipaparkan dalam data yang tersedia."
+  ],
+  "fotoAdegan": "Customs officers stacking sealed cardboard boxes of confiscated goods inside a large warehouse, forklift nearby, fluorescent lighting overhead",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/06/18/685244dba280e-rokok-ilegal_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret, dalam delapan bulan 2026 total penindakan Bea Cukai sudah 20.643 kasus, melampaui total sepanjang 2025 yang hanya 20.102 kasus. Barang bukti rokok ilegal yang disita, 1,123 miliar batang, juga sudah mendekati capaian setahun penuh 2025 sebanyak 1,404 miliar batang. Yang terdampak adalah pelaku usaha dan pabrikan yang mengedarkan rokok tanpa cukai resmi, sekaligus penerimaan negara dari cukai karena setiap batang rokok ilegal berarti pemasukan cukai yang hilang. Pola ini mengarah ke laju penindakan yang lebih kencang dibanding tahun lalu, dan yang akan memastikannya adalah angka penindakan periode September-Desember 2026, apakah tetap di atas laju 2025 atau melandai menjelang akhir tahun.",
+  "imageV": "mtralbq5"
+ },
+ {
   "slug": "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
   "category": "Aksi Korporasi",
   "title": "TINS Catat Laba [Melonjak] 805% Jelang Public Expose 10 Sep",
@@ -265,6 +345,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "indonesia-jadi-co-host-cismef-2026-di-china",
+  "category": "UMKM",
+  "title": "Indonesia Jadi [Co-host] CISMEF 2026 di China",
+  "deck": "Indonesia berpartisipasi sebagai Co-host Country dalam pameran UMKM CISMEF 2026 di Guangzhou untuk membuka akses pasar global bagi pelaku usaha kecil dan menengah.",
+  "image": "assets/img/indonesia-jadi-co-host-cismef-2026-di-china.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T17:53:34+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465528-perkuat-akses-umkm-ke-pasar-global-indonesia-jadi-co-host-country-cismef-2026-china",
+  "tags": [
+   "cismef 2026",
+   "umkm",
+   "indonesia china",
+   "paviliun indonesia"
+  ],
+  "body": [
+   "Indonesia berpartisipasi sebagai Co-host Country dalam China International Small and Medium Enterprises Fair (CISMEF) 2026 yang digelar di Area D, China Import and Export Fair Complex, Guangzhou, pada 3 hingga 6 September 2026. Ajang yang diselenggarakan oleh Kementerian Perindustrian dan Teknologi Informasi (MIIT) China ini menjadi salah satu ruang bagi pelaku UMKM Asia-Pasifik untuk memperluas jaringan bisnis dan mencari akses pasar baru.",
+   "Kementerian UMKM bersama Asian Trade, Tourism, and Economics Council (ATTEC) menghadirkan Paviliun Indonesia yang menampilkan produk unggulan UMKM, potensi daerah, peluang investasi, sektor pariwisata, hingga inovasi nasional. Choose Jakarta turut ambil bagian dengan membawa produk dan potensi unggulan Jakarta untuk diperkenalkan kepada buyer, investor, dan mitra bisnis internasional, terutama dari China.",
+   "Di dalam paviliun, digelar sejumlah kegiatan berupa business matching, forum bisnis, networking, serta fasilitasi penandatanganan kerja sama dan nota kesepahaman atau MoU. Langkah ini menjadi bagian dari strategi memperluas akses produk Indonesia ke pasar global sekaligus memperkuat keterlibatan UMKM dalam rantai pasok internasional.",
+   "Keikutsertaan Indonesia dalam CISMEF 2026 juga terkait dengan rangkaian agenda Asia-Pacific Economic Cooperation (APEC), sebagai bagian dari persiapan menuju APEC Economic Leaders' Meeting yang akan berlangsung di Shenzhen, China, pada 18-19 November 2026. Forum tersebut mempertemukan pemerintah, dunia usaha, investor, dan pemangku kepentingan ekonomi dari kawasan Asia-Pasifik."
+  ],
+  "fotoAdegan": "Rows of small business exhibition booths displaying handicrafts and food products at a trade fair hall, visitors browsing, bright indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/07/6a9e954e93fdd-china-international-small-and-medium-enterprises-fair-cismef-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah statusnya, dari sekadar peserta menjadi Co-host Country CISMEF 2026, dengan Kementerian UMKM dan ATTEC membawa Paviliun Indonesia berisi produk UMKM, potensi daerah, dan peluang investasi selama 3 sampai 6 September di Guangzhou. Yang terdampak langsung adalah pelaku UMKM yang produknya dipajang di paviliun tersebut, termasuk yang difasilitasi Choose Jakarta, karena merekalah yang berpeluang bertemu langsung dengan calon pembeli dan investor dari China. Beritanya belum menyebut angka hasil konkret, seperti berapa UMKM yang ikut, berapa nilai transaksi, atau berapa MoU yang benar-benar diteken lewat business matching itu, jadi belum bisa dipastikan apakah kehadiran di Guangzhou ini berbuah kerja sama nyata atau berhenti di tahap promosi. Penanda paling dekat untuk melihat kelanjutannya adalah APEC Economic Leaders' Meeting di Shenzhen pada 18-19 November 2026, yang disebut sebagai rangkaian agenda yang sama, jadi ada baiknya dicermati apakah pertemuan itu menghasilkan kesepakatan dagang atau investasi yang bisa ditelusuri balik ke ajang CISMEF ini.",
+  "imageV": "mtralc9h"
+ },
+ {
   "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "IMAS Bantah Ada Info Material di Balik [Volatilitas] Saham",
@@ -341,6 +448,33 @@ var ARTICLES = [
   "fotoAdegan": "Telecommunication towers rising from a green rural Indonesian landscape, a technician inspecting cables at the base, late afternoon light",
   "takeaway": "Laporan ini netral bagi kondisi keuangan IBST, sebab isinya hanya memperpanjang tenggat dan melaporkan hasil sementara tanpa mengubah harga atau syarat penawaran yang sudah diketahui pasar. Yang tersentuh di sini bukan laba atau ekuitas perseroan, melainkan komposisi saham beredar di tangan publik alias free float, karena tender ini dijalankan dalam kerangka aturan delisting dan relisting BEI, sehingga porsi saham publik yang tersisa jadi penentu status pencatatan IBST di bursa ke depan. Dengan 76 persen saham publik sudah ikut serta, ruang gerak bagi sisa 267 pemegang saham publik pemilik 156.022 saham kian sempit. Yang perlu dipantau adalah batas akhir perpanjangan kedua pada 2 Oktober 2026, serta apakah setelah itu Iforte membuka perpanjangan lagi atau proses ini berlanjut ke tahapan delisting sebagaimana diatur Peraturan BEI No. I-N.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "ihsg-turun-0-25-sektor-keuangan-paling-tertekan",
+  "category": "Pasar Modal",
+  "title": "IHSG [Turun] 0,25%, Sektor Keuangan Paling Tertekan",
+  "deck": "IHSG ditutup melemah 16,80 poin ke 6.619,67 pada Senin, tertekan sektor keuangan yang turun 0,76 persen, sementara sektor perindustrian justru menguat 1,25 persen.",
+  "image": "assets/img/ihsg-turun-0-25-sektor-keuangan-paling-tertekan.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T17:00:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465511-ihsg-tertekan-025-sektor-keuangan-jadi-beban-utama-perdagangan-hari-ini",
+  "tags": [
+   "IHSG",
+   "sektor keuangan",
+   "bursa efek indonesia",
+   "saham"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) ditutup melemah 16,80 poin atau 0,25 persen ke level 6.619,67 pada perdagangan Senin, 7 September 2026. Pelemahan ini terjadi di tengah pergerakan saham yang cukup berimbang antar sektor sepanjang sesi.",
+   "Dari total saham yang diperdagangkan, 281 saham menguat, 332 saham melemah, dan 179 saham lainnya stagnan. Di level sektoral, lima indeks sektoral berhasil menguat sementara enam lainnya berakhir di zona merah, dengan sektor keuangan mencatat penurunan terdalam sebesar 0,76 persen, diikuti sektor barang baku yang turun 0,70 persen dan sektor teknologi yang melemah 0,61 persen.",
+   "Di sisi lain, sektor perindustrian menjadi penopang utama pergerakan pasar dengan kenaikan 1,25 persen, disusul sektor energi yang naik 1,03 persen dan sektor kesehatan yang menguat 0,82 persen. Ketiga sektor ini turut menahan laju pelemahan IHSG agar tidak turun lebih dalam.",
+   "Aktivitas perdagangan di Bursa Efek Indonesia tercatat cukup ramai, dengan total volume mencapai 36,44 miliar saham dan nilai transaksi sebesar Rp13,54 triliun sepanjang sesi perdagangan hari ini."
+  ],
+  "fotoAdegan": "Exterior view of bank office towers in a Jakarta financial district, glass facades under overcast morning sky, street-level wide shot.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/13/6a7cfa0e53404-pengunjung-mengamati-pergerakan-indeks-harga-saham-gabungan-ihsg_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini adalah komposisi penekan IHSG, sektor keuangan turun paling dalam sebesar 0,76 persen, sementara sektor perindustrian justru naik 1,25 persen dan menahan indeks agar tidak melemah lebih jauh. Investor yang memegang saham perbankan dan pembiayaan jadi pihak yang paling merasakan tekanan ini, sementara pemegang saham sektor manufaktur dan energi relatif diuntungkan pada perdagangan kali ini. Namun data satu hari perdagangan belum cukup untuk menyimpulkan apakah pelemahan sektor keuangan ini awal dari tren yang berlanjut atau sekadar koreksi sesaat, apalagi jumlah saham yang melemah, 332 saham, lebih banyak dari yang menguat, 281 saham, meski indeks hanya turun tipis. Yang perlu dicermati adalah pergerakan sektor keuangan dalam beberapa hari perdagangan berikutnya untuk melihat apakah pola pelemahan ini berlanjut atau berbalik arah.",
+  "imageV": "mtralcpu"
  },
  {
   "slug": "pack-bantah-rumor-rights-issue-ungkap-sumber-lonjakan-laba",
@@ -447,6 +581,32 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha",
+  "category": "BUMN",
+  "title": "Telkom Rombak Bisnis, Pecah Jadi [Lima] Segmen Usaha",
+  "deck": "Telkom memecah bisnisnya menjadi lima segmen sebagai bagian transformasi TLKM 30, menuju struktur holding yang lebih transparan bagi investor.",
+  "image": "assets/img/telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T16:39:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465503-jaga-momentum-pertumbuhan-ini-strategi-telkom-tingkatkan-nilai-tambah-dari-bisnis-infrastruktur-digital",
+  "tags": [
+   "Telkom",
+   "TLKM 30",
+   "restrukturisasi bisnis",
+   "BUMN"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk menata ulang struktur bisnisnya dengan memecah operasional perusahaan menjadi lima segmen utama, yakni B2C, B2B Infrastructure, B2B ICT, International, serta Others dan Ancillary. Langkah yang disebut delayering ini dipaparkan Direktur Utama Telkom Dian Siswarini dalam Public Expose Live 2026 secara daring, Senin (7/9/2026). Restrukturisasi ini penting bagi investor dan pemegang saham karena menjanjikan laporan kinerja yang lebih rinci per lini bisnis, bukan lagi laporan gabungan seperti selama ini.",
+   "Penataan ulang ini merupakan bagian dari transformasi besar bernama TLKM 30, yang bertumpu pada empat pilar yaitu operational and service excellence, streamlining, unlocking value, dan modus-operandi shift. Selain Dian, paparan turut disampaikan Direktur Keuangan dan Manajemen Risiko Telkom Arthur Angelo Syailendra, Direktur Wholesale and International Service Budi Satria Dharma Purba, Direktur Enterprise and Business Service Veranita Yosephine, serta Direktur Keuangan dan Manajemen Risiko Telkomsel Daru Mulyawan. Dalam kesempatan yang sama, jajaran direksi juga memaparkan kinerja perusahaan sepanjang semester I 2026 dan arah eksekusi transformasi untuk mengejar target pertumbuhan tahun ini.",
+   "Menurut Dian, pemecahan segmen ini adalah tahap transisi menuju model Strategic Holding Company-Operating Company (HoldCo-OpCo), yang membuat struktur TelkomGroup lebih terintegrasi dan transparan. Ia menjelaskan setiap segmen bisnis nantinya punya akuntabilitas dan fokus yang lebih jelas pada bisnis intinya masing-masing, dengan visibilitas lebih baik terhadap kinerja, arus kas, dan kebutuhan investasi. Dengan visibilitas itu, manajemen Telkom mengklaim bisa mengambil keputusan strategis lebih cepat, termasuk menentukan ke mana modal dan sumber daya perusahaan perlu diarahkan."
+  ],
+  "fotoAdegan": "Technicians in orange safety vests inspecting fiber optic cable racks inside a telecommunications data hub, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/07/6a9e8524bd90e-direktur-utama-telkom-dian-siswarini-memaparkan-perkembangan-transformasi-telkomgroup-melalui-empat-pilar-strategis-tlkm-30_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara Telkom mengelola dan melaporkan bisnisnya, bukan produk atau layanan yang dijual ke pelanggan. Sebelumnya kinerja berbagai lini usaha Telkom cenderung tercampur dalam satu laporan besar, sekarang dipecah jadi lima kelompok terpisah, dari layanan ke pelanggan pribadi sampai bisnis ke perusahaan lain dan urusan internasional. Ini paling terasa bagi investor dan pemegang saham TLKM, karena mereka jadi lebih mudah melihat segmen mana yang benar-benar menguntungkan dan mana yang justru menahan pertumbuhan grup, sesuatu yang sulit dilacak dari laporan gabungan selama ini. Arahnya tampak menuju struktur induk usaha dengan anak-anak bisnis yang berdiri sendiri-sendiri, tapi paparan ini belum menyebut kapan proses itu rampung dan belum ada angka kinerja tiap segmen untuk semester I 2026 yang bisa dipakai menilai segmen mana yang paling sehat. Itu yang perlu dicek dari laporan keuangan Telkom berikutnya.",
+  "imageV": "mtrald4l"
+ },
+ {
   "slug": "goto-jadwalkan-rupslb-pada-14-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "GOTO Jadwalkan [RUPSLB] pada 14 Oktober 2026",
@@ -473,6 +633,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "Kemenkeu Ajukan Anggaran [Rp49,80 Triliun] untuk 2027",
+  "deck": "Menkeu Purbaya Yudhi Sadewa mengajukan pagu anggaran Kementerian Keuangan tahun 2027 sebesar Rp49,80 triliun ke Komisi XI DPR RI.",
+  "image": "assets/img/kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T16:29:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465500-purbaya-minta-anggaran-rp4980-triliun-untuk-kemenkeu-tahun-2027",
+  "tags": [
+   "Kemenkeu",
+   "APBN 2027",
+   "Purbaya Yudhi Sadewa",
+   "Komisi XI DPR"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengajukan usulan pagu anggaran Kementerian Keuangan untuk tahun 2027 sebesar Rp49,80 triliun. Usulan itu disampaikan dalam rapat kerja bersama Komisi XI DPR RI di Gedung DPR, Jakarta Pusat, Senin (7/9/2026). Anggaran ini akan menjadi bekal operasional kementerian yang mengurus penerimaan pajak, bea cukai, dan pengelolaan keuangan negara sepanjang tahun depan.",
+   "Dari sisi sumber dananya, Purbaya merinci anggaran tersebut berasal dari tiga pos, dana rupiah murni dari APBN sebesar Rp42,34 triliun, dana kelolaan Badan Layanan Umum senilai Rp7,63 triliun, dan Penerimaan Negara Bukan Pajak sebesar Rp102,15 miliar. Porsi rupiah murni yang mendominasi menunjukkan sebagian besar biaya operasional Kemenkeu memang ditopang langsung oleh kas negara.",
+   "Berdasarkan program kerja, Rp3,62 triliun dialokasikan untuk program pengelolaan penerimaan negara, sementara program kebijakan fiskal, sektor keuangan, dan ekonomi mendapat Rp78,86 miliar. Jika dilihat dari fungsi anggarannya, porsi terbesar jatuh ke fungsi pelayanan umum sebesar Rp45,5 triliun, diikuti fungsi pendidikan Rp3,99 triliun, dan fungsi ekonomi Rp300,4 miliar.",
+   "Purbaya menambahkan bahwa strategi fiskal 2027 diarahkan untuk mendorong pertumbuhan ekonomi lewat sinergi kebijakan fiskal, sektor keuangan, moneter, dan dukungan investasi. Ia menegaskan APBN harus dijaga tetap sehat, kredibel, dan berkelanjutan agar bisa berfungsi sebagai penyangga saat ekonomi terguncang, sekaligus mendukung agenda pembangunan dan kesejahteraan masyarakat."
+  ],
+  "fotoAdegan": "Formal legislative hearing room with rows of wooden desks, microphones, and empty chairs, soft morning light through tall windows.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82bb19ac828-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru sebatas usulan, Kemenkeu meminta pagu Rp49,80 triliun untuk operasionalnya sendiri di tahun 2027, dengan porsi terbesar disokong dana rupiah murni dari APBN sebesar Rp42,34 triliun dan dipakai mayoritas untuk fungsi pelayanan umum senilai Rp45,5 triliun. Yang terdampak langsung adalah kapasitas kerja Kemenkeu sendiri, termasuk unit yang mengurus pemungutan pajak dan bea cukai, sehingga angka ini lebih menyangkut mesin pengelola keuangan negara ketimbang masyarakat secara langsung. Berita ini belum menyebut berapa pagu anggaran Kemenkeu tahun 2026 sebagai pembanding, jadi belum bisa disimpulkan apakah usulan ini naik atau turun dari tahun sebelumnya. Yang perlu ditunggu adalah keputusan persetujuan Komisi XI DPR atas usulan ini serta angka pagu 2026 untuk pembanding, supaya arah perubahannya baru bisa terbaca.",
+  "imageV": "mtraldme"
+ },
+ {
   "slug": "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
   "category": "Aksi Korporasi",
   "title": "SMFP Siapkan Dana [Pelunasan] Obligasi Rp260 Miliar",
@@ -497,6 +684,58 @@ var ARTICLES = [
   "fotoAdegan": "Rows of newly built terraced houses in a residential complex under soft morning light, no people visible",
   "takeaway": "Laporan ini condong positif bagi SMF karena menegaskan dana pelunasan, baik pokok maupun bunga, sudah tersedia penuh lebih dari sebulan sebelum jatuh tempo, sehingga risiko gagal bayar atas obligasi seri ini praktis tidak ada. Yang tersentuh adalah arus kas dan beban bunga perusahaan: begitu pokok Rp256 miliar dibayarkan pada 20 Oktober nanti, kas SMF berkurang sejumlah itu, tetapi utang obligasi seri ini juga lunas sehingga kewajiban bunga yang harus dibayar SMF ke depan ikut berkurang. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada tanggal jatuh tempo 20 Oktober 2026, dan apakah SMF kemudian menerbitkan laporan realisasi pelunasan sebagaimana lazim dilakukan emiten setelah obligasi benar-benar lunas.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026",
+  "category": "Perbankan",
+  "title": "OJK Terima [30.328] Aduan Keuangan Ilegal hingga Agustus 2026",
+  "deck": "OJK mencatat 30.328 aduan entitas keuangan ilegal hingga Agustus 2026, sementara IASC menerima 668.441 laporan penipuan dengan kerugian korban Rp206 miliar sejak beroperasi November 2024.",
+  "image": "assets/img/ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T16:15:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465488-aduan-keuangan-ilegal-membeludak-ojk-catat-30328-laporan-hingga-agustus-2026",
+  "tags": [
+   "OJK",
+   "keuangan ilegal",
+   "pinjol ilegal",
+   "IASC"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan (OJK) mencatat masih tingginya jumlah aduan masyarakat terkait entitas keuangan ilegal. Sepanjang Januari hingga 31 Agustus 2026, OJK menerima 30.328 pengaduan yang berkaitan dengan entitas ilegal, menandakan praktik pinjaman online ilegal, investasi bodong, dan skema keuangan ilegal lain masih marak menyasar masyarakat.",
+   "Kepala Eksekutif Pengawas Perilaku Pelaku Usaha Jasa Keuangan, Edukasi, dan Pelindungan Konsumen OJK, Dicky Kartikoyono, menyatakan pihaknya akan terus memperkuat pemberantasan aktivitas keuangan ilegal, termasuk dengan memanfaatkan teknologi dalam proses pengawasan dan penindakan. Melalui Satuan Tugas Pemberantasan Aktivitas Keuangan Ilegal (Satgas PASTI), OJK menemukan dan menghentikan ratusan entitas yang menjalankan aktivitas keuangan ilegal lewat berbagai situs dan aplikasi hingga akhir Agustus 2026.",
+   "Selain menangani entitas ilegal, OJK juga mengawasi penanganan penipuan di sektor jasa keuangan melalui Indonesia Anti-Scam Centre (IASC). Sejak mulai beroperasi pada 22 November 2024 hingga 31 Agustus 2026, IASC telah menerima 668.441 laporan pengaduan penipuan, dengan total kerugian yang dialami korban mencapai Rp206 miliar."
+  ],
+  "fotoAdegan": "A person's hands scrolling a smartphone late at night in a dim room, screen glow blurred, evoking risky online lending apps",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/07/03/6684e2cd9ea6f-ilustrasi-pinjol-ilegal-menawarkan-dana-untuk-main-judi-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah jumlah laporan, bukan aturan baru: OJK mencatat 30.328 aduan soal entitas keuangan ilegal sepanjang Januari sampai Agustus 2026, sementara pusat pengaduan penipuan IASC yang jalan sejak November 2024 sudah menerima 668.441 laporan dengan total kerugian korban Rp206 miliar. Yang terdampak adalah masyarakat yang jadi sasaran pinjaman online ilegal, investasi bodong, dan skema penipuan keuangan lain, sementara Satgas PASTI disebut sudah menghentikan ratusan entitas ilegal lewat berbagai situs dan aplikasi. Data yang dirilis OJK ini tidak menyertakan angka pembanding periode sebelumnya, jadi belum bisa dipastikan apakah tren aduan sedang naik, turun, atau stagnan dibanding tahun lalu, dan rincian jenis entitas yang dihentikan Satgas PASTI juga belum disebutkan. Yang perlu ditunggu adalah laporan OJK periode berikutnya serta rincian breakdown entitas dari Satgas PASTI, supaya jelas apakah 30 ribu aduan ini bagian dari pola yang membaik atau memburuk.",
+  "imageV": "mtralelm"
+ },
+ {
+  "slug": "dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah",
+  "category": "Makroekonomi",
+  "title": "DPR Soroti Sistem [Desil] yang Hambat Akses KIP Kuliah",
+  "deck": "Anggota Komisi X DPR Bonnie Triyana menilai sistem desil menyulitkan mahasiswa miskin dapat KIP Kuliah, mencontohkan kasus di Unpad.",
+  "image": "assets/img/dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T16:11:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465494-dpr-cuma-di-indonesia-orang-miskin-pakai-kasta-miskin-1-miskin-2",
+  "tags": [
+   "dpr",
+   "kip kuliah",
+   "desil",
+   "bonnie triyana"
+  ],
+  "body": [
+   "Anggota Komisi X DPR RI Bonnie Triyana mengkritik sistem desil yang menjadi salah satu syarat pencairan Kartu Indonesia Pintar (KIP) Kuliah, dalam rapat kerja Komisi X dengan Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek) di Gedung DPR, Jakarta Pusat, Senin (7/9/2026). Ia menilai pengelompokan tingkat kesejahteraan lewat desil 1 sampai 4 justru mempersulit mahasiswa dari keluarga tidak mampu untuk mendapatkan bantuan biaya kuliah dari negara. Kritik ini menyangkut akses pendidikan tinggi, yang menurutnya dijamin konstitusi, bagi kelompok masyarakat yang paling membutuhkan bantuan.",
+   "Desil adalah klasifikasi tingkat kesejahteraan penduduk yang dipakai pemerintah untuk menentukan siapa yang berhak menerima program bantuan, termasuk beasiswa kuliah. Menurut Bonnie, kesalahan pencatatan data bisa membuat status desil seseorang berubah naik meski kondisi ekonomi keluarganya sebenarnya tidak membaik, sehingga yang bersangkutan gagal memenuhi syarat KIP Kuliah. Ia mencontohkan kasus di Universitas Padjadjaran, Bandung, tempat sejumlah mahasiswa yang sudah dinyatakan diterima kuliah terancam batal mendapat KIP Kuliah karena data desil mereka tidak sesuai dengan ketentuan yang berlaku.",
+   "Bonnie mengaku menerima banyak aduan dari masyarakat bahwa desil yang ditetapkan pemerintah tidak mencerminkan kondisi ekonomi keluarga yang sebenarnya. Akibatnya, menurut dia, banyak anak dari keluarga tidak mampu batal melanjutkan kuliah meski secara ekonomi mereka layak mendapat bantuan. Ia meminta Mendiktisaintek turun tangan membenahi persoalan pendataan desil tersebut agar tidak terus menghambat mahasiswa yang berhak menerima KIP Kuliah."
+  ],
+  "fotoAdegan": "Young students carrying document folders queuing outside a public university administration building on a busy morning",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/07/6a9e7eb0abc41-anggota-komisi-x-dpr-ri-bonnie-triyana_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disorot di sini bukan aturan baru, melainkan cara pemerintah menyaring penerima KIP Kuliah lewat sistem desil, semacam peringkat tingkat kemiskinan yang dipakai untuk menentukan siapa berhak dapat bantuan negara. Bonnie Triyana menunjukkan bukti konkret, yaitu di Universitas Padjadjaran sejumlah mahasiswa yang sudah diterima kuliah terancam batal dapat beasiswa karena angka desil mereka di data pemerintah tidak sesuai syarat, padahal kondisi ekonomi keluarganya belum tentu berubah. Yang terdampak jelas calon mahasiswa dari keluarga tidak mampu yang datanya salah catat atau sudah usang. Ke depan ada dua kemungkinan, yaitu Kemendiktisaintek memperbaiki mekanisme verifikasi data desil sehingga kasus seperti di Unpad tidak berulang, atau sistem ini tetap berjalan apa adanya dan mahasiswa yang salah data harus mengurus koreksi satu per satu. Yang akan menentukan arahnya adalah jawaban resmi Mendiktisaintek dalam rapat Komisi X tersebut serta ada tidaknya revisi syarat KIP Kuliah untuk tahun ajaran mendatang.",
+  "imageV": "mtralf0l"
  },
  {
   "slug": "aces-laba-bersih-1h26-naik-33-jadi-rp390-miliar-kinerja",

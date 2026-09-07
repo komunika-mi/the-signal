@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
+  "category": "Perbankan",
+  "title": "OJK Minta Blokir [38.375] Rekening Judi Online",
+  "deck": "OJK meminta perbankan memeriksa atau memblokir 38.375 rekening terindikasi judi online hingga Juli 2026, naik dari 36.735 rekening sebelumnya.",
+  "date": "7 September 2026",
+  "image": "assets/img/ojk-minta-blokir-38-375-rekening-judi-online.jpg",
+  "imageV": "mtralauj",
+  "tags": [
+   "ojk",
+   "judi online",
+   "perbankan",
+   "pemblokiran rekening"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465547-ojk-perketat-rekening-judi-online-38375-rekening-diminta-diblokir-hingga-juli-2026"
+ },
+ {
   "slug": "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
   "category": "Aksi Korporasi",
   "title": "MEDC Koreksi Laporan, Dana Obligasi Rp990 M [Belum Terpakai]",
@@ -35,6 +52,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ebccdcc9c_afb5027339.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober",
+  "category": "Makroekonomi",
+  "title": "SPHP Berganti Nama Jadi [Beras Kita], Meluncur 20 Oktober",
+  "deck": "Pemerintah mengganti nama beras SPHP menjadi Beras Kita Medium, mulai dipasarkan 20 Oktober 2026, sejalan dengan Minyakita dan ManisKita.",
+  "date": "7 September 2026",
+  "image": "assets/img/sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober.jpg",
+  "imageV": "mtralbax",
+  "tags": [
+   "Beras Kita",
+   "SPHP",
+   "Bulog",
+   "Zulkifli Hasan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465546-beras-sphp-punya-nama-baru-pemerintah-luncurkan-beras-kita-20-oktober-2026"
  },
  {
   "slug": "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
@@ -101,6 +135,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026",
+  "category": "Makroekonomi",
+  "title": "Bea Cukai Sita Barang [Rp11,25 Triliun] hingga Agustus 2026",
+  "deck": "DJBC mencatat 20.643 penindakan senilai Rp11,25 triliun sepanjang Januari-Agustus 2026, dengan rokok ilegal sebagai kasus terbanyak.",
+  "date": "7 September 2026",
+  "image": "assets/img/bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026.jpg",
+  "imageV": "mtralbq5",
+  "tags": [
+   "bea cukai",
+   "rokok ilegal",
+   "DJBC",
+   "penindakan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465542-bea-cukai-sita-barang-rp1125-triliun-hingga-agustus-2026-rokok-ilegal-mendominasi"
+ },
+ {
   "slug": "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
   "category": "Aksi Korporasi",
   "title": "TINS Catat Laba [Melonjak] 805% Jelang Public Expose 10 Sep",
@@ -165,6 +216,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "indonesia-jadi-co-host-cismef-2026-di-china",
+  "category": "UMKM",
+  "title": "Indonesia Jadi [Co-host] CISMEF 2026 di China",
+  "deck": "Indonesia berpartisipasi sebagai Co-host Country dalam pameran UMKM CISMEF 2026 di Guangzhou untuk membuka akses pasar global bagi pelaku usaha kecil dan menengah.",
+  "date": "7 September 2026",
+  "image": "assets/img/indonesia-jadi-co-host-cismef-2026-di-china.jpg",
+  "imageV": "mtralc9h",
+  "tags": [
+   "cismef 2026",
+   "umkm",
+   "indonesia china",
+   "paviliun indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465528-perkuat-akses-umkm-ke-pasar-global-indonesia-jadi-co-host-country-cismef-2026-china"
+ },
+ {
   "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "IMAS Bantah Ada Info Material di Balik [Volatilitas] Saham",
@@ -211,6 +279,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308c2b125a_88e4464886.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ihsg-turun-0-25-sektor-keuangan-paling-tertekan",
+  "category": "Pasar Modal",
+  "title": "IHSG [Turun] 0,25%, Sektor Keuangan Paling Tertekan",
+  "deck": "IHSG ditutup melemah 16,80 poin ke 6.619,67 pada Senin, tertekan sektor keuangan yang turun 0,76 persen, sementara sektor perindustrian justru menguat 1,25 persen.",
+  "date": "7 September 2026",
+  "image": "assets/img/ihsg-turun-0-25-sektor-keuangan-paling-tertekan.jpg",
+  "imageV": "mtralcpu",
+  "tags": [
+   "IHSG",
+   "sektor keuangan",
+   "bursa efek indonesia",
+   "saham"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465511-ihsg-tertekan-025-sektor-keuangan-jadi-beban-utama-perdagangan-hari-ini"
  },
  {
   "slug": "pack-bantah-rumor-rights-issue-ungkap-sumber-lonjakan-laba",
@@ -277,6 +362,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha",
+  "category": "BUMN",
+  "title": "Telkom Rombak Bisnis, Pecah Jadi [Lima] Segmen Usaha",
+  "deck": "Telkom memecah bisnisnya menjadi lima segmen sebagai bagian transformasi TLKM 30, menuju struktur holding yang lebih transparan bagi investor.",
+  "date": "7 September 2026",
+  "image": "assets/img/telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha.jpg",
+  "imageV": "mtrald4l",
+  "tags": [
+   "Telkom",
+   "TLKM 30",
+   "restrukturisasi bisnis",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465503-jaga-momentum-pertumbuhan-ini-strategi-telkom-tingkatkan-nilai-tambah-dari-bisnis-infrastruktur-digital"
+ },
+ {
   "slug": "goto-jadwalkan-rupslb-pada-14-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "GOTO Jadwalkan [RUPSLB] pada 14 Oktober 2026",
@@ -293,6 +395,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027",
+  "category": "Makroekonomi",
+  "title": "Kemenkeu Ajukan Anggaran [Rp49,80 Triliun] untuk 2027",
+  "deck": "Menkeu Purbaya Yudhi Sadewa mengajukan pagu anggaran Kementerian Keuangan tahun 2027 sebesar Rp49,80 triliun ke Komisi XI DPR RI.",
+  "date": "7 September 2026",
+  "image": "assets/img/kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027.jpg",
+  "imageV": "mtraldme",
+  "tags": [
+   "Kemenkeu",
+   "APBN 2027",
+   "Purbaya Yudhi Sadewa",
+   "Komisi XI DPR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465500-purbaya-minta-anggaran-rp4980-triliun-untuk-kemenkeu-tahun-2027"
+ },
+ {
   "slug": "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
   "category": "Aksi Korporasi",
   "title": "SMFP Siapkan Dana [Pelunasan] Obligasi Rp260 Miliar",
@@ -307,6 +426,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97f0c2a79c_2326a4b68c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026",
+  "category": "Perbankan",
+  "title": "OJK Terima [30.328] Aduan Keuangan Ilegal hingga Agustus 2026",
+  "deck": "OJK mencatat 30.328 aduan entitas keuangan ilegal hingga Agustus 2026, sementara IASC menerima 668.441 laporan penipuan dengan kerugian korban Rp206 miliar sejak beroperasi November 2024.",
+  "date": "7 September 2026",
+  "image": "assets/img/ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026.jpg",
+  "imageV": "mtralelm",
+  "tags": [
+   "OJK",
+   "keuangan ilegal",
+   "pinjol ilegal",
+   "IASC"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465488-aduan-keuangan-ilegal-membeludak-ojk-catat-30328-laporan-hingga-agustus-2026"
+ },
+ {
+  "slug": "dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah",
+  "category": "Makroekonomi",
+  "title": "DPR Soroti Sistem [Desil] yang Hambat Akses KIP Kuliah",
+  "deck": "Anggota Komisi X DPR Bonnie Triyana menilai sistem desil menyulitkan mahasiswa miskin dapat KIP Kuliah, mencontohkan kasus di Unpad.",
+  "date": "7 September 2026",
+  "image": "assets/img/dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah.jpg",
+  "imageV": "mtralf0l",
+  "tags": [
+   "dpr",
+   "kip kuliah",
+   "desil",
+   "bonnie triyana"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465494-dpr-cuma-di-indonesia-orang-miskin-pakai-kasta-miskin-1-miskin-2"
  },
  {
   "slug": "aces-laba-bersih-1h26-naik-33-jadi-rp390-miliar-kinerja",
@@ -6401,152 +6554,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2b6aa49c2f_92876f9bdf.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pool-tunda-rupslb-agendakan-audit-empat-tahun-sekaligus",
-  "category": "Aksi Korporasi",
-  "title": "POOL Tunda RUPSLB, Agendakan Audit [Empat Tahun] Sekaligus",
-  "deck": "Pool Advista Indonesia (POOL) menggeser RUPSLB dari 3 menjadi 22 September 2026, dengan agenda penunjukan akuntan publik untuk mengaudit laporan keuangan empat tahun buku sekaligus, 2023-2026.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POOL",
-   "RUPSLB",
-   "audit laporan keuangan",
-   "Pool Advista"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/366a2f7e34_13edbdddf7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-tegaskan-tak-ada-informasi-material-di-balik-gejolak-saham",
-  "category": "Aksi Korporasi",
-  "title": "TOWR Tegaskan Tak Ada [Informasi Material] di Balik Gejolak Saham",
-  "deck": "Sarana Menara Nusantara menjawab permintaan penjelasan BEI atas volatilitas transaksi saham TOWR, menyatakan tidak ada informasi material yang belum diungkapkan.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/a14e65995f_cbc9b8eadd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soho-rombak-direksi-harry-salam-jadi-presiden-direktur",
-  "category": "Aksi Korporasi",
-  "title": "SOHO Rombak [Direksi], Harry Salam Jadi Presiden Direktur",
-  "deck": "RUPSLB SOHO menyetujui Ery Yunasri turun dari Presiden Direktur ke Komisaris, digantikan Harry Salam yang sebelumnya Komisaris Independen, efektif 31 Agustus 2026.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOHO",
-   "Direksi",
-   "Komisaris",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/534bf1e89d_47fb92c447.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wbsa-laba-semester-i-anjlok-95-saham-beredar-naik-26",
-  "category": "Aksi Korporasi",
-  "title": "WBSA: Laba Semester I [Anjlok] 95%, Saham Beredar Naik 26%",
-  "deck": "Laba bersih WBSA anjlok 95 persen menjadi Rp1,02 miliar pada semester I 2026 meski pendapatan naik, sementara saham beredar bertambah 26 persen usai penggabungan entitas anak.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WBSA",
-   "laporan keuangan",
-   "laba bersih",
-   "penggabungan usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/63cb3f2c6d_e456a28f84.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik",
-  "category": "BUMN",
-  "title": "Telkom Solution [Bidik] Ekspansi B2B ICT ke Asia Pasifik",
-  "deck": "Telkom Solution memperkuat layanan B2B ICT terintegrasi, dari konektivitas hingga AI, untuk menyasar pelanggan korporat dan memperluas bisnis ke kawasan Asia Pasifik.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/telkom-solution-bidik-ekspansi-b2b-ict-ke-asia-pasifik.jpg",
-  "imageV": "mthi424e",
-  "tags": [
-   "Telkom",
-   "AI",
-   "Teknologi",
-   "Enterprise"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463938-telkom-solution-terus-perkuat-b2b-ict-bidik-pertumbuhan-bisnis-enterprise-di-kawasan-asia-pasifik"
- },
- {
-  "slug": "meds-jelaskan-ke-bursa-soal-kas-menyusut-67-persen-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "MEDS jelaskan ke bursa soal [kas] menyusut 67 persen semester I",
-  "deck": "Hetzer Medical Indonesia menjawab permintaan penjelasan BEI soal koreksi laporan keuangan kuartal I 2026 dan kas yang turun dari Rp779,02 juta menjadi Rp252,69 juta per Juni 2026.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDS",
-   "keterbukaan informasi",
-   "laporan keuangan",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/137fe4c670_e8c2685589.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smbr-laba-semester-i-2026-anjlok-72-jadi-rp21-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SMBR: Laba Semester I 2026 [Anjlok] 72% Jadi Rp21,2 Miliar",
-  "deck": "Laba bersih PT Semen Baturaja turun 72,4 persen menjadi Rp21,2 miliar pada semester I 2026, sementara pendapatan hanya turun 12,2 persen akibat kenaikan beban penjualan dan tekanan margin.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMBR",
-   "Semen Baturaja",
-   "laporan keuangan",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831182144-64342-0/FinancialStatement-2026-II-SMBR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat",
-  "category": "Pasar Modal",
-  "title": "IHSG [Turun] Tipis ke 6.509,77, Bank Besar Justru Menguat",
-  "deck": "IHSG ditutup melemah 0,13 persen ke 6.509,77 mengekor bursa Wall Street yang tertekan, tapi saham BBCA, BMRI, dan BBRI justru naik.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/ihsg-turun-tipis-ke-6-509-77-bank-besar-justru-menguat.jpg",
-  "imageV": "mthi42m8",
-  "tags": [
-   "IHSG",
-   "BBCA",
-   "Bursa Saham",
-   "Bank Besar"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463905-ihsg-ditutup-merah-di-650977-saham-bank-besar-bergerak-beragam"
- },
- {
-  "slug": "telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt",
-  "category": "BUMN",
-  "title": "Telkom Akses Kerahkan [150] Teknisi Pulihkan Jaringan NTT",
-  "deck": "Pascagempa NTT, Telkom Akses menurunkan lebih dari 150 teknisi dan memulihkan jaringan telekomunikasi penuh dalam tiga hari di tengah medan rawan longsor.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/telkom-akses-kerahkan-150-teknisi-pulihkan-jaringan-ntt.jpg",
-  "imageV": "mthi430y",
-  "tags": [
-   "Telkom Akses",
-   "TelkomGroup",
-   "Gempa NTT",
-   "Pemulihan Jaringan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463903-telkom-akses-terjunkan-150-teknisi-untuk-pulihkan-jaringan-pascagempa-ntt-layanan-siaga-24-jam"
  }
 ];

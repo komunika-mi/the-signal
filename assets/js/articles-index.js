@@ -5,6 +5,230 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "imjs-jawab-bursa-soal-volatilitas-ungkap-anak-usaha-baru",
+  "category": "Aksi Korporasi",
+  "title": "IMJS Jawab Bursa soal Volatilitas, Ungkap [Anak Usaha] Baru",
+  "deck": "IMJS menjawab permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi sahamnya, dan menyebut pendirian anak usaha baru sebagai pemicu keterbukaan informasi terakhir.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMJS",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3ddb8c5654_4b708e8bc6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "IMAS Bantah Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "Menjawab permintaan BEI soal volatilitas transaksi sahamnya, Indomobil Sukses Internasional menyatakan tak ada informasi material tersembunyi dan tak ada aksi korporasi dalam tiga bulan ke depan.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMAS",
+   "Indomobil Sukses Internasional",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ed4f7164b_27139f6951.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-bukukan-rugi-rp259-5-miliar-pln-cairkan-bank-garansi",
+  "category": "Aksi Korporasi",
+  "title": "TGRA Bukukan Rugi Rp259,5 Miliar, PLN Cairkan [Bank Garansi]",
+  "deck": "Laporan keuangan tahunan TGRA mencatat rugi Rp259,52 miliar dan ekuitas ambles 83,45 persen, dipicu penurunan nilai aset proyek listrik dan klaim bank garansi oleh PT PLN akibat proyek yang molor.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan tahunan",
+   "going concern",
+   "PLN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260907173118-64345-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibst-partisipasi-vto-iforte-tembus-76-diperpanjang-ke-okt",
+  "category": "Aksi Korporasi",
+  "title": "IBST: Partisipasi [VTO] Iforte Tembus 76%, Diperpanjang ke Okt",
+  "deck": "Iforte perpanjang lagi masa tender sukarela saham IBST hingga 2 Oktober 2026, sembari melaporkan hasil sementara: 76 persen saham publik sudah ikut serta.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBST",
+   "tender offer",
+   "Iforte",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308c2b125a_88e4464886.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-bantah-rumor-rights-issue-ungkap-sumber-lonjakan-laba",
+  "category": "Aksi Korporasi",
+  "title": "PACK Bantah Rumor [Rights Issue], Ungkap Sumber Lonjakan Laba",
+  "deck": "PACK menjelaskan ke Bursa bahwa lonjakan laba bersih 1.431,5% pada semester I 2026 berasal dari bagian laba anak usaha tambang, bukan bisnis inti, sembari membantah rumor rencana rights issue.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "kinerja keuangan",
+   "rights issue",
+   "entitas asosiasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1789b9c052_b5b95457c5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dr-waran-bmri-disesuaikan-usai-dividen-rp66-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "DR: Waran BMRI Disesuaikan usai [Dividen] Rp66 per Saham",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur BMRI menyusul rencana dividen tunai Rp6,16 triliun, dibayar 2 Oktober 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "BMRI",
+   "Waran Terstruktur",
+   "Dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d770db69f_c45527ab8a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnbs-raih-peringkat-idaa-dari-pefindo-outlook-stabil",
+  "category": "Aksi Korporasi",
+  "title": "PNBS Raih Peringkat [idAA-] dari Pefindo, Outlook Stabil",
+  "deck": "Pefindo menetapkan peringkat idAA- dengan outlook stabil bagi Bank Panin Dubai Syariah untuk periode September 2026 hingga September 2027, berdasarkan laporan keuangan terbaru bank.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBS",
+   "Pefindo",
+   "peringkat kredit",
+   "bank syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5bedd24ad_fef6a8f4e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asii-laba-semester-i-turun-19-buyback-saham-digenjot-rp8-t",
+  "category": "Aksi Korporasi",
+  "title": "ASII: Laba Semester I Turun 19%, [Buyback] Saham Digenjot Rp8 T",
+  "deck": "Materi public expose ASII: laba bersih semester I 2026 turun 19% jadi Rp12,5 triliun, tertekan pelemahan tambang, sembari lanjutkan buyback saham hingga Rp8 triliun.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASII",
+   "Astra International",
+   "laba bersih",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5a376b9f5d_fb1792acac.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "goto-jadwalkan-rupslb-pada-14-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "GOTO Jadwalkan [RUPSLB] pada 14 Oktober 2026",
+  "deck": "GoTo Gojek Tokopedia akan menggelar RUPSLB pada 14 Oktober 2026, dengan pemegang saham yang tercatat per 21 September 2026 berhak hadir dan memberi suara.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOTO",
+   "RUPSLB",
+   "GoTo Gojek Tokopedia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/003351c5b2_eac6908a6e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SMFP Siapkan Dana [Pelunasan] Obligasi Rp260 Miliar",
+  "deck": "SMF menyiapkan dana Rp256 miliar plus bunga Rp4,048 miliar dalam bentuk deposito untuk melunasi obligasi SMFP07BCN2 yang jatuh tempo 20 Oktober 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMFP",
+   "obligasi",
+   "SMF",
+   "pelunasan obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97f0c2a79c_2326a4b68c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aces-laba-bersih-1h26-naik-33-jadi-rp390-miliar-kinerja",
+  "category": "Aksi Korporasi",
+  "title": "ACES: Laba Bersih 1H26 Naik 33% jadi Rp390 Miliar [Kinerja]",
+  "deck": "Materi public expose tahunan AHI menunjukkan penjualan semester I 2026 naik 6,3% dan laba bersih melonjak 33,3% menjadi Rp390 miliar, dengan posisi kas bersih terjaga.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACES",
+   "AHI",
+   "ritel",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cd9bd3ac8d_e8fd045b33.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bkdp-keluar-dari-pemantauan-khusus-bei-per-8-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "BKDP [Keluar] dari Pemantauan Khusus BEI per 8 September 2026",
+  "deck": "Bursa mencabut status pemantauan khusus saham Bukit Darmo Property (BKDP) mulai 8 September 2026, setelah pemicu suspensi perdagangan yang dialaminya dinyatakan sudah tidak berlaku.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BKDP",
+   "Bursa Efek Indonesia",
+   "Pemantauan Khusus",
+   "Bukit Darmo Property"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef7d49d620_8d13a83e94.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-pindah-ke-papan-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Pindah ke [Papan Pemantauan Khusus] BEI",
+  "deck": "BEI memindahkan saham MKNT dari Papan Pengembangan ke Papan Pemantauan Khusus mulai 8 September 2026 akibat harga rendah dan ekuitas negatif.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "Papan Pemantauan Khusus",
+   "BEI",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2425f6d706_380a7adb57.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ucid-jadwalkan-rupslb-14-oktober-agenda-belum-diumumkan",
+  "category": "Aksi Korporasi",
+  "title": "UCID Jadwalkan [RUPSLB] 14 Oktober, Agenda Belum Diumumkan",
+  "deck": "Uni-Charm Indonesia mengumumkan rencana RUPSLB pada 14 Oktober 2026. Tenggat pengajuan usulan agenda oleh pemegang saham jatuh pada 15 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UCID",
+   "RUPSLB",
+   "Uni-Charm Indonesia",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7eb112c652_86008b2322.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",
   "category": "Industri",
   "title": "Uji Lab Sebut 90 Persen Beras Fortifikasi [Melanggar]",
@@ -6333,233 +6557,5 @@ var ARTICLES = [
    "suku bunga"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as"
- },
- {
-  "slug": "minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz",
-  "category": "Energi",
-  "title": "Minyak Dunia [Tembus] US$90 usai AS Serang Iran di Hormuz",
-  "deck": "Harga minyak Brent dan WTI melonjak lebih dari 2 persen setelah AS menyerang peluncur Iran di Selat Hormuz, memicu kekhawatiran gangguan pasokan minyak dunia.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/minyak-dunia-tembus-us-90-usai-as-serang-iran-di-hormuz.jpg",
-  "imageV": "mtgsk6xj",
-  "tags": [
-   "harga minyak dunia",
-   "selat hormuz",
-   "serangan as iran",
-   "harga minyak brent"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463783-harga-minyak-dunia-mendadak-tembus-us90-serangan-as-ke-iran-bikin-pasar-ketar-ketir"
- },
- {
-  "slug": "life-tanggapi-bursa-ungkap-progres-spin-off-unit-syariah-ke-ojk",
-  "category": "Aksi Korporasi",
-  "title": "LIFE Tanggapi Bursa, Ungkap Progres [Spin-off] Unit Syariah ke OJK",
-  "deck": "MSIG Life Insurance Indonesia menyatakan tidak ada informasi material di balik volatilitas sahamnya, namun mengungkap proses pengalihan portofolio unit syariah dan sikap pemegang saham pengendali.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "MSIG Life Insurance",
-   "spin-off syariah",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/1f17cc6b7e_c944a3305b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-utang-bank-jangka-pendek-melonjak-509-laba-naik-43",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Utang Bank [Jangka Pendek] Melonjak 509%, Laba Naik 43%",
-  "deck": "Total liabilitas DEWI naik 64,4 persen dalam enam bulan karena utang bank jangka pendek melonjak dan utang jangka panjang lunas, sementara penjualan dan laba naik lebih dari 40 persen.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "laporan keuangan",
-   "utang bank",
-   "peternakan ayam"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831042919-64274-0/FinancialStatement-2026-II-DEWI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-kaji-bagi-dividen-usai-kuasi-reorganisasi-rampung",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Kaji Bagi [Dividen] Usai Kuasi Reorganisasi Rampung",
-  "deck": "Eagle High Plantations memaparkan hasil public expose insidentil, termasuk rencana dividen, peringkat kredit baru, dan target perluasan kebun plasma hingga 2030.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "dividen",
-   "kuasi reorganisasi",
-   "kelapa sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/8688c1653b_18d856259c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-asii-ajukan-tender-sukarela-beli-saham-rp3-600",
-  "category": "Aksi Korporasi",
-  "title": "AUTO: ASII Ajukan [Tender Sukarela] Beli Saham Rp3.600",
-  "deck": "ASII, pemegang 80% saham Astra Otoparts, menawarkan tender sukarela membeli hingga 238,4 juta saham publik (4,95%) di harga Rp3.600 per saham.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "ASII",
-   "tender sukarela",
-   "Astra Otoparts"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/84f1333bdc_b7d35f61d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsky-laporkan-progres-pemulihan-baru-bayar-utang-13",
-  "category": "Aksi Korporasi",
-  "title": "JSKY Laporkan Progres Pemulihan, Baru Bayar Utang [13%]",
-  "deck": "Sky Energy Indonesia melaporkan progres pemulihan penyebab suspensi ke BEI, termasuk negosiasi akhir skema cessie dengan calon investor dan pembayaran utang homologasi yang baru mencapai 13 persen.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSKY",
-   "suspensi saham",
-   "PKPU",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/3673ee6471_91127fc21c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-tawarkan-obligasi-dan-sukuk-baru-rp3-5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INKP Tawarkan Obligasi dan Sukuk Baru [Rp3,5 Triliun]",
-  "deck": "Indah Kiat Pulp & Paper merilis rincian penawaran obligasi, sukuk mudharabah, dan obligasi dolar tahap baru dengan total target Rp3,5 triliun plus US$25 juta.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/c62198c777_37d63da294.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admf-komisaris-theresia-widjaja-ajukan-pengunduran-diri",
-  "category": "Aksi Korporasi",
-  "title": "ADMF: Komisaris Theresia Widjaja Ajukan [Pengunduran Diri]",
-  "deck": "Komisaris ADMF, Theresia Adriana Widjaja, mengajukan pengunduran diri lewat surat tertanggal 28 Agustus 2026. Keputusan final soal jabatannya akan diambil dalam RUPS.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "Komisaris",
-   "RUPS",
-   "Adira Dinamika Multi Finance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/0f3a0fa10c_61783c22cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asii-ajukan-tender-sukarela-beli-saham-auto-rp858-4-m",
-  "category": "Aksi Korporasi",
-  "title": "ASII Ajukan [Tender] Sukarela Beli Saham AUTO Rp858,4 M",
-  "deck": "ASII mengajukan penawaran tender sukarela untuk membeli hingga 4,947% saham AUTO senilai maksimum Rp858,4 miliar, menambah kepemilikannya menjadi 84,947%.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASII",
-   "AUTO",
-   "tender sukarela",
-   "Astra Otoparts"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/38b75aa4c8_8b716ca046.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "backlog-rumah-turun-ke-12-39-persen-masih-9-29-juta-keluarga",
-  "category": "Makroekonomi",
-  "title": "Backlog Rumah Turun ke [12,39] Persen, Masih 9,29 Juta Keluarga",
-  "deck": "BPS mencatat penurunan angka backlog perumahan pada 2026, tapi 9,29 juta keluarga masih belum punya rumah sendiri dan 18,01 juta keluarga menghuni rumah tak layak.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/konstruksi-perumahan.jpg",
-  "tags": [
-   "backlog perumahan",
-   "BPS",
-   "rumah layak huni",
-   "perumahan"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2651",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri",
-  "category": "Industri",
-  "title": "MIND ID Dorong Hilirisasi Tambang untuk [Perkuat] Ekonomi RI",
-  "deck": "MIND ID menyebut pengolahan mineral dan batu bara di dalam negeri jadi fondasi penguatan ekonomi nasional, didukung penguasaan sekitar 42 persen cadangan nikel dunia.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/mind-id-dorong-hilirisasi-tambang-untuk-perkuat-ekonomi-ri.jpg",
-  "imageV": "mtg55uum",
-  "tags": [
-   "MIND ID",
-   "hilirisasi",
-   "mineral",
-   "batu bara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463719-industrialisasi-pertambangan-jadi-modal-perkuat-ekonomi-nasional-indonesia"
- },
- {
-  "slug": "winr-pemegang-saham-lepas-16-25-juta-lembar-saham",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang saham lepas [16,25 juta] lembar saham",
-  "deck": "Pemenang Nusantara Internasional menjual 16,25 juta saham WINR pada 21 Agustus 2026, hak suaranya turun tipis dari 49,36% menjadi 49,05%.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "pemegang saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-30082026-0878-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja",
-  "category": "UMKM",
-  "title": "LPDB Puji KSP Balo'ta, [Dampingi] 40 KDKMP di Toraja",
-  "deck": "LPDB Koperasi memuji rekam jejak KSP Balo'ta di Tana Toraja yang tak pernah gagal bayar dan kini mendampingi 40 koperasi desa Merah Putih di wilayah itu.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/lpdb-puji-ksp-balo-ta-dampingi-40-kdkmp-di-toraja.jpg",
-  "imageV": "mtfwf9ix",
-  "tags": [
-   "LPDB Koperasi",
-   "KSP Balo'ta",
-   "Koperasi Merah Putih",
-   "Tana Toraja"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463695-lpdb-koperasi-apresiasi-ksp-balota-dampingi-40-kdkmp-di-tana-toraja"
- },
- {
-  "slug": "rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan",
-  "category": "Moneter",
-  "title": "Rupiah Berpeluang ke Rp17.900, [Inflasi] Jadi Penentu Pekan Depan",
-  "deck": "Rupiah diproyeksi bergerak di rentang Rp17.600 hingga Rp17.900 per dolar AS pekan depan, menanti rilis data inflasi dan neraca perdagangan Juli.",
-  "date": "30 Agustus 2026",
-  "image": "assets/img/rupiah-berpeluang-ke-rp17-900-inflasi-jadi-penentu-pekan-depan.jpg",
-  "imageV": "mtfwfa5y",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "inflasi",
-   "kurs"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463690-rupiah-bisa-tembus-rp17900-per-dolar-as-pekan-depan-inflasi-dan-the-fed-jadi-penentu"
  }
 ];

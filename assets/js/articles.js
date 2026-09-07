@@ -307,6 +307,32 @@ var ARTICLES = [
   "imageV": "mtrms3al"
  },
  {
+  "slug": "snlk-jelaskan-ke-bursa-sebab-rugi-beruntun-3-tahun-phk-56",
+  "category": "Aksi Korporasi",
+  "title": "SNLK Jelaskan ke Bursa Sebab Rugi Beruntun 3 Tahun, [PHK] 56%",
+  "deck": "Dalam tanggapan resmi ke bursa, SNLK membeberkan penyebab rugi tiga tahun beruntun, pemangkasan karyawan 56%, hingga kemenangan gugatan Rp12 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T21:46:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b015878b0_a115651aa7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SNLK",
+  "tags": [
+   "SNLK",
+   "rugi bersih",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sunter Lakeside Hotel Tbk (SNLK) menyampaikan tanggapan atas permintaan penjelasan Bursa Efek Indonesia terkait laporan keuangan per 31 Desember 2025 dan 30 Juni 2026. Perseroan mengonfirmasi rugi bersih tahun berjalan 2025 sebesar Rp4,45 miliar, naik 182,4 persen dari rugi Rp1,58 miliar pada 2024, di tengah pendapatan yang turun 12,9 persen dari Rp52,85 miliar menjadi Rp46,01 miliar. Manajemen menjelaskan penurunan pendapatan dipicu kontraksi tajam segmen perjalanan dinas dan kegiatan MICE (rapat, insentif, konvensi, dan pameran) akibat pembatasan belanja instansi maupun swasta, ditambah perlambatan ekonomi makro. Perseroan mencatat rugi sebelum pajak selama tiga tahun berturut-turut, yakni Rp1,54 miliar pada 2023, Rp1,70 miliar pada 2024, dan Rp4,46 miliar pada 2025, namun manajemen dan auditor independen menyatakan tidak menemukan masalah kelangsungan usaha (going concern).",
+   "Dari sisi aset, nilai aset tetap turun 4,59 persen menjadi Rp97,5 miliar karena belanja modal tahun ini hanya Rp1,08 miliar, jauh di bawah beban penyusutan yang mencapai Rp5,71 miliar. Jumlah karyawan turun dari 32 menjadi 14 orang atau berkurang 56,3 persen, yang menurut perseroan merupakan kebijakan sumber daya manusia yang lebih efisien biaya, sementara liabilitas imbalan kerja karyawan kontrak justru naik 116,3 persen. Piutang usaha naik 45,9 persen menjadi Rp2,09 miliar karena pendapatan Desember 2025 lebih tinggi dibanding tahun sebelumnya, dan perseroan mengklaim rutin menagih lewat surat pengingat berkala.",
+   "Perseroan juga mengungkapkan gugatan perdata senilai Rp12 miliar dari seorang penyewa sejak Agustus 2022 terkait sengketa sewa ruangan yang telah berakhir masa berlakunya. Perkara ini sudah dimenangkan SNLK dan berkekuatan hukum tetap berdasarkan putusan Pengadilan Tinggi Jakarta dan peninjauan kembali Mahkamah Agung, sehingga tidak berdampak pada kondisi keuangan perseroan. Untuk properti investasi berupa tanah dan bangunan di Jalan HOS Cokroaminoto, sejak November 2025 perseroan menyewakan langsung ke PT MCR Bangun Persada senilai Rp2,25 miliar hingga November 2028, menggantikan skema bagi hasil dengan pihak berelasi PT Dirga Surya yang berakhir Oktober 2025. Perjanjian sewa gudang pendingin dengan pihak berelasi PT First National Cooling Industry juga diperpanjang untuk periode 2026-2030 senilai total Rp31,4 miliar, mengikuti penilaian KJPP tahun 2020. Perseroan menyebut revaluasi independen atas properti investasinya terakhir dilakukan 2020 dan direncanakan diperbarui pada 2026."
+  ],
+  "fotoAdegan": "An empty hotel lobby with vacant armchairs and a lone housekeeping cart, soft morning light through windows",
+  "takeaway": "Penjelasan ini condong negatif bagi SNLK karena mengonfirmasi rugi bersih membengkak dan berlangsung tiga tahun berturut-turut, sementara pendapatan terus menyusut akibat merosotnya segmen perjalanan dinas dan MICE. Yang tersentuh adalah laba bersih dan kualitas aset tetap perseroan, sebab belanja modal tahun ini cuma Rp1,08 miliar jauh di bawah beban penyusutan Rp5,71 miliar, artinya nilai aset hotel berkurang lebih cepat daripada yang digantikan sehingga daya saing fasilitas berisiko tergerus seiring waktu. Pemangkasan karyawan dari 32 menjadi 14 orang menunjukkan perseroan menekan biaya operasional di tengah pendapatan yang melemah. Ada juga kabar baik, gugatan perdata Rp12 miliar yang membayangi perseroan sejak 2022 sudah dimenangkan dan berkekuatan hukum tetap sehingga tidak lagi jadi beban. Yang perlu dipantau selanjutnya adalah rencana penilaian ulang aset properti investasi oleh penilai independen pada 2026, mengingat nilai wajar terakhir baru dihitung pada 2020 dan bursa sudah mempertanyakan keterlambatan itu.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "utang-whoosh-bakal-ditanggung-smv-kemenkeu",
   "category": "BUMN",
   "title": "Utang Whoosh Bakal Ditanggung [SMV] Kemenkeu",
@@ -727,6 +753,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah statusnya, dari sekadar peserta menjadi Co-host Country CISMEF 2026, dengan Kementerian UMKM dan ATTEC membawa Paviliun Indonesia berisi produk UMKM, potensi daerah, dan peluang investasi selama 3 sampai 6 September di Guangzhou. Yang terdampak langsung adalah pelaku UMKM yang produknya dipajang di paviliun tersebut, termasuk yang difasilitasi Choose Jakarta, karena merekalah yang berpeluang bertemu langsung dengan calon pembeli dan investor dari China. Beritanya belum menyebut angka hasil konkret, seperti berapa UMKM yang ikut, berapa nilai transaksi, atau berapa MoU yang benar-benar diteken lewat business matching itu, jadi belum bisa dipastikan apakah kehadiran di Guangzhou ini berbuah kerja sama nyata atau berhenti di tahap promosi. Penanda paling dekat untuk melihat kelanjutannya adalah APEC Economic Leaders' Meeting di Shenzhen pada 18-19 November 2026, yang disebut sebagai rangkaian agenda yang sama, jadi ada baiknya dicermati apakah pertemuan itu menghasilkan kesepakatan dagang atau investasi yang bisa ditelusuri balik ke ajang CISMEF ini.",
   "imageV": "mtralc9h"
+ },
+ {
+  "slug": "hdfa-paparkan-kinerja-2026-ekuitas-masih-tertekan",
+  "category": "Aksi Korporasi",
+  "title": "HDFA Paparkan Kinerja 2026, Ekuitas Masih [Tertekan]",
+  "deck": "Dalam materi Public Expose Tahunan ke bursa, Radana Bhaskara Finance (HDFA) membeberkan rincian kinerja semester I 2026 dan strategi tujuh poin untuk sisa tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T17:51:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e36a33972_d001a72ef8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HDFA",
+  "tags": [
+   "HDFA",
+   "Radana Bhaskara Finance",
+   "Public Expose",
+   "multifinance"
+  ],
+  "body": [
+   "PT Radana Bhaskara Finance Tbk (HDFA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat nomor 166/LCS/BEI/IX/2026 tertanggal 7 September 2026, sebagai koreksi atas surat sebelumnya nomor 164/LCS/BEI/IX/2026. Surat ditandatangani oleh Corporate Secretary Hanindya Aryoputro dan merujuk pada rencana pelaksanaan Public Expose Tahunan yang sebelumnya diumumkan lewat surat nomor 159/LCD/BEI/VIII/2026 tanggal 24 Agustus 2026. Materi presentasi berjudul 'Public Expose 2026' dijadwalkan dipaparkan di Jakarta pada 8 September 2026.",
+   "Dalam materi tersebut, Radana Finance melaporkan kinerja hingga semester I 2026: total aset Rp2,99 triliun, total liabilitas Rp2,50 triliun, dan total ekuitas Rp493 miliar. Perusahaan mencatat laba bersih Rp1,53 miliar pada semester I 2026, berbalik dari rugi Rp82 miliar sepanjang 2025 yang saat itu disebabkan pembentukan pencadangan risiko kredit. Pendapatan tercatat Rp200 miliar dengan beban operasional Rp199 miliar, sehingga margin usahanya masih sangat tipis. Rasio kredit bermasalah bersih atau NPF-Net membaik menjadi 2,62% per Juni 2026, turun 68 basis poin dibanding posisi akhir 2025 yang sebesar 3,30%.",
+   "Radana menyalurkan pembiayaan baru senilai Rp1.642 miliar pada semester I 2026, dengan komposisi factoring 54,88% (Rp0,9 triliun), pembiayaan berbasis aset atau ABF 34,15% (Rp0,56 triliun), dan fasilitas modal kerja atau FMU 10,98% (Rp0,18 triliun). Piutang pembiayaan tercatat Rp2.599 miliar, didominasi ABF sebesar 71,54% (Rp1,86 triliun). Perusahaan juga memaparkan tujuh strategi 2026: meningkatkan pangsa pasar dari cakupan pasar yang sudah dimiliki, memperkuat hubungan dengan dealer eksisting dan dealer potensial baru lewat program pemasaran, menawarkan pembiayaan modal kerja kepada debitur eksisting lewat skema cross-sell dan pre-approved, menajamkan fokus pada nasabah inti berportofolio besar, meningkatkan keterampilan karyawan serta efisiensi proses, memperluas akses pendanaan dari bank domestik dan internasional dengan bunga kompetitif, dan mengembangkan produk pembiayaan investasi serta modal kerja. Materi ini juga mencantumkan komposisi pemegang saham perusahaan, yaitu Rubicon Investments Holding Pte Ltd 55,2%, PT Tiara Marga Trakindo 37,2%, dan publik 7,6%."
+  ],
+  "fotoAdegan": "Excavator being loaded onto a flatbed truck at a heavy equipment yard, workers in hard hats, overcast morning light",
+  "takeaway": "Laporan ini netral bagi HDFA karena sebagian besar angka yang dipaparkan menegaskan pemulihan yang sudah lebih dulu diberitakan awal September, bukan kabar baru yang mengubah arah. Yang perlu dicermati adalah ekuitas, yaitu selisih antara total aset dan total utang yang mencerminkan modal sendiri perusahaan, yang tercatat Rp493 miliar pada semester I 2026, masih jauh di bawah Rp616 miliar pada 2023 meski sudah berhenti tergerus. Margin usaha juga masih tipis, pendapatan Rp200 miliar nyaris habis oleh beban Rp199 miliar, sehingga laba bersih hanya Rp1,53 miliar meski rasio kredit bermasalah membaik ke 2,62%. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan pada 8 September 2026 dan apakah realisasi semester II bisa mendekati target proyeksi manajemen sendiri, yaitu laba bersih Rp8 miliar dan pembiayaan baru Rp4,146 triliun sepanjang 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
@@ -1199,6 +1251,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "obligasi-bslt-rp750-miliar-resmi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BSLT Rp750 Miliar Resmi [Jatuh Tempo]",
+  "deck": "Obligasi Berkelanjutan I Bank SulutGo seri BSLT01CN1 senilai Rp750 miliar jatuh tempo dan didelisting dari BEI mulai 7 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:51:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/867087eb9c_86d9840379.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSLT",
+  "tags": [
+   "BSLT",
+   "obligasi",
+   "jatuh tempo",
+   "Bank SulutGo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan I Bank SulutGo Tahap I Tahun 2021 seri BSLT01CN1 milik PT Bank Pembangunan Daerah Sulawesi Utara Gorontalo (BSLT) resmi jatuh tempo pada 7 September 2026. Sejak tanggal tersebut, obligasi ini tidak lagi tercatat dan tidak dapat diperdagangkan di BEI.",
+   "Berdasarkan dokumen keterbukaan, obligasi ini diterbitkan pada 7 September 2021 dengan prospektus bertanggal 31 Agustus 2021, dan nilai seri emisinya sebesar Rp750.000 juta atau setara Rp750 miliar. Dengan kata lain, obligasi ini bertenor lima tahun sejak awal penerbitan hingga jatuh tempo hari ini.",
+   "Pengumuman ini bersifat administratif dari sisi bursa, sebagai penanda berakhirnya masa pencatatan efek utang tersebut sesuai jadwal yang sudah ditetapkan sejak penerbitan pada 2021."
+  ],
+  "fotoAdegan": "Regional bank branch counter in Indonesia with tellers assisting customers, calm morning atmosphere, wide shot",
+  "takeaway": "Laporan ini netral bagi BSLT karena obligasi Rp750 miliar ini memang dijadwalkan jatuh tempo lima tahun sejak diterbitkan pada 2021, sehingga keluarnya efek ini dari pencatatan bursa adalah proses rutin, bukan tanda gagal bayar. Yang tersentuh adalah pos utang bank, sebab obligasi merupakan pinjaman yang harus dilunasi pada tanggal jatuh temponya, dan pelunasan sebesar Rp750 miliar ini akan mengurangi kewajiban di neraca sekaligus menyedot arus kas bank dalam jumlah besar. Pelaku pasar akan mencermati apakah BSLT melunasi obligasi ini dari kas internal atau menerbitkan surat utang baru sebagai pengganti, karena pilihan itu menentukan apakah total utang bank benar-benar berkurang atau hanya berpindah bentuk. Yang perlu dipantau berikutnya adalah laporan keuangan BSLT untuk kuartal III 2026, yang akan memperlihatkan perubahan pos liabilitas obligasi setelah tanggal jatuh tempo 7 September 2026 ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
   "category": "Aksi Korporasi",
   "title": "ARTO: Laba Bank Jago [Melonjak] 49% ke Rp189 Miliar",
@@ -1329,6 +1407,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "obligasi-dan-sukuk-apai-rp281-miliar-resmi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi dan Sukuk APAI Rp281 Miliar Resmi [Jatuh Tempo]",
+  "deck": "Obligasi dan sukuk ijarah APAI senilai total Rp281 miliar jatuh tempo 8 September 2026 dan otomatis didelisting dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:24:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ac35d5b8d_3993ed1aed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APAI",
+  "tags": [
+   "APAI",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa dua instrumen utang emiten berkode APAI resmi jatuh tempo dan tidak lagi diperdagangkan mulai 8 September 2026. Keduanya adalah Obligasi Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri B dengan kode APAI01BCN1 senilai Rp66 miliar, dan Sukuk Ijarah Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri B dengan kode SIAPAI01BCN1 senilai Rp215 miliar. Pengumuman ini tertuang dalam surat bernomor Peng-JTO-00060/BEI.PP2/09-2026 yang terbit 7 September 2026.",
+   "Kedua efek ini pertama kali diterbitkan pada 8 September 2021 dengan jangka waktu 5 tahun. Obligasi Seri B membawa bunga tetap 7,10 persen per tahun yang dibayarkan setiap triwulan, sementara sukuk ijarah Seri B memberikan cicilan imbalan ijarah setara 7,1 persen per tahun dari nilai pokoknya. Sesuai skema bullet payment yang dipakai, seluruh pokok utang dilunasi sekaligus pada tanggal jatuh tempo, bukan dicicil bertahap. Kedua instrumen ini merupakan bagian dari Penawaran Umum Berkelanjutan I Angkasa Pura I, dengan total target dana Rp2,35 triliun untuk lini obligasi dan Rp1,5 triliun untuk lini sukuk ijarah, serta mendapat peringkat idAA+ dari lembaga pemeringkat efek.",
+   "Obligasi dan sukuk ini tidak memakai jaminan khusus, melainkan dijamin dengan seluruh harta kekayaan perseroan sesuai ketentuan umum dalam hukum perdata, dengan PT Bank Mega Tbk bertindak sebagai wali amanat mewakili kepentingan pemegang efek."
+  ],
+  "fotoAdegan": "Ground crew and baggage carts working around a parked commercial airplane on an airport apron at dawn.",
+  "takeaway": "Laporan ini netral bagi APAI karena hanya menandai pelunasan utang yang memang sudah dijadwalkan sejak penerbitan pada 2021, bukan kabar baru soal kondisi keuangan perusahaan. Yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan, sebab APAI harus menyiapkan dana sekaligus Rp281 miliar untuk melunasi pokok obligasi dan sukuk pada tanggal jatuh tempo, bukan mencicil bertahap. Setelah pelunasan ini, beban bunga triwulanan yang selama ini dibayarkan ke pemegang obligasi dan sukuk akan berhenti, sehingga mengurangi kewajiban rutin perusahaan ke depan. Yang perlu dipantau adalah konfirmasi pelunasan tuntas pada 8 September 2026 tanpa gagal bayar, serta apakah APAI menerbitkan surat utang baru untuk menggantikan sumber pendanaan yang telah lunas ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ggrm-catat-laba-rp2-97-triliun-semester-i-2026-utang-bank-lunas",
   "category": "Aksi Korporasi",
   "title": "GGRM catat laba [Rp2,97 triliun] semester I 2026, utang bank lunas",
@@ -1405,6 +1509,111 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide view of Jakarta's Sudirman business district skyline at dusk with illuminated office towers and light traffic below",
   "takeaway": "Laporan ini netral bagi BQ karena sifatnya mekanis, sekadar menjalankan formula baku yang sudah diatur sejak awal penerbitan waran, bukan keputusan bisnis baru dari BQ sendiri. Yang tersentuh di sini bukan pos keuangan BQ, melainkan struktur waran terstruktur, yakni instrumen turunan yang nilainya mengikuti saham BMRI. Setelah BMRI membayar dividen, harga sahamnya biasanya turun sebesar nilai dividen itu pada tanggal ex dividen, sehingga rasio dan harga pelaksanaan waran perlu disesuaikan agar pemegang waran tidak dirugikan oleh penurunan harga yang sebenarnya cuma efek pembagian dividen, bukan pelemahan kinerja BMRI. Yang perlu dipantau pemegang waran adalah tanggal ex dividen BMRI pada 16 September 2026 di pasar reguler dan negosiasi, serta pengumuman resmi berikutnya dari BQ soal angka rasio dan harga pelaksanaan yang baru, karena dokumen ini menyebutkan penyesuaian bisa saja dibatalkan sepenuhnya atas kebijakan penerbit.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ekad-fujian-youyi-bidik-51-saham-geser-eip-dari-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "EKAD: Fujian Youyi Bidik [51%] Saham, Geser EIP dari Pengendali",
+  "deck": "Materi Public Expose EKAD mengungkap rencana Fujian Youyi Adhesive Tape asal China mengambil 51 persen saham dari pengendali EIP, harga masih dinegosiasikan hingga akhir Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T14:22:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b2dbba7_bfd11e2f36.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EKAD",
+  "tags": [
+   "EKAD",
+   "akuisisi",
+   "Fujian Youyi",
+   "public expose"
+  ],
+  "body": [
+   "Ekadharma International Tbk (EKAD) menyampaikan materi Public Expose Insidentil yang mengungkap rencana perubahan pemegang saham pengendali. Pada 11 Agustus 2026, PT Ekadharma Inti Perkasa (EIP), yang saat ini menguasai 82,26 persen atau 2.874.012.300 lembar saham EKAD, menandatangani Letter of Intent for Equity Acquisition dengan perusahaan asal China, Fujian Youyi Adhesive Tape Group Co., Ltd. Target transaksi adalah 51 persen dari total saham beredar EKAD, atau 1.781.876.250 lembar saham, seluruhnya berasal dari kepemilikan EIP. Keterbukaan informasi atas rencana ini sudah disampaikan perseroan pada 12 Agustus 2026.",
+   "Jika transaksi rampung, struktur pemegang saham EKAD akan berubah signifikan. Kepemilikan EIP turun dari 82,26 persen menjadi 31,26 persen atau 1.092.136.050 lembar saham, sementara Fujian Youjia langsung memegang 51 persen dan berstatus sebagai pengendali baru perseroan. Porsi pemegang saham publik di bawah 5 persen tidak berubah, yaitu 0,92 persen dalam bentuk warkat dan 16,83 persen non warkat. Harga per saham dalam transaksi ini belum ditetapkan, akan ditentukan lewat negosiasi berdasarkan laporan penilai independen sesuai prinsip kewajaran pasar, dengan estimasi finalisasi penawaran dan negosiasi harga pada akhir Desember 2026.",
+   "Fujian Youyi Adhesive Tape Group merupakan bagian dari Fujian Youjia Group, produsen bahan perekat asal Provinsi Fujian, China, yang berdiri sejak 1986. Menurut materi yang disampaikan, grup ini memiliki 20 basis produksi di berbagai provinsi China, mempekerjakan lebih dari 8.000 orang, mengoperasikan lebih dari 200 jalur produksi pelapis, dan memasarkan produknya ke lebih dari 80 negara dengan merek Youjijiu (YOURGRAND). Tujuan akuisisi ini, menurut dokumen, adalah mendirikan basis produksi di luar negeri khususnya di Asia Tenggara, memperluas pasar internasional, dan memperkuat rantai pasokan global Fujian Youjia.",
+   "Dalam materi yang sama, EKAD juga memaparkan kinerja keuangan per Juni 2026. Total aset konsolidasian naik dari Rp1.373,50 miliar pada akhir 2025 menjadi Rp1.382,61 miliar, dengan ekuitas naik dari Rp1.259,57 miliar menjadi Rp1.267,45 miliar. Untuk periode tiga bulan yang berakhir Juni 2026, penjualan tercatat Rp296,25 miliar dibanding Rp251,89 miliar pada periode sama tahun sebelumnya, laba usaha naik dari Rp19,38 miliar menjadi Rp33,05 miliar, dan laba per saham naik dari Rp6 menjadi Rp8."
+  ],
+  "fotoAdegan": "Rolls of adhesive tape stacked on pallets inside a packaging tape factory warehouse, forklift in background",
+  "takeaway": "Laporan ini condong positif bagi EKAD karena menunjukkan perusahaan manufaktur perekat besar asal China berminat masuk sebagai pengendali baru lewat pembelian saham dalam jumlah besar, bukan sekadar transaksi kecil yang bisa diabaikan. Yang tersentuh di sini bukan neraca EKAD secara langsung, sebab saham yang diperjualbelikan berasal dari kepemilikan EIP yang sudah ada, bukan penerbitan saham baru, sehingga tidak ada dana segar yang otomatis masuk ke kas perusahaan. Justru yang berubah adalah struktur pengendalian: EIP kehilangan status mayoritas tunggal begitu porsinya turun dari 82,26 persen ke 31,26 persen, sementara data laba per saham yang naik dari Rp6 ke Rp8 dan ekuitas yang terus bertambah menunjukkan fondasi bisnis EKAD sendiri masih sehat terlepas dari rencana akuisisi ini. Pelaku pasar perlu mencermati bahwa harga saham dalam transaksi ini belum disepakati dan baru akan difinalisasi lewat negosiasi berbasis penilai independen. Yang perlu dipantau berikutnya adalah hasil negosiasi harga dan penyelesaian transaksi yang ditargetkan rampung akhir Desember 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ratu-ebitda-naik-38-jadi-us-21-3-juta-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "RATU: [EBITDA] Naik 38% Jadi US$21,3 Juta di Semester I",
+  "deck": "Paparan publik tahunan RATU mengungkap EBITDA semester I 2026 naik 38 persen menjadi US$21,28 juta, didorong kenaikan harga minyak, di tengah tantangan produksi Blok Cepu dan Jabung.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T13:55:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ead122731_a21bc6ccb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "migas",
+   "EBITDA",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, dipaparkan oleh Direktur Utama Sumantri pada 10 September 2026. Dalam dokumen itu, RATU menjelaskan perannya sebagai perusahaan induk investasi non-operator di sektor minyak dan gas, artinya perusahaan tidak mengoperasikan sendiri ladang migasnya melainkan memegang porsi bagi hasil atau participating interest di empat blok yang dioperasikan pihak lain: 2,2423 persen secara tidak langsung di Blok Cepu, 8 persen langsung di Blok Jabung, 20 persen tidak langsung di Blok Selat Madura, dan 5 persen langsung di Blok Kasuri.",
+   "Pada semester I 2026, RATU membukukan pendapatan US$25,65 juta, naik 2 persen dibandingkan periode sama tahun lalu sebesar US$25,15 juta, sejalan dengan kinerja lifting minyak dan gas di Blok Jabung. Adjusted EBITDA, yaitu laba inti dari kegiatan usaha sebelum dikurangi bunga, pajak, dan penyusutan aset, melonjak 38 persen menjadi US$21,28 juta dari US$15,37 juta pada semester I 2025, yang menurut perusahaan didorong kenaikan harga minyak mentah yang memperkuat margin.",
+   "Dari sisi operasional, produksi rata-rata Januari-Juni 2026 tercatat 127.000 barel minyak per hari di Blok Cepu, 47.283 barel setara minyak per hari di Blok Jabung, serta 2.908 barel setara minyak per hari kondensat dan 220 juta kaki kubik gas per hari di Blok Selat Madura. RATU menyebut produksi Blok Cepu tertekan oleh penurunan alami cadangan Banyu Urip dan Kedung Keris yang meningkatkan kadar air dan gas ikutan, sementara Blok Jabung sempat terganggu kebocoran pipa dan gangguan kompresor meski produksi sumur baru membantu memulihkan sebagian kehilangan produksi. Secara nasional, lifting minyak hingga Juni 2026 baru mencapai 578.000 barel per hari atau 94,8 persen dari target APBN 610.000 barel per hari, di tengah harga minyak Brent yang sempat menembus US$105 per barel pada 23 Juli 2026 menyusul penutupan Selat Hormuz akhir Februari 2026, sebelum turun ke kisaran US$95 per barel pada awal September 2026.",
+   "Dokumen ini juga merangkum rangkaian aksi korporasi RATU sejak IPO pada 8 Januari 2025 di harga Rp1.150 per saham yang menghimpun dana Rp624 miliar. Setelahnya, RATU masuk indeks MSCI Small Cap pada kuartal III 2025, menjadi anggota indeks IDX80, dan memperoleh peringkat korporasi idA dengan outlook stabil dari Pefindo pada kuartal IV 2025. Pada 2026, perusahaan mengakuisisi SMS Development Limited senilai US$121,5 juta untuk memperoleh 20 persen participating interest tidak langsung di Blok Selat Madura, didanai antara lain fasilitas kredit US$109,2 juta dari Bank Mandiri, lalu mengakuisisi 5 persen participating interest di Blok Kasuri senilai US$9,645 juta melalui anak usaha PT Raharja Energi Negeri. RATU juga menerbitkan obligasi Rp800 miliar bertenor 5 dan 7 tahun, serta membagikan dividen tunai Rp122,18 miliar atau Rp45 per saham yang disetujui dalam RUPST 7 Mei 2026."
+  ],
+  "fotoAdegan": "Oil pumpjacks and steel pipelines standing in a rural field near Bojonegoro, East Java, soft morning light",
+  "takeaway": "Paparan ini condong positif bagi RATU, sebab pertumbuhan laba inti jauh melampaui pertumbuhan pendapatan, tanda margin usaha menguat berkat harga minyak tinggi, bukan sekadar tambahan volume produksi. Yang tersentuh di sini adalah Adjusted EBITDA, yakni laba operasional inti sebelum dikurangi bunga, pajak, dan penyusutan aset, ukuran yang dipakai pelaku pasar untuk menilai profitabilitas murni perusahaan migas tanpa terpengaruh struktur pendanaan atau kebijakan akuntansi. Arus kas perusahaan tampak cukup kuat untuk membiayai dua akuisisi participating interest sekaligus, di Blok Selat Madura dan Blok Kasuri, sambil tetap membagikan dividen Rp122,18 miliar kepada pemegang saham. Meski begitu, produksi Blok Cepu yang menyusut akibat penurunan alami cadangan dan gangguan operasional di Blok Jabung jadi pengingat bahwa kenaikan laba kali ini lebih banyak ditopang harga ketimbang volume. Yang perlu dipantau berikutnya adalah penyelesaian akuisisi 5 persen participating interest di Blok Kasuri yang menurut dokumen ini masih menunggu persetujuan pemerintah, serta pembahasan perpanjangan kontrak Blok Cepu yang akan berakhir September 2035.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmri-umumkan-jadwal-dividen-interim-rp66-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "BMRI umumkan [jadwal] dividen interim Rp66 per saham",
+  "deck": "Bank Mandiri menetapkan 17 September 2026 sebagai batas pencatatan pemegang saham berhak dividen interim Rp66 per saham, dengan pembayaran pada 2 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T13:35:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/807cf59a65_001111b5f5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "dividen",
+   "Bank Mandiri",
+   "dividen interim"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk mengumumkan jadwal dan tata cara pembagian dividen tunai interim untuk tahun buku 2026 sebesar Rp66 per saham, dengan total nilai Rp6,16 triliun. Rencana ini telah disetujui Dewan Komisaris atas keputusan Direksi pada 3 September 2026, dan pengumuman jadwalnya disampaikan pada 7 September 2026 melalui Corporate Secretary Adhika Vista.",
+   "Sesuai jadwal, batas akhir perdagangan saham dengan hak dividen atau cum dividen di pasar reguler dan negosiasi jatuh pada 15 September 2026, sementara di pasar tunai pada 17 September 2026. Setelah itu saham diperdagangkan tanpa hak dividen atau ex dividen mulai 16 September 2026 untuk pasar reguler dan negosiasi, serta 18 September 2026 untuk pasar tunai. Pemegang saham yang namanya tercatat dalam daftar pemegang saham per 17 September 2026 pukul 16.00 WIB berhak menerima dividen ini, yang akan dibayarkan paling lambat pada 2 Oktober 2026 melalui KSEI bagi saham dalam penitipan kolektif, atau ditransfer langsung bagi pemegang saham warkat.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp30,4 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp211,8 triliun, dan total ekuitas Rp293 triliun. Dividen interim ini dikecualikan dari pajak penghasilan bagi pemegang saham badan dalam negeri, serta bagi pemegang saham perorangan dalam negeri sepanjang dananya diinvestasikan kembali di Indonesia. Bagi pemegang saham asing, tarif pajak mengikuti perjanjian penghindaran pajak berganda jika dokumen domisili pajaknya lengkap, dan dikenakan PPh Pasal 26 sebesar 20 persen jika dokumen tersebut tidak dipenuhi."
+  ],
+  "fotoAdegan": "Modern bank branch lobby in Jakarta with customers queuing calmly at teller counters, soft daylight through windows",
+  "takeaway": "Pengumuman jadwal ini condong netral bagi Bank Mandiri, karena keputusan dividen Rp6,16 triliun itu sendiri sudah diumumkan dan dinilai positif tiga hari sebelumnya, sementara isi laporan ini hanya memuat tanggal-tanggal teknis pelaksanaannya. Yang tersentuh adalah kas dan ekuitas perusahaan, yaitu modal milik pemegang saham yang tercatat di neraca. Uang tunai Rp6,16 triliun akan keluar dari kas bank pada tanggal pembayaran, diambil dari pos laba ditahan yakni bagian laba tahun-tahun sebelumnya yang belum dibagikan dan selama ini menambah ekuitas perusahaan, sehingga begitu dibayarkan pos itu akan berkurang meski jumlahnya kecil dibanding total ekuitas Rp293 triliun yang dimiliki bank. Yang perlu dipantau berikutnya adalah tanggal 17 September 2026 pukul 16.00 WIB sebagai batas pencatatan pemegang saham yang berhak, dan tanggal 2 Oktober 2026 sebagai batas akhir pembayarannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tpia-siapkan-rp361-48-miliar-bayar-obligasi-jatuh-tempo-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan Rp361,48 Miliar Bayar Obligasi Jatuh Tempo [Obligasi]",
+  "deck": "Chandra Asri Pacific (TPIA) menyatakan kesiapan dana Rp361,48 miliar untuk melunasi pokok Obligasi Berkelanjutan IV Tahap III Seri A yang jatuh tempo 27 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T13:34:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc414fc05e_97627382e8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "Obligasi",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Chandra Asri Pacific Tbk (TPIA) menyampaikan keterbukaan informasi soal kesiapan dana untuk membayar pokok Obligasi Berkelanjutan IV Chandra Asri Petrochemical Tahap III Tahun 2023 Seri A yang akan jatuh tempo pada 27 September 2026. Nilai pokok yang akan dibayarkan sebesar Rp361.480.000.000 atau Rp361,48 miliar. Pembayaran pokok beserta kupon terakhir akan disetorkan kepada PT Kustodian Sentral Efek Indonesia (KSEI) sesuai ketentuan yang berlaku, yang selanjutnya meneruskannya ke pemegang obligasi.",
+   "Penyampaian ini merupakan kewajiban perusahaan tercatat berdasarkan Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi yang efektif sejak 1 Oktober 2022, yakni emiten wajib mengonfirmasi ke bursa bahwa dana untuk pelunasan obligasi sudah tersedia menjelang jatuh tempo. Surat bernomor 204/LCM-DOC/CAP/IX/2026 ini ditandatangani oleh Suryandi selaku Direktur TPIA pada 7 September 2026, dan diunggah secara elektronik oleh Erri Dewi Riani, General Manager of Legal & Corporate Secretary perseroan."
+  ],
+  "fotoAdegan": "Steel pipelines and large storage tanks at a coastal petrochemical plant in Indonesia, workers in hard hats inspecting valves at dusk",
+  "takeaway": "Laporan ini netral bagi fundamental TPIA karena isinya sebatas memenuhi kewajiban keterbukaan informasi ke bursa, bukan kabar baru soal kondisi keuangan perusahaan, sebab jadwal jatuh tempo obligasi ini memang sudah diketahui sejak penerbitannya pada 2023. Yang tersentuh dari sisi kinerja adalah pos utang: setelah pokok Rp361,48 miliar ini lunas, total obligasi TPIA yang beredar berkurang sebesar itu, sehingga beban bunga ke depan ikut menyusut karena kupon seri ini tidak lagi berjalan. Pelaku pasar memperhatikan pos ini karena utang yang lunas tepat waktu berarti kewajiban keuangan perusahaan mengecil dan tekanan pada arus kas mendatang berkurang. Yang perlu dipantau adalah tanggal 27 September 2026, saat pokok dan kupon terakhir itu harus benar-benar disetorkan ke KSEI, karena keterlambatan pada tanggal tersebut baru akan menjadi sinyal masalah likuiditas yang sesungguhnya.",
   "sentimen": "netral"
  },
  {
@@ -1544,6 +1753,58 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Pertumbuhan uang primer melambat dari 17,1 persen menjadi 16,3 persen dalam sebulan. Uang primer ini semacam bahan dasar peredaran uang, gabungan uang tunai masyarakat dan simpanan bank-bank di Bank Indonesia, jadi kalau pertumbuhannya melambat, pasokan dana yang bisa disalurkan bank sebagai kredit juga berpotensi tumbuh lebih pelan. Pihak yang paling terkait adalah perbankan, dan pada gilirannya pelaku usaha serta konsumen yang mengandalkan kredit bank. Satu bulan perlambatan belum cukup untuk menyimpulkan arah tren karena data bulanan seperti ini wajar berfluktuasi, sehingga perlu dicermati apakah rilis data uang primer bulan September nanti menunjukkan perlambatan berlanjut atau hanya sementara.",
   "imageV": "mtqus4as"
+ },
+ {
+  "slug": "obmd-panggil-rupslb-agendakan-perombakan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "OBMD Panggil RUPSLB, Agendakan [Perombakan] Direksi-Komisaris",
+  "deck": "PT OBM Drilchem Tbk memanggil RUPS Luar Biasa 29 September 2026 untuk membahas kemungkinan pergantian susunan direksi dan dewan komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T13:07:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6259a77589_8846ad9534.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OBMD",
+  "tags": [
+   "OBMD",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "body": [
+   "PT OBM Drilchem Tbk (OBMD) resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 29 September 2026 pukul 10.00 WIB. Rapat ini merupakan tindak lanjut dari surat pemberitahuan perseroan sebelumnya bernomor 048.CS/OBMD/VIII/2026 tertanggal 21 Agustus 2026. RUPSLB akan diselenggarakan secara elektronik dari OBMD Conference Room di Dipo Tower lantai 7, Suite 7E, Jalan Gatot Subroto Kavling 51, Petamburan, Tanah Abang, Jakarta Pusat.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 4 September 2026, atau tiga minggu sebelum jadwal rapat. Surat pemanggilan ini ditandatangani oleh Ivan Alamsyah selaku Wakil Direktur Utama.",
+   "Ada dua agenda yang akan dibahas dalam RUPSLB tersebut. Pertama, persetujuan pengangkatan kembali atau perubahan susunan direksi. Kedua, persetujuan pengangkatan kembali atau perubahan susunan dewan komisaris. Dokumen pemanggilan ini belum menyebutkan nama calon pengganti maupun alasan di balik rencana perubahan susunan pengurus tersebut."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of leather chairs facing a wide window overlooking Jakarta skyscrapers at dawn.",
+  "takeaway": "Laporan ini netral bagi OBMD karena baru sebatas undangan rapat, belum ada keputusan atau nama calon direksi dan komisaris yang diumumkan, sehingga belum bisa dinilai apakah perubahan ini menguntungkan atau merugikan perusahaan. Yang tersentuh di sini bukan angka keuangan seperti ekuitas atau laba per saham, melainkan struktur kepengurusan perusahaan, dan pelaku pasar biasanya mencermati pergantian direksi atau komisaris karena tim manajemen baru bisa mengubah arah strategi bisnis maupun cara perusahaan dikelola. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 29 September 2026, terutama siapa nama-nama yang diusulkan menggantikan atau tetap menduduki kursi direksi dan komisaris, karena baru dari situ investor bisa menilai dampaknya terhadap kelangsungan bisnis perseroan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mika-catat-laba-rp728-miliar-genjot-ekspansi-rumah-sakit",
+  "category": "Aksi Korporasi",
+  "title": "MIKA catat laba Rp728 miliar, genjot [ekspansi] rumah sakit",
+  "deck": "Materi public expose tahunan MIKA memuat kinerja semester I 2026 dan rencana penambahan sekitar 2.257 tempat tidur lewat tujuh lokasi rumah sakit baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T12:42:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/140e09f6ee_8958b165e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MIKA",
+  "tags": [
+   "MIKA",
+   "Mitra Keluarga",
+   "kinerja keuangan",
+   "ekspansi rumah sakit"
+  ],
+  "body": [
+   "PT Mitra Keluarga Karyasehat Tbk (MIKA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 7 September 2026, menindaklanjuti surat pemberitahuan penyelenggaraan acara tersebut tertanggal 27 Agustus 2026. Materi yang ditandatangani Corporate Secretary Joyce V. Handajani ini memuat gambaran bisnis, strategi pertumbuhan, dan kinerja keuangan semester I 2026 dari perusahaan yang mengoperasikan 22 rumah sakit bermerek Mitra Keluarga, 10 rumah sakit bermerek Kasih yang fokus melayani peserta BPJS, serta satu rumah sakit dan lima klinik hewan.",
+   "Pada semester I 2026, MIKA membukukan pendapatan Rp2,77 triliun, naik 8,0 persen dibanding periode sama tahun lalu. Laba sebelum bunga, pajak, depresiasi, dan amortisasi (EBITDA) tumbuh 7,4 persen menjadi Rp1,06 triliun, sementara laba bersih naik 6,5 persen menjadi Rp728 miliar. Kas bersih perusahaan bertambah menjadi Rp3,02 triliun dan MIKA tetap tidak memiliki utang bank. Porsi pendapatan dari pasien yang membayar sendiri atau ditanggung asuransi swasta naik menjadi 90 persen dari total pendapatan, dari 88 persen setahun sebelumnya, sedangkan pendapatan dari peserta BPJS turun 11,4 persen menjadi Rp276 miliar dari Rp312 miliar. Pendapatan dari penanganan kasus kompleks, seperti operasi jantung atau kanker, juga naik porsinya menjadi 27,7 persen dari total pendapatan, dari 23,2 persen pada semester I 2025.",
+   "Dari sisi ekspansi, MIKA telah mengidentifikasi tujuh lokasi rumah sakit baru dan sudah menyiapkan lahan di seluruh lokasi tersebut. Dua di antaranya sudah dalam tahap konstruksi, rumah sakit di Jakarta dengan kapasitas maksimal sekitar 200 tempat tidur dan belanja modal lebih dari Rp500 miliar, progres pembangunan 80 persen dan ditargetkan beroperasi kuartal IV 2026, serta satu rumah sakit di Jawa Timur dengan kapasitas serupa dan belanja modal lebih dari Rp200 miliar, progres 60 persen, ditargetkan beroperasi kuartal I 2027. Secara keseluruhan, program ekspansi ini berpotensi menambah sekitar 1.400 tempat tidur baru, ditambah sekitar 857 tempat tidur tambahan di rumah sakit yang sudah beroperasi, sehingga total potensi penambahan mencapai sekitar 2.257 tempat tidur. Perusahaan juga tengah membangun pusat kedokteran nuklir kedua di Mitra Keluarga Kenjeran, Jawa Timur, dilengkapi PET/CT, SPECT/CT, dan radioterapi, yang ditargetkan mulai beroperasi kuartal III 2026 sebagai bagian dari ekosistem layanan onkologi terintegrasi."
+  ],
+  "fotoAdegan": "Nurses and staff walking through a bright modern hospital corridor lined with patient rooms, morning light, Indonesia",
+  "takeaway": "Laporan ini condong positif bagi MIKA karena hampir seluruh indikator utama bergerak searah ke atas, pendapatan naik 8 persen, laba operasional naik 7,4 persen, dan laba bersih naik 6,5 persen, sementara posisi kas malah menebal tanpa tambahan utang. Yang layak dicermati adalah kas bersih yang naik menjadi Rp3,02 triliun tanpa utang bank, karena dengan kas sebesar itu MIKA bisa membiayai tujuh proyek rumah sakit baru dari kantong sendiri tanpa perlu meminjam atau menerbitkan saham baru yang bisa mengecilkan porsi kepemilikan pemegang saham lama. Bergesernya bauran pendapatan ke pasien swasta dan kasus kompleks juga berarti model bisnis MIKA makin bertumpu pada layanan bernilai tambah tinggi, bukan sekadar jumlah pasien, sehingga pendapatannya relatif lebih tahan terhadap tekanan tarif BPJS. Yang perlu dipantau berikutnya adalah realisasi dua rumah sakit yang sedang dibangun, satu di Jakarta ditargetkan mulai beroperasi kuartal IV 2026 dan satu di Jawa Timur pada kuartal I 2027, serta pusat kedokteran nuklir baru di Kenjeran yang ditarget beroperasi kuartal III 2026, karena ketepatan jadwal ini akan menentukan apakah target tambahan sekitar 2.257 tempat tidur bisa tercapai sesuai rencana.",
+  "sentimen": "positif"
  },
  {
   "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",

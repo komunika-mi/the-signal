@@ -190,6 +190,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465566-soal-pltp-gunung-ungaran-pengamat-yakinkan-tak-perlu-khawatir-energi-bersih-perlu-didorong-asal-dikaji-komperhensif"
  },
  {
+  "slug": "snlk-jelaskan-ke-bursa-sebab-rugi-beruntun-3-tahun-phk-56",
+  "category": "Aksi Korporasi",
+  "title": "SNLK Jelaskan ke Bursa Sebab Rugi Beruntun 3 Tahun, [PHK] 56%",
+  "deck": "Dalam tanggapan resmi ke bursa, SNLK membeberkan penyebab rugi tiga tahun beruntun, pemangkasan karyawan 56%, hingga kemenangan gugatan Rp12 miliar.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SNLK",
+   "rugi bersih",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b015878b0_a115651aa7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "utang-whoosh-bakal-ditanggung-smv-kemenkeu",
   "category": "BUMN",
   "title": "Utang Whoosh Bakal Ditanggung [SMV] Kemenkeu",
@@ -449,6 +465,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465528-perkuat-akses-umkm-ke-pasar-global-indonesia-jadi-co-host-country-cismef-2026-china"
+ },
+ {
+  "slug": "hdfa-paparkan-kinerja-2026-ekuitas-masih-tertekan",
+  "category": "Aksi Korporasi",
+  "title": "HDFA Paparkan Kinerja 2026, Ekuitas Masih [Tertekan]",
+  "deck": "Dalam materi Public Expose Tahunan ke bursa, Radana Bhaskara Finance (HDFA) membeberkan rincian kinerja semester I 2026 dan strategi tujuh poin untuk sisa tahun ini.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HDFA",
+   "Radana Bhaskara Finance",
+   "Public Expose",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e36a33972_d001a72ef8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
@@ -744,6 +776,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "obligasi-bslt-rp750-miliar-resmi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BSLT Rp750 Miliar Resmi [Jatuh Tempo]",
+  "deck": "Obligasi Berkelanjutan I Bank SulutGo seri BSLT01CN1 senilai Rp750 miliar jatuh tempo dan didelisting dari BEI mulai 7 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSLT",
+   "obligasi",
+   "jatuh tempo",
+   "Bank SulutGo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/867087eb9c_86d9840379.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
   "category": "Aksi Korporasi",
   "title": "ARTO: Laba Bank Jago [Melonjak] 49% ke Rp189 Miliar",
@@ -824,6 +872,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "obligasi-dan-sukuk-apai-rp281-miliar-resmi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi dan Sukuk APAI Rp281 Miliar Resmi [Jatuh Tempo]",
+  "deck": "Obligasi dan sukuk ijarah APAI senilai total Rp281 miliar jatuh tempo 8 September 2026 dan otomatis didelisting dari Bursa Efek Indonesia.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APAI",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ac35d5b8d_3993ed1aed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ggrm-catat-laba-rp2-97-triliun-semester-i-2026-utang-bank-lunas",
   "category": "Aksi Korporasi",
   "title": "GGRM catat laba [Rp2,97 triliun] semester I 2026, utang bank lunas",
@@ -869,6 +933,70 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/68bacceab4_7fe7fbafd9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ekad-fujian-youyi-bidik-51-saham-geser-eip-dari-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "EKAD: Fujian Youyi Bidik [51%] Saham, Geser EIP dari Pengendali",
+  "deck": "Materi Public Expose EKAD mengungkap rencana Fujian Youyi Adhesive Tape asal China mengambil 51 persen saham dari pengendali EIP, harga masih dinegosiasikan hingga akhir Desember 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EKAD",
+   "akuisisi",
+   "Fujian Youyi",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b2dbba7_bfd11e2f36.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-ebitda-naik-38-jadi-us-21-3-juta-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "RATU: [EBITDA] Naik 38% Jadi US$21,3 Juta di Semester I",
+  "deck": "Paparan publik tahunan RATU mengungkap EBITDA semester I 2026 naik 38 persen menjadi US$21,28 juta, didorong kenaikan harga minyak, di tengah tantangan produksi Blok Cepu dan Jabung.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "migas",
+   "EBITDA",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ead122731_a21bc6ccb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-umumkan-jadwal-dividen-interim-rp66-per-saham",
+  "category": "Aksi Korporasi",
+  "title": "BMRI umumkan [jadwal] dividen interim Rp66 per saham",
+  "deck": "Bank Mandiri menetapkan 17 September 2026 sebagai batas pencatatan pemegang saham berhak dividen interim Rp66 per saham, dengan pembayaran pada 2 Oktober 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "dividen",
+   "Bank Mandiri",
+   "dividen interim"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/807cf59a65_001111b5f5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-siapkan-rp361-48-miliar-bayar-obligasi-jatuh-tempo-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Siapkan Rp361,48 Miliar Bayar Obligasi Jatuh Tempo [Obligasi]",
+  "deck": "Chandra Asri Pacific (TPIA) menyatakan kesiapan dana Rp361,48 miliar untuk melunasi pokok Obligasi Berkelanjutan IV Tahap III Seri A yang jatuh tempo 27 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "Chandra Asri",
+   "Obligasi",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc414fc05e_97627382e8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -958,6 +1086,38 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818226.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "obmd-panggil-rupslb-agendakan-perombakan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "OBMD Panggil RUPSLB, Agendakan [Perombakan] Direksi-Komisaris",
+  "deck": "PT OBM Drilchem Tbk memanggil RUPS Luar Biasa 29 September 2026 untuk membahas kemungkinan pergantian susunan direksi dan dewan komisaris.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OBMD",
+   "RUPSLB",
+   "direksi",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6259a77589_8846ad9534.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mika-catat-laba-rp728-miliar-genjot-ekspansi-rumah-sakit",
+  "category": "Aksi Korporasi",
+  "title": "MIKA catat laba Rp728 miliar, genjot [ekspansi] rumah sakit",
+  "deck": "Materi public expose tahunan MIKA memuat kinerja semester I 2026 dan rencana penambahan sekitar 2.257 tempat tidur lewat tujuh lokasi rumah sakit baru.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MIKA",
+   "Mitra Keluarga",
+   "kinerja keuangan",
+   "ekspansi rumah sakit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/140e09f6ee_8958b165e5.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
@@ -6393,170 +6553,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464038-rupiah-menguat-ke-rp17715-per-dolar-as-di-tengah-lonjakan-harga-energi-imbas-kembali-memanasnya-perang-iran-as"
- },
- {
-  "slug": "sipd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "SIPD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham Sreeya Sewu Indonesia. Perseroan menyatakan tidak ada informasi material yang belum diungkapkan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIPD",
-   "Sreeya Sewu Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7e567a4864_f6761b754f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-tipis-ke-rp2-664-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.664.000/Gram",
-  "deck": "Harga emas Antam turun Rp6.000 menjadi Rp2.664.000 per gram pada 1 September 2026, sementara harga buyback turun ke Rp2.517.000 per gram.",
-  "date": "1 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-664-000-gram.jpg",
-  "imageV": "mtj0m0pu",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464035-harga-emas-antam-hari-ini-1-september-2026-turun-tipis-rp6000-jadi-rp2664000-per-gram"
- },
- {
-  "slug": "ekonom-nilai-ri-perlu-geser-neraca-ke-investasi",
-  "category": "Makroekonomi",
-  "title": "Ekonom Nilai RI Perlu Geser Neraca ke [Investasi]",
-  "deck": "Ekonom Trimegah Fakhrul Fulvian mendukung arah Presiden Prabowo Subianto mengurangi ketergantungan utang, namun menilai perlu perubahan struktur pembiayaan neraca pembayaran.",
-  "date": "1 September 2026",
-  "image": "assets/img/ekonom-nilai-ri-perlu-geser-neraca-ke-investasi.jpg",
-  "imageV": "mtj0m165",
-  "tags": [
-   "neraca pembayaran",
-   "investasi asing",
-   "utang negara",
-   "SBN SRBI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464031-kurangi-ketergantungan-utang-indonesia-dinilai-perlu-ubah-struktur-neraca-pembayaran-jadi-investment-driven"
- },
- {
-  "slug": "inkp-rampungkan-emisi-obligasi-rp3-5-triliun-dan-usd13-76-juta",
-  "category": "Aksi Korporasi",
-  "title": "INKP Rampungkan Emisi [Obligasi] Rp3,5 Triliun dan USD13,76 Juta",
-  "deck": "Indah Kiat Pulp & Paper menuntaskan penerbitan obligasi, sukuk mudharabah, dan obligasi dolar AS dengan total setara Rp3,5 triliun ditambah US$13,76 juta, bunga 6,75-10,5 persen per tahun.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "obligasi korporasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa292f4567_f2313e1046.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim",
-  "category": "Energi",
-  "title": "ESDM Mulai Proyek [Gasifikasi] Batubara Jadi Metanol di Kaltim",
-  "deck": "Proyek gasifikasi batubara di Kutai Timur ditargetkan hasilkan 2 juta ton metanol per tahun untuk menekan impor yang tahun lalu mencapai Rp7,1 triliun.",
-  "date": "1 September 2026",
-  "image": "assets/img/esdm-mulai-proyek-gasifikasi-batubara-jadi-metanol-di-kaltim.jpg",
-  "imageV": "mths8emx",
-  "tags": [
-   "gasifikasi batubara",
-   "metanol",
-   "Kutai Timur",
-   "hilirisasi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-jalan-hilirisasi-di-kutai-timur-wamen-esdm-resmikan-proyek-gasifikasi-batubara",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "harga-patokan-ekspor-emas-naik-7-87-persen-per-september",
-  "category": "Industri",
-  "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
-  "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "date": "1 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
-  "tags": [
-   "emas",
-   "HPE",
-   "Kemendag",
-   "bea keluar"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pertamax-turbo-dan-dex-series-naik-mulai-1-september",
-  "category": "Energi",
-  "title": "Pertamax Turbo dan Dex Series [Naik] Mulai 1 September",
-  "deck": "Pertamina menaikkan harga Pertamax Turbo, Pertamina Dex, dan Dexlite mulai 1 September 2026, sementara Pertamax 92 dan Pertamax Green 95 tetap.",
-  "date": "1 September 2026",
-  "image": "assets/img/pertamax-turbo-dan-dex-series-naik-mulai-1-september.jpg",
-  "imageV": "mths8f6c",
-  "tags": [
-   "BBM",
-   "Pertamina",
-   "Harga BBM",
-   "Pertamax Turbo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463985-simak-harga-bbm-pertamina-1-september-2026-pertamax-turbo-dan-dex-series-naik"
- },
- {
-  "slug": "psab-laba-melonjak-usai-lepas-anak-usaha-aset-turun-22",
-  "category": "Aksi Korporasi",
-  "title": "PSAB: Laba [Melonjak] Usai Lepas Anak Usaha, Aset Turun 22%",
-  "deck": "Laba PSAB melonjak pada semester I 2026 setelah mencatat untung pelepasan anak usaha US$298,6 juta, sementara total aset turun 22 persen dan total utang turun 45 persen dibanding akhir 2025.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "J Resources Asia Pasifik",
-   "laporan keuangan",
-   "pertambangan emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/375ef73ba5_f4070dfcdb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penumpang-angkutan-laut-juli-naik-8-21-persen-udara-ikut-naik",
-  "category": "Makroekonomi",
-  "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
-  "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
-  "date": "1 September 2026",
-  "image": "assets/img/pasar-beras.jpg",
-  "tags": [
-   "BPS",
-   "Transportasi",
-   "Angkutan Laut",
-   "Angkutan Udara"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "harga-impor-ri-naik-lebih-cepat-dari-ekspor-triwulan-ii-2026",
-  "category": "Makroekonomi",
-  "title": "Harga Impor RI [Naik] Lebih Cepat dari Ekspor Triwulan II-2026",
-  "deck": "BPS mencatat indeks harga ekspor dan impor Indonesia sama-sama naik pada triwulan II-2026, tapi kenaikan harga impor lebih tinggi, terutama untuk kelompok migas.",
-  "date": "1 September 2026",
-  "image": "assets/img/pasar-ikan.jpg",
-  "tags": [
-   "BPS",
-   "ekspor-impor",
-   "migas",
-   "triwulan II-2026"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2613",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

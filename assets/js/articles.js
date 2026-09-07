@@ -3,6 +3,118 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-buka-investasi-nuklir-di-forum-rusia",
+  "category": "Global",
+  "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
+  "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T19:15:23.936Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "investasi Rusia",
+   "energi nuklir",
+   "hilirisasi",
+   "BKPM"
+  ],
+  "body": [
+   "Presiden Prabowo hadir sebagai tamu kehormatan utama pada Eastern Economic Forum ke-11 di Vladivostok, Rusia, dan dalam pidatonya menegaskan arah investasi Indonesia ke depan: mempercepat hilirisasi sumber daya alam sekaligus membuka diri pada investasi teknologi energi masa depan, termasuk energi nuklir. Pernyataan ini penting karena menjadi salah satu sinyal resmi pertama pemerintah yang secara eksplisit menyebut ketertarikan pada teknologi nuklir, di tengah upaya memperkuat hubungan ekonomi dengan Rusia dan mitra internasional lainnya.",
+   "Dalam pidatonya, Presiden Prabowo menyampaikan prinsip bahwa pembangunan harus memberi manfaat bagi masyarakat luas, bukan hanya segelintir pihak, dengan menyebut ukuran keberhasilannya adalah kondisi ekonomi rumah tangga biasa. Prinsip itu, menurutnya, mendasari kebijakan hilirisasi industri, yaitu mengolah sumber daya alam di dalam negeri alih-alih mengekspornya dalam bentuk bahan mentah, agar tercipta industri baru, keterampilan tenaga kerja, dan lapangan pekerjaan yang lebih baik.",
+   "Presiden Prabowo juga menyatakan Indonesia membutuhkan pengetahuan dan investasi di bidang energi terbarukan, jaringan listrik pintar atau smart grid, serta energi nuklir, termasuk reaktor modular berskala kecil maupun pembangkit nuklir skala penuh. Ia menegaskan bahwa strategi investasi ke depan tidak hanya mengejar besaran nilai investasi yang masuk, tetapi juga kualitasnya, yaitu sejauh mana investasi itu memperkuat industri nasional, mempercepat transformasi ekonomi, dan membawa masuk teknologi yang dibutuhkan.",
+   "Kementerian Investasi dan Hilirisasi/BKPM mencatat realisasi investasi Rusia di Indonesia sepanjang 2021 hingga semester I 2026 mencapai US$726 juta, dengan tiga sektor terbesar berupa perumahan, kawasan industri, dan bangunan gedung, disusul jasa lainnya, serta hotel dan restoran. Adapun lokasi tujuan investasi terbanyak berada di Bali, Nusa Tenggara Barat, dan Jakarta. Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan P. Roeslani turut mendampingi Presiden Prabowo dalam kunjungan ke Rusia tersebut."
+  ],
+  "fotoAdegan": "Workers monitoring control panels at a metal smelting industrial plant, sparks and machinery in the background, industrial lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang baru dari pernyataan ini bukan proyek atau investasi baru, melainkan sinyal resmi bahwa pemerintah membuka diri terhadap investasi dan alih pengetahuan di bidang energi nuklir, mulai dari reaktor modular berskala kecil hingga pembangkit skala penuh. Ini relevan terutama bagi calon investor sektor energi dan industri yang bergantung pada pasokan listrik jangka panjang, karena nuklir selama ini jarang disebut eksplisit dalam pernyataan resmi presiden soal energi masa depan. Pidato ini belum menyebut proyek, calon mitra, atau target waktu apa pun, sehingga belum bisa dipastikan apakah pernyataan ini akan diikuti langkah konkret seperti kajian Kementerian ESDM atau revisi kebijakan energi nasional. Yang perlu dipantau adalah apakah ada aturan turunan atau kesepakatan kerja sama energi nuklir dengan Rusia yang menyusul setelah kunjungan Presiden Prabowo ke Vladivostok ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
+  "category": "Industri",
+  "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
+  "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T19:15:18.816Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "BKPM",
+   "insentif pajak"
+  ],
+  "body": [
+   "Wakil Menteri Investasi dan Hilirisasi/BKPM Todotua memaparkan tiga strategi pemerintah dalam menarik dan mengelola investasi: perencanaan, kemudahan eksekusi berusaha, dan pemberian insentif fiskal. Tujuannya memastikan modal yang masuk ke Indonesia benar-benar memperkuat industri dalam negeri dan membangun rantai pasok, bukan sekadar menambah angka realisasi. Ini relevan karena hilirisasi, yakni pengolahan bahan mentah menjadi produk bernilai tambah di dalam negeri, kini menyumbang hampir sepertiga dari seluruh realisasi investasi nasional.",
+   "Sebagai dasar perencanaan, kementerian mengacu pada Peta Jalan Hilirisasi Investasi Strategis 2022-2023 yang memetakan 28 komoditas di delapan sektor, mencakup migas, minerba, perkebunan dan kehutanan, hingga perikanan dan kelautan. Menurut kementerian, peta jalan ini memproyeksikan potensi investasi hingga US$618,1 miliar dan penciptaan tiga juta lapangan kerja baru, meski angka tersebut merupakan proyeksi pemerintah, bukan realisasi yang sudah terjadi.",
+   "Untuk mempermudah eksekusi, pemerintah menerbitkan Peraturan Pemerintah Nomor 28 Tahun 2025 tentang perizinan berusaha berbasis risiko, yang mengganti pendekatan seragam dengan proses perizinan yang disesuaikan tingkat risiko masing-masing usaha dan terintegrasi lewat sistem Online Single Submission (OSS). Di sisi insentif, pemerintah menawarkan tax allowance atau pengurangan penghasilan kena pajak, tax holiday atau pembebasan pajak sementara, fasilitas masterlist, serta super tax deduction, yaitu potongan pajak tambahan bagi perusahaan yang membiayai pelatihan tenaga kerja atau riset dan pengembangan.",
+   "Berdasarkan data Kementerian Investasi dan Hilirisasi/BKPM, realisasi investasi sektor hilirisasi sepanjang semester I 2026 mencapai Rp300,1 triliun, setara 29,7 persen dari total realisasi investasi nasional dan naik 6,9 persen dibanding periode yang sama tahun sebelumnya. Penanaman modal asing menyumbang Rp212,8 triliun atau 70,9 persen dari angka tersebut, sedangkan penanaman modal dalam negeri menyumbang Rp87,3 triliun atau 29,1 persen. Sebanyak 75,7 persen dari realisasi investasi hilirisasi, setara Rp227,3 triliun, berasal dari proyek yang berlokasi di luar Pulau Jawa."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting mineral ore loaded onto conveyor belts at a processing plant, industrial haze in the background",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Data paling konkret dari paparan ini adalah porsi hilirisasi yang sudah mencapai 29,7 persen dari total realisasi investasi nasional pada semester I 2026, dengan mayoritas dananya berasal dari investor asing dan tersebar di luar Pulau Jawa. Yang terdampak langsung adalah daerah penghasil komoditas tambang dan perkebunan di luar Jawa yang menerima Rp227,3 triliun investasi tersebut, serta pekerja lokal yang disasar lewat insentif pelatihan dan riset dalam skema super tax deduction. Arahnya, pemerintah tampak mendorong hilirisasi naik kelas dari sekadar pengolahan bahan mentah menjadi kegiatan yang melibatkan transfer teknologi dan riset, bukan cuma menambah pabrik pengolahan dasar. Ini baru bisa dibuktikan lewat data lanjutan, seperti berapa banyak perusahaan yang benar-benar memanfaatkan insentif super tax deduction dan apakah dominasi investasi asing di sektor ini mulai diimbangi investasi domestik pada laporan realisasi semester II 2026.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
+  "category": "BUMN",
+  "title": "Indonesia Tawarkan [32] Proyek Infrastruktur ke Investor Jepang",
+  "deck": "Kemenko Perekonomian dan KBRI Tokyo menggelar forum bisnis yang menawarkan 32 proyek infrastruktur milik sembilan BUMN dan BUMD kepada puluhan investor Jepang.",
+  "image": "assets/img/truk-logistik-gudang.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T19:15:11.530Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7079/indonesia-japan-transportation-and-infrastructure-business-forum-and-business-matching-sebagai-upaya-peningkatan-investasi-dan-mendorong-pertumbuhan-ekonomi-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "investasi",
+   "Jepang",
+   "infrastruktur",
+   "BUMN"
+  ],
+  "body": [
+   "Kementerian Koordinator Bidang Perekonomian bersama KBRI Tokyo menggelar forum bisnis Indonesia-Jepang di Tokyo pada 27-28 Agustus 2026 untuk mempertemukan pemilik proyek infrastruktur Indonesia dengan calon investor Jepang. Dalam forum ini, Indonesia membawa 32 proyek investasi dari sembilan BUMN dan BUMD yang sudah dikurasi untuk ditawarkan langsung kepada pelaku usaha dan lembaga pembiayaan Jepang.",
+   "Proyek yang ditawarkan mencakup jalan dan jalan tol, kawasan hunian, properti komersial, perkeretaapian dan kawasan berorientasi transit, pelabuhan dan logistik, hingga fasilitas fabrikasi baja. BUMN dan BUMD yang hadir langsung antara lain PT PII, PT SMI, PT KAI, PT Pelindo, PT Hutama Karya, PT Jasa Marga, PT Wijaya Karya, PT Waskita Toll Road, dan PT MRT Jakarta, sementara PT PP dan Perumnas memaparkan proyeknya secara daring.",
+   "Forum ini dihadiri lebih dari 50 perwakilan dari sekitar 36 perusahaan dan lembaga Jepang, termasuk Sumitomo Corporation, Toyota Tsusho, Mizuho Bank, Tokyu JR East, SMBC, dan Penta Ocean. KUAI KBRI Tokyo Maria Renata Hutagalung menyebut kerja sama Indonesia-Jepang telah berjalan sekitar tujuh dekade, dengan contoh proyek sebelumnya seperti MRT Jakarta dan Pelabuhan Patimban.",
+   "Deputi Kemenko Perekonomian Ferry Irawan menyampaikan sejumlah indikator ekonomi untuk meyakinkan investor, di antaranya klaim pertumbuhan ekonomi 5,61 persen pada semester I 2026, inflasi tahunan 3,34 persen, realisasi investasi di atas Rp1.010 triliun, peringkat utang BBB dari S&P Global Ratings, serta survei JETRO yang menyebut 69,1 persen perusahaan Jepang di Indonesia memperkirakan meraih laba. Pemerintah menyebut penguatan kemitraan dengan Jepang sebagai bagian dari upaya mengejar target pertumbuhan ekonomi 8 persen pada 2029."
+  ],
+  "fotoAdegan": "Container cranes loading cargo onto ships at a busy Indonesian port, tugboats waiting nearby, late afternoon light.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan tawaran konkret: pemerintah membuka 32 proyek infrastruktur milik sembilan BUMN dan BUMD, dari jalan tol sampai pelabuhan, langsung ke puluhan perusahaan Jepang lewat forum business matching di Tokyo. Yang berkepentingan adalah BUMN pemilik proyek seperti Hutama Karya, Jasa Marga, KAI, dan Pelindo yang butuh mitra pendanaan asing, serta calon investor Jepang seperti Sumitomo dan Mizuho Bank yang mendapat akses ke daftar proyek terkurasi itu. Forum semacam ini masih tahap penjajakan, bukan kesepakatan, karena siaran pers tidak menyebut nilai investasi atau nota kesepahaman yang sudah diteken, jadi arahnya baru sebatas niat memperbanyak pintu masuk investasi Jepang untuk mengejar target pertumbuhan 8 persen pada 2029. Yang akan menunjukkan apakah forum ini berbuah nyata adalah ada tidaknya nota kesepahaman atau komitmen investasi yang diumumkan setelah business matching ini, serta apakah realisasi investasi Jepang di laporan BKPM pada kuartal-kuartal mendatang ikut naik.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
+  "category": "Global",
+  "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
+  "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
+  "image": "assets/img/kapal-batubara.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T19:15:09.469Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7080/bersiap-untuk-implementasi-ieu-cepa-indonesia-dan-irlandia-gelar-dialog-strategis-untuk-perkuat-kerja-sama-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "IEU-CEPA",
+   "Indonesia-Irlandia",
+   "Kemenko Perekonomian",
+   "perdagangan bilateral"
+  ],
+  "body": [
+   "Kementerian Koordinator Bidang Perekonomian menggelar dialog strategis dengan Irlandia di Jakarta, Jumat (4/9), untuk membahas penguatan kerja sama dagang dan investasi menjelang implementasi Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA). Pertemuan yang dipimpin Deputi Bidang Koordinasi Kerja Sama Ekonomi dan Investasi Edi Prio Pambudi ini dihadiri Duta Besar Irlandia untuk Indonesia Sharon Ann Lennon, perwakilan Kementerian Luar Negeri, Kementerian Perdagangan, Kamar Dagang dan Industri Indonesia (KADIN), Asosiasi Pengusaha Indonesia (APINDO), Delegasi Uni Eropa, dan Eurocham Indonesia. Dialog ini menjadi persiapan sebelum perjanjian dagang Indonesia-Uni Eropa yang lebih luas mulai berlaku.",
+   "Hubungan diplomatik Indonesia dan Irlandia sudah berjalan sejak 1984 dan pada 2026 genap berusia 42 tahun. Namun nilai perdagangan kedua negara masih tergolong kecil, tercatat US$228,6 juta sepanjang 2025, sehingga kedua pihak menilai masih ada ruang besar untuk memperluas jenis produk yang diperdagangkan serta melibatkan lebih banyak pelaku usaha. Kementerian Perdagangan memaparkan sejumlah komoditas yang berpotensi mendiversifikasi perdagangan kedua negara begitu akses pasar melalui IEU-CEPA terbuka lebih lebar.",
+   "Momentum turut didorong oleh posisi Irlandia yang memegang presidensi Dewan Uni Eropa sejak 1 Juli hingga 31 Desember 2026. Dalam kapasitas itu, Irlandia menyatakan berharap IEU-CEPA bisa diteken selama masa jabatannya, sekaligus menyampaikan apresiasi atas proses aksesi Indonesia ke Organisasi untuk Kerja Sama dan Pembangunan Ekonomi (OECD) serta kesiapan memberi dukungan teknis untuk proses tersebut. Kementerian Luar Negeri menekankan perlunya mengidentifikasi hambatan yang selama ini menghalangi optimalisasi kerja sama dagang dan investasi kedua negara.",
+   "Sebagai tindak lanjut, kedua pihak menandatangani Letter of Intent (LoI) tentang Pengembangan Kerja Sama Ekonomi dan Bisnis di akhir pertemuan. Dokumen ini menjadi dasar awal untuk menerjemahkan rencana kerja sama menjadi langkah konkret yang melibatkan pemerintah, dunia usaha, dan lembaga terkait di kedua negara."
+  ],
+  "fotoAdegan": "Cargo ship being loaded with shipping containers at a busy Indonesian seaport, cranes and workers in the background, daylight",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret dari pertemuan ini cuma satu: penandatanganan nota kesepahaman atau Letter of Intent soal pengembangan kerja sama ekonomi dan bisnis, bukan perjanjian dagang yang mengikat. Target yang lebih besar adalah IEU-CEPA, perjanjian dagang antara Indonesia dan Uni Eropa, yang menurut Irlandia diharapkan diteken selama negara itu memimpin Dewan Uni Eropa, masa jabatan yang berakhir 31 Desember 2026. Pihak yang paling merasakan dampaknya adalah pelaku usaha anggota KADIN dan APINDO yang berdagang dengan Eropa, mengingat nilai perdagangan Indonesia-Irlandia saat ini masih kecil, hanya US$228,6 juta pada 2025. Ada dua kemungkinan ke depan, IEU-CEPA benar diteken sebelum masa presidensi Irlandia berakhir sesuai harapan yang disampaikan dalam pertemuan ini, atau rencana itu kembali tertunda seperti yang lazim terjadi pada negosiasi perjanjian dagang multilateral. Itu akan ketahuan paling lambat akhir Desember 2026, saat masa presidensi Irlandia di Dewan Uni Eropa berakhir.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
   "category": "Aksi Korporasi",
   "title": "RAJA: Laba Bersih 1H26 [Melonjak] 88 Persen, Utang Menyusut",
@@ -54,6 +166,60 @@ var ARTICLES = [
   "fotoAdegan": "Aerial view of an open pit nickel mine with haul trucks winding along terraced red earth roads in tropical Sulawesi",
   "takeaway": "Laporan ini condong positif bagi ANTM. Data dalam materi presentasi menunjukkan pendapatan, laba, dan EBITDA semester I 2026 sama-sama naik dibanding tahun sebelumnya, sementara beban utang perusahaan tetap sangat ringan dibanding labanya. Yang perlu diperhatikan adalah ROE, yaitu ukuran seberapa besar laba yang dihasilkan dari modal pemegang saham, yang naik dari 12 persen di 2024 menjadi 23 persen di semester I 2026, serta rasio utang berbunga terhadap EBITDA yang cuma 0,21 kali, artinya ANTM bisa melunasi utangnya dari laba operasional dalam hitungan bulan, bukan tahun. Satu hal yang mengganjal, lembaga pemeringkat Moody's masih memberi status Baa2 dengan prospek negatif per Februari 2026, berbeda dengan Pefindo yang memberi peringkat idAA prospek stabil, jadi ada perbedaan pandangan soal risiko jangka panjang perseroan. Yang perlu dipantau berikutnya adalah perkembangan studi kelayakan proyek hilirisasi nikel bersama konsorsium Zhejiang Huayou Cobalt serta kemungkinan perubahan prospek peringkat dari Moody's pada evaluasi berikutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang",
+  "category": "Energi",
+  "title": "PLTP Gunung Ungaran Dinilai [Aman] Asal Dikaji Matang",
+  "deck": "Pengamat kebijakan publik Agus Pambagio menilai rencana PLTP Gunung Ungaran tak perlu dikhawatirkan asal dikaji menyeluruh, termasuk soal kawasan cagar budaya di sekitarnya.",
+  "image": "assets/img/pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T22:03:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465566-soal-pltp-gunung-ungaran-pengamat-yakinkan-tak-perlu-khawatir-energi-bersih-perlu-didorong-asal-dikaji-komperhensif",
+  "tags": [
+   "pltp gunung ungaran",
+   "energi bersih",
+   "panas bumi",
+   "agus pambagio"
+  ],
+  "body": [
+   "Pengamat kebijakan publik Agus Pambagio menyatakan masyarakat tidak perlu cemas berlebihan terhadap rencana pembangunan Pembangkit Listrik Tenaga Panas Bumi (PLTP) di kawasan Gunung Ungaran, asalkan proyek itu melalui kajian menyeluruh dan mengikuti aturan yang berlaku. Pernyataan ini penting karena menyangkut cara pemerintah dan pengembang menjawab kekhawatiran warga soal dampak lingkungan sekaligus menjaga momentum pengembangan energi bersih di dalam negeri.",
+   "Menurut Agus, energi panas bumi merupakan salah satu sumber yang bisa mendukung penyediaan listrik sekaligus mengurangi ketergantungan pada sumber energi dengan emisi lebih tinggi. Ia menekankan bahwa penilaian atas proyek semacam ini harus berpijak pada data dan kajian yang bisa dipertanggungjawabkan, bukan sekadar asumsi, dengan aspek lingkungan, keselamatan, dan keberlanjutan diperhatikan sejak tahap perencanaan.",
+   "Salah satu hal yang disorot Agus adalah keberadaan kawasan cagar budaya di sekitar rencana lokasi PLTP Gunung Ungaran. Ia menilai aspek sejarah dan nilai budaya kawasan tersebut tidak boleh diabaikan ketika menentukan titik maupun jalannya proyek, mengingat kepentingan pelestarian situs juga perlu dijaga bersamaan dengan agenda energi bersih.",
+   "Agus juga mendorong pemerintah, pengembang proyek, dan masyarakat sekitar untuk membangun komunikasi terbuka, sehingga setiap keberatan warga bisa dijawab dengan data dan ketentuan yang berlaku. Pernyataan itu disampaikan Agus pada Senin, 7 September 2026."
+  ],
+  "fotoAdegan": "Steam rising from geothermal pipelines on a forested volcanic hillside in Central Java, workers inspecting valves at dawn",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a9809fe152d3-pemerintah-menegaskan-pengembangan-pembangkit-listrik-tenaga-panas-bumi-pltp-di-wilayah-kerja-panas-bumi-wkp-gunung-ungaran-kabupaten-semarang-dan-kabupaten-kendal-jawa-tengah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Berita ini belum memuat keputusan atau angka baru, isinya adalah pendapat seorang pengamat kebijakan publik yang menepis kekhawatiran warga atas rencana PLTP Gunung Ungaran. Pihak yang paling terkait adalah warga sekitar Gunung Ungaran dan mereka yang peduli pelestarian kawasan cagar budaya di dekat rencana lokasi proyek, karena titik gesekan utama justru ada di situ, bukan pada teknologi panas buminya. Yang masih kurang untuk menilai ke mana arah proyek ini sebenarnya bergerak adalah dokumen kajian lingkungan resmi, keputusan pemerintah soal titik lokasi definitif, serta kejelasan siapa pengembang dan berapa kapasitas pembangkit yang direncanakan. Pembaca perlu menunggu apakah izin dan kajian resmi untuk PLTP ini benar-benar terbit, karena baru dari situ akan terlihat apakah proyek berlanjut sesuai rencana atau tertahan karena keberatan soal cagar budaya.",
+  "imageV": "mtrms3al"
+ },
+ {
+  "slug": "utang-whoosh-bakal-ditanggung-smv-kemenkeu",
+  "category": "BUMN",
+  "title": "Utang Whoosh Bakal Ditanggung [SMV] Kemenkeu",
+  "deck": "Kemenkeu menyiapkan perusahaan khusus untuk menanggung utang Kereta Cepat Whoosh setelah proyek diserahkan pertengahan September 2026, tanpa membebani kas negara.",
+  "image": "assets/img/utang-whoosh-bakal-ditanggung-smv-kemenkeu.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T21:30:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465563-purbaya-siapkan-jurus-baru-bereskan-utang-whoosh-smv-kemenkeu-bakal-jadi-penanggung",
+  "tags": [
+   "Whoosh",
+   "Kemenkeu",
+   "SMV",
+   "utang BUMN"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengatakan pemerintah tengah menyiapkan skema penyelesaian utang Kereta Cepat Jakarta-Bandung, Whoosh, lewat perusahaan khusus atau Special Mission Vehicle (SMV) di bawah Kementerian Keuangan. Proses serah terima proyek kereta cepat itu diperkirakan berlangsung pertengahan September 2026, dan begitu rampung pemerintah baru akan menghitung total kewajiban utang yang harus ditanggung.",
+   "Purbaya menyampaikan hal itu di Kompleks Istana Kepresidenan, Jakarta Pusat, Senin (7/9/2026). Ia mengatakan begitu kereta cepat diserahkan pertengahan bulan ini, pemerintah akan langsung menghitung utangnya dan kemungkinan menugaskan salah satu BUMN di bawah Kemenkeu untuk menanganinya, meski nama perusahaan yang dimaksud belum ditentukan.",
+   "Purbaya menegaskan proses serah terima ini tidak membebani anggaran Kemenkeu. Dana penyertaan modal yang diterima negara dalam proses tersebut bernilai nol rupiah, sementara kewajiban membayar utang ke depan sepenuhnya menjadi tanggung jawab SMV yang ditugaskan, bukan dibayar tunai oleh Kemenkeu kepada Danantara.",
+   "Meski begitu, cicilan utang Whoosh tetap harus dibayar setiap tahun oleh perusahaan yang ditunjuk. Purbaya memastikan SMV tersebut tidak perlu mencari investor baru karena sudah memiliki kemampuan keuangan memadai, dengan mencontohkan satu perusahaan SMV bisa meraih laba sekitar Rp3 triliun hingga Rp4 triliun dalam setahun."
+  ],
+  "fotoAdegan": "A high-speed train gliding into a modern elevated station platform in Indonesia, morning commuters waiting quietly on the platform",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/29/6a69bcb181ae4-waspada-jangan-terkecoh-logo-dan-jadwal-asli-modus-penipuan-tiket-whoosh-ini-bisa-kuras-rekening-korban_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah pengelolaan utang Whoosh akan dipindahkan ke perusahaan Special Mission Vehicle (SMV), yaitu BUMN yang secara khusus ditugaskan negara, di bawah Kementerian Keuangan. Kemenkeu menegaskan proses serah terima kereta cepat tidak membebani kas negara karena dana penyertaan modal yang diterima bernilai nol rupiah, tapi kewajiban membayar cicilan utang setiap tahun berpindah ke SMV tersebut. Pihak yang langsung terdampak adalah BUMN yang nanti ditunjuk sebagai SMV, karena harus menyisihkan sebagian labanya, disebutkan bisa mencapai Rp3 triliun sampai Rp4 triliun per tahun, untuk membayar utang proyek yang bukan bisnis inti mereka. Pola ini mengarah ke konsolidasi kewajiban utang proyek strategis nasional langsung ke tangan negara lewat holding Kemenkeu, ketimbang membiarkannya jadi risiko komersial BUMN pelaksana proyek. Yang akan memastikan arah ini adalah pengumuman resmi nama SMV serta rincian total utang begitu serah terima kereta cepat rampung pada pertengahan September 2026.",
+  "imageV": "mtrms3nb"
  },
  {
   "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
@@ -8268,7 +8434,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
   "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-01T21:48:22.453Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
@@ -10175,7 +10341,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T21:56:54.150Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",

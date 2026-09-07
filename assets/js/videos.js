@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JAcUIYq96js",
+  "title": "KSPPB dan Komisi IX DPR Bahas RUU Tenaga Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Serikat pekerja bertemu Komisi IX DPR RI untuk menyampaikan aspirasi dan pandangan kritis terkait revisi Undang-Undang Ketenagakerjaan.",
+  "takeaway": "Pembahasan RUU Tenaga Kerja relevan bagi pembaca ekonomi karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja dan dunia usaha.",
+  "terbit": "2026-09-07T16:57:04+00:00"
+ },
+ {
   "id": "VhlzqIvVtl4",
   "title": "BPH Migas Perkuat Pengawasan Distribusi BBM Subsidi",
   "category": "Energi",

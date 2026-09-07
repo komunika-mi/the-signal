@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JAcUIYq96js",
+  "title": "KSPPB dan Komisi IX DPR Bahas RUU Tenaga Kerja",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Serikat pekerja bertemu Komisi IX DPR RI untuk menyampaikan aspirasi dan pandangan kritis terkait revisi Undang-Undang Ketenagakerjaan.",
+  "takeaway": "Pembahasan RUU Tenaga Kerja relevan bagi pembaca ekonomi karena berpotensi mengubah aturan ketenagakerjaan yang berdampak pada pekerja dan dunia usaha."
+ },
+ {
   "id": "VhlzqIvVtl4",
   "title": "BPH Migas Perkuat Pengawasan Distribusi BBM Subsidi",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIM",
   "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
   "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
- },
- {
-  "id": "fp_VWfYRPCY",
-  "title": "Pembangunan Ritel Modern di Desa Akan Diatur Pemerintah",
-  "category": "UMKM",
-  "program": "One On One",
-  "summary": "Menteri Desa dan PDT menyebut pemerintah akan mengatur pembangunan ritel modern di desa agar tidak mematikan pelaku usaha lokal.",
-  "takeaway": "Regulasi ritel modern di desa berkaitan langsung dengan perlindungan UMKM dan pemerataan ekonomi pedesaan."
  }
 ];

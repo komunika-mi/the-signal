@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-buka-investasi-nuklir-di-forum-rusia",
+  "category": "Global",
+  "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
+  "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
+  "date": "8 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "investasi Rusia",
+   "energi nuklir",
+   "hilirisasi",
+   "BKPM"
+  ],
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
+  "category": "Industri",
+  "title": "Realisasi Investasi [Hilirisasi] Tembus Rp300,1 Triliun",
+  "deck": "Realisasi investasi sektor hilirisasi RI naik 6,9 persen menjadi Rp300,1 triliun pada semester I 2026, ditopang strategi perencanaan, kemudahan izin, dan insentif pajak.",
+  "date": "8 September 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "hilirisasi",
+   "investasi",
+   "BKPM",
+   "insentif pajak"
+  ],
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-ungkap-tiga-strategi-jemput-investasi-dan-perkuat-hilirisasi",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
+  "category": "BUMN",
+  "title": "Indonesia Tawarkan [32] Proyek Infrastruktur ke Investor Jepang",
+  "deck": "Kemenko Perekonomian dan KBRI Tokyo menggelar forum bisnis yang menawarkan 32 proyek infrastruktur milik sembilan BUMN dan BUMD kepada puluhan investor Jepang.",
+  "date": "8 September 2026",
+  "image": "assets/img/truk-logistik-gudang.jpg",
+  "tags": [
+   "investasi",
+   "Jepang",
+   "infrastruktur",
+   "BUMN"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7079/indonesia-japan-transportation-and-infrastructure-business-forum-and-business-matching-sebagai-upaya-peningkatan-investasi-dan-mendorong-pertumbuhan-ekonomi-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
+  "category": "Global",
+  "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
+  "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
+  "date": "8 September 2026",
+  "image": "assets/img/kapal-batubara.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Indonesia-Irlandia",
+   "Kemenko Perekonomian",
+   "perdagangan bilateral"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7080/bersiap-untuk-implementasi-ieu-cepa-indonesia-dan-irlandia-gelar-dialog-strategis-untuk-perkuat-kerja-sama-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
   "category": "Aksi Korporasi",
   "title": "RAJA: Laba Bersih 1H26 [Melonjak] 88 Persen, Utang Menyusut",
@@ -35,6 +99,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c836520141_ae09972d01.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang",
+  "category": "Energi",
+  "title": "PLTP Gunung Ungaran Dinilai [Aman] Asal Dikaji Matang",
+  "deck": "Pengamat kebijakan publik Agus Pambagio menilai rencana PLTP Gunung Ungaran tak perlu dikhawatirkan asal dikaji menyeluruh, termasuk soal kawasan cagar budaya di sekitarnya.",
+  "date": "7 September 2026",
+  "image": "assets/img/pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang.jpg",
+  "imageV": "mtrms3al",
+  "tags": [
+   "pltp gunung ungaran",
+   "energi bersih",
+   "panas bumi",
+   "agus pambagio"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465566-soal-pltp-gunung-ungaran-pengamat-yakinkan-tak-perlu-khawatir-energi-bersih-perlu-didorong-asal-dikaji-komperhensif"
+ },
+ {
+  "slug": "utang-whoosh-bakal-ditanggung-smv-kemenkeu",
+  "category": "BUMN",
+  "title": "Utang Whoosh Bakal Ditanggung [SMV] Kemenkeu",
+  "deck": "Kemenkeu menyiapkan perusahaan khusus untuk menanggung utang Kereta Cepat Whoosh setelah proyek diserahkan pertengahan September 2026, tanpa membebani kas negara.",
+  "date": "7 September 2026",
+  "image": "assets/img/utang-whoosh-bakal-ditanggung-smv-kemenkeu.jpg",
+  "imageV": "mtrms3nb",
+  "tags": [
+   "Whoosh",
+   "Kemenkeu",
+   "SMV",
+   "utang BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465563-purbaya-siapkan-jurus-baru-bereskan-utang-whoosh-smv-kemenkeu-bakal-jadi-penanggung"
  },
  {
   "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
@@ -5131,7 +5229,7 @@ var ARTICLES = [
   "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
   "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
   "date": "2 September 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "CPO",
    "biji kakao",
@@ -6314,7 +6412,7 @@ var ARTICLES = [
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
   "date": "1 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "emas",
    "HPE",
@@ -6452,105 +6550,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dee9c52fc9_ef5836dc7d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "smgr-laba-semester-i-2026-melonjak-ke-rp207-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SMGR: Laba Semester I 2026 [Melonjak] ke Rp207 Miliar",
-  "deck": "Laba bersih Semen Indonesia naik lebih dari lima kali lipat menjadi Rp207 miliar pada semester I 2026, sementara utang bank dan obligasi jatuh tempo dilunasi.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMGR",
-   "Semen Indonesia",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831224736-64215-0/FinancialStatement-2026-II-SMGR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aisa-tanggapi-bursa-ungkap-nasib-dana-kpk-rp150-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AISA Tanggapi Bursa, Ungkap Nasib Dana [KPK] Rp150 Miliar",
-  "deck": "FKS Food Sejahtera (AISA) menjawab permintaan penjelasan BEI soal kuasi reorganisasi, lonjakan piutang dan persediaan, dana Rp150 miliar di rekening KPK, hingga covenant utang bank sindikasi.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AISA",
-   "FKS Food Sejahtera",
-   "Bursa Efek Indonesia",
-   "Kuasi Reorganisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/99d015ba68_0498c38a3b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi",
-  "category": "BUMN",
-  "title": "PGN Lewat BerandaMAS Kenalkan Hunian Berbasis [Energi]",
-  "deck": "PGNMAS, anak usaha PGN, memperkenalkan BerandaMAS, kawasan hunian berbasis gas bumi dan panel surya, dalam Danantara Housing Expo 2026 di PIK 2, Tangerang.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/pgn-lewat-berandamas-kenalkan-hunian-berbasis-energi.jpg",
-  "imageV": "mthi3zj8",
-  "tags": [
-   "BerandaMAS",
-   "PGN",
-   "PGNMAS",
-   "Danantara Housing Expo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463967-kenalkan-hunian-berbasis-energi-di-danantara-housing-expo-2026-begini-konsep-smart-home-berandamas"
- },
- {
-  "slug": "pertamina-gandeng-ibc-bangun-ekosistem-baterai",
-  "category": "Energi",
-  "title": "Pertamina Gandeng IBC Bangun Ekosistem [Baterai]",
-  "deck": "Pertamina teken MoU dengan IBC untuk menjajaki ekosistem baterai terintegrasi, dari BESS hingga daur ulang baterai, sebagai bagian ekspansi bisnis rendah karbon.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/pertamina-gandeng-ibc-bangun-ekosistem-baterai.jpg",
-  "imageV": "mthi3zxo",
-  "tags": [
-   "Pertamina",
-   "IBC",
-   "baterai",
-   "rendah karbon"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463963-perluas-peluang-bisnis-rendah-karbon-pertamina-teken-sinergi-pengembangan-ekosistem-baterai-dengan-pt-ibc"
- },
- {
-  "slug": "pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026",
-  "category": "BUMN",
-  "title": "PAM JAYA Pastikan Air Baku Jatiluhur [Aman] hingga 2026",
-  "deck": "PAM JAYA menyatakan pasokan air baku dari Waduk Jatiluhur masih aman untuk Jakarta hingga akhir 2026, meski muka air turun akibat kemarau.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/pam-jaya-pastikan-air-baku-jatiluhur-aman-hingga-2026.jpg",
-  "imageV": "mthi40cc",
-  "tags": [
-   "PAM JAYA",
-   "Waduk Jatiluhur",
-   "air baku",
-   "kemarau"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463962-hadapi-musim-kemarau-pam-jaya-pastikan-air-baku-dari-waduk-jatiluhur-aman-hingga-akhir-2026"
- },
- {
-  "slug": "scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri",
-  "category": "Teknologi",
-  "title": "ScaleOcean Rilis ERP [Atlas] yang Ikuti Alur Kerja Industri",
-  "deck": "ScaleOcean meluncurkan Atlas, platform ERP yang dikonfigurasi mengikuti alur kerja masing-masing industri seperti manufaktur, distribusi, logistik, dan konstruksi, alih-alih memakai template baku.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/scaleocean-rilis-erp-atlas-yang-ikuti-alur-kerja-industri.jpg",
-  "imageV": "mthi40w2",
-  "tags": [
-   "ScaleOcean",
-   "ERP",
-   "software bisnis",
-   "digitalisasi industri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463961-scaleocean-meluncurkan-scaleocean-atlas-erp-yang-mengikuti-cara-kerja-setiap-industri"
  }
 ];

@@ -5,6 +5,78 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
+  "category": "BUMN",
+  "title": "HET Pupuk Bersubsidi [Turun] 20 Persen, Aturan Baru Berlaku",
+  "deck": "Pemerintah menurunkan harga eceran tertinggi pupuk bersubsidi 20 persen dan memperbarui aturan penyalurannya, sementara realisasi di Mojokerto sudah capai 76 persen dari alokasi tahun ini.",
+  "date": "8 September 2026",
+  "image": "assets/img/het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku.jpg",
+  "imageV": "mtrssgj6",
+  "tags": [
+   "pupuk bersubsidi",
+   "Pupuk Indonesia",
+   "HET pupuk",
+   "Mojokerto"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/881/pilar-tani-pupuk-indonesia-perkuat-penyaluran-pupuk-subsidi-di-mojokerto",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "kementan-perketat-aturan-penebusan-pupuk-bersubsidi",
+  "category": "BUMN",
+  "title": "Kementan [Perketat] Aturan Penebusan Pupuk Bersubsidi",
+  "deck": "Aturan Kementan baru membatasi penebusan pupuk bersubsidi berkelompok maksimal 20 KTP, berlaku sejak 1 September 2026, untuk mencegah penyimpangan penyaluran ke petani.",
+  "date": "8 September 2026",
+  "image": "assets/img/kementan-perketat-aturan-penebusan-pupuk-bersubsidi.jpg",
+  "imageV": "mtrssi57",
+  "tags": [
+   "pupuk bersubsidi",
+   "Pupuk Indonesia",
+   "Bangkalan",
+   "Kementan"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/882/pupuk-indonesia-mengimbau-ppts-bangkalan-salurkan-pupuk-bersubsidi-sesuai-ketentuan",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus",
+  "category": "Ketenagakerjaan",
+  "title": "Inspeksi ABK Kapal Ikan Diuji Coba, KKP Catat [21] Kasus",
+  "deck": "KKP bersama Kemenaker uji coba inspeksi ketenagakerjaan di kapal perikanan Pelabuhan Benoa, Bali, dan menemukan masalah pengupahan serta perekrutan ilegal ABK.",
+  "date": "8 September 2026",
+  "image": "assets/img/inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus.jpg",
+  "imageV": "mtrssk2s",
+  "tags": [
+   "ABK",
+   "KKP",
+   "ILO 188",
+   "Ketenagakerjaan"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gelar-inspeksi-kapal-perikanan-sesuai-konvensi-ilo-188-untuk-lindungi-abk-8MV3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram",
+  "category": "Industri",
+  "title": "Aturan Baru [Izinkan] Ekspor Lobster Budi Daya 50 Gram",
+  "deck": "Permen KP terbaru mengatur pembesaran lobster bertahap di dalam negeri dan membuka izin ekspor hasil budi daya minimal 50 gram, dengan kewajiban restocking dua persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram.jpg",
+  "imageV": "mtrsslxe",
+  "tags": [
+   "Lobster",
+   "KKP",
+   "Ekspor Perikanan",
+   "Lombok Timur"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-dorong-kemajuan-ekosistem-budi-daya-lobster-di-lombok-timur-9DWD.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
   "slug": "presiden-prabowo-buka-investasi-nuklir-di-forum-rusia",
   "category": "Global",
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
@@ -6486,69 +6558,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2613",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "nilai-tukar-petani-naik-1-05-persen-ke-129-19",
-  "category": "Makroekonomi",
-  "title": "Nilai Tukar Petani [Naik] 1,05 Persen ke 129,19",
-  "deck": "NTP nasional Agustus 2026 naik ke 129,19 karena harga hasil panen naik lebih cepat dibanding biaya hidup dan produksi yang ditanggung petani.",
-  "date": "1 September 2026",
-  "image": "assets/img/petani-sawah.jpg",
-  "tags": [
-   "NTP",
-   "Petani",
-   "BPS",
-   "Harga Beras"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2612",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "laju-impor-ri-kalahkan-ekspor-surplus-dagang-menipis",
-  "category": "Makroekonomi",
-  "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
-  "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
-  "date": "1 September 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
-  "tags": [
-   "ekspor-impor",
-   "neraca dagang",
-   "BPS",
-   "migas"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "inci-laba-bersih-melonjak-tiga-kali-lipat-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "INCI: Laba Bersih [Melonjak] Tiga Kali Lipat di Semester I 2026",
-  "deck": "Laba bersih Intanwijaya Internasional naik dari Rp8,5 miliar menjadi Rp27,8 miliar pada semester I 2026, meski utang usaha turut melonjak lebih dari 20 persen dipicu kenaikan pembelian bahan baku.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCI",
-   "Intanwijaya Internasional",
-   "laporan keuangan",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901000424-64332-0/FinancialStatement-2026-II-INCI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tama-catat-ekuitas-negatif-usai-rugi-rp96-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TAMA Catat Ekuitas [Negatif] Usai Rugi Rp96,6 Miliar",
-  "deck": "Ekuitas TAMA berbalik negatif Rp61,98 miliar pada semester I 2026 setelah rugi bersih melonjak jadi Rp96,64 miliar, dipicu beban lain-lain dan penurunan nilai properti investasi.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMA",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/dee9c52fc9_ef5836dc7d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

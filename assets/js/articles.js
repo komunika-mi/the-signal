@@ -3,6 +3,118 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
+  "category": "BUMN",
+  "title": "HET Pupuk Bersubsidi [Turun] 20 Persen, Aturan Baru Berlaku",
+  "deck": "Pemerintah menurunkan harga eceran tertinggi pupuk bersubsidi 20 persen dan memperbarui aturan penyalurannya, sementara realisasi di Mojokerto sudah capai 76 persen dari alokasi tahun ini.",
+  "image": "assets/img/het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T22:05:49.419Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/881/pilar-tani-pupuk-indonesia-perkuat-penyaluran-pupuk-subsidi-di-mojokerto",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "pupuk bersubsidi",
+   "Pupuk Indonesia",
+   "HET pupuk",
+   "Mojokerto"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) menerapkan aturan baru penyaluran pupuk bersubsidi mengacu pada Keputusan Direktur Jenderal Prasarana dan Sarana Pertanian Kementerian Pertanian Nomor 32 dan Nomor 33 Tahun 2026, sekaligus memberlakukan penurunan harga eceran tertinggi (HET) pupuk bersubsidi sebesar 20 persen. Aturan ini disampaikan dalam acara Pilar Tani di Kabupaten Mojokerto, Jawa Timur, Selasa (1/9/2026), sebagai bagian dari sosialisasi kepada pemangku kepentingan di daerah.",
+   "Mekanisme penyaluran tetap berjalan dari pabrik melalui pelaku usaha distribusi ke titik serah atau kios, lalu diteruskan ke kelompok tani atau petani. Kementerian Pertanian menetapkan 10 komoditas yang berhak menerima pupuk bersubsidi, yaitu padi, jagung, kedelai, cabai, bawang merah, bawang putih, singkong, tebu, kakao, dan kopi. Komoditas di luar daftar tersebut tidak termasuk skema subsidi.",
+   "Dari sisi harga, HET urea turun menjadi Rp1.800 per kilogram atau Rp90.000 per sak 50 kilogram. NPK menjadi Rp1.840 per kilogram atau Rp92.000 per sak, NPK Kakao atau formula khusus menjadi Rp2.640 per kilogram atau Rp132.000 per sak, ZA menjadi Rp1.360 per kilogram atau Rp68.000 per sak, dan pupuk organik menjadi Rp640 per kilogram atau Rp25.600 per sak 40 kilogram.",
+   "Manajer Penjualan Wilayah 4 Pupuk Indonesia, Oktario Rolando, menyebut realisasi penyaluran pupuk bersubsidi di Kabupaten Mojokerto telah mencapai 76 persen dari alokasi yang ditetapkan. Ia juga menyebut Provinsi Jawa Timur mendapat tambahan realokasi pupuk sebesar 7,3 persen dibanding alokasi sebelumnya."
+  ],
+  "fotoAdegan": "Farmers loading sacks of fertilizer onto a small truck at a rural distribution kiosk, dusty road, morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1836/conversions/WhatsApp-Image-2026-09-07-at-15.46.32-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Ada dua perubahan konkret di sini: aturan penyaluran pupuk bersubsidi diperbarui lewat Keputusan Dirjen Kementerian Pertanian nomor 32 dan 33 tahun 2026, dan harga tertinggi pupuk bersubsidi di tingkat kios dipangkas 20 persen, misalnya urea turun jadi Rp1.800 per kilogram. Yang terdampak adalah petani penerima 10 komoditas yang diatur, dari padi sampai kopi, karena mereka membayar lebih murah di kios tapi juga harus tercatat lebih rapi sebagai penerima resmi. Jawa Timur, termasuk Mojokerto, mendapat tambahan jatah pupuk 7,3 persen dibanding alokasi sebelumnya, dan pupuk yang sudah benar-benar sampai ke petani di Mojokerto sudah mencapai 76 persen dari jatah tahun ini padahal tahun anggaran belum berakhir. Kombinasi harga lebih murah dan pencatatan penyaluran yang lebih ketat ini mengarah ke prioritas menjaga pupuk sampai ke penerima yang tepat, bukan sekadar menambah jumlah pupuk yang beredar. Yang akan memastikan arah ini adalah angka realisasi penyaluran pupuk bersubsidi secara nasional pada akhir tahun anggaran 2026, yang akan menunjukkan apakah harga murah mempercepat penyerapan atau aturan baru justru memperlambat proses di lapangan.",
+  "imageV": "mtrssgj6"
+ },
+ {
+  "slug": "kementan-perketat-aturan-penebusan-pupuk-bersubsidi",
+  "category": "BUMN",
+  "title": "Kementan [Perketat] Aturan Penebusan Pupuk Bersubsidi",
+  "deck": "Aturan Kementan baru membatasi penebusan pupuk bersubsidi berkelompok maksimal 20 KTP, berlaku sejak 1 September 2026, untuk mencegah penyimpangan penyaluran ke petani.",
+  "image": "assets/img/kementan-perketat-aturan-penebusan-pupuk-bersubsidi.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T22:05:49.116Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/882/pupuk-indonesia-mengimbau-ppts-bangkalan-salurkan-pupuk-bersubsidi-sesuai-ketentuan",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "pupuk bersubsidi",
+   "Pupuk Indonesia",
+   "Bangkalan",
+   "Kementan"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) meminta seluruh Penerima Pupuk pada Titik Serah (PPTS), yakni kios penyalur resmi pupuk bersubsidi, di Kabupaten Bangkalan, Jawa Timur, untuk tertib menjalankan aturan penyaluran yang baru. Imbauan ini menyusul terbitnya Keputusan Direktur Jenderal Prasarana dan Sarana Pertanian (Kepdirjen PSP) Kementerian Pertanian Nomor 32 Tahun 2026, yang mengubah sejumlah ketentuan penebusan pupuk bersubsidi dan mulai berlaku 1 September 2026. Aturan ini penting bagi petani karena menentukan siapa yang berhak menebus pupuk murah dan bagaimana caranya, terutama lewat mekanisme penebusan berkelompok yang selama ini rawan disalahgunakan.",
+   "Perubahan utama ada pada batas penebusan berkelompok: satu orang kini hanya bisa mewakili maksimal 20 kartu tanda penduduk (KTP) petani lain, turun dari sebelumnya 30 KTP. Petani yang diwakilkan wajib berasal dari kelompok tani yang sama dan masih hidup, memakai KTP asli, serta surat kuasanya harus diketahui oleh penyuluh pertanian. Untuk petani yang sudah meninggal, surat keterangan ahli waris hanya berlaku setahun; bila ahli warisnya ingin tetap mendapat jatah pupuk tahun berikutnya, ia harus lapor ke penyuluh pertanian dan mendaftar ulang dengan surat keterangan yang juga diketahui kepala desa atau lurah. Jumlah pupuk yang boleh ditebus dalam satu transaksi juga tidak lagi mengikuti kuota penuh setahun dari rencana kebutuhan kelompok tani (e-RDKK), melainkan disesuaikan dengan kebutuhan satu musim tanam saja.",
+   "Account Executive Pupuk Indonesia wilayah Sampang-Bangkalan, Yoppy Sandi Julian, menegaskan PPTS dilarang melaporkan realisasi penyaluran yang tidak sesuai kondisi lapangan, memanipulasi data penebusan, membuat laporan stok fiktif, menjual pupuk di atas harga eceran tertinggi (HET) yang ditetapkan pemerintah, atau memalsukan dokumen dan surat kuasa. Menurut Yoppy, pelanggaran atas ketentuan tersebut bisa berujung pencabutan izin usaha, pencantuman dalam daftar hitam, kewajiban mengganti kerugian negara, hingga sanksi pidana.",
+   "Plt. Kepala Dinas Pertanian, Perikanan, dan Ketahanan Pangan Kabupaten Bangkalan, C. Henry Kusumas Karyadinata, menyebut alokasi pupuk bersubsidi untuk petani Bangkalan tahun ini terdiri dari 18.807 ton Urea, 14.206 ton NPK, dan 474 ton pupuk organik. Hingga Agustus 2026, realisasi penebusan baru mencapai 9.328 ton Urea atau sekitar 50 persen, 9.297 ton NPK atau sekitar 65 persen, dan 106 ton pupuk organik atau sekitar 22 persen dari total alokasi. Pemerintah kabupaten berharap sisa waktu September hingga Desember bisa dipakai petani untuk memaksimalkan penebusan sebelum tahun anggaran berakhir."
+  ],
+  "fotoAdegan": "Farmers loading sacks of subsidized fertilizer onto a small pickup truck outside a rural distribution kiosk, East Java countryside, morning light.",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1837/conversions/WhatsApp-Image-2026-09-07-at-15.46.33-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah bukan besaran subsidinya, melainkan cara penebusannya: batas KTP yang bisa diwakilkan dalam penebusan berkelompok turun dari 30 jadi 20 orang, dan jatah pupuk yang dulu bisa ditebus sekaligus sesuai kuota setahun kini dibatasi sesuai kebutuhan satu musim tanam saja. Aturan ini menyasar celah yang selama ini rawan disalahgunakan, seperti mengklaim kuota atas nama petani yang sudah meninggal atau memalsukan surat kuasa, sehingga yang terdampak langsung adalah PPTS selaku penyalur dan petani yang biasa menebus lewat wakil kelompok tani. Arahnya mengarah ke pengetatan administrasi dan pengawasan distribusi, bukan pengurangan volume subsidi, karena alokasi Urea dan NPK untuk Bangkalan tahun ini tidak berubah. Yang perlu dicermati berikutnya adalah apakah realisasi penebusan, yang baru 50 persen untuk Urea dan 22 persen untuk pupuk organik hingga Agustus, bisa terkerek naik dalam empat bulan tersisa di bawah prosedur baru yang lebih ketat ini.",
+  "imageV": "mtrssi57"
+ },
+ {
+  "slug": "inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus",
+  "category": "Ketenagakerjaan",
+  "title": "Inspeksi ABK Kapal Ikan Diuji Coba, KKP Catat [21] Kasus",
+  "deck": "KKP bersama Kemenaker uji coba inspeksi ketenagakerjaan di kapal perikanan Pelabuhan Benoa, Bali, dan menemukan masalah pengupahan serta perekrutan ilegal ABK.",
+  "image": "assets/img/inspeksi-abk-kapal-ikan-diuji-coba-kkp-catat-21-kasus.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T22:04:13.741Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-gelar-inspeksi-kapal-perikanan-sesuai-konvensi-ilo-188-untuk-lindungi-abk-8MV3.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "ABK",
+   "KKP",
+   "ILO 188",
+   "Ketenagakerjaan"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan bersama Kementerian Ketenagakerjaan menggelar uji coba inspeksi bersama terhadap aspek ketenagakerjaan di kapal-kapal perikanan yang bersandar di Pelabuhan Benoa, Bali, pada 27 dan 28 Agustus lalu. Uji coba ini merupakan langkah awal penerapan Konvensi ILO Nomor 188 tentang Pekerjaan dalam Sektor Penangkapan Ikan, yang diratifikasi lewat Peraturan Presiden Nomor 25 Tahun 2026 yang diumumkan Presiden Prabowo Subianto pada peringatan Hari Buruh 1 Mei lalu. Langkah ini penting bagi awak kapal perikanan karena selama ini belum ada mekanisme inspeksi khusus yang memeriksa kondisi kerja mereka di atas kapal, mulai dari upah, kontrak kerja, sampai keselamatan kerja.",
+   "Selain KKP dan Kemenaker, uji coba ini melibatkan Dinas Kelautan dan Perikanan Provinsi Bali, Dinas Ketenagakerjaan Provinsi Bali, dan organisasi Destructive Fishing Watch Indonesia. Sasarannya adalah kapal yang hendak berangkat melaut maupun yang baru kembali menangkap ikan, dengan tahapan pemeriksaan dokumen administrasi, inspeksi langsung di atas kapal, lalu pembahasan bersama atas hasilnya.",
+   "Dari uji coba itu, tim menemukan sejumlah masalah: sistem pengupahan awak kapal masih memakai skema bagi hasil, bukan upah tetap, banyak ABK belum memahami isi perjanjian kerja laut yang mereka teken, perekrutan awak kapal masih lewat agen yang belum berbadan hukum, serta kondisi keselamatan dan kesehatan kerja di atas kapal yang perlu diperbaiki. Temuan-temuan ini disampaikan ke pemilik kapal agar segera dilakukan perbaikan.",
+   "KKP mencatat ada 21 kasus yang melibatkan awak kapal perikanan hingga Agustus 2026, sebagian besar terkait sengketa pengupahan, klaim santunan kematian dan kecelakaan kerja, serta praktik perekrutan ilegal. Menurut Direktur Kapal Perikanan dan Alat Penangkapan Ikan KKP, Mochamad Idnillah, hasil uji coba ini akan dipakai untuk menyempurnakan instrumen inspeksi, prosedur pelaksanaan, serta pembagian kewenangan antarinstansi, sebagai bagian dari rencana membangun mekanisme inspeksi bersama yang lebih terintegrasi dan berkelanjutan."
+  ],
+  "fotoAdegan": "Wooden fishing boats moored at a busy Balinese harbor at dawn, crew members coiling nets and checking gear on deck",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-gelar-inspeksi-kapal-perikanan-sesuai-konvensi-ilo-188-untuk-lindungi-abk-8MV3.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah konkret dari siaran ini adalah uji coba mekanisme inspeksi bersama, baru dilakukan sekali di Pelabuhan Benoa pada 27-28 Agustus, sebagai tindak lanjut ratifikasi Konvensi ILO 188 lewat Perpres 25/2026. Pihak yang langsung terdampak adalah awak kapal perikanan, karena hasil uji coba menemukan sistem pengupahan masih pakai bagi hasil bukan upah tetap, ABK belum paham isi kontrak kerja laut, dan perekrutan lewat agen tak berbadan hukum, sementara pemilik kapal diminta memperbaiki temuan itu. Yang belum jelas dari siaran ini adalah kapan mekanisme inspeksi ini akan diperluas ke pelabuhan lain dan diwajibkan secara rutin, sebab KKP baru menyebutnya sebagai bahan evaluasi tanpa tenggat waktu. Yang perlu dipantau adalah apakah KKP menerbitkan aturan turunan atau jadwal inspeksi rutin pasca-evaluasi ini, serta apakah angka 21 kasus ABK yang tercatat hingga Agustus 2026 bertambah pada laporan berikutnya.",
+  "imageV": "mtrssk2s"
+ },
+ {
+  "slug": "aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram",
+  "category": "Industri",
+  "title": "Aturan Baru [Izinkan] Ekspor Lobster Budi Daya 50 Gram",
+  "deck": "Permen KP terbaru mengatur pembesaran lobster bertahap di dalam negeri dan membuka izin ekspor hasil budi daya minimal 50 gram, dengan kewajiban restocking dua persen.",
+  "image": "assets/img/aturan-baru-izinkan-ekspor-lobster-budi-daya-50-gram.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-07T22:04:12.787Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-dorong-kemajuan-ekosistem-budi-daya-lobster-di-lombok-timur-9DWD.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "Lobster",
+   "KKP",
+   "Ekspor Perikanan",
+   "Lombok Timur"
+  ],
+  "body": [
+   "Pemerintah menerbitkan Peraturan Menteri Kelautan dan Perikanan Nomor 5 Tahun 2026 yang mengatur ulang tata niaga budi daya lobster nasional, termasuk membuka izin ekspor untuk lobster hasil budi daya dengan bobot minimal 50 gram. Aturan ini disampaikan Direktur Jenderal Perikanan Budi Daya KKP, Tb Haeru Rahayu, saat Komisi IV DPR RI meninjau langsung perkembangan budi daya lobster di Lombok Timur, salah satu sentra budi daya lobster di Indonesia dengan jumlah pembudidaya yang menurut KKP kini mencapai 1.563 orang.",
+   "Regulasi tersebut membagi usaha budi daya lobster menjadi tiga tahap: pendederan dari benih bening lobster (BBL) hingga ukuran 5 gram, pembesaran pertama dari 5 gram sampai 50 gram, dan pembesaran kedua mulai 50 gram. Hasil tiap tahap boleh dijual di dalam negeri untuk dilanjutkan ke tahap berikutnya, sementara lobster berukuran minimal 50 gram baru boleh dikirim ke luar negeri dengan syarat dilengkapi surat keterangan asal dari unit pelaksana teknis atau dinas perikanan. Aturan yang sama juga mewajibkan pembudidaya menebar kembali ke alam paling sedikit dua persen dari hasil panen berukuran minimal 50 gram per ekor.",
+   "Ketua Komisi IV DPR RI Siti Hediati Soeharto, yang berkunjung ke Instalasi Telong-Elong, Balai Perikanan Budidaya Laut Lombok pada Kamis (3/9), menyatakan Indonesia berpeluang menjadi produsen utama lobster budi daya dunia berkat ketersediaan benih bening lobster di dalam negeri. Ia mengatakan hasil penyerapan aspirasi nelayan penangkap BBL dan pembudidaya di Lombok Timur akan menjadi bahan Panitia Kerja Komisi IV DPR RI dalam merumuskan rekomendasi kebijakan tata kelola BBL dan strategi percepatan budi daya lobster nasional.",
+   "Sahwan, salah satu pembudidaya di Lombok Timur, menceritakan usahanya bermula dari satu lubang keramba pada 2016 dan kini berkembang menjadi 150 lubang keramba. Ia mengaku pendapatannya meningkat dan usahanya membuka lapangan kerja bagi warga sekitar, dengan keberhasilan yang menurutnya ditopang oleh benih berkualitas, pengelolaan pakan, kebersihan jaring, serta kontrol rutin kondisi pemeliharaan."
+  ],
+  "fotoAdegan": "Floating net cages for lobster farming bobbing in a calm coastal bay, workers checking cages from small wooden boats, morning light",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-dorong-kemajuan-ekosistem-budi-daya-lobster-di-lombok-timur-9DWD.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Aturan yang dimaksud, Peraturan Menteri Kelautan dan Perikanan Nomor 5 Tahun 2026, mengubah cara bisnis lobster diatur: benih lobster yang masih sangat kecil, disebut benih bening lobster atau BBL, kini harus melalui tahap pembesaran bertingkat di dalam negeri, dan yang boleh dijual ke luar negeri hanya lobster yang sudah dibesarkan sampai minimal 50 gram. Pihak yang paling langsung terdampak adalah pembudidaya kecil seperti Sahwan, yang mengelola 150 lubang keramba, serta nelayan penangkap benih, karena aturan ini menentukan di titik mana mereka boleh menjual hasil tangkapan atau panennya. Arahnya terlihat jelas ke hilirisasi, yaitu nilai tambah dikerjakan lewat rantai pembesaran di dalam negeri, bukan lagi ekspor benih mentah, dengan kewajiban menebar kembali dua persen hasil panen sebagai syarat menjaga stok lobster di alam. Yang akan menentukan apakah arah ini benar-benar berjalan adalah rekomendasi kebijakan tata kelola BBL yang sedang dirumuskan Panitia Kerja Komisi IV DPR RI setelah kunjungan ke Lombok Timur ini, karena di situlah aturan main penangkapan benih akan dipertegas.",
+  "imageV": "mtrsslxe"
+ },
+ {
   "slug": "presiden-prabowo-buka-investasi-nuklir-di-forum-rusia",
   "category": "Global",
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
@@ -28,7 +140,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang baru dari pernyataan ini bukan proyek atau investasi baru, melainkan sinyal resmi bahwa pemerintah membuka diri terhadap investasi dan alih pengetahuan di bidang energi nuklir, mulai dari reaktor modular berskala kecil hingga pembangkit skala penuh. Ini relevan terutama bagi calon investor sektor energi dan industri yang bergantung pada pasokan listrik jangka panjang, karena nuklir selama ini jarang disebut eksplisit dalam pernyataan resmi presiden soal energi masa depan. Pidato ini belum menyebut proyek, calon mitra, atau target waktu apa pun, sehingga belum bisa dipastikan apakah pernyataan ini akan diikuti langkah konkret seperti kajian Kementerian ESDM atau revisi kebijakan energi nasional. Yang perlu dipantau adalah apakah ada aturan turunan atau kesepakatan kerja sama energi nuklir dengan Rusia yang menyusul setelah kunjungan Presiden Prabowo ke Vladivostok ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
@@ -56,7 +168,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data paling konkret dari paparan ini adalah porsi hilirisasi yang sudah mencapai 29,7 persen dari total realisasi investasi nasional pada semester I 2026, dengan mayoritas dananya berasal dari investor asing dan tersebar di luar Pulau Jawa. Yang terdampak langsung adalah daerah penghasil komoditas tambang dan perkebunan di luar Jawa yang menerima Rp227,3 triliun investasi tersebut, serta pekerja lokal yang disasar lewat insentif pelatihan dan riset dalam skema super tax deduction. Arahnya, pemerintah tampak mendorong hilirisasi naik kelas dari sekadar pengolahan bahan mentah menjadi kegiatan yang melibatkan transfer teknologi dan riset, bukan cuma menambah pabrik pengolahan dasar. Ini baru bisa dibuktikan lewat data lanjutan, seperti berapa banyak perusahaan yang benar-benar memanfaatkan insentif super tax deduction dan apakah dominasi investasi asing di sektor ini mulai diimbangi investasi domestik pada laporan realisasi semester II 2026.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
@@ -84,7 +196,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan tawaran konkret: pemerintah membuka 32 proyek infrastruktur milik sembilan BUMN dan BUMD, dari jalan tol sampai pelabuhan, langsung ke puluhan perusahaan Jepang lewat forum business matching di Tokyo. Yang berkepentingan adalah BUMN pemilik proyek seperti Hutama Karya, Jasa Marga, KAI, dan Pelindo yang butuh mitra pendanaan asing, serta calon investor Jepang seperti Sumitomo dan Mizuho Bank yang mendapat akses ke daftar proyek terkurasi itu. Forum semacam ini masih tahap penjajakan, bukan kesepakatan, karena siaran pers tidak menyebut nilai investasi atau nota kesepahaman yang sudah diteken, jadi arahnya baru sebatas niat memperbanyak pintu masuk investasi Jepang untuk mengejar target pertumbuhan 8 persen pada 2029. Yang akan menunjukkan apakah forum ini berbuah nyata adalah ada tidaknya nota kesepahaman atau komitmen investasi yang diumumkan setelah business matching ini, serta apakah realisasi investasi Jepang di laporan BKPM pada kuartal-kuartal mendatang ikut naik.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
@@ -112,7 +224,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini cuma satu: penandatanganan nota kesepahaman atau Letter of Intent soal pengembangan kerja sama ekonomi dan bisnis, bukan perjanjian dagang yang mengikat. Target yang lebih besar adalah IEU-CEPA, perjanjian dagang antara Indonesia dan Uni Eropa, yang menurut Irlandia diharapkan diteken selama negara itu memimpin Dewan Uni Eropa, masa jabatan yang berakhir 31 Desember 2026. Pihak yang paling merasakan dampaknya adalah pelaku usaha anggota KADIN dan APINDO yang berdagang dengan Eropa, mengingat nilai perdagangan Indonesia-Irlandia saat ini masih kecil, hanya US$228,6 juta pada 2025. Ada dua kemungkinan ke depan, IEU-CEPA benar diteken sebelum masa presidensi Irlandia berakhir sesuai harapan yang disampaikan dalam pertemuan ini, atau rencana itu kembali tertunda seperti yang lazim terjadi pada negosiasi perjanjian dagang multilateral. Itu akan ketahuan paling lambat akhir Desember 2026, saat masa presidensi Irlandia di Dewan Uni Eropa berakhir.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",

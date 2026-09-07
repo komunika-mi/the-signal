@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Koreksi Laporan, Dana Obligasi Rp990 M [Belum Terpakai]",
+  "deck": "Dana bersih Rp989,93 miliar dari obligasi MEDC senilai Rp1 triliun belum digunakan hingga akhir Juni 2026, masih tersimpan di bank menunggu pelunasan obligasi jatuh tempo semester II 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "penggunaan dana",
+   "Medco Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f161fbf80d_de13f1eff8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arma-revisi-realisasi-dana-sukuk-rp1-68-triliun-ke-tambang",
+  "category": "Aksi Korporasi",
+  "title": "ARMA Revisi Realisasi Dana [Sukuk] Rp1,68 Triliun ke Tambang",
+  "deck": "PT Armadian Tritunggal merevisi laporan realisasi dana sukuk Rp1,82 triliun per 30 Juni 2026, sisa dana Rp140,74 miliar ditempatkan di rekening bank afiliasi.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARMA",
+   "sukuk mudharabah",
+   "batubara",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ebccdcc9c_afb5027339.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
+  "category": "Aksi Korporasi",
+  "title": "FORU Jawab Bursa: [Rugi] Melonjak 902%, Pendapatan Anjlok 57%",
+  "deck": "Fortune Indonesia menjelaskan ke BEI bahwa pendapatan semester I 2026 anjlok 57,27% dan rugi komprehensif melonjak jadi Rp7,38 miliar, sementara defisit membengkak ke Rp51,30 miliar.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "Fortune Indonesia",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84845aa858_c8569d291d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ikpm-dana-ipo-terserap-96-pendapatan-meleset-jauh-dari-target",
+  "category": "Aksi Korporasi",
+  "title": "IKPM: Dana IPO Terserap 96%, Pendapatan [Meleset] Jauh dari Target",
+  "deck": "Ikapharmindo menjelaskan ke BEI bahwa penyerapan dana IPO untuk mesin baru 76 persen, sementara pendapatan semester I 2026 cuma sepertiga dari target setahun penuh.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKPM",
+   "Ikapharmindo Putramas",
+   "dana IPO",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5044f8afeb_2ff839c1a8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-cetak-laba-rp2-4-triliun-di-semester-i-2026-naik-40-8",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Cetak Laba [Rp2,4 Triliun] di Semester I 2026, Naik 40,8%",
+  "deck": "Materi public expose BTN mengungkap laba bersih semester I 2026 melonjak 40,8 persen, kredit tumbuh 11,2 persen, dan akuisisi portofolio kredit dari SMBC Indonesia senilai puluhan triliun rupiah.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "perbankan",
+   "kinerja keuangan",
+   "akuisisi kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/80b948d9a8_5f5040226b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "snlk-ungkap-ke-bursa-rugi-melonjak-182-sepanjang-2025",
+  "category": "Aksi Korporasi",
+  "title": "SNLK Ungkap ke Bursa, [Rugi] Melonjak 182% Sepanjang 2025",
+  "deck": "SNLK menanggapi permintaan penjelasan BEI atas laporan keuangan 2025, mengonfirmasi rugi naik 182% jadi Rp4,45 miliar akibat pendapatan turun 12,9% dan karyawan dipangkas hingga 56%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SNLK",
+   "laporan keuangan",
+   "Bursa Efek Indonesia",
+   "perhotelan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd0d28c636_6f26e75a4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
+  "category": "Aksi Korporasi",
+  "title": "TINS Catat Laba [Melonjak] 805% Jelang Public Expose 10 Sep",
+  "deck": "Materi public expose PT Timah menunjukkan laba bersih semester I 2026 melonjak ke Rp2,72 triliun, didorong kenaikan harga timah dan volume produksi, jelang paparan publik 10 September.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TINS",
+   "PT Timah",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f6ff17497_fa06ded1f4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmri-siapkan-dana-rp2-4-triliun-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BMRI siapkan dana [Rp2,4 triliun] lunasi obligasi jatuh tempo",
+  "deck": "Bank Mandiri menyatakan telah menyiapkan dana Rp2,4 triliun untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2016 Seri C yang jatuh tempo 30 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "obligasi",
+   "kesiapan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b625859af3_b0d3111781.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-tunda-bayar-bunga-obligasi-iii-rp10-29-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Bayar [Bunga] Obligasi III Rp10,29 Miliar",
+  "deck": "PT Adhi Commuter Properti Tbk belum bisa membayar bunga Obligasi III senilai Rp10,29 miliar yang jatuh tempo 8 September 2026 akibat keterbatasan likuiditas.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "gagal bayar",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35027c061_09ac4b3cfd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "imjs-jawab-bursa-soal-volatilitas-ungkap-anak-usaha-baru",
   "category": "Aksi Korporasi",
   "title": "IMJS Jawab Bursa soal Volatilitas, Ungkap [Anak Usaha] Baru",
@@ -226,6 +370,22 @@ var ARTICLES = [
    "aksi korporasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7eb112c652_86008b2322.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARTO: Laba Bank Jago [Melonjak] 49% ke Rp189 Miliar",
+  "deck": "Materi public expose tahunan Bank Jago menunjukkan laba bersih semester I 2026 naik 49 persen menjadi Rp189 miliar, ditopang pertumbuhan kredit dan dana pihak ketiga.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a2fb6a80_66a60109fb.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6388,174 +6548,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463903-telkom-akses-terjunkan-150-teknisi-untuk-pulihkan-jaringan-pascagempa-ntt-layanan-siaga-24-jam"
- },
- {
-  "slug": "bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura",
-  "category": "Moneter",
-  "title": "BI dan Singapura [Aktifkan] Transaksi Rupiah-Dolar Singapura",
-  "deck": "Bank Indonesia dan otoritas moneter Singapura mulai menjalankan skema penyelesaian transaksi bilateral memakai rupiah dan dolar Singapura langsung, mulai 31 Agustus 2026.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/bi-dan-singapura-aktifkan-transaksi-rupiah-dolar-singapura.jpg",
-  "imageV": "mth1cpu4",
-  "tags": [
-   "Bank Indonesia",
-   "MAS Singapura",
-   "Transaksi Mata Uang Lokal",
-   "Rupiah"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817526.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni",
-  "category": "Energi",
-  "title": "Kejagung [Sita] Rp401 M dalam Kasus Korupsi Nikel CNI",
-  "deck": "Penyidik Kejagung memeriksa 116 saksi dan 3 ahli, menyita 143 dokumen, serta mengamankan uang Rp401,65 miliar dalam kasus tata kelola nikel PT CNI.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/kejagung-sita-rp401-m-dalam-kasus-korupsi-nikel-cni.jpg",
-  "imageV": "mthi447v",
-  "tags": [
-   "Kejagung",
-   "PT CNI",
-   "korupsi nikel",
-   "Sulawesi Tenggara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463901-kejagung-periksa-116-saksi-dan-3-ahli-di-kasus-dugaan-korupsi-tata-kelola-nikel-pt-cni"
- },
- {
-  "slug": "anggaran-kemhan-2027-naik-jadi-rp189-triliun",
-  "category": "Makroekonomi",
-  "title": "Anggaran Kemhan 2027 Naik Jadi [Rp189 Triliun]",
-  "deck": "Komisi I DPR mengungkap anggaran Kementerian Pertahanan untuk 2027 naik menjadi Rp189 triliun, bertambah Rp50 triliun dari pagu indikatif sebelumnya.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/anggaran-kemhan-2027-naik-jadi-rp189-triliun.jpg",
-  "imageV": "mth1cqi3",
-  "tags": [
-   "Kemhan",
-   "APBN 2027",
-   "Anggaran Pertahanan",
-   "DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463891-komisi-i-dpr-ungkap-kemhan-dapat-anggaran-rp189-triliun-di-2027"
- },
- {
-  "slug": "kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni",
-  "category": "Industri",
-  "title": "Kejagung Bongkar Dugaan [Manipulasi] Ekspor Nikel PT CNI",
-  "deck": "Kejaksaan Agung menyita Rp401,65 miliar diduga hasil manipulasi dokumen dan kadar ekspor nikel PT CNI periode 2017-2020.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/kejagung-bongkar-dugaan-manipulasi-ekspor-nikel-pt-cni.jpg",
-  "imageV": "mth1cqyf",
-  "tags": [
-   "Kejagung",
-   "PT CNI",
-   "Ekspor Nikel",
-   "Korupsi Tambang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463876-kejagung-ungkap-pt-cni-diduga-manipulasi-dokumen-ekspor-komoditas-nikel"
- },
- {
-  "slug": "presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Janji [Pinjaman Lunak] Ganti Rentenir",
-  "deck": "Presiden Prabowo Subianto menjanjikan pinjaman lunak dari sumber daya dalam negeri agar masyarakat tidak lagi bergantung pada rentenir, namun mekanisme dan jadwalnya belum diumumkan.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/presiden-prabowo-janji-pinjaman-lunak-ganti-rentenir.jpg",
-  "imageV": "mth1crd7",
-  "tags": [
-   "pinjaman lunak",
-   "rentenir",
-   "kesejahteraan rakyat",
-   "kemiskinan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463868-prabowo-siapkan-pinjaman-lunak-untuk-rakyat-tak-perlu-lagi-berutang-ke-rentenir"
- },
- {
-  "slug": "dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027",
-  "category": "Makroekonomi",
-  "title": "DPR Panggil Menkeu Cs Bahas Target Ekonomi [6%] 2027",
-  "deck": "DPR memanggil lima pejabat ekonomi kunci untuk membahas sinergi kebijakan menuju target pertumbuhan 6 persen dan investasi Rp1.200 triliun pada 2027.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/dpr-panggil-menkeu-cs-bahas-target-ekonomi-6-2027.jpg",
-  "imageV": "mth1crsz",
-  "tags": [
-   "DPR",
-   "APBN 2027",
-   "pertumbuhan ekonomi",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463851-bos-bos-keuangan-dipanggil-dpr-hari-ini-bahas-target-ekonomi-6-dan-investasi-rp1200-triliun"
- },
- {
-  "slug": "danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city",
-  "category": "BUMN",
-  "title": "Danantara Siapkan [Rp456 Miliar] untuk Proyek LRT City",
-  "deck": "Danantara dan Adhi Karya menyusun skema percepatan penyelesaian proyek hunian LRT City yang berdampak pada 2.400 konsumen.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/danantara-siapkan-rp456-miliar-untuk-proyek-lrt-city.jpg",
-  "imageV": "mth1cs6v",
-  "tags": [
-   "danantara",
-   "lrt city",
-   "adhi karya",
-   "adcp"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463845-danantara-siapkan-rp456-miliar-proyek-lrt-city-dikebut-demi-2400-konsumen"
- },
- {
-  "slug": "dolar-as-kembali-perkasa-yen-dekati-160",
-  "category": "Global",
-  "title": "Dolar AS Kembali [Perkasa], Yen Dekati 160",
-  "deck": "Yen mendekati 160 per dolar dan harga minyak melonjak akibat konflik AS-Iran, sementara peluang kenaikan bunga Fed naik ke 57 persen.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/dolar-as-kembali-perkasa-yen-dekati-160.jpg",
-  "imageV": "mth1csm7",
-  "tags": [
-   "dolar AS",
-   "yen jepang",
-   "harga minyak",
-   "suku bunga Fed"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463828-dolar-as-kembali-jadi-raja-yen-tertekan-dekati-160-dan-harga-minyak-melesat"
- },
- {
-  "slug": "harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Pegadaian: Antam [Termahal] Rp2,71 Juta/Gram",
-  "deck": "Harga emas Antam, UBS, dan Galeri24 di Pegadaian pada Senin (31/8/2026) berkisar Rp2,6 juta per gram, dengan Antam jadi yang termahal dan Galeri24 termurah.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/harga-emas-pegadaian-antam-termahal-rp2-71-juta-gram.jpg",
-  "imageV": "mtgux8qt",
-  "tags": [
-   "harga emas",
-   "Antam",
-   "Galeri24",
-   "Pegadaian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463820-harga-emas-pegadaian-senin-31-agustus-2026-antam-ubs-galeri24-lengkap"
- },
- {
-  "slug": "rupiah-tembus-rp17-750-usai-the-fed-sinyalkan-kenaikan-bunga",
-  "category": "Moneter",
-  "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
-  "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
-  "tags": [
-   "rupiah",
-   "dolar AS",
-   "The Fed",
-   "suku bunga"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as"
  }
 ];

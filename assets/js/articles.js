@@ -3,6 +3,242 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Koreksi Laporan, Dana Obligasi Rp990 M [Belum Terpakai]",
+  "deck": "Dana bersih Rp989,93 miliar dari obligasi MEDC senilai Rp1 triliun belum digunakan hingga akhir Juni 2026, masih tersimpan di bank menunggu pelunasan obligasi jatuh tempo semester II 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:50:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f161fbf80d_de13f1eff8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "penggunaan dana",
+   "Medco Energi"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk mengoreksi laporan realisasi penggunaan dana hasil Penawaran Umum Berkelanjutan Obligasi VI Tahap I Tahun 2025 kepada pemodal profesional, yang sebelumnya disampaikan pada 15 Juli 2026. Koreksi ini dikirim Corporate Secretary Siendy K. Wisandana pada 7 September 2026 pukul 19.50 WIB, dengan melampirkan kembali laporan realisasi per 30 Juni 2026. Obligasi ini efektif sejak 17 Juni 2025 dengan total dana terhimpun Rp1 triliun. Setelah dipotong biaya penawaran umum Rp10,07 miliar, yang terdiri dari biaya penjamin emisi Rp3,5 miliar, biaya profesi penunjang pasar modal Rp4,64 miliar, biaya lembaga penunjang pasar modal Rp821,4 juta, dan biaya lain-lain Rp1,11 miliar, dana bersih yang diterima perseroan adalah Rp989,93 miliar.",
+   "Sesuai prospektus, seluruh dana bersih itu direncanakan untuk melunasi empat seri obligasi lama yang jatuh tempo pada 2026, yakni Obligasi Berkelanjutan IV Tahap I 2021 Seri B senilai Rp600 miliar, Obligasi Berkelanjutan IV Tahap II 2021 Seri B senilai Rp58,195 miliar, Obligasi Berkelanjutan V Tahap I 2023 Seri A senilai Rp150 miliar, dan sebagian dari Obligasi Berkelanjutan V Tahap I 2023 Seri B yang totalnya Rp260 miliar, sebagian di antaranya lewat opsi beli sesuai perjanjian perwaliamanatan. Namun per 30 Juni 2026, perseroan menyatakan belum menggunakan sama sekali dana bersih tersebut, sehingga seluruh Rp989,93 miliar masih utuh 100 persen dan tidak ada penyimpangan dari rencana awal.",
+   "Sisa dana itu untuk sementara ditempatkan sebagai tabungan di PT Bank Rakyat Indonesia (Persero) Tbk dengan bunga 6,50 persen per tahun dalam mata uang rupiah. Perseroan menargetkan seluruh dana ini baru akan dipakai untuk pelunasan obligasi pada semester kedua tahun 2026. Laporan tidak merinci apa isi koreksi dibanding surat 15 Juli 2026 sebelumnya."
+  ],
+  "fotoAdegan": "Interior of an Indonesian bank branch, a teller assisting a customer at the counter, warm lighting, no signage visible.",
+  "takeaway": "Laporan ini netral bagi MEDC, karena isinya sekadar konfirmasi bahwa rencana pelunasan utang lama berjalan sesuai jadwal tanpa penyimpangan, bukan sinyal masalah keuangan baru maupun ekspansi. Yang tersentuh adalah arus kas dan struktur utang jangka pendek perusahaan: dana Rp989,93 miliar dari obligasi baru untuk sementara diparkir sebagai simpanan berbunga 6,5 persen di bank, bukan disalurkan ke kegiatan usaha, sehingga posisi kas perseroan tetap tebal sambil menunggu utang lama jatuh tempo. Pemegang saham perlu memantau apakah perseroan benar melunasi empat seri obligasi lama itu, dengan nilai gabungan mendekati Rp990 miliar, sesuai target pada semester II 2026, karena keterlambatan dari jadwal itulah yang baru pantas dibaca sebagai sinyal masalah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "arma-revisi-realisasi-dana-sukuk-rp1-68-triliun-ke-tambang",
+  "category": "Aksi Korporasi",
+  "title": "ARMA Revisi Realisasi Dana [Sukuk] Rp1,68 Triliun ke Tambang",
+  "deck": "PT Armadian Tritunggal merevisi laporan realisasi dana sukuk Rp1,82 triliun per 30 Juni 2026, sisa dana Rp140,74 miliar ditempatkan di rekening bank afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:44:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ebccdcc9c_afb5027339.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARMA",
+  "tags": [
+   "ARMA",
+   "sukuk mudharabah",
+   "batubara",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Armadian Tritunggal (ARMA) menyampaikan revisi Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum Sukuk Mudharabah Berkelanjutan I Armadian Tritunggal Tahap II Tahun 2026 kepada Otoritas Jasa Keuangan pada 7 September 2026. Revisi ini merupakan tanggapan atas surat OJK No. S-1927/PM.222/2026 tanggal 28 Agustus 2026, dengan posisi laporan per 30 Juni 2026. Sukuk yang efektif sejak 4 Mei 2026 ini menghimpun dana Rp1,83 triliun, dengan biaya penawaran umum Rp14,53 miliar sehingga hasil bersih yang diterima perseroan mencapai Rp1,82 triliun. Surat pengantar revisi ditandatangani oleh Direktur Utama Monika Dhyana Zakaria.",
+   "Dari hasil bersih Rp1,82 triliun tersebut, seluruhnya direncanakan untuk lima pos: pembayaran kewajiban ke pemerintah terkait Dana Hasil Produksi Batubara (DHPB) dan pajak sebesar Rp496,8 miliar (27,33 persen), pembayaran ke kontraktor pertambangan Rp1,05 triliun (57,78 persen), vendor pengangkutan Rp160,25 miliar (8,81 persen), pemasok Rp89,03 miliar (4,90 persen), dan remunerasi karyawan Rp21,4 miliar (1,18 persen). Hingga 30 Juni 2026, realisasi baru mencapai Rp1,68 triliun atau 92,26 persen dari rencana. Pembayaran ke vendor pengangkutan, pemasok, dan karyawan sudah terealisasi penuh sesuai rencana, sementara pembayaran DHPB dan pajak baru terealisasi Rp385,82 miliar dari rencana Rp496,8 miliar, dan pembayaran ke kontraktor pertambangan baru Rp1,02 triliun dari rencana Rp1,05 triliun.",
+   "Selisih antara rencana dan realisasi itu menyisakan dana sebesar Rp140,74 miliar, yang menurut laporan ditempatkan dalam rekening giro syariah berstatus lancar di PT Bank Nano Syariah dengan tingkat bagi hasil 0,5 persen. Bank tersebut tercatat memiliki hubungan afiliasi dengan perseroan. Dari sisi biaya penawaran umum, komponen terbesar adalah biaya jasa penyelenggaraan (management fee) sebesar Rp7,19 miliar, setara 0,39 persen dari total dana yang dihimpun."
+  ],
+  "fotoAdegan": "Wide shot of heavy dump trucks hauling coal at an open-pit mine in Kalimantan, dust haze, workers in safety vests, midday light",
+  "takeaway": "Laporan ini netral bagi ARMA karena progres penggunaan dana sukuk sudah 92,26 persen sesuai rencana yang dijanjikan ke investor saat penerbitan, tanpa indikasi penyimpangan alokasi. Yang perlu dipahami, DHPB atau Dana Hasil Produksi Batubara adalah kewajiban setor yang wajib dibayar perusahaan tambang batubara ke pemerintah, dan seberapa lancar kewajiban ini dipenuhi mencerminkan kesehatan arus kas operasional perusahaan, sementara bagi hasil 0,5 persen dari dana yang belum terpakai dan ditempatkan di rekening afiliasi juga bagian dari cara perusahaan mengelola kas menganggurnya. Yang menarik dicermati, laporan ini terbit sebagai revisi atas tanggapan surat OJK tertanggal 28 Agustus 2026, sehingga laporan realisasi berikutnya patut dipantau untuk melihat apakah sisa dana Rp140,74 miliar, terutama untuk pembayaran DHPB dan pajak serta kontraktor pertambangan yang masih menyisakan porsi belum terealisasi, sudah tersalurkan penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
+  "category": "Aksi Korporasi",
+  "title": "FORU Jawab Bursa: [Rugi] Melonjak 902%, Pendapatan Anjlok 57%",
+  "deck": "Fortune Indonesia menjelaskan ke BEI bahwa pendapatan semester I 2026 anjlok 57,27% dan rugi komprehensif melonjak jadi Rp7,38 miliar, sementara defisit membengkak ke Rp51,30 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:32:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84845aa858_c8569d291d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "Fortune Indonesia",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Fortune Indonesia Tbk (FORU) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-11214/BEI.PP2/09-2026 yang diterima 3 September 2026, terkait kinerja keuangan semester I 2026. Perusahaan periklanan dan komunikasi ini mengonfirmasi pendapatan usahanya turun 57,27% dari Rp24,23 miliar pada semester I 2025 menjadi Rp10,35 miliar pada semester I 2026. Penurunan terjadi di tiga lini sekaligus: jasa periklanan turun 40,99%, produksi digital turun 65,21%, dan jasa kehumasan anjlok 76,91%. Manajemen, melalui Sekretaris Perusahaan Hadi Pranggono, menyebut penyebabnya adalah volume pekerjaan yang lebih rendah serta sejumlah proyek yang baru berjalan bertahap sehingga pendapatannya belum bisa diakui penuh, khusus jasa kehumasan penurunan juga dipengaruhi restrukturisasi lini usaha tersebut.",
+   "Di sisi biaya, beban langsung memang ikut turun 78,04% dari Rp12,79 miliar menjadi Rp2,80 miliar sejalan dengan turunnya pendapatan, tapi beban usaha justru naik dari Rp12,16 miliar menjadi Rp14,69 miliar. Kenaikan itu terutama berasal dari beban gaji, upah, dan kesejahteraan karyawan yang naik dari Rp9,21 miliar menjadi Rp10,27 miliar, serta beban imbalan kerja yang melonjak dari Rp0,21 miliar menjadi Rp1,82 miliar akibat penguatan struktur manajemen dan restrukturisasi organisasi. Kombinasi pendapatan yang anjlok dengan beban yang naik membuat rugi komprehensif Perseroan melonjak dari Rp736,67 juta menjadi Rp7,38 miliar, naik 902% dibanding periode yang sama tahun lalu.",
+   "Dari sisi neraca, total aset turun 30,84% dari Rp38,64 miliar menjadi Rp26,73 miliar, terutama karena kas dan piutang usaha menyusut, termasuk pengalihan fasilitas dari Bank Shinhan Indonesia ke Bank Mandiri dan pencairan deposito Rp2 miliar di Bank Hibank Indonesia untuk modal kerja. Total ekuitas turun 31,58% menjadi Rp15,99 miliar seiring defisit yang membengkak dari Rp43,92 miliar menjadi Rp51,30 miliar. Arus kas dari aktivitas operasi berbalik dari positif Rp1,82 miliar menjadi negatif Rp4,46 miliar. Perusahaan mencatat masih memiliki kas dan setara kas Rp16,44 miliar serta aset lancar Rp23,42 miliar berbanding liabilitas jangka pendek Rp9,99 miliar, dan menyebut telah memperoleh persetujuan (waiver) dari kreditur terkait rencana penawaran umum terbatas (PMHMETD I) tanpa ada pelanggaran covenant fasilitas pendanaan yang dimiliki."
+  ],
+  "fotoAdegan": "Creative agency employees discussing work around a laptop in a modern Jakarta office, screens angled away, daylight",
+  "takeaway": "Laporan ini bernada negatif bagi fundamental FORU, karena hampir semua indikator inti memburuk bersamaan: pendapatan tergerus lebih dari separuh, rugi melonjak sembilan kali lipat, dan defisit terus menumpuk sementara arus kas dari operasi malah berbalik jadi negatif. Yang paling perlu dicermati adalah ekuitas dan arus kas: ekuitas, yaitu bagian aset perusahaan yang menjadi hak pemegang saham setelah dikurangi utang, turun 31,58% menjadi Rp15,99 miliar karena defisit atau akumulasi rugi bertahun-tahun kini mencapai Rp51,30 miliar, sementara arus kas operasi yang berbalik negatif Rp4,46 miliar menandakan uang tunai yang benar-benar masuk dari pelanggan makin seret dibanding pengeluaran gaji dan operasional. Sisi baiknya, likuiditas jangka pendek Perseroan masih memadai dengan aset lancar Rp23,42 miliar berbanding liabilitas jangka pendek Rp9,99 miliar, dan tidak ada pelanggaran covenant kreditur. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal berikutnya, untuk melihat apakah pekerjaan yang sempat tertunda pada semester I 2026 benar-benar terealisasi jadi pendapatan seperti dijanjikan manajemen, serta apakah langkah efisiensi biaya yang disebutkan berhasil menahan defisit agar tidak terus menekan ekuitas.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ikpm-dana-ipo-terserap-96-pendapatan-meleset-jauh-dari-target",
+  "category": "Aksi Korporasi",
+  "title": "IKPM: Dana IPO Terserap 96%, Pendapatan [Meleset] Jauh dari Target",
+  "deck": "Ikapharmindo menjelaskan ke BEI bahwa penyerapan dana IPO untuk mesin baru 76 persen, sementara pendapatan semester I 2026 cuma sepertiga dari target setahun penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:29:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5044f8afeb_2ff839c1a8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKPM",
+  "tags": [
+   "IKPM",
+   "Ikapharmindo Putramas",
+   "dana IPO",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Ikapharmindo Putramas Tbk (IKPM) mengirim surat penjelasan bernomor 49/DIR/IX/26 tertanggal 7 September 2026 kepada Bursa Efek Indonesia, menjawab surat BEI Nomor S-11238/BEI.PP3/09-2026 tertanggal 2 September 2026 yang meminta penjelasan soal realisasi penggunaan dana IPO dan pencapaian proyeksi keuangan perusahaan. Surat itu ditandatangani Direktur Ayi Saepudin.",
+   "Untuk Laporan Realisasi Penggunaan Dana (LRPD) per 30 Juni 2026, perusahaan menyebut total dana IPO sudah terserap 96 persen. Rinciannya, belanja modal untuk pembelian mesin baru terserap Rp6,66 miliar dari rencana Rp8,73 miliar, atau 76,3 persen, menyisakan Rp2,07 miliar, sedangkan modal kerja sudah terserap penuh Rp43,68 miliar. Perusahaan menjelaskan keterlambatan pembelian mesin terjadi di luar rencana awal dan sudah disesuaikan lewat RUPS Luar Biasa 25 September 2024, yang saat itu mengalihkan Rp17,47 miliar dana IPO akibat penjualan yang turun dari Rp212 miliar menjadi Rp195,2 miliar, sebagian dipakai untuk renovasi pabrik di Rancaekek, Sumedang. Ikapharmindo menyatakan pembelian mesin sudah rampung pada Juli 2026 sehingga LRPD semester II 2026 akan menunjukkan realisasi 100 persen.",
+   "Perusahaan juga melaporkan pencapaian proyeksi keuangan yang tidak diumumkan ke publik dan hanya disampaikan ke BEI. Per Juni 2026, pendapatan baru Rp212,13 miliar atau 32,7 persen dari target setahun penuh Rp648,88 miliar, dan laba bersih baru Rp2,89 miliar atau 7,83 persen dari target Rp36,92 miliar. Sebaliknya, total liabilitas sudah mencapai Rp249,82 miliar atau 131,66 persen dari target setahun, sementara ekuitas baru Rp221,63 miliar atau 68,45 persen dari target. Sepanjang 2025 pun realisasi meleset jauh dari proyeksi, dengan perusahaan mencatat rugi bersih Rp28,78 miliar padahal ditargetkan laba Rp30,76 miliar. Perusahaan menyebut penyebabnya adalah penurunan penjualan dan menyatakan akan memaksimalkan penjualan serta efisiensi, dengan perkiraan total aset akhir 2026 sekitar Rp477 miliar."
+  ],
+  "fotoAdegan": "Technicians in white coats and hairnets monitoring pharmaceutical tablet production machines on a factory floor",
+  "takeaway": "Laporan ini condong negatif bagi Ikapharmindo, karena realisasi keuangan semester I 2026 jauh di bawah target yang dipasang perusahaan sendiri, melanjutkan pola meleset yang sudah terjadi sepanjang 2025 termasuk rugi bersih padahal ditargetkan untung. Yang tersentuh adalah pendapatan dan laba bersih yang mencerminkan kemampuan bisnis menghasilkan uang, ekuitas yang menunjukkan seberapa kuat modal sendiri menyerap kerugian, serta total utang yang penting dicermati karena kalau tumbuh lebih cepat dari rencana berarti perusahaan makin bergantung pada pinjaman berbunga. Kombinasi di sini cukup berat, sebab pendapatan baru sepertiga dari target setahun sementara utang sudah melewati seluruh target setahun. Yang perlu dipantau berikutnya adalah laporan realisasi dana IPO semester II 2026, karena perusahaan sudah berjanji penyerapan dana pembelian mesin akan tuntas 100 persen menyusul penyelesaian pembelian pada Juli 2026, serta laporan keuangan akhir tahun 2026 untuk menguji perkiraan total aset Rp477 miliar yang disebutkan sendiri oleh perusahaan dalam surat ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bbtn-cetak-laba-rp2-4-triliun-di-semester-i-2026-naik-40-8",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Cetak Laba [Rp2,4 Triliun] di Semester I 2026, Naik 40,8%",
+  "deck": "Materi public expose BTN mengungkap laba bersih semester I 2026 melonjak 40,8 persen, kredit tumbuh 11,2 persen, dan akuisisi portofolio kredit dari SMBC Indonesia senilai puluhan triliun rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:17:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/80b948d9a8_5f5040226b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "perbankan",
+   "kinerja keuangan",
+   "akuisisi kredit"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk menyampaikan materi public expose tahunan yang akan digelar di Jakarta pada 10 September 2026. Dokumen tersebut memuat kinerja keuangan konsolidasi hingga semester I 2026, dengan laba bersih Rp2,402 triliun, naik 40,8 persen dibandingkan periode sama tahun lalu yang sebesar Rp1,706 triliun. Total kredit dan pembiayaan tumbuh 11,2 persen secara tahunan menjadi Rp418,1 triliun, dana pihak ketiga naik 6,6 persen menjadi Rp433,0 triliun, dan total aset mencapai Rp545,2 triliun atau naik 12,4 persen.",
+   "Dari sisi kualitas kredit, rasio kredit macet atau NPL gross turun ke 3,0 persen dari 3,3 persen setahun sebelumnya, rasio kredit berisiko (loan at risk) turun ke 18,6 persen dari 20,2 persen, dan biaya pencadangan kredit bermasalah turun ke 0,7 persen dari 2,0 persen. Rasio kecukupan modal tier 1 naik ke 18,0 persen dari 16,2 persen, dengan total rasio kecukupan modal 20,0 persen. Namun margin bunga bersih turun ke 3,5 persen dari 4,4 persen, dan rasio biaya operasional terhadap pendapatan naik ke 50,5 persen dari 43,8 persen.",
+   "Dalam strategi ekspansi di luar segmen perumahan, BTN mengakuisisi portofolio kredit dari SMBC Indonesia dalam dua tahap. Tahap pertama senilai Rp12,6 triliun dengan rata-rata imbal hasil 13,7 persen dan tenor sekitar tujuh tahun, ditandatangani melalui perjanjian jual beli pada Juni 2026. Tahap kedua senilai Rp7,3 triliun, terdiri dari portofolio kredit yang dikelola institusi non-Taspen seperti ASABRI, dieksekusi pada 14 Agustus 2026. Setelah kedua akuisisi ini, jumlah rekening kredit BTN bertambah signifikan menjadi 344,6 ribu.",
+   "Dokumen juga menyebut Kementerian Keuangan mengalokasikan hampir Rp400 triliun kepada bank-bank BUMN untuk memperkuat likuiditas, dengan BTN menerima Rp38,3 triliun. Untuk target tahun 2026, manajemen memasang panduan pertumbuhan kredit 8 sampai 10 persen, pertumbuhan dana pihak ketiga 7 sampai 9 persen, rasio biaya kredit 1,0 sampai 1,2 persen, dan NPL gross di bawah 3,0 persen, sementara realisasi semester I 2026 untuk pertumbuhan kredit sudah melampaui batas atas panduan tersebut."
+  ],
+  "fotoAdegan": "Rows of modest newly built houses in a suburban Indonesian housing complex, quiet street, soft morning light, no people visible",
+  "takeaway": "Laporan ini condong positif bagi BTN karena laba bersih semester I 2026 melonjak 40,8 persen dibanding periode sama tahun lalu, ditopang pertumbuhan kredit dua digit dan perbaikan kualitas aset, meski ada sinyal tekanan di sisi efisiensi. Margin bunga bersih, yaitu selisih antara bunga yang diperoleh bank dari kredit dan bunga yang dibayarkan ke nasabah, menyempit dari 4,4 persen menjadi 3,5 persen karena bank menahan kenaikan bunga simpanan di tengah suku bunga acuan BI yang naik ke 5,75 persen, sementara rasio biaya operasional terhadap pendapatan naik ke 50,5 persen, tanda biaya berjalan lebih cepat dari pendapatan. Di sisi lain, rasio kredit macet turun tipis ke 3,0 persen dan cadangan kerugian kredit bermasalah ikut turun, menunjukkan penyaringan debitur baru lewat sistem baru bernama Loan Factory mulai membuahkan hasil. Yang perlu dipantau berikutnya adalah apakah rasio kredit macet bisa ditekan di bawah 3,0 persen sesuai target akhir tahun 2026, mengingat posisi semester I sudah tepat di batas itu, serta kelanjutan integrasi portofolio kredit senilai Rp7,3 triliun yang baru diambil alih dari institusi non-Taspen pada 14 Agustus 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "snlk-ungkap-ke-bursa-rugi-melonjak-182-sepanjang-2025",
+  "category": "Aksi Korporasi",
+  "title": "SNLK Ungkap ke Bursa, [Rugi] Melonjak 182% Sepanjang 2025",
+  "deck": "SNLK menanggapi permintaan penjelasan BEI atas laporan keuangan 2025, mengonfirmasi rugi naik 182% jadi Rp4,45 miliar akibat pendapatan turun 12,9% dan karyawan dipangkas hingga 56%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:11:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd0d28c636_6f26e75a4f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SNLK",
+  "tags": [
+   "SNLK",
+   "laporan keuangan",
+   "Bursa Efek Indonesia",
+   "perhotelan"
+  ],
+  "body": [
+   "PT Sunter Lakeside Hotel Tbk (SNLK) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) pada 7 September 2026, menjawab permintaan penjelasan bursa bernomor S-11282/BEI.PP1/09-2026 tanggal 3 September 2026 terkait laporan keuangan perseroan per 31 Desember 2025 dan per 30 Juni 2026. Surat yang ditandatangani Corporate Secretary Emma Madalina ini menjawab dua belas poin pertanyaan bursa, mulai dari lonjakan rugi, penyusutan aset, hingga transaksi dengan pihak berelasi.",
+   "Poin paling mencolok adalah rugi tahun berjalan 2025 yang melonjak 182,4 persen menjadi Rp4,45 miliar, dari sebelumnya Rp1,58 miliar pada 2024. Kenaikan rugi ini terjadi bersamaan dengan pendapatan yang turun 12,9 persen, dari Rp52,85 miliar menjadi Rp46,01 miliar. Perseroan menjelaskan penyebabnya adalah kebijakan efisiensi anggaran pemerintah yang memangkas tajam perjalanan dinas dan kegiatan rapat atau pelatihan instansi pemerintah, segmen yang selama ini menjadi andalan tingkat hunian hotel, ditambah perlambatan ekonomi yang menekan permintaan dari korporasi swasta. Perseroan sudah tiga tahun berturut-turut mencatat rugi sebelum pajak, yaitu Rp1,54 miliar pada 2023, Rp1,70 miliar pada 2024, dan Rp4,46 miliar pada 2025, namun manajemen menegaskan auditor independen telah menilai tidak ada masalah dengan kelangsungan usaha perseroan.",
+   "Untuk menekan biaya, jumlah karyawan perseroan dipangkas dari 32 orang menjadi 14 orang, turun 56,3 persen, meski di sisi lain liabilitas imbalan kerja untuk karyawan kontrak justru naik 116,3 persen. Aset tetap, pos terbesar dalam neraca, susut 4,59 persen dari Rp102,2 miliar menjadi Rp97,5 miliar karena belanja modal tahun ini hanya Rp1,08 miliar, jauh di bawah beban penyusutan yang mencapai Rp5,71 miliar. Manajemen menyebut kondisi aset tetap masih memadai, dengan tambahan dana pemeliharaan Rp1,2 miliar dan opname fisik oleh auditor pada akhir Desember 2025. Piutang usaha juga naik 45,9 persen menjadi Rp2,09 miliar, dengan perubahan komposisi debitur karena pelanggan besar di 2024 sudah melunasi pembayarannya pada 2025.",
+   "Perseroan turut mengungkap sejumlah transaksi dengan pihak berelasi. Sewa fasilitas pendingin dengan PT First National Cooling Industry diperpanjang untuk periode 2026-2030 senilai total Rp31,40 miliar, mengikuti tarif penilai independen KJPP Suwendho Rinaldy dan Rekan tahun 2020. Properti investasi di Jalan HOS Cokroaminoto, Jakarta, yang sebelumnya disewakan dengan skema bagi hasil ke pihak berelasi PT Dirga Surya, kini disewakan langsung ke pihak ketiga PT MCR Bangun Persada sejak November 2025 hingga November 2028 senilai Rp2,25 miliar, termasuk uang muka Rp625 juta yang sudah diterima. Perseroan juga mencatat uang muka dari sejumlah agen perjalanan daring yang bersifat mengikat dan tidak bisa dikembalikan, yaitu Trip.com Rp1,22 miliar, Agoda Rp661 juta, Dida Travel Rp500 juta, dan Traveloka Rp239 juta. Di sisi hukum, perseroan menyatakan telah memenangkan gugatan sengketa sewa senilai Rp12 miliar yang diajukan sejak 2022, dengan putusan yang telah berkekuatan hukum tetap setelah peninjauan kembali di Mahkamah Agung, sehingga tidak berdampak pada kondisi keuangan perseroan."
+  ],
+  "fotoAdegan": "Empty hotel conference hall with neat rows of vacant chairs and round tables, soft morning light through tall windows",
+  "takeaway": "Laporan ini condong negatif bagi SNLK, sebab rugi bersih melonjak hampir tiga kali lipat pada tahun ketiga berturut-turut perseroan merugi, sementara pendapatan justru menyusut akibat hilangnya pasar perjalanan dinas dan rapat pemerintah yang selama ini jadi andalan okupansi hotel. Yang tersentuh di sini adalah laba bersih dan kondisi aset: belanja modal yang hanya seperlima dari beban penyusutan berarti hotel menua lebih cepat daripada diremajakan, sementara pemangkasan karyawan hingga lebih dari separuh menunjukkan perseroan menekan biaya secara agresif untuk menahan laju kerugian. Kabar baiknya, kemenangan gugatan senilai Rp12 miliar yang sudah berkekuatan hukum tetap menghapus satu risiko keuangan, dan kontrak sewa baru dengan pihak ketiga PT MCR Bangun Persada memberi kepastian pendapatan hingga 2028. Yang perlu dipantau selanjutnya adalah rencana revaluasi aset properti investasi yang dijanjikan pada 2026 karena nilai wajar terakhir baru dihitung tahun 2023, serta apakah laporan keuangan semester kedua 2026 menunjukkan pendapatan mulai pulih setelah penjelasan ini disampaikan ke bursa pada 7 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
+  "category": "Aksi Korporasi",
+  "title": "TINS Catat Laba [Melonjak] 805% Jelang Public Expose 10 Sep",
+  "deck": "Materi public expose PT Timah menunjukkan laba bersih semester I 2026 melonjak ke Rp2,72 triliun, didorong kenaikan harga timah dan volume produksi, jelang paparan publik 10 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T18:37:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f6ff17497_fa06ded1f4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TINS",
+  "tags": [
+   "TINS",
+   "PT Timah",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Timah (Persero) Tbk menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat Corporate Secretary Ruddy Nursalam tertanggal 7 September 2026. Surat ini merupakan tindak lanjut dari pemberitahuan rencana paparan publik yang sebelumnya dikirim pada 27 Agustus 2026. Paparan publik itu sendiri dijadwalkan berlangsung Kamis, 10 September 2026, dan materinya memuat kinerja operasi serta keuangan Perseroan sepanjang semester pertama 2026.",
+   "Dalam materi tersebut, TINS mencatat pendapatan semester pertama 2026 sebesar Rp10,42 triliun, naik 147 persen dibanding periode yang sama tahun lalu. Laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) naik 363 persen menjadi Rp3,9 triliun, sementara laba bersih melompat 805 persen menjadi Rp2,72 triliun. Kenaikan ini ditopang harga timah dunia yang menguat, dengan rata-rata harga logam timah di bursa London Metal Exchange sampai Juli 2026 naik 38,13 persen dibanding tahun lalu menjadi US$43.857,78 per ton, ditambah kenaikan volume produksi bijih timah 75 persen menjadi 12.232 ton Sn, produksi logam timah 58 persen menjadi 10.865 metrik ton, dan penjualan logam timah 85 persen menjadi 10.984 metrik ton.",
+   "Dari sisi neraca, total aset Perseroan per semester pertama 2026 tercatat Rp16,45 triliun, naik 21 persen dibanding tahun lalu, dengan ekuitas atau modal sendiri sebesar Rp10,55 triliun (naik 25 persen) dan liabilitas atau kewajiban sebesar Rp5,90 triliun (naik 13 persen). Arus kas dari aktivitas operasi, yaitu uang tunai yang benar-benar diterima dari kegiatan usaha, melonjak 608 persen menjadi Rp3,32 triliun. Materi ini juga mencantumkan perbaikan skor risiko lingkungan, sosial, dan tata kelola (ESG) dari lembaga pemeringkat Sustainalytics, dari kategori risiko tinggi dengan skor 35,7 pada 23 Juli 2026 menjadi risiko menengah dengan skor 29,0 pada 21 Agustus 2026."
+  ],
+  "fotoAdegan": "Miners guiding a tin ore dredge across calm coastal waters near Bangka Island, overcast sky, industrial cables visible",
+  "takeaway": "Laporan ini condong positif bagi TINS karena hampir seluruh indikator utama, mulai dari pendapatan, laba, sampai arus kas, sama-sama tumbuh tajam dibandingkan tahun lalu, didorong harga timah dunia yang sedang tinggi dan volume produksi yang ikut naik. Yang tersentuh di sini adalah laba bersih dan arus kas operasi, yaitu uang tunai yang benar-benar diterima dari penjualan timah, bukan sekadar angka di atas kertas, yang melonjak sampai Rp3,32 triliun, sekaligus menambah modal sendiri Perseroan sehingga porsi utang terhadap modal jadi lebih kecil. Kenaikan modal sendiri ini penting karena biasanya jadi salah satu ukuran seberapa kuat bantalan keuangan perusahaan menghadapi guncangan harga komoditas. Yang perlu dipantau berikutnya adalah paparan publik yang berlangsung Kamis, 10 September 2026, karena di situ manajemen biasanya menjelaskan lebih rinci apakah lonjakan kinerja semester pertama ini bisa bertahan, mengingat target RKAP 2026 untuk pendapatan dan laba masih jauh di atas capaian semester pertama saja.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bmri-siapkan-dana-rp2-4-triliun-lunasi-obligasi-jatuh-tempo",
+  "category": "Aksi Korporasi",
+  "title": "BMRI siapkan dana [Rp2,4 triliun] lunasi obligasi jatuh tempo",
+  "deck": "Bank Mandiri menyatakan telah menyiapkan dana Rp2,4 triliun untuk melunasi pokok Obligasi Berkelanjutan I Tahap I 2016 Seri C yang jatuh tempo 30 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T18:32:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b625859af3_b0d3111781.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMRI",
+  "tags": [
+   "BMRI",
+   "Bank Mandiri",
+   "obligasi",
+   "kesiapan dana"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk menyampaikan keterbukaan informasi bahwa perseroan telah menyiapkan dana untuk melunasi pokok Obligasi Berkelanjutan I Bank Mandiri Tahap I Tahun 2016 Seri C senilai Rp2,4 triliun. Obligasi ini akan jatuh tempo pada 30 September 2026. Laporan disampaikan secara elektronik dan ditandatangani oleh Corporate Secretary Adhika Vista pada 7 September 2026 pukul 18.32 WIB.",
+   "Dalam suratnya, Bank Mandiri hanya menegaskan bahwa dana pokok sebesar Rp2,4 triliun itu sudah disiapkan, tanpa merinci sumber dana atau instrumen penempatannya. Pada kolom dampak kejadian terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usaha, perseroan menuliskan tanda strip, yang berarti tidak ada dampak khusus yang diungkapkan di luar pembayaran itu sendiri.",
+   "Laporan ini muncul tak lama setelah lembaga pemeringkat Pefindo menegaskan peringkat idAAA, peringkat tertinggi, dengan outlook naik menjadi positif untuk delapan seri obligasi Bank Mandiri, serta setelah bank membagikan dividen interim Rp6,16 triliun kepada pemegang saham. Ketiga kabar itu sama-sama menggambarkan posisi kas dan permodalan bank yang terjaga menjelang jatuh tempo obligasi ini."
+  ],
+  "fotoAdegan": "Interior of a modern bank branch in Jakarta with tellers serving customers at counters, morning light through tall windows",
+  "takeaway": "Konfirmasi kesiapan dana ini condong netral bagi Bank Mandiri, karena memang kewajiban rutin yang harus disampaikan setiap kali obligasi mendekati jatuh tempo, bukan sinyal tambahan soal kekuatan atau kelemahan keuangan bank. Yang tersentuh di sini adalah arus kas, yaitu uang tunai yang benar-benar tersedia dan siap dipakai, sebab bank wajib memastikan Rp2,4 triliun itu tidak terpakai untuk keperluan lain sebelum tanggal pembayaran. Sinyal ini sejalan dengan kondisi Mandiri belakangan ini, setelah Pefindo menegaskan peringkat tertinggi idAAA dengan outlook positif untuk delapan seri obligasinya dan bank baru saja membagikan dividen interim Rp6,16 triliun, dua pertanda bahwa kondisi kas perseroan cukup longgar. Yang perlu dipantau selanjutnya adalah tanggal 30 September 2026, saat pokok obligasi ini harus benar-benar dibayarkan kepada pemegang obligasi, karena baru pada saat itu kesiapan dana yang diklaim sekarang benar-benar teruji.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "adcp-tunda-bayar-bunga-obligasi-iii-rp10-29-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Tunda Bayar [Bunga] Obligasi III Rp10,29 Miliar",
+  "deck": "PT Adhi Commuter Properti Tbk belum bisa membayar bunga Obligasi III senilai Rp10,29 miliar yang jatuh tempo 8 September 2026 akibat keterbatasan likuiditas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T18:22:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35027c061_09ac4b3cfd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADCP",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "gagal bayar",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Adhi Commuter Properti Tbk (ADCP) melaporkan ke Otoritas Jasa Keuangan bahwa perusahaan belum dapat memenuhi kewajiban pembayaran bunga Obligasi III Tahun 2023 Seri A dan Seri B. Penundaan ini menindaklanjuti surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 24 Agustus 2026 yang meminta dana pembayaran bunga ke-11 obligasi tersebut. Berdasarkan jadwal, dana sebesar Rp10.292.775.000 seharusnya sudah disiapkan pada 7 September 2026 sebelum pukul 14.00 WIB, untuk kemudian dibayarkan pada 8 September 2026 kepada pemegang obligasi yang tercatat pada recording date 2 September 2026.",
+   "Perseroan menyebut penyebabnya adalah keterbatasan likuiditas akibat perlambatan realisasi penjualan dan penerimaan kas dari proyek-proyek yang sedang berjalan, sehingga dana yang tersedia belum mencukupi untuk membayar kewajiban bunga. Manajemen mengaku sudah berupaya mencari sumber pendanaan tambahan dan mempercepat penerimaan kas, namun hingga batas waktu jatuh tempo dana tersebut tetap belum diperoleh.",
+   "Perseroan menyatakan penundaan ini berpotensi menimbulkan konsekuensi sesuai Perjanjian Perwaliamanatan dan dokumen transaksi terkait, termasuk munculnya hak-hak tertentu bagi pemegang obligasi. ADCP mengaku terus berkoordinasi dengan Credit Guarantee and Investment Facility (CGIF) selaku penjamin Obligasi III Seri A dan Seri B, sesuai mekanisme dalam dokumen penjaminan. Wali amanat untuk Obligasi II dan III adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk, sementara PT Bank Syariah Indonesia Tbk bertindak sebagai agen pemantau dan agen jaminan untuk sukuk ijarah perseroan. Surat ditandatangani Direktur Utama Achmad Wachid Abdullah."
+  ],
+  "fotoAdegan": "Unfinished apartment and hotel tower under construction with scaffolding and a crane, workers pausing near stacked materials at dusk",
+  "takeaway": "Laporan ini negatif bagi ADCP karena perusahaan benar-benar gagal membayar bunga obligasi tepat waktu, bukan sekadar keterlambatan administratif, dan nilainya cukup besar yaitu Rp10,29 miliar. Yang tersentuh adalah arus kas perusahaan, yakni uang tunai yang tersedia untuk membayar kewajiban sehari-hari, yang menurut pengakuan ADCP sendiri seret karena penjualan proyek properti dan hotel yang mereka jalankan belum cair jadi uang tunai secepat yang dibutuhkan. Pasar biasanya membaca gagal bayar bunga seperti ini sebagai tanda tekanan likuiditas yang lebih serius dibanding sekadar penundaan teknis, apalagi ini bisa memicu hak tambahan bagi pemegang obligasi sesuai perjanjian wali amanat. Yang perlu dipantau berikutnya adalah apakah ADCP berhasil melunasi kewajiban ini dalam waktu dekat lewat koordinasi dengan CGIF selaku penjamin obligasi, serta laporan lanjutan yang wajib disampaikan perseroan ke OJK sesuai POJK 31/2015 begitu ada perkembangan pembayaran.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "imjs-jawab-bursa-soal-volatilitas-ungkap-anak-usaha-baru",
   "category": "Aksi Korporasi",
   "title": "IMJS Jawab Bursa soal Volatilitas, Ungkap [Anak Usaha] Baru",
@@ -365,6 +601,32 @@ var ARTICLES = [
   "fotoAdegan": "Workers monitoring rolls of soft nonwoven fabric on an automated hygiene product production line inside an Indonesian factory",
   "takeaway": "Pengumuman ini netral bagi kinerja UCID karena baru berisi jadwal dan tata cara rapat, bukan keputusan atau agenda yang punya dampak finansial langsung. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang bisa dinilai terpengaruh, sebab isi agenda RUPSLB itu sendiri, apakah menyangkut aksi korporasi seperti perubahan modal, pembagian dividen, atau pergantian direksi, baru akan diketahui lewat Pemanggilan Rapat resmi. Yang perlu dipantau pembaca berikutnya adalah tenggat pengajuan usulan agenda oleh pemegang saham pada 15 September 2026 pukul 16.00 WIB, batas pencatatan pemegang saham berhak hadir pada 21 September 2026, terbitnya Pemanggilan Rapat berisi agenda lengkap pada 22 September 2026, dan pelaksanaan RUPSLB pada 14 Oktober 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ARTO: Laba Bank Jago [Melonjak] 49% ke Rp189 Miliar",
+  "deck": "Materi public expose tahunan Bank Jago menunjukkan laba bersih semester I 2026 naik 49 persen menjadi Rp189 miliar, ditopang pertumbuhan kredit dan dana pihak ketiga.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:50:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a2fb6a80_66a60109fb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTO",
+  "tags": [
+   "ARTO",
+   "Bank Jago",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Bank Jago Tbk (ARTO) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia melalui surat bernomor S.550/JAGO-COMP/IX/2026 yang ditandatangani Tjit Siat Fun, Corporate Secretary sekaligus Direktur Kepatuhan perseroan. Paparan publik akan digelar 10 September 2026 pukul 11.00 hingga 12.00 WIB, menjadi bagian dari Public Expose Live 2026 yang diselenggarakan BEI.",
+   "Dalam materi tersebut, Bank Jago melaporkan total aset Rp41,4 triliun per Juni 2026, naik 28 persen dibanding periode sama tahun lalu yang sebesar Rp32,4 triliun. Portofolio kredit dan pembiayaan syariah tumbuh 24 persen menjadi Rp26,6 triliun, sementara dana pihak ketiga naik 23 persen menjadi Rp27,6 triliun dengan porsi dana murah (CASA) mencapai 53 persen. Ekuitas perseroan tercatat Rp9,0 triliun dengan rasio kecukupan modal (CAR) 28,4 persen.",
+   "Dari sisi laba, Bank Jago membukukan laba sebelum pajak Rp242 miliar dan laba setelah pajak Rp189 miliar pada semester I 2026, masing-masing naik 49 persen dibanding tahun sebelumnya. Kualitas kredit tercatat membaik dengan rasio kredit bermasalah (NPL) gross 0,8 persen, jauh di bawah rata-rata industri 2,1 persen, sementara rasio biaya terhadap pendapatan (CIR) turun menjadi 56 persen. Perseroan juga melaporkan basis nasabah digital banking dan kredit sebanyak 20,1 juta per Juni 2026, termasuk 14,7 juta pengguna aplikasi Jago, dengan kapitalisasi pasar Rp13,4 triliun dan peringkat Fitch A- outlook stabil."
+  ],
+  "fotoAdegan": "A customer tapping a smartphone to pay at a small food stall in a busy Jakarta street market, morning light",
+  "takeaway": "Laporan ini condong positif bagi Bank Jago, karena hampir semua indikator utama bergerak searah dan menguat dibanding tahun sebelumnya, bukan sekadar satu metrik yang membaik sementara yang lain memburuk. Yang tersentuh adalah laba bersih yang naik 49 persen ke Rp189 miliar, rasio kecukupan modal atau CAR yang tetap tinggi di 28,4 persen (ini bantalan modal yang menunjukkan bank punya cukup ruang menyerap kerugian sebelum membahayakan nasabah), rasio kredit macet atau NPL yang hanya 0,8 persen jauh di bawah rata-rata industri, serta rasio biaya terhadap pendapatan atau CIR yang turun ke 56 persen alias bank semakin hemat menjalankan operasinya. Yang perlu dipantau selanjutnya adalah paparan publik Bank Jago pada 10 September 2026 pukul 11.00 WIB, di mana manajemen biasanya menjawab langsung pertanyaan investor soal proyeksi pertumbuhan kredit dan strategi ke depan.",
+  "sentimen": "positif"
  },
  {
   "slug": "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",

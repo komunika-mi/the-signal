@@ -377,8 +377,25 @@ export function versiAset(berkas) {
   // hash karangan, dan tetap stabil antar build sehingga tidak ikut memboroskan
   // jatah rayapan. Halaman yang merujuk aset hilang toh sudah rusak dengan
   // atau tanpa ?v=.
+  //
+  // CRLF DINORMALKAN DULU, dan ini bukan kerapian. core.autocrlf=true di mesin
+  // Windows pemilik situs menaruh CRLF di disk, sementara runner Linux GitHub
+  // Actions checkout dengan LF. Berkas yang sama persis isinya menghasilkan
+  // hash berbeda di dua tempat itu. Terukur 7 September 2026: style.css
+  // 959a2f83 di Windows, aacac90c di CI - dan yang tayang di produksi memang
+  // aacac90c.
+  //
+  // Akibatnya kalau tidak dinormalkan: tiap build lokal yang di-commit lalu
+  // di-build ulang CI membalik SELURUH alamat aset bolak-balik. Itu persis
+  // pemborosan jatah rayapan yang mau dihilangkan fungsi ini, cuma lewat
+  // pintu lain.
+  //
+  // Aman dilakukan tanpa syarat: versiAset() hanya dipanggil untuk berkas
+  // css/js, tidak pernah untuk gambar atau berkas biner.
   const v = fs.existsSync(fp)
-    ? crypto.createHash('md5').update(fs.readFileSync(fp)).digest('hex').slice(0, 8)
+    ? crypto.createHash('md5')
+        .update(fs.readFileSync(fp, 'utf8').replace(/\r\n/g, '\n'), 'utf8')
+        .digest('hex').slice(0, 8)
     : '0';
   CACHE_VERSI.set(kunci, v);
   return v;

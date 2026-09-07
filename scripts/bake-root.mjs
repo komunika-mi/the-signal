@@ -97,6 +97,64 @@ export function tulisIndeksArtikel(ARTICLES) {
   return ramping.length;
 }
 
+// ---------- indeks tayangan ramping ----------
+//
+// Sama alasannya dengan indeks artikel, tapi tuasnya BERBEDA. Pada artikel
+// yang mahal adalah field body: 45% berkas, tidak pernah disentuh browser,
+// jadi memangkas field sudah cukup. Pada video tidak ada field gemuk seperti
+// itu - diperiksa di assets/js/shared.js, TS.videoCard dan TS.videoPageCard
+// memakai id, title, category, summary, dan program, sementara hero di
+// video.html menambah takeaway. Nyaris seluruh isi entri terpakai.
+//
+// Jadi yang dibatasi jumlahnya, bukan lebarnya. Yang dibuang cuma dua field
+// yang benar-benar tidak pernah dibaca peramban: terbit (dipakai uploadDate
+// JSON-LD dan lastmod sitemap, keduanya dikerjakan saat build) dan sisa
+// skema lama.
+const FIELD_INDEKS_VIDEO = ['id', 'title', 'category', 'program', 'summary', 'takeaway'];
+
+// Satu halaman tayangan. Terukur 7 September 2026: entri video rata-rata
+// 537 byte mentah, jadi 60 tayangan sekitar 32 KB mentah - seukuran indeks
+// artikel yang sudah berjalan. Arsip penuhnya tetap bisa ditelusuri lewat
+// halaman lanjutan di /arsip-tayangan/ dan seluruhnya terdaftar di sitemap.
+export const PER_HALAMAN_TAYANGAN = Number(process.env.SIGNAL_PER_HALAMAN_VIDEO || 60);
+
+export const jumlahHalamanTayangan = (n) => Math.max(1, Math.ceil(n / PER_HALAMAN_TAYANGAN));
+export const urlHalamanTayangan = (i) => (i <= 1 ? '/video.html' : '/arsip-tayangan/' + i + '.html');
+
+// Nav halaman tayangan. Dipanggang, bukan dirender JavaScript, karena inilah
+// satu-satunya jalur rayapan menuju tayangan lama. Menyerahkannya ke skrip
+// mengulang persis cacat yang diperbaiki di sini.
+export function navTayangan(hal, total, jumlah) {
+  if (total <= 1) return '';
+  return '<nav class="arsip-nav">' +
+    (hal > 1
+      ? '<a class="arsip-lanjut" href="' + urlHalamanTayangan(hal - 1) + '">&larr; Halaman sebelumnya</a>'
+      : '<span></span>') +
+    '<span class="arsip-posisi num">Halaman ' + hal + ' dari ' + total +
+    ' &middot; ' + jumlah + ' tayangan</span>' +
+    (hal < total
+      ? '<a class="arsip-lanjut" href="' + urlHalamanTayangan(hal + 1) + '">Halaman berikutnya &rarr;</a>'
+      : '') +
+    '</nav>';
+}
+
+export function tulisIndeksVideo(VIDEOS) {
+  const ramping = VIDEOS.slice(0, PER_HALAMAN_TAYANGAN).map(v => {
+    const o = {};
+    for (const f of FIELD_INDEKS_VIDEO) {
+      if (v[f] !== undefined && v[f] !== '' && v[f] !== null) o[f] = v[f];
+    }
+    return o;
+  });
+  fs.writeFileSync(path.join(ROOT, 'assets/js/videos-index.js'),
+    '// Indeks ramping untuk video.html: halaman pertama saja. Diturunkan dari\n' +
+    '// videos.js oleh bake-root.mjs - jangan diedit manual, dan JANGAN memuat\n' +
+    '// videos.js dari halaman mana pun: arsipnya tidak dipangkas lagi sehingga\n' +
+    '// ukurannya tumbuh terus.\n' +
+    'var VIDEOS = ' + JSON.stringify(ramping, null, 1) + ';\n', 'utf8');
+  return ramping.length;
+}
+
 // ---------- kartu (kembar dengan shared.js, lihat catatan di atas) ----------
 function kartuCerita(a) {
   return '<article class="story-card">' +
@@ -561,19 +619,30 @@ export function bakeRoot({ ARTICLES, VIDEOS, VER, BPS, HARIAN, PEKANAN, AGENDA }
   // bukan manusia. ----
   const pVideo = path.join(ROOT, 'video.html');
   let vid = fs.readFileSync(pVideo, 'utf8');
+  // Halaman 1 saja. Sisanya di /arsip-tayangan/, dipanggang build-pages.mjs.
+  const halSatu = VIDEOS.slice(0, PER_HALAMAN_TAYANGAN);
+  const totalHalVideo = jumlahHalamanTayangan(VIDEOS.length);
   vid = ganti(vid, 'kepala', kepalaAnalitik(), 'video.html');
+  // Yang didaftar cuma isi halaman ini, bukan seluruh arsip. CollectionPage
+  // yang menyebut item di luar halamannya sendiri itu keterangan yang salah.
   vid = ganti(vid, 'situs', jsonLdSitus(halamanKoleksi({
     nama: 'Tayangan', url: '/video.html',
     deskripsi: VIDEOS.length + ' tayangan pilihan yang dibaca The Signal.',
-    item: VIDEOS.map(v => ({ nama: plain(v.title), url: urlVideo(v) })),
+    item: halSatu.map(v => ({ nama: plain(v.title), url: urlVideo(v) })),
   })), 'video.html');
   // Wadah #video-grid sebelumnya KOSONG di HTML dan baru diisi JavaScript,
   // jadi tidak satu pun dari dua belas halaman tayangan punya tautan masuk
   // yang bisa dirayapi. Isinya dipanggang sekarang; JavaScript boleh menimpanya
   // untuk pembaca, isinya sama.
-  vid = ganti(vid, 'videogrid', VIDEOS.map(v =>
+  //
+  // src gambarnya dulu esc(v.thumb) - field yang TIDAK PERNAH ADA di
+  // videos.js, jadi tiap kartu panggang keluar dengan src="" kosong. Diganti
+  // ke thumbnail YouTube, alamat yang sama dengan yang dipakai shared.js.
+  vid = ganti(vid, 'videogrid', halSatu.map(v =>
     '<article class="video-card"><a href="' + urlVideo(v) + '">' +
-    '<img src="' + esc(v.thumb) + '" alt="' + esc(plain(v.title)) + '" loading="lazy" width="480" height="360">' +
+    '<img src="https://i.ytimg.com/vi/' + esc(v.id) + '/hqdefault.jpg" alt="' +
+    esc(plain(v.title)) + '" loading="lazy" width="480" height="360">' +
     '<h3>' + esc(plain(v.title)) + '</h3></a></article>').join(''), 'video.html');
+  vid = ganti(vid, 'videonav', navTayangan(1, totalHalVideo, VIDEOS.length), 'video.html');
   fs.writeFileSync(pVideo, stempelVersi(vid, VER), 'utf8');
 }

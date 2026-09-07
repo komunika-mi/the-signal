@@ -37,7 +37,27 @@ const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
 // diunduh peramban, halaman arsip yang kini berhalaman, dan indeks bot.
 // articles.js sendiri boleh tumbuh, karena ia cuma dibaca saat build dan
 // tidak pernah dimuat peramban.
-const MAKS_VIDEO = 12;
+//
+// ARSIP VIDEO JUGA TIDAK DIPANGKAS LAGI.
+//
+// Dulu di sini ada MAKS_VIDEO = 12 dan .slice(0, MAKS_VIDEO) di bawah. Ia
+// menderita penyakit yang persis sama dengan pemangkasan artikel di atas,
+// dan perbaikan 19 Agustus 2026 itu tidak pernah sampai ke video: begitu
+// sebuah video tergeser keluar dari dua belas terbaru, bersihkanYatim() di
+// build-pages.mjs MENGHAPUS berkas /tayangan/<id>.html dari disk.
+//
+// Diukur 7 September 2026 dari riwayat git assets/js/videos.js: 132 video
+// pernah terbit, 12 tersisa, jadi 120 halaman terbit lalu dilenyapkan.
+// Search Console sudah menemukan 21 di antaranya sebagai 404, dan itu baru
+// yang sempat dirayapi ulang. Diuji langsung waktu itu: /tayangan/
+// 0Nv4-W_RoVs.html membalas 404, sedangkan /tayangan/21IcJMXQE-Y.html yang
+// masih di dalam dua belas membalas 200. Seluruh 132 dipulihkan dari riwayat
+// git pada commit yang sama dengan perubahan ini.
+//
+// Sama seperti artikel, batasnya pindah ke KONSUMEN, bukan ke arsip:
+// videos.js cuma dibaca saat build, peramban memuat videos-index.js yang
+// dibatasi, dan halaman lanjutannya dipanggang di /arsip-tayangan/.
+
 // Kanal pemerintah. Dijaga kecil supaya siaran pers tidak menenggelamkan
 // berita biasa, dan supaya tiap putaran 2 jam tetap cepat.
 // Kuota kanal pemerintah. Dinaikkan 13 Agustus 2026 seiring bertambahnya
@@ -255,7 +275,9 @@ async function main() {
     if (belumAda.length) {
       const lolos = await saringVideo(belumAda);
       log('video baru lolos saringan: ' + lolos.length);
-      videoGabung = [...lolos, ...videoLama].slice(0, MAKS_VIDEO);
+      // Tanpa .slice(): video yang sudah terbit tidak pernah dibuang lagi.
+      // Alasannya di catatan panjang dekat bagian atas berkas ini.
+      videoGabung = [...lolos, ...videoLama];
     } else {
       log('tidak ada video baru sejak pembaruan terakhir');
     }

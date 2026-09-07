@@ -1,0 +1,486 @@
+// Indeks ramping untuk video.html: halaman pertama saja. Diturunkan dari
+// videos.js oleh bake-root.mjs - jangan diedit manual, dan JANGAN memuat
+// videos.js dari halaman mana pun: arsipnya tidak dipangkas lagi sehingga
+// ukurannya tumbuh terus.
+var VIDEOS = [
+ {
+  "id": "VhlzqIvVtl4",
+  "title": "BPH Migas Perkuat Pengawasan Distribusi BBM Subsidi",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "BPH Migas meninjau sejumlah SPBU dan memperkuat pengawasan distribusi BBM subsidi di wilayah Sulawesi Tenggara agar penyalurannya berjalan lancar.",
+  "takeaway": "Menyangkut kelancaran pasokan energi bersubsidi yang berdampak langsung pada aktivitas ekonomi masyarakat di daerah."
+ },
+ {
+  "id": "jN_RLe9_BPU",
+  "title": "Danantara Jadi Jembatan Investasi Indonesia-Rusia",
+  "category": "BUMN",
+  "program": "Kabar Petang",
+  "summary": "Danantara disebut menjadi jembatan kerja sama dan investasi strategis antara Indonesia dan Rusia.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena menyangkut peran lembaga pengelola investasi negara dalam menjaring modal dari mitra asing."
+ },
+ {
+  "id": "21IcJMXQE-Y",
+  "title": "Danantara Jadi Jembatan Kerja Sama Bilateral RI-Rusia",
+  "category": "Global",
+  "program": "Kabar Hari Ini",
+  "summary": "Badan Pengelola Investasi Danantara disebut menjadi penghubung kerja sama bilateral antara Indonesia dan Rusia, menyusul kunjungan Presiden Prabowo Subianto ke Rusia.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut peran lembaga investasi negara dalam memperluas kerja sama bisnis dengan mitra dagang luar negeri."
+ },
+ {
+  "id": "4ucEzZa-yPU",
+  "title": "Pemerintah dan Kadin Tekankan Ketahanan Pangan di Tengah El Nino",
+  "category": "Makroekonomi",
+  "program": "Kabar Hari Ini",
+  "summary": "Pemerintah bersama Kadin Indonesia menekankan pentingnya memperkuat ketahanan pangan nasional di tengah ancaman El Nino yang dinilai berdampak signifikan terhadap produksi.",
+  "takeaway": "Ancaman El Nino terhadap produksi pangan relevan bagi pembaca ekonomi karena berpotensi memengaruhi stabilitas harga dan rantai pasok nasional."
+ },
+ {
+  "id": "mSLsH2CJlH4",
+  "title": "Presiden Prabowo dan Presiden Putin Bahas Kerja Sama Bisnis",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto bertemu Presiden Rusia Vladimir Putin di sela Eastern Economic Forum ke-11 di Vladivostok dalam format business breakfast untuk membahas penguatan kerja sama bilateral kedua negara.",
+  "takeaway": "Pertemuan ini relevan bagi pembaca ekonomi karena berlangsung di forum ekonomi internasional dan berpotensi membuka peluang kerja sama dagang serta investasi antara Indonesia dan Rusia."
+ },
+ {
+  "id": "iSPeZH9NzP0",
+  "title": "Bea Cukai Siapkan Strategi Atasi Kemacetan Arus Barang di Pelabuhan",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menyiapkan langkah baru untuk memperlancar arus barang di pelabuhan sekaligus menekan dwelling time dan biaya logistik.",
+  "takeaway": "Kebijakan ini relevan bagi pelaku usaha karena dwelling time dan biaya logistik pelabuhan berpengaruh langsung pada daya saing perdagangan nasional."
+ },
+ {
+  "id": "GF044yQHWCM",
+  "title": "Serikat Buruh Temui Menaker Bahas RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Serikat buruh menemui Menteri Ketenagakerjaan Yassierli untuk menyampaikan kekecewaan atas draf RUU Ketenagakerjaan yang dinilai belum mengakomodasi usulan mereka.",
+  "takeaway": "Perkembangan RUU Ketenagakerjaan penting diikuti karena berdampak pada hubungan industrial serta kepastian hukum bagi pekerja dan dunia usaha."
+ },
+ {
+  "id": "zlNoRcPSzO0",
+  "title": "Polemik Desil: Data, Kebijakan, dan Realita di Lapangan",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Forum diskusi membahas penggunaan data desil sebagai acuan penyaluran bantuan pemerintah, di tengah keluhan warga soal akurasi data di lapangan.",
+  "takeaway": "Relevan karena data desil menentukan sasaran subsidi dan bantuan sosial yang berdampak pada alokasi anggaran negara."
+ },
+ {
+  "id": "9NYqbPoMvag",
+  "title": "Destry Damayanti Resmi Dilantik Jadi Gubernur BI",
+  "category": "Moneter",
+  "program": "Kabar Hari Ini",
+  "summary": "Destry Damayanti dilantik sebagai Gubernur Bank Indonesia periode 2026-2031 dalam upacara di Gedung Mahkamah Agung, Jakarta, dipimpin Ketua MA.",
+  "takeaway": "Pergantian pucuk pimpinan bank sentral berpengaruh langsung terhadap arah kebijakan moneter dan stabilitas rupiah."
+ },
+ {
+  "id": "Guxj9iKyfrY",
+  "title": "Program SMK Go Global Buka Pendaftaran Batch Baru",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Pendaftaran Program SMK Go Global Batch I Gelombang III dibuka pada 1-11 September 2026 untuk menyiapkan lulusan SMK bekerja resmi di luar negeri.",
+  "takeaway": "Program ini mencerminkan upaya penyerapan tenaga kerja Indonesia di pasar kerja global."
+ },
+ {
+  "id": "hWQi-yCY24k",
+  "title": "Kadin dan SBF Perkuat Kerja Sama Dagang Berbasis AI",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Federasi Bisnis Singapura dan Kadin Indonesia memperdalam kerja sama dagang berbasis kecerdasan buatan untuk membantu pelaku UMKM menangkap peluang pasar.",
+  "takeaway": "Kolaborasi ini berpotensi membuka akses pasar baru bagi pelaku UMKM Indonesia melalui teknologi digital."
+ },
+ {
+  "id": "sy-twhywXj8",
+  "title": "Polemik Desil: Antara Data, Kebijakan, dan Realita",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi lanjutan soal data desil yang menjadi acuan penyaluran bantuan pemerintah, sementara masyarakat mengeluhkan ketidaksesuaian data dengan kondisi riil.",
+  "takeaway": "Isu ini penting untuk memahami efektivitas penargetan program bantuan sosial berbasis data."
+ },
+ {
+  "id": "BgSIOz2ROMk",
+  "title": "Ekonom: Polemik Desil Harus Diredam, Bukan Dipicu",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Ekonom menilai polemik data desil untuk penyaluran bantuan pemerintah perlu ditangani hati-hati agar tidak memicu keresahan sosial.",
+  "takeaway": "Pandangan ekonom membantu menilai dampak sosial dari kebijakan berbasis data desil terhadap masyarakat."
+ },
+ {
+  "id": "sn-PhvAmsCI",
+  "title": "Moskow Perkuat Kerja Sama Pariwisata dengan Indonesia",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Komite Pariwisata Kota Moskow menggelar misi bisnis di Jakarta untuk memperluas hubungan pariwisata sekaligus memperkuat kerja sama dengan Indonesia.",
+  "takeaway": "Misi bisnis lintas negara ini penting disimak karena berpotensi membuka peluang kerja sama dagang dan investasi di sektor pariwisata kedua negara."
+ },
+ {
+  "id": "gHPBLC9HNa4",
+  "title": "Kuota FLPP Naik Jadi 350 Ribu Unit, Perluas Akses Rumah Subsidi",
+  "category": "Perbankan",
+  "program": "Kabar Pagi",
+  "summary": "Pemerintah menaikkan kuota Fasilitas Likuiditas Pembiayaan Perumahan tahun 2026 menjadi 350 ribu unit untuk memperluas akses masyarakat terhadap rumah subsidi.",
+  "takeaway": "Kenaikan kuota FLPP relevan bagi pembaca karena berdampak langsung pada sektor pembiayaan perumahan dan daya beli masyarakat berpenghasilan rendah."
+ },
+ {
+  "id": "hpu08C2Bg8c",
+  "title": "Polemik Data Desil dalam DTSEN",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "Polemik data desil dalam DTSEN mencuat karena banyak warga kurang mampu tercatat berstatus kesejahteraan tinggi sehingga terancam kehilangan bantuan sosial.",
+  "takeaway": "Akurasi data kesejahteraan menentukan tepat sasaran tidaknya anggaran bantuan sosial pemerintah."
+ },
+ {
+  "id": "0FUJczk9K2E",
+  "title": "Data Pemerintah Tak Tepat Sasaran, Bansos Terdepak",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "Pembaruan data kesejahteraan dengan sistem desil membuat sejumlah warga miskin tercoret dari daftar penerima bantuan sosial.",
+  "takeaway": "Menyoroti risiko kesalahan data dalam penyaluran anggaran perlindungan sosial negara."
+ },
+ {
+  "id": "aLk2OevJFUQ",
+  "title": "BPS Buka Suara soal Ketimpangan Data Desil",
+  "category": "Makroekonomi",
+  "program": "Pagi-pagi Seru",
+  "summary": "BPS menyatakan ketimpangan data desil dalam DTSEN dipicu berbagai faktor kesalahan data kependudukan dan sosial ekonomi.",
+  "takeaway": "Klarifikasi lembaga statistik resmi penting untuk menjaga kredibilitas data yang mendasari kebijakan ekonomi."
+ },
+ {
+  "id": "qrtoWz74ZV4",
+  "title": "Kadin Indonesia Kunjungi PT VKTR Sakti Industries di Magelang",
+  "category": "Industri",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia menggelar Go-See and Pitch Trip ke PT VKTR Sakti Industries di Magelang bersama Menteri Lingkungan Hidup Mohammad Jumhur Hidayat.",
+  "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menggambarkan upaya dunia usaha mendekatkan diri dengan pelaku industri manufaktur dalam negeri."
+ },
+ {
+  "id": "yM3shtnuhPc",
+  "title": "BI Gelar Pameran UMKM Karya Kreatif Indonesia 2026",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Bank Indonesia menggelar pameran UMKM bertajuk Karya Kreatif Indonesia (KKI) 2026 yang membukukan total penjualan Rp177,21 miliar.",
+  "takeaway": "Angka penjualan ini menjadi indikator geliat UMKM binaan Bank Indonesia dalam mendorong perputaran ekonomi domestik."
+ },
+ {
+  "id": "GkxhMXx3UTA",
+  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Kenaikan penjualan mobil disorot sebagai indikator pemulihan aktivitas ekonomi Indonesia di tengah dinamika daya beli masyarakat.",
+  "takeaway": "Data penjualan otomotif kerap dipakai sebagai proksi kesehatan ekonomi domestik, sehingga tren ini relevan bagi pembaca yang memantau arah pemulihan."
+ },
+ {
+  "id": "bjOCQiKbqtk",
+  "title": "Kemenperin Jelaskan Wacana Mobil Nasional",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Perindustrian memberi penjelasan soal wacana pengembangan mobil nasional di tengah sorotan terhadap kinerja industri otomotif dalam negeri.",
+  "takeaway": "Kebijakan mobil nasional menyangkut arah investasi dan daya saing industri manufaktur otomotif Indonesia."
+ },
+ {
+  "id": "rNODfrvnFgg",
+  "title": "GAIKINDO dan Fitra Eri Soroti Pajak Mobil Baru",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Sekjen GAIKINDO bersama pengamat otomotif Fitra Eri membahas dampak kebijakan pajak kendaraan baru terhadap penjualan mobil di Indonesia.",
+  "takeaway": "Kebijakan pajak kendaraan bermotor berpengaruh langsung pada harga jual dan daya beli konsumen otomotif."
+ },
+ {
+  "id": "NmEOqz-HfJY",
+  "title": "Mobil Listrik vs BBM, Ini Perbandingan Biayanya",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Suryo Pratomo membandingkan harga dan biaya operasional mobil listrik dengan mobil berbahan bakar minyak di tengah pergeseran pasar otomotif.",
+  "takeaway": "Perbandingan biaya ini membantu pembaca menilai arah transisi pasar kendaraan dan dampaknya bagi industri energi."
+ },
+ {
+  "id": "R3OrofgvMEM",
+  "title": "Anomali Penjualan Mobil Naik di Tengah Daya Beli Lemah",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Fitra Eri mengulas fenomena penjualan mobil yang justru meningkat di tengah sinyal pelemahan daya beli masyarakat Indonesia.",
+  "takeaway": "Anomali ini penting dicermati karena bisa mengubah asumsi umum soal hubungan daya beli dan konsumsi barang tahan lama."
+ },
+ {
+  "id": "H4C5Fei2534",
+  "title": "DPR Terima Audiensi Serikat Buruh PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "Pimpinan DPR dan Komisi VI menggelar audiensi dengan serikat buruh PT Pos Indonesia membahas persoalan ketenagakerjaan di perusahaan pelat merah itu.",
+  "takeaway": "Audiensi ini menyangkut nasib pekerja BUMN logistik nasional yang tengah menghadapi tantangan bisnis."
+ },
+ {
+  "id": "9elIydie_0A",
+  "title": "Presiden AS Ancam Mitra Dagang Iran dengan Sanksi",
+  "category": "Global",
+  "program": "tvOneNews",
+  "summary": "Pemerintah Amerika Serikat memberlakukan sanksi ekonomi terhadap mitra dagang Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak berdasar pada resolusi PBB.",
+  "takeaway": "Sanksi dagang AS terhadap mitra Iran berpotensi mengganggu arus perdagangan dan pasar energi global yang relevan bagi pelaku bisnis."
+ },
+ {
+  "id": "FsmWpvfeIds",
+  "title": "DPR Terima Audiensi Pekerja PT Pos Soal Gaji Telat",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "Perwakilan karyawan PT Pos Indonesia mengadukan keterlambatan pembayaran gaji 31.000 pegawai kepada pimpinan DPR RI dalam audiensi yang digelar bersama Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
+  "takeaway": "Persoalan gaji telat di BUMN logistik ini menyoroti tekanan keuangan PT Pos Indonesia yang berdampak langsung pada puluhan ribu pekerja."
+ },
+ {
+  "id": "T65tlKy2bRc",
+  "title": "Penjualan Mobil Melejit, Ekonomi RI Bangkit?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
+  "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time."
+ },
+ {
+  "id": "O7NBqds3AqA",
+  "title": "Destry Damayanti Paparkan Visi Misi di Uji Kelayakan Calon Gubernur BI",
+  "category": "Moneter",
+  "program": "Kabar Petang",
+  "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
+  "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha."
+ },
+ {
+  "id": "SCpPAhkbsOQ",
+  "title": "Audiensi DPR RI dengan Serikat Buruh PT Pos Indonesia",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
+  "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional."
+ },
+ {
+  "id": "1KLQyv9o92A",
+  "title": "Pembangunan Fasilitas Pengolahan Sampah Jadi Listrik Dimulai",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
+  "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur."
+ },
+ {
+  "id": "tyj_A0VFAYQ",
+  "title": "Sandiaga Uno Jadi Presiden Komisaris MUTU International",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "PT Mutuagung Lestari Tbk atau MUTU International menunjuk Sandiaga Salahuddin Uno sebagai Presiden Komisaris melalui RUPSLB, seiring rencana perusahaan memperluas bisnis sertifikasi mutu.",
+  "takeaway": "Pergantian jajaran komisaris di perusahaan terbuka layak disimak karena berpotensi mengubah arah strategi dan tata kelola perusahaan ke depan."
+ },
+ {
+  "id": "r4A6TWWW1sw",
+  "title": "Presiden Prabowo Resmikan PLTS Gilimanuk di Bali",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto meresmikan groundbreaking tahap pertama proyek Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Gilimanuk, Bali.",
+  "takeaway": "Proyek ini penting bagi pembaca ekonomi karena mencerminkan arah investasi pemerintah dalam pengembangan energi terbarukan berskala besar."
+ },
+ {
+  "id": "s6X2aNbkM04",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp di Bali",
+  "category": "Energi",
+  "program": "Indonesia Terkini",
+  "summary": "Presiden Prabowo Subianto menggelar peluncuran dan groundbreaking program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari agenda transisi energi nasional.",
+  "takeaway": "Program energi surya berskala besar ini berpotensi menggerakkan investasi baru dan menjadi indikator kemajuan target bauran energi terbarukan Indonesia."
+ },
+ {
+  "id": "ewdCLytOnIA",
+  "title": "AS Ancam Sanksi Baru, Matikan Ekonomi Iran",
+  "category": "Global",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Amerika Serikat memberlakukan sanksi ekonomi baru terhadap Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak memiliki dasar dari PBB.",
+  "takeaway": "Sanksi ekonomi AS terhadap Iran relevan bagi pembaca karena berpotensi memengaruhi harga energi dan arus perdagangan global."
+ },
+ {
+  "id": "u3IMZTSwJ-Q",
+  "title": "Presiden Prabowo Resmikan Pembangunan PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto meresmikan pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari program transisi energi nasional.",
+  "takeaway": "Proyek PLTS berskala besar ini relevan bagi pembaca ekonomi karena menyangkut arah investasi energi terbarukan dan bauran energi nasional ke depan."
+ },
+ {
+  "id": "Zl5RCPsgvD0",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Kabupaten Jembrana, Bali.",
+  "takeaway": "Peluncuran ini menandai langkah pemerintah memperbesar porsi energi terbarukan dalam bauran energi nasional, hal yang relevan bagi investor dan pelaku industri energi."
+ },
+ {
+  "id": "oQa6Z0LZ3QI",
+  "title": "Pidato Presiden Prabowo di Peluncuran PLTS 100 GWp",
+  "category": "Energi",
+  "program": "Breaking News",
+  "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
+  "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan."
+ },
+ {
+  "id": "Z66PZJknxSA",
+  "title": "Ratusan Karyawan Perusahaan Tambang di Konawe Selatan Kena PHK",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Hari Ini",
+  "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
+  "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah."
+ },
+ {
+  "id": "V8tXxrsFCtc",
+  "title": "Peluncuran Danantara Sumber Daya Indonesia",
+  "category": "BUMN",
+  "program": "Kabar Utama",
+  "summary": "BPI Danantara resmi mengonfirmasi berdirinya PT Danantara Sumberdaya Indonesia (DSI) yang dibentuk melalui akta perusahaan sejak 1 Juni 2026, seperti disampaikan CEO BPI Danantara Rosan Roeslani.",
+  "takeaway": "Perkembangan ini penting bagi pembaca ekonomi karena menyangkut struktur baru pengelolaan aset dan investasi negara melalui BPI Danantara."
+ },
+ {
+  "id": "sZlTPmyTGcQ",
+  "title": "Pemerintah Dukung Sertifikasi Pekerja Industri Kecantikan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
+  "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh."
+ },
+ {
+  "id": "z_ODNU76JNA",
+  "title": "Harga Daging Sapi Tembus Rp160 Ribu per Kg",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Harga daging sapi di pasar naik hingga Rp160.000 per kilogram, sehingga pemerintah menyiapkan langkah stabilisasi menggunakan dana APBN dan APBD.",
+  "takeaway": "Kenaikan harga daging sapi menjadi indikator tekanan inflasi pangan yang berdampak langsung pada daya beli masyarakat."
+ },
+ {
+  "id": "6WnRuyBPVcA",
+  "title": "Kurs Rupiah dan Harga Emas Antam 24 Agustus 2026",
+  "category": "Moneter",
+  "program": "Kabar Siang",
+  "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
+  "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik."
+ },
+ {
+  "id": "K-HCBg9XDVk",
+  "title": "Perpres Ojol Sangat Dinanti Driver, Apa Saja Isinya?",
+  "category": "Ketenagakerjaan",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Pemerintah dan DPR RI memasuki tahap akhir finalisasi Peraturan Presiden tentang perlindungan pekerja transportasi online, mencakup pengemudi penumpang serta kurir barang dan makanan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan jutaan pekerja di sektor ekonomi gig yang terus berkembang di Indonesia."
+ },
+ {
+  "id": "8MR2N8l3TyU",
+  "title": "BPS: Backlog Rumah Turun Jadi 9,29 Juta Keluarga",
+  "category": "Makroekonomi",
+  "program": "Ulas Utas",
+  "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
+  "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional."
+ },
+ {
+  "id": "tv6fetTfC-g",
+  "title": "Transformasi Pegadaian Jadi Pelopor Ekosistem Bullion Nasional",
+  "category": "Perbankan",
+  "program": "Inspirasi Pagi",
+  "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri."
+ },
+ {
+  "id": "0Nv4-W_RoVs",
+  "title": "DPR dan Pemerintah Sampaikan Perpres Ojol",
+  "category": "Ketenagakerjaan",
+  "program": "tvOneNews",
+  "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
+  "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol."
+ },
+ {
+  "id": "GAJ5Xb3VsXc",
+  "title": "Update Kurs Rupiah, Harga Minyak Dunia, dan Emas Antam",
+  "category": "Pasar Modal",
+  "program": "Kabar Siang",
+  "summary": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, melanjutkan tren kenaikan beberapa hari terakhir, seiring pergerakan kurs rupiah dan harga minyak dunia.",
+  "takeaway": "Data harian kurs, harga minyak, dan emas ini jadi acuan penting bagi investor dan pelaku pasar dalam mengambil keputusan."
+ },
+ {
+  "id": "_eLwJlitL-k",
+  "title": "Menkop Ferry Juliantono: Pemerintah Pastikan Kemerdekaan Ekonomi",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Koperasi Ferry Juliantono menegaskan pemerintah berkomitmen mewujudkan kemerdekaan ekonomi dan sosial masyarakat melalui pemberdayaan koperasi dan UMKM.",
+  "takeaway": "Pernyataan menteri terkait arah kebijakan pemberdayaan UMKM ini relevan bagi pembaca yang mengikuti agenda ekonomi kerakyatan pemerintah."
+ },
+ {
+  "id": "oFs66ujNmY4",
+  "title": "1.200 UMKM Ramaikan Pesta Rakyat HUT ke-81 RI",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Pesta Rakyat HUT ke-81 RI di kawasan Monas hingga Bundaran HI melibatkan lebih dari 1.700 UMKM yang memasarkan produknya kepada masyarakat.",
+  "takeaway": "Skala keterlibatan UMKM dalam acara nasional ini menggambarkan peluang perluasan pasar bagi pelaku usaha kecil."
+ },
+ {
+  "id": "71oMi3aMkTQ",
+  "title": "Bank Jateng Gelar Gebyar Fest 81 Libatkan UMKM Perkuat Ekonomi Daerah",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
+  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah."
+ },
+ {
+  "id": "9KfKSXn_gWU",
+  "title": "Target Optimalisasi Energi Surya dan Elektrifikasi Mobilitas",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan."
+ },
+ {
+  "id": "z6ieuHPQJfI",
+  "title": "KBPBI Kawal Pembahasan RUU Ketenagakerjaan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Koalisi Besar Perjuangan Buruh Indonesia menyatakan akan mengawal penuh proses pembahasan Rancangan Undang-Undang Ketenagakerjaan.",
+  "takeaway": "Pembahasan RUU ini menyangkut aturan ketenagakerjaan yang berdampak langsung pada pekerja dan pelaku usaha, sehingga relevan untuk dipantau."
+ },
+ {
+  "id": "8CtcljS12aQ",
+  "title": "Pemerintah Fokus RAPBN 2027 dan Program Lapangan Kerja",
+  "category": "Makroekonomi",
+  "program": "Kabar Utama",
+  "summary": "Pemerintah mengarahkan kebijakan dan RAPBN 2027 pada delapan Program Kerja Prioritas Nasional, termasuk penciptaan lapangan kerja, untuk mendukung target pembangunan Presiden Prabowo Subianto.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena memuat arah kebijakan fiskal dan prioritas ketenagakerjaan yang berdampak pada dunia usaha dan pencari kerja."
+ },
+ {
+  "id": "l5jJVLJgwXc",
+  "title": "Pemerintah Kembangkan B50 sebagai Pilar Ketahanan Energi",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
+  "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi."
+ },
+ {
+  "id": "Iywa2ayieDQ",
+  "title": "Presiden AS Trump Perketat Sanksi Ekonomi ke Iran",
+  "category": "Global",
+  "program": "tvOneNews",
+  "summary": "Pemerintahan Presiden AS Donald Trump mengalihkan tekanan terhadap Iran dari jalur militer ke ekonomi, dengan fokus pengetatan sanksi terhadap Teheran.",
+  "takeaway": "Sanksi ekonomi AS terhadap Iran berpotensi memengaruhi harga energi global dan pasar komoditas yang relevan bagi pembaca ekonomi."
+ },
+ {
+  "id": "Vt7k2-tJw6M",
+  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto meluncurkan sekaligus melakukan groundbreaking Program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Monumen Operasi Lintas Laut Jawa Bali.",
+  "takeaway": "Program PLTS berskala besar ini menandai langkah pemerintah memperluas energi terbarukan, hal yang relevan bagi arah investasi dan bauran energi nasional ke depan."
+ },
+ {
+  "id": "B_xxGHkDml4",
+  "title": "Jubir ESDM Beberkan Dampak Signifikan Program B50",
+  "category": "Energi",
+  "program": "AKIM",
+  "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
+  "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
+ },
+ {
+  "id": "fp_VWfYRPCY",
+  "title": "Pembangunan Ritel Modern di Desa Akan Diatur Pemerintah",
+  "category": "UMKM",
+  "program": "One On One",
+  "summary": "Menteri Desa dan PDT menyebut pemerintah akan mengatur pembangunan ritel modern di desa agar tidak mematikan pelaku usaha lokal.",
+  "takeaway": "Regulasi ritel modern di desa berkaitan langsung dengan perlindungan UMKM dan pemerataan ekonomi pedesaan."
+ }
+];

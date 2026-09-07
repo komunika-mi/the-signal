@@ -41,12 +41,14 @@ const VIDEOS = muat('videos.js');
 // Indeks ramping ditulis SEBELUM hashAset() di bawah menghitung versi aset,
 // supaya hash-nya mencerminkan isi build ini, bukan sisa build sebelumnya.
 import {
-  tulisIndeksArtikel, bakeRoot,
+  tulisIndeksArtikel, tulisIndeksVideo, bakeRoot,
   PER_HALAMAN_ARSIP, jumlahHalamanArsip, urlHalamanArsip, barisArsip,
+  PER_HALAMAN_TAYANGAN, jumlahHalamanTayangan, urlHalamanTayangan, navTayangan,
 } from './bake-root.mjs';
 import { HALAMAN_STATIS } from './halaman-statis.mjs';
 import { kepalaAnalitik, VERIFIKASI_GSC, GA4_ID } from './analitik.mjs';
 tulisIndeksArtikel(ARTICLES);
+tulisIndeksVideo(VIDEOS);
 function muatPasar() {
   const p = path.join(ROOT, 'assets/js', 'market.js');
   if (!fs.existsSync(p)) return null;
@@ -213,7 +215,8 @@ const EMITEN = (() => {
 import crypto from 'node:crypto';
 function hashAset() {
   const berkas = ['assets/css/style.css', 'assets/js/shared.js',
-    'assets/js/articles.js', 'assets/js/articles-index.js', 'assets/js/videos.js',
+    'assets/js/articles.js', 'assets/js/articles-index.js',
+    'assets/js/videos.js', 'assets/js/videos-index.js',
     'assets/js/market.js', 'assets/js/bps.js', 'assets/js/harian.js',
     'assets/js/harian-arsip.js', 'assets/js/pekanan.js', 'assets/js/pekanan-arsip.js'];
   const h = crypto.createHash('md5');
@@ -2043,6 +2046,81 @@ fs.mkdirSync(ROOT + '/arsip', { recursive: true });
     '(total', total, 'halaman untuk', ARTICLES.length, 'artikel)');
 }
 
+// ---------- halaman arsip tayangan lanjutan ----------
+//
+// Halaman 1 ada di video.html; halaman 2 dan seterusnya di sini. Alasannya
+// sama persis dengan arsip berita di atas, dan penyakit yang diobatinya juga
+// sama: arsip video berhenti dipangkas 7 September 2026, jadi seluruh
+// tautannya tidak boleh lagi ditumpuk di satu halaman.
+//
+// Yang membuat halaman ini WAJIB, bukan sekadar rapi: /tayangan/<id>.html
+// tidak pernah punya jalur rayapan lain. Tidak ada rubrik video, tidak ada
+// tema video, tidak ada halaman emiten yang menaut ke sana. Kalau video lama
+// tidak tertaut dari sini, satu-satunya yang tahu ia ada cuma sitemap - dan
+// URL yang cuma hidup di sitemap adalah URL yang jarang dirayapi ulang.
+//
+// Foldernya SENGAJA bukan /tayangan/: bersihkanYatim() menyapu folder itu
+// dari berkas yang tidak ada di daftar VIDEOS, dan halaman berhalaman ini
+// akan ikut terhapus tiap build.
+fs.mkdirSync(ROOT + '/arsip-tayangan', { recursive: true });
+{
+  const total = jumlahHalamanTayangan(VIDEOS.length);
+  const kartu = (v) =>
+    '<a class="video-page-card" href="' + videoUrl(v) + '">' +
+    '<span class="video-page-thumb">' +
+    '<img src="https://i.ytimg.com/vi/' + esc(v.id) + '/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">' +
+    '</span>' +
+    '<span class="story-cat">' + esc(v.category) + '</span>' +
+    '<span class="story-title" style="display:block;">' + esc(plain(v.title)) + '</span>' +
+    '<span class="video-summary" style="display:block;">' + esc(v.summary) + '</span>' +
+    '<span class="video-program"><span>' + videoMeta(v) + '</span><span>Tonton &rarr;</span></span></a>';
+
+  for (let hal = 2; hal <= total; hal++) {
+    const mulai = (hal - 1) * PER_HALAMAN_TAYANGAN;
+    const isiHal = VIDEOS.slice(mulai, mulai + PER_HALAMAN_TAYANGAN);
+    if (!isiHal.length) continue;
+    const url = urlHalamanTayangan(hal);
+    const nav = navTayangan(hal, total, VIDEOS.length);
+    const isi =
+      '<section class="rail" style="padding-top:2.2rem;">' +
+      '<div class="harian-head">' +
+      '<span class="harian-kicker">Arsip Tayangan</span>' +
+      '<h1 class="harian-judul">Semua tayangan, halaman ' + hal + '</h1>' +
+      '<p class="harian-tanggal num">' + isiHal.length + ' tayangan dari ' +
+      VIDEOS.length + ' di arsip</p></div>' +
+      nav +
+      '<div class="video-page-grid">' + isiHal.map(kartu).join('') + '</div>' +
+      nav +
+      '</section>';
+    fs.writeFileSync(path.join(ROOT, 'arsip-tayangan', hal + '.html'),
+      head({
+        title: 'Arsip Tayangan, halaman ' + hal,
+        desc: 'Arsip tayangan video The Signal halaman ' + hal + ' dari ' + total +
+          ': ' + isiHal.length + ' tayangan ekonomi dari kanal YouTube tvOneNews ' +
+          'dengan ringkasan dan catatan redaksi.',
+        url,
+        image: BASE + '/assets/img/og-card.jpg', imgW: 1200, imgH: 630,
+        navVideo: true,
+        jsonld: halamanKoleksi({
+          nama: 'Arsip Tayangan, halaman ' + hal, url,
+          deskripsi: 'Arsip tayangan The Signal, halaman ' + hal + ' dari ' + total + '.',
+          item: isiHal.map(v => ({ nama: plain(v.title), url: videoUrl(v) })),
+        }),
+      }) + isi + FOOT, 'utf8');
+  }
+  // Halaman yatim kalau arsipnya menyusut - tidak terjadi selama tidak ada
+  // yang dibuang, tapi berkas beku yang tidak lagi tertaut adalah persis
+  // cacat yang diperbaiki di sini, jadi lebih baik dijaga daripada dipercaya.
+  for (const f of fs.readdirSync(ROOT + '/arsip-tayangan')) {
+    const n = Number(f.replace('.html', ''));
+    if (f.endsWith('.html') && (!Number.isInteger(n) || n < 2 || n > total)) {
+      fs.unlinkSync(path.join(ROOT, 'arsip-tayangan', f));
+    }
+  }
+  console.log('halaman arsip tayangan:', Math.max(0, total - 1),
+    '(total', total, 'halaman untuk', VIDEOS.length, 'tayangan)');
+}
+
 // ---------- halaman edisi arsip ----------
 //
 // Edisi lama sebelumnya hanya hidup di dalam JavaScript: /signal-harian.html
@@ -2206,6 +2284,14 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
     const hal = k + 2;
     const pertama = ARTICLES[(hal - 1) * PER_HALAMAN_ARSIP];
     return pertama ? { loc: urlHalamanArsip(hal), lastmod: tglWIB(pertama.isoDate), prio: '0.5' } : null;
+  }).filter(Boolean))
+  // lastmod halaman arsip tayangan sengaja tidak diisi: 74 dari 132 entri
+  // berasal dari skema lama yang tidak menyimpan tanggal, jadi tanggal apa
+  // pun yang ditulis di sini adalah tebakan. lastmod boleh tidak ada.
+  .concat(Array.from({ length: jumlahHalamanTayangan(VIDEOS.length) - 1 }, (_, k) => {
+    const hal = k + 2;
+    return VIDEOS[(hal - 1) * PER_HALAMAN_TAYANGAN]
+      ? { loc: urlHalamanTayangan(hal), prio: '0.4' } : null;
   }).filter(Boolean));
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +

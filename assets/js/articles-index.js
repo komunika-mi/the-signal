@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "RAJA: Laba Bersih 1H26 [Melonjak] 88 Persen, Utang Menyusut",
+  "deck": "Materi public expose RAJA memaparkan laba bersih semester I 2026 naik 88 persen jadi US$28,9 juta, ditopang harga minyak Blok Cepu dan proyek kompresor gas Sengkang.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "kinerja keuangan",
+   "public expose",
+   "LNG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1117d2b6b7_96d34495ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "antm-paparkan-kinerja-1h26-roe-naik-ke-23-persen",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Paparkan Kinerja 1H26, ROE [Naik] ke 23 Persen",
+  "deck": "Materi public expose tahunan ANTM menunjukkan pendapatan, laba, dan ROE semester I 2026 naik, dividen Rp5 triliun, sementara rasio utang terhadap EBITDA tetap rendah di 0,21 kali.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "MIND ID",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c836520141_ae09972d01.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
   "category": "Perbankan",
   "title": "OJK Minta Blokir [38.375] Rekening Judi Online",
@@ -132,6 +164,22 @@ var ARTICLES = [
    "perhotelan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd0d28c636_6f26e75a4f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgns-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DGNS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Diagnos Laboratorium Utama menyatakan tidak ada info material maupun rencana aksi korporasi yang melatarinya.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGNS",
+   "Diagnos Laboratorium Utama",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aac22f735_da527c29b2.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -539,6 +587,118 @@ var ARTICLES = [
    "Laporan Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a2fb6a80_66a60109fb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pltm-pastikan-dana-pelunasan-obligasi-rp106-miliar-siap",
+  "category": "Aksi Korporasi",
+  "title": "PLTM Pastikan Dana Pelunasan Obligasi [Rp106 Miliar] Siap",
+  "deck": "PLTM menyatakan dana Rp106 miliar untuk pelunasan Obligasi II dan Sukuk Ijarah II Seri B, yang jatuh tempo 8 September 2026, sudah tersedia sejak 6 September 2026 dari kas internal.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLTM",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/864528735d_60f25d8849.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "psab-bagi-dividen-interim-rp30-saham-cair-29-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Bagi [Dividen] Interim Rp30/Saham, Cair 29 September 2026",
+  "deck": "J Resources Asia Pasifik (PSAB) akan membagikan dividen interim Rp793,8 miliar atau Rp30 per saham untuk tahun buku 2026, dibayar 29 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "dividen interim",
+   "J Resources Asia Pasifik",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e159a6826f_023d3aae5f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pipa-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Oxala Energy International menjawab permintaan penjelasan BEI atas volatilitas transaksi saham PIPA, memastikan tidak ada fakta material baru selain yang sudah diungkap 19 dan 26 Agustus 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PIPA",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/842ebdafa4_f8af4eb467.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tugu-panggil-rupslb-ubah-skema-pemisahan-unit-syariah-ke-bpui",
+  "category": "Aksi Korporasi",
+  "title": "TUGU Panggil RUPSLB, Ubah Skema [Pemisahan] Unit Syariah ke BPUI",
+  "deck": "RUPSLB TUGU pada 29 September 2026 membahas pengangkatan komisaris independen dan pengalihan Unit Usaha Syariah ke perusahaan asuransi syariah lain, bagian konsolidasi asuransi BUMN oleh BPUI.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TUGU",
+   "RUPSLB",
+   "unit syariah",
+   "Danantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2d4954302_496fd28043.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ggrm-catat-laba-rp2-97-triliun-semester-i-2026-utang-bank-lunas",
+  "category": "Aksi Korporasi",
+  "title": "GGRM catat laba [Rp2,97 triliun] semester I 2026, utang bank lunas",
+  "deck": "Materi public expose tahunan GGRM menunjukkan laba bersih semester I 2026 melonjak ke Rp2,97 triliun meski penjualan turun 7,2 persen, utang bank jangka pendek lunas total.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GGRM",
+   "Gudang Garam",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17943d18c3_ba843c446f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpix-jelaskan-lonjakan-saham-14-56-ke-bursa-ungkap-akuisisi-mca",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Jelaskan [Lonjakan] Saham 14,56% ke Bursa, Ungkap Akuisisi MCA",
+  "deck": "Bursa minta MPIX jelaskan lonjakan volume dan harga saham 14,56% pada 28 Agustus 2026; Perseroan sebut tak ada informasi material baru.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPIX",
+   "volatilitas saham",
+   "MPStore",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/739e68b7de_d1e6e956d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-terstruktur-usai-dividen-bmri-rp66-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran Terstruktur] Usai Dividen BMRI Rp66/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia mengumumkan rencana penyesuaian rasio dan harga pelaksanaan dua waran terstruktur BMRI menyusul dividen tunai Rp66 per saham dari Bank Mandiri.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BQ",
+   "BMRI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/68bacceab4_7fe7fbafd9.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6392,167 +6552,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463961-scaleocean-meluncurkan-scaleocean-atlas-erp-yang-mengikuti-cara-kerja-setiap-industri"
- },
- {
-  "slug": "laba-dooh-melonjak-9-5-kali-ditopang-pos-nonoperasional",
-  "category": "Aksi Korporasi",
-  "title": "Laba DOOH [Melonjak] 9,5 Kali, Ditopang Pos Nonoperasional",
-  "deck": "Laba bersih DOOH naik jadi Rp63,3 miliar pada semester I 2026, tapi operasi inti justru merugi Rp12,7 miliar akibat beban pokok pendapatan yang melonjak.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "laporan keuangan",
-   "Era Media Sejahtera",
-   "pelepasan anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831215015-64248-0/FinancialStatement-2026-II-DOOH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-mulai-ekspor-beras-perdana-ke-malaysia",
-  "category": "Makroekonomi",
-  "title": "RI Mulai [Ekspor] Beras Perdana ke Malaysia",
-  "deck": "Indonesia mengirim 1.000 ton beras premium perdana ke Malaysia, dengan potensi diperluas hingga 200.000 ton senilai Rp3,4 triliun.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/ri-mulai-ekspor-beras-perdana-ke-malaysia.jpg",
-  "imageV": "mthi41ae",
-  "tags": [
-   "ekspor beras",
-   "Malaysia",
-   "ketahanan pangan",
-   "Bakom"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463957-ri-ekspor-beras-perdana-ke-malaysia-qodari-beberkan-nilai-fantastis-indonesia-semakin-berdaulat-dalam-pangan"
- },
- {
-  "slug": "untr-laba-semester-i-2026-anjlok-91-persen-jadi-rp742-miliar",
-  "category": "Aksi Korporasi",
-  "title": "UNTR: Laba Semester I 2026 [Anjlok] 91 Persen jadi Rp742 Miliar",
-  "deck": "United Tractors membukukan laba bersih Rp742 miliar pada semester I 2026, anjlok dari Rp8,37 triliun tahun lalu akibat kerugian penurunan nilai investasi.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "laba bersih",
-   "laporan keuangan",
-   "United Tractors"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831213953-64286-0/FinancialStatement-2026-II-UNTR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smcb-bukukan-laba-naik-4-3-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "SMCB Bukukan Laba [Naik] 4,3% di Semester I 2026",
-  "deck": "Pendapatan Solusi Bangun Indonesia naik 10,6 persen jadi Rp5,50 triliun di semester I 2026, tapi laba operasi inti tergerus lonjakan beban distribusi 44 persen sebelum bunga bank turun.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMCB",
-   "laporan keuangan",
-   "industri semen",
-   "Solusi Bangun Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831205924-64263-0/FinancialStatement-2026-II-SMCB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kmds-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "KMDS Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "Bursa Efek Indonesia meminta penjelasan atas volatilitas transaksi saham KMDS. Manajemen menjawab tidak ada informasi atau rencana korporasi material yang belum diungkapkan.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KMDS",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/7937a4ea43_66711afe97.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-koreksi-laporan-keuangan-ekuitas-negatif-rp449-juta",
-  "category": "Aksi Korporasi",
-  "title": "CASH koreksi laporan keuangan, ekuitas [negatif] Rp449 juta",
-  "deck": "Cashlez merevisi laporan keuangan audited 2025, mengungkap rugi Rp56,6 miliar dan ekuitas negatif Rp449,5 juta akibat liabilitas yang melonjak 86 persen.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez Worldwide Indonesia",
-   "laporan keuangan",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202508/20260831203125-64344-0/FinancialStatement-2025-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obmd-bukukan-rugi-operasi-meski-laba-bersih-masih-positif",
-  "category": "Aksi Korporasi",
-  "title": "OBMD Bukukan [Rugi Operasi] Meski Laba Bersih Masih Positif",
-  "deck": "Penjualan OBM Drilchem anjlok 46 persen pada semester I 2026 hingga usaha intinya merugi, laba bersih hanya tertolong pendapatan di luar usaha utama.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OBMD",
-   "laporan keuangan",
-   "kinerja emiten",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260831203249-64317-0/FinancialStatement-2026-II-OBMD.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-direktur-baru-efektif-presiden-komisaris-tunggu-fpt",
-  "category": "Aksi Korporasi",
-  "title": "SANF: Direktur Baru Efektif, Presiden Komisaris [Tunggu FPT]",
-  "deck": "Perusahaan pembiayaan SANF menegaskan pengangkatan Maria Inawati Bernard sebagai Direktur telah efektif, sementara dua pejabat komisaris masih menunggu kelulusan uji kepatutan OJK.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "pergantian direksi",
-   "komisaris",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/270835f938_1f35aedc02.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "summarecon-gelar-festival-kuliner-serentak-di-4-kota",
-  "category": "UMKM",
-  "title": "Summarecon Gelar Festival Kuliner [Serentak] di 4 Kota",
-  "deck": "Summarecon menggelar festival kuliner serentak di Kelapa Gading, Serpong, Bekasi, dan Bandung pada Agustus-September 2026, meneruskan tradisi 22 tahun yang juga jadi ajang bagi pelaku UMKM.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/summarecon-gelar-festival-kuliner-serentak-di-4-kota.jpg",
-  "imageV": "mthi41p7",
-  "tags": [
-   "Summarecon",
-   "Festival Kuliner",
-   "UMKM",
-   "Bekasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463944-22-tahun-merawat-rasa-festival-kuliner-summarecon-hadir-serentak-di-empat-kota"
- },
- {
-  "slug": "silo-gelar-rupslb-akuisisi-rumah-sakit-senilai-rp6-9-triliun",
-  "category": "Aksi Korporasi",
-  "title": "SILO Gelar RUPSLB, [Akuisisi] Rumah Sakit Senilai Rp6,9 Triliun",
-  "deck": "SILO memanggil RUPSLB 22 September 2026 untuk meminta persetujuan akuisisi rumah sakit senilai hingga Rp9 triliun dan penjaminan aset sebagai jaminan pendanaan.",
-  "date": "31 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SILO",
-   "RUPSLB",
-   "akuisisi rumah sakit",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/2b6aa49c2f_92876f9bdf.pdf",
-  "sourceLabel": "IDX"
  }
 ];

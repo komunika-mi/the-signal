@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "RAJA: Laba Bersih 1H26 [Melonjak] 88 Persen, Utang Menyusut",
+  "deck": "Materi public expose RAJA memaparkan laba bersih semester I 2026 naik 88 persen jadi US$28,9 juta, ditopang harga minyak Blok Cepu dan proyek kompresor gas Sengkang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T23:24:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1117d2b6b7_96d34495ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "kinerja keuangan",
+   "public expose",
+   "LNG"
+  ],
+  "body": [
+   "Rukun Raharja Tbk (RAJA) menyampaikan materi public expose tahunan yang akan digelar 10 September 2026, merujuk pada pengumuman rencana acara tersebut yang dikirim 27 Agustus 2026. Surat pengantar ditandatangani Corporate Secretary Yuni Pattinasarani. Materi setebal presentasi investor ini memuat kinerja keuangan semester I 2026 serta daftar rencana proyek ke depan.",
+   "Pada semester I 2026, RAJA membukukan pendapatan US$131,2 juta, naik 2,8 persen dari US$127,6 juta pada periode sama tahun lalu. EBITDA melonjak 46,5 persen menjadi US$57,3 juta dari US$39,1 juta, sementara laba bersih melompat 88,0 persen menjadi US$28,9 juta dari US$15,3 juta. Kenaikan ini didorong oleh proyek kompresor gas di Sengkang yang mulai beroperasi komersial sejak Desember 2025, kenaikan pendapatan investasi di Blok Cepu seiring harga minyak naik ke US$117,0 per barel dari US$74,2 per barel, kontribusi pendapatan investasi dari Grup Hafar, serta keuntungan dari akuisisi participating interest di Blok Madura.",
+   "Dari sisi neraca, rasio utang berbunga terhadap ekuitas turun menjadi 1,34 kali pada semester I 2026 dari 1,55 kali pada 2024 dan 1,44 kali pada 2025, sementara rasio lancar naik ke 2,59 kali dari 1,92 kali pada 2025. Perusahaan merencanakan dividen tahun 2026 senilai Rp65 per saham, setelah pada Januari 2026 membagikan dividen interim Rp105,67 miliar atau Rp25 per saham disertai buyback saham hingga Rp250 miliar untuk periode 28 Januari sampai 28 April 2026, lalu menetapkan dividen final Rp40 per saham pada Mei 2026.",
+   "Dalam daftar rencana proyek, RAJA memaparkan lima inisiatif: akuisisi 5 persen saham PT Layar Nusantara Gas dari Genting LNG Pte Ltd melalui anak usaha PT Raharja Gas Kasuri untuk fasilitas floating LNG berkapasitas 1,2 juta ton per tahun yang aktanya sudah diteken September 2026; finalisasi akuisisi perusahaan pelayaran dengan aset 1 unit LNG Carrier dan 1 unit Very Large Gas Carrier; pembangunan pipa bahan bakar minyak di Kalimantan Timur yang direncanakan mulai kuartal III 2026; finalisasi kajian proyek LNG plant di Kalimantan menuju keputusan investasi final; dan kajian kelayakan pabrik biogas berbasis limbah peternakan bersama mitra Jepang."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting a gas pipeline and compressor station at an industrial energy facility, daylight, Indonesia",
+  "takeaway": "Paparan ini condong positif bagi RAJA, sebab laba bersih semester pertama 2026 melonjak 88 persen menjadi US$28,9 juta sementara rasio utang terhadap modal sendiri justru menyusut dari 1,55 kali pada 2024 menjadi 1,34 kali, tanda perusahaan tumbuh tanpa menambah beban utang secara proporsional. Yang tersentuh di sini adalah laba operasional dan struktur permodalan: EBITDA, yakni laba dari bisnis inti sebelum bunga, pajak, dan penyusutan, naik 46,5 persen berkat kompresor gas Sengkang yang mulai beroperasi dan harga minyak Blok Cepu yang naik ke US$117 per barel, sementara rasio lancar yang naik ke 2,59 kali menunjukkan kas dan aset likuid perusahaan makin longgar untuk menutup kewajiban jangka pendek. Yang perlu dipantau adalah realisasi acara public expose itu sendiri pada 10 September 2026, serta kelanjutan proyek yang masih berstatus finalisasi seperti akuisisi perusahaan pelayaran berkapal LNG dan keputusan investasi final pabrik LNG di Kalimantan, yang hasilnya baru akan terlihat pada laporan berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "antm-paparkan-kinerja-1h26-roe-naik-ke-23-persen",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Paparkan Kinerja 1H26, ROE [Naik] ke 23 Persen",
+  "deck": "Materi public expose tahunan ANTM menunjukkan pendapatan, laba, dan ROE semester I 2026 naik, dividen Rp5 triliun, sementara rasio utang terhadap EBITDA tetap rendah di 0,21 kali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T22:45:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c836520141_ae09972d01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "Antam",
+   "MIND ID",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT ANTAM (Persero) Tbk menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia melalui surat nomor 5199/692/DCS/2026 tertanggal 7 September 2026, merujuk pada rencana penyelenggaraan public expose yang sudah diumumkan lewat surat 26 Agustus 2026. Surat ditandatangani Corporate Secretary Division Head ANTAM, Wisnu Danandi Haryanto, dengan lampiran presentasi investor kinerja semester I 2026 (1H26).",
+   "Dari materi tersebut, kapitalisasi pasar ANTM per 31 Agustus 2026 tercatat Rp75,9 triliun, dengan 65 persen saham dimiliki holding pertambangan negara MIND ID lewat PT Danantara Asset Management dan 35 persen sisanya dipegang publik. Laba per saham berjalan year to date hingga Juni 2026 mencapai Rp266. Tingkat pengembalian modal pemegang saham atau ROE dua belas bulan terakhir naik dari 12 persen pada 2024 menjadi 23 persen pada semester I 2026, sementara tingkat pengembalian aset atau ROA naik dari 9 persen menjadi 16 persen pada periode yang sama. Rasio utang berbunga terhadap EBITDA dua belas bulan terakhir tercatat hanya 0,21 kali pada semester I 2026, turun dari 0,70 kali pada kuartal I 2026.",
+   "Berdasarkan hasil RUPST 2025 yang digelar 10 Juni 2026, ANTAM membagikan dividen Rp5,0 triliun. Kontribusi perusahaan ke negara pada semester I 2026 tercatat lewat penerimaan negara bukan pajak dan bea sebesar Rp0,77 triliun, pajak pusat Rp1,1 triliun, serta pajak daerah dan retribusi daerah Rp5,3 miliar. Dari sisi peringkat kredit, Pefindo memberi ANTAM peringkat idAA dengan prospek stabil per Maret 2026, sedangkan Moody's memberi peringkat Baa2 dengan prospek negatif per Februari 2026. Materi presentasi juga menyebut sejumlah proyek hilirisasi yang masih berjalan, di antaranya proyek hilirisasi nikel bersama konsorsium Zhejiang Huayou Cobalt yang berstatus studi kelayakan, serta perluasan pabrik pengolahan emas di Pulogadung dan Gresik yang berstatus prakonstruksi."
+  ],
+  "fotoAdegan": "Aerial view of an open pit nickel mine with haul trucks winding along terraced red earth roads in tropical Sulawesi",
+  "takeaway": "Laporan ini condong positif bagi ANTM. Data dalam materi presentasi menunjukkan pendapatan, laba, dan EBITDA semester I 2026 sama-sama naik dibanding tahun sebelumnya, sementara beban utang perusahaan tetap sangat ringan dibanding labanya. Yang perlu diperhatikan adalah ROE, yaitu ukuran seberapa besar laba yang dihasilkan dari modal pemegang saham, yang naik dari 12 persen di 2024 menjadi 23 persen di semester I 2026, serta rasio utang berbunga terhadap EBITDA yang cuma 0,21 kali, artinya ANTM bisa melunasi utangnya dari laba operasional dalam hitungan bulan, bukan tahun. Satu hal yang mengganjal, lembaga pemeringkat Moody's masih memberi status Baa2 dengan prospek negatif per Februari 2026, berbeda dengan Pefindo yang memberi peringkat idAA prospek stabil, jadi ada perbedaan pandangan soal risiko jangka panjang perseroan. Yang perlu dipantau berikutnya adalah perkembangan studi kelayakan proyek hilirisasi nikel bersama konsorsium Zhejiang Huayou Cobalt serta kemungkinan perubahan prospek peringkat dari Moody's pada evaluasi berikutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "ojk-minta-blokir-38-375-rekening-judi-online",
   "category": "Perbankan",
   "title": "OJK Minta Blokir [38.375] Rekening Judi Online",
@@ -213,6 +266,32 @@ var ARTICLES = [
   "fotoAdegan": "Empty hotel conference hall with neat rows of vacant chairs and round tables, soft morning light through tall windows",
   "takeaway": "Laporan ini condong negatif bagi SNLK, sebab rugi bersih melonjak hampir tiga kali lipat pada tahun ketiga berturut-turut perseroan merugi, sementara pendapatan justru menyusut akibat hilangnya pasar perjalanan dinas dan rapat pemerintah yang selama ini jadi andalan okupansi hotel. Yang tersentuh di sini adalah laba bersih dan kondisi aset: belanja modal yang hanya seperlima dari beban penyusutan berarti hotel menua lebih cepat daripada diremajakan, sementara pemangkasan karyawan hingga lebih dari separuh menunjukkan perseroan menekan biaya secara agresif untuk menahan laju kerugian. Kabar baiknya, kemenangan gugatan senilai Rp12 miliar yang sudah berkekuatan hukum tetap menghapus satu risiko keuangan, dan kontrak sewa baru dengan pihak ketiga PT MCR Bangun Persada memberi kepastian pendapatan hingga 2028. Yang perlu dipantau selanjutnya adalah rencana revaluasi aset properti investasi yang dijanjikan pada 2026 karena nilai wajar terakhir baru dihitung tahun 2023, serta apakah laporan keuangan semester kedua 2026 menunjukkan pendapatan mulai pulih setelah penjelasan ini disampaikan ke bursa pada 7 September 2026.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "dgns-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DGNS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Merespons surat Bursa Efek Indonesia soal lonjakan transaksi sahamnya, Diagnos Laboratorium Utama menyatakan tidak ada info material maupun rencana aksi korporasi yang melatarinya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T19:07:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7aac22f735_da527c29b2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGNS",
+  "tags": [
+   "DGNS",
+   "Diagnos Laboratorium Utama",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Diagnos Laboratorium Utama Tbk (DGNS) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-11331/BEI.PP1/09-2026 terkait volatilitas transaksi efek perusahaan. Tanggapan disampaikan melalui dua surat bertanggal 7 September 2026, yakni nomor 042/CORSEC/DGNS/IX/2026 dan 005-K/CORSEC/DGNS/IX/2026, yang ditujukan kepada Aditya Nugraha, PH Kepala Divisi Pengawasan Transaksi 1 BEI, dan ditandatangani oleh Stefanus Ivanly selaku VP Sekretaris Perusahaan.",
+   "Dalam surat itu, Diagnos menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham, serta menegaskan tidak memiliki rencana aksi korporasi yang berdampak pada status pencatatan sahamnya di bursa, setidaknya dalam tiga bulan ke depan.",
+   "Perseroan menambahkan tidak ada informasi, fakta, atau kejadian penting lain yang material dan dapat memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik. Corporate Secretary juga menyatakan telah mengonfirmasi langsung kepada pemegang saham utama dan pengendali Diagnos, dan hasilnya tidak ada rencana apa pun terkait kepemilikan saham mereka di perusahaan."
+  ],
+  "fotoAdegan": "Laboratory technicians in white coats processing blood sample tubes on an automated analyzer inside a busy clinical lab",
+  "takeaway": "Isi surat ini netral bagi fundamental Diagnos karena isinya hanya menegaskan bahwa tidak ada apa pun yang berubah, bukan mengumumkan perubahan apa pun di perusahaan. Tidak ada angka yang menyentuh pos-pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, sehingga pergerakan harga sahamnya belakangan ini lebih mungkin didorong oleh aktivitas jual beli di pasar ketimbang perubahan bisnis Diagnos. Yang perlu dipantau adalah konsistensi pernyataan ini, karena perusahaan menegaskan tidak berencana melakukan aksi korporasi yang berdampak pada status pencatatan sahamnya setidaknya hingga awal Desember 2026, sehingga kabar aksi korporasi yang muncul sebelum tenggat itu akan bertentangan dengan pernyataan resmi hari ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026",
@@ -866,6 +945,189 @@ var ARTICLES = [
   "fotoAdegan": "A customer tapping a smartphone to pay at a small food stall in a busy Jakarta street market, morning light",
   "takeaway": "Laporan ini condong positif bagi Bank Jago, karena hampir semua indikator utama bergerak searah dan menguat dibanding tahun sebelumnya, bukan sekadar satu metrik yang membaik sementara yang lain memburuk. Yang tersentuh adalah laba bersih yang naik 49 persen ke Rp189 miliar, rasio kecukupan modal atau CAR yang tetap tinggi di 28,4 persen (ini bantalan modal yang menunjukkan bank punya cukup ruang menyerap kerugian sebelum membahayakan nasabah), rasio kredit macet atau NPL yang hanya 0,8 persen jauh di bawah rata-rata industri, serta rasio biaya terhadap pendapatan atau CIR yang turun ke 56 persen alias bank semakin hemat menjalankan operasinya. Yang perlu dipantau selanjutnya adalah paparan publik Bank Jago pada 10 September 2026 pukul 11.00 WIB, di mana manajemen biasanya menjawab langsung pertanyaan investor soal proyeksi pertumbuhan kredit dan strategi ke depan.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "pltm-pastikan-dana-pelunasan-obligasi-rp106-miliar-siap",
+  "category": "Aksi Korporasi",
+  "title": "PLTM Pastikan Dana Pelunasan Obligasi [Rp106 Miliar] Siap",
+  "deck": "PLTM menyatakan dana Rp106 miliar untuk pelunasan Obligasi II dan Sukuk Ijarah II Seri B, yang jatuh tempo 8 September 2026, sudah tersedia sejak 6 September 2026 dari kas internal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:47:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/864528735d_60f25d8849.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLTM",
+  "tags": [
+   "PLTM",
+   "obligasi",
+   "sukuk",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 8 September 2026, dua surat utang milik PT Polytama Propindo (PLTM) berhenti tercatat dan tidak lagi diperdagangkan di bursa karena jatuh tempo. Keduanya adalah Obligasi II Polytama Propindo Tahun 2021 Seri B dengan kode PLTM02B senilai Rp50 miliar, dan Sukuk Ijarah II Polytama Propindo Tahun 2021 Seri B dengan kode SIPLTM02B senilai Rp56 miliar. Kedua efek ini sama-sama diterbitkan pada 8 September 2021, sehingga total nilai yang jatuh tempo mencapai Rp106 miliar.",
+   "Kesiapan pelunasan ini sudah dilaporkan Polytama ke bursa lewat surat tertanggal 14 Agustus 2026 yang ditandatangani Direktur Dwinanto Kurniawan. Pelaporan ini merupakan kewajiban sesuai Peraturan Bursa I-E ketentuan IV.2.11, yang mengharuskan emiten melapor kesiapan dana pelunasan paling lambat 15 hari bursa sebelum efek jatuh tempo. Dalam surat itu, Polytama menyebut dana pokok Rp50 miliar untuk obligasi dan Rp56 miliar untuk sukuk sudah tersedia sejak 6 September 2026, dua hari sebelum jatuh tempo, dan sumbernya adalah dana internal perseroan, bukan dari pinjaman baru atau refinancing. Perseroan juga menyatakan tidak ada keputusan atau hal penting lain terkait pelunasan ini, dan surat tersebut ditembuskan ke Otoritas Jasa Keuangan serta PT Bank Mandiri Tbk selaku wali amanat."
+  ],
+  "fotoAdegan": "Wide shot of a petrochemical plant with steel pipelines, storage tanks and cooling towers under clear morning sky",
+  "takeaway": "Laporan ini condong positif bagi Polytama Propindo, karena perseroan sanggup melunasi Rp106 miliar utang obligasi dan sukuk yang jatuh tempo memakai kas sendiri, tanpa menerbitkan utang baru atau mencari pinjaman pengganti. Pos yang tersentuh adalah utang dan beban bunga, begitu kedua surat utang ini lunas, kewajiban Polytama berkurang Rp106 miliar dan beban bunga yang selama ini dibayarkan atas pokok tersebut ikut hilang, sehingga arus kas ke depan sedikit lebih longgar. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada tanggal jatuh tempo itu sendiri, 8 September 2026, serta laporan lanjutan Polytama ke bursa dan ke wali amanatnya, PT Bank Mandiri Tbk, yang memastikan dana benar-benar disalurkan sesuai jadwal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "psab-bagi-dividen-interim-rp30-saham-cair-29-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Bagi [Dividen] Interim Rp30/Saham, Cair 29 September 2026",
+  "deck": "J Resources Asia Pasifik (PSAB) akan membagikan dividen interim Rp793,8 miliar atau Rp30 per saham untuk tahun buku 2026, dibayar 29 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:39:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e159a6826f_023d3aae5f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "dividen interim",
+   "J Resources Asia Pasifik",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi J Resources Asia Pasifik Tbk (PSAB), yang keputusannya disetujui Dewan Komisaris pada 3 September 2026, menetapkan pembagian dividen interim untuk tahun buku 2026 sebesar Rp793,8 miliar atau setara Rp30 per saham. Dividen ini akan dibagikan kepada seluruh 26,46 miliar lembar saham perseroan yang beredar.",
+   "Jadwalnya, cum dividen di pasar reguler dan negosiasi jatuh pada 15 September 2026, disusul ex dividen pada 16 September 2026. Untuk pasar tunai, cum dividen berlaku 17 September 2026 dan ex dividen 18 September 2026. Tanggal pencatatan pemegang saham (recording date) yang berhak menerima dividen ditetapkan 17 September 2026 pukul 16.00 WIB, dengan pembayaran dijadwalkan paling lambat 29 September 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 Juni 2026, di mana PSAB membukukan laba bersih yang diatribusikan kepada entitas induk sebesar US$177,89 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$186,38 juta, dan total ekuitas US$435,51 juta. Perseroan juga mengingatkan pemegang saham dalam negeri berbadan hukum yang belum menyerahkan NPWP, serta pemegang saham asing yang ingin memakai tarif pajak sesuai perjanjian penghindaran pajak berganda, untuk melengkapi dokumennya paling lambat 17 September 2026 pukul 16.00 WIB. Tanpa dokumen itu, dividen bagi pemegang saham asing dikenakan pajak penghasilan 20 persen."
+  ],
+  "fotoAdegan": "Gold ore stockpiles and conveyor belts at a mountainside mining processing plant, workers in hard hats inspecting equipment at dusk",
+  "takeaway": "Laporan ini condong positif bagi PSAB karena perseroan benar-benar mengalirkan kas ke pemegang saham, bukan sekadar mencatat laba di atas kertas, dan nilai dividennya masih jauh di bawah saldo laba ditahan maupun total ekuitas perseroan sehingga tidak menguras neraca. Yang tersentuh adalah ekuitas dan arus kas: begitu dividen cair pada 29 September 2026, ekuitas perseroan berkurang senilai dividen yang dibagikan dan kas keluar dalam jumlah besar sekaligus, hal yang biasa dicermati investor karena menunjukkan kemampuan perusahaan menghasilkan uang tunai sungguhan, bukan cuma laba di laporan. Kapasitas membayar dividen ini juga tak lepas dari pelunasan utang dan pelepasan anak usaha yang dilaporkan perseroan pekan lalu, yang menambah ruang kas perseroan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 17 September 2026 pukul 16.00 WIB, karena hanya nama yang tercatat saat itu yang berhak menerima dividen, serta realisasi pembayaran pada 29 September 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pipa-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "PIPA Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Oxala Energy International menjawab permintaan penjelasan BEI atas volatilitas transaksi saham PIPA, memastikan tidak ada fakta material baru selain yang sudah diungkap 19 dan 26 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:26:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/842ebdafa4_f8af4eb467.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PIPA",
+  "tags": [
+   "PIPA",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Oxala Energy International Tbk (PIPA) mengirim surat jawaban kepada Bursa Efek Indonesia pada 7 September 2026, menanggapi permintaan penjelasan BEI bernomor S-11286/BEI.PP3/09-2026 tertanggal 3 September 2026 terkait volatilitas transaksi efek perseroan. Surat balasan bernomor 051/Oxala-Corsec/VIII/2026 ditandatangani oleh Corporate Secretary Haerul Maelani.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material lain yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, selain yang telah diungkapkan melalui keterbukaan informasi pada 19 Agustus 2026 dan 26 Agustus 2026. Perseroan juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu yang melanggar kewajiban pelaporan kepemilikan saham sesuai POJK Nomor 4 Tahun 2024, serta memastikan pemegang saham pengendali dan utama tidak memiliki rencana mengubah kepemilikan sahamnya di PIPA.",
+   "Poin yang perlu digarisbawahi ada pada jawaban nomor empat: perseroan mengonfirmasi masih memiliki rencana tindakan korporasi dalam waktu dekat, sebagaimana sudah diungkapkan pada keterbukaan informasi 19 dan 26 Agustus 2026, yang berpotensi berakibat pada status pencatatan saham PIPA di bursa dalam tiga bulan ke depan. Perseroan tidak merinci ulang bentuk tindakan korporasi tersebut dalam surat ini dan hanya merujuk pada pengungkapan sebelumnya."
+  ],
+  "fotoAdegan": "Distant blurred view of a stock exchange trading floor with traders and unreadable digital display screens, motion blur",
+  "takeaway": "Isi surat ini netral bagi emiten karena intinya hanya konfirmasi rutin bahwa tidak ada informasi tersembunyi di balik pergerakan harga sahamnya, bukan kabar baik atau buruk baru. Yang layak dipantau adalah tindakan korporasi yang disebut di jawaban nomor empat, karena jenis aksi seperti ini biasanya berpotensi mengubah jumlah saham beredar, yang pada gilirannya bisa mengubah porsi kepemilikan tiap pemegang saham dan besar laba yang didapat per lembar saham. Pembaca perlu membuka keterbukaan informasi PIPA tanggal 19 dan 26 Agustus 2026 untuk tahu persis rencana apa yang dimaksud, karena surat ini sendiri tidak menjelaskan ulang isinya. Yang perlu dipantau berikutnya adalah realisasi tindakan korporasi tersebut dalam jendela waktu tiga bulan sejak surat ini terbit, yakni sampai sekitar awal Desember 2026, serta apakah BEI meminta klarifikasi lanjutan jika volatilitas transaksi saham PIPA berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tugu-panggil-rupslb-ubah-skema-pemisahan-unit-syariah-ke-bpui",
+  "category": "Aksi Korporasi",
+  "title": "TUGU Panggil RUPSLB, Ubah Skema [Pemisahan] Unit Syariah ke BPUI",
+  "deck": "RUPSLB TUGU pada 29 September 2026 membahas pengangkatan komisaris independen dan pengalihan Unit Usaha Syariah ke perusahaan asuransi syariah lain, bagian konsolidasi asuransi BUMN oleh BPUI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:25:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2d4954302_496fd28043.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TUGU",
+  "tags": [
+   "TUGU",
+   "RUPSLB",
+   "unit syariah",
+   "Danantara"
+  ],
+  "body": [
+   "PT Asuransi Tugu Pratama Indonesia Tbk (TUGU) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 29 September 2026 pukul 14.00 WIB di Jakarta Selatan dan melalui fasilitas eASY.KSEI. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Jumat, 4 September 2026. Ada tiga agenda yang akan dimintakan persetujuan: perubahan pengurus perseroan, perubahan Rencana Kerja Pemisahan Unit Syariah (RKPUS), dan pelaksanaan pengalihan portofolio kepesertaan Unit Usaha Syariah.",
+   "Pada agenda pertama, TUGU meminta persetujuan pemegang saham untuk mengangkat Komisaris Independen dan anggota Dewan Pengawas Syariah (DPS) yang baru. Perseroan menyebut pengangkatan ini diperlukan untuk memenuhi kewajiban tata kelola perusahaan asuransi sesuai POJK Nomor 73/POJK.05/2016, agar posisi tersebut tidak kosong dan perseroan terhindar dari sanksi otoritas.",
+   "Agenda kedua dan ketiga menyangkut perubahan arah pemisahan unit syariah TUGU. Dalam RUPSLB tahun 2020, pemegang saham sempat menyepakati rencana memisahkan unit syariah dengan mendirikan perusahaan asuransi syariah baru. Kini rencana itu diubah menjadi pengalihan portofolio kepesertaan Unit Usaha Syariah ke perusahaan asuransi syariah lain yang sudah berizin usaha, namun nama perusahaan penerima belum disebutkan dalam dokumen ini. Perubahan ini mengikuti arahan PT Danantara Asset Management tertanggal 19 September 2025 dan 6 April 2026, serta surat PT Pertamina (Persero) tertanggal 22 April 2026, yang menugaskan PT Bahana Pembinaan Usaha Indonesia (BPUI) memimpin konsolidasi sejumlah perusahaan asuransi milik negara.",
+   "Bagi pemegang saham yang ingin memberi kuasa lewat surat fisik, dokumen kuasa harus dikirim ke Biro Administrasi Efek PT Datindo Entrycom paling lambat Kamis, 24 September 2026 pukul 15.00 WIB. Sementara deklarasi kehadiran atau kuasa elektronik melalui eASY.KSEI dapat diubah hingga Senin, 28 September 2026 pukul 12.00 WIB, sehari sebelum rapat."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom set up for a shareholders meeting, long table and rows of chairs, large windows, soft morning light",
+  "takeaway": "Laporan ini bersifat netral bagi TUGU karena belum ada angka nilai transaksi atau dampak keuangan yang diumumkan, dan perubahan skema ini pada dasarnya mengikuti arahan pemegang saham pengendali dalam konsolidasi asuransi milik negara, bukan keputusan bisnis independen TUGU. Yang tersentuh adalah struktur bisnis perseroan ke depan, karena unit usaha syariah yang sebelumnya direncanakan berdiri sendiri sebagai anak usaha baru, kini justru dialihkan ke perusahaan asuransi syariah lain, sehingga pemegang saham perlu menimbang apakah ini mengurangi potensi lini pendapatan syariah TUGU atau justru menghemat modal yang seharusnya disetor untuk mendirikan entitas baru. Investor juga perlu mencermati siapa perusahaan penerima portofolio itu nantinya, karena namanya belum diumumkan dalam pemanggilan ini. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 29 September 2026, termasuk apakah pemegang saham menyetujui ketiga agenda tersebut dan siapa yang terpilih sebagai Komisaris Independen dan Dewan Pengawas Syariah yang baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ggrm-catat-laba-rp2-97-triliun-semester-i-2026-utang-bank-lunas",
+  "category": "Aksi Korporasi",
+  "title": "GGRM catat laba [Rp2,97 triliun] semester I 2026, utang bank lunas",
+  "deck": "Materi public expose tahunan GGRM menunjukkan laba bersih semester I 2026 melonjak ke Rp2,97 triliun meski penjualan turun 7,2 persen, utang bank jangka pendek lunas total.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:24:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17943d18c3_ba843c446f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GGRM",
+  "tags": [
+   "GGRM",
+   "Gudang Garam",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "body": [
+   "Gudang Garam Tbk (GGRM) menyampaikan materi public expose tahunan yang akan digelar 10 September 2026, melalui surat resmi yang ditandatangani Corporate Secretary Heru Budiman. Susunan direksi tidak berubah sejak 2022, tetap dipimpin Presiden Direktur Susilo Wonowidjojo dan Wakil Presiden Direktur Indra Gunawan Wonowidjojo, bersama direktur lain yaitu Heru Budiman, Herry Susianto, Istata Taswin Siddharta, Andik Wahyudi, Hamdhany Halim, Slamet Budiono, dan Sony Sasono Rahmadi. Di jajaran komisaris, perseroan mengangkat satu komisaris baru, Adhi Wibhawa Wonowidjojo, melengkapi Presiden Komisaris Juni Setiawati Wonowidjojo serta Komisaris Independen Frank Willem van Gelder, Gotama Hengdratsonata, dan Hanlim Suprianto.",
+   "Dari sisi kinerja keuangan semester I 2026, pendapatan penjualan tercatat Rp41,177 triliun, turun 7,2 persen dari Rp44,369 triliun pada periode sama 2025, seiring volume penjualan yang turun 13,6 persen mengikuti tren pelemahan industri rokok. Namun beban pokok penjualan turun lebih dalam, 13,3 persen menjadi Rp35,192 triliun, sehingga laba kotor justru naik menjadi Rp5,986 triliun dengan margin 14,5 persen, dari sebelumnya Rp3,788 triliun dengan margin 8,5 persen, didorong kenaikan harga jual. Beban operasional turun 33,8 persen menjadi Rp2,262 triliun karena efisiensi belanja pemasaran dan kompensasi karyawan, sementara beban bunga anjlok dari Rp219 miliar menjadi hanya Rp5 miliar seiring pengurangan pinjaman. Hasilnya, laba bersih melonjak dari Rp120 miliar (margin 0,3 persen) menjadi Rp2,976 triliun (margin 7,2 persen).",
+   "Neraca per 30 Juni 2026 menunjukkan kas dan setara kas naik 119,7 persen menjadi Rp8,720 triliun dari Rp3,970 triliun setahun sebelumnya, sementara persediaan turun 14,2 persen menjadi Rp31,763 triliun. Total aset tercatat Rp77,787 triliun, turun tipis 2,5 persen. Yang mencolok, seluruh pinjaman bank jangka pendek yang sebesar Rp5,205 triliun pada tahun lalu kini menjadi nol alias lunas, sehingga total liabilitas turun 26,4 persen menjadi Rp13,779 triliun. Ekuitas pemegang saham naik 4,8 persen menjadi Rp64,008 triliun, dan rasio total liabilitas terhadap ekuitas turun dari 30,7 persen menjadi 21,5 persen.",
+   "Materi tersebut juga memaparkan tekanan industri: volume penjualan rokok nasional semester I 2026 turun 6,8 persen menjadi 105,1 miliar batang, dengan segmen SKM sebagai yang terbesar mengalami penurunan paling dalam, 10,3 persen, akibat konsumen beralih ke rokok yang tidak memenuhi ketentuan cukai dan daya beli kelompok menengah bawah yang belum pulih. Manajemen mencatat target penerimaan cukai pemerintah pada 2023 hingga 2025 tidak tercapai, dan menyerukan upaya pemberantasan peredaran rokok ilegal tersebut. Perseroan juga menyoroti prospek pertumbuhan ekonomi yang masih tidak pasti akibat inflasi impor, ketegangan geopolitik, dan pelebaran defisit fiskal."
+  ],
+  "fotoAdegan": "Workers hand-rolling kretek cigarettes in neat rows on a traditional factory production line, warm interior lighting",
+  "takeaway": "Laporan ini condong positif bagi Gudang Garam karena laba bersih semester I 2026 melonjak dari Rp120 miliar menjadi Rp2,97 triliun, sementara seluruh pinjaman bank jangka pendek senilai Rp5,2 triliun sudah dilunasi. Perbaikan ini terjadi meski volume penjualan turun 13,6 persen mengikuti tren industri, karena kenaikan harga jual dan efisiensi belanja mendongkrak margin laba kotor dari 8,5 persen menjadi 14,5 persen, sementara beban bunga nyaris hilang seiring utang yang menyusut drastis, sehingga rasio total liabilitas terhadap ekuitas turun dari 30,7 persen ke 21,5 persen, tanda perusahaan makin ringan beban utangnya dan punya bantalan kas lebih tebal. Yang perlu dipantau berikutnya adalah pelaksanaan public expose tahunan pada 10 September 2026, saat manajemen kemungkinan akan diminta menjelaskan lebih jauh dampak peredaran rokok yang tidak memenuhi ketentuan cukai terhadap volume penjualan dan penerimaan negara ke depan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "mpix-jelaskan-lonjakan-saham-14-56-ke-bursa-ungkap-akuisisi-mca",
+  "category": "Aksi Korporasi",
+  "title": "MPIX Jelaskan [Lonjakan] Saham 14,56% ke Bursa, Ungkap Akuisisi MCA",
+  "deck": "Bursa minta MPIX jelaskan lonjakan volume dan harga saham 14,56% pada 28 Agustus 2026; Perseroan sebut tak ada informasi material baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T15:01:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/739e68b7de_d1e6e956d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPIX",
+  "tags": [
+   "MPIX",
+   "volatilitas saham",
+   "MPStore",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Mitra Pedagang Indonesia Tbk (MPIX), pemilik jaringan warung mitra MPStore, menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat nomor S-11181/BEI.PP1/09-2026 tanggal 3 September 2026 soal lonjakan transaksi sahamnya. Menurut penjelasan Perseroan, pada 28 Agustus 2026 volume perdagangan saham MPIX melonjak menjadi 170.398.400 lembar dengan 15.186 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 15.235.900 lembar dengan 1.443 kali transaksi. Harga saham ditutup naik Rp15 atau 14,56 persen, dari Rp103 menjadi Rp118.",
+   "Direktur sekaligus Corporate Secretary MPIX, Hadiantono, menyatakan Perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi harga saham maupun keputusan investasi pemodal terkait lonjakan tersebut, sesuai aturan POJK Nomor 31/POJK.04/2015 dan ketentuan Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024, dan mengaku sudah mengonfirmasi langsung ke pemegang saham utama bahwa belum ada rencana tindakan korporasi maupun pelepasan status sebagai pemegang saham pengendali.",
+   "Dalam jawabannya, MPIX menyebut dua rencana korporasi yang sebelumnya sudah diumumkan dan masih berjalan. Pertama, kerja sama dengan PT VGreen Global Charging Station Investment Indonesia (VinFast) yang diumumkan 19 Mei 2026 untuk menyediakan lokasi stasiun tukar baterai kendaraan listrik di jaringan warung mitra MPStore, yang kini masih dalam proses pengajuan titik lokasi oleh Perseroan dan persetujuan dari VinFast. Kedua, rencana akuisisi 60 persen saham PT Mobile Coin Asia yang bergerak di jasa pembayaran, diumumkan 25 Juni 2026 sebagai bagian dari rencana Perseroan menambah lini usaha baru di bidang penyedia jasa pembayaran, dan saat ini masih menunggu persetujuan Bank Indonesia."
+  ],
+  "fotoAdegan": "A small neighborhood convenience store counter in Indonesia with shelves stocked and a motorbike parked outside, daylight",
+  "takeaway": "Penjelasan ini condong netral karena Perseroan hanya menegaskan tidak ada informasi material baru di balik lonjakan volume dan harga sahamnya, tanpa data keuangan baru yang mengubah gambaran fundamental. Dua agenda korporasi yang disebut ulang, yaitu kerja sama stasiun tukar baterai dengan VinFast dan rencana akuisisi 60 persen Mobile Coin Asia, sama-sama masih berstatus proses persetujuan sehingga belum tercermin di kas maupun pendapatan Perseroan; kalau akuisisi itu terealisasi, artinya ada dana keluar untuk pembelian saham sekaligus lini bisnis baru di jasa pembayaran yang bisa menambah pendapatan ke depan. Pemegang saham utama juga sudah memastikan belum ada rencana melepas status pengendali, sehingga struktur kendali Perseroan untuk sementara tidak berubah. Yang perlu dipantau selanjutnya adalah kelanjutan restu Bank Indonesia atas akuisisi Mobile Coin Asia dan proses persetujuan titik lokasi battery swap station oleh VinFast, karena keduanya yang akan menentukan apakah rencana ini benar-benar terealisasi atau sekadar terus berulang di setiap surat penjelasan ke bursa.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bq-sesuaikan-waran-terstruktur-usai-dividen-bmri-rp66-saham",
+  "category": "Aksi Korporasi",
+  "title": "BQ Sesuaikan [Waran Terstruktur] Usai Dividen BMRI Rp66/Saham",
+  "deck": "PT Korea Investment and Sekuritas Indonesia mengumumkan rencana penyesuaian rasio dan harga pelaksanaan dua waran terstruktur BMRI menyusul dividen tunai Rp66 per saham dari Bank Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T14:58:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/68bacceab4_7fe7fbafd9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BQ",
+  "tags": [
+   "BQ",
+   "BMRI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Korea Investment and Sekuritas Indonesia (BQ), selaku penerbit waran terstruktur, menyampaikan keterbukaan informasi soal rencana penyesuaian syarat dan ketentuan dua waran terstruktur berkode BMRIBQCU6A dan BMRIBQCX6A. Pemicunya adalah rencana PT Bank Mandiri (Persero) Tbk (BMRI) membagikan dividen tunai untuk tahun buku 2025 senilai total Rp6,159 triliun, setara Rp66 per saham, setelah keputusan Direksi BMRI disetujui Dewan Komisaris pada 9 September 2026.",
+   "Dokumen tersebut juga memuat jadwal lengkap pembagian dividen BMRI. Tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 15 September 2026, disusul tanggal ex dividen pada 16 September 2026. Di pasar tunai, cum dividen berlaku 17 September 2026 dan ex dividen 18 September 2026. Pemegang saham yang berhak menerima dividen adalah yang namanya tercatat dalam daftar pemegang saham per 17 September 2026 pukul 16.00 WIB, dengan pembayaran dividen dijadwalkan paling lambat 2 Oktober 2026.",
+   "Sesuai term sheet dan Bagian 3.9 Prospektus Waran Terstruktur, rasio pelaksanaan dan harga pelaksanaan BMRIBQCU6A dan BMRIBQCX6A akan disesuaikan dengan rumus yang memperhitungkan harga penutupan saham BMRI pada hari bursa terakhir perdagangan cum-entitlement (P) dikurangi nilai dividen per saham (D), dibagi P, lalu dikalikan rasio atau harga pelaksanaan yang berlaku sebelumnya. BQ menambahkan catatan penting bahwa penyesuaian ini bisa saja tidak dilakukan apabila menurut kebijaksanaan penerbit, tanpa ada kewajiban apa pun kepada pemegang waran, penyesuaian dianggap tidak diperlukan."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's Sudirman business district skyline at dusk with illuminated office towers and light traffic below",
+  "takeaway": "Laporan ini netral bagi BQ karena sifatnya mekanis, sekadar menjalankan formula baku yang sudah diatur sejak awal penerbitan waran, bukan keputusan bisnis baru dari BQ sendiri. Yang tersentuh di sini bukan pos keuangan BQ, melainkan struktur waran terstruktur, yakni instrumen turunan yang nilainya mengikuti saham BMRI. Setelah BMRI membayar dividen, harga sahamnya biasanya turun sebesar nilai dividen itu pada tanggal ex dividen, sehingga rasio dan harga pelaksanaan waran perlu disesuaikan agar pemegang waran tidak dirugikan oleh penurunan harga yang sebenarnya cuma efek pembagian dividen, bukan pelemahan kinerja BMRI. Yang perlu dipantau pemegang waran adalah tanggal ex dividen BMRI pada 16 September 2026 di pasar reguler dan negosiasi, serta pengumuman resmi berikutnya dari BQ soal angka rasio dan harga pelaksanaan yang baru, karena dokumen ini menyebutkan penyesuaian bisa saja dibatalkan sepenuhnya atas kebijakan penerbit.",
+  "sentimen": "netral"
  },
  {
   "slug": "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",

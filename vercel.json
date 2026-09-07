@@ -8,8 +8,17 @@
   "functions": {
     "api/telegram.js": {
       "maxDuration": 60
+    },
+    "api/pemicu-alur.js": {
+      "maxDuration": 30
     }
   },
+  "crons": [
+    {
+      "path": "/api/pemicu-alur",
+      "schedule": "5,35 * * * *"
+    }
+  ],
   "redirects": [
     {
       "source": "/(.*)",

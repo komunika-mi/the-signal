@@ -2,6 +2,83 @@
 // Dibuat otomatis oleh scripts/signal-harian.mjs - jangan diedit manual.
 var HARIAN_ARSIP = [
  {
+  "tanggal": "2026-09-07",
+  "tanggalLabel": "Senin, 7 September 2026",
+  "judul": "Kas Korporasi Besar Kokoh, yang Kecil Kian Retak",
+  "ringkas": "Senin ini IHSG bergerak tipis, tapi di balik angka korporasi dan sektor keuangan terlihat jarak yang melebar antara pemain besar yang kasnya aman dan pemain kecil yang mulai gagal bayar, sementara data pengawas keuangan dan bea cukai menunjukkan penindakan ekonomi ilegal yang terus menanjak.",
+  "benang": [
+   {
+    "judul": "Jarak kas korporasi besar dan kecil melebar",
+    "isi": "BMRI menyiapkan Rp2,4 triliun untuk melunasi obligasi yang jatuh tempo 30 September, dan SMF menyiapkan Rp260 miliar untuk obligasi yang jatuh tempo 20 Oktober, keduanya jauh sebelum tenggat. Di sisi lain, ADCP belum bisa membayar bunga obligasi Rp10,29 miliar yang jatuh tempo 8 September karena keterbatasan likuiditas. TGRA membukukan rugi Rp259,52 miliar dengan ekuitas ambles 83,45 persen setelah PLN mencairkan bank garansi akibat proyek pembangkit yang molor, sementara MKNT dipindahkan ke papan pemantauan khusus karena ekuitasnya sudah negatif. FORU mencatat rugi melonjak 902 persen dengan pendapatan anjlok 57,27 persen, dan SNLK mencatat rugi naik 182 persen pada tahun ketiga beruntun merugi. Polanya terlihat jelas, korporasi besar masih punya bantalan kas yang kuat, sementara makin banyak emiten kecil dan menengah yang kasnya tergerus. Penanda berikutnya adalah apakah ADCP akhirnya melunasi bunga itu setelah jatuh tempo besok."
+   },
+   {
+    "judul": "Laba bank tumbuh, napas pendanaan memendek",
+    "isi": "BTN membukukan laba semester I 2026 naik 40,8 persen jadi Rp2,4 triliun, ARTO alias Bank Jago naik 49 persen jadi Rp189 miliar, dan AMOR naik 17,9 persen jadi Rp85 miliar, semua ditopang pertumbuhan bisnis yang solid. Namun sektor keuangan justru jadi penekan paling dalam di IHSG hari ini, turun 0,76 persen saat sektor lain menguat. BTPS melaporkan rasio biaya terhadap pendapatan naik dari 48 ke 52 persen, dan Bank Indonesia mencatat pertumbuhan uang primer melambat dari 17,1 ke 16,3 persen di Agustus, pelambatan bulan kedua beruntun. Kombinasi ini menunjukkan tekanan pendanaan mulai terasa di bawah permukaan laba yang masih tumbuh. Yang akan menguji arah ini adalah data pertumbuhan kredit perbankan Agustus dari Bank Indonesia dan margin bunga bersih pada laporan kuartal berikutnya."
+   },
+   {
+    "judul": "Penindakan ekonomi ilegal terus menanjak",
+    "isi": "OJK meminta bank memeriksa atau memblokir 38.375 rekening terindikasi judi online hingga Juli 2026, naik dari 36.735 rekening pada periode sebelumnya. Bea Cukai mencatat 20.643 penindakan senilai Rp11,25 triliun sepanjang Januari-Agustus, sudah melampaui total sepanjang 2025 yang hanya 20.102 kasus, dengan barang bukti rokok ilegal 1,123 miliar batang mendekati capaian setahun penuh 2025 sebanyak 1,404 miliar batang. OJK juga menerima 30.328 aduan entitas keuangan ilegal hingga Agustus, sementara pusat pengaduan penipuan IASC sudah menerima 668.441 laporan dengan kerugian korban Rp206 miliar sejak beroperasi November 2024. Angka dari kedua lembaga ini sama-sama menunjukkan tren naik yang belum berhenti meski tahun belum usai. Arahnya kemungkinan besar total penindakan sepanjang 2026 akan melampaui capaian penuh 2025. Ini akan makin jelas dari data penindakan Bea Cukai bulan berikutnya atau rekapitulasi akhir tahun."
+   }
+  ],
+  "penutup": "Yang paling menentukan besok adalah apakah ADCP melunasi bunga obligasi Rp10,29 miliar yang jatuh tempo 8 September, penanda apakah retak kas emiten kecil berhenti di situ atau menjalar ke nama lain.",
+  "jumlahBahan": 52,
+  "bahanSlug": [
+   "ojk-minta-blokir-38-375-rekening-judi-online",
+   "medc-koreksi-laporan-dana-obligasi-rp990-m-belum-terpakai",
+   "arma-revisi-realisasi-dana-sukuk-rp1-68-triliun-ke-tambang",
+   "sphp-berganti-nama-jadi-beras-kita-meluncur-20-oktober",
+   "foru-jawab-bursa-rugi-melonjak-902-pendapatan-anjlok-57",
+   "ikpm-dana-ipo-terserap-96-pendapatan-meleset-jauh-dari-target",
+   "bbtn-cetak-laba-rp2-4-triliun-di-semester-i-2026-naik-40-8",
+   "snlk-ungkap-ke-bursa-rugi-melonjak-182-sepanjang-2025",
+   "bea-cukai-sita-barang-rp11-25-triliun-hingga-agustus-2026",
+   "tins-catat-laba-melonjak-805-jelang-public-expose-10-sep",
+   "bmri-siapkan-dana-rp2-4-triliun-lunasi-obligasi-jatuh-tempo",
+   "adcp-tunda-bayar-bunga-obligasi-iii-rp10-29-miliar",
+   "imjs-jawab-bursa-soal-volatilitas-ungkap-anak-usaha-baru",
+   "indonesia-jadi-co-host-cismef-2026-di-china",
+   "imas-bantah-ada-info-material-di-balik-volatilitas-saham",
+   "tgra-bukukan-rugi-rp259-5-miliar-pln-cairkan-bank-garansi",
+   "ibst-partisipasi-vto-iforte-tembus-76-diperpanjang-ke-okt",
+   "ihsg-turun-0-25-sektor-keuangan-paling-tertekan",
+   "pack-bantah-rumor-rights-issue-ungkap-sumber-lonjakan-laba",
+   "dr-waran-bmri-disesuaikan-usai-dividen-rp66-per-saham",
+   "pnbs-raih-peringkat-idaa-dari-pefindo-outlook-stabil",
+   "asii-laba-semester-i-turun-19-buyback-saham-digenjot-rp8-t",
+   "telkom-rombak-bisnis-pecah-jadi-lima-segmen-usaha",
+   "goto-jadwalkan-rupslb-pada-14-oktober-2026",
+   "kemenkeu-ajukan-anggaran-rp49-80-triliun-untuk-2027",
+   "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
+   "ojk-terima-30-328-aduan-keuangan-ilegal-hingga-agustus-2026",
+   "dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah",
+   "aces-laba-bersih-1h26-naik-33-jadi-rp390-miliar-kinerja",
+   "bkdp-keluar-dari-pemantauan-khusus-bei-per-8-september-2026",
+   "mknt-pindah-ke-papan-pemantauan-khusus-bei",
+   "ucid-jadwalkan-rupslb-14-oktober-agenda-belum-diumumkan",
+   "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
+   "uji-lab-sebut-90-persen-beras-fortifikasi-melanggar",
+   "60-persen-angkatan-kerja-ri-berada-di-sektor-informal",
+   "ekspor-pet-food-ri-tumbuh-pangsa-pasar-global-cuma-0-03",
+   "cadangan-devisa-ri-naik-jadi-us-146-5-miliar-agustus-2026",
+   "pertumbuhan-uang-primer-bi-melambat-ke-16-3-agustus",
+   "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
+   "btps-rambah-bisnis-wealth-management-dan-pembiayaan-ke-nbfi",
+   "jaya-tak-ada-informasi-material-di-balik-volatilitas-saham",
+   "amor-bukukan-laba-rp85-miliar-usulkan-dividen-rp36-saham",
+   "inco-bukukan-laba-bersih-us-61-juta-2q26-naik-39-qoq",
+   "fast-jadwalkan-rupslb-14-oktober-agenda-menyusul",
+   "ihsg-dibuka-menguat-0-24-persen-ke-level-6-652",
+   "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
+   "harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram",
+   "rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah",
+   "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
+   "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
+   "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
+   "eraa-jelaskan-ke-bei-lonjakan-harga-saham-20-dalam-3-hari"
+  ],
+  "dibuat": "2026-09-07T18:50:16.129Z"
+ },
+ {
   "tanggal": "2026-09-04",
   "tanggalLabel": "Jumat, 4 September 2026",
   "judul": "Margin Bank Tertekan, Free Float Menyempit, Kas Emiten Retak",

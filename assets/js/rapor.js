@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-05T00:43:48.149+07:00",
+ "diperbarui": "2026-09-08T01:51:44.852+07:00",
  "entri": [
+  {
+   "id": "2026-09-07-3",
+   "edisi": "2026-09-07",
+   "benang": "Penindakan ekonomi ilegal terus menanjak",
+   "klaim": "Total penindakan ekonomi ilegal sepanjang 2026 kemungkinan besar akan melampaui capaian penuh sepanjang 2025.",
+   "penanda": "Data penindakan Bea Cukai bulan berikutnya atau rekapitulasi akhir tahun.",
+   "tenggat": "2026-12-31",
+   "tenggatLabel": "rekapitulasi akhir tahun",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-07-2",
+   "edisi": "2026-09-07",
+   "benang": "Laba bank tumbuh, napas pendanaan memendek",
+   "klaim": "Tekanan pendanaan sudah mulai terasa di bawah permukaan laba perbankan yang masih tumbuh, meski BTN, ARTO, dan AMOR masih membukukan kenaikan laba yang solid.",
+   "penanda": "Data pertumbuhan kredit perbankan Agustus dari Bank Indonesia dan margin bunga bersih pada laporan kuartal berikutnya.",
+   "tenggat": null,
+   "tenggatLabel": "data pertumbuhan kredit perbankan Agustus dari Bank Indonesia dan margin bunga bersih pada laporan kuartal berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-07-1",
+   "edisi": "2026-09-07",
+   "benang": "Jarak kas korporasi besar dan kecil melebar",
+   "klaim": "Korporasi besar masih punya bantalan kas yang kuat sementara makin banyak emiten kecil dan menengah yang kasnya tergerus, sehingga jarak keduanya akan terus melebar.",
+   "penanda": "Apakah ADCP akhirnya melunasi bunga obligasi Rp10,29 miliar setelah lewat jatuh tempo 8 September.",
+   "tenggat": "2026-09-08",
+   "tenggatLabel": "setelah jatuh tempo besok",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-04-3",
    "edisi": "2026-09-04",
@@ -424,8 +457,13 @@ var RAPOR = {
    "penanda": "Harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan",
    "tenggat": "2026-09-01",
    "tenggatLabel": "harga acuan ekspor Kemendag periode 1-15 September serta arus masuk unit ETF emas pekan depan",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "harga-emas-antam-hari-ini-turun-tipis-jadi-rp2-637-000-gram",
+    "judul": "Harga Emas Antam Hari Ini Turun Tipis Jadi Rp2.637.000/Gram",
+    "tanggal": "7 September 2026",
+    "alasan": "Arsip menunjukkan harga emas fisik (Antam) justru turun, bukan naik, sehingga bertentangan dengan klaim kenaikan permintaan lewat jalur harga fisik, sementara tidak ada artikel soal HPE Kemendag atau arus masuk ETF emas."
+   }
   },
   {
    "id": "2026-08-18-1",

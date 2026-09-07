@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
+  "deck": "PT Sarana Mitra Luas Tbk meminta tambahan 14 hari kepada BEI untuk menjawab permintaan penjelasan soal laporan keuangan per 30 Juni 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMIL",
+   "Bursa Efek Indonesia",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8f197d991_90a9e4284e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-rambah-bisnis-wealth-management-dan-pembiayaan-ke-nbfi",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rambah Bisnis [Wealth Management] dan Pembiayaan ke NBFI",
+  "deck": "Materi paparan publik terbaru BTPS memuat rincian bisnis wealth management dan pembiayaan ke lembaga keuangan nonbank, di tengah laba semester satu 2026 yang hanya tumbuh tipis.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "paparan publik",
+   "wealth management",
+   "bank syariah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8e63eca3_cc42628a24.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jaya-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "JAYA: Tak Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "PT Armada Berjaya Trans Tbk menjawab permintaan penjelasan Bursa soal volatilitas sahamnya, menegaskan tidak ada informasi material dan pemegang saham utama tetap mempertahankan kepemilikannya.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAYA",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51564277cf_8d86c9d8d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amor-bukukan-laba-rp85-miliar-usulkan-dividen-rp36-saham",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Bukukan Laba Rp85 Miliar, Usulkan [Dividen] Rp36/Saham",
+  "deck": "Laba bersih Ashmore Asset Management Indonesia (AMOR) naik 17,9 persen menjadi Rp85 miliar pada tahun fiskal yang berakhir Juni 2026, meski dana kelolaan sempat turun di kuartal terakhir.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMOR",
+   "laba bersih",
+   "dividen",
+   "manajemen investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8216708211_b470482b27.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-bukukan-laba-bersih-us-61-juta-2q26-naik-39-qoq",
+  "category": "Aksi Korporasi",
+  "title": "INCO Bukukan Laba Bersih US$61 Juta 2Q26, Naik 39% [QoQ]",
+  "deck": "Vale Indonesia memaparkan kinerja keuangan kuartal kedua 2026 dalam materi Public Expose Tahunan, dengan laba bersih dan produksi nikel matte naik signifikan.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "public expose",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28863c127d_2268e990a5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fast-jadwalkan-rupslb-14-oktober-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "FAST Jadwalkan [RUPSLB] 14 Oktober, Agenda Menyusul",
+  "deck": "PT Fast Food Indonesia Tbk mengumumkan rencana RUPSLB pada 14 Oktober 2026. Agenda resminya baru akan diumumkan lewat pemanggilan pada 22 September.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FAST",
+   "RUPSLB",
+   "Fast Food Indonesia",
+   "KFC Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee80ced69_1133af7256.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
+  "category": "Aksi Korporasi",
+  "title": "REFI Tunda Lapkeu Kuartal II, Audit demi [Obligasi] II",
+  "deck": "PT Usaha Pembiayaan Reliance Indonesia menunda penyampaian laporan keuangan interim Juni 2026 karena sedang diaudit untuk persiapan penerbitan Obligasi II REFI.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "REFI",
+   "obligasi",
+   "laporan keuangan",
+   "multifinance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/16fe256439_90ee4c5c6e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Setop Pabrik Konvensional, [Ekspansi] ke Surabaya 2027",
+  "deck": "EPAC berencana menutup pabrik kemasan fleksibel konvensional akhir 2026 dan membangun pabrik digital printing baru di Surabaya pada 2027.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EPAC",
+   "ekspansi",
+   "restrukturisasi",
+   "kemasan fleksibel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a86f3c3ae_94e04ee0df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
   "category": "Energi",
   "title": "Usai Erupsi 25 Jam, Anak Krakatau Tetap Level [Siaga]",
@@ -6424,141 +6552,5 @@ var ARTICLES = [
    "nilai tukar"
   ],
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693"
- },
- {
-  "slug": "kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan",
-  "category": "UMKM",
-  "title": "Kisah Astuti, Nasabah Mekaar Ubah Jamur Jadi [Camilan]",
-  "deck": "Astuti, nasabah pembiayaan ultra mikro PNM Mekaar, mengolah jamur tiram yang tak laku jual menjadi jamur krispi dan stik jamur agar tidak terbuang dan bernilai jual lebih tinggi.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/kisah-astuti-nasabah-mekaar-ubah-jamur-jadi-camilan.jpg",
-  "imageV": "mtenhhbg",
-  "tags": [
-   "PNM Mekaar",
-   "UMKM",
-   "Jamur Tiram",
-   "Pembiayaan Ultra Mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463498-cerita-astuti-bangun-usaha-hingga-pimpin-bank-sampah-tak-ingin-jamur-terbuang"
- },
- {
-  "slug": "winr-pemegang-saham-lepas-16-49-juta-saham-demi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Lepas 16,49 Juta Saham demi [Free Float]",
-  "deck": "Pemegang saham nonpengendali WINR menjual 16,49 juta saham seharga Rp23 per lembar pada 20 Agustus 2026, hak suaranya turun tipis jadi 49,36 persen.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4241-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta",
-  "category": "BUMN",
-  "title": "Danantara Siapkan [141 Ribu] Rusun Subsidi di Meikarta",
-  "deck": "Danantara memamerkan dua tipe unit rusun subsidi untuk MBR di Meikarta, bagian dari rencana 141 ribu unit yang lahannya baru diterima sebagai hibah dari Kemenkeu.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/danantara-siapkan-141-ribu-rusun-subsidi-di-meikarta.jpg",
-  "imageV": "mtenhhth",
-  "tags": [
-   "rusun subsidi",
-   "Danantara",
-   "Meikarta",
-   "MBR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463455-141-ribu-rusun-subsidi-disiapkan-di-meikarta-ini-dua-tipe-hunian-yang-dipamerkan-danantara"
- },
- {
-  "slug": "mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan",
-  "category": "Makroekonomi",
-  "title": "Mendag Cek Pasar Banyuwangi, Ayam [Mendekati] Harga Acuan",
-  "deck": "Menteri Perdagangan memantau harga pangan di Pasar Rogojampi, Banyuwangi. Ayam ras mendekati harga acuan, sementara telur dan bawang merah masih jauh di bawahnya.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/mendag-cek-pasar-banyuwangi-ayam-mendekati-harga-acuan.jpg",
-  "imageV": "mtebq3d7",
-  "tags": [
-   "harga pangan",
-   "Kemendag",
-   "HET",
-   "Banyuwangi"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pantau-pasar-rogojampi-tegaskan-upaya-pemerintah-jaga-keseimbangan-harga-pasar",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag",
-  "category": "UMKM",
-  "title": "Mendag Ajak UMKM Banyuwangi Ikut Program [Ekspor] Kemendag",
-  "deck": "Mendag Budi Santoso mengajak UMKM Banyuwangi memakai program ekspor Kemendag dan Trade Expo Indonesia, saat mengunjungi produsen furnitur bersertifikat legalitas kayu.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/mendag-ajak-umkm-banyuwangi-ikut-program-ekspor-kemendag.jpg",
-  "imageV": "mtebqlch",
-  "tags": [
-   "UMKM",
-   "ekspor",
-   "Kemendag",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-ajak-umkm-banyuwangi-manfaatkan-program-pengembangan-ekspor-kemendag",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi",
-  "category": "Global",
-  "title": "RI-Cili Perluas Akses Pasar, Cili Incar Impor [Daging] Sapi",
-  "deck": "Indonesia dan Cili membahas perluasan akses pasar dua arah, dari produk olahan RI hingga daging sapi dan susu Cili, seiring pemanfaatan IC-CEPA yang naik pada 2025.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/ri-cili-perluas-akses-pasar-cili-incar-impor-daging-sapi.jpg",
-  "imageV": "mtebqumu",
-  "tags": [
-   "IC-CEPA",
-   "Indonesia-Cili",
-   "ekspor kakao",
-   "impor daging sapi"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-akses-pasar-dua-arah-kemendag-perkuat-perdagangan-indonesia-cili",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "tapg-direksi-jual-lagi-850-ribu-saham-dalam-sepekan",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi [Jual] Lagi 850 Ribu Saham dalam Sepekan",
-  "deck": "George Oetomo, direksi TAPG, melepas 850.000 saham pada 27 Agustus 2026, penjualan kedua dalam kurang dari dua pekan setelah pelepasan 2,35 juta saham sebelumnya.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "Triputra Agro Persada",
-   "transaksi saham direksi",
-   "divestasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-29082026-4500-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-delisting-saham-spusf-efektif-29-agustus-imbas-ojk",
-  "category": "Aksi Korporasi",
-  "title": "BEI [Delisting] Saham SPUSF Efektif 29 Agustus, Imbas OJK",
-  "deck": "Bursa Efek Indonesia resmi mencabut pencatatan saham SPUSF mulai 29 Agustus 2026 atas perintah OJK, tanpa rincian alasan dalam pengumuman.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SPUSF",
-   "delisting",
-   "OJK",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202608/20260829_SPUSF_B006_0c8e56df-0554-4aae-82f1-78deee6b59e6-20260829174954.pdf",
-  "sourceLabel": "IDX"
  }
 ];

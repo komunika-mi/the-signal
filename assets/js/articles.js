@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
+  "deck": "PT Sarana Mitra Luas Tbk meminta tambahan 14 hari kepada BEI untuk menjawab permintaan penjelasan soal laporan keuangan per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T11:37:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8f197d991_90a9e4284e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMIL",
+  "tags": [
+   "SMIL",
+   "Bursa Efek Indonesia",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sarana Mitra Luas Tbk (SMIL) meminta perpanjangan waktu 14 hari kepada Bursa Efek Indonesia untuk menjawab permintaan penjelasan terkait laporan keuangan perseroan per 30 Juni 2026. Permintaan itu disampaikan lewat surat resmi bernomor 042/CORSEC/SMIL/VIII/2026 tertanggal 7 September 2026, ditandatangani Direktur Utama Hadi Suhermin.",
+   "Dalam surat itu disebutkan bahwa BEI sebelumnya mengirim surat permintaan penjelasan nomor S-11287/BEI.PP2/09-2026 tertanggal 3 September 2026, yang diterima SMIL pada 4 September 2026. Perseroan beralasan butuh waktu tambahan untuk mengumpulkan data dan mereview kembali dokumen yang diperlukan sebelum memberi jawaban resmi ke bursa.",
+   "Dokumen yang diunggah perseroan tidak merinci substansi pertanyaan BEI atas laporan keuangan tersebut. Isi surat hanya memuat permohonan tambahan waktu, tanpa penjelasan lebih lanjut mengenai pos mana dalam laporan keuangan per 30 Juni 2026 yang dipertanyakan bursa."
+  ],
+  "fotoAdegan": "Rows of yellow forklifts and material handling equipment parked in an industrial rental yard under overcast sky in Indonesia",
+  "takeaway": "Laporan ini condong netral bagi SMIL, sebab dokumen yang beredar cuma berisi permohonan tambahan waktu, bukan jawaban atas substansi pertanyaan bursa, sehingga belum ada dasar konkret untuk menilai baik atau buruknya. Yang tersentuh di sini bukan pos keuangan tertentu seperti ekuitas atau arus kas, melainkan kepatuhan dan keterbukaan informasi ke bursa, sebab pelaku pasar biasanya menilai seberapa cepat dan jelas emiten menjawab pertanyaan regulator soal laporan keuangannya sebagai sinyal tata kelola. Yang perlu dipantau berikutnya adalah jawaban resmi SMIL ke BEI dalam jangka waktu tambahan 14 hari yang diminta sejak surat ini terbit 7 September 2026, serta isi penjelasan yang akhirnya diberikan soal laporan keuangan per 30 Juni 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btps-rambah-bisnis-wealth-management-dan-pembiayaan-ke-nbfi",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rambah Bisnis [Wealth Management] dan Pembiayaan ke NBFI",
+  "deck": "Materi paparan publik terbaru BTPS memuat rincian bisnis wealth management dan pembiayaan ke lembaga keuangan nonbank, di tengah laba semester satu 2026 yang hanya tumbuh tipis.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T11:16:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df8e63eca3_cc42628a24.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "paparan publik",
+   "wealth management",
+   "bank syariah"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menyampaikan kembali materi paparan publik tahunan 2026 setelah dua kali koreksi, dengan versi terbaru memuat tambahan informasi dibanding surat sebelumnya. Materi ini disampaikan bertepatan dengan paparan publik langsung yang digelar 7 September 2026 pukul 14.00 sampai 15.00 WIB, membahas kinerja keuangan perseroan per 30 Juni 2026. Surat ditandatangani oleh Arief Ismail selaku Direktur Kepatuhan dan Sekretaris Perusahaan.",
+   "Dari sisi keuangan, total aset BTPS naik 8 persen secara tahunan menjadi Rp23,3 triliun per Juni 2026, dengan pembiayaan kotor tumbuh 9 persen menjadi Rp11,03 triliun dan ekuitas naik 6 persen menjadi Rp10,26 triliun. Laba bersih setelah pajak semester pertama 2026 tercatat Rp655 miliar, naik tipis 2 persen dibanding Rp644 miliar pada periode yang sama tahun lalu. Rasio biaya terhadap pendapatan (cost to income) justru naik dari 48 persen menjadi 52 persen, sementara return on equity turun dari 14,2 persen menjadi 13,5 persen. Kualitas pembiayaan membaik, dengan rasio pembiayaan bermasalah (NPF) turun dari 3,34 persen menjadi 2,74 persen.",
+   "Materi ini juga merinci ekspansi bisnis baru BTPS di luar pembiayaan kelompok inti. Di lini wealth management, bank menjual sukuk negara ST15, SR024, dan ST16 dengan total dana kelolaan Rp16,9 miliar, sembari masih mengurus izin penjualan di pasar sekunder. Bank juga meluncurkan produk bancassurance Guardia Rencana Syariah bersama Allianz Syariah dengan dana kelolaan Rp1,5 miliar, serta enam seri Cash Waqf Linked Deposit dengan total Rp3,7 miliar. Di sisi lain, BTPS mulai membiayai lembaga keuangan nonbank (NBFI) bertenor di bawah 12 bulan, dengan mitra yang disebutkan yakni Pegadaian, CIMB Niaga Auto Finance, Sarana Multi Infrastruktur, dan Sarana Multigriya Financial. Program Individual Financing tercatat memiliki outstanding Rp59,7 miliar dari 4.368 nasabah dengan tingkat pembayaran 97,2 persen, dan perluasan ke 60 lokasi di seluruh Indonesia disebut telah rampung dilaksanakan pada Juli 2026.",
+   "Materi ini turut mengulang rencana pembelian kembali saham (buyback) hingga Rp1 triliun atau maksimal 10 persen dari jumlah saham beredar, yang masih menunggu persetujuan Rapat Umum Pemegang Saham Luar Biasa pada 13 Oktober 2026. Bila disetujui, pelaksanaan buyback berjalan 12 bulan mulai 14 Oktober 2026 dan didanai penuh dari ekuitas internal perseroan."
+  ],
+  "fotoAdegan": "Women gathered in a circle for a weekly community savings and repayment meeting in a rural Indonesian village, simple wooden benches, morning light",
+  "takeaway": "Laporan ini condong netral bagi BTPS, karena kinerja semester satu masih tumbuh tapi labanya menipis, sementara bisnis baru yang dipamerkan masih terlalu kecil untuk mengubah gambaran fundamental bank. Rasio biaya terhadap pendapatan naik dari 48 persen ke 52 persen, artinya bank mengeluarkan porsi biaya operasional yang lebih besar untuk menghasilkan pendapatan yang sama, dan return on equity, yakni ukuran seberapa besar laba dibanding modal milik pemegang saham, turun dari 14,2 persen ke 13,5 persen. Sementara itu, dana kelolaan gabungan dari tiga produk wealth management baru cuma sekitar Rp22,1 miliar, jauh di bawah aset bank yang mencapai Rp23,3 triliun, sehingga belum bisa dianggap sebagai sumber pendapatan yang berarti untuk saat ini. Yang perlu dipantau selanjutnya adalah RUPSLB pada 13 Oktober 2026 yang akan menentukan lolos tidaknya rencana pembelian kembali saham senilai Rp1 triliun, serta kelanjutan proses izin penjualan sukuk di pasar sekunder yang disebut masih berjalan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jaya-tak-ada-informasi-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "JAYA: Tak Ada Informasi Material di Balik [Volatilitas] Saham",
+  "deck": "PT Armada Berjaya Trans Tbk menjawab permintaan penjelasan Bursa soal volatilitas sahamnya, menegaskan tidak ada informasi material dan pemegang saham utama tetap mempertahankan kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T11:16:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51564277cf_8d86c9d8d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAYA",
+  "tags": [
+   "JAYA",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Armada Berjaya Trans Tbk (JAYA) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI melalui surat nomor S-11332/BEI.PP1/09-2026 terkait volatilitas transaksi efek perseroan. Balasan bernomor 001/ABT/IX/2026 tertanggal 7 September 2026 itu ditandatangani Komisaris Utama JAP Astrid Patricia. Dalam surat tersebut, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan juga tidak mengetahui informasi yang bisa memengaruhi harga efeknya sesuai ketentuan III.2.1 Peraturan Nomor I-E BEI.",
+   "Perseroan juga menjawab bahwa mereka tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham dan laporan aktivitas menjaminkan (menggadaikan) saham perusahaan terbuka. Soal rencana ke depan, perseroan menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, setidaknya hingga tiga bulan mendatang, termasuk yang berpotensi berdampak pada status pencatatan sahamnya di bursa. Perseroan menambahkan tidak ada informasi atau fakta penting lain yang material dan belum diungkapkan ke publik.",
+   "Untuk poin terakhir mengenai rencana pemegang saham utama dan pengendali, Corporate Secretary disebut telah menanyakan langsung kepada pemegang saham utama sebelum menjawab konfirmasi tersebut. Hasilnya, pemegang saham utama menyatakan berkomitmen penuh untuk mempertahankan kepemilikan sahamnya di JAYA, tanpa menyebut rencana penambahan atau pengurangan porsi kepemilikan."
+  ],
+  "fotoAdegan": "Fleet of cargo trucks parked in rows at a logistics yard at dawn, drivers doing pre-trip vehicle checks",
+  "takeaway": "Penjelasan ini netral bagi fundamental JAYA, karena isinya hanya menegaskan tidak ada informasi tersembunyi di balik lonjakan aktivitas transaksi sahamnya, bukan kabar baik atau buruk yang baru. Surat semacam ini biasanya dipicu oleh lonjakan harga atau volume transaksi di luar kebiasaan, dan poin yang relevan bagi pemegang saham adalah konfirmasi bahwa pemegang saham utama tidak berencana mengubah porsi kepemilikannya, sehingga struktur pengendalian dan hak suara di perseroan untuk saat ini tetap sama. Yang perlu dipantau selanjutnya adalah pergerakan transaksi saham JAYA dalam beberapa hari ke depan untuk melihat apakah volatilitasnya mereda, serta apakah perseroan mengeluarkan keterbukaan informasi baru jika rencana aksi korporasi berubah sebelum jangka waktu tiga bulan yang disebut dalam surat ini berakhir, yakni sekitar awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "amor-bukukan-laba-rp85-miliar-usulkan-dividen-rp36-saham",
+  "category": "Aksi Korporasi",
+  "title": "AMOR Bukukan Laba Rp85 Miliar, Usulkan [Dividen] Rp36/Saham",
+  "deck": "Laba bersih Ashmore Asset Management Indonesia (AMOR) naik 17,9 persen menjadi Rp85 miliar pada tahun fiskal yang berakhir Juni 2026, meski dana kelolaan sempat turun di kuartal terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T11:04:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8216708211_b470482b27.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMOR",
+  "tags": [
+   "AMOR",
+   "laba bersih",
+   "dividen",
+   "manajemen investasi"
+  ],
+  "body": [
+   "PT Ashmore Asset Management Indonesia Tbk (AMOR) menyampaikan laporan keuangan tahunan auditan untuk periode yang berakhir 30 Juni 2026 kepada Bursa Efek Indonesia, dengan opini wajar tanpa pengecualian dari auditor. Sepanjang tahun fiskal tersebut, pendapatan bersih perusahaan naik 17,3 persen menjadi Rp205 miliar, sementara laba bersih tumbuh 17,9 persen menjadi Rp85 miliar dan laba per saham naik dari Rp33 menjadi Rp38.",
+   "Pada kuartal terakhir tahun fiskal, yakni April sampai Juni 2026, dana kelolaan (AuM) perusahaan justru turun 8,0 persen dari kuartal sebelumnya menjadi Rp32,4 triliun. Penurunan sebesar Rp2,8 triliun ini berasal dari arus keluar dana investor bersih sebesar Rp0,1 triliun dan penurunan nilai investasi sebesar Rp2,7 triliun, seiring Indeks Harga Saham Gabungan (IHSG) yang terkontraksi 20 persen dalam kuartal itu dan suku bunga acuan Bank Indonesia yang naik dari 4,75 persen ke 5,75 persen. Meski dana kelolaan turun, pendapatan bersih kuartal ini tetap naik 1,6 persen menjadi Rp59,2 miliar dan laba bersih naik 18,0 persen menjadi Rp27,7 miliar, karena beban operasional pada kuartal tersebut justru turun 3,6 persen.",
+   "Untuk keseluruhan tahun fiskal, dana kelolaan tumbuh 35,3 persen atau bertambah Rp8,5 triliun menjadi didorong oleh arus masuk dana investor bersih sebesar Rp11,6 triliun, yang sebagian tergerus oleh penurunan nilai investasi Rp3,1 triliun akibat IHSG yang turun 18,5 persen dan rupiah yang melemah 9,2 persen sepanjang tahun berjalan. EBITDA tumbuh 15,1 persen menjadi Rp94 miliar dengan margin 46 persen. Perusahaan mencatat kas Rp130 miliar dan investasi modal awal senilai Rp131 miliar per akhir Juni 2026. Manajemen mengusulkan dividen final Rp23 per saham, sehingga total dividen tahun ini menjadi Rp36 per saham atau setara 93 persen dari laba bersih, jauh di atas kebijakan minimal pembagian 50 persen laba bersih setiap tahun. Usulan ini masih menunggu persetujuan Rapat Umum Pemegang Saham.",
+   "Presiden Direktur Ashmore, Ronaldus Gandahusada, mengatakan perusahaan tetap fokus menjalankan strategi di tengah volatilitas tinggi akibat faktor geopolitik dan kekhawatiran makroekonomi domestik. Ia menyebut strategi ekuitas perusahaan mengungguli tolok ukur pasar rata-rata 11,4 persen dan strategi pendapatan tetap unggul 1,2 persen sepanjang dua belas bulan terakhir."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's SCBD business district under afternoon light, professionals walking on an elevated skybridge below.",
+  "takeaway": "Laporan ini condong positif bagi Ashmore karena pendapatan dan laba tahunan sama-sama tumbuh dua digit dan perusahaan mengusulkan membagikan 93 persen dari laba bersihnya, jauh di atas kebijakan minimal 50 persen. Yang tersentuh di sini adalah laba per saham, yang naik dari Rp33 menjadi Rp38, serta posisi kas perusahaan yang mencapai Rp130 miliar ditambah investasi modal awal Rp131 miliar, keduanya jadi ukuran seberapa leluasa perusahaan mendanai operasional dan membagikan dividen tanpa perlu berutang. Meski begitu, kuartal terakhir menunjukkan sinyal pengereman karena dana kelolaan sempat turun 8 persen akibat investor menarik dana dan pasar saham melemah tajam saat suku bunga acuan naik. Yang perlu dipantau berikutnya adalah keputusan Rapat Umum Pemegang Saham atas usulan dividen final Rp23 per saham ini, serta apakah tren arus keluar dana investor pada kuartal terakhir hanya sementara atau berlanjut ke tahun fiskal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inco-bukukan-laba-bersih-us-61-juta-2q26-naik-39-qoq",
+  "category": "Aksi Korporasi",
+  "title": "INCO Bukukan Laba Bersih US$61 Juta 2Q26, Naik 39% [QoQ]",
+  "deck": "Vale Indonesia memaparkan kinerja keuangan kuartal kedua 2026 dalam materi Public Expose Tahunan, dengan laba bersih dan produksi nikel matte naik signifikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T10:34:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/28863c127d_2268e990a5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "public expose",
+   "nikel"
+  ],
+  "body": [
+   "PT Vale Indonesia Tbk (INCO) menyampaikan materi Public Expose Tahunan yang akan dipresentasikan di Jakarta pada 10 September 2026, memuat rincian kinerja kuartal kedua 2026. Perusahaan mencatat pendapatan US$290 juta pada kuartal kedua, naik 15 persen dibandingkan kuartal sebelumnya, didorong oleh volume produksi yang lebih tinggi dan harga nikel matte yang naik 4 persen menjadi US$14.765 per ton. EBITDA, yaitu laba operasional sebelum bunga, pajak, dan penyusutan, melonjak 45 persen menjadi US$116 juta, sementara laba bersih mencapai US$61 juta, naik 39 persen dari kuartal sebelumnya.",
+   "Dari sisi operasional, produksi nikel matte tercatat 16.153 ton dengan pengiriman 13.932 ton, meningkat setelah proyek perbaikan besar Furnace 3 (Furnace 3 Rebuild) rampung pada Juni 2026. Perusahaan juga melaporkan penjualan bijih nikel dari blok Bahodopi dan Pomalaa yang berlanjut sebagai bagian dari strategi diversifikasi pendapatan. Untuk semester kedua 2026, INCO menyebut tambahan persetujuan RKAB (rencana kerja dan anggaran biaya tambang yang menjadi syarat produksi) telah diperoleh, yang menurut perusahaan memperkuat kepastian produksi ke depan.",
+   "Pada proyek pertumbuhan, perusahaan menyebutkan investasi senilai US$7,2 miliar untuk program pengembangan hilirisasi nikel di Sulawesi yang mencakup tiga blok tambang yaitu Sorowako, Bahodopi, dan Pomalaa. Dua smelter dalam program tersebut telah mencapai penyelesaian mekanis dan perusahaan tengah menuju kesiapan operasional untuk fasilitas HPAL (proses pengolahan bijih nikel kadar rendah). Untuk sisa tahun ini, manajemen menargetkan biaya kas produksi dipertahankan di kisaran atau di bawah US$10.000 per ton, dan menyebut posisi likuiditas yang menguat memungkinkan penarikan pinjaman lebih rendah dari perkiraan awal."
+  ],
+  "fotoAdegan": "Workers in safety helmets and gear inspecting a large industrial nickel smelting furnace at a mining site, early morning haze",
+  "takeaway": "Laporan ini condong positif bagi INCO karena hampir semua indikator utama kompak naik dibandingkan kuartal sebelumnya: pendapatan naik 15 persen, EBITDA naik 45 persen, dan laba bersih naik 39 persen, dengan pemicu jelas yaitu rampungnya perbaikan Furnace 3 dan harga jual nikel matte yang membaik. Yang tersentuh di sini adalah EBITDA, yakni ukuran laba murni dari kegiatan operasional sebelum dipotong bunga, pajak, dan penyusutan, yang dipakai pelaku pasar untuk menilai apakah bisnis inti tambang benar-benar menghasilkan uang, bukan sekadar untung di atas kertas; selain itu posisi likuiditas juga membaik sehingga perusahaan disebut bisa menarik pinjaman lebih sedikit dari rencana, yang berarti beban bunga ke depan berpotensi lebih ringan. Yang perlu dipantau selanjutnya adalah paparan lengkap manajemen dalam acara Public Expose di Jakarta pada 10 September 2026, serta progres kesiapan operasional fasilitas HPAL dan realisasi target biaya kas di bawah US$10.000 per ton sepanjang semester kedua 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "fast-jadwalkan-rupslb-14-oktober-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "FAST Jadwalkan [RUPSLB] 14 Oktober, Agenda Menyusul",
+  "deck": "PT Fast Food Indonesia Tbk mengumumkan rencana RUPSLB pada 14 Oktober 2026. Agenda resminya baru akan diumumkan lewat pemanggilan pada 22 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T10:30:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee80ced69_1133af7256.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FAST",
+  "tags": [
+   "FAST",
+   "RUPSLB",
+   "Fast Food Indonesia",
+   "KFC Indonesia"
+  ],
+  "body": [
+   "PT Fast Food Indonesia Tbk (FAST), pengelola gerai KFC di Indonesia, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 14 Oktober 2026 pukul 10.00 WIB. Rapat digelar secara hybrid, fisik di Gedung Gelael, Jalan MT Haryono Kav 7, Tebet, Jakarta Selatan, dan elektronik lewat sistem e-ASY milik Kustodian Sentral Efek Indonesia (KSEI). Pengumuman ini merujuk pada surat sebelumnya bernomor 172/S-EXT/FAST/VIII/2026. Perseroan belum mengungkap mata acara RUPSLB, sebab agenda resminya baru akan disampaikan lewat surat pemanggilan pada Selasa, 22 September 2026, yang akan dimuat di situs web Bursa Efek Indonesia, KSEI, dan situs perseroan.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan pada penutupan perdagangan saham FAST di bursa, Senin, 21 September 2026. Sesuai Peraturan OJK Nomor 15/POJK.04/2020 dan anggaran dasar perseroan, satu atau lebih pemegang saham yang menguasai minimal 1/20 atau setara 5 persen dari total saham dengan hak suara berhak mengusulkan mata acara tambahan untuk RUPSLB. Usulan itu harus disampaikan tertulis kepada direksi paling lambat 15 September 2026, yakni tujuh hari sebelum pemanggilan resmi diterbitkan, dengan menyertakan alasan dan bahan usulan agenda.",
+   "Pengumuman ditandatangani secara elektronik oleh Corporate Secretary FAST, Yohannes Kristiarto Soeryo Legowo, di Jakarta pada 7 September 2026."
+  ],
+  "fotoAdegan": "Kitchen staff in a busy Indonesian fried chicken restaurant preparing orders behind stainless steel counters during evening rush",
+  "takeaway": "Pengumuman ini netral bagi pemegang saham FAST karena isinya baru soal jadwal dan mekanisme rapat, sedangkan agenda RUPSLB yang sesungguhnya menentukan dampaknya ke bisnis belum dibuka. Rapat umum luar biasa biasanya dipakai perseroan untuk meminta restu pemegang saham atas hal yang tak bisa menunggu rapat tahunan, misalnya perubahan permodalan, pergantian direksi atau komisaris, atau aksi korporasi lain yang bisa mengubah jumlah saham beredar maupun struktur modal perseroan, sehingga sampai agenda itu terbuka pengaruhnya ke laporan keuangan FAST belum bisa dinilai. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi berisi mata acara RUPSLB yang dijadwalkan terbit 22 September 2026, tenggat 15 September 2026 bagi pemegang saham pemilik minimal 5 persen saham untuk mengusulkan agenda tambahan, serta tanggal pencatatan pemegang saham yang berhak hadir pada 21 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "refi-tunda-lapkeu-kuartal-ii-audit-demi-obligasi-ii",
+  "category": "Aksi Korporasi",
+  "title": "REFI Tunda Lapkeu Kuartal II, Audit demi [Obligasi] II",
+  "deck": "PT Usaha Pembiayaan Reliance Indonesia menunda penyampaian laporan keuangan interim Juni 2026 karena sedang diaudit untuk persiapan penerbitan Obligasi II REFI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T10:18:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/16fe256439_90ee4c5c6e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "REFI",
+  "tags": [
+   "REFI",
+   "obligasi",
+   "laporan keuangan",
+   "multifinance"
+  ],
+  "body": [
+   "PT Usaha Pembiayaan Reliance Indonesia (REFI) menyampaikan keterbukaan informasi ke Bursa Efek Indonesia bahwa perusahaan tidak akan melaporkan laporan keuangan interim periode Juni 2026 sesuai jadwal biasa. Sebagai gantinya, perusahaan akan langsung menyerahkan laporan keuangan kuartal II 2026 yang sudah diaudit oleh Kantor Akuntan Publik (KAP) Djoko, Sidik & Indra begitu proses audit selesai. Keterbukaan ini disampaikan oleh corporate secretary REFI, Hanindya Aryoputro, pada 7 September 2026, dengan merujuk pada Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi.",
+   "Dasar dari keterbukaan ini adalah surat resmi bernomor 141/UPRI/DIR/VII/2026 tertanggal 24 Juli 2026 yang ditandatangani Direktur REFI, Gwesley Griemaldy Kussoy, dan ditujukan kepada Kepala Direktorat Pengawasan Emiten dan Perusahaan Publik I Otoritas Jasa Keuangan. Dalam surat itu disebutkan bahwa audit atas laporan keuangan Juni 2026 dilakukan dalam rangka persiapan penerbitan Obligasi II REFI. Perusahaan menegaskan bahwa laporan keuangan hasil audit akan disampaikan ke bursa segera setelah proses pemeriksaan rampung, tanpa menyebutkan tanggal pasti penyelesaiannya."
+  ],
+  "fotoAdegan": "Rows of new motorcycles parked inside a bright dealership showroom, morning sunlight through tall windows, bare clean walls.",
+  "takeaway": "Laporan ini netral bagi REFI, karena isinya sebatas penundaan prosedural penyampaian laporan interim, bukan sinyal soal kondisi keuangan perusahaan itu sendiri. Yang perlu diperhatikan adalah kaitannya dengan rencana penerbitan Obligasi II REFI, yaitu penerbitan surat utang baru yang akan menambah beban bunga dan kewajiban pembayaran perusahaan ke depan, sehingga laporan keuangan yang diaudit nantinya penting untuk menilai kemampuan REFI menanggung utang tambahan tersebut. Laporan keuangan yang diaudit oleh akuntan publik independen biasanya dianggap lebih bisa dipercaya investor dibanding laporan interim yang belum diperiksa, karena sudah melalui verifikasi angka oleh pihak ketiga. Yang perlu dipantau selanjutnya adalah kapan REFI benar-benar merilis laporan keuangan audit Juni 2026 tersebut serta jadwal dan besaran resmi penerbitan Obligasi II REFI, karena dokumen ini belum mencantumkan nilai maupun tanggal pastinya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "epac-setop-pabrik-konvensional-ekspansi-ke-surabaya-2027",
+  "category": "Aksi Korporasi",
+  "title": "EPAC Setop Pabrik Konvensional, [Ekspansi] ke Surabaya 2027",
+  "deck": "EPAC berencana menutup pabrik kemasan fleksibel konvensional akhir 2026 dan membangun pabrik digital printing baru di Surabaya pada 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T08:43:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a86f3c3ae_94e04ee0df.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EPAC",
+  "tags": [
+   "EPAC",
+   "ekspansi",
+   "restrukturisasi",
+   "kemasan fleksibel"
+  ],
+  "body": [
+   "PT Megalestari Epack Sentosaraya Tbk (EPAC) menyampaikan keterbukaan informasi bertanggal 4 September 2026 yang diteken Direktur Utama Bahar dan Direktur Keuangan Nicky Gunhadi. Perseroan berencana menghentikan operasi fasilitas produksi kemasan fleksibel konvensional milik anak usahanya, MES, per Kamis, 31 Desember 2026. Manajemen menyebut penutupan ini sebagai kelanjutan dari keterbukaan informasi sebelumnya tertanggal 27 Agustus 2026, yang menjelaskan bahwa operasional pabrik konvensional itu menjadi beban yang membuat perseroan sulit mencatat laba konsolidasi meski kinerjanya membaik sampai kuartal kedua 2026.",
+   "Sebagai gantinya, seluruh usaha kemasan fleksibel EPAC akan difokuskan pada platform digital printing yang dijalankan anak usaha PT Epac Flexibles Indonesia (EFI). Untuk mendukung fokus baru ini, EFI akan membangun fasilitas produksi baru di Surabaya pada 2027, melengkapi pabrik digital yang sudah beroperasi di Tangerang. Dengan tambahan kapasitas itu, perseroan memproyeksikan bisa mempertahankan pertumbuhan penjualan tahunan di kisaran 15 persen sampai 2028, serta memperkirakan laba kotor, laba usaha, EBITDA, dan laba bersih akan tumbuh setiap tahun begitu pabrik konvensional berhenti beroperasi.",
+   "Perseroan turut menyertakan estimasi nilai wajar sahamnya dengan menggabungkan metode Discounted Cash Flow dan Multiple EBITDA, yang menghasilkan angka Rp163 per saham. Dalam laporan resminya ke OJK, EPAC menyatakan rencana ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Factory workers monitoring a flexible plastic packaging printing line, large film rolls, industrial machinery, bright warehouse lighting",
+  "takeaway": "Rencana ini condong positif bagi EPAC karena perusahaan secara terbuka mengakui unit usaha konvensionalnya menggerus laba dan memutuskan menutupnya, sambil mengalihkan seluruh kapasitas ke lini digital printing yang menurut manajemen lebih menguntungkan. Yang tersentuh adalah profitabilitas perseroan, mulai dari laba kotor dan laba usaha, sampai EBITDA atau laba operasional sebelum bunga, pajak, dan penyusutan yang mencerminkan kas dari operasional murni, hingga laba bersih, karena semuanya diproyeksikan tumbuh setiap tahun setelah pabrik lama berhenti beroperasi. Perlu digarisbawahi, target pertumbuhan penjualan 15 persen per tahun dan estimasi nilai wajar saham Rp163 itu proyeksi milik perseroan sendiri, bukan hasil audit independen, sehingga sifatnya masih rencana dan bisa meleset. Yang perlu dipantau berikutnya adalah realisasi penghentian pabrik konvensional MES per 31 Desember 2026 serta progres pembangunan pabrik baru di Surabaya sepanjang 2027, karena keduanya menentukan apakah proyeksi pertumbuhan laba tadi benar-benar tercapai.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "usai-erupsi-25-jam-anak-krakatau-tetap-level-siaga",
   "category": "Energi",
   "title": "Usai Erupsi 25 Jam, Anak Krakatau Tetap Level [Siaga]",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
+  "category": "Aksi Korporasi",
+  "title": "BUMI [Akuisisi] Loyal Metals Rp1 Triliun via Anak Usaha Australia",
+  "deck": "Bumi Resources melalui anak usaha di Australia, BRA, mengambil alih 100 persen saham Loyal Metals senilai Rp1,004 triliun setara AUD79,07 juta pada 4 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUMI",
+   "akuisisi",
+   "pertambangan",
+   "Australia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee07bc6fc_280f614ec7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "eraa-jelaskan-ke-bei-lonjakan-harga-saham-20-dalam-3-hari",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Jelaskan ke BEI [Lonjakan] Harga Saham 20% dalam 3 Hari",
+  "deck": "Erajaya menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 20,45 persen dan melonjaknya volume transaksi awal September dipicu keterbukaan informasi buyback yang sudah diumumkan sebelumnya.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af2d256a57_f3defc2a26.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa",
   "category": "UMKM",
   "title": "Keramik Daur Ulang UMKM Surabaya [Tembus] Ekspor ke Eropa",
@@ -6527,37 +6559,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463412-ojk-dorong-kepemilikan-asing-di-asuransi-jadi-99-ini-alasan-di-balik-usulannya"
- },
- {
-  "slug": "cara-cek-desil-bansos-online-pakai-nik",
-  "category": "Makroekonomi",
-  "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
-  "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "desil bansos",
-   "DTSEN",
-   "Kemensos",
-   "NIK"
-  ],
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik"
- },
- {
-  "slug": "kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu",
-  "category": "Perbankan",
-  "title": "KUR Kopdes Merah Putih [Wajib] Lolos Cek Kredit Dulu",
-  "deck": "DPR meminta pencairan KUR untuk Kopdes Merah Putih tidak otomatis, pengurus koperasi wajib lolos pengecekan riwayat kredit SLIK OJK lebih dulu.",
-  "date": "29 Agustus 2026",
-  "image": "assets/img/kur-kopdes-merah-putih-wajib-lolos-cek-kredit-dulu.jpg",
-  "imageV": "mtebqwez",
-  "tags": [
-   "KUR",
-   "Kopdes Merah Putih",
-   "SLIK OJK",
-   "BRI"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/463400-kur-kdkmp-jangan-asal-cair-dpr-tegaskan-pengurus-kopdes-merah-putih-wajib-lolos-slik-ojk"
  }
 ];

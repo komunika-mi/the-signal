@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bumi-akuisisi-loyal-metals-rp1-triliun-via-anak-usaha-australia",
+  "category": "Aksi Korporasi",
+  "title": "BUMI [Akuisisi] Loyal Metals Rp1 Triliun via Anak Usaha Australia",
+  "deck": "Bumi Resources melalui anak usaha di Australia, BRA, mengambil alih 100 persen saham Loyal Metals senilai Rp1,004 triliun setara AUD79,07 juta pada 4 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T07:07:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ee07bc6fc_280f614ec7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUMI",
+  "tags": [
+   "BUMI",
+   "akuisisi",
+   "pertambangan",
+   "Australia"
+  ],
+  "body": [
+   "Bumi Resources Tbk (BUMI) melaporkan bahwa pada 4 September 2026, anak usahanya di Australia, Bumi Resources Australia Pty Ltd (BRA), yang sahamnya 100 persen dimiliki BUMI, telah mengakuisisi 175.710.515 saham Loyal Metals Ltd. Jumlah saham itu setara seluruh saham Loyal yang telah ditempatkan dan disetor penuh, sehingga BRA kini menjadi pemilik tunggal perusahaan tambang berbasis hukum Australia tersebut.",
+   "Nilai transaksi akuisisi ini tercatat Rp1.004.742.244.136,50, setara AUD79.069.731,75. Dengan rampungnya transaksi, BUMI melalui BRA resmi menjadi pemegang 100 persen saham Loyal. Dalam laporan resminya ke Otoritas Jasa Keuangan, BUMI tidak merinci dari mana dana akuisisi ini berasal, apakah dari kas internal atau pinjaman, maupun rincian bisnis dan aset yang dimiliki Loyal. Perseroan juga menyatakan tidak ada keterangan tambahan lain terkait transaksi ini.",
+   "Laporan ditandatangani oleh Direktur BUMI, A. Sri Dharmayanti, dan disampaikan oleh Corporate Secretary Irana Candra Mala pada 7 September 2026. Keterbukaan ini merupakan kewajiban pelaporan fakta material sesuai POJK No. 31/POJK.04/2015 yang telah diubah dengan POJK No. 45/2024."
+  ],
+  "fotoAdegan": "Modern high-rise office towers in Jakarta's business district viewed from the street at golden hour",
+  "takeaway": "Laporan ini condong netral karena akuisisi 100 persen Loyal Metals memang memperluas usaha pertambangan BUMI di Australia, tapi perusahaan tidak membuka sumber dana sebesar lebih dari Rp1 triliun itu maupun kualitas aset yang didapat, sehingga belum bisa dinilai apakah langkah ini menguntungkan atau justru membebani. Yang perlu diperhatikan investor adalah arus kas, yaitu uang tunai yang keluar masuk perusahaan, karena transaksi sebesar ini berarti kas BUMI berkurang signifikan atau utangnya bertambah jika dibiayai pinjaman, dan itu ikut menentukan beban bunga ke depan. Dokumen ini tidak mencantumkan agenda RUPSLB atau tenggat lanjutan, sehingga hal yang paling layak dipantau adalah laporan keuangan kuartal III 2026, yang akan menunjukkan bagaimana konsolidasi Loyal masuk ke neraca BUMI dan dari mana sebenarnya dana akuisisi ini berasal.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "eraa-jelaskan-ke-bei-lonjakan-harga-saham-20-dalam-3-hari",
+  "category": "Aksi Korporasi",
+  "title": "ERAA Jelaskan ke BEI [Lonjakan] Harga Saham 20% dalam 3 Hari",
+  "deck": "Erajaya menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 20,45 persen dan melonjaknya volume transaksi awal September dipicu keterbukaan informasi buyback yang sudah diumumkan sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T06:59:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af2d256a57_f3defc2a26.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ERAA",
+  "tags": [
+   "ERAA",
+   "buyback saham",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan kepada Erajaya Swasembada Tbk melalui surat nomor S-11357/BEI.PP2/09-2026 tanggal 4 September 2026, menyusul lonjakan harga dan aktivitas transaksi saham ERAA pada periode 1 hingga 3 September 2026. Harga saham ditutup naik kumulatif Rp101 atau 20,45 persen, dari Rp494 pada penutupan 31 Agustus 2026 menjadi Rp595. Rata-rata volume transaksi harian melonjak menjadi 331.205.367 saham dengan frekuensi 17.200 kali, dibandingkan 106.021.000 saham dengan frekuensi 7.416 kali pada 31 Agustus 2026.",
+   "Dalam surat tanggapan tertanggal 4 September 2026 yang ditandatangani Amelia Allen, Kepala Bidang Hukum dan Sekretaris Perusahaan Erajaya, perseroan menjelaskan bahwa sepanjang periode tersebut sudah menyampaikan dua keterbukaan informasi ke publik. Pada 2 September 2026, Erajaya mengumumkan realisasi pembelian kembali saham (buyback) senilai Rp99.858.096.000 dengan harga rata-rata Rp422,64 per saham. Sehari kemudian, 3 September 2026, perseroan mengumumkan rencana buyback lanjutan dengan alokasi dana maksimal Rp500 miliar untuk periode 4 September hingga 4 Desember 2026, mengacu pada SEOJK Nomor 10/D.04/2026 tentang kebijakan buyback saat kondisi pasar berfluktuasi signifikan.",
+   "Di luar dua hal tersebut, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material lain yang dapat memengaruhi harga saham maupun kelangsungan usahanya, dan tidak mengetahui adanya aktivitas perubahan kepemilikan dari pemegang saham tertentu selain laporan bulanan registrasi pemegang efek yang rutin disampaikan. Erajaya juga menyebut belum ada rencana dari pemegang saham utama untuk mengubah kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Customers browsing smartphones at a brightly lit electronics retail counter in a Jakarta mall, evening crowd passing by",
+  "takeaway": "Laporan ini netral bagi Erajaya, karena isinya sekadar menegaskan bahwa lonjakan harga dan volume transaksi sahamnya dipicu oleh rencana buyback yang sudah lebih dulu diumumkan, bukan informasi baru yang mengubah fundamental perusahaan. Yang tersentuh di sini adalah jumlah saham beredar, sebab program buyback yang disebut menyerap saham dari pasar dan mengurangi jumlah saham yang beredar bebas, sehingga laba per saham secara teori bisa naik jika laba bersih tidak berubah, meski hal ini sudah dibahas dalam laporan buyback sebelumnya. Erajaya juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu atau rencana pemegang saham utama untuk mengubah kepemilikan, sehingga kekhawatiran soal peralihan kendali bisa dikesampingkan untuk saat ini. Yang perlu dipantau berikutnya adalah realisasi program buyback senilai maksimal Rp500 miliar yang berjalan hingga 4 Desember 2026, karena laporan realisasinya akan menunjukkan seberapa jauh perusahaan benar-benar memakai dana itu untuk meredam gejolak harga sahamnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "keramik-daur-ulang-umkm-surabaya-tembus-ekspor-ke-eropa",
   "category": "UMKM",
   "title": "Keramik Daur Ulang UMKM Surabaya [Tembus] Ekspor ke Eropa",

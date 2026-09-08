@@ -15,6 +15,7 @@ import { ambilVideo } from './fetch-videos.mjs';
 import { rangkumArtikel, saringVideo, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 import { pastikanFotoArtikel } from './foto-artikel.mjs';
+import { muatTolakan } from './tolakan.mjs';
 
 const TARGET_BARU = Number(process.env.SIGNAL_TARGET || 10);   // berita baru per hari
 const MAKS_KANDIDAT = Number(process.env.SIGNAL_KANDIDAT || 25);
@@ -135,9 +136,18 @@ async function main() {
   log('arsip saat ini: ' + artikelLama.length + ' artikel, ' + videoLama.length + ' video');
 
   // ---------- 1-2. berita ----------
+  //
+  // DUA saringan, dan keduanya perlu: `sudahAda` membuang yang sudah TERBIT,
+  // `tolakan` membuang yang sudah pernah DINILAI DAN DITOLAK. Tanpa yang
+  // kedua, kandidat yang ditolak ditawarkan lagi tiap putaran dan dinilai
+  // ulang selamanya. Alasan lengkapnya di scripts/tolakan.mjs.
+  const tolakan = muatTolakan();
   const sudahAda = new Set(artikelLama.map(a => a.sourceUrl));
-  const kandidat = (await ambilDaftarBerita(MAKS_KANDIDAT)).filter(k => !sudahAda.has(k.url));
-  log('kandidat berita baru: ' + kandidat.length);
+  const semuaKandidat = (await ambilDaftarBerita(MAKS_KANDIDAT)).filter(k => !sudahAda.has(k.url));
+  const kandidat = semuaKandidat.filter(k => !tolakan.ditolak(k.url));
+  const dilewatiTolakan = semuaKandidat.length - kandidat.length;
+  log('kandidat berita baru: ' + kandidat.length +
+    (dilewatiTolakan ? ' (' + dilewatiTolakan + ' dilewati, sudah pernah ditolak)' : ''));
 
   const artikelBaru = [];
   let dipotongWaktu = false;  // batas waktu tercapai, bukan kehabisan kandidat
@@ -180,7 +190,16 @@ async function main() {
           jumlahHuruf + ' huruf, tetap diproses');
       }
       const hasil = await rangkumArtikel(bahan);
-      if (!hasil) { ditolakEditor++; log('  ditolak Claude: ' + k.judulAsli.slice(0, 50)); continue; }
+      if (!hasil) {
+        ditolakEditor++;
+        // Dicatat supaya tidak dinilai ulang tiap putaran. HANYA penolakan
+        // editorial yang dicatat, bukan slug kembar di bawah: slug bisa
+        // bentrok karena artikel LAIN yang judulnya mirip, dan mencatatnya
+        // berarti membungkam kandidat yang sebenarnya sah.
+        tolakan.catat(k.url, 'editor menolak');
+        log('  ditolak Claude: ' + k.judulAsli.slice(0, 50));
+        continue;
+      }
       if (artikelLama.some(a => a.slug === hasil.slug) || artikelBaru.some(a => a.slug === hasil.slug)) {
         ditolakEditor++; log('  lewati (slug kembar): ' + hasil.slug); continue;
       }
@@ -210,15 +229,26 @@ async function main() {
       log('kanal pemerintah dilewati: batas waktu sudah tercapai');
       throw new Error('__lewati__');
     }
-    const gov = (await ambilBeritaPemerintah({ perSumber: MAKS_GOV_PER_SUMBER }))
+    // Kanal inilah yang paling boros tanpa catatan tolakan: siaran pers
+    // bertahan berhari-hari di halaman depan kementerian, jadi kandidat yang
+    // sekali ditolak akan terus muncul di tiap putaran berikutnya.
+    const semuaGov = (await ambilBeritaPemerintah({ perSumber: MAKS_GOV_PER_SUMBER }))
       .filter(g => !sudahAda.has(g.url));
+    const gov = semuaGov.filter(g => !tolakan.ditolak(g.url));
+    if (semuaGov.length - gov.length) {
+      log('  ' + (semuaGov.length - gov.length) + ' siaran pers dilewati, sudah pernah ditolak');
+    }
 
     for (const g of gov) {
       if (artikelBaru.length >= TARGET_BARU + TARGET_GOV) break;
       if (lewatBatas()) { dipotongWaktu = true; break; }
       try {
         const hasil = await rangkumArtikel(g, { pemerintah: true });
-        if (!hasil) { log('  ditolak (seremonial): ' + g.judulAsli.slice(0, 46)); continue; }
+        if (!hasil) {
+          tolakan.catat(g.url, 'seremonial');
+          log('  ditolak (seremonial): ' + g.judulAsli.slice(0, 46));
+          continue;
+        }
         if (artikelLama.some(a => a.slug === hasil.slug) || artikelBaru.some(a => a.slug === hasil.slug)) continue;
         artikelBaru.push(hasil);
         log('  + [' + g.lembaga + '] ' + hasil.title.replace(/[\[\]]/g, '').slice(0, 46));
@@ -234,6 +264,12 @@ async function main() {
       log('PERINGATAN: kanal pemerintah dilewati -> ' + String(e.message).slice(0, 70));
     }
   }
+
+  // Catatan tolakan disimpan DI SINI, sebelum gerbang FATAL di bawah.
+  // Kalau ditaruh sesudahnya, putaran yang berakhir dengan process.exit(1)
+  // akan membuang seluruh tolakan yang baru dicatat, dan putaran berikutnya
+  // menilai ulang barang yang sama - persis penyakit yang mau diobati.
+  tolakan.simpan();
 
   // Kegagalan diam-diam itu bahaya untuk job yang jalan tanpa diawasi.
   // Kalau ADA kandidat tapi semuanya gagal karena error teknis (bukan ditolak

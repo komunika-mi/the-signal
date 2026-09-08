@@ -9,6 +9,7 @@ import { ambilKeterbukaan, ambilIsiLampiran, ambilIsiSemuaLampiran, bacaAngkaKep
 import { rangkumKeterbukaan, MODEL } from './rewrite.mjs';
 import { pasangFoto } from './assign-images.mjs';
 import { pastikanFotoArtikel } from './foto-artikel.mjs';
+import { muatTolakan } from './tolakan.mjs';
 
 // TARGET SEKARANG MENGIKUTI TUNGGAKAN, tidak lagi dipaku di 8.
 //
@@ -157,11 +158,21 @@ async function main() {
   // yang sudah tayang ikut menghabiskan jatah dan kandidat segar di belakang
   // antrean tidak pernah kebagian tempat pada putaran-putaran lanjutan di
   // hari yang sama.
-  const kandidat = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT * 4, hariKeBelakang: HARI }))
-    .filter(k => !k.lampiran || !sumberAda.has(k.lampiran))
+  // Dua saringan: `sumberAda` membuang lampiran yang sudah TERBIT, `tolakan`
+  // membuang yang sudah pernah dinilai lalu DITOLAK. Tanpa yang kedua,
+  // keterbukaan yang ditolak akan dinilai ulang tiap dua jam selama ia masih
+  // berada dalam jendela HARI ke belakang. Alasan lengkap di tolakan.mjs.
+  const tolakan = muatTolakan();
+  const kunciTolak = (k) => k.lampiran || (k.id ? 'idx:' + k.id : '');
+  const belumTerbit = (await ambilKeterbukaan({ maks: MAKS_KANDIDAT * 4, hariKeBelakang: HARI }))
+    .filter(k => !k.lampiran || !sumberAda.has(k.lampiran));
+  const kandidat = belumTerbit
+    .filter(k => !tolakan.ditolak(kunciTolak(k)))
     .slice(0, MAKS_KANDIDAT);
 
-  log('kandidat setelah buang yang sudah ada: ' + kandidat.length);
+  const dilewatiTolakan = belumTerbit.filter(k => tolakan.ditolak(kunciTolak(k))).length;
+  log('kandidat setelah buang yang sudah ada: ' + kandidat.length +
+    (dilewatiTolakan ? ' (' + dilewatiTolakan + ' dilewati, sudah pernah ditolak)' : ''));
 
   // Sasaran putaran ini mengikuti tunggakan yang benar-benar ada, dibatasi
   // TARGET_MAKS. Kalau kandidatnya cuma dua, ya dua; kalau menumpuk 21 karena
@@ -266,7 +277,15 @@ async function main() {
       }
 
       const hasil = await rangkumKeterbukaan(k);
-      if (!hasil) { ditolak++; log('  ditolak: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48)); continue; }
+      if (!hasil) {
+        ditolak++;
+        // Hanya penolakan editorial yang dicatat. "lewati (kembar)" di bawah
+        // TIDAK, karena sidik kembar bisa berasal dari keterbukaan LAIN yang
+        // judulnya mirip, dan mencatatnya akan membungkam laporan yang sah.
+        tolakan.catat(kunciTolak(k), 'editor menolak');
+        log('  ditolak: ' + (k.emiten || '----') + ' ' + k.judulAsli.slice(0, 48));
+        continue;
+      }
 
       const sidik = hasil.emiten + '|' + hasil.title.replace(/[\[\]]/g, '').toLowerCase();
       if (sidikAda.has(sidik) || baru.some(b => b.slug === hasil.slug)) {
@@ -292,6 +311,11 @@ async function main() {
     log('CATATAN: sasaran ' + sasaran + ' tercapai, masih ada ' +
       (kandidat.length - sasaran) + ' kandidat menunggu putaran berikutnya.');
   }
+
+  // Disimpan SEBELUM gerbang FATAL dan sebelum jalan keluar "tidak ada aksi
+  // korporasi baru" di bawah. Dua-duanya mengakhiri putaran, dan tolakan yang
+  // baru dicatat akan hilang kalau penyimpanannya ditaruh sesudahnya.
+  tolakan.simpan();
 
   // Jangan biarkan kegagalan teknis lolos jadi "sukses" (lihat catatan di update-all.mjs)
   if (kandidat.length && !baru.length && gagalError) {

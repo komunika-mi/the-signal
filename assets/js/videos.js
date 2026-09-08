@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "1scaRAq7LBI",
+  "title": "PT Halalan Thayyiban Jaga Kualitas Pasokan Makan Jemaah Haji",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "PT Halalan Thayyiban Indonesia melalui produk Makanku menyediakan makanan siap saji bagi jemaah haji Indonesia, dengan kapasitas produksi hingga 50.000 kemasan per hari.",
+  "takeaway": "Menunjukkan geliat industri pangan halal dalam negeri yang menopang kebutuhan logistik haji dalam skala besar.",
+  "terbit": "2026-09-08T08:35:04+00:00"
+ },
+ {
+  "id": "EXjwhZ5_PNI",
+  "title": "Pelelangan dan Jual Beli Ikan di Pandeglang Menurun",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Erupsi Gunung Anak Krakatau membuat aktivitas pelelangan ikan di TPI Labuan, Pandeglang, sepi karena pasokan ikan berkurang dan transaksi nelayan dengan pedagang menurun.",
+  "takeaway": "Memperlihatkan bagaimana bencana alam menekan langsung roda ekonomi nelayan dan pasar ikan lokal.",
+  "terbit": "2026-09-08T08:14:04+00:00"
+ },
+ {
   "id": "3m8fCFV6wYo",
   "title": "Pemerintah Siap Tambah Anggaran BNPB Jika Dibutuhkan",
   "category": "Makroekonomi",

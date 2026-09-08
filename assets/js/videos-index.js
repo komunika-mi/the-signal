@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "1scaRAq7LBI",
+  "title": "PT Halalan Thayyiban Jaga Kualitas Pasokan Makan Jemaah Haji",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "PT Halalan Thayyiban Indonesia melalui produk Makanku menyediakan makanan siap saji bagi jemaah haji Indonesia, dengan kapasitas produksi hingga 50.000 kemasan per hari.",
+  "takeaway": "Menunjukkan geliat industri pangan halal dalam negeri yang menopang kebutuhan logistik haji dalam skala besar."
+ },
+ {
+  "id": "EXjwhZ5_PNI",
+  "title": "Pelelangan dan Jual Beli Ikan di Pandeglang Menurun",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Erupsi Gunung Anak Krakatau membuat aktivitas pelelangan ikan di TPI Labuan, Pandeglang, sepi karena pasokan ikan berkurang dan transaksi nelayan dengan pedagang menurun.",
+  "takeaway": "Memperlihatkan bagaimana bencana alam menekan langsung roda ekonomi nelayan dan pasar ikan lokal."
+ },
+ {
   "id": "3m8fCFV6wYo",
   "title": "Pemerintah Siap Tambah Anggaran BNPB Jika Dibutuhkan",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
   "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi."
- },
- {
-  "id": "Iywa2ayieDQ",
-  "title": "Presiden AS Trump Perketat Sanksi Ekonomi ke Iran",
-  "category": "Global",
-  "program": "tvOneNews",
-  "summary": "Pemerintahan Presiden AS Donald Trump mengalihkan tekanan terhadap Iran dari jalur militer ke ekonomi, dengan fokus pengetatan sanksi terhadap Teheran.",
-  "takeaway": "Sanksi ekonomi AS terhadap Iran berpotensi memengaruhi harga energi global dan pasar komoditas yang relevan bagi pembaca ekonomi."
- },
- {
-  "id": "Vt7k2-tJw6M",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto meluncurkan sekaligus melakukan groundbreaking Program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Monumen Operasi Lintas Laut Jawa Bali.",
-  "takeaway": "Program PLTS berskala besar ini menandai langkah pemerintah memperluas energi terbarukan, hal yang relevan bagi arah investasi dan bauran energi nasional ke depan."
  }
 ];

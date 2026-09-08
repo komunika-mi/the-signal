@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-cek-kesiapan-aft-babullah-di-ternate",
+  "category": "Energi",
+  "title": "Pertamina Cek Kesiapan [AFT] Babullah di Ternate",
+  "deck": "Pertamina mengevaluasi kesiapan terminal avtur dan BBM di Ternate, Maluku Utara, untuk mengantisipasi kenaikan kebutuhan energi di wilayah kepulauan timur Indonesia.",
+  "image": "assets/img/pertamina-cek-kesiapan-aft-babullah-di-ternate.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:19:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465711-jaga-kecukupan-energi-di-wilayah-timur-indonesia-pertamina-dukung-ekonomi-masyarakat-lewat-aft-babullah",
+  "tags": [
+   "Pertamina",
+   "Maluku Utara",
+   "Avtur",
+   "Energi"
+  ],
+  "body": [
+   "Pertamina meninjau kesiapan infrastruktur energi di Ternate, Maluku Utara, sebagai bagian dari upaya menjaga pasokan bahan bakar pesawat dan bahan bakar minyak di wilayah kepulauan timur Indonesia. Direktur Manajemen Risiko Pertamina, Ahmad Siddik Badruddin, mengunjungi langsung fasilitas operasional perusahaan di Ternate pada Selasa, 1 September 2026, untuk mengecek kapasitas terminal menghadapi pertumbuhan kebutuhan energi ke depan.",
+   "Kunjungan pertama dilakukan ke Aviation Fuel Terminal (AFT) Babullah yang berlokasi di sekitar Bandara Sultan Babullah, Ternate. Terminal ini memasok avtur untuk sekitar 15 penerbangan yang keluar masuk bandara tersebut setiap hari. Siddik menyebut pertumbuhan ekonomi Maluku Utara berpotensi mendorong trafik penerbangan naik, sehingga Pertamina sedang mengevaluasi apakah AFT Babullah masih sanggup memenuhi kenaikan penjualan avtur ke depan sekaligus mencari opsi pengembangan bisnisnya.",
+   "Selain avtur, Siddik juga meninjau Fuel Terminal (FT) Ternate yang mendistribusikan bahan bakar minyak untuk masyarakat Ternate dan sejumlah pulau di sekitarnya. Evaluasi di terminal ini difokuskan pada kemampuan menerima pasokan lewat jalur laut dari Wayame, serta rencana perbaikan dan peningkatan fasilitas jetty atau dermaga sandar kapal untuk memperkuat keandalan distribusi.",
+   "Bagi wilayah kepulauan seperti Maluku Utara, ketersediaan energi menjadi fondasi penting bagi konektivitas dan pergerakan ekonomi masyarakat, karena distribusi bahan bakar sangat bergantung pada jalur laut dan udara. Kunjungan ini menjadi bagian dari upaya Pertamina memastikan kesiapan infrastruktur tersebut tidak tertinggal dari pertumbuhan permintaan di wilayah tersebut."
+  ],
+  "fotoAdegan": "Fuel tanker truck refueling a small commercial aircraft on a tropical airport tarmac, storage tanks visible in the distance",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/08/6a9fc26ce9c22-direktur-manajemen-risiko-pt-pertamina-persero-ahmad-siddik-badruddin-ke-sejumlah-fasilitas-operasi-pertamina-di-ternate-maluku-utara_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kunjungan ini baru sebatas evaluasi, bukan keputusan investasi: Pertamina mengecek apakah terminal avtur Babullah masih sanggup melayani 15 penerbangan per hari ke depan, dan apakah dermaga di Fuel Terminal Ternate perlu diperbaiki supaya kapal pengangkut BBM dari Wayame bisa bersandar lebih lancar. Yang terdampak langsung adalah maskapai dan penumpang yang terbang lewat Bandara Sultan Babullah, serta warga Ternate dan pulau-pulau sekitarnya yang pasokan bahan bakarnya bergantung pada jalur laut. Berita ini belum menyebut angka kapasitas terminal saat ini, perkiraan kenaikan permintaan, atau anggaran perbaikan jetty, sehingga belum bisa dipastikan apakah hasil evaluasi ini akan berujung pada penambahan kapasitas besar atau sekadar perawatan rutin. Yang perlu ditunggu adalah apakah Pertamina mengumumkan rencana investasi konkret setelah kunjungan ini, karena di situlah arah sebenarnya baru akan terlihat.",
+  "imageV": "mtsfb0hu"
+ },
+ {
+  "slug": "telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor",
+  "category": "BUMN",
+  "title": "Telkom Sewakan Gedung GMP ke [BGN], Rapikan Kantor",
+  "deck": "Telkom menyewakan Gedung Media Pratama kepada Badan Gizi Nasional, sekaligus menata ulang lokasi kerja TelkomGroup yang selama ini tersebar di Jakarta.",
+  "image": "assets/img/telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:19:08+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465710-pastikan-kepentingan-perusahaan-tetap-terjaga-telkomgroup-optimalkan-aset-properti",
+  "tags": [
+   "Telkom",
+   "Badan Gizi Nasional",
+   "properti",
+   "BUMN"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk menyambut positif rencana Badan Gizi Nasional (BGN) menyewa Gedung Media Pratama (GMP) milik perusahaan. Kesepakatan ini bermula dari surat resmi BGN kepada Telkom, dan menjadi bagian dari upaya Telkom memanfaatkan aset properti yang dimilikinya lewat skema bisnis ke bisnis yang wajar dan proporsional.",
+   "Direktur Utama Telkom Dian Siswarini menyebut penyewaan GMP oleh BGN sebagai bentuk pemanfaatan aset yang bisa membuka peluang bisnis baru bagi Telkom, termasuk penjualan layanan konektivitas dan solusi digital ke penyewa gedung tersebut. Dengan kata lain, gedung yang tadinya menganggur diarahkan menghasilkan pendapatan sewa sekaligus jadi pintu masuk penjualan layanan lain milik TelkomGroup.",
+   "Di sisi lain, langkah ini juga dipakai Telkom untuk merapikan lokasi kerja unit-unit internalnya yang selama ini tersebar di berbagai titik Jakarta. Dian menjelaskan penataan ini bertujuan mengelompokkan unit kerja sesuai fungsinya masing-masing, dengan harapan kolaborasi antarunit lebih mudah dan produktivitas karyawan meningkat.",
+   "Proses pemindahan unit kerja Telkom dan transisi BGN ke GMP akan berjalan bertahap setelah negosiasi dengan pihak-pihak terkait rampung. Telkom menyatakan seluruh proses akan memperhatikan keberlangsungan operasional dan layanan perusahaan, termasuk aspek keamanan, keselamatan, dan kenyamanan karyawan, serta mengikuti prinsip tata kelola perusahaan yang baik atau Good Corporate Governance."
+  ],
+  "fotoAdegan": "Modern high-rise office building facade in a Jakarta business district, employees walking through a glass lobby entrance, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/08/6a9fc4612215a-pt-telkom-indonesia-persero-tbk-telkom-memberikan-respons-positif-terhadap-rencana-pemanfaatan-gedung-media-pratama-gmp-oleh-badan-gizi-nasional-bgn_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret ada dua hal sekaligus: Telkom menyewakan Gedung Media Pratama kepada Badan Gizi Nasional, dan bersamaan dengan itu memindahkan serta mengelompokkan ulang unit-unit kerjanya yang selama ini terpencar di banyak lokasi di Jakarta. Yang terdampak langsung adalah karyawan unit-unit Telkom yang kantornya akan dipindah, dan secara tidak langsung Badan Gizi Nasional sebagai penyewa baru gedung tersebut. Arah langkah ini terlihat menuju pemanfaatan aset properti yang tidak terpakai penuh menjadi sumber pendapatan sewa sekaligus pintu masuk jualan layanan konektivitas dan digital Telkom ke penyewanya. Yang masih belum diungkap dan perlu dipantau adalah angka-angka yang menentukan besar-kecilnya dampak ini, yaitu nilai sewa, jangka waktu kontrak, jumlah unit atau karyawan yang benar-benar pindah, serta tanggal pasti proses transisi tersebut selesai.",
+  "imageV": "mtsfb0xa"
+ },
+ {
   "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
   "category": "Aksi Korporasi",
   "title": "SQMI: CGS International Jual [167 Juta] Saham Wilton Makmur",
@@ -132,6 +186,33 @@ var ARTICLES = [
   "fotoAdegan": "Workers walking along a coal stockpile yard near a power plant supply terminal, morning haze, heavy machinery in background",
   "takeaway": "Laporan ini condong positif bagi DWGL karena kenaikan outlook dari stabil ke positif oleh KRI mencerminkan penilaian bahwa kondisi keuangan perusahaan membaik, bukan sekadar konfirmasi status quo. Yang tersentuh di sini adalah ekuitas dan rasio utang terhadap ekuitas: ekuitas DWGL tercatat tumbuh dari Rp156,4 miliar pada 2023 menjadi Rp597,8 miliar per Juni 2026, sementara rasio utang terhadap modal sendiri diproyeksikan turun ke 0,43 kali tahun ini, artinya beban utang perusahaan terhadap modalnya mengecil dan ruang untuk menanggung kewajiban baru melebar. Kontrak take-or-pay, yakni perjanjian jual beli batu bara yang mewajibkan pembeli tetap membayar volume minimum meski tidak menyerapnya, juga memberi kepastian pendapatan yang jarang dimiliki emiten tambang biasa. Yang perlu dipantau selanjutnya adalah apakah DWGL benar merealisasikan pelunasan medium-term notes dan penurunan DER ke 0,43 kali seperti diproyeksikan KRI untuk tahun 2026, serta apakah perusahaan bisa memperluas basis pelanggannya di luar produsen listrik batu bara, karena syarat itu yang disebut KRI sebagai jalan menuju kenaikan peringkat lebih lanjut sebelum periode rating berakhir 1 Oktober 2027.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "cadangan-devisa-ri-tembus-rekor-us-146-5-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Tembus] Rekor US$146,5 Miliar",
+  "deck": "Cadangan devisa Indonesia naik ke rekor US$146,5 miliar akhir Agustus 2026, ditopang penerimaan pajak dan pinjaman luar negeri pemerintah di tengah gejolak pasar global.",
+  "image": "assets/img/cadangan-devisa-ri-tembus-rekor-us-146-5-miliar.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T13:33:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465691-cadangan-devisa-indonesia-melonjak-ke-us1465-miliar-tembus-rekor-baru-di-tengah-gejolak-global",
+  "tags": [
+   "cadangan devisa",
+   "bank indonesia",
+   "rupiah",
+   "impor"
+  ],
+  "body": [
+   "Bank Indonesia mencatat cadangan devisa Indonesia naik ke US$146,5 miliar pada akhir Agustus 2026, level tertinggi yang pernah tercatat. Angka ini naik US$1,2 miliar dibandingkan posisi akhir Juli 2026 sebesar US$145,3 miliar. Kenaikan ini terjadi di tengah pasar keuangan global yang masih diliputi ketidakpastian, sehingga besarnya cadangan devisa penting sebagai penopang stabilitas rupiah dan kepercayaan terhadap ekonomi domestik.",
+   "Direktur Eksekutif Departemen Komunikasi BI Ramdan Denny Prakoso menjelaskan kenaikan ini terutama didorong oleh penerimaan pajak dan jasa serta penarikan pinjaman luar negeri pemerintah. Di sisi lain, ada pula kebutuhan dana untuk membayar utang luar negeri pemerintah dan untuk intervensi Bank Indonesia menjaga nilai tukar rupiah, sehingga kenaikan bersihnya tetap positif. Dengan posisi tersebut, cadangan devisa setara dengan pembiayaan 5,4 bulan impor, atau 5,3 bulan impor ditambah pembayaran utang luar negeri pemerintah, jauh di atas standar kecukupan internasional yang hanya sekitar tiga bulan impor.",
+   "Bank Indonesia menilai cadangan sebesar ini cukup untuk menjaga ketahanan sektor eksternal sekaligus menopang stabilitas makroekonomi dan sistem keuangan. Cadangan devisa berfungsi ganda, sebagai alat pembayaran transaksi dengan luar negeri sekaligus bantalan ketika pasar global bergejolak dan tekanan terhadap rupiah meningkat.",
+   "Ke depan, bank sentral memperkirakan ketahanan sektor eksternal Indonesia tetap terjaga, ditopang oleh cadangan devisa yang memadai serta potensi berlanjutnya arus masuk modal asing. Optimisme ini didasarkan pada persepsi investor yang masih positif terhadap prospek ekonomi nasional serta imbal hasil investasi di Indonesia yang dinilai tetap menarik."
+  ],
+  "fotoAdegan": "Cargo containers being lifted by a large crane from a container ship at a busy Indonesian seaport, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/20/6a867cbae9920-ilustrasi-bank-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan US$1,2 miliar ini sebagian berasal dari penarikan pinjaman luar negeri pemerintah, bukan semata dari hasil ekspor atau pajak, artinya sebagian bantalan devisa ini datang dari utang baru yang harus dibayar kembali di kemudian hari. Yang terdampak langsung adalah nilai tukar rupiah, karena Bank Indonesia memakai sebagian cadangan ini untuk meredam gejolak kurs, dan secara tidak langsung importir serta pembayar utang luar negeri pemerintah yang butuh pasokan dolar tetap lancar. Dengan cadangan setara 5,4 bulan impor, jauh di atas batas aman tiga bulan, ruang Bank Indonesia untuk terus menahan gejolak rupiah masih longgar untuk saat ini. Arahnya terlihat sebagai penambahan bantalan devisa yang dibarengi penggunaan aktif untuk meredam nilai tukar, bukan sekadar penumpukan pasif dari surplus dagang. Yang akan memastikan pola ini berlanjut atau berbalik adalah rilis cadangan devisa akhir September 2026, terutama apakah kenaikan masih ditopang penarikan utang pemerintah atau mulai bergeser ke penerimaan ekspor murni.",
+  "imageV": "mtsfb1ar"
  },
  {
   "slug": "visi-gelar-rups-terbitkan-saham-baru-danai-akuisisi-kesehatan",
@@ -348,7 +429,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pengumuman ini adalah perpanjangan bantuan beras: penyaluran yang sudah berjalan sampai September dilanjutkan tiga bulan lagi hingga Desember, sesuai arahan Presiden Prabowo Subianto, meski pemerintah tidak menyebut total anggaran atau jumlah keluarga penerima. Yang terdampak jelas dua kelompok berbeda, yaitu keluarga penerima bantuan pangan di satu sisi, dan warga serta pelaku usaha di sekitar lima sampai enam gunung berapi yang meletus di sisi lain, termasuk sektor penerbangan dan kargo yang disebut sudah terganggu. Pola ini bisa dibaca sebagai upaya pemerintah menjadikan bantuan pangan sebagai penyangga menjelang akhir tahun sambil mengantisipasi guncangan pasokan akibat cuaca ekstrem dan bencana, tetapi belum jelas apakah ini kebijakan yang akan berlanjut ke tahun depan atau respons khusus untuk tahun ini saja. Yang masih kurang untuk menilai seberapa serius dampak erupsi terhadap ekonomi adalah angka konkret, seperti persentase kontraksi di provinsi mana saja, berapa lama pembatasan penerbangan berlangsung, dan provinsi mana yang paling parah terdampak, karena semua itu menurut Kemenko Perekonomian masih dalam tahap pemantauan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
@@ -376,7 +458,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar angka inklusi keuangan, melainkan rencana konkret membuka rekening warga lewat dua bank pelat merah dan menyambungkannya dengan QRIS, dengan data kependudukan Dukcapil dipadankan ke sistem Bank Indonesia. Pihak yang langsung terkena adalah warga yang belum punya rekening bank, serta BRI dan BSI yang ditunjuk sebagai pelaksana. Ada dua arah yang mungkin dari sini, pertama ini murni program perluasan akses perbankan biasa, kedua ini bisa jadi infrastruktur baru untuk menyalurkan bantuan atau subsidi langsung ke rekening warga, seperti tersirat dari pernyataan Airlangga bahwa program pemerintah nantinya akan dikirim ke rekening yang disiapkan. Bukti saat ini condong ke opsi kedua, tapi belum ada kejelasan siapa target penerima rekening ini atau kapan mulai berjalan, sehingga yang perlu ditunggu adalah aturan turunan soal skema pemadanan data Dukcapil-BI dan jadwal peluncuran rekening oleh BRI-BSI yang belum diumumkan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "asbi-panggil-rupslb-agendakan-pergantian-direksi",

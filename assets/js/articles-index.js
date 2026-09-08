@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-cek-kesiapan-aft-babullah-di-ternate",
+  "category": "Energi",
+  "title": "Pertamina Cek Kesiapan [AFT] Babullah di Ternate",
+  "deck": "Pertamina mengevaluasi kesiapan terminal avtur dan BBM di Ternate, Maluku Utara, untuk mengantisipasi kenaikan kebutuhan energi di wilayah kepulauan timur Indonesia.",
+  "date": "8 September 2026",
+  "image": "assets/img/pertamina-cek-kesiapan-aft-babullah-di-ternate.jpg",
+  "imageV": "mtsfb0hu",
+  "tags": [
+   "Pertamina",
+   "Maluku Utara",
+   "Avtur",
+   "Energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465711-jaga-kecukupan-energi-di-wilayah-timur-indonesia-pertamina-dukung-ekonomi-masyarakat-lewat-aft-babullah"
+ },
+ {
+  "slug": "telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor",
+  "category": "BUMN",
+  "title": "Telkom Sewakan Gedung GMP ke [BGN], Rapikan Kantor",
+  "deck": "Telkom menyewakan Gedung Media Pratama kepada Badan Gizi Nasional, sekaligus menata ulang lokasi kerja TelkomGroup yang selama ini tersebar di Jakarta.",
+  "date": "8 September 2026",
+  "image": "assets/img/telkom-sewakan-gedung-gmp-ke-bgn-rapikan-kantor.jpg",
+  "imageV": "mtsfb0xa",
+  "tags": [
+   "Telkom",
+   "Badan Gizi Nasional",
+   "properti",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465710-pastikan-kepentingan-perusahaan-tetap-terjaga-telkomgroup-optimalkan-aset-properti"
+ },
+ {
   "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
   "category": "Aksi Korporasi",
   "title": "SQMI: CGS International Jual [167 Juta] Saham Wilton Makmur",
@@ -83,6 +117,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/367b823973_e630738fc3.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cadangan-devisa-ri-tembus-rekor-us-146-5-miliar",
+  "category": "Moneter",
+  "title": "Cadangan Devisa RI [Tembus] Rekor US$146,5 Miliar",
+  "deck": "Cadangan devisa Indonesia naik ke rekor US$146,5 miliar akhir Agustus 2026, ditopang penerimaan pajak dan pinjaman luar negeri pemerintah di tengah gejolak pasar global.",
+  "date": "8 September 2026",
+  "image": "assets/img/cadangan-devisa-ri-tembus-rekor-us-146-5-miliar.jpg",
+  "imageV": "mtsfb1ar",
+  "tags": [
+   "cadangan devisa",
+   "bank indonesia",
+   "rupiah",
+   "impor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465691-cadangan-devisa-indonesia-melonjak-ke-us1465-miliar-tembus-rekor-baru-di-tengah-gejolak-global"
  },
  {
   "slug": "visi-gelar-rups-terbitkan-saham-baru-danai-akuisisi-kesehatan",
@@ -6489,54 +6540,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11fa7c8504_8371b18b3a.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-tunda-rups-akuisisi-nextier-ojk-minta-penjelasan-tambahan",
-  "category": "Aksi Korporasi",
-  "title": "MGLV [Tunda] RUPS Akuisisi Nextier, OJK Minta Penjelasan Tambahan",
-  "deck": "RUPS Luar Biasa dan RUPS Independen MGLV yang semula digelar 3 September ditunda ke 7 September 2026, menyusul permintaan penjelasan tambahan dari OJK atas rencana akuisisi anak usaha Nextier.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "RUPS",
-   "OJK",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0a30ad698_ce52f62d6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-klarifikasi-ke-bei-siap-terbitkan-obligasi-dan-sukuk",
-  "category": "Aksi Korporasi",
-  "title": "INET Klarifikasi ke BEI, Siap Terbitkan [Obligasi] dan Sukuk",
-  "deck": "INET menjawab permintaan BEI soal volatilitas transaksi sahamnya, mengungkap rencana penerbitan obligasi dan sukuk 2026, serta memastikan pengendali AKUN tak berencana kurangi kepemilikan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "volatilitas saham",
-   "obligasi berkelanjutan",
-   "sukuk ijarah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/394f198dd5_7c8dae314a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik",
-  "category": "Teknologi",
-  "title": "Telkom Kukuhkan Indonesia jadi [Hub] Digital Asia Pasifik",
-  "deck": "BATIC 2026 di Bali menghadirkan lebih dari 2.700 delegasi dari 67 negara, jadi ajang Telkom lewat Telin menegaskan pergeseran bisnisnya ke ekosistem digital, cloud, dan AI di Asia Pasifik.",
-  "date": "1 September 2026",
-  "image": "assets/img/telkom-kukuhkan-indonesia-jadi-hub-digital-asia-pasifik.jpg",
-  "imageV": "mtir85ix",
-  "tags": [
-   "Telkom",
-   "Telin",
-   "BATIC 2026",
-   "Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464203-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik"
  }
 ];

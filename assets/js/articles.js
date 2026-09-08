@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "abmm-jadwalkan-rupslb-pada-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "ABMM Jadwalkan [RUPSLB] pada 15 Oktober 2026",
+  "deck": "ABM Investama mengumumkan rencana RUPSLB pada 15 Oktober 2026 secara elektronik, dengan pemegang saham per 22 September berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T12:08:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef89018b8_c8020f097d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABMM",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "ABM Investama",
+   "korporasi"
+  ],
+  "body": [
+   "PT ABM Investama Tbk (ABMM) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 15 Oktober 2026 pukul 14.00 WIB. Rapat akan digelar secara elektronik melalui fasilitas eASY.KSEI yang disediakan oleh PT Kustodian Sentral Efek Indonesia (KSEI), dengan domisili penyelenggaraan di Jakarta Selatan. Pengumuman ini merujuk pada surat sebelumnya bernomor ABM-CSC/039/BGP/IX/2026 dan ditandatangani oleh Corporate Secretary ABMM, Boogee Garystho Priyono, pada 8 September 2026.",
+   "Perseroan menetapkan 22 September 2026 sebagai tanggal Daftar Pemegang Saham (DPS) yang menentukan siapa yang berhak hadir dan memberikan suara. Artinya, pemegang saham yang namanya tercatat di daftar pemegang saham perseroan atau memiliki saldo saham ABMM di sub rekening efek KSEI pada penutupan perdagangan tanggal tersebut yang berhak ikut RUPSLB. Agenda rapat dan tempat pastinya belum diungkap dalam pengumuman ini, dan baru akan disampaikan melalui Pemanggilan Rapat yang dijadwalkan terbit 23 September 2026.",
+   "Bagi pemegang saham yang ingin mengusulkan mata acara rapat, usulan tersebut harus memenuhi ketentuan Pasal 12 Ayat 18 Anggaran Dasar Perseroan dan Pasal 16 POJK No. 15/POJK.04/2020, serta wajib diterima perseroan melalui surat tercatat paling lambat 16 September 2026. Penyelenggaraan mengacu pada POJK No. 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka, serta POJK No. 14 Tahun 2025 tentang pelaksanaan RUPS secara elektronik."
+  ],
+  "fotoAdegan": "Heavy mining trucks moving through an open pit coal mine under hazy tropical sky, workers in safety vests nearby",
+  "takeaway": "Belum bisa dinilai positif atau negatif karena pengumuman ini baru sebatas jadwal rapat, agenda sesungguhnya masih dirahasiakan sampai Pemanggilan Rapat terbit, jadi sementara ini netral bagi ABMM. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh dalam dokumen ini, karena materi RUPSLB yang menentukan hal itu belum dibuka ke publik. Pelaku pasar biasanya mencermati jenis rapat ini karena RUPS luar biasa, berbeda dari RUPS tahunan rutin, umumnya dipanggil untuk memutuskan aksi korporasi tertentu seperti perubahan modal, pengurus, atau transaksi besar. Yang perlu dipantau selanjutnya adalah Pemanggilan Rapat berisi agenda lengkap yang dijadwalkan terbit 23 September 2026, batas akhir pengajuan usulan pemegang saham pada 16 September 2026, serta pelaksanaan RUPSLB itu sendiri pada 15 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "erupsi-menerus-berhenti-anak-krakatau-tetap-siaga",
   "category": "Energi",
   "title": "Erupsi Menerus Berhenti, Anak Krakatau Tetap [Siaga]",
@@ -29,6 +55,32 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah adalah pola letusannya, bukan status bahayanya: erupsi yang tadinya menyambung tanpa henti selama 25 jam kini kembali jadi letusan-letusan kecil yang muncul sesekali, tapi Badan Geologi tetap mempertahankan status Siaga, satu tingkat di bawah level tertinggi. Yang terdampak langsung adalah warga pesisir Banten dan Lampung serta wisatawan dan pendaki, yang dilarang mendekat dalam radius 3 kilometer dari kawah. Data getaran di bawah gunung selama dua hari terakhir, termasuk 98 kali getaran jenis hybrid dan 93 kali getaran frekuensi rendah yang biasanya menandakan magma masih bergerak naik, menjadi alasan kenapa status belum diturunkan meski letusan menerus sudah berhenti. Ini mengarah ke sikap menahan status ketimbang melonggarkannya, dan yang akan memastikan arahnya adalah apakah PVMBG menurunkan Level III pada laporan pemantauan berikutnya, atau sebaliknya mencatat munculnya lagi episode erupsi menerus seperti pekan ini.",
   "imageV": "mts7srue"
+ },
+ {
+  "slug": "baik-akui-evaluasi-restrukturisasi-outlet-merugi-usai-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Akui Evaluasi [Restrukturisasi] Outlet Merugi Usai Disuspensi",
+  "deck": "Public expose insidentil BAIK usai suspensi saham mengungkap rencana evaluasi outlet merugi, tapi manajemen belum membeberkan angka konkret jumlah gerai yang terdampak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T11:47:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fa477e401_d4b09f8da5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAIK",
+  "tags": [
+   "BAIK",
+   "Public Expose",
+   "Suspensi Saham",
+   "Bersama Mencapai Puncak"
+  ],
+  "body": [
+   "PT Bersama Mencapai Puncak Tbk (BAIK) menyampaikan laporan hasil Public Expose Insidentil kepada Bursa Efek Indonesia. Forum ini digelar Senin, 7 September 2026 pukul 10.30 WIB secara virtual melalui Zoom, sebagai pemenuhan permintaan BEI lewat surat Peng-SPT-00152/BEI.WAS/08-2026 tanggal 24 Agustus 2026, menyusul suspensi perdagangan saham perseroan. Direktur Utama Nanang Suherman dan Direktur Keuangan perseroan tampil sebagai pembahas materi. Di luar jajaran direksi dan komite audit, sebanyak 10 pihak eksternal hadir, terdiri dari lima investor individu dan lima pemerhati pasar modal.",
+   "Dalam sesi tanya jawab, investor individu Suci Ayu menanyakan kondisi fundamental dan kinerja terkini perseroan. Manajemen menjawab bahwa mereka terus memperkuat fundamental lewat pengembangan brand, ekspansi outlet, peningkatan efisiensi operasional, serta pengembangan bisnis rantai pasok, dengan fokus pada pertumbuhan yang sehat dan berkelanjutan.",
+   "Pertanyaan lain menyoroti produktivitas outlet rumah makan, termasuk rata-rata penjualan per outlet dan tingkat keterisian, serta apakah ada gerai merugi yang menjadi kandidat penutupan atau restrukturisasi. Manajemen menjawab bahwa perseroan tengah menjalankan transformasi jaringan usaha lewat pembukaan cabang berkonsep AGN Plus dan AGN Signature untuk mendongkrak daya saing dan penjualan. Untuk outlet yang berkinerja kurang optimal, perseroan menyatakan melakukan evaluasi berkala guna menentukan langkah perbaikan, mulai dari optimalisasi operasional, restrukturisasi, hingga penyesuaian strategi gerai."
+  ],
+  "fotoAdegan": "Restaurant kitchen staff plating fried chicken orders behind a service counter during a busy lunch rush, warm indoor lighting",
+  "takeaway": "Laporan ini netral bagi fundamental BAIK: forum ini pada dasarnya kewajiban menjawab permintaan bursa usai suspensi, dan jawaban manajemen soal outlet merugi masih bersifat umum tanpa angka pasti berapa gerai yang dievaluasi atau target efisiensi yang dikejar. Yang disinggung di sini adalah margin usaha, yaitu selisih pendapatan dan beban operasional toko, serta produktivitas outlet alias rata-rata penjualan tiap gerai, dua pos yang sama yang membuat laporan keuangan BAIK sebelumnya disorot karena penjualan turun sementara laba bersih naik. Kalau perseroan benar menutup atau merestrukturisasi gerai merugi, beban operasional bisa berkurang dalam jangka panjang, meski proses penutupan biasanya menimbulkan biaya tambahan dalam jangka pendek. Yang perlu dipantau berikutnya adalah apakah penjelasan dalam public expose insidentil ini dinilai bursa cukup untuk mempertimbangkan pencabutan suspensi saham BAIK, serta apakah evaluasi outlet yang disebut manajemen benar berujung pada penutupan gerai yang akan terlihat pada laporan keuangan kuartal berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
@@ -170,6 +222,84 @@ var ARTICLES = [
   "fotoGagal": 2
  },
  {
+  "slug": "asbi-panggil-rupslb-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Panggil RUPSLB, Agendakan [Pergantian] Direksi",
+  "deck": "Asuransi Bintang mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian direksi, pelepasan aset, dan penyesuaian KBLI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T11:24:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31cb6dd8b7_5785362249.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "RUPSLB",
+   "Asuransi Bintang",
+   "Direksi"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) mengundang para pemegang saham menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026, pukul 10.00 sampai 12.00 WIB, di kantor pusat perseroan, Jalan RS Fatmawati No 32, Cilandak, Jakarta Selatan. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 7 September 2026 pukul 16.00 WIB, termasuk pemilik saham di penitipan kolektif KSEI pada penutupan perdagangan tanggal yang sama. Surat panggilan ditandatangani Presiden Direktur Hastanto Sri Margi Widodo dan disampaikan ke Bursa Efek Indonesia serta Otoritas Jasa Keuangan pada 8 September 2026.",
+   "Ada tiga agenda dalam rapat ini. Pertama, persetujuan pengangkatan kembali atau perubahan susunan Direksi. Perseroan mengutip Pasal 11 ayat 4 Anggaran Dasar yang mengatur masa jabatan direksi hingga RUPS Tahunan kelima setelah pengangkatan, serta ayat 7 yang mewajibkan perseroan mengumumkan RUPS pengisian jabatan selambat-lambatnya 60 hari sejak terjadi lowongan direksi, ketentuan yang relevan setelah ASBI membebastugaskan direktur keuangannya awal September lalu buntut dugaan pencucian uang. Kedua, persetujuan pelepasan aset, merujuk Pasal 12 ayat 3 dan 4 Anggaran Dasar yang mewajibkan persetujuan RUPS dengan kuorum kehadiran minimal tiga perempat pemegang saham berhak suara dan disetujui lebih dari tiga perempat suara yang hadir, jika pelepasan mencapai lebih dari 50 persen kekayaan bersih perseroan dalam satu tahun buku. Surat panggilan ini tidak merinci aset apa yang akan dilepas atau berapa nilainya. Ketiga, penyesuaian Pasal 3 ayat 2 Anggaran Dasar untuk menyelaraskan kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025.",
+   "Pemegang saham yang tidak hadir fisik dapat memberi kuasa lewat Biro Administrasi Efek, PT Bima Registra, paling lambat pukul 16.00 WIB pada 29 September 2026, atau memberikan kuasa maupun suara elektronik lewat sistem eASY.KSEI paling lambat pukul 12.00 WIB pada tanggal yang sama, satu hari kerja sebelum rapat berlangsung. Kuasa yang diterima setelah batas waktu tersebut dinyatakan tidak berlaku untuk digunakan hadir dalam rapat."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office building with glass facade in a busy Jakarta business district at midday",
+  "takeaway": "Laporan ini condong negatif bagi ASBI karena RUPSLB ini adalah sambungan dari gejolak tata kelola yang sudah bergulir sejak awal September, mulai dari pemecatan direktur keuangan buntut dugaan pencucian uang hingga anjloknya harga saham 6,16 persen, dan sekarang perseroan juga meminta persetujuan pemegang saham untuk melepas aset tanpa merinci aset atau nilainya dalam surat panggilan ini. Dua hal yang tersentuh adalah susunan direksi, yang menentukan siapa mengambil keputusan strategis perusahaan asuransi ini ke depan, dan ekuitas atau kekayaan bersih perseroan, karena pelepasan aset dalam skala besar bisa mengubah modal yang menopang bisnis asuransi ASBI. Pelaku pasar memperhatikan ekuitas karena angka itu mencerminkan sisa kekayaan perusahaan untuk pemegang saham setelah dikurangi seluruh kewajiban. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 30 September 2026, terutama siapa yang akhirnya diangkat mengisi kursi direksi dan aset apa yang disetujui untuk dilepas, karena keduanya baru akan terungkap saat rapat berlangsung atau lewat keterbukaan informasi susulan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ctbn-jadwalkan-rupslb-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Jadwalkan RUPSLB [15 Oktober 2026]",
+  "deck": "Citra Tubindo Tbk mengumumkan RUPS Luar Biasa pada 15 Oktober 2026 di Jakarta, dengan tanggal pencatatan pemegang saham 22 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T11:10:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0782447828_ff5793a253.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CTBN",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Citra Tubindo",
+   "korporasi"
+  ],
+  "body": [
+   "Citra Tubindo Tbk (CTBN) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 15 Oktober 2026, pukul 10.00 WIB di Sabang Room, World Trade Centre, Jalan Jenderal Sudirman Kav. 29-31, Jakarta. Rapat akan berlangsung secara fisik dengan kapasitas tamu terbatas sekaligus elektronik melalui sistem Electronic General Meeting eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Perseroan menyatakan berhak menolak kehadiran fisik apabila kapasitas ruangan sudah penuh.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan, atau tercatat di rekening efek maupun bank kustodian di KSEI, pada Selasa, 22 September 2026 pukul 16.00 WIB. Surat pemanggilan resmi yang memuat agenda rapat baru akan diumumkan di laman Bursa Efek Indonesia, situs web Citra Tubindo, dan laman eASY.KSEI pada Rabu, 23 September 2026. Perseroan menghimbau pemegang saham memberi kuasa secara elektronik lewat fasilitas e-Proxy di eASY.KSEI, yang tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, atau mengunduh formulir surat kuasa manual dari situs resmi perusahaan bila memilih di luar mekanisme itu.",
+   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengajukan usulan agenda rapat, dengan syarat memenuhi ketentuan Peraturan OJK No. 15/POJK.04/2020 dan diterima Direksi paling lambat Rabu, 16 September 2026, yakni tujuh hari sebelum tanggal pemanggilan rapat. Pengumuman ini merujuk pada surat sebelumnya bernomor 099/CT-BoD/CORSEC/VIII/2026 dan ditandatangani oleh Corporate Secretary Citra Tubindo, Fanny Astri Anggira, di Jakarta pada 8 September 2026. Dokumen yang diterbitkan belum mengungkap agenda atau materi keputusan yang akan dibahas dalam RUPSLB tersebut."
+  ],
+  "fotoAdegan": "Steel oil-and-gas pipes stacked in neat rows at an industrial fabrication yard, workers in safety vests inspecting welds under overcast sky",
+  "takeaway": "Laporan ini netral bagi Citra Tubindo karena isinya murni jadwal dan tata cara rapat, belum memuat agenda atau keputusan apa pun yang bisa mengubah kondisi keuangan perusahaan. Yang perlu dipahami pemegang saham adalah tanggal pencatatan pemegang saham atau DPS pada 22 September 2026 pukul 16.00 WIB, yaitu batas kepemilikan saham yang menentukan siapa berhak hadir dan memberi suara, sehingga pembeli saham setelah tanggal itu tidak otomatis mendapat hak suara di rapat ini. Perseroan juga menyediakan e-Proxy, semacam surat kuasa elektronik lewat sistem eASY.KSEI, sehingga pemegang saham yang berhalangan hadir fisik tetap bisa menitipkan suaranya. Yang perlu dipantau berikutnya adalah pemanggilan resmi rapat pada 23 September 2026, sebab di situlah agenda dan usulan keputusan RUPSLB baru akan diungkap secara rinci, sebelum rapat digelar pada 15 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "edge-selesaikan-tender-tahap-ii-dehk-kuasai-59-47-saham",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Selesaikan Tender Tahap II, DEHK Kuasai [59,47%] Saham",
+  "deck": "DEHK membeli 360.600 saham EDGE senilai Rp11.500 per saham pada tender tahap II, kepemilikannya naik jadi 59,47% menjelang rencana go private dan delisting EDGE.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T11:00:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59b7e20111_0066161b59.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EDGE",
+  "tags": [
+   "EDGE",
+   "tender offer",
+   "go private",
+   "delisting"
+  ],
+  "body": [
+   "Digital Edge (Hong Kong) Ltd (DEHK) menyelesaikan tahap kedua penawaran tender sukarela atas saham PT Indointernet Tbk (EDGE) pada 4 September 2026, setelah masa penawaran berlangsung sejak 25 Juli hingga 23 Agustus 2026. Tender sukarela ini merupakan bagian dari rencana mengubah status EDGE dari perusahaan terbuka menjadi tertutup, termasuk rencana pembatalan pencatatan (delisting) sahamnya dari Bursa Efek Indonesia. Total saham yang ditawar dalam keseluruhan proses ini mencapai 159.598.500 saham, atau 7,90% dari seluruh saham EDGE yang beredar.",
+   "Pada tahap kedua, DEHK membeli 360.600 saham dengan harga Rp11.500 per saham, setara 0,23% dari total saham yang menjadi objek tender. Digabung dengan tahap pertama yang selesai pada 5 Agustus 2026 sebanyak 7.118.700 saham atau 4,46%, total saham yang berhasil dibeli DEHK sejauh ini adalah 7.479.300 saham, baru 4,69% dari target 159.598.500 saham. Dengan begitu, masih ada sisa saham senilai Rp1,75 triliun yang belum ditenderkan dari total nilai penawaran ini.",
+   "Transaksi ini membuat kepemilikan langsung DEHK di EDGE naik dari 1.201.087.700 saham atau 59,45% dari seluruh saham dan hak suara Perseroan, menjadi 1.201.448.300 saham atau 59,47%. DEHK tetap berstatus sebagai pengendali EDGE dan menyatakan akan mempertahankan posisi pengendalinya itu. Perseroan menyebut transaksi ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Rows of illuminated server racks in a modern data center corridor, a technician walking past carrying equipment, cool blue lighting throughout",
+  "takeaway": "Laporan ini netral bagi fundamental EDGE, karena yang terjadi hanyalah pemegang saham pengendali menambah kepemilikannya sendiri dalam proses go private yang memang sudah berjalan, bukan perubahan pada bisnis atau keuangan perusahaan, dan dokumen ini sendiri menyebut tidak ada dampak operasional maupun keuangan. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, yaitu porsi kepemilikan yang menentukan siapa mengendalikan perusahaan, tapi pergeserannya sangat tipis, dari 59,45% menjadi 59,47%, sehingga tidak mengubah posisi DEHK yang memang sudah menjadi pengendali sejak awal. Jumlah saham beredar EDGE sendiri tidak bertambah karena ini jual beli saham yang sudah ada, bukan penerbitan saham baru. Yang perlu dipantau adalah kelanjutan tender sukarela ini, sebab setelah dua periode DEHK baru berhasil membeli 7,47 juta saham dari target 159,6 juta saham, alias baru 4,69%, sehingga sisa saham senilai sekitar Rp1,75 triliun masih terbuka untuk ditawar sebelum proses delisting EDGE dari bursa bisa dilanjutkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -219,6 +349,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Engineers checking sensor cables on a large elevated highway bridge under construction, heavy machinery nearby, overcast daylight",
   "takeaway": "Laporan ini netral bagi PTPP karena sifatnya pembaruan progres proyek konstruksi yang rutin, bukan aksi korporasi yang mengubah struktur permodalan atau kepemilikan saham. Yang tersentuh di sini adalah potensi pendapatan dari kontrak konstruksi senilai Rp1,46 triliun, karena penyelesaian proyek yang berjalan sesuai target memperbesar peluang pendapatan itu diakui tepat waktu dan mengurangi risiko denda akibat keterlambatan. Pelaku pasar konstruksi biasa mencermati rasio progres fisik dibanding sisa waktu kontrak seperti ini untuk menilai kemampuan eksekusi perusahaan. Yang perlu dipantau selanjutnya adalah penyelesaian sisa pekerjaan 5,077% sebelum tenggat kontrak 14 Oktober 2026, karena keterlambatan dari tanggal itu berpotensi menimbulkan konsekuensi kontraktual bagi PTPP.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "blog-paparkan-ekspansi-jaringan-ke-130-titik-logistik",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Paparkan Ekspansi [Jaringan] ke 130 Titik Logistik",
+  "deck": "Materi public expose BLOG memaparkan jaringan logistik yang tumbuh ke 130 titik dan 16 gudang, sementara liabilitas naik 24 persen sepanjang semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:25:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f4f465f15_ddc00fb402.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "public expose",
+   "logistik",
+   "cold chain"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 8 September 2026, merujuk pada rencana penyelenggaraan yang sebelumnya diumumkan lewat surat bernomor 40/SK/CLI/TTP/VIII/2026 tertanggal 3 September 2026. Materi ditandatangani oleh Wanny Wijaya selaku Direktur sekaligus Corporate Secretary perseroan. Dalam materi tersebut, BLOG memaparkan perjalanan bisnisnya sejak berdiri sebagai perusahaan penyewaan kendaraan niaga pada 2009, bertransformasi menjadi perusahaan logistik pada 2017, berganti nama menjadi B-LOG pada 2018, mendirikan anak usaha pergudangan dan cold storage pada 2022, hingga mencatatkan saham di BEI pada 2025.",
+   "Perseroan menjalankan model bisnis 3PL, yakni penyedia jasa logistik pihak ketiga untuk klien bisnis, dengan fokus pada rantai dingin atau cold chain yang memadukan pergudangan dry dan cold storage dengan transportasi darat. Menurut materi tersebut, per September 2026 BLOG mengoperasikan lebih dari 130 titik operasional di lebih dari 50 kota dan 25 provinsi, didukung lebih dari 3.500 unit armada dan 16 jaringan gudang, naik dari posisi akhir semester I 2026 yang tercatat 126 titik operasional di 47 kota dan 23 provinsi dengan 3.400 armada dan 15 gudang. Perseroan menyebutkan tengah membangun fasilitas cold storage dan smart cold storage secara bertahap di 16 kota, yaitu Bandung, Palembang, Pekanbaru, Medan, Tangerang, Boyolali, Lombok, Banjarmasin, Pontianak, Makassar, Manado, Kotabumi, Tegal, Batam, Sidoarjo, dan Bali.",
+   "Dari sisi kinerja keuangan, pendapatan BLOG tumbuh dari Rp800 miliar pada 2022 menjadi Rp1.328 miliar pada 2025, setara pertumbuhan tahunan majemuk atau CAGR 16 persen, sementara laba bersih naik dari Rp90 miliar menjadi Rp144 miliar pada periode yang sama dengan CAGR 11 persen. Pada semester I 2026, pendapatan tercatat Rp733 miliar, naik 17 persen dari Rp626 miliar pada semester I 2025, sedangkan laba bersih naik 9 persen dari Rp71 miliar menjadi Rp78 miliar. Total aset perseroan naik dari Rp1.032 miliar pada akhir 2025 menjadi Rp1.138 miliar pada semester I 2026, liabilitas naik dari Rp411 miliar menjadi Rp511 miliar, sementara ekuitas hanya naik tipis dari Rp621 miliar menjadi Rp627 miliar."
+  ],
+  "fotoAdegan": "Refrigerated trucks being loaded at a cold storage warehouse dock in an Indonesian industrial area, workers moving pallets, early morning light.",
+  "takeaway": "Paparan publik ini condong netral bagi BLOG: tidak ada kejutan baru pada laba maupun modal dibanding yang sudah diumumkan sebelumnya, tapi data yang disertakan menegaskan ekspansi jaringan terus berlanjut hingga September 2026. Yang patut dicermati adalah komposisi pendanaan ekspansi itu, yakni ekuitas atau modal sendiri perusahaan cuma naik tipis dari Rp621 miliar menjadi Rp627 miliar sepanjang semester ini, sementara liabilitas atau utang melonjak 24 persen menjadi Rp511 miliar, artinya sebagian besar penambahan aset dibiayai dari utang, bukan dari laba ditahan atau modal baru. Komposisi ini penting bagi pemegang saham karena utang yang lebih besar berarti beban bunga yang harus dibayar juga membesar, dan porsi utang terhadap modal yang meningkat membuat perusahaan lebih sensitif pada kenaikan suku bunga. Yang perlu dipantau selanjutnya adalah penjelasan manajemen dalam sesi tanya jawab public expose yang materinya disampaikan 8 September 2026 ini, terutama soal rencana pendanaan lanjutan untuk membiayai ekspansi fasilitas cold storage di 16 kota yang disebutkan dalam materi.",
   "sentimen": "netral"
  },
  {
@@ -375,6 +531,32 @@ var ARTICLES = [
   "imageV": "mts7ss9q"
  },
  {
+  "slug": "clpi-jadwalkan-rupslb-pada-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CLPI Jadwalkan [RUPSLB] pada 15 Oktober 2026",
+  "deck": "Colorpak Indonesia mengumumkan rencana RUPSLB pada 15 Oktober 2026. Pemegang saham yang tercatat hingga 22 September 2026 berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:18:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a58bbbe47f_da55b8b82b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CLPI",
+  "tags": [
+   "CLPI",
+   "RUPSLB",
+   "Colorpak Indonesia",
+   "Corporate Action"
+  ],
+  "body": [
+   "PT Colorpak Indonesia Tbk (CLPI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 15 Oktober 2026 pukul 10.00 WIB, bertempat di kantor perusahaan di Jalan Cideng Barat Nomor 14-17, Jakarta Pusat. Pemberitahuan ini disampaikan Corporate Secretary Herlina Hatorangan pada 8 September 2026, merujuk pada surat sebelumnya bernomor 0490/CI/PERS/IX/2026. Sesuai aturan Otoritas Jasa Keuangan soal penyelenggaraan RUPS perusahaan terbuka, mata acara atau agenda resmi rapat belum diungkapkan pada tahap ini dan baru akan diumumkan bersama surat pemanggilan pada Rabu, 23 September 2026, melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi perusahaan.",
+   "Yang berhak hadir atau diwakili dalam RUPSLB adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 22 September 2026 sampai pukul 16.00 WIB, atau pemilik rekening efek di penitipan kolektif PT Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan di tanggal yang sama. Pemegang saham yang sahamnya berada dalam penitipan kolektif KSEI dapat memberikan kuasa secara elektronik melalui fasilitas eASY.KSEI di tautan akses.ksei.co.id, dengan PT Sinartama Gunita sebagai Biro Administrasi Efek perusahaan.",
+   "Dokumen juga menyebutkan mekanisme pengusulan agenda rapat oleh pemegang saham. Pemegang saham yang ingin mengusulkan mata acara harus mewakili paling sedikit 1/20 atau lebih dari jumlah seluruh saham dengan hak suara yang sah, dan usulan tersebut wajib diterima Direksi melalui surat tercatat paling lambat 7 hari sebelum tanggal pemanggilan resmi rapat."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of printed packaging material on a factory production line, industrial daylight setting",
+  "takeaway": "Pengumuman ini netral bagi Colorpak karena isinya baru sebatas jadwal dan mekanisme RUPSLB, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya ke bisnis perusahaan. Karena mata acara rapat belum diumumkan, belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang bisa dipastikan tersentuh, semuanya baru bisa dinilai setelah agenda sebenarnya diketahui. Yang perlu dipantau pemegang saham adalah batas pencatatan di Daftar Pemegang Saham pada 22 September 2026 agar berhak hadir dan memberi suara, lalu pengumuman resmi mata acara rapat pada 23 September 2026, dan pelaksanaan RUPSLB itu sendiri pada 15 Oktober 2026 yang akan mengungkap apa sebenarnya yang diputuskan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
   "category": "Aksi Korporasi",
   "title": "MGLV Rampungkan Akuisisi [Nextier], NAC-NGC Jadi Anak Usaha",
@@ -451,6 +633,32 @@ var ARTICLES = [
   "fotoAdegan": "Weathered offshore support vessels tied up at a busy Indonesian harbor, tugboats idling nearby under an overcast morning sky.",
   "takeaway": "Laporan ini condong negatif karena laba bersih Rig Tenders anjlok 42 persen dan pendapatan menyusut 20 persen dibanding tahun sebelumnya, sinyal bahwa bisnis penyewaan kapalnya melemah meski neracanya masih sehat. Yang tersentuh adalah laba per saham, yang turun dari Rp157 menjadi Rp91, serta ROE dan ROA, dua ukuran yang menunjukkan seberapa efisien perusahaan menghasilkan laba dari modal dan asetnya, yang sama sama nyaris separuh dari tahun lalu. Pelaku pasar memperhatikan angka ini karena penurunan efisiensi laba biasanya membuat investor menilai ulang kinerja perusahaan meski aset dan ekuitasnya masih bertambah. Auditor juga menandai nilai buku kapal, yang mencapai 35 persen dari total aset perusahaan, sebagai hal audit utama yang akan terus direviu tiap tahun untuk kemungkinan penurunan nilai. Yang perlu dipantau berikutnya adalah apakah tren penurunan pendapatan dan laba ini berlanjut di laporan berikutnya, terutama setelah RIGS baru saja menjawab pertanyaan bursa soal volatilitas sahamnya tanpa mengungkap informasi material baru.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "nikl-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NIKL Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan Pelat Timah Nusantara (NIKL) atas volatilitas transaksi sahamnya. Perusahaan membantah ada informasi atau rencana korporasi tersembunyi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T08:42:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df479f1210_883f9bf0d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NIKL",
+  "tags": [
+   "NIKL",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Pelat Timah Nusantara Tbk (NIKL) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat nomor S-11410/BEI.PP1/09-2026 terkait volatilitas transaksi efek perusahaan. Jawaban resmi disampaikan oleh Agis Tri Susanti, Head of Corporate Secretary Division NIKL, pada 8 September 2026 pukul 08.42 WIB.",
+   "Dalam suratnya, NIKL menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sesuai POJK Nomor 31/POJK.04/2015, dan juga tidak mengetahui informasi yang dapat memengaruhi harga sahamnya sesuai Peraturan Bursa Nomor I-E. Perusahaan juga menegaskan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham dan penjaminan saham perusahaan terbuka.",
+   "Terkait rencana ke depan, NIKL menyatakan tidak memiliki rencana tindakan korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa dalam tiga bulan mendatang. Perusahaan juga menyebut tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, serta menegaskan pemegang saham utama dan pengendali tidak memiliki rencana apa pun terkait kepemilikan sahamnya di NIKL."
+  ],
+  "fotoAdegan": "Workers monitoring rolled tin-coated steel sheets moving through an industrial cold rolling mill line, factory lighting, metallic sheen",
+  "takeaway": "Penjelasan ini netral bagi NIKL, karena keenam jawaban perusahaan seluruhnya berupa penyangkalan standar tanpa satu pun fakta atau angka baru yang mengubah kondisi fundamentalnya. Permintaan semacam ini biasanya keluar ketika bursa mendeteksi harga atau volume transaksi saham bergerak di luar kebiasaan, dan bursa ingin memastikan tidak ada informasi tersembunyi, misalnya rencana pengendali menambah atau melepas saham, sebelum investor lain ikut bertransaksi berdasarkan rumor. NIKL menegaskan tidak ada aktivitas pemegang saham tertentu, tidak ada rencana aksi korporasi dalam tiga bulan ke depan, dan pemegang saham utama maupun pengendali juga tidak menyampaikan rencana apa pun soal kepemilikannya. Yang perlu dipantau berikutnya adalah apakah pola transaksi saham NIKL kembali stabil setelah penjelasan ini terbit pada 8 September 2026, atau bursa mengirim permintaan serupa lagi jika volatilitasnya berlanjut.",
+  "sentimen": "netral"
  },
  {
   "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
@@ -2828,6 +3036,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Factory workers monitoring a flexible plastic packaging printing line, large film rolls, industrial machinery, bright warehouse lighting",
   "takeaway": "Rencana ini condong positif bagi EPAC karena perusahaan secara terbuka mengakui unit usaha konvensionalnya menggerus laba dan memutuskan menutupnya, sambil mengalihkan seluruh kapasitas ke lini digital printing yang menurut manajemen lebih menguntungkan. Yang tersentuh adalah profitabilitas perseroan, mulai dari laba kotor dan laba usaha, sampai EBITDA atau laba operasional sebelum bunga, pajak, dan penyusutan yang mencerminkan kas dari operasional murni, hingga laba bersih, karena semuanya diproyeksikan tumbuh setiap tahun setelah pabrik lama berhenti beroperasi. Perlu digarisbawahi, target pertumbuhan penjualan 15 persen per tahun dan estimasi nilai wajar saham Rp163 itu proyeksi milik perseroan sendiri, bukan hasil audit independen, sehingga sifatnya masih rencana dan bisa meleset. Yang perlu dipantau berikutnya adalah realisasi penghentian pabrik konvensional MES per 31 Desember 2026 serta progres pembangunan pabrik baru di Surabaya sepanjang 2027, karena keduanya menentukan apakah proyeksi pertumbuhan laba tadi benar-benar tercapai.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "soci-laba-bersih-melonjak-ke-us-20-3-juta-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "SOCI: Laba Bersih [Melonjak] ke US$20,3 Juta H1 2026",
+  "deck": "Soechi Lines mencatat laba bersih US$20,29 juta pada semester I 2026, naik dari US$7 juta tahun lalu, ditopang kenaikan pendapatan dan laba penjualan kapal lama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "7 September 2026",
+  "isoDate": "2026-09-07T08:21:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260907084747-64259-0/FinancialStatement-2026-II-SOCI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOCI",
+  "tags": [
+   "SOCI",
+   "laporan keuangan",
+   "pelayaran",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Soechi Lines Tbk (SOCI) menyampaikan laporan keuangan konsolidasian interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026. Laporan diaudit oleh KAP Mirawati Sensi Idris dengan partner penanggung jawab Mulyadi, dan memperoleh opini wajar tanpa modifikasian atau opini bersih. Perusahaan membukukan pendapatan neto US$78,74 juta, naik tipis dari US$76,25 juta pada semester I 2025, sementara laba bersih melonjak dari US$6,99 juta menjadi US$20,29 juta. Laba per saham dasar ikut naik dari US$0,0010 menjadi US$0,0029.",
+   "Kenaikan laba tidak hanya berasal dari kegiatan usaha inti. Laba usaha memang tumbuh dari US$14,82 juta menjadi US$19,21 juta, tetapi kontribusi besar lainnya datang dari pos di luar usaha pokok, yaitu keuntungan pelepasan aset tetap sebesar US$7,35 juta, berbalik dari rugi US$367.364 pada periode yang sama tahun lalu. Dalam laporan arus kas, perusahaan mencatat penerimaan tunai US$34 juta dari penjualan kapal, sementara pada saat bersamaan mengeluarkan US$93,22 juta untuk membeli aset tetap baru, jauh lebih besar dari US$27,52 juta pada semester I 2025. Belanja modal ini sebagian dibiayai dari pinjaman bank baru senilai US$58,5 juta, naik dari US$29,75 juta tahun sebelumnya.",
+   "Di sisi neraca, total aset naik dari US$603,52 juta menjadi US$651,22 juta, dan total ekuitas naik dari US$406,65 juta menjadi US$426,26 juta. Namun kas dan setara kas turun tajam dari US$21,78 juta menjadi US$9 juta, dan rasio lancar perusahaan melemah dari 90 persen menjadi 73 persen. Perusahaan juga membayar dividen tunai US$793.994 selama periode berjalan dan mencatat utang dividen US$790.659 yang belum dibayarkan per 30 Juni 2026. Auditor mencantumkan satu hal audit utama, yaitu penilaian nilai tercatat kapal Grup yang mencapai US$336,96 juta neto, karena nilainya signifikan terhadap laporan posisi keuangan dan ditelaah setiap tahun oleh manajemen. Laporan juga mencantumkan dua entitas anak baru yang mulai beroperasi pada 2026, yaitu Soechi Eternity Maritime FZCO di Uni Emirat Arab dan Great Ocean Marine Ltd di Kepulauan Marshall, sementara Eternity Ocean Maritime Ltd di Marshall Islands belum beroperasi secara komersial."
+  ],
+  "fotoAdegan": "Wide shot of a large oil tanker docked at a busy Indonesian port, tugboats nearby, cranes and cargo containers in soft afternoon light",
+  "takeaway": "Laporan ini condong positif bagi Soechi Lines karena laba bersih hampir tiga kali lipat dan laba usaha dari kegiatan pokok juga tumbuh sekitar 30 persen, bukan sekadar didorong angka sekali jalan. Yang perlu dicermati adalah posisi kas dan rasio lancar, yaitu perbandingan aset yang mudah dicairkan dengan utang jangka pendek, yang justru melemah dari 90 persen ke 73 persen karena perusahaan membelanjakan US$93,22 juta untuk kapal baru sambil menambah pinjaman bank sebesar US$58,5 juta. Ekuitas, yaitu total kekayaan bersih yang menjadi hak pemegang saham, tetap tumbuh ke US$426,26 juta, dan laba per saham naik ke US$0,0029, tanda bahwa tambahan laba itu dinikmati tanpa penambahan jumlah saham beredar. Yang perlu dipantau berikutnya adalah apakah posisi kas perusahaan pulih pada laporan kuartal berikutnya setelah belanja modal besar ini, serta bagaimana nilai kapal senilai US$336,96 juta dinilai kembali pada laporan tahunan mendatang, mengingat auditor menandainya sebagai hal audit utama karena risiko salah saji.",
   "sentimen": "positif"
  },
  {

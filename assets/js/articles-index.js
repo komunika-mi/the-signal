@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "abmm-jadwalkan-rupslb-pada-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "ABMM Jadwalkan [RUPSLB] pada 15 Oktober 2026",
+  "deck": "ABM Investama mengumumkan rencana RUPSLB pada 15 Oktober 2026 secara elektronik, dengan pemegang saham per 22 September berhak hadir.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ABMM",
+   "RUPSLB",
+   "ABM Investama",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef89018b8_c8020f097d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "erupsi-menerus-berhenti-anak-krakatau-tetap-siaga",
   "category": "Energi",
   "title": "Erupsi Menerus Berhenti, Anak Krakatau Tetap [Siaga]",
@@ -21,6 +37,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/erupsi-menerus-anak-krakatau-berakhir-aktivitas-gunung-api-kembali-menurun-dan-tetap-dipantau",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "baik-akui-evaluasi-restrukturisasi-outlet-merugi-usai-disuspensi",
+  "category": "Aksi Korporasi",
+  "title": "BAIK Akui Evaluasi [Restrukturisasi] Outlet Merugi Usai Disuspensi",
+  "deck": "Public expose insidentil BAIK usai suspensi saham mengungkap rencana evaluasi outlet merugi, tapi manajemen belum membeberkan angka konkret jumlah gerai yang terdampak.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "Public Expose",
+   "Suspensi Saham",
+   "Bersama Mencapai Puncak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0fa477e401_d4b09f8da5.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
@@ -107,6 +139,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "asbi-panggil-rupslb-agendakan-pergantian-direksi",
+  "category": "Aksi Korporasi",
+  "title": "ASBI Panggil RUPSLB, Agendakan [Pergantian] Direksi",
+  "deck": "Asuransi Bintang mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian direksi, pelepasan aset, dan penyesuaian KBLI.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "RUPSLB",
+   "Asuransi Bintang",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31cb6dd8b7_5785362249.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ctbn-jadwalkan-rupslb-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CTBN Jadwalkan RUPSLB [15 Oktober 2026]",
+  "deck": "Citra Tubindo Tbk mengumumkan RUPS Luar Biasa pada 15 Oktober 2026 di Jakarta, dengan tanggal pencatatan pemegang saham 22 September 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CTBN",
+   "RUPSLB",
+   "Citra Tubindo",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0782447828_ff5793a253.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "edge-selesaikan-tender-tahap-ii-dehk-kuasai-59-47-saham",
+  "category": "Aksi Korporasi",
+  "title": "EDGE Selesaikan Tender Tahap II, DEHK Kuasai [59,47%] Saham",
+  "deck": "DEHK membeli 360.600 saham EDGE senilai Rp11.500 per saham pada tender tahap II, kepemilikannya naik jadi 59,47% menjelang rencana go private dan delisting EDGE.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EDGE",
+   "tender offer",
+   "go private",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/59b7e20111_0066161b59.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -136,6 +216,22 @@ var ARTICLES = [
    "konstruksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ebe9d4ca0_4bbb0845dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "blog-paparkan-ekspansi-jaringan-ke-130-titik-logistik",
+  "category": "Aksi Korporasi",
+  "title": "BLOG Paparkan Ekspansi [Jaringan] ke 130 Titik Logistik",
+  "deck": "Materi public expose BLOG memaparkan jaringan logistik yang tumbuh ke 130 titik dan 16 gudang, sementara liabilitas naik 24 persen sepanjang semester I 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "public expose",
+   "logistik",
+   "cold chain"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f4f465f15_ddc00fb402.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -232,6 +328,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465632-turun-rp10000-harga-emas-antam-hari-ini-8-september-2026-jadi-rp2627000-per-gram"
  },
  {
+  "slug": "clpi-jadwalkan-rupslb-pada-15-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "CLPI Jadwalkan [RUPSLB] pada 15 Oktober 2026",
+  "deck": "Colorpak Indonesia mengumumkan rencana RUPSLB pada 15 Oktober 2026. Pemegang saham yang tercatat hingga 22 September 2026 berhak hadir dan memberi suara.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CLPI",
+   "RUPSLB",
+   "Colorpak Indonesia",
+   "Corporate Action"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a58bbbe47f_da55b8b82b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
   "category": "Aksi Korporasi",
   "title": "MGLV Rampungkan Akuisisi [Nextier], NAC-NGC Jadi Anak Usaha",
@@ -277,6 +389,22 @@ var ARTICLES = [
    "emiten pelayaran"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260908091133-64265-0/FinancialStatement-2025-Tahunan-RIGS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nikl-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "NIKL Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Bursa Efek Indonesia meminta penjelasan Pelat Timah Nusantara (NIKL) atas volatilitas transaksi sahamnya. Perusahaan membantah ada informasi atau rencana korporasi tersembunyi.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NIKL",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df479f1210_883f9bf0d5.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1747,6 +1875,22 @@ var ARTICLES = [
    "kemasan fleksibel"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a86f3c3ae_94e04ee0df.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "soci-laba-bersih-melonjak-ke-us-20-3-juta-h1-2026",
+  "category": "Aksi Korporasi",
+  "title": "SOCI: Laba Bersih [Melonjak] ke US$20,3 Juta H1 2026",
+  "deck": "Soechi Lines mencatat laba bersih US$20,29 juta pada semester I 2026, naik dari US$7 juta tahun lalu, ditopang kenaikan pendapatan dan laba penjualan kapal lama.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOCI",
+   "laporan keuangan",
+   "pelayaran",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260907084747-64259-0/FinancialStatement-2026-II-SOCI.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6395,151 +6539,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69cc60f983_ffd69591b7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "nfcx-jelaskan-volatilitas-pemegang-saham-utama-tambah-saham",
-  "category": "Aksi Korporasi",
-  "title": "NFCX Jelaskan Volatilitas, Pemegang Saham Utama [Tambah] Saham",
-  "deck": "NFCX menjawab permintaan BEI soal volatilitas transaksi, mengungkap pembelian saham oleh PT 1 Inti Dot Com dan rencana penambahan modal yang belum dijadwalkan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NFCX",
-   "volatilitas saham",
-   "PMTHMETD",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/74493ac8d4_19dbaba655.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tris-bagi-dividen-interim-rp2-27-saham-cair-23-september-dividen",
-  "category": "Aksi Korporasi",
-  "title": "TRIS Bagi Dividen Interim Rp2,27/Saham, Cair 23 September [dividen]",
-  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dibayarkan 23 September kepada pemegang saham yang tercatat 11 September.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIS",
-   "dividen interim",
-   "Trisula International",
-   "emiten tekstil"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b8ad1e57d_db9f6b3b88.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi",
-  "category": "Makroekonomi",
-  "title": "Data Desil DTSEN Keliru? Pemerintah Buka Jalur [Koreksi]",
-  "deck": "Kementerian Sosial memastikan status desil DTSEN yang dianggap warga tidak sesuai kondisi ekonomi bisa dikoreksi lewat Command Center, WhatsApp, aplikasi Cek Bansos, atau kantor kelurahan.",
-  "date": "1 September 2026",
-  "image": "assets/img/data-desil-dtsen-keliru-pemerintah-buka-jalur-koreksi.jpg",
-  "imageV": "mtir86i4",
-  "tags": [
-   "DTSEN",
-   "Desil",
-   "Bantuan Sosial",
-   "Kemensos"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464166-desil-dtsen-bisa-salah-gus-ipul-buka-pintu-koreksi-data-bahlil-singgung-nasib-pembatasan-pertalite"
- },
- {
-  "slug": "dooh-koreksi-laporan-realisasi-dana-ipo-sisa-rp41-8-m",
-  "category": "Aksi Korporasi",
-  "title": "DOOH [Koreksi] Laporan Realisasi Dana IPO, Sisa Rp41,8 M",
-  "deck": "Era Media Sejahtera mengoreksi laporan realisasi dana IPO 2023: Rp110,85 miliar sudah terpakai, Rp41,77 miliar masih mengendap di giro Bank DKI.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "IPO",
-   "penggunaan dana",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a7b9b5ece7_6565396f73.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi",
-  "category": "Pasar Modal",
-  "title": "IHSG [Naik] 1,14% ke 6.599,94, Ditopang Energi-Teknologi",
-  "deck": "IHSG ditutup menguat 1,14 persen ke 6.599,94 pada Selasa, ditopang lonjakan sektor perindustrian, teknologi, dan energi.",
-  "date": "1 September 2026",
-  "image": "assets/img/ihsg-naik-1-14-ke-6-599-94-ditopang-energi-teknologi.jpg",
-  "imageV": "mtir86y7",
-  "tags": [
-   "IHSG",
-   "Bursa Efek Indonesia",
-   "saham energi",
-   "saham teknologi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464151-ihsg-tancap-gas-di-akhir-perdagangan-naik-114-ke-659994-saham-energi-dan-teknologi-jadi-penopang"
- },
- {
-  "slug": "luck-gelar-rupslb-alihkan-saham-investor-asing-ke-publik",
-  "category": "Aksi Korporasi",
-  "title": "LUCK Gelar RUPSLB, [Alihkan] Saham Investor Asing ke Publik",
-  "deck": "Sentral Mitra Informatika memanggil RUPSLB pada 23 September 2026 untuk mengubah anggaran dasar sesuai KBLI 2025 dan menegaskan status kepemilikan Serial System Internasional Pte Ltd menjadi milik publik.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LUCK",
-   "RUPSLB",
-   "Sentral Mitra Informatika",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ced4b0c9c6_6cbdf5473c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-wakil-direktur-utama-baru-resmi-menjabat",
-  "category": "Aksi Korporasi",
-  "title": "INTP: [Wakil Direktur Utama] Baru Resmi Menjabat",
-  "deck": "Jose Maria Magrina Vadillo resmi menjabat Wakil Direktur Utama Indocement sejak 1 September 2026, merealisasikan keputusan RUPST Mei lalu, dengan masa jabatan hingga 2029.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTP",
-   "Indocement",
-   "Direksi",
-   "Wakil Direktur Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4efd462111_55063f81f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penumpang-ka-juli-capai-52-12-juta-tertinggi-6-bulan",
-  "category": "Bisnis",
-  "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
-  "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
-  "date": "1 September 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "bps",
-   "kereta api",
-   "transportasi",
-   "penumpang"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "turis-asing-juli-1-53-juta-naik-4-bulan-beruntun",
-  "category": "Bisnis",
-  "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
-  "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
-  "date": "1 September 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "bps",
-   "wisatawan",
-   "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
  }
 ];

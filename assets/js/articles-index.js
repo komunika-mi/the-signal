@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "saham-dooh-masuk-daftar-pemantauan-khusus-bei-mulai-9-september",
+  "category": "Aksi Korporasi",
+  "title": "Saham DOOH [Masuk] Daftar Pemantauan Khusus BEI Mulai 9 September",
+  "deck": "Bursa Efek Indonesia memasukkan saham DOOH (PT Era Media Sejahtera Tbk) ke daftar pemantauan khusus mulai 9 September 2026, menyusul suspensi perdagangan lebih dari satu hari.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOOH",
+   "BEI",
+   "pemantauan khusus",
+   "suspensi perdagangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc8ddd93aa_ea386ea8ee.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amar-gelar-rupslb-30-september-ganti-direktur-kepatuhan",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Gelar RUPSLB 30 September, Ganti [Direktur Kepatuhan]",
+  "deck": "Bank Amar Indonesia memanggil pemegang saham untuk RUPSLB 30 September 2026 guna menyetujui pengunduran diri Thio Sucy dan pengangkatan Tjetjen Saputra sebagai Direktur Kepatuhan.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAR",
+   "RUPSLB",
+   "Direktur Kepatuhan",
+   "Bank Amar Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cefd4a8287_e14aea8c90.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ssia-pangkas-target-pendapatan-2026-jadi-rp7-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SSIA [Pangkas] Target Pendapatan 2026 jadi Rp7,2 Triliun",
+  "deck": "Public expose tahunan SSIA mengungkap revisi target pendapatan 2026 dari Rp7,5 triliun menjadi Rp7,2 triliun, sementara laba bersih tetap ditarget melonjak 570 persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SSIA",
+   "public expose",
+   "target pendapatan",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71d5704bbe_0700251c4d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-sesuaikan-harga-waran-terstruktur-bmri-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Harga Waran [Terstruktur] BMRI Usai Dividen Interim",
+  "deck": "Harga pelaksanaan dan rasio konversi BMRIZPCX6A serta BMRIZPCH7A disesuaikan menyusul dividen interim BMRI Rp66 per saham, efektif 16-18 September 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "BMRI",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6039b34a91_dfb6f974cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-terbitkan-jaminan-us-11-juta-untuk-akuisisi-blok-kasuri",
+  "category": "Aksi Korporasi",
+  "title": "RATU Terbitkan Jaminan US$11 Juta untuk Akuisisi [Blok Kasuri]",
+  "deck": "RATU menjamin US$11 juta kewajiban anak usahanya, Raharja Energi Negeri, ke mitra Singapura Genting Oil Kasuri terkait pengalihan hak partisipasi di proyek migas.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "transaksi afiliasi",
+   "jaminan perusahaan",
+   "Blok Kasuri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b709d801af_c3b7b008d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akku-jelaskan-ke-bursa-soal-kelangsungan-usaha-yang-diragukan",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Jelaskan ke Bursa soal [Kelangsungan] Usaha yang Diragukan",
+  "deck": "AKKU merespons permintaan penjelasan BEI atas opini audit Wajar Dengan Pengecualian dan keraguan kelangsungan usaha akibat akumulasi rugi Rp304,41 miliar per Juni 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKKU",
+   "opini audit",
+   "kelangsungan usaha",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d6b8437251_91207ac78c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-paparkan-kinerja-ekuitas-naik-der-melonjak-ke-2-42x",
+  "category": "Aksi Korporasi",
+  "title": "RATU Paparkan Kinerja: Ekuitas Naik, DER Melonjak ke [2,42x]",
+  "deck": "Materi public expose RATU: total aset naik jadi US$231,8 juta pasca akuisisi Blok Madura, dan rasio utang terhadap ekuitas melonjak ke 2,42 kali dari 1,05 kali.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "Raharja Energi Cepu",
+   "Blok Madura",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/112cfc3da0_98481e2f3c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "daya-jawab-bursa-soal-lonjakan-transaksi-soroti-free-float",
+  "category": "Aksi Korporasi",
+  "title": "DAYA Jawab Bursa Soal Lonjakan Transaksi, Soroti [Free Float]",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, DAYA menyatakan tidak ada informasi material baru, namun mengaku masih mengevaluasi cara memenuhi ketentuan free float bursa.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAYA",
+   "volatilitas transaksi",
+   "free float",
+   "Duta Intidaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9eb2b2641_9a15174ad7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-cek-kesiapan-aft-babullah-di-ternate",
   "category": "Energi",
   "title": "Pertamina Cek Kesiapan [AFT] Babullah di Ternate",
@@ -37,6 +165,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465710-pastikan-kepentingan-perusahaan-tetap-terjaga-telkomgroup-optimalkan-aset-properti"
+ },
+ {
+  "slug": "dmnd-panggil-rupslb-30-september-ubah-susunan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "DMND Panggil RUPSLB 30 September, Ubah Susunan [Komisaris]",
+  "deck": "PT Diamond Food Indonesia Tbk mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian Dewan Komisaris dan penyesuaian klasifikasi usaha ke KBLI 2025.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "KBLI 2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61129200e2_131eefd57e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-rampungkan-akuisisi-5-saham-pt-lng-dari-genting",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Rampungkan Akuisisi 5% Saham PT LNG dari [Genting]",
+  "deck": "Anak usaha RAJA, PT Raharja Gas Kasuri, menuntaskan pembelian 5 persen saham PT Layar Nusantara Gas dari Genting LNG sebagai bagian kemitraan FLNG.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "akuisisi",
+   "FLNG",
+   "Genting LNG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f2c130b62d_50d3b87ed3.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
@@ -6378,167 +6538,6 @@ var ARTICLES = [
    "LNG"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3955ead1_ea2641e3d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "chek-jawab-bursa-utang-bank-baru-rp28-m-pendapatan-30",
-  "category": "Aksi Korporasi",
-  "title": "CHEK Jawab Bursa: [Utang Bank] Baru Rp28 M, Pendapatan +30%",
-  "deck": "CHEK menjawab permintaan penjelasan Bursa soal proyeksi keuangan dan laporan keuangan 2025-2026, mencakup kenaikan utang bank, beban usaha, dan persediaan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEK",
-   "Diastika Biotekindo",
-   "keterbukaan informasi",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a37306994_50f66f7bef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-batalkan-rupsu-sukuk-tahap-ii-jadwal-17-september",
-  "category": "Aksi Korporasi",
-  "title": "WIKA [Batalkan] RUPSU Sukuk Tahap II, Jadwal 17 September",
-  "deck": "WIKA membatalkan rapat pemegang Sukuk Tahap II yang dijadwalkan 17 September 2026, tanpa menjelaskan alasan, di tengah rentetan permintaan penundaan pembayaran sukuk emiten ini.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1744138978_31bbc714a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-batalkan-rupsu-sukuk-tahap-i-belum-ada-jadwal-baru",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Batalkan RUPSU Sukuk Tahap I, [Belum] Ada Jadwal Baru",
-  "deck": "WIKA dan wali amanat PT Bank Mega membatalkan RUPSU Sukuk Tahap I yang semula dijadwalkan 15 September 2026, tanpa menyebut tanggal pengganti maupun alasan pembatalan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b4bf18cb60_eecfe78764.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-realisasikan-86-dana-rights-issue-untuk-proyek-tol",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Realisasikan 86% Dana Rights Issue untuk [Proyek Tol]",
-  "deck": "Realisasi penggunaan dana rights issue 2022 ADHI capai Rp2,27 triliun per Juni 2026, sisa Rp378,69 miliar ditargetkan tuntas Desember 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "rights issue",
-   "penggunaan dana",
-   "jalan tol"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76b4f6b432_18d848b8e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cnma-tanggapi-bei-kas-turun-rp421-5-m-piutang-macet-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "CNMA Tanggapi BEI, Kas Turun Rp421,5 M, [Piutang] Macet Melonjak",
-  "deck": "PT Nusantara Sejahtera Raya Tbk (CNMA) merinci ke BEI penyebab turunnya kas Rp421,5 miliar dan melonjaknya piutang lewat jatuh tempo pada semester I 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNMA",
-   "bursa efek indonesia",
-   "laporan keuangan",
-   "piutang usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f750dcecf_adf5e765e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgjo-bukukan-laba-rp4-69-miliar-aset-melonjak-394",
-  "category": "Aksi Korporasi",
-  "title": "PGJO Bukukan Laba Rp4,69 Miliar, Aset Melonjak [394%]",
-  "deck": "PGJO, dulu Tourindo Guide Indonesia, cetak laba Rp4,69 miliar semester I 2026 usai beralih ke bisnis pelayaran dan tambang, tapi utang ke pihak berelasi melonjak jadi Rp88,11 miliar.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGJO",
-   "laporan keuangan interim",
-   "utang pihak berelasi",
-   "pelayaran dan tambang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901202434-64149-0/FinancialStatement-2026-II-PGJO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pembatasan-pertalite-desil-9-10-tunggu-validasi-data",
-  "category": "Energi",
-  "title": "Pembatasan Pertalite Desil 9-10 [Tunggu] Validasi Data",
-  "deck": "Menteri ESDM Bahlil Lahadalia menyebut rencana pembatasan Pertalite bagi kelompok desil 9-10 masih menunggu validasi data agar subsidi BBM tepat sasaran.",
-  "date": "1 September 2026",
-  "image": "assets/img/pembatasan-pertalite-desil-9-10-tunggu-validasi-data.jpg",
-  "imageV": "mtir851w",
-  "tags": [
-   "bbm",
-   "pertalite",
-   "desil",
-   "bahlil lahadalia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464219-wacana-pembatasan-bbm-pertalite-untuk-warga-desil-9-10-bahlil-ungkap-tunggu-validasi-data"
- },
- {
-  "slug": "isat-lunasi-obligasi-dan-sukuk-rp255-miliar-2-september",
-  "category": "Aksi Korporasi",
-  "title": "ISAT [Lunasi] Obligasi dan Sukuk Rp255 Miliar 2 September",
-  "deck": "Indosat menyiapkan dana Rp255 miliar untuk melunasi obligasi Seri E dan sukuk ijarah Seri D yang jatuh tempo 2 September 2026, setelah itu kedua efek ini berhenti diperdagangkan di bursa.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISAT",
-   "obligasi korporasi",
-   "sukuk ijarah",
-   "jatuh tempo obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eece3316fa_f8398ba3d0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bino-lewati-tenggat-free-float-pengendali-minta-perpanjangan-ojk",
-  "category": "Aksi Korporasi",
-  "title": "BINO Lewati Tenggat [Free Float], Pengendali Minta Perpanjangan OJK",
-  "deck": "Pengendali PT Perma Plasindo Tbk belum memenuhi kewajiban pelepasan 5,68% saham ke publik yang jatuh tempo 31 Agustus 2026 dan akan meminta perpanjangan waktu ke OJK.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINO",
-   "free float",
-   "OJK",
-   "pengendali saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c2ba9a2c6_71e2eaf74c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbma-catatkan-obligasi-rp2-34-triliun-di-bei-bunga-9-10-5",
-  "category": "Aksi Korporasi",
-  "title": "MBMA Catatkan [Obligasi] Rp2,34 Triliun di BEI, Bunga 9-10,5%",
-  "deck": "Merdeka Battery Materials mencatatkan Obligasi Berkelanjutan I Tahap V senilai Rp2,34 triliun di BEI mulai 2 September 2026, terbagi tiga seri dengan bunga 9-10,5 persen dan tenor hingga lima tahun.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "obligasi korporasi",
-   "pasar modal",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11fa7c8504_8371b18b3a.pdf",
   "sourceLabel": "IDX"
  }
 ];

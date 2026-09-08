@@ -3,6 +3,215 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "saham-dooh-masuk-daftar-pemantauan-khusus-bei-mulai-9-september",
+  "category": "Aksi Korporasi",
+  "title": "Saham DOOH [Masuk] Daftar Pemantauan Khusus BEI Mulai 9 September",
+  "deck": "Bursa Efek Indonesia memasukkan saham DOOH (PT Era Media Sejahtera Tbk) ke daftar pemantauan khusus mulai 9 September 2026, menyusul suspensi perdagangan lebih dari satu hari.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:02:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dc8ddd93aa_ea386ea8ee.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "DOOH",
+   "BEI",
+   "pemantauan khusus",
+   "suspensi perdagangan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan saham PT Era Media Sejahtera Tbk dengan kode DOOH masuk ke daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, efektif mulai 9 September 2026. Pengumuman bernomor Peng-PK-00064/BEI.PLP/09-2026 ini diterbitkan pada 8 September 2026 pukul 17.02 WIB dan ditandatangani oleh Stalsa Frani Akmyga, Pelaksana Harian Kepala Divisi Pemantauan dan Likuiditas Perdagangan BEI. DOOH tercatat di Papan Pengembangan dan berstatus 'Masuk' pada daftar ini, bukan sedang keluar dari daftar sebelumnya.",
+   "Alasan masuknya DOOH ke daftar pemantauan khusus tercantum sebagai kriteria nomor 10 dari sebelas kriteria yang diatur BEI, yaitu saham tersebut pernah dikenakan penghentian sementara perdagangan (suspensi) selama lebih dari satu hari bursa akibat aktivitas perdagangan saham itu sendiri. Ini berbeda dari kriteria lain dalam daftar yang sama, seperti opini disclaimer atas laporan keuangan, ekuitas negatif, atau likuiditas transaksi yang rendah, yang tidak disebutkan berlaku untuk DOOH dalam pengumuman ini.",
+   "BEI juga mencatat bahwa DOOH tidak termasuk kategori Saham Dengan Hak Suara Multipel (SDHSM), yang berarti klasifikasi pemantauan khusus ini murni terkait rekam jejak perdagangan sahamnya, bukan struktur kepemilikan atau hak suara pemegang saham."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's financial district skyscrapers under hazy afternoon light, pedestrians crossing a busy street below.",
+  "takeaway": "Penilaian redaksi condong negatif, karena masuknya DOOH ke daftar pemantauan khusus BEI adalah penanda risiko yang dilihat pelaku pasar, bukan sekadar catatan administratif biasa. Penyebabnya pun bukan soal kinerja keuangan seperti ekuitas atau laba, melainkan riwayat penghentian sementara perdagangan sahamnya sendiri, yang membuat likuiditas atau kemudahan saham ini diperjualbelikan menjadi sorotan bursa. Investor dan pemegang saham DOOH perlu memantau perkembangan sejak status ini efektif berlaku 9 September 2026, termasuk apakah pola perdagangan yang memicu suspensi sebelumnya kembali terjadi, karena hal itu yang akan menentukan apakah bursa mempertahankan atau mencabut status pemantauan khusus ini di kemudian hari.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "amar-gelar-rupslb-30-september-ganti-direktur-kepatuhan",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Gelar RUPSLB 30 September, Ganti [Direktur Kepatuhan]",
+  "deck": "Bank Amar Indonesia memanggil pemegang saham untuk RUPSLB 30 September 2026 guna menyetujui pengunduran diri Thio Sucy dan pengangkatan Tjetjen Saputra sebagai Direktur Kepatuhan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:01:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cefd4a8287_e14aea8c90.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAR",
+  "tags": [
+   "AMAR",
+   "RUPSLB",
+   "Direktur Kepatuhan",
+   "Bank Amar Indonesia"
+  ],
+  "body": [
+   "PT Bank Amar Indonesia Tbk (AMAR) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 30 September 2026 pukul 14.00 WIB. Rapat berlangsung secara fisik di Kantor Pusat Perseroan, RDTX Square Lantai 11, Jakarta Selatan, sekaligus secara elektronik melalui platform Electronic General Meeting System KSEI (eASY.KSEI). Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 7 September 2026 pukul 16.00 WIB.",
+   "Rapat ini hanya membawa satu mata acara, yaitu perubahan susunan anggota Direksi dan/atau Dewan Komisaris Perseroan. Secara spesifik, agenda tersebut berisi dua keputusan yang akan dimintakan persetujuan pemegang saham: menerima pengunduran diri Thio Sucy dari jabatan Direktur Kepatuhan, dan mengangkat Tjetjen Saputra sebagai penggantinya di posisi yang sama. Riwayat hidup calon Direktur Kepatuhan baru tersebut dapat diunduh pemegang saham melalui situs web resmi Amar Bank sebelum rapat berlangsung.",
+   "Bagi pemegang saham yang tidak hadir langsung, Perseroan menyediakan mekanisme kuasa elektronik melalui eASY.KSEI sampai satu hari kerja sebelum rapat pukul 12.00 WIB, atau kuasa konvensional melalui PT Datindo Entrycom selaku Biro Administrasi Efek yang harus diserahkan paling lambat 25 September 2026. Perseroan menegaskan pemanggilan ini adalah undangan resmi satu-satunya dan tidak mengirimkan surat undangan terpisah kepada masing-masing pemegang saham."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a modern corporate meeting hall, tall windows, soft morning light, Jakarta office tower",
+  "takeaway": "Laporan ini netral bagi Amar Bank, karena pergantian Direktur Kepatuhan berjalan lewat mekanisme RUPSLB yang normal, tanpa keterangan masalah atau dampak finansial apa pun di baliknya. Pergantian direksi seperti ini memang tidak langsung mengubah pos-pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi jabatan Direktur Kepatuhan tetap diawasi pelaku pasar karena posisi ini yang menjaga bank tunduk pada aturan OJK dan Bank Indonesia, sehingga pergantian pucuk pimpinannya bisa memengaruhi ritme pengawasan kepatuhan untuk sementara waktu. Yang perlu dipantau selanjutnya adalah hasil keputusan RUPSLB pada 30 September 2026 dan rekam jejak Tjetjen Saputra sebagai calon Direktur Kepatuhan baru, yang riwayat hidupnya sudah bisa diakses publik di situs Amar Bank sebelum rapat digelar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ssia-pangkas-target-pendapatan-2026-jadi-rp7-2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SSIA [Pangkas] Target Pendapatan 2026 jadi Rp7,2 Triliun",
+  "deck": "Public expose tahunan SSIA mengungkap revisi target pendapatan 2026 dari Rp7,5 triliun menjadi Rp7,2 triliun, sementara laba bersih tetap ditarget melonjak 570 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T16:44:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71d5704bbe_0700251c4d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SSIA",
+  "tags": [
+   "SSIA",
+   "public expose",
+   "target pendapatan",
+   "data center"
+  ],
+  "body": [
+   "PT Surya Semesta Internusa Tbk (SSIA) menggelar public expose tahunan pada 7 September 2026 yang dihadiri 129 peserta dari kalangan investor, media, dan masyarakat umum. Dalam sesi tanya jawab, Direktur Erlin Budiman memaparkan anggaran belanja modal 2026 sebesar Rp2,2 triliun, dengan Rp1,5 triliun dialokasikan untuk pembangunan Subang Smartpolitan berupa akuisisi dan pengembangan lahan, serta Rp330 miliar untuk kelanjutan proyek Paradisus by Melia Bali. Hingga semester pertama 2026, realisasi belanja modal sudah mencapai Rp1,1 triliun, terdiri dari sekitar Rp800 miliar untuk Subang Smartpolitan dan Rp200 miliar untuk Paradisus, sementara sisanya dianggarkan untuk anak usaha lain seperti unit perhotelan dan NRCA.",
+   "Erlin Budiman juga mengumumkan revisi target pendapatan 2026 dari semula Rp7,5 triliun menjadi Rp7,2 triliun, akibat perlambatan perolehan kontrak baru dan realisasi penjualan lahan industri. Meski begitu, manajemen tetap menargetkan pertumbuhan pendapatan 63 persen secara tahunan dan laba bersih sekitar Rp400 miliar, naik sekitar 570 persen dibanding tahun sebelumnya.",
+   "Dari sisi bisnis, Direktur Wilson Effendy menyebut permintaan lahan data center meningkat di Karawang dan Subang, dengan target penjualan sekitar 10 hektare lahan data center di Karawang tahun ini, sementara di Subang infrastruktur listrik tahap pertama sudah rampung dan tenant data center diharapkan masuk tahun depan. Direktur Johannes Suriadjaja menambahkan bahwa anak usaha NRCA sedang mengikuti tender proyek konstruksi data center dengan nilai cukup besar yang hasilnya masih ditunggu. Tingkat keterisian hotel semester pertama 2026 tercatat BATIQA di tujuh lokasi 71 persen, UMANA Bali 47 persen, Paradisus by Melia Bali 44 persen dengan target di atas 60 persen pada akhir tahun, dan Gran Melia Jakarta 38 persen. Untuk proyek jalan tol Patimban, seksi pemerintah sudah mencapai progres 70 persen sementara seksi swasta yang dikerjakan konsorsium NRCA dan ADHI baru 14 persen, dengan target rampung pada 2027. Perseroan juga tengah mengonsolidasikan seluruh unit perhotelannya di bawah PT Suryalaya Anindita International untuk memperkuat platform bisnis perhotelan."
+  ],
+  "fotoAdegan": "Aerial view of a sprawling industrial estate under development with cleared land plots and heavy equipment, tropical daylight",
+  "takeaway": "Laporan ini netral bagi SSIA: manajemen memangkas target pendapatan 2026 dari Rp7,5 triliun menjadi Rp7,2 triliun karena perolehan kontrak baru dan penjualan lahan industri melambat, meski tetap optimistis mengejar pertumbuhan pendapatan 63 persen dan laba bersih sekitar Rp400 miliar, naik 570 persen dari tahun lalu. Pos yang tersentuh adalah pendapatan dan laba bersih, dua angka yang jadi acuan investor untuk menilai apakah bisnis konstruksi dan kawasan industri SSIA tumbuh sesuai rencana atau cuma janji di atas kertas. Realisasi belanja modal semester pertama sudah mencapai Rp1,1 triliun dari total anggaran Rp2,2 triliun, menandakan proyek Subang Smartpolitan dan Paradisus Bali tetap berjalan meski target penjualan direvisi turun. Yang perlu dipantau berikutnya adalah pencapaian target pendapatan Rp7,2 triliun hingga akhir 2026, hasil tender anak usaha NRCA untuk proyek konstruksi data center yang masih menunggu keputusan, dan penyelesaian jalan tol Patimban yang ditargetkan rampung pada 2027 sebagai pendorong nilai kawasan Subang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-sesuaikan-harga-waran-terstruktur-bmri-usai-dividen-interim",
+  "category": "Aksi Korporasi",
+  "title": "ZP Sesuaikan Harga Waran [Terstruktur] BMRI Usai Dividen Interim",
+  "deck": "Harga pelaksanaan dan rasio konversi BMRIZPCX6A serta BMRIZPCH7A disesuaikan menyusul dividen interim BMRI Rp66 per saham, efektif 16-18 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T16:05:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6039b34a91_dfb6f974cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "BMRI",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) menyampaikan keterbukaan informasi pada 8 September 2026 mengenai penyesuaian syarat dan ketentuan dua waran terstruktur yang diterbitkannya, BMRIZPCX6A dan BMRIZPCH7A, yang mendasari saham PT Bank Mandiri (Persero) Tbk (BMRI). Penyesuaian ini merujuk pada pengumuman BMRI tanggal 7 September 2026 soal pembagian dividen interim tahun buku 2026 sebesar Rp66 per saham.",
+   "Berdasarkan Bagian 3.8 Prospektus tertanggal 11 April 2025 dan Term Sheet kedua waran tersebut, harga pelaksanaan baru dihitung dengan rumus (P dikurangi D) dibagi P, dikalikan harga pelaksanaan lama, sementara rasio konversi baru dihitung dengan rumus yang sama dikalikan rasio konversi lama. P adalah harga perdagangan terakhir BMRI pada cum-date, dan D adalah Rp66 yaitu nilai dividen tunai per saham. Penyesuaian ini berlaku efektif pada tanggal ex-dividen, yakni 16 September 2026 untuk Pasar Reguler dan Negosiasi, serta 18 September 2026 untuk Pasar Tunai.",
+   "Maybank Sekuritas Indonesia selaku penerbit mencantumkan catatan bahwa penyesuaian tetap tunduk pada kebijakannya sendiri, dan penerbit tidak berkewajiban melakukan penyesuaian apa pun kepada pemegang waran terstruktur apabila menurut pertimbangannya penyesuaian dianggap tidak perlu."
+  ],
+  "fotoAdegan": "Exterior of a modern glass bank tower in Jakarta's financial district reflecting late afternoon light, traffic below",
+  "takeaway": "Penyesuaian ini netral bagi Maybank Sekuritas selaku penerbit waran, karena sifatnya murni mekanis mengikuti rumus baku yang sudah ditetapkan sejak penerbitan waran, bukan keputusan bisnis baru yang mencerminkan kinerja perusahaan. Yang berubah adalah harga pelaksanaan dan rasio konversi, yakni patokan harga dan jumlah saham BMRI yang bisa ditebus pemegang waran, disesuaikan turun agar nilai waran tidak tergerus ketika harga saham BMRI ikut turun akibat pembagian dividen. Pemegang BMRIZPCX6A dan BMRIZPCH7A perlu memantau harga penutupan BMRI pada cum-date sebelum tanggal efektif, karena angka itu menjadi variabel penentu besaran penyesuaian, dengan penyesuaian mulai berlaku 16 September 2026 di Pasar Reguler dan Negosiasi serta 18 September 2026 di Pasar Tunai. Perlu dicatat juga bahwa Maybank Sekuritas tetap memegang kebijakan untuk tidak melakukan penyesuaian sama sekali bila dianggap tidak diperlukan, sehingga hasil akhirnya baru pasti terlihat setelah tanggal-tanggal tersebut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ratu-terbitkan-jaminan-us-11-juta-untuk-akuisisi-blok-kasuri",
+  "category": "Aksi Korporasi",
+  "title": "RATU Terbitkan Jaminan US$11 Juta untuk Akuisisi [Blok Kasuri]",
+  "deck": "RATU menjamin US$11 juta kewajiban anak usahanya, Raharja Energi Negeri, ke mitra Singapura Genting Oil Kasuri terkait pengalihan hak partisipasi di proyek migas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:50:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b709d801af_c3b7b008d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "transaksi afiliasi",
+   "jaminan perusahaan",
+   "Blok Kasuri"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) melaporkan transaksi afiliasi berupa jaminan perusahaan (parent company guarantee) dengan total tanggung jawab maksimal US$11 juta kepada Bursa Efek Indonesia. Jaminan ini diterbitkan RATU untuk menjamin kewajiban anak usahanya, PT Raharja Energi Negeri, yang sahamnya dikuasai RATU sebesar 99 persen. Pihak yang menerima jaminan adalah Genting Oil Kasuri Pte. Ltd., perusahaan asal Singapura.",
+   "Dokumen Parent Company Guarantee yang diteken 29 April 2026 itu menyebutkan jaminan ini menjadi syarat pendahuluan sebelum Genting Oil Kasuri mengalihkan hak partisipasi, yang disebut dalam dokumen sebagai \"Transferred Interest\", kepada Raharja Energi Negeri, sesuai Farmout Agreement dan Joint Operating Agreement (JOA) yang diteken pada tanggal yang sama. Dalam JOA, Raharja Energi Negeri wajib membayar apa yang disebut \"Interim Costs\" kepada Genting Oil Kasuri, dan RATU sebagai induk usaha menjamin penuh, tanpa syarat, dan tidak bisa dibatalkan sepihak bahwa kewajiban pembayaran itu akan dipenuhi. Bila Raharja Energi Negeri gagal bayar, wanprestasi, atau masuk proses kepailitan, Genting Oil Kasuri berhak langsung menagih ke RATU sampai batas US$11 juta tersebut.",
+   "Perjanjian ini tunduk pada hukum Inggris dan Wales, dengan sengketa diselesaikan lewat arbitrase di Singapore International Arbitration Centre (SIAC) oleh tiga arbitrator. Jika RATU sendiri telat membayar tagihan dari jaminan ini, dikenakan bunga tambahan sebesar suku bunga acuan Term SOFR ditambah 4,65 persen per tahun, dihitung harian dan digabungkan setiap bulan. Transaksi yang diteken 29 April 2026 ini baru dilaporkan ke bursa pada 8 September 2026."
+  ],
+  "fotoAdegan": "Steel pipelines and a gas processing unit at a remote Indonesian gas field, technicians in overalls inspecting valves under overcast sky.",
+  "takeaway": "Laporan ini condong netral bagi RATU, karena jaminan senilai US$11 juta ini bukan uang tunai yang harus dibayar sekarang, melainkan komitmen membayar kalau anak usahanya nanti gagal memenuhi kewajiban ke mitra di Singapura. Pos yang tersentuh adalah kewajiban kontinjensi, yaitu utang yang baru muncul kalau syarat tertentu terpenuhi sehingga tidak langsung tercatat sebagai utang biasa di neraca, namun tetap berpotensi jadi beban kas mendadak karena kalau dipicu, RATU juga kena bunga tambahan berupa suku bunga acuan pasar uang global, Term SOFR, ditambah 4,65 persen per tahun. Di sisi lain, jaminan semacam ini lazim menjadi syarat sebelum hak partisipasi proyek migas berpindah tangan, dalam hal ini dari Genting Oil Kasuri ke anak usaha RATU, sehingga transaksi ini bagian dari ekspansi usaha, bukan beban tanpa tujuan. Yang perlu dipantau berikutnya adalah pengumuman resmi soal rampungnya pengalihan hak partisipasi tersebut dan progres pembayaran Interim Costs ke Genting Oil Kasuri, sebab dokumen ini belum mencantumkan tanggal target penyelesaiannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akku-jelaskan-ke-bursa-soal-kelangsungan-usaha-yang-diragukan",
+  "category": "Aksi Korporasi",
+  "title": "AKKU Jelaskan ke Bursa soal [Kelangsungan] Usaha yang Diragukan",
+  "deck": "AKKU merespons permintaan penjelasan BEI atas opini audit Wajar Dengan Pengecualian dan keraguan kelangsungan usaha akibat akumulasi rugi Rp304,41 miliar per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:48:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d6b8437251_91207ac78c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKKU",
+  "tags": [
+   "AKKU",
+   "opini audit",
+   "kelangsungan usaha",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Anugerah Kagum Karya Utama Tbk (AKKU) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-11366/BEI.PP1/09-2026 tanggal 4 September 2026, menyusul opini Wajar Dengan Pengecualian (WDP) dari Kantor Akuntan Publik Irfan Waluyo & Rekan atas laporan keuangan konsolidasian per 30 Juni 2026. Pengecualian itu berasal dari dua akun, yaitu piutang non-usaha senilai Rp41,71 miliar dan uang muka senilai Rp595,62 miliar, yang menurut auditor penyajiannya perlu disesuaikan namun bukti pendukungnya belum memadai. Direktur Utama sekaligus Corporate Secretary AKKU, Irwan Suryadi, menyatakan opini itu sepenuhnya kewenangan auditor dan perseroan telah menyerahkan action plan untuk menyelesaikan penyesuaian dan kelengkapan dokumentasi kedua akun tersebut.",
+   "Laporan auditor juga mencantumkan paragraf ketidakpastian material atas kelangsungan usaha, dengan akumulasi rugi tercatat Rp304.408.446.343 dan rugi bersih semester I 2026 sebesar Rp2.551.182.601, naik 360 persen dibanding periode sama tahun sebelumnya. Pendapatan konsolidasian perseroan, sebesar Rp3,76 miliar pada semester I 2026, seluruhnya berasal dari satu entitas anak, PT Permata Nusantara Hotelindo, yang mengelola 14 hotel dengan rata-rata okupansi 61,65 persen dan tarif kamar Rp153.750 hingga Rp540.150 per malam. Manajemen menyebut langkah yang sudah dan akan dijalankan meliputi efisiensi biaya di holding dan entitas anak yang belum berpendapatan, percepatan penagihan piutang manajemen fee, penjadwalan ulang liabilitas jangka pendek, serta pencarian investor untuk aset tanah di Bandung dan Bali yang masih dalam tahap due diligence.",
+   "Per 30 Juni 2026, liabilitas jangka pendek perseroan tercatat Rp232,28 miliar, didominasi biaya akrual Rp188,31 miliar atau sekitar 81 persen dari total, disusul utang pajak Rp16,46 miliar, pendapatan diterima di muka Rp8,78 miliar, utang lain-lain kepada pihak berelasi Rp12,57 miliar, dan utang usaha Rp1,92 miliar. Perseroan menyebut sebagian besar pos itu tidak menuntut pengeluaran kas seketika, dan turut mengandalkan fasilitas pinjaman modal kerja tanpa bunga dari pemegang saham utama, PT Eka Mandiri Anugerah Sejahtera, dengan plafon Rp100 miliar. Perseroan menegaskan belum ada rencana restrukturisasi kewajiban, tambahan pendanaan, atau aksi korporasi yang disepakati, meski hal ini disebut masih dibahas antara manajemen dan pemegang saham, dan setiap aksi korporasi baru akan diumumkan setelah proses due diligence rampung."
+  ],
+  "fotoAdegan": "Hotel housekeeping staff tidying a modest guest room, sunlight through curtains, corridor visible outside, Indonesia",
+  "takeaway": "Laporan ini negatif bagi AKKU, sebab isinya mengonfirmasi opini audit yang mempertanyakan kelangsungan usaha, dengan akumulasi rugi Rp304,41 miliar dan rugi berjalan yang melonjak 360 persen, sementara satu-satunya sumber pendapatan bertumpu pada satu anak usaha hotel. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang terus tergerus oleh rugi bertahun-tahun, dan arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari operasional, yang sepenuhnya bergantung pada penagihan piutang manajemen fee dari bisnis perhotelan. Opini Wajar Dengan Pengecualian sendiri berarti auditor menilai laporan keuangan secara umum wajar, kecuali dua akun besar, piutang non-usaha dan uang muka senilai total lebih dari Rp637 miliar, yang buktinya belum cukup meyakinkan untuk dipastikan benar. Yang perlu dipantau berikutnya adalah hasil due diligence atas rencana aksi korporasi dan pencarian investor untuk tanah di Bandung dan Bali, yang menurut perseroan belum punya target waktu pasti, serta apakah suspensi perdagangan saham AKKU yang sudah berjalan sejak awal September 2026 kunjung dicabut. Tanpa kepastian waktu dan tanpa rencana restrukturisasi yang konkret, status ketidakpastian usaha ini kemungkinan akan bertahan hingga laporan keuangan berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ratu-paparkan-kinerja-ekuitas-naik-der-melonjak-ke-2-42x",
+  "category": "Aksi Korporasi",
+  "title": "RATU Paparkan Kinerja: Ekuitas Naik, DER Melonjak ke [2,42x]",
+  "deck": "Materi public expose RATU: total aset naik jadi US$231,8 juta pasca akuisisi Blok Madura, dan rasio utang terhadap ekuitas melonjak ke 2,42 kali dari 1,05 kali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:47:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/112cfc3da0_98481e2f3c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "Raharja Energi Cepu",
+   "Blok Madura",
+   "public expose"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) menyampaikan koreksi atas surat keterbukaan informasi sebelumnya terkait materi public expose tahunan. Koreksi ini hanya memperbaiki nomor rujukan surat, bukan mengubah isi materi. Dokumen ditandatangani secara elektronik oleh Corporate Secretary & Legal Supriyanti Priandini pada 8 September 2026 pukul 15.48 WIB, dan memuat materi presentasi lengkap untuk public expose yang dijadwalkan 10 September 2026 dengan Direktur Utama Sumantri sebagai presenter utama.",
+   "Materi tersebut mengungkap perubahan besar di neraca RATU per semester I 2026. Total aset melonjak jadi US$231,8 juta dari US$76,0 juta pada akhir 2025, didorong akuisisi SMS Development Ltd (SMSD) senilai US$121,5 juta yang memberi RATU 20 persen participating interest tidak langsung di Blok Selat Madura lewat anak usahanya, PT Raharja Energi Madura3 (REM). Akuisisi ini dibiayai lewat penerbitan obligasi Rp800 miliar bertenor 5 dan 7 tahun berperingkat idA dari Pefindo, serta fasilitas kredit bilateral US$109,2 juta dari Bank Mandiri. Akibatnya, total liabilitas naik ke US$166,8 juta dan ekuitas ke US$65,0 juta, sementara rasio utang terhadap ekuitas (DER) melonjak ke 2,42 kali dari 1,05 kali pada kuartal sebelumnya, meski perseroan menegaskan masih jauh di bawah batas kovenan kreditur sebesar 4,0 kali.",
+   "Dari sisi profitabilitas, RATU mencatat margin EBITDA 82,99 persen dan margin laba bersih 60,61 persen pada kuartal II 2026, tertinggi dalam delapan kuartal terakhir, ditopang kenaikan laba dari entitas asosiasi dan keuntungan pembelian di bawah nilai wajar dari akuisisi SMSD. Return on equity (ROE) menguat ke 47,81 persen, sementara return on assets (ROA) justru turun ke 13,41 persen seiring ekspansi aset. Rasio kemampuan bayar utang (DSCR) turun ke 1,80 kali dari 3,02 kali pada kuartal sebelumnya. Materi ini juga mencantumkan bahwa RUPS Tahunan 7 Mei 2026 telah menyetujui dividen tunai Rp122,18 miliar, atau setara Rp45 per saham.",
+   "Bagian pencapaian perusahaan merinci perjalanan RATU sejak IPO pada 8 Januari 2025 di harga Rp1.150 per saham yang menghimpun dana Rp624 miliar dengan porsi publik 20 persen, disusul masuknya RATU ke indeks MSCI Small Cap pada kuartal I 2025, peringkat korporasi idA dari Pefindo pada kuartal III 2025, dan keanggotaan indeks IDX80 pada kuartal IV 2025. Dari sisi aset, Blok Cepu tercatat memiliki cadangan tersisa 272 juta barel setara minyak dengan produksi rata-rata 127 ribu barel per hari hingga Juni 2026, Blok Jabung memiliki cadangan 234 juta barel setara minyak dengan produksi 47,2 ribu barel setara minyak per hari, sementara Blok Selat Madura mencatat cadangan gas 584 miliar kaki kubik dengan produksi 219 juta kaki kubik gas per hari ditambah 2.900 barel kondensat per hari."
+  ],
+  "fotoAdegan": "Technicians in orange helmets checking pipeline valves at an onshore oil field in East Java at dusk, industrial pipework in foreground",
+  "takeaway": "Paparan ini netral bagi RATU: profitabilitas dan pengakuan pasar terus menguat, tapi lonjakan utang tajam pasca akuisisi Blok Madura patut dicermati meski belum mengkhawatirkan. Rasio utang terhadap ekuitas atau DER mengukur seberapa besar operasi perusahaan ditopang pinjaman dibanding modal sendiri, dan kenaikannya dari 1,05 kali menjadi 2,42 kali dalam satu kuartal berarti RATU kini jauh lebih mengandalkan utang, meski masih di bawah batas 4,0 kali yang disyaratkan kreditur. Rasio kemampuan bayar utang atau DSCR yang turun dari 3,02 kali menjadi 1,80 kali menunjukkan ruang aman arus kas untuk mencicil utang menipis dibanding periode sebelumnya, walau perseroan menyebut arus kas operasionalnya masih memadai. Yang perlu dipantau berikutnya adalah paparan publik itu sendiri pada 10 September 2026, saat investor kemungkinan akan menanyakan langsung bagaimana manajemen mengelola beban utang yang membesar ini ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "daya-jawab-bursa-soal-lonjakan-transaksi-soroti-free-float",
+  "category": "Aksi Korporasi",
+  "title": "DAYA Jawab Bursa Soal Lonjakan Transaksi, Soroti [Free Float]",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, DAYA menyatakan tidak ada informasi material baru, namun mengaku masih mengevaluasi cara memenuhi ketentuan free float bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:32:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9eb2b2641_9a15174ad7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DAYA",
+  "tags": [
+   "DAYA",
+   "volatilitas transaksi",
+   "free float",
+   "Duta Intidaya"
+  ],
+  "body": [
+   "PT Duta Intidaya Tbk (DAYA) menyampaikan tanggapan resmi atas permintaan penjelasan dari Bursa Efek Indonesia (BEI) melalui surat nomor S-11355/BEI.PP2/09-2026 terkait volatilitas transaksi saham perseroan. Tanggapan tertuang dalam surat nomor 041/DID-CORSEC/IX/2026 tertanggal 7 September 2026 yang ditandatangani Erwantho Siregar selaku Direktur dan Sekretaris Perusahaan, menjawab enam poin pertanyaan yang diwajibkan sesuai Peraturan OJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E.",
+   "Dalam jawabannya, DAYA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut ketentuan OJK maupun ketentuan III.2.1 Peraturan I-E Bursa. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka, serta menegaskan seluruh informasi material yang wajib diungkapkan sudah disampaikan ke publik.",
+   "Soal rencana ke depan, DAYA menyebut belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada pencatatan sahamnya di bursa. Namun perseroan mengakui masih terus memantau ketentuan pemenuhan free float dan sedang mengevaluasi berbagai alternatif langkah untuk memenuhinya, dengan mempertimbangkan kondisi perseroan, kepentingan pemegang saham, dan aspek kepatuhan. Perseroan menambahkan bahwa pemegang saham pengendali dan pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya saat ini."
+  ],
+  "fotoAdegan": "Employees restocking shelves with health and beauty products in a brightly lit retail store aisle in Jakarta",
+  "takeaway": "Tanggapan ini netral karena secara eksplisit tidak ada informasi atau rencana korporasi baru yang diungkapkan, sehingga belum mengubah gambaran fundamental DAYA, tetapi ada satu poin yang layak digarisbawahi: perusahaan mengakui masih mengevaluasi cara memenuhi ketentuan free float bursa. Free float adalah porsi saham yang beredar bebas di tangan publik, bukan milik pemegang saham pengendali, dan bursa mensyaratkan batas minimum tertentu agar saham cukup likuid diperdagangkan; kalau DAYA akhirnya memilih menambah saham baru untuk memenuhi porsi ini, jumlah saham beredar akan bertambah dan itu berpotensi menggerus laba per saham milik pemegang lama. Pemegang saham pengendali dan utama disebut tidak berencana mengubah kepemilikannya, jadi tidak ada indikasi pelepasan saham dalam waktu dekat. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan dari DAYA begitu ada keputusan konkret soal opsi pemenuhan free float ini, karena dokumen belum menyebut tenggat waktu maupun opsi yang dipilih.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-cek-kesiapan-aft-babullah-di-ternate",
   "category": "Energi",
   "title": "Pertamina Cek Kesiapan [AFT] Babullah di Ternate",
@@ -55,6 +264,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret ada dua hal sekaligus: Telkom menyewakan Gedung Media Pratama kepada Badan Gizi Nasional, dan bersamaan dengan itu memindahkan serta mengelompokkan ulang unit-unit kerjanya yang selama ini terpencar di banyak lokasi di Jakarta. Yang terdampak langsung adalah karyawan unit-unit Telkom yang kantornya akan dipindah, dan secara tidak langsung Badan Gizi Nasional sebagai penyewa baru gedung tersebut. Arah langkah ini terlihat menuju pemanfaatan aset properti yang tidak terpakai penuh menjadi sumber pendapatan sewa sekaligus pintu masuk jualan layanan konektivitas dan digital Telkom ke penyewanya. Yang masih belum diungkap dan perlu dipantau adalah angka-angka yang menentukan besar-kecilnya dampak ini, yaitu nilai sewa, jangka waktu kontrak, jumlah unit atau karyawan yang benar-benar pindah, serta tanggal pasti proses transisi tersebut selesai.",
   "imageV": "mtsfb0xa"
+ },
+ {
+  "slug": "dmnd-panggil-rupslb-30-september-ubah-susunan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "DMND Panggil RUPSLB 30 September, Ubah Susunan [Komisaris]",
+  "deck": "PT Diamond Food Indonesia Tbk mengundang pemegang saham ke RUPSLB 30 September 2026 untuk membahas pergantian Dewan Komisaris dan penyesuaian klasifikasi usaha ke KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:07:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61129200e2_131eefd57e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMND",
+  "tags": [
+   "DMND",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "KBLI 2025"
+  ],
+  "body": [
+   "PT Diamond Food Indonesia Tbk (DMND) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026, pukul 14.00 WIB, bertempat di Ruang Cendana, DoubleTree by Hilton Jakarta Kemayoran lantai 2. Rapat diselenggarakan secara elektronik melalui aplikasi eASY.KSEI dengan kehadiran fisik yang dibatasi maksimal 10 orang, berdasarkan urutan siapa yang lebih dulu menyatakan hadir. Yang berhak ikut adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 7 September 2026 pukul 16.00 WIB.",
+   "Ada dua agenda dalam rapat ini. Pertama, persetujuan pengangkatan kembali atau perubahan susunan Dewan Komisaris, mengacu pada Pasal 19 Anggaran Dasar Perseroan. Daftar riwayat hidup calon anggota Dewan Komisaris Independen yang diusulkan sudah tersedia di situs web perusahaan sejak tanggal pemanggilan ini hingga hari rapat, meski nama calonnya sendiri tidak disebutkan dalam dokumen pemanggilan. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha Perseroan, untuk menyesuaikan kode dan uraian bidang usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang berlaku, sekaligus menyelaraskan data usaha di Anggaran Dasar dengan sistem administrasi badan hukum.",
+   "Pemegang saham yang tidak bisa hadir fisik dapat memberi kuasa, termasuk kepada biro administrasi efek perusahaan, PT Datindo Entrycom, dengan surat kuasa asli paling lambat diterima Selasa, 29 September 2026 pukul 12.00 WIB. Pertanyaan tertulis atas agenda rapat bisa dikirim ke email corporate.secretary@diamond.co.id paling lambat 15 September 2026 pukul 17.00 WIB. Pemanggilan ini ditandatangani Corporate Secretary Arinta Meidia Harsono pada 8 September 2026 dan berlaku sebagai undangan resmi tanpa surat undangan terpisah."
+  ],
+  "fotoAdegan": "Empty hotel conference ballroom with rows of chairs facing a stage, tall windows letting in soft morning light, Jakarta",
+  "takeaway": "Laporan ini netral bagi DMND, karena isinya murni agenda governance rutin dan administrasi legalitas, bukan aksi korporasi yang mengubah keuangan perusahaan. Pergantian Dewan Komisaris memang memengaruhi siapa yang mengawasi kinerja direksi, tapi belum ada nama calon yang diumumkan sehingga dampaknya belum bisa dinilai. Perubahan Pasal 3 Anggaran Dasar soal KBLI juga sekadar menyamakan kode klasifikasi usaha resmi dengan aturan terbaru, bukan tanda perusahaan masuk ke lini bisnis baru, sehingga ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham perusahaan tidak tersentuh oleh kedua agenda ini. Yang perlu dipantau adalah hasil RUPSLB pada 30 September 2026, terutama siapa calon Komisaris Independen yang disetujui dan apakah perubahan Anggaran Dasar disahkan, dengan tenggat pengiriman kuasa 29 September 2026 dan pertanyaan tertulis pemegang saham 15 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "raja-rampungkan-akuisisi-5-saham-pt-lng-dari-genting",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Rampungkan Akuisisi 5% Saham PT LNG dari [Genting]",
+  "deck": "Anak usaha RAJA, PT Raharja Gas Kasuri, menuntaskan pembelian 5 persen saham PT Layar Nusantara Gas dari Genting LNG sebagai bagian kemitraan FLNG.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f2c130b62d_50d3b87ed3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "akuisisi",
+   "FLNG",
+   "Genting LNG"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) melaporkan bahwa anak usahanya, PT Raharja Gas Kasuri, yang sahamnya dimiliki 99,99 persen oleh RAJA, telah menandatangani Akta Jual Beli Saham dengan Genting LNG Pte. Ltd. pada 4 September 2026. Penandatanganan ini merupakan penyelesaian (completion) dari perjanjian jual beli saham (Share Sale and Purchase Agreement) yang lebih dulu diteken kedua pihak pada 29 April 2026, di mana PT Raharja Gas Kasuri mengambil alih 5 persen saham PT Layar Nusantara Gas (PT LNG).",
+   "Perseroan menyebut transaksi ini sebagai bagian dari pengembangan bisnisnya sekaligus kelanjutan kemitraan strategis dengan grup Genting Berhad dalam pengembangan dan pengoperasian fasilitas gas alam cair terapung, atau Floating Liquefied Natural Gas (FLNG). Nilai transaksi pembelian saham tidak diungkapkan dalam laporan ini.",
+   "Dalam keterbukaan yang ditandatangani Corporate Secretary RAJA, Yuni Pattinasarani, Perseroan menyatakan transaksi tersebut tidak menimbulkan dampak signifikan terhadap kondisi keuangan maupun kegiatan usaha RAJA secara konsolidasi."
+  ],
+  "fotoAdegan": "Workers walking along the deck of a large floating gas processing vessel anchored offshore, pipelines and cranes visible, overcast sky",
+  "takeaway": "Laporan ini netral bagi RAJA, sebab akuisisi 5 persen saham PT LNG ini hanyalah penyelesaian dari perjanjian yang sudah diteken sejak April 2026, dan Perseroan sendiri menegaskan transaksi ini tidak berdampak signifikan terhadap keuangannya, sementara nilai transaksinya tidak diungkapkan sehingga besar kecilnya manfaat belum bisa diukur. Pos yang tersentuh adalah struktur kepemilikan anak usaha, karena lewat PT Raharja Gas Kasuri, RAJA kini punya hak atas 5 persen PT LNG yang bergerak di proyek gas alam cair terapung (FLNG), namun porsi sekecil ini biasanya baru terasa pengaruhnya ke aset atau pendapatan konsolidasi RAJA jika proyeknya sudah beroperasi dan menghasilkan. Yang perlu dipantau berikutnya adalah kelanjutan kemitraan RAJA dengan grup Genting Berhad dalam proyek FLNG ini, termasuk apakah Perseroan akan mengungkapkan nilai transaksi atau progres pembangunan fasilitasnya pada laporan-laporan mendatang.",
+  "sentimen": "netral"
  },
  {
   "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",

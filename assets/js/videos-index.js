@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3m8fCFV6wYo",
+  "title": "Pemerintah Siap Tambah Anggaran BNPB Jika Dibutuhkan",
+  "category": "Makroekonomi",
+  "program": "AKIP",
+  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan pemerintah siap mengucurkan tambahan anggaran penanganan bencana secara maksimal jika diminta oleh BNPB.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut fleksibilitas alokasi anggaran negara untuk merespons risiko bencana yang berpotensi membebani APBN."
+ },
+ {
   "id": "JAcUIYq96js",
   "title": "KSPPB dan Komisi IX DPR Bahas RUU Tenaga Kerja",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Presiden Prabowo Subianto meluncurkan sekaligus melakukan groundbreaking Program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Monumen Operasi Lintas Laut Jawa Bali.",
   "takeaway": "Program PLTS berskala besar ini menandai langkah pemerintah memperluas energi terbarukan, hal yang relevan bagi arah investasi dan bauran energi nasional ke depan."
- },
- {
-  "id": "B_xxGHkDml4",
-  "title": "Jubir ESDM Beberkan Dampak Signifikan Program B50",
-  "category": "Energi",
-  "program": "AKIM",
-  "summary": "Juru bicara Kementerian ESDM menjelaskan dampak signifikan implementasi bahan bakar B50 terhadap ketahanan energi nasional.",
-  "takeaway": "Kebijakan biodiesel B50 berkaitan dengan konsumsi solar dan industri sawit, sehingga relevan bagi pembaca yang mengikuti isu energi."
  }
 ];

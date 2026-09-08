@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3m8fCFV6wYo",
+  "title": "Pemerintah Siap Tambah Anggaran BNPB Jika Dibutuhkan",
+  "category": "Makroekonomi",
+  "program": "AKIP",
+  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa menyatakan pemerintah siap mengucurkan tambahan anggaran penanganan bencana secara maksimal jika diminta oleh BNPB.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut fleksibilitas alokasi anggaran negara untuk merespons risiko bencana yang berpotensi membebani APBN.",
+  "terbit": "2026-09-08T01:00:12+00:00"
+ },
+ {
   "id": "JAcUIYq96js",
   "title": "KSPPB dan Komisi IX DPR Bahas RUU Tenaga Kerja",
   "category": "Ketenagakerjaan",

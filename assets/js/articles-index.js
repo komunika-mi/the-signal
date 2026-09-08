@@ -21,6 +21,70 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Kurangi Penyertaan Modal [Rp1,2 Triliun] di Anak Usaha",
+  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan penyertaan modal senilai Rp1,2 triliun di anak usahanya, PT Summarecon Investment Property.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "transaksi afiliasi",
+   "pengurangan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d0af22490b_fcc777a2fd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbss-wgc-wajib-tender-beli-saham-publik-rp2-915-saham",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: WGC Wajib [Tender] Beli Saham Publik Rp2.915/Saham",
+  "deck": "PT Wibowo Group Capital, pengendali baru MBSS, menawarkan beli maksimal 306,26 juta saham publik seharga Rp2.915 per lembar mulai 9 September hingga 8 Oktober 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBSS",
+   "tender offer",
+   "akuisisi",
+   "Wibowo Group Capital"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dd7bd6169_715425c9d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "care-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CARE Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Metro Healthcare Indonesia (CARE) menyatakan tidak ada informasi material atau rencana aksi korporasi di balik gejolak harga sahamnya.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CARE",
+   "Metro Healthcare Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3286e46678_05200b8b0f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-divestasi-13-anak-usaha-ke-twm-rampung",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Divestasi] 13 Anak Usaha ke TWM Rampung",
+  "deck": "MGLV resmi menyerahkan kepemilikan 13 anak usaha serta sejumlah aset dan kewajiban kepada PT Trijaya Wisesa Makmur, merampungkan transaksi yang diumumkan sejak akhir Juli 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "divestasi",
+   "TWM",
+   "restrukturisasi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf69faa9f_108e74fb65.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun",
   "category": "Makroekonomi",
   "title": "Anggaran MBG 2026 Diprediksi [Turun] di Bawah Rp200 Triliun",
@@ -6471,74 +6535,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/613bc8ceda_357f02d390.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp40-000-jadi-rp2-624-000",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Rp40.000 Jadi Rp2.624.000",
-  "deck": "Harga emas Antam turun Rp40.000 per gram menjadi Rp2.624.000, sementara harga buyback ikut melemah ke Rp2.477.000 per gram.",
-  "date": "2 September 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp40-000-jadi-rp2-624-000.jpg",
-  "imageV": "mtjolkee",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464312-harga-emas-antam-hari-ini-2-september-2026-anjlok-rp40000-kini-jadi-rp2624000-per-gram"
- },
- {
-  "slug": "harga-acuan-ekspor-kakao-melonjak-sawit-naik-tipis",
-  "category": "Industri",
-  "title": "Harga Acuan Ekspor Kakao [Melonjak], Sawit Naik Tipis",
-  "deck": "Harga patokan ekspor biji kakao naik hampir 4 persen imbas gangguan pasokan di Afrika Barat, sementara harga referensi CPO naik tipis 1,1 persen untuk periode September 2026.",
-  "date": "2 September 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "CPO",
-   "biji kakao",
-   "bea keluar",
-   "harga ekspor"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/september-2026-hr-cpo-naik-hpe-biji-kakao-dan-getah-pinus-naik-hpe-produk-kulit-tetap-serta-hpe-produk-kayu-bervariasi",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai",
-  "category": "Moneter",
-  "title": "Gempa NTT: BI Kirim [32,5] Ton Bantuan, Amankan Uang Tunai",
-  "deck": "Bank Indonesia mengirim 32,5 ton bantuan bagi korban gempa di NTT dalam tiga tahap, sekaligus menjaga pasokan uang tunai dan stabilitas harga pangan di wilayah terdampak.",
-  "date": "2 September 2026",
-  "image": "assets/img/gempa-ntt-bi-kirim-32-5-ton-bantuan-amankan-uang-tunai.jpg",
-  "imageV": "mtj7dc1r",
-  "tags": [
-   "Bank Indonesia",
-   "Gempa NTT",
-   "Ekspedisi Rupiah Berdaulat",
-   "Inflasi Daerah"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "inflasi-agustus-2026-3-19-masih-di-kisaran-target",
-  "category": "Makroekonomi",
-  "title": "Inflasi Agustus 2026 [3,19%], Masih di Kisaran Target",
-  "deck": "Inflasi Agustus 2026 mencapai 3,19 persen secara tahunan, didorong lonjakan harga pangan seperti ayam dan cabai rawit, namun masih berada dalam kisaran sasaran Bank Indonesia.",
-  "date": "2 September 2026",
-  "image": "assets/img/inflasi-agustus-2026-3-19-masih-di-kisaran-target.jpg",
-  "imageV": "mtj0lwh2",
-  "tags": [
-   "inflasi",
-   "IHK",
-   "Bank Indonesia",
-   "pangan"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817626.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

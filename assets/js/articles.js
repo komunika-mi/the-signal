@@ -31,6 +31,109 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Kurangi Penyertaan Modal [Rp1,2 Triliun] di Anak Usaha",
+  "deck": "Summarecon Agung melaporkan transaksi afiliasi berupa pengurangan penyertaan modal senilai Rp1,2 triliun di anak usahanya, PT Summarecon Investment Property.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:57:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d0af22490b_fcc777a2fd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "Summarecon Agung",
+   "transaksi afiliasi",
+   "pengurangan modal"
+  ],
+  "body": [
+   "PT Summarecon Agung Tbk (SMRA) menyampaikan laporan transaksi afiliasi kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia terkait pengurangan penyertaan modal di perusahaan yang dikendalikannya, PT Summarecon Investment Property. Berdasarkan laporan yang ditandatangani Corporate Secretary Lydia Tjio pada 8 September 2026, nilai pengurangan modal tersebut mencapai Rp1,2 triliun. Perubahan anggaran dasar yang menjadi dasar pengurangan modal ini telah disetujui pada 6 September 2026.",
+   "Dalam laporan itu, SMRA berperan sebagai pemegang saham yang mengurangi penyertaan modalnya di PT Summarecon Investment Property. Transaksi ini digolongkan sebagai transaksi afiliasi karena dilakukan antara Perseroan dan perusahaan terkendalinya sendiri, sesuai Peraturan OJK Nomor 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan. Perseroan menyatakan transaksi ini tidak berdampak pada aktivitas operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Aerial view of a large residential township development with rows of houses, green parks, and access roads under bright daylight",
+  "takeaway": "Laporan ini netral bagi fundamental Summarecon, sebab dana hanya berpindah antara Perseroan dan anak usahanya sendiri, PT Summarecon Investment Property, tanpa melibatkan pihak luar atau mengubah kendali kelompok usaha. Pos yang tersentuh adalah ekuitas, yaitu nilai penyertaan modal SMRA yang tercatat di anak usaha itu, yang turun Rp1,2 triliun, dan pengurangan semacam ini lazimnya dibarengi pengembalian dana tunai ke kas induk usaha sehingga arus kas SMRA bisa berubah meski laporan menyebut tidak ada dampak material. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah dana hasil pengurangan modal ini benar cair ke kas SMRA dan untuk apa dana itu dipakai, sementara perubahan anggaran dasar PT Summarecon Investment Property sendiri sudah efektif disetujui sejak 6 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mbss-wgc-wajib-tender-beli-saham-publik-rp2-915-saham",
+  "category": "Aksi Korporasi",
+  "title": "MBSS: WGC Wajib [Tender] Beli Saham Publik Rp2.915/Saham",
+  "deck": "PT Wibowo Group Capital, pengendali baru MBSS, menawarkan beli maksimal 306,26 juta saham publik seharga Rp2.915 per lembar mulai 9 September hingga 8 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:50:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3dd7bd6169_715425c9d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBSS",
+  "tags": [
+   "MBSS",
+   "tender offer",
+   "akuisisi",
+   "Wibowo Group Capital"
+  ],
+  "body": [
+   "Mitrabahtera Segara Sejati Tbk (MBSS) menyampaikan keterbukaan informasi bahwa pengendali barunya, PT Wibowo Group Capital (WGC), wajib melaksanakan penawaran tender kepada pemegang saham publik menyusul pengambilalihan perusahaan yang telah rampung pada Juli 2026. Dalam transaksi awal itu, WGC membeli 1.443.766.800 saham MBSS, setara 82,5 persen dari total 1.750.026.639 saham yang beredar, dari PT Galley Adhika Arnawama melalui mekanisme crossing di Bursa Efek Indonesia. Nilai transaksi itu tercatat Rp4,21 triliun, setara Rp2.914,25 per saham.",
+   "Sesuai aturan OJK soal pengambilalihan perusahaan terbuka, WGC kini menawarkan untuk membeli sebanyak-banyaknya 306.259.839 saham milik publik, setara 17,5 persen dari total saham MBSS, dengan harga Rp2.915 tunai per saham. Harga ini sedikit lebih tinggi dari harga akuisisi awal maupun rata-rata harga tertinggi harian saham MBSS selama 90 hari sebelum pengumuman pengambilalihan, sesuai syarat harga minimum yang diwajibkan aturan tender wajib. Penawaran berlangsung mulai 9 September hingga 8 Oktober 2026, dengan PT BNI Sekuritas ditunjuk sebagai perusahaan efek pelaksana, dan perkiraan tanggal pembayaran kepada pemegang saham yang ikut serta pada 15 Oktober 2026.",
+   "WGC menyatakan belum berencana menghapus pencatatan saham MBSS dari bursa, mengubah status perusahaan dari terbuka menjadi tertutup, melikuidasi perusahaan, mengubah kebijakan dividen, mengubah kebijakan terhadap karyawan, maupun mengubah kegiatan usaha MBSS. Perseroan menyatakan aksi korporasi ini tidak berdampak negatif terhadap operasional, kondisi keuangan, maupun kelangsungan usaha MBSS."
+  ],
+  "fotoAdegan": "Tugboat towing a loaded barge across calm coastal water near an Indonesian port, soft late afternoon light",
+  "takeaway": "Laporan ini condong netral bagi MBSS, sebab harga tender Rp2.915 per saham hanya sedikit di atas harga yang sudah dibayar WGC saat mengambil alih perusahaan, sekitar Rp2.914 per saham, sehingga bukan premi besar bagi pemegang saham publik yang melepas sahamnya. Yang tersentuh di sini adalah porsi saham MBSS yang beredar bebas di tangan publik, karena kalau seluruh 306,26 juta saham yang ditawarkan benar-benar terjual dalam tender ini, WGC bisa menguasai seluruh saham MBSS dan porsi publik habis sama sekali, padahal bursa mewajibkan perusahaan tercatat menjaga porsi saham publik minimum supaya sahamnya tetap bisa diperjualbelikan dengan wajar. Semakin sedikit saham yang tersisa di publik, semakin sulit investor kecil keluar masuk tanpa membuat harga bergerak drastis. Yang perlu dipantau berikutnya adalah penutupan periode tender pada 8 Oktober 2026 dan realisasi pembayaran kepada pemegang saham publik yang diperkirakan berlangsung pada 15 Oktober 2026, karena dari situ baru terlihat berapa banyak saham publik yang benar-benar berpindah tangan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "care-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "CARE Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan Bursa Efek Indonesia, Metro Healthcare Indonesia (CARE) menyatakan tidak ada informasi material atau rencana aksi korporasi di balik gejolak harga sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:41:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3286e46678_05200b8b0f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CARE",
+  "tags": [
+   "CARE",
+   "Metro Healthcare Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Metro Healthcare Indonesia Tbk (CARE) mengirim surat penjelasan bernomor 086/MHI-DIR/IX/2026 tertanggal 8 September 2026, sebagai jawaban atas permintaan Bursa Efek Indonesia melalui surat nomor S-11489/BEI.PP1/09-2026 terkait volatilitas transaksi saham perseroan. Surat ditandatangani oleh Direktur Utama Henry Kembaren.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015. Perseroan juga menegaskan tidak mengetahui fakta material yang memengaruhi harga sahamnya menurut ketentuan Peraturan Bursa Nomor I-E, serta tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham.",
+   "Perseroan menambahkan bahwa hingga saat ini belum ada rencana tindakan korporasi dalam tiga bulan mendatang yang akan berdampak pada pencatatan sahamnya di bursa, belum ada informasi atau kejadian penting lain yang material dan belum diungkap ke publik, serta pemegang saham utama dan pengendali belum memiliki rencana terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Nurses wheeling a hospital bed through a brightly lit clinic corridor, ordinary daytime activity, no signage visible",
+  "takeaway": "Laporan ini netral bagi fundamental Metro Healthcare Indonesia, karena isinya hanya konfirmasi standar bahwa tidak ada perubahan material di balik gejolak harga sahamnya, bukan kabar baru soal kinerja perusahaan. Tidak ada pos kinerja yang tersentuh di sini, tidak ada perubahan modal sendiri, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang biasanya jadi acuan investor menilai kesehatan keuangan emiten. Yang perlu dipantau selanjutnya adalah apakah gejolak harga sahamnya mereda atau justru berlanjut, karena perseroan sendiri menegaskan belum ada rencana aksi korporasi setidaknya sampai awal Desember 2026, tiga bulan sejak surat ini terbit. Kalau pola transaksi tidak wajar itu tetap berulang tanpa penjelasan fundamental, bursa berpotensi meminta klarifikasi serupa lagi ke depan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mglv-divestasi-13-anak-usaha-ke-twm-rampung",
+  "category": "Aksi Korporasi",
+  "title": "MGLV [Divestasi] 13 Anak Usaha ke TWM Rampung",
+  "deck": "MGLV resmi menyerahkan kepemilikan 13 anak usaha serta sejumlah aset dan kewajiban kepada PT Trijaya Wisesa Makmur, merampungkan transaksi yang diumumkan sejak akhir Juli 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:39:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf69faa9f_108e74fb65.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "divestasi",
+   "TWM",
+   "restrukturisasi korporasi"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menandatangani 13 akta pengambilalihan saham dengan PT Trijaya Wisesa Makmur (TWM) pada 8 September 2026. Lewat akta ini, Perseroan menjual seluruh sahamnya di 13 anak perusahaan kepada TWM, yaitu PT Wisesa Semesta Jaya, PT Magran Karya Bersama, PT Indah Kreasi Sentosa, PT Panelindo Semesta Indonesia, PT Triguna Anugrah Semesta, PT Wisesa Anugrah Karya, PT Berkat Magran Berjaya, PT Megah Sumber Sejahtera, PT Wisesa Cahaya Harapan, PT Scala Sistema Anugrah, PT Wisesa Jaya Cemerlang, PT Pelita Anugrah Wisesa, dan PT Wisesa Cahaya Furniture.",
+   "Selain pelepasan saham, Perseroan juga menandatangani akta pengalihan aset serta akta pengalihan dan pengambilalihan kewajiban, yang memindahkan sejumlah aset dan kewajiban Perseroan kepada TWM. Penandatanganan ini merupakan pelaksanaan penyelesaian dari transaksi yang sebelumnya sudah diuraikan dalam Keterbukaan Informasi Perseroan tanggal 28 Juli 2026, sebagaimana diubah lewat Perubahan dan/atau Tambahan Informasi tanggal 3 September 2026.",
+   "Dengan penandatanganan ini, seluruh saham Perseroan di 13 anak usaha tersebut secara efektif sudah beralih ke TWM dan Perseroan tidak lagi berstatus pemegang saham di sana. Kepemilikan Perseroan atas aset dan kewajiban yang dialihkan juga sudah efektif berpindah ke TWM. Laporan ditandatangani oleh Corporate Secretary Putra Harianto Bate'e."
+  ],
+  "fotoAdegan": "Two businesspeople shaking hands in a glass-walled Jakarta office building, city skyline visible through windows, late afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik MGLV karena resmi mengunci pelepasan 13 anak usaha sekaligus sejumlah aset dan kewajiban Perseroan, bagian dari rangkaian transaksi yang sebelumnya sudah dilaporkan bernilai jauh di atas ukuran modal Perseroan sendiri. Pos yang tersentuh adalah struktur aset dan ekuitas Perseroan, karena begitu 13 anak usaha beralih ke TWM, Perseroan kehilangan seluruh kontribusi aset dan pendapatan dari unit-unit itu, sementara kewajiban yang ikut dialihkan turut mengubah beban Perseroan ke depan. Investor perlu mencermati bagaimana hasil pelepasan ini dipakai, terutama karena dalam waktu hampir bersamaan Perseroan juga merampungkan akuisisi Nextier yang jauh lebih besar dari ukurannya sendiri dan berencana rights issue senilai Rp2,4 triliun. Yang perlu dipantau berikutnya adalah realisasi penggunaan dana rights issue tersebut serta penjelasan lanjutan Perseroan ke OJK dan bursa atas dampak gabungan dari divestasi, pengalihan aset, dan akuisisi ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun",
   "category": "Makroekonomi",
   "title": "Anggaran MBG 2026 Diprediksi [Turun] di Bawah Rp200 Triliun",

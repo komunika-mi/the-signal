@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: CGS International Jual [167 Juta] Saham Wilton Makmur",
+  "deck": "CGS International Securities Singapore melepas 167 juta saham SQMI pada 2 September 2026 seharga Rp103 per saham, hak suaranya turun dari 20,65 persen ke 19,58 persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "kepemilikan saham",
+   "CGS International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1174-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smle-paparkan-kinerja-pendapatan-kuartal-i-turun-18",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Paparkan Kinerja, Pendapatan Kuartal I [Turun] 18%",
+  "deck": "Public expose tahunan SMLE mengungkap pendapatan kuartal I 2026 turun 18 persen dibanding tahun lalu, sementara pertumbuhan pendapatan tahunan melambat sejak 2024.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "public expose",
+   "kinerja keuangan",
+   "pendapatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b81512c23f_57b7805558.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-realisasikan-dana-obligasi-sukuk-rp3-67-triliun-sisa-rp162-8-m",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Realisasikan Dana Obligasi-Sukuk Rp3,67 Triliun, [Sisa] Rp162,8 M",
+  "deck": "LPPI melaporkan realisasi penggunaan dana empat obligasi dan sukuk mudharabah berkelanjutan senilai Rp3,67 triliun per 31 Agustus 2026, dengan sisa Rp162,8 miliar masih di bank.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2616a4538a_0e8adb20d6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgwg-sampaikan-koreksi-laporan-realisasi-dana-ipo",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Sampaikan [Koreksi] Laporan Realisasi Dana IPO",
+  "deck": "DGWG mengoreksi laporan realisasi dana IPO Rp189,87 miliar yang sudah terpakai penuh untuk bahan baku pestisida dan penyertaan modal ke anak usaha.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "IPO",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1023585db5_15a84355ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dwgl-raih-outlook-positif-rating-obligasi-tetap-a",
+  "category": "Aksi Korporasi",
+  "title": "DWGL Raih Outlook [Positif], Rating Obligasi Tetap A-",
+  "deck": "KRI mempertahankan peringkat A- untuk Obligasi I Dwi Guna Laksana 2025 senilai Rp300 miliar, tapi menaikkan outlook dari stabil ke positif berkat perbaikan struktur modal.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DWGL",
+   "obligasi",
+   "pemeringkatan",
+   "outlook"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/367b823973_e630738fc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-gelar-rups-terbitkan-saham-baru-danai-akuisisi-kesehatan",
+  "category": "Aksi Korporasi",
+  "title": "VISI Gelar RUPS, Terbitkan Saham Baru Danai Akuisisi [Kesehatan]",
+  "deck": "VISI memanggil RUPS 30 September 2026 untuk menyetujui penerbitan saham baru tanpa hak memesan efek dan akuisisi 72,91% saham perusahaan kesehatan Hasna Medika Bakti Cirebon.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "RUPS",
+   "akuisisi",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6726936d4_88044975b9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "abmm-jadwalkan-rupslb-pada-15-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "ABMM Jadwalkan [RUPSLB] pada 15 Oktober 2026",
@@ -187,6 +283,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bali-pengendali-tambah-saham-hak-suara-ke-59-82",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Pengendali [Tambah] Saham, Hak Suara ke 59,82%",
+  "deck": "PT Kharisma Cipta Towerindo, pengendali BALI, membeli 4,9 juta saham pada 7 September 2026 seharga Rp1.420 per lembar, menaikkan hak suaranya menjadi 59,82 persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BALI",
+   "Bali Towerindo Sentra",
+   "kepemilikan saham",
+   "menara telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-8568-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -232,6 +344,22 @@ var ARTICLES = [
    "cold chain"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f4f465f15_ddc00fb402.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 400.000 Saham Lagi",
+  "deck": "Dewan Komisaris AKPI Henry Liem melepas 400.000 saham senilai Rp210 juta pada 7 September 2026, hak suaranya turun tipis menjadi 1,2528 persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Argha Karya Prima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1916-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6410,134 +6538,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464203-gelaran-batic-2026-kukuhkan-indonesia-sebagai-hub-kolaborasi-digital-asia-pasifik"
- },
- {
-  "slug": "pgas-batalkan-public-expose-2026-tunggu-putusan-arbitrase-gunvor",
-  "category": "Aksi Korporasi",
-  "title": "PGAS Batalkan Public Expose 2026, Tunggu Putusan [Arbitrase] Gunvor",
-  "deck": "PGN membatalkan partisipasi pada Public Expose Live BEI yang dijadwalkan 9 September 2026 karena masih menelaah putusan arbitrase Gunvor yang membuat laporan keuangan interim berpotensi telat.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGAS",
-   "Public Expose",
-   "Arbitrase Gunvor",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2387ac1f71_b4fcdff4ec.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026",
-  "category": "Pasar Modal",
-  "title": "Modal Asing [Rp140,6 T] Masuk RI hingga Agustus 2026",
-  "deck": "Menkeu Purbaya Yudhi Sadewa sebut modal asing Rp140,6 triliun masuk RI hingga 28 Agustus 2026, seiring yield SBN turun dari puncak 7,39 persen Juni ke sekitar 7 persen.",
-  "date": "1 September 2026",
-  "image": "assets/img/modal-asing-rp140-6-t-masuk-ri-hingga-agustus-2026.jpg",
-  "imageV": "mtir85yv",
-  "tags": [
-   "modal asing",
-   "yield SBN",
-   "rupiah",
-   "Purbaya Yudhi Sadewa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464183-purbaya-sebut-modal-asing-rp1406-triliun-masuk-ri-kepercayaan-investor-global-masih-kuat"
- },
- {
-  "slug": "humi-gelar-rupslb-8-oktober-agenda-pergantian-pengurus",
-  "category": "Aksi Korporasi",
-  "title": "HUMI Gelar RUPSLB 8 Oktober, Agenda [Pergantian] Pengurus",
-  "deck": "PT Humpuss Maritim Internasional Tbk menjadwalkan RUPSLB pada 8 Oktober 2026 dengan agenda tunggal persetujuan perubahan pengurus perseroan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HUMI",
-   "RUPSLB",
-   "Humpuss Maritim Internasional",
-   "pergantian pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/29b86127c0_6bb83e46ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnii-rampungkan-pengambilalihan-saham-msi-dan-mam",
-  "category": "Aksi Korporasi",
-  "title": "BNII Rampungkan [Pengambilalihan] Saham MSI dan MAM",
-  "deck": "Bank Maybank Indonesia merampungkan pengambilalihan saham di dua anak usaha, PT Maybank Sekuritas Indonesia dan PT Maybank Asset Management, per Agustus 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNII",
-   "Maybank Indonesia",
-   "akuisisi",
-   "Maybank Sekuritas Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9c625e2eb_08dfbafc6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "supa-revisi-laporan-dana-ipo-belanja-modal-baru-terserap-3-7",
-  "category": "Aksi Korporasi",
-  "title": "SUPA Revisi Laporan Dana IPO: [Belanja Modal] Baru Terserap 3,7%",
-  "deck": "Revisi laporan dana IPO SUPA menambah persentase deviasi: belanja modal baru terealisasi 3,7% dari target 30%, sisa dana Rp719,2 miliar disimpan di deposit BI.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPA",
-   "penggunaan dana IPO",
-   "belanja modal",
-   "Super Bank Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b5ea392ff_bb69c0cbed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nice-jelaskan-lonjakan-harga-saham-14-12-ke-bei",
-  "category": "Aksi Korporasi",
-  "title": "NICE Jelaskan Lonjakan [Harga] Saham 14,12% ke BEI",
-  "deck": "PT Adhi Kartiko Pratama Tbk menegaskan tidak ada informasi material di balik lonjakan harga sahamnya 14,12 persen pada 27 Agustus 2026, sesuai permintaan penjelasan Bursa Efek Indonesia.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef41e71c22_82da023f64.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tris-bagikan-dividen-interim-rp2-27-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "TRIS Bagikan [Dividen] Interim Rp2,27 per Saham",
-  "deck": "Trisula International akan membagikan dividen interim tunai Rp7,02 miliar atau Rp2,27 per saham untuk tahun buku 2026, dengan pembayaran pada 23 September 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIS",
-   "dividen interim",
-   "Trisula International",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a2fee03129_8f84c44ccf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-likuiditas-ketat-rp500-m-mengendap-di-obligasi-2",
-  "category": "Aksi Korporasi",
-  "title": "BWPT: [Likuiditas] Ketat, Rp500 M Mengendap di Obligasi 2%",
-  "deck": "Dalam tanggapan ke Bursa, Eagle High Plantations mengungkap rasio lancar 0,67 kali dan Rp500 miliar dana ditempatkan di obligasi Danantara berkupon 2% per tahun, sementara utang bank masih besar.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "Eagle High Plantations",
-   "likuiditas",
-   "obligasi Danantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69cc60f983_ffd69591b7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

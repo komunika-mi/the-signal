@@ -3,6 +3,163 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sqmi-cgs-international-jual-167-juta-saham-wilton-makmur",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: CGS International Jual [167 Juta] Saham Wilton Makmur",
+  "deck": "CGS International Securities Singapore melepas 167 juta saham SQMI pada 2 September 2026 seharga Rp103 per saham, hak suaranya turun dari 20,65 persen ke 19,58 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:00:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1174-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "kepemilikan saham",
+   "CGS International"
+  ],
+  "body": [
+   "CGS International Securities Singapore Pte Ltd, pemegang saham asing di Wilton Makmur Indonesia Tbk (SQMI), melaporkan penjualan 167.000.000 saham perseroan pada 2 September 2026 dengan harga Rp103 per saham. Transaksi ini tercatat berjenis penjualan atas kepemilikan tidak langsung, dengan keterangan tujuan transaksi sale trade in exchange, sebagaimana disampaikan dalam laporan keterbukaan informasi kepada Otoritas Jasa Keuangan pada 8 September 2026.",
+   "Sebelum transaksi, CGS International tercatat memegang 3.209.028.429 saham SQMI, setara 20,65 persen hak suara perseroan. Setelah penjualan tersebut, jumlah kepemilikannya berkurang menjadi 3.042.028.429 saham dengan hak suara 19,58 persen. Total nilai penjualan diperkirakan sekitar Rp17,2 miliar, atau setara 5,2 persen dari saham yang sebelumnya dipegang CGS International di SQMI.",
+   "Laporan ini terbit sehari setelah SQMI mencatat perubahan kepemilikan CGS International lainnya pada 7 September 2026, menandakan lembaga ini cukup aktif bertransaksi atas saham SQMI dalam sepekan terakhir."
+  ],
+  "fotoAdegan": "Exterior of a Jakarta stock exchange building with pedestrians and taxis passing by in afternoon light",
+  "takeaway": "Laporan ini netral bagi Wilton Makmur, karena penjualan 167 juta saham oleh CGS International hanya sekitar 5,2 persen dari total saham yang dipegangnya sendiri dan tidak mengubah siapa pemegang kendali perseroan. Yang tersentuh di sini adalah peta hak suara pemegang saham, bukan kas atau laba perusahaan, sehingga pelaku pasar biasanya memperhatikannya untuk melihat apakah pemegang saham besar mulai mengurangi porsi kepemilikannya secara bertahap. Penurunan hak suara dari 20,65 persen menjadi 19,58 persen tergolong tipis dan belum menunjukkan pelepasan besar-besaran. Yang perlu dipantau berikutnya adalah apakah CGS International melanjutkan pola jual beli saham SQMI dalam laporan-laporan susulan, mengingat riwayat kepemilikannya bergerak naik dan turun hanya dalam rentang sepekan terakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smle-paparkan-kinerja-pendapatan-kuartal-i-turun-18",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Paparkan Kinerja, Pendapatan Kuartal I [Turun] 18%",
+  "deck": "Public expose tahunan SMLE mengungkap pendapatan kuartal I 2026 turun 18 persen dibanding tahun lalu, sementara pertumbuhan pendapatan tahunan melambat sejak 2024.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T14:56:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b81512c23f_57b7805558.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "public expose",
+   "kinerja keuangan",
+   "pendapatan"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 8 September 2026, menjelang penyelenggaraan acara pada Jumat, 11 September 2026 pukul 09.00 WIB melalui platform IDX Public Expose Live. Agenda acara mencakup paparan kinerja perseroan, prospek bisnis, dan sesi tanya jawab dengan pers. Perseroan yang mencatatkan saham perdana pada 10 Januari 2024 ini bergerak di empat lini bisnis: bahan baku makanan, bahan baku perawatan rumah dan pribadi, kimia industri, serta wewangian.",
+   "Dalam materi tersebut, SMLE memaparkan pendapatan tahunan yang tumbuh dari Rp185.478 juta pada 2023 menjadi Rp219.081 juta pada 2024, lalu Rp224.841 juta pada 2025. Namun pada kuartal I 2026, pendapatan perseroan tercatat turun 18 persen dibandingkan periode yang sama tahun sebelumnya, tanpa disebutkan angka nominalnya dalam materi paparan tersebut.",
+   "Materi juga mencantumkan susunan pengurus perseroan: Gunawan sebagai Presiden Komisaris, Halim Liawan sebagai Komisaris, dan Basa Sidabutar sebagai Komisaris Independen. Di jajaran direksi, Siu Min menjabat Direktur Utama, Tanti Royani sebagai Direktur Keuangan dan Operasional, serta Yulia Rosaline sebagai Direktur Pemasaran dan Penjualan."
+  ],
+  "fotoAdegan": "Technicians in white coats testing liquid ingredient samples on stainless steel lab benches, bright industrial lighting",
+  "takeaway": "Data ini condong negatif karena penurunan pendapatan 18 persen pada kuartal I 2026 dibanding tahun sebelumnya menunjukkan perlambatan penjualan yang cukup tajam, meski tren tahunan sejak 2023 masih tumbuh. Yang tersentuh di sini adalah pendapatan, yaitu total nilai penjualan sebelum dikurangi biaya operasional, sehingga penurunannya jadi sinyal awal bahwa permintaan atau harga jual sedang melemah, walau belum tentu berujung pada kerugian. Pelaku pasar biasanya mencermati pos ini karena jadi dasar perhitungan laba, sehingga penurunan pendapatan yang berkelanjutan bisa menekan laba ke depan. Yang perlu dipantau berikutnya adalah paparan publik pada Jumat, 11 September 2026, saat manajemen dijadwalkan menjelaskan penyebab penurunan kuartal I dan strategi pertumbuhan lanjutan, serta laporan keuangan resmi kuartal berikutnya untuk melihat apakah tren ini berlanjut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lppi-realisasikan-dana-obligasi-sukuk-rp3-67-triliun-sisa-rp162-8-m",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Realisasikan Dana Obligasi-Sukuk Rp3,67 Triliun, [Sisa] Rp162,8 M",
+  "deck": "LPPI melaporkan realisasi penggunaan dana empat obligasi dan sukuk mudharabah berkelanjutan senilai Rp3,67 triliun per 31 Agustus 2026, dengan sisa Rp162,8 miliar masih di bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T14:53:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2616a4538a_0e8adb20d6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi korporasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum kepada Otoritas Jasa Keuangan pada 8 September 2026, ditandatangani Direktur Kosim Sutiono. Laporan ini mencakup empat instrumen surat utang yang sama-sama efektif pada 2 Desember 2025: Obligasi Berkelanjutan IV Tahap II dan Tahap III Tahun 2026, serta Sukuk Mudharabah Berkelanjutan II Tahap II dan Tahap III Tahun 2026.",
+   "Untuk tahap II, Obligasi Berkelanjutan IV mengumpulkan dana Rp1.048.980.000.000, dipotong biaya penawaran Rp5.820.521.012 sehingga dana bersih Rp1.043.159.478.988. Seluruh dana ini sudah terpakai per laporan: 73 persen atau Rp759.559.006.406 untuk membayar pokok, angsuran, dan bunga pinjaman bank, sisanya 27 persen atau Rp283.600.472.582 untuk modal kerja. Sukuk Mudharabah Berkelanjutan II Tahap II mengumpulkan Rp1.551.330.000.000, bersih Rp1.542.964.195.088 setelah biaya Rp8.365.804.912, dan juga habis terpakai: 71 persen atau Rp1.096.187.518.000 untuk utang, 29 persen atau Rp446.776.677.088 untuk modal kerja. Sisa dana kedua instrumen ini nol.",
+   "Tahap III belum rampung sepenuhnya. Obligasi Berkelanjutan IV Tahap III mengumpulkan Rp800.895.000.000, bersih Rp797.213.607.214, tapi baru Rp643.370.770.144 yang terealisasi. Porsi pembayaran utang senilai Rp564.860.000.000 (71 persen) sudah tuntas, namun porsi modal kerja baru terealisasi Rp69.510.770.144 dari rencana Rp232.353.607.214. Sisa dana Rp162.842.837.070 saat ini disimpan dalam bentuk giro di PT Bank Negara Indonesia (Persero) Tbk dengan bunga 6,5 persen per tahun, dan BNI dinyatakan bukan pihak berelasi. Adapun Sukuk Mudharabah Berkelanjutan II Tahap III, yang mengumpulkan Rp272.040.000.000 dengan dana bersih Rp270.708.227.705, sudah terpakai seluruhnya: 79 persen atau Rp213.040.000.000 untuk utang dan 21 persen atau Rp57.668.227.705 untuk modal kerja.",
+   "Secara keseluruhan, keempat instrumen ini menghimpun dana kotor sekitar Rp3,67 triliun dengan total biaya penawaran umum sekitar Rp19,2 miliar, dan dana bersih gabungan sekitar Rp3,65 triliun. Perusahaan menyatakan seluruh penggunaan dana mengacu pada rencana di prospektus tanpa perubahan yang diputuskan lewat RUPS."
+  ],
+  "fotoAdegan": "Workers inspecting large paper rolls on a factory production line, steam rising, industrial lighting, Sumatra pulp mill setting",
+  "takeaway": "Laporan ini netral bagi LPPI, karena isinya sekadar konfirmasi bahwa dana obligasi dan sukuk dipakai sesuai rencana di prospektus, tanpa penyimpangan yang mengubah risiko perusahaan. Yang tersentuh adalah beban bunga dan struktur utang, sebab mayoritas dana, 71 sampai 79 persen dari tiap instrumen, dipakai membayar pokok dan bunga pinjaman bank sehingga utang bank berpindah menjadi utang obligasi dan sukuk, sementara sisa dana yang belum terpakai tetap menghasilkan bunga giro 6,5 persen di bank sambil menunggu dicairkan. Yang perlu dipantau berikutnya adalah realisasi penuh sisa dana Rp162,8 miliar untuk modal kerja tahap III Obligasi Berkelanjutan IV, yang akan terlihat di laporan berkala berikutnya apakah sudah habis terpakai atau masih mengendap di bank.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dgwg-sampaikan-koreksi-laporan-realisasi-dana-ipo",
+  "category": "Aksi Korporasi",
+  "title": "DGWG Sampaikan [Koreksi] Laporan Realisasi Dana IPO",
+  "deck": "DGWG mengoreksi laporan realisasi dana IPO Rp189,87 miliar yang sudah terpakai penuh untuk bahan baku pestisida dan penyertaan modal ke anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T14:26:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1023585db5_15a84355ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "IPO",
+   "penggunaan dana IPO",
+   "OJK"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) melalui surat bernomor 0005/DGWG-CORSEC/IX/2026 tertanggal 7 September 2026 yang ditandatangani Corporate Secretary Denny Loryta Davinci, menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum per 30 Juni 2025. Laporan ini mengoreksi surat sebelumnya bernomor 0003/DGI-CORSEC/VII/2025 yang disampaikan pada 15 Juli 2025, mengacu pada ketentuan POJK Nomor 30/POJK.04/2015 tentang Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum. Surat itu tidak merinci butir mana yang berubah dari laporan sebelumnya, hanya melampirkan versi revisi laporan berikut surat pengantar koreksinya.",
+   "Dari penawaran umum saham perdana (IPO) DGWG yang efektif pada 13 Januari 2025, total dana yang terkumpul tercatat Rp202,94 miliar. Setelah dipotong biaya penawaran umum Rp13,07 miliar, dana bersih yang tersedia untuk digunakan adalah Rp189,87 miliar, dan seluruhnya telah direalisasikan penuh sehingga sisa dana tercatat nol. Rinciannya, Rp99,78 miliar atau 52,55 persen dari dana bersih dipakai untuk pembelian bahan baku pembuatan pestisida, sementara Rp90,08 miliar atau 47,45 persen digunakan untuk penyertaan modal ke PT Fertilizer Inti Technology.",
+   "Perseroan juga merinci komponen biaya penawaran umum sebesar Rp13,07 miliar tersebut, yaitu biaya jasa penjaminan emisi Rp507,35 juta (0,25 persen), biaya jasa penyelenggaraan Rp1,69 miliar (0,83 persen), biaya jasa penjualan Rp171,25 juta (0,08 persen), biaya jasa profesi penunjang pasar modal Rp7,33 miliar (3,61 persen, komponen terbesar), biaya jasa lembaga penunjang pasar modal Rp95 juta (0,05 persen), dan biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp3,28 miliar (1,62 persen). Tidak ada biaya jasa konsultasi keuangan yang dikenakan dalam penawaran umum ini."
+  ],
+  "fotoAdegan": "Workers stacking raw chemical material sacks inside a pesticide manufacturing warehouse, forklift moving pallets under industrial lighting",
+  "takeaway": "Koreksi ini bersifat netral bagi fundamental DGWG karena angka realisasi dana IPO yang dilaporkan sama persis dengan yang sudah diketahui publik sejak Juli 2025, tanpa perubahan alokasi atau tambahan dana baru. Yang tersentuh di sini bukan pos kinerja seperti ekuitas atau arus kas secara langsung, melainkan kepatuhan pelaporan, sebab dana Rp189,87 miliar itu memang sudah habis dialokasikan sejak pertengahan 2025 untuk bahan baku produksi dan penyertaan modal ke anak usaha Fertilizer Inti Technology, yang nantinya ikut membentuk aset dan kinerja konsolidasi DGWG. Laporan semacam ini tetap penting diawasi karena OJK mewajibkannya lewat POJK 30/2015 sebagai bentuk pengawasan agar dana publik benar-benar dipakai sesuai janji di prospektus. Yang perlu dipantau selanjutnya adalah apakah OJK menerima koreksi tertanggal 7 September 2026 ini sebagai laporan final, mengingat ini sudah surat kedua untuk periode pelaporan yang sama, sehingga investor sebaiknya waspada jika muncul revisi lanjutan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dwgl-raih-outlook-positif-rating-obligasi-tetap-a",
+  "category": "Aksi Korporasi",
+  "title": "DWGL Raih Outlook [Positif], Rating Obligasi Tetap A-",
+  "deck": "KRI mempertahankan peringkat A- untuk Obligasi I Dwi Guna Laksana 2025 senilai Rp300 miliar, tapi menaikkan outlook dari stabil ke positif berkat perbaikan struktur modal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T13:59:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/367b823973_e630738fc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DWGL",
+  "tags": [
+   "DWGL",
+   "obligasi",
+   "pemeringkatan",
+   "outlook"
+  ],
+  "body": [
+   "PT Kredit Rating Indonesia (KRI) mengafirmasi peringkat A- untuk PT Dwi Guna Laksana Tbk (DWGL) dan Obligasi I Dwi Guna Laksana Tahun 2025 senilai Rp300 miliar yang jatuh tempo 18 Juni 2030. Outlook peringkat dinaikkan dari sebelumnya stabil menjadi positif, berlaku untuk periode 7 September 2026 hingga 1 Oktober 2027. Hasil pemeringkatan disampaikan KRI kepada DWGL pada 7 September 2026 dan diumumkan pada hari yang sama.",
+   "KRI menyebut kenaikan outlook mencerminkan ekspektasi struktur modal yang lebih kuat dan perlindungan arus kas yang membaik, didukung pendapatan dari kontrak take-or-pay serta potensi kenaikan permintaan batu bara domestik. Volume penjualan batu bara DWGL naik dari 3,7 juta ton pada 2022 menjadi 4,2 juta ton pada 2025, seiring alokasi pasokan domestik yang lebih besar untuk memenuhi kewajiban pasar domestik (DMO). Rasio utang terhadap ekuitas (DER) diproyeksikan membaik ke 0,43 kali pada 2026, dari 0,60 kali per 30 Juni 2026, ditopang pertumbuhan ekuitas dan rencana pelunasan medium-term notes pada awal 2026.",
+   "Meski begitu, KRI mencatat peringkat DWGL masih dibatasi oleh basis pelanggan yang terkonsentrasi hanya pada produsen listrik berbahan bakar batu bara, serta eksposur terhadap fluktuasi harga batu bara global. Peringkat berpotensi naik jika DWGL berhasil memperluas basis pelanggan secara berkelanjutan, namun bisa diturunkan jika perusahaan mencatat utang lebih tinggi dari proyeksi disertai profitabilitas yang melemah. Per 30 Juni 2026, pemegang saham DWGL tercatat adalah Hawthorn-Capital Investment Pte Ltd (48,52 persen), PT Dian Ciptamas Agung (9,72 persen), Siji Fixed Investa Fund (8,28 persen), dan publik (33,48 persen)."
+  ],
+  "fotoAdegan": "Workers walking along a coal stockpile yard near a power plant supply terminal, morning haze, heavy machinery in background",
+  "takeaway": "Laporan ini condong positif bagi DWGL karena kenaikan outlook dari stabil ke positif oleh KRI mencerminkan penilaian bahwa kondisi keuangan perusahaan membaik, bukan sekadar konfirmasi status quo. Yang tersentuh di sini adalah ekuitas dan rasio utang terhadap ekuitas: ekuitas DWGL tercatat tumbuh dari Rp156,4 miliar pada 2023 menjadi Rp597,8 miliar per Juni 2026, sementara rasio utang terhadap modal sendiri diproyeksikan turun ke 0,43 kali tahun ini, artinya beban utang perusahaan terhadap modalnya mengecil dan ruang untuk menanggung kewajiban baru melebar. Kontrak take-or-pay, yakni perjanjian jual beli batu bara yang mewajibkan pembeli tetap membayar volume minimum meski tidak menyerapnya, juga memberi kepastian pendapatan yang jarang dimiliki emiten tambang biasa. Yang perlu dipantau selanjutnya adalah apakah DWGL benar merealisasikan pelunasan medium-term notes dan penurunan DER ke 0,43 kali seperti diproyeksikan KRI untuk tahun 2026, serta apakah perusahaan bisa memperluas basis pelanggannya di luar produsen listrik batu bara, karena syarat itu yang disebut KRI sebagai jalan menuju kenaikan peringkat lebih lanjut sebelum periode rating berakhir 1 Oktober 2027.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "visi-gelar-rups-terbitkan-saham-baru-danai-akuisisi-kesehatan",
+  "category": "Aksi Korporasi",
+  "title": "VISI Gelar RUPS, Terbitkan Saham Baru Danai Akuisisi [Kesehatan]",
+  "deck": "VISI memanggil RUPS 30 September 2026 untuk menyetujui penerbitan saham baru tanpa hak memesan efek dan akuisisi 72,91% saham perusahaan kesehatan Hasna Medika Bakti Cirebon.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T12:57:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e6726936d4_88044975b9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "RUPS",
+   "akuisisi",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Independen dan Rapat Umum Pemegang Saham Luar Biasa yang akan digelar Rabu, 30 September 2026, pukul 09.00 hingga 12.00 WIB. Rapat digelar secara fisik di Function Hall Gedung Artha Graha Lantai LG, Jalan Jenderal Sudirman Kavling 52-53, Jakarta, dan secara elektronik lewat sistem eASY.KSEI. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham per 7 September 2026 sampai penutupan perdagangan di Bursa Efek Indonesia.",
+   "Agenda utama RUPS Independen adalah persetujuan penambahan modal tanpa memberikan hak memesan efek terlebih dahulu, atau PMTHMETD. Perseroan berencana menerbitkan sebanyak-banyaknya 307.500.000 saham baru dengan nilai nominal Rp25 per saham, atau setara maksimum 10 persen dari total modal disetor dan ditempatkan saat ini. Karena saham baru ini tidak ditawarkan lebih dulu kepada pemegang saham lama, rencana ini membutuhkan persetujuan khusus dari pemegang saham independen, yaitu pemegang saham yang bukan direksi, komisaris, pemegang saham utama, pengendali, atau afiliasi mereka. Persetujuan ini juga akan mengubah Pasal 4 ayat 2 dan ayat 3 Anggaran Dasar Perseroan.",
+   "Di RUPSLB, ada tiga agenda. Pertama, perubahan alamat dan domisili perseroan dari Jalan Greges Jaya II Blok B-19, Surabaya, menjadi Wisma KEIAI Lantai 5, Jalan Jenderal Sudirman Kavling 3, Jakarta Pusat. Kedua, perubahan Pasal 3 Anggaran Dasar untuk menambah kegiatan usaha utama menjadi KBLI 64210, yaitu aktivitas perusahaan induk atau holding company, sekaligus menyesuaikan klasifikasi usaha ke standar KBLI 2025. Ketiga dan yang paling substansial, persetujuan transaksi material atas penggunaan dana hasil PMTHMETD untuk mengambil alih 72,91 persen saham PT Hasna Medika Bakti Cirebon, perusahaan di bidang kesehatan. Pengambilalihan ini dilakukan lewat dua jalur: penyertaan pada saham baru yang mewakili 65 persen modal disetor Hasna Medika, dan pembelian saham dari pemegang saham lama Hasna Medika senilai 7,91 persen dari total modal setelah penerbitan saham baru tersebut. Perseroan menyatakan nilai transaksi ini melebihi 50 persen ekuitas VISI, sehingga menurut aturan OJK tentang transaksi material, wajib mendapat persetujuan RUPS."
+  ],
+  "fotoAdegan": "A small private hospital building exterior in a Cirebon neighborhood, an ambulance parked outside, midday tropical light.",
+  "takeaway": "Rencana ini condong netral bagi VISI: skema pendanaan lewat penerbitan saham baru tanpa hak memesan efek terlebih dahulu berpotensi mengurangi porsi kepemilikan pemegang saham lama, tapi dananya dipakai untuk ekspansi nyata ke sektor kesehatan lewat pengambilalihan mayoritas saham. Yang tersentuh adalah jumlah saham beredar, karena penerbitan hingga 307,5 juta saham baru memperbesar jumlah saham beredar sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut kebagian saham baru itu, sementara sisi ekuitas juga bergeser besar karena nilai akuisisi Hasna Medika Bakti Cirebon disebut melebihi separuh ekuitas VISI saat ini. Yang perlu dipantau adalah hasil RUPS Independen dan RUPSLB pada 30 September 2026, karena rencana VISI berubah menjadi perusahaan induk sekaligus masuk ke bisnis kesehatan baru ini baru berjalan kalau pemegang saham independen menyetujui skema penerbitan saham, dan pemegang saham secara umum menyetujui transaksi akuisisinya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "abmm-jadwalkan-rupslb-pada-15-oktober-2026",
   "category": "Aksi Korporasi",
   "title": "ABMM Jadwalkan [RUPSLB] pada 15 Oktober 2026",
@@ -300,6 +457,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bali-pengendali-tambah-saham-hak-suara-ke-59-82",
+  "category": "Aksi Korporasi",
+  "title": "BALI: Pengendali [Tambah] Saham, Hak Suara ke 59,82%",
+  "deck": "PT Kharisma Cipta Towerindo, pengendali BALI, membeli 4,9 juta saham pada 7 September 2026 seharga Rp1.420 per lembar, menaikkan hak suaranya menjadi 59,82 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:41:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-8568-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BALI",
+  "tags": [
+   "BALI",
+   "Bali Towerindo Sentra",
+   "kepemilikan saham",
+   "menara telekomunikasi"
+  ],
+  "body": [
+   "PT Kharisma Cipta Towerindo, pemegang saham berstatus direksi di PT Bali Towerindo Sentra Tbk (BALI), melaporkan ke Otoritas Jasa Keuangan bahwa mereka membeli 4.900.000 saham BALI secara tidak langsung pada 7 September 2026. Transaksi dilakukan pada harga Rp1.420 per saham dengan tujuan investasi, sehingga total nilai pembelian sekitar Rp6,96 miliar.",
+   "Dengan tambahan itu, kepemilikan PT Kharisma Cipta Towerindo naik dari 2.348.950.000 saham menjadi 2.353.850.000 saham. Porsi hak suaranya di BALI ikut naik tipis dari 59,70 persen menjadi 59,82 persen, sehingga posisinya sebagai pemegang saham pengendali BALI semakin kuat.",
+   "Laporan ini disampaikan sesuai kewajiban keterbukaan informasi berdasarkan Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan direksi, komisaris, atau pemegang saham utama melaporkan setiap perubahan kepemilikan saham emiten kepada OJK."
+  ],
+  "fotoAdegan": "Telecom tower technicians in safety harnesses inspecting antenna equipment atop a steel tower, golden hour light",
+  "takeaway": "Laporan ini netral bagi BALI karena tambahan 4,9 juta saham hanya sekitar 0,21 persen dari kepemilikan PT Kharisma Cipta Towerindo sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan besar, meski tetap berupa pembelian, bukan pelepasan. Yang berubah di sini adalah komposisi kepemilikan dan hak suara pengendali di rapat pemegang saham, bukan jumlah total saham beredar BALI, karena ini pembelian saham yang sudah beredar, bukan penerbitan saham baru yang bisa mengurangi porsi pemegang saham lain. Dokumen ini tidak mencantumkan agenda RUPS atau tenggat lanjutan, sehingga yang perlu dipantau adalah apakah PT Kharisma Cipta Towerindo kembali menambah kepemilikannya dalam laporan-laporan berikutnya, mengingat porsi suaranya sebagai pengendali BALI kini sudah mendekati 60 persen.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -375,6 +558,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Refrigerated trucks being loaded at a cold storage warehouse dock in an Indonesian industrial area, workers moving pallets, early morning light.",
   "takeaway": "Paparan publik ini condong netral bagi BLOG: tidak ada kejutan baru pada laba maupun modal dibanding yang sudah diumumkan sebelumnya, tapi data yang disertakan menegaskan ekspansi jaringan terus berlanjut hingga September 2026. Yang patut dicermati adalah komposisi pendanaan ekspansi itu, yakni ekuitas atau modal sendiri perusahaan cuma naik tipis dari Rp621 miliar menjadi Rp627 miliar sepanjang semester ini, sementara liabilitas atau utang melonjak 24 persen menjadi Rp511 miliar, artinya sebagian besar penambahan aset dibiayai dari utang, bukan dari laba ditahan atau modal baru. Komposisi ini penting bagi pemegang saham karena utang yang lebih besar berarti beban bunga yang harus dibayar juga membesar, dan porsi utang terhadap modal yang meningkat membuat perusahaan lebih sensitif pada kenaikan suku bunga. Yang perlu dipantau selanjutnya adalah penjelasan manajemen dalam sesi tanya jawab public expose yang materinya disampaikan 8 September 2026 ini, terutama soal rencana pendanaan lanjutan untuk membiayai ekspansi fasilitas cold storage di 16 kota yang disebutkan dalam materi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "akpi-komisaris-henry-liem-jual-400-000-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 400.000 Saham Lagi",
+  "deck": "Dewan Komisaris AKPI Henry Liem melepas 400.000 saham senilai Rp210 juta pada 7 September 2026, hak suaranya turun tipis menjadi 1,2528 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:15:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-08092026-1916-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Komisaris",
+   "Kepemilikan Saham",
+   "Argha Karya Prima"
+  ],
+  "body": [
+   "Henry Liem, anggota Dewan Komisaris PT Argha Karya Prima Industry Tbk (AKPI), melaporkan ke Otoritas Jasa Keuangan bahwa ia menjual 400.000 saham AKPI secara tidak langsung dalam dua transaksi pada 7 September 2026. Transaksi pertama sebanyak 200.000 lembar di harga Rp520 per saham, dan transaksi kedua sebanyak 200.000 lembar di harga Rp530 per saham, dengan total nilai penjualan sekitar Rp210 juta. Kedua transaksi dicatat dengan tujuan jual saham.",
+   "Setelah penjualan ini, kepemilikan Henry Liem di AKPI berkurang dari 8.070.459 lembar menjadi 7.670.459 lembar, atau turun 400.000 lembar. Hak suaranya di perusahaan pun turun dari 1,3182 persen menjadi 1,2528 persen. Jumlah yang dilepas setara dengan 4,9563 persen dari total kepemilikan saham Henry Liem sebelum transaksi.",
+   "Laporan ini menyusul penjualan saham Henry Liem sebelumnya yang diberitakan pada 4 September 2026, ketika ia melepas 114.200 saham senilai Rp61,2 juta. Dengan demikian, dalam rentang kurang dari sepekan, Henry Liem telah dua kali melaporkan penjualan sahamnya di AKPI kepada regulator."
+  ],
+  "fotoAdegan": "Rolls of clear plastic packaging film stacked on an industrial production line inside a factory, workers in safety vests checking equipment.",
+  "takeaway": "Penjualan ini condong netral bagi AKPI, karena meski terjadi dua kali dalam waktu kurang dari seminggu, porsinya terhadap total saham AKPI tetap kecil sehingga tidak mengubah peta kendali perusahaan. Yang tersentuh adalah hak suara Henry Liem di rapat pemegang saham, yaitu porsi suara yang dimilikinya dibanding seluruh pemegang saham lain, yang turun dari 1,3182 persen menjadi 1,2528 persen, penurunan tipis yang tidak menggesernya dari posisi pemegang saham minoritas. Meski begitu, porsi yang dilepas kali ini, 4,96 persen dari kepemilikan pribadinya, jauh lebih besar dibanding penjualan sebelumnya pada 4 September yang hanya sekitar 1,4 persen dari kepemilikannya, sehingga menunjukkan pola pengurangan saham yang berlanjut. Yang perlu dipantau berikutnya adalah apakah Henry Liem kembali melaporkan penjualan saham AKPI dalam waktu dekat, mengingat dua transaksi sudah terjadi hanya dalam rentang empat hari.",
   "sentimen": "netral"
  },
  {

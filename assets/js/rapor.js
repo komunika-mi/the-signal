@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-08T01:51:44.852+07:00",
+ "diperbarui": "2026-09-09T01:02:55.950+07:00",
  "entri": [
+  {
+   "id": "2026-09-08-3",
+   "edisi": "2026-09-08",
+   "benang": "Pemerintah rapatkan identitas dengan rekening bank",
+   "klaim": "Pemerintah bergerak menyatukan data kependudukan (NIK Dukcapil), rekening bank, dan infrastruktur pembayaran QRIS menjadi satu sistem identitas-keuangan.",
+   "penanda": "Tanggal mulai konkret penerbitan KTP yang otomatis menyertakan nomor rekening bank",
+   "tenggat": null,
+   "tenggatLabel": "tanggal mulai konkret penerbitan KTP yang otomatis menyertakan nomor rekening bank",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-08-2",
+   "edisi": "2026-09-08",
+   "benang": "Optimisme resmi vs data yang masih beragam",
+   "klaim": "Klaim Menkeu Purbaya bahwa aliran uang ke ekonomi mulai pulih sejak Juli lebih merupakan ekspektasi yang dibangun lebih dulu daripada tercermin dalam data resmi.",
+   "penanda": "Rilis data uang beredar serta penyaluran kredit Agustus oleh Bank Indonesia",
+   "tenggat": "2026-10-07",
+   "tenggatLabel": "begitu Bank Indonesia merilis data uang beredar serta penyaluran kredit Agustus, yang biasanya terbit awal bulan berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-08-1",
+   "edisi": "2026-09-08",
+   "benang": "Jarak korporasi besar dan kecil kian lebar",
+   "klaim": "Jarak arus kas antara korporasi besar dan korporasi kecil-menengah akan terus melebar.",
+   "penanda": "Hasil rapat pemegang obligasi dan sukuk Pos Indonesia pada 21 September",
+   "tenggat": "2026-09-21",
+   "tenggatLabel": "begitu hasil rapat pemegang obligasi dan sukuk Pos Indonesia pada 21 September keluar",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-07-3",
    "edisi": "2026-09-07",
@@ -386,8 +419,13 @@ var RAPOR = {
    "penanda": "Hasil RUPS pemegang Sukuk Ijarah Berkelanjutan I Tahap II 2025 Pos Indonesia, yakni apakah pemegang sukuk menyetujui atau menolak permintaan waiver",
    "tenggat": "2026-09-04",
    "tenggatLabel": "rapat 4 September 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "post-pemegang-sukuk-tolak-restrukturisasi-pos-indonesia",
+    "judul": "POST: Pemegang Sukuk Tolak Restrukturisasi Pos Indonesia",
+    "tanggal": "8 September 2026",
+    "alasan": "Artikel ini menunjukkan RUPS pemegang Sukuk Ijarah Pos Indonesia menolak baik restrukturisasi utang maupun permintaan waiver atas pelanggaran syarat keuangan, mengonfirmasi Pos Indonesia masuk daftar BUMN yang tersandung negosiasi ulang dengan kreditor/pemegang surat utang."
+   }
   },
   {
    "id": "2026-08-20-1",

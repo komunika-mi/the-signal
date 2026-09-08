@@ -185,7 +185,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sorotan resmi atas kesenjangan akses: baru 13 persen masyarakat memakai layanan keuangan syariah, sementara layanan keuangan konvensional sudah menjangkau 93,53 persen penduduk, padahal tingkat pemahaman soal keuangan syariah sudah di atas 43 persen. Yang terdampak langsung adalah pelaku UMKM, petani, dan masyarakat pedesaan yang paling sering disebut sebagai sasaran perluasan KUR syariah dan program dana sosial keagamaan seperti zakat dan wakaf. Pemerintah menyebut sejumlah langkah untuk menutup kesenjangan itu, seperti memperluas KUR syariah dan sertifikasi halal UMKM, tapi belum ada target waktu, alokasi anggaran, atau aturan turunan yang konkret dalam paparan ini. Yang masih perlu dipantau adalah apakah OJK atau Kemenko Perekonomian akan merilis angka inklusi keuangan syariah terbaru dengan target capaian yang jelas, sebab tanpa itu sulit menilai apakah kesenjangan 13 berbanding 93 persen ini benar-benar mengecil atau sekadar berulang di setiap acara serupa.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",

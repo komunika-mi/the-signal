@@ -173,6 +173,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "mine-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "MINE Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Sinar Terang Mandiri (MINE) menyatakan tidak ada informasi material maupun rencana korporasi yang memicu pergerakan harga.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINE",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60365d3d0c_c9660ac9c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pltp-gunung-ungaran-dinilai-aman-asal-dikaji-matang",
   "category": "Energi",
   "title": "PLTP Gunung Ungaran Dinilai [Aman] Asal Dikaji Matang",
@@ -269,6 +285,22 @@ var ARTICLES = [
    "penggunaan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8ebccdcc9c_afb5027339.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meds-komisaris-jual-6-5-juta-saham-hak-suara-nyaris-tetap",
+  "category": "Aksi Korporasi",
+  "title": "MEDS: Komisaris [Jual] 6,5 Juta Saham, Hak Suara Nyaris Tetap",
+  "deck": "Komisaris Hetzer Medical Indonesia, Jemmy Kurniawan, melepas 6,5 juta saham pada 4 September 2026, sekitar 0,78 persen dari kepemilikannya, hak suara turun tipis ke 53,04 persen.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDS",
+   "Hetzer Medical Indonesia",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-9218-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -531,6 +563,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "goto-kepemilikan-morgan-stanley-naik-ke-7-6-persen",
+  "category": "Aksi Korporasi",
+  "title": "GOTO: [Kepemilikan] Morgan Stanley Naik ke 7,6 Persen",
+  "deck": "Morgan Stanley and Co International PLC menambah kepemilikan saham GOTO lewat transaksi repo dan pembelian, hak suaranya naik dari 5,72 persen menjadi 7,60 persen.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOTO",
+   "kepemilikan saham",
+   "Morgan Stanley",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-9537-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-turun-0-25-sektor-keuangan-paling-tertekan",
   "category": "Pasar Modal",
   "title": "IHSG [Turun] 0,25%, Sektor Keuangan Paling Tertekan",
@@ -662,6 +710,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465500-purbaya-minta-anggaran-rp4980-triliun-untuk-kemenkeu-tahun-2027"
  },
  {
+  "slug": "buka-kreatif-media-karya-tambah-kepemilikan-ke-45-68",
+  "category": "Aksi Korporasi",
+  "title": "BUKA: Kreatif Media Karya Tambah [Kepemilikan] ke 45,68%",
+  "deck": "Kreatif Media Karya membeli 803,3 juta saham Bukalapak senilai sekitar Rp101,2 miliar pada 4 September 2026, menaikkan hak suaranya dari 44,90% menjadi 45,68%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUKA",
+   "Bukalapak",
+   "kepemilikan saham",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-8071-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smfp-siapkan-dana-pelunasan-obligasi-rp260-miliar",
   "category": "Aksi Korporasi",
   "title": "SMFP Siapkan Dana [Pelunasan] Obligasi Rp260 Miliar",
@@ -693,6 +757,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465488-aduan-keuangan-ilegal-membeludak-ojk-catat-30328-laporan-hingga-agustus-2026"
+ },
+ {
+  "slug": "rlco-direksi-tambah-saham-hak-suara-naik-ke-6-57",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi [Tambah] Saham, Hak Suara Naik ke 6,57%",
+  "deck": "Direksi RLCO menambah 6,67 juta saham senilai sekitar Rp10 miliar, menaikkan hak suara dari 6,36% menjadi 6,57%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-4982-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dpr-soroti-sistem-desil-yang-hambat-akses-kip-kuliah",
@@ -901,6 +981,38 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17943d18c3_ba843c446f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-direksi-tri-hartono-beli-350-000-saham-rp58-lembar",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Direksi Tri Hartono Beli [350.000] Saham Rp58/Lembar",
+  "deck": "Direksi GMFI Tri Hartono membeli 350.000 saham perseroan seharga Rp58 per lembar pada 24 Agustus 2026 untuk portofolio investasi pribadi.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "kepemilikan saham",
+   "direksi",
+   "Garuda Maintenance Facility"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-1844-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inpp-cgs-international-lepas-seluruh-saham-hak-suara-ke-nol",
+  "category": "Aksi Korporasi",
+  "title": "INPP: CGS International [lepas] seluruh saham, hak suara ke nol",
+  "deck": "CGS International Securities Singapore Pte Ltd melepas seluruh 872,3 juta saham INPP yang dimilikinya, memutus hak suara dari 7,80 persen menjadi nol per transaksi 2 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "kepemilikan saham",
+   "CGS International",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-7898-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1120,6 +1232,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "inpp-tree-of-blessing-tambah-saham-jadi-35-95-suara",
+  "category": "Aksi Korporasi",
+  "title": "INPP: Tree of Blessing [tambah] saham jadi 35,95% suara",
+  "deck": "Tree of Blessing Pte. Ltd. membeli 872,3 juta saham INPP senilai sekitar Rp628 miliar, mendorong hak suaranya dari 28,15% menjadi 35,95%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "kepemilikan saham",
+   "Tree of Blessing",
+   "pemegang saham asing"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-0079-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smil-minta-perpanjangan-waktu-jawab-bursa-soal-laporan-keuangan",
   "category": "Aksi Korporasi",
   "title": "SMIL Minta [Perpanjangan] Waktu Jawab Bursa Soal Laporan Keuangan",
@@ -1133,6 +1261,22 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8f197d991_90a9e4284e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sqmi-kepemilikan-cgs-international-naik-ke-31-2-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: Kepemilikan CGS International [Naik] ke 31,2 Miliar Saham",
+  "deck": "CGS International Securities Singapore melaporkan kepemilikannya di SQMI naik dari 3,27 miliar jadi 31,2 miliar saham, meski hak suaranya turun tipis ke 20,65%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "Wilton Makmur Indonesia",
+   "kepemilikan saham",
+   "CGS International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-5264-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1264,6 +1408,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465405-harga-emas-antam-hari-ini-7-september-2026-turun-tipis-rp3000-kini-di-angka-rp2637000-per-gram"
+ },
+ {
+  "slug": "nsss-kepemilikan-direksi-naik-ke-26-61-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Kepemilikan Direksi Naik ke 26,61% via [Repo]",
+  "deck": "Direksi Samuel Sekuritas Indonesia melaporkan kenaikan kepemilikan saham NSSS dari 24,86% menjadi 26,61% lewat tiga transaksi repurchase agreement pada 4 September 2026.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-8982-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "film-kepemilikan-samuel-sekuritas-naik-ke-9-64-via-repo",
+  "category": "Aksi Korporasi",
+  "title": "FILM: [Kepemilikan] Samuel Sekuritas Naik ke 9,64% via Repo",
+  "deck": "Samuel Sekuritas Indonesia, yang mewakili posisi direksi FILM, menambah 138,15 juta saham lewat transaksi repurchase agreement sehingga hak suaranya naik dari 8,37% menjadi 9,64%.",
+  "date": "7 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment Tbk",
+   "kepemilikan saham direksi",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-0910-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupiah-melemah-ke-rp17-650-sorotan-ke-kelas-menengah",
@@ -6372,186 +6548,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464099-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua"
- },
- {
-  "slug": "bgtg-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "BGTG Jelaskan ke BEI Soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "BGTG menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BGTG",
-   "Bank Ganesha",
-   "volatilitas saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8e7a91a83a_d309b2f6cd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "china-as-india-kuasai-44-25-ekspor-nonmigas-ri",
-  "category": "Makroekonomi",
-  "title": "China, AS, India Kuasai [44,25%] Ekspor Nonmigas RI",
-  "deck": "BPS mencatat ekspor nonmigas Indonesia Januari-Juli 2026 terkonsentrasi pada China, Amerika Serikat, dan India, dengan besi baja, CPO, dan batu bara sebagai komoditas andalan.",
-  "date": "1 September 2026",
-  "image": "assets/img/china-as-india-kuasai-44-25-ekspor-nonmigas-ri.jpg",
-  "imageV": "mtir880u",
-  "tags": [
-   "ekspor nonmigas",
-   "BPS",
-   "China",
-   "CPO"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464097-bps-sebut-china-as-dan-india-kuasai-4425-persen-ekspor-nonmigas-indonesia"
- },
- {
-  "slug": "pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp",
-  "category": "Energi",
-  "title": "PLN dan Bali Teken Kerja Sama [Percepat] PLTS 100 GWp",
-  "deck": "PLN dan Pemprov Bali menandatangani kerja sama percepatan infrastruktur energi terbarukan sebagai bagian dari program PLTS 100 GWp nasional.",
-  "date": "1 September 2026",
-  "image": "assets/img/pln-dan-bali-teken-kerja-sama-percepat-plts-100-gwp.jpg",
-  "imageV": "mtir88h6",
-  "tags": [
-   "PLTS",
-   "PLN",
-   "Bali",
-   "energi terbarukan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464093-pln-dan-pemprov-bali-kolaborasi-percepat-pengembangan-infrastruktur-energi-bersih-dukung-program-plts-100-gwp"
- },
- {
-  "slug": "bmas-laba-semester-i-anjlok-74-utang-afiliasi-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "BMAS: Laba Semester I [Anjlok] 74%, Utang Afiliasi Melonjak",
-  "deck": "Laba bersih BMAS anjlok 74 persen menjadi Rp6,39 miliar pada semester I 2026, sementara pinjaman dari pemegang saham pengendali melonjak 335 persen jadi Rp5,81 triliun.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "Bank Kasikorn Indonesia",
-   "laporan keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901134145-64220-0/FinancialStatement-2026-II-BMAS.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcid-pemegang-66-48-saham-berpindah-ke-entitas-baru-jepang",
-  "category": "Aksi Korporasi",
-  "title": "TCID: Pemegang 66,48% Saham [Berpindah] ke Entitas Baru Jepang",
-  "deck": "Mandom Corporation Jepang mengalihkan 267,3 juta saham TCID (66,48%) ke entitas hasil merger dan pemisahan usaha internal, tanpa mengubah pengendali Perseroan.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCID",
-   "Mandom Indonesia",
-   "pemegang saham",
-   "restrukturisasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e3649c2217_2b625d7014.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah",
-  "category": "Makroekonomi",
-  "title": "BPS: Ekspor RI Tembus [US$167,03] Miliar, Migas Melemah",
-  "deck": "Ekspor Indonesia Januari-Juli 2026 naik 4,43 persen jadi US$167,03 miliar, ditopang nonmigas yang menguat sementara ekspor migas turun 10,63 persen.",
-  "date": "1 September 2026",
-  "image": "assets/img/bps-ekspor-ri-tembus-us-167-03-miliar-migas-melemah.jpg",
-  "imageV": "mtir88ww",
-  "tags": [
-   "ekspor",
-   "BPS",
-   "migas",
-   "nikel"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464084-ekspor-indonesia-tembus-us16703-miliar-industri-pengolahan-jadi-penyumbang-utama"
- },
- {
-  "slug": "inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam",
-  "category": "Makroekonomi",
-  "title": "Inflasi Agustus Tembus [3,19] Persen, Dipicu Harga Ayam",
-  "deck": "BPS mencatat inflasi Agustus 2026 sebesar 0,21 persen bulanan dan 3,19 persen tahunan, dengan kenaikan harga daging ayam ras jadi pendorong utama.",
-  "date": "1 September 2026",
-  "image": "assets/img/inflasi-agustus-tembus-3-19-persen-dipicu-harga-ayam.jpg",
-  "imageV": "mtir893j",
-  "tags": [
-   "inflasi",
-   "BPS",
-   "harga pangan",
-   "daging ayam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464070-inflasi-agustus-2026-tembus-319-persen-harga-ayam-hingga-emas-jadi-biang-kerok"
- },
- {
-  "slug": "tmpo-jelaskan-saham-melonjak-pendapatan-turun-rugi-menyempit",
-  "category": "Aksi Korporasi",
-  "title": "TMPO Jelaskan Saham Melonjak, Pendapatan Turun Rugi [Menyempit]",
-  "deck": "Setelah sahamnya disetop bursa akibat lonjakan harga, Tempo Inti Media memaparkan kinerja semester I 2026: pendapatan turun 3,96 persen tapi rugi bersih menyempit 7,47 persen jadi Rp6,58 miliar.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMPO",
-   "Tempo Inti Media",
-   "Public Expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/810af7b132_fca403b369.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psab-lunasi-sebagian-besar-utang-liabilitas-turun-45",
-  "category": "Aksi Korporasi",
-  "title": "PSAB Lunasi Sebagian Besar Utang, Liabilitas Turun [45%]",
-  "deck": "Surat penjelasan J Resources Asia Pasifik ke BEI mengungkap total liabilitas turun 45 persen dan total aset turun 22 persen per Juni 2026, dipicu pelunasan utang dan pelepasan anak usaha.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "J Resources Asia Pasifik",
-   "laporan keuangan",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260901110410-63247-0/FinancialStatement-2026-II-PSAB.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-kuak-penggelapan-gaji-divisi-sdm-rupslb-copot-direksi",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Kuak [Penggelapan] Gaji Divisi SDM, RUPSLB Copot Direksi",
-  "deck": "ASBI ungkap skema penggelapan gaji oleh divisi SDM senilai sekitar Rp400 juta per bulan selama 2,5 tahun, lapor polisi dan OJK, RUPSLB 30 September ganti direksi.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "penggelapan",
-   "asuransi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f6edd8ba1_501b867691.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik",
-  "category": "Moneter",
-  "title": "Rupiah [Menguat] Tipis ke Rp17.715 di Tengah Harga Energi Naik",
-  "deck": "Rupiah menguat tipis ke Rp17.715 per dolar AS saat harga energi global melonjak akibat memanasnya kembali ketegangan Iran-AS, sementara subsidi energi mendekati Rp233 triliun.",
-  "date": "1 September 2026",
-  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-715-di-tengah-harga-energi-naik.jpg",
-  "imageV": "mtj0m0bb",
-  "tags": [
-   "rupiah",
-   "kurs dolar AS",
-   "subsidi energi",
-   "APBN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464038-rupiah-menguat-ke-rp17715-per-dolar-as-di-tengah-lonjakan-harga-energi-imbas-kembali-memanasnya-perang-iran-as"
  }
 ];

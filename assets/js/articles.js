@@ -107,7 +107,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sorotan resmi atas kesenjangan akses: baru 13 persen masyarakat memakai layanan keuangan syariah, sementara layanan keuangan konvensional sudah menjangkau 93,53 persen penduduk, padahal tingkat pemahaman soal keuangan syariah sudah di atas 43 persen. Yang terdampak langsung adalah pelaku UMKM, petani, dan masyarakat pedesaan yang paling sering disebut sebagai sasaran perluasan KUR syariah dan program dana sosial keagamaan seperti zakat dan wakaf. Pemerintah menyebut sejumlah langkah untuk menutup kesenjangan itu, seperti memperluas KUR syariah dan sertifikasi halal UMKM, tapi belum ada target waktu, alokasi anggaran, atau aturan turunan yang konkret dalam paparan ini. Yang masih perlu dipantau adalah apakah OJK atau Kemenko Perekonomian akan merilis angka inklusi keuangan syariah terbaru dengan target capaian yang jelas, sebab tanpa itu sulit menilai apakah kesenjangan 13 berbanding 93 persen ini benar-benar mengecil atau sekadar berulang di setiap acara serupa.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
@@ -348,7 +348,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar rapat koordinasi, melainkan cakupan sistem satu pintu yang terus meluas, dari puluhan pelabuhan dan bandara untuk ekspor, sampai mekanisme pemblokiran otomatis di sektor tambang lewat SIMBARA. Yang terkena dampak langsung adalah eksportir dan importir yang memakai pelabuhan atau bandara tersebut, serta pelaku usaha mineral dan batu bara yang transaksinya kini bisa otomatis terhenti sistem jika tidak patuh. Polanya mengarah ke pengawasan yang makin bergantung pada sistem digital ketimbang pemeriksaan manual, dan itu diperkuat oleh rencana dua aturan baru, PP Nomor 24 Tahun 2026 soal ekspor komoditas sumber daya alam strategis dan Perpres Nomor 41 Tahun 2026 tentang logistik nasional. Yang perlu dipantau adalah aturan turunan dari kedua regulasi itu, karena di situlah akan terlihat komoditas dan jenis usaha apa saja yang bakal wajib masuk sistem otomatis ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",

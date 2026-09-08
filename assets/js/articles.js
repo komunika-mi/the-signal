@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adhi-panggil-rupslb-untuk-restrukturisasi-dan-konversi-utang",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Panggil RUPSLB untuk [Restrukturisasi] dan Konversi Utang",
+  "deck": "ADHI memanggil RUPSLB 30 September 2026 untuk menyetujui restrukturisasi dan konversi utang jangka pendek menjadi jangka panjang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T22:20:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c59cd71cae_1ea75f3b93.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026 pukul 14.00 WIB. Rapat digelar secara fisik di ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur, dan secara elektronik melalui fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam daftar pemegang saham per penutupan perdagangan Senin, 7 September 2026.",
+   "RUPSLB ini membawa dua agenda. Agenda pertama adalah persetujuan atas usulan restrukturisasi perseroan dalam rangka penyehatan perseroan, sebagaimana diatur dalam Pasal 121 dan 122 Peraturan Menteri BUMN Nomor PER-2/MBU/03/2023 tentang Pedoman Tata Kelola dan Kegiatan Korporasi Signifikan Badan Usaha Milik Negara. Agenda kedua adalah persetujuan penerimaan pinjaman bank dan/atau non-bank berjangka menengah atau panjang sebagai salah satu upaya restrukturisasi. Direksi ADHI menjelaskan langkah ini akan diwujudkan lewat penandatanganan Master Restructuring Agreement (MRA), yang akan mengonversi pinjaman-pinjaman jangka pendek perseroan menjadi pinjaman jangka menengah dan/atau jangka panjang.",
+   "Bagi pemegang saham yang tidak dapat hadir langsung, ADHI merekomendasikan pemberian kuasa lewat eASY.KSEI, dengan batas waktu hingga Selasa, 29 September 2026 pukul 12.00 WIB, satu hari kerja sebelum rapat. Surat kuasa fisik juga bisa diserahkan ke Biro Administrasi Efek perseroan, PT Datindo Entrycom, di Jalan Hayam Wuruk Nomor 28, Jakarta, dengan tenggat yang sama. Perseroan menyatakan tidak menyediakan makanan, minuman, maupun suvenir dalam pelaksanaan rapat."
+  ],
+  "fotoAdegan": "Construction workers walking across a highway flyover project at dusk, cranes and rebar scaffolding, Jakarta skyline in the distance",
+  "takeaway": "Pemanggilan RUPSLB ini condong negatif bagi ADHI karena secara eksplisit menyebut agenda ini sebagai bagian dari penyehatan perseroan, istilah resmi dalam aturan BUMN untuk korporasi yang butuh langkah restrukturisasi, sinyal bahwa arus kas jangka pendek perusahaan tertekan sehingga sejumlah pinjaman berjangka pendek harus dikonversi menjadi utang jangka menengah atau panjang lewat perjanjian MRA. Pos yang tersentuh adalah arus kas dan beban bunga: mengubah utang jangka pendek menjadi jangka panjang biasanya meringankan kewajiban bayar dalam waktu dekat, tapi bisa menambah total beban bunga karena tenor yang lebih panjang. Dokumen ini tidak menyebutkan nilai pinjaman yang direstrukturisasi maupun bank atau lembaga pemberi pinjamannya, sehingga besar dampaknya belum bisa diukur. Yang perlu dipantau adalah hasil pemungutan suara RUPSLB pada 30 September 2026 dan penandatanganan Master Restructuring Agreement setelahnya, termasuk batas akhir pemberian kuasa pemegang saham pada 29 September 2026 pukul 12.00 WIB.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tguk-konfirmasi-proses-tender-offer-wajib-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Konfirmasi Proses [Tender Offer] Wajib Masih Berlanjut",
+  "deck": "Menjawab permintaan penjelasan volatilitas transaksi dari BEI, Platinum Wahab Nusantara (TGUK) menegaskan proses tender offer wajib dalam pengambilalihan perseroan masih berjalan setelah sempat tertunda pada 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T22:17:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1edea03255_55f05cfc11.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGUK",
+  "tags": [
+   "TGUK",
+   "tender offer",
+   "akuisisi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Platinum Wahab Nusantara Tbk (TGUK) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan nomor S-11128/BEI.PP3/09-2026 tanggal 1 September 2026 terkait volatilitas transaksi saham perseroan. Tanggapan itu dikirim lewat surat nomor 214/PWN/DIR/IX/2026 tertanggal 3 September 2026, ditandatangani Direktur Agus Suhada, dan disampaikan ke sistem keterbukaan bursa pada 8 September 2026 pukul 22.17 WIB.",
+   "Dalam surat itu, TGUK menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan yang dapat memengaruhi nilai maupun harga sahamnya, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 4 Tahun 2024 tentang kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Namun pada poin keempat, perseroan mengonfirmasi memiliki rencana tindakan korporasi dalam tiga bulan ke depan, yaitu melanjutkan proses Mandatory Tender Offer (MTO) atau penawaran tender wajib sebagai bagian dari rangkaian pengambilalihan perseroan. Proses ini adalah kelanjutan dari rencana yang sebelumnya sudah diumumkan ke publik namun sempat tertunda pada 2025. Perseroan menyebut pihak-pihak terkait saat ini sedang melanjutkan proses tersebut sesuai ketentuan yang berlaku, dan informasi mengenai rencana ini sebelumnya juga sudah disampaikan lewat Paparan Publik pada 10 Juni 2026.",
+   "Perseroan berjanji akan terus menyampaikan keterbukaan informasi lanjutan kepada bursa, Otoritas Jasa Keuangan, dan publik sesuai tahapan proses yang diatur. Pada poin terakhir, TGUK menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usaha yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "A barista pouring iced coffee at a compact drive-through coffee kiosk on a busy Jakarta street, morning commuters queuing outside",
+  "takeaway": "Laporan ini netral bagi TGUK: isinya konfirmasi prosedural bahwa proses pengambilalihan lewat tender offer wajib masih berjalan, tanpa detail harga penawaran atau jumlah saham baru yang bisa dibaca sebagai sinyal kuat ke satu arah. Yang tersentuh di sini adalah struktur pengendalian dan hak suara pemegang saham, sebab tender offer wajib biasanya muncul setelah ada pihak yang mengambil alih saham pengendali dan wajib menawar beli sisa saham milik publik, sehingga kalau proses ini rampung, kendali perusahaan bisa berpindah tangan dan itu memengaruhi siapa yang menentukan arah TGUK ke depan. Yang perlu dipantau berikutnya adalah kelanjutan proses tender offer wajib ini, terutama kapan pihak pengambilalih resmi mengumumkan syarat dan harga penawaran ke publik, karena dalam surat ini perseroan hanya berjanji menyampaikan keterbukaan informasi lanjutan sesuai tahapan yang diatur BEI dan OJK tanpa mencantumkan tanggal pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bike-jadwalkan-rupslb-15-oktober-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jadwalkan RUPSLB [15 Oktober], Agenda Menyusul",
+  "deck": "PT Bhineka Inovasi Ketahanan Energi Tbk menjadwalkan RUPSLB dan RUPS Independen pada 15 Oktober 2026, panggilan resmi berisi agenda terbit 23 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T22:03:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9838de1dd7_16e4341e66.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "RUPS Independen",
+   "Bhineka Inovasi Ketahanan Energi"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen pada Kamis, 15 Oktober 2026 pukul 14.00 WIB, bertempat di Jalan Prof Soepomo No. 332, Tebet, Jakarta Selatan. Pengumuman ditandatangani Direktur Perseroan Winston Mulyadi pada 8 September 2026.",
+   "Perseroan menetapkan 22 September 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam rapat. Panggilan resmi yang memuat mata acara rapat baru akan dipublikasikan di situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs perusahaan pada Rabu, 23 September 2026, sehingga agenda RUPSLB ini belum diungkapkan dalam pemberitahuan kali ini.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 14 Oktober 2026, yaitu satu hari kerja sebelum rapat. Pemegang saham yang ingin mengusulkan mata acara harus mewakili minimal 1/20 dari total saham berhak suara dan mengajukannya paling lambat tujuh hari sebelum tanggal panggilan. Pemberian atau perubahan kuasa kehadiran, termasuk pilihan suara elektronik melalui sistem eASY.KSEI, harus dilakukan paling lambat 14 Oktober 2026."
+  ],
+  "fotoAdegan": "Empty modern meeting hall with rows of chairs facing a stage, soft morning light, prepared for a corporate gathering in Jakarta",
+  "takeaway": "Laporan ini netral bagi emiten karena isinya murni jadwal dan tata cara RUPS, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya. RUPSLB adalah forum tertinggi pemegang saham untuk menyetujui aksi korporasi besar seperti perubahan modal, akuisisi, atau perubahan pengurus, sehingga keberadaannya penting dipantau meski isi keputusannya belum terlihat di sini. Yang perlu dicermati adalah panggilan resmi berisi mata acara rapat yang terbit 23 September 2026, termasuk apakah akan memuat rencana akuisisi senilai Rp23 triliun yang sebelumnya diungkapkan Perseroan ke bursa awal September ini, serta hasil rapat itu sendiri pada 15 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "inklusi-keuangan-syariah-baru-13-persen-jauh-tertinggal",
   "category": "Perbankan",
   "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adhi-panggil-rupslb-untuk-restrukturisasi-dan-konversi-utang",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Panggil RUPSLB untuk [Restrukturisasi] dan Konversi Utang",
+  "deck": "ADHI memanggil RUPSLB 30 September 2026 untuk menyetujui restrukturisasi dan konversi utang jangka pendek menjadi jangka panjang.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "BUMN Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c59cd71cae_1ea75f3b93.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tguk-konfirmasi-proses-tender-offer-wajib-masih-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "TGUK Konfirmasi Proses [Tender Offer] Wajib Masih Berlanjut",
+  "deck": "Menjawab permintaan penjelasan volatilitas transaksi dari BEI, Platinum Wahab Nusantara (TGUK) menegaskan proses tender offer wajib dalam pengambilalihan perseroan masih berjalan setelah sempat tertunda pada 2025.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGUK",
+   "tender offer",
+   "akuisisi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1edea03255_55f05cfc11.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jadwalkan-rupslb-15-oktober-agenda-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jadwalkan RUPSLB [15 Oktober], Agenda Menyusul",
+  "deck": "PT Bhineka Inovasi Ketahanan Energi Tbk menjadwalkan RUPSLB dan RUPS Independen pada 15 Oktober 2026, panggilan resmi berisi agenda terbit 23 September.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "RUPSLB",
+   "RUPS Independen",
+   "Bhineka Inovasi Ketahanan Energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9838de1dd7_16e4341e66.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "inklusi-keuangan-syariah-baru-13-persen-jauh-tertinggal",
   "category": "Perbankan",
   "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
@@ -6484,56 +6532,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464368-gunakan-layanan-dwdm-kolaborasi-infranexia-dan-lintasarta-perkuat-konektivitas-medan-batam-dan-padang"
- },
- {
-  "slug": "investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut",
-  "category": "Industri",
-  "title": "Investasi Rp7,2 Triliun Tambak Udang di Sumba Timur [Dikebut]",
-  "deck": "Pemerintah menggelontorkan Rp7,2 triliun untuk tambak udang terintegrasi seluas 2.150 hektare di Sumba Timur, NTT, guna mendorong ekonomi dan menekan kemiskinan.",
-  "date": "2 September 2026",
-  "image": "assets/img/investasi-rp7-2-triliun-tambak-udang-di-sumba-timur-dikebut.jpg",
-  "imageV": "mtkqcn4s",
-  "tags": [
-   "tambak",
-   "udang",
-   "ntt",
-   "investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464363-investasi-rp72-triliun-digelontorkan-bangun-tambak-udang-2150-hektare-di-sumba-timur"
- },
- {
-  "slug": "hunian-hotel-bintang-juli-54-54-naik-4-bulan",
-  "category": "Bisnis",
-  "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
-  "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
-  "date": "2 September 2026",
-  "image": "assets/img/warung-makan.jpg",
-  "tags": [
-   "bps",
-   "hotel",
-   "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo",
-  "category": "Energi",
-  "title": "ESDM Klarifikasi Proyek Panas Bumi Dekat [Gedong Songo]",
-  "deck": "Kementerian ESDM menyatakan pengembangan PLTP Gunung Ungaran di Jawa Tengah masih tahap eksplorasi, dengan target 55 MW pada 2031 dan perhatian khusus pada kawasan Candi Gedong Songo.",
-  "date": "2 September 2026",
-  "image": "assets/img/esdm-klarifikasi-proyek-panas-bumi-dekat-gedong-songo.jpg",
-  "imageV": "mtjoljuu",
-  "tags": [
-   "panas bumi",
-   "ESDM",
-   "Gunung Ungaran",
-   "Candi Gedong Songo"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-pengembangan-panas-bumi-gunung-ungaran-dilakukan-bertahap-dan-berbasis-kajian",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

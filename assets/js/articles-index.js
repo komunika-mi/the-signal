@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Panggil RUPSLB untuk [Ubah] Kegiatan Usaha ke Pembiayaan",
+  "deck": "SOFA memanggil RUPSLB 30 September 2026 untuk meminta persetujuan penambahan kegiatan usaha ke bidang induk usaha dan pembiayaan conduit, serta perubahan anggaran dasar.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "Transaksi Material",
+   "Perubahan Kegiatan Usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4ec8f82a8_837a9e309f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untd-jelaskan-rugi-bruto-fasilitas-ocbc-diperpanjang-sebulan",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Jelaskan [Rugi Bruto], Fasilitas OCBC Diperpanjang Sebulan",
+  "deck": "Terang Dunia Internusa menjawab permintaan penjelasan Bursa soal rugi bruto semester I 2026, pergeseran distribusi ke Bintang Mas Lestari, dan fasilitas kredit OCBC yang baru diperpanjang sebulan.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTD",
+   "rugi bruto",
+   "OCBC",
+   "penggunaan dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12fec88189_fa65702b77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tlkm-gelar-rupslb-30-september-pisahkan-segmen-fiber-ke-tif",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Gelar RUPSLB 30 September, [Pisahkan] Segmen Fiber ke TIF",
+  "deck": "Telkom mengundang RUPSLB 30 September 2026 untuk menyetujui pemisahan tahap dua bisnis fiber ke TIF dan perubahan susunan direksi-komisaris.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "RUPSLB",
+   "spin-off",
+   "Telkom Infrastruktur Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/568a02c46f_5906b7a305.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medp-baru-pakai-13-dana-obligasi-rp500-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "MEDP baru pakai [13%] dana obligasi Rp500 miliar per Juni 2026",
+  "deck": "MEDP baru merealisasikan Rp66,2 miliar dari Rp493,42 miliar dana obligasi untuk eksplorasi panas bumi di Bonjol, Sumatera Barat. Sisanya masih mengendap di tabungan bank.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "obligasi",
+   "panas bumi",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e30b85719_20a906d818.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medp-rampungkan-realisasi-dana-sukuk-rp1-15-triliun-ke-utang",
+  "category": "Aksi Korporasi",
+  "title": "MEDP rampungkan realisasi dana sukuk Rp1,15 triliun ke [utang]",
+  "deck": "MEDP melaporkan ke OJK bahwa dana Rp1,15 triliun dari sukuk wakalah tahap IV telah habis terpakai untuk melunasi lima utang lama per 30 Juni 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "sukuk wakalah",
+   "pelunasan utang",
+   "energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b580dd053_d68c8bb59a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-rights-issue-rp1-triliun-untuk-kredit",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Rights Issue Rp1 Triliun untuk [Kredit]",
+  "deck": "Bank Kasikorn Indonesia menawarkan 2,87 miliar saham baru lewat rights issue seharga Rp350 per saham, menghimpun Rp1,01 triliun untuk modal kerja penyaluran kredit.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "HMETD",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62aa261ce_90ae365115.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-tegaskan-tak-ada-info-baru-rights-issue-masih-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "UANG Tegaskan Tak Ada Info Baru, [Rights Issue] Masih Tertunda",
+  "deck": "PT Pakuan Tbk menjawab permintaan penjelasan BEI atas volatilitas sahamnya, sambil mengonfirmasi rencana rights issue hingga 1,21 miliar saham belum juga bergerak maju.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "PT Pakuan Tbk",
+   "rights issue",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d18aad62d_4efb155f9c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih",
   "category": "Moneter",
   "title": "Purbaya Klaim Aliran Uang ke Ekonomi RI Mulai [Pulih]",
@@ -6422,119 +6534,6 @@ var ARTICLES = [
    "transaksi material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5df236df34_076591ea64.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibst-iforte-perpanjang-lagi-penawaran-tender-saham-ke-2-okt",
-  "category": "Aksi Korporasi",
-  "title": "IBST: Iforte Perpanjang Lagi Penawaran [Tender] Saham ke 2 Okt",
-  "deck": "Iforte Solusi Infotek memperpanjang lagi masa penawaran tender saham IBST hingga 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IBST",
-   "Iforte",
-   "tender offer",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6a2888db99_cebb4b8ff2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nato-bantah-info-material-jajaki-penerbitan-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "NATO Bantah Info Material, Jajaki Penerbitan [Obligasi]",
-  "deck": "NATO menyatakan tak ada informasi material tersembunyi soal volatilitas sahamnya, tapi mengaku tengah menjajaki penerbitan obligasi sebagai alternatif pendanaan yang belum final.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NATO",
-   "volatilitas transaksi",
-   "obligasi",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9c531231b9_950388f75a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026",
-  "category": "Makroekonomi",
-  "title": "Neraca Dagang Jabar [Surplus] US$16,63 Miliar Jan-Jul 2026",
-  "deck": "Ekspor Jawa Barat naik 6,43 persen jadi US$23,58 miliar, impor turun 1,45 persen jadi US$6,95 miliar, sehingga surplus dagang Januari-Juli 2026 mencapai US$16,63 miliar.",
-  "date": "2 September 2026",
-  "image": "assets/img/neraca-dagang-jabar-surplus-us-16-63-miliar-jan-jul-2026.jpg",
-  "imageV": "mtl4cmmw",
-  "tags": [
-   "neraca perdagangan",
-   "Jawa Barat",
-   "ekspor",
-   "impor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464580-neraca-perdagangan-jabar-periode-januari-juli-2026-surplus-usd-1663-miliar"
- },
- {
-  "slug": "towr-iforte-perpanjang-tender-saham-ibst-ke-2-oktober",
-  "category": "Aksi Korporasi",
-  "title": "TOWR: Iforte Perpanjang Tender Saham [IBST] ke 2 Oktober",
-  "deck": "Anak usaha TOWR, Iforte Solusi Infotek, memperpanjang tender sukarela saham IBST sampai 2 Oktober 2026 dengan harga tetap Rp5.400 per saham. Partisipasi pemegang saham publik sudah 73,77 persen.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "IBST",
-   "tender offer",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a4fe9f9f5_fc901dce0d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tmpo-gelar-public-expose-insidentil-atas-permintaan-bursa",
-  "category": "Aksi Korporasi",
-  "title": "TMPO Gelar [Public Expose] Insidentil atas Permintaan Bursa",
-  "deck": "Tempo Inti Media (TMPO) menggelar public expose insidentil pada 2 September 2026 atas permintaan Bursa Efek Indonesia, mengoreksi surat sebelumnya tertanggal 31 Agustus 2026.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMPO",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "Tempo Inti Media"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1776dc13f_e7251a6946.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-bukukan-laba-rp496-8-m-melonjak-118-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Bukukan Laba Rp496,8 M, [Melonjak] 118% Semester I 2026",
-  "deck": "Materi Public Expose WIFI paparkan pendapatan naik 206% dan laba 118% pada semester I 2026, dengan rasio utang bersih terhadap EBITDA rendah di 0,85 kali.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "public expose",
-   "kinerja keuangan",
-   "broadband"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f52ef74b23_08ae7f269c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-saham-crab-dicabut-bei-setelah-penuhi-kewajiban",
-  "category": "Aksi Korporasi",
-  "title": "Suspensi Saham [CRAB] Dicabut BEI Setelah Penuhi Kewajiban",
-  "deck": "BEI mencabut suspensi perdagangan saham Toba Surimi Industries (CRAB) mulai pra-pembukaan Rabu, 2 September 2026, setelah dua kewajiban pelaporan keuangan yang tertunda dipenuhi.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CRAB",
-   "suspensi saham",
-   "BEI",
-   "Toba Surimi Industries"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/914182f000_0bfd7bbc27.pdf",
   "sourceLabel": "IDX"
  }
 ];

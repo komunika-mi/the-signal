@@ -3,6 +3,192 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
+  "category": "Aksi Korporasi",
+  "title": "SOFA Panggil RUPSLB untuk [Ubah] Kegiatan Usaha ke Pembiayaan",
+  "deck": "SOFA memanggil RUPSLB 30 September 2026 untuk meminta persetujuan penambahan kegiatan usaha ke bidang induk usaha dan pembiayaan conduit, serta perubahan anggaran dasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T21:22:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4ec8f82a8_837a9e309f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOFA",
+  "tags": [
+   "SOFA",
+   "RUPSLB",
+   "Transaksi Material",
+   "Perubahan Kegiatan Usaha"
+  ],
+  "body": [
+   "PT Solusi Environment Asia Tbk (SOFA) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 30 September 2026, pukul 14.00 WIB di Integrity Room, Sequis Tower, Jalan Jenderal Sudirman, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 7 September 2026. Sesuai anggaran dasar perusahaan dan aturan OJK, rapat akan dipimpin oleh salah satu anggota Dewan Komisaris yang ditunjuk lewat Keputusan Dewan Komisaris Nomor 011/BOC-SEA/IX/2026, bukan oleh direksi.",
+   "Agenda pertama rapat adalah persetujuan Laporan Studi Kelayakan yang disusun Kantor Jasa Penilai Publik independen Ferdinand, Danar, Ichsan & Rekan (FDI&R) atas rencana penambahan kegiatan usaha perseroan, yaitu Aktivitas Perusahaan Induk (KBLI 64210) dan Aktivitas Pembiayaan Conduit (KBLI 64220). Rencana ini diproses sebagai transaksi material sesuai POJK Nomor 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha. Agenda kedua adalah persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha, sekaligus penyesuaian kode klasifikasi usaha (KBLI) perusahaan agar sesuai dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025.",
+   "Bagi pemegang saham yang tidak bisa hadir langsung, surat kuasa harus diserahkan ke PT Bima Registra selaku biro administrasi efek paling lambat pukul 16.00 WIB pada Selasa, 29 September 2026. Perseroan hanya mengakomodasi maksimal 20 peserta secara fisik dengan prinsip siapa cepat dia dapat, dan menganjurkan pemegang saham hadir secara elektronik lewat sistem eASY.KSEI. Agenda pertama sah jika disetujui pemegang saham yang mewakili lebih dari separuh saham berhak suara yang hadir, sementara agenda kedua soal perubahan anggaran dasar memerlukan kuorum kehadiran dua pertiga saham dan disetujui lebih dari dua pertiga suara yang hadir."
+  ],
+  "fotoAdegan": "Modern glass office towers along a busy Jakarta business district street, taxis and pedestrians during midday rush, telephoto compression",
+  "takeaway": "Laporan ini condong negatif bagi SOFA karena rencana penambahan kegiatan usaha ke bidang perusahaan induk dan pembiayaan ini muncul tak lama setelah auditor menyatakan keraguan atas kelangsungan usaha perusahaan akibat ekuitas yang susut 14,6 persen, sementara dokumen ini sama sekali tidak menyebut suntikan modal atau sumber dana baru untuk membiayai rencana tersebut. Perubahan kegiatan usaha utama ini menyentuh pos permodalan dan arus kas perusahaan, sebab menjalankan aktivitas pembiayaan conduit, yakni menyalurkan dana ke perusahaan lain dalam satu grup usaha, biasanya membutuhkan modal kerja tambahan dan tunduk pada aturan permodalan otoritas jasa keuangan, bukan sekadar ganti label bisnis di atas kertas. Yang perlu dipantau adalah hasil RUPSLB pada 30 September 2026, terutama agenda kedua soal perubahan anggaran dasar yang baru sah jika disetujui pemegang saham pemilik lebih dari dua pertiga saham berhak suara yang hadir, kuorum yang jauh lebih berat dibanding agenda pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "untd-jelaskan-rugi-bruto-fasilitas-ocbc-diperpanjang-sebulan",
+  "category": "Aksi Korporasi",
+  "title": "UNTD Jelaskan [Rugi Bruto], Fasilitas OCBC Diperpanjang Sebulan",
+  "deck": "Terang Dunia Internusa menjawab permintaan penjelasan Bursa soal rugi bruto semester I 2026, pergeseran distribusi ke Bintang Mas Lestari, dan fasilitas kredit OCBC yang baru diperpanjang sebulan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T21:01:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12fec88189_fa65702b77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTD",
+  "tags": [
+   "UNTD",
+   "rugi bruto",
+   "OCBC",
+   "penggunaan dana IPO"
+  ],
+  "body": [
+   "PT Terang Dunia Internusa Tbk. (UNTD) menjawab surat permintaan penjelasan Bursa Efek Indonesia terkait laporan keuangan periode 30 Juni 2026, lewat surat tertanggal 8 September 2026. Perseroan menjelaskan bahwa harga pokok penjualan naik 68,8 persen sementara penjualan hanya naik 20,9 persen, sehingga terjadi rugi bruto. Penyebabnya adalah kenaikan harga barang impor akibat pelemahan rupiah, naiknya biaya logistik dan freight, serta dampak konflik geopolitik di Timur Tengah termasuk konflik Iran terhadap biaya transportasi dan nilai tukar. Di saat bersamaan harga jual sejumlah produk turun karena persaingan pasar, dan bauran produk bergeser ke motor serta sepeda listrik yang mengubah struktur margin. Margin segmen sepeda listrik sendiri anjlok dari 37,5 persen menjadi 2,5 persen.",
+   "Perseroan juga mengungkap penjualan ke PT Bintang Mas Lestari melonjak dari Rp4,5 miliar pada semester I 2025 menjadi Rp132,6 miliar atau 61,2 persen dari total penjualan pada semester I 2026. Lonjakan ini terjadi karena jaringan distribusi dialihkan dari PT Sepeda Bersama Indonesia (SBI), menyusul berakhirnya status SBI sebagai pihak berelasi pada 15 April 2026 serta berakhirnya lisensi merek United Bike/Avand dan perjanjian distributor pada 12 April 2026. Perseroan menegaskan tetap menjadi pemilik hak atas merek United Bike, Avand, dan United E-Motor, dan sebelumnya hanya memberikan lisensi penggunaan merek kepada SBI dalam kapasitasnya sebagai distributor.",
+   "Soal pendanaan, Perseroan menjelaskan rasio DSCR minimum 1,0 kali pada fasilitas BCA dievaluasi setahun sekali saat perpanjangan fasilitas, sehingga belum tercapainya rasio itu per 30 Juni 2026 tidak dianggap pelanggaran perjanjian. Adapun fasilitas pinjaman dari OCBC baru diperpanjang sementara sampai 27 September 2026 karena bank mengajukan sejumlah persyaratan baru yang masih dievaluasi direksi. Utang bank jangka pendek Perseroan tercatat Rp481 miliar, dengan strategi pengelolaan berupa negosiasi refinancing sebelum jatuh tempo dan optimalisasi arus kas. Akumulasi rugi fiskal mencapai Rp80,5 miliar, namun aset pajak tangguhan yang diakui hanya Rp3,6 miliar karena manajemen menilai masih ada ketidakpastian soal kapan laba bisa pulih.",
+   "Dalam surat yang sama, Perseroan melaporkan realisasi penggunaan dana hasil penawaran umum per 30 Juni 2026. Dari total realisasi Rp248,12 miliar, rinciannya adalah frame Rp162,01 miliar (65 persen), baterai/dinamo Rp44,08 miliar (18 persen), multi information display seperti spidometer digital dan GPS Rp20,28 miliar (8 persen), brake system Rp9,82 miliar (4 persen), suspension Rp7,71 miliar (3 persen), dan wheel set Rp4,22 miliar (2 persen). Sisa dana yang belum direalisasikan tercatat Rp136,49 miliar."
+  ],
+  "fotoAdegan": "Workers assembling electric bicycle frames and wheels on a busy factory line, Indonesia, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi UNTD, karena mengonfirmasi rugi bruto pada semester I 2026 sekaligus mengungkap fasilitas pinjaman OCBC yang baru diperpanjang sementara satu bulan, tanda bank belum sepenuhnya nyaman dengan kondisi keuangan perseroan saat ini. Yang tersentuh adalah margin laba dan potensi laba per saham ke depan: biaya pokok penjualan naik jauh lebih cepat dari penjualan sehingga perusahaan rugi sebelum dikurangi beban operasional, dan sebagian besar rugi pajak sebesar Rp80,5 miliar tidak diakui sebagai pengurang pajak di masa depan karena manajemen sendiri ragu bisa memanfaatkannya dalam waktu dekat. Utang bank jangka pendek Rp481 miliar juga berarti perusahaan harus terus meyakinkan bank setiap tahun agar pinjamannya diperpanjang, sehingga kelangsungan usahanya bergantung pada kepercayaan kreditur yang bisa berubah sewaktu-waktu. Yang perlu dipantau berikutnya adalah kelanjutan negosiasi fasilitas OCBC yang jatuh tempo 27 September 2026, serta evaluasi tahunan rasio DSCR minimum 1,0 kali di BCA yang menentukan apakah perseroan dianggap melanggar perjanjian kredit.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tlkm-gelar-rupslb-30-september-pisahkan-segmen-fiber-ke-tif",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Gelar RUPSLB 30 September, [Pisahkan] Segmen Fiber ke TIF",
+  "deck": "Telkom mengundang RUPSLB 30 September 2026 untuk menyetujui pemisahan tahap dua bisnis fiber ke TIF dan perubahan susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T20:38:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/568a02c46f_5906b7a305.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "RUPSLB",
+   "spin-off",
+   "Telkom Infrastruktur Indonesia"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 September 2026, pukul 14.00 WIB. Rapat akan digelar secara elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam daftar pemegang saham per 7 September 2026 pukul 16.15 WIB.",
+   "Agenda pertama RUPSLB adalah persetujuan pemisahan sebagian segmen usaha Wholesale Fiber Connectivity tahap kedua dari Telkom kepada PT Telkom Infrastruktur Indonesia (TIF), anak usaha yang sahamnya saat ini dimiliki Telkom sebesar 99,99 persen. Pemisahan ini merupakan kelanjutan dari tahap pertama yang sudah disetujui pemegang saham dalam RUPSLB 12 Desember 2025, dan mencakup pengalihan sebagian bisnis, aset, liabilitas, serta kegiatan usaha terkait fiber connectivity ke TIF. Setelah transaksi ini rampung, kepemilikan Telkom di TIF naik menjadi 99,9999999 persen, sementara PT Multimedia Nusantara memegang sisa 0,0000001 persen. Perseroan menegaskan pemisahan ini tidak mengubah komposisi kepemilikan saham para pemegang saham Telkom yang ada saat ini.",
+   "Agenda kedua adalah perubahan susunan direksi dan komisaris Perseroan, mengacu antara lain pada Undang-Undang BUMN, Peraturan Pemerintah Nomor 38 Tahun 2026 tentang Pengelolaan BUMN, serta anggaran dasar perseroan yang mensyaratkan pengangkatan dan pemberhentian pengurus harus dihadiri dan disetujui pemegang saham Seri A Dwiwarna, yaitu saham khusus milik pemerintah yang memberi hak veto atas keputusan strategis tertentu. Dokumen pemanggilan ini belum merinci nama calon direksi atau komisaris yang diusulkan.",
+   "Perseroan mengingatkan pemegang saham untuk mendaftar kehadiran secara elektronik melalui eASY.KSEI atau memberikan kuasa kepada biro administrasi efek PT Datindo Entrycom. Batas waktu untuk memberikan, mengubah, atau mencabut kuasa serta pilihan suara adalah satu hari kerja sebelum rapat, yaitu paling lambat pukul 12.00 WIB pada 29 September 2026. Keterlambatan registrasi elektronik akan membuat kepemilikan saham pemegang saham bersangkutan tidak dihitung dalam kuorum kehadiran."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside an underground telecom duct, hard hats and headlamps, coiled cables nearby",
+  "takeaway": "Laporan ini netral bagi Telkom, karena pemisahan tahap kedua bisnis fiber ke TIF murni reorganisasi internal yang tidak mengubah kepemilikan saham pemegang saham publik dan tidak disertai angka nilai aset atau transaksi yang dipindahkan. Sebab TIF tetap anak usaha yang sahamnya nyaris seluruhnya dipegang Telkom, pos-pos di laporan keuangan konsolidasian seperti aset dan pendapatan diperkirakan tetap tercatat di tingkat grup, hanya berpindah struktur internal. Yang lebih patut dicermati justru agenda kedua, perubahan susunan direksi dan komisaris, karena pergantian pengurus bisa mengubah arah strategi perusahaan meski dokumen ini belum menyebut nama-nama yang diusulkan. Pemegang saham perlu menunggu hasil pemungutan suara pada RUPSLB 30 September 2026 untuk mengetahui siapa direksi dan komisaris baru serta status final persetujuan pemisahan Tahap 2 ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medp-baru-pakai-13-dana-obligasi-rp500-miliar-per-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "MEDP baru pakai [13%] dana obligasi Rp500 miliar per Juni 2026",
+  "deck": "MEDP baru merealisasikan Rp66,2 miliar dari Rp493,42 miliar dana obligasi untuk eksplorasi panas bumi di Bonjol, Sumatera Barat. Sisanya masih mengendap di tabungan bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T20:34:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e30b85719_20a906d818.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "obligasi",
+   "panas bumi",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) melaporkan realisasi penggunaan dana hasil Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025 per 30 Juni 2026 kepada PT Bank Mega Tbk selaku wali amanat, sesuai ketentuan POJK Nomor 40 Tahun 2025. Obligasi ini efektif sejak 20 Juni 2025 dengan total dana terkumpul Rp500 miliar. Setelah dikurangi biaya penerbitan Rp6,58 miliar, dana bersih yang diperoleh perusahaan adalah Rp493,42 miliar.",
+   "Sampai 30 Juni 2026, perusahaan baru menggunakan Rp66.203.533.040 atau sekitar 13 persen dari dana bersih tersebut. Sisa dana sebesar Rp427,21 miliar saat ini disimpan dalam bentuk tabungan di bank pihak ketiga dengan bunga 6 persen per tahun.",
+   "Menurut prospektus, seluruh dana ditujukan untuk proyek eksplorasi panas bumi di Bonjol, Kabupaten Pasaman, Sumatera Barat. Tahap pertama mencakup survei geologi, geokimia, geofisika, evaluasi terpadu, penentuan lokasi sumur, dan pengeboran sumur eksplorasi kecil dalam Proyek Penugasan Survei Pendahuluan dan Eksplorasi Panas Bumi Bonjol (PSPE Bonjol). Proyek ini dijalankan bersama konsorsium Mitsui Oil Exploration Co. Ltd dan PT Medco Geothermal Sumatera berdasarkan perjanjian 29 Juni 2023, dengan Mitsui mendanai sumur eksplorasi pertama sekitar US$5,065 juta dan Medco Power mendanai sumur kedua dengan jumlah serupa. Setelah tahap PSPE Bonjol selesai, dana akan dipakai untuk menambah lokasi tapak sumur dan mengebor sumur eksplorasi besar sebagai bagian dari Wilayah Kerja Panas Bumi Bonjol, dengan perkiraan biaya total US$35 juta.",
+   "Laporan ditandatangani direksi Medco Power Indonesia dan disampaikan oleh Fajrah Lestari Akili selaku Corporate Secretary dan Head of Corporate Communication. Perusahaan menegaskan laporan ini bukan laporan realisasi penggunaan dana yang terakhir, sehingga masih akan ada laporan progres lanjutan."
+  ],
+  "fotoAdegan": "Geothermal drilling rig with steam vents in a forested highland area, technicians in safety gear near pipelines, overcast sky",
+  "takeaway": "Laporan ini netral bagi kinerja MEDP karena sifatnya rutin dan tidak menunjukkan penyimpangan dari rencana penggunaan dana di prospektus. Yang tersentuh di sini adalah arus kas perusahaan, yakni pergerakan uang masuk dan keluar dari kas: dari Rp493,42 miliar dana bersih obligasi, baru Rp66,2 miliar yang benar-benar dipakai untuk proyek eksplorasi panas bumi, sementara Rp427,21 miliar sisanya masih mengendap di tabungan berbunga 6 persen dan belum bekerja untuk proyek yang menjadi alasan penerbitan obligasi ini. Kondisi ini bisa dimaklumi karena proyek panas bumi memang berjalan bertahap, dari survei awal sampai pengeboran sumur besar yang diperkirakan menelan biaya US$35 juta setelah tahap PSPE Bonjol rampung. Yang perlu dipantau berikutnya adalah laporan realisasi dana lanjutan, sebab perusahaan sendiri menyatakan laporan per 30 Juni 2026 ini belum final, sehingga kecepatan penyerapan dana untuk proyek Bonjol akan terus terlihat dari laporan-laporan berikutnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medp-rampungkan-realisasi-dana-sukuk-rp1-15-triliun-ke-utang",
+  "category": "Aksi Korporasi",
+  "title": "MEDP rampungkan realisasi dana sukuk Rp1,15 triliun ke [utang]",
+  "deck": "MEDP melaporkan ke OJK bahwa dana Rp1,15 triliun dari sukuk wakalah tahap IV telah habis terpakai untuk melunasi lima utang lama per 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T20:29:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b580dd053_d68c8bb59a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "sukuk wakalah",
+   "pelunasan utang",
+   "energi"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) menyampaikan laporan realisasi penggunaan dana hasil penawaran umum kepada Otoritas Jasa Keuangan dan wali amanat PT Bank Mega Tbk per posisi 30 Juni 2026. Laporan ini mencakup dua instrumen utang perusahaan, yaitu Sukuk Wakalah Berkelanjutan I Tahap IV Tahun 2025 dan Obligasi Berkelanjutan I Tahap I Tahun 2025 yang ditawarkan kepada pemodal profesional. Surat laporan ditandatangani Fajrah Lestari Akili selaku Corporate Secretary & Head Corporate Communication MEDP.",
+   "Untuk Sukuk Wakalah Tahap IV, perusahaan menerima dana Rp1,15 triliun pada 7 Februari 2025 dari program penawaran umum berkelanjutan yang efektif sejak 26 Juli 2022. Setelah dipotong biaya penawaran Rp6,97 miliar, hasil bersihnya Rp1,143 triliun, dan seluruhnya sudah terpakai per 30 Juni 2026 sehingga sisa dananya nol. Rinciannya: Rp258 miliar untuk melunasi Obligasi Medco Power Indonesia I Tahun 2018 Seri C, Rp43 miliar untuk Sukuk Wakalah Medco Power Indonesia I Tahun 2018 Seri C, Rp280 miliar untuk Sukuk Wakalah Berkelanjutan I Tahap I Tahun 2022 Seri A, Rp469,69 miliar untuk Sukuk Wakalah Berkelanjutan I Tahap II Tahun 2022 Seri A, dan Rp80 miliar untuk melunasi pinjaman fasilitas promes ke PT Bank Maybank Indonesia Tbk. Sisa Rp12,34 miliar dialirkan sebagai modal kerja ke anak usaha MPSI dalam bentuk pendanaan Mudharabah, untuk mendukung operasi dan perawatan PLTU Sulut dan PLTU Timor.",
+   "Instrumen kedua, Obligasi Berkelanjutan I Tahap I Tahun 2025 senilai Rp500 miliar yang efektif sejak 20 Juni 2025, baru terpakai Rp66,2 miliar atau sekitar 13 persen dari hasil bersih Rp493,42 miliar per 30 Juni 2026. Dana ini dipakai untuk membiayai survei dan eksplorasi panas bumi di Bonjol, Kabupaten Pasaman, Sumatera Barat, sesuai kesepakatan konsorsium dengan Mitsui Oil Exploration Co. Ltd dan PT Medco Geothermal Sumatera. Sisa dana rencananya dipakai untuk pengeboran sumur eksplorasi berdiameter besar yang diperkirakan membutuhkan biaya sekitar US$35 juta setelah tahap survei awal rampung.",
+   "MEDP menyatakan laporan ini bukan LRPD terakhir, artinya perusahaan masih wajib menyampaikan laporan realisasi lanjutan, terutama untuk sisa dana obligasi tahap I yang belum sepenuhnya terpakai."
+  ],
+  "fotoAdegan": "Drilling rig and technicians working at a geothermal exploration site in hilly West Sumatra countryside, overcast morning light",
+  "takeaway": "Laporan ini netral bagi kinerja MEDP karena seluruh realisasi dana sukuk tahap IV berjalan tepat sesuai rencana di prospektus, tanpa penyimpangan yang mengubah pandangan atas kesehatan keuangan perusahaan. Pos yang tersentuh adalah arus kas dari aktivitas pendanaan, sebab dana sukuk baru dipakai untuk melunasi lima utang lama, bukan untuk ekspansi, sehingga total utang perusahaan pada dasarnya berpindah bentuk, dan pelaku pasar biasanya mencermati apakah pergantian utang seperti ini membuat beban bunga ke depan lebih murah. Yang perlu dipantau berikutnya adalah laporan realisasi lanjutan untuk sisa dana obligasi tahap I sekitar Rp427 miliar yang masih akan dipakai bertahap membiayai proyek panas bumi Bonjol, termasuk saat pengeboran sumur besar senilai US$35 juta mulai berjalan, karena perusahaan sendiri menyatakan laporan ini bukan LRPD terakhir.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bmas-rights-issue-rp1-triliun-untuk-kredit",
+  "category": "Aksi Korporasi",
+  "title": "BMAS Rights Issue Rp1 Triliun untuk [Kredit]",
+  "deck": "Bank Kasikorn Indonesia menawarkan 2,87 miliar saham baru lewat rights issue seharga Rp350 per saham, menghimpun Rp1,01 triliun untuk modal kerja penyaluran kredit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T20:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62aa261ce_90ae365115.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "rights issue",
+   "HMETD",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) keempat, sesuai keterbukaan informasi yang disampaikan ke Bursa Efek Indonesia pada 8 September 2026. Perseroan akan menerbitkan 2.874.315.845 saham baru dengan nilai nominal Rp100 per saham, setara 13,70 persen dari total modal disetor setelah aksi ini rampung. Setiap pemegang 655 saham lama berhak atas 104 hak memesan saham baru, dan setiap satu hak bisa ditukar dengan satu saham baru seharga Rp350 per saham. Jika seluruh hak dilaksanakan, dana yang masuk ke kas perseroan mencapai Rp1,01 triliun, dan seluruhnya akan dipakai sebagai modal kerja untuk mendukung peningkatan penyaluran kredit.",
+   "Pemegang saham utama BMAS, Kasikorn Vision Financial Company Pte Ltd (KVF), yang menguasai 86,03 persen saham atau 15.574.208.968 lembar, menyatakan akan melaksanakan seluruh haknya sebanyak 2.543.333.619 hak. Angka itu terdiri dari jatah haknya sendiri sebanyak 2.472.851.500 hak, ditambah 70.482.119 hak yang dialihkan dari Kasikornbank Public Company Limited (KBANK). KBANK, yang memegang 2,45 persen saham BMAS, memilih tidak mengeksekusi haknya sendiri dan menyerahkan seluruhnya ke KVF. Pemegang saham lain, KVFI, dengan kepemilikan 1,00 persen, akan melaksanakan penuh 28.743.158 haknya. Jika masih ada saham baru yang tidak terserap pemegang saham lain, KVF bertindak sebagai pembeli siaga yang wajib menyerap sisanya sesuai perjanjian pembelian sisa saham.",
+   "Bagi pemegang saham lama yang tidak menggunakan haknya, dilusi kepemilikan maksimum yang harus ditanggung mencapai 13,70 persen. Dengan asumsi seluruh pemegang saham existing melaksanakan haknya, komposisi kepemilikan pasca rights issue bergeser tipis: porsi KVF naik dari 86,03 persen menjadi 86,37 persen, KBANK turun dari 2,45 persen menjadi 2,12 persen karena tidak menambah saham, sementara KVFI dan publik tetap masing-masing di 1,00 persen dan 10,52 persen. Total saham beredar perseroan bertambah dari 18.102.662.304 menjadi 20.976.978.149 lembar. Jadwal aksi korporasi ini dimulai dari RUPSLB pada 27 Agustus 2026, dengan tanggal efektif pada 13 November 2026, periode perdagangan HMETD berlangsung 27 November hingga 3 Desember 2026, dan batas akhir pembayaran pesanan saham tambahan pada 7 Desember 2026, diikuti tanggal penjatahan pada 8 Desember 2026."
+  ],
+  "fotoAdegan": "Modern bank branch lobby in Jakarta with customers queued near teller counters, glass facade, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi BMAS karena rights issue ini murni untuk memperkuat modal kerja yang mendukung penyaluran kredit, dan pemegang saham pengendali KVF sudah mengunci komitmen penuh dengan menyerap seluruh haknya plus bertindak sebagai pembeli siaga atas sisa saham yang tidak terserap, sehingga kepastian dana masuk Rp1,01 triliun relatif tinggi. Pos yang tersentuh adalah ekuitas dan jumlah saham beredar: modal disetor perseroan bertambah sekitar Rp1 triliun sementara jumlah saham beredar naik dari 18,1 miliar menjadi hampir 21 miliar lembar, sehingga laba per saham berpotensi terdilusi dalam jangka pendek sebelum tambahan modal itu terserap jadi kredit baru yang menghasilkan pendapatan bunga. Pemegang saham yang tidak ikut serta perlu tahu bahwa porsi kepemilikannya bisa tergerus hingga 13,70 persen jika tidak menggunakan haknya. Yang perlu dipantau berikutnya adalah tanggal efektif pada 13 November 2026 dan periode pelaksanaan HMETD pada 27 November hingga 3 Desember 2026, karena di situlah terlihat apakah dana benar-benar terkumpul sesuai rencana.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "uang-tegaskan-tak-ada-info-baru-rights-issue-masih-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "UANG Tegaskan Tak Ada Info Baru, [Rights Issue] Masih Tertunda",
+  "deck": "PT Pakuan Tbk menjawab permintaan penjelasan BEI atas volatilitas sahamnya, sambil mengonfirmasi rencana rights issue hingga 1,21 miliar saham belum juga bergerak maju.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T19:17:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d18aad62d_4efb155f9c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "PT Pakuan Tbk",
+   "rights issue",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat No. S-11352/BEI.PP3/09-2026 terkait volatilitas transaksi sahamnya pada 3 September 2026. Dalam surat balasan No. 057/DIR-LGL/PAKUAN/IX/2026 tertanggal 8 September 2026 yang ditandatangani Corporate Secretary Asa Nisi Siahaan, perusahaan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik yang bisa mempengaruhi harga sahamnya, dan menyebut pergerakan harga maupun aktivitas transaksi pada tanggal itu sebagai hasil mekanisme pasar yang berada di luar kendalinya. Perseroan juga menyatakan tidak menerima laporan apa pun dari pemegang saham mana pun soal perubahan kepemilikan di atas 5 persen atau aktivitas menjaminkan saham sebagaimana diatur POJK No. 4 Tahun 2024.",
+   "Soal rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue), Pakuan menegaskan rencana tersebut sudah diumumkan sejak 10 Maret 2026 dan disetujui pemegang saham dalam RUPSLB 16 April 2026, dengan jumlah saham baru sebanyak-banyaknya 1.210.000.000 lembar bernilai nominal Rp100 per saham. Namun sampai surat ini terbit, rencana itu masih dalam tahap persiapan dan Perseroan belum menyampaikan Pernyataan Pendaftaran ke OJK. Rasio pembagian hak, harga pelaksanaan, total dana yang ingin dihimpun, pembeli siaga, dan jadwal pelaksanaannya semuanya belum ditetapkan, dan tidak ada perkembangan baru sejak tanggapan Perseroan atas surat BEI sebelumnya pada 30 Juli 2026. Seluruh rincian final baru akan diungkapkan lewat prospektus.",
+   "Perusahaan juga memastikan tidak ada rencana aksi korporasi lain dalam tiga bulan ke depan, termasuk penghapusan pencatatan (delisting), perubahan menjadi perusahaan tertutup, pemecahan atau penggabungan nilai nominal saham, perubahan bidang usaha utama, maupun merger dan akuisisi atas Perseroan sendiri. Aksi korporasi yang sudah berjalan sepanjang 2026, termasuk pengambilalihan saham entitas di bidang properti dari pihak terafiliasi, disebut sudah seluruhnya diungkapkan ke OJK dan Bursa sesuai POJK No. 42/2020 dan No. 31/2015 tanpa ada perkembangan baru yang belum diumumkan. Perseroan menambahkan tidak mengetahui adanya rencana pemegang saham utama atau pengendali terkait kepemilikan sahamnya."
+  ],
+  "fotoAdegan": "Construction workers on scaffolding at a mid-rise residential building site in a suburban Indonesian town, afternoon light",
+  "takeaway": "Surat ini netral bagi UANG: isinya konfirmasi standar bahwa tidak ada informasi tersembunyi di balik lonjakan transaksi sahamnya pada 3 September, bukan sinyal fundamental baru yang mengubah gambaran perusahaan. Yang tetap perlu diperhatikan pemegang saham adalah rencana penambahan modal atau rights issue yang bisa menerbitkan hingga 1,21 miliar saham baru, karena begitu terealisasi jumlah saham beredar bertambah besar dan pemegang saham lama yang tidak ikut menyerap haknya akan melihat porsi kepemilikan serta laba per sahamnya mengecil, alias terdilusi. Yang perlu dipantau berikutnya adalah kapan Perseroan akhirnya menyampaikan Pernyataan Pendaftaran rights issue ke OJK, sebab meski rencana ini sudah disetujui sejak RUPSLB 16 April 2026, hingga surat ini terbit rasio, harga pelaksanaan, dan jadwalnya masih belum ditetapkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih",
   "category": "Moneter",
   "title": "Purbaya Klaim Aliran Uang ke Ekonomi RI Mulai [Pulih]",

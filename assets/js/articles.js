@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "erupsi-menerus-berhenti-anak-krakatau-tetap-siaga",
+  "category": "Energi",
+  "title": "Erupsi Menerus Berhenti, Anak Krakatau Tetap [Siaga]",
+  "deck": "Episode erupsi menerus 25 jam Gunung Anak Krakatau berakhir, tapi status Siaga bertahan karena kegempaan tinggi dan radius 3 km tetap dilarang untuk aktivitas warga.",
+  "image": "assets/img/erupsi-menerus-berhenti-anak-krakatau-tetap-siaga.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T05:07:17.368Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/erupsi-menerus-anak-krakatau-berakhir-aktivitas-gunung-api-kembali-menurun-dan-tetap-dipantau",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Anak Krakatau",
+   "Badan Geologi",
+   "Status Siaga",
+   "Lampung"
+  ],
+  "body": [
+   "Aktivitas Gunung Anak Krakatau di Provinsi Lampung memasuki fase baru setelah episode letusan yang berlangsung tanpa henti selama 25 jam berakhir. Badan Geologi Kementerian ESDM mencatat letusan menerus itu berlangsung sejak Jumat (4/9) pukul 23.07 WIB hingga Minggu (6/9) dini hari, dan sejak itu gunung kembali menunjukkan pola letusan ringan yang muncul sesekali. Perkembangan ini penting bagi warga pesisir Banten dan Lampung karena berkaitan langsung dengan potensi bahaya letusan di wilayah mereka.",
+   "Kepala Badan Geologi Lana Saria menjelaskan bahwa setelah episode erupsi menerus itu selesai, tercatat tiga kali letusan bertipe strombolian dengan kolom abu berwarna hitam, pola letusan yang memang biasa muncul dari gunung ini. Menurutnya, kembalinya pola letusan khas tersebut untuk sementara ditafsirkan sebagai tanda berakhirnya episode letusan panjang yang terjadi sejak akhir pekan lalu.",
+   "Meski begitu, alat pemantau masih merekam getaran di bawah gunung dalam jumlah besar sepanjang 6-7 September 2026: tiga kali gempa letusan, sembilan kali gempa hembusan, 93 kali gempa frekuensi rendah, 98 kali gempa hybrid, empat kali getaran menerus, dan satu kali gempa vulkanik dangkal. Tingginya angka getaran ini membuat status gunung tetap berada di Level III atau Siaga, dan Badan Geologi menyebut potensi letusan susulan dalam periode mendatang masih tinggi, dengan bahaya utama berupa lontaran batu pijar, hujan abu lebat, dan aliran lava jika letusan menerus kembali terjadi.",
+   "Sebagai langkah pencegahan, masyarakat, wisatawan, dan pendaki dilarang beraktivitas dalam radius 3 kilometer dari pusat letusan. Warga yang terpapar abu vulkanik diminta mengurangi kegiatan di luar rumah atau memakai masker, sementara Badan Geologi juga meminta warga pesisir Banten dan Lampung tidak percaya isu yang mengaitkan letusan ini dengan potensi tsunami. Pemantauan terus dilakukan melalui dua pos pengamatan, yakni Pos Pasauran di Cinangka, Kabupaten Serang, Banten, dan Pos Kalianda di Desa Hargo Pancuran, Kecamatan Rajabasa, Lampung Selatan."
+  ],
+  "fotoAdegan": "A volcanic island emitting a dark ash plume over open sea water, viewed from a fishing boat at a cautious distance, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-erupsi-menerus-anak-krakatau-berakhir-aktivitas-gunung-api-kembali-menurun-dan-tetap-dipantau-7vsh9uq.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah pola letusannya, bukan status bahayanya: erupsi yang tadinya menyambung tanpa henti selama 25 jam kini kembali jadi letusan-letusan kecil yang muncul sesekali, tapi Badan Geologi tetap mempertahankan status Siaga, satu tingkat di bawah level tertinggi. Yang terdampak langsung adalah warga pesisir Banten dan Lampung serta wisatawan dan pendaki, yang dilarang mendekat dalam radius 3 kilometer dari kawah. Data getaran di bawah gunung selama dua hari terakhir, termasuk 98 kali getaran jenis hybrid dan 93 kali getaran frekuensi rendah yang biasanya menandakan magma masih bergerak naik, menjadi alasan kenapa status belum diturunkan meski letusan menerus sudah berhenti. Ini mengarah ke sikap menahan status ketimbang melonggarkannya, dan yang akan memastikan arahnya adalah apakah PVMBG menurunkan Level III pada laporan pemantauan berikutnya, atau sebaliknya mencatat munculnya lagi episode erupsi menerus seperti pekan ini.",
+  "imageV": "mts7srue"
+ },
+ {
   "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
   "category": "Industri",
   "title": "Kementan Bangun [999] Unit Irigasi Tersier di Jabar-Banten",
@@ -111,7 +139,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pengumuman ini adalah perpanjangan bantuan beras: penyaluran yang sudah berjalan sampai September dilanjutkan tiga bulan lagi hingga Desember, sesuai arahan Presiden Prabowo Subianto, meski pemerintah tidak menyebut total anggaran atau jumlah keluarga penerima. Yang terdampak jelas dua kelompok berbeda, yaitu keluarga penerima bantuan pangan di satu sisi, dan warga serta pelaku usaha di sekitar lima sampai enam gunung berapi yang meletus di sisi lain, termasuk sektor penerbangan dan kargo yang disebut sudah terganggu. Pola ini bisa dibaca sebagai upaya pemerintah menjadikan bantuan pangan sebagai penyangga menjelang akhir tahun sambil mengantisipasi guncangan pasokan akibat cuaca ekstrem dan bencana, tetapi belum jelas apakah ini kebijakan yang akan berlanjut ke tahun depan atau respons khusus untuk tahun ini saja. Yang masih kurang untuk menilai seberapa serius dampak erupsi terhadap ekonomi adalah angka konkret, seperti persentase kontraksi di provinsi mana saja, berapa lama pembatasan penerbangan berlangsung, dan provinsi mana yang paling parah terdampak, karena semua itu menurut Kemenko Perekonomian masih dalam tahap pemantauan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
@@ -139,7 +167,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar angka inklusi keuangan, melainkan rencana konkret membuka rekening warga lewat dua bank pelat merah dan menyambungkannya dengan QRIS, dengan data kependudukan Dukcapil dipadankan ke sistem Bank Indonesia. Pihak yang langsung terkena adalah warga yang belum punya rekening bank, serta BRI dan BSI yang ditunjuk sebagai pelaksana. Ada dua arah yang mungkin dari sini, pertama ini murni program perluasan akses perbankan biasa, kedua ini bisa jadi infrastruktur baru untuk menyalurkan bantuan atau subsidi langsung ke rekening warga, seperti tersirat dari pernyataan Airlangga bahwa program pemerintah nantinya akan dikirim ke rekening yang disiapkan. Bukti saat ini condong ke opsi kedua, tapi belum ada kejelasan siapa target penerima rekening ini atau kapan mulai berjalan, sehingga yang perlu ditunggu adalah aturan turunan soal skema pemadanan data Dukcapil-BI dan jadwal peluncuran rekening oleh BRI-BSI yang belum diumumkan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
@@ -324,6 +352,27 @@ var ARTICLES = [
   "fotoAdegan": "Workers in sterile uniforms inspecting rows of medicine bottles on a pharmaceutical production line, bright clean facility",
   "takeaway": "Laporan ini condong negatif bagi Kalbe Farma karena pertumbuhan penjualan 14 persen tidak terbawa ke laba bersih, yang justru turun 2,8 persen akibat tekanan biaya bahan baku dan perubahan komposisi produk. Yang tersentuh adalah margin kotor, yaitu selisih antara harga jual dan biaya produksi sebelum dikurangi beban operasional, yang turun dari 41 persen menjadi 37,6 persen, tanda bahwa perusahaan makin sulit mempertahankan untung dari tiap rupiah penjualan meski volume naik. Di sisi lain, total utang memang naik dari Rp112 miliar menjadi Rp628 miliar dalam enam bulan, tapi rasio utang terhadap modal (gearing ratio) cuma naik ke 2,4 persen, masih jauh dari level yang mengkhawatirkan bagi perusahaan sebesar Kalbe. Yang perlu dipantau adalah pemaparan langsung manajemen dalam acara Public Expose Tahunan pada 11 September 2026, yang menurut materi ini akan membahas strategi menghadapi tekanan daya beli domestik dan fluktuasi kurs yang disebut sendiri oleh perusahaan sebagai tantangan utama tahun ini.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-627-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.627.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 pada 8 September 2026, sementara harga buyback tertahan di Rp2.480.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-627-000-gram.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:23:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465632-turun-rp10000-harga-emas-antam-hari-ini-8-september-2026-jadi-rp2627000-per-gram",
+  "tags": [],
+  "body": [
+   "Harga emas batangan Antam bergerak turun tipis pada Senin, 8 September 2026. Berdasarkan data dari laman resmi Logam Mulia, harga jual emas Antam kini berada di Rp2.627.000 per gram, turun Rp10.000 dibandingkan hari sebelumnya yang sempat berada di Rp2.637.000 per gram.",
+   "Sementara itu, harga buyback atau harga beli kembali emas Antam oleh pihak Logam Mulia tercatat di Rp2.480.000 per gram. Artinya, jika seseorang membeli emas hari ini lalu langsung menjualnya kembali, selisih yang harus ditanggung mencapai sekitar Rp147.000 per gram, atau sekitar 5,6 persen dari harga beli.",
+   "Pihak Logam Mulia mengingatkan bahwa harga emas batangan Antam bersifat harian dan bisa berubah sewaktu-waktu mengikuti pergerakan pasar. Penurunan Rp10.000 kali ini tergolong kecil, hanya sekitar 0,38 persen dari harga sebelumnya, sehingga belum bisa dibaca sebagai perubahan arah yang signifikan."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/01/16/65a5e14c9f55c-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Penurunan Rp10.000 pada harga emas Antam hari ini tergolong sangat tipis, hanya sekitar 0,38 persen, jadi belum tentu menandakan tren turun yang berlanjut. Yang lebih terasa bagi pembeli adalah lebarnya selisih antara harga jual dan harga buyback, sekitar Rp147.000 per gram atau 5,6 persen, yang berarti siapa pun yang membeli emas ini untuk investasi jangka pendek akan langsung menanggung kerugian jika buru-buru menjualnya kembali. Pihak yang paling terdampak adalah investor ritel dan penabung emas fisik, bukan pelaku pasar besar. Untuk mengetahui apakah penurunan ini awal dari koreksi harga atau sekadar fluktuasi harian biasa, perlu dipantau pergerakan harga emas Antam dalam beberapa hari ke depan serta harga emas dunia dan kurs rupiah, karena keduanya yang biasanya menggerakkan harga emas domestik.",
+  "imageV": "mts7ss9q"
  },
  {
   "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "erupsi-menerus-berhenti-anak-krakatau-tetap-siaga",
+  "category": "Energi",
+  "title": "Erupsi Menerus Berhenti, Anak Krakatau Tetap [Siaga]",
+  "deck": "Episode erupsi menerus 25 jam Gunung Anak Krakatau berakhir, tapi status Siaga bertahan karena kegempaan tinggi dan radius 3 km tetap dilarang untuk aktivitas warga.",
+  "date": "8 September 2026",
+  "image": "assets/img/erupsi-menerus-berhenti-anak-krakatau-tetap-siaga.jpg",
+  "imageV": "mts7srue",
+  "tags": [
+   "Anak Krakatau",
+   "Badan Geologi",
+   "Status Siaga",
+   "Lampung"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/erupsi-menerus-anak-krakatau-berakhir-aktivitas-gunung-api-kembali-menurun-dan-tetap-dipantau",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
   "category": "Industri",
   "title": "Kementan Bangun [999] Unit Irigasi Tersier di Jabar-Banten",
@@ -200,6 +218,18 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbc6db9783_8b9c4e8404.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-627-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.627.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp10.000 pada 8 September 2026, sementara harga buyback tertahan di Rp2.480.000 per gram.",
+  "date": "8 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-627-000-gram.jpg",
+  "imageV": "mts7ss9q",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465632-turun-rp10000-harga-emas-antam-hari-ini-8-september-2026-jadi-rp2627000-per-gram"
  },
  {
   "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
@@ -6507,38 +6537,6 @@ var ARTICLES = [
    "bps",
    "wisatawan",
    "pariwisata",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "neraca-dagang-juli-surplus-tipis-0-12-miliar-dolar",
-  "category": "Perdagangan",
-  "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
-  "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
-  "date": "1 September 2026",
-  "image": "assets/img/pasar-modal.jpg",
-  "tags": [
-   "neraca-dagang",
-   "bps",
-   "ekspor-impor",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "impor-ri-juli-2026-tembus-us-26-1-m-naik-27",
-  "category": "Perdagangan",
-  "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
-  "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
-  "date": "1 September 2026",
-  "image": "assets/img/moneter-bi.jpg",
-  "tags": [
-   "impor",
-   "bps",
-   "neraca dagang",
    "ekonomi"
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",

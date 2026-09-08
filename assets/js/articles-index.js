@@ -5,6 +5,90 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
+  "category": "Industri",
+  "title": "Kementan Bangun [999] Unit Irigasi Tersier di Jabar-Banten",
+  "deck": "Kementerian Pertanian merealisasikan 737 dari 999 unit irigasi tersier di Jawa Barat dan Banten untuk menahan dampak kemarau panjang akibat El Nino.",
+  "date": "8 September 2026",
+  "image": "assets/img/kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten.jpg",
+  "imageV": "mts6ifj1",
+  "tags": [
+   "irigasi tersier",
+   "Kementan",
+   "musim kemarau",
+   "Jawa Barat-Banten"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8124",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau",
+  "category": "Makroekonomi",
+  "title": "Pemerintah [Tambah] SPHP Beras 1 Juta Ton Hadapi Kemarau",
+  "deck": "Kementerian Pertanian menambah alokasi beras SPHP medium 1 juta ton dan menyetop impor beras pecah 380 ribu ton untuk menjaga pasokan selama kemarau panjang.",
+  "date": "8 September 2026",
+  "image": "assets/img/pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau.jpg",
+  "imageV": "mts6igeo",
+  "tags": [
+   "beras",
+   "SPHP",
+   "Kementerian Pertanian",
+   "kemarau"
+  ],
+  "kreditFoto": "Kementerian Pertanian",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8125",
+  "sourceLabel": "Kementerian Pertanian"
+ },
+ {
+  "slug": "kemnaker-kawal-hak-pekerja-di-balik-restrukturisasi-bumn",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
+  "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "BUMN",
+   "Kemnaker",
+   "hubungan industrial",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "pemerintah-perpanjang-bantuan-beras-hingga-desember",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Perpanjang Bantuan Beras hingga [Desember]",
+  "deck": "Pemerintah memperpanjang bantuan beras hingga Desember sambil memantau dampak ekonomi letusan sejumlah gunung berapi dan antisipasi El Nino.",
+  "date": "8 September 2026",
+  "image": "assets/img/pasar-beras.jpg",
+  "tags": [
+   "bantuan beras",
+   "El Nino",
+   "erupsi gunung berapi",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7082/hadapi-el-nino-dan-dampak-erupsi-pemerintah-perkuat-perlindungan-masyarakat-dan-aktivitas-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
+  "category": "Perbankan",
+  "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
+  "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
+  "date": "8 September 2026",
+  "image": "assets/img/teller-bank.jpg",
+  "tags": [
+   "inklusi keuangan",
+   "QRIS",
+   "BRI",
+   "BSI"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7083/tingkatkan-literasi-dan-inklusi-keuangan-pemerintah-siapkan-layanan-rekening-dan-integrasi-qris-bagi-masyarakat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -83,6 +167,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8abc148e1f_29412f11e0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cabai-rawit-merah-melonjak-ke-rp91-300-per-kg",
+  "category": "Makroekonomi",
+  "title": "Cabai Rawit Merah [Melonjak] ke Rp91.300 per Kg",
+  "deck": "Harga cabai rawit merah naik 11,21 persen menjadi Rp91.300 per kilogram, memimpin kenaikan harga pangan nasional yang juga menyeret beras dan daging ayam, Selasa (8/9).",
+  "date": "8 September 2026",
+  "image": "assets/img/cabai-rawit-merah-melonjak-ke-rp91-300-per-kg.jpg",
+  "imageV": "mts6ihpw",
+  "tags": [
+   "harga pangan",
+   "cabai rawit",
+   "pasar tradisional",
+   "beras"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465631-harga-pangan-nasional-alami-kenaikan-cabai-rawit-merah-tembus-rp91300"
  },
  {
   "slug": "klbf-laba-turun-2-8-meski-penjualan-naik-14-di-semester-i",
@@ -1279,7 +1380,7 @@ var ARTICLES = [
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
   "date": "7 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "dana pensiun",
    "sektor informal",
@@ -4861,7 +4962,7 @@ var ARTICLES = [
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
   "date": "3 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "green jobs",
    "Kemnaker",
@@ -6442,103 +6543,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
   "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ekspor-ri-juli-2026-naik-jadi-us-26-2-m",
-  "category": "Perdagangan",
-  "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
-  "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
-  "date": "1 September 2026",
-  "image": "assets/img/industri-tekstil.jpg",
-  "tags": [
-   "ekspor",
-   "bps",
-   "perdagangan"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "bps-inflasi-agustus-2026-0-21-naik-dari-deflasi-juli",
-  "category": "Makroekonomi",
-  "title": "BPS: Inflasi Agustus 2026 0,21%, Naik dari Deflasi Juli",
-  "deck": "Setelah harga turun 0,14% pada Juli, indeks harga konsumen naik tipis 0,21% pada Agustus 2026, menandai kembalinya inflasi.",
-  "date": "1 September 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
-  "tags": [
-   "inflasi",
-   "bps",
-   "harga konsumen",
-   "ekonomi"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "ipcm-panggil-rupslb-agendakan-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "IPCM Panggil RUPSLB, Agendakan [Perubahan] Direksi",
-  "deck": "RUPSLB IPCM digelar 23 September 2026, bahas perubahan anggaran dasar, penetapan remunerasi pengurus, dan perubahan susunan direksi-komisaris.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCM",
-   "RUPSLB",
-   "Jasa Armada Indonesia",
-   "Pelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d104a2caa7_7b97361d9e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama",
-  "category": "Makroekonomi",
-  "title": "Surplus Dagang RI Juli Menipis, [Migas] Jadi Beban Utama",
-  "deck": "BPS mencatat surplus neraca dagang Juli 2026 hanya US$0,12 miliar, setelah defisit migas menggerus sebagian besar surplus nonmigas.",
-  "date": "1 September 2026",
-  "image": "assets/img/surplus-dagang-ri-juli-menipis-migas-jadi-beban-utama.jpg",
-  "imageV": "mtifhp0f",
-  "tags": [
-   "neraca perdagangan",
-   "BPS",
-   "surplus",
-   "migas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464129-neraca-dagang-ri-surplus-us370-miliar-tapi-defisit-dengan-china-tembus-us1695-miliar"
- },
- {
-  "slug": "purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027",
-  "category": "Makroekonomi",
-  "title": "Purbaya Ungkap Strategi Kejar Pertumbuhan [6 Persen] pada 2027",
-  "deck": "Pemerintah menargetkan pertumbuhan ekonomi 6 persen pada 2027 lewat sinergi kebijakan fiskal, moneter, investasi, dan peran Danantara.",
-  "date": "1 September 2026",
-  "image": "assets/img/purbaya-ungkap-strategi-kejar-pertumbuhan-6-persen-pada-2027.jpg",
-  "imageV": "mtifhpmw",
-  "tags": [
-   "Purbaya Yudhi Sadewa",
-   "APBN 2027",
-   "Danantara",
-   "pertumbuhan ekonomi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464128-purbaya-ungkap-jurus-kejar-ekonomi-6-pada-2027-investasi-jadi-kunci-utama-pemerintah"
- },
- {
-  "slug": "plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit",
-  "category": "Energi",
-  "title": "PLTS PLN Ganti Diesel, Listrik [24 Jam] di Pulau Rengit",
-  "deck": "PLN mengganti pembangkit diesel dengan PLTS 78 kWp di Pulau Rengit, Belitung, memberi listrik 24 jam kepada 44 keluarga di bawah program surya nasional.",
-  "date": "1 September 2026",
-  "image": "assets/img/plts-pln-ganti-diesel-listrik-24-jam-di-pulau-rengit.jpg",
-  "imageV": "mtifhq1q",
-  "tags": [
-   "PLN",
-   "PLTS",
-   "Belitung",
-   "Energi Terbarukan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464126-plts-pln-bawa-harapan-baru-ke-pulau-rengit-belitung"
  }
 ];

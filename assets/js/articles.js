@@ -3,6 +3,145 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten",
+  "category": "Industri",
+  "title": "Kementan Bangun [999] Unit Irigasi Tersier di Jabar-Banten",
+  "deck": "Kementerian Pertanian merealisasikan 737 dari 999 unit irigasi tersier di Jawa Barat dan Banten untuk menahan dampak kemarau panjang akibat El Nino.",
+  "image": "assets/img/kementan-bangun-999-unit-irigasi-tersier-di-jabar-banten.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T04:28:47.692Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8124",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "irigasi tersier",
+   "Kementan",
+   "musim kemarau",
+   "Jawa Barat-Banten"
+  ],
+  "body": [
+   "Kementerian Pertanian tengah membangun dan memperbaiki 999 unit jaringan irigasi tersier, saluran air kecil yang mengalirkan air langsung ke petak sawah, di Jawa Barat dan Banten. Langkah ini ditujukan agar petani tetap bisa menanam padi di tengah musim kemarau yang diperkirakan berlangsung lebih panjang karena El Nino. Progres proyek ini dibahas dalam rapat koordinasi dan evaluasi di Bandung pada 3 September 2026.",
+   "Realisasi fisik proyek ini sejauh ini mencapai 737 unit, atau 73,77 persen dari target. Untuk irigasi yang didanai lewat Balai Pengelolaan Lahan dan Irigasi Pertanian, realisasinya lebih tinggi yaitu 405 dari 460 unit atau 88,04 persen, sementara proyek yang bersumber dari usulan anggaran aspirasi anggota dewan masih dalam tahap verifikasi.",
+   "Selain memperbaiki saluran, pipa, dan pompa untuk memanfaatkan air permukaan, Kementan juga membangun sumur bor dan jaringan irigasi air tanah, serta membagikan benih gratis ke lahan yang sudah telanjur gagal panen. Dampaknya terlihat di Kabupaten Pandeglang, Banten, tempat sekitar 300 hektare sawah terindikasi terancam kekeringan dan 19 hektare sudah gagal panen. Pemerintah daerah setempat menyebut sudah merampungkan seluruh 53 unit irigasi tersier jatah wilayahnya dan mengusulkan tambahan 101 unit pompa air.",
+   "Program ini dijalankan lewat skema bantuan pemerintah berbasis padat karya, dengan pengajuan proyek memakai sistem digital bernama e-Banper sesuai Peraturan Menteri Pertanian Nomor 02 Tahun 2026. Berdasarkan Instruksi Presiden Nomor 2 Tahun 2025, Kementerian Pekerjaan Umum mengurus jaringan irigasi besar dan menengah, sedangkan Kementerian Pertanian berfokus pada saluran kecil sampai ke lahan petani. Kementan menyebut anggaran untuk sektor irigasi naik dua kali lipat, meski rincian angkanya tidak disampaikan dalam siaran pers ini."
+  ],
+  "fotoAdegan": "Farmers clearing a narrow earthen irrigation channel beside dry-season rice paddies under bright midday sun, West Java countryside",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8124",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "Yang berubah secara konkret adalah percepatan pembangunan saluran air kecil sampai ke petak sawah, dengan 737 dari target 999 unit di Jawa Barat dan Banten sudah selesai per awal September, dan anggaran irigasi disebut naik dua kali lipat. Yang terdampak langsung adalah petani padi di dua provinsi itu, terutama di daerah rawan kering seperti Pandeglang yang sudah mencatat ratusan hektare sawah terancam dan puluhan hektare gagal panen. Polanya menunjukkan Kementerian Pertanian bergeser dari sekadar membagi benih pengganti setelah panen gagal, ke pencegahan lewat saluran air permanen, tapi sisa sekitar seperempat unit yang belum rampung jadi taruhannya karena puncak kemarau biasanya jatuh di akhir tahun. Yang akan menentukan apakah langkah ini cukup atau kalah cepat dari kemarau adalah kecepatan penyelesaian sisa unit dalam beberapa bulan ke depan, serta apakah angka luas gagal panen di Pandeglang dan daerah lain bertambah atau tertahan pada laporan periode berikutnya.",
+  "imageV": "mts6ifj1"
+ },
+ {
+  "slug": "pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau",
+  "category": "Makroekonomi",
+  "title": "Pemerintah [Tambah] SPHP Beras 1 Juta Ton Hadapi Kemarau",
+  "deck": "Kementerian Pertanian menambah alokasi beras SPHP medium 1 juta ton dan menyetop impor beras pecah 380 ribu ton untuk menjaga pasokan selama kemarau panjang.",
+  "image": "assets/img/pemerintah-tambah-sphp-beras-1-juta-ton-hadapi-kemarau.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T04:28:47.369Z",
+  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8125",
+  "sourceLabel": "Kementerian Pertanian",
+  "tags": [
+   "beras",
+   "SPHP",
+   "Kementerian Pertanian",
+   "kemarau"
+  ],
+  "body": [
+   "Pemerintah menambah alokasi beras Stabilisasi Pasokan dan Harga Pangan (SPHP) medium sebanyak 1 juta ton untuk mengantisipasi tekanan pasokan akibat musim kemarau yang berlangsung lebih panjang tahun ini. Keputusan itu diambil dalam rapat koordinasi Kementerian Pertanian, Kementerian Koordinator Bidang Pangan, dan sejumlah kementerian/lembaga lain di Jakarta, Senin (7/9/2026). Langkah ini relevan bagi konsumen karena menyangkut ketersediaan dan harga beras, kebutuhan pokok yang paling sensitif terhadap inflasi menjelang akhir tahun.",
+   "Menteri Pertanian Andi Amran Sulaiman menyatakan produksi dan kebutuhan pangan nasional dalam kondisi aman meski El Nino memperpanjang musim kemarau. Untuk menopang pasokan, pemerintah menyiapkan sejumlah langkah: mendorong beras medium dan premium masuk ke jaringan ritel, menghentikan impor beras pecah atau menir, menggelar operasi pasar dalam skala besar, dan mempercepat penyaluran bantuan pangan.",
+   "Tambahan 1 juta ton SPHP medium akan disalurkan mulai Oktober hingga Desember 2026 dan berlanjut sampai memasuki musim panen berikutnya. Pemerintah juga menghentikan impor 380 ribu ton beras pecah dari Bulog, dan mengalihkan beras Bulog yang mutunya menurun untuk dijadikan bahan baku industri tepung beras sebagai bagian dari upaya mengurangi ketergantungan pada impor.",
+   "Selain kebijakan beras, pemerintah menyiapkan SPHP jagung sebanyak 150 ribu ton untuk membantu peternak rakyat dan pelaku usaha kecil-menengah menghadapi tekanan pasokan pakan selama kemarau. Menteri Koordinator Bidang Pangan Zulkifli Hasan menyebut penambahan SPHP sebagai respons pemerintah untuk memperkuat pasokan sekaligus menjaga harga beras di pasar."
+  ],
+  "fotoAdegan": "Workers stacking sacks of rice onto a delivery truck outside a traditional Indonesian market at dawn",
+  "fotoSumber": "https://www.pertanian.go.id/img_viewer.php?content-type=news&img-type=img_slider&id=8125",
+  "kreditFoto": "Kementerian Pertanian",
+  "takeaway": "SPHP adalah skema beras bersubsidi yang dijual pemerintah lewat Bulog untuk menahan harga di pasar, dan kali ini alokasinya ditambah 1 juta ton, akan disalurkan Oktober sampai Desember 2026 saat kemarau biasanya menekan produksi. Yang terdampak langsung konsumen beras menjelang akhir tahun, ketika harga pangan cenderung naik, serta peternak kecil dan pelaku UMKM yang mendapat tambahan pasokan jagung bersubsidi 150 ribu ton untuk pakan. Meski Menteri Pertanian menyebut stok aman, skala intervensinya, yakni tambahan SPHP, penghentian impor beras pecah 380 ribu ton, dan operasi pasar besar-besaran sekaligus, menunjukkan pemerintah sebenarnya bersiap menghadapi kemungkinan tekanan harga, bukan sekadar langkah rutin. Arah yang terlihat adalah pemerintah mengandalkan intervensi pasokan jangka pendek lewat Bulog ketimbang menambah impor untuk menutup kekurangan produksi musim kemarau. Yang akan memastikan pembacaan ini adalah data realisasi penyaluran SPHP dan pergerakan harga beras eceran pada periode Oktober-Desember 2026.",
+  "imageV": "mts6igeo"
+ },
+ {
+  "slug": "kemnaker-kawal-hak-pekerja-di-balik-restrukturisasi-bumn",
+  "category": "Ketenagakerjaan",
+  "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
+  "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T04:28:42.741Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "BUMN",
+   "Kemnaker",
+   "hubungan industrial",
+   "restrukturisasi"
+  ],
+  "body": [
+   "Kementerian Ketenagakerjaan meminta perusahaan BUMN memperkuat tata kelola hubungan kerja saat menjalani proses restrukturisasi dan penggabungan bisnis. Permintaan ini disampaikan Direktur Jenderal Pembinaan Hubungan Industrial dan Jaminan Sosial Tenaga Kerja Kemnaker, Indah Anggoro Putri, dalam forum penyelesaian perselisihan hubungan industrial BUMN di Jakarta, Senin (7/9/2026). Menurut Indah, penataan organisasi BUMN tidak boleh mengorbankan pemenuhan hak pekerja.",
+   "Dasar dari permintaan ini adalah Instruksi Presiden Nomor 7 Tahun 2026 tentang Percepatan Program Penataan Badan Usaha Milik Negara dan Anak Usahanya. Lewat aturan itu, Kemnaker bersama kementerian dan lembaga lain ditugaskan mengawasi proses penataan BUMN, dari perencanaan hingga penanganan kendala yang muncul. Kemnaker dan Badan Pengaturan BUMN juga merumuskan prinsip yang disebut 'no one left behind', yang menekankan bukan hanya soal mencegah pemutusan hubungan kerja, tetapi juga memastikan pekerja tidak diperlakukan tidak adil selama proses penataan berlangsung.",
+   "Indah mengingatkan bahwa penyatuan sistem pengupahan, struktur jabatan, dan ketentuan kerja antar-perusahaan BUMN yang digabung berpotensi memicu perselisihan jika tidak dikelola dengan cermat. Karena itu, manajemen BUMN diminta memasukkan aspek hukum dan kepatuhan ketenagakerjaan ke dalam pengambilan keputusan di tingkat direksi, termasuk memastikan jajaran yang menangani sumber daya manusia memiliki pemahaman yang cukup soal hubungan industrial.",
+   "Untuk mendukung hal itu, Kemnaker menawarkan empat pendekatan kepada BUMN, yaitu kepastian, keterlibatan pekerja, keadilan, dan tata kelola yang kuat. Empat pendekatan ini dimaksudkan agar komunikasi antara manajemen dan pekerja lebih terbuka, potensi perselisihan bisa dideteksi lebih awal, dan masalah ketenagakerjaan yang muncul selama restrukturisasi dapat diselesaikan sebelum membesar."
+  ],
+  "fotoAdegan": "Employees in matching uniforms walking through the lobby of a state enterprise office tower during a shift change, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari forum ini bukan aturan baru, melainkan penegasan bahwa proses perampingan dan penggabungan bisnis BUMN harus tetap tunduk pada aturan soal hak pekerja, seperti kepastian upah dan status kerja, dengan dasar Instruksi Presiden Nomor 7 Tahun 2026. Pihak yang paling terdampak adalah pekerja di perusahaan pelat merah yang sedang atau akan digabung maupun dirampingkan, karena penyatuan sistem gaji dan jabatan antar-perusahaan berisiko memicu perselisihan kalau tidak dikelola hati-hati. Yang belum bisa dipastikan dari forum ini adalah BUMN mana saja yang akan menjalani proses itu, berapa banyak pekerja yang terpengaruh, dan apakah prinsip 'tidak ada yang ditinggalkan' itu akan dituangkan menjadi aturan yang mengikat atau sekadar himbauan. Itu yang perlu dipantau lewat aturan turunan dari Inpres Nomor 7 Tahun 2026 atau daftar resmi BUMN yang masuk program penataan berikutnya."
+ },
+ {
+  "slug": "pemerintah-perpanjang-bantuan-beras-hingga-desember",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Perpanjang Bantuan Beras hingga [Desember]",
+  "deck": "Pemerintah memperpanjang bantuan beras hingga Desember sambil memantau dampak ekonomi letusan sejumlah gunung berapi dan antisipasi El Nino.",
+  "image": "assets/img/pasar-beras.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T04:27:16.518Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7082/hadapi-el-nino-dan-dampak-erupsi-pemerintah-perkuat-perlindungan-masyarakat-dan-aktivitas-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "bantuan beras",
+   "El Nino",
+   "erupsi gunung berapi",
+   "Kemenko Perekonomian"
+  ],
+  "body": [
+   "Pemerintah memutuskan memperpanjang program bantuan pangan beras hingga akhir tahun, sekaligus memperkuat pemantauan dampak ekonomi dari rangkaian erupsi gunung berapi dan potensi El Nino. Keputusan ini penting bagi rumah tangga penerima bantuan pangan yang mengandalkan pasokan beras subsidi, sekaligus bagi warga dan pelaku usaha di wilayah yang terdampak letusan gunung berapi.",
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyampaikan bahwa penyaluran bantuan beras yang sudah berjalan hingga September akan dilanjutkan pada Oktober, November, dan Desember sesuai arahan Presiden Prabowo Subianto. Keterangan itu disampaikan usai rapat terbatas yang dipimpin Presiden Prabowo Subianto di Jakarta, Senin (7/9). Pemerintah tidak merinci total anggaran atau jumlah keluarga penerima dalam perpanjangan tiga bulan tersebut.",
+   "Di sisi lain, pemerintah tengah memantau dampak ekonomi dari erupsi lima hingga enam gunung berapi di Indonesia. Menurut Airlangga, wilayah yang terdampak mengalami kontraksi aktivitas ekonomi, dengan aktivitas masyarakat yang berkurang signifikan di sekitar lokasi letusan.",
+   "Sektor logistik turut terganggu, terutama penerbangan yang berkaitan langsung dengan pengangkutan kargo. Pemerintah masih menghitung berapa lama pembatasan atau penutupan penerbangan tersebut perlu berlangsung. Juru Bicara Kemenko Perekonomian Haryo Limanseto menambahkan bahwa pemantauan dilakukan agar penanganan dampak bencana tetap berjalan seiring keberlangsungan aktivitas ekonomi dan distribusi kebutuhan masyarakat."
+  ],
+  "fotoAdegan": "Ash-dusted airport tarmac with a cargo plane grounded and workers in masks inspecting the runway, hazy volcanic sky in the distance",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret dari pengumuman ini adalah perpanjangan bantuan beras: penyaluran yang sudah berjalan sampai September dilanjutkan tiga bulan lagi hingga Desember, sesuai arahan Presiden Prabowo Subianto, meski pemerintah tidak menyebut total anggaran atau jumlah keluarga penerima. Yang terdampak jelas dua kelompok berbeda, yaitu keluarga penerima bantuan pangan di satu sisi, dan warga serta pelaku usaha di sekitar lima sampai enam gunung berapi yang meletus di sisi lain, termasuk sektor penerbangan dan kargo yang disebut sudah terganggu. Pola ini bisa dibaca sebagai upaya pemerintah menjadikan bantuan pangan sebagai penyangga menjelang akhir tahun sambil mengantisipasi guncangan pasokan akibat cuaca ekstrem dan bencana, tetapi belum jelas apakah ini kebijakan yang akan berlanjut ke tahun depan atau respons khusus untuk tahun ini saja. Yang masih kurang untuk menilai seberapa serius dampak erupsi terhadap ekonomi adalah angka konkret, seperti persentase kontraksi di provinsi mana saja, berapa lama pembatasan penerbangan berlangsung, dan provinsi mana yang paling parah terdampak, karena semua itu menurut Kemenko Perekonomian masih dalam tahap pemantauan.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
+  "category": "Perbankan",
+  "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
+  "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
+  "image": "assets/img/teller-bank.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T04:27:14.201Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7083/tingkatkan-literasi-dan-inklusi-keuangan-pemerintah-siapkan-layanan-rekening-dan-integrasi-qris-bagi-masyarakat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "inklusi keuangan",
+   "QRIS",
+   "BRI",
+   "BSI"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan penyediaan rekening bank bagi masyarakat melalui PT Bank Rakyat Indonesia (BRI) dan Bank Syariah Indonesia (BSI), yang nantinya akan disambungkan dengan sistem pembayaran QRIS. Rencana ini disampaikan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto usai rapat terbatas bersama Presiden Prabowo Subianto di Istana Merdeka, Senin (7/9). Langkah ini penting karena berpotensi menjadi jalur baru bagi masyarakat yang selama ini belum tersentuh layanan perbankan formal.",
+   "Menurut Airlangga, survei yang dilakukan Otoritas Jasa Keuangan (OJK) dan Badan Pusat Statistik (BPS) mencatat tingkat inklusi keuangan Indonesia sudah mencapai 93,62 persen, artinya sebagian besar penduduk sudah punya akses ke layanan keuangan seperti rekening bank. Sementara itu, tingkat literasi keuangan, yaitu seberapa paham masyarakat memakai produk keuangan secara benar, tercatat lebih rendah di angka 63,57 persen. Kesenjangan antara dua angka ini menunjukkan masih banyak orang yang sudah punya rekening tapi belum sepenuhnya paham cara memanfaatkannya.",
+   "Untuk memperluas kepemilikan rekening, pemerintah akan memadankan data kependudukan dari Direktorat Jenderal Kependudukan dan Pencatatan Sipil (Dukcapil) dengan sistem pembayaran di Bank Indonesia. Rekening yang dibuka lewat BRI dan BSI itu rencananya akan disambungkan dengan QRIS sebagai jalur transaksi sehari-hari. Airlangga menyebut, ke depan, berbagai program pemerintah akan disalurkan lewat rekening-rekening yang disiapkan tersebut.",
+   "Pemerintah menyatakan akan terus berkoordinasi dengan otoritas dan lembaga terkait agar perluasan akses rekening, pemadanan data, dan penguatan sistem pembayaran ini berjalan efektif. Namun, siaran pers ini belum menyebut target jumlah warga yang akan mendapat rekening baru maupun jadwal pelaksanaannya."
+  ],
+  "fotoAdegan": "A bank teller helping an elderly customer open a new savings account at a rural branch counter, soft morning light.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar angka inklusi keuangan, melainkan rencana konkret membuka rekening warga lewat dua bank pelat merah dan menyambungkannya dengan QRIS, dengan data kependudukan Dukcapil dipadankan ke sistem Bank Indonesia. Pihak yang langsung terkena adalah warga yang belum punya rekening bank, serta BRI dan BSI yang ditunjuk sebagai pelaksana. Ada dua arah yang mungkin dari sini, pertama ini murni program perluasan akses perbankan biasa, kedua ini bisa jadi infrastruktur baru untuk menyalurkan bantuan atau subsidi langsung ke rekening warga, seperti tersirat dari pernyataan Airlangga bahwa program pemerintah nantinya akan dikirim ke rekening yang disiapkan. Bukti saat ini condong ke opsi kedua, tapi belum ada kejelasan siapa target penerima rekening ini atau kapan mulai berjalan, sehingga yang perlu ditunggu adalah aturan turunan soal skema pemadanan data Dukcapil-BI dan jadwal peluncuran rekening oleh BRI-BSI yang belum diumumkan.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
   "category": "Aksi Korporasi",
   "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
@@ -131,6 +270,33 @@ var ARTICLES = [
   "fotoAdegan": "Postal delivery trucks parked in a busy loading yard at dusk, workers stacking parcels under warehouse floodlights",
   "takeaway": "Hasil RUPSI ini negatif bagi Pos Indonesia, karena pemegang sukuk menolak baik rencana restrukturisasi utang maupun permintaan keringanan atas pelanggaran syarat keuangan pinjaman untuk periode 2025 dan 2026. Yang tersentuh adalah arus kas dan beban bunga perusahaan, sebab syarat keuangan pinjaman atau financial covenant adalah batas rasio keuangan yang wajib dijaga peminjam, dan kalau dilanggar tanpa keringanan, pemegang sukuk berhak menuntut pelunasan dipercepat sehingga membebani kas perusahaan yang sedang menyusun rencana pemulihan. Yang perlu dipantau berikutnya adalah apakah Pos Indonesia dan wali amanat BTN akan menggelar RUPSI ulang dengan proposal baru, karena dokumen ini tidak menyebut jadwal rapat lanjutan, sementara laporan keuangan auditan periode 31 Desember 2026 akan menjadi titik uji berikutnya apakah pelanggaran syarat keuangan ini berulang.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "cabai-rawit-merah-melonjak-ke-rp91-300-per-kg",
+  "category": "Makroekonomi",
+  "title": "Cabai Rawit Merah [Melonjak] ke Rp91.300 per Kg",
+  "deck": "Harga cabai rawit merah naik 11,21 persen menjadi Rp91.300 per kilogram, memimpin kenaikan harga pangan nasional yang juga menyeret beras dan daging ayam, Selasa (8/9).",
+  "image": "assets/img/cabai-rawit-merah-melonjak-ke-rp91-300-per-kg.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:43:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465631-harga-pangan-nasional-alami-kenaikan-cabai-rawit-merah-tembus-rp91300",
+  "tags": [
+   "harga pangan",
+   "cabai rawit",
+   "pasar tradisional",
+   "beras"
+  ],
+  "body": [
+   "Harga sejumlah komoditas pangan nasional naik pada perdagangan Selasa (8/9/2026), dengan kenaikan paling tajam terjadi pada cabai rawit merah yang tembus Rp91.300 per kilogram. Berdasarkan data Pusat Informasi Harga Pangan Strategis (PIHPS) Bank Indonesia pukul 09.00 WIB, harga tersebut naik 11,21 persen dibanding perdagangan sebelumnya. Kenaikan ini terasa langsung bagi masyarakat karena cabai adalah bahan dapur yang dipakai hampir setiap hari, sehingga lonjakan harganya cepat memengaruhi pengeluaran rumah tangga.",
+   "Seluruh jenis cabai yang tercatat PIHPS kompak naik pada hari yang sama. Cabai merah keriting naik 6,37 persen menjadi Rp60.150 per kilogram, cabai rawit hijau naik 4,47 persen menjadi Rp64.250 per kilogram, dan cabai merah besar naik 3,45 persen menjadi Rp53.900 per kilogram. Dengan pergerakan ini, cabai menjadi kelompok pangan dengan kenaikan harga paling agresif dibanding komoditas lain.",
+   "Beras juga terpantau naik meski tidak setajam cabai. Beras kualitas bawah I naik 0,34 persen menjadi Rp14.900 per kilogram dan beras bawah II naik 0,34 persen menjadi Rp14.700 per kilogram. Pada kelas medium, beras medium II naik 0,61 persen menjadi Rp16.400 per kilogram, sementara medium I bertahan di Rp16.550 per kilogram. Beras super I naik tipis 0,28 persen menjadi Rp17.850 per kilogram, sedangkan super II tidak berubah di Rp17.300 per kilogram.",
+   "Tekanan harga turut merambat ke protein hewani, dengan daging ayam ras segar naik 0,35 persen menjadi Rp42.700 per kilogram. Data PIHPS BI hari itu juga mencatat kenaikan pada daging sapi, telur ayam, gula pasir lokal, serta minyak goreng curah dan kemasan bermerek II, meski besaran kenaikan komoditas tersebut tidak dirinci."
+  ],
+  "fotoAdegan": "Baskets of fresh red chili peppers piled high at a bustling traditional market stall, vendor arranging produce in morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/02/03/6981a55a1cc57-ilustrasi-pedagang-menyortir-cabai-rawit-merah-di-pasar-senen-jakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Data ini adalah potret harga pada satu waktu, Selasa pagi, dan sumbernya tidak menyebutkan penyebab kenaikan cabai yang tajam ini, apakah karena curah hujan, gangguan pasokan dari sentra produksi, atau lonjakan permintaan musiman. Yang jelas berbeda adalah pola kenaikannya: cabai rawit merah melonjak dua digit dalam sehari, sementara beras dan daging ayam hanya naik di bawah 1 persen, sehingga tekanan ini tampak spesifik pada cabai, bukan pangan secara luas. Pihak yang paling merasakan dampaknya adalah pembeli harian di pasar tradisional dan pedagang warung makan yang mengandalkan cabai sebagai bahan baku utama. Yang masih kurang untuk memastikan apakah ini lonjakan sesaat atau awal tren adalah data PIHPS BI pada hari-hari berikutnya, karena harga cabai dikenal fluktuatif dan bisa berbalik turun dalam hitungan hari.",
+  "imageV": "mts6ihpw"
  },
  {
   "slug": "klbf-laba-turun-2-8-meski-penjualan-naik-14-di-semester-i",
@@ -375,7 +541,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang baru dari pernyataan ini bukan proyek atau investasi baru, melainkan sinyal resmi bahwa pemerintah membuka diri terhadap investasi dan alih pengetahuan di bidang energi nuklir, mulai dari reaktor modular berskala kecil hingga pembangkit skala penuh. Ini relevan terutama bagi calon investor sektor energi dan industri yang bergantung pada pasokan listrik jangka panjang, karena nuklir selama ini jarang disebut eksplisit dalam pernyataan resmi presiden soal energi masa depan. Pidato ini belum menyebut proyek, calon mitra, atau target waktu apa pun, sehingga belum bisa dipastikan apakah pernyataan ini akan diikuti langkah konkret seperti kajian Kementerian ESDM atau revisi kebijakan energi nasional. Yang perlu dipantau adalah apakah ada aturan turunan atau kesepakatan kerja sama energi nuklir dengan Rusia yang menyusul setelah kunjungan Presiden Prabowo ke Vladivostok ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
@@ -403,7 +570,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data paling konkret dari paparan ini adalah porsi hilirisasi yang sudah mencapai 29,7 persen dari total realisasi investasi nasional pada semester I 2026, dengan mayoritas dananya berasal dari investor asing dan tersebar di luar Pulau Jawa. Yang terdampak langsung adalah daerah penghasil komoditas tambang dan perkebunan di luar Jawa yang menerima Rp227,3 triliun investasi tersebut, serta pekerja lokal yang disasar lewat insentif pelatihan dan riset dalam skema super tax deduction. Arahnya, pemerintah tampak mendorong hilirisasi naik kelas dari sekadar pengolahan bahan mentah menjadi kegiatan yang melibatkan transfer teknologi dan riset, bukan cuma menambah pabrik pengolahan dasar. Ini baru bisa dibuktikan lewat data lanjutan, seperti berapa banyak perusahaan yang benar-benar memanfaatkan insentif super tax deduction dan apakah dominasi investasi asing di sektor ini mulai diimbangi investasi domestik pada laporan realisasi semester II 2026.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
@@ -431,7 +599,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan tawaran konkret: pemerintah membuka 32 proyek infrastruktur milik sembilan BUMN dan BUMD, dari jalan tol sampai pelabuhan, langsung ke puluhan perusahaan Jepang lewat forum business matching di Tokyo. Yang berkepentingan adalah BUMN pemilik proyek seperti Hutama Karya, Jasa Marga, KAI, dan Pelindo yang butuh mitra pendanaan asing, serta calon investor Jepang seperti Sumitomo dan Mizuho Bank yang mendapat akses ke daftar proyek terkurasi itu. Forum semacam ini masih tahap penjajakan, bukan kesepakatan, karena siaran pers tidak menyebut nilai investasi atau nota kesepahaman yang sudah diteken, jadi arahnya baru sebatas niat memperbanyak pintu masuk investasi Jepang untuk mengejar target pertumbuhan 8 persen pada 2029. Yang akan menunjukkan apakah forum ini berbuah nyata adalah ada tidaknya nota kesepahaman atau komitmen investasi yang diumumkan setelah business matching ini, serta apakah realisasi investasi Jepang di laporan BKPM pada kuartal-kuartal mendatang ikut naik.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
@@ -459,7 +628,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini cuma satu: penandatanganan nota kesepahaman atau Letter of Intent soal pengembangan kerja sama ekonomi dan bisnis, bukan perjanjian dagang yang mengikat. Target yang lebih besar adalah IEU-CEPA, perjanjian dagang antara Indonesia dan Uni Eropa, yang menurut Irlandia diharapkan diteken selama negara itu memimpin Dewan Uni Eropa, masa jabatan yang berakhir 31 Desember 2026. Pihak yang paling merasakan dampaknya adalah pelaku usaha anggota KADIN dan APINDO yang berdagang dengan Eropa, mengingat nilai perdagangan Indonesia-Irlandia saat ini masih kecil, hanya US$228,6 juta pada 2025. Ada dua kemungkinan ke depan, IEU-CEPA benar diteken sebelum masa presidensi Irlandia berakhir sesuai harapan yang disampaikan dalam pertemuan ini, atau rencana itu kembali tertunda seperti yang lazim terjadi pada negosiasi perjanjian dagang multilateral. Itu akan ketahuan paling lambat akhir Desember 2026, saat masa presidensi Irlandia di Dewan Uni Eropa berakhir.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",
@@ -2063,7 +2233,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "date": "7 September 2026",
   "isoDate": "2026-09-07T06:12:01.145Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-60-persen-angkatan-kerja-bekerja-di-sektor-informal-perlindungan-hari-tua-jadi-perhatian",
@@ -7842,7 +8012,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:59.061Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
@@ -11310,7 +11480,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Penumpang Angkutan Laut Juli [Naik] 8,21 Persen, Udara Ikut Naik",
   "deck": "Data BPS Juli 2026: penumpang angkutan laut domestik naik 8,21 persen, disusul udara dan kereta, sementara penyeberangan sungai-danau turun 6,81 persen.",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2614",
@@ -11390,7 +11560,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Laju Impor RI Kalahkan Ekspor, Surplus Dagang [Menipis]",
   "deck": "Ekspor RI Juli 2026 naik 6,05 persen jadi US$26,22 miliar, tapi impor melonjak 27,02 persen jadi US$26,09 miliar sehingga surplus Januari-Juli menyusut ke US$3,70 miliar.",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T17:00:00.000Z",
   "sourceUrl": "https://www.bps.go.id/id/pressrelease/2615",
@@ -13219,7 +13389,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Cara Cek Desil Bansos Online Pakai [NIK]",
   "deck": "Masyarakat kini bisa mengecek dan memperbarui posisi desil bansos secara mandiri lewat situs Kemensos dan DTSEN BPS menggunakan NIK.",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T15:45:57+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463406-mau-tahu-masuk-desil-bansos-berapa-begini-cara-cek-dan-perbarui-data-pakai-nik",

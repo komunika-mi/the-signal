@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inklusi-keuangan-syariah-baru-13-persen-jauh-tertinggal",
+  "category": "Perbankan",
+  "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
+  "deck": "Pemerintah menyoroti kesenjangan akses keuangan syariah yang baru menjangkau 13 persen masyarakat, jauh di bawah layanan konvensional yang sudah 93,53 persen.",
+  "image": "assets/img/teller-bank.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T14:47:24.646Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7085/perkuat-ekosistem-ekonomi-syariah-menko-airlangga-dorong-inklusi-keuangan-dan-pemberdayaan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "ekonomi syariah",
+   "inklusi keuangan",
+   "UMKM",
+   "KUR syariah"
+  ],
+  "body": [
+   "Pemerintah menyoroti kesenjangan besar antara jangkauan layanan keuangan syariah dan konvensional di Indonesia. Dalam Simposium Sumbangan Ekonomi Pancasila, Ekonomi Islam, dan Ekonomi Konvensional di Jakarta, Selasa (8/9/2026), Menteri Koordinator Bidang Perekonomian Airlangga Hartarto memaparkan bahwa baru sekitar 13 persen masyarakat yang benar-benar memakai layanan keuangan syariah seperti tabungan atau pembiayaan bank syariah, jauh di bawah cakupan keuangan konvensional yang sudah menjangkau 93,53 persen penduduk. Kesenjangan ini penting karena menyangkut akses kredit dan tabungan bagi masyarakat, khususnya di perdesaan dan sektor pertanian, yang selama ini paling sering disebut sebagai sasaran perluasan layanan syariah.",
+   "Airlangga menyebut tingkat pemahaman masyarakat soal keuangan syariah sebenarnya sudah relatif tinggi, mencapai 43,07 persen, jauh melampaui angka pemakaian layanannya yang cuma 13 persen. Artinya banyak orang sudah tahu konsep keuangan syariah tapi belum benar-benar menggunakannya, entah karena akses yang terbatas atau produk yang belum menjangkau daerah mereka. Paparan ini disampaikan di tengah data pertumbuhan ekonomi nasional semester I 2026 yang tercatat 5,45 persen, dengan realisasi investasi sekitar Rp1.010,6 triliun atau tumbuh 7,2 persen dibanding periode yang sama tahun lalu.",
+   "Untuk menutup kesenjangan itu, pemerintah menyebut sejumlah langkah, mulai dari memperluas kredit usaha rakyat (KUR) berbasis syariah bagi UMKM, memperkuat perbankan syariah untuk pembiayaan produktif, hingga mendorong kepemilikan rekening bank yang juga dipakai menyalurkan bantuan sosial dan pembayaran digital. Pemerintah juga ingin mengoptimalkan potensi dana sosial keagamaan seperti zakat, infak, sedekah, dan wakaf lewat koordinasi antarlembaga yang lebih rapi, serta memperluas sertifikasi halal bagi pelaku UMKM.",
+   "Airlangga mencontohkan Provinsi Aceh sebagai model pengembangan keuangan syariah, di mana perbankan, lembaga keuangan nonbank, dan lembaga sosial keagamaan seperti Baitul Mal berjalan saling terhubung. Ia berharap contoh ini bisa direplikasi daerah lain sebagai bagian dari upaya memperluas akses keuangan syariah secara nasional."
+  ],
+  "fotoAdegan": "Farmers loading harvested rice sacks onto a small truck in a rural Indonesian village, motorbikes parked nearby, morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sorotan resmi atas kesenjangan akses: baru 13 persen masyarakat memakai layanan keuangan syariah, sementara layanan keuangan konvensional sudah menjangkau 93,53 persen penduduk, padahal tingkat pemahaman soal keuangan syariah sudah di atas 43 persen. Yang terdampak langsung adalah pelaku UMKM, petani, dan masyarakat pedesaan yang paling sering disebut sebagai sasaran perluasan KUR syariah dan program dana sosial keagamaan seperti zakat dan wakaf. Pemerintah menyebut sejumlah langkah untuk menutup kesenjangan itu, seperti memperluas KUR syariah dan sertifikasi halal UMKM, tapi belum ada target waktu, alokasi anggaran, atau aturan turunan yang konkret dalam paparan ini. Yang masih perlu dipantau adalah apakah OJK atau Kemenko Perekonomian akan merilis angka inklusi keuangan syariah terbaru dengan target capaian yang jelas, sebab tanpa itu sulit menilai apakah kesenjangan 13 berbanding 93 persen ini benar-benar mengecil atau sekadar berulang di setiap acara serupa.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
   "category": "Aksi Korporasi",
   "title": "SOFA Panggil RUPSLB untuk [Ubah] Kegiatan Usaha ke Pembiayaan",
@@ -241,7 +269,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar rapat koordinasi, melainkan cakupan sistem satu pintu yang terus meluas, dari puluhan pelabuhan dan bandara untuk ekspor, sampai mekanisme pemblokiran otomatis di sektor tambang lewat SIMBARA. Yang terkena dampak langsung adalah eksportir dan importir yang memakai pelabuhan atau bandara tersebut, serta pelaku usaha mineral dan batu bara yang transaksinya kini bisa otomatis terhenti sistem jika tidak patuh. Polanya mengarah ke pengawasan yang makin bergantung pada sistem digital ketimbang pemeriksaan manual, dan itu diperkuat oleh rencana dua aturan baru, PP Nomor 24 Tahun 2026 soal ekspor komoditas sumber daya alam strategis dan Perpres Nomor 41 Tahun 2026 tentang logistik nasional. Yang perlu dipantau adalah aturan turunan dari kedua regulasi itu, karena di situlah akan terlihat komoditas dan jenis usaha apa saja yang bakal wajib masuk sistem otomatis ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",
@@ -1175,7 +1203,7 @@ var ARTICLES = [
   "category": "Perbankan",
   "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
   "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:27:14.201Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7083/tingkatkan-literasi-dan-inklusi-keuangan-pemerintah-siapkan-layanan-rekening-dan-integrasi-qris-bagi-masyarakat",

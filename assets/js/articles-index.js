@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inklusi-keuangan-syariah-baru-13-persen-jauh-tertinggal",
+  "category": "Perbankan",
+  "title": "Inklusi Keuangan Syariah Baru [13] Persen, Jauh Tertinggal",
+  "deck": "Pemerintah menyoroti kesenjangan akses keuangan syariah yang baru menjangkau 13 persen masyarakat, jauh di bawah layanan konvensional yang sudah 93,53 persen.",
+  "date": "8 September 2026",
+  "image": "assets/img/teller-bank.jpg",
+  "tags": [
+   "ekonomi syariah",
+   "inklusi keuangan",
+   "UMKM",
+   "KUR syariah"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7085/perkuat-ekosistem-ekonomi-syariah-menko-airlangga-dorong-inklusi-keuangan-dan-pemberdayaan-ekonomi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "sofa-panggil-rupslb-untuk-ubah-kegiatan-usaha-ke-pembiayaan",
   "category": "Aksi Korporasi",
   "title": "SOFA Panggil RUPSLB untuk [Ubah] Kegiatan Usaha ke Pembiayaan",
@@ -728,7 +744,7 @@ var ARTICLES = [
   "title": "Pemerintah Siapkan [Rekening] Warga Lewat BRI dan BSI",
   "deck": "Pemerintah menyiapkan rekening bank bagi warga lewat BRI dan BSI, dipadukan data Dukcapil dan QRIS, untuk memperluas akses layanan keuangan formal.",
   "date": "8 September 2026",
-  "image": "assets/img/teller-bank.jpg",
+  "image": "assets/img/brankas-bank.jpg",
   "tags": [
    "inklusi keuangan",
    "QRIS",
@@ -6519,21 +6535,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/esdm-pengembangan-panas-bumi-gunung-ungaran-dilakukan-bertahap-dan-berbasis-kajian",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "mora-peroleh-tambahan-kredit-rp4-triliun-dari-bca",
-  "category": "Aksi Korporasi",
-  "title": "MORA Peroleh Tambahan Kredit [Rp4 Triliun] dari BCA",
-  "deck": "MORA menambah fasilitas kredit investasi hingga Rp4 triliun dari BCA, setara 50,54 persen ekuitas, untuk membiayai perluasan jaringan homepass MyRepublic Indonesia.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MORA",
-   "BCA",
-   "MyRepublic Indonesia",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5df236df34_076591ea64.pdf",
-  "sourceLabel": "IDX"
  }
 ];

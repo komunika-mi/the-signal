@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "zaD-KFNdjfo",
+  "title": "PT KAI Siapkan Kereta Tambahan Imbas Penumpang Pesawat Beralih",
+  "category": "BUMN",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "PT Kereta Api Indonesia menyiapkan sembilan perjalanan kereta tambahan untuk mengantisipasi lonjakan penumpang akibat penutupan sejumlah bandara imbas erupsi Anak Krakatau.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena memperlihatkan respons operasional BUMN transportasi terhadap pergeseran permintaan penumpang antar moda.",
+  "terbit": "2026-09-08T13:42:33+00:00"
+ },
+ {
+  "id": "S61wIpnjB7I",
+  "title": "Harga Masker Melonjak Drastis di Tengah Bencana Erupsi",
+  "category": "Bisnis",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Harga masker kesehatan jenis N95 dan KN95 melonjak drastis akibat sebaran abu vulkanik Gunung Anak Krakatau, memicu dugaan permainan harga oleh sejumlah pihak.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti praktik penetapan harga tidak wajar di pasar saat permintaan melonjak akibat kondisi darurat.",
+  "terbit": "2026-09-08T13:35:47+00:00"
+ },
+ {
   "id": "1scaRAq7LBI",
   "title": "PT Halalan Thayyiban Jaga Kualitas Pasokan Makan Jemaah Haji",
   "category": "Industri",

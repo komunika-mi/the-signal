@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "zaD-KFNdjfo",
+  "title": "PT KAI Siapkan Kereta Tambahan Imbas Penumpang Pesawat Beralih",
+  "category": "BUMN",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "PT Kereta Api Indonesia menyiapkan sembilan perjalanan kereta tambahan untuk mengantisipasi lonjakan penumpang akibat penutupan sejumlah bandara imbas erupsi Anak Krakatau.",
+  "takeaway": "Menarik bagi pembaca ekonomi karena memperlihatkan respons operasional BUMN transportasi terhadap pergeseran permintaan penumpang antar moda."
+ },
+ {
+  "id": "S61wIpnjB7I",
+  "title": "Harga Masker Melonjak Drastis di Tengah Bencana Erupsi",
+  "category": "Bisnis",
+  "program": "Apa Kabar Indonesia Malam",
+  "summary": "Harga masker kesehatan jenis N95 dan KN95 melonjak drastis akibat sebaran abu vulkanik Gunung Anak Krakatau, memicu dugaan permainan harga oleh sejumlah pihak.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti praktik penetapan harga tidak wajar di pasar saat permintaan melonjak akibat kondisi darurat."
+ },
+ {
   "id": "1scaRAq7LBI",
   "title": "PT Halalan Thayyiban Jaga Kualitas Pasokan Makan Jemaah Haji",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "Koalisi Besar Perjuangan Buruh Indonesia menyatakan akan mengawal penuh proses pembahasan Rancangan Undang-Undang Ketenagakerjaan.",
   "takeaway": "Pembahasan RUU ini menyangkut aturan ketenagakerjaan yang berdampak langsung pada pekerja dan pelaku usaha, sehingga relevan untuk dipantau."
- },
- {
-  "id": "8CtcljS12aQ",
-  "title": "Pemerintah Fokus RAPBN 2027 dan Program Lapangan Kerja",
-  "category": "Makroekonomi",
-  "program": "Kabar Utama",
-  "summary": "Pemerintah mengarahkan kebijakan dan RAPBN 2027 pada delapan Program Kerja Prioritas Nasional, termasuk penciptaan lapangan kerja, untuk mendukung target pembangunan Presiden Prabowo Subianto.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena memuat arah kebijakan fiskal dan prioritas ketenagakerjaan yang berdampak pada dunia usaha dan pencari kerja."
- },
- {
-  "id": "l5jJVLJgwXc",
-  "title": "Pemerintah Kembangkan B50 sebagai Pilar Ketahanan Energi",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Indonesia resmi menerapkan mandatori bahan bakar B50, campuran 50 persen biodiesel sawit dan 50 persen solar konvensional, sejak Juli 2026 sebagai bagian dari strategi ketahanan energi.",
-  "takeaway": "Kebijakan B50 berdampak pada industri sawit, sektor energi, dan biaya bahan bakar sehingga penting bagi pembaca ekonomi."
  }
 ];

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih",
+  "category": "Moneter",
+  "title": "Purbaya Klaim Aliran Uang ke Ekonomi RI Mulai [Pulih]",
+  "deck": "Menkeu Purbaya menyebut aliran uang ke ekonomi mulai normal sejak Juli, setelah sempat tersendat pada April-Juni 2026.",
+  "image": "assets/img/purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T18:25:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465777-purbaya-klaim-uang-mulai-banjiri-ekonomi-ri-lagi-dampaknya-segera-dirasakan-masyarakat",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Kementerian Keuangan",
+   "Bank Indonesia",
+   "Uang Beredar"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengklaim aliran uang ke dalam perekonomian Indonesia mulai kembali normal setelah sempat tersendat beberapa bulan sebelumnya. Klaim ini penting karena menyangkut seberapa lancar dana pemerintah dan kebijakan bank sentral benar-benar sampai ke dunia usaha dan masyarakat, bukan hanya tercatat di anggaran.",
+   "Menurut Purbaya, gangguan itu terjadi pada April hingga Juni 2026, ketika penyaluran uang lewat kebijakan fiskal dan moneter sempat tidak berjalan sebagaimana mestinya. Ia menyebut pemerintah bersama Bank Indonesia kemudian memastikan dana yang seharusnya masuk ke sistem kembali disalurkan sejak Juli, berlanjut pada Agustus, dan September 2026.",
+   "Purbaya menyebut dampaknya akan mulai terasa oleh masyarakat, dengan membandingkan kondisi ekonomi tahun ini dan tahun lalu sampai bulan Agustus sebagai relatif sama. Ia menunjuk keramaian jalan sebagai salah satu tanda sederhana aktivitas ekonomi yang berjalan.",
+   "Sebagai indikator lain, Purbaya membandingkan skala demonstrasi Agustus 2026 dengan tahun sebelumnya, yang menurutnya lebih kecil. Ia menilai besar kecilnya demonstrasi bisa menjadi gambaran tingkat kepuasan masyarakat terhadap kondisi ekonomi, dengan asumsi tekanan sosial akan berkurang seiring membaiknya perekonomian."
+  ],
+  "fotoAdegan": "Crowded city street in Jakarta at dusk with heavy traffic and busy roadside food stalls, documentary style, no readable signage",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/17/6a82bb19ac828-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Klaim Purbaya bahwa uang kini mengalir lancar ke perekonomian belum dibarengi angka resmi, misalnya data pertumbuhan uang beredar atau penyaluran kredit bank yang biasa dirilis Bank Indonesia setiap bulan. Bukti yang dia pakai justru bukan angka ekonomi, melainkan pengamatan sehari-hari seperti jalan yang lebih ramai dan demonstrasi Agustus yang dinilai lebih kecil dibanding tahun lalu. Pihak yang paling terdampak oleh macetnya penyaluran uang belanja pemerintah dan kebijakan bank sentral pada April-Juni adalah pelaku usaha yang butuh dana segar untuk modal kerja, serta masyarakat yang menunggu efeknya sampai ke kantong mereka lewat proyek dan program pemerintah. Untuk memastikan apakah pemulihan ini nyata atau sekadar klaim, yang perlu ditunggu adalah data resmi uang beredar dan kredit perbankan periode Juli sampai September dari Bank Indonesia, yang biasanya dirilis awal bulan berikutnya.",
+  "imageV": "mtsmsj7u"
+ },
+ {
   "slug": "insw-perluas-cakupan-layanan-ekspor-impor-digital",
   "category": "Bisnis",
   "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
@@ -28,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar rapat koordinasi, melainkan cakupan sistem satu pintu yang terus meluas, dari puluhan pelabuhan dan bandara untuk ekspor, sampai mekanisme pemblokiran otomatis di sektor tambang lewat SIMBARA. Yang terkena dampak langsung adalah eksportir dan importir yang memakai pelabuhan atau bandara tersebut, serta pelaku usaha mineral dan batu bara yang transaksinya kini bisa otomatis terhenti sistem jika tidak patuh. Polanya mengarah ke pengawasan yang makin bergantung pada sistem digital ketimbang pemeriksaan manual, dan itu diperkuat oleh rencana dua aturan baru, PP Nomor 24 Tahun 2026 soal ekspor komoditas sumber daya alam strategis dan Perpres Nomor 41 Tahun 2026 tentang logistik nasional. Yang perlu dipantau adalah aturan turunan dari kedua regulasi itu, karena di situlah akan terlihat komoditas dan jenis usaha apa saja yang bakal wajib masuk sistem otomatis ini.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "smra-kurangi-penyertaan-modal-rp1-2-triliun-di-anak-usaha",

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih",
+  "category": "Moneter",
+  "title": "Purbaya Klaim Aliran Uang ke Ekonomi RI Mulai [Pulih]",
+  "deck": "Menkeu Purbaya menyebut aliran uang ke ekonomi mulai normal sejak Juli, setelah sempat tersendat pada April-Juni 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/purbaya-klaim-aliran-uang-ke-ekonomi-ri-mulai-pulih.jpg",
+  "imageV": "mtsmsj7u",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Kementerian Keuangan",
+   "Bank Indonesia",
+   "Uang Beredar"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465777-purbaya-klaim-uang-mulai-banjiri-ekonomi-ri-lagi-dampaknya-segera-dirasakan-masyarakat"
+ },
+ {
   "slug": "insw-perluas-cakupan-layanan-ekspor-impor-digital",
   "category": "Bisnis",
   "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
@@ -6518,22 +6535,6 @@ var ARTICLES = [
    "Toba Surimi Industries"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/914182f000_0bfd7bbc27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asjt-koreksi-laporan-realisasi-dana-right-issue-rp98-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ASJT Koreksi Laporan [Realisasi] Dana Right Issue Rp98,2 Miliar",
-  "deck": "Asuransi Jasa Tania mengoreksi laporan realisasi dana rights issue 2021 senilai Rp98,2 miliar. Realisasi mencapai 99,19 persen, sisa Rp797 juta ditempatkan di deposito.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASJT",
-   "rights issue",
-   "asuransi",
-   "realisasi dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/613bc8ceda_357f02d390.pdf",
   "sourceLabel": "IDX"
  }
 ];

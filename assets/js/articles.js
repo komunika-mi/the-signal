@@ -140,7 +140,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang baru dari pernyataan ini bukan proyek atau investasi baru, melainkan sinyal resmi bahwa pemerintah membuka diri terhadap investasi dan alih pengetahuan di bidang energi nuklir, mulai dari reaktor modular berskala kecil hingga pembangkit skala penuh. Ini relevan terutama bagi calon investor sektor energi dan industri yang bergantung pada pasokan listrik jangka panjang, karena nuklir selama ini jarang disebut eksplisit dalam pernyataan resmi presiden soal energi masa depan. Pidato ini belum menyebut proyek, calon mitra, atau target waktu apa pun, sehingga belum bisa dipastikan apakah pernyataan ini akan diikuti langkah konkret seperti kajian Kementerian ESDM atau revisi kebijakan energi nasional. Yang perlu dipantau adalah apakah ada aturan turunan atau kesepakatan kerja sama energi nuklir dengan Rusia yang menyusul setelah kunjungan Presiden Prabowo ke Vladivostok ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "realisasi-investasi-hilirisasi-tembus-rp300-1-triliun",
@@ -168,7 +168,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data paling konkret dari paparan ini adalah porsi hilirisasi yang sudah mencapai 29,7 persen dari total realisasi investasi nasional pada semester I 2026, dengan mayoritas dananya berasal dari investor asing dan tersebar di luar Pulau Jawa. Yang terdampak langsung adalah daerah penghasil komoditas tambang dan perkebunan di luar Jawa yang menerima Rp227,3 triliun investasi tersebut, serta pekerja lokal yang disasar lewat insentif pelatihan dan riset dalam skema super tax deduction. Arahnya, pemerintah tampak mendorong hilirisasi naik kelas dari sekadar pengolahan bahan mentah menjadi kegiatan yang melibatkan transfer teknologi dan riset, bukan cuma menambah pabrik pengolahan dasar. Ini baru bisa dibuktikan lewat data lanjutan, seperti berapa banyak perusahaan yang benar-benar memanfaatkan insentif super tax deduction dan apakah dominasi investasi asing di sektor ini mulai diimbangi investasi domestik pada laporan realisasi semester II 2026.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "indonesia-tawarkan-32-proyek-infrastruktur-ke-investor-jepang",
@@ -196,7 +196,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan tawaran konkret: pemerintah membuka 32 proyek infrastruktur milik sembilan BUMN dan BUMD, dari jalan tol sampai pelabuhan, langsung ke puluhan perusahaan Jepang lewat forum business matching di Tokyo. Yang berkepentingan adalah BUMN pemilik proyek seperti Hutama Karya, Jasa Marga, KAI, dan Pelindo yang butuh mitra pendanaan asing, serta calon investor Jepang seperti Sumitomo dan Mizuho Bank yang mendapat akses ke daftar proyek terkurasi itu. Forum semacam ini masih tahap penjajakan, bukan kesepakatan, karena siaran pers tidak menyebut nilai investasi atau nota kesepahaman yang sudah diteken, jadi arahnya baru sebatas niat memperbanyak pintu masuk investasi Jepang untuk mengejar target pertumbuhan 8 persen pada 2029. Yang akan menunjukkan apakah forum ini berbuah nyata adalah ada tidaknya nota kesepahaman atau komitmen investasi yang diumumkan setelah business matching ini, serta apakah realisasi investasi Jepang di laporan BKPM pada kuartal-kuartal mendatang ikut naik.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "indonesia-irlandia-gelar-dialog-dagang-jelang-ieu-cepa",
@@ -224,7 +224,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini cuma satu: penandatanganan nota kesepahaman atau Letter of Intent soal pengembangan kerja sama ekonomi dan bisnis, bukan perjanjian dagang yang mengikat. Target yang lebih besar adalah IEU-CEPA, perjanjian dagang antara Indonesia dan Uni Eropa, yang menurut Irlandia diharapkan diteken selama negara itu memimpin Dewan Uni Eropa, masa jabatan yang berakhir 31 Desember 2026. Pihak yang paling merasakan dampaknya adalah pelaku usaha anggota KADIN dan APINDO yang berdagang dengan Eropa, mengingat nilai perdagangan Indonesia-Irlandia saat ini masih kecil, hanya US$228,6 juta pada 2025. Ada dua kemungkinan ke depan, IEU-CEPA benar diteken sebelum masa presidensi Irlandia berakhir sesuai harapan yang disampaikan dalam pertemuan ini, atau rencana itu kembali tertunda seperti yang lazim terjadi pada negosiasi perjanjian dagang multilateral. Itu akan ketahuan paling lambat akhir Desember 2026, saat masa presidensi Irlandia di Dewan Uni Eropa berakhir.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "raja-laba-bersih-1h26-melonjak-88-persen-utang-menyusut",

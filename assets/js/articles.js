@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "insw-perluas-cakupan-layanan-ekspor-impor-digital",
+  "category": "Bisnis",
+  "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
+  "deck": "Kemenko Perekonomian melaporkan perluasan sistem satu pintu ekspor impor ke puluhan pelabuhan dan bandara, sambil menyiapkan aturan baru soal ekspor komoditas strategis.",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T11:12:26.359Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7084/tingkatkan-efisiensi-logistik-dan-tata-kelola-perdagangan-melalui-optimalisasi-sistem-indonesia-national-single-window",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "INSW",
+   "Kemenko Perekonomian",
+   "SIMBARA",
+   "logistik"
+  ],
+  "body": [
+   "Kementerian Koordinator Bidang Perekonomian menggelar rapat koordinasi Dewan Pengarah Indonesia National Single Window (INSW) di Jakarta pada Selasa (8/9), forum yang wajib digelar minimal dua kali setahun sesuai Peraturan Presiden Nomor 44 Tahun 2018. INSW sendiri adalah sistem elektronik yang menggabungkan berbagai izin dan layanan ekspor, impor, serta logistik dari banyak instansi ke satu pintu, sehingga pelaku usaha tidak perlu mengurus dokumen yang sama berulang kali ke lembaga berbeda.",
+   "Menurut Sekretaris Kemenko Perekonomian Susiwijono Moegiarso, layanan submisi tunggal untuk ekspor atau Single Submission (SSm) Ekspor kini berjalan di 41 pelabuhan dan 21 bandara, dan sudah terhubung dengan sertifikat kesehatan produk serta pelaporan devisa hasil ekspor. Sementara itu, layanan gabungan bea cukai dan karantina atau SSm Pabean Karantina sudah diterapkan di 23 pelabuhan, dengan tingkat pemakaian penuh alias 100 persen untuk komoditas yang memang wajib mengantongi izin karantina.",
+   "Di sektor pertambangan, Sistem Informasi Mineral dan Batubara (SIMBARA) menyatukan data mulai dari produksi hingga penjualan mineral dan batu bara ke dalam sistem INSW. Sistem ini juga dilengkapi mekanisme pemblokiran otomatis atau auto-blocking, yang menurut Kemenko berfungsi mengawasi kepatuhan pembayaran ke negara dan tata niaga komoditas tersebut.",
+   "Ke depan, Kemenko Perekonomian menyebut penguatan INSW akan diarahkan untuk mendukung tata kelola ekspor komoditas sumber daya alam strategis sesuai Peraturan Pemerintah Nomor 24 Tahun 2026, serta integrasi layanan logistik sebagaimana diamanatkan Peraturan Presiden Nomor 41 Tahun 2026 tentang Penguatan Logistik Nasional."
+  ],
+  "fotoAdegan": "Cargo containers and trucks at a busy Indonesian seaport terminal, cranes loading a ship, workers in vests checking shipments",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah bukan sekadar rapat koordinasi, melainkan cakupan sistem satu pintu yang terus meluas, dari puluhan pelabuhan dan bandara untuk ekspor, sampai mekanisme pemblokiran otomatis di sektor tambang lewat SIMBARA. Yang terkena dampak langsung adalah eksportir dan importir yang memakai pelabuhan atau bandara tersebut, serta pelaku usaha mineral dan batu bara yang transaksinya kini bisa otomatis terhenti sistem jika tidak patuh. Polanya mengarah ke pengawasan yang makin bergantung pada sistem digital ketimbang pemeriksaan manual, dan itu diperkuat oleh rencana dua aturan baru, PP Nomor 24 Tahun 2026 soal ekspor komoditas sumber daya alam strategis dan Perpres Nomor 41 Tahun 2026 tentang logistik nasional. Yang perlu dipantau adalah aturan turunan dari kedua regulasi itu, karena di situlah akan terlihat komoditas dan jenis usaha apa saja yang bakal wajib masuk sistem otomatis ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran MBG 2026 Diprediksi [Turun] di Bawah Rp200 Triliun",
+  "deck": "Menkeu Purbaya menyebut anggaran MBG 2026 bisa di bawah Rp200 triliun, susut dari pagu awal Rp330 triliun, seiring efisiensi kepemimpinan baru Badan Gizi Nasional.",
+  "image": "assets/img/anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:16:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465759-purbaya-ungkap-efisiensi-mbg-anggaran-2026-diprediksi-di-bawah-rp200-triliun",
+  "tags": [
+   "MBG",
+   "Purbaya Yudhi Sadewa",
+   "Badan Gizi Nasional",
+   "Anggaran 2026"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa mengatakan realisasi anggaran program Makan Bergizi Gratis (MBG) tahun ini diperkirakan turun signifikan, bahkan berpotensi berada di bawah Rp200 triliun. Angka itu jauh dari pagu awal yang disiapkan pemerintah, yakni Rp330 triliun. Perkembangan ini penting karena MBG merupakan salah satu program pemerintah dengan alokasi anggaran terbesar, sehingga perubahan besarannya turut memengaruhi kondisi keuangan negara secara keseluruhan.",
+   "Purbaya merinci, anggaran MBG turun bertahap dari Rp330 triliun menjadi Rp270 triliun, lalu menyusut lagi menjadi Rp240 triliun, dan berpotensi turun lebih jauh di bawah Rp200 triliun jika kebijakan efisiensi berjalan sesuai rencana. Ia mengaitkan tren penurunan ini dengan pergantian kepemimpinan Badan Gizi Nasional (BGN), lembaga pelaksana program, yang menurutnya mulai menekan biaya implementasi di lapangan. Keterangan ini disampaikan Purbaya kepada media di Jakarta Pusat, Selasa (8/9/2026), sekaligus mengingatkan bahwa pembengkakan anggaran dapat berujung pada tambahan utang pemerintah jika terjadi kebocoran dalam pelaksanaannya.",
+   "Sebagai bagian dari pengawasan, Kementerian Keuangan mengerahkan jajaran Direktorat Jenderal Perbendaharaan di seluruh Indonesia untuk memantau secara berkala Satuan Pelayanan Pemenuhan Gizi (SPPG), yaitu unit dapur pelaksana MBG di tingkat daerah. Purbaya menegaskan, penurunan kebutuhan anggaran ini menunjukkan pelaksanaan program semakin terkendali, namun efisiensi tersebut tidak boleh mengorbankan kualitas layanan yang menyasar masyarakat luas."
+  ],
+  "fotoAdegan": "Kitchen workers packing meal trays into insulated containers for school distribution, communal kitchen, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/18/6a848b02a70ee-menteri-keuangan-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan aturan program, melainkan perkiraan biayanya: dari rencana awal Rp330 triliun, anggaran MBG direvisi turun ke Rp270 triliun, lalu Rp240 triliun, dan sekarang diperkirakan bisa di bawah Rp200 triliun, atau pemangkasan setidaknya 40 persen dari rencana semula. Yang langsung terdampak adalah Badan Gizi Nasional selaku pelaksana program dan ribuan dapur SPPG di daerah yang kini diawasi lebih ketat oleh petugas Kementerian Keuangan, sementara penerima manfaat seperti siswa dan masyarakat sasaran program bergantung pada apakah pemangkasan ini tetap menjaga kualitas makanan yang dibagikan. Tiga kali revisi turun berturut-turut ini mengarah ke pola penghematan bertahap dalam pelaksanaan MBG, berbeda dari kebiasaan program pemerintah yang anggarannya justru membengkak seiring waktu. Yang akan memastikan apakah tren ini benar-benar terjadi adalah angka realisasi final anggaran MBG pada akhir 2026, sebab proyeksi di bawah Rp200 triliun yang disebut Purbaya masih berupa perkiraan, bukan hasil yang sudah pasti tercapai.",
+  "imageV": "mtsktjtu"
+ },
+ {
   "slug": "saham-dooh-masuk-daftar-pemantauan-khusus-bei-mulai-9-september",
   "category": "Aksi Korporasi",
   "title": "Saham DOOH [Masuk] Daftar Pemantauan Khusus BEI Mulai 9 September",
@@ -55,6 +109,59 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar",
+  "category": "Makroekonomi",
+  "title": "Purbaya Ungkap Strategi Bangun [Ekspektasi] Usai Demo Besar",
+  "deck": "Menkeu Purbaya Yudhi Sadewa mengaku sengaja tampil optimistis untuk membentuk ekspektasi positif pasar setelah demo besar mengguncang awal masa jabatannya.",
+  "image": "assets/img/purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T17:00:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465756-purbaya-curhat-hal-paling-pusing-jadi-menkeu-dari-demo-besar-hingga-gempuran-msci",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Kementerian Keuangan",
+   "kepercayaan investor"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa membuka soal tekanan terberat yang ia hadapi sepanjang setahun menjabat. Menurutnya, bukan urusan teknis mengelola anggaran negara yang paling berat, melainkan bagaimana mengembalikan kepercayaan masyarakat dan investor saat ekonomi Indonesia sedang bergejolak.",
+   "Tantangan itu langsung muncul begitu ia baru dilantik, bersamaan dengan demonstrasi besar yang membuat pemerintah harus cepat memulihkan rasa percaya publik. Purbaya mengaku memakai teori dalam ilmu ekonomi yang disebut self-fulfilling prophecy, atau ramalan yang mewujudkan dirinya sendiri: kalau semua pihak diyakinkan bahwa ekonomi akan membaik, keyakinan itu sendiri yang mendorong orang bertindak sehingga ekonomi benar-benar bergerak ke arah membaik.",
+   "Karena memperbaiki kondisi ekonomi secara nyata butuh waktu, Purbaya memilih tampil percaya diri lewat pernyataan-pernyataan optimistis di depan publik. Sikap ini sempat membuatnya dicap sombong, namun ia menegaskan itu bukan pencitraan, melainkan bagian dari strategi kebijakan untuk mengarahkan ekspektasi masyarakat dan pasar ke sisi positif.",
+   "Ia menjelaskan, ekspektasi punya pengaruh nyata pada keputusan pelaku ekonomi. Ketika investor percaya ekonomi akan membaik, mereka lebih berani menanamkan modal, masyarakat lebih percaya diri berbelanja, dan perusahaan lebih siap melakukan ekspansi usaha."
+  ],
+  "fotoAdegan": "Crowded street protest march passing government office buildings in central Jakarta, overcast afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/08/6a9fdb4767f68-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru dari pernyataan ini bukan kondisi ekonominya, melainkan pengakuan terbuka bahwa optimisme pejabat publik soal ekonomi bisa sengaja dirancang sebagai alat kebijakan, bukan sekadar reaksi spontan. Ini relevan bagi investor dan pelaku pasar karena pernyataan resmi soal arah ekonomi selama ini memang ikut mereka pakai untuk memutuskan menahan atau melepas dana, dan kini terungkap ada unsur strategi komunikasi di baliknya. Berita ini belum memuat angka realisasi investasi, konsumsi, atau pertumbuhan ekonomi terbaru yang bisa membuktikan apakah keyakinan yang dibangun sejak demo besar itu benar-benar terwujud di lapangan. Yang perlu dicermati adalah rilis pertumbuhan ekonomi kuartal berikutnya dan angka realisasi investasi, karena di situ akan terlihat apakah ekspektasi positif yang dibentuk lewat pernyataan optimistis ini sejalan dengan kondisi riil atau tidak.",
+  "imageV": "mtsktka5"
+ },
+ {
+  "slug": "ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank",
+  "category": "Perbankan",
+  "title": "KTP Baru Bakal Otomatis Sertakan Nomor [Rekening] Bank",
+  "deck": "Pemerintah menyiapkan pembukaan rekening otomatis lewat BRI dan BSI berbasis NIK, agar warga yang genap 17 tahun langsung mendapat KTP sekaligus nomor rekening bank.",
+  "image": "assets/img/ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T16:46:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465747-pemerintah-siapkan-rekening-massal-bri-bsi-warga-17-tahun-bakal-dapat-ktp-plus-nomor-rekening",
+  "tags": [
+   "BRI",
+   "BSI",
+   "inklusi keuangan",
+   "rekening bank"
+  ],
+  "body": [
+   "Pemerintah tengah menyiapkan mekanisme agar setiap warga negara Indonesia otomatis memiliki rekening bank, melalui program pembukaan rekening massal yang akan dijalankan oleh Bank Rakyat Indonesia (BRI) dan Bank Syariah Indonesia (BSI). Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengatakan skema ini disiapkan menyusul arahan Presiden Prabowo Subianto yang menginginkan seluruh warga negara memiliki rekening koran. Rencana ini bakal mengubah cara masyarakat, terutama generasi muda, pertama kali berhubungan dengan sistem perbankan.",
+   "Menurut Airlangga, sistem baru ini akan memakai Nomor Induk Kependudukan sebagai basis data dan dijalankan lewat aplikasi digital yang disiapkan BRI dan BSI. Pemerintah juga mempertimbangkan menghubungkan data ini dengan data kependudukan di Direktorat Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri. Jika integrasi ini terwujud, warga yang genap berusia 17 tahun akan langsung menerima KTP sekaligus nomor rekening bank, tanpa perlu mendaftar terpisah ke bank.",
+   "Rekening tersebut rencananya juga tersambung dengan infrastruktur pembayaran Bank Indonesia, termasuk sistem pembayaran kode QR QRIS, sehingga bisa langsung dipakai bertransaksi begitu aktif. Untuk menyiapkan aspek teknisnya, Presiden Prabowo Subianto menugaskan Dewan Nasional Keuangan Inklusif, yang beranggotakan Bank Indonesia, Kementerian Keuangan, dan Otoritas Jasa Keuangan.",
+   "Selain memperluas akses masyarakat ke layanan perbankan dan mendorong literasi keuangan, rekening massal ini juga disiapkan sebagai saluran penyaluran bantuan sosial tunai kepada penerima manfaat."
+  ],
+  "fotoAdegan": "A bank teller assisting a young customer opening a new savings account at a counter, blurred interior, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/30/6a43546d36e46-menko-perekonomian-airlangga-hartarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar imbauan, melainkan rencana menyatukan tiga sistem sekaligus, yaitu data kependudukan Dukcapil, rekening di BRI dan BSI, serta infrastruktur pembayaran QRIS milik Bank Indonesia, dengan NIK sebagai kunci penghubungnya. Pihak yang langsung terdampak adalah warga yang baru akan genap 17 tahun ke depan, karena merekalah yang bakal menerima KTP sekaligus rekening bank sejak awal, juga BRI dan BSI yang harus membangun aplikasi dan sistem pendaftaran otomatis ini. Arahnya tampak menuju perbankan sebagai jalur utama distribusi bantuan sosial tunai, bukan cuma soal inklusi keuangan, karena pemerintah sendiri menyebut rekening ini disiapkan juga untuk penyaluran bansos. Yang masih kurang adalah kepastian teknis, sebab Airlangga sendiri menyebut integrasi data Dukcapil dan perbankan ini masih sebatas dipertimbangkan, bukan keputusan final. Yang perlu dipantau adalah hasil kerja Dewan Nasional Keuangan Inklusif yang ditugaskan menyiapkan aspek teknisnya, karena dari situ akan terlihat apakah rencana ini punya jadwal peluncuran yang jelas.",
+  "imageV": "mtsktkqm"
+ },
+ {
   "slug": "ssia-pangkas-target-pendapatan-2026-jadi-rp7-2-triliun",
   "category": "Aksi Korporasi",
   "title": "SSIA [Pangkas] Target Pendapatan 2026 jadi Rp7,2 Triliun",
@@ -79,6 +186,33 @@ var ARTICLES = [
   "fotoAdegan": "Aerial view of a sprawling industrial estate under development with cleared land plots and heavy equipment, tropical daylight",
   "takeaway": "Laporan ini netral bagi SSIA: manajemen memangkas target pendapatan 2026 dari Rp7,5 triliun menjadi Rp7,2 triliun karena perolehan kontrak baru dan penjualan lahan industri melambat, meski tetap optimistis mengejar pertumbuhan pendapatan 63 persen dan laba bersih sekitar Rp400 miliar, naik 570 persen dari tahun lalu. Pos yang tersentuh adalah pendapatan dan laba bersih, dua angka yang jadi acuan investor untuk menilai apakah bisnis konstruksi dan kawasan industri SSIA tumbuh sesuai rencana atau cuma janji di atas kertas. Realisasi belanja modal semester pertama sudah mencapai Rp1,1 triliun dari total anggaran Rp2,2 triliun, menandakan proyek Subang Smartpolitan dan Paradisus Bali tetap berjalan meski target penjualan direvisi turun. Yang perlu dipantau berikutnya adalah pencapaian target pendapatan Rp7,2 triliun hingga akhir 2026, hasil tender anak usaha NRCA untuk proyek konstruksi data center yang masih menunggu keputusan, dan penyelesaian jalan tol Patimban yang ditargetkan rampung pada 2027 sebagai pendorong nilai kawasan Subang.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "bank-mandiri-bagi-dividen-interim-rp6-16-triliun",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bagi [Dividen] Interim Rp6,16 Triliun",
+  "deck": "Bank Mandiri mencairkan dividen interim Rp6,16 triliun atau Rp66 per saham, sementara kredit dan aset tumbuh dua digit hingga Agustus 2026.",
+  "image": "assets/img/bank-mandiri-bagi-dividen-interim-rp6-16-triliun.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T16:23:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465738-bank-mandiri-tebar-dividen-rp616-triliun-laba-tembus-rp375-triliun-hingga-agustus-2026",
+  "tags": [
+   "Bank Mandiri",
+   "BMRI",
+   "dividen interim",
+   "kredit perbankan"
+  ],
+  "body": [
+   "PT Bank Mandiri (Persero) Tbk membagikan dividen interim tahun buku 2026 sebesar Rp6,16 triliun, setara Rp66 per saham, kepada para pemegang sahamnya. Keputusan ini penting bagi investor karena diambil di tengah kinerja intermediasi perseroan yang masih tumbuh dua digit hingga Agustus 2026, menandakan bank pelat merah ini tetap sanggup membagi keuntungan sambil terus memperbesar penyaluran kredit.",
+   "Direktur Finance & Strategy Bank Mandiri, Novita Widya Anggraini, menyebut pembagian dividen interim ini mencerminkan keyakinan manajemen terhadap fundamental bisnis perseroan ke depan sekaligus bentuk apresiasi kepada pemegang saham, termasuk investor ritel. Persetujuan Dewan Komisaris atas keputusan Direksi terbit pada 3 September 2026, dan diumumkan resmi melalui keterbukaan informasi Bursa Efek Indonesia sehari berikutnya, 4 September 2026. Dengan tambahan ini, total dividen yang telah dibagikan Bank Mandiri sepanjang kalender 2026 mencapai sekitar Rp50,63 triliun.",
+   "Secara bank only, penyaluran kredit Bank Mandiri hingga Agustus 2026 tercatat Rp1.592 triliun, tumbuh 17,6 persen dibanding periode yang sama tahun sebelumnya. Pertumbuhan itu diimbangi kenaikan dana pihak ketiga yang juga naik 17,6 persen menjadi Rp1.687 triliun, sehingga ekspansi kredit tidak membuat bank kekurangan dana simpanan nasabah. Total aset perseroan pada Agustus 2026 mencapai Rp2.358 triliun, naik 20,7 persen dibanding tahun sebelumnya.",
+   "Manajemen menegaskan keputusan dividen tetap memperhitungkan kecukupan modal, likuiditas, dan rasio keuangan lain, serta diklaim tidak mengganggu kapasitas Bank Mandiri untuk melanjutkan ekspansi bisnis ke depan."
+  ],
+  "fotoAdegan": "Interior of a busy modern bank branch with tellers assisting customers at counters, soft morning light through windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/06/26/6a3e50a7b9ae4-bank-mandiri_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah bentuk pembagian labanya: Bank Mandiri mencairkan dividen interim, yaitu bagi hasil yang dibayar sebelum tahun buku selesai dan tidak menunggu rapat pemegang saham tahunan, sebesar Rp6,16 triliun atau Rp66 untuk setiap lembar saham. Dengan tambahan ini, total uang yang sudah dibagikan Bank Mandiri ke pemegang sahamnya sepanjang 2026 naik menjadi sekitar Rp50,63 triliun. Yang menerima manfaat langsung adalah pemegang saham, termasuk investor ritel yang disebut khusus oleh manajemen, sementara bank sendiri harus menjaga agar uang kas yang keluar untuk dividen ini tidak mengganggu kemampuannya menyalurkan kredit. Sinyalnya mengarah ke bank yang percaya diri membagi untung lebih sering karena dana nasabah yang mengalir masuk, disebut dana pihak ketiga, tumbuh sama cepatnya dengan kredit yang disalurkan yaitu sama-sama 17,6 persen, sehingga ekspansi tidak seret meski kas keluar untuk dividen. Yang akan menentukan apakah pola bagi dividen di tengah tahun ini bisa berlanjut adalah laporan keuangan kuartal III 2026 yang biasanya terbit akhir Oktober, terutama apakah bantalan modal bank tetap tebal setelah dividen ini cair.",
+  "imageV": "mtsktl6y"
  },
  {
   "slug": "zp-sesuaikan-harga-waran-terstruktur-bmri-usai-dividen-interim",
@@ -157,6 +291,33 @@ var ARTICLES = [
   "fotoAdegan": "Hotel housekeeping staff tidying a modest guest room, sunlight through curtains, corridor visible outside, Indonesia",
   "takeaway": "Laporan ini negatif bagi AKKU, sebab isinya mengonfirmasi opini audit yang mempertanyakan kelangsungan usaha, dengan akumulasi rugi Rp304,41 miliar dan rugi berjalan yang melonjak 360 persen, sementara satu-satunya sumber pendapatan bertumpu pada satu anak usaha hotel. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang terus tergerus oleh rugi bertahun-tahun, dan arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari operasional, yang sepenuhnya bergantung pada penagihan piutang manajemen fee dari bisnis perhotelan. Opini Wajar Dengan Pengecualian sendiri berarti auditor menilai laporan keuangan secara umum wajar, kecuali dua akun besar, piutang non-usaha dan uang muka senilai total lebih dari Rp637 miliar, yang buktinya belum cukup meyakinkan untuk dipastikan benar. Yang perlu dipantau berikutnya adalah hasil due diligence atas rencana aksi korporasi dan pencarian investor untuk tanah di Bandung dan Bali, yang menurut perseroan belum punya target waktu pasti, serta apakah suspensi perdagangan saham AKKU yang sudah berjalan sejak awal September 2026 kunjung dicabut. Tanpa kepastian waktu dan tanpa rencana restrukturisasi yang konkret, status ketidakpastian usaha ini kemungkinan akan bertahan hingga laporan keuangan berikutnya.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi",
+  "category": "Moneter",
+  "title": "[Rupiah] Menguat Tipis ke Rp17.632, Diramal Turun Lagi",
+  "deck": "Rupiah naik 6 poin ke Rp17.632 per dolar AS, tapi analis memperkirakan pelemahan lagi ke Rp17.630-17.670 pada Rabu (9/9).",
+  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T15:47:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465716-rupiah-ditutup-menguat-6-poin-besok-diprediksi-loyo-lagi-ke-rp17670",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "cadangan devisa",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Nilai tukar rupiah terhadap dolar Amerika Serikat ditutup menguat tipis pada perdagangan Selasa (8/9/2026), naik 6 poin ke level Rp17.632 per dolar AS dari penutupan sebelumnya Rp17.640. Penguatan ini terjadi meski secara intraday rupiah sempat melesat hingga 40 poin sebelum kembali menyempit menjelang penutupan. Bagi masyarakat, pergerakan seperti ini penting karena mempengaruhi harga barang impor, biaya bahan baku, dan ongkos utang berdenominasi dolar, meski kali ini dampaknya masih tipis.",
+   "Pengamat mata uang dan komoditas Ibrahim Assuaibi menyebut penguatan rupiah hari ini belum cukup kuat untuk bertahan di level terbaiknya sepanjang sesi perdagangan. Ia menilai tekanan dari luar negeri dan ketidakpastian pasar global masih membuat pergerakan rupiah naik turun tanpa arah yang mantap. Untuk perdagangan Rabu (9/9/2026), ia memperkirakan rupiah kembali melemah, bergerak di kisaran Rp17.630 hingga Rp17.670 per dolar AS.",
+   "Di sisi lain, Bank Indonesia mencatat cadangan devisa, yakni simpanan dolar dan aset luar negeri lain milik negara yang bisa dipakai sewaktu-waktu, naik menjadi US$146,5 miliar pada akhir Agustus 2026 dari US$145,3 miliar sebulan sebelumnya. BI menyebut kenaikan ini terutama ditopang penerimaan pajak dan jasa, serta penarikan pinjaman luar negeri oleh pemerintah. Meski cadangan bertambah, BI tetap turun tangan menstabilkan rupiah di pasar untuk meredam ketidakpastian keuangan global yang masih tinggi.",
+   "Posisi cadangan devisa tersebut setara dengan kebutuhan pembiayaan impor selama 5,4 bulan, atau 5,3 bulan jika ditambah pembayaran utang luar negeri pemerintah. Angka ini jauh di atas standar kecukupan internasional yang hanya mematok sekitar tiga bulan impor, sehingga menjadi bantalan tambahan bagi Indonesia saat tekanan terhadap rupiah kembali muncul."
+  ],
+  "fotoAdegan": "Modern central bank building facade in Jakarta with Indonesian flag flying, busy street traffic passing in the foreground, midday light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef68b3079a-ilustrasi-nilai-tukar-rupiah-menguat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan 6 poin hari ini tergolong kecil, dan sinyal yang lebih penting justru datang dari luar angka penutupan itu sendiri. Analis pasar sudah memperkirakan penguatan ini tidak bertahan, dengan rupiah diramal melemah lagi besok ke kisaran Rp17.630 sampai Rp17.670. Cadangan devisa memang naik jadi US$146,5 miliar, tapi Bank Indonesia sendiri menyebut pendorongnya termasuk pinjaman luar negeri baru pemerintah, bukan cuma dari hasil ekspor, dan BI tetap harus turun tangan menahan rupiah di pasar meski cadangan bertambah. Gabungan sinyal ini mengarah ke tekanan rupiah yang masih berlanjut, dengan kelompok yang paling terasa dampaknya adalah importir dan perusahaan yang punya utang dalam dolar. Yang akan memastikan bacaan ini adalah apakah penutupan rupiah besok benar-benar jatuh ke atas Rp17.650 seperti prediksi, dan apakah cadangan devisa akhir September masih naik dari sumber yang sama atau mulai bergantung pada utang baru.",
+  "imageV": "mtsktlqp"
  },
  {
   "slug": "ratu-paparkan-kinerja-ekuitas-naik-der-melonjak-ke-2-42x",
@@ -10013,7 +10174,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
   "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-02T05:56:55.112Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -11308,7 +11469,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Penumpang KA Juli Capai 52,12 Juta, [Tertinggi 6 Bulan]",
   "deck": "BPS mencatat jumlah penumpang kereta api naik dua bulan beruntun dan menyentuh level tertinggi sejak awal tahun.",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:59.053Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -11335,7 +11496,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Turis Asing Juli 1,53 Juta, [Naik 4 Bulan Beruntun]",
   "deck": "Kunjungan wisatawan mancanegara Juli 2026 mencapai 1,53 juta orang, melanjutkan tren naik sejak April setelah sempat turun pada Maret.",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:46.858Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -17823,7 +17984,7 @@ var ARTICLES = [
   "category": "Bisnis",
   "title": "Harga Emas Antam [Naik] Lagi Jadi Rp2.768.000 per Gram",
   "deck": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.768.000 per gram hari ini, sementara harga beli kembali juga naik ke Rp2.628.000 per gram.",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "date": "25 Agustus 2026",
   "isoDate": "2026-08-25T09:27:44+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462306-harga-emas-antam-hari-ini-25-agustus-2026-naik-lagi-harganya-jadi-rp2768000-per-gram",

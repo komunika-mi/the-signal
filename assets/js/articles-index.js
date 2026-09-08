@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "insw-perluas-cakupan-layanan-ekspor-impor-digital",
+  "category": "Bisnis",
+  "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
+  "deck": "Kemenko Perekonomian melaporkan perluasan sistem satu pintu ekspor impor ke puluhan pelabuhan dan bandara, sambil menyiapkan aturan baru soal ekspor komoditas strategis.",
+  "date": "8 September 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "INSW",
+   "Kemenko Perekonomian",
+   "SIMBARA",
+   "logistik"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7084/tingkatkan-efisiensi-logistik-dan-tata-kelola-perdagangan-melalui-optimalisasi-sistem-indonesia-national-single-window",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun",
+  "category": "Makroekonomi",
+  "title": "Anggaran MBG 2026 Diprediksi [Turun] di Bawah Rp200 Triliun",
+  "deck": "Menkeu Purbaya menyebut anggaran MBG 2026 bisa di bawah Rp200 triliun, susut dari pagu awal Rp330 triliun, seiring efisiensi kepemimpinan baru Badan Gizi Nasional.",
+  "date": "8 September 2026",
+  "image": "assets/img/anggaran-mbg-2026-diprediksi-turun-di-bawah-rp200-triliun.jpg",
+  "imageV": "mtsktjtu",
+  "tags": [
+   "MBG",
+   "Purbaya Yudhi Sadewa",
+   "Badan Gizi Nasional",
+   "Anggaran 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465759-purbaya-ungkap-efisiensi-mbg-anggaran-2026-diprediksi-di-bawah-rp200-triliun"
+ },
+ {
   "slug": "saham-dooh-masuk-daftar-pemantauan-khusus-bei-mulai-9-september",
   "category": "Aksi Korporasi",
   "title": "Saham DOOH [Masuk] Daftar Pemantauan Khusus BEI Mulai 9 September",
@@ -37,6 +70,39 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar",
+  "category": "Makroekonomi",
+  "title": "Purbaya Ungkap Strategi Bangun [Ekspektasi] Usai Demo Besar",
+  "deck": "Menkeu Purbaya Yudhi Sadewa mengaku sengaja tampil optimistis untuk membentuk ekspektasi positif pasar setelah demo besar mengguncang awal masa jabatannya.",
+  "date": "8 September 2026",
+  "image": "assets/img/purbaya-ungkap-strategi-bangun-ekspektasi-usai-demo-besar.jpg",
+  "imageV": "mtsktka5",
+  "tags": [
+   "Purbaya Yudhi Sadewa",
+   "Kementerian Keuangan",
+   "kepercayaan investor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465756-purbaya-curhat-hal-paling-pusing-jadi-menkeu-dari-demo-besar-hingga-gempuran-msci"
+ },
+ {
+  "slug": "ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank",
+  "category": "Perbankan",
+  "title": "KTP Baru Bakal Otomatis Sertakan Nomor [Rekening] Bank",
+  "deck": "Pemerintah menyiapkan pembukaan rekening otomatis lewat BRI dan BSI berbasis NIK, agar warga yang genap 17 tahun langsung mendapat KTP sekaligus nomor rekening bank.",
+  "date": "8 September 2026",
+  "image": "assets/img/ktp-baru-bakal-otomatis-sertakan-nomor-rekening-bank.jpg",
+  "imageV": "mtsktkqm",
+  "tags": [
+   "BRI",
+   "BSI",
+   "inklusi keuangan",
+   "rekening bank"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465747-pemerintah-siapkan-rekening-massal-bri-bsi-warga-17-tahun-bakal-dapat-ktp-plus-nomor-rekening"
+ },
+ {
   "slug": "ssia-pangkas-target-pendapatan-2026-jadi-rp7-2-triliun",
   "category": "Aksi Korporasi",
   "title": "SSIA [Pangkas] Target Pendapatan 2026 jadi Rp7,2 Triliun",
@@ -51,6 +117,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/71d5704bbe_0700251c4d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-bagi-dividen-interim-rp6-16-triliun",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Bagi [Dividen] Interim Rp6,16 Triliun",
+  "deck": "Bank Mandiri mencairkan dividen interim Rp6,16 triliun atau Rp66 per saham, sementara kredit dan aset tumbuh dua digit hingga Agustus 2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/bank-mandiri-bagi-dividen-interim-rp6-16-triliun.jpg",
+  "imageV": "mtsktl6y",
+  "tags": [
+   "Bank Mandiri",
+   "BMRI",
+   "dividen interim",
+   "kredit perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465738-bank-mandiri-tebar-dividen-rp616-triliun-laba-tembus-rp375-triliun-hingga-agustus-2026"
  },
  {
   "slug": "zp-sesuaikan-harga-waran-terstruktur-bmri-usai-dividen-interim",
@@ -99,6 +182,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d6b8437251_91207ac78c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi",
+  "category": "Moneter",
+  "title": "[Rupiah] Menguat Tipis ke Rp17.632, Diramal Turun Lagi",
+  "deck": "Rupiah naik 6 poin ke Rp17.632 per dolar AS, tapi analis memperkirakan pelemahan lagi ke Rp17.630-17.670 pada Rabu (9/9).",
+  "date": "8 September 2026",
+  "image": "assets/img/rupiah-menguat-tipis-ke-rp17-632-diramal-turun-lagi.jpg",
+  "imageV": "mtsktlqp",
+  "tags": [
+   "rupiah",
+   "dolar AS",
+   "cadangan devisa",
+   "Bank Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465716-rupiah-ditutup-menguat-6-poin-besok-diprediksi-loyo-lagi-ke-rp17670"
  },
  {
   "slug": "ratu-paparkan-kinerja-ekuitas-naik-der-melonjak-ke-2-42x",
@@ -6199,7 +6299,7 @@ var ARTICLES = [
   "title": "Hunian Hotel Bintang Juli 54,54%, [Naik 4 Bulan]",
   "deck": "Tingkat keterisian kamar hotel bintang secara nasional terus naik sejak Maret 2026, kini mencapai 54,54 persen pada Juli.",
   "date": "2 September 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "bps",
    "hotel",
@@ -6440,104 +6540,5 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817626.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli",
-  "category": "Makroekonomi",
-  "title": "Neraca Dagang RI Kembali [Surplus] US$0,12 Miliar di Juli",
-  "deck": "Setelah defisit US$0,45 miliar pada Juni, neraca dagang Juli 2026 surplus tipis US$0,12 miliar, ditopang ekspor nonmigas dan penurunan defisit migas.",
-  "date": "2 September 2026",
-  "image": "assets/img/neraca-dagang-ri-kembali-surplus-us-0-12-miliar-di-juli.jpg",
-  "imageV": "mtj0lz55",
-  "tags": [
-   "neraca dagang",
-   "ekspor nonmigas",
-   "BPS",
-   "impor migas"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817726.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "pertamax-green-95-naik-rp2-550-per-liter",
-  "category": "Energi",
-  "title": "Pertamax Green 95 [Naik] Rp2.550 per Liter",
-  "deck": "Pertamina Patra Niaga menaikkan harga Pertamax Green 95 dari Rp16.600 menjadi Rp19.150 per liter mulai 2 September 2026, menyusul kenaikan BBM nonsubsidi lain sehari sebelumnya.",
-  "date": "2 September 2026",
-  "image": "assets/img/pertamax-green-95-naik-rp2-550-per-liter.jpg",
-  "imageV": "mtj0lzmp",
-  "tags": [
-   "harga BBM",
-   "Pertamina",
-   "BBM nonsubsidi",
-   "Pertamax Green 95"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464270-berlaku-2-september-2026-pertamina-patra-niaga-sesuaikan-harga-pertamax-green-95"
- },
- {
-  "slug": "cash-akan-tambah-tiga-lini-usaha-baru-rupslb-8-oktober",
-  "category": "Aksi Korporasi",
-  "title": "CASH akan [tambah] tiga lini usaha baru, RUPSLB 8 Oktober",
-  "deck": "Cashlez berencana menyesuaikan enam kode usaha dan menambah tiga bidang bisnis baru, sekaligus mengubah alokasi dana hasil IPO, lewat RUPSLB yang dijadwalkan 8 Oktober 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "RUPSLB",
-   "KBLI",
-   "Cashlez"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac4eb55f7f_3f22984fe1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vktr-jajaki-pendanaan-rp2-triliun-dari-danantara-non-binding",
-  "category": "Aksi Korporasi",
-  "title": "VKTR Jajaki Pendanaan Rp2 Triliun dari Danantara [Non-Binding]",
-  "deck": "VKTR menandatangani indicative non-binding term sheet dengan Danantara Investment Management dan Bakrie & Brothers untuk pendanaan hingga Rp2 triliun.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VKTR",
-   "Danantara Investment Management",
-   "Bakrie & Brothers",
-   "pendanaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/538ddc143e_5b1574b315.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbre-rights-issue-dilusi-bisa-capai-72-22-persen",
-  "category": "Aksi Korporasi",
-  "title": "CBRE Rights Issue: [Dilusi] Bisa Capai 72,22 Persen",
-  "deck": "CBRE menawarkan rights issue hingga Rp1,27 triliun dengan dilusi maksimal 72,22 persen. Pemegang saham utama OIH melepas seluruh haknya, dibayar lewat konversi utang oleh empat investor baru.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "rights issue",
-   "HMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/99fb68166b_957a60ce24.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgas-jelaskan-ke-bursa-isi-putusan-parsial-arbitrase-gunvor",
-  "category": "Aksi Korporasi",
-  "title": "PGAS Jelaskan ke Bursa Isi Putusan [Parsial] Arbitrase Gunvor",
-  "deck": "PGN merinci ke Bursa Efek Indonesia isi putusan arbitrase London yang menyatakan penolakan force majeure dan mewajibkan kompensasi ke Gunvor, namun nilainya belum diungkap.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGAS",
-   "arbitrase",
-   "Gunvor",
-   "LNG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb3955ead1_ea2641e3d8.pdf",
-  "sourceLabel": "IDX"
  }
 ];

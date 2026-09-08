@@ -3,6 +3,241 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
+  "category": "Aksi Korporasi",
+  "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
+  "deck": "Laporan bulanan KIK EBA Mandiri GIAA01 periode Agustus 2026 mencatat tunggakan penyerahan pendapatan tiket rute Timur Tengah sebesar Rp1,06 triliun, lebih besar dari pendapatan yang sudah diterima.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:34:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cf06686b_746778b752.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGIA01",
+  "tags": [
+   "MGIA01",
+   "EBA",
+   "pasar modal",
+   "surat utang"
+  ],
+  "body": [
+   "PT Mandiri Manajemen Investasi selaku manajer investasi menyampaikan laporan bulanan Kontrak Investasi Kolektif Efek Beragun Aset (KIK EBA) Mandiri GIAA01, surat berharga yang haknya melekat pada pendapatan penjualan tiket pesawat, untuk periode Agustus 2026. Surat ditandatangani Direktur Utama Hardiyanto Pilia dan dikirim ke Bursa Efek Indonesia pada 7 September 2026, dengan bank kustodian PT Bank Maybank Indonesia Tbk. Jumlah efek beragun aset yang dipegang oleh investor tercatat Rp812.325.000.000, dengan laporan keuangan KIK EBA yang terakhir diaudit per 31 Desember 2025.",
+   "Dokumen menyebutkan pendapatan tiket dari rute Timur Tengah, yaitu Jeddah dan Madinah, sepanjang periode yang dilaporkan tercatat Rp608.624.660.798. Namun jumlah yang lebih besar justru ada di pos tunggakan: dana pendapatan tiket rute Jeddah dan Madinah yang belum diserahkan ke struktur EBA mencapai Rp1.056.295.438.228, atau lebih tinggi dari pendapatan yang sudah diterima pada periode yang sama. Angka pada bagian ini berasal dari hasil pindaian dokumen sehingga perlu dibaca dengan hati-hati, tetapi besarannya cukup mencolok untuk dicatat.",
+   "Manajer investasi memperkirakan pembayaran pokok dan imbal hasil kepada pemegang EBA selama 12 bulan ke depan sebesar Rp131.000.000.000. Nilai pasar wajar tiap kelas efek beragun aset dihitung memakai harga acuan dari Penilai Harga Efek Indonesia (PHEI). Tidak ada informasi material lain terkait perubahan komposisi portofolio atau potensi perubahan arus kas yang dilaporkan pada periode ini."
+  ],
+  "fotoAdegan": "Airline passengers with carry-on luggage queuing near a boarding gate in a busy Indonesian airport terminal at dawn",
+  "takeaway": "Laporan ini condong negatif karena dana hasil penjualan tiket yang belum diserahkan ke struktur EBA, Rp1,06 triliun, justru lebih besar daripada pendapatan tiket yang sudah masuk pada periode yang sama. EBA jenis ini adalah surat utang yang pembayarannya bergantung pada arus kas dari penjualan tiket pesawat rute Jeddah dan Madinah, jadi kalau uang tiket lambat disetor ke rekening penampungan, dana yang tersedia untuk membayar bunga dan pokok ke pemegang EBA ikut tertahan meski secara akuntansi pendapatannya sudah tercatat. Yang perlu dipantau adalah laporan bulanan berikutnya untuk periode September 2026, apakah tunggakan itu mengecil, serta realisasi pembayaran pokok dan imbal hasil Rp131 miliar yang dijanjikan dalam 12 bulan ke depan kepada pemegang EBA.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptpp-kebut-tol-kataraja-progres-94-9-jelang-tenggat-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kebut Tol Kataraja, Progres [94,9%] Jelang Tenggat Oktober",
+  "deck": "PTPP melaporkan progres pembangunan Tol Kataraja Seksi 1 mencapai 94,9% dengan sisa pekerjaan 5,077%, sementara uji pembebanan Jembatan Ramp 1 JC Sedyatmo sudah tuntas akhir Agustus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:33:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ebe9d4ca0_4bbb0845dc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "Tol Kataraja",
+   "infrastruktur",
+   "konstruksi"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk melaporkan progres pembangunan Jalan Tol Kataraja Seksi 1 (STA 0+000-6+700) telah mencapai 94,9%, dengan sisa pekerjaan 5,077%. Proyek bernilai kontrak Rp1,46 triliun sebelum PPN ini memiliki masa pelaksanaan hingga 14 Oktober 2026. Ruas tol yang menghubungkan Jalan Tol Prof. Dr. Sedyatmo di Jakarta Utara menuju Kosambi, Tangerang, ini sudah difungsikan sejak 9 Oktober 2025 untuk arah PIK 2 menuju Jakarta dan arah Bandara Soekarno-Hatta menuju PIK 2, serta memperoleh kategori Bintang 5 dalam Uji Laik Fungsi bersama Kementerian Pekerjaan Umum, Kementerian Perhubungan, dan Korlantas Polri.",
+   "Sebagai bagian dari tahap keberterimaan jembatan, Jembatan Ramp 1 Junction Sedyatmo telah menjalani uji pembebanan pada 27 hingga 29 Agustus 2026 bersama Kementerian Pekerjaan Umum melalui Balai Keamanan Jembatan dan Terowongan Khusus (BKJTK). Pengujian dilakukan secara dinamis dan statis mengacu pada Pedoman Penyelenggaraan Keamanan Jembatan Khusus Nomor 13/P/BM/2025. PTPP juga menyebut penerapan sejumlah inovasi rekayasa, antara lain mengurangi jumlah segmen pengecoran jembatan box girder di atas Sungai Kamal dari 12 menjadi 7 segmen per traveller sehingga pekerjaan erection lebih cepat satu bulan dari target, serta pemasangan lebih dari 100 sensor pemantau kesehatan struktur pada Jembatan JC Sedyatmo yang memiliki bentang lebih dari 100 meter dan radius terkecil sekitar 88 meter.",
+   "Corporate Secretary PTPP Joko Raharjo mengatakan tuntasnya uji pembebanan Jembatan Ramp 1 JC Sedyatmo menunjukkan komitmen perusahaan menyelesaikan proyek sesuai target dengan memperhatikan kualitas dan keselamatan konstruksi."
+  ],
+  "fotoAdegan": "Engineers checking sensor cables on a large elevated highway bridge under construction, heavy machinery nearby, overcast daylight",
+  "takeaway": "Laporan ini netral bagi PTPP karena sifatnya pembaruan progres proyek konstruksi yang rutin, bukan aksi korporasi yang mengubah struktur permodalan atau kepemilikan saham. Yang tersentuh di sini adalah potensi pendapatan dari kontrak konstruksi senilai Rp1,46 triliun, karena penyelesaian proyek yang berjalan sesuai target memperbesar peluang pendapatan itu diakui tepat waktu dan mengurangi risiko denda akibat keterlambatan. Pelaku pasar konstruksi biasa mencermati rasio progres fisik dibanding sisa waktu kontrak seperti ini untuk menilai kemampuan eksekusi perusahaan. Yang perlu dipantau selanjutnya adalah penyelesaian sisa pekerjaan 5,077% sebelum tenggat kontrak 14 Oktober 2026, karena keterlambatan dari tanggal itu berpotensi menimbulkan konsekuensi kontraktual bagi PTPP.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "intd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "INTD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "BEI meminta INTD menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menyatakan tidak mengetahui adanya informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T10:06:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f9317d46d_674e51c540.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTD",
+  "tags": [
+   "INTD",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia meminta penjelasan dari PT Inter-Delta Tbk (INTD) mengenai volatilitas transaksi saham perseroan melalui surat nomor S-11351/BEI.PP3/09-2026. Inter-Delta merespons melalui surat nomor 040/CS/ID/IX/2026 tertanggal 7 September 2026, yang ditandatangani Direktur Kevin Wong dan dilaporkan secara elektronik ke bursa pada 8 September 2026 pukul 10.06 WIB oleh Finance Controller Satriani Ligatsyah.",
+   "Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/2015 tentang Keterbukaan Informasi. Perseroan juga menegaskan tidak mengetahui informasi yang dapat memengaruhi harga saham sesuai Peraturan Bursa Nomor I-E, serta tidak mengetahui adanya aktivitas dari pemegang saham tertentu, termasuk soal perubahan kepemilikan saham atau penjaminan saham sebagaimana diatur dalam POJK Nomor 4 Tahun 2024.",
+   "Perseroan menambahkan bahwa sampai saat ini belum ada rencana aksi korporasi dalam waktu dekat, setidaknya dalam tiga bulan ke depan, yang akan berdampak pada status pencatatan sahamnya di bursa. Inter-Delta juga menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang bersifat material dan dapat memengaruhi harga saham maupun kelangsungan usaha perseroan yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Traders in blurred motion walking through a modern Jakarta stock exchange lobby, glass and steel interior, daylight streaming in",
+  "takeaway": "Surat ini condong netral bagi Inter-Delta karena isinya semata konfirmasi resmi bahwa tidak ada rencana bisnis atau informasi tersembunyi di balik pergerakan sahamnya, bukan kabar baru soal kinerja perusahaan. Permintaan penjelasan seperti ini biasanya dipicu oleh lonjakan harga atau volume transaksi yang di luar kebiasaan, sehingga isi suratnya sendiri tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham, melainkan sekadar menutup pertanyaan bursa soal kemungkinan informasi orang dalam. Yang perlu dipantau adalah apakah gejolak harga dan volume saham INTD mereda dalam beberapa hari ke depan atau justru berlanjut, karena perseroan sendiri menegaskan tidak ada aksi korporasi yang direncanakan setidaknya hingga awal Desember 2026, tiga bulan sejak surat ini terbit pada 7 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rigs-jawab-bursa-soal-volatilitas-klaim-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "RIGS Jawab Bursa soal [Volatilitas], Klaim Tak Ada Info Material",
+  "deck": "Menanggapi permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Rig Tenders Tbk menyatakan tidak ada informasi material dan pemegang saham utama belum berencana mengubah kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:53:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e233baf688_7f226d080b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RIGS",
+  "tags": [
+   "RIGS",
+   "Rig Tenders",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Rig Tenders Tbk (RIGS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) setelah menerima surat permintaan penjelasan bernomor S-11328/BEI.PP3/09-2026 terkait volatilitas transaksi efeknya. Dalam surat balasan bernomor 016/CS-SPEIDX/Ext/IX/2026 tertanggal 8 September 2026, perseroan menegaskan tidak memiliki informasi atau fakta material apa pun yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi. Perseroan juga menyatakan tidak ada informasi yang wajib diungkapkan berdasarkan ketentuan III.2.1 Peraturan Nomor I-E Bursa (Kep-00087/BEI/12-2025) selain yang sudah pernah dipublikasikan sebelumnya.",
+   "Terkait aktivitas pemegang saham, RIGS menyebut bahwa setiap bulan perseroan sudah rutin menyampaikan Laporan Bulanan Registrasi Pemegang Efek kepada OJK, BEI, dan publik, dengan data yang diperoleh dari Biro Administrasi Efek. Perubahan kepemilikan saham, jika ada, disebut telah tercakup dalam laporan bulanan tersebut sesuai POJK Nomor 11/POJK.04/2017. Perseroan turut memastikan tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa, dan tidak ada informasi atau kejadian penting lain yang material yang belum diungkapkan ke publik.",
+   "Poin yang lebih spesifik menyangkut pemegang saham utama, PT Surya Indah Muara Pantai (SIMP). Corporate Secretary RIGS, Diah Triani Puspitasari, menyatakan telah mengonfirmasi langsung kepada SIMP, dan pemegang saham utama itu menjawab bahwa pihaknya selalu mempertimbangkan peluang terkait investasinya di RIGS, namun sampai saat ini belum memiliki rencana konkret untuk mengubah kepemilikan sahamnya dalam waktu dekat. Perseroan berjanji akan mengungkapkan informasi lebih lanjut ke OJK, BEI, dan publik apabila rencana SIMP tersebut berubah di kemudian hari."
+  ],
+  "fotoAdegan": "A weathered offshore supply vessel moored at an Indonesian port terminal, deckhands coiling thick ropes under an overcast sky",
+  "takeaway": "Tanggapan ini condong netral bagi RIGS karena perseroan menegaskan tidak ada informasi tersembunyi yang mendorong pergerakan sahamnya, sehingga tidak mengubah gambaran fundamental perusahaan. Permintaan semacam ini biasanya muncul ketika harga atau volume perdagangan saham bergerak di luar kebiasaan, dan bursa ingin memastikan investor tidak bertransaksi berdasarkan kabar yang belum diungkap resmi, bukan karena ada perubahan pada modal, arus kas, atau utang perseroan. Yang perlu dicermati adalah konfirmasi bahwa pemegang saham utama, PT Surya Indah Muara Pantai, belum berencana mengubah porsi kepemilikannya di RIGS, sebab jika sikap itu berubah perseroan wajib mengumumkannya kembali sesuai aturan OJK. Pemantauan berikutnya adalah laporan bulanan registrasi pemegang efek RIGS periode mendatang, yang akan memperlihatkan apakah komposisi pemegang saham benar-benar tidak bergeser seperti dijanjikan dalam surat ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "post-pemegang-sukuk-tolak-restrukturisasi-pos-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "POST: Pemegang Sukuk Tolak [Restrukturisasi] Pos Indonesia",
+  "deck": "Rapat pemegang Sukuk Ijarah Pos Indonesia menolak proposal restrukturisasi utang dan permintaan keringanan atas pelanggaran syarat keuangan pinjaman periode 2025-2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:46:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8abc148e1f_29412f11e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "sukuk",
+   "restrukturisasi"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) menggelar Rapat Umum Pemegang Sukuk (RUPSI) untuk Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap II Tahun 2025 pada 4 September 2026 di kantor pusat perusahaan di Jakarta. Rapat dihadiri pemegang sukuk yang mewakili Rp459,6 miliar atau 91,92 persen dari total pokok sukuk Rp500 miliar, setelah dikurangi kepemilikan afiliasi emiten senilai Rp10 juta. Perusahaan diwakili Direktur Utama Muhammad Iskandar dan Direktur Keuangan Fathul Anwar, sementara PT Bank Tabungan Negara (Persero) Tbk bertindak selaku wali amanat.",
+   "Agenda pertama hanya berisi pemaparan kondisi terkini Pos Indonesia sehingga tidak dilakukan pemungutan suara. Agenda kedua meminta persetujuan restrukturisasi Pos Indonesia sebagai bagian dari Rencana Transformasi dan Restrukturisasi, namun ditolak dengan hasil suara setuju 47,10 persen (Rp216,5 miliar), tidak setuju 52,68 persen (Rp242,1 miliar), dan abstain 0,22 persen (Rp1 miliar). Agenda ketiga meminta keringanan (waiver) atas pelanggaran syarat keuangan pinjaman dalam laporan keuangan auditan periode 31 Desember 2025 dan 31 Desember 2026, dan juga ditolak dengan suara setuju 49,06 persen (Rp225,5 miliar), tidak setuju 50,72 persen (Rp233,1 miliar), dan abstain 0,22 persen (Rp1 miliar).",
+   "Karena kedua agenda memerlukan persetujuan minimal tiga perempat suara yang hadir sesuai perjanjian perwaliamanatan dan aturan OJK, hasil suara yang tidak mencapai mayoritas sederhana membuat keduanya otomatis gagal. Akibatnya, rencana perubahan atau addendum perjanjian perwaliamanatan yang semula disiapkan menyusul persetujuan rapat batal dijalankan. Pengumuman ini merupakan koreksi atas surat sebelumnya dengan nomor yang sama yang diterbitkan pada hari yang sama, 8 September 2026."
+  ],
+  "fotoAdegan": "Postal delivery trucks parked in a busy loading yard at dusk, workers stacking parcels under warehouse floodlights",
+  "takeaway": "Hasil RUPSI ini negatif bagi Pos Indonesia, karena pemegang sukuk menolak baik rencana restrukturisasi utang maupun permintaan keringanan atas pelanggaran syarat keuangan pinjaman untuk periode 2025 dan 2026. Yang tersentuh adalah arus kas dan beban bunga perusahaan, sebab syarat keuangan pinjaman atau financial covenant adalah batas rasio keuangan yang wajib dijaga peminjam, dan kalau dilanggar tanpa keringanan, pemegang sukuk berhak menuntut pelunasan dipercepat sehingga membebani kas perusahaan yang sedang menyusun rencana pemulihan. Yang perlu dipantau berikutnya adalah apakah Pos Indonesia dan wali amanat BTN akan menggelar RUPSI ulang dengan proposal baru, karena dokumen ini tidak menyebut jadwal rapat lanjutan, sementara laporan keuangan auditan periode 31 Desember 2026 akan menjadi titik uji berikutnya apakah pelanggaran syarat keuangan ini berulang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "klbf-laba-turun-2-8-meski-penjualan-naik-14-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Laba] Turun 2,8% Meski Penjualan Naik 14% di Semester I",
+  "deck": "Materi Public Expose Tahunan Kalbe Farma menunjukkan penjualan semester I 2026 naik 14% menjadi Rp19,5 triliun, tapi laba bersih turun 2,8% akibat tekanan margin.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:26:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbc6db9783_8b9c4e8404.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KLBF",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "body": [
+   "Kalbe Farma Tbk menyampaikan materi Public Expose Tahunan ke Bursa Efek Indonesia melalui surat yang ditandatangani corporate secretary Maria Teresa Fabiola pada 8 September 2026, merujuk pada pengumuman rencana public expose yang sudah disampaikan perseroan pada 28 Agustus 2026. Materi tersebut memuat kinerja keuangan per 30 Juni 2026 yang akan dipaparkan langsung dalam acara Public Expose pada 11 September 2026.",
+   "Total penjualan konsolidasi Kalbe naik 14,0 persen dari Rp17,08 triliun pada semester I 2025 menjadi Rp19,48 triliun pada semester I 2026. Segmen Distribusi dan Logistik, yang dikelola anak usaha PT Enseval Putera Megatrading Tbk (dimiliki 91,98 persen), tumbuh paling tinggi yaitu 26,6 persen menjadi Rp7,21 triliun dan menyumbang 37 persen dari total penjualan. Segmen Consumer Health naik 10,9 persen menjadi Rp2,71 triliun (13,9 persen kontribusi), Obat Resep (Prescription Pharmaceuticals) naik 7,3 persen menjadi Rp5,3 triliun (27,2 persen kontribusi), dan Nutrisi naik 6,5 persen menjadi Rp4,26 triliun (21,9 persen kontribusi).",
+   "Meski penjualan naik, margin kotor menyusut dari 41,0 persen menjadi 37,6 persen akibat kenaikan harga bahan baku dan perubahan komposisi produk, sehingga laba bersih turun 2,8 persen dari Rp1,975 triliun menjadi Rp1,919 triliun. Di sisi lain, rasio beban operasional terhadap penjualan justru membaik dari 26,7 persen menjadi 24,9 persen, dengan beban penjualan turun dari 21,0 persen ke 19,8 persen, beban umum dan administrasi dari 4,2 persen ke 3,8 persen, dan beban riset dari 1,5 persen ke 1,2 persen.",
+   "Dari sisi permodalan, total utang perseroan naik dari Rp112 miliar pada akhir 2025 menjadi Rp628 miliar per Juni 2026, dengan rasio utang terhadap ekuitas (gearing ratio) naik dari 0,5 persen menjadi 2,4 persen. Saham treasuri tercatat 1.564.531.430 lembar atau 3,34 persen dari modal disetor per 30 Juni 2026, hasil program pembelian kembali saham yang sudah terealisasi penuh untuk tahap senilai Rp1 triliun (Mei 2024-April 2025) dan Rp250 miliar (Mei-Agustus 2025), sementara dua tahap lanjutan senilai masing-masing Rp250 miliar baru terealisasi 21 persen dan 18 persen per posisi Maret 2026. Kapitalisasi pasar Kalbe tercatat Rp35,81 triliun dengan porsi saham publik (free float) 38,31 persen."
+  ],
+  "fotoAdegan": "Workers in sterile uniforms inspecting rows of medicine bottles on a pharmaceutical production line, bright clean facility",
+  "takeaway": "Laporan ini condong negatif bagi Kalbe Farma karena pertumbuhan penjualan 14 persen tidak terbawa ke laba bersih, yang justru turun 2,8 persen akibat tekanan biaya bahan baku dan perubahan komposisi produk. Yang tersentuh adalah margin kotor, yaitu selisih antara harga jual dan biaya produksi sebelum dikurangi beban operasional, yang turun dari 41 persen menjadi 37,6 persen, tanda bahwa perusahaan makin sulit mempertahankan untung dari tiap rupiah penjualan meski volume naik. Di sisi lain, total utang memang naik dari Rp112 miliar menjadi Rp628 miliar dalam enam bulan, tapi rasio utang terhadap modal (gearing ratio) cuma naik ke 2,4 persen, masih jauh dari level yang mengkhawatirkan bagi perusahaan sebesar Kalbe. Yang perlu dipantau adalah pemaparan langsung manajemen dalam acara Public Expose Tahunan pada 11 September 2026, yang menurut materi ini akan membahas strategi menghadapi tekanan daya beli domestik dan fluktuasi kurs yang disebut sendiri oleh perusahaan sebagai tantangan utama tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rampungkan Akuisisi [Nextier], NAC-NGC Jadi Anak Usaha",
+  "deck": "MGLV menandatangani akta pengambilalihan saham NAC dan NGC dari NDC pada 7 September 2026, merampungkan transaksi akuisisi yang sebelumnya sempat tertunda karena permintaan penjelasan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:11:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4be4aede13_5abbbe8b22.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "akuisisi",
+   "Nextier",
+   "rights issue"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menandatangani akta pengambilalihan saham pada 7 September 2026 dengan PT Nextier Datamate Center (NDC). Lewat akta itu, MGLV mengambil alih seluruh saham NDC di PT Nextier Askara Center (NAC) dan PT Nextier GenAi Center (NGC). Perseroan menyatakan seluruh saham NDC di kedua perusahaan itu telah efektif beralih kepadanya, sehingga MGLV kini resmi tercatat sebagai pemegang saham NAC dan NGC.",
+   "Penandatanganan ini merupakan pelaksanaan dari transaksi yang sebelumnya diuraikan dalam Keterbukaan Informasi Perseroan tanggal 28 Juli 2026, sebagaimana diubah lewat Perubahan dan/atau Tambahan Informasi pada 3 September 2026. Laporan disampaikan ke OJK dan Bursa Efek Indonesia oleh Corporate Secretary MGLV, Putra Harianto Bate'e, sehari setelah akta diteken.",
+   "Rencana pengambilalihan NAC dan NGC ini sebelumnya sempat tertunda karena OJK meminta penjelasan tambahan, sebelum RUPS untuk membahas transaksi tersebut dijadwalkan ulang pada 7 September 2026, tepat hari yang sama dengan penandatanganan akta. Transaksi ini juga berkaitan dengan rencana rights issue MGLV senilai Rp2,4 triliun yang berpotensi mendilusi kepemilikan pemegang saham publik sekitar 13 persen, serta pinjaman Rp4 triliun dari NDC yang sebelumnya disebut bernilai 563,59 persen dari ekuitas Perseroan."
+  ],
+  "fotoAdegan": "Technicians walking between rows of server racks in a data center aisle, blinking status lights, cool blue industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik MGLV, karena resmi mengunci transaksi pengambilalihan NAC dan NGC yang skalanya jauh melampaui ukuran Perseroan sendiri dan sebagian dibiayai utang Rp4 triliun dari pihak berelasi NDC. Transaksi ini menyentuh pos ekuitas dan jumlah saham beredar, sebab rights issue Rp2,4 triliun yang menyertainya menambah lembar saham beredar dan berpotensi menggerus laba per saham, yaitu bagian laba bersih yang jatuh ke setiap lembar saham investor. Masuknya NAC dan NGC ke neraca MGLV juga akan menambah beban bunga dari pinjaman NDC tersebut, pos yang dicermati pelaku pasar karena mengurangi laba bersih yang bisa dibagikan ke pemegang saham. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasi pertama yang memasukkan NAC dan NGC, serta laporan realisasi penggunaan dana rights issue yang wajib diumumkan Perseroan setelah dana itu terpakai. Kejelasan soal penjelasan tambahan yang sempat diminta OJK sebelum RUPS 7 September juga patut ditunggu, mengingat penandatanganan akta ini jatuh tepat di hari yang sama dengan jadwal RUPS tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "post-panggil-rupo-rupsi-usul-standstill-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "POST Panggil RUPO & RUPSI, Usul [Standstill] Bayar Utang",
+  "deck": "Pos Indonesia mengundang pemegang obligasi dan sukuk ke rapat 21 September 2026 untuk membahas penundaan pembayaran utang hingga akhir 2026 dan perpanjangan tenor hingga 2032.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T09:07:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6468377930_72aec221a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "restrukturisasi utang",
+   "sukuk"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) (POST), melalui wali amanat PT Bank Tabungan Negara (Persero) Tbk, memanggil pemegang Obligasi I Pos Indonesia Tahun 2022 dan Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I Tahun 2024 untuk menghadiri Rapat Umum Pemegang Obligasi dan Sukuk (RUPO & RUPSI) pada Senin, 21 September 2026, di Culture Hall, PosBloc Lantai 2, Jalan Pos Nomor 2, Jakarta Pusat. RUPO bagi pemegang obligasi berlangsung pukul 09.00 hingga 12.00 WIB dengan registrasi mulai pukul 08.00, sedangkan RUPSI bagi pemegang sukuk berlangsung pukul 14.00 hingga 17.00 WIB dengan registrasi mulai pukul 12.30.",
+   "Enam agenda diajukan dalam rapat ini. Selain penjelasan kondisi perusahaan dan rencana transformasi bisnis, perseroan mengusulkan penundaan sementara atau standstill pembayaran pokok dan imbalan jasa hingga 31 Desember 2026, penyesuaian tingkat imbalan jasa, perpanjangan tenor Obligasi Seri B serta Sukuk Ijarah Seri A dan Seri B hingga tahun 2032, perubahan peruntukan sisa dana hasil sukuk dari semula untuk investasi menjadi modal kerja perusahaan, dan pengesampingan atau waiver atas pelanggaran syarat keuangan berdasarkan laporan keuangan audit periode 31 Desember 2025 dan 31 Desember 2026.",
+   "Rapat ini diselenggarakan atas permintaan Pos Indonesia sendiri selaku emiten. Keputusan baru sah dan mengikat jika RUPO dan RUPSI dihadiri atau diwakili sedikitnya tiga perempat dari total obligasi dan sukuk yang belum dilunasi, serta disetujui oleh sedikitnya tiga perempat dari jumlah yang hadir dalam rapat. Pemanggilan ini terbit tak lama setelah pemegang sukuk menolak usulan restrukturisasi serupa dalam RUPSI sebelumnya."
+  ],
+  "fotoAdegan": "Postal delivery workers sorting parcels inside a large logistics warehouse, forklifts moving pallets under fluorescent lighting",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena permintaan standstill pembayaran utang, perpanjangan tenor hingga 2032, dan permohonan pengesampingan pelanggaran syarat keuangan menunjukkan perusahaan belum mampu memenuhi kewajiban utangnya sesuai jadwal semula, apalagi usulan serupa sebelumnya sudah ditolak pemegang sukuk. Yang tersentuh adalah arus kas dan struktur utang perusahaan: standstill berarti pembayaran pokok dan imbalan ditunda sehingga kas yang seharusnya keluar tertahan sementara, sementara syarat keuangan atau financial covenant adalah batas rasio keuangan yang wajib dijaga peminjam, dan permintaan pengesampingan atasnya biasanya jadi tanda bahwa rasio itu sudah atau berpotensi dilanggar. Yang perlu dipantau adalah hasil RUPO dan RUPSI pada 21 September 2026, karena keputusan baru sah jika dihadiri sedikitnya tiga perempat total obligasi dan sukuk yang belum lunas serta disetujui tiga perempat dari yang hadir, dan mengingat upaya restrukturisasi sebelumnya gagal disetujui, hasil pemungutan suara kali ini akan menentukan apakah Pos Indonesia bisa menghindari risiko gagal bayar.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "rigs-laba-bersih-anjlok-42-jadi-rp55-4-miliar-fy2026",
+  "category": "Aksi Korporasi",
+  "title": "RIGS: Laba Bersih [Anjlok] 42% Jadi Rp55,4 Miliar FY2026",
+  "deck": "Laba bersih Rig Tenders turun 42 persen menjadi Rp55,35 miliar untuk tahun buku berakhir 30 Juni 2026, seiring pendapatan yang juga menyusut dari Rp365,9 miliar menjadi Rp291,1 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T08:58:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260908091133-64265-0/FinancialStatement-2025-Tahunan-RIGS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RIGS",
+  "tags": [
+   "RIGS",
+   "laporan keuangan tahunan",
+   "laba bersih turun",
+   "emiten pelayaran"
+  ],
+  "body": [
+   "Rig Tenders Tbk (RIGS) menyampaikan laporan keuangan tahunan konsolidasian untuk tahun buku yang berakhir pada 30 Juni 2026, diaudit oleh KAP Kanel dan Rekan dengan opini wajar tanpa modifikasian atau opini bersih tanpa catatan, ditandatangani oleh partner Wenny Sugianto yang sudah tiga tahun menangani audit perusahaan ini. Pendapatan perusahaan tercatat Rp291,13 miliar, turun dari Rp365,90 miliar pada tahun sebelumnya. Laba bersih ikut turun signifikan menjadi Rp55,35 miliar dari Rp95,65 miliar, sehingga laba per saham dasar turun dari Rp157,02 menjadi Rp90,87.",
+   "Dari sisi neraca, total aset perusahaan naik menjadi Rp927,33 miliar dari Rp870,43 miliar setahun sebelumnya, sementara total liabilitas hanya Rp17,15 miliar, naik tipis dari Rp16,45 miliar. Ekuitas bertambah menjadi Rp910,18 miliar dari Rp853,98 miliar. Kas dan setara kas perusahaan berkurang dari Rp197,85 miliar menjadi Rp63,42 miliar, namun sebagian besar dana itu berpindah ke investasi jangka pendek yang naik dari Rp172,47 miliar menjadi Rp441,36 miliar, sehingga total dana likuid perusahaan justru bertambah. Piutang usaha pihak ketiga turun dari Rp81,82 miliar menjadi Rp50,13 miliar, sementara nilai aset tetap, yang sebagian besar berupa kapal, turun dari Rp398,72 miliar menjadi Rp357,12 miliar.",
+   "Auditor menyoroti nilai tercatat kapal milik grup sebagai hal audit utama karena nilainya mencapai Rp328,67 miliar atau 35,44 persen dari total aset, dan menjadi aset kunci yang menggerakkan arus kas dari bisnis penyewaan kapal. Prosedur yang dilakukan auditor mencakup pengamatan fisik kapal serta reviu perhitungan nilai wajar berdasarkan nilai pakai untuk memastikan tidak ada indikasi penurunan nilai. Anak usaha utama RIGS, PT Batuah Abadi Lines, yang bergerak di bidang penyewaan kapal dan telah beroperasi komersial sejak 1993, tercatat memiliki total aset Rp733,92 miliar dengan kepemilikan RIGS sebesar 99,99 persen."
+  ],
+  "fotoAdegan": "Weathered offshore support vessels tied up at a busy Indonesian harbor, tugboats idling nearby under an overcast morning sky.",
+  "takeaway": "Laporan ini condong negatif karena laba bersih Rig Tenders anjlok 42 persen dan pendapatan menyusut 20 persen dibanding tahun sebelumnya, sinyal bahwa bisnis penyewaan kapalnya melemah meski neracanya masih sehat. Yang tersentuh adalah laba per saham, yang turun dari Rp157 menjadi Rp91, serta ROE dan ROA, dua ukuran yang menunjukkan seberapa efisien perusahaan menghasilkan laba dari modal dan asetnya, yang sama sama nyaris separuh dari tahun lalu. Pelaku pasar memperhatikan angka ini karena penurunan efisiensi laba biasanya membuat investor menilai ulang kinerja perusahaan meski aset dan ekuitasnya masih bertambah. Auditor juga menandai nilai buku kapal, yang mencapai 35 persen dari total aset perusahaan, sebagai hal audit utama yang akan terus direviu tiap tahun untuk kemungkinan penurunan nilai. Yang perlu dipantau berikutnya adalah apakah tren penurunan pendapatan dan laba ini berlanjut di laporan berikutnya, terutama setelah RIGS baru saja menjawab pertanyaan bursa soal volatilitas sahamnya tanpa mengungkap informasi material baru.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
   "category": "BUMN",
   "title": "HET Pupuk Bersubsidi [Turun] 20 Persen, Aturan Baru Berlaku",

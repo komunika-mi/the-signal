@@ -5,6 +5,150 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mgia01-piutang-tiket-rp1-06-triliun-belum-disetor-ke-eba",
+  "category": "Aksi Korporasi",
+  "title": "MGIA01: Piutang Tiket Rp1,06 Triliun Belum [Disetor] ke EBA",
+  "deck": "Laporan bulanan KIK EBA Mandiri GIAA01 periode Agustus 2026 mencatat tunggakan penyerahan pendapatan tiket rute Timur Tengah sebesar Rp1,06 triliun, lebih besar dari pendapatan yang sudah diterima.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGIA01",
+   "EBA",
+   "pasar modal",
+   "surat utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cf06686b_746778b752.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-kebut-tol-kataraja-progres-94-9-jelang-tenggat-oktober",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Kebut Tol Kataraja, Progres [94,9%] Jelang Tenggat Oktober",
+  "deck": "PTPP melaporkan progres pembangunan Tol Kataraja Seksi 1 mencapai 94,9% dengan sisa pekerjaan 5,077%, sementara uji pembebanan Jembatan Ramp 1 JC Sedyatmo sudah tuntas akhir Agustus.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "Tol Kataraja",
+   "infrastruktur",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ebe9d4ca0_4bbb0845dc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intd-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "INTD Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
+  "deck": "BEI meminta INTD menjelaskan lonjakan volatilitas transaksi sahamnya. Perseroan menyatakan tidak mengetahui adanya informasi material maupun rencana aksi korporasi dalam waktu dekat.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTD",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f9317d46d_674e51c540.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rigs-jawab-bursa-soal-volatilitas-klaim-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "RIGS Jawab Bursa soal [Volatilitas], Klaim Tak Ada Info Material",
+  "deck": "Menanggapi permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Rig Tenders Tbk menyatakan tidak ada informasi material dan pemegang saham utama belum berencana mengubah kepemilikannya.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RIGS",
+   "Rig Tenders",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e233baf688_7f226d080b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-pemegang-sukuk-tolak-restrukturisasi-pos-indonesia",
+  "category": "Aksi Korporasi",
+  "title": "POST: Pemegang Sukuk Tolak [Restrukturisasi] Pos Indonesia",
+  "deck": "Rapat pemegang Sukuk Ijarah Pos Indonesia menolak proposal restrukturisasi utang dan permintaan keringanan atas pelanggaran syarat keuangan pinjaman periode 2025-2026.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "sukuk",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8abc148e1f_29412f11e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "klbf-laba-turun-2-8-meski-penjualan-naik-14-di-semester-i",
+  "category": "Aksi Korporasi",
+  "title": "KLBF: [Laba] Turun 2,8% Meski Penjualan Naik 14% di Semester I",
+  "deck": "Materi Public Expose Tahunan Kalbe Farma menunjukkan penjualan semester I 2026 naik 14% menjadi Rp19,5 triliun, tapi laba bersih turun 2,8% akibat tekanan margin.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KLBF",
+   "Kalbe Farma",
+   "laporan keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbc6db9783_8b9c4e8404.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-rampungkan-akuisisi-nextier-nac-ngc-jadi-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Rampungkan Akuisisi [Nextier], NAC-NGC Jadi Anak Usaha",
+  "deck": "MGLV menandatangani akta pengambilalihan saham NAC dan NGC dari NDC pada 7 September 2026, merampungkan transaksi akuisisi yang sebelumnya sempat tertunda karena permintaan penjelasan OJK.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "akuisisi",
+   "Nextier",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4be4aede13_5abbbe8b22.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-panggil-rupo-rupsi-usul-standstill-bayar-utang",
+  "category": "Aksi Korporasi",
+  "title": "POST Panggil RUPO & RUPSI, Usul [Standstill] Bayar Utang",
+  "deck": "Pos Indonesia mengundang pemegang obligasi dan sukuk ke rapat 21 September 2026 untuk membahas penundaan pembayaran utang hingga akhir 2026 dan perpanjangan tenor hingga 2032.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "restrukturisasi utang",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6468377930_72aec221a2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rigs-laba-bersih-anjlok-42-jadi-rp55-4-miliar-fy2026",
+  "category": "Aksi Korporasi",
+  "title": "RIGS: Laba Bersih [Anjlok] 42% Jadi Rp55,4 Miliar FY2026",
+  "deck": "Laba bersih Rig Tenders turun 42 persen menjadi Rp55,35 miliar untuk tahun buku berakhir 30 Juni 2026, seiring pendapatan yang juga menyusut dari Rp365,9 miliar menjadi Rp291,1 miliar.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RIGS",
+   "laporan keuangan tahunan",
+   "laba bersih turun",
+   "emiten pelayaran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260908091133-64265-0/FinancialStatement-2025-Tahunan-RIGS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "het-pupuk-bersubsidi-turun-20-persen-aturan-baru-berlaku",
   "category": "BUMN",
   "title": "HET Pupuk Bersubsidi [Turun] 20 Persen, Aturan Baru Berlaku",
@@ -6396,157 +6540,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464126-plts-pln-bawa-harapan-baru-ke-pulau-rengit-belitung"
- },
- {
-  "slug": "27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81",
-  "category": "Makroekonomi",
-  "title": "27 Provinsi [Inflasi] Agustus, Babel-Maluku Tertinggi 0,81%",
-  "deck": "BPS mencatat 27 provinsi alami inflasi bulanan Agustus 2026, 11 provinsi deflasi. Bangka Belitung dan Maluku catat kenaikan harga tertinggi, masing-masing 0,81 persen.",
-  "date": "1 September 2026",
-  "image": "assets/img/27-provinsi-inflasi-agustus-babel-maluku-tertinggi-0-81.jpg",
-  "imageV": "mtifhqgs",
-  "tags": [
-   "inflasi",
-   "bps",
-   "deflasi",
-   "harga pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464124-27-provinsi-dilanda-inflasi-bangka-belitung-dan-maluku-tertinggi-hingga-081-persen"
- },
- {
-  "slug": "bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800",
-  "category": "Makroekonomi",
-  "title": "BI Ramal Ekonomi RI [Tumbuh] 6% di 2027, Rupiah Rp17.300-17.800",
-  "deck": "BI memproyeksikan ekonomi Indonesia tumbuh 5,2-6 persen pada 2027, naik dari 4,9-5,7 persen tahun ini, dengan rupiah di kisaran Rp17.300-Rp17.800 per dolar AS.",
-  "date": "1 September 2026",
-  "image": "assets/img/bi-ramal-ekonomi-ri-tumbuh-6-di-2027-rupiah-rp17-300-17-800.jpg",
-  "imageV": "mtifhqwa",
-  "tags": [
-   "Bank Indonesia",
-   "Pertumbuhan Ekonomi",
-   "Rupiah",
-   "2027"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464122-bi-ramal-ekonomi-ri-bisa-tumbuh-6-pada-2027-rupiah-dipatok-rp17300-rp17800-per-dolar-as"
- },
- {
-  "slug": "impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri",
-  "category": "Makroekonomi",
-  "title": "Impor Mesin dan Elektronik [Naik], Kuasai 37,88% Nonmigas RI",
-  "deck": "BPS mencatat impor mesin, peralatan elektrik, dan plastik menyumbang 37,88 persen dari total impor nonmigas RI sepanjang Januari-Juli 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/impor-mesin-dan-elektronik-naik-kuasai-37-88-nonmigas-ri.jpg",
-  "imageV": "mtifhr1c",
-  "tags": [
-   "impor",
-   "BPS",
-   "nonmigas",
-   "manufaktur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464120-impor-mesin-dan-elektronik-melonjak-tembus-3788-persen-dari-total-impor-nonmigas-ri"
- },
- {
-  "slug": "pln-dukung-target-plts-100-gwp-untuk-swasembada-energi",
-  "category": "Energi",
-  "title": "PLN Dukung Target PLTS [100] GWp untuk Swasembada Energi",
-  "deck": "PLN menyatakan siap mengakselerasi pembangunan PLTS usai Presiden Prabowo Subianto meluncurkan program 100 gigawatt peak, dengan tahap awal 14 proyek berkapasitas 5.300 megawatt peak.",
-  "date": "1 September 2026",
-  "image": "assets/img/pln-dukung-target-plts-100-gwp-untuk-swasembada-energi.jpg",
-  "imageV": "mtifhrhd",
-  "tags": [
-   "PLTS",
-   "energi terbarukan",
-   "PLN",
-   "swasembada energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464117-dukung-plts-100-gwp-pln-siap-akselerasi-pengembangan-ebt-menuju-swasembada-energi"
- },
- {
-  "slug": "ptba-cetak-laba-rp2-65-triliun-di-semester-i-2026-naik-218",
-  "category": "Aksi Korporasi",
-  "title": "PTBA Cetak Laba [Rp2,65 Triliun] di Semester I 2026, Naik 218%",
-  "deck": "Laba bersih PT Bukit Asam melonjak 218 persen menjadi Rp2,65 triliun pada semester I 2026, didorong kenaikan harga jual batu bara meski volume produksi turun 10 persen dibanding tahun lalu.",
-  "date": "1 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "Bukit Asam",
-   "batu bara",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d60fece20c_e4bd2c1539.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impor-ri-tembus-us-163-33-m-bahan-baku-melonjak",
-  "category": "Makroekonomi",
-  "title": "Impor RI Tembus US$163,33 M, Bahan Baku [Melonjak]",
-  "deck": "BPS mencatat impor Indonesia naik 19,94 persen jadi US$163,33 miliar sepanjang Januari-Juli 2026, didorong lonjakan bahan baku industri dan migas.",
-  "date": "1 September 2026",
-  "image": "assets/img/impor-ri-tembus-us-163-33-m-bahan-baku-melonjak.jpg",
-  "imageV": "mtifhrx0",
-  "tags": [
-   "impor",
-   "BPS",
-   "bahan baku",
-   "migas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464105-impor-indonesia-tembus-us16333-miliar-bahan-baku-jadi-primadona-utama"
- },
- {
-  "slug": "pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat",
-  "category": "UMKM",
-  "title": "Pendaftar UMK Academy Pertamina [Tembus] 4.000, Naik 2 Kali Lipat",
-  "deck": "Pendaftaran program pembinaan UMKM binaan Pertamina ditutup 31 Agustus 2026 dengan lebih dari 4.000 pelaku usaha mendaftar, hampir dua kali lipat dibanding tahun sebelumnya.",
-  "date": "1 September 2026",
-  "image": "assets/img/pendaftar-umk-academy-pertamina-tembus-4-000-naik-2-kali-lipat.jpg",
-  "imageV": "mtifhscq",
-  "tags": [
-   "Pertamina",
-   "UMKM",
-   "UMK Academy",
-   "TJSL"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464104-pendaftaran-ditutup-lebih-dari-4000-pelaku-usaha-mendaftar-pertamina-umk-academy-2026"
- },
- {
-  "slug": "pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun",
-  "category": "Energi",
-  "title": "PLN Serap Listrik Sampah Bekasi, [223.584] MWh per Tahun",
-  "deck": "PLN teken kesepakatan menyerap listrik dari PSEL Kota Bekasi sebanyak 223.584 MWh per tahun, seiring pemerintah memangkas aturan proyek sampah jadi energi dari ratusan menjadi tiga.",
-  "date": "1 September 2026",
-  "image": "assets/img/pln-serap-listrik-sampah-bekasi-223-584-mwh-per-tahun.jpg",
-  "imageV": "mtifhstx",
-  "tags": [
-   "pln",
-   "psel bekasi",
-   "sampah jadi listrik",
-   "energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464102-bekasi-siap-produksi-listrik-dari-sampah-pln-akan-serap-dan-salurkan-223584-mwh-per-tahun"
- },
- {
-  "slug": "pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september",
-  "category": "BUMN",
-  "title": "Pertamina [Gabungkan] PET ke Patra Niaga, Berlaku September",
-  "deck": "Pertamina resmi meleburkan PT Pertamina Energy Terminal ke PT Pertamina Patra Niaga sebagai tahap kedua restrukturisasi bisnis hilir, efektif 1 September 2026.",
-  "date": "1 September 2026",
-  "image": "assets/img/pertamina-gabungkan-pet-ke-patra-niaga-berlaku-september.jpg",
-  "imageV": "mtir87k0",
-  "tags": [
-   "Pertamina",
-   "Pertamina Patra Niaga",
-   "restrukturisasi BUMN",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464099-perkuat-transformasi-pertamina-selesaikan-restrukturisasi-bisnis-hilir-tahap-kedua"
  }
 ];

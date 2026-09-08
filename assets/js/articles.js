@@ -191,7 +191,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pengumuman ini adalah perpanjangan bantuan beras: penyaluran yang sudah berjalan sampai September dilanjutkan tiga bulan lagi hingga Desember, sesuai arahan Presiden Prabowo Subianto, meski pemerintah tidak menyebut total anggaran atau jumlah keluarga penerima. Yang terdampak jelas dua kelompok berbeda, yaitu keluarga penerima bantuan pangan di satu sisi, dan warga serta pelaku usaha di sekitar lima sampai enam gunung berapi yang meletus di sisi lain, termasuk sektor penerbangan dan kargo yang disebut sudah terganggu. Pola ini bisa dibaca sebagai upaya pemerintah menjadikan bantuan pangan sebagai penyangga menjelang akhir tahun sambil mengantisipasi guncangan pasokan akibat cuaca ekstrem dan bencana, tetapi belum jelas apakah ini kebijakan yang akan berlanjut ke tahun depan atau respons khusus untuk tahun ini saja. Yang masih kurang untuk menilai seberapa serius dampak erupsi terhadap ekonomi adalah angka konkret, seperti persentase kontraksi di provinsi mana saja, berapa lama pembatasan penerbangan berlangsung, dan provinsi mana yang paling parah terdampak, karena semua itu menurut Kemenko Perekonomian masih dalam tahap pemantauan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pemerintah-siapkan-rekening-warga-lewat-bri-dan-bsi",
@@ -219,7 +219,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar angka inklusi keuangan, melainkan rencana konkret membuka rekening warga lewat dua bank pelat merah dan menyambungkannya dengan QRIS, dengan data kependudukan Dukcapil dipadankan ke sistem Bank Indonesia. Pihak yang langsung terkena adalah warga yang belum punya rekening bank, serta BRI dan BSI yang ditunjuk sebagai pelaksana. Ada dua arah yang mungkin dari sini, pertama ini murni program perluasan akses perbankan biasa, kedua ini bisa jadi infrastruktur baru untuk menyalurkan bantuan atau subsidi langsung ke rekening warga, seperti tersirat dari pernyataan Airlangga bahwa program pemerintah nantinya akan dikirim ke rekening yang disiapkan. Bukti saat ini condong ke opsi kedua, tapi belum ada kejelasan siapa target penerima rekening ini atau kapan mulai berjalan, sehingga yang perlu ditunggu adalah aturan turunan soal skema pemadanan data Dukcapil-BI dan jadwal peluncuran rekening oleh BRI-BSI yang belum diumumkan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "asbi-panggil-rupslb-agendakan-pergantian-direksi",

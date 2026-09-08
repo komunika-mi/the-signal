@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ppgd-catatkan-obligasi-dan-sukuk-rp5-6-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PPGD Catatkan [Obligasi] dan Sukuk Rp5,6 Triliun di BEI",
+  "deck": "IDX mencatatkan tiga instrumen surat utang PPGD (Pegadaian) tahap kedua senilai total Rp5,61 triliun mulai 9 September 2026, berperingkat AAA dengan wali amanat Bank Mega.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T00:08:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5afcb911b5_21d88965f7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi korporasi",
+   "sukuk"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan awal tiga instrumen surat utang PPGD, yaitu PT Pegadaian (Persero), yang mulai berlaku 9 September 2026. Ketiganya adalah tahap kedua dari program penawaran umum berkelanjutan yang sama: Obligasi Berkelanjutan VII senilai Rp1,91 triliun, Sukuk Mudharabah Berkelanjutan IV senilai Rp2,3 triliun, dan Obligasi Berwawasan Sosial Berkelanjutan II senilai Rp1,39 triliun, sehingga total dana pada tahap ini mencapai sekitar Rp5,61 triliun. Wali amanat untuk seluruh instrumen adalah PT Bank Mega Tbk, dengan peringkat idAAA dari Pefindo dan AAA(idn) dari Fitch Ratings Indonesia untuk obligasi dan obligasi berwawasan sosial, serta idAAA(sy) untuk sukuk mudharabah.",
+   "Setiap instrumen terbagi dalam dua seri dengan struktur imbal hasil yang sama. Seri A bertenor 370 hari kalender dan jatuh tempo 18 September 2027 dengan kupon tetap 7,30 persen per tahun, sedangkan Seri B bertenor tiga tahun dan jatuh tempo 8 September 2029 dengan kupon 7,40 persen per tahun. Untuk sukuk mudharabah, imbal hasilnya memakai skema bagi hasil dengan nisbah 16,9767 persen untuk Seri A dan 17,2094 persen untuk Seri B, yang disebut Pegadaian setara bunga 7,30 persen dan 7,40 persen per tahun. Bunga dan bagi hasil dibayarkan setiap tiga bulan dengan pembayaran pertama pada 8 Desember 2026, sementara pokok utangnya baru dilunasi sekaligus saat jatuh tempo.",
+   "Program penawaran umum berkelanjutan ini sudah efektif sejak 30 Juni 2026, dengan total target dana Rp25 triliun untuk Obligasi Berkelanjutan VII, Rp5 triliun untuk Sukuk Mudharabah Berkelanjutan IV, dan Rp7 triliun untuk Obligasi Berwawasan Sosial Berkelanjutan II. Pada tahap pertama tahun ini, Pegadaian sudah lebih dulu menerbitkan Rp1 triliun obligasi, Rp500 miliar sukuk mudharabah, dan Rp500 miliar obligasi berwawasan sosial. Obligasi dan sukuk ini tidak dijamin dengan agunan khusus, melainkan dengan seluruh harta kekayaan perseroan, dan baru bisa dibeli kembali oleh Pegadaian paling cepat satu tahun setelah tanggal penjatahan pada 4 September 2026."
+  ],
+  "fotoAdegan": "A pawnshop teller weighing gold jewelry on a small scale at a counter, blurred customer in foreground, warm afternoon light",
+  "takeaway": "Laporan ini netral bagi Pegadaian, karena penerbitan tahap kedua ini memang sudah direncanakan sejak izin efektif OJK pada akhir Juni lalu sehingga bukan kejutan bagi pasar, dan peringkat AAA dari dua lembaga pemeringkat menandakan risiko gagal bayar dinilai sangat rendah. Yang tersentuh adalah beban bunga dan arus kas perusahaan, sebab setiap tahun Pegadaian kini menanggung kewajiban bunga tetap sekitar 7,3 sampai 7,4 persen dari total Rp5,61 triliun dana baru ini, dibayar setiap tiga bulan, sementara pokoknya baru dilunasi sekaligus saat jatuh tempo. Bagi perusahaan pembiayaan seperti Pegadaian, utang baru semacam ini lazim dipakai memutar dana yang disalurkan sebagai pinjaman ke nasabah gadai, tapi tetap menambah beban tetap yang harus dibayar terlepas dari kondisi bisnis. Yang perlu dipantau selanjutnya adalah pembayaran bunga dan bagi hasil pertama pada 8 Desember 2026, serta kelanjutan Tahap III dari program ini, mengingat total dana yang sudah terkumpul dari dua tahap, sekitar Rp2,9 triliun untuk obligasi konvensional, masih jauh dari target Rp25 triliun yang dicanangkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "medc-lunasi-obligasi-rp600-miliar-berhenti-diperdagangkan",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Lunasi Obligasi [Rp600 Miliar], Berhenti Diperdagangkan",
+  "deck": "Obligasi Berkelanjutan IV Medco Energi Internasional Tahap I Seri B senilai Rp600 miliar jatuh tempo 9 September 2026 dan berhenti diperdagangkan di Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T00:00:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b92a1a87cf_f60f36c206.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "jatuh tempo",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan IV Medco Energi Internasional Tahap I Tahun 2021 Seri B milik PT Medco Energi Internasional Tbk (MEDC), dengan kode seri MEDC04BCN1, jatuh tempo pada 9 September 2026. Mulai tanggal itu, obligasi senilai Rp600 miliar tersebut tidak lagi tercatat dan tidak bisa diperdagangkan di bursa.",
+   "Obligasi Seri B ini diterbitkan pada 9 September 2021 dengan tenor 60 bulan atau lima tahun, membawa bunga tetap 8,50 persen per tahun yang dibayarkan setiap tiga bulan. Pokok obligasi dilunasi sekaligus penuh (bullet payment) pada tanggal jatuh tempo, bersamaan dengan pembayaran bunga terakhir. Wali amanat obligasi ini adalah PT Bank Rakyat Indonesia (Persero) Tbk.",
+   "Obligasi ini merupakan bagian dari Penawaran Umum Berkelanjutan IV Medco Energi Internasional dengan target dana Rp5 triliun. Pada tahap pertama tahun 2021, perusahaan menerbitkan total Rp1 triliun yang terbagi dalam dua seri: Seri A senilai Rp400 miliar berbunga 7,75 persen bertenor 36 bulan yang sudah jatuh tempo pada 9 September 2024, dan Seri B yang kini menyusul jatuh tempo. Saat diterbitkan, obligasi ini memperoleh peringkat idA+ (Single A Plus) dari PT Pemeringkat Efek Indonesia."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform workers in hard hats inspecting pipelines at dusk, Indonesian energy installation",
+  "takeaway": "Laporan ini netral bagi MEDC, karena jatuh tempo obligasi adalah kewajiban pembayaran yang memang sudah dijadwalkan sejak penerbitan lima tahun lalu, bukan tanda masalah keuangan mendadak. Yang tersentuh adalah kas dan utang jangka panjang perusahaan: pelunasan pokok Rp600 miliar sekaligus menyedot kas dalam jumlah besar pada satu waktu, tapi setelah itu beban bunga tahunan sebesar 8,5 persen dari nilai pokok tersebut juga hilang dari laporan keuangan MEDC ke depan. Yang perlu dipantau adalah realisasi pembayaran pokok dan bunga terakhir tepat pada 9 September 2026, yaitu besok, untuk memastikan tidak ada kendala pembayaran, serta kelanjutan rencana penerbitan Obligasi Berkelanjutan IV Tahap II yang menurut prospektus masih akan ditentukan kemudian, mengingat sisa target dana dari program Rp5 triliun ini masih Rp4 triliun yang belum diterbitkan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-aims-melonjak-25-dalam-sehari-bursa-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham [AIMS] Melonjak 25% dalam Sehari, Bursa Minta Klarifikasi",
+  "deck": "Harga saham AIMS naik 25 persen dan volume transaksi melonjak nyaris 12 kali dalam sehari; emiten menyatakan tidak ada informasi material di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "8 September 2026",
+  "isoDate": "2026-09-08T23:53:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/587f7103d5_acd4f3d2aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AIMS",
+  "tags": [
+   "AIMS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "IDX"
+  ],
+  "body": [
+   "PT Artha Mahiya Investama Tbk (AIMS) mengirim surat penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi bursa melalui surat nomor S-11261/BEI.PP2/09-2026 tanggal 2 September 2026, terkait pergerakan tidak biasa pada perdagangan saham AIMS tanggal 1 September 2026. Bursa mencatat harga saham AIMS ditutup naik Rp101 atau 25 persen, dari Rp404 pada hari bursa sebelumnya menjadi Rp505. Volume transaksi pada hari itu melonjak menjadi 4.503.600 saham dengan frekuensi 1.086 kali transaksi, jauh di atas hari sebelumnya yang hanya 379.900 saham dengan 184 kali transaksi.",
+   "Dalam suratnya yang ditandatangani Corporate Secretary Anton Hidayat, AIMS menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham perusahaan terbuka.",
+   "Soal rencana bisnis, AIMS mengaku belum memiliki rencana tindakan korporasi yang final dalam tiga bulan ke depan, namun tengah menjajaki, mengidentifikasi, dan mengevaluasi beberapa perusahaan potensial sebagai calon perusahaan sasaran sejalan dengan rencana pengembangan usahanya. Perseroan juga mengaku belum bisa menghubungi pemegang saham utama untuk mengonfirmasi rencananya terkait kepemilikan saham di AIMS, meski surat bursa secara khusus meminta Corporate Secretary menanyakan hal itu lebih dulu."
+  ],
+  "fotoAdegan": "Wide exterior view of the Indonesia Stock Exchange tower in Jakarta at dusk, traffic blurred in the foreground, distant angle",
+  "takeaway": "Netral, karena surat ini murni jawaban rutin atas permintaan klarifikasi bursa dan tidak memuat fakta baru yang mengubah kondisi keuangan emiten. Lonjakan harga 25 persen dengan volume transaksi yang melonjak hampir 12 kali lipat biasanya dibaca pasar sebagai gejala spekulasi jangka pendek, bukan sinyal fundamental, karena tidak ada perubahan pada ekuitas, arus kas, atau jumlah saham beredar yang diungkapkan di sini. Yang perlu dicermati adalah pengakuan bahwa Perseroan tengah menjajaki beberapa calon perusahaan sasaran untuk pengembangan usaha; kalau salah satu penjajakan ini berlanjut jadi transaksi nyata dalam tiga bulan ke depan, itu baru berpotensi mengubah struktur bisnis dan permodalan AIMS. Poin lain yang mengganjal adalah Perseroan mengaku belum bisa menghubungi pemegang saham utama soal rencana kepemilikannya, yang idealnya dijelaskan lebih lanjut karena menyangkut transparansi tata kelola. Pembaca sebaiknya memantau apakah dalam beberapa bulan ke depan Perseroan mengumumkan salah satu dari penjajakan tersebut, atau apakah bursa kembali meminta penjelasan bila harga saham AIMS kembali bergerak tidak wajar.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "adhi-panggil-rupslb-untuk-restrukturisasi-dan-konversi-utang",
   "category": "Aksi Korporasi",
   "title": "ADHI Panggil RUPSLB untuk [Restrukturisasi] dan Konversi Utang",

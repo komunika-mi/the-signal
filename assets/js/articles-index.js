@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ppgd-catatkan-obligasi-dan-sukuk-rp5-6-triliun-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "PPGD Catatkan [Obligasi] dan Sukuk Rp5,6 Triliun di BEI",
+  "deck": "IDX mencatatkan tiga instrumen surat utang PPGD (Pegadaian) tahap kedua senilai total Rp5,61 triliun mulai 9 September 2026, berperingkat AAA dengan wali amanat Bank Mega.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi korporasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5afcb911b5_21d88965f7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-lunasi-obligasi-rp600-miliar-berhenti-diperdagangkan",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Lunasi Obligasi [Rp600 Miliar], Berhenti Diperdagangkan",
+  "deck": "Obligasi Berkelanjutan IV Medco Energi Internasional Tahap I Seri B senilai Rp600 miliar jatuh tempo 9 September 2026 dan berhenti diperdagangkan di Bursa Efek Indonesia.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "jatuh tempo",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b92a1a87cf_f60f36c206.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-aims-melonjak-25-dalam-sehari-bursa-minta-klarifikasi",
+  "category": "Aksi Korporasi",
+  "title": "Saham [AIMS] Melonjak 25% dalam Sehari, Bursa Minta Klarifikasi",
+  "deck": "Harga saham AIMS naik 25 persen dan volume transaksi melonjak nyaris 12 kali dalam sehari; emiten menyatakan tidak ada informasi material di baliknya.",
+  "date": "8 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AIMS",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/587f7103d5_acd4f3d2aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "adhi-panggil-rupslb-untuk-restrukturisasi-dan-konversi-utang",
   "category": "Aksi Korporasi",
   "title": "ADHI Panggil RUPSLB untuk [Restrukturisasi] dan Konversi Utang",
@@ -6481,56 +6529,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4316048000_5aa954f5d1.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran",
-  "category": "Moneter",
-  "title": "Rupiah [Melemah] ke Rp17.750 per Dolar AS Imbas Konflik AS-Iran",
-  "deck": "Rupiah ditutup melemah 0,31% ke Rp17.750 per dolar AS pada Rabu (2/9/2026), tertekan gejolak global akibat memanasnya konflik AS-Iran.",
-  "date": "2 September 2026",
-  "image": "assets/img/rupiah-melemah-ke-rp17-750-per-dolar-as-imbas-konflik-as-iran.jpg",
-  "imageV": "mtkirnl6",
-  "tags": [
-   "rupiah",
-   "kurs rupiah",
-   "dolar AS",
-   "DXY"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464399-rupiah-makin-tertekan-ditutup-rp17750-per-dolar-as-di-tengah-gejolak-global"
- },
- {
-  "slug": "kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026",
-  "category": "Industri",
-  "title": "Kawasan Garam Rote Ndao Digarap, Panen Perdana [November] 2026",
-  "deck": "Pemerintah mengembangkan Kawasan Sentra Industri Garam Nasional seluas 10.764 hektare di Rote Ndao, NTT, untuk mendukung swasembada garam dan pemerataan ekonomi daerah.",
-  "date": "2 September 2026",
-  "image": "assets/img/kawasan-garam-rote-ndao-digarap-panen-perdana-november-2026.jpg",
-  "imageV": "mtkiro2r",
-  "tags": [
-   "Rote Ndao",
-   "garam",
-   "KSIGN",
-   "NTT"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464384-proyek-industri-garam-raksasa-di-rote-ndao-pemerintah-bidik-produksi-5-juta-ton-di-2029"
- },
- {
-  "slug": "infranexia-lintasarta-perkuat-konektivitas-sumatra-batam",
-  "category": "Teknologi",
-  "title": "InfraNexia-Lintasarta [Perkuat] Konektivitas Sumatra-Batam",
-  "deck": "InfraNexia dan Lintasarta sepakat memakai teknologi DWDM untuk memperkuat jaringan berkapasitas tinggi di rute Medan-Batam dan Padang-Batam.",
-  "date": "2 September 2026",
-  "image": "assets/img/infranexia-lintasarta-perkuat-konektivitas-sumatra-batam.jpg",
-  "imageV": "mtkqcmp2",
-  "tags": [
-   "DWDM",
-   "InfraNexia",
-   "Lintasarta",
-   "Telkom"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464368-gunakan-layanan-dwdm-kolaborasi-infranexia-dan-lintasarta-perkuat-konektivitas-medan-batam-dan-padang"
  }
 ];

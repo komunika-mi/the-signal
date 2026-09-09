@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wika-gagal-bayar-obligasi-suspensi-saham-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Obligasi, Suspensi Saham Berlanjut",
+  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah Perseroan menunda pembayaran pokok, bunga obligasi, dan bagi hasil sukuk mudharabah yang jatuh tempo 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T09:06:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05235d4f68_a1c2e422ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "suspensi saham",
+   "gagal bayar"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) melanjutkan penghentian sementara (suspensi) perdagangan saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar sejak sesi I, 8 September 2026. Alasan resminya adalah kegagalan Perseroan memenuhi kewajiban pembayaran kupon dan/atau pokok surat utang. Saham WIKA sebelumnya sudah tercatat di Papan Pemantauan Khusus sebelum suspensi ini berlanjut.",
+   "Keputusan itu merujuk pada surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 7 September 2026 perihal penundaan pembayaran ke-20 atas Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 dan Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri B dan C, serta surat WIKA tertanggal 31 Juli 2026 soal rencana pembayaran tersebut. Enam kewajiban yang dijadwalkan jatuh tempo 8 September 2026 tertunda, yaitu: pokok Seri B Obligasi (WIKA02BCN1), pokok Seri B Sukuk Mudharabah (SMWIKA02BCN1), bunga ke-20 Seri B Obligasi (WIKA02BCN1), bunga ke-20 Seri C Obligasi (WIKA02CCN1), bagi hasil ke-20 Seri B Sukuk Mudharabah (SMWIKA02BCN1), dan bagi hasil ke-20 Seri C Sukuk Mudharabah (SMWIKA02CCN1).",
+   "BEI menyatakan penundaan pembayaran ini mengindikasikan adanya permasalahan pada kelangsungan usaha Perseroan. Bursa meminta seluruh pihak terkait untuk terus memperhatikan keterbukaan informasi yang akan disampaikan WIKA selanjutnya, sementara suspensi saham berlaku hingga ada pengumuman lebih lanjut dari Bursa."
+  ],
+  "fotoAdegan": "Idle cranes and unfinished concrete pillars at a large infrastructure construction site, overcast afternoon light in Indonesia",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena kegagalan membayar pokok dan bunga surat utang adalah sinyal gagal bayar yang oleh BEI sendiri disebut mengindikasikan masalah kelangsungan usaha, bukan sekadar urusan administrasi. Yang tersentuh di sini adalah arus kas dan beban utang perusahaan: kalau kas operasional tidak cukup untuk membayar cicilan pokok dan bunga tepat waktu, itu tanda tekanan likuiditas yang bisa merembet ke kewajiban lain serta ke kepercayaan kreditur dan investor. Pelaku pasar akan memperhatikan apakah WIKA bisa melunasi kewajiban yang tertunda ini dalam masa tenggang yang biasanya diberikan wali amanat, dan apakah ada rencana restrukturisasi utang yang diumumkan berikutnya. Yang perlu dipantau selanjutnya adalah pengumuman lanjutan dari BEI soal syarat pencabutan suspensi, sebab saham WIKA tetap tidak bisa diperdagangkan sampai ada kejelasan itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "itma-tak-ada-info-material-bipi-belum-ubah-saham",
+  "category": "Aksi Korporasi",
+  "title": "ITMA: Tak Ada Info Material, [BIPI] Belum Ubah Saham",
+  "deck": "ITMA menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, memastikan tak ada info material dan pemegang saham utama BIPI belum berencana mengubah kepemilikan saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T08:37:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/822c711101_3bfb28cdd8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMA",
+  "tags": [
+   "ITMA",
+   "BIPI",
+   "volatilitas transaksi",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Sumber Energi Andalan Tbk (ITMA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-11434/BEI.PP3/09-2026 tertanggal 8 September 2026 terkait volatilitas transaksi efeknya. Melalui surat balasan nomor 03/CS/ITMA/IX/2026 yang ditandatangani Corporate Secretary Jerry Hotama pada 9 September 2026, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga sahamnya, baik sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat berdampak pada pencatatan sahamnya di bursa. Tidak ada pula informasi atau kejadian material lain yang berpotensi memengaruhi harga saham maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik.",
+   "Poin paling konkret ada pada jawaban keenam. Bursa secara khusus meminta ITMA menanyakan rencana pemegang saham utamanya, yakni BIPI, terkait kepemilikan sahamnya di ITMA. Merujuk surat BIPI tertanggal 8 September 2026 bernomor 054/CRS/BIPI/IX/2026 perihal Tanggapan atas Rencana Kepemilikan Saham BIPI pada ITMA, perseroan menerima konfirmasi bahwa BIPI belum memiliki rencana atau aksi korporasi tertentu terkait kepemilikannya di ITMA."
+  ],
+  "fotoAdegan": "Wide shot of a coal stockpile and loading conveyor at an industrial port, workers in hard hats in the distance, overcast sky",
+  "takeaway": "Surat ini netral bagi ITMA karena isinya konfirmasi rutin bahwa tidak ada rahasia dagang atau rencana korporasi yang disembunyikan, bukan berita tentang kinerja keuangan perseroan. Yang disentuh di sini adalah struktur kepemilikan dan hak suara, karena permintaan bursa muncul akibat sinyal pasar bahwa pemegang saham utama BIPI mungkin sedang mengubah porsi sahamnya, dan perubahan besar pada kepemilikan pemegang saham utama bisa menggeser siapa yang punya kendali atas perseroan. Konfirmasi bahwa BIPI belum berencana bertindak meredakan spekulasi tersebut untuk saat ini, tetapi sifatnya adalah status terkini, bukan janji permanen. Yang perlu dipantau selanjutnya adalah apakah ada keterbukaan informasi baru dari BIPI jika sikapnya berubah di kemudian hari, serta apakah pola transaksi saham ITMA kembali stabil setelah penjelasan ini disampaikan ke bursa pada 9 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgl-lepas-anak-usaha-aset-susut-87-9-persen",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Lepas Anak Usaha, [Aset] Susut 87,9 Persen",
+  "deck": "Prima Globalindo Logistik melaporkan total aset dan liabilitas anjlok lebih dari 80 persen pada semester I 2026, dipicu pelepasan saham anak usaha bernama JAYA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T07:28:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909074451-64380-0/FinancialStatement-2026-II-PPGL.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "laporan keuangan",
+   "divestasi",
+   "logistik"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menyampaikan koreksi atas laporan keuangan interim semester pertama 2026, disertai surat penjelasan ke Bursa Efek Indonesia karena total aset dan liabilitas perusahaan berubah lebih dari 20 persen dibanding akhir tahun lalu, sesuai Peraturan Bursa Efek Indonesia Nomor I-E poin III.1.14. Dalam surat tertanggal 29 Juli 2026 yang ditandatangani Darmawan Suryadi selaku Direktur Utama, perusahaan menjelaskan bahwa total aset turun dari Rp411,85 miliar per 31 Desember 2025 menjadi Rp49,74 miliar per 30 Juni 2026, atau susut 87,92 persen. Total liabilitas turun lebih tajam lagi, dari Rp267,53 miliar menjadi Rp12,58 miliar, atau anjlok 95,30 persen. Perusahaan menyebut penyebabnya adalah pelepasan saham entitas anak bernama JAYA.",
+   "Penyusutan neraca itu juga tergambar di laporan laba rugi. Pendapatan PPGL pada semester pertama 2026 tercatat Rp40,51 miliar, turun dari Rp89,05 miliar pada periode yang sama tahun lalu, sementara laba bersih turun dari Rp5,12 miliar menjadi Rp2,36 miliar. Laba per saham ikut turun dari Rp5,18 menjadi Rp3,06. Di sisi ekuitas, kepentingan non-pengendali, yaitu bagian kepemilikan pihak lain di anak usaha yang ikut dikonsolidasi, hilang seluruhnya dari Rp67,38 miliar menjadi nol, sejalan dengan lepasnya anak usaha tersebut dari kelompok usaha PPGL. Akibatnya, ekuitas yang jadi hak pemegang saham PPGL turun dari Rp76,94 miliar menjadi Rp37,16 miliar hanya dalam enam bulan.",
+   "Laporan arus kas menunjukkan PPGL menerima Rp44,60 miliar dari pelepasan entitas anak tersebut pada pos aktivitas investasi. Namun sebagian besar dana itu keluar lagi lewat pembayaran dividen tunai Rp30,46 miliar serta pelunasan berbagai utang, sehingga kas dan setara kas perusahaan justru turun dari Rp10,14 miliar menjadi Rp4,04 miliar pada akhir Juni 2026. Laporan keuangan ini berstatus tidak diaudit, sebagaimana lazim untuk laporan interim triwulanan."
+  ],
+  "fotoAdegan": "Warehouse workers stacking cargo pallets inside a busy logistics distribution center, a forklift moving nearby under fluorescent lighting.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham PPGL, sebab pelepasan anak usaha JAYA membuat skala bisnis, pendapatan, dan laba perusahaan menyusut tajam, bukan sekadar soal format laporan. Ekuitas yang jadi hak pemegang saham, yaitu selisih aset dan utang yang benar-benar milik pemilik saham, turun dari Rp76,94 miliar menjadi Rp37,16 miliar dalam enam bulan. Laba per saham, yaitu porsi laba bersih yang dibagi rata ke tiap lembar saham beredar, juga turun dari Rp5,18 menjadi Rp3,06, tanda kemampuan perusahaan menghasilkan laba buat pemegang saham mengecil. Ada sisi baik yang perlu ditimbang: utang perusahaan susut jauh lebih besar persentasenya dibanding asetnya, dan ada kas Rp44,60 miliar masuk dari hasil pelepasan anak usaha itu, meski sebagian besar langsung terpakai untuk dividen tunai Rp30,46 miliar dan pelunasan pinjaman. Yang perlu dipantau berikutnya adalah laporan kuartal III 2026, karena dari situ baru terlihat apakah bisnis inti PPGL yang tersisa bisa tumbuh lagi atau menetap di skala yang jauh lebih kecil ini.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ppgd-catatkan-obligasi-dan-sukuk-rp5-6-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PPGD Catatkan [Obligasi] dan Sukuk Rp5,6 Triliun di BEI",

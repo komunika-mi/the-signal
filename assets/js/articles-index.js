@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wika-gagal-bayar-obligasi-suspensi-saham-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "WIKA [Gagal Bayar] Obligasi, Suspensi Saham Berlanjut",
+  "deck": "BEI melanjutkan suspensi saham WIKA di seluruh pasar setelah Perseroan menunda pembayaran pokok, bunga obligasi, dan bagi hasil sukuk mudharabah yang jatuh tempo 8 September 2026.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "suspensi saham",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/05235d4f68_a1c2e422ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "itma-tak-ada-info-material-bipi-belum-ubah-saham",
+  "category": "Aksi Korporasi",
+  "title": "ITMA: Tak Ada Info Material, [BIPI] Belum Ubah Saham",
+  "deck": "ITMA menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, memastikan tak ada info material dan pemegang saham utama BIPI belum berencana mengubah kepemilikan saham.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMA",
+   "BIPI",
+   "volatilitas transaksi",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/822c711101_3bfb28cdd8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-lepas-anak-usaha-aset-susut-87-9-persen",
+  "category": "Aksi Korporasi",
+  "title": "PPGL Lepas Anak Usaha, [Aset] Susut 87,9 Persen",
+  "deck": "Prima Globalindo Logistik melaporkan total aset dan liabilitas anjlok lebih dari 80 persen pada semester I 2026, dipicu pelepasan saham anak usaha bernama JAYA.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "laporan keuangan",
+   "divestasi",
+   "logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909074451-64380-0/FinancialStatement-2026-II-PPGL.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppgd-catatkan-obligasi-dan-sukuk-rp5-6-triliun-di-bei",
   "category": "Aksi Korporasi",
   "title": "PPGD Catatkan [Obligasi] dan Sukuk Rp5,6 Triliun di BEI",
@@ -6480,54 +6528,6 @@ var ARTICLES = [
    "PMHMETD I"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e29bfe5a9_63559e1629.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-catat-laba-rp655-miliar-pembiayaan-tumbuh-9-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Catat Laba Rp655 Miliar, [Pembiayaan] Tumbuh 9% Semester I",
-  "deck": "BTPS memaparkan kinerja semester I 2026: laba bersih naik tipis 2% menjadi Rp655 miliar, sementara rasio biaya terhadap pendapatan naik ke 52%.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "perbankan syariah",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b402d86f1_48aed63580.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mora-jelaskan-lonjakan-saham-8-6-kali-usai-kredit-bca",
-  "category": "Aksi Korporasi",
-  "title": "MORA Jelaskan Lonjakan Saham 8,6 Kali usai [Kredit BCA]",
-  "deck": "MORA menjelaskan ke BEI bahwa lonjakan transaksi sahamnya pada 28 Agustus 2026 murni mekanisme pasar, bersamaan dengan penandatanganan perjanjian kredit baru dengan BCA.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MORA",
-   "volatilitas saham",
-   "BEI",
-   "kredit BCA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd704abe1b_3e8b1311ac.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssia-catat-lonjakan-ebitda-semester-i-2026-ke-rp693-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SSIA Catat Lonjakan [EBITDA] Semester I 2026 ke Rp693 Miliar",
-  "deck": "Materi public expose SSIA menunjukkan EBITDA semester I 2026 melompat ke Rp693 miliar berkat penjualan lahan Subang Smartpolitan, disertai dividen dan persetujuan MESOP.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSIA",
-   "Surya Semesta Internusa",
-   "EBITDA",
-   "Subang Smartpolitan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4316048000_5aa954f5d1.pdf",
   "sourceLabel": "IDX"
  }
 ];

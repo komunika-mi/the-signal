@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor",
+  "category": "UMKM",
+  "title": "Kemendag Gandeng Meta Latih [200] UMKM Pakai AI untuk Ekspor",
+  "deck": "Kementerian Perdagangan bersama Meta Indonesia melatih 200 UMKM di Jakarta, Bandung, dan Batam memakai AI untuk pemasaran digital demi menembus pasar ekspor.",
+  "date": "10 September 2026",
+  "image": "assets/img/kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor.jpg",
+  "imageV": "mtud1d0p",
+  "tags": [
+   "UMKM",
+   "Kemendag",
+   "AI",
+   "Ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-optimalisasi-ai-untuk-pemasaran-produk-umkm",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali",
   "category": "Bisnis",
   "title": "MUF dan Mandiri Dorong Adopsi Kendaraan [Listrik] di Bali",
@@ -6498,22 +6516,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464640-purbaya-bongkar-cara-bersihkan-pajak-dan-bea-cukai-5-pegawai-bermasalah-bisa-langsung-ditindak"
- },
- {
-  "slug": "telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar",
-  "category": "BUMN",
-  "title": "Telkom Gelar AI Camp untuk 350 Pelajar di [Makassar]",
-  "deck": "Telkom memulai program AI Camp berbasis kesejahteraan mental di Makassar, melibatkan 300 siswa dan 50 guru dari 10 SMA dan SMK.",
-  "date": "3 September 2026",
-  "image": "assets/img/telkom-gelar-ai-camp-untuk-350-pelajar-di-makassar.jpg",
-  "imageV": "mtlhu0rb",
-  "tags": [
-   "Telkom",
-   "AI Camp",
-   "Makassar",
-   "TJSL"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464643-telkom-hadirkan-edumind-wellbeing-dan-ai-camp-di-makassar-diikuti-350-peserta"
  }
 ];

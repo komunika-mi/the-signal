@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "acvuV-9gESM",
+  "title": "Bencana Alam Bertubi-Tubi Bikin Ekonomi RI Terhambat?",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Rentetan bencana alam di berbagai wilayah Indonesia dinilai turut menekan aktivitas dan pertumbuhan ekonomi nasional. Menteri Keuangan Purbaya Yudhi Sadewa mengakui adanya dampak tersebut.",
+  "takeaway": "Pernyataan Menteri Keuangan soal dampak bencana terhadap ekonomi relevan bagi pembaca yang mengikuti proyeksi pertumbuhan nasional."
+ },
+ {
+  "id": "ZFHQxYYzIMY",
+  "title": "Optimisme Capai Pertumbuhan di Tengah Bencana",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Di tengah tekanan akibat rentetan bencana, pemerintah tetap optimistis target pertumbuhan ekonomi bisa tercapai. Menteri Keuangan Purbaya Yudhi Sadewa membahas dampak bencana terhadap perekonomian.",
+  "takeaway": "Sikap optimisme pemerintah penting diketahui pembaca yang menakar arah kebijakan fiskal ke depan."
+ },
+ {
+  "id": "r6-VnmpnK8A",
+  "title": "Pertumbuhan Ekonomi Terhambat Akibat Bencana, Kata Komisi XI DPR",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Anggota Komisi XI DPR RI menanggapi dampak rentetan bencana terhadap perlambatan pertumbuhan ekonomi. Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya mengakui adanya tekanan tersebut.",
+  "takeaway": "Pandangan dari Komisi XI DPR relevan sebagai pembanding perspektif legislatif atas kebijakan fiskal pemerintah."
+ },
+ {
+  "id": "Os8sgt5j4qc",
+  "title": "Pakar Kebijakan Publik: Anggaran Bencana Harusnya Dilonggarkan",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Pakar kebijakan publik mengusulkan pelonggaran anggaran penanganan bencana menyusul tekanan rentetan bencana terhadap pertumbuhan ekonomi. Menteri Keuangan sebelumnya mengakui dampak tersebut.",
+  "takeaway": "Usulan pelonggaran anggaran bencana menyentuh isu alokasi APBN yang penting bagi pembaca ekonomi."
+ },
+ {
   "id": "c0V9qMRMjqk",
   "title": "Ekonom Pertanyakan Target Pertumbuhan Ekonomi 5,4 Persen",
   "category": "Makroekonomi",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
   "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol."
- },
- {
-  "id": "GAJ5Xb3VsXc",
-  "title": "Update Kurs Rupiah, Harga Minyak Dunia, dan Emas Antam",
-  "category": "Pasar Modal",
-  "program": "Kabar Siang",
-  "summary": "Harga emas batangan Antam naik Rp18.000 menjadi Rp2.695.000 per gram pada 18 Agustus 2026, melanjutkan tren kenaikan beberapa hari terakhir, seiring pergerakan kurs rupiah dan harga minyak dunia.",
-  "takeaway": "Data harian kurs, harga minyak, dan emas ini jadi acuan penting bagi investor dan pelaku pasar dalam mengambil keputusan."
- },
- {
-  "id": "_eLwJlitL-k",
-  "title": "Menkop Ferry Juliantono: Pemerintah Pastikan Kemerdekaan Ekonomi",
-  "category": "UMKM",
-  "program": "Kabar Hari Ini",
-  "summary": "Menteri Koperasi Ferry Juliantono menegaskan pemerintah berkomitmen mewujudkan kemerdekaan ekonomi dan sosial masyarakat melalui pemberdayaan koperasi dan UMKM.",
-  "takeaway": "Pernyataan menteri terkait arah kebijakan pemberdayaan UMKM ini relevan bagi pembaca yang mengikuti agenda ekonomi kerakyatan pemerintah."
- },
- {
-  "id": "oFs66ujNmY4",
-  "title": "1.200 UMKM Ramaikan Pesta Rakyat HUT ke-81 RI",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Pesta Rakyat HUT ke-81 RI di kawasan Monas hingga Bundaran HI melibatkan lebih dari 1.700 UMKM yang memasarkan produknya kepada masyarakat.",
-  "takeaway": "Skala keterlibatan UMKM dalam acara nasional ini menggambarkan peluang perluasan pasar bagi pelaku usaha kecil."
- },
- {
-  "id": "71oMi3aMkTQ",
-  "title": "Bank Jateng Gelar Gebyar Fest 81 Libatkan UMKM Perkuat Ekonomi Daerah",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
-  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah."
  }
 ];

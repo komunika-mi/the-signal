@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor",
+  "category": "UMKM",
+  "title": "Kemendag Gandeng Meta Latih [200] UMKM Pakai AI untuk Ekspor",
+  "deck": "Kementerian Perdagangan bersama Meta Indonesia melatih 200 UMKM di Jakarta, Bandung, dan Batam memakai AI untuk pemasaran digital demi menembus pasar ekspor.",
+  "image": "assets/img/kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-09T17:10:32.641Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-dorong-optimalisasi-ai-untuk-pemasaran-produk-umkm",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Kemendag",
+   "AI",
+   "Ekspor"
+  ],
+  "body": [
+   "Kementerian Perdagangan bersama Meta Indonesia dan UKMIndonesia.id meluncurkan program pendampingan bertajuk \"Gapai Pasar Global dengan AI\" untuk membantu pelaku usaha mikro, kecil, dan menengah memanfaatkan kecerdasan buatan dalam pemasaran produk. Program ini dibuka langsung oleh Menteri Perdagangan Budi Santoso di Kantor Kementerian Perdagangan, Jakarta, Rabu (9/9). Total ada 200 UMKM di Bandung, Batam, dan Jakarta yang menjadi sasaran, dengan seri Jakarta menyaring 100 peserta dari 580 pendaftar.",
+   "Materi pendampingan mencakup riset pasar global, penyusunan katalog digital, hingga praktik pemasangan iklan lewat fitur Meta Advantage+. Setelah sesi hari ini, peserta akan mendapat pendampingan lanjutan selama tujuh hari untuk mengoptimalkan iklan dan menjaring calon pembeli. Meta Indonesia juga memperkenalkan fitur Personalized AI dan Meta Business Agent yang bisa dipakai UMKM untuk otomatisasi balasan pesan pembeli dan pembuatan konten pemasaran.",
+   "Menteri Perdagangan menyebut kontribusi UMKM terhadap nilai ekspor Indonesia mencapai 15,7 persen pada 2025, menurut data Kementerian Perdagangan. Tahap berikutnya, peserta akan diarahkan pada kesiapan ekspor bersama atase perdagangan dan Indonesia Trade Promotion Center lewat webinar soal logistik, perjanjian ekspor, dan penjajakan kerja sama bisnis. Hasil pendampingan rencananya diserahkan secara simbolis dalam bentuk Katalog Ekspor UMKM kepada Menteri Perdagangan pada Forum Bisnis Trade Expo Indonesia 2026, yang berlangsung 14 hingga 18 Oktober 2026.",
+   "Selain program bersama Meta ini, Kementerian Perdagangan juga memiliki program UMKM Berani Inovasi, Siap Adaptasi Ekspor yang menghubungkan pelaku usaha dengan jaringan perwakilan dagang Indonesia di luar negeri. Perwakilan Meta Indonesia, Berni Moestafa, menyebut tantangan utama UMKM di Batam dan Bandung selama ini bukan soal kualitas produk, melainkan sulitnya produk ditemukan calon konsumen di dunia maya."
+  ],
+  "fotoAdegan": "A home-based textile workshop owner photographing folded batik fabrics with a smartphone for an online store, warm morning light.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/9ghUbYK4WNQ2DSnyRfyX1xlVz4htG6W22rEos6cg.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Program ini skalanya kecil dan terkurasi ketat, cuma 200 UMKM dari tiga kota, bahkan di Jakarta cuma 100 orang yang diterima dari 580 pendaftar. Yang terdampak langsung adalah peserta program itu sendiri, sementara Meta mendapat keuntungan tidak langsung berupa pengguna baru untuk fitur AI bisnisnya. Ini bagian dari pola kolaborasi pemerintah dengan platform digital besar untuk mendorong ekspor UMKM lewat pelatihan pemasaran online, bukan lewat insentif dana atau aturan baru. Yang akan menunjukkan apakah pendampingan ini benar berujung transaksi ekspor atau sekadar pelatihan seremonial adalah penyerahan Katalog Ekspor UMKM saat Trade Expo Indonesia pada 14 sampai 18 Oktober 2026, karena di situ akan terlihat apakah peserta program ini sungguh siap menembus pembeli luar negeri.",
+  "imageV": "mtud1d0p"
+ },
+ {
   "slug": "muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali",
   "category": "Bisnis",
   "title": "MUF dan Mandiri Dorong Adopsi Kendaraan [Listrik] di Bali",

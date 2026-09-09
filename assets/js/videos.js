@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "acvuV-9gESM",
+  "title": "Bencana Alam Bertubi-Tubi Bikin Ekonomi RI Terhambat?",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Rentetan bencana alam di berbagai wilayah Indonesia dinilai turut menekan aktivitas dan pertumbuhan ekonomi nasional. Menteri Keuangan Purbaya Yudhi Sadewa mengakui adanya dampak tersebut.",
+  "takeaway": "Pernyataan Menteri Keuangan soal dampak bencana terhadap ekonomi relevan bagi pembaca yang mengikuti proyeksi pertumbuhan nasional.",
+  "terbit": "2026-09-09T16:05:04+00:00"
+ },
+ {
+  "id": "ZFHQxYYzIMY",
+  "title": "Optimisme Capai Pertumbuhan di Tengah Bencana",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Di tengah tekanan akibat rentetan bencana, pemerintah tetap optimistis target pertumbuhan ekonomi bisa tercapai. Menteri Keuangan Purbaya Yudhi Sadewa membahas dampak bencana terhadap perekonomian.",
+  "takeaway": "Sikap optimisme pemerintah penting diketahui pembaca yang menakar arah kebijakan fiskal ke depan.",
+  "terbit": "2026-09-09T15:49:49+00:00"
+ },
+ {
+  "id": "r6-VnmpnK8A",
+  "title": "Pertumbuhan Ekonomi Terhambat Akibat Bencana, Kata Komisi XI DPR",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Anggota Komisi XI DPR RI menanggapi dampak rentetan bencana terhadap perlambatan pertumbuhan ekonomi. Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya mengakui adanya tekanan tersebut.",
+  "takeaway": "Pandangan dari Komisi XI DPR relevan sebagai pembanding perspektif legislatif atas kebijakan fiskal pemerintah.",
+  "terbit": "2026-09-09T15:41:53+00:00"
+ },
+ {
+  "id": "Os8sgt5j4qc",
+  "title": "Pakar Kebijakan Publik: Anggaran Bencana Harusnya Dilonggarkan",
+  "category": "Makroekonomi",
+  "program": "IBF tvOne",
+  "summary": "Pakar kebijakan publik mengusulkan pelonggaran anggaran penanganan bencana menyusul tekanan rentetan bencana terhadap pertumbuhan ekonomi. Menteri Keuangan sebelumnya mengakui dampak tersebut.",
+  "takeaway": "Usulan pelonggaran anggaran bencana menyentuh isu alokasi APBN yang penting bagi pembaca ekonomi.",
+  "terbit": "2026-09-09T15:38:03+00:00"
+ },
+ {
   "id": "c0V9qMRMjqk",
   "title": "Ekonom Pertanyakan Target Pertumbuhan Ekonomi 5,4 Persen",
   "category": "Makroekonomi",

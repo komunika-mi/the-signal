@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "izin-tenaga-kerja-asing-kini-satu-pintu-lewat-oss",
+  "category": "Ketenagakerjaan",
+  "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
+  "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
+  "date": "10 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "TKA",
+   "OSS",
+   "Kemnaker",
+   "Investasi Asing"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/perkuat-tata-kelola-investasi-pemerintah-integrasikan-perizinan-tka",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
   "slug": "giias-bandung-2026-pajak-kendaraan-diskon-10-persen",
   "category": "Industri",
   "title": "GIIAS Bandung 2026: Pajak Kendaraan [Diskon] 10 Persen",
@@ -1823,7 +1839,7 @@ var ARTICLES = [
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
   "date": "8 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "BUMN",
    "Kemnaker",
@@ -3297,7 +3313,7 @@ var ARTICLES = [
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
   "date": "7 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "dana pensiun",
    "sektor informal",
@@ -6501,22 +6517,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e036cd1608_05ab121b42.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri",
-  "category": "Global",
-  "title": "Presiden Prabowo Tantang Rusia [Gandakan] Nilai Dagang RI",
-  "deck": "Presiden Prabowo Subianto menantang Rusia menggandakan nilai perdagangan bilateral dari sekitar US$5 miliar, disampaikan dalam forum ekonomi di Vladivostok, Rusia.",
-  "date": "3 September 2026",
-  "image": "assets/img/presiden-prabowo-tantang-rusia-gandakan-nilai-dagang-ri.jpg",
-  "imageV": "mtlhtz7b",
-  "tags": [
-   "Rusia",
-   "Presiden Prabowo Subianto",
-   "perdagangan bilateral",
-   "Eastern Economic Forum"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464657-prabowo-tantang-rusia-gandakan-dagang-ri-bidik-tembus-dua-kali-lipat"
  }
 ];

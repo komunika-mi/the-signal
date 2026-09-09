@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "izin-tenaga-kerja-asing-kini-satu-pintu-lewat-oss",
+  "category": "Ketenagakerjaan",
+  "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
+  "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
+  "image": "assets/img/bursa-kerja.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-09T23:17:52.202Z",
+  "sourceUrl": "https://kemnaker.go.id/news/detail/perkuat-tata-kelola-investasi-pemerintah-integrasikan-perizinan-tka",
+  "sourceLabel": "Kementerian Ketenagakerjaan",
+  "tags": [
+   "TKA",
+   "OSS",
+   "Kemnaker",
+   "Investasi Asing"
+  ],
+  "body": [
+   "Pemerintah menyatukan layanan perizinan tenaga kerja asing (TKA) yang selama ini tersebar di beberapa kementerian ke dalam satu sistem, yaitu Online Single Submission (OSS). Langkah ini ditandai penandatanganan Surat Keputusan Bersama oleh Menteri Ketenagakerjaan Yassierli, Menteri Investasi dan Hilirisasi/Kepala BKPM Rosan P. Roeslani, serta Menteri Imigrasi dan Pemasyarakatan Agus Andrianto di Jakarta, Rabu (9/9/2026). Bagi perusahaan yang mempekerjakan TKA, ini berarti pengurusan izin tidak lagi harus dilakukan terpisah di beberapa instansi.",
+   "Secara teknis, sistem SIAPKerja milik Kemnaker dan All Indonesia milik Kementerian Imigrasi akan digabung ke dalam OSS yang berada di bawah Kementerian Investasi dan Hilirisasi. Dengan begitu, satu portal saja yang menjadi pintu masuk untuk semua proses perizinan TKA, bukan tiga sistem berbeda seperti sebelumnya.",
+   "Yassierli menyebut TKA masih dibutuhkan untuk mengisi kebutuhan keahlian tertentu sekaligus mendorong alih teknologi ke pekerja lokal, dan menegaskan integrasi ini tidak boleh membuat proses perizinan menjadi lebih panjang. Rosan menyebut kolaborasi tiga kementerian ini sejalan dengan arahan Presiden untuk memperkuat kerja sama antarlembaga demi mendukung investasi dan penciptaan lapangan kerja. Agus Andrianto menambahkan, kerja sama lintas kementerian dalam pelayanan TKA dan investor asing sebenarnya sudah berjalan, dan penandatanganan ini hanya memformalkannya."
+  ],
+  "fotoAdegan": "Foreign and Indonesian engineers examining machinery together on an industrial plant floor, wearing safety helmets, daylight through high windows",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah adalah cara mengurus izin pakai tenaga kerja asing: tiga sistem terpisah, SIAPKerja di Kemnaker dan All Indonesia di Imigrasi, sekarang digabung jadi satu pintu lewat OSS yang dikelola Kementerian Investasi. Artinya perusahaan atau investor yang mempekerjakan TKA tidak perlu lagi mengurus izin sendiri-sendiri ke tiga kementerian, cukup lewat satu sistem. Siaran pers ini belum menjelaskan kapan sistem gabungan ini benar-benar mulai beroperasi dan bagaimana nasib izin TKA yang sudah terbit di sistem lama. Yang perlu dipantau adalah petunjuk teknis atau aturan turunan dari ketiga kementerian ini, karena tanpa itu belum bisa dipastikan apakah prosesnya benar-benar lebih cepat atau hanya berganti nama sistem."
+ },
+ {
   "slug": "giias-bandung-2026-pajak-kendaraan-diskon-10-persen",
   "category": "Industri",
   "title": "GIIAS Bandung 2026: Pajak Kendaraan [Diskon] 10 Persen",
@@ -2938,7 +2964,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T04:28:42.741Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-dukung-bumn-perkuat-tata-kelola-hubungan-industrial",
@@ -5339,7 +5365,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "date": "7 September 2026",
   "isoDate": "2026-09-07T06:12:01.145Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-60-persen-angkatan-kerja-bekerja-di-sektor-informal-perlindungan-hari-tua-jadi-perhatian",
@@ -11144,7 +11170,7 @@ var ARTICLES = [
   "category": "Ketenagakerjaan",
   "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
   "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "date": "3 September 2026",
   "isoDate": "2026-09-03T01:15:59.061Z",
   "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",

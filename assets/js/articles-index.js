@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "tlkm-kupas-rencana-divestasi-neutradc-us-1-5-m-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Kupas Rencana Divestasi [NeutraDC] US$1,5 M di Public Expose",
+  "deck": "Public expose TLKM mengungkap rencana divestasi 70 persen saham NeutraDC senilai US$1,5 miliar, akuisisi penuh Digiserve, dan kejelasan rasio dividen 60-90 persen dari laba bersih.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "NeutraDC",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2bd44d4177_48fe3ca3bd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-lunasi-obligasi-rp458-miliar-setop-tercatat-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BAFI [Lunasi] Obligasi Rp458 Miliar, Setop Tercatat di BEI",
+  "deck": "BAFI melunasi pokok Rp458 miliar dan bunga terakhir Rp7,44 miliar Obligasi Berkelanjutan II Tahap IV pada 8 September 2026, efek ini berhenti diperdagangkan di BEI mulai 9 September.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "pelunasan utang",
+   "pembiayaan kendaraan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7671ec8b4_aa4a2d015f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-lopi-anjlok-9-6-pengendali-kurangi-porsi-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "Saham LOPI Anjlok 9,6%, Pengendali Kurangi Porsi [volatilitas]",
+  "deck": "LOPI menjelaskan ke BEI setelah sahamnya ambruk 9,59% dan volume transaksi melonjak empat kali lipat pada 4 September 2026, seiring pengendali menjual sebagian sahamnya.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LOPI",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "aksi korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5a952f430_139e550a73.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgra-auditor-soroti-impairment-rp181-m-proyek-listrik",
+  "category": "Aksi Korporasi",
+  "title": "TGRA: Auditor Soroti [Impairment] Rp181 M Proyek Listrik",
+  "deck": "Auditor TGRA mencatat penurunan nilai Rp181,24 miliar atas proyek pembangkit listrik yang belum dapat pendanaan, memperdalam rugi bersih perusahaan menjadi Rp259,52 miliar sepanjang 2025.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "going concern",
+   "PLTA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260909185511-64388-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil",
   "category": "Makroekonomi",
   "title": "Erupsi Anak Krakatau, Mendag Pastikan Harga Pangan [Stabil]",
@@ -6450,75 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464617-purbaya-beri-sinyal-anggaran-mbg-bisa-dipangkas-di-bawah-rp200-triliun-ini-alasannya"
- },
- {
-  "slug": "laba-pupuk-indonesia-melonjak-253-di-semester-i-2026",
-  "category": "BUMN",
-  "title": "Laba Pupuk Indonesia [Melonjak] 253% di Semester I 2026",
-  "deck": "Pupuk Indonesia membukukan laba bersih Rp8,51 triliun pada Januari-Juni 2026, naik 253% dari periode sama tahun lalu, didorong kenaikan volume produksi dan efisiensi biaya.",
-  "date": "3 September 2026",
-  "image": "assets/img/laba-pupuk-indonesia-melonjak-253-di-semester-i-2026.jpg",
-  "imageV": "mtl9os42",
-  "tags": [
-   "Pupuk Indonesia",
-   "BUMN",
-   "Laporan Keuangan",
-   "Pupuk Subsidi"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/877/pertumbuhan-pupuk-indonesia-untuk-swasembada-pangan-nasional",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun",
-  "category": "Perbankan",
-  "title": "Judi Online Bajak Piala Dunia, Deposit Tembus [Rp1,02 Triliun]",
-  "deck": "PPATK mencatat deposit judi online bertema Piala Dunia 2026 tembus Rp1,02 triliun dalam sebulan, sementara QRIS mendominasi saluran deposit sepanjang semester ini.",
-  "date": "3 September 2026",
-  "image": "assets/img/judi-online-bajak-piala-dunia-deposit-tembus-rp1-02-triliun.jpg",
-  "imageV": "mtl4cj22",
-  "tags": [
-   "Judi Online",
-   "PPATK",
-   "QRIS",
-   "Piala Dunia 2026"
-  ],
-  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
-  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1642/judi-online-membajak-piala-dunia-2026-deposit-tembus-rp-1-triliun.html",
-  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
- },
- {
-  "slug": "anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen",
-  "category": "Makroekonomi",
-  "title": "Anggaran PPATK Naik 100%, Dana Judi Online [Turun] 20 Persen",
-  "deck": "PPATK melaporkan anggarannya digandakan lebih dari 100 persen dan perputaran dana judi online turun 20,3 persen pada 2025, seiring penguatan lembaga menjelang usia ke-24.",
-  "date": "3 September 2026",
-  "image": "assets/img/anggaran-ppatk-naik-100-dana-judi-online-turun-20-persen.jpg",
-  "imageV": "mtl4cl6s",
-  "tags": [
-   "PPATK",
-   "Judi Online",
-   "Pencucian Uang",
-   "Anggaran Negara"
-  ],
-  "kreditFoto": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
-  "sourceUrl": "https://www.ppatk.go.id/siaran_pers/read/1650/dukungan-presiden-prabowo-subianto-kerja-nyata-ppatk-menjaga-indonesia.html",
-  "sourceLabel": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
- },
- {
-  "slug": "winr-rencana-naikkan-kepemilikan-di-laxo-global-jadi-90",
-  "category": "Aksi Korporasi",
-  "title": "WINR Rencana Naikkan Kepemilikan di Laxo Global Jadi [90%]",
-  "deck": "PT Winner Nusantara Jaya menandatangani addendum akuisisi yang menaikkan target kepemilikan saham di ISP Laxo Global Akses dari 60% menjadi 90%, dari kepemilikan saat ini 8,5%.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "akuisisi",
-   "ISP",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2a8a6d092_8d04070471.pdf",
-  "sourceLabel": "IDX"
  }
 ];

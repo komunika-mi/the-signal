@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "tlkm-kupas-rencana-divestasi-neutradc-us-1-5-m-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "TLKM Kupas Rencana Divestasi [NeutraDC] US$1,5 M di Public Expose",
+  "deck": "Public expose TLKM mengungkap rencana divestasi 70 persen saham NeutraDC senilai US$1,5 miliar, akuisisi penuh Digiserve, dan kejelasan rasio dividen 60-90 persen dari laba bersih.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T20:15:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2bd44d4177_48fe3ca3bd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TLKM",
+  "tags": [
+   "TLKM",
+   "Telkom Indonesia",
+   "NeutraDC",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Telkom Indonesia Tbk (TLKM) melaporkan hasil pelaksanaan Public Expose Tahunan 2026 kepada Bursa Efek Indonesia. Acara yang digelar secara daring pada Senin, 7 September 2026 pukul 10.00 hingga 11.00 WIB itu dihadiri 178 peserta dari luar Perseroan, terdiri dari investor, media, dan masyarakat umum. Direksi yang memaparkan materi adalah Direktur Utama Dian Siswarini, Direktur Keuangan dan Manajemen Risiko Arthur Angelo Syailendra, Direktur Wholesale & International Service Budi Satria Dharma Purba, Direktur Enterprise & Business Service Veranita Yosephine, dan Direktur Keuangan dan Manajemen Risiko Telkomsel Daru Mulyawan.",
+   "Dalam paparan kinerja, manajemen menyebut pendapatan semester pertama 2026 tumbuh 3,9 persen dibanding periode sama tahun lalu menjadi Rp75,9 triliun, dengan laba bersih yang juga tetap tumbuh positif. Pendapatan rata-rata per pelanggan seluler Telkomsel naik 9 persen menjadi Rp45,6 ribu, yang menurut manajemen mencerminkan perbaikan harga jual layanan data. Perseroan juga menyebut lebih dari 94 persen belanja modal atau capex pada semester pertama dialokasikan ke bisnis inti B2C dan B2B Infrastruktur, dan menegaskan tidak mengubah panduan kinerja 2026: pertumbuhan pendapatan ternormalisasi 1 sampai 3 persen, margin EBITDA di atas 50 persen, serta rasio capex terhadap pendapatan 17 sampai 19 persen.",
+   "Soal aksi korporasi, manajemen mengonfirmasi Fase 1 pembentukan Infranexia, entitas pengelola aset fiber optik, telah rampung Desember 2025 dengan nilai transaksi sekitar Rp35,8 triliun, mencakup pengalihan lebih dari separuh aset fiber terpilih Telkom. Fase 2 masih berjalan dan ditargetkan selesai akhir September hingga awal Oktober 2026, mundur dari jadwal awal karena ada pekerjaan tambahan usai penyajian kembali laporan keuangan tahun buku 2025. Telkom juga tengah menjajaki pelepasan 70 persen saham PT Telkom Data Ekosistem atau NeutraDC dengan nilai transaksi sekitar US$1,5 miliar, serta berencana mengambil alih 100 persen saham Digiserve untuk memperkuat segmen B2B ICT. Soal dividen, manajemen menyebut tidak ada rencana dividen interim untuk kinerja semester I 2026, dan asumsi rasio pembagian dividen tetap berkisar 60 sampai 90 persen dari laba bersih, dengan keputusan akhir menunggu persetujuan RUPS tahun buku.",
+   "Menjawab pertanyaan media soal investasi Telkomsel di GoTo yang mencatat kerugian belum terealisasi senilai Rp5 triliun, manajemen menyebut pergerakan harga saham tidak mencerminkan manfaat strategis dari kemitraan tersebut dan investasi akan terus dievaluasi secara berkala. Manajemen juga merespons positif potensi konsolidasi di industri seluler dan menara telekomunikasi, serta menyebut rencana konsolidasi aset fiber optik milik BUMN lain, termasuk PT PLN, masih dalam tahap kajian dan belum ada keputusan entitas yang akan digabungkan."
+  ],
+  "fotoAdegan": "Technicians in blue uniforms inspecting rows of fiber optic cables and server racks inside a data center hall in Indonesia",
+  "takeaway": "Laporan ini condong positif bagi Telkom, karena selain menegaskan kinerja semester pertama yang tumbuh, manajemen membuka sejumlah rencana monetisasi aset yang menambah fleksibilitas keuangan, termasuk pelepasan 70 persen saham NeutraDC senilai US$1,5 miliar dan kejelasan rasio pembagian dividen di kisaran 60 hingga 90 persen dari laba bersih. Yang tersentuh adalah arus kas dan struktur permodalan Telkom: dana dari divestasi aset seperti NeutraDC dan pengalihan aset fiber ke Infranexia bisa membiayai ekspansi tanpa menambah utang, sementara kejelasan rasio dividen membantu pemegang saham memperkirakan potensi imbal hasil tahunan meski besaran pastinya baru diputuskan lewat RUPS tahun buku. Kenaikan pendapatan rata-rata per pelanggan seluler sebesar 9 persen juga jadi sinyal Telkomsel berhasil menaikkan harga jual tanpa banyak kehilangan pelanggan, hal yang biasa dicermati investor karena langsung memengaruhi laba. Yang perlu dipantau berikutnya adalah penyelesaian Fase 2 Infranexia yang ditargetkan akhir September hingga awal Oktober 2026, serta kelanjutan negosiasi pelepasan saham NeutraDC dan kemitraan strategis data center yang ditargetkan rampung akhir 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "bafi-lunasi-obligasi-rp458-miliar-setop-tercatat-di-bei",
+  "category": "Aksi Korporasi",
+  "title": "BAFI [Lunasi] Obligasi Rp458 Miliar, Setop Tercatat di BEI",
+  "deck": "BAFI melunasi pokok Rp458 miliar dan bunga terakhir Rp7,44 miliar Obligasi Berkelanjutan II Tahap IV pada 8 September 2026, efek ini berhenti diperdagangkan di BEI mulai 9 September.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T19:38:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7671ec8b4_aa4a2d015f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "pelunasan utang",
+   "pembiayaan kendaraan"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) pada 8 September 2026 melalui PT Kustodian Sentral Efek Indonesia (KSEI) melunasi pokok dan bunga terakhir Obligasi Berkelanjutan II Bussan Auto Finance Tahap IV Tahun 2023 dengan kode BAFI02CN4. Nilai pokok yang dibayarkan Rp458 miliar, ditambah bunga ke-12 sebesar Rp7,4425 miliar. Obligasi ini terbit 8 September 2023 dengan tenor 3 tahun dan bunga tetap 6,50 persen per tahun, sehingga jatuh tempo tepat pada 8 September 2026.",
+   "Pembayaran dilakukan melalui sistem C-BEST ke sub rekening para pemegang rekening KSEI. Akibat pelunasan ini, sejak 9 September 2026 obligasi BAFI02CN4 tidak lagi tercatat dan tidak dapat diperdagangkan di Bursa Efek Indonesia. Surat keterbukaan informasi ke Otoritas Jasa Keuangan ditandatangani Sigit Sembodo selaku Wakil Presiden Direktur, sedangkan laporan keterbukaan informasi ke bursa ditandatangani Puji Arianti selaku Corporate Secretary.",
+   "Perseroan mengirim tembusan surat ini kepada Direktur Penilaian Perusahaan BEI, PT Bank Mandiri Tbk selaku wali amanat obligasi, KSEI selaku agen pembayaran, serta dua lembaga pemeringkat yaitu Fitch Ratings Indonesia dan Pemeringkat Efek Indonesia (Pefindo). Dokumen tidak menjelaskan dampak kejadian ini terhadap kegiatan operasional, hukum, atau kondisi keuangan perseroan secara spesifik."
+  ],
+  "fotoAdegan": "Rows of new motorcycles parked inside a vehicle financing company showroom in Jakarta, staff walking between them under bright lighting",
+  "takeaway": "Pelunasan ini condong positif bagi BAFI karena kewajiban utang sebesar Rp458 miliar selesai tepat waktu tanpa tanda-tanda kesulitan pembayaran atau kebutuhan mencari dana talangan darurat. Yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar keluar dari kas perusahaan, sebesar sekitar Rp465,4 miliar untuk pokok dan bunga sekaligus, serta beban bunga ke depan yang otomatis hilang karena kewajiban bayar bunga 6,5 persen per tahun atas obligasi ini sudah tidak ada lagi mulai sekarang. Pelunasan tepat waktu semacam ini juga jadi sinyal ke pasar bahwa perusahaan pembiayaan kendaraan ini masih punya kemampuan bayar yang sehat, sesuatu yang penting bagi bisnis pembiayaan yang mengandalkan penerbitan obligasi berulang untuk mendanai kreditnya. Yang perlu dipantau selanjutnya adalah apakah Fitch Ratings dan Pefindo, yang menerima tembusan surat ini, memperbarui peringkat kredit BAFI setelah pelunasan ini, serta apakah perseroan akan menerbitkan obligasi baru untuk menggantikan sumber pendanaan yang baru saja lunas.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "saham-lopi-anjlok-9-6-pengendali-kurangi-porsi-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "Saham LOPI Anjlok 9,6%, Pengendali Kurangi Porsi [volatilitas]",
+  "deck": "LOPI menjelaskan ke BEI setelah sahamnya ambruk 9,59% dan volume transaksi melonjak empat kali lipat pada 4 September 2026, seiring pengendali menjual sebagian sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:50:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5a952f430_139e550a73.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LOPI",
+  "tags": [
+   "LOPI",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "aksi korporasi"
+  ],
+  "body": [
+   "PT Logisticsplus International Tbk (LOPI) menyampaikan penjelasan kepada Bursa Efek Indonesia menyusul permintaan klarifikasi BEI melalui surat nomor S-11431/BEI.PP3/09-2026 terkait lonjakan volatilitas transaksi saham perseroan. BEI mencatat pada 4 September 2026 volume transaksi saham LOPI melonjak menjadi 103.735.100 saham dengan frekuensi 3.639 kali, jauh di atas hari bursa sebelumnya yang hanya 24.297.800 saham dengan frekuensi 652 kali. Pada hari yang sama, harga saham LOPI ditutup turun Rp7 atau 9,59 persen, dari Rp73 menjadi Rp66, di tengah pelemahan IHSG sebesar 31,42 poin dan indeks sektor Transportasi dan Logistik yang turun 20,11 poin.",
+   "Dalam jawaban resminya, manajemen LOPI menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya sesuai POJK Nomor 31/POJK.04/2015 dan Peraturan BEI Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham. Namun perseroan mengonfirmasi dua hal penting, yaitu memiliki rencana aksi korporasi dalam waktu dekat yang berpotensi memengaruhi status pencatatan sahamnya di bursa dalam tiga bulan mendatang, dan bahwa pemegang saham pengendali PT Sentra Amanah Ventura telah menjual sebagian sahamnya untuk mengurangi porsi kepemilikan, meski tetap mempertahankan status sebagai pemegang saham mayoritas dan pengendali perseroan.",
+   "Surat penjelasan ini ditandatangani Direktur Utama LOPI Wahyu Dwi Jatmiko dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan, tertanggal 9 September 2026. Tanggapan tersebut turut ditandatangani Corporate Secretary LOPI, Julia Kartini, sebagai bagian dari kewajiban keterbukaan informasi emiten atas permintaan otoritas bursa."
+  ],
+  "fotoAdegan": "Warehouse workers moving stacked cargo pallets with forklifts inside a busy logistics distribution center, daylight through open doors",
+  "takeaway": "Penjelasan ini condong netral karena LOPI tidak memberi angka pasti soal seberapa besar saham yang dilepas Sentra Amanah Ventura maupun detail rencana aksi korporasinya, sehingga belum bisa dibaca tegas sebagai sinyal baik atau buruk. Yang tersentuh di sini adalah komposisi pemegang saham pengendali, sebab meski porsinya berkurang, Sentra Amanah Ventura menegaskan tetap memegang mayoritas saham dan status pengendali, artinya kendali perusahaan belum berpindah tangan. Poin lain yang perlu dicermati adalah pengakuan LOPI bahwa ada rencana aksi korporasi dalam waktu dekat yang bisa memengaruhi status pencatatan sahamnya di bursa, tanpa penjelasan bentuknya, misalnya apakah berupa penerbitan saham baru yang bisa menambah jumlah saham beredar. Yang perlu dipantau berikutnya adalah pengumuman resmi soal aksi korporasi tersebut, yang menurut jawaban perseroan berpotensi terealisasi dalam tiga bulan ke depan atau sekitar awal Desember 2026, serta laporan kepemilikan resmi dari Sentra Amanah Ventura ke OJK yang akan mengonfirmasi angka penjualan sahamnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "tgra-auditor-soroti-impairment-rp181-m-proyek-listrik",
+  "category": "Aksi Korporasi",
+  "title": "TGRA: Auditor Soroti [Impairment] Rp181 M Proyek Listrik",
+  "deck": "Auditor TGRA mencatat penurunan nilai Rp181,24 miliar atas proyek pembangkit listrik yang belum dapat pendanaan, memperdalam rugi bersih perusahaan menjadi Rp259,52 miliar sepanjang 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:46:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260909185511-64388-0/FinancialStatement-2025-Tahunan-TGRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "laporan keuangan",
+   "going concern",
+   "PLTA"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) menyampaikan koreksi laporan keuangan tahunan untuk periode yang berakhir 31 Desember 2025, diaudit oleh KAP Irwanto dan Rekan dengan partner penandatangan Nino Berlianto, tahun keempat dia menandatangani laporan perusahaan ini. Auditor memberikan opini wajar tanpa modifikasian, tetapi mencantumkan hal audit utama berupa aset dalam pembangunan senilai Rp177,70 miliar atau 86,07 persen dari total aset perusahaan yang tercatat Rp206,45 miliar per akhir 2025.",
+   "Aset dalam pembangunan itu adalah proyek pembangkit listrik tenaga mini hidro (PLTMH) dan pembangkit listrik tenaga air (PLTA) berkapasitas total 510,8 megawatt yang tersebar di Sumatera Utara, Aceh, Sumatera Selatan, dan Kalimantan. Lima PLTMH sudah memiliki Perjanjian Jual Beli Listrik dengan pihak ketiga dan dua PLTA sudah mengantongi izin prinsip serta izin lokasi, namun hingga akhir 2025 perusahaan masih berupaya mencari pendanaan pihak ketiga untuk melanjutkan pembangunannya. Karena kepastian pendanaan itu belum diperoleh, manajemen membukukan penurunan nilai atau impairment sebesar Rp181,24 miliar atas aset dalam pembangunan tersebut, yang dibebankan langsung ke laporan laba rugi 2025.",
+   "Akibat impairment itu, TGRA mencatat rugi bersih Rp259,52 miliar sepanjang 2025, melebar dari rugi Rp23,70 miliar pada 2024, dengan saldo defisit membengkak menjadi Rp272,41 miliar. Ekuitas perusahaan turun menjadi Rp51,42 miliar dari Rp310,71 miliar setahun sebelumnya, rugi per saham dasar melebar menjadi Rp94,29 dari Rp8,60, dan liabilitas jangka pendek Rp150,40 miliar sudah jauh melampaui aset lancar yang hanya Rp168,70 juta sehingga rasio lancar anjlok ke 0,11 persen dari 9,68 persen. Perusahaan juga tidak mencatatkan pendapatan sama sekali sepanjang 2025, kondisi yang menjadi dasar auditor menyatakan ketidakpastian material atas kelangsungan usaha TGRA."
+  ],
+  "fotoAdegan": "Partially built hydroelectric dam structure beside a fast-flowing river in a forested Indonesian valley, construction equipment idle nearby",
+  "takeaway": "Laporan ini mempertegas arah negatif yang sudah terlihat sejak awal September, dan kali ini disertai penyebab konkret dari sebagian besar kerugian tahun ini: penurunan nilai Rp181,24 miliar atas proyek pembangkit listrik yang belum kunjung mendapat pendanaan pihak ketiga. Pos yang paling tersentuh adalah aset dalam pembangunan, yaitu dana yang sudah dikeluarkan untuk membangun pembangkit tapi belum menghasilkan listrik atau pendapatan sepeser pun, dan begitu proyeknya dinilai berisiko tidak jalan, sebagian nilainya harus dihapus dari pembukuan sebagai kerugian. Ekuitas, yakni selisih antara aset dan utang yang menjadi hak pemegang saham, ikut tergerus karena kerugian ini langsung memakan modal perusahaan, sementara rasio lancar yang cuma 0,11 persen menunjukkan uang tunai dan aset cair jauh dari cukup untuk menutup utang jangka pendek. Yang perlu dipantau berikutnya adalah apakah TGRA berhasil mendapatkan pendanaan pihak ketiga untuk melanjutkan lima proyek PLTMH yang sudah berkontrak jual beli listrik dan dua PLTA yang sudah berizin, karena kegagalan mendapat dana itu berisiko memicu penghapusan nilai lanjutan atas sisa aset dalam pembangunan senilai Rp177,70 miliar.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil",
   "category": "Makroekonomi",
   "title": "Erupsi Anak Krakatau, Mendag Pastikan Harga Pangan [Stabil]",

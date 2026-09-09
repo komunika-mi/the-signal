@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Coret Agenda [Ekspansi Usaha] dari RUPSLB PMTHMETD",
+  "deck": "MKNT mencabut agenda ekspansi usaha sebagai holding dari RUPSLB, sementara konversi utang Rp822,9 miliar kreditur menjadi saham tetap dibawa ke RUPSLB 14 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T14:52:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00d7aa890a_9399c2aabd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "RUPSLB",
+   "konversi utang"
+  ],
+  "body": [
+   "PT Mitra Komunikasi Nusantara Tbk. (MKNT) mengumumkan perubahan atas keterbukaan informasi penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) melalui surat bernomor 162/MKNT-OJK/IX/2026 tertanggal 9 September 2026, ditandatangani Corporate Secretary Jefri Junaedi. Perubahan utamanya adalah menghapus satu agenda dari Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan Senin, 14 September 2026, yaitu agenda persetujuan perluasan kegiatan usaha Perseroan sebagai perusahaan holding beserta studi kelayakannya. Agenda inti RUPSLB, yakni persetujuan PMTHMETD, tetap berjalan sesuai rencana semula.",
+   "Skema PMTHMETD yang akan dimintakan restu pemegang saham mencakup penerbitan total 1.024.490.000.000 saham baru seri B bernilai nominal Rp1 per saham, setara 99,46 persen dari jumlah saham yang sudah beredar saat ini. Sebanyak 822.925.100.000 saham di antaranya diterbitkan untuk mengonversi pokok utang Perseroan kepada dua kreditur, PT Headwell Bintang Energi Hijau (HBEH) dan PT Mantra Capital Persadan (MCP), tanpa bunga karena kedua fasilitas pinjaman memang tidak dikenakan bunga. HBEH menerima 668.000.000.000 saham sebagai pelunasan utang Rp668 miliar, sedangkan MCP menerima 154.925.100.000 saham atas utang Rp154.925.100.000. MCP juga menyuntikkan dana tunai Rp1.564.900.000 untuk memperoleh 1.564.900.000 saham tambahan, yang akan dipakai melunasi sisa pembelian saham anak usaha PT Radja Udang Malingping (RUM).",
+   "Sisa 200.000.000.000 saham dijatahkan kepada lima investor independen berkewarganegaraan Indonesia melalui suntikan tunai Rp200 miliar, masing-masing Suripto, John Veter Firdaus, dan Antony Lesmana sebesar Rp50 miliar atau 50.000.000.000 saham per orang, serta Daniel Tejakusuma dan Rossa Linna sebesar Rp25 miliar atau 25.000.000.000 saham per orang. Setelah seluruh penerbitan rampung, HBEH diperkirakan menguasai sekitar 64,85 persen dan MCP sekitar 15,19 persen dari modal ditempatkan dan disetor Perseroan. Perseroan menyatakan PMTHMETD ini ditujukan memperbaiki struktur permodalan dan menopang kelangsungan usaha, dengan merujuk pengecualian kewajiban hak memesan efek terlebih dahulu karena modal kerja bersih negatif dan liabilitas yang melebihi 80 persen dari total aset.",
+   "Dokumen ini juga menyebut latar belakangnya: pada 29 Mei 2026 Perseroan mengambil alih 99,99 persen saham PT Citra Baru Steel senilai Rp668.006.058.612 dan 99,99 persen saham RUM senilai Rp156.490.000.000, keduanya dinyatakan sebagai transaksi material yang mendapat pengecualian dari kewajiban penilai independen dan persetujuan RUPS karena ekuitas Perseroan tercatat minus Rp7.348.223.729 pada akhir 2025."
+  ],
+  "fotoAdegan": "Empty corporate meeting hall with rows of chairs arranged for a shareholder meeting, soft morning light through windows.",
+  "takeaway": "Laporan perubahan ini tetap condong negatif bagi pemegang saham lama, karena inti transaksi yang dipertahankan dalam RUPSLB, yakni konversi utang dan suntikan tunai senilai lebih dari Rp1 triliun, akan membuat jumlah saham beredar MKNT membengkak hampir dua kali lipat sekaligus mengalihkan sekitar 80 persen kendali perusahaan kepada dua kreditur, HBEH dan MCP. Ini menyentuh pos ekuitas dan jumlah saham beredar, dua hal yang diperhatikan pasar karena makin banyak saham baru yang diterbitkan berarti laba dan hak suara pemegang saham lama terbagi ke lebih banyak pihak, sementara ekuitas Perseroan yang sebelumnya negatif berpotensi membaik lewat pelunasan utang tanpa kas keluar. Yang dihapus dari agenda, yaitu rencana menjadikan Perseroan perusahaan holding dan studi kelayakan perluasan usaha, tidak dijelaskan alasannya dalam dokumen ini sehingga belum bisa dinilai sebagai kabar baik atau buruk tersendiri. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada Senin, 14 September 2026, karena persetujuan pemegang saham menjadi syarat mutlak sebelum penerbitan saham baru ini bisa dieksekusi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "gmfi-koreksi-laporan-dana-rights-issue-rp6-02-triliun",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Koreksi Laporan Dana Rights Issue [Rp6,02 Triliun]",
+  "deck": "GMF Aero Asia mengoreksi laporan realisasi dana rights issue per 30 Juni 2026 usai ditelaah OJK, sisa dana Rp47,61 miliar masih mengendap di bank afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T14:50:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/353060c2d0_2c8b7e4450.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "rights issue",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "body": [
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) menyampaikan koreksi atas laporan realisasi penggunaan dana hasil rights issue yang sebelumnya dilaporkan pada 15 Juli 2026. Koreksi ini menindaklanjuti surat penelaahan Otoritas Jasa Keuangan Nomor S-1925/PM.222/2026 tanggal 28 Agustus 2026 terkait laporan realisasi per 30 Juni 2026. Dokumen ditandatangani oleh VP Corporate Secretary & Legal GMFI, Rian Fajar Isnaeni, pada 9 September 2026.",
+   "Dari rights issue dengan tanggal efektif 11 Desember 2025, GMFI meraih dana Rp6,02 triliun (Rp6.021.580.283.504), dengan biaya penawaran umum Rp30,20 miliar sehingga hasil bersihnya Rp5,99 triliun (Rp5.991.375.861.239), persis sesuai rencana di prospektus. Sesuai prospektus, dana itu dialokasikan untuk utilitas lahan operasional perseroan sebesar Rp5,66 triliun atau 94,55 persen, dan modal kerja perseroan sebesar Rp326,46 miliar atau 5,45 persen.",
+   "Realisasinya, alokasi untuk lahan operasional sudah terpakai penuh sesuai rencana yaitu Rp5,66 triliun atau 94,55 persen. Namun realisasi modal kerja baru Rp278,85 miliar atau 4,65 persen dari total dana, lebih kecil dari rencana Rp326,46 miliar. Selisihnya, Rp47,61 miliar, masih tersimpan sebagai giro di PT Bank Rakyat Indonesia (Persero) Tbk yang berstatus afiliasi perseroan, dengan bunga penempatan 3 persen per tahun.",
+   "Untuk biaya penawaran umum senilai Rp30,20 miliar, rinciannya adalah biaya jasa profesi penunjang pasar modal Rp18,87 miliar (62,49 persen), biaya jasa konsultasi keuangan Rp10,25 miliar (33,91 persen), biaya lain-lain yang dapat diatribusikan langsung sebagai biaya emisi Rp919,16 juta (3,04 persen), dan biaya jasa lembaga penunjang pasar modal Rp166,5 juta (0,55 persen). Sementara biaya jasa penjaminan, jasa penyelenggaraan, dan jasa penjualan tercatat nol."
+  ],
+  "fotoAdegan": "Aircraft maintenance technicians working beneath a wide-body jet inside a large hangar, tools scattered nearby, bright industrial lighting",
+  "takeaway": "Laporan koreksi ini tergolong netral bagi GMFI karena isinya hanya memperbaiki angka teknis pada laporan periode sebelumnya, tanpa mengubah arah penggunaan dana yang sudah berjalan sesuai rencana prospektus. Yang tersentuh di sini adalah arus kas perusahaan, karena dari Rp5,99 triliun dana bersih rights issue, porsi untuk modal kerja baru terealisasi Rp278,85 miliar dari rencana Rp326,46 miliar, sehingga sisa Rp47,61 miliar masih mengendap sebagai giro berbunga 3 persen di bank afiliasi alih-alih langsung dipakai membiayai operasional. Pelaku pasar biasanya mencermati kecepatan realisasi dana publik seperti ini karena dana yang mengendap terlalu lama berarti perusahaan belum memanfaatkan modalnya secara optimal, meski di sisi lain dana itu tetap menghasilkan bunga selagi menunggu dipakai. Yang perlu dipantau selanjutnya adalah laporan realisasi periode berikutnya untuk melihat apakah sisa dana modal kerja itu akhirnya terpakai, serta tindak lanjut GMFI atas surat penelaahan OJK Nomor S-1925/PM.222/2026 tanggal 28 Agustus 2026 yang memicu koreksi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbni-ungkap-materi-public-expose-kredit-tumbuh-24-yoy",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Ungkap Materi Public Expose, Kredit Tumbuh [24%] YoY",
+  "deck": "BNI mengoreksi surat sebelumnya dan merilis materi Public Expose Tahunan 1H26, memuat data kredit tumbuh 24% YoY, laba Rp10,8 triliun, dan CAR 18,1%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T13:25:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43f6f25197_e02b1191d8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBNI",
+  "tags": [
+   "BBNI",
+   "Bank Negara Indonesia",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk (BBNI) mengoreksi suratnya tertanggal 4 September 2026 perihal Penyampaian Materi Public Expose Tahunan. Surat koreksi bernomor CSE/7/8562 ini merujuk pada rencana penyelenggaraan Public Expose Tahunan yang sebelumnya diumumkan melalui surat No CSE/7/8303 tanggal 26 Agustus 2026. Surat ditandatangani oleh Okki Rushartomo Budiprabowo selaku Corporate Secretary BNI, dan melampirkan materi presentasi bertajuk 1H26 Public Expose Live yang dipaparkan di Jakarta pada 9 September 2026.",
+   "Materi presentasi tersebut memuat rincian kinerja keuangan semester I 2026. Laba bersih tercatat Rp10,8 triliun, naik 7 persen dibanding Rp10,1 triliun pada semester I 2025. Penyaluran kredit tumbuh 24 persen secara tahunan atau bertambah Rp189,7 triliun, sementara dana pihak ketiga tumbuh 22 persen atau bertambah Rp200,3 triliun. Rasio kecukupan modal (CAR) BNI, dihitung bank only, berada di 18,1 persen, jauh di atas syarat minimum otoritas sebesar 14,5 persen. Rasio kredit bermasalah (NPL) stabil di 1,9 persen, sama seperti setahun sebelumnya, sedangkan kredit berisiko gagal bayar (Loan at Risk) turun tajam dari 11,0 persen menjadi 8,1 persen. Pembentukan NPL baru tercatat Rp5,8 triliun pada semester I 2026, turun 26 persen dibanding periode sama tahun lalu.",
+   "Laba inti sebelum pencadangan (PPOP) konsolidasi mencapai Rp18,5 triliun, naik 14,5 persen secara tahunan dan menjadi capaian semester pertama tertinggi dalam lima tahun terakhir. Pendorongnya adalah pendapatan bunga bersih Rp22,3 triliun (naik 14,2 persen) dan pendapatan berbasis komisi Rp9,0 triliun (naik 14,2 persen). Portofolio pembiayaan berkelanjutan BNI mencapai Rp195,7 triliun atau 20,5 persen dari total kredit bank only, terdiri dari pembiayaan pemberdayaan sosial-ekonomi Rp120,4 triliun dan pembiayaan hijau Rp75,4 triliun yang tumbuh dengan CAGR 18,6 persen sejak Desember 2020. Materi presentasi juga mencantumkan konsensus analis Bloomberg per 27 Juli 2026: dari seluruh analis yang disurvei, 78 persen merekomendasikan beli saham BBNI, 17 persen tahan, dan 5 persen jual, dengan konsensus laba bersih tahun penuh 2026 sebesar Rp21,3 triliun, di mana capaian semester pertama sudah mencapai 51 persen dari target tersebut. Rasio pembayaran dividen yang direncanakan untuk tahun buku 2026 sebesar 65 persen, sama dengan tahun sebelumnya."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at a busy counter inside a modern branch in Jakarta, morning light",
+  "takeaway": "Laporan ini condong positif bagi BNI, karena hampir seluruh indikator utama, mulai dari pertumbuhan kredit, kualitas aset, hingga permodalan, bergerak membaik dibanding tahun lalu. Rasio kecukupan modal atau CAR, yakni bantalan dana yang wajib disiapkan bank untuk menyerap potensi kerugian, berada di 18,1 persen, jauh di atas syarat minimum 14,5 persen, sehingga BNI masih punya ruang modal luas untuk terus menyalurkan kredit. Loan at Risk, yaitu kredit yang berpotensi bermasalah meski belum resmi macet, turun tajam dari 11,0 persen menjadi 8,1 persen, tanda bahwa porsi kredit berisiko di neraca BNI mengecil. Laba inti sebelum pencadangan atau PPOP naik 14,5 persen menjadi capaian semester pertama tertinggi dalam lima tahun, menunjukkan mesin penghasil laba bank menguat bukan sekadar dari pengurangan cadangan kerugian. Yang perlu dipantau ke depan adalah apakah pertumbuhan kredit 24 persen dan dana pihak ketiga 22 persen secara tahunan ini bisa dipertahankan hingga akhir 2026 tanpa menekan kembali kualitas aset, mengingat capaian laba semester pertama baru mencapai 51 persen dari konsensus laba setahun penuh Rp21,3 triliun.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "keyakinan-konsumen-agustus-naik-jadi-118-5",
   "category": "Makroekonomi",
   "title": "Keyakinan Konsumen Agustus [Naik] jadi 118,5",

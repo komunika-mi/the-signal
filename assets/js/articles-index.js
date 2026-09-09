@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Coret Agenda [Ekspansi Usaha] dari RUPSLB PMTHMETD",
+  "deck": "MKNT mencabut agenda ekspansi usaha sebagai holding dari RUPSLB, sementara konversi utang Rp822,9 miliar kreditur menjadi saham tetap dibawa ke RUPSLB 14 September 2026.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "RUPSLB",
+   "konversi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00d7aa890a_9399c2aabd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-koreksi-laporan-dana-rights-issue-rp6-02-triliun",
+  "category": "Aksi Korporasi",
+  "title": "GMFI Koreksi Laporan Dana Rights Issue [Rp6,02 Triliun]",
+  "deck": "GMF Aero Asia mengoreksi laporan realisasi dana rights issue per 30 Juni 2026 usai ditelaah OJK, sisa dana Rp47,61 miliar masih mengendap di bank afiliasi.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "rights issue",
+   "penggunaan dana",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/353060c2d0_2c8b7e4450.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbni-ungkap-materi-public-expose-kredit-tumbuh-24-yoy",
+  "category": "Aksi Korporasi",
+  "title": "BBNI Ungkap Materi Public Expose, Kredit Tumbuh [24%] YoY",
+  "deck": "BNI mengoreksi surat sebelumnya dan merilis materi Public Expose Tahunan 1H26, memuat data kredit tumbuh 24% YoY, laba Rp10,8 triliun, dan CAR 18,1%.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBNI",
+   "Bank Negara Indonesia",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/43f6f25197_e02b1191d8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "keyakinan-konsumen-agustus-naik-jadi-118-5",
   "category": "Makroekonomi",
   "title": "Keyakinan Konsumen Agustus [Naik] jadi 118,5",
@@ -6482,55 +6530,6 @@ var ARTICLES = [
    "rights issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff2c0ac24_60a9c62c5c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027",
-  "category": "Makroekonomi",
-  "title": "BP Batam Siapkan Anggaran Rp2,4 Triliun Tanpa [APBN] 2027",
-  "deck": "BP Batam menyiapkan anggaran sekitar Rp2,4 triliun untuk pembangunan 2027 tanpa tambahan APBN, mengandalkan optimalisasi PNBP agar anggaran negara bisa dialihkan ke daerah lain.",
-  "date": "2 September 2026",
-  "image": "assets/img/bp-batam-siapkan-anggaran-rp2-4-triliun-tanpa-apbn-2027.jpg",
-  "imageV": "mtkirlow",
-  "tags": [
-   "BP Batam",
-   "APBN",
-   "PNBP",
-   "Anggaran 2027"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464439-tak-mau-bergantung-apbn-bp-batam-siapkan-anggaran-rp24-triliun-untuk-pembangunan-2027"
- },
- {
-  "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
-  "category": "Aksi Korporasi",
-  "title": "BBHI Siapkan Buyback Saham [Rp300 Miliar] hingga Desember",
-  "deck": "Allo Bank Indonesia (BBHI) akan membeli kembali sahamnya sendiri senilai maksimal Rp300 miliar pada 3 September-2 Desember 2026 untuk menstabilkan harga di tengah pasar yang bergejolak.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBHI",
-   "buyback saham",
-   "Allo Bank Indonesia",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d00973675_7fdad62f35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dyan-ungkap-pembelian-saham-oleh-pemegang-saham-mondial",
-  "category": "Aksi Korporasi",
-  "title": "DYAN Ungkap Pembelian Saham oleh Pemegang Saham [Mondial]",
-  "deck": "DYAN menjelaskan ke BEI bahwa lonjakan transaksi sahamnya terkait pembelian oleh pemegang saham di atas 5%, PT Mondial Investama Indonesia, pada 31 Agustus 2026.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DYAN",
-   "Dyandra Media International",
-   "pemegang saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4841727199_5755314fef.pdf",
   "sourceLabel": "IDX"
  }
 ];

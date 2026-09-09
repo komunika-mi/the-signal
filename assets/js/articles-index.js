@@ -23,6 +23,102 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "bbkp-lunasi-obligasi-senilai-rp1-14-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Lunasi [Obligasi] Senilai Rp1,14 Triliun",
+  "deck": "Bank KB Indonesia melunasi pokok dan bunga dua seri obligasi senilai total Rp1,14 triliun pada 9 September 2026, menuntaskan seluruh kewajiban atas obligasi tersebut.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "obligasi",
+   "KB Bank",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba6d8a1914_8f5c01d9d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "chek-jawab-bursa-soal-lonjakan-volume-saham-26-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Jawab Bursa soal [Lonjakan] Volume Saham 26 Kali Lipat",
+  "deck": "Volume saham CHEK melonjak jadi 32,1 juta lembar dengan 5.042 kali transaksi, dari sebelumnya 1,2 juta lembar, saat harga naik 2,99 persen ke Rp138.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEK",
+   "UMA saham",
+   "volatilitas transaksi",
+   "Diastika Biotekindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4c7f022dc_02a414b72c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "labs-beri-penjelasan-usai-saham-melonjak-23-64-dalam-sehari",
+  "category": "Aksi Korporasi",
+  "title": "LABS Beri Penjelasan usai Saham [Melonjak] 23,64% dalam Sehari",
+  "deck": "Harga saham LABS melonjak 23,64% ke Rp204 dengan volume transaksi naik hingga 118 kali lipat pada 7 September 2026. Manajemen menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LABS",
+   "UBC Medical Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e3bd4b7a7_e99d6fe99d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apic-ungkap-rencana-pelunasan-mtn-rp400-miliar-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "APIC Ungkap Rencana Pelunasan [MTN] Rp400 Miliar di Public Expose",
+  "deck": "Dalam hasil public expose tahunan, manajemen APIC menyebut MTN Rp400 miliar berbunga 9,75% jatuh tempo tahun ini, ekuitas naik dari keuntungan belum terealisasi, dan tidak ada dividen.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIC",
+   "Pacific Strategic Financial",
+   "public expose",
+   "MTN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b363069198_24ec521bd6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdln-panggil-rupslb-kedua-minta-restu-alihkan-aset-di-atas-50",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Panggil RUPSLB Kedua, Minta Restu Alihkan [Aset] di Atas 50%",
+  "deck": "Setelah RUPS pertama gagal kuorum, Modernland Realty memanggil RUPSLB kedua pada 14 September untuk meminta restu pengalihan atau penjaminan aset melebihi 50% kekayaan bersih perusahaan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "RUPSLB",
+   "Modernland Realty",
+   "aset perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0593cd6057_c299cf1963.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "isat-fitch-pertahankan-peringkat-aaa-untuk-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "ISAT: Fitch Pertahankan Peringkat [AAA] untuk Obligasi dan Sukuk",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang Indosat di AAA(idn) dengan outlook stabil untuk seluruh obligasi dan sukuk ijarah berkelanjutan perseroan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISAT",
+   "Fitch Ratings",
+   "peringkat obligasi",
+   "sukuk"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f74e41bbc2_fcd8c3bbb0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-610-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.610.000 per Gram",
@@ -55,6 +151,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465894-rupiah-menguat-ke-rp17590-per-dolar-as-usai-rilis-cadangan-devisa-agustus-2026"
+ },
+ {
+  "slug": "saham-sure-bergejolak-manajemen-klaim-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Saham SURE Bergejolak, Manajemen Klaim Tak Ada Informasi [Material]",
+  "deck": "Merespons permintaan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Super Energy Tbk (SURE) menyatakan tidak mengetahui informasi material maupun rencana aksi korporasi yang memicunya.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SURE",
+   "Super Energy Tbk",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b32a521ead_611cb7d48a.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok",
@@ -6419,119 +6531,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/232a481934_29e93c924b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm",
-  "category": "UMKM",
-  "title": "RUU Kadin Dibahas DPR, Anindya Bakrie Dorong Penguatan [UMKM]",
-  "deck": "Kadin Indonesia mengusulkan penguatan UMKM dan koperasi daerah dalam pembahasan revisi UU Kadin 1987 bersama Komisi VI DPR.",
-  "date": "2 September 2026",
-  "image": "assets/img/ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm.jpg",
-  "imageV": "mtkirm82",
-  "tags": [
-   "RUU Kadin",
-   "UMKM",
-   "Kadin Indonesia",
-   "DPR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464427-ruu-kadin-dibahas-dpr-anindya-bakrie-dorong-penguatan-umkm-di-daerah-agar-naik-kelas"
- },
- {
-  "slug": "elsa-cetak-laba-bersih-rp435-miliar-di-semester-i-2026-naik-29-2",
-  "category": "Aksi Korporasi",
-  "title": "ELSA Cetak [Laba] Bersih Rp435 Miliar di Semester I 2026, Naik 29,2%",
-  "deck": "Elnusa menyampaikan materi public expose tahunan ke BEI, memuat kinerja keuangan semester I 2026 yang tumbuh di hampir semua pos utama.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELSA",
-   "Elnusa",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/32afa8e1bd_6fa49412cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zp-bank-maybank-indonesia-kuasai-41-32-saham-maybank-sekuritas",
-  "category": "Aksi Korporasi",
-  "title": "ZP: Bank Maybank Indonesia Kuasai [41,32%] Saham Maybank Sekuritas",
-  "deck": "PT Maybank Sekuritas Indonesia (ZP) rampungkan pengambilalihan saham dengan suntikan modal Rp219,66 miliar, menjadikan PT Bank Maybank Indonesia Tbk pemegang saham berporsi 41,32%.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZP",
-   "Maybank Sekuritas Indonesia",
-   "waran terstruktur",
-   "akuisisi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed2786b837_b086e606d4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptba-paparkan-progres-proyek-rel-tanjung-enim-keramasan-93",
-  "category": "Aksi Korporasi",
-  "title": "PTBA Paparkan Progres Proyek [Rel] Tanjung Enim-Keramasan 93%",
-  "deck": "Materi public expose tahunan PTBA memuat progres proyek rel Tanjung Enim-Keramasan 93,45%, ekspansi pelabuhan, dan proyek hilirisasi batu bara.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTBA",
-   "Bukit Asam",
-   "Public Expose",
-   "hilirisasi batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4d14ec5d1_27e91adf70.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "PGJO dan MDIA [Keluar] dari Pemantauan Khusus BEI",
-  "deck": "Bursa mencabut status pemantauan khusus dua emiten, PGJO dan MDIA, efektif 3 September 2026, seiring perubahan papan pencatatan keduanya.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGJO",
-   "MDIA",
-   "BEI",
-   "pemantauan khusus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/246d167468_ba5e6d70e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "alka-agar-tama-masuk-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "ALKA, AGAR, TAMA Masuk [Pemantauan Khusus] BEI",
-  "deck": "BEI memasukkan tiga saham, ALKA, AGAR, dan TAMA, ke papan pemantauan khusus mulai 3 September 2026 akibat suspensi perdagangan panjang dan ekuitas negatif.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ALKA",
-   "AGAR",
-   "TAMA",
-   "pemantauan khusus BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec618acb50_49acaa3a53.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt",
-  "category": "Bisnis",
-  "title": "Freeport Salurkan Bantuan [Rp2,5 M] untuk Gempa NTT",
-  "deck": "PTFI menyerahkan bantuan kemanusiaan Rp2,5 miliar bagi korban gempa M7,7 di NTT, mencakup 700 paket kebutuhan dasar, lima hunian sementara, dan empat sekolah darurat.",
-  "date": "2 September 2026",
-  "image": "assets/img/freeport-salurkan-bantuan-rp2-5-m-untuk-gempa-ntt.jpg",
-  "imageV": "mtkirmos",
-  "tags": [
-   "Freeport",
-   "PTFI",
-   "Gempa NTT",
-   "Bantuan Kemanusiaan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464417-freeport-salurkan-bantuan-kemanusiaan-rp25-miliar-untuk-masyarakat-terdampak-gempa-ntt"
  }
 ];

@@ -30,6 +30,162 @@ var ARTICLES = [
   "imageV": "mttm7usg"
  },
  {
+  "slug": "bbkp-lunasi-obligasi-senilai-rp1-14-triliun",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Lunasi [Obligasi] Senilai Rp1,14 Triliun",
+  "deck": "Bank KB Indonesia melunasi pokok dan bunga dua seri obligasi senilai total Rp1,14 triliun pada 9 September 2026, menuntaskan seluruh kewajiban atas obligasi tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T11:17:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba6d8a1914_8f5c01d9d0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "obligasi",
+   "KB Bank",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) melalui PT Kustodian Sentral Efek Indonesia (KSEI) telah melunasi pokok dan membayar bunga dua seri obligasi. Dana disetor perseroan ke KSEI pada 7 September 2026 dan didistribusikan ke pemegang obligasi pada 9 September 2026. Seri pertama, Obligasi Subordinasi Berkelanjutan III Bank KB Bukopin Tahap I Tahun 2021 Seri A, dilunasi dengan pokok Rp315 miliar ditambah bunga ke-20 sebesar Rp6,3 miliar. Seri kedua, Obligasi Berkelanjutan II KB Bank Tahap II Tahun 2025 Seri A, dilunasi dengan pokok Rp800 miliar ditambah bunga ke-4 sebesar Rp14,33 miliar.",
+   "Total dana yang dibayarkan untuk pokok dan bunga kedua obligasi tersebut mencapai Rp1.135.633.336.000, atau sekitar Rp1,14 triliun. Menurut dokumen, dana pelunasan berasal dari dana pihak ketiga, pencairan surat berharga milik perseroan, dan/atau transaksi antarbank lainnya. Dengan pembayaran ini, seluruh kewajiban BBKP atas masing-masing seri obligasi tersebut dinyatakan berakhir, dan perseroan menyatakan tidak ada dampak material lain terhadap operasional, kondisi hukum, keuangan, maupun kelangsungan usahanya.",
+   "Laporan ditandatangani oleh Ariz Dian Perkasa selaku Sekretaris Perusahaan BBKP. Surat pemberitahuan resmi ke OJK dan BEI juga ditembuskan kepada dua wali amanat obligasi, yaitu PT Bank Mandiri (Persero) Tbk dan PT Bank Rakyat Indonesia (Persero) Tbk."
+  ],
+  "fotoAdegan": "Wide exterior shot of a glass-clad bank office tower in Jakarta's financial district, morning light, busy street traffic below, no legible signage.",
+  "takeaway": "Laporan ini netral bagi kinerja BBKP karena pelunasan obligasi ini memang sudah jatuh tempo sesuai jadwal, bukan langkah strategis yang mengubah arah bisnis bank. Dua pos yang tersentuh adalah arus kas dan beban bunga: bank mengeluarkan kas Rp1,14 triliun untuk membayar kewajiban pendanaan, tetapi setelah ini kewajiban membayar bunga rutin atas kedua seri obligasi tersebut hilang dari pembukuan sehingga meringankan beban bunga ke depan. Salah satu obligasi yang dilunasi berjenis subordinasi, jenis utang yang biasanya turut diperhitungkan sebagai modal pelengkap bank dalam rasio kecukupan modal, sehingga pelunasannya berpotensi mengecilkan bantalan modal itu meski dokumen ini tidak merinci dampaknya ke rasio tersebut. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah BBKP menerbitkan obligasi baru sebagai pengganti pendanaan yang sudah lunas atau membiarkan struktur permodalannya mengecil.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "chek-jawab-bursa-soal-lonjakan-volume-saham-26-kali-lipat",
+  "category": "Aksi Korporasi",
+  "title": "CHEK Jawab Bursa soal [Lonjakan] Volume Saham 26 Kali Lipat",
+  "deck": "Volume saham CHEK melonjak jadi 32,1 juta lembar dengan 5.042 kali transaksi, dari sebelumnya 1,2 juta lembar, saat harga naik 2,99 persen ke Rp138.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T11:16:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4c7f022dc_02a414b72c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEK",
+  "tags": [
+   "CHEK",
+   "UMA saham",
+   "volatilitas transaksi",
+   "Diastika Biotekindo"
+  ],
+  "body": [
+   "PT Diastika Biotekindo Tbk (CHEK) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11492/BEI.PP1/09-2026 tanggal 8 September 2026 terkait volatilitas transaksi efeknya. Dalam surat balasan nomor 137/DIR/DB/IX/2026 yang diteken Direktur Utama Franciscus Xaverius Yoshua Raintjung pada 9 September 2026, perseroan memastikan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik yang bisa memengaruhi harga sahamnya.",
+   "Berdasarkan data yang disertakan, volume transaksi saham CHEK melonjak menjadi 32.139.000 lembar dengan frekuensi 5.042 kali, jauh di atas hari bursa sebelumnya yang hanya 1.237.100 lembar dengan 197 kali transaksi, atau naik sekitar 26 kali lipat dari sisi volume. Harga saham ikut bergerak, ditutup naik Rp4 atau 2,99 persen dari Rp134 menjadi Rp138.",
+   "Dalam jawaban standarnya kepada bursa dan OJK, manajemen CHEK menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang belum dilaporkan, tidak memiliki rencana aksi korporasi yang dapat memengaruhi pencatatan sahamnya dalam tiga bulan ke depan, dan telah mengonfirmasi kepada pemegang saham utama serta pengendali bahwa tidak ada rencana perubahan kepemilikan saham dalam waktu dekat."
+  ],
+  "fotoAdegan": "Blurred trading floor with employees monitoring distant computer screens in a Jakarta brokerage office, soft morning light",
+  "takeaway": "Laporan ini netral bagi CHEK karena isinya cuma konfirmasi rutin bahwa lonjakan transaksi tidak dipicu informasi rahasia, bukan perubahan pada kinerja atau permodalan perusahaan. Yang disentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan mekanisme keterbukaan informasi yang mewajibkan emiten menjelaskan ke bursa begitu harga atau volume sahamnya bergerak tidak wajar, supaya investor tahu apakah pergerakan itu didasari data nyata atau cuma spekulasi pasar. Lonjakan volume di CHEK memang ekstrem, sekitar 26 kali dari hari sebelumnya, tapi kenaikan harganya sendiri tergolong tipis yaitu Rp4 atau 2,99 persen, sehingga belum ada indikasi kuat soal arah baru. Yang perlu dipantau selanjutnya adalah apakah pola transaksi tak wajar ini berulang di hari-hari mendatang, karena permintaan penjelasan serupa dari bursa biasanya muncul lagi kalau volatilitasnya terus berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "labs-beri-penjelasan-usai-saham-melonjak-23-64-dalam-sehari",
+  "category": "Aksi Korporasi",
+  "title": "LABS Beri Penjelasan usai Saham [Melonjak] 23,64% dalam Sehari",
+  "deck": "Harga saham LABS melonjak 23,64% ke Rp204 dengan volume transaksi naik hingga 118 kali lipat pada 7 September 2026. Manajemen menyatakan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T11:16:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e3bd4b7a7_e99d6fe99d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LABS",
+  "tags": [
+   "LABS",
+   "UBC Medical Indonesia",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT UBC Medical Indonesia Tbk (LABS) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia dan Otoritas Jasa Keuangan menyusul permintaan klarifikasi atas lonjakan harga dan volume perdagangan sahamnya. Surat permintaan penjelasan bernomor S-11491/BEI.PP1/09-2026 dikirim bursa pada 8 September 2026, dan LABS membalas melalui surat nomor 043/CS-MM/LABS/IX/26 tertanggal 9 September 2026 yang ditandatangani Direktur Utama Franciscus Xaverius Yoshua Raintjung.",
+   "Dokumen itu merinci bahwa pada 7 September 2026 harga saham LABS ditutup naik Rp39 atau 23,64 persen, dari Rp165 pada hari bursa sebelumnya menjadi Rp204. Volume transaksi melonjak jauh lebih tajam, dari 684.200 saham dengan 220 kali transaksi pada hari sebelumnya menjadi 80.990.100 saham dengan 9.968 kali transaksi, atau naik sekitar 118 kali lipat dari sisi jumlah saham yang diperdagangkan.",
+   "Dalam jawabannya, manajemen LABS menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik yang dapat memengaruhi nilai maupun harga sahamnya, baik menurut aturan OJK soal keterbukaan informasi maupun ketentuan Bursa. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan aturan OJK Nomor 4 Tahun 2024, tidak memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya, dan telah mengonfirmasi kepada pemegang saham utama dan pengendali bahwa tidak ada rencana perubahan kepemilikan saham yang perlu diumumkan."
+  ],
+  "fotoAdegan": "Technicians in white coats inspecting small medical devices on an assembly line inside a modest Jakarta industrial estate workshop.",
+  "takeaway": "Laporan ini netral bagi LABS, sebab isinya hanya bantahan resmi bahwa lonjakan harga 23,64 persen dan ledakan volume transaksi bukan dipicu aksi korporasi atau informasi material yang disembunyikan, bukan pengumuman perkembangan bisnis baru. Pos yang biasanya jadi perhatian pelaku pasar, seperti jumlah saham beredar atau struktur permodalan, sama sekali tidak berubah menurut dokumen ini, sehingga tidak ada dilusi laba per saham. Yang benar-benar melonjak hanyalah likuiditas perdagangan, yakni seberapa banyak saham berpindah tangan dalam sehari, dari 684.200 saham menjadi 80.990.100 saham, tanpa disertai perubahan fundamental apa pun. Yang perlu terus dipantau investor adalah apakah pola transaksi tak wajar ini berulang di hari-hari bursa berikutnya, karena itu bisa membuat bursa menaikkan status pengawasannya, serta pernyataan Perseroan bahwa tidak ada rencana aksi korporasi hingga sekitar tiga bulan sejak surat ini terbit, atau awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apic-ungkap-rencana-pelunasan-mtn-rp400-miliar-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "APIC Ungkap Rencana Pelunasan [MTN] Rp400 Miliar di Public Expose",
+  "deck": "Dalam hasil public expose tahunan, manajemen APIC menyebut MTN Rp400 miliar berbunga 9,75% jatuh tempo tahun ini, ekuitas naik dari keuntungan belum terealisasi, dan tidak ada dividen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T11:06:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b363069198_24ec521bd6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIC",
+  "tags": [
+   "APIC",
+   "Pacific Strategic Financial",
+   "public expose",
+   "MTN"
+  ],
+  "body": [
+   "PT Pacific Strategic Financial Tbk (APIC) menerbitkan koreksi atas laporan hasil public expose tahunan yang sebelumnya disampaikan pada 23 Juni 2026. Public expose sendiri berlangsung Jumat, 19 Juni 2026 pukul 11.00 WIB melalui Zoom Meeting, dihadiri jajaran komisaris dan direksi yaitu Komisaris Utama Agus Herlambang, Komisaris Independen Leon Tangi, Direktur Utama Jon Adijaya, serta Direktur yang juga menjabat Corporate Secretary, Wiyana, yang menyampaikan presentasi kinerja operasional 2025. Selain manajemen, hadir empat peserta publik yaitu investor bernama William, analis bernama Daniel, wartawan Ipotnews Marjudin, dan satu peserta publik lain bernama Deffandi Nasrul.",
+   "Dalam sesi tanya jawab, manajemen mengungkap bahwa sektor asuransi menyumbang sekitar 78 persen dari total pendapatan perseroan, dengan andalan premi asuransi jiwa, sementara sektor pembiayaan tengah mengembangkan sales and leaseback factoring serta pembiayaan multiguna lewat kantor pusat dan cabang di berbagai kota. Perseroan juga memiliki surat utang jangka menengah atau MTN senilai Rp400 miliar dengan bunga 9,75 persen yang jatuh tempo tahun ini, dan manajemen menyiapkan dua opsi pelunasan yaitu menerbitkan surat utang baru atau menjual sebagian aset investasi. Ekuitas perseroan tercatat tumbuh 30,34 persen sepanjang 2025, namun manajemen mengonfirmasi kenaikan itu berasal dari penghasilan komprehensif lain yang sifatnya keuntungan belum terealisasi dari bisnis asuransi, bukan dari laba berjalan. Manajemen juga menyebut laba bersih justru naik meski pendapatan turun tiga tahun berturut-turut, ditopang penurunan beban administrasi sebesar 24,7 persen yang disebut sebagai penyesuaian kebijakan mengikuti perkembangan regulasi dan tata kelola berkelanjutan.",
+   "Manajemen memastikan tidak ada pembagian dividen tahun ini. Terkait tren kenaikan suku bunga acuan dan fluktuasi rupiah, manajemen menyatakan beban bunga pinjaman perseroan sudah tetap dan tidak berubah kecuali ada pinjaman baru, sementara perubahan nilai tukar tidak berdampak karena seluruh pinjaman perseroan dan investasi entitas anak dalam mata uang rupiah. Untuk 2026, manajemen menargetkan pendapatan usaha naik dari tahun 2025 dan laba usaha naik sekitar 22 persen dari tahun 2025."
+  ],
+  "fotoAdegan": "Professionals in a glass-walled office conference room during a video call discussion, laptop screens softly blurred, Jakarta skyline outside the window",
+  "takeaway": "Laporan ini netral bagi APIC, karena isinya lebih banyak menjelaskan risiko dan mekanisme yang sudah berjalan ketimbang membawa kabar baik atau buruk yang baru. Yang perlu diperhatikan adalah pos utang dan arus kas: perseroan punya surat utang Rp400 miliar berbunga 9,75 persen yang jatuh tempo tahun ini, dan rencana pelunasannya masih berupa dua opsi, yaitu menerbitkan surat utang baru atau menjual aset investasi, sehingga kas perseroan bisa tertekan kalau salah satu opsi itu tidak berjalan lancar. Kenaikan ekuitas 30,34 persen di 2025 juga perlu dibaca hati-hati karena sumbernya adalah keuntungan yang belum terealisasi dari bisnis asuransi, bukan dari laba usaha, sehingga nilainya bisa berubah mengikuti pergerakan pasar keuangan, dan perseroan memastikan tidak ada dividen tahun ini. Yang perlu dipantau selanjutnya adalah bagaimana perseroan merealisasikan pelunasan MTN tersebut sepanjang 2026 dan apakah target kenaikan laba usaha 22 persen dari manajemen benar-benar tercapai.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdln-panggil-rupslb-kedua-minta-restu-alihkan-aset-di-atas-50",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Panggil RUPSLB Kedua, Minta Restu Alihkan [Aset] di Atas 50%",
+  "deck": "Setelah RUPS pertama gagal kuorum, Modernland Realty memanggil RUPSLB kedua pada 14 September untuk meminta restu pengalihan atau penjaminan aset melebihi 50% kekayaan bersih perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T11:01:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0593cd6057_c299cf1963.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "RUPSLB",
+   "Modernland Realty",
+   "aset perusahaan"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua, setelah RUPS pertama yang digelar 4 September 2026 gagal mencapai kuorum. RUPSLB kedua dijadwalkan Senin, 14 September 2026 pukul 10.00 WIB, bertempat di Club House Jakarta Garden City, Jl. Raya Cakung Timur, Kecamatan Cakung, Jakarta.",
+   "Agenda tunggal rapat ini adalah meminta persetujuan pemegang saham atas rencana pengalihan, pemindahtanganan, dan/atau penjaminan aset atau kekayaan Perseroan yang nilainya melebihi 50 persen dari total kekayaan bersih perusahaan, baik dalam satu transaksi maupun lebih. Perseroan menyebut persetujuan ini diperlukan untuk memenuhi ketentuan Undang-Undang No. 40 Tahun 2007 tentang Perseroan Terbatas dan Peraturan OJK No. 15/POJK.04/2020, namun dokumen pemanggilan tidak merinci aset spesifik yang dimaksud, calon pembeli atau penerima jaminan, nilai transaksi, maupun tujuan penggunaan dananya.",
+   "Yang berhak hadir dalam RUPSLB adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 8 September 2026 pukul 16.00 WIB. Bagi pemegang saham dengan saham tanpa warkat di penitipan kolektif KSEI, Perseroan mendorong pemberian kuasa elektronik (e-Proxy) lewat sistem eASY.KSEI paling lambat 11 September 2026 pukul 12.00 WIB, sementara surat kuasa manual harus sudah diterima direksi selambatnya tiga hari kerja sebelum RUPSLB. Pemanggilan ini ditandatangani Corporate Secretary Yahya Danu Kusumo Pate pada 9 September 2026."
+  ],
+  "fotoAdegan": "Rows of unfinished residential housing units under construction at a large suburban housing estate near Jakarta, workers and scaffolding visible, midday light",
+  "takeaway": "Laporan ini netral, tapi perlu dicermati serius karena agenda tunggalnya meminta kewenangan luas bagi direksi untuk mengalihkan atau menjaminkan aset di atas separuh kekayaan bersih perusahaan, tanpa merinci aset, pembeli, harga, atau tujuan dananya, sehingga terlalu dini disebut sinyal positif atau negatif bagi Modernland Realty. Persetujuan semacam ini menyentuh pos aset dan ekuitas di neraca perusahaan: kalau aset dijaminkan, ruang untuk mencari pinjaman baru dengan agunan yang sama ikut menyempit, sedangkan kalau aset itu dijual, nilai buku dan potensi pendapatan dari aset tersebut hilang dari laporan keuangan ke depan. Gagalnya RUPS pertama mencapai kuorum pada 4 September 2026 juga jadi catatan tersendiri, karena menunjukkan belum semua pemegang saham cukup terlibat untuk memenuhi syarat sah rapat sebelumnya. Yang perlu dipantau berikutnya adalah tenggat pemberian kuasa elektronik pada 11 September 2026 pukul 12.00 WIB, hasil RUPSLB kedua pada 14 September 2026, serta apakah Perseroan akhirnya mengungkap aset spesifik, nilai transaksi, dan pihak yang terlibat dalam rencana ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "isat-fitch-pertahankan-peringkat-aaa-untuk-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "ISAT: Fitch Pertahankan Peringkat [AAA] untuk Obligasi dan Sukuk",
+  "deck": "Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang Indosat di AAA(idn) dengan outlook stabil untuk seluruh obligasi dan sukuk ijarah berkelanjutan perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T10:32:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f74e41bbc2_fcd8c3bbb0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISAT",
+  "tags": [
+   "ISAT",
+   "Fitch Ratings",
+   "peringkat obligasi",
+   "sukuk"
+  ],
+  "body": [
+   "PT Fitch Ratings Indonesia mengafirmasi peringkat nasional jangka panjang PT Indosat Tbk (ISAT) di level AAA(idn) dengan outlook stabil, sesuai surat bernomor 165/DIR/RATLTR/VIII/2026 tertanggal 28 Agustus 2026. Peringkat yang sama juga berlaku untuk Obligasi Berkelanjutan I Tahap IV, Obligasi Berkelanjutan II Tahap I dan II, Sukuk Ijarah Berkelanjutan I Tahap IV, serta Sukuk Ijarah Berkelanjutan II Tahap I dan II. Fitch menyebut peringkat AAA merupakan level tertinggi dalam skala nasionalnya, diberikan kepada emiten atau efek dengan ekspektasi risiko gagal bayar paling rendah dibanding emiten lain di Indonesia.",
+   "Rincian efek yang tercakup mencakup Obligasi Berkelanjutan II Indosat Tahap I 2017 Seri E senilai pokok Rp538 miliar yang jatuh tempo 31 Mei 2027, Obligasi Berkelanjutan II Indosat Tahap II 2017 Seri E senilai Rp511 miliar jatuh tempo 9 November 2027, Sukuk Ijarah Berkelanjutan II Tahap I 2017 Seri D senilai Rp63 miliar jatuh tempo 31 Mei 2027, dan Sukuk Ijarah Berkelanjutan II Tahap II 2017 Seri E senilai Rp193 miliar jatuh tempo 9 November 2027. Total pokok keempat instrumen ini mencapai sekitar Rp1,305 triliun. Periode berlaku peringkat ditetapkan sejak 28 Agustus 2026 hingga 27 Agustus 2027.",
+   "Laporan disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 8 September 2026 oleh Reski Damayanti, Direktur dan Chief Legal & Regulatory Officer sekaligus Corporate Secretary PT Indosat Tbk, mengacu pada Peraturan OJK No. 49/POJK.04/2020 tentang Pemeringkatan Efek Bersifat Utang dan/atau Sukuk. Surat hasil pemeringkatan dari Fitch sendiri ditandatangani oleh Olly Prayudi selaku Direktur PT Fitch Ratings Indonesia."
+  ],
+  "fotoAdegan": "Telecom technicians checking server racks and fiber optic cabling inside a dim data center control room",
+  "takeaway": "Ini kabar netral, sebab Fitch hanya menegaskan ulang peringkat AAA(idn) yang memang sudah disandang Indosat sebelumnya, bukan menaikkan atau menurunkannya, jadi belum ada perubahan pada persepsi risiko kredit perseroan. Peringkat setinggi ini menandakan kemampuan Indosat membayar utang dinilai sangat kuat, termasuk untuk obligasi dan sukuk senilai total sekitar Rp1,305 triliun yang tercakup dalam laporan ini, dan biasanya membantu perseroan mendapat bunga pinjaman lebih murah ketika menerbitkan surat utang baru dibanding emiten dengan peringkat lebih rendah. Fitch memantau peringkat ini secara berkelanjutan dan wajib memperbarui suratnya setidaknya sekali setahun, sehingga tinjauan berikutnya sekitar Agustus 2027 layak dicermati, terutama jika ada perubahan kondisi keuangan atau bisnis Indosat yang bisa menggeser peringkat maupun outlook stabilnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-emas-antam-turun-jadi-rp2-610-000-per-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Jadi Rp2.610.000 per Gram",
@@ -81,6 +237,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Cadangan devisa naik US$1,2 miliar dalam sebulan, dari US$145,3 miliar jadi US$146,5 miliar, sehingga kini setara kemampuan membiayai 5,4 bulan impor, naik dari 5,3 bulan sebelumnya. Artinya persediaan dolar pemerintah dan Bank Indonesia untuk membayar barang impor serta utang luar negeri makin tebal, yang jadi bantalan kalau rupiah bergejolak. Yang perlu dicermati, penguatan rupiah ke Rp17.590 pada Rabu pagi ini justru diperkirakan analis pasar uang berbalik melemah ke rentang Rp17.630-Rp17.670 pada penutupan hari yang sama. Kalau proyeksi itu terbukti, penguatan pagi ini lebih terlihat sebagai reaksi sesaat terhadap rilis data cadangan devisa ketimbang tren yang kokoh. Kepastiannya baru akan terlihat dari kurs penutupan rupiah sore ini dan pergerakan kurs JISDOR pada hari-hari berikutnya.",
   "imageV": "mttm7vlw"
+ },
+ {
+  "slug": "saham-sure-bergejolak-manajemen-klaim-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Saham SURE Bergejolak, Manajemen Klaim Tak Ada Informasi [Material]",
+  "deck": "Merespons permintaan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, Super Energy Tbk (SURE) menyatakan tidak mengetahui informasi material maupun rencana aksi korporasi yang memicunya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T09:29:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b32a521ead_611cb7d48a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SURE",
+  "tags": [
+   "SURE",
+   "Super Energy Tbk",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Super Energy Tbk (SURE) memberikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan klarifikasi bernomor S-11403/BEI.PP2/09-2026 tertanggal 7 September 2026 terkait volatilitas transaksi efek perseroan. Jawaban perusahaan disampaikan melalui surat nomor 361/SEC/SE/IX/26 tertanggal 9 September 2026, ditandatangani oleh Andre Rachman selaku Corporate Secretary.",
+   "Dalam suratnya, SURE menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E Bursa Efek Indonesia. Perseroan juga mengaku tidak mengetahui aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham dan aktivitas penjaminan saham perusahaan terbuka.",
+   "Terkait rencana ke depan, manajemen menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, setidaknya untuk tiga bulan mendatang sejak surat ini terbit, yang dapat berdampak pada status pencatatan saham SURE di bursa. Perseroan juga menyatakan sampai saat ini tidak ada informasi, fakta, atau kejadian penting lain yang material dan dapat memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan kepada publik."
+  ],
+  "fotoAdegan": "Engineers inspecting industrial gas turbine equipment inside a power plant control hall, morning light through high windows",
+  "takeaway": "Surat ini condong netral bagi SURE karena isinya murni bantahan formal, tanpa angka transaksi baru, tanpa perubahan kepemilikan, dan tanpa rencana aksi korporasi yang diungkapkan. Permintaan penjelasan semacam ini biasanya muncul ketika Bursa mencurigai pergerakan harga atau volume saham tidak wajar, tapi jawaban SURE tidak menyentuh pos kinerja apa pun seperti ekuitas, arus kas, atau laba per saham, sebab isinya hanya pernyataan bahwa tidak ada informasi tersembunyi di balik pergerakan itu. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi saham SURE mereda dalam hari-hari perdagangan berikutnya atau justru berlanjut sehingga Bursa mengambil langkah lanjutan, serta apakah pernyataan tidak ada rencana aksi korporasi ini masih bertahan hingga tenggat tiga bulan yang disebut sendiri oleh perseroan, yakni sekitar awal Desember 2026.",
+  "sentimen": "netral"
  },
  {
   "slug": "ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok",

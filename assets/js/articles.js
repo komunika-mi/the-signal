@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-atur-tata-kelola-tambang-timah-di-babel",
+  "category": "BUMN",
+  "title": "Perpres Baru Atur Tata Kelola Tambang [Timah] di Babel",
+  "deck": "Presiden Prabowo Subianto meneken Perpres 79/2026 yang mengatur biaya produksi, asal usul material, dan sinergi lintas sektor dalam tata kelola pertambangan timah di Bangka Belitung.",
+  "image": "assets/img/perpres-baru-atur-tata-kelola-tambang-timah-di-babel.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:40:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466005-perpres-792026-ubah-tata-kelola-tambang-timah-pt-timah-buka-suara-soal-poin-krusial",
+  "tags": [
+   "timah",
+   "PT Timah",
+   "Bangka Belitung",
+   "Perpres"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menandatangani Peraturan Presiden Nomor 79 Tahun 2026 pada 31 Agustus 2026, yang menjadi payung hukum baru bagi tata kelola pertambangan timah di Provinsi Kepulauan Bangka Belitung. PT Timah (Persero) Tbk menyambut positif aturan ini karena dinilai memberikan kepastian hukum, perlindungan operasional, dan keadilan ekonomi bagi seluruh pelaku di ekosistem tambang timah, mulai dari perusahaan induk hingga mitra penambangan di lapangan.",
+   "Beleid ini mengatur tiga hal pokok. Pertama, struktur biaya produksi bagi Perusahaan Jasa Penambangan atau PJP, yakni mitra yang menambang untuk PT Timah, wajib memperhitungkan komponen biaya riil di lapangan sekaligus standar kualitas hasil tambang. Kedua, aturan ini menegaskan kejelasan asal usul material timah, terutama di Belitung, yang harus bisa dilacak dan diverifikasi berasal dari izin usaha pertambangan atau IUP milik PT Timah. Ketiga, Perpres ini mendorong sinergi pembinaan antarsektor dan antarinstansi dalam mengawasi kegiatan pertambangan di provinsi tersebut.",
+   "Direktur Operasi PT Timah, Handy Geniardi, mengatakan perusahaan akan memastikan tata kelola biaya produksi berjalan akuntabel dan sejalan dengan peningkatan kualitas operasional. Menurutnya, kerangka biaya produksi riil yang berimbang diperlukan agar hubungan PT Timah dengan para PJP tetap saling menguntungkan dan berkelanjutan.",
+   "Direktur Produksi dan Komersial PT Timah, Ilhamsyah Mahendra, menyebut kejelasan asal usul material menjadi landasan agar kegiatan penambangan di Belitung bisa berjalan tertib sekaligus terus memberi manfaat ekonomi langsung bagi masyarakat setempat. Verifikasi asal usul dari IUP PT Timah, menurutnya, menjadi kunci agar aktivitas tambang di wilayah itu tetap punya dasar hukum yang jelas."
+  ],
+  "fotoAdegan": "Tin ore dredging boats anchored near a muddy river mouth in Bangka Belitung, workers sorting ore on deck, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/09/30/68db772f0103e-hasil-produksi-pt-timah-sebagai-bagian-dari-mind-id_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret dari Perpres 79/2026 ada tiga: patokan biaya produksi untuk perusahaan mitra penambang atau PJP kini harus mengikuti kualitas hasil tambang, bukan cuma volume; syarat bahwa bijih timah dari Belitung harus bisa dilacak asal-usulnya sampai ke izin resmi PT Timah; dan koordinasi pengawasan lintas instansi. Yang langsung terkena adalah perusahaan jasa penambangan yang selama ini menambang untuk PT Timah, serta warga Belitung yang menggantungkan penghasilan pada aktivitas tambang timah. Syarat pelacakan asal-usul ini pada praktiknya menempatkan PT Timah sebagai pemegang izin resmi yang menjadi rujukan legalitas bijih dari wilayah tersebut, sehingga hasil tambang yang tidak tersambung ke IUP PT Timah berpotensi kehilangan jalur penjualan resmi. Yang belum bisa dipastikan dari keterangan PT Timah ini adalah angka konkretnya, misalnya berapa besar penyesuaian biaya produksi untuk PJP atau bagaimana skema pembagiannya, karena baru disebut sebagai kerangka umum. Kejelasan itu baru akan terlihat dari peraturan turunan atau petunjuk teknis yang mengatur detail tarif dan mekanisme verifikasi tersebut.",
+  "imageV": "mtu064vv"
+ },
+ {
   "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
   "category": "Aksi Korporasi",
   "title": "ROCK Akui Proyek Azerai-IEH Belum Ada [Jadwal] Pasti",
@@ -104,6 +131,32 @@ var ARTICLES = [
   "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's central business district, late afternoon light, wide angle",
   "takeaway": "Status ini negatif bagi CSMI, sebab bursa secara resmi menandai sahamnya berisiko tinggi setelah sempat terkena penghentian perdagangan lebih dari satu hari akibat aktivitas transaksinya sendiri, bukan karena faktor eksternal. Pemantauan khusus adalah label yang dipakai bursa untuk mengawasi lebih ketat saham dengan risiko likuiditas atau tata kelola tinggi, sehingga masuknya sebuah saham ke daftar ini biasanya membuat investor institusi lebih berhati-hati karena potensi volatilitas harga dan kemungkinan mekanisme perdagangan yang lebih dibatasi. Yang perlu dipantau berikutnya adalah efektif berlakunya status ini pada 10 September 2026, serta apakah CSMI nantinya bisa memenuhi syarat untuk keluar dari papan pemantauan khusus atau justru menghadapi pembatasan perdagangan tambahan dari bursa.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun",
+  "category": "Makroekonomi",
+  "title": "Banggar DPR Ketok Pagu TKD 2027 Jadi [Rp735 Triliun]",
+  "deck": "Banggar DPR dan pemerintah menyepakati pagu Transfer ke Daerah 2027 sebesar Rp735 triliun, naik 5,5 persen dari perkiraan realisasi 2026.",
+  "image": "assets/img/banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:00:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465996-banggar-dpr-ketok-pagu-tkd-2027-rp735-triliun-ini-rincian-dana-untuk-daerah",
+  "tags": [
+   "TKD 2027",
+   "Banggar DPR",
+   "RAPBN 2027",
+   "Dana Desa"
+  ],
+  "body": [
+   "Badan Anggaran DPR dan pemerintah menyepakati anggaran Transfer ke Daerah (TKD) 2027 sebesar Rp735 triliun dalam rapat panitia kerja pada Rabu, 9 September 2026. Angka ini penting karena TKD menjadi sumber utama pendanaan pemerintah daerah untuk membayar gaji pegawai, biaya operasional kantor, dan layanan dasar publik seperti kesehatan serta pendidikan. Wakil Ketua Banggar DPR Wihadi Wiyanto mengesahkan angka tersebut tanpa perubahan dari rencana yang sudah tercantum dalam RAPBN 2027.",
+   "Pagu TKD 2027 ini naik 5,5 persen dibandingkan perkiraan realisasi TKD 2026 yang sebesar Rp696,9 triliun. TKD terdiri dari beberapa jenis dana, yaitu Dana Bagi Hasil atau bagian penerimaan negara yang dikembalikan ke daerah penghasil, Dana Alokasi Umum untuk pemerataan kemampuan keuangan antar daerah, Dana Alokasi Khusus untuk program tertentu di daerah, Dana Otonomi Khusus untuk daerah seperti Papua dan Aceh, serta Dana Desa. Dalam rapat panja tersebut, besaran masing-masing pos belum dirinci, yang diketok baru total pagunya.",
+   "Menteri Keuangan Purbaya Yudhi Sadewa sebelumnya menjelaskan bahwa anggaran TKD 2027 diarahkan untuk memenuhi kebutuhan belanja pokok pemerintah daerah, terutama belanja pegawai, belanja operasional, dan pemenuhan layanan dasar publik. Artinya kenaikan dana ini lebih ditujukan untuk menjaga kegiatan rutin daerah tetap berjalan, bukan untuk membiayai proyek pembangunan baru berskala besar."
+  ],
+  "fotoAdegan": "A rural village road under construction with workers and a gravel truck in a green highland setting, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/09/18/68cbf16e32162-banggar-dpr-ri-menkeu-purbaya-yudhi-sadewa-gubernur-bi-perry-warjiyo-dan-perwakilan-bappenas-saat-rapat-kerja-raker-di-gedung-dpr-ri-jakarta-kamis-18092025_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah total pagu TKD 2027 naik jadi Rp735 triliun, naik 5,5 persen dari perkiraan realisasi 2026 sebesar Rp696,9 triliun. Yang terdampak langsung adalah pemerintah daerah di seluruh Indonesia, karena dana ini jadi andalan mereka membayar gaji pegawai, operasional kantor, dan layanan dasar warga. Arahnya, kenaikan ini sejalan dengan penjelasan Menteri Keuangan bahwa dananya diprioritaskan untuk menutup kebutuhan rutin daerah, bukan program baru, jadi transfer ke daerah tampak bergerak ke pola bertahan biaya operasional ketimbang ekspansi belanja daerah. Yang masih kurang adalah rincian besaran tiap pos, Dana Bagi Hasil, Dana Alokasi Umum, Dana Alokasi Khusus, Dana Otonomi Khusus, dan Dana Desa, yang belum diumumkan dan baru akan terlihat saat detail RAPBN 2027 atau Nota Keuangan finalnya disahkan.",
+  "imageV": "mtu065df"
  },
  {
   "slug": "yelo-panggil-rupslb-kedua-setelah-kuorum-pertama-gagal",
@@ -262,6 +315,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak",
+  "category": "Makroekonomi",
+  "title": "Purbaya Sidak LNSW, Kemenkeu Siapkan AI Kejar [Potensi] Pajak",
+  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa sidak LNSW dan menilai integrasi datanya belum optimal, lalu menyiapkan aplikasi AI untuk melacak potensi kekurangan pajak perusahaan.",
+  "image": "assets/img/purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:00:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465970-purbaya-sidak-lnsw-soroti-data-belum-terintegrasi-dan-siapkan-ai-untuk-kejar-potensi-pajak",
+  "tags": [
+   "LNSW",
+   "AI Kemenkeu",
+   "Potensi Pajak",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa melakukan inspeksi mendadak ke kantor Lembaga National Single Window (LNSW) di Jakarta, Rabu, 9 September 2026. LNSW adalah lembaga yang mengumpulkan data ekspor dan impor dari berbagai instansi pemerintah dalam satu sistem. Kunjungan ini penting karena hasilnya akan menjadi dasar bagi Kementerian Keuangan untuk membangun sistem baru yang bisa melacak potensi pajak yang selama ini belum tergali.",
+   "Dalam sidak tersebut, Purbaya menemukan bahwa data di LNSW sebenarnya sudah terkumpul, tetapi belum diolah secara terintegrasi. Menurutnya, data dalam jumlah besar yang dikerjakan secara manual maupun dengan program biasa tetap sulit dianalisis secara menyeluruh. \"Sebelumnya kan kita sudah punya database di sini yang dikumpulkan di LNSW. Sebelum itu saya lihat belum ada proses terintegrasi. Kalau banyak data dikerjakan manual susah sekali, dengan program pun agak sulit,\" kata Purbaya.",
+   "Untuk mengatasi masalah itu, Kementerian Keuangan tengah mengembangkan aplikasi berbasis kecerdasan buatan atau AI yang akan membantu menganalisis berbagai potensi pendapatan negara. Purbaya menilai data di LNSW punya kekuatan untuk mendeteksi potensi penerimaan pajak sejak dini dengan tingkat akurasi yang tinggi. \"Jadi segala potensi pajak, potensi juga yang bisa terdeteksi awal di sini. Dan biasanya memang hasilnya memang seperti itu. Jadi akurasi cukup tinggi,\" ujarnya.",
+   "Jika data-data tersebut sudah terintegrasi, Kemenkeu bisa melihat gambaran potensi pajak yang seharusnya dibayar oleh setiap perusahaan, termasuk mengidentifikasi kemungkinan ada kekurangan pembayaran. Purbaya menyebut potensi ini juga bisa ditelusuri dari data beberapa tahun ke belakang, sehingga analisisnya tidak hanya melihat kondisi saat ini tetapi juga rekam jejak perusahaan dalam jangka waktu lebih panjang."
+  ],
+  "fotoAdegan": "Customs officers reviewing shipping containers at a busy Indonesian port terminal, cranes and cargo ships in the background, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/08/6a9fdb4767f68-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan pajak, melainkan alat yang dipakai Kemenkeu untuk mengendus kekurangan pembayaran pajak, yakni aplikasi AI yang akan mengolah data ekspor-impor yang selama ini tersimpan terpisah di LNSW. Karena LNSW selama ini menghimpun data dari transaksi ekspor dan impor, pihak yang paling mungkin lebih dulu kena sorotan adalah perusahaan-perusahaan yang aktivitas dagangnya tercatat di sistem itu, bukan seluruh wajib pajak. Purbaya belum menyebut kapan aplikasi ini mulai dipakai atau berapa besar potensi pajak yang selama ini luput, jadi langkah ini masih di tahap membangun alat, belum ada hasil yang bisa diukur. Yang perlu dipantau adalah kapan Kemenkeu mengumumkan aplikasi ini resmi berjalan dan apakah ada angka tambahan penerimaan pajak yang diklaim berasal dari sistem ini, karena itu yang akan menunjukkan apakah rencana ini benar-benar bergerak maju atau berhenti di tahap wacana.",
+  "imageV": "mtu065se"
+ },
+ {
   "slug": "meja-rugi-rp8-88-miliar-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "MEJA Rugi Rp8,88 Miliar, Auditor Soroti [Kelangsungan Usaha]",
@@ -312,6 +392,32 @@ var ARTICLES = [
   "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district at dusk, city traffic passing below, wide angle",
   "takeaway": "Laporan ini netral untuk saat ini karena baru mengumumkan jadwal penjelasan, belum ada angka final soal akuisisi maupun rincian alasan penghentian perdagangan. Yang tersentuh adalah struktur kepemilikan dan hak suara pengendali SINI, sebab pengambilalihan oleh Petrindo Jaya Kreasi (CUAN) bisa mengganti pemegang saham pengendali dan arah bisnis perusahaan, sesuatu yang pelaku pasar cermati karena pengendali baru biasanya membawa perubahan strategi, permodalan, dan tata kelola. Penghentian sementara perdagangan saham SINI oleh BEI sejak 7 September 2026 juga menandakan bursa menilai perlu ada penjelasan resmi lebih dulu sebelum perdagangan berjalan normal lagi. Yang perlu dipantau berikutnya adalah hasil paparan publik pada Jumat, 11 September 2026 pukul 13.30 WIB, khususnya detail negosiasi akuisisi dan kapan BEI mencabut suspensi perdagangan saham SINI.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.507, Diproyeksi Lanjut Besok",
+  "deck": "Rupiah menguat 125 poin ke Rp17.507 per dolar AS, ditopang data ritel dan keyakinan konsumen yang membaik. Penguatan diperkirakan berlanjut ke sekitar Rp17.480 besok.",
+  "image": "assets/img/rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:46:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465974-rupiah-ditutup-menguat-rp17507-pengamat-sebut-ada-kabar-baik-untuk-perdagangan-besok",
+  "tags": [
+   "rupiah",
+   "kurs",
+   "nilai tukar",
+   "dolar AS"
+  ],
+  "body": [
+   "Nilai tukar rupiah ditutup menguat 125 poin ke level Rp17.507 per dolar Amerika Serikat pada perdagangan Rabu, dan pengamat mata uang memperkirakan penguatan ini masih akan berlanjut pada perdagangan Kamis. Bagi masyarakat, rupiah yang lebih kuat berarti harga barang impor, mulai dari bahan baku industri sampai barang elektronik, berpotensi lebih terjangkau karena butuh lebih sedikit rupiah untuk membeli barang dalam dolar.",
+   "Pengamat Mata Uang dan Komoditas Ibrahim Assuaibi menyebut penguatan hari ini didorong oleh dua data domestik. Pertama, penjualan ritel Agustus 2026 melonjak 7,7 persen menjadi 83.422 unit. Kedua, indeks keyakinan konsumen, yaitu ukuran seberapa optimis masyarakat terhadap kondisi ekonomi saat ini dan ke depan, naik ke 118,5, tertinggi sejak Januari 2026.",
+   "Ibrahim menilai kenaikan optimisme konsumen ini menjadi sinyal bahwa target pemerintah untuk pertumbuhan ekonomi kuartal ketiga sebesar 5,3 persen berpeluang tercapai. Untuk perdagangan Kamis, ia memperkirakan rupiah masih punya ruang menguat sekitar 50 poin lagi, menuju kisaran Rp17.480 per dolar AS."
+  ],
+  "fotoAdegan": "Shoppers browsing crowded aisles of a mid-size Indonesian retail store, shopping carts, bright fluorescent lighting, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef68b3079a-ilustrasi-nilai-tukar-rupiah-menguat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Penguatan rupiah kali ini ditopang data domestik, bukan sentimen dari luar negeri: penjualan ritel Agustus naik 7,7 persen dan indeks keyakinan konsumen, yaitu ukuran optimisme masyarakat terhadap ekonomi, naik ke level tertinggi sejak Januari 2026. Pihak yang paling merasakan dampak rupiah lebih kuat adalah importir dan pelaku usaha dengan utang dalam dolar, karena biaya mereka dalam rupiah jadi lebih ringan, sementara eksportir justru menerima lebih sedikit rupiah dari setiap dolar hasil ekspornya. Data ini mendukung optimisme bahwa pertumbuhan ekonomi kuartal ketiga bisa mencapai 5,3 persen seperti target pemerintah, tapi proyeksi penguatan rupiah dari pengamat baru mencakup satu hari perdagangan ke depan. Yang akan menunjukkan apakah perbaikan konsumsi ini benar-benar tren atau cuma lonjakan sesaat adalah data penjualan ritel September dan rilis resmi pertumbuhan ekonomi kuartal III dari Badan Pusat Statistik.",
+  "imageV": "mtu066ag"
  },
  {
   "slug": "zp-14-waran-terstruktur-jatuh-tempo-30-september-2026",

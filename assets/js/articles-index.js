@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "perpres-baru-atur-tata-kelola-tambang-timah-di-babel",
+  "category": "BUMN",
+  "title": "Perpres Baru Atur Tata Kelola Tambang [Timah] di Babel",
+  "deck": "Presiden Prabowo Subianto meneken Perpres 79/2026 yang mengatur biaya produksi, asal usul material, dan sinergi lintas sektor dalam tata kelola pertambangan timah di Bangka Belitung.",
+  "date": "9 September 2026",
+  "image": "assets/img/perpres-baru-atur-tata-kelola-tambang-timah-di-babel.jpg",
+  "imageV": "mtu064vv",
+  "tags": [
+   "timah",
+   "PT Timah",
+   "Bangka Belitung",
+   "Perpres"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466005-perpres-792026-ubah-tata-kelola-tambang-timah-pt-timah-buka-suara-soal-poin-krusial"
+ },
+ {
   "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
   "category": "Aksi Korporasi",
   "title": "ROCK Akui Proyek Azerai-IEH Belum Ada [Jadwal] Pasti",
@@ -67,6 +84,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4d0046cc4_4d83ca17bb.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun",
+  "category": "Makroekonomi",
+  "title": "Banggar DPR Ketok Pagu TKD 2027 Jadi [Rp735 Triliun]",
+  "deck": "Banggar DPR dan pemerintah menyepakati pagu Transfer ke Daerah 2027 sebesar Rp735 triliun, naik 5,5 persen dari perkiraan realisasi 2026.",
+  "date": "9 September 2026",
+  "image": "assets/img/banggar-dpr-ketok-pagu-tkd-2027-jadi-rp735-triliun.jpg",
+  "imageV": "mtu065df",
+  "tags": [
+   "TKD 2027",
+   "Banggar DPR",
+   "RAPBN 2027",
+   "Dana Desa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465996-banggar-dpr-ketok-pagu-tkd-2027-rp735-triliun-ini-rincian-dana-untuk-daerah"
  },
  {
   "slug": "yelo-panggil-rupslb-kedua-setelah-kuorum-pertama-gagal",
@@ -165,6 +199,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak",
+  "category": "Makroekonomi",
+  "title": "Purbaya Sidak LNSW, Kemenkeu Siapkan AI Kejar [Potensi] Pajak",
+  "deck": "Menteri Keuangan Purbaya Yudhi Sadewa sidak LNSW dan menilai integrasi datanya belum optimal, lalu menyiapkan aplikasi AI untuk melacak potensi kekurangan pajak perusahaan.",
+  "date": "9 September 2026",
+  "image": "assets/img/purbaya-sidak-lnsw-kemenkeu-siapkan-ai-kejar-potensi-pajak.jpg",
+  "imageV": "mtu065se",
+  "tags": [
+   "LNSW",
+   "AI Kemenkeu",
+   "Potensi Pajak",
+   "Purbaya Yudhi Sadewa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465970-purbaya-sidak-lnsw-soroti-data-belum-terintegrasi-dan-siapkan-ai-untuk-kejar-potensi-pajak"
+ },
+ {
   "slug": "meja-rugi-rp8-88-miliar-auditor-soroti-kelangsungan-usaha",
   "category": "Aksi Korporasi",
   "title": "MEJA Rugi Rp8,88 Miliar, Auditor Soroti [Kelangsungan Usaha]",
@@ -195,6 +246,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5fd7e5f18_c1535fc3f9.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.507, Diproyeksi Lanjut Besok",
+  "deck": "Rupiah menguat 125 poin ke Rp17.507 per dolar AS, ditopang data ritel dan keyakinan konsumen yang membaik. Penguatan diperkirakan berlanjut ke sekitar Rp17.480 besok.",
+  "date": "9 September 2026",
+  "image": "assets/img/rupiah-menguat-ke-rp17-507-diproyeksi-lanjut-besok.jpg",
+  "imageV": "mtu066ag",
+  "tags": [
+   "rupiah",
+   "kurs",
+   "nilai tukar",
+   "dolar AS"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465974-rupiah-ditutup-menguat-rp17507-pengamat-sebut-ada-kabar-baik-untuk-perdagangan-besok"
  },
  {
   "slug": "zp-14-waran-terstruktur-jatuh-tempo-30-september-2026",
@@ -6462,73 +6530,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-indoebtke-conex-2026-pemerintah-perkuat-ekosistem-energi-bersih-untuk-kemandirian-energi-nasional",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan",
-  "category": "Ketenagakerjaan",
-  "title": "Kemendag Bentuk [Trade CorpU] untuk Latih ASN Perdagangan",
-  "deck": "Kemendag meluncurkan cetak biru SDM 2026-2045 dan lembaga pelatihan internal Trade CorpU berbasis Permendag No 4/2026, untuk membekali ASN perdagangan menghadapi tantangan global.",
-  "date": "3 September 2026",
-  "image": "assets/img/kemendag-bentuk-trade-corpu-untuk-latih-asn-perdagangan.jpg",
-  "imageV": "mtkqckgr",
-  "tags": [
-   "Kemendag",
-   "Trade CorpU",
-   "ASN",
-   "SDM Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/cetak-biru-pengembangan-sdm-perdagangan-dan-trade-corpu-perkuat-sdm-perdagangan-untuk-jawab-tantangan-global",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "surplus-dagang-ri-juli-menipis-ke-us-0-12-miliar",
-  "category": "Makroekonomi",
-  "title": "Surplus Dagang RI Juli [Menipis] ke US$0,12 Miliar",
-  "deck": "Neraca dagang Juli 2026 surplus tipis US$0,12 miliar setelah defisit migas melebar hampir menghabiskan surplus nonmigas yang masih tumbuh.",
-  "date": "3 September 2026",
-  "image": "assets/img/sidang-dpr.jpg",
-  "tags": [
-   "neraca dagang",
-   "ekspor impor",
-   "Kemendag",
-   "migas"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ketahanan-ekspor-nonmigas-indonesia-topang-surplus-neraca-perdagangan-juli-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "destry-damayanti-dilantik-jadi-gubernur-bank-indonesia",
-  "category": "Moneter",
-  "title": "Destry Damayanti Dilantik Jadi [Gubernur] Bank Indonesia",
-  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur Bank Indonesia bersama Aida S. Budiman dan Solikin M. Juhro untuk masa jabatan lima tahun.",
-  "date": "3 September 2026",
-  "image": "assets/img/destry-damayanti-dilantik-jadi-gubernur-bank-indonesia.jpg",
-  "imageV": "mtkqcm6p",
-  "tags": [
-   "Bank Indonesia",
-   "Dewan Gubernur",
-   "Destry Damayanti",
-   "Moneter"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2817826.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "palm-obligasi-rp50-miliar-jatuh-tempo-delisting-dari-bei",
-  "category": "Aksi Korporasi",
-  "title": "PALM: Obligasi Rp50 Miliar [Jatuh Tempo], Delisting dari BEI",
-  "deck": "Obligasi Berkelanjutan II Tahap V Seri A milik PT Provident Investasi Bersama Tbk senilai Rp50 miliar jatuh tempo dan didelisting dari Bursa Efek Indonesia mulai 3 September 2026.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PALM",
-   "obligasi",
-   "jatuh tempo",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/56a56774eb_84d8874eff.pdf",
-  "sourceLabel": "IDX"
  }
 ];

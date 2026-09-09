@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil",
+  "category": "Makroekonomi",
+  "title": "Erupsi Anak Krakatau, Mendag Pastikan Harga Pangan [Stabil]",
+  "deck": "Mendag Budi Santoso sebut harga bahan pokok di wilayah terdampak erupsi Anak Krakatau terkendali, meski harga telur dan ayam ras masih di bawah acuan pemerintah.",
+  "image": "assets/img/erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:45:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466022-erupsi-anak-krakatau-tak-pengaruhi-pasar-mendag-pastikan-harga-bahan-pokok-stabil",
+  "tags": [
+   "bahan pokok",
+   "erupsi Anak Krakatau",
+   "harga telur",
+   "harga ayam"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso memastikan pasokan dan harga bahan pangan pokok di wilayah yang terdampak erupsi Gunung Anak Krakatau masih terkendali. Kepastian ini penting karena bencana alam biasanya berisiko mengganggu jalur distribusi logistik dan memicu lonjakan harga di daerah yang terdampak.",
+   "Klaim tersebut didasarkan pada data Sistem Pemantauan Pasar dan Kebutuhan Pokok atau SP2KP, alat pantau harga milik Kementerian Perdagangan yang mengumpulkan data dari pasar di seluruh kabupaten dan kota. Menurut Budi, pengawasan harga terus dilakukan agar rantai distribusi pangan tidak terputus saat bencana, dan sejauh ini pasar di kawasan terdampak belum menunjukkan gejolak harga sembako yang berarti.",
+   "Di luar isu erupsi, Budi juga menyoroti harga telur dan daging ayam ras yang justru berada di bawah harga acuan pemerintah. Harga acuan telur ayam ras dipatok Rp30 ribu per kilogram, namun harga di pasar sempat anjlok ke Rp22 ribu. Daging ayam ras juga tertekan ke Rp34 ribu per kilogram, jauh dari acuan Rp40 ribu per kilogram.",
+   "Budi menegaskan tugas pemerintah bukan hanya meredam kenaikan harga demi konsumen, tetapi juga melindungi peternak dari kerugian akibat harga yang jatuh terlalu dalam. Ia mengingatkan bahwa jika kondisi harga rendah ini dibiarkan, keberlangsungan usaha peternak ayam dan telur bisa terancam."
+  ],
+  "fotoAdegan": "Traders arranging trays of eggs and stacks of chicken meat at a busy traditional wet market stall, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa140806953c-menteri-perdagangan-mendag-budi-santoso-memberikan-keterangan-media-di-kantor-kementerian-perdagangan-jakarta-rabu-99_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Bagian paling konkret dari pernyataan Mendag ini sebenarnya bukan soal erupsi, melainkan soal telur dan ayam. Harga telur ayam ras sempat jatuh ke Rp22 ribu per kilogram, sekitar seperempat lebih rendah dari harga acuan Rp30 ribu, dan daging ayam ras di Rp34 ribu juga jauh dari acuan Rp40 ribu. Kalau harga acuan itu mencerminkan titik impas biaya produksi, maka yang dirugikan bukan konsumen seperti biasanya diberitakan, tapi peternak yang menjual di bawah modal. Budi mengaku pemerintah perlu membentengi produsen dari kerugian, tapi belum ada langkah konkret yang disebutkan, misalnya pembelian oleh pemerintah atau subsidi harga. Yang perlu ditunggu adalah apakah Kementerian Perdagangan benar mengeluarkan kebijakan intervensi harga untuk peternak, atau pernyataan ini berhenti sebagai kekhawatiran tanpa tindak lanjut.",
+  "imageV": "mtu2vyb2"
+ },
+ {
   "slug": "wsbp-pefindo-revisi-prospek-jadi-negatif-peringkat-idb-bertahan",
   "category": "Aksi Korporasi",
   "title": "WSBP: PEFINDO Revisi Prospek Jadi [Negatif], Peringkat idB Bertahan",
@@ -56,6 +83,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "bri-bsi-siap-buka-rekening-massal-untuk-warga",
+  "category": "Perbankan",
+  "title": "BRI-BSI Siap Buka [Rekening Massal] untuk Warga",
+  "deck": "Danantara memastikan BRI dan BSI berkoordinasi mempercepat pembukaan rekening massal, dengan BSI khusus melayani Aceh, sementara skema dana awal Rp50 ribu masih dirancang pemerintah.",
+  "image": "assets/img/bri-bsi-siap-buka-rekening-massal-untuk-warga.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:26:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466023-rekening-massal-bri-untuk-warga-segera-dibuka-rosan-aceh-pakai-bsi",
+  "tags": [
+   "rekening massal",
+   "BRI",
+   "BSI",
+   "inklusi keuangan"
+  ],
+  "body": [
+   "Bank Rakyat Indonesia (BRI) dan Bank Syariah Indonesia (BSI) tengah mempersiapkan pembukaan rekening tabungan secara massal untuk masyarakat di seluruh Indonesia. CEO Danantara Indonesia, lembaga pengelola investasi milik negara, Rosan Roeslani menyampaikan bahwa manajemen kedua bank sudah berkoordinasi agar program ini bisa berjalan cepat. Program ini penting karena menyasar warga yang selama ini belum memiliki rekening bank, sehingga mereka bisa lebih mudah menerima berbagai bentuk bantuan pemerintah.",
+   "Rosan menjelaskan BRI akan menjadi bank pelaksana utama yang melayani pembukaan rekening di seluruh provinsi, sementara di Aceh, pembukaan rekening dilakukan lewat BSI karena daerah itu menerapkan sistem perbankan syariah secara khusus. Ia menyampaikan hal ini di Kompleks Istana Kepresidenan, Jakarta, Rabu, sebagai kelanjutan dari rapat terbatas yang dipimpin Presiden Prabowo Subianto pada Senin, 7 September 2026. Dalam rapat itu, Presiden Prabowo Subianto membahas sejumlah isu ekonomi, termasuk upaya memperkuat akses dan pemahaman masyarakat terhadap layanan keuangan, atau yang biasa disebut inklusi keuangan.",
+   "Satu hal yang belum final adalah rencana pemberian dana awal Rp50 ribu ke setiap rekening baru itu. Rosan mengatakan mekanisme pembiayaannya, termasuk dari mana dana itu akan diambil, masih dibahas pemerintah dan belum diputuskan. Presiden Prabowo Subianto juga telah meminta Dewan Nasional Keuangan Inklusif bersama Bank Indonesia, Kementerian Keuangan, dan Otoritas Jasa Keuangan untuk menyiapkan aspek teknis program tersebut.",
+   "Pemerintah mengarahkan program ini untuk memperluas akses masyarakat terhadap layanan perbankan sekaligus membuka kanal yang lebih langsung untuk menyalurkan bantuan sosial tunai. Dengan makin banyak warga memiliki rekening bank, penyaluran bansos diharapkan bisa dilakukan langsung ke rekening penerima, bukan lagi lewat kanal lain yang lebih rumit dilacak."
+  ],
+  "fotoAdegan": "Bank tellers in Indonesia assisting a line of customers filling out account-opening forms at a branch counter, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa14088bb9b5-ceo-danantara-rosan-roeslani_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah penunjukan bank pelaksana program rekening massal pemerintah: BRI untuk seluruh Indonesia, dan BSI khusus Aceh karena daerah itu memakai sistem perbankan syariah. Yang terdampak langsung adalah warga yang belum punya rekening bank, terutama calon penerima bantuan sosial tunai yang selama ini sulit dijangkau lewat kanal biasa. Satu bagian penting belum diputuskan, yakni dari mana dana awal Rp50 ribu per rekening itu akan dibiayai, apakah lewat anggaran negara atau ditanggung bank pelaksana sendiri. Kalau sumbernya anggaran negara, program ini akan terlihat sebagai perluasan bansos digital yang cukup besar; kalau dibebankan ke bank, kemungkinan cakupannya lebih terbatas dan bertahap. Yang akan menentukan arah mana yang terjadi adalah keputusan dari Dewan Nasional Keuangan Inklusif bersama Bank Indonesia, Kementerian Keuangan, dan OJK yang saat ini masih menyiapkan aspek teknis programnya.",
+  "imageV": "mtu2vyoi"
+ },
+ {
   "slug": "hrta-jadwalkan-rups-independen-private-placement-10",
   "category": "Aksi Korporasi",
   "title": "HRTA Jadwalkan RUPS Independen [Private Placement] 10%",
@@ -106,6 +160,33 @@ var ARTICLES = [
   "fotoAdegan": "Warehouse staff packing medical equipment boxes onto pallets inside a bright pharmaceutical distribution facility",
   "takeaway": "Laporan ini netral bagi emiten, sebab isinya adalah konfirmasi rutin yang wajib disampaikan setiap kali saham bergerak ekstrem, dan perusahaan menegaskan tidak ada informasi atau rencana korporasi baru yang mendasari lonjakan itu. Lonjakan volume dan harga sebesar ini tidak menyentuh pos kinerja keuangan seperti ekuitas atau laba, melainkan mencerminkan likuiditas dan aktivitas spekulatif jangka pendek di pasar, yang wajar memicu pertanyaan bursa meski fundamentalnya belum berubah. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia menindaklanjuti dengan status pemantauan khusus atas saham MEDS, dan apakah pergerakan harga masih berlanjut pada hari-hari perdagangan berikutnya, mengingat perusahaan sendiri menyatakan belum ada rencana tindakan korporasi setidaknya hingga awal Desember 2026.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik",
+  "category": "Industri",
+  "title": "Telkomsel Buka Jalan Kolaborasi [Digitalisasi] Sektor Logistik",
+  "deck": "Telkomsel Enterprise mengumpulkan sekitar 35 pimpinan perusahaan logistik bersama BPI Danantara dan Pos Indonesia untuk membahas transformasi digital ekosistem logistik nasional.",
+  "image": "assets/img/telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:04:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466014-telkomsel-enterprise-dukung-transformasi-digital-ekosistem-logistik-buka-kesempatan-luas-untuk-kolaborasi",
+  "tags": [
+   "Telkomsel",
+   "logistik",
+   "Danantara",
+   "Pos Indonesia"
+  ],
+  "body": [
+   "Telkomsel Enterprise menggelar diskusi bertajuk \"Connecting the Future of Indonesia's Logistics Ecosystem\" di Jakarta pada 2 September, mengumpulkan sekitar 35 pimpinan perusahaan logistik nasional bersama BPI Danantara dan Pos Indonesia. Forum yang digarap bersama Supply Chain Indonesia ini bertujuan mengubah keluhan operasional sehari-hari pelaku logistik menjadi agenda transformasi digital yang konkret. Ini penting karena biaya dan efisiensi logistik ikut menentukan harga barang yang sampai ke tangan konsumen.",
+   "Sejumlah masalah dibahas dalam forum tersebut, mulai dari biaya operasional yang tinggi, sistem pelacakan barang yang tercecer di berbagai aplikasi berbeda, koordinasi petugas di lapangan yang rumit untuk rute yang melibatkan banyak moda angkutan, hingga kebutuhan menjaga rantai pasok tetap aman di tengah pesatnya belanja daring dan proses penataan ulang BUMN logistik. VP Industrial and Resources Account Management Telkomsel, Nyoman Adiyasa, mengatakan transformasi digital harus terasa langsung bagi bisnis berupa keputusan yang lebih cepat, biaya yang lebih terkendali, operasi yang lebih aman, dan pelayanan ke pelanggan yang lebih baik.",
+   "Dalam forum itu, Telkomsel Enterprise memamerkan sejumlah alat yang sudah bisa dipakai pelaku logistik, seperti FleetSense untuk memantau armada dan perilaku pengemudi, Push-to-Talk untuk komunikasi cepat antarpetugas lapangan, kamera pengawas berbasis kecerdasan buatan untuk memantau insiden, serta SiteSense untuk membantu menentukan lokasi usaha yang paling menguntungkan. Alat-alat ini merupakan bagian dari layanan yang lebih luas, mencakup jaringan internet tetap dan seluler, jaringan khusus perusahaan, komputasi awan, keamanan siber, hingga analitik data, sehingga perusahaan logistik bisa mulai dari kebutuhan paling mendesak lebih dulu.",
+   "Sebagai contoh dampak yang sudah terlihat, Telkomsel menyebut penerapan gudang pintar berbasis jaringan generasi kelima yang dikerjakan bersama Huawei, meski detail skala dan hasilnya tidak dirinci dalam forum ini."
+  ],
+  "fotoAdegan": "Warehouse workers scanning packages beside a fleet of delivery trucks being loaded at a logistics distribution center, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa13c027279d-telkomsel-enterprise-dukung-transformasi-digital-ekosistem-logistik_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan peluncuran produk baru, melainkan cara Telkomsel menjajakan layanannya: alih-alih menjual paket teknologi jadi, mereka membuka forum agar sekitar 35 perusahaan logistik besar memilih sendiri titik masuk digitalisasi, dari pelacakan armada sampai pengawasan gudang. Pihak yang paling terdampak adalah Pos Indonesia dan BUMN logistik lain yang disebut sedang dalam proses penataan ulang di bawah BPI Danantara, karena forum semacam ini praktis jadi ajang menyamakan standar teknologi sebelum konsolidasi itu benar-benar berjalan. Arahnya tampak menuju digitalisasi logistik yang berjalan beriringan dengan reorganisasi BUMN di sektor ini, bukan sekadar inisiatif bisnis Telkomsel yang berdiri sendiri. Yang akan memastikan pembacaan ini adalah rencana resmi Danantara soal penataan BUMN logistik, termasuk perusahaan mana yang akan digabung atau direstrukturisasi, karena dari situ baru terlihat apakah digitalisasi ini memang bagian dari cetak biru konsolidasi atau hanya tawaran layanan Telkomsel Enterprise ke pasar yang lebih luas.",
+  "imageV": "mtu2vz5l"
  },
  {
   "slug": "safe-kuota-200-bus-listrik-sulit-terealisasi-tahun-ini",

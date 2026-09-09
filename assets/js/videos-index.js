@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0RDjybps-IE",
+  "title": "Optimisme Capai Pertumbuhan Ekonomi di Tengah Bencana",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa memaparkan optimisme capaian pertumbuhan ekonomi kendati rentetan bencana di berbagai wilayah menekan aktivitas ekonomi nasional.",
+  "takeaway": "Forum ini memberi gambaran langsung dari otoritas fiskal soal proyeksi pertumbuhan ekonomi di tengah tekanan bencana, sehingga relevan bagi pembaca yang memantau arah kebijakan ekonomi."
+ },
+ {
   "id": "zaD-KFNdjfo",
   "title": "PT KAI Siapkan Kereta Tambahan Imbas Penumpang Pesawat Beralih",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan."
- },
- {
-  "id": "z6ieuHPQJfI",
-  "title": "KBPBI Kawal Pembahasan RUU Ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Koalisi Besar Perjuangan Buruh Indonesia menyatakan akan mengawal penuh proses pembahasan Rancangan Undang-Undang Ketenagakerjaan.",
-  "takeaway": "Pembahasan RUU ini menyangkut aturan ketenagakerjaan yang berdampak langsung pada pekerja dan pelaku usaha, sehingga relevan untuk dipantau."
  }
 ];

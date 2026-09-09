@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0RDjybps-IE",
+  "title": "Optimisme Capai Pertumbuhan Ekonomi di Tengah Bencana",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Menteri Keuangan Purbaya Yudhi Sadewa memaparkan optimisme capaian pertumbuhan ekonomi kendati rentetan bencana di berbagai wilayah menekan aktivitas ekonomi nasional.",
+  "takeaway": "Forum ini memberi gambaran langsung dari otoritas fiskal soal proyeksi pertumbuhan ekonomi di tengah tekanan bencana, sehingga relevan bagi pembaca yang memantau arah kebijakan ekonomi.",
+  "terbit": "2026-09-09T12:00:35+00:00"
+ },
+ {
   "id": "zaD-KFNdjfo",
   "title": "PT KAI Siapkan Kereta Tambahan Imbas Penumpang Pesawat Beralih",
   "category": "BUMN",

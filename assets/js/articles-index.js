@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil",
+  "category": "Makroekonomi",
+  "title": "Erupsi Anak Krakatau, Mendag Pastikan Harga Pangan [Stabil]",
+  "deck": "Mendag Budi Santoso sebut harga bahan pokok di wilayah terdampak erupsi Anak Krakatau terkendali, meski harga telur dan ayam ras masih di bawah acuan pemerintah.",
+  "date": "9 September 2026",
+  "image": "assets/img/erupsi-anak-krakatau-mendag-pastikan-harga-pangan-stabil.jpg",
+  "imageV": "mtu2vyb2",
+  "tags": [
+   "bahan pokok",
+   "erupsi Anak Krakatau",
+   "harga telur",
+   "harga ayam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466022-erupsi-anak-krakatau-tak-pengaruhi-pasar-mendag-pastikan-harga-bahan-pokok-stabil"
+ },
+ {
   "slug": "wsbp-pefindo-revisi-prospek-jadi-negatif-peringkat-idb-bertahan",
   "category": "Aksi Korporasi",
   "title": "WSBP: PEFINDO Revisi Prospek Jadi [Negatif], Peringkat idB Bertahan",
@@ -37,6 +54,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bri-bsi-siap-buka-rekening-massal-untuk-warga",
+  "category": "Perbankan",
+  "title": "BRI-BSI Siap Buka [Rekening Massal] untuk Warga",
+  "deck": "Danantara memastikan BRI dan BSI berkoordinasi mempercepat pembukaan rekening massal, dengan BSI khusus melayani Aceh, sementara skema dana awal Rp50 ribu masih dirancang pemerintah.",
+  "date": "9 September 2026",
+  "image": "assets/img/bri-bsi-siap-buka-rekening-massal-untuk-warga.jpg",
+  "imageV": "mtu2vyoi",
+  "tags": [
+   "rekening massal",
+   "BRI",
+   "BSI",
+   "inklusi keuangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466023-rekening-massal-bri-untuk-warga-segera-dibuka-rosan-aceh-pakai-bsi"
+ },
+ {
   "slug": "hrta-jadwalkan-rups-independen-private-placement-10",
   "category": "Aksi Korporasi",
   "title": "HRTA Jadwalkan RUPS Independen [Private Placement] 10%",
@@ -67,6 +101,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62bf5ab68_3e2ca8133f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik",
+  "category": "Industri",
+  "title": "Telkomsel Buka Jalan Kolaborasi [Digitalisasi] Sektor Logistik",
+  "deck": "Telkomsel Enterprise mengumpulkan sekitar 35 pimpinan perusahaan logistik bersama BPI Danantara dan Pos Indonesia untuk membahas transformasi digital ekosistem logistik nasional.",
+  "date": "9 September 2026",
+  "image": "assets/img/telkomsel-buka-jalan-kolaborasi-digitalisasi-sektor-logistik.jpg",
+  "imageV": "mtu2vz5l",
+  "tags": [
+   "Telkomsel",
+   "logistik",
+   "Danantara",
+   "Pos Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466014-telkomsel-enterprise-dukung-transformasi-digital-ekosistem-logistik-buka-kesempatan-luas-untuk-kolaborasi"
  },
  {
   "slug": "safe-kuota-200-bus-listrik-sulit-terealisasi-tahun-ini",
@@ -6468,54 +6519,6 @@ var ARTICLES = [
    "transaksi afiliasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2a8a6d092_8d04070471.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "excl-umumkan-rencana-rupslb-pada-12-oktober-2026",
-  "category": "Aksi Korporasi",
-  "title": "EXCL Umumkan Rencana [RUPSLB] pada 12 Oktober 2026",
-  "deck": "XLSmart Telecom menjadwalkan RUPSLB pada 12 Oktober 2026, dengan pemegang saham per 17 September 2026 yang berhak hadir dan memberi suara.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EXCL",
-   "RUPSLB",
-   "XLSmart Telecom",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1ead5eeed9_ab47c1df3b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yelo-tanggapi-permintaan-bei-pemegang-saham-utama-bertahan",
-  "category": "Aksi Korporasi",
-  "title": "YELO Tanggapi Permintaan BEI, Pemegang Saham Utama [Bertahan]",
-  "deck": "BEI meminta YELO menjelaskan volatilitas transaksi sahamnya. Perseroan mengaku tak ada informasi material tersembunyi, dan pengendali ASN pastikan tidak berencana mengurangi kepemilikan.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YELO",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f6dad4f139_7a29cba384.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unvr-bantah-ada-info-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "UNVR Bantah Ada Info Material di Balik [Volatilitas] Saham",
-  "deck": "UNVR menanggapi permintaan Bursa soal volatilitas transaksi sahamnya, menyatakan tidak ada info material tersembunyi dan pemegang saham utama belum berencana ubah kepemilikan.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNVR",
-   "Unilever Indonesia",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412a4283e4_0faf4606fa.pdf",
   "sourceLabel": "IDX"
  }
 ];

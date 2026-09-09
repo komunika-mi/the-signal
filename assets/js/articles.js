@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
+  "category": "Industri",
+  "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",
+  "deck": "Pemprov Jawa Barat memberi diskon 10 persen bea balik nama dan pajak tahunan kendaraan bermotor selama gelaran GIIAS Bandung 2026 yang dibuka 9 September.",
+  "image": "assets/img/jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-09T19:50:14.066Z",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-bandung-2026-pemprov-jawa-barat-beri-diskon-bbn-dan-pajak-kendaraan/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS",
+   "Jawa Barat",
+   "pajak kendaraan",
+   "otomotif"
+  ],
+  "body": [
+   "Pameran otomotif GIIAS Bandung 2026 resmi dibuka pada Rabu, 9 September 2026, di Gedung Sudirman Grand Ballroom, Bandung. Untuk mendorong transaksi selama pameran, Pemerintah Provinsi Jawa Barat memberikan diskon 10 persen untuk bea balik nama kendaraan bermotor pada penyerahan pertama, serta diskon 10 persen untuk pajak kendaraan bermotor tahunan yang dibayar melalui layanan Kios-K.",
+   "Insentif ini diumumkan saat ekonomi Jawa Barat tumbuh 5,73 persen pada triwulan kedua 2026, menurut Asisten Perekonomian dan Pembangunan Provinsi Jawa Barat, Sumasna. Ia juga menyebut ekspor kendaraan dari Jawa Barat mencapai US$5,06 miliar, atau 21,63 persen dari total ekspor nonmigas provinsi tersebut.",
+   "Penyelenggara mencatat pameran tahun ini diikuti 19 merek kendaraan bermotor, terdiri dari 16 merek mobil dan tiga merek sepeda motor, termasuk lima merek yang baru pertama kali ikut serta. Merek mobil yang hadir meliputi BAIC, BYD, Changan, Chery, Daihatsu, GAC AION, Honda, iCar, Jetour, KIA, Mazda, Omoda Jaecoo, Suzuki, Toyota, Vinfast, dan Wuling, sementara kategori sepeda motor diisi Royal Enfield, Scomadi, dan Triumph, ditambah 11 merek dari industri pendukung.",
+   "GIIAS Bandung 2026 berlangsung selama lima hari sejak 9 September 2026. Tiket dijual daring lewat aplikasi Auto360 seharga Rp15 ribu untuk hari kerja dan Rp25 ribu untuk akhir pekan, atau Rp20 ribu dan Rp30 ribu bila dibeli langsung di lokasi pameran. Rangkaian GIIAS the Series berikutnya digelar di Semarang pada 30 September hingga 4 Oktober 2026, lalu ditutup di Makassar pada 28 Oktober hingga 1 November 2026."
+  ],
+  "fotoAdegan": "Wide convention hall floor with rows of new cars and motorcycles on display under bright exhibition lighting, visitors walking between vehicles, Bandung, Indonesia",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/GIIAS-5.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang berubah adalah pajak daerah, bukan aturan nasional: Pemprov Jawa Barat memangkas 10 persen bea balik nama untuk kendaraan baru dan 10 persen pajak tahunan kendaraan, tapi siaran pers ini tidak menyebut sampai kapan diskon itu berlaku, apakah hanya selama lima hari pameran atau lebih lama. Yang terdampak langsung adalah calon pembeli kendaraan di Jawa Barat yang bertransaksi pada periode ini, dealer dan pabrikan yang ikut pameran, serta kas daerah Jawa Barat yang untuk sementara menerima setoran pajak kendaraan lebih kecil per transaksi. Pemberian diskon pajak kendaraan saat pameran otomotif sudah jadi cara umum pemerintah daerah mengerek penjualan, tapi dari data ini belum jelas apakah kebijakan ini hanya berlaku selama masa pameran atau berlanjut sepanjang tahun anggaran 2026. Yang akan memastikannya adalah pengumuman resmi soal masa berlaku diskon dari instansi pajak daerah Jawa Barat, serta angka realisasi penjualan dan pajak kendaraan provinsi ini pada laporan triwulan berikutnya.",
+  "imageV": "mtuilay0"
+ },
+ {
   "slug": "kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor",
   "category": "UMKM",
   "title": "Kemendag Gandeng Meta Latih [200] UMKM Pakai AI untuk Ekspor",

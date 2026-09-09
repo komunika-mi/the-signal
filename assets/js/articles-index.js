@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
+  "category": "Industri",
+  "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",
+  "deck": "Pemprov Jawa Barat memberi diskon 10 persen bea balik nama dan pajak tahunan kendaraan bermotor selama gelaran GIIAS Bandung 2026 yang dibuka 9 September.",
+  "date": "10 September 2026",
+  "image": "assets/img/jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026.jpg",
+  "imageV": "mtuilay0",
+  "tags": [
+   "GIIAS",
+   "Jawa Barat",
+   "pajak kendaraan",
+   "otomotif"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/giias-bandung-2026-pemprov-jawa-barat-beri-diskon-bbn-dan-pajak-kendaraan/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "kemendag-gandeng-meta-latih-200-umkm-pakai-ai-untuk-ekspor",
   "category": "UMKM",
   "title": "Kemendag Gandeng Meta Latih [200] UMKM Pakai AI untuk Ekspor",
@@ -6499,22 +6517,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464655-pegadaian-raih-penghargaan-corporate-secretary-champion-2026-komitmen-perkuat-tata-kelola-dan-reputasi-perusahaan"
- },
- {
-  "slug": "purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah",
-  "category": "Makroekonomi",
-  "title": "Purbaya [Rumahkan] 3 Pegawai Pajak Diduga Bermasalah",
-  "deck": "Menkeu Purbaya Yudhi Sadewa merombak jajaran pejabat Ditjen Pajak dan Bea Cukai, menonaktifkan pegawai yang diduga bermain-main dalam pengelolaan pajak tertentu.",
-  "date": "3 September 2026",
-  "image": "assets/img/purbaya-rumahkan-3-pegawai-pajak-diduga-bermasalah.jpg",
-  "imageV": "mtlhu08p",
-  "tags": [
-   "Purbaya Yudhi Sadewa",
-   "Ditjen Pajak",
-   "Bea Cukai",
-   "Kementerian Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464640-purbaya-bongkar-cara-bersihkan-pajak-dan-bea-cukai-5-pegawai-bermasalah-bisa-langsung-ditindak"
  }
 ];

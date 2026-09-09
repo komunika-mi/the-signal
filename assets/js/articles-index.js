@@ -5,6 +5,214 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
+  "category": "Aksi Korporasi",
+  "title": "ROCK Akui Proyek Azerai-IEH Belum Ada [Jadwal] Pasti",
+  "deck": "ROCK menjawab pertanyaan lanjutan BEI: proyek Azerai dan International Exchange House masih tahap evaluasi tanpa jadwal pasti, progres fisiknya baru 4,17 dan 13,37 persen.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROCK",
+   "Rockfields Properti Indonesia",
+   "properti",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d8397fe28_696ba084e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arko-kontrak-konstruksi-plta-pongbembe-20-mw-senilai-rp288-m",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Kontrak Konstruksi PLTA Pongbembe [20 MW] Senilai Rp288 M",
+  "deck": "Anak usaha ARKO, Nosu dan Aekon, teken kontrak konstruksi PLTA Pongbembe 20 MW senilai Rp287,98 miliar, setara 56 persen ekuitas perseroan per akhir 2025.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "PLTA",
+   "transaksi afiliasi",
+   "Arkora Hydro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/beb1b0de64_1d48b8d914.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PGJO dan MDIA Keluar dari [Pemantauan Khusus] BEI",
+  "deck": "Bursa mencabut status pemantauan khusus saham PGJO dan MDIA, efektif 3 September 2026, sebagai koreksi atas pengumuman sebelumnya tertanggal 2 September 2026.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "MDIA",
+   "BEI",
+   "Pemantauan Khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47591356e2_5cf0234ace.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "csmi-masuk-pemantauan-khusus-bei-mulai-10-september",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Masuk [Pemantauan Khusus] BEI Mulai 10 September",
+  "deck": "BEI memasukkan saham CSMI (Cipta Selera Murni) ke daftar Pemantauan Khusus mulai 10 September 2026, menyusul suspensi perdagangan lebih dari satu hari bursa.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CSMI",
+   "Pemantauan Khusus",
+   "BEI",
+   "Cipta Selera Murni"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4d0046cc4_4d83ca17bb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yelo-panggil-rupslb-kedua-setelah-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB [Kedua] Setelah Kuorum Pertama Gagal",
+  "deck": "RUPSLB pertama YELO pada 3 September gagal kuorum, sehingga rapat kedua digelar 17 September 2026 untuk mengubah pasal usaha di anggaran dasar sesuai klasifikasi KBLI baru.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "anggaran dasar",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a806f80f26_5c57ff9249.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "grph-gelar-public-expose-usai-suspensi-cooling-down-bei",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Gelar Public Expose usai [Suspensi] Cooling Down BEI",
+  "deck": "BEI menyuspensi saham GRPH sejak 8 September 2026 dan mewajibkan perseroan menggelar public expose insidentil pada 15 September 2026 untuk menjelaskan kinerja operasional dan keuangan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRPH",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0fd5b715_2c416270e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ibos-jadwalkan-rupslb-pada-16-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "IBOS Jadwalkan [RUPSLB] pada 16 Oktober 2026",
+  "deck": "PT Indo Boga Sukses Tbk mengumumkan RUPSLB digelar 16 Oktober 2026 di Yogyakarta, dengan tanggal pencatatan pemegang saham 23 September 2026.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IBOS",
+   "RUPSLB",
+   "Pasar Modal",
+   "Indo Boga Sukses"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1218108960_d648f50407.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-gelar-paparan-publik-bahas-suspensi-saham-dan-lonjakan-harga",
+  "category": "Aksi Korporasi",
+  "title": "PACK Gelar Paparan Publik, Bahas [Suspensi] Saham dan Lonjakan Harga",
+  "deck": "PACK akan menggelar paparan publik insidentil pada 11 September 2026 atas permintaan Bursa Efek Indonesia, untuk menjelaskan pergerakan harga saham yang tidak biasa dan suspensi perdagangan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "Public Expose",
+   "Suspensi Saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/91fff385c3_c8bbd44d92.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "post-jawab-bursa-soal-penundaan-bagi-hasil-sukuk-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "POST Jawab Bursa soal Penundaan Bagi Hasil Sukuk [Likuiditas]",
+  "deck": "Pos Indonesia menjelaskan ke Bursa alasan penundaan kedua bagi hasil sukuk, dengan target bayar mulai Januari 2027 lewat dukungan Danantara.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Sukuk",
+   "Likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d6c921583_bba823731a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fwct-gelar-rupslb-ubah-anggaran-dasar-ikuti-kbli-baru",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Gelar RUPSLB Ubah Anggaran Dasar Ikuti [KBLI] Baru",
+  "deck": "Wijaya Cahaya Timber memanggil RUPS Luar Biasa 1 Oktober 2026 untuk mengubah Anggaran Dasar menyesuaikan kode klasifikasi usaha sesuai aturan pemerintah baru.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FWCT",
+   "RUPSLB",
+   "KBLI",
+   "Wijaya Cahaya Timber"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a75a903a_da35de0c8b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meja-rugi-rp8-88-miliar-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rugi Rp8,88 Miliar, Auditor Soroti [Kelangsungan Usaha]",
+  "deck": "Auditor memberi opini wajar tanpa modifikasian namun menyoroti keraguan signifikan atas kelangsungan usaha PT Harta Djaya Karya Tbk setelah rugi periode berjalan mencapai Rp8,88 miliar.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "waran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909161310-64383-0/FinancialStatement-2026-II-MEJA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sini-gelar-public-expose-usai-suspensi-bahas-akuisisi-cuan",
+  "category": "Aksi Korporasi",
+  "title": "SINI Gelar Public Expose usai Suspensi, Bahas [Akuisisi] CUAN",
+  "deck": "Setelah sahamnya disetop BEI, Singaraja Putra menggelar paparan publik Jumat ini untuk membahas negosiasi akuisisi oleh Petrindo Jaya Kreasi (CUAN) serta kondisi keuangan terkini.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "CUAN",
+   "akuisisi",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5fd7e5f18_c1535fc3f9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "zp-14-waran-terstruktur-jatuh-tempo-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ZP: 14 Waran Terstruktur [Jatuh Tempo] 30 September 2026",
+  "deck": "14 seri waran terstruktur ZP atas saham ACES, ADRO, BBTN, BUKA, HRUM, INDY, ISAT, JSMR, MIKA, MYOR, PGAS, PTBA, PTRO, dan UNVR jatuh tempo 30 September 2026 dan diselesaikan tunai.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "jatuh tempo waran"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fa476db44_d054a5b460.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "MKNT Coret Agenda [Ekspansi Usaha] dari RUPSLB PMTHMETD",
@@ -6322,215 +6530,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/56a56774eb_84d8874eff.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "buka-bantah-punya-info-material-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUKA Bantah Punya Info Material Soal [Volatilitas] Transaksi Saham",
-  "deck": "Bukalapak menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkap.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUKA",
-   "Bukalapak",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ba2f951f8_b54bca53a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s",
-  "category": "Moneter",
-  "title": "Destry Damayanti [Resmi] Pimpin BI, Usung Prinsip 3I+S",
-  "deck": "Destry Damayanti resmi dilantik sebagai Gubernur BI periode 2026-2031, bersama Aida S. Budiman dan Solikin M. Juhro. Ia perkenalkan prinsip 3I+S sebagai arah kebijakan bank sentral.",
-  "date": "2 September 2026",
-  "image": "assets/img/destry-damayanti-resmi-pimpin-bi-usung-prinsip-3i-s.jpg",
-  "imageV": "mtkiriyf",
-  "tags": [
-   "Destry Damayanti",
-   "Bank Indonesia",
-   "Gubernur BI",
-   "3I+S"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464475-destry-damayanti-resmi-pimpin-bi-ungkap-jurus-3is-hadapi-tantangan-ekonomi-global"
- },
- {
-  "slug": "kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa",
-  "category": "Industri",
-  "title": "KEK Industropolis Batang Kembangkan [Wisata] di Tepi Laut Jawa",
-  "deck": "Amphitheater KEK Industropolis Batang berpemandangan Laut Jawa menarik lebih dari 10 ribu pengunjung dalam pergelaran tari gratis, menandai upaya kawasan industri merambah sektor pariwisata.",
-  "date": "2 September 2026",
-  "image": "assets/img/kek-industropolis-batang-kembangkan-wisata-di-tepi-laut-jawa.jpg",
-  "imageV": "mtkirjmm",
-  "tags": [
-   "KEK Industropolis Batang",
-   "Laut Jawa",
-   "kawasan industri",
-   "pariwisata"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464501-kek-industropolis-batang-padukan-kawasan-industri-dan-pesona-laut-jawa-jadi-potensi-wisata-10-ribu-orang-tumpah"
- },
- {
-  "slug": "arto-jawab-bei-sebut-jadwal-mesop-muncul-november",
-  "category": "Aksi Korporasi",
-  "title": "ARTO Jawab BEI, Sebut Jadwal [MESOP] Muncul November",
-  "deck": "Bank Jago menjelaskan volatilitas transaksi sahamnya ke BEI dan menyebut jadwal pelaksanaan dua program opsi saham karyawan akan diumumkan November-Desember 2026.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "Bank Jago",
-   "MESOP",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d7913e65f_ac12fbae72.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srsn-jawab-bursa-tak-ada-info-material-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRSN Jawab Bursa: Tak Ada Info Material soal [Volatilitas] Saham",
-  "deck": "Indo Acidatama menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya dan menyatakan tidak ada informasi material yang melatarbelakanginya.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRSN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/880149e214_987c51cdf3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-catat-laba-bersih-rp10-6-triliun-di-semester-i-2026-naik-1-4",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Catat Laba Bersih Rp10,6 Triliun di Semester I 2026, [Naik] 1,4%",
-  "deck": "Materi Public Expose Tahunan Telkom memuat kinerja keuangan 1H26, ekspansi spektrum ke 265 MHz, dan progres monetisasi aset InfraNexia senilai Rp35,8 triliun.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom Indonesia",
-   "kinerja keuangan",
-   "InfraNexia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9fff6e0435_cb545ee9bf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cara-aman-atur-tenor-pinjaman-online-berbunga-rendah",
-  "category": "Perbankan",
-  "title": "Cara Aman Atur Tenor [Pinjaman Online] Berbunga Rendah",
-  "deck": "Memilih tenor pinjaman online bukan sekadar soal cicilan ringan, tapi soal total bunga yang harus dibayar sampai lunas.",
-  "date": "2 September 2026",
-  "image": "assets/img/cara-aman-atur-tenor-pinjaman-online-berbunga-rendah.jpg",
-  "imageV": "mtnd9b4y",
-  "tags": [
-   "pinjaman online",
-   "fintech lending",
-   "keuangan pribadi",
-   "OJK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464473-6-cara-atur-tenor-panjang-pinjaman-online-bunga-rendah-agar-tetap-aman"
- },
- {
-  "slug": "adcp-menang-pengadilan-tolak-pkpu-dari-burda-contraco",
-  "category": "Aksi Korporasi",
-  "title": "ADCP [menang]: pengadilan tolak PKPU dari Burda Contraco",
-  "deck": "Pengadilan Niaga Jakarta Pusat menolak permohonan PKPU terhadap ADCP yang diajukan kontraktor PT Burda Contraco terkait utang proyek Adhi City Sentul.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "PKPU",
-   "Adhi City Sentul",
-   "pengadilan niaga"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/85fd1c7c6c_4d55de3548.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga",
-  "category": "Makroekonomi",
-  "title": "DPR Desak BPS [Perbaiki] Data Desil Sesuai Kondisi Warga",
-  "deck": "Komisi X DPR memberi BPS tenggat dua minggu untuk memutakhirkan data desil yang salah, karena kekeliruan itu membuat sejumlah warga gagal menerima bansos dan beasiswa KIP Kuliah.",
-  "date": "2 September 2026",
-  "image": "assets/img/dpr-desak-bps-perbaiki-data-desil-sesuai-kondisi-warga.jpg",
-  "imageV": "mtkirkg8",
-  "tags": [
-   "desil",
-   "bps",
-   "bansos",
-   "kip kuliah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464464-banyak-warga-protes-tak-sesuai-desil-dpr-desak-bps-perbaiki-data-dan-beri-penjelasan-ke-publik"
- },
- {
-  "slug": "untr-balik-jadi-utang-bersih-rp9-4-triliun-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "UNTR Balik Jadi Utang Bersih Rp9,4 Triliun di [Public Expose]",
-  "deck": "Materi Public Expose UNTR menunjukkan laba bersih semester I 2026 anjlok 88% jadi Rp956 miliar, sementara posisi keuangan berbalik dari kas bersih menjadi utang bersih Rp9,4 triliun.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNTR",
-   "United Tractors",
-   "Public Expose",
-   "utang bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66228b7e74_2ae6bdd349.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sger-jawab-permintaan-bursa-soal-volatilitas-transaksi-saham",
-  "category": "Aksi Korporasi",
-  "title": "SGER Jawab Permintaan Bursa soal [Volatilitas] Transaksi Saham",
-  "deck": "SGER menjawab surat Bursa Efek Indonesia soal lonjakan volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material maupun rencana korporasi yang mendasarinya.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SGER",
-   "volatilitas transaksi",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2599619_2f3b743392.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "eraa-rampungkan-buyback-rp99-86-miliar-treasuri-601-6-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "ERAA Rampungkan [Buyback] Rp99,86 Miliar, Treasuri 601,6 Juta Saham",
-  "deck": "Erajaya Swasembada merampungkan pembelian kembali 236,27 juta saham senilai Rp99,86 miliar per 2 September 2026, hampir menghabiskan anggaran buyback Rp100 miliar.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "buyback saham",
-   "Erajaya Swasembada",
-   "saham treasuri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a918bbd1dc_bbfbe20696.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-bei-ditunda-ojk-baru-bahas-4-september",
-  "category": "Pasar Modal",
-  "title": "RUPSLB BEI [Ditunda], OJK Baru Bahas 4 September",
-  "deck": "RUPSLB BEI yang sedianya digelar 15 September 2026 ditunda tanpa jadwal baru, menunggu terbitnya aturan OJK soal demutualisasi bursa.",
-  "date": "2 September 2026",
-  "image": "assets/img/rupslb-bei-ditunda-ojk-baru-bahas-4-september.jpg",
-  "imageV": "mtkirl3j",
-  "tags": [
-   "BEI",
-   "OJK",
-   "RUPSLB",
-   "demutualisasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464452-rupslb-bei-mendadak-ditunda-ojk-baru-bahas-kendalanya-pada-4-september"
  }
 ];

@@ -3,6 +3,344 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
+  "category": "Aksi Korporasi",
+  "title": "ROCK Akui Proyek Azerai-IEH Belum Ada [Jadwal] Pasti",
+  "deck": "ROCK menjawab pertanyaan lanjutan BEI: proyek Azerai dan International Exchange House masih tahap evaluasi tanpa jadwal pasti, progres fisiknya baru 4,17 dan 13,37 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:26:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d8397fe28_696ba084e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROCK",
+  "tags": [
+   "ROCK",
+   "Rockfields Properti Indonesia",
+   "properti",
+   "BEI"
+  ],
+  "body": [
+   "PT Rockfields Properti Indonesia Tbk (ROCK) menyampaikan tanggapan lanjutan kepada Bursa Efek Indonesia lewat surat bernomor 022/RPI/CORSEC/IX/2026 tertanggal 9 September 2026, menjawab surat bursa S-11390/BEI.PP2/09-2026. Perusahaan merinci lima pelanggan terbesarnya per 30 Juni 2026, semuanya bukan pihak afiliasi: PT Wework Services International dengan penjualan Rp6,58 miliar dan kontrak Juli 2019 hingga Juni 2029, PT May Sun Yvan Rp5,83 miliar dengan kontrak September 2023 hingga Februari 2028, PT Tri Sakti Purwosari Makmur Rp4,83 miliar dengan kontrak sejak April 2023, PT ITG Pointer Resources Indonesia Rp2,95 miliar dengan kontrak Februari 2024 hingga Januari 2029, dan PT Kuehne Nagel Indonesia Rp2,87 miliar dengan kontrak Desember 2021 hingga Desember 2029. Satu pelanggan yang masuk lima besar per akhir 2025, PT Citra Angsana Perkasa dengan penjualan Rp5,41 miliar, sudah tidak lagi berikatan dengan Perseroan sejak kontraknya berakhir pada April 2026.",
+   "Perusahaan juga menjelaskan kenaikan tingkat okupansi propertinya dari 66,05 persen pada 2024 menjadi 74,66 persen pada 2025, yang menurut manajemen berasal dari upaya mempertahankan tenant lama sekaligus menggaet tenant baru. Untuk dua proyek besarnya, Azerai di Bali dan International Exchange House di Jakarta Selatan, Perseroan mengonfirmasi bahwa keduanya masih berada di tahap evaluasi konsep dan strategi pengembangan, tanpa jadwal pembangunan dan penyelesaian yang definitif. Progres pekerjaan fisik hingga akhir 2024 baru mencapai 4,17 persen untuk Azerai, yaitu pekerjaan persiapan, jasa keamanan dan kebersihan, serta pembongkaran infrastruktur rusak, dan 13,37 persen untuk International Exchange House, meliputi pekerjaan persiapan, pembangunan kantor operasional pemasaran, dan pekerjaan sipil di bawah tanah. Perseroan menyatakan tidak memiliki proyek pipeline baru lain di luar keduanya dalam dua sampai tiga tahun ke depan.",
+   "Sumber dana untuk pengembangan kedua proyek itu, menurut Perseroan, akan berasal dari kombinasi pinjaman lembaga perbankan, pihak ketiga, dan kas internal perusahaan, namun belum ada kepastian skema maupun jumlahnya. Lahan Proyek Azerai diperoleh lewat PT Knightsbridge Luxury Development pada 2011, sementara lahan International Exchange House diperoleh lewat PT Artha Mas Investama pada 2003. Untuk pos tanah dalam pengembangan lainnya, Perseroan menyatakan aset itu sah dimiliki atau dikuasai oleh Perseroan dan entitas anak, tetapi waktu pengembangannya masih menunggu kajian kondisi pasar. Perseroan menegaskan tidak ada kejadian material lain yang berpotensi mempengaruhi harga saham atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "A fenced vacant lot with weathered concrete foundations and idle construction equipment under overcast tropical sky, Jakarta skyline in the distance",
+  "takeaway": "Laporan ini condong negatif karena mengonfirmasi bahwa dua proyek besar ROCK, Azerai di Bali yang lahannya sudah dikuasai sejak 2011 dan International Exchange House di Jakarta Selatan yang lahannya diperoleh sejak 2003, masih mandek di tahap evaluasi tanpa jadwal pasti maupun sumber dana yang terkunci, dengan progres fisik baru 4,17 persen dan 13,37 persen setelah belasan tahun. Yang perlu dicermati adalah arus kas dan beban bunga perusahaan ke depan, sebab rencana pendanaan proyek disebut memakai pinjaman bank dan kas internal, sehingga kalau proyek ini akhirnya berjalan, utang atau pengeluaran kas Perseroan bisa naik sementara lahan tersebut selama ini belum menghasilkan pendapatan sepadan dengan lamanya waktu yang sudah berjalan. Ada sisi baik yang perlu diimbangi, yaitu tingkat okupansi properti yang sudah beroperasi naik dari 66,05 persen ke 74,66 persen dalam setahun. Yang perlu dipantau selanjutnya adalah apakah unit yang ditinggalkan PT Citra Angsana Perkasa setelah kontraknya berakhir April 2026 bisa cepat terisi kembali, serta apakah Perseroan akhirnya menetapkan jadwal dan skema pendanaan definitif untuk Azerai dan International Exchange House pada laporan keuangan atau keterbukaan informasi berikutnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "arko-kontrak-konstruksi-plta-pongbembe-20-mw-senilai-rp288-m",
+  "category": "Aksi Korporasi",
+  "title": "ARKO Kontrak Konstruksi PLTA Pongbembe [20 MW] Senilai Rp288 M",
+  "deck": "Anak usaha ARKO, Nosu dan Aekon, teken kontrak konstruksi PLTA Pongbembe 20 MW senilai Rp287,98 miliar, setara 56 persen ekuitas perseroan per akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:24:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/beb1b0de64_1d48b8d914.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARKO",
+  "tags": [
+   "ARKO",
+   "PLTA",
+   "transaksi afiliasi",
+   "Arkora Hydro"
+  ],
+  "body": [
+   "PT Arkora Hydro Tbk (ARKO) mengumumkan bahwa dua anak usahanya, PT Nosu Hydro dan PT Arkora Ekon Indonesia (Aekon), menandatangani perjanjian konstruksi pada 7 September 2026 untuk membangun Pembangkit Listrik Tenaga Air (PLTA) Pongbembe berkapasitas 20 megawatt. Perjanjian bernomor 007.SP/NH/IX/2026 ini bernilai Rp287.981.228.000, hampir Rp288 miliar.",
+   "Nilai kontrak ini setara 56 persen dari ekuitas ARKO yang tercatat Rp516,2 miliar per 31 Desember 2025, sehingga tergolong transaksi material menurut aturan OJK. Namun karena Nosu dan Aekon merupakan anak usaha yang sahamnya dikuasai ARKO secara langsung maupun tidak langsung di atas 99 persen, transaksi ini dikecualikan dari kewajiban meminta persetujuan RUPS maupun menggunakan jasa penilai independen. Ketiga perusahaan ini juga memiliki jajaran direksi dan komisaris yang tumpang tindih: Aldo Henry Artoko menjabat Direktur Utama ARKO sekaligus Komisaris Nosu dan Direktur Utama Aekon, Ricky Hartono menjabat Direktur ARKO sekaligus Direktur Nosu dan Komisaris Utama Aekon, sementara Ismu Nugroho menjabat Direktur ARKO sekaligus Komisaris Aekon.",
+   "Manajemen ARKO menyebut transaksi dengan pihak terafiliasi ini dipilih karena memudahkan koordinasi dan menjaga kerahasiaan strategi bisnis dibanding bekerja sama dengan pihak ketiga yang tidak terafiliasi. Perseroan menyatakan transaksi ini tidak berdampak signifikan terhadap kondisi keuangannya, dan tetap wajib melaporkan transaksi ini kepada Otoritas Jasa Keuangan meski tidak memerlukan pengumuman lebih lanjut kepada publik."
+  ],
+  "fotoAdegan": "Workers and engineers at a hydropower plant construction site beside a fast flowing river in a forested Indonesian valley, daytime.",
+  "takeaway": "Transaksi ini tergolong netral bagi ARKO karena sifatnya internal antar anak usaha sendiri, uang dan proyek tetap berputar di dalam grup, sehingga tidak ada dana segar baru yang masuk maupun keluar dari perusahaan secara konsolidasi. Yang perlu diperhatikan adalah ukurannya yang mencapai 56 persen ekuitas ARKO, yaitu modal bersih perusahaan setelah dikurangi utang, sebuah porsi besar untuk proyek pembangkit baru yang skema pembiayaannya belum dijelaskan dalam dokumen ini. Karena kontrak dibuat dengan pihak terafiliasi dan dikecualikan dari kewajiban memakai penilai independen, publik tidak punya cara memastikan apakah harga kontrak ini wajar dibanding bila proyek ditenderkan ke pihak luar. Sisi positifnya, proyek ini menandakan ARKO tetap melanjutkan ekspansi kapasitas pembangkit listrik tenaga air lewat PLTA Pongbembe 20 megawatt. Yang perlu dipantau selanjutnya adalah progres pembangunan PLTA Pongbembe dan dari mana dananya berasal, apakah dari kas internal atau utang baru, karena dokumen ini tidak merinci skema pendanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pgjo-dan-mdia-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "PGJO dan MDIA Keluar dari [Pemantauan Khusus] BEI",
+  "deck": "Bursa mencabut status pemantauan khusus saham PGJO dan MDIA, efektif 3 September 2026, sebagai koreksi atas pengumuman sebelumnya tertanggal 2 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:10:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47591356e2_5cf0234ace.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "PGJO",
+   "MDIA",
+   "BEI",
+   "Pemantauan Khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencabutan status pemantauan khusus terhadap saham PT Bahtera Bumi Raya Tbk (PGJO) dan PT Intermedia Capital Tbk (MDIA), berlaku efektif sejak 3 September 2026. Pengumuman ini adalah koreksi atas surat sebelumnya bernomor Peng-CK-00067/BEI.PLP/09-2026 tertanggal 2 September 2026, dengan perubahan hanya pada nomor pengumuman, bukan pada substansi pencabutannya.",
+   "PGJO, yang tercatat di Papan Akselerasi, sebelumnya masuk daftar pemantauan khusus karena memenuhi kriteria nomor 5 dalam aturan bursa, yaitu memiliki ekuitas negatif pada laporan keuangan terakhirnya. Adapun MDIA, yang tercatat di Papan Pengembangan, masuk pemantauan khusus berdasarkan kriteria nomor 10, yakni pernah dikenakan penghentian sementara perdagangan efek selama lebih dari satu hari bursa akibat aktivitas perdagangan.",
+   "Dengan pencabutan ini, kedua kode saham resmi keluar dari daftar pemantauan khusus BEI. Saham yang masuk daftar tersebut biasanya mendapat notasi dan pengawasan tambahan dari bursa karena mengindikasikan salah satu dari sejumlah kondisi keuangan atau perdagangan bermasalah, sehingga pencabutan status ini berarti bursa menilai kondisi yang memicu masuknya kedua saham itu sudah tidak lagi terpenuhi."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district under a hazy morning sky, busy street traffic below.",
+  "takeaway": "Pencabutan status pemantauan khusus ini condong positif bagi PGJO dan MDIA, karena predikat tersebut biasanya membuat saham mendapat pengawasan ekstra dari bursa dan bisa membatasi mekanisme perdagangannya. Bagi PGJO, pemicu awalnya adalah ekuitas negatif, yaitu kondisi ketika total utang perusahaan melebihi total asetnya, sebuah sinyal kesehatan keuangan yang lemah. Bagi MDIA, pemicunya adalah riwayat penghentian sementara perdagangan sahamnya selama lebih dari satu hari akibat aktivitas transaksi tertentu. Yang perlu dipantau berikutnya adalah laporan keuangan berikutnya dari kedua perusahaan, untuk melihat apakah perbaikan yang mendasari pencabutan status per 3 September 2026 ini benar-benar berlanjut dan tidak membuat mereka masuk kembali ke daftar pemantauan khusus.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "csmi-masuk-pemantauan-khusus-bei-mulai-10-september",
+  "category": "Aksi Korporasi",
+  "title": "CSMI Masuk [Pemantauan Khusus] BEI Mulai 10 September",
+  "deck": "BEI memasukkan saham CSMI (Cipta Selera Murni) ke daftar Pemantauan Khusus mulai 10 September 2026, menyusul suspensi perdagangan lebih dari satu hari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:08:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4d0046cc4_4d83ca17bb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "CSMI",
+   "Pemantauan Khusus",
+   "BEI",
+   "Cipta Selera Murni"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi memasukkan saham PT Cipta Selera Murni Tbk (CSMI) ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, berlaku efektif mulai 10 September 2026. Pengumuman bernomor Peng-PK-00065/BEI.PLP/09-2026 ini diterbitkan pada 9 September 2026 pukul 17.08 WIB, ditandatangani oleh Stalsa Frani Akmyga selaku Pelaksana Harian Kepala Divisi Penilaian Perusahaan. Saham CSMI tercatat di Papan Pengembangan dan tidak berstatus saham dengan hak suara multipel (SDHSM).",
+   "Dalam pengumuman itu, bursa mencantumkan kriteria nomor 10 sebagai alasan masuknya CSMI ke papan pemantauan khusus, yakni saham tersebut pernah dikenakan penghentian sementara perdagangan selama lebih dari satu hari bursa yang disebabkan oleh aktivitas perdagangan itu sendiri. Bursa menjelaskan bahwa daftar pemantauan khusus secara umum mencakup sebelas kemungkinan kriteria, mulai dari harga saham yang terlalu rendah disertai likuiditas rendah, opini disclaimer atas laporan keuangan auditan, ekuitas negatif, hingga kondisi perusahaan yang dimohonkan pailit atau penundaan kewajiban pembayaran utang. Namun untuk CSMI, kriteria yang tercatat berlaku dalam pengumuman ini secara spesifik hanya kriteria ke-10 tersebut."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's central business district, late afternoon light, wide angle",
+  "takeaway": "Status ini negatif bagi CSMI, sebab bursa secara resmi menandai sahamnya berisiko tinggi setelah sempat terkena penghentian perdagangan lebih dari satu hari akibat aktivitas transaksinya sendiri, bukan karena faktor eksternal. Pemantauan khusus adalah label yang dipakai bursa untuk mengawasi lebih ketat saham dengan risiko likuiditas atau tata kelola tinggi, sehingga masuknya sebuah saham ke daftar ini biasanya membuat investor institusi lebih berhati-hati karena potensi volatilitas harga dan kemungkinan mekanisme perdagangan yang lebih dibatasi. Yang perlu dipantau berikutnya adalah efektif berlakunya status ini pada 10 September 2026, serta apakah CSMI nantinya bisa memenuhi syarat untuk keluar dari papan pemantauan khusus atau justru menghadapi pembatasan perdagangan tambahan dari bursa.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "yelo-panggil-rupslb-kedua-setelah-kuorum-pertama-gagal",
+  "category": "Aksi Korporasi",
+  "title": "YELO Panggil RUPSLB [Kedua] Setelah Kuorum Pertama Gagal",
+  "deck": "RUPSLB pertama YELO pada 3 September gagal kuorum, sehingga rapat kedua digelar 17 September 2026 untuk mengubah pasal usaha di anggaran dasar sesuai klasifikasi KBLI baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:50:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a806f80f26_5c57ff9249.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YELO",
+  "tags": [
+   "YELO",
+   "RUPSLB",
+   "anggaran dasar",
+   "KBLI"
+  ],
+  "body": [
+   "PT Yelooo Integra Datanet Tbk (YELO) mengumumkan bahwa Rapat Umum Pemegang Saham Luar Biasa yang digelar pada 3 September 2026 gagal mengambil keputusan karena jumlah pemegang saham yang hadir tidak memenuhi syarat kuorum sebagaimana diatur dalam Anggaran Dasar perseroan dan Peraturan OJK Nomor 15/POJK.04/2020. Akibatnya, Direksi memanggil Rapat Umum Pemegang Saham Luar Biasa Kedua dengan satu-satunya mata acara yang sama, yaitu persetujuan perubahan Pasal 3 Anggaran Dasar terkait penyesuaian dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI).",
+   "Rapat kedua dijadwalkan pada Kamis, 17 September 2026 pukul 14.00 WIB, bertempat di Ruang Jawa Axa Tower Lantai 42, Jalan Prof Dr Satrio Kavling 18, Karet Kuningan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa pada Rabu, 8 September 2026. Bahan rapat sudah bisa diakses di kantor perseroan sejak surat pemanggilan ini terbit, 9 September 2026, hingga hari pelaksanaan rapat.",
+   "Perseroan tidak mengirim undangan khusus karena pemanggilan ini berlaku sebagai undangan resmi. Pemegang saham bisa hadir fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu menyatakan kehadiran, memberi kuasa, atau menitipkan suara paling lambat pukul 12.00 WIB pada 16 September 2026, yakni satu hari kerja sebelum rapat. Bila tidak memberi suara sampai tenggat itu, pemegang saham akan dianggap abstain untuk mata acara yang bersangkutan, dan penghitungan suara dilakukan notaris dibantu Biro Administrasi Efek."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's Kuningan business district under a bright midday sky, wide street-level angle.",
+  "takeaway": "Laporan ini condong netral bagi YELO, karena isinya murni soal prosedur rapat dan penyesuaian kode klasifikasi usaha, bukan aksi korporasi yang mengubah kondisi keuangan perseroan. Perubahan Pasal 3 Anggaran Dasar di sini hanya menyesuaikan kode bidang usaha dengan aturan baru BPS, jadi tidak menyentuh ekuitas, arus kas, jumlah saham beredar, atau laba per saham perseroan. Yang lebih menarik dicermati justru gagalnya kuorum pada rapat pertama, yang menunjukkan rendahnya partisipasi pemegang saham dalam pengambilan keputusan, meski dokumen ini tidak merinci penyebabnya. Yang perlu dipantau berikutnya adalah apakah rapat kedua pada 17 September 2026 berhasil mencapai kuorum yang disyaratkan untuk RUPS kedua, mengingat batas akhir pemegang saham menyatakan kehadiran atau kuasa lewat eASY.KSEI jatuh pada 16 September 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "grph-gelar-public-expose-usai-suspensi-cooling-down-bei",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Gelar Public Expose usai [Suspensi] Cooling Down BEI",
+  "deck": "BEI menyuspensi saham GRPH sejak 8 September 2026 dan mewajibkan perseroan menggelar public expose insidentil pada 15 September 2026 untuk menjelaskan kinerja operasional dan keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:45:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0fd5b715_2c416270e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPH",
+  "tags": [
+   "GRPH",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT Griptha Putra Persada Tbk (GRPH) melaporkan rencana penyelenggaraan public expose insidentil kepada Bursa Efek Indonesia, menyusul permintaan otoritas bursa setelah perseroan terkena suspensi cooling down pada 8 September 2026. Suspensi ini tercatat dalam pengumuman BEI Nomor Peng-SPT-00169/BEI.WAS/09-2026. Melalui surat bernomor 022/GPP/CORSEC/SPb/IX/2026 tertanggal 9 September 2026, yang ditandatangani Direktur Utama Edwin Leonardo dan Sekretaris Perusahaan Fransiska Bella Yunita, perseroan menyampaikan bahwa acara akan digelar secara daring melalui Zoom pada Selasa, 15 September 2026, pukul 14.00 hingga 15.00 WIB.",
+   "Agenda public expose insidentil ini adalah pemaparan kinerja operasional dan keuangan perseroan. Materi presentasi akan disampaikan sehari sebelumnya, yaitu 14 September 2026, dan dapat diunduh melalui situs web resmi perseroan maupun situs web Bursa Efek Indonesia.",
+   "Permintaan public expose insidentil ini melanjutkan rangkaian pengawasan bursa terhadap pergerakan saham GRPH. Awal September 2026, perseroan sempat merespons notasi Unusual Market Activity (UMA) dari BEI dan menyatakan tidak mengetahui penyebab lonjakan harga sahamnya. Kini bursa melangkah lebih jauh dengan memberlakukan suspensi cooling down, yakni penghentian sementara perdagangan yang biasa dipasang otoritas ketika harga saham bergerak sangat cepat dan janggal, sebelum akhirnya dibuka kembali."
+  ],
+  "fotoAdegan": "A quiet small-town hotel reception desk with polished marble floor and soft morning sunlight, no visible signage",
+  "takeaway": "Laporan ini condong negatif bagi GRPH, sebab isinya menunjukkan bursa benar-benar menghentikan sementara perdagangan sahamnya dan memaksa manajemen tampil menjelaskan kondisi perusahaan, setelah sebelumnya perseroan sendiri mengaku tidak tahu penyebab lonjakan harga sahamnya. Dokumen ini tidak memuat angka baru soal ekuitas, arus kas, atau laba perseroan, tetapi menyentuh sisi kepercayaan pasar. Suspensi cooling down adalah jeda transaksi yang dipasang bursa saat harga saham melonjak sangat cepat dan janggal, agar investor tidak ikut membeli hanya karena euforia harga, bukan karena kinerja bisnis yang sebenarnya, dan pelaku pasar mencermatinya karena semakin sering suatu saham disuspensi dan diminta menjelaskan diri, semakin besar pula keraguan soal transparansi informasi yang beredar. Yang perlu dipantau selanjutnya adalah paparan publik pada 15 September 2026 pukul 14.00 WIB, saat manajemen GRPH dijadwalkan menjelaskan kinerja operasional dan keuangan perseroan secara langsung, dengan materi presentasi yang baru dipublikasikan sehari sebelumnya.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ibos-jadwalkan-rupslb-pada-16-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "IBOS Jadwalkan [RUPSLB] pada 16 Oktober 2026",
+  "deck": "PT Indo Boga Sukses Tbk mengumumkan RUPSLB digelar 16 Oktober 2026 di Yogyakarta, dengan tanggal pencatatan pemegang saham 23 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:45:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1218108960_d648f50407.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IBOS",
+  "tags": [
+   "IBOS",
+   "RUPSLB",
+   "Pasar Modal",
+   "Indo Boga Sukses"
+  ],
+  "body": [
+   "PT Indo Boga Sukses Tbk (IBOS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 16 Oktober 2026 pukul 10.00 WIB di BAKI Restaurant, Jl. Raya Randugowang, Jatirejo, Sendangadi, Mlati, Sleman, Yogyakarta. Pengumuman ditandatangani secara elektronik oleh Direktur Utama Edi Nugroho dan merujuk pada surat perseroan bernomor 279/IBS-DIR/IX/2026.",
+   "Perseroan menetapkan Rabu, 23 September 2026 pukul 16.00 WIB sebagai batas waktu pencatatan Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat pada tanggal tersebut, baik di daftar pemegang saham perseroan maupun di rekening efek KSEI, yang berhak hadir, diwakili, atau memberikan suara dalam rapat. Pemanggilan resmi yang memuat mata acara RUPSLB baru akan diunggah ke situs web perseroan, situs Bursa Efek Indonesia, dan eASY.KSEI pada Kamis, 24 September 2026, sehingga agenda rapat belum diungkapkan dalam pengumuman ini.",
+   "Perseroan juga menyebutkan bahwa usulan mata acara dari pemegang saham dapat dimasukkan ke agenda rapat jika memenuhi syarat Pasal 16 POJK No. 15/2020 dan diterima direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat. Rapat rencananya digelar dengan fasilitas elektronik sesuai POJK No. 16/2020 tentang penyelenggaraan RUPS perusahaan terbuka secara elektronik, dengan mekanisme kuasa dan prosedur lain akan dijelaskan lebih lanjut dalam surat pemanggilan resmi."
+  ],
+  "fotoAdegan": "Empty restaurant function hall with round tables and stacked chairs being arranged, soft morning light through windows, no people",
+  "takeaway": "Pengumuman ini netral bagi penilaian fundamental IBOS karena isinya baru soal jadwal dan syarat administratif rapat, belum memuat agenda atau keputusan yang bisa dinilai dampaknya ke bisnis perseroan. Yang disebut di sini adalah tanggal pencatatan pemegang saham atau DPS, yaitu batas waktu yang menentukan siapa saja yang berhak memberi suara dalam rapat nanti, sehingga penting bagi pemegang saham untuk memastikan kepemilikannya sudah tercatat sebelum 23 September 2026 pukul 16.00 WIB. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi mata acara rapat yang akan diunggah pada 24 September 2026, karena baru dari situ akan terlihat apakah RUPSLB ini membahas hal yang berdampak pada bisnis atau struktur permodalan perseroan, sebelum keputusan diambil dalam rapat pada 16 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-gelar-paparan-publik-bahas-suspensi-saham-dan-lonjakan-harga",
+  "category": "Aksi Korporasi",
+  "title": "PACK Gelar Paparan Publik, Bahas [Suspensi] Saham dan Lonjakan Harga",
+  "deck": "PACK akan menggelar paparan publik insidentil pada 11 September 2026 atas permintaan Bursa Efek Indonesia, untuk menjelaskan pergerakan harga saham yang tidak biasa dan suspensi perdagangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:32:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/91fff385c3_c8bbd44d92.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "Public Expose",
+   "Suspensi Saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) melaporkan kepada Bursa Efek Indonesia rencana penyelenggaraan Public Expose Insidentil. Berbeda dari paparan publik biasa yang sifatnya sukarela, latar belakang acara ini adalah permintaan resmi dari Bursa, dengan nomor referensi surat Peng-SPT-00159/BEI.WAS/08-2026. Acara akan berlangsung pada Jumat, 11 September 2026, pukul 10.00 WIB hingga selesai, secara daring melalui aplikasi Zoom. Surat pelaporan bernomor 002/DIR-ANHI/IX/2026 ditandatangani Donnie Holman Partogi Manurung selaku Direktur, pada 9 September 2026.",
+   "Ada tiga agenda yang akan dibahas manajemen PACK dalam acara tersebut. Pertama, kinerja keuangan dan kondisi bisnis terkini perusahaan. Kedua, rencana bisnis perusahaan ke depan. Ketiga, dan ini yang paling menjadi sorotan, analisis manajemen terkait pergerakan harga saham PACK serta suspensi yang dikenakan bursa terhadap perdagangan sahamnya. Perusahaan menyebut materi paparan akan lebih dulu disampaikan kepada Bursa Efek Indonesia paling lambat 10 September 2026, sehari sebelum acara berlangsung.",
+   "Permintaan Bursa ini muncul tidak lama setelah PACK, pada 7 September 2026, membantah rumor rencana rights issue dan mengungkap bahwa lonjakan laba bersihnya sebesar 1.431,5 persen bersumber dari luar bisnis dagang utamanya. Kini giliran Bursa yang meminta penjelasan langsung dari manajemen soal pergerakan harga saham yang tidak wajar itu sekaligus soal suspensi yang sedang berjalan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a laptop open for a video call, Jakarta office skyline visible through large windows, daytime light",
+  "takeaway": "Laporan ini sendiri netral, sebab isinya baru soal jadwal dan agenda acara, belum ada angka keuangan baru yang dibuka ke publik. Yang patut digarisbawahi adalah latar belakangnya: acara ini digelar atas permintaan Bursa, bukan inisiatif sukarela PACK, menyusul pergerakan harga saham yang tidak wajar dan suspensi, yakni penghentian sementara perdagangan saham PACK oleh bursa. Suspensi ini langsung menyentuh likuiditas investor, sebab selama saham dihentikan, pemegang saham tidak bisa menjual atau membeli sampai bursa mencabut status itu, biasanya setelah perusahaan memberi penjelasan yang dianggap memadai. Laporan ini belum menyinggung ekuitas, arus kas, atau laba per saham, karena memang baru tahap pengumuman rencana penjelasan, bukan penjelasan itu sendiri. Yang perlu dipantau adalah paparan publik pada Jumat, 11 September 2026 pukul 10.00 WIB, serta materi yang akan disampaikan manajemen ke Bursa sehari sebelumnya, pada 10 September 2026, karena di sanalah penjelasan sesungguhnya soal lonjakan harga saham dan nasib suspensi akan terungkap.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "post-jawab-bursa-soal-penundaan-bagi-hasil-sukuk-likuiditas",
+  "category": "Aksi Korporasi",
+  "title": "POST Jawab Bursa soal Penundaan Bagi Hasil Sukuk [Likuiditas]",
+  "deck": "Pos Indonesia menjelaskan ke Bursa alasan penundaan kedua bagi hasil sukuk, dengan target bayar mulai Januari 2027 lewat dukungan Danantara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:02:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d6c921583_bba823731a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Sukuk",
+   "Likuiditas"
+  ],
+  "body": [
+   "PT Pos Indonesia (POST) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia terkait penundaan pembayaran Bagi Hasil ke-5 Sukuk Ijarah Berkelanjutan I Tahap II Tahun 2025 Seri A-C yang jatuh tempo 28 Agustus 2026. Penjelasan ini merespons surat KSEI Nomor KSEI-6190/DIR/0826 tanggal 27 Agustus 2026 dan surat permintaan penjelasan Bursa Nomor S-11116/BEI.PP3/08-2026 tanggal 28 Agustus 2026. Surat tanggapan ditandatangani Direktur Utama Muhammad Iskandar dan Direktur Keuangan Fathul Anwar pada 1 September 2026, lalu disampaikan resmi ke Bursa oleh Corporate Secretary Iwan Gunawan pada 9 September 2026.",
+   "Perseroan menyebut penyebab penundaan adalah kas yang belum mencukupi untuk membayar seluruh kewajiban yang jatuh tempo bersamaan, akibat tekanan arus kas dari pengeluaran operasional dan kewajiban ke pihak ketiga. Untuk memperbaiki kondisi ini, Pos Indonesia mengklaim sudah melakukan penataan ulang pengelolaan kas dengan memisahkan rekening kas operasional dari dana pihak ketiga, mempercepat penagihan piutang, mengevaluasi pola operasi untuk efisiensi biaya, serta menggandeng PT Perusahaan Pengelola Aset (PPA) sebagai konsultan pendamping. Perseroan mengakui langkah-langkah itu belum cukup mengatasi ketidaksesuaian waktu antara kas masuk dan kewajiban yang jatuh tempo, sehingga penundaan kembali terjadi pada 28 Agustus 2026.",
+   "Terkait rencana pembayaran, Pos Indonesia menyatakan akan membahas pemenuhan bagi hasil ke-5 dengan investor melalui Rapat Umum Pemegang Sukuk Ijarah (RUPSI) pada 4 September 2026, dengan tiga agenda: pemaparan kondisi terkini perusahaan, permohonan persetujuan restrukturisasi sebagai bagian dari rencana transformasi, dan permohonan waiver atas pelanggaran syarat keuangan (financial covenant) pada laporan keuangan audited periode 31 Desember 2025 dan 31 Desember 2026. Berdasarkan hasil RUPSI itu, perseroan menargetkan mulai membayar kewajiban ke pemegang sukuk pada Januari 2027, dengan keyakinan yang disandarkan pada dukungan Danantara dalam mengawal program restrukturisasi dan transformasi bisnis perusahaan.",
+   "Perlu dicatat, uraian dalam surat ini menyebut target Januari 2027 tersebut disusun berdasarkan persetujuan RUPSI. Namun, pemberitaan kami sebelumnya pada 8 September 2026 mencatat bahwa pemegang sukuk dalam RUPSI dan rapat pemegang obligasi (RUPO) justru menolak usulan restrukturisasi dan permohonan waiver dimaksud, sementara Pos Indonesia mengajukan opsi lain berupa standstill pembayaran utang dan perpanjangan tenor hingga 2032. Ada jarak antara asumsi yang dipakai dalam surat penjelasan ini dengan hasil rapat pemegang sukuk yang sebenarnya."
+  ],
+  "fotoAdegan": "Postal delivery vans being loaded with parcels in a busy distribution yard, workers in uniform, early morning light",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia, karena ini penundaan kedua atas kewajiban bagi hasil sukuk yang menunjukkan tekanan likuiditas belum teratasi, sementara target pembayaran Januari 2027 yang disebut perseroan disusun atas asumsi persetujuan RUPSI yang menurut pemberitaan kami justru ditolak pemegang sukuk. Yang tersentuh di sini adalah arus kas dan likuiditas, yaitu ketersediaan uang tunai perusahaan untuk membayar kewajiban tepat waktu, serta ada permohonan waiver atas financial covenant, semacam syarat kesehatan keuangan dalam perjanjian utang yang kalau dilanggar bisa memicu utang harus dilunasi lebih cepat. Pembaca perlu memantau bagaimana Pos Indonesia menindaklanjuti hasil RUPO dan RUPSI yang sebelumnya menolak restrukturisasi, termasuk kelanjutan usulan standstill dan perpanjangan tenor utang hingga 2032, serta apakah target pembayaran Januari 2027 ini masih relevan setelah penolakan tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "fwct-gelar-rupslb-ubah-anggaran-dasar-ikuti-kbli-baru",
+  "category": "Aksi Korporasi",
+  "title": "FWCT Gelar RUPSLB Ubah Anggaran Dasar Ikuti [KBLI] Baru",
+  "deck": "Wijaya Cahaya Timber memanggil RUPS Luar Biasa 1 Oktober 2026 untuk mengubah Anggaran Dasar menyesuaikan kode klasifikasi usaha sesuai aturan pemerintah baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T16:00:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a75a903a_da35de0c8b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FWCT",
+  "tags": [
+   "FWCT",
+   "RUPSLB",
+   "KBLI",
+   "Wijaya Cahaya Timber"
+  ],
+  "body": [
+   "PT Wijaya Cahaya Timber Tbk (FWCT) resmi memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 1 Oktober 2026 pukul 14.00 WIB, di Puri Indah Financial Tower, Jakarta Barat, sekaligus secara elektronik lewat aplikasi eASY.KSEI dan Zoom webinar. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 8 September 2026 pukul 16.30 WIB, atau sesuai saldo rekening efek di KSEI pada penutupan perdagangan tanggal yang sama. Satu-satunya agenda rapat adalah perubahan Pasal 3 Anggaran Dasar Perseroan untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI), menyusul terbitnya Peraturan Pemerintah Nomor 28 Tahun 2025 tentang perizinan berusaha berbasis risiko dan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025. Direksi menegaskan dalam surat ini bahwa penyesuaian tersebut bukan perubahan kegiatan usaha sebagaimana diatur POJK 17/2020 tentang Transaksi Material, melainkan murni penyelarasan kode klasifikasi agar proses perizinan berusaha Perseroan tetap lancar.",
+   "Agar rapat sah dan bisa mengambil keputusan mengikat, kehadiran minimal harus mewakili dua pertiga dari seluruh saham berhak suara. Keputusan diambil lewat musyawarah mufakat, dan jika itu tidak tercapai, keputusan sah bila disetujui lebih dari dua pertiga suara yang hadir. Pemegang saham yang tidak bisa hadir dapat memberi kuasa elektronik (e-Proxy) kepada Pihak Independen yang ditunjuk Perseroan, yaitu staf PT Adimitra Jasa Korpora, atau memakai surat kuasa konvensional. Surat kuasa fisik beserta salinan identitas harus sudah diterima Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara, paling lambat Rabu, 30 September 2026 pukul 16.00 WIB, sehari sebelum rapat. Surat pemanggilan ini ditandatangani Direktur Budi Tjahjadi dan disampaikan ke OJK serta BEI oleh Corporate Secretary Mareci Susi Afrisca Sembiring pada 9 September 2026, menindaklanjuti surat rencana RUPS yang sudah diumumkan Perseroan pada 24 Agustus 2026."
+  ],
+  "fotoAdegan": "Stacked plywood sheets in a timber processing warehouse, forklift moving pallets under industrial lighting, Jakarta outskirts",
+  "takeaway": "Laporan ini netral bagi FWCT karena isinya murni penyesuaian administratif kode klasifikasi usaha mengikuti aturan pemerintah baru, bukan perubahan lini bisnis, bukan aksi korporasi yang menyangkut uang atau saham. RUPS ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar, karena yang diubah hanya bunyi Anggaran Dasar soal kode usaha, meski pasar tetap perlu tahu karena tanpa penyesuaian ini izin usaha Perseroan berisiko terganjal aturan baru. Yang perlu dipantau adalah jalannya RUPSLB pada 1 Oktober 2026, termasuk apakah kuorum dua pertiga suara terpenuhi, serta tenggat pemberian kuasa bagi pemegang saham yang berhalangan hadir pada 30 September 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "meja-rugi-rp8-88-miliar-auditor-soroti-kelangsungan-usaha",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rugi Rp8,88 Miliar, Auditor Soroti [Kelangsungan Usaha]",
+  "deck": "Auditor memberi opini wajar tanpa modifikasian namun menyoroti keraguan signifikan atas kelangsungan usaha PT Harta Djaya Karya Tbk setelah rugi periode berjalan mencapai Rp8,88 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:54:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260909161310-64383-0/FinancialStatement-2026-II-MEJA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "laporan keuangan",
+   "kelangsungan usaha",
+   "waran"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA) menyampaikan laporan keuangan interim yang telah diaudit untuk periode enam bulan yang berakhir 30 Juni 2026. Auditor independen dari KAP Robert, Rudi, Yansen & Rekan, dengan partner penandatangan Robert Ricker, memberikan opini wajar tanpa modifikasian. Namun auditor menyertakan paragraf penekanan suatu hal yang menyebutkan bahwa per 30 Juni 2026 Perseroan memiliki akumulasi kerugian sebesar Rp20,55 miliar dan mencatat rugi Rp8,88 miliar untuk periode berjalan, kondisi yang menurut auditor menimbulkan ketidakpastian material atas kemampuan Perseroan mempertahankan kelangsungan usahanya.",
+   "Total aset Perseroan tercatat naik 33,19 persen, dari Rp88,71 miliar pada akhir 2025 menjadi Rp118,15 miliar per 30 Juni 2026, atau bertambah Rp29,44 miliar. Dalam surat penjelasan kepada Otoritas Jasa Keuangan yang diteken Direktur Utama Richie Adrian Hartanto S, manajemen menyebut kenaikan itu terutama berasal dari uang muka investasi yang ditempatkan untuk mendukung rencana investasi dan aksi korporasi, serta uang muka kepada subkontraktor untuk mobilisasi dan pengadaan material proyek. Piutang usaha pihak ketiga juga naik lebih dari dua kali lipat, dari Rp8,47 miliar menjadi Rp18,87 miliar, sementara utang bank jangka pendek justru turun dari Rp11,97 miliar menjadi Rp8,40 miliar.",
+   "Kenaikan ekuitas Perseroan dijelaskan berasal dari pelaksanaan Waran Seri I, bukan dari hasil operasional. Selama periode pelaksanaan waran yang berlangsung 12 Agustus 2025 hingga 11 Februari 2026 dengan harga pelaksanaan Rp115 per saham, sebanyak 318.002.042 Waran Seri I dikonversi menjadi saham baru, sehingga menambah modal ditempatkan dan disetor serta tambahan modal disetor Perseroan. Laporan juga mencatat pergantian auditor, dari KAP Kumalahadi, Sugeng Pamudji dan Rekan yang mengaudit laporan tahun 2025, menjadi KAP Robert, Rudi, Yansen & Rekan untuk laporan interim ini, dan angka pembanding laba rugi serta arus kas untuk semester I 2025 belum diaudit oleh auditor manapun."
+  ],
+  "fotoAdegan": "Woodworkers sanding wooden furniture frames in a small workshop, sawdust drifting in soft window light",
+  "takeaway": "Laporan ini condong negatif bagi MEJA. Auditor memang memberi opini wajar tanpa modifikasian, tapi secara eksplisit menandai adanya keraguan signifikan atas kemampuan perusahaan mempertahankan kelangsungan usahanya, sinyal yang jauh lebih penting bagi pemegang saham daripada opini itu sendiri. Pos yang tersentuh adalah modal pemegang saham dan jumlah saham beredar: kenaikan modal Perseroan bukan berasal dari laba usaha, melainkan dari pelaksanaan lebih dari 318 juta Waran Seri I menjadi saham baru seharga Rp115 per saham, sehingga jumlah saham beredar membengkak dan bagian laba untuk tiap saham berpotensi mengecil begitu perusahaan mulai untung lagi. Kas perusahaan nyaris tidak bergerak di kisaran Rp30,3 miliar meski rugi enam bulan mencapai Rp8,88 miliar, sementara sebagian besar kenaikan aset berbentuk uang muka investasi dan uang muka ke subkontraktor yang belum menjadi transaksi pasti. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal ketiga 2026, untuk melihat apakah rugi ini berlanjut atau mereda, serta realisasi rencana manajemen yang disebut dalam Catatan 34 laporan keuangan untuk mengatasi ketidakpastian kelangsungan usaha tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sini-gelar-public-expose-usai-suspensi-bahas-akuisisi-cuan",
+  "category": "Aksi Korporasi",
+  "title": "SINI Gelar Public Expose usai Suspensi, Bahas [Akuisisi] CUAN",
+  "deck": "Setelah sahamnya disetop BEI, Singaraja Putra menggelar paparan publik Jumat ini untuk membahas negosiasi akuisisi oleh Petrindo Jaya Kreasi (CUAN) serta kondisi keuangan terkini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:51:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e5fd7e5f18_c1535fc3f9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "CUAN",
+   "akuisisi",
+   "suspensi saham"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk. (SINI) akan menggelar Public Expose Insidentil pada Jumat, 11 September 2026 pukul 13.30 WIB melalui Zoom, setelah Bursa Efek Indonesia menghentikan sementara perdagangan sahamnya di Pasar Reguler dan Pasar Tunai sejak 7 September 2026 lewat pengumuman Peng-SPT-00170/BEI.WAS/09-2026. Paparan publik ini wajib digelar sesuai Peraturan Bursa Nomor I-E tentang kewajiban penyampaian informasi, yang mengharuskan perusahaan tercatat menyelenggarakan Public Expose Insidentil atas permintaan bursa.",
+   "Dalam surat bernomor 01/SP/IX/2026 yang ditandatangani Direktur Utama Amir Antolis, manajemen SINI akan memaparkan tiga agenda: kinerja keuangan dan kondisi bisnis terkini perseroan, perkembangan negosiasi rencana pengambilalihan oleh PT Petrindo Jaya Kreasi Tbk (IDX: CUAN), serta informasi atau fakta material lainnya. Surat pemberitahuan ini belum merinci nilai transaksi maupun tahap akhir negosiasi akuisisi tersebut.",
+   "Investor yang ingin mengikuti acara wajib mendaftar lewat tautan formulir registrasi paling lambat 10 September 2026, lalu masuk ke ruang Zoom selambatnya 15 menit sebelum acara dimulai dengan nama yang sama seperti saat registrasi. Salinan surat ini juga ditembuskan ke Kepala Eksekutif Pengawasan Pasar Modal OJK."
+  ],
+  "fotoAdegan": "Exterior view of modern glass office towers in Jakarta's financial district at dusk, city traffic passing below, wide angle",
+  "takeaway": "Laporan ini netral untuk saat ini karena baru mengumumkan jadwal penjelasan, belum ada angka final soal akuisisi maupun rincian alasan penghentian perdagangan. Yang tersentuh adalah struktur kepemilikan dan hak suara pengendali SINI, sebab pengambilalihan oleh Petrindo Jaya Kreasi (CUAN) bisa mengganti pemegang saham pengendali dan arah bisnis perusahaan, sesuatu yang pelaku pasar cermati karena pengendali baru biasanya membawa perubahan strategi, permodalan, dan tata kelola. Penghentian sementara perdagangan saham SINI oleh BEI sejak 7 September 2026 juga menandakan bursa menilai perlu ada penjelasan resmi lebih dulu sebelum perdagangan berjalan normal lagi. Yang perlu dipantau berikutnya adalah hasil paparan publik pada Jumat, 11 September 2026 pukul 13.30 WIB, khususnya detail negosiasi akuisisi dan kapan BEI mencabut suspensi perdagangan saham SINI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "zp-14-waran-terstruktur-jatuh-tempo-30-september-2026",
+  "category": "Aksi Korporasi",
+  "title": "ZP: 14 Waran Terstruktur [Jatuh Tempo] 30 September 2026",
+  "deck": "14 seri waran terstruktur ZP atas saham ACES, ADRO, BBTN, BUKA, HRUM, INDY, ISAT, JSMR, MIKA, MYOR, PGAS, PTBA, PTRO, dan UNVR jatuh tempo 30 September 2026 dan diselesaikan tunai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:40:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fa476db44_d054a5b460.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "jatuh tempo waran"
+  ],
+  "body": [
+   "Maybank Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten ZP, mengumumkan bahwa 14 seri waran terstruktur miliknya akan jatuh tempo pada Rabu, 30 September 2026, pukul 09.00 WIB. Waran-waran ini merupakan waran beli (call warrant) yang penyelesaiannya dilakukan secara tunai, bukan dengan penyerahan saham, mengikuti syarat dan ketentuan yang sudah ditetapkan dalam prospektus dan term sheet masing-masing seri sejak awal penerbitan.",
+   "Perdagangan waran-waran ini di bursa akan berhenti pada Jumat, 25 September 2026 pukul 16.00 WIB. Seluruh seri kemudian disuspensi sejak Senin, 28 September 2026 pukul 09.00 WIB hingga tanggal pelaksanaan. Harga penyelesaian dihitung dari rata-rata harga penutupan saham dasar di pasar reguler selama lima hari bursa sebelum tanggal jatuh tempo, dengan kemungkinan penyesuaian jika ada aksi korporasi seperti pemecahan saham atau hak memesan efek terlebih dahulu pada saham dasarnya.",
+   "Empat belas seri yang jatuh tempo beserta harga pelaksanaan dan rasio konversinya adalah: ACESZPCU6A dengan harga pelaksanaan Rp374 dan rasio 3,6502 waran per saham ACES; ADROZPCU6A Rp2.289 dengan rasio 6,6771 per saham ADRO; BBTNZPCU6A Rp1.350 dengan rasio 6 per saham BBTN; BUKAZPCU6A Rp170 dengan rasio 1,5 per saham BUKA; HRUMZPCU6A Rp1.200 dengan rasio 8 per saham HRUM; INDYZPCU6A Rp2.550 dengan rasio 10 per saham INDY; ISATZPCU6A Rp2.500 dengan rasio 15 per saham ISAT; JSMRZPCU6A Rp4.174 dengan rasio 11,3833 per saham JSMR; MIKAZPCU6A Rp2.650 dengan rasio 15 per saham MIKA; MYORZPCU6A Rp2.315 dengan rasio 9,6471 per saham MYOR; PGASZPCU6A Rp1.947 dengan rasio 5,5618 per saham PGAS; PTBAZPCU6A Rp2.580 dengan rasio 11,4653 per saham PTBA; PTROZPCU6A Rp15.000 dengan rasio 40 per saham PTRO; dan UNVRZPCU6A Rp2.795 dengan rasio 7,4523 per saham UNVR.",
+   "Waran yang masih beredar akan dilaksanakan otomatis pada tanggal jatuh tempo jika jumlah penyelesaian tunai, setelah dikurangi biaya pelaksanaan, masih lebih besar dari nol alias posisinya untung (in the money). Sebaliknya, jika hasil hitungannya nol atau negatif, seluruh waran itu berakhir tanpa nilai dan pemegang tidak menerima pembayaran apa pun dari Maybank Sekuritas. Dana penyelesaian yang positif akan disalurkan lewat KSEI selambat-lambatnya satu hari bursa setelah tanggal penyelesaian, dan pembayaran itu bersifat final sehingga melepaskan Maybank dari kewajiban lebih lanjut atas seri waran tersebut."
+  ],
+  "fotoAdegan": "Distant view of Jakarta's stock exchange tower and financial district skyline under soft morning haze",
+  "takeaway": "Laporan ini netral bagi Maybank Sekuritas selaku penerbit waran, karena jatuh tempo dan mekanisme penyelesaiannya memang sudah ditetapkan sejak waran ini pertama diterbitkan, bukan keputusan baru dari perusahaan. Yang tersentuh adalah arus kas Maybank sebagai penerbit: kalau harga rata-rata saham dasar di atas harga pelaksanaan (in the money), Maybank wajib membayar selisihnya secara tunai kepada pemegang waran lewat KSEI, dan makin banyak seri yang in the money makin besar kewajiban tunai yang harus disiapkan dalam waktu dekat. Sebaliknya, kalau harga rata-rata di bawah harga pelaksanaan, waran itu berakhir tanpa nilai dan pemegang waran tidak menerima apa pun, sementara Maybank tidak berkewajiban membayar. Yang perlu dipantau adalah tiga tanggal beruntun: perdagangan waran berhenti Jumat, 25 September 2026 pukul 16.00 WIB, seluruh waran disuspensi mulai Senin, 28 September 2026 pukul 09.00 WIB, dan harga penyelesaian dihitung dari rata-rata harga penutupan lima hari bursa sebelum jatuh tempo pada 30 September 2026, yang akan menentukan seri mana yang bernilai dan mana yang berakhir kosong.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",
   "category": "Aksi Korporasi",
   "title": "MKNT Coret Agenda [Ekspansi Usaha] dari RUPSLB PMTHMETD",

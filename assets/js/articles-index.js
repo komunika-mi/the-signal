@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026",
+  "category": "BUMN",
+  "title": "Tol Yogya-Bawen Ambarawa-Bawen [Beroperasi] November 2026",
+  "deck": "Jasa Marga menargetkan Seksi 6 Ambarawa-Bawen tol Yogyakarta-Bawen beroperasi penuh November 2026, melengkapi ruas sepanjang 75,12 km dari Sleman hingga Bawen.",
+  "date": "9 September 2026",
+  "image": "assets/img/tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026.jpg",
+  "imageV": "mttupr4e",
+  "tags": [
+   "Jasa Marga",
+   "Tol Yogya-Bawen",
+   "Infrastruktur",
+   "Kementerian PU"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465963-tol-yogya-bawen-seksi-6-akan-beroperasi-november-tahun-ini"
+ },
+ {
   "slug": "bbni-ungkap-materi-public-expose-kredit-tumbuh-24-yoy",
   "category": "Aksi Korporasi",
   "title": "BBNI Ungkap Materi Public Expose, Kredit Tumbuh [24%] YoY",
@@ -6515,21 +6532,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464452-rupslb-bei-mendadak-ditunda-ojk-baru-bahas-kendalanya-pada-4-september"
- },
- {
-  "slug": "mglv-jadwalkan-rups-7-september-bahas-akuisisi-nextier",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Jadwalkan RUPS 7 September, Bahas [Akuisisi] Nextier",
-  "deck": "MGLV mengubah jadwal RUPSLB dan RUPS Independen ke 7 September 2026, dengan agenda rights issue, penjualan anak usaha, dan akuisisi dari pemegang saham utama Nextier.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "RUPS Independen",
-   "akuisisi Nextier",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eff2c0ac24_60a9c62c5c.pdf",
-  "sourceLabel": "IDX"
  }
 ];

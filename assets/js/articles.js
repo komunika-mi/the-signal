@@ -57,6 +57,33 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026",
+  "category": "BUMN",
+  "title": "Tol Yogya-Bawen Ambarawa-Bawen [Beroperasi] November 2026",
+  "deck": "Jasa Marga menargetkan Seksi 6 Ambarawa-Bawen tol Yogyakarta-Bawen beroperasi penuh November 2026, melengkapi ruas sepanjang 75,12 km dari Sleman hingga Bawen.",
+  "image": "assets/img/tol-yogya-bawen-ambarawa-bawen-beroperasi-november-2026.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T14:48:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465963-tol-yogya-bawen-seksi-6-akan-beroperasi-november-tahun-ini",
+  "tags": [
+   "Jasa Marga",
+   "Tol Yogya-Bawen",
+   "Infrastruktur",
+   "Kementerian PU"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk menargetkan Jalan Tol Yogyakarta-Bawen Seksi 6 Ambarawa-Bawen mulai beroperasi penuh pada November 2026. Direktur Utama Jasa Marga Rivan A Purwantono mengatakan ruas sepanjang 5,2 kilometer ini kini memasuki tahap Uji Laik Fungsi Operasi atau ULFO, yaitu pengecekan kelayakan teknis sebelum sebuah jalan tol resmi dibuka untuk umum dan mulai dikenakan tarif. Rampungnya seksi ini akan menyambungkan penuh koridor Yogyakarta-Semarang lewat jalur bebas hambatan, setelah selama ini masyarakat hanya bisa memakainya secara gratis dan terbatas pada masa mudik.",
+   "Rivan menjelaskan, pola serupa sudah diterapkan pada beberapa ruas tol lain yang belum rampung sepenuhnya, yakni dibuka sementara sebagai jalur fungsional tanpa tarif saat arus Natal-Tahun Baru 2025 dan Lebaran 2026 untuk membantu kelancaran perjalanan, sebelum nantinya dioperasikan secara resmi. Ia menambahkan, pada akhir 2026 atau awal 2027 giliran 62 kilometer ruas lain yang juga sempat dipakai secara fungsional akan dioperasikan penuh, yaitu Tol Probolinggo-Banyuwangi serta ruas Tol Yogyakarta-Solo dan Yogyakarta-Bawen lainnya.",
+   "Menteri Pekerjaan Umum Dody Hanggodo menyatakan pembangunan jalan tol semacam ini diharapkan memberi efek berganda bagi perekonomian daerah yang dilaluinya, terutama lewat pemangkasan waktu tempuh dan penekanan biaya logistik. Kementerian PU disebut terus mengejar percepatan pembangunan jalan tol untuk mendukung konektivitas antardaerah serta menunjang sektor pariwisata dan ekonomi lokal, termasuk kawasan yang dilewati Tol Yogyakarta-Bawen seperti Borobudur dan Magelang.",
+   "Secara keseluruhan, Tol Yogyakarta-Bawen membentang 75,12 kilometer yang terbagi menjadi enam seksi. Seksi 1 Sleman-Banyurejo sepanjang 8,8 km, Seksi 2 Banyurejo-Borobudur 15,20 km, Seksi 3 Borobudur-Magelang 8,10 km, Seksi 4 Magelang-Temanggung 16,65 km, Seksi 5 Temanggung-Ambarawa 21,39 km, dan Seksi 6 Ambarawa-Bawen 5,2 km yang akan menjadi seksi terakhir yang beroperasi."
+  ],
+  "fotoAdegan": "Elevated toll road bridge cutting through green hilly terrain in Central Java, workers in vests inspecting concrete pillars, overcast morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa10d7a4b1dd-foto-udara-pekerja-menyelesaikan-pembuatan-marka-jalan-pada-proyek-pembangunan-jalan-tol-yogyakarta-bawen-seksi-6-di-bawen-kabupaten-semarang-jawa-tengah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah rampungnya tahap uji kelayakan ULFO untuk 5,2 kilometer terakhir dari total 75,12 kilometer Tol Yogyakarta-Bawen, dengan target beroperasi penuh dan mulai berbayar pada November 2026. Yang terdampak langsung adalah pengguna jalan dari Yogyakarta menuju Semarang lewat Ambarawa, serta pelaku usaha di sekitar Borobudur dan Magelang yang selama ini hanya menikmati jalur ini secara gratis dan terbatas saat musim mudik. Pola yang sama, yaitu membuka ruas tanpa tarif saat libur panjang lalu meresmikannya penuh belakangan, juga dipakai untuk 62 kilometer ruas lain yang ditargetkan rampung akhir 2026 atau awal 2027, sehingga ini terlihat sebagai penyelesaian bertahap sejumlah proyek tol yang tertunda, bukan proyek tunggal yang berdiri sendiri. Yang akan memastikan jadwal ini benar-benar terpenuhi adalah apakah ULFO Seksi 6 selesai tepat waktu sebelum November, dan apakah target tambahan 62 kilometer pada akhir 2026 atau awal 2027 itu meleset dari jadwal seperti yang kerap terjadi pada proyek tol sebelumnya.",
+  "imageV": "mttupr4e"
+ },
+ {
   "slug": "bbni-ungkap-materi-public-expose-kredit-tumbuh-24-yoy",
   "category": "Aksi Korporasi",
   "title": "BBNI Ungkap Materi Public Expose, Kredit Tumbuh [24%] YoY",

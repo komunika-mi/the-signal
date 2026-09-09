@@ -3,6 +3,113 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026",
+  "category": "Makroekonomi",
+  "title": "Survei BI: Keyakinan Konsumen [Naik] Lagi pada Agustus 2026",
+  "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 118,5 pada Agustus 2026 dari 116,8 di Juli, didorong membaiknya penilaian kondisi ekonomi saat ini dan harapan ke depan.",
+  "image": "assets/img/survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T04:38:59.572Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818326.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Keyakinan Konsumen",
+   "Survei Konsumen",
+   "Konsumsi Rumah Tangga"
+  ],
+  "body": [
+   "Bank Indonesia mencatat keyakinan konsumen terhadap kondisi ekonomi menguat pada Agustus 2026. Indeks Keyakinan Konsumen (IKK), yaitu ukuran seberapa optimistis rumah tangga terhadap ekonomi, naik menjadi 118,5 dari 116,8 pada Juli 2026. Karena angka indeks ini masih di atas 100, artinya konsumen secara umum tetap optimistis, dan kenaikan ini menunjukkan rasa optimis tersebut makin menguat dibanding bulan sebelumnya.",
+   "Kenaikan itu ditopang oleh dua komponen pembentuknya. Indeks Kondisi Ekonomi Saat Ini, yang mengukur bagaimana rumah tangga menilai keadaan ekonomi hari ini, naik dari 107,9 menjadi 109,4. Indeks Ekspektasi Konsumen, yang mengukur perkiraan rumah tangga atas kondisi ekonomi enam bulan ke depan, juga naik dari 125,7 menjadi 127,6. Naiknya kedua komponen ini secara bersamaan menunjukkan optimisme konsumen tidak hanya soal harapan di masa depan, tapi juga soal apa yang mereka rasakan saat ini.",
+   "Survei Konsumen ini rutin dirilis Bank Indonesia setiap bulan sebagai salah satu indikator untuk membaca kecenderungan konsumsi rumah tangga, yang selama ini menjadi penopang utama perekonomian Indonesia. Bank Indonesia menyebut hasil lengkap survei tersedia di situs resminya, namun rilis kali ini tidak merinci sektor usaha atau kelompok pendapatan mana yang paling mendorong kenaikan tersebut."
+  ],
+  "fotoAdegan": "Shoppers browsing fresh produce stalls in a busy Indonesian traditional market, morning light, colorful goods in soft-focus background",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_277825/sp_277825-Survei-Konsumen.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Kenaikan ini berarti rumah tangga bukan cuma berharap ekonomi membaik nanti, tapi juga menilai kondisi saat ini sudah lebih baik dibanding bulan lalu, karena kedua indeks pembentuknya sama-sama naik. Pihak yang paling merasakan dampaknya biasanya pelaku usaha yang berjualan langsung ke konsumen, seperti ritel dan barang kebutuhan sehari-hari, karena keyakinan konsumen yang naik lazimnya berbarengan dengan kecenderungan belanja yang lebih longgar. Namun data yang dirilis kali ini baru membandingkan dua bulan, sehingga belum cukup untuk memastikan apakah ini awal pemulihan konsumsi yang berkelanjutan atau sekadar kenaikan sesaat. Penanda yang perlu ditunggu adalah hasil Survei Konsumen edisi September 2026, yang biasanya dirilis Bank Indonesia pada awal Oktober, untuk melihat apakah kenaikan keyakinan ini berlanjut atau justru berbalik turun.",
+  "imageV": "mttm7usg"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-610-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.610.000 per Gram",
+  "deck": "Harga emas Antam hari ini turun Rp17.000 menjadi Rp2.610.000 per gram, sementara harga buyback ikut melemah ke Rp2.460.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-610-000-per-gram.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T09:41:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465898-harga-emas-antam-hari-ini-9-september-2026-rp2610000-per-gram-turun-rp17000",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 9 September 2026, tercatat Rp2.610.000 per gram, turun Rp17.000 dibandingkan hari sebelumnya yang berada di Rp2.627.000 per gram. Pergerakan ini penting diikuti karena emas Antam masih jadi salah satu pilihan favorit masyarakat untuk menyimpan nilai kekayaan, sehingga naik turunnya harga langsung berpengaruh ke keputusan membeli atau menjual.",
+   "Selain harga jual, harga buyback atau harga beli kembali emas Antam oleh perusahaan juga ikut turun, dari sebelumnya lebih tinggi menjadi Rp2.460.000 per gram. Artinya, orang yang hendak menjual emas batangannya kembali ke Antam hari ini akan menerima uang lebih sedikit dibanding jika dijual sehari sebelumnya. Perlu dicatat bahwa harga emas Antam bisa berubah sewaktu-waktu mengikuti pergerakan pasar.",
+   "Ada pula ketentuan pajak yang perlu diperhatikan dalam transaksi ini. Untuk penjualan kembali atau buyback dengan nilai di atas Rp10.000.000, pemerintah mengenakan PPh Pasal 22 sebesar 1,5 persen. Sementara itu, pembelian emas Antam dikenakan PPh sebesar 0,25 persen dari harga dasar yang tercantum di laman resmi Logam Mulia."
+  ],
+  "fotoAdegan": "Small gold bullion bars stacked on a velvet tray inside a jewelry shop display case, soft warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini hanya data satu hari, yaitu harga jual turun Rp17.000 menjadi Rp2.610.000 per gram dan harga buyback ikut turun ke Rp2.460.000 per gram. Penurunan ini terasa berbeda bagi dua pihak, calon pembeli mendapat harga sedikit lebih murah, sementara pemilik emas yang ingin menjualnya kembali justru menerima uang lebih sedikit dari biasanya. Satu hari pergerakan belum cukup untuk menyimpulkan apakah ini awal tren pelemahan atau sekadar koreksi harian, sebab harga emas Antam mengikuti naik turunnya harga emas dunia yang bisa berbalik arah kapan saja. Yang perlu dipantau adalah pergerakan harga selama beberapa hari ke depan serta tren harga emas global, karena itu yang akan menentukan apakah penurunan ini berlanjut atau berhenti di titik ini.",
+  "imageV": "mttm7v8c"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.590, Cadangan Devisa Naik jadi US$146,5 M",
+  "deck": "Rupiah menguat tipis ke Rp17.590 per dolar AS pada Rabu pagi setelah Bank Indonesia melaporkan cadangan devisa Agustus 2026 naik jadi US$146,5 miliar.",
+  "image": "assets/img/rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T09:30:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465894-rupiah-menguat-ke-rp17590-per-dolar-as-usai-rilis-cadangan-devisa-agustus-2026",
+  "tags": [
+   "rupiah",
+   "cadangan devisa",
+   "dolar AS",
+   "Bank Indonesia"
+  ],
+  "body": [
+   "Nilai tukar rupiah menguat ke Rp17.590 per dolar Amerika Serikat pada perdagangan Rabu pagi, 9 September 2026, naik 42 poin atau 0,24 persen dari posisi sebelumnya di Rp17.632. Penguatan ini terjadi tak lama setelah Bank Indonesia merilis data cadangan devisa Agustus 2026.",
+   "Cadangan devisa Indonesia tercatat US$146,5 miliar pada akhir Agustus, naik dari US$145,3 miliar pada akhir Juli. Bank Indonesia menyebut kenaikan ini didorong oleh penerimaan pajak dan jasa, penarikan pinjaman luar negeri pemerintah, serta kebijakan stabilisasi nilai tukar rupiah. Posisi tersebut setara dengan kemampuan membiayai 5,4 bulan impor, atau 5,3 bulan impor ditambah pembayaran utang luar negeri pemerintah.",
+   "Berdasarkan kurs referensi Jakarta Interbank Spot Dollar Rate, rupiah berada di Rp17.618 per dolar AS pada Selasa, 8 September, menguat 35 poin dari Rp17.653 pada Senin. Bank Indonesia menilai kondisi cadangan devisa saat ini mampu menopang ketahanan sektor eksternal serta menjaga stabilitas makroekonomi dan sistem keuangan. Persepsi positif investor terhadap prospek ekonomi nasional dan imbal hasil investasi yang tetap menarik disebut turut mendukung aliran modal asing ke dalam negeri.",
+   "Pengamat ekonomi dan pasar uang, Ibrahim Assuaibi, dalam riset hariannya memperkirakan rupiah akan bergerak fluktuatif sepanjang hari namun berpotensi ditutup melemah di rentang Rp17.630 hingga Rp17.670."
+  ],
+  "fotoAdegan": "Cargo containers being lifted by a crane onto a container ship at a busy Indonesian port terminal, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/22/6a602b5e349d9-ilustrasi-dolar-as_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Cadangan devisa naik US$1,2 miliar dalam sebulan, dari US$145,3 miliar jadi US$146,5 miliar, sehingga kini setara kemampuan membiayai 5,4 bulan impor, naik dari 5,3 bulan sebelumnya. Artinya persediaan dolar pemerintah dan Bank Indonesia untuk membayar barang impor serta utang luar negeri makin tebal, yang jadi bantalan kalau rupiah bergejolak. Yang perlu dicermati, penguatan rupiah ke Rp17.590 pada Rabu pagi ini justru diperkirakan analis pasar uang berbalik melemah ke rentang Rp17.630-Rp17.670 pada penutupan hari yang sama. Kalau proyeksi itu terbukti, penguatan pagi ini lebih terlihat sebagai reaksi sesaat terhadap rilis data cadangan devisa ketimbang tren yang kokoh. Kepastiannya baru akan terlihat dari kurs penutupan rupiah sore ini dan pergerakan kurs JISDOR pada hari-hari berikutnya.",
+  "imageV": "mttm7vlw"
+ },
+ {
+  "slug": "ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok",
+  "category": "Pasar Modal",
+  "title": "IHSG Menguat, Coba Tembus [Resistance] 6.700 saat Wall Street Anjlok",
+  "deck": "IHSG dibuka menguat tipis ke 6.699 dan menguji level resistance 6.700, di tengah bursa Asia yang beragam dan Wall Street yang melemah akibat aksi jual saham software global.",
+  "image": "assets/img/ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T09:23:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465891-ihsg-dibuka-menguat-pada-perdagangan-9-september-2026-siap-break-resistance-saat-bursa-asia-variatif-dan-wall-street-anjlok",
+  "tags": [
+   "IHSG",
+   "bursa saham",
+   "Wall Street",
+   "suku bunga The Fed"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka menguat 13 poin atau 0,20 persen ke level 6.699 pada perdagangan Rabu, 9 September 2026. Kenaikan tipis ini membawa indeks mendekati level 6.700, yang menurut analis menjadi penentu arah pergerakan dalam waktu dekat.",
+   "Head of Retail Research Analyst Fanny Suherman menyebut dalam riset hariannya bahwa IHSG berpotensi melanjutkan penguatan jika berhasil menembus resistance di 6.700. Sebaliknya, jika gagal tembus level tersebut, ia memperkirakan indeks akan kembali bergerak sideways di kisaran 6.580 sampai 6.600.",
+   "Bursa saham Asia bergerak beragam pada perdagangan Selasa, 8 September 2026. Nikkei 225 Jepang turun 1,7 persen, KOSPI Korea Selatan melemah 0,58 persen, Hang Seng Hong Kong terkoreksi 0,38 persen, dan S&P/ASX 200 Australia berkurang 1 persen. Ekonomi Jepang pada kuartal II 2026 tumbuh lebih cepat dari estimasi awal meski masih di bawah konsensus, sementara sentimen konsumen Australia turun tajam pada September.",
+   "Wall Street ditutup melemah pada perdagangan yang sama, dengan S&P 500 turun 0,58 persen, Nasdaq melemah 0,32 persen, dan Dow Jones Industrial Average terkoreksi 1,18 persen. Pelemahan ini dipicu aksi jual saham sektor perangkat lunak di tengah kekhawatiran perkembangan kecerdasan buatan akan mengganggu bisnis perusahaan software, ditambah ekspektasi pasar menjelang pertemuan kebijakan suku bunga The Fed pada 15-16 September 2026 setelah data lapangan kerja AS Agustus jauh di atas perkiraan."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's financial district skyline at sunrise, glass office towers reflecting golden light, busy street below",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8ccb23902-ilustrasi-saham_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Arah IHSG hari ini bergantung pada satu titik teknikal: apakah indeks mampu menembus level 6.700. Kalau berhasil, ada ruang bagi indeks untuk lanjut menguat, tapi kalau gagal, indeks diperkirakan balik melemah tipis ke kisaran 6.580 sampai 6.600, dan ini yang paling terasa bagi investor dan trader domestik yang mengambil posisi jangka pendek. Yang lebih menentukan arah pasar dalam sepekan ke depan sebenarnya datang dari luar negeri, karena data lapangan kerja AS Agustus yang jauh di atas perkiraan membuat pasar was-was soal kelanjutan pemangkasan suku bunga The Fed, sementara Wall Street sendiri baru tertekan aksi jual saham software akibat kekhawatiran dampak kecerdasan buatan. Kepastian arah suku bunga itu baru akan terjawab pada pertemuan The Fed tanggal 15-16 September 2026, dan hasilnya kemungkinan besar akan lebih berpengaruh ke IHSG dibanding pergerakan resistance harian.",
+  "imageV": "mttm7w15"
+ },
+ {
   "slug": "wika-gagal-bayar-obligasi-suspensi-saham-berlanjut",
   "category": "Aksi Korporasi",
   "title": "WIKA [Gagal Bayar] Obligasi, Suspensi Saham Berlanjut",

@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026",
+  "category": "Makroekonomi",
+  "title": "Survei BI: Keyakinan Konsumen [Naik] Lagi pada Agustus 2026",
+  "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 118,5 pada Agustus 2026 dari 116,8 di Juli, didorong membaiknya penilaian kondisi ekonomi saat ini dan harapan ke depan.",
+  "date": "9 September 2026",
+  "image": "assets/img/survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026.jpg",
+  "imageV": "mttm7usg",
+  "tags": [
+   "Bank Indonesia",
+   "Keyakinan Konsumen",
+   "Survei Konsumen",
+   "Konsumsi Rumah Tangga"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-610-000-per-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.610.000 per Gram",
+  "deck": "Harga emas Antam hari ini turun Rp17.000 menjadi Rp2.610.000 per gram, sementara harga buyback ikut melemah ke Rp2.460.000 per gram.",
+  "date": "9 September 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-610-000-per-gram.jpg",
+  "imageV": "mttm7v8c",
+  "tags": [
+   "emas",
+   "harga emas",
+   "antam",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465898-harga-emas-antam-hari-ini-9-september-2026-rp2610000-per-gram-turun-rp17000"
+ },
+ {
+  "slug": "rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m",
+  "category": "Moneter",
+  "title": "Rupiah [Menguat] ke Rp17.590, Cadangan Devisa Naik jadi US$146,5 M",
+  "deck": "Rupiah menguat tipis ke Rp17.590 per dolar AS pada Rabu pagi setelah Bank Indonesia melaporkan cadangan devisa Agustus 2026 naik jadi US$146,5 miliar.",
+  "date": "9 September 2026",
+  "image": "assets/img/rupiah-menguat-ke-rp17-590-cadangan-devisa-naik-jadi-us-146-5-m.jpg",
+  "imageV": "mttm7vlw",
+  "tags": [
+   "rupiah",
+   "cadangan devisa",
+   "dolar AS",
+   "Bank Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465894-rupiah-menguat-ke-rp17590-per-dolar-as-usai-rilis-cadangan-devisa-agustus-2026"
+ },
+ {
+  "slug": "ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok",
+  "category": "Pasar Modal",
+  "title": "IHSG Menguat, Coba Tembus [Resistance] 6.700 saat Wall Street Anjlok",
+  "deck": "IHSG dibuka menguat tipis ke 6.699 dan menguji level resistance 6.700, di tengah bursa Asia yang beragam dan Wall Street yang melemah akibat aksi jual saham software global.",
+  "date": "9 September 2026",
+  "image": "assets/img/ihsg-menguat-coba-tembus-resistance-6-700-saat-wall-street-anjlok.jpg",
+  "imageV": "mttm7w15",
+  "tags": [
+   "IHSG",
+   "bursa saham",
+   "Wall Street",
+   "suku bunga The Fed"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465891-ihsg-dibuka-menguat-pada-perdagangan-9-september-2026-siap-break-resistance-saat-bursa-asia-variatif-dan-wall-street-anjlok"
+ },
+ {
   "slug": "wika-gagal-bayar-obligasi-suspensi-saham-berlanjut",
   "category": "Aksi Korporasi",
   "title": "WIKA [Gagal Bayar] Obligasi, Suspensi Saham Berlanjut",
@@ -6464,70 +6533,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464417-freeport-salurkan-bantuan-kemanusiaan-rp25-miliar-untuk-masyarakat-terdampak-gempa-ntt"
- },
- {
-  "slug": "bipp-tanggapi-bursa-investor-pmthmetd-masih-dirahasiakan",
-  "category": "Aksi Korporasi",
-  "title": "BIPP tanggapi bursa: investor PMTHMETD masih [dirahasiakan]",
-  "deck": "BIPP menjawab permintaan penjelasan BEI soal penambahan modal tanpa HMETD, namun investor dan rasio free float pasca aksi ini belum dipastikan.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "PMTHMETD",
-   "free float",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0b9b0b162_18b020a5b2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern",
-  "category": "Industri",
-  "title": "RI Butuh Rp125,5 T Bangun 4.582 [Kapal] Ikan Modern",
-  "deck": "Pemerintah menyiapkan investasi Rp125,5 triliun untuk 4.582 kapal ikan modern hingga 2029, menargetkan penyerapan hingga 89.000 tenaga kerja.",
-  "date": "2 September 2026",
-  "image": "assets/img/ri-butuh-rp125-5-t-bangun-4-582-kapal-ikan-modern.jpg",
-  "imageV": "mtkirn61",
-  "tags": [
-   "kapal ikan",
-   "investasi",
-   "KKP",
-   "galangan kapal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464398-butuh-rp1255-triliun-pemerintah-mau-bangun-4582-kapal-ikan-modern-yang-bisa-serap-89000-tenaga-kerja"
- },
- {
-  "slug": "bbri-bukukan-laba-bersih-rp31-2-triliun-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "BBRI Bukukan Laba Bersih [Rp31,2 Triliun] Semester I 2026",
-  "deck": "Laba bersih BRI naik 17,5 persen menjadi Rp31,2 triliun pada semester I 2026, ditopang pertumbuhan kredit 16,2 persen dan perbaikan kualitas aset.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRI",
-   "laba bersih",
-   "kinerja keuangan",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f4dc8a5fa4_4ca2e7d091.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-panggil-rupslb-ajukan-right-issue-12-39-miliar-saham-baru",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Panggil RUPSLB, Ajukan [Right Issue] 12,39 Miliar Saham Baru",
-  "deck": "IRSX memanggil RUPSLB pada 24 September 2026 untuk menyetujui perubahan direksi/komisaris serta menegaskan rencana rights issue hingga 12,39 miliar saham baru dan 1,86 miliar Waran Seri II.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "RUPSLB",
-   "rights issue",
-   "PMHMETD I"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2e29bfe5a9_63559e1629.pdf",
-  "sourceLabel": "IDX"
  }
 ];

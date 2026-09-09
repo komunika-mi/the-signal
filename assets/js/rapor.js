@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-09T01:02:55.950+07:00",
+ "diperbarui": "2026-09-10T00:57:22.943+07:00",
  "entri": [
+  {
+   "id": "2026-09-09-3",
+   "edisi": "2026-09-09",
+   "benang": "Ruang fiskal terjepit di tengah kenaikan transfer daerah",
+   "klaim": "Skenario yang lebih mungkin saat ini adalah skema bunga cicilan pinjaman program Koperasi Desa Merah Putih senilai Rp13,4 triliun tetap berjalan seperti sekarang tanpa penyesuaian struktur bunga, sehingga belum pasti apakah kenaikan pagu Transfer ke Daerah 2027 benar-benar menambah ruang gerak daerah.",
+   "penanda": "Apakah pemerintah menyesuaikan struktur bunga skema KDMP atau membiarkannya berjalan seperti sekarang.",
+   "tenggat": null,
+   "tenggatLabel": "saat pembahasan RAPBN 2027 berlanjut menuju pengesahan di DPR",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-09-2",
+   "edisi": "2026-09-09",
+   "benang": "Data domestik kuatkan rupiah dan keyakinan konsumen",
+   "klaim": "Arah rupiah dan keyakinan konsumen condong menguat, ditopang data cadangan devisa, penjualan eceran, dan Indeks Keyakinan Konsumen yang kali ini bergerak searah.",
+   "penanda": "Apakah IHSG mampu menembus resistance 6.700 yang belum tertembus di tengah pelemahan Wall Street.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-09-1",
+   "edisi": "2026-09-09",
+   "benang": "BUMN karya kembali tertekan likuiditas",
+   "klaim": "Arah tekanan likuiditas pada klaster BUMN karya seperti WIKA, WSBP, dan ADHI condong memburuk, seiring melebarnya jarak antara korporasi besar dan kecil.",
+   "penanda": "Apakah WIKA bisa menuntaskan pembayaran susulan pokok, bunga obligasi, dan bagi hasil sukuk mudharabah setelah suspensi sahamnya diperpanjang BEI.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-08-3",
    "edisi": "2026-09-08",

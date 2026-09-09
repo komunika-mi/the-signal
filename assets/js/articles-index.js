@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "keyakinan-konsumen-agustus-naik-jadi-118-5",
+  "category": "Makroekonomi",
+  "title": "Keyakinan Konsumen Agustus [Naik] jadi 118,5",
+  "deck": "Bank Indonesia mencatat Indeks Keyakinan Konsumen naik ke 118,5 pada Agustus 2026, ditopang membaiknya persepsi lapangan kerja dan minat beli barang tahan lama.",
+  "date": "9 September 2026",
+  "image": "assets/img/keyakinan-konsumen-agustus-naik-jadi-118-5.jpg",
+  "imageV": "mttp30yj",
+  "tags": [
+   "indeks keyakinan konsumen",
+   "bank indonesia",
+   "survei konsumen",
+   "lapangan kerja"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465922-indeks-keyakinan-konsumen-agustus-2026-naik-jadi-1185"
+ },
+ {
   "slug": "survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026",
   "category": "Makroekonomi",
   "title": "Survei BI: Keyakinan Konsumen [Naik] Lagi pada Agustus 2026",
@@ -6514,22 +6531,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4841727199_5755314fef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "saham-pzza-melonjak-11-48-persen-manajemen-beri-penjelasan",
-  "category": "Aksi Korporasi",
-  "title": "Saham PZZA Melonjak 11,48 Persen, Manajemen Beri [Penjelasan]",
-  "deck": "Sarimelati Kencana (PZZA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga sahamnya 11,48 persen pada 31 Agustus 2026 tidak dipicu informasi material yang belum diungkap ke publik.",
-  "date": "2 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PZZA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "Sarimelati Kencana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/232a481934_29e93c924b.pdf",
   "sourceLabel": "IDX"
  }
 ];

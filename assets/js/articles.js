@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "keyakinan-konsumen-agustus-naik-jadi-118-5",
+  "category": "Makroekonomi",
+  "title": "Keyakinan Konsumen Agustus [Naik] jadi 118,5",
+  "deck": "Bank Indonesia mencatat Indeks Keyakinan Konsumen naik ke 118,5 pada Agustus 2026, ditopang membaiknya persepsi lapangan kerja dan minat beli barang tahan lama.",
+  "image": "assets/img/keyakinan-konsumen-agustus-naik-jadi-118-5.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T12:49:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/465922-indeks-keyakinan-konsumen-agustus-2026-naik-jadi-1185",
+  "tags": [
+   "indeks keyakinan konsumen",
+   "bank indonesia",
+   "survei konsumen",
+   "lapangan kerja"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan optimisme konsumen terhadap kondisi ekonomi menguat pada Agustus 2026. Indeks Keyakinan Konsumen (IKK) tercatat 118,5, naik dari 116,8 pada Juli. Karena angka ini masih di atas 100, mayoritas konsumen yang disurvei tetap berada di sisi optimistis, bukan pesimistis, terhadap ekonomi.",
+   "Kenaikan itu ditopang oleh membaiknya penilaian terhadap kondisi ekonomi yang sedang berjalan, tercermin dari Indeks Kondisi Ekonomi Saat Ini yang naik dari 107,9 menjadi 109,4. Pendorong utamanya adalah persepsi ketersediaan lapangan kerja yang membaik, dari 101,1 menjadi 104,1, serta minat membeli barang tahan lama seperti elektronik atau kendaraan yang naik dari 104,1 menjadi 106,1. Indeks penghasilan saat ini pun masih tinggi, di angka 118,0.",
+   "Secara wilayah, kenaikan keyakinan konsumen paling tinggi terjadi di Bandung, Jakarta, dan Medan. Sebaliknya, Padang, Surabaya, dan Manado justru mencatat penurunan keyakinan terbesar, menunjukkan pemulihan optimisme ini tidak merata di semua kota. Bank Indonesia juga menyebut pandangan masyarakat terhadap ekonomi enam bulan ke depan ikut membaik, meski keterangan yang dirilis belum mencantumkan angka indeks ekspektasi tersebut."
+  ],
+  "fotoAdegan": "Shoppers browsing rows of home appliances and electronics in a busy retail store, daytime, fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/20/6a867cbae9920-ilustrasi-bank-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Kenaikan IKK ke 118,5 bulan ini terutama ditarik oleh membaiknya persepsi soal ketersediaan lapangan kerja dan naiknya minat beli barang tahan lama, bukan sekadar rasa optimis yang umum. Yang merasakan dampaknya pertama adalah rumah tangga sebagai penjawab survei dan pelaku usaha ritel barang tahan lama seperti elektronik dan otomotif, karena minat beli yang naik biasanya berujung pada permintaan riil. Tapi datanya terbelah secara wilayah, sebab Bandung, Jakarta, dan Medan mencatat kenaikan keyakinan tertinggi sementara Padang, Surabaya, dan Manado malah turun, jadi pemulihan ini belum tentu merata ke seluruh daerah. Karena baru ada satu titik perbandingan bulanan, Juli ke Agustus, belum bisa dipastikan apakah ini awal tren atau kenaikan sesaat, dan yang akan menjawabnya adalah rilis Survei Konsumen BI bulan depan, khususnya apakah kota-kota yang sempat melemah seperti Surabaya dan Manado ikut membaik atau justru makin tertinggal.",
+  "imageV": "mttp30yj"
+ },
+ {
   "slug": "survei-bi-keyakinan-konsumen-naik-lagi-pada-agustus-2026",
   "category": "Makroekonomi",
   "title": "Survei BI: Keyakinan Konsumen [Naik] Lagi pada Agustus 2026",

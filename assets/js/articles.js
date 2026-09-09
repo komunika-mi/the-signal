@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wsbp-pefindo-revisi-prospek-jadi-negatif-peringkat-idb-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "WSBP: PEFINDO Revisi Prospek Jadi [Negatif], Peringkat idB Bertahan",
+  "deck": "PEFINDO menegaskan peringkat idB untuk WSBP dan empat surat utangnya, tetapi merevisi prospek dari stabil menjadi negatif akibat likuiditas yang melemah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:45:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6f4d06291_ff8b93aa5c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "PEFINDO",
+   "peringkat obligasi",
+   "Waskita Beton Precast"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idB (setara Single B) untuk PT Waskita Beton Precast Tbk (WSBP) beserta empat surat utangnya, yaitu Obligasi Waskita Beton Precast I Tahun 2022, Obligasi Waskita Beton Precast II Tahun 2022, Obligasi Wajib Konversi Waskita Beton Precast I Tahun 2023, dan Obligasi Wajib Konversi Waskita Beton Precast II Tahun 2023. Namun prospek atau outlook peringkat perusahaan direvisi menjadi Negatif dari sebelumnya Stabil. Hasil pemeringkatan ditetapkan 7 September 2026, diterima perseroan sehari setelahnya, dan diumumkan ke publik pada 9 September 2026. Masa berlaku peringkat ini adalah 9 September 2026 sampai 1 September 2027.",
+   "PEFINDO menyebut revisi prospek ini mencerminkan tantangan yang terus berlanjut di sektor konstruksi, yang membuat permintaan atas produk WSBP rendah dan menghambat upaya perusahaan melepas asetnya. Kondisi itu disebut telah melemahkan posisi likuiditas WSBP secara signifikan, terutama dalam memenuhi kewajiban keuangan yang jatuh tempo dalam waktu dekat. Sesuai laporan sebelumnya, prospek peringkat WSBP tercatat stabil sejak Maret 2023 hingga September 2025, sehingga revisi kali ini menjadi perubahan arah pertama sepanjang periode itu.",
+   "Data keuangan yang disertakan PEFINDO menunjukkan total aset WSBP turun dari Rp4.441,1 miliar pada akhir 2023 menjadi Rp2.900,1 miliar per Juni 2026, sementara total utang justru naik dari Rp2.484,2 miliar menjadi Rp2.780,3 miliar pada periode yang sama. Ekuitas perusahaan sudah negatif sejak 2023 dan terus membesar minusnya, dari minus Rp696,5 miliar di akhir 2023 menjadi minus Rp2.259,0 miliar per Juni 2026. EBITDA yang sempat positif Rp62,4 miliar pada 2023 berbalik minus Rp48,7 miliar sepanjang 2025 dan minus Rp56,3 miliar pada semester pertama 2026. Perusahaan juga masih mencatat rugi bersih, yakni Rp285,6 miliar pada semester I 2026, setelah rugi Rp537,4 miliar sepanjang 2025 dan Rp997,3 miliar pada 2024.",
+   "PEFINDO menyatakan dapat menurunkan peringkat lebih lanjut jika ada kemungkinan besar WSBP tidak mampu memenuhi kewajiban keuangan sesuai perjanjian homologasi. Sebaliknya, prospek bisa dikembalikan menjadi Stabil tanpa mengubah peringkat jika WSBP menunjukkan kapasitas memadai untuk membayar sesuai jadwal dalam perjanjian tersebut dan mencatat kemajuan berkelanjutan dalam transformasi bisnisnya. Per 30 Juni 2026, susunan pemegang saham WSBP adalah PT Waskita Karya (Persero) Tbk 28,12 persen, PT Intiniaga Sukses Abadi 6,88 persen, saham treasuri 3,24 persen, dan publik 61,76 persen."
+  ],
+  "fotoAdegan": "Workers inspecting rows of large precast concrete beams stacked in an outdoor industrial yard under an overcast sky.",
+  "takeaway": "Laporan ini negatif bagi WSBP karena prospek peringkatnya diturunkan dari stabil menjadi negatif, tanda bahwa lembaga pemeringkat melihat risiko gagal bayar semakin dekat meski peringkat utamanya belum berubah. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang sudah minus dan terus membesar menjadi sekitar Rp2,26 triliun negatif per Juni 2026 dari minus Rp696,5 miliar di akhir 2023, artinya utang WSBP kini jauh melampaui asetnya. Kemampuan menghasilkan kas dari operasional juga memburuk karena EBITDA, ukuran laba usaha sebelum bunga, pajak, dan penyusutan yang biasa dipakai menilai kesanggupan membayar utang, sudah berbalik minus sejak 2025. Yang perlu dipantau selanjutnya adalah kepatuhan WSBP membayar cicilan sesuai jadwal dalam perjanjian homologasi, yaitu kesepakatan restrukturisasi utang hasil proses PKPU, sebab PEFINDO menegaskan peringkat bisa turun lagi jika kewajiban itu tidak dipenuhi, sementara prospek baru bisa kembali stabil kalau kinerja operasional dan arus kas perusahaan membaik secara berkelanjutan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hrta-rencanakan-private-placement-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Rencanakan [Private Placement] 10% Saham Baru",
+  "deck": "HRTA berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal disetor, untuk modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:36:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8fdfcd092b_a8fd3cd313.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "private placement",
+   "PMTHMETD",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) berencana menambah modal tanpa memberi hak memesan efek terlebih dahulu (PMTHMETD) alias private placement, dengan menerbitkan sebanyak-banyaknya 460.526.240 saham biasa baru bernilai nominal Rp100 per saham. Jumlah ini setara sebanyak-banyaknya 10 persen dari seluruh modal ditempatkan dan disetor perseroan per 9 September 2026, tanggal keterbukaan informasi ini diterbitkan. Sesuai dokumen yang diteken Corporate Secretary Ong Deny, penyetoran atas saham baru akan dilakukan dalam bentuk uang tunai, dan dana yang terkumpul akan dipakai untuk memenuhi kebutuhan modal kerja perseroan, bukan untuk memperbaiki posisi keuangan sebagaimana kategori dalam Pasal 3 huruf b POJK No. 14/2019.",
+   "Rencana ini masih perlu restu pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa yang wajib dihadiri pemegang saham independen (RUPS Independen), dijadwalkan pada Jumat, 16 Oktober 2026. Dokumen menyebut HRTA belum pernah melaksanakan PMTHMETD sebelumnya, baik untuk perbaikan posisi keuangan maupun tujuan lain seperti program kepemilikan saham karyawan, sehingga tidak ada private placement lain yang masih berjalan saat ini. Hingga tanggal keterbukaan informasi, perseroan menyatakan belum menerima keberatan dari pihak manapun atas rencana tersebut. Dokumen belum menyebutkan siapa calon investor yang akan menyerap saham baru ini maupun harga pelaksanaannya.",
+   "HRTA bergerak di bidang manufaktur dan perdagangan perhiasan emas serta emas batangan, dengan satu pabrik manufaktur terintegrasi berikut fasilitas pemurnian dan satu pabrik pemurnian emas, keduanya di Kabupaten Bandung dan Kota Bandung, serta jaringan 90 toko dengan merek Toko Hartadinata Abadi."
+  ],
+  "fotoAdegan": "Jewelry artisans polishing gold pieces at workbenches inside a gold jewelry workshop, warm lighting, close-up on hands and tools",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama karena berpotensi mendilusi kepemilikan mereka hingga 10 persen, sementara dokumen belum menyebut siapa investor yang akan menyerap saham baru maupun harga pelaksanaannya. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba yang sama harus dibagi ke lebih banyak lembar saham sehingga bagian laba per saham bisa mengecil, dan hak suara pemegang saham yang tidak ikut membeli otomatis berkurang proporsinya. Di sisi lain, dana yang masuk berbentuk uang tunai untuk modal kerja, bukan lewat utang baru, jadi tidak menambah beban bunga perseroan. Yang perlu dipantau berikutnya adalah RUPS Independen pada 16 Oktober 2026, karena persetujuan pemegang saham independen di rapat itu menentukan apakah rencana ini bisa lanjut, dan biasanya harga pelaksanaan serta identitas calon investor baru diumumkan mendekati atau setelah rapat tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "hrta-jadwalkan-rups-independen-private-placement-10",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Jadwalkan RUPS Independen [Private Placement] 10%",
+  "deck": "HRTA menggelar RUPS Independen pada 16 Oktober 2026 untuk meminta persetujuan penerbitan saham baru hingga 10 persen tanpa hak memesan efek terlebih dahulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:21:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ae50986f3_378800c6db.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRTA",
+  "tags": [
+   "HRTA",
+   "RUPS Independen",
+   "private placement",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Hartadinata Abadi Tbk (HRTA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Independen pada Jumat, 16 Oktober 2026 pukul 10.00 WIB, bertempat di kantor perseroan di Jalan Kopo Sayati No. 165, Kecamatan Margahayu, Kabupaten Bandung, Jawa Barat, dan diselenggarakan secara hybrid, online maupun offline. Rapat ini memerlukan persetujuan khusus dari pemegang saham independen karena agendanya adalah persetujuan penambahan modal melalui skema Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD), atau lazim disebut private placement, sebanyak-banyaknya 10 persen dari modal disetor perseroan, mengacu pada Peraturan OJK Nomor 14/POJK.04/2019. Agenda itu juga mencakup persetujuan perubahan anggaran dasar terkait peningkatan modal ditempatkan dan disetor, serta pelimpahan wewenang kepada direksi, dengan persetujuan dewan komisaris, untuk menetapkan harga pelaksanaan, jadwal, dan tata cara penerbitan saham baru tersebut.",
+   "Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) hingga 23 September 2026 pukul 16.00 WIB berhak hadir atau diwakili dalam rapat. Pemanggilan resmi rapat akan diumumkan pada 24 September 2026 melalui situs penyedia e-RUPS, situs web Bursa Efek Indonesia, dan situs web perseroan. Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili minimal 1/20 atau 5 persen dari total saham berhak suara, dan usulan itu harus sudah diterima direksi paling lambat 16 September 2026.",
+   "Bagi pemegang saham independen yang ingin memberi kuasa suara secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, batas waktunya adalah Kamis, 15 Oktober 2026, sehari sebelum rapat. Sementara yang ingin hadir secara fisik wajib mendaftar lebih dulu dengan mengirim nama dan jumlah saham ke email corsec@hartadinataabadi.co.id dan legal.hrta@gmail.com paling lambat tujuh hari sebelum rapat, dan hanya bisa hadir jika sudah mendapat konfirmasi tertulis dari perseroan. Merujuk POJK 14/2025, kuota kehadiran fisik dapat dibatasi berdasarkan urutan pendaftaran, sementara kehadiran elektronik tetap diperhitungkan dalam pemenuhan kuorum rapat. Surat pemberitahuan ini ditandatangani Corporate Secretary HRTA, Ong Deny."
+  ],
+  "fotoAdegan": "Jewelry workers polishing and inspecting gold pieces on a production line inside a bright workshop in Bandung",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham lama karena memastikan agenda private placement hingga 10 persen benar-benar dibawa ke meja voting, sementara dokumen ini maupun pengumuman sebelumnya belum menyebut siapa calon investor atau untuk apa dananya dipakai. Yang tersentuh adalah jumlah saham beredar dan laba per saham: kalau direksi menerbitkan saham baru tanpa memberi hak kepada pemegang lama untuk membeli lebih dulu, porsi kepemilikan mereka otomatis mengecil dan laba perusahaan yang sama harus dibagi ke lebih banyak lembar saham. Yang perlu dipantau adalah hasil RUPS Independen pada 16 Oktober 2026, karena keputusan itu yang menentukan apakah rencana penambahan modal ini benar-benar berjalan, ditambah tenggat administratif di sepanjang jalan: pencatatan pemegang saham berhak suara pada 23 September 2026 dan batas pemberian kuasa elektronik pada 15 Oktober 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "meds-jelaskan-lonjakan-saham-34-72-ke-ara",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Jelaskan Lonjakan Saham 34,72% ke [ARA]",
+  "deck": "Saham Hetzer Medical Indonesia melonjak 34,72% dan menyentuh batas atas otomatis pada 7 September 2026, memicu permintaan penjelasan dari Bursa Efek Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T18:20:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62bf5ab68_3e2ca8133f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDS",
+  "tags": [
+   "MEDS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "Hetzer Medical Indonesia"
+  ],
+  "body": [
+   "PT Hetzer Medical Indonesia Tbk (MEDS) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan bernomor S-11500/BEI.PP3/09-2026 terkait volatilitas transaksi sahamnya. Surat balasan bernomor 004/SPE/HMI/IX/2026 tertanggal 9 September 2026 itu ditandatangani Direktur Utama sekaligus Corporate Secretary perusahaan, dr. Yenny Marlina.",
+   "Dalam surat itu disebutkan bahwa pada 7 September 2026 aktivitas transaksi saham MEDS melonjak drastis dibanding hari bursa sebelumnya, dari 18.218.100 saham dengan 955 kali transaksi menjadi 1.173.817.400 saham dengan 52.881 kali transaksi. Harga saham ditutup naik Rp25, dari Rp72 menjadi Rp97, atau melonjak 34,72 persen, dan menyentuh batas Auto Reject Atas (ARA), yaitu batas kenaikan harga tertinggi yang diizinkan bursa dalam satu hari perdagangan. Pergerakan ini berlawanan arah dengan pasar secara umum, sebab pada hari yang sama IHSG justru turun 16,80 poin sementara indeks sektor kesehatan naik 12,42 poin.",
+   "Menjawab enam pertanyaan standar bursa, manajemen menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham maupun keputusan investasi pemodal, dan belum memiliki rencana tindakan korporasi apa pun dalam tiga bulan mendatang, termasuk yang berdampak pada status pencatatan saham di bursa. Perseroan juga menyebut bahwa perubahan kepemilikan saham oleh anggota Dewan Komisaris sudah dilaporkan sesuai ketentuan OJK, dan pemegang saham utama serta pengendali perusahaan mengonfirmasi belum ada rencana terkait kepemilikan sahamnya."
+  ],
+  "fotoAdegan": "Warehouse staff packing medical equipment boxes onto pallets inside a bright pharmaceutical distribution facility",
+  "takeaway": "Laporan ini netral bagi emiten, sebab isinya adalah konfirmasi rutin yang wajib disampaikan setiap kali saham bergerak ekstrem, dan perusahaan menegaskan tidak ada informasi atau rencana korporasi baru yang mendasari lonjakan itu. Lonjakan volume dan harga sebesar ini tidak menyentuh pos kinerja keuangan seperti ekuitas atau laba, melainkan mencerminkan likuiditas dan aktivitas spekulatif jangka pendek di pasar, yang wajar memicu pertanyaan bursa meski fundamentalnya belum berubah. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia menindaklanjuti dengan status pemantauan khusus atas saham MEDS, dan apakah pergerakan harga masih berlanjut pada hari-hari perdagangan berikutnya, mengingat perusahaan sendiri menyatakan belum ada rencana tindakan korporasi setidaknya hingga awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "safe-kuota-200-bus-listrik-sulit-terealisasi-tahun-ini",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Kuota 200 Bus [Listrik] Sulit Terealisasi Tahun Ini",
+  "deck": "Steady Safe menjawab permintaan penjelasan Bursa: tidak ada kontrak baru, dan kuota 200 unit bus listrik untuk Transjakarta kemungkinan tak terealisasi tahun ini akibat pemotongan anggaran DKI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:53:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c60acea1ae_04807905ed.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAFE",
+  "tags": [
+   "SAFE",
+   "Transjakarta",
+   "bus listrik",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Steady Safe Tbk (SAFE) menyampaikan tanggapan resmi atas permintaan penjelasan Bursa Efek Indonesia melalui surat nomor 125/SS/Dir-CS/IX/2026 tertanggal 9 September 2026, yang ditandatangani Corporate Secretary Yogi Wibawa. Surat ini menjawab permintaan Bursa nomor S-11324/BEI.PP2/09-2026 tanggal 3 September 2026. Perseroan menegaskan tidak ada perolehan kontrak atau sumber pendapatan baru yang material sejak laporan keuangan terakhir disampaikan, dan tidak ada informasi atau fakta material lain yang selama ini belum diungkapkan ke publik.",
+   "Soal jalannya bisnis, Steady Safe menjelaskan operasinya saat ini berjalan sesuai Perjanjian Kerja Sama dengan PT Transjakarta yang telah memasuki tahun ke-8 dari total masa kerja sama 10 tahun. Rencana strategis perseroan untuk 2026 diarahkan pada persiapan mengoperasikan bus listrik dalam skema kerja sama tersebut. Namun perseroan mengakui kondisi APBN yang berat membuat pemerintah pusat memangkas dana transfer ke Pemerintah Provinsi DKI Jakarta, sehingga Pemprov DKI memprioritaskan pengadaan bus listrik untuk program peremajaan armada pada 2026. Akibatnya, kuota 200 unit bus yang masih dipegang Steady Safe menjadi sulit direalisasikan tahun ini.",
+   "Di sisi lain, perseroan menyebut pergeseran pola transportasi masyarakat, dari kendaraan pribadi ke angkutan massal seperti bus Transjakarta, sebagai faktor yang memperkuat kebutuhan atas layanan yang dioperasikannya, ditandai dengan naiknya jumlah penumpang yang dilayani Transjakarta. Persaingan usaha disebut minimal karena perencanaan dan pengendalian operasional bus sepenuhnya diatur oleh PT Transportasi Jakarta sesuai perjanjian kerja sama. Soal aspek hukum, perseroan menyatakan tidak ada perkara yang berdampak material terhadap perseroan, anak usaha, direksi, maupun komisaris, kecuali perkara dengan PT Wijaya Karya Realty yang telah berkekuatan hukum tetap sesuai putusan Peninjauan Kembali Mahkamah Agung nomor 233/PK/Pdt/2026 tanggal 12 Maret 2026. Perseroan juga menyatakan pergerakan harga sahamnya semata mengikuti mekanisme pasar dan tidak mengetahui adanya rumor atau berita spekulatif yang memicunya."
+  ],
+  "fotoAdegan": "Blue city buses lined up in a large transit depot yard at dawn, a technician inspecting a charging cable near one vehicle",
+  "takeaway": "Laporan ini condong negatif bagi Steady Safe, karena poin paling konkret di dalamnya adalah pengakuan bahwa kuota 200 unit bus listrik yang semestinya jadi sumber pertumbuhan tahun ini kemungkinan besar tidak terealisasi, akibat pemotongan anggaran dari pemerintah pusat ke Pemprov DKI Jakarta. Yang tersentuh di sini adalah prospek pendapatan baru perseroan: perusahaan sendiri mengonfirmasi belum ada kontrak atau sumber pendapatan tambahan sejak laporan keuangan terakhirnya, sehingga rencana elektrifikasi bus yang tertunda berarti potensi pemasukan baru juga ikut mundur. Faktor penyeimbangnya adalah naiknya jumlah penumpang Transjakarta akibat masyarakat beralih dari kendaraan pribadi, yang menopang permintaan atas layanan yang dijalankan perseroan lewat kerja sama tersebut. Yang perlu dipantau berikutnya adalah apakah Pemprov DKI Jakarta mengalokasikan kembali anggaran untuk pengadaan bus listrik pada 2027, serta bagaimana kelanjutan Perjanjian Kerja Sama dengan PT Transjakarta yang kini sudah memasuki tahun ke-8 dari total masa berlaku 10 tahun.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "perpres-baru-atur-tata-kelola-tambang-timah-di-babel",
   "category": "BUMN",
   "title": "Perpres Baru Atur Tata Kelola Tambang [Timah] di Babel",
@@ -28,6 +159,83 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret dari Perpres 79/2026 ada tiga: patokan biaya produksi untuk perusahaan mitra penambang atau PJP kini harus mengikuti kualitas hasil tambang, bukan cuma volume; syarat bahwa bijih timah dari Belitung harus bisa dilacak asal-usulnya sampai ke izin resmi PT Timah; dan koordinasi pengawasan lintas instansi. Yang langsung terkena adalah perusahaan jasa penambangan yang selama ini menambang untuk PT Timah, serta warga Belitung yang menggantungkan penghasilan pada aktivitas tambang timah. Syarat pelacakan asal-usul ini pada praktiknya menempatkan PT Timah sebagai pemegang izin resmi yang menjadi rujukan legalitas bijih dari wilayah tersebut, sehingga hasil tambang yang tidak tersambung ke IUP PT Timah berpotensi kehilangan jalur penjualan resmi. Yang belum bisa dipastikan dari keterangan PT Timah ini adalah angka konkretnya, misalnya berapa besar penyesuaian biaya produksi untuk PJP atau bagaimana skema pembagiannya, karena baru disebut sebagai kerangka umum. Kejelasan itu baru akan terlihat dari peraturan turunan atau petunjuk teknis yang mengatur detail tarif dan mekanisme verifikasi tersebut.",
   "imageV": "mtu064vv"
+ },
+ {
+  "slug": "mapi-tetapkan-kebijakan-dividen-minimal-25-dari-laba-bersih",
+  "category": "Aksi Korporasi",
+  "title": "MAPI Tetapkan [Kebijakan Dividen] Minimal 25% dari Laba Bersih",
+  "deck": "Direksi MAPI menetapkan kebijakan dividen tunai minimal 25% dan maksimal 50% dari laba bersih tahun buku sebelumnya, berlaku efektif 9 September 2026, disetujui Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:34:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dd227bad86_f834c6bef3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPI",
+  "tags": [
+   "MAPI",
+   "dividen",
+   "kebijakan dividen",
+   "emiten ritel"
+  ],
+  "body": [
+   "PT Mitra Adiperkasa Tbk (MAPI) mengumumkan kebijakan dividen baru yang disusun Direksi dan disetujui Dewan Komisaris, berlaku efektif 9 September 2026. Dalam kebijakan itu, Direksi bermaksud merekomendasikan dan membayarkan dividen tunai kepada pemegang saham setiap tahun buku dengan besaran paling sedikit 25 persen dan paling banyak 50 persen dari laba bersih setelah pajak tahun buku sebelumnya. Pembagian dividen tersebut hanya bisa ditetapkan dan dibayarkan dari laba yang telah direalisasikan, dan tetap tunduk pada pembatasan yang mungkin diatur dalam perjanjian pembiayaan utang perusahaan, penyisihan cadangan yang dipandang perlu oleh Direksi, ketentuan peraturan perundang-undangan, serta Anggaran Dasar perusahaan, termasuk persetujuan pemegang saham apabila dipersyaratkan.",
+   "Dalam menentukan besaran dan waktu pembagian dividen ke depan, Direksi menyatakan akan mempertimbangkan kebutuhan belanja modal, rencana investasi, hasil kinerja dan arus kas perusahaan beserta entitas anaknya, pembagian dividen dari entitas anak dan entitas asosiasi, serta kondisi ekonomi dan pasar secara umum. Dividen akan dinyatakan dan dibayarkan dalam mata uang Rupiah. Laporan keterbukaan ini disampaikan sesuai kewajiban POJK Nomor 31/POJK.04/2015 sebagaimana diubah dengan POJK Nomor 45 Tahun 2024, dan ditandatangani oleh Corporate Secretary MAPI, Eva Andrianie."
+  ],
+  "fotoAdegan": "Shoppers browsing racks of clothing inside a busy retail store in a Jakarta shopping mall, bright lighting",
+  "takeaway": "Kebijakan ini condong positif bagi pemegang saham karena untuk pertama kalinya MAPI mengunci komitmen membagikan dividen tunai minimal 25 persen dari laba bersih setiap tahun buku, memberi kepastian yang sebelumnya tidak diatur secara formal. Yang tersentuh adalah pos laba ditahan dan arus kas perusahaan, sebab setiap rupiah yang dibagikan sebagai dividen berarti tidak lagi ditahan untuk ekspansi atau modal kerja, sehingga pelaku pasar akan mencermati berapa besar porsi yang benar-benar dibayarkan dibanding batas atas 50 persen. Perlu dicatat kebijakan ini masih tunduk pada pembatasan dalam perjanjian utang perusahaan dan hanya bisa dibayarkan dari laba yang sudah direalisasikan, jadi bukan jaminan mutlak setiap tahun. Yang perlu dipantau berikutnya adalah keputusan RUPS tahunan MAPI untuk tahun buku 2026, saat Direksi akan mengusulkan besaran dividen konkret berdasarkan kebijakan ini untuk pertama kalinya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "adhi-catat-laba-tipis-rp8-49-miliar-genjot-penyehatan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Catat Laba Tipis Rp8,49 Miliar, Genjot [Penyehatan] Keuangan",
+  "deck": "Dalam Public Expose Live 2026, ADHI membeberkan pendapatan semester I turun sementara laba bersih hanya Rp8,49 miliar, di tengah tiga langkah penyehatan keuangan perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:32:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f02e96d89_afc217eb50.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "Public Expose",
+   "restrukturisasi keuangan",
+   "BUMN Karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) memaparkan kinerja dan strategi perseroan dalam Public Expose Live 2026 yang diselenggarakan Bursa Efek Indonesia, Rabu (9/9). Dari sisi operasional, hingga Agustus 2026 ADHI mengerjakan 117 proyek aktif yang tersebar di sektor infrastruktur, gedung, perkeretaapian, energi, dan industrial. Perolehan kontrak baru tercatat Rp8,3 triliun hingga Juli 2026, naik 118,4 persen dibandingkan periode sama tahun sebelumnya yang sebesar Rp3,8 triliun.",
+   "Dari sisi keuangan, pendapatan ADHI hingga Semester I 2026 tercatat Rp3,11 triliun, namun manajemen sendiri menyebut angka ini turun dibandingkan periode yang sama tahun lalu. Meski begitu, perseroan tetap membukukan laba bersih Rp8,49 miliar, naik 12,6 persen, dan EBITDA Rp551,64 miliar, naik 28,1 persen dibandingkan periode yang sama tahun sebelumnya.",
+   "Manajemen menyatakan tengah menjalankan tiga langkah penyehatan utama, yaitu transformasi bisnis, inorganic initiatives dan pendampingan pemegang saham, serta restrukturisasi keuangan. Langkah itu mencakup penataan portofolio dan aset, optimalisasi pelaksanaan proyek dan monitoring kas, serta penyesuaian struktur pendanaan. Corporate Secretary ADHI, Siswanto, mengatakan perseroan masih menghadapi tantangan yang perlu diselesaikan namun terus menjalankan perbaikan secara terukur untuk memperkuat fundamental dan menjaga keberlangsungan usaha."
+  ],
+  "fotoAdegan": "Construction workers securing rebar and steel beams at an elevated infrastructure project site, cranes visible under an overcast sky.",
+  "takeaway": "Paparan ini condong negatif bagi ADHI, sebab di balik kenaikan kontrak dan EBITDA, pendapatan semester pertama justru turun dan laba bersih yang jadi hak pemegang saham cuma Rp8,49 miliar, angka yang sangat tipis untuk perusahaan sebesar ADHI, sementara manajemen sendiri memakai istilah 'penyehatan', sebutan yang biasa dipakai untuk BUMN yang keuangannya sedang bermasalah. EBITDA adalah keuntungan dari kegiatan usaha sebelum dipotong bunga, pajak, dan penyusutan aset, jadi kenaikannya 28,1 persen menunjukkan proyek berjalan lebih efisien, tapi begitu sampai ke laba bersih yang tersisa hanya sedikit, artinya beban bunga dan biaya lain menggerus hampir semua keuntungan operasional itu, dan beban bunga inilah yang jadi salah satu sasaran restrukturisasi keuangan yang disebut perseroan. Yang perlu dipantau selanjutnya adalah realisasi RUPSLB restrukturisasi dan konversi utang yang sudah dipanggil ADHI serta penataan portofolio proyek yang dijanjikan manajemen, karena keduanya menentukan apakah beban bunga itu bisa benar-benar ditekan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "kaef-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Kimia Farma menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material apa pun di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T17:31:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cda9da1c1_afc3882382.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAEF",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Kimia Farma (Persero) Tbk mengirim surat penjelasan bernomor 004/PR000/09/IX/2026 tertanggal 9 September 2026 kepada Bursa Efek Indonesia, menanggapi surat BEI nomor S-11484/BEI.PP1/09-2026 tertanggal 8 September 2026 perihal permintaan penjelasan atas volatilitas transaksi efek perseroan. Surat itu ditandatangani oleh Corporate Secretary Kimia Farma, Ida Rasita.",
+   "Dalam jawabannya, Kimia Farma menyatakan hingga saat ini belum mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai maupun harga sahamnya, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 4 Tahun 2024 tentang laporan kepemilikan atau perubahan kepemilikan saham, termasuk aktivitas menjaminkan saham.",
+   "Kimia Farma menambahkan bahwa perseroan belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada status pencatatan sahamnya di bursa, serta belum ada informasi penting lain yang material dan belum diungkapkan ke publik. Perseroan juga menyatakan pemegang saham utama dan pengendali belum memiliki rencana terkait kepemilikan sahamnya di Kimia Farma."
+  ],
+  "fotoAdegan": "Workers moving boxes of medicine inside a large pharmaceutical distribution warehouse, forklift in the background, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi kinerja Kimia Farma karena isinya semata konfirmasi rutin, tanpa angka transaksi, rencana aksi korporasi, atau perubahan kepemilikan yang diungkap. Permintaan penjelasan seperti ini biasanya muncul ketika Bursa Efek Indonesia mendeteksi pergerakan harga atau volume perdagangan saham yang jauh di luar kebiasaan, sehingga jawaban perusahaan berfungsi sebagai konfirmasi bahwa lonjakan itu tidak didorong oleh perubahan fundamental seperti ekuitas, arus kas, atau rencana korporasi, melainkan kemungkinan aktivitas spekulatif pelaku pasar. Karena tidak ada rencana aksi korporasi maupun perubahan kepemilikan pemegang saham utama yang diungkap, tidak ada pos kinerja perusahaan yang benar-benar tersentuh oleh isi surat ini. Yang perlu dipantau selanjutnya adalah apakah Bursa Efek Indonesia akan mengambil langkah lanjutan, seperti pemantauan khusus atau penghentian sementara perdagangan, jika pola transaksi tidak wajar pada saham KAEF terus berlanjut, mengingat dokumen ini tidak mencantumkan tenggat waktu tambahan.",
+  "sentimen": "netral"
  },
  {
   "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
@@ -445,6 +653,136 @@ var ARTICLES = [
   "fotoAdegan": "Distant view of Jakarta's stock exchange tower and financial district skyline under soft morning haze",
   "takeaway": "Laporan ini netral bagi Maybank Sekuritas selaku penerbit waran, karena jatuh tempo dan mekanisme penyelesaiannya memang sudah ditetapkan sejak waran ini pertama diterbitkan, bukan keputusan baru dari perusahaan. Yang tersentuh adalah arus kas Maybank sebagai penerbit: kalau harga rata-rata saham dasar di atas harga pelaksanaan (in the money), Maybank wajib membayar selisihnya secara tunai kepada pemegang waran lewat KSEI, dan makin banyak seri yang in the money makin besar kewajiban tunai yang harus disiapkan dalam waktu dekat. Sebaliknya, kalau harga rata-rata di bawah harga pelaksanaan, waran itu berakhir tanpa nilai dan pemegang waran tidak menerima apa pun, sementara Maybank tidak berkewajiban membayar. Yang perlu dipantau adalah tiga tanggal beruntun: perdagangan waran berhenti Jumat, 25 September 2026 pukul 16.00 WIB, seluruh waran disuspensi mulai Senin, 28 September 2026 pukul 09.00 WIB, dan harga penyelesaian dihitung dari rata-rata harga penutupan lima hari bursa sebelum jatuh tempo pada 30 September 2026, yang akan menentukan seri mana yang bernilai dan mana yang berakhir kosong.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "dvla-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DVLA Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Darya-Varia Laboratoria menyatakan tak ada informasi material yang belum diungkap dan tak ada rencana aksi korporasi dalam tiga bulan ke depan setelah ditanya BEI soal pergerakan sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:34:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/679bd9df60_6e98cb1eb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DVLA",
+  "tags": [
+   "DVLA",
+   "Darya-Varia Laboratoria",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "body": [
+   "PT Darya-Varia Laboratoria Tbk (DVLA) mengirimkan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima permintaan penjelasan bernomor S-11407/BEI.PP1/09-2026 tertanggal 7 September 2026 terkait volatilitas transaksi efeknya. Surat balasan DVLA bernomor 177/DVL/LCA/IX/26 disampaikan sehari kemudian dan dipublikasikan melalui keterbukaan informasi pada 9 September 2026 pukul 15.34 WIB, ditandatangani oleh Widya Olivia Tobing selaku Corporate Secretary.",
+   "Dalam jawabannya, DVLA menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal yang belum diungkapkan ke publik, sebagaimana diatur POJK Nomor 31/POJK.04/2015. Perseroan juga mengaku tidak memperoleh informasi mengenai aktivitas pemegang saham tertentu terkait pelaporan kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana tindakan korporasi yang berdampak material terhadap kondisi, harga saham, atau status pencatatan sahamnya di bursa dalam tiga bulan ke depan.",
+   "Poin lain yang disampaikan adalah konfirmasi dari pemegang saham pengendali Perseroan, yang menyatakan tidak ada rencana perubahan kepemilikan saham atau tindakan lain terkait kepemilikan sahamnya di DVLA yang wajib diungkapkan ke publik sampai tanggal surat ini dikirim."
+  ],
+  "fotoAdegan": "Workers in white coats inspecting pharmaceutical tablets on a bright packaging line inside a factory hall",
+  "takeaway": "Laporan ini netral bagi DVLA, karena isinya adalah bantahan standar bahwa tidak ada informasi tersembunyi di balik pergerakan sahamnya, bukan pengumuman perubahan bisnis atau keuangan apa pun. Tidak ada pos kinerja yang tersentuh di sini, ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham perusahaan semuanya tetap seperti sebelumnya karena memang tidak ada aksi korporasi yang diumumkan. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga sahamnya mereda setelah penjelasan ini beredar, dan apakah dalam tiga bulan ke depan seperti dijanjikan Perseroan benar tidak muncul aksi korporasi baru yang mengubah jawaban hari ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mdln-gelar-rupslb-kedua-kuorum-pertama-gagal-capai-75",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Gelar RUPSLB Kedua, Kuorum Pertama [Gagal] Capai 75%",
+  "deck": "RUPSLB kedua MDLN digelar 14 September 2026, setelah rapat pertama gagal kuorum 75 persen untuk agenda pengalihan aset di atas separuh kekayaan bersih perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:25:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f000d6b07_c5d80a6fce.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "RUPSLB",
+   "Modernland Realty",
+   "pengalihan aset"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk. (MDLN) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua yang akan digelar Senin, 14 September 2026, pukul 10.00 WIB di Club House Jakarta Garden City, Cakung, Jakarta Timur. Surat pemanggilan ini sekaligus mengoreksi surat perseroan bernomor 040/MDLN-CORSEC/IX/26 yang terbit pada hari yang sama. Agenda RUPSLB tunggal adalah meminta persetujuan pemegang saham atas rencana pengalihan, pemindahtanganan, dan/atau penjaminan aset perseroan yang nilainya lebih dari 50 persen kekayaan bersih perusahaan, baik dalam satu transaksi maupun beberapa transaksi yang saling berkaitan, sesuai UU Perseroan Terbatas dan POJK 15/2020. Dokumen tidak merinci aset mana yang akan dialihkan, nilai transaksi, maupun pihak lawan transaksinya.",
+   "Pemanggilan RUPSLB kedua ini terjadi karena RUPSLB pertama yang digelar Jumat, 4 September 2026, gagal memenuhi kuorum. Rapat pertama hanya dihadiri pemegang saham dan kuasanya yang mewakili 8.252.892.943 saham, atau 69,08 persen dari 11.947.316.422 saham dengan hak suara sah. Angka itu didapat dari total saham beredar perseroan sebanyak 12.533.067.322 lembar dikurangi 585.750.900 saham yang telah dibeli kembali oleh perusahaan. Karena agenda ini menyangkut aset di atas separuh kekayaan bersih, syarat kuorum kehadiran untuk rapat pertama adalah tiga perempat dari seluruh saham berhak suara, dan syarat itu tidak terpenuhi. Untuk RUPSLB kedua, syarat kuorum kehadiran diturunkan menjadi dua pertiga saham berhak suara, sementara syarat persetujuan tetap tiga perempat dari saham yang hadir dalam rapat.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 8 September 2026 pukul 16.00 WIB. Pemberian kuasa elektronik melalui sistem eASY.KSEI dibuka sejak tanggal pemanggilan ini sampai 11 September 2026 pukul 12.00 WIB, sedangkan surat kuasa manual harus sudah diterima direksi paling lambat tiga hari kerja sebelum RUPSLB. Bahan mata acara rapat dapat diakses melalui situs web perseroan atau diperoleh secara fisik di kantor Modernland Realty, Green Central City, Jl. Gajah Mada No. 188, Jakarta Barat."
+  ],
+  "fotoAdegan": "Aerial view of a suburban housing complex under construction near Jakarta, rows of unfinished rooftops, a crane in soft morning haze.",
+  "takeaway": "Laporan ini netral bagi fundamental Modernland Realty untuk saat ini, karena yang diumumkan baru soal prosedur rapat, bukan detail transaksinya, aset mana yang akan dialihkan, nilainya berapa, atau siapa pembelinya sama sekali belum diungkap di dokumen ini. Yang perlu dipahami pembaca, kalau agenda ini nanti disetujui, perseroan berpotensi melepas atau menjaminkan aset senilai lebih dari separuh kekayaan bersihnya, yang berarti menyentuh langsung pos ekuitas dan bisa memengaruhi arus kas perusahaan tergantung apakah transaksinya mendatangkan dana masuk atau justru membebani lewat jaminan utang. Fakta bahwa rapat pertama gagal kuorum karena kehadiran cuma 69,08 persen dari syarat 75 persen juga layak dicatat, karena itu berarti belum tentu ada dukungan mayoritas mutlak pemegang saham dan sebab itu ambang kuorum diturunkan menjadi dua pertiga untuk rapat kedua. Yang perlu dipantau berikutnya adalah hasil RUPSLB kedua pada 14 September 2026, serta tenggat pemberian kuasa elektronik pada 11 September 2026 pukul 12.00 WIB, karena kalau kuorum dua pertiga itu pun tidak tercapai, rencana pengalihan aset ini bisa tertunda lebih lama lagi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "baja-sengketa-tanah-sarana-steel-tak-pengaruhi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Sengketa Tanah Sarana Steel Tak Pengaruhi [Rights Issue]",
+  "deck": "Saranacentral Bajatama (BAJA) menegaskan bukan pihak dalam sengketa tanah yang melibatkan PT Sarana Steel dan menyatakan rencana rights issue tetap berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:17:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd93c60baa_c501bb1046.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAJA",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "sengketa tanah",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Saranacentral Bajatama Tbk (BAJA) menyampaikan klarifikasi resmi ke Bursa Efek Indonesia pada 9 September 2026 menanggapi pemberitaan media daring tertanggal 7 September 2026. Pemberitaan itu menyebut adanya laporan pengaduan ke Otoritas Jasa Keuangan terkait sengketa penguasaan sebidang tanah, yang oleh media dikaitkan dengan rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue atau PMHMETD I) yang sedang disiapkan BAJA pada 2026. Sengketa tanah yang dimaksud melibatkan PT Sarana Steel dan tercatat sebagai perkara perdata di Pengadilan Negeri Jakarta Pusat dengan nomor perkara 312/Pdt.G/2026/PN.JKT.Pst.",
+   "Direktur Utama BAJA, Handaja Susanto, menjelaskan bahwa perseroan telah mempelajari pemberitaan tersebut dan meminta klarifikasi langsung dari PT Sarana Steel. Hasilnya, perseroan menegaskan tiga hal: pertama, BAJA bukan pihak dalam perkara perdata itu karena perkara berlangsung antara pihak ketiga dan PT Sarana Steel. Kedua, perkara tersebut tidak berpengaruh terhadap rencana PMHMETD I maupun rencana penggunaan dana hasil penawaran tersebut. Ketiga, seluruh kewajiban keterbukaan informasi terkait PMHMETD I, baik yang sudah maupun akan dilakukan, tetap akan mengacu pada ketentuan pasar modal yang berlaku.",
+   "Perseroan menilai perkara perdata yang tidak melibatkan BAJA tersebut tidak berdampak material terhadap kegiatan usaha, kondisi keuangan, kelangsungan usaha, maupun rencana PMHMETD I yang sedang dipersiapkan. Dokumen ini tidak mencantumkan jadwal atau nilai dana yang akan dihimpun dari rights issue tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting rolls of galvanized steel sheet on a factory production line, sparks and machinery in the background",
+  "takeaway": "Laporan ini condong netral bagi BAJA, karena isinya murni klarifikasi hukum tanpa angka finansial baru atau perubahan struktur kepemilikan, dan perseroan menegaskan dirinya bukan pihak dalam sengketa yang disebut media. Yang tersentuh di sini adalah rencana penambahan modal lewat rights issue atau PMHMETD I, yaitu perusahaan menerbitkan saham baru dan menawarkannya lebih dulu ke pemegang saham lama. Rencana ini penting dipantau karena kalau jadi berjalan, jumlah saham beredar BAJA akan bertambah sehingga laba per saham berpotensi terdilusi bagi pemegang saham yang tidak ikut menyerap haknya. Yang perlu dipantau berikutnya adalah perkembangan perkara perdata nomor 312/Pdt.G/2026/PN.JKT.Pst di Pengadilan Negeri Jakarta Pusat, serta pengumuman resmi jadwal dan besaran PMHMETD I yang menurut dokumen ini masih dalam tahap persiapan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "truk-akui-tak-tahu-pemicu-kenaikan-harga-sahamnya-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Akui Tak Tahu Pemicu [Kenaikan] Harga Sahamnya ke Bursa",
+  "deck": "Menjawab permintaan penjelasan Bursa soal kenaikan harga sahamnya, PT Guna Timur Raya Tbk menyatakan tidak ada kontrak, transaksi, atau informasi material baru yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:03:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/19d2a8b461_f6ec830e1d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUK",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Guna Timur Raya Tbk (TRUK) menyampaikan surat tanggapan bernomor 043/GTR-DIR/IX/2026 tertanggal 9 September 2026 kepada Bursa Efek Indonesia, menjawab permintaan penjelasan yang diterima perseroan secara elektronik pada 7 September 2026. Surat tersebut ditandatangani oleh Budi Gunawan selaku Direktur Utama, sementara pengunggahan dokumen ke sistem pelaporan elektronik bursa tercatat atas nama Budi Gunawan yang berstatus Corporate Secretary perseroan.",
+   "Dalam jawabannya, manajemen TRUK menegaskan sejak laporan keuangan terakhir yang disampaikan ke bursa, tidak ada perolehan kontrak, sumber pendapatan baru, maupun transaksi material lain yang belum diungkapkan. Perseroan menyatakan tetap menjalankan usaha transportasi dan logistik dengan fokus pada pengembangan dan optimalisasi utilisasi armada, sementara rencana pengembangan bisnis baru untuk tahun 2026 disebut masih dalam tahap studi kelayakan dan evaluasi internal atas aspek teknis, komersial, operasional, dan keekonomian, tanpa kepastian jadwal atau nilai investasi. Manajemen juga menyebut tidak ada pergeseran pangsa pasar yang signifikan maupun perkara hukum material yang melibatkan perseroan, anak usaha, direksi, atau komisaris.",
+   "Poin paling relevan bagi investor ada pada bagian yang secara eksplisit menyinggung 'kenaikan harga saham' TRUK. Manajemen menyatakan, berdasarkan evaluasi dan pemantauan internal, tidak mengetahui adanya informasi atau fakta material khusus yang belum disampaikan ke publik yang bisa dikaitkan langsung sebagai penyebab kenaikan tersebut. Perseroan juga mengklaim tidak ada informasi material di media massa yang belum dilaporkan ke bursa atau dilaporkan tidak lengkap, serta tidak ada fakta material lain yang mempengaruhi harga efek maupun keputusan investasi pemodal yang belum diungkapkan."
+  ],
+  "fotoAdegan": "Fleet of cargo trucks parked in a logistics yard at dusk, workers checking tires and cargo straps.",
+  "takeaway": "Laporan ini netral bagi TRUK: perusahaan menegaskan tidak ada kontrak baru, transaksi material, atau perubahan bisnis yang bisa menjelaskan kenaikan harga sahamnya, sehingga tidak ada perubahan fundamental yang bisa dipetik investor dari surat ini. Yang sebenarnya tersentuh bukan pos di laporan keuangan seperti ekuitas atau laba per saham, melainkan transparansi informasi ke pasar, karena bursa lazim mengirim permintaan penjelasan semacam ini ketika harga saham suatu emiten bergerak tidak wajar tanpa alasan yang jelas, dan jawaban 'tidak ada info material' berarti kenaikan harga itu belum tentu didorong oleh perbaikan kinerja perusahaan. Yang perlu dipantau selanjutnya adalah apakah harga saham TRUK tetap bergerak tidak wajar setelah surat ini terbit, karena pola itu bisa membuat bursa memasukkannya ke pemantauan khusus, serta bagaimana kelanjutan rencana pengembangan bisnis baru yang menurut manajemen masih berupa studi kelayakan tanpa jadwal pasti.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "life-ungkap-laba-melonjak-69-sebelum-public-expose-insidentil",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Ungkap Laba [Melonjak] 69% Sebelum Public Expose Insidentil",
+  "deck": "LIFE merilis materi Public Expose Insidental usai BEI menghentikan sementara perdagangan sahamnya akibat lonjakan harga, dengan laba bersih H1 2026 naik 69 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T15:00:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11cae592e8_96c7b0de3d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "MSIG Life",
+   "Public Expose",
+   "penghentian sementara BEI"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) menyampaikan materi Public Expose Insidental melalui surat No 57/MSL-CSEC/IX/2026 pada 9 September 2026, menyusul permintaan Bursa Efek Indonesia (BEI) setelah harga saham LIFE mengalami kenaikan kumulatif yang signifikan. BEI menghentikan sementara perdagangan saham LIFE di Pasar Reguler dan Pasar Tunai sejak 2 September 2026 melalui Surat No Peng-SPT-00161/BEI.WAS/09-2026 tertanggal 1 September 2026, sebagai langkah cooling down untuk melindungi investor. Public Expose akan digelar 10 September 2026 melalui Zoom Meeting, dipaparkan oleh Direktur Herman Soelistyo dan Direktur Elly Susanti, dengan hasil pelaksanaan wajib disampaikan ke bursa pada 11 September 2026.",
+   "Berdasarkan laporan keuangan berbasis IFRS 17, laba bersih LIFE pada semester I 2026 melonjak 69 persen menjadi Rp181 miliar dari Rp107 miliar pada periode sama tahun sebelumnya, dengan tingkat pengembalian ekuitas (ROE) tersetahunkan naik dari 1,3 persen menjadi 2,2 persen. Total aset naik tipis 1 persen menjadi Rp15,1 triliun dan pendapatan asuransi naik 9 persen menjadi Rp1,0 triliun, sementara ekuitas justru turun 2 persen menjadi Rp8,2 triliun dan beban jasa asuransi turun 1 persen menjadi Rp993 miliar.",
+   "Dari sisi bisnis, premi tahunan ekuivalen (APE) untuk produk baru turun 6 persen menjadi Rp691 miliar, sedangkan premi lanjutan dari nasabah lama naik 27 persen menjadi Rp1.004 miliar dan saldo contractual service margin (CSM) naik 8 persen menjadi Rp913 miliar. Perusahaan membayarkan klaim kesehatan dan meninggal dunia senilai Rp545 miliar hingga Juni 2026. LIFE menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik dan menyebut pergerakan harga sahamnya sebagai hasil dinamika pasar, sembari menegaskan komitmen memenuhi ketentuan free float sesuai Peraturan BEI No. I-A yang efektif berlaku sejak 31 Maret 2026, termasuk terkait unit usaha syariah yang telah resmi beroperasi setelah mengantongi izin usaha dan izin pengalihan portofolio dari OJK."
+  ],
+  "fotoAdegan": "Glass-fronted office tower in Jakarta's central business district reflecting a midday sky, pedestrians crossing below.",
+  "takeaway": "Laporan ini condong positif bagi fundamental LIFE, sebab dokumen yang melatarbelakangi penghentian sementara perdagangan justru memperlihatkan laba bersih melonjak 69 persen menjadi Rp181 miliar dan ROE naik ke 2,2 persen, bukan tanda pelemahan bisnis. Pos yang tersentuh adalah laba dan modal: ROE mengukur seberapa efisien perusahaan menghasilkan laba dari modal pemegang saham, sehingga kenaikan tajam ini menarik perhatian pasar meski ekuitas turun 2 persen menjadi Rp8,2 triliun. Penjualan produk baru (APE) yang turun 6 persen berbanding premi lanjutan dari nasabah lama yang naik 27 persen menunjukkan pertumbuhan LIFE saat ini lebih ditopang nasabah eksisting ketimbang akuisisi bisnis baru. Yang perlu dipantau adalah pelaksanaan Public Expose Insidental pada 10 September 2026 dan penyampaian hasilnya ke bursa sehari setelahnya pada 11 September 2026, karena dari situ akan terlihat apakah penjelasan manajemen dianggap cukup oleh otoritas bursa untuk menyudahi status penghentian sementara perdagangan.",
+  "sentimen": "positif"
  },
  {
   "slug": "mknt-coret-agenda-ekspansi-usaha-dari-rupslb-pmthmetd",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wsbp-pefindo-revisi-prospek-jadi-negatif-peringkat-idb-bertahan",
+  "category": "Aksi Korporasi",
+  "title": "WSBP: PEFINDO Revisi Prospek Jadi [Negatif], Peringkat idB Bertahan",
+  "deck": "PEFINDO menegaskan peringkat idB untuk WSBP dan empat surat utangnya, tetapi merevisi prospek dari stabil menjadi negatif akibat likuiditas yang melemah.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "PEFINDO",
+   "peringkat obligasi",
+   "Waskita Beton Precast"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c6f4d06291_ff8b93aa5c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-rencanakan-private-placement-10-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Rencanakan [Private Placement] 10% Saham Baru",
+  "deck": "HRTA berencana menerbitkan hingga 460,5 juta saham baru tanpa hak memesan efek terlebih dahulu, setara 10 persen modal disetor, untuk modal kerja.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "private placement",
+   "PMTHMETD",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8fdfcd092b_a8fd3cd313.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrta-jadwalkan-rups-independen-private-placement-10",
+  "category": "Aksi Korporasi",
+  "title": "HRTA Jadwalkan RUPS Independen [Private Placement] 10%",
+  "deck": "HRTA menggelar RUPS Independen pada 16 Oktober 2026 untuk meminta persetujuan penerbitan saham baru hingga 10 persen tanpa hak memesan efek terlebih dahulu.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRTA",
+   "RUPS Independen",
+   "private placement",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ae50986f3_378800c6db.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "meds-jelaskan-lonjakan-saham-34-72-ke-ara",
+  "category": "Aksi Korporasi",
+  "title": "MEDS Jelaskan Lonjakan Saham 34,72% ke [ARA]",
+  "deck": "Saham Hetzer Medical Indonesia melonjak 34,72% dan menyentuh batas atas otomatis pada 7 September 2026, memicu permintaan penjelasan dari Bursa Efek Indonesia.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDS",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "Hetzer Medical Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b62bf5ab68_3e2ca8133f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "safe-kuota-200-bus-listrik-sulit-terealisasi-tahun-ini",
+  "category": "Aksi Korporasi",
+  "title": "SAFE: Kuota 200 Bus [Listrik] Sulit Terealisasi Tahun Ini",
+  "deck": "Steady Safe menjawab permintaan penjelasan Bursa: tidak ada kontrak baru, dan kuota 200 unit bus listrik untuk Transjakarta kemungkinan tak terealisasi tahun ini akibat pemotongan anggaran DKI.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "Transjakarta",
+   "bus listrik",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c60acea1ae_04807905ed.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "perpres-baru-atur-tata-kelola-tambang-timah-di-babel",
   "category": "BUMN",
   "title": "Perpres Baru Atur Tata Kelola Tambang [Timah] di Babel",
@@ -20,6 +100,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466005-perpres-792026-ubah-tata-kelola-tambang-timah-pt-timah-buka-suara-soal-poin-krusial"
+ },
+ {
+  "slug": "mapi-tetapkan-kebijakan-dividen-minimal-25-dari-laba-bersih",
+  "category": "Aksi Korporasi",
+  "title": "MAPI Tetapkan [Kebijakan Dividen] Minimal 25% dari Laba Bersih",
+  "deck": "Direksi MAPI menetapkan kebijakan dividen tunai minimal 25% dan maksimal 50% dari laba bersih tahun buku sebelumnya, berlaku efektif 9 September 2026, disetujui Dewan Komisaris.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPI",
+   "dividen",
+   "kebijakan dividen",
+   "emiten ritel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dd227bad86_f834c6bef3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adhi-catat-laba-tipis-rp8-49-miliar-genjot-penyehatan-keuangan",
+  "category": "Aksi Korporasi",
+  "title": "ADHI Catat Laba Tipis Rp8,49 Miliar, Genjot [Penyehatan] Keuangan",
+  "deck": "Dalam Public Expose Live 2026, ADHI membeberkan pendapatan semester I turun sementara laba bersih hanya Rp8,49 miliar, di tengah tiga langkah penyehatan keuangan perseroan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "Public Expose",
+   "restrukturisasi keuangan",
+   "BUMN Karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1f02e96d89_afc217eb50.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kaef-jelaskan-ke-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "KAEF Jelaskan ke BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Kimia Farma menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak mengetahui informasi material apa pun di baliknya.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAEF",
+   "Kimia Farma",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cda9da1c1_afc3882382.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rock-akui-proyek-azerai-ieh-belum-ada-jadwal-pasti",
@@ -278,6 +406,86 @@ var ARTICLES = [
    "jatuh tempo waran"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2fa476db44_d054a5b460.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dvla-jawab-permintaan-bei-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DVLA Jawab Permintaan BEI soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Darya-Varia Laboratoria menyatakan tak ada informasi material yang belum diungkap dan tak ada rencana aksi korporasi dalam tiga bulan ke depan setelah ditanya BEI soal pergerakan sahamnya.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DVLA",
+   "Darya-Varia Laboratoria",
+   "volatilitas saham",
+   "keterbukaan informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/679bd9df60_6e98cb1eb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdln-gelar-rupslb-kedua-kuorum-pertama-gagal-capai-75",
+  "category": "Aksi Korporasi",
+  "title": "MDLN Gelar RUPSLB Kedua, Kuorum Pertama [Gagal] Capai 75%",
+  "deck": "RUPSLB kedua MDLN digelar 14 September 2026, setelah rapat pertama gagal kuorum 75 persen untuk agenda pengalihan aset di atas separuh kekayaan bersih perusahaan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "RUPSLB",
+   "Modernland Realty",
+   "pengalihan aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f000d6b07_c5d80a6fce.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "baja-sengketa-tanah-sarana-steel-tak-pengaruhi-rights-issue",
+  "category": "Aksi Korporasi",
+  "title": "BAJA: Sengketa Tanah Sarana Steel Tak Pengaruhi [Rights Issue]",
+  "deck": "Saranacentral Bajatama (BAJA) menegaskan bukan pihak dalam sengketa tanah yang melibatkan PT Sarana Steel dan menyatakan rencana rights issue tetap berjalan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAJA",
+   "rights issue",
+   "sengketa tanah",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd93c60baa_c501bb1046.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-akui-tak-tahu-pemicu-kenaikan-harga-sahamnya-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Akui Tak Tahu Pemicu [Kenaikan] Harga Sahamnya ke Bursa",
+  "deck": "Menjawab permintaan penjelasan Bursa soal kenaikan harga sahamnya, PT Guna Timur Raya Tbk menyatakan tidak ada kontrak, transaksi, atau informasi material baru yang belum diungkapkan.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/19d2a8b461_f6ec830e1d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "life-ungkap-laba-melonjak-69-sebelum-public-expose-insidentil",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Ungkap Laba [Melonjak] 69% Sebelum Public Expose Insidentil",
+  "deck": "LIFE merilis materi Public Expose Insidental usai BEI menghentikan sementara perdagangan sahamnya akibat lonjakan harga, dengan laba bersih H1 2026 naik 69 persen.",
+  "date": "9 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "MSIG Life",
+   "Public Expose",
+   "penghentian sementara BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11cae592e8_96c7b0de3d.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6309,226 +6517,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412a4283e4_0faf4606fa.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg",
-  "category": "Makroekonomi",
-  "title": "Harga Cabai Rawit Merah [Melonjak] ke Rp82.700 per Kg",
-  "deck": "Seluruh jenis cabai naik signifikan pada Kamis (3/9), dipimpin cabai rawit merah yang melonjak 11,76 persen menjadi Rp82.700 per kilogram, sementara beras, bawang, dan ayam relatif stabil.",
-  "date": "3 September 2026",
-  "image": "assets/img/harga-cabai-rawit-merah-melonjak-ke-rp82-700-per-kg.jpg",
-  "imageV": "mtl4clt2",
-  "tags": [
-   "harga pangan",
-   "PIHPS",
-   "Bank Indonesia",
-   "cabai"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464575-harga-pangan-hari-ini-3-september-2026-emak-emak-gigit-jari-cabai-rawit-merah-tembus-rp82700-per-kilogram"
- },
- {
-  "slug": "eraa-rencanakan-buyback-rp500-miliar-berlaku-hingga-desember",
-  "category": "Aksi Korporasi",
-  "title": "ERAA Rencanakan [Buyback] Rp500 Miliar, Berlaku hingga Desember",
-  "deck": "Erajaya Swasembada mengumumkan rencana pembelian kembali saham hingga Rp500 miliar selama tiga bulan mulai 4 September 2026, memakai skema OJK untuk kondisi pasar berfluktuasi signifikan.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ERAA",
-   "buyback saham",
-   "Erajaya Swasembada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba7edbe79b_6b7f2b961a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mdla-bukukan-laba-rp226-miliar-naik-12-6-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "MDLA Bukukan Laba Rp226 Miliar, [Naik] 12,6% Semester I 2026",
-  "deck": "Medela Potentia (MDLA) mencatat pendapatan Rp8,2 triliun dan laba bersih Rp226 miliar pada semester I 2026, naik masing-masing 10,1% dan 12,6% dibanding tahun lalu.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Medela Potentia",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cc7910a964_5dbdb6b4c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dkft-jadwalkan-dividen-interim-rp30-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "DKFT Jadwalkan [Dividen] Interim Rp30 per Saham",
-  "deck": "Central Omega Resources (DKFT) akan membagikan dividen tunai interim Rp30 per saham, total maksimal Rp169,15 miliar, dibayar 21 September 2026.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DKFT",
-   "dividen interim",
-   "Central Omega Resources",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7070e921d0_a16e13d46b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gtbo-kembali-diperdagangkan-usai-suspensi-dicabut-bei",
-  "category": "Aksi Korporasi",
-  "title": "GTBO Kembali Diperdagangkan Usai [Suspensi] Dicabut BEI",
-  "deck": "BEI mencabut suspensi saham GTBO mulai 3 September 2026 setelah emiten memenuhi kewajiban yang sempat membuatnya disetop dua kali sejak Juni.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "suspensi saham",
-   "BEI",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/741d472172_e9979c800f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Naik] Rp15.000 jadi Rp2.639.000/Gram",
-  "deck": "Harga emas Antam hari ini naik Rp15.000 menjadi Rp2.639.000 per gram, sementara harga buyback ikut naik ke Rp2.492.000 per gram.",
-  "date": "3 September 2026",
-  "image": "assets/img/harga-emas-antam-naik-rp15-000-jadi-rp2-639-000-gram.jpg",
-  "imageV": "mtl4cm78",
-  "tags": [
-   "emas",
-   "harga emas",
-   "antam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464569-harga-emas-antam-hari-ini-3-september-2026-naik-rp15000-ke-angka-rp2639000-per-gram"
- },
- {
-  "slug": "abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang",
-  "category": "Ketenagakerjaan",
-  "title": "ABK KM El Malika [Ditemukan] Selamat Usai 13 Hari Hilang",
-  "deck": "KKP mengawal kepulangan awak kapal perikanan yang ditemukan selamat di Palau usai 13 hari hilang kontak di laut, sekaligus mengimbau standar keselamatan kapal ikan.",
-  "date": "3 September 2026",
-  "image": "assets/img/abk-km-el-malika-ditemukan-selamat-usai-13-hari-hilang.jpg",
-  "imageV": "mtkuhnoc",
-  "tags": [
-   "ABK",
-   "KKP",
-   "keselamatan laut",
-   "perikanan tangkap"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-kawal-pemulangan-awak-km-el-malika-usai-13-hari-hilang-kontak-di-laut-z7Oy.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "dpr-apresiasi-klaim-swasembada-8-komoditas-pangan",
-  "category": "Makroekonomi",
-  "title": "DPR Apresiasi Klaim [Swasembada] 8 Komoditas Pangan",
-  "deck": "Komisi IV DPR memberi apresiasi kepada Kementerian Pertanian atas klaim swasembada delapan komoditas pangan, mengacu pada neraca produksi 2026 yang diklaim melampaui kebutuhan nasional.",
-  "date": "3 September 2026",
-  "image": "assets/img/dpr-apresiasi-klaim-swasembada-8-komoditas-pangan.jpg",
-  "imageV": "mtkuhv66",
-  "tags": [
-   "Kementerian Pertanian",
-   "Swasembada Pangan",
-   "DPR",
-   "Neraca Pangan"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8112",
-  "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027",
-  "category": "Makroekonomi",
-  "title": "DPR Setujui Anggaran Kementan [Rp28,02 Triliun] untuk 2027",
-  "deck": "Komisi IV DPR menyetujui anggaran Kementan Rp28,02 triliun untuk 2027, dengan porsi terbesar bagi penguatan padi, hortikultura, dan bawang putih.",
-  "date": "3 September 2026",
-  "image": "assets/img/dpr-setujui-anggaran-kementan-rp28-02-triliun-untuk-2027.jpg",
-  "imageV": "mtkuhz82",
-  "tags": [
-   "Kementan",
-   "Anggaran 2027",
-   "Swasembada Pangan",
-   "Bawang Putih"
-  ],
-  "kreditFoto": "Kementerian Pertanian",
-  "sourceUrl": "https://www.pertanian.go.id/?show=news&act=view&id=8113",
-  "sourceLabel": "Kementerian Pertanian"
- },
- {
-  "slug": "kemnaker-siapkan-kompetensi-pekerja-untuk-green-jobs",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Siapkan Kompetensi Pekerja untuk [Green Jobs]",
-  "deck": "Kemnaker menyiapkan pelatihan, kurikulum, dan sertifikasi tenaga kerja menyambut proyeksi 5,3-9 juta lapangan kerja hijau dalam 5-10 tahun ke depan.",
-  "date": "3 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
-  "tags": [
-   "green jobs",
-   "Kemnaker",
-   "ketenagakerjaan",
-   "transisi energi"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-siapkan-kompetensi-tenaga-kerja-hadapi-peluang-green-jobs",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta",
-  "category": "Makroekonomi",
-  "title": "Jabar Selidiki Sebab DBH Pajak Tertinggal dari [Jakarta]",
-  "deck": "Pemprov Jawa Barat dan BRIN mengkaji penyebab dana bagi hasil pajak provinsi ini jauh di bawah DKI Jakarta, sembari menelusuri aturan baru pembagian DBH PPh yang berlaku tahun ini.",
-  "date": "3 September 2026",
-  "image": "assets/img/jabar-selidiki-sebab-dbh-pajak-tertinggal-dari-jakarta.jpg",
-  "imageV": "mtlhuf8p",
-  "tags": [
-   "DBH",
-   "Pajak Daerah",
-   "Jawa Barat",
-   "DJP"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/optimalkan-dbh-pemerintah-provinsi-jawa-barat-dan-brin-dalami-potensi-penerimaan-pajak",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun",
-  "category": "BUMN",
-  "title": "DJP Perjelas Pajak untuk [Restrukturisasi] BUMN Rp806 Triliun",
-  "deck": "DJP Wajib Pajak Besar menjelaskan fasilitas pajak baru bagi restrukturisasi BUMN kepada 55 pimpinan perusahaan, di tengah target penerimaan Rp806 triliun tahun ini.",
-  "date": "3 September 2026",
-  "image": "assets/img/djp-perjelas-pajak-untuk-restrukturisasi-bumn-rp806-triliun.jpg",
-  "imageV": "mtlhukqe",
-  "tags": [
-   "DJP",
-   "BUMN",
-   "Pajak",
-   "Restrukturisasi"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kawal-restrukturisasi-bumn-kanwil-djp-wajib-pajak-besar-berusaha-realisasikan-target",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034",
-  "category": "Energi",
-  "title": "Pemerintah Targetkan [42,6] GW Pembangkit EBT dalam RUPTL 2034",
-  "deck": "Pemerintah menargetkan 42,6 gigawatt pembangkit energi terbarukan dalam RUPTL 2025-2034, sekaligus mendorong integrasi rantai pasok energi bersih dalam negeri.",
-  "date": "3 September 2026",
-  "image": "assets/img/pemerintah-targetkan-42-6-gw-pembangkit-ebt-dalam-ruptl-2034.jpg",
-  "imageV": "mtkqcawr",
-  "tags": [
-   "EBTKE",
-   "RUPTL",
-   "energi terbarukan",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/buka-indoebtke-conex-2026-pemerintah-perkuat-ekosistem-energi-bersih-untuk-kemandirian-energi-nasional",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

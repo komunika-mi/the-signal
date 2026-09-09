@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "c0V9qMRMjqk",
+  "title": "Ekonom Pertanyakan Target Pertumbuhan Ekonomi 5,4 Persen",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Kalangan ekonom mempertanyakan target pertumbuhan ekonomi 5,4 persen yang dinilai dipaksakan, di tengah rentetan bencana yang turut menekan aktivitas ekonomi di sejumlah wilayah.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti kredibilitas asumsi makro pemerintah dan dampak bencana terhadap kinerja ekonomi nasional.",
+  "terbit": "2026-09-09T15:04:10+00:00"
+ },
+ {
   "id": "0RDjybps-IE",
   "title": "Optimisme Capai Pertumbuhan Ekonomi di Tengah Bencana",
   "category": "Makroekonomi",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "c0V9qMRMjqk",
+  "title": "Ekonom Pertanyakan Target Pertumbuhan Ekonomi 5,4 Persen",
+  "category": "Makroekonomi",
+  "program": "IBF",
+  "summary": "Kalangan ekonom mempertanyakan target pertumbuhan ekonomi 5,4 persen yang dinilai dipaksakan, di tengah rentetan bencana yang turut menekan aktivitas ekonomi di sejumlah wilayah.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti kredibilitas asumsi makro pemerintah dan dampak bencana terhadap kinerja ekonomi nasional."
+ },
+ {
   "id": "0RDjybps-IE",
   "title": "Optimisme Capai Pertumbuhan Ekonomi di Tengah Bencana",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Bank Jateng menggelar Gebyar Fest 81 di kantor cabang utama Semarang mulai 12 Agustus 2026, menghadirkan rangkaian kegiatan yang melibatkan pelaku UMKM untuk memperkuat ekosistem ekonomi daerah.",
   "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menggambarkan peran bank daerah dalam mendorong pertumbuhan UMKM dan ekosistem ekonomi lokal Jawa Tengah."
- },
- {
-  "id": "9KfKSXn_gWU",
-  "title": "Target Optimalisasi Energi Surya dan Elektrifikasi Mobilitas",
-  "category": "Energi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto mempercepat transisi energi hijau dengan menargetkan pembangunan Pembangkit Listrik Tenaga Surya berkapasitas besar sekaligus mendorong elektrifikasi kendaraan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berpotensi memengaruhi investasi di sektor energi terbarukan."
  }
 ];

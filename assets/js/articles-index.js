@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali",
+  "category": "Bisnis",
+  "title": "MUF dan Mandiri Dorong Adopsi Kendaraan [Listrik] di Bali",
+  "deck": "MUF bersama Bank Mandiri dan jaringan dealer menggelar uji coba kendaraan listrik dan hybrid di Bali, lengkap dengan penawaran pembiayaan khusus bagi nasabah.",
+  "date": "9 September 2026",
+  "image": "assets/img/muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali.jpg",
+  "imageV": "mtu8p4wk",
+  "tags": [
+   "kendaraan listrik",
+   "MUF",
+   "Bank Mandiri",
+   "hybrid"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466068-muf-genjot-adopsi-kendaraan-listrik-bank-mandiri-perkuat-kolaborasi-dengan-dealer"
+ },
+ {
+  "slug": "bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr",
+  "category": "Makroekonomi",
+  "title": "Bunga Pinjaman KDMP [Rp13,4 T] Disorot Banggar DPR",
+  "deck": "Banggar DPR mempersoalkan bunga cicilan pinjaman program Koperasi Desa Merah Putih senilai Rp13,4 triliun yang dinilai membebani APBN di tengah ruang fiskal terbatas.",
+  "date": "9 September 2026",
+  "image": "assets/img/bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr.jpg",
+  "imageV": "mtu8p7ma",
+  "tags": [
+   "KDMP",
+   "Banggar DPR",
+   "APBN",
+   "Himbara"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466056-banggar-dpr-soroti-bunga-cicilan-kdmp-rp134-triliun-apbn-jangan-sampai-terbebani"
+ },
+ {
   "slug": "tlkm-kupas-rencana-divestasi-neutradc-us-1-5-m-di-public-expose",
   "category": "Aksi Korporasi",
   "title": "TLKM Kupas Rencana Divestasi [NeutraDC] US$1,5 M di Public Expose",
@@ -19,6 +53,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2bd44d4177_48fe3ca3bd.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir",
+  "category": "UMKM",
+  "title": "LPDB Koperasi Perkuat [Jaminan] Hukum Dana Bergulir",
+  "deck": "LPDB Koperasi menggelar diskusi di Bandung untuk memperkuat kepastian hukum eksekusi jaminan, dari personal guarantee hingga hak tanggungan, demi melindungi dana bergulir bagi koperasi.",
+  "date": "9 September 2026",
+  "image": "assets/img/lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir.jpg",
+  "imageV": "mtu8p8c6",
+  "tags": [
+   "LPDB Koperasi",
+   "dana bergulir",
+   "tata kelola",
+   "DJKN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466045-perkuat-tata-kelola-dana-bergulir-lpdb-koperasi-dorong-mitigasi-risiko-hingga-kepastian-hukum"
  },
  {
   "slug": "bafi-lunasi-obligasi-rp458-miliar-setop-tercatat-di-bei",
@@ -6464,55 +6515,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464643-telkom-hadirkan-edumind-wellbeing-dan-ai-camp-di-makassar-diikuti-350-peserta"
- },
- {
-  "slug": "bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank",
-  "category": "Perbankan",
-  "title": "BI dan Kemenkeu Siapkan [Jadwal] Jaga Likuiditas Bank",
-  "deck": "Gubernur BI Destry Damayanti memastikan BI dan Kementerian Keuangan sudah punya jadwal bersama soal penempatan dan penarikan dana pemerintah di bank Himbara.",
-  "date": "3 September 2026",
-  "image": "assets/img/bi-dan-kemenkeu-siapkan-jadwal-jaga-likuiditas-bank.jpg",
-  "imageV": "mtlhu17v",
-  "tags": [
-   "likuiditas perbankan",
-   "Bank Indonesia",
-   "Himbara",
-   "Kementerian Keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464632-destry-pastikan-likuiditas-perbankan-aman-bi-dan-purbaya-siapkan-langkah-antisipasi"
- },
- {
-  "slug": "rans-gelar-rupslb-10-september-bahas-perubahan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "RANS Gelar RUPSLB 10 September, Bahas [Perubahan] Direksi",
-  "deck": "Perseroan mengoreksi pemanggilan RUPSLB sebelumnya dan menegaskan rapat digelar 10 September 2026 dengan agenda tunggal perubahan susunan direksi.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "RUPSLB",
-   "direksi",
-   "corporate action"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79f26bb35d_f4d3fb3015.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun",
-  "category": "Makroekonomi",
-  "title": "Anggaran MBG Berpeluang [Ditekan] di Bawah Rp200 Triliun",
-  "deck": "Menkeu Purbaya Yudhi Sadewa menyebut anggaran Makan Bergizi Gratis tahun ini berpeluang ditekan di bawah Rp200 triliun lewat efisiensi dan teknologi, setelah dipangkas bertahap dari Rp330 triliun.",
-  "date": "3 September 2026",
-  "image": "assets/img/anggaran-mbg-berpeluang-ditekan-di-bawah-rp200-triliun.jpg",
-  "imageV": "mtlhu297",
-  "tags": [
-   "MBG",
-   "Anggaran MBG",
-   "Purbaya Yudhi Sadewa",
-   "BGN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464617-purbaya-beri-sinyal-anggaran-mbg-bisa-dipangkas-di-bawah-rp200-triliun-ini-alasannya"
  }
 ];

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali",
+  "category": "Bisnis",
+  "title": "MUF dan Mandiri Dorong Adopsi Kendaraan [Listrik] di Bali",
+  "deck": "MUF bersama Bank Mandiri dan jaringan dealer menggelar uji coba kendaraan listrik dan hybrid di Bali, lengkap dengan penawaran pembiayaan khusus bagi nasabah.",
+  "image": "assets/img/muf-dan-mandiri-dorong-adopsi-kendaraan-listrik-di-bali.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T21:30:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466068-muf-genjot-adopsi-kendaraan-listrik-bank-mandiri-perkuat-kolaborasi-dengan-dealer",
+  "tags": [
+   "kendaraan listrik",
+   "MUF",
+   "Bank Mandiri",
+   "hybrid"
+  ],
+  "body": [
+   "PT Mandiri Utama Finance (MUF) memperluas dukungan terhadap ekosistem kendaraan listrik di Indonesia melalui program bertajuk Coffee & Drive: EV & Hybrid Experience, yang digelar bersama Bank Mandiri dan jaringan dealer otomotif di Bali. Program ini menyasar nasabah Bank Mandiri agar bisa merasakan langsung teknologi mobil listrik dan hybrid, sekaligus mengenal opsi pembiayaannya, sebagai bagian dari upaya mempercepat peralihan ke kendaraan ramah lingkungan di Pulau Dewata.",
+   "Acara berlangsung selama dua hari, 4 hingga 5 September 2026, dan dibagi menjadi enam sesi. Selain test drive berbagai unit EV dan hybrid, peserta juga mengikuti sesi berbagi pengalaman, permainan ringan, coffee corner, serta konsultasi langsung soal pilihan kendaraan dan skema pembiayaan yang tersedia.",
+   "MUF menyertakan sejumlah insentif pembiayaan untuk kendaraan baru dalam program ini, yaitu uang muka mulai 10 persen, cashback hingga Rp2 juta, dan perlindungan asuransi dengan nilai manfaat maksimal Rp10 juta, dengan syarat dan ketentuan yang berlaku. Pengajuan pembiayaan dengan fasilitas ini juga bisa dilakukan lewat aplikasi Livin' by Mandiri.",
+   "SEVP Marketing Reguler MUF Abdul Rochim menyebut pengalaman mencoba kendaraan secara langsung dan kemudahan mendapat pembiayaan menjadi faktor penting yang membangun kepercayaan konsumen terhadap kendaraan listrik dan hybrid. Ia menambahkan bahwa program ini juga menjadi ajang memperkuat sinergi antara MUF, Bank Mandiri, dan jaringan dealer, sehingga nasabah bisa mendapat layanan yang lebih terintegrasi, mulai dari mencari informasi kendaraan, mencoba unit, berkonsultasi, sampai mengajukan pembiayaan dalam satu lokasi acara."
+  ],
+  "fotoAdegan": "Rows of electric and hybrid cars parked under an open-air canopy at a test-drive event, palm trees and tropical greenery in the background, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa169cab4601-kolaborasi-dengan-bank-mandiri-dan-dealer-untuk-promosikan-kendaraan-listrik-di-bali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah skema pembiayaan konkret dari MUF untuk kendaraan listrik dan hybrid, yaitu uang muka mulai 10 persen, potongan tunai sampai Rp2 juta, dan perlindungan asuransi dengan santunan maksimal Rp10 juta, yang bisa diajukan lewat aplikasi Livin' by Mandiri. Yang kena dampak jelas nasabah Bank Mandiri di Bali yang tertarik beralih ke kendaraan listrik atau hybrid, serta jaringan dealer otomotif yang ikut program ini. Berita ini tidak menyebut berapa unit yang sudah dibiayai MUF untuk kategori EV dan hybrid sebelumnya atau target dari program dua hari ini, sehingga belum bisa disimpulkan apakah promosi semacam ini benar mendongkrak jumlah pembelian atau sekadar acara pemasaran biasa. Yang perlu ditunggu adalah angka penjualan kendaraan listrik dan hybrid di Bali pada kuartal berikutnya, serta apakah MUF merilis data realisasi pembiayaan dari program Coffee & Drive ini.",
+  "imageV": "mtu8p4wk"
+ },
+ {
+  "slug": "bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr",
+  "category": "Makroekonomi",
+  "title": "Bunga Pinjaman KDMP [Rp13,4 T] Disorot Banggar DPR",
+  "deck": "Banggar DPR mempersoalkan bunga cicilan pinjaman program Koperasi Desa Merah Putih senilai Rp13,4 triliun yang dinilai membebani APBN di tengah ruang fiskal terbatas.",
+  "image": "assets/img/bunga-pinjaman-kdmp-rp13-4-t-disorot-banggar-dpr.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T21:00:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466056-banggar-dpr-soroti-bunga-cicilan-kdmp-rp134-triliun-apbn-jangan-sampai-terbebani",
+  "tags": [
+   "KDMP",
+   "Banggar DPR",
+   "APBN",
+   "Himbara"
+  ],
+  "body": [
+   "Badan Anggaran (Banggar) DPR mempersoalkan pos anggaran bunga cicilan pinjaman program Koperasi Desa Merah Putih (KDMP) yang nilainya mencapai Rp13,4 triliun. Sorotan ini penting karena menyangkut penggunaan uang negara di tengah ruang fiskal APBN yang terbatas, sementara dana untuk program tersebut berasal dari kas negara.",
+   "Kritik disampaikan anggota Banggar dari Fraksi PDIP, Dolfie Othniel Frederic, dalam rapat Panitia Kerja Transfer ke Daerah (TKD) Banggar DPR, Rabu, 9 September 2026. Dolfie mengungkap bahwa pemerintah telah mengucurkan Rp51 triliun kepada bank-bank Himpunan Bank Milik Negara (Himbara) untuk mendukung pembiayaan KDMP, namun dari skema itu Himbara justru menerima bunga senilai Rp13 triliun.",
+   "Menurut Dolfie, apabila dana bunga tersebut dialihkan, dampaknya bisa besar bagi daerah. Ia mencontohkan dana itu berpotensi menutup kebutuhan Transfer ke Daerah (TKD), termasuk Dana Bagi Hasil (DBH), yakni bagian pendapatan negara yang disalurkan ke provinsi dan kabupaten/kota.",
+   "Dolfie juga mempertanyakan alasan pemerintah masih perlu menopang bank Himbara lewat pembayaran bunga pinjaman, sementara bank-bank tersebut dinilai telah memiliki kekuatan finansial tersendiri melalui Danantara, badan pengelola investasi negara yang menaungi sejumlah BUMN termasuk perbankan pelat merah. Sorotan ini muncul di tengah pembahasan kebutuhan anggaran TKD oleh Banggar DPR."
+  ],
+  "fotoAdegan": "A modest village cooperative building with motorbikes parked outside and residents gathering, quiet rural street, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/05/17/6a099f66b3e08-ilustrasi-koperasi-desa-merah-putih-kdmp_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan, melainkan sorotan DPR terhadap struktur pembiayaan KDMP: pemerintah menyalurkan Rp51 triliun ke bank-bank Himbara, tapi bank itu balik menerima bunga Rp13,4 triliun dari skema cicilan tersebut. Yang terdampak langsung adalah anggaran negara secara umum, serta daerah penerima Transfer ke Daerah dan Dana Bagi Hasil, karena Dolfie mengusulkan dana bunga itu dialihkan ke pos tersebut. Ke depan ada dua kemungkinan: usulan ini berhenti sebagai catatan rapat tanpa mengubah skema pembiayaan yang sudah berjalan, atau tekanan DPR membuat pemerintah merevisi porsi bunga itu saat pembahasan anggaran terus berlanjut. Yang akan menentukan arahnya adalah hasil akhir pembahasan Panitia Kerja Transfer ke Daerah dan kesepakatan DPR dengan pemerintah soal susunan anggaran negara, yang biasanya rampung menjelang akhir tahun anggaran.",
+  "imageV": "mtu8p7ma"
+ },
+ {
   "slug": "tlkm-kupas-rencana-divestasi-neutradc-us-1-5-m-di-public-expose",
   "category": "Aksi Korporasi",
   "title": "TLKM Kupas Rencana Divestasi [NeutraDC] US$1,5 M di Public Expose",
@@ -28,6 +82,32 @@ var ARTICLES = [
   "fotoAdegan": "Technicians in blue uniforms inspecting rows of fiber optic cables and server racks inside a data center hall in Indonesia",
   "takeaway": "Laporan ini condong positif bagi Telkom, karena selain menegaskan kinerja semester pertama yang tumbuh, manajemen membuka sejumlah rencana monetisasi aset yang menambah fleksibilitas keuangan, termasuk pelepasan 70 persen saham NeutraDC senilai US$1,5 miliar dan kejelasan rasio pembagian dividen di kisaran 60 hingga 90 persen dari laba bersih. Yang tersentuh adalah arus kas dan struktur permodalan Telkom: dana dari divestasi aset seperti NeutraDC dan pengalihan aset fiber ke Infranexia bisa membiayai ekspansi tanpa menambah utang, sementara kejelasan rasio dividen membantu pemegang saham memperkirakan potensi imbal hasil tahunan meski besaran pastinya baru diputuskan lewat RUPS tahun buku. Kenaikan pendapatan rata-rata per pelanggan seluler sebesar 9 persen juga jadi sinyal Telkomsel berhasil menaikkan harga jual tanpa banyak kehilangan pelanggan, hal yang biasa dicermati investor karena langsung memengaruhi laba. Yang perlu dipantau berikutnya adalah penyelesaian Fase 2 Infranexia yang ditargetkan akhir September hingga awal Oktober 2026, serta kelanjutan negosiasi pelepasan saham NeutraDC dan kemitraan strategis data center yang ditargetkan rampung akhir 2026.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir",
+  "category": "UMKM",
+  "title": "LPDB Koperasi Perkuat [Jaminan] Hukum Dana Bergulir",
+  "deck": "LPDB Koperasi menggelar diskusi di Bandung untuk memperkuat kepastian hukum eksekusi jaminan, dari personal guarantee hingga hak tanggungan, demi melindungi dana bergulir bagi koperasi.",
+  "image": "assets/img/lpdb-koperasi-perkuat-jaminan-hukum-dana-bergulir.jpg",
+  "date": "9 September 2026",
+  "isoDate": "2026-09-09T20:12:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466045-perkuat-tata-kelola-dana-bergulir-lpdb-koperasi-dorong-mitigasi-risiko-hingga-kepastian-hukum",
+  "tags": [
+   "LPDB Koperasi",
+   "dana bergulir",
+   "tata kelola",
+   "DJKN"
+  ],
+  "body": [
+   "Lembaga Pengelola Dana Bergulir (LPDB) Koperasi menggelar diskusi kelompok terarah di Bandung, Selasa (9/9/2026), untuk memperkuat kepastian hukum dan mitigasi risiko dalam pengelolaan dana bergulir yang disalurkan ke koperasi. Pembahasan mencakup mekanisme eksekusi personal guarantee, fidusia atas piutang yang masih lancar, serta tata cara pengikatan hak tanggungan atas tanah sebagai agunan. Ini penting karena dana yang dikelola LPDB adalah dana publik, dan kekuatan instrumen jaminan menentukan apakah lembaga bisa menagih kembali dana ketika koperasi peminjam gagal bayar.",
+   "Diskusi ini melibatkan perwakilan Kantor Wilayah Direktorat Jenderal Kekayaan Negara (DJKN) Jawa Barat, kantor hukum Rosalita Panjaitan and Associates, serta notaris dan Pejabat Pembuat Akta Tanah (PPAT). Direktur Utama LPDB Koperasi, Krisdianto, menyebut penguatan aspek hukum ini bukan sekadar pemenuhan formalitas, melainkan bagian dari tata kelola yang baik untuk melindungi dana dan aset yang diamanahkan kepada lembaganya.",
+   "Krisdianto menekankan bahwa dokumen hukum yang terlihat kuat di atas kertas belum tentu mudah dieksekusi ketika bermasalah di lapangan, sehingga prosedurnya perlu terus disempurnakan agar tidak menyisakan celah multitafsir. Ia juga meminta mitigasi risiko dilakukan sejak dini, termasuk pada piutang yang saat ini masih berstatus lancar, bukan menunggu sampai piutang bermasalah."
+  ],
+  "fotoAdegan": "Notary and clients reviewing blurred property documents at a wooden desk inside an Indonesian notary office, soft afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/09/6aa158d006dbb-fgd-divisi-hukum-direktorat-umum-dan-hukum-lpdb-koperasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan langkah awal LPDB Koperasi merapikan mekanisme penagihan jaminan, seperti personal guarantee, fidusia piutang, dan hak tanggungan tanah, lewat forum diskusi dengan DJKN, notaris, dan praktisi hukum. Yang terdampak langsung adalah koperasi peminjam dana bergulir, karena merekalah yang menyerahkan jaminan tersebut, dan LPDB sendiri selaku pengelola dana publik yang menanggung risiko jika piutang macet. Beritanya belum memuat data konkret, misalnya berapa besar piutang bermasalah yang mendorong penguatan ini atau target penyelesaiannya, sehingga arah kebijakan ini belum bisa dipastikan apakah akan berhenti di forum diskusi atau berlanjut jadi SOP dan aturan baku. Yang perlu dipantau adalah apakah LPDB Koperasi menerbitkan pedoman resmi hasil FGD ini, dan apakah muncul angka rasio piutang bermasalah dalam laporan kinerja LPDB berikutnya.",
+  "imageV": "mtu8p8c6"
  },
  {
   "slug": "bafi-lunasi-obligasi-rp458-miliar-setop-tercatat-di-bei",

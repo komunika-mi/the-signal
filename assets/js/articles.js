@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "giias-bandung-2026-pajak-kendaraan-diskon-10-persen",
+  "category": "Industri",
+  "title": "GIIAS Bandung 2026: Pajak Kendaraan [Diskon] 10 Persen",
+  "deck": "Pemprov Jawa Barat memberi diskon pajak kendaraan 10 persen selama GIIAS Bandung 2026 untuk mendorong transaksi otomotif, sektor yang menyumbang Rp10 triliun ke pendapatan daerah.",
+  "image": "assets/img/giias-bandung-2026-pajak-kendaraan-diskon-10-persen.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-09T22:40:23.470Z",
+  "sourceUrl": "https://www.gaikindo.or.id/pameran-giias-bandung-2026-sediakan-arena-berburu-mobil-listrik-perkotaan/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GIIAS Bandung 2026",
+   "pajak kendaraan",
+   "Jawa Barat",
+   "mobil listrik"
+  ],
+  "body": [
+   "GIIAS Bandung 2026 resmi dibuka di Sudirman Grand Ballroom, Kota Bandung, dan langsung dipadati ribuan pengunjung. Bersamaan dengan pembukaan itu, Pemerintah Provinsi Jawa Barat memberikan insentif pemotongan pajak kendaraan sebesar 10 persen selama pameran berlangsung, sebuah langkah yang lebih dari sekadar seremoni karena menyangkut kebijakan fiskal daerah.",
+   "Menurut Asisten Perekonomian dan Pembangunan Pemprov Jabar, Sumasna, ada dua jenis diskon yang disiapkan. Pertama, potongan 10 persen bagi masyarakat yang membeli kendaraan di arena GIIAS. Kedua, potongan 10 persen bagi pemilik kendaraan yang membayar pajak tahunan selama pameran berlangsung. Insentif ini ditujukan untuk mendongkrak jumlah kunjungan sekaligus nilai transaksi selama acara.",
+   "Sumasna menyebut pajak kendaraan bermotor sebagai penyumbang terbesar Pendapatan Asli Daerah Jawa Barat, dengan nilai mencapai Rp10 triliun. Dana ini menjadi sumber utama belanja pemerintah provinsi, mulai dari infrastruktur, sarana prasarana, pendidikan, hingga kesehatan.",
+   "Selain menyumbang pajak, sektor otomotif juga menopang lapangan kerja lewat ekosistem manufaktur yang tersebar di Bekasi, Karawang, Purwakarta, Subang, Bogor, dan Majalengka. Di tengah keramaian pameran, minat terhadap mobil listrik pun terlihat nyata. Salah satu pengunjung asal Kota Baru Parahyangan, Dewi, mengaku berburu mobil listrik berukuran kecil untuk perjalanan jarak dekat di Bandung, setelah sebelumnya memiliki mobil listrik jenis family car."
+  ],
+  "fotoAdegan": "Visitors walking between rows of compact electric cars displayed under bright showroom lighting at an indoor auto exhibition hall in Bandung.",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/09/de.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Diskon pajak 10 persen ini hanya berlaku selama pameran GIIAS berlangsung, bukan kebijakan pajak permanen, jadi sifatnya lebih mirip promo musiman untuk mendorong orang segera membeli mobil atau membayar pajak tahunan yang tertunda. Yang kena dampak langsung adalah calon pembeli kendaraan baru dan pemilik kendaraan yang perlu membayar pajak tahunan, sementara pemerintah provinsi diuntungkan jika pameran mendorong lebih banyak orang membayar sekaligus. Pola ini menegaskan pajak kendaraan memang jadi andalan utama pendapatan Jawa Barat, sampai Rp10 triliun, sehingga daerah punya alasan kuat memberi insentif serupa tiap kali ada ajang otomotif besar. Yang akan menunjukkan apakah strategi ini berhasil adalah angka realisasi pajak kendaraan Jabar setelah GIIAS Bandung 2026 selesai, apakah benar naik dibanding penyelenggaraan tahun sebelumnya.",
+  "imageV": "mtuoqowc"
+ },
+ {
   "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
   "category": "Industri",
   "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",

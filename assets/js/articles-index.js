@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "giias-bandung-2026-pajak-kendaraan-diskon-10-persen",
+  "category": "Industri",
+  "title": "GIIAS Bandung 2026: Pajak Kendaraan [Diskon] 10 Persen",
+  "deck": "Pemprov Jawa Barat memberi diskon pajak kendaraan 10 persen selama GIIAS Bandung 2026 untuk mendorong transaksi otomotif, sektor yang menyumbang Rp10 triliun ke pendapatan daerah.",
+  "date": "10 September 2026",
+  "image": "assets/img/giias-bandung-2026-pajak-kendaraan-diskon-10-persen.jpg",
+  "imageV": "mtuoqowc",
+  "tags": [
+   "GIIAS Bandung 2026",
+   "pajak kendaraan",
+   "Jawa Barat",
+   "mobil listrik"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/pameran-giias-bandung-2026-sediakan-arena-berburu-mobil-listrik-perkotaan/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
   "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
   "category": "Industri",
   "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",
@@ -6500,22 +6518,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464657-prabowo-tantang-rusia-gandakan-dagang-ri-bidik-tembus-dua-kali-lipat"
- },
- {
-  "slug": "pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026",
-  "category": "BUMN",
-  "title": "Pegadaian Sabet [Penghargaan] Tata Kelola Terbaik 2026",
-  "deck": "PT Pegadaian meraih penghargaan Indonesia Best Corporate Secretary for Governance Excellence 2026 dari Majalah SWA atas konsistensi tata kelola perusahaan.",
-  "date": "3 September 2026",
-  "image": "assets/img/pegadaian-sabet-penghargaan-tata-kelola-terbaik-2026.jpg",
-  "imageV": "mtlhtzrw",
-  "tags": [
-   "pegadaian",
-   "penghargaan",
-   "tata kelola",
-   "bumn"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464655-pegadaian-raih-penghargaan-corporate-secretary-champion-2026-komitmen-perkuat-tata-kelola-dan-reputasi-perusahaan"
  }
 ];

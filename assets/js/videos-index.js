@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "1RQbUny23CQ",
+  "title": "PT Agrinas Palma Gelar Pasar Rakyat, Sembako Murah untuk Warga",
+  "category": "BUMN",
+  "program": "Kabar Hari Ini",
+  "summary": "PT Agrinas Palma Nusantara menggelar pasar rakyat dengan membagikan 500 paket sembako terjangkau serta layanan kesehatan gratis bagi masyarakat sekitar.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya BUMN perkebunan sawit menjaga keterjangkauan harga bahan pokok di tingkat masyarakat."
+ },
+ {
   "id": "acvuV-9gESM",
   "title": "Bencana Alam Bertubi-Tubi Bikin Ekonomi RI Terhambat?",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Inspirasi Pagi",
   "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
   "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri."
- },
- {
-  "id": "0Nv4-W_RoVs",
-  "title": "DPR dan Pemerintah Sampaikan Perpres Ojol",
-  "category": "Ketenagakerjaan",
-  "program": "tvOneNews",
-  "summary": "DPR dan pemerintah menyampaikan perkembangan penyusunan Peraturan Presiden (Perpres) yang mengatur industri ojek online di Indonesia.",
-  "takeaway": "Perpres ini penting diikuti karena akan menentukan aturan main bisnis transportasi berbasis aplikasi dan nasib kesejahteraan jutaan mitra pengemudi ojol."
  }
 ];

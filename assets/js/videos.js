@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "1RQbUny23CQ",
+  "title": "PT Agrinas Palma Gelar Pasar Rakyat, Sembako Murah untuk Warga",
+  "category": "BUMN",
+  "program": "Kabar Hari Ini",
+  "summary": "PT Agrinas Palma Nusantara menggelar pasar rakyat dengan membagikan 500 paket sembako terjangkau serta layanan kesehatan gratis bagi masyarakat sekitar.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya BUMN perkebunan sawit menjaga keterjangkauan harga bahan pokok di tingkat masyarakat.",
+  "terbit": "2026-09-09T16:54:09+00:00"
+ },
+ {
   "id": "acvuV-9gESM",
   "title": "Bencana Alam Bertubi-Tubi Bikin Ekonomi RI Terhambat?",
   "category": "Makroekonomi",

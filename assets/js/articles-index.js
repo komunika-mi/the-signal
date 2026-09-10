@@ -5,6 +5,166 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Proyeksi [Recurring Income] Rp300-400 Miliar Tahun Ini",
+  "deck": "Dalam public expose 7 September 2026, manajemen DMAS memaparkan kas Rp2,08 triliun, target recurring income Rp300-400 miliar, dan komitmen dividen 30 persen dari laba bersih.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMAS",
+   "Puradelta Lestari",
+   "Public Expose",
+   "Data Center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/194adca546_8de96adcb8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-msja-naik-21-53-dan-volume-turun-ini-penjelasannya",
+  "category": "Aksi Korporasi",
+  "title": "Saham MSJA Naik 21,53% dan Volume [Turun], Ini Penjelasannya",
+  "deck": "PT Multi Spunindo Jaya Tbk (MSJA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 21,53 persen dalam sepekan terakhir tidak dipicu informasi material yang belum diungkapkan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSJA",
+   "volatilitas saham",
+   "Unusual Market Activity",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d66571dd6_bfb4ed94d3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obat-jawab-bei-tak-ada-aksi-korporasi-dekat-ini",
+  "category": "Aksi Korporasi",
+  "title": "OBAT Jawab BEI: Tak Ada [Aksi Korporasi] Dekat Ini",
+  "deck": "OBAT menjawab surat permintaan penjelasan BEI soal volatilitas transaksi sahamnya: tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OBAT",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e9b0fbb91_340799a733.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fire-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "[FIRE] Bantah Ada Info Material di Balik Volatilitas Saham",
+  "deck": "PT Alfa Energi Investama Tbk (FIRE) menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIRE",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffa2f908ee_304ec3a604.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "visi-rampungkan-tender-wajib-nihil-saham-publik-terjual",
+  "category": "Aksi Korporasi",
+  "title": "VISI Rampungkan Tender Wajib, [Nihil] Saham Publik Terjual",
+  "deck": "PT Harmoni Semesta Investama merampungkan penawaran tender wajib atas saham VISI senilai maksimal Rp325 miliar, namun tak ada pemegang saham publik yang menjual sahamnya.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "tender wajib",
+   "pengambilalihan",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b26f37c837_f86471639e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apia-pertahankan-rating-idaaa-laba-semester-i-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "APIA pertahankan rating [idAAA], laba semester I turun tajam",
+  "deck": "PEFINDO menegaskan peringkat idAAA stabil untuk Angkasa Pura Indonesia dan seluruh obligasi serta sukuknya, meski laba bersih semester I 2026 menyusut tajam.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIA",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f74bad2ea_eaf84b3a4b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "apai-pertahankan-peringkat-idaaa-ekuitas-turun-rp6-7-t",
+  "category": "Aksi Korporasi",
+  "title": "APAI Pertahankan Peringkat [idAAA], Ekuitas Turun Rp6,7 T",
+  "deck": "PEFINDO mempertahankan peringkat idAAA stabil untuk APAI dan sembilan obligasi/sukuknya, meski ekuitas perusahaan turun Rp6,7 triliun dalam enam bulan terakhir.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APAI",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9525d4939_1d055e7838.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ekad-ungkap-fujian-kuasai-51-saham-eip-susut-ke-31",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Ungkap Fujian Kuasai [51%] Saham, EIP Susut ke 31%",
+  "deck": "Ekadharma International (EKAD) merinci ke Bursa struktur kepemilikan baru pascaakuisisi oleh Fujian Youjia, sementara harga pembelian saham masih belum ditetapkan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EKAD",
+   "akuisisi",
+   "Fujian Youjia",
+   "pengendali saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bbf5a4d99_7859c60970.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "swat-penjualan-anjlok-63-ekuitas-tergerus-79-di-2025",
+  "category": "Aksi Korporasi",
+  "title": "SWAT: Penjualan Anjlok 63%, [Ekuitas] Tergerus 79% di 2025",
+  "deck": "Materi public expose tahunan SWAT menunjukkan penjualan 2025 turun 63 persen dan ekuitas tergerus 79 persen menjadi Rp12,46 miliar, meski rugi bersih menyempit dibanding 2024.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "public expose",
+   "kinerja keuangan",
+   "laporan tahunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1365af1381_8bd3b81d48.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cani-koreksi-pengurus-komisaris-utama-beralih-ke-ang-kok-tian",
+  "category": "Aksi Korporasi",
+  "title": "CANI Koreksi Pengurus, [Komisaris Utama] Beralih ke Ang Kok Tian",
+  "deck": "CANI mengoreksi laporan perubahan pengurus: Ang Kok Tian jadi Komisaris Utama, Jansen Warokka jadi Komisaris Independen, menggantikan Richie Limson dan Heryanto Cokro yang mengundurkan diri.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CANI",
+   "Capitol Nusantara Indonesia",
+   "Komisaris Utama",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0204cc6ad_a2a932ae3e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "oliv-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "OLIV Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
@@ -6357,165 +6517,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464723-strategi-umkm-naik-kelas-di-era-ai-mulai-dari-marketing-hingga-akses-modal"
- },
- {
-  "slug": "bexi-bayar-obligasi-rp714-5-miliar-yang-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BEXI Bayar Obligasi Rp714,5 Miliar yang [Jatuh Tempo]",
-  "deck": "Indonesia Eximbank memastikan dana Rp714,5 miliar sudah siap untuk melunasi pokok obligasi BEXI04DCN6 yang jatuh tempo 3 September 2026 dan dihapus dari pencatatan BEI.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEXI",
-   "obligasi",
-   "Indonesia Eximbank",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2ed31c68_6cf4c33c43.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smgr-paparkan-kinerja-1h26-laba-melonjak-445-utang-turun",
-  "category": "Aksi Korporasi",
-  "title": "SMGR Paparkan Kinerja 1H26: Laba [Melonjak] 445%, Utang Turun",
-  "deck": "SMGR memaparkan materi public expose ke bursa: laba bersih 1H26 melonjak 445,9 persen dan utang berbunga menyusut, menjelang paparan publik 8 September 2026.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMGR",
-   "Semen Indonesia",
-   "public expose",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7788c629df_f99a84099c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-rencanakan-rights-issue-rp2-4-triliun-dilusi-13",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Rencanakan [Rights Issue] Rp2,4 Triliun, Dilusi 13%",
-  "deck": "MGLV berencana menerbitkan hingga 285,7 juta saham baru lewat rights issue senilai sekitar Rp2,4 triliun untuk membayar piutang ke NAC dan NGC serta modal kerja bisnis pusat data.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "rights issue",
-   "HMETD",
-   "data center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51d4af8220_dac8d153c6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-rilis-materi-pubex-laba-bersih-turun-25-3-di-1h26",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Rilis Materi Pubex, [Laba Bersih] Turun 25,3% di 1H26",
-  "deck": "VTNY menyerahkan materi Public Expose Tahunan yang digelar 8 September 2026, memuat kinerja semester I 2026: laba bersih turun 25,3 persen meski pendapatan naik tipis.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "Venteny Fortuna",
-   "Public Expose",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/574c191597_5949c1b433.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-divestasi-13-anak-usaha-ambil-pinjaman-rp4-triliun-dari-ndc",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Divestasi 13 Anak Usaha, Ambil Pinjaman [Rp4 Triliun] dari NDC",
-  "deck": "Rencana transaksi mencapai 563,59 persen dari ekuitas Perseroan, mencakup divestasi 13 anak usaha dan pinjaman pemegang saham hingga Rp4 triliun dari NDC jelang RUPS 7 September.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "transaksi material",
-   "data center",
-   "NDC"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c20a300955_77184e1ed6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-jamin-fasilitas-kredit-us-530-2-juta-untuk-data-center-dge",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Jamin Fasilitas Kredit [US$530,2 Juta] untuk Data Center DGE",
-  "deck": "Anak usaha EDGE, PT Digital Gayana Ekaprana, mendapat kredit US$530,2 juta dari 11 bank untuk proyek data center, dijamin saham EDGE dan Ekagrata Data Gemilang di DGE.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "transaksi material",
-   "data center",
-   "fasilitas kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee28316f16_da808554c0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "reli-laba-semester-i-2026-anjlok-43-58-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "RELI: Laba Semester I 2026 Anjlok [43,58%] di Public Expose",
-  "deck": "Materi public expose RELI menunjukkan laba bersih semester I 2026 turun 43,58 persen menjadi Rp2,73 miliar, meski pendapatan segmen transaksi bursa tumbuh 31,22 persen.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RELI",
-   "Reliance Sekuritas",
-   "sekuritas",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e650045b13_d95bcb92e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akra-paparkan-kinerja-semester-i-jelang-public-expose-8-sept",
-  "category": "Aksi Korporasi",
-  "title": "AKRA Paparkan [Kinerja] Semester I Jelang Public Expose 8 Sept",
-  "deck": "AKR Corporindo merilis materi Public Expose Tahunan berisi kinerja semester I 2026, termasuk pergeseran kontribusi segmen kawasan industri dan progres proyek LNG di JIIPE.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKRA",
-   "AKR Corporindo",
-   "Public Expose",
-   "JIIPE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1166aa0556_2353a6d197.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-panggil-rupslb-25-september-bahas-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Panggil RUPSLB 25 September, Bahas [PMTHMETD]",
-  "deck": "Bhuwanatala Indah Permai mengundang pemegang saham ke RUPSLB 25 September 2026 untuk menyetujui penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "RUPSLB",
-   "PMTHMETD",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4691b1101c_b00b12740b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hdfa-cetak-laba-rp1-53-miliar-bangkit-dari-rugi-2025",
-  "category": "Aksi Korporasi",
-  "title": "HDFA Cetak Laba Rp1,53 Miliar, [Bangkit] dari Rugi 2025",
-  "deck": "Radana Bhaskara Finance (HDFA) membukukan laba bersih Rp1,53 miliar pada semester I 2026, berbalik dari rugi Rp82 miliar sepanjang 2025.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HDFA",
-   "multifinance",
-   "laporan keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79ea3c4bba_a6f0440120.pdf",
-  "sourceLabel": "IDX"
  }
 ];

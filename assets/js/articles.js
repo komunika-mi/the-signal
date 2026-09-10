@@ -3,6 +3,270 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
+  "category": "Aksi Korporasi",
+  "title": "DMAS Proyeksi [Recurring Income] Rp300-400 Miliar Tahun Ini",
+  "deck": "Dalam public expose 7 September 2026, manajemen DMAS memaparkan kas Rp2,08 triliun, target recurring income Rp300-400 miliar, dan komitmen dividen 30 persen dari laba bersih.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T14:54:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/194adca546_8de96adcb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMAS",
+  "tags": [
+   "DMAS",
+   "Puradelta Lestari",
+   "Public Expose",
+   "Data Center"
+  ],
+  "body": [
+   "PT Puradelta Lestari Tbk (DMAS) menggelar Public Expose Tahunan secara virtual pada Senin, 7 September 2026, pukul 10.00 hingga 11.00 WIB, dihadiri 130 peserta yang terdiri dari investor perorangan dan institusi, lembaga keuangan atau perbankan, analis pasar modal, media, serta masyarakat umum. Perseroan diwakili oleh Direktur Tondy Suwanto dan Esther Meilia Natanael, Department Head of Investor Relations & Corporate Sustainability. Acara dilanjutkan dengan sesi Press Conference virtual selama 15 menit yang dihadiri 31 wartawan dari media cetak maupun elektronik.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan kas dan setara kas perseroan per 30 Juni 2026 sebesar Rp2,08 triliun, yang akan digunakan untuk akuisisi lahan baru bila ada kesempatan yang tepat. Pendapatan berulang atau recurring income ditargetkan mencapai Rp300-400 miliar tahun ini, dengan pertumbuhan tahunan sebesar 25-30 persen. Terkait dividen, manajemen menegaskan komitmen membagikan 30 persen dari laba bersih, dan berdasarkan riwayat sebelumnya rasio pembagian dividen (dividend payout ratio) perseroan sudah mencapai atau bahkan melebihi 100 persen dari laba.",
+   "Soal ekspansi lahan, manajemen menyatakan tetap mencari tambahan landbank berskala besar di sekitar Kota Deltamas agar mudah tersambung ke jaringan listrik, internet, air bersih, dan pengolahan air limbah, dengan syarat lahan industri minimal seluas 500 hektare untuk diakuisisi. Perseroan mencatat inquiry seluas sekitar 85 hektare lahan industri, 75 persen di antaranya dari sektor data center, dengan tahapan dari LOI atau tanda jadi, lalu pre-sales setelah pembayaran uang muka, hingga accounting sales setelah serah terima atau akta jual beli. Dari sisi infrastruktur, kapasitas listrik terpasang di kawasan Deltamas sudah mencapai 1.000 MVA, kapasitas air sekitar 40.000 meter kubik yang akan ditingkatkan menjadi 60.000 meter kubik, ditambah kapasitas air daur ulang 8.000 meter kubik, serta sistem keamanan terintegrasi Security, Fire, and Command Center yang telah beroperasi sejak dua tahun lalu.",
+   "Manajemen menyebut accounting sales pada kuartal pertama dan kedua 2026 didominasi sektor data center dan tren ini diperkirakan berlanjut pada kuartal ketiga dan keempat, dengan target 2026 yang akan direvisi naik meski angka pastinya masih dibahas secara internal. Untuk outlook 2027, manajemen optimistis khususnya pada segmen data center, dan menilai pelemahan rupiah justru membuat harga lahan di Deltamas lebih murah di mata pembeli asing. Tenant data center perseroan disebut berasal dari Asia, Amerika Serikat, dan domestik."
+  ],
+  "fotoAdegan": "Technicians inspecting high-voltage electrical substation equipment at an industrial estate in West Java, overcast afternoon light.",
+  "takeaway": "Paparan publik DMAS kali ini condong positif bagi fundamental perseroan, karena manajemen mengonfirmasi posisi kas yang tebal, proyeksi pendapatan berulang yang terus tumbuh, dan komitmen dividen yang historis selalu terpenuhi. Yang tersentuh di sini adalah kas dan setara kas perseroan senilai Rp2,08 triliun per akhir Juni 2026 yang jadi bekal ekspansi lahan tanpa perlu utang baru, recurring income atau pendapatan berulang dari sewa dan fasilitas pendukung yang ditarget Rp300-400 miliar tahun ini dengan pertumbuhan 25-30 persen per tahun, serta kebijakan dividen 30 persen dari laba bersih yang secara historis realisasinya melebihi 100 persen laba. Pelaku pasar memperhatikan pos-pos ini karena kas besar dan pendapatan berulang yang stabil membuat perseroan tidak terlalu bergantung pada penjualan lahan yang sifatnya musiman, sementara payout dividen tinggi menandakan keyakinan manajemen atas arus kasnya. Yang perlu dipantau berikutnya adalah revisi target penjualan 2026 yang menurut manajemen masih dibahas secara internal dan belum diumumkan angka pastinya, serta realisasi accounting sales kuartal III dan IV 2026 yang diklaim masih didominasi sektor data center.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "saham-msja-naik-21-53-dan-volume-turun-ini-penjelasannya",
+  "category": "Aksi Korporasi",
+  "title": "Saham MSJA Naik 21,53% dan Volume [Turun], Ini Penjelasannya",
+  "deck": "PT Multi Spunindo Jaya Tbk (MSJA) menjelaskan ke Bursa Efek Indonesia bahwa lonjakan harga saham 21,53 persen dalam sepekan terakhir tidak dipicu informasi material yang belum diungkapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T14:29:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d66571dd6_bfb4ed94d3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSJA",
+  "tags": [
+   "MSJA",
+   "volatilitas saham",
+   "Unusual Market Activity",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Multi Spunindo Jaya Tbk (MSJA) menjelaskan kepada Bursa Efek Indonesia (BEI) penyebab lonjakan harga sahamnya yang tercatat naik dari Rp432 pada 27 Agustus 2026 menjadi Rp525 pada 7 September 2026, atau naik Rp93 setara 21,53 persen dalam sepekan. Penjelasan itu disampaikan menyusul surat permintaan klarifikasi dari BEI bernomor S-11504/BEI.PP2/09-2026 tertanggal 9 September 2026, yang juga mencatat rata-rata aktivitas perdagangan saham MSJA menurun menjadi 14.698.557 saham dengan frekuensi 1.246 kali transaksi, dibandingkan dengan hari bursa 27 Agustus 2026 yang mencatat 20.671.400 saham dengan frekuensi 483 kali transaksi.",
+   "Dalam surat balasan bernomor MSJA-IDX/0926/001 tertanggal 10 September 2026 yang ditandatangani Direktur Roslin Octavia Basuki, manajemen MSJA menyatakan seluruh informasi material yang wajib diungkapkan sesuai Peraturan OJK Nomor 31/POJK.04/2015 sudah tercakup dalam prospektus penawaran umum perdana saham perusahaan, dan hingga surat ini terbit tidak ada informasi tambahan yang perlu diungkapkan ke publik. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu, tidak berencana melakukan aksi korporasi dalam tiga bulan ke depan yang berdampak pada pencatatan sahamnya di bursa, serta tidak ada informasi material lain yang dapat memengaruhi harga saham maupun kelangsungan usaha yang belum diungkapkan.",
+   "Terkait rencana pemegang saham utama, manajemen menyebut pemegang saham utama dan pengendali perusahaan belum memiliki rencana apa pun terkait kepemilikan sahamnya di MSJA hingga surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Rolls of white nonwoven fabric stacked on a factory floor, workers in uniform monitoring spinning machines, industrial plant interior in East Java",
+  "takeaway": "Laporan ini netral bagi fundamental MSJA karena kenaikan harga saham 21,53 persen dalam sepekan itu tidak disertai satu pun informasi baru soal kinerja, kontrak, atau rencana bisnis, semata pergerakan harga di pasar sekunder. Yang perlu dipahami pembaca, permintaan penjelasan seperti ini dari BEI adalah mekanisme pemantauan pasar rutin ketika harga saham bergerak jauh dari kebiasaannya dalam waktu singkat, dan jawaban emiten menjadi rujukan resmi bahwa lonjakan itu bukan dipicu bocornya informasi orang dalam. Turunnya rata-rata volume transaksi harian dari 20,67 juta saham menjadi 14,69 juta saham, meski frekuensi transaksinya justru naik dari 483 menjadi 1.246 kali, menunjukkan pola perdagangan yang lebih ramai pesertanya tapi lebih kecil ukuran tiap transaksinya, ciri yang lebih dekat ke spekulasi ritel dibanding aksi beli besar investor institusi. Karena perusahaan sendiri menegaskan tidak ada rencana aksi korporasi dalam tiga bulan ke depan, yang paling perlu dipantau pembaca adalah apakah harga saham MSJA kembali stabil atau justru berlanjut fluktuatif tanpa dasar fundamental baru, dan apakah BEI akan mengirim permintaan serupa jika pola itu terulang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "obat-jawab-bei-tak-ada-aksi-korporasi-dekat-ini",
+  "category": "Aksi Korporasi",
+  "title": "OBAT Jawab BEI: Tak Ada [Aksi Korporasi] Dekat Ini",
+  "deck": "OBAT menjawab surat permintaan penjelasan BEI soal volatilitas transaksi sahamnya: tidak ada informasi material dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T14:25:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5e9b0fbb91_340799a733.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OBAT",
+  "tags": [
+   "OBAT",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengirim surat permintaan penjelasan nomor S-11499/BEI.PP3/09-2026 kepada PT Brigit Biofarmaka Teknologi Tbk (OBAT) terkait volatilitas transaksi efeknya. Menanggapi surat itu, perseroan menyampaikan dua surat balasan terpisah pada 10 September 2026 yang isinya menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan I-E Bursa Efek Indonesia.",
+   "Surat pertama ditandatangani Direktur Utama Is Heriyanto pukul 14.25, menyatakan perseroan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham, dan belum memiliki rencana aksi korporasi yang berdampak pada pencatatan saham dalam tiga bulan ke depan. Surat kedua ditandatangani Corporate Secretary Toufin Noor Prambudi pukul 14.20 pada hari yang sama dengan isi serupa, ditambah keterangan bahwa pemegang saham utama juga belum memiliki rencana terkait kepemilikan sahamnya di perseroan.",
+   "Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, yang dapat memengaruhi harga efek maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Technicians in white coats inspecting herbal extract processing equipment in a pharmaceutical production facility, stainless steel machinery, bright industrial lighting",
+  "takeaway": "Penjelasan ini netral bagi OBAT karena isinya bantahan standar, tanpa informasi baru yang mengubah gambaran fundamental perusahaan atau susunan pemegang sahamnya. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh di sini, sebab surat ini murni soal transparansi ke bursa, bukan laporan keuangan. Yang justru penting dari kemunculan surat ini adalah alasannya, yaitu BEI mendeteksi pergerakan transaksi saham OBAT yang dianggap tidak wajar, sehingga volatilitas harga belakangan ini kemungkinan besar bukan dipicu informasi fundamental baru dari perseroan. Yang perlu dipantau berikutnya adalah apakah pernyataan tidak ada aksi korporasi dalam tiga bulan ke depan ini benar bertahan, serta apakah BEI kembali meminta penjelasan bila volatilitas transaksi sahamnya berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "fire-bantah-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "[FIRE] Bantah Ada Info Material di Balik Volatilitas Saham",
+  "deck": "PT Alfa Energi Investama Tbk (FIRE) menjawab surat BEI soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T14:24:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ffa2f908ee_304ec3a604.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIRE",
+  "tags": [
+   "FIRE",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Alfa Energi Investama Tbk (FIRE) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan bernomor S-10958/BEI.PP2/08-2026 tanggal 24 Agustus 2026 terkait volatilitas transaksi efek perseroan. Jawaban disampaikan pada 10 September 2026 melalui dua surat, yakni surat kepada publik nomor IX/10-040/AEI-CORSEC/2026 dan surat kepada BEI nomor IX/10-039/AEI-CORSEC/2026 yang ditujukan kepada Adi Pratomo Aryanto, Kepala Divisi Penilaian Perusahaan 2 BEI. Kedua surat ditandatangani secara elektronik oleh Lyna selaku Corporate Secretary FIRE.",
+   "Dalam jawabannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal sebagaimana diatur POJK Nomor 31/POJK.04/2015, dan tidak mengetahui informasi yang dapat memengaruhi harga saham sesuai Ketentuan III.2.1 Peraturan I-E BEI. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Perseroan menegaskan belum memiliki rencana tindakan korporasi dalam tiga bulan ke depan yang berdampak pada status pencatatan sahamnya di bursa, serta tidak ada informasi atau kejadian material lain yang belum diungkapkan ke publik. Terkait rencana pemegang saham utama, Corporate Secretary menyampaikan bahwa setelah dikonfirmasi, pemegang saham utama tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta financial district street with glass office towers, stock exchange building blurred in the background, midday light",
+  "takeaway": "Surat ini netral bagi emiten karena isinya semata deretan bantahan formal atas pertanyaan bursa, tanpa ada angka transaksi baru, rencana korporasi, atau perubahan kepemilikan yang diungkapkan. Permintaan seperti ini lazim disebut permintaan penjelasan volatilitas, dikirim bursa saat harga atau volume perdagangan suatu saham bergerak di luar kebiasaan dalam periode tertentu, dan surat balasan seperti ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, atau laba per saham karena perseroan mengklaim tidak ada apa pun yang terjadi di baliknya. Yang perlu dipantau berikutnya adalah apakah BEI menerima penjelasan ini sebagai final atau melayangkan permintaan konfirmasi lanjutan, mengingat jarak antara surat awal bursa pada 24 Agustus 2026 dan jawaban perseroan pada 10 September 2026 terbilang lebih dari dua pekan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "visi-rampungkan-tender-wajib-nihil-saham-publik-terjual",
+  "category": "Aksi Korporasi",
+  "title": "VISI Rampungkan Tender Wajib, [Nihil] Saham Publik Terjual",
+  "deck": "PT Harmoni Semesta Investama merampungkan penawaran tender wajib atas saham VISI senilai maksimal Rp325 miliar, namun tak ada pemegang saham publik yang menjual sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T14:04:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b26f37c837_f86471639e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "tender wajib",
+   "pengambilalihan",
+   "IDX"
+  ],
+  "body": [
+   "PT Satu Visi Putra Tbk (VISI) melaporkan bahwa PT Harmoni Semesta Investama, pengendali baru perseroan, telah merampungkan penawaran tender wajib atas saham publik VISI pada 27 Agustus 2026. Penawaran ini menyasar sebanyak-banyaknya 615.000.000 saham publik, setara 20 persen dari modal disetor perseroan, dengan harga Rp277 per saham. Nilai maksimal penawaran mencapai Rp325.037.340.000.",
+   "Penawaran tender wajib ini merupakan konsekuensi dari pengambilalihan saham VISI yang terjadi pada 9 Juni 2026. Saat itu, Harmoni Semesta membeli 1.901.580.000 saham atau 61,85 persen dari David Dwiputra, pendiri sekaligus pemegang saham mayoritas VISI, dengan harga Rp94 per saham senilai total Rp178.748.520.000. Dalam rangkaian transaksi yang sama, David Dwiputra juga melepas sahamnya ke PT Trinugraha Thohir Harmoni sebanyak 246.000.000 saham atau 8 persen, serta bersama Farrel Yonathan dan Robert Putra Sampurna melepas total 312.420.000 saham atau 10,15 persen ke PT Atlas Raya Abadi, dengan harga yang sama. Setelah seluruh transaksi itu, kepemilikan David Dwiputra di VISI tersisa 107.000 saham atau hanya 0,003 persen, praktis membuatnya keluar dari jajaran pemegang saham utama.",
+   "Berdasarkan surat konfirmasi PT Kustodian Sentral Efek Indonesia (KSEI) dan biro administrasi efek PT Sinartama Gunita, tidak ada satu pun pemegang saham publik yang mengajukan permohonan penjualan saham selama masa penawaran tender berlangsung pada 23 Juli hingga 21 Agustus 2026. Alhasil, jumlah saham yang dibeli Harmoni Semesta dalam penawaran tender wajib ini nihil, dan komposisi kepemilikan pengendali baru tidak berubah dari sebelum pelaksanaan tender. Perseroan menyatakan peristiwa ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Rolled blank vinyl banners stacked inside a warehouse, workers checking pallets of PVC boards near a forklift, industrial lighting",
+  "takeaway": "Laporan ini netral bagi VISI karena penawaran tender wajib berakhir tanpa satu pun saham publik yang terjual, sehingga tidak ada dana yang berpindah dan tidak ada perubahan pada struktur kepemilikan publik perseroan. Yang lebih berarti justru sudah terjadi jauh sebelum laporan ini terbit, yaitu David Dwiputra, pendiri VISI, melepas hampir seluruh sahamnya dari 71,55 persen menjadi tinggal 0,003 persen, dan kendali penuh kini beralih ke Harmoni Semesta Investama. Karena tidak ada saham baru yang diterbitkan dan tidak ada dana yang masuk ke kas perseroan dari transaksi ini, jumlah saham beredar dan laba per saham VISI tidak terpengaruh langsung. Yang perlu dipantau selanjutnya adalah arah bisnis VISI di bawah pengendali baru, termasuk rencana penerbitan saham baru untuk mendanai akuisisi di bidang kesehatan yang sudah dibahas dalam RUPS awal September 2026, karena rencana itulah yang berpotensi mengubah jumlah saham beredar dan porsi kepemilikan pemegang saham lama.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apia-pertahankan-rating-idaaa-laba-semester-i-turun-tajam",
+  "category": "Aksi Korporasi",
+  "title": "APIA pertahankan rating [idAAA], laba semester I turun tajam",
+  "deck": "PEFINDO menegaskan peringkat idAAA stabil untuk Angkasa Pura Indonesia dan seluruh obligasi serta sukuknya, meski laba bersih semester I 2026 menyusut tajam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:58:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f74bad2ea_eaf84b3a4b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIA",
+  "tags": [
+   "APIA",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idAAA, yaitu peringkat tertinggi yang diberikan lembaga itu, untuk PT Angkasa Pura Indonesia (Persero) dengan kode saham APIA, beserta seluruh obligasi yang diterbitkannya. Untuk instrumen syariah, PEFINDO memberi peringkat idAAA(sy). Outlook peringkat perusahaan ditetapkan stabil untuk periode 8 September 2026 sampai 1 September 2027. Hasil pemeringkatan ini diumumkan 8 September 2026 dan diterima perusahaan sehari setelahnya.",
+   "Obligasi yang tercakup dalam pemantauan ini antara lain Obligasi Berkelanjutan I Angkasa Pura II Tahap II Tahun 2020 Seri C senilai Rp1,602 triliun yang jatuh tempo 13 Agustus 2027, dan Seri D senilai Rp457 miliar yang jatuh tempo 13 Agustus 2030. Selain itu ada Obligasi I Angkasa Pura I Tahun 2016 Seri C, Obligasi Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri B, C, dan D, serta Obligasi Berkelanjutan II Angkasa Pura I Tahap I Tahun 2024 Seri A, B, dan C. Untuk sukuk, peringkat idAAA(sy) diberikan kepada Sukuk Ijarah I Angkasa Pura I Tahun 2016 Seri C, Sukuk Ijarah Berkelanjutan I Angkasa Pura I Tahap I Tahun 2021 Seri B, C, dan D, serta Sukuk Wakalah Bi Al-Istitsmar Jangka Panjang Angkasa Pura I Tahun 2023.",
+   "PEFINDO menyebut peringkat APIA terutama ditopang oleh kemungkinan dukungan sangat kuat dari induk usahanya, PT Aviasi Pariwisata Indonesia (Persero) atau InJourney, yang menguasai kepemilikan hampir 100 persen saham APIA, sementara Pemerintah Indonesia memegang dua lembar saham Dwiwarna. APIA sendiri terbentuk pada September 2024 dari penggabungan dua operator bandara milik negara dan kini mengelola 37 bandara di seluruh Indonesia. Data keuangan per akhir Juni 2026 yang belum diaudit menunjukkan total aset yang disesuaikan naik menjadi Rp90,9 triliun dari Rp90,5 triliun akhir 2025. Namun ekuitas turun dari Rp37,15 triliun akhir 2025 menjadi Rp30,42 triliun, dan laba bersih setelah kepentingan minoritas untuk periode enam bulan itu hanya Rp619,2 miliar, jauh lebih kecil dibanding laba setahun penuh 2025 yang mencapai Rp7,86 triliun. Rasio utang terhadap EBITDA tercatat 4,9 kali dan rasio utang terhadap ekuitas 1,4 kali per Juni 2026."
+  ],
+  "fotoAdegan": "Passenger jet being pushed back from an airport gate at sunrise, ground crew in safety vests working nearby",
+  "takeaway": "Laporan ini netral bagi APIA: peringkat idAAA tidak berubah dari status yang sudah bertahan sejak 2023, jadi bukan sinyal baru bagi pasar, sementara laba bersih dan modal sendiri perusahaan justru menyusut pada semester pertama 2026. Ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham setelah dikurangi utang, turun dari Rp37,15 triliun menjadi Rp30,42 triliun, sementara rasio utang dibanding EBITDA, ukuran kasar berapa tahun laba operasional dibutuhkan untuk melunasi utang, naik menjadi 4,9 kali dari 4,6 kali, tanda beban utang makin berat dibanding kemampuan perusahaan menghasilkan kas. Pelaku pasar mengawasi dua pos ini karena keduanya jadi acuan utama lembaga pemeringkat sebelum menilai ulang kelayakan kredit perusahaan, meski dukungan kuat dari induk usaha InJourney membuat peringkat tetap di level tertinggi. Yang perlu dicermati berikutnya adalah tenggat PEFINDO yang meminta APIA memberi masukan atas draf rating summary paling lambat 9 September 2026, serta kewajiban APIA melapor ke PEFINDO dalam dua hari kerja jika muncul fakta material baru, sebelum masa berlaku peringkat ini berakhir pada 1 September 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "apai-pertahankan-peringkat-idaaa-ekuitas-turun-rp6-7-t",
+  "category": "Aksi Korporasi",
+  "title": "APAI Pertahankan Peringkat [idAAA], Ekuitas Turun Rp6,7 T",
+  "deck": "PEFINDO mempertahankan peringkat idAAA stabil untuk APAI dan sembilan obligasi/sukuknya, meski ekuitas perusahaan turun Rp6,7 triliun dalam enam bulan terakhir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:55:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c9525d4939_1d055e7838.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APAI",
+  "tags": [
+   "APAI",
+   "PEFINDO",
+   "obligasi",
+   "peringkat kredit"
+  ],
+  "body": [
+   "PEFINDO menegaskan peringkat idAAA untuk PT Angkasa Pura Indonesia (Persero) atau APAI dengan prospek stabil, berlaku untuk periode 8 September 2026 hingga 1 September 2027. Peringkat idAAA adalah level tertinggi yang diberikan PEFINDO, menandakan kemampuan debitur memenuhi kewajiban utang jangka panjang dinilai paling baik dibanding penerbit utang lain di Indonesia. Sembilan instrumen surat utang dan sukuk yang diterbitkan APAI ikut mendapat peringkat setara, idAAA untuk obligasi dan idAAA(sy) untuk sukuk, dengan total nilai pokok sekitar Rp2,22 triliun. Rinciannya: Obligasi I Angkasa Pura I Tahun 2016 Seri C senilai Rp1,025 triliun jatuh tempo 22 November 2026, Obligasi Berkelanjutan I Tahap I 2021 Seri C senilai Rp280,4 miliar jatuh tempo 8 September 2028, Seri D senilai Rp497 miliar jatuh tempo 8 September 2031, Obligasi Berkelanjutan II Tahap I 2024 Seri A senilai Rp8,01 miliar jatuh tempo 5 Juli 2027, Seri B senilai Rp50 miliar jatuh tempo 5 Juli 2031, Seri C senilai Rp196,75 miliar jatuh tempo 5 Juli 2034, Sukuk Ijarah Berkelanjutan I Tahap I 2021 Seri C senilai Rp52 miliar jatuh tempo 8 September 2028, Seri D senilai Rp14 miliar jatuh tempo 8 September 2031, serta Sukuk Ijarah I Tahun 2016 Seri C senilai Rp96 miliar jatuh tempo 22 November 2026.",
+   "PEFINDO menyebut peringkat APAI terutama ditopang kemungkinan dukungan kuat dari induk usahanya, PT Aviasi Pariwisata Indonesia (Persero) atau InJourney, yang menguasai hampir 100 persen saham APAI, sementara Pemerintah Indonesia memegang dua lembar saham Dwiwarna. Secara mandiri, posisi APAI juga ditopang statusnya sebagai operator bandara terbesar di Indonesia dengan 37 bandara yang dikelola sejak perusahaan ini terbentuk dari penggabungan dua operator bandara milik negara pada September 2024. PEFINDO mencatat peringkat bisa turun jika dukungan InJourney melemah secara signifikan atau kepentingan APAI bagi induknya menurun.",
+   "Berdasarkan laporan keuangan per Juni 2026 yang belum diaudit, total aset APAI tercatat Rp90,9 triliun, hampir sama dengan posisi akhir 2025 sebesar Rp90,5 triliun. Namun ekuitas turun dari Rp37,15 triliun pada akhir Desember 2025 menjadi Rp30,42 triliun per Juni 2026, sementara total utang berbunga naik dari Rp41,87 triliun menjadi Rp42,35 triliun. Rasio utang terhadap ekuitas naik dari 1,1 kali menjadi 1,4 kali dalam periode tersebut. Laba bersih semester pertama 2026 tercatat Rp619,2 miliar, jauh di bawah laju laba bersih setahun penuh 2025 yang mencapai Rp7,86 triliun.",
+   "Sesuai POJK Nomor 24/POJK.04/2021, APAI wajib melaporkan ke PEFINDO setiap informasi atau fakta material yang dapat memengaruhi hasil pemeringkatan paling lambat dua hari kerja sejak kejadian itu muncul. Sejak 2023, peringkat APAI konsisten berada di level idAAA dengan prospek stabil, naik dari idAA+ pada 2022. Hasil pemantauan ini juga disampaikan APAI kepada OJK dan Bursa Efek Indonesia pada 10 September 2026."
+  ],
+  "fotoAdegan": "Aircraft taxiing past a modern airport terminal building with ground crew and baggage carts, early morning light",
+  "takeaway": "Laporan ini netral bagi APAI: peringkat kredit tertingginya dipertahankan tanpa perubahan, tapi angka di baliknya menunjukkan tren yang layak dicermati, bukan kabar buruk mendadak. Yang tersentuh adalah ekuitas dan rasio utang terhadap ekuitas, ekuitas adalah selisih antara aset dan utang perusahaan yang mencerminkan kekayaan bersihnya, dan dalam enam bulan angka ini susut Rp6,7 triliun sementara utang berbunga justru naik, sehingga rasio utang terhadap ekuitas melompat dari 1,1 kali ke 1,4 kali, ukuran yang dipantau investor obligasi karena makin tinggi rasionya makin besar beban utang dibanding modal sendiri perusahaan. Laba bersih semester pertama 2026 juga jauh di bawah laju tahun lalu, meski PEFINDO tetap memberi peringkat tertinggi karena mengandalkan dukungan kuat dari InJourney selaku pemegang saham mayoritas. Yang perlu dipantau berikutnya adalah laporan keuangan audit akhir tahun 2026 untuk melihat apakah penyusutan ekuitas ini berlanjut, serta pemantauan tahunan PEFINDO berikutnya sebelum masa berlaku peringkat ini berakhir pada 1 September 2027.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ekad-ungkap-fujian-kuasai-51-saham-eip-susut-ke-31",
+  "category": "Aksi Korporasi",
+  "title": "EKAD Ungkap Fujian Kuasai [51%] Saham, EIP Susut ke 31%",
+  "deck": "Ekadharma International (EKAD) merinci ke Bursa struktur kepemilikan baru pascaakuisisi oleh Fujian Youjia, sementara harga pembelian saham masih belum ditetapkan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:26:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8bbf5a4d99_7859c60970.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EKAD",
+  "tags": [
+   "EKAD",
+   "akuisisi",
+   "Fujian Youjia",
+   "pengendali saham"
+  ],
+  "body": [
+   "PT Ekadharma International Tbk (EKAD) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait rencana pengambilalihan sahamnya oleh Fujian Youjia Adhesive Tape Group Co., Ltd, perusahaan asal Provinsi Fujian, China. Surat tertanggal 2 September 2026 ini merupakan tanggapan atas permintaan Bursa nomor S-10743/BEI.PP3/08-2026 tanggal 13 Agustus 2026, setelah EKAD sempat menerima Peringatan Tertulis 1 dari Bursa karena terlambat menanggapi permintaan tersebut. Perusahaan menegaskan harga pengambilalihan per saham belum ditetapkan dan baru akan disepakati melalui negosiasi berdasarkan laporan penilai independen, dengan harga final diumumkan saat penandatanganan perjanjian akuisisi definitif yang ditargetkan pada kuartal IV 2026. Jika harga akhir ternyata lebih rendah dari harga penutupan saham EKAD pada 12 Agustus 2026, perusahaan berjanji menjelaskan alasannya secara rinci, merujuk pada kondisi pasar, nilai aset bersih per saham, hasil penilaian, dan transaksi sebanding di industri.",
+   "Dokumen ini juga merinci perubahan struktur kepemilikan saham EKAD. Dari total 3.493.875.000 saham beredar, PT Ekadharma International Persada (EIP) saat ini menguasai 2.874.012.300 saham atau 82,26 persen dan berstatus pengendali. Setelah transaksi rampung, kepemilikan EIP akan menyusut menjadi 1.092.136.050 saham atau 31,26 persen, sementara Fujian Youjia akan memegang 1.781.876.250 saham atau 51 persen dan menjadi pengendali baru. Kepemilikan pemegang saham publik di bawah 5 persen praktis tidak berubah, yakni 31.991.275 saham dalam bentuk warkat dan 587.871.425 saham nonwarkat. Fujian Youjia sendiri dimiliki oleh enam individu, yakni Lin Kexing, Lin Kebo, Lin Keping, Lin Youjie, Lin Yi, dan Lin Kehua, yang masing-masing memegang sekitar 16,665 persen dari total 605 juta saham Fujian Youjia dan secara bersama bertindak sebagai pengendali sekaligus pemilik manfaat perusahaan itu.",
+   "Fujian Youjia berdiri sejak 1986 dan bergerak di manufaktur serta penjualan produk plastik, kertas, kemasan, dan karet, sebagai bagian dari Fujian Youjia Group yang mengoperasikan 20 basis produksi di berbagai provinsi China dan memasarkan produk ke lebih dari 80 negara. Dari sisi keuangan, aset Fujian Youjia tumbuh dari sekitar RMB3,28 miliar pada 2021 menjadi RMB6,49 miliar per Juni 2026, dan ekuitas naik dari RMB1,34 miliar menjadi RMB3,06 miliar pada periode yang sama. Namun laba bersihnya justru menurun, dari RMB231,73 juta pada 2021 menjadi RMB171,30 juta pada 2025, sebelum tercatat RMB86,95 juta pada semester pertama 2026. Perusahaan China ini menyatakan belum memulai uji tuntas atas EKAD dan akan memutuskan waktu pelaksanaannya setelah menyelesaikan penilaian awal, serta menegaskan tidak sedang terlibat sengketa hukum maupun kesulitan keuangan.",
+   "Soal rencana ke depan, EKAD memastikan tidak ada perubahan kegiatan usaha utama maupun kebijakan dividen pascaakuisisi. Fujian Youjia berencana menambah personel manajemen tingkat menengah hingga senior namun berupaya mempertahankan stabilitas tim manajemen yang ada, dan menyatakan tidak berniat mengurangi kepemilikan sahamnya dalam 10 tahun ke depan sehingga status pengendali tetap di tangannya. Setelah proses transfer saham dan persetujuan regulator selesai, termasuk implementasi transfer dalam 10 hari kerja setelah semua izin diperoleh, Fujian Youjia wajib melaksanakan penawaran tender kepada pemegang saham publik sesuai jangka waktu yang ditetapkan OJK. Perusahaan menyebut belum ada lembaga penunjang pasar modal yang ditunjuk untuk proses tersebut dan tidak ada rencana aksi korporasi lain dalam 12 bulan mendatang."
+  ],
+  "fotoAdegan": "Factory workers monitoring large rolls of adhesive tape moving through coating machinery on a production floor, industrial lighting",
+  "takeaway": "Laporan ini netral bagi gambaran fundamental EKAD karena poin paling menentukan, yaitu harga pengambilalihan per saham dan hasil uji tuntas, masih belum ditentukan, meski perusahaan memastikan bisnis utama dan kebijakan dividen tidak berubah. Yang tersentuh adalah struktur kepemilikan pengendali, bukan jumlah saham beredar: total saham EKAD tetap 3,49 miliar lembar sehingga tidak ada dilusi laba per saham, tetapi kendali perusahaan berpindah dari EIP, yang porsinya turun dari 82,26 persen menjadi 31,26 persen, ke Fujian Youjia yang akan memegang 51 persen. Pemodal juga perlu tahu bahwa laba bersih Fujian Youjia turun sekitar 27 persen pada 2025 dibanding tahun sebelumnya, sebuah sinyal yang perlu diperhitungkan saat menilai kapasitas keuangan pengendali baru. Yang perlu dipantau berikutnya adalah penandatanganan perjanjian akuisisi definitif yang ditargetkan pada kuartal IV 2026 sekaligus pengumuman harga final, serta jadwal penawaran tender wajib, yaitu kewajiban Fujian Youjia membeli saham milik pemegang saham publik yang tersisa, yang baru dimulai setelah proses transfer saham dan persetujuan regulator rampung.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "swat-penjualan-anjlok-63-ekuitas-tergerus-79-di-2025",
+  "category": "Aksi Korporasi",
+  "title": "SWAT: Penjualan Anjlok 63%, [Ekuitas] Tergerus 79% di 2025",
+  "deck": "Materi public expose tahunan SWAT menunjukkan penjualan 2025 turun 63 persen dan ekuitas tergerus 79 persen menjadi Rp12,46 miliar, meski rugi bersih menyempit dibanding 2024.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:05:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1365af1381_8bd3b81d48.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "public expose",
+   "kinerja keuangan",
+   "laporan tahunan"
+  ],
+  "body": [
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan materi paparan publik tahunan periode laporan 2025 kepada Bursa Efek Indonesia, menindaklanjuti surat rencana public expose yang sudah diajukan sebelumnya pada 31 Agustus 2026. Agenda paparan publik dijadwalkan berlangsung di Solo pada 11 September 2026, menampilkan jajaran manajemen yang terdiri dari Direktur Utama Shio Alim Susanto, Direktur Nosijanto Setyo Suheri, Direktur Yan Ginarsatwardi, Komisaris Utama Sri Hetty Turinani, dan Komisaris Independen Tetty Rosa Ria Indah. Materi itu juga mencantumkan struktur pemegang saham Perseroan, yaitu PT Sumber Makmur Lumintu menguasai 77,22 persen, Shio Alim Susanto 11,78 persen, publik 10,98 persen, dan Yan Ginarsatwardi 0,02 persen.",
+   "Materi tersebut memaparkan penjualan neto Perseroan pada 2025 tercatat Rp65,23 miliar, anjlok 63,04 persen atau berkurang Rp111,26 miliar dibandingkan 2024 yang mencapai Rp176,49 miliar. Perseroan menyebut penurunan ini dipengaruhi kondisi pasar yang melemah. Berdasarkan rincian produk, penjualan kertas corrugated turun dari Rp164,49 miliar menjadi Rp55,95 miliar dan penjualan paper cone anjlok dari Rp6,21 miliar menjadi hanya Rp24,53 juta, sementara penjualan kertas cheise justru naik dari Rp584,72 juta menjadi Rp7,67 miliar.",
+   "Meski penjualan merosot, rugi kotor Perseroan pada 2025 membaik 30,28 persen menjadi Rp38,83 miliar dari Rp55,68 miliar pada 2024, karena penurunan beban pokok penjualan lebih besar dibanding penurunan penjualan. Rugi tahun berjalan juga menyempit 65,78 persen menjadi Rp48,83 miliar dari Rp142,67 miliar, terutama akibat berkurangnya beban pajak tangguhan, transportasi, dan gaji. Namun total ekuitas Perseroan anjlok 79,52 persen menjadi tinggal Rp12,46 miliar dari Rp60,85 miliar akibat akumulasi rugi komprehensif, sementara total liabilitas hanya turun 9,16 persen menjadi Rp382,18 miliar dari Rp420,65 miliar. Total aset Perseroan turut menyusut 18,04 persen menjadi Rp394,64 miliar, dipengaruhi penurunan piutang usaha, persediaan, dan uang muka seiring melemahnya aktivitas operasional."
+  ],
+  "fotoAdegan": "Workers guiding large rolls of brown kraft paper along a conveyor belt inside a corrugated cardboard factory, dim industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi fundamental SWAT, karena penjualan ambruk 63 persen sepanjang 2025 dan ekuitas ambles 79,52 persen ke tinggal Rp12,46 miliar, jauh lebih kecil dibanding total utang perusahaan yang mencapai Rp382,18 miliar, meski rugi bersih tahun berjalan menyempit dibanding 2024. Ekuitas adalah selisih antara aset dan utang, semacam bantalan modal milik pemegang saham, dan kalau bantalan ini terus menipis sementara utang jauh lebih besar, ruang gerak perusahaan untuk menyerap kerugian lanjutan makin sempit. Penyempitan rugi tahun ini datang dari efisiensi beban operasional, bukan dari pemulihan penjualan, sehingga tren inti bisnisnya belum tentu membaik. Yang perlu dipantau adalah materi lengkap dan sesi tanya jawab dalam agenda paparan publik di Solo pada 11 September 2026, tempat manajemen kemungkinan menjelaskan strategi memulihkan penjualan setelah penurunan tajam tahun ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cani-koreksi-pengurus-komisaris-utama-beralih-ke-ang-kok-tian",
+  "category": "Aksi Korporasi",
+  "title": "CANI Koreksi Pengurus, [Komisaris Utama] Beralih ke Ang Kok Tian",
+  "deck": "CANI mengoreksi laporan perubahan pengurus: Ang Kok Tian jadi Komisaris Utama, Jansen Warokka jadi Komisaris Independen, menggantikan Richie Limson dan Heryanto Cokro yang mengundurkan diri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:04:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0204cc6ad_a2a932ae3e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CANI",
+  "tags": [
+   "CANI",
+   "Capitol Nusantara Indonesia",
+   "Komisaris Utama",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Capitol Nusantara Indonesia Tbk (CANI) mengoreksi laporan perubahan pengurus yang sebelumnya disampaikan pada 10 Juli 2026. Dalam koreksi yang diteken Direktur Jansen Warokka pada 10 September 2026, perseroan menegaskan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 23 April 2026 yang menyetujui pengunduran diri Richie Limson dari jabatan Komisaris Utama dan Heryanto Cokro dari jabatan Komisaris Independen.",
+   "Richie Limson mengajukan pengunduran diri melalui surat tertanggal 2 Februari 2026, yang sudah diumumkan ke Bursa Efek Indonesia pada 11 Februari 2026. Heryanto Cokro menyusul dengan surat pengunduran diri tertanggal 11 Maret 2026, yang diumumkan pada 12 Maret 2026. RUPSLB kemudian menyetujui usulan pemegang saham pengendali dan rekomendasi Komite Nominasi dan Remunerasi untuk mengangkat Ang Kok Tian, yang sebelumnya menjabat direktur, sebagai Komisaris Utama baru, serta Jansen Octaviannes Ricardo Warokka sebagai Komisaris Independen baru.",
+   "Dengan perubahan ini, susunan Direksi CANI menyusut menjadi dua orang, yaitu Ang Ah Nui sebagai Direktur Utama dan Yanuar Chayadi Wijaya sebagai Direktur, setelah Ang Kok Tian pindah ke jajaran komisaris. Sementara Dewan Komisaris kini diisi Ang Kok Tian sebagai Komisaris Utama dan Jansen Octaviannes Ricardo Warokka sebagai Komisaris Independen. Masa jabatan direksi dan komisaris baru ini berlaku sejak penutupan RUPSLB dan akan berakhir pada penutupan Rapat Umum Pemegang Saham Tahunan untuk tahun buku yang berakhir 30 Juni 2027, yang akan digelar pada 2027.",
+   "Berdasarkan akta notaris Christina Dwi Utami yang dilampirkan, RUPSLB tersebut dihadiri pemegang saham dan kuasanya yang mewakili 625.084.300 saham atau 75 persen dari total 833.440.000 saham dengan hak suara sah. Dua pemegang saham utama yang hadir adalah PT Anugrah Semesta Langgeng dengan 325.041.600 saham, diwakili Yanuar Chayadi Wijaya, dan PT Cipta Nusantara Abadi dengan 300.038.400 saham, diwakili Leong Yow Seng berdasarkan surat kuasa."
+  ],
+  "fotoAdegan": "A tugboat towing a barge along a busy Indonesian coastal shipping lane, overcast sky, distant port cranes",
+  "takeaway": "Laporan koreksi ini netral bagi fundamental Capitol Nusantara, karena pergantian komisaris cuma menegaskan ulang keputusan RUPSLB April lalu tanpa membawa angka baru soal keuangan atau kepemilikan saham. Yang berubah adalah struktur pengawasan internal: jumlah direktur menyusut dari tiga jadi dua orang setelah Ang Kok Tian pindah dari kursi direktur ke komisaris utama, sehingga keputusan operasional kini lebih terpusat di tangan Ang Ah Nui dan Yanuar Chayadi Wijaya. Kursi komisaris independen, yang tugasnya mengawasi manajemen demi kepentingan pemegang saham publik, juga berpindah tangan dari Heryanto Cokro ke Jansen Octaviannes Ricardo Warokka. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham Tahunan untuk tahun buku yang berakhir 30 Juni 2027, yang akan digelar pada 2027, karena di situlah masa jabatan direksi dan komisaris baru ini kembali dievaluasi.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "oliv-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
   "category": "Aksi Korporasi",
   "title": "OLIV Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",

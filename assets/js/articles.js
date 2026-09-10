@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
+  "category": "Global",
+  "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
+  "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T08:39:04.846Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7088/indonesia-dorong-reimajinasi-pembangunan-konektivitas-dan-langkah-langkah-transformatif-untuk-kemajuan-bersama",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "IMT-GT",
+   "Kemenko Perekonomian",
+   "Investasi",
+   "Sumatera"
+  ],
+  "body": [
+   "Indonesia resmi mengambil alih keketuaan Indonesia-Malaysia-Thailand Growth Triangle (IMT-GT) dari Thailand dalam Pertemuan Pejabat Tinggi ke-33 IMT-GT Senior Officials' Meeting di Medan, Sumatera Utara, Selasa (8/9). Pada kesempatan yang sama, Kementerian Koordinator Bidang Perekonomian membuka forum bisnis IMT-GT yang mempertemukan lebih dari 300 pelaku usaha dan investor dari Malaysia, Thailand, India, Jepang, dan Korea Selatan. Forum ini menjadi ajang bagi pelaku usaha di kawasan, termasuk Aceh dan Sumatera Utara, untuk menjajaki kerja sama bisnis lintas negara secara langsung.",
+   "Deputi Bidang Koordinasi Kerja Sama Ekonomi dan Investasi Kemenko Perekonomian Edi Prio Pambudi, yang memimpin sidang, menyatakan pertemuan ini mengevaluasi capaian Cetak Biru Implementasi IMT-GT periode 2022-2026 sekaligus mulai menyusun cetak biru baru untuk periode 2027-2031. Salah satu fokusnya adalah menyelaraskan proyek konektivitas fisik, seperti jalur pelayaran dan pelabuhan, dengan rencana pembangunan pemerintah daerah. Indonesia juga mendorong agar informasi soal program dan pembiayaan dari Asian Development Bank (ADB), termasuk untuk pengembangan kota hijau, lebih mudah diakses oleh pemerintah daerah.",
+   "Dalam forum bisnis, dua sesi panel membahas kerangka investasi lintas negara di kawasan IMT-GT serta penawaran aset korridor di Aceh dan Sumatera Utara untuk kemitraan usaha. Kegiatan business matching diarahkan untuk menerjemahkan kesepakatan antarpemerintah menjadi kesepakatan bisnis konkret, lengkap dengan mitra dan target waktu yang jelas. Hasil dari pertemuan pejabat tinggi ini akan dilaporkan ke Pertemuan Tingkat Menteri IMT-GT ke-32 yang digelar Kamis, 10 September 2026, di Medan, sebagai penutup rangkaian pertemuan yang berlangsung sejak 7 September."
+  ],
+  "fotoAdegan": "Container ships being loaded at a busy Sumatran seaport, cranes and stacked containers in early morning haze",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini adalah Indonesia resmi memegang kendali forum kerja sama ekonomi IMT-GT untuk periode mendatang, sekaligus mulai menyusun rencana kerja sama baru untuk 2027 sampai 2031 menggantikan rencana lama yang berakhir tahun ini. Yang terdampak langsung adalah pelaku usaha dan calon investor di Sumatera, khususnya Aceh dan Sumatera Utara, yang ditawarkan sebagai lokasi proyek kerja sama lewat forum bisnis yang mempertemukan lebih dari 300 pengusaha dari lima negara. Forum semacam ini biasanya baru menghasilkan niat awal kerja sama, bukan kesepakatan yang mengikat, sehingga arah paling realistis saat ini adalah pertemuan menjadi titik awal negosiasi, bukan hasil akhir. Yang akan menentukan apakah forum ini berlanjut jadi sesuatu yang konkret adalah Pertemuan Tingkat Menteri IMT-GT ke-32 yang berlangsung hari ini, 10 September 2026, di Medan, tempat hasil sidang pejabat tinggi ini dilaporkan dan biasanya diumumkan proyek atau kesepakatan yang disetujui.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Kewajiban Neto Luar Negeri RI [Turun] Jadi US$197,4 Miliar",
+  "deck": "Bank Indonesia mencatat kewajiban neto Posisi Investasi Internasional turun jadi US$197,4 miliar pada triwulan II 2026, dari US$223,0 miliar pada triwulan sebelumnya.",
+  "image": "assets/img/kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T08:36:25.698Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818526.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Posisi Investasi Internasional",
+   "Neraca Eksternal",
+   "Triwulan II 2026"
+  ],
+  "body": [
+   "Bank Indonesia melaporkan posisi kewajiban neto investasi asing Indonesia, yaitu selisih antara total kewajiban Indonesia kepada investor luar negeri dan aset yang dimiliki pihak domestik di luar negeri, turun menjadi US$197,4 miliar pada akhir triwulan II 2026. Angka ini lebih rendah dibandingkan US$223,0 miliar pada triwulan sebelumnya. Penurunan ini berarti semakin kecil ketergantungan neto Indonesia pada dana asing, sehingga menjadi salah satu penanda ketahanan ekonomi domestik menghadapi gejolak global.",
+   "Penurunan tersebut berasal dari dua arah. Kewajiban Indonesia kepada pihak luar negeri, yang disebut Kewajiban Finansial Luar Negeri (KFLN), turun 1,9 persen menjadi US$769,0 miliar dari US$783,7 miliar pada triwulan sebelumnya. Namun penurunan ini sebagian bukan karena investor asing menarik dana, sebab investasi langsung dan investasi portofolio dari luar negeri tetap mencatat surplus. Menurut Bank Indonesia, penurunan KFLN lebih banyak dipicu oleh turunnya nilai saham dan obligasi domestik milik asing serta oleh penguatan dolar AS terhadap Rupiah dan sebagian besar mata uang dunia, yang membuat nilai aset berdenominasi Rupiah menjadi lebih kecil ketika dihitung dalam dolar.",
+   "Di sisi lain, Aset Finansial Luar Negeri (AFLN), yaitu aset yang dimiliki pihak domestik di luar negeri, naik 1,9 persen menjadi US$571,5 miliar dari US$560,7 miliar pada triwulan sebelumnya. Kenaikan ini terutama berasal dari aset investasi lainnya, investasi langsung, dan investasi portofolio milik pihak Indonesia di luar negeri. Bank Indonesia juga mencatat rasio kewajiban neto terhadap total nilai perekonomian Indonesia mengecil dari 15,2 persen pada triwulan I 2026 menjadi 13,3 persen pada triwulan II 2026.",
+   "Bank Indonesia menyebut sebagian besar kewajiban Indonesia kepada pihak asing berbentuk investasi jangka panjang, terutama investasi langsung, yang dinilai lebih stabil dibanding dana jangka pendek yang mudah keluar masuk. Bank sentral menyatakan akan terus memantau dinamika ekonomi global yang bisa memengaruhi posisi ini, serta memperkuat koordinasi kebijakan dengan pemerintah dan otoritas terkait untuk menjaga ketahanan sektor eksternal."
+  ],
+  "fotoAdegan": "Aerial view of stacked shipping containers and loading cranes at a busy Jakarta port, hazy skyline in the distance",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_2712825/Cover-PII.jpg",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Perbaikan angka ini tidak seluruhnya berasal dari kondisi riil, karena sebagian disebabkan oleh menguatnya dolar AS terhadap Rupiah, yang membuat nilai saham dan obligasi domestik milik investor asing otomatis mengecil ketika dihitung dalam dolar, bukan karena investor menariknya. Investasi langsung dan portofolio dari luar negeri sendiri tetap mencatat surplus, sehingga minat investor terhadap Indonesia belum menunjukkan tanda melemah. Pihak yang paling terdampak dari mengecilnya rasio ini adalah ruang gerak pemerintah dan Bank Indonesia menghadapi gejolak global, karena kewajiban neto yang lebih kecil dibandingkan ukuran ekonomi berarti bantalan yang lebih tebal saat modal asing sewaktu-waktu keluar. Karena sebagian penurunan ini berasal dari efek nilai tukar, arah sebenarnya baru akan terlihat jelas dari data triwulan III 2026: jika Rupiah menguat kembali terhadap dolar, nilai kewajiban dalam dolar AS bisa naik lagi dan sebagian perbaikan ini bisa terkoreksi.",
+  "imageV": "mtva8o25"
+ },
+ {
   "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
   "category": "Aksi Korporasi",
   "title": "DMAS Proyeksi [Recurring Income] Rp300-400 Miliar Tahun Ini",
@@ -4359,7 +4414,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
   "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:23.936Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
@@ -4446,7 +4501,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
   "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:09.469Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7080/bersiap-untuk-implementasi-ieu-cepa-indonesia-dan-irlandia-gelar-dialog-strategis-untuk-perkuat-kerja-sama-ekonomi",
@@ -15265,7 +15320,7 @@ var ARTICLES = [
   "category": "Industri",
   "title": "Harga Patokan Ekspor Emas [Naik] 7,87 Persen per September",
   "deck": "Kementerian Perdagangan menaikkan Harga Patokan Ekspor emas 7,87 persen menjadi US$142.154,10 per kilogram untuk periode 1-14 September 2026, mengikuti kenaikan harga emas dunia.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-08-31T21:56:54.150Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/permintaan-emas-naik-kemendag-tetapkan-kenaikan-hpe-emas-di-periode-pertama-september-2026",

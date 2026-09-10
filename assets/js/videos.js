@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "YKMQnyptEhk",
+  "title": "Indonesia-Tiongkok Kerja Sama Membangun Perumahan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait bertemu Duta Besar Tiongkok untuk Indonesia membahas tindak lanjut kerja sama pembangunan perumahan kedua negara.",
+  "takeaway": "Kerja sama lintas negara di sektor perumahan ini berpotensi membuka peluang investasi dan proyek konstruksi baru bagi industri properti nasional.",
+  "terbit": "2026-09-10T08:42:46+00:00"
+ },
+ {
+  "id": "gY_d2mAeQU4",
+  "title": "BRI dan BSI Ditunjuk Siapkan Rekening Warga",
+  "category": "Perbankan",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto meminta masyarakat Indonesia memiliki rekening bank, dan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut BRI dan BSI ditunjuk menyiapkan rekening bagi warga.",
+  "takeaway": "Kebijakan ini menyangkut perluasan inklusi keuangan yang berdampak langsung pada industri perbankan dan penyaluran layanan keuangan ke masyarakat luas.",
+  "terbit": "2026-09-10T08:35:24+00:00"
+ },
+ {
   "id": "xxLrjG3tTXQ",
   "title": "Pemerintah Antisipasi Stok Beras Akibat Kekeringan",
   "category": "Makroekonomi",

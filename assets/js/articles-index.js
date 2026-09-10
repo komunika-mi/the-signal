@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
+  "category": "Global",
+  "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
+  "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
+  "date": "10 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IMT-GT",
+   "Kemenko Perekonomian",
+   "Investasi",
+   "Sumatera"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7088/indonesia-dorong-reimajinasi-pembangunan-konektivitas-dan-langkah-langkah-transformatif-untuk-kemajuan-bersama",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",
+  "category": "Makroekonomi",
+  "title": "Kewajiban Neto Luar Negeri RI [Turun] Jadi US$197,4 Miliar",
+  "deck": "Bank Indonesia mencatat kewajiban neto Posisi Investasi Internasional turun jadi US$197,4 miliar pada triwulan II 2026, dari US$223,0 miliar pada triwulan sebelumnya.",
+  "date": "10 September 2026",
+  "image": "assets/img/kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar.jpg",
+  "imageV": "mtva8o25",
+  "tags": [
+   "Bank Indonesia",
+   "Posisi Investasi Internasional",
+   "Neraca Eksternal",
+   "Triwulan II 2026"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
   "category": "Aksi Korporasi",
   "title": "DMAS Proyeksi [Recurring Income] Rp300-400 Miliar Tahun Ini",
@@ -2694,7 +2728,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
   "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
   "date": "8 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "investasi Rusia",
    "energi nuklir",
@@ -2742,7 +2776,7 @@ var ARTICLES = [
   "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
   "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
   "date": "8 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Indonesia-Irlandia",
@@ -6484,38 +6518,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464727-lps-gandeng-kadin-cari-investor-untuk-aset-bpr-bprs-dalam-proses-likuidari-sebesar-rp2-triliun"
- },
- {
-  "slug": "cbre-tanggapi-gugatan-wanprestasi-klaim-utang-vendor-lunas",
-  "category": "Aksi Korporasi",
-  "title": "CBRE Tanggapi Gugatan [Wanprestasi], Klaim Utang Vendor Lunas",
-  "deck": "CBRE menjawab gugatan wanprestasi soal tagihan perawatan kapal, mengaku sudah melunasi seluruh tagihan ke vendor dan tengah bernegosiasi mediasi dengan Navios Control Services.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "gugatan wanprestasi",
-   "keterbukaan informasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ca2d4d8625_fdce5abe6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-bisa-naik-kelas-lewat-pemanfaatan-ai",
-  "category": "UMKM",
-  "title": "UMKM Bisa [Naik Kelas] Lewat Pemanfaatan AI",
-  "deck": "AI bisa membantu UMKM tingkatkan pemasaran, layanan pelanggan, dan efisiensi operasional tanpa perlu teknologi mahal atau tenaga tambahan.",
-  "date": "3 September 2026",
-  "image": "assets/img/umkm-bisa-naik-kelas-lewat-pemanfaatan-ai.jpg",
-  "imageV": "mtlsg0n4",
-  "tags": [
-   "UMKM",
-   "AI",
-   "Digitalisasi",
-   "Pemasaran Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464723-strategi-umkm-naik-kelas-di-era-ai-mulai-dari-marketing-hingga-akses-modal"
  }
 ];

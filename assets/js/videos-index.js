@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "YKMQnyptEhk",
+  "title": "Indonesia-Tiongkok Kerja Sama Membangun Perumahan",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perumahan dan Kawasan Permukiman Maruarar Sirait bertemu Duta Besar Tiongkok untuk Indonesia membahas tindak lanjut kerja sama pembangunan perumahan kedua negara.",
+  "takeaway": "Kerja sama lintas negara di sektor perumahan ini berpotensi membuka peluang investasi dan proyek konstruksi baru bagi industri properti nasional."
+ },
+ {
+  "id": "gY_d2mAeQU4",
+  "title": "BRI dan BSI Ditunjuk Siapkan Rekening Warga",
+  "category": "Perbankan",
+  "program": "Kabar Merah Putih",
+  "summary": "Presiden Prabowo Subianto meminta masyarakat Indonesia memiliki rekening bank, dan Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut BRI dan BSI ditunjuk menyiapkan rekening bagi warga.",
+  "takeaway": "Kebijakan ini menyangkut perluasan inklusi keuangan yang berdampak langsung pada industri perbankan dan penyaluran layanan keuangan ke masyarakat luas."
+ },
+ {
   "id": "xxLrjG3tTXQ",
   "title": "Pemerintah Antisipasi Stok Beras Akibat Kekeringan",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
   "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik."
- },
- {
-  "id": "K-HCBg9XDVk",
-  "title": "Perpres Ojol Sangat Dinanti Driver, Apa Saja Isinya?",
-  "category": "Ketenagakerjaan",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Pemerintah dan DPR RI memasuki tahap akhir finalisasi Peraturan Presiden tentang perlindungan pekerja transportasi online, mencakup pengemudi penumpang serta kurir barang dan makanan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian hukum dan kesejahteraan jutaan pekerja di sektor ekonomi gig yang terus berkembang di Indonesia."
- },
- {
-  "id": "8MR2N8l3TyU",
-  "title": "BPS: Backlog Rumah Turun Jadi 9,29 Juta Keluarga",
-  "category": "Makroekonomi",
-  "program": "Ulas Utas",
-  "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
-  "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional."
  }
 ];

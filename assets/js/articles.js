@@ -240,7 +240,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah pergeseran ukuran keberhasilan IMT-GT, dari jumlah dokumen kerja sama menjadi penyelesaian nyata 92 proyek yang sudah berjalan, dengan delapan MoU bisnis baru dan satu MoU kelapa sawit sebagai bukti awal. Yang terdampak adalah pelaku usaha lintas batas di Sumatra, Semenanjung Malaysia, dan Thailand Selatan, terutama sektor sawit, beras, pariwisata, dan UMKM, serta pemerintah daerah yang kini diminta jadi eksekutor utama, bukan sekadar penerima proyek dari pusat. Angka pertumbuhan PDB per kapita, perdagangan, dan investasi yang dipaparkan dalam pertemuan ini adalah klaim capaian dari Kementerian sendiri, jadi lebih tepat dibaca sebagai catatan versi penyelenggara ketimbang angka yang sudah diverifikasi independen. Arahnya tampak menuju forum kerja sama yang lebih berorientasi hasil terukur ketimbang sekadar simbolis, dan itu akan terkonfirmasi lewat laporan progres 92 proyek serta cetak biru Implementation Blueprint 2027-2031 yang akan dibahas menjelang Pertemuan Tingkat Menteri ke-33 di Malaysia pada 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",
@@ -716,7 +716,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah Indonesia resmi memegang kendali forum kerja sama ekonomi IMT-GT untuk periode mendatang, sekaligus mulai menyusun rencana kerja sama baru untuk 2027 sampai 2031 menggantikan rencana lama yang berakhir tahun ini. Yang terdampak langsung adalah pelaku usaha dan calon investor di Sumatera, khususnya Aceh dan Sumatera Utara, yang ditawarkan sebagai lokasi proyek kerja sama lewat forum bisnis yang mempertemukan lebih dari 300 pengusaha dari lima negara. Forum semacam ini biasanya baru menghasilkan niat awal kerja sama, bukan kesepakatan yang mengikat, sehingga arah paling realistis saat ini adalah pertemuan menjadi titik awal negosiasi, bukan hasil akhir. Yang akan menentukan apakah forum ini berlanjut jadi sesuatu yang konkret adalah Pertemuan Tingkat Menteri IMT-GT ke-32 yang berlangsung hari ini, 10 September 2026, di Medan, tempat hasil sidang pejabat tinggi ini dilaporkan dan biasanya diumumkan proyek atau kesepakatan yang disetujui.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",

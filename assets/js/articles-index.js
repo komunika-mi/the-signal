@@ -85,6 +85,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik",
+  "category": "Energi",
+  "title": "Kadin Dorong Tambang RI Pakai [AI] Hadapi Tekanan Geopolitik",
+  "deck": "Kadin ESDM dan MIND ID mendorong perusahaan tambang mempercepat adopsi AI, elektrifikasi, dan efisiensi modal di tengah tekanan geopolitik dan harga komoditas yang bergejolak.",
+  "date": "10 September 2026",
+  "image": "assets/img/kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik.jpg",
+  "imageV": "mtvo1fcb",
+  "tags": [
+   "Kadin",
+   "Tambang",
+   "AI",
+   "ESDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466269-hadapi-geopolitik-dan-era-ai-kadin-paparkan-strategi-untuk-masa-depan-industri-tambang-indonesia"
+ },
+ {
   "slug": "mglv-wajib-gelar-public-expose-usai-disuspensi-cooling-down",
   "category": "Aksi Korporasi",
   "title": "MGLV Wajib Gelar Public Expose Usai Disuspensi [Cooling Down]",
@@ -6488,23 +6505,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf13a118f_dd6c282d76.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton",
-  "category": "Industri",
-  "title": "Ekspor Sawit [Turun] 28%, Stok CPO Nasional Naik ke 3,04 Juta Ton",
-  "deck": "Ekspor sawit Indonesia turun 28,14 persen pada Mei 2026, sementara stok CPO nasional naik ke 3,04 juta ton karena produksi dan konsumsi ikut melambat.",
-  "date": "4 September 2026",
-  "image": "assets/img/ekspor-sawit-turun-28-stok-cpo-nasional-naik-ke-3-04-juta-ton.jpg",
-  "imageV": "mtmjzzv3",
-  "tags": [
-   "sawit",
-   "CPO",
-   "ekspor",
-   "GAPKI"
-  ],
-  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
-  "sourceUrl": "https://gapki.id/news/2026/07/15/ekspor-sawit-turun-28-stok-cpo-nasional-capai-304-juta-ton/",
-  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
  }
 ];

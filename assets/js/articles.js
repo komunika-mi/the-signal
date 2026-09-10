@@ -136,6 +136,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik",
+  "category": "Energi",
+  "title": "Kadin Dorong Tambang RI Pakai [AI] Hadapi Tekanan Geopolitik",
+  "deck": "Kadin ESDM dan MIND ID mendorong perusahaan tambang mempercepat adopsi AI, elektrifikasi, dan efisiensi modal di tengah tekanan geopolitik dan harga komoditas yang bergejolak.",
+  "image": "assets/img/kadin-dorong-tambang-ri-pakai-ai-hadapi-tekanan-geopolitik.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:45:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466269-hadapi-geopolitik-dan-era-ai-kadin-paparkan-strategi-untuk-masa-depan-industri-tambang-indonesia",
+  "tags": [
+   "Kadin",
+   "Tambang",
+   "AI",
+   "ESDM"
+  ],
+  "body": [
+   "Kamar Dagang dan Industri (Kadin) Indonesia Bidang Energi dan Sumber Daya Mineral mendorong perusahaan tambang mempercepat efisiensi modal dan penggunaan teknologi, termasuk kecerdasan buatan atau AI, untuk menghadapi tekanan geopolitik global, perubahan biaya, dan tuntutan transformasi industri. Dorongan ini disampaikan dalam forum bertajuk The Next Chapter of Indonesian Mining yang digelar Kadin bersama Katadata di Jakarta, Rabu (9/9).",
+   "Wakil Ketua Umum Kadin Indonesia Bidang ESDM Aryo Djojohadikusumo mengatakan dinamika geopolitik ikut memengaruhi anggaran, proyeksi keuangan, dan ketahanan bisnis perusahaan tambang, salah satunya lewat perubahan harga dan ketersediaan bahan bakar. Menurutnya, perusahaan yang mampu bertahan adalah yang sudah lebih dulu mengantisipasi perubahan lewat inovasi, sehingga proyek yang dulunya sekadar percontohan kini berubah menjadi kebutuhan operasional sehari-hari.",
+   "Wakil Direktur Utama MIND ID Dany Amrul Ichdan menyoroti perlunya pergeseran dari sekadar mengandalkan kekayaan sumber daya alam menuju apa yang ia sebut keunggulan berbasis kecerdasan, dengan AI sebagai salah satu alat untuk mendongkrak skala ekonomi, produktivitas, dan daya saing industri tambang. Ia menegaskan penerapan AI harus menjawab kebutuhan operasional nyata di lapangan, bukan berhenti sebagai proyek uji coba tanpa dampak."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving extracted ore along a dusty road inside a vast open-pit mine, morning haze, distant excavators",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/10/6aa2a1f22e8c8-energy-insights-forum-bertajuk-the-next-chapter-of-indonesian-mining-growth-ai-capital-and-electrification-yang-digelar-kadin-indonesia-bidang-esdm-dan-katdata_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini baru arah strategi, bukan aturan atau target angka: Kadin ESDM dan MIND ID mendorong perusahaan tambang mempercepat pakai AI dan elektrifikasi, sambil lebih hati-hati mengatur belanja modal karena harga bahan bakar dan komoditas yang naik turun. Yang terdampak langsung adalah perusahaan tambang anggota Kadin dan BUMN pertambangan di bawah MIND ID, karena merekalah yang diminta mengubah cara kerja dan pos anggarannya. Forum ini belum menyebut target produksi, alokasi investasi, atau kebijakan ESDM yang mengikat, jadi belum bisa dipastikan apakah dorongan ini akan berlanjut jadi program konkret atau sekadar wacana forum. Yang perlu dipantau adalah apakah MIND ID atau Kementerian ESDM merilis rencana investasi maupun aturan spesifik soal elektrifikasi dan AI di sektor tambang dalam waktu dekat.",
+  "imageV": "mtvo1fcb"
+ },
+ {
   "slug": "mglv-wajib-gelar-public-expose-usai-disuspensi-cooling-down",
   "category": "Aksi Korporasi",
   "title": "MGLV Wajib Gelar Public Expose Usai Disuspensi [Cooling Down]",
@@ -187,7 +213,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah pergeseran ukuran keberhasilan IMT-GT, dari jumlah dokumen kerja sama menjadi penyelesaian nyata 92 proyek yang sudah berjalan, dengan delapan MoU bisnis baru dan satu MoU kelapa sawit sebagai bukti awal. Yang terdampak adalah pelaku usaha lintas batas di Sumatra, Semenanjung Malaysia, dan Thailand Selatan, terutama sektor sawit, beras, pariwisata, dan UMKM, serta pemerintah daerah yang kini diminta jadi eksekutor utama, bukan sekadar penerima proyek dari pusat. Angka pertumbuhan PDB per kapita, perdagangan, dan investasi yang dipaparkan dalam pertemuan ini adalah klaim capaian dari Kementerian sendiri, jadi lebih tepat dibaca sebagai catatan versi penyelenggara ketimbang angka yang sudah diverifikasi independen. Arahnya tampak menuju forum kerja sama yang lebih berorientasi hasil terukur ketimbang sekadar simbolis, dan itu akan terkonfirmasi lewat laporan progres 92 proyek serta cetak biru Implementation Blueprint 2027-2031 yang akan dibahas menjelang Pertemuan Tingkat Menteri ke-33 di Malaysia pada 2027.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",
@@ -663,7 +689,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah Indonesia resmi memegang kendali forum kerja sama ekonomi IMT-GT untuk periode mendatang, sekaligus mulai menyusun rencana kerja sama baru untuk 2027 sampai 2031 menggantikan rencana lama yang berakhir tahun ini. Yang terdampak langsung adalah pelaku usaha dan calon investor di Sumatera, khususnya Aceh dan Sumatera Utara, yang ditawarkan sebagai lokasi proyek kerja sama lewat forum bisnis yang mempertemukan lebih dari 300 pengusaha dari lima negara. Forum semacam ini biasanya baru menghasilkan niat awal kerja sama, bukan kesepakatan yang mengikat, sehingga arah paling realistis saat ini adalah pertemuan menjadi titik awal negosiasi, bukan hasil akhir. Yang akan menentukan apakah forum ini berlanjut jadi sesuatu yang konkret adalah Pertemuan Tingkat Menteri IMT-GT ke-32 yang berlangsung hari ini, 10 September 2026, di Medan, tempat hasil sidang pejabat tinggi ini dilaporkan dan biasanya diumumkan proyek atau kesepakatan yang disetujui.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",

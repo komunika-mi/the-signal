@@ -3,6 +3,189 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "oliv-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "OLIV Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham OLIV. Manajemen menjawab tidak ada informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T12:04:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6dac3d4e5e_210885e020.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OLIV",
+  "tags": [
+   "OLIV",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Atlas Nexus Group Tbk (OLIV) memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-11505/BEI.PP2/09-2026 tertanggal 9 September 2026 terkait volatilitas transaksi efek perseroan. Surat tanggapan bernomor 1009202601/BOD/ANG/IX/2026 dikirim pada 10 September 2026 pukul 12.04, ditandatangani oleh Stevany Putri selaku Corporate Secretary, dan ditujukan kepada Adi Pratomo Aryanto, Kepala Divisi Penilaian Perusahaan 2 BEI.",
+   "Dalam surat itu, manajemen menjawab enam pertanyaan standar dari bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai maupun harga efeknya, baik menurut POJK Nomor 31/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024, dan tidak memiliki rencana aksi korporasi tambahan yang akan berdampak pada pencatatan sahamnya dalam tiga bulan ke depan, di luar rencana yang sudah ditetapkan sejak awal tahun.",
+   "Terkait pertanyaan mengenai rencana pemegang saham pengendali, manajemen menyampaikan bahwa berdasarkan konfirmasi langsung, pemegang saham pengendali tidak memiliki rencana mengubah kepemilikan sahamnya yang akan berdampak material terhadap perseroan. Perseroan juga menegaskan tidak ada informasi, fakta, atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta stock brokerage floor with traders walking between desks, an out-of-focus glowing ticker board blurred in the background.",
+  "takeaway": "Laporan ini netral bagi OLIV karena isinya murni bantahan rutin, bukan pengungkapan hal baru yang mengubah kondisi keuangan perseroan. Permintaan penjelasan seperti ini muncul ketika Bursa mendeteksi pergerakan harga atau volume transaksi saham yang jauh di luar pola normalnya, dan bursa mewajibkan emiten mengonfirmasi apakah ada informasi tersembunyi yang memicu pergerakan tersebut, semata untuk melindungi investor dari spekulasi atau rumor yang tidak berdasar. Karena OLIV menyatakan tidak ada informasi material apa pun, baik dari internal perseroan maupun dari pemegang saham pengendali, tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh oleh laporan ini. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga sahamnya kembali memicu permintaan serupa dari BEI, serta apakah muncul keterbukaan informasi baru dalam tiga bulan ke depan seperti disebutkan perseroan sendiri dalam suratnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "reli-free-float-14-45-pendapatan-transaksi-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "RELI: Free Float 14,45%, [Pendapatan] Transaksi Naik 31%",
+  "deck": "Sesi tanya jawab public expose RELI mengungkap free float baru 14,45%, pendapatan transaksi semester I 2026 naik 31,22%, dan posisi market share di urutan 47-48.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:55:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9ed729c43_eeabbd53e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RELI",
+  "tags": [
+   "RELI",
+   "Public Expose",
+   "Free Float",
+   "Sekuritas"
+  ],
+  "body": [
+   "Reliance Sekuritas Indonesia Tbk (RELI) menyampaikan laporan hasil Public Expose Tahunan 2026 yang digelar 8 September 2026, dihadiri 83 peserta di luar jajaran manajemen dan karyawan perseroan, terdiri dari investor, media, dan masyarakat umum. Dalam sesi tanya jawab yang dipimpin Corporate Secretary Nurwati Tunggal, manajemen mengungkapkan bahwa porsi saham publik atau free float RELI per Agustus 2026 baru mencapai 14,45 persen berdasarkan data Biro Administrasi Efek, sementara ketentuan bursa mewajibkan minimal 15 persen. Dengan harga saham saat ini Rp555 dan kapitalisasi pasar sekitar Rp990 miliar, yang berarti masih di bawah Rp5 triliun, RELI mendapat kelonggaran waktu hingga 31 Maret 2029 untuk memenuhi batas minimum tersebut. Manajemen menyebut opsi yang mungkin ditempuh adalah penjualan sebagian saham dari pemegang saham afiliasi atau menarik lebih banyak investor publik lewat perbaikan kinerja.",
+   "Soal kinerja usaha, manajemen memaparkan bahwa pendapatan dari transaksi sepanjang semester I 2026 mencapai Rp8,74 miliar, naik 31,22 persen dibanding periode yang sama tahun sebelumnya. Sekitar 55 persen dari jumlah itu, atau sekitar Rp4,8 miliar, disumbang oleh RELItrade, aplikasi transaksi saham online milik perseroan, sementara sisanya berasal dari transaksi non-online, obligasi, dan reksa dana. Dari sisi persaingan, manajemen menyebut posisi RELI masih berada di urutan ke-47 hingga ke-48 dari sekitar 50 perusahaan sekuritas untuk transaksi saham.",
+   "Menjawab pertanyaan wartawan soal sepinya aktivitas penawaran umum saham di tahun 2026, manajemen menyatakan penerbitan efek bersifat ekuitas memang melambat akibat pembaruan aturan pasar modal, namun penerbitan obligasi masih cukup ramai. Perseroan menyebut strategi ke depan adalah memperketat proses due diligence dan kriteria seleksi terhadap calon emiten yang akan didampingi, sejalan dengan aturan baru yang menurut manajemen akan mengurasi kualitas perusahaan yang masuk bursa."
+  ],
+  "fotoAdegan": "Aerial view of Jakarta's Sudirman financial district skyscrapers at dusk, city lights glowing, busy traffic on the avenue below",
+  "takeaway": "Laporan ini netral bagi RELI, karena sekadar merekam sesi tanya jawab rutin tanpa aksi korporasi baru, meski isinya memuat dua sinyal yang saling menyeimbangkan, pendapatan transaksi yang tumbuh dan kepatuhan free float yang masih kurang. Pendapatan dari transaksi adalah bagian dari pos laba usaha perseroan, jadi kenaikan 31,22 persen jadi Rp8,74 miliar berarti bisnis inti RELI sedang tumbuh, sementara free float, yaitu porsi saham yang beredar bebas di tangan publik di luar pemegang saham pengendali, jadi indikator apakah sahamnya cukup likuid diperdagangkan dan sekaligus syarat wajib dari bursa. Yang perlu dipantau selanjutnya adalah apakah RELI mampu menaikkan free float dari 14,45 persen ke minimal 15 persen sebelum tenggat 31 Maret 2029, dan apakah tren kenaikan pendapatan transaksi ini berlanjut di laporan keuangan semester II 2026, mengingat laba bersih semester I 2026 sebelumnya justru tercatat turun tajam.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "irra-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "IRRA Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Itama Ranoraya (IRRA) menyatakan tidak ada informasi material, rencana aksi korporasi, atau perubahan kepemilikan pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:48:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9cae5e897_2160d2c13b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRRA",
+  "tags": [
+   "IRRA",
+   "Itama Ranoraya",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Itama Ranoraya Tbk (IRRA) mengirim surat penjelasan tertulis kepada Bursa Efek Indonesia setelah menerima permintaan klarifikasi lewat surat BEI nomor S-11506/BEI.PP2/09-2026 tertanggal 9 September 2026 perihal volatilitas transaksi efek perseroan. Jawaban perseroan tertuang dalam surat nomor 043/IRR/CS/Jkt/IX/2026 tertanggal 10 September 2026, ditandatangani oleh Corporate Secretary Viertin Maretson Lumban Tobing.",
+   "Dalam surat itu, IRRA menjawab enam poin yang diminta BEI. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek atau keputusan investasi pemodal, baik menurut POJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan Nomor I-E BEI. Perseroan juga menyebut tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang akan berdampak pada pencatatan sahamnya di bursa.",
+   "Untuk poin terakhir, perseroan menyatakan telah mengonfirmasi langsung kepada pemegang saham utama, dan sampai saat surat ini diterbitkan tidak ada rencana perubahan kepemilikan saham maupun tindakan korporasi lain yang dapat memengaruhi kepemilikan pemegang saham utama di IRRA dalam waktu dekat."
+  ],
+  "fotoAdegan": "Wide exterior view of a modern high-rise stock exchange building in Jakarta with pedestrians crossing the plaza, midday light.",
+  "takeaway": "Penjelasan ini bersifat netral bagi fundamental IRRA, karena isinya bantahan formal atas permintaan BEI, bukan konfirmasi peristiwa bisnis yang mengubah kondisi keuangan perusahaan. Karena tidak ada transaksi korporasi yang diungkapkan, pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham memang tidak tersentuh oleh surat ini, yang berubah hanya kepastian bahwa gejolak harga sahamnya, yang membuat BEI meminta klarifikasi, tidak dipicu kabar internal atau rencana aksi korporasi yang belum terbuka ke publik. Perseroan juga menyebut sudah mengonfirmasi langsung ke pemegang saham utama dan tidak ada rencana perubahan kepemilikan dalam waktu dekat, sehingga struktur pengendali saat ini dianggap tetap. Yang perlu dipantau berikutnya adalah apakah harga dan volume perdagangan saham IRRA kembali stabil setelah pernyataan ini terbit, serta apakah BEI akan meminta penjelasan ulang jika volatilitas transaksinya berlanjut dalam waktu dekat.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "wifi-baru-capai-1-85-juta-pelanggan-target-3-juta-fwa",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Baru Capai 1,85 Juta Pelanggan, Target 3 Juta [FWA]",
+  "deck": "Dalam public expose tahunan, manajemen WIFI memaparkan realisasi Capex Rp1 triliun semester I 2026 dari total anggaran Rp7 triliun, serta progres pelanggan FWA dan FTTH menuju target akhir tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:46:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7961d860b0_ebdbe5e1d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "Public Expose",
+   "Telekomunikasi",
+   "FWA"
+  ],
+  "body": [
+   "Paparan Publik (Public Expose) Tahunan 2026 PT Solusi Sinergi Digital Tbk (WIFI) berlangsung Senin, 7 September 2026, pukul 11.00 WIB, secara elektronik melalui platform Public Expose Live 2026 di situs IDX. Acara dihadiri 118 peserta di luar jajaran manajemen dan karyawan perseroan, dilanjutkan dengan konferensi pers yang diikuti 94 perwakilan media. Perseroan diwakili oleh Shannedy Ong, Direktur sekaligus Chief Commercial Officer yang juga menjabat Corporate Secretary, dan Olivia Simon, Head of Investor Relations. Materi yang disampaikan mencakup kinerja keuangan semester I 2026, perkembangan dua mesin pertumbuhan perseroan yaitu layanan internet rumahan berbasis sinyal radio IRA (5G FWA) dan layanan internet kabel fiber Starlite (FTTH), serta rencana bisnis ke depan.",
+   "Dari sisi keuangan, manajemen melaporkan margin EBITDA semester I 2026 mencapai 60,4 persen, angka yang menurut manajemen tergolong tinggi untuk bisnis internet rumahan dengan tarif pelanggan sekitar Rp100.000 hingga Rp250.000 per bulan. Perseroan menganggarkan belanja modal sekitar Rp7 triliun untuk tahun 2026, setelah merealisasikan sekitar Rp1 triliun pada semester pertama. Rinciannya, sekitar Rp1,5 triliun dialokasikan untuk menambah 2 juta home connect FTTH melalui anak usaha, sekitar Rp500 miliar untuk fiberisasi menara, dan sisanya untuk perangkat radio FWA serta pengembangan jaringan backbone dan penambahan kapasitas.",
+   "Soal pelanggan, manajemen menyebut jumlah pelanggan gabungan FWA dan FTTH baru mencapai sekitar 1,85 juta hingga semester I 2026, sementara target akhir tahun adalah sekitar 3 juta pelanggan FWA, 5.500 site FWA, dan 3,5 juta home pass FTTH. Seorang investor, Andre Sitompul, mempertanyakan pencapaian target itu karena penambahan pelanggan baru hingga Juni 2026 baru sekitar 500 ribu. Manajemen menjawab akan mengandalkan skema Rumah Sahabat IRA, yang sudah diikuti lebih dari 9.000 mitra terdaftar, serta kerja sama dengan perusahaan pembiayaan mikro untuk mempercepat penjualan. Manajemen juga mengakui kecepatan pembangunan jaringan sempat tak sesuai ekspektasi karena tingkat fiberisasi menara milik penyedia infrastruktur masih rendah, sehingga perseroan kini beralih membangun sendiri infrastruktur BTS melalui skema rooftop di rumah pelanggan dan lokasi mitra FTTH. Untuk 2027, perseroan menargetkan penambahan site FWA menjadi 9.000 lebih, atau tambahan kurang dari 4.000 site dari target 2026.",
+   "Perseroan juga meluncurkan produk Starlite Super dengan kecepatan hingga 2 Gbps seharga sekitar Rp250.000 per bulan, di samping Starlite Prime, sebagai upaya menaikkan kelas pelanggan yang butuh koneksi lebih cepat. Menjawab pertanyaan wartawan Bisnis.com soal kemungkinan aksi korporasi seperti rights issue atau akuisisi, manajemen menyatakan belum bisa mengungkapkan rencana apa pun untuk enam bulan ke depan dan akan mengumumkannya lewat keterbukaan informasi jika ada. Manajemen juga memastikan fokus bisnis ke depan tetap di sektor telekomunikasi pascadivestasi aset digital JDU, termasuk memperluas jaringan tulang punggung fiber optik dari Jawa ke Sumatra serta jaringan kabel laut yang menghubungkan Jawa Timur dengan Maluku dan Papua."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables on a utility pole in a residential Indonesian neighborhood, midday light, tools and gloves visible.",
+  "takeaway": "Laporan ini condong netral bagi WIFI: margin yang kuat menunjukkan model bisnisnya efisien, tapi realisasi pelanggan yang baru 1,85 juta dari target 3 juta di akhir tahun, ditambah pengakuan manajemen sendiri bahwa pembangunan jaringan sempat tertinggal dari rencana, menunjukkan ada jarak antara target dan capaian riil. Yang tersentuh di sini adalah margin EBITDA, yaitu perbandingan laba operasional sebelum bunga, pajak, dan penyusutan terhadap pendapatan, yang menurut manajemen bisa bertahan di kisaran 50 sampai 60 persen meski perseroan tengah membangun jaringan besar-besaran; belanja modal Rp7 triliun tahun ini juga berarti separuh lebih dari anggaran belanja masih harus dikeluarkan di sisa tahun setelah baru terealisasi Rp1 triliun pada semester pertama. Yang perlu dipantau adalah laporan kinerja kuartal III dan IV 2026, untuk melihat apakah penambahan pelanggan bisa mengejar target 3 juta pelanggan FWA dan 3,5 juta home pass FTTH di akhir tahun, serta apakah strategi deployment mandiri lewat rooftop benar mempercepat pembangunan site seperti yang dijanjikan manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pola-konfirmasi-rencana-pelepasan-26-saham-oleh-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "POLA konfirmasi rencana [pelepasan] 26% saham oleh pengendali",
+  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, Pool Advista Finance (POLA) menegaskan tidak ada info material baru, tapi membenarkan rencana pemegang saham pengendali melepas hingga 26% saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:44:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/435e1fcff8_2bd8c0e26c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLA",
+  "tags": [
+   "POLA",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "POOL"
+  ],
+  "body": [
+   "PT Pool Advista Finance Tbk (POLA) menjawab surat Bursa Efek Indonesia nomor S-11517/BEI.PP3/09-2026 tanggal 9 September 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Lewat surat nomor S.016/DIR.PAF/IX/2026 tertanggal sama, Direktur Nuryatun menyatakan perseroan belum dan/atau tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, sesuai POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menegaskan tidak memiliki rencana aksi korporasi baru dalam tiga bulan ke depan di luar yang sudah tercantum dalam Rencana Bisnis Tahunan yang dilaporkan ke OJK.",
+   "Namun untuk pertanyaan bursa soal aktivitas pemegang saham tertentu, perseroan membenarkan mengetahui rencana Pemegang Saham Pengendali (PSP), yaitu PT Pool Advista Indonesia Tbk (POOL), untuk melepas sebagian kepemilikan sahamnya di POLA hingga maksimal 26 persen. Rencana ini merujuk pada keterbukaan informasi POOL tanggal 19 Agustus 2025 dan belum berubah hingga surat ini terbit. Perseroan menegaskan pelepasan tersebut tidak akan mengubah status POOL sebagai pemegang saham pengendali POLA. Surat penjelasan ditandatangani Direktur Utama Ferry Junarso dan Direktur sekaligus Corporate Secretary Nuryatun."
+  ],
+  "fotoAdegan": "Wide low-angle view of a modern high-rise office tower in Jakarta's business district under soft morning light, no signage visible",
+  "takeaway": "Penjelasan ini condong negatif bagi persepsi pasar jangka pendek, karena menegaskan rencana pemegang saham pengendali melepas hingga 26 persen saham POLA masih berlaku, sebuah porsi yang cukup besar untuk bisa menambah pasokan saham di pasar. Yang tersentuh adalah komposisi kepemilikan saham dan potensi jumlah saham yang beredar bebas di pasar (float): jika pelepasan sebesar itu benar terjadi, pasokan saham di pasar bertambah sehingga bisa menekan harga dalam jangka pendek, meski status POOL sebagai pengendali POLA tidak berubah. Yang perlu dipantau berikutnya adalah kapan dan kepada siapa pelepasan 26 persen saham ini benar-benar direalisasikan, sebab sejak diumumkan pada 19 Agustus 2025 hingga surat ini terbit pada 9 September 2026, rencana tersebut tampaknya belum juga dieksekusi. Keterbukaan informasi lanjutan dari POOL maupun POLA akan menentukan dampak nyatanya terhadap struktur pemegang saham perseroan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "nayz-gelar-rupslb-tegaskan-pengendali-baru-saiko-consultancy",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Gelar RUPSLB, Tegaskan [Pengendali] Baru Saiko Consultancy",
+  "deck": "RUPSLB PT Hassana Boga Sejahtera Tbk pada 2 Oktober 2026 akan mengesahkan pengendali baru Saiko Consultancy Pte. Ltd. dan mengubah susunan direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:39:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97e382440c_d778bbccdb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NAYZ",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Hassana Boga Sejahtera",
+   "Saiko Consultancy"
+  ],
+  "body": [
+   "PT Hassana Boga Sejahtera Tbk (NAYZ) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 2 Oktober 2026, pukul 14.00 WIB di Aleesha Venue, Jl. Warung Sila No. 1, Cipedak, Jagakarsa, Jakarta Selatan. Pemanggilan resmi diterbitkan pada 10 September 2026 oleh Direktur Utama Dody Arifianto, menyusul pengumuman rencana RUPSLB yang sudah disampaikan pada 26 Agustus 2026. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan bursa pada Rabu, 9 September 2026.",
+   "Rapat akan membahas dua agenda. Pertama, persetujuan perubahan susunan anggota Direksi dan Dewan Komisaris Perseroan, yang menurut perusahaan diperlukan sesuai Peraturan OJK No. 33/POJK.04/2014 dan anggaran dasar Perseroan karena perubahan komposisi kedua organ itu wajib disetujui RUPS. Dokumen tidak merinci nama-nama direksi atau komisaris yang akan diganti maupun yang diusulkan menggantikan.",
+   "Kedua, RUPSLB akan menegaskan susunan pemegang saham Perseroan menyusul perubahan pemegang saham pengendali akibat transaksi pengambilalihan yang dilakukan oleh Saiko Consultancy Pte. Ltd., sebagaimana diatur dalam Peraturan OJK No. 9/POJK.04/2018 tentang Pengambilalihan Perusahaan Terbuka. Dokumen tidak mencantumkan nilai transaksi maupun persentase saham yang beralih tangan. Pemegang saham dapat hadir secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu pemberian deklarasi kehadiran, kuasa, dan suara elektronik paling lambat pukul 12.00 WIB pada Kamis, 1 Oktober 2026, sehari sebelum rapat digelar."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a conference hall before a corporate shareholders meeting, morning light through windows, no signage visible",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental Hassana Boga Sejahtera, karena dokumen memang mengonfirmasi adanya pengendali baru lewat pengambilalihan oleh Saiko Consultancy Pte. Ltd., tapi tidak mencantumkan berapa persen saham yang berpindah tangan atau berapa nilai transaksinya, sehingga besar kecilnya dampak belum bisa diukur dari sini. Yang tersentuh adalah struktur pengendali dan susunan direksi-komisaris, dua hal yang menentukan arah strategi dan siapa yang mengambil keputusan di perusahaan, sehingga pelaku pasar biasa mencermatinya meski belum ada angka finansial yang berubah. Yang perlu dipantau adalah hasil RUPSLB pada 2 Oktober 2026, termasuk nama-nama direksi dan komisaris baru yang disahkan serta rincian lebih lanjut soal transaksi pengambilalihan yang mendasari perubahan pengendali ini, yang biasanya baru terungkap dalam keterbukaan informasi terpisah.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "hdfa-pembiayaan-baru-turun-41-4-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "HDFA: Pembiayaan Baru [Turun 41,4%] di Semester I-2026",
+  "deck": "Public Expose Tahunan HDFA mengungkap pembiayaan baru semester I-2026 turun 41,4 persen yoy karena kehati-hatian di sektor tambang dan perkebunan yang mendominasi portofolio.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T11:18:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73c4041bda_8dcb9e0d96.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HDFA",
+  "tags": [
+   "HDFA",
+   "public expose",
+   "multifinance",
+   "pembiayaan"
+  ],
+  "body": [
+   "PT Radana Bhaskara Finance Tbk (HDFA) menggelar Public Expose Tahunan 2026 secara daring lewat Zoom pada Selasa, 8 September 2026, pukul 14.00 hingga 14.27 WIB. Acara dihadiri Direktur Utama Lim Eng Khim dan Direktur Setiawan Nurtjahja, serta diikuti 50 peserta publik di luar jajaran manajemen dan karyawan perseroan. Setelah pemaparan kondisi makroekonomi dan industri, kinerja operasional dan keuangan, mitra perbankan, serta strategi 2026, sesi berlanjut ke tanya jawab dengan peserta.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan bahwa laba bersih semester I-2026 ditopang implementasi rencana bisnis yang mengutamakan pembiayaan alat berat dan truk lewat skema Asset-based Financing, didampingi pembiayaan modal kerja. Tahun ini merupakan tahun keenam HDFA berfokus pada pembiayaan produktif. Namun total pembiayaan baru yang disalurkan hingga semester I-2026 tercatat Rp1,64 triliun, turun 41,4 persen dibanding periode yang sama tahun lalu. Manajemen menyebut penurunan ini disengaja, sebagai bagian dari strategi yang lebih selektif mengikuti kondisi pasar.",
+   "Manajemen menjelaskan sikap kehati-hatian itu muncul meski ekonomi Indonesia tumbuh solid 5,45 persen secara tahunan pada semester I-2026, capaian semester pertama tertinggi dalam lima tahun terakhir. Alasannya, hampir separuh portofolio pembiayaan HDFA terkonsentrasi di sektor tambang dan perkebunan, sementara harga komoditas seperti nikel, timah, dan CPO bergerak fluktuatif dan tertekan sepanjang 2026. Manajemen juga menyinggung rencana pemerintah menerbitkan aturan baru tata kelola ekspor batu bara dan kelapa sawit yang mulai berlaku bertahap sejak Juni 2026, serta wacana pajak atau bea keluar tambahan atas windfall profit batu bara dan nikel.",
+   "Soal daya saing di industri pembiayaan yang kompetitif, manajemen menyebut keunggulan HDFA sebagai pemain independen terletak pada kecepatan dan efisiensi proses penilaian pengajuan pembiayaan nasabah, ditopang tim bisnis dan analis kredit yang berpengalaman."
+  ],
+  "fotoAdegan": "Heavy excavators and dump trucks parked at a mining site under an overcast sky, workers inspecting machinery in the distance.",
+  "takeaway": "Laporan ini condong negatif bagi HDFA karena pembiayaan baru yang disalurkan anjlok 41,4 persen dibanding tahun lalu, justru saat ekonomi Indonesia sedang tumbuh solid, yang menunjukkan bisnis HDFA menyusut di tengah peluang pasar yang sebenarnya terbuka. Pos yang tersentuh adalah pertumbuhan pembiayaan, yaitu jumlah dana baru yang disalurkan ke nasabah, karena pos inilah yang nantinya berubah jadi pendapatan bunga dan laba perusahaan pembiayaan, sehingga penurunan tajam di sini biasanya jadi sinyal awal perlambatan pendapatan ke depan. Yang perlu dipantau berikutnya adalah apakah tren pembiayaan baru membaik pada laporan kuartal berikutnya, serta kepastian rencana pemerintah mengenakan pajak atau bea keluar tambahan atas windfall profit batu bara dan nikel, karena kebijakan itu langsung menyentuh sektor tambang dan perkebunan yang menjadi hampir separuh portofolio HDFA.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "10-produk-umkm-pangan-tembus-rak-ritel-aeon",
   "category": "UMKM",
   "title": "10 Produk UMKM Pangan [Tembus] Rak Ritel AEON",
@@ -83,6 +266,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini sebenarnya kecil, rupiah cuma melemah 2 poin atau 0,01 persen ke Rp17.513 per dolar AS pagi ini. Padahal dua hari sebelumnya rupiah baru saja menguat dari Rp17.618 menjadi Rp17.552, jadi pelemahan tipis ini lebih terlihat seperti jeda daripada pembalikan arah. Analis memperkirakan rupiah masih akan menguat sekitar 50 poin menuju Rp17.480, dengan alasan belanja masyarakat yang membaik dan survei keyakinan konsumen yang naik ke angka 118,5, tanda makin banyak orang optimistis dengan kondisi ekonominya sendiri. Kalau prediksi ini benar, yang paling merasakan dampaknya adalah importir dan perusahaan dengan utang dalam dolar, karena kurs yang lebih kuat membuat kewajiban mereka dalam rupiah jadi lebih ringan. Sinyal penguatan ini masih bertumpu pada data konsumsi satu bulan, jadi yang layak dicermati adalah apakah rilis penjualan ritel dan survei keyakinan konsumen Bank Indonesia periode berikutnya tetap menunjukkan tren yang sama atau justru melambat.",
   "imageV": "mtuzie35"
+ },
+ {
+  "slug": "rsch-bantah-ada-informasi-material-picu-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RSCH Bantah Ada Informasi Material Picu [Volatilitas] Saham",
+  "deck": "PT Charlie Hospital Semarang Tbk (RSCH) menjawab permintaan BEI dan menyatakan tidak ada informasi material di balik volatilitas transaksi sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T10:16:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a1b6645185_159668a09c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RSCH",
+  "tags": [
+   "RSCH",
+   "Charlie Hospital Semarang",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Charlie Hospital Semarang Tbk (RSCH) menyampaikan jawaban resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan nomor S-11501/BEI.PP3/09-2026 terkait volatilitas transaksi efek perseroan. Jawaban dituangkan dalam surat nomor 097/PTCH/SKLR-CORSEC/IX/2026 tertanggal 10 September 2026, ditandatangani Direktur Keuangan Sri Mulyaningsih dan ditujukan kepada Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan.",
+   "Dalam surat itu, perseroan menegaskan tidak memiliki informasi atau fakta material sesuai Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan III.2.1 Peraturan I-E BEI yang bisa memengaruhi harga saham atau keputusan investasi pemodal. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, serta belum memiliki rencana aksi korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa.",
+   "Menjawab poin keenam soal rencana pemegang saham utama, Sekretaris Perusahaan Nur Azizah menyatakan telah mengonfirmasi langsung kepada PT Wahyu Agung dan pemegang saham pendiri lainnya, dan tidak ada rencana mengubah kepemilikan saham mereka di RSCH dalam waktu dekat."
+  ],
+  "fotoAdegan": "Exterior of a modern private hospital building in a small Indonesian city, a few cars parked outside, midday light",
+  "takeaway": "Penjelasan ini condong netral bagi RSCH karena isinya seluruhnya penyangkalan standar, tidak ada pengakuan masalah maupun kabar baik yang mengubah pandangan atas kinerja perseroan. Surat semacam ini tidak menyentuh pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, karena isinya murni soal kepatuhan keterbukaan informasi, bukan angka keuangan, sehingga pelaku pasar tetap perlu memeriksa laporan keuangan resmi untuk menilai fundamental perseroan yang sebenarnya. Yang perlu dipantau berikutnya adalah apakah pernyataan tidak ada aksi korporasi dalam tiga bulan ke depan, kira kira hingga awal Desember 2026, tetap konsisten, dan apakah PT Wahyu Agung serta pemegang saham pendiri lain benar tidak mengubah kepemilikannya seperti dikonfirmasi lewat corporate secretary Nur Azizah. Bursa juga bisa meminta penjelasan lanjutan atau mengenakan status pemantauan khusus jika volatilitas harga saham RSCH berlanjut meski penjelasan ini sudah disampaikan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "jihd-buka-suara-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "JIHD Buka Suara soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, JIHD menyatakan tidak mengetahui informasi material di balik pergerakan sahamnya dan tidak berencana melakukan aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T10:04:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e2782fcea5_bea6a36acd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JIHD",
+  "tags": [
+   "JIHD",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Jakarta International Hotels & Development Tbk (JIHD) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia (BEI) terkait volatilitas transaksi sahamnya. Penjelasan ini menanggapi surat permintaan BEI bernomor S-11358/BEI.PP2/09-2026 yang meminta perseroan menjelaskan pergerakan transaksi efeknya yang dianggap tidak wajar. JIHD mengirim jawabannya melalui surat bernomor 0055/HIR-DIR/JIHD/IX/2026 tertanggal 10 September 2026, ditandatangani oleh Hendi Lukman selaku Corporate Secretary.",
+   "Dalam surat itu, JIHD menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun ketentuan III.2.1 Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui pertimbangan di balik transaksi yang dilakukan investor tertentu di pasar sekunder, sehingga tidak bisa menjelaskan aktivitas pemegang saham spesifik yang mungkin memicu pergerakan harga.",
+   "Terkait rencana ke depan, JIHD menegaskan tidak memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Perseroan juga menyatakan tidak ada informasi, fakta, atau kejadian penting lain yang material dan berpotensi memengaruhi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Facade of a large hotel building in central Jakarta at dusk, illuminated windows, busy street traffic streaking below",
+  "takeaway": "Surat ini netral bagi fundamental JIHD karena isinya sepenuhnya bantahan standar, tanpa data keuangan baru atau rencana konkret yang terungkap. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang tersentuh dalam dokumen ini, sebab suratnya murni prosedur kepatuhan menjawab permintaan bursa atas pergerakan harga saham yang dianggap tidak wajar, tanpa menyebut angka volume atau harga transaksi yang dipersoalkan. Yang perlu dipantau adalah apakah BEI akan mengenakan notasi khusus atau tindakan lain jika volatilitas saham JIHD berlanjut, serta apakah pernyataan perseroan bahwa tidak ada aksi korporasi benar-benar bertahan hingga sekitar Desember 2026, tiga bulan sejak surat ini terbit.",
+  "sentimen": "netral"
  },
  {
   "slug": "harga-pangan-10-september-cabai-rawit-merah-melonjak-10",

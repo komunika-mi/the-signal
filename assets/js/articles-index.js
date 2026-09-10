@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "oliv-tegaskan-tak-ada-info-material-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "OLIV Tegaskan Tak Ada Info Material di Balik [Volatilitas] Saham",
+  "deck": "BEI meminta penjelasan atas volatilitas transaksi saham OLIV. Manajemen menjawab tidak ada informasi material yang belum diungkap ke publik.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OLIV",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6dac3d4e5e_210885e020.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "reli-free-float-14-45-pendapatan-transaksi-naik-31",
+  "category": "Aksi Korporasi",
+  "title": "RELI: Free Float 14,45%, [Pendapatan] Transaksi Naik 31%",
+  "deck": "Sesi tanya jawab public expose RELI mengungkap free float baru 14,45%, pendapatan transaksi semester I 2026 naik 31,22%, dan posisi market share di urutan 47-48.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RELI",
+   "Public Expose",
+   "Free Float",
+   "Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9ed729c43_eeabbd53e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irra-tegaskan-tak-ada-info-material-soal-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "IRRA Tegaskan Tak Ada Info Material soal [Volatilitas] Saham",
+  "deck": "Merespons permintaan penjelasan BEI atas volatilitas transaksi sahamnya, Itama Ranoraya (IRRA) menyatakan tidak ada informasi material, rencana aksi korporasi, atau perubahan kepemilikan pemegang saham utama.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRRA",
+   "Itama Ranoraya",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e9cae5e897_2160d2c13b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wifi-baru-capai-1-85-juta-pelanggan-target-3-juta-fwa",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Baru Capai 1,85 Juta Pelanggan, Target 3 Juta [FWA]",
+  "deck": "Dalam public expose tahunan, manajemen WIFI memaparkan realisasi Capex Rp1 triliun semester I 2026 dari total anggaran Rp7 triliun, serta progres pelanggan FWA dan FTTH menuju target akhir tahun.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "Public Expose",
+   "Telekomunikasi",
+   "FWA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7961d860b0_ebdbe5e1d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pola-konfirmasi-rencana-pelepasan-26-saham-oleh-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "POLA konfirmasi rencana [pelepasan] 26% saham oleh pengendali",
+  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, Pool Advista Finance (POLA) menegaskan tidak ada info material baru, tapi membenarkan rencana pemegang saham pengendali melepas hingga 26% saham.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLA",
+   "volatilitas saham",
+   "pemegang saham pengendali",
+   "POOL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/435e1fcff8_2bd8c0e26c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nayz-gelar-rupslb-tegaskan-pengendali-baru-saiko-consultancy",
+  "category": "Aksi Korporasi",
+  "title": "NAYZ Gelar RUPSLB, Tegaskan [Pengendali] Baru Saiko Consultancy",
+  "deck": "RUPSLB PT Hassana Boga Sejahtera Tbk pada 2 Oktober 2026 akan mengesahkan pengendali baru Saiko Consultancy Pte. Ltd. dan mengubah susunan direksi-komisaris.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NAYZ",
+   "RUPSLB",
+   "Hassana Boga Sejahtera",
+   "Saiko Consultancy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97e382440c_d778bbccdb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hdfa-pembiayaan-baru-turun-41-4-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "HDFA: Pembiayaan Baru [Turun 41,4%] di Semester I-2026",
+  "deck": "Public Expose Tahunan HDFA mengungkap pembiayaan baru semester I-2026 turun 41,4 persen yoy karena kehati-hatian di sektor tambang dan perkebunan yang mendominasi portofolio.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HDFA",
+   "public expose",
+   "multifinance",
+   "pembiayaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/73c4041bda_8dcb9e0d96.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "10-produk-umkm-pangan-tembus-rak-ritel-aeon",
   "category": "UMKM",
   "title": "10 Produk UMKM Pangan [Tembus] Rak Ritel AEON",
@@ -56,6 +168,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466131-rupiah-melemah-di-rp17513-per-dolar-as-diprediksi-menguat-ditopang-konsumsi-domestik-dan-keyakinan-konsumen"
+ },
+ {
+  "slug": "rsch-bantah-ada-informasi-material-picu-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "RSCH Bantah Ada Informasi Material Picu [Volatilitas] Saham",
+  "deck": "PT Charlie Hospital Semarang Tbk (RSCH) menjawab permintaan BEI dan menyatakan tidak ada informasi material di balik volatilitas transaksi sahamnya.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RSCH",
+   "Charlie Hospital Semarang",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a1b6645185_159668a09c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jihd-buka-suara-soal-volatilitas-transaksi-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "JIHD Buka Suara soal [Volatilitas] Transaksi Sahamnya",
+  "deck": "Merespons permintaan Bursa Efek Indonesia, JIHD menyatakan tidak mengetahui informasi material di balik pergerakan sahamnya dan tidak berencana melakukan aksi korporasi dalam tiga bulan ke depan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JIHD",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e2782fcea5_bea6a36acd.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-pangan-10-september-cabai-rawit-merah-melonjak-10",
@@ -6377,150 +6521,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9703141db0_6342f2b625.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "krya-tanggapi-bei-soal-volatilitas-transaksi-kaji-aksi-korporasi",
-  "category": "Aksi Korporasi",
-  "title": "KRYA Tanggapi BEI soal [Volatilitas] Transaksi, Kaji Aksi Korporasi",
-  "deck": "KRYA menjawab surat BEI terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material baru namun mengaku tengah mengkaji kemungkinan aksi korporasi.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KRYA",
-   "volatilitas saham",
-   "BEI",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c3756911af_aa002fb9dc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heal-laba-semester-i-2026-turun-13-8-meski-pendapatan-naik",
-  "category": "Aksi Korporasi",
-  "title": "[HEAL] Laba Semester I 2026 Turun 13,8% Meski Pendapatan Naik",
-  "deck": "Materi public expose tahunan HEAL menunjukkan pendapatan semester I 2026 naik 6,5% jadi Rp3,61 triliun, sementara laba bersih turun 13,8% akibat ekspansi rumah sakit baru.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a246f5e783_7af0fa3db0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-bukukan-kontrak-baru-rp8-3-triliun-naik-118-yoy",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Bukukan Kontrak Baru [Rp8,3 Triliun], Naik 118% YoY",
-  "deck": "Perolehan kontrak baru ADHI Karya melonjak 118,4 persen secara tahunan menjadi Rp8,3 triliun hingga Juli 2026, didominasi proyek infrastruktur pemerintah.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "kontrak baru",
-   "konstruksi",
-   "infrastruktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af9a3b0ad5_56b827947f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcc-rombak-direksi-wing-megantoro-jadi-direktur-utama",
-  "category": "Aksi Korporasi",
-  "title": "IPCC Rombak Direksi, [Wing Megantoro] Jadi Direktur Utama",
-  "deck": "RUPSLB IPCC menyetujui pergantian direksi pada 3 September 2026: Wing Megantoro jadi Direktur Utama menggantikan Sugeng Mulyadi, posisi Direktur Komersial kosong.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCC",
-   "direksi",
-   "RUPSLB",
-   "pergantian pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/788d8078b6_2614520113.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "emas-bantah-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Bantah Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "EMAS menjawab surat Bursa soal volatilitas sahamnya: tak ada info material baru, meski pemegang saham MDKA disebut sempat beraktivitas atas kepemilikannya.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "Merdeka Gold Resources",
-   "MDKA",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/256d4957cb_32c1844e31.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-tanggapi-bei-pemegang-saham-utama-rencana-sell-down",
-  "category": "Aksi Korporasi",
-  "title": "TAPG Tanggapi BEI, Pemegang Saham Utama Rencana [Sell Down]",
-  "deck": "TAPG menyatakan tidak ada informasi material yang belum diungkap ke publik, namun pemegang saham utama berencana melepas sebagian saham demi memenuhi ketentuan free float bursa.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "CPO",
-   "free float",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6cf2e82f3a_283586f767.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "towr-bukukan-laba-rp1-86-triliun-naik-12-4-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "TOWR Bukukan Laba Rp1,86 Triliun, Naik [12,4%] di Semester I 2026",
-  "deck": "Materi Public Expose TOWR paruh pertama 2026: laba bersih naik 12,4 persen meski margin EBITDA menipis akibat penyesuaian harga sewa menara pasca merger XL Axiata dan Smartfren.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOWR",
-   "Sarana Menara Nusantara",
-   "Public Expose",
-   "Menara Telekomunikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5ce43226e3_6443bde092.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "life-gelar-public-expose-insidentil-usai-diminta-bursa",
-  "category": "Aksi Korporasi",
-  "title": "LIFE Gelar [Public Expose] Insidentil usai Diminta Bursa",
-  "deck": "LIFE akan menggelar Public Expose Insidentil pada 10 September 2026 atas permintaan Bursa Efek Indonesia, memaparkan kinerja, laporan keuangan terkini, dan rencana usaha.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIFE",
-   "public expose",
-   "MSIG Life",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36cb9c915f_1b2ae1debe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-tawarkan-formula-asean-ke-rusia",
-  "category": "Global",
-  "title": "Presiden Prabowo Tawarkan [Formula ASEAN] ke Rusia",
-  "deck": "Presiden Prabowo menawarkan pengalaman ASEAN membangun kerja sama lewat dialog kepada Rusia dan Uni Ekonomi Eurasia dalam pidato di Eastern Economic Forum, Vladivostok.",
-  "date": "3 September 2026",
-  "image": "assets/img/presiden-prabowo-tawarkan-formula-asean-ke-rusia.jpg",
-  "imageV": "mtlhty96",
-  "tags": [
-   "ASEAN",
-   "Rusia",
-   "EAEU",
-   "Eastern Economic Forum"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464675-di-hadapan-putin-prabowo-tawarkan-formula-asean-untuk-perluas-kerja-sama-rusia-ke-asia-tenggara"
  }
 ];

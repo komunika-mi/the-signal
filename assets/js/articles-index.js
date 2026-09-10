@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wsbp-gelar-rupslb-2-oktober-ratifikasi-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Gelar RUPSLB 2 Oktober, Ratifikasi [Konversi] Utang Jadi Saham",
+  "deck": "RUPSLB WSBP pada 2 Oktober 2026 akan meratifikasi konversi utang menjadi saham seri C bagi kreditur tertentu, bagian dari pelaksanaan Perjanjian Perdamaian restrukturisasi utang.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "Waskita Beton Precast"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/13cf38ea2f_2d03c38ad5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "relf-jawab-bursa-tak-ada-aksi-korporasi-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "RELF Jawab Bursa: Tak Ada Aksi Korporasi di Balik [Volatilitas]",
+  "deck": "RELF menjawab permintaan BEI soal volatilitas transaksi: tidak ada informasi material, tidak ada rencana aksi korporasi, dan komisaris pengendali tak berniat menambah saham.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RELF",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a1583e9d_60f10e18d5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-ungkap-rencana-bayar-obligasi-rp135-m-jatuh-tempo-november",
+  "category": "Aksi Korporasi",
+  "title": "LTLS ungkap rencana bayar [obligasi] Rp135 M jatuh tempo November",
+  "deck": "Dalam public expose 8 September 2026, manajemen Lautan Luas menjelaskan rencana pelunasan obligasi Rp135 miliar yang jatuh tempo November 2026 serta kondisi margin dan utang perseroan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "obligasi",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67d8732e5c_5a209db615.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "miti-lewat-wasesa-line-beli-4-kapal-rp22-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MITI Lewat Wasesa Line [Beli] 4 Kapal Rp22,75 Miliar",
+  "deck": "Anak usaha MITI, PT Wasesa Line, membeli tiga kapal tunda dan satu unit landing craft dari PT Imako Perkasa Lines senilai total Rp22,75 miliar dalam transaksi afiliasi.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MITI",
+   "transaksi afiliasi",
+   "pelayaran",
+   "kapal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d909d7e4ea_5ccfa5fb5f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
   "category": "Global",
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
@@ -37,6 +101,54 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818526.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "psab-kantongi-restu-esdm-rampungkan-akuisisi-jrbm",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Kantongi [Restu] ESDM, Rampungkan Akuisisi JRBM",
+  "deck": "Kementerian ESDM merestui perubahan pemegang saham JRBM, anak usaha PSAB. PT J Resources Nusantara kini menguasai 99,99 persen saham JRBM tanpa pemegang saham minoritas.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSAB",
+   "JRBM",
+   "tambang emas",
+   "konsolidasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c69f32f15_4b0a3e30c8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "scnp-bukukan-turnaround-laba-usaha-pendapatan-naik-41-7",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Bukukan [Turnaround] Laba Usaha, Pendapatan Naik 41,7%",
+  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, laba usaha berbalik untung Rp6,74 miliar dari rugi tahun lalu, dan dividen tunai Rp10 miliar telah dibayar penuh.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCNP",
+   "kinerja keuangan",
+   "dividen",
+   "ekspansi pabrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58606f5ee5_5d1a8a46ca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "halo-jawab-bei-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "HALO Jawab BEI: Tak Ada [Aksi Korporasi] di Balik Volatilitas Saham",
+  "deck": "HALO menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada aksi korporasi atau informasi material yang belum diungkap ke publik.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HALO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11aed3a178_705b5eb730.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
@@ -151,6 +263,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "lckm-disuspensi-bursa-imbas-ketidakpastian-usaha",
+  "category": "Aksi Korporasi",
+  "title": "LCKM [Disuspensi] Bursa Imbas Ketidakpastian Usaha",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham LCKM di seluruh pasar mulai sesi II Kamis, 10 September 2026, menyusul ketidakpastian kelangsungan usaha perseroan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCKM",
+   "suspensi saham",
+   "going concern",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5a671b8af_c3817c16cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekad-ungkap-fujian-kuasai-51-saham-eip-susut-ke-31",
   "category": "Aksi Korporasi",
   "title": "EKAD Ungkap Fujian Kuasai [51%] Saham, EIP Susut ke 31%",
@@ -196,6 +324,54 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f0204cc6ad_a2a932ae3e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dkhh-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DKHH Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab surat resmi Bursa Efek Indonesia soal volatilitas transaksi efeknya, direksi DKHH menegaskan tidak ada informasi material atau rencana aksi korporasi di baliknya.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DKHH",
+   "Cipta Sarana Medika",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de61cebc7_d9f9172b18.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smii-dana-obligasi-rp2-triliun-baru-49-9-tersalur-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SMII: Dana Obligasi Rp2 Triliun Baru 49,9% Tersalur [obligasi]",
+  "deck": "SMII melapor ke OJK: sukuk mudharabah Rp500 miliar sudah 100% tersalur, sementara obligasi Rp2 triliun baru 49,86% terpakai per Juli 2026, sisanya masih mengendap di deposito.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMII",
+   "obligasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc7ccb21ee_33bd2e2170.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agii-siapkan-dana-rp72-5-miliar-untuk-pelunasan-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "AGII Siapkan Dana Rp72,5 Miliar untuk [Pelunasan] Obligasi dan Sukuk",
+  "deck": "Samator Indo Gas Tbk menyatakan dana pelunasan pokok obligasi dan sukuk ijarah senilai total Rp72,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk ijarah",
+   "Samator Indo Gas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a8e33da7_497181d1d3.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6333,190 +6509,5 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
   "sourceUrl": "https://www.gaikindo.or.id/pameran-otomotif-giias-bandung-2026-jadwal-lokasi-harga-dan-cara-beli-tiket/",
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "fwct-saham-direksi-turun-hak-suara-susut-ke-80",
-  "category": "Aksi Korporasi",
-  "title": "FWCT: Saham Direksi Turun, [Hak Suara] Susut ke 80%",
-  "deck": "Direksi FWCT Indra Satriawan melaporkan sahamnya turun dari 88 jadi 85 lembar, sementara hak suaranya anjlok dari 100% menjadi 80% lewat eksekusi saham yang dijaminkan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FWCT",
-   "kepemilikan saham",
-   "direksi",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8642-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pengunjung-giias-surabaya-2026-rekor-naik-40-persen",
-  "category": "Industri",
-  "title": "Pengunjung GIIAS Surabaya 2026 [Rekor], Naik 40 Persen",
-  "deck": "GIIAS Surabaya 2026 ditutup dengan 45.763 pengunjung, naik lebih dari 40 persen dari tahun lalu, didukung 37 merek kendaraan dan area pameran seluas 15.000 meter persegi.",
-  "date": "4 September 2026",
-  "image": "assets/img/pengunjung-giias-surabaya-2026-rekor-naik-40-persen.jpg",
-  "imageV": "mtlyek5v",
-  "tags": [
-   "GIIAS",
-   "GAIKINDO",
-   "Otomotif",
-   "Jawa Timur"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/giias-surabaya-2026-cetak-rekor-jumlah-pengunjung-tertinggi/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut",
-  "category": "Industri",
-  "title": "GIIAS Bandung Digelar 9-13 September, [19] Merek Otomotif Ikut",
-  "deck": "GIIAS the Series 2026 singgah di Bandung pada 9-13 September dengan 19 merek kendaraan, menyasar pasar Jawa Barat yang menyumbang 15,1 persen penjualan mobil nasional hingga April 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/giias-bandung-digelar-9-13-september-19-merek-otomotif-ikut.jpg",
-  "imageV": "mtlyelg3",
-  "tags": [
-   "GIIAS",
-   "Otomotif",
-   "Jawa Barat",
-   "GAIKINDO"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/bandung-menjadi-tuan-rumah-giias-2026-dari-9-hingga-13-september-2026/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
- },
- {
-  "slug": "ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak",
-  "category": "Bisnis",
-  "title": "Ekspor Pala Naik ke US$133 Juta, tapi 25 Kali [Ditolak]",
-  "deck": "Nilai ekspor pala RI naik ke US$133 juta pada 2025 dan menguasai 53 persen pasar dunia, namun cemaran jamur menyebabkan 25 kasus penolakan produk di Jepang dan Uni Eropa sejak 2024.",
-  "date": "4 September 2026",
-  "image": "assets/img/ekspor-pala-naik-ke-us-133-juta-tapi-25-kali-ditolak.jpg",
-  "imageV": "mtlsfsda",
-  "tags": [
-   "Ekspor Pala",
-   "Kemendag",
-   "Uni Eropa",
-   "Jepang"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kuasai-separuh-pasokan-dunia-indonesia-dongkrak-mutu-pala-untuk-tembus-pasar-ekspor-premium",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-naikkan-insentif-likuiditas-bank-ke-6-persen",
-  "category": "Perbankan",
-  "title": "BI Naikkan Insentif Likuiditas Bank ke [6] Persen",
-  "deck": "Bank Indonesia menaikkan batas insentif KLM dari 5,5 ke 6,0 persen dari dana nasabah mulai September 2026, agar likuiditas bank lebih banyak mengalir ke UMKM.",
-  "date": "4 September 2026",
-  "image": "assets/img/bi-naikkan-insentif-likuiditas-bank-ke-6-persen.jpg",
-  "imageV": "mtlsfzmc",
-  "tags": [
-   "Bank Indonesia",
-   "KLM",
-   "likuiditas perbankan",
-   "UMKM"
-  ],
-  "kreditFoto": "Bank Indonesia",
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818026.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "diva-rugi-rp31-97-miliar-pendapatan-turun-19-9",
-  "category": "Aksi Korporasi",
-  "title": "DIVA [Rugi] Rp31,97 Miliar, Pendapatan Turun 19,9%",
-  "deck": "Menjawab permintaan penjelasan BEI, DIVA mengungkap rugi bersih Rp31,97 miliar per Juni 2026, pendapatan turun 19,9%, dan utang bank jangka pendek melonjak ke Rp40,59 miliar.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DIVA",
-   "rugi bersih",
-   "keterbukaan informasi BEI",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03355453c3_53a697aa70.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-ubah-utang-rp822-9-miliar-jadi-saham-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "MKNT ubah utang Rp822,9 miliar jadi saham [PMTHMETD]",
-  "deck": "MKNT menjawab pertanyaan Bursa soal rencana PMTHMETD, termasuk konversi utang Rp822,9 miliar ke saham baru dan RUPSLB 14 September 2026.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "restrukturisasi utang",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/64d76259fb_d466108f22.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smdr-koreksi-laporan-realisasi-dana-sukuk-rp700-m",
-  "category": "Aksi Korporasi",
-  "title": "SMDR [Koreksi] Laporan Realisasi Dana Sukuk Rp700 M",
-  "deck": "SMDR mengoreksi laporan realisasi dana sukuk Rp700 miliar menanggapi telaah OJK. Dana bersih Rp694,23 miliar tercatat masih 100 persen belum terpakai per 30 Juni 2026.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMDR",
-   "Samudera Indonesia",
-   "sukuk",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ff93d4acc1_491190cf92.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jawab-bursa-ungkap-rencana-akuisisi-senilai-rp23-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jawab Bursa, Ungkap Rencana [Akuisisi] Senilai Rp23 Triliun",
-  "deck": "BIKE merespons permintaan penjelasan Bursa soal volatilitas transaksi dan mengungkap rencana RUPS untuk modal Rp1 triliun serta akuisisi dua anak usaha.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "RUPS",
-   "akuisisi",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00f4d2926e_d980953634.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "blog-bukukan-laba-rp78-m-di-1h26-liabilitas-melonjak-24",
-  "category": "Aksi Korporasi",
-  "title": "BLOG Bukukan Laba Rp78 M di 1H26, [Liabilitas] Melonjak 24%",
-  "deck": "Pendapatan BLOG naik 17 persen di semester satu 2026, tapi ekspansi 16 lokasi cold storage lebih banyak dibiayai utang baru dibanding modal sendiri, sementara margin laba menipis.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "logistik",
-   "cold chain",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a8bce249e2_443cc17f94.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lps-gandeng-kadin-cari-investor-aset-bpr-bprs",
-  "category": "Perbankan",
-  "title": "LPS Gandeng Kadin Cari [Investor] Aset BPR-BPRS",
-  "deck": "LPS menjajaki kerja sama dengan Kadin DKI Jakarta untuk mempertemukan investor dengan BPR-BPRS yang tengah disehatkan, dengan harapan meluas ke Kadin daerah lain.",
-  "date": "3 September 2026",
-  "image": "assets/img/lps-gandeng-kadin-cari-investor-aset-bpr-bprs.jpg",
-  "imageV": "mtlsg074",
-  "tags": [
-   "LPS",
-   "Kadin",
-   "BPR-BPRS",
-   "investor perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464727-lps-gandeng-kadin-cari-investor-untuk-aset-bpr-bprs-dalam-proses-likuidari-sebesar-rp2-triliun"
  }
 ];

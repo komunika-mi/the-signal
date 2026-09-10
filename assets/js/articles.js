@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wsbp-gelar-rupslb-2-oktober-ratifikasi-konversi-utang-jadi-saham",
+  "category": "Aksi Korporasi",
+  "title": "WSBP Gelar RUPSLB 2 Oktober, Ratifikasi [Konversi] Utang Jadi Saham",
+  "deck": "RUPSLB WSBP pada 2 Oktober 2026 akan meratifikasi konversi utang menjadi saham seri C bagi kreditur tertentu, bagian dari pelaksanaan Perjanjian Perdamaian restrukturisasi utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T16:55:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/13cf38ea2f_2d03c38ad5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSBP",
+  "tags": [
+   "WSBP",
+   "RUPSLB",
+   "restrukturisasi utang",
+   "Waskita Beton Precast"
+  ],
+  "body": [
+   "PT Waskita Beton Precast Tbk (WSBP) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Jumat, 2 Oktober 2026 pukul 14.00 WIB di Auditorium Lantai 11 Gedung Waskita Karya, Jalan MT Haryono Kav 10, Jakarta Timur. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 9 September 2026 pukul 16.00 WIB. Pemanggilan disampaikan ke Otoritas Jasa Keuangan oleh Direktur Keuangan, HCM, dan Manajemen Risiko WSBP, Koento Wahyudiat, sementara dokumen pemanggilan ditandatangani Corporate Secretary Fandy Dewanto.",
+   "Rapat membawa empat agenda. Tiga di antaranya, yaitu agenda kedua hingga keempat, meminta pemegang saham mengukuhkan atau meratifikasi keputusan RUPSLB 30 Juni 2023 dan RUPST 22 Mei 2025 mengenai konversi utang perseroan menjadi ekuitas kepada kreditur tertentu dalam golongan Tranche D. Perusahaan menjelaskan agenda ini diperlukan untuk menyesuaikan jumlah penyelesaian utang serta jumlah saham biasa seri C yang diterbitkan, sekaligus mengubah Pasal 4 ayat 2 dan 3 Anggaran Dasar terkait modal disetor dan ditempatkan. Skema ini dijalankan lewat Peningkatan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), sebagai implementasi Pasal 4.5 Perjanjian Perdamaian yang mengatur penyelesaian utang dagang kepada kreditur tertentu yang klaimnya masih memerlukan proses verifikasi dan kelengkapan persyaratan lebih lanjut.",
+   "Agenda pertama meminta persetujuan pendelegasian kewenangan dari RUPS kepada pihak yang ditunjuk untuk menyetujui Rencana Jangka Panjang Perusahaan (RJPP) 2027-2031 dan Rencana Kerja dan Anggaran Perusahaan (RKAP) 2027 beserta perubahannya. Perseroan menyebut agenda ini dijalankan untuk memenuhi Undang-Undang Nomor 16 Tahun 2025 tentang Perubahan Keempat UU BUMN, yang mensyaratkan RKAP dan RJPP disetujui dalam RUPS.",
+   "Pemegang saham dapat hadir secara fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu pemberian kuasa elektronik (e-proxy) dan deklarasi suara paling lambat pukul 12.00 WIB pada 1 Oktober 2026, satu hari kerja sebelum rapat. Bahan rapat tersedia dalam bentuk dokumen elektronik di situs web perseroan sejak tanggal pemanggilan hingga hari pelaksanaan RUPSLB."
+  ],
+  "fotoAdegan": "Precast concrete beams stacked in an open-air factory yard, workers in hard hats inspecting molds, industrial cranes overhead",
+  "takeaway": "Laporan ini netral bagi WSBP karena isinya memformalkan keputusan restrukturisasi utang yang sebenarnya sudah disetujui pemegang saham pada 2023 dan 2025, bukan kebijakan baru yang mengubah kondisi keuangan perusahaan saat ini. Yang tersentuh adalah ekuitas dan jumlah saham beredar, sebab konversi utang menjadi saham seri C lewat skema tanpa hak memesan efek terlebih dahulu berarti utang perusahaan ke kreditur tertentu berkurang, tapi pemegang saham lama tidak diberi kesempatan membeli saham baru secara proporsional sehingga porsi kepemilikan mereka bisa mengecil dan laba per saham berpotensi terdilusi. RUPSLB ini digelar tidak lama setelah PEFINDO merevisi prospek peringkat utang WSBP menjadi negatif, sehingga proses konversi utang ini masuk dalam rangkaian upaya perusahaan menekan beban utang di tengah sorotan terhadap kondisi keuangannya. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 2 Oktober 2026, termasuk jumlah final saham seri C yang disahkan, serta tenggat pemberian kuasa elektronik lewat eASY.KSEI paling lambat 1 Oktober 2026 pukul 12.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "relf-jawab-bursa-tak-ada-aksi-korporasi-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "RELF Jawab Bursa: Tak Ada Aksi Korporasi di Balik [Volatilitas]",
+  "deck": "RELF menjawab permintaan BEI soal volatilitas transaksi: tidak ada informasi material, tidak ada rencana aksi korporasi, dan komisaris pengendali tak berniat menambah saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T16:44:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/53a1583e9d_60f10e18d5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RELF",
+  "tags": [
+   "RELF",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Graha Mitra Asia Tbk (RELF) mengirim surat penjelasan bernomor 364/SPENG/GMA-HO/9/2026 tertanggal 10 September 2026 kepada Bursa Efek Indonesia, merespons surat BEI nomor S-11432/BEI.PP3/09-2026 tanggal 9 September 2026 yang meminta klarifikasi atas volatilitas transaksi efek RELF. Surat resmi ke sistem pelaporan bursa ditandatangani Direktur Utama Ivan Darmanto, sementara surat penjelasan itu sendiri ditandatangani Corporate Secretary Hariyanto.",
+   "Dalam jawabannya, perusahaan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan I-E BEI. Perusahaan juga menegaskan tidak mengetahui aktivitas pemegang saham tertentu terkait kepemilikan saham sesuai POJK Nomor 4 Tahun 2024, serta tidak memiliki rencana tindakan korporasi yang berdampak pada pencatatan saham di bursa dalam tiga bulan ke depan.",
+   "Terkait rencana pemegang saham utama, manajemen menyebutkan telah menanyakan langsung kepada Ghofar Rozaq Nazila selaku pemegang saham pengendali sekaligus Komisaris Perseroan. Ghofar menyatakan tidak berencana menambah kepemilikan sahamnya di RELF untuk tujuan investasi."
+  ],
+  "fotoAdegan": "Cranes and scaffolding over a mid-rise residential apartment project under construction, workers in hard hats, hazy afternoon light near Bogor",
+  "takeaway": "Surat ini netral bagi penilaian RELF karena isinya murni penyangkalan standar, tidak ada informasi material baru yang mengubah kinerja atau prospek perusahaan. Yang menarik justru konteksnya, surat ini dipicu oleh permintaan penjelasan resmi dari Bursa Efek Indonesia atas volatilitas transaksi saham RELF, meski dokumen tidak merinci berapa besar pergerakan harga atau volumenya. Dari sisi struktur kepemilikan, konfirmasi bahwa Komisaris sekaligus pemegang saham pengendali Ghofar Rozaq Nazila tidak berencana menambah saham berarti hak suara dan peta pengendalian perusahaan tidak berubah dalam waktu dekat, laporan ini sama sekali tidak menyentuh angka keuangan seperti ekuitas atau arus kas. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi RELF berlanjut dan memicu permintaan penjelasan susulan dari bursa, mengingat perusahaan sendiri menyatakan tidak ada rencana aksi korporasi setidaknya hingga awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ltls-ungkap-rencana-bayar-obligasi-rp135-m-jatuh-tempo-november",
+  "category": "Aksi Korporasi",
+  "title": "LTLS ungkap rencana bayar [obligasi] Rp135 M jatuh tempo November",
+  "deck": "Dalam public expose 8 September 2026, manajemen Lautan Luas menjelaskan rencana pelunasan obligasi Rp135 miliar yang jatuh tempo November 2026 serta kondisi margin dan utang perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T16:42:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67d8732e5c_5a209db615.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "obligasi",
+   "public expose"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk (LTLS) menyampaikan laporan hasil public expose tahunan kepada Bursa Efek Indonesia. Acara berlangsung Selasa, 8 September 2026, pukul 10.00 sampai 11.00 WIB, secara virtual melalui laman pubexlive.idx.co.id, dan dihadiri 73 peserta di luar manajemen serta karyawan perseroan. Materi yang dipaparkan mencakup ikhtisar perusahaan, fokus bisnis, ikhtisar keuangan, komitmen keberlanjutan, hingga sesi tanya jawab dengan investor.",
+   "Direktur Keuangan Elly Mariana Tansil menjelaskan kontribusi bisnis air terhadap pendapatan perseroan sekitar 12 persen pada semester I 2026, dan diperkirakan berada di kisaran 12 sampai 15 persen pada semester II 2026, dengan target jangka panjang di atas 15 persen. Menjawab pertanyaan soal obligasi Rp135 miliar yang jatuh tempo November 2026 di tengah kenaikan utang perseroan semester ini, Elly menyebut pelunasan akan berasal sebagian dari pinjaman bank dan sebagian dari hasil usaha tahun berjalan. Ia menambahkan bahwa kenaikan utang secara nominal sejalan dengan kebutuhan modal kerja, sementara rasio leverage perseroan justru lebih terjaga dibanding tahun sebelumnya. Soal margin laba yang sempat turun meski pendapatan naik, Elly menyebut adanya beberapa biaya non-recurring tahun ini dan menyatakan komitmen memperbaiki rasio laba bersih terhadap pendapatan lewat optimalisasi portofolio investasi, produk, dan bauran pelanggan.",
+   "Direktur Komersial Soewandhi Soekamto menjelaskan dampak pelemahan rupiah dan fluktuasi harga minyak terhadap kinerja perseroan tidak signifikan, berkat pengelolaan persediaan yang hati-hati dan strategi lindung nilai atau hedging. Dampak yang lebih terasa dari kondisi geopolitik seperti konflik AS-Iran justru pada ketersediaan pasokan dari prinsipal, yang diatasi lewat diversifikasi sumber pasokan. Untuk rencana lima tahun ke depan, Soewandhi bersama Direktur Pengelola Joshua Chandraputra Asali menyebut perseroan akan memperluas lini distribusi ke industri farmasi, mengembangkan segmen pakan ternak, memperluas manufaktur ke produk berbasis cairan di sektor makanan dan minuman, menambah prinsipal baru, serta membuka ekspansi baru di industri bahan kimia sebagai motor pertumbuhan berikutnya."
+  ],
+  "fotoAdegan": "Workers checking chemical storage tanks and pipelines at an industrial distribution warehouse, hazy morning light",
+  "takeaway": "Laporan hasil public expose ini netral bagi Lautan Luas karena isinya adalah jawaban manajemen atas pertanyaan investor, bukan angka transaksi baru yang mengubah gambaran keuangan perseroan, meski ada sinyal yang perlu diwaspadai soal utang dan margin yang diimbangi penjelasan manajemen. Yang tersentuh di sini adalah rasio leverage, yaitu perbandingan besar utang terhadap modal perusahaan yang menunjukkan seberapa berat beban utangnya, dan margin laba, yaitu porsi laba yang didapat dari setiap rupiah pendapatan; investor memperhatikan keduanya karena utang absolut Lautan Luas naik cukup besar semester ini sementara margin sempat tergerus walau pendapatan naik, sedangkan manajemen mengklaim rasio leverage justru lebih sehat dibanding tahun lalu. Yang perlu dipantau berikutnya adalah realisasi pembayaran obligasi Rp135 miliar yang jatuh tempo November 2026, yang menurut manajemen akan ditutup sebagian dari pinjaman bank dan sebagian dari hasil usaha tahun ini, serta apakah margin membaik pada laporan keuangan kuartal berikutnya setelah biaya-biaya non-recurring tahun ini selesai dibukukan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "miti-lewat-wasesa-line-beli-4-kapal-rp22-75-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MITI Lewat Wasesa Line [Beli] 4 Kapal Rp22,75 Miliar",
+  "deck": "Anak usaha MITI, PT Wasesa Line, membeli tiga kapal tunda dan satu unit landing craft dari PT Imako Perkasa Lines senilai total Rp22,75 miliar dalam transaksi afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T16:41:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d909d7e4ea_5ccfa5fb5f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MITI",
+  "tags": [
+   "MITI",
+   "transaksi afiliasi",
+   "pelayaran",
+   "kapal"
+  ],
+  "body": [
+   "Mitra Investindo Tbk (MITI) melalui anak usaha yang dikendalikannya, PT Wasesa Line (WL), membeli empat unit kapal dari PT Imako Perkasa Lines pada 9 September 2026. Objek transaksi terdiri dari tiga kapal tunda, yaitu PSL Fearless, PSL Noble, dan Vanvorine, ditambah satu unit Landing Craft Transport bernama Inneke 02. Jual beli ini dituangkan dalam empat akta terpisah di hadapan notaris Cindy Putri Ananta di Balikpapan, Kalimantan Timur, yaitu Akta No. 04 untuk PSL Fearless, No. 05 untuk PSL Noble, No. 06 untuk LCT Inneke 02, dan No. 07 untuk Vanvorine.",
+   "Nilai transaksi disebutkan rinci per kapal, masing masing kapal tunda PSL Fearless, PSL Noble, dan Vanvorine dihargai Rp5,75 miliar, sementara LCT Inneke 02 dihargai Rp5,5 miliar. Totalnya mencapai sekitar Rp22,75 miliar. WL bertindak sebagai pembeli dan Imako sebagai penjual.",
+   "Perseroan menyatakan transaksi ini tergolong Transaksi Afiliasi sesuai Peraturan OJK No. 42/POJK.04/2020, karena ada hubungan afiliasi antara MITI, WL, dan Imako, namun bukan Transaksi Benturan Kepentingan. Karena berstatus transaksi afiliasi, aturan mewajibkan penggunaan penilai independen. Perseroan menyebut telah memperoleh laporan penilaian aset dari KJPP Amin, Nirwan, Alfiantori & Rekan serta pendapat kewajaran dari KJPP Kusnanto & Rekan atas transaksi ini. Dewan komisaris dan direksi menegaskan tidak ada informasi material yang disembunyikan dan transaksi tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Weathered tugboats and a flat landing craft vessel docked at an industrial harbor, ropes and fenders visible, humid overcast morning",
+  "takeaway": "Transaksi ini condong netral bagi MITI, anak usahanya menambah armada kapal tunda dan LCT senilai Rp22,75 miliar secara tunai lewat pembelian dari pihak berelasi, yang di satu sisi memperbesar kapasitas operasional pelayaran tapi di sisi lain membawa risiko harga tidak wajar khas transaksi afiliasi, meski sudah dicek dua penilai independen berbeda. Pos yang tersentuh adalah arus kas dan aset tetap Perseroan, arus kas karena dana sebesar itu keluar untuk pembelian, dan aset tetap karena armada kapal bertambah empat unit, pelaku pasar memperhatikan ini karena menyangkut seberapa besar dana perusahaan terpakai untuk ekspansi dibanding disimpan sebagai kas. Dokumen tidak merinci sumber pendanaan pembelian maupun rincian hubungan afiliasi Imako dengan grup MITI karena bagian itu terpotong dalam salinan yang diterima. Yang perlu dipantau adalah kewajiban Perseroan menyampaikan keterbukaan informasi dan dokumen pendukungnya ke OJK paling lambat dua hari kerja sejak tanggal transaksi 9 September 2026, yakni sekitar 11 September 2026, serta penjelasan lebih lanjut soal hubungan afiliasi antara WL dan Imako yang belum terungkap penuh di dokumen ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
   "category": "Global",
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
@@ -56,6 +161,85 @@ var ARTICLES = [
   "kreditFoto": "Bank Indonesia",
   "takeaway": "Perbaikan angka ini tidak seluruhnya berasal dari kondisi riil, karena sebagian disebabkan oleh menguatnya dolar AS terhadap Rupiah, yang membuat nilai saham dan obligasi domestik milik investor asing otomatis mengecil ketika dihitung dalam dolar, bukan karena investor menariknya. Investasi langsung dan portofolio dari luar negeri sendiri tetap mencatat surplus, sehingga minat investor terhadap Indonesia belum menunjukkan tanda melemah. Pihak yang paling terdampak dari mengecilnya rasio ini adalah ruang gerak pemerintah dan Bank Indonesia menghadapi gejolak global, karena kewajiban neto yang lebih kecil dibandingkan ukuran ekonomi berarti bantalan yang lebih tebal saat modal asing sewaktu-waktu keluar. Karena sebagian penurunan ini berasal dari efek nilai tukar, arah sebenarnya baru akan terlihat jelas dari data triwulan III 2026: jika Rupiah menguat kembali terhadap dolar, nilai kewajiban dalam dolar AS bisa naik lagi dan sebagian perbaikan ini bisa terkoreksi.",
   "imageV": "mtva8o25"
+ },
+ {
+  "slug": "psab-kantongi-restu-esdm-rampungkan-akuisisi-jrbm",
+  "category": "Aksi Korporasi",
+  "title": "PSAB Kantongi [Restu] ESDM, Rampungkan Akuisisi JRBM",
+  "deck": "Kementerian ESDM merestui perubahan pemegang saham JRBM, anak usaha PSAB. PT J Resources Nusantara kini menguasai 99,99 persen saham JRBM tanpa pemegang saham minoritas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T15:19:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6c69f32f15_4b0a3e30c8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSAB",
+  "tags": [
+   "PSAB",
+   "JRBM",
+   "tambang emas",
+   "konsolidasi"
+  ],
+  "body": [
+   "PT J Resources Asia Pasifik Tbk (PSAB) mengumumkan telah menerima persetujuan dari Kementerian Energi dan Sumber Daya Mineral atas perubahan pemegang saham PT J Resources Bolaang Mongondow (JRBM) pada 10 September 2026. Persetujuan ini merupakan tindak lanjut dari penandatanganan akta perjanjian jual beli saham JRBM yang sebelumnya diumumkan perseroan lewat surat tertanggal 11 Mei 2026.",
+   "Berdasarkan persetujuan ESDM tersebut, susunan pemegang saham JRBM kini menjadi PT J Resources Nusantara dengan 99,99 persen saham dan PT J Resources Mining Services Indonesia dengan 0,01 persen saham. Kedua entitas ini merupakan bagian dari grup J Resources, sehingga struktur kepemilikan JRBM praktis sepenuhnya berada di tangan grup tanpa pihak ketiga di luar afiliasi.",
+   "Perseroan menyatakan bahwa dengan persetujuan ini, PSAB dapat melakukan konsolidasi penuh terhadap JRBM tanpa adanya kepemilikan saham minoritas, dan menyebut struktur kepemilikan serta permodalan perseroan atas JRBM menjadi lebih baik. Tidak ada keterangan tambahan lain yang dilampirkan dalam laporan ini."
+  ],
+  "fotoAdegan": "Miners in hard hats walking past heavy excavation equipment at a dusty open-pit gold mine in the Sulawesi highlands, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi PSAB karena perusahaan akhirnya bisa mengonsolidasikan penuh JRBM setelah mendapat restu ESDM, tanpa lagi ada pemegang saham minoritas yang mengganjal. Konsolidasi penuh berarti seluruh aset, utang, dan hasil produksi JRBM masuk utuh ke laporan keuangan PSAB, bukan cuma sebagian sesuai persentase kepemilikan sebelumnya, sehingga ekuitas dan kinerja operasional PSAB tercermin lebih besar dan lebih bersih dari kerumitan kepemilikan bersama. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian PSAB pada periode mendatang, untuk melihat seberapa besar kontribusi JRBM setelah konsolidasi penuh ini benar-benar tercermin dalam angka.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "scnp-bukukan-turnaround-laba-usaha-pendapatan-naik-41-7",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Bukukan [Turnaround] Laba Usaha, Pendapatan Naik 41,7%",
+  "deck": "Pendapatan SCNP naik 41,7% jadi Rp156,58 miliar pada semester I 2026, laba usaha berbalik untung Rp6,74 miliar dari rugi tahun lalu, dan dividen tunai Rp10 miliar telah dibayar penuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T15:16:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58606f5ee5_5d1a8a46ca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCNP",
+  "tags": [
+   "SCNP",
+   "kinerja keuangan",
+   "dividen",
+   "ekspansi pabrik"
+  ],
+  "body": [
+   "PT Selaras Citra Nusantara Perkasa Tbk (SCNP) melaporkan pendapatan usaha semester I 2026 naik 41,7% menjadi Rp156,58 miliar, dibandingkan Rp110,46 miliar pada periode yang sama tahun 2025. Perseroan juga mencatat perbaikan besar di sisi operasional: laba usaha berbalik positif menjadi Rp6,74 miliar, setelah pada semester I 2025 masih mencatat rugi usaha Rp1,15 miliar.",
+   "Dari sisi profitabilitas, laba kotor naik 56,2% menjadi Rp22,60 miliar dari sebelumnya Rp14,47 miliar, dengan marjin laba kotor naik dari 13,10% menjadi 14,44%. Marjin laba usaha juga berbalik dari minus 1,05% menjadi 4,31%. Laba tahun berjalan naik 28,3% dari Rp9,78 miliar menjadi Rp12,55 miliar.",
+   "Di sisi neraca, perseroan tengah membangun pabrik baru dengan serapan investasi Rp33,96 miliar, yang tingkat penyelesaiannya sudah melampaui 83%. Pembangunan ini membuat rasio utang terhadap modal (DER) perseroan naik menjadi 36,84%, dan ditujukan untuk mengejar target volume produksi 1.594.062 unit, atau naik lebih dari 49% dibandingkan capaian tahun 2025.",
+   "Perseroan juga telah membayar penuh dividen tunai sebesar Rp10 miliar kepada pemegang saham pada 2 Juli 2026. Laporan ini disampaikan oleh Tumpal Sihombing selaku Kepala Sekretaris Perusahaan (Corporate Secretary Division Head) SCNP, sebagai bagian dari strategi transformasi yang sebelumnya dipaparkan manajemen dalam sesi Public Expose April 2026."
+  ],
+  "fotoAdegan": "Workers assembling small household electronic appliances on a factory production line, fluorescent lighting, Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi SCNP: pendapatan naik 41,7%, laba usaha berbalik dari rugi Rp1,15 miliar menjadi untung Rp6,74 miliar, dan marjin laba kotor membaik. Yang perlu dicermati adalah rasio utang terhadap modal atau DER, yaitu perbandingan utang berbunga perusahaan dengan modal sendirinya, yang naik jadi 36,84% karena perseroan menambah pinjaman untuk membiayai pabrik baru. Kenaikan DER ini masih wajar untuk industri manufaktur, tapi berarti beban bunga ke depan berpotensi ikut naik, sementara perbaikan laba dan marjin penting bagi pemegang saham karena berkaitan langsung dengan kemampuan perseroan membayar dividen, seperti dividen tunai Rp10 miliar yang sudah dibayar penuh pada 2 Juli 2026. Yang dipantau berikutnya adalah penyelesaian pembangunan pabrik yang kini baru mencapai lebih dari 83%, karena fasilitas inilah yang jadi syarat SCNP mengejar target produksi 1.594.062 unit atau naik lebih dari 49% dari capaian 2025.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "halo-jawab-bei-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "HALO Jawab BEI: Tak Ada [Aksi Korporasi] di Balik Volatilitas Saham",
+  "deck": "HALO menjawab permintaan BEI soal volatilitas transaksi sahamnya, menyatakan tidak ada aksi korporasi atau informasi material yang belum diungkap ke publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T15:08:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11aed3a178_705b5eb730.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HALO",
+  "tags": [
+   "HALO",
+   "volatilitas saham",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Haloni Jane Tbk (HALO) mengirim surat tanggapan bernomor 596/HJ-Tbk/IX/2026 kepada Bursa Efek Indonesia (BEI), menjawab permintaan penjelasan atas volatilitas transaksi saham perseroan yang diminta BEI melalui surat nomor S-11498/BEI.PP3/09-2026 tertanggal 9 September 2026. Surat tanggapan yang ditandatangani Direktur Taufan Kurniawan ini terbit sehari setelah surat permintaan BEI, tepatnya 10 September 2026.",
+   "Dalam jawabannya, manajemen HALO menyatakan sampai saat surat dibuat perseroan belum memiliki rencana aksi korporasi apa pun, sehingga tidak ada informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan BEI Nomor I-E. Perseroan juga menyebut tidak menerima laporan dari pemegang saham tertentu terkait perubahan kepemilikan atau penjaminan saham sesuai POJK Nomor 4 Tahun 2024, tidak berencana melakukan tindakan korporasi dalam tiga bulan ke depan yang dapat memengaruhi status pencatatan sahamnya di bursa, dan tidak ada informasi material lain yang belum diungkapkan ke publik.",
+   "Poin terakhir yang dijawab HALO menyangkut rencana pemegang saham pengendali dan utama. Perseroan menegaskan Corporate Secretary telah menanyakan langsung kepada pemegang saham pengendali dan utama, dan sampai saat surat ini dibuat belum ada rencana dari mereka terkait kepemilikan sahamnya di perseroan."
+  ],
+  "fotoAdegan": "Blurred stock exchange lobby with distant illuminated ticker boards, people walking briskly past reflective glass panels, evening light",
+  "takeaway": "Isi jawaban ini netral bagi fundamental HALO karena perseroan hanya menegaskan tidak ada informasi baru, bukan mengumumkan perubahan kondisi keuangan atau bisnis apa pun. Permintaan penjelasan seperti ini muncul ketika BEI mendeteksi pergerakan harga atau volume transaksi saham yang tidak biasa, disebut Unusual Market Activity, dan bursa ingin memastikan lonjakan itu bukan didorong oleh bocoran informasi yang belum sampai ke publik. Dokumen ini sendiri tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham, sehingga tidak ada perubahan mendasar pada bisnis HALO yang bisa dijelaskan dari jawaban ini. Yang perlu dipantau selanjutnya adalah apakah volatilitas transaksi sahamnya mereda dalam beberapa hari ke depan atau justru berlanjut, karena jika pola tidak wajar itu terus terjadi tanpa ada informasi baru dari perseroan, BEI berpotensi mengambil tindakan pengawasan lanjutan.",
+  "sentimen": "netral"
  },
  {
   "slug": "dmas-proyeksi-recurring-income-rp300-400-miliar-tahun-ini",
@@ -242,6 +426,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "lckm-disuspensi-bursa-imbas-ketidakpastian-usaha",
+  "category": "Aksi Korporasi",
+  "title": "LCKM [Disuspensi] Bursa Imbas Ketidakpastian Usaha",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham LCKM di seluruh pasar mulai sesi II Kamis, 10 September 2026, menyusul ketidakpastian kelangsungan usaha perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:33:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5a671b8af_c3817c16cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LCKM",
+  "tags": [
+   "LCKM",
+   "suspensi saham",
+   "going concern",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT LCK Global Kedaton Tbk (LCKM) di seluruh pasar, terhitung sejak Sesi II perdagangan pada Kamis, 10 September 2026, hingga ada pengumuman lebih lanjut dari Bursa. Dalam pengumuman resmi bernomor Peng-SPT-00006/BEI.PP1/09-2026, Bursa menyebut alasan penghentian ini adalah ketidakpastian atas kelangsungan usaha atau going concern perseroan. Saham LCKM tercatat di Papan Pengembangan Bursa Efek Indonesia.",
+   "Sebelum penghentian total ini, saham LCKM sebenarnya sudah lebih dulu disuspensi di Pasar Reguler dan Pasar Tunai. Dengan pengumuman terbaru ini, suspensi diperluas ke seluruh pasar, sehingga tidak ada mekanisme transaksi jual beli saham LCKM yang bisa berjalan sampai Bursa mencabut statusnya. Pengumuman ditandatangani oleh Aditya Nugraha selaku Pelaksana Harian Kepala Divisi Penilaian Perusahaan 1, bersama Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan.",
+   "Bursa meminta seluruh pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang akan disampaikan perseroan selanjutnya. Dokumen pengumuman ini tidak merinci kondisi keuangan spesifik yang memicu keraguan going concern tersebut, sehingga penjelasan lebih lanjut akan bergantung pada laporan keterbukaan informasi berikutnya dari LCKM atau auditornya."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, empty plaza in front, overcast afternoon light",
+  "takeaway": "Ini sinyal negatif yang jelas: penghentian perdagangan di seluruh pasar karena keraguan going concern berarti Bursa menilai ada risiko serius atas kelangsungan usaha LCKM, bukan sekadar urusan administratif biasa. Going concern adalah istilah yang biasanya keluar dari auditor ketika mereka meragukan kemampuan perusahaan membayar kewajiban atau bertahan beroperasi dalam waktu dekat, umumnya dipicu oleh modal atau ekuitas yang tergerus, arus kas yang minus, atau utang yang lebih besar dari kemampuan bayarnya, dan ini yang bikin investor was-was karena menyangkut kelangsungan bisnis itu sendiri, bukan sekadar naik turun harga. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari Bursa yang akan menentukan kapan dan dengan syarat apa suspensi ini bisa dicabut, serta keterbukaan informasi dari LCKM sendiri soal langkah apa yang mereka ambil untuk mengatasi masalah kelangsungan usahanya, karena dokumen ini sendiri belum mencantumkan tenggat waktu pasti.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ekad-ungkap-fujian-kuasai-51-saham-eip-susut-ke-31",
   "category": "Aksi Korporasi",
   "title": "EKAD Ungkap Fujian Kuasai [51%] Saham, EIP Susut ke 31%",
@@ -319,6 +529,84 @@ var ARTICLES = [
   ],
   "fotoAdegan": "A tugboat towing a barge along a busy Indonesian coastal shipping lane, overcast sky, distant port cranes",
   "takeaway": "Laporan koreksi ini netral bagi fundamental Capitol Nusantara, karena pergantian komisaris cuma menegaskan ulang keputusan RUPSLB April lalu tanpa membawa angka baru soal keuangan atau kepemilikan saham. Yang berubah adalah struktur pengawasan internal: jumlah direktur menyusut dari tiga jadi dua orang setelah Ang Kok Tian pindah dari kursi direktur ke komisaris utama, sehingga keputusan operasional kini lebih terpusat di tangan Ang Ah Nui dan Yanuar Chayadi Wijaya. Kursi komisaris independen, yang tugasnya mengawasi manajemen demi kepentingan pemegang saham publik, juga berpindah tangan dari Heryanto Cokro ke Jansen Octaviannes Ricardo Warokka. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham Tahunan untuk tahun buku yang berakhir 30 Juni 2027, yang akan digelar pada 2027, karena di situlah masa jabatan direksi dan komisaris baru ini kembali dievaluasi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dkhh-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
+  "category": "Aksi Korporasi",
+  "title": "DKHH Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
+  "deck": "Menjawab surat resmi Bursa Efek Indonesia soal volatilitas transaksi efeknya, direksi DKHH menegaskan tidak ada informasi material atau rencana aksi korporasi di baliknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T13:03:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2de61cebc7_d9f9172b18.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DKHH",
+  "tags": [
+   "DKHH",
+   "Cipta Sarana Medika",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Cipta Sarana Medika Tbk (DKHH) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-11490/BEI.PP1/09-2026 terkait volatilitas transaksi saham perusahaan. Jawaban perseroan dikirim melalui surat nomor 090/DIR/CSM/IX/2026 tertanggal 10 September 2026 pukul 13.03 WIB, ditandatangani oleh Direktur Utama Satria Muhammad Wilis.",
+   "Dalam surat itu, DKHH menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut aturan Otoritas Jasa Keuangan Nomor 31/POJK.04/2015 maupun ketentuan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas khusus dari pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang pelaporan kepemilikan saham.",
+   "Terkait rencana ke depan, DKHH menyatakan tidak memiliki rencana aksi korporasi dalam waktu dekat, setidaknya untuk tiga bulan mendatang, yang bisa berdampak pada status pencatatan sahamnya di bursa. Perseroan juga menegaskan tidak ada informasi atau kejadian material lain yang belum diungkapkan ke publik, dan pemegang saham utama serta pengendali disebut tidak memiliki rencana apa pun terkait kepemilikan sahamnya di perseroan saat ini."
+  ],
+  "fotoAdegan": "Empty hospital corridor with polished floors and natural light, medical staff walking past in the distance, no readable signage visible",
+  "takeaway": "Laporan ini netral bagi fundamental DKHH karena isinya murni bantahan resmi, tidak ada aksi korporasi, transaksi, atau perubahan kepemilikan yang diumumkan. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di sini, dokumen ini lahir dari mekanisme pengawasan bursa yang mewajibkan emiten menjelaskan diri begitu harga atau volume transaksi sahamnya bergerak di luar kebiasaan, bukan dari peristiwa bisnis. Yang perlu dicermati investor selanjutnya adalah apakah pergerakan harga saham DKHH mereda setelah pernyataan ini, dan apakah perseroan benar-benar tidak mengeluarkan aksi korporasi baru dalam tiga bulan ke depan seperti yang dijanjikan dalam surat ini, yakni hingga sekitar awal Desember 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smii-dana-obligasi-rp2-triliun-baru-49-9-tersalur-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "SMII: Dana Obligasi Rp2 Triliun Baru 49,9% Tersalur [obligasi]",
+  "deck": "SMII melapor ke OJK: sukuk mudharabah Rp500 miliar sudah 100% tersalur, sementara obligasi Rp2 triliun baru 49,86% terpakai per Juli 2026, sisanya masih mengendap di deposito.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T12:42:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fc7ccb21ee_33bd2e2170.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMII",
+  "tags": [
+   "SMII",
+   "obligasi",
+   "sukuk mudharabah",
+   "penggunaan dana"
+  ],
+  "body": [
+   "PT Sarana Multi Infrastruktur (Persero) atau SMII menyampaikan laporan realisasi penggunaan dana hasil penawaran umum untuk periode Juli 2026 kepada Otoritas Jasa Keuangan (OJK), sesuai kewajiban dalam POJK Nomor 40 Tahun 2025. Surat bernomor S-519/SMI/DU/0926 itu ditandatangani Reynaldi Hermansjah selaku Direktur Utama pada 7 September 2026, mencakup dua instrumen yang sama-sama efektif pada 7 Juli 2026, yaitu Sukuk Mudharabah Berkelanjutan IV Tahap I dan Obligasi Berkelanjutan V Tahap I.",
+   "Untuk Sukuk Mudharabah Berkelanjutan IV, dana yang terkumpul sebesar Rp500 miliar dengan biaya penawaran umum Rp968.570.948, sehingga hasil bersih tercatat Rp499.031.429.052. Seluruh dana tersebut, alias 100 persen, sudah direalisasikan sesuai rencana di prospektus untuk pos pembiayaan syariah, sehingga tidak ada sisa dana dari instrumen ini.",
+   "Untuk Obligasi Berkelanjutan V, dana yang terkumpul jauh lebih besar, yakni Rp2 triliun dengan biaya penawaran umum Rp3.713.001.008, sehingga hasil bersih Rp1.996.286.998.992. Baru Rp995.361.878.086 atau 49,86 persen yang sudah disalurkan untuk pembiayaan. Sisanya, Rp1.000.925.120.906 atau 50,14 persen, masih ditempatkan dalam bentuk simpanan bank sambil menunggu disalurkan: Rp200 miliar di Deposito Bank KB berbunga 7,75 persen, Rp600 miliar di Deposito Bank Jakarta berbunga 8,1 persen, Rp200 miliar di Deposito Bank Mantap berbunga 7,9 persen yang tercatat memiliki hubungan afiliasi tidak langsung dengan SMII, dan Rp925,12 juta di rekening giro Bank BRI berbunga 3,5 persen yang berafiliasi dengan perusahaan. Seluruh penempatan sisa dana obligasi ini ditargetkan tersalur penuh sampai 31 Desember 2026."
+  ],
+  "fotoAdegan": "Wide shot of an elevated toll road under construction with cranes and workers in safety vests, hazy Jakarta skyline at dawn",
+  "takeaway": "Laporan ini netral bagi SMII, karena hanya melaporkan kemajuan penyaluran dana sesuai jadwal yang memang sudah direncanakan sejak prospektus diterbitkan, tanpa ada penyimpangan atau kejutan dari rencana awal. Pos yang tersentuh adalah pinjaman yang diberikan SMII kepada pihak lain, yang akan bertambah begitu sisa dana obligasi tersalur, dan itu penting diperhatikan karena semakin cepat dana bekerja sebagai pembiayaan, semakin cepat pula ia menghasilkan pendapatan bunga bagi perusahaan, dibandingkan hanya mengendap di deposito. Sementara menunggu tersalur, dana yang belum terpakai memang tetap menghasilkan bunga simpanan 7,75 sampai 8,1 persen, jadi tidak sepenuhnya menganggur. Yang perlu dipantau selanjutnya adalah apakah SMII benar-benar menuntaskan penyaluran sisa dana obligasi senilai Rp1 triliun itu sebelum batas waktu penempatan deposito berakhir pada 31 Desember 2026, serta laporan realisasi bulan-bulan berikutnya ke OJK untuk melihat kelanjutan pencapaian target 49,86 persen ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "agii-siapkan-dana-rp72-5-miliar-untuk-pelunasan-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "AGII Siapkan Dana Rp72,5 Miliar untuk [Pelunasan] Obligasi dan Sukuk",
+  "deck": "Samator Indo Gas Tbk menyatakan dana pelunasan pokok obligasi dan sukuk ijarah senilai total Rp72,5 miliar yang jatuh tempo 10 Oktober 2026 sudah tersedia di rekening perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T12:20:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95a8e33da7_497181d1d3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk ijarah",
+   "Samator Indo Gas"
+  ],
+  "body": [
+   "PT Samator Indo Gas Tbk (AGII), produsen gas industri, melaporkan kepada Bursa Efek Indonesia bahwa perusahaan telah menyiapkan dana untuk melunasi dua instrumen utang yang jatuh tempo pada 10 Oktober 2026. Dana tersebut terdiri dari pokok Obligasi Berkelanjutan III Tahap I Tahun 2023 Seri A dengan kode AGII03ACN1 senilai Rp41 miliar, dan pokok Sukuk Ijarah Berkelanjutan III Tahap I Tahun 2023 Seri A dengan kode SIAGII03ACN1 senilai Rp31,5 miliar, sehingga totalnya Rp72,5 miliar.",
+   "Perusahaan menyatakan dana itu sudah tersedia di rekening bank miliknya dan siap disetorkan ke rekening PT Kustodian Sentral Efek Indonesia (KSEI) sesuai jadwal pelunasan. Laporan ini diterbitkan untuk memenuhi Peraturan BEI Nomor I-E angka IV.2.11, yang mewajibkan perusahaan tercatat menyampaikan kesiapan dana pelunasan efek paling lambat 15 hari bursa sebelum jatuh tempo.",
+   "Laporan ditandatangani secara elektronik oleh Meyliana selaku Manager, sementara surat pemberitahuan resmi ke BEI ditandatangani Imelda Mulyani Harsono selaku Wakil Direktur Utama merangkap Corporate Secretary. Perseroan menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha dari kejadian ini."
+  ],
+  "fotoAdegan": "Rows of industrial gas storage tanks and steel pipelines at a manufacturing plant, worker in safety gear walking past in early morning light",
+  "takeaway": "Laporan ini netral bagi AGII, karena hanya menegaskan kewajiban rutin yang diatur bursa, bukan indikasi perubahan tren pada kinerja perusahaan. Yang tersentuh adalah arus kas, yaitu aliran uang masuk dan keluar dari kas perusahaan, sebab dana Rp72,5 miliar itu sudah dikunci di rekening bank Samator Indo Gas dan akan keluar begitu pelunasan terjadi, sehingga kas yang bisa dipakai untuk keperluan lain berkurang sementara. Di sisi lain, begitu pokok obligasi dan sukuk ini lunas, beban utang perusahaan pada pos tersebut ikut berkurang. Yang perlu dipantau berikutnya adalah realisasi penyetoran dana ke rekening PT Kustodian Sentral Efek Indonesia pada saat jatuh tempo 10 Oktober 2026, untuk memastikan pelunasan benar-benar terlaksana sesuai jadwal.",
   "sentimen": "netral"
  },
  {

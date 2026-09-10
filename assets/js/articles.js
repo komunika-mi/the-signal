@@ -241,6 +241,27 @@ var ARTICLES = [
   "imageV": "mtuzidn5"
  },
  {
+  "slug": "brent-tembus-us-100-rupiah-ikut-tertekan",
+  "category": "Moneter",
+  "title": "Brent [Tembus] US$100, Rupiah Ikut Tertekan",
+  "deck": "Harga minyak Brent menembus US$100 per barel dan WTI naik ke atas US$96 di tengah eskalasi perang Rusia-Ukraina, ikut menyeret rupiah melemah.",
+  "image": "assets/img/brent-tembus-us-100-rupiah-ikut-tertekan.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T10:37:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466136-minyak-dunia-tembus-us100-bikin-rupiah-tertekan-geopolitik-dunia-jadi-biang-kerok",
+  "tags": [],
+  "body": [
+   "Harga minyak dunia melonjak tajam pada perdagangan Kamis, dengan Brent crude menembus level US$100 per barel. Kenaikan ini penting bagi pembaca di dalam negeri karena rupiah ikut dibuka melemah pada hari yang sama, tanda bahwa gejolak harga energi global mulai merembet ke pasar keuangan domestik.",
+   "Pengamat mata uang dan komoditas Ibrahim Assuaibi mencatat harga minyak West Texas Intermediate (WTI) turut naik ke atas US$96 per barel dan berpotensi menembus US$98. Menurutnya, kenaikan harga minyak dan pelemahan rupiah yang terjadi bersamaan ini didorong oleh sejumlah faktor fundamental yang sama-sama mengguncang pasar global.",
+   "Ibrahim menunjuk eskalasi konflik geopolitik di Eropa Timur dan Timur Tengah sebagai pemicu utama. Perang Rusia dan Ukraina masih berlanjut dengan serangan timbal balik ke kota-kota besar, termasuk serangan yang menyasar infrastruktur produksi dan pengolahan minyak Rusia, sehingga memperbesar kekhawatiran pasar atas gangguan pasokan energi dunia."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2022/12/24/63a64008621b5-ilustrasi-harga-minyak-dunia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah hari ini: Brent naik ke atas US$100 per barel dan WTI ke atas US$96, dipicu serangan yang menyasar fasilitas produksi minyak Rusia di tengah perang yang berlanjut dengan Ukraina, dan rupiah ikut dibuka melemah pada hari yang sama. Yang kena dampak pertama adalah biaya impor bahan bakar dan anggaran subsidi energi pemerintah, karena Indonesia adalah pembeli neto minyak dari luar negeri, sementara pelemahan rupiah membuat semua barang impor jadi lebih mahal dihitung dalam rupiah. Berita ini baru menangkap potret satu hari, jadi belum bisa dibaca apakah ini lonjakan sesaat atau awal tren berkelanjutan, dan belum ada sinyal apakah Bank Indonesia akan turun tangan menahan rupiah atau apakah pemerintah akan menyesuaikan harga BBM bersubsidi. Yang perlu dipantau adalah pergerakan harga Brent dan kurs rupiah dalam beberapa hari ke depan, serta ada tidaknya pernyataan resmi dari Bank Indonesia atau Kementerian ESDM menanggapi tekanan ini.",
+  "imageV": "mtv4i1jn"
+ },
+ {
   "slug": "rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat",
   "category": "Moneter",
   "title": "Rupiah [Melemah] Tipis ke Rp17.513, Analis Prediksi Menguat",

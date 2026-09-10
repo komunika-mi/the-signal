@@ -153,6 +153,18 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "brent-tembus-us-100-rupiah-ikut-tertekan",
+  "category": "Moneter",
+  "title": "Brent [Tembus] US$100, Rupiah Ikut Tertekan",
+  "deck": "Harga minyak Brent menembus US$100 per barel dan WTI naik ke atas US$96 di tengah eskalasi perang Rusia-Ukraina, ikut menyeret rupiah melemah.",
+  "date": "10 September 2026",
+  "image": "assets/img/brent-tembus-us-100-rupiah-ikut-tertekan.jpg",
+  "imageV": "mtv4i1jn",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466136-minyak-dunia-tembus-us100-bikin-rupiah-tertekan-geopolitik-dunia-jadi-biang-kerok"
+ },
+ {
   "slug": "rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat",
   "category": "Moneter",
   "title": "Rupiah [Melemah] Tipis ke Rp17.513, Analis Prediksi Menguat",
@@ -6504,22 +6516,6 @@ var ARTICLES = [
    "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/79ea3c4bba_a6f0440120.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-paparkan-visi-jadi-holding-ekosistem-ai-usai-sii-masuk",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Paparkan Visi Jadi Holding [Ekosistem AI] Usai SII Masuk",
-  "deck": "DOOH memaparkan materi public expose insidentil yang diminta bursa, memuat visi jadi holding ekosistem AI setelah SII masuk sebagai pengendali baru.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Public Expose",
-   "Sinergi Internasional Investama",
-   "Ekosistem AI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9703141db0_6342f2b625.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-10T00:57:22.943+07:00",
+ "diperbarui": "2026-09-11T00:49:54.228+07:00",
  "entri": [
+  {
+   "id": "2026-09-10-3",
+   "edisi": "2026-09-10",
+   "benang": "Laba semester satu naik di kertas, margin tergerus",
+   "klaim": "Pola laba bersih semester satu yang terlihat tumbuh di kertas pada SMDR, ISEA, dan ANHI (PACK) namun ditopang faktor non operasional sementara bisnis inti tertekan beban bunga, penyusutan, atau biaya produksi, akan terlihat berlanjut atau mereda pada laporan kuartal tiga 2026, khususnya lewat apakah margin kotor mereka membaik.",
+   "penanda": "Laporan kuartal tiga 2026 dari SMDR, ISEA, dan ANHI (PACK), khususnya perubahan margin kotor mereka",
+   "tenggat": null,
+   "tenggatLabel": "laporan kuartal tiga 2026 dari emiten-emiten ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-10-2",
+   "edisi": "2026-09-10",
+   "benang": "Lonjakan minyak tekan rupiah dan IHSG",
+   "klaim": "Tekanan eksternal dari harga minyak yang melonjak (Brent tembus US$100 per barel) tampak lebih mungkin mendominasi pelemahan rupiah dan koreksi IHSG dalam jangka pendek dibanding sinyal domestik penopang seperti penjualan ritel dan keyakinan konsumen, yang justru melemah.",
+   "penanda": "Pergerakan harga minyak dan rupiah dalam beberapa hari ke depan, serta rilis final survei penjualan eceran Agustus dari Bank Indonesia",
+   "tenggat": null,
+   "tenggatLabel": "pergerakan harga minyak dan rupiah dalam beberapa hari ke depan, serta rilis final survei penjualan eceran Agustus dari Bank Indonesia",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-10-1",
+   "edisi": "2026-09-10",
+   "benang": "Alat berat dan pembiayaan tambang mengerem",
+   "klaim": "Tekanan yang menghantam United Tractors, Astra, dan HDFA lebih disebabkan oleh sisi alat berat dan pembiayaan ketimbang oleh harga komoditas batu bara itu sendiri, sebagaimana ditunjukkan lonjakan laba Bukit Asam 218 persen di tengah anjloknya laba United Tractors, Astra, dan HDFA.",
+   "penanda": "Laporan kinerja kuartal tiga 2026 dari United Tractors dan realisasi belanja modal tambang yang didorong Kadin ESDM untuk lebih hati-hati",
+   "tenggat": null,
+   "tenggatLabel": "laporan kinerja kuartal tiga 2026 dari United Tractors dan realisasi belanja modal tambang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-09-3",
    "edisi": "2026-09-09",
@@ -659,8 +692,13 @@ var RAPOR = {
    "penanda": "Survei Konsumen BI dan data penjualan eceran Agustus 2026, dirilis akhir Agustus hingga awal September.",
    "tenggat": "2026-09-10",
    "tenggatLabel": "awal September 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat",
+    "judul": "Pertumbuhan Penjualan Eceran Agustus Diprakirakan Melambat",
+    "tanggal": "10 September 2026",
+    "alasan": "Artikel ini memprakirakan penjualan eceran Agustus hanya tumbuh 0,5% (melambat lagi), berlawanan dengan klaim bahwa penjualan eceran akan kembali naik setelah efek libur usai."
+   }
   },
   {
    "id": "2026-08-12-3",

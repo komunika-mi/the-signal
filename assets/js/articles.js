@@ -240,7 +240,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah pergeseran ukuran keberhasilan IMT-GT, dari jumlah dokumen kerja sama menjadi penyelesaian nyata 92 proyek yang sudah berjalan, dengan delapan MoU bisnis baru dan satu MoU kelapa sawit sebagai bukti awal. Yang terdampak adalah pelaku usaha lintas batas di Sumatra, Semenanjung Malaysia, dan Thailand Selatan, terutama sektor sawit, beras, pariwisata, dan UMKM, serta pemerintah daerah yang kini diminta jadi eksekutor utama, bukan sekadar penerima proyek dari pusat. Angka pertumbuhan PDB per kapita, perdagangan, dan investasi yang dipaparkan dalam pertemuan ini adalah klaim capaian dari Kementerian sendiri, jadi lebih tepat dibaca sebagai catatan versi penyelenggara ketimbang angka yang sudah diverifikasi independen. Arahnya tampak menuju forum kerja sama yang lebih berorientasi hasil terukur ketimbang sekadar simbolis, dan itu akan terkonfirmasi lewat laporan progres 92 proyek serta cetak biru Implementation Blueprint 2027-2031 yang akan dibahas menjelang Pertemuan Tingkat Menteri ke-33 di Malaysia pada 2027.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",

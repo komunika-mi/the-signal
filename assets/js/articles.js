@@ -3,6 +3,165 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smdr-jawab-bei-margin-susut-laba-nyaris-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Jawab BEI: [Margin] Susut, Laba Nyaris Stagnan",
+  "deck": "SMDR menjelaskan ke BEI penyebab margin kotor yang menyusut, beban penyusutan naik 71 persen, dan laba bersih semester I 2026 yang nyaris tak tumbuh.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T20:55:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Samudera Indonesia Tbk (SMDR) menyampaikan tanggapan resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia bernomor S-11441/BEI.PP2/09-2026 tertanggal 8 September 2026. Surat itu meminta penjelasan atas laporan keuangan tengah tahunan tidak diaudit Perseroan per 30 Juni 2026, menyusul penyampaian laporan tersebut pada 30 Juli 2026. Sesuai aturan Bursa, Perseroan wajib menjawab paling lambat dua hari bursa setelah surat diterima, dan tanggapan ini disampaikan Corporate Secretary Idaman Putri Erwin pada 10 September 2026, menjawab 15 kelompok pertanyaan yang mencakup strategi bisnis, kinerja keuangan, dan realisasi dana hasil penerbitan sukuk.",
+   "Pendapatan SMDR pada semester I 2026 naik 11,3 persen menjadi US$421,76 juta dari US$379,08 juta pada periode sama tahun lalu. Namun laba bruto hanya naik 3,1 persen menjadi US$74,82 juta, sehingga margin laba kotor turun dari sekitar 19,1 persen menjadi 17,7 persen, seiring kenaikan beban jasa 13,2 persen terutama pada bongkar muat, penyusutan, dan biaya keagenan. SMDR menjelaskan penurunan margin terutama dipicu kenaikan tarif biaya operasional pelayaran, dan perusahaan akan menjaga margin lewat optimalisasi utilisasi armada serta disiplin biaya. Dari sisi lini pendapatan, jasa angkutan tumbuh 11 persen, kegiatan keagenan dan pelabuhan tumbuh 20,4 persen, sewa kapal berbasis waktu (time charter) tumbuh 14 persen, sementara pendapatan jasa penanganan peti kemas turun 1,2 persen akibat penurunan volume.",
+   "Beban penyusutan yang masuk komponen biaya jasa melonjak 71 persen dari US$41,88 juta menjadi US$71,60 juta, terutama dari penyusutan aset hak guna atas kapal yang naik dari US$24,58 juta menjadi US$51,39 juta, meski nilai tercatat aset tetap Perseroan justru turun dari US$501,18 juta menjadi US$481,38 juta. SMDR mengaitkan kenaikan ini dengan penambahan kapal baru sepanjang 2026. Arus kas dari aktivitas investasi berbalik menjadi penggunaan kas bersih US$30,40 juta, dari sebelumnya penerimaan bersih US$5,27 juta, dipicu uang muka pembelian aset tetap yang melonjak menjadi US$17,66 juta dari US$2,03 juta, ditambah penambahan aset tetap US$18,89 juta yang menurut perusahaan akan didanai terutama dari kas internal. Aset hak guna sendiri turun menjadi US$214,42 juta dari US$225,94 juta meski ada penambahan US$40,15 juta yang sebagian besar berasal dari kapal dan tongkang senilai US$37,96 juta, dan pembayaran liabilitas sewa naik tajam menjadi US$47,96 juta dari US$22,41 juta.",
+   "Laba periode berjalan konsolidasian SMDR pada semester I 2026 hanya naik 0,8 persen menjadi US$44,16 juta dari US$43,80 juta. Laba yang menjadi bagian pemilik entitas induk justru naik 11 persen menjadi US$32,52 juta, sementara bagian kepentingan nonpengendali turun 19,8 persen menjadi US$11,63 juta, yang menurut SMDR disebabkan penurunan laba di anak usaha dengan porsi kepemilikan minoritas yang besar. Piutang usaha neto naik menjadi US$148,13 juta dari US$142,42 juta, dengan piutang yang telah lewat jatuh tempo lebih dari 180 hari naik menjadi US$11,15 juta, termasuk US$7,11 juta yang sudah lewat 365 hari, sementara cadangan kerugian kredit hanya naik tipis menjadi US$6,22 juta dari US$6,05 juta. Di entitas asosiasi, LNG East-West Shipping mencatat laba US$4,11 juta sedangkan PT Patimban Global Gateway Terminal (PGT) masih merugi US$1,87 juta karena belum beroperasi penuh, dengan target mulai beroperasi awal 2027. Perseroan juga mencatat kerugian selisih kurs US$10,82 juta yang menekan total penghasilan komprehensif menjadi US$32,65 juta dari US$42,60 juta tahun lalu, di tengah kenaikan pinjaman jangka panjang menjadi US$207,32 juta dari US$192,57 juta plus penerbitan Sukuk Ijarah Tahap III senilai Rp700 miliar, yang turut mendorong beban keuangan naik 28,3 persen menjadi US$16,47 juta dari US$12,84 juta."
+  ],
+  "fotoAdegan": "Cargo cranes loading colorful shipping containers onto a large vessel at a bustling Indonesian port terminal, late afternoon light",
+  "takeaway": "Laporan ini condong negatif karena pertumbuhan pendapatan 11,3 persen ternyata tidak terasa di laba: margin kotor menyusut dari 19,1 persen menjadi 17,7 persen, dan laba bersih konsolidasi cuma naik 0,8 persen karena beban penyusutan dan bunga pinjaman naik jauh lebih cepat dari bisnisnya. Margin kotor adalah selisih antara pendapatan dan biaya langsung usaha dibagi pendapatan, dan penyusutannya jadi sinyal bahwa kenaikan biaya operasional pelayaran, sewa kapal, serta beban bunga pinjaman yang naik 28,3 persen menggerus untung sebelum sempat sampai ke pemegang saham. Rugi selisih kurs US$10,82 juta akibat penjabaran laporan keuangan juga langsung memotong ekuitas Perseroan tanpa lewat pos laba rugi, sehingga total penghasilan komprehensif turun jadi US$32,65 juta dari US$42,60 juta. Perlu dicatat, laba yang dinikmati pemegang saham pengendali justru naik 11 persen, tapi itu karena porsi laba anak usaha yang dimiliki pihak minoritas turun tajam, bukan karena bisnis intinya membaik, jadi bukan sinyal sekuat angka itu terlihat. Yang perlu dipantau berikutnya adalah kinerja semester II 2026 untuk melihat apakah tekanan margin dan beban bunga ini berlanjut, serta target mulainya operasi penuh Patimban Global Gateway Terminal pada awal 2027 yang diharapkan memperbaiki kontribusi entitas asosiasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "ptba-beber-laba-naik-218-proyek-kramasan-alami-keterlambatan",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Beber Laba Naik 218%, Proyek [Kramasan] Alami Keterlambatan",
+  "deck": "Public expose PTBA memaparkan laba bersih semester I 2026 melonjak 218 persen menjadi Rp2,64 triliun, sementara proyek Dermaga Kramasan molor dari jadwal semula.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T20:53:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aafbb37770_dcbb02c8e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTBA",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "Public Expose",
+   "Kramasan"
+  ],
+  "body": [
+   "PT Bukit Asam (Persero) Tbk (PTBA) menggelar Public Expose Tahunan pada Senin, 7 September 2026 pukul 16.00 sampai 17.00 WIB melalui platform Public Expose Live 2026 milik Bursa Efek Indonesia. Paparan disampaikan oleh Una Lindasari, Direktur Keuangan dan Manajemen Risiko, dan Turino Yulianto, Direktur Hilirisasi dan Diversifikasi Produk, dengan moderator Prasetyo Wibowo dari IDX Channel. Acara dihadiri 210 peserta yang terdiri dari perusahaan sekuritas, manajer aset, media, dan investor ritel, sementara sesi konferensi pers dihadiri 116 wartawan.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan produksi batu bara semester I 2026 mencapai 19,45 juta ton dari target RKAP setahun penuh sebesar 49,5 juta ton, dan menyatakan tetap optimistis mengejar target tersebut dengan mengandalkan perbaikan cuaca pada semester II. Target produksi untuk RKAB 2027 masih dalam kajian internal namun diperkirakan tidak jauh berbeda dari target 2026. Laba bersih semester I 2026 melonjak sekitar 218 persen menjadi Rp2,64 triliun, jauh melampaui pertumbuhan pendapatan yang hanya sekitar 8 persen. Manajemen menjelaskan kenaikan itu ditopang oleh naiknya harga batu bara, pelemahan rupiah yang menguntungkan pendapatan berdenominasi rupiah, dan perbaikan biaya angkutan berkat perubahan formula kontrak transportasi 2026, meski biaya bahan bakar justru menjadi komponen biaya yang paling meningkat. Soal peluang laba bersih setahun penuh menembus Rp5 triliun, manajemen menyebut hal itu bergantung pada stabilnya rata-rata harga jual, biaya bahan bakar, dan pola cuaca yang memengaruhi volume produksi.",
+   "Terkait proyek Kramasan, manajemen menjelaskan proyek ini terdiri dari dua bagian, yaitu infrastruktur TLS 6 dan 7 yang dikerjakan PTBA sendiri dan ditargetkan mulai beroperasi pada 2026 sesuai rencana, serta Dermaga Kramasan yang pembangunannya berada di pihak KAI dan Kalog. Pengembangan dermaga tersebut mengalami sedikit keterlambatan dan sudah disampaikan secara resmi kepada PTBA, sehingga turut memengaruhi keseluruhan jadwal operasional Kramasan yang sebelumnya ditargetkan mencapai status siap operasi pada kuartal II 2026.",
+   "Pada bagian strategi, manajemen menegaskan batu bara tetap jadi bisnis inti sambil mengembangkan hilirisasi seperti coal to potassium humate, serta dua proyek yang masuk ekosistem Danantara, yakni penyediaan pembangkit listrik tenaga uap untuk smelter aluminium dan pengembangan anoda baterai berbahan karbon dari batu bara untuk rantai pasok kendaraan listrik. Perseroan telah mengalokasikan 842 juta ton cadangan untuk kebutuhan hilirisasi, mengingat umur proyek rata-rata sekitar 20 tahun sehingga pasokan batu bara harus dijamin sepanjang periode itu, dengan dukungan pendanaan dari Danantara Management Fund. Kontribusi bisnis hijau terhadap portofolio Perseroan masih di bawah 3 persen dan roadmap-nya masih disusun. Untuk pasar ekspor baru di Pakistan, risiko pembayaran dan nilai tukar dimitigasi melalui skema Letter of Credit dengan transaksi dalam dolar Amerika Serikat."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving coal at an open-pit mine under a partly cloudy sky, dust rising near loading conveyors, Sumatra highlands",
+  "takeaway": "Laporan ini condong netral karena isinya menegaskan ulang capaian yang sebagian sudah diketahui pasar plus proyeksi bersyarat, bukan sinyal fundamental baru yang berdiri sendiri. Angka yang disorot, laba bersih semester I 2026 melonjak 218 persen menjadi Rp2,64 triliun sementara pendapatan cuma naik 8 persen, menyentuh pos margin dan efisiensi biaya perusahaan, sehingga pelaku pasar akan mencermati apakah kenaikan itu berasal dari perbaikan operasional yang bisa bertahan atau sekadar kebetulan harga batu bara dan pelemahan rupiah yang menguntungkan pendapatan dalam rupiah. Molornya pembangunan Dermaga Kramasan oleh KAI dan Kalog juga relevan bagi arus kas ke depan karena menunda potensi tambahan volume angkutan batu bara Perseroan. Yang perlu dipantau berikutnya adalah realisasi produksi sepanjang paruh kedua 2026 menuju target 49,5 juta ton serta kepastian jadwal baru Dermaga Kramasan, mengingat manajemen belum memberi tanggal pengganti target commercial operation date yang semula dipatok kuartal II 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "isea-jawab-bursa-utang-lampaui-proyeksi-marjin-turun",
+  "category": "Aksi Korporasi",
+  "title": "ISEA Jawab Bursa: [Utang] Lampaui Proyeksi, Marjin Turun",
+  "deck": "ISEA menjawab permintaan penjelasan Bursa Efek Indonesia soal rasio utang yang melampaui proyeksi IPO, margin laba kotor yang menyusut, dan piutang usaha yang seluruhnya telah jatuh tempo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T20:46:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26897befd3_af1cd42d3c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISEA",
+  "tags": [
+   "ISEA",
+   "Bursa Efek Indonesia",
+   "ekspor udang",
+   "tarif AS"
+  ],
+  "body": [
+   "PT Indo American Seafoods Tbk (ISEA) menyampaikan jawaban resmi atas permintaan penjelasan Bursa Efek Indonesia bernomor S-11400/BEI.PP1/09-2026, yang mempertanyakan sejumlah pos dalam laporan keuangan interim per 30 Juni 2026, laporan keuangan konsolidasian 2025, dan proyeksi keuangan yang disampaikan saat penawaran umum perdana saham. Surat balasan bernomor 51/PI-IDX/ISEA/CS/IX/2026 ditandatangani Corporate Secretary Gustav, S.H., M.H. pada 10 September 2026.",
+   "Salah satu sorotan Bursa adalah anjloknya uang muka pembelian bahan baku sebesar 98,19 persen, dari Rp33,71 miliar per akhir 2024 menjadi Rp610,25 juta per akhir 2025, yang menurut ISEA sudah direalisasikan lewat penerimaan barang di 2025, dengan sisa saldo ke Yeremia Sukamto. Bursa juga menyoroti piutang usaha Perseroan sebesar Rp137,68 miliar per akhir 2025 yang seluruhnya telah jatuh tempo, dibanding tahun sebelumnya saat 99,58 persen dari Rp96,37 miliar piutang justru belum jatuh tempo. ISEA menyatakan pergeseran ini hanya soal sebaran umur piutang, bukan perubahan kebijakan, dan menilai cadangan kerugian penurunan nilai Rp2,52 miliar sudah memadai karena pembeli utama membayar tidak lebih dari 90 hari. Penjualan ke Central Seaway Co., Inc. (Censea), mitra Indokom Group yang sudah berhubungan bisnis 18 tahun, naik dari Rp159,62 miliar (49,48 persen total penjualan) di 2024 menjadi Rp178,72 miliar namun proporsinya turun jadi 31,68 persen di 2025.",
+   "Dari sisi biaya, ISEA mengonfirmasi munculnya beban bea keluar (duty) sebesar Rp24,87 miliar di 2025, dari nihil pada 2024, akibat tarif impor Amerika Serikat sekitar 19 persen terhadap produk perikanan asal Indonesia, yang mendorong beban penjualan naik 251,91 persen menjadi Rp57,22 miliar. Biaya anti-dumping juga naik 79,33 persen menjadi Rp10,66 miliar dari Rp5,94 miliar, dan menurut Perseroan sifatnya berulang setiap tahun sehingga akan terus dibebankan ke depan; ISEA berencana memperluas pasar ke negara tanpa tarif anti-dumping seperti Jepang. Perseroan juga memiliki fasilitas pinjaman dari Bank SMBC Indonesia senilai US$14,5 juta sejak 29 Agustus 2025 dengan bunga 6,75 persen untuk dolar dan 8,50 persen untuk rupiah, dengan beban administrasi bank naik 256,78 persen menjadi Rp981,34 juta dan beban provisi naik 146,78 persen menjadi Rp418,36 juta, meski ISEA menegaskan tidak ada penambahan plafon kredit.",
+   "Secara keseluruhan, pendapatan ISEA tumbuh 74,92 persen menjadi Rp564,22 miliar di 2025 dari Rp322,56 miliar di 2024, tetapi margin laba kotor turun dari 23,45 persen menjadi 19,84 persen, sementara beban bunga dan keuangan tetap tinggi di Rp18,71 miliar. Rasio utang terhadap ekuitas (DER) tercatat 138,29 persen, melampaui proyeksi awal 95,84 persen, sedangkan rasio lancar 148,59 persen berada di bawah target 182,53 persen. ISEA juga mengungkap piutang lain-lain ke PT Tambak Udang Baba Rafi sebesar Rp549,73 juta dari sewa tambak udang yang belum berubah sejak 2024, dan menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers in aprons sorting fresh shrimp into plastic crates at a bustling coastal seafood processing dock, early morning light.",
+  "takeaway": "Laporan ini condong negatif bagi ISEA: rasio utang terhadap ekuitas mencapai 138,29 persen, jauh melampaui target IPO 95,84 persen, rasio lancar hanya 148,59 persen di bawah target 182,53 persen, dan margin laba kotor menyusut dari 23,45 persen menjadi 19,84 persen akibat kenaikan biaya bahan baku serta beban bea masuk dan anti-dumping Amerika Serikat yang sifatnya berulang tiap tahun. Rasio utang yang tinggi berarti porsi pinjaman ISEA dibanding modal sendiri sudah lebih besar dari rencana saat mencatatkan saham, sehingga bunga pinjaman Rp18,71 miliar per tahun menjadi beban yang lebih berat bagi laba bersih, sementara rasio lancar yang menipis menandakan kas dan aset yang bisa dicairkan cepat untuk menutup utang jangka pendek kian pas-pasan. Sisi baiknya, pendapatan tetap tumbuh 74,92 persen menjadi Rp564,22 miliar, menandakan permintaan pasar terhadap udang ISEA masih kuat meski terbebani tarif dagang AS. Yang perlu dipantau selanjutnya adalah laporan keuangan tahun buku 2026, yang jika mengikuti pola penyampaian laporan tahun sebelumnya sekitar akhir Maret, akan menunjukkan apakah rasio utang dan likuiditas mulai mendekati target awal atau justru makin melebar akibat beban tarif dan anti-dumping AS yang terus berulang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "lppi-tawarkan-obligasi-dan-sukuk-tahap-iv-rp1-68-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Tawarkan Obligasi dan Sukuk Tahap IV [Rp1,68 Triliun]",
+  "deck": "LPPI menawarkan obligasi tahap IV senilai sebanyak-banyaknya Rp1 triliun dan sukuk mudharabah Rp676,63 miliar, dengan bunga tetap 10-10,5 persen dan masa penawaran 23-25 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T20:19:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de4474cc13_86305c0da0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LPPI",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Lontar Papyrus Pulp & Paper Industry (LPPI) menawarkan tahap keempat dari program Obligasi Berkelanjutan IV dan Sukuk Mudharabah Berkelanjutan II, menurut keterbukaan informasi yang diteken Direktur Kosim Sutiono pada 10 September 2026. Obligasi tahap IV ini ditawarkan dengan jumlah pokok sebanyak-banyaknya Rp1 triliun, terbagi dalam dua seri: Seri A senilai Rp608,59 miliar dengan bunga tetap 10 persen per tahun selama tiga tahun, dan Seri B senilai Rp186,5 miliar dengan bunga tetap 10,5 persen per tahun selama lima tahun. Dari total itu, Rp795,09 miliar dijamin penuh (full commitment) oleh penjamin emisi, sementara sisanya Rp204,91 miliar hanya dijamin dengan upaya terbaik (best effort), artinya bagian ini bisa saja tidak terjual seluruhnya tanpa mewajibkan LPPI menerbitkannya.",
+   "Bersamaan dengan itu, LPPI juga menawarkan Sukuk Mudharabah Berkelanjutan II Tahap IV Tahun 2026 dengan dana sebanyak-banyaknya Rp676,63 miliar. Seri A senilai Rp481,985 miliar memberikan nisbah bagi hasil 14,62 persen dengan indikasi setara bunga 10 persen per tahun selama tiga tahun, sedangkan Seri B senilai Rp20,78 miliar memberikan nisbah 15,35 persen dengan indikasi setara 10,5 persen per tahun selama lima tahun. Sebesar Rp502,765 miliar dari sukuk ini dijamin penuh, sisanya Rp173,865 miliar dijamin dengan upaya terbaik. Pefindo memberi peringkat idA untuk obligasi dan idA(sy) untuk sukuk ini.",
+   "Masa penawaran umum berlangsung 23-25 September 2026, dengan penjatahan pada 28 September 2026 dan pencatatan di Bursa Efek Indonesia pada 1 Oktober 2026. Bunga dan bagi hasil pertama dijadwalkan dibayar 30 Desember 2026, lalu setiap tiga bulan hingga jatuh tempo pada 30 September 2029 untuk Seri A dan 30 September 2031 untuk Seri B, baik untuk obligasi maupun sukuk. Tahap IV ini melanjutkan tiga tahap sebelumnya sejak 2025 yang telah menghimpun sekitar Rp2,35 triliun dari obligasi dan Rp2,32 triliun dari sukuk, dari target keseluruhan program sebesar Rp5 triliun untuk obligasi dan Rp3 triliun untuk sukuk."
+  ],
+  "fotoAdegan": "Workers monitoring large rolls of paper moving through machinery inside a pulp and paper mill, industrial steam in the air",
+  "takeaway": "Laporan ini netral bagi kinerja LPPI, karena penerbitan tahap IV ini adalah kelanjutan program obligasi dan sukuk berkelanjutan yang sudah efektif sejak Desember 2025, bukan rencana pendanaan baru yang mengubah profil risiko perusahaan. Yang tersentuh adalah beban bunga, sebab tambahan utang hingga Rp1,68 triliun ini membawa kewajiban bunga tetap 10-10,5 persen per tahun yang harus dibayar setiap tiga bulan sampai 2029 atau 2031 tergantung serinya, sehingga mengurangi laba bersih ke depan meski dana yang masuk bisa dipakai membiayai operasional atau membayar utang lama. Arus kas perusahaan juga akan menerima suntikan dana segar begitu penawaran rampung, sebelum kewajiban cicilan bunga mulai berjalan. Yang perlu dipantau selanjutnya adalah masa penawaran pada 23-25 September 2026, penjatahan pada 28 September 2026, dan pencatatan di bursa pada 1 Oktober 2026, karena porsi best effort senilai Rp204,91 miliar obligasi dan Rp173,865 miliar sukuk baru pasti terserap kalau permintaan investor mencukupi.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "btps-rinci-ekspansi-pembiayaan-individu-dan-nbfi-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rinci Ekspansi Pembiayaan Individu dan [NBFI] di Public Expose",
+  "deck": "BTPN Syariah membukukan laba Rp655 miliar pada semester satu 2026 dan memaparkan rincian ekspansi ke pembiayaan individu, wealth management, dan pembiayaan ke lembaga keuangan non-bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:58:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/040f744126_c1bf31a152.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPS",
+  "tags": [
+   "BTPS",
+   "Bank BTPN Syariah",
+   "public expose",
+   "pembiayaan individu"
+  ],
+  "body": [
+   "PT Bank BTPN Syariah Tbk (BTPS) menggelar public expose tahunan pada 7 September 2026 yang dihadiri 151 peserta di luar manajemen dan karyawan, terdiri dari investor, analis, anggota bursa, dan media. Dalam laporan resminya ke Bursa Efek Indonesia, perseroan menyampaikan bahwa Rapat Umum Pemegang Saham Tahunan (RUPST) April 2026 telah mengubah susunan Dewan Komisaris, dengan Mulya E. Siregar diangkat sebagai Komisaris Utama merangkap Komisaris Independen, serta penambahan satu komisaris perempuan, Sendiaty Sondy, sehingga jumlah komisaris perempuan menjadi dua orang.",
+   "Dari sisi kinerja, BTPS membukukan laba bersih Rp655 miliar pada semester satu 2026, dengan total aset tumbuh 8 persen secara tahunan menjadi Rp23 triliun dan pembiayaan naik 9 persen menjadi Rp11 triliun. Rasio kecukupan modal (CAR) tercatat 58,7 persen dan rasio pembiayaan bermasalah (NPF) turun ke 2,74 persen pada Juni 2026, dari sempat mencapai 3,97 persen pada akhir 2024. Perseroan juga merinci perkembangan bisnis di luar segmen inti ultra mikro: pembiayaan individu (Individual Financing) memiliki outstanding Rp59,7 miliar untuk 4.368 nasabah dengan tingkat pembayaran kembali 97,2 persen, dan akan diperluas ke 60 lokasi pada Juli 2026. Untuk lini pendanaan, BTPS mencatat dana kelolaan sukuk ritel Rp16,9 miliar, produk bancassurance bersama Allianz Syariah Rp1,5 miliar, dan enam seri Cash Waqf Linked Deposit senilai total Rp3,7 miliar, serta pembiayaan ke lembaga keuangan non-bank seperti Pegadaian, CIMB Niaga Auto Finance, Sarana Multi Infrastruktur, dan Sarana Multigriya Financial.",
+   "Laporan ini juga menegaskan kembali rencana pembelian kembali saham (buyback) yang sebelumnya sudah diumumkan, dengan alokasi dana maksimal Rp1 triliun termasuk biaya terkait, mencakup hingga 10 persen dari total saham beredar. Rencana ini masih menunggu persetujuan RUPSLB pada 13 Oktober 2026, dengan masa pelaksanaan 12 bulan dimulai 14 Oktober 2026 jika disetujui, dan seluruhnya didanai dari ekuitas internal perseroan. BTPS turut menjalankan program apresiasi nasabah Umrah Satu Pesawat yang akan memberangkatkan 393 nasabah, sentra, dan karyawan terbaik pada November 2026."
+  ],
+  "fotoAdegan": "Woman vendor arranging fresh produce at a small stall in a bustling Indonesian market, morning sunlight, motorbikes passing by",
+  "takeaway": "Laporan ini condong netral bagi BTPS. Sebagian besar isinya konfirmasi ulang atas hal yang sudah diketahui pasar, yaitu kinerja semester satu dan rencana buyback, sementara bisnis baru seperti pembiayaan individu dan pendanaan ke lembaga non-bank masih berskala kecil dibanding total pembiayaan Rp11 triliun sehingga belum mengubah gambaran fundamental. Rasio kecukupan modal atau CAR, yakni perbandingan modal terhadap aset berisiko yang dimiliki bank, tercatat 58,7 persen, jauh di atas ambang minimum yang diwajibkan regulator, sehingga bank punya bantalan tebal untuk ekspansi maupun membiayai buyback tanpa utang baru. Sementara itu rasio pembiayaan bermasalah atau NPF terus turun ke 2,74 persen pada Juni 2026, menandakan kualitas kredit ke nasabah ultra mikro membaik dan risiko gagal bayar mengecil. Yang perlu dipantau berikutnya adalah RUPSLB pada 13 Oktober 2026, saat pemegang saham memutuskan restu atas rencana buyback senilai maksimal Rp1 triliun, karena pelaksanaannya baru bisa dimulai 14 Oktober 2026 jika disetujui.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mglv-wajib-gelar-public-expose-usai-disuspensi-cooling-down",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Wajib Gelar Public Expose Usai Disuspensi [Cooling Down]",
+  "deck": "Perdagangan saham MGLV disetop sementara oleh BEI untuk cooling down, dan Perseroan diminta memaparkan kinerja terkini secara virtual pada 16 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:39:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f15b2865e_d9c43ac35d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) mengumumkan rencana penyelenggaraan public expose insidental menyusul penghentian sementara perdagangan sahamnya oleh Bursa Efek Indonesia. Penghentian ini merujuk pada Pengumuman Bursa Nomor Peng-SPT-00172/BEI.WAS/09-2026 tentang suspensi perdagangan saham MGLV di Pasar Reguler dan Pasar Tunai dalam rangka cooling down. BEI meminta Perseroan menggelar paparan publik ini melalui email tertanggal 9 September 2026, berdasarkan Peraturan BEI No. 00015/BEI/01-2021 Pasal III.3 tentang Kewajiban Penyampaian Informasi dan Kewajiban Publik Ekspose.",
+   "Paparan publik akan digelar secara virtual pada Rabu, 16 September 2026, pukul 14.00 hingga 15.00 WIB, dan dihadiri oleh jajaran Direksi Perseroan. Tiga agenda akan dibahas dalam acara tersebut, yaitu perkembangan kinerja dan operasional terkini Perseroan beserta anak usaha, ringkasan laporan keuangan terbaru, serta rencana usaha Perseroan dan anak usaha ke depan.",
+   "Perseroan dijadwalkan menyampaikan materi paparan kepada BEI pada Selasa, 15 September 2026, sehari sebelum acara berlangsung, dan menyerahkan hasil paparan publik kepada BEI pada Kamis, 17 September 2026. Surat pengumuman ini ditandatangani oleh Direktur sekaligus Sekretaris Perusahaan MGLV."
+  ],
+  "fotoAdegan": "Glass skyscrapers of Jakarta's SCBD business district reflecting a clear afternoon sky, view from a busy sidewalk below.",
+  "takeaway": "Laporan ini condong negatif karena perdagangan saham MGLV disetop paksa oleh Bursa Efek Indonesia untuk cooling down, sinyal bahwa otoritas menilai pergerakan harga sahamnya tidak wajar dan investor perlu penjelasan resmi, apalagi ini menyusul rangkaian aksi korporasi besar seperti akuisisi Nextier yang skalanya jauh melebihi ukuran Perseroan sendiri dan rights issue berdilusi 13 persen yang sudah lebih dulu dinilai negatif. Ringkasan laporan keuangan yang akan dipaparkan patut dicermati karena menyangkut arus kas dan ekuitas Perseroan, dua pos yang langsung tertekan setelah Perseroan menambah utang Rp4 triliun dari pihak terafiliasi NDC dan menerbitkan saham baru lewat rights issue. Yang perlu dipantau berikutnya adalah penyampaian materi ke BEI pada 15 September 2026, pelaksanaan public expose virtual pada 16 September 2026, dan penyerahan hasilnya ke BEI pada 17 September 2026, karena dari situ pasar akan mendapat penjelasan resmi Perseroan atas kondisi yang memicu suspensi.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",
   "category": "Global",
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
@@ -29,6 +188,138 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah pergeseran ukuran keberhasilan IMT-GT, dari jumlah dokumen kerja sama menjadi penyelesaian nyata 92 proyek yang sudah berjalan, dengan delapan MoU bisnis baru dan satu MoU kelapa sawit sebagai bukti awal. Yang terdampak adalah pelaku usaha lintas batas di Sumatra, Semenanjung Malaysia, dan Thailand Selatan, terutama sektor sawit, beras, pariwisata, dan UMKM, serta pemerintah daerah yang kini diminta jadi eksekutor utama, bukan sekadar penerima proyek dari pusat. Angka pertumbuhan PDB per kapita, perdagangan, dan investasi yang dipaparkan dalam pertemuan ini adalah klaim capaian dari Kementerian sendiri, jadi lebih tepat dibaca sebagai catatan versi penyelenggara ketimbang angka yang sudah diverifikasi independen. Arahnya tampak menuju forum kerja sama yang lebih berorientasi hasil terukur ketimbang sekadar simbolis, dan itu akan terkonfirmasi lewat laporan progres 92 proyek serta cetak biru Implementation Blueprint 2027-2031 yang akan dibahas menjelang Pertemuan Tingkat Menteri ke-33 di Malaysia pada 2027.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Patok Harga Rights Issue Rp8.880, Kejar [Rp2,54 Triliun]",
+  "deck": "MGLV mematok harga pelaksanaan rights issue Rp8.880 per saham dan menargetkan dana hingga Rp2,54 triliun, dengan pemegang saham utama NDC berkomitmen menyerap seluruh haknya senilai Rp1,65 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:13:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "HMETD",
+   "data center"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menetapkan harga pelaksanaan Penawaran Umum Terbatas dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I) sebesar Rp8.880 per saham, setelah rencana ini disetujui pemegang saham dalam RUPSLB pada 7 September 2026. Perseroan akan menerbitkan sebanyak-banyaknya 285.732.512 saham baru bernilai nominal Rp20 per saham, setara maksimal 13,04 persen dari total saham setelah penambahan modal. Setiap pemegang 100 saham lama yang tercatat dalam Daftar Pemegang Saham pada 3 November 2026 pukul 16.00 WIB berhak atas 15 HMETD, dan setiap satu HMETD berhak membeli satu saham baru. Jika seluruh hak dilaksanakan, dana yang masuk ke kas perusahaan bisa mencapai Rp2,54 triliun.",
+   "Sebagian besar dana rencananya dipakai untuk transaksi dengan pihak terkait. Sekitar Rp668,6 miliar akan dipakai membeli alih piutang PT Nextier Datamate Center (NDC), pemegang saham pengendali Perseroan, kepada dua anak usaha MGLV yaitu PT Nextier Askara Center (NAC) sebesar Rp668,4 miliar dan PT Nextier GenAi Center (NGC) sebesar Rp160 juta, berdasarkan perjanjian pengikatan jual beli saham dan piutang tanggal 2 Juli 2026. Selain itu, sekitar Rp1,6 triliun akan disuntikkan sebagai modal ke NAC dan NGC, terdiri dari Rp1 triliun ke NGC untuk membangun fasilitas data center di Kawasan Industri Terpadu Batang, Jawa Tengah, yang saat ini belum beroperasi secara komersial, dan Rp600 miliar ke NAC untuk pengembangan fasilitas data center di Jababeka, Cikarang, yang sudah beroperasi. Setelah suntikan modal ini, Perseroan tetap menguasai 99,9 persen saham di kedua anak usaha tersebut. Sisa dana dipakai sebagai modal kerja, termasuk gaji karyawan, jasa profesional, pajak, dan biaya keuangan.",
+   "NDC, yang menguasai 65,10 persen saham MGLV, telah menyatakan komitmen tertulis pada 10 September 2026 untuk melaksanakan seluruh haknya sebanyak 186 juta HMETD senilai Rp1,65 triliun, atau sekitar 65 persen dari total dana maksimal yang ditargetkan. Perseroan tidak menunjuk pembeli siaga, sehingga tidak ada pihak yang wajib menyerap saham yang tidak diambil oleh pemegang HMETD maupun pemesan tambahan. Pemegang saham publik yang tidak ikut melaksanakan haknya berpotensi mengalami dilusi kepemilikan hingga 13,04 persen. Jadwal utama mencatat tanggal efektif pada 22 Oktober 2026, periode perdagangan dan pelaksanaan HMETD pada 5 hingga 18 November 2026, dan batas akhir pembayaran pemesanan tambahan pada 23 November 2026. Penasihat keuangan transaksi ini adalah PT Trimegah Sekuritas Indonesia Tbk."
+  ],
+  "fotoAdegan": "Construction workers assembling steel framework at a data center building site in an Indonesian industrial park, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik MGLV, karena sekitar 89 persen dari dana rights issue, gabungan Rp668,6 miliar pembelian piutang dan Rp1,6 triliun setoran modal, mengalir ke entitas yang baru saja diakuisisi dari pemegang saham pengendali NDC sendiri, sementara publik menanggung risiko dilusi tanpa jaminan pembeli siaga. Jumlah saham beredar Perseroan berpotensi bertambah 15 persen dari 1,90 miliar menjadi 2,19 miliar saham jika seluruh hak dilaksanakan, sehingga laba bersih per saham, yakni bagian laba yang menjadi hak tiap lembar saham, berisiko terdilusi lebih dulu sebelum proyek data center di Batang dan Cikarang yang dibiayai dana ini sempat menghasilkan pendapatan. Ekuitas Perseroan memang bertambah dari setoran modal baru, tapi sebagian besar dananya langsung habis untuk membayar piutang dan modal kerja anak usaha yang belum tentu segera menghasilkan arus kas. Yang perlu dipantau berikutnya adalah realisasi partisipasi pemegang saham publik pada periode pelaksanaan HMETD 5 hingga 18 November 2026 serta tanggal efektif pada 22 Oktober 2026, karena tanpa pembeli siaga, rendahnya partisipasi publik akan langsung memperbesar porsi kepemilikan NDC yang kini 65,10 persen.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "bumi-danai-akuisisi-loyal-metals-dari-utang-glencore",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Danai Akuisisi Loyal Metals dari [Utang] Glencore",
+  "deck": "Bumi Resources mengoreksi nilai akuisisi Loyal Metals menjadi Rp1,004 triliun dan mengungkap dana US$54 juta berasal dari pinjaman Glencore Australia, sisanya dari kas internal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:12:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUMI",
+  "tags": [
+   "BUMI",
+   "Loyal Metals",
+   "akuisisi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Bumi Resources Tbk menjawab permintaan penjelasan Bursa Efek Indonesia (BEI) tertanggal 8 September 2026 soal akuisisi Loyal Metals Ltd (LM). Perseroan mengoreksi nilai transaksi yang sempat dipertanyakan Bursa sebesar Rp3.208.743.000.000, dan menyatakan nilai sebenarnya adalah AUD79.069.731,75 atau setara Rp1.004.742.244.136,50 berdasarkan kurs tengah Bank Indonesia per 1 September 2026. Harga tersebut ditentukan dari hasil uji kelayakan hukum, keuangan, pajak, dan teknis oleh penasihat independen perseroan, ditambah negosiasi dengan LM.",
+   "Soal sumber dana, BUMI merinci bahwa US$54 juta atau setara Rp958.284.000.000 berasal dari pinjaman pihak ketiga, yakni Glencore Australia Holdings Pty Limited, berdasarkan perjanjian fasilitas pinjaman tertanggal 24 Agustus 2026. Sisanya, Rp46.458.244.136,50, diambil dari kas internal perseroan.",
+   "LM merupakan perusahaan induk dengan empat anak usaha pemegang konsesi tambang di Queensland, Australia. Highway Copper Gold Pty Ltd, yang sahamnya dikuasai penuh oleh LM, sudah mengantongi izin operasi produksi dan dinilai siap mulai berproduksi. Tiga aset lain, yaitu Trieste Lithium, HWY4 Lithium (masing-masing dimiliki penuh), dan American Consolidated Lithium (dimiliki 49 persen), masih berada di tahap eksplorasi. Berdasarkan laporan keuangan LM per 31 Desember 2025 yang dikutip Bursa, perusahaan itu belum membukukan pendapatan, mencatat rugi, dan defisit saldo labanya membesar. BUMI menargetkan tambang tembaga-emas Highway Reward baru menyumbang pendapatan pada tahun kedua setelah akuisisi, sementara waktu kontribusi dari aset litium baru bisa dipastikan setelah eksplorasi dan evaluasi rampung.",
+   "Perseroan juga melaporkan perkembangan dua anak usaha Australia lainnya: Wolfram Limited sudah mulai menyumbang pendapatan sejak produksi perdananya pada Mei 2026, sementara Jubilee Metals masih membangun pabrik pengolahan Carbon-in-Leach dan baru akan mulai menambang setelah pabrik itu rampung. BUMI menyatakan belum ada opsi pendanaan lanjutan yang diputuskan untuk membiayai pengembangan bisnis LM ke depan, dan menegaskan tidak ada fakta material lain yang belum diungkap ke publik."
+  ],
+  "fotoAdegan": "Excavator loading ore into a large mining truck at an open-pit copper mine, dusty reddish terrain under bright daylight",
+  "takeaway": "Laporan ini netral bagi BUMI karena isinya sekadar meluruskan angka yang keliru sekaligus membuka rincian yang sebelumnya tertutup, bukan kabar baik atau buruk yang tegas. Yang perlu diperhatikan pemegang saham adalah dua pos: kewajiban utang perseroan bertambah karena separuh dana akuisisi berasal dari pinjaman Glencore senilai hampir Rp1 triliun, dan kas internal berkurang Rp46,5 miliar, sementara aset yang dibeli, yaitu LM, masih rugi dan belum punya pendapatan sama sekali. Artinya beban bunga pinjaman baru ini harus ditanggung dulu sebelum tambang-tambang LM benar-benar menghasilkan uang. Yang perlu dipantau adalah apakah tambang Highway Reward benar-benar mulai menyumbang pendapatan pada tahun kedua setelah akuisisi seperti ditargetkan perseroan, serta perkembangan pembangunan pabrik CIL milik Jubilee Metals yang akan menentukan kapan tambang itu mulai beroperasi penuh.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "untr-laba-bersih-anjlok-88-jadi-rp956-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Bersih [Anjlok] 88% jadi Rp956 Miliar di Semester I 2026",
+  "deck": "Public expose UNTR mengungkap laba bersih turun 88% jadi Rp956 miliar, terbebani impairment geotermal Rp2,76 triliun, sementara buyback saham terus berlanjut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:00:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/25a46a2e69_83bf6d45e1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UNTR",
+  "tags": [
+   "UNTR",
+   "public expose",
+   "laba bersih",
+   "buyback saham"
+  ],
+  "body": [
+   "PT United Tractors Tbk (UNTR) memaparkan kinerja keuangan semester pertama 2026 dalam Public Expose Live 2026 yang digelar BEI pada 7 September 2026, dihadiri Presiden Direktur Iwan Hadiantoro, jajaran direksi, dan Sekretaris Perusahaan Ari Setiyawan. Perseroan membukukan pendapatan bersih Rp58,3 triliun, turun 15 persen dari Rp68,5 triliun pada periode sama 2025. Laba bersih tidak termasuk item non-recurring turun 48 persen menjadi Rp4,3 triliun, sedangkan laba bersih setelah memperhitungkan item non-recurring anjlok 88 persen menjadi Rp956 miliar dari Rp8,13 triliun. Laba per saham ikut turun tajam dari Rp2.239 menjadi Rp271. Manajemen menyebut penurunan ini terutama dipicu penjualan emas yang lebih rendah dari tambang Martabe milik PT Agincourt Resources, serta pelemahan segmen Alat Berat dan Batu Bara Termal dan Metalurgi akibat alokasi RKAB batu bara nasional 2026 yang lebih kecil, yang sebagian diimbangi kenaikan pendapatan segmen Kontraktor Penambangan karena penguatan kurs dolar AS.",
+   "Item non-recurring senilai Rp3,3 triliun berasal dari dua hal: pencatatan penurunan nilai (impairment) penuh atas investasi UNTR di PT Supreme Energy Rantau Dedap, proyek panas bumi dengan kepemilikan UT sekitar 40 persen, setelah realisasi kapasitas pembangkitnya hanya 50-52 Megawatt dari target awal 90 Megawatt; dan pembayaran terkait kegiatan di kawasan hutan sehubungan Persetujuan Pemanfaatan Kawasan Hutan di Tambang Nikel Stargate. Direktur Vilihati Surya menegaskan Perseroan tidak akan menambah modal atau pinjaman pemegang saham ke proyek Rantau Dedap maupun investasi panas bumi lain ke depan. Posisi keuangan UNTR pun berbalik dari kas bersih Rp7,7 triliun per 31 Desember 2025 menjadi utang bersih Rp9,4 triliun per 30 Juni 2026 dengan rasio gearing 8,5 persen, terutama akibat akuisisi perusahaan tambang emas dan program pembelian kembali saham.",
+   "Di segmen Alat Berat, penjualan unit Komatsu sampai Juli 2026 turun 23 persen menjadi 2.393 unit, dengan penjualan big machine tambang anjlok 49 persen menjadi 405 unit, sehingga total pendapatan segmen ini turun 28 persen menjadi Rp15,0 triliun meski pendapatan suku cadang dan jasa pemeliharaan naik tipis 1 persen menjadi Rp5,5 triliun. Segmen Kontraktor Penambangan melalui PAMA dan KPP Mining mencatat volume pemindahan tanah turun 10 persen menjadi 573 juta bcm dan produksi batu bara klien turun 3 persen menjadi 80 juta ton, namun pendapatannya tetap naik 4 persen menjadi Rp27,2 triliun. Segmen Batu Bara Termal dan Metalurgi melalui Tuah Turangga Agung mencatat penjualan 6,5 juta ton batu bara, turun 18 persen, setelah RKAB awal 15 juta ton direvisi turun menjadi 7,5 juta ton pada April 2026, dengan realisasi 75 persen kuota sudah terpakai di semester pertama sehingga menekan penjualan Juli. Perseroan telah mendapat persetujuan revisi RKAB baru dengan target 9,9 juta ton dari tambang sendiri, plus proyeksi total penjualan batu bara FY2026 sebesar 12,1 juta ton termasuk coal trading. Segmen Emas dan Mineral Lainnya mencatat pendapatan anjlok 66 persen menjadi Rp2,4 triliun setelah penjualan emas turun 82 persen menjadi 32 ribu ons dari 143 ribu ons tahun lalu, dengan target penjualan emas sepanjang 2026 di kisaran 60.000-65.000 ons.",
+   "Perseroan menyelesaikan program pembelian kembali saham periode 1 April hingga 30 Juni 2026 sebanyak 35,5 juta lembar, dan kini menjalankan program baru senilai maksimal Rp2 triliun untuk periode 1 Juli sampai 30 September 2026. Secara akumulatif sejak Juli 2022, UNTR telah membeli kembali 239 juta saham senilai sekitar Rp7,1 triliun. Pada 11 Februari 2026, UNTR melalui anak usahanya PT Danusa Tambang Nusantara dan PT Energia Prima Nusantara merampungkan akuisisi 100 persen saham PT Arafura Surya Alam, perusahaan tambang emas di Sulawesi Utara, dengan target produksi komersial mulai 2029. Anak usaha lain, PT Energia Prima Nusantara, juga memegang 21 persen saham dalam konsorsium proyek pembangkit listrik tenaga sampah Legok Nangka berkapasitas sekitar 40 Megawatt yang dipimpin Sumitomo Corporation, dengan konstruksi ditargetkan mulai tahun depan dan rampung 2030. Manajemen memproyeksikan kinerja membaik pada semester kedua 2026 seiring revisi RKAB batu bara, pemulihan Martabe, dan penjualan alat berat."
+  ],
+  "fotoAdegan": "Heavy mining excavator loading coal onto a large dump truck at an open-pit mine, dusty haze, overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi UNTR, karena laba bersih anjlok 88 persen menjadi Rp956 miliar dan pendapatan turun 15 persen mengikuti pelemahan di hampir seluruh lini bisnis inti, sementara satu-satunya segmen yang tumbuh, Kontraktor Penambangan, terbantu penguatan kurs dolar, bukan semata kinerja operasional. Laba per saham yang turun dari Rp2.239 menjadi Rp271 berarti tiap lembar saham kini menghasilkan laba jauh lebih kecil, dan posisi keuangan yang berbalik dari kas bersih Rp7,7 triliun menjadi utang bersih Rp9,4 triliun menunjukkan UT kini menanggung beban utang neto usai membiayai akuisisi tambang emas dan buyback saham, meski rasio utang terhadap modalnya masih tergolong rendah di 8,5 persen. Yang perlu dipantau selanjutnya adalah realisasi revisi RKAB Turangga Resources di semester kedua dengan target 9,9 juta ton, pemulihan penuh tambang emas Martabe menuju target 60.000-65.000 ons sepanjang 2026, serta kelanjutan program buyback saham senilai maksimal Rp2 triliun yang berjalan hingga 30 September 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "public-expose-elsa-laba-bersih-melonjak-29-2-ke-rp435-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ELSA: Laba Bersih [Melonjak] 29,2% ke Rp435 Miliar",
+  "deck": "Manajemen Elnusa memaparkan laba bersih semester I 2026 naik 29,2% menjadi Rp435 miliar dalam public expose 7 September 2026, didorong efisiensi dan laba kurs.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T18:59:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/defbe0ae6c_6575ce6a53.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "public expose",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Elnusa Tbk (ELSA) melaporkan hasil public expose tahunan kepada Bursa Efek Indonesia pada 10 September 2026. Acara berlangsung Senin, 7 September 2026 pukul 15.00 sampai 16.00 WIB secara virtual lewat Zoom Webinar dan kanal Youtube IDX, dihadiri 142 peserta di luar jajaran manajemen dan karyawan perseroan. Materi disampaikan oleh Direktur Keuangan Nelwin Aldriansyah, Direktur Operasi Andri Haribowo, dan VP Finance & Treasury Hanny Retno Hapsari.",
+   "Untuk semester I 2026, Elnusa membukukan pendapatan Rp7,58 triliun, naik 8,9 persen dibanding periode yang sama tahun sebelumnya. EBITDA tercatat Rp862 miliar, tumbuh 16,2 persen, sementara laba bersih melonjak 29,2 persen menjadi Rp435 miliar dengan margin laba bersih 5,73 persen. Total aset perseroan mencapai Rp11,4 triliun dan ekuitas Rp5,43 triliun, dengan arus kas dari operasi Rp761 miliar serta saldo kas Rp2,88 triliun. Dari tiga segmen usaha, segmen Penjualan Barang serta Distribusi dan Logistik Energi menjadi penyumbang terbesar dengan pendapatan Rp4,92 triliun dan laba bersih Rp293 miliar, tumbuh masing-masing 26,6 persen dan 54,4 persen secara tahunan. Segmen Jasa Hulu Migas Terintegrasi mencatat pendapatan Rp2,06 triliun dengan laba bersih Rp99 miliar, turun dari periode sebelumnya, sedangkan segmen Jasa Pendukung Hulu Migas membukukan pendapatan Rp610 miliar dan laba bersih Rp41,8 miliar. Perseroan menutup semester dengan kontrak berjalan (carry forward contract) senilai Rp18,8 triliun, setelah memperoleh kontrak baru Rp11,6 triliun sepanjang enam bulan pertama, terbesar dari segmen Distribusi dan Logistik Energi sebesar Rp9 triliun. Belanja modal 2026 dianggarkan Rp602 miliar dan baru terealisasi sekitar 35 persen hingga Juni.",
+   "Dalam sesi tanya jawab, investor bernama Daniel mempertanyakan mengapa laba bersih tumbuh 29,2 persen jauh di atas pertumbuhan pendapatan 8,9 persen, sementara 78 persen pendapatan berasal dari pelanggan afiliasi Pertamina Group. Manajemen menjawab kenaikan laba terutama berasal dari efisiensi operasional dan pendukung operasional, ditambah untung selisih kurs, dan menegaskan kewajaran harga transaksi dengan afiliasi selalu direview konsultan independen. Investor yang sama juga menanyakan pergeseran belanja modal dari segmen hulu ke distribusi dan logistik, yang menurut manajemen bertujuan menyeimbangkan portofolio, serta kepatuhan sanksi internasional terkait operasi di Algeria, Libya, Irak, dan Myanmar di bawah struktur kepemilikan Danantara, yang dijawab manajemen dengan proses risk assessment, legal review, due diligence, dan compliance review pada setiap peluang bisnis internasional."
+  ],
+  "fotoAdegan": "Workers checking pipeline valves at a fuel distribution terminal with storage tanks in the background, overcast morning light.",
+  "takeaway": "Laporan ini condong positif bagi Elnusa, karena pendapatan, EBITDA, dan laba bersih semester I 2026 semuanya tumbuh dua digit dibandingkan tahun sebelumnya, ditambah kas dan kontrak berjalan yang masih tebal. Namun lonjakan laba bersih 29,2 persen jauh melampaui pertumbuhan pendapatan yang hanya 8,9 persen, dan menurut pengakuan manajemen sendiri ini banyak disumbang efisiensi biaya serta untung selisih kurs, bukan murni dari kenaikan penjualan, sehingga jenis laba seperti ini cenderung tidak berulang setiap periode. Arus kas operasi, yakni uang tunai yang benar-benar masuk dari kegiatan bisnis inti, tercatat Rp761 miliar, sementara ekuitas atau kekayaan bersih pemegang saham naik menjadi Rp5,43 triliun, tanda modal perusahaan masih menguat. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 untuk melihat apakah kenaikan laba bisa berlanjut tanpa sokongan laba kurs, sekaligus kelanjutan realisasi belanja modal yang baru mencapai 35 persen dari target Rp602 miliar hingga Juni dan progres proyek Terminal LPG Kolaka yang baru rampung sekitar 15 persen.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "raja-jelaskan-ke-bursa-akuisisi-5-lng-senilai-us-43-7-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Jelaskan ke Bursa, Akuisisi 5% LNG Senilai [US$43,7 Juta]",
+  "deck": "RAJA menjelaskan ke BEI bahwa akuisisi 5% saham PT Layar Nusantara Gas oleh anak usahanya senilai US$43,7 juta didanai pinjaman bank dan bukan transaksi material maupun afiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T18:59:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57f2d6853f_6a45011c0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAJA",
+  "tags": [
+   "RAJA",
+   "akuisisi LNG",
+   "Bursa Efek Indonesia",
+   "Genting"
+  ],
+  "body": [
+   "PT Rukun Raharja Tbk (RAJA) menyampaikan penjelasan tertulis kepada Bursa Efek Indonesia (BEI) menanggapi permintaan penjelasan bursa bernomor S-11483/BEI.PP2/09-2026 tertanggal 9 September 2026, terkait akuisisi 5% saham PT Layar Nusantara Gas (PT LNG) oleh anak usahanya, PT Raharja Gas Kasuri (RGK). Corporate Secretary RAJA, Yuni Pattinasarani, dalam surat bernomor RR/CO/09.357/IX/2026 yang ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto, menjelaskan bahwa nilai transaksi pengambilalihan tersebut sebesar US$43,7 juta, sudah termasuk uang muka US$5 juta yang dibayarkan Mei 2026. Perjanjian jual beli saham (Share Sale and Purchase Agreement) diteken 29 April 2026 dan transaksinya rampung pada 4 September 2026. Dana untuk transaksi ini berasal dari fasilitas pinjaman bank yang diperoleh RAJA, yang kemudian diteruskan ke RGK dalam bentuk pinjaman pemegang saham, dan kewajiban RGK ke depan akan menyesuaikan dengan kebutuhan setoran dana dari PT LNG sesuai porsi kepemilikan 5%.",
+   "Sebelum transaksi, saham PT LNG dipegang oleh Genting LNG Pte Ltd sebesar 88,18% dan Genting Bintuni Pte Ltd sebesar 11,82%. Setelah RGK masuk dengan 5%, porsi Genting LNG turun menjadi 83,18% sementara Genting Bintuni tetap 11,82%. PT LNG adalah perusahaan pengembang infrastruktur midstream dan downstream gas bumi yang mengolah gas dari Blok Kasuri di Papua Barat, dengan aset utama berupa kapal floating liquefied natural gas (FLNG) berkapasitas 1,2 juta ton per tahun dan kapasitas simpan LNG 180.000 meter kubik. Proyek ini masih tahap konstruksi dengan kontraktor utama Wison New Energies dan ditargetkan mulai beroperasi komersial pada triwulan II 2028. RAJA menyebut harga akuisisi mengacu pada 5% dari total dana yang telah disetorkan Genting LNG dan Genting Bintuni ke PT LNG, baik berupa modal maupun pinjaman pemegang saham, sehingga RGK masuk dengan dasar biaya setara pemegang saham lama. Perseroan juga menyebutkan proyeksi pendapatan PT LNG saat beroperasi penuh mencapai US$755 juta per tahun dengan EBITDA US$300 juta per tahun, sehingga porsi ekonomis RAJA lewat RGK setara sekitar US$38 juta pendapatan dan US$15 juta EBITDA per tahun.",
+   "RAJA menegaskan transaksi ini bukan Transaksi Material karena nilainya, US$43,7 juta, setara 17% dari total ekuitas konsolidasian Perseroan per 30 Juni 2026 sebesar US$263,57 juta, masih di bawah ambang batas 20% yang diatur POJK No. 17/POJK.04/2020, sehingga tidak memerlukan penilai independen maupun persetujuan RUPS. Perseroan juga menyatakan Genting LNG bukan pihak terafiliasi dan transaksi dilakukan secara wajar dengan pihak ketiga independen, sementara penerusan dana dari RAJA ke RGK dikecualikan dari definisi transaksi afiliasi karena RGK adalah anak usaha yang sahamnya dimiliki lebih dari 99% oleh RAJA. Meski tidak diwajibkan regulasi, RAJA tetap menunjuk kantor jasa penilai publik untuk menilai valuasi saham demi memenuhi prinsip akuntansi PSAK 103 tentang kombinasi bisnis, dan proses penilaian itu disebut masih dalam tahap perhitungan dan finalisasi. Perseroan menyatakan tidak ada informasi atau fakta material lain terkait transaksi ini yang belum diungkapkan."
+  ],
+  "fotoAdegan": "Coastal gas processing pipelines and storage tanks under construction, workers in hard hats, cranes in the background, overcast tropical sky",
+  "takeaway": "Penjelasan ini netral bagi RAJA, sebab tidak mengubah gambaran yang sudah diketahui pasar sejak transaksi diumumkan rampung pada 8 September, dan manfaat ekonominya baru terasa setelah PT LNG beroperasi penuh pada 2028. Yang perlu dicermati investor adalah sumber dananya, transaksi senilai US$43,7 juta ini dibiayai dari pinjaman bank yang diteruskan sebagai pinjaman pemegang saham ke RGK, sehingga menambah beban bunga Perseroan meski nilainya baru 17 persen dari ekuitas dan masih di bawah ambang batas transaksi material 20 persen. Di sisi lain potensi jangka panjangnya cukup besar, porsi 5% RAJA di PT LNG diproyeksikan menyumbang sekitar US$38 juta pendapatan dan US$15 juta EBITDA per tahun begitu kilang FLNG beroperasi penuh, yang nanti masuk ke laporan keuangan konsolidasi Perseroan. Yang perlu dipantau berikutnya adalah target commercial operation date PT LNG pada triwulan II 2028 serta hasil penilaian independen KJPP untuk kepentingan PSAK 103 yang menurut Perseroan masih dalam tahap perhitungan, karena angka itu akan menentukan kewajaran valuasi akuisisi 5% saham ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",

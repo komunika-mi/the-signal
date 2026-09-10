@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smdr-jawab-bei-margin-susut-laba-nyaris-stagnan",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Jawab BEI: [Margin] Susut, Laba Nyaris Stagnan",
+  "deck": "SMDR menjelaskan ke BEI penyebab margin kotor yang menyusut, beban penyusutan naik 71 persen, dan laba bersih semester I 2026 yang nyaris tak tumbuh.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "Samudera Indonesia",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptba-beber-laba-naik-218-proyek-kramasan-alami-keterlambatan",
+  "category": "Aksi Korporasi",
+  "title": "PTBA Beber Laba Naik 218%, Proyek [Kramasan] Alami Keterlambatan",
+  "deck": "Public expose PTBA memaparkan laba bersih semester I 2026 melonjak 218 persen menjadi Rp2,64 triliun, sementara proyek Dermaga Kramasan molor dari jadwal semula.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTBA",
+   "Bukit Asam",
+   "Public Expose",
+   "Kramasan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/aafbb37770_dcbb02c8e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "isea-jawab-bursa-utang-lampaui-proyeksi-marjin-turun",
+  "category": "Aksi Korporasi",
+  "title": "ISEA Jawab Bursa: [Utang] Lampaui Proyeksi, Marjin Turun",
+  "deck": "ISEA menjawab permintaan penjelasan Bursa Efek Indonesia soal rasio utang yang melampaui proyeksi IPO, margin laba kotor yang menyusut, dan piutang usaha yang seluruhnya telah jatuh tempo.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISEA",
+   "Bursa Efek Indonesia",
+   "ekspor udang",
+   "tarif AS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/26897befd3_af1cd42d3c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lppi-tawarkan-obligasi-dan-sukuk-tahap-iv-rp1-68-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LPPI Tawarkan Obligasi dan Sukuk Tahap IV [Rp1,68 Triliun]",
+  "deck": "LPPI menawarkan obligasi tahap IV senilai sebanyak-banyaknya Rp1 triliun dan sukuk mudharabah Rp676,63 miliar, dengan bunga tetap 10-10,5 persen dan masa penawaran 23-25 September 2026.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LPPI",
+   "obligasi",
+   "sukuk",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/de4474cc13_86305c0da0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btps-rinci-ekspansi-pembiayaan-individu-dan-nbfi-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "BTPS Rinci Ekspansi Pembiayaan Individu dan [NBFI] di Public Expose",
+  "deck": "BTPN Syariah membukukan laba Rp655 miliar pada semester satu 2026 dan memaparkan rincian ekspansi ke pembiayaan individu, wealth management, dan pembiayaan ke lembaga keuangan non-bank.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPS",
+   "Bank BTPN Syariah",
+   "public expose",
+   "pembiayaan individu"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/040f744126_c1bf31a152.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mglv-wajib-gelar-public-expose-usai-disuspensi-cooling-down",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Wajib Gelar Public Expose Usai Disuspensi [Cooling Down]",
+  "deck": "Perdagangan saham MGLV disetop sementara oleh BEI untuk cooling down, dan Perseroan diminta memaparkan kinerja terkini secara virtual pada 16 September 2026.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "suspensi saham",
+   "public expose",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f15b2865e_d9c43ac35d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",
   "category": "Global",
   "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
@@ -19,6 +115,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7089/dari-rencana-ke-lapangan-kerja-menko-airlangga-jadikan-pertemuan-imt-gt-tahun-ini-sebagai-ministerial-meeting-of-implementation",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "mglv-patok-harga-rights-issue-rp8-880-kejar-rp2-54-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Patok Harga Rights Issue Rp8.880, Kejar [Rp2,54 Triliun]",
+  "deck": "MGLV mematok harga pelaksanaan rights issue Rp8.880 per saham dan menargetkan dana hingga Rp2,54 triliun, dengan pemegang saham utama NDC berkomitmen menyerap seluruh haknya senilai Rp1,65 triliun.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "rights issue",
+   "HMETD",
+   "data center"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bumi-danai-akuisisi-loyal-metals-dari-utang-glencore",
+  "category": "Aksi Korporasi",
+  "title": "BUMI Danai Akuisisi Loyal Metals dari [Utang] Glencore",
+  "deck": "Bumi Resources mengoreksi nilai akuisisi Loyal Metals menjadi Rp1,004 triliun dan mengungkap dana US$54 juta berasal dari pinjaman Glencore Australia, sisanya dari kas internal.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUMI",
+   "Loyal Metals",
+   "akuisisi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "untr-laba-bersih-anjlok-88-jadi-rp956-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "UNTR: Laba Bersih [Anjlok] 88% jadi Rp956 Miliar di Semester I 2026",
+  "deck": "Public expose UNTR mengungkap laba bersih turun 88% jadi Rp956 miliar, terbebani impairment geotermal Rp2,76 triliun, sementara buyback saham terus berlanjut.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UNTR",
+   "public expose",
+   "laba bersih",
+   "buyback saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/25a46a2e69_83bf6d45e1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-elsa-laba-bersih-melonjak-29-2-ke-rp435-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ELSA: Laba Bersih [Melonjak] 29,2% ke Rp435 Miliar",
+  "deck": "Manajemen Elnusa memaparkan laba bersih semester I 2026 naik 29,2% menjadi Rp435 miliar dalam public expose 7 September 2026, didorong efisiensi dan laba kurs.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "public expose",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/defbe0ae6c_6575ce6a53.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "raja-jelaskan-ke-bursa-akuisisi-5-lng-senilai-us-43-7-juta",
+  "category": "Aksi Korporasi",
+  "title": "RAJA Jelaskan ke Bursa, Akuisisi 5% LNG Senilai [US$43,7 Juta]",
+  "deck": "RAJA menjelaskan ke BEI bahwa akuisisi 5% saham PT Layar Nusantara Gas oleh anak usahanya senilai US$43,7 juta didanai pinjaman bank dan bukan transaksi material maupun afiliasi.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAJA",
+   "akuisisi LNG",
+   "Bursa Efek Indonesia",
+   "Genting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57f2d6853f_6a45011c0e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
@@ -6330,182 +6506,5 @@ var ARTICLES = [
   "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
   "sourceUrl": "https://gapki.id/news/2026/07/15/ekspor-sawit-turun-28-stok-cpo-nasional-capai-304-juta-ton/",
   "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
- },
- {
-  "slug": "bbni-kinerja-laba-1h26-naik-7-jadi-rp10-8-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BBNI [Kinerja]: Laba 1H26 Naik 7% Jadi Rp10,8 Triliun",
-  "deck": "BNI memaparkan kinerja semester I 2026 dalam materi Public Expose Tahunan: laba bersih naik 7% menjadi Rp10,8 triliun, kredit tumbuh 24,4%, dan kualitas aset membaik.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "Bank Negara Indonesia",
-   "Public Expose",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6503bc751e_64e2e5b849.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csis-revisi-laporan-dana-rights-issue-baru-5-33-terealisasi",
-  "category": "Aksi Korporasi",
-  "title": "CSIS Revisi Laporan Dana Rights Issue, Baru [5,33%] Terealisasi",
-  "deck": "PT Cahayasakti Investindo Sukses Tbk merevisi laporan realisasi dana rights issue Rp196,7 miliar per Juni 2026, baru 5,33 persen terpakai untuk proyek infrastruktur di kawasan industri Cikembar.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSIS",
-   "rights issue",
-   "realisasi penggunaan dana",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d36fc6e9c0_1a421b3c8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ufoe-bantah-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "UFOE Bantah Ada [Informasi Material] di Balik Volatilitas Saham",
-  "deck": "PT Damai Sejahtera Abadi Tbk merespons permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UFOE",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9cc2894bf9_d2a21732a8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "magang-nasional-buka-lagi-kuota-50-ribu-peserta",
-  "category": "Ketenagakerjaan",
-  "title": "Magang Nasional Buka Lagi, Kuota [50 Ribu] Peserta",
-  "deck": "Kemnaker membuka pendaftaran MagangHub Batch 2 Angkatan II 2026 pada 3-8 September, bagian dari total kuota tahun ini yang naik jadi 150 ribu peserta.",
-  "date": "4 September 2026",
-  "image": "assets/img/magang-nasional-buka-lagi-kuota-50-ribu-peserta.jpg",
-  "imageV": "mtmk00as",
-  "tags": [
-   "MagangHub",
-   "Kemnaker",
-   "Magang Nasional",
-   "Yassierli"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464814-program-magang-nasional-kembali-dibuka-kuota-50-ribu-catat-jadwalnya"
- },
- {
-  "slug": "baik-gelar-public-expose-usai-saham-kena-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "BAIK Gelar Public Expose Usai Saham Kena [Suspensi]",
-  "deck": "BAIK memaparkan kinerja usai sahamnya disuspensi bursa karena penurunan harga kumulatif; penjualan dan laba usaha kuartal II turun dua digit.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAIK",
-   "Suspensi Saham",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4fef1ae562_384ff8d172.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cuan-negosiasi-pengambilalihan-sini-kuasai-27-78-saham",
-  "category": "Aksi Korporasi",
-  "title": "CUAN Negosiasi [Pengambilalihan] SINI, Kuasai 27,78% Saham",
-  "deck": "CUAN, melalui dua anak usahanya, kini menguasai 27,78% saham SINI dan tengah bernegosiasi untuk mengambil alih pengendalian perusahaan tambang itu.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CUAN",
-   "SINI",
-   "akuisisi",
-   "pertambangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/183a73b163_2e996ca10d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sido-laba-bersih-turun-44-jadi-rp334-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "SIDO: Laba Bersih Turun 44% Jadi [Rp334 Miliar] di Semester I 2026",
-  "deck": "Sido Muncul memaparkan materi public expose tahunan yang menunjukkan pendapatan dan laba bersih semester I 2026 anjlok akibat normalisasi persediaan Tolak Angin di distributor.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIDO",
-   "Sido Muncul",
-   "kinerja keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/51bce25d28_44e0b156fa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "moli-bantah-ada-info-material-di-balik-lonjakan-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "MOLI Bantah Ada Info Material di Balik [Lonjakan] Sahamnya",
-  "deck": "Merespons permintaan Bursa Efek Indonesia, Madusari Murni Indah (MOLI) menyatakan tidak ada informasi material di balik kenaikan harga dan aktivitas sahamnya pada 31 Agustus 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MOLI",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/47319ca8c9_d6c55faf46.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gema-jawab-bei-tak-ada-info-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "GEMA Jawab BEI, Tak Ada Info di Balik [Volatilitas] Saham",
-  "deck": "Bursa Efek Indonesia meminta penjelasan GEMA soal volatilitas transaksi sahamnya. Perseroan menjawab tidak ada informasi material atau rencana aksi korporasi yang disembunyikan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/784f292ec2_07a712664d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smbr-jawab-bursa-ungkap-rencana-streamlining-dengan-anak-usaha",
-  "category": "Aksi Korporasi",
-  "title": "SMBR Jawab Bursa, Ungkap Rencana [Streamlining] dengan Anak Usaha",
-  "deck": "Semen Baturaja menjelaskan lonjakan transaksi sahamnya ke BEI dan membuka rencana restrukturisasi dengan entitas anak usaha yang masih dikaji, bagian dari perampingan grup Semen Indonesia atas arahan Danantara.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMBR",
-   "Semen Baturaja",
-   "Danantara",
-   "Semen Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/308481bdf7_47157eda5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jsmr-catat-ebitda-tumbuh-8-1-pada-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "JSMR Catat EBITDA [Tumbuh] 8,1% pada Semester I 2026",
-  "deck": "Materi public expose JSMR menunjukkan pendapatan naik 7,6% dan EBITDA naik 8,1% secara tahunan pada semester I 2026, menjelang paparan publik pada 9 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JSMR",
-   "Jasa Marga",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbd4a01627_a02dca93f0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

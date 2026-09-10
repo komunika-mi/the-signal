@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ipac-jadwalkan-rupslb-20-oktober-dps-25-september",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Jadwalkan RUPSLB 20 Oktober, DPS [25 September]",
+  "deck": "Era Graharealty (IPAC) akan menggelar RUPSLB pada 20 Oktober 2026. Pemegang saham yang berhak hadir dicatat per 25 September 2026 pukul 16.00 WIB.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "RUPSLB",
+   "Era Graharealty",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22b028bb1a_e5485154f2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ipac-ajukan-delisting-tender-saham-publik-rp250-saham",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Ajukan [Delisting], Tender Saham Publik Rp250/Saham",
+  "deck": "APAC Investment 2 Pte Ltd, pengendali IPAC, menawarkan Rp250 per saham untuk membeli sisa 9,4 persen saham publik, premi sekitar 44 persen dari rata-rata harga. RUPSLB digelar 20 Oktober 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "go private",
+   "delisting",
+   "tender offer saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24e3984bcc_151daa1854.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "beer-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "BEER Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
@@ -6472,38 +6504,6 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c83b9e4888_db3f9c22d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekuitas-mknt-minus-rp13-66-miliar-meski-pendapatan-melonjak",
-  "category": "Aksi Korporasi",
-  "title": "Ekuitas MKNT [minus] Rp13,66 miliar meski pendapatan melonjak",
-  "deck": "Laporan keuangan audited semester I 2026 MKNT menunjukkan ekuitas masih negatif Rp13,66 miliar, memburuk dari Rp7,35 miliar di akhir 2025, meski pendapatan melonjak ke Rp75,88 miliar.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "laporan keuangan",
-   "ekuitas negatif",
-   "smartphone"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/412f444943_589d630f9a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-jual-114-200-saham-rp61-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris [Jual] 114.200 Saham, Rp61,2 Juta",
-  "deck": "Komisaris AKPI Henry Liem melepas 114.200 saham senilai sekitar Rp61,2 juta pada 3 September 2026, kepemilikannya turun jadi 8.070.459 lembar atau 1,32 persen hak suara.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima Industry",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5351-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

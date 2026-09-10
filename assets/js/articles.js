@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ipac-jadwalkan-rupslb-20-oktober-dps-25-september",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Jadwalkan RUPSLB 20 Oktober, DPS [25 September]",
+  "deck": "Era Graharealty (IPAC) akan menggelar RUPSLB pada 20 Oktober 2026. Pemegang saham yang berhak hadir dicatat per 25 September 2026 pukul 16.00 WIB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T05:34:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/22b028bb1a_e5485154f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "RUPSLB",
+   "Era Graharealty",
+   "korporasi"
+  ],
+  "body": [
+   "PT Era Graharealty Tbk (IPAC) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 20 Oktober 2026 pukul 10.00 WIB, bertempat di TCC Batavia Tower One Lantai 8 Suite 3&5, Jalan KH Mas Mansyur Kav. 126, Jakarta. Perseroan menetapkan Jumat, 25 September 2026 pukul 16.00 WIB sebagai batas waktu pencatatan Daftar Pemegang Saham (DPS). Hanya pemegang saham yang namanya tercatat hingga waktu tersebut yang berhak hadir atau diwakilkan dalam rapat. Pengumuman ditandatangani Direktur Utama Darmadi Darmawangsa pada 11 September 2026, merujuk pada surat sebelumnya bernomor 129/ERA/IX/26.",
+   "Rapat akan digelar secara fisik dengan pembatasan kehadiran mengacu pada POJK Nomor 16/POJK.04/2020, sekaligus memakai fasilitas E-Proxy pada sistem Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (eASY.KSEI). Bagi pemegang saham yang tidak bisa hadir langsung, hak suara tetap bisa disalurkan lewat surat kuasa yang formulirnya tersedia di situs Perseroan, lalu suara diberikan secara elektronik melalui eASY.KSEI. Surat pemanggilan resmi yang memuat mata acara lengkap rapat baru akan diterbitkan pada Senin, 28 September 2026, dimuat di situs Bursa Efek Indonesia, situs Perseroan, dan eASY.KSEI.",
+   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat mengikuti Pasal 16 ayat 1 POJK 15/2020 dan Pasal 12 ayat 18 Anggaran Dasar Perseroan. Usulan itu harus diterima Direksi paling lambat tujuh hari kalender sebelum tanggal pemanggilan rapat, disertai alasan dan bahan pendukung, diajukan dengan iktikad baik, serta tidak bertentangan dengan peraturan yang berlaku. Dokumen pengumuman ini sendiri belum mencantumkan mata acara RUPSLB, sehingga agenda dan keputusan yang akan diambil baru akan diketahui lewat surat pemanggilan resmi akhir September mendatang."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a podium, floor-to-ceiling windows overlooking a Jakarta office tower skyline, soft morning light",
+  "takeaway": "Laporan ini netral karena isinya baru sebatas jadwal dan tata cara rapat, belum ada mata acara RUPSLB yang diungkapkan sehingga dampaknya terhadap kinerja Era Graharealty belum bisa dinilai. Yang layak dicermati pemegang saham adalah tanggal pencatatan 25 September 2026, sebab kalau keputusan yang nanti diambil dalam RUPSLB menyangkut aksi korporasi seperti penambahan modal atau perubahan pengurus, itu baru akan menyentuh pos-pos seperti jumlah saham beredar atau struktur permodalan perusahaan, hal yang biasanya diperhatikan pelaku pasar karena bisa mengubah proporsi kepemilikan pemegang saham lama. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi yang memuat agenda lengkap rapat, dijadwalkan terbit Senin, 28 September 2026, sebelum RUPSLB itu sendiri digelar pada 20 Oktober 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ipac-ajukan-delisting-tender-saham-publik-rp250-saham",
+  "category": "Aksi Korporasi",
+  "title": "IPAC Ajukan [Delisting], Tender Saham Publik Rp250/Saham",
+  "deck": "APAC Investment 2 Pte Ltd, pengendali IPAC, menawarkan Rp250 per saham untuk membeli sisa 9,4 persen saham publik, premi sekitar 44 persen dari rata-rata harga. RUPSLB digelar 20 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T05:33:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/24e3984bcc_151daa1854.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "go private",
+   "delisting",
+   "tender offer saham"
+  ],
+  "body": [
+   "Direksi PT Era Graharealty Tbk (IPAC) menyampaikan keterbukaan informasi kepada pemegang saham soal rencana mengubah status perusahaan dari terbuka menjadi tertutup sekaligus menghapus pencatatan sahamnya dari Bursa Efek Indonesia. Perseroan menyebut tiga alasan: sudah tidak memerlukan pendanaan lewat pasar modal dan tidak berencana menggalang dana lagi ke depan, ingin menekan biaya operasional agar lebih kompetitif, serta ingin fleksibilitas lebih besar untuk pengembangan bisnis dan restrukturisasi kepemilikan di dalam grup usahanya. Rencana ini wajib mendapat restu dari pemegang saham independen, yakni pemegang saham yang bukan direksi, komisaris, pemegang saham utama, atau afiliasi mereka, melalui rapat umum pemegang saham luar biasa. Surat permohonan pembatalan pencatatan ke BEI, bernomor 132/ERA/IX/26, sudah dikirim sejak 7 September 2026 dengan tembusan ke OJK.",
+   "Jika rencana ini disetujui, APAC Investment 2 Pte Ltd, pemegang saham pengendali IPAC dengan kepemilikan 860.562.600 saham atau 90,60 persen, akan membeli balik saham milik publik lewat penawaran tender sukarela. Jumlah yang ditawar untuk dibeli sebanyak-banyaknya 89.305.900 saham atau sekitar 9,4 persen dari total 948.868.500 saham beredar Perseroan, dengan harga Rp250 per saham. Harga itu dihitung berdasarkan formula POJK 45/2024, yang mewajibkan harga beli lebih tinggi dari rata-rata harga tertinggi perdagangan harian di bursa selama 90 hari bursa sebelum pengumuman RUPS, yang tercatat Rp173 per saham, sehingga premi yang ditawarkan sekitar 44,5 persen di atas rata-rata itu. Pemegang saham publik yang tidak menjual sahamnya dalam penawaran tender akan tetap menjadi pemegang saham Perseroan, hanya saja sahamnya sudah tidak lagi tercatat di bursa begitu status tertutup berlaku. Pemilik manfaat akhir APAC Investment 2 Pte Ltd tercatat sebagai Morgan Stanley.",
+   "RUPSLB untuk membahas rencana go private dan delisting ini dijadwalkan Selasa, 20 Oktober 2026 pukul 10.00 WIB, di kantor pusat Perseroan, TCC Batavia Tower One Lantai 8 Suite 3-5, Jakarta. Era Graharealty menjalankan usaha waralaba dan jasa agen real estat lewat merek ERA sejak 1992, dengan 16 anak usaha broker properti yang seluruhnya mayoritas dimiliki Perseroan. Dari sisi keuangan, ekuitas Perseroan naik dari Rp34,73 miliar pada 2023 menjadi Rp40,59 miliar pada 2025, sementara pendapatan naik dari Rp28,79 miliar menjadi Rp58,5 miliar pada periode yang sama. Namun laba tahun berjalan sempat anjlok dari Rp2,85 miliar pada 2023 menjadi Rp461,9 juta pada 2024, sebelum naik lagi menjadi Rp1,48 miliar pada 2025, mengikuti pola yang sama dengan laba per saham yang bergerak dari Rp3,35 ke Rp0,49 lalu ke Rp1,56 pada tiga tahun tersebut."
+  ],
+  "fotoAdegan": "Real estate agents in business attire showing a young couple around a modern apartment unit, Jakarta high-rise in background, daytime.",
+  "takeaway": "Laporan ini netral bagi Era Graharealty karena rencana go private lebih merupakan keputusan strategis pengendali ketimbang sinyal soal memburuk atau membaiknya usaha, meski harga tender Rp250 yang ditawarkan APAC Investment 2 Pte Ltd jelas menguntungkan pemegang saham publik yang memilih menjual karena jauh di atas rata-rata harga pasar. Yang perlu dicermati, harga itu setara sekitar 160 kali laba bersih per saham Era Graharealty tahun 2025 yang hanya Rp1,56, yaitu laba bersih dibagi jumlah saham beredar, ukuran yang biasa dipakai pasar untuk menilai mahal atau murahnya sebuah saham dibanding kemampuannya mencetak laba. Rasio setinggi itu menunjukkan pengendali menilai Perseroan jauh lebih berharga daripada yang tercermin dari laba akuntansinya saat ini, yang sempat anjlok dari Rp2,85 miliar pada 2023 menjadi Rp461,9 juta pada 2024 sebelum naik lagi menjadi Rp1,48 miliar pada 2025. Begitu delisting rampung, saham Era Graharealty tidak lagi bisa diperjualbelikan di bursa, sehingga pemegang saham yang tidak ikut tender kehilangan cara mudah mencairkan kepemilikannya. Yang perlu dipantau berikutnya adalah RUPSLB pada 20 Oktober 2026, yang menentukan apakah pemegang saham independen menyetujui rencana ini sebelum proses tender dan delisting benar-benar berjalan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "beer-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
   "category": "Aksi Korporasi",
   "title": "BEER Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",

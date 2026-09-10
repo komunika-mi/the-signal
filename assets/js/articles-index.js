@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
+  "category": "Energi",
+  "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",
+  "deck": "ICP Agustus 2026 naik ke US$89,43 per barel dipicu ketegangan di Selat Hormuz dan Laut Merah; September diproyeksikan US$83-87 per barel.",
+  "date": "11 September 2026",
+  "image": "assets/img/harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus.jpg",
+  "imageV": "mtw5d3nt",
+  "tags": [
+   "ICP",
+   "Harga Minyak Mentah",
+   "ESDM",
+   "Geopolitik Energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/icp-agustus-naik-ke-us-8943-per-barel-pemerintah-cermati-dinamika-pasar-global",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "ipac-jadwalkan-rupslb-20-oktober-dps-25-september",
   "category": "Aksi Korporasi",
   "title": "IPAC Jadwalkan RUPSLB 20 Oktober, DPS [25 September]",
@@ -6488,22 +6506,6 @@ var ARTICLES = [
    "penambahan modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0222554ff9_e4dc7ed2d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bjtm-laba-konsolidasi-naik-53-aset-bank-induk-menyusut",
-  "category": "Aksi Korporasi",
-  "title": "BJTM: Laba Konsolidasi Naik 53%, Aset Bank Induk [Menyusut]",
-  "deck": "Bank Jatim (BJTM) menyampaikan materi public expose tahunan ke bursa: laba konsolidasi grup usaha bank melonjak, tapi aset dan simpanan nasabah di Bank Jatim sendiri justru menyusut.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BJTM",
-   "Bank Jatim",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c83b9e4888_db3f9c22d7.pdf",
   "sourceLabel": "IDX"
  }
 ];

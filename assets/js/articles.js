@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
+  "category": "Energi",
+  "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",
+  "deck": "ICP Agustus 2026 naik ke US$89,43 per barel dipicu ketegangan di Selat Hormuz dan Laut Merah; September diproyeksikan US$83-87 per barel.",
+  "image": "assets/img/harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-10T23:12:11.369Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/icp-agustus-naik-ke-us-8943-per-barel-pemerintah-cermati-dinamika-pasar-global",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ICP",
+   "Harga Minyak Mentah",
+   "ESDM",
+   "Geopolitik Energi"
+  ],
+  "body": [
+   "Harga rata-rata minyak mentah Indonesia atau ICP untuk Agustus 2026 tercatat US$89,43 per barel, naik US$7,75 dibandingkan Juli yang berada di US$81,68 per barel. Kenaikan ini penting karena ICP menjadi acuan pemerintah untuk menghitung penerimaan negara dari sektor migas sekaligus menentukan besaran subsidi bahan bakar, sehingga pergerakannya ikut memengaruhi anggaran negara.",
+   "Angka tersebut ditetapkan lewat Keputusan Menteri ESDM Nomor 352.K/MG.03/MEM.M/2026. Direktur Jenderal Minyak dan Gas Bumi Laode Sulaeman menyebut kenaikan ICP sejalan dengan tren harga minyak acuan dunia lainnya sepanjang Agustus: Brent naik dari US$83,97 menjadi US$88,08 per barel, WTI naik dari US$79,22 menjadi US$82,45 per barel, dan Dated Brent naik dari US$83,41 menjadi US$90,84 per barel.",
+   "Pemerintah mengaitkan lonjakan harga ini dengan meningkatnya risiko geopolitik, termasuk ketegangan di Selat Hormuz dan Laut Merah yang diwarnai serangan terhadap kapal tanker dan fasilitas kilang. Pengetatan sanksi ekonomi-politik serta kebuntuan diplomasi internasional turut membatasi ruang bagi harga minyak dunia untuk turun.",
+   "Untuk September 2026, pemerintah memproyeksikan ICP masih akan berada di kisaran tinggi, yakni US$83 hingga US$87 per barel, dengan alasan potensi gangguan pasokan di Selat Hormuz dan perkiraan penurunan cadangan minyak Amerika Serikat. Pemerintah menegaskan akan terus memantau pergerakan harga dunia dan menyatakan formula ICP tetap transparan agar akuntabel bagi keuangan negara maupun industri hulu migas."
+  ],
+  "fotoAdegan": "Workers loading crude oil onto a tanker at an offshore platform terminal in Indonesian waters, overcast sky, wide shot",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-icp-agustus-naik-ke-us-8943-per-barel-pemerintah-cermati-dinamika-pasar-global-w2ey3uk.png",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Kenaikan ICP ke US$89,43 per barel ini penting karena angka tersebut dipakai pemerintah untuk dua hal: menghitung penerimaan negara dari penjualan minyak dan gas, serta menentukan besar subsidi bahan bakar yang ditanggung anggaran negara. Yang terdampak adalah perusahaan yang mengelola sumur minyak dan gas, yang diuntungkan oleh harga jual lebih tinggi, sekaligus anggaran subsidi energi yang berisiko membengkak kalau harga BBM bersubsidi tidak ikut disesuaikan. Proyeksi pemerintah sendiri untuk September, di kisaran US$83 sampai US$87 per barel, lebih rendah dari capaian Agustus tapi masih di atas level Juli, sehingga ada dua kemungkinan arah: harga mereda perlahan jika ketegangan di Selat Hormuz mulai surut, atau tetap tertahan tinggi jika gangguan pasokan benar-benar terjadi. Yang akan memastikan arah mana yang berlaku adalah angka ICP September, yang biasanya diumumkan ESDM lewat keputusan menteri pada awal Oktober.",
+  "imageV": "mtw5d3nt"
+ },
+ {
   "slug": "ipac-jadwalkan-rupslb-20-oktober-dps-25-september",
   "category": "Aksi Korporasi",
   "title": "IPAC Jadwalkan RUPSLB 20 Oktober, DPS [25 September]",

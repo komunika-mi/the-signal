@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "xxLrjG3tTXQ",
+  "title": "Pemerintah Antisipasi Stok Beras Akibat Kekeringan",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Harga beras mulai naik seiring musim kemarau yang menekan produksi padi, dan pemerintah menyiapkan langkah antisipasi menjaga pasokan.",
+  "takeaway": "Kenaikan harga beras berkaitan langsung dengan tekanan inflasi pangan dan daya beli masyarakat.",
+  "terbit": "2026-09-10T00:39:14+00:00"
+ },
+ {
   "id": "1RQbUny23CQ",
   "title": "PT Agrinas Palma Gelar Pasar Rakyat, Sembako Murah untuk Warga",
   "category": "BUMN",

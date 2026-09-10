@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "xxLrjG3tTXQ",
+  "title": "Pemerintah Antisipasi Stok Beras Akibat Kekeringan",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Harga beras mulai naik seiring musim kemarau yang menekan produksi padi, dan pemerintah menyiapkan langkah antisipasi menjaga pasokan.",
+  "takeaway": "Kenaikan harga beras berkaitan langsung dengan tekanan inflasi pangan dan daya beli masyarakat."
+ },
+ {
   "id": "1RQbUny23CQ",
   "title": "PT Agrinas Palma Gelar Pasar Rakyat, Sembako Murah untuk Warga",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Ulas Utas",
   "summary": "Badan Pusat Statistik mencatat backlog rumah tangga yang belum memiliki rumah di Indonesia menyusut menjadi 9,29 juta keluarga atau 12,39 persen dari total rumah tangga pada 2026.",
   "takeaway": "Data backlog perumahan ini penting sebagai indikator daya beli dan perkembangan sektor properti nasional."
- },
- {
-  "id": "tv6fetTfC-g",
-  "title": "Transformasi Pegadaian Jadi Pelopor Ekosistem Bullion Nasional",
-  "category": "Perbankan",
-  "program": "Inspirasi Pagi",
-  "summary": "PT Pegadaian memperkuat posisinya sebagai bank emas pertama di Indonesia, yang resmi beroperasi sejak 26 Februari 2025, untuk mengembangkan ekosistem bullion nasional.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan langkah BUMN memperluas layanan keuangan berbasis emas yang dapat memengaruhi industri perbankan dan investasi logam mulia di dalam negeri."
  }
 ];

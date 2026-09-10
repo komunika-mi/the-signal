@@ -3,6 +3,115 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "10-produk-umkm-pangan-tembus-rak-ritel-aeon",
+  "category": "UMKM",
+  "title": "10 Produk UMKM Pangan [Tembus] Rak Ritel AEON",
+  "deck": "Sepuluh UMKM pangan binaan Kemendag resmi masuk 19 gerai AEON Indonesia lewat MoU dan kontrak dagang, di tengah kurasi lanjutan dari lebih 1.200 pendaftar.",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T03:39:03.147Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sepuluh-produk-umkm-pangan-binaan-kemendag-tembus-jaringan-ritel-aeon-indonesia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "AEON",
+   "Kemendag",
+   "Ritel Modern"
+  ],
+  "body": [
+   "Sebanyak sepuluh produk pangan UMKM binaan Kementerian Perdagangan mulai dipasarkan di jaringan ritel AEON Indonesia, setelah penandatanganan nota kesepahaman antara Kemendag dan AEON Indonesia serta kontrak dagang langsung dengan sepuluh UMKM tersebut pada Rabu (9/9) di AEON Mall BSD City, Tangerang. Produk-produk ini akan dijual di 19 gerai AEON Mall dan supermarket AEON di seluruh Indonesia. Langkah ini membuka salah satu jalur distribusi skala nasional yang selama ini sulit dijangkau usaha kecil karena standar kualitas dan pasokan yang ketat.",
+   "Kesepuluh produk yang lolos adalah keripik jamur tiram, keripik tempe, bawang goreng premium, peyek, rendang kemasan, granola, brownies panggang, stik keju, kentang mustofa oven, dan kraker vegan panggang. Produk-produk ini dipilih dari 121 UMKM binaan Kemendag yang sebelumnya menjadi pemenang UKM Pangan Award dan peserta pameran Pangan Nusa Expo, melalui proses kurasi yang menurut Kemendag mencakup standar produk, legalitas usaha, hingga konsistensi pasokan. Nota kesepahaman kerja sama ditandatangani Direktur Jenderal Perdagangan Dalam Negeri Kemendag Iqbal Shoffan Shofwan dan Presiden Direktur PT AEON Indonesia Miyata Masato.",
+   "Masuknya sepuluh UMKM ini merupakan bagian dari proses kurasi yang lebih besar. Kemendag bersama AEON Indonesia sempat membuka undangan terbuka pada 26 Agustus hingga 1 September 2026, dan lebih dari 1.200 UMKM dari sektor makanan, minuman, kecantikan, serta kesehatan mendaftar sebagai calon pemasok. AEON Indonesia mengklaim toko-tokonya saat ini diisi lebih dari 77 persen produk dalam negeri, dan telah bermitra dengan lebih dari 100 UMKM dengan sekitar 500 jenis produk sejak 2015. Berdasarkan data Statista yang dikutip Kemendag, pasar makanan dan minuman dalam negeri diproyeksikan tumbuh rata-rata 6,95 persen per tahun dalam lima tahun ke depan.",
+   "Kemendag menyebut sepanjang 2025-2026 telah memfasilitasi 1.488 UMKM lewat program perluasan akses pasar dalam negeri, termasuk pameran Pangan Nusa Expo, UKM Pangan Award Goes to Ritel Modern, serta kemitraan dengan Kereta Api Indonesia dan Teras Indonesia IKEA. Salah satu UMKM yang masuk AEON, keripik tempe Arva, sebelumnya juga mengikuti pameran dalam dan luar negeri lewat fasilitasi Kemendag sebelum kontraknya dengan AEON diteken."
+  ],
+  "fotoAdegan": "Rows of packaged snack foods on supermarket shelves, a store employee restocking bags of chips, bright fluorescent retail lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/jM9udbVa2WufuDjU1wH5wOzzCrki2aJC9dK7dHtc.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan cuma sepuluh UMKM ini yang masuk toko AEON, tapi Kemendag juga baru menjaring lebih dari 1.200 pendaftar lewat undangan terbuka akhir Agustus 2026 untuk dikurasi jadi pemasok berikutnya, kali ini mencakup sektor kecantikan dan kesehatan selain makanan minuman. Yang terdampak langsung adalah pelaku UMKM pangan skala kecil, seperti produsen keripik tempe dan rendang kemasan yang selama ini mengandalkan pameran, karena sekarang mereka dapat jalur masuk ke rak ritel modern di 19 gerai sekaligus. Pola ini melanjutkan kemitraan serupa yang sudah dijalankan Kemendag dengan KAI dan IKEA, sehingga arahnya tampak seperti strategi rutin membuka akses ritel secara bertahap lewat kurasi ketat, bukan pembukaan pasar massal untuk semua UMKM. Yang akan menentukan apakah pola ini berlanjut adalah berapa banyak dari 1.200 pendaftar open call Agustus-September 2026 yang benar-benar lolos kurasi dan diumumkan sebagai mitra baru AEON.",
+  "imageV": "mtuzic2x"
+ },
+ {
+  "slug": "pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat",
+  "category": "Makroekonomi",
+  "title": "Pertumbuhan Penjualan Eceran Agustus Diprakirakan [Melambat]",
+  "deck": "Bank Indonesia memperkirakan penjualan eceran Agustus 2026 tumbuh 0,5 persen dari tahun lalu, melambat dari Juli, sementara ekspektasi harga ke depan menurun.",
+  "image": "assets/img/pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T03:38:29.995Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "penjualan eceran",
+   "Bank Indonesia",
+   "ekspektasi inflasi",
+   "konsumsi rumah tangga"
+  ],
+  "body": [
+   "Bank Indonesia memperkirakan penjualan eceran pada Agustus 2026 masih tumbuh, namun melambat menjadi 0,5 persen dibanding periode yang sama tahun lalu. Pertumbuhan itu terutama ditopang penjualan suku cadang dan aksesori kendaraan, disusul kelompok makanan, minuman, dan tembakau. Data ini penting karena penjualan eceran menggambarkan seberapa besar masyarakat berbelanja di toko-toko fisik, salah satu penanda kesehatan belanja rumah tangga.",
+   "Dibandingkan bulan sebelumnya, penjualan eceran Agustus justru diperkirakan menyusut tipis 0,1 persen, dipicu turunnya penjualan kelompok barang lainnya, meski kelompok peralatan informasi dan komunikasi, bahan bakar kendaraan bermotor, serta suku cadang masih tumbuh. Sebulan sebelumnya, penjualan eceran Juli tercatat tumbuh 1,1 persen dibanding tahun lalu, membaik jauh dari Juni yang terkontraksi 3,0 persen. Namun secara bulanan, Juli pun tercatat turun 0,1 persen, yang menurut Bank Indonesia merupakan efek normalisasi permintaan setelah masa Hari Besar Keagamaan Nasional dan libur sekolah usai.",
+   "Survei ini juga menangkap ekspektasi pelaku usaha terhadap harga barang ke depan. Bank Indonesia mencatat indeks ekspektasi harga untuk Oktober 2026 turun menjadi 146,5, dari perkiraan sebelumnya di angka 155,2, sementara ekspektasi untuk Januari 2027 turun menjadi 166,0 dari 168,1. Indeks yang lebih rendah ini menunjukkan pelaku usaha memperkirakan kenaikan harga ke depan tidak akan setinggi perkiraan sebelumnya."
+  ],
+  "fotoAdegan": "Rows of motorcycle spare parts and accessories displayed on shelves in a small Indonesian retail shop, customers browsing under fluorescent light",
+  "fotoSumber": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/PublishingImages/Pages/sp_275625/sp_275625_SPE.JPG",
+  "kreditFoto": "Bank Indonesia",
+  "takeaway": "Angka-angka ini menunjukkan pertumbuhan belanja masyarakat sedang mengendur setelah sempat melonjak. Penjualan eceran tahunan diperkirakan hanya naik 0,5 persen pada Agustus, turun dari 1,1 persen pada Juli, dan secara bulanan sudah menyusut dua bulan berturut-turut. Yang paling terasa dampaknya adalah penjual barang di luar suku cadang dan makanan-minuman, sebab hanya dua kelompok itu yang masih menopang pertumbuhan sementara kelompok lain melemah. Penurunan ekspektasi harga untuk Oktober dan Januari mendatang sejalan dengan pelambatan ini, mengarah ke permintaan konsumen yang mendingin secara bertahap ketimbang sekadar lonjakan sesaat pasca kontraksi Juni. Yang akan memastikan pola ini adalah rilis survei penjualan eceran bulan depan, yang memuat data realisasi September 2026.",
+  "imageV": "mtuzidn5"
+ },
+ {
+  "slug": "rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] Tipis ke Rp17.513, Analis Prediksi Menguat",
+  "deck": "Rupiah melemah tipis ke Rp17.513 per dolar AS Kamis pagi, meski analis memprediksi penguatan menuju Rp17.480 ditopang membaiknya penjualan ritel dan keyakinan konsumen.",
+  "image": "assets/img/rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T10:19:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466131-rupiah-melemah-di-rp17513-per-dolar-as-diprediksi-menguat-ditopang-konsumsi-domestik-dan-keyakinan-konsumen",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "Bank Indonesia",
+   "konsumsi domestik"
+  ],
+  "body": [
+   "Nilai tukar rupiah melemah tipis ke Rp17.513 per dolar Amerika Serikat pada perdagangan Kamis pagi, 10 September 2026. Pelemahan ini tergolong kecil, hanya 2 poin atau 0,01 persen dibandingkan posisi sebelumnya di Rp17.511 per dolar AS. Meski begitu, arah besarnya justru diperkirakan berbalik menguat, ditopang oleh perbaikan sejumlah indikator konsumsi rumah tangga.",
+   "Sehari sebelumnya, kurs referensi Bank Indonesia atau Jisdor mencatat rupiah di level Rp17.552 per dolar AS pada Rabu, 9 September 2026. Posisi itu menguat 66 poin dibandingkan Selasa, 8 September 2026, saat rupiah masih berada di Rp17.618 per dolar AS. Dengan kata lain, tren dua hari terakhir sebenarnya condong menguat sebelum pelemahan tipis pada perdagangan pagi ini.",
+   "Pengamat ekonomi dan pasar uang, Ibrahim Assuaibi, dalam riset hariannya memperkirakan rupiah berpeluang menguat sekitar 50 poin pada perdagangan berikutnya menuju kisaran Rp17.480 per dolar AS. Menurutnya, sentimen positif ditopang oleh dua indikator, yaitu data penjualan ritel dan indeks keyakinan konsumen yang berada di atas ekspektasi.",
+   "Indeks keyakinan konsumen tercatat naik menjadi 118,5, lebih tinggi dibandingkan posisi Juli 2026. Kenaikan ini menjadi sinyal optimisme masyarakat terhadap kondisi perekonomian, yang menurut Ibrahim turut menjadi faktor pendukung penguatan rupiah ke depan."
+  ],
+  "fotoAdegan": "Shoppers browsing racks of clothing at a busy shopping mall in Jakarta, store fronts blurred behind them, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bddf204303e-ilustrasi-rupiah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini sebenarnya kecil, rupiah cuma melemah 2 poin atau 0,01 persen ke Rp17.513 per dolar AS pagi ini. Padahal dua hari sebelumnya rupiah baru saja menguat dari Rp17.618 menjadi Rp17.552, jadi pelemahan tipis ini lebih terlihat seperti jeda daripada pembalikan arah. Analis memperkirakan rupiah masih akan menguat sekitar 50 poin menuju Rp17.480, dengan alasan belanja masyarakat yang membaik dan survei keyakinan konsumen yang naik ke angka 118,5, tanda makin banyak orang optimistis dengan kondisi ekonominya sendiri. Kalau prediksi ini benar, yang paling merasakan dampaknya adalah importir dan perusahaan dengan utang dalam dolar, karena kurs yang lebih kuat membuat kewajiban mereka dalam rupiah jadi lebih ringan. Sinyal penguatan ini masih bertumpu pada data konsumsi satu bulan, jadi yang layak dicermati adalah apakah rilis penjualan ritel dan survei keyakinan konsumen Bank Indonesia periode berikutnya tetap menunjukkan tren yang sama atau justru melambat.",
+  "imageV": "mtuzie35"
+ },
+ {
+  "slug": "harga-pangan-10-september-cabai-rawit-merah-melonjak-10",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 10 September: Cabai Rawit Merah [Melonjak] 10%",
+  "deck": "Cabai rawit merah naik paling tajam, Rp8.300 menjadi Rp91.000 per kilogram, sementara harga beras dan daging sapi juga merangkak naik menurut data PIHPS Kamis pagi.",
+  "image": "assets/img/harga-pangan-10-september-cabai-rawit-merah-melonjak-10.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T09:12:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466117-harga-pangan-hari-ini-10-september-2026-bikin-emak-emak-pusing-cabai-rawit-merah-naik-10-persen",
+  "tags": [
+   "harga pangan",
+   "cabai rawit merah",
+   "PIHPS",
+   "harga beras"
+  ],
+  "body": [
+   "Harga sejumlah komoditas pangan bergerak beragam pada Kamis pagi, 10 September 2026, menurut data Pusat Informasi Harga Pangan Strategis Nasional (PIHPS) pukul 08.50 WIB. Kenaikan paling mencolok terjadi pada cabai rawit merah, yang melonjak Rp8.300 atau lebih dari 10 persen dalam sehari hingga menembus Rp91.000 per kilogram. Bagi pembeli di pasar tradisional maupun pedagang warung makan yang mengandalkan cabai untuk sambal, lonjakan ini langsung terasa di kantong.",
+   "Kenaikan serupa, meski lebih kecil, juga terjadi pada cabai merah keriting yang naik Rp4.450 menjadi Rp61.400 per kilogram, dan cabai merah besar yang naik Rp2.550 menjadi Rp54.750 per kilogram. Cabai rawit hijau ikut naik 3,54 persen menjadi Rp64.300 per kilogram. Di sisi lain, harga bawang merah ukuran sedang justru turun Rp600 menjadi Rp37.850 per kilogram, sementara bawang putih bertahan di Rp39.450 per kilogram.",
+   "Harga beras bergerak naik tipis Rp50 per kilogram di hampir semua kualitas, kecuali beras medium I dan beras super II yang tidak berubah, masing-masing tetap di Rp16.550 dan Rp17.300 per kilogram. Beras kualitas bawah I naik menjadi Rp14.900, beras kualitas bawah II menjadi Rp14.700, beras medium II menjadi Rp16.400, dan beras super I menjadi Rp17.850 per kilogram.",
+   "Untuk komoditas protein hewani, harga daging ayam ras segar turun tipis Rp50 menjadi Rp42.550 per kilogram. Sebaliknya, daging sapi kualitas 1 naik Rp350 menjadi Rp152.150 per kilogram dan daging sapi kualitas 2 naik Rp550 menjadi Rp142.850 per kilogram."
+  ],
+  "fotoAdegan": "A market vendor arranging piles of fresh red and green chilies in woven baskets at a busy traditional wet market stall, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/08/08/6896221cbae3e-ilustrasi-cabai-rawit_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah paling tajam hari ini adalah cabai rawit merah, naik lebih dari 10 persen hanya dalam sehari menjadi Rp91.000 per kilogram, sementara harga beras dan daging sapi juga merangkak naik meski lebih kecil. Kenaikan ini langsung dirasakan pembeli rumah tangga dan pedagang warung makan yang memakai cabai rawit merah untuk sambal, karena beberapa bahan dapur naik hampir bersamaan. Data PIHPS ini hanya potret satu hari dibanding periode sebelumnya, jadi belum bisa dipastikan apakah lonjakan cabai ini cuma gejolak sesaat akibat pasokan atau awal dari tren yang berlanjut. Yang masih kurang adalah data harga beberapa hari ke belakang serta keterangan soal pasokan dan cuaca dari Badan Pangan Nasional, yang akan menentukan apakah kenaikan ini mereda pekan depan atau terus berlanjut.",
+  "imageV": "mtuzield"
+ },
+ {
   "slug": "inds-sij-sewakan-ruko-ke-planet-ban-rp378-3-juta",
   "category": "Aksi Korporasi",
   "title": "INDS: SIJ sewakan ruko ke [Planet Ban] Rp378,3 juta",

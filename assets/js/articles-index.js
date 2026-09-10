@@ -5,6 +5,76 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "10-produk-umkm-pangan-tembus-rak-ritel-aeon",
+  "category": "UMKM",
+  "title": "10 Produk UMKM Pangan [Tembus] Rak Ritel AEON",
+  "deck": "Sepuluh UMKM pangan binaan Kemendag resmi masuk 19 gerai AEON Indonesia lewat MoU dan kontrak dagang, di tengah kurasi lanjutan dari lebih 1.200 pendaftar.",
+  "date": "10 September 2026",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "imageV": "mtuzic2x",
+  "tags": [
+   "UMKM",
+   "AEON",
+   "Kemendag",
+   "Ritel Modern"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sepuluh-produk-umkm-pangan-binaan-kemendag-tembus-jaringan-ritel-aeon-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat",
+  "category": "Makroekonomi",
+  "title": "Pertumbuhan Penjualan Eceran Agustus Diprakirakan [Melambat]",
+  "deck": "Bank Indonesia memperkirakan penjualan eceran Agustus 2026 tumbuh 0,5 persen dari tahun lalu, melambat dari Juli, sementara ekspektasi harga ke depan menurun.",
+  "date": "10 September 2026",
+  "image": "assets/img/pertumbuhan-penjualan-eceran-agustus-diprakirakan-melambat.jpg",
+  "imageV": "mtuzidn5",
+  "tags": [
+   "penjualan eceran",
+   "Bank Indonesia",
+   "ekspektasi inflasi",
+   "konsumsi rumah tangga"
+  ],
+  "kreditFoto": "Bank Indonesia",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2818426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat",
+  "category": "Moneter",
+  "title": "Rupiah [Melemah] Tipis ke Rp17.513, Analis Prediksi Menguat",
+  "deck": "Rupiah melemah tipis ke Rp17.513 per dolar AS Kamis pagi, meski analis memprediksi penguatan menuju Rp17.480 ditopang membaiknya penjualan ritel dan keyakinan konsumen.",
+  "date": "10 September 2026",
+  "image": "assets/img/rupiah-melemah-tipis-ke-rp17-513-analis-prediksi-menguat.jpg",
+  "imageV": "mtuzie35",
+  "tags": [
+   "rupiah",
+   "kurs dolar AS",
+   "Bank Indonesia",
+   "konsumsi domestik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466131-rupiah-melemah-di-rp17513-per-dolar-as-diprediksi-menguat-ditopang-konsumsi-domestik-dan-keyakinan-konsumen"
+ },
+ {
+  "slug": "harga-pangan-10-september-cabai-rawit-merah-melonjak-10",
+  "category": "Makroekonomi",
+  "title": "Harga Pangan 10 September: Cabai Rawit Merah [Melonjak] 10%",
+  "deck": "Cabai rawit merah naik paling tajam, Rp8.300 menjadi Rp91.000 per kilogram, sementara harga beras dan daging sapi juga merangkak naik menurut data PIHPS Kamis pagi.",
+  "date": "10 September 2026",
+  "image": "assets/img/harga-pangan-10-september-cabai-rawit-merah-melonjak-10.jpg",
+  "imageV": "mtuzield",
+  "tags": [
+   "harga pangan",
+   "cabai rawit merah",
+   "PIHPS",
+   "harga beras"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466117-harga-pangan-hari-ini-10-september-2026-bikin-emak-emak-pusing-cabai-rawit-merah-naik-10-persen"
+ },
+ {
   "slug": "inds-sij-sewakan-ruko-ke-planet-ban-rp378-3-juta",
   "category": "Aksi Korporasi",
   "title": "INDS: SIJ sewakan ruko ke [Planet Ban] Rp378,3 juta",
@@ -6452,69 +6522,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464675-di-hadapan-putin-prabowo-tawarkan-formula-asean-untuk-perluas-kerja-sama-rusia-ke-asia-tenggara"
- },
- {
-  "slug": "asbi-bantah-ada-info-material-usai-saham-anjlok-6-16",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Bantah Ada Info Material Usai Saham Anjlok [6,16%]",
-  "deck": "Bursa meminta penjelasan setelah saham ASBI anjlok 6,16% disertai lonjakan transaksi drastis pada 1 September; perseroan menyangkal ada info material.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "Asuransi Bintang",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0e609273f2_1e685fe6ee.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "silo-jelaskan-ke-bei-beban-bunga-naik-383-usai-akuisisi-rs",
-  "category": "Aksi Korporasi",
-  "title": "SILO Jelaskan ke BEI, Beban Bunga Naik [383%] usai Akuisisi RS",
-  "deck": "SILO merinci ke BEI rencana akuisisi 14 rumah sakit senilai Rp6,9 triliun dari First REIT, yang mayoritas dibiayai utang sindikasi hingga Rp14,5 triliun.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SILO",
-   "akuisisi rumah sakit",
-   "First REIT",
-   "utang sindikasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/18338363bf_c2e8c2a4a1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-jelaskan-opini-audit-wdp-atas-laporan-keuangan-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Jelaskan Opini Audit [WDP] atas Laporan Keuangan Juni 2026",
-  "deck": "Venteny Fortuna International menerima opini wajar dengan pengecualian karena laporan keuangan dua anak usaha di Singapura dan Jepang belum diaudit auditor independen.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "opini audit",
-   "laporan keuangan",
-   "Venteny Fortuna International"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/66aad722a7_d369d976be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uang-panggil-rupslb-agenda-perubahan-susunan-direksi",
-  "category": "Aksi Korporasi",
-  "title": "UANG Panggil RUPSLB, Agenda [Perubahan] Susunan Direksi",
-  "deck": "PT Pakuan Tbk memanggil pemegang saham untuk RUPSLB 25 September 2026 dengan agenda persetujuan pengangkatan kembali atau perubahan susunan direksi.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UANG",
-   "RUPSLB",
-   "Direksi",
-   "Pakuan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d1f713f47_0234ab8505.pdf",
-  "sourceLabel": "IDX"
  }
 ];

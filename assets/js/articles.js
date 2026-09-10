@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "saham-cuan-melejit-7-98-jelang-akuisisi-sini",
+  "category": "Pasar Modal",
+  "title": "Saham [CUAN] Melejit 7,98% Jelang Akuisisi SINI",
+  "deck": "Saham Petrindo Jaya Kreasi melonjak 7,98% ke Rp1.015, transaksi tembus Rp731,29 miliar, di tengah rencana akuisisi Singaraja Putra oleh anak usaha Prajogo Pangestu.",
+  "image": "assets/img/saham-cuan-melejit-7-98-jelang-akuisisi-sini.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T17:30:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466217-saham-cuan-melejit-798-transaksi-tembus-rp731-miliar-di-tengah-rencana-akuisisi-sini",
+  "tags": [
+   "saham CUAN",
+   "Petrindo Jaya Kreasi",
+   "akuisisi SINI",
+   "Prajogo Pangestu"
+  ],
+  "body": [
+   "Saham PT Petrindo Jaya Kreasi Tbk (CUAN), emiten milik pengusaha Prajogo Pangestu, melonjak 7,98 persen ke level Rp1.015 per saham pada sesi pertama perdagangan Kamis (10/9/2026). Kenaikan ini disertai nilai transaksi terbesar di bursa hari itu, mencapai Rp731,29 miliar, bersamaan dengan munculnya kabar rencana pengambilalihan PT Singaraja Putra Tbk (SINI).",
+   "Volume perdagangan saham CUAN tercatat 729,03 juta lembar dengan frekuensi transaksi 62.739 kali sepanjang sesi I. Investor mencatatkan pembelian bersih senilai Rp136,1 miliar, yang menjadi yang tertinggi di antara seluruh saham yang diperdagangkan hari itu berdasarkan data Stockbit Sekuritas. Dalam sebulan terakhir, saham ini sudah menguat lebih dari 37 persen.",
+   "Di balik lonjakan tersebut, manajemen CUAN mengungkapkan bahwa perseroan tengah bernegosiasi untuk mengambil alih SINI, perusahaan milik Hapsoro. Melalui dua anak usahanya, yaitu PT Kreasi Jasa Persada dan PT Petrosea Tbk (PTRO), CUAN saat ini sudah menguasai 27,78 persen dari modal ditempatkan dan disetor SINI, baik secara langsung maupun tidak langsung."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving coal at an open-pit mine in Kalimantan, dust rising under bright midday sun",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2024/10/13/670b53f7927b8-crazy-rich-indoneisa-prajogo-pangestu-diramal-jadi-triliuner-keempat-dunia-kalahkah-bos-louis-vuitton-dan-mark-zuckerberg_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah status kepemilikan CUAN di SINI, yang kini sudah mencapai 27,78 persen lewat dua anak usaha sekaligus disertai negosiasi pengambilalihan lebih lanjut, bukan sekadar rumor pasar. Pihak yang terdampak paling langsung adalah pemegang saham CUAN, yang portofolionya ikut menguat seiring lonjakan harga dan aksi beli bersih Rp136,1 miliar hari ini, serta pemegang saham SINI dan Hapsoro selaku pemilik saat ini, karena kendali perusahaan berpotensi berpindah tangan. Yang belum bisa dipastikan arahnya adalah seberapa jauh pengambilalihan ini akan berlanjut, sebab CUAN maupun SINI belum mengumumkan target persentase kepemilikan akhir, skema pembayaran, atau harga transaksi ke publik. Yang perlu ditunggu adalah keterbukaan informasi resmi berikutnya dari CUAN atau SINI ke Bursa Efek Indonesia yang merinci kelanjutan negosiasi ini.",
+  "imageV": "mtvfkizc"
+ },
+ {
   "slug": "wsbp-gelar-rupslb-2-oktober-ratifikasi-konversi-utang-jadi-saham",
   "category": "Aksi Korporasi",
   "title": "WSBP Gelar RUPSLB 2 Oktober, Ratifikasi [Konversi] Utang Jadi Saham",
@@ -108,6 +134,60 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat",
+  "category": "Makroekonomi",
+  "title": "Anggaran Sekolah Rakyat 2027 [Jebol] Usai Kapasitas Naik 2x Lipat",
+  "deck": "Usulan menaikkan kapasitas Sekolah Rakyat dari 1.080 ke 2.520 siswa per lokasi membuat kebutuhan anggaran 2027 melonjak ke Rp104,09 triliun, jauh melebihi pagu Kementerian PU Rp32,57 triliun.",
+  "image": "assets/img/anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T16:30:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466210-anggaran-sekolah-rakyat-2027-jebol-rp715-triliun-kapasitas-siswa-diusulkan-naik-lebih-dari-2-kali-lipat",
+  "tags": [
+   "Sekolah Rakyat",
+   "Anggaran 2027",
+   "Kementerian PU",
+   "APBN"
+  ],
+  "body": [
+   "Pemerintah berpotensi menghadapi kekurangan dana besar untuk pembangunan Sekolah Rakyat pada 2027, setelah Kementerian Sosial mengusulkan kapasitas siswa per lokasi dinaikkan dari 1.080 menjadi 2.520 orang, atau lebih dari dua kali lipat dari rencana awal. Usulan ini membuat total kebutuhan anggaran program melonjak menjadi Rp104,09 triliun, jauh di atas alokasi yang sudah disiapkan. Bagi keluarga kurang mampu yang menjadi sasaran program sekolah berasrama gratis ini, besar kecilnya selisih dana tersebut ikut menentukan seberapa cepat dan seberapa banyak sekolah baru bisa berdiri sesuai rencana.",
+   "Dalam rapat dengar pendapat dengan Komisi V DPR RI, Kamis (10/9/2026), Plt. Direktur Jenderal Prasarana Strategis Kementerian Pekerjaan Umum Kuswara memaparkan bahwa total pagu anggaran direktoratnya pada 2027 sebesar Rp32,57 triliun. Dari jumlah itu, porsi terbesar, yakni Rp26,3 triliun, dialokasikan untuk Sekolah Rakyat. \"Dari total Pagu Anggaran Ditjen Prasarana Strategis Tahun Anggaran 2027 sebesar Rp32,57 triliun, pemanfaatan anggaran terutama untuk pembangunan Sekolah Rakyat sebesar Rp26,302 triliun,\" kata Kuswara.",
+   "Anggaran tersebut awalnya disiapkan untuk melanjutkan pembangunan 100 unit Sekolah Rakyat tahap III dengan skema tahun jamak atau multiyears 2026-2027, ditambah uang muka pembangunan 100 unit tahap IV dengan skema serupa untuk 2027-2028. Dengan skema ini, kebutuhan dana Sekolah Rakyat sengaja dibagi bertahap agar tidak membebani satu tahun anggaran, dan hitungan Rp26,3 triliun tadi dibuat berdasarkan kapasitas awal 1.080 siswa per lokasi.",
+   "Persoalan muncul setelah Kementerian Sosial mengusulkan kapasitas tiap lokasi Sekolah Rakyat dinaikkan menjadi 2.520 siswa. Kenaikan skala ini membuat total kebutuhan program membengkak dari Rp26,3 triliun menjadi Rp104,09 triliun, atau sekitar Rp71,5 triliun lebih tinggi dari total pagu Ditjen Prasarana Strategis yang hanya Rp32,57 triliun. Selisih sebesar itu yang kini harus dicarikan jalan keluarnya oleh Kementerian PU bersama DPR, entah lewat tambahan anggaran, revisi skema pembangunan, atau penyesuaian jumlah unit maupun kapasitas."
+  ],
+  "fotoAdegan": "Construction workers assembling dormitory-style school buildings on a cleared rural site under scaffolding, midday sun.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/01/6a6de98007b36-dukung-program-prioritas-presiden-mendagri-tito-lakukan-groundbreaking-sekolah-rakyat-kabupaten-biak-numfor_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah usulan kapasitas Sekolah Rakyat per lokasi naik dari 1.080 jadi 2.520 siswa, lebih dari dua kali lipat, sehingga kebutuhan dana program ikut melonjak dari Rp26,3 triliun menjadi Rp104,09 triliun, atau sekitar Rp71,5 triliun lebih besar dari total anggaran Direktorat Jenderal Prasarana Strategis Kementerian PU tahun 2027 yang cuma Rp32,57 triliun. Pihak yang langsung kena dampak adalah calon siswa dari keluarga kurang mampu yang jadi sasaran program ini, karena kecepatan berdirinya sekolah baru bergantung pada apakah selisih dana sebesar itu bisa ditutup, sementara Kementerian PU dan DPR harus mencari jalan keluarnya dalam pembahasan anggaran 2027. Karena 100 unit sekolah tahap III sudah berjalan dengan kontrak tahun jamak dan kapasitas lama, sementara tahap IV baru sebatas uang muka, usulan kapasitas besar ini lebih mungkin baru diterapkan mulai tahap IV ketimbang mengubah proyek yang sudah berjalan. Yang akan memastikan arah ini adalah hasil pembahasan lanjutan Komisi V DPR bersama Kementerian PU soal rincian anggaran 2027, termasuk apakah pemerintah menambah pagu atau justru merevisi turun usulan kapasitas tersebut.",
+  "imageV": "mtvfkjht"
+ },
+ {
+  "slug": "astra-pertahankan-dividen-45-50-persen-di-2026",
+  "category": "Pasar Modal",
+  "title": "Astra Pertahankan [Dividen] 45-50 Persen di 2026",
+  "deck": "Astra menegaskan akan membagikan 45-50 persen laba sebagai dividen untuk 2026, meski laba bersih semester I turun 19 persen akibat pelemahan bisnis pertambangan dan alat berat.",
+  "image": "assets/img/astra-pertahankan-dividen-45-50-persen-di-2026.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T15:55:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466208-astra-bakal-pertahankan-dividend-payout-ratio-45-50-persen",
+  "tags": [
+   "astra",
+   "dividen",
+   "rupst",
+   "asii"
+  ],
+  "body": [
+   "Astra International (ASII) akan mempertahankan rasio pembayaran dividen, yaitu porsi laba yang dibagikan ke pemegang saham, di kisaran 45 sampai 50 persen untuk tahun 2026. Presiden Direktur ASII Rudy Chen menegaskan hal ini dalam konferensi pers Public Expose Live 2026 di Jakarta, Kamis. Kepastian ini penting bagi pemegang saham Astra karena menunjukkan perusahaan tetap berkomitmen membagikan porsi besar labanya, sekalipun kinerja keuangan tengah melemah.",
+   "Sebagai gambaran, pada 2026 Astra sudah membagikan dividen tunai Rp15,66 triliun untuk tahun buku 2025, setara 47,82 persen dari laba bersih tahun itu yang mencapai Rp32,76 triliun, masih dalam rentang yang dijanjikan. Dividen tersebut terbagi dua tahap, yaitu dividen interim Rp98 per saham senilai total Rp3,96 triliun yang sudah dibayarkan 31 Oktober 2025, dan dividen final Rp292 per saham senilai Rp15,7 triliun yang dibayarkan 25 Mei 2026. Pembagian ini telah disetujui dalam Rapat Umum Pemegang Saham Tahunan (RUPST) ASII 2026.",
+   "Dari sisi kinerja, pendapatan bersih konsolidasian Astra pada semester I 2026 tercatat Rp157,9 triliun, turun 3 persen dibanding periode sama tahun sebelumnya. Laba bersih dari bisnis inti, di luar pos-pos yang sifatnya satu kali, sebesar Rp14,9 triliun atau turun 7 persen secara tahunan. Penurunan ini terutama berasal dari bisnis Solusi Pertambangan dan Alat Berat, akibat minimnya kontribusi divisi pertambangan emas, turunnya penjualan alat berat, serta berkurangnya volume jasa penambangan dan pertambangan batu bara.",
+   "Astra juga mencatat pos-pos satu kali senilai Rp2,4 triliun, yaitu penyesuaian nilai investasi saham dan penurunan nilai aset yang bukan berasal dari kegiatan usaha sehari-hari. Dengan memperhitungkan pos tersebut, laba bersih grup secara keseluruhan tercatat Rp12,5 triliun, turun 19 persen dibanding semester I 2025."
+  ],
+  "fotoAdegan": "Yellow mining heavy equipment and excavators parked in rows at an open-pit coal mine, dusty haul road, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/10/6aa26f204c8ad-presiden-direktur-astra-international-rudy-chen_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan dividennya, karena rasio 45-50 persen memang sudah berlaku dan baru saja disahkan lewat RUPST. Yang menarik justru latar belakangnya, komitmen ini diulang tepat ketika laba bersih Astra sedang turun, dari laba inti yang susut 7 persen sampai laba total yang anjlok 19 persen akibat lemahnya bisnis pertambangan dan alat berat. Karena dividen dihitung sebagai persentase dari laba dan bukan angka tetap, pemegang saham tetap mendapat porsi yang sama secara persentase, tapi kalau tren penurunan laba semester I ini berlanjut sampai akhir tahun, nilai dividen tunai untuk tahun buku 2026 yang dibagikan tahun depan berpotensi lebih kecil dibanding Rp15,66 triliun yang baru saja dibagikan. Yang akan memastikan arah ini adalah laporan kinerja semester II 2026 dan laba bersih setahun penuh, yang biasanya dirilis awal tahun berikutnya.",
+  "imageV": "mtvfkjuy"
+ },
+ {
   "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
   "category": "Global",
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
@@ -132,7 +212,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah Indonesia resmi memegang kendali forum kerja sama ekonomi IMT-GT untuk periode mendatang, sekaligus mulai menyusun rencana kerja sama baru untuk 2027 sampai 2031 menggantikan rencana lama yang berakhir tahun ini. Yang terdampak langsung adalah pelaku usaha dan calon investor di Sumatera, khususnya Aceh dan Sumatera Utara, yang ditawarkan sebagai lokasi proyek kerja sama lewat forum bisnis yang mempertemukan lebih dari 300 pengusaha dari lima negara. Forum semacam ini biasanya baru menghasilkan niat awal kerja sama, bukan kesepakatan yang mengikat, sehingga arah paling realistis saat ini adalah pertemuan menjadi titik awal negosiasi, bukan hasil akhir. Yang akan menentukan apakah forum ini berlanjut jadi sesuatu yang konkret adalah Pertemuan Tingkat Menteri IMT-GT ke-32 yang berlangsung hari ini, 10 September 2026, di Medan, tempat hasil sidang pejabat tinggi ini dilaporkan dan biasanya diumumkan proyek atau kesepakatan yang disetujui.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",

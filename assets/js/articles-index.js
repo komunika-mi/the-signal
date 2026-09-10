@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "saham-cuan-melejit-7-98-jelang-akuisisi-sini",
+  "category": "Pasar Modal",
+  "title": "Saham [CUAN] Melejit 7,98% Jelang Akuisisi SINI",
+  "deck": "Saham Petrindo Jaya Kreasi melonjak 7,98% ke Rp1.015, transaksi tembus Rp731,29 miliar, di tengah rencana akuisisi Singaraja Putra oleh anak usaha Prajogo Pangestu.",
+  "date": "10 September 2026",
+  "image": "assets/img/saham-cuan-melejit-7-98-jelang-akuisisi-sini.jpg",
+  "imageV": "mtvfkizc",
+  "tags": [
+   "saham CUAN",
+   "Petrindo Jaya Kreasi",
+   "akuisisi SINI",
+   "Prajogo Pangestu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466217-saham-cuan-melejit-798-transaksi-tembus-rp731-miliar-di-tengah-rencana-akuisisi-sini"
+ },
+ {
   "slug": "wsbp-gelar-rupslb-2-oktober-ratifikasi-konversi-utang-jadi-saham",
   "category": "Aksi Korporasi",
   "title": "WSBP Gelar RUPSLB 2 Oktober, Ratifikasi [Konversi] Utang Jadi Saham",
@@ -67,6 +84,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d909d7e4ea_5ccfa5fb5f.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat",
+  "category": "Makroekonomi",
+  "title": "Anggaran Sekolah Rakyat 2027 [Jebol] Usai Kapasitas Naik 2x Lipat",
+  "deck": "Usulan menaikkan kapasitas Sekolah Rakyat dari 1.080 ke 2.520 siswa per lokasi membuat kebutuhan anggaran 2027 melonjak ke Rp104,09 triliun, jauh melebihi pagu Kementerian PU Rp32,57 triliun.",
+  "date": "10 September 2026",
+  "image": "assets/img/anggaran-sekolah-rakyat-2027-jebol-usai-kapasitas-naik-2x-lipat.jpg",
+  "imageV": "mtvfkjht",
+  "tags": [
+   "Sekolah Rakyat",
+   "Anggaran 2027",
+   "Kementerian PU",
+   "APBN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466210-anggaran-sekolah-rakyat-2027-jebol-rp715-triliun-kapasitas-siswa-diusulkan-naik-lebih-dari-2-kali-lipat"
+ },
+ {
+  "slug": "astra-pertahankan-dividen-45-50-persen-di-2026",
+  "category": "Pasar Modal",
+  "title": "Astra Pertahankan [Dividen] 45-50 Persen di 2026",
+  "deck": "Astra menegaskan akan membagikan 45-50 persen laba sebagai dividen untuk 2026, meski laba bersih semester I turun 19 persen akibat pelemahan bisnis pertambangan dan alat berat.",
+  "date": "10 September 2026",
+  "image": "assets/img/astra-pertahankan-dividen-45-50-persen-di-2026.jpg",
+  "imageV": "mtvfkjuy",
+  "tags": [
+   "astra",
+   "dividen",
+   "rupst",
+   "asii"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466208-astra-bakal-pertahankan-dividend-payout-ratio-45-50-persen"
  },
  {
   "slug": "indonesia-pimpin-imt-gt-forum-bisnis-tarik-300-investor",
@@ -6457,57 +6508,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce38cfe917_86820cad69.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-rampungkan-restrukturisasi-obligasi-bunga-turun-ke-5",
-  "category": "Aksi Korporasi",
-  "title": "WSKT Rampungkan [Restrukturisasi] Obligasi, Bunga Turun ke 5%",
-  "deck": "RUPO Waskita Karya menyetujui restrukturisasi obligasi dengan 97,14 persen suara: bunga turun ke 5 persen, jatuh tempo mundur ke 2034, dan denda gagal bayar dihapuskan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "restrukturisasi obligasi",
-   "Waskita Karya",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c4709cfa4b_b5450ff54d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-sawit-ri-melonjak-64-pada-juni-2026",
-  "category": "Industri",
-  "title": "Ekspor Sawit RI [Melonjak] 64% pada Juni 2026",
-  "deck": "GAPKI mencatat ekspor sawit Juni 2026 naik 64% dari Mei menjadi 3,27 juta ton, sementara harga rata-rata CPO justru turun mengikuti pelemahan pasar acuan.",
-  "date": "4 September 2026",
-  "image": "assets/img/ekspor-sawit-ri-melonjak-64-pada-juni-2026.jpg",
-  "imageV": "mtm9lqsf",
-  "tags": [
-   "Sawit",
-   "Ekspor CPO",
-   "GAPKI",
-   "Harga CPO"
-  ],
-  "kreditFoto": "Gabungan Pengusaha Kelapa Sawit Indonesia",
-  "sourceUrl": "https://gapki.id/news/2026/08/26/ekspor-sawit-indonesia-melonjak-64-pada-juni-2026-produksi-dan-konsumsi-ikut-naik/",
-  "sourceLabel": "Gabungan Pengusaha Kelapa Sawit Indonesia"
- },
- {
-  "slug": "giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom",
-  "category": "Industri",
-  "title": "GIIAS [Bandung] 2026 Digelar 9-13 September di Sudirman Ballroom",
-  "deck": "Pameran otomotif GIIAS lanjut ke Bandung pada 9-13 September 2026 di Sudirman Grand Ballroom, setelah sebelumnya digelar di Tangerang dan Surabaya.",
-  "date": "4 September 2026",
-  "image": "assets/img/giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom.jpg",
-  "imageV": "mtm9lr3q",
-  "tags": [
-   "GIIAS",
-   "Otomotif",
-   "GAIKINDO",
-   "Bandung"
-  ],
-  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
-  "sourceUrl": "https://www.gaikindo.or.id/pameran-otomotif-giias-bandung-2026-jadwal-lokasi-harga-dan-cara-beli-tiket/",
-  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
  }
 ];

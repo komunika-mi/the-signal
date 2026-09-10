@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JnywAQRvTlM",
+  "title": "Dirut Bank Kalbar Kunjungi Kantor Pusat tvOne",
+  "category": "Perbankan",
+  "program": "tvOneNews",
+  "summary": "Direktur Utama Bank Kalbar melakukan audiensi ke kantor pusat tvOne untuk memperkuat sinergi antara perbankan daerah dan media.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan bank pembangunan daerah dan upaya perluasan jangkauan bisnisnya.",
+  "terbit": "2026-09-10T11:07:42+00:00"
+ },
+ {
+  "id": "gUoSGKarSZc",
+  "title": "Harga Beras Melonjak Akibat Kemarau Panjang",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Harga beras naik dalam sebulan terakhir setelah kemarau panjang membuat petani gagal panen sehingga produksi dan pasokan padi menurun.",
+  "takeaway": "Kenaikan harga beras berpotensi mendorong inflasi pangan dan menekan daya beli masyarakat, sehingga penting dipantau pembaca ekonomi.",
+  "terbit": "2026-09-10T11:06:47+00:00"
+ },
+ {
   "id": "YKMQnyptEhk",
   "title": "Indonesia-Tiongkok Kerja Sama Membangun Perumahan",
   "category": "Industri",

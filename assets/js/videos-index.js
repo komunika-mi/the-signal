@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JnywAQRvTlM",
+  "title": "Dirut Bank Kalbar Kunjungi Kantor Pusat tvOne",
+  "category": "Perbankan",
+  "program": "tvOneNews",
+  "summary": "Direktur Utama Bank Kalbar melakukan audiensi ke kantor pusat tvOne untuk memperkuat sinergi antara perbankan daerah dan media.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti perkembangan bank pembangunan daerah dan upaya perluasan jangkauan bisnisnya."
+ },
+ {
+  "id": "gUoSGKarSZc",
+  "title": "Harga Beras Melonjak Akibat Kemarau Panjang",
+  "category": "Makroekonomi",
+  "program": "Kabar Petang",
+  "summary": "Harga beras naik dalam sebulan terakhir setelah kemarau panjang membuat petani gagal panen sehingga produksi dan pasokan padi menurun.",
+  "takeaway": "Kenaikan harga beras berpotensi mendorong inflasi pangan dan menekan daya beli masyarakat, sehingga penting dipantau pembaca ekonomi."
+ },
+ {
   "id": "YKMQnyptEhk",
   "title": "Indonesia-Tiongkok Kerja Sama Membangun Perumahan",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
   "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh."
- },
- {
-  "id": "z_ODNU76JNA",
-  "title": "Harga Daging Sapi Tembus Rp160 Ribu per Kg",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Harga daging sapi di pasar naik hingga Rp160.000 per kilogram, sehingga pemerintah menyiapkan langkah stabilisasi menggunakan dana APBN dan APBD.",
-  "takeaway": "Kenaikan harga daging sapi menjadi indikator tekanan inflasi pangan yang berdampak langsung pada daya beli masyarakat."
- },
- {
-  "id": "6WnRuyBPVcA",
-  "title": "Kurs Rupiah dan Harga Emas Antam 24 Agustus 2026",
-  "category": "Moneter",
-  "program": "Kabar Siang",
-  "summary": "Nilai tukar rupiah pada Senin, 24 Agustus 2026, berada di kisaran Rp17.680 hingga Rp17.703 per dolar AS. Harga emas batangan Antam naik Rp10.000 per gram pada hari yang sama.",
-  "takeaway": "Pergerakan kurs dan harga emas harian penting bagi pembaca sebagai acuan cepat kondisi pasar keuangan domestik."
  }
 ];

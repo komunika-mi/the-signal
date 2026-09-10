@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",
+  "category": "Global",
+  "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
+  "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T12:14:51.159Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7089/dari-rencana-ke-lapangan-kerja-menko-airlangga-jadikan-pertemuan-imt-gt-tahun-ini-sebagai-ministerial-meeting-of-implementation",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "IMT-GT",
+   "Airlangga Hartarto",
+   "Kerja Sama Ekonomi",
+   "ASEAN"
+  ],
+  "body": [
+   "Pertemuan Tingkat Menteri ke-32 Kerja Sama Segitiga Pertumbuhan Indonesia-Malaysia-Thailand (IMT-GT) yang digelar di Medan, Kamis (10/9), menghasilkan target yang lebih tegas dari biasanya. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, yang memimpin pertemuan tersebut, meminta agar 92 proyek kerja sama yang sedang berjalan benar-benar dirampungkan, bukan hanya dibahas ulang pada pertemuan berikutnya. Ia menyebut pertemuan tahun ini sebagai 'Ministerial Meeting of Implementation', penanda bahwa ukuran keberhasilan bergeser dari banyaknya dokumen menjadi banyaknya proyek yang benar-benar berjalan di lapangan.",
+   "Menurut Kementerian Koordinator Bidang Perekonomian, kerja sama IMT-GT selama periode 2022-2025 sudah menunjukkan sejumlah capaian. PDB per kapita di kawasan ini disebut naik dari 21.646 dolar PPP pada 2024 menjadi 23.290 dolar PPP pada 2025, ukuran yang memperhitungkan daya beli sehingga menggambarkan kemampuan beli riil penduduk, bukan sekadar nilai tukar. Nilai perdagangan barang antarnegara anggota tercatat naik dari US$708 miliar menjadi US$810,8 miliar, investasi asing langsung naik dari US$27,52 miliar menjadi US$28,44 miliar, dan tingkat pengangguran turun tipis dari 3,8 persen ke 3,7 persen. Sektor pariwisata pun mencatat 68 juta kunjungan wisatawan mancanegara ke kawasan ini sepanjang tahun lalu.",
+   "Hasil paling konkret dari pertemuan di Medan adalah ajang IMT-GT International Business Matching 2026, yang mempertemukan 275 pelaku usaha dari tujuh sektor, yaitu agribisnis, pertanian dan perikanan, manufaktur, pariwisata, logistik, tenaga kerja, perbankan dan keuangan, serta layanan kesehatan. Dari pertemuan bisnis ini lahir delapan nota kesepahaman (MoU) lintas negara, menyusul enam MoU serupa dari ajang Business Matching RoRo Dumai-Melaka sebelumnya yang diikuti 155 peserta. Di forum yang sama, tiga negara juga meneken MoU kerja sama kelapa sawit dan sepakat memperkuat kerja sama produksi beras untuk menjaga ketahanan pangan kawasan.",
+   "Ke depan, pertemuan ini resmi mengadopsi Pernyataan Bersama Para Menteri dan mengarahkan penyusunan Implementation Blueprint 2027-2031 yang bertumpu pada tiga pilar, yaitu ketahanan ekonomi, jaringan terintegrasi, dan kesejahteraan bersama, menuju Visi IMT-GT 2036. Airlangga juga meminta pemerintah daerah di kawasan ini, termasuk Sumatra Utara yang diwakili Gubernur Bobby Nasution, mengambil peran lebih besar sebagai eksekutor proyek, karena keputusan di tingkat menteri tidak otomatis terwujud di lapangan tanpa peran pemerintah daerah. Pertemuan Tingkat Menteri IMT-GT berikutnya, yang ke-33, dijadwalkan berlangsung di Malaysia pada 2027."
+  ],
+  "fotoAdegan": "Container ship being loaded at a busy Sumatran river port, cranes and stacked cargo containers under an overcast sky",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Perubahan konkretnya adalah pergeseran ukuran keberhasilan IMT-GT, dari jumlah dokumen kerja sama menjadi penyelesaian nyata 92 proyek yang sudah berjalan, dengan delapan MoU bisnis baru dan satu MoU kelapa sawit sebagai bukti awal. Yang terdampak adalah pelaku usaha lintas batas di Sumatra, Semenanjung Malaysia, dan Thailand Selatan, terutama sektor sawit, beras, pariwisata, dan UMKM, serta pemerintah daerah yang kini diminta jadi eksekutor utama, bukan sekadar penerima proyek dari pusat. Angka pertumbuhan PDB per kapita, perdagangan, dan investasi yang dipaparkan dalam pertemuan ini adalah klaim capaian dari Kementerian sendiri, jadi lebih tepat dibaca sebagai catatan versi penyelenggara ketimbang angka yang sudah diverifikasi independen. Arahnya tampak menuju forum kerja sama yang lebih berorientasi hasil terukur ketimbang sekadar simbolis, dan itu akan terkonfirmasi lewat laporan progres 92 proyek serta cetak biru Implementation Blueprint 2027-2031 yang akan dibahas menjelang Pertemuan Tingkat Menteri ke-33 di Malaysia pada 2027.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
   "category": "Aksi Korporasi",
   "title": "SINI Paparkan Laba Rp674 M usai Suspensi, [Ekuitas] Balik Positif",
@@ -324,7 +352,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "10 September 2026",
   "isoDate": "2026-09-10T08:39:04.846Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7088/indonesia-dorong-reimajinasi-pembangunan-konektivitas-dan-langkah-langkah-transformatif-untuk-kemajuan-bersama",
@@ -344,7 +372,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah Indonesia resmi memegang kendali forum kerja sama ekonomi IMT-GT untuk periode mendatang, sekaligus mulai menyusun rencana kerja sama baru untuk 2027 sampai 2031 menggantikan rencana lama yang berakhir tahun ini. Yang terdampak langsung adalah pelaku usaha dan calon investor di Sumatera, khususnya Aceh dan Sumatera Utara, yang ditawarkan sebagai lokasi proyek kerja sama lewat forum bisnis yang mempertemukan lebih dari 300 pengusaha dari lima negara. Forum semacam ini biasanya baru menghasilkan niat awal kerja sama, bukan kesepakatan yang mengikat, sehingga arah paling realistis saat ini adalah pertemuan menjadi titik awal negosiasi, bukan hasil akhir. Yang akan menentukan apakah forum ini berlanjut jadi sesuatu yang konkret adalah Pertemuan Tingkat Menteri IMT-GT ke-32 yang berlangsung hari ini, 10 September 2026, di Medan, tempat hasil sidang pejabat tinggi ini dilaporkan dan biasanya diumumkan proyek atau kesepakatan yang disetujui.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "kewajiban-neto-luar-negeri-ri-turun-jadi-us-197-4-miliar",
@@ -4914,7 +4942,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
   "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:23.936Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/presiden-prabowo-tegaskan-arah-investasi-indonesia-hilirisasi-untuk-kesejahteraan-dan-investasi-teknologi-masa-depan",
@@ -5001,7 +5029,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
   "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-07T19:15:09.469Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7080/bersiap-untuk-implementasi-ieu-cepa-indonesia-dan-irlandia-gelar-dialog-strategis-untuk-perkuat-kerja-sama-ekonomi",
@@ -14946,7 +14974,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Neraca Dagang Juli Surplus Tipis [0,12 Miliar Dolar]",
   "deck": "Surplus perdagangan Indonesia naik 127,06% dari Juni yang defisit, namun anjlok 97,08% dibanding Juli 2025.",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:55:18.059Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -14973,7 +15001,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Impor RI Juli 2026 Tembus US$26,1 M, [Naik 27%]",
   "deck": "BPS mencatat nilai impor Juli 2026 naik tipis 0,72% dari Juni, namun melonjak 27,02% dibanding Juli tahun lalu.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:49.314Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",
@@ -15000,7 +15028,7 @@ var ARTICLES = [
   "category": "Perdagangan",
   "title": "Ekspor RI Juli 2026 [Naik Jadi US$26,2 M]",
   "deck": "BPS mencatat nilai ekspor Juli 2026 naik dibanding Juni maupun periode sama tahun lalu, melanjutkan tren kenaikan sejak Mei.",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "1 September 2026",
   "isoDate": "2026-09-01T08:54:17.834Z",
   "sourceUrl": "https://www.bps.go.id/id/statistics-table",

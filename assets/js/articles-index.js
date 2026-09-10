@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",
+  "category": "Global",
+  "title": "RI-Malaysia-Thailand Kejar Rampungkan [92] Proyek IMT-GT",
+  "deck": "Pertemuan Tingkat Menteri IMT-GT ke-32 di Medan menetapkan target 92 proyek kerja sama rampung, disertai delapan MoU bisnis baru dan cetak biru 2027-2031.",
+  "date": "10 September 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IMT-GT",
+   "Airlangga Hartarto",
+   "Kerja Sama Ekonomi",
+   "ASEAN"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7089/dari-rencana-ke-lapangan-kerja-menko-airlangga-jadikan-pertemuan-imt-gt-tahun-ini-sebagai-ministerial-meeting-of-implementation",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
   "category": "Aksi Korporasi",
   "title": "SINI Paparkan Laba Rp674 M usai Suspensi, [Ekuitas] Balik Positif",
@@ -205,7 +221,7 @@ var ARTICLES = [
   "title": "Indonesia Pimpin IMT-GT, Forum Bisnis Tarik [300] Investor",
   "deck": "Indonesia resmi mengambil alih keketuaan forum kerja sama ekonomi IMT-GT dan membuka forum bisnis yang mempertemukan lebih dari 300 pelaku usaha dari lima negara di Medan.",
   "date": "10 September 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IMT-GT",
    "Kemenko Perekonomian",
@@ -3035,7 +3051,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo Buka Investasi [Nuklir] di Forum Rusia",
   "deck": "Presiden Prabowo menyatakan keterbukaan Indonesia terhadap investasi energi terbarukan hingga nuklir di Forum Ekonomi Timur Rusia; investasi Rusia ke Indonesia sejak 2021 tercatat US$726 juta.",
   "date": "8 September 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "investasi Rusia",
    "energi nuklir",
@@ -3083,7 +3099,7 @@ var ARTICLES = [
   "title": "Indonesia-Irlandia Gelar Dialog Dagang Jelang [IEU-CEPA]",
   "deck": "Kemenko Perekonomian dan Irlandia menggelar dialog strategis membahas kerja sama dagang dan investasi menjelang implementasi IEU-CEPA, ditutup penandatanganan nota kerja sama.",
   "date": "8 September 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Indonesia-Irlandia",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fbd4a01627_a02dca93f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "itmg-catat-laba-bersih-us-109-5-juta-naik-17-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "ITMG catat [laba bersih] US$109,5 juta, naik 17% di semester I 2026",
-  "deck": "Materi paparan publik tahunan ITMG memperlihatkan laba bersih dan pendapatan naik dua digit pada semester I 2026, meski volume produksi batu bara justru turun 5 persen.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMG",
-   "Indo Tambangraya Megah",
-   "batu bara",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1ad59ed13_020febd7d1.pdf",
   "sourceLabel": "IDX"
  }
 ];

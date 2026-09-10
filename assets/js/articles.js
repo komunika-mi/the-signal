@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "beer-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BEER Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
+  "deck": "PT Jobubu Jarum Minahasa Tbk mengundang pemegang saham ke RUPSLB 2 Oktober 2026 untuk membahas revisi Pasal 3 anggaran dasar dan kemungkinan pergantian direksi serta komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T22:26:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a565fb2c56_b522fff865.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEER",
+  "tags": [
+   "BEER",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "body": [
+   "PT Jobubu Jarum Minahasa Tbk (BEER) resmi memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 2 Oktober 2026 pukul 10.00 WIB. Rapat digelar di Jakarta Selatan sekaligus secara elektronik melalui aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemanggilan ini menindaklanjuti pemberitahuan rencana RUPS yang sudah disampaikan perusahaan pada 26 Agustus 2026, dan pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 9 September 2026 pukul 16.00 WIB.",
+   "Agenda pertama RUPSLB adalah persetujuan perubahan Pasal 3 anggaran dasar perusahaan, yaitu bagian yang mengatur maksud, tujuan, dan kegiatan usaha. Perubahan ini dilakukan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025), sebuah standar kode usaha baru dari pemerintah. Perusahaan menyebut langkah ini sebagai penyesuaian administratif untuk memenuhi aturan perizinan berusaha terintegrasi secara elektronik atau Online Single Submission (OSS), sehingga proses perizinan dan operasional perusahaan ke depan tidak terganjal.",
+   "Agenda kedua adalah persetujuan perubahan susunan anggota Direksi dan/atau Dewan Komisaris perusahaan. Perusahaan mendasarkan usulan ini pada Pasal 11 dan 14 anggaran dasar, juncto Pasal 94 ayat 1 dan Pasal 111 ayat 1 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, yang menyatakan bahwa pengangkatan dan pemberhentian direksi serta komisaris menjadi wewenang RUPS. Dokumen pemanggilan ini belum mencantumkan nama-nama calon pengganti maupun alasan pergantian, sehingga susunan baru baru akan diketahui setelah RUPSLB berlangsung.",
+   "Dari sisi mekanisme, pemegang saham dapat mendeklarasikan kehadiran elektronik dan memberikan suara melalui eASY.KSEI paling lambat 1 Oktober 2026 pukul 12.00 WIB. Bagi yang memberi kuasa tertulis fisik, dokumen harus disampaikan ke PT Adimitra Jasa Korpora selaku Biro Administrasi Efek perusahaan paling lambat Selasa, 29 September 2026 pukul 16.00 WIB. Materi lengkap RUPSLB dapat diakses di situs web resmi perusahaan sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat."
+  ],
+  "fotoAdegan": "Empty rows of chairs facing a stage in a modern corporate conference hall, sunlight through tall windows, set up for a shareholders meeting.",
+  "takeaway": "Laporan ini netral bagi BEER karena kedua agenda RUPSLB bersifat administratif dan belum memuat angka atau nama definitif yang mengubah kondisi keuangan perusahaan secara langsung. Yang perlu diperhatikan pelaku pasar adalah agenda pergantian susunan direksi dan komisaris, sebab pucuk pimpinan baru berpotensi mengubah arah strategi dan cara perusahaan mengambil keputusan ke depan, meski RUPSLB ini sendiri belum menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham. Perubahan Pasal 3 anggaran dasar untuk menyesuaikan klasifikasi usaha baru dari pemerintah sifatnya hanya administratif, semata untuk memudahkan perizinan usaha secara elektronik, dan tidak mengubah lini bisnis inti perusahaan. Yang harus dipantau berikutnya adalah hasil pemungutan suara pada RUPSLB tanggal 2 Oktober 2026, yang akan mengungkap siapa saja direksi dan komisaris baru BEER, dengan batas waktu deklarasi kehadiran elektronik pemegang saham pada 1 Oktober 2026 pukul 12.00 WIB dan penyerahan surat kuasa fisik paling lambat 29 September 2026 pukul 16.00 WIB.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "smdr-jawab-bei-margin-susut-laba-nyaris-stagnan",
   "category": "Aksi Korporasi",
   "title": "SMDR Jawab BEI: [Margin] Susut, Laba Nyaris Stagnan",

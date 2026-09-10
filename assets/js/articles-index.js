@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "beer-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "BEER Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
+  "deck": "PT Jobubu Jarum Minahasa Tbk mengundang pemegang saham ke RUPSLB 2 Oktober 2026 untuk membahas revisi Pasal 3 anggaran dasar dan kemungkinan pergantian direksi serta komisaris.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEER",
+   "RUPSLB",
+   "Direksi",
+   "Anggaran Dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a565fb2c56_b522fff865.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smdr-jawab-bei-margin-susut-laba-nyaris-stagnan",
   "category": "Aksi Korporasi",
   "title": "SMDR Jawab BEI: [Margin] Susut, Laba Nyaris Stagnan",
@@ -6488,22 +6504,6 @@ var ARTICLES = [
    "komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5351-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgwg-panggil-rupslb-soal-perubahan-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "DGWG Panggil RUPSLB soal [Perubahan] Anggaran Dasar",
-  "deck": "DGWG mengundang pemegang saham ke RUPSLB 28 September 2026 untuk menyetujui perubahan Pasal 3 Anggaran Dasar agar sesuai klasifikasi usaha KBLI 2025.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "RUPSLB",
-   "Anggaran Dasar",
-   "KBLI 2025"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eaf13a118f_dd6c282d76.pdf",
   "sourceLabel": "IDX"
  }
 ];

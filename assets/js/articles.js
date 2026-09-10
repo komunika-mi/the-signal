@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "SINI Paparkan Laba Rp674 M usai Suspensi, [Ekuitas] Balik Positif",
+  "deck": "Singaraja Putra merilis materi public expose insidentil usai suspensi BEI, membukukan laba Rp674,2 miliar dan ekuitas berbalik positif Rp3,59 triliun berkat rights issue dan akuisisi KMS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T18:43:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1e037afc_73d85c0e1a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "Public Expose",
+   "Rights Issue",
+   "Akuisisi KMS"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk (SINI) menyampaikan materi Public Expose Insidentil kepada Bursa Efek Indonesia pada 10 September 2026, menyusul surat sebelumnya tertanggal 9 September 2026 perihal rencana penyelenggaraan paparan publik tersebut. Paparan publik insidentil ini dilaksanakan atas permintaan BEI terkait suspensi perdagangan saham SINI pada 8 September 2026, dan dijadwalkan berlangsung pada 11 September 2026. Surat penyampaian materi ditandatangani oleh Direktur Utama SINI, Amir Antolis.",
+   "Dalam materi paparan, Perseroan mencatatkan pendapatan Rp537,8 miliar pada posisi 31 Juli 2026, tumbuh 147 persen dibanding periode yang sama tahun lalu (belum diaudit). Pertumbuhan ini ditopang segmen penjualan batu bara yang membukukan pendapatan Rp321,9 miliar pada tujuh bulan pertama 2026, dari nihil pada periode yang sama 2025, sehingga kini menyumbang 60 persen dari total pendapatan. Segmen penjualan kayu justru sedikit turun menjadi Rp215,7 miliar dari Rp217,4 miliar. Laba bruto naik 200 persen menjadi Rp143,4 miliar dan laba usaha melonjak dari Rp3,7 miliar menjadi Rp73,8 miliar. Laba tahun berjalan tercatat Rp674,2 miliar, berbalik dari rugi bersih Rp26,1 miliar pada 31 Juli 2025, yang menurut Perseroan didorong oleh perbaikan kinerja operasional serta keuntungan dari pembelian dengan diskon atas transaksi akuisisi PT Kemilau Mulia Sakti (KMS).",
+   "Total aset Perseroan melonjak 318 persen menjadi Rp6,56 triliun per 31 Juli 2026 dari Rp1,57 triliun pada akhir Desember 2025, seiring konsolidasi aset KMS senilai Rp2,94 triliun dan lonjakan kas serta deposito menjadi Rp1,57 triliun dari dana hasil rights issue. Total liabilitas turut naik menjadi Rp2,97 triliun dari Rp2,26 triliun, sementara ekuitas berbalik dari minus Rp687,4 miliar menjadi Rp3,59 triliun. Perseroan menyelesaikan penerbitan 721.500.000 saham baru dengan nilai nominal Rp100 per saham lewat skema Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu, yang menghasilkan agio saham Rp3,54 triliun. Dana hasil rights issue dipakai untuk akuisisi KMS, pelunasan pinjaman bank ke Bank Mandiri dan BNI, investasi pada entitas anak, dan tambahan modal kerja.",
+   "Dari sisi bisnis, Perseroan yang berdiri sejak 2005 ini kini bergerak di pertambangan batu bara termal melalui lima entitas anak: Persada Kapuas Prima, Pasir Bara Prima, Pesona Bara Cakrawala, dan Cakrawala Bara Persada di Kalimantan Tengah yang sahamnya diakuisisi 75 persen pada 2023, serta Cristian Eka Pratama di Kalimantan Timur lewat akuisisi 99,995 persen saham KMS pada 2026. Total area konsesi kelima tambang itu mencapai 21.119 hektare dengan estimasi cadangan gabungan 231 juta metrik ton. Tiga di antaranya, yakni Persada Kapuas Prima, Pasir Bara Prima, dan Cristian Eka Pratama, sudah berproduksi, sementara Pesona Bara Cakrawala dan Cakrawala Bara Persada masih menunggu mulai beroperasi. Perseroan juga menjalankan jasa infrastruktur tambang lewat anak usaha Lintas Kelola Berlaba, termasuk jalan hauling sepanjang sekitar 40 kilometer yang menghubungkan empat konsesi di Kalimantan Tengah. Terkait rencana pengambilalihan oleh Grup PJK yang sempat menjadi sorotan, Perseroan menyatakan tidak memiliki informasi tambahan mengenai perkembangan negosiasi tersebut dan menegaskan tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine in Kalimantan with haul trucks winding along a dusty red access road under overcast sky.",
+  "takeaway": "Laporan ini netral: perbaikan angka keuangan yang dipaparkan memang nyata, tapi sebagian besar berasal dari transaksi akuisisi yang sifatnya satu kali, sementara pertanyaan inti di balik suspensi BEI, yakni kejelasan rencana pengambilalihan oleh Grup PJK, justru tidak terjawab dalam materi ini. Yang paling mencolok adalah ekuitas Perseroan yang berbalik dari minus Rp687,4 miliar pada akhir 2025 menjadi positif Rp3,59 triliun per Juli 2026, berkat suntikan dana rights issue senilai agio Rp3,54 triliun yang sebagian dipakai melunasi utang bank ke Bank Mandiri dan BNI; ekuitas positif ini penting karena jadi ukuran apakah aset perusahaan masih lebih besar daripada utangnya, sesuatu yang sempat tidak terpenuhi tahun lalu. Laba bersih Rp674,2 miliar juga perlu dibaca hati-hati karena sebagian besar berasal dari keuntungan pembukuan akibat membeli KMS dengan harga di bawah nilai wajar asetnya, bukan uang tunai yang benar-benar mengalir masuk ke kas perusahaan. Yang perlu dipantau berikutnya adalah jalannya paparan publik yang dijadwalkan 11 September 2026, serta apakah Perseroan maupun Grup PJK akhirnya membuka status negosiasi pengambilalihan yang sampai saat ini disebut belum ada perkembangan baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbyb-lengkapi-direksi-ojk-restui-direktur-manajemen-risiko",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Lengkapi Direksi, [OJK] Restui Direktur Manajemen Risiko",
+  "deck": "Bank Neo Commerce melaporkan OJK telah menyetujui Indra Aditya Sanjaya sebagai Direktur Manajemen Risiko, melengkapi susunan direksi dan komisaris hasil RUPST April 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T18:43:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c5c8edf5d_6f945f7eb9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBYB",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "Direksi",
+   "OJK"
+  ],
+  "body": [
+   "PT Bank Neo Commerce Tbk. (BBYB) menyampaikan laporan perubahan pengurus kepada OJK dan Bursa Efek Indonesia pada 10 September 2026. Inti laporan ini adalah keluarnya persetujuan Otoritas Jasa Keuangan atas penilaian kemampuan dan kepatutan Indra Aditya Sanjaya untuk menjabat Direktur Manajemen Risiko, menyusul keputusan Rapat Umum Pemegang Saham Tahunan (RUPST) perseroan pada 30 April 2026. Dengan keluarnya restu OJK ini, susunan direksi dan komisaris BBYB dinyatakan efektif dan lengkap.",
+   "Susunan pengurus yang kini berlaku adalah: Komisaris Utama Independen dijabat Inkawan D. Jusi, Komisaris Kreisna Dewantara Gozali, dan Komisaris Independen Pramoda Dei Sudarmo. Di jajaran direksi, Eri Budiono menjabat Direktur Utama, Adrian Wibisono Soewardjo menjabat Direktur Operasional dan Teknologi Informasi, serta Indra Aditya Sanjaya menjabat Direktur Manajemen Risiko. Berdasarkan tanggal pengangkatan yang tercantum, Eri Budiono, Pramoda Dei Sudarmo, dan Kreisna Dewantara Gozali telah menjabat sejak 30 April 2024, sementara Inkawan D. Jusi, Adrian W. Soewardjo, dan Indra Aditya Sanjaya baru diangkat pada 30 April 2026 dan kini dinyatakan efektif menyusul rampungnya proses persetujuan regulator.",
+   "Dalam surat keterbukaan informasi bernomor 643/SET/BNC-Tbk/IX/2026 yang ditandatangani Head of Corporate Secretary Heru Sulistiadhi, perseroan menegaskan bahwa perubahan pengurus ini tidak berdampak merugikan terhadap kegiatan usaha maupun keuangan perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's SCBD business district, wide street-level view, midday light.",
+  "takeaway": "Laporan ini netral bagi fundamental Bank Neo Commerce, karena isinya hanya menuntaskan pengangkatan direksi dan komisaris yang sebenarnya sudah diputuskan RUPST sejak April 2026, bukan perubahan strategi atau kondisi keuangan baru. Yang baru rampung adalah pengisian kursi Direktur Manajemen Risiko oleh Indra Aditya Sanjaya setelah OJK menuntaskan uji kemampuan dan kepatutannya, posisi yang penting untuk diperhatikan karena direktur ini bertanggung jawab mengawasi risiko kredit dan kepatuhan bank, dua hal yang sensitif bagi bank digital seperti BBYB yang pernah bergulat dengan masalah kualitas aset. Yang perlu dipantau selanjutnya adalah bagaimana rasio kredit bermasalah dan pengelolaan risiko BBYB tercermin dalam laporan keuangan kuartal ketiga 2026, sebagai indikator awal efektivitas jajaran direksi yang kini sudah lengkap ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "pack-ungkap-laba-rp190-7-m-di-public-expose-ebit-minus",
+  "category": "Aksi Korporasi",
+  "title": "PACK Ungkap Laba Rp190,7 M di Public Expose, [EBIT] Minus",
+  "deck": "Materi public expose insidentil ANHI (PACK) memuat data keuangan 1H2026: laba bersih melonjak ke Rp190,7 miliar, tapi laba usaha (EBIT) minus Rp12,3 miliar dan marjin kotor menyusut ke 3 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T18:40:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/501f9b2d20_242f3f48c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "nikel",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (ANHI, kode saham PACK) menyampaikan materi Public Expose Insidentil ke Bursa Efek Indonesia, merujuk pada surat pengantar bernomor 002/DIR-ANHI/IX/2026 tanggal 9 September 2026. Dokumen bertanda tangan elektronik itu ditandatangani Direktur Donnie Holman Partogi Manurung dan mencantumkan bahwa paparan publik ini digelar atas dasar sukarela, bukan permintaan Bursa maupun OJK. Materi memaparkan transformasi perusahaan dari bisnis kemasan, PT Solusi Kemasan Digital yang melantai di bursa Februari 2023, menjadi induk investasi tambang nikel setelah diakuisisi PT Eco Energi Perkasa pada Oktober 2024, berganti nama Januari 2025, melepas bisnis kemasannya pada Juni 2025, lalu mengakuisisi sebagian saham dua perusahaan tambang nikel pada September 2025.",
+   "Dua aset inti yang kini dipegang ANHI adalah PT Konutara Sejati dan PT Karyatama Konawe Utara, keduanya berlokasi di Konawe Utara, Sulawesi Tenggara. PT Konutara Sejati memiliki luas area 3.119 hektare dengan target produksi RKAB 2026 sebesar 6 juta ton dan izin usaha pertambangan (IUPOP) berlaku hingga 2035, sementara PT Karyatama Konawe Utara memiliki luas 1.923 hektare, target RKAB 2026 sebesar 4 juta ton, dan IUPOP berlaku hingga 2049, dengan opsi perpanjangan pada keduanya. Struktur kepemilikan yang dipaparkan menyebut lima anak usaha, yaitu PT Adhi Prakarsa Raya, PT Awal Kemuliaan Indonesia, PT Gemilang Padma Raya, PT Daya Unggul Raya, dan PT Sumber Cahaya Raya, sebagai kendaraan investasi ANHI menuju dua tambang tersebut, dengan H. Samsudin Andi Arsyad tercatat menguasai 21,11 persen saham perseroan di luar porsi publik. ANHI sendiri memegang 34,50 persen saham PT Konutara Sejati dan 30 persen saham PT Karyatama Konawe Utara. Susunan direksi mencantumkan Fu Pei Wen sebagai Direktur Utama, Donnie Holman Partogi Manurung dan Wang Feng sebagai Direktur, sedangkan jajaran komisaris diisi Magdalena Veronika sebagai Komisaris Utama dan Drs. Endang Sutisna sebagai Komisaris Independen.",
+   "Materi juga memuat kinerja keuangan semester I 2026 dibanding semester I 2025. Penjualan bersih melonjak dari Rp20,5 miliar menjadi Rp213,0 miliar, naik 937 persen. Laba kotor naik 89 persen menjadi Rp6,3 miliar, namun marjin laba kotornya justru menyusut dari 16 persen menjadi 3 persen. Laba usaha atau EBIT berbalik menjadi minus Rp12,3 miliar dari sebelumnya untung Rp3,4 miliar, sehingga marjin EBIT turun dari 16 persen menjadi minus 6 persen. Meski begitu, laba bersih tercatat melonjak 1.429 persen menjadi Rp190,7 miliar dari rugi Rp14,4 miliar setahun sebelumnya, dengan marjin laba bersih mencapai 90 persen.",
+   "Dari sisi neraca, total aset ANHI naik 76 persen dari Rp2.999,6 miliar pada akhir 2025 menjadi Rp5.268,5 miliar pada semester I 2026, sementara total liabilitas anjlok 97 persen dari Rp2.894,1 miliar menjadi Rp73,9 miliar. Total ekuitas melonjak dari Rp105,5 miliar menjadi Rp5.194,5 miliar. Arus kas dari aktivitas operasi naik menjadi Rp155,2 miliar dari Rp15,4 miliar, sedangkan arus kas untuk aktivitas investasi mencatat arus keluar Rp4.001,9 miliar, jauh lebih besar dari Rp0,4 miliar setahun sebelumnya, terutama untuk penyertaan pada entitas tambang. Arus kas dari aktivitas pendanaan mencatat arus masuk Rp4.897,7 miliar dari sebelumnya Rp16,3 miliar, sehingga kas dan setara kas di akhir periode naik menjadi Rp805,9 miliar dari Rp4,8 miliar."
+  ],
+  "fotoAdegan": "Haul trucks moving reddish nickel ore at an open-pit mine in Southeast Sulawesi, workers in safety vests, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi fundamental ANHI, sebab di balik laba bersih yang melonjak 1.429 persen menjadi Rp190,7 miliar, laba usaha atau EBIT-nya justru berbalik minus Rp12,3 miliar dari untung Rp3,4 miliar setahun sebelumnya, tanda bisnis inti perusahaan belum menghasilkan keuntungan dari operasionalnya sendiri. Yang tersentuh adalah ekuitas dan arus kas: ekuitas melonjak hampir 50 kali lipat menjadi Rp5.194,5 miliar sementara utang nyaris habis, pola yang lazim muncul ketika aset baru seperti saham di dua tambang nikel dicatat dengan nilai wajar setelah akuisisi, bukan dari hasil penjualan sehari-hari, sementara marjin kotor yang menciut dari 16 persen ke 3 persen menunjukkan biaya produksi atau dagang nikelnya menggerus untung jauh sebelum sampai ke baris laba bersih. Yang perlu dipantau selanjutnya adalah sesi tanya jawab dalam paparan publik insidentil ini sendiri, yang digelar atas permintaan sukarela perseroan menyusul rumor rights issue dan suspensi saham yang beredar pekan ini, serta laporan keuangan kuartal berikutnya untuk melihat apakah EBIT kembali positif atau lonjakan laba kali ini murni efek akuntansi satu kali dari akuisisi tambang.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tfas-tuntas-alihkan-9-8-juta-saham-hasil-buyback-ke-pasar",
+  "category": "Aksi Korporasi",
+  "title": "TFAS [Tuntas] Alihkan 9,8 Juta Saham Hasil Buyback ke Pasar",
+  "deck": "TFAS melaporkan telah menuntaskan pengalihan kembali 9,8 juta saham hasil buyback ke pasar melalui Bursa Efek Indonesia hingga September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T17:34:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c6af64db7_8685d9f424.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TFAS",
+  "tags": [
+   "TFAS",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "body": [
+   "PT Telefast Indonesia Tbk (TFAS) menyampaikan Laporan Perkembangan Pengalihan Saham Hasil Pembelian Kembali Saham kepada Otoritas Jasa Keuangan pada 10 September 2026. Laporan yang ditandatangani Presiden Direktur Setiawan Parikesit Kencana ini merujuk pada Peraturan OJK Nomor 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, serta Peraturan OJK Nomor 30 Tahun 2017 tentang pembelian kembali saham perusahaan terbuka. Periode yang dilaporkan membentang dari 29 Oktober 2025 hingga 30 September 2026.",
+   "Menurut tabel yang dilampirkan, total 9.849.600 saham hasil pembelian kembali (buyback) wajib dialihkan kembali alias dijual ulang ke pasar oleh TFAS, dengan harga rata-rata pembelian awal sekitar Rp169 per saham. Pada periode 15 Oktober hingga 31 Desember 2025, perseroan menjual 7.561.800 saham di Bursa Efek Indonesia dengan harga rata-rata Rp284 per saham, menyisakan kewajiban 2.287.800 saham yang belum dialihkan. Pada periode berikutnya, 5 Januari hingga 30 September 2026, TFAS menjual sisa 2.287.800 saham tersebut di bursa dengan harga rata-rata Rp253 per saham, sehingga tidak ada lagi saham buyback yang tersisa untuk dialihkan.",
+   "Dengan demikian, seluruh saham hasil buyback yang sebelumnya ditahan oleh perusahaan telah kembali dilepas ke pasar melalui mekanisme penjualan di bursa, bukan lewat penempatan langsung ke pihak tertentu atau program kepemilikan saham karyawan. Laporan tidak menyebutkan dampak kejadian ini terhadap kondisi operasional, hukum, atau keuangan perusahaan."
+  ],
+  "fotoAdegan": "Office workers reviewing paperwork near a Jakarta stock exchange trading floor, blurred ticker displays in soft focus, daytime lighting",
+  "takeaway": "Laporan ini condong netral bagi TFAS, karena pengalihan kembali saham buyback memang kewajiban rutin sesuai aturan OJK, bukan aksi korporasi yang muncul tiba-tiba. Yang perlu dicermati investor adalah jumlah saham beredar, saham hasil buyback yang tadinya ditahan perusahaan dan tidak dihitung dalam laba per saham kini sepenuhnya kembali dijual ke pasar, sehingga jumlah saham beredar bertambah dan bisa sedikit menekan laba per saham ke depan. Harga jual rata-rata turun dari Rp284 per saham pada akhir 2025 menjadi Rp253 pada 2026, menunjukkan pelepasan dilakukan bertahap mengikuti harga pasar saat itu, bukan pada satu harga tetap. Yang perlu dipantau selanjutnya adalah konfirmasi resmi dari OJK dan Bursa Efek Indonesia atas rampungnya program ini sebelum batas akhir periode pelaporan 30 September 2026, serta apakah TFAS akan mengumumkan program buyback baru setelahnya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "mpxl-catat-laba-bersih-berbalik-untung-rp4-11-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MPXL Catat Laba Bersih [Berbalik] Untung Rp4,11 Miliar",
+  "deck": "MPXL mengungkap laba bersih berbalik untung jadi Rp4,11 miliar dan margin kotor naik ke 20,63% dalam public expose tahunan, didorong efisiensi rute dan ekspansi ke CPO serta batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T17:30:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/830b579238_a56a4e6ec4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPXL",
+  "tags": [
+   "MPXL",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Logistik"
+  ],
+  "body": [
+   "PT MPX Logistics International Tbk (MPXL) menggelar Public Expose Tahunan 2026 secara virtual pada Senin, 7 September 2026 pukul 16.00 WIB melalui Public Expose Live Bursa Efek Indonesia, dihadiri 23 peserta eksternal dari kalangan investor, media, dan masyarakat umum di luar manajemen dan karyawan perseroan. Acara dipandu moderator Gloria Biwin dengan Direktur James S. Chandra dan Direktur Sunyoto Bambang Kusumo mewakili jajaran direksi. Materi yang dipaparkan mencakup profil usaha, kinerja keuangan dan operasional, serta rencana pengembangan bisnis 2026, dengan pemaparan utama disampaikan oleh Sunyoto Bambang Kusumo.",
+   "Dalam sesi tanya jawab, manajemen mengungkap laba bersih perseroan berbalik dari rugi Rp3,5 miliar menjadi laba Rp4,11 miliar, seiring kenaikan margin kotor (GPM) dari 13,52 persen menjadi 20,63 persen. Sunyoto menjelaskan perbaikan ini bukan berasal dari investasi baru, melainkan optimalisasi rute yang sudah ada, setelah pada 2025 perseroan sempat berinvestasi besar di proyek Kalimantan khususnya IKN yang ternyata tidak diiringi pertumbuhan belanja modal pemerintah di wilayah tersebut. Manajemen menyebut capaian kuartal berjalan sudah mencapai 85 persen dari target dan memperkirakan pertumbuhan akan semakin baik hingga akhir tahun, meski tantangan utama saat ini adalah kelangkaan pasokan batu bara yang berimbas pada pasokan semen.",
+   "Soal konsentrasi pendapatan, manajemen mengungkap sekitar 7 persen pendapatan angkutan perseroan berasal dari Inalum melalui PT Samudera Banten Logistik. Untuk mengurangi ketergantungan pada bisnis angkutan semen curah dan FABA (fly ash dan bottom ash), MPXL memperluas portofolio ke pengangkutan CPO dan batu bara serta mulai masuk sebagai distributor semen curah langsung. Anak usaha PT Tambang Raya Sejahtera yang didirikan awal 2026 untuk berdagang batu bara sempat terhambat izin RKAB di sejumlah tambang Sumatera Selatan dan Kalimantan, dan manajemen menargetkan mulai bertransaksi batu bara di wilayah Cilegon pada kuartal keempat 2026. Perseroan juga menyatakan belum ada rencana penambahan armada baru maupun aksi korporasi di tahun 2026, dengan kemungkinan aksi korporasi dan kunjungan investor baru dipertimbangkan tahun depan."
+  ],
+  "fotoAdegan": "Fleet of bulk cement trucks lined up at an industrial loading terminal in Kalimantan, workers in hard hats directing traffic, dusty daylight.",
+  "takeaway": "Laporan ini condong positif bagi MPXL, karena public expose mengonfirmasi perbaikan kinerja nyata, dari rugi Rp3,5 miliar menjadi laba Rp4,11 miliar dengan margin kotor naik dari 13,52 persen menjadi 20,63 persen, dan capaian kuartal berjalan sudah 85 persen dari target manajemen. Margin kotor yang membaik berarti dari setiap rupiah pendapatan angkutan, MPXL kini menyisakan lebih banyak setelah dikurangi biaya operasional truk dan bahan bakar, yang langsung mengangkat laba bersih dan menambah modal perseroan tahun ini. Meski begitu, sekitar 7 persen pendapatan angkutan masih bertumpu pada satu mitra yakni Inalum lewat PT Samudera Banten Logistik, dan direksi memilih tidak menambah armada baru tahun ini sehingga pertumbuhan volume ke depan bergantung pada komoditas baru seperti batu bara dan CPO yang masih tahap rintisan. Yang perlu dipantau berikutnya adalah rencana anak usaha Tambang Raya Sejahtera memulai perdagangan batu bara di Cilegon pada kuartal keempat 2026 setelah sempat terhambat izin RKAB di Sumatera Selatan dan Kalimantan, serta apakah realisasi kinerja penuh tahun 2026 benar-benar melanjutkan tren perbaikan yang disampaikan manajemen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "saham-cuan-melejit-7-98-jelang-akuisisi-sini",
   "category": "Pasar Modal",
   "title": "Saham [CUAN] Melejit 7,98% Jelang Akuisisi SINI",

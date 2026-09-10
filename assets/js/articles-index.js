@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sini-paparkan-laba-rp674-m-usai-suspensi-ekuitas-balik-positif",
+  "category": "Aksi Korporasi",
+  "title": "SINI Paparkan Laba Rp674 M usai Suspensi, [Ekuitas] Balik Positif",
+  "deck": "Singaraja Putra merilis materi public expose insidentil usai suspensi BEI, membukukan laba Rp674,2 miliar dan ekuitas berbalik positif Rp3,59 triliun berkat rights issue dan akuisisi KMS.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "Public Expose",
+   "Rights Issue",
+   "Akuisisi KMS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7b1e037afc_73d85c0e1a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbyb-lengkapi-direksi-ojk-restui-direktur-manajemen-risiko",
+  "category": "Aksi Korporasi",
+  "title": "BBYB Lengkapi Direksi, [OJK] Restui Direktur Manajemen Risiko",
+  "deck": "Bank Neo Commerce melaporkan OJK telah menyetujui Indra Aditya Sanjaya sebagai Direktur Manajemen Risiko, melengkapi susunan direksi dan komisaris hasil RUPST April 2026.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBYB",
+   "Bank Neo Commerce",
+   "Direksi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c5c8edf5d_6f945f7eb9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-ungkap-laba-rp190-7-m-di-public-expose-ebit-minus",
+  "category": "Aksi Korporasi",
+  "title": "PACK Ungkap Laba Rp190,7 M di Public Expose, [EBIT] Minus",
+  "deck": "Materi public expose insidentil ANHI (PACK) memuat data keuangan 1H2026: laba bersih melonjak ke Rp190,7 miliar, tapi laba usaha (EBIT) minus Rp12,3 miliar dan marjin kotor menyusut ke 3 persen.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "nikel",
+   "public expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/501f9b2d20_242f3f48c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tfas-tuntas-alihkan-9-8-juta-saham-hasil-buyback-ke-pasar",
+  "category": "Aksi Korporasi",
+  "title": "TFAS [Tuntas] Alihkan 9,8 Juta Saham Hasil Buyback ke Pasar",
+  "deck": "TFAS melaporkan telah menuntaskan pengalihan kembali 9,8 juta saham hasil buyback ke pasar melalui Bursa Efek Indonesia hingga September 2026.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFAS",
+   "buyback saham",
+   "pasar modal",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c6af64db7_8685d9f424.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpxl-catat-laba-bersih-berbalik-untung-rp4-11-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MPXL Catat Laba Bersih [Berbalik] Untung Rp4,11 Miliar",
+  "deck": "MPXL mengungkap laba bersih berbalik untung jadi Rp4,11 miliar dan margin kotor naik ke 20,63% dalam public expose tahunan, didorong efisiensi rute dan ekspansi ke CPO serta batu bara.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPXL",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/830b579238_a56a4e6ec4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "saham-cuan-melejit-7-98-jelang-akuisisi-sini",
   "category": "Pasar Modal",
   "title": "Saham [CUAN] Melejit 7,98% Jelang Akuisisi SINI",
@@ -6426,87 +6506,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1ad59ed13_020febd7d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bull-cetak-laba-us-58-4-juta-opini-auditor-tetap-dikecualikan",
-  "category": "Aksi Korporasi",
-  "title": "BULL cetak laba US$58,4 juta, opini auditor tetap [dikecualikan]",
-  "deck": "Buana Lintas Lautan (BULL) membukukan laba US$58,4 juta pada semester I 2026 dan aset naik 25 persen, namun auditor tetap memberi opini wajar dengan pengecualian.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BULL",
-   "laporan keuangan",
-   "opini audit",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904095023-64163-0/FinancialStatement-2026-II-BULL.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wskt-rupo-setujui-restrukturisasi-obligasi-hingga-2034",
-  "category": "Aksi Korporasi",
-  "title": "WSKT: RUPO Setujui [Restrukturisasi] Obligasi hingga 2034",
-  "deck": "Pemegang obligasi Waskita Karya menyetujui restrukturisasi Obligasi Berkelanjutan III Tahap IV 2019, termasuk perpanjangan tenor hingga 2034 dan penurunan kupon menjadi 5 persen.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSKT",
-   "restrukturisasi obligasi",
-   "Waskita Karya",
-   "RUPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f76b4496a8_72773d4bad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-bagikan-dividen-interim-rp66-per-saham-rp6-16-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BMRI bagikan [dividen] interim Rp66 per saham, Rp6,16 triliun",
-  "deck": "Bank Mandiri akan membagikan dividen interim Rp66 per saham untuk tahun buku 2026, senilai sekitar Rp6,16 triliun. Jadwal pembayaran menyusul.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "dividen interim",
-   "Bank Mandiri",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/69c58eb3ee_21bddc12c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih",
-  "category": "BUMN",
-  "title": "RI-Rusia Jajaki [Pabrik] Pupuk Urea dan Kapal Canggih",
-  "deck": "Danantara dan Pupuk Indonesia menandatangani studi bersama untuk potensi pabrik urea di Vladivostok, sementara Rusia menawarkan kapal canggih pengolah ikan kepada Indonesia.",
-  "date": "4 September 2026",
-  "image": "assets/img/ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih.jpg",
-  "imageV": "mtmk00rv",
-  "tags": [
-   "rusia",
-   "pupuk indonesia",
-   "danantara",
-   "prabowo subianto"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464784-bukan-cuma-perdagangan-rusia-tawarkan-kapal-canggih-hingga-pabrik-pupuk-ke-indonesia"
- },
- {
-  "slug": "jawa-tak-ada-informasi-material-di-balik-lonjakan-saham",
-  "category": "Aksi Korporasi",
-  "title": "JAWA: Tak Ada Informasi [Material] di Balik Lonjakan Saham",
-  "deck": "Bursa minta JAWA jelaskan lonjakan harga dan volume sahamnya. Perusahaan menyatakan tak ada informasi material tersembunyi dan tak tahu pasti penyebab kenaikan tersebut.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAWA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce38cfe917_86820cad69.pdf",
   "sourceLabel": "IDX"
  }
 ];

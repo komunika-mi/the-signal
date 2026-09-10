@@ -39,6 +39,22 @@ var ARTICLES = [
   "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
  },
  {
+  "slug": "rupslb-elnusa-elsa-tetapkan-dua-direktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB Elnusa [ELSA] Tetapkan Dua Direktur Baru",
+  "deck": "RUPSLB Elnusa mengganti Direktur Pengembangan Usaha dan Direktur SDM & Umum, efektif sejak penutupan rapat pada 9 September 2026, tanpa mengubah dampak terhadap kondisi keuangan perusahaan.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "RUPSLB",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f95f51f0d_ceac20ede8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
   "category": "Industri",
   "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",
@@ -6501,21 +6517,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464669-persiapkan-kedaulatan-digital-di-universitas-telkom-perkuat-kolaborasi-pentahelix"
- },
- {
-  "slug": "mdiy-tembus-1-400-toko-ekspansi-2026-sesuai-target",
-  "category": "Aksi Korporasi",
-  "title": "MDIY Tembus [1.400] Toko, Ekspansi 2026 Sesuai Target",
-  "deck": "MR.D.I.Y. Indonesia (MDIY) resmi membuka toko ke-1.400. Realisasi 177 dari target 270 toko baru tahun ini sudah tercapai hingga Agustus 2026.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDIY",
-   "ritel",
-   "ekspansi toko",
-   "MR.D.I.Y."
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e036cd1608_05ab121b42.pdf",
-  "sourceLabel": "IDX"
  }
 ];

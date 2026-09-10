@@ -57,6 +57,32 @@ var ARTICLES = [
   "imageV": "mtuoqowc"
  },
  {
+  "slug": "rupslb-elnusa-elsa-tetapkan-dua-direktur-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB Elnusa [ELSA] Tetapkan Dua Direktur Baru",
+  "deck": "RUPSLB Elnusa mengganti Direktur Pengembangan Usaha dan Direktur SDM & Umum, efektif sejak penutupan rapat pada 9 September 2026, tanpa mengubah dampak terhadap kondisi keuangan perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T05:34:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f95f51f0d_ceac20ede8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "Elnusa",
+   "RUPSLB",
+   "direksi"
+  ],
+  "body": [
+   "PT Elnusa Tbk (ELSA) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 September 2026, yang menyetujui perubahan susunan direksi perusahaan. RUPSLB mencopot Arief Prasetyo Handoyo dari jabatan Direktur Pengembangan Usaha dan Hera Handayani dari jabatan Direktur SDM & Umum, lalu menunjuk Setyo Sapto Edi sebagai Direktur Pengembangan Usaha yang baru dan Linda Delina sebagai Direktur SDM & Umum yang baru. Perubahan ini berlaku efektif sejak RUPSLB ditutup pada hari yang sama.",
+   "Dengan perubahan tersebut, susunan Dewan Komisaris Elnusa kini terdiri dari Purwadi Arianto sebagai Komisaris Utama, Vitri Cahyaningsih Mallarangeng sebagai Komisaris, serta Abdul Hakim dan Farazandi Fidinansyah sebagai Komisaris Independen. Adapun jajaran Direksi terdiri dari Litta Indriya Ariesca sebagai Direktur Utama, Nelwin Aldriansyah sebagai Direktur Keuangan, Andri Haribowo sebagai Direktur Operasi, Setyo Sapto Edi sebagai Direktur Pengembangan Usaha, dan Linda Delina sebagai Direktur SDM & Umum.",
+   "Corporate Secretary Elnusa, Rustam Aji, menyatakan bahwa perubahan kepengurusan tidak mengubah komitmen perseroan untuk menjaga kesinambungan bisnis dan strategi yang sudah ditetapkan, termasuk pelayanan kepada pelanggan dan penciptaan nilai jangka panjang bagi pemegang saham. Dalam laporan keterbukaan informasi ini, Elnusa juga menyebut skor ASEAN Corporate Governance Scorecard (ACGS) perusahaan sebesar 96,66 dengan predikat 'Very Good', serta menegaskan bahwa perubahan direksi ini tidak berdampak terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Technicians in orange coveralls checking drilling rig equipment at an onshore oil field in Indonesia, hazy afternoon light",
+  "takeaway": "Laporan ini condong netral bagi Elnusa, karena RUPSLB hanya mengganti dua kursi direksi tanpa mengubah struktur modal, arus kas, atau strategi bisnis yang sudah berjalan, dan Elnusa sendiri menyatakan tidak ada dampak dari perubahan ini. Pergantian direksi memang tidak menyentuh pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikannya karena kestabilan tim manajemen menentukan konsistensi eksekusi strategi jangka menengah, termasuk rencana efisiensi biaya dan penguatan teknologi yang baru dipaparkan Elnusa dalam Public Expose 7 September 2026. Yang perlu dipantau selanjutnya adalah bagaimana dua direktur baru, Setyo Sapto Edi di bidang pengembangan usaha dan Linda Delina di bidang SDM, melanjutkan program yang sudah dirintis pendahulunya, serta apakah kinerja operasional Elnusa pada laporan keuangan kuartal berikutnya tetap sejalan dengan target yang sudah ditetapkan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "jabar-diskon-pajak-kendaraan-10-persen-saat-giias-bandung-2026",
   "category": "Industri",
   "title": "Jabar Diskon [Pajak] Kendaraan 10 Persen Saat GIIAS Bandung 2026",

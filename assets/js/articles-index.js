@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inds-sij-sewakan-ruko-ke-planet-ban-rp378-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "INDS: SIJ sewakan ruko ke [Planet Ban] Rp378,3 juta",
+  "deck": "Anak usaha Indospring, PT Sinar Indranusa Jaya, menyewakan ruko di Gresik ke PT Surganya Motor Indonesia (Planet Ban) senilai Rp378,3 juta untuk enam tahun.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDS",
+   "transaksi afiliasi",
+   "Indospring",
+   "Planet Ban"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1e5255638_4acbd4bacb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "issp-public-expose-ungkap-laba-semester-i-naik-12",
+  "category": "Aksi Korporasi",
+  "title": "ISSP: Public Expose Ungkap Laba Semester I Naik [12%]",
+  "deck": "Dalam public expose tahunan, manajemen ISSP mengungkap utilisasi produksi, proyek pipa gas Dumai-Sei Mangkei, dan target pertumbuhan laba 2026.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ISSP",
+   "public expose",
+   "industri baja",
+   "kinerja emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a9d352dac_ea6eeb9dab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "izin-tenaga-kerja-asing-kini-satu-pintu-lewat-oss",
   "category": "Ketenagakerjaan",
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
@@ -6484,38 +6516,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8d1f713f47_0234ab8505.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ltls-laba-bersih-semester-i-2026-melonjak-55-jadi-rp124-m",
-  "category": "Aksi Korporasi",
-  "title": "LTLS: laba bersih semester I 2026 [melonjak] 55% jadi Rp124 M",
-  "deck": "Materi public expose LTLS menunjukkan laba bersih semester I 2026 naik 55 persen jadi Rp124 miliar, ditopang margin kotor yang melebar dan rasio utang yang membaik.",
-  "date": "3 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LTLS",
-   "Lautan Luas",
-   "kinerja keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f616b44779_049165c4c4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-perkuat-kolaborasi-digital-di-universitas",
-  "category": "Teknologi",
-  "title": "Telkom Perkuat Kolaborasi Digital di [Universitas]",
-  "deck": "Telkom hadir dalam forum CIO pendidikan tinggi 2026 di ITB untuk memperkuat kolaborasi tata kelola data, jaringan riset, dan keamanan siber kampus se-Indonesia.",
-  "date": "3 September 2026",
-  "image": "assets/img/telkom-perkuat-kolaborasi-digital-di-universitas.jpg",
-  "imageV": "mtlhtyp2",
-  "tags": [
-   "Telkom",
-   "PDDikti",
-   "IDREN",
-   "Pendidikan Tinggi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464669-persiapkan-kedaulatan-digital-di-universitas-telkom-perkuat-kolaborasi-pentahelix"
  }
 ];

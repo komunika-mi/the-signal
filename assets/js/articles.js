@@ -3,6 +3,58 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inds-sij-sewakan-ruko-ke-planet-ban-rp378-3-juta",
+  "category": "Aksi Korporasi",
+  "title": "INDS: SIJ sewakan ruko ke [Planet Ban] Rp378,3 juta",
+  "deck": "Anak usaha Indospring, PT Sinar Indranusa Jaya, menyewakan ruko di Gresik ke PT Surganya Motor Indonesia (Planet Ban) senilai Rp378,3 juta untuk enam tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T08:31:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d1e5255638_4acbd4bacb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDS",
+  "tags": [
+   "INDS",
+   "transaksi afiliasi",
+   "Indospring",
+   "Planet Ban"
+  ],
+  "body": [
+   "Indospring Tbk melaporkan transaksi afiliasi berupa perjanjian sewa menyewa tanah dan bangunan antara entitas anaknya, PT Sinar Indranusa Jaya (SIJ), dengan PT Surganya Motor Indonesia (SMI). SIJ dimiliki 99 persen sahamnya oleh Indospring, sementara SMI adalah perusahaan afiliasi berkedudukan di Depok yang bergerak di ritel suku cadang otomotif dengan merek dagang toko Planet Ban. Perjanjian diteken 10 September 2026 dan dilaporkan ke OJK sebagai transaksi afiliasi berdasarkan Pasal 6 ayat 1 huruf c POJK No. 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Objek yang disewakan adalah bangunan ruko Blok R-1 dan R-2 lantai 1 dengan luas tanah dan bangunan 75 meter persegi, berlokasi di Jalan Mayjend Sungkono No. 1, Segoromadu, Kecamatan Kebomas, Gresik. Masa sewa berlangsung enam tahun, terhitung sejak 14 September 2026 hingga 13 September 2032. Pembayaran dibagi tiga tahap, yaitu Rp120 juta untuk periode 2026 sampai 2028, Rp126 juta untuk periode 2028 sampai 2030, dan Rp132,3 juta untuk periode 2030 sampai 2032, sehingga total nilai sewa selama enam tahun mencapai Rp378,3 juta, belum termasuk pajak.",
+   "Dalam laporan resminya, Indospring menyatakan transaksi ini tidak berdampak khusus yang perlu dijelaskan terhadap kondisi operasional, hukum, keuangan, maupun kelangsungan usaha perseroan, kolom keterangan dampak dan keterangan lain dalam formulir dibiarkan kosong. Surat keterbukaan informasi ini ditandatangani oleh Direktur Indospring, Bob Budiono."
+  ],
+  "fotoAdegan": "Motorcycle tires and automotive spare parts stacked on shelves inside a small roadside shop, warm afternoon light",
+  "takeaway": "Transaksi ini netral bagi Indospring karena nilainya sangat kecil dibanding skala usaha perseroan sebagai produsen komponen otomotif, sehingga tidak mengubah gambaran keuangan secara berarti. Pos yang tersentuh hanya pendapatan sewa di entitas anak SIJ, senilai rata-rata sekitar Rp63 juta per tahun selama enam tahun, sementara pasar biasanya mencermati transaksi afiliasi semacam ini bukan karena besarannya melainkan karena potensi benturan kepentingan jika harga sewa tidak mengikuti harga pasar wajar. Dokumen ini sendiri tidak mencantumkan hasil kajian kewajaran harga atau pembanding independen. Yang perlu dipantau adalah realisasi masa sewa yang dimulai 14 September 2026 dan pembayaran tahap berikutnya pada 2028 dan 2030, serta apakah Indospring akan mengungkapkan transaksi afiliasi serupa dengan pihak terkait lain di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "issp-public-expose-ungkap-laba-semester-i-naik-12",
+  "category": "Aksi Korporasi",
+  "title": "ISSP: Public Expose Ungkap Laba Semester I Naik [12%]",
+  "deck": "Dalam public expose tahunan, manajemen ISSP mengungkap utilisasi produksi, proyek pipa gas Dumai-Sei Mangkei, dan target pertumbuhan laba 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T08:05:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a9d352dac_ea6eeb9dab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ISSP",
+  "tags": [
+   "ISSP",
+   "public expose",
+   "industri baja",
+   "kinerja emiten"
+  ],
+  "body": [
+   "PT Steel Pipe Industry of Indonesia Tbk (ISSP) menggelar public expose tahunan secara virtual pada 7 September 2026 pukul 11.00 sampai 11.45 WIB, dihadiri 67 peserta di luar jajaran manajemen dan karyawan. Perseroan diwakili oleh Wakil Direktur Utama Tedja Sukmana Hudianto, Chief Strategy and Business Development Officer yang juga menjabat Corporate Secretary and Investor Relations Johanes Wahyudi Edward, serta Corporate Secretary Associate Felicia Priska Handoko. Agenda mencakup ringkasan perusahaan, kinerja semester I 2026, prospek pasar, aspek lingkungan sosial dan tata kelola, strategi 2026-2027, dan pembaruan proyek Spindo.",
+   "Dalam sesi tanya jawab, manajemen menyebut utilisasi kapasitas produksi pipa baja secara kalkulasi median sekitar 50 persen, namun faktual di lapangan bisa mencapai 75 persen. Angka yang terlihat kecil ini disebut sengaja terjadi karena Perseroan berinvestasi pada mesin berteknologi lebih tinggi sehingga kebutuhan produksi yang dulu memerlukan tiga shift kini cukup satu shift, termasuk lini baru bernama SPINDO 7. Perseroan juga mengonfirmasi telah memproduksi dan mengirim pipa baja untuk proyek pipa transmisi gas Dumai-Sei Mangkei (DUSEM), tetapi penagihan baru bisa dilakukan setelah terbit berita acara serah terima di lapangan, sehingga dampaknya ke pendapatan baru akan terlihat di semester II 2026 dan semester I 2027. Manajemen menegaskan tidak ada satu proyek pun yang mencapai 5 persen dari total komposisi penjualan Perseroan.",
+   "Soal kinerja, manajemen menyampaikan laba Perseroan pada semester I 2026 tumbuh 12 persen, dan secara historis semester II biasanya lebih kuat dari semester I. Perseroan menyatakan optimistis mencapai target 2026 didukung proyek pipa gas dan pembangunan data center, dengan menyebut kontraktor data center asal Tiongkok turut memilih pipa baja lokal termasuk produk SPINDO. Perseroan juga menegaskan produk pipa impor tidak dapat dipakai untuk proyek pemerintah maupun swasta karena wajib bersertifikasi SNI, sehingga tidak mengkhawatirkan persaingan dari produk impor tersebut."
+  ],
+  "fotoAdegan": "Factory workers inspecting rows of large diameter steel pipes on a production line, sparks flying, industrial warehouse lighting",
+  "takeaway": "Laporan ini condong positif bagi ISSP karena manajemen mengungkap laba semester I 2026 tumbuh 12 persen dan menunjuk proyek pipa gas Dumai-Sei Mangkei serta pembangunan data center sebagai pendorong penjualan ke depan, meski ini tetap perlu dibaca sebagai narasi optimistis dari manajemen sendiri, bukan hasil audit independen. Yang tersentuh di sini adalah pos laba dan pendapatan penjualan, sementara utilisasi kapasitas pabrik, yaitu seberapa besar mesin produksi terpakai dibanding kapasitas maksimalnya, disebut masih rendah di kisaran 50 sampai 75 persen sehingga Perseroan punya ruang menambah penjualan tanpa perlu buru buru menambah pabrik baru. Soal proyek DUSEM, barang sudah dikirim tapi penagihan baru bisa dibukukan sebagai pendapatan setelah ada berita acara serah terima di lapangan, sehingga dampaknya ke laporan keuangan baru muncul di semester II 2026 dan semester I 2027. Yang perlu dipantau berikutnya adalah laporan keuangan semester II 2026, yang akan menunjukkan apakah pertumbuhan laba 12 persen pada semester I bisa berlanjut dan apakah proyek DUSEM serta proyek data center benar mulai tercatat sebagai pendapatan seperti yang dijanjikan manajemen.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "izin-tenaga-kerja-asing-kini-satu-pintu-lewat-oss",
   "category": "Ketenagakerjaan",
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",

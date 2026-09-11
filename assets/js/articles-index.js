@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",
+  "category": "Bisnis",
+  "title": "Izin Kerja TKA Diintegrasi, Terbit Maksimal [4 Hari]",
+  "deck": "Pemerintah menyambungkan sistem OSS, Kemnaker, dan Imigrasi untuk mengurus izin kerja dan tinggal tenaga asing, dengan batas waktu layanan dan izin otomatis terbit jika telat.",
+  "date": "11 September 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "TKA",
+   "BKPM",
+   "OSS",
+   "Investasi"
+  ],
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/perkuat-daya-tarik-investasi-pemerintah-integrasikan-sistem-layanan-tka",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
   "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
   "category": "Energi",
   "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",
@@ -2332,7 +2348,7 @@ var ARTICLES = [
   "title": "INSW [Perluas] Cakupan Layanan Ekspor Impor Digital",
   "deck": "Kemenko Perekonomian melaporkan perluasan sistem satu pintu ekspor impor ke puluhan pelabuhan dan bandara, sambil menyiapkan aturan baru soal ekspor komoditas strategis.",
   "date": "8 September 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "INSW",
    "Kemenko Perekonomian",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "suspensi perdagangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84a2c4c36c_bcf1777798.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-umumkan-lokasi-dan-tanggal-dps-rupslb-pmthmetd",
-  "category": "Aksi Korporasi",
-  "title": "RATU Umumkan Lokasi dan Tanggal DPS RUPSLB [PMTHMETD]",
-  "deck": "RATU menetapkan Cityloog Hotel Tebet sebagai lokasi RUPSLB 8 September 2026 dan 13 Agustus 2026 sebagai batas kepemilikan saham yang berhak memberi suara.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "RUPSLB",
-   "PMTHMETD",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0222554ff9_e4dc7ed2d9.pdf",
   "sourceLabel": "IDX"
  }
 ];

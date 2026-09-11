@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "popw6u-6nbc",
+  "title": "Kadin dan Pemerintah Dorong Regulasi Sektor Wisata",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia dan pemerintah membahas dorongan regulasi baru untuk sektor wisata dalam forum diplomasi ekonomi bulanan di Kementerian Pariwisata, Jakarta.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan yang berdampak pada iklim usaha di sektor pariwisata.",
+  "terbit": "2026-09-11T16:03:06+00:00"
+ },
+ {
   "id": "IMNsjazEOQM",
   "title": "Kadin Minta Tarif Administrasi Perusahaan Diseragamkan",
   "category": "UMKM",

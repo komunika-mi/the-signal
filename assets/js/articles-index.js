@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar",
+  "category": "UMKM",
+  "title": "Pertamina Bina [1.500] UMK Terpilih dari 4.000 Pendaftar",
+  "deck": "Pertamina memulai pembinaan regional UMK Academy 2026 untuk lebih dari 1.500 pelaku usaha mikro dan kecil terpilih dari sekitar 4.000 pendaftar di seluruh Indonesia.",
+  "date": "11 September 2026",
+  "image": "assets/img/pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar.jpg",
+  "imageV": "mtx7lsj2",
+  "tags": [
+   "Pertamina",
+   "UMK Academy",
+   "UMKM",
+   "Pembinaan Usaha"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466523-lebih-1500-pelaku-usaha-berhasil-terpilih-pertamina-umk-academy-2026-resmi-dimulai"
+ },
+ {
   "slug": "diva-koreksi-laporan-dana-ipo-sisa-rp3-miliar-2h26",
   "category": "Aksi Korporasi",
   "title": "DIVA Koreksi Laporan Dana IPO, Sisa Rp3 Miliar [2H26]",
@@ -6493,22 +6510,6 @@ var ARTICLES = [
    "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-0850-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tgra-ekuitas-anjlok-83-auditor-soroti-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "TGRA: Ekuitas Anjlok 83%, Auditor Soroti [Kelangsungan Usaha]",
-  "deck": "Ekuitas TGRA anjlok 83% jadi Rp51,4 miliar akibat rugi Rp259,5 miliar dan impairment proyek PLTA/PLTMH. Auditor menyoroti ketidakpastian kelangsungan usaha Grup.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan",
-   "kelangsungan usaha",
-   "PLTA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef6e18c87a_4cbea9bff7.pdf",
   "sourceLabel": "IDX"
  }
 ];

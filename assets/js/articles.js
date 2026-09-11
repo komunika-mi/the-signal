@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar",
+  "category": "UMKM",
+  "title": "Pertamina Bina [1.500] UMK Terpilih dari 4.000 Pendaftar",
+  "deck": "Pertamina memulai pembinaan regional UMK Academy 2026 untuk lebih dari 1.500 pelaku usaha mikro dan kecil terpilih dari sekitar 4.000 pendaftar di seluruh Indonesia.",
+  "image": "assets/img/pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T23:06:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466523-lebih-1500-pelaku-usaha-berhasil-terpilih-pertamina-umk-academy-2026-resmi-dimulai",
+  "tags": [
+   "Pertamina",
+   "UMK Academy",
+   "UMKM",
+   "Pembinaan Usaha"
+  ],
+  "body": [
+   "PT Pertamina (Persero) resmi memulai tahap pembinaan regional program Pertamina UMK Academy 2026, ditandai dengan kick-off yang digelar secara daring pada 9 September 2026. Program ini menjaring lebih dari 1.500 pelaku usaha mikro dan kecil dari sekitar 4.000 pendaftar yang tersebar di berbagai wilayah Indonesia. Bagi pelaku usaha kecil, program ini menjadi salah satu jalur pembinaan bisnis berskala nasional yang disediakan gratis oleh Pertamina.",
+   "Vice President CSR & SMEPP Pertamina, Rudi Arifianto, mengungkapkan pendaftaran yang hanya dibuka 11 hari berhasil menjaring 4.290 pelaku UMK dari hampir seluruh provinsi. Pada tahap regional, peserta mendapat pembelajaran soal pengelolaan bisnis dan fasilitasi akses pasar, didampingi fasilitator, mentor, serta akselerator berpengalaman. Setelah tahap regional selesai, peserta akan melalui evaluasi dan seleksi lanjutan untuk maju ke tahap nasional dengan materi yang lebih mendalam dan pendampingan yang lebih intensif.",
+   "Peserta yang lolos ke tahap nasional nantinya dibagi ke dalam empat kelas sesuai perkembangan usaha masing-masing, yaitu Go Modern, Go Digital, Go Online, dan Go Global. Deputi Bidang Usaha Kecil Kementerian UMKM, Temmy Satya Permana, yang turut hadir dalam kick-off menyebut pembinaan yang komprehensif dan berkelanjutan penting agar pelaku usaha lokal bisa menerapkan pengetahuan yang diperoleh sekaligus memperluas akses pasar.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, menyebut terpilihnya lebih dari 1.500 UMK ini baru menjadi titik awal dari rangkaian pembinaan yang akan dijalani peserta. Ia menilai tingginya jumlah pendaftar mencerminkan besarnya minat pelaku UMK untuk terus belajar dan mengembangkan usahanya."
+  ],
+  "fotoAdegan": "Indonesian micro entrepreneurs arranging packaged food products on a stall table at a local market, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa4251ab68be-pertamina-umk-academy-2026-resmi-dimulai_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret hari ini adalah dimulainya seleksi ketat program ini: dari sekitar 4.000 pendaftar, hanya sekitar 1.500 atau sekitar 35 persen yang lolos ke tahap pembinaan regional. Yang terdampak jelas pelaku usaha mikro dan kecil di berbagai daerah, karena merekalah yang bersaing memperebutkan pendampingan bisnis dan akses pasar gratis dari Pertamina. Yang belum bisa dipastikan adalah ke mana arah akhir program ini, sebab belum ada jadwal pasti kapan evaluasi ke tahap nasional dilakukan maupun berapa peserta yang akhirnya akan masuk ke masing-masing dari empat kelas lanjutan, termasuk kelas Go Global yang paling menentukan apakah UMK binaan ini benar-benar menembus pasar ekspor. Untuk melihat arah sesungguhnya, perlu ditunggu pengumuman hasil seleksi tahap nasional dan sebaran peserta ke keempat kelas tersebut.",
+  "imageV": "mtx7lsj2"
+ },
+ {
   "slug": "diva-koreksi-laporan-dana-ipo-sisa-rp3-miliar-2h26",
   "category": "Aksi Korporasi",
   "title": "DIVA Koreksi Laporan Dana IPO, Sisa Rp3 Miliar [2H26]",

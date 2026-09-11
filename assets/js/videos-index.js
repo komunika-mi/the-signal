@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "popw6u-6nbc",
+  "title": "Kadin dan Pemerintah Dorong Regulasi Sektor Wisata",
+  "category": "Bisnis",
+  "program": "Kabar Hari Ini",
+  "summary": "Kadin Indonesia dan pemerintah membahas dorongan regulasi baru untuk sektor wisata dalam forum diplomasi ekonomi bulanan di Kementerian Pariwisata, Jakarta.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan yang berdampak pada iklim usaha di sektor pariwisata."
+ },
+ {
   "id": "IMNsjazEOQM",
   "title": "Kadin Minta Tarif Administrasi Perusahaan Diseragamkan",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Presiden Prabowo Subianto meresmikan pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari program transisi energi nasional.",
   "takeaway": "Proyek PLTS berskala besar ini relevan bagi pembaca ekonomi karena menyangkut arah investasi energi terbarukan dan bauran energi nasional ke depan."
- },
- {
-  "id": "Zl5RCPsgvD0",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Kabupaten Jembrana, Bali.",
-  "takeaway": "Peluncuran ini menandai langkah pemerintah memperbesar porsi energi terbarukan dalam bauran energi nasional, hal yang relevan bagi investor dan pelaku industri energi."
  }
 ];

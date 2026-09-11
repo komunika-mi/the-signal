@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-11T00:49:54.228+07:00",
+ "diperbarui": "2026-09-12T00:51:16.926+07:00",
  "entri": [
+  {
+   "id": "2026-09-11-3",
+   "edisi": "2026-09-11",
+   "benang": "Musim public expose: laba tumbuh, kas tak selalu ikut",
+   "klaim": "Kesenjangan antara laba di atas kertas dan arus kas riil emiten masih akan berpola sama, dengan arah yang bisa melebar atau menyempit.",
+   "penanda": "Laporan keuangan kuartal III yang mulai terbit",
+   "tenggat": "2026-10-31",
+   "tenggatLabel": "akhir Oktober",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-11-2",
+   "edisi": "2026-09-11",
+   "benang": "Lonjakan minyak dunia terus menekan rupiah dan IHSG",
+   "klaim": "Tekanan pelemahan rupiah dan IHSG akibat lonjakan harga minyak dan kenaikan yield obligasi AS masih akan berlanjut, dengan arah yang bisa mereda atau justru meluas.",
+   "penanda": "Perkembangan gangguan pelayaran di Selat Hormuz dan Laut Merah",
+   "tenggat": "2026-09-18",
+   "tenggatLabel": "dalam beberapa hari mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-11-1",
+   "edisi": "2026-09-11",
+   "benang": "Tekanan utang BUMN karya makin dalam",
+   "klaim": "Tekanan utang di sektor konstruksi pelat merah masih akan berlanjut dan belum mereda, menyusul gagal bayar WIKA dan pemangkasan peringkat PTPP meski restrukturisasi sudah masuk tahap implementasi.",
+   "penanda": "Apakah PTPP bisa merealisasikan pembayaran sesuai skema restrukturisasi baru tanpa penundaan lanjutan pada tahap berikutnya",
+   "tenggat": null,
+   "tenggatLabel": "pada tahap berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-10-3",
    "edisi": "2026-09-10",

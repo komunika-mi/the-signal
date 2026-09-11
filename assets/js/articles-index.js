@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "buva-tambah-pinjaman-ke-anak-usaha-jadi-rp27-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Tambah Pinjaman ke Anak Usaha Jadi [Rp27 Miliar]",
+  "deck": "PT Bukit Uluwatu Villa Tbk menambah pinjaman ke anak usahanya PT Bukit Bali Permai sebesar Rp22 miliar, sehingga total pinjaman menjadi Rp27 miliar.",
+  "date": "12 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "transaksi afiliasi",
+   "pinjaman",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f6be8807b_d0fa804ef7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar",
   "category": "UMKM",
   "title": "Pertamina Bina [1.500] UMK Terpilih dari 4.000 Pendaftar",
@@ -6494,22 +6510,6 @@ var ARTICLES = [
    "Jhonlin Agro Raya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5463-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asli-maybank-sekuritas-lepas-saham-7-03-usai-revisi-repo",
-  "category": "Aksi Korporasi",
-  "title": "ASLI: Maybank Sekuritas lepas saham [7,03%] usai revisi repo",
-  "deck": "Maybank Sekuritas Indonesia melaporkan kepemilikannya di ASLI turun dari 1,38 miliar lembar (7,03% hak suara) jadi nol lewat revisi repo tertanggal 12 Agustus 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "kepemilikan saham",
-   "Maybank Sekuritas",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-0850-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

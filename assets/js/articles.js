@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "buva-tambah-pinjaman-ke-anak-usaha-jadi-rp27-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Tambah Pinjaman ke Anak Usaha Jadi [Rp27 Miliar]",
+  "deck": "PT Bukit Uluwatu Villa Tbk menambah pinjaman ke anak usahanya PT Bukit Bali Permai sebesar Rp22 miliar, sehingga total pinjaman menjadi Rp27 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T00:54:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5f6be8807b_d0fa804ef7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "transaksi afiliasi",
+   "pinjaman",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) melaporkan transaksi afiliasi berupa adendum perjanjian pinjaman dengan anak usahanya, PT Bukit Bali Permai (BBP), yang terjadi pada 9 September 2026 dengan nilai transaksi Rp27 miliar. BBP tercatat sebagai anak usaha yang 99,999 persen sahamnya dimiliki BUVA, memiliki anggota direksi dan dewan komisaris yang sama dengan BUVA, serta dikendalikan baik langsung maupun tidak langsung oleh pihak yang sama, sehingga transaksi ini digolongkan sebagai transaksi afiliasi sesuai aturan OJK.",
+   "Berdasarkan rincian dalam dokumen, pinjaman ini awalnya bernilai Rp5 miliar, lalu ditambah Rp22 miliar melalui adendum tersebut sehingga total pinjaman BUVA kepada BBP menjadi Rp27 miliar. Dokumen tidak mencantumkan suku bunga pinjaman maupun jadwal pengembaliannya. BUVA menyatakan transaksi ini tidak memiliki dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Laporan ini ditandatangani secara elektronik oleh direktur BUVA dan disampaikan kepada Otoritas Jasa Keuangan pada 11 September 2026, dengan tembusan kepada Direktur Penilaian Perusahaan PT Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Aerial view of a tropical clifftop villa resort overlooking the ocean in Bali, palm trees swaying, late afternoon sunlight",
+  "takeaway": "Transaksi ini netral bagi pemegang saham publik BUVA, karena pinjaman mengalir dari induk ke anak usaha yang hampir seluruhnya dimiliki sendiri, bukan penambahan utang ke pihak ketiga atau penerbitan saham baru yang bisa mengurangi porsi kepemilikan investor. Yang tersentuh di sini adalah arus kas BUVA, yaitu uang tunai yang keluar dari kas perusahaan induk sebesar Rp22 miliar untuk dipinjamkan ke BBP; dalam laporan keuangan gabungan seluruh grup dana ini tetap tercatat berputar di dalam perusahaan, tapi likuiditas BUVA sendiri di luar anak usaha berkurang sebesar itu. Karena dokumen tidak mencantumkan bunga pinjaman maupun jadwal pengembaliannya, pemegang saham belum bisa menilai apakah dana ini mendatangkan pemasukan bagi BUVA sebagai pemberi pinjaman atau sekadar suntikan dana operasional untuk BBP. Perusahaan sendiri menegaskan transaksi ini tidak berdampak material terhadap operasional, hukum, keuangan, maupun kelangsungan usaha. Yang perlu dipantau berikutnya adalah laporan keuangan BUVA mendatang, untuk melihat bagaimana BBP memakai tambahan dana ini dan apakah rincian bunga atau tenggat pengembaliannya diungkapkan kemudian.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pertamina-bina-1-500-umk-terpilih-dari-4-000-pendaftar",
   "category": "UMKM",
   "title": "Pertamina Bina [1.500] UMK Terpilih dari 4.000 Pendaftar",

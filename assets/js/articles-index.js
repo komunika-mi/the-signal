@@ -101,6 +101,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga",
+  "category": "Ketenagakerjaan",
+  "title": "Kapolri Minta Pengusaha Jadikan Buruh [Mitra] Keluarga",
+  "deck": "Kapolri Listyo Sigit Prabowo mendorong pengusaha menjadikan buruh sebagai aset dan mitra, bukan sekadar tenaga kerja, dalam forum konsolidasi FSPMI di Bekasi.",
+  "date": "11 September 2026",
+  "image": "assets/img/kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga.jpg",
+  "imageV": "mtwpks3e",
+  "tags": [
+   "buruh",
+   "kapolri",
+   "hubungan industrial",
+   "FSPMI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466383-bicara-nasib-buruh-kapolri-sampaikan-pesan-ke-pengusaha-jadikan-mereka-aset-mitra-dan-keluarga-perusahaan"
+ },
+ {
   "slug": "hais-pendapatan-berpotensi-tertekan-hingga-20-di-2026",
   "category": "Aksi Korporasi",
   "title": "HAIS: Pendapatan Berpotensi Tertekan hingga [20%] di 2026",
@@ -6493,22 +6510,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50a83b104b_aa7c1fdcdb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csmi-jawab-bursa-kas-rp237-65-juta-utang-afiliasi-rp25-1-m",
-  "category": "Aksi Korporasi",
-  "title": "CSMI Jawab Bursa: Kas Rp237,65 Juta, Utang [Afiliasi] Rp25,1 M",
-  "deck": "CSMI menjawab permintaan penjelasan Bursa soal kas yang menipis ke Rp237,65 juta dan utang ke perusahaan afiliasi Rp25,1 miliar, di tengah rugi bersih yang masih berlanjut per Juni 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSMI",
-   "likuiditas",
-   "keterbukaan informasi",
-   "NWS Chicken"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2987bcc802_d2eec255eb.pdf",
   "sourceLabel": "IDX"
  }
 ];

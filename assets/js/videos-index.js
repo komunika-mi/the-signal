@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "uHa2hQrCtoU",
+  "title": "Antrean BBM Solar-Pertalite di Makassar Mengular 1 Km",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Antrean kendaraan di sejumlah SPBU Kota Makassar, Sulawesi Selatan, mengular hingga sekitar 1 kilometer akibat keterbatasan pasokan BBM jenis Solar dan Pertalite.",
+  "takeaway": "Kelangkaan BBM bersubsidi menyangkut isu distribusi energi yang berdampak langsung pada mobilitas dan aktivitas ekonomi masyarakat."
+ },
+ {
+  "id": "ir9FK2LlTQs",
+  "title": "PT Ratu Wisata Universal Raih Penghargaan APSI 2026",
+  "category": "Bisnis",
+  "program": "AKIS",
+  "summary": "PT Ratu Wisata Universal meraih penghargaan sebagai penjual tiket Saudia terbanyak periode 2022-2025 dalam ajang Anugerah Perjalanan Suci Indonesia 2026.",
+  "takeaway": "Capaian ini menggambarkan kinerja pelaku usaha di sektor jasa perjalanan umrah dan haji yang terus berkembang."
+ },
+ {
   "id": "JnywAQRvTlM",
   "title": "Dirut Bank Kalbar Kunjungi Kantor Pusat tvOne",
   "category": "Perbankan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Hari Ini",
   "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
   "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah."
- },
- {
-  "id": "V8tXxrsFCtc",
-  "title": "Peluncuran Danantara Sumber Daya Indonesia",
-  "category": "BUMN",
-  "program": "Kabar Utama",
-  "summary": "BPI Danantara resmi mengonfirmasi berdirinya PT Danantara Sumberdaya Indonesia (DSI) yang dibentuk melalui akta perusahaan sejak 1 Juni 2026, seperti disampaikan CEO BPI Danantara Rosan Roeslani.",
-  "takeaway": "Perkembangan ini penting bagi pembaca ekonomi karena menyangkut struktur baru pengelolaan aset dan investasi negara melalui BPI Danantara."
- },
- {
-  "id": "sZlTPmyTGcQ",
-  "title": "Pemerintah Dukung Sertifikasi Pekerja Industri Kecantikan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah mendorong penguatan standar kompetensi bagi pekerja sektor kecantikan, termasuk tenaga profesional make up, melalui program sertifikasi resmi.",
-  "takeaway": "Kebijakan ini relevan bagi pembaca ekonomi karena menyangkut kualitas dan daya saing tenaga kerja di sektor jasa yang terus tumbuh."
  }
 ];

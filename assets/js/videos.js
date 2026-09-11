@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "uHa2hQrCtoU",
+  "title": "Antrean BBM Solar-Pertalite di Makassar Mengular 1 Km",
+  "category": "Energi",
+  "program": "AKIS",
+  "summary": "Antrean kendaraan di sejumlah SPBU Kota Makassar, Sulawesi Selatan, mengular hingga sekitar 1 kilometer akibat keterbatasan pasokan BBM jenis Solar dan Pertalite.",
+  "takeaway": "Kelangkaan BBM bersubsidi menyangkut isu distribusi energi yang berdampak langsung pada mobilitas dan aktivitas ekonomi masyarakat.",
+  "terbit": "2026-09-11T08:14:08+00:00"
+ },
+ {
+  "id": "ir9FK2LlTQs",
+  "title": "PT Ratu Wisata Universal Raih Penghargaan APSI 2026",
+  "category": "Bisnis",
+  "program": "AKIS",
+  "summary": "PT Ratu Wisata Universal meraih penghargaan sebagai penjual tiket Saudia terbanyak periode 2022-2025 dalam ajang Anugerah Perjalanan Suci Indonesia 2026.",
+  "takeaway": "Capaian ini menggambarkan kinerja pelaku usaha di sektor jasa perjalanan umrah dan haji yang terus berkembang.",
+  "terbit": "2026-09-11T08:02:15+00:00"
+ },
+ {
   "id": "JnywAQRvTlM",
   "title": "Dirut Bank Kalbar Kunjungi Kantor Pusat tvOne",
   "category": "Perbankan",

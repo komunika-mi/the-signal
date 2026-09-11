@@ -161,6 +161,33 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga",
+  "category": "Ketenagakerjaan",
+  "title": "Kapolri Minta Pengusaha Jadikan Buruh [Mitra] Keluarga",
+  "deck": "Kapolri Listyo Sigit Prabowo mendorong pengusaha menjadikan buruh sebagai aset dan mitra, bukan sekadar tenaga kerja, dalam forum konsolidasi FSPMI di Bekasi.",
+  "image": "assets/img/kapolri-minta-pengusaha-jadikan-buruh-mitra-keluarga.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T13:34:16+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466383-bicara-nasib-buruh-kapolri-sampaikan-pesan-ke-pengusaha-jadikan-mereka-aset-mitra-dan-keluarga-perusahaan",
+  "tags": [
+   "buruh",
+   "kapolri",
+   "hubungan industrial",
+   "FSPMI"
+  ],
+  "body": [
+   "Kapolri Jenderal Listyo Sigit Prabowo mengajak dunia usaha mengubah cara memandang buruh, dari sekadar tenaga kerja menjadi aset, mitra, sekaligus bagian dari keluarga perusahaan. Pesan ini penting karena datang dari pejabat yang juga bertanggung jawab menjaga ketertiban saat terjadi gesekan antara buruh dan pengusaha, termasuk dalam berbagai aksi buruh menuntut kejelasan aturan ketenagakerjaan.",
+   "Pernyataan itu disampaikan Jumat, 11 September 2026, dalam Konsolidasi Akbar Federasi Serikat Pekerja Metal Indonesia (FSPMI) di Kawasan Industri MM2100, Kabupaten Bekasi, Jawa Barat, bertema Hubungan Industrial, Berkeadilan dan Kondusivitas Investasi. Acara ini dihadiri sekitar 2.000 pekerja yang mewakili buruh dari sekitar 1.200 perusahaan di kawasan tersebut, bersama unsur serikat pekerja, Asosiasi Pengusaha Indonesia atau APINDO, pemerintah daerah, pengelola kawasan industri, dan jajaran Polri.",
+   "Kapolri menegaskan keberlangsungan perusahaan dan kesejahteraan pekerja bukan dua kepentingan yang harus dibenturkan. Perusahaan membutuhkan pekerja yang produktif untuk tumbuh, sementara pekerja membutuhkan perusahaan yang sehat agar pekerjaannya terjamin. Ia mengapresiasi FSPMI yang mengedepankan dialog dengan pemerintah dan pengusaha, serta menyinggung pembahasan revisi Undang-Undang Cipta Kerja yang diawali dari pertemuan serikat buruh dengan asosiasi pengusaha sebagai contoh penyelesaian lewat musyawarah.",
+   "Kapolri juga menyebut tekanan dinamika geopolitik dan ekonomi global yang membuat pemerintah, pengusaha, investor, dan pekerja perlu memperkuat komunikasi. Di luar forum ini, pemerintah disebut terus mendorong hilirisasi dan investasi berbasis kekayaan sumber daya alam serta besarnya pasar domestik untuk membuka lapangan kerja baru."
+  ],
+  "fotoAdegan": "Factory workers in matching uniforms assembling metal components on a production line inside a large industrial park, daylight through skylights.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa39dc9e1774-kapolri-listyo-sigit-saat-hadir-dalam-konsolidasi-akbar-federasi-serikat-pekerja-metal-indonesia-fspmi-di-kawasan-industri-mm2100-jumat-1192026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan, melainkan pendekatan: Kapolri secara terbuka meminta pengusaha memperlakukan buruh sebagai mitra, disampaikan langsung di forum yang mempertemukan 2.000 pekerja dari 1.200 perusahaan dengan APINDO dan pemerintah daerah. Yang terdampak paling langsung adalah pekerja dan pengusaha industri logam di Kawasan MM2100 Bekasi, tapi pesan ini juga menyasar proses pembahasan revisi Undang-Undang Cipta Kerja yang menurut Kapolri dimulai dari pertemuan serikat buruh dan asosiasi pengusaha. Polanya mengarah ke penyelesaian sengketa hubungan kerja lewat forum dialog antara serikat dan pengusaha sebelum aturan disahkan, bukan lewat unjuk rasa atau jalur hukum, sejalan dengan tema acara yang menggabungkan keadilan bagi buruh dengan kondusivitas investasi. Yang akan menunjukkan apakah pola ini konsisten adalah isi aturan turunan dari revisi Cipta Kerja nanti, apakah benar memuat hasil dialog serikat-pengusaha atau hanya formalitas sebelum aturan tetap disusun sepihak.",
+  "imageV": "mtwpks3e"
+ },
+ {
   "slug": "hais-pendapatan-berpotensi-tertekan-hingga-20-di-2026",
   "category": "Aksi Korporasi",
   "title": "HAIS: Pendapatan Berpotensi Tertekan hingga [20%] di 2026",
@@ -530,7 +557,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah tiga sistem perizinan berbeda, yaitu OSS di BKPM, SIAPkerja di Kemnaker, dan aplikasi imigrasi All Indonesia, kini disambungkan jadi satu alur, dengan janji waktu proses sekitar 4 hari per izin dan aturan yang otomatis meloloskan izin kalau lewat 5 hari tanpa keputusan. Yang terdampak langsung adalah perusahaan penanam modal yang mempekerjakan tenaga kerja asing, terutama di sektor industri yang masih bergantung pada keahlian dari luar negeri, karena merekalah yang selama ini harus mengurus izin lewat banyak pintu berbeda. Arahnya sejalan dengan tren deregulasi perizinan investasi sejak PP 28/2025, dari sekadar mempercepat proses menjadi memberi jaminan waktu yang bisa dituntut lewat mekanisme otomatis kalau birokrasi macet. Yang akan menentukan apakah janji ini benar-benar berjalan adalah praktik di lapangan setelah sistem terintegrasi mulai dipakai, misalnya apakah target 4 hari itu benar ditepati atau justru penyambungan tiga sistem berbeda ini menambah titik gagal teknis baru.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "rupslb-hais-sahkan-perubahan-direksi",

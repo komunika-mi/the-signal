@@ -31,6 +31,32 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "rupslb-hais-sahkan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB HAIS Sahkan Perubahan [Direksi]",
+  "deck": "RUPSLB HAIS menyetujui pengunduran diri Direktur Rahmad Pudjotomo dan menetapkan susunan direksi serta komisaris baru, efektif 9 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T07:40:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec2b7a821_9589db8e6a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAIS",
+  "tags": [
+   "HAIS",
+   "direksi",
+   "RUPSLB",
+   "Hasnur Group"
+  ],
+  "body": [
+   "PT Hasnur Internasional Shipping Tbk (HAIS) mengumumkan perubahan susunan direksi melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar 9 September 2026. RUPSLB menyetujui pengunduran diri Rahmad Pudjotomo dari jabatannya sebagai Direktur Perseroan, berdasarkan surat pengunduran diri yang ia ajukan pada 14 Juli 2026. Perseroan menyebut pengunduran diri ini terkait rencana Rahmad Pudjotomo untuk melanjutkan kontribusinya di bisnis lain di lingkungan Hasnur Group, dan menyatakan tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Dengan perubahan ini, susunan Dewan Komisaris HAIS menjadi: Zainal Hadi HAS HB sebagai Komisaris Utama, Iwanho sebagai Komisaris, dan Hendra Iskandar Lubis sebagai Komisaris Independen. Sementara susunan Direksi menjadi: Jayanti Sari sebagai Direktur Utama, serta Rickie dan Laorentina Devi sebagai Direktur.",
+   "Direktur Utama HAIS, Jayanti Sari, menyampaikan apresiasi atas kontribusi Rahmad Pudjotomo selama menjabat di jajaran Direksi. \"Kami menyampaikan apresiasi dan terima kasih kepada Bapak Rahmad Pudjotomo atas kontribusi, dedikasi, dan kerja sama yang telah diberikan selama menjadi bagian dari manajemen HIS. Kami mendoakan yang terbaik untuk langkah beliau selanjutnya,\" ujar Jayanti Sari."
+  ],
+  "fotoAdegan": "A tugboat towing a loaded barge along a calm Indonesian river at early morning, crew checking mooring lines on deck.",
+  "takeaway": "Laporan ini netral bagi HAIS karena isinya adalah pergantian satu direktur secara sukarela, dan perseroan sendiri menyatakan tidak ada dampak terhadap operasional maupun kondisi keuangan. Pergantian direksi seperti ini tidak langsung mengubah pos keuangan seperti ekuitas atau arus kas, tapi tetap dipantau pelaku pasar karena kepemimpinan barulah yang menentukan arah strategi dan pengelolaan biaya perusahaan ke depan, termasuk respons terhadap laba bersih yang sempat anjlok 44,8 persen pada semester pertama 2026. Kini roda kepemimpinan dipegang Direktur Utama baru, Jayanti Sari, bersama dua direktur dan tiga komisaris yang tercatat dalam susunan baru ini. Yang perlu dipantau berikutnya adalah kinerja keuangan HIS pada kuartal III 2026 di bawah susunan direksi baru, karena dari situ bisa terlihat apakah pergantian kepemimpinan ini membawa perbaikan atau sekadar melanjutkan tren penurunan laba yang sudah berlangsung.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
   "category": "Energi",
   "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",

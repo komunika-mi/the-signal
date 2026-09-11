@@ -15,6 +15,7 @@
   <url><loc>https://the-signal.id/privasi.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/pedoman-media-siber.html</loc><lastmod>2026-09-11</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/berita/izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari.html</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/rupslb-hais-sahkan-perubahan-direksi.html</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus.html</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/ipac-jadwalkan-rupslb-20-oktober-dps-25-september.html</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/ipac-ajukan-delisting-tender-saham-publik-rp250-saham.html</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
@@ -435,9 +436,9 @@
   <url><loc>https://the-signal.id/berita/bull-cetak-laba-us-58-4-juta-opini-auditor-tetap-dikecualikan.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/wskt-rupo-setujui-restrukturisasi-obligasi-hingga-2034.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://the-signal.id/berita/bmri-bagikan-dividen-interim-rp66-per-saham-rp6-16-triliun.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/jawa-tak-ada-informasi-material-di-balik-lonjakan-saham.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://the-signal.id/berita/wskt-rampungkan-restrukturisasi-obligasi-bunga-turun-ke-5.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://the-signal.id/berita/ri-rusia-jajaki-pabrik-pupuk-urea-dan-kapal-canggih.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/berita/jawa-tak-ada-informasi-material-di-balik-lonjakan-saham.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/berita/wskt-rampungkan-restrukturisasi-obligasi-bunga-turun-ke-5.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/ekspor-sawit-ri-melonjak-64-pada-juni-2026.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/giias-bandung-2026-digelar-9-13-september-di-sudirman-ballroom.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/berita/fwct-saham-direksi-turun-hak-suara-susut-ke-80.html</loc><lastmod>2026-09-04</lastmod><priority>0.6</priority></url>
@@ -1737,6 +1738,7 @@
   <url><loc>https://the-signal.id/emiten/MCOR.html</loc><lastmod>2026-08-26</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/AVIA.html</loc><lastmod>2026-08-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/NICK.html</loc><lastmod>2026-08-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://the-signal.id/emiten/HAIS.html</loc><lastmod>2026-09-11</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/BEER.html</loc><lastmod>2026-09-10</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/PTBA.html</loc><lastmod>2026-09-10</lastmod><priority>0.6</priority></url>
   <url><loc>https://the-signal.id/emiten/RAJA.html</loc><lastmod>2026-09-10</lastmod><priority>0.6</priority></url>
@@ -1834,7 +1836,6 @@
   <url><loc>https://the-signal.id/emiten/BBCA.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/ZATA.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/BBRI.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
-  <url><loc>https://the-signal.id/emiten/HAIS.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/SOHO.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/SRTG.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
   <url><loc>https://the-signal.id/emiten/SUPR.html</loc><lastmod>2026-09-04</lastmod><priority>0.3</priority></url>
@@ -1936,7 +1937,7 @@
   <url><loc>https://the-signal.id/topik/keterbukaan-informasi.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/public-expose.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/laporan-keuangan.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
-  <url><loc>https://the-signal.id/topik/direksi.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
+  <url><loc>https://the-signal.id/topik/direksi.html</loc><lastmod>2026-09-11</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/bank-indonesia.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/obligasi.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>
   <url><loc>https://the-signal.id/topik/ojk.html</loc><lastmod>2026-09-10</lastmod><priority>0.7</priority></url>

@@ -21,6 +21,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
  },
  {
+  "slug": "rupslb-hais-sahkan-perubahan-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB HAIS Sahkan Perubahan [Direksi]",
+  "deck": "RUPSLB HAIS menyetujui pengunduran diri Direktur Rahmad Pudjotomo dan menetapkan susunan direksi serta komisaris baru, efektif 9 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAIS",
+   "direksi",
+   "RUPSLB",
+   "Hasnur Group"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9ec2b7a821_9589db8e6a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-minyak-indonesia-naik-ke-us-89-43-per-barel-agustus",
   "category": "Energi",
   "title": "Harga Minyak Indonesia [Naik] ke US$89,43 per Barel Agustus",
@@ -6490,22 +6506,6 @@ var ARTICLES = [
    "Protelindo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72a39e4ead_9d874764cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "edge-buka-suspensi-sementara-untuk-crossing-saham-go-private",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Buka Suspensi Sementara untuk [Crossing] Saham Go Private",
-  "deck": "Bursa membuka sementara suspensi saham EDGE khusus Pasar Negosiasi pada Jumat sore untuk transaksi crossing pengalihan saham hasil buyback dalam proses go private dan delisting sukarela.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "go private",
-   "delisting saham",
-   "suspensi perdagangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84a2c4c36c_bcf1777798.pdf",
   "sourceLabel": "IDX"
  }
 ];

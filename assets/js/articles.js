@@ -975,7 +975,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah tiga sistem perizinan berbeda, yaitu OSS di BKPM, SIAPkerja di Kemnaker, dan aplikasi imigrasi All Indonesia, kini disambungkan jadi satu alur, dengan janji waktu proses sekitar 4 hari per izin dan aturan yang otomatis meloloskan izin kalau lewat 5 hari tanpa keputusan. Yang terdampak langsung adalah perusahaan penanam modal yang mempekerjakan tenaga kerja asing, terutama di sektor industri yang masih bergantung pada keahlian dari luar negeri, karena merekalah yang selama ini harus mengurus izin lewat banyak pintu berbeda. Arahnya sejalan dengan tren deregulasi perizinan investasi sejak PP 28/2025, dari sekadar mempercepat proses menjadi memberi jaminan waktu yang bisa dituntut lewat mekanisme otomatis kalau birokrasi macet. Yang akan menentukan apakah janji ini benar-benar berjalan adalah praktik di lapangan setelah sistem terintegrasi mulai dipakai, misalnya apakah target 4 hari itu benar ditepati atau justru penyambungan tiga sistem berbeda ini menambah titik gagal teknis baru.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "rupslb-hais-sahkan-perubahan-direksi",

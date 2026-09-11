@@ -3,6 +3,110 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "diva-koreksi-laporan-dana-ipo-sisa-rp3-miliar-2h26",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Koreksi Laporan Dana IPO, Sisa Rp3 Miliar [2H26]",
+  "deck": "PT Distribusi Voucher Nusantara mengoreksi laporan realisasi dana IPO 2018. Realisasi sudah 99,51 persen, sisa Rp3 miliar ditargetkan habis semester II 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T22:32:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abdfc33507_925f3bc5c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIVA",
+  "tags": [
+   "DIVA",
+   "penggunaan dana IPO",
+   "LRPD",
+   "korporasi"
+  ],
+  "body": [
+   "PT Distribusi Voucher Nusantara Tbk (DIVA) menyampaikan koreksi atas Laporan Realisasi Penggunaan Dana Hasil Penawaran Umum (LRPD) per 30 Juni 2026, menggantikan laporan sebelumnya bernomor 104/EXT-CORP/DIVA/VII/2026 tertanggal 14 Juli 2026. Laporan ini ditandatangani Direktur Utama Raymond Loho dan disampaikan melalui Corporate Secretary Septi Suryani. Dari total dana IPO saham perdana yang efektif pada 16 November 2018 sebesar Rp632,14 miliar, setelah dipotong biaya penawaran umum Rp19,99 miliar atau 3,16 persen dari nilai emisi, hasil bersih yang diterima perseroan tercatat Rp612,14 miliar. Hingga akhir Juni 2026, dana yang sudah direalisasikan mencapai Rp609,14 miliar atau 99,51 persen dari hasil bersih, menyisakan Rp3,00 miliar yang belum terpakai.",
+   "Rincian pemakaian dana menunjukkan porsi modal kerja terealisasi Rp394,59 miliar atau 64,46 persen, sebagian besar tercatat sebagai persediaan produk digital telekomunikasi. Porsi investasi terealisasi penuh sesuai rencana sebesar Rp214,39 miliar atau 35,02 persen, tersebar ke aset tak berwujud Rp33,11 miliar, aset tetap Rp38,97 miliar, investasi jangka panjang Rp41,91 miliar, investasi pada entitas anak Rp69,00 miliar, dan piutang pihak berelasi berupa uang muka investasi Rp28,18 miliar. Sisanya, Rp155,25 juta atau 0,03 persen, digunakan untuk pos sumber daya manusia yang dicatat sebagai beban usaha. Rencana alokasi dana ini sendiri sudah tiga kali diubah lewat RUPSLB, terakhir pada 22 Juni 2026 yang menetapkan komposisi modal kerja 64,95 persen, investasi 35,02 persen, dan SDM 0,03 persen, dari sebelumnya 64,06 persen dan 35,92 persen hasil RUPSLB 14 Juni 2023, dan 59,97 persen serta 40,00 persen hasil RUPSLB 11 Februari 2020.",
+   "Sisa dana Rp3,00 miliar saat ini ditempatkan di PT Bank Central Asia Tbk dalam bentuk simpanan likuid yang bisa ditarik sewaktu-waktu, dengan bunga 0,5 persen per tahun. Perseroan menyatakan sisa dana ini akan digunakan untuk modal kerja, terutama pembelian persediaan produk digital telekomunikasi dari pihak operator, dengan target waktu penggunaan pada semester kedua 2026. Perseroan beralasan penyisaan dana ini merupakan bentuk kehati-hatian menimbang kondisi usaha dan makroekonomi yang belum stabil pascapandemi, serta efisiensi biaya investasi teknologi informasi."
+  ],
+  "fotoAdegan": "Warehouse staff sorting boxes of prepaid mobile phone credit stock on shelves, forklift moving pallets, industrial lighting",
+  "takeaway": "Laporan ini netral bagi DIVA, karena isinya hanya mengoreksi angka administratif pada laporan kepatuhan berkala, sementara realisasi dana IPO sudah mencapai 99,51 persen dari rencana tanpa perubahan arah bisnis. Yang tersentuh di sini adalah arus kas perseroan, yakni catatan keluar masuk uang tunai, karena laporan ini menunjukkan ke mana dana hasil IPO delapan tahun lalu benar-benar mengalir, termasuk porsi yang mengendap sebagai piutang ke pihak berelasi berupa uang muka investasi, pos yang biasa diawasi pelaku pasar karena berpotensi menguntungkan pihak terafiliasi jika tidak transparan. Pelaku pasar juga bisa mencermati bahwa sisa dana yang tersisa sekarang jumlahnya kecil, hanya 0,49 persen dari hasil bersih, sehingga bukan indikasi masalah likuiditas. Yang perlu dipantau berikutnya adalah realisasi penuh sisa dana Rp3,00 miliar yang ditargetkan perseroan selesai pada semester II 2026, serta konsistensi angka pada laporan LRPD periode mendatang setelah koreksi ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ppgd-lunasi-obligasi-sukuk-rp3-32-triliun-via-pinjaman-bank",
+  "category": "Aksi Korporasi",
+  "title": "PPGD Lunasi Obligasi-Sukuk [Rp3,32 Triliun] via Pinjaman Bank",
+  "deck": "Dua seri obligasi dan sukuk Pegadaian senilai Rp3,32 triliun jatuh tempo 13 September 2026 dan didelisting dari BEI mulai 14 September, dibayar dari fasilitas pinjaman bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T22:29:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3b473bfe6_25c5da348e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan VI Pegadaian Tahap III Tahun 2025 Seri A (kode PPGD06ACN3) senilai Rp1,87 triliun dan Sukuk Mudharabah Berkelanjutan III Pegadaian Tahap V Tahun 2025 Seri A (kode SMPPGD03ACN5) senilai Rp1,45 triliun akan berhenti tercatat dan tidak lagi bisa diperdagangkan di BEI mulai 14 September 2026. Kedua surat utang ini diterbitkan pada 3 September 2025 dan jatuh tempo pada 13 September 2026, dengan total nilai pokok Rp3,32 triliun.",
+   "Dalam surat tertanggal 17 Juni 2026 kepada Otoritas Jasa Keuangan perihal kesiapan pembayaran, Kepala Divisi Treasuri Pegadaian menyampaikan bahwa perseroan akan melunasi pokok obligasi dan sukuk tersebut menggunakan dana dari fasilitas pinjaman perbankan, bukan dari kas internal. Perseroan memproyeksikan sisa plafon pinjaman bank per 31 Agustus 2026 cukup untuk menutup kewajiban sebesar Rp3.323.905.000.000, sesuai rincian dua seri surat utang yang jatuh tempo tersebut.",
+   "Dengan skema ini, pelunasan obligasi dan sukuk yang jatuh tempo pada dasarnya menggeser sumber pendanaan Pegadaian dari surat utang publik ke pinjaman perbankan, bukan mengurangi kas perusahaan secara langsung."
+  ],
+  "fotoAdegan": "Interior of a bustling pawnshop branch in Indonesia, customers queueing at teller counters, gold jewelry in glass display cases, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi profil keuangan Pegadaian, sebab pelunasan pokok Rp3,32 triliun itu dibiayai dari fasilitas pinjaman bank, bukan dari kas internal, sehingga total utang berbunga perseroan tidak benar-benar berkurang, hanya berpindah bentuk dari obligasi dan sukuk publik ke pinjaman bank. Yang tersentuh adalah arus kas dan beban bunga perusahaan: arus kas terpakai untuk membayar pokok utang, sementara beban bunga ke depan bergantung pada suku bunga pinjaman bank pengganti, yang bisa lebih tinggi atau lebih rendah dari kupon obligasi dan sukuk yang jatuh tempo itu. Karena Pegadaian berstatus BUMN yang sahamnya tidak diperdagangkan publik, laporan ini tidak menyentuh jumlah saham beredar atau laba per saham. Yang perlu dipantau berikutnya adalah realisasi pembayaran pokok pada 13 September 2026, karena efek keduanya baru resmi berhenti tercatat di BEI sejak 14 September 2026, menandai selesainya kewajiban atas dua seri surat utang ini.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "obligasi-dan-sukuk-bmtr-rp10-6-miliar-jatuh-tempo-14-sept",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi dan Sukuk BMTR Rp10,6 Miliar [Jatuh Tempo] 14 Sept",
+  "deck": "BEI mengumumkan Obligasi Seri C dan Sukuk Ijarah Seri C Global Mediacom senilai total Rp10,6 miliar jatuh tempo 14 September 2026, dan perseroan menyatakan sudah menyiapkan dana pelunasannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T22:24:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ccffeb7ac_a9fc68a530.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMTR",
+  "tags": [
+   "BMTR",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa mulai 14 September 2026, dua efek utang milik PT Global Mediacom Tbk (BMTR) tidak lagi tercatat dan tidak dapat diperdagangkan di bursa karena jatuh tempo. Keduanya adalah Obligasi Berkelanjutan II Global Mediacom Tahap II Tahun 2021 Seri C dengan kode BMTR02CCN2 senilai Rp10.555.000.000, dan Sukuk Ijarah Berkelanjutan II Global Mediacom Tahap II Tahun 2021 Seri C dengan kode SIBMTR02CCN2 senilai Rp50.000.000. Kedua efek ini pertama diterbitkan pada 14 September 2021 dengan jangka waktu lima tahun, dan bunga tetap masing-masing sebesar 11 persen per tahun, dibayarkan secara bullet payment atau penuh sekaligus saat jatuh tempo.",
+   "Sebelum tanggal jatuh tempo, Corporate Secretary BMTR, Christophorus Taufik, mengirim surat kepada BEI tertanggal 18 Agustus 2026 yang menyatakan perseroan telah menyiapkan dana untuk melunasi kedua efek tersebut, sesuai kewajiban keterbukaan informasi menurut Peraturan BEI Nomor I-E. Dengan demikian total dana yang disiapkan BMTR untuk pelunasan pokok obligasi dan sisa imbalan ijarah ini mencapai sekitar Rp10,605 miliar.",
+   "Berdasarkan dokumen penawaran awal, obligasi dan sukuk ijarah ini merupakan bagian dari program penawaran umum berkelanjutan II Global Mediacom yang dijamin dengan gadai saham milik perseroan di anak usahanya, PT MNC Vision Networks Tbk, senilai sekurang-kurangnya 125 persen dari nilai pokok. Kedua efek ini mendapat peringkat idA dari Pefindo untuk obligasi dan idAsy untuk sukuk ijarah, dengan PT Bank KB Bukopin Tbk bertindak sebagai wali amanat."
+  ],
+  "fotoAdegan": "A broadcast transmission tower with red aviation lights against Jakarta's dusk skyline, satellite dishes on a nearby rooftop",
+  "takeaway": "Laporan ini netral bagi BMTR. Nilai obligasi dan sukuk yang jatuh tempo hanya sekitar Rp10,6 miliar, jumlah yang sangat kecil dibanding skala usaha Global Mediacom sebagai induk grup media dan penyiaran, sehingga pelunasannya tidak mengubah gambaran keuangan perusahaan secara berarti. Yang tersentuh di sini adalah pos utang dan kas perusahaan, karena surat kesiapan dana dari Corporate Secretary menunjukkan BMTR punya uang tunai cukup untuk membayar pokok utang tepat waktu, sehingga tidak ada risiko gagal bayar, dan setelah pembayaran ini beban utang perseroan berkurang sedikit. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada tanggal jatuh tempo 14 September 2026 itu sendiri, serta apakah BMTR akan melanjutkan program penawaran umum berkelanjutan dengan menerbitkan obligasi atau sukuk tahap berikutnya yang menurut dokumen penawaran awal masih akan ditentukan kemudian.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "smgr-utang-turun-ke-rp8-06-triliun-penjualan-naik-9-7",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Utang [Turun] ke Rp8,06 Triliun, Penjualan Naik 9,7%",
+  "deck": "Dalam Public Expose Live 2026, manajemen SIG mengungkap utang turun dari Rp11,4 triliun menjadi Rp8,06 triliun dan volume penjualan tumbuh 9,7% pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T22:14:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3e171fbe53_b8ec5248b5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGR",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "Public Expose",
+   "dividen"
+  ],
+  "body": [
+   "PT Semen Indonesia (Persero) Tbk (SMGR) melaporkan hasil Public Expose Live 2026 kepada Bursa Efek Indonesia. Acara berlangsung virtual melalui Zoom pada Selasa, 8 September 2026, pukul 14.00 sampai 14.45 WIB, diikuti 189 peserta di luar jajaran manajemen dan karyawan perseroan. Manajemen yang hadir meliputi Direktur Utama Indrieffouny Indra, Wakil Direktur Utama Andriano Hosny Panangian, Direktur Keuangan dan Risk Management Sigit Prastowo, Direktur Sales dan Marketing Dicky Saelan, Group Head of Corporate Secretary Vita Mahreyni, dan GM of Investor Relation Maya Savitri.",
+   "Dalam sesi tanya jawab, Sigit Prastowo mengungkapkan bahwa utang perseroan turun dari Rp11,4 triliun menjadi Rp8,06 triliun pada semester I 2026, seiring rasio utang terhadap ekuitas yang membaik dari 0,26 kali menjadi 0,18 kali. Penurunan ini didorong oleh kenaikan volume penjualan dan harga jual semen yang memperkuat arus kas operasional perseroan. Indrieffouny Indra menambahkan bahwa volume penjualan SIG tumbuh 9,7% pada 2026, berbalik dari pertumbuhan negatif tahun 2025, didorong oleh transformasi bisnis sejak Juli 2025 yang memperkuat penetrasi penjualan ritel hingga ke toko bangunan, serta permintaan dari program pemerintah seperti pembangunan Koperasi Merah Putih, sekolah rakyat, kampung nelayan, dan program tiga juta rumah.",
+   "Soal dividen, Sigit Prastowo mengatakan perseroan telah membagikan 100% laba bersih tahun buku 2025 sebagai dividen, dan menargetkan pembagian dividen tahun buku 2026 yang lebih optimal dari sisi nominal, dengan pembayaran diperkirakan pada 2027. Ia menekankan bahwa keputusan final tetap berada di tangan pemegang saham mayoritas, yaitu pemegang saham Seri A Dwiwarna dan pemegang saham Seri B terbanyak, dengan mempertimbangkan ketersediaan arus kas dan kebutuhan investasi. Andriano Hosny Panangian melaporkan progres transformasi bisnis, termasuk penataan lima area operasi logistik, efisiensi biaya energi dan overhead pabrik, penutupan anak usaha yang tidak produktif, serta rencana merger anak usaha beton dan anak usaha distribusi yang sudah dipublikasikan ke publik."
+  ],
+  "fotoAdegan": "Workers loading cement sacks onto a truck at a distribution warehouse, grey dust in the air, forklift nearby",
+  "takeaway": "Laporan ini condong positif bagi SMGR, karena data yang diungkapkan menunjukkan perbaikan nyata pada struktur utang dan arus kas perseroan, bukan sekadar seremoni tahunan. Penurunan utang dari Rp11,4 triliun menjadi Rp8,06 triliun dan membaiknya rasio utang terhadap ekuitas dari 0,26 kali menjadi 0,18 kali berarti perseroan kini punya beban utang yang jauh lebih ringan dibanding modal sendirinya, sehingga bunga yang dibayar ke kreditur berkurang dan sisa laba bisa lebih besar. Pemulihan volume penjualan 9,7% setelah sempat turun pada 2025 juga jadi sinyal bahwa strategi penjualan ritel baru perseroan mulai membuahkan hasil. Yang perlu dipantau berikutnya adalah realisasi rencana merger anak usaha beton dan distribusi yang masih berjalan, serta keputusan besaran dividen dari laba tahun buku 2026 yang menurut manajemen baru akan dibagikan pada 2027.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
   "category": "Teknologi",
   "title": "Adopsi AI Kantor Melejit, Tata Kelolanya Jadi [Tantangan]",
@@ -28,6 +132,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah bukan teknologinya, tapi siapa yang mengaturnya di dalam perusahaan: survei PwC mencatat 96 persen pekerja Indonesia yang memakai AI generatif tiap hari merasa lebih produktif, dan riset Strand Partners untuk AWS mencatat 75 persen perusahaan Indonesia yang sudah pakai AI melihat produktivitas naik, bahkan 84 persen pada perusahaan yang AI-nya sudah bisa mengerjakan tugas otomatis tanpa diperintah terus-menerus. Yang paling terdampak adalah tim keuangan dan IT, karena kalau karyawan bebas memakai aplikasi AI pilihannya sendiri tanpa aturan kantor, istilahnya BYOAI, perusahaan kehilangan catatan siapa memakai layanan apa dan berapa biayanya, termasuk tagihan kartu kredit dan transaksi mata uang asing dari berbagai penyedia AI. Berita ini belum menyebut berapa banyak perusahaan Indonesia yang sudah punya aturan resmi soal pemakaian AI, jadi belum jelas apakah tata kelola akan menyusul cepat atau tetap tertinggal dari kecepatan adopsinya. Yang perlu dipantau adalah data lanjutan soal persentase perusahaan Indonesia yang sudah menerapkan kebijakan AI formal, karena itu yang menentukan apakah celah tata kelola ini mulai ditutup atau justru melebar.",
   "imageV": "mtx3kx2d"
+ },
+ {
+  "slug": "smdr-akhiri-sukuk-ijarah-himpun-rp1-75-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Akhiri Sukuk Ijarah, Himpun [Rp1,75 Triliun]",
+  "deck": "Samudera Indonesia mengakhiri periode penawaran umum berkelanjutan Sukuk Ijarah I dengan dana terhimpun Rp1,75 triliun, di bawah target Rp2 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:17:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67514b78f8_cd642f1057.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMDR",
+  "tags": [
+   "SMDR",
+   "sukuk ijarah",
+   "obligasi syariah",
+   "Samudera Indonesia"
+  ],
+  "body": [
+   "Samudera Indonesia Tbk (SMDR) menyampaikan berakhirnya periode pelaksanaan Penawaran Umum Berkelanjutan (PUB) Sukuk Ijarah Berkelanjutan I, yang efektif sejak 25 Juli 2023 berdasarkan surat pernyataan efektif Otoritas Jasa Keuangan No. S-188/D.04/2023. Dalam laporan yang diteken Corporate Secretary Idaman Putri Erwin tertanggal 9 September 2026, perusahaan mencatat total dana yang berhasil dihimpun dari program ini mencapai Rp1,75 triliun, atau 87,5 persen dari target awal Rp2 triliun.",
+   "Dana tersebut terkumpul dari tiga tahap penerbitan, yaitu Sukuk Ijarah Tahap I pada 2023 senilai Rp550 miliar, Tahap II pada 2025 senilai Rp500 miliar, dan Tahap III pada 2026 senilai Rp700 miliar. Dengan berakhirnya periode PUB ini, sisa target dana sebesar Rp250 miliar tidak jadi dihimpun oleh perusahaan.",
+   "Samudera Indonesia menyebut alasan tidak tercapainya target dana adalah pertimbangan atas perkembangan situasi global, serta proses evaluasi yang masih berjalan terhadap proyek-proyek potensial yang akan dibiayai ke depan. Dalam laporannya kepada OJK, perusahaan menegaskan bahwa berakhirnya periode PUB Sukuk Ijarah I ini tidak berdampak terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Container ship docked at a busy Indonesian port terminal, gantry cranes loading cargo boxes, early morning light",
+  "takeaway": "Laporan ini netral bagi Samudera Indonesia karena perusahaan sendiri menegaskan tidak ada dampak terhadap operasional maupun kelangsungan usaha, dan sisa dana yang tidak jadi dihimpun tergolong porsi minoritas dari target awal. Yang tersentuh adalah pos pendanaan dan arus kas dari aktivitas pembiayaan, yakni utang sukuk yang batal bertambah sebesar Rp250 miliar, sehingga dana segar untuk proyek ke depan lebih kecil dari rencana semula, tapi beban utang perusahaan juga tidak ikut membengkak sebesar itu. Yang perlu dipantau berikutnya adalah apakah Samudera Indonesia akan menerbitkan program penawaran umum berkelanjutan baru untuk menutup kekurangan dana bagi proyek-proyek yang disebut masih dalam tahap evaluasi, serta laporan realisasi penggunaan dana dari tiga tahap sukuk yang sudah terbit di bawah program ini.",
+  "sentimen": "netral"
  },
  {
   "slug": "telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas",

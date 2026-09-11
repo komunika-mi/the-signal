@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "diva-koreksi-laporan-dana-ipo-sisa-rp3-miliar-2h26",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Koreksi Laporan Dana IPO, Sisa Rp3 Miliar [2H26]",
+  "deck": "PT Distribusi Voucher Nusantara mengoreksi laporan realisasi dana IPO 2018. Realisasi sudah 99,51 persen, sisa Rp3 miliar ditargetkan habis semester II 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIVA",
+   "penggunaan dana IPO",
+   "LRPD",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abdfc33507_925f3bc5c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgd-lunasi-obligasi-sukuk-rp3-32-triliun-via-pinjaman-bank",
+  "category": "Aksi Korporasi",
+  "title": "PPGD Lunasi Obligasi-Sukuk [Rp3,32 Triliun] via Pinjaman Bank",
+  "deck": "Dua seri obligasi dan sukuk Pegadaian senilai Rp3,32 triliun jatuh tempo 13 September 2026 dan didelisting dari BEI mulai 14 September, dibayar dari fasilitas pinjaman bank.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "Pegadaian",
+   "obligasi",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d3b473bfe6_25c5da348e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-dan-sukuk-bmtr-rp10-6-miliar-jatuh-tempo-14-sept",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi dan Sukuk BMTR Rp10,6 Miliar [Jatuh Tempo] 14 Sept",
+  "deck": "BEI mengumumkan Obligasi Seri C dan Sukuk Ijarah Seri C Global Mediacom senilai total Rp10,6 miliar jatuh tempo 14 September 2026, dan perseroan menyatakan sudah menyiapkan dana pelunasannya.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMTR",
+   "obligasi",
+   "sukuk ijarah",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ccffeb7ac_a9fc68a530.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smgr-utang-turun-ke-rp8-06-triliun-penjualan-naik-9-7",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Utang [Turun] ke Rp8,06 Triliun, Penjualan Naik 9,7%",
+  "deck": "Dalam Public Expose Live 2026, manajemen SIG mengungkap utang turun dari Rp11,4 triliun menjadi Rp8,06 triliun dan volume penjualan tumbuh 9,7% pada semester I 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "Public Expose",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3e171fbe53_b8ec5248b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
   "category": "Teknologi",
   "title": "Adopsi AI Kantor Melejit, Tata Kelolanya Jadi [Tantangan]",
@@ -20,6 +84,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466506-tren-ai-makin-dipakai-di-perusahaan-mengapa-tata-kelolanya-jadi-tantangan-baru"
+ },
+ {
+  "slug": "smdr-akhiri-sukuk-ijarah-himpun-rp1-75-triliun",
+  "category": "Aksi Korporasi",
+  "title": "SMDR Akhiri Sukuk Ijarah, Himpun [Rp1,75 Triliun]",
+  "deck": "Samudera Indonesia mengakhiri periode penawaran umum berkelanjutan Sukuk Ijarah I dengan dana terhimpun Rp1,75 triliun, di bawah target Rp2 triliun.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMDR",
+   "sukuk ijarah",
+   "obligasi syariah",
+   "Samudera Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67514b78f8_cd642f1057.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas",
@@ -6430,85 +6510,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef6e18c87a_4cbea9bff7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tlkm-rilis-materi-public-expose-kinerja-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "TLKM Rilis Materi [Public Expose] Kinerja Semester I 2026",
-  "deck": "Telkom mengoreksi surat sebelumnya dan merilis materi Public Expose Live 2026 pada 7 September, memuat kinerja 1H26, panduan tahun ini, dan progres InfraNexia.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TLKM",
-   "Telkom Indonesia",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23b227121a_0bfb850936.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tama-verah-wahyudi-lepas-3-1-juta-saham-divestasi",
-  "category": "Aksi Korporasi",
-  "title": "TAMA: Verah Wahyudi Lepas 3,1 Juta Saham [Divestasi]",
-  "deck": "Pemegang saham non-direksi TAMA melepas 3,1 juta saham senilai sekitar Rp642 juta, hak suara turun tipis dari 9,93% menjadi 9,67%.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMA",
-   "kepemilikan saham",
-   "divestasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-3247-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026",
-  "category": "Perbankan",
-  "title": "bank bjb Turunkan Direksi [Layani] Nasabah di Harpelnas 2026",
-  "deck": "bank bjb menandai Hari Pelanggan Nasional 2026 dengan menurunkan direksi dan komisaris ke banking hall di seluruh kantor cabang untuk melayani nasabah langsung.",
-  "date": "4 September 2026",
-  "image": "assets/img/bank-bjb-turunkan-direksi-layani-nasabah-di-harpelnas-2026.jpg",
-  "imageV": "mtn7j8oc",
-  "tags": [
-   "bank bjb",
-   "Harpelnas 2026",
-   "perbankan",
-   "layanan nasabah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464914-hari-pelanggan-nasional-2026-bank-bjb-hadir-beri-pelayanan-yang-setara-dan-berkelanjutan"
- },
- {
-  "slug": "realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi",
-  "category": "BUMN",
-  "title": "Realisasi Pupuk Subsidi Takalar Baru [48] Persen dari Alokasi",
-  "deck": "PT Pupuk Indonesia dan Kementan menggelar evaluasi tata kelola pupuk bersubsidi di Takalar, saat realisasi penebusan baru mencapai 48 persen dari alokasi 31.776 ton hingga Agustus 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/realisasi-pupuk-subsidi-takalar-baru-48-persen-dari-alokasi.jpg",
-  "imageV": "mtmxc6mj",
-  "tags": [],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/880/perkuat-tata-kelola-dan-pengawasan-pupuk-indonesia-dorong-penyaluran-pupuk-bersubsidi-tepat-sasaran-di-takalar",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks",
-  "category": "UMKM",
-  "title": "UMKM Klaten Tembus Ekspor, Pemasok [900] Gerai Starbucks",
-  "deck": "Usaha kayu asal Klaten, Citra Fajar Utama, tumbuh dari penggergajian sewaan 1998 jadi eksportir ke Asia, Eropa, Afrika, dan pemasok hampir 900 gerai kopi di dalam negeri.",
-  "date": "4 September 2026",
-  "image": "assets/img/umkm-klaten-tembus-ekspor-pemasok-900-gerai-starbucks.jpg",
-  "imageV": "mtmxc9df",
-  "tags": [
-   "ekspor",
-   "UMKM kayu",
-   "Klaten",
-   "Starbucks"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kisah-cfu-asal-klaten-menembus-pasar-lokal-dan-global-dari-penggergajian-sederhana-ke-pemasok-perlengkapan-900-gerai-kopi",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

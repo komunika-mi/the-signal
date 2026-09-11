@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "IMNsjazEOQM",
+  "title": "Kadin Minta Tarif Administrasi Perusahaan Diseragamkan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong pemerintah menyeragamkan tarif administrasi perusahaan guna memberi kepastian regulasi bagi pelaku usaha, terutama UMKM.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian biaya dan regulasi usaha yang berdampak pada iklim investasi dan pelaku UMKM.",
+  "terbit": "2026-09-11T14:09:14+00:00"
+ },
+ {
   "id": "vY06rqWFuYI",
   "title": "Harga Minyak Dunia Melonjak ke US$101 per Barel",
   "category": "Energi",

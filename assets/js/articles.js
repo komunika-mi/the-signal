@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
+  "category": "Teknologi",
+  "title": "Adopsi AI Kantor Melejit, Tata Kelolanya Jadi [Tantangan]",
+  "deck": "Produktivitas naik pesat lewat AI, tapi tanpa aturan jelas perusahaan berisiko kehilangan kendali biaya dan akses.",
+  "image": "assets/img/adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:18:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466506-tren-ai-makin-dipakai-di-perusahaan-mengapa-tata-kelolanya-jadi-tantangan-baru",
+  "tags": [
+   "AI Enterprise",
+   "Tata Kelola AI",
+   "Produktivitas",
+   "BYOAI"
+  ],
+  "body": [
+   "Kecerdasan buatan kini bukan lagi sekadar alat coba-coba, melainkan bagian rutin pekerjaan kantor di Indonesia, mulai dari menyusun dokumen, riset, menulis kode, hingga mengotomatisasi tugas. Pergeseran ini penting karena riset terbaru menunjukkan manfaatnya nyata bagi produktivitas, namun penggunaannya yang meluas tanpa aturan jelas mulai memunculkan masalah baru soal biaya, akses, dan keamanan data perusahaan.",
+   "Survei PwC bertajuk Global Workforce Hopes and Fears Survey 2025 mencatat 96 persen pekerja Indonesia yang memakai AI generatif setiap hari merasa pekerjaannya jadi lebih produktif. Riset Strand Partners untuk Amazon Web Services dalam laporan Unlocking Indonesia's AI Potential 2026 menemukan hal serupa di level perusahaan, yaitu 75 persen perusahaan Indonesia yang sudah mengadopsi AI melaporkan produktivitas meningkat secara terukur, dan angka ini naik menjadi 84 persen pada perusahaan yang AI-nya sudah bisa menjalankan tugas secara otomatis tanpa perlu diperintah berulang kali.",
+   "Di balik manfaat itu, muncul fenomena yang disebut Bring Your Own AI atau BYOAI, yaitu karyawan memakai berbagai aplikasi AI pilihannya sendiri untuk membantu kerja, sementara perusahaan belum punya aturan resmi soal penggunaannya. Pola ini menandakan pekerja makin terbuka pada teknologi baru, tapi di sisi lain membuat perusahaan kehilangan gambaran utuh soal layanan apa saja yang dipakai karyawan dan berapa total biayanya.",
+   "Persoalan biaya menjadi tantangan paling nyata karena pemakaian AI yang tidak terpantau bisa membengkakkan pengeluaran operasional. Kondisi ini makin rumit karena tiap layanan AI punya sistem pembayaran dan mata uang berbeda, sehingga tim keuangan harus mencocokkan sendiri tagihan kartu kredit, tagihan dalam mata uang asing, dan pemakaian dari berbagai penyedia AI sekaligus."
+  ],
+  "fotoAdegan": "Young professionals typing on laptops around a shared desk in a modern Jakarta office, soft morning light, screens angled away.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa40c6a13e81-ilustrasi-tren-ai-makin-dipakai-di-perusahaan-mengapa-tata-kelolanya-jadi-tantangan-baru_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan teknologinya, tapi siapa yang mengaturnya di dalam perusahaan: survei PwC mencatat 96 persen pekerja Indonesia yang memakai AI generatif tiap hari merasa lebih produktif, dan riset Strand Partners untuk AWS mencatat 75 persen perusahaan Indonesia yang sudah pakai AI melihat produktivitas naik, bahkan 84 persen pada perusahaan yang AI-nya sudah bisa mengerjakan tugas otomatis tanpa diperintah terus-menerus. Yang paling terdampak adalah tim keuangan dan IT, karena kalau karyawan bebas memakai aplikasi AI pilihannya sendiri tanpa aturan kantor, istilahnya BYOAI, perusahaan kehilangan catatan siapa memakai layanan apa dan berapa biayanya, termasuk tagihan kartu kredit dan transaksi mata uang asing dari berbagai penyedia AI. Berita ini belum menyebut berapa banyak perusahaan Indonesia yang sudah punya aturan resmi soal pemakaian AI, jadi belum jelas apakah tata kelola akan menyusul cepat atau tetap tertinggal dari kecepatan adopsinya. Yang perlu dipantau adalah data lanjutan soal persentase perusahaan Indonesia yang sudah menerapkan kebijakan AI formal, karena itu yang menentukan apakah celah tata kelola ini mulai ditutup atau justru melebar.",
+  "imageV": "mtx3kx2d"
+ },
+ {
+  "slug": "telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas",
+  "category": "UMKM",
+  "title": "Telkom Luncurkan Festival [Hijau] Libatkan UMKM dan Komunitas",
+  "deck": "Telkom merilis program tahunan BISA Green Action Fest 2026 bertajuk Tanah, Air, Kita, memadukan aksi lingkungan dengan pemberdayaan UMKM di ekosistemnya.",
+  "image": "assets/img/telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:13:03+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466504-telkomgroup-terus-dorong-gaya-hidup-berkelanjutan-melalui-zero-plastic-movement",
+  "tags": [
+   "Telkom",
+   "UMKM",
+   "Lingkungan",
+   "Keberlanjutan"
+  ],
+  "body": [
+   "Bertepatan dengan momentum peringatan kemerdekaan, PT Telkom Indonesia (Persero) Tbk meluncurkan program tahunan BISA Green Action Fest 2026 bertajuk Tanah, Air, Kita. Program ini menjadi bagian dari pilar lingkungan bernama Bisa Lestari, yang menghimpun berbagai inisiatif TelkomGroup untuk mendorong gaya hidup ramah lingkungan, termasuk mengurangi pemakaian plastik sekali pakai. Bagi pembaca, ini menandai perluasan cakupan program sosial dan lingkungan Telkom yang kini secara eksplisit turut menyasar pemberdayaan pelaku usaha kecil.",
+   "Program ini dibagi ke dalam tiga area kerja. Area Tanah mencakup inisiatif Green Carbon dan pengelolaan sampah untuk memulihkan ekosistem daratan, area Air mencakup Blue Carbon dan penyediaan sarana air bersih untuk ekosistem perairan, sementara area Kita berfokus pada penguatan dan pengembangan UMKM. Selain pameran utama, kegiatan ini juga menampilkan Innovillage yang memamerkan inovasi lingkungan dari talenta muda, program sosial karyawan bernama Telkom Employee Social Activity atau TESA, serta kolaborasi komunitas lewat Bumi Berseru Fest.",
+   "Senior General Manager Social Responsibility Telkom, Hery Susanto, menyatakan bahwa sebagai perusahaan digital, TelkomGroup berkomitmen memberi kontribusi positif bagi lingkungan dan masyarakat. Ia menyebut menjaga bumi sebagai tanggung jawab bersama antara perusahaan, karyawan, komunitas, dan masyarakat, yang menurutnya akan memberi dampak lebih besar bila dilakukan secara konsisten dan bersama-sama."
+  ],
+  "fotoAdegan": "Community volunteers and small vendors arranging reusable containers at an outdoor environmental exhibition booth under open sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa40bad2a06a-telkomgroup-mengajak-karyawan-komunitas-umkm-dan-masyarakat-untuk-menerapkan-gaya-hidup-berkelanjutan-melalui-bisa-green-action-fest-2026-bertajuk-tanah-air-kita_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah Telkom meluncurkan program tahunan baru bernama BISA Green Action Fest, yang menaungi tiga bidang kerja: pemulihan lahan dan sampah, akses air bersih, serta pemberdayaan UMKM di dalam ekosistem perusahaan. Pihak yang langsung terdampak adalah karyawan Telkom yang dilibatkan lewat program sosial internal, komunitas lingkungan yang diajak berkolaborasi, dan pelaku UMKM yang masuk program pemberdayaan tersebut. Yang masih kurang untuk membaca ke mana arah program ini adalah angka konkret, seperti berapa dana yang dialokasikan, berapa banyak UMKM atau komunitas yang benar-benar terlibat, dan apakah ada target terukur atau sekadar komitmen umum. Tanpa angka skala itu, belum bisa dipastikan apakah ini investasi keberlanjutan yang signifikan atau sekadar kegiatan tahunan yang berulang. Yang perlu dipantau adalah laporan tahunan atau laporan keberlanjutan Telkom berikutnya, karena biasanya memuat data realisasi program semacam ini.",
+  "imageV": "mtx3kxg6"
+ },
+ {
   "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
   "category": "Aksi Korporasi",
   "title": "BBTN Pertahankan Peringkat [idAAA], Obligasi Subordinasi idAA",

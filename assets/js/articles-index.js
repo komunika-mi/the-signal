@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
+  "category": "Teknologi",
+  "title": "Adopsi AI Kantor Melejit, Tata Kelolanya Jadi [Tantangan]",
+  "deck": "Produktivitas naik pesat lewat AI, tapi tanpa aturan jelas perusahaan berisiko kehilangan kendali biaya dan akses.",
+  "date": "11 September 2026",
+  "image": "assets/img/adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan.jpg",
+  "imageV": "mtx3kx2d",
+  "tags": [
+   "AI Enterprise",
+   "Tata Kelola AI",
+   "Produktivitas",
+   "BYOAI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466506-tren-ai-makin-dipakai-di-perusahaan-mengapa-tata-kelolanya-jadi-tantangan-baru"
+ },
+ {
+  "slug": "telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas",
+  "category": "UMKM",
+  "title": "Telkom Luncurkan Festival [Hijau] Libatkan UMKM dan Komunitas",
+  "deck": "Telkom merilis program tahunan BISA Green Action Fest 2026 bertajuk Tanah, Air, Kita, memadukan aksi lingkungan dengan pemberdayaan UMKM di ekosistemnya.",
+  "date": "11 September 2026",
+  "image": "assets/img/telkom-luncurkan-festival-hijau-libatkan-umkm-dan-komunitas.jpg",
+  "imageV": "mtx3kxg6",
+  "tags": [
+   "Telkom",
+   "UMKM",
+   "Lingkungan",
+   "Keberlanjutan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466504-telkomgroup-terus-dorong-gaya-hidup-berkelanjutan-melalui-zero-plastic-movement"
+ },
+ {
   "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
   "category": "Aksi Korporasi",
   "title": "BBTN Pertahankan Peringkat [idAAA], Obligasi Subordinasi idAA",
@@ -6476,39 +6510,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kisah-cfu-asal-klaten-menembus-pasar-lokal-dan-global-dari-penggergajian-sederhana-ke-pemasok-perlengkapan-900-gerai-kopi",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri",
-  "category": "Bisnis",
-  "title": "STARLUX Buka Rute [Langsung] Taipei-Bali, Sasar Wisatawan RI",
-  "deck": "KDEI Taipei dan Kemenpar menggelar misi penjualan paket wisata ke Indonesia di Taipei, sementara STARLUX Airlines membuka rute langsung Taipei-Denpasar mulai Oktober 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/starlux-buka-rute-langsung-taipei-bali-sasar-wisatawan-ri.jpg",
-  "imageV": "mtmxcgrf",
-  "tags": [
-   "pariwisata",
-   "Taiwan",
-   "KDEI Taipei",
-   "penerbangan langsung"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-perdagangan-jasa-pariwisata-kdei-taipei-gelar-misi-penjualan-paket-wisata-ke-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "edge-lanjutkan-suspensi-saham-usai-crossing-go-private",
-  "category": "Aksi Korporasi",
-  "title": "EDGE Lanjutkan [Suspensi] Saham usai Crossing Go Private",
-  "deck": "BEI melanjutkan penghentian sementara perdagangan saham Indointernet (EDGE) di pasar negosiasi setelah transaksi crossing rampung, bagian dari proses go private.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EDGE",
-   "suspensi saham",
-   "go private",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b286eba85_c1a98b57aa.pdf",
-  "sourceLabel": "IDX"
  }
 ];

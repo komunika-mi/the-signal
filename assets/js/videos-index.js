@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "IMNsjazEOQM",
+  "title": "Kadin Minta Tarif Administrasi Perusahaan Diseragamkan",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Kamar Dagang dan Industri Indonesia mendorong pemerintah menyeragamkan tarif administrasi perusahaan guna memberi kepastian regulasi bagi pelaku usaha, terutama UMKM.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kepastian biaya dan regulasi usaha yang berdampak pada iklim investasi dan pelaku UMKM."
+ },
+ {
   "id": "vY06rqWFuYI",
   "title": "Harga Minyak Dunia Melonjak ke US$101 per Barel",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Breaking News",
   "summary": "Presiden Prabowo Subianto meluncurkan program Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Kabupaten Jembrana, Bali.",
   "takeaway": "Peluncuran ini menandai langkah pemerintah memperbesar porsi energi terbarukan dalam bauran energi nasional, hal yang relevan bagi investor dan pelaku industri energi."
- },
- {
-  "id": "oQa6Z0LZ3QI",
-  "title": "Pidato Presiden Prabowo di Peluncuran PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Breaking News",
-  "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
-  "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan."
  }
 ];

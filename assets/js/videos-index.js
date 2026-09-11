@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "bqL0-LXX3-U",
+  "title": "Mendes Yandri Berdialog dengan Petani Kopi Bogor",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal Yandri Susanto berdialog dengan petani kopi dan pengelola BUMDesa di Desa Megamendung, Bogor, membahas pengembangan usaha desa.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan usaha desa dan pertanian kopi sebagai penopang ekonomi masyarakat setempat."
+ },
+ {
   "id": "popw6u-6nbc",
   "title": "Kadin dan Pemerintah Dorong Regulasi Sektor Wisata",
   "category": "Bisnis",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Apa Kabar Indonesia Malam",
   "summary": "Amerika Serikat memberlakukan sanksi ekonomi baru terhadap Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak memiliki dasar dari PBB.",
   "takeaway": "Sanksi ekonomi AS terhadap Iran relevan bagi pembaca karena berpotensi memengaruhi harga energi dan arus perdagangan global."
- },
- {
-  "id": "u3IMZTSwJ-Q",
-  "title": "Presiden Prabowo Resmikan Pembangunan PLTS 100 GWp",
-  "category": "Energi",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto meresmikan pembangunan pembangkit listrik tenaga surya berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari program transisi energi nasional.",
-  "takeaway": "Proyek PLTS berskala besar ini relevan bagi pembaca ekonomi karena menyangkut arah investasi energi terbarukan dan bauran energi nasional ke depan."
  }
 ];

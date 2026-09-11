@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "bqL0-LXX3-U",
+  "title": "Mendes Yandri Berdialog dengan Petani Kopi Bogor",
+  "category": "UMKM",
+  "program": "Kabar Hari Ini",
+  "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal Yandri Susanto berdialog dengan petani kopi dan pengelola BUMDesa di Desa Megamendung, Bogor, membahas pengembangan usaha desa.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan usaha desa dan pertanian kopi sebagai penopang ekonomi masyarakat setempat.",
+  "terbit": "2026-09-11T16:08:37+00:00"
+ },
+ {
   "id": "popw6u-6nbc",
   "title": "Kadin dan Pemerintah Dorong Regulasi Sektor Wisata",
   "category": "Bisnis",

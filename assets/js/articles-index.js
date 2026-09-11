@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
+  "deck": "Dalam public expose insidentil, manajemen LIFE menjelaskan penyebab kenaikan laba serta menjawab pertanyaan analis soal penempatan dana di entitas Grup Sinar Mas.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance",
+   "Public Expose",
+   "Grup Sinar Mas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e167318277_708de80761.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",
   "category": "BUMN",
   "title": "Peruri Raih [Bintang 5] di Top GRC Awards 2026",
@@ -20,6 +36,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466349-peruri-kembali-raih-top-grc-awards-2026-perkuat-tata-kelola-dan-manajemen-risiko"
+ },
+ {
+  "slug": "ptpp-restrukturisasi-utang-rp18-2-triliun-ke-bank-bumn",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Restrukturisasi Utang [Rp18,2 Triliun] ke Bank BUMN",
+  "deck": "PTPP menandatangani Master Restructuring Agreement senilai Rp18,2 triliun dengan empat bank BUMN untuk restrukturisasi utang, efektif setelah RUPS dan sejumlah syarat terpenuhi.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "Master Restructuring Agreement",
+   "bank BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2e3adfea4_f31a257d6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpk-konfirmasi-akuisisi-saham-dpal-tahap-kedua-masih-berjalan",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Konfirmasi Akuisisi Saham [DPAL] Tahap Kedua Masih Berjalan",
+  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, PKPK menyatakan tidak ada fakta material tersembunyi dan proses akuisisi saham DPAL Tahap Kedua dari DIR dan KNG masih berjalan.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "Paragon Karya Perkasa",
+   "volatilitas saham",
+   "akuisisi DPAL"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a92026e0b_932465bfc9.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street",
@@ -39,6 +87,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466344-ihsg-dibuka-memerah-dibayangi-pelemahan-serupa-bursa-asia-pasifik-dan-wall-street"
  },
  {
+  "slug": "scnp-jelaskan-ke-bursa-alasan-free-float-belum-15",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Jelaskan ke Bursa Alasan [Free Float] Belum 15%",
+  "deck": "SCNP menjelaskan ke BEI bahwa harga sahamnya kini di bawah harga buyback, sehingga sulit melepas saham treasuri untuk memenuhi syarat minimum saham publik 15 persen.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SCNP",
+   "free float",
+   "saham treasuri",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7dae3c86e3_dddc63249c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t",
   "category": "Makroekonomi",
   "title": "Penerimaan Pajak [Tumbuh] 23,7 Persen jadi Rp1.224,3 T",
@@ -54,6 +118,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466335-purbaya-penerimaan-pajak-capai-rp-12243-triliun-di-juli-2026-tumbuh-237-persen"
+ },
+ {
+  "slug": "blog-realisasi-capex-baru-rp200-m-dari-target-rp500-m",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Realisasi Capex Baru Rp200 M dari Target [Rp500 M]",
+  "deck": "Hasil public expose tahunan BLOG mengungkap realisasi capex baru sekitar Rp200 miliar dari target Rp500 miliar, target laba tumbuh di atas 10 persen, dan dividen tahun ini belum diputuskan.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLOG",
+   "public expose",
+   "capex",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9df3c24459_1f6f77f187.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-peringkat-utang-turun-ke-idb-creditwatch-negatif",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Peringkat Utang Turun ke idB, [CreditWatch] Negatif",
+  "deck": "PEFINDO memangkas peringkat PT PP dari idBB ke idB dengan status CreditWatch negatif, setelah pemegang obligasi dan sukuk menolak usulan restrukturisasi bunga dan jatuh tempo utang.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "PEFINDO",
+   "peringkat utang",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3be6272ee_219c9001f2.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",
@@ -6413,102 +6509,6 @@ var ARTICLES = [
    "Ekspansi Malaysia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2999d91_9c1190ccf8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-tambah-2-25-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya [tambah] 2,25 juta saham",
-  "deck": "Edwin Soeryadjaya membeli 2,25 juta saham SRTG senilai sekitar Rp4,07 miliar dalam dua transaksi awal September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "kepemilikan saham",
-   "Edwin Soeryadjaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-2426-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekad-jelaskan-suspensi-cooling-down-saham-lewat-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "EKAD Jelaskan [Suspensi Cooling Down] Saham lewat Public Expose",
-  "deck": "EKAD akan menggelar public expose insidentil pada 8 September 2026 untuk menjelaskan suspensi cooling down atas sahamnya, sesuai permintaan Bursa.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EKAD",
-   "public expose",
-   "suspensi saham",
-   "cooling down"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d469a9649a_08251a4423.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbut-catat-laba-melonjak-jadi-rp169-66-miliar-di-semester-i",
-  "category": "Aksi Korporasi",
-  "title": "CBUT catat laba [melonjak] jadi Rp169,66 miliar di semester I",
-  "deck": "Aset dan liabilitas CBUT sama-sama melonjak lebih dari 40 persen imbas aturan baru penempatan devisa hasil ekspor, sementara laba semester I naik empat kali lipat jadi Rp169,66 miliar.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBUT",
-   "laporan keuangan interim",
-   "devisa hasil ekspor",
-   "sawit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904145435-64357-0/FinancialStatement-2026-II-CBUT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-siapkan-penambahan-modal-tanpa-hmetd-dilusi-9-09",
-  "category": "Aksi Korporasi",
-  "title": "RATU Siapkan [Penambahan Modal] Tanpa HMETD, Dilusi 9,09%",
-  "deck": "Raharja Energi Cepu bakal menerbitkan hingga 271,5 juta saham baru tanpa hak memesan efek terlebih dahulu, RUPSLB digelar 8 September 2026 untuk persetujuan pemegang saham independen.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3684f18dd8_1f894169fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-rinci-harga-penerbitan-saham-baru-pmthmetd-dilusi-9-09",
-  "category": "Aksi Korporasi",
-  "title": "RATU Rinci [Harga] Penerbitan Saham Baru PMTHMETD, Dilusi 9,09%",
-  "deck": "RATU akan menerbitkan maksimal 271,5 juta saham baru (10%) tanpa hak memesan efek terlebih dahulu, dengan harga minimal 90% rata-rata harga penutupan 25 hari bursa, dilusi maksimal 9,09%.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6243e8665f_f874591590.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-panggil-rupslb-independen-soal-pmthmetd-pada-8-september",
-  "category": "Aksi Korporasi",
-  "title": "RATU Panggil RUPSLB Independen soal [PMTHMETD] pada 8 September",
-  "deck": "RATU memanggil pemegang saham independen untuk RUPSLB 8 September 2026, membahas persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu dan perubahan anggaran dasar.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "RUPSLB",
-   "PMTHMETD",
-   "Raharja Energi Cepu"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97fcc82ead_a9b59152fb.pdf",
   "sourceLabel": "IDX"
  }
 ];

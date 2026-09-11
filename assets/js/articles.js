@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
+  "category": "Aksi Korporasi",
+  "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
+  "deck": "Dalam public expose insidentil, manajemen LIFE menjelaskan penyebab kenaikan laba serta menjawab pertanyaan analis soal penempatan dana di entitas Grup Sinar Mas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T10:34:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e167318277_708de80761.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LIFE",
+  "tags": [
+   "LIFE",
+   "MSIG Life Insurance",
+   "Public Expose",
+   "Grup Sinar Mas"
+  ],
+  "body": [
+   "PT MSIG Life Insurance Indonesia Tbk (LIFE) menyampaikan laporan hasil public expose insidentil yang digelar 9 September 2026, menyusul materi yang sebelumnya dibagikan lewat surat tanggal yang sama. Acara ini dihadiri 17 peserta di luar manajemen dan karyawan perseroan, terdiri dari 14 wartawan media ekonomi, satu analis, dan dua peserta dari kalangan publik. Leony Samosir, Corporate Secretary LIFE, menjadi penanggung jawab penyampaian laporan ini ke Bursa Efek Indonesia.",
+   "Menjawab pertanyaan soal pemicu kenaikan laba bersih, manajemen menjelaskan bahwa profitabilitas produk meningkat berkat seleksi risiko dan penetapan premi yang disiplin sejak awal penutupan polis. Dua indikatornya, Contractual Service Margin atau CSM yang diakui perusahaan bertambah, sementara kerugian yang harus diakui di muka atas kontrak baru yang berpotensi merugi justru tercatat lebih kecil dibanding periode yang sama tahun lalu. Perusahaan juga melaporkan pendapatan premi tahunan yang disetahunkan atau APE dari kanal korporasi tumbuh 15 persen secara tahunan hingga semester I 2026. Soal penerapan standar akuntansi baru IFRS 17, manajemen menegaskan aturan ini hanya mengubah waktu pengakuan dan penyajian kinerja keuangan, bukan fundamental bisnis perusahaan.",
+   "Perusahaan turut memaparkan penggunaan kecerdasan buatan dalam pengelolaan klaim asuransi kesehatan, di mana sistem AI mengumpulkan dan menganalisis informasi klaim berdasarkan ketentuan polis dan kondisi medis nasabah. Teknologi ini disebut membantu tim analis klaim mengambil keputusan lebih cepat dan konsisten, sekaligus mendeteksi potensi kecurangan, pemborosan, dan penyalahgunaan klaim, mulai dari pemalsuan dokumen hingga indikasi pengobatan berlebihan. Penerapannya dilakukan bertahap dan akurasinya diklaim akan membaik seiring bertambahnya data.",
+   "Pertanyaan paling tajam datang dari seorang analis yang menyoroti data laporan keuangan Juni 2026 di halaman 62, 69, 73, 78-80, dan 85, terkait cukup besarnya penempatan kas, deposito, dan obligasi perseroan di entitas Grup Sinar Mas, serta bagaimana kewajaran harganya dibandingkan bila ditempatkan ke pihak ketiga independen. Manajemen menjawab bahwa harga wajar obligasi mengikuti harga referensi pasar dari Penilai Harga Efek Indonesia atau PHEI, sementara pemilihan obligasi dan deposito mempertimbangkan profil risiko, outlook, dan tingkat imbal hasil yang ditawarkan, dengan tetap memperhatikan batasan investasi yang berlaku."
+  ],
+  "fotoAdegan": "Insurance claims staff reviewing medical documents and computer screens at a busy Jakarta office desk, blurred monitors, morning light.",
+  "takeaway": "Laporan ini condong positif bagi fundamental LIFE, karena penjelasan manajemen memperkuat cerita kenaikan laba yang sudah diumumkan sebelumnya, dengan menunjukkan dua pendorong konkret yaitu naiknya cadangan laba masa depan dan mengecilnya kerugian dari polis baru yang berpotensi merugi. Cadangan itu disebut Contractual Service Margin atau CSM, yaitu bagian dari premi yang belum diakui sebagai laba dan baru dicairkan bertahap seiring masa pertanggungan berjalan, jadi CSM yang lebih besar berarti ada lebih banyak laba yang sudah terkunci untuk diakui ke depan. Pendapatan premi tahunan dari kanal korporasi juga tumbuh 15 persen dibanding tahun lalu, menandakan bisnis barunya tidak cuma lebih untung tapi juga makin besar volumenya. Yang perlu dicermati adalah jawaban manajemen atas pertanyaan analis soal penempatan kas, deposito, dan obligasi dalam jumlah signifikan di entitas Grup Sinar Mas, sebab pemegang saham publik berkepentingan memastikan harga dan imbal hasil yang dipakai memang setara pasar, bukan sekadar mengikuti hubungan afiliasi. Pemegang saham perlu memantau apakah Bursa atau OJK menindaklanjuti isu penempatan dana berelasi ini, serta apakah tren pertumbuhan CSM dan premi korporasi tetap berlanjut pada laporan kuartal berikutnya.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",
   "category": "BUMN",
   "title": "Peruri Raih [Bintang 5] di Top GRC Awards 2026",
@@ -28,6 +55,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah predikat, bukan operasi: Peruri mempertahankan skor tertinggi Bintang 5 dan menambah Golden Trophy tahun ini, sementara direktur teknologi dan risikonya mendapat penghargaan personal terpisah. Pihak yang paling terdampak adalah Peruri sendiri sebagai BUMN yang kini merangkap tugas sebagai GovTech Indonesia, karena predikat ini dipakai sebagai bukti bahwa sistem pengamanan data dan pengelolaan risikonya layak dipercaya untuk menopang layanan digital pemerintah. Yang belum terlihat dari berita ini adalah proyek atau layanan digital konkret apa saja yang akan digarap Peruri lewat mandat GovTech Indonesia tersebut, serta bagaimana predikat ini nanti diuji ulang, misalnya lewat penilaian Top GRC Awards tahun berikutnya. Tanpa rincian itu, penghargaan ini baru menunjukkan pengakuan atas sistem yang sudah ada, bukan bukti bahwa perluasan layanan digital pemerintah lewat Peruri sudah benar-benar berjalan.",
   "imageV": "mtweww5y"
+ },
+ {
+  "slug": "ptpp-restrukturisasi-utang-rp18-2-triliun-ke-bank-bumn",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Restrukturisasi Utang [Rp18,2 Triliun] ke Bank BUMN",
+  "deck": "PTPP menandatangani Master Restructuring Agreement senilai Rp18,2 triliun dengan empat bank BUMN untuk restrukturisasi utang, efektif setelah RUPS dan sejumlah syarat terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:31:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2e3adfea4_f31a257d6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "Master Restructuring Agreement",
+   "bank BUMN"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menandatangani Master Restructuring Agreement (MRA) dengan sejumlah bank kreditur pada 10 September 2026, sebagai bagian dari proses restrukturisasi utang perusahaan. Total utang yang direstrukturisasi, mencakup pokok dan bunga per Juli 2026, tercatat sebesar Rp18,2 triliun. Kreditur yang menandatangani perjanjian ini adalah PT Bank Mandiri (Persero) Tbk yang juga bertindak sebagai agen fasilitas, PT Bank Rakyat Indonesia (Persero) Tbk, PT Bank Negara Indonesia (Persero) Tbk, dan PT Bank Syariah Indonesia (Persero) Tbk.",
+   "MRA membagi utang tersebut menjadi beberapa kelompok pembayaran. Tranche A senilai sekitar Rp13,33 triliun akan dilunasi selama 15 tahun sejak Tanggal Efektif dengan skema balloon payment, yaitu cicilan kecil di awal dan pembayaran besar di akhir masa pinjaman, dengan bunga 3,5 persen per tahun. Dari bunga itu, 1 persen dibayar tunai setiap tiga bulan dan 2,5 persen ditangguhkan hingga tahun 2041. Tranche B senilai sekitar Rp4,05 triliun akan dilunasi dalam 5 tahun sejak Tanggal Efektif melalui skema bullet payment yang bersumber dari hasil divestasi aset Perseroan, dengan bunga 1 persen per tahun dibayar setiap tiga bulan. Tranche C, yang merupakan bunga berjalan sejak Tanggal Persetujuan Standstill hingga Tanggal Efektif, akan dicicil selama 18 bulan tanpa dikenai bunga tambahan. Ada pula utang yang dikecualikan dari skema ini, yaitu fasilitas modal kerja dari kreditur yang juga berperan sebagai pemilik proyek, dengan pembayaran yang mengikuti arus kas masing-masing proyek dan bunga 3,5 persen per tahun.",
+   "Perseroan dan keempat bank kreditur tersebut tercatat memiliki hubungan afiliasi karena sama-sama dikendalikan oleh pemegang saham yang sama, yaitu Pemerintah Republik Indonesia dan PT Danantara Asset Management, yang bersama-sama menguasai 51 persen saham PTPP. Meski begitu, manajemen menyatakan transaksi ini dikecualikan dari ketentuan transaksi afiliasi dalam POJK 42/2020 dan transaksi material dalam POJK 17/2020. MRA ini baru akan berlaku efektif setelah digelar Rapat Umum Pemegang Saham (RUPS) dan sejumlah syarat lain dalam perjanjian dipenuhi. Manajemen menyebut tujuan restrukturisasi ini adalah menjaga keberlangsungan usaha, memperbaiki kinerja operasional dan keuangan, serta menjaga kemampuan Perseroan melunasi seluruh utangnya kepada kreditur. Laporan ditandatangani oleh Direktur Keuangan PTPP, Faizal Rahmad."
+  ],
+  "fotoAdegan": "Construction workers guiding steel rebar on a high-rise building site, tower cranes overhead, hazy afternoon light in Jakarta.",
+  "takeaway": "Laporan ini condong negatif karena menunjukkan PT PP masih menanggung utang jumbo Rp18,2 triliun yang perlu direstrukturisasi ulang, dengan sebagian bunga malah ditunda pembayarannya sampai 2041 dan salah satu tahap pelunasan bergantung pada hasil penjualan aset perusahaan di masa depan. Dua pos yang paling terdampak adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas pinjamannya, karena sebagian dari beban itu tidak lunas sekarang tapi menumpuk dan baru dibayar belasan tahun ke depan, serta arus kas ke depan yang akan tertekan begitu perusahaan mulai menjual aset untuk melunasi Tranche B senilai Rp4,05 triliun. Skema balloon payment pada Tranche A, yaitu pembayaran besar di akhir masa pinjaman setelah cicilan kecil bertahun-tahun, juga berarti beban utang besar itu baru benar-benar lunas belasan tahun mendatang, bukan hilang sekarang. Yang perlu dipantau berikutnya adalah pelaksanaan RUPS yang harus disetujui pemegang saham sebagai syarat MRA ini berlaku efektif, serta pemenuhan sejumlah persyaratan lain dalam perjanjian sebelum status resminya berubah dari sekadar penandatanganan menjadi restrukturisasi yang berjalan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "pkpk-konfirmasi-akuisisi-saham-dpal-tahap-kedua-masih-berjalan",
+  "category": "Aksi Korporasi",
+  "title": "PKPK Konfirmasi Akuisisi Saham [DPAL] Tahap Kedua Masih Berjalan",
+  "deck": "Menjawab permintaan BEI soal volatilitas transaksi, PKPK menyatakan tidak ada fakta material tersembunyi dan proses akuisisi saham DPAL Tahap Kedua dari DIR dan KNG masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:25:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3a92026e0b_932465bfc9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "Paragon Karya Perkasa",
+   "volatilitas saham",
+   "akuisisi DPAL"
+  ],
+  "body": [
+   "Paragon Karya Perkasa Tbk (PKPK) menjawab permintaan penjelasan Bursa Efek Indonesia melalui surat nomor S-11430/BEI.PP3/09-2026 tanggal 9 September 2026 terkait volatilitas transaksi sahamnya. Dalam surat balasan nomor 054/DIR-PKPK/IX/2026 tanggal 11 September 2026 yang ditandatangani Direktur Utama Haryanto Sofian, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur POJK Nomor 31/POJK.04/2015 dan Peraturan I-E BEI. Perseroan juga menyatakan tidak menerima laporan aktivitas dari pemegang saham tertentu sesuai POJK Nomor 4 Tahun 2024 tentang kepemilikan dan penjaminan saham perusahaan terbuka.",
+   "Terkait rencana aksi korporasi, PKPK mengonfirmasi bahwa rencana yang sudah diungkapkan dalam keterbukaan informasi tanggal 26 Juni 2026 masih berjalan, yaitu pembelian saham PT Deli Pratama Angkutan Laut (DPAL) Tahap Kedua. Saham yang akan dibeli adalah bagian kepemilikan PT Deli Indonesia Raya (DIR) dan PT Karya Niaga Gemilang (KNG) di DPAL. Pada saat surat ini disampaikan, PKPK menyebut masih dalam proses menyiapkan laporan dan dokumen pendukung transaksi tersebut, dan berjanji akan mengumumkannya lewat keterbukaan informasi resmi begitu siap. Surat ini tidak menyebutkan nilai transaksi maupun target waktu penyelesaian pembelian.",
+   "Corporate Secretary Fransiska Setiawan menambahkan, berdasarkan konfirmasi kepada pemegang saham utama, hingga saat ini belum ada rencana lain terkait kepemilikan sahamnya di perseroan. PKPK juga menyatakan tidak ada informasi atau kejadian material lain yang berpotensi memengaruhi harga efek maupun kelangsungan usaha perseroan yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Small tugboat and cargo vessel moored at a busy Indonesian port terminal, cranes in the background, midday overcast light",
+  "takeaway": "Isi jawaban ini condong netral bagi PKPK, karena tidak ada angka transaksi baru maupun sinyal aktivitas pemegang saham yang mencurigakan, hanya konfirmasi bahwa proses akuisisi yang sudah diumumkan sejak Juni tetap berjalan. Yang perlu dicermati investor adalah dampak ke kas dan ekuitas perseroan begitu transaksi pembelian saham DPAL Tahap Kedua ini rampung, sebab dana untuk membeli saham DIR dan KNG di DPAL akan keluar dari kas PKPK dan berpotensi mengubah struktur permodalan atau menambah aset serta lini bisnis angkutan laut yang dikonsolidasikan ke perseroan. Kepastian bahwa pemegang saham utama tidak berencana mengubah kepemilikannya juga berarti tidak ada tekanan jual dari dalam yang perlu dikhawatirkan saat ini. Yang harus dipantau selanjutnya adalah keterbukaan informasi resmi berikutnya soal realisasi pembelian saham DPAL Tahap Kedua, karena PKPK dalam surat ini belum menyebut target tanggal penyelesaiannya.",
+  "sentimen": "netral"
  },
  {
   "slug": "ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street",
@@ -58,6 +137,32 @@ var ARTICLES = [
   "imageV": "mtwewwkx"
  },
  {
+  "slug": "scnp-jelaskan-ke-bursa-alasan-free-float-belum-15",
+  "category": "Aksi Korporasi",
+  "title": "SCNP Jelaskan ke Bursa Alasan [Free Float] Belum 15%",
+  "deck": "SCNP menjelaskan ke BEI bahwa harga sahamnya kini di bawah harga buyback, sehingga sulit melepas saham treasuri untuk memenuhi syarat minimum saham publik 15 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:03:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7dae3c86e3_dddc63249c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SCNP",
+  "tags": [
+   "SCNP",
+   "free float",
+   "saham treasuri",
+   "BEI"
+  ],
+  "body": [
+   "PT Selaras Citra Nusantara Perkasa Tbk (SCNP) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan Nomor S-11747/BEI.PP1/09-2026 tanggal 10 September 2026 terkait rencana pemenuhan ketentuan minimum saham beredar di publik atau free float sebesar 15%. Perseroan menjelaskan, syarat itu belum terpenuhi karena saham publik terkonsolidasi saat perusahaan melakukan pembelian kembali saham atau buyback pada April 2025. Saat ini SCNP memegang saham treasuri sebanyak 192.334.900 lembar, sekitar 7,69% dari total saham.",
+   "Perseroan menyebut kendala regulasi menjadi penghambat utama. Berdasarkan Pasal 23 huruf c POJK Nomor 29 Tahun 2023, pengalihan saham hasil buyback tidak boleh dilepas dengan harga di bawah rerata harga perolehan, yaitu Rp156 per lembar. Sementara itu harga saham SCNP belakangan bergerak di kisaran Rp148 hingga Rp155 per lembar, di bawah harga perolehan tersebut, sehingga perusahaan belum bisa langsung menjual saham treasuri di pasar reguler.",
+   "Untuk mengatasi hal ini, Dewan Komisaris SCNP pada Agustus 2026 telah menyetujui rencana mengalihkan seluruh porsi 7,69% saham treasuri kepada investor non-afiliasi dengan batas kepemilikan akhir masing-masing di bawah 5%, agar saham yang dialihkan tercatat sebagai penambah free float. Proses ini mulai berjalan pada September 2026 dengan pendampingan sebuah perusahaan efek sebagai arranger. Perseroan meminta kelonggaran waktu dari Bursa dan berkomitmen menuntaskan proses ini sebelum batas maksimal pengalihan saham treasuri menurut regulasi, yaitu tiga tahun setelah buyback. Surat ditandatangani Direktur Utama Djamarwie dan disampaikan oleh Corporate Secretary Division Head Tumpal Sihombing pada 11 September 2026 pukul 09.03."
+  ],
+  "fotoAdegan": "Blurred out-of-focus stock price boards in the background as people walk through a busy Jakarta stock exchange lobby, evening light",
+  "takeaway": "Laporan ini condong negatif bagi SCNP karena menunjukkan perusahaan terjebak antara aturan dan kondisi pasar: harga sahamnya kini di bawah harga rata-rata saat buyback, sehingga tidak bisa melepas saham treasuri tanpa melanggar aturan harga minimum, sementara syarat saham publik minimum sudah lebih setahun tidak terpenuhi. Yang tersentuh adalah jumlah saham beredar di publik. Kalau rencana pengalihan 7,69% saham treasuri ini terlaksana, jumlah saham yang beredar di pasar akan bertambah, yang secara teori bisa menipiskan laba per saham meski porsinya relatif kecil dibanding total saham perusahaan. Yang perlu dipantau selanjutnya adalah kelanjutan proses pengalihan yang dimulai September 2026 bersama perusahaan efek pendamping, respons Bursa atas permintaan kelonggaran waktu Perseroan, serta batas akhir regulasi tiga tahun pasca buyback yang jatuh sekitar April 2028.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t",
   "category": "Makroekonomi",
   "title": "Penerimaan Pajak [Tumbuh] 23,7 Persen jadi Rp1.224,3 T",
@@ -83,6 +188,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah penerimaan pajak Juli 2026 naik 23,7 persen dari tahun lalu menjadi Rp1.224,3 triliun, meski pemerintah tidak menaikkan tarif pajak atau membuat pajak baru. Kenaikan itu datang dari pengawasan yang lebih ketat dan penutupan celah pelaporan, jadi yang paling terasa dampaknya adalah wajib pajak yang selama ini bisa lolos dari pemeriksaan, bukan masyarakat umum yang sudah taat. Di sisi lain, defisit anggaran, yaitu selisih antara belanja dan pendapatan negara, melebar dari 0,76 persen produk domestik bruto pada Juni menjadi 0,91 persen pada Juli, dan Purbaya sendiri memperkirakan angka itu akan naik menjadi 2,85 persen pada akhir tahun. Ini mengarah ke pola belanja pemerintah yang biasanya menumpuk di paruh kedua tahun, sehingga defisit melonjak tajam meski penerimaan pajak masih tumbuh dua digit. Yang akan memastikan pola ini adalah rincian resmi realisasi APBN untuk Juli dan Agustus yang belum dipublikasikan Kementerian Keuangan, karena data lengkap terakhir baru sampai Juni.",
   "imageV": "mtwewx2y"
+ },
+ {
+  "slug": "blog-realisasi-capex-baru-rp200-m-dari-target-rp500-m",
+  "category": "Aksi Korporasi",
+  "title": "BLOG: Realisasi Capex Baru Rp200 M dari Target [Rp500 M]",
+  "deck": "Hasil public expose tahunan BLOG mengungkap realisasi capex baru sekitar Rp200 miliar dari target Rp500 miliar, target laba tumbuh di atas 10 persen, dan dividen tahun ini belum diputuskan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T08:59:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9df3c24459_1f6f77f187.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLOG",
+  "tags": [
+   "BLOG",
+   "public expose",
+   "capex",
+   "dividen"
+  ],
+  "body": [
+   "PT Trimitra Trans Persada Tbk (BLOG) menyampaikan laporan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia. Acara berlangsung Selasa, 8 September 2026 pukul 11.00 sampai 11.55 WIB secara daring, dihadiri 77 peserta di luar jajaran manajemen dan karyawan perseroan, terdiri dari investor, wartawan, dan masyarakat umum. Manajemen yang hadir adalah Maickel Tilon selaku Direktur Utama, didampingi Gerry Ardian dan Antonia Indrawati Prasetyo Widodo sebagai perwakilan manajemen. Agenda mencakup pemutaran video perusahaan, presentasi kinerja semester I 2026, dan sesi tanya jawab.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan perseroan mengalokasikan belanja modal atau capex sekitar Rp500 miliar untuk tahun 2026, namun realisasinya hingga Agustus 2026 baru mencapai sekitar Rp200 miliar. Manajemen bahkan memperkirakan realisasi capex sampai akhir tahun tidak akan mencapai target awal karena pembangunan gudang mengalami keterlambatan dibanding rencana semula. Dana tersebut dipakai untuk membeli unit truk guna memperkuat armada dan membangun gudang baru untuk memperluas kapasitas logistik, dengan salah satu fokus ekspansi ke wilayah Indonesia Timur untuk layanan logistik berpendingin atau cold chain. Perseroan juga menyebut dana hasil IPO sudah terealisasi seluruhnya sesuai peruntukannya, tetapi rasio utang terhadap modal atau DER masih di bawah 1 sehingga masih ada ruang mencari pendanaan tambahan dari perbankan untuk mendukung capex ke depan.",
+   "Soal target kinerja, manajemen menargetkan pertumbuhan laba bersih di atas 10 persen dibanding 2025 dengan margin laba bersih tetap di level dua digit, ditopang ekspansi jaringan operasional, efisiensi lewat teknologi, serta pengembangan sumber daya manusia lewat pembangunan Training Center di Tangerang. Terkait dividen, perseroan menyebut secara historis selalu membagikan dividen kepada pemegang saham, dengan tahun 2026 ini membagikan dividen sebesar 50 persen dari laba bersih tahun buku 2025. Namun keputusan pembagian dividen untuk tahun buku 2026 belum ditetapkan dan akan mempertimbangkan kinerja keuangan hingga akhir tahun. Manajemen juga menegaskan belum ada rencana rights issue, dan kenaikan harga BBM maupun upah minimum akan disikapi lewat negosiasi tarif dengan pelanggan kontrak jangka panjang serta efisiensi biaya internal."
+  ],
+  "fotoAdegan": "Small fleet of delivery trucks parked at a cold storage logistics warehouse loading dock, workers checking cargo, early morning light",
+  "takeaway": "Laporan ini condong netral, bukan negatif, karena keterlambatan pembangunan gudang tidak mencerminkan masalah keuangan, sementara target pertumbuhan laba tetap dipertahankan dan kondisi kas perseroan disebut masih sehat. Yang tersentuh di sini adalah belanja modal, yaitu dana yang dikeluarkan perusahaan untuk beli truk dan bangun gudang, serta arus kas bebas, yaitu uang tunai sisa operasional yang disebut akan ikut mendanai capex ke depan bersama pinjaman bank. Rasio utang terhadap modal, atau DER, yang disebut masih di bawah 1 berarti utang perseroan belum melebihi modalnya sendiri, sehingga bank masih punya alasan memberi pinjaman tambahan tanpa membebani neraca secara berlebihan. Yang perlu dipantau berikutnya adalah keputusan final soal dividen tahun buku 2026, yang baru diambil setelah laporan keuangan akhir tahun ditutup, serta perkembangan pembangunan gudang yang menurut manajemen sendiri sudah tertinggal dari jadwal semula.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptpp-peringkat-utang-turun-ke-idb-creditwatch-negatif",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: Peringkat Utang Turun ke idB, [CreditWatch] Negatif",
+  "deck": "PEFINDO memangkas peringkat PT PP dari idBB ke idB dengan status CreditWatch negatif, setelah pemegang obligasi dan sukuk menolak usulan restrukturisasi bunga dan jatuh tempo utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T08:40:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a3be6272ee_219c9001f2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "PEFINDO",
+   "peringkat utang",
+   "obligasi"
+  ],
+  "body": [
+   "PT PEFINDO menurunkan peringkat korporasi PT PP (Persero) Tbk dari idBB dengan CreditWatch implikasi negatif menjadi idB dengan CreditWatch implikasi negatif, berlaku untuk periode 9 September 2026 sampai 9 Desember 2026. Penurunan ini merupakan hasil pemantauan khusus (special review) yang diputuskan Komite Pemeringkatan PEFINDO pada 9 September 2026, berdasarkan laporan keuangan tidak diaudit per 30 Juni 2026 dan laporan keuangan audit per 31 Desember 2025.",
+   "Seluruh surat utang PT PP ikut terkena penurunan. Obligasi Berkelanjutan III Tahap I 2021 Seri B senilai Rp650 miliar (jatuh tempo 2 Juli 2027), Tahap II 2022 Seri B senilai Rp404,5 miliar (jatuh tempo 22 April 2027), Tahap III 2023 senilai Rp503,725 miliar (jatuh tempo 11 April 2027), dan Obligasi Berkelanjutan IV Tahap I 2024 senilai Rp434,62 miliar (jatuh tempo 28 Juni 2027), total Rp1,99 triliun, semuanya turun peringkat ke idB. Sukuk Mudharabah Berkelanjutan I Tahap I 2021 Seri B (Rp100 miliar), Tahap II 2022 Seri B (Rp305 miliar), dan Tahap III 2023 (Rp126,754 miliar), total Rp531,75 miliar, turun peringkat ke idB(sy).",
+   "PEFINDO menyebut penurunan ini dipicu hasil Rapat Umum Pemegang Obligasi (RUPO) dan Rapat Umum Pemegang Sukuk (RUPSu) yang menolak proposal PT PP untuk merestrukturisasi bunga atau bagi hasil serta tanggal jatuh tempo surat utang yang masih beredar. Lembaga pemeringkat menilai risiko pembiayaan ulang (refinancing) perusahaan meningkat di tengah akses pendanaan yang makin sulit di industri konstruksi dan eksposur ke segmen properti hunian vertikal, yang menekan likuiditas dan fleksibilitas keuangan perusahaan. PT PP terakhir membayar kupon Obligasi Berkelanjutan III Tahap II 2022 Seri B sebesar Rp7,84 miliar dan Sukuk Mudharabah Tahap II 2022 Seri B sebesar Rp5,91 miliar pada 22 Juli 2026. Untuk kewajiban yang jatuh tempo 28 September 2026, RUPO pada 1 September 2026 telah menyetujui penundaan pembayaran bunga Obligasi Berkelanjutan IV Tahap I 2024 sampai jatuh tempo pada 2027, tanpa denda atau penalti."
+  ],
+  "fotoAdegan": "Wide shot of an unfinished multi-story concrete building with tower cranes at a construction site, overcast sky, Jakarta",
+  "takeaway": "Laporan ini jelas negatif bagi PT PP, karena PEFINDO memangkas peringkat utang perusahaan dua tingkat dari idBB menjadi idB dan langsung memasang status CreditWatch implikasi negatif, tanda lembaga pemeringkat menilai risiko gagal bayar makin nyata dalam waktu dekat. Ini menyentuh langsung beban bunga perusahaan, sebab peringkat yang lebih rendah biasanya membuat pinjaman baru lebih mahal dan mempersempit arus kas, apalagi PEFINDO sendiri menyebut likuiditas dan ruang gerak keuangan PT PP sudah tertekan oleh sulitnya akses pendanaan di sektor konstruksi. Yang perlu dipantau adalah pembayaran kupon yang jatuh tempo 28 September 2026, sebagian telah disetujui pemegang obligasi untuk ditunda tanpa denda sampai 2027, serta hasil peninjauan ulang status CreditWatch yang menurut PEFINDO paling lambat keluar pada 9 Desember 2026.",
+  "sentimen": "negatif"
  },
  {
   "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",

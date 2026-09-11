@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "seleksi-maganghub-berlangsung-hasil-keluar-18-september",
+  "category": "Ketenagakerjaan",
+  "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
+  "deck": "Seleksi peserta Program Pemagangan Nasional (MagangHub) Batch 2 Angkatan II berlangsung 9-15 September, hasil diumumkan 18 September, magang mulai 21 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "MagangHub",
+   "Kemnaker",
+   "Pemagangan",
+   "Ketenagakerjaan"
+  ],
+  "sourceUrl": "https://kemnaker.go.id/news/detail/maganghub-batch-2-angkatan-ii-masuki-tahap-seleksi-hasil-diumumkan-18-september",
+  "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e",
+  "category": "Teknologi",
+  "title": "Sinar Mas Land Luncurkan Platform [Digital] D.A.N.C.E",
+  "deck": "Sinar Mas Land meluncurkan D.A.N.C.E, platform digital untuk mempertemukan puluhan perusahaan di ekosistem Digital Hub BSD City lewat program pilot dan agenda komunitas.",
+  "date": "11 September 2026",
+  "image": "assets/img/sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e.jpg",
+  "imageV": "mtwxd8xq",
+  "tags": [
+   "Sinar Mas Land",
+   "Digital Hub",
+   "BSD City",
+   "D.A.N.C.E"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466473-sinar-mas-land-resmi-luncurkan-dance-platform-networking-dan-community-engagement-bagi-ekosistem-digital-hub"
+ },
+ {
   "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
   "category": "Aksi Korporasi",
   "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
@@ -1768,7 +1801,7 @@ var ARTICLES = [
   "title": "Izin Tenaga Kerja Asing Kini [Satu Pintu] Lewat OSS",
   "deck": "Kemnaker, Kementerian Investasi, dan Kementerian Imigrasi menyatukan izin penggunaan tenaga kerja asing dalam satu sistem OSS untuk memangkas proses lintas kementerian.",
   "date": "10 September 2026",
-  "image": "assets/img/bursa-kerja.jpg",
+  "image": "assets/img/wawancara-kerja.jpg",
   "tags": [
    "TKA",
    "OSS",
@@ -3613,7 +3646,7 @@ var ARTICLES = [
   "title": "Kemnaker Kawal Hak Pekerja di Balik Restrukturisasi [BUMN]",
   "deck": "Kemnaker menegaskan proses perampingan dan penggabungan bisnis BUMN harus tetap menjaga hak pekerja, mengacu pada Instruksi Presiden Nomor 7 Tahun 2026.",
   "date": "8 September 2026",
-  "image": "assets/img/wawancara-kerja.jpg",
+  "image": "assets/img/bursa-kerja-antre.jpg",
   "tags": [
    "BUMN",
    "Kemnaker",
@@ -5087,7 +5120,7 @@ var ARTICLES = [
   "title": "60 Persen Angkatan Kerja RI Berada di Sektor [Informal]",
   "deck": "Menaker menyebut 60 persen dari 155 juta angkatan kerja RI bekerja di sektor informal, sementara literasi dana pensiun baru 22 persen menurut OJK.",
   "date": "7 September 2026",
-  "image": "assets/img/bursa-kerja-antre.jpg",
+  "image": "assets/img/gudang-logistik.jpg",
   "tags": [
    "dana pensiun",
    "sektor informal",
@@ -6011,7 +6044,7 @@ var ARTICLES = [
   "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
   "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
   "date": "5 September 2026",
-  "image": "assets/img/gudang-logistik.jpg",
+  "image": "assets/img/kantor-startup.jpg",
   "tags": [
    "Kemnaker",
    "TKM",
@@ -6477,38 +6510,6 @@ var ARTICLES = [
    "Komisaris Independen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/165be55b9e_a2c7d5c25b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dild-komisaris-lepas-97-sahamnya-rp3-8-miliar",
-  "category": "Aksi Korporasi",
-  "title": "DILD: Komisaris [Lepas] 97% Sahamnya, Rp3,8 Miliar",
-  "deck": "Komisaris Intiland Development, Sinarto Dharmawan Ir, menjual 32,88 juta saham DILD pada 21 Agustus 2026 seharga Rp116 per saham, menyisakan hanya 0,01% kepemilikan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DILD",
-   "Intiland Development",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-7107-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wton-ungkap-kontrak-baru-rp2-27-t-tapi-laba-per-saham-anjlok",
-  "category": "Aksi Korporasi",
-  "title": "WTON Ungkap Kontrak Baru Rp2,27 T, tapi [Laba Per Saham] Anjlok",
-  "deck": "WIKA Beton (WTON) memaparkan kontrak baru Rp2,27 triliun dan pendapatan Rp1,48 triliun jelang Public Expose 9 September 2026, di tengah tren laba per saham yang terus menyusut sejak 2015.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WTON",
-   "Wijaya Karya Beton",
-   "Public Expose",
-   "BUMN Konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3bb0d270f4_d522492d7e.pdf",
   "sourceLabel": "IDX"
  }
 ];

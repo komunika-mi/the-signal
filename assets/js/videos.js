@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "vY06rqWFuYI",
+  "title": "Harga Minyak Dunia Melonjak ke US$101 per Barel",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Harga minyak mentah dunia melonjak mendekati US$100 dan sempat menembus kisaran US$101 per barel, dipicu eskalasi konflik militer AS-Iran yang meluas ke sejumlah negara Teluk lain.",
+  "takeaway": "Lonjakan harga minyak dunia berpotensi mendorong kenaikan biaya energi dan tekanan inflasi, termasuk bagi Indonesia sebagai negara pengimpor minyak.",
+  "terbit": "2026-09-11T10:41:38+00:00"
+ },
+ {
   "id": "uHa2hQrCtoU",
   "title": "Antrean BBM Solar-Pertalite di Makassar Mengular 1 Km",
   "category": "Energi",

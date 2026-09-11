@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "vY06rqWFuYI",
+  "title": "Harga Minyak Dunia Melonjak ke US$101 per Barel",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Harga minyak mentah dunia melonjak mendekati US$100 dan sempat menembus kisaran US$101 per barel, dipicu eskalasi konflik militer AS-Iran yang meluas ke sejumlah negara Teluk lain.",
+  "takeaway": "Lonjakan harga minyak dunia berpotensi mendorong kenaikan biaya energi dan tekanan inflasi, termasuk bagi Indonesia sebagai negara pengimpor minyak."
+ },
+ {
   "id": "uHa2hQrCtoU",
   "title": "Antrean BBM Solar-Pertalite di Makassar Mengular 1 Km",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Breaking News",
   "summary": "Presiden Prabowo Subianto menyampaikan pidato resmi pada peluncuran program pembangkit listrik tenaga surya 100 gigawatt peak di Jembrana, Bali.",
   "takeaway": "Arah kebijakan yang disampaikan dalam pidato ini penting disimak karena menyangkut peta jalan transisi energi dan potensi investasi di sektor kelistrikan."
- },
- {
-  "id": "Z66PZJknxSA",
-  "title": "Ratusan Karyawan Perusahaan Tambang di Konawe Selatan Kena PHK",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Hari Ini",
-  "summary": "Ratusan karyawan sebuah perusahaan tambang di Kabupaten Konawe Selatan, Sulawesi Tenggara, dirumahkan setelah kegiatan operasional perusahaan tersebut terhenti.",
-  "takeaway": "Kasus PHK massal di sektor tambang ini relevan sebagai indikator tekanan pada industri ekstraktif dan pasar tenaga kerja daerah."
  }
 ];

@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Pertahankan Peringkat [idAAA], Obligasi Subordinasi idAA",
+  "deck": "Pefindo mempertahankan peringkat korporasi BBTN di idAAA dengan outlook stabil, serta menetapkan idAAA untuk obligasi sosial dan idAA untuk obligasi subordinasi hingga 1 September 2027.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "Pefindo",
+   "peringkat obligasi",
+   "perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0b0c69e40_f1d2e2da77.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd-usai-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Turunkan Peringkat Obligasi [WIKA] ke idD Usai Gagal Bayar",
+  "deck": "PEFINDO menurunkan peringkat empat obligasi dan sukuk WIKA dari idCCC menjadi idD, menyusul tertundanya pembayaran pokok dan kupon Rp1,6 triliun pada 8 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf49fc1f14_b3dd7d72eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wton-ungkap-margin-bersih-tipis-0-07-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ungkap Margin Bersih [Tipis] 0,07% di Public Expose",
+  "deck": "Dalam Public Expose Tahunan, manajemen WIKA Beton membeberkan margin laba bersih kuartal II 2026 hanya 0,07% serta target kontrak baru Rp3,8-4 triliun di akhir tahun.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Public Expose",
+   "BUMN Konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2881464c6_faa33c07c3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "seleksi-maganghub-berlangsung-hasil-keluar-18-september",
   "category": "Ketenagakerjaan",
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
@@ -19,6 +67,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kemnaker.go.id/news/detail/maganghub-batch-2-angkatan-ii-masuki-tahap-seleksi-hasil-diumumkan-18-september",
   "sourceLabel": "Kementerian Ketenagakerjaan"
+ },
+ {
+  "slug": "public-expose-sini-grup-pjk-bidik-pengambilalihan-wajib-mto",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose SINI: Grup PJK Bidik [Pengambilalihan], Wajib MTO",
+  "deck": "SINI ungkap negosiasi pengambilalihan oleh Grup PJK yang berpotensi memicu tender offer wajib, serta penggunaan dana rights issue dan cadangan batu bara yang naik ke 231 juta ton.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "Grup PJK",
+   "tender offer wajib",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5621143147_7ebbc52798.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e",
@@ -36,6 +100,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466473-sinar-mas-land-resmi-luncurkan-dance-platform-networking-dan-community-engagement-bagi-ekosistem-digital-hub"
+ },
+ {
+  "slug": "vici-komisaris-dan-komisaris-independen-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Komisaris dan Komisaris Independen [Mundur]",
+  "deck": "Komisaris Vibhav Panandiker dan Komisaris Independen Van Schoote Christian Pierre B mengundurkan diri dari VICI pada 10 September 2026, memicu rencana RUPS.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "komisaris independen",
+   "pengunduran diri",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/45961ea227_cd55195f38.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "saham-king-melonjak-7-49-manajemen-sebut-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "Saham KING Melonjak 7,49%, Manajemen Sebut Tak Ada Info [Material]",
+  "deck": "Direksi PT Hoffmen Cleanindo Tbk menyatakan tidak ada informasi material yang mendasari lonjakan harga dan volume transaksi saham KING awal September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KING",
+   "Hoffmen Cleanindo",
+   "UMA",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0275e3db_9447d9c280.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
@@ -6413,103 +6509,6 @@ var ARTICLES = [
    "delisting"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6b286eba85_c1a98b57aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "uvcr-trimegah-sumber-mas-lepas-300-juta-saham-hak-suara-ke-16-18",
-  "category": "Aksi Korporasi",
-  "title": "UVCR: Trimegah Sumber Mas [lepas] 300 juta saham, hak suara ke 16,18%",
-  "deck": "Pemegang saham Trimegah Sumber Mas menjual 300 juta saham UVCR seharga Rp141 per saham pada 2 September 2026, memangkas hak suaranya dari 31,18% menjadi 16,18%.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UVCR",
-   "kepemilikan saham",
-   "hak suara",
-   "Trimegah Karya Pratama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8909-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fitt-jawab-bursa-pastikan-tak-ada-informasi-material-tersembunyi",
-  "category": "Aksi Korporasi",
-  "title": "FITT Jawab Bursa, Pastikan Tak Ada [Informasi Material] Tersembunyi",
-  "deck": "FITT menjawab permintaan penjelasan Bursa Efek Indonesia soal volatilitas transaksi sahamnya, menegaskan tidak ada informasi material yang belum diungkapkan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FITT",
-   "volatilitas transaksi",
-   "keterbukaan informasi",
-   "akuisisi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65c401516b_edd749540c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "safe-bei-umumkan-kepemilikan-saham-terkonsentrasi-98-14",
-  "category": "Aksi Korporasi",
-  "title": "SAFE: BEI Umumkan Kepemilikan Saham [Terkonsentrasi] 98,14%",
-  "deck": "BEI menyatakan 98,14% saham Steady Safe Tbk (SAFE) dikuasai sejumlah kecil pemegang saham per 2 September 2026, menyisakan porsi saham beredar bebas yang sangat tipis.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SAFE",
-   "Steady Safe Tbk",
-   "BEI",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c4bf5809_18e8c88735.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "testsbkd-ganti-direktur-utama-dan-satu-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "TESTSBKD [Ganti] Direktur Utama dan Satu Komisaris",
-  "deck": "RUPS TESTSBKD pada 4 September 2026 menetapkan direktur utama baru menggantikan Bima, sekaligus mengganti satu kursi komisaris yang sebelumnya dijabat Siti.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTSBKD",
-   "direksi",
-   "komisaris",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_E036_d3cacc7a-e617-49b6-93ab-219b8cc15583-20260905092544.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan",
-  "category": "Ketenagakerjaan",
-  "title": "BPJS Ketenagakerjaan Perkuat Layanan Pekerja [Informal] Pekalongan",
-  "deck": "BPJS Ketenagakerjaan mendekatkan layanan ke Pekalongan lewat kunjungan langsung manajemen, santunan bagi ahli waris, dan kolaborasi mahasiswa menjaring pekerja informal.",
-  "date": "4 September 2026",
-  "image": "assets/img/bpjs-ketenagakerjaan-perkuat-layanan-pekerja-informal-pekalongan.jpg",
-  "imageV": "mtmxchal",
-  "tags": [
-   "BPJS Ketenagakerjaan",
-   "Pekalongan",
-   "pekerja informal",
-   "Harpelnas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464909-rayakan-harpelnas-2026-bpjs-ketenagakerjaan-perkuat-layanan-perlindungan-dan-pemberdayaan-pekerja-di-kota-pekalongan"
- },
- {
-  "slug": "enak-rombak-susunan-direksi-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "ENAK Rombak Susunan [Direksi] dan Komisaris",
-  "deck": "RUPSLB Champ Resto Indonesia menyetujui pengunduran tiga pengurus lama, pengangkatan komisaris independen baru, dan perpindahan Sjariful Haq dari komisaris ke direktur.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENAK",
-   "RUPSLB",
-   "Direksi",
-   "Komisaris Independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/165be55b9e_a2c7d5c25b.pdf",
   "sourceLabel": "IDX"
  }
 ];

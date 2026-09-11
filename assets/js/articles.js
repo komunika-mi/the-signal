@@ -3,6 +3,84 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Pertahankan Peringkat [idAAA], Obligasi Subordinasi idAA",
+  "deck": "Pefindo mempertahankan peringkat korporasi BBTN di idAAA dengan outlook stabil, serta menetapkan idAAA untuk obligasi sosial dan idAA untuk obligasi subordinasi hingga 1 September 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T20:59:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a0b0c69e40_f1d2e2da77.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "Pefindo",
+   "peringkat obligasi",
+   "perbankan"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk melaporkan ke Otoritas Jasa Keuangan bahwa PT Pemeringkat Efek Indonesia (Pefindo) telah merampungkan pemeringkatan tahunan atas perseroan dan dua seri obligasinya. Peringkat korporasi atau general obligation BTN ditetapkan di idAAA dengan outlook stabil, berlaku untuk periode 4 September 2026 sampai 1 September 2027. Laporan ditandatangani secara elektronik oleh Ramon Armando selaku Corporate Secretary Division Head BTN pada 11 September 2026.",
+   "Selain peringkat korporasi, Pefindo juga menetapkan peringkat idAAA untuk Obligasi Berwawasan Sosial Berkelanjutan I Tahap I Tahun 2025, dan peringkat idAA untuk Obligasi Subordinasi Berkelanjutan I Tahap I Tahun 2025, dengan masa berlaku yang sama. Penetapan ini merujuk pada tiga surat sertifikat pemantauan pemeringkatan dari Pefindo bernomor RC-1176, RC-1177, dan RC-1178 yang seluruhnya terbit pada 7 September 2026, sesuai kewajiban pelaporan berkala di bawah POJK Nomor 49/2020 tentang Pemeringkatan Efek Bersifat Utang dan/atau Sukuk.",
+   "Dalam surat keterbukaan informasinya, BTN menyatakan bahwa kejadian ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-fronted Indonesian bank headquarters building, pedestrians walking past, clear midday light",
+  "takeaway": "Laporan ini condong positif bagi BTN, sebab idAAA adalah peringkat tertinggi dalam skala nasional Pefindo dan idAA cuma satu tingkat di bawahnya, jadi kedua obligasi dan peringkat korporasi BTN tetap berada di kelompok risiko gagal bayar paling rendah. Peringkat yang tinggi ini menyentuh pos beban bunga, karena investor biasanya mau menerima kupon lebih murah untuk penerbit yang dianggap aman, sehingga biaya utang BTN ke depan berpotensi tetap kompetitif dibanding bank dengan peringkat lebih rendah. Yang perlu digarisbawahi, dokumen ini tidak menyebutkan peringkat sebelumnya sehingga belum bisa dipastikan apakah ini kenaikan, penurunan, atau sekadar konfirmasi ulang posisi lama. Yang perlu dipantau berikutnya adalah masa berlaku peringkat ini yang berakhir 1 September 2027, saat Pefindo dijadwalkan melakukan pemeringkatan ulang berikutnya terhadap BTN dan surat utangnya.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd-usai-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Turunkan Peringkat Obligasi [WIKA] ke idD Usai Gagal Bayar",
+  "deck": "PEFINDO menurunkan peringkat empat obligasi dan sukuk WIKA dari idCCC menjadi idD, menyusul tertundanya pembayaran pokok dan kupon Rp1,6 triliun pada 8 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:40:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf49fc1f14_b3dd7d72eb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "PEFINDO"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO menurunkan peringkat empat instrumen surat utang PT Wijaya Karya (Persero) Tbk (WIKA) menjadi status gagal bayar. Obligasi Berkelanjutan II Wijaya Karya Tahap I Tahun 2021 Seri B senilai pokok Rp197 miliar dan Seri C senilai Rp982 miliar turun dari idCCC menjadi idD. Sukuk Mudharabah Berkelanjutan II Tahap I Seri B senilai Rp91,5 miliar dan Seri C senilai Rp333 miliar turun dari idCCC(sy) menjadi idD(sy). Total pokok keempat instrumen itu mencapai sekitar Rp1,6 triliun, dengan tanggal jatuh tempo yang sama, 8 September 2026, dan periode rating baru berlaku hingga 1 Juli 2027.",
+   "Dalam surat kepada Otoritas Jasa Keuangan bernomor SE.01.00/A.CORSEC.00302/2026, WIKA menjelaskan bahwa penurunan peringkat ini merupakan tindak lanjut PEFINDO atas penangguhan pembayaran pokok dan kupon obligasi serta sukuk yang jatuh tempo pada 8 September 2026. Hasil pemeringkatan tertuang dalam surat PEFINDO nomor RC-1234/PEF-DIR/IX/2026 tertanggal 8 September 2026, diterima WIKA pada 11 September 2026, dan dipublikasikan sehari sebelumnya, 9 September 2026. Perseroan menyebut kondisi ini sudah diumumkan sebelumnya melalui keterbukaan informasi tanggal 31 Juli 2026.",
+   "WIKA menyatakan akan terus berkomunikasi secara intensif dengan wali amanat serta pemegang obligasi dan sukuk untuk mencari kesepakatan penyelesaian kewajiban yang mengakomodir kepentingan semua pihak. Surat ini ditandatangani Corporate Secretary WIKA, Mahendra Vijaya, sementara surat pemberitahuan resmi ke OJK ditandatangani atas nama Corporate Secretariat oleh Ngatemin."
+  ],
+  "fotoAdegan": "Wide shot of an unfinished elevated highway construction site in Jakarta with cranes, overcast late afternoon light.",
+  "takeaway": "Laporan ini negatif bagi WIKA, karena PEFINDO secara resmi mengonfirmasi status gagal bayar dengan menurunkan peringkat empat surat utangnya ke level idD dan idD(sy), peringkat terendah yang berarti gagal bayar sudah terjadi, bukan sekadar risiko ke depan. Peringkat kredit semacam ini jadi acuan bank dan investor menilai kemampuan perusahaan membayar utang, sehingga begitu turun ke level default, biaya pinjaman baru biasanya naik dan akses ke pembiayaan berikutnya makin sempit. Penurunan status ini juga berisiko memicu klausul gagal bayar silang pada utang WIKA yang lain, karena banyak perjanjian pinjaman mengaitkan default di satu instrumen dengan seluruh kewajiban perusahaan. Yang perlu dipantau selanjutnya adalah hasil komunikasi Perseroan dengan wali amanat dan pemegang obligasi maupun sukuk untuk mencapai kesepakatan penyelesaian kewajiban, sementara periode rating baru ini berlaku sampai 1 Juli 2027 tanpa tenggat restrukturisasi yang pasti disebutkan dalam laporan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "wton-ungkap-margin-bersih-tipis-0-07-di-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "WTON Ungkap Margin Bersih [Tipis] 0,07% di Public Expose",
+  "deck": "Dalam Public Expose Tahunan, manajemen WIKA Beton membeberkan margin laba bersih kuartal II 2026 hanya 0,07% serta target kontrak baru Rp3,8-4 triliun di akhir tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:30:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c2881464c6_faa33c07c3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WTON",
+  "tags": [
+   "WTON",
+   "Wijaya Karya Beton",
+   "Public Expose",
+   "BUMN Konstruksi"
+  ],
+  "body": [
+   "PT Wijaya Karya Beton Tbk (WTON) menggelar Public Expose Live 2026 secara virtual melalui Zoom pada Rabu, 9 September 2026 pukul 15.00 WIB, dihadiri 110 peserta di luar jajaran manajemen dan karyawan perseroan, serta dimoderatori oleh Fajar Wayong yang ditunjuk Bursa Efek Indonesia. Seluruh jajaran direksi hadir, yaitu Kuntjara selaku Direktur Utama, Rija Judaswara selaku Direktur Pemasaran dan Pengembangan, Syailendra Ogan selaku Direktur Keuangan, Human Capital dan Manajemen Risiko, Verly Widiantoro selaku Direktur Teknik dan Produksi, serta Ignatius Harry Sumartono selaku Corporate Secretary yang membawakan paparan profil perusahaan, ikhtisar keuangan per Juli 2026, strategi, dan inisiasi ESG.",
+   "Dalam sesi tanya jawab, Kuntjara mengungkapkan margin laba bersih kuartal II 2026 hanya 0,07%, jauh dari target margin laba kotor di kisaran 6%, akibat penjualan yang tertekan seiring kontraksi industri konstruksi sementara beban tetap pabrik tetap berkisar 3-4% dari penjualan. Untuk memperbaiki kinerja semester II, manajemen menyebut langkah penggabungan unit usaha, perampingan organisasi, pemulihan piutang lama, perbaikan rasio perputaran piutang dan persediaan, serta efisiensi di 13 pabrik agar utilisasi produksi tidak jatuh di bawah 50%. Realisasi kontrak baru per Juli 2026 tercatat Rp2,27 triliun, dengan proyek senilai sekitar Rp1,5 triliun masih dalam tahap penawaran dan negosiasi, sehingga manajemen membidik target akhir tahun di kisaran Rp3,8 hingga Rp4 triliun. Syailendra Ogan menambahkan bahwa arus kas operasional tetap positif sehingga kebijakan dividen 10 hingga 30% dari laba dapat dipertahankan, dan investasi perusahaan dibiayai dari kas internal, bukan utang baru.",
+   "Direktur Teknik dan Produksi Verly Widiantoro memaparkan inovasi rumah pracetak WHome yang bisa selesai dibangun dalam 2 hari dan lengkap furnitur dalam 10-15 hari, tahan gempa, bisa dikembangkan ke atas atau ke samping, serta menggunakan bahan ramah lingkungan. Perseroan juga mengembangkan produk beton generasi baru yang bisa dikirim dan dipakai dalam 5 hari, dibandingkan 14-28 hari untuk beton standar, ditambah beton Geopolimer, beton AAC, dan beton fast screed yang siap pakai dalam 8 jam untuk pekerjaan perbaikan. Perusahaan menyebut skor ESG-nya saat ini 71, masuk 13% teratas secara global untuk sektor manufaktur industri, peringkat pertama di sektor material konstruksi Indonesia, kedua di antara perusahaan terbuka Indonesia, dan ketiga di antara BUMN. Untuk proyek 2027, manajemen membidik proyek yang sejalan dengan program pemerintah seperti Giant Sea Wall, pengembangan gas di Maluku, hilirisasi Smelter Grade Alumina, dan kelanjutan proyek jalan tol di wilayah Jakarta."
+  ],
+  "fotoAdegan": "Workers inspecting rows of precast concrete beams stacked in an open-air factory yard, industrial crane overhead, overcast daylight",
+  "takeaway": "Laporan ini condong netral bagi WIKA Beton karena isinya forum tanya jawab rutin pascapaparan kinerja, bukan aksi korporasi yang mengubah struktur modal atau kepemilikan saham, meski isinya mencampur kabar kurang menggembirakan dengan rencana perbaikan yang konkret. Margin laba bersih perusahaan pada kuartal II 2026 tercatat hanya 0,07%, jauh dari target margin laba kotor sekitar 6%, karena penjualan tertekan saat industri konstruksi lesu sementara biaya tetap pabrik tetap harus dibayar; manajemen menyebut arus kas dari kegiatan operasional tetap positif sehingga dividen 10 hingga 30% dari laba masih bisa dipertahankan tanpa mengandalkan utang baru. Yang perlu dipantau berikutnya adalah apakah realisasi kontrak baru bisa mencapai target akhir tahun Rp3,8 hingga Rp4 triliun, naik dari Rp2,27 triliun per Juli 2026, dan apakah program efisiensi di 13 pabrik serta penggabungan unit usaha benar-benar mengerek margin pada laporan keuangan semester II 2026 mendatang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "seleksi-maganghub-berlangsung-hasil-keluar-18-september",
   "category": "Ketenagakerjaan",
   "title": "Seleksi MagangHub Berlangsung, Hasil Keluar [18 September]",
@@ -27,6 +105,32 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini cuma soal jadwal, program magang nasional MagangHub memasuki putaran kedua di angkatan kedua, dengan seleksi berjalan sepekan sebelum hasilnya keluar 18 September dan magang dimulai 21 September. Yang terdampak jelas ada dua pihak, yaitu pendaftar magang yang menunggu kepastian lolos atau tidak, serta perusahaan dan instansi pemerintah yang jadi mitra penerima peserta. Siaran pers ini tidak menyebut berapa banyak orang mendaftar, berapa kuota yang tersedia, atau sektor apa saja yang membuka lowongan magang, jadi belum bisa dinilai apakah program ini membesar dibanding angkatan sebelumnya atau sekadar berjalan rutin. Yang perlu dipantau adalah pengumuman hasil pada 18 September, terutama jumlah peserta yang benar-benar diterima, karena dari situ baru terlihat skala sesungguhnya program ini."
+ },
+ {
+  "slug": "public-expose-sini-grup-pjk-bidik-pengambilalihan-wajib-mto",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose SINI: Grup PJK Bidik [Pengambilalihan], Wajib MTO",
+  "deck": "SINI ungkap negosiasi pengambilalihan oleh Grup PJK yang berpotensi memicu tender offer wajib, serta penggunaan dana rights issue dan cadangan batu bara yang naik ke 231 juta ton.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:07:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5621143147_7ebbc52798.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "Grup PJK",
+   "tender offer wajib",
+   "rights issue"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk. (SINI) menggelar Paparan Publik/Public Expose Insidentil pada Jumat, 11 September 2026, pukul 13.30 hingga 14.00 WIB melalui Zoom Meeting, sesuai permintaan Bursa Efek Indonesia lewat pengumuman Peng-SPT-00170/BEI.WAS/09-2026 tanggal 7 September 2026. Acara dihadiri 81 peserta di luar jajaran direksi dan karyawan, dengan paparan disampaikan oleh Direktur Utama Amir Antolis didampingi Direktur Novraym Vianus Keriahenta Meliala.",
+   "Dalam sesi tanya jawab, manajemen menjelaskan rencana bisnis akan difokuskan pada pengembangan dan optimalisasi aset tambang batu bara lewat anak usaha. Akuisisi PT KMS disebut mendongkrak total cadangan batu bara Perseroan menjadi sekitar 231 juta ton, sekaligus memperluas aset pertambangan ke Kalimantan Timur sehingga mengurangi ketergantungan pada satu wilayah operasi. Soal dana hasil rights issue, manajemen memerinci penggunaannya untuk membayar PTRO atas pembelian PT KMS, melunasi utang bank kepada Bank Mandiri dan BNI, serta menyalurkan sebagian dana sebagai pinjaman modal kerja kepada anak usaha PBP dan PKP.",
+   "Poin paling material muncul dari jawaban atas pertanyaan soal Grup PJK. Manajemen menyebut pemegang saham pengendali Perseroan tengah bernegosiasi dengan Grup PJK terkait rencana pengambilalihan. Jika transaksi ini terealisasi, sesuai POJK No. 9/POJK.04/2018, Grup PJK sebagai calon pengendali baru wajib melaksanakan penawaran tender wajib atau mandatory tender offer (MTO) kepada pemegang saham publik. Indikasi harga pelaksanaan MTO merujuk pada rata-rata harga tertinggi perdagangan harian saham SINI selama 90 hari sebelum pengumuman negosiasi, sementara harga final dan jadwalnya akan diumumkan kemudian."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit coal mine with heavy haul trucks moving along dirt roads, Kalimantan landscape, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi SINI karena dua sinyal konkret: dana rights issue dipakai melunasi utang bank ke Bank Mandiri dan BNI, dan akuisisi KMS mendorong cadangan batu bara naik ke sekitar 231 juta ton sambil memperluas aset ke Kalimantan Timur. Pos yang tersentuh adalah beban bunga dan ekuitas, sebab pelunasan utang mengurangi biaya bunga yang selama ini menggerus laba, sementara tambahan cadangan tambang memperkuat aset jangka panjang yang mendasari nilai buku perusahaan. Yang perlu dipantau adalah kelanjutan negosiasi pengambilalihan oleh Grup PJK, karena jika rampung akan memicu kewajiban penawaran tender kepada pemegang saham publik dengan harga acuan dari rata-rata harga tertinggi 90 hari sebelum pengumuman negosiasi, namun Perseroan belum mengungkap tanggal maupun harga final MTO tersebut.",
+  "sentimen": "positif"
  },
  {
   "slug": "sinar-mas-land-luncurkan-platform-digital-d-a-n-c-e",
@@ -54,6 +158,58 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah Sinar Mas Land kini punya wadah digital resmi untuk menyatukan perusahaan-perusahaan penyewa maupun mitra di ekosistem Digital Hub BSD City, dimulai dari uji coba bersama 21 perusahaan sebelum dibuka lebih luas. Yang terdampak langsung adalah perusahaan-perusahaan penghuni Digital Hub itu sendiri, mulai dari klinik kesehatan seperti Alpha IVF Group dan Kaiser Clinic, penyedia jasa teknologi seperti NTT DATA dan Odoo, hingga lembaga pendidikan seperti Monash University Indonesia dan Purwadhika. Yang belum bisa dibaca dari peluncuran ini adalah apakah D.A.N.C.E cuma jadi alat pemasaran untuk mempertahankan penyewa kawasan BSD City, atau benar-benar akan dikembangkan jadi model bisnis baru dengan skema keanggotaan berbayar. Yang perlu dipantau adalah apakah Sinar Mas Land akan mengumumkan target jumlah anggota atau rencana perluasan platform ini ke kawasan lain di luar BSD City setelah masa pilot berakhir.",
   "imageV": "mtwxd8xq"
+ },
+ {
+  "slug": "vici-komisaris-dan-komisaris-independen-mundur",
+  "category": "Aksi Korporasi",
+  "title": "VICI: Komisaris dan Komisaris Independen [Mundur]",
+  "deck": "Komisaris Vibhav Panandiker dan Komisaris Independen Van Schoote Christian Pierre B mengundurkan diri dari VICI pada 10 September 2026, memicu rencana RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:02:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/45961ea227_cd55195f38.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "komisaris independen",
+   "pengunduran diri",
+   "RUPS"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perusahaan menerima surat pengunduran diri dari dua anggota dewan komisarisnya pada 10 September 2026. Vibhav Panandiker mengundurkan diri dari jabatan Komisaris, sementara Van Schoote Christian Pierre B mengundurkan diri dari jabatan Komisaris Independen. Laporan disampaikan lewat surat bernomor 026/VICI-CORSEC/IX/2026 tertanggal 11 September 2026 yang ditandatangani Direktur VICI, Erwan Irawan Noer.",
+   "Menyusul pengunduran diri tersebut, Perseroan menyatakan akan menyelenggarakan Rapat Umum Pemegang Saham (RUPS) untuk menindaklanjuti hal ini, sesuai ketentuan peraturan pasar modal yang berlaku. Dokumen ini belum merinci tanggal pelaksanaan RUPS tersebut. VICI juga menegaskan bahwa peristiwa ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan.",
+   "VICI bergerak di industri sabun dan bahan pembersih rumah tangga serta kosmetik untuk manusia, termasuk pasta gigi. Kantor pusat perusahaan berada di Puri Indah Financial Tower, Jakarta Barat, dengan pabrik di Kawasan Industri Candi, Semarang, Jawa Tengah."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a long table, leather chairs, and a city skyline visible through floor-to-ceiling windows, soft morning light",
+  "takeaway": "Laporan ini condong netral, karena pengunduran diri dua komisaris tidak disertai indikasi masalah keuangan atau operasional, dan perusahaan sendiri menyatakan tidak ada dampak terhadap kegiatan usahanya. Yang tersentuh bukan angka keuangan seperti laba atau arus kas, melainkan susunan dewan pengawas perusahaan, sebab Komisaris Independen bertugas mengawasi kinerja direksi secara independen dari pemegang saham mayoritas, sehingga kekosongan dua kursi sekaligus untuk sementara mengurangi kapasitas pengawasan itu sampai ada pengganti. Yang perlu dipantau adalah Rapat Umum Pemegang Saham yang akan digelar Perseroan untuk menetapkan pengganti kedua posisi tersebut, meski dokumen ini belum menyebutkan tanggal pelaksanaannya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "saham-king-melonjak-7-49-manajemen-sebut-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "Saham KING Melonjak 7,49%, Manajemen Sebut Tak Ada Info [Material]",
+  "deck": "Direksi PT Hoffmen Cleanindo Tbk menyatakan tidak ada informasi material yang mendasari lonjakan harga dan volume transaksi saham KING awal September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T18:59:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ba0275e3db_9447d9c280.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KING",
+  "tags": [
+   "KING",
+   "Hoffmen Cleanindo",
+   "UMA",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Hoffmen Cleanindo Tbk (KING) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menyusul permintaan otoritas bursa untuk menjelaskan lonjakan volatilitas transaksi sahamnya. Berdasarkan surat penjelasan yang ditandatangani Presiden Direktur Rudy Japarto pada 11 September 2026, aktivitas perdagangan saham KING melonjak menjadi 5.950.900 lembar saham dengan frekuensi 1.558 kali transaksi, dibandingkan hari bursa sebelumnya yang hanya 598.600 lembar dengan 45 kali transaksi. Harga saham juga ditutup naik Rp28 atau 7,49 persen, dari Rp374 menjadi Rp402.",
+   "Menjawab enam poin pertanyaan standar yang diajukan Bursa, manajemen KING menyatakan tidak memiliki informasi atau fakta material apa pun yang dapat memengaruhi nilai efek maupun keputusan investasi pemodal, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 maupun ketentuan Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui adanya aktivitas khusus dari pemegang saham tertentu, dan menyatakan tidak ada rencana aksi korporasi yang akan memengaruhi pencatatan sahamnya di bursa dalam tiga bulan ke depan.",
+   "Terkait rencana pemegang saham utama dan pengendali, Corporate Secretary KING menyampaikan bahwa berdasarkan konfirmasi yang diperoleh, belum ada rencana dari pemegang saham utama untuk mengubah kepemilikan sahamnya di perusahaan."
+  ],
+  "fotoAdegan": "Close-up of a broker's hands typing rapidly on a keyboard at a busy stock trading desk, blurred monitors in the background, Jakarta",
+  "takeaway": "Laporan ini netral bagi Hoffmen Cleanindo, karena isinya semata konfirmasi bahwa tidak ada informasi rahasia di balik lonjakan harga sahamnya, bukan sinyal soal kinerja atau rencana bisnis baru. Kenaikan harga 7,49 persen dan volume transaksi yang naik lebih dari sepuluh kali lipat dalam sehari memang mencolok, tapi surat semacam ini, yang biasa disebut penjelasan Unusual Market Activity atau UMA, adalah semacam alarm otomatis dari bursa begitu harga bergerak di luar kebiasaan, bukan laporan yang menyentuh ekuitas, arus kas, beban bunga, atau laba per saham perusahaan. Yang perlu dipantau adalah apakah lonjakan transaksi ini berulang pada hari-hari perdagangan berikutnya, sebab kalau polanya berlanjut, Bursa berpotensi mengirim permintaan penjelasan lanjutan atau memasukkan KING ke daftar pemantauan khusus.",
+  "sentimen": "netral"
  },
  {
   "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",

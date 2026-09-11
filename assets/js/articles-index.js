@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
+  "category": "Aksi Korporasi",
+  "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
+  "deck": "NICE menjelaskan ke BEI: laba semester I 2026 naik 80,8% ke Rp170,14 miliar, tapi arus kas operasi minus Rp106,48 miliar akibat denda kehutanan Rp185,93 miliar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "laporan keuangan",
+   "arus kas",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f763dff22b_fce51aab52.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akra-paparkan-kinerja-semester-i-lahan-jiipe-terjual-58-hektare",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Paparkan Kinerja Semester I, Lahan [JIIPE] Terjual 58 Hektare",
+  "deck": "Dalam public expose 8 September 2026, AKR Corporindo memaparkan penjualan lahan JIIPE sekitar 58 hektare, ROE 7%, dan realisasi capex Rp546 miliar dari target Rp1 triliun.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "Public Expose",
+   "JIIPE"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c9d2b042_6e1d16efe7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "vici-teken-kredit-rp270-65-miliar-dari-bni-gantikan-fasilitas-bca",
+  "category": "Aksi Korporasi",
+  "title": "VICI Teken Kredit [Rp270,65 Miliar] dari BNI, Gantikan Fasilitas BCA",
+  "deck": "Victoria Care Indonesia menandatangani lima fasilitas kredit dari Bank BNI senilai Rp270,65 miliar, setara 24,78 persen ekuitas, untuk modal kerja dan pengalihan pinjaman dari BCA.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "kredit perbankan",
+   "Bank BNI",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4912b009c_bd05e62b6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-rencanakan-rights-issue-rp100-miliar-dilusi-50",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Rencanakan [Rights Issue] Rp100 Miliar, Dilusi 50%",
+  "deck": "Leyand International (LAPD) berencana menerbitkan hingga 2 miliar saham baru lewat rights issue kedua, disetor pengendali JSI Sinergi Mas via aset tambang batu bara senilai Rp44,4 miliar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75095f685b_927d47843a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
   "category": "Aksi Korporasi",
   "title": "PRDA [Buyback] Saham Tembus 9,8 Juta Lembar per 11 September",
@@ -261,6 +325,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "grph-balas-bursa-beban-gaji-naik-68-lampaui-pendapatan",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Balas Bursa: [Beban] Gaji Naik 68%, Lampaui Pendapatan",
+  "deck": "Griptha Putra Persada menjawab surat permintaan penjelasan BEI soal lonjakan beban gaji, piutang usaha, dan koreksi laporan keuangan periode pembanding.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRPH",
+   "Griptha Putra Persada",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8bc6d0d70_e871d425c0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
   "category": "Aksi Korporasi",
   "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
@@ -274,6 +354,22 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260911145807-64381-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mapi-cetak-laba-rp1-45-triliun-di-semester-i-2026-naik-27",
+  "category": "Aksi Korporasi",
+  "title": "MAPI Cetak Laba [Rp1,45 Triliun] di Semester I 2026, Naik 27%",
+  "deck": "Laporan keuangan interim terkoreksi MAPI menunjukkan pendapatan naik 23 persen dan laba bersih naik 27 persen pada semester I 2026, sementara utang bank melonjak 35 persen.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MAPI",
+   "laporan keuangan",
+   "ritel",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260911150925-64360-0/FinancialStatement-2026-II-MAPI.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6413,102 +6509,6 @@ var ARTICLES = [
    "BUMN Konstruksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3bb0d270f4_d522492d7e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lrna-bantah-ada-informasi-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "LRNA Bantah Ada Informasi Material di Balik [Volatilitas] Sahamnya",
-  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia atas lonjakan transaksi sahamnya, LRNA menyatakan tidak memiliki informasi material yang belum diungkap ke publik.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LRNA",
-   "volatilitas saham",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6ad1e6b632_48499cfa9d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmri-pefindo-afirmasi-idaaa-outlook-obligasi-jadi-positif",
-  "category": "Aksi Korporasi",
-  "title": "BMRI: Pefindo afirmasi idAAA, outlook obligasi jadi [positif]",
-  "deck": "Pefindo mempertahankan peringkat tertinggi idAAA untuk delapan seri obligasi Bank Mandiri dan menaikkan outlooknya menjadi positif, sinyal potensi kenaikan peringkat setahun ke depan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMRI",
-   "Pefindo",
-   "obligasi",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c1b8547b05_df4df77c5e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pngo-jawab-bursa-free-float-tinggal-0-52-refloat-belum-pasti",
-  "category": "Aksi Korporasi",
-  "title": "PNGO Jawab Bursa: Free Float Tinggal 0,52%, [Refloat] Belum Pasti",
-  "deck": "Usai tender wajib, pengendali baru AEP Pinago Plantations kuasai 99,48% saham dan menyisakan free float 0,52%. Jadwal serta jumlah saham refloat ke publik belum ditentukan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNGO",
-   "free float",
-   "refloat",
-   "tender offer wajib"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4c32dff408_fbf2fe94c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "incf-grup-defisit-auditor-soroti-going-concern",
-  "category": "Aksi Korporasi",
-  "title": "INCF: Grup Defisit, Auditor Soroti [Going Concern]",
-  "deck": "Auditor menyoroti defisit Rp50,86 miliar dan utang bank Rp253,35 miliar Grup INCF, setelah anak usahanya gagal memenuhi rasio utang dalam perjanjian kredit ke bank BCA.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INCF",
-   "laporan keuangan tahunan",
-   "going concern",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260904174522-64359-0/FinancialStatement-2025-Tahunan-INCF.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indy-rencanakan-pengalihan-saham-treasuri-mulai-18-september",
-  "category": "Aksi Korporasi",
-  "title": "INDY Rencanakan Pengalihan [Saham Treasuri] Mulai 18 September",
-  "deck": "Indika Energy melanjutkan penjualan 7,5 juta saham treasuri yang belum tuntas pada periode Mei-Juli 2026, penjualan lanjutan dimulai 18 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDY",
-   "saham treasuri",
-   "buyback",
-   "Indika Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0cc49058bf_3e9905835c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbca-bukukan-laba-rp29-5-triliun-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "BBCA Bukukan [Laba] Rp29,5 Triliun di Semester I 2026",
-  "deck": "Materi public expose tahunan BBCA menunjukkan laba bersih semester I 2026 naik tipis 1,8 persen menjadi Rp29,5 triliun, sementara margin bunga bersih menyusut ke 5,3 persen.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBCA",
-   "Bank Central Asia",
-   "public expose",
-   "kinerja perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce18433a87_d4159772a0.pdf",
   "sourceLabel": "IDX"
  }
 ];

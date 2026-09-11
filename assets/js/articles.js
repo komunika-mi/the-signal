@@ -3,6 +3,112 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
+  "category": "Aksi Korporasi",
+  "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
+  "deck": "NICE menjelaskan ke BEI: laba semester I 2026 naik 80,8% ke Rp170,14 miliar, tapi arus kas operasi minus Rp106,48 miliar akibat denda kehutanan Rp185,93 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T18:34:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f763dff22b_fce51aab52.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "laporan keuangan",
+   "arus kas",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan BEI Nomor S-11334/BEI.PP2/09-2026 tertanggal 3 September 2026 terkait laporan keuangan interim per 30 Juni 2026. Surat tanggapan bernomor 140/AKP-Corsec/Rep/IX/2026 ini ditandatangani oleh dua direktur perusahaan, Yeon Ho Choi dan Soomin Lee, dan diserahkan ke bursa pada 11 September 2026.",
+   "Poin utama yang dipertanyakan bursa adalah selisih arah antara laba dan arus kas. Laba bersih NICE pada semester I 2026 tercatat Rp170,14 miliar, naik 80,80 persen dari Rp94,10 miliar pada periode yang sama tahun lalu. Namun arus kas dari aktivitas operasi justru minus Rp106,48 miliar, berbalik dari positif Rp31,05 miliar setahun sebelumnya, dan kas di rekening perusahaan per 30 Juni 2026 hanya tersisa Rp17,43 miliar. Manajemen menjelaskan penyebab utamanya adalah pembayaran denda administrasi kawasan hutan sebesar Rp185,93 miliar, mengacu pada Keputusan Menteri Kehutanan Nomor 211 Tahun 2026 tertanggal 2 Maret 2026, ditambah kenaikan modal kerja berupa piutang dan persediaan yang belum berubah jadi kas.",
+   "Soal kemampuan bayar jangka pendek, NICE melaporkan aset lancar Rp351 miliar berbanding liabilitas jangka pendek Rp546 miliar, sehingga rasio lancarnya 64,3 persen, dengan pinjaman bank jangka pendek Rp361 miliar sebagai kontributor utama. Perusahaan menyebut tengah mengevaluasi perpanjangan fasilitas pendanaan tersebut. Di sisi lain, piutang usaha melonjak Rp140,98 miliar atau 258,08 persen, dari Rp54,63 miliar per 31 Desember 2025 menjadi Rp195,61 miliar per 30 Juni 2026, dengan Rp126,74 miliar berumur kurang dari 30 hari dan Rp22,46 miliar berumur 31-60 hari, namun perusahaan tidak membentuk cadangan kerugian kredit karena menilai seluruh piutang tertagih.",
+   "Terkait aspek pertambangan, NICE menyatakan estimasi cadangan bijih nikel masih mengacu pada laporan JORC per 30 Juni 2023 yang disusun Tim Knights, dan belum ada pembaruan hingga saat ini. Untuk kewajiban lingkungan, deposito jaminan reklamasi naik dari Rp39,24 miliar menjadi Rp55,09 miliar dan provisi pascatambang naik dari Rp44,25 miliar menjadi Rp48,56 miliar, sementara realisasi kegiatan reklamasi pada semester I 2026 baru mencapai Rp1,2 miliar."
+  ],
+  "fotoAdegan": "Wide shot of a nickel ore stockpile at an open-pit mine site, heavy excavators loading trucks, dusty tropical daylight, Southeast Sulawesi landscape.",
+  "takeaway": "Laporan ini condong negatif bagi NICE. Laba bersih memang melonjak 80,8 persen, tapi kas dari kegiatan operasional justru minus dan uang tunai di rekening menyusut ke Rp17,43 miliar, tanda bahwa laba di atas kertas belum diikuti uang yang benar-benar masuk ke kas perusahaan. Rasio lancar, yaitu perbandingan aset yang bisa dicairkan dalam setahun terhadap utang yang jatuh tempo dalam setahun, cuma 64,3 persen, artinya aset lancar NICE baru menutup sekitar dua pertiga kewajiban jangka pendeknya, sehingga perusahaan bergantung pada perpanjangan pinjaman bank Rp361 miliar untuk menjaga likuiditas. Piutang usaha yang melonjak 258 persen tanpa cadangan kerugian kredit, yaitu dana cadangan seandainya sebagian piutang macet, menambah risiko kalau penagihan ke pelanggan molor dari jadwal. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 untuk melihat apakah arus kas operasi membaik dan rasio lancar kembali di atas 100 persen, serta kepastian perpanjangan fasilitas pinjaman jangka pendek yang menurut perusahaan masih terus dievaluasi.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "akra-paparkan-kinerja-semester-i-lahan-jiipe-terjual-58-hektare",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Paparkan Kinerja Semester I, Lahan [JIIPE] Terjual 58 Hektare",
+  "deck": "Dalam public expose 8 September 2026, AKR Corporindo memaparkan penjualan lahan JIIPE sekitar 58 hektare, ROE 7%, dan realisasi capex Rp546 miliar dari target Rp1 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T18:29:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e0c9d2b042_6e1d16efe7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKRA",
+  "tags": [
+   "AKRA",
+   "AKR Corporindo",
+   "Public Expose",
+   "JIIPE"
+  ],
+  "body": [
+   "PT AKR Corporindo Tbk melaporkan hasil Public Expose Live 2026 yang diselenggarakan Bursa Efek Indonesia pada Selasa, 8 September 2026, pukul 09.00 sampai 10.00 WIB, dalam rangka peringatan 49 tahun diaktifkannya kembali pasar modal Indonesia. Keikutsertaan dalam acara ini sekaligus menggantikan kewajiban public expose tahunan Perseroan untuk 2026. Acara diikuti sekitar 100 peserta melalui zoom dengan syarat hadir minimal 15 menit, dan presentasi disampaikan oleh Presiden Direktur Haryanto Adikoesoemo, Head of Investor Relation Ignatius Teguh Prayoga, serta Corporate Secretary Arum Pawestri Handayani. Setelah presentasi, Perseroan menggelar konferensi pers yang dihadiri 20 wartawan terakreditasi dari berbagai media.",
+   "Dalam sesi tanya jawab, manajemen memaparkan bahwa pada semester I 2026 pendapatan segmen petroleum tumbuh 39 persen dan bahan kimia tumbuh 26 persen, sementara laba bruto bisnis trading dan distribusi naik 8 persen. Kawasan industri JIIPE mencatat penjualan lahan sekitar 58 hektare, dan pendapatan dari listrik serta utilitas kepada tenant tumbuh 37 persen seiring makin banyak tenant yang beroperasi. Manajemen menyebut ROA (return on asset, ukuran seberapa efisien aset perusahaan menghasilkan laba) Perseroan mencapai 22 persen dan ROE (return on equity, ukuran laba dibanding modal sendiri) sebesar 7 persen pada semester I 2026.",
+   "Untuk belanja modal tahun ini, Perseroan menganggarkan sekitar Rp1 triliun, dengan realisasi sejauh ini Rp546 miliar, kurang lebih sama dengan tahun 2025. Dana tersebut diarahkan untuk menjaga keandalan infrastruktur distribusi BBM dan bahan kimia, serta mendukung pengembangan infrastruktur dan utilitas di JIIPE. Untuk jangka panjang, Perseroan menyebut sedang menjajaki sumber pertumbuhan baru secara bertahap, meliputi utilitas industri, infrastruktur LNG, energi surya, BBM ritel, dan avtur, dengan syarat kelayakan proyek dan disiplin investasi.",
+   "Soal dividen, manajemen menegaskan kebijakan Perseroan adalah membagikan sekurang-kurangnya 30 persen dari laba bersih apabila laba bersih tahunan melebihi Rp50 miliar, dengan tetap memperhitungkan kebutuhan pendanaan, posisi keuangan, dan persetujuan organ Perseroan. Manajemen juga menyebut penerapan skema harga pass through, yaitu fluktuasi harga bahan kimia dan BBM diteruskan secara proporsional ke pelanggan, sebagai salah satu faktor yang menjaga margin usaha di tengah gejolak harga komoditas global, termasuk dampak gangguan di Selat Hormuz."
+  ],
+  "fotoAdegan": "Fuel tanker trucks queued at an industrial port terminal in East Java, workers checking hoses under bright midday sun",
+  "takeaway": "Laporan ini condong positif bagi AKR Corporindo karena data yang dipaparkan menunjukkan pertumbuhan pendapatan di hampir semua lini usaha pada semester I 2026, tanpa ada sinyal pelemahan arus kas atau tekanan pada struktur modal. Pos yang tersentuh di sini adalah profitabilitas, tercermin dari ROA 22 persen dan ROE 7 persen, yaitu ukuran seberapa efisien perusahaan menghasilkan laba dari aset dan dari modal pemegang saham, dan pelaku pasar biasanya mencermatinya karena menunjukkan apakah pertumbuhan pendapatan benar-benar berubah jadi laba, bukan sekadar volume yang membesar. Arus kas juga relevan karena capex baru terealisasi Rp546 miliar dari target sekitar Rp1 triliun, artinya masih ada sekitar separuh anggaran belanja modal yang akan dikeluarkan pada sisa tahun ini. Yang perlu dipantau selanjutnya adalah penyelesaian proses penjualan lahan JIIPE yang menurut manajemen masih berjalan, serta laporan kinerja semester II 2026 nanti yang akan mengonfirmasi apakah pertumbuhan pendapatan petroleum, kimia, dan utilitas ini berlanjut atau hanya efek musiman dari monetisasi lahan.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "vici-teken-kredit-rp270-65-miliar-dari-bni-gantikan-fasilitas-bca",
+  "category": "Aksi Korporasi",
+  "title": "VICI Teken Kredit [Rp270,65 Miliar] dari BNI, Gantikan Fasilitas BCA",
+  "deck": "Victoria Care Indonesia menandatangani lima fasilitas kredit dari Bank BNI senilai Rp270,65 miliar, setara 24,78 persen ekuitas, untuk modal kerja dan pengalihan pinjaman dari BCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T18:13:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4912b009c_bd05e62b6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "kredit perbankan",
+   "Bank BNI",
+   "transaksi material"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) mengumumkan penandatanganan perjanjian fasilitas kredit dengan PT Bank Negara Indonesia (Persero) Tbk pada 9 September 2026. Total nilai fasilitas yang diterima Perseroan mencapai Rp270.652.390.761, setara 24,78 persen dari ekuitas Perseroan berdasarkan laporan keuangan audit per 31 Desember 2025. Transaksi ini tergolong transaksi material menurut Pasal 11 huruf b POJK No. 17/2020, namun dikecualikan dari kewajiban menggunakan jasa penilai independen dan memperoleh persetujuan RUPS, sehingga Perseroan hanya wajib mengumumkan keterbukaan informasi ini kepada pemegang saham.",
+   "Ada lima fasilitas yang diteken. Pertama, fasilitas kredit modal kerja (KMK R/C) dengan limit Rp200 miliar berjangka waktu 12 bulan untuk keperluan modal kerja usaha industri kosmetik. Kedua hingga kelima adalah fasilitas kredit investasi yang seluruhnya digunakan untuk mengambil alih (takeover) fasilitas kredit investasi Perseroan di PT Bank Central Asia Tbk: Rp30,09 miliar berjangka 39 bulan untuk pembelian tanah dan bangunan Puri Indah Financial Tower lantai 10-11, Rp1,09 miliar berjangka 5 bulan untuk pembiayaan interior dan furnitur di lantai yang sama, Rp6,16 miliar berjangka 69 bulan untuk interior dan furnitur di lantai 12, serta Rp33,30 miliar berjangka 96 bulan untuk pembelian tanah dan bangunan di lantai 12.",
+   "Perseroan menyatakan pergantian fasilitas perbankan ini dilakukan untuk menyesuaikan strategi bisnis dan meningkatkan layanan, yang diharapkan mendukung likuiditas serta memperkuat struktur keuangan tanpa dampak negatif terhadap kondisi keuangan secara keseluruhan. Direksi dan Dewan Komisaris juga menegaskan transaksi ini bukan transaksi afiliasi dan tidak mengandung benturan kepentingan sebagaimana diatur dalam POJK No. 42/2020. Dokumen ditandatangani oleh Direktur Erwan Irawan Noer."
+  ],
+  "fotoAdegan": "Workers monitoring an automated cosmetics bottling line inside a factory, stainless steel machinery, bright industrial lighting",
+  "takeaway": "Laporan ini condong netral bagi VICI, karena empat dari lima fasilitas kredit yang diteken sebenarnya adalah pemindahan utang lama dari Bank BCA ke Bank BNI, bukan tambahan utang baru untuk ekspansi usaha. Yang perlu dicermati adalah fasilitas modal kerja baru senilai Rp200 miliar, karena ini berpotensi menambah beban utang jangka pendek Perseroan dan bisa menaikkan beban bunga, yaitu bunga yang harus dibayar perusahaan atas pinjamannya, pada laporan keuangan mendatang. Total seluruh fasilitas mencapai 24,78 persen dari ekuitas Perseroan, yakni modal sendiri perusahaan setelah dikurangi utang, sehingga porsi utang terhadap modal VICI naik cukup berarti meski manajemen mengklaim tidak berdampak negatif. Karena transaksi ini dikecualikan dari kewajiban meminta persetujuan RUPS, tidak ada agenda pemegang saham yang perlu ditunggu terkait hal ini. Yang layak dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah pergantian fasilitas ini benar-benar menambah beban bunga Perseroan atau tetap netral seperti klaim manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-rencanakan-rights-issue-rp100-miliar-dilusi-50",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Rencanakan [Rights Issue] Rp100 Miliar, Dilusi 50%",
+  "deck": "Leyand International (LAPD) berencana menerbitkan hingga 2 miliar saham baru lewat rights issue kedua, disetor pengendali JSI Sinergi Mas via aset tambang batu bara senilai Rp44,4 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T17:37:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75095f685b_927d47843a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "rights issue",
+   "HMETD",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) berencana menambah modal melalui Hak Memesan Efek Terlebih Dahulu II (HMETD II atau rights issue kedua), dengan menerbitkan sebanyak-banyaknya 2.000.000.000 saham baru Seri B bernilai nominal Rp25 per saham. Jumlah itu setara 50,42 persen dari saham Perseroan yang beredar saat ini, yaitu 3.966.350.139 saham Seri A. Harga pelaksanaan yang dipatok sementara adalah Rp50 per saham, sehingga nilai maksimum penerbitan mencapai Rp100 miliar. Jika seluruh jatah terserap, jumlah saham Leyand akan membengkak menjadi sebanyak-banyaknya 5.966.350.139 saham. Dana hasil rights issue rencananya dipakai untuk modal kerja. Persetujuan pemegang saham akan dimintakan dalam RUPSLB pada 20 Oktober 2026, dan pemegang saham yang namanya tercatat di Daftar Pemegang Saham per 25 September 2026 pukul 16.00 WIB berhak menerima hak memesan saham baru tersebut.",
+   "Bagian penting dari rencana ini adalah cara pemegang saham pengendali, PT JSI Sinergi Mas, melaksanakan haknya. JSI tidak menyetor uang tunai, melainkan menyetorkan 59.995 saham PT Bersaudara Sinergi Sejahtera (BSS), setara 99,99 persen dari modal BSS, sebagai pembayaran atas 1.019.999.964 saham baru Leyand. BSS bergerak di jasa penunjang pertambangan, termasuk sebagai kontraktor tambang batu bara. Dengan skema setoran aset ini, Leyand akan menjadi pemegang saham pengendali baru BSS. KJPP Syarif Endang dan Rekan, melalui penilai Endang Sunardi, menilai aset saham BSS itu senilai Rp44,397 miliar per tanggal penilaian 30 Juni 2026.",
+   "Dokumen ini juga mengungkap kondisi keuangan Leyand yang cukup lemah. Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026 yang diaudit Kantor Akuntan Publik Maurice Ganda Nainggolan & Rekan, Perseroan mencatat ekuitas negatif Rp2,65 miliar dan modal kerja bersih negatif Rp26,45 miliar. Nilai setoran aset BSS sebesar Rp44,397 miliar itu setara 44,63 persen dari total aset Perseroan yang tercatat Rp99,47 miliar, sehingga transaksi ini tergolong Transaksi Material dan sekaligus Transaksi Afiliasi karena JSI adalah pengendali Leyand. Karena ekuitas dan modal kerja bersih Perseroan negatif, Leyand dikecualikan dari kewajiban memakai penilai independen untuk uji kewajaran serta dari kewajiban meminta persetujuan RUPS Independen, sesuai pengecualian dalam POJK No. 17/2020. Perseroan menegaskan rencana ini tidak mengubah status pemegang saham pengendali sehingga tidak memicu kewajiban penawaran tender wajib."
+  ],
+  "fotoAdegan": "Heavy excavators and haul trucks working in an open-pit coal mine under an overcast sky, distant workers in safety vests",
+  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, karena jumlah saham beredar bisa melonjak 50,42 persen sementara setoran dari pengendali JSI Sinergi Mas sendiri berupa aset saham tambang, bukan uang tunai, sehingga dana segar yang benar-benar masuk ke kas Leyand bergantung pada seberapa besar publik ikut menyerap haknya. Yang tersentuh adalah ekuitas dan jumlah saham beredar, sebab Leyand saat ini mencatat ekuitas negatif Rp2,65 miliar dan penambahan saham sebesar ini bisa menekan laba per saham ke depan karena laba yang sama harus dibagi ke jumlah saham yang jauh lebih besar. Ada sisi positif juga, penyertaan aset BSS senilai Rp44,4 miliar berpotensi memperbaiki posisi modal Leyand yang selama ini negatif, sekaligus membawa Leyand jadi pengendali baru perusahaan jasa tambang batu bara tersebut. Yang perlu dipantau berikutnya adalah RUPSLB pada 20 Oktober 2026 yang menentukan disetujui atau tidaknya rencana ini, serta harga pelaksanaan dan rasio final HMETD yang baru akan diumumkan lewat prospektus karena harga Rp50 per saham saat ini masih bersifat indikatif.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
   "category": "Aksi Korporasi",
   "title": "PRDA [Buyback] Saham Tembus 9,8 Juta Lembar per 11 September",
@@ -421,6 +527,33 @@ var ARTICLES = [
   "sentimen": "negatif"
  },
  {
+  "slug": "grph-balas-bursa-beban-gaji-naik-68-lampaui-pendapatan",
+  "category": "Aksi Korporasi",
+  "title": "GRPH Balas Bursa: [Beban] Gaji Naik 68%, Lampaui Pendapatan",
+  "deck": "Griptha Putra Persada menjawab surat permintaan penjelasan BEI soal lonjakan beban gaji, piutang usaha, dan koreksi laporan keuangan periode pembanding.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:04:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b8bc6d0d70_e871d425c0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRPH",
+  "tags": [
+   "GRPH",
+   "Griptha Putra Persada",
+   "laporan keuangan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Griptha Putra Persada Tbk (GRPH) menyampaikan tanggapan resmi atas surat Permintaan Penjelasan Bursa Efek Indonesia Nomor S-11451/BEI.PP1/09-2026, melalui surat bernomor 042/GPP/DIR/SPb/IX/2026 yang ditandatangani Direktur Utama Edwin Leonardo pada 11 September 2026. Bursa sebelumnya mempertanyakan sejumlah pos dalam laporan keuangan per 30 Juni 2026, termasuk lonjakan beban gaji yang jauh melampaui pertumbuhan pendapatan.",
+   "Beban Gaji dan Tunjangan Perseroan naik Rp756,08 juta atau 68,13 persen, dari Rp1,10 miliar pada 30 Juni 2025 menjadi Rp1,86 miliar pada 30 Juni 2026, jauh lebih tinggi dibanding pertumbuhan pendapatan usaha yang hanya 6,73 persen pada periode sama. Padahal jumlah karyawan justru turun dari 70 orang per 31 Desember 2025 menjadi 65 orang per 30 Juni 2026. Perseroan menjelaskan kenaikan itu berasal dari perubahan kebijakan pembayaran THR dan bonus, yang semula dibagikan bertahap sesuai jenjang jabatan kini dibayarkan sekaligus pada awal Juni mulai 2026 untuk seluruh level staf, dan diklaim akan sejalan dengan pertumbuhan pendapatan jika dihitung secara akumulasi setahun penuh.",
+   "Piutang usaha dari pihak ketiga melonjak Rp1,03 miliar atau 511,81 persen, dari Rp202,19 juta menjadi Rp1,23 miliar, yang seluruhnya berasal dari dua pelanggan baru yaitu PT Djarum senilai Rp526,51 juta atas pemesanan hingga 83 kamar per hari selama 21-28 Juni 2026, dan BPS Kudus senilai Rp500,18 juta atas pemesanan 534 kamar fullboard selama 2-13 Juni 2026. Kedua piutang itu sudah lunas masing-masing pada 10 Juli dan 7 Juli 2026. Perseroan juga mengoreksi laporan keuangan periode pembanding 30 Juni 2025, setelah Bursa menemukan selisih Rp227,38 juta pada rincian Beban Umum dan Administrasi akibat akun Biaya Lain-lain yang sempat terhapus dari penyajian, sehingga total beban tersebut direvisi menjadi Rp5,67 miliar.",
+   "Perseroan turut menjelaskan aset dalam penyelesaian senilai Rp6,53 miliar yang merupakan biaya renovasi Ballroom Majesty Palace dan peremajaan kamar hotel, dengan penambahan Rp292,87 juta dan pengurangan Rp758,57 juta sepanjang 2026 akibat realisasi dan reklasifikasi pekerjaan yang telah rampung. Renovasi ditargetkan selesai pertengahan 2027 dan tetap berjalan paralel dengan operasional hotel. Adapun utang usaha jatuh tempo 1-30 hari sebesar Rp121,33 juta disebut tidak memiliki dampak material maupun sengketa hukum, dan Perseroan menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers renovating a hotel ballroom interior with scaffolding and covered flooring, tall windows letting in daylight",
+  "takeaway": "Laporan ini condong negatif bagi GRPH, sebab dua hal yang diungkapkan justru menambah keraguan, bukan meredakannya: beban gaji naik 68 persen saat pendapatan cuma tumbuh 6,73 persen, dan Perseroan mengakui ada angka Rp227,38 juta yang sempat hilang dari laporan keuangan periode sebelumnya sehingga harus dikoreksi ulang. Kenaikan beban yang lebih cepat dari pendapatan berarti sebagian laba operasional tergerus meski jumlah karyawan berkurang, sementara koreksi laporan keuangan periode pembanding menyangkut keandalan pencatatan yang selama ini jadi rujukan investor menilai kinerja Perseroan. Piutang dari PT Djarum dan BPS Kudus sebenarnya bukan masalah karena keduanya sudah lunas awal Juli, jadi bukan itu yang perlu dikhawatirkan. Yang perlu dipantau berikutnya adalah laporan keuangan tahun penuh 2026, untuk melihat apakah kenaikan beban gaji benar-benar mereda sesuai klaim manajemen, serta progres renovasi Ballroom Majesty Palace yang ditargetkan rampung pertengahan 2027. Konteks ini juga menyusul status UMA dan penghentian sementara perdagangan saham GRPH yang sudah lebih dulu membuat bursa meningkatkan pengawasan terhadap Perseroan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
   "category": "Aksi Korporasi",
   "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
@@ -445,6 +578,32 @@ var ARTICLES = [
   "fotoAdegan": "Rolls of brown packaging paper stacked in an industrial warehouse, a forklift moving pallets under dim factory lighting",
   "takeaway": "Laporan ini condong negatif bagi SWAT, karena auditor memberi opini dengan pengecualian akibat sekitar Rp29 miliar utang bank yang belum tercatat, ditambah peringatan tegas soal kelangsungan usaha akibat rugi yang terus membesar. Pos yang tersentuh adalah ekuitas dan arus kas, rugi bersih tahun ini menambah akumulasi kerugian menjadi Rp334,02 miliar yang berarti modal pemegang saham terus tergerus, sementara kas yang bisa dipakai membayar tagihan hanya tersisa Rp2,37 miliar, anjlok dari Rp8,45 miliar setahun sebelumnya. Cadangan piutang tak tertagih yang mencapai sekitar 69 persen dari total piutang usaha juga menandakan perseroan kesulitan menagih uang dari pelanggannya. Yang perlu dipantau berikutnya adalah penyelesaian rekonsiliasi utang bank dengan BWS dan BNI yang masih berjalan saat laporan audit terbit pada 4 September 2026, serta langkah konkret manajemen menjaga kelangsungan usaha seperti disinggung dalam catatan 35 laporan keuangan.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "mapi-cetak-laba-rp1-45-triliun-di-semester-i-2026-naik-27",
+  "category": "Aksi Korporasi",
+  "title": "MAPI Cetak Laba [Rp1,45 Triliun] di Semester I 2026, Naik 27%",
+  "deck": "Laporan keuangan interim terkoreksi MAPI menunjukkan pendapatan naik 23 persen dan laba bersih naik 27 persen pada semester I 2026, sementara utang bank melonjak 35 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:44:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260911150925-64360-0/FinancialStatement-2026-II-MAPI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MAPI",
+  "tags": [
+   "MAPI",
+   "laporan keuangan",
+   "ritel",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Mitra Adiperkasa Tbk (MAPI) menyampaikan koreksi atas laporan keuangan interim untuk periode enam bulan yang berakhir 30 Juni 2026. Pendapatan bersih perseroan tercatat Rp24,16 triliun, naik 23,4 persen dibanding Rp19,58 triliun pada semester I 2025, ditopang penjualan eceran dan grosir yang naik dari Rp18,74 triliun menjadi Rp23,26 triliun. Laba bersih periode berjalan mencapai Rp1,45 triliun, naik 26,6 persen dari Rp1,15 triliun, dengan bagian yang menjadi hak pemilik entitas induk sebesar Rp1,22 triliun, naik dari Rp964,18 miliar. Laba per saham dasar naik dari Rp58 menjadi Rp74.",
+   "Dari sisi neraca, total aset MAPI per 30 Juni 2026 mencapai Rp35,43 triliun, naik dari Rp32,82 triliun pada akhir 2025, sementara ekuitas naik dari Rp17,21 triliun menjadi Rp18,74 triliun. Kas dan setara kas justru turun dari Rp5,04 triliun menjadi Rp4,42 triliun, seiring utang bank yang melonjak 35 persen dari Rp2,87 triliun menjadi Rp3,88 triliun. Perseroan juga menempatkan uang muka akuisisi saham senilai Rp528,3 miliar serta tambahan investasi pada entitas asosiasi sebesar Rp87,5 miliar, dua pos baru yang tidak muncul pada periode sebelumnya.",
+   "Arus kas dari aktivitas operasi mencapai Rp1,44 triliun, lebih dari dua kali lipat dibanding Rp724,53 miliar pada semester I 2025. Arus kas investasi menyerap Rp1,65 triliun, termasuk belanja modal Rp746,55 miliar, sedangkan arus kas pendanaan menyerap Rp428,4 miliar, termasuk pembayaran dividen Rp201,56 miliar yang di antaranya Rp35,56 miliar mengalir ke pemegang kepentingan non pengendali. Laporan ditandatangani pada 8 September 2026 oleh Presiden Direktur H.B.L. Mantiri dan Direktur Sjeniwati Gusman, dengan opini wajar tanpa modifikasian dari hasil reviu terbatas."
+  ],
+  "fotoAdegan": "Shoppers browsing racks of clothing and footwear inside a busy shopping mall retail store in Jakarta, soft afternoon light",
+  "takeaway": "Laporan ini condong positif bagi MAPI karena pendapatan dan laba bersih sama-sama tumbuh dua digit dan laba per saham naik dari Rp58 menjadi Rp74, sementara arus kas dari operasi naik dua kali lipat, jauh melebihi laju kenaikan utang bank yang juga terjadi. Pos yang tersentuh di sini adalah ekuitas, yaitu modal pemilik perusahaan setelah dikurangi seluruh utang, yang naik dari Rp17,21 triliun menjadi Rp18,74 triliun karena laba ditahan bertambah, dan arus kas, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha, yang menguatnya berarti penjualan benar-benar berubah jadi uang tunai, bukan sekadar angka pembukuan. Yang perlu dipantau berikutnya adalah realisasi uang muka akuisisi saham senilai Rp528,3 miliar yang ditempatkan pada semester ini, apakah akan berlanjut menjadi transaksi akuisisi penuh, serta apakah kenaikan utang bank sebesar 35 persen menjadi Rp3,88 triliun akan terus berlanjut atau mulai mereda pada semester kedua.",
+  "sentimen": "positif"
  },
  {
   "slug": "aces-target-tambah-40-50-toko-neka-sepanjang-2026",

@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "soho-tanggapi-bursa-ungkap-evaluasi-pemenuhan-free-float",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Tanggapi Bursa, Ungkap Evaluasi Pemenuhan [Free Float]",
+  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SOHO menyatakan tidak ada informasi material yang belum diungkap, tapi tengah mengevaluasi cara memenuhi syarat saham beredar publik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T11:33:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9221fd2ad9_b609eda88d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOHO",
+  "tags": [
+   "SOHO",
+   "free float",
+   "volatilitas saham",
+   "Soho Global Health"
+  ],
+  "body": [
+   "PT Soho Global Health Tbk merespons surat Bursa Efek Indonesia nomor S-11503/BEI.PP2/09-2026 tanggal 9 September 2026 yang meminta penjelasan atas volatilitas transaksi saham berkode SOHO. Melalui surat balasan nomor 580/SOHO-IDX/IX/2026 tertanggal 11 September 2026 yang ditandatangani Yuliana Tjhai selaku Direktur, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik dan dapat memengaruhi harga sahamnya, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham. Namun perseroan mengakui sedang mengevaluasi berbagai alternatif langkah untuk memenuhi ketentuan Bursa mengenai jumlah saham beredar bebas atau free float. Sampai tanggal surat ini, belum ada keputusan final soal bentuk, mekanisme, maupun waktu pelaksanaan langkah tersebut, dan perseroan berjanji akan menyampaikan perkembangan begitu ada keputusan yang wajib diungkapkan.",
+   "Terkait rencana pemegang saham utama, perseroan mengonfirmasi telah meminta keterangan dari dua pihak yang menguasai minimal 20 persen hak suara. Eng Liang Tan, selaku penerima manfaat akhir atas kepemilikan saham lewat Tiberias 96 Pty Ltd dan Cascade Creek Pty Ltd, menyatakan tidak berencana mengubah kepemilikannya dan tetap ingin mempertahankan posisi mayoritasnya di perseroan. Sementara itu, Medisia Investment Holdings Pte. Ltd. menyatakan tidak berencana menjual sahamnya di SOHO dalam waktu dekat."
+  ],
+  "fotoAdegan": "Workers in white coats checking rows of packaged medicine boxes on tall warehouse shelves, forklift passing by, bright industrial lighting",
+  "takeaway": "Kami menilai laporan ini netral bagi fundamental SOHO, karena isinya konfirmasi rutin bahwa tidak ada informasi tersembunyi, ditambah kepastian dari dua pemegang saham utama bahwa mereka tidak berniat mengurangi kepemilikannya dalam waktu dekat. Yang perlu dicermati adalah soal free float, yaitu porsi saham yang beredar bebas di tangan publik di luar pemegang saham pengendali, karena Bursa mensyaratkan minimal proporsi tertentu agar saham tetap tercatat dengan baik. Jika perseroan akhirnya memilih menerbitkan saham baru untuk menambah free float, jumlah saham beredar akan bertambah dan berpotensi menurunkan laba per saham setiap pemegang saham lama, sedangkan jika jalan keluarnya lewat penjualan sebagian saham milik pengendali, jumlah saham beredar tidak berubah dan yang bergeser hanya komposisi kepemilikan. Yang perlu dipantau selanjutnya adalah pengumuman resmi berikutnya ke Bursa begitu perseroan menetapkan bentuk, mekanisme, dan jadwal pemenuhan ketentuan free float ini, karena surat kali ini belum menyebutkan tenggat waktunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "asbi-presiden-direktur-mundur-bertepatan-rupslb-30-september",
+  "category": "Aksi Korporasi",
+  "title": "ASBI: Presiden Direktur [Mundur] Bertepatan RUPSLB 30 September",
+  "deck": "Hastanto Sri Margi Widodo mundur dari kursi Presiden Direktur merangkap Direktur Teknik ASBI, efektif 30 September 2026, bertepatan dengan RUPSLB perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T11:16:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75aa7c73ce_21857a0272.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASBI",
+  "tags": [
+   "ASBI",
+   "pengunduran diri direksi",
+   "RUPSLB",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Asuransi Bintang Tbk (ASBI) resmi menerima surat pengunduran diri Hastanto Sri Margi Widodo dari jabatan Presiden Direktur merangkap Direktur Teknik pada 9 September 2026. Pengunduran diri ini berlaku efektif 30 September 2026, persis bersamaan dengan tanggal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang telah direncanakan perusahaan. Perusahaan melaporkan kejadian ini kepada Bursa Efek Indonesia pada 11 September 2026.",
+   "Dalam suratnya, Hastanto menyebut pengunduran diri diambil setelah mempertimbangkan kondisi kesehatan yang memerlukan perhatian lebih, untuk menghindari kemungkinan pemburukan. Merujuk Pasal 94 UU Nomor 40 Tahun 2007 serta Pasal 9 dan 27 POJK Nomor 33/POJK.04/2014, pemberhentian direksi harus disetujui lewat RUPS. Karena itu, perusahaan akan mengajukan persetujuan pengunduran diri ini sebagai mata acara pertama dalam RUPSLB tanggal 30 September 2026.",
+   "Perusahaan menegaskan kejadian ini tidak berdampak negatif signifikan terhadap operasional harian, dengan tata kelola dan kepemimpinan operasional tetap berjalan di bawah koordinasi jajaran direksi yang tersisa. Direksi dan pemegang saham juga menyatakan pengunduran diri ini tidak mengubah rencana strategis maupun komitmen keberlangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with a long table and rows of chairs, soft morning light through large windows, no people",
+  "takeaway": "Pengunduran diri ini condong negatif bagi ASBI, sebab pucuk pimpinan perusahaan mundur tepat di tengah rangkaian gejolak direksi yang sudah bergulir sejak awal September, meski alasan resmi yang disampaikan adalah kesehatan pribadi. Yang tersentuh di sini adalah kepemimpinan dan tata kelola perusahaan, bukan angka di laporan keuangan, dan pelaku pasar biasanya mencermati pergantian direksi karena bisa mengubah arah strategi serta menambah ketidakpastian sampai susunan direksi baru terbentuk. Yang perlu dipantau adalah RUPSLB tanggal 30 September 2026, saat pengunduran diri ini diajukan sebagai agenda pertama sekaligus kemungkinan diumumkannya calon pengganti Presiden Direktur.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "mdla-marjin-kotor-turun-ke-9-3-meski-pendapatan-naik-10-1",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Marjin Kotor [Turun] ke 9,3% Meski Pendapatan Naik 10,1%",
+  "deck": "Public expose MDLA ungkap marjin kotor turun ke 9,3% pada semester I 2026, porsi saham publik 16,89% penuhi syarat minimum, dan penjualan alat kesehatan tumbuh 34%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T11:03:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a63dfb90c7_c6069b5274.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "public expose",
+   "marjin kotor"
+  ],
+  "body": [
+   "PT Medela Potentia Tbk (MDLA) menyampaikan hasil public expose tahunan yang digelar Selasa, 8 September 2026, pukul 15.00 sampai 16.00 WIB secara daring melalui Public Expose Live 2026 di situs Bursa Efek Indonesia. Acara dihadiri Direktur Utama Juliwaty, Direktur Edbert Orotodan, Direktur Wimala Widjaja, dan Investor Relations Harris Lesmana, serta diikuti 68 analis, investor, dan media di luar manajemen dan karyawan perseroan.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan pendapatan semester I 2026 tumbuh 10,1 persen, tetapi laba kotor hanya naik 6,8 persen sehingga marjin kotor turun dari 9,6 persen menjadi 9,3 persen. Perseroan menyebut penyebabnya adalah perubahan komposisi produk yang terjual, kondisi pasar, tingkat kompetisi, dan strategi komersial di masing-masing lini produk, namun tidak merinci berapa persen penurunan itu berasal dari masing-masing faktor tersebut.",
+   "Soal struktur pemegang saham, manajemen menyatakan porsi saham yang beredar di publik atau free float saat ini sebesar 16,89 persen, sudah di atas syarat minimum 15 persen yang harus dipenuhi hingga 31 Maret 2028. Perseroan juga menegaskan belum ada rencana rights issue atau penambahan modal dengan hak memesan efek terlebih dahulu dalam waktu dekat.",
+   "Untuk segmen alat kesehatan, manajemen melaporkan penjualan produk buatan sendiri tumbuh sekitar 34 persen pada semester I 2026, didorong kenaikan jangkauan distribusi 12 persen dan output produksi 8 persen. Ke depan, perseroan berencana meluncurkan sekitar 4 sampai 5 merek baru di kategori perawatan luka dan peralatan ruang operasi, serta memperluas ekspor yang saat ini sudah menjangkau Kamboja dan Timor Leste ke kawasan ASEAN dan Afrika, sembari mengembangkan bisnis internasional lewat Dynamic Argon Cambodia dan ekosistem digital GoApotik."
+  ],
+  "fotoAdegan": "Technicians in lab coats and gloves assembling medical equipment components on a factory line under bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi emiten karena sinyal positif dan negatif saling menyeimbangkan, bisnis tumbuh tapi efisiensinya justru menyusut. Marjin kotor adalah selisih antara harga jual dan biaya pokok produk sebelum dipotong biaya operasional lain, jadi penurunannya dari 9,6 persen ke 9,3 persen berarti setiap rupiah penjualan menyisakan laba kotor yang lebih tipis meski omzet membesar. Penopangnya ada di segmen alat kesehatan yang tumbuh 34 persen, karena produk buatan sendiri biasanya memberi marjin lebih tebal dibanding bisnis distribusi biasa, sehingga bisa membantu menahan pelemahan profitabilitas jika porsinya terus membesar. Yang perlu dipantau berikutnya adalah laporan keuangan semester penuh 2026 untuk melihat apakah tren penyusutan marjin ini berlanjut, serta tenggat 31 Maret 2028 saat perseroan wajib menjaga porsi saham publik tetap di atas 15 persen, sementara posisi saat ini di 16,89 persen masih punya sedikit ruang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
   "category": "Aksi Korporasi",
   "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",

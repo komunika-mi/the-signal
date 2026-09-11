@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "soho-tanggapi-bursa-ungkap-evaluasi-pemenuhan-free-float",
+  "category": "Aksi Korporasi",
+  "title": "SOHO Tanggapi Bursa, Ungkap Evaluasi Pemenuhan [Free Float]",
+  "deck": "Menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, SOHO menyatakan tidak ada informasi material yang belum diungkap, tapi tengah mengevaluasi cara memenuhi syarat saham beredar publik.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOHO",
+   "free float",
+   "volatilitas saham",
+   "Soho Global Health"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9221fd2ad9_b609eda88d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asbi-presiden-direktur-mundur-bertepatan-rupslb-30-september",
+  "category": "Aksi Korporasi",
+  "title": "ASBI: Presiden Direktur [Mundur] Bertepatan RUPSLB 30 September",
+  "deck": "Hastanto Sri Margi Widodo mundur dari kursi Presiden Direktur merangkap Direktur Teknik ASBI, efektif 30 September 2026, bertepatan dengan RUPSLB perusahaan.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASBI",
+   "pengunduran diri direksi",
+   "RUPSLB",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75aa7c73ce_21857a0272.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-marjin-kotor-turun-ke-9-3-meski-pendapatan-naik-10-1",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Marjin Kotor [Turun] ke 9,3% Meski Pendapatan Naik 10,1%",
+  "deck": "Public expose MDLA ungkap marjin kotor turun ke 9,3% pada semester I 2026, porsi saham publik 16,89% penuhi syarat minimum, dan penjualan alat kesehatan tumbuh 34%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Medela Potentia",
+   "public expose",
+   "marjin kotor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a63dfb90c7_c6069b5274.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
   "category": "Aksi Korporasi",
   "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
@@ -6461,54 +6509,6 @@ var ARTICLES = [
    "Bursa Efek Indonesia"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c435ce7c4_d82019adda.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sofa-ekuitas-susut-14-6-auditor-ragukan-kelangsungan-usaha",
-  "category": "Aksi Korporasi",
-  "title": "SOFA: Ekuitas Susut 14,6%, Auditor Ragukan [Kelangsungan Usaha]",
-  "deck": "Laporan keuangan interim semester I 2026 SOFA mencatat rugi tahun berjalan yang membengkakkan akumulasi defisit menjadi Rp16,01 miliar, sementara aset dan ekuitas perseroan sama-sama menyusut.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOFA",
-   "laporan keuangan interim",
-   "going concern",
-   "emiten furnitur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904153632-64354-0/FinancialStatement-2026-II-SOFA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-tetapkan-batas-pencatatan-pemegang-saham-rupslb-18-september",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Tetapkan Batas Pencatatan Pemegang Saham RUPSLB [18 September]",
-  "deck": "Bank BTPN Syariah menjadwalkan RUPSLB pada 13 Oktober 2026 untuk memutuskan rencana buyback saham, dengan batas pencatatan pemegang saham pada 18 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "RUPSLB",
-   "buyback saham",
-   "Bank BTPN Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/86d2c53bf7_97ed4edbeb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-paparkan-laba-naik-282-dan-ekspansi-ke-malaysia",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Paparkan Laba Naik 282% dan Ekspansi ke [Malaysia]",
-  "deck": "Materi Public Expose Tahunan MEDC memuat lonjakan laba bersih 282 persen, penurunan rasio utang, dan rencana ekspansi ke ladang minyak Malaysia.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "Public Expose",
-   "Laba Bersih",
-   "Ekspansi Malaysia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f1d2999d91_9c1190ccf8.pdf",
   "sourceLabel": "IDX"
  }
 ];

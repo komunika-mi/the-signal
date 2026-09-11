@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mind-id-perluas-pemanfaatan-ai-di-rantai-tambang",
+  "category": "BUMN",
+  "title": "MIND ID Perluas Pemanfaatan [AI] di Rantai Tambang",
+  "deck": "MIND ID memperluas penggunaan kecerdasan buatan dari eksplorasi hingga pemantauan emisi untuk memperkuat daya saing industri mineral nasional.",
+  "date": "12 September 2026",
+  "image": "assets/img/mind-id-perluas-pemanfaatan-ai-di-rantai-tambang.jpg",
+  "imageV": "mtxjj168",
+  "tags": [
+   "MIND ID",
+   "AI",
+   "pertambangan",
+   "teknologi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466549-pemanfaatan-ai-upaya-perkuat-daya-saing-industri-mineral"
+ },
+ {
   "slug": "buva-tambah-pinjaman-ke-anak-usaha-jadi-rp27-miliar",
   "category": "Aksi Korporasi",
   "title": "BUVA Tambah Pinjaman ke Anak Usaha Jadi [Rp27 Miliar]",
@@ -6495,21 +6512,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/464922-telkomproperty-pastikan-optimalisasi-aset-properti-tetap-berjalan-sesuai-tata-kelola-dan-memenuhi-prinsip-value-creation"
- },
- {
-  "slug": "jarr-direksi-temmy-iskandar-beli-11-000-saham-perdana",
-  "category": "Aksi Korporasi",
-  "title": "JARR: Direksi Temmy Iskandar [Beli] 11.000 Saham Perdana",
-  "deck": "Direksi Jhonlin Agro Raya, Temmy Iskandar, membeli 11.000 saham JARR pada 28 Agustus 2026 seharga Rp3.310 per lembar, kepemilikan pertamanya di emiten ini.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JARR",
-   "kepemilikan saham",
-   "direksi",
-   "Jhonlin Agro Raya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-5463-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

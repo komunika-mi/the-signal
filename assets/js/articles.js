@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mind-id-perluas-pemanfaatan-ai-di-rantai-tambang",
+  "category": "BUMN",
+  "title": "MIND ID Perluas Pemanfaatan [AI] di Rantai Tambang",
+  "deck": "MIND ID memperluas penggunaan kecerdasan buatan dari eksplorasi hingga pemantauan emisi untuk memperkuat daya saing industri mineral nasional.",
+  "image": "assets/img/mind-id-perluas-pemanfaatan-ai-di-rantai-tambang.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T03:01:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466549-pemanfaatan-ai-upaya-perkuat-daya-saing-industri-mineral",
+  "tags": [
+   "MIND ID",
+   "AI",
+   "pertambangan",
+   "teknologi"
+  ],
+  "body": [
+   "Holding BUMN pertambangan, MIND ID, memperluas pemakaian teknologi kecerdasan buatan (AI) ke hampir seluruh tahapan operasi tambangnya, mulai dari pencarian cadangan mineral, kegiatan penambangan, pengolahan hasil tambang, sampai pemantauan emisi karbon. Langkah ini menjadi bagian dari strategi perusahaan menaikkan nilai tambah sumber daya alam sekaligus menjaga efisiensi operasi di tengah persaingan industri mineral yang makin ketat. Bagi MIND ID, ini juga sinyal bahwa keunggulan perusahaan tambang tidak lagi cukup mengandalkan besarnya cadangan yang dikuasai.",
+   "Wakil Direktur Utama MIND ID Dany Amrul Ichdan menyebut kemampuan membaca data dan menerjemahkannya menjadi keputusan operasional kini menjadi faktor penentu produktivitas dan keandalan tambang. \"Nilai AI bukan pada modelnya. Nilainya adalah pada keputusan yang lebih aman, aset yang lebih andal, penemuan sumber daya yang lebih baik, dan dampak operasional yang lebih rendah,\" kata Dany di Jakarta, Jumat (11/9/2026). Salah satu penerapannya ada di sisi keselamatan pekerja, lewat sistem deteksi kelelahan berbasis AI yang memberi peringatan dini saat operator alat berat menunjukkan tanda kelelahan atau microsleep.",
+   "Di jalur produksi, MIND ID memakai teknologi AI vision untuk memantau kondisi ban berjalan atau conveyor dan mendeteksi lebih awal potensi masalah, seperti belt yang rusak, ukuran material yang tidak sesuai standar, atau material yang tercampur kotoran. Dalam proses pengolahan lanjutan, teknologi machine learning dipakai untuk mengoptimalkan kerja smelter, termasuk pengelolaan tanur pemanas nikel jenis FeNi Rotary Kiln, agar prosesnya lebih stabil dan efisien. Di anak usaha PT Bukit Asam Tbk, integrasi data operasional secara langsung dipakai untuk mempercepat pemantauan proses kerja demi mendongkrak produktivitas.",
+   "Penerapan AI ini bahkan sudah masuk ke tahap paling awal, yaitu pencarian sumber daya, lewat teknologi geologging berbasis AI yang mempercepat analisis inti batuan hasil pengeboran. Data pengeboran yang diolah lebih cepat dan akurat diharapkan membuat keputusan eksplorasi dan investasi tambang punya dasar informasi yang lebih kuat."
+  ],
+  "fotoAdegan": "Mining conveyor belt transporting crushed ore through an industrial processing plant, workers in hard hats monitoring nearby, dusty daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4597dc3661-pemanfaatan-ai-upaya-perkuat-daya-saing-industri-mineral_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cakupan penerapan AI MIND ID yang kini menyentuh hampir semua titik rantai tambang, dari pencarian cadangan lewat geologging, keselamatan operator lewat deteksi kelelahan, pengawasan conveyor lewat AI vision, sampai optimalisasi tanur smelter FeNi Rotary Kiln. Yang langsung kena dampaknya adalah operator alat berat yang kini diawasi sistem deteksi kelelahan, tim produksi di lini pengolahan dan smelter, serta unit usaha seperti PT Bukit Asam yang memakai integrasi data real-time. Yang belum bisa dibaca arahnya adalah seberapa besar dampak nyata program ini, sebab berita ini tidak menyebut angka investasi yang digelontorkan, persentase kenaikan produktivitas, atau target waktu penerapan penuh di seluruh anak usaha MIND ID seperti Antam, Timah, Inalum, dan Freeport Indonesia. Yang perlu ditunggu adalah laporan kinerja operasional atau capaian efisiensi MIND ID pada periode berikutnya, karena di situ baru akan terlihat apakah investasi teknologi ini benar-benar menekan biaya dan menaikkan produksi, atau masih sebatas proyek percontohan di sejumlah unit.",
+  "imageV": "mtxjj168"
+ },
+ {
   "slug": "buva-tambah-pinjaman-ke-anak-usaha-jadi-rp27-miliar",
   "category": "Aksi Korporasi",
   "title": "BUVA Tambah Pinjaman ke Anak Usaha Jadi [Rp27 Miliar]",

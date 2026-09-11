@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",
+  "category": "BUMN",
+  "title": "Peruri Raih [Bintang 5] di Top GRC Awards 2026",
+  "deck": "Peruri kembali meraih predikat tertinggi Bintang 5 dan Golden Trophy di Top GRC Awards 2026, sementara direktur teknologi dan manajemen risikonya meraih penghargaan individu.",
+  "image": "assets/img/peruri-raih-bintang-5-di-top-grc-awards-2026.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:32:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466349-peruri-kembali-raih-top-grc-awards-2026-perkuat-tata-kelola-dan-manajemen-risiko",
+  "tags": [
+   "Peruri",
+   "BUMN",
+   "Tata Kelola",
+   "GovTech Indonesia"
+  ],
+  "body": [
+   "Peruri, badan usaha milik negara yang mengelola percetakan uang dan dokumen berkeamanan tinggi, kembali meraih predikat tertinggi Bintang 5 dalam ajang Top GRC Awards 2026 sekaligus membawa pulang Golden Trophy. Penghargaan ini diberikan dalam acara puncak yang digelar di Hotel Raffles Jakarta pada Rabu, 9 September 2026. Selain penghargaan untuk perusahaan, Direktur Teknologi, Informasi dan Manajemen Risiko Peruri, Farah Fitria Rahmayanti, turut menerima penghargaan individu sebagai The Most Committed GRC Leader 2026.",
+   "GRC adalah singkatan dari Governance, Risk Management, and Compliance, yaitu sistem tata kelola perusahaan yang mengatur bagaimana keputusan diambil, risiko dikelola, dan aturan dipatuhi. Penilaian ini penting bagi Peruri karena perusahaan tidak lagi sekadar mencetak uang dan dokumen negara, tapi juga ditunjuk menjadi motor GovTech Indonesia yang mempercepat transformasi layanan digital pemerintah. Peran baru itu menuntut Peruri bergerak lincah dan cepat, sementara keamanan data dan kepatuhan terhadap aturan tetap harus terjaga.",
+   "Peruri mengklaim menerapkan prinsip keamanan dan privasi sejak tahap perancangan setiap layanan baru, serta mengintegrasikan pengelolaan risiko ke dalam sistem kerja sehari-hari, bukan sekadar dokumen kepatuhan di atas kertas. Farah menyebut pendekatan itu membuat tata kelola menjadi bagian dari strategi bisnis, bukan formalitas, di tengah risiko yang makin kompleks seiring perkembangan teknologi. Predikat Bintang 5 ini, menurut perusahaan, diraih secara konsisten selama beberapa tahun berturut-turut, yang menandakan sistemnya berjalan rutin, bukan hanya persiapan menjelang penilaian.",
+   "Peruri menyebut penguatan tata kelola ini akan semakin dibutuhkan seiring perusahaan memperluas portofolio bisnis dan mengadopsi lebih banyak teknologi, sehingga setiap keputusan baru tetap mempertimbangkan risiko, kepatuhan, dan akuntabilitas."
+  ],
+  "fotoAdegan": "Workers in a high-security printing plant monitoring large industrial presses producing patterned security paper under bright factory lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/11/6aa366a0b75d1-peruri-pertahankan-capaian-di-top-grc-awards-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah predikat, bukan operasi: Peruri mempertahankan skor tertinggi Bintang 5 dan menambah Golden Trophy tahun ini, sementara direktur teknologi dan risikonya mendapat penghargaan personal terpisah. Pihak yang paling terdampak adalah Peruri sendiri sebagai BUMN yang kini merangkap tugas sebagai GovTech Indonesia, karena predikat ini dipakai sebagai bukti bahwa sistem pengamanan data dan pengelolaan risikonya layak dipercaya untuk menopang layanan digital pemerintah. Yang belum terlihat dari berita ini adalah proyek atau layanan digital konkret apa saja yang akan digarap Peruri lewat mandat GovTech Indonesia tersebut, serta bagaimana predikat ini nanti diuji ulang, misalnya lewat penilaian Top GRC Awards tahun berikutnya. Tanpa rincian itu, penghargaan ini baru menunjukkan pengakuan atas sistem yang sudah ada, bukan bukti bahwa perluasan layanan digital pemerintah lewat Peruri sudah benar-benar berjalan.",
+  "imageV": "mtweww5y"
+ },
+ {
+  "slug": "ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah], Ekor Bursa Asia dan Wall Street",
+  "deck": "IHSG dibuka turun 0,55 persen ke 6.552, mengikuti pelemahan bursa Asia-Pasifik dan Wall Street akibat lonjakan harga minyak dan kekhawatiran suku bunga The Fed.",
+  "image": "assets/img/ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:20:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466344-ihsg-dibuka-memerah-dibayangi-pelemahan-serupa-bursa-asia-pasifik-dan-wall-street",
+  "tags": [
+   "IHSG",
+   "harga minyak",
+   "The Fed",
+   "bursa Asia"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) dibuka melemah 36 poin atau 0,55 persen ke level 6.552 pada perdagangan Jumat pagi, 11 September 2026, mengekor pelemahan bursa Asia-Pasifik pada Kamis dan bursa Wall Street pada malam sebelumnya. Pelemahan ini layak dicermati investor karena dipicu dua sentimen global sekaligus, yaitu lonjakan harga minyak dunia dan kekhawatiran The Fed akan menaikkan suku bunga acuan, dua faktor yang biasanya membuat investor asing menarik dananya dari pasar negara berkembang seperti Indonesia.",
+   "Head of Retail Research Analyst Fanny Suherman memperkirakan pelemahan berlanjut. \"Dengan naiknya harga minyak dunia secara signifikan dan potensi The Fed menaikkan suku bunga, IHSG masih berpotensi melanjutkan pelemahan hari ini,\" katanya dalam riset harian. Ia memperkirakan IHSG bergerak dengan batas bawah (support) di rentang 6.530 sampai 6.570 dan batas atas (resistance) di rentang 6.600 sampai 6.620, dua level teknis yang biasa jadi acuan apakah pelemahan akan berhenti atau justru berlanjut.",
+   "Pemicu utama datang dari harga minyak. Bursa Asia-Pasifik melemah pada Kamis seiring meningkatnya serangan terhadap jalur pelayaran di tengah meluasnya konflik Timur Tengah. Harga minyak mentah bertahan di atas US$100 per barel, dengan Brent sempat berada di level US$101,4 per barel, sebelum melonjak sekitar 6 persen menjadi US$107 per barel akibat gangguan pasokan lewat Selat Hormuz dan Laut Merah.",
+   "Tekanan yang sama menjalar ke Wall Street pada Kamis, di mana S&P 500 turun 0,58 persen, Nasdaq melemah 0,65 persen, dan Dow Jones berkurang 0,60 persen. Yield surat utang pemerintah AS bertenor 10 tahun, yaitu tingkat bunga yang harus dijanjikan pemerintah AS agar investor mau membeli surat utangnya, naik ke level tertinggi dalam hampir tiga tahun terakhir akibat kenaikan harga minyak dan data inflasi produsen. Departemen Keuangan AS juga mengumumkan rencana membeli kembali obligasi jangka panjang senilai US$6 miliar, langkah yang lazim dipakai untuk menambah dana tunai di pasar surat utang, namun jumlahnya dianggap terlalu kecil oleh investor yang berharap pembelian dalam skala lebih besar.",
+   "Di kawasan Asia, indeks Nikkei 225 dan Topix Jepang kompak naik 0,2 persen, sementara KOSPI Korea Selatan melemah 0,25 persen meski KOSDAQ naik 0,8 persen. Hang Seng Hong Kong melemah 1,3 persen, Taiex Taiwan turun 0,5 persen, dan ASX 200 Australia berkurang 1,03 persen. The Fed dan Bank of Japan sama-sama dijadwalkan menggelar pertemuan kebijakan pada pekan depan."
+  ],
+  "fotoAdegan": "A heavily loaded container ship passing through a narrow strait with rocky coastlines under a hazy, overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pemicu langsung pelemahan pagi ini adalah lonjakan harga minyak Brent sekitar 6 persen ke US$107 per barel akibat gangguan jalur pelayaran di Selat Hormuz dan Laut Merah, ditambah data inflasi produsen AS yang mendorong yield obligasi pemerintah AS bertenor 10 tahun ke level tertinggi dalam hampir tiga tahun. Kombinasi ini paling terasa bagi investor di pasar saham Indonesia, terutama emiten yang sensitif terhadap kenaikan suku bunga dan biaya energi, serta berpotensi menjalar ke konsumen dalam negeri lewat ongkos energi jika harga minyak mahal ini bertahan. ke depan ada dua kemungkinan arah: jika The Fed benar menaikkan suku bunga pada pertemuannya pekan depan, tekanan jual di pasar negara berkembang seperti IHSG kemungkinan berlanjut menguji batas bawah 6.530, tapi jika The Fed menahan suku bunga, ruang pemulihan ke arah 6.600-6.620 terbuka lebih lebar. Kepastian arah ini baru akan terlihat dari hasil pertemuan kebijakan The Fed dan Bank of Japan pekan depan.",
+  "imageV": "mtwewwkx"
+ },
+ {
+  "slug": "penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak [Tumbuh] 23,7 Persen jadi Rp1.224,3 T",
+  "deck": "Penerimaan pajak Juli 2026 naik 23,7 persen menjadi Rp1.224,3 triliun tanpa kenaikan tarif, sementara defisit APBN melebar ke 0,91 persen PDB.",
+  "image": "assets/img/penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:00:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466335-purbaya-penerimaan-pajak-capai-rp-12243-triliun-di-juli-2026-tumbuh-237-persen",
+  "tags": [
+   "pajak",
+   "APBN",
+   "Kementerian Keuangan",
+   "defisit anggaran"
+  ],
+  "body": [
+   "Menteri Keuangan Purbaya Yudhi Sadewa melaporkan penerimaan pajak sepanjang Januari hingga Juli 2026 mencapai Rp1.224,3 triliun, tumbuh 23,7 persen dibandingkan periode yang sama tahun lalu. Ia menegaskan capaian itu diraih tanpa menaikkan tarif pajak maupun memperkenalkan jenis pajak baru. Pernyataan ini disampaikan di Kementerian Keuangan, Jakarta, Kamis, 10 September 2026.",
+   "Purbaya menjelaskan, kenaikan penerimaan ditopang oleh perbaikan administrasi, pengawasan, dan tata kelola perpajakan, termasuk upaya menutup celah kebocoran dalam sistem pemungutan pajak. Ia menyebut pendekatan ini sebagai cara pemerintah memperluas basis penerimaan tanpa menambah beban baru bagi wajib pajak yang sudah patuh.",
+   "Di sisi belanja, realisasi anggaran negara per Juli 2026 tercatat Rp1.969,6 triliun, tumbuh 18,62 persen secara tahunan. Dengan kombinasi penerimaan dan belanja tersebut, defisit APBN berada di angka Rp235,6 triliun atau setara 0,91 persen produk domestik bruto. Purbaya memperkirakan defisit akan melebar menjadi 2,85 persen PDB pada akhir tahun, dan menyebut desain anggaran saat ini diarahkan agar defisit tetap terkendali hingga Desember.",
+   "Kementerian Keuangan belum mempublikasikan rincian lengkap realisasi APBN untuk Juli dan Agustus 2026, sehingga data resmi paling detail masih mengacu pada realisasi semester I. Per Juni, pendapatan negara tercatat Rp1.459,4 triliun, tumbuh 21,4 persen, dengan penerimaan pajak Rp1.035,7 triliun, penerimaan kepabeanan dan cukai Rp145 triliun, penerimaan negara bukan pajak Rp271 triliun, dan hibah Rp7 miliar. Belanja negara pada periode itu mencapai Rp1.656 triliun, dengan belanja pemerintah pusat sebesar Rp1.298,6 triliun atau tumbuh 29,4 persen, sementara defisit saat itu masih di level 0,76 persen PDB."
+  ],
+  "fotoAdegan": "Clerks assisting a line of visitors at a busy tax service counter inside a government office, fluorescent lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/08/6a9fdb4767f68-menkeu-purbaya-yudhi-sadewa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah penerimaan pajak Juli 2026 naik 23,7 persen dari tahun lalu menjadi Rp1.224,3 triliun, meski pemerintah tidak menaikkan tarif pajak atau membuat pajak baru. Kenaikan itu datang dari pengawasan yang lebih ketat dan penutupan celah pelaporan, jadi yang paling terasa dampaknya adalah wajib pajak yang selama ini bisa lolos dari pemeriksaan, bukan masyarakat umum yang sudah taat. Di sisi lain, defisit anggaran, yaitu selisih antara belanja dan pendapatan negara, melebar dari 0,76 persen produk domestik bruto pada Juni menjadi 0,91 persen pada Juli, dan Purbaya sendiri memperkirakan angka itu akan naik menjadi 2,85 persen pada akhir tahun. Ini mengarah ke pola belanja pemerintah yang biasanya menumpuk di paruh kedua tahun, sehingga defisit melonjak tajam meski penerimaan pajak masih tumbuh dua digit. Yang akan memastikan pola ini adalah rincian resmi realisasi APBN untuk Juli dan Agustus yang belum dipublikasikan Kementerian Keuangan, karena data lengkap terakhir baru sampai Juni.",
+  "imageV": "mtwewx2y"
+ },
+ {
   "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",
   "category": "Bisnis",
   "title": "Izin Kerja TKA Diintegrasi, Terbit Maksimal [4 Hari]",
@@ -28,7 +110,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah tiga sistem perizinan berbeda, yaitu OSS di BKPM, SIAPkerja di Kemnaker, dan aplikasi imigrasi All Indonesia, kini disambungkan jadi satu alur, dengan janji waktu proses sekitar 4 hari per izin dan aturan yang otomatis meloloskan izin kalau lewat 5 hari tanpa keputusan. Yang terdampak langsung adalah perusahaan penanam modal yang mempekerjakan tenaga kerja asing, terutama di sektor industri yang masih bergantung pada keahlian dari luar negeri, karena merekalah yang selama ini harus mengurus izin lewat banyak pintu berbeda. Arahnya sejalan dengan tren deregulasi perizinan investasi sejak PP 28/2025, dari sekadar mempercepat proses menjadi memberi jaminan waktu yang bisa dituntut lewat mekanisme otomatis kalau birokrasi macet. Yang akan menentukan apakah janji ini benar-benar berjalan adalah praktik di lapangan setelah sistem terintegrasi mulai dipakai, misalnya apakah target 4 hari itu benar ditepati atau justru penyambungan tiga sistem berbeda ini menambah titik gagal teknis baru.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "rupslb-hais-sahkan-perubahan-direksi",

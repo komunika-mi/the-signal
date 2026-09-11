@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",
+  "category": "BUMN",
+  "title": "Peruri Raih [Bintang 5] di Top GRC Awards 2026",
+  "deck": "Peruri kembali meraih predikat tertinggi Bintang 5 dan Golden Trophy di Top GRC Awards 2026, sementara direktur teknologi dan manajemen risikonya meraih penghargaan individu.",
+  "date": "11 September 2026",
+  "image": "assets/img/peruri-raih-bintang-5-di-top-grc-awards-2026.jpg",
+  "imageV": "mtweww5y",
+  "tags": [
+   "Peruri",
+   "BUMN",
+   "Tata Kelola",
+   "GovTech Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466349-peruri-kembali-raih-top-grc-awards-2026-perkuat-tata-kelola-dan-manajemen-risiko"
+ },
+ {
+  "slug": "ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street",
+  "category": "Pasar Modal",
+  "title": "IHSG Dibuka [Melemah], Ekor Bursa Asia dan Wall Street",
+  "deck": "IHSG dibuka turun 0,55 persen ke 6.552, mengikuti pelemahan bursa Asia-Pasifik dan Wall Street akibat lonjakan harga minyak dan kekhawatiran suku bunga The Fed.",
+  "date": "11 September 2026",
+  "image": "assets/img/ihsg-dibuka-melemah-ekor-bursa-asia-dan-wall-street.jpg",
+  "imageV": "mtwewwkx",
+  "tags": [
+   "IHSG",
+   "harga minyak",
+   "The Fed",
+   "bursa Asia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466344-ihsg-dibuka-memerah-dibayangi-pelemahan-serupa-bursa-asia-pasifik-dan-wall-street"
+ },
+ {
+  "slug": "penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t",
+  "category": "Makroekonomi",
+  "title": "Penerimaan Pajak [Tumbuh] 23,7 Persen jadi Rp1.224,3 T",
+  "deck": "Penerimaan pajak Juli 2026 naik 23,7 persen menjadi Rp1.224,3 triliun tanpa kenaikan tarif, sementara defisit APBN melebar ke 0,91 persen PDB.",
+  "date": "11 September 2026",
+  "image": "assets/img/penerimaan-pajak-tumbuh-23-7-persen-jadi-rp1-224-3-t.jpg",
+  "imageV": "mtwewx2y",
+  "tags": [
+   "pajak",
+   "APBN",
+   "Kementerian Keuangan",
+   "defisit anggaran"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466335-purbaya-penerimaan-pajak-capai-rp-12243-triliun-di-juli-2026-tumbuh-237-persen"
+ },
+ {
   "slug": "izin-kerja-tka-diintegrasi-terbit-maksimal-4-hari",
   "category": "Bisnis",
   "title": "Izin Kerja TKA Diintegrasi, Terbit Maksimal [4 Hari]",
@@ -6458,54 +6509,6 @@ var ARTICLES = [
    "Raharja Energi Cepu"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/97fcc82ead_a9b59152fb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ratu-jadwalkan-pelaksanaan-pmthmetd-tenggat-mei-2027",
-  "category": "Aksi Korporasi",
-  "title": "RATU Jadwalkan Pelaksanaan PMTHMETD, Tenggat [Mei 2027]",
-  "deck": "RATU menetapkan RUPSLB persetujuan penambahan modal tanpa HMETD pada 8 September 2026, dengan tenggat pelaksanaan saham baru paling lambat 7 Mei 2027.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RATU",
-   "PMTHMETD",
-   "RUPSLB",
-   "penambahan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5c6a8f6ac_f577cd49a4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtsm-ganti-direktur-sukardi-digantikan-wilson-maruli",
-  "category": "Aksi Korporasi",
-  "title": "MTSM Ganti [Direktur], Sukardi Digantikan Wilson Maruli",
-  "deck": "RUPST Metro Realty Tbk menetapkan Wilson Maruli sebagai direktur baru menggantikan Sukardi, sementara jajaran komisaris dan presiden direktur tidak berubah.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTSM",
-   "Metro Realty",
-   "pergantian direksi",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39e09130fa_62a31eedc0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-buka-sementara-perdagangan-supr-untuk-crossing-vto",
-  "category": "Aksi Korporasi",
-  "title": "BEI Buka Sementara Perdagangan SUPR untuk [Crossing] VTO",
-  "deck": "BEI membuka sementara perdagangan saham SUPR di Pasar Negosiasi pukul 14.00-14.15 WIB pada Jumat, khusus untuk transaksi crossing saham hasil tender offer Protelindo.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUPR",
-   "delisting",
-   "tender offer",
-   "Protelindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/72a39e4ead_9d874764cf.pdf",
   "sourceLabel": "IDX"
  }
 ];

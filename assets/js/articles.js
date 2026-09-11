@@ -3,6 +3,424 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 9,8 Juta Lembar per 11 September",
+  "deck": "Prodia membeli kembali 343.600 saham pada 11 September, sehingga total buyback sejak 20 Agustus mencapai 9,81 juta lembar dengan sisa dana Rp123,46 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T17:03:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e2be5e66f_575e623a29.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perusahaan membeli kembali 343.600 lembar sahamnya pada 11 September 2026 dengan harga rata-rata Rp2.811 per saham. Transaksi ini adalah bagian dari program pembelian kembali saham yang berjalan setiap hari bursa sejak 20 Agustus 2026, mengacu pada Pasal 12 ayat 1 Peraturan OJK Nomor 13 Tahun 2023 yang mengizinkan emiten membeli kembali sahamnya tanpa persetujuan RUPS ketika kondisi pasar berfluktuasi signifikan.",
+   "Secara kumulatif, Prodia telah membeli kembali 9.809.400 lembar saham sejak awal program hingga 11 September, setara sekitar 1 persen dari total saham Prodia yang tercatat di Bursa Efek Indonesia. Harga pembelian harian bergerak dari Rp2.474 pada 26 Agustus hingga Rp2.816 pada 9 September, cenderung naik menjelang akhir periode. Dana yang tersisa untuk melanjutkan pembelian tinggal Rp123.461.640.599 pada 11 September, turun dari Rp148.479.715.003 begitu transaksi pertama pada 20 Agustus selesai, atau berkurang sekitar Rp25 miliar sepanjang periode tersebut.",
+   "Laporan ditandatangani oleh Corporate Secretary Prodia, Marina Eka Amalia, yang menyatakan pelaksanaan buyback ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perusahaan. Dibandingkan dengan laporan serupa pada 4 September yang mencatat realisasi 5,02 juta saham, jumlah saham yang dibeli kembali hampir dua kali lipat dalam sepekan terakhir, seiring pembelian harian yang membesar, termasuk 2.616.500 lembar dalam satu hari pada 7 September."
+  ],
+  "fotoAdegan": "Medical laboratory technicians processing blood sample tubes on an automated analyzer line under bright clinical lighting",
+  "takeaway": "Laporan ini netral bagi Prodia karena meski nilai buybacknya melonjak dari pekan sebelumnya, total saham yang dibeli kembali baru sekitar 1 persen dari seluruh saham beredar, belum cukup besar untuk mengubah struktur kepemilikan atau dibaca sebagai sinyal kuat ke pasar. Yang tersentuh dari aksi ini adalah kas perusahaan, yang berkurang sekitar Rp25 miliar sepanjang periode laporan, serta jumlah saham beredar yang mengecil sedikit, sebuah faktor yang diawasi investor karena secara teknis bisa mengerek laba per saham walau labanya sendiri tidak berubah. Yang perlu dipantau berikutnya adalah sisa dana buyback sebesar Rp123,46 miliar yang masih bisa dipakai, serta apakah laju pembelian harian yang belakangan membesar, seperti 2,6 juta saham dalam sehari pada 7 September, akan terus berlanjut hingga dana itu habis atau program dihentikan lebih dulu.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "assa-sewa-lahan-dari-kerabat-presdir-dalam-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Sewa Lahan dari Kerabat Presdir dalam Transaksi [Afiliasi]",
+  "deck": "Anak usaha ASSA, PT Adi Sarana Transportasi, menyewa lahan 5.175 meter persegi milik kerabat Presiden Direktur senilai Rp2 miliar untuk tiga tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:57:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed058ab606_eca465d126.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASSA",
+  "tags": [
+   "ASSA",
+   "transaksi afiliasi",
+   "Adi Sarana Armada",
+   "sewa lahan"
+  ],
+  "body": [
+   "PT Adi Sarana Armada Tbk (ASSA) melaporkan transaksi afiliasi berupa sewa menyewa sebidang tanah seluas 5.175 meter persegi antara Prodjo Djajanto sebagai pemilik lahan dan PT Adi Sarana Transportasi (ASTA), entitas anak yang 99,99 persen sahamnya dimiliki ASSA. Transaksi terjadi pada 9 September 2026 dengan masa sewa selama tiga tahun. Nilai sewa tercatat Rp1.999.999.980, sudah termasuk Pajak Pertambahan Nilai dan akan dipotong Pajak Penghasilan sesuai ketentuan yang berlaku.",
+   "Prodjo Djajanto berstatus pihak terafiliasi karena merupakan saudara kandung Drs. Prodjo Sunarjanto Sekar Pantjawati, Presiden Direktur ASSA, dengan hubungan keluarga derajat kedua garis horizontal. Selain hubungan keluarga itu, ASSA dan ASTA juga memiliki kesamaan jajaran manajemen: Erida menjabat Presiden Komisaris ASSA sekaligus Komisaris ASTA, Drs. Prodjo Sunarjanto Sekar Pantjawati menjadi Presiden Direktur ASSA sekaligus Komisaris Utama ASTA, Tjoeng Suyanto menjabat Direktur ASSA sekaligus Direktur Utama ASTA, Jany Candra menjadi Direktur ASSA sekaligus Komisaris ASTA, dan Jerry Fandy Tunjungan menjabat Direktur ASSA sekaligus Direktur ASTA.",
+   "Perseroan menyebut luas dan lokasi lahan sesuai dengan kebutuhan operasional ASTA, dan penyewaan ini diharapkan memperluas titik jaringan layanan kepada pelanggan. Direksi dengan persetujuan Dewan Komisaris menyatakan transaksi ini tidak mengandung benturan kepentingan sebagaimana diatur dalam POJK 42/2020, sehingga tidak memerlukan persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham. Surat keterbukaan informasi ditandatangani oleh Jerry Fandy Tunjungan selaku Corporate Secretary ASSA."
+  ],
+  "fotoAdegan": "A wide vacant plot of land next to a vehicle fleet yard, rows of rental cars parked under a cloudy sky, mid-morning",
+  "takeaway": "Transaksi ini netral bagi fundamental ASSA karena nilainya, sekitar Rp2 miliar untuk sewa tiga tahun, tergolong kecil dibanding skala usaha grup ASSA yang bergerak di penyewaan kendaraan dan logistik, sehingga sulit dibaca sebagai sinyal penting bagi arah bisnis perseroan. Yang tersentuh adalah pos beban sewa dan arus kas keluar ASTA sebagai anak usaha, dan pasar biasanya mencermati transaksi afiliasi seperti ini karena harga sewa antar pihak berelasi berisiko tidak mencerminkan harga pasar wajar jika tidak diawasi. Perseroan sendiri menegaskan tidak ada benturan kepentingan sesuai POJK 42/2020 sehingga transaksi ini tidak perlu dimintakan persetujuan pemegang saham independen lewat RUPS. Yang layak dipantau selanjutnya adalah realisasi pemanfaatan lahan tersebut oleh ASTA untuk memperluas jaringan layanannya selama masa sewa tiga tahun sejak 9 September 2026, serta apakah muncul transaksi afiliasi lanjutan dengan pihak yang sama di kemudian hari.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "ptmr-akui-salah-saji-laporan-keuangan-janji-revisi-menyeluruh",
+  "category": "Aksi Korporasi",
+  "title": "PTMR akui salah saji laporan keuangan, janji [revisi] menyeluruh",
+  "deck": "Menjawab permintaan penjelasan BEI, Master Print mengakui rentetan kejanggalan pada laporan keuangan semester I 2026 dan berjanji merevisi jumlah saham, piutang, dan aset tetap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:55:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8799e8b4d_79b4c6373d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTMR",
+  "tags": [
+   "PTMR",
+   "Master Print",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Master Print Tbk (PTMR) menjawab surat permintaan penjelasan Bursa Efek Indonesia bernomor S-11442/BEI.PP2/09-2026 tertanggal 8 September 2026 yang mempertanyakan sejumlah kejanggalan pada laporan keuangan interim konsolidasian per 30 Juni 2026. Dalam surat balasan bernomor 098/SP-MP/IX/2026 yang diteken Direktur Edward Kusuma, perseroan mengakui banyak angka di berbagai Catatan atas Laporan Keuangan (CALK) tidak konsisten satu sama lain dan menyatakan akan merevisi laporan keuangan semester I 2026, antara lain terkait persentase kepemilikan anak usaha PT Global Putra Kusuma (GPK), jumlah saham beredar, aset tetap, dan liabilitas imbalan kerja.",
+   "Salah satu temuan bursa adalah kas dan setara kas perseroan yang turun 42,88 persen menjadi Rp1,10 miliar per 30 Juni 2026 dibanding akhir 2025, sementara liabilitas jangka pendek justru naik menjadi Rp35,66 miliar dan arus kas operasi semester I hanya Rp1,37 miliar. Manajemen menyebut penurunan kas terutama disebabkan penambahan piutang pinjaman ke pihak berelasi senilai bersih Rp3,81 miliar dan kenaikan pembayaran pajak penghasilan Rp1,2 miliar. Perseroan juga mengonfirmasi bunga pinjaman kepada pihak berelasi diturunkan dari 12 persen per tahun menjadi 4,5 persen per tahun dengan jatuh tempo baru 30 Juni 2027, kebijakan yang menurut manajemen bertujuan membantu operasional pihak berelasi tersebut. Piutang usaha bruto tercatat Rp19,71 miliar dengan 57,37 persen di antaranya sudah jatuh tempo, sedangkan persediaan naik 48,09 persen menjadi Rp17,62 miliar meski pendapatan turun 8,10 persen menjadi Rp58,19 miliar.",
+   "Bursa juga menyoroti perbedaan jumlah saham ditempatkan dan disetor antara halaman ekuitas yang mencatat 1,472 miliar lembar dan CALK Modal Saham yang mencatat 1,907 miliar lembar, berikut laba per saham yang berbeda antara laporan laba rugi (Rp3,30 dan Rp0,71) dengan CALK Instrumen Keuangan (Rp3,26 dan Rp0,76). Perseroan menegaskan angka yang benar adalah 1.907.000.000 lembar saham dengan modal disetor Rp47.675.000.000, serta laba per saham versi CALK nomor 29, dan akan mengoreksi laporan laba rugi Juni 2026 maupun Juni 2025. Perseroan juga mengakui kekeliruan pada rekonsiliasi uang muka pembelian bruto Rp33,52 miliar dengan penyisihan Rp9,25 miliar, mutasi aset tetap termasuk tanah yang naik dari nihil menjadi Rp2,642 miliar tanpa penjelasan reklasifikasi yang disebutnya sebagai kesalahan, serta liabilitas imbalan kerja yang salah mencantumkan beban Rp959,79 juta pada 2026 padahal seharusnya nihil."
+  ],
+  "fotoAdegan": "Warehouse workers stacking blank cardboard boxes on wooden pallets near packaging machinery, forklift passing by, industrial daylight",
+  "takeaway": "Laporan ini condong negatif bagi PTMR, sebab bukan satu angka yang keliru, melainkan rentetan kesalahan yang merentang dari persentase kepemilikan anak usaha, jumlah saham beredar, aset tetap, sampai liabilitas imbalan kerja, yang menunjukkan lemahnya kontrol atas pelaporan keuangan perusahaan. Arus kas ikut tersentuh karena kas perseroan menipis 42,88 persen di tengah liabilitas jangka pendek yang justru membesar, sementara laba per saham berubah karena revisi jumlah saham beredar dari 1,472 miliar menjadi 1,907 miliar lembar mengubah basis penghitungan bagian laba tiap pemegang saham. Beban dan pendapatan bunga juga perlu dicermati karena bunga pinjaman ke pihak berelasi dipangkas dari 12 persen menjadi 4,5 persen per tahun, yang berarti potensi pendapatan bunga perseroan dari pinjaman tersebut berkurang. Sisi baiknya, laba bruto dan laba tahun berjalan perseroan tetap naik meski pendapatan turun, jadi tekanan utamanya ada pada kualitas pencatatan dan likuiditas, bukan pada profitabilitas inti. Yang perlu dipantau berikutnya adalah penerbitan laporan keuangan hasil revisi yang dijanjikan perseroan, mencakup CALK kepemilikan GPK, piutang lain-lain, aset tetap, modal saham, dan imbalan kerja, karena dari situ baru terlihat angka final yang menjadi acuan kinerja semester I 2026.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "medc-pertahankan-panduan-produksi-2026-meski-1h-lampaui-target",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Pertahankan [Panduan] Produksi 2026 Meski 1H Lampaui Target",
+  "deck": "MedcoEnergi mempertahankan target produksi 2026 di 165-170 mboepd meski semester pertama sudah melampauinya, dan mengkaji opsi monetisasi sebagian saham di Amman Mineral senilai US$2,6 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:52:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c010a1ab_5dd124867d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "Migas",
+   "Amman Mineral",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) menggelar Public Expose Tahunan 2026 pada Rabu, 9 September 2026, secara virtual dan tatap muka, dihadiri lebih dari 211 peserta dari kalangan investor, analis, dan media, dimulai pukul 10.00 WIB. Materi dipaparkan oleh Direktur dan Chief Operating Officer Amri Siahaan serta Direktur dan Chief Financial Officer Benny Setiawan. Untuk kuartal pertama 2026, Perseroan mencatat pendapatan US$668,3 juta, naik 19,2 persen dibanding tahun lalu dan 4,7 persen dibanding kuartal sebelumnya, dengan EBITDA US$351,1 juta dan margin EBITDA 52,5 persen. Laba bersih melonjak menjadi US$67,4 juta dari US$17,6 juta pada kuartal pertama 2025, ditopang kontribusi laba bersih dari Amman Mineral sebesar US$33,5 juta, sementara arus kas operasi naik 29,7 persen dan rasio utang terhadap laba operasional membaik ke 1,7 kali. Secara operasional, produksi minyak dan gas semester pertama 2026 mencapai 170,1 ribu barel ekuivalen minyak per hari, naik 19 persen dibanding tahun lalu, dengan komposisi 72 persen gas dan 28 persen cairan serta cadangan terbukti dan terduga sebesar 542 juta barel ekuivalen. Penjualan listrik tercatat 2.323 gigawatt jam, naik 16,5 persen, dengan energi terbarukan menyumbang sekitar 25 persen dari total penjualan. Peringkat ESG dari MSCI juga naik ke level tertinggi AAA pada 23 Maret 2026, naik tiga peringkat dari BBB sejak 2021.",
+   "Untuk 2026, MedcoEnergi mematok target produksi minyak dan gas 165 hingga 170 ribu barel ekuivalen minyak per hari, penjualan listrik 4.550 gigawatt jam, dan belanja modal US$430 juta. Dalam sesi tanya jawab, pemegang saham Budi Santoso menanyakan mengapa data operasional yang dipaparkan sudah mengacu ke semester pertama 2026 sementara data keuangan masih kuartal pertama. Amri Siahaan menjawab bahwa laporan keuangan semester pertama masih dalam proses audit, dengan batas penyampaian sesuai aturan OJK paling lambat akhir bulan ketiga setelah tanggal laporan. Pemegang saham lain, Hendra Nasution, menanyakan apakah target produksi akan dinaikkan karena realisasi semester pertama sudah melampauinya. Amri Siahaan menegaskan target tetap dipertahankan karena merupakan rata-rata setahun penuh yang memperhitungkan jadwal pemeliharaan dan penurunan alami produksi di semester kedua, dan Perseroan akan mengumumkan ke publik bila ada perubahan material. Yudi Pratama menanyakan apakah hasil keuangan semester pertama akan lebih baik mengingat produksi dan harga minyak yang lebih tinggi di kuartal kedua. Benny Setiawan menjawab belum bisa mengungkap angka pasti karena laporan belum dipublikasikan, namun menyatakan cukup percaya diri hasilnya akan lebih baik.",
+   "Pertanyaan lain dari Irwan Kurniawan menyoroti nilai kepemilikan MedcoEnergi di Amman Mineral yang disebut sekitar US$2,6 miliar, dan menanyakan apakah ada rencana menjual saham tersebut. Benny Setiawan menjawab bahwa kepemilikan itu merupakan investasi strategis yang selama ini memberi kontribusi baik, terutama karena prospek emas dan tembaga masih menjanjikan. Ia menambahkan bahwa opsi untuk memonetisasi sebagian atau seluruh kepemilikan itu selalu ada, namun masih perlu dikaji dari sisi valuasi, waktu yang tepat, dan manfaatnya bagi pemegang saham, dan keputusan material akan diumumkan ke publik bila terjadi.",
+   "Acara dilanjutkan dengan konferensi pers yang dihadiri 14 wartawan selama 15 menit. Amri Siahaan merinci belanja modal 2026 terbagi menjadi US$415 juta untuk lini minyak dan gas serta US$15 juta untuk ketenagalistrikan. Terkait volatilitas harga minyak, ia menjelaskan sekitar 55 persen produksi terekspos harga pasar dan 45 persen dijual dengan harga gas domestik yang tetap, ditambah skema pembagian hasil kontrak kerja sama yang memberikan pemulihan biaya penuh sehingga meredam dampak fluktuasi harga. Benny Setiawan menambahkan bahwa Perseroan terus mengevaluasi peluang akuisisi di Asia Tenggara dan Timur Tengah pada negara yang stabil dengan regulasi yang sudah dipahami, sambil tetap mengandalkan jalur pertumbuhan organik lewat proyek Natuna, Corridor, Senoro, dan Oman."
+  ],
+  "fotoAdegan": "Technicians in coveralls inspecting pipelines at an onshore gas processing facility, tropical morning light, distant flare stack",
+  "takeaway": "Paparan ini condong positif bagi MEDC, karena hampir semua indikator inti membaik dibanding tahun lalu, laba bersih melonjak dari US$17,6 juta menjadi US$67,4 juta, EBITDA dan pendapatan naik, sementara rasio utang terhadap laba operasional turun ke 1,7 kali dan peringkat ESG naik ke level tertinggi AAA. Rasio utang yang mengecil ini penting bagi pelaku pasar karena menunjukkan perusahaan makin ringan menanggung utang dibanding kemampuan operasionalnya menghasilkan laba, sementara arus kas operasi yang naik 29,7 persen berarti kas riil yang masuk dari bisnis bertambah, bukan sekadar laba di atas kertas. Manajemen tetap berhati-hati dengan belum menaikkan target produksi tahun ini meski realisasi semester pertama sudah melampauinya, sambil membuka kemungkinan menjual sebagian saham di Amman Mineral senilai sekitar US$2,6 miliar, meski keduanya masih sebatas wacana tanpa keputusan final. Yang perlu dipantau berikutnya adalah laporan keuangan semester pertama 2026 yang sedang diaudit dan wajib disampaikan paling lambat akhir September 2026, serta kemungkinan pengumuman keputusan material soal monetisasi saham Amman Mineral bila manajemen benar mengambil langkah itu.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "doid-bakal-terima-bagian-dari-dividen-spesial-us-93-juta-asiamet",
+  "category": "Aksi Korporasi",
+  "title": "DOID Bakal Terima Bagian dari [Dividen] Spesial US$93 Juta Asiamet",
+  "deck": "Asiamet Resources, yang 44,15% sahamnya dimiliki DOID, merampungkan penjualan Indokal Limited ke Norin Mining dan menyetujui dividen khusus US$93 juta kepada pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:45:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39c7aca55a_859563ff68.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOID",
+  "tags": [
+   "DOID",
+   "Asiamet Resources",
+   "dividen khusus",
+   "Norin Mining"
+  ],
+  "body": [
+   "PT BUMA Internasional Grup Tbk (DOID) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa entitas asosiasinya, Asiamet Resources Limited, pada 9 September 2026 mengumumkan rampungnya penjualan seluruh kepemilikannya di Indokal Limited kepada Norin Mining (Hong Kong) Limited. DOID memegang 44,15% saham Asiamet. Asiamet sendiri adalah perusahaan publik yang tercatat di AIM Market, Bursa Efek London, sementara Indokal Limited merupakan anak usaha yang sepenuhnya dimiliki Asiamet dan memegang 100% kepemilikan atas proyek tambang Kalimantan Surya Kencana (Proyek KSK).",
+   "Setelah transaksi itu rampung, Direksi Asiamet menyetujui pembagian dividen khusus senilai US$93 juta kepada para pemegang saham Asiamet, termasuk DOID, pada waktu yang belum ditentukan. Dengan posisi kepemilikan 44,15%, secara proporsional DOID berpotensi memperoleh sekitar US$41 juta dari total dividen tersebut, meski angka ini adalah hitungan proporsional dan bukan angka yang secara eksplisit disebut dalam dokumen.",
+   "Dalam laporan yang ditandatangani Direktur Dian Paramita dan disampaikan oleh Corporate Secretary Olga Oktavia Patuwo, DOID menegaskan tidak ada dampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha Perseroan dari peristiwa ini. Laporan disampaikan untuk memenuhi kewajiban keterbukaan informasi sesuai POJK No 31/POJK.04/2015 dan Peraturan I-E BEI."
+  ],
+  "fotoAdegan": "Wide view of an open-pit mine in Kalimantan with excavators and haul trucks under overcast sky, no visible text or signage",
+  "takeaway": "Laporan ini condong positif bagi DOID karena rampungnya penjualan Indokal Limited membuka jalan bagi Asiamet membagikan dividen khusus US$93 juta, dan sebagai pemegang 44,15% saham Asiamet, DOID berpotensi memperoleh bagian proporsional senilai puluhan juta dolar AS dari jumlah itu. Pos yang tersentuh adalah arus kas dari entitas asosiasi, yaitu uang tunai yang bisa mengalir masuk ke DOID dari perusahaan yang sahamnya dipegang tapi tidak dikonsolidasi penuh ke laporan keuangannya, sehingga kalau dividen ini benar dibayarkan, DOID mencatat tambahan kas tanpa perlu melepas aset sendiri. Perseroan sendiri menegaskan tidak ada dampak material terhadap operasional, hukum, atau kondisi keuangannya dari peristiwa ini, yang berarti secara formal transaksi ini terjadi di level Asiamet, bukan langsung di neraca DOID. Yang perlu dipantau selanjutnya adalah kapan Asiamet menetapkan waktu pembagian dividen tersebut, karena dokumen ini hanya menyebut 'pada waktu yang akan ditentukan oleh Asiamet' tanpa tanggal pasti.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "inru-jawab-bei-akui-jadi-tersangka-kasus-pajak-rp2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INRU Jawab BEI, Akui Jadi [Tersangka] Kasus Pajak Rp2 Triliun",
+  "deck": "INRU mengonfirmasi menerima surat penetapan tersangka dari Kejaksaan Agung soal dugaan korupsi transfer pricing Rp2 triliun, dan laporan keuangan kuartal II masih tertunda.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:31:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb92233b16_17483f7b0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INRU",
+  "tags": [
+   "INRU",
+   "Toba Pulp Lestari",
+   "korupsi pajak",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Toba Pulp Lestari Tbk (INRU) mengonfirmasi kebenaran pemberitaan mengenai status perusahaan sebagai tersangka dalam kasus dugaan korupsi transfer pricing yang ditangani Direktorat Jenderal Pajak Kementerian Keuangan, dengan estimasi kerugian negara mencapai Rp2 triliun. Dalam surat tertanggal 11 September 2026 yang ditandatangani Legal & Litigation Section Head Hendry, SH, perusahaan menyatakan awalnya mengetahui status hukum tersebut dari pemberitaan media, sebelum akhirnya menerima Surat Penetapan Tersangka dari Kejaksaan Agung Republik Indonesia pada 9 September 2026. Surat ini merupakan jawaban atas permintaan penjelasan Bursa Efek Indonesia nomor S-11446/BEI.PP3/09-2026 tertanggal 8 September 2026.",
+   "Menjawab pertanyaan Bursa soal dampak terhadap kewajiban pajak, Toba Pulp Lestari menyatakan senantiasa memenuhi kewajiban perpajakan sesuai ketentuan yang berlaku, tanpa merinci potensi tambahan utang pajak atau sanksi administratif yang mungkin timbul. Soal materialitas dampak terhadap kelangsungan usaha, perusahaan menyebut belum mengidentifikasi dampak material tambahan berdasarkan informasi yang telah diverifikasi hingga tanggal surat, meski mengakui operasional perusahaan saat ini belum berjalan normal. Terkait kemungkinan keterlibatan direksi, komisaris, atau karyawan dalam perkara ini, perusahaan hanya menyatakan akan melakukan penelaahan dan verifikasi lebih lanjut, tanpa menyebut nama atau status hukum pihak mana pun. Perusahaan juga mengaku belum memperoleh informasi terverifikasi mengenai nomor perkara atau nama pengadilan yang menangani kasus ini.",
+   "Di luar isu hukum, Bursa juga mempertanyakan keterlambatan penyampaian laporan keuangan interim per 30 Juni 2026 yang seharusnya sudah ditelaah terbatas (limited review). Toba Pulp Lestari menjelaskan laporan tersebut masih dalam proses penyusunan dan penyelesaian limited review, tanpa memberikan target waktu penyampaian yang pasti. Perusahaan menutup surat dengan menyatakan belum ada informasi atau fakta material lain yang wajib diungkapkan kepada publik selain yang telah disampaikan dalam surat ini."
+  ],
+  "fotoAdegan": "Wide view of a pulp and paper mill complex with steam rising from stacks, stacked logs in the foreground, overcast Sumatra sky",
+  "takeaway": "Laporan ini condong negatif bagi Toba Pulp Lestari, sebab penetapan sebagai tersangka korupsi pajak oleh Kejaksaan Agung adalah eskalasi hukum yang nyata, bukan sekadar isu media, sementara perusahaan sendiri hanya bisa menyatakan belum menemukan dampak lanjutan, bukan memastikan tidak ada dampak. Pos yang perlu diawasi pemegang saham adalah kewajiban kontinjensi, yaitu potensi tagihan atau denda baru yang baru tercatat kalau proses hukum ini berlanjut, karena nilai kerugian negara yang disebut, Rp2 triliun, jauh lebih besar dari sekadar catatan administratif biasa. Molornya laporan keuangan kuartal kedua, di tengah pengakuan bahwa operasional pabrik belum berjalan normal, juga menunda kejelasan investor soal kondisi arus kas dan laba perusahaan saat ini. Yang perlu dipantau berikutnya adalah kapan Toba Pulp Lestari akhirnya merilis laporan keuangan per 30 Juni 2026 yang tertunda itu, serta apakah kasus ini naik ke tahap persidangan dengan nomor perkara resmi, sebab sampai surat ini terbit perusahaan mengaku belum punya informasi soal itu.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "tpia-pertahankan-rating-idaa-outlook-positif-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Pertahankan Rating idAA- Outlook [Positif] dari PEFINDO",
+  "deck": "PEFINDO menegaskan peringkat idAA- dengan outlook positif untuk seluruh obligasi berkelanjutan TPIA senilai total sekitar Rp14 triliun, berlaku hingga September 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:30:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12bb4e9a4c_f16f4c00d6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TPIA",
+  "tags": [
+   "TPIA",
+   "PEFINDO",
+   "obligasi korporasi",
+   "Chandra Asri Pacific"
+  ],
+  "body": [
+   "PT Pemeringkat Efek Indonesia (PEFINDO) menegaskan peringkat idAA- dengan outlook positif untuk seluruh obligasi berkelanjutan milik PT Chandra Asri Pacific Tbk (TPIA), mencakup Obligasi Berkelanjutan III, IV, dan V yang diterbitkan bertahap sejak 2020 hingga 2026. Berdasarkan surat PEFINDO Nomor RC-1169/PEF-DIR/IX/2026, total nilai pokok obligasi yang mendapat afirmasi peringkat ini mencapai Rp13,997 triliun, berlaku untuk periode 3 September 2026 sampai 1 September 2027. Keputusan diambil dalam rapat Komite Pemeringkatan PEFINDO pada 3 September 2026 dan hasilnya diterima manajemen TPIA pada 7 September 2026.",
+   "Dua seri obligasi yang jatuh tempo dalam waktu dekat mendapat sertifikat pemantauan terpisah karena periode ratingnya lebih pendek. Obligasi Berkelanjutan IV Tahap III Tahun 2023 Seri A senilai Rp361,48 miliar, yang jatuh tempo 27 September 2026, mendapat rating idAA- untuk periode 3 sampai 27 September 2026. Obligasi Berkelanjutan III Tahap IV Tahun 2021 Seri A senilai Rp266,95 miliar, jatuh tempo 29 Oktober 2026, mendapat rating idAA- untuk periode 3 September sampai 29 Oktober 2026. Selain itu, program Penawaran Umum Berkelanjutan (PUB) V Chandra Asri Pacific Tahun 2025 senilai maksimum Rp6 triliun, yang efektif sejak 30 Desember 2025 dan bisa diterbitkan bertahap sampai 30 Desember 2027, juga memperoleh rating idAA- dengan outlook positif.",
+   "PEFINDO menyusun penilaian ini berdasarkan data dan informasi dari TPIA, laporan keuangan tidak diaudit per 30 Juni 2026, serta laporan keuangan audit per 31 Desember 2025. Dalam suratnya, PEFINDO menjelaskan bahwa peringkat idAA- berarti kemampuan TPIA memenuhi komitmen keuangan jangka panjang atas obligasinya dinilai sangat kuat dibanding emiten lain di Indonesia, dengan tanda minus menunjukkan posisinya relatif berada di bagian bawah kategori tersebut. Perusahaan berkewajiban melaporkan setiap informasi atau fakta material yang bisa memengaruhi hasil pemeringkatan kepada PEFINDO paling lambat dua hari kerja sejak kejadian tersebut, sesuai aturan OJK Nomor 24/POJK/2021."
+  ],
+  "fotoAdegan": "Wide shot of a large petrochemical plant complex with steel pipelines and storage tanks, industrial haze at dusk in Indonesia",
+  "takeaway": "Laporan ini condong positif bagi TPIA karena PEFINDO bukan sekadar mempertahankan peringkat idAA- untuk seluruh obligasinya, tapi juga memberi outlook positif, yang secara umum dibaca pasar sebagai sinyal bahwa peringkat berpotensi naik ke jenjang lebih tinggi pada evaluasi berikutnya. Yang tersentuh di sini adalah beban bunga dan arus kas perusahaan, sebab peringkat kredit yang kuat biasanya membuat bank dan investor obligasi bersedia memberi bunga pinjaman lebih rendah saat TPIA menerbitkan utang baru atau memperpanjang yang lama, sehingga meringankan beban keuangan ke depan. Yang perlu dipantau berikutnya adalah dua obligasi yang jatuh tempo dalam waktu dekat, yaitu Obligasi Berkelanjutan IV Tahap III Seri A senilai Rp361,48 miliar pada 27 September 2026 dan Obligasi Berkelanjutan III Tahap IV Seri A senilai Rp266,95 miliar pada 29 Oktober 2026, apakah keduanya dibayar tepat waktu, serta periode rating yang berlaku sampai 1 September 2027, saat PEFINDO akan mengevaluasi lagi apakah outlook positif ini berubah menjadi kenaikan peringkat.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "heal-manajemen-target-ebitda-ikn-positif-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Manajemen Target [EBITDA] IKN Positif Akhir 2026",
+  "deck": "Public expose tahunan Hermina memaparkan sisa capex Rp500 miliar untuk alat medis dan renovasi RS, kontribusi Astra-Djarum 10% pendapatan, serta proyeksi EBITDA IKN positif akhir tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:28:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6958b1d54b_fd5ff2cc08.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "public expose",
+   "rumah sakit",
+   "EBITDA"
+  ],
+  "body": [
+   "PT Medikaloka Hermina Tbk (HEAL) menggelar Public Expose Tahunan 2026 pada Selasa, 8 September 2026, pukul 11.00 sampai 12.00 WIB melalui Zoom webinar, sebagai bagian dari rangkaian Public Expose Live IDX 2026. Sesi dibuka oleh moderator dari Bursa Efek Indonesia, Prasetyo Wibowo, dan diikuti 68 peserta untuk sesi public expose serta 58 peserta untuk sesi konferensi pers yang dipandu Nadine Hendrah. Manajemen yang hadir memaparkan kinerja adalah Direktur Utama Yulisar Khiat, Direktur Operasional dan Komersial Susi Setyawati, Direktur Keuangan Yustinus Immanuel Herawan, dan Sekretaris Perusahaan Ichsan Hanafi.",
+   "Direktur Keuangan Yustinus Immanuel Herawan memaparkan kinerja semester pertama 2026, meliputi kenaikan pendapatan, EBITDA, laba bersih setelah pajak, serta laba bersih setelah pajak dan kepentingan nonpengendali. Ia juga menyampaikan kenaikan jumlah kunjungan pasien rawat inap dan rawat jalan baik dari segmen umum maupun JKN, rasio utang dan solvabilitas yang disebut masih terjaga, serta belanja modal yang dipakai untuk pembukaan rumah sakit baru, penambahan tempat tidur, dan penambahan alat medis.",
+   "Dalam sesi tanya jawab, manajemen mengungkapkan kontribusi kerja sama dengan Astra dan Djarum, terutama lewat medical check-up dan layanan kesehatan lain, berada di kisaran 10 persen dari pendapatan. Pembukaan rumah sakit baru di Badung, Bali, dan Kepanjen, Malang, didasarkan pada studi kelayakan dan permintaan dokter spesialis setempat. Sisa alokasi belanja modal tahun ini sekitar Rp500 miliar akan dipakai bukan untuk rumah sakit baru, melainkan pembelian alat medis guna melengkapi layanan unggulan seperti pusat onkologi di Bekasi, serta renovasi rumah sakit yang ada untuk memisahkan alur pasien BPJS dan nonBPJS. Rumah sakit Hermina PIK 2 disebut sudah membukukan pendapatan di atas target dengan EBITDA positif, sementara Hermina Nusantara di IKN masih mencatat EBITDA negatif akibat keterbatasan volume layanan, meski manajemen memproyeksikan EBITDA IKN bisa positif pada akhir tahun ini.",
+   "Soal risiko nilai tukar, manajemen menyebut dampak pelemahan rupiah terhadap biaya pengadaan relatif terbatas karena komitmen pembelian untuk satu tahun penuh 2026 sudah dikunci, dengan perkiraan kenaikan beban pokok pendapatan tidak lebih dari 0,5 persen. Seluruh pinjaman Perseroan menggunakan rupiah sehingga tidak ada eksposur langsung ke kurs asing. Manajemen juga menjawab pertanyaan soal kebakaran hutan di Kalimantan dan Sumatera yang sedikit menambah kasus infeksi saluran pernapasan akut namun belum signifikan, serta kesiapan menangani dampak kesehatan dari erupsi Anak Krakatau berupa sesak napas dan gangguan mata."
+  ],
+  "fotoAdegan": "Hospital staff walking through a bright modern corridor lined with medical equipment carts, natural daylight through windows",
+  "takeaway": "Laporan ini condong positif bagi Hermina karena manajemen memaparkan tren operasional yang membaik: rumah sakit PIK 2 sudah mencetak EBITDA positif di atas target pendapatan, dan risiko pelemahan rupiah terhadap biaya dinilai terbatas karena komitmen pengadaan sudah dikunci untuk setahun penuh. Yang tersentuh di sini adalah EBITDA, yaitu laba operasional rumah sakit sebelum dipotong bunga, pajak, dan penyusutan, yang jadi ukuran utama investor untuk menilai apakah ekspansi rumah sakit baru sudah mulai menguntungkan, serta beban pokok pendapatan yang mencerminkan biaya langsung operasional seperti obat dan alat medis. Yang perlu dipantau berikutnya adalah apakah Hermina Nusantara di IKN benar-benar mencatat EBITDA positif pada akhir 2026 seperti diproyeksikan manajemen, dan bagaimana realisasi sisa belanja modal sekitar Rp500 miliar untuk alat medis dan renovasi rumah sakit sepanjang sisa tahun ini.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "ptpp-teken-mra-mulai-implementasi-restrukturisasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Teken [MRA], Mulai Implementasi Restrukturisasi Utang",
+  "deck": "PT PP (Persero) Tbk menandatangani Master Restructuring Agreement dengan Danantara Aset Manajemen dan bank kreditur, menandai masuknya restrukturisasi utang ke tahap implementasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:07:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e46bac39e0_b97439a159.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "Danantara Aset Manajemen",
+   "MRA"
+  ],
+  "body": [
+   "PT PP (Persero) Tbk menandatangani Master Restructuring Agreement (MRA) pada 11 September 2026, sebagai bagian dari proses restrukturisasi yang telah disetujui PT Danantara Aset Manajemen. Perusahaan menyebut langkah ini sebagai peralihan dari tahap pembahasan ke implementasi kerangka restrukturisasi yang lebih terstruktur. Penandatanganan dihadiri Senior Director Corporate Strategy PT Danantara Aset Manajemen, perwakilan bank-bank kreditur yang menjadi pihak dalam MRA 2026, Direktur Utama PTPP, Direktur Keuangan PTPP, serta Direktur Strategi Korporasi dan Human Capital PTPP.",
+   "Restrukturisasi dilakukan lewat penataan ulang kewajiban Perseroan yang berjalan bersamaan dengan transformasi bisnis dan keuangan. Tujuannya agar PTPP memiliki profil kewajiban dan ruang likuiditas yang lebih sehat, sehingga perusahaan bisa fokus menjaga operasional, menuntaskan proyek yang sedang berjalan, dan memenuhi kewajibannya secara berkelanjutan. Corporate Secretary PTPP, Joko Raharjo, menyatakan kesepakatan ini memberi kerangka yang lebih jelas bagi Perseroan dalam menata kembali struktur kewajiban sekaligus memperkuat fundamental keuangan dan bisnis perusahaan.",
+   "Ke depan, PTPP akan menjalankan implementasi MRA secara disiplin, berbarengan dengan program transformasi bisnis dan keuangan lain seperti penguatan tata kelola, efektivitas penggunaan modal, penjagaan kualitas kontrak dan arus kas, serta optimalisasi portofolio bisnis. Perseroan juga menyampaikan apresiasi kepada Danantara Aset Manajemen dan para kreditur peserta MRA atas dukungan mereka dalam proses restrukturisasi ini, namun dokumen tidak merinci nilai utang yang direstrukturisasi maupun syarat baru seperti suku bunga atau jangka waktu pelunasan."
+  ],
+  "fotoAdegan": "Business delegates in formal suits shaking hands around a conference table in a Jakarta office, blurred documents nearby, soft morning light.",
+  "takeaway": "Laporan ini condong positif bagi PTPP, karena penandatanganan MRA menunjukkan kemajuan konkret dari sekadar negosiasi menuju pelaksanaan nyata restrukturisasi utang, setelah sebelumnya peringkat utang perusahaan dipangkas PEFINDO ke idB dengan status CreditWatch negatif. Yang tersentuh di sini adalah pos kewajiban dan arus kas Perseroan, yakni uang tunai yang tersedia untuk operasional sehari-hari, sebab penataan ulang jadwal dan struktur utang idealnya membuat PTPP tidak lagi tertekan membayar utang jangka pendek sementara masih harus menuntaskan proyek-proyek berjalan. Namun dokumen ini tidak membuka angka nilai utang yang direstrukturisasi, suku bunga baru, atau jangka waktu pelunasan, sehingga besar manfaatnya bagi neraca perusahaan belum bisa dipastikan dari rilis ini saja. Yang perlu dipantau berikutnya adalah rincian resmi isi MRA yang biasanya menyusul lewat keterbukaan informasi lanjutan, serta respons lembaga pemeringkat seperti PEFINDO terhadap penandatanganan ini setelah sebelumnya memasang status CreditWatch negatif pada peringkat PTPP.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "kici-catat-rugi-rp2-8-miliar-meski-penjualan-naik-18",
+  "category": "Aksi Korporasi",
+  "title": "KICI Catat [Rugi] Rp2,8 Miliar meski Penjualan Naik 18%",
+  "deck": "Kedaung Indah Can menjelaskan ke BEI penyebab kenaikan aset dan utang, serta penurunan ekuitas dan laba bersih pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T16:01:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/264608455e_3afd407a5d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KICI",
+  "tags": [
+   "KICI",
+   "Kedaung Indah Can",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "body": [
+   "PT Kedaung Indah Can Tbk (KICI) menyampaikan penjelasan kepada Bursa Efek Indonesia menanggapi surat permintaan penjelasan BEI No. S-11509/BEI.PP3/09/2026, terkait pergerakan sejumlah pos dalam laporan keuangan per 30 Juni 2026. Penjelasan tertanggal 11 September 2026 itu ditandatangani oleh Corporate Secretary KICI, Ing Hidayat.",
+   "Aset perseroan naik Rp4,23 miliar atau 1,92 persen per 30 Juni 2026 dibanding akhir 2025, terutama karena kenaikan persediaan seiring penjualan yang tumbuh. Liabilitas naik lebih besar, yakni Rp7,03 miliar atau 6,55 persen, didorong kenaikan utang bank dan utang usaha untuk membiayai aktivitas produksi, ditambah kenaikan kewajiban imbalan pasca kerja akibat penurunan tingkat diskonto dari 6,68 persen pada 2025 menjadi 5,64 persen pada 2026. Sementara itu, ekuitas perseroan turun Rp2,8 miliar atau 2,48 persen karena perseroan mencatat rugi periode berjalan sebesar Rp2,8 miliar.",
+   "Pendapatan perseroan naik Rp6,82 miliar atau 18,11 persen dibanding semester I 2025, ditopang permintaan domestik dan ekspor yang membaik, strategi kenaikan harga jual yang selektif, serta perluasan pasar ekspor di luar Amerika Serikat, terutama Jepang. Namun laba bersih perseroan justru turun Rp2,9 miliar atau 50,89 persen dibanding periode yang sama tahun lalu. Manajemen menyatakan berharap tren kenaikan penjualan bertahan hingga akhir tahun sehingga perseroan bisa kembali mencatat laba positif."
+  ],
+  "fotoAdegan": "Factory workers inspecting stacks of enamel cookware and metal cans on a production line, industrial lighting, Surabaya workshop interior",
+  "takeaway": "Laporan ini condong negatif bagi Kedaung Indah Can, sebab meski penjualan tumbuh 18,11 persen, perseroan tetap membukukan rugi periode berjalan Rp2,8 miliar sehingga ekuitasnya, yaitu selisih antara total aset dan utang yang menjadi bantalan modal pemegang saham, ikut menyusut 2,48 persen. Kenaikan utang bank dan utang usaha sebesar Rp7,03 miliar berarti beban bunga dan kewajiban pembayaran perseroan turut bertambah, sementara kenaikan liabilitas imbalan pasca kerja terjadi karena asumsi tingkat diskonto turun, bukan karena ada tambahan janji baru ke karyawan. Pelaku pasar biasanya mencermati rasio utang terhadap ekuitas semacam ini, karena makin besar utang dibanding modal sendiri, makin besar pula risiko perseroan saat suku bunga naik atau penjualan melambat. Yang perlu dipantau berikutnya adalah realisasi laporan keuangan hingga akhir tahun 2026, karena manajemen sendiri menyebut berharap kenaikan penjualan bisa membalikkan posisi rugi menjadi laba positif pada akhir tahun.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "abda-ganti-direksi-julien-pierre-combaret-mundur",
+  "category": "Aksi Korporasi",
+  "title": "ABDA Ganti Direksi, [Julien Pierre Combaret] Mundur",
+  "deck": "RUPSLB ABDA pada 7 September 2026 menyetujui pengunduran diri Direktur Julien Pierre Combaret efektif 17 September 2026, sekaligus menegaskan susunan direksi dan komisaris baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:57:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/908ea7a7b6_2931bb91fc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ABDA",
+  "tags": [
+   "ABDA",
+   "perubahan direksi",
+   "RUPSLB",
+   "asuransi"
+  ],
+  "body": [
+   "PT Asuransi Bina Dana Arta Tbk (ABDA) mengumumkan perubahan susunan direksi menyusul Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Senin, 7 September 2026, di Plaza Asia Lantai 28, Jakarta Selatan. Rapat yang berlangsung singkat, dari pukul 10.17 hingga 10.22 WIB, menyetujui pengunduran diri Julien Pierre Combaret dari jabatan Direktur, efektif 17 September 2026. Perseroan juga memberikan pembebasan tanggung jawab (acquit et de charge) kepada Combaret atas seluruh tindakan pengurusan yang ia lakukan selama menjabat, sepanjang tercermin dalam laporan tahunan dan laporan keuangan perusahaan.",
+   "RUPSLB dihadiri pemegang saham atau kuasanya yang mewakili 560.327.345 saham dengan hak suara sah, setara 90,2579 persen dari total saham berhak suara yang telah diterbitkan perusahaan. Tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat pada agenda tunggal rapat ini, dan seluruh keputusan disetujui secara musyawarah mufakat dengan suara bulat.",
+   "Dengan keputusan ini, susunan Direksi ABDA menjadi: Vincent C. Soegianto sebagai Direktur Utama, serta Liani Chandra, Iwan Kurniawan, dan Danang Budi Raharjo sebagai Direktur. Adapun susunan Dewan Komisaris tidak berubah, yaitu Abhishek Bhatia sebagai Komisaris Utama, Kevin Soedyatmiko sebagai Komisaris, serta Francisco Noriega Malave dan Nathaniel O.L. Mangunsong sebagai Komisaris Independen. Direksi diberi kuasa untuk menuangkan keputusan rapat ke dalam akta notaris dan melaporkannya ke instansi berwenang sesuai ketentuan yang berlaku."
+  ],
+  "fotoAdegan": "Exterior of a modern glass high-rise office tower in Jakarta's business district, late afternoon light, street traffic below.",
+  "takeaway": "Ini pergantian pengurus yang sifatnya rutin dan condong netral bagi ABDA, satu direktur mundur dengan pembebasan tanggung jawab penuh, tanpa indikasi gejolak atau pengunduran massal di jajaran direksi maupun komisaris. Perubahan direksi tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham perusahaan, tapi pelaku pasar tetap mencermati siapa yang duduk di kursi direksi karena merekalah yang mengambil keputusan strategis yang pada akhirnya memengaruhi kinerja tersebut. Kuorum kehadiran rapat yang mencapai 90,26 persen saham berhak suara menunjukkan keputusan ini didukung mayoritas pemegang saham, bukan hasil rapat dengan partisipasi terbatas. Yang perlu dipantau selanjutnya adalah efektifnya pengunduran diri Julien Pierre Combaret pada 17 September 2026, serta apakah ABDA akan mengumumkan pengangkatan direktur baru untuk mengisi posisi yang ditinggalkan atau membiarkan jajaran direksi beranggotakan empat orang.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "lapd-jadwalkan-rupslb-pada-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jadwalkan [RUPSLB] pada 20 Oktober 2026",
+  "deck": "Leyand International Tbk mengumumkan RUPSLB digelar 20 Oktober 2026 di Jakarta. Pemegang saham yang berhak hadir dicatat per 25 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:46:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5d2ea48d7_1802a7ea31.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LAPD",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "Leyand International",
+   "rapat pemegang saham"
+  ],
+  "body": [
+   "PT Leyand International Tbk (LAPD) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 20 Oktober 2026 pukul 10.00 WIB. Rapat akan digelar di Meeting Room Hotel Maia, Jl. HBR Motik No.4/Jl. Kebon Kacang Raya No.27, Kelurahan Kebon Kacang, Tanah Abang, Jakarta Pusat, dan diselenggarakan secara elektronik melalui fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Surat pemberitahuan bernomor 089/LAPD/IX/2026 ini ditandatangani Direktur Utama Jamal Abdul Nasir Bamadhaj pada 11 September 2026.",
+   "Perseroan menetapkan Jumat, 25 September 2026 sebagai tanggal pencatatan (recording date) bagi pemegang saham yang berhak hadir dan memberikan suara, yaitu nama yang tercatat di Daftar Pemegang Saham dan/atau rekening efek KSEI hingga penutupan perdagangan bursa pada hari itu. Pemanggilan resmi rapat, yang akan memuat mata acara sesungguhnya, dijadwalkan terbit di situs KSEI, Bursa Efek Indonesia, dan situs Leyand pada Senin, 28 September 2026. Pemegang saham yang ingin mengusulkan tambahan agenda harus menyampaikannya tertulis dan diterima Perseroan paling lambat Senin, 21 September 2026, yaitu tujuh hari sebelum tanggal pemanggilan.",
+   "Bagi pemegang saham yang tidak hadir langsung, fasilitas pemberian kuasa elektronik melalui eASY.KSEI akan dibuka sejak tanggal pemanggilan sampai satu hari kerja sebelum rapat, yakni Senin, 19 Oktober 2026. Dokumen ini baru memuat jadwal dan mekanisme rapat, belum mencantumkan mata acara yang akan diputuskan."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a hotel conference room, soft morning light, Jakarta business district visible through windows.",
+  "takeaway": "Pengumuman ini tergolong netral, sebab isinya baru soal jadwal dan mekanisme RUPSLB, belum memuat mata acara atau keputusan apa yang akan diambil sehingga dampaknya ke kinerja perusahaan belum bisa dinilai. RUPSLB biasanya dipakai untuk memutuskan hal yang bisa menyentuh ekuitas atau jumlah saham beredar, misalnya penerbitan saham baru, restrukturisasi utang, atau pergantian pengurus, jadi pemegang saham perlu menunggu isi agendanya sebelum menilai arahnya. Yang perlu dipantau adalah pemanggilan resmi pada 28 September 2026, yang seharusnya mengungkap mata acara sesungguhnya, serta pelaksanaan RUPSLB pada 20 Oktober 2026 itu sendiri. Pemegang saham yang ingin punya hak suara juga harus memastikan namanya tercatat di Daftar Pemegang Saham paling lambat 25 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "alka-dan-agar-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA dan AGAR keluar dari [pemantauan khusus] BEI",
+  "deck": "Bursa mencabut status pemantauan khusus saham ALKA dan AGAR mulai 14 September 2026, keduanya kembali ke Papan Pengembangan dengan mekanisme perdagangan normal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:18:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/269c001c5b_5995ccd9cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "ALKA",
+   "AGAR",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencabutan status pemantauan khusus atas dua saham, yaitu ALKA milik Alakasa Industrindo Tbk dan AGAR milik PT Asia Sejahtera Mina Tbk, melalui pengumuman bernomor Peng-CK-00070/BEI.PLP/09-2026 yang diteken PH Kepala Divisi Pengawasan Transaksi dan Kepatuhan, Kukuh Wicaksono, pada 11 September 2026. Kedua saham sebelumnya masuk pemantauan khusus berdasarkan kriteria nomor 10, yakni pernah dikenakan penghentian sementara perdagangan selama lebih dari satu hari bursa akibat aktivitas perdagangan.",
+   "Menurut pengumuman itu, status kedua saham tercatat sebagai keluar atau exit dari pemantauan khusus, dan keduanya tetap berada di Papan Pengembangan setelah perubahan ini berlaku. Perubahan tersebut efektif mulai 14 September 2026. Bursa juga mencantumkan kode SDHSM, yakni penanda saham dengan hak suara multipel, pada baris AGAR dengan keterangan tidak, yang berarti saham ini tidak termasuk kategori tersebut.",
+   "Dengan keluarnya kedua saham dari daftar pemantauan khusus, pembatasan perdagangan yang biasanya menyertai status tersebut, seperti mekanisme lelang berkala penuh yang membatasi frekuensi transaksi, tidak lagi berlaku bagi ALKA dan AGAR mulai tanggal efektif. Bursa menyebut daftar lengkap kriteria pemantauan khusus mencakup sebelas kondisi, mulai dari harga saham di bawah Rp51, opini disclaimer pada laporan keuangan, ekuitas negatif, hingga penghentian sementara perdagangan seperti yang menjadi dasar masuknya ALKA dan AGAR ke daftar tersebut."
+  ],
+  "fotoAdegan": "Stock exchange trading floor with brokers in motion near blurred screens, afternoon light, Jakarta financial district",
+  "takeaway": "Pencabutan status pemantauan khusus ini condong positif bagi ALKA dan AGAR, karena menandakan bursa menilai kondisi yang memicu penghentian sementara perdagangan pada kedua saham itu sudah tidak lagi relevan. Yang tersentuh di sini bukan laporan keuangan, melainkan status perdagangan saham, karena selama masuk pemantauan khusus, saham biasanya hanya bisa diperdagangkan lewat mekanisme lelang berkala yang membatasi frekuensi transaksi, sehingga keluarnya dari daftar ini berpotensi mengembalikan kemudahan jual beli seperti saham pada umumnya. Investor kedua saham perlu mencermati bahwa perubahan ini baru berlaku efektif 14 September 2026, tiga hari setelah pengumuman ini terbit, jadi mekanisme perdagangan lama masih berjalan sampai tanggal tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "smmt-umumkan-rencana-rupslb-pada-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Umumkan Rencana [RUPSLB] pada 20 Oktober 2026",
+  "deck": "Golden Eagle Energy (SMMT) akan menggelar RUPSLB di Jakarta pada 20 Oktober 2026. Pemegang saham per 25 September 2026 berhak hadir, agenda rapat baru diumumkan 28 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:16:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d15e5342e_9c92938bb2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMT",
+  "tags": [
+   "SMMT",
+   "RUPSLB",
+   "Golden Eagle Energy",
+   "RUPS"
+  ],
+  "body": [
+   "PT Golden Eagle Energy Tbk (SMMT) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar di Jakarta pada Selasa, 20 Oktober 2026 pukul 14.00 WIB. Pengumuman ini merujuk pada surat sebelumnya bernomor 035/SMMT-CS/2026 dan diterbitkan sesuai Pasal 12 ayat (11) Anggaran Dasar Perseroan serta Pasal 52 ayat (1) POJK No. 15/2020 tentang RUPS Perusahaan Terbuka. Surat pemberitahuan ini ditandatangani Corporate Secretary Susanti Nilam pada 11 September 2026.",
+   "Perseroan menetapkan Jumat, 25 September 2026, sebagai tanggal pencatatan pemegang saham (DPS) yang berhak hadir atau memberikan suara dalam rapat, dihitung dari posisi kepemilikan saat penutupan perdagangan Bursa Efek Indonesia pada hari itu. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan pada 28 September 2026 melalui situs web BEI, sistem eASY.KSEI, dan situs web Perseroan, sehingga agenda RUPSLB ini belum diketahui publik saat pengumuman rencana ini terbit. Rapat akan berlangsung sepenuhnya secara elektronik lewat eASY.KSEI, dan Perseroan mengimbau pemegang saham hadir secara elektronik atau memberi kuasa kepada PT Adimitra Jasa Korpora selaku Biro Administrasi Efek, dengan fasilitas e-Proxy tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat.",
+   "Pemegang saham yang ingin mengusulkan mata acara rapat dapat mengajukannya ke Direksi atau Dewan Komisaris paling lambat tujuh hari sebelum tanggal pemanggilan, dengan syarat diajukan oleh satu atau lebih pemegang saham yang mewakili sedikitnya 1/20 atau 5 persen dari total saham berhak suara yang diterbitkan Perseroan. Usulan itu juga harus disertai alasan dan bahan pendukung, tidak bertentangan dengan Anggaran Dasar atau peraturan yang berlaku, serta menyangkut hal yang memang membutuhkan keputusan rapat."
+  ],
+  "fotoAdegan": "Wide low-angle view of a modern glass office tower facade in Jakarta's business district under a clear afternoon sky",
+  "takeaway": "Laporan ini netral bagi fundamental SMMT karena baru mengumumkan rencana RUPSLB tanpa menyebut agenda atau keputusan apa pun yang akan diambil. Dampaknya ke pos-pos seperti jumlah saham beredar, ekuitas, atau arus kas baru bisa dinilai setelah mata acara rapat diumumkan, sebab RUPSLB bisa membahas apa saja mulai dari pergantian pengurus sampai aksi korporasi yang mengubah struktur permodalan. Yang perlu dipantau adalah pengumuman pemanggilan resmi berisi mata acara rapat pada 28 September 2026, serta tanggal pencatatan pemegang saham pada 25 September 2026 yang menentukan siapa berhak memberi suara. Pemegang saham yang ingin mengusulkan agenda harus mengajukannya ke direksi atau komisaris sebelum tenggat tujuh hari sebelum tanggal pemanggilan, dengan dukungan minimal 5 persen dari total saham berhak suara. Rapat sendiri dijadwalkan berlangsung secara elektronik pada 20 Oktober 2026 melalui sistem eASY.KSEI.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "towr-ungkap-alasan-akuisisi-bmg-dalam-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Ungkap Alasan Akuisisi [BMG] dalam Public Expose",
+  "deck": "Manajemen TOWR menjelaskan alasan akuisisi BMG dan cara menjaga beban bunga di public expose tahunan yang dihadiri 117 investor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:11:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0bf37a25f4_c2685feb69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOWR",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "Public Expose",
+   "Akuisisi BMG"
+  ],
+  "body": [
+   "Sarana Menara Nusantara Tbk (TOWR) menyampaikan laporan hasil public expose tahunan kepada Bursa Efek Indonesia pada 11 September 2026. Acara yang digelar pada 3 September 2026 itu dihadiri 117 peserta dari luar manajemen dan karyawan perusahaan. Laporan yang ditandatangani Corporate Secretary Monalisa Irawan ini dilengkapi daftar hadir peserta dan ringkasan tanya jawab dengan investor.",
+   "Salah satu sorotan dalam sesi tanya jawab adalah pertanyaan dari Rizqia Lubis soal alasan Perseroan mengambil alih BMG. Manajemen menjelaskan, BMG sebelumnya hanya satu dari beberapa vendor yang mengerjakan pemeliharaan aset Perseroan, terutama menara telekomunikasi. Untuk menekan biaya pemeliharaan, Perseroan menyeleksi para vendor tersebut dan memilih BMG sebagai yang berkinerja terbaik, lalu mengonsolidasikan seluruh pekerjaan pemeliharaan ke BMG agar mendapat harga lebih baik lewat volume pekerjaan yang lebih besar. Karena ketergantungan pada BMG makin besar, Perseroan menilai perlu mengambil alih kendali atas perusahaan tersebut, dan itu menjadi pertimbangan utama di balik akuisisi ini.",
+   "Investor lain, Robert Siagian, menanyakan cara Perseroan menghadapi tren kenaikan suku bunga agar status investment grade tetap terjaga. Manajemen menjawab bahwa mereka menjaga rasio utang bersih terhadap EBITDA sesuai syarat dari kreditur, disiplin dalam belanja modal dan biaya operasional, serta mengatur komposisi pinjaman berbunga tetap dan mengambang agar beban bunga tetap terkendali. Adapun soal strategi bisnis yang ditanyakan Veronica Andini, Perseroan menyebut fokus memperkuat sembilan pilar bisnisnya, mencakup menara, fiber optic, anak usaha energi terbarukan, dan anak usaha jasa, dengan target menjadikan infrastrukturnya sebagai simpul digital yang siap mendukung kebutuhan 5G dan kecerdasan buatan."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting steel lattice structures and fiber optic cable trays at a rural Indonesian site, late afternoon light",
+  "takeaway": "Laporan ini netral bagi TOWR karena isinya menjelaskan sikap dan strategi manajemen menjawab pertanyaan investor, tanpa angka keuangan baru atau perubahan struktur modal yang bisa langsung diukur dampaknya. Yang tersentuh adalah pos utang dan beban bunga: manajemen menyebut mereka menjaga rasio utang bersih dibanding laba operasional atau EBITDA sesuai syarat pemberi pinjaman, dan mengatur campuran pinjaman berbunga tetap serta mengambang supaya beban bunga tidak membengkak saat suku bunga naik, meski tidak ada angka rasio yang diungkap dalam dokumen ini. Penjelasan soal akuisisi BMG juga baru sebatas rasional bisnis, konsolidasi vendor pemeliharaan menara untuk efisiensi biaya, tanpa nilai transaksi yang disebut di sini. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal mendatang, untuk melihat apakah konsolidasi BMG benar mendorong efisiensi biaya pemeliharaan dan bagaimana pengaruhnya terhadap rasio utang Perseroan, karena dokumen ini sendiri tidak mencantumkan tenggat atau agenda korporasi baru.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "suni-jawab-bursa-laba-turun-piutang-macet-melonjak-609",
+  "category": "Aksi Korporasi",
+  "title": "SUNI Jawab Bursa: Laba Turun, Piutang Macet [Melonjak] 609%",
+  "deck": "SUNI menjawab permintaan penjelasan Bursa Efek Indonesia soal laporan keuangan Juni 2026: penjualan dan laba turun, piutang macet melonjak, namun rasio utang ke bank masih aman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:09:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fecfddcaab_254548d8f6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SUNI",
+  "tags": [
+   "SUNI",
+   "laporan keuangan",
+   "piutang macet",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Sunindo Pratama Tbk (SUNI) menyampaikan surat jawaban atas permintaan penjelasan Bursa Efek Indonesia terkait laporan keuangan per 30 Juni 2026. Dalam surat bertanggal 11 September 2026 yang ditandatangani Direktur Freddy Soejandy, perseroan mengonfirmasi penjualan turun 25,99 persen dan laba turun 35,60 persen pada semester I 2026. Anak usaha PT Petro Synergy Manufacturing (PSM) masih merugi karena baru mulai produksi komersial akhir 2025, dengan total aset turun 14,72 persen menjadi Rp38,04 miliar. Sunindo sudah menyuntik modal Rp13,2 miliar dari rencana total Rp22 miliar ke PSM, dan membuka opsi divestasi jika ke depan profitabilitasnya dinilai tidak memuaskan.",
+   "Piutang usaha perseroan justru naik 9,33 persen menjadi Rp100,76 miliar meski penjualan turun, karena ada pengiriman barang dalam jumlah besar di akhir periode laporan. Yang mencolok, piutang yang telat dibayar lebih dari 60 hari melonjak 609,19 persen, namun manajemen tidak menambah cadangan kerugian karena yakin pelanggan akan melunasi. Sunindo mengklaim Rp82 miliar atau 82 persen dari saldo piutang per 30 Juni 2026 sudah tertagih. Di sisi utang, utang usaha naik 155,04 persen menjadi Rp69,50 miliar, didominasi kewajiban dalam yuan Tiongkok Rp47,65 miliar dan dolar AS Rp9,68 miliar untuk pembelian mesin pabrik baru PT Rainbow Tubulars Manufacture (RTM 2) senilai investasi total Rp504 miliar, yang ditargetkan beroperasi komersial kuartal IV 2026 setelah memperoleh sertifikat API. Rincian pemasok utama pabrik ini adalah Join Power Co Ltd Rp32,49 miliar, Taiyuan North Heavy Industry Machinery Rp10,97 miliar, Chengdu Best Diamond Bit Rp9,49 miliar, Shanxi Chuangqi Industry Rp5,13 miliar, Lixicon Indonesia Rp1,54 miliar, Asia Bangun Pertama Rp1,14 miliar, serta pemasok lain di bawah Rp1 miliar senilai gabungan Rp8,74 miliar.",
+   "Dari sisi kas, saldo kas dan setara kas naik 38,49 persen menjadi Rp159,64 miliar, dengan porsi dolar AS di Bank UOB Indonesia melonjak dari Rp33,20 juta menjadi Rp80,62 miliar karena bunganya lebih tinggi, meski langkah ini turut menyumbang rugi selisih kurs Rp413,43 miliar pada semester I 2026. Perseroan menyatakan seluruh rasio keuangan yang disyaratkan kreditur perbankan terpenuhi per 30 Juni 2026, yakni rasio lancar 323 persen (syarat minimal 100 persen), rasio utang terhadap modal 34 persen (maksimal 250 persen), rasio cakupan pelunasan utang 377 persen (minimal 110 persen), kekayaan bersih Rp896 miliar, dan rasio utang bank terhadap laba operasional 180 persen (maksimal 300 persen). Perseroan juga menegaskan dividen tunai Rp25 miliar sesuai RUPST 22 Juni 2026 berasal dari kas SUNI sendiri, bukan dari RTM yang terikat pembatasan dividen ke krediturnya, sehingga tidak memerlukan persetujuan tertulis bank."
+  ],
+  "fotoAdegan": "Rows of large steel pipes stacked in an industrial yard, workers in hard hats and gloves inspecting welds, cloudy sky",
+  "takeaway": "Laporan ini condong negatif bagi SUNI karena penjualan turun 25,99 persen dan laba anjlok 35,60 persen pada semester I 2026, ditambah piutang yang telat dibayar lebih dari 60 hari melonjak 609 persen tanpa tambahan cadangan kerugian dari manajemen. Yang tersentuh di sini adalah kualitas piutang dan arus kas, sebab piutang macet berarti uang perusahaan tertahan di tangan pelanggan padahal pabrik baru RTM 2 masih butuh dana besar untuk rampung dibangun. Di sisi lain, kas perusahaan malah naik 38,49 persen dan seluruh rasio utang yang disyaratkan bank masih jauh di bawah batas aman, sehingga risiko gagal bayar utang belum mengkhawatirkan dalam waktu dekat. Yang perlu dipantau berikutnya adalah realisasi penagihan sisa piutang macet hingga akhir 2026 seperti dijanjikan manajemen, serta target pabrik RTM 2 mulai beroperasi komersial pada kuartal IV 2026 setelah sertifikat API terbit, karena penundaan sertifikasi ini akan mengulur tambahan kapasitas produksi 30.000 ton per tahun yang diharapkan mendongkrak pendapatan.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
   "category": "Aksi Korporasi",
   "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",

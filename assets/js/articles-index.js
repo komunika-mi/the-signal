@@ -5,6 +5,262 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
+  "category": "Aksi Korporasi",
+  "title": "PRDA [Buyback] Saham Tembus 9,8 Juta Lembar per 11 September",
+  "deck": "Prodia membeli kembali 343.600 saham pada 11 September, sehingga total buyback sejak 20 Agustus mencapai 9,81 juta lembar dengan sisa dana Rp123,46 miliar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "buyback saham",
+   "Prodia Widyahusada",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6e2be5e66f_575e623a29.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "assa-sewa-lahan-dari-kerabat-presdir-dalam-transaksi-afiliasi",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Sewa Lahan dari Kerabat Presdir dalam Transaksi [Afiliasi]",
+  "deck": "Anak usaha ASSA, PT Adi Sarana Transportasi, menyewa lahan 5.175 meter persegi milik kerabat Presiden Direktur senilai Rp2 miliar untuk tiga tahun.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASSA",
+   "transaksi afiliasi",
+   "Adi Sarana Armada",
+   "sewa lahan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ed058ab606_eca465d126.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptmr-akui-salah-saji-laporan-keuangan-janji-revisi-menyeluruh",
+  "category": "Aksi Korporasi",
+  "title": "PTMR akui salah saji laporan keuangan, janji [revisi] menyeluruh",
+  "deck": "Menjawab permintaan penjelasan BEI, Master Print mengakui rentetan kejanggalan pada laporan keuangan semester I 2026 dan berjanji merevisi jumlah saham, piutang, dan aset tetap.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTMR",
+   "Master Print",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c8799e8b4d_79b4c6373d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-pertahankan-panduan-produksi-2026-meski-1h-lampaui-target",
+  "category": "Aksi Korporasi",
+  "title": "MEDC Pertahankan [Panduan] Produksi 2026 Meski 1H Lampaui Target",
+  "deck": "MedcoEnergi mempertahankan target produksi 2026 di 165-170 mboepd meski semester pertama sudah melampauinya, dan mengkaji opsi monetisasi sebagian saham di Amman Mineral senilai US$2,6 miliar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "Migas",
+   "Amman Mineral",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12c010a1ab_5dd124867d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "doid-bakal-terima-bagian-dari-dividen-spesial-us-93-juta-asiamet",
+  "category": "Aksi Korporasi",
+  "title": "DOID Bakal Terima Bagian dari [Dividen] Spesial US$93 Juta Asiamet",
+  "deck": "Asiamet Resources, yang 44,15% sahamnya dimiliki DOID, merampungkan penjualan Indokal Limited ke Norin Mining dan menyetujui dividen khusus US$93 juta kepada pemegang saham.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "Asiamet Resources",
+   "dividen khusus",
+   "Norin Mining"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/39c7aca55a_859563ff68.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inru-jawab-bei-akui-jadi-tersangka-kasus-pajak-rp2-triliun",
+  "category": "Aksi Korporasi",
+  "title": "INRU Jawab BEI, Akui Jadi [Tersangka] Kasus Pajak Rp2 Triliun",
+  "deck": "INRU mengonfirmasi menerima surat penetapan tersangka dari Kejaksaan Agung soal dugaan korupsi transfer pricing Rp2 triliun, dan laporan keuangan kuartal II masih tertunda.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INRU",
+   "Toba Pulp Lestari",
+   "korupsi pajak",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cb92233b16_17483f7b0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tpia-pertahankan-rating-idaa-outlook-positif-dari-pefindo",
+  "category": "Aksi Korporasi",
+  "title": "TPIA Pertahankan Rating idAA- Outlook [Positif] dari PEFINDO",
+  "deck": "PEFINDO menegaskan peringkat idAA- dengan outlook positif untuk seluruh obligasi berkelanjutan TPIA senilai total sekitar Rp14 triliun, berlaku hingga September 2027.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TPIA",
+   "PEFINDO",
+   "obligasi korporasi",
+   "Chandra Asri Pacific"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/12bb4e9a4c_f16f4c00d6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "heal-manajemen-target-ebitda-ikn-positif-akhir-2026",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Manajemen Target [EBITDA] IKN Positif Akhir 2026",
+  "deck": "Public expose tahunan Hermina memaparkan sisa capex Rp500 miliar untuk alat medis dan renovasi RS, kontribusi Astra-Djarum 10% pendapatan, serta proyeksi EBITDA IKN positif akhir tahun.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "public expose",
+   "rumah sakit",
+   "EBITDA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6958b1d54b_fd5ff2cc08.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-teken-mra-mulai-implementasi-restrukturisasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "PTPP Teken [MRA], Mulai Implementasi Restrukturisasi Utang",
+  "deck": "PT PP (Persero) Tbk menandatangani Master Restructuring Agreement dengan Danantara Aset Manajemen dan bank kreditur, menandai masuknya restrukturisasi utang ke tahap implementasi.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "restrukturisasi utang",
+   "Danantara Aset Manajemen",
+   "MRA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e46bac39e0_b97439a159.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kici-catat-rugi-rp2-8-miliar-meski-penjualan-naik-18",
+  "category": "Aksi Korporasi",
+  "title": "KICI Catat [Rugi] Rp2,8 Miliar meski Penjualan Naik 18%",
+  "deck": "Kedaung Indah Can menjelaskan ke BEI penyebab kenaikan aset dan utang, serta penurunan ekuitas dan laba bersih pada semester I 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KICI",
+   "Kedaung Indah Can",
+   "laporan keuangan",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/264608455e_3afd407a5d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "abda-ganti-direksi-julien-pierre-combaret-mundur",
+  "category": "Aksi Korporasi",
+  "title": "ABDA Ganti Direksi, [Julien Pierre Combaret] Mundur",
+  "deck": "RUPSLB ABDA pada 7 September 2026 menyetujui pengunduran diri Direktur Julien Pierre Combaret efektif 17 September 2026, sekaligus menegaskan susunan direksi dan komisaris baru.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ABDA",
+   "perubahan direksi",
+   "RUPSLB",
+   "asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/908ea7a7b6_2931bb91fc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "lapd-jadwalkan-rupslb-pada-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "LAPD Jadwalkan [RUPSLB] pada 20 Oktober 2026",
+  "deck": "Leyand International Tbk mengumumkan RUPSLB digelar 20 Oktober 2026 di Jakarta. Pemegang saham yang berhak hadir dicatat per 25 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LAPD",
+   "RUPSLB",
+   "Leyand International",
+   "rapat pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d5d2ea48d7_1802a7ea31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "alka-dan-agar-keluar-dari-pemantauan-khusus-bei",
+  "category": "Aksi Korporasi",
+  "title": "ALKA dan AGAR keluar dari [pemantauan khusus] BEI",
+  "deck": "Bursa mencabut status pemantauan khusus saham ALKA dan AGAR mulai 14 September 2026, keduanya kembali ke Papan Pengembangan dengan mekanisme perdagangan normal.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ALKA",
+   "AGAR",
+   "BEI",
+   "pemantauan khusus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/269c001c5b_5995ccd9cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smmt-umumkan-rencana-rupslb-pada-20-oktober-2026",
+  "category": "Aksi Korporasi",
+  "title": "SMMT Umumkan Rencana [RUPSLB] pada 20 Oktober 2026",
+  "deck": "Golden Eagle Energy (SMMT) akan menggelar RUPSLB di Jakarta pada 20 Oktober 2026. Pemegang saham per 25 September 2026 berhak hadir, agenda rapat baru diumumkan 28 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMT",
+   "RUPSLB",
+   "Golden Eagle Energy",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6d15e5342e_9c92938bb2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "towr-ungkap-alasan-akuisisi-bmg-dalam-public-expose",
+  "category": "Aksi Korporasi",
+  "title": "TOWR Ungkap Alasan Akuisisi [BMG] dalam Public Expose",
+  "deck": "Manajemen TOWR menjelaskan alasan akuisisi BMG dan cara menjaga beban bunga di public expose tahunan yang dihadiri 117 investor.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOWR",
+   "Sarana Menara Nusantara",
+   "Public Expose",
+   "Akuisisi BMG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0bf37a25f4_c2685feb69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suni-jawab-bursa-laba-turun-piutang-macet-melonjak-609",
+  "category": "Aksi Korporasi",
+  "title": "SUNI Jawab Bursa: Laba Turun, Piutang Macet [Melonjak] 609%",
+  "deck": "SUNI menjawab permintaan penjelasan Bursa Efek Indonesia soal laporan keuangan Juni 2026: penjualan dan laba turun, piutang macet melonjak, namun rasio utang ke bank masih aman.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SUNI",
+   "laporan keuangan",
+   "piutang macet",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fecfddcaab_254548d8f6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
   "category": "Aksi Korporasi",
   "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
@@ -6253,263 +6509,6 @@ var ARTICLES = [
    "kinerja perbankan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ce18433a87_d4159772a0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta",
-  "category": "BUMN",
-  "title": "PAM JAYA Beri Toren dan Sambungan [Gratis] ke Warga Jakarta",
-  "deck": "PAM JAYA menegaskan komitmennya di Hari Pelanggan lewat sambungan rumah gratis untuk warga miskin, toren gratis, dan mesin air siap minum di ruang publik Jakarta.",
-  "date": "4 September 2026",
-  "image": "assets/img/pam-jaya-beri-toren-dan-sambungan-gratis-ke-warga-jakarta.jpg",
-  "imageV": "mtmxchsk",
-  "tags": [
-   "PAM JAYA",
-   "air bersih",
-   "Jakarta",
-   "Hari Pelanggan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464898-hari-pelanggan-pam-jaya-bongkar-beragam-program-untuk-permudah-akses-air-perpipaan-warga-jakarta"
- },
- {
-  "slug": "peve-akui-salah-saji-laporan-kas-tersisa-rp7-5-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PEVE Akui [Salah Saji] Laporan, Kas Tersisa Rp7,5 Miliar",
-  "deck": "PEVE menjawab permintaan penjelasan BEI atas laporan keuangan Semester I 2026, mengungkap arus kas operasi masih minus Rp99,44 miliar dan mengakui salah saji sejumlah pos keuangan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PEVE",
-   "laporan keuangan",
-   "arus kas",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/76824cb70f_bf4d5d8d16.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asgr-jawab-bei-tegaskan-tak-ada-aksi-korporasi-dalam-3-bulan",
-  "category": "Aksi Korporasi",
-  "title": "ASGR Jawab BEI, Tegaskan Tak Ada [Aksi Korporasi] dalam 3 Bulan",
-  "deck": "Astra Graphia menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tak ada informasi material dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASGR",
-   "Astra Graphia",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4b528e7014_5ec4ecc1b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dmas-cetak-prapenjualan-rp1-15-triliun-data-center-jadi-andalan",
-  "category": "Aksi Korporasi",
-  "title": "DMAS Cetak Prapenjualan Rp1,15 Triliun, [Data Center] Jadi Andalan",
-  "deck": "Puradelta Lestari membukukan prapenjualan Rp1,15 triliun pada semester I 2026, atau 55 persen dari target setahun, ditopang permintaan lahan dari sektor data center.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DMAS",
-   "Puradelta Lestari",
-   "data center",
-   "kawasan industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/11544c4f77_4a77e18fe6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "batr-jelaskan-ke-bursa-arus-kas-operasi-minus-rp9-9-m",
-  "category": "Aksi Korporasi",
-  "title": "BATR Jelaskan ke Bursa [Arus Kas] Operasi Minus Rp9,9 M",
-  "deck": "BATR menjelaskan ke BEI arus kas operasi minus Rp9,9 miliar dan kas di BRI yang susut dari Rp16,1 miliar jadi Rp2 miliar, di tengah lonjakan pendapatan 49,3 persen.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATR",
-   "laporan keuangan",
-   "arus kas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6cc8c37a2_fb4d9cabfb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zata-ganti-komisaris-independen-usai-rupst",
-  "category": "Aksi Korporasi",
-  "title": "ZATA Ganti [Komisaris Independen] Usai RUPST",
-  "deck": "PT Bersama Zatta Jaya Tbk menunjuk Slamet Pribadi sebagai komisaris independen baru menggantikan Imron Rosyadi, sementara direksi dan komisaris lain diangkat kembali usai RUPST 2 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZATA",
-   "RUPST",
-   "komisaris independen",
-   "perubahan pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bdeb45d78d_3d0a5b7f67.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbri-pefindo-tegaskan-rating-idaaa-outlook-positif",
-  "category": "Aksi Korporasi",
-  "title": "BBRI: PEFINDO Tegaskan Rating [idAAA], Outlook Positif",
-  "deck": "PEFINDO mempertahankan peringkat idAAA untuk mayoritas obligasi BRI dengan outlook positif, sinyal potensi kenaikan peringkat pada evaluasi berikutnya.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRI",
-   "PEFINDO",
-   "obligasi",
-   "rating kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a08ffca866_2553d8825b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "zata-tak-bagi-dividen-laba-2025-dipakai-tutup-defisit",
-  "category": "Aksi Korporasi",
-  "title": "ZATA Tak Bagi [Dividen], Laba 2025 Dipakai Tutup Defisit",
-  "deck": "RUPST ZATA memutuskan seluruh laba bersih Rp2,04 miliar tahun 2025 dipakai menutup defisit, bukan dibagi dividen. Komisaris independen juga berganti.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZATA",
-   "RUPST",
-   "dividen",
-   "komisaris independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/49c3650bfe_e27d3a2443.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bank-tanggapi-permintaan-bursa-soal-volatilitas-transaksi",
-  "category": "Aksi Korporasi",
-  "title": "BANK tanggapi permintaan bursa soal [volatilitas] transaksi",
-  "deck": "Bank Aladin Syariah (BANK) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya, sekaligus mengungkap rencana penerbitan sukuk pada kuartal IV 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BANK",
-   "UMA",
-   "Bank Aladin Syariah",
-   "Sukuk Wakalah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/562b0e0e2b_95d9d4b0f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-siapkan-buyback-saham-rp1-triliun-rupslb-13-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Siapkan [Buyback] Saham Rp1 Triliun, RUPSLB 13 Oktober",
-  "deck": "BTPN Syariah berencana membeli kembali saham senilai maksimal Rp1 triliun atau hingga 10 persen saham beredar, menunggu persetujuan RUPSLB pada 13 Oktober 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "buyback saham",
-   "RUPSLB",
-   "Bank BTPN Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/abb99709fd_d0c62fbc08.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "grph-tanggapi-uma-bei-akui-tak-tahu-penyebab-lonjakan-saham",
-  "category": "Aksi Korporasi",
-  "title": "GRPH Tanggapi [UMA] BEI, Akui Tak Tahu Penyebab Lonjakan Saham",
-  "deck": "Direktur Utama GRPH Edwin Leonardo menyebut kenaikan harga saham di luar kebiasaan murni mekanisme pasar dan tidak berdampak pada operasional maupun keuangan perusahaan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GRPH",
-   "UMA",
-   "Bursa Efek Indonesia",
-   "saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cebb16d93_7bf6ce026b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-beli-kembali-5-02-juta-saham-rp13-1-m-terpakai",
-  "category": "Aksi Korporasi",
-  "title": "PRDA Beli Kembali [5,02 Juta] Saham, Rp13,1 M Terpakai",
-  "deck": "Prodia Widyahusada merampungkan 11 hari transaksi buyback sejak 20 Agustus, membeli 5,02 juta saham di kisaran Rp2.474-Rp2.783, dengan sisa dana Rp136,89 miliar per 4 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cace431214_81571856cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-ganti-kepala-audit-internal-yusnita-mundur",
-  "category": "Aksi Korporasi",
-  "title": "RLCO Ganti Kepala Audit Internal, Yusnita [Mundur]",
-  "deck": "RLCO menunjuk Teruna Eka Farma sebagai Kepala Unit Audit Internal baru menggantikan Yusnita Kristanti yang mengundurkan diri, efektif 1 Agustus 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "audit internal",
-   "tata kelola perusahaan",
-   "pergantian pejabat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98d0f9d39e_9386312249.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akku-gelar-paparan-publik-insidentil-bahas-suspensi-saham",
-  "category": "Aksi Korporasi",
-  "title": "AKKU Gelar Paparan Publik Insidentil Bahas [Suspensi] Saham",
-  "deck": "AKKU akan menggelar Public Expose Insidentil pada 18 September 2026 di Bandung untuk menjelaskan suspensi perdagangan sahamnya kepada publik.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKKU",
-   "suspensi saham",
-   "public expose",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d13c571926_a851b94b47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lapd-direktur-bambang-rahardja-burhan-mundur",
-  "category": "Aksi Korporasi",
-  "title": "LAPD: Direktur Bambang Rahardja Burhan [Mundur]",
-  "deck": "Leyand International (LAPD) menerima surat pengunduran diri Direktur Bambang Rahardja Burhan. RUPSLB digelar 20 Oktober 2026 untuk meminta persetujuan pemegang saham.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "Leyand International",
-   "direksi",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/95b1a9a486_6b8138d218.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tosk-jawab-bei-tak-ada-informasi-material-di-balik-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "TOSK Jawab BEI: Tak Ada Informasi Material di Balik [Volatilitas]",
-  "deck": "TOSK menegaskan tidak mengetahui informasi material yang memicu pergerakan harga sahamnya, menjawab permintaan penjelasan Bursa Efek Indonesia atas volatilitas transaksi efeknya.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOSK",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/50a83b104b_aa7c1fdcdb.pdf",
   "sourceLabel": "IDX"
  }
 ];

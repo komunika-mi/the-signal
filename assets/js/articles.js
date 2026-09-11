@@ -3,6 +3,190 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
+  "category": "Aksi Korporasi",
+  "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
+  "deck": "Auditor memberi opini dengan pengecualian atas laporan keuangan 2025 SWAT karena sekitar Rp29 miliar utang bank belum tercatat, di tengah rugi bersih Rp48,8 miliar dan keraguan kelangsungan usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:50:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260911145807-64381-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SWAT",
+  "tags": [
+   "SWAT",
+   "laporan keuangan",
+   "opini auditor",
+   "going concern"
+  ],
+  "body": [
+   "Kantor Akuntan Publik (KAP) Herman, Dody, Tanumihardja Rekan, lewat partner audit Dody Hapsoro, memberikan opini wajar dengan pengecualian atas laporan keuangan konsolidasian PT Sriwahana Adityakarta Tbk (SWAT) untuk tahun buku 2025, dalam laporan bertanggal 4 September 2026. Pengecualian itu muncul karena auditor menemukan selisih antara konfirmasi bank dan pembukuan perseroan. PT Bank Woori Saudara Indonesia 1906 Tbk mengonfirmasi telah memberikan pinjaman Rp40,03 miliar kepada anak usaha SWAT, PT Mulia Cipta Teknologi, tetapi perseroan baru mencatat utang Rp25,57 miliar, sehingga ada Rp12,86 miliar yang belum masuk pembukuan. Pola serupa terjadi pada pinjaman dari PT Bank Negara Indonesia (Persero) Tbk, yang menurut konfirmasi bank mencapai Rp274,98 miliar, sementara SWAT baru mencatat Rp258,86 miliar, menyisakan selisih Rp16,12 miliar yang belum tercatat. Sampai laporan audit terbit, perseroan masih dalam proses rekonsiliasi sehingga auditor tidak bisa memastikan penyesuaian yang seharusnya dilakukan.",
+   "Auditor juga mencantumkan paragraf ketidakpastian material terkait kelangsungan usaha. Grup mencatat rugi bersih Rp48,83 miliar sepanjang 2025, dan akumulasi kerugian sampai akhir tahun mencapai Rp334,02 miliar. Total aset perseroan menyusut dari Rp481,50 miliar pada akhir 2024 menjadi Rp394,64 miliar pada akhir 2025, dengan aset lancar turun dari Rp174,51 miliar menjadi Rp116,77 miliar. Kas dan setara kas ikut menipis tajam, dari Rp8,45 miliar menjadi tinggal Rp2,37 miliar dalam setahun.",
+   "Dalam laporan yang sama, auditor menyoroti dua hal audit utama. Pertama, kecukupan cadangan kerugian kredit atas piutang usaha: dari saldo piutang kotor Rp89,42 miliar, perseroan telah mencadangkan Rp61,81 miliar sebagai potensi tak tertagih. Kedua, pengakuan pendapatan dari penjualan karton dan kertas, yang menurut auditor memerlukan kajian mendalam soal kapan kewajiban pelaksanaan dianggap selesai. Laporan tahun ini juga ditandatangani auditor yang berbeda dari tahun sebelumnya, KAP Heliantono Rekan dengan partner Andiek Nugroho mengaudit laporan keuangan 2024, sementara laporan 2025 beralih ke KAP Herman, Dody, Tanumihardja Rekan."
+  ],
+  "fotoAdegan": "Rolls of brown packaging paper stacked in an industrial warehouse, a forklift moving pallets under dim factory lighting",
+  "takeaway": "Laporan ini condong negatif bagi SWAT, karena auditor memberi opini dengan pengecualian akibat sekitar Rp29 miliar utang bank yang belum tercatat, ditambah peringatan tegas soal kelangsungan usaha akibat rugi yang terus membesar. Pos yang tersentuh adalah ekuitas dan arus kas, rugi bersih tahun ini menambah akumulasi kerugian menjadi Rp334,02 miliar yang berarti modal pemegang saham terus tergerus, sementara kas yang bisa dipakai membayar tagihan hanya tersisa Rp2,37 miliar, anjlok dari Rp8,45 miliar setahun sebelumnya. Cadangan piutang tak tertagih yang mencapai sekitar 69 persen dari total piutang usaha juga menandakan perseroan kesulitan menagih uang dari pelanggannya. Yang perlu dipantau berikutnya adalah penyelesaian rekonsiliasi utang bank dengan BWS dan BNI yang masih berjalan saat laporan audit terbit pada 4 September 2026, serta langkah konkret manajemen menjaga kelangsungan usaha seperti disinggung dalam catatan 35 laporan keuangan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "aces-target-tambah-40-50-toko-neka-sepanjang-2026",
+  "category": "Aksi Korporasi",
+  "title": "ACES Target Tambah 40-50 Toko [NEKA] Sepanjang 2026",
+  "deck": "Dalam laporan hasil public expose tahunan, direksi ACES memaparkan laba bersih semester I naik 33%, jaringan 274 toko AZKO dan 20 toko NEKA, serta target ekspansi NEKA hingga 50 toko baru tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:40:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9236970505_968885405e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ACES",
+  "tags": [
+   "ACES",
+   "AZKO",
+   "NEKA",
+   "ritel"
+  ],
+  "body": [
+   "PT Aspirasi Hidup Indonesia Tbk (ACES) menyampaikan laporan pelaksanaan public expose tahunan yang digelar Kamis, 10 September 2026, pukul 14.00 hingga 15.00 WIB secara virtual, sebagai bagian dari acara Public Expose Live 2026 dalam rangka 49 tahun diaktifkannya kembali pasar modal Indonesia. Perseroan diwakili oleh Direktur Gregory S. Widjaja dan Head of Investor Relations Billy Utama. Acara dihadiri 74 peserta yang terdiri dari investor, media, dan masyarakat umum, sementara sesi konferensi pers sesudahnya diikuti 6 perwakilan media termasuk CNBC Indonesia, Bloomberg Technoz, Bisnis Indonesia, Katadata, EmitenNews, dan Antara.",
+   "Dalam sesi tanya jawab, manajemen memaparkan bahwa penjualan bersih hingga semester pertama 2026 tumbuh 6,3 persen, dengan laba operasional dan laba bersih masing-masing naik 32 persen dan 33 persen. Pertumbuhan ini didorong oleh penjualan periode Idul Fitri yang lebih kuat dan pertumbuhan toko yang sama alias same-store-sales-growth sebesar 2,2 persen, sesuai target manajemen. Hingga semester pertama 2026, jaringan Perseroan tercatat memiliki 274 toko AZKO, 20 toko NEKA, dan 79 toko Toys Kingdom.",
+   "Untuk brand NEKA yang diluncurkan September tahun lalu, manajemen menargetkan pembukaan 40 sampai 50 toko baru sepanjang 2026. NEKA menyasar kota lapis dua dan tiga serta wilayah sub-urban dengan luas toko dan capex per toko yang lebih rendah dibanding AZKO, dan saat ini sudah tersebar di Pulau Jawa dan Sumatera sebelum diperluas ke seluruh Indonesia. Ekspansi AZKO juga berlanjut ke kota-kota baru seperti Pekalongan, Pasuruan, Tomohon, dan Bau Bau.",
+   "Menanggapi kembalinya brand ACE Hardware ke pasar Indonesia, Direktur Gregory S. Widjaja menyatakan Perseroan yang telah beroperasi lebih dari 30 tahun akan tetap fokus pada kualitas produk, harga, dan layanan purnajual. Perseroan juga menyebut kemitraan dengan lebih dari 300 usaha kecil dan menengah untuk memperkuat portofolio produk lokal, serta menyatakan bencana alam di sejumlah wilayah Indonesia sejauh ini tidak mengganggu operasional AZKO secara keseluruhan."
+  ],
+  "fotoAdegan": "Wide aisle inside a home improvement retail store in Indonesia, shelves stocked with household goods, a customer browsing under bright lighting",
+  "takeaway": "Laporan ini condong positif bagi ACES karena mengonfirmasi ulang pertumbuhan laba bersih 33 persen di semester pertama sekaligus menambahkan rincian baru berupa jaringan toko terkini dan target ekspansi NEKA yang konkret, 40 sampai 50 toko baru dalam setahun. Yang disorot pelaku pasar di sini adalah pertumbuhan penjualan dari toko lama alias same-store-sales-growth dan laba operasional, karena keduanya menunjukkan apakah kenaikan penjualan berasal dari toko yang sudah ada atau sekadar dari toko baru yang terus dibuka. Ekspansi toko baru memang mendongkrak penjualan, tapi juga menambah beban biaya sewa dan operasional yang baru terlihat hasilnya setelah beberapa tahun berjalan. Yang perlu dipantau berikutnya adalah kuartal keempat 2026, yang menurut manajemen biasanya menjadi periode penjualan terkuat karena permintaan produk Natal dan travel, serta realisasi target pembukaan toko NEKA dan respons pasar atas kembalinya kompetitor ACE Hardware ke Indonesia.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "gria-ganti-direksi-bambang-eko-prabowo-gantikan-dody-supriyadi",
+  "category": "Aksi Korporasi",
+  "title": "GRIA Ganti [Direksi]: Bambang Eko Prabowo Gantikan Dody Supriyadi",
+  "deck": "GRIA mengoreksi pengumuman perubahan direksi: Bambang Eko Prabowo gantikan Moch Dody Supriyadi, sementara satu kursi direktur dihapus sesuai hasil RUPS 30 Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:36:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a11c6a845_079a40769a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRIA",
+  "tags": [
+   "GRIA",
+   "Direksi",
+   "RUPS",
+   "Ingria Pratama Capitalindo"
+  ],
+  "body": [
+   "PT Ingria Pratama Capitalindo Tbk (GRIA) mengoreksi pengumuman perubahan pengurus yang sebelumnya diterbitkan pada hari yang sama, 11 September 2026. Dalam koreksi bernomor 0841B/IPC-COR/IX/2026 itu, perseroan merinci susunan direksi dan komisaris terbaru yang berlaku sejak Rapat Umum Pemegang Saham Tahunan (RUPS) pada 30 Juni 2026.",
+   "Perubahan paling signifikan terjadi pada jajaran direksi. Bambang Eko Prabowo diangkat sebagai direktur baru menggantikan Moch Dody Supriyadi, sementara satu kursi direktur lain yang sebelumnya dijabat Irwansyah Hakim Noor dihapus dari struktur, sehingga jumlah direktur perseroan berkurang dari empat menjadi tiga orang. Kedua perubahan ini merupakan hasil keputusan RUPS Tahunan 30 Juni 2026 yang dituangkan dalam akta notaris nomor 148 oleh Notaris Tiara Widyantine di Tangerang Selatan, dan telah dicatat oleh Kementerian Hukum dan HAM melalui surat penerimaan bernomor AHU-AH.01.09-0382670 tertanggal 29 Juli 2026.",
+   "Posisi lain tidak berubah. Khufran Hakim Noor tetap menjabat Direktur Utama dan Hugofeber Parluhutan tetap Direktur, keduanya menjabat sejak 29 Maret 2023. Di jajaran komisaris, Arvan Rivaldy R Siregar tetap menjadi Komisaris Utama dan Gunawan Wisaksono tetap menjadi komisaris independen, tanpa perubahan sejak tanggal yang sama."
+  ],
+  "fotoAdegan": "Empty modern boardroom with a long table and leather chairs neatly arranged, soft morning light through large windows",
+  "takeaway": "Laporan ini netral bagi kinerja fundamental GRIA, sebab hanya menyangkut pergantian pengurus, bukan aksi korporasi yang mengubah keuangan atau kepemilikan pengendali perusahaan. Pergantian direktur seperti ini tidak langsung menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham, karena Komisaris Utama Arvan Rivaldy R Siregar dan susunan komisaris tidak berubah, sehingga peta kendali pemegang saham tetap sama dan yang berganti hanya orang yang menjalankan operasional. Yang layak dicermati adalah jarak waktu antara keputusan RUPS pada 30 Juni 2026 dengan pengumuman resmi ke bursa pada 11 September 2026, sekitar dua setengah bulan, serta apakah Bambang Eko Prabowo sudah memenuhi seluruh syarat yang dipersyaratkan sebelum benar-benar menjalankan tugas sebagai direktur.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "inet-bukukan-laba-rp34-2-miliar-ekuitas-melonjak-ke-rp3-8-t",
+  "category": "Aksi Korporasi",
+  "title": "INET Bukukan Laba Rp34,2 Miliar, [Ekuitas] Melonjak ke Rp3,8 T",
+  "deck": "Pendapatan INET melonjak ke Rp926,5 miliar dan ekuitas naik jadi Rp3,8 triliun pada semester I 2026, didorong rights issue, penerbitan obligasi-sukuk Rp1 triliun, dan akuisisi anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:24:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/27ab0e8a51_c370cad22d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "laporan keuangan",
+   "rights issue",
+   "akuisisi"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) melaporkan pendapatan neto konsolidasian sebesar Rp926,45 miliar untuk semester pertama 2026, melonjak dari Rp45 miliar pada periode yang sama tahun lalu. Laba bersih periode berjalan ikut naik dari Rp7,66 miliar menjadi Rp34,21 miliar, dengan laba per saham dasar naik dari Rp1,01 menjadi Rp3,13 dan laba per saham dilusian naik dari Rp0,85 menjadi Rp2,62. Laporan keuangan ini diaudit oleh KAP Suhari, Sugiarto dan Rekan dengan partner penanggung jawab Ridho Fathoni, dan memperoleh opini wajar tanpa pengecualian.",
+   "Ekuitas perusahaan melonjak dari Rp429,21 miliar pada akhir 2025 menjadi Rp3,81 triliun per 30 Juni 2026, sementara total aset naik dari Rp760,37 miliar menjadi Rp6,11 triliun. Kenaikan ini terutama berasal dari aksi korporasi pada kuartal pertama 2026, yaitu penerbitan saham baru lewat rights issue, penerbitan obligasi senilai total Rp500 miliar, dan penerbitan sukuk ijarah senilai total Rp500 miliar. Jumlah saham beredar bertambah dari 9,58 miliar lembar menjadi 22,37 miliar lembar, dan kas serta setara kas Perseroan melonjak dari Rp404,44 miliar menjadi Rp4,34 triliun akibat dana yang masuk dari aksi-aksi tersebut.",
+   "Di sisi liabilitas, INET menambah utang bank jangka pendek baru sebesar Rp774,66 miliar dan mencatatkan saldo obligasi serta sukuk yang beredar masing-masing sekitar Rp495 miliar. Beban keuangan melonjak dari Rp64,42 juta pada semester I 2025 menjadi Rp50,06 miliar pada semester I 2026 seiring bunga obligasi dan imbal hasil sukuk yang baru diterbitkan. Perusahaan juga melakukan sejumlah kombinasi bisnis sepanjang 2026 yang menambah goodwill dari Rp684,92 juta menjadi Rp82,97 miliar, termasuk penyertaan saham senilai Rp4,36 miliar di PT Inti Pusat Data Nusantara dan investasi 20 persen di PT Jaringan Solusi Teknik yang didirikan oleh entitas anak PADA.",
+   "Meski skala bisnis membesar, sejumlah rasio profitabilitas Perseroan justru menurun. Return on asset (ROA) turun dari 3,22 persen menjadi 0,57 persen dan return on equity (ROE) turun dari 5,71 persen menjadi 0,91 persen, sementara rasio EBITDA terhadap pendapatan turun dari 50,22 persen menjadi 6,46 persen. Rasio lancar, yaitu kemampuan membayar kewajiban jangka pendek dengan aset lancar, justru membaik dari 148,27 persen menjadi 283,50 persen berkat tambahan kas dari rights issue serta obligasi dan sukuk baru."
+  ],
+  "fotoAdegan": "Technicians installing fiber-optic cable on utility poles along a busy Indonesian city street, daylight, traffic passing below.",
+  "takeaway": "Laporan ini condong positif bagi INET karena pendapatan dan laba bersih tumbuh berkali lipat, dan Perseroan berhasil menghimpun dana segar dalam jumlah besar lewat penerbitan saham baru, obligasi, dan sukuk, meski lonjakan utang baru yang menyertainya patut dicermati. Yang tersentuh adalah ekuitas, yaitu modal pemegang saham yang kini jauh lebih besar berkat rights issue, dan beban bunga yang melonjak drastis karena Perseroan kini menanggung cicilan bunga obligasi dan imbal hasil sukuk senilai hampir Rp1 triliun. Jumlah saham beredar juga bertambah lebih dari dua kali lipat sehingga porsi kepemilikan pemegang saham lama otomatis mengecil, meski laba per saham tetap naik karena laba tumbuh lebih cepat dari penambahan jumlah sahamnya. Penurunan tajam ROE dan margin EBITDA juga perlu diawasi karena menunjukkan aset dan modal yang membengkak belum sepenuhnya diimbangi kenaikan laba operasional dalam proporsi yang sama. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan memperlihatkan apakah lonjakan pendapatan dari akuisisi anak usaha ini berlanjut atau hanya efek satu kali dari konsolidasi bisnis baru.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "palm-ganti-direktur-gomos-benjamin-silitonga-masuk-jajaran",
+  "category": "Aksi Korporasi",
+  "title": "PALM Ganti Direktur, [Gomos Benjamin Silitonga] Masuk Jajaran",
+  "deck": "Provident Investasi Bersama mengumumkan Gomos Benjamin Silitonga menjadi Direktur baru menggantikan Budianto Purwahjo, sementara mayoritas pengurus lain dipertahankan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T13:59:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4463982088_781f13f0bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PALM",
+  "tags": [
+   "PALM",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "IDX"
+  ],
+  "body": [
+   "PT Provident Investasi Bersama Tbk (PALM) melaporkan perubahan susunan pengurus kepada Bursa Efek Indonesia. Perubahan utama ada di jajaran direksi, Gomos Benjamin Silitonga diangkat sebagai Direktur menggantikan posisi yang sebelumnya diduduki Budianto Purwahjo, efektif sejak 17 Juni 2026 dan memasuki periode jabatan pertamanya.",
+   "Selain pergantian itu, susunan direksi dan komisaris lain tidak berubah. Tri Boewono tetap menjabat Presiden Direktur, sudah periode ketiga sejak diangkat 22 Maret 2022, dan Ellen Kartika tetap sebagai Direktur periode pertama sejak 21 Juni 2023. Di jajaran komisaris, Hardi Wijaya Liong tetap menjabat Presiden Komisaris periode pertama sejak 21 Juni 2023, Johnson Chan tetap sebagai Komisaris Independen periode ketiga sejak 22 Maret 2022, dan Drs. Kumari, Ak. tetap sebagai Komisaris Independen periode pertama sejak 22 Maret 2022.",
+   "Laporan ini disampaikan secara elektronik dan ditandatangani oleh Corporate Secretary PALM, Lim Na Lie, tertanggal 11 September 2026."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, glass office tower, soft morning light through windows",
+  "takeaway": "Perubahan ini tergolong netral bagi emiten karena hanya satu kursi direktur yang berganti, sementara Presiden Direktur, mayoritas direksi, dan seluruh jajaran komisaris tetap dipertahankan tanpa tanda adanya gejolak atau perpecahan di internal perusahaan. Pergantian direksi seperti ini tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tapi tetap diperhatikan pelaku pasar karena direksi ikut menentukan keputusan strategis perusahaan, termasuk soal pengelolaan kas dan alokasi modal ke depan. Yang perlu dipantau selanjutnya adalah apakah pengangkatan Gomos Benjamin Silitonga ini akan diratifikasi dalam Rapat Umum Pemegang Saham berikutnya, sesuai mekanisme baku penetapan direksi di perusahaan terbuka Indonesia, mengingat pengangkatan pada 17 Juni 2026 ini baru dilaporkan resmi ke bursa pada 11 September 2026.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "uvcr-laba-bersih-ultra-voucher-melonjak-600-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Laba bersih Ultra Voucher melonjak [600%] semester I 2026",
+  "deck": "Dalam public expose tahunan 10 September 2026, manajemen UVCR memaparkan lonjakan laba bersih lebih dari 600% dan pendapatan 42,5% pada semester I 2026, didorong ekspansi B2B dan UVGC.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T13:47:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd877c6b42_7c35ab18e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UVCR",
+  "tags": [
+   "UVCR",
+   "Ultra Voucher",
+   "UVGC",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Trimegah Karya Pratama Tbk. (UVCR), pemilik platform Ultra Voucher, menggelar public expose tahunan secara daring lewat Zoom pada Kamis, 10 September 2026. Acara dihadiri Direktur Utama Hady Kuswanto dan Direktur Riky Boy H. Permata, dengan total peserta 53 orang di Zoom, 15 orang di kanal YouTube live Ultra Voucher, 74 media dan masyarakat umum, serta 28 karyawan internal.",
+   "Dalam sesi tanya jawab, seorang investor menyebutkan pendapatan Ultra Voucher tumbuh 42,5 persen pada semester I 2026 dan laba bersih melonjak lebih dari 600 persen dibanding periode yang sama tahun sebelumnya. Hady Kuswanto membenarkan tren tersebut dan mengatakan kenaikan laba bersih didorong bukan hanya oleh kenaikan penjualan, tetapi juga efisiensi biaya operasional dan strategi pemasaran perusahaan. Ia juga menyebut angka pendapatan semester I naik dari sekitar Rp400 miliar pada 2025 menjadi Rp628 miliar pada 2026, seiring jumlah pelanggan korporasi yang bertambah dari sekitar 350-400 perusahaan menjadi 700 perusahaan yang membeli kartu hadiah digital, voucher, dan solusi loyalitas Ultra Voucher.",
+   "Manajemen juga memaparkan pengembangan produk UVGC (Ultra Voucher Gift Card) menjadi kartu hadiah universal yang kini bisa langsung digunakan lewat mesin EDC Bank BCA, dengan rencana perluasan akses ke jaringan perbankan lain pada kuartal IV 2026. Perusahaan menyebut langkah ini sebagai pelengkap ekosistem solusi rewards dan loyalty yang sudah berjalan, dengan tujuan memperluas titik penerimaan merchant dan membuka lebih banyak kerja sama B2B."
+  ],
+  "fotoAdegan": "A customer holding a blank plastic gift card at a retail checkout counter, blurred payment terminal, warm indoor mall lighting",
+  "takeaway": "Laporan ini condong positif bagi UVCR karena manajemen memaparkan lonjakan pendapatan dan laba bersih yang signifikan pada semester I 2026, didukung pertambahan pelanggan korporasi. Yang tersentuh di sini adalah pendapatan dan laba bersih, dua pos utama yang menunjukkan seberapa besar penjualan perusahaan dan berapa yang benar-benar tersisa sebagai keuntungan setelah semua biaya; laba bersih yang tumbuh jauh lebih cepat dari pendapatan biasanya menandakan perusahaan makin efisien menekan biaya, bukan sekadar menjual lebih banyak. Pelaku pasar akan mencermati apakah efisiensi ini bertahan setelah fase awal peluncuran UVGC berlalu. Yang perlu dipantau berikutnya adalah rencana perluasan akses UVGC ke jaringan perbankan lain di luar BCA pada kuartal IV 2026, karena itu akan menentukan apakah pertumbuhan pelanggan korporasi bisa berlanjut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "hais-pendapatan-berpotensi-tertekan-hingga-20-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "HAIS: Pendapatan Berpotensi Tertekan hingga [20%] di 2026",
+  "deck": "Manajemen HAIS proyeksikan pendapatan 2026 terkoreksi 10-20 persen akibat penyesuaian volume batu bara, sementara biaya bahan bakar yang tinggi turut menekan margin perusahaan pelayaran ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T13:03:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1cee8afa65_f17bf0fffe.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAIS",
+  "tags": [
+   "HAIS",
+   "public expose",
+   "pelayaran batu bara",
+   "Floating Crane"
+  ],
+  "body": [
+   "PT Hasnur Internasional Shipping Tbk (HAIS) menggelar Paparan Publik Tahunan pada Rabu, 9 September 2026, pukul 09.30 WIB melalui konferensi video Zoom. Sebanyak 29 peserta eksternal hadir, di luar jajaran manajemen dan karyawan Perseroan. Manajemen yang hadir meliputi Direktur Utama Jayanti Sari, Direktur Laorentina Devi, Direktur Rickie, Direktur Rahmad Pudjotomo, Investor Relations Ramadhany Andryanto, dan Sekretaris Perusahaan Rengga Temenggung. Paparan dibawakan oleh Ramadhany Andryanto, mencakup ikhtisar, kinerja, penghargaan, dan strategi Perseroan, dilanjutkan sesi tanya jawab.",
+   "Dalam sesi tanya jawab, manajemen menyampaikan target pengangkutan muatan sebesar 7 juta sampai 8 juta metric ton hingga akhir 2026, meski mengakui akan ada penyesuaian pendapatan sebesar 10 sampai 20 persen akibat penyesuaian di industri batu bara. Manajemen juga mengungkapkan biaya bahan bakar menyumbang 40 sampai 60 persen dari total beban pokok pendapatan Perseroan, sehingga kenaikan harga bahan bakar cukup terasa terutama pada kuartal kedua tahun ini. Untuk mengatasinya, Perseroan menjalin kemitraan baru, memperbaiki efisiensi operasional armada, serta menyesuaikan kontrak pengangkutan dengan pelanggan.",
+   "Terkait proyek Floating Crane (FLF), manajemen melaporkan progres konstruksi keseluruhan telah mencapai 82 persen, dengan konstruksi bangunan mencapai 97 sampai 98 persen, dan ditargetkan mulai beroperasi pada kuartal pertama 2027. Penambahan armada sepanjang 2026 hanya terealisasi satu unit, karena fokus tahun depan diarahkan untuk merampungkan proyek FLF tersebut. Menyikapi risiko kebijakan transisi energi maupun pembatasan ekspor, mengingat 99 persen kargo Perseroan adalah batu bara, manajemen menyatakan tetap optimistis dengan strategi diversifikasi ke muatan curah kering lain seperti nikel dan tembaga, serta memaksimalkan muatan balik kapal."
+  ],
+  "fotoAdegan": "Bulk carrier ship loaded with coal being guided by tugboats along a wide brown river, overcast sky, industrial port cranes in distance",
+  "takeaway": "Paparan publik ini condong negatif bagi HAIS karena manajemen sendiri mengakui pendapatan tahun ini berpotensi tergerus 10 sampai 20 persen akibat penyesuaian volume batu bara, sekaligus mengonfirmasi tekanan biaya bahan bakar yang membebani operasional. Yang tersentuh adalah beban pokok pendapatan, yaitu seluruh biaya langsung menjalankan kapal dan mengangkut muatan, karena bahan bakar saja menyumbang 40 sampai 60 persen dari beban itu sehingga kenaikan harga solar langsung memangkas margin keuntungan Perseroan. Penambahan armada yang hanya satu unit sepanjang 2026 juga menunjukkan perlambatan ekspansi dibanding rencana sebelumnya, meski ini konsisten dengan fokus pendanaan yang dialihkan ke penyelesaian proyek Floating Crane. Yang perlu dipantau berikutnya adalah target operasional Floating Crane pada kuartal pertama 2027, karena proyek inilah yang ditunggu untuk menambah kapasitas dan pendapatan baru Perseroan setelah tahun 2026 yang penuh penyesuaian.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "soho-tanggapi-bursa-ungkap-evaluasi-pemenuhan-free-float",
   "category": "Aksi Korporasi",
   "title": "SOHO Tanggapi Bursa, Ungkap Evaluasi Pemenuhan [Free Float]",
@@ -665,6 +849,32 @@ var ARTICLES = [
   "fotoAdegan": "Glass skyscrapers of Jakarta's SCBD business district reflecting a clear afternoon sky, view from a busy sidewalk below.",
   "takeaway": "Laporan ini condong negatif karena perdagangan saham MGLV disetop paksa oleh Bursa Efek Indonesia untuk cooling down, sinyal bahwa otoritas menilai pergerakan harga sahamnya tidak wajar dan investor perlu penjelasan resmi, apalagi ini menyusul rangkaian aksi korporasi besar seperti akuisisi Nextier yang skalanya jauh melebihi ukuran Perseroan sendiri dan rights issue berdilusi 13 persen yang sudah lebih dulu dinilai negatif. Ringkasan laporan keuangan yang akan dipaparkan patut dicermati karena menyangkut arus kas dan ekuitas Perseroan, dua pos yang langsung tertekan setelah Perseroan menambah utang Rp4 triliun dari pihak terafiliasi NDC dan menerbitkan saham baru lewat rights issue. Yang perlu dipantau berikutnya adalah penyampaian materi ke BEI pada 15 September 2026, pelaksanaan public expose virtual pada 16 September 2026, dan penyerahan hasilnya ke BEI pada 17 September 2026, karena dari situ pasar akan mendapat penjelasan resmi Perseroan atas kondisi yang memicu suspensi.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "bei-setop-perdagangan-saham-ipac-era-graharealty-go-private",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setop Perdagangan Saham [IPAC], Era Graharealty Go Private",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IPAC di seluruh pasar mulai sesi I, 11 September 2026, menyusul rencana voluntary delisting dan go private Era Graharealty Tbk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "10 September 2026",
+  "isoDate": "2026-09-10T19:33:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2575fdb07b_1df879f57f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPAC",
+  "tags": [
+   "IPAC",
+   "delisting",
+   "suspensi saham",
+   "go private"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham PT Era Graharealty Tbk (IPAC) di seluruh pasar, berlaku sejak sesi I perdagangan pada Jumat, 11 September 2026. Suspensi ini tertuang dalam pengumuman bernomor Peng-SPT-00007/BEI.PP1/09-2026 yang diteken pada 10 September 2026 oleh Aditya Nugraha selaku Pelaksana Harian Kepala Divisi Penilaian Perusahaan 1, bersama Pande Made Kusuma Ari A., Kepala Divisi Pengaturan dan Operasional Perdagangan.",
+   "Bursa menyebut penyebab suspensi adalah rencana voluntary delisting dan go private yang diajukan Era Graharealty. Langkah ini merujuk surat perusahaan bernomor 132/ERA/IX/26 tertanggal 7 September 2026 perihal Permohonan Pembatalan Pencatatan. Saham IPAC, yang tercatat di Papan Akselerasi, akan tetap dihentikan perdagangannya hingga ada pengumuman lanjutan dari bursa. Bursa juga meminta seluruh pihak terkait untuk terus mencermati keterbukaan informasi yang disampaikan perusahaan.",
+   "Suspensi ini menyusul dua langkah yang sudah lebih dulu diumumkan Era Graharealty, yakni tender offer atau penawaran pembelian kembali saham publik seharga Rp250 per saham, serta jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 20 Oktober 2026 dengan daftar pemegang saham yang berhak hadir dicatat per 25 September 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, morning light, pedestrians crossing a busy street below",
+  "takeaway": "Penghentian perdagangan ini netral bagi fundamental Era Graharealty karena sifatnya administratif, mengikuti proses go private yang memang sudah diumumkan perusahaan sendiri, bukan sinyal baru soal kinerja usaha. Yang tersentuh bukan laba atau aset perusahaan, melainkan likuiditas saham publik, sebab pemegang saham IPAC untuk sementara tidak bisa menjual atau membeli sahamnya di bursa sampai proses delisting rampung atau ada pengumuman lanjutan. Ini konsekuensi wajar dari rencana go private yang sudah diajukan lewat surat 7 September 2026, jadi bukan kejutan bagi investor yang sudah mengikuti kabar sebelumnya. Yang perlu dipantau selanjutnya adalah RUPSLB pada 20 Oktober 2026 dengan daftar pemegang saham per 25 September 2026, serta kelanjutan tender offer Rp250 per saham kepada pemegang saham publik yang sudah diumumkan lebih dulu.",
+  "sentimen": "netral"
  },
  {
   "slug": "ri-malaysia-thailand-kejar-rampungkan-92-proyek-imt-gt",

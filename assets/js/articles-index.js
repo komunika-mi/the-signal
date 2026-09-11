@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "swat-opini-auditor-dikualifikasi-utang-bank-tak-tercatat-rp29-m",
+  "category": "Aksi Korporasi",
+  "title": "SWAT: Opini Auditor [Dikualifikasi], Utang Bank Tak Tercatat Rp29 M",
+  "deck": "Auditor memberi opini dengan pengecualian atas laporan keuangan 2025 SWAT karena sekitar Rp29 miliar utang bank belum tercatat, di tengah rugi bersih Rp48,8 miliar dan keraguan kelangsungan usaha.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SWAT",
+   "laporan keuangan",
+   "opini auditor",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260911145807-64381-0/FinancialStatement-2025-Tahunan-SWAT.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "aces-target-tambah-40-50-toko-neka-sepanjang-2026",
+  "category": "Aksi Korporasi",
+  "title": "ACES Target Tambah 40-50 Toko [NEKA] Sepanjang 2026",
+  "deck": "Dalam laporan hasil public expose tahunan, direksi ACES memaparkan laba bersih semester I naik 33%, jaringan 274 toko AZKO dan 20 toko NEKA, serta target ekspansi NEKA hingga 50 toko baru tahun ini.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ACES",
+   "AZKO",
+   "NEKA",
+   "ritel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9236970505_968885405e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gria-ganti-direksi-bambang-eko-prabowo-gantikan-dody-supriyadi",
+  "category": "Aksi Korporasi",
+  "title": "GRIA Ganti [Direksi]: Bambang Eko Prabowo Gantikan Dody Supriyadi",
+  "deck": "GRIA mengoreksi pengumuman perubahan direksi: Bambang Eko Prabowo gantikan Moch Dody Supriyadi, sementara satu kursi direktur dihapus sesuai hasil RUPS 30 Juni 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRIA",
+   "Direksi",
+   "RUPS",
+   "Ingria Pratama Capitalindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8a11c6a845_079a40769a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-bukukan-laba-rp34-2-miliar-ekuitas-melonjak-ke-rp3-8-t",
+  "category": "Aksi Korporasi",
+  "title": "INET Bukukan Laba Rp34,2 Miliar, [Ekuitas] Melonjak ke Rp3,8 T",
+  "deck": "Pendapatan INET melonjak ke Rp926,5 miliar dan ekuitas naik jadi Rp3,8 triliun pada semester I 2026, didorong rights issue, penerbitan obligasi-sukuk Rp1 triliun, dan akuisisi anak usaha.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "laporan keuangan",
+   "rights issue",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/27ab0e8a51_c370cad22d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "palm-ganti-direktur-gomos-benjamin-silitonga-masuk-jajaran",
+  "category": "Aksi Korporasi",
+  "title": "PALM Ganti Direktur, [Gomos Benjamin Silitonga] Masuk Jajaran",
+  "deck": "Provident Investasi Bersama mengumumkan Gomos Benjamin Silitonga menjadi Direktur baru menggantikan Budianto Purwahjo, sementara mayoritas pengurus lain dipertahankan.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PALM",
+   "pergantian direksi",
+   "tata kelola perusahaan",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4463982088_781f13f0bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uvcr-laba-bersih-ultra-voucher-melonjak-600-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "UVCR: Laba bersih Ultra Voucher melonjak [600%] semester I 2026",
+  "deck": "Dalam public expose tahunan 10 September 2026, manajemen UVCR memaparkan lonjakan laba bersih lebih dari 600% dan pendapatan 42,5% pada semester I 2026, didorong ekspansi B2B dan UVGC.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UVCR",
+   "Ultra Voucher",
+   "UVGC",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd877c6b42_7c35ab18e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hais-pendapatan-berpotensi-tertekan-hingga-20-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "HAIS: Pendapatan Berpotensi Tertekan hingga [20%] di 2026",
+  "deck": "Manajemen HAIS proyeksikan pendapatan 2026 terkoreksi 10-20 persen akibat penyesuaian volume batu bara, sementara biaya bahan bakar yang tinggi turut menekan margin perusahaan pelayaran ini.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAIS",
+   "public expose",
+   "pelayaran batu bara",
+   "Floating Crane"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1cee8afa65_f17bf0fffe.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "soho-tanggapi-bursa-ungkap-evaluasi-pemenuhan-free-float",
   "category": "Aksi Korporasi",
   "title": "SOHO Tanggapi Bursa, Ungkap Evaluasi Pemenuhan [Free Float]",
@@ -408,6 +520,22 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6f15b2865e_d9c43ac35d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-setop-perdagangan-saham-ipac-era-graharealty-go-private",
+  "category": "Aksi Korporasi",
+  "title": "BEI Setop Perdagangan Saham [IPAC], Era Graharealty Go Private",
+  "deck": "Bursa Efek Indonesia menghentikan sementara perdagangan saham IPAC di seluruh pasar mulai sesi I, 11 September 2026, menyusul rencana voluntary delisting dan go private Era Graharealty Tbk.",
+  "date": "10 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IPAC",
+   "delisting",
+   "suspensi saham",
+   "go private"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2575fdb07b_1df879f57f.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6381,134 +6509,6 @@ var ARTICLES = [
    "NWS Chicken"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2987bcc802_d2eec255eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-bebastugaskan-direktur-keuangan-buntut-dugaan-tppu",
-  "category": "Aksi Korporasi",
-  "title": "ASBI [Bebastugaskan] Direktur Keuangan Buntut Dugaan TPPU",
-  "deck": "Dewan Komisaris ASBI membebastugaskan sementara Direktur Keuangan dan Layanan menyusul laporan polisi baru soal dugaan penggelapan dan pencucian uang.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "Asuransi Bintang",
-   "Direksi",
-   "TPPU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e1ead3cd3b_4a1a0ee225.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suni-menangkan-tender-pengadaan-casing-dari-pertamina-ep",
-  "category": "Aksi Korporasi",
-  "title": "SUNI Menangkan [Tender] Pengadaan Casing dari Pertamina EP",
-  "deck": "SUNI ditetapkan sebagai pemenang tender pengadaan casing oleh Pertamina EP senilai US$3,19 juta dengan masa kerja sekitar delapan bulan.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUNI",
-   "Pertamina EP",
-   "tender",
-   "kontrak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/330b37a9cf_aaabcbd8ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "btps-rinci-jadwal-buyback-rp1-triliun-rupslb-13-oktober",
-  "category": "Aksi Korporasi",
-  "title": "BTPS Rinci Jadwal Buyback [Rp1 Triliun], RUPSLB 13 Oktober",
-  "deck": "Bank BTPN Syariah membuka jadwal lengkap pembelian kembali saham senilai maksimal Rp1 triliun, dari RUPSLB 13 Oktober hingga proforma dampaknya ke laba per saham.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BTPS",
-   "buyback saham",
-   "RUPSLB",
-   "Bank BTPN Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c28f77a5ec_5457bebb72.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hais-paparkan-kinerja-laba-bersih-turun-44-8",
-  "category": "Aksi Korporasi",
-  "title": "HAIS Paparkan Kinerja, Laba Bersih [Turun] 44,8%",
-  "deck": "Materi public expose HAIS memperlihatkan laba bersih semester I 2026 turun 44,8 persen jadi Rp18,81 miliar, sementara proyek pelabuhan apung sudah 75 persen rampung.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAIS",
-   "public expose",
-   "kinerja keuangan",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/62496a454d_f53a05f5cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soho-rombak-komite-nominasi-dan-remunerasi",
-  "category": "Aksi Korporasi",
-  "title": "SOHO [Rombak] Komite Nominasi dan Remunerasi",
-  "deck": "SOHO mengganti dua anggota Komite Nominasi dan Remunerasi menyusul perombakan direksi dan komisaris, efektif 4 September 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOHO",
-   "Soho Global Health",
-   "Komite Nominasi dan Remunerasi",
-   "tata kelola perusahaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0989eb759b_a7a8d8d60d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-pertahankan-rating-ida-siapkan-obligasi-baru-rp3-5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INKP Pertahankan Rating [idA+], Siapkan Obligasi Baru Rp3,5 Triliun",
-  "deck": "PEFINDO menegaskan peringkat idA+ stabil untuk obligasi lama INKP senilai Rp3,5 triliun dan mengonfirmasi rating sama untuk tahap baru obligasi serta sukuk senilai total Rp3,5 triliun plus US$25 juta.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "PEFINDO",
-   "obligasi",
-   "pemeringkatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a461885_7e39e9a75b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inkp-peroleh-rating-iraa-stabil-untuk-obligasi-rp3-5-triliun",
-  "category": "Aksi Korporasi",
-  "title": "INKP Peroleh Rating irAA [Stabil] untuk Obligasi Rp3,5 Triliun",
-  "deck": "PT Kredit Rating Indonesia menegaskan peringkat irAA dan irAAsy dengan outlook stabil untuk obligasi, sukuk, dan obligasi dolar terbaru Indah Kiat Pulp & Paper.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INKP",
-   "Indah Kiat Pulp Paper",
-   "rating obligasi",
-   "sukuk"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/affe76d0b2_d7111b9868.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fapa-pastikan-tak-ada-info-material-di-balik-volatilitas-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "FAPA Pastikan Tak Ada Info Material di Balik [Volatilitas] Sahamnya",
-  "deck": "PT FAP Agri Tbk merespons surat Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum diungkapkan ke publik.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAPA",
-   "PT FAP Agri Tbk",
-   "volatilitas saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c435ce7c4_d82019adda.pdf",
   "sourceLabel": "IDX"
  }
 ];

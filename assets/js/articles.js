@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "apjati-perluas-penempatan-kerja-ke-malaysia",
+  "category": "Ketenagakerjaan",
+  "title": "APJATI Perluas Penempatan Kerja ke [Malaysia]",
+  "deck": "APJATI menggelar forum bisnis ketenagakerjaan terbesarnya di Kuala Lumpur, mempertemukan puluhan agensi penyalur tenaga kerja Indonesia dan Malaysia untuk penempatan pekerja migran resmi.",
+  "image": "assets/img/apjati-perluas-penempatan-kerja-ke-malaysia.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T13:41:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466630-apjati-perkuat-kemitraan-ketenagakerjaan-indonesiamalaysia-lewat-employment-business-matching-2026",
+  "tags": [
+   "APJATI",
+   "Malaysia",
+   "pekerja migran",
+   "P3MI"
+  ],
+  "body": [
+   "Asosiasi Perusahaan Jasa Tenaga Kerja Indonesia (APJATI) menggelar Employment Business Matching (EBM) Malaysia-Indonesia 2026 di Hotel Concorde, Kuala Lumpur, selama dua hari. Malaysia menjadi negara kedelapan tempat APJATI menyelenggarakan forum semacam ini, sekaligus mencatatkan penyelenggaraan terbesar sepanjang program tersebut. Tujuannya mempertemukan langsung perusahaan penempatan pekerja migran Indonesia dengan agensi perekrut Malaysia, sambil mendorong praktik rekrutmen yang aman dan legal.",
+   "Delegasi Indonesia berjumlah 74 perwakilan dari 44 Perusahaan Penempatan Pekerja Migran Indonesia (P3MI) berizin, dipimpin Ketua Umum APJATI Said Saleh Alwaini dan Sekretaris Jenderal Maria Ginting. Pada hari pertama, delegasi bertemu 58 peserta dari 40 agensi anggota Pertubuhan Kebangsaan Sumber Manusia Malaysia (PUSMA) yang dipimpin Presiden Siti Zarina Ismail. Hari kedua diperluas dengan kehadiran 40 perusahaan Malaysia yang diwakili 50 peserta, membuka ruang pertemuan bisnis dan penjajakan kerja sama secara langsung.",
+   "Delegasi dari daerah turut diperkuat kehadiran Dewan Pengurus Daerah (DPD) APJATI dari Sumatera Utara, Nusa Tenggara Barat, Sumatera Barat, Lampung, Jawa Barat, Palembang, Sulawesi, dan Kepulauan Riau. Kegiatan ini juga menjadi bagian dari dukungan terhadap program Kementerian Pelindungan Pekerja Migran Indonesia (KP2MI), termasuk SMK Go Global yang diarahkan membuka akses lulusan Sekolah Menengah Kejuruan ke pasar kerja dan pengembangan karier internasional.",
+   "Penyelenggaraan EBM mendapat dukungan Pemerintah Indonesia melalui Perwakilan RI di Malaysia. Yang hadir antara lain Duta Besar RI untuk Malaysia Raden Dato' Mohammad Iman Hascarya, Deputy Chief of Mission Danang Waskito, Atase Tenaga Kerja Adhitya Himawan beserta tim KBRI Kuala Lumpur, Konsul Konsuler KJRI Penang Nelvy Meilia Syah, serta Pelaksana Fungsi Konsuler KJRI Johor Bahru Leny Marliani."
+  ],
+  "fotoAdegan": "Recruitment agency representatives in business attire seated in pairs at conference tables inside a hotel ballroom, mid-discussion",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4f30d09651-apjati-perkuat-kemitraan-ketenagakerjaan-indonesiamalaysia-lewat-employment-business-matching-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah skala forum pertemuan bisnis penempatan kerja, bukan aturan atau kuota baru: Malaysia jadi negara kedelapan sekaligus forum terbesar yang pernah digelar APJATI, dengan 74 perwakilan dari 44 perusahaan penempatan Indonesia bertemu total sekitar 90 agensi dan perusahaan Malaysia dalam dua hari. Yang terdampak langsung adalah perusahaan penempatan pekerja migran (P3MI) yang mencari mitra perekrut di Malaysia, serta lulusan SMK yang disasar lewat program SMK Go Global untuk masuk pasar kerja luar negeri. Berita ini belum menyebut berapa banyak pertemuan itu berujung pada kesepakatan kerja sama atau berapa pekerja yang akhirnya ditempatkan, jadi belum bisa dibaca apakah forum sebesar ini benar-benar menambah jumlah penempatan resmi atau sekadar memperluas jaringan agensi. Yang perlu ditunggu adalah data realisasi penempatan pekerja migran ke Malaysia dari KP2MI pada periode berikutnya, serta perkembangan konkret program SMK Go Global yang disebut dalam kegiatan ini.",
+  "imageV": "mty51ca3"
+ },
+ {
+  "slug": "puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb",
+  "category": "UMKM",
+  "title": "Puskopkar PTPN VIII [Diversifikasi] Bisnis Lewat Dana LPDB",
+  "deck": "Puskopkar PTPN VIII memperluas bisnis ke agrowisata, laundry coin, dan barbershop dengan dukungan dana bergulir LPDB Koperasi sejak 2021, demi mengurangi ketergantungan pada bisnis induk perusahaan.",
+  "image": "assets/img/puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T12:48:30+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466617-dana-bergulir-lpdb-koperasi-perkuat-puskopkar-ptpn-viii-bisnis-teh-hingga-agrowisata-berhasil-dikembangkan",
+  "tags": [
+   "puskopkar",
+   "ptpn viii",
+   "lpdb koperasi",
+   "dana bergulir"
+  ],
+  "body": [
+   "Pusat Koperasi Karyawan (Puskopkar) PTPN VIII, koperasi sekunder yang menaungi 43 koperasi karyawan di lingkungan bekas PTPN VIII yang kini menjadi PTPN I Regional II, mulai merambah sejumlah lini usaha baru di luar bisnis inti perkebunan teh. Selain tetap menjalankan angkutan pucuk teh dan distribusi produk teh olahan, koperasi ini mengembangkan agrowisata, laundry coin, hingga barbershop. Langkah ini penting karena menandai upaya koperasi karyawan BUMN keluar dari pola bisnis yang selama ini sangat bergantung pada kondisi keuangan perusahaan induknya.",
+   "Sekretaris Puskopkar PTPN VIII, Dina Novelia Hidayat, menjelaskan bahwa selama ini aktivitas usaha koperasi banyak bertumpu pada ekosistem bisnis PTPN VIII sebagai captive market. Menurutnya, pola tersebut membuat koperasi berisiko ikut terguncang setiap kali kondisi bisnis induk melemah, sehingga Puskopkar berupaya membangun sumber pendapatan lain yang tidak sepenuhnya terkait dengan perusahaan induk.",
+   "Di lini bisnis teh, Puskopkar tetap menjadi distributor produk-produk PTPN seperti Walini, Goalpara, dan Gunung Mas, dengan pasar yang kini diperluas ke segmen hotel, restoran, dan kafe. Di sisi lain, koperasi mengembangkan agrowisata di kawasan Ciwalini, sementara laundry coin dan barbershop menjadi bagian dari diversifikasi ke bisnis jasa sambil mengoptimalkan aset yang sudah dimiliki.",
+   "Ekspansi ke berbagai lini usaha ini membutuhkan modal yang lebih besar daripada sekadar simpanan anggota, sehingga sejak 2021 Puskopkar memanfaatkan dana bergulir dari LPDB Koperasi. Saat ini koperasi kembali mengajukan proposal pembiayaan baru ke LPDB untuk mendukung pengembangan beberapa lini usaha, termasuk rencana optimalisasi aset di kawasan Ciwaruga, Bandung Barat."
+  ],
+  "fotoAdegan": "Workers carrying baskets of freshly picked tea leaves down a terraced plantation path in misty West Java highlands",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4e0697e6a6-perkebunan-teh-dan-agrowisata-yang-dikembangkan-koperasi-karyawan-puskopkar-ptpn-viii_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan intinya, Puskopkar PTPN VIII yang menaungi 43 koperasi karyawan mulai keluar dari pola lama yang cuma menggantungkan pendapatan pada bisnis induk perusahaan. Sejak 2021 koperasi ini memakai dana bergulir dari LPDB, yaitu pinjaman modal usaha yang disalurkan pemerintah khusus untuk koperasi dan UMKM, untuk membiayai usaha di luar bisnis teh, dari agrowisata sampai laundry koin dan barbershop. Yang kena dampak langsung adalah anggota koperasi, yakni karyawan PTPN VIII sendiri, karena keberhasilan usaha-usaha baru ini menentukan apakah pendapatan mereka tetap stabil saat bisnis PTPN sedang lemah. Berita ini belum menyebutkan berapa nilai pinjaman LPDB yang diajukan kali ini untuk proyek di Ciwaruga, atau bagaimana hasil pembiayaan 2021 sejauh ini, jadi belum bisa disimpulkan seberapa jauh diversifikasi ini benar-benar mengurangi ketergantungan pada induk usaha. Yang perlu dipantau adalah keputusan LPDB atas proposal baru itu dan data kinerja usaha non-inti Puskopkar dalam setahun ke depan.",
+  "imageV": "mty51cr7"
+ },
+ {
   "slug": "anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics",
   "category": "Global",
   "title": "Anindya Bakrie Bawa Visi [Hilirisasi] RI ke Forum BRICS",

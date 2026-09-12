@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "apjati-perluas-penempatan-kerja-ke-malaysia",
+  "category": "Ketenagakerjaan",
+  "title": "APJATI Perluas Penempatan Kerja ke [Malaysia]",
+  "deck": "APJATI menggelar forum bisnis ketenagakerjaan terbesarnya di Kuala Lumpur, mempertemukan puluhan agensi penyalur tenaga kerja Indonesia dan Malaysia untuk penempatan pekerja migran resmi.",
+  "date": "12 September 2026",
+  "image": "assets/img/apjati-perluas-penempatan-kerja-ke-malaysia.jpg",
+  "imageV": "mty51ca3",
+  "tags": [
+   "APJATI",
+   "Malaysia",
+   "pekerja migran",
+   "P3MI"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466630-apjati-perkuat-kemitraan-ketenagakerjaan-indonesiamalaysia-lewat-employment-business-matching-2026"
+ },
+ {
+  "slug": "puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb",
+  "category": "UMKM",
+  "title": "Puskopkar PTPN VIII [Diversifikasi] Bisnis Lewat Dana LPDB",
+  "deck": "Puskopkar PTPN VIII memperluas bisnis ke agrowisata, laundry coin, dan barbershop dengan dukungan dana bergulir LPDB Koperasi sejak 2021, demi mengurangi ketergantungan pada bisnis induk perusahaan.",
+  "date": "12 September 2026",
+  "image": "assets/img/puskopkar-ptpn-viii-diversifikasi-bisnis-lewat-dana-lpdb.jpg",
+  "imageV": "mty51cr7",
+  "tags": [
+   "puskopkar",
+   "ptpn viii",
+   "lpdb koperasi",
+   "dana bergulir"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466617-dana-bergulir-lpdb-koperasi-perkuat-puskopkar-ptpn-viii-bisnis-teh-hingga-agrowisata-berhasil-dikembangkan"
+ },
+ {
   "slug": "anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics",
   "category": "Global",
   "title": "Anindya Bakrie Bawa Visi [Hilirisasi] RI ke Forum BRICS",
@@ -6480,38 +6514,6 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65a0f9f9e5_8a79e93c48.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smmt-tak-ada-informasi-material-di-balik-lonjakan-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMMT: Tak Ada [Informasi Material] di Balik Lonjakan Saham",
-  "deck": "Golden Eagle Energy (SMMT) menjawab permintaan penjelasan BEI atas volatilitas transaksi sahamnya pada 3 September 2026, menyatakan tidak ada informasi material maupun rencana aksi korporasi di baliknya.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMT",
-   "Golden Eagle Energy",
-   "volatilitas saham",
-   "keterbukaan informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3743ab72dd_a8c7738df0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adhi-beber-rincian-kontrak-lrt-dan-ekspansi-ke-filipina-pubex",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Beber Rincian Kontrak LRT dan Ekspansi ke Filipina [Pubex]",
-  "deck": "Materi public expose ADHI mengungkap progres kontrak LRT Jabodebek, proyek kereta baru di Filipina senilai Rp3,9 triliun didanai ADB, dan divestasi 11 anak usaha hingga 2027.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "Public Expose",
-   "LRT Jabodebek",
-   "Ekspansi Filipina"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/70a2c68586_5b4556f7c1.pdf",
   "sourceLabel": "IDX"
  }
 ];

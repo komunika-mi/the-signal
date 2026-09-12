@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "E_niyqHImIU",
+  "title": "Digitalisasi Parkir untuk Cegah Kebocoran PAD",
+  "category": "Makroekonomi",
+  "program": "Inspirasi Pagi",
+  "summary": "Pemerintah daerah mulai menerapkan sistem parkir digital untuk meningkatkan transparansi dan mengoptimalkan Pendapatan Asli Daerah (PAD).",
+  "takeaway": "Relevan karena menyangkut upaya optimalisasi penerimaan daerah melalui digitalisasi layanan publik."
+ },
+ {
+  "id": "MV_RUX_1zD4",
+  "title": "Hainantiket Raih Penghargaan Inovasi Layanan Travel Haji Umrah",
+  "category": "Bisnis",
+  "program": "Kabar Siang",
+  "summary": "HainanTicket.com meraih penghargaan APSI 2026 di kategori Inovasi Layanan Travel Muslim Haji dan Umrah, diterima langsung oleh Presiden Direktur perusahaan, Sastra Wijaya.",
+  "takeaway": "Relevan bagi pembaca karena menggambarkan pertumbuhan industri perjalanan ibadah sebagai segmen bisnis yang terus berinovasi."
+ },
+ {
   "id": "bqL0-LXX3-U",
   "title": "Mendes Yandri Berdialog dengan Petani Kopi Bogor",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Presiden Prabowo Subianto meresmikan groundbreaking tahap pertama proyek Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Gilimanuk, Bali.",
   "takeaway": "Proyek ini penting bagi pembaca ekonomi karena mencerminkan arah investasi pemerintah dalam pengembangan energi terbarukan berskala besar."
- },
- {
-  "id": "s6X2aNbkM04",
-  "title": "Presiden Prabowo Luncurkan Program PLTS 100 GWp di Bali",
-  "category": "Energi",
-  "program": "Indonesia Terkini",
-  "summary": "Presiden Prabowo Subianto menggelar peluncuran dan groundbreaking program Pembangkit Listrik Tenaga Surya (PLTS) berkapasitas 100 gigawatt puncak di Jembrana, Bali, sebagai bagian dari agenda transisi energi nasional.",
-  "takeaway": "Program energi surya berskala besar ini berpotensi menggerakkan investasi baru dan menjadi indikator kemajuan target bauran energi terbarukan Indonesia."
- },
- {
-  "id": "ewdCLytOnIA",
-  "title": "AS Ancam Sanksi Baru, Matikan Ekonomi Iran",
-  "category": "Global",
-  "program": "Apa Kabar Indonesia Malam",
-  "summary": "Amerika Serikat memberlakukan sanksi ekonomi baru terhadap Iran berdasarkan hukum domestiknya, langkah yang memicu perdebatan karena dinilai tidak memiliki dasar dari PBB.",
-  "takeaway": "Sanksi ekonomi AS terhadap Iran relevan bagi pembaca karena berpotensi memengaruhi harga energi dan arus perdagangan global."
  }
 ];

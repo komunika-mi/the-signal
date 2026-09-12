@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "E_niyqHImIU",
+  "title": "Digitalisasi Parkir untuk Cegah Kebocoran PAD",
+  "category": "Makroekonomi",
+  "program": "Inspirasi Pagi",
+  "summary": "Pemerintah daerah mulai menerapkan sistem parkir digital untuk meningkatkan transparansi dan mengoptimalkan Pendapatan Asli Daerah (PAD).",
+  "takeaway": "Relevan karena menyangkut upaya optimalisasi penerimaan daerah melalui digitalisasi layanan publik.",
+  "terbit": "2026-09-12T08:32:12+00:00"
+ },
+ {
+  "id": "MV_RUX_1zD4",
+  "title": "Hainantiket Raih Penghargaan Inovasi Layanan Travel Haji Umrah",
+  "category": "Bisnis",
+  "program": "Kabar Siang",
+  "summary": "HainanTicket.com meraih penghargaan APSI 2026 di kategori Inovasi Layanan Travel Muslim Haji dan Umrah, diterima langsung oleh Presiden Direktur perusahaan, Sastra Wijaya.",
+  "takeaway": "Relevan bagi pembaca karena menggambarkan pertumbuhan industri perjalanan ibadah sebagai segmen bisnis yang terus berinovasi.",
+  "terbit": "2026-09-12T05:45:08+00:00"
+ },
+ {
   "id": "bqL0-LXX3-U",
   "title": "Mendes Yandri Berdialog dengan Petani Kopi Bogor",
   "category": "UMKM",

@@ -506,6 +506,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "pack-tambah-451-600-saham-dari-konversi-obligasi-wajib",
+  "category": "Aksi Korporasi",
+  "title": "PACK Tambah 451.600 Saham dari [Konversi] Obligasi Wajib",
+  "deck": "BEI mencatatkan tambahan 451.600 saham PACK hasil konversi Obligasi Wajib Konversi senilai Rp45,16 juta per 11 September 2026, saham beredar naik jadi 34,11 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:52:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57549d3437_a1d4e9abe2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "konversi obligasi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mencatatkan penambahan 451.600 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) di Papan Pencatatan Akselerasi per 11 September 2026. Saham baru ini merupakan hasil konversi Obligasi Wajib Konversi (OWK) berkode PACK-01-CB, yang diajukan oleh pemegang OWK dan diproses oleh biro administrasi efek PT Adimitra Jasa Korpora. Pelaksanaan konversi tercatat pada 8 September 2026 dan saham baru diterbitkan pada 10 September 2026.",
+   "Berdasarkan surat Adimitra tertanggal 10 September 2026 kepada Direksi BEI, konversi kali ini melibatkan OWK senilai nominal Rp45,16 juta yang ditukar menjadi 451.600 saham baru. Dengan tambahan itu, total saham PACK yang tercatat di bursa naik dari 34.112.352.651 lembar menjadi 34.112.804.251 lembar. Di sisi lain, sisa OWK PACK yang belum dikonversi turun dari nilai nominal Rp7.198.569.300 menjadi Rp7.153.409.300, setara sekitar 71,53 juta unit yang masih berpotensi ditukar menjadi saham oleh pemegangnya di kemudian hari.",
+   "Surat permohonan pencatatan ini ditembuskan kepada Direksi PACK, Direksi PT Kustodian Sentral Efek Indonesia, Kepala Penilaian Perusahaan 1 BEI, dan Otoritas Jasa Keuangan, sebagai bagian dari mekanisme baku pencatatan saham hasil konversi obligasi di bursa."
+  ],
+  "fotoAdegan": "Wide shot of glass office towers in Jakarta's financial district at dusk, streetlights coming on, traffic passing below.",
+  "takeaway": "Laporan ini netral bagi fundamental PACK, sebab 451.600 saham baru hanya sekitar 0,0013 persen dari total saham PACK yang sudah beredar, jauh terlalu kecil untuk dibaca sebagai sinyal apa pun bagi arah bisnis perusahaan. Yang tersentuh di sini adalah jumlah saham beredar, yakni total lembar saham yang ada di pasar, karena setiap penambahan jumlah ini secara teori mengecilkan porsi laba yang jatuh ke tiap lembar saham lama, meski dalam kasus ini efeknya nyaris tidak terasa karena ukurannya sangat kecil. Yang perlu dipantau selanjutnya adalah sisa OWK senilai sekitar Rp7,15 miliar atau setara 71,53 juta unit yang masih bisa dikonversi pemegangnya kapan saja, sehingga masih mungkin ada penambahan saham serupa secara bertahap ke depan, di tengah sorotan investor terhadap rencana ekspansi kapasitas nikel PACK yang masih dibahas manajemen dalam paparan publik terakhir.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ppri-komisaris-divestasi-10-juta-saham-suara-ke-12-76",
   "category": "Aksi Korporasi",
   "title": "PPRI: Komisaris [Divestasi] 10 Juta Saham, Suara ke 12,76%",
@@ -529,6 +555,59 @@ var ARTICLES = [
   "fotoAdegan": "Rolls of brown packaging paper stacked in an industrial warehouse, a forklift moving nearby under fluorescent lighting",
   "takeaway": "Laporan ini bersifat netral bagi PPRI, sebab meski nilainya nyata sekitar Rp1,97 miliar, porsi yang dilepas komisaris ini hanya menggeser hak suaranya kurang dari satu poin persentase dan ia masih memegang lebih dari 12% saham perusahaan, jauh dari titik hilangnya pengaruh sebagai pemegang saham signifikan. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, bukan kas atau utang perusahaan, karena transaksi ini murni jual beli saham antarinvestor, tapi pelaku pasar tetap mencermati aksi jual orang dalam sebagai salah satu indikator bagaimana mereka sendiri menilai prospek perusahaan yang mereka urus. Yang perlu dipantau berikutnya adalah apakah Budi akan melanjutkan pengurangan kepemilikannya lewat laporan serupa dalam waktu dekat, mengingat tujuan yang ia cantumkan sendiri, yaitu divestasi, biasanya menandakan rencana pelepasan bertahap dan bukan transaksi sekali jalan.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "pack-catatkan-896-500-saham-baru-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK Catatkan 896.500 Saham Baru dari [Konversi] OWK",
+  "deck": "Bursa mencatatkan penambahan 896.500 saham PACK hasil konversi Obligasi Wajib Konversi, efektif 14 September 2026, sisa obligasi konversi masih Rp7,06 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:48:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b158f4e65a_fd633b7b56.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "Obligasi Wajib Konversi",
+   "pencatatan saham",
+   "IDX"
+  ],
+  "body": [
+   "PT Bursa Efek Indonesia mengumumkan pencatatan tambahan 896.500 saham baru PT Abadi Nusantara Hijau Investama Tbk (PACK) di Papan Pencatatan Akselerasi, menyusul permohonan konversi dari salah satu pemegang Obligasi Wajib Konversi seri PACK-01-CB. Konversi dieksekusi pada 9 September 2026 dan sahamnya diterbitkan pada 11 September 2026, dengan nilai nominal obligasi yang dikonversi sebesar Rp89.650.000 menjadi 896.500 lembar saham. Bursa menetapkan tanggal pencatatan efektif atas saham hasil konversi ini pada 14 September 2026.",
+   "Dengan tambahan tersebut, total saham PACK yang tercatat di bursa naik dari 34.112.804.251 lembar menjadi 34.113.700.751 lembar. Di sisi lain, sisa Obligasi Wajib Konversi yang belum dikonversi berkurang dari Rp7.153.409.300 menjadi Rp7.063.759.300, atau setara 70.637.593 unit yang masih berpotensi diubah menjadi saham baru di kemudian hari.",
+   "Surat permohonan pencatatan dikirim oleh PT Adimitra Jasa Korpora selaku biro administrasi efek PACK kepada Direksi Bursa Efek Indonesia, dengan tembusan ke Direksi PACK, PT Kustodian Sentral Efek Indonesia, dan Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Workers inspecting stacked nickel ore stockpiles at an industrial mining site, heavy machinery nearby, overcast daylight",
+  "takeaway": "Laporan ini netral bagi fundamental PACK, sebab 896.500 saham baru hanya sekitar 0,0026 persen dari total saham yang sudah beredar, jauh terlalu kecil untuk mengubah peta kepemilikan atau memberi sinyal arah tertentu. Pos yang tersentuh adalah jumlah saham beredar, yang jadi acuan menghitung laba per saham, alat ukur seberapa besar keuntungan perusahaan yang jadi jatah tiap lembar saham. Karena penambahannya sangat tipis, potensi pengenceran laba per saham praktis tidak terasa. Yang perlu dipantau adalah efektifnya pencatatan saham baru ini di bursa pada 14 September 2026, serta sisa Obligasi Wajib Konversi senilai Rp7,06 miliar yang masih bisa dikonversi jadi saham tambahan berikutnya, sehingga proses dilusi bertahap ini kemungkinan masih akan berlanjut.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "taxi-rugi-2025-rups-putuskan-tanpa-dividen",
+  "category": "Aksi Korporasi",
+  "title": "TAXI rugi 2025, RUPS putuskan [tanpa dividen]",
+  "deck": "RUPS Tahunan Express Transindo Utama (TAXI) memutuskan tidak membagi dividen karena rugi sepanjang 2025, sekaligus mengesahkan laporan keuangan dengan opini wajar tanpa pengecualian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:22:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7b31ed480_ea71fc5b78.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAXI",
+  "tags": [
+   "TAXI",
+   "RUPS Tahunan",
+   "dividen",
+   "Express Transindo Utama"
+  ],
+  "body": [
+   "Express Transindo Utama Tbk (TAXI) menggelar Rapat Umum Pemegang Saham Tahunan pada 9 September 2026, dihadiri pemegang saham yang mewakili 2.161.370.539 saham atau 21,14 persen dari total 10.223.647.156 saham perusahaan. Rapat menyetujui empat agenda sekaligus: pengesahan laporan tahunan dan laporan keuangan konsolidasian tahun buku 2025, keputusan tidak membagikan dividen, pemberian wewenang kepada Dewan Komisaris untuk memilih akuntan publik tahun buku 2026, serta penetapan remunerasi bagi direksi dan komisaris untuk tahun 2026.",
+   "Laporan keuangan konsolidasian tahun buku 2025 telah diaudit oleh Kantor Akuntan Publik Heroe Pramono dan Rekan dengan opini wajar tanpa pengecualian, sesuai laporan bernomor 00148/2.0480/AU.1/06/0521-2/1/V/2026 tertanggal 8 Mei 2026. RUPS juga membebaskan tanggung jawab penuh (acquit et de charge) kepada seluruh anggota direksi dan komisaris atas tindakan pengurusan dan pengawasan sepanjang 2025, sepanjang tercatat dalam laporan keuangan dan tidak melanggar aturan yang berlaku. Karena perusahaan mencatat kerugian pada tahun buku tersebut, RUPS memutuskan tidak membagikan dividen maupun menyisihkan dana cadangan. Agenda ini disetujui oleh 99,954 persen suara pemegang saham yang hadir.",
+   "Untuk urusan audit ke depan, RUPS memberi wewenang kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang terdaftar di Otoritas Jasa Keuangan, tidak berafiliasi dengan perusahaan atau direksi dan komisarisnya, serta menetapkan besaran honorarium audit untuk tahun buku 2026. Remunerasi Dewan Komisaris untuk tahun 2026 dipatok maksimal Rp120 juta per tahun secara total, dengan pembagian di antara anggota diserahkan kepada Dewan Komisaris sendiri, yang juga diberi wewenang menetapkan gaji dan tunjangan masing-masing anggota direksi. Agenda ini disetujui 99,947 persen suara, dengan 0,007 persen menolak dan 0,047 persen abstain.",
+   "Susunan direksi dan komisaris tidak berubah dan tetap menjabat untuk periode kedua hingga 20 Juli 2027. Direktur Utama dijabat Johannes B.E. Triatmojo, didampingi Jannes Philipus Chuang dan Shafruhan Sinungan sebagai direktur. Di jajaran komisaris, Ari Daryata Singgih menjabat Komisaris Utama, sedangkan M. Alfan Baharudin menjabat sebagai komisaris independen."
+  ],
+  "fotoAdegan": "Rows of sedan taxis parked in a depot yard in Jakarta, drivers wiping down hoods in early morning light",
+  "takeaway": "Keputusan RUPS ini condong negatif bagi pemegang saham karena Express Transindo membukukan kerugian sepanjang tahun buku 2025, sehingga tidak ada dividen maupun penyisihan cadangan yang bisa dibagikan. Pos yang langsung tersentuh adalah laba bersih, yaitu angka yang jadi sumber dividen dan penambah ekuitas atau modal pemilik saham, sehingga kalau labanya minus maka kedua pos itu ikut tertekan. Auditor independen tetap memberi opini wajar tanpa pengecualian atas laporan keuangan itu, artinya pencatatannya dianggap sesuai standar akuntansi meski hasil akhirnya rugi. Yang perlu dipantau berikutnya adalah laporan keuangan tahun buku 2026, karena RUPS baru saja memberi wewenang kepada Dewan Komisaris untuk menunjuk auditor baru periode itu, dan masa jabatan seluruh direksi serta komisaris saat ini juga baru berakhir 20 Juli 2027 sehingga kinerja sampai saat itu akan menentukan apakah dividen bisa kembali dibagikan.",
+  "sentimen": "negatif"
  },
  {
   "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
@@ -608,6 +687,32 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah adalah Telkom meluncurkan program tahunan baru bernama BISA Green Action Fest, yang menaungi tiga bidang kerja: pemulihan lahan dan sampah, akses air bersih, serta pemberdayaan UMKM di dalam ekosistem perusahaan. Pihak yang langsung terdampak adalah karyawan Telkom yang dilibatkan lewat program sosial internal, komunitas lingkungan yang diajak berkolaborasi, dan pelaku UMKM yang masuk program pemberdayaan tersebut. Yang masih kurang untuk membaca ke mana arah program ini adalah angka konkret, seperti berapa dana yang dialokasikan, berapa banyak UMKM atau komunitas yang benar-benar terlibat, dan apakah ada target terukur atau sekadar komitmen umum. Tanpa angka skala itu, belum bisa dipastikan apakah ini investasi keberlanjutan yang signifikan atau sekadar kegiatan tahunan yang berulang. Yang perlu dipantau adalah laporan tahunan atau laporan keberlanjutan Telkom berikutnya, karena biasanya memuat data realisasi program semacam ini.",
   "imageV": "mtx3kxg6"
+ },
+ {
+  "slug": "hrme-lawan-lelang-eksekusi-dua-bidang-tanah-di-menteng",
+  "category": "Aksi Korporasi",
+  "title": "HRME [Lawan] Lelang Eksekusi Dua Bidang Tanah di Menteng",
+  "deck": "PT Menteng Heritage Realty Tbk melawan rencana lelang eksekusi hak tanggungan atas dua bidang tanah SHGB di Menteng yang dijadwalkan 15 September 2026, karena objek dinilai masih bersengketa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:09:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5312731ff1_87f6c27a20.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRME",
+  "tags": [
+   "HRME",
+   "sengketa hukum",
+   "lelang eksekusi",
+   "hak tanggungan"
+  ],
+  "body": [
+   "PT Menteng Heritage Realty Tbk (HRME) melaporkan kepada Otoritas Jasa Keuangan bahwa PT Euro Tanada, melalui Kantor Pelayanan Kekayaan Negara dan Lelang (KPKNL) Jakarta V, telah mengumumkan pelaksanaan lelang eksekusi hak tanggungan atas dua bidang tanah milik perseroan di kawasan Menteng, Jakarta Pusat, yaitu tanah dengan Sertifikat Hak Guna Bangunan (SHGB) Nomor 4035 dan SHGB Nomor 4269. Lelang tersebut dijadwalkan berlangsung pada Selasa, 15 September 2026.",
+   "Menanggapi rencana lelang itu, perseroan melalui kuasa hukumnya mengambil langkah dengan menerbitkan pemberitahuan dan peringatan hukum lewat pengumuman di kolom harian Bisnis Indonesia dan Rakyat Merdeka pada 11 September 2026. Alasan yang diajukan adalah bahwa dua bidang tanah yang menjadi objek lelang tersebut masih berstatus sengketa hukum, sehingga proses lelang dinilai perseroan bermasalah untuk dilanjutkan.",
+   "Dalam laporan yang ditandatangani Direktur Utama Budi Kurniawan dan Corporate Secretary Dini Liviana, perseroan menyatakan peristiwa ini tidak berdampak pada kondisi keuangan maupun kelangsungan usahanya. Namun laporan tersebut tidak merinci nilai utang yang dijamin dengan hak tanggungan atas kedua bidang tanah itu, pihak yang menjadi debitur dalam ikatan jaminan tersebut, maupun bagaimana kelanjutan sengketa hukum yang menjadi dasar keberatan perseroan."
+  ],
+  "fotoAdegan": "Wide shot of a gated residential plot with an old Dutch colonial style building behind an iron fence in a leafy Jakarta neighborhood, afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi HRME karena dua bidang tanahnya di Menteng terancam berpindah tangan lewat lelang paksa, sementara klaim perseroan bahwa peristiwa ini tidak berdampak terkesan meremehkan risiko nyata atas aset tetapnya sendiri. Hak tanggungan yang menjadi dasar lelang ini adalah jaminan utang yang diikatkan ke sertifikat tanah, sehingga kalau lelang tetap berjalan dan dimenangkan pihak lain, aset tetap dan modal perseroan bisa langsung berkurang karena tanah itu lepas dari kepemilikan perusahaan. Dokumen ini tidak menyebutkan nilai utang yang dijamin maupun siapa debitur aslinya, sehingga besar kecilnya dampak keuangan yang sesungguhnya belum bisa dipastikan publik. Yang perlu dipantau adalah apakah lelang eksekusi pada Selasa, 15 September 2026 tetap berlangsung sesuai jadwal KPKNL Jakarta V, atau tertunda menyusul peringatan hukum dari kuasa hukum perseroan yang menyebut objek lelang masih bersengketa.",
+  "sentimen": "negatif"
  },
  {
   "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
@@ -714,6 +819,31 @@ var ARTICLES = [
   "takeaway": "Yang berubah di sini cuma soal jadwal, program magang nasional MagangHub memasuki putaran kedua di angkatan kedua, dengan seleksi berjalan sepekan sebelum hasilnya keluar 18 September dan magang dimulai 21 September. Yang terdampak jelas ada dua pihak, yaitu pendaftar magang yang menunggu kepastian lolos atau tidak, serta perusahaan dan instansi pemerintah yang jadi mitra penerima peserta. Siaran pers ini tidak menyebut berapa banyak orang mendaftar, berapa kuota yang tersedia, atau sektor apa saja yang membuka lowongan magang, jadi belum bisa dinilai apakah program ini membesar dibanding angkatan sebelumnya atau sekadar berjalan rutin. Yang perlu dipantau adalah pengumuman hasil pada 18 September, terutama jumlah peserta yang benar-benar diterima, karena dari situ baru terlihat skala sesungguhnya program ini."
  },
  {
+  "slug": "pthk-rombak-komite-audit-anggota-baru-gantikan-mudanto-hatta",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Rombak Komite Audit, [Anggota] Baru Gantikan Mudanto Hatta",
+  "deck": "Hutama Karya (PTHK) mengganti satu anggota komite audit. Maulidya Indah Junica menggantikan Mudanto Hatta sebagai Wakil Ketua, efektif 11 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:15:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/deb33df7b8_282b2af9d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTHK",
+  "tags": [
+   "PTHK",
+   "Hutama Karya",
+   "Komite Audit",
+   "Tata Kelola Perusahaan"
+  ],
+  "body": [
+   "PT Hutama Karya (Persero) atau PTHK melaporkan perubahan susunan komite audit ke Otoritas Jasa Keuangan, efektif berlaku 11 September 2026. Perubahan ini merujuk pada Surat Keputusan Dewan Komisaris Nomor SK-12.IX/DK/PTHK/2026 tanggal 11 September 2026 tentang Penetapan Ketua dan Wakil Ketua Komite Audit. Posisi Ketua Komite Audit tetap dijabat Siti Jamaliah Lubis untuk periode pertama, sementara satu kursi anggota merangkap Wakil Ketua berpindah tangan dari Mudanto Hatta ke Maulidya Indah Junica.",
+   "Selain pergantian tersebut, empat posisi lain di komite audit tidak berubah. Mukri Mukri tetap menjabat sebagai Wakil Ketua, sedangkan Rifky Adrianto Firdaus dan Resi Ariyasa Qadri tetap menjadi anggota. Seluruhnya tercatat menjalani periode pertama masa jabatan. Surat pemberitahuan ke OJK ditandatangani Sekretaris Perusahaan Hamdani selaku Executive Vice President, dengan tembusan kepada Dewan Komisaris dan Direksi Hutama Karya, sebagai pemenuhan kewajiban pelaporan sesuai Peraturan OJK Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit."
+  ],
+  "fotoAdegan": "Modern glass walled boardroom with an empty long table and leather chairs, city skyline through windows, soft morning light",
+  "takeaway": "Perubahan ini netral bagi Hutama Karya, karena sifatnya penataan personel pengawas internal, bukan transaksi yang menggerakkan uang masuk atau keluar perusahaan. Komite audit adalah organ yang bertugas mengawasi kualitas dan kewajaran laporan keuangan perusahaan sebelum diserahkan ke auditor independen, jadi pergantian orangnya tidak langsung mengubah angka di laporan keuangan, tapi menentukan seberapa ketat pengawasan atas laporan itu ke depan. Dokumen ini tidak menyebut agenda lanjutan seperti rapat atau tenggat baru, karena perubahan sudah berlaku sejak tanggal SK Dewan Komisaris diterbitkan, 11 September 2026. Yang layak dipantau selanjutnya adalah apakah pergantian ini berpengaruh pada catatan auditor di laporan keuangan tahunan Hutama Karya berikutnya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "public-expose-sini-grup-pjk-bidik-pengambilalihan-wajib-mto",
   "category": "Aksi Korporasi",
   "title": "Public Expose SINI: Grup PJK Bidik [Pengambilalihan], Wajib MTO",
@@ -737,6 +867,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Aerial view of an open-pit coal mine with heavy haul trucks moving along dirt roads, Kalimantan landscape, overcast sky",
   "takeaway": "Laporan ini condong positif bagi SINI karena dua sinyal konkret: dana rights issue dipakai melunasi utang bank ke Bank Mandiri dan BNI, dan akuisisi KMS mendorong cadangan batu bara naik ke sekitar 231 juta ton sambil memperluas aset ke Kalimantan Timur. Pos yang tersentuh adalah beban bunga dan ekuitas, sebab pelunasan utang mengurangi biaya bunga yang selama ini menggerus laba, sementara tambahan cadangan tambang memperkuat aset jangka panjang yang mendasari nilai buku perusahaan. Yang perlu dipantau adalah kelanjutan negosiasi pengambilalihan oleh Grup PJK, karena jika rampung akan memicu kewajiban penawaran tender kepada pemegang saham publik dengan harga acuan dari rata-rata harga tertinggi 90 hari sebelum pengumuman negosiasi, namun Perseroan belum mengungkap tanggal maupun harga final MTO tersebut.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "antm-cetak-laba-bersih-rp6-91-triliun-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Cetak [Laba Bersih] Rp6,91 Triliun Semester I 2026",
+  "deck": "ANTAM membukukan pendapatan Rp62,71 triliun dan laba bersih Rp6,91 triliun pada semester I 2026, ditopang bisnis emas, nikel, dan bauksit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T19:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d140c191a_77507ccfd5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "laba bersih",
+   "emas",
+   "nikel"
+  ],
+  "body": [
+   "PT ANTAM (Persero) Tbk (ANTM) melaporkan pendapatan bersih Rp62,71 triliun dan laba bersih Rp6,91 triliun untuk semester I 2026, dalam paparan publik tahunan yang digelar 11 September 2026. Direktur Keuangan dan Manajemen Risiko ANTAM, Arini Kasmira, mengatakan capaian ini ditopang oleh optimalisasi operasional, pengelolaan portofolio komoditas, serta disiplin menjaga efisiensi biaya.",
+   "Bisnis emas menjadi penopang utama dengan volume penjualan sekitar 18,1 ton dan pendapatan Rp50,39 triliun, atau sekitar 80 persen dari total pendapatan perusahaan. ANTAM juga tengah menyiapkan fasilitas manufaktur Logam Mulia baru di Gresik berkapasitas proyeksi 30 ton per tahun, yang saat ini masih pada tahap prakonstruksi. Di segmen nikel, ANTAM mencatat produksi bijih sekitar 7,78 juta wet metric ton (wmt) dan penjualan 6,77 juta wmt sepanjang semester I 2026, seluruhnya untuk memenuhi pasar domestik, seiring pengembangan rantai hilirisasi dari tambang, pengolahan RKEF dan HPAL, hingga material dan sel baterai kendaraan listrik.",
+   "Pada komoditas bauksit, ANTAM mengoperasikan tambang di Tayan dan fasilitas Chemical Grade Alumina (CGA) melalui PT Indonesia Chemical Alumina berkapasitas terpasang 300 ribu ton per tahun, ditambah kepemilikan 40 persen di fasilitas Smelter Grade Alumina (SGA) Mempawah berkapasitas 1 juta ton per tahun. Dari sisi neraca, hingga akhir semester I 2026 ANTAM mencatat total aset Rp61,27 triliun, total ekuitas Rp38,53 triliun, serta kas dan setara kas Rp9,23 triliun."
+  ],
+  "fotoAdegan": "Miners operating heavy machinery at an open-pit nickel ore mine, reddish laterite soil, tropical morning light in Indonesia",
+  "takeaway": "Laporan ini condong positif bagi ANTM karena pendapatan dan laba bersih semester I 2026 ditopang kontribusi kuat bisnis emas serta posisi kas yang tebal, bukan sekadar klaim tanpa angka. Pos yang tersentuh adalah ekuitas, yaitu nilai kekayaan bersih milik pemegang saham setelah dikurangi utang, yang tercatat Rp38,53 triliun, serta kas dan setara kas Rp9,23 triliun dari total aset Rp61,27 triliun, artinya sekitar 15 persen kekayaan perusahaan berbentuk uang tunai siap pakai, bantalan yang biasanya dilihat pasar sebagai kemampuan mendanai proyek hilirisasi tanpa terlalu bergantung pada utang baru. Yang perlu dipantau berikutnya adalah kelanjutan pembangunan fasilitas pengolahan emas Logam Mulia di Gresik berkapasitas sekitar 30 ton per tahun, yang menurut dokumen ini masih berada di tahap prakonstruksi sehingga belum ada kepastian kapan mulai beroperasi.",
   "sentimen": "positif"
  },
  {
@@ -819,6 +975,29 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "bmtp-bentuk-10-regional-ceo-disetujui-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BMTP Bentuk 10 [Regional CEO], Disetujui OJK",
+  "deck": "PT Bank Mandiri Taspen membentuk 10 kantor wilayah dengan Regional CEO di berbagai kota, sebagai bagian dari penguatan tata kelola organisasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T18:48:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fce1d3803_ff4c31eaca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMTP",
+  "tags": [
+   "BMTP"
+  ],
+  "body": [
+   "PT Bank Mandiri Taspen (BMTP) mengumumkan pembentukan 10 Regional CEO atau kantor wilayah baru per 9 September 2026. Langkah ini telah mendapat persetujuan dari Otoritas Jasa Keuangan (OJK), menurut laporan keterbukaan informasi yang ditandatangani Division Head Tulus Parulian Hutabarat.",
+   "Kesepuluh kantor wilayah tersebut adalah Regional CEO I Medan, Regional CEO II Palembang, Regional CEO III Jakarta, Regional CEO IV Bandung, Regional CEO V Semarang, Regional CEO VI Surabaya, Regional CEO VII Denpasar, Regional CEO VIII Banjarmasin, Regional CEO IX Makassar, dan Regional CEO X Jayapura.",
+   "Bank menyatakan pembentukan struktur regional ini bertujuan memperkuat independensi fungsi, mempertajam fokus bisnis, dan memperkuat hubungan dengan pemangku kepentingan di masing-masing wilayah operasional. Manajemen menegaskan perubahan struktur organisasi ini, termasuk perubahan struktur di kantor pusat dan jaringan kantor, tidak berdampak negatif terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "",
+  "takeaway": "Laporan ini netral bagi fundamental Bank Mandiri Taspen, karena isinya murni penataan ulang struktur organisasi internal tanpa ada angka yang mengubah kondisi keuangan bank. Perubahan semacam ini tidak menyentuh pos-pos yang biasa dipantau pasar seperti ekuitas atau modal bank, arus kas, beban bunga, maupun jumlah saham beredar, sehingga secara langsung tidak mengubah gambaran kesehatan keuangan perseroan, meski restrukturisasi organisasi dalam jangka panjang bisa memengaruhi efisiensi biaya operasional. Yang perlu dipantau berikutnya adalah siapa yang akan ditunjuk mengisi posisi Regional CEO di masing-masing dari 10 wilayah tersebut, serta apakah restrukturisasi ini tercermin pada perubahan beban operasional di laporan keuangan BMTP pada kuartal-kuartal mendatang.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
   "category": "Aksi Korporasi",
   "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
@@ -896,6 +1075,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Workers monitoring an automated cosmetics bottling line inside a factory, stainless steel machinery, bright industrial lighting",
   "takeaway": "Laporan ini condong netral bagi VICI, karena empat dari lima fasilitas kredit yang diteken sebenarnya adalah pemindahan utang lama dari Bank BCA ke Bank BNI, bukan tambahan utang baru untuk ekspansi usaha. Yang perlu dicermati adalah fasilitas modal kerja baru senilai Rp200 miliar, karena ini berpotensi menambah beban utang jangka pendek Perseroan dan bisa menaikkan beban bunga, yaitu bunga yang harus dibayar perusahaan atas pinjamannya, pada laporan keuangan mendatang. Total seluruh fasilitas mencapai 24,78 persen dari ekuitas Perseroan, yakni modal sendiri perusahaan setelah dikurangi utang, sehingga porsi utang terhadap modal VICI naik cukup berarti meski manajemen mengklaim tidak berdampak negatif. Karena transaksi ini dikecualikan dari kewajiban meminta persetujuan RUPS, tidak ada agenda pemegang saham yang perlu ditunggu terkait hal ini. Yang layak dipantau berikutnya adalah laporan keuangan kuartal III 2026, yang akan menunjukkan apakah pergantian fasilitas ini benar-benar menambah beban bunga Perseroan atau tetap netral seperti klaim manajemen.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "rans-klarifikasi-ke-bursa-soal-pemegang-saham-ditolak-masuk-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "RANS Klarifikasi ke Bursa soal Pemegang Saham Ditolak Masuk [RUPSLB]",
+  "deck": "RANS menanggapi permintaan penjelasan Bursa Efek Indonesia usai media memberitakan pemegang saham dilarang masuk RUPSLB tatap muka di BSD pada 10 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T17:45:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9677f559c5_93e36134c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RANS",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Bursa Efek Indonesia",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Rans Entertainmen Indonesia Tbk (RANS) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan bernomor S-11876/BEI.PP2/09-2026 tanggal 10 September 2026. Surat itu terkait pemberitaan TribunBanten.com yang menyebut pemegang saham marah karena datang jauh-jauh namun dilarang mengikuti RUPSLB secara tatap muka di BSD, Tangerang Selatan. Dalam surat bertanggal 11 September 2026 yang ditandatangani Rumunggu Yokonapita selaku Finance Director, perseroan membenarkan bahwa pada hari RUPSLB, sejumlah pemegang saham yang hadir fisik di lokasi memang tidak bisa masuk ke ruang rapat.",
+   "Perseroan menjelaskan RUPSLB digelar pada 10 September 2026 pukul 11.00 WIB di RANS Office Building, BSD, dengan mekanisme hybrid yaitu kehadiran fisik dan elektronik melalui eASY.KSEI. Sesuai Surat Pemanggilan, kehadiran fisik dibatasi hanya untuk 5 orang berdasarkan urutan pendaftaran lebih dulu melalui tautan Google Form. Akibat pembatasan kapasitas ini, tercatat 32 pemegang saham dengan total kepemilikan 131.300 saham tidak bisa masuk ruang rapat, meski perseroan menyatakan hak suara mereka tetap bisa disalurkan lewat eASY.KSEI, e-Proxy, atau surat kuasa konvensional.",
+   "Perseroan menegaskan insiden ini tidak memengaruhi pemenuhan kuorum, proses pengambilan keputusan, pelaksanaan pemungutan suara, maupun hasil akhir RUPSLB, dengan merujuk pada Voting Report yang mencatat suara setuju, tidak setuju, dan abstain. Sebagai langkah perbaikan ke depan, perseroan berjanji memastikan informasi lokasi di sistem eASY.KSEI turut mencantumkan keterangan mekanisme kehadiran elektronik, menyediakan verifikasi dan informasi di lokasi bagi pemegang saham yang tidak mendapat akses fisik, serta memperbaiki koordinasi antara perseroan, Biro Administrasi Efek, penyelenggara RUPS, dan petugas registrasi."
+  ],
+  "fotoAdegan": "People queuing at a registration desk inside a modern office building lobby, showing documents to staff, soft morning light in Tangerang, Indonesia.",
+  "takeaway": "Laporan ini netral bagi fundamental RANS: pembatasan kehadiran fisik di RUPSLB tidak mengubah angka keuangan apa pun, dan perseroan memastikan kuorum, hasil pemungutan suara, serta keputusan rapat tidak terganggu oleh insiden ini. Yang tersentuh di sini bukan pos seperti ekuitas, arus kas, atau laba per saham, melainkan kualitas tata kelola dan risiko kepatuhan, dua hal yang diperhatikan pelaku pasar karena kejadian berulang di forum RUPS bisa memicu pengawasan lebih ketat dari OJK atau Bursa dan mengikis kepercayaan investor pada cara perusahaan mengurus haknya. Yang perlu dipantau selanjutnya adalah apakah Bursa meminta tindak lanjut lagi setelah menerima penjelasan ini, dan apakah perbaikan yang dijanjikan, terutama koordinasi antara perseroan, biro administrasi efek, dan petugas registrasi, benar-benar diterapkan pada RUPS berikutnya mengingat belum ada tenggat waktu pasti yang disebutkan.",
   "sentimen": "netral"
  },
  {

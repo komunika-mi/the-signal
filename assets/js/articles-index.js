@@ -319,6 +319,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pack-tambah-451-600-saham-dari-konversi-obligasi-wajib",
+  "category": "Aksi Korporasi",
+  "title": "PACK Tambah 451.600 Saham dari [Konversi] Obligasi Wajib",
+  "deck": "BEI mencatatkan tambahan 451.600 saham PACK hasil konversi Obligasi Wajib Konversi senilai Rp45,16 juta per 11 September 2026, saham beredar naik jadi 34,11 miliar lembar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "konversi obligasi",
+   "pencatatan saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57549d3437_a1d4e9abe2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ppri-komisaris-divestasi-10-juta-saham-suara-ke-12-76",
   "category": "Aksi Korporasi",
   "title": "PPRI: Komisaris [Divestasi] 10 Juta Saham, Suara ke 12,76%",
@@ -332,6 +348,38 @@ var ARTICLES = [
    "Divestasi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7052-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pack-catatkan-896-500-saham-baru-dari-konversi-owk",
+  "category": "Aksi Korporasi",
+  "title": "PACK Catatkan 896.500 Saham Baru dari [Konversi] OWK",
+  "deck": "Bursa mencatatkan penambahan 896.500 saham PACK hasil konversi Obligasi Wajib Konversi, efektif 14 September 2026, sisa obligasi konversi masih Rp7,06 miliar.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "Obligasi Wajib Konversi",
+   "pencatatan saham",
+   "IDX"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b158f4e65a_fd633b7b56.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "taxi-rugi-2025-rups-putuskan-tanpa-dividen",
+  "category": "Aksi Korporasi",
+  "title": "TAXI rugi 2025, RUPS putuskan [tanpa dividen]",
+  "deck": "RUPS Tahunan Express Transindo Utama (TAXI) memutuskan tidak membagi dividen karena rugi sepanjang 2025, sekaligus mengesahkan laporan keuangan dengan opini wajar tanpa pengecualian.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAXI",
+   "RUPS Tahunan",
+   "dividen",
+   "Express Transindo Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7b31ed480_ea71fc5b78.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -383,6 +431,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466504-telkomgroup-terus-dorong-gaya-hidup-berkelanjutan-melalui-zero-plastic-movement"
+ },
+ {
+  "slug": "hrme-lawan-lelang-eksekusi-dua-bidang-tanah-di-menteng",
+  "category": "Aksi Korporasi",
+  "title": "HRME [Lawan] Lelang Eksekusi Dua Bidang Tanah di Menteng",
+  "deck": "PT Menteng Heritage Realty Tbk melawan rencana lelang eksekusi hak tanggungan atas dua bidang tanah SHGB di Menteng yang dijadwalkan 15 September 2026, karena objek dinilai masih bersengketa.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRME",
+   "sengketa hukum",
+   "lelang eksekusi",
+   "hak tanggungan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5312731ff1_87f6c27a20.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bbtn-pertahankan-peringkat-idaaa-obligasi-subordinasi-idaa",
@@ -449,6 +513,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Ketenagakerjaan"
  },
  {
+  "slug": "pthk-rombak-komite-audit-anggota-baru-gantikan-mudanto-hatta",
+  "category": "Aksi Korporasi",
+  "title": "PTHK Rombak Komite Audit, [Anggota] Baru Gantikan Mudanto Hatta",
+  "deck": "Hutama Karya (PTHK) mengganti satu anggota komite audit. Maulidya Indah Junica menggantikan Mudanto Hatta sebagai Wakil Ketua, efektif 11 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTHK",
+   "Hutama Karya",
+   "Komite Audit",
+   "Tata Kelola Perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/deb33df7b8_282b2af9d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "public-expose-sini-grup-pjk-bidik-pengambilalihan-wajib-mto",
   "category": "Aksi Korporasi",
   "title": "Public Expose SINI: Grup PJK Bidik [Pengambilalihan], Wajib MTO",
@@ -462,6 +542,22 @@ var ARTICLES = [
    "rights issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5621143147_7ebbc52798.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "antm-cetak-laba-bersih-rp6-91-triliun-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "ANTM Cetak [Laba Bersih] Rp6,91 Triliun Semester I 2026",
+  "deck": "ANTAM membukukan pendapatan Rp62,71 triliun dan laba bersih Rp6,91 triliun pada semester I 2026, ditopang bisnis emas, nikel, dan bauksit.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "laba bersih",
+   "emas",
+   "nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d140c191a_77507ccfd5.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -514,6 +610,19 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bmtp-bentuk-10-regional-ceo-disetujui-ojk",
+  "category": "Aksi Korporasi",
+  "title": "BMTP Bentuk 10 [Regional CEO], Disetujui OJK",
+  "deck": "PT Bank Mandiri Taspen membentuk 10 kantor wilayah dengan Regional CEO di berbagai kota, sebagai bagian dari penguatan tata kelola organisasi.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMTP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fce1d3803_ff4c31eaca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nice-jelaskan-arus-kas-operasi-negatif-meski-laba-naik",
   "category": "Aksi Korporasi",
   "title": "NICE jelaskan [arus kas] operasi negatif meski laba naik",
@@ -559,6 +668,22 @@ var ARTICLES = [
    "transaksi material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e4912b009c_bd05e62b6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rans-klarifikasi-ke-bursa-soal-pemegang-saham-ditolak-masuk-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "RANS Klarifikasi ke Bursa soal Pemegang Saham Ditolak Masuk [RUPSLB]",
+  "deck": "RANS menanggapi permintaan penjelasan Bursa Efek Indonesia usai media memberitakan pemegang saham dilarang masuk RUPSLB tatap muka di BSD pada 10 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RANS",
+   "RUPSLB",
+   "Bursa Efek Indonesia",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9677f559c5_93e36134c1.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6373,140 +6498,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecc3999bfc_d2a15b7de7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-dunia-diproyeksi-volatil-pekan-depan",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Dunia Diproyeksi [Volatil] Pekan Depan",
-  "deck": "Analis memperkirakan emas dunia bergerak di US$4.276-US$4.668 per troy ons, dan emas batangan domestik di Rp2,5 juta-Rp2,754 juta per gram pekan depan.",
-  "date": "6 September 2026",
-  "image": "assets/img/harga-emas-dunia-diproyeksi-volatil-pekan-depan.jpg",
-  "imageV": "mtpex89x",
-  "tags": [
-   "harga emas",
-   "emas dunia",
-   "logam mulia",
-   "geopolitik Timur Tengah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465182-harga-emas-dunia-dan-logam-mulia-diprediksi-turun-pada-perdagangan-pekan-depan"
- },
- {
-  "slug": "mknt-auditor-ragukan-kelangsungan-usaha-kas-nyaris-habis",
-  "category": "Aksi Korporasi",
-  "title": "MKNT: Auditor Ragukan [Kelangsungan Usaha], Kas Nyaris Habis",
-  "deck": "Auditor menyatakan ketidakpastian material atas kelangsungan usaha MKNT, dengan defisiensi ekuitas Rp9,14 miliar dan kas tersisa hanya Rp1,13 juta per akhir Maret 2026.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "kelangsungan usaha",
-   "laporan keuangan",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905224932-64352-0/FinancialStatement-2026-I-MKNT.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het",
-  "category": "Makroekonomi",
-  "title": "Tinjau Pasar Solo, Wamendag: Beras dan Gula [Masih] di Atas HET",
-  "deck": "Wamendag Dyah Roro Esti mengecek harga di Pasar Nusukan, Surakarta: MINYAKITA sesuai HET, tapi beras, gula pasir, dan daging sapi masih di atas harga acuan pemerintah secara nasional.",
-  "date": "5 September 2026",
-  "image": "assets/img/tinjau-pasar-solo-wamendag-beras-dan-gula-masih-di-atas-het.jpg",
-  "imageV": "mtoaypej",
-  "tags": [
-   "MINYAKITA",
-   "harga pangan",
-   "Kemendag",
-   "Surakarta"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pasar-nusukan-bersama-wali-kota-surakarta-wamendag-pastikan-pasokan-bapok-aman-dan-harga-minyakita-sesuai-het",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bulog-usul-dmo-minyakita-100-lewat-bumn-pangan",
-  "category": "BUMN",
-  "title": "Bulog Usul DMO Minyakita [100%] Lewat BUMN Pangan",
-  "deck": "Bulog menunggu restu Kemendag atas usulan menaikkan penyaluran DMO Minyakita lewat BUMN pangan dari 35 persen menjadi 100 persen.",
-  "date": "5 September 2026",
-  "image": "assets/img/bulog-usul-dmo-minyakita-100-lewat-bumn-pangan.jpg",
-  "imageV": "mtogdig5",
-  "tags": [
-   "Minyakita",
-   "Bulog",
-   "DMO",
-   "Kemendag"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465090-masih-tunggu-restu-kemendag-bulog-buka-suara-soal-usulan-dmo-minyakita-100-lewat-bumn-pangan"
- },
- {
-  "slug": "kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda",
-  "category": "Makroekonomi",
-  "title": "Kemendagri Minta Intervensi Ekonomi Daerah [Berbeda-beda]",
-  "deck": "Sekjen Kemendagri Tomsi Tohir meminta tim pemantauan menemukan akar masalah pertumbuhan ekonomi tiap daerah, bukan sekadar mengumpulkan data, demi target pertumbuhan 8 persen.",
-  "date": "5 September 2026",
-  "image": "assets/img/kemendagri-minta-intervensi-ekonomi-daerah-berbeda-beda.jpg",
-  "imageV": "mtoaypu4",
-  "tags": [
-   "Kemendagri",
-   "pertumbuhan ekonomi daerah",
-   "APBD APBN",
-   "target 8 persen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465085-sekjen-kemendagri-minta-tim-pemantauan-temukan-akar-masalah-pertumbuhan-ekonomi-daerah-intervensinya-berbeda-beda"
- },
- {
-  "slug": "pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah",
-  "category": "Energi",
-  "title": "Pertamina Kenalkan Bahan Bakar Pesawat dari [Jelantah]",
-  "deck": "Pertamina kenalkan SAF berbahan minyak jelantah ke generasi muda di IdeaFest 2026, bahan bakar yang sudah dipakai penerbangan Pelita Air rute Jakarta-Bali.",
-  "date": "5 September 2026",
-  "image": "assets/img/pertamina-kenalkan-bahan-bakar-pesawat-dari-jelantah.jpg",
-  "imageV": "mtoayqpt",
-  "tags": [
-   "sustainable aviation fuel",
-   "minyak jelantah",
-   "Pertamina",
-   "Pelita Air"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465084-kembangkan-jelantah-jadi-bahan-bakar-pesawat-pertamina-kenalkan-transisi-energi-ke-anak-muda-di-ideafest-2026"
- },
- {
-  "slug": "kuki-panggil-rupslb-bahas-dividen-saham-30-september",
-  "category": "Aksi Korporasi",
-  "title": "KUKI Panggil RUPSLB, Bahas [Dividen] Saham 30 September",
-  "deck": "KUKI akan menggelar RUPS Luar Biasa pada 30 September 2026 untuk meminta persetujuan pemegang saham atas rencana pembagian dividen dalam bentuk saham untuk tahun buku 2026.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KUKI",
-   "RUPSLB",
-   "dividen saham",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260905_KUKI_E049_32f0e4d7-d598-4d2c-b264-517b58f6e636-20260905170904.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi",
-  "category": "UMKM",
-  "title": "KDKMP Diarahkan Jadi [Pusat] Ekonomi Desa Terintegrasi",
-  "deck": "Wamendagri Bima Arya menyebut Koperasi Desa/Kelurahan Merah Putih bakal jadi kanal tunggal distribusi subsidi dan bantuan sosial di desa, bukan sekadar toko ritel biasa.",
-  "date": "5 September 2026",
-  "image": "assets/img/kdkmp-diarahkan-jadi-pusat-ekonomi-desa-terintegrasi.jpg",
-  "imageV": "mtoayr46",
-  "tags": [
-   "KDKMP",
-   "Koperasi Merah Putih",
-   "Bima Arya",
-   "ekonomi desa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465082-kdkmp-harus-jadi-pusat-layanan-ekonomi-desa-terintegrasi-wamendagri-bima-arya-ujung-tombaknya-pemda"
  }
 ];

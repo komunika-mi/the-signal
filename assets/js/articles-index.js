@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot",
+  "category": "Bisnis",
+  "title": "Bea Cukai Raih Kepuasan Tinggi, Tarif Impor [Disorot]",
+  "deck": "Survei IDM 2026 mencatat kepuasan tinggi atas layanan Bea Cukai, tapi tarif bea masuk dan aturan pembebasan bea kiriman belanja online masih dikritik pelaku usaha.",
+  "date": "12 September 2026",
+  "image": "assets/img/bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot.jpg",
+  "imageV": "mtyljr30",
+  "tags": [
+   "Bea Cukai",
+   "DJBC",
+   "Tarif Impor",
+   "Survei IDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466716-survei-idm-2026-kepuasan-pengguna-jasa-bea-cukai-tinggi-tapi-tarif-dan-aturan-barang-impor-jadi-sorotan"
+ },
+ {
   "slug": "pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar",
   "category": "Energi",
   "title": "Pertamina [Tambah] Nozzle BBM Subsidi di 12 SPBU Makassar",
@@ -6498,23 +6515,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57148b5e22_53bc028327.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi",
-  "category": "BUMN",
-  "title": "Penyaluran Pupuk Subsidi Garut Baru [55] Persen dari Alokasi",
-  "deck": "Realisasi pupuk bersubsidi di Garut baru 55,21 persen dari alokasi per 27 Agustus, sembari Pupuk Indonesia memperketat administrasi kios penyalur.",
-  "date": "4 September 2026",
-  "image": "assets/img/penyaluran-pupuk-subsidi-garut-baru-55-persen-dari-alokasi.jpg",
-  "imageV": "mtn7j55x",
-  "tags": [
-   "Pupuk Indonesia",
-   "Pupuk Bersubsidi",
-   "Garut",
-   "Kementerian Pertanian"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/879/pilar-tani-ajang-kolaborasi-pupuk-indonesia-percepat-penyaluran-pupuk-subsidi-di-garut",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
  }
 ];

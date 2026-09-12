@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot",
+  "category": "Bisnis",
+  "title": "Bea Cukai Raih Kepuasan Tinggi, Tarif Impor [Disorot]",
+  "deck": "Survei IDM 2026 mencatat kepuasan tinggi atas layanan Bea Cukai, tapi tarif bea masuk dan aturan pembebasan bea kiriman belanja online masih dikritik pelaku usaha.",
+  "image": "assets/img/bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T22:21:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466716-survei-idm-2026-kepuasan-pengguna-jasa-bea-cukai-tinggi-tapi-tarif-dan-aturan-barang-impor-jadi-sorotan",
+  "tags": [
+   "Bea Cukai",
+   "DJBC",
+   "Tarif Impor",
+   "Survei IDM"
+  ],
+  "body": [
+   "Survei Indonesia Development Monitoring (IDM) terhadap pengguna jasa Direktorat Jenderal Bea dan Cukai (DJBC) menemukan tingkat kepuasan yang tinggi terhadap pelayanan kepabeanan sehari-hari, mulai dari kecepatan proses hingga kompetensi petugas. Namun di sisi lain, tarif bea masuk dan aturan pembebasan bea untuk barang bawaan serta kiriman belanja daring dari luar negeri masih dikeluhkan. Hal ini penting karena menyangkut biaya dan kepastian usaha bagi importir, eksportir, dan konsumen yang bertransaksi lintas negara.",
+   "Survei ini dilakukan pada 28 Agustus hingga 3 September 2026 dengan melibatkan 1.005 responden dari 8.087 pelaku usaha ekspor-impor, mencakup importir, eksportir, pengusaha barang kena cukai, perusahaan jasa titipan, hingga penerima kiriman. Margin kesalahan survei ini 2,76 persen dengan tingkat kepercayaan 95 persen. Pada hampir semua indikator pelayanan, kepuasan responden berada di kisaran delapan puluh hingga sembilan puluh persen: 86,6 persen puas terhadap informasi dan kemudahan akses, 88,8 persen sangat memahami persyaratan, 89,2 persen menilai prosedur mudah dan cepat, serta 88,6 persen menilai proses ekspor-impor selesai tepat waktu.",
+   "Penggunaan teknologi pelayanan mendapat apresiasi dari 79,2 persen responden, kompetensi petugas dalam menjawab pertanyaan pengguna jasa dinilai sangat memuaskan oleh 80,8 persen, dan ketepatan penyelesaian proses kepabeanan sesuai perjanjian dinilai sangat memuaskan oleh 86,1 persen. Namun untuk soal tarif, pendapat responden terbelah: 43,7 persen menilai tarif bea masuk dan cukai masih terlalu tinggi, sementara 50,7 persen menganggapnya masih wajar karena dibutuhkan untuk penerimaan negara. Adapun aturan pembebasan bea untuk barang bawaan pribadi dan kiriman belanja daring internasional dinilai kurang mengikuti perkembangan perdagangan digital oleh 52,8 persen responden.",
+   "Direktur Eksekutif IDM Dedi Rohman menyebut hasil survei menunjukkan DJBC berhasil membangun pelayanan yang lebih modern dan berbasis teknologi. Ia menambahkan, persoalan tarif perlu ditempatkan dalam keseimbangan antara fungsi penerimaan negara, perlindungan industri dalam negeri, daya saing dunia usaha, dan kepentingan konsumen. Menurut Dedi, Bea Cukai memiliki peran ganda: bea masuk untuk melindungi industri dalam negeri, bea keluar untuk menjaga pasokan bahan baku, dan cukai untuk mengendalikan konsumsi barang tertentu seperti rokok dan alkohol, di samping fungsinya sebagai sumber penerimaan negara."
+  ],
+  "fotoAdegan": "Customs officers inspecting stacked cardboard parcels on a conveyor belt inside a busy cargo warehouse, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/02/25/67bdbd7f28f26-ilustrasi-kantor-bea-cukai-pusat_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Survei ini memperlihatkan celah antara kepuasan atas layanan harian, yang hampir semua indikatornya di atas delapan puluh persen, dengan penerimaan atas aturan besar seperti tarif dan pembebasan bea. Yang terdampak langsung adalah importir, eksportir, dan terutama konsumen atau pelaku usaha yang mengandalkan belanja atau kiriman barang dari luar negeri, karena merekalah yang berurusan dengan ambang batas bebas bea. Ada dua kemungkinan arah dari sini: tarif dan aturan pembebasan bertahan seperti sekarang karena lebih dari separuh responden masih menilainya wajar dan perlu untuk penerimaan negara, atau tekanan untuk merevisi ambang batas pembebasan menguat karena mayoritas menilai aturan itu belum mengikuti perkembangan belanja daring lintas negara. Yang akan menentukan arah mana yang berjalan adalah apakah Kementerian Keuangan atau DJBC mengubah ketentuan bea masuk maupun ambang bebas bea untuk barang kiriman pribadi dalam waktu dekat, sesuatu yang belum disinggung dalam survei ini.",
+  "imageV": "mtyljr30"
+ },
+ {
   "slug": "pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar",
   "category": "Energi",
   "title": "Pertamina [Tambah] Nozzle BBM Subsidi di 12 SPBU Makassar",

@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics",
+  "category": "Global",
+  "title": "Anindya Bakrie Bawa Visi [Hilirisasi] RI ke Forum BRICS",
+  "deck": "Ketua Kadin Anindya Bakrie sampaikan visi ekonomi Presiden Prabowo di forum bisnis BRICS New Delhi, di hadapan Putin, Modi, dan pemimpin dunia lain.",
+  "image": "assets/img/anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T11:52:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466602-disimak-putin-hingga-modi-anindya-bakrie-pidato-bawa-visi-prabowo-ke-forum-brics",
+  "tags": [
+   "brics",
+   "kadin indonesia",
+   "anindya bakrie",
+   "hilirisasi"
+  ],
+  "body": [
+   "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi ekonomi Presiden Prabowo Subianto, yakni hilirisasi, penguatan kualitas sumber daya manusia, dan kemandirian ekonomi, dalam forum bisnis BRICS di New Delhi, India, Jumat (11/9/2026). Forum itu dihadiri sejumlah pemimpin dunia, termasuk Perdana Menteri India Narendra Modi, Presiden Rusia Vladimir Putin, Presiden Afrika Selatan Cyril Ramaphosa, dan Presiden Iran Masoud Pezeshkian. Momen ini penting karena menjadi salah satu ajang pertama Indonesia menegaskan sikapnya di panggung BRICS sejak resmi bergabung dalam kelompok tersebut di bawah kepemimpinan Presiden Prabowo.",
+   "Dalam pidatonya, Anin menegaskan Indonesia tidak ingin hanya menjadi pasar bagi negara-negara anggota BRICS, melainkan ikut menentukan arah kerja sama ekonomi di dalam kelompok itu. Ia menyebut Indonesia kini memiliki chapter aktif dalam BRICS Business Council untuk mendorong kerja sama di bidang perdagangan, investasi, industri, teknologi, dan jasa. Anin menyampaikan pandangannya khusus dalam sesi yang membahas pengembangan perdagangan dan jasa antarnegara BRICS, kelompok yang menurutnya mencakup hampir separuh populasi dunia dan sekitar 40 persen perekonomian global.",
+   "Anin mendorong agar pembahasan kerja sama BRICS diarahkan pada kebutuhan nyata dunia usaha, seperti memudahkan perusahaan menemukan mitra di negara anggota lain, memasuki pasar baru, mendapatkan layanan yang diperlukan, serta melakukan pembayaran lintas negara secara cepat dan aman. Ia juga menyoroti keterkaitan antara sektor industri dan jasa, di mana industri membutuhkan dukungan teknologi, pembiayaan, perangkat lunak, logistik, dan tenaga kerja terampil, sementara pertumbuhan industri pada gilirannya menciptakan permintaan terhadap layanan-layanan pendukung tersebut."
+  ],
+  "fotoAdegan": "Delegates from many countries seated in a large auditorium during an international economic forum, translation headsets on tables",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4d86999cf3-ketum-kadin-indonesia-anindya-bakrie-di-panggung-brics-business-forum-di-new-delhi-india_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar baru dari pidato ini adalah penegasan sikap, bukan angka kesepakatan. Indonesia menyebut dirinya sudah punya kepengurusan aktif di BRICS Business Council dan menyatakan tidak mau sekadar jadi pembeli produk negara-negara BRICS, melainkan ikut menentukan aturan mainnya. Pihak yang paling terdampak jika sikap ini berlanjut adalah pelaku usaha Indonesia di sektor hilirisasi dan jasa pendukung seperti logistik, pembiayaan, dan teknologi, karena merekalah yang akan memakai jalur kerja sama baru ini kalau benar terbentuk. Namun berita ini belum menyebut satu pun kesepakatan dagang, nilai investasi, atau target waktu yang mengikat, sehingga belum bisa dibaca apakah forum ini berujung pada kerja sama konkret atau berhenti sebagai pernyataan sikap. Yang perlu dipantau adalah hasil dari pertemuan BRICS Business Council berikutnya atau KTT BRICS mendatang, misalnya kesepakatan dagang atau skema pembayaran lintas negara yang justru disebut Anin sendiri sebagai kebutuhan mendesak pelaku usaha.",
+  "imageV": "mtxz1jb2"
+ },
+ {
+  "slug": "bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon",
+  "category": "UMKM",
+  "title": "BUMDes Sulap Lahan Kosong Jadi Wisata Petik [Melon]",
+  "deck": "BUMDes Panjunan mengubah lahan kosong jadi greenhouse melon hidroponik yang bisa dipetik langsung, panen 400 buah tiap tiga bulan.",
+  "image": "assets/img/bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T11:47:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466599-lahan-bumdes-disulap-jadi-wisata-petik-melon-3-bulan-sekali-panen-400-buah",
+  "tags": [
+   "BUMDes",
+   "melon hidroponik",
+   "wisata petik",
+   "ketahanan pangan"
+  ],
+  "body": [
+   "BUMDes Panjunan di Kecamatan Sukodono mengubah lahan kosong menjadi greenhouse budi daya melon hidroponik yang sekaligus difungsikan sebagai destinasi wisata petik buah. Langkah ini menarik karena menunjukkan bagaimana dana desa bisa diarahkan ke usaha bernilai tambah, bukan sekadar simpan pinjam, sekaligus membuka akses melon premium dengan harga lebih terjangkau bagi warga sekitar.",
+   "Direktur BUMDes Panjunan, Syaiful Soemarsono, menjelaskan pembangunan greenhouse seluas 8 x 17 meter persegi ini menggunakan sekitar Rp190 juta dana BUMDes, yang dialokasikan untuk bangunan, gudang, greenhouse, material tanam, dan modal kerja. Ia menyebut proyek ini sejalan dengan program ketahanan pangan pemerintah yang mendorong swasembada pangan dan pemerataan akses gizi. Di dalam greenhouse itu ditanam empat varietas melon, yaitu Dalmatian, Sweet Lavender, Sweet Golden, dan Minion.",
+   "Sekali panen, greenhouse ini menghasilkan hingga 400 buah melon dengan bobot rata-rata 1,5 kilogram per buah, atau total sekitar 600 kilogram, dengan siklus panen setiap tiga bulan dan masa petik berlangsung sekitar tiga minggu. Harga jual bervariasi per varietas, Dalmatian dibanderol Rp30 ribu per kilogram, Sweet Lavender dan Sweet Golden masing-masing Rp27 ribu per kilogram, serta Minion Rp25 ribu per kilogram. Menurut Syaiful, seluruh hasil panen selalu terjual habis melalui skema wisata petik, di mana pengunjung memetik sendiri lalu membayar sesuai berat buah yang diambil.",
+   "Syaiful menambahkan kendala utama budi daya ini bukan hama, melainkan jamur yang muncul akibat cuaca bediding, yaitu kondisi suhu udara yang terasa lebih dingin dari biasanya. Untuk buah yang tidak masuk grade utama, BUMDes tetap menyalurkannya ke pengepul, sementara hasil kualitas terbaik dipasarkan lewat distributor dan reseller dengan brand sendiri."
+  ],
+  "fotoAdegan": "Rows of hydroponic melon vines hanging inside a greenhouse, ripening fruit cradled in nets, morning sunlight filtering through plastic roofing",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa4d855200ac-greenhouse-buah-melon_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah dana desa sekitar Rp190 juta yang tadinya lazim dipakai untuk usaha simpan pinjam, kini diarahkan membangun kebun melon hidroponik yang sekaligus jadi tempat wisata petik, dan menurut pengelolanya selalu laku 100 persen tiap tiga bulan panen. Yang terdampak langsung adalah pengelola BUMDes Panjunan sendiri sebagai penerima manfaat usaha, serta warga sekitar dan pembeli langganan yang mendapat akses melon premium seharga Rp25 ribu sampai Rp30 ribu per kilogram. Arahnya mengarah ke diversifikasi pendapatan badan usaha desa dari sekadar unit simpan pinjam menuju agribisnis bernilai tambah yang juga menarik kunjungan wisata. Yang akan memastikan apakah model ini benar berkelanjutan adalah apakah panen berikutnya, sekitar Desember 2026, tetap terjual habis di tengah risiko jamur akibat cuaca dingin yang sudah disebut sebagai kendala utama, dan apakah BUMDes menambah unit greenhouse serupa.",
+  "imageV": "mtxz1jrt"
+ },
+ {
   "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
   "category": "Aksi Korporasi",
   "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",

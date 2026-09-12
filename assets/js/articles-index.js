@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics",
+  "category": "Global",
+  "title": "Anindya Bakrie Bawa Visi [Hilirisasi] RI ke Forum BRICS",
+  "deck": "Ketua Kadin Anindya Bakrie sampaikan visi ekonomi Presiden Prabowo di forum bisnis BRICS New Delhi, di hadapan Putin, Modi, dan pemimpin dunia lain.",
+  "date": "12 September 2026",
+  "image": "assets/img/anindya-bakrie-bawa-visi-hilirisasi-ri-ke-forum-brics.jpg",
+  "imageV": "mtxz1jb2",
+  "tags": [
+   "brics",
+   "kadin indonesia",
+   "anindya bakrie",
+   "hilirisasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466602-disimak-putin-hingga-modi-anindya-bakrie-pidato-bawa-visi-prabowo-ke-forum-brics"
+ },
+ {
+  "slug": "bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon",
+  "category": "UMKM",
+  "title": "BUMDes Sulap Lahan Kosong Jadi Wisata Petik [Melon]",
+  "deck": "BUMDes Panjunan mengubah lahan kosong jadi greenhouse melon hidroponik yang bisa dipetik langsung, panen 400 buah tiap tiga bulan.",
+  "date": "12 September 2026",
+  "image": "assets/img/bumdes-sulap-lahan-kosong-jadi-wisata-petik-melon.jpg",
+  "imageV": "mtxz1jrt",
+  "tags": [
+   "BUMDes",
+   "melon hidroponik",
+   "wisata petik",
+   "ketahanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466599-lahan-bumdes-disulap-jadi-wisata-petik-melon-3-bulan-sekali-panen-400-buah"
+ },
+ {
   "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
   "category": "Aksi Korporasi",
   "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
@@ -6478,38 +6512,6 @@ var ARTICLES = [
    "Ekspansi Filipina"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/70a2c68586_5b4556f7c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "testsbkd-disuspensi-bei-usai-opini-audit-disclaimer-2-tahun",
-  "category": "Aksi Korporasi",
-  "title": "TESTSBKD [Disuspensi] BEI Usai Opini Audit Disclaimer 2 Tahun",
-  "deck": "Bursa menghentikan sementara perdagangan saham TESTSBKD di seluruh pasar mulai 4 September 2026 setelah laporan keuangan auditannya mendapat opini disclaimer dua tahun berturut-turut.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTSBKD",
-   "suspensi saham",
-   "opini disclaimer",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260904_TESTSBKD_B007_4dd398db-65f2-4a55-8c32-3c0321d501da-20260905091430.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemegang-saham-lepas-20-juta-saham-demi-free-float",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemegang Saham Lepas 20 Juta Saham demi [Free Float]",
-  "deck": "Pemenang Nusantara Internasional melepas 20 juta saham WINR seharga Rp20 per lembar untuk menambah porsi saham beredar bebas (free float).",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "kepemilikan saham",
-   "free float",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8961-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "2pHOiUx2_Gk",
+  "title": "Anindya Bakrie Paparkan Visi Hilirisasi di Forum BRICS",
+  "category": "Global",
+  "program": "AKIM",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi ekonomi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian ekonomi di forum pemimpin BRICS.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah kebijakan hilirisasi dan posisi diplomasi ekonomi Indonesia di forum multilateral BRICS.",
+  "terbit": "2026-09-12T13:00:21+00:00"
+ },
+ {
   "id": "GuVSDcktZlc",
   "title": "Antrean Panjang Kendaraan di SPBU Kota Makassar",
   "category": "Energi",

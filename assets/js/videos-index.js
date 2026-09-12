@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "2pHOiUx2_Gk",
+  "title": "Anindya Bakrie Paparkan Visi Hilirisasi di Forum BRICS",
+  "category": "Global",
+  "program": "AKIM",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi ekonomi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian ekonomi di forum pemimpin BRICS.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah kebijakan hilirisasi dan posisi diplomasi ekonomi Indonesia di forum multilateral BRICS."
+ },
+ {
   "id": "GuVSDcktZlc",
   "title": "Antrean Panjang Kendaraan di SPBU Kota Makassar",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
   "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional."
- },
- {
-  "id": "1KLQyv9o92A",
-  "title": "Pembangunan Fasilitas Pengolahan Sampah Jadi Listrik Dimulai",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
-  "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur."
  }
 ];

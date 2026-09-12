@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar",
+  "category": "Energi",
+  "title": "Pertamina [Tambah] Nozzle BBM Subsidi di 12 SPBU Makassar",
+  "deck": "Pertamina Patra Niaga mengubah konfigurasi dan menambah nozzle BBM subsidi di 12 SPBU Makassar untuk mengantisipasi lonjakan permintaan.",
+  "image": "assets/img/pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T18:54:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466682-antisipasi-lonjakan-bbm-pertamina-patra-niaga-ubah-konfigurasi-dan-tambah-nozzle-bbm-subsidi-di-belasan-spbu-makassar",
+  "tags": [
+   "bbm subsidi",
+   "spbu",
+   "pertamina patra niaga",
+   "makassar"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga mengubah konfigurasi kapasitas pelayanan dan menambah nozzle BBM bersubsidi di 12 SPBU Kota Makassar. Langkah ini diambil untuk mengantisipasi lonjakan kebutuhan BBM sekaligus mempercepat proses pengisian dan memangkas antrean di lapangan.",
+   "Penyesuaian dilakukan dengan mengatur ulang kapasitas pengisian di setiap SPBU sesuai kondisi masing-masing lokasi. Kebijakan ini melengkapi langkah sebelumnya berupa perpanjangan jam operasional menjadi 24 jam penuh di 25 SPBU se-Makassar, sehingga masyarakat punya rentang waktu lebih luas untuk mengisi BBM.",
+   "VP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, mengatakan perusahaan terus mengevaluasi kondisi operasional di lapangan sebagai dasar penyesuaian layanan. Ia menambahkan bahwa pemantauan stok dan penyaluran BBM di Makassar turut diperkuat, dengan pola distribusi yang diatur secara dinamis mengikuti kebutuhan tiap SPBU.",
+   "Selain menambah kapasitas layanan, Pertamina Patra Niaga mengimbau masyarakat membeli BBM sesuai kebutuhan dan tidak melakukan pembelian secara berlebihan. Perusahaan menyatakan langkah optimalisasi ini akan terus disesuaikan mengikuti perkembangan kebutuhan masyarakat di Makassar."
+  ],
+  "fotoAdegan": "Attendant filling a motorcycle tank at a busy gas station forecourt, queue of scooters waiting, tropical afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa53aa8c814d-antrean-pengisian-bbm-di-salah-satu-spbu-yang-ada-di-makassar_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret adalah konfigurasi dan jumlah nozzle BBM subsidi di 12 SPBU Makassar, menyusul kebijakan sebelumnya yang membuat 25 SPBU di kota itu beroperasi 24 jam penuh. Yang terdampak langsung adalah masyarakat pengguna BBM subsidi di Makassar serta operator SPBU yang harus menyesuaikan pelayanan mereka. Berita ini tidak menyebutkan apa pemicu lonjakan kebutuhan yang diantisipasi, apakah terkait musim tertentu, rencana kebijakan harga, atau tanda-tanda keterbatasan pasokan di lapangan. Imbauan agar warga tidak membeli BBM secara berlebihan layak dicermati bersama data penyaluran dan stok di Makassar pada pekan-pekan berikutnya, karena itu yang akan menunjukkan apakah penyesuaian ini sekadar langkah rutin atau respons atas gejala kelangkaan yang mulai terasa.",
+  "imageV": "mtygtilk"
+ },
+ {
   "slug": "ojk-dukung-rekening-massal-bank-wajib-hati-hati",
   "category": "Perbankan",
   "title": "OJK Dukung Rekening Massal, Bank Wajib [Hati-hati]",

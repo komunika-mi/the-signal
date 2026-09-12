@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar",
+  "category": "Energi",
+  "title": "Pertamina [Tambah] Nozzle BBM Subsidi di 12 SPBU Makassar",
+  "deck": "Pertamina Patra Niaga mengubah konfigurasi dan menambah nozzle BBM subsidi di 12 SPBU Makassar untuk mengantisipasi lonjakan permintaan.",
+  "date": "12 September 2026",
+  "image": "assets/img/pertamina-tambah-nozzle-bbm-subsidi-di-12-spbu-makassar.jpg",
+  "imageV": "mtygtilk",
+  "tags": [
+   "bbm subsidi",
+   "spbu",
+   "pertamina patra niaga",
+   "makassar"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466682-antisipasi-lonjakan-bbm-pertamina-patra-niaga-ubah-konfigurasi-dan-tambah-nozzle-bbm-subsidi-di-belasan-spbu-makassar"
+ },
+ {
   "slug": "ojk-dukung-rekening-massal-bank-wajib-hati-hati",
   "category": "Perbankan",
   "title": "OJK Dukung Rekening Massal, Bank Wajib [Hati-hati]",
@@ -6499,23 +6516,5 @@ var ARTICLES = [
   "kreditFoto": "PT Pupuk Indonesia (Persero)",
   "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/879/pilar-tani-ajang-kolaborasi-pupuk-indonesia-percepat-penyaluran-pupuk-subsidi-di-garut",
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt",
-  "category": "Energi",
-  "title": "Sektor Minerba Kerahkan [58] Tim Bantu Korban Gempa NTT",
-  "deck": "Kementerian ESDM dan 82 perusahaan tambang menurunkan 58 tim tanggap darurat ke Manggarai Timur, Manggarai, dan Nagekeo untuk membantu warga terdampak gempa NTT.",
-  "date": "4 September 2026",
-  "image": "assets/img/sektor-minerba-kerahkan-58-tim-bantu-korban-gempa-ntt.jpg",
-  "imageV": "mtn7j7md",
-  "tags": [
-   "Gempa NTT",
-   "ESDM",
-   "Minerba",
-   "Tanggap Darurat"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

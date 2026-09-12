@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ojk-dukung-rekening-massal-bank-wajib-hati-hati",
+  "category": "Perbankan",
+  "title": "OJK Dukung Rekening Massal, Bank Wajib [Hati-hati]",
+  "deck": "OJK mendukung program pembukaan rekening massal bagi warga baru 17 tahun dan penerima bansos, tapi menegaskan bank tetap harus menjalankan proses pengecekan identitas nasabah secara ketat.",
+  "image": "assets/img/ojk-dukung-rekening-massal-bank-wajib-hati-hati.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T18:00:01+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466675-ojk-klaim-pembukaan-rekening-massal-strategis-untuk-perkuat-literasi-keuangan-tapi-bank-tetap-wajib-hati-hati",
+  "tags": [
+   "OJK",
+   "rekening massal",
+   "bansos",
+   "LPS"
+  ],
+  "body": [
+   "Otoritas Jasa Keuangan menyatakan dukungan terhadap program pemerintah untuk membuka rekening bank secara massal, terutama bagi generasi yang baru berusia 17 tahun dan penerima bantuan sosial. Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae menilai kepemilikan rekening resmi sejak usia tersebut bisa menjadi titik awal kebiasaan menabung dan bertransaksi secara aman, sekaligus memperluas akses masyarakat ke layanan keuangan formal.",
+   "Program ini juga diharapkan mempermudah penyaluran bantuan sosial langsung ke rekening penerima, sehingga distribusinya lebih transparan dan tepat sasaran dibanding metode manual. Meski mendukung, OJK menegaskan bank tetap wajib menjalankan proses mengenal nasabah atau know your customer sesuai aturan yang berlaku, agar pembukaan rekening dalam jumlah besar tidak mengorbankan kehati-hatian perbankan.",
+   "Untuk mempercepat proses tanpa mengurangi validitas data, OJK menyebut pemanfaatan data kependudukan digital lewat integrasi Dukcapil dan e-KTP bisa jadi solusi, selama dilakukan secara aman dan tervalidasi. Dian menambahkan, koordinasi antara pemerintah, Bank Indonesia, OJK, dan industri perbankan menjadi kunci agar petunjuk teknis dan kerangka regulasi program ini rampung tanpa menimbulkan kendala operasional bagi bank.",
+   "Data Lembaga Penjamin Simpanan mencatat jumlah rekening simpanan di perbankan nasional mencapai 701,48 juta akun hingga Juli 2026, tumbuh 8,9 persen sejak awal tahun. Dibandingkan Juli 2025 yang tercatat 637,15 juta akun, jumlah rekening naik 10,10 persen dalam setahun terakhir, menunjukkan tren pertambahan nasabah yang terus berlanjut sebelum program rekening massal ini bergulir."
+  ],
+  "fotoAdegan": "A young customer handing an ID card to a bank teller at a counter, others waiting in line, quiet morning banking hall",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/20/69e5af83c9352-ilustrasi-rekening-bank_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sinyal bahwa OJK, Bank Indonesia, dan pemerintah sedang menyiapkan aturan teknis supaya warga yang baru genap 17 tahun dan penerima bantuan sosial otomatis punya rekening bank, dengan syarat bank tetap harus memeriksa identitas setiap nasabah satu per satu meski jumlahnya besar. Yang paling terdampak adalah bank penyalur bansos dan bank yang biasa melayani nasabah baru dalam jumlah besar, karena mereka harus menambah kapasitas verifikasi tanpa boleh mengendurkan aturan pengecekan identitas. Ke mana arahnya, kepemilikan rekening bank tampak sedang diarahkan jadi syarat baku penyaluran bansos, sejalan dengan jumlah rekening simpanan yang menurut data LPS sudah naik 10,10 persen dalam setahun menjadi 701,48 juta akun per Juli 2026. Yang masih kurang untuk memastikan arah ini adalah petunjuk teknis dan kerangka aturan yang menurut OJK sendiri masih disiapkan bersama Bank Indonesia dan pemerintah, sehingga belum jelas kapan integrasi data Dukcapil dan e-KTP itu benar-benar dipakai bank untuk mempercepat pembukaan rekening massal.",
+  "imageV": "mtyafu5w"
+ },
+ {
+  "slug": "presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india",
+  "category": "Global",
+  "title": "Presiden Prabowo Bicara di [Dua Sesi] Utama KTT BRICS India",
+  "deck": "Presiden Prabowo Subianto dijadwalkan menyampaikan pandangan Indonesia dalam dua sesi utama KTT ke-18 BRICS di New Delhi, termasuk isu reformasi WTO, IMF, dan Bank Dunia.",
+  "image": "assets/img/presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T17:01:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466661-presiden-prabowo-dijadwalkan-bicara-di-dua-sesi-utama-ktt-ke-18-brics-india",
+  "tags": [
+   "BRICS",
+   "Presiden Prabowo",
+   "India",
+   "Reformasi Ekonomi Global"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto dijadwalkan tampil di dua sesi utama Konferensi Tingkat Tinggi (KTT) ke-18 BRICS yang berlangsung di New Delhi, India, pada 12-13 September 2026. Kehadiran ini penting karena Indonesia baru resmi berstatus anggota penuh BRICS sejak 1 Januari 2025, sehingga forum ini menjadi salah satu panggung awal Indonesia untuk ikut menentukan arah kerja sama ekonomi antarnegara berkembang.",
+   "Sekretaris Kementerian Koordinator Bidang Perekonomian Susiwijono Moegiarso menjelaskan, sesi pertama bersifat tertutup dan hanya diikuti negara anggota BRICS, mengangkat tema Inclusive Global Governance and Strengthening Multilateralism. Sesi kedua lebih terbuka karena turut mempertemukan negara anggota dengan negara mitra BRICS, dengan tema Resilience, Innovation, Cooperation and Sustainability: Shaping the Future for Inclusive Global Growth. Di kedua forum itu, Presiden Prabowo Subianto akan menyampaikan pandangan pemerintah Indonesia soal tata kelola global dan agenda pertumbuhan ekonomi yang lebih inklusif.",
+   "Di bawah keketuaan India, agenda KTT BRICS 2026 mencakup delapan isu besar, yaitu pengembangan kerangka institusional BRICS, perdagangan dan perekonomian, keuangan internasional, perdamaian dan keamanan, energi, ketahanan pangan dan pertanian, digitalisasi dan teknologi, serta perubahan iklim dan lingkungan. Salah satu isu ekonomi yang secara khusus disebut adalah dorongan reformasi lembaga multilateral, termasuk Organisasi Perdagangan Dunia (WTO), Dana Moneter Internasional (IMF), dan Bank Dunia.",
+   "Pertemuan tahun ini digelar di Bharat Mandapam, New Delhi, kompleks yang sebelumnya menjadi lokasi KTT G20 pada 2023."
+  ],
+  "fotoAdegan": "Row of multiple national flags fluttering outside a modern conference center building under a clear daytime sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/12/6aa520a02770a-presiden-prabowo-subianto-pada-ktt-ke-18-brics-di-new-delhi-india_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar jadwal pidato, melainkan posisi Indonesia yang kini duduk di meja inti BRICS sebagai anggota penuh sejak awal 2025, bukan lagi sekadar tamu. Salah satu agenda yang dibawa adalah dorongan reformasi WTO, IMF, dan Bank Dunia, yakni lembaga-lembaga yang selama ini mengatur aturan dagang dan pinjaman antarnegara, sehingga yang berkepentingan dengan hasilnya adalah pelaku usaha dan eksportir Indonesia yang bergantung pada aturan main perdagangan global itu. Buktinya masih terbelah antara dua kemungkinan, forum ini menghasilkan sikap bersama yang konkret untuk mendorong perubahan tata kelola lembaga keuangan global, atau berakhir seperti KTT-KTT BRICS sebelumnya yang lebih banyak menghasilkan pernyataan tanpa perubahan struktural. Yang akan menjawabnya adalah isi komunike resmi KTT yang biasanya terbit di penghujung acara, yakni sekitar 13 September 2026.",
+  "imageV": "mtyafula"
+ },
+ {
   "slug": "apjati-perluas-penempatan-kerja-ke-malaysia",
   "category": "Ketenagakerjaan",
   "title": "APJATI Perluas Penempatan Kerja ke [Malaysia]",

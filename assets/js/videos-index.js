@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "GuVSDcktZlc",
+  "title": "Antrean Panjang Kendaraan di SPBU Kota Makassar",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean kendaraan untuk mengisi bahan bakar minyak mengular di sejumlah SPBU Kota Makassar dan sekitarnya, dengan pengendara rela menunggu berjam-jam.",
+  "takeaway": "Fenomena antrean BBM ini penting disimak pembaca ekonomi karena menyangkut kelancaran pasokan energi yang berdampak langsung pada aktivitas masyarakat dan dunia usaha."
+ },
+ {
+  "id": "tND-2xgxNBc",
+  "title": "Anindya Bakrie Bawa Visi Presiden Prabowo ke Forum BRICS",
+  "category": "Global",
+  "program": "Apa Kabar Indonesia Akhir Pekan",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian di forum BRICS.",
+  "takeaway": "Pidato ini mencerminkan arah kebijakan hilirisasi dan pengembangan SDM yang dibawa Indonesia ke panggung ekonomi global lewat forum BRICS."
+ },
+ {
   "id": "E_niyqHImIU",
   "title": "Digitalisasi Parkir untuk Cegah Kebocoran PAD",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pembangunan fasilitas pengelolaan sampah menjadi energi listrik (PSEL) di Kota Bekasi resmi dimulai pada 26 Agustus 2026, berlokasi di kawasan Ciketing Udik, Bantargebang.",
   "takeaway": "Proyek PSEL berkaitan dengan upaya pengembangan energi alternatif dari sampah perkotaan, sehingga relevan bagi pembaca yang mengikuti isu energi dan investasi infrastruktur."
- },
- {
-  "id": "tyj_A0VFAYQ",
-  "title": "Sandiaga Uno Jadi Presiden Komisaris MUTU International",
-  "category": "Bisnis",
-  "program": "Kabar Pagi",
-  "summary": "PT Mutuagung Lestari Tbk atau MUTU International menunjuk Sandiaga Salahuddin Uno sebagai Presiden Komisaris melalui RUPSLB, seiring rencana perusahaan memperluas bisnis sertifikasi mutu.",
-  "takeaway": "Pergantian jajaran komisaris di perusahaan terbuka layak disimak karena berpotensi mengubah arah strategi dan tata kelola perusahaan ke depan."
- },
- {
-  "id": "r4A6TWWW1sw",
-  "title": "Presiden Prabowo Resmikan PLTS Gilimanuk di Bali",
-  "category": "Energi",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto meresmikan groundbreaking tahap pertama proyek Pembangkit Listrik Tenaga Surya berkapasitas 100 gigawatt peak di Gilimanuk, Bali.",
-  "takeaway": "Proyek ini penting bagi pembaca ekonomi karena mencerminkan arah investasi pemerintah dalam pengembangan energi terbarukan berskala besar."
  }
 ];

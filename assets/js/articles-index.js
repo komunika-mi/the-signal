@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ojk-dukung-rekening-massal-bank-wajib-hati-hati",
+  "category": "Perbankan",
+  "title": "OJK Dukung Rekening Massal, Bank Wajib [Hati-hati]",
+  "deck": "OJK mendukung program pembukaan rekening massal bagi warga baru 17 tahun dan penerima bansos, tapi menegaskan bank tetap harus menjalankan proses pengecekan identitas nasabah secara ketat.",
+  "date": "12 September 2026",
+  "image": "assets/img/ojk-dukung-rekening-massal-bank-wajib-hati-hati.jpg",
+  "imageV": "mtyafu5w",
+  "tags": [
+   "OJK",
+   "rekening massal",
+   "bansos",
+   "LPS"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466675-ojk-klaim-pembukaan-rekening-massal-strategis-untuk-perkuat-literasi-keuangan-tapi-bank-tetap-wajib-hati-hati"
+ },
+ {
+  "slug": "presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india",
+  "category": "Global",
+  "title": "Presiden Prabowo Bicara di [Dua Sesi] Utama KTT BRICS India",
+  "deck": "Presiden Prabowo Subianto dijadwalkan menyampaikan pandangan Indonesia dalam dua sesi utama KTT ke-18 BRICS di New Delhi, termasuk isu reformasi WTO, IMF, dan Bank Dunia.",
+  "date": "12 September 2026",
+  "image": "assets/img/presiden-prabowo-bicara-di-dua-sesi-utama-ktt-brics-india.jpg",
+  "imageV": "mtyafula",
+  "tags": [
+   "BRICS",
+   "Presiden Prabowo",
+   "India",
+   "Reformasi Ekonomi Global"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466661-presiden-prabowo-dijadwalkan-bicara-di-dua-sesi-utama-ktt-ke-18-brics-india"
+ },
+ {
   "slug": "apjati-perluas-penempatan-kerja-ke-malaysia",
   "category": "Ketenagakerjaan",
   "title": "APJATI Perluas Penempatan Kerja ke [Malaysia]",
@@ -6483,37 +6517,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/58-tim-tanggap-darurat-subsektor-minerba-hadir-dampingi-warga-terdampak-gempa-di-ntt",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "hasil-pubex-dooh-opsi-rights-issue-danai-ambisi-ai",
-  "category": "Aksi Korporasi",
-  "title": "Hasil Pubex DOOH: Opsi [Rights Issue] Danai Ambisi AI",
-  "deck": "Manajemen DOOH mengaku mempertimbangkan rights issue untuk mendanai rencana investasi ekosistem AI senilai puluhan miliar dolar AS, jauh di atas aset perseroan sekitar Rp406 miliar.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Public Expose",
-   "Rights Issue",
-   "Data Center"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3b62ab88a0_feca62fccf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ricy-tak-bagi-dividen-komisaris-berkurang-jadi-dua-orang",
-  "category": "Aksi Korporasi",
-  "title": "RICY Tak Bagi Dividen, [Komisaris] Berkurang Jadi Dua Orang",
-  "deck": "RUPST dan RUPSLB RICY sepakat tidak bagi dividen tunai 2025, terima pengunduran diri satu komisaris, dan tetapkan remunerasi direksi-komisaris Rp2,87 miliar hingga akhir 2026.",
-  "date": "4 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RICY",
-   "RUPST",
-   "dividen",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/65a0f9f9e5_8a79e93c48.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "GuVSDcktZlc",
+  "title": "Antrean Panjang Kendaraan di SPBU Kota Makassar",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean kendaraan untuk mengisi bahan bakar minyak mengular di sejumlah SPBU Kota Makassar dan sekitarnya, dengan pengendara rela menunggu berjam-jam.",
+  "takeaway": "Fenomena antrean BBM ini penting disimak pembaca ekonomi karena menyangkut kelancaran pasokan energi yang berdampak langsung pada aktivitas masyarakat dan dunia usaha.",
+  "terbit": "2026-09-12T09:53:36+00:00"
+ },
+ {
+  "id": "tND-2xgxNBc",
+  "title": "Anindya Bakrie Bawa Visi Presiden Prabowo ke Forum BRICS",
+  "category": "Global",
+  "program": "Apa Kabar Indonesia Akhir Pekan",
+  "summary": "Ketua Umum Kadin Indonesia Anindya Novyan Bakrie menyampaikan visi Presiden Prabowo Subianto soal hilirisasi, peningkatan kualitas sumber daya manusia, dan kemandirian di forum BRICS.",
+  "takeaway": "Pidato ini mencerminkan arah kebijakan hilirisasi dan pengembangan SDM yang dibawa Indonesia ke panggung ekonomi global lewat forum BRICS.",
+  "terbit": "2026-09-12T09:03:33+00:00"
+ },
+ {
   "id": "E_niyqHImIU",
   "title": "Digitalisasi Parkir untuk Cegah Kebocoran PAD",
   "category": "Makroekonomi",

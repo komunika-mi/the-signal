@@ -141,6 +141,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/466599-lahan-bumdes-disulap-jadi-wisata-petik-melon-3-bulan-sekali-panen-400-buah"
  },
  {
+  "slug": "rupst-gria-tanpa-dividen-direktur-pemasaran-dihapus",
+  "category": "Aksi Korporasi",
+  "title": "RUPST GRIA: Tanpa [Dividen], Direktur Pemasaran Dihapus",
+  "deck": "RUPST GRIA pada 30 Juni 2026 memutuskan tidak membagi dividen tahun buku 2025, menghapus jabatan Direktur Pemasaran, dan mengangkat Bambang Eko Prabowo sebagai Direktur Operasional baru.",
+  "date": "12 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GRIA",
+   "RUPST",
+   "dividen",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a12886f4ea_29c1331b54.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
   "category": "Aksi Korporasi",
   "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
@@ -154,6 +170,22 @@ var ARTICLES = [
    "Nikel"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44d3c65149_5efe3b8fa6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dssa-pangkas-modal-ganti-presiden-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "DSSA [Pangkas] Modal, Ganti Presiden Komisaris",
+  "deck": "RUPSLB DSSA menyetujui pengurangan modal lewat penarikan 3,85 miliar saham buyback dan menunjuk David Fernando Audy sebagai Presiden Komisaris baru.",
+  "date": "12 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DSSA",
+   "RUPSLB",
+   "pengurangan modal",
+   "pergantian komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/484dae9803_a612d61cbd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -239,6 +271,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "cybr-catatkan-saham-baru-dari-konversi-waran",
+  "category": "Aksi Korporasi",
+  "title": "CYBR Catatkan Saham Baru dari [Konversi Waran]",
+  "deck": "BEI mencatatkan tambahan 1.001.000 saham PT ITSEC Asia Tbk (CYBR) hasil konversi Waran Seri I, efektif diperdagangkan 14 September 2026.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "konversi waran",
+   "ITSEC Asia",
+   "pencatatan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bea7c86100_a202b7b592.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "obligasi-dan-sukuk-bmtr-rp10-6-miliar-jatuh-tempo-14-sept",
   "category": "Aksi Korporasi",
   "title": "Obligasi dan Sukuk BMTR Rp10,6 Miliar [Jatuh Tempo] 14 Sept",
@@ -268,6 +316,22 @@ var ARTICLES = [
    "dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3e171fbe53_b8ec5248b5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppri-komisaris-divestasi-10-juta-saham-suara-ke-12-76",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Komisaris [Divestasi] 10 Juta Saham, Suara ke 12,76%",
+  "deck": "Komisaris PPRI menjual 10 juta saham senilai sekitar Rp1,97 miliar untuk tujuan divestasi, hak suaranya turun dari 13,69% menjadi 12,76%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRI",
+   "Paperocks Indonesia",
+   "Dewan Komisaris",
+   "Divestasi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7052-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -498,6 +562,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-saham-rp7-85-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama [Tambah] Saham Rp7,85 Miliar",
+  "deck": "Tunggal Jaya Investama membeli 4,76 juta saham IMPC senilai sekitar Rp7,85 miliar pada 8 dan 10 September 2026, menaikkan hak suaranya tipis ke 38,41 persen.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IMPC",
+   "kepemilikan saham",
+   "Tunggal Jaya Investama",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7235-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "lapd-rencanakan-rights-issue-rp100-miliar-dilusi-50",
   "category": "Aksi Korporasi",
   "title": "LAPD Rencanakan [Rights Issue] Rp100 Miliar, Dilusi 50%",
@@ -511,6 +591,22 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/75095f685b_927d47843a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-lepas-2-3-juta-saham-ke-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri [lepas] 2,3 juta saham ke grup usaha",
+  "deck": "Pemegang saham Putrasakti Mandiri menjual 2,3 juta saham Puri Sentul Permai seharga Rp408 per lembar untuk restrukturisasi internal kelompok usaha, hak suara turun tipis ke 32,13%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2028-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -754,6 +850,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tapg-komisaris-jual-431-200-saham-senilai-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Komisaris [Jual] 431.200 Saham Senilai Rp1 Miliar",
+  "deck": "PT Investindo Arya, yang menjabat komisaris TAPG, melepas 431.200 saham TAPG pada 8 September 2026 seharga Rp2.320 per saham, mengurangi hak suaranya menjadi 0,0119%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-9487-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "suni-jawab-bursa-laba-turun-piutang-macet-melonjak-609",
   "category": "Aksi Korporasi",
   "title": "SUNI Jawab Bursa: Laba Turun, Piutang Macet [Melonjak] 609%",
@@ -866,6 +978,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "nsss-direksi-lepas-289-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas 289 Juta Saham Lewat [Repo]",
+  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 289,3 juta saham senilai sekitar Rp160,6 miliar pada 10 September 2026, memangkas hak suaranya dari 26,61% menjadi 25,40%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2845-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "palm-ganti-direktur-gomos-benjamin-silitonga-masuk-jajaran",
   "category": "Aksi Korporasi",
   "title": "PALM Ganti Direktur, [Gomos Benjamin Silitonga] Masuk Jajaran",
@@ -947,6 +1075,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rlco-direksi-jual-29-6-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Jual 29,6 Juta Saham Lewat [Repo]",
+  "deck": "Direksi Samuel Sekuritas Indonesia melepas 29,6 juta saham RLCO seharga Rp2.200 per saham untuk pencairan repo, hak suara turun dari 6,57% menjadi 5,62%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1536-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "asbi-presiden-direktur-mundur-bertepatan-rupslb-30-september",
   "category": "Aksi Korporasi",
   "title": "ASBI: Presiden Direktur [Mundur] Bertepatan RUPSLB 30 September",
@@ -979,6 +1123,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "sqmi-cgs-international-jual-bersih-126-juta-saham-wilton-makmur",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: CGS International [Jual] Bersih 126 Juta Saham Wilton Makmur",
+  "deck": "CGS International Securities Singapore melaporkan penjualan bersih 126 juta saham Wilton Makmur pada 4 September 2026, menurunkan hak suaranya dari 19,58% menjadi 18,77%.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SQMI",
+   "kepemilikan saham",
+   "CGS International",
+   "Wilton Makmur"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-0829-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
   "category": "Aksi Korporasi",
   "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
@@ -992,6 +1152,38 @@ var ARTICLES = [
    "Grup Sinar Mas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e167318277_708de80761.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emmi-yulie-sekuritas-tambah-saham-lewati-10",
+  "category": "Aksi Korporasi",
+  "title": "EMMI: Yulie Sekuritas Tambah Saham, Lewati [10%]",
+  "deck": "Yulie Sekuritas Indonesia menambah 1.441.900 lembar saham EMMI pada 9-10 September 2026, membuat hak suaranya naik dari 9,95 persen menjadi 10,06 persen.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMMI",
+   "kepemilikan saham",
+   "Yulie Sekuritas",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-6017-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "spre-kepemilikan-moch-adhi-pamungkas-melonjak-ke-5-52",
+  "category": "Aksi Korporasi",
+  "title": "SPRE: Kepemilikan Moch Adhi Pamungkas [Melonjak] ke 5,52%",
+  "deck": "Investor non-direksi menambah kepemilikan saham SPRE dari 3,6 juta menjadi 44,2 juta unit, hak suara naik jadi 5,52 persen.",
+  "date": "11 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPRE",
+   "kepemilikan saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1074-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6316,204 +6508,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465082-kdkmp-harus-jadi-pusat-layanan-ekonomi-desa-terintegrasi-wamendagri-bima-arya-ujung-tombaknya-pemda"
- },
- {
-  "slug": "pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest",
-  "category": "Energi",
-  "title": "Pertamina Kenalkan Strategi [Pertumbuhan Ganda] di IdeaFest",
-  "deck": "Pertamina memperkenalkan Dual Growth Strategy di IdeaFest 2026, memadukan bisnis migas yang ada dengan pengembangan energi rendah karbon seperti SAF dari minyak jelantah.",
-  "date": "5 September 2026",
-  "image": "assets/img/pertamina-kenalkan-strategi-pertumbuhan-ganda-di-ideafest.jpg",
-  "imageV": "mtoayrj6",
-  "tags": [
-   "Pertamina",
-   "SAF",
-   "energi bersih",
-   "IdeaFest 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465079-pertamina-kenalkan-strategi-pertumbuhan-ganda-ke-generasi-muda-energi-bersih-jadi-andalan-baru"
- },
- {
-  "slug": "skema-transfer-tunai-bansos-diuji-coba-awal-2027",
-  "category": "Makroekonomi",
-  "title": "Skema [Transfer Tunai] Bansos Diuji Coba Awal 2027",
-  "deck": "Ketua DEN Luhut Binsar Pandjaitan menyebut bansos akan disalurkan tunai sekitar Rp5,4 juta per keluarga, dengan uji coba dimulai kuartal I-II 2027.",
-  "date": "5 September 2026",
-  "image": "assets/img/skema-transfer-tunai-bansos-diuji-coba-awal-2027.jpg",
-  "imageV": "mtoayrxw",
-  "tags": [
-   "bansos",
-   "transfer tunai",
-   "Luhut Binsar Pandjaitan",
-   "Dewan Ekonomi Nasional"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465077-luhut-ungkap-skema-baru-bansos-lewat-transfer-tunai-diuji-coba-mulai-kuartal-i-ii-2027"
- },
- {
-  "slug": "luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10",
-  "category": "Makroekonomi",
-  "title": "Luhut: GovTech Tekan Bansos Salah Sasaran ke Bawah [10%]",
-  "deck": "Ketua Dewan Ekonomi Nasional Luhut Binsar Pandjaitan mengklaim integrasi data GovTech menekan bansos salah sasaran dari 77,6 persen menjadi di bawah 10 persen.",
-  "date": "5 September 2026",
-  "image": "assets/img/luhut-govtech-tekan-bansos-salah-sasaran-ke-bawah-10.jpg",
-  "imageV": "mtoaysc0",
-  "tags": [
-   "bansos",
-   "GovTech",
-   "Luhut Binsar Pandjaitan",
-   "digitalisasi data"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465073-luhut-klaim-govtech-tekan-bansos-salah-sasaran-dari-776-jadi-di-bawah-10-tutup-kebocoran-sana-sini"
- },
- {
-  "slug": "mtdl-pacu-agentic-ai-data-ai-tumbuh-52-yoy-di-1h26",
-  "category": "Aksi Korporasi",
-  "title": "MTDL Pacu [Agentic AI], Data & AI Tumbuh 52% YoY di 1H26",
-  "deck": "Metrodata percepat adopsi agentic AI lewat Knowgen.AI dan Megarock, sembari bisnis Data & AI tumbuh 52 persen dan Hybrid AI 171 persen pada semester I 2026.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTDL",
-   "Agentic AI",
-   "Data & AI",
-   "Metrodata Electronics"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/98c044a5b1_2a63884968.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi",
-  "category": "Energi",
-  "title": "Pertamina Tindak 31 SPBU di Sumbar soal BBM [Subsidi]",
-  "deck": "Pertamina Patra Niaga menyanksi 31 SPBU di Sumatera Barat pada Januari-Agustus 2026 akibat pelanggaran penyaluran BBM bersubsidi, dari kendaraan tak sesuai hingga QR Code dipakai berulang.",
-  "date": "5 September 2026",
-  "image": "assets/img/pertamina-tindak-31-spbu-di-sumbar-soal-bbm-subsidi.jpg",
-  "imageV": "mtoayt0n",
-  "tags": [
-   "BBM subsidi",
-   "Pertamina Patra Niaga",
-   "SPBU",
-   "Sumatera Barat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465065-31-spbu-ditindak-pertamina-patra-niaga-perketat-pengawasan-bbm-subsidi-di-sumatera-barat"
- },
- {
-  "slug": "tgra-koreksi-laporan-keuangan-kas-anjlok-90-persen",
-  "category": "Aksi Korporasi",
-  "title": "TGRA Koreksi Laporan Keuangan, Kas [Anjlok] 90 Persen",
-  "deck": "Koreksi laporan keuangan interim semester I 2025 menunjukkan kas TGRA tersisa Rp77 juta dan laba ditahan berbalik jadi defisit, sementara ekuitas cuma turun tipis 1,8 persen.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "laporan keuangan",
-   "koreksi laporan",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-7c20726d-1d42-4e1e-af36-356530a95c9f-1/FinancialStatement-2025-II-TGRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtwi-cetak-laba-rp12-2-miliar-2024-berbalik-dari-rugi",
-  "category": "Aksi Korporasi",
-  "title": "MTWI Cetak [Laba] Rp12,2 Miliar 2024, Berbalik dari Rugi",
-  "deck": "Laporan keuangan tahunan auditan MTWI menunjukkan laba bersih Rp12,2 miliar pada 2024, berbalik dari rugi tahun sebelumnya, didukung kenaikan pendapatan premi 57,8 persen.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTWI",
-   "laporan keuangan",
-   "asuransi",
-   "laba bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f-170a304c-429f-4d6e-a64e-1610eb59c810-1/FinancialStatement-2024-Tahunan-MTWI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "strategi-branding-bertingkat-untuk-wirausaha-gen-z",
-  "category": "UMKM",
-  "title": "Strategi Branding Bertingkat untuk Wirausaha [Gen Z]",
-  "deck": "Forum wirausaha Gen Z di Jakarta membahas tiga lapis strategi membangun merek, sekaligus program pemerintah yang mendorong UMKM naik kelas ke usaha formal.",
-  "date": "5 September 2026",
-  "image": "assets/img/strategi-branding-bertingkat-untuk-wirausaha-gen-z.jpg",
-  "imageV": "mtoaytkk",
-  "tags": [
-   "UMKM",
-   "Gen Z",
-   "branding",
-   "Kementerian UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/465029-jangan-asal-promosi-ini-3-strategi-pemasaran-untuk-pengusaha-gen-z"
- },
- {
-  "slug": "kemnaker-gelontorkan-bantuan-modal-ke-9-731-wirausaha-baru",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Gelontorkan [Bantuan] Modal ke 9.731 Wirausaha Baru",
-  "deck": "Kemnaker menyalurkan modal usaha Rp15 juta untuk 1.000 penerima TKM Lanjutan dan Rp5 juta untuk 8.731 penerima TKM Pemula, total sekitar Rp58,7 miliar dari APBN.",
-  "date": "5 September 2026",
-  "image": "assets/img/kantor-startup.jpg",
-  "tags": [
-   "Kemnaker",
-   "TKM",
-   "Bantuan UMKM",
-   "Wirausaha"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/menaker-kunci-wirausaha-bukan-sekadar-dapat-pelanggan-tapi-menjaga-hubungan",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "kemnaker-buka-pendaftaran-pelatihan-vokasi-batch-5",
-  "category": "Ketenagakerjaan",
-  "title": "Kemnaker Buka Pendaftaran [Pelatihan Vokasi] Batch 5",
-  "deck": "Kemnaker membuka pendaftaran Pelatihan Vokasi Nasional Batch 5 pada 27 Agustus-16 September 2026, menyasar pencari kerja, korban PHK, dan lulusan SMA/SMK.",
-  "date": "5 September 2026",
-  "image": "assets/img/pelatihan-vokasi.jpg",
-  "tags": [
-   "Kemnaker",
-   "Pelatihan Vokasi",
-   "PHK",
-   "SMK"
-  ],
-  "sourceUrl": "https://kemnaker.go.id/news/detail/kemnaker-buka-pelatihan-vokasi-nasional-batch-5-untuk-akselerasi-keterampilan-tenaga-kerja",
-  "sourceLabel": "Kementerian Ketenagakerjaan"
- },
- {
-  "slug": "delapan-umkm-surakarta-siap-tampil-di-tei-2026",
-  "category": "UMKM",
-  "title": "Delapan UMKM Surakarta Siap Tampil di [TEI] 2026",
-  "deck": "Kemendag memastikan delapan UMKM asal Surakarta, didominasi produk batik, tampil di Trade Expo Indonesia 2026, menyusul kunjungan ke sentra rotan dan batik setempat.",
-  "date": "5 September 2026",
-  "image": "assets/img/delapan-umkm-surakarta-siap-tampil-di-tei-2026.jpg",
-  "imageV": "mtnkkzse",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Batik Surakarta",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-ekspor-rotan-dan-batik-surakarta-wamendag-roro-pantau-kesiapan-umkm-jelang-tei-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dooh-koreksi-arus-kas-usai-permintaan-penjelasan-bei",
-  "category": "Aksi Korporasi",
-  "title": "DOOH [Koreksi] Arus Kas Usai Permintaan Penjelasan BEI",
-  "deck": "DOOH mengoreksi laporan arus kas kuartal I 2026 setelah BEI mempertanyakan penerimaan Rp16,52 miliar dari penjualan modem yang salah dicatat sebagai kas operasi, seharusnya kas investasi.",
-  "date": "5 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "laporan keuangan",
-   "arus kas",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/57148b5e22_53bc028327.pdf",
-  "sourceLabel": "IDX"
  }
 ];

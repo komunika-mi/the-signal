@@ -218,6 +218,33 @@ var ARTICLES = [
   "imageV": "mtxz1jrt"
  },
  {
+  "slug": "rupst-gria-tanpa-dividen-direktur-pemasaran-dihapus",
+  "category": "Aksi Korporasi",
+  "title": "RUPST GRIA: Tanpa [Dividen], Direktur Pemasaran Dihapus",
+  "deck": "RUPST GRIA pada 30 Juni 2026 memutuskan tidak membagi dividen tahun buku 2025, menghapus jabatan Direktur Pemasaran, dan mengangkat Bambang Eko Prabowo sebagai Direktur Operasional baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T08:34:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a12886f4ea_29c1331b54.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GRIA",
+  "tags": [
+   "GRIA",
+   "RUPST",
+   "dividen",
+   "direksi"
+  ],
+  "body": [
+   "PT Ingria Pratama Capitalindo Tbk (GRIA) mengoreksi laporan Ringkasan Risalah RUPS Tahunan yang sebelumnya disampaikan pada 2 Juli 2026, menyusul Rapat Umum Pemegang Saham Tahunan (RUPST) yang digelar 30 Juni 2026 di Hotel Grand Zuri BSD, Tangerang Selatan. Rapat dihadiri pemegang saham yang mewakili 5.988.029.074 saham, atau sekitar 81,19 persen dari total 7.375.720.674 saham dengan hak suara Perseroan, dan seluruh empat agenda disetujui bulat tanpa ada suara menolak atau abstain. Pemegang saham mengesahkan laporan tahunan dan laporan keuangan auditan tahun buku 2025, sekaligus memberi pembebasan tanggung jawab penuh kepada jajaran direksi dan komisaris atas pengurusan sepanjang tahun tersebut. Perseroan juga memutuskan tidak membagikan dividen untuk tahun buku 2025 karena laba tahun berjalan belum diatribusikan kepada pemegang saham.",
+   "Selain itu, RUPST memberi kuasa kepada Dewan Komisaris, dengan memperhatikan rekomendasi Komite Audit, untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026 beserta menetapkan honorariumnya. Dewan Komisaris juga diberi wewenang menetapkan gaji dan tunjangan bagi jajaran direksi dan komisaris untuk tahun buku 2026, tanpa disebutkan angka nominalnya dalam dokumen ini.",
+   "Perubahan paling konkret ada pada susunan direksi. RUPST menyetujui restrukturisasi yang menghapus jabatan Direktur Pemasaran, memberhentikan dengan hormat Irwansyah Hakim Noor dari posisi tersebut, serta memberhentikan Moch Dody Supriyadi dari jabatan Direktur Operasional. Sebagai gantinya, Bambang Eko Prabowo diangkat sebagai Direktur Operasional baru untuk periode 30 Juni 2026 sampai 30 Juni 2031. Sejak penutupan rapat, fungsi pemasaran, penjualan, pengembangan pasar, hubungan keagenan, dan strategi komersial Perseroan berada langsung di bawah koordinasi Direktur Utama Khufran Hakim Noor, dengan pelaksanaan harian didelegasikan ke divisi Sales/Marketing/Business Development. Susunan direksi kini hanya tiga orang, yaitu Khufran Hakim Noor sebagai Direktur Utama, Hugofeber Parluhutan Silalahi sebagai Direktur Keuangan, dan Bambang Eko Prabowo sebagai Direktur Operasional, sementara Dewan Komisaris tidak berubah dengan Arvan Rivaldy R Siregar sebagai Komisaris Utama dan Gunawan Wisaksono sebagai Komisaris Independen.",
+   "Resume notaris yang menyertai laporan ini merinci pemegang saham yang hadir dalam rapat. Khufran Hakim Noor tercatat sebagai pemegang saham terbesar dengan 3.486.806.674 lembar saham, disusul Arvan Rivaldy R Siregar dengan 1.756.650.000 lembar saham, sementara sisanya tersebar di antara dua direktur yang diberhentikan, beberapa pemegang saham lain, dan publik. Rapat dipimpin oleh Komisaris Independen Gunawan Wisaksono, dan seluruh keputusan dituangkan dalam akta notaris Tiara Widyantine nomor 148 tertanggal 30 Juni 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a podium in a hotel ballroom before a corporate meeting, soft morning light",
+  "takeaway": "Laporan RUPST ini condong netral bagi fundamental GRIA, sebab seluruh keputusan bersifat administratif dan tidak mengubah struktur permodalan maupun pengendalian perusahaan. Pos yang tersentuh adalah laba ditahan, karena keputusan tidak membagi dividen berarti seluruh laba tahun 2025 tetap mengendap sebagai kas atau modal di dalam perusahaan alih-alih mengalir ke kantong pemegang saham, sesuatu yang lazim tapi tetap berarti tidak ada uang tunai yang diterima pemegang saham tahun ini. Penghapusan jabatan Direktur Pemasaran dan penggabungan fungsinya ke bawah Direktur Utama juga layak dicermati, karena bisa berarti efisiensi biaya, atau justru menandakan penyusutan fokus pada penjualan, dan dokumen ini tidak menjelaskan alasannya. Yang perlu dipantau berikutnya adalah laporan keuangan tahun buku 2026, yang akan jadi bukti pertama apakah struktur direksi baru tanpa Direktur Pemasaran berdampak pada kinerja penjualan Perseroan.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
   "category": "Aksi Korporasi",
   "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
@@ -241,6 +268,32 @@ var ARTICLES = [
   ],
   "fotoAdegan": "Wide view of a nickel ore stockpile at an Indonesian mining site, an excavator loading ore onto a haul truck under overcast sky",
   "takeaway": "Laporan ini netral bagi ANHI, sebab tidak ada angka keuangan baru yang dibuka, dan rencana aksi korporasi yang disinggung manajemen masih kabur meski kini sudah menyasar satu arah konkret, yakni penambahan kapasitas bijih nikel. Kalau rencana ekspansi kapasitas ini benar dijalankan, yang perlu diawasi investor adalah arus kas perusahaan, yaitu uang yang keluar masuk dari kegiatan operasional dan investasi, karena membangun kapasitas produksi baru biasanya butuh dana besar dari kas internal atau utang baru. Penegasan bahwa EEP tetap pemegang saham pengendali, sementara Haji Isam hanya pemegang saham minoritas signifikan, juga meredam spekulasi soal pergeseran kendali perusahaan yang sempat beredar di publik. Yang perlu dipantau selanjutnya adalah keterbukaan informasi resmi ke bursa soal aksi korporasi ini, sebab manajemen sendiri mengaku belum bisa memberi rincian dan dokumen ini tidak menyebut target waktunya.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "dssa-pangkas-modal-ganti-presiden-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "DSSA [Pangkas] Modal, Ganti Presiden Komisaris",
+  "deck": "RUPSLB DSSA menyetujui pengurangan modal lewat penarikan 3,85 miliar saham buyback dan menunjuk David Fernando Audy sebagai Presiden Komisaris baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T05:19:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/484dae9803_a612d61cbd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DSSA",
+  "tags": [
+   "DSSA",
+   "RUPSLB",
+   "pengurangan modal",
+   "pergantian komisaris"
+  ],
+  "body": [
+   "Dian Swastatika Sentosa Tbk (DSSA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 10 September 2026, di Hotel Pullman Jakarta, dihadiri pemegang saham yang mewakili 147.750.868.617 saham atau 94,67 persen dari total 156.062.123.250 saham berhak suara. Rapat dipimpin oleh Evita Herawati Legowo dan membahas dua agenda: pengurangan modal serta pergantian susunan pengurus.",
+   "Agenda pertama, pengurangan modal melalui penarikan kembali saham hasil pembelian kembali (buyback), disetujui 99,9 persen suara. Modal dasar perseroan turun dari Rp600 miliar menjadi Rp596 miliar, sedangkan modal ditempatkan dan disetor turun dari Rp192.638.080.000 menjadi Rp188.785.446.800, dengan cara menarik dan membatalkan 3.852.633.200 saham. Direksi diberi kuasa untuk menyusun ulang Anggaran Dasar dan mengurus persetujuan atau pemberitahuan perubahan tersebut kepada Menteri Hukum.",
+   "Agenda kedua, juga disetujui 99,9 persen suara, mengesahkan pengunduran diri Franky Oesman Widjaja dari jabatan Presiden Komisaris beserta pembebasan tanggung jawab pengawasan untuk periode 1 Januari hingga 10 September 2026. David Fernando Audy, yang sebelumnya menjabat Direktur, mundur dari posisi itu dan diangkat sebagai Presiden Komisaris baru dengan masa jabatan hingga 30 Juni 2029. Susunan Dewan Komisaris kini terdiri dari David Fernando Audy, Handhianto Suryo Kentjono, serta empat Komisaris Independen: Evita Herawati Legowo, Robert Arthur Simanjuntak, F.X. Sutijastoto, dan Hendrikus Passagi. Susunan Direksi tidak berubah selain kekosongan yang ditinggalkan Audy, yaitu Lay Krisnan Cahya sebagai Presiden Direktur, Lokita Prasetya dan Marlo Budiman sebagai Wakil Presiden Direktur, serta Hermawan Tarjono, Daniel Cahya, Alex Sutanto, dan Mona Angelique Susanto sebagai Direktur."
+  ],
+  "fotoAdegan": "Wide shot of industrial power transmission towers and pylons at an energy complex under a hazy dusk sky in Indonesia",
+  "takeaway": "Laporan ini netral bagi fundamental DSSA, karena pengurangan modal hanya memformalkan saham hasil buyback yang memang sudah dibeli perseroan sebelumnya, sementara pergantian Presiden Komisaris adalah suksesi internal ke sesama jajaran pengurus lama, bukan masuknya pihak luar atau tanda pelemahan kendali. Yang tersentuh adalah jumlah saham beredar dan ekuitas tercatat, karena saham beredar berkurang sekitar 3,85 miliar lembar dari total 192,64 miliar menjadi 188,79 miliar. Berkurangnya jumlah saham ini secara teknis membuat laba per saham, yaitu laba bersih dibagi jumlah saham beredar, dihitung atas basis yang lebih kecil sehingga angkanya bisa naik meski labanya sendiri tidak berubah. Yang perlu dipantau berikutnya adalah realisasi perubahan Anggaran Dasar lewat persetujuan Menteri Hukum serta pelantikan resmi David Fernando Audy, karena dokumen ini belum menyebut tanggal efektif pastinya.",
   "sentimen": "netral"
  },
  {
@@ -376,6 +429,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "cybr-catatkan-saham-baru-dari-konversi-waran",
+  "category": "Aksi Korporasi",
+  "title": "CYBR Catatkan Saham Baru dari [Konversi Waran]",
+  "deck": "BEI mencatatkan tambahan 1.001.000 saham PT ITSEC Asia Tbk (CYBR) hasil konversi Waran Seri I, efektif diperdagangkan 14 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T22:26:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bea7c86100_a202b7b592.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "konversi waran",
+   "ITSEC Asia",
+   "pencatatan saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan pencatatan tambahan saham PT ITSEC Asia Tbk (CYBR) hasil konversi Waran Seri I (CYBR-W) sebanyak 1.001.000 lembar. Dengan tambahan ini, total saham CYBR yang tercatat di bursa naik dari 13.485.057.905 lembar menjadi 13.486.058.905 lembar, dan saham baru tersebut resmi dicatatkan serta mulai diperdagangkan pada 14 September 2026.",
+   "Berdasarkan surat PT Adimitra Jasa Korpora selaku biro administrasi efek CYBR kepada BEI, pelaksanaan atau exercise waran tersebut terjadi pada 10 September 2026 dan saham barunya diterbitkan sehari setelahnya, 11 September 2026. Proses ini sekaligus mengurangi jumlah Waran Seri I yang belum dikonversi, dari sebelumnya 422.826.299 lembar menjadi 421.825.299 lembar."
+  ],
+  "fotoAdegan": "Technicians checking blurred server racks in a dim data center, cables organized neatly, cool blue ambient lighting",
+  "takeaway": "Penambahan ini netral bagi ITSEC Asia karena saham baru dari konversi waran hanya sekitar 0,0074 persen dari total saham beredar sebelumnya, sehingga tidak mengubah peta kepemilikan maupun pengendalian perusahaan. Yang tersentuh adalah jumlah saham beredar, yang naik tipis dari 13,485 miliar menjadi 13,486 miliar lembar, dan secara teori sedikit menambah dilusi laba per saham, yaitu bagian laba perusahaan yang dihitung untuk tiap lembar saham, meski dalam kasus ini efeknya nyaris tidak terasa karena ukurannya sangat kecil. Yang perlu dipantau selanjutnya adalah sisa Waran Seri I yang masih beredar sebanyak 421.825.299 lembar, karena pemegangnya masih bisa mengonversinya menjadi saham baru secara bertahap sebelum jatuh tempo, dan setiap konversi berikutnya akan kembali menambah jumlah saham beredar CYBR.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "obligasi-dan-sukuk-bmtr-rp10-6-miliar-jatuh-tempo-14-sept",
   "category": "Aksi Korporasi",
   "title": "Obligasi dan Sukuk BMTR Rp10,6 Miliar [Jatuh Tempo] 14 Sept",
@@ -426,6 +504,31 @@ var ARTICLES = [
   "fotoAdegan": "Workers loading cement sacks onto a truck at a distribution warehouse, grey dust in the air, forklift nearby",
   "takeaway": "Laporan ini condong positif bagi SMGR, karena data yang diungkapkan menunjukkan perbaikan nyata pada struktur utang dan arus kas perseroan, bukan sekadar seremoni tahunan. Penurunan utang dari Rp11,4 triliun menjadi Rp8,06 triliun dan membaiknya rasio utang terhadap ekuitas dari 0,26 kali menjadi 0,18 kali berarti perseroan kini punya beban utang yang jauh lebih ringan dibanding modal sendirinya, sehingga bunga yang dibayar ke kreditur berkurang dan sisa laba bisa lebih besar. Pemulihan volume penjualan 9,7% setelah sempat turun pada 2025 juga jadi sinyal bahwa strategi penjualan ritel baru perseroan mulai membuahkan hasil. Yang perlu dipantau berikutnya adalah realisasi rencana merger anak usaha beton dan distribusi yang masih berjalan, serta keputusan besaran dividen dari laba tahun buku 2026 yang menurut manajemen baru akan dibagikan pada 2027.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "ppri-komisaris-divestasi-10-juta-saham-suara-ke-12-76",
+  "category": "Aksi Korporasi",
+  "title": "PPRI: Komisaris [Divestasi] 10 Juta Saham, Suara ke 12,76%",
+  "deck": "Komisaris PPRI menjual 10 juta saham senilai sekitar Rp1,97 miliar untuk tujuan divestasi, hak suaranya turun dari 13,69% menjadi 12,76%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T21:51:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7052-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRI",
+  "tags": [
+   "PPRI",
+   "Paperocks Indonesia",
+   "Dewan Komisaris",
+   "Divestasi saham"
+  ],
+  "body": [
+   "Budi Aditya Erna Mulyanto, anggota Dewan Komisaris PT Paperocks Indonesia Tbk (PPRI), melaporkan penjualan 10.000.000 saham PPRI yang dipegangnya secara tidak langsung. Transaksi berlangsung pada 9 September 2026 dengan harga Rp197 per saham, sehingga nilai keseluruhan penjualan sekitar Rp1,97 miliar. Dalam laporan resmi ke Otoritas Jasa Keuangan, tujuan transaksi ini dicatat sebagai divestasi.",
+   "Sebelum transaksi, Budi tercatat memiliki 147.171.500 saham PPRI, setara 13,69% hak suara di perusahaan. Setelah penjualan, kepemilikannya berkurang menjadi 137.171.500 saham dengan hak suara turun menjadi 12,76%. Saham yang dilepas kali ini setara sekitar 6,8% dari total saham yang sebelumnya ia pegang."
+  ],
+  "fotoAdegan": "Rolls of brown packaging paper stacked in an industrial warehouse, a forklift moving nearby under fluorescent lighting",
+  "takeaway": "Laporan ini bersifat netral bagi PPRI, sebab meski nilainya nyata sekitar Rp1,97 miliar, porsi yang dilepas komisaris ini hanya menggeser hak suaranya kurang dari satu poin persentase dan ia masih memegang lebih dari 12% saham perusahaan, jauh dari titik hilangnya pengaruh sebagai pemegang saham signifikan. Yang tersentuh di sini adalah komposisi pemegang saham dan hak suara, bukan kas atau utang perusahaan, karena transaksi ini murni jual beli saham antarinvestor, tapi pelaku pasar tetap mencermati aksi jual orang dalam sebagai salah satu indikator bagaimana mereka sendiri menilai prospek perusahaan yang mereka urus. Yang perlu dipantau berikutnya adalah apakah Budi akan melanjutkan pengurangan kepemilikannya lewat laporan serupa dalam waktu dekat, mengingat tujuan yang ia cantumkan sendiri, yaitu divestasi, biasanya menandakan rencana pelepasan bertahap dan bukan transaksi sekali jalan.",
+  "sentimen": "netral"
  },
  {
   "slug": "adopsi-ai-kantor-melejit-tata-kelolanya-jadi-tantangan",
@@ -796,6 +899,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "impc-tunggal-jaya-investama-tambah-saham-rp7-85-miliar",
+  "category": "Aksi Korporasi",
+  "title": "IMPC: Tunggal Jaya Investama [Tambah] Saham Rp7,85 Miliar",
+  "deck": "Tunggal Jaya Investama membeli 4,76 juta saham IMPC senilai sekitar Rp7,85 miliar pada 8 dan 10 September 2026, menaikkan hak suaranya tipis ke 38,41 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T17:45:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-7235-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IMPC",
+  "tags": [
+   "IMPC",
+   "kepemilikan saham",
+   "Tunggal Jaya Investama",
+   "OJK"
+  ],
+  "body": [
+   "Tunggal Jaya Investama, pemegang saham PT Impack Pratama Industri Tbk (IMPC) yang bukan berstatus direksi maupun komisaris, melaporkan kepada Otoritas Jasa Keuangan bahwa mereka menambah kepemilikan saham perusahaan melalui pembelian tidak langsung di pasar. Pembelian pertama sebanyak 3.400.000 saham dilakukan pada 8 September 2026 dengan harga Rp1.617 per saham, disusul pembelian kedua sebanyak 1.362.300 saham pada 10 September 2026 dengan harga Rp1.723 per saham. Kedua transaksi disebut bertujuan investasi, dengan total tambahan 4.762.300 saham dan nilai gabungan sekitar Rp7,85 miliar.",
+   "Dengan tambahan itu, kepemilikan Tunggal Jaya Investama di IMPC naik dari 21.083.319.394 saham menjadi 21.088.081.694 saham. Hak suaranya di perusahaan bergeser tipis dari 38,39 persen menjadi 38,41 persen. Dibandingkan dengan jumlah saham yang sudah dipegang sebelumnya, tambahan ini hanya setara sekitar 0,0226 persen, sehingga posisi Tunggal Jaya Investama sebagai pemegang saham mayoritas praktis tidak berubah signifikan."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, busy street traffic below, midday light",
+  "takeaway": "Laporan ini netral bagi IMPC karena skala penambahannya sangat kecil, hanya sekitar 0,02 persen dari kepemilikan Tunggal Jaya Investama sebelumnya, dan hak suaranya nyaris tidak bergerak dari 38,39 persen ke 38,41 persen. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham besar, bukan pos keuangan perusahaan seperti ekuitas atau arus kas, sebab dana Rp7,85 miliar itu berasal dari kantong pemegang saham sendiri untuk membeli di pasar, bukan dari kas perusahaan. Pelaku pasar biasanya tetap mencatat aktivitas semacam ini sebagai tanda pemegang saham besar masih menambah portofolionya, meski nilainya terlalu kecil untuk dibaca sebagai pernyataan sikap yang kuat terhadap prospek perusahaan. Yang perlu dipantau berikutnya adalah apakah Tunggal Jaya Investama kembali melaporkan pembelian tambahan dalam waktu dekat, karena pola pembelian yang berulang dan konsisten baru bisa menjadi indikasi keyakinan yang lebih jelas ketimbang transaksi tunggal seperti ini.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "lapd-rencanakan-rights-issue-rp100-miliar-dilusi-50",
   "category": "Aksi Korporasi",
   "title": "LAPD Rencanakan [Rights Issue] Rp100 Miliar, Dilusi 50%",
@@ -820,6 +948,31 @@ var ARTICLES = [
   "fotoAdegan": "Heavy excavators and haul trucks working in an open-pit coal mine under an overcast sky, distant workers in safety vests",
   "takeaway": "Rencana ini condong negatif bagi pemegang saham lama, karena jumlah saham beredar bisa melonjak 50,42 persen sementara setoran dari pengendali JSI Sinergi Mas sendiri berupa aset saham tambang, bukan uang tunai, sehingga dana segar yang benar-benar masuk ke kas Leyand bergantung pada seberapa besar publik ikut menyerap haknya. Yang tersentuh adalah ekuitas dan jumlah saham beredar, sebab Leyand saat ini mencatat ekuitas negatif Rp2,65 miliar dan penambahan saham sebesar ini bisa menekan laba per saham ke depan karena laba yang sama harus dibagi ke jumlah saham yang jauh lebih besar. Ada sisi positif juga, penyertaan aset BSS senilai Rp44,4 miliar berpotensi memperbaiki posisi modal Leyand yang selama ini negatif, sekaligus membawa Leyand jadi pengendali baru perusahaan jasa tambang batu bara tersebut. Yang perlu dipantau berikutnya adalah RUPSLB pada 20 Oktober 2026 yang menentukan disetujui atau tidaknya rencana ini, serta harga pelaksanaan dan rasio final HMETD yang baru akan diumumkan lewat prospektus karena harga Rp50 per saham saat ini masih bersifat indikatif.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-lepas-2-3-juta-saham-ke-grup-usaha",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri [lepas] 2,3 juta saham ke grup usaha",
+  "deck": "Pemegang saham Putrasakti Mandiri menjual 2,3 juta saham Puri Sentul Permai seharga Rp408 per lembar untuk restrukturisasi internal kelompok usaha, hak suara turun tipis ke 32,13%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T17:08:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2028-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "Puri Sentul Permai",
+   "kepemilikan saham",
+   "restrukturisasi"
+  ],
+  "body": [
+   "Putrasakti Mandiri melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya melakukan perubahan kepemilikan saham PT Puri Sentul Permai Tbk (KDTN). Pada 10 September 2026, Putrasakti Mandiri menjual 2.300.000 lembar saham biasa KDTN dengan harga Rp408 per lembar. Transaksi berbentuk jual beli kembali atau repurchase agreement, dengan tujuan yang tertulis dalam laporan sebagai restrukturisasi kepemilikan saham dalam kelompok usaha, bukan penjualan ke pihak di luar grup.",
+   "Sebelum transaksi, Putrasakti Mandiri memegang 404.000.000 lembar saham KDTN secara langsung, setara hak suara 32,32%. Setelah penjualan, kepemilikannya berkurang menjadi 401.700.000 lembar dengan hak suara 32,13%. Selisihnya 2.300.000 lembar, atau hanya sekitar 0,57% dari total saham yang dipegang Putrasakti Mandiri sebelum transaksi berlangsung."
+  ],
+  "fotoAdegan": "Quiet suburban housing estate under a hazy sky, unfinished rooftops and scaffolding near green hills outside Jakarta",
+  "takeaway": "Laporan ini netral bagi KDTN karena saham yang dilepas hanya sekitar setengah persen dari kepemilikan Putrasakti Mandiri, dan hak suaranya cuma turun tipis dari 32,32% menjadi 32,13%, jauh dari ambang yang bisa menggeser kendali perusahaan. Yang tersentuh di sini adalah komposisi pemegang saham pengendali, sebuah angka yang dipantau pasar karena menunjukkan siapa yang punya suara terbesar dalam menentukan arah perusahaan, dan perubahan sekecil ini belum mengubah peta itu. Transaksinya juga bukan pelepasan ke investor luar, melainkan disebut sebagai bagian dari restrukturisasi kepemilikan di dalam kelompok usaha yang sama, sehingga sahamnya kemungkinan tetap berputar di lingkup pihak terafiliasi. Yang perlu dicermati selanjutnya adalah apakah restrukturisasi ini berlanjut dengan pelepasan serupa dari Putrasakti Mandiri atau entitas lain dalam kelompok usaha yang sama, karena pola seperti ini biasanya bertahap dan bisa mengubah peta kepemilikan lebih jauh jika terus berulang.",
+  "sentimen": "netral"
  },
  {
   "slug": "prda-buyback-saham-tembus-9-8-juta-lembar-per-11-september",
@@ -1214,6 +1367,31 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "tapg-komisaris-jual-431-200-saham-senilai-rp1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TAPG: Komisaris [Jual] 431.200 Saham Senilai Rp1 Miliar",
+  "deck": "PT Investindo Arya, yang menjabat komisaris TAPG, melepas 431.200 saham TAPG pada 8 September 2026 seharga Rp2.320 per saham, mengurangi hak suaranya menjadi 0,0119%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T15:09:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-9487-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "kepemilikan saham",
+   "komisaris",
+   "divestasi"
+  ],
+  "body": [
+   "PT Investindo Arya, yang menduduki jabatan Dewan Komisaris di PT Triputra Agro Persada Tbk (TAPG), melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya telah menjual 431.200 lembar saham TAPG secara tidak langsung pada 8 September 2026. Transaksi dilakukan dengan harga Rp2.320 per saham, sehingga nilai totalnya sekitar Rp1 miliar. Dalam laporan yang diterima OJK pada 11 September 2026 itu, tujuan transaksi disebutkan sebagai divestasi.",
+   "Sebelum transaksi, PT Investindo Arya memegang 2.796.200 saham TAPG, setara 0,0141% dari total hak suara perusahaan. Setelah penjualan, kepemilikannya tersisa 2.365.000 saham dengan hak suara 0,0119%. Dengan kata lain, saham yang dilepas mencakup sekitar 15,4% dari jumlah yang sebelumnya dipegang PT Investindo Arya, meski secara keseluruhan porsinya terhadap total saham beredar TAPG tetap sangat kecil."
+  ],
+  "fotoAdegan": "Palm oil plantation workers loading harvested fruit bunches onto a truck in rural Sumatra, early morning light",
+  "takeaway": "Laporan ini netral bagi TAPG karena meski porsi yang dilepas cukup besar dibanding kepemilikan pribadi pelapor, yakni sekitar 15,4%, hak suaranya di perusahaan tetap berada di kisaran 0,01% baik sebelum maupun sesudah transaksi, sehingga tidak mengubah peta pengendalian TAPG. Yang tersentuh di sini hanya struktur pemegang saham, bukan kondisi keuangan perusahaan: transaksi ini adalah jual beli saham yang sudah beredar di pasar sekunder, bukan penerbitan saham baru, sehingga jumlah saham beredar TAPG tidak bertambah dan laba per saham tidak ikut terdilusi. Yang perlu dipantau selanjutnya adalah apakah PT Investindo Arya kembali melaporkan pengurangan kepemilikan dalam waktu dekat, mengingat aturan OJK mewajibkan pelaporan setiap kali ada perubahan kepemilikan saham oleh direksi atau komisaris.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "suni-jawab-bursa-laba-turun-piutang-macet-melonjak-609",
   "category": "Aksi Korporasi",
   "title": "SUNI Jawab Bursa: Laba Turun, Piutang Macet [Melonjak] 609%",
@@ -1399,6 +1577,32 @@ var ARTICLES = [
   "sentimen": "positif"
  },
  {
+  "slug": "nsss-direksi-lepas-289-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Lepas 289 Juta Saham Lewat [Repo]",
+  "deck": "Direksi NSSS lewat Samuel Sekuritas Indonesia menjual 289,3 juta saham senilai sekitar Rp160,6 miliar pada 10 September 2026, memangkas hak suaranya dari 26,61% menjadi 25,40%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T14:19:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-2845-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "repo"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat sebagai Direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan kepada Otoritas Jasa Keuangan pada 11 September 2026 bahwa telah terjadi penjualan 289.304.200 lembar saham biasa NSSS. Transaksi dilakukan pada 10 September 2026 dengan harga Rp555 per saham, sehingga nilainya sekitar Rp160,56 miliar. Jenis transaksi tercatat sebagai repurchase agreement dengan tujuan yang disebutkan sebagai pencairan repo.",
+   "Sebelum transaksi ini, pelapor memegang 6.334.373.200 saham NSSS, setara 26,61% hak suara di perusahaan. Setelah penjualan, kepemilikannya turun menjadi 6.045.069.000 saham atau 25,40% hak suara. Dengan kata lain, saham yang dilepas kali ini setara 4,57% dari total kepemilikan pelapor sebelum transaksi.",
+   "Laporan ini melanjutkan rangkaian transaksi repo yang sama dengan yang diberitakan pada 7 September 2026, saat kepemilikan direksi ini justru naik ke 26,61% lewat mekanisme repo. Kali ini sebagian dari kenaikan tersebut dicairkan kembali, membawa hak suara pelapor turun ke level 25,40%."
+  ],
+  "fotoAdegan": "Workers stacking fresh palm oil fruit bunches onto a truck bed at a rural plantation collection point, tropical daylight.",
+  "takeaway": "Laporan ini saya nilai netral bagi NSSS, karena pelepasan saham ini tampak sebagai pencairan dari perjanjian repurchase agreement yang sama yang pekan lalu justru menaikkan kepemilikan direksi, bukan keputusan jual di pasar terbuka yang mencerminkan pandangan pribadi direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah hak suara, yaitu porsi kendali seseorang atas keputusan perusahaan lewat rapat pemegang saham, yang turun dari 26,61% menjadi 25,40%; penurunan 1,21 poin persentase ini plus pelepasan setara 4,57% dari kepemilikan sebelumnya cukup besar untuk dicatat, bukan sekadar remah transaksi kecil. Yang perlu dipantau berikutnya adalah apakah pola naik turun kepemilikan lewat mekanisme repo ini terus berulang di laporan-laporan mendatang, karena itu bisa menandakan saham direksi dipakai berkali-kali sebagai jaminan pembiayaan, sesuatu yang layak dicermati pemegang saham lain.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "palm-ganti-direktur-gomos-benjamin-silitonga-masuk-jajaran",
   "category": "Aksi Korporasi",
   "title": "PALM Ganti Direktur, [Gomos Benjamin Silitonga] Masuk Jajaran",
@@ -1530,6 +1734,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "rlco-direksi-jual-29-6-juta-saham-lewat-repo",
+  "category": "Aksi Korporasi",
+  "title": "RLCO: Direksi Jual 29,6 Juta Saham Lewat [Repo]",
+  "deck": "Direksi Samuel Sekuritas Indonesia melepas 29,6 juta saham RLCO seharga Rp2.200 per saham untuk pencairan repo, hak suara turun dari 6,57% menjadi 5,62%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T11:26:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1536-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "kepemilikan saham",
+   "direksi",
+   "repo saham"
+  ],
+  "body": [
+   "Samuel Sekuritas Indonesia, yang menjabat direksi PT Abadi Lestari Indonesia Tbk (RLCO), melaporkan penjualan 29.625.400 saham RLCO pada 10 September 2026 dengan harga Rp2.200 per saham. Transaksi ini tercatat sebagai penjualan langsung dengan tujuan pencairan Repurchase Agreement (repo), yakni saham yang sebelumnya dijadikan jaminan dalam perjanjian pembiayaan kini dijual untuk menyelesaikan perjanjian tersebut.",
+   "Dengan transaksi ini, jumlah saham yang dipegang Samuel Sekuritas Indonesia di RLCO turun dari 205.311.500 unit menjadi 175.686.100 unit, atau berkurang 14,43% dari kepemilikan sebelumnya. Hak suaranya di RLCO ikut turun dari 6,57% menjadi 5,62%. Laporan ini disampaikan ke Otoritas Jasa Keuangan sesuai kewajiban Pasal 2 Ayat 2 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka.",
+   "Transaksi ini terjadi hanya empat hari setelah pihak yang sama melaporkan penambahan saham RLCO yang menaikkan hak suaranya dari 6,36% menjadi 6,57% pada 7 September 2026. Dengan penjualan terbaru, hak suara Samuel Sekuritas Indonesia di RLCO kini berada di bawah posisi awal pekan tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a Jakarta financial district street at dusk, office towers with lit windows, traffic passing below",
+  "takeaway": "Penjualan ini condong negatif bagi sinyal kepemilikan insider RLCO, sebab yang dilepas bukan pecahan kecil melainkan 14,4% dari saham yang sebelumnya dipegang Samuel Sekuritas Indonesia selaku direksi, sehingga hak suaranya turun dari 6,57% menjadi 5,62% dalam waktu kurang dari sepekan setelah sempat naik ke level itu. Hak suara menunjukkan seberapa besar bobot seorang pemegang saham dalam pengambilan keputusan di RUPS, jadi penurunan yang cukup terasa ini berarti direksi tersebut kini punya pengaruh lebih kecil dibanding awal bulan. Transaksinya sendiri berbentuk pencairan repo, yaitu saham yang tadinya dijadikan jaminan pinjaman kini dijual untuk melunasi perjanjian tersebut, bukan penjualan bebas biasa. Yang perlu dipantau adalah apakah Samuel Sekuritas Indonesia kembali melaporkan transaksi susulan, mengingat dalam sepekan terakhir pihak ini sudah dua kali mengubah kepemilikannya di RLCO, pertama menambah lalu kini mengurangi, dan pola bolak balik seperti ini biasanya berlanjut sampai posisi jaminannya benar-benar selesai.",
+  "sentimen": "negatif"
+ },
+ {
   "slug": "asbi-presiden-direktur-mundur-bertepatan-rupslb-30-september",
   "category": "Aksi Korporasi",
   "title": "ASBI: Presiden Direktur [Mundur] Bertepatan RUPSLB 30 September",
@@ -1583,6 +1813,32 @@ var ARTICLES = [
   "sentimen": "netral"
  },
  {
+  "slug": "sqmi-cgs-international-jual-bersih-126-juta-saham-wilton-makmur",
+  "category": "Aksi Korporasi",
+  "title": "SQMI: CGS International [Jual] Bersih 126 Juta Saham Wilton Makmur",
+  "deck": "CGS International Securities Singapore melaporkan penjualan bersih 126 juta saham Wilton Makmur pada 4 September 2026, menurunkan hak suaranya dari 19,58% menjadi 18,77%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T10:51:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-0829-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SQMI",
+  "tags": [
+   "SQMI",
+   "kepemilikan saham",
+   "CGS International",
+   "Wilton Makmur"
+  ],
+  "body": [
+   "CGS International Securities Singapore Pte Ltd melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya di PT Wilton Makmur Indonesia Tbk (SQMI) berkurang dari 3.042.028.429 saham menjadi 2.916.028.429 saham per 11 September 2026. Selisihnya adalah penjualan bersih 126 juta saham, yang membuat hak suaranya di perusahaan turun dari 19,58 persen menjadi 18,77 persen.",
+   "Berdasarkan rincian transaksi, perubahan ini berasal dari dua transaksi di bursa pada 4 September 2026 yang dicatatkan lewat CGS International Securities Pte Ltd sebagai pemilik tidak langsung dari kepemilikan pelapor. Ada pembelian 1 juta saham biasa di harga Rp103 per saham, dan penjualan 127 juta saham biasa di harga Rp106 per saham. Kedua transaksi tercatat berjenis trade in exchange, yakni transaksi jual beli reguler di pasar bursa.",
+   "Laporan ini melengkapi dua laporan kepemilikan CGS International atas saham SQMI dalam sepekan terakhir, yakni laporan 7 September tentang kenaikan kepemilikan dan laporan 8 September tentang penjualan 167 juta saham. Dengan transaksi terbaru ini, hak suara CGS International di SQMI tercatat turun namun kepemilikannya masih di atas 18 persen, sehingga statusnya sebagai pemegang saham signifikan belum berubah."
+  ],
+  "fotoAdegan": "Exterior of the Indonesia Stock Exchange building in Jakarta with pedestrians walking past in morning light",
+  "takeaway": "Laporan ini netral bagi Wilton Makmur, karena penjualan bersih 126 juta saham oleh CGS International hanya sekitar 4,1 persen dari total saham yang sebelumnya dipegangnya sendiri, dan setelah transaksi kepemilikannya masih di atas 18 persen sehingga tidak mengubah siapa yang mengendalikan perusahaan. Yang tersentuh di sini adalah hak suara dan jumlah saham beredar di tangan pemegang saham asing ini, bukan kinerja keuangan Wilton Makmur, karena transaksi terjadi di pasar sekunder antar investor dan tidak menambah atau mengurangi kas maupun aset perusahaan. Pelaku pasar tetap mencermati pergeseran kepemilikan sebesar ini karena bisa jadi indikasi awal perubahan sikap investor institusi terhadap saham, meski satu transaksi saja belum cukup untuk menyimpulkan arah itu. Yang perlu dipantau berikutnya adalah apakah CGS International melanjutkan pengurangan kepemilikannya di SQMI pada laporan-laporan berikutnya, mengingat sudah ada tiga laporan penjualan dalam sepekan terakhir yang jika dijumlahkan mencerminkan tren pelepasan saham yang cukup konsisten.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "life-ungkap-pemicu-laba-naik-investasi-ke-sinar-mas-disorot",
   "category": "Aksi Korporasi",
   "title": "LIFE Ungkap Pemicu Laba Naik, Investasi ke [Sinar Mas] Disorot",
@@ -1608,6 +1864,57 @@ var ARTICLES = [
   "fotoAdegan": "Insurance claims staff reviewing medical documents and computer screens at a busy Jakarta office desk, blurred monitors, morning light.",
   "takeaway": "Laporan ini condong positif bagi fundamental LIFE, karena penjelasan manajemen memperkuat cerita kenaikan laba yang sudah diumumkan sebelumnya, dengan menunjukkan dua pendorong konkret yaitu naiknya cadangan laba masa depan dan mengecilnya kerugian dari polis baru yang berpotensi merugi. Cadangan itu disebut Contractual Service Margin atau CSM, yaitu bagian dari premi yang belum diakui sebagai laba dan baru dicairkan bertahap seiring masa pertanggungan berjalan, jadi CSM yang lebih besar berarti ada lebih banyak laba yang sudah terkunci untuk diakui ke depan. Pendapatan premi tahunan dari kanal korporasi juga tumbuh 15 persen dibanding tahun lalu, menandakan bisnis barunya tidak cuma lebih untung tapi juga makin besar volumenya. Yang perlu dicermati adalah jawaban manajemen atas pertanyaan analis soal penempatan kas, deposito, dan obligasi dalam jumlah signifikan di entitas Grup Sinar Mas, sebab pemegang saham publik berkepentingan memastikan harga dan imbal hasil yang dipakai memang setara pasar, bukan sekadar mengikuti hubungan afiliasi. Pemegang saham perlu memantau apakah Bursa atau OJK menindaklanjuti isu penempatan dana berelasi ini, serta apakah tren pertumbuhan CSM dan premi korporasi tetap berlanjut pada laporan kuartal berikutnya.",
   "sentimen": "positif"
+ },
+ {
+  "slug": "emmi-yulie-sekuritas-tambah-saham-lewati-10",
+  "category": "Aksi Korporasi",
+  "title": "EMMI: Yulie Sekuritas Tambah Saham, Lewati [10%]",
+  "deck": "Yulie Sekuritas Indonesia menambah 1.441.900 lembar saham EMMI pada 9-10 September 2026, membuat hak suaranya naik dari 9,95 persen menjadi 10,06 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T10:20:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-6017-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMMI",
+  "tags": [
+   "EMMI",
+   "kepemilikan saham",
+   "Yulie Sekuritas",
+   "pasar modal"
+  ],
+  "body": [
+   "Yulie Sekuritas Indonesia Tbk melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya di PT Esa Medika Mandiri Tbk (EMMI) bertambah, melalui surat tertanggal 11 September 2026. Jumlah saham EMMI yang dikuasai naik dari 173.382.600 lembar menjadi 174.824.500 lembar, selisih 1.441.900 lembar, sehingga hak suaranya di perusahaan itu naik dari 9,95 persen menjadi 10,06 persen, melewati ambang 10 persen.",
+   "Berdasarkan dokumen yang diserahkan, penambahan dilakukan melalui pembelian tidak langsung dalam beberapa transaksi pada 9 dan 10 September 2026, dengan harga per saham berkisar Rp350 hingga Rp360. Saham yang dibeli berjenis saham biasa dengan tujuan investasi. Pelapor menegaskan bukan merupakan anggota direksi maupun dewan komisaris EMMI.",
+   "Berdasarkan perhitungan resmi, penambahan ini setara 0,83 persen dari kepemilikan Yulie Sekuritas di EMMI sebelum transaksi, sehingga porsinya relatif kecil dibandingkan basis saham yang sudah dikuasai perusahaan sekuritas tersebut sebelum rangkaian pembelian ini."
+  ],
+  "fotoAdegan": "Wide shot of the Jakarta Stock Exchange building facade at dusk, illuminated windows, busy street traffic in the foreground.",
+  "takeaway": "Penambahan ini tergolong netral bagi EMMI. Yulie Sekuritas hanya menambah kepemilikannya sekitar 0,83 persen dari saham yang sudah dipegang, jumlah yang terlalu kecil untuk dibaca sebagai perubahan sikap besar terhadap emiten, meski secara teknis hak suaranya kini melewati batas 10 persen. Batas ini penting karena begitu satu pihak menguasai lebih dari sepersepuluh hak suara sebuah perusahaan terbuka, pengaruhnya dalam pengambilan keputusan di rapat pemegang saham otomatis membesar dan kewajiban pelaporan kepemilikannya ke OJK menjadi lebih ketat. Yang perlu dipantau selanjutnya adalah apakah Yulie Sekuritas akan terus menambah porsinya di EMMI dalam laporan-laporan berikutnya, sebab pola pembelian bertahap dalam waktu singkat seperti pada 9 dan 10 September 2026 ini bisa menjadi petunjuk awal akumulasi yang lebih besar.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "spre-kepemilikan-moch-adhi-pamungkas-melonjak-ke-5-52",
+  "category": "Aksi Korporasi",
+  "title": "SPRE: Kepemilikan Moch Adhi Pamungkas [Melonjak] ke 5,52%",
+  "deck": "Investor non-direksi menambah kepemilikan saham SPRE dari 3,6 juta menjadi 44,2 juta unit, hak suara naik jadi 5,52 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "11 September 2026",
+  "isoDate": "2026-09-11T09:44:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-11092026-1074-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPRE",
+  "tags": [
+   "SPRE",
+   "kepemilikan saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "body": [
+   "MOCH ADHI PAMUNGKAS, warga negara Indonesia yang bukan bagian dari jajaran direksi maupun komisaris PT Soraya Berjaya Indonesia Tbk (SPRE), melaporkan perubahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 11 September 2026. Berdasarkan laporan itu, jumlah saham yang ia pegang bertambah dari 3.628.000 unit menjadi 44.159.900 unit, sehingga hak suaranya di perusahaan naik dari 4,53 persen menjadi 5,52 persen.",
+   "Dalam tabel transaksi yang dilampirkan, tercatat pembelian 787.990 saham kelas hak suara multiple secara langsung pada 9 September 2026, dengan harga Rp94 per saham, untuk tujuan investasi. Laporan ini disampaikan sesuai Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham melaporkan setiap perubahan kepemilikannya ke OJK."
+  ],
+  "fotoAdegan": "Wide-angle street view of a modern glass office tower in a Jakarta business district under a clear blue sky.",
+  "takeaway": "Laporan ini netral bagi fundamental SPRE, sebab transaksi ini adalah perpindahan kepemilikan antar pemegang saham, bukan setoran modal baru ke kas perusahaan, sehingga tidak mengubah ekuitas, arus kas, atau jumlah saham beredar perusahaan. Yang berubah hanyalah hak suara pelapor, yaitu porsi pengaruhnya dalam rapat umum pemegang saham, yang naik dari 4,53 persen menjadi 5,52 persen setelah kepemilikannya melonjak lebih dari sepuluh kali lipat dari posisi sebelumnya. Pasar biasanya mencermati lonjakan sebesar ini karena begitu kepemilikan seseorang melewati ambang 5 persen, aturan OJK mewajibkannya melaporkan setiap perubahan kepemilikan berikutnya, sehingga pergerakannya jadi lebih mudah dipantau publik. Yang perlu dipantau selanjutnya adalah apakah MOCH ADHI PAMUNGKAS akan terus menambah kepemilikannya di SPRE lewat laporan-laporan berikutnya, karena penambahan lanjutan bisa mengindikasikan upaya membangun pengaruh yang lebih besar di perusahaan.",
+  "sentimen": "netral"
  },
  {
   "slug": "peruri-raih-bintang-5-di-top-grc-awards-2026",

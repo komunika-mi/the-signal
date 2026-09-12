@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
+  "category": "Aksi Korporasi",
+  "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
+  "deck": "Manajemen PACK mengaku tengah mempertimbangkan aksi korporasi untuk menambah kapasitas bijih nikel, dan menegaskan EEP tetap jadi pemegang saham pengendali, bukan Haji Isam.",
+  "date": "12 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "Public Expose",
+   "Aksi Korporasi",
+   "Nikel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44d3c65149_5efe3b8fa6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mind-id-perluas-pemanfaatan-ai-di-rantai-tambang",
   "category": "BUMN",
   "title": "MIND ID Perluas Pemanfaatan [AI] di Rantai Tambang",
@@ -6495,22 +6511,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-04092026-8961-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya",
-  "category": "BUMN",
-  "title": "TelkomProperty [Optimalkan] Separuh dari 3.010 Aset Propertinya",
-  "deck": "TelkomProperty telah mengoptimalkan sekitar separuh dari 3.010 aset yang dikelolanya dan membuka peluang sewa gedung, termasuk Graha Merah Putih, bagi mitra eksternal lewat skema bisnis ke bisnis.",
-  "date": "4 September 2026",
-  "image": "assets/img/telkomproperty-optimalkan-separuh-dari-3-010-aset-propertinya.jpg",
-  "imageV": "mtn7j875",
-  "tags": [
-   "telkomproperty",
-   "aset properti",
-   "telkom",
-   "graha merah putih"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/464922-telkomproperty-pastikan-optimalisasi-aset-properti-tetap-berjalan-sesuai-tata-kelola-dan-memenuhi-prinsip-value-creation"
  }
 ];

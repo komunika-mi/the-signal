@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pack-bahas-rencana-ekspansi-kapasitas-nikel-di-publik-expose",
+  "category": "Aksi Korporasi",
+  "title": "PACK Bahas Rencana [Ekspansi] Kapasitas Nikel di Publik Expose",
+  "deck": "Manajemen PACK mengaku tengah mempertimbangkan aksi korporasi untuk menambah kapasitas bijih nikel, dan menegaskan EEP tetap jadi pemegang saham pengendali, bukan Haji Isam.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 September 2026",
+  "isoDate": "2026-09-12T08:25:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/44d3c65149_5efe3b8fa6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "Public Expose",
+   "Aksi Korporasi",
+   "Nikel"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) menyampaikan hasil Public Expose Insidentil yang digelar Jumat, 11 September 2026, pukul 10.00 sampai 10.30 WIB, kepada Bursa Efek Indonesia. Acara ini dihadiri 258 peserta dari luar perusahaan, di luar jajaran manajemen dan karyawan. Perseroan diwakili oleh Direktur Utama Fu Pei Wen, Staff Khusus Direktur Utama Rendy Suryagama, dan Corporate Secretary Calvin Setiawan, dengan agenda meliputi gambaran bisnis dan pembaruan terkini, strategi ke depan, serta kinerja keuangan.",
+   "Dalam sesi tanya jawab, peserta bernama Johannes menagih penjelasan soal aksi korporasi yang sempat disebut Perseroan dalam surat tanggapan ke bursa. Manajemen membenarkan bahwa dalam waktu dekat mereka berencana meningkatkan kapasitas bijih nikel, meski belum bisa memberi rincian lebih lanjut. Perseroan menegaskan akan mematuhi seluruh aturan pasar modal, termasuk keterbukaan informasi ke publik dan persetujuan pemegang saham, bila aksi korporasi itu benar dijalankan. Pada pertanyaan lain, Tiffany Hartono menanyakan sikap manajemen atas kenaikan harga saham PACK. Manajemen menjawab tidak memiliki strategi khusus menjaga harga saham karena itu mekanisme pasar, sembari mengulang bahwa laba bersih Perseroan tercatat Rp190,7 miliar untuk periode yang berakhir 30 Juni 2026, dan menyebut dukungan berkelanjutan dari EEP selaku pemegang saham pengendali.",
+   "Peserta lain, Benjamin Bunggono, menanyakan hubungan antara Haji Isam dan CNGR mengingat Haji Isam tercatat sebagai pemegang saham PACK, serta sinergi apa yang diberikan. Manajemen menjelaskan bahwa berdasarkan informasi yang dimiliki Perseroan, Haji Isam adalah pemegang saham minoritas signifikan, bukan pengendali, sementara EEP tetap berstatus sebagai pemegang saham pengendali Perseroan."
+  ],
+  "fotoAdegan": "Wide view of a nickel ore stockpile at an Indonesian mining site, an excavator loading ore onto a haul truck under overcast sky",
+  "takeaway": "Laporan ini netral bagi ANHI, sebab tidak ada angka keuangan baru yang dibuka, dan rencana aksi korporasi yang disinggung manajemen masih kabur meski kini sudah menyasar satu arah konkret, yakni penambahan kapasitas bijih nikel. Kalau rencana ekspansi kapasitas ini benar dijalankan, yang perlu diawasi investor adalah arus kas perusahaan, yaitu uang yang keluar masuk dari kegiatan operasional dan investasi, karena membangun kapasitas produksi baru biasanya butuh dana besar dari kas internal atau utang baru. Penegasan bahwa EEP tetap pemegang saham pengendali, sementara Haji Isam hanya pemegang saham minoritas signifikan, juga meredam spekulasi soal pergeseran kendali perusahaan yang sempat beredar di publik. Yang perlu dipantau selanjutnya adalah keterbukaan informasi resmi ke bursa soal aksi korporasi ini, sebab manajemen sendiri mengaku belum bisa memberi rincian dan dokumen ini tidak menyebut target waktunya.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "mind-id-perluas-pemanfaatan-ai-di-rantai-tambang",
   "category": "BUMN",
   "title": "MIND ID Perluas Pemanfaatan [AI] di Rantai Tambang",

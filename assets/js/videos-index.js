@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "M_RFzCtzpec",
+  "title": "BI Jatim Luncurkan Program Jelajah UMKM dan Pondok Pesantren",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Kantor Perwakilan Bank Indonesia Provinsi Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren Jawa Timur 2026 lewat kick off di Surabaya pada 30 Juli 2026.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan peran bank sentral daerah dalam mendorong penguatan UMKM berbasis pesantren."
+ },
+ {
   "id": "x6_CE4e0D00",
   "title": "Konflik Timur Tengah Kerek Harga Minyak Dunia ke US$101",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Diskusi langsung mengenai lonjakan penjualan mobil sebagai sinyal potensial pemulihan aktivitas ekonomi nasional.",
   "takeaway": "Versi siaran langsung dari forum yang sama, relevan bagi pembaca yang ingin memantau diskusi kebijakan otomotif secara real time."
- },
- {
-  "id": "O7NBqds3AqA",
-  "title": "Destry Damayanti Paparkan Visi Misi di Uji Kelayakan Calon Gubernur BI",
-  "category": "Moneter",
-  "program": "Kabar Petang",
-  "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
-  "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha."
  }
 ];

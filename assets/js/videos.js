@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "M_RFzCtzpec",
+  "title": "BI Jatim Luncurkan Program Jelajah UMKM dan Pondok Pesantren",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Kantor Perwakilan Bank Indonesia Provinsi Jawa Timur meluncurkan program Jelajah UMKM dan Pondok Pesantren Jawa Timur 2026 lewat kick off di Surabaya pada 30 Juli 2026.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan peran bank sentral daerah dalam mendorong penguatan UMKM berbasis pesantren.",
+  "terbit": "2026-09-13T14:54:51+00:00"
+ },
+ {
   "id": "x6_CE4e0D00",
   "title": "Konflik Timur Tengah Kerek Harga Minyak Dunia ke US$101",
   "category": "Energi",

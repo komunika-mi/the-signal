@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
+  "category": "Global",
+  "title": "BRICS Dorong Pembentukan [Bursa Gandum] Bersama",
+  "deck": "Pemimpin BRICS di KTT New Delhi sepakat melanjutkan pembahasan bursa perdagangan gandum bersama dan membuka opsi perluasan ke komoditas pertanian lain.",
+  "date": "13 September 2026",
+  "image": "assets/img/brics-dorong-pembentukan-bursa-gandum-bersama.jpg",
+  "imageV": "mtzpv50e",
+  "tags": [
+   "BRICS",
+   "gandum",
+   "ketahanan pangan",
+   "New Delhi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466858-brics-dorong-pembentukan-bursa-gandum-bersama-perdagangan-komoditas-pertanian-akan-diperluas"
+ },
+ {
+  "slug": "presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi",
+  "category": "Industri",
+  "title": "Presiden Prabowo Restui Amran Buru [Mafia] Beras Fortifikasi",
+  "deck": "Amran mengklaim mendapat restu Presiden Prabowo Subianto untuk mengusut mafia beras, menyusul temuan beras fortifikasi yang dijual jauh di atas nilai sebenarnya.",
+  "date": "13 September 2026",
+  "image": "assets/img/presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi.jpg",
+  "imageV": "mtzpv5li",
+  "tags": [
+   "beras fortifikasi",
+   "mafia beras",
+   "Andi Amran Sulaiman",
+   "Bapanas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466843-amran-direstui-prabowo-untuk-hajar-mafia-beras-93-persen-sampel-beras-fortifikasi-bermasalah"
+ },
+ {
+  "slug": "ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai",
+  "category": "BUMN",
+  "title": "PTK Kembangkan Kapal [Hijau] Bertenaga Surya dan Baterai",
+  "deck": "Anak usaha Pertamina ini memasang panel surya di kapal penunjang dan menyiapkan uji coba sistem baterai mulai 2027, bagian dari transformasi menuju armada maritim rendah emisi.",
+  "date": "13 September 2026",
+  "image": "assets/img/ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai.jpg",
+  "imageV": "mtzpv60p",
+  "tags": [
+   "PTK",
+   "Pertamina",
+   "Green Vessel",
+   "Maritim"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466828-dorong-green-vessel-jadi-masa-depan-industri-maritim-ptk-andalkan-plts-hingga-teknologi-baterai"
+ },
+ {
   "slug": "wskt-naik-peringkat-dari-default-ke-idb-creditwatch-negatif",
   "category": "Aksi Korporasi",
   "title": "WSKT Naik Peringkat dari Default ke [idB]/CreditWatch Negatif",
@@ -6450,53 +6501,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/465207-cara-cek-desil-lewat-hp-di-laman-cekbansoskemensosgoid-bisa-ikuti-empat-langkah-ini"
- },
- {
-  "slug": "pmui-perpanjang-term-sheet-penjualan-saham-grpm-ke-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "PMUI [Perpanjang] Term Sheet Penjualan Saham GRPM ke Desember 2026",
-  "deck": "PMUI dan Agus Susanto sepakat memperpanjang tenggat negosiasi penjualan saham PT Graha Prima Mentari Tbk kepada PT Tunas Binatama Lestari hingga 31 Desember 2026.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PMUI",
-   "GRPM",
-   "term sheet",
-   "divestasi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58e198759e_3d0812e0db.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "flmc-ekuitas-negatif-rp2-59-miliar-rugi-naik-8-kali-lipat",
-  "category": "Aksi Korporasi",
-  "title": "FLMC: Ekuitas [Negatif] Rp2,59 Miliar, Rugi Naik 8 Kali Lipat",
-  "deck": "Ekuitas Falmaco Nonwoven (FLMC) berbalik negatif Rp2,59 miliar per Juni 2026 setelah rugi bersih melonjak jadi Rp23,27 miliar, hampir delapan kali lipat dibanding tahun lalu.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "laporan keuangan interim",
-   "ekuitas negatif",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/20260906113748-64367-0/FinancialStatement-2026-II-FLMC.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-rampungkan-pmthmetd-saham-beredar-naik-ke-9-32-miliar",
-  "category": "Aksi Korporasi",
-  "title": "HATM Rampungkan [PMTHMETD], Saham Beredar Naik ke 9,32 Miliar",
-  "deck": "HATM menerbitkan 640 juta saham baru seharga Rp500 per saham, seluruhnya diserap PT Multi Sarana Nasional, menambah modal sekitar Rp320 miliar.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "PMTHMETD",
-   "penambahan modal",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d42f5a6476_274ce0aa1e.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "x6_CE4e0D00",
+  "title": "Konflik Timur Tengah Kerek Harga Minyak Dunia ke US$101",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Konflik di Timur Tengah yang kembali memanas mendorong harga minyak mentah dunia melonjak hingga mendekati US$101 per barel, membebani harga-harga di Amerika Serikat.",
+  "takeaway": "Lonjakan harga minyak dunia berisiko merembet ke biaya energi dan inflasi di berbagai negara, termasuk Indonesia.",
+  "terbit": "2026-09-13T11:00:23+00:00"
+ },
+ {
   "id": "2pHOiUx2_Gk",
   "title": "Anindya Bakrie Paparkan Visi Hilirisasi di Forum BRICS",
   "category": "Global",

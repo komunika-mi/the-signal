@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "x6_CE4e0D00",
+  "title": "Konflik Timur Tengah Kerek Harga Minyak Dunia ke US$101",
+  "category": "Energi",
+  "program": "tvOneNews",
+  "summary": "Konflik di Timur Tengah yang kembali memanas mendorong harga minyak mentah dunia melonjak hingga mendekati US$101 per barel, membebani harga-harga di Amerika Serikat.",
+  "takeaway": "Lonjakan harga minyak dunia berisiko merembet ke biaya energi dan inflasi di berbagai negara, termasuk Indonesia."
+ },
+ {
   "id": "2pHOiUx2_Gk",
   "title": "Anindya Bakrie Paparkan Visi Hilirisasi di Forum BRICS",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Calon Gubernur Bank Indonesia Destry Damayanti memaparkan visi dan misinya untuk memimpin bank sentral selama lima tahun ke depan dalam uji kelayakan dan kepatutan.",
   "takeaway": "Hasil uji kelayakan ini akan menentukan arah kebijakan moneter Indonesia lima tahun mendatang, sehingga relevan bagi pelaku pasar dan dunia usaha."
- },
- {
-  "id": "SCpPAhkbsOQ",
-  "title": "Audiensi DPR RI dengan Serikat Buruh PT Pos Indonesia",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "Pimpinan DPR RI menggelar audiensi dengan Serikat Buruh PT Pos Indonesia yang mendesak kepastian pembayaran gaji karyawan perusahaan pelat merah tersebut.",
-  "takeaway": "Menyoroti persoalan kesejahteraan pekerja di salah satu BUMN logistik yang berpotensi memengaruhi operasional layanan pos nasional."
  }
 ];

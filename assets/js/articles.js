@@ -3,6 +3,85 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "brics-dorong-pembentukan-bursa-gandum-bersama",
+  "category": "Global",
+  "title": "BRICS Dorong Pembentukan [Bursa Gandum] Bersama",
+  "deck": "Pemimpin BRICS di KTT New Delhi sepakat melanjutkan pembahasan bursa perdagangan gandum bersama dan membuka opsi perluasan ke komoditas pertanian lain.",
+  "image": "assets/img/brics-dorong-pembentukan-bursa-gandum-bersama.jpg",
+  "date": "13 September 2026",
+  "isoDate": "2026-09-13T17:10:19+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466858-brics-dorong-pembentukan-bursa-gandum-bersama-perdagangan-komoditas-pertanian-akan-diperluas",
+  "tags": [
+   "BRICS",
+   "gandum",
+   "ketahanan pangan",
+   "New Delhi"
+  ],
+  "body": [
+   "Para pemimpin negara anggota BRICS mendorong kelanjutan pembentukan bursa perdagangan gandum bersama, sebagaimana tertuang dalam pernyataan bersama yang diterbitkan pada KTT BRICS di New Delhi, Sabtu (12/9/2026). Dorongan ini penting karena BRICS menghimpun sejumlah produsen dan konsumen pangan terbesar dunia, sehingga platform perdagangan bersama berpotensi mengubah cara negara-negara tersebut membeli dan menjual gandum satu sama lain.",
+   "Dalam dokumen itu, BRICS menyatakan akan melanjutkan pengembangan inisiatif Bursa Gandum BRICS dan menyambut diskusi lanjutan mengenai mekanisme operasionalnya. Kelompok ini juga membuka opsi memperluas platform tersebut ke produk dan komoditas pertanian lain di luar gandum, meski belum merinci komoditas apa saja atau kapan perluasan itu akan berjalan.",
+   "Para pemimpin BRICS menegaskan pentingnya memperkuat ketahanan pangan untuk menghadapi lonjakan harga yang tajam dan gangguan pasokan, termasuk kelangkaan pupuk yang bisa mengganggu produksi pertanian. BRICS sendiri beranggotakan Brasil, Rusia, India, Tiongkok, dan Afrika Selatan yang bergabung pada 2011, dengan sejumlah negara baru masuk sejak 2024. Tahun ini India memegang kepemimpinan bergilir kelompok tersebut dan menjadi tuan rumah KTT di New Delhi."
+  ],
+  "fotoAdegan": "Wheat grain pouring from a silo chute into an open cargo truck at a rural grain depot, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/13/6aa6746aaed2e-ktt-brics-india-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari pertemuan ini baru sebatas niat, bukan aturan atau jadwal operasional. BRICS menyebut akan melanjutkan pembahasan Bursa Gandum, semacam pasar bersama tempat negara anggota bisa memperdagangkan gandum di antara mereka sendiri, dan berencana memperluasnya ke komoditas pertanian lain. Kalau benar terealisasi, yang paling terdampak adalah petani dan pedagang gandum di negara produsen besar seperti Rusia dan India, serta negara anggota yang mengimpor pangan dari sesama anggota BRICS. Dokumen ini belum menyebut siapa yang akan mengelola bursa itu, di negara mana, atau kapan mulai beroperasi, jadi arah konkretnya baru bisa dibaca dari hasil pembahasan teknis lanjutan yang dijanjikan setelah KTT ini.",
+  "imageV": "mtzpv50e"
+ },
+ {
+  "slug": "presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi",
+  "category": "Industri",
+  "title": "Presiden Prabowo Restui Amran Buru [Mafia] Beras Fortifikasi",
+  "deck": "Amran mengklaim mendapat restu Presiden Prabowo Subianto untuk mengusut mafia beras, menyusul temuan beras fortifikasi yang dijual jauh di atas nilai sebenarnya.",
+  "image": "assets/img/presiden-prabowo-restui-amran-buru-mafia-beras-fortifikasi.jpg",
+  "date": "13 September 2026",
+  "isoDate": "2026-09-13T15:50:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466843-amran-direstui-prabowo-untuk-hajar-mafia-beras-93-persen-sampel-beras-fortifikasi-bermasalah",
+  "tags": [
+   "beras fortifikasi",
+   "mafia beras",
+   "Andi Amran Sulaiman",
+   "Bapanas"
+  ],
+  "body": [
+   "Menteri Pertanian sekaligus Kepala Badan Pangan Nasional (Bapanas) Andi Amran Sulaiman menyatakan telah mendapat izin langsung dari Presiden Prabowo Subianto untuk mengusut dugaan permainan mafia dalam perdagangan beras. Amran mengatakan Presiden Prabowo merespons laporannya dengan instruksi untuk melanjutkan penyelidikan tanpa ragu. Langkah ini menyusul temuan sejumlah produk beras, termasuk beras fortifikasi atau beras yang diklaim mengandung tambahan gizi tertentu, yang diduga tidak sesuai dengan informasi pada kemasannya. Isu ini penting karena menyangkut harga bahan pangan pokok yang selama ini disubsidi pemerintah untuk masyarakat berpenghasilan rendah.",
+   "Amran memberi contoh konkret dari temuan tersebut, yaitu satu produk beras fortifikasi yang dijual seharga Rp56.000 per kilogram, padahal menurut hasil uji laboratorium nilai sebenarnya hanya sekitar Rp13.000 per kilogram. Ia menyebut klaim kandungan gizi pada kemasan diibaratkan seperti emas, sementara isi sebenarnya disamakan dengan besi berkarat, artinya kandungan yang dijanjikan jauh berbeda dari kenyataan. Pemerintah menghitung potensi keuntungan dari selisih harga tersebut bisa mencapai sekitar Rp300 juta untuk satu truk bermuatan 10 ton, dengan asumsi margin sekitar Rp30.000 per kilogram.",
+   "Amran menegaskan proses pengungkapan kasus ini akan terus berlanjut karena menyangkut kepentingan konsumen yang berpotensi dirugikan akibat membayar harga tinggi berdasarkan klaim yang keliru pada label. Ia menyebut pemerintah akan mengumumkan hasil tindak lanjut atas temuan ini dalam waktu dekat, yang menurutnya kemungkinan pekan depan.",
+   "Amran menyampaikan komitmen untuk terus mengejar praktik yang dianggap merugikan masyarakat kecil ini, dengan menyebut beras sebagai barang bersubsidi yang menyentuh langsung ekonomi rakyat kecil. Ia meminta dukungan publik atas langkah penindakan tersebut sembari menegaskan kesiapannya menghadapi risiko dari proses pengungkapan kasus ini."
+  ],
+  "fotoAdegan": "Workers stacking sacks of rice inside a dim warehouse, forklift nearby, sunlight streaming through a wide open door",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/04/20/69e652aa6acc5-menteri-pertanian-andi-amran-sulaiman_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah statusnya, dari sekadar wacana menjadi operasi resmi dengan restu langsung Presiden Prabowo, dan sudah dibekali bukti awal berupa uji laboratorium terhadap satu produk beras fortifikasi yang menurut Amran dijual Rp56.000 per kilogram meski nilai sebenarnya disebut hanya Rp13.000. Pihak yang langsung tersentuh adalah konsumen beras fortifikasi, yang menurut klaim Amran selama ini membayar mahal untuk kandungan gizi yang ternyata tidak sesuai label, serta produsen atau distributor yang produknya sudah masuk hasil uji lab tersebut. Amran sendiri menjanjikan pengumuman resmi hasil investigasi pekan depan, jadi hal paling konkret untuk dipantau adalah apakah janji itu benar terealisasi dan berlanjut ke sanksi atau penarikan produk, atau berhenti di level pernyataan seperti sejumlah kasus mafia pangan sebelumnya. Sampai pengumuman itu keluar, angka-angka yang disebutkan termasuk potensi untung Rp300 juta per truk masih berupa klaim sepihak yang belum diuji lewat proses hukum atau audit independen.",
+  "imageV": "mtzpv5li"
+ },
+ {
+  "slug": "ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai",
+  "category": "BUMN",
+  "title": "PTK Kembangkan Kapal [Hijau] Bertenaga Surya dan Baterai",
+  "deck": "Anak usaha Pertamina ini memasang panel surya di kapal penunjang dan menyiapkan uji coba sistem baterai mulai 2027, bagian dari transformasi menuju armada maritim rendah emisi.",
+  "image": "assets/img/ptk-kembangkan-kapal-hijau-bertenaga-surya-dan-baterai.jpg",
+  "date": "13 September 2026",
+  "isoDate": "2026-09-13T14:42:54+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/466828-dorong-green-vessel-jadi-masa-depan-industri-maritim-ptk-andalkan-plts-hingga-teknologi-baterai",
+  "tags": [
+   "PTK",
+   "Pertamina",
+   "Green Vessel",
+   "Maritim"
+  ],
+  "body": [
+   "PT Pertamina Trans Kontinental (PTK), anak usaha Pertamina yang mengelola kapal penunjang, operasional pelabuhan, layanan maritim, dan pangkalan logistik pesisir, tengah memperkuat langkah menuju kapal ramah lingkungan atau green vessel. Dalam sambutan di acara syukuran HUT ke-57 PTK pada 9 September 2026 di Jakarta, Direktur Utama Harris Abdi Sembiring Meliala menyebut modernisasi, digitalisasi, dan kapal penunjang ramah lingkungan sebagai arah utama perusahaan ke depan. Perusahaan yang berdiri sejak 1969 dengan nama PT Pertamina Tongkang ini berganti nama menjadi PT Pertamina Trans Kontinental pada 2011.",
+   "Era kapal ramah lingkungan di PTK dimulai pada 2019 lewat Transko Rajawali, kapal tunda sepanjang 34 meter yang diklaim sebagai kapal berbahan bakar ganda solar dan gas alam cair (LNG) pertama di Indonesia. Langkah itu berlanjut pada 11 Juni 2026, ketika PTK memasang pembangkit listrik tenaga surya di kapal Oil Barge Patra 2303. Perusahaan mengklaim pemasangan panel surya ini mampu memangkas emisi karbon hingga 79,2 ton CO2 per tahun sekaligus mengurangi ketergantungan kapal pada bahan bakar solar.",
+   "Sebagai langkah lanjutan, PTK menyiapkan uji coba sistem manajemen baterai atau battery management system pada kapal mulai 2027, sebagai bagian dari pengembangan teknologi pendukung pelayaran hijau. Harris menyebut PTK saat ini mengoperasikan 370 kapal milik sendiri ditambah sekitar 82 unit kapal sewaan, dan berencana menambah kapal baru untuk meremajakan armada yang ada demi menjaga kemampuan operasional dan layanan kepada pelanggan."
+  ],
+  "fotoAdegan": "Workers installing solar panels on the deck of a small oil barge docked at an Indonesian port, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/13/6aa64db30034a-kapal-penunjang-ramah-lingkungan-green-supporting-vessel-milik-pertamina-trans-kontinental_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkret yang bisa dipegang dari kabar ini baru mencakup satu unit kapal, Oil Barge Patra 2303, yang dipasangi panel surya pada 11 Juni 2026 dan diklaim memangkas emisi 79,2 ton karbon dioksida per tahun, sementara langkah yang lebih besar berupa uji coba sistem baterai pada kapal baru dimulai 2027. Yang langsung terdampak adalah operasional armada penunjang PTK sendiri, yang saat ini berjumlah 370 kapal milik ditambah 82 unit sewaan, jauh lebih besar dari jumlah kapal yang sudah tersentuh teknologi hijau tersebut. Polanya menunjukkan PTK bergerak bertahap, dari kapal berbahan bakar ganda pada 2019, ke pemasangan panel surya di satu kapal pada 2026, sebelum masuk ke uji coba baterai, bukan lompatan langsung ke armada bertenaga listrik penuh. Yang akan menentukan apakah langkah ini benar-benar meluas atau berhenti sebagai proyek percontohan adalah hasil uji coba battery management system pada 2027 dan apakah PTK memperluas pemasangan panel surya ke lebih banyak kapal dari sekarang yang baru satu unit.",
+  "imageV": "mtzpv60p"
+ },
+ {
   "slug": "wskt-naik-peringkat-dari-default-ke-idb-creditwatch-negatif",
   "category": "Aksi Korporasi",
   "title": "WSKT Naik Peringkat dari Default ke [idB]/CreditWatch Negatif",

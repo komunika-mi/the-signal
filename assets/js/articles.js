@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wskt-naik-peringkat-dari-default-ke-idb-creditwatch-negatif",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Naik Peringkat dari Default ke [idB]/CreditWatch Negatif",
+  "deck": "PEFINDO menaikkan peringkat WSKT dari status gagal bayar (idSD) ke idB/CreditWatch Negatif, menyusul kuorum restrukturisasi obligasi yang disetujui pemegang obligasi di RUPO 3 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 September 2026",
+  "isoDate": "2026-09-13T12:21:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/552df66a4a_dda76e348f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "peringkat obligasi",
+   "PEFINDO"
+  ],
+  "body": [
+   "PEFINDO menaikkan peringkat korporasi PT Waskita Karya (Persero) Tbk dari \"idSD\" (Selective Default) menjadi \"idB/CreditWatch dengan Implikasi Negatif\", menyusul proses pemantauan khusus (special review) yang rampung dalam rapat komite pemeringkatan pada 9 September 2026. Sertifikat hasil pemeringkatan diterima Waskita pada 10 September 2026 dan dipublikasikan ke publik pada 11 September 2026.",
+   "Untuk instrumen utang yang dijamin pemerintah, Obligasi III Tahun 2021 Seri A senilai Rp722 miliar (jatuh tempo 24 September 2026) dan Seri B senilai Rp1.051 miliar (jatuh tempo 24 September 2028), serta Obligasi IV Tahun 2022 Seri A senilai Rp658 miliar dan Seri B senilai Rp1.469,3 miliar (jatuh tempo Mei 2027 dan 2029), mendapat peringkat tertinggi PEFINDO yaitu \"idAAA(gg)\" dengan total nilai gabungan Rp3.178,3 miliar untuk kelompok Seri B dan Obligasi IV. Sukuk Mudharabah I Tahun 2022 Seri A senilai Rp383 miliar dan Seri B senilai Rp765,1 miliar mendapat peringkat setara, \"idAAA(sy)(gg)\", dengan total Rp1.148,1 miliar. Peringkat AAA ini diberikan karena instrumen dijamin penuh, tanpa syarat, dan tidak dapat ditarik kembali oleh pemerintah, berlaku untuk periode 9 September sampai 1 Oktober 2026, kecuali Obligasi III Seri A yang hanya berlaku sampai 24 September 2026 karena jatuh tempo pada tanggal itu.",
+   "Empat seri Obligasi Berkelanjutan yang tidak dijamin pemerintah, yaitu Tahap II Tahun 2018 Seri B (Rp2.276,5 miliar, jatuh tempo 16 Juni 2023), Tahap III Tahun 2018 Seri B (Rp941,75 miliar, jatuh tempo 28 September 2023), Tahap IV Tahun 2019 Seri B (Rp1.361,75 miliar, jatuh tempo 16 Mei 2024), dan Obligasi Berkelanjutan IV Tahap I Tahun 2020 (Rp135,5 miliar, jatuh tempo 6 Agustus 2023), tetap berada di peringkat \"idB\" dengan total nilai gabungan Rp4.715,5 miliar. Keempat obligasi ini sudah melewati tanggal jatuh temponya tanpa pelunasan penuh, sejalan dengan status gagal bayar yang masih melekat pada instrumen-instrumen tersebut.",
+   "Kenaikan peringkat korporasi dari \"idSD\" ini, menurut PEFINDO, tidak lepas dari keberhasilan Waskita memperoleh kuorum persetujuan pemegang Obligasi Berkelanjutan III Tahap IV Tahun 2019 Seri B dalam Rapat Umum Pemegang Obligasi (RUPO) pada 3 September 2026. Agenda rapat itu mencakup penjelasan Waskita atas kelalaian membayar bunga ke-15 sampai ke-20 serta pokok obligasi seri tersebut, kelalaian menyampaikan laporan keuangan konsolidasi teraudit untuk tahun buku 2023, 2024, dan 2025, usulan restrukturisasi atas kedua kelalaian itu, dan penentuan sikap pemegang obligasi atas usulan tersebut."
+  ],
+  "fotoAdegan": "Elevated toll road construction site with steel girders and cranes, workers in safety vests inspecting rebar at dusk.",
+  "takeaway": "Laporan ini condong positif bagi Waskita karena peringkat perusahaannya naik dari status gagal bayar sebagian (Selective Default) menjadi idB, sebuah langkah maju meski masih jauh dari sehat. Yang tersentuh di sini adalah kemampuan Waskita membayar bunga dan pokok utang jangka panjangnya, hal yang membuat lembaga pemeringkat seperti PEFINDO memantau perusahaan ini secara khusus, sebab peringkat rendah membuat biaya utang baru jadi lebih mahal dan mempersempit akses pembiayaan. Empat obligasi lawas senilai total Rp4.715,5 miliar tetap di peringkat idB karena sudah melewati jatuh tempo tanpa pelunasan penuh, sementara obligasi dan sukuk yang dijamin pemerintah otomatis memperoleh peringkat AAA terlepas dari kondisi keuangan Waskita sendiri. Status \"CreditWatch dengan Implikasi Negatif\" berarti PEFINDO bisa menurunkan lagi peringkat idB ini dalam waktu dekat kalau proses restrukturisasi tidak berjalan sesuai rencana, jadi kenaikan ini belum berarti persoalan selesai. Yang perlu dipantau selanjutnya adalah keputusan final pemegang Obligasi Berkelanjutan III Tahap IV 2019 Seri B atas usulan restrukturisasi yang dibahas dalam RUPO 3 September 2026, serta apakah peringkat-peringkat ini bertahan sampai masa berlakunya berakhir pada 1 Oktober 2026, atau 24 September 2026 khusus untuk Obligasi III Seri A.",
+  "sentimen": "positif"
+ },
+ {
   "slug": "bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot",
   "category": "Bisnis",
   "title": "Bea Cukai Raih Kepuasan Tinggi, Tarif Impor [Disorot]",

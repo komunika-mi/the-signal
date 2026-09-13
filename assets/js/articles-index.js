@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wskt-naik-peringkat-dari-default-ke-idb-creditwatch-negatif",
+  "category": "Aksi Korporasi",
+  "title": "WSKT Naik Peringkat dari Default ke [idB]/CreditWatch Negatif",
+  "deck": "PEFINDO menaikkan peringkat WSKT dari status gagal bayar (idSD) ke idB/CreditWatch Negatif, menyusul kuorum restrukturisasi obligasi yang disetujui pemegang obligasi di RUPO 3 September 2026.",
+  "date": "13 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "peringkat obligasi",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/552df66a4a_dda76e348f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bea-cukai-raih-kepuasan-tinggi-tarif-impor-disorot",
   "category": "Bisnis",
   "title": "Bea Cukai Raih Kepuasan Tinggi, Tarif Impor [Disorot]",
@@ -6481,22 +6497,6 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d42f5a6476_274ce0aa1e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hatm-terbitkan-640-juta-saham-baru-multi-sarana-kuasai-25-59",
-  "category": "Aksi Korporasi",
-  "title": "HATM Terbitkan 640 Juta Saham Baru, [Multi Sarana] Kuasai 25,59%",
-  "deck": "PT Multi Sarana Nasional menyerap seluruh 640 juta saham baru HATM seharga Rp500 per saham, menaikkan porsinya jadi 25,59 persen dan mendilusi pemegang saham lama hingga 6,87 persen.",
-  "date": "6 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HATM",
-   "penambahan modal",
-   "dilusi saham",
-   "PT Multi Sarana Nasional"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecc3999bfc_d2a15b7de7.pdf",
   "sourceLabel": "IDX"
  }
 ];

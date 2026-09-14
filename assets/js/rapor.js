@@ -9,8 +9,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-09-12T00:51:16.926+07:00",
+ "diperbarui": "2026-09-15T02:34:15.579+07:00",
  "entri": [
+  {
+   "id": "2026-09-14-3",
+   "edisi": "2026-09-14",
+   "benang": "BEI kejar kepatuhan free float emiten kecil",
+   "klaim": "Bursa lebih mungkin kembali memberi ruang waktu seperti preseden KOCI ketimbang mengambil langkah lebih tegas terhadap emiten yang belum memenuhi syarat free float dalam jangka pendek.",
+   "penanda": "Realisasi rencana pelepasan sebagian saham pengendali oleh RODA dan UANG, terlihat dari langkah konkret dan keterbukaan informasi lanjutan ke bursa",
+   "tenggat": "2026-12-14",
+   "tenggatLabel": "beberapa bulan ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-14-2",
+   "edisi": "2026-09-14",
+   "benang": "Tekanan kredit korporasi kian melebar",
+   "klaim": "Tekanan pembiayaan yang mulanya terlihat pada BUMN karya kini melebar ke lebih banyak emiten di luar sektor konstruksi.",
+   "penanda": "Sidang PKPU ADCP dan realisasi restrukturisasi utang ADHI",
+   "tenggat": "2026-09-30",
+   "tenggatLabel": "sidang PKPU ADCP pada 17 September dan restrukturisasi utang ADHI yang ditargetkan rampung bulan ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-09-14-1",
+   "edisi": "2026-09-14",
+   "benang": "Menkeu baru redam gejolak, sorotan geser ke minyak",
+   "klaim": "Sorotan pasar akan berpindah dari isu personalia menteri keuangan ke langkah kebijakan fiskal konkret dari Menteri Keuangan Suahasil Nazara, terutama soal subsidi energi.",
+   "penanda": "Pernyataan atau kebijakan resmi pertama Suahasil Nazara soal asumsi harga minyak dan subsidi BBM, serta pergerakan harga minyak dunia",
+   "tenggat": "2026-09-21",
+   "tenggatLabel": "dalam sepekan ke depan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-09-11-3",
    "edisi": "2026-09-11",

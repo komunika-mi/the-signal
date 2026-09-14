@@ -3,6 +3,137 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sini-divestasi-54-saham-ikn-senilai-rp31-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SINI [Divestasi] 54% Saham IKN Senilai Rp31,8 Miliar",
+  "deck": "Singaraja Putra melepas 54 persen saham anak usahanya, PT Interkayu Nusantara, ke Hendra Hasan Kustarjo senilai Rp31,8 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T19:26:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ea94f58653_0f4d0460e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SINI",
+  "tags": [
+   "SINI",
+   "divestasi",
+   "Interkayu Nusantara",
+   "portofolio investasi"
+  ],
+  "body": [
+   "PT Singaraja Putra Tbk (SINI) mengumumkan pada 14 September 2026 bahwa perseroan telah menyelesaikan penjualan 54 persen sahamnya di PT Interkayu Nusantara (IKN), anak usaha yang bergerak di bidang kayu, kepada Hendra Hasan Kustarjo. Transaksi ini dituangkan dalam Akta Jual Beli Saham No. 13 tertanggal 14 September 2026, dengan nilai keseluruhan Rp31,8 miliar.",
+   "Manajemen menyatakan Hendra Hasan Kustarjo selaku pembeli bukan pihak berafiliasi dengan perseroan, sehingga transaksi ini tidak tergolong transaksi benturan kepentingan sesuai POJK No. 42/2020. Nilai transaksinya juga berada di bawah ambang batas transaksi material menurut POJK No. 17/2020, sehingga tidak memerlukan persetujuan RUPS.",
+   "Perseroan menyebut penjualan ini sebagai bagian dari penataan dan optimalisasi portofolio investasinya, dan menegaskan tidak ada dampak negatif material terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha. SINI sendiri berstatus perusahaan induk holding yang bergerak di penyediaan akomodasi jangka pendek dengan anak usaha di sektor kayu, dan dalam beberapa pekan terakhir tengah menjalani proses akuisisi tambang batu bara serta rights issue untuk melunasi utang bank."
+  ],
+  "fotoAdegan": "Stacks of sawn timber logs at a rural sawmill yard, workers moving planks, overcast tropical afternoon",
+  "takeaway": "Laporan ini netral bagi SINI: pelepasan 54 persen saham IKN memang bernilai Rp31,8 miliar, tapi dokumen tidak menyebut untuk apa dana itu akan dipakai, sementara kontribusi laba atau rugi IKN terhadap perseroan selama ini juga tidak diungkap, sehingga belum bisa dinilai untung ruginya secara bersih. Yang tersentuh adalah arus kas, karena Rp31,8 miliar masuk sebagai dana segar ke kas perseroan, dan juga neraca konsolidasi, karena IKN yang tadinya dikuasai mayoritas kini lepas dari laporan keuangan gabungan sehingga aset dan pendapatan dari lini bisnis kayu ini tak lagi tercatat di pembukuan SINI. Investor perlu memantau laporan keuangan kuartal berikutnya untuk melihat ke mana dana Rp31,8 miliar ini dialirkan, terutama karena perseroan belakangan juga mengurus rights issue untuk melunasi utang bank dan proses akuisisi tambang batu bara, sehingga pelepasan IKN ini kemungkinan satu rangkaian dengan pergeseran fokus bisnis SINI dari kayu ke batu bara.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "bbca-buyback-rp3-5-triliun-rasio-dividen-naik-ke-72",
+  "category": "Aksi Korporasi",
+  "title": "BBCA: Buyback [Rp3,5 Triliun], Rasio Dividen Naik ke 72%",
+  "deck": "Public expose BCA ungkap progres buyback saham, kenaikan rasio dividen ke 72 persen, dan pertumbuhan kredit 8 persen pada semester I 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T18:54:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e45bf0b681_5f51678b83.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBCA",
+  "tags": [
+   "BBCA",
+   "Public Expose",
+   "Bank Central Asia",
+   "kinerja perbankan"
+  ],
+  "body": [
+   "PT Bank Central Asia Tbk (BBCA) menyampaikan laporan hasil Public Expose Live 2026 kepada Bursa Efek Indonesia. Acara presentasi emiten dan konferensi pers berlangsung pada Rabu, 9 September 2026, dihadiri Direktur sekaligus Chief Financial Officer BCA Vera Eve Lim, Corporate Secretary Rudy Budiardjo, dan EVP Corporate Communication and Social Responsibility Hera F. Haryn. Sebanyak 119 investor dan pelaku pasar mengikuti sesi presentasi kinerja, sementara 75 perwakilan media hadir dalam sesi konferensi pers terpisah.",
+   "Dalam paparan kinerja semester I 2026, BCA melaporkan total kredit konsolidasi tumbuh 8 persen dari tahun sebelumnya menjadi Rp1.036 triliun per Juni 2026. Kredit produktif, yakni pembiayaan ke sektor korporasi, komersial, dan UKM, mencapai Rp802 triliun atau naik 11 persen, dengan kredit korporasi tumbuh paling tinggi sebesar 13,6 persen menjadi Rp513,4 triliun. Rasio kredit bermasalah (NPL) membaik ke 1,9 persen dari 2,2 persen setahun sebelumnya, dan rasio kredit berisiko (LAR) turun ke 4,9 persen dari 5,7 persen. Dana pihak ketiga naik 7,9 persen menjadi Rp1.284 triliun, dengan porsi dana murah berupa giro dan tabungan (CASA) naik menjadi 85,2 persen dari total dana pihak ketiga. Laba bersih konsolidasi BCA pada semester I 2026 tercatat Rp29,5 triliun, naik 1,8 persen dari Rp29 triliun pada periode sama tahun lalu.",
+   "Dalam sesi tanya jawab, manajemen mengungkap BCA telah merealisasikan pembelian kembali saham (buyback) senilai sekitar Rp3,5 triliun sejak tahun lalu, dari target maksimal Rp5 triliun yang berlaku selama satu tahun sejak Rapat Umum Pemegang Saham Tahunan 12 Maret 2026 hingga RUPS Tahunan 2027. Rasio pembagian dividen dari laba tahun buku 2025 dinaikkan menjadi 72 persen, dari 67 persen pada tahun sebelumnya, dan pembagian dilakukan secara kuartalan sepanjang 2026. Manajemen menyebut rasio kecukupan modal (CAR) yang turun dari 28,4 persen menjadi 26,8 persen dalam setahun terakhir tetap memberi ruang menaikkan rasio dividen ke depan, dengan target CAR sepanjang 2026 di kisaran 26 hingga 27 persen.",
+   "Di luar kinerja keuangan, BCA melaporkan penyaluran kredit hijau tumbuh 19 persen menjadi Rp123 triliun, ditopang pembiayaan ke sektor energi baru terbarukan yang melonjak 82 persen menjadi Rp7,7 triliun dan kredit kendaraan listrik yang naik 25 persen menjadi Rp4 triliun. Perseroan juga menaikkan batas transfer harian di aplikasi myBCA menjadi Rp500 juta per BCA ID mulai 12 Agustus 2026, serta menggandeng PT Pegadaian (Persero) menghadirkan layanan Tabungan Emas di aplikasi tersebut."
+  ],
+  "fotoAdegan": "A small business owner receiving cash from a bank teller at a modern branch counter in Jakarta, daytime light",
+  "takeaway": "Laporan ini bernada netral bagi BBCA: pertumbuhan kredit dan perbaikan kualitas pinjaman berjalan baik, tapi tergerus oleh margin bunga dan bantalan modal yang menipis, sehingga laba bersih hanya naik tipis 1,8 persen meski aset tumbuh dua digit. Marjin bunga bersih atau selisih antara bunga yang diterima dari kredit dan bunga yang dibayar ke nasabah turun dari 5,8 persen menjadi 5,3 persen karena persaingan suku bunga antarbank makin ketat, dan ini penting karena marjin ini adalah sumber utama laba bank. Rasio kecukupan modal, yaitu bantalan dana bank untuk menyerap kerugian, turun dari 28,4 persen menjadi 26,8 persen, meski manajemen menyebut level ini masih longgar dibanding standar industri. Kenaikan rasio pembagian dividen ke 72 persen dan realisasi buyback saham Rp3,5 triliun dari target Rp5 triliun justru menambah nilai bagi pemegang saham karena mengurangi jumlah saham beredar di pasar. Yang perlu dipantau selanjutnya adalah realisasi kredit sepanjang semester II 2026 saat BCA Expo digelar di tujuh kota antara Agustus dan Oktober 2026, serta apakah rasio kecukupan modal bisa dijaga di kisaran target 26 sampai 27 persen hingga akhir tahun.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "safe-masuk-daftar-pemantauan-khusus-bei-mulai-15-september",
+  "category": "Aksi Korporasi",
+  "title": "SAFE [Masuk] Daftar Pemantauan Khusus BEI Mulai 15 September",
+  "deck": "BEI memasukkan saham Steady Safe Tbk (SAFE) ke daftar Efek Dalam Pemantauan Khusus mulai 15 September 2026, menyusul penghentian sementara perdagangan lebih dari satu hari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T18:42:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c0cef6cc_82fde4728f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "SAFE",
+   "BEI",
+   "pemantauan khusus",
+   "suspensi saham"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa saham PT Steady Safe Tbk dengan kode SAFE masuk ke dalam daftar Efek Bersifat Ekuitas Dalam Pemantauan Khusus, sesuai pengumuman bernomor Peng-PK-00066/BEI.PLP/09-2026 yang diterbitkan pada 14 September 2026. Saham yang tercatat di Papan Pengembangan ini berstatus 'Masuk' ke daftar tersebut, dengan perubahan berlaku efektif mulai 15 September 2026.",
+   "Menurut keterangan bursa, SAFE masuk pemantauan khusus berdasarkan kriteria nomor 10 dari sebelas kriteria yang ditetapkan BEI, yaitu saham tersebut dikenakan penghentian sementara perdagangan (suspensi) selama lebih dari satu hari bursa yang disebabkan oleh aktivitas perdagangan sahamnya sendiri. Kriteria lain yang bisa memicu status ini, misalnya opini disclaimer dari auditor, ekuitas negatif, harga saham di bawah Rp51 disertai likuiditas sangat rendah, atau permohonan PKPU dan pailit, tidak disebutkan berlaku untuk SAFE dalam pengumuman ini.",
+   "BEI menyebutkan bahwa daftar lengkap Efek Dalam Pemantauan Khusus dapat dilihat di laman resmi bursa dengan kata kunci 'Daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus'. Pengumuman ini ditandatangani secara elektronik oleh Kukuh Wicaksono, Pelaksana Harian (PH) Kepala Divisi PLP BEI, pada 14 September 2026 pukul 18.42 WIB."
+  ],
+  "fotoAdegan": "Yellow taxis parked in rows at a quiet Jakarta taxi depot early morning, a driver checking a vehicle's tires, soft overcast light.",
+  "takeaway": "Masuknya SAFE ke daftar pemantauan khusus BEI adalah sinyal negatif bagi emiten ini, karena statusnya dipicu oleh penghentian sementara perdagangan sahamnya sendiri selama lebih dari satu hari bursa, bukan sekadar administrasi rutin. Yang tersentuh di sini adalah likuiditas saham, yakni seberapa mudah investor bisa membeli atau menjual sahamnya di pasar, karena saham yang masuk pemantauan khusus biasanya dikenai mekanisme perdagangan tambahan yang membuat transaksinya lebih terbatas dibanding saham biasa. Pengumuman ini tidak menyinggung kondisi keuangan SAFE seperti ekuitas atau labanya, sehingga pemicunya lebih ke perilaku perdagangan saham ketimbang kinerja usaha perusahaan. Yang perlu dipantau berikutnya adalah berlakunya status ini secara efektif mulai 15 September 2026, serta apakah bursa merilis pengumuman lanjutan yang menjelaskan detail penyebab suspensi atau langkah yang harus ditempuh SAFE agar bisa keluar dari daftar tersebut.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cybr-direksi-beli-saham-rp1-6-miliar-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Beli] Saham Rp1,6 Miliar dalam Sepekan",
+  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 3,08 juta saham CYBR senilai sekitar Rp1,6 miliar lewat 17 transaksi pada 8-11 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T18:25:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-1642-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham direksi",
+   "insider buying"
+  ],
+  "body": [
+   "PT ITSEC Asia Tbk (CYBR) melaporkan ke Otoritas Jasa Keuangan bahwa anggota direksinya, Patrick Rudolf Dannacher, warga negara asing, menambah kepemilikan sahamnya di perusahaan. Sebelum transaksi ia memegang 93.385.500 lembar saham, dan setelah rangkaian pembelian jumlahnya naik menjadi 96.466.500 lembar, atau bertambah 3.081.000 lembar.",
+   "Penambahan saham dilakukan secara tidak langsung dalam 17 transaksi terpisah sepanjang 8 hingga 11 September 2026, dengan harga per lembar berkisar antara Rp510 dan Rp535. Berdasarkan harga dan jumlah yang tercatat, total nilai pembelian selama periode itu mencapai sekitar Rp1,59 miliar. Seluruh transaksi dicatatkan dengan tujuan investasi.",
+   "Dengan tambahan saham ini, hak suara Dannacher di ITSEC Asia naik dari 0,693 persen menjadi 0,715 persen. Jumlah saham yang dibeli setara dengan sekitar 3,3 persen dari kepemilikannya sendiri sebelum transaksi."
+  ],
+  "fotoAdegan": "Cybersecurity analysts working at workstations with blurred monitor screens in a dim operations center, Jakarta office at night.",
+  "takeaway": "Laporan ini condong positif bagi ITSEC Asia karena yang terjadi adalah aksi beli, bukan jual, dari direksi asingnya, dilakukan bertahap dalam 17 transaksi senilai sekitar Rp1,6 miliar selama empat hari beruntun, pola yang biasanya dibaca pasar sebagai bentuk keyakinan pribadi terhadap prospek perusahaan. Transaksi ini terjadi di pasar sekunder antar investor, jadi tidak menambah jumlah saham beredar milik perusahaan maupun mengubah ekuitas atau laba per saham ITSEC Asia, yang berubah hanya proporsi kepemilikan pribadi Dannacher, dari 0,693 persen menjadi 0,715 persen hak suara, yaitu porsi suaranya dalam rapat pemegang saham. Dokumen ini tidak menyebut tenggat atau agenda RUPS terkait, sehingga yang perlu dipantau selanjutnya adalah apakah pola pembelian bertahap oleh Dannacher berlanjut di laporan-laporan kepemilikan berikutnya, karena pembelian berulang dalam waktu singkat umumnya dianggap sinyal keyakinan yang lebih kuat dibanding transaksi tunggal.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "cybr-direksi-doni-mora-jual-saham-rp27-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Doni Mora [Jual] Saham Rp27,5 Juta",
+  "deck": "Direksi ITSEC Asia Doni Mora melepas 51.900 saham CYBR seharga Rp530 per lembar, sekitar Rp27,5 juta, hak suaranya turun dari 0,035% jadi 0,034%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T18:00:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-3661-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "transaksi direksi"
+  ],
+  "body": [
+   "Doni Mora, anggota direksi PT ITSEC Asia Tbk (CYBR), melaporkan penjualan tidak langsung sebanyak 51.900 saham biasa perseroan pada 11 September 2026 dengan harga Rp530 per saham. Total nilai transaksi sekitar Rp27,5 juta. Laporan yang disampaikan ke Otoritas Jasa Keuangan pada 14 September 2026 itu mencantumkan tujuan transaksi sebagai investasi lainnya.",
+   "Dengan penjualan ini, kepemilikan Doni Mora di ITSEC Asia berkurang dari 4.661.200 saham menjadi 4.609.300 saham, turun 1,11% dari jumlah yang dipegangnya sebelum transaksi. Hak suaranya di perusahaan ikut turun tipis, dari 0,035% menjadi 0,034%. Pelaporan ini merupakan kewajiban rutin bagi direksi dan komisaris perusahaan terbuka sesuai Pasal 3 Ayat 3 POJK Nomor 4/2024.",
+   "Transaksi ini terjadi pada pekan yang sama dengan pembelian saham CYBR senilai sekitar Rp1,6 miliar oleh direksi lain perseroan, seperti yang telah diberitakan sebelumnya. Dibandingkan dengan nilai pembelian tersebut, penjualan oleh Doni Mora jauh lebih kecil sehingga aktivitas insider ITSEC Asia pekan ini secara keseluruhan masih didominasi aksi beli."
+  ],
+  "fotoAdegan": "IT security analysts working at workstations in a dim network operations room, screens blurred in the background, Jakarta office",
+  "takeaway": "Laporan ini netral bagi ITSEC Asia karena saham yang dilepas Doni Mora hanya senilai sekitar Rp27,5 juta, terlalu kecil untuk dibaca sebagai sinyal sikap direksi terhadap prospek perusahaan. Yang tersentuh cuma hak suara pribadi pelapor, yang turun tipis dari 0,035% menjadi 0,034%, sementara jumlah saham beredar dan peta pengendali ITSEC Asia praktis tidak berubah; pasar tetap mencatat transaksi semacam ini karena pola jual beli direksi kadang mencerminkan pandangan orang dalam, meski satu transaksi sekecil ini belum cukup jadi indikasi. Yang perlu dipantau berikutnya adalah apakah Doni Mora atau direksi lain ITSEC Asia melanjutkan pelepasan saham pada laporan-laporan mendatang, mengingat pekan yang sama juga mencatat pembelian senilai Rp1,6 miliar oleh direksi lain sehingga arah sikap insider perusahaan belum menunjukkan satu warna yang sama.",
+  "sentimen": "netral"
+ },
+ {
   "slug": "ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru",
   "category": "Pasar Modal",
   "title": "IHSG [Berbalik] Usai Suahasil Nazara Jadi Menkeu Baru",
@@ -28,6 +159,85 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini adalah pucuk pimpinan Kementerian Keuangan: Suahasil Nazara dilantik menggantikan Purbaya Yudhi Sadewa, dan pasar saham sempat gugup sebelum akhirnya tenang. IHSG, ukuran rata-rata harga seluruh saham di Bursa Efek Indonesia, sempat anjlok 2,5 persen begitu pelantikan berlangsung tapi cuma berakhir turun 0,10 persen, sementara indeks LQ45 yang berisi 45 saham perusahaan besar malah naik 1,43 persen. Ini kena langsung ke pemegang saham dan pelaku pasar modal, karena kenaikan LQ45 menunjukkan investor besar memilih memburu saham-saham besar alih-alih menjauhinya, tanda mereka percaya kebijakan fiskal, yaitu cara pemerintah mengatur pemasukan dan belanja negara lewat APBN, tidak akan berubah drastis di tangan menteri baru. Tapi analis yang dikutip berita ini sendiri mengingatkan bahwa gerakan pasar hari ini juga dipengaruhi sentimen global dan harga komoditas, bukan semata soal pergantian menteri, sehingga kepercayaan pasar ini belum bisa dipastikan solid. Yang akan menjawabnya adalah kebijakan konkret pertama Suahasil soal defisit APBN dan pengelolaan utang negara, dua isu yang menurut analis itu akan paling dicermati investor selanjutnya.",
   "imageV": "mu16dmro"
+ },
+ {
+  "slug": "hexa-laba-bersih-turun-48-5-di-tahun-buku-2025",
+  "category": "Aksi Korporasi",
+  "title": "HEXA: Laba Bersih [Turun] 48,5% di Tahun Buku 2025",
+  "deck": "Materi Public Expose Tahunan Hexindo Adiperkasa menunjukkan laba bersih FY2025 turun 48,5 persen dan meleset dari target, jelang paparan publik 17 September 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:46:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b34f12525_1a19bf7de8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEXA",
+  "tags": [
+   "HEXA",
+   "Hexindo Adiperkasa",
+   "alat berat",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Hexindo Adiperkasa Tbk (HEXA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 14 September 2026, menjelang paparan publik yang akan digelar Kamis, 17 September 2026 pukul 14.00 WIB secara virtual melalui Microsoft Teams. Dalam materi itu, distributor resmi alat berat Hitachi Construction Machinery ini melaporkan pendapatan bersih tahun buku 2025, periode April 2025 hingga Maret 2026, sebesar US$515,4 juta, turun 1,4 persen dibanding tahun buku 2024 yang senilai US$522,7 juta. Laba kotor ikut tergerus 18,2 persen menjadi US$90,2 juta, sementara laba bersih anjlok 48,5 persen dari US$31,1 juta menjadi US$16,0 juta. Realisasi laba bersih itu hanya mencapai 71 persen dari target internal perusahaan sendiri sebesar US$22,5 juta untuk tahun buku yang sama.",
+   "Pelemahan berlanjut di kuartal pertama tahun buku 2026 yang berakhir Juni 2026. Pendapatan tercatat US$113,8 juta, turun dari US$123,4 juta pada periode yang sama tahun sebelumnya, sedangkan laba bersih turun 29 persen menjadi US$4,9 juta dari US$6,9 juta. Dibandingkan target penuh tahun buku 2026 yang dipatok manajemen, yakni pendapatan US$589,4 juta dan laba bersih US$18,4 juta, capaian satu kuartal itu baru setara 19 persen dari target pendapatan dan 27 persen dari target laba bersih. Di sisi neraca, total aset per akhir Juni 2026 tercatat US$409,8 juta, naik tipis 0,67 persen dari US$407,0 juta di akhir tahun buku 2025, total liabilitas turun 0,91 persen menjadi US$239,8 juta, dan ekuitas naik 2,98 persen menjadi US$169,9 juta.",
+   "Di luar tekanan laba, penjualan unit alat berat Hexindo justru tumbuh 22 persen sepanjang tahun buku 2025 menjadi 3.164 unit, dengan pangsa pasar naik dari 16,3 persen menjadi 16,7 persen. Penjualan ke sektor perkebunan melonjak 38 persen menjadi 1.409 unit dan sektor industri serta penyewaan lain naik 167 persen menjadi 384 unit, sementara penjualan ke sektor konstruksi turun 3 persen, kehutanan turun 3 persen, dan pertambangan turun 8 persen. Perusahaan juga memperkenalkan lini alat berat baru bermerek WIXIM, yang pertama kali diluncurkan secara global di Jakarta pada 27 Juli 2026, dengan dua unit bulldozer dan dua unit wheel loader sudah terkirim serta pesanan tambahan yang sudah diamankan. Produk baru lain, truk agro Foton 4x2 yang menyasar sektor perkebunan sawit, mulai dijual Agustus 2026 dan telah menerima lebih dari 100 unit pesanan.",
+   "Perusahaan turut menyampaikan pesan bahwa merek Hitachi Construction Machinery akan berganti nama dari HITACHI menjadi LANDCROS mulai 1 April 2027. Hexindo menegaskan akan tetap menjadi distributor resmi tunggal seperti saat ini, nama perusahaan Hexindo tidak berubah, dan basis teknologi produk yang dikembangkan di Jepang juga tidak berubah. Komposisi pemegang saham dalam materi ini menunjukkan HCM Japan menguasai 48,59 persen dari total 840 juta saham beredar, Itochu Corporation Jepang 25,05 persen, dan HMAP Singapura 5,07 persen, dengan sisanya dimiliki publik."
+  ],
+  "fotoAdegan": "Mechanics inspecting the undercarriage of a yellow hydraulic excavator inside a heavy equipment workshop under industrial lighting",
+  "takeaway": "Laporan ini condong negatif karena pendapatan, laba kotor, dan laba bersih Hexindo kompak turun sepanjang tahun buku 2025, berlanjut ke kuartal pertama tahun buku 2026, dan realisasi laba bersihnya meleset jauh dari target internal perusahaan sendiri. Yang paling tersentuh adalah laba bersih per saham, yaitu bagian laba yang menjadi hak tiap lembar saham, yang ikut mengecil karena laba perusahaan menyusut sementara jumlah saham beredar tetap di 840 juta lembar. Di sisi lain, ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi utang, justru naik 2,98 persen pada kuartal pertama tahun buku 2026 dan total utang malah turun, jadi permodalan Hexindo belum dalam tekanan meski labanya menyusut. Penjualan unit yang tumbuh 22 persen dan pangsa pasar yang naik menunjukkan pelemahan laba lebih banyak berasal dari tekanan margin dan biaya operasional, bukan dari sepinya permintaan. Yang perlu dipantau berikutnya adalah paparan publik pada Kamis, 17 September 2026, serta apakah kinerja sisa tahun buku 2026 bisa mengejar target penuh tahun yang baru tercapai 19 persen untuk pendapatan dan 27 persen untuk laba bersih pada kuartal pertama.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "cmry-tambah-penyertaan-modal-rp125-miliar-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Tambah Penyertaan Modal [Rp125 Miliar] ke Anak Usaha",
+  "deck": "Cimory menyuntik modal Rp125 miliar secara bertahap ke anak usaha Macrosentra Niagaboga untuk perluasan pusat distribusi dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:42:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c8329398_37a4864ade.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMRY",
+  "tags": [
+   "CMRY",
+   "Cimory",
+   "Transaksi Afiliasi",
+   "Macrosentra Niagaboga"
+  ],
+  "body": [
+   "PT Cisarua Mountain Dairy Tbk (CMRY) melaporkan transaksi afiliasi berupa penambahan penyertaan modal secara bertahap kepada anak usaha terkendalinya, PT Macrosentra Niagaboga (MS), senilai Rp125 miliar. Transaksi ini tercatat pada 14 September 2026. CMRY memiliki 99,99 persen saham MS, sehingga transaksi ini digolongkan sebagai transaksi afiliasi karena terjadi antara perusahaan induk dan anak usaha yang sahamnya dikuasai hampir seluruhnya oleh induknya.",
+   "Menurut penjelasan resmi perseroan, tambahan modal ini dipakai untuk mendukung rencana ekspansi pusat distribusi MS serta menambah modal kerja perusahaan tersebut, sesuai dengan komitmen yang sudah tercantum dalam prospektus CMRY. Karena MS dimiliki lebih dari 99 persen oleh CMRY, transaksi ini masuk kategori yang dikecualikan dari sejumlah kewajiban prosedural transaksi afiliasi berdasarkan Pasal 6 ayat 1 huruf b POJK 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Perseroan menegaskan transaksi ini tidak mengubah struktur pengendalian, CMRY tetap menjadi pemegang saham pengendali MS dengan kepemilikan 99,99 persen, dan tidak berdampak material terhadap kondisi keuangan, kegiatan operasional, maupun kelangsungan usaha CMRY. Direksi dan Dewan Komisaris juga menyatakan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan secara lengkap. Laporan ditandatangani oleh Sekretaris Perusahaan CMRY, Dinar Primasari."
+  ],
+  "fotoAdegan": "Warehouse workers loading dairy product pallets onto delivery trucks at a busy distribution center, early morning light",
+  "takeaway": "Transaksi ini netral bagi kondisi keuangan Cimory, karena dananya mengalir dari induk ke anak usaha yang sudah dikonsolidasikan hampir sepenuhnya, sehingga di laporan keuangan gabungan tidak banyak yang berubah, dan perseroan sendiri menyatakan tidak ada dampak material. Yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dari kas CMRY dan masuk sebagai modal di anak usaha MS, serta pos ekuitas penyertaan pada anak usaha yang bertambah, dua hal yang biasa dipantau investor untuk melihat ke mana perusahaan menaruh uangnya. Sisi positifnya, dana ini dipakai untuk memperluas pusat distribusi, artinya kapasitas logistik grup bisa bertambah kalau ekspansi berjalan sesuai rencana. Karena penambahan modal ini dilakukan secara bertahap tanpa tenggat yang disebutkan dalam dokumen, yang perlu dipantau selanjutnya adalah laporan keuangan CMRY di kuartal mendatang untuk melihat apakah pusat distribusi baru MS sudah mulai beroperasi dan berkontribusi pada penjualan.",
+  "sentimen": "netral"
+ },
+ {
+  "slug": "cmry-suntik-modal-rp200-miliar-ke-macroprima-panganutama",
+  "category": "Aksi Korporasi",
+  "title": "CMRY [Suntik] Modal Rp200 Miliar ke Macroprima Panganutama",
+  "deck": "Cisarua Mountain Dairy menambah penyertaan modal Rp200 miliar secara bertahap ke anak usaha PT Macroprima Panganutama untuk memperluas kapasitas produksi dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:38:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/584ccc07ae_8cc0e51d01.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMRY",
+  "tags": [
+   "CMRY",
+   "Transaksi Afiliasi",
+   "Cimory",
+   "Macroprima Panganutama"
+  ],
+  "body": [
+   "PT Cisarua Mountain Dairy Tbk (CMRY) melaporkan transaksi afiliasi berupa penambahan penyertaan modal senilai Rp200 miliar kepada anak usaha terkendalinya, PT Macroprima Panganutama (MP), dengan tanggal transaksi 14 September 2026. Cimory memegang 99,99 persen saham MP, sehingga transaksi ini masuk kategori yang dikecualikan dari kewajiban keterbukaan penuh berdasarkan Pasal 6 ayat 1 huruf b POJK 42/2020, aturan yang membebaskan transaksi antara perusahaan induk dan anak usaha yang sahamnya dikuasai minimal 99 persen dari sejumlah kewajiban prosedural seperti penilai independen.",
+   "Penambahan modal ini dilakukan bertahap dan ditujukan untuk mendukung perluasan kapasitas fasilitas produksi serta modal kerja MP, sejalan dengan rencana pengembangan yang sebelumnya sudah diungkapkan dalam prospektus Cimory. Perseroan juga menyebut laporan ini sebagai kelanjutan dari keterbukaan informasi serupa yang sudah diumumkan lewat surat Nomor 034/CORSEC/EKS/VII/2026 tertanggal 1 Juli 2026, yang berarti penyertaan modal ke MP berjalan dalam beberapa tahap sejak pertengahan tahun ini.",
+   "Cimory menegaskan transaksi ini tidak mengubah struktur pengendalian, di mana Perseroan tetap menjadi pemegang saham pengendali MP dengan kepemilikan 99,99 persen, dan tidak berdampak material terhadap kondisi keuangan, kegiatan operasional, maupun kelangsungan usaha Perseroan. Direksi dan Dewan Komisaris Cimory menyatakan transaksi ini tidak mengandung benturan kepentingan dan seluruh informasi material telah diungkapkan tanpa ada yang menyesatkan. Laporan ditandatangani oleh Dinar Primasari selaku Sekretaris Perusahaan."
+  ],
+  "fotoAdegan": "Workers in white uniforms inspecting stainless steel processing tanks inside a modern food production plant in Indonesia",
+  "takeaway": "Transaksi ini netral bagi fundamental Cimory karena hanya memindahkan dana dari kas induk ke anak usaha yang sudah dikuasai 99,99 persen dan dikonsolidasikan penuh dalam laporan keuangan, sehingga tidak mengubah pengendalian maupun memerlukan persetujuan pemegang saham independen. Yang tersentuh adalah arus kas Perseroan, yaitu catatan uang tunai yang keluar masuk perusahaan, karena Rp200 miliar ini keluar dari kas Cimory dan masuk sebagai modal di Macroprima Panganutama, bukan pos yang mengubah jumlah saham beredar atau laba per saham. Perlu dicatat, ini merupakan kelanjutan dari komitmen penyertaan modal yang sudah diumumkan sejak 1 Juli 2026, jadi prosesnya berjalan bertahap, bukan sekali jadi. Pada hari yang sama, Cimory juga melaporkan penambahan modal Rp125 miliar ke anak usaha lain, sehingga total dana yang disalurkan ke unit-unit usahanya hari ini cukup besar meski keduanya tercatat sebagai transaksi terpisah. Yang perlu dipantau selanjutnya adalah apakah masih ada tahap penyertaan modal lanjutan ke Macroprima Panganutama serta realisasi penambahan kapasitas produksinya, karena dokumen ini tidak mencantumkan tenggat waktu spesifik untuk tahap berikutnya.",
+  "sentimen": "netral"
  },
  {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
@@ -426,6 +636,112 @@ var ARTICLES = [
   "fotoAdegan": "Workers assembling steel office filing cabinets on an industrial production line, sparks from welding, safety gear, warehouse lighting",
   "takeaway": "Laporan ini condong negatif bagi Lion Metal Works karena penjualan turun seperlima dan perusahaan berbalik dari untung menjadi rugi bersih Rp26,04 miliar, sementara dividen yang tetap dibagikan tahun ini berasal dari laba tahun sebelumnya, bukan dari kinerja tahun berjalan. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih milik pemegang saham setelah dikurangi utang, yang turun dari Rp501,05 miliar menjadi Rp472,11 miliar karena rugi tahun ini langsung mengurangi saldo laba ditahan, serta laba per saham yang berbalik jadi rugi Rp50 per lembar dari untung Rp20 per lembar. Penurunan liabilitas 28,33 persen yang dilaporkan terpisah ke bursa lebih mencerminkan pelunasan pinjaman dan pengakuan uang muka pelanggan sebagai penjualan, bukan tanda perbaikan kinerja usaha, jadi tidak sepatutnya dibaca sebagai kabar baik yang berdiri sendiri. Yang perlu dipantau berikutnya adalah laporan kuartal pertama 2026, untuk melihat apakah penurunan penjualan dan rugi usaha ini berlanjut atau hanya sementara, terlebih laporan yang beredar saat ini masih berstatus koreksi.",
   "sentimen": "negatif"
+ },
+ {
+  "slug": "uang-buka-kendala-penuhi-syarat-free-float-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "UANG Buka Kendala Penuhi Syarat [Free Float] ke Bursa",
+  "deck": "PT Pakuan Tbk (UANG) menjelaskan ke BEI kendala pemenuhan syarat minimum saham beredar bebas, termasuk saham warkat dan rencana pelepasan saham pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T16:00:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a09ce3670_6cee856ff1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "UANG",
+  "tags": [
+   "UANG",
+   "free float",
+   "PT Pakuan Tbk",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Pakuan Tbk (UANG) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia terkait rencana pemenuhan ketentuan minimum free float, menjawab surat permintaan penjelasan bursa tertanggal 11 September 2026. Surat balasan bernomor 058/PKN-LGL/IX/2026 itu dikirim pada 14 September 2026 dan ditandatangani Asa Nisi Siahaan selaku Sekretaris Perusahaan.",
+   "Perseroan mengaku menghadapi dua kendala utama. Pertama, rata-rata nilai transaksi harian sahamnya hanya sekitar Rp5,36 miliar, sehingga pelepasan saham dalam jumlah besar lewat pasar sekunder berisiko menekan harga dan merugikan pemegang saham publik. Kedua, sebanyak 29.034.000 saham atau 2,40 persen dari total saham masih berbentuk warkat atau sertifikat fisik milik pihak non-afiliasi, sehingga belum bisa dihitung sebagai free float. Sebagian pemegang saham perorangan sudah tidak bisa dihubungi di alamat yang tercatat di Biro Administrasi Efek, sementara sebagian saham warkat lain milik Pemerintah Provinsi DKI Jakarta harus mengikuti prosedur pengelolaan barang milik daerah yang berada di luar kendali perseroan.",
+   "Untuk mengatasi hal itu, perseroan berencana menghubungi ulang seluruh pemegang saham warkat lewat surat tercatat dan pengumuman publik, serta berkoordinasi dengan Pemerintah Provinsi DKI Jakarta dan PT Jakarta Tourisindo, dengan potensi tambahan free float maksimum sekitar 2,40 persen. Di luar itu, pemegang saham pengendali berencana melepas sebagian kepemilikannya untuk menambah likuiditas di pasar. Perseroan juga tengah mengkaji opsi penambahan modal lewat rights issue dengan pembeli siaga non-afiliasi, private placement kepada investor institusi non-afiliasi, dan atau pelepasan sebagian saham pemegang saham utama kepada investor non-afiliasi. Perseroan menegaskan setiap aksi korporasi yang sudah pasti akan diumumkan lewat keterbukaan informasi terpisah.",
+   "Perseroan juga meminta sejumlah dukungan dari bursa, yaitu penegasan tertulis soal kategori kapitalisasi dan batas waktu pemenuhan yang berlaku, konfirmasi perhitungan free float per 30 Juni 2026 versi bursa, fasilitasi bersama KSEI dan Biro Administrasi Efek untuk menelusuri dan mengonversi saham warkat milik perorangan, bantuan komunikasi dengan Pemerintah Provinsi DKI Jakarta terkait percepatan konversi saham warkat, serta kesempatan konsultasi sebelum struktur aksi korporasi ditetapkan."
+  ],
+  "fotoAdegan": "An archive clerk sorting bundles of aged, blurred paper stock certificates in a dim records room, soft afternoon light through a window.",
+  "takeaway": "Laporan ini condong negatif bagi UANG karena mengonfirmasi bahwa perseroan belum memenuhi syarat minimum saham beredar bebas milik publik dan sedang mempertimbangkan opsi yang bisa menambah jumlah saham beredar atau mengubah peta pemegang saham utama. Free float adalah porsi saham yang benar-benar beredar bebas di publik, bukan digenggam pemegang saham pengendali, dan bursa mensyaratkan batas minimum supaya saham cukup ramai diperdagangkan. Kalau opsi rights issue, yaitu penawaran saham baru kepada pemegang saham lama, atau private placement, yaitu penjualan saham baru langsung ke investor tertentu, benar direalisasikan, jumlah saham beredar akan bertambah sehingga laba per saham bagi pemegang lama berpotensi terdilusi. Kendala saham warkat dan proses birokrasi Pemerintah Provinsi DKI Jakarta menunjukkan penyelesaiannya butuh waktu, bukan hal yang bisa selesai dalam waktu dekat. Yang perlu dipantau berikutnya adalah balasan tertulis bursa soal kategori dan batas waktu yang diminta perseroan, serta keterbukaan informasi susulan begitu salah satu aksi korporasi, rights issue, private placement, atau pelepasan saham pengendali, benar-benar diputuskan.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "intd-belum-punya-rencana-pasti-penuhi-free-float-minimum",
+  "category": "Aksi Korporasi",
+  "title": "INTD Belum Punya Rencana Pasti Penuhi [Free Float] Minimum",
+  "deck": "INTD menjawab teguran bursa soal syarat minimum saham beredar bebas hanya dengan janji akan mengupayakannya secepatnya, tanpa target waktu atau angka pasti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T15:56:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd4c67348e_2e953f86e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INTD",
+  "tags": [
+   "INTD",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "body": [
+   "Inter-Delta Tbk (INTD) melalui surat bernomor 041/CS/ID/IX/2026 tertanggal 14 September 2026 menjawab permintaan penjelasan dari Bursa Efek Indonesia bernomor S-112/D.04/2026 mengenai rencana pemenuhan ketentuan minimum free float. Dalam jawabannya, perseroan hanya menyatakan sedang dalam proses mengupayakan pemenuhan free float secepatnya, tanpa merinci target persentase, mekanisme yang akan ditempuh, maupun tenggat waktu penyelesaiannya. Surat itu ditandatangani Finance Controller INTD, Satriani Ligatsyah, sementara lampiran surat resmi ke BEI ditandatangani Direktur Kevin Wong.",
+   "Free float adalah persentase saham perusahaan yang dipegang publik secara bebas, di luar kepemilikan pemegang saham pengendali dan pihak terafiliasi. Bursa mewajibkan setiap emiten menjaga rasio minimum saham publik ini karena berkaitan langsung dengan seberapa mudah saham tersebut diperjualbelikan di pasar. Adanya surat permintaan penjelasan dari BEI menandakan porsi saham publik INTD saat ini belum memenuhi ambang yang disyaratkan, namun jawaban perseroan tidak memuat langkah konkret, misalnya rencana pelepasan sebagian saham pengendali, penerbitan saham baru, atau jadwal waktu penyelesaian.",
+   "Permintaan penjelasan ini muncul sepekan setelah INTD merilis pernyataan yang membantah adanya informasi material di balik volatilitas harga sahamnya. Rangkaian dua surat ini menunjukkan bursa sedang mencermati pergerakan saham INTD, termasuk struktur kepemilikan publiknya yang menjadi salah satu indikator likuiditas di pasar."
+  ],
+  "fotoAdegan": "Exterior of tall glass office towers in Jakarta's business district at dusk, blurred traffic below, hazy skyline",
+  "takeaway": "Surat balasan ini condong negatif bagi Inter-Delta karena jawabannya ke bursa hanya berupa janji akan mengupayakan secepatnya, tanpa target angka atau tenggat waktu, padahal yang dipersoalkan adalah kepatuhan pada syarat dasar pencatatan saham. Yang tersentuh adalah porsi saham beredar bebas alias free float, yaitu bagian saham yang dipegang publik di luar pengendali dan menentukan seberapa likuid saham itu diperdagangkan; kalau porsi ini terus di bawah ambang yang disyaratkan, bursa bisa menjatuhkan sanksi administratif hingga penghentian sementara perdagangan jika berlarut-larut. Masalah ini juga sejalan dengan surat sepekan sebelumnya yang membantah ada informasi material di balik volatilitas sahamnya, sehingga rendahnya free float bisa menjadi salah satu faktor di balik pergerakan harga yang tidak biasa itu. Yang perlu dipantau berikutnya adalah apakah INTD akhirnya menyampaikan rencana konkret ke bursa, misalnya lewat pelepasan sebagian saham pengendali atau penerbitan saham baru, dan apakah BEI memberi tenggat waktu baru setelah jawaban yang belum memuaskan ini.",
+  "sentimen": "negatif"
+ },
+ {
+  "slug": "sido-bukukan-laba-rp334-miliar-semester-i-ekspor-naik-28",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Bukukan Laba Rp334 Miliar Semester I, Ekspor [Naik 28%]",
+  "deck": "Dalam public expose tahunan, manajemen SIDO memaparkan laba bersih semester I 2026 sebesar Rp334 miliar dan penjualan ekspor tumbuh 28 persen dari tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T15:50:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f38a0332_e593fc397d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIDO",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Industri Jamu Dan Farmasi Sido Muncul Tbk (SIDO) menggelar Public Expose Tahunan 2026 secara daring lewat Zoom pada 9 September 2026, dihadiri 186 peserta di luar jajaran manajemen dan karyawan perseroan. Paparan disampaikan oleh Budiyanto, Direktur Keuangan sekaligus Corporate Secretary, didampingi Ribka Lydia Atedjadi selaku Corporate Legal & Corporate Secretary Manager dan Syafa Meldi Camila Putri dari Investor Relation.",
+   "Dalam paparannya, manajemen menyebut penjualan semester I 2026 tercatat Rp1,467 triliun dengan laba bersih Rp334 miliar. Margin laba kotor perusahaan berada di 51 persen, margin laba usaha 29 persen, dan margin laba bersih 23 persen. Dalam lima tahun terakhir, penjualan tumbuh rata-rata 4,1 persen per tahun sementara laba bersih tumbuh 5,7 persen per tahun. Tingkat pengembalian aset (ROA) tercatat 30 persen dan tingkat pengembalian modal (ROE) 32 persen. Sejak IPO, SIDO rata-rata membagikan lebih dari 92 persen labanya sebagai dividen tanpa memakai utang bank maupun obligasi.",
+   "Dari sisi kepemilikan saham, PT Hotel Candi Baru tercatat sebagai pemegang saham mayoritas dengan pemilik akhir keluarga Hidayat, publik memegang 20,5 persen, dan SIDO menyimpan 1,9 persen saham treasury hasil buyback. Jajaran direksi terdiri dari Irwan Hidayat sebagai Direktur Utama, David Hidayat sebagai Direktur Operasional, Maria Reviani sebagai Direktur Marketing, Darmadji Sidik sebagai Direktur Penjualan dan Logistik, serta Budiyanto sebagai Direktur Keuangan dan Corporate Secretary.",
+   "Penjualan ekspor tumbuh 28 persen secara tahunan pada semester I 2026 dan kini menyumbang sekitar 12 sampai 13 persen dari total penjualan, dengan Malaysia sebagai pasar terbesar (5-6 persen dari total penjualan), diikuti Filipina (2-3 persen) tempat SIDO memiliki kantor cabang, dan Nigeria (1-2 persen) tempat SIDO memiliki anak usaha. Di pasar domestik, Tolak Angin masih memimpin pangsa pasar herbal dengan 71 persen, turun dari 73 persen pada 2025. Manajemen juga melaporkan seluruh listrik operasional kini berasal dari energi terbarukan dan emisi perusahaan telah turun 86 persen."
+  ],
+  "fotoAdegan": "Workers inspecting sachets of herbal drink powder moving along a conveyor belt inside a bright pharmaceutical factory in Indonesia",
+  "takeaway": "Paparan ini condong positif bagi fundamental SIDO, sebab margin laba yang tebal, pengembalian modal tinggi, dan dividen besar berjalan tanpa utang bank maupun obligasi. Yang tersentuh adalah tingkat pengembalian modal atau ROE, yaitu seberapa besar laba yang dihasilkan dari setiap rupiah modal pemegang saham, yang tercatat 32 persen, salah satu yang tertinggi di antara emiten BEI, serta rasio pembagian dividen yang rata-rata di atas 92 persen sejak IPO tanpa pinjaman bank atau obligasi, artinya perusahaan membagikan hampir seluruh labanya ke pemegang saham tanpa beban bunga. Yang perlu dipantau berikutnya adalah apakah penurunan pangsa pasar Tolak Angin dari 73 persen pada 2025 menjadi 71 persen saat ini berlanjut atau berhenti, dan apakah kontribusi ekspor yang kini di kisaran 12 sampai 13 persen dari total penjualan bisa terus naik seperti tren tahun-tahun sebelumnya, yang baru akan terlihat pada laporan keuangan kuartal III 2026.",
+  "sentimen": "positif"
+ },
+ {
+  "slug": "jsmr-bukukan-pertumbuhan-ebitda-8-1-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Bukukan Pertumbuhan [EBITDA] 8,1% di Semester I 2026",
+  "deck": "Public expose 9 September 2026: Jasa Marga catat pendapatan usaha naik 7,6% dan EBITDA tumbuh 8,1% pada semester I 2026, dengan rasio utang tetap jauh di bawah batas kreditur.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T15:29:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17412e83d2_64b9fbf516.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "kinerja keuangan",
+   "jalan tol"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk (JSMR) menggelar public expose tahunan secara daring pada Selasa, 9 September 2026, pukul 11.00-12.00 WIB, yang dihadiri 215 peserta di luar manajemen dan karyawan perseroan, dari total 250 orang yang mendaftar. Presentasi disampaikan oleh Direktur Utama Rivan A. Purwantono bersama Direktur Keuangan dan Manajemen Risiko Pramitha Wulanjani, Direktur Pengembangan Usaha Ari Respati, Direktur Bisnis Reza Febriano, dan Direktur Operasi Fitri Wiyanti. Sesi konferensi pers yang menyertainya diikuti 26 peserta terdaftar.",
+   "Dalam paparannya, manajemen melaporkan pendapatan usaha di luar pendapatan konstruksi tumbuh 7,6 persen sepanjang semester I 2026, didorong oleh pertumbuhan volume lalu lintas 1,7 persen secara tahunan, pengoperasian ruas Jogja-Solo seksi Klaten-Prambanan sejak Agustus 2025, serta penyesuaian tarif di sejumlah ruas, yaitu Ngawi-Kertosono 4,08 persen, Semarang-Batang 29,5 persen, Solo-Ngawi 24,98 persen, dan Sedyatmo 4,19 persen. EBITDA turut naik 8,1 persen secara tahunan dengan margin EBITDA membaik ke 67,8 persen. Perseroan juga menjaga dua rasio utang yang disyaratkan kreditur, yaitu perbandingan utang berbunga terhadap ekuitas di level 1,23 kali, jauh di bawah batas maksimum 5 kali, serta rasio kemampuan membayar bunga di 3,90 kali, di atas batas minimum 1,1 kali.",
+   "Untuk tahun 2026, manajemen menargetkan pendapatan jalan tol tumbuh 4-6 persen, EBITDA tumbuh 4-6 persen dengan margin dijaga di 65-67 persen, gearing ratio di bawah 1,5 kali, dan rasio kemampuan membayar bunga di atas 2,5 kali. Dari sisi proyek, Jasa Marga menargetkan ruas Yogyakarta-SS Banyurejo pada Jalan Tol Jogja-Bawen menjalani serah terima sementara (Provisional Hand Over) pada akhir September 2026, sementara ruas SS Ambarawa-JC Bawen ditargetkan beroperasi akhir tahun ini setelah melalui uji laik fungsi dan operasi. Secara keseluruhan, perseroan menyebut masih ada 5 km jalan tol yang akan beroperasi pada akhir 2026 dan 62 km lagi pada awal 2027, mencakup ruas Probolinggo-Banyuwangi, Jogja-Solo, dan Jogja-Bawen."
+  ],
+  "fotoAdegan": "Vehicles flowing through a multi-lane elevated toll road interchange in Indonesia during daytime, aerial perspective, light traffic and greenery",
+  "takeaway": "Laporan ini condong positif bagi Jasa Marga, karena pendapatan dan EBITDA tumbuh lebih cepat dari kenaikan beban usaha, sementara rasio utangnya masih jauh dari batas yang disyaratkan kreditur. Yang tersentuh adalah margin EBITDA, yaitu porsi pendapatan yang tersisa setelah dikurangi beban operasional inti, yang naik ke 67,8 persen, serta dua rasio utang: perbandingan utang berbunga terhadap modal sendiri di 1,23 kali dari batas maksimal kreditur 5 kali, dan kemampuan membayar bunga dari laba operasional di 3,90 kali dari batas minimal 1,1 kali. Pelaku pasar mencermati rasio ini karena bisnis jalan tol mengandalkan utang besar di awal proyek, sehingga jarak aman dari batas kreditur menentukan ruang gerak perusahaan mencari pendanaan baru untuk proyek berikutnya. Yang perlu dipantau selanjutnya adalah proses serah terima sementara ruas Yogyakarta-SS Banyurejo yang ditargetkan akhir September 2026, serta pengoperasian ruas SS Ambarawa-JC Bawen yang ditargetkan akhir tahun ini, karena keduanya menambah panjang jalan tol yang bisa langsung menyumbang pendapatan baru.",
+  "sentimen": "positif"
  },
  {
   "slug": "kek-industropolis-batang-genjot-investasi-manufaktur-hijau",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sini-divestasi-54-saham-ikn-senilai-rp31-8-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SINI [Divestasi] 54% Saham IKN Senilai Rp31,8 Miliar",
+  "deck": "Singaraja Putra melepas 54 persen saham anak usahanya, PT Interkayu Nusantara, ke Hendra Hasan Kustarjo senilai Rp31,8 miliar.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SINI",
+   "divestasi",
+   "Interkayu Nusantara",
+   "portofolio investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ea94f58653_0f4d0460e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbca-buyback-rp3-5-triliun-rasio-dividen-naik-ke-72",
+  "category": "Aksi Korporasi",
+  "title": "BBCA: Buyback [Rp3,5 Triliun], Rasio Dividen Naik ke 72%",
+  "deck": "Public expose BCA ungkap progres buyback saham, kenaikan rasio dividen ke 72 persen, dan pertumbuhan kredit 8 persen pada semester I 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBCA",
+   "Public Expose",
+   "Bank Central Asia",
+   "kinerja perbankan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e45bf0b681_5f51678b83.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "safe-masuk-daftar-pemantauan-khusus-bei-mulai-15-september",
+  "category": "Aksi Korporasi",
+  "title": "SAFE [Masuk] Daftar Pemantauan Khusus BEI Mulai 15 September",
+  "deck": "BEI memasukkan saham Steady Safe Tbk (SAFE) ke daftar Efek Dalam Pemantauan Khusus mulai 15 September 2026, menyusul penghentian sementara perdagangan lebih dari satu hari bursa.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAFE",
+   "BEI",
+   "pemantauan khusus",
+   "suspensi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/31c0cef6cc_82fde4728f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-beli-saham-rp1-6-miliar-dalam-sepekan",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Beli] Saham Rp1,6 Miliar dalam Sepekan",
+  "deck": "Direksi ITSEC Asia, Patrick Rudolf Dannacher, membeli 3,08 juta saham CYBR senilai sekitar Rp1,6 miliar lewat 17 transaksi pada 8-11 September 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham direksi",
+   "insider buying"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-1642-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-doni-mora-jual-saham-rp27-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi Doni Mora [Jual] Saham Rp27,5 Juta",
+  "deck": "Direksi ITSEC Asia Doni Mora melepas 51.900 saham CYBR seharga Rp530 per lembar, sekitar Rp27,5 juta, hak suaranya turun dari 0,035% jadi 0,034%.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "kepemilikan saham",
+   "transaksi direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-14092026-3661-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru",
   "category": "Pasar Modal",
   "title": "IHSG [Berbalik] Usai Suahasil Nazara Jadi Menkeu Baru",
@@ -20,6 +100,54 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/467056-sempat-anjlok-25-ihsg-berbalik-arah-usai-suahasil-nazara-dilantik-jadi-menkeu"
+ },
+ {
+  "slug": "hexa-laba-bersih-turun-48-5-di-tahun-buku-2025",
+  "category": "Aksi Korporasi",
+  "title": "HEXA: Laba Bersih [Turun] 48,5% di Tahun Buku 2025",
+  "deck": "Materi Public Expose Tahunan Hexindo Adiperkasa menunjukkan laba bersih FY2025 turun 48,5 persen dan meleset dari target, jelang paparan publik 17 September 2026.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEXA",
+   "Hexindo Adiperkasa",
+   "alat berat",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b34f12525_1a19bf7de8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cmry-tambah-penyertaan-modal-rp125-miliar-ke-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "CMRY Tambah Penyertaan Modal [Rp125 Miliar] ke Anak Usaha",
+  "deck": "Cimory menyuntik modal Rp125 miliar secara bertahap ke anak usaha Macrosentra Niagaboga untuk perluasan pusat distribusi dan modal kerja.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMRY",
+   "Cimory",
+   "Transaksi Afiliasi",
+   "Macrosentra Niagaboga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/93c8329398_37a4864ade.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cmry-suntik-modal-rp200-miliar-ke-macroprima-panganutama",
+  "category": "Aksi Korporasi",
+  "title": "CMRY [Suntik] Modal Rp200 Miliar ke Macroprima Panganutama",
+  "deck": "Cisarua Mountain Dairy menambah penyertaan modal Rp200 miliar secara bertahap ke anak usaha PT Macroprima Panganutama untuk memperluas kapasitas produksi dan modal kerja.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMRY",
+   "Transaksi Afiliasi",
+   "Cimory",
+   "Macroprima Panganutama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/584ccc07ae_8cc0e51d01.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
@@ -262,6 +390,70 @@ var ARTICLES = [
    "rugi bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202509/20260914162054-64395-0/FinancialStatement-2025-Tahunan-LION.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uang-buka-kendala-penuhi-syarat-free-float-ke-bursa",
+  "category": "Aksi Korporasi",
+  "title": "UANG Buka Kendala Penuhi Syarat [Free Float] ke Bursa",
+  "deck": "PT Pakuan Tbk (UANG) menjelaskan ke BEI kendala pemenuhan syarat minimum saham beredar bebas, termasuk saham warkat dan rencana pelepasan saham pengendali.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "UANG",
+   "free float",
+   "PT Pakuan Tbk",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2a09ce3670_6cee856ff1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "intd-belum-punya-rencana-pasti-penuhi-free-float-minimum",
+  "category": "Aksi Korporasi",
+  "title": "INTD Belum Punya Rencana Pasti Penuhi [Free Float] Minimum",
+  "deck": "INTD menjawab teguran bursa soal syarat minimum saham beredar bebas hanya dengan janji akan mengupayakannya secepatnya, tanpa target waktu atau angka pasti.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INTD",
+   "free float",
+   "Bursa Efek Indonesia",
+   "kepatuhan emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fd4c67348e_2e953f86e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sido-bukukan-laba-rp334-miliar-semester-i-ekspor-naik-28",
+  "category": "Aksi Korporasi",
+  "title": "SIDO Bukukan Laba Rp334 Miliar Semester I, Ekspor [Naik 28%]",
+  "deck": "Dalam public expose tahunan, manajemen SIDO memaparkan laba bersih semester I 2026 sebesar Rp334 miliar dan penjualan ekspor tumbuh 28 persen dari tahun lalu.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIDO",
+   "Sido Muncul",
+   "public expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/58f38a0332_e593fc397d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jsmr-bukukan-pertumbuhan-ebitda-8-1-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "JSMR Bukukan Pertumbuhan [EBITDA] 8,1% di Semester I 2026",
+  "deck": "Public expose 9 September 2026: Jasa Marga catat pendapatan usaha naik 7,6% dan EBITDA tumbuh 8,1% pada semester I 2026, dengan rasio utang tetap jauh di bawah batas kreditur.",
+  "date": "14 September 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "Jasa Marga",
+   "kinerja keuangan",
+   "jalan tol"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17412e83d2_64b9fbf516.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6302,198 +6494,6 @@ var ARTICLES = [
    "kinerja keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cd9bd3ac8d_e8fd045b33.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bkdp-keluar-dari-pemantauan-khusus-bei-per-8-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "BKDP [Keluar] dari Pemantauan Khusus BEI per 8 September 2026",
-  "deck": "Bursa mencabut status pemantauan khusus saham Bukit Darmo Property (BKDP) mulai 8 September 2026, setelah pemicu suspensi perdagangan yang dialaminya dinyatakan sudah tidak berlaku.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKDP",
-   "Bursa Efek Indonesia",
-   "Pemantauan Khusus",
-   "Bukit Darmo Property"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ef7d49d620_8d13a83e94.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-pindah-ke-papan-pemantauan-khusus-bei",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Pindah ke [Papan Pemantauan Khusus] BEI",
-  "deck": "BEI memindahkan saham MKNT dari Papan Pengembangan ke Papan Pemantauan Khusus mulai 8 September 2026 akibat harga rendah dan ekuitas negatif.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "Papan Pemantauan Khusus",
-   "BEI",
-   "ekuitas negatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2425f6d706_380a7adb57.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ucid-jadwalkan-rupslb-14-oktober-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "UCID Jadwalkan [RUPSLB] 14 Oktober, Agenda Belum Diumumkan",
-  "deck": "Uni-Charm Indonesia mengumumkan rencana RUPSLB pada 14 Oktober 2026. Tenggat pengajuan usulan agenda oleh pemegang saham jatuh pada 15 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UCID",
-   "RUPSLB",
-   "Uni-Charm Indonesia",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7eb112c652_86008b2322.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obligasi-bslt-rp750-miliar-resmi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi BSLT Rp750 Miliar Resmi [Jatuh Tempo]",
-  "deck": "Obligasi Berkelanjutan I Bank SulutGo seri BSLT01CN1 senilai Rp750 miliar jatuh tempo dan didelisting dari BEI mulai 7 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSLT",
-   "obligasi",
-   "jatuh tempo",
-   "Bank SulutGo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/867087eb9c_86d9840379.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arto-laba-bank-jago-melonjak-49-ke-rp189-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ARTO: Laba Bank Jago [Melonjak] 49% ke Rp189 Miliar",
-  "deck": "Materi public expose tahunan Bank Jago menunjukkan laba bersih semester I 2026 naik 49 persen menjadi Rp189 miliar, ditopang pertumbuhan kredit dan dana pihak ketiga.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTO",
-   "Bank Jago",
-   "Public Expose",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a9a2fb6a80_66a60109fb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pltm-pastikan-dana-pelunasan-obligasi-rp106-miliar-siap",
-  "category": "Aksi Korporasi",
-  "title": "PLTM Pastikan Dana Pelunasan Obligasi [Rp106 Miliar] Siap",
-  "deck": "PLTM menyatakan dana Rp106 miliar untuk pelunasan Obligasi II dan Sukuk Ijarah II Seri B, yang jatuh tempo 8 September 2026, sudah tersedia sejak 6 September 2026 dari kas internal.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLTM",
-   "obligasi",
-   "sukuk",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/864528735d_60f25d8849.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psab-bagi-dividen-interim-rp30-saham-cair-29-september-2026",
-  "category": "Aksi Korporasi",
-  "title": "PSAB Bagi [Dividen] Interim Rp30/Saham, Cair 29 September 2026",
-  "deck": "J Resources Asia Pasifik (PSAB) akan membagikan dividen interim Rp793,8 miliar atau Rp30 per saham untuk tahun buku 2026, dibayar 29 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSAB",
-   "dividen interim",
-   "J Resources Asia Pasifik",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e159a6826f_023d3aae5f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pipa-jawab-bursa-soal-volatilitas-transaksi-sahamnya",
-  "category": "Aksi Korporasi",
-  "title": "PIPA Jawab Bursa soal [Volatilitas] Transaksi Sahamnya",
-  "deck": "Oxala Energy International menjawab permintaan penjelasan BEI atas volatilitas transaksi saham PIPA, memastikan tidak ada fakta material baru selain yang sudah diungkap 19 dan 26 Agustus 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PIPA",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/842ebdafa4_f8af4eb467.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tugu-panggil-rupslb-ubah-skema-pemisahan-unit-syariah-ke-bpui",
-  "category": "Aksi Korporasi",
-  "title": "TUGU Panggil RUPSLB, Ubah Skema [Pemisahan] Unit Syariah ke BPUI",
-  "deck": "RUPSLB TUGU pada 29 September 2026 membahas pengangkatan komisaris independen dan pengalihan Unit Usaha Syariah ke perusahaan asuransi syariah lain, bagian konsolidasi asuransi BUMN oleh BPUI.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TUGU",
-   "RUPSLB",
-   "unit syariah",
-   "Danantara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b2d4954302_496fd28043.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "obligasi-dan-sukuk-apai-rp281-miliar-resmi-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi dan Sukuk APAI Rp281 Miliar Resmi [Jatuh Tempo]",
-  "deck": "Obligasi dan sukuk ijarah APAI senilai total Rp281 miliar jatuh tempo 8 September 2026 dan otomatis didelisting dari Bursa Efek Indonesia.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "APAI",
-   "obligasi",
-   "sukuk ijarah",
-   "jatuh tempo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0ac35d5b8d_3993ed1aed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ggrm-catat-laba-rp2-97-triliun-semester-i-2026-utang-bank-lunas",
-  "category": "Aksi Korporasi",
-  "title": "GGRM catat laba [Rp2,97 triliun] semester I 2026, utang bank lunas",
-  "deck": "Materi public expose tahunan GGRM menunjukkan laba bersih semester I 2026 melonjak ke Rp2,97 triliun meski penjualan turun 7,2 persen, utang bank jangka pendek lunas total.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GGRM",
-   "Gudang Garam",
-   "laporan keuangan",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/17943d18c3_ba843c446f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "gmfi-direksi-tri-hartono-beli-350-000-saham-rp58-lembar",
-  "category": "Aksi Korporasi",
-  "title": "GMFI: Direksi Tri Hartono Beli [350.000] Saham Rp58/Lembar",
-  "deck": "Direksi GMFI Tri Hartono membeli 350.000 saham perseroan seharga Rp58 per lembar pada 24 Agustus 2026 untuk portofolio investasi pribadi.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GMFI",
-   "kepemilikan saham",
-   "direksi",
-   "Garuda Maintenance Facility"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-1844-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

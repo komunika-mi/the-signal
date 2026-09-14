@@ -64,15 +64,59 @@ const REPO = 'komunika-mi/the-signal';
 const CABANG = 'master';
 const API = 'https://api.github.com';
 
+// Jam bursa IDX plus jendela sesudah penutupan: Senin-Jumat 09.00-16.45 WIB,
+// yaitu 02.00-09.45 UTC. Hitungannya memakai UTC karena fungsi ini jalan di
+// UTC, dan seluruh jendela itu jatuh di tanggal kalender yang sama di WIB,
+// jadi hari dalam pekan menurut UTC sama dengan menurut WIB.
+//
+// Batas 16.45, bukan 16.00, dan itu bagian terpenting dari jendela ini: yang
+// paling wajib tertangkap justru putaran SESUDAH bursa tutup, karena hanya
+// putaran itulah yang membawa penutupan final ke ticker.
+//
+// Hari libur bursa tidak dikenali. Akibatnya cuma putaran pasar yang tidak
+// perlu dan angkanya tidak berubah; tidak ada yang rusak, dan menit Actions
+// repo publik tidak ditagih.
+export function jamBursa(t = new Date()) {
+  const hari = t.getUTCDay();
+  if (hari === 0 || hari === 6) return false;
+  const menit = t.getUTCHours() * 60 + t.getUTCMinutes();
+  return menit >= 2 * 60 && menit <= 9 * 60 + 45;
+}
+
 // Alur yang ditambal, beserta jeda maksimum yang dianggap wajar.
 //
-// Angkanya sedikit DI ATAS jarak jadwal aslinya (2 jam), bukan sama persis.
-// Kalau disamakan, putaran terjadwal yang datang telat beberapa menit akan
-// selalu didahului pemicu ini, dan hasilnya dua putaran untuk satu slot.
+// Angkanya sedikit DI ATAS jarak jadwal aslinya, bukan sama persis. Kalau
+// disamakan, putaran terjadwal yang datang telat beberapa menit akan selalu
+// didahului pemicu ini, dan hasilnya dua putaran untuk satu slot.
+//
+// pasar.yml ditambahkan 14 September 2026, dan kasusnya persis alasan
+// pemicu ini ada. Hari itu pasar.yml cuma jalan 4 kali dari sekitar 24
+// jadwalnya. Putaran terakhir 14.50 WIB menangkap IHSG 6.396,58 (-2,21%),
+// dekat titik terendah hari itu, lalu SEMUA putaran sesudahnya hilang. Ticker
+// di bar atas seluruh situs membeku di angka itu tujuh jam, padahal IHSG tutup
+// 6.534,69 (-0,10%) - diperiksa lawan Google Finance, cocok persis. Situs
+// berita ekonomi menulis indeks jatuh 2,21% pada hari yang sebenarnya datar.
+//
+// Ambangnya BERGANTUNG JAM. Di jam bursa pasar.yml dijadwalkan tiap 30 menit,
+// jadi 40 menit sudah berarti satu slot hilang. Di luar jam bursa jadwalnya
+// tiap 2 jam, dan memakai 40 menit di sana akan menambah putaran di atas
+// rencana semula tanpa ada angka baru yang perlu diambil.
 const ALUR = [
-  { berkas: 'idx.yml', jedaMaks: 145, catatan: 'aksi korporasi IDX, jadwal tiap 2 jam' },
-  { berkas: 'daily.yml', jedaMaks: 145, catatan: 'berita tvOne + kanal lembaga, jadwal tiap 2 jam' },
+  { berkas: 'idx.yml', jedaMaks: () => 145, catatan: 'aksi korporasi IDX, jadwal tiap 2 jam' },
+  { berkas: 'daily.yml', jedaMaks: () => 145, catatan: 'berita tvOne + kanal lembaga, jadwal tiap 2 jam' },
+  { berkas: 'pasar.yml', jedaMaks: (t) => (jamBursa(t) ? 40 : 150),
+    catatan: 'ticker IHSG/kurs/emas, tiap 30 mnt di jam bursa, tiap 2 jam di luarnya' },
 ];
+
+// Status putaran yang berarti SLOT ANTRE grup concurrency sedang terisi.
+//
+// Kelima workflow penulis di repo ini berbagi grup `the-signal-tulis` dengan
+// cancel-in-progress: false. Aturan GitHub untuk grup seperti itu: satu
+// putaran jalan, satu menunggu, dan putaran menunggu yang BARU membatalkan
+// putaran menunggu yang LAMA. Jadi memicu apa pun saat slot tunggu sudah
+// terisi berarti membatalkan putaran orang lain, bisa jadi idx.yml yang
+// sedang membawa selusin laporan.
+const STATUS_ANTRE = ['pending', 'queued', 'waiting', 'requested'];
 
 const kepala = (token) => ({
   Accept: 'application/vnd.github+json',
@@ -90,6 +134,18 @@ async function putaranTerakhir(berkas, token) {
   if (!r.ok) throw new Error('daftar putaran ' + berkas + ': HTTP ' + r.status);
   const j = await r.json();
   return (j.workflow_runs || [])[0] || null;
+}
+
+// Apakah ada putaran di repo ini yang sedang menunggu giliran?
+async function adaYangAntre(token) {
+  for (const s of STATUS_ANTRE) {
+    const r = await fetch(API + '/repos/' + REPO + '/actions/runs?status=' + s + '&per_page=1',
+      { headers: kepala(token) });
+    if (!r.ok) throw new Error('daftar antrean ' + s + ': HTTP ' + r.status);
+    const j = await r.json();
+    if ((j.total_count || 0) > 0) return s;
+  }
+  return null;
 }
 
 async function picu(berkas, token) {
@@ -129,40 +185,70 @@ export default async function handler(req, res) {
   // memastikan token dan ambangnya benar sebelum dibiarkan jalan sendiri.
   const kering = String(req.query?.kering || '') === '1';
 
+  const sekarang = new Date();
+
+  // TAHAP 1: periksa semua alur, BELUM memicu apa pun.
   const hasil = [];
   for (const a of ALUR) {
     try {
+      const ambang = a.jedaMaks(sekarang);
       const p = await putaranTerakhir(a.berkas, TOKEN);
       const jedaMenit = p
-        ? Math.round((Date.now() - new Date(p.created_at).getTime()) / 60000)
+        ? Math.round((sekarang.getTime() - new Date(p.created_at).getTime()) / 60000)
         : null;
       const sedangJalan = p && p.status !== 'completed';
 
-      let tindakan;
+      let tindakan, rasio = 0;
       if (sedangJalan) tindakan = 'lewati: masih jalan';
-      else if (jedaMenit === null) tindakan = 'picu: belum ada putaran sama sekali';
-      else if (jedaMenit < a.jedaMaks) tindakan = 'lewati: jeda ' + jedaMenit + ' mnt masih di bawah ' + a.jedaMaks;
-      else tindakan = 'picu: jeda ' + jedaMenit + ' mnt melewati ' + a.jedaMaks;
-
-      const perluPicu = tindakan.startsWith('picu');
-      if (perluPicu && !kering) await picu(a.berkas, TOKEN);
+      else if (jedaMenit === null) { tindakan = 'layak dipicu: belum ada putaran sama sekali'; rasio = Infinity; }
+      else if (jedaMenit < ambang) tindakan = 'lewati: jeda ' + jedaMenit + ' mnt masih di bawah ' + ambang;
+      else { tindakan = 'layak dipicu: jeda ' + jedaMenit + ' mnt melewati ' + ambang; rasio = jedaMenit / ambang; }
 
       hasil.push({
-        alur: a.berkas,
-        jedaMenit,
+        alur: a.berkas, jedaMenit, ambang,
         statusTerakhir: p ? (p.conclusion || p.status) : null,
-        tindakan: perluPicu && kering ? tindakan + ' (KERING, tidak dipicu)' : tindakan,
+        tindakan, rasio,
       });
     } catch (e) {
       // Satu alur bermasalah tidak boleh menjatuhkan pemeriksaan alur lain.
-      hasil.push({ alur: a.berkas, galat: String(e.message).slice(0, 200) });
+      hasil.push({ alur: a.berkas, galat: String(e.message).slice(0, 200), rasio: 0 });
+    }
+  }
+
+  // TAHAP 2: memicu PALING BANYAK SATU alur per panggilan.
+  //
+  // Memicu dua alur dalam satu panggilan berarti keduanya masuk slot tunggu
+  // grup concurrency yang sama, dan yang kedua membatalkan yang pertama (lihat
+  // STATUS_ANTRE). Yang dipilih yang paling telat RELATIF terhadap ambangnya,
+  // bukan yang jedanya terpanjang: pasar.yml telat 60 menit di jam bursa
+  // (1,5x ambang 40) lebih mendesak daripada idx.yml telat 150 menit (1,03x
+  // ambang 145), karena ticker-nya terpampang di seluruh halaman. Alur lain
+  // yang juga telat diambil panggilan berikutnya, 30 menit kemudian.
+  let dipicu = null, alasanTahan = null;
+  const calon = hasil.filter(h => h.rasio > 0).sort((a, b) => b.rasio - a.rasio)[0];
+  if (calon) {
+    try {
+      const antre = await adaYangAntre(TOKEN);
+      if (antre) {
+        alasanTahan = 'ada putaran berstatus ' + antre + ' di slot tunggu; memicu sekarang akan membatalkannya';
+      } else if (kering) {
+        alasanTahan = 'KERING: tidak dipicu';
+      } else {
+        await picu(calon.alur, TOKEN);
+        dipicu = calon.alur;
+      }
+    } catch (e) {
+      calon.galat = String(e.message).slice(0, 200);
     }
   }
 
   const adaGalat = hasil.some(h => h.galat);
   return res.status(adaGalat ? 500 : 200).json({
     ok: !adaGalat,
-    waktu: new Date().toISOString(),
-    hasil,
+    waktu: sekarang.toISOString(),
+    jamBursa: jamBursa(sekarang),
+    dipicu,
+    ...(alasanTahan ? { ditahan: calon.alur + ' - ' + alasanTahan } : {}),
+    hasil: hasil.map(({ rasio, ...h }) => h),
   });
 }

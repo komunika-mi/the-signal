@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "PTVe3F8goO8",
+  "title": "SPBU di Barito Utara Dipenuhi Antrean Panjang Kendaraan",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean panjang kendaraan terjadi setiap hari di sejumlah SPBU Kabupaten Barito Utara, Kalimantan Tengah, akibat kelangkaan pasokan BBM.",
+  "takeaway": "Menunjukkan dampak gangguan distribusi BBM di daerah terhadap mobilitas dan aktivitas ekonomi warga."
+ },
+ {
+  "id": "UUUgB3qscSA",
+  "title": "BPH Migas Pastikan Stok BBM Bersubsidi Aman",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "BPH Migas menjamin stok BBM bersubsidi maupun non subsidi tersedia dan terkendali, di tengah antrean panjang yang terjadi selama sepekan terakhir.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kepastian pasokan energi yang berpengaruh pada aktivitas ekonomi sehari-hari."
+ },
+ {
   "id": "VrZC6qrtlNA",
   "title": "Presiden Prabowo Rombak Kabinet, Menkeu Purbaya Diganti Suahasil",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kementerian Perindustrian memberi penjelasan soal wacana pengembangan mobil nasional di tengah sorotan terhadap kinerja industri otomotif dalam negeri.",
   "takeaway": "Kebijakan mobil nasional menyangkut arah investasi dan daya saing industri manufaktur otomotif Indonesia."
- },
- {
-  "id": "rNODfrvnFgg",
-  "title": "GAIKINDO dan Fitra Eri Soroti Pajak Mobil Baru",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Sekjen GAIKINDO bersama pengamat otomotif Fitra Eri membahas dampak kebijakan pajak kendaraan baru terhadap penjualan mobil di Indonesia.",
-  "takeaway": "Kebijakan pajak kendaraan bermotor berpengaruh langsung pada harga jual dan daya beli konsumen otomotif."
- },
- {
-  "id": "NmEOqz-HfJY",
-  "title": "Mobil Listrik vs BBM, Ini Perbandingan Biayanya",
-  "category": "Industri",
-  "program": "Indonesia Business Forum",
-  "summary": "Suryo Pratomo membandingkan harga dan biaya operasional mobil listrik dengan mobil berbahan bakar minyak di tengah pergeseran pasar otomotif.",
-  "takeaway": "Perbandingan biaya ini membantu pembaca menilai arah transisi pasar kendaraan dan dampaknya bagi industri energi."
  }
 ];

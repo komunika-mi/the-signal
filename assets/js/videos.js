@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "PTVe3F8goO8",
+  "title": "SPBU di Barito Utara Dipenuhi Antrean Panjang Kendaraan",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "Antrean panjang kendaraan terjadi setiap hari di sejumlah SPBU Kabupaten Barito Utara, Kalimantan Tengah, akibat kelangkaan pasokan BBM.",
+  "takeaway": "Menunjukkan dampak gangguan distribusi BBM di daerah terhadap mobilitas dan aktivitas ekonomi warga.",
+  "terbit": "2026-09-14T10:40:51+00:00"
+ },
+ {
+  "id": "UUUgB3qscSA",
+  "title": "BPH Migas Pastikan Stok BBM Bersubsidi Aman",
+  "category": "Energi",
+  "program": "Kabar Petang",
+  "summary": "BPH Migas menjamin stok BBM bersubsidi maupun non subsidi tersedia dan terkendali, di tengah antrean panjang yang terjadi selama sepekan terakhir.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kepastian pasokan energi yang berpengaruh pada aktivitas ekonomi sehari-hari.",
+  "terbit": "2026-09-14T10:34:50+00:00"
+ },
+ {
   "id": "VrZC6qrtlNA",
   "title": "Presiden Prabowo Rombak Kabinet, Menkeu Purbaya Diganti Suahasil",
   "category": "Makroekonomi",

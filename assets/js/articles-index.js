@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru",
+  "category": "Pasar Modal",
+  "title": "IHSG [Berbalik] Usai Suahasil Nazara Jadi Menkeu Baru",
+  "deck": "IHSG sempat anjlok 2,5 persen sebelum ditutup melemah tipis 0,10 persen ke 6.534,69, bertepatan dengan pelantikan Suahasil Nazara sebagai Menteri Keuangan.",
+  "date": "14 September 2026",
+  "image": "assets/img/ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru.jpg",
+  "imageV": "mu16dmro",
+  "tags": [
+   "IHSG",
+   "Suahasil Nazara",
+   "Menteri Keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467056-sempat-anjlok-25-ihsg-berbalik-arah-usai-suahasil-nazara-dilantik-jadi-menkeu"
+ },
+ {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
   "category": "Aksi Korporasi",
   "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
@@ -19,6 +36,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b2dedab3f_19829e9d0a.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi",
+  "category": "BUMN",
+  "title": "Telkom Solution Sabet [Penghargaan] B2B ICT dari KGI",
+  "deck": "Telkom Solution, unit B2B ICT Telkom Indonesia, meraih penghargaan Business Impact & Industry Growth dari Kabar Group Indonesia atas kontribusinya pada kinerja bisnis pelanggan enterprise dan BUMN.",
+  "date": "14 September 2026",
+  "image": "assets/img/telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi.jpg",
+  "imageV": "mu16dn78",
+  "tags": [
+   "Telkom Solution",
+   "BUMN",
+   "ICT",
+   "Digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467051-telkom-solution-sabet-penghargaan-business-impact-industry-growth-untuk-market-b2b-ict-di-indonesia"
  },
  {
   "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
@@ -6460,38 +6494,6 @@ var ARTICLES = [
    "Garuda Maintenance Facility"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-1844-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inpp-cgs-international-lepas-seluruh-saham-hak-suara-ke-nol",
-  "category": "Aksi Korporasi",
-  "title": "INPP: CGS International [lepas] seluruh saham, hak suara ke nol",
-  "deck": "CGS International Securities Singapore Pte Ltd melepas seluruh 872,3 juta saham INPP yang dimilikinya, memutus hak suara dari 7,80 persen menjadi nol per transaksi 2 September 2026.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "kepemilikan saham",
-   "CGS International",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07092026-7898-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mpix-jelaskan-lonjakan-saham-14-56-ke-bursa-ungkap-akuisisi-mca",
-  "category": "Aksi Korporasi",
-  "title": "MPIX Jelaskan [Lonjakan] Saham 14,56% ke Bursa, Ungkap Akuisisi MCA",
-  "deck": "Bursa minta MPIX jelaskan lonjakan volume dan harga saham 14,56% pada 28 Agustus 2026; Perseroan sebut tak ada informasi material baru.",
-  "date": "7 September 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MPIX",
-   "volatilitas saham",
-   "MPStore",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/739e68b7de_d1e6e956d9.pdf",
   "sourceLabel": "IDX"
  }
 ];

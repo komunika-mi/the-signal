@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru",
+  "category": "Pasar Modal",
+  "title": "IHSG [Berbalik] Usai Suahasil Nazara Jadi Menkeu Baru",
+  "deck": "IHSG sempat anjlok 2,5 persen sebelum ditutup melemah tipis 0,10 persen ke 6.534,69, bertepatan dengan pelantikan Suahasil Nazara sebagai Menteri Keuangan.",
+  "image": "assets/img/ihsg-berbalik-usai-suahasil-nazara-jadi-menkeu-baru.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:57:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467056-sempat-anjlok-25-ihsg-berbalik-arah-usai-suahasil-nazara-dilantik-jadi-menkeu",
+  "tags": [
+   "IHSG",
+   "Suahasil Nazara",
+   "Menteri Keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) di Bursa Efek Indonesia sempat anjlok hingga 2,5 persen pada perdagangan Senin, sebelum akhirnya memangkas sebagian besar pelemahan dan ditutup turun tipis 0,10 persen atau 6,63 poin ke level 6.534,69. Pergerakan ini terjadi bersamaan dengan pelantikan Suahasil Nazara sebagai Menteri Keuangan, menggantikan Purbaya Yudhi Sadewa, oleh Presiden Prabowo Subianto di Istana Negara, Jakarta.",
+   "Berbeda dari IHSG yang melemah, indeks LQ45 yang berisi 45 saham perusahaan besar justru naik 9,31 poin atau 1,43 persen ke 659,03. Pengamat Pasar Modal Elandry Pratama menilai kenaikan ini mencerminkan respons positif pelaku pasar terhadap sosok Suahasil, yang dianggap sudah lama berkecimpung dalam pengelolaan fiskal dan memahami struktur Kementerian Keuangan.",
+   "Elandry mengingatkan bahwa pergerakan IHSG hari itu tidak bisa sepenuhnya dikaitkan dengan pergantian menteri, karena sentimen pasar juga dipengaruhi perkembangan global dan pergerakan harga komoditas. Ke depan, investor disebut akan lebih mencermati arah kebijakan fiskal Suahasil, terutama soal disiplin fiskal, defisit APBN, pengelolaan utang, serta koordinasi antara kebijakan fiskal dan moneter.",
+   "Pengangkatan Suahasil sebagai Menteri Keuangan mengacu pada Keputusan Presiden Nomor 97P Tahun 2026 tentang Pemberhentian dan Pengangkatan Menteri Keuangan Kabinet Merah Putih Sisa Jabatan 2024-2029, yang ditetapkan Presiden Prabowo Subianto pada 14 September 2026."
+  ],
+  "fotoAdegan": "Traders on a busy Jakarta stock exchange floor glancing at distant blurred digital ticker boards, brisk movement, dim ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/20/6a5d8d0465745-bursa-efek-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini adalah pucuk pimpinan Kementerian Keuangan: Suahasil Nazara dilantik menggantikan Purbaya Yudhi Sadewa, dan pasar saham sempat gugup sebelum akhirnya tenang. IHSG, ukuran rata-rata harga seluruh saham di Bursa Efek Indonesia, sempat anjlok 2,5 persen begitu pelantikan berlangsung tapi cuma berakhir turun 0,10 persen, sementara indeks LQ45 yang berisi 45 saham perusahaan besar malah naik 1,43 persen. Ini kena langsung ke pemegang saham dan pelaku pasar modal, karena kenaikan LQ45 menunjukkan investor besar memilih memburu saham-saham besar alih-alih menjauhinya, tanda mereka percaya kebijakan fiskal, yaitu cara pemerintah mengatur pemasukan dan belanja negara lewat APBN, tidak akan berubah drastis di tangan menteri baru. Tapi analis yang dikutip berita ini sendiri mengingatkan bahwa gerakan pasar hari ini juga dipengaruhi sentimen global dan harga komoditas, bukan semata soal pergantian menteri, sehingga kepercayaan pasar ini belum bisa dipastikan solid. Yang akan menjawabnya adalah kebijakan konkret pertama Suahasil soal defisit APBN dan pengelolaan utang negara, dua isu yang menurut analis itu akan paling dicermati investor selanjutnya.",
+  "imageV": "mu16dmro"
+ },
+ {
   "slug": "rupslb-kota-bahas-rights-issue-dan-akuisisi-dua-perusahaan",
   "category": "Aksi Korporasi",
   "title": "RUPSLB KOTA Bahas [Rights Issue] dan Akuisisi Dua Perusahaan",
@@ -28,6 +55,33 @@ var ARTICLES = [
   "fotoAdegan": "Aerial view of a partially developed plot of land on the outskirts of a growing Indonesian city, construction equipment parked nearby, late afternoon light",
   "takeaway": "Laporan ini bersifat netral karena RUPSLB baru meminta persetujuan prinsip atas rights issue dan akuisisi, tanpa mengungkap harga saham baru, rasio penawaran, atau nilai transaksi akuisisi PT Art Design Indonesia dan PT Mandirinusa Graha Perkasa, sehingga besaran dampaknya ke pemegang saham belum bisa diukur. Yang tersentuh nanti adalah jumlah saham beredar, karena penerbitan saham Seri B baru lewat rights issue berpotensi mengencerkan laba per saham bagi pemegang lama yang tidak ikut menyerap haknya, sementara dana yang terkumpul akan dipakai membiayai akuisisi dua perusahaan tadi. Realokasi dana IPO, dari pos modal kerja ke pembelian lahan, juga menunjukkan Perseroan mengarahkan kas ke ekspansi properti fisik alih-alih operasional harian. Yang perlu dipantau adalah RUPSLB itu sendiri pada 6 Oktober 2026, serta keterbukaan lanjutan soal harga dan rasio rights issue yang biasanya menyusul setelah RUPSLB menyetujui rencana ini. Pemegang saham yang ingin memberi kuasa elektronik lewat eASY.KSEI harus melakukannya paling lambat Senin, 5 Oktober 2026 pukul 12.00 WIB.",
   "sentimen": "netral"
+ },
+ {
+  "slug": "telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi",
+  "category": "BUMN",
+  "title": "Telkom Solution Sabet [Penghargaan] B2B ICT dari KGI",
+  "deck": "Telkom Solution, unit B2B ICT Telkom Indonesia, meraih penghargaan Business Impact & Industry Growth dari Kabar Group Indonesia atas kontribusinya pada kinerja bisnis pelanggan enterprise dan BUMN.",
+  "image": "assets/img/telkom-solution-sabet-penghargaan-b2b-ict-dari-kgi.jpg",
+  "date": "14 September 2026",
+  "isoDate": "2026-09-14T17:15:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/467051-telkom-solution-sabet-penghargaan-business-impact-industry-growth-untuk-market-b2b-ict-di-indonesia",
+  "tags": [
+   "Telkom Solution",
+   "BUMN",
+   "ICT",
+   "Digital"
+  ],
+  "body": [
+   "Telkom Solution, unit bisnis B2B untuk layanan teknologi informasi dan komunikasi (ICT) milik PT Telkom Indonesia (Persero) Tbk, meraih penghargaan kategori Business Impact & Industry Growth dari Kabar Group Indonesia (KGI). Penghargaan ini diberikan atas kontribusi Telkom Solution dalam menghadirkan solusi digital yang dinilai mendorong kinerja bisnis pelanggan sekaligus mempercepat pertumbuhan industri di dalam negeri. Bagi Telkom Indonesia, ini menjadi pengakuan eksternal atas posisi unit B2B mereka di tengah persaingan penyedia layanan ICT korporat.",
+   "Sebagai bagian dari peran sebagai mitra transformasi digital, Telkom Solution menawarkan portofolio layanan yang mencakup konektivitas, keamanan siber, komputasi awan, pusat data, hingga kecerdasan buatan. Layanan ini ditujukan untuk pelanggan korporat, badan usaha milik negara, dan sektor swasta, dengan penyesuaian sesuai karakteristik masing-masing industri. Menurut perusahaan, kapabilitas tersebut dirancang agar pelanggan dapat mengoptimalkan pemanfaatan teknologi dalam menghadapi tantangan bisnis, mulai dari efisiensi operasional hingga penciptaan nilai jangka panjang.",
+   "Direktur Enterprise & Business Service Telkom, Veranita Yosephine, menyatakan penghargaan tersebut menjadi dorongan bagi perusahaan untuk memperkuat perannya sebagai mitra strategis pelanggan. \"Penghargaan ini menjadi apresiasi sekaligus motivasi bagi kami untuk terus memberikan solusi yang relevan dengan kebutuhan pelanggan. Bagi kami, dampak bisnis menjadi salah satu ukuran penting dalam menghadirkan setiap solusi, sehingga teknologi yang kami hadirkan tidak berhenti pada pemanfaatan teknologi, tetapi mampu memberikan value creation bagi pelanggan dan industri,\" ujar Veranita.",
+   "Veranita menambahkan bahwa perubahan lanskap bisnis dan teknologi mendorong Telkom Solution untuk terus mengembangkan kapabilitas digital yang relevan dengan kebutuhan pasar. Perusahaan menyebut strategi ini ditujukan membantu pelanggan enterprise, BUMN, dan swasta meningkatkan daya saing di tengah persaingan industri ICT yang terus berkembang."
+  ],
+  "fotoAdegan": "Technicians checking server racks with blinking status lights inside a modern data center, cool blue ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/14/6aa7c8997dcd7-vp-enterprise-marketing-growth-telkom-reni-yustiani-menerima-penghargaan-business-impact-industry-growth-untuk-telkom-solution-dari-kabar-group-indonesia-kgi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan eksternal berupa penghargaan, bukan angka kinerja yang bisa diverifikasi sendiri. Telkom Solution menerima penilaian dari penyelenggara acara, Kabar Group Indonesia, tapi berita ini tidak menyebut berapa pendapatan, jumlah klien, atau pertumbuhan bisnis B2B ICT yang mendasari penilaian tersebut. Yang berkepentingan adalah unit bisnis enterprise Telkom sendiri, serta calon klien korporat dan BUMN yang mungkin mempertimbangkan rekam jejak semacam ini saat memilih penyedia layanan ICT. Untuk mengetahui apakah pengakuan ini sejalan dengan pertumbuhan bisnis yang nyata, perlu dicek angka konkret berikutnya, misalnya kontribusi segmen enterprise terhadap pendapatan Telkom Indonesia yang biasanya diungkap dalam laporan keuangan kuartalan perusahaan.",
+  "imageV": "mu16dn78"
  },
  {
   "slug": "koci-jelaskan-ke-bursa-rencana-penuhi-free-float-minimum",
